@@ -1,7 +1,7 @@
-# adulteresses
+# Adulteresses
 
 ---
-## Noun #noun
+#noun
 - **A female [[adulterer]], a married woman or wife who commits [[adultery]].**
 ---
 

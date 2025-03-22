@@ -1,10 +1,10 @@
-# amassing
+# Amassing
 
 ---
-## Verb #verb
+#verb
 - **To collect into a mass or heap.**
 - **To gather a great quantity of; to [[accumulate]].**
-  - _Example: to amass a treasure or a fortune_
+ - _Example: to amass a treasure or a fortune_
 ---
 
 ### Synonyms

@@ -1,7 +1,7 @@
-# afflictive
+# Afflictive
 
 ---
-## Adjective #adjective
+#adjective
 - **That causes physical or mental pain.**
 ---
 

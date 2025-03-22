@@ -1,7 +1,7 @@
-# afterdecks
+# Afterdecks
 
 ---
-## Noun #noun
+#noun
 - **The part of a ship's deck from [[amidships]] toward the stern**
 ---
 

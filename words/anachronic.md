@@ -1,7 +1,7 @@
-# anachronic
+# Anachronic
 
 ---
-## Adjective #adjective
+#adjective
 - **Not in the correct date order. Chronologically incorrect.**
 ---
 

@@ -1,7 +1,7 @@
-# abo
+# Abo
 
 ---
-## Noun #noun
+#noun
 - **An [[aborigine]]; [[aboriginal]].**
 ---
 

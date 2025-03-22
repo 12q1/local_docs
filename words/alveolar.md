@@ -1,14 +1,14 @@
-# alveolar
+# Alveolar
 
 ---
-## Noun #noun
+#noun
 - **An [[alveolar]] consonant**
 ---
 
 ### Synonyms
 - [[gingival]]
 
-## Adjective #adjective
+#adjective
 - **Of or relating to an [[alveolus]].**
 - **Relating to the jaw ridge containing the tooth sockets.**
 - **Relating to the [[alveoli]] (small [[air]] sacs) of the lungs.**

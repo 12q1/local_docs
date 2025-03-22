@@ -1,9 +1,9 @@
-# actually
+# Actually
 
 ---
-## Adverb #adverb
+#adverb
 - **(modal) In [[act]] or in fact; really; in truth; positively.**
-  - _Example: Actually, I had nothing to do with that incident._
+ - _Example: Actually, I had nothing to do with that incident._
 - **Actively.**
 ---
 

@@ -1,7 +1,7 @@
-# akelas
+# Akelas
 
 ---
-## Noun #noun
+#noun
 - **The leader of a pack of Cub Scouts.**
 ---
 

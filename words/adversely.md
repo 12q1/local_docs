@@ -1,7 +1,7 @@
-# adversely
+# Adversely
 
 ---
-## Adverb #adverb
+#adverb
 - **In an [[adverse]] manner.**
 ---
 

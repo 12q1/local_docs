@@ -1,7 +1,7 @@
-# abominations
+# Abominations
 
 ---
-## Noun #noun
+#noun
 - **An [[abominable]] [[act]]; a disgusting vice; a despicable habit.**
 - **The feeling of extreme disgust and hatred**
 - **A state that excites detestation or [[abhorrence]]; pollution.**

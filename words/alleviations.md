@@ -1,9 +1,9 @@
-# alleviations
+# Alleviations
 
 ---
-## Noun #noun
+#noun
 - **The [[act]] of [[alleviating]]; relief or mitigation.**
-- **The [[act]] of reducing pain or anything else unpleasant; easement**
+- **The [[act]] of reducing pain or [[anything]] else unpleasant; easement**
 ---
 
 ---

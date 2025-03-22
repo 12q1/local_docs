@@ -1,7 +1,7 @@
-# agnatha
+# Agnatha
 
 ---
-## Noun #noun
+#noun
 - **An agnathan.**
 ---
 

@@ -1,7 +1,7 @@
-# absolutize
+# Absolutize
 
 ---
-## Verb #verb
+#verb
 - **To make [[absolute]].**
 ---
 

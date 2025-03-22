@@ -1,7 +1,7 @@
-# adventitia
+# Adventitia
 
 ---
-## Noun #noun
+#noun
 - **The outermost layer of epithelial tissue encasing a visceral organ.**
 ---
 

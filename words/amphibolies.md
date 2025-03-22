@@ -1,7 +1,7 @@
-# amphibolies
+# Amphibolies
 
 ---
-## Noun #noun
+#noun
 - **(grammar) An [[ambiguous]] grammatical construction.**
 ---
 

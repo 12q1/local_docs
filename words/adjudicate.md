@@ -1,7 +1,7 @@
-# adjudicate
+# Adjudicate
 
 ---
-## Verb #verb
+#verb
 - **To settle a legal case or other dispute.**
 - **To [[act]] as a judge.**
 ---

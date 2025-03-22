@@ -1,7 +1,7 @@
-# alkalise
+# Alkalise
 
 ---
-## Verb #verb
+#verb
 - **To cause to become [[alkaline]], more basic and less [[acidic]].**
 ---
 

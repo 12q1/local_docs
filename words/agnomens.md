@@ -1,7 +1,7 @@
-# agnomens
+# Agnomens
 
 ---
-## Noun #noun
+#noun
 - **An [[additional]] cognomen given, as an honour, to a Roman citizen.**
 ---
 

@@ -1,7 +1,7 @@
-# aesthetically
+# Aesthetically
 
 ---
-## Adverb #adverb
+#adverb
 - **In an [[aesthetic]] manner; with a pleasing sensory effect.**
 ---
 

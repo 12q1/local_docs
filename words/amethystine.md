@@ -1,7 +1,7 @@
-# amethystine
+# Amethystine
 
 ---
-## Adjective #adjective
+#adjective
 - **Like [[amethyst]], especially in colour.**
 ---
 

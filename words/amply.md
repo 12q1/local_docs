@@ -1,7 +1,7 @@
-# amply
+# Amply
 
 ---
-## Adverb #adverb
+#adverb
 - **In an [[ample]] manner.**
 ---
 

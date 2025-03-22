@@ -1,12 +1,12 @@
-# alarum
+# Alarum
 
 ---
-## Noun #noun
+#noun
 - **A danger signal or warning.**
 - **A call to arms.**
 ---
 
-## Verb #verb
+#verb
 - **To sound [[alarums]], to sound an [[alarm]].**
 ---
 

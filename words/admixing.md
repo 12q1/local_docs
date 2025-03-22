@@ -1,7 +1,7 @@
-# admixing
+# Admixing
 
 ---
-## Verb #verb
+#verb
 - **To mingle with something else; to mix.**
 ---
 

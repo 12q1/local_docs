@@ -1,7 +1,7 @@
-# aforenamed
+# Aforenamed
 
 ---
-## Adjective #adjective
+#adjective
 - **Named earlier in a document.**
 ---
 

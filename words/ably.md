@@ -1,7 +1,7 @@
-# ably
+# Ably
 
 ---
-## Adverb #adverb
+#adverb
 - **In an [[able]] manner; with great [[ability]].**
 ---
 

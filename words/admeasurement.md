@@ -1,7 +1,7 @@
-# admeasurement
+# Admeasurement
 
 ---
-## Noun #noun
+#noun
 - **Apportionment.**
 ---
 

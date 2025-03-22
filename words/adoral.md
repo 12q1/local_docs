@@ -1,7 +1,7 @@
-# adoral
+# Adoral
 
 ---
-## Adjective #adjective
+#adjective
 - **Located near the mouth.**
 ---
 

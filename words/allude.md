@@ -1,7 +1,7 @@
-# allude
+# Allude
 
 ---
-## Verb #verb
+#verb
 - **To refer to something indirectly or by suggestion.**
 ---
 

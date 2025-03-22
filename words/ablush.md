@@ -1,11 +1,11 @@
-# ablush
+# Ablush
 
 ---
-## Adjective #adjective
+#adjective
 - **Blushing; ruddy.**
 ---
 
-## Adverb #adverb
+#adverb
 - **Blushing; ruddy.**
 ---
 

@@ -1,7 +1,7 @@
-# acidly
+# Acidly
 
 ---
-## Adverb #adverb
+#adverb
 - **Sourly; tartly**
 ---
 

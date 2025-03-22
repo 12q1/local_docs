@@ -1,7 +1,7 @@
-# aided
+# Aided
 
 ---
-## Verb #verb
+#verb
 - **To provide support to; to further the progress of; to help; to assist.**
 - **To climb with the use of [[aids]] such as pitons.**
 ---

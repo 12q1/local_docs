@@ -1,13 +1,13 @@
-# accessorial
+# Accessorial
 
 ---
-## Noun #noun
+#noun
 - **(logistics) An assessorial charge.**
 ---
 
-## Adjective #adjective
+#adjective
 - **Of or pertaining to an [[accessory]], e.g. to a crime.**
-  - _Example: accessorial agency; accessorial guilt_
+ - _Example: accessorial agency; accessorial guilt_
 - **Of or relating to an [[accession]].**
 - **(logistics) Assessorial.**
 ---

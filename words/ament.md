@@ -1,7 +1,7 @@
-# ament
+# Ament
 
 ---
-## Noun #noun
+#noun
 - **A catkin or [[amentum]].**
 ---
 

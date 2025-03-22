@@ -1,7 +1,7 @@
-# abominably
+# Abominably
 
 ---
-## Adverb #adverb
+#adverb
 - **In an [[abominable]] manner; very odiously; detestably.**
 ---
 

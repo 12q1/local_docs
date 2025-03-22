@@ -1,7 +1,7 @@
-# actable
+# Actable
 
 ---
-## Adjective #adjective
+#adjective
 - **Able to be [[acted]], as by an [[actor]].**
 ---
 

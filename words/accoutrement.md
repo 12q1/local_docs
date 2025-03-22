@@ -1,7 +1,7 @@
-# accoutrement
+# Accoutrement
 
 ---
-## Noun #noun
+#noun
 - **The [[act]] of [[accoutering]].**
 - **An article of clothing or equipment, in particular when used as an [[accessory]].**
 - **Apparatus needed for a task or journey.**

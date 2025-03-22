@@ -1,7 +1,7 @@
-# alkalosis
+# Alkalosis
 
 ---
-## Noun #noun
+#noun
 - **An [[abnormally]] increased [[alkalinity]] in the blood.**
 ---
 

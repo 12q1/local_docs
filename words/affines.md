@@ -1,7 +1,7 @@
-# affines
+# Affines
 
 ---
-## Noun #noun
+#noun
 - **(genealogy) A relative by marriage, an in-law.**
 ---
 

@@ -1,0 +1,9 @@
+# Antitrust
+
+---
+#adjective
+- **Opposed to or [[against]] the establishment or existence of trusts (monopolies), usually referring to legislation.**
+ - _Example: The regulators used antitrust laws to block the merger, believing it would eliminate competition._
+---
+
+---

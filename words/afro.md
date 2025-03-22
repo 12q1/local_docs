@@ -1,7 +1,7 @@
-# afro
+# Afro
 
 ---
-## Noun #noun
+#noun
 - **A hairstyle characterized by a tightly curled locks and a rounded shape.**
 ---
 

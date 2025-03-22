@@ -1,12 +1,12 @@
-# allure
+# Allure
 
 ---
-## Noun #noun
+#noun
 - **The power to attract, entice; the quality causing attraction.**
 - **Gait; bearing**
 ---
 
-## Verb #verb
+#verb
 - **To entice; to attract.**
 ---
 

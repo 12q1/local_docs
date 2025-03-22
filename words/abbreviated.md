@@ -1,7 +1,7 @@
-# abbreviated
+# Abbreviated
 
 ---
-## Verb #verb
+#verb
 - **To shorten by omitting parts or details.**
 - **To speak or write in a brief manner.**
 - **To make shorter; to shorten (in time); to [[abridge]]; to shorten by ending sooner than planned.**
@@ -15,9 +15,9 @@
 ### Antonyms
 - [[amplify]], [[dilate]], [[elongate]], [[enlarge]], [[expand]], [[expatiate]], [[extend]], [[lengthen]], [[produce]], [[prolong]], [[stretch]]
 
-## Adjective #adjective
+#adjective
 - **Shortened; made briefer.**
-  - _Example: The abbreviated lesson only took fifteen minutes as opposed to an hour and a half._
+ - _Example: The abbreviated lesson only took fifteen minutes as opposed to an hour and a half._
 - **Relatively short; shorter than normal, or compared to others.**
 - **Scanty, as in clothing.**
 ---

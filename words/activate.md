@@ -1,7 +1,7 @@
-# activate
+# Activate
 
 ---
-## Verb #verb
+#verb
 - **To encourage development or induce increased [[activity]]; to stimulate.**
 - **To put a device, mechanism ([[alarm]] etc.) or system into [[action]] or motion; to trigger, to [[actuate]], to set off, to enable.**
 - **To render more reactive; excite.**

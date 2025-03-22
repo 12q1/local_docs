@@ -1,38 +1,38 @@
-# against
+# Against
 
 ---
-## Preposition #preposition
+#preposition
 - **In a contrary direction to.**
-  - _Example: It is hard work to swim against the current._
+ - _Example: It is hard work to swim against the current._
 - **In physical opposition to; in collision with.**
-  - _Example: The rain pounds against the window._
+ - _Example: The rain pounds against the window._
 - **In physical contact with, so as to [[abut]] or be supported by.**
-  - _Example: The kennel was put against the back wall._
+ - _Example: The kennel was put against the back wall._
 - **Close to, [[alongside]].**
-  - _Example: A row of trees stood against a fence._
+ - _Example: A row of trees stood against a fence._
 - **In front of; before (a background).**
-  - _Example: The giant was silhouetted against the door._
+ - _Example: The giant was silhouetted against the door._
 - **In contrast or comparison with.**
-  - _Example: He stands out against his classmates._
+ - _Example: He stands out against his classmates._
 - **In competition with, versus.**
-  - _Example: The Tigers will play against the Bears this weekend._
+ - _Example: The Tigers will play against the Bears this weekend._
 - **Contrary to; in conflict with.**
-  - _Example: Doing this is against my principles._
+ - _Example: Doing this is against my principles._
 - **In opposition to.**
-  - _Example: Are you against freedom of choice?_
+ - _Example: Are you against freedom of choice?_
 - **Of betting odds, denoting a worse-than-even chance.**
-  - _Example: That horse is fifty-to-one against, so it has virtually no chance of winning._
+ - _Example: That horse is fifty-to-one against, so it has virtually no chance of winning._
 - **In exchange for.**
-  - _Example: The vouchers are redeemable against West End shows and theatre breaks._
+ - _Example: The vouchers are redeemable against West End shows and theatre breaks._
 - **As counterbalance to.**
 - **As a charge on.**
-  - _Example: Tax is levied against income from sales._
+ - _Example: Tax is levied against income from sales._
 - **As protection from.**
-  - _Example: He turned the umbrella against the wind._
-- **In anticipation of; in preparation for (a particular time, event etc.).**
-  - _Example: The stores are kept well stocked against a time of need._
+ - _Example: He turned the umbrella against the wind._
+- **In [[anticipation]] of; in preparation for (a particular time, event etc.).**
+ - _Example: The stores are kept well stocked against a time of need._
 - **(Hollywood) To be paid now in contrast to the following [[amount]] to be paid later under specified circumstances, usually that a movie is made or has started filming.**
-  - _Example: The studio weren't sure the movie would ever get made, so they only paid $50,000 against $200,000. That way they wouldn't be out very much if filming never began._
+ - _Example: The studio weren't sure the movie would ever get made, so they only paid $50,000 against $200,000. That way they wouldn't be out very much if filming never began._
 - **Exposed to.**
 ---
 
@@ -42,7 +42,7 @@
 ### Antonyms
 - [[for]], [[on]], [[with]]
 
-## Conjunction #conjunction
+#conjunction
 - **By the time that (something happened); before.**
 ---
 

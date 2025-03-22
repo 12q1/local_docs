@@ -1,7 +1,7 @@
-# abraded
+# Abraded
 
 ---
-## Verb #verb
+#verb
 - **To rub or wear off; erode.**
 - **To wear down or exhaust, as a person; irritate.**
 - **To irritate by rubbing; chafe.**
@@ -9,7 +9,7 @@
 - **To undergo [[abrasion]].**
 ---
 
-## Verb #verb
+#verb
 - **To wrench (something) out.**
 - **To wake up.**
 - **To spring, start, make a sudden movement.**

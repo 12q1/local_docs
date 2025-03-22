@@ -1,7 +1,7 @@
-# allowedly
+# Allowedly
 
 ---
-## Adverb #adverb
+#adverb
 - **Admittedly**
 ---
 

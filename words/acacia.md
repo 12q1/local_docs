@@ -1,7 +1,7 @@
-# acacia
+# Acacia
 
 ---
-## Noun #noun
+#noun
 - **A shrub or tree of the tribe Acacieae.**
 - **The thickened or dried juice of several species in Acacieae, in particular Vachellia nilotica (syn. Acacia nilotica), the Egyptian [[acacia]].**
 - **A false [[acacia]]; robinia tree, Robinia pseudoacacia.**

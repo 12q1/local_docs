@@ -1,7 +1,7 @@
-# achromic
+# Achromic
 
 ---
-## Adjective #adjective
+#adjective
 - **Uncoloured; not pigmented; lacking in colour.**
 ---
 

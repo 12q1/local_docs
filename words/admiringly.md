@@ -1,7 +1,7 @@
-# admiringly
+# Admiringly
 
 ---
-## Adverb #adverb
+#adverb
 - **In an [[admiring]] manner.**
 ---
 

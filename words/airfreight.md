@@ -1,12 +1,12 @@
-# airfreight
+# Airfreight
 
 ---
-## Noun #noun
+#noun
 - **The transportation of freight by [[air]].**
 - **The [[amount]] charged for such transport.**
 ---
 
-## Verb #verb
+#verb
 - **To transport by [[air]].**
 ---
 

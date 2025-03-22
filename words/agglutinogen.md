@@ -1,8 +1,8 @@
-# agglutinogen
+# Agglutinogen
 
 ---
-## Noun #noun
-- **Any antigen that stimulates the production of an [[agglutinin]]**
+#noun
+- **Any [[antigen]] that stimulates the production of an [[agglutinin]]**
 ---
 
 ---

@@ -1,7 +1,7 @@
-# adulatory
+# Adulatory
 
 ---
-## Adjective #adjective
+#adjective
 - **Exhibiting [[adulation]]; overly flattering.**
 ---
 

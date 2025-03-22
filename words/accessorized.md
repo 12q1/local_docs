@@ -1,14 +1,14 @@
-# accessorized
+# Accessorized
 
 ---
-## Verb #verb
+#verb
 - **To furnish with [[accessories]].**
 - **To wear or to choose [[accessories]].**
 ---
 
-## Adjective #adjective
+#adjective
 - **Wearing [[accessories]].**
-  - _Example: She was tastefully accessorized in matching scarf and gloves._
+ - _Example: She was tastefully accessorized in matching scarf and gloves._
 ---
 
 ---

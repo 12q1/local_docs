@@ -1,7 +1,7 @@
-# ablatives
+# Ablatives
 
 ---
-## Noun #noun
+#noun
 - **(grammar) The [[ablative]] case.**
 - **An [[ablative]] material.**
 ---

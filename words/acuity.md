@@ -1,7 +1,7 @@
-# acuity
+# Acuity
 
 ---
-## Noun #noun
+#noun
 - **Sharpness or [[acuteness]], as of a needle, wit, etc.**
 ---
 

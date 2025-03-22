@@ -1,7 +1,7 @@
-# amiably
+# Amiably
 
 ---
-## Adverb #adverb
+#adverb
 - **In an [[amiable]] manner; in a friendly or pleasant manner.**
 ---
 

@@ -1,7 +1,7 @@
-# ambulancing
+# Ambulancing
 
 ---
-## Verb #verb
+#verb
 - **To transport by [[ambulance]].**
 ---
 

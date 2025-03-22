@@ -1,7 +1,7 @@
-# admittance
+# Admittance
 
 ---
-## Noun #noun
+#noun
 - **The [[act]] of [[admitting]].**
 - **Permission to enter, the power or right of entrance.**
 - **Actual entrance, reception.**

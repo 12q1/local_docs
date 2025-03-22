@@ -1,7 +1,7 @@
-# amid
+# Amid
 
 ---
-## Preposition #preposition
+#preposition
 - **In the middle of; in the center of; surrounded by.**
 ---
 

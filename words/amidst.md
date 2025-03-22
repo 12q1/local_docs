@@ -1,7 +1,7 @@
-# amidst
+# Amidst
 
 ---
-## Preposition #preposition
+#preposition
 - **In the midst or middle of; surrounded or encompassed by; [[among]].**
 ---
 

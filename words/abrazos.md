@@ -1,7 +1,7 @@
-# abrazos
+# Abrazos
 
 ---
-## Noun #noun
+#noun
 - **A Latin American embrace.**
 ---
 

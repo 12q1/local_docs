@@ -1,11 +1,11 @@
-# accipitrine
+# Accipitrine
 
 ---
-## Noun #noun
+#noun
 - **A hawk or a hawk-like bird.**
 ---
 
-## Adjective #adjective
+#adjective
 - **Like or belonging to the Accipitres; raptorial; hawklike.**
 ---
 

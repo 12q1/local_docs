@@ -1,11 +1,11 @@
-# alkaloid
+# Alkaloid
 
 ---
-## Noun #noun
+#noun
 - **Any of many organic heterocyclic bases that occur in nature and often have medicinal properties.**
 ---
 
-## Adjective #adjective
+#adjective
 - **Relating to, resembling, or containing [[alkali]].**
 ---
 

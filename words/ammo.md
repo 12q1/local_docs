@@ -1,11 +1,11 @@
-# ammo
+# Ammo
 
 ---
-## Noun #noun
+#noun
 - **Ammunition.**
 ---
 
-## Verb #verb
+#verb
 - **To load up on [[ammunition]].**
 ---
 

@@ -1,11 +1,11 @@
-# alumnus
+# Alumnus
 
 ---
-## Noun #noun
+#noun
 - **A male pupil or student.**
 - **A male graduate.**
-- **A student of any gender.**
-- **A graduate of any gender.**
+- **A student of [[any]] gender.**
+- **A graduate of [[any]] gender.**
 ---
 
 ---

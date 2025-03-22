@@ -1,7 +1,7 @@
-# alternatively
+# Alternatively
 
 ---
-## Adverb #adverb
+#adverb
 - **In an [[alternative]] way**
 - **Used to link a pair of possibilities**
 ---

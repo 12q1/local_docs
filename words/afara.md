@@ -1,7 +1,7 @@
-# afara
+# Afara
 
 ---
-## Noun #noun
+#noun
 - **The limba tree.**
 ---
 

@@ -1,7 +1,7 @@
-# agrostology
+# Agrostology
 
 ---
-## Noun #noun
+#noun
 - **The study of grasses**
 ---
 

@@ -1,7 +1,7 @@
-# aggregation
+# Aggregation
 
 ---
-## Noun #noun
+#noun
 - **The [[act]] of collecting together ([[aggregating]]).**
 - **The state of being collected into a mass, assemblage, or sum ([[aggregated]]).**
 - **A collection of particulars; an [[aggregate]].**

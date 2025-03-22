@@ -1,7 +1,7 @@
-# accolades
+# Accolades
 
 ---
-## Noun #noun
+#noun
 - **An expression of approval; praise.**
 - **A special [[acknowledgment]]; an award.**
 - **An embrace of greeting or salutation.**
@@ -14,14 +14,14 @@
 ### Synonyms
 - [[panegyric]]
 
-## Verb #verb
+#verb
 - **To embrace or kiss in salutation.**
 - **To confer a knighthood on.**
 - **To confer praise or awards on.**
-  - _Example: an accoladed novel_
+ - _Example: an accoladed novel_
 ---
 
-## Noun #noun
+#noun
 - **Either of the two characters { and }, i.e., left curly bracket left curly bracket and right curly bracket right curly bracket, with the shape of a curved, pointed line, having various uses in math, music, and computer programming.**
 ---
 

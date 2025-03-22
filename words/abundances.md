@@ -1,7 +1,7 @@
-# abundances
+# Abundances
 
 ---
-## Noun #noun
+#noun
 - **A large quantity; many.**
 - **An overflowing fullness or [[ample]] sufficiency; profusion; copious supply; superfluity; plentifulness.**
 - **Wealth; [[affluence]]; plentiful [[amount]] of resources.**

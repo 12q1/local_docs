@@ -1,16 +1,16 @@
-# aching
+# Aching
 
 ---
-## Verb #verb
+#verb
 - **To suffer pain; to be the source of, or be in, pain, especially continued dull pain; to be distressed.**
 - **To cause someone or something to suffer pain.**
 ---
 
-## Noun #noun
+#noun
 - **The feeling of an [[ache]]; a dull pain.**
 ---
 
-## Adjective #adjective
+#adjective
 - **That [[aches]]; continuously painful.**
 ---
 

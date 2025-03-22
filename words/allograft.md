@@ -1,11 +1,11 @@
-# allograft
+# Allograft
 
 ---
-## Noun #noun
+#noun
 - **A surgical transplant of tissue between genetically different individuals of the same species; a homograft or homotransplant**
 ---
 
-## Verb #verb
+#verb
 - **To perform a transplant of this kind.**
 ---
 

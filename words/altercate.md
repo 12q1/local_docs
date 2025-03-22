@@ -1,7 +1,7 @@
-# altercate
+# Altercate
 
 ---
-## Verb #verb
+#verb
 - **To argue, quarrel or wrangle.**
 ---
 

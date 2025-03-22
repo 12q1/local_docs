@@ -1,7 +1,7 @@
-# agnosia
+# Agnosia
 
 ---
-## Noun #noun
+#noun
 - **The inability to recognize objects by use of the senses.**
 ---
 

@@ -1,7 +1,7 @@
-# adminicle
+# Adminicle
 
 ---
-## Noun #noun
+#noun
 - **Something that [[aids]] or supports.**
 - **An auxiliary.**
 - **Corroborative proof.**

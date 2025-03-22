@@ -1,7 +1,7 @@
-# ahistorical
+# Ahistorical
 
 ---
-## Adjective #adjective
+#adjective
 - **Lacking historical perspective or context.**
 ---
 

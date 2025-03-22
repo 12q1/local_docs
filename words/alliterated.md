@@ -1,7 +1,7 @@
-# alliterated
+# Alliterated
 
 ---
-## Verb #verb
+#verb
 - **To exhibit [[alliteration]].**
 - **To use (a word or sound) so as to make [[alliteration]].**
 ---

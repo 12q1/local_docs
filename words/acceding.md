@@ -1,7 +1,7 @@
-# acceding
+# Acceding
 
 ---
-## Verb #verb
+#verb
 - **To approach; to arrive, to come forward.**
 - **To give one's [[adhesion]]; to join up with (a group, etc.); to become part of.**
 - **To [[agree]] or assent to a proposal or a view; to give way.**

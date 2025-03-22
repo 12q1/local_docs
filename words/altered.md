@@ -1,21 +1,21 @@
-# altered
+# Altered
 
 ---
-## Verb #verb
+#verb
 - **To change the form or structure of.**
 - **To become different.**
 - **To tailor clothes to make them fit.**
-- **To castrate, neuter or spay (a dog or other animal).**
+- **To castrate, neuter or spay (a dog or other [[animal]]).**
 - **To [[affect]] mentally, as by psychotropic drugs or illness.**
 ---
 
-## Noun #noun
+#noun
 - **A kind of car in drag racing, usually with a partial body situated behind the exposed engine.**
 ---
 
-## Adjective #adjective
+#adjective
 - **Having been changed from an original form.**
-- **(of an animal, usually a pet) Neutered; having had testicles or uterus and ovaries removed to prevent procreation.**
+- **(of an [[animal]], usually a pet) Neutered; having had testicles or uterus and ovaries removed to prevent procreation.**
 ---
 
 ---

@@ -1,7 +1,7 @@
-# amyotrophy
+# Amyotrophy
 
 ---
-## Noun #noun
+#noun
 - **Atrophy of muscles**
 ---
 

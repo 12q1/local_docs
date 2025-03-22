@@ -1,7 +1,7 @@
-# accosting
+# Accosting
 
 ---
-## Verb #verb
+#verb
 - **To approach and speak to boldly or [[aggressively]], as with a demand or request.**
 - **To join side to side; to border.**
 - **(by extension) To sail [[along]] the coast or side of.**
@@ -12,7 +12,7 @@
 - **To solicit sexually.**
 ---
 
-## Noun #noun
+#noun
 - **The [[act]] of physically confronting a person.**
 ---
 

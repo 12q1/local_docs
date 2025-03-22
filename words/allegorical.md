@@ -1,7 +1,7 @@
-# allegorical
+# Allegorical
 
 ---
-## Adjective #adjective
+#adjective
 - **Of, relating to, or containing [[allegory]]**
 ---
 

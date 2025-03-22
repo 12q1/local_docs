@@ -1,7 +1,7 @@
-# achondroplastic
+# Achondroplastic
 
 ---
-## Adjective #adjective
+#adjective
 - **Of, related to, or suffering from [[achondroplasia]]**
 ---
 

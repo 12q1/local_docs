@@ -1,7 +1,7 @@
-# addling
+# Addling
 
 ---
-## Noun #noun
+#noun
 - **(provincial) Earnings.**
 ---
 

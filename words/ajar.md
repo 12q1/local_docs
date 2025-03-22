@@ -1,18 +1,18 @@
-# ajar
+# Ajar
 
 ---
-## Verb #verb
+#verb
 - **To turn or open slightly; to become [[ajar]] or to cause to become [[ajar]]; to be or to hang [[ajar]].**
 ---
 
-## Adjective #adjective
+#adjective
 - **Slightly turned or opened.**
-  - _Example: The door is ajar._
+ - _Example: The door is ajar._
 ---
 
-## Adverb #adverb
+#adverb
 - **Slightly turned or opened.**
-  - _Example: The door was standing ajar._
+ - _Example: The door was standing ajar._
 ---
 
 ---

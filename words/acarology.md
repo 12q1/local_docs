@@ -1,7 +1,7 @@
-# acarology
+# Acarology
 
 ---
-## Noun #noun
+#noun
 - **The study of ticks and mites.**
 ---
 

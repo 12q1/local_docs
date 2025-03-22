@@ -1,7 +1,7 @@
-# advecting
+# Advecting
 
 ---
-## Verb #verb
+#verb
 - **To transport (something) by [[advection]].**
 ---
 

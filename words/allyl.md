@@ -1,7 +1,7 @@
-# allyl
+# Allyl
 
 ---
-## Noun #noun
+#noun
 - **(especially in combination) The univalent radical, CH2=CH-CH2-, existing especially in oils of garlic and mustard.**
 ---
 

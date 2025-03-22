@@ -1,7 +1,7 @@
-# amphibologies
+# Amphibologies
 
 ---
-## Noun #noun
+#noun
 - **Amphiboly.**
 ---
 

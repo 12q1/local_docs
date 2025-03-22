@@ -1,7 +1,7 @@
-# abomasum
+# Abomasum
 
 ---
-## Noun #noun
+#noun
 - **The fourth or digestive compartment of the stomach of a cow or other ruminant, [[after]] the omasum.**
 ---
 

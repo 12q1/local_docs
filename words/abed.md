@@ -1,7 +1,7 @@
-# abed
+# Abed
 
 ---
-## Adverb #adverb
+#adverb
 - **In bed, or on the bed; confined to bed.**
 - **To childbed**
 ---

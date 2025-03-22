@@ -1,7 +1,7 @@
-# aerate
+# Aerate
 
 ---
-## Verb #verb
+#verb
 - **To supply with oxygen or [[air]].**
 ---
 

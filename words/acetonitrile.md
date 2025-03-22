@@ -1,7 +1,7 @@
-# acetonitrile
+# Acetonitrile
 
 ---
-## Noun #noun
+#noun
 - **The simplest organic cyanide or nitrile, CH3CN, formally derived from [[acetic]] [[acid]]**
 ---
 

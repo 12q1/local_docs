@@ -1,7 +1,7 @@
-# acotyledon
+# Acotyledon
 
 ---
-## Noun #noun
+#noun
 - **A plant that has no cotyledons, as the dodder and [[all]] flowerless plants.**
 ---
 

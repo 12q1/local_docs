@@ -1,7 +1,7 @@
-# adulates
+# Adulates
 
 ---
-## Verb #verb
+#verb
 - **To flatter effusively.**
 ---
 

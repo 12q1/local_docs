@@ -1,7 +1,7 @@
-# afresh
+# Afresh
 
 ---
-## Adverb #adverb
+#adverb
 - **Anew; [[again]]; once more**
 ---
 

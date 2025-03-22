@@ -1,7 +1,7 @@
-# actressy
+# Actressy
 
 ---
-## Adjective #adjective
+#adjective
 - **Characteristic of an [[actress]]**
 - **Histrionic or theatrical**
 ---

@@ -1,11 +1,11 @@
-# algal
+# Algal
 
 ---
-## Noun #noun
+#noun
 - **An [[alga]].**
 ---
 
-## Adjective #adjective
+#adjective
 - **Pertaining to, or like, [[algae]]**
 ---
 

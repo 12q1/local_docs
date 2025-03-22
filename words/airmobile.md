@@ -1,7 +1,7 @@
-# airmobile
+# Airmobile
 
 ---
-## Adjective #adjective
+#adjective
 - **Capable of being moved by [[air]].**
 ---
 

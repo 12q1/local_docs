@@ -1,8 +1,8 @@
-# adnexa
+# Adnexa
 
 ---
-## Noun #noun
-- **The appendages of an organ, such as the fallopian tubes of the uterus.**
+#noun
+- **The [[appendages]] of an organ, such as the fallopian tubes of the uterus.**
 ---
 
 ---

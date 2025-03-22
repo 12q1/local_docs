@@ -1,7 +1,7 @@
-# affable
+# Affable
 
 ---
-## Adjective #adjective
+#adjective
 - **Receiving others kindly and conversing with them in a free and friendly manner; friendly, courteous, sociable.**
 - **Mild; benign.**
 ---

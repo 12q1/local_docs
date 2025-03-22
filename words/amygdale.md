@@ -1,7 +1,7 @@
-# amygdale
+# Amygdale
 
 ---
-## Noun #noun
+#noun
 - **An [[almond]]-shaped inclusion in igneous rock or lava**
 ---
 

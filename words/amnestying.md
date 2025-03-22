@@ -1,7 +1,7 @@
-# amnestying
+# Amnestying
 
 ---
-## Verb #verb
+#verb
 - **To grant a pardon (to a group)**
 ---
 

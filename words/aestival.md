@@ -1,7 +1,7 @@
-# aestival
+# Aestival
 
 ---
-## Adjective #adjective
+#adjective
 - **Of or relating to summer.**
 - **Coming forth in the summer.**
 ---

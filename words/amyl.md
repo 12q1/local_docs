@@ -1,11 +1,11 @@
-# amyl
+# Amyl
 
 ---
-## Noun #noun
+#noun
 - **Pentyl**
 ---
 
-## Adjective #adjective
+#adjective
 - **Of or pertaining to starch**
 ---
 

@@ -1,7 +1,7 @@
-# althorns
+# Althorns
 
 ---
-## Noun #noun
+#noun
 - **An [[alto]] or tenor saxhorn**
 ---
 

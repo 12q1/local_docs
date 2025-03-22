@@ -1,7 +1,7 @@
-# algebraic
+# Algebraic
 
 ---
-## Adjective #adjective
+#adjective
 - **Of, or relating to, [[algebra]].**
 - **(of an expression, equation or function) Containing only numbers, letters and arithmetic operators.**
 - **(of a number) Which is a root of some polynomial whose coefficients are rational.**

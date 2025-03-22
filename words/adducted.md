@@ -1,7 +1,7 @@
-# adducted
+# Adducted
 
 ---
-## Verb #verb
+#verb
 - **To draw towards a center or a middle line.**
 ---
 

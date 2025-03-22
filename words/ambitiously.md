@@ -1,7 +1,7 @@
-# ambitiously
+# Ambitiously
 
 ---
-## Adverb #adverb
+#adverb
 - **In an [[ambitious]] manner.**
 ---
 

@@ -1,12 +1,12 @@
-# admixes
+# Admixes
 
 ---
-## Noun #noun
+#noun
 - **The [[act]] of [[admixing]].**
 - **The mixture that results from [[admixing]], especially an [[alloy]].**
 ---
 
-## Verb #verb
+#verb
 - **To mingle with something else; to mix.**
 ---
 

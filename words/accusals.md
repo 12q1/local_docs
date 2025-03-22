@@ -1,7 +1,7 @@
-# accusals
+# Accusals
 
 ---
-## Noun #noun
+#noun
 - **Accusation**
 ---
 

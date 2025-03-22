@@ -1,7 +1,7 @@
-# albeit
+# Albeit
 
 ---
-## Conjunction #conjunction
+#conjunction
 - **Although, despite (it) being.**
 ---
 

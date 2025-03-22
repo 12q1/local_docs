@@ -1,7 +1,7 @@
-# almond
+# Almond
 
 ---
-## Noun #noun
+#noun
 - **A type of tree nut.**
 - **A small deciduous tree in family Rosaceae, Prunus dulcis, that produces predominantly sweet [[almonds]].**
 - **Other plants that produce [[almond]]-like nuts:**
@@ -10,7 +10,7 @@
 - **Anything shaped like an [[almond]]; specifically, a tonsil.**
 ---
 
-## Adjective #adjective
+#adjective
 - **Brownish, resembling the colour of an [[almond]] nut.**
 ---
 

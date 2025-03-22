@@ -1,7 +1,7 @@
-# achromats
+# Achromats
 
 ---
-## Noun #noun
+#noun
 - **A lens that imparts little color; a lens that is [[achromatic]].**
 ---
 

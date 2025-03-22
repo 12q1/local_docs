@@ -1,7 +1,7 @@
-# achar
+# Achar
 
 ---
-## Noun #noun
+#noun
 - **A spicy and salty pickle in Indian cuisine.**
 ---
 

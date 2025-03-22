@@ -1,11 +1,11 @@
-# adduct
+# Adduct
 
 ---
-## Noun #noun
+#noun
 - **The product of an [[addition]] reaction.**
 ---
 
-## Verb #verb
+#verb
 - **To draw towards a center or a middle line.**
 ---
 

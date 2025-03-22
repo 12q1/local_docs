@@ -1,7 +1,7 @@
-# almirah
+# Almirah
 
 ---
-## Noun #noun
+#noun
 - **Cupboard, cabinet or chest of drawers.**
 ---
 

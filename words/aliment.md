@@ -1,13 +1,13 @@
-# aliment
+# Aliment
 
 ---
-## Noun #noun
+#noun
 - **Food.**
 - **Nourishment, sustenance.**
 - **An [[allowance]] for maintenance; [[alimony]].**
 ---
 
-## Verb #verb
+#verb
 - **To feed, nourish.**
 - **To sustain, support.**
 ---

@@ -1,16 +1,16 @@
-# amiss
+# Amiss
 
 ---
-## Noun #noun
+#noun
 - **Fault; wrong; an evil [[act]], a bad deed.**
 ---
 
-## Adjective #adjective
+#adjective
 - **Wrong; faulty; out of order; improper or otherwise incorrect.**
-  - _Example: He suspected something was amiss._
+ - _Example: He suspected something was amiss._
 ---
 
-## Adverb #adverb
+#adverb
 - **Wrongly.**
 - **Mistakenly.**
 - **Astray.**

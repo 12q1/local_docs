@@ -1,7 +1,7 @@
-# ait
+# Ait
 
 ---
-## Noun #noun
+#noun
 - **An island in a river, especially the River Thames in England.**
 ---
 

@@ -1,7 +1,7 @@
-# acanth
+# Acanth
 
 ---
-## Noun #noun
+#noun
 - **Acanthus.**
 ---
 

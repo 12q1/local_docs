@@ -1,7 +1,7 @@
-# accommodative
+# Accommodative
 
 ---
-## Adjective #adjective
+#adjective
 - **Supplying with or obliging; [[accommodating]].**
 ---
 

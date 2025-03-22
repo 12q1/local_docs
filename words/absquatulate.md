@@ -1,7 +1,7 @@
-# absquatulate
+# Absquatulate
 
 ---
-## Verb #verb
+#verb
 - **To leave quickly or in a hurry; to depart, flee.**
 - **To [[abscond]].**
 ---

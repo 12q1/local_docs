@@ -1,7 +1,7 @@
-# albescent
+# Albescent
 
 ---
-## Adjective #adjective
+#adjective
 - **Becoming white or whitish; moderately white.**
 ---
 

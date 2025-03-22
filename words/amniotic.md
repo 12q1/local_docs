@@ -1,7 +1,7 @@
-# amniotic
+# Amniotic
 
 ---
-## Adjective #adjective
+#adjective
 - **Pertaining to the [[amnion]].**
 ---
 

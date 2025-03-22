@@ -1,8 +1,8 @@
-# acetaminophen
+# Acetaminophen
 
 ---
-## Noun #noun
-- **A white crystalline compound used in medicine as an anodyne to relieve pain and reduce fever.**
+#noun
+- **A white crystalline compound used in medicine as an [[anodyne]] to relieve pain and reduce fever.**
 ---
 
 ### Synonyms

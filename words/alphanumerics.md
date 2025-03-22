@@ -1,7 +1,7 @@
-# alphanumerics
+# Alphanumerics
 
 ---
-## Noun #noun
+#noun
 - **An [[alphanumeric]] character.**
 ---
 

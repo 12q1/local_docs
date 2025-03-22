@@ -1,16 +1,16 @@
-# alewives
+# Alewives
 
 ---
-## Noun #noun
+#noun
 - **A woman who keeps an [[alehouse]].**
 ---
 
 ### Synonyms
 - [[brewess]]
 
-## Noun #noun
+#noun
 - **A migrating North American fish, Alosa pseudoharengus.**
-- **Any of several species similar in appearance.**
+- **Any of several species similar in [[appearance]].**
 ---
 
 ### Synonyms

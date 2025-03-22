@@ -1,7 +1,7 @@
-# accurately
+# Accurately
 
 ---
-## Adverb #adverb
+#adverb
 - **In an [[accurate]] manner; exactly; precisely; without error or defect.**
 ---
 

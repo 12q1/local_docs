@@ -1,7 +1,7 @@
-# agnizing
+# Agnizing
 
 ---
-## Verb #verb
+#verb
 - **To recognise; to [[acknowledge]].**
 ---
 

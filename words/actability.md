@@ -1,7 +1,7 @@
-# actability
+# Actability
 
 ---
-## Noun #noun
+#noun
 - **The condition of being [[actable]]**
 ---
 

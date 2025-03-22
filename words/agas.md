@@ -1,7 +1,7 @@
-# agas
+# Agas
 
 ---
-## Noun #noun
+#noun
 - **An honorific for high officials used in Turkey and certain Muslim countries.**
 ---
 

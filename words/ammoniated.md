@@ -1,7 +1,7 @@
-# ammoniated
+# Ammoniated
 
 ---
-## Verb #verb
+#verb
 - **To treat with [[ammonia]].**
 ---
 

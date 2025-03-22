@@ -1,7 +1,7 @@
-# adroitness
+# Adroitness
 
 ---
-## Noun #noun
+#noun
 - **Skillfulness or ease of [[ability]].**
 ---
 

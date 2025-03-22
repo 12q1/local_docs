@@ -1,7 +1,7 @@
-# alehouse
+# Alehouse
 
 ---
-## Noun #noun
+#noun
 - **A business, such as an inn or tavern, where [[ale]] is sold.**
 ---
 

@@ -1,7 +1,7 @@
-# adventurer
+# Adventurer
 
 ---
-## Noun #noun
+#noun
 - **One who enjoys [[adventures]].**
 - **A person who seeks a fortune in new and possibly dangerous enterprises.**
 - **A soldier of fortune, a speculator.**

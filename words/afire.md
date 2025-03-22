@@ -1,14 +1,14 @@
-# afire
+# Afire
 
 ---
-## Adjective #adjective
+#adjective
 - **On fire (often metaphorically).**
 ---
 
 ### Synonyms
 - [[ablaze]], [[aflame]]
 
-## Adverb #adverb
+#adverb
 - **On fire (often metaphorically).**
 ---
 

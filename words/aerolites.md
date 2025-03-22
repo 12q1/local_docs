@@ -1,7 +1,7 @@
-# aerolites
+# Aerolites
 
 ---
-## Noun #noun
+#noun
 - **A meteorite consisting of silicate minerals**
 ---
 

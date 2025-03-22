@@ -1,7 +1,7 @@
-# adroit
+# Adroit
 
 ---
-## Adjective #adjective
+#adjective
 - **Deft, dexterous, or skillful.**
 ---
 

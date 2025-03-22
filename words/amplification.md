@@ -1,7 +1,7 @@
-# amplification
+# Amplification
 
 ---
-## Noun #noun
+#noun
 - **The [[act]], or result of [[amplifying]], enlarging, extending or [[adding]].**
 - **The [[act]], or result of independently increasing some quantity, especially voltage, power or current.**
 - **Gain.**

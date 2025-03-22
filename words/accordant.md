@@ -1,7 +1,7 @@
-# accordant
+# Accordant
 
 ---
-## Adjective #adjective
+#adjective
 - **In [[agreement]]; [[agreeing]].**
 ---
 

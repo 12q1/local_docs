@@ -1,10 +1,10 @@
-# adulterated
+# Adulterated
 
 ---
-## Verb #verb
+#verb
 - **To corrupt.**
 - **To spoil by [[adding]] impurities.**
-  - _Example: to adulterate food, drink, drugs, coins, etc._
+ - _Example: to adulterate food, drink, drugs, coins, etc._
 - **To commit [[adultery]].**
 - **To defile by [[adultery]].**
 ---
@@ -12,7 +12,7 @@
 ### Synonyms
 - [[debase]]
 
-## Adjective #adjective
+#adjective
 - **Mixed with impurities**
 ---
 

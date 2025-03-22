@@ -1,7 +1,7 @@
-# acinar
+# Acinar
 
 ---
-## Adjective #adjective
+#adjective
 - **Of, pertaining to, or located in an [[acinus]].**
 ---
 

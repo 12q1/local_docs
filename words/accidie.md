@@ -1,8 +1,8 @@
-# accidie
+# Accidie
 
 ---
-## Noun #noun
-- **Sloth, slothfulness, especially as inducing general listlessness and apathy.**
+#noun
+- **Sloth, slothfulness, especially as inducing general listlessness and [[apathy]].**
 ---
 
 ---

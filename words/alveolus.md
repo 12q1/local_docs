@@ -1,9 +1,9 @@
-# alveolus
+# Alveolus
 
 ---
-## Noun #noun
+#noun
 - **A small cavity or pit.**
-- **An anatomical structure that has the form of a hollow cavity, as:**
+- **An [[anatomical]] structure that has the form of a hollow cavity, as:**
 ---
 
 ---

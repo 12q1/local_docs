@@ -1,7 +1,7 @@
-# alderwoman
+# Alderwoman
 
 ---
-## Noun #noun
+#noun
 - **A female [[alderman]].**
 ---
 

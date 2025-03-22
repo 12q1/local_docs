@@ -1,11 +1,11 @@
-# airlifted
+# Airlifted
 
 ---
-## Verb #verb
+#verb
 - **To transport (troops etc) in an [[airlift]].**
 ---
 
-## Adjective #adjective
+#adjective
 - **Having been the subject of an [[airlift]].**
 ---
 

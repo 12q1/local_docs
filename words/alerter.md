@@ -1,7 +1,7 @@
-# alerter
+# Alerter
 
 ---
-## Noun #noun
+#noun
 - **One who or that which [[alerts]].**
 ---
 

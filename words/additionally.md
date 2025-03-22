@@ -1,7 +1,7 @@
-# additionally
+# Additionally
 
 ---
-## Adverb #adverb
+#adverb
 - **By way of [[addition]]; in [[addition]] to; [[also]].**
 ---
 

@@ -1,7 +1,7 @@
-# abrogation
+# Abrogation
 
 ---
-## Noun #noun
+#noun
 - **The [[act]] of [[abrogating]]; a repeal by authority; [[abolition]].**
 ---
 

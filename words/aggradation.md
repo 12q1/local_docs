@@ -1,7 +1,7 @@
-# aggradation
+# Aggradation
 
 ---
-## Noun #noun
+#noun
 - **Increase in land elevation due to the deposition of sediment.**
 ---
 

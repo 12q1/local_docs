@@ -1,13 +1,13 @@
-# accursed
+# Accursed
 
 ---
-## Verb #verb
-- **To devote to destruction; to imprecate misery or evil upon; to curse; to execrate; to anathematize.**
+#verb
+- **To devote to destruction; to imprecate misery or evil upon; to curse; to execrate; to [[anathematize]].**
 ---
 
-## Adjective #adjective
+#adjective
 - **(prenominal) Hateful; detestable, loathsome.**
-- **Doomed to destruction or misery; cursed; anathematized.**
+- **Doomed to destruction or misery; cursed; [[anathematized]].**
 ---
 
 ### Synonyms

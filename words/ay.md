@@ -1,20 +1,20 @@
-# ay
+# Ay
 
 ---
-## Interjection #interjection
+#interjection
 - **Ah! [[alas]]!**
 ---
 
-## Noun #noun
+#noun
 - **An [[affirmative]] vote; one who votes in the [[affirmative]].**
-  - _Example: "To call for the ayes and nays;" "The ayes have it."_
+ - _Example: "To call for the ayes and nays;" "The ayes have it."_
 ---
 
 ### Synonyms
 - [[yes]]
 
-## Interjection #interjection
-- **Yes; yea; a word expressing assent, or an [[affirmative]] answer to a question.**
+#interjection
+- **Yes; yea; a word expressing assent, or an [[affirmative]] [[answer]] to a question.**
 ---
 
 ### Synonyms

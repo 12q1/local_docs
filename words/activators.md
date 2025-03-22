@@ -1,7 +1,7 @@
-# activators
+# Activators
 
 ---
-## Noun #noun
+#noun
 - **One who, or that which, [[activates]].**
 - **Something that [[activates]] a catalyst**
 - **Any chemical or [[agent]] which regulates one or more genes by increasing the rate of transcription.**

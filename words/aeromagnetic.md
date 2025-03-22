@@ -1,7 +1,7 @@
-# aeromagnetic
+# Aeromagnetic
 
 ---
-## Adjective #adjective
+#adjective
 - **Of or pertaining to aeromagnetics**
 ---
 

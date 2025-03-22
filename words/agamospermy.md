@@ -1,7 +1,7 @@
-# agamospermy
+# Agamospermy
 
 ---
-## Noun #noun
+#noun
 - **The asexual production of embryos and seeds.**
 ---
 

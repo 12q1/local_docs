@@ -1,13 +1,13 @@
-# abiotic
+# Abiotic
 
 ---
-## Noun #noun
+#noun
 - **Any such material**
 ---
 
-## Adjective #adjective
+#adjective
 - **Nonliving, inanimate, characterised by the [[absence]] of life; of inorganic matter.**
-- **Tending to inhibit or destroy life; antibiotic; incompatible with life.**
+- **Tending to inhibit or destroy life; [[antibiotic]]; incompatible with life.**
 ---
 
 ---

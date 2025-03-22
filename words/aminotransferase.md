@@ -1,7 +1,7 @@
-# aminotransferase
+# Aminotransferase
 
 ---
-## Noun #noun
+#noun
 - **Transaminase.**
 ---
 

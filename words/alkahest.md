@@ -1,7 +1,7 @@
-# alkahest
+# Alkahest
 
 ---
-## Noun #noun
+#noun
 - **A universal solvent sought by the [[alchemists]].**
 ---
 

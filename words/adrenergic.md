@@ -1,11 +1,11 @@
-# adrenergic
+# Adrenergic
 
 ---
-## Noun #noun
+#noun
 - **Any [[adrenergic]] compound**
 ---
 
-## Adjective #adjective
+#adjective
 - **Having the quality of [[adrenaline]] or epinephrine.**
 - **Containing or releasing [[adrenaline]].**
 - **Activated by an [[adrenal]] mechanism**

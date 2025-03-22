@@ -1,7 +1,7 @@
-# aitch
+# Aitch
 
 ---
-## Noun #noun
+#noun
 - **The name of the Latin-script letter H.**
 ---
 

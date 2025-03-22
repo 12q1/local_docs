@@ -1,7 +1,7 @@
-# accommodation
+# Accommodation
 
 ---
-## Noun #noun
+#noun
 - **(usually a mass noun) Lodging in a dwelling or similar living quarters [[afforded]] to travellers in hotels or on cruise ships, or prisoners, etc.**
 - **(physical) Adaptation or [[adjustment]].**
 - **(personal) Adaptation or [[adjustment]].**

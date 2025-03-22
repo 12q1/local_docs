@@ -1,11 +1,11 @@
-# aerated
+# Aerated
 
 ---
-## Verb #verb
+#verb
 - **To supply with oxygen or [[air]].**
 ---
 
-## Adjective #adjective
+#adjective
 - **Supplied or infused with [[air]] or oxygen.**
 - **Annoyed or [[agitated]].**
 ---

@@ -1,8 +1,8 @@
-# addax
+# Addax
 
 ---
-## Noun #noun
-- **A large African antelope (Addax nasomaculatus), with long horns, that lives in the desert.**
+#noun
+- **A large African [[antelope]] (Addax nasomaculatus), with long horns, that lives in the desert.**
 ---
 
 ---

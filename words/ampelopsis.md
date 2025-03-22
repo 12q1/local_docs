@@ -1,7 +1,7 @@
-# ampelopsis
+# Ampelopsis
 
 ---
-## Noun #noun
+#noun
 - **A vine of the genus Ampelopsis**
 ---
 

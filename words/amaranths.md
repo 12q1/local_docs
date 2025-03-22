@@ -1,7 +1,7 @@
-# amaranths
+# Amaranths
 
 ---
-## Noun #noun
+#noun
 - **An imaginary flower that does not wither.**
 - **Any of various herbs of the genus Amaranthus.**
 - **The characteristic purplish-red colour of the flowers or leaves of these plants.**

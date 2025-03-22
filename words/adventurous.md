@@ -1,7 +1,7 @@
-# adventurous
+# Adventurous
 
 ---
-## Adjective #adjective
+#adjective
 - **(of a person) Inclined to [[adventure]]; willing to incur risks; prone to embark in hazardous enterprise; rashly daring.**
 - **(of an [[act]] or product) Full of hazard; attended with risk; exposing to danger; requiring courage; rash.**
 ---

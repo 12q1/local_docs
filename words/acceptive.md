@@ -1,7 +1,7 @@
-# acceptive
+# Acceptive
 
 ---
-## Adjective #adjective
+#adjective
 - **Fit for [[acceptance]].**
 - **Ready to [[accept]].**
 - **Receptive.**

@@ -1,7 +1,7 @@
-# abbacies
+# Abbacies
 
 ---
-## Noun #noun
+#noun
 - **The dignity, estate, term, or jurisdiction of an [[abbot]] or [[abbess]].**
 ---
 

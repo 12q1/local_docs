@@ -1,18 +1,18 @@
-# accents
+# Accents
 
 ---
-## Noun #noun
+#noun
 - **A higher-pitched or stronger articulation of a particular syllable of a word or phrase in order to distinguish it from the others or to emphasize it.**
-  - _Example: In the word "careful", the accent is placed on the first syllable._
+ - _Example: In the word "careful", the accent is placed on the first syllable._
 - **Emphasis or importance in general.**
-  - _Example: At this hotel, the accent is on luxury._
+ - _Example: At this hotel, the accent is on luxury._
 - **A mark or character used in writing, in order to indicate the place of the spoken [[accent]], or to indicate the nature or quality of the vowel marked.**
-  - _Example: The name Cézanne is written with an acute accent._
+ - _Example: The name Cézanne is written with an acute accent._
 - **Modulation of the voice in speaking; the manner of speaking or pronouncing; a peculiar or characteristic modification of the voice, expressing emotion; tone.**
 - **The distinctive manner of pronouncing a language associated with a particular region, social group, etc., whether of a native speaker or a foreign speaker; the phonetic and phonological aspects of a dialect.**
-  - _Example: a broad Irish accent_
+ - _Example: a broad Irish accent_
 - **(sign languages) A distinctive manner of producing a sign language, such as someone who does not normally use a certain sign language might have when using it.**
-  - _Example: 2015 December 3, [./http//www.pri.org/stories/2015-12-03/philadelphia-accent-sign-language There's a distinctly Philadelphia accent in American Sign Language]_
+ - _Example: 2015 December 3, [./http//www.pri.org/stories/2015-12-03/philadelphia-accent-sign-language There's a distinctly Philadelphia accent in American Sign Language]_
 - **A word; a significant tone or sound.**
 - **(usually plurale tantum) Expressions in general; speech.**
 - **Stress laid on certain syllables of a verse.**
@@ -30,7 +30,7 @@
 - **Utterance.**
 ---
 
-## Verb #verb
+#verb
 - **To express the [[accent]] of vocally; to utter with [[accent]].**
 - **To mark emphatically; to emphasize; to [[accentuate]]; to make prominent.**
 - **To mark with written [[accents]].**

@@ -1,11 +1,11 @@
-# aments
+# Aments
 
 ---
-## Noun #noun
+#noun
 - **A catkin or [[amentum]].**
 ---
 
-## Noun #noun
+#noun
 - **A congenital idiot.**
 ---
 

@@ -1,7 +1,7 @@
-# alcoholics
+# Alcoholics
 
 ---
-## Noun #noun
+#noun
 - **A person [[addicted]] to [[alcohol]].**
 - **One who [[abuses]] [[alcohol]].**
 ---

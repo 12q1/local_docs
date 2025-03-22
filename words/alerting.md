@@ -1,7 +1,7 @@
-# alerting
+# Alerting
 
 ---
-## Verb #verb
+#verb
 - **To give warning to.**
 ---
 

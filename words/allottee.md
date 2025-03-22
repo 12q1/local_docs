@@ -1,7 +1,7 @@
-# allottee
+# Allottee
 
 ---
-## Noun #noun
+#noun
 - **The person to whom an [[allotment]] is [[allotted]].**
 ---
 

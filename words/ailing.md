@@ -1,19 +1,19 @@
-# ailing
+# Ailing
 
 ---
-## Verb #verb
+#verb
 - **To cause to suffer; to trouble, [[afflict]]. (Now chiefly in interrogative or indefinite constructions.)**
-  - _Example: Have some chicken soup. It's good for what ails you._
+ - _Example: Have some chicken soup. It's good for what ails you._
 - **To be ill; to suffer; to be troubled.**
 ---
 
-## Noun #noun
+#noun
 - **An [[ailment]].**
 ---
 
-## Adjective #adjective
+#adjective
 - **Sickly; sick; ill; unwell.**
-  - _Example: She cared for her ailing brother day in, day out._
+ - _Example: She cared for her ailing brother day in, day out._
 ---
 
 ---

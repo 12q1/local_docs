@@ -1,7 +1,7 @@
-# amentia
+# Amentia
 
 ---
-## Noun #noun
+#noun
 - **Mental impairment; state of being mentally handicapped.**
 ---
 

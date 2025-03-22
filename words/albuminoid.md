@@ -1,11 +1,11 @@
-# albuminoid
+# Albuminoid
 
 ---
-## Noun #noun
-- **A simple protein of a subclass mainly derived from animal connective or supportive tissue**
+#noun
+- **A simple protein of a subclass mainly derived from [[animal]] connective or supportive tissue**
 ---
 
-## Adjective #adjective
+#adjective
 - **Of [[albumin]]**
 - **Like [[albumen]]**
 ---

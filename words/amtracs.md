@@ -1,7 +1,7 @@
-# amtracs
+# Amtracs
 
 ---
-## Noun #noun
+#noun
 - **An [[amphibious]] vehicle of a class introduced in World War II.**
 ---
 

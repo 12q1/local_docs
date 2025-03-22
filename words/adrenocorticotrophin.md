@@ -1,7 +1,7 @@
-# adrenocorticotrophin
+# Adrenocorticotrophin
 
 ---
-## Noun #noun
+#noun
 - **Adrenocorticotropic hormone**
 ---
 

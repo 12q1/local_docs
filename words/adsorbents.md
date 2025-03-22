@@ -1,7 +1,7 @@
-# adsorbents
+# Adsorbents
 
 ---
-## Noun #noun
+#noun
 - **The solid or liquid in the process of [[adsorption]] on which the [[adsorbate]] [[accumulates]].**
 ---
 

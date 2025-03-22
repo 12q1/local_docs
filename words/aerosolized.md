@@ -1,11 +1,11 @@
-# aerosolized
+# Aerosolized
 
 ---
-## Verb #verb
+#verb
 - **To disperse a material, usually a solid or liquid, as an [[aerosol]].**
 ---
 
-## Adjective #adjective
+#adjective
 - **Dispersed as an [[aerosol]]; particulate.**
 ---
 

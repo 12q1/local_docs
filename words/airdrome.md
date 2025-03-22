@@ -1,9 +1,9 @@
-# airdrome
+# Airdrome
 
 ---
-## Noun #noun
+#noun
 - **A location where [[aircraft]] are operated, usually having a runway and maintenance facilities.**
-  - _Example: They landed at the airdrome._
+ - _Example: They landed at the airdrome._
 ---
 
 ### Synonyms

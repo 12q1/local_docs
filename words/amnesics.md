@@ -1,7 +1,7 @@
-# amnesics
+# Amnesics
 
 ---
-## Noun #noun
+#noun
 - **A person suffering from [[amnesia]]**
 ---
 

@@ -1,7 +1,7 @@
-# adsorbate
+# Adsorbate
 
 ---
-## Noun #noun
+#noun
 - **A substance which has been [[adsorbed]]**
 ---
 

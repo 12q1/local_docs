@@ -1,10 +1,10 @@
-# abetting
+# Abetting
 
 ---
-## Verb #verb
+#verb
 - **To urge on, stimulate (a person to do) something desirable.**
 - **To incite; to assist or encourage by [[aid]] or countenance in crime.**
-- **To support, countenance, maintain, uphold, or [[aid]] (any good cause, opinion, or [[action]]); to maintain.**
+- **To support, countenance, maintain, uphold, or [[aid]] ([[any]] good cause, opinion, or [[action]]); to maintain.**
 - **To back up one's forecast of a doubtful issue, by staking money, etc., to bet.**
 ---
 
@@ -14,7 +14,7 @@
 ### Antonyms
 - [[baffle]], [[confound]], [[contradict]], [[counteract]], [[denounce]], [[deter]], [[disapprove]], [[disconcert]], [[discourage]], [[dissuade]], [[expose]], [[frustrate]], [[hinder]], [[impede]], [[obstruct]], [[thwart]]
 
-## Noun #noun
+#noun
 - **The [[act]] of one who [[abets]].**
 ---
 

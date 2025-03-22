@@ -1,7 +1,7 @@
-# adrenalin
+# Adrenalin
 
 ---
-## Noun #noun
+#noun
 - **Epinephrine, the hormone and neurotransmitter.**
 ---
 

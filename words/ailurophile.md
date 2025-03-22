@@ -1,7 +1,7 @@
-# ailurophile
+# Ailurophile
 
 ---
-## Noun #noun
+#noun
 - **A person with [[ailurophilia]]; a cat-lover.**
 ---
 

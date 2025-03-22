@@ -1,10 +1,10 @@
-# altogether
+# Altogether
 
 ---
-## Adverb #adverb
+#adverb
 - **Without exception; wholly; completely.**
 - **On the whole; with everything considered.**
-  - _Example: Altogether, I'm sorry it happened._
+ - _Example: Altogether, I'm sorry it happened._
 ---
 
 ### Synonyms

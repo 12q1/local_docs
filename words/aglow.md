@@ -1,7 +1,7 @@
-# aglow
+# Aglow
 
 ---
-## Adjective #adjective
+#adjective
 - **(sometimes figurative) glowing; radiant**
 ---
 

@@ -1,7 +1,7 @@
-# amphibology
+# Amphibology
 
 ---
-## Noun #noun
+#noun
 - **Amphiboly.**
 ---
 

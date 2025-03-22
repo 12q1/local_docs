@@ -1,7 +1,7 @@
-# alewife
+# Alewife
 
 ---
-## Noun #noun
+#noun
 - **A woman who keeps an [[alehouse]].**
 ---
 

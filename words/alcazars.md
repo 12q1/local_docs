@@ -1,7 +1,7 @@
-# alcazars
+# Alcazars
 
 ---
-## Noun #noun
+#noun
 - **Any Moorish fortress in Spain.**
 ---
 

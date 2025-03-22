@@ -1,7 +1,7 @@
-# agamid
+# Agamid
 
 ---
-## Noun #noun
+#noun
 - **Any of the family Agamidae of lizards, including many dragons.**
 ---
 

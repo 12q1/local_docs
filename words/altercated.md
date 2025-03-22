@@ -1,7 +1,7 @@
-# altercated
+# Altercated
 
 ---
-## Verb #verb
+#verb
 - **To argue, quarrel or wrangle.**
 ---
 

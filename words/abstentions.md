@@ -1,7 +1,7 @@
-# abstentions
+# Abstentions
 
 ---
-## Noun #noun
+#noun
 - **The [[act]] of restraining oneself.**
 - **The [[act]] of [[abstaining]]; a holding [[aloof]]; refraining from.**
 - **The [[act]] of declining to vote on a particular issue.**

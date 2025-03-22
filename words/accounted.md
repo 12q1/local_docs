@@ -1,7 +1,7 @@
-# accounted
+# Accounted
 
 ---
-## Verb #verb
+#verb
 - **To provide explanation.**
 - **To count.**
 ---

@@ -1,7 +1,7 @@
-# amphioxuses
+# Amphioxuses
 
 ---
-## Noun #noun
+#noun
 - **The lancelet, particularly of the genus Branchiostoma.**
 ---
 

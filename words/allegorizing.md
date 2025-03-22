@@ -1,13 +1,13 @@
-# allegorizing
+# Allegorizing
 
 ---
-## Verb #verb
+#verb
 - **To create an [[allegory]] from some event or situation.**
-  - _Example: For his explanation he will allegorise the problem._
+ - _Example: For his explanation he will allegorise the problem._
 - **To use [[allegory]].**
 ---
 
-## Noun #noun
+#noun
 - **The [[act]] or process of making an [[allegory]].**
 ---
 

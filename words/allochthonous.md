@@ -1,7 +1,7 @@
-# allochthonous
+# Allochthonous
 
 ---
-## Adjective #adjective
+#adjective
 - **Originating in a place other than where it is found.**
 - **Buried or found in a place remote from the site of formation.**
 ---

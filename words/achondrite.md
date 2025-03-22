@@ -1,7 +1,7 @@
-# achondrite
+# Achondrite
 
 ---
-## Noun #noun
+#noun
 - **Any stony meteorite that contains no chondrules**
 ---
 

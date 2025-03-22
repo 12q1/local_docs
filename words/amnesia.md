@@ -1,10 +1,10 @@
-# amnesia
+# Amnesia
 
 ---
-## Noun #noun
+#noun
 - **Loss of memory; forgetfulness.**
 - **Forgetfulness.**
-  - _Example: a state of cultural amnesia_
+ - _Example: a state of cultural amnesia_
 ---
 
 ---

@@ -1,7 +1,7 @@
-# affenpinscher
+# Affenpinscher
 
 ---
-## Noun #noun
+#noun
 - **A toy dog that is a type of terrier**
 ---
 

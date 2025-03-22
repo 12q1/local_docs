@@ -1,7 +1,7 @@
-# ailurophobia
+# Ailurophobia
 
 ---
-## Noun #noun
+#noun
 - **An irrational fear or hatred of cats or other felines.**
 ---
 

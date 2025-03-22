@@ -1,7 +1,7 @@
-# abscissions
+# Abscissions
 
 ---
-## Noun #noun
+#noun
 - **The [[act]] or process of cutting off.**
 - **The state of being cut off.**
 - **A figure of speech employed when a speaker having begun to say a thing stops [[abruptly]]**

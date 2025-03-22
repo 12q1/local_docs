@@ -1,9 +1,9 @@
-# adversaries
+# Adversaries
 
 ---
-## Noun #noun
+#noun
 - **An opponent or rival.**
-  - _Example: He prepared to fight his adversary._
+ - _Example: He prepared to fight his adversary._
 ---
 
 ---

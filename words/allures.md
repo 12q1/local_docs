@@ -1,7 +1,7 @@
-# allures
+# Allures
 
 ---
-## Verb #verb
+#verb
 - **To entice; to attract.**
 ---
 

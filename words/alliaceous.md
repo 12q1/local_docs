@@ -1,7 +1,7 @@
-# alliaceous
+# Alliaceous
 
 ---
-## Adjective #adjective
+#adjective
 - **Smelling or tasting of garlic or onion.**
 ---
 

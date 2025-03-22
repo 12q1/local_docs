@@ -1,9 +1,9 @@
-# afterlife
+# Afterlife
 
 ---
-## Noun #noun
+#noun
 - **Life [[after]] death.**
-  - _Example: Many religious people believe in an afterlife._
+ - _Example: Many religious people believe in an afterlife._
 - **The place believed to be inhabited by deceased people.**
 ---
 

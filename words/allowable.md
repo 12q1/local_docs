@@ -1,11 +1,11 @@
-# allowable
+# Allowable
 
 ---
-## Noun #noun
+#noun
 - **Permitted [[amount]] or [[activity]].**
 ---
 
-## Adjective #adjective
+#adjective
 - **Appropriate; satisfactory; [[acceptable]].**
 - **Intellectually [[admissible]]; valid; probable.**
 - **Able to be [[added]] or deducted in consideration of something.**

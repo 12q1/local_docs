@@ -1,0 +1,8 @@
+# Ankylosaur
+
+---
+#noun
+- **An [[ankylosaurus]]**
+---
+
+---

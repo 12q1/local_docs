@@ -1,7 +1,7 @@
-# adulating
+# Adulating
 
 ---
-## Verb #verb
+#verb
 - **To flatter effusively.**
 ---
 

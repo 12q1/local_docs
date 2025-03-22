@@ -1,8 +1,8 @@
-# alidade
+# Alidade
 
 ---
-## Noun #noun
-- **A sighting device used for measuring angles.**
+#noun
+- **A sighting device used for measuring [[angles]].**
 ---
 
 ### Synonyms

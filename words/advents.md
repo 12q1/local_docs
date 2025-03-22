@@ -1,8 +1,8 @@
-# advents
+# Advents
 
 ---
-## Noun #noun
-- **Arrival; onset; a time when something first comes or appears**
+#noun
+- **Arrival; onset; a time when something first comes or [[appears]]**
 ---
 
 ### Synonyms

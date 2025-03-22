@@ -1,7 +1,7 @@
-# alchemilla
+# Alchemilla
 
 ---
-## Noun #noun
+#noun
 - **Any of the genus Alchemilla of herbaceous perennial plants.**
 ---
 

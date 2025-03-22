@@ -1,7 +1,7 @@
-# agleam
+# Agleam
 
 ---
-## Adjective #adjective
+#adjective
 - **Glowing with subdued light.**
 ---
 

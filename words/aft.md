@@ -1,15 +1,15 @@
-# aft
+# Aft
 
 ---
-## Noun #noun
+#noun
 - **The stern portion of a vessel.**
 ---
 
-## Adjective #adjective
+#adjective
 - **Located at the back of a boat, ship, or [[airplane]]**
 ---
 
-## Adverb #adverb
+#adverb
 - **At, near, or towards the stern of a vessel (with the frame of reference within the vessel).**
 ---
 

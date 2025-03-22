@@ -1,7 +1,7 @@
-# affrighting
+# Affrighting
 
 ---
-## Verb #verb
+#verb
 - **To terrify, to frighten, to inspire fright in.**
 ---
 

@@ -1,11 +1,11 @@
-# affright
+# Affright
 
 ---
-## Noun #noun
+#noun
 - **Great fear, terror, fright.**
 ---
 
-## Verb #verb
+#verb
 - **To terrify, to frighten, to inspire fright in.**
 ---
 

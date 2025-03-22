@@ -1,7 +1,7 @@
-# adroiter
+# Adroiter
 
 ---
-## Adjective #adjective
+#adjective
 - **Deft, dexterous, or skillful.**
 ---
 

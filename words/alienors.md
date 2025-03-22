@@ -1,7 +1,7 @@
-# alienors
+# Alienors
 
 ---
-## Noun #noun
+#noun
 - **A person who [[alienates]] a property.**
 ---
 

@@ -1,7 +1,7 @@
-# agal
+# Agal
 
 ---
-## Noun #noun
+#noun
 - **Cord that is fastened around the kaffiyeh**
 ---
 

@@ -1,7 +1,7 @@
-# aetiological
+# Aetiological
 
 ---
-## Adjective #adjective
+#adjective
 - **Of or pertaining to an etiology.**
 ---
 

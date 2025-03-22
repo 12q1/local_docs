@@ -1,7 +1,7 @@
-# amma
+# Amma
 
 ---
-## Noun #noun
+#noun
 - **Mother**
 ---
 

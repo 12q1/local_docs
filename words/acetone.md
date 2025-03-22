@@ -1,7 +1,7 @@
-# acetone
+# Acetone
 
 ---
-## Noun #noun
+#noun
 - **A colourless, volatile, flammable liquid ketone, (CH3)2CO, used as a solvent.**
 ---
 

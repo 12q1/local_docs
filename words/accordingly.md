@@ -1,7 +1,7 @@
-# accordingly
+# Accordingly
 
 ---
-## Adverb #adverb
+#adverb
 - **(manner) Agreeably; correspondingly; suitably**
 - **In natural sequence; consequently; so.**
 ---

@@ -1,11 +1,11 @@
-# amino
+# Amino
 
 ---
-## Noun #noun
+#noun
 - **The [[amine]] functional group.**
 ---
 
-## Adjective #adjective
+#adjective
 - **Relating to an [[amine]].**
 ---
 

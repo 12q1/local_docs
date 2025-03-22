@@ -1,7 +1,7 @@
-# adopter
+# Adopter
 
 ---
-## Noun #noun
+#noun
 - **One who [[adopts]]**
 ---
 

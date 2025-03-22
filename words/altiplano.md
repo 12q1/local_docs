@@ -1,7 +1,7 @@
-# altiplano
+# Altiplano
 
 ---
-## Noun #noun
+#noun
 - **A high plateau**
 ---
 

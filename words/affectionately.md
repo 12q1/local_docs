@@ -1,7 +1,7 @@
-# affectionately
+# Affectionately
 
 ---
-## Adverb #adverb
+#adverb
 - **In an [[affectionate]] manner.**
 ---
 

@@ -1,7 +1,7 @@
-# alkalimeter
+# Alkalimeter
 
 ---
-## Noun #noun
+#noun
 - **A device used to measure [[alkalinity]].**
 ---
 

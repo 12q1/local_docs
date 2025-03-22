@@ -1,7 +1,7 @@
-# absently
+# Absently
 
 ---
-## Adverb #adverb
+#adverb
 - **In an [[absent]]-minded or [[abstracted]] manner.**
 ---
 

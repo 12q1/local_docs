@@ -1,7 +1,7 @@
-# alienees
+# Alienees
 
 ---
-## Noun #noun
+#noun
 - **The person to whom a property is [[alienated]].**
 ---
 

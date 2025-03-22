@@ -1,7 +1,7 @@
-# allantoin
+# Allantoin
 
 ---
-## Noun #noun
+#noun
 - **A diureide of glyoxylic [[acid]], used in various pharmaceutical and cosmetic products; or a derivative of this compound**
 ---
 

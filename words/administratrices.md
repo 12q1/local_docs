@@ -1,7 +1,7 @@
-# administratrices
+# Administratrices
 
 ---
-## Noun #noun
+#noun
 - **A female [[administrator]].**
 ---
 

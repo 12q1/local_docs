@@ -1,11 +1,11 @@
-# additional
+# Additional
 
 ---
-## Noun #noun
+#noun
 - **Something [[added]].**
 ---
 
-## Adjective #adjective
+#adjective
 - **Supplemental or [[added]] to something.**
 ---
 

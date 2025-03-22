@@ -1,11 +1,11 @@
-# adjustable
+# Adjustable
 
 ---
-## Noun #noun
+#noun
 - **Anything that can be [[adjusted]].**
 ---
 
-## Adjective #adjective
+#adjective
 - **Capable of being [[adjusted]]**
 ---
 

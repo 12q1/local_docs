@@ -1,7 +1,7 @@
-# aboveground
+# Aboveground
 
 ---
-## Adjective #adjective
+#adjective
 - **Alternative spelling of [[above]] ground**
 ---
 

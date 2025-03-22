@@ -1,7 +1,7 @@
-# adret
+# Adret
 
 ---
-## Noun #noun
+#noun
 - **The sun-facing side of a mountain.**
 ---
 

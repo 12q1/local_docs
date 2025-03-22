@@ -1,7 +1,7 @@
-# aboral
+# Aboral
 
 ---
-## Adjective #adjective
+#adjective
 - **Situated opposite to, or away from, the mouth.**
 ---
 

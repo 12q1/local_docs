@@ -1,7 +1,7 @@
-# amnesic
+# Amnesic
 
 ---
-## Noun #noun
+#noun
 - **A person suffering from [[amnesia]]**
 ---
 
@@ -11,7 +11,7 @@
 ### Antonyms
 - [[nonamnesic]]
 
-## Adjective #adjective
+#adjective
 - **Of, pertaining to, or suffering from [[amnesia]]**
 ---
 

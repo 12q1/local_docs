@@ -1,7 +1,7 @@
-# amenable
+# Amenable
 
 ---
-## Adjective #adjective
+#adjective
 - **Willing to respond to persuasion or suggestions.**
 - **Willing to comply; easily led.**
 - **Liable to be brought to [[account]]; responsible; [[accountable]].**

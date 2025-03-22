@@ -1,7 +1,7 @@
-# ado
+# Ado
 
 ---
-## Noun #noun
+#noun
 - **Trouble; troublesome business; fuss, commotion**
 ---
 

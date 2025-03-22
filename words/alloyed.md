@@ -1,9 +1,9 @@
-# alloyed
+# Alloyed
 
 ---
-## Adjective #adjective
+#adjective
 - **Mixed.**
-  - _Example: Their pleasure was alloyed with misfortune._
+ - _Example: Their pleasure was alloyed with misfortune._
 ---
 
 ---

@@ -1,7 +1,7 @@
-# afikomen
+# Afikomen
 
 ---
-## Noun #noun
+#noun
 - **The matzoh eaten at a Passover seder, [[after]] dinner.**
 ---
 

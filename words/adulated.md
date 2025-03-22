@@ -1,7 +1,7 @@
-# adulated
+# Adulated
 
 ---
-## Verb #verb
+#verb
 - **To flatter effusively.**
 ---
 

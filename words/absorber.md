@@ -1,7 +1,7 @@
-# absorber
+# Absorber
 
 ---
-## Noun #noun
+#noun
 - **Something that [[absorbs]].**
 - **A person who [[absorbs]].**
 ---

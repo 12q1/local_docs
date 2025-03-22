@@ -1,7 +1,7 @@
-# abelian
+# Abelian
 
 ---
-## Adjective #adjective
+#adjective
 - **Having a commutative defining operation.**
 ---
 

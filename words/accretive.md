@@ -1,7 +1,7 @@
-# accretive
+# Accretive
 
 ---
-## Adjective #adjective
+#adjective
 - **Relating to [[accretion]]; increasing, or [[adding]] to, by growth.**
 ---
 

@@ -1,7 +1,7 @@
-# achievability
+# Achievability
 
 ---
-## Noun #noun
+#noun
 - **The state or condition of being [[achievable]].**
 ---
 

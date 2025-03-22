@@ -1,7 +1,7 @@
-# allod
+# Allod
 
 ---
-## Noun #noun
+#noun
 - **Allodium**
 ---
 

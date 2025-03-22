@@ -1,7 +1,7 @@
-# airboats
+# Airboats
 
 ---
-## Noun #noun
+#noun
 - **A flat-bottomed boat driven by an in-[[air]] propeller and used in shallow water.**
 ---
 

@@ -1,7 +1,7 @@
-# afebrile
+# Afebrile
 
 ---
-## Adjective #adjective
+#adjective
 - **Having no fever, without a fever.**
 ---
 

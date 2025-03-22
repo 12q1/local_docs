@@ -1,7 +1,7 @@
-# acceptors
+# Acceptors
 
 ---
-## Noun #noun
+#noun
 - **One who [[accepts]].**
 - **One who [[accepts]] a draft or a bill of exchange; a drawee [[after]] he has [[accepted]].**
 - **An atom or molecule which can [[accept]] an electron to form a chemical bond.**

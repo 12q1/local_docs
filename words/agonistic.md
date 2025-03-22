@@ -1,7 +1,7 @@
-# agonistic
+# Agonistic
 
 ---
-## Adjective #adjective
+#adjective
 - **Of or relating to contests that were originally participated in by the Ancient Greeks; athletic**
 - **Characterised by conflict or hostility**
 - **Argumentative; combative**

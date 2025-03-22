@@ -1,7 +1,7 @@
-# amusement
+# Amusement
 
 ---
-## Noun #noun
+#noun
 - **Entertainment.**
 - **An [[activity]] that is entertaining or [[amusing]], such as dancing, gunning, or fishing.**
 ---

@@ -1,7 +1,7 @@
-# adsorbed
+# Adsorbed
 
 ---
-## Verb #verb
+#verb
 - **To [[accumulate]] on a surface, by [[adsorption]]**
 ---
 

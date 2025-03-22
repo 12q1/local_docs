@@ -1,15 +1,15 @@
-# adorning
+# Adorning
 
 ---
-## Verb #verb
+#verb
 - **To make more beautiful and attractive; to decorate.**
-  - _Example: a character adorned with every Christian grace_
+ - _Example: a character adorned with every Christian grace_
 ---
 
 ### Synonyms
 - [[beautify]], [[bedeck]], [[deck]], [[decorate]], [[grace]], [[ornament]], [[prettify]]
 
-## Noun #noun
+#noun
 - **An [[adornment]].**
 ---
 

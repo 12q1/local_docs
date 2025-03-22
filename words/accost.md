@@ -1,12 +1,12 @@
-# accost
+# Accost
 
 ---
-## Noun #noun
+#noun
 - **Address; greeting.**
 - **An attack.**
 ---
 
-## Verb #verb
+#verb
 - **To approach and speak to boldly or [[aggressively]], as with a demand or request.**
 - **To join side to side; to border.**
 - **(by extension) To sail [[along]] the coast or side of.**

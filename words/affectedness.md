@@ -1,7 +1,7 @@
-# affectedness
+# Affectedness
 
 ---
-## Noun #noun
+#noun
 - **The state or quality of being [[affected]].**
 ---
 

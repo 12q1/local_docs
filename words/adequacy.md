@@ -1,9 +1,9 @@
-# adequacy
+# Adequacy
 
 ---
-## Noun #noun
+#noun
 - **The quality of being sufficient, [[adequate]] or [[able]] to meet the needs.**
-  - _Example: His zeal is, of course, unquestionable; his adequacy, however, I doubt._
+ - _Example: His zeal is, of course, unquestionable; his adequacy, however, I doubt._
 ---
 
 ---

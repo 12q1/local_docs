@@ -1,7 +1,7 @@
-# abstract
+# Abstract
 
 ---
-## Noun #noun
+#noun
 - **An [[abridgement]] or summary of a longer publication.**
 - **Something that concentrates in itself the qualities of a larger item, or multiple items.**
 - **An [[abstraction]]; an [[abstract]] term; that which is [[abstract]].**
@@ -13,7 +13,7 @@
 ### Synonyms
 - [[abridgment]], [[compendium]], [[epitome]], [[synopsis]]
 
-## Verb #verb
+#verb
 - **To separate; to disengage.**
 - **To remove; to take away; withdraw.**
 - **To steal; to take away; to remove without permission.**
@@ -23,23 +23,23 @@
 - **To consider [[abstractly]]; to contemplate separately or by itself; to consider theoretically; to look at as a general quality.**
 - **To withdraw oneself; to retire.**
 - **To draw off (interest or attention).**
-  - _Example: He was wholly abstracted by other objects._
+ - _Example: He was wholly abstracted by other objects._
 - **To perform the process of [[abstraction]].**
 - **To create [[abstractions]].**
 - **To produce an [[abstraction]], usually by refactoring existing code. Generally used with "out".**
-  - _Example: He abstracted out the square root function._
+ - _Example: He abstracted out the square root function._
 ---
 
 ### Synonyms
 - [[abridge]], [[epitomize]], [[summarize]], [[filch]], [[purloin]], [[steal]], [[remove]], [[separate]], [[take away]], [[withdraw]]
 
-## Adjective #adjective
+#adjective
 - **Derived; extracted.**
-- **Drawn away; removed from; apart from; separate.**
+- **Drawn away; removed from; [[apart]] from; separate.**
 - **Not concrete: conceptual, ideal.**
 - **Difficult to understand; [[abstruse]]; hard to conceptualize.**
 - **Separately expressing a property or attribute of an object that is considered to be inherent to that object: attributive, ascriptive.**
-- **Pertaining comprehensively to, or representing, a class or group of objects, as opposed to any specific object; considered apart from any application to a particular object: general, generic, nonspecific; representational.**
+- **Pertaining comprehensively to, or representing, a class or group of objects, as opposed to [[any]] specific object; considered [[apart]] from [[any]] application to a particular object: general, generic, nonspecific; representational.**
 - **Absent-minded.**
 - **Pertaining to the formal aspect of art, such as the lines, colors, shapes, and the relationships [[among]] them.**
 - **Insufficiently factual.**

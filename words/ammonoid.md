@@ -1,11 +1,11 @@
-# ammonoid
+# Ammonoid
 
 ---
-## Noun #noun
+#noun
 - **An extinct cephalopod of the subclass Ammonoidea (including [[ammonites]]).**
 ---
 
-## Adjective #adjective
+#adjective
 - **Characteristic of an [[ammonite]]**
 ---
 

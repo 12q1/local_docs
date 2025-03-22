@@ -1,11 +1,11 @@
-# abiding
+# Abiding
 
 ---
-## Verb #verb
+#verb
 - **To endure without yielding; to withstand; await defiantly; to encounter; to persevere.**
-  - _Example: The old oak tree abides the wind endlessly._
+ - _Example: The old oak tree abides the wind endlessly._
 - **To bear patiently; to tolerate; to put up with; stand.**
-- **To pay for; to stand the consequences of; to answer for; to suffer for; to atone for.**
+- **To pay for; to stand the consequences of; to [[answer]] for; to suffer for; to atone for.**
 - **To wait in expectation.**
 - **To pause; to delay.**
 - **To stay; to continue in a place; to remain stable or fixed in some state or condition; to be left.**
@@ -19,9 +19,9 @@
 ### Synonyms
 - [[brook]], [[put up with]], [[hold on]], [[resist]], [[dwell]], [[live]], [[await]], [[wait for]], [[hold on]], [[stay]]
 
-## Adjective #adjective
+#adjective
 - **Continuing or persisting in the same state: lasting, enduring; steadfast.**
-  - _Example: a deep and abiding hatred of wealth_
+ - _Example: a deep and abiding hatred of wealth_
 ---
 
 ### Synonyms

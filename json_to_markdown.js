@@ -3,7 +3,7 @@ const path = require('path');
 
 const INPUT_FILE = 'dictionary.json';
 const OUTPUT_DIR = 'words';
-const INDEX_FILE = path.join(OUTPUT_DIR, 'index.md');
+const INDEX_FILE = path.join(OUTPUT_DIR, '_index.md');
 
 // Ensure output directory exists
 if (!fs.existsSync(OUTPUT_DIR)) {
@@ -25,17 +25,21 @@ function interlinkText(text) {
     });
 }
 
+function capitalize(str){
+    return str.charAt(0).toUpperCase() + str.slice(1);
+}
+
 // Function to format meanings into Markdown
 function formatMarkdown(word, data) {
     if (!data) return null; // Skip null/undefined words
 
-    let md = `# ${word}\n\n`;
+    let md = `# ${capitalize(word)}\n\n`;
     md += `---\n`;
 
     if (data.meanings) {
         data.meanings.forEach(({ partOfSpeech, definitions, synonyms, antonyms }) => {
             const tag = `#${partOfSpeech.replace(/\s+/g, '').toLowerCase()}`;
-            md += `## ${tag}\n`;
+            md += `${tag}\n`;
             
             definitions.forEach(def => {
                 md += `- **${interlinkText(def.definition)}**\n`;

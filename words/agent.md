@@ -1,10 +1,10 @@
-# agent
+# Agent
 
 ---
-## Noun #noun
+#noun
 - **One who exerts power, or has the power to [[act]]**
-- **One who [[acts]] for, or in the place of, another (the principal), by authority from him/her; someone entrusted to do the business of another**
-- **A person who looks for work for another person**
+- **One who [[acts]] for, or in the place of, [[another]] (the principal), by authority from him/her; someone entrusted to do the business of [[another]]**
+- **A person who looks for work for [[another]] person**
 - **Someone who works for an intelligence [[agency]]**
 - **An [[active]] power or cause or substance; something which has the power to produce an effect**
 - **In the client-server model, the part of the system that performs information preparation and exchange on behalf of a client or server. Especially in the phrase “intelligent [[agent]]” it implies some kind of autonomous process which can communicate with other [[agents]] to perform some collective task on behalf of one or more humans.**

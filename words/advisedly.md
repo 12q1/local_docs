@@ -1,7 +1,7 @@
-# advisedly
+# Advisedly
 
 ---
-## Adverb #adverb
+#adverb
 - **With intentionality; deliberately.**
 ---
 

@@ -1,7 +1,7 @@
-# airless
+# Airless
 
 ---
-## Adjective #adjective
+#adjective
 - **Lacking or being without [[air]].**
 - **Lacking [[air]] circulation.**
 - **With [[air]] that is stale.**

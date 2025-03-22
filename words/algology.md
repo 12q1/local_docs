@@ -1,7 +1,7 @@
-# algology
+# Algology
 
 ---
-## Noun #noun
+#noun
 - **The branch of botany dealing with [[algae]].**
 ---
 

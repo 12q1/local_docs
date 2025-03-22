@@ -1,7 +1,7 @@
-# abetter
+# Abetter
 
 ---
-## Noun #noun
+#noun
 - **One that [[abets]] an offender; one that incites; instigates; encourages.**
 - **A supporter or [[advocate]].**
 ---

@@ -1,7 +1,7 @@
-# altimetry
+# Altimetry
 
 ---
-## Noun #noun
+#noun
 - **The science of measuring [[altitude]]**
 ---
 

@@ -1,11 +1,11 @@
-# amoroso
+# Amoroso
 
 ---
-## Noun #noun
+#noun
 - **A male lover.**
 ---
 
-## Adjective #adjective
+#adjective
 - **Tender; loving**
 ---
 

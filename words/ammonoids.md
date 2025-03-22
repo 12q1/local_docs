@@ -1,7 +1,7 @@
-# ammonoids
+# Ammonoids
 
 ---
-## Noun #noun
+#noun
 - **An extinct cephalopod of the subclass Ammonoidea (including [[ammonites]]).**
 ---
 

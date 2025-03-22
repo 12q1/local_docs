@@ -1,7 +1,7 @@
-# ambassadress
+# Ambassadress
 
 ---
-## Noun #noun
+#noun
 - **A female [[ambassador]].**
 - **The wife of an [[ambassador]].**
 ---

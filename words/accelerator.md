@@ -1,7 +1,7 @@
-# accelerator
+# Accelerator
 
 ---
-## Noun #noun
+#noun
 - **One who, or that which, [[accelerates]].**
 - **A device for causing [[acceleration]].**
 - **A substance which speeds up chemical reactions.**

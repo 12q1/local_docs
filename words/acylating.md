@@ -1,7 +1,7 @@
-# acylating
+# Acylating
 
 ---
-## Verb #verb
+#verb
 - **To [[add]] one or more [[acyl]] groups to a compound.**
 ---
 

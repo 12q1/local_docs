@@ -1,7 +1,7 @@
-# alienage
+# Alienage
 
 ---
-## Noun #noun
+#noun
 - **The status of being an [[alien]]; origin from elsewhere.**
 ---
 

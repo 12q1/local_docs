@@ -1,17 +1,17 @@
-# afore
+# Afore
 
 ---
-## Adverb #adverb
+#adverb
 - **Before.**
 - **In the fore part of a ship.**
 ---
 
-## Preposition #preposition
+#preposition
 - **Before; in [[advance]] of the time of.**
 - **Before; situated geographically or metaphorically in front of.**
 ---
 
-## Conjunction #conjunction
+#conjunction
 - **In [[advance]] of the time when; before.**
 ---
 

@@ -1,7 +1,7 @@
-# alogical
+# Alogical
 
 ---
-## Adjective #adjective
+#adjective
 - **Not based upon logic or reasoned argument.**
 - **Opposed to logic.**
 ---

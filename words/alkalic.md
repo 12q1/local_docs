@@ -1,7 +1,7 @@
-# alkalic
+# Alkalic
 
 ---
-## Adjective #adjective
+#adjective
 - **(of a rock) Containing a relatively high proportion of [[alkali]]; [[alkaline]].**
 ---
 

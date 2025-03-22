@@ -1,14 +1,14 @@
-# adequate
+# Adequate
 
 ---
-## Verb #verb
+#verb
 - **To equalize; to make [[adequate]].**
 - **To equal.**
 ---
 
-## Adjective #adjective
+#adjective
 - **Equal to or fulfilling some requirement.**
-  - _Example: an adequate definition_
+ - _Example: an adequate definition_
 ---
 
 ### Synonyms

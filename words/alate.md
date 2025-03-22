@@ -1,11 +1,11 @@
-# alate
+# Alate
 
 ---
-## Noun #noun
+#noun
 - **A winged, reproductive form of several social insects.**
 ---
 
-## Adjective #adjective
+#adjective
 - **Having winglike extensions or parts; winged.**
 ---
 

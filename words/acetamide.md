@@ -1,7 +1,7 @@
-# acetamide
+# Acetamide
 
 ---
-## Noun #noun
+#noun
 - **The [[amide]] of [[acetic]] [[acid]], CH3CONH2.**
 ---
 

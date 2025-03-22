@@ -1,7 +1,7 @@
-# adjudication
+# Adjudication
 
 ---
-## Noun #noun
+#noun
 - **The [[act]] of [[adjudicating]], of reaching a judgement.**
 - **A judgment or sentence.**
 - **The decision upon the question of whether the debtor is a bankrupt.**

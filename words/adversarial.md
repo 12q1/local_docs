@@ -1,7 +1,7 @@
-# adversarial
+# Adversarial
 
 ---
-## Adjective #adjective
+#adjective
 - **Characteristic of, or in the manner of, an [[adversary]]; combative, hostile, opposed**
 ---
 

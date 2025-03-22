@@ -1,12 +1,12 @@
-# altricial
+# Altricial
 
 ---
-## Noun #noun
-- **Such an animal**
+#noun
+- **Such an [[animal]]**
 ---
 
-## Adjective #adjective
-- **Helpless at birth (of young animals); or having young which are helpless at birth.**
+#adjective
+- **Helpless at birth (of young [[animals]]); or having young which are helpless at birth.**
 ---
 
 ### Synonyms

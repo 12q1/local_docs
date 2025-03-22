@@ -1,7 +1,7 @@
-# affirmatively
+# Affirmatively
 
 ---
-## Adverb #adverb
+#adverb
 - **In an [[affirming]] manner.**
 ---
 

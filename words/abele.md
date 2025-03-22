@@ -1,7 +1,7 @@
-# abele
+# Abele
 
 ---
-## Noun #noun
+#noun
 - **The white poplar (Populus [[alba]]).**
 ---
 

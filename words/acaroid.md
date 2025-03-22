@@ -1,7 +1,7 @@
-# acaroid
+# Acaroid
 
 ---
-## Adjective #adjective
+#adjective
 - **Shaped like or resembling a mite.**
 ---
 

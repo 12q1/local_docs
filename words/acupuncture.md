@@ -1,11 +1,11 @@
-# acupuncture
+# Acupuncture
 
 ---
-## Noun #noun
+#noun
 - **The insertion of needles into the (living) tissue of the body, especially for purposes of pain relief.**
 ---
 
-## Verb #verb
+#verb
 - **To treat with [[acupuncture]].**
 ---
 

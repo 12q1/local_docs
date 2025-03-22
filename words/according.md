@@ -1,8 +1,8 @@
-# according
+# According
 
 ---
-## Verb #verb
-- **To make to [[agree]] or correspond; to suit one thing to another; to [[adjust]].**
+#verb
+- **To make to [[agree]] or correspond; to suit one thing to [[another]]; to [[adjust]].**
 - **To bring (people) to an [[agreement]]; to reconcile, settle, [[adjust]] or harmonize.**
 - **To [[agree]] or correspond; to be in harmony; to be concordant.**
 - **To [[agree]] in pitch and tone.**
@@ -11,12 +11,12 @@
 - **To arrive at an [[agreement]].**
 ---
 
-## Adjective #adjective
+#adjective
 - **Agreeing; in [[agreement]] or harmony; harmonious.**
-  - _Example: This according voice of national wisdom._
+ - _Example: This according voice of national wisdom._
 ---
 
-## Adverb #adverb
+#adverb
 - **Accordingly; correspondingly.**
 ---
 

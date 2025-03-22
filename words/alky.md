@@ -1,7 +1,7 @@
-# alky
+# Alky
 
 ---
-## Noun #noun
+#noun
 - **An [[alcoholic]].**
 ---
 

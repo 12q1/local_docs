@@ -1,14 +1,14 @@
-# abortifacient
+# Abortifacient
 
 ---
-## Noun #noun
+#noun
 - **A drug or an [[agent]] that induces an [[abortion]].**
 ---
 
 ### Synonyms
 - [[abortificant]]
 
-## Adjective #adjective
+#adjective
 - **(pharmaceutical effect) Producing miscarriage.**
 ---
 

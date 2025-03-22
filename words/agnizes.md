@@ -1,7 +1,7 @@
-# agnizes
+# Agnizes
 
 ---
-## Verb #verb
+#verb
 - **To recognise; to [[acknowledge]].**
 ---
 

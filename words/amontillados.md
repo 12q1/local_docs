@@ -1,7 +1,7 @@
-# amontillados
+# Amontillados
 
 ---
-## Noun #noun
+#noun
 - **A pale, dry sherry from Montilla.**
 ---
 

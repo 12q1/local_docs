@@ -1,7 +1,7 @@
-# acerbic
+# Acerbic
 
 ---
-## Adjective #adjective
+#adjective
 - **Tasting sour or bitter.**
 - **Sharp, harsh, biting.**
 ---

@@ -1,7 +1,7 @@
-# ailment
+# Ailment
 
 ---
-## Noun #noun
+#noun
 - **Something which [[ails]] one; a disease; sickness.**
 ---
 

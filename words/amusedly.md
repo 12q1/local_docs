@@ -1,7 +1,7 @@
-# amusedly
+# Amusedly
 
 ---
-## Adverb #adverb
+#adverb
 - **In an [[amused]] manner**
 ---
 

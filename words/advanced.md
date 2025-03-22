@@ -1,7 +1,7 @@
-# advanced
+# Advanced
 
 ---
-## Verb #verb
+#verb
 - **To promote or [[advantage]].**
 - **To move forward in space or time.**
 - **To raise, be raised.**
@@ -13,7 +13,7 @@
 ### Antonyms
 - [[regress]], [[retract]]
 
-## Adjective #adjective
+#adjective
 - **At or close to the state of the art.**
 - **Enhanced.**
 - **Having moved forward in time or space (e.g. [[advanced]] ignition timing).**

@@ -1,7 +1,7 @@
-# allumette
+# Allumette
 
 ---
-## Noun #noun
+#noun
 - **A matchstick.**
 - **A matchstick-sized cut of potatoes.**
 ---

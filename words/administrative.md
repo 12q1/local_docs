@@ -1,7 +1,7 @@
-# administrative
+# Administrative
 
 ---
-## Adjective #adjective
+#adjective
 - **Of or relating to [[administering]] or [[administration]].**
 ---
 

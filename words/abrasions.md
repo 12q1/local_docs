@@ -1,7 +1,7 @@
-# abrasions
+# Abrasions
 
 ---
-## Noun #noun
+#noun
 - **The [[act]] of [[abrading]], wearing, or rubbing off; the wearing away by friction.**
 - **The substance thus rubbed off; debris.**
 - **The effect of mechanical erosion of rock, especially a river bed, by rock fragments scratching and scraping it.**

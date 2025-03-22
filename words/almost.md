@@ -1,14 +1,14 @@
-# almost
+# Almost
 
 ---
-## Noun #noun
+#noun
 - **Something or someone that doesn't quite make it.**
-  - _Example: In all the submissions, they found four papers that were clearly worth publishing and another dozen almosts._
+ - _Example: In all the submissions, they found four papers that were clearly worth publishing and another dozen almosts._
 ---
 
-## Adverb #adverb
+#adverb
 - **Very close to, not quite.**
-  - _Example: Almost all people went there. - Not all but very close to it._
+ - _Example: Almost all people went there. - Not all but very close to it._
 ---
 
 ### Synonyms

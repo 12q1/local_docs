@@ -1,13 +1,13 @@
-# afferent
+# Afferent
 
 ---
-## Noun #noun
+#noun
 - **An [[afferent]] structure or connection**
 ---
 
-## Adjective #adjective
+#adjective
 - **Carrying towards.**
-  - _Example: An afferent nerve carries impulses from the body to the brain._
+ - _Example: An afferent nerve carries impulses from the body to the brain._
 ---
 
 ### Antonyms

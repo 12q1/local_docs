@@ -1,8 +1,8 @@
-# actinians
+# Actinians
 
 ---
-## Noun #noun
-- **A sea anemone (of the order Actiniaria).**
+#noun
+- **A sea [[anemone]] (of the order Actiniaria).**
 ---
 
 ---

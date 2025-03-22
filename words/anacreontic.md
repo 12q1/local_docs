@@ -1,11 +1,11 @@
-# anacreontic
+# Anacreontic
 
 ---
-## Noun #noun
+#noun
 - **A short lyrical piece [[about]] love and wine.**
 ---
 
-## Adjective #adjective
+#adjective
 - **Pertaining to the Greek poet Anacreon and his manners; jovial, festive.**
 ---
 

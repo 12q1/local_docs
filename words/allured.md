@@ -1,7 +1,7 @@
-# allured
+# Allured
 
 ---
-## Verb #verb
+#verb
 - **To entice; to attract.**
 ---
 

@@ -1,7 +1,7 @@
-# allargando
+# Allargando
 
 ---
-## Adverb #adverb
+#adverb
 - **Decreasing in tempo; getting slower.**
 ---
 

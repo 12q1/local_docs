@@ -1,20 +1,20 @@
-# achieving
+# Achieving
 
 ---
-## Verb #verb
+#verb
 - **To succeed in something, now especially in [[academic]] performance.**
 - **To carry out successfully; to [[accomplish]].**
 - **To conclude, finish, especially successfully.**
 - **To obtain, or gain (a desired result, objective etc.), as the result of exertion; to succeed in gaining; to win.**
 - **To conclude, to turn out.**
 - **To obtain (a material thing).**
-  - _Example: Show all the spoils by valiant kings achieved._
+ - _Example: Show all the spoils by valiant kings achieved._
 ---
 
 ### Synonyms
 - [[accomplish]], [[complete]], [[effect]], [[execute]], [[fulfil]], [[fulfill]], [[obtain]], [[perform]], [[realize]]
 
-## Noun #noun
+#noun
 - **Achievements, emphasizing the process of [[accomplishing]] them.**
 ---
 

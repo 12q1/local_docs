@@ -1,7 +1,7 @@
-# acushla
+# Acushla
 
 ---
-## Noun #noun
+#noun
 - **Darling**
 ---
 

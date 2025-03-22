@@ -1,11 +1,11 @@
-# amend
+# Amend
 
 ---
-## Noun #noun
+#noun
 - **(usually in the plural) An [[act]] of righting a wrong; compensation.**
 ---
 
-## Verb #verb
+#verb
 - **To make better; improve.**
 - **To become better.**
 - **To heal (someone sick); to cure (a disease etc.).**

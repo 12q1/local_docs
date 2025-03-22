@@ -1,7 +1,7 @@
-# adulterant
+# Adulterant
 
 ---
-## Noun #noun
+#noun
 - **That which [[adulterates]], or reduces the purity of something.**
 ---
 

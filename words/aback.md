@@ -1,7 +1,7 @@
-# aback
+# Aback
 
 ---
-## Adverb #adverb
+#adverb
 - **Towards the back or rear; backwards.**
 - **In the rear; a distance behind.**
 - **By surprise; startled; dumbfounded. (see usage)**

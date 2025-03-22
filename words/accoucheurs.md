@@ -1,7 +1,7 @@
-# accoucheurs
+# Accoucheurs
 
 ---
-## Noun #noun
+#noun
 - **A person who delivers a baby (in childbirth).**
 ---
 

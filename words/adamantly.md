@@ -1,9 +1,9 @@
-# adamantly
+# Adamantly
 
 ---
-## Adverb #adverb
+#adverb
 - **In an immovable or inflexible manner.**
-  - _Example: She is adamantly denying the allegations._
+ - _Example: She is adamantly denying the allegations._
 ---
 
 ---

@@ -1,7 +1,7 @@
-# accomplices
+# Accomplices
 
 ---
-## Noun #noun
+#noun
 - **An associate in the commission of a crime; a participator in an offense, whether a principal or an [[accessory]].**
 - **A cooperator.**
 ---

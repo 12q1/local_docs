@@ -1,8 +1,8 @@
-# amitriptyline
+# Amitriptyline
 
 ---
-## Noun #noun
-- **An antidepressant drug; a tablet containing this drug.**
+#noun
+- **An [[antidepressant]] drug; a tablet containing this drug.**
 ---
 
 ---

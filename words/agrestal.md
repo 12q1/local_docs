@@ -1,7 +1,7 @@
-# agrestal
+# Agrestal
 
 ---
-## Adjective #adjective
+#adjective
 - **That grows wild in cultivated fields**
 ---
 

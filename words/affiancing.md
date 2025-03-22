@@ -1,7 +1,7 @@
-# affiancing
+# Affiancing
 
 ---
-## Verb #verb
+#verb
 - **To be betrothed to; to promise to marry.**
 ---
 

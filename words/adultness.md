@@ -1,7 +1,7 @@
-# adultness
+# Adultness
 
 ---
-## Noun #noun
+#noun
 - **The state or quality of being an [[adult]].**
 ---
 

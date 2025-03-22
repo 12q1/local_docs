@@ -1,11 +1,11 @@
-# adverbial
+# Adverbial
 
 ---
-## Noun #noun
+#noun
 - **(grammar) An [[adverbial]] word or phrase.**
 ---
 
-## Adjective #adjective
+#adjective
 - **(grammar) Of or relating to an [[adverb]].**
 ---
 

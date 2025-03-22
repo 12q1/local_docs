@@ -1,7 +1,7 @@
-# adroitest
+# Adroitest
 
 ---
-## Adjective #adjective
+#adjective
 - **Deft, dexterous, or skillful.**
 ---
 

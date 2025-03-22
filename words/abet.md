@@ -1,15 +1,15 @@
-# abet
+# Abet
 
 ---
-## Noun #noun
+#noun
 - **Fraud or cunning.**
 - **An [[act]] of [[abetting]]; of helping; of giving [[aid]].**
 ---
 
-## Verb #verb
+#verb
 - **To urge on, stimulate (a person to do) something desirable.**
 - **To incite; to assist or encourage by [[aid]] or countenance in crime.**
-- **To support, countenance, maintain, uphold, or [[aid]] (any good cause, opinion, or [[action]]); to maintain.**
+- **To support, countenance, maintain, uphold, or [[aid]] ([[any]] good cause, opinion, or [[action]]); to maintain.**
 - **To back up one's forecast of a doubtful issue, by staking money, etc., to bet.**
 ---
 

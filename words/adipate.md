@@ -1,7 +1,7 @@
-# adipate
+# Adipate
 
 ---
-## Noun #noun
+#noun
 - **Any salt or ester of [[adipic]] [[acid]]**
 ---
 

@@ -1,7 +1,7 @@
-# afterward
+# Afterward
 
 ---
-## Adverb #adverb
+#adverb
 - **(temporal location) At a later or succeeding time.**
 ---
 

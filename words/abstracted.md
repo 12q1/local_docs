@@ -1,7 +1,7 @@
-# abstracted
+# Abstracted
 
 ---
-## Verb #verb
+#verb
 - **To separate; to disengage.**
 - **To remove; to take away; withdraw.**
 - **To steal; to take away; to remove without permission.**
@@ -11,22 +11,22 @@
 - **To consider [[abstractly]]; to contemplate separately or by itself; to consider theoretically; to look at as a general quality.**
 - **To withdraw oneself; to retire.**
 - **To draw off (interest or attention).**
-  - _Example: He was wholly abstracted by other objects._
+ - _Example: He was wholly abstracted by other objects._
 - **To perform the process of [[abstraction]].**
 - **To create [[abstractions]].**
 - **To produce an [[abstraction]], usually by refactoring existing code. Generally used with "out".**
-  - _Example: He abstracted out the square root function._
+ - _Example: He abstracted out the square root function._
 ---
 
 ### Synonyms
 - [[abridge]], [[epitomize]], [[summarize]], [[filch]], [[purloin]], [[steal]], [[remove]], [[separate]], [[take away]], [[withdraw]]
 
-## Adjective #adjective
-- **Separated or disconnected; withdrawn; removed; apart.**
+#adjective
+- **Separated or disconnected; withdrawn; removed; [[apart]].**
 - **Separated from matter; [[abstract]]; ideal, not concrete.**
 - **Abstract; [[abstruse]]; difficult.**
 - **Inattentive to surrounding objects; [[absent]] in mind; meditative.**
-  - _Example: ...an abstracted scholar..._
+ - _Example: ...an abstracted scholar..._
 ---
 
 ---

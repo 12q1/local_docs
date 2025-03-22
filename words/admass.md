@@ -1,7 +1,7 @@
-# admass
+# Admass
 
 ---
-## Noun #noun
+#noun
 - **That part of society that is influenced by mass media [[advertising]].**
 ---
 

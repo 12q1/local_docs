@@ -1,7 +1,7 @@
-# adiantum
+# Adiantum
 
 ---
-## Noun #noun
+#noun
 - **The maidenhair fern and related ferns (of the genus Adiantum)**
 ---
 

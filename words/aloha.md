@@ -1,12 +1,12 @@
-# aloha
+# Aloha
 
 ---
-## Noun #noun
+#noun
 - **Good wishes, love.**
 - **An utterance of [[aloha]] (see Interjection, below).**
 ---
 
-## Interjection #interjection
+#interjection
 - **Expressing good wishes when greeting or parting from someone; hello; goodbye.**
 ---
 

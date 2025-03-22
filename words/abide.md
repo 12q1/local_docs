@@ -1,11 +1,11 @@
-# abide
+# Abide
 
 ---
-## Verb #verb
+#verb
 - **To endure without yielding; to withstand; await defiantly; to encounter; to persevere.**
-  - _Example: The old oak tree abides the wind endlessly._
+ - _Example: The old oak tree abides the wind endlessly._
 - **To bear patiently; to tolerate; to put up with; stand.**
-- **To pay for; to stand the consequences of; to answer for; to suffer for; to atone for.**
+- **To pay for; to stand the consequences of; to [[answer]] for; to suffer for; to atone for.**
 - **To wait in expectation.**
 - **To pause; to delay.**
 - **To stay; to continue in a place; to remain stable or fixed in some state or condition; to be left.**

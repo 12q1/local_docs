@@ -1,7 +1,7 @@
-# acajous
+# Acajous
 
 ---
-## Noun #noun
+#noun
 - **The cashew tree.**
 - **A cashew nut.**
 - **The wood from the mahogany tree or other trees from the family Meliaceae.**

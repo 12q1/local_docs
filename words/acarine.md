@@ -1,13 +1,13 @@
-# acarine
+# Acarine
 
 ---
-## Noun #noun
+#noun
 - **A mite.**
 ---
 
-## Adjective #adjective
+#adjective
 - **Of or caused by [[acari]] or mites.**
-  - _Example: acarine diseases_
+ - _Example: acarine diseases_
 ---
 
 ---

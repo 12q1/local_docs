@@ -1,7 +1,7 @@
-# aeromedical
+# Aeromedical
 
 ---
-## Adjective #adjective
+#adjective
 - **Of or pertaining to [[aeromedicine]].**
 ---
 

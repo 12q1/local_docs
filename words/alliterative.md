@@ -1,7 +1,7 @@
-# alliterative
+# Alliterative
 
 ---
-## Adjective #adjective
+#adjective
 - **In the form or style of [[alliteration]].**
 ---
 

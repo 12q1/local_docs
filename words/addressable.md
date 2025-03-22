@@ -1,7 +1,7 @@
-# addressable
+# Addressable
 
 ---
-## Adjective #adjective
+#adjective
 - **Able to be [[addressed]].**
 ---
 

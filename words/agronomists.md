@@ -1,7 +1,7 @@
-# agronomists
+# Agronomists
 
 ---
-## Noun #noun
+#noun
 - **A scientist whose speciality is [[agronomy]].**
 ---
 

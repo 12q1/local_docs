@@ -1,7 +1,7 @@
-# affectless
+# Affectless
 
 ---
-## Adjective #adjective
+#adjective
 - **Lacking or not showing emotion.**
 ---
 

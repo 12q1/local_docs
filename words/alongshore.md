@@ -1,11 +1,11 @@
-# alongshore
+# Alongshore
 
 ---
-## Adjective #adjective
+#adjective
 - **At or [[along]] a shore or coast.**
 ---
 
-## Adverb #adverb
+#adverb
 - **At or [[along]] a shore or coast.**
 ---
 

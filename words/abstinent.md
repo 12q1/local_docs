@@ -1,8 +1,8 @@
-# abstinent
+# Abstinent
 
 ---
-## Adjective #adjective
-- **Refraining from indulgence, especially from the indulgence of appetite.**
+#adjective
+- **Refraining from indulgence, especially from the indulgence of [[appetite]].**
 ---
 
 ### Synonyms

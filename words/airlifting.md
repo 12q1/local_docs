@@ -1,7 +1,7 @@
-# airlifting
+# Airlifting
 
 ---
-## Verb #verb
+#verb
 - **To transport (troops etc) in an [[airlift]].**
 ---
 

@@ -1,7 +1,7 @@
-# agony
+# Agony
 
 ---
-## Noun #noun
+#noun
 - **Extreme pain.**
 - **The sufferings of Jesus Christ in the garden of Gethsemane.**
 - **Violent contest or striving.**

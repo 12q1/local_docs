@@ -1,7 +1,7 @@
-# allopath
+# Allopath
 
 ---
-## Noun #noun
+#noun
 - **A practitioner of [[allopathy]]**
 ---
 

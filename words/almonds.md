@@ -1,7 +1,7 @@
-# almonds
+# Almonds
 
 ---
-## Noun #noun
+#noun
 - **A type of tree nut.**
 - **A small deciduous tree in family Rosaceae, Prunus dulcis, that produces predominantly sweet [[almonds]].**
 - **Other plants that produce [[almond]]-like nuts:**

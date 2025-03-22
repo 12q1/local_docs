@@ -1,7 +1,7 @@
-# algorithmic
+# Algorithmic
 
 ---
-## Adjective #adjective
+#adjective
 - **Of, relating to, or being an [[algorithm]].**
 ---
 

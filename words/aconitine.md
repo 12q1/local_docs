@@ -1,7 +1,7 @@
-# aconitine
+# Aconitine
 
 ---
-## Noun #noun
+#noun
 - **An intensely poisonous [[alkaloid]], extracted from [[aconite]].**
 ---
 

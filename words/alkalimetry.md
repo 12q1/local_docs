@@ -1,7 +1,7 @@
-# alkalimetry
+# Alkalimetry
 
 ---
-## Noun #noun
+#noun
 - **The process of determining the strength of an [[alkali]].**
 ---
 

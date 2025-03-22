@@ -1,7 +1,7 @@
-# akinesia
+# Akinesia
 
 ---
-## Noun #noun
+#noun
 - **The loss of the [[ability]] to control motor muscles.**
 ---
 

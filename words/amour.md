@@ -1,7 +1,7 @@
-# amour
+# Amour
 
 ---
-## Noun #noun
+#noun
 - **Love, [[affection]].**
 - **Courtship; flirtation.**
 - **A love [[affair]].**

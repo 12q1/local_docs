@@ -1,7 +1,7 @@
-# alee
+# Alee
 
 ---
-## Adverb #adverb
+#adverb
 - **On the lee side of a ship, to the leeward side (vs aweather)**
 ---
 

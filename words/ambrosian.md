@@ -1,7 +1,7 @@
-# ambrosian
+# Ambrosian
 
 ---
-## Adjective #adjective
+#adjective
 - **Ambrosial.**
 ---
 

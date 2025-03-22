@@ -1,7 +1,7 @@
-# achiest
+# Achiest
 
 ---
-## Adjective #adjective
+#adjective
 - **Suffering from [[aches]], sore.**
 ---
 

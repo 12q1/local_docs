@@ -1,11 +1,11 @@
-# adsorbent
+# Adsorbent
 
 ---
-## Noun #noun
+#noun
 - **The solid or liquid in the process of [[adsorption]] on which the [[adsorbate]] [[accumulates]].**
 ---
 
-## Adjective #adjective
+#adjective
 - **Tending to [[adsorb]].**
 ---
 

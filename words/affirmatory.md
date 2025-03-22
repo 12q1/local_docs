@@ -1,7 +1,7 @@
-# affirmatory
+# Affirmatory
 
 ---
-## Adjective #adjective
+#adjective
 - **Giving [[affirmation]]; assertive; [[affirmative]].**
 ---
 

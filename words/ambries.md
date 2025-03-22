@@ -1,7 +1,7 @@
-# ambries
+# Ambries
 
 ---
-## Noun #noun
+#noun
 - **A bookcase; a library or archive.**
 - **A storehouse, especially a niche or recess in a wall used for storage.**
 - **A pantry, or place to store food.**

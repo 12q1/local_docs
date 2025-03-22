@@ -1,7 +1,7 @@
-# alack
+# Alack
 
 ---
-## Interjection #interjection
+#interjection
 - **An expression of sorrow or mourning.**
 ---
 

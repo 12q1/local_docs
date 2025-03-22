@@ -1,7 +1,7 @@
-# academe
+# Academe
 
 ---
-## Noun #noun
+#noun
 - **The name of the garden in Athens where the [[academics]] met.**
 - **An [[academy]]; a place of learning.**
 - **The scholarly life, environment, or community.**

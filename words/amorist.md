@@ -1,7 +1,7 @@
-# amorist
+# Amorist
 
 ---
-## Noun #noun
+#noun
 - **Someone who is in love.**
 - **Someone who writes [[about]] love.**
 ---

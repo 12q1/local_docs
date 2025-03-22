@@ -1,7 +1,7 @@
-# aforesaid
+# Aforesaid
 
 ---
-## Adjective #adjective
+#adjective
 - **Previously stated; said or named before.**
 ---
 

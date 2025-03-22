@@ -1,7 +1,7 @@
-# advisor
+# Advisor
 
 ---
-## Noun #noun
+#noun
 - **One who offers [[advice]].**
 ---
 

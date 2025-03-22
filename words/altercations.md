@@ -1,8 +1,8 @@
-# altercations
+# Altercations
 
 ---
-## Noun #noun
-- **Heated or angry dispute**
+#noun
+- **Heated or [[angry]] dispute**
 ---
 
 ### Synonyms

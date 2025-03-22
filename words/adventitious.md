@@ -1,9 +1,9 @@
-# adventitious
+# Adventitious
 
 ---
-## Adjective #adjective
+#adjective
 - **From an external source; not innate or inherent, foreign.**
-- **Accidental, [[additional]], appearing casually.**
+- **Accidental, [[additional]], [[appearing]] casually.**
 - **Not congenital; [[acquired]].**
 - **Developing in an unusual place or from an unusual source.**
 ---

@@ -1,11 +1,11 @@
-# affrighted
+# Affrighted
 
 ---
-## Verb #verb
+#verb
 - **To terrify, to frighten, to inspire fright in.**
 ---
 
-## Adjective #adjective
+#adjective
 - **Terrified.**
 ---
 

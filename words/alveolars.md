@@ -1,7 +1,7 @@
-# alveolars
+# Alveolars
 
 ---
-## Noun #noun
+#noun
 - **An [[alveolar]] consonant**
 ---
 

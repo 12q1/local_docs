@@ -1,7 +1,7 @@
-# acellular
+# Acellular
 
 ---
-## Adjective #adjective
+#adjective
 - **Not composed of cells; not cellular**
 ---
 

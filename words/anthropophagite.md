@@ -1,0 +1,8 @@
+# Anthropophagite
+
+---
+#noun
+- **A cannibal.**
+---
+
+---

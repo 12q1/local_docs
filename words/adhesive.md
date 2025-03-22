@@ -1,11 +1,11 @@
-# adhesive
+# Adhesive
 
 ---
-## Noun #noun
+#noun
 - **A substance, such as glue, that provides or promotes [[adhesion]]**
 ---
 
-## Adjective #adjective
+#adjective
 - **Sticky; tenacious, as glutinous substances**
 - **Apt or tending to [[adhere]]; clinging**
 ---

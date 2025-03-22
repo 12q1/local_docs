@@ -1,18 +1,18 @@
-# alumni
+# Alumni
 
 ---
-## Noun #noun
+#noun
 - **An individual [[alumnus]] or [[alumna]].**
 ---
 
 ### Synonyms
 - [[alum]], [[alumn]], [[alumnx]]
 
-## Noun #noun
+#noun
 - **A male pupil or student.**
 - **A male graduate.**
-- **A student of any gender.**
-- **A graduate of any gender.**
+- **A student of [[any]] gender.**
+- **A graduate of [[any]] gender.**
 ---
 
 ---

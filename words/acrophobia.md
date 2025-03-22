@@ -1,7 +1,7 @@
-# acrophobia
+# Acrophobia
 
 ---
-## Noun #noun
+#noun
 - **Fear of heights.**
 ---
 

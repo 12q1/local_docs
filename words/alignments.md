@@ -1,7 +1,7 @@
-# alignments
+# Alignments
 
 ---
-## Noun #noun
+#noun
 - **An arrangement of items in a line.**
 - **The process of [[adjusting]] a mechanism such that its parts are [[aligned]]; the condition of having its parts so [[adjusted]].**
 - **An [[alliance]] of factions.**

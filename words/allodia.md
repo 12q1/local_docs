@@ -1,7 +1,7 @@
-# allodia
+# Allodia
 
 ---
-## Noun #noun
+#noun
 - **Freehold land or property**
 ---
 

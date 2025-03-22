@@ -1,7 +1,7 @@
-# absonant
+# Absonant
 
 ---
-## Adjective #adjective
+#adjective
 - **Discordant; harsh; contrary; unreasonable.**
 ---
 

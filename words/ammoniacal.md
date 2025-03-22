@@ -1,7 +1,7 @@
-# ammoniacal
+# Ammoniacal
 
 ---
-## Adjective #adjective
+#adjective
 - **Pertaining to or containing [[ammonia]].**
 ---
 

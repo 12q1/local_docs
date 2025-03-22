@@ -1,7 +1,7 @@
-# airways
+# Airways
 
 ---
-## Noun #noun
+#noun
 - **The trachea.**
 - **A flight path used by [[aeroplanes]].**
 ---

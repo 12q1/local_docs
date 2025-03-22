@@ -1,7 +1,7 @@
-# americanization
+# Americanization
 
 ---
-## Noun #noun
+#noun
 - **The process of Americanising.**
 ---
 

@@ -1,7 +1,7 @@
-# actioner
+# Actioner
 
 ---
-## Noun #noun
+#noun
 - **An [[action]] movie.**
 ---
 

@@ -1,7 +1,7 @@
-# abductor
+# Abductor
 
 ---
-## Noun #noun
+#noun
 - **One who [[abducts]]; a kidnapper.**
 ---
 

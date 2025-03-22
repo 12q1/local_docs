@@ -1,8 +1,8 @@
-# ampicillin
+# Ampicillin
 
 ---
-## Noun #noun
-- **A broad-spectrum antibiotic having a beta-lactam structure.**
+#noun
+- **A broad-spectrum [[antibiotic]] having a beta-lactam structure.**
 ---
 
 ---

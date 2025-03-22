@@ -1,7 +1,7 @@
-# adjudicators
+# Adjudicators
 
 ---
-## Noun #noun
+#noun
 - **One who [[adjudicates]].**
 ---
 

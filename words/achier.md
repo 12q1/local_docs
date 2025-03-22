@@ -1,7 +1,7 @@
-# achier
+# Achier
 
 ---
-## Adjective #adjective
+#adjective
 - **Suffering from [[aches]], sore.**
 ---
 

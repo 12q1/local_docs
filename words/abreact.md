@@ -1,7 +1,7 @@
-# abreact
+# Abreact
 
 ---
-## Verb #verb
+#verb
 - **To eliminate previously repressed emotions by reliving past experiences.**
 ---
 

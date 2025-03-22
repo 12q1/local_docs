@@ -1,7 +1,7 @@
-# advantageous
+# Advantageous
 
 ---
-## Adjective #adjective
+#adjective
 - **Being of [[advantage]], beneficial.**
 ---
 

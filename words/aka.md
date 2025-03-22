@@ -1,7 +1,7 @@
-# aka
+# Aka
 
 ---
-## Preposition #preposition
+#preposition
 - **Alternative letter-case form of AKA**
 ---
 

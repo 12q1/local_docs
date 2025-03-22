@@ -1,8 +1,8 @@
-# agglomerating
+# Agglomerating
 
 ---
-## Verb #verb
-- **To wind or collect into a ball; hence, to gather into a mass or anything like a mass.**
+#verb
+- **To wind or collect into a ball; hence, to gather into a mass or [[anything]] like a mass.**
 ---
 
 ### Synonyms

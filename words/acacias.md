@@ -1,7 +1,7 @@
-# acacias
+# Acacias
 
 ---
-## Noun #noun
+#noun
 - **A shrub or tree of the tribe Acacieae.**
 - **The thickened or dried juice of several species in Acacieae, in particular Vachellia nilotica (syn. Acacia nilotica), the Egyptian [[acacia]].**
 - **A false [[acacia]]; robinia tree, Robinia pseudoacacia.**
@@ -13,7 +13,7 @@
 ### Synonyms
 - [[gum acacia]], [[gum arabic]], [[wattle]]
 
-## Noun #noun
+#noun
 - **(history) A roll or bag, filled with dust, borne by Byzantine emperors, as a memento of mortality. It is represented on medals.**
 ---
 

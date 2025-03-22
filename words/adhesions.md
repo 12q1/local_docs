@@ -1,7 +1,7 @@
-# adhesions
+# Adhesions
 
 ---
-## Noun #noun
+#noun
 - **The [[ability]] of a substance to stick to an unlike substance.**
 - **Persistent attachment or loyalty.**
 - **An [[agreement]] to [[adhere]].**

@@ -1,7 +1,7 @@
-# allegories
+# Allegories
 
 ---
-## Noun #noun
+#noun
 - **The representation of [[abstract]] principles by characters or figures.**
 - **A picture, book, or other form of communication using such representation.**
 - **A symbolic representation which can be interpreted to reveal a hidden meaning, usually a moral or political one.**

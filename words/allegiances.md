@@ -1,7 +1,7 @@
-# allegiances
+# Allegiances
 
 ---
-## Noun #noun
+#noun
 - **Loyalty to some cause, nation or ruler.**
 ---
 

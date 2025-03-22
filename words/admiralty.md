@@ -1,7 +1,7 @@
-# admiralty
+# Admiralty
 
 ---
-## Noun #noun
+#noun
 - **The office or jurisdiction of an [[admiral]].**
 - **The department or officers having authority over naval [[affairs]] generally.**
 - **The court which has jurisdiction of maritime questions and offenses.**

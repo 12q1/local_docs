@@ -1,7 +1,7 @@
-# adios
+# Adios
 
 ---
-## Interjection #interjection
+#interjection
 - **(in Spanish contexts) goodbye**
 ---
 

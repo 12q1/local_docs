@@ -1,7 +1,7 @@
-# abovementioned
+# Abovementioned
 
 ---
-## Adjective #adjective
+#adjective
 - **Mentioned [[above]]**
 ---
 

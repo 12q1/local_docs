@@ -1,7 +1,7 @@
-# aeronautic
+# Aeronautic
 
 ---
-## Adjective #adjective
+#adjective
 - **Having to do with [[aerial]] navigation**
 ---
 

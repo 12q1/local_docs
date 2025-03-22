@@ -1,11 +1,11 @@
-# amnestied
+# Amnestied
 
 ---
-## Adjective #adjective
+#adjective
 - **That has been given [[amnesty]]; whose past offences have been forgiven.**
 ---
 
-## Verb #verb
+#verb
 - **To grant a pardon (to a group)**
 ---
 

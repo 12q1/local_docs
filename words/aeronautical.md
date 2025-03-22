@@ -1,7 +1,7 @@
-# aeronautical
+# Aeronautical
 
 ---
-## Adjective #adjective
+#adjective
 - **Of or pertaining to the scientific study of flight**
 ---
 

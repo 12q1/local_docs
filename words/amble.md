@@ -1,12 +1,12 @@
-# amble
+# Amble
 
 ---
-## Noun #noun
+#noun
 - **An unhurried leisurely walk or stroll.**
 - **An easy gait, especially that of a horse.**
 ---
 
-## Verb #verb
+#verb
 - **To stroll or walk slowly and leisurely.**
 - **Of a quadruped: to move [[along]] by using both legs on one side, and then the other.**
 ---

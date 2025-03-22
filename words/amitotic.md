@@ -1,7 +1,7 @@
-# amitotic
+# Amitotic
 
 ---
-## Adjective #adjective
+#adjective
 - **Of or pertaining to [[amitosis]]**
 ---
 

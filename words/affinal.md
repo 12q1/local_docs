@@ -1,7 +1,7 @@
-# affinal
+# Affinal
 
 ---
-## Adjective #adjective
+#adjective
 - **Of a family relationship by marriage of a relative (or through [[affinity]]), as opposed to consanguinity; in-law.**
 ---
 

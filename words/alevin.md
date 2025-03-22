@@ -1,7 +1,7 @@
-# alevin
+# Alevin
 
 ---
-## Noun #noun
+#noun
 - **Newly hatched fish, especially salmon.**
 ---
 

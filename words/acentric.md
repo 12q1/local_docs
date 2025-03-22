@@ -1,7 +1,7 @@
-# acentric
+# Acentric
 
 ---
-## Adjective #adjective
+#adjective
 - **Not centered; without a center.**
 ---
 

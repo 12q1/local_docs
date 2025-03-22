@@ -1,12 +1,12 @@
-# abolitionist
+# Abolitionist
 
 ---
-## Noun #noun
-- **A person who favors the [[abolition]] of any particular institution or practice.**
+#noun
+- **A person who favors the [[abolition]] of [[any]] particular institution or practice.**
 - **A person who favored or [[advocated]] the [[abolition]] of slavery.**
 ---
 
-## Adjective #adjective
+#adjective
 - **In favor of the [[abolition]] of slavery.**
 ---
 

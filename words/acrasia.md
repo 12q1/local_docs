@@ -1,7 +1,7 @@
-# acrasia
+# Acrasia
 
 ---
-## Noun #noun
+#noun
 - **Lack of self-control; excess; intemperance**
 ---
 

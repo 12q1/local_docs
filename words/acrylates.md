@@ -1,7 +1,7 @@
-# acrylates
+# Acrylates
 
 ---
-## Noun #noun
+#noun
 - **Any salt or ester of [[acrylic]] [[acid]].**
 ---
 

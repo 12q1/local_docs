@@ -1,7 +1,7 @@
-# abos
+# Abos
 
 ---
-## Noun #noun
+#noun
 - **An [[aborigine]]; [[aboriginal]].**
 ---
 

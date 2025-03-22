@@ -1,7 +1,7 @@
-# alkies
+# Alkies
 
 ---
-## Noun #noun
+#noun
 - **An [[alcoholic]].**
 ---
 

@@ -1,17 +1,17 @@
-# ails
+# Ails
 
 ---
-## Noun #noun
+#noun
 - **An [[ailment]]; trouble; illness.**
 ---
 
-## Verb #verb
+#verb
 - **To cause to suffer; to trouble, [[afflict]]. (Now chiefly in interrogative or indefinite constructions.)**
-  - _Example: Have some chicken soup. It's good for what ails you._
+ - _Example: Have some chicken soup. It's good for what ails you._
 - **To be ill; to suffer; to be troubled.**
 ---
 
-## Noun #noun
+#noun
 - **The awn of barley or other types of corn.**
 ---
 

@@ -1,7 +1,7 @@
-# aerials
+# Aerials
 
 ---
-## Noun #noun
+#noun
 - **A rod, wire, or other structure for receiving or transmitting radio, television signals etc.**
 - **A move, as in dancing or skateboarding, involving one or both feet leaving the ground.**
 - **Aerial photography.**

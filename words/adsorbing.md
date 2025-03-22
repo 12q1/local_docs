@@ -1,7 +1,7 @@
-# adsorbing
+# Adsorbing
 
 ---
-## Verb #verb
+#verb
 - **To [[accumulate]] on a surface, by [[adsorption]]**
 ---
 

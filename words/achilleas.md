@@ -1,7 +1,7 @@
-# achilleas
+# Achilleas
 
 ---
-## Noun #noun
+#noun
 - **Any of various plants of the genus Achillea**
 ---
 

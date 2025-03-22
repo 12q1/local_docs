@@ -1,7 +1,7 @@
-# aesthetics
+# Aesthetics
 
 ---
-## Noun #noun
+#noun
 - **The study or philosophy of beauty.**
 ---
 

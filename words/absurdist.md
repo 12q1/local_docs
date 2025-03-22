@@ -1,11 +1,11 @@
-# absurdist
+# Absurdist
 
 ---
-## Noun #noun
+#noun
 - **An [[advocate]] of [[absurdism]], in particular a writer of [[absurd]] topics.**
 ---
 
-## Adjective #adjective
+#adjective
 - **Of, or relating to [[absurdism]].**
 ---
 

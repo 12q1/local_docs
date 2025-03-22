@@ -1,7 +1,7 @@
-# airmen
+# Airmen
 
 ---
-## Noun #noun
+#noun
 - **A pilot of an [[aircraft]].**
 - **A member of an [[air]] force.**
 - **A person of a rank in the U.S. Air Force [[above]] [[airman]] basic and below [[airman]] first class.**

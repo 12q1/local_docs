@@ -1,7 +1,7 @@
-# adnominal
+# Adnominal
 
 ---
-## Adjective #adjective
+#adjective
 - **(grammar) Of or pertaining to an [[adnoun]].**
 ---
 

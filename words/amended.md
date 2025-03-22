@@ -1,7 +1,7 @@
-# amended
+# Amended
 
 ---
-## Verb #verb
+#verb
 - **To make better; improve.**
 - **To become better.**
 - **To heal (someone sick); to cure (a disease etc.).**
@@ -12,9 +12,9 @@
 ### Synonyms
 - [[ameliorate]], [[correct]], [[improve]]
 
-## Adjective #adjective
+#adjective
 - **That has been modified from a previous form.**
-  - _Example: We voted on the amended bill, and it passed._
+ - _Example: We voted on the amended bill, and it passed._
 ---
 
 ---

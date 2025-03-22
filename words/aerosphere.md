@@ -1,7 +1,7 @@
-# aerosphere
+# Aerosphere
 
 ---
-## Noun #noun
+#noun
 - **Atmosphere**
 ---
 

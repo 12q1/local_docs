@@ -1,7 +1,7 @@
-# accusatives
+# Accusatives
 
 ---
-## Noun #noun
+#noun
 - **(grammar) The [[accusative]] case.**
 ---
 

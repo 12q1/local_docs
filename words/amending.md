@@ -1,7 +1,7 @@
-# amending
+# Amending
 
 ---
-## Verb #verb
+#verb
 - **To make better; improve.**
 - **To become better.**
 - **To heal (someone sick); to cure (a disease etc.).**

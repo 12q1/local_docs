@@ -1,7 +1,7 @@
-# adaptable
+# Adaptable
 
 ---
-## Adjective #adjective
+#adjective
 - **Capable of [[adapting]] or of being [[adapted]].**
 ---
 

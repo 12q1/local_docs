@@ -1,7 +1,7 @@
-# aetat
+# Aetat
 
 ---
-## Adjective #adjective
+#adjective
 - **Aged; at the [[age]] of.**
 ---
 

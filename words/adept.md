@@ -1,12 +1,12 @@
-# adept
+# Adept
 
 ---
-## Noun #noun
-- **One fully skilled or well versed in anything; a proficient**
-  - _Example: adepts in philosophy_
+#noun
+- **One fully skilled or well versed in [[anything]]; a proficient**
+ - _Example: adepts in philosophy_
 ---
 
-## Adjective #adjective
+#adjective
 - **Well skilled; completely versed; thoroughly proficient**
 ---
 

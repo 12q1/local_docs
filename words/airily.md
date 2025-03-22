@@ -1,7 +1,7 @@
-# airily
+# Airily
 
 ---
-## Adverb #adverb
+#adverb
 - **In an [[airy]] manner.**
 - **Lightly**
 ---

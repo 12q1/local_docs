@@ -1,11 +1,11 @@
-# acceptant
+# Acceptant
 
 ---
-## Noun #noun
+#noun
 - **One who [[accepts]] something.**
 ---
 
-## Adjective #adjective
+#adjective
 - **Accepting; receiving.**
 ---
 

@@ -1,15 +1,15 @@
-# aliquot
+# Aliquot
 
 ---
-## Noun #noun
+#noun
 - **A portion of a total [[amount]] of a solution or suspension.**
 ---
 
-## Verb #verb
+#verb
 - **To separate a volume of solution or suspension into [[aliquots]].**
 ---
 
-## Adjective #adjective
+#adjective
 - **Contained in the whole an integral number of times, a factor or divisor.**
 ---
 

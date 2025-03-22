@@ -1,7 +1,7 @@
-# alginates
+# Alginates
 
 ---
-## Noun #noun
+#noun
 - **Any salt or ester of [[alginic]] [[acid]].**
 ---
 

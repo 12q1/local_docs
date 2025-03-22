@@ -1,11 +1,11 @@
-# absorptive
+# Absorptive
 
 ---
-## Noun #noun
+#noun
 - **Any substance that [[absorbs]].**
 ---
 
-## Adjective #adjective
+#adjective
 - **Having power, capacity, or tendency to [[absorb]] or imbibe; [[absorbent]].**
 ---
 

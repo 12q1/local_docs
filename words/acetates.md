@@ -1,7 +1,7 @@
-# acetates
+# Acetates
 
 ---
-## Noun #noun
+#noun
 - **Any salt or ester of [[acetic]] [[acid]].**
 - **Cellulose [[acetate]].**
 - **A transparent sheet used for overlays.**

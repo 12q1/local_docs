@@ -1,7 +1,7 @@
-# alkanet
+# Alkanet
 
 ---
-## Noun #noun
+#noun
 - **Alkanna tinctoria, a plant whose root is used as a red dye.**
 - **The dyeing matter extracted from the plant, giving a deep red colour.**
 - **Other plants of the genus Alkanna.**

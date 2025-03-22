@@ -1,7 +1,7 @@
-# alimentation
+# Alimentation
 
 ---
-## Noun #noun
+#noun
 - **Feeding, being fed; the provision of food and other necessities.**
 ---
 

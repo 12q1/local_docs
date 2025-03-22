@@ -1,7 +1,7 @@
-# amenorrhea
+# Amenorrhea
 
 ---
-## Noun #noun
+#noun
 - **Absence of menstrual discharge.**
 ---
 

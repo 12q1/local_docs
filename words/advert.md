@@ -1,7 +1,7 @@
-# advert
+# Advert
 
 ---
-## Noun #noun
+#noun
 - **An [[advertisement]], an [[ad]].**
 ---
 

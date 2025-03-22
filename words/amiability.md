@@ -1,7 +1,7 @@
-# amiability
+# Amiability
 
 ---
-## Noun #noun
+#noun
 - **Friendliness, especially easy approachability owing to a cheerful and pleasant disposition.**
 ---
 

@@ -1,7 +1,7 @@
-# abuna
+# Abuna
 
 ---
-## Noun #noun
+#noun
 - **The Patriarch, or head of the Abyssinian Church.**
 ---
 

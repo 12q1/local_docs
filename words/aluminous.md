@@ -1,7 +1,7 @@
-# aluminous
+# Aluminous
 
 ---
-## Adjective #adjective
+#adjective
 - **Of or pertaining to [[alumina]] or [[alum]]**
 ---
 

@@ -1,11 +1,11 @@
-# agley
+# Agley
 
 ---
-## Adjective #adjective
+#adjective
 - **Wrong; askew.**
 ---
 
-## Adverb #adverb
+#adverb
 - **Wrong, awry, askew, [[amiss]], or distortedly.**
 ---
 

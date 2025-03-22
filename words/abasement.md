@@ -1,7 +1,7 @@
-# abasement
+# Abasement
 
 ---
-## Noun #noun
+#noun
 - **The [[act]] of [[abasing]], humbling, or bringing low.**
 - **The state of being [[abased]] or humbled; humiliation.**
 ---

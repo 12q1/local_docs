@@ -1,7 +1,7 @@
-# aerophagy
+# Aerophagy
 
 ---
-## Noun #noun
+#noun
 - **The swallowing of [[air]], especially in hysteria.**
 ---
 

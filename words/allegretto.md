@@ -1,11 +1,11 @@
-# allegretto
+# Allegretto
 
 ---
-## Noun #noun
+#noun
 - **A movement in this time.**
 ---
 
-## Adverb #adverb
+#adverb
 - **To be played rather fast and lively.**
 ---
 

@@ -1,7 +1,7 @@
-# adrenals
+# Adrenals
 
 ---
-## Noun #noun
+#noun
 - **An [[adrenal]] gland.**
 ---
 

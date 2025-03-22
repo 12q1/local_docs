@@ -1,7 +1,7 @@
-# admixed
+# Admixed
 
 ---
-## Verb #verb
+#verb
 - **To mingle with something else; to mix.**
 ---
 
