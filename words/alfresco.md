@@ -1,7 +1,7 @@
 # Alfresco
 ---
 #adjective
-- **Outdoors, open to the atmosphere.**
+- **Outdoors, open to the [[atmosphere]].**
 	- _Example: The walking district features many alfresco cafés._
 ---
 #adverb

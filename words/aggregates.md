@@ -8,7 +8,7 @@
 - **The total score in a set of games between teams or competitors, usually the combination of the home and away scores**
 - **(roofing) Crushed stone, crushed slag or water-worn gravel used for surfacing a built-up roof system.**
 - **Solid particles of low [[aspect]] ratio [[added]] to a composite material, as distinguished from the matrix and [[any]] fibers or reinforcements, especially the gravel and sand [[added]] to concrete.**
-- **Any of the five attributes that constitute the sentient being.**
+- **Any of the five [[attributes]] that constitute the sentient being.**
 ---
 ### Synonyms
 - [[skandha]], [[cluster]]

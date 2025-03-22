@@ -1,7 +1,7 @@
 # Appending
 ---
 #verb
-- **To hang or attach to, as by a string, so that the thing is suspended**
+- **To hang or [[attach]] to, as by a string, so that the thing is suspended**
 	- _Example: An inscription was appended to the column._
 - **To [[add]], as an [[accessory]] to the principal thing; to [[annex]]**
 	- _Example: notes appended to a book chapter_

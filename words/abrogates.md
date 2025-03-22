@@ -1,7 +1,7 @@
 # Abrogates
 ---
 #verb
-- **To [[annul]] by an authoritative [[act]]; to [[abolish]] by the authority of the maker or her or his successor; to repeal; — [[applied]] to the repeal of laws, decrees, ordinances, the [[abolition]] of customs, etc.**
+- **To [[annul]] by an [[authoritative]] [[act]]; to [[abolish]] by the [[authority]] of the maker or her or his successor; to repeal; — [[applied]] to the repeal of laws, decrees, ordinances, the [[abolition]] of customs, etc.**
 - **To put an end to; to do away with.**
 - **To block a process or function.**
 ---

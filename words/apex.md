@@ -8,7 +8,7 @@
 	- _Example: the apex of civilization_
 - **The topmost vertex of a cone or pyramid (in their conventional orientation).**
 - **The "pointed" fine end of something.**
-- **The end of a leaf, petal or similar organ opposed to the end where it is attached to its support; the tip.**
+- **The end of a leaf, petal or similar organ opposed to the end where it is [[attached]] to its support; the tip.**
 - **The point on the celestial sphere toward which the sun [[appears]] to move relative to nearby stars.**
 - **The lowest point on a pendant drop of a liquid.**
 - **The end or edge of a vein nearest the surface.**

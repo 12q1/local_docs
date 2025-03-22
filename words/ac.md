@@ -5,9 +5,9 @@
 - **Initialism of [[adjuvant]] chemotherapy.**
 - **Initialism of [[air]] corps.**
 - **Initialism of [[army]] corps.**
-- **Initialism of athletic club.**
-- **Initialism of audible chuckle.**
-- **Initialism of author's correction.**
+- **Initialism of [[athletic]] club.**
+- **Initialism of [[audible]] chuckle.**
+- **Initialism of [[author]]'s correction.**
 - **Initialism of automobile club.**
 - **Initialism of Auxiliary Collier, (a naval coal transport that travels with the fleet to provide coal for coal powered warships)**
 - **Companion of the Order of Australia.**
@@ -27,7 +27,7 @@
 - **Ante cibum, before meals**
 ---
 #noun
-- **The practice of restricting entrance to a property, a building, or a room to authorized persons.**
+- **The practice of restricting entrance to a property, a building, or a room to [[authorized]] persons.**
 - **In technology, permitting or denying the use of a particular resource.**
 ---
 ### Synonyms

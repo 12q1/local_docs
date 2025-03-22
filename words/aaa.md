@@ -3,7 +3,7 @@
 #noun
 - **Initialism of [[abdominal]] [[aortic]] [[aneurism]].**
 - **Initialism of [[acquired]] [[aplastic]] [[anemia]].**
-- **Initialism of [[acute]] [[anxiety]] attack.**
+- **Initialism of [[acute]] [[anxiety]] [[attack]].**
 - **Initialism of [[androgenic]] [[anabolic]] [[agent]].**
 - **Initialism of [[anti]]-[[aircraft]] [[artillery]].**
 ---

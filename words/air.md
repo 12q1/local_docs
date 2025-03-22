@@ -1,7 +1,7 @@
 # Air
 ---
 #noun
-- **The substance constituting earth's atmosphere, particularly:**
+- **The substance constituting earth's [[atmosphere]], particularly:**
 	- _Example: I'm going outside to get some air._
 - **(usually with the) The [[apparently]] open space [[above]] the ground which this substance fills, formerly thought to be limited by the firmament but now considered to be surrounded by the near vacuum of outer space.**
 	- _Example: The flock of birds took to the air._

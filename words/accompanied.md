@@ -6,7 +6,7 @@
 ### Synonyms
 - [[acc.]]
 #verb
-- **To go with or attend as a companion or [[associate]]; to keep company with; to go [[along]] with.**
+- **To go with or [[attend]] as a companion or [[associate]]; to keep company with; to go [[along]] with.**
 	- _Example: Geoffrey accompanied the group on their pilgrimage._
 - **To supplement with; [[add]] to.**
 - **To perform an [[accompanying]] part or parts in a composition.**

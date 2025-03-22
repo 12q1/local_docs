@@ -2,10 +2,10 @@
 ---
 #noun
 - **A summons to [[arms]], as on the [[approach]] of an enemy.**
-- **Any sound or information intended to give notice of [[approaching]] danger; a warning sound to [[arouse]] attention; a warning of danger.**
-- **A sudden attack; disturbance.**
-- **Sudden surprise with fear or terror excited by [[apprehension]] of danger; in the military use, commonly, sudden [[apprehension]] of being attacked by surprise.**
-- **A mechanical device for awaking people, or rousing their attention.**
+- **Any sound or information intended to give notice of [[approaching]] danger; a warning sound to [[arouse]] [[attention]]; a warning of danger.**
+- **A sudden [[attack]]; disturbance.**
+- **Sudden surprise with fear or terror excited by [[apprehension]] of danger; in the military use, commonly, sudden [[apprehension]] of being [[attacked]] by surprise.**
+- **A mechanical device for awaking people, or rousing their [[attention]].**
 	- _Example: The clock radio is a friendlier version of the cold alarm by the bedside._
 - **An instance of an [[alarm]] ringing, beeping or clanging, to give a noise signal at a certain time.**
 	- _Example: You should set the alarm on your watch to go off at seven o'clock._

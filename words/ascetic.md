@@ -5,7 +5,7 @@
 ---
 #adjective
 - **Of or relating to [[ascetics]]**
-- **Characterized by rigorous self-denial or self-discipline; austere; [[abstinent]]; involving a withholding of physical pleasure.**
+- **Characterized by rigorous self-denial or self-discipline; [[austere]]; [[abstinent]]; involving a withholding of physical pleasure.**
 ---
 ### Synonyms
 - [[abstinent]], [[ascetical]], [[ascetical]]

@@ -30,7 +30,7 @@
 - **The occupation of an [[actor]].**
 ---
 #adjective
-- **Temporarily [[assuming]] the duties or authority of [[another]] person when they are unable to do their job.**
+- **Temporarily [[assuming]] the duties or [[authority]] of [[another]] person when they are unable to do their job.**
 	- _Example: Acting President of the United States is a temporary office in the government of the United States._
 ---
 ---

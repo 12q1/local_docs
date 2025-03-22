@@ -18,7 +18,7 @@
 - **A mapping from a pairing of mathematical objects to one of them, respecting their individual structures. The pairing is typically a Cartesian product or a tensor product. The object that is not part of the output is said to [[act]] on the other object. In [[any]] given context, [[action]] is used as an [[abbreviation]] for a more fully named notion, like group [[action]] or left group [[action]].**
 - **The product of energy and time, especially the product of the Lagrangian and time.**
 - **The event or connected series of events, either real or imaginary, forming the subject of a play, poem, or other composition; the unfolding of the drama of events.**
-- **(painting and sculpture) The attitude or position of the several parts of the body as expressive of the sentiment or passion depicted.**
+- **(painting and sculpture) The [[attitude]] or position of the several parts of the body as expressive of the sentiment or passion depicted.**
 - **Spin put on the bowling ball.**
 - **A share in the capital stock of a joint-stock company, or in the public funds.**
 ---

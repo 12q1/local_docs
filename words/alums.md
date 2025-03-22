@@ -7,6 +7,6 @@
 ### Synonyms
 - [[potash alum]]
 #noun
-- **(shortening) A past attendee or graduate (of either gender) of a college, university or other educational institution.**
+- **(shortening) A past [[attendee]] or graduate (of either gender) of a college, university or other educational institution.**
 ---
 ---

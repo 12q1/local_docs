@@ -5,6 +5,6 @@
 ---
 #adjective
 - **Of or pertaining to [[antinomianism]].**
-- **Rejecting moral authority.**
+- **Rejecting moral [[authority]].**
 ---
 ---

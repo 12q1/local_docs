@@ -9,7 +9,7 @@
 - **An object, such as a tool, ornament, or weapon of [[archaeological]] or historical interest, especially such an object found at an [[archaeological]] excavation.**
 	- _Example: The dig produced many Roman artifacts._
 - **An [[appearance]] or structure in protoplasm due to death, the method of preparation of specimens, or the use of reagents, and not present during life.**
-- **A perceptible distortion that [[appears]] in an audio or video file or a digital image as a result of [[applying]] a lossy compression [[algorithm]].**
+- **A perceptible distortion that [[appears]] in an [[audio]] or video file or a digital image as a result of [[applying]] a lossy compression [[algorithm]].**
 	- _Example: This JPEG image has been so highly compressed that it has unsightly compression artifacts, making it unsuitable for the cover of our magazine._
 ---
 ---

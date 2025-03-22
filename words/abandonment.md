@@ -6,7 +6,7 @@
 	- _Example: Since he left her, she's suing him for divorce on grounds of abandonment._
 - **An [[abandoned]] building or structure.**
 	- _Example: High-profile abandonments are harder to infiltrate for urban explorers due to their heightened security._
-- **The relinquishment of a right, claim, or privilege; relinquishment of right to secure a patent by an inventor; relinquishment of copyright by an author.**
+- **The relinquishment of a right, claim, or privilege; relinquishment of right to secure a patent by an inventor; relinquishment of copyright by an [[author]].**
 - **The relinquishment by the insured to the underwriters of what may remain of the property insured [[after]] a loss or damage by a peril insured [[against]].**
 - **The cessation of service on a particular segment of the lines of a common carrier, as granted by a government [[agency]].**
 - **A refusal to receive freight so damaged in transit as to be worthless and render carrier liable for its value.**

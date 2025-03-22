@@ -24,7 +24,7 @@
 #adjective
 - **Allotted.**
 - **Acknowledged; [[admitted]] to be true.**
-- **Permitted, authorized.**
+- **Permitted, [[authorized]].**
 ---
 ### Antonyms
 - [[forbidden]], [[prohibited]]

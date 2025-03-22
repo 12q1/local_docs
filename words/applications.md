@@ -14,7 +14,7 @@
 - **(bureaucracy) A petition, entreaty, or other request, with the [[adposition]] for denoting the subject matter.**
 	- _Example: Their application for a deferral of the hearing was granted._
 - **The [[act]] of requesting, claiming, or petitioning something.**
-- **Diligence; close thought or attention.**
+- **Diligence; close thought or [[attention]].**
 - **A kind of needlework; appliqué.**
 - **Compliance.**
 ---

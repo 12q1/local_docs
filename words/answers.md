@@ -26,7 +26,7 @@
 - **To be or [[act]] in compliance with, in fulfillment or satisfaction of, as an order, obligation, or demand.**
 	- _Example: He answered my claim upon him._
 - **To render [[account]] to or for.**
-- **To atone for; to be punished for.**
+- **To [[atone]] for; to be punished for.**
 - **To be or [[act]] as an equivalent to, or as [[adequate]] or sufficient for; to serve for; to repay.**
 ---
 ### Synonyms

@@ -12,6 +12,6 @@
 ### Synonyms
 - [[accomplish]], [[complete]], [[effect]], [[execute]], [[fulfil]], [[fulfill]], [[obtain]], [[perform]], [[realize]]
 #adjective
-- **(of a goal or status) Having been reached, attained or [[accomplished]].**
+- **(of a goal or status) Having been reached, [[attained]] or [[accomplished]].**
 ---
 ---

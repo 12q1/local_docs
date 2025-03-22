@@ -2,7 +2,7 @@
 ---
 #noun
 - **A tool used to moor a vessel to the bottom of a sea or river to resist movement.**
-- **An iron device so shaped as to grip the bottom and hold a vessel at her berth by the chain or rope attached. (FM 55-501).**
+- **An iron device so shaped as to grip the bottom and hold a vessel at her berth by the chain or rope [[attached]]. (FM 55-501).**
 - **The combined [[anchoring]] gear ([[anchor]], rode, bill/peak and fittings such as bitts, cat, and windlass.)**
 - **Representation of the nautical tool, used as a heraldic charge.**
 - **Any instrument serving a purpose like that of a ship's [[anchor]], such as an [[arrangement]] of timber to hold a dam fast; a device to hold the end of a bridge cable etc.; or a device used in metalworking to hold the core of a mould in place.**

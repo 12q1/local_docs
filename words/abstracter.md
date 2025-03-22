@@ -5,7 +5,7 @@
 - **Drawn away; removed from; [[apart]] from; separate.**
 - **Not concrete: conceptual, ideal.**
 - **Difficult to understand; [[abstruse]]; hard to conceptualize.**
-- **Separately expressing a property or attribute of an object that is considered to be inherent to that object: attributive, [[ascriptive]].**
+- **Separately expressing a property or [[attribute]] of an object that is considered to be inherent to that object: [[attributive]], [[ascriptive]].**
 - **Pertaining comprehensively to, or representing, a class or group of objects, as opposed to [[any]] specific object; considered [[apart]] from [[any]] [[application]] to a particular object: general, generic, nonspecific; representational.**
 - **Absent-minded.**
 - **Pertaining to the formal [[aspect]] of [[art]], such as the lines, colors, shapes, and the relationships [[among]] them.**

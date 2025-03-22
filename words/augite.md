@@ -1,0 +1,6 @@
+# Augite
+---
+#noun
+- **A variety of pyroxene, usually of a black or dark green color, occurring in igneous rocks, such as basalt.**
+---
+---

@@ -1,7 +1,7 @@
 # Appendant
 ---
 #noun
-- **Anything attached to something else as incidental or subordinate to it.**
+- **Anything [[attached]] to something else as incidental or subordinate to it.**
 - **An inheritance [[annexed]] by prescription to a superior inheritance.**
 ---
 #adjective

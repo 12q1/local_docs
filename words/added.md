@@ -1,14 +1,14 @@
 # Added
 ---
 #verb
-- **To join or unite (e.g. one thing to [[another]], or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one [[aggregate]].**
+- **To join or unite (e.g. one thing to [[another]], or as several particulars) so as to increase the number, [[augment]] the quantity or enlarge the magnitude, or so as to form into one [[aggregate]].**
 - **To sum up; to put together mentally.**
 	- _Example: to add numbers_
 - **To combine elements of (something) into one quantity.**
 	- _Example: to add a column of numbers_
 - **To give by way of increased possession (to someone); to bestow (on).**
 - **To [[append]] (e,g, a statement); to say further information.**
-- **To make an [[addition]]; to augment; to increase.**
+- **To make an [[addition]]; to [[augment]]; to increase.**
 	- _Example: It adds to our anxiety._
 - **To perform the [[arithmetical]] operation of [[addition]].**
 	- _Example: He adds rapidly._

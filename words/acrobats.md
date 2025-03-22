@@ -1,6 +1,6 @@
 # Acrobats
 ---
 #noun
-- **An athlete who performs [[acts]] requiring skill, [[agility]] and coordination.**
+- **An [[athlete]] who performs [[acts]] requiring skill, [[agility]] and coordination.**
 ---
 ---

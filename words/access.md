@@ -8,7 +8,7 @@
 - **Admission to sexual intercourse.**
 - **An increase by [[addition]]; [[accession]]**
 	- _Example: an access of territory_
-- **An onset, attack, or fit of disease; an [[ague]] fit.**
+- **An onset, [[attack]], or fit of disease; an [[ague]] fit.**
 - **An outburst of an emotion; a paroxysm; a fit of passion**
 - **The right of a noncustodial parent to visit their child.**
 - **The process of locating data in memory.**

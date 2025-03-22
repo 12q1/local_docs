@@ -3,7 +3,7 @@
 #noun
 - **That which is born or brought forth prematurely; an [[abortion]].**
 - **A fruitless effort or issue.**
-- **A medicine to which is attributed the property of causing [[abortion]], [[abortifacient]].**
+- **A medicine to which is [[attributed]] the property of causing [[abortion]], [[abortifacient]].**
 ---
 #verb
 - **To cause an [[abortion]]; to render without fruit.**

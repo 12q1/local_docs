@@ -8,7 +8,7 @@
 - **The usual or [[accepted]] meaning of a word or expression.**
 - **An [[assent]] and engagement by the person on whom a bill of exchange is drawn, to pay it when due [[according]] to the terms of the [[acceptance]]; the bill of exchange itself when [[accepted]].**
 - **An [[agreeing]] to the [[action]], proposals, or terms of [[another]] by some [[act]] which results in the conclusion of a legally binding contract; the reception or taking of a thing bought as that for which it was bought, or as that [[agreed]] to be delivered, or the taking of possession of a thing as owner.**
-- **The [[act]] of an authorized representative of the government by which the government [[assents]] to ownership of existing and identified supplies, or [[approves]] specific services rendered, as partial or complete performance of a contract.**
+- **The [[act]] of an [[authorized]] representative of the government by which the government [[assents]] to ownership of existing and identified supplies, or [[approves]] specific services rendered, as partial or complete performance of a contract.**
 - **A list of horses [[accepted]] as starters in a race.**
 ---
 ### Synonyms

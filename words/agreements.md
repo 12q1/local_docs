@@ -6,7 +6,7 @@
 - **A state whereby several parties share a view or opinion; the state of not contradicting one [[another]].**
 	- _Example: The results of my experiment are in agreement with those of Michelson and with the law of General Relativity._
 - **A legally binding contract enforceable in a court of law.**
-- **(grammar) Rules that exist in many languages that force some parts of a sentence to be used or inflected differently depending on certain attributes of other parts.**
+- **(grammar) Rules that exist in many languages that force some parts of a sentence to be used or inflected differently depending on certain [[attributes]] of other parts.**
 - **(chiefly in the plural) An [[agreeable]] quality.**
 ---
 ### Synonyms

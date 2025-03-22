@@ -4,7 +4,7 @@
 - **A person united with [[another]] or others in an [[act]], enterprise, or business; a partner.**
 - **Somebody with whom one works, coworker, colleague.**
 - **A companion; a comrade.**
-- **One that habitually [[accompanies]] or is [[associated]] with [[another]]; an attendant circumstance.**
+- **One that habitually [[accompanies]] or is [[associated]] with [[another]]; an [[attendant]] circumstance.**
 - **A member of an institution or society who is granted only partial status or privileges.**
 - **One of a pair of elements of an integral domain (or a ring) such that the two elements are divisible by each other (or, equivalently, such that each one can be expressed as the product of the other with a unit).**
 ---

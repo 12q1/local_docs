@@ -9,7 +9,7 @@
 - **A society of learned people united for the [[advancement]] of the [[arts]] and sciences, and literature, or some particular [[art]] or science.**
 - **The knowledge disseminated in an Academy.**
 - **(with the, without reference to [[any]] specific [[academy]]) Academia.**
-- **A body of established opinion in a particular field, regarded as authoritative.**
+- **A body of established opinion in a particular field, regarded as [[authoritative]].**
 - **A school directly funded by central government, independent of local control.**
 ---
 ### Synonyms

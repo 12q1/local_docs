@@ -1,7 +1,7 @@
 # Adorns
 ---
 #verb
-- **To make more beautiful and attractive; to decorate.**
+- **To make more beautiful and [[attractive]]; to decorate.**
 	- _Example: a character adorned with every Christian grace_
 ---
 ### Synonyms

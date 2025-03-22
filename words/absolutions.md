@@ -1,7 +1,7 @@
 # Absolutions
 ---
 #noun
-- **An [[absolving]] of sins from ecclesiastical penalties by an authority.**
+- **An [[absolving]] of sins from ecclesiastical penalties by an [[authority]].**
 - **Forgiveness of sins, in a general sense.**
 - **The form of words by which a penitent is [[absolved]].**
 - **An [[absolving]], or setting free from guilt, sin, or penalty; forgiveness of an offense.**

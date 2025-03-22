@@ -16,7 +16,7 @@
 ### Antonyms
 - [[dead]]
 #adjective
-- **(only used attributively) Having life; that is [[alive]].**
+- **(only used [[attributively]]) Having life; that is [[alive]].**
 	- _Example: The post office will not ship live animals._
 - **Being in existence; [[actual]]**
 	- _Example: He is a live example of the consequences of excessive drinking._
@@ -32,7 +32,7 @@
 	- _Example: The station presented a live news program every evening._
 - **(of a performance or speech) In person.**
 	- _Example: This nightclub has a live band on weekends._
-- **(entertainment, performing) Recorded in front of an audience and not having been edited [[after]] recording.**
+- **(entertainment, performing) Recorded in front of an [[audience]] and not having been edited [[after]] recording.**
 	- _Example: a live album_
 - **Of firearms or explosives, capable of causing harm.**
 	- _Example: The air force practices dropping live bombs on the uninhabited island._

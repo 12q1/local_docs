@@ -1,7 +1,7 @@
 # Affixed
 ---
 #verb
-- **To attach.**
+- **To [[attach]].**
 	- _Example: to affix a stigma to a person_
 - **To subjoin, [[annex]], or [[add]] at the close or end; to [[append]] to.**
 	- _Example: to affix a seal to an instrument_
@@ -11,7 +11,7 @@
 ### Synonyms
 - [[join]], [[put together]], [[unite]]
 #adjective
-- **Enduringly stuck to, or attached to, something.**
+- **Enduringly stuck to, or [[attached]] to, something.**
 - **With an [[affix]].**
 ---
 ---

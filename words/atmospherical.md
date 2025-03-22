@@ -1,0 +1,6 @@
+# Atmospherical
+---
+#adjective
+- **Atmospheric**
+---
+---

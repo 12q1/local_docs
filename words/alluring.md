@@ -1,7 +1,7 @@
 # Alluring
 ---
 #verb
-- **To entice; to attract.**
+- **To entice; to [[attract]].**
 ---
 ### Synonyms
 - [[attract]], [[decoy]], [[entice]], [[seduce]], [[tempt]]

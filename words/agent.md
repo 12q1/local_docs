@@ -2,7 +2,7 @@
 ---
 #noun
 - **One who exerts power, or has the power to [[act]]**
-- **One who [[acts]] for, or in the place of, [[another]] (the principal), by authority from him/her; someone entrusted to do the business of [[another]]**
+- **One who [[acts]] for, or in the place of, [[another]] (the principal), by [[authority]] from him/her; someone entrusted to do the business of [[another]]**
 - **A person who looks for work for [[another]] person**
 - **Someone who works for an intelligence [[agency]]**
 - **An [[active]] power or cause or substance; something which has the power to produce an effect**

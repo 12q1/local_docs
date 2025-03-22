@@ -8,7 +8,7 @@
 ### Synonyms
 - [[AA]], [[double-A]], [[AAA]], [[triple-A]], [[Archie]], [[ack-ack]], [[air defence]], [[air defense]]
 #adjective
-- **Intended to attack [[aircraft]].**
+- **Intended to [[attack]] [[aircraft]].**
 ---
 ### Synonyms
 - [[AA]], [[double-A]], [[AAA]], [[triple-A]], [[ack-ack]], [[air-defence]], [[air-defense]], [[anti-air]]

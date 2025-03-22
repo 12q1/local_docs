@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[act]] of [[acknowledging]]**
-- **The [[act]] of recognizing in a particular character or relationship; recognition of existence, authority, truth, or genuineness.**
+- **The [[act]] of recognizing in a particular character or relationship; recognition of existence, [[authority]], truth, or genuineness.**
 - **A reward or other expression or token of gratitude.**
 - **An expression of gratitude for a benefit or an obligation.**
 	- _Example: the acknowledgment of a favor_

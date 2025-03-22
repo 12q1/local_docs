@@ -9,7 +9,7 @@
 	- _Example: The orator acquitted himself very poorly._
 - **To clear oneself.**
 - **To release, to rescue, to set free.**
-- **To pay for; to atone for.**
+- **To pay for; to [[atone]] for.**
 ---
 ### Synonyms
 - [[absolve]], [[clear]], [[exculpate]], [[exonerate]]

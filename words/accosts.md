@@ -2,7 +2,7 @@
 ---
 #noun
 - **Address; greeting.**
-- **An attack.**
+- **An [[attack]].**
 ---
 #verb
 - **To [[approach]] and speak to boldly or [[aggressively]], as with a demand or request.**

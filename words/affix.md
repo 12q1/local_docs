@@ -12,7 +12,7 @@
 ### Antonyms
 - [[nonaffix]]
 #verb
-- **To attach.**
+- **To [[attach]].**
 	- _Example: to affix a stigma to a person_
 - **To subjoin, [[annex]], or [[add]] at the close or end; to [[append]] to.**
 	- _Example: to affix a seal to an instrument_

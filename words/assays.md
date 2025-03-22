@@ -1,7 +1,7 @@
 # Assays
 ---
 #noun
-- **Trial, attempt.**
+- **Trial, [[attempt]].**
 - **Examination and determination; test.**
 - **The qualitative or quantitative chemical [[analysis]] of something.**
 - **Trial by danger or by [[affliction]]; [[adventure]]; risk; hardship; state of being tried.**
@@ -10,8 +10,8 @@
 - **The [[alloy]] or metal to be [[assayed]].**
 ---
 #verb
-- **To attempt (something).**
-- **To try, attempt (to do something).**
+- **To [[attempt]] (something).**
+- **To try, [[attempt]] (to do something).**
 - **To [[analyze]] or estimate the composition or value of (a metal, ore etc.).**
 - **To test the [[abilities]] of (someone) in combat; to fight.**
 - **To [[affect]].**

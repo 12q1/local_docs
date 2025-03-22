@@ -1,6 +1,6 @@
 # Approbating
 ---
 #verb
-- **To give official sanction, consent or authorization to.**
+- **To give official sanction, consent or [[authorization]] to.**
 ---
 ---

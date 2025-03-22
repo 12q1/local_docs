@@ -5,7 +5,7 @@
 - **Arytenoid muscle**
 ---
 #adjective
-- **Relating to or being either of two small laryngeal cartilages to which the vocal cords are attached.**
+- **Relating to or being either of two small laryngeal cartilages to which the vocal cords are [[attached]].**
 	- _Example: arytenoid cartilage_
 - **Relating to or being either of a pair of small muscles (oblique [[arytenoid]]) or an unpaired muscle (transverse [[arytenoid]]) of the larynx.**
 	- _Example: arytenoid muscle_

@@ -3,7 +3,7 @@
 #noun
 - **Heaven.**
 - **Something, especially a person's name in legal documents, that [[appears]] higher on the same page or on a preceding page.**
-- **Higher authority.**
+- **Higher [[authority]].**
 - **Betterment, raised status or condition.**
 ---
 #adjective

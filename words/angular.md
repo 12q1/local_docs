@@ -14,7 +14,7 @@
 - **Ungraceful; lacking grace.**
 - **Sharp and stiff in character.**
 	- _Example: He's remarkably angular in his habits and appearance._
-- **Composed of three or more rings attached to a single carbon atom (the rings not [[all]] being in the same plane).**
+- **Composed of three or more rings [[attached]] to a single carbon [[atom]] (the rings not [[all]] being in the same plane).**
 ---
 ### Synonyms
 - [[rude]], [[rugged]]

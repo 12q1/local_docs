@@ -6,7 +6,7 @@
 - **(said of an illegitimate child) To fix the paternity of**
 	- _Example: to affiliate the child to (or on or upon) one man rather than another_
 - **To connect in the way of descent; to trace origin to.**
-- **(followed by "to" or "with") To attach (to) or unite (with); to receive into a society as a member, and initiate into its mysteries, plans, etc.**
+- **(followed by "to" or "with") To [[attach]] (to) or unite (with); to receive into a society as a member, and initiate into its mysteries, plans, etc.**
 ---
 #adjective
 - **Associated, related, or united; subject to a particular [[affiliation]].**

@@ -14,7 +14,7 @@
 - **Positioned high up; elevated.**
 	- _Example: The aerial photographs clearly showed the damage caused by the storm._
 - **Ethereal, insubstantial; imaginary.**
-- **Pertaining to the [[air]] or atmosphere; atmospheric.**
+- **Pertaining to the [[air]] or [[atmosphere]]; [[atmospheric]].**
 - **Pertaining to a vehicle which travels through the [[air]]; [[airborne]]; relating to or conducted by means of [[aircraft]].**
 - **Above the ground**
 ---

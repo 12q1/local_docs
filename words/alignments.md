@@ -6,7 +6,7 @@
 - **An [[alliance]] of factions.**
 - **The conjunction of two celestial objects.**
 - **The precise route or course taken by a linear way (road, railway, footpath, etc.) between two points.**
-- **In a roleplaying game, one of a set number of philosophical attitudes a character can take.**
+- **In a roleplaying game, one of a set number of philosophical [[attitudes]] a character can take.**
 - **A way of [[arranging]] DNA, RNA or protein sequences in order to identify regions of similarity.**
 ---
 ---

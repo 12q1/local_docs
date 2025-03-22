@@ -26,7 +26,7 @@
 	- _Example: After all that has happened, he is still my friend._
 - **(usually preceded by a form of be, followed by an -ing form of a verb) Used to indicate recent completion of an [[activity]]**
 	- _Example: I was after finishing my dinner when there was a knock on the door._
-- **According to an author or text.**
+- **According to an [[author]] or text.**
 - **Denoting the [[aim]] or object; concerning; in relation to.**
 	- _Example: to look after workmen; to enquire after a friend; to thirst after righteousness_
 - **According to the direction and influence of; in proportion to; befitting.**

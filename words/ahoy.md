@@ -8,7 +8,7 @@
 - **To hail with a cry of "[[ahoy]]".**
 ---
 #interjection
-- **Used to hail a ship, a boat or a person, or to attract attention.**
+- **Used to hail a ship, a boat or a person, or to [[attract]] [[attention]].**
 - **Warning of something [[approaching]] or impending.**
 ---
 ### Synonyms

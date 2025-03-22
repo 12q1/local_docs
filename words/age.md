@@ -21,7 +21,7 @@
 - **The right of the player to the left of the dealer to pass the first round in betting, and then to come in last or stay out; [[also]], the player holding this position; the eldest hand.**
 - **That part of the duration of a being or a thing which is between its beginning and [[any]] given time; specifically the size of that part.**
 	- _Example: What is the present age of a man, or of the earth?_
-- **Mature [[age]]; especially, the time of life at which one attains full personal rights and capacities.**
+- **Mature [[age]]; especially, the time of life at which one [[attains]] full personal rights and capacities.**
 	- _Example: to come of age; she is now of age_
 - **An [[advanced]] period of life; the latter part of life; the state of being old; eld, seniority.**
 	- _Example: Wisdom doesn't necessarily come with age, sometimes age just shows up all by itself._

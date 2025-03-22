@@ -16,6 +16,6 @@
 - **On board of; onto or into a ship, boat, train, plane.**
 	- _Example: We all went aboard the ship._
 - **Onto a horse.**
-- **Across; athwart; [[alongside]].**
+- **Across; [[athwart]]; [[alongside]].**
 ---
 ---

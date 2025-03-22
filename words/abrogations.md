@@ -1,6 +1,6 @@
 # Abrogations
 ---
 #noun
-- **The [[act]] of [[abrogating]]; a repeal by authority; [[abolition]].**
+- **The [[act]] of [[abrogating]]; a repeal by [[authority]]; [[abolition]].**
 ---
 ---

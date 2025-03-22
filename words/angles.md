@@ -34,7 +34,7 @@
 ---
 #verb
 - **To try to catch fish with a hook and line.**
-- **(with for) To attempt to subtly persuade someone to offer a desired thing.**
+- **(with for) To [[attempt]] to subtly persuade someone to offer a desired thing.**
 	- _Example: He must be angling for a pay rise._
 ---
 ---

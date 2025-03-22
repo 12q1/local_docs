@@ -5,7 +5,7 @@
 - **A card or die face so marked.**
 	- _Example: I have the ace of diamonds._
 - **The ball marked with the number 1 in pool and related games.**
-- **A very small quantity or degree; a particle; an atom; a jot.**
+- **A very small quantity or degree; a particle; an [[atom]]; a jot.**
 - **A serve won without the opponent hitting the ball.**
 - **A single point won by a stroke, as in handball, rackets, etc.**
 - **The best pitcher on the team.**

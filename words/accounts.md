@@ -13,7 +13,7 @@
 	- _Example: An account of a battle._
 - **An estimate or estimation; valuation; judgment.**
 - **Importance; worth; value; esteem; judgement.**
-- **An authorization to use a service.**
+- **An [[authorization]] to use a service.**
 	- _Example: I've opened an account with Wikipedia so that I can contribute and partake in the project._
 - **A reckoning; computation; calculation; enumeration; a record of some reckoning.**
 - **Profit; [[advantage]].**

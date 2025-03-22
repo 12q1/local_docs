@@ -12,7 +12,7 @@
 	- _Example: Catholicism teaches that the Eucharist, while remaining under the physical appearance of bread and wine, becomes really and truly the body and the blood of Christ._
 - **The [[act]] of [[appearing]] in a particular place, or in society, a company, or [[any]] proceedings; a coming before the public in a particular character.**
 	- _Example: A person makes his appearance as an historian, an artist, or an orator._
-- **An instance of someone coming into a court of law to be part of a trial, either in person or represented by an attorney or such like; a court [[appearance]]**
+- **An instance of someone coming into a court of law to be part of a trial, either in person or represented by an [[attorney]] or such like; a court [[appearance]]**
 - **Chiefly used by nurses: the [[act]] of defecation by a patient.**
 	- _Example: The patient had a small bowel obstruction and there was no appearance until after the obstruction resolved._
 ---
