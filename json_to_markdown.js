@@ -1,0 +1,84 @@
+const fs = require('fs');
+const path = require('path');
+
+const INPUT_FILE = 'dictionary.json';
+const OUTPUT_DIR = 'words';
+const INDEX_FILE = path.join(OUTPUT_DIR, 'index.md');
+
+// Ensure output directory exists
+if (!fs.existsSync(OUTPUT_DIR)) {
+    fs.mkdirSync(OUTPUT_DIR);
+}
+
+// Load dictionary JSON
+const dictionary = JSON.parse(fs.readFileSync(INPUT_FILE, 'utf8'));
+const wordsList = new Set(Object.keys(dictionary));
+
+// Common stopwords to avoid excessive linking
+const stopwords = new Set(["the", "is", "to", "and", "a", "an", "of", "in", "on", "for", "with", "at", "by", "from", "that", "it", "as", "be", "this", "are", "was", "or", "but", "not"]);
+
+// Function to interlink words in definitions while avoiding stopwords
+function interlinkText(text) {
+    if (!text) return text;
+    return text.replace(/\b([a-zA-Z]+)\b/g, (match) => {
+        return wordsList.has(match) && !stopwords.has(match.toLowerCase()) ? `[[${match}]]` : match;
+    });
+}
+
+// Function to format meanings into Markdown
+function formatMarkdown(word, data) {
+    if (!data) return null; // Skip null/undefined words
+
+    let md = `# ${word}\n\n`;
+    md += `---\n`;
+
+    if (data.meanings) {
+        data.meanings.forEach(({ partOfSpeech, definitions, synonyms, antonyms }) => {
+            const tag = `#${partOfSpeech.replace(/\s+/g, '').toLowerCase()}`;
+            md += `## ${tag}\n`;
+            
+            definitions.forEach(def => {
+                md += `- **${interlinkText(def.definition)}**\n`;
+                if (def.example) {
+                    md += ` - _Example: ${def.example}_\n`;
+                }
+            });
+
+            md += `---\n`;
+
+            if (synonyms && synonyms.length > 0) {
+                md += `\n### Synonyms\n- ${synonyms.map(s => `[[${s}]]`).join(', ')}\n`;
+            }
+
+            if (antonyms && antonyms.length > 0) {
+                md += `\n### Antonyms\n- ${antonyms.map(a => `[[${a}]]`).join(', ')}\n`;
+            }
+
+            md += `\n`;
+        });
+    }
+
+    md += `---\n`;
+    return md;
+}
+
+// Generate markdown files & collect index entries
+let indexContent = `# Dictionary Index\n\n`;
+Object.entries(dictionary).forEach(([word, data]) => {
+    if (!word) return; // Skip null/empty words
+
+    const filePath = path.join(OUTPUT_DIR, `${word}.md`);
+    const markdownContent = formatMarkdown(word, data);
+
+    if (markdownContent) {
+        fs.writeFileSync(filePath, markdownContent, 'utf8');
+        console.log(`📄 Created: ${filePath}`);
+        indexContent += `- [[${word}]]\n`;
+    }
+});
+
+// Write index file
+fs.writeFileSync(INDEX_FILE, indexContent, 'utf8');
+console.log(`📖 Index created: ${INDEX_FILE}`);
+
+console.log(`🎉 Conversion complete! Markdown files saved in '${OUTPUT_DIR}'`);

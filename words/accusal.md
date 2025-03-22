@@ -1,0 +1,8 @@
+# accusal
+
+---
+## Noun #noun
+- **Accusation**
+---
+
+---

@@ -1,0 +1,19 @@
+# alewives
+
+---
+## Noun #noun
+- **A woman who keeps an [[alehouse]].**
+---
+
+### Synonyms
+- [[brewess]]
+
+## Noun #noun
+- **A migrating North American fish, Alosa pseudoharengus.**
+- **Any of several species similar in appearance.**
+---
+
+### Synonyms
+- [[branch herring]], [[ellwhop]], [[ellwife]], [[gaspereau]]
+
+---

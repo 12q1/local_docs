@@ -1,0 +1,8 @@
+# allowedly
+
+---
+## Adverb #adverb
+- **Admittedly**
+---
+
+---

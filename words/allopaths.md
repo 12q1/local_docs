@@ -1,0 +1,11 @@
+# allopaths
+
+---
+## Noun #noun
+- **A practitioner of [[allopathy]]**
+---
+
+### Synonyms
+- [[allopathist]]
+
+---
