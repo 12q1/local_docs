@@ -1,5 +1,4 @@
 # Album
-
 ---
 #noun
 - **A book specially designed to keep photographs, stamps, or autographs.**
@@ -9,8 +8,6 @@
 - **A group of audio recordings, on [[any]] medium, intended for distribution as a group.**
 - **In Ancient Rome, a white tablet or register on which the praetor's edicts and other public notices were recorded.**
 ---
-
 ### Synonyms
 - [[LP]], [[disc]], [[disk]], [[long-playing]]
-
 ---

@@ -1,8 +1,6 @@
 # Aasvogel
-
 ---
 #noun
 - **Vulture.**
 ---
-
 ---

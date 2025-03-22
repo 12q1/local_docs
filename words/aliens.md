@@ -1,5 +1,4 @@
 # Aliens
-
 ---
 #noun
 - **Any life form of extraterrestrial or extradimensional origin.**
@@ -7,13 +6,10 @@
 - **A foreigner residing in a country.**
 - **One excluded from certain privileges; one [[alienated]] or estranged.**
 ---
-
 ### Synonyms
 - [[outlander]], [[fremd]], [[guest]], [[stranger]]
-
 #verb
 - **To estrange; to [[alienate]].**
 - **To transfer the ownership of something.**
 ---
-
 ---

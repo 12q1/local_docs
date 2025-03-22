@@ -1,5 +1,4 @@
 # Affinity
-
 ---
 #noun
 - **A natural attraction or feeling of kinship to a person or thing.**
@@ -15,5 +14,4 @@
 - **Tendency to keep a task running on the same processor in a symmetric multiprocessing operating system to reduce the frequency of cache misses**
 - **An automorphism of [[affine]] space.**
 ---
-
 ---

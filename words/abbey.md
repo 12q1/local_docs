@@ -1,5 +1,4 @@
 # Abbey
-
 ---
 #noun
 - **The office or dominion of an [[abbot]] or [[abbess]].**
@@ -7,5 +6,4 @@
 - **The church of a monastery.**
 - **A residence that was previously an [[abbatial]] building.**
 ---
-
 ---

@@ -1,5 +1,4 @@
 # Abridged
-
 ---
 #verb
 - **To deprive; to cut off.**
@@ -8,12 +7,10 @@
 - **To shorten or contract by using fewer words, yet retaining the sense; to epitomize; to condense.**
 - **Cut short; truncate.**
 - **To curtail.**
- - _Example: He had his rights abridged by the crooked sheriff._
+	- _Example: He had his rights abridged by the crooked sheriff._
 ---
-
 #adjective
 - **Cut or shortened, especially of a literary work.**
- - _Example: The novel was abridged by the author to make the audio recording a more manageable length._
+	- _Example: The novel was abridged by the author to make the audio recording a more manageable length._
 ---
-
 ---

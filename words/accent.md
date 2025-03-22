@@ -1,18 +1,17 @@
 # Accent
-
 ---
 #noun
-- **A higher-pitched or stronger articulation of a particular syllable of a word or phrase in order to distinguish it from the others or to emphasize it.**
- - _Example: In the word "careful", the accent is placed on the first syllable._
+- **A higher-pitched or stronger [[articulation]] of a particular syllable of a word or phrase in order to distinguish it from the others or to emphasize it.**
+	- _Example: In the word "careful", the accent is placed on the first syllable._
 - **Emphasis or importance in general.**
- - _Example: At this hotel, the accent is on luxury._
+	- _Example: At this hotel, the accent is on luxury._
 - **A mark or character used in writing, in order to indicate the place of the spoken [[accent]], or to indicate the nature or quality of the vowel marked.**
- - _Example: The name Cézanne is written with an acute accent._
+	- _Example: The name Cézanne is written with an acute accent._
 - **Modulation of the voice in speaking; the manner of speaking or pronouncing; a peculiar or characteristic modification of the voice, expressing emotion; tone.**
-- **The distinctive manner of pronouncing a language associated with a particular region, social group, etc., whether of a native speaker or a foreign speaker; the phonetic and phonological aspects of a dialect.**
- - _Example: a broad Irish accent_
+- **The distinctive manner of pronouncing a language [[associated]] with a particular region, social group, etc., whether of a native speaker or a foreign speaker; the phonetic and phonological [[aspects]] of a dialect.**
+	- _Example: a broad Irish accent_
 - **(sign languages) A distinctive manner of producing a sign language, such as someone who does not normally use a certain sign language might have when using it.**
- - _Example: 2015 December 3, [./http//www.pri.org/stories/2015-12-03/philadelphia-accent-sign-language There's a distinctly Philadelphia accent in American Sign Language]_
+	- _Example: 2015 December 3, [./http//www.pri.org/stories/2015-12-03/philadelphia-accent-sign-language There's a distinctly Philadelphia accent in American Sign Language]_
 - **A word; a significant tone or sound.**
 - **(usually plurale tantum) Expressions in general; speech.**
 - **Stress laid on certain syllables of a verse.**
@@ -24,10 +23,9 @@
 - **A mark placed at the right hand of a letter, and a little [[above]] it, to distinguish magnitudes of a similar kind expressed by the same letter, but differing in value, as y', y''.**
 - **A mark at the right hand of a number, indicating minutes of a degree, seconds, etc., as in 12' 27'', meaning twelve minutes and twenty-seven seconds.**
 - **A mark used to denote feet and inches, as in 6' 10'', meaning six feet ten inches.**
-- **Emphasis laid on a part of an artistic design or composition; an emphasized detail, in particular a detail in sharp contrast to its surroundings.**
+- **Emphasis laid on a part of an [[artistic]] design or composition; an emphasized detail, in particular a detail in sharp contrast to its surroundings.**
 - **A very small gemstone set into a piece of jewellery.**
 - **A distinctive feature or quality.**
 - **Utterance.**
 ---
-
 ---

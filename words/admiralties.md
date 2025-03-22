@@ -1,5 +1,4 @@
 # Admiralties
-
 ---
 #noun
 - **The office or jurisdiction of an [[admiral]].**
@@ -8,5 +7,4 @@
 - **The system of jurisprudence of [[admiralty]] courts.**
 - **The building in which the lords of the [[admiralty]], in England, transact business.**
 ---
-
 ---

@@ -1,8 +1,6 @@
 # Allowedly
-
 ---
 #adverb
 - **Admittedly**
 ---
-
 ---

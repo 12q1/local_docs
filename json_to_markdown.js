@@ -33,7 +33,7 @@ function capitalize(str){
 function formatMarkdown(word, data) {
     if (!data) return null; // Skip null/undefined words
 
-    let md = `# ${capitalize(word)}\n\n`;
+    let md = `# ${capitalize(word)}\n`;
     md += `---\n`;
 
     if (data.meanings) {
@@ -44,21 +44,20 @@ function formatMarkdown(word, data) {
             definitions.forEach(def => {
                 md += `- **${interlinkText(def.definition)}**\n`;
                 if (def.example) {
-                    md += ` - _Example: ${def.example}_\n`;
+                    md += `	- _Example: ${def.example}_\n`;
                 }
             });
 
             md += `---\n`;
 
             if (synonyms && synonyms.length > 0) {
-                md += `\n### Synonyms\n- ${synonyms.map(s => `[[${s}]]`).join(', ')}\n`;
+                md += `### Synonyms\n- ${synonyms.map(s => `[[${s}]]`).join(', ')}\n`;
             }
 
             if (antonyms && antonyms.length > 0) {
-                md += `\n### Antonyms\n- ${antonyms.map(a => `[[${a}]]`).join(', ')}\n`;
+                md += `### Antonyms\n- ${antonyms.map(a => `[[${a}]]`).join(', ')}\n`;
             }
 
-            md += `\n`;
         });
     }
 

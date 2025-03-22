@@ -1,5 +1,4 @@
 # Anconas
-
 ---
 #noun
 - **The corner of a wall or rafter.**
@@ -7,9 +6,7 @@
 - **The elbow.**
 - **The olecranon.**
 ---
-
 #noun
 - **An [[altarpiece]], especially one of multiple connected pictures**
 ---
-
 ---

@@ -1,5 +1,4 @@
 # Abstinence
-
 ---
 #noun
 - **The [[act]] or practice of [[abstaining]], refraining from indulging a desire or [[appetite]].**
@@ -7,5 +6,4 @@
 - **Self-denial; [[abstaining]]; or forebearance of [[anything]].**
 - **Delay of spending to [[accrue]] capital.**
 ---
-
 ---

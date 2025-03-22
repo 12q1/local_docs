@@ -1,5 +1,4 @@
 # Apples
-
 ---
 #noun
 - **A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.**
@@ -11,12 +10,10 @@
 - **The ball in baseball.**
 - **When smiling, the round, fleshy part of the cheeks between the eyes and the corners of the mouth.**
 - **A Native American or red-skinned person who [[acts]] and/or thinks like a white (Caucasian) person.**
-- **(ice hockey slang) An assist.**
+- **(ice hockey slang) An [[assist]].**
 ---
-
 #verb
 - **To become [[apple]]-like.**
 - **To form buds.**
 ---
-
 ---

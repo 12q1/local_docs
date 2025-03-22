@@ -1,5 +1,4 @@
 # Acceptor
-
 ---
 #noun
 - **One who [[accepts]].**
@@ -10,5 +9,4 @@
 - **A cluster of skin cells that respond to pain**
 - **A kind of finite-state machine whose binary output indicates whether or not a received input was [[accepted]].**
 ---
-
 ---

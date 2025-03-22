@@ -1,5 +1,4 @@
 # Alternative
-
 ---
 #noun
 - **A situation which [[allows]] a mutually exclusive choice between two or more possibilities; a choice between two or more possibilities.**
@@ -7,13 +6,11 @@
 - **The remaining option; something available [[after]] other possibilities have been exhausted.**
 - **Alternative rock**
 ---
-
 #adjective
 - **Relating to a choice between two or more possibilities.**
- - _Example: an alternative proposition_
+	- _Example: an alternative proposition_
 - **Other; different from something else.**
 - **Not traditional, outside the mainstream, underground.**
 - **Alternate, reciprocal.**
 ---
-
 ---

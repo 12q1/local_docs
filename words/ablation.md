@@ -1,5 +1,4 @@
 # Ablation
-
 ---
 #noun
 - **A carrying or taking away; removal.**
@@ -8,5 +7,4 @@
 - **The removal of a glacier by melting and evaporation; the lowering of a land surface by [[any]] of several means, as in wind erosion, mass wasting.**
 - **The depletion of surface snow and ice by melting and evaporation.**
 ---
-
 ---

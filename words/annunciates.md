@@ -1,8 +1,6 @@
 # Annunciates
-
 ---
 #verb
 - **To [[announce]].**
 ---
-
 ---

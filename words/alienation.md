@@ -1,5 +1,4 @@
 # Alienation
-
 ---
 #noun
 - **The [[act]] of [[alienating]].**
@@ -7,8 +6,6 @@
 - **Emotional isolation or dissociation.**
 - **Verfremdungseffekt.**
 ---
-
 ### Synonyms
 - [[estrangement]]
-
 ---

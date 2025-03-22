@@ -1,5 +1,4 @@
 # Antecedent
-
 ---
 #noun
 - **Any thing that precedes [[another]] thing, especially the cause of the second thing.**
@@ -10,18 +9,14 @@
 - **The first term of a ratio, i.e. the term a in the ratio a:b, the other being the consequent.**
 - **(chiefly in the plural) Previous principles, conduct, history, etc.**
 ---
-
 ### Synonyms
 - [[ascendant]], [[ascendent]], [[forebear]], [[forefather]], [[forerunner]], [[predecessor]], [[progenitor]], [[precedent]], [[precursor]]
-
 ### Antonyms
 - [[anaphor]], [[consequent]], [[succedent]]
-
 #adjective
 - **Earlier, either in time or in order.**
- - _Example: an antecedent cause_
+	- _Example: an antecedent cause_
 - **Presumptive.**
- - _Example: an antecedent improbability_
+	- _Example: an antecedent improbability_
 ---
-
 ---

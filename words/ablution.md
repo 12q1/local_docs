@@ -1,5 +1,4 @@
 # Ablution
-
 ---
 #noun
 - **The [[act]] of washing something.**
@@ -7,5 +6,4 @@
 - **The ritual consumption by the deacon or priest of leftover sacred wine of host [[after]] the Communion.**
 - **The location or building where the showers and basins are located.**
 ---
-
 ---

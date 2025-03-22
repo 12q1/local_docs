@@ -1,5 +1,4 @@
 # Annotations
-
 ---
 #noun
 - **A critical or explanatory commentary or [[analysis]]**
@@ -8,5 +7,4 @@
 - **Metadata [[added]] to a document or program**
 - **Information relating to the genetic structure of sequences of bases**
 ---
-
 ---

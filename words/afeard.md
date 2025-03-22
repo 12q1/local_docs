@@ -1,8 +1,6 @@
 # Afeard
-
 ---
 #adjective
 - **Afraid**
 ---
-
 ---

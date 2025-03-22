@@ -1,8 +1,6 @@
 # Acushla
-
 ---
 #noun
 - **Darling**
 ---
-
 ---

@@ -1,8 +1,6 @@
 # Allover
-
 ---
 #adjective
-- **Over the whole area or extent**
+- **Over the whole [[area]] or extent**
 ---
-
 ---

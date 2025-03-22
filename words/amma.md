@@ -1,8 +1,6 @@
 # Amma
-
 ---
 #noun
 - **Mother**
 ---
-
 ---

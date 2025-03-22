@@ -1,5 +1,4 @@
 # Abundance
-
 ---
 #noun
 - **A large quantity; many.**
@@ -8,8 +7,6 @@
 - **Frequency, [[amount]], ratio of something within a given environment or sample.**
 - **A bid to take nine or more tricks in solo whist.**
 ---
-
 ### Synonyms
 - [[copiousness]], [[exuberance]], [[overflow]], [[plenteousness]], [[plenty]], [[heap]], [[load]], [[affluence]], [[riches]], [[wealth]]
-
 ---

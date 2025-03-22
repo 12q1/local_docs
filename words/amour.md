@@ -1,5 +1,4 @@
 # Amour
-
 ---
 #noun
 - **Love, [[affection]].**
@@ -7,5 +6,4 @@
 - **A love [[affair]].**
 - **A lover.**
 ---
-
 ---

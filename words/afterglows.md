@@ -1,5 +1,4 @@
 # Afterglows
-
 ---
 #noun
 - **The glow seen in the sky [[after]] sunset.**
@@ -8,11 +7,8 @@
 - **The mildly euphoric feeling experienced [[after]] a pleasurable experience, especially [[after]] an orgasm or drug-induced high.**
 - **An afterparty.**
 ---
-
 ### Synonyms
 - [[afterparty]]
-
 ### Antonyms
 - [[hangover]], [[post-coital tristesse]], [[foreglow]]
-
 ---

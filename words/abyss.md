@@ -1,5 +1,4 @@
 # Abyss
-
 ---
 #noun
 - **Hell; the bottomless pit; primeval chaos; a confined subterranean ocean.**
@@ -11,8 +10,6 @@
 - **The [[abyssal]] zone.**
 - **A difference, especially a large difference, between groups.**
 ---
-
 ### Synonyms
 - [[gulf]]
-
 ---

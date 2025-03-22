@@ -1,5 +1,4 @@
 # Agonies
-
 ---
 #noun
 - **Extreme pain.**
@@ -8,11 +7,8 @@
 - **Paroxysm of joy; keen emotion.**
 - **The last struggle of life; death struggle.**
 ---
-
 ### Synonyms
 - [[anguish]], [[distress]], [[pang]], [[suffering]], [[throe]], [[torment]]
-
 ### Antonyms
 - [[ecstasy]]
-
 ---

@@ -1,5 +1,4 @@
 # Anaphoras
-
 ---
 #noun
 - **The repetition of a phrase at the beginning of phrases, sentences, or verses, used for emphasis.**
@@ -7,8 +6,6 @@
 - **An expression that refers to a preceding expression.**
 - **The most solemn part of the Divine Liturgy or the Mass during which the offerings of bread and wine are consecrated as body and blood of Christ**
 ---
-
 ### Antonyms
 - [[epiphora]], [[epistrophe]]
-
 ---

@@ -1,19 +1,14 @@
 # Afforested
-
 ---
 #verb
 - **To make into forest**
- - _Example: After we leave the quarry, we intend to afforest the land and turn it into a nature reserve._
+	- _Example: After we leave the quarry, we intend to afforest the land and turn it into a nature reserve._
 ---
-
 ### Synonyms
 - [[forest]]
-
 ### Antonyms
 - [[deforest]]
-
 #adjective
 - **Created by [[afforestation]].**
 ---
-
 ---

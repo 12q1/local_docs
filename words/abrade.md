@@ -1,5 +1,4 @@
 # Abrade
-
 ---
 #verb
 - **To rub or wear off; erode.**
@@ -8,5 +7,4 @@
 - **To cause the surface to become more rough.**
 - **To undergo [[abrasion]].**
 ---
-
 ---

@@ -1,11 +1,10 @@
 # Accumulator
-
 ---
 #noun
 - **One who, or that which, [[accumulates]].**
- - _Example: He is a great accumulator of bad jokes._
+	- _Example: He is a great accumulator of bad jokes._
 - **A wet-cell storage battery.**
- - _Example: Looks like it's time to recharge the accumulator again._
+	- _Example: Looks like it's time to recharge the accumulator again._
 - **(betting) A collective bet on successive events, with both stake and winnings being carried forward to [[accumulate]] progressively.**
 - **A system of elastic springs for relieving the strain upon a rope, as in deep-sea dredging.**
 - **A vessel containing pressurized hot water ready for release as steam.**
@@ -15,8 +14,6 @@
 - **One who takes two higher degrees simultaneously, to reduce their length of study.**
 - **A one way membership function.**
 ---
-
 ### Synonyms
 - [[collector]], [[parlay]], [[share forward accumulator]], [[shock absorber]]
-
 ---

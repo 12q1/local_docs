@@ -1,5 +1,4 @@
 # Ambrosia
-
 ---
 #noun
 - **The food of the gods, thought to confer immortality.**
@@ -11,5 +10,4 @@
 - **Any fungus of a number of species that insects such as [[ambrosia]] beetles carry as symbionts, "farming" them on poor-quality food such as wood, where they grow, providing food for the insect.**
 - **A dessert made of shredded coconuts and tropical fruits such as pineapples and oranges; some recipes [[also]] include ingredients such as marshmallow and cream.**
 ---
-
 ---

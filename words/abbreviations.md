@@ -1,5 +1,4 @@
 # Abbreviations
-
 ---
 #noun
 - **The result of shortening or reducing; [[abridgment]].**
@@ -11,11 +10,8 @@
 - **Loss during evolution of the final stages of the [[ancestral]] ontogenetic pattern.**
 - **Reduction to lower terms, as a fraction.**
 ---
-
 ### Synonyms
 - [[abbreviature]], [[abridgement]], [[abstract]], [[compend]], [[compression]], [[condensation]], [[contraction]], [[curtailment]], [[epitome]], [[reduction]], [[shortcut]], [[summary]]
-
 ### Antonyms
 - [[amplification]], [[dilation]], [[enlargement]], [[expansion]], [[expatiation]], [[extension]], [[production]]
-
 ---

@@ -1,0 +1,6 @@
+# Ascot
+---
+#noun
+- **Ascot tie**
+---
+---

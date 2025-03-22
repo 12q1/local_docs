@@ -1,17 +1,14 @@
 # Aero
-
 ---
 #noun
 - **Aerodynamics.**
 - **An [[airplane]] or [[airship]].**
 - **Aerospace.**
 ---
-
 #adjective
 - **Of or pertaining to aviation.**
- - _Example: We've seen a lot of growth in the aero sector._
+	- _Example: We've seen a lot of growth in the aero sector._
 - **Aerodynamic; having an [[aerodynamic]] [[appearance]].**
- - _Example: It's a very aero design, with smooth lines._
+	- _Example: It's a very aero design, with smooth lines._
 ---
-
 ---

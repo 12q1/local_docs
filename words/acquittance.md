@@ -1,5 +1,4 @@
 # Acquittance
-
 ---
 #noun
 - **A writing which is evidence of a discharge; a receipt in full, which bars a further demand.**
@@ -8,9 +7,7 @@
 - **The dismissal of a legal charge [[against]] someone; [[acquittal]].**
 - **The [[acquittal]] of one's duties; the carrying out of fulfilment of a job or role.**
 ---
-
 #verb
 - **To [[acquit]].**
 ---
-
 ---

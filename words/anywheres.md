@@ -1,8 +1,6 @@
 # Anywheres
-
 ---
 #adverb
 - **Anywhere**
 ---
-
 ---

@@ -1,5 +1,4 @@
 # Adminicle
-
 ---
 #noun
 - **Something that [[aids]] or supports.**
@@ -7,5 +6,4 @@
 - **Corroborative proof.**
 - **Background ornamentation on a coin or medal.**
 ---
-
 ---

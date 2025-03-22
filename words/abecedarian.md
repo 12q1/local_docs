@@ -1,5 +1,4 @@
 # Abecedarian
-
 ---
 #noun
 - **Someone who is learning the [[alphabet]].**
@@ -7,12 +6,10 @@
 - **Someone engaged in teaching the [[alphabet]]; an elementary teacher; one that teaches the methods and principles of learning.**
 - **A work which uses words or lines in [[alphabetical]] order.**
 ---
-
 #adjective
 - **Pertaining to someone learning the [[alphabet]] or basic studies; elementary; rudimentary.**
 - **Pertaining to the [[alphabet]], or several [[alphabets]].**
 - **Arranged in an [[alphabetical]] manner.**
 - **Relating to or resembling an [[abecedarius]].**
 ---
-
 ---

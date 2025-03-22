@@ -1,5 +1,4 @@
 # Agendas
-
 ---
 #noun
 - **A temporally organized plan for matters to be attended to.**
@@ -8,8 +7,6 @@
 - **A hidden [[agenda]].**
 - **A ritual.**
 ---
-
 ### Synonyms
 - [[docket]], [[schedule]], [[worklist]]
-
 ---

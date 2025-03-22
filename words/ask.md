@@ -1,0 +1,29 @@
+# Ask
+---
+#noun
+- **An [[act]] or instance of [[asking]].**
+- **Something [[asked]] or [[asked]] for.**
+	- _Example: I know this is a big ask, but …_
+- **An [[asking]] price.**
+---
+### Synonyms
+- [[request]]
+#verb
+- **To request (information, or an [[answer]] to a question).**
+	- _Example: I asked her age._
+- **To put forward (a question) to be [[answered]].**
+	- _Example: to ask a question_
+- **To interrogate or enquire of (a person).**
+	- _Example: I'm going to ask this lady for directions._
+- **To request or petition; usually with for.**
+	- _Example: to ask for a second helping at dinner_
+- **To request permission to do something.**
+	- _Example: Did you ask to use the car?_
+- **To require, demand, claim, or expect, whether by way of remuneration or return, or as a matter of necessity.**
+	- _Example: What price are you asking for the house?_
+- **To invite.**
+	- _Example: Don't ask them to the wedding._
+- **To publish in church for marriage; said of both the banns and the persons.**
+- **To take (a person's situation) as an example.**
+---
+---

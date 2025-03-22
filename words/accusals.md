@@ -1,8 +1,6 @@
 # Accusals
-
 ---
 #noun
 - **Accusation**
 ---
-
 ---

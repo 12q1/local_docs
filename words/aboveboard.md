@@ -1,9 +1,7 @@
 # Aboveboard
-
 ---
 #adjective
 - **In open sight; without trick, concealment, or deception.**
- - _Example: Fair and aboveboard._
+	- _Example: Fair and aboveboard._
 ---
-
 ---

@@ -1,5 +1,4 @@
 # Absinths
-
 ---
 #noun
 - **The herb [[absinthium]] Artemisia [[absinthium]] (grande wormwood); essence of wormwood.**
@@ -8,8 +7,6 @@
 - **A moderate yellow green; [[absinthe]] green.**
 - **Sagebrush.**
 ---
-
 ### Synonyms
 - [[green fairy]]
-
 ---

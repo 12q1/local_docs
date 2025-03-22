@@ -1,5 +1,4 @@
 # Addicting
-
 ---
 #verb
 - **To deliver (someone or something) following a judicial decision.**
@@ -9,15 +8,11 @@
 - **To devote (one's mind, talent etc.) to a given [[activity]], occupation, thing etc.**
 - **To make (someone) become devoted to a given thing or [[activity]]; to cause to be [[addicted]].**
 ---
-
 ### Synonyms
 - [[adapt]], [[fit]], [[hooked]], [[consecrate]], [[dedicate]], [[devote]]
-
 #adjective
 - **Causing [[addiction]].**
 ---
-
 ### Synonyms
 - [[addictive]]
-
 ---

@@ -1,5 +1,4 @@
 # Aborting
-
 ---
 #verb
 - **(now rare outside medicine) To miscarry; to bring forth (non-living) offspring prematurely.**
@@ -12,5 +11,4 @@
 - **To terminate a mission involving a missile or rocket; to destroy a missile or rocket prematurely.**
 - **To terminate a process prior to completion.**
 ---
-
 ---

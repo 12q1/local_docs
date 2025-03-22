@@ -1,5 +1,4 @@
 # Amplifications
-
 ---
 #noun
 - **The [[act]], or result of [[amplifying]], enlarging, extending or [[adding]].**
@@ -9,5 +8,4 @@
 - **A procedure used in the nomenclature of complex organic compounds in which the superatoms of a basic structure (a phane) are replaced by cyclic structures (amplificants).**
 - **A translation technique that involves [[adding]] content that is not present in the source text to the target text, usually to improve the fluency of the translation.**
 ---
-
 ---

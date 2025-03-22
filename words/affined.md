@@ -1,8 +1,6 @@
 # Affined
-
 ---
 #verb
 - **To refine.**
 ---
-
 ---

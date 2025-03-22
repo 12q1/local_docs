@@ -1,8 +1,6 @@
 # Ae
-
 ---
 #adjective
 - **One**
 ---
-
 ---

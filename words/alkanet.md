@@ -1,5 +1,4 @@
 # Alkanet
-
 ---
 #noun
 - **Alkanna tinctoria, a plant whose root is used as a red dye.**
@@ -12,8 +11,6 @@
 - **Pentaglottis sempervirens (green [[alkanet]]), a blue-flowered plant with evergreen leaves.**
 - **Puccoon (Sanguinaria canadensis).**
 ---
-
 ### Synonyms
 - [[orchanet]]
-
 ---

@@ -1,5 +1,4 @@
 # Absentees
-
 ---
 #noun
 - **A person who is [[absent]] from his or her employment, school, post, duty, etc.**
@@ -7,5 +6,4 @@
 - **One that is nonexistent or lacking.**
 - **A voter that is not present at the time of voting; [[absentee]] voter.**
 ---
-
 ---

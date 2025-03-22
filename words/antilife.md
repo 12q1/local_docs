@@ -1,5 +1,4 @@
 # Antilife
-
 ---
 #adjective
 - **Pro-choice**
@@ -7,5 +6,4 @@
 - **Supporting the death penalty**
 - **Opposing the preservation of life in a particular situation**
 ---
-
 ---

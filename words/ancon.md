@@ -1,5 +1,4 @@
 # Ancon
-
 ---
 #noun
 - **The corner of a wall or rafter.**
@@ -7,5 +6,4 @@
 - **The elbow.**
 - **The olecranon.**
 ---
-
 ---

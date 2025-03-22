@@ -1,5 +1,4 @@
 # Analyst
-
 ---
 #noun
 - **Someone who [[analyzes]].**
@@ -8,5 +7,4 @@
 - **A practitioner of psychoanalysis.**
 - **A financial [[analyst]]; a business [[analyst]].**
 ---
-
 ---

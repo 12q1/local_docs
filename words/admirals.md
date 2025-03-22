@@ -1,5 +1,4 @@
 # Admirals
-
 ---
 #noun
 - **A naval officer of the highest rank; the commander of a country's naval forces.**
@@ -9,5 +8,4 @@
 - **A prince or Saracen leader under the Sultan.**
 - **Any of various nymphalid butterflies of the genera Kaniska and Vanessa, especially a red [[admiral]] or white [[admiral]].**
 ---
-
 ---

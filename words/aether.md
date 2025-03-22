@@ -1,5 +1,4 @@
 # Aether
-
 ---
 #noun
 - **The substance formerly supposed to fill the upper regions of the atmosphere [[above]] the clouds, in particular as a medium breathed by deities.**
@@ -9,5 +8,4 @@
 - **Diethyl ether (C4H10O), an organic compound with a sweet odour used in the past as an [[anaesthetic]].**
 - **Any of a class of organic compounds containing an oxygen atom bonded to two hydrocarbon groups.**
 ---
-
 ---

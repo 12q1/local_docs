@@ -1,22 +1,17 @@
 # Abs
-
 ---
 #noun
 - **Abdominal muscle.**
 ---
-
 #noun
 - **An [[abscess]] caused by injecting an illegal drug, usually heroin.**
 ---
-
 #verb
 - **To [[abseil]].**
 ---
-
 #noun
 - **The early stages of; the beginning process; the start.**
 ---
-
 #verb
 - **(now rare outside medicine) To miscarry; to bring forth (non-living) offspring prematurely.**
 - **To cause a premature termination of (a fetus); to end a pregnancy before term.**
@@ -28,37 +23,30 @@
 - **To terminate a mission involving a missile or rocket; to destroy a missile or rocket prematurely.**
 - **To terminate a process prior to completion.**
 ---
-
 #noun
 - **Initialism of [[absolute]] value function.**
 ---
-
 ### Synonyms
 - [[abdominal]], [[abdominal muscle]]
-
 #noun
 - **Thermodynamic temperature; temperature measured on an [[absolute]] scale such as the Kelvin scale.**
 ---
-
 #adjective
 - **Derived; extracted.**
 - **Drawn away; removed from; [[apart]] from; separate.**
 - **Not concrete: conceptual, ideal.**
 - **Difficult to understand; [[abstruse]]; hard to conceptualize.**
-- **Separately expressing a property or attribute of an object that is considered to be inherent to that object: attributive, ascriptive.**
-- **Pertaining comprehensively to, or representing, a class or group of objects, as opposed to [[any]] specific object; considered [[apart]] from [[any]] application to a particular object: general, generic, nonspecific; representational.**
+- **Separately expressing a property or attribute of an object that is considered to be inherent to that object: attributive, [[ascriptive]].**
+- **Pertaining comprehensively to, or representing, a class or group of objects, as opposed to [[any]] specific object; considered [[apart]] from [[any]] [[application]] to a particular object: general, generic, nonspecific; representational.**
 - **Absent-minded.**
-- **Pertaining to the formal aspect of art, such as the lines, colors, shapes, and the relationships [[among]] them.**
+- **Pertaining to the formal [[aspect]] of [[art]], such as the lines, colors, shapes, and the relationships [[among]] them.**
 - **Insufficiently factual.**
-- **Apart from practice or reality; vague; theoretical; impersonal; not applied.**
+- **Apart from practice or reality; vague; theoretical; impersonal; not [[applied]].**
 - **(grammar) As a noun, denoting an intangible as opposed to an object, place, or person.**
 - **Of a class in object-oriented programming, being a partial basis for subclasses rather than a complete template for objects.**
 ---
-
 ### Synonyms
 - [[abstruse]], [[ascriptive]], [[attributive]], [[conceptual]], [[ideal]], [[imaginary]], [[incorporeal]], [[intangible]], [[nonempirical]], [[theoretical]], [[conceptual]], [[theoretical]], [[formal]], [[general]], [[generalized]], [[generic]], [[nonspecific]], [[representational]]
-
 ### Antonyms
 - [[actual]], [[concrete]], [[corporeal]], [[empirical]], [[applied]], [[practical]], [[discrete]], [[particular]], [[precise]], [[specific]]
-
 ---

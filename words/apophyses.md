@@ -1,8 +1,6 @@
 # Apophyses
-
 ---
 #noun
 - **Apophysis**
 ---
-
 ---

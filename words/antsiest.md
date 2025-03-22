@@ -1,8 +1,6 @@
 # Antsiest
-
 ---
 #adjective
-- **Restless, apprehensive and fidgety**
+- **Restless, [[apprehensive]] and fidgety**
 ---
-
 ---

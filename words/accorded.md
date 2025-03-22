@@ -1,5 +1,4 @@
 # Accorded
-
 ---
 #verb
 - **To make to [[agree]] or correspond; to suit one thing to [[another]]; to [[adjust]].**
@@ -8,7 +7,6 @@
 - **To [[agree]] in pitch and tone.**
 - **To grant as suitable or proper; to concede or award.**
 - **To give consent.**
-- **To arrive at an [[agreement]].**
+- **To [[arrive]] at an [[agreement]].**
 ---
-
 ---

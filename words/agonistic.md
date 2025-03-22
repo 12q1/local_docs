@@ -1,5 +1,4 @@
 # Agonistic
-
 ---
 #adjective
 - **Of or relating to contests that were originally participated in by the Ancient Greeks; athletic**
@@ -8,5 +7,4 @@
 - **Struggling to [[achieve]] an effect; strained and contrived.**
 - **(pharmaceutical effect) pertaining to an [[agonist]]**
 ---
-
 ---

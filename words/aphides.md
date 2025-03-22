@@ -1,8 +1,6 @@
 # Aphides
-
 ---
 #noun
 - **An [[aphid]].**
 ---
-
 ---

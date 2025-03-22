@@ -1,5 +1,4 @@
 # Agenda
-
 ---
 #noun
 - **A temporally organized plan for matters to be attended to.**
@@ -8,12 +7,9 @@
 - **A hidden [[agenda]].**
 - **A ritual.**
 ---
-
 ### Synonyms
 - [[docket]], [[schedule]], [[worklist]]
-
 #noun
 - **A task which ought to be done.**
 ---
-
 ---

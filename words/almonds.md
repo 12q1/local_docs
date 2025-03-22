@@ -1,5 +1,4 @@
 # Almonds
-
 ---
 #noun
 - **A type of tree nut.**
@@ -9,5 +8,4 @@
 - **The color of an [[almond]] still covered by its skin, a shade of brown.**
 - **Anything shaped like an [[almond]]; specifically, a tonsil.**
 ---
-
 ---

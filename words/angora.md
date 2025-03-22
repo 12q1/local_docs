@@ -1,5 +1,4 @@
 # Angora
-
 ---
 #noun
 - **An [[angora]] cat.**
@@ -8,5 +7,4 @@
 - **The hair of [[angora]] rabbits or [[angora]] goats, used to make textiles.**
 - **The fabric made from the hair of [[angora]] rabbits or [[angora]] goats.**
 ---
-
 ---

@@ -1,5 +1,4 @@
 # Animalist
-
 ---
 #noun
 - **One who believes in the dominance of man's [[animal]] nature in behavior.**
@@ -8,8 +7,6 @@
 - **A writer of [[animal]] stories.**
 - **One who believes that microorganisms cause disease.**
 ---
-
 ### Synonyms
 - [[animalier]]
-
 ---

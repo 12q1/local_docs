@@ -1,0 +1,6 @@
+# Arrah
+---
+#interjection
+- **An expletive.**
+---
+---

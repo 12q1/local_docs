@@ -1,8 +1,6 @@
 # Annunciating
-
 ---
 #verb
 - **To [[announce]].**
 ---
-
 ---

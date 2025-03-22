@@ -1,10 +1,9 @@
 # Aces
-
 ---
 #noun
 - **A single point or spot on a playing card or die.**
 - **A card or die face so marked.**
- - _Example: I have the ace of diamonds._
+	- _Example: I have the ace of diamonds._
 - **The ball marked with the number 1 in pool and related games.**
 - **A very small quantity or degree; a particle; an atom; a jot.**
 - **A serve won without the opponent hitting the ball.**
@@ -18,21 +17,16 @@
 - **Any of various hesperiid butterflies.**
 - **A quark.**
 ---
-
 ### Synonyms
 - [[pip]]
-
 #verb
 - **(US) To pass (a test, interviews etc.) perfectly.**
 - **To win a point by an [[ace]].**
 - **To make an [[ace]] (hole in one).**
 ---
-
 ### Synonyms
 - [[pass with flying colours]]
-
 #noun
-- **A person who is asexual.**
+- **A person who is [[asexual]].**
 ---
-
 ---

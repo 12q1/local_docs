@@ -1,5 +1,4 @@
 # Accelerators
-
 ---
 #noun
 - **One who, or that which, [[accelerates]].**
@@ -12,8 +11,6 @@
 - **An [[accelerator]] key.**
 - **A light van to take mails between a post office and a railway station.**
 ---
-
 ### Synonyms
 - [[atom smasher]], [[gas]], [[gas pedal]], [[go pedal]], [[particle accelerator]], [[throttle]]
-
 ---

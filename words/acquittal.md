@@ -1,5 +1,4 @@
 # Acquittal
-
 ---
 #noun
 - **The [[act]] of fulfilling the duties (of a given role, obligation etc.).**
@@ -8,8 +7,6 @@
 - **The [[act]] of releasing someone from debt or other obligation; [[acquittance]].**
 - **Avoidance of danger; deliverance.**
 ---
-
 ### Antonyms
 - [[condemnation]], [[conviction]]
-
 ---

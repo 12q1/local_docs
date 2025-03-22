@@ -1,5 +1,4 @@
 # Acorns
-
 ---
 #noun
 - **The fruit of the oak, being an oval nut growing in a woody cup or cupule.**
@@ -7,5 +6,4 @@
 - **See [[acorn]]-shell.**
 - **(usually in the plural) A testicle.**
 ---
-
 ---

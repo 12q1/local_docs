@@ -1,5 +1,4 @@
 # Actualities
-
 ---
 #noun
 - **The state of existing; existence.**
@@ -7,5 +6,4 @@
 - **Live reporting on current [[affairs]].**
 - **A short early motion picture.**
 ---
-
 ---

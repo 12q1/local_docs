@@ -1,5 +1,4 @@
 # Annulments
-
 ---
 #noun
 - **An [[act]] or instance of [[annulling]].**
@@ -8,8 +7,6 @@
 - **A legal (notably judicial) declaration that a marriage is invalid; the procedure leading to it.**
 - **Total destruction.**
 ---
-
 ### Synonyms
 - [[abolition]], [[cancellation]], [[nullification]]
-
 ---

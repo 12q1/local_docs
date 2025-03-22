@@ -1,5 +1,4 @@
 # Activates
-
 ---
 #verb
 - **To encourage development or induce increased [[activity]]; to stimulate.**
@@ -13,11 +12,8 @@
 - **To organize or create a military unit or station.**
 - **To bring a player back [[after]] an injury.**
 ---
-
 ### Synonyms
 - [[actuate]], [[enable]], [[get going]], [[set going]], [[set in motion]], [[set off]], [[spur]], [[start]], [[stimulate]], [[trigger]], [[turn on]]
-
 ### Antonyms
 - [[deactivate]], [[inactivate]]
-
 ---

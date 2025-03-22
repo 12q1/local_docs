@@ -1,8 +1,6 @@
 # Allods
-
 ---
 #noun
 - **Allodium**
 ---
-
 ---

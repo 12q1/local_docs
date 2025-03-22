@@ -1,5 +1,4 @@
 # Aborted
-
 ---
 #verb
 - **(now rare outside medicine) To miscarry; to bring forth (non-living) offspring prematurely.**
@@ -12,12 +11,10 @@
 - **To terminate a mission involving a missile or rocket; to destroy a missile or rocket prematurely.**
 - **To terminate a process prior to completion.**
 ---
-
 #adjective
 - **Brought forth prematurely.**
 - **Checked in normal development at an early stage.**
- - _Example: Spines are aborted branches._
+	- _Example: Spines are aborted branches._
 - **Rendered [[abortive]] or sterile; undeveloped.**
 ---
-
 ---

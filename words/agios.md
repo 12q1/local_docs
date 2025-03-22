@@ -1,8 +1,6 @@
 # Agios
-
 ---
 #noun
 - **The premium or percentage on a better sort of money when it is given in exchange for an inferior sort. The premium or discount on foreign bills of exchange is sometimes called [[agio]].**
 ---
-
 ---

@@ -1,5 +1,4 @@
 # Academics
-
 ---
 #noun
 - **(usually capitalized) A follower of Plato, a Platonist.**
@@ -9,9 +8,7 @@
 - **Academic dress; [[academicals]].**
 - **Academic studies.**
 ---
-
 #noun
 - **Academia.**
 ---
-
 ---

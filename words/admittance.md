@@ -1,5 +1,4 @@
 # Admittance
-
 ---
 #noun
 - **The [[act]] of [[admitting]].**
@@ -8,8 +7,6 @@
 - **The [[act]] of giving possession of a copyhold estate.**
 - **The reciprocal of impedance**
 ---
-
 ### Synonyms
 - [[access]], [[admission]], [[entrance]], [[initiation]]
-
 ---

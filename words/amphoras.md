@@ -1,5 +1,4 @@
 # Amphoras
-
 ---
 #noun
 - **A two-handled jar with a narrow neck that was used in [[ancient]] times to store or carry wine or oil.**
@@ -7,5 +6,4 @@
 - **Ancient unit of volume, for the measurement of the internal capacity of a ship.**
 - **In botany, the lower valve of the fruit that opens transversely.**
 ---
-
 ---

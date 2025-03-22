@@ -1,5 +1,4 @@
 # Amplifiers
-
 ---
 #noun
 - **Anything that [[amplifies]], or makes something larger or more intense.**
@@ -8,5 +7,4 @@
 - **A portable encasement that houses a large speaker, used to [[amplify]] voices and musical instruments at live performances.**
 - **A lens that enlarges the field of vision.**
 ---
-
 ---

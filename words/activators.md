@@ -1,5 +1,4 @@
 # Activators
-
 ---
 #noun
 - **One who, or that which, [[activates]].**
@@ -9,5 +8,4 @@
 - **A type of dopant used in phosphors and scintillators.**
 - **An [[agent]] that enables the flotation of a mineral or minerals.**
 ---
-
 ---

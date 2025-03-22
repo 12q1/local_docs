@@ -1,5 +1,4 @@
 # Apes
-
 ---
 #noun
 - **A primate of the clade Hominoidea, generally larger than monkeys and distinguished from them by having no tail.**
@@ -7,10 +6,8 @@
 - **An uncivilised person.**
 - **One who [[apes]]; a foolish imitator.**
 ---
-
 #verb
 - **To behave like an [[ape]].**
 - **To imitate or mimic, particularly to imitate poorly.**
 ---
-
 ---

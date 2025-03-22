@@ -1,5 +1,4 @@
 # Ampullae
-
 ---
 #noun
 - **An Ancient Roman two-handled vessel.**
@@ -7,5 +6,4 @@
 - **The dilated end of a duct.**
 - **The spongiole of a root.**
 ---
-
 ---

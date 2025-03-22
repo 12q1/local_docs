@@ -1,5 +1,4 @@
 # Aerogram
-
 ---
 #noun
 - **A wireless message.**
@@ -7,5 +6,4 @@
 - **A thin piece of foldable and gummed paper for writing a letter and serving as its own envelope for transit via [[airmail]].**
 - **A pneumogram.**
 ---
-
 ---
