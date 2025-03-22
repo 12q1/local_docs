@@ -1,0 +1,8 @@
+# amnios
+
+---
+## Noun #noun
+- **Amnion**
+---
+
+---

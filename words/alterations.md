@@ -1,0 +1,9 @@
+# alterations
+
+---
+## Noun #noun
+- **The [[act]] of [[altering]] or making different.**
+- **The state of being [[altered]]; a change made in the form or nature of a thing; changed condition.**
+---
+
+---

@@ -1,0 +1,8 @@
+# afeard
+
+---
+## Adjective #adjective
+- **Afraid**
+---
+
+---

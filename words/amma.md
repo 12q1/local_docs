@@ -1,0 +1,8 @@
+# amma
+
+---
+## Noun #noun
+- **Mother**
+---
+
+---

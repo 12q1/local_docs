@@ -1,0 +1,8 @@
+# allods
+
+---
+## Noun #noun
+- **Allodium**
+---
+
+---

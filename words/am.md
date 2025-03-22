@@ -1,0 +1,14 @@
+# am
+
+---
+## Adverb #adverb
+- **Before noon.**
+---
+
+### Synonyms
+- [[forenoon]]
+
+### Antonyms
+- [[afternoon]], [[p.m.]]
+
+---

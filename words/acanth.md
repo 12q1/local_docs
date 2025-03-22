@@ -1,0 +1,8 @@
+# acanth
+
+---
+## Noun #noun
+- **Acanthus.**
+---
+
+---

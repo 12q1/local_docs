@@ -1,0 +1,8 @@
+# amphibologies
+
+---
+## Noun #noun
+- **Amphiboly.**
+---
+
+---
