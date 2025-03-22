@@ -15,7 +15,7 @@
 - **To give a cry of "[[ah]]".**
 ---
 #interjection
-- **An expression of relief, relaxation, comfort, confusion, understanding, wonder, awe, etc. [[according]] to uttered inflection.**
+- **An expression of relief, relaxation, comfort, confusion, understanding, wonder, [[awe]], etc. [[according]] to uttered inflection.**
 	- _Example: Ah! It's good to be back home!_
 - **A syllable used to fill space, particularly in music.**
 ---

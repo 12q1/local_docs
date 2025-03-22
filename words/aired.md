@@ -10,7 +10,7 @@
 - **To ignore.**
 ---
 #adjective
-- **(of a complaint or problem) Having been uttered or spoken of, such that certain persons are aware.**
+- **(of a complaint or problem) Having been uttered or spoken of, such that certain persons are [[aware]].**
 - **(of a show) Having been broadcast, such as on television or radio.**
 ---
 ---

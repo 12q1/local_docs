@@ -2,7 +2,7 @@
 ---
 #noun
 - **An expression of [[approval]]; praise.**
-- **A special [[acknowledgment]]; an award.**
+- **A special [[acknowledgment]]; an [[award]].**
 - **An embrace of greeting or salutation.**
 - **A salutation marking the conferring of knighthood, consisting of an embrace or a kiss, and a slight blow on the shoulders with the flat of a sword.**
 - **A brace used to join two or more staves.**
@@ -14,7 +14,7 @@
 #verb
 - **To embrace or kiss in salutation.**
 - **To confer a knighthood on.**
-- **To confer praise or awards on.**
+- **To confer praise or [[awards]] on.**
 	- _Example: an accoladed novel_
 ---
 #noun

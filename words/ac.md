@@ -8,11 +8,11 @@
 - **Initialism of [[athletic]] club.**
 - **Initialism of [[audible]] chuckle.**
 - **Initialism of [[author]]'s correction.**
-- **Initialism of automobile club.**
+- **Initialism of [[automobile]] club.**
 - **Initialism of Auxiliary Collier, (a naval coal transport that travels with the fleet to provide coal for coal powered warships)**
 - **Companion of the Order of Australia.**
-- **Initialism of aviation cadet.**
-- **Initialism of autonomous county.**
+- **Initialism of [[aviation]] cadet.**
+- **Initialism of [[autonomous]] county.**
 ---
 ### Antonyms
 - [[DC]]
@@ -60,7 +60,7 @@
 ---
 #noun
 - **An electric current in which the direction of flow of the electrons reverses periodically, such as sawtooth, sinusoidal or square wave current.**
-- **An electric current in which the direction of flow of the electrons reverses periodically by a sinusoidal law, hence having an average of zero, with positive and negative values (with a frequency of 50 Hz in Europe, 60 Hz in the US, 400 Hz for [[airport]] lighting, and some others); especially such a current produced by a rotating generator or [[alternator]].**
+- **An electric current in which the direction of flow of the electrons reverses periodically by a sinusoidal law, hence having an [[average]] of zero, with positive and negative values (with a frequency of 50 Hz in Europe, 60 Hz in the US, 400 Hz for [[airport]] lighting, and some others); especially such a current produced by a rotating generator or [[alternator]].**
 ---
 #noun
 - **A water-soluble salt of [[ammonia]] and hydrochloric [[acid]], having the formula NH4Cl.**
@@ -72,7 +72,7 @@
 - **A prefix [[appended]] to a telephone number indicating the geographical [[area]].**
 ---
 #noun
-- **One of the axioms of set theory, equivalent to the statement that an [[arbitrary]] direct product of non-empty sets is non-empty; [[any]] version of said axiom, for example specifying the cardinality of the number of sets from which choices are made.**
+- **One of the [[axioms]] of set theory, equivalent to the statement that an [[arbitrary]] direct product of non-empty sets is non-empty; [[any]] version of said [[axiom]], for example specifying the cardinality of the number of sets from which choices are made.**
 	- _Example: The axiom of choice is logically equivalent to the assertion that every vector space has a basis._
 ---
 ### Synonyms

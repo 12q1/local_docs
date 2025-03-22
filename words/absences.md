@@ -1,7 +1,7 @@
 # Absences
 ---
 #noun
-- **A state of being away or withdrawn from a place or from companionship; the period of being away.**
+- **A state of being [[away]] or withdrawn from a place or from companionship; the period of being [[away]].**
 	- _Example: Absence makes the heart grow fonder._
 - **Failure to be present where one is expected, wanted, or needed; nonattendance; deficiency.**
 - **Lack; deficiency; nonexistence.**

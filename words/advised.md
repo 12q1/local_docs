@@ -15,6 +15,6 @@
 - [[inform]], [[notify]], [[counsel]], [[warn]]
 #adjective
 - **Considered or thought out; resulting from deliberation.**
-- **Informed, [[appraised]] or made aware.**
+- **Informed, [[appraised]] or made [[aware]].**
 ---
 ---

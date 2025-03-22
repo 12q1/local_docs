@@ -28,7 +28,7 @@
 - **To stop; to fix or rest.**
 - **To provide emotional stability for a person in distress.**
 - **To perform as an [[anchorman]] or anchorwoman.**
-- **To be stuck; to be unable to move away from a position.**
+- **To be stuck; to be unable to move [[away]] from a position.**
 ---
 ### Synonyms
 - [[bog down]], [[embog]], [[enmire]], [[drop anchor]], [[affix]], [[fix]], [[host]], [[present]], [[support]], [[cease]], [[hold]]

@@ -5,7 +5,7 @@
 - **An [[absentee]]; a person who is not there.**
 ---
 #adjective
-- **Being away from a place; withdrawn from a place; not present; missing.**
+- **Being [[away]] from a place; withdrawn from a place; not present; missing.**
 - **Not existing; lacking.**
 	- _Example: The part was rudimental or absent._
 - **(sometimes comparable) Inattentive to what is passing; [[absent]]-minded; preoccupied.**

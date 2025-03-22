@@ -9,7 +9,7 @@
 - **A message from the [[addressee]] informing the originator that the originator's communication has been received and understood.**
 	- _Example: the acknowledgment of a wedding invitation_
 - **A response (ACK) sent by a receiver to indicate successful receipt of a transmission (See Wikipedia [[article]] on transmission).**
-- **A recognition as genuine or valid; an avowing or [[admission]] in legal form.**
+- **A recognition as genuine or valid; an [[avowing]] or [[admission]] in legal form.**
 	- _Example: acknowledgment of a deed_
 - **The [[act]] of a person [[admitting]] a child as their own.**
 - **A formal statement or document recognizing the fulfillment or execution of a legal requirement or procedure.**

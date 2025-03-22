@@ -4,6 +4,6 @@
 - **Wrong; [[askew]].**
 ---
 #adverb
-- **Wrong, awry, [[askew]], [[amiss]], or distortedly.**
+- **Wrong, [[awry]], [[askew]], [[amiss]], or distortedly.**
 ---
 ---

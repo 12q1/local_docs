@@ -8,7 +8,7 @@
 - **To interrupt suddenly.**
 ---
 #adjective
-- **Broken away (from restraint).**
+- **Broken [[away]] (from restraint).**
 - **Without notice to prepare the mind for the event; sudden; hasty; unceremonious.**
 	- _Example: The party came to an abrupt end when the parents of our host arrived._
 - **Curt in manner.**

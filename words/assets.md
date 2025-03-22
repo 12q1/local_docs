@@ -15,7 +15,7 @@
 - **The left side of a balance sheet.**
 	- _Example: The assets must equal liabilities, otherwise there is an error in your balance sheet._
 - **Sufficient estate; property sufficient in the hands of an executor or heir to pay the debts or legacies of the testator or [[ancestor]] to satisfy claims [[against]] it.**
-- **Any goods or property properly available for the payment of a bankrupt's or a deceased person's obligations or debts.**
+- **Any goods or property properly [[available]] for the payment of a bankrupt's or a deceased person's obligations or debts.**
 - **(usually in the plural) Private parts; a woman's breasts or buttocks, or a man's genitalia.**
 ---
 ---

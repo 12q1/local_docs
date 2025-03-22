@@ -1,0 +1,7 @@
+# Avionics
+---
+#noun
+- **The science and technology of the development and use of electrical and electronic devices in [[aviation]].**
+- **The devices used in [[avionics]].**
+---
+---

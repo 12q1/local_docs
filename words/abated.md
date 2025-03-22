@@ -19,7 +19,7 @@
 - **To deduct or omit.**
 	- _Example: We will abate this price from the total._
 - **To bar or except.**
-- **To cut away or hammer down, in such a way as to leave a figure in relief, as a sculpture, or in metalwork.**
+- **To cut [[away]] or hammer down, in such a way as to leave a figure in relief, as a sculpture, or in metalwork.**
 - **To dull the edge or point of; to blunt.**
 - **To destroy, or level to the ground.**
 ---
@@ -31,6 +31,6 @@
 - **To enter a tenement without permission [[after]] the owner has died and before the heir takes possession.**
 ---
 #adjective
-- **(decorative [[arts]]) Lowered, beaten down, or cut away, as the background of an ornamental pattern in relief. Used specifically of stone-cutting; [[also]] of metal when the pattern or inscription is to show bright on dark, and the ground is therefore worked out with the graving-tool and left rough or hatched in lines.**
+- **(decorative [[arts]]) Lowered, beaten down, or cut [[away]], as the background of an ornamental pattern in relief. Used specifically of stone-cutting; [[also]] of metal when the pattern or inscription is to show bright on dark, and the ground is therefore worked out with the graving-tool and left rough or hatched in lines.**
 ---
 ---

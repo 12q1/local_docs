@@ -11,6 +11,6 @@
 - [[alarm]], [[fright]], [[terror]], [[brawl]], [[fray]]
 #verb
 - **To startle from quiet; to [[alarm]].**
-- **To frighten; to scare; to frighten away.**
+- **To frighten; to scare; to frighten [[away]].**
 ---
 ---

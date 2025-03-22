@@ -12,8 +12,8 @@
 - [[abridgment]], [[compendium]], [[epitome]], [[synopsis]]
 #verb
 - **To separate; to disengage.**
-- **To remove; to take away; withdraw.**
-- **To steal; to take away; to remove without permission.**
+- **To remove; to take [[away]]; withdraw.**
+- **To steal; to take [[away]]; to remove without permission.**
 - **To summarize; to [[abridge]]; to epitomize.**
 - **To conceptualize an ideal subgroup by means of the generalization of an [[attribute]], as follows: by [[apprehending]] an [[attribute]] inherent to one individual, then separating that [[attribute]] and contemplating it by itself, then conceiving of that [[attribute]] as a general quality, then despecifying that conceived quality with respect to several or many individuals, and by then ideating a group composed of those individuals perceived to possess said quality.**
 - **To extract by means of distillation.**

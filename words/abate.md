@@ -22,7 +22,7 @@
 - **To deduct or omit.**
 	- _Example: We will abate this price from the total._
 - **To bar or except.**
-- **To cut away or hammer down, in such a way as to leave a figure in relief, as a sculpture, or in metalwork.**
+- **To cut [[away]] or hammer down, in such a way as to leave a figure in relief, as a sculpture, or in metalwork.**
 - **To dull the edge or point of; to blunt.**
 - **To destroy, or level to the ground.**
 ---

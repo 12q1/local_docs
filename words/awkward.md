@@ -1,0 +1,23 @@
+# Awkward
+---
+#noun
+- **Someone or something that is [[awkward]].**
+---
+#adjective
+- **Lacking dexterity in the use of the hands, or of instruments.**
+	- _Example: John was awkward at performing the trick. He'll have to practice to improve._
+- **Not easily managed or effected; embarrassing.**
+	- _Example: An awkward silence had fallen._
+- **Lacking social skills, or uncomfortable with social interaction.**
+	- _Example: I'm very awkward at parties._
+- **Perverse; [[adverse]]; difficult to handle.**
+	- _Example: He's a right awkward chap._
+---
+### Synonyms
+- [[clumsy]], [[lubberly]], [[ungraceful]], [[unhandy]], [[maladroit]]
+### Antonyms
+- [[amiable]], [[cool]], [[dexterous]], [[gainly]], [[graceful]], [[handy]], [[skillful]]
+#adverb
+- **In a backwards direction.**
+---
+---

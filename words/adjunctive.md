@@ -8,6 +8,6 @@
 - **Forming an [[adjunct]]**
 - **Additional; neither basic nor primary**
 	- _Example: adjunctive therapy_
-- **The property of two operations x and y, such that ax(ayb) = a, and [[ay]](axb) = a**
+- **The property of two operations x and y, such that [[ax]](ayb) = a, and [[ay]](axb) = a**
 ---
 ---

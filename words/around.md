@@ -15,7 +15,7 @@
 	- _Example: An adult elephant weighs around five tons._
 - **From place to place.**
 	- _Example: Look around and see what you find._
-- **From one state or condition to an opposite or very different one; with a metaphorical change in direction; bringing [[about]] awareness or [[agreement]].**
+- **From one state or condition to an opposite or very different one; with a metaphorical change in direction; bringing [[about]] [[awareness]] or [[agreement]].**
 	- _Example: He used to stay up late but his new girlfriend changed that around._
 - **(with turn, spin etc.) So as to partially or completely rotate; so as to face in the opposite direction.**
 	- _Example: She spun around a few times._

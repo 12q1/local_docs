@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Derived; extracted.**
-- **Drawn away; removed from; [[apart]] from; separate.**
+- **Drawn [[away]]; removed from; [[apart]] from; separate.**
 - **Not concrete: conceptual, ideal.**
 - **Difficult to understand; [[abstruse]]; hard to conceptualize.**
 - **Separately expressing a property or [[attribute]] of an object that is considered to be inherent to that object: [[attributive]], [[ascriptive]].**

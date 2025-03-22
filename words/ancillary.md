@@ -2,10 +2,10 @@
 ---
 #noun
 - **Something that serves an [[ancillary]] function, such as an easel for a painter.**
-- **An auxiliary.**
+- **An [[auxiliary]].**
 ---
 #adjective
-- **Subordinate; secondary; auxiliary**
+- **Subordinate; secondary; [[auxiliary]]**
 ---
 ### Synonyms
 - [[accessory]]

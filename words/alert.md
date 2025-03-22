@@ -7,7 +7,7 @@
 	- _Example: an airborne alert; ground alert_
 ---
 #adjective
-- **Attentive; awake; on guard.**
+- **Attentive; [[awake]]; on guard.**
 - **Brisk; nimble; moving with celerity.**
 ---
 ---

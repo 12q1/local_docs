@@ -10,7 +10,7 @@
 - **An [[assistant]] mayor of a French commune.**
 ---
 #adjective
-- **Used in certain contexts, in each case involving a pair of transformations, one of which is, or is [[analogous]] to, conjugation (either inner automorphism or complex conjugation).**
+- **Used in certain contexts, in each case involving a pair of transformations, one of which is, or is [[analogous]] to, conjugation (either inner [[automorphism]] or complex conjugation).**
 - **(of a functor) That is related to [[another]] functor by an [[adjunction]].**
 - **(of one curve to [[another]] curve) Having a relationship of the nature of an [[adjoint]] ([[adjoint]] curve); sharing multiple points with.**
 ---

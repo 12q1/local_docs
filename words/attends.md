@@ -16,7 +16,7 @@
 - **To go to (a place) for some purpose (with at).**
 - **To be present with; to [[accompany]]; to be united or consequent to.**
 	- _Example: a measure attended with ill effects_
-- **To wait for; to await; to remain, [[abide]], or be in store for.**
+- **To wait for; to [[await]]; to remain, [[abide]], or be in store for.**
 ---
 ### Synonyms
 - [[notice]], [[pay attention]], [[take heed]], [[behear]], [[heed]], [[mark]], [[notice]], [[bestand]], [[serve]]

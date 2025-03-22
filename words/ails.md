@@ -9,6 +9,6 @@
 - **To be ill; to suffer; to be troubled.**
 ---
 #noun
-- **The awn of barley or other types of corn.**
+- **The [[awn]] of barley or other types of corn.**
 ---
 ---

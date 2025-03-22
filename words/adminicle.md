@@ -2,7 +2,7 @@
 ---
 #noun
 - **Something that [[aids]] or supports.**
-- **An auxiliary.**
+- **An [[auxiliary]].**
 - **Corroborative proof.**
 - **Background ornamentation on a coin or medal.**
 ---

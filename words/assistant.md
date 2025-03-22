@@ -9,8 +9,8 @@
 ### Synonyms
 - [[wizard]]
 #adjective
-- **Having a subordinate or auxiliary position.**
+- **Having a subordinate or [[auxiliary]] position.**
 	- _Example: an assistant surgeon_
-- **Helping; lending [[aid]] or support; auxiliary.**
+- **Helping; lending [[aid]] or support; [[auxiliary]].**
 ---
 ---

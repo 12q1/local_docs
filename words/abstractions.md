@@ -1,7 +1,7 @@
 # Abstractions
 ---
 #noun
-- **The [[act]] of [[abstracting]], separating, withdrawing, or taking away; withdrawal; the state of being taken away.**
+- **The [[act]] of [[abstracting]], separating, withdrawing, or taking [[away]]; withdrawal; the state of being taken [[away]].**
 - **A separation from worldly objects; a recluse life; the withdrawal from one's senses.**
 - **The [[act]] of focusing on one characteristic of an object rather than the object as a whole group of characteristics; the [[act]] of separating said qualities from the object or ideas.**
 	- _Example: Abstraction is necessary for the classification of things into genera and species._

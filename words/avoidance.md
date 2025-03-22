@@ -1,0 +1,11 @@
+# Avoidance
+---
+#noun
+- **The [[act]] of [[annulling]]; [[annulment]].**
+- **The [[act]] of becoming vacant, or the state of being vacant; – specifically used for the state of a benefice becoming void by the death, deprivation, or resignation of the incumbent.**
+- **A dismissing or a quitting; removal; withdrawal.**
+- **The [[act]] of [[avoiding]] or shunning; keeping clear of.**
+- **Any thing that is to be [[avoided]]**
+- **The courts by which [[anything]] is carried off.**
+---
+---

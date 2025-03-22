@@ -2,6 +2,6 @@
 ---
 #noun
 - **The [[act]] of [[adducing]] or bringing forward.**
-- **The [[action]] by which the parts of the body are drawn towards its axis; -- opposed to [[abduction]].**
+- **The [[action]] by which the parts of the body are drawn towards its [[axis]]; -- opposed to [[abduction]].**
 ---
 ---

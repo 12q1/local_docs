@@ -25,7 +25,7 @@
 ---
 #noun
 - **An [[action]] or deed.**
-- **Something done by a party — so called to avoid confusion with the legal senses of deed and [[action]].**
+- **Something done by a party — so called to [[avoid]] confusion with the legal senses of deed and [[action]].**
 - **Pretending.**
 - **The occupation of an [[actor]].**
 ---

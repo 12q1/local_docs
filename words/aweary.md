@@ -1,0 +1,6 @@
+# Aweary
+---
+#adjective
+- **Weary, tired.**
+---
+---

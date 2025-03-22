@@ -8,7 +8,7 @@
 	- _Example: to acknowledge a favor_
 - **To report (the receipt of a message to its sender).**
 	- _Example: This is to acknowledge your kind invitation to participate in the upcoming debate._
-- **To own as genuine or valid; to [[assent]] to (a legal instrument) to give it validity; to avow or [[admit]] in legal form.**
+- **To own as genuine or valid; to [[assent]] to (a legal instrument) to give it validity; to [[avow]] or [[admit]] in legal form.**
 ---
 ### Synonyms
 - [[admit]], [[allow]], [[avow]], [[concede]], [[confess]], [[own]], [[proclaim]], [[recognize]]

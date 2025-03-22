@@ -13,6 +13,6 @@
 - **Assistance; help given**
 ---
 #adjective
-- **Helpful; auxiliary (to).**
+- **Helpful; [[auxiliary]] (to).**
 ---
 ---

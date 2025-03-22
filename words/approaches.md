@@ -4,7 +4,7 @@
 - **The [[act]] of drawing near; a coming or [[advancing]] near.**
 - **An [[access]], or opportunity of drawing near.**
 - **(in plural) Movements to gain favor; [[advances]].**
-- **A way, passage, or avenue by which a place or buildings can be [[approached]]; an [[access]].**
+- **A way, passage, or [[avenue]] by which a place or buildings can be [[approached]]; an [[access]].**
 - **A manner in which a problem is solved or policy is made.**
 	- _Example: 1991, Carol Lee Johnston, Jeanne Lazaris, Plane Trigonometry, A New Approach._
 - **(used only in the plural, fortification) The [[advanced]] works, trenches, or covered roads made by besiegers in their [[advances]] toward a fortress or military post.**

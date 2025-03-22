@@ -1,7 +1,7 @@
 # Assertions
 ---
 #noun
-- **The [[act]] of [[asserting]]; positive declaration or averment.**
+- **The [[act]] of [[asserting]]; positive declaration or [[averment]].**
 - **Something which is [[asserted]]; a declaration; a statement [[asserted]].**
 	- _Example: You're a man of strong assertions!_
 - **A statement or declaration which lacks support or evidence.**

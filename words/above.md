@@ -41,7 +41,7 @@
 - **Surpassing in number or quantity; more than.**
 	- _Example: That amount is way above our asking price._
 - **In preference to.**
-- **Too proud to stoop to; averse to; disinclined towards;**
+- **Too proud to stoop to; [[averse]] to; disinclined towards;**
 	- _Example: The owner was above taking more than a token salary._
 - **Beyond; on the other side.**
 - **Upstage of.**

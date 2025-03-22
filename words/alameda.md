@@ -1,6 +1,6 @@
 # Alameda
 ---
 #noun
-- **A tree-lined avenue in Spain or Portugal.**
+- **A tree-lined [[avenue]] in Spain or Portugal.**
 ---
 ---

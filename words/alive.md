@@ -43,7 +43,7 @@
 - **Featuring humans; not [[animated]], in the phrases “live [[actors]]” or “live [[action]]”.**
 - **Being in a state of ignition; burning.**
 	- _Example: a live coal; live embers_
-- **Full of earnestness; [[active]]; wide awake; glowing.**
+- **Full of earnestness; [[active]]; wide [[awake]]; glowing.**
 	- _Example: a live man, or orator_
 - **Vivid; bright.**
 ---

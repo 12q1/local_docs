@@ -5,7 +5,7 @@
 - **A grove of trees.**
 ---
 #noun
-- **An axis or shaft supporting a rotating part on a lathe.**
+- **An [[axis]] or shaft supporting a rotating part on a lathe.**
 - **A bar for supporting cutting tools.**
 - **A spindle of a wheel.**
 ---

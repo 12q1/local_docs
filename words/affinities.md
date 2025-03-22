@@ -12,6 +12,6 @@
 - **An [[attractive]] force between [[atoms]], or groups of [[atoms]], that contributes towards their forming bonds**
 - **The [[attraction]] between an [[antibody]] and an [[antigen]]**
 - **Tendency to keep a task running on the same processor in a symmetric multiprocessing operating system to reduce the frequency of cache misses**
-- **An automorphism of [[affine]] space.**
+- **An [[automorphism]] of [[affine]] space.**
 ---
 ---

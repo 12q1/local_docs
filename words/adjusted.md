@@ -12,6 +12,6 @@
 ### Synonyms
 - [[change]], [[edit]], [[modify]], [[set]]
 #adjective
-- **Which has been compensated in order to avoid bias.**
+- **Which has been compensated in order to [[avoid]] bias.**
 ---
 ---

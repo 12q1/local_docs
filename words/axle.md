@@ -1,0 +1,6 @@
+# Axle
+---
+#noun
+- **Shoulder.**
+---
+---

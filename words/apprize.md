@@ -13,7 +13,7 @@
 - **To [[apprise]], inform.**
 ---
 #verb
-- **To notify, or to make aware; to inform.**
+- **To notify, or to make [[aware]]; to inform.**
 ---
 ### Synonyms
 - [[abreast]], [[up to date]], [[up-to-date]]
