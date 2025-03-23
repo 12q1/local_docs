@@ -11,14 +11,14 @@
 	- _Example: They baked the electrical parts lightly to remove moisture._
 - **To be hot.**
 	- _Example: I'm baking after that workout in the gym._
-- **To cause to be hot.**
+- **To [[cause]] to be hot.**
 - **To smoke marijuana.**
 - **To harden by cold.**
 - **To fix (lighting, reflections, etc.) as part of the texture of an object to improve rendering performance.**
 - **(with "in" or "into") To incorporate into something greater.**
 ---
 #adjective
-- **That has been cooked by [[baking]].**
-- **High on cannabis.**
+- **That has [[been]] cooked by [[baking]].**
+- **High on [[cannabis]].**
 ---
 ---

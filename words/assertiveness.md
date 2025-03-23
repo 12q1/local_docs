@@ -1,6 +1,6 @@
 # Assertiveness
 ---
 #noun
-- **The quality of being self-[[assured]] and [[assertive]].**
+- **The quality of [[being]] self-[[assured]] and [[assertive]].**
 ---
 ---

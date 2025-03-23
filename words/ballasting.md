@@ -2,7 +2,7 @@
 ---
 #verb
 - **To stabilize or load a ship with [[ballast]].**
-- **To lay [[ballast]] on the bed of a railroad track.**
+- **To lay [[ballast]] on the [[bed]] of a railroad track.**
 ---
 #noun
 - **That which is used for steadying [[anything]]; [[ballast]]**

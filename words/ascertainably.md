@@ -1,6 +1,6 @@
 # Ascertainably
 ---
 #adverb
-- **In a way that can be [[ascertained]].**
+- **In a way that [[can]] be [[ascertained]].**
 ---
 ---

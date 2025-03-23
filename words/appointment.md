@@ -3,10 +3,10 @@
 #noun
 - **The [[act]] of [[appointing]] a person to hold an office or to have a position of trust**
 	- _Example: His appointment was deemed suitable_
-- **The state of being [[appointed]] to a service or office; an office to which one is [[appointed]]**
+- **The state of [[being]] [[appointed]] to a service or office; an office to which one is [[appointed]]**
 	- _Example: the appointment of treasurer_
 - **Stipulation; [[agreement]]; the [[act]] of fixing by mutual [[agreement]].**
-- **An [[arrangement]] between people to meet; an engagement.**
+- **An [[arrangement]] [[between]] people to meet; an engagement.**
 	- _Example: I'm leaving work early because I have a doctor's appointment._
 - **Decree; direction; established order or constitution.**
 	- _Example: To submit to the divine appointments._

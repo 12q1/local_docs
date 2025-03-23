@@ -10,7 +10,7 @@
 ---
 #verb
 - **To roll or incline laterally in order to turn.**
-- **To cause (an [[aircraft]]) to [[bank]].**
+- **To [[cause]] (an [[aircraft]]) to [[bank]].**
 - **To form into a [[bank]] or heap, to [[bank]] up.**
 	- _Example: to bank sand_
 - **To cover the embers of a fire with [[ashes]] in order to retain heat.**
@@ -24,6 +24,6 @@
 #adjective
 - **Piled high.**
 	- _Example: He tripped and fell on the banked corners of the road._
-- **Of a cheque, deposited in a [[bank]].**
+- **Of a [[cheque]], deposited in a [[bank]].**
 ---
 ---

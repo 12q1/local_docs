@@ -4,11 +4,11 @@
 - **An [[ailment]]; trouble; illness.**
 ---
 #verb
-- **To cause to suffer; to trouble, [[afflict]]. (Now chiefly in interrogative or indefinite constructions.)**
+- **To [[cause]] to suffer; to trouble, [[afflict]]. (Now [[chiefly]] in interrogative or indefinite constructions.)**
 	- _Example: Have some chicken soup. It's good for what ails you._
 - **To be ill; to suffer; to be troubled.**
 ---
 #noun
-- **The [[awn]] of barley or other types of corn.**
+- **The [[awn]] of [[barley]] or other types of corn.**
 ---
 ---

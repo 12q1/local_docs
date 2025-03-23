@@ -1,6 +1,6 @@
 # Ament
 ---
 #noun
-- **A catkin or [[amentum]].**
+- **A [[catkin]] or [[amentum]].**
 ---
 ---

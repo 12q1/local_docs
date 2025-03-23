@@ -5,7 +5,7 @@
 - **Assembly language.**
 	- _Example: I wrote that program in assembler._
 - **One who [[assembles]] items.**
-- **A nanodevice capable of [[assembling]] nanodevices, possibly including copies of itself, [[according]] to a plan.**
+- **A nanodevice [[capable]] of [[assembling]] nanodevices, possibly including copies of itself, [[according]] to a plan.**
 ---
 ### Synonyms
 - [[assembly]], [[assembly language]]

@@ -12,7 +12,7 @@
 - **To leave, evacuate; to leave as empty, to withdraw or come [[away]] from.**
 - **To get rid of.**
 - **To retire; to withdraw, depart, go [[away]].**
-- **To become void or vacant.**
+- **To [[become]] void or vacant.**
 ---
 #noun
 - **Avoidance.**

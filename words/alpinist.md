@@ -6,8 +6,8 @@
 ### Synonyms
 - [[alpinist]]
 #noun
-- **(sometimes capitalized) A mountain climber, especially in the European Alps or in ranges of similar ruggedness and elevation.**
-- **(sometimes capitalized) A downhill skier who practises the sport on high mountains.**
+- **(sometimes [[capitalized]]) A mountain climber, especially in the European Alps or in ranges of similar ruggedness and elevation.**
+- **(sometimes [[capitalized]]) A downhill skier who practises the sport on high mountains.**
 ---
 #adjective
 - **Of or pertaining to [[alpinism]].**

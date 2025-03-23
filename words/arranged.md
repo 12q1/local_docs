@@ -7,6 +7,6 @@
 - **To prepare and [[adapt]] an [[already]]-written composition for presentation in other than its original form.**
 ---
 #adjective
-- **(of a marriage) Having the match decided by someone other than the couple being married.**
+- **(of a marriage) Having the match decided by someone other than the couple [[being]] married.**
 ---
 ---

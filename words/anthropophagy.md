@@ -1,6 +1,6 @@
 # Anthropophagy
 ---
 #noun
-- **The eating of human flesh; cannibalism.**
+- **The eating of human flesh; [[cannibalism]].**
 ---
 ---

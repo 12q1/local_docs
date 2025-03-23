@@ -12,7 +12,7 @@
 - **Aspiration.**
 ---
 #adjective
-- **Hoping to become.**
+- **Hoping to [[become]].**
 	- _Example: Aspiring pop stars lined up for hours just to audition._
 ---
 ### Synonyms

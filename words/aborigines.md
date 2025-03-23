@@ -7,6 +7,6 @@
 #noun
 - **The original people of a location, originally Greek and Roman.**
 - **Indigenous flora and fauna.**
-- **(history) The inhabitants of a location before colonization by the Europeans occurred.**
+- **(history) The inhabitants of a location [[before]] colonization by the Europeans occurred.**
 ---
 ---

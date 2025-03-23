@@ -7,11 +7,11 @@
 - **To perform a theatrical role.**
 	- _Example: I started acting at the age of eleven in my local theatre._
 - **Of a play: to be [[acted]] out (well or [[badly]]).**
-- **To behave in a certain manner for an indefinite length of time.**
+- **To [[behave]] in a [[certain]] manner for an indefinite length of time.**
 	- _Example: A dog which acts aggressively is likely to bite._
-- **To convey an [[appearance]] of being.**
+- **To convey an [[appearance]] of [[being]].**
 	- _Example: He acted unconcerned so the others wouldn't worry._
-- **To do something that causes a change binding on the doer.**
+- **To do something that [[causes]] a [[change]] [[binding]] on the doer.**
 	- _Example: act on behalf of John_
 - **(construed with on or upon) To have an effect (on).**
 	- _Example: Gravitational force acts on heavy bodies._

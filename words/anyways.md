@@ -2,6 +2,6 @@
 ---
 #adverb
 - **In [[any]] way.**
-- **Anyway, [[anyhow]], in [[any]] case.**
+- **Anyway, [[anyhow]], in [[any]] [[case]].**
 ---
 ---

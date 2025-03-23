@@ -1,6 +1,6 @@
 # Accomplishable
 ---
 #adjective
-- **Capable of being [[accomplished]]; practicable.**
+- **Capable of [[being]] [[accomplished]]; practicable.**
 ---
 ---

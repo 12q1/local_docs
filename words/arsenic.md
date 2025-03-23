@@ -1,7 +1,7 @@
 # Arsenic
 ---
 #noun
-- **A nonmetallic chemical element (symbol As) with an [[atomic]] number of 33.**
+- **A nonmetallic [[chemical]] element (symbol As) with an [[atomic]] number of 33.**
 - **A single [[atom]] of this element.**
 - **Arsenic trioxide.**
 ---

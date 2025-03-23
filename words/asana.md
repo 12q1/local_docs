@@ -1,6 +1,6 @@
 # Asana
 ---
 #noun
-- **A body position, typically [[associated]] with the practice of yoga.**
+- **A [[body]] position, typically [[associated]] with the practice of yoga.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Astounding
 ---
 #verb
-- **To [[astonish]], bewilder or dazzle.**
+- **To [[astonish]], [[bewilder]] or dazzle.**
 ---
 #adjective
 - **That [[astounds]] or [[astound]].**

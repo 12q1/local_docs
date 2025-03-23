@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Receiving others kindly and conversing with them in a free and friendly manner; friendly, courteous, sociable.**
-- **Mild; benign.**
+- **Mild; [[benign]].**
 ---
 ### Synonyms
 - [[accessible]], [[civil]], [[complaisant]], [[courteous]], [[friendly]], [[gracious]], [[personable]], [[benign]], [[mild]], [[warm]]

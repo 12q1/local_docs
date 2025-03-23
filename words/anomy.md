@@ -1,6 +1,6 @@
 # Anomy
 ---
 #noun
-- **Alienation or social instability caused by erosion of standards and values.**
+- **Alienation or social instability [[caused]] by erosion of standards and values.**
 ---
 ---

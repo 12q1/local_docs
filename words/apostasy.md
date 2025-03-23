@@ -1,7 +1,7 @@
 # Apostasy
 ---
 #noun
-- **The renunciation of a belief or set of beliefs.**
+- **The renunciation of a [[belief]] or set of [[beliefs]].**
 - **Specifically, the renunciation of one's religion or faith.**
 ---
 ### Synonyms

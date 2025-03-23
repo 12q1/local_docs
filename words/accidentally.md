@@ -1,7 +1,7 @@
 # Accidentally
 ---
 #adverb
-- **In an [[accidental]] manner; by chance, unexpectedly.**
+- **In an [[accidental]] manner; by [[chance]], unexpectedly.**
 	- _Example: He discovered penicillin largely accidentally._
 - **Unintentionally.**
 	- _Example: He accidentally exposed the bacteria to mold spores._

@@ -1,7 +1,7 @@
 # Accessorial
 ---
 #noun
-- **(logistics) An [[assessorial]] charge.**
+- **(logistics) An [[assessorial]] [[charge]].**
 ---
 #adjective
 - **Of or pertaining to an [[accessory]], e.g. to a crime.**

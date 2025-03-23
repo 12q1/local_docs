@@ -1,7 +1,7 @@
 # Avalanches
 ---
 #noun
-- **A large mass or body of snow and ice sliding swiftly down a mountain side, or falling down a precipice.**
+- **A large mass or [[body]] of snow and ice sliding swiftly down a mountain side, or falling down a precipice.**
 - **A fall of earth, rocks, etc., similar to that of an [[avalanche]] of snow or ice.**
 - **(by extension) A sudden, great, or irresistible descent or influx; [[anything]] like an [[avalanche]] in suddenness and overwhelming quantity.**
 ---

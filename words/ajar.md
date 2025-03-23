@@ -1,7 +1,7 @@
 # Ajar
 ---
 #verb
-- **To turn or open slightly; to become [[ajar]] or to cause to become [[ajar]]; to be or to hang [[ajar]].**
+- **To turn or open slightly; to [[become]] [[ajar]] or to [[cause]] to [[become]] [[ajar]]; to be or to hang [[ajar]].**
 ---
 #adjective
 - **Slightly turned or opened.**

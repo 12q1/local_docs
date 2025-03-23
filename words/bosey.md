@@ -1,0 +1,6 @@
+# Bosey
+---
+#noun
+- **A googly.**
+---
+---

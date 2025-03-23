@@ -8,6 +8,6 @@
 ---
 #adjective
 - **Attentive; [[awake]]; on guard.**
-- **Brisk; nimble; moving with celerity.**
+- **Brisk; nimble; moving with [[celerity]].**
 ---
 ---

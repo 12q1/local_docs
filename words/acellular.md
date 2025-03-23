@@ -1,6 +1,6 @@
 # Acellular
 ---
 #adjective
-- **Not composed of cells; not cellular**
+- **Not composed of [[cells]]; not [[cellular]]**
 ---
 ---

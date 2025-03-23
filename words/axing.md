@@ -15,12 +15,12 @@
 	- _Example: What price are you asking for the house?_
 - **To invite.**
 	- _Example: Don't ask them to the wedding._
-- **To publish in church for marriage; said of both the [[banns]] and the persons.**
+- **To publish in [[church]] for marriage; said of [[both]] the [[banns]] and the persons.**
 - **To take (a person's situation) as an example.**
 ---
 #verb
-- **To fell or chop with an [[axe]].**
-- **To lay off, terminate or drastically reduce, especially in a rough or ruthless manner; to cancel.**
+- **To fell or [[chop]] with an [[axe]].**
+- **To lay off, terminate or drastically reduce, especially in a rough or ruthless manner; to [[cancel]].**
 	- _Example: He got axed in the last round of firings._
 ---
 ### Synonyms
@@ -29,6 +29,6 @@
 - **To furnish with an [[axle]].**
 ---
 #noun
-- **An [[assault]] carried out with an [[axe]].**
+- **An [[assault]] [[carried]] out with an [[axe]].**
 ---
 ---

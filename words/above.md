@@ -36,7 +36,7 @@
 	- _Example: Even the chief of police is not above suspicion._
 - **Higher in rank, status, or position.**
 	- _Example: to stand head and shoulders above the rest_
-- **In [[addition]] to; besides.**
+- **In [[addition]] to; [[besides]].**
 	- _Example: above and beyond the call of duty_
 - **Surpassing in number or quantity; more than.**
 	- _Example: That amount is way above our asking price._

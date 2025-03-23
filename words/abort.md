@@ -1,7 +1,7 @@
 # Abort
 ---
 #noun
-- **A miscarriage; an untimely birth; an [[abortion]].**
+- **A miscarriage; an untimely [[birth]]; an [[abortion]].**
 - **The product of a miscarriage; an [[aborted]] offspring; an [[abortion]].**
 - **An early termination of a mission, [[action]], or procedure in relation to missiles or spacecraft; the craft making such a mission.**
 	- _Example: We've had aborts on three of our last seven launches._

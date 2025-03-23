@@ -1,0 +1,17 @@
+# Bimonthly
+---
+#noun
+- **A publication that is published on a [[bimonthly]] [[basis]].**
+	- _Example: We have to get the report done. If the boss doesn't get his bimonthly he'll scream._
+---
+#adjective
+- **Occurring once every two months; [[bimestrial]]**
+- **Twice every month; semimonthly.**
+	- _Example: His bimonthly appointment was almost due._
+---
+#adverb
+- **Once every two months; bimestrially**
+- **Twice every month; semimonthly.**
+	- _Example: They checked on his progress bimonthly._
+---
+---

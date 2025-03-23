@@ -8,7 +8,7 @@
 ### Synonyms
 - [[archangel]]
 #noun
-- **A plucked bowl lute with two necks and most often sixteen strings, played in the manner of a harp, and popular in Baroque Europe.**
+- **A plucked [[bowl]] lute with two necks and most often sixteen strings, played in the manner of a harp, and popular in Baroque Europe.**
 ---
 ### Synonyms
 - [[angel lute]], [[angelica]]

@@ -2,7 +2,7 @@
 ---
 #noun
 - **Partly or wholly uncleared forest, especially in North America.**
-- **A remote or sparsely inhabited region, especially in North America; [[away]] from big towns and from the influence of modern life.**
+- **A remote or sparsely inhabited region, especially in North America; [[away]] from [[big]] towns and from the influence of modern life.**
 ---
 #adjective
 - **Pertaining to the [[backwoods]].**

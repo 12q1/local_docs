@@ -8,7 +8,7 @@
 	- _Example: to pass into the arch of a bridge_
 - **An [[arc]]; a part of a curve.**
 - **A natural [[arch]]-shaped opening in a rock mass.**
-- **Curved part of the bottom of a foot.**
+- **Curved part of the [[bottom]] of a foot.**
 ---
 #verb
 - **To form into an [[arch]] shape**

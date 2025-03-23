@@ -1,7 +1,7 @@
 # Anthelmintic
 ---
 #noun
-- **A drug for the treatment of intestinal worm infestation, either by killing the worms or by causing them to be expelled from the body.**
+- **A drug for the treatment of intestinal worm infestation, either by killing the worms or by [[causing]] them to be expelled from the [[body]].**
 ---
 #adjective
 - **(pharmaceutical effect) Destructive to parasitic intestinal worms.**

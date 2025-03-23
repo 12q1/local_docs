@@ -10,7 +10,7 @@
 - **An omen; a foretelling.**
 ---
 #verb
-- **To bode; to foreshow; to presage.**
+- **To [[bode]]; to foreshow; to presage.**
 - **To be ominous.**
 ---
 ---

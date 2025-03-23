@@ -1,0 +1,6 @@
+# Bedsitter
+---
+#noun
+- **Bedsit**
+---
+---

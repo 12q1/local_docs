@@ -11,6 +11,6 @@
 ### Antonyms
 - [[deallocate]], [[free]]
 #adjective
-- **Having been granted an [[allocation]]; having received (something) as part of a plan or scheduled disbursement; having been [[assigned]] (something) that was set [[aside]] for a particular purpose.**
+- **Having [[been]] granted an [[allocation]]; having received (something) as part of a plan or scheduled disbursement; having [[been]] [[assigned]] (something) that was set [[aside]] for a particular purpose.**
 ---
 ---

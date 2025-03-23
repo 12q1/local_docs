@@ -6,6 +6,6 @@
 ---
 #adjective
 - **Alternating from one row of a matrix to [[another]].**
-- **Composed of [[alternate]] layers, like certain rocks.**
+- **Composed of [[alternate]] layers, like [[certain]] rocks.**
 ---
 ---

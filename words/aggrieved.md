@@ -1,7 +1,7 @@
 # Aggrieved
 ---
 #verb
-- **To cause someone to feel pain or sorrow to; to [[afflict]]**
+- **To [[cause]] someone to feel pain or sorrow to; to [[afflict]]**
 - **To grieve; to lament.**
 ---
 #adjective

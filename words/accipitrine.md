@@ -1,9 +1,9 @@
 # Accipitrine
 ---
 #noun
-- **A hawk or a hawk-like bird.**
+- **A hawk or a hawk-like [[bird]].**
 ---
 #adjective
-- **Like or belonging to the Accipitres; raptorial; hawklike.**
+- **Like or [[belonging]] to the Accipitres; raptorial; hawklike.**
 ---
 ---

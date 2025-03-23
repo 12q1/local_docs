@@ -4,6 +4,6 @@
 - **Any substance that [[absorbs]].**
 ---
 #adjective
-- **Having power, capacity, or tendency to [[absorb]] or imbibe; [[absorbent]].**
+- **Having power, [[capacity]], or tendency to [[absorb]] or imbibe; [[absorbent]].**
 ---
 ---

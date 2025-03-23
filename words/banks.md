@@ -1,13 +1,13 @@
 # Banks
 ---
 #noun
-- **An institution where one can place and borrow money and take care of financial [[affairs]].**
-- **A branch office of such an institution.**
-- **An underwriter or controller of a card game; [[also]] [[banque]].**
-- **A fund from deposits or contributions, to be used in transacting business; a joint stock or capital.**
+- **An institution where one [[can]] place and [[borrow]] money and take [[care]] of financial [[affairs]].**
+- **A [[branch]] office of such an institution.**
+- **An underwriter or controller of a [[card]] game; [[also]] [[banque]].**
+- **A fund from deposits or contributions, to be used in transacting [[business]]; a joint stock or [[capital]].**
 - **The sum of money etc. which the dealer or [[banker]] has as a fund from which to draw stakes and pay losses.**
 - **Money; profit**
-- **In certain games, such as dominos, a fund of pieces from which the players are [[allowed]] to draw.**
+- **In [[certain]] games, such as dominos, a fund of pieces from which the players are [[allowed]] to draw.**
 - **A safe and guaranteed place of storage for and retrieval of important items or goods.**
 	- _Example: blood bank; sperm bank; data bank_
 - **A device used to store coins or currency.**
@@ -39,7 +39,7 @@
 ---
 #verb
 - **To roll or incline laterally in order to turn.**
-- **To cause (an [[aircraft]]) to [[bank]].**
+- **To [[cause]] (an [[aircraft]]) to [[bank]].**
 - **To form into a [[bank]] or heap, to [[bank]] up.**
 	- _Example: to bank sand_
 - **To cover the embers of a fire with [[ashes]] in order to retain heat.**
@@ -51,7 +51,7 @@
 - **A row or panel of items stored or grouped together.**
 	- _Example: a bank of pay phones_
 - **A row of keys on a musical keyboard or the equivalent on a typewriter keyboard.**
-- **A contiguous block of memory that is of fixed, hardware-dependent size, but often larger than a page and partitioning the memory such that two distinct [[banks]] do not overlap.**
+- **A contiguous [[block]] of memory that is of fixed, hardware-dependent size, but often larger than a page and partitioning the memory such that two distinct [[banks]] do not overlap.**
 - **A set of multiple [[adjacent]] drop targets.**
 ---
 ### Synonyms
@@ -60,11 +60,11 @@
 - **(order and [[arrangement]]) To [[arrange]] or order in a row.**
 ---
 #noun
-- **A bench, as for rowers in a galley; [[also]], a tier of oars.**
-- **A bench or seat for judges in court.**
+- **A [[bench]], as for rowers in a galley; [[also]], a tier of oars.**
+- **A [[bench]] or seat for judges in court.**
 - **The regular term of a court of law, or the full court sitting to hear [[arguments]] upon questions of law, as distinguished from a sitting at nisi prius, or a court held for jury trials. See [[banc]].**
 - **A kind of table used by printers.**
-- **A bench, or row of keys belonging to a keyboard, as in an organ.**
+- **A [[bench]], or row of keys [[belonging]] to a keyboard, as in an organ.**
 - **Slang for money**
 ---
 ---

@@ -9,7 +9,7 @@
 - **(followed by to) Open to the influence of.**
 - **Obtainable; to be got at.**
 - **Easily understood or [[appreciated]].**
-- **Capable of being used or seen.**
+- **Capable of [[being]] used or seen.**
 ---
 ### Synonyms
 - [[approachable]], [[easy-going]], [[friendly]], [[welcoming]]

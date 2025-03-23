@@ -1,7 +1,7 @@
 # Astern
 ---
 #adjective
-- **Behind a vessel; having a bearing of 180 degrees from [[ahead]].**
+- **Behind a vessel; having a [[bearing]] of 180 degrees from [[ahead]].**
 	- _Example: If one ship is following another, the first is astern of the second._
 ---
 #adverb

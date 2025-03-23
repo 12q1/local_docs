@@ -1,7 +1,7 @@
 # Antinoise
 ---
 #noun
-- **A sound wave, of the same [[amplitude]] but of opposite phase to that of an unwanted sound, that can neutralize the unwanted sound using destructive interference.**
+- **A sound wave, of the same [[amplitude]] but of opposite phase to that of an unwanted sound, that [[can]] neutralize the unwanted sound using destructive interference.**
 ---
 #adjective
 - **Intended to reduce environmental noise.**

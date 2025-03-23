@@ -1,7 +1,7 @@
 # Available
 ---
 #adjective
-- **Such as one may [[avail]] oneself of; capable of being used for the [[accomplishment]] of a purpose.**
+- **Such as one may [[avail]] oneself of; [[capable]] of [[being]] used for the [[accomplishment]] of a purpose.**
 	- _Example: We have an available candidate._
 - **Readily obtainable.**
 	- _Example: The list shows the available products in the store._

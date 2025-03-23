@@ -9,6 +9,6 @@
 - **Before; situated geographically or metaphorically in front of.**
 ---
 #conjunction
-- **In [[advance]] of the time when; before.**
+- **In [[advance]] of the time when; [[before]].**
 ---
 ---

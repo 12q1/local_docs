@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[backward]] regression; a reverting [[back]] to a worse state.**
-- **A dance move in which the feet are [[alternately]] slid [[back]] and the heels lifted, giving the illusion of walking forwards while [[actually]] moving [[backwards]]; later popularly called the moonwalk.**
+- **A dance move in which the feet are [[alternately]] slid [[back]] and the heels lifted, giving the illusion of walking forwards while [[actually]] moving [[backwards]]; later popularly [[called]] the moonwalk.**
 ---
 #verb
 - **To regress; to slip [[backwards]] or revert to a previous, worse state.**

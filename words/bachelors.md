@@ -8,7 +8,7 @@
 - **An unmarried woman.**
 - **A knight who had no standard of his own, but fought under the standard of [[another]] in the field.**
 - **Among London tradesmen, a junior member not yet [[admitted]] to wear the livery.**
-- **A kind of bass, an edible freshwater fish (Pomoxis annularis) of the southern United States.**
+- **A kind of [[bass]], an edible freshwater fish (Pomoxis annularis) of the southern United States.**
 ---
 ### Synonyms
 - [[baccalaureate]]

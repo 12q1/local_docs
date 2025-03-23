@@ -1,7 +1,7 @@
 # Backspin
 ---
 #noun
-- **Spin [[applied]] to a [[ball]] in order to slow it, change its flight, or stop it when it lands.**
+- **Spin [[applied]] to a [[ball]] in order to slow it, [[change]] its flight, or stop it when it lands.**
 ---
 #verb
 - **To spin (a [[ball]]) with this motion.**

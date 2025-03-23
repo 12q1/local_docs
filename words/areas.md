@@ -7,8 +7,8 @@
 	- _Example: The photo is a little dark in that area._
 - **The extent, scope, or range of an object or concept.**
 	- _Example: The plans are a bit vague in that area._
-- **An open space, below ground level, between the front of a house and the pavement.**
-- **Penalty box; penalty [[area]].**
+- **An open space, [[below]] ground level, [[between]] the front of a house and the pavement.**
+- **Penalty [[box]]; penalty [[area]].**
 - **Genitals.**
 ---
 ---

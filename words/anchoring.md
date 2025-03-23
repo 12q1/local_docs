@@ -1,8 +1,8 @@
 # Anchoring
 ---
 #verb
-- **To connect an object, especially a ship or a boat, to a fixed point.**
-- **To cast [[anchor]]; to come to [[anchor]].**
+- **To connect an object, especially a ship or a [[boat]], to a fixed point.**
+- **To [[cast]] [[anchor]]; to come to [[anchor]].**
 	- _Example: Our ship (or the captain) anchored in the stream._
 - **To stop; to fix or rest.**
 - **To provide emotional stability for a person in distress.**

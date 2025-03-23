@@ -6,6 +6,6 @@
 ---
 #adjective
 - **Containing or resembling starch.**
-- **Applied to a mushroom that turns blue-black upon [[application]] of Melzer's reagent**
+- **Applied to a mushroom that turns [[blue]]-[[black]] upon [[application]] of Melzer's reagent**
 ---
 ---

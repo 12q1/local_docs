@@ -1,6 +1,6 @@
 # Achondrite
 ---
 #noun
-- **Any stony meteorite that contains no chondrules**
+- **Any stony meteorite that contains no [[chondrules]]**
 ---
 ---

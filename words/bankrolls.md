@@ -1,7 +1,7 @@
 # Bankrolls
 ---
 #noun
-- **A roll of [[banknotes]] or other paper currency, carried in lieu of a wallet.**
+- **A roll of [[banknotes]] or other paper currency, [[carried]] in lieu of a wallet.**
 	- _Example: Phil kept his bankroll in his front pocket, as it made too much of a lump to sit on._
 - **The monetary [[assets]] of a person or organization.**
 	- _Example: Microsoft is a corporation with an extremely large bankroll._

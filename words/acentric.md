@@ -1,6 +1,6 @@
 # Acentric
 ---
 #adjective
-- **Not centered; without a center.**
+- **Not [[centered]]; without a [[center]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Aneroid
 ---
 #noun
-- **An [[aneroid]] barometer**
+- **An [[aneroid]] [[barometer]]**
 ---
 #adjective
 - **Not using or containing fluid**

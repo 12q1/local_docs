@@ -1,8 +1,8 @@
 # Awoke
 ---
 #verb
-- **To become conscious [[after]] having slept.**
-- **To cause (somebody) to stop sleeping.**
+- **To [[become]] conscious [[after]] having slept.**
+- **To [[cause]] (somebody) to stop sleeping.**
 - **To excite or to stir up something latent.**
 - **To rouse from a state of inaction or dormancy.**
 - **To come out of a state of inaction or dormancy.**

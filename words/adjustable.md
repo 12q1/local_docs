@@ -1,9 +1,9 @@
 # Adjustable
 ---
 #noun
-- **Anything that can be [[adjusted]].**
+- **Anything that [[can]] be [[adjusted]].**
 ---
 #adjective
-- **Capable of being [[adjusted]]**
+- **Capable of [[being]] [[adjusted]]**
 ---
 ---

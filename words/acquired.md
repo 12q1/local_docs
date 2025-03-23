@@ -12,6 +12,6 @@
 ### Antonyms
 - [[abandon]], [[lose]]
 #adjective
-- **Developed [[after]] birth; not congenital.**
+- **Developed [[after]] [[birth]]; not congenital.**
 ---
 ---

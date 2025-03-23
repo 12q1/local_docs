@@ -4,7 +4,7 @@
 - **A mountain summit or crest that lacks forest growth despite a warm climate conducive to such, as is found in many places in the Southern Appalachian Mountains.**
 ---
 #verb
-- **To become [[bald]].**
+- **To [[become]] [[bald]].**
 ---
 #adjective
 - **Having no hair, fur or feathers.**
@@ -12,7 +12,7 @@
 	- _Example: The bald cypress is a tree that loses its leaves in winter._
 - **Of tyres: whose surface is worn [[away]].**
 - **(of a statement or [[account]]) Unembellished.**
-- **(of a statement) Without evidence or support being provided.**
+- **(of a statement) Without evidence or support [[being]] provided.**
 ---
 ### Antonyms
 - [[faxed]], [[haired]]

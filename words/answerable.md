@@ -5,7 +5,7 @@
 - **(of a question) Able to be [[answered]].**
 - **Correspondent, in [[accordance]]; comparable (to).**
 - **Proportionate; commensurate in [[amount]]; suitable.**
-- **(of an [[argument]]) Capable of being [[answered]] or refuted; [[admitting]] a satisfactory [[answer]].**
+- **(of an [[argument]]) Capable of [[being]] [[answered]] or refuted; [[admitting]] a satisfactory [[answer]].**
 ---
 ### Antonyms
 - [[unanswerable]]

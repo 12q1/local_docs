@@ -1,10 +1,10 @@
 # Apian
 ---
 #noun
-- **(very rare) A bee.**
+- **(very rare) A [[bee]].**
 ---
 #adjective
-- **Relating to bees.**
+- **Relating to [[bees]].**
 ---
 ### Synonyms
 - [[beelike]], [[beely]]

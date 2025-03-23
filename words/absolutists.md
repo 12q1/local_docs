@@ -2,7 +2,7 @@
 ---
 #noun
 - **One who is in favor of an [[absolute]] or [[autocratic]] government.**
-- **One who believes that it is possible to realize a cognition or concept of the Absolute.**
-- **An uncompromising person; one who maintains certain principles to be [[absolute]].**
+- **One who [[believes]] that it is possible to realize a cognition or concept of the Absolute.**
+- **An uncompromising person; one who maintains [[certain]] principles to be [[absolute]].**
 ---
 ---

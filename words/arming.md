@@ -17,8 +17,8 @@
 ### Synonyms
 - [[beweapon]]
 #noun
-- **A piece of tallow or soap put in the cavity and over the bottom of a sounding lead to pick up samples of the bottom of the sea.**
+- **A piece of tallow or soap put in the [[cavity]] and over the [[bottom]] of a sounding lead to pick up samples of the [[bottom]] of the sea.**
 - **The [[act]] of supplying with [[arms]] and [[ammunition]] in preparation of a conflict**
-- **(chiefly in the plural) One of the red dress cloths formerly hung fore and [[aft]] outside of a ship's upper works on holidays.**
+- **([[chiefly]] in the plural) One of the red dress cloths formerly hung fore and [[aft]] outside of a ship's upper works on holidays.**
 ---
 ---

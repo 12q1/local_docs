@@ -5,7 +5,7 @@
 ---
 #adverb
 - **On foot. (means of locomotion, walking)**
-- **On foot. (support of the body, standing)**
+- **On foot. (support of the [[body]], standing)**
 - **In motion; in [[action]]; [[astir]]; stirring; in progress.**
 ---
 ---

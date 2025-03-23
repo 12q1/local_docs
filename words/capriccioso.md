@@ -1,0 +1,6 @@
+# Capriccioso
+---
+#adverb
+- **Capriciously**
+---
+---

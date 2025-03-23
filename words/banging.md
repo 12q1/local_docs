@@ -20,7 +20,7 @@
 	- _Example: Strange bangings in the old house were ascribed to a poltergeist._
 ---
 #adjective
-- **Excellent, brilliant, very exciting, top, great.**
+- **Excellent, [[brilliant]], very exciting, top, great.**
 	- _Example: Wow, what a banging haircut! It looks terrific!_
 - **Attractive; sexually [[appealing]].**
 - **Huge; great in size.**

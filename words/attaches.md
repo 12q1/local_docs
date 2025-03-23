@@ -6,7 +6,7 @@
 - **To [[adhere]]; to be [[attached]].**
 - **To come into legal operation in connection with [[anything]]; to vest.**
 	- _Example: Dower will attach._
-- **To win the heart of; to connect by ties of love or self-interest; to [[attract]]; to fasten or bind by moral influence; with to.**
+- **To win the heart of; to connect by ties of love or self-interest; to [[attract]]; to fasten or [[bind]] by moral influence; with to.**
 	- _Example: attached to a friend; attaching others to us by wealth or flattery_
 - **To connect, in a figurative sense; to [[ascribe]] or [[attribute]]; to [[affix]]; with to.**
 	- _Example: to attach great importance to a particular circumstance_

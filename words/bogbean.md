@@ -1,0 +1,6 @@
+# Bogbean
+---
+#noun
+- **Buckbean**
+---
+---

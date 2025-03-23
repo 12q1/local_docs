@@ -1,0 +1,6 @@
+# Biog
+---
+#noun
+- **A [[biography]].**
+---
+---

@@ -7,7 +7,7 @@
 	- _Example: Put it on auto._
 - **An [[automatic]] gearbox / transmission.**
 	- _Example: A body coloured centre pillar signalled the arrival of an electronic four-speed auto, slight suspension revisions and minor trim changes._
-- **A car with an [[automatic]] gearbox / transmission.**
+- **A [[car]] with an [[automatic]] gearbox / transmission.**
 	- _Example: It wasn't too bad but we did hire an auto (couldn't imagine changing gears with my right hand)._
 ---
 ### Synonyms
@@ -28,7 +28,7 @@
 	- _Example: Fully automatic weapons cannot be legally owned by private citizens in the US, except in very special circumstances, as by private security companies._
 - **(of a handgun) An [[autoloader]]; a semi-[[automatic]] or self-loading pistol, as opposed to a revolver or other manually [[actuated]] handgun, which fires one shot per pull of the trigger; distinct from machine guns.**
 	- _Example: The US Army adopted John Browning's M1911 pistol as its sidearm, chambered in .45 ACP (Automatic Colt Pistol)._
-- **(of a local variable) Automatically [[added]] to and removed from the stack during the course of function calls.**
+- **(of a local variable) Automatically [[added]] to and removed from the stack during the course of function [[calls]].**
 - **(of a group) Having one or more finite-state [[automata]]**
 ---
 ### Synonyms

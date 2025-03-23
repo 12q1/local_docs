@@ -1,6 +1,6 @@
 # Artisanship
 ---
 #noun
-- **The property of being an [[artisan]].**
+- **The property of [[being]] an [[artisan]].**
 ---
 ---

@@ -8,7 +8,7 @@
 ### Antonyms
 - [[alkali]], [[base]]
 #adjective
-- **Sour, sharp, or biting to the taste; tart; having the taste of vinegar.**
+- **Sour, sharp, or [[biting]] to the taste; tart; having the taste of vinegar.**
 	- _Example: acid fruits or liquors_
 - **Sour-tempered.**
 - **Of or pertaining to an [[acid]]; [[acidic]].**

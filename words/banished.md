@@ -6,6 +6,6 @@
 	- _Example: banish fear, qualm._
 ---
 #adjective
-- **Having been subject to [[banishment]]; kicked out and forbidden from returning; forbidden and prohibited.**
+- **Having [[been]] subject to [[banishment]]; kicked out and forbidden from returning; forbidden and prohibited.**
 ---
 ---

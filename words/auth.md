@@ -21,7 +21,7 @@
 - **An [[act]] of [[authorizing]].**
 - **(A document giving) formal sanction, permission or warrant.**
 	- _Example: Can I see your authorization?_
-- **Permission, possibly limited, to spend funds for a specific budgetary purpose.**
+- **Permission, possibly limited, to spend funds for a specific [[budgetary]] purpose.**
 	- _Example: We've had the authorization for years, but we've never gotten an appropriation._
 ---
 ---

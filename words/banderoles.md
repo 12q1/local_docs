@@ -2,6 +2,6 @@
 ---
 #noun
 - **A little [[banner]], flag, or streamer.**
-- **A flat [[band]] with an inscription, common in Renaissance buildings.**
+- **A flat [[band]] with an inscription, common in Renaissance [[buildings]].**
 ---
 ---

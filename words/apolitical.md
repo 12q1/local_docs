@@ -2,7 +2,7 @@
 ---
 #noun
 - **A person with no involvement or no interest in politics.**
-- **An unbiased candidate or voter, free of a party platform.**
+- **An unbiased [[candidate]] or voter, free of a party platform.**
 - **A neutral or uncommitted person.**
 ---
 #adjective

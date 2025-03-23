@@ -1,7 +1,7 @@
 # Amplified
 ---
 #adjective
-- **Having been made the subject of [[amplification]]; more potent or stronger, louder**
+- **Having [[been]] made the subject of [[amplification]]; more potent or stronger, louder**
 ---
 #verb
 - **To render larger, more extended, or more intense.**

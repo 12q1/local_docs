@@ -13,6 +13,6 @@
 ---
 #verb
 - **To make [[addle]]; to grow [[addle]]; to muddle**
-- **To cause fertilised eggs to lose viability, by killing the developing embryo within through shaking, piercing, freezing or oiling, without breaking the shell.**
+- **To [[cause]] fertilised eggs to lose viability, by killing the developing embryo within through shaking, piercing, freezing or oiling, without [[breaking]] the shell.**
 ---
 ---

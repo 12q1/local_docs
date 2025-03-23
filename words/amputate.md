@@ -1,6 +1,6 @@
 # Amputate
 ---
 #verb
-- **To surgically remove a part of the body, especially a limb**
+- **To surgically remove a part of the [[body]], especially a limb**
 ---
 ---

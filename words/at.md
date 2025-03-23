@@ -29,6 +29,6 @@
 	- _Example: It is growing at the rate of 3% a year.  Cruising along at fifty miles per hour._
 - **(used for skills (including in [[activities]]) or [[areas]] of knowledge) On the subject of; regarding.**
 	- _Example: He slipped at marksmanship over his extended vacation._
-- **(stressed pronunciation) Bothering, irritating, causing discomfort to**
+- **(stressed pronunciation) Bothering, irritating, [[causing]] discomfort to**
 ---
 ---

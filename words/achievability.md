@@ -1,6 +1,6 @@
 # Achievability
 ---
 #noun
-- **The state or condition of being [[achievable]].**
+- **The state or condition of [[being]] [[achievable]].**
 ---
 ---

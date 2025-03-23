@@ -5,6 +5,6 @@
 ---
 #verb
 - **To walk.**
-- **To cyclically [[angle]] the foot at the [[ankle]] while pedaling, to maximize the [[amount]] of work [[applied]] to the pedal during each revolution.**
+- **To [[cyclically]] [[angle]] the foot at the [[ankle]] while pedaling, to maximize the [[amount]] of work [[applied]] to the pedal during each revolution.**
 ---
 ---

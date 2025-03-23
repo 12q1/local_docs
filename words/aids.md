@@ -9,7 +9,7 @@
 - **An historical subsidy granted to the crown by Parliament for an extraordinary purpose, such as a war effort.**
 - **An exchequer loan.**
 - **A pecuniary tribute paid by a vassal to his feudal lord on special occasions.**
-- **An [[aide]]-de-camp, so called by [[abbreviation]].**
+- **An [[aide]]-de-[[camp]], so [[called]] by [[abbreviation]].**
 	- _Example: The incompetent general's brilliant aid often made priceless suggestions._
 ---
 #verb

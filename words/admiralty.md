@@ -5,6 +5,6 @@
 - **The department or officers having [[authority]] over naval [[affairs]] generally.**
 - **The court which has jurisdiction of maritime questions and offenses.**
 - **The system of jurisprudence of [[admiralty]] courts.**
-- **The building in which the lords of the [[admiralty]], in England, transact business.**
+- **The [[building]] in which the lords of the [[admiralty]], in England, transact [[business]].**
 ---
 ---

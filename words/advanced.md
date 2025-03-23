@@ -13,7 +13,7 @@
 - **At or close to the state of the [[art]].**
 - **Enhanced.**
 - **Having moved forward in time or space (e.g. [[advanced]] ignition timing).**
-- **In a late stage of development; greatly developed beyond an initial stage.**
+- **In a late stage of development; greatly developed [[beyond]] an initial stage.**
 - **Pronounced farther to the front of the vocal tract.**
 - **(Philippine English) (Of a clock or watch) Indicating a time [[ahead]] of the correct time.**
 ---

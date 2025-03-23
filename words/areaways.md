@@ -1,6 +1,6 @@
 # Areaways
 ---
 #noun
-- **An outdoor passage offering [[access]] to a basement.**
+- **An outdoor passage offering [[access]] to a [[basement]].**
 ---
 ---

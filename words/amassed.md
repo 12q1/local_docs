@@ -8,6 +8,6 @@
 ### Synonyms
 - [[heap up]], [[mound]], [[pile]], [[pile up]], [[stack up]], [[accumulate]], [[amound]], [[collect]], [[gather]], [[hoard]]
 #adjective
-- **Having been gathered or [[assembled]] in a large group.**
+- **Having [[been]] gathered or [[assembled]] in a large group.**
 ---
 ---

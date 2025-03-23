@@ -2,7 +2,7 @@
 ---
 #verb
 - **To set on fire; kindle.**
-- **To take or catch fire.**
+- **To take or [[catch]] fire.**
 ---
 #verb
 - **To listen to (something or someone); to pay [[attention]] to; regard; heed.**

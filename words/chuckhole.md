@@ -1,0 +1,6 @@
+# Chuckhole
+---
+#noun
+- **A pothole.**
+---
+---

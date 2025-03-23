@@ -1,0 +1,6 @@
+# Bordellos
+---
+#noun
+- **A [[brothel]]**
+---
+---

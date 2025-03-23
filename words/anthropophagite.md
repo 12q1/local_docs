@@ -1,6 +1,6 @@
 # Anthropophagite
 ---
 #noun
-- **A cannibal.**
+- **A [[cannibal]].**
 ---
 ---

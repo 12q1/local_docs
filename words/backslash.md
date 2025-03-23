@@ -9,6 +9,6 @@
 ### Antonyms
 - [[slash]]
 #verb
-- **To escape (a metacharacter) by prepending a [[backslash]] that serves as an escape character, thereby forming an escape sequence.**
+- **To escape (a metacharacter) by prepending a [[backslash]] that serves as an escape [[character]], thereby forming an escape sequence.**
 ---
 ---

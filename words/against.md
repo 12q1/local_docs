@@ -9,7 +9,7 @@
 	- _Example: The kennel was put against the back wall._
 - **Close to, [[alongside]].**
 	- _Example: A row of trees stood against a fence._
-- **In front of; before (a [[background]]).**
+- **In front of; [[before]] (a [[background]]).**
 	- _Example: The giant was silhouetted against the door._
 - **In contrast or comparison with.**
 	- _Example: He stands out against his classmates._
@@ -19,18 +19,18 @@
 	- _Example: Doing this is against my principles._
 - **In opposition to.**
 	- _Example: Are you against freedom of choice?_
-- **Of betting odds, denoting a worse-than-even chance.**
+- **Of [[betting]] odds, denoting a worse-than-even [[chance]].**
 	- _Example: That horse is fifty-to-one against, so it has virtually no chance of winning._
 - **In exchange for.**
 	- _Example: The vouchers are redeemable against West End shows and theatre breaks._
 - **As counterbalance to.**
-- **As a charge on.**
+- **As a [[charge]] on.**
 	- _Example: Tax is levied against income from sales._
 - **As protection from.**
 	- _Example: He turned the umbrella against the wind._
 - **In [[anticipation]] of; in preparation for (a particular time, event etc.).**
 	- _Example: The stores are kept well stocked against a time of need._
-- **(Hollywood) To be paid now in contrast to the following [[amount]] to be paid later under specified circumstances, usually that a movie is made or has started filming.**
+- **(Hollywood) To be paid now in contrast to the following [[amount]] to be paid later under specified [[circumstances]], usually that a movie is made or has started filming.**
 	- _Example: The studio weren't sure the movie would ever get made, so they only paid $50,000 against $200,000. That way they wouldn't be out very much if filming never began._
 - **Exposed to.**
 ---
@@ -39,6 +39,6 @@
 ### Antonyms
 - [[for]], [[on]], [[with]]
 #conjunction
-- **By the time that (something happened); before.**
+- **By the time that (something happened); [[before]].**
 ---
 ---

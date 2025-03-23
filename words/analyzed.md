@@ -7,6 +7,6 @@
 - **To examine in such a manner as to [[ascertain]] the elements or nature of the thing examined; as, to [[analyze]] a fossil substance, to [[analyze]] a sentence or a word, or to [[analyze]] an [[action]] to [[ascertain]] its morality.**
 ---
 #adjective
-- **Having been subject to [[analysis]]; examined closely, carefully considered.**
+- **Having [[been]] subject to [[analysis]]; examined closely, [[carefully]] considered.**
 ---
 ---

@@ -6,6 +6,6 @@
 - **Apparatus needed for a task or journey.**
 - **Equipment other than weapons and uniform.**
 - **Trappings.**
-- **An identifying yet superficial characteristic.**
+- **An identifying yet superficial [[characteristic]].**
 ---
 ---

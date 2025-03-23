@@ -1,11 +1,11 @@
 # Arc
 ---
 #noun
-- **That part of a circle which a heavenly body [[appears]] to pass through as it moves [[above]] and below the horizon.**
-- **A continuous part of the circumference of a circle (circular [[arc]]) or of [[another]] curve.**
+- **That part of a [[circle]] which a heavenly [[body]] [[appears]] to pass through as it moves [[above]] and [[below]] the horizon.**
+- **A continuous part of the [[circumference]] of a [[circle]] ([[circular]] [[arc]]) or of [[another]] curve.**
 - **A curve, in general.**
 - **A [[band]] contained within parallel curves, or something of that shape.**
-- **(electrics) A flow of current [[across]] an insulating medium; especially a hot, luminous discharge between either two electrodes or as lightning.**
+- **(electrics) A flow of current [[across]] an insulating medium; especially a hot, luminous discharge [[between]] either two electrodes or as lightning.**
 - **A story [[arc]].**
 - **A continuous mapping from a real interval (typically [0, 1]) into a space.**
 - **A directed edge.**

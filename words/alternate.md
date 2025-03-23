@@ -8,7 +8,7 @@
 - **Figures or tinctures that succeed each other by turns.**
 ---
 #verb
-- **To perform by turns, or in succession; to cause to succeed by turns; to interchange regularly.**
+- **To perform by turns, or in succession; to [[cause]] to succeed by turns; to interchange regularly.**
 - **To happen, succeed, or [[act]] by turns; to follow reciprocally in place or time; followed by with.**
 	- _Example: The flood and ebb tides alternate with each other._
 - **To vary by turns.**
@@ -18,7 +18,7 @@
 #adjective
 - **Happening by turns; one following the other in succession of time or place; first one and then the other (repeatedly)**
 	- _Example: alternate picking is a guitar playing technique_
-- **Designating the members in a series, which regularly intervene between the members of [[another]] series, as the odd or even numbers of the numerals; every other; every second.**
+- **Designating the members in a series, which regularly intervene [[between]] the members of [[another]] series, as the odd or even numbers of the numerals; every other; every second.**
 	- _Example: the alternate members 1, 3, 5, 7, etc._
 - **Other; [[alternative]].**
 	- _Example: He lives in an alternate universe and an alternate reality._

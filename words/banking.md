@@ -10,7 +10,7 @@
 ---
 #verb
 - **To roll or incline laterally in order to turn.**
-- **To cause (an [[aircraft]]) to [[bank]].**
+- **To [[cause]] (an [[aircraft]]) to [[bank]].**
 - **To form into a [[bank]] or heap, to [[bank]] up.**
 	- _Example: to bank sand_
 - **To cover the embers of a fire with [[ashes]] in order to retain heat.**
@@ -22,11 +22,11 @@
 - **(order and [[arrangement]]) To [[arrange]] or order in a row.**
 ---
 #noun
-- **The business of managing a [[bank]].**
+- **The [[business]] of managing a [[bank]].**
 - **The occupation of managing or working in a [[bank]].**
 - **A horizontal turn.**
 - **A mechanical component to prevent vibration in a timepiece, etc.**
-- **The practice of [[assisting]] a train up a steep incline (called a [[bank]]) with [[another]] locomotive at the rear.**
+- **The practice of [[assisting]] a train up a steep incline ([[called]] a [[bank]]) with [[another]] locomotive at the rear.**
 ---
 ### Synonyms
 - [[bankerage]]

@@ -6,6 +6,6 @@
 - **An [[accounting]] clerk who records payroll deductions.**
 ---
 #noun
-- **A clerk of a certain title or grade in the British civil service.**
+- **A clerk of a [[certain]] title or grade in the British civil service.**
 ---
 ---

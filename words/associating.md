@@ -9,7 +9,7 @@
 - **To connect or join together; combine.**
 	- _Example: particles of gold associated with other substances_
 - **To connect evidentially, or in the mind or imagination.**
-- **(in deliberative bodies) To endorse.**
+- **(in deliberative [[bodies]]) To endorse.**
 - **To be [[associative]].**
 - **To [[accompany]]; to be in the company of.**
 ---

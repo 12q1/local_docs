@@ -14,7 +14,7 @@
 ### Synonyms
 - [[injure]], [[maltreat]], [[reproach]], [[revile]], [[vilify]], [[vituperate]]
 #adjective
-- **Having been a victim of some form of [[abuse]], most commonly child [[abuse]] or domestic violence.**
+- **Having [[been]] a victim of some form of [[abuse]], most commonly [[child]] [[abuse]] or domestic violence.**
 - **Overused; used profligately or in excess.**
 ---
 ---

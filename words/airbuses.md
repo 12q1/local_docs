@@ -1,6 +1,6 @@
 # Airbuses
 ---
 #noun
-- **A subsonic jet [[airliner]], especially a wide-bodied one.**
+- **A subsonic jet [[airliner]], especially a wide-[[bodied]] one.**
 ---
 ---

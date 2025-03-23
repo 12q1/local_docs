@@ -1,0 +1,62 @@
+# Carry
+---
+#noun
+- **A manner of transporting or lifting something; the grip or position in which something is [[carried]].**
+	- _Example: Adjust your carry from time to time so that you don't tire too quickly._
+- **A tract of land over which [[boats]] or goods are [[carried]] [[between]] two [[bodies]] of navigable water; a portage.**
+- **The [[bit]] or digit that is [[carried]] in an [[addition]] operation.**
+- **The [[benefit]] or cost of owning an [[asset]] over time.**
+	- _Example: The carry on this trade is 25 basis points per annum._
+- **The distance travelled by the [[ball]] when struck, until it hits the ground.**
+- **Carried interest.**
+- **The sky; cloud-drift.**
+---
+#verb
+- **To lift (something) and take it to [[another]] place; to transport (something) by lifting.**
+- **To transfer from one place (such as a country, [[book]], or column) to [[another]].**
+	- _Example: to carry an account to the ledger_
+- **To convey by extension or continuance; to extend.**
+	- _Example: The builders are going to carry the chimney through the roof.  They would have carried the road ten miles further, but ran out of materials._
+- **To move; to convey using force**
+- **To lead or guide.**
+- **To stock or supply (something); to have in store.**
+	- _Example: The corner drugstore doesn't carry his favorite brand of aspirin._
+- **To [[adopt]] (something); take (something) over.**
+	- _Example: I think I can carry Smith's work while she is out._
+- **To [[adopt]] or resolve on, especially in a deliberative [[assembly]]**
+	- _Example: The court carries that motion._
+- **In an [[addition]], to transfer the quantity in excess of what is countable in the units in a column to the column immediately to the left in order to be [[added]] there.**
+	- _Example: Five and nine are fourteen; carry the one to the tens place._
+- **To have, hold, possess or maintain (something).**
+	- _Example: Always carry sufficient insurance to protect against a loss._
+- **To be transmitted; to travel.**
+	- _Example: The sound of the bells carried for miles on the wind._
+- **To insult, to diss.**
+- **To [[capture]] a ship by coming [[alongside]] and [[boarding]].**
+- **To transport (the [[ball]]) whilst maintaining possession.**
+- **To have on one's person.**
+	- _Example: she always carries a purse;  marsupials carry their young in a pouch_
+- **To be pregnant (with).**
+	- _Example: The doctor said she's carrying twins._
+- **To have propulsive power; to propel.**
+	- _Example: A gun or mortar carries well._
+- **To hold the head; said of a horse.**
+	- _Example: to carry well, i.e. to hold the head high, with arching neck_
+- **To have earth or frost stick to the feet when running, as a hare.**
+- **To [[bear]] or uphold successfully through conflict, for example a leader or principle**
+- **To succeed in (e.g. a contest); to succeed in; to win.**
+	- _Example: The Tories carried the election._
+- **To get possession of by force; to [[capture]].**
+- **To contain; to comprise; have a particular [[aspect]]; to show or exhibit**
+- **To [[bear]] (oneself); to [[behave]] or conduct.**
+- **To [[bear]] the [[charges]] or [[burden]] of holding or having, as stocks, merchandise, etc., from one time to [[another]].**
+	- _Example: A merchant is carrying a large stock;  a farm carries a mortgage;  a broker carries stock for a customer;  to carry a life insurance._
+- **To have a weapon on one's person; to be [[armed]].**
+- **To be disproportionately responsible for a team's success.**
+	- _Example: He absolutely carried the game, to the point of killing the entire enemy team by himself._
+---
+### Synonyms
+- [[adopt]], [[take on]], [[take over]], [[bear]], [[move]], [[transport]], [[conduct]], [[impel]], [[have]], [[keep]], [[stock]], [[supply]], [[have]], [[maintain]], [[transmitted]], [[travel]]
+### Antonyms
+- [[borrow]]
+---

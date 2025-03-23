@@ -5,17 +5,17 @@
 	- _Example: In the word "careful", the accent is placed on the first syllable._
 - **Emphasis or importance in general.**
 	- _Example: At this hotel, the accent is on luxury._
-- **A mark or character used in writing, in order to indicate the place of the spoken [[accent]], or to indicate the nature or quality of the vowel marked.**
+- **A mark or [[character]] used in writing, in order to indicate the place of the spoken [[accent]], or to indicate the nature or quality of the vowel marked.**
 	- _Example: The name Cézanne is written with an acute accent._
-- **Modulation of the voice in speaking; the manner of speaking or pronouncing; a peculiar or characteristic modification of the voice, expressing emotion; tone.**
+- **Modulation of the voice in speaking; the manner of speaking or pronouncing; a peculiar or [[characteristic]] modification of the voice, expressing emotion; tone.**
 - **The distinctive manner of pronouncing a language [[associated]] with a particular region, social group, etc., whether of a native speaker or a foreign speaker; the phonetic and phonological [[aspects]] of a dialect.**
 	- _Example: a broad Irish accent_
-- **(sign languages) A distinctive manner of producing a sign language, such as someone who does not normally use a certain sign language might have when using it.**
+- **(sign languages) A distinctive manner of producing a sign language, such as someone who does not normally use a [[certain]] sign language might have when using it.**
 	- _Example: 2015 December 3, [./http//www.pri.org/stories/2015-12-03/philadelphia-accent-sign-language There's a distinctly Philadelphia accent in American Sign Language]_
 - **A word; a significant tone or sound.**
 - **(usually plurale tantum) Expressions in general; speech.**
-- **Stress laid on certain syllables of a verse.**
-- **A regularly recurring stress upon the tone to mark the beginning, and, more feebly, the third part of the measure.**
+- **Stress laid on [[certain]] syllables of a verse.**
+- **A regularly recurring stress upon the tone to mark the [[beginning]], and, more feebly, the third part of the measure.**
 - **A special emphasis of a tone, even in the weaker part of the measure.**
 - **The rhythmical [[accent]], which marks phrases and sections of a period.**
 - **The expressive emphasis and shading of a passage.**

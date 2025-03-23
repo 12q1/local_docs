@@ -3,6 +3,6 @@
 #noun
 - **A merchant ship.**
 - **A merchant flotilla, fleet.**
-- **An [[abundant]] supply, boatload.**
+- **An [[abundant]] supply, [[boatload]].**
 ---
 ---

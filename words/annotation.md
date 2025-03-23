@@ -5,6 +5,6 @@
 - **A comment [[added]] to a text**
 - **The process of writing such comment or commentary**
 - **Metadata [[added]] to a document or program**
-- **Information relating to the genetic structure of sequences of bases**
+- **Information relating to the genetic structure of sequences of [[bases]]**
 ---
 ---

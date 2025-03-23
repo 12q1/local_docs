@@ -1,0 +1,6 @@
+# Beauteous
+---
+#adjective
+- **Beautiful.**
+---
+---

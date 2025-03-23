@@ -1,7 +1,7 @@
 # Balding
 ---
 #verb
-- **To become [[bald]].**
+- **To [[become]] [[bald]].**
 ---
 #adjective
 - **Becoming [[bald]], especially having male pattern [[baldness]]**

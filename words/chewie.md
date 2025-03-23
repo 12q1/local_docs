@@ -1,0 +1,6 @@
+# Chewie
+---
+#noun
+- **Chewing gum.**
+---
+---

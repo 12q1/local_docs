@@ -8,10 +8,10 @@
 	- _Example: You ascend the stairs and take a right._
 - **To succeed.**
 	- _Example: She ascended the throne when her mother abdicated._
-- **To rise; to become higher, more noble, etc.**
+- **To rise; to [[become]] higher, more noble, etc.**
 - **To trace, search or go [[backwards]] temporally (e.g., through records, genealogies, routes, etc.).**
 	- _Example: Our inquiries ascend to the remotest antiquity._
-- **To become higher in pitch.**
+- **To [[become]] higher in pitch.**
 ---
 ### Antonyms
 - [[descend]]
@@ -22,7 +22,7 @@
 #adjective
 - **(of a sequence) Ordered such that each element is greater than or equal to the previous element.**
 	- _Example: Please arrange these numbers in an ascending order._
-- **That causes a sequence to follow an [[ascending]] order.**
+- **That [[causes]] a sequence to follow an [[ascending]] order.**
 	- _Example: We used an ascending sort._
 ---
 ### Antonyms

@@ -1,0 +1,6 @@
+# Chapfallen
+---
+#adjective
+- **Crestfallen, dejected.**
+---
+---

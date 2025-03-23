@@ -1,0 +1,80 @@
+# Breaking
+---
+#verb
+- **To separate into two or more pieces, to fracture or crack, by a process that [[cannot]] easily be reversed for reassembly.**
+	- _Example: If the vase falls to the floor, it might break._
+- **To divide (something, often money) into smaller units.**
+	- _Example: Can you break a hundred-dollar bill for me?_
+- **To [[cause]] (a person or [[animal]]) to lose spirit or will; to crush the spirits of.**
+	- _Example: Her child's death broke Angela._
+- **To be crushed, or overwhelmed with sorrow or grief.**
+	- _Example: My heart is breaking._
+- **To interrupt; to destroy the continuity of; to dissolve or terminate.**
+	- _Example: I had won four games in a row, but now you've broken my streak of luck._
+- **To ruin financially.**
+	- _Example: The recession broke some small businesses._
+- **To violate, to not [[adhere]] to.**
+	- _Example: He broke his vows by cheating on his wife._
+- **(of a fever) To pass the most dangerous part of the illness; to go down, in terms of temperature.**
+	- _Example: Susan's fever broke at about 3 AM, and the doctor said the worst was over._
+- **(of a spell of settled weather) To end.**
+	- _Example: The forecast says the hot weather will break by midweek._
+- **(of a storm) To [[begin]]; to end.**
+	- _Example: Around midday the storm broke, and the afternoon was calm and sunny._
+- **(of morning, dawn, day etc.) To [[arrive]].**
+	- _Example: Morning has broken._
+- **To render (a game) unchallenging by [[altering]] its rules or exploiting loopholes or weaknesses in them in a way that gives a player an unfair [[advantage]].**
+	- _Example: Changing the rules to let white have three extra queens would break chess._
+- **To stop, or to [[cause]] to stop, functioning properly or [[altogether]].**
+	- _Example: Did you two break the trolley by racing with it?_
+- **To [[cause]] (a [[barrier]]) to no longer [[bar]].**
+	- _Example: break a seal_
+- **To destroy the [[arrangement]] of; to throw into disorder; to pierce.**
+	- _Example: The cavalry were not able to break the British squares._
+- **(of a wave of water) To collapse into surf, [[after]] [[arriving]] in shallow water.**
+- **To [[burst]] forth; to make its way; to come into view.**
+- **To interrupt or [[cease]] one's work or occupation temporarily.**
+	- _Example: Let's break for lunch._
+- **To interrupt (a fall) by inserting something so that the falling object does not (immediately) hit something else [[beneath]].**
+	- _Example: He survived the jump out the window because the bushes below broke his fall._
+- **To disclose or make known an item of news, etc.**
+	- _Example: I don't know how to break this to you, but your cat is not coming back._
+- **(of a sound) To [[become]] [[audible]] suddenly.**
+- **To [[change]] a steady state [[abruptly]].**
+	- _Example: His coughing broke the silence._
+- **To suddenly [[become]].**
+	- _Example: The arrest was standard, when suddenly the suspect broke ugly._
+- **Of a male voice, to [[become]] deeper at puberty.**
+- **Of a voice, to [[alter]] in type due to emotion or strain: in men generally to go up, in women sometimes to go down; to crack.**
+	- _Example: His voice breaks when he gets emotional._
+- **To surpass or do [[better]] than (a specific number), to do [[better]] than (a record), setting a new record.**
+	- _Example: He broke the men's 100-meter record._
+- **:**
+- **(most often in the passive tense) To demote, to reduce the military rank of.**
+- **To end (a connection), to disconnect.**
+	- _Example: I couldn't hear a thing he was saying, so I broke the connection and called him back._
+- **(of an emulsion) To demulsify.**
+- **To counter-[[attack]]**
+- **To lay open, as a purpose; to disclose, divulge, or communicate.**
+- **To [[become]] weakened in constitution or faculties; to lose health or strength.**
+- **To fail in [[business]]; to [[become]] [[bankrupt]].**
+- **To destroy the strength, firmness, or consistency of.**
+	- _Example: to break flax_
+- **To destroy the official [[character]] and standing of; to [[cashier]]; to dismiss.**
+- **To make an [[abrupt]] or sudden [[change]]; to [[change]] the gait.**
+	- _Example: to break into a run or gallop_
+- **To fall out; to terminate friendship.**
+- **To terminate the execution of a program [[before]] normal completion.**
+- **To suspend the execution of a program during debugging so that the state of the program [[can]] be investigated.**
+---
+### Synonyms
+- [[crack]], [[fracture]], [[burst]], [[bust]], [[shatter]], [[shear]], [[smash]], [[split]], [[break down]], [[bust]], [[fail]], [[go down]], [[contravene]], [[go against]], [[violate]], [[break in]], [[subject]], [[tame]]
+### Antonyms
+- [[hold]], [[assemble]], [[fix]], [[join]], [[mend]], [[put together]], [[repair]]
+#noun
+- **The [[act]] by which something is [[broken]].**
+- **A [[change]] of a vowel to a diphthong**
+- **A form of ornamentation in which groups of short notes are used instead of long ones**
+- **Breakdancing**
+---
+---

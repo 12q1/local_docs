@@ -15,7 +15,7 @@
 	- _Example: What price are you asking for the house?_
 - **To invite.**
 	- _Example: Don't ask them to the wedding._
-- **To publish in church for marriage; said of both the [[banns]] and the persons.**
+- **To publish in [[church]] for marriage; said of [[both]] the [[banns]] and the persons.**
 - **To take (a person's situation) as an example.**
 ---
 ---

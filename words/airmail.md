@@ -2,7 +2,7 @@
 ---
 #noun
 - **The system of conveying mail using [[aircraft]].**
-- **The items of mail so carried.**
+- **The items of mail so [[carried]].**
 ---
 #verb
 - **To send mail by [[air]].**

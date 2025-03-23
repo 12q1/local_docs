@@ -4,14 +4,14 @@
 - **Abatement.**
 ---
 #verb
-- **(obsolete outside law) To put an end to; to cause to cease.**
+- **(obsolete outside law) To put an end to; to [[cause]] to [[cease]].**
 	- _Example: to abate a nuisance_
-- **To become null and void.**
+- **To [[become]] null and void.**
 	- _Example: The writ has abated._
 - **To nullify; make void.**
 	- _Example: to abate a writ_
-- **To humble; to lower in status; to bring someone down physically or mentally.**
-- **To be humbled; to be brought down physically or mentally.**
+- **To humble; to lower in status; to [[bring]] someone down physically or mentally.**
+- **To be humbled; to be [[brought]] down physically or mentally.**
 - **To curtail; to deprive.**
 	- _Example: Order restrictions and prohibitions to abate an emergency situation._
 - **To reduce in [[amount]], size, or value.**
@@ -23,7 +23,7 @@
 	- _Example: We will abate this price from the total._
 - **To [[bar]] or except.**
 - **To cut [[away]] or hammer down, in such a way as to leave a figure in relief, as a sculpture, or in metalwork.**
-- **To dull the edge or point of; to blunt.**
+- **To dull the edge or point of; to [[blunt]].**
 - **To destroy, or level to the ground.**
 ---
 ### Synonyms

@@ -1,0 +1,6 @@
+# Bushwa
+---
+#noun
+- **Nonsense.**
+---
+---

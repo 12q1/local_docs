@@ -1,7 +1,7 @@
 # Anywise
 ---
 #adverb
-- **In [[any]] case.**
+- **In [[any]] [[case]].**
 ---
 ### Synonyms
 - [[anyway]]

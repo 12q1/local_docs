@@ -5,7 +5,7 @@
 	- _Example: I've been to five auditions this week._
 - **The sense of hearing.**
 	- _Example: His audition was poor._
-- **An [[act]] of hearing; being heard.**
+- **An [[act]] of hearing; [[being]] heard.**
 - **Something heard.**
 ---
 ### Synonyms

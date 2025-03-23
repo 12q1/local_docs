@@ -2,7 +2,7 @@
 ---
 #noun
 - **Suitableness.**
-- **The quality or state of being [[able]]; capacity to do or of doing something; having the necessary power.**
+- **The quality or state of [[being]] [[able]]; [[capacity]] to do or of doing something; having the necessary power.**
 	- _Example: This phone has the ability to have its software upgraded wirelessly._
 - **The legal wherewithal to [[act]].**
 - **Physical power.**

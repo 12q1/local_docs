@@ -1,12 +1,12 @@
 # Associate
 ---
 #noun
-- **A person united with [[another]] or others in an [[act]], enterprise, or business; a partner.**
+- **A person united with [[another]] or others in an [[act]], enterprise, or [[business]]; a partner.**
 - **Somebody with whom one works, coworker, colleague.**
 - **A companion; a comrade.**
-- **One that habitually [[accompanies]] or is [[associated]] with [[another]]; an [[attendant]] circumstance.**
+- **One that habitually [[accompanies]] or is [[associated]] with [[another]]; an [[attendant]] [[circumstance]].**
 - **A member of an institution or society who is granted only partial status or privileges.**
-- **One of a pair of elements of an integral domain (or a ring) such that the two elements are divisible by each other (or, equivalently, such that each one can be expressed as the product of the other with a unit).**
+- **One of a pair of elements of an integral domain (or a ring) such that the two elements are divisible by each other (or, equivalently, such that each one [[can]] be expressed as the product of the other with a unit).**
 ---
 #verb
 - **To join in or form a league, union, or [[association]].**
@@ -17,7 +17,7 @@
 - **To connect or join together; combine.**
 	- _Example: particles of gold associated with other substances_
 - **To connect evidentially, or in the mind or imagination.**
-- **(in deliberative bodies) To endorse.**
+- **(in deliberative [[bodies]]) To endorse.**
 - **To be [[associative]].**
 - **To [[accompany]]; to be in the company of.**
 ---

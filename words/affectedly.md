@@ -2,7 +2,7 @@
 ---
 #adverb
 - **In an [[affected]] manner; hypocritically; with more show than reality.**
-- **Lovingly; with tender care.**
+- **Lovingly; with tender [[care]].**
 - **With intention, intentionally, deliberately.**
 ---
 ---

@@ -5,7 +5,7 @@
 	- _Example: I often went outside hiking during my stay in Japan._
 ---
 #verb
-- **To make into or become an [[adverb]].**
+- **To make into or [[become]] an [[adverb]].**
 ---
 ### Synonyms
 - [[adverbialize]]

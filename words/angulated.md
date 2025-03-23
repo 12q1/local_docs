@@ -1,6 +1,6 @@
 # Angulated
 ---
 #verb
-- **To make, or to become, [[angular]].**
+- **To make, or to [[become]], [[angular]].**
 ---
 ---

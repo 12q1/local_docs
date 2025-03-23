@@ -6,7 +6,7 @@
 - **Lewdness or unchastity of thought as well as [[act]], as forbidden by the seventh commandment.**
 - **Faithlessness in religion.**
 - **The fine and penalty formerly imposed for the offence of [[adultery]].**
-- **The intrusion of a person into a bishopric during the life of the bishop.**
+- **The intrusion of a person into a [[bishopric]] during the life of the [[bishop]].**
 - **(political economy) Adulteration; corruption.**
 - **Injury; degradation; ruin.**
 ---

@@ -1,7 +1,7 @@
 # Accusatives
 ---
 #noun
-- **(grammar) The [[accusative]] case.**
+- **(grammar) The [[accusative]] [[case]].**
 ---
 ### Synonyms
 - [[A.]], [[acc.]]

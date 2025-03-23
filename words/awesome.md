@@ -1,7 +1,7 @@
 # Awesome
 ---
 #noun
-- **Short for [[awesomeness]]: the quality, state, or essence of being [[awesome]].**
+- **Short for [[awesomeness]]: the quality, state, or essence of [[being]] [[awesome]].**
 	- _Example: pure awesome; made of awesome_
 ---
 ### Synonyms

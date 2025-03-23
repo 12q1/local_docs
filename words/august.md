@@ -3,7 +3,7 @@
 #adjective
 - **Awe-inspiring, majestic, noble, venerable.**
 	- _Example: an august patron of the arts_
-- **Of noble birth.**
+- **Of noble [[birth]].**
 	- _Example: an august lineage_
 ---
 ---

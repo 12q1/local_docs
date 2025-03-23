@@ -7,9 +7,9 @@
 	- _Example: assembly line_
 - **A congregation of people in one place for a purpose.**
 	- _Example: freedom of assembly_
-- **A legislative body.**
-- **A beat of the drum or sound of the bugle as a signal to troops to [[assemble]].**
-- **In Microsoft .NET, a building block of an [[application]], similar to a DLL, but containing both executable code and information normally found in a DLL's type library. The type library information in an [[assembly]], called a manifest, describes public functions, data, classes, and version information.**
+- **A legislative [[body]].**
+- **A [[beat]] of the drum or sound of the [[bugle]] as a signal to troops to [[assemble]].**
+- **In Microsoft .NET, a [[building]] [[block]] of an [[application]], similar to a DLL, but containing [[both]] executable code and information normally found in a DLL's type library. The type library information in an [[assembly]], [[called]] a manifest, describes public functions, data, classes, and version information.**
 ---
 ### Synonyms
 - [[foregathering]]

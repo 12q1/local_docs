@@ -2,9 +2,9 @@
 ---
 #noun
 - **That which is [[affixed]]; an [[appendage]].**
-- **A bound morpheme [[added]] to the word’s stem's end.**
-- **(broadly) A bound morpheme [[added]] to a word’s stem; a prefix, suffix etc.**
-- **The complex number a+bi [[associated]] with the point in the Gauss plane with coordinates (a,[[b]]).**
+- **A [[bound]] morpheme [[added]] to the word’s stem's end.**
+- **([[broadly]]) A [[bound]] morpheme [[added]] to a word’s stem; a prefix, suffix etc.**
+- **The complex number a+[[bi]] [[associated]] with the point in the Gauss plane with coordinates (a,[[b]]).**
 - **(decorative [[art]]) Any small feature, as a figure, a flower, or the like, [[added]] for ornament to a vessel or other utensil, to an [[architectural]] feature.**
 ---
 ### Synonyms

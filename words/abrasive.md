@@ -6,7 +6,7 @@
 ---
 #adjective
 - **Producing [[abrasion]]; rough enough to wear [[away]] the outer surface.**
-- **Being rough and coarse in manner or disposition; causing irritation.**
+- **Being rough and coarse in manner or disposition; [[causing]] irritation.**
 	- _Example: An abrasive person can grate on one's sensibilities._
 ---
 ---

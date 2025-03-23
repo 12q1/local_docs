@@ -1,7 +1,7 @@
 # Backcross
 ---
 #noun
-- **A throw where the object is caught and then thrown from behind the [[back]].**
+- **A throw where the object is [[caught]] and then thrown from [[behind]] the [[back]].**
 ---
 #noun
 - **The [[act]] of crossing a hybrid with one of its parents.**

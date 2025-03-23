@@ -3,7 +3,7 @@
 #verb
 - **To disturb or excite; to perturb or stir up (a person).**
 	- _Example: He was greatly agitated by the news._
-- **To cause to move with a violent, irregular [[action]]; to shake.**
+- **To [[cause]] to move with a violent, irregular [[action]]; to shake.**
 	- _Example: the wind agitates the sea_
 - **To set in motion; to [[actuate]].**
 - **To discuss or debate.**
@@ -15,7 +15,7 @@
 ### Antonyms
 - [[appease]], [[calm]], [[quieten]]
 #adjective
-- **Angry, [[annoyed]], bothered or worked up.**
-- **(of a solution or substance) Violently and chaotically moving [[around]], such as because of being shaken.**
+- **Angry, [[annoyed]], [[bothered]] or worked up.**
+- **(of a solution or substance) Violently and [[chaotically]] moving [[around]], such as [[because]] of [[being]] shaken.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Advantageous
 ---
 #adjective
-- **Being of [[advantage]], beneficial.**
+- **Being of [[advantage]], [[beneficial]].**
 ---
 ### Synonyms
 - [[behooveful]], [[furthersome]], [[gainful]], [[profitable]], [[useful]]

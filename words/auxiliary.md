@@ -10,8 +10,8 @@
 - **Helping; giving [[assistance]] or support.**
 	- _Example: auxiliary troops_
 - **Supplementary or subsidiary.**
-- **Held in reserve for exceptional circumstances.**
-- **Of a ship, having both sails and an engine.**
+- **Held in reserve for exceptional [[circumstances]].**
+- **Of a ship, having [[both]] sails and an engine.**
 - **(grammar) Relating to an [[auxiliary]] verb.**
 ---
 ### Synonyms

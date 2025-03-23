@@ -1,6 +1,6 @@
 # Aka
 ---
 #preposition
-- **Alternative letter-case form of AKA**
+- **Alternative letter-[[case]] form of AKA**
 ---
 ---

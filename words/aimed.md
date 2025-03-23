@@ -7,7 +7,7 @@
 	- _Example: to aim at a pass_
 - **To direct or point (e.g. a weapon), at a particular object; to direct, as a missile, an [[act]], or a proceeding, at, to, or [[against]] an object**
 	- _Example: She aimed a punch at her ex-boyfriend._
-- **To direct (something verbal) towards a certain person, thing, or group**
+- **To direct (something verbal) towards a [[certain]] person, thing, or group**
 	- _Example: to aim a satirical comment at Communists in general_
 - **To guess or conjecture.**
 ---

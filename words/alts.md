@@ -1,7 +1,7 @@
 # Alts
 ---
 #noun
-- **An [[alternate]] or secondary character.**
+- **An [[alternate]] or secondary [[character]].**
 - **An [[alternate]] [[account]].**
 - **An [[alternative]] investment or [[alternative]] fund.**
 	- _Example: liquid alts_
@@ -12,7 +12,7 @@
 - **A vertical distance.**
 - **The distance measured perpendicularly from a figure's vertex to the opposite side of the vertex.**
 	- _Example: The perpendicular height of a triangle is known as its altitude._
-- **The [[angular]] distance of a heavenly body [[above]] our Earth's horizon.**
+- **The [[angular]] distance of a heavenly [[body]] [[above]] our Earth's horizon.**
 - **Height of rank or excellence; superiority.**
 - **(in the plural) Elevation of spirits; heroics; haughty [[airs]].**
 - **Highest point or degree.**

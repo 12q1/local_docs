@@ -14,7 +14,7 @@
 - **Curt in manner.**
 - **Having sudden transitions from one subject or state to [[another]]; unconnected; disjointed.**
 - **Broken off.**
-- **Extremely steep or craggy as if broken up; precipitous.**
+- **Extremely steep or craggy as if [[broken]] up; precipitous.**
 - **Suddenly terminating, as if cut off; truncate.**
 ---
 ### Synonyms

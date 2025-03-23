@@ -11,7 +11,7 @@
 - **To direct speech.**
 - **To [[aim]]; to direct.**
 - **To prepare or make ready.**
-- **To prepare oneself; to [[apply]] one's skill or energies (to some object); to betake.**
+- **To prepare oneself; to [[apply]] one's skill or energies (to some object); to [[betake]].**
 - **To direct one’s remarks (to someone).**
 - **To clothe or [[array]]; to dress.**
 - **To direct, as words (to [[anyone]] or [[anything]]); to make, as a speech, petition, etc. (to [[any]] [[audience]]).**
@@ -20,7 +20,7 @@
 - **To direct in writing, as a letter; to superscribe, or to direct and transmit.**
 	- _Example: He addressed a letter._
 - **To make suit to as a lover; to court; to woo.**
-- **To consign or entrust to the care of [[another]], as [[agent]] or factor.**
+- **To consign or entrust to the [[care]] of [[another]], as [[agent]] or factor.**
 	- _Example: The ship was addressed to a merchant in Baltimore._
 - **To [[address]] oneself to; to prepare oneself for; to [[apply]] oneself to; to direct one's speech or discourse to.**
 - **To direct [[attention]] towards a problem or obstacle, in an [[attempt]] to resolve it.**

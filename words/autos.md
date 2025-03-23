@@ -7,7 +7,7 @@
 	- _Example: Put it on auto._
 - **An [[automatic]] gearbox / transmission.**
 	- _Example: A body coloured centre pillar signalled the arrival of an electronic four-speed auto, slight suspension revisions and minor trim changes._
-- **A car with an [[automatic]] gearbox / transmission.**
+- **A [[car]] with an [[automatic]] gearbox / transmission.**
 	- _Example: It wasn't too bad but we did hire an auto (couldn't imagine changing gears with my right hand)._
 ---
 ### Synonyms

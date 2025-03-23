@@ -4,22 +4,22 @@
 - **Abdominal muscle.**
 ---
 #noun
-- **An [[abscess]] caused by injecting an illegal drug, usually heroin.**
+- **An [[abscess]] [[caused]] by injecting an illegal drug, usually heroin.**
 ---
 #verb
 - **To [[abseil]].**
 ---
 #noun
-- **The early stages of; the beginning process; the start.**
+- **The early stages of; the [[beginning]] process; the start.**
 ---
 #verb
-- **(now rare outside medicine) To miscarry; to bring forth (non-living) offspring prematurely.**
-- **To cause a premature termination of (a fetus); to end a pregnancy before term.**
+- **(now rare outside medicine) To miscarry; to [[bring]] forth (non-living) offspring prematurely.**
+- **To [[cause]] a premature termination of (a fetus); to end a pregnancy [[before]] term.**
 - **To end prematurely; to stop in the preliminary stages; to turn [[back]].**
 - **To stop or fail at something in the preliminary stages.**
-- **To become checked in normal development, so as either to remain rudimentary or shrink [[away]] wholly; to cease organic growth before maturation; to become sterile.**
-- **To cause an organism to develop minimally; to cause rudimentary development to happen; to prevent maturation.**
-- **To [[abandon]] a mission at [[any]] point [[after]] the beginning of the mission and prior to its completion.**
+- **To [[become]] [[checked]] in normal development, so as either to remain rudimentary or shrink [[away]] wholly; to [[cease]] organic growth [[before]] maturation; to [[become]] sterile.**
+- **To [[cause]] an organism to develop minimally; to [[cause]] rudimentary development to happen; to prevent maturation.**
+- **To [[abandon]] a mission at [[any]] point [[after]] the [[beginning]] of the mission and prior to its completion.**
 - **To terminate a mission involving a missile or rocket; to destroy a missile or rocket prematurely.**
 - **To terminate a process prior to completion.**
 ---
@@ -43,7 +43,7 @@
 - **Insufficiently factual.**
 - **Apart from practice or reality; vague; theoretical; impersonal; not [[applied]].**
 - **(grammar) As a noun, denoting an intangible as opposed to an object, place, or person.**
-- **Of a class in object-oriented programming, being a partial basis for subclasses rather than a complete template for objects.**
+- **Of a class in object-oriented programming, [[being]] a partial [[basis]] for subclasses rather than a complete template for objects.**
 ---
 ### Synonyms
 - [[abstruse]], [[ascriptive]], [[attributive]], [[conceptual]], [[ideal]], [[imaginary]], [[incorporeal]], [[intangible]], [[nonempirical]], [[theoretical]], [[conceptual]], [[theoretical]], [[formal]], [[general]], [[generalized]], [[generic]], [[nonspecific]], [[representational]]

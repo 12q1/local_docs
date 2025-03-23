@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Shaped like a wing**
-- **(of a building) Having wings**
+- **(of a [[building]]) Having wings**
 ---
 ---

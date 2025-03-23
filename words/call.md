@@ -1,0 +1,50 @@
+# Call
+---
+#noun
+- **A telephone conversation.**
+	- _Example: I received several calls today._
+- **A short visit, usually for social purposes.**
+	- _Example: I paid a call to a dear friend of mine._
+- **A visit by a ship or [[boat]] to a port.**
+	- _Example: The ship made a call at Southampton._
+- **A cry or shout.**
+	- _Example: He heard a call from the other side of the room._
+- **A decision or judgement.**
+	- _Example: That was a good call._
+- **The [[characteristic]] cry of a [[bird]] or other [[animal]].**
+	- _Example: That sound is the distinctive call of the cuckoo bird._
+- **A [[beckoning]] or summoning.**
+	- _Example: I had to yield to the call of the wild._
+- **The right to speak at a given time during a debate or other public event; the floor.**
+	- _Example: I give the call to the Manager of Opposition Business._
+- **An option to [[buy]] stock at a specified price during or at a specified time.**
+- **The [[act]] of [[calling]] to the other [[batsman]].**
+- **The state of [[being]] the [[batsman]] whose role it is to [[call]] (depends on where the [[ball]] goes.)**
+- **A work shift which requires one to be [[available]] when requested (see on [[call]]).**
+- **The [[act]] of jumping to a subprogram, saving the means to return to the original point.**
+- **A statement of a particular state, or rule, made in many games such as [[bridge]], craps, jacks, and so on.**
+	- _Example: There was a 20 dollar bet on the table, and my call was 9._
+- **The [[act]] of matching a [[bet]] made by a player who has previously [[bet]] in the same round of [[betting]].**
+- **A note [[blown]] on the horn to encourage the dogs in a hunt.**
+- **A whistle or pipe, used by the [[boatswain]] and his mate to summon the sailors to duty.**
+- **A pipe or other instrument to [[call]] [[birds]] or [[animals]] by imitating their note or cry. A game [[call]].**
+- **An invitation to take [[charge]] of or serve a [[church]] as its pastor.**
+- **Vocation; employment; [[calling]].**
+- **A reference to, or statement of, an object, course, distance, or other matter of description in a survey or grant requiring or [[calling]] for a corresponding object, etc., on the land.**
+- **(prostitution) A meeting with a client for paid sex; hookup; job.**
+---
+#verb
+- **(heading) To use one's voice.**
+- **(heading) To visit.**
+- **(heading) To name, identify or describe.**
+- **(heading) Direct or indirect use of the voice.**
+- **(sometimes with for) To require, demand.**
+	- _Example: He felt called to help the old man._
+- **To [[announce]] the early extinction of a debt by prepayment, usually at a premium.**
+- **To demand repayment of a loan.**
+- **To jump to ([[another]] part of a program) to perform some operation, returning to the original point on completion.**
+	- _Example: A recursive function is one that calls itself._
+---
+### Synonyms
+- [[drop a line]], [[ring]], [[holler]], [[yell]], [[designate]], [[dub]], [[name]], [[augur]], [[foretell]], [[wake up]]
+---

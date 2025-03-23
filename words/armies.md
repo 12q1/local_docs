@@ -3,7 +3,7 @@
 #noun
 - **A large, highly organized military force, concerned mainly with ground (rather than [[air]] or naval) operations.**
 	- _Example: The army was sent in to quell the uprising._
-- **The governmental [[agency]] in charge of a state's [[army]].**
+- **The governmental [[agency]] in [[charge]] of a state's [[army]].**
 	- _Example: The army opposed the legislature's involvement._
 - **A large group of people working toward the same purpose.**
 	- _Example: It took an army of accountants to uncover the fraud._

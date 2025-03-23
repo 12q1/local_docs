@@ -1,7 +1,7 @@
 # Adulterine
 ---
 #noun
-- **One born of an [[adulterous]] union.**
+- **One [[born]] of an [[adulterous]] union.**
 ---
 #adjective
 - **Spurious; due to [[adulteration]].**

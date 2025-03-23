@@ -10,11 +10,11 @@
 - [[pseudonym]]
 #verb
 - **To [[assign]] an [[additional]] name to an entity, often a more user-friendly one.**
-- **(of two signals) to become indistinguishable**
+- **(of two signals) to [[become]] indistinguishable**
 ---
 #adverb
-- **Otherwise; at [[another]] time; in other circumstances; otherwise called.**
-- **Used to connect the different names of a person who has gone by two or more, and whose true name is for [[any]] cause doubtful**
+- **Otherwise; at [[another]] time; in other [[circumstances]]; otherwise [[called]].**
+- **Used to connect the different names of a person who has gone by two or more, and whose true name is for [[any]] [[cause]] doubtful**
 	- _Example: Smith, alias Simpson._
 ---
 ### Synonyms

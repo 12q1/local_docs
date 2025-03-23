@@ -1,6 +1,6 @@
 # Apatite
 ---
 #noun
-- **A calcium fluoride phosphate of variable composition, sometimes used in the manufacture of fertilizer.**
+- **A [[calcium]] fluoride phosphate of variable composition, sometimes used in the manufacture of fertilizer.**
 ---
 ---

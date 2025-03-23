@@ -1,10 +1,10 @@
 # Architectures
 ---
 #noun
-- **The [[art]] and science of designing and managing the construction of buildings and other structures, particularly if they are well proportioned and decorated.**
+- **The [[art]] and science of designing and managing the construction of [[buildings]] and other structures, particularly if they are well proportioned and decorated.**
 	- _Example: Architecture is the visual public expression of a culture’s achievements, values, and outlook. ― Max Roscoe, "How Your City Is Killing You With Ugliness"_
 - **The profession of an [[architect]].**
-- **Any particular style of building design.**
+- **Any particular style of [[building]] design.**
 - **Construction, in a more general sense; frame or structure; workmanship.**
 - **A unifying structure.**
 - **A specific model of a microchip or CPU.**

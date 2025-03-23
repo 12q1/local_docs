@@ -1,9 +1,9 @@
 # Absorbing
 ---
 #verb
-- **To include so that it no longer has separate existence; to overwhelm; to cause to disappear as if by swallowing up; to incorporate; to [[assimilate]]; to take in and use up.**
+- **To include so that it no longer has separate existence; to overwhelm; to [[cause]] to disappear as if by swallowing up; to incorporate; to [[assimilate]]; to take in and use up.**
 - **To engulf, as in water; to swallow up.**
-- **To suck up; to drink in; to imbibe, like a sponge or as the lacteals of the body; to chemically take in.**
+- **To suck up; to drink in; to imbibe, like a sponge or as the lacteals of the [[body]]; to [[chemically]] take in.**
 - **To take in energy and convert it, as**
 	- _Example: Heat, light, and electricity are absorbed in the substances into which they pass._
 - **To engross or engage wholly; to occupy fully**

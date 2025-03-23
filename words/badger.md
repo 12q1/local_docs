@@ -1,10 +1,10 @@
 # Badger
 ---
 #noun
-- **Any mammal of three subfamilies, which belong to the family Mustelidae: Melinae (Eurasian [[badgers]]), Mellivorinae (ratel or honey [[badger]]), and Taxideinae (American [[badger]]).**
+- **Any mammal of three subfamilies, which [[belong]] to the family Mustelidae: Melinae (Eurasian [[badgers]]), Mellivorinae (ratel or honey [[badger]]), and Taxideinae (American [[badger]]).**
 - **A native or resident of the American state, Wisconsin.**
-- **A brush made of [[badger]] hair.**
-- **(in the plural) A crew of desperate villains who robbed near rivers, into which they threw the bodies of those they murdered.**
+- **A [[brush]] made of [[badger]] hair.**
+- **(in the plural) A crew of desperate villains who robbed near rivers, into which they threw the [[bodies]] of those they murdered.**
 ---
 ### Synonyms
 - [[brock]], [[Wisconsinite]]

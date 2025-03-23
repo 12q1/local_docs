@@ -1,13 +1,13 @@
 # Ambulatory
 ---
 #noun
-- **The round walkway encircling the [[altar]] in many cathedrals.**
-- **Any part of a building intended for walking in; a corridor.**
+- **The round walkway encircling the [[altar]] in many [[cathedrals]].**
+- **Any part of a [[building]] intended for walking in; a corridor.**
 ---
 #adjective
 - **Of, relating to, or [[adapted]] to walking**
 	- _Example: ambulatory exercise_
-- **Able to walk [[about]] and not bedridden.**
+- **Able to walk [[about]] and not [[bedridden]].**
 	- _Example: an ambulatory patient_
 - **Performed on or involving an [[ambulatory]] patient or an outpatient.**
 	- _Example: ambulatory medical care_

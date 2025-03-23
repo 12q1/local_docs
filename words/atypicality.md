@@ -1,7 +1,7 @@
 # Atypicality
 ---
 #noun
-- **The condition of being [[atypical]]**
+- **The condition of [[being]] [[atypical]]**
 ---
 ### Synonyms
 - [[abnormality]], [[unusualness]], [[weirdness]]

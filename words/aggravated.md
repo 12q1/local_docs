@@ -13,7 +13,7 @@
 ### Antonyms
 - [[alleviate]], [[mitigate]]
 #adjective
-- **Having been the subject of [[aggravation]]; frustrated and [[angry]].**
+- **Having [[been]] the subject of [[aggravation]]; frustrated and [[angry]].**
 ---
 ### Synonyms
 - [[aggro]]

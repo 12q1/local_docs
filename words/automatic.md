@@ -1,7 +1,7 @@
 # Automatic
 ---
 #noun
-- **A car with [[automatic]] transmission.**
+- **A [[car]] with [[automatic]] transmission.**
 	- _Example: I never learned to drive a stick. I can only drive an automatic._
 - **A semi-[[automatic]] pistol.**
 	- _Example: The G-men raiding the speakeasy were equipped with .45 automatics, while the local policemen were carrying revolvers and shotguns._
@@ -19,7 +19,7 @@
 	- _Example: Fully automatic weapons cannot be legally owned by private citizens in the US, except in very special circumstances, as by private security companies._
 - **(of a handgun) An [[autoloader]]; a semi-[[automatic]] or self-loading pistol, as opposed to a revolver or other manually [[actuated]] handgun, which fires one shot per pull of the trigger; distinct from machine guns.**
 	- _Example: The US Army adopted John Browning's M1911 pistol as its sidearm, chambered in .45 ACP (Automatic Colt Pistol)._
-- **(of a local variable) Automatically [[added]] to and removed from the stack during the course of function calls.**
+- **(of a local variable) Automatically [[added]] to and removed from the stack during the course of function [[calls]].**
 - **(of a group) Having one or more finite-state [[automata]]**
 ---
 ### Synonyms

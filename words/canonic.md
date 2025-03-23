@@ -1,0 +1,6 @@
+# Canonic
+---
+#adjective
+- **Canonical**
+---
+---

@@ -1,0 +1,53 @@
+# Bends
+---
+#noun
+- **A curve.**
+	- _Example: There's a sharp bend in the road ahead._
+- **Any of the various knots which join the ends of two lines.**
+- **(in the plural, underwater diving, with the) A severe condition [[caused]] by excessively quick decompression, [[causing]] [[bubbles]] of nitrogen to form in the [[blood]]; decompression sickness.**
+	- _Example: A diver who stays deep for too long must ascend very slowly in order to prevent the bends._
+- **One of the honourable ordinaries formed by two diagonal lines drawn from the dexter [[chief]] to the sinister [[base]]; it generally occupies a fifth part of the shield if uncharged, but if [[charged]] one third.**
+- **Turn; purpose; inclination; ends.**
+- **In the leather trade, the [[best]] quality of sole leather; a [[butt]]; sometimes, half a [[butt]] cut lengthwise.**
+- **Hard, indurated clay; [[bind]].**
+- **(in the plural) The thickest and strongest planks in a ship's sides, more generally [[called]] wales, which have the [[beams]], knees, and futtocks [[bolted]] to them.**
+- **(in the plural) The frames or ribs that form the ship's [[body]] from the keel to the top of the sides.**
+	- _Example: the midship bends_
+- **A glissando, or glide [[between]] one pitch and [[another]].**
+---
+#verb
+- **To [[cause]] (something) to [[change]] its shape into a curve, by physical force, [[chemical]] [[action]], or [[any]] other means.**
+	- _Example: Don’t bend your knees._
+- **To [[become]] curved.**
+	- _Example: Look at the trees bending in the wind._
+- **To [[cause]] to [[change]] direction.**
+- **To [[change]] direction.**
+	- _Example: The road bends to the right_
+- **To be inclined; to direct itself.**
+- **(usually with "down") To stoop.**
+	- _Example: He bent down to pick up the pieces._
+- **To [[bow]] in prayer, or in token of submission.**
+- **To force to submit.**
+	- _Example: They bent me to their will._
+- **To submit.**
+	- _Example: I am bending to my desire to eat junk food._
+- **To [[apply]] to a task or purpose.**
+	- _Example: He bent the company's resources to gaining market share._
+- **To [[apply]] oneself to a task or purpose.**
+	- _Example: He bent to the goal of gaining market share._
+- **To [[adapt]] or interpret to for a purpose or [[beneficiary]].**
+- **To tie, as in securing a line to a cleat; to shackle a [[chain]] to an [[anchor]]; make fast.**
+	- _Example: Bend the sail to the yard._
+- **To smoothly [[change]] the pitch of a note.**
+	- _Example: You should bend the G slightly sharp in the next measure._
+- **To swing the [[body]] when rowing.**
+---
+#noun
+- **The thickest and strongest planks in a wooden ship's side, wales.**
+---
+#noun
+- **A sometimes fatal condition resulting from the formation of nitrogen [[bubbles]] in the [[blood]] and tissues, [[because]] of too rapid decompression, seen especially in deep-sea divers [[ascending]] rapidly from a dive. It is [[characterized]] by severe pains in the joints and [[chest]], skin irritation, cramps, nausea, and paralysis.**
+---
+### Synonyms
+- [[aeroembolism]], [[aeroemphysema]], [[caisson disease]], [[the bends]]
+---

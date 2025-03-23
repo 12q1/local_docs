@@ -1,7 +1,7 @@
 # Acinus
 ---
 #noun
-- **One of the small grains or drupelets which make up some kinds of fruit, as the blackberry, raspberry, etc.**
+- **One of the small grains or drupelets which make up some kinds of fruit, as the [[blackberry]], raspberry, etc.**
 - **A grape-stone.**
 - **One of the granular masses which constitute a racemose or compound gland, as the pancreas; [[also]], one of the saccular recesses in the lobules of a racemose gland.**
 ---

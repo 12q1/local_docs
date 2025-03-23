@@ -1,6 +1,6 @@
 # Anthropophagi
 ---
 #noun
-- **A man-eater; a cannibal.**
+- **A man-eater; a [[cannibal]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Angulate
 ---
 #verb
-- **To make, or to become, [[angular]].**
+- **To make, or to [[become]], [[angular]].**
 ---
 #adjective
 - **Shaped with corners or [[angles]].**

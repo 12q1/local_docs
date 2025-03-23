@@ -10,7 +10,7 @@
 - [[geriatric]], [[oldster]], [[senior citizen]], [[antique]], [[antecessor]], [[forerunner]], [[aged]], [[eldern]], [[hoary]]
 #noun
 - **A flag, [[banner]], standard or ensign.**
-- **The bearer of a flag; ensign**
+- **The [[bearer]] of a flag; ensign**
 ---
 #noun
 - **The people of classical [[antiquity]], especially such writers and philosophers.**

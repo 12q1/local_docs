@@ -7,7 +7,7 @@
 - **One who [[apes]]; a foolish imitator.**
 ---
 #verb
-- **To behave like an [[ape]].**
+- **To [[behave]] like an [[ape]].**
 - **To imitate or mimic, particularly to imitate poorly.**
 ---
 ---

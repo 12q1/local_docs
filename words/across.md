@@ -15,12 +15,12 @@
 	- _Example: I got stuck on 4 across._
 ---
 #preposition
-- **To, toward or from the far side of (something that lies between two points of interest).**
+- **To, toward or from the far side of (something that lies [[between]] two points of interest).**
 	- _Example: Fortunately, there was a bridge across the river._
-- **On the opposite side of (something that lies between two points of interest).**
+- **On the opposite side of (something that lies [[between]] two points of interest).**
 	- _Example: That store is across the street._
-- **Across from: on the opposite side, relative to something that lies between, from (a point of interest).**
-- **From one side to the other within (a space being traversed).**
+- **Across from: on the opposite side, relative to something that lies [[between]], from (a point of interest).**
+- **From one side to the other within (a space [[being]] traversed).**
 	- _Example: Could you slide that across the table to me, please?_
 - **At or near the far end of (a space).**
 - **Spanning.**

@@ -3,7 +3,7 @@
 #adjective
 - **Moving [[around]]; [[astir]].**
 	- _Example: After my bout with Guillan-Barre Syndrome, it took me 6 months to be up and about again._
-- **In existence; being in evidence; [[apparent]].**
+- **In existence; [[being]] in evidence; [[apparent]].**
 	- _Example: This idea has been about for a while but has only recently become fashionable._
 - **Near; in the vicinity or neighbourhood.**
 	- _Example: I had my keys just a minute ago, so they must be about somewhere._
@@ -25,13 +25,13 @@
 - **To a reversed order; half round; facing in the opposite direction; from a contrary point of view.**
 	- _Example: to face about;  to turn oneself about_
 - **In succession; one [[after]] [[another]]; in the course of events.**
-- **In circuit; circularly; by a circuitous way; [[around]] the outside; in circumference.**
+- **In [[circuit]]; [[circularly]]; by a [[circuitous]] way; [[around]] the outside; in [[circumference]].**
 	- _Example: a mile about, and a third of a mile across_
 ---
 ### Synonyms
 - [[around]]
 #preposition
-- **In a circle [[around]]; [[all]] round; on every side of; on the outside of.**
+- **In a [[circle]] [[around]]; [[all]] round; on every side of; on the outside of.**
 	- _Example: The snake was coiled about his ankle._
 - **Over or upon different parts of; through or over in various directions; here and there in; to and fro in; throughout.**
 	- _Example: He was well known about town._

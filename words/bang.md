@@ -3,11 +3,11 @@
 #noun
 - **A sudden percussive noise.**
 	- _Example: When he struck it with a hammer, there was a loud bang._
-- **A strike upon an object causing such a noise.**
+- **A strike upon an object [[causing]] such a noise.**
 - **An explosion.**
 - **The symbol !, known as an exclamation point.**
 	- _Example: An e-mail address with an ! is called a bang path._
-- **A factorial, in mathematics, because the factorial of n is often written as n!**
+- **A factorial, in mathematics, [[because]] the factorial of n is often written as n!**
 - **An [[act]] of sexual intercourse.**
 - **An offbeat figure typical of reggae songs and played on guitar and piano.**
 - **An explosive product.**

@@ -1,7 +1,7 @@
 # Banquet
 ---
 #noun
-- **A large celebratory meal; a feast.**
+- **A large [[celebratory]] meal; a feast.**
 - **A dessert; a course of sweetmeats.**
 ---
 ### Synonyms

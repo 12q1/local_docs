@@ -1,9 +1,9 @@
 # Appaloosas
 ---
 #noun
-- **A breed of horse having a spotted rump.**
+- **A [[breed]] of horse having a spotted rump.**
 ---
 #noun
-- **A catfish.**
+- **A [[catfish]].**
 ---
 ---

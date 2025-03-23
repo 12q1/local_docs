@@ -1,7 +1,7 @@
 # Alphanumerics
 ---
 #noun
-- **An [[alphanumeric]] character.**
+- **An [[alphanumeric]] [[character]].**
 ---
 ### Synonyms
 - [[alnum]]

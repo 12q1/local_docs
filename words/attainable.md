@@ -1,7 +1,7 @@
 # Attainable
 ---
 #noun
-- **Something that can be [[attained]].**
+- **Something that [[can]] be [[attained]].**
 ---
 #adjective
 - **Able to be [[accomplished]], [[achieved]], or obtained.**

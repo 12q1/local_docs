@@ -1,7 +1,7 @@
 # Accompanied
 ---
 #adjective
-- **Having [[accompaniment]]; being part of a group of at least two.**
+- **Having [[accompaniment]]; [[being]] part of a group of at least two.**
 ---
 ### Synonyms
 - [[acc.]]

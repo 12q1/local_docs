@@ -1,8 +1,8 @@
 # Authorities
 ---
 #noun
-- **The bodies that have political or [[administrative]] power and control in a particular sphere**
-- **The bodies that enforce law and order or provide a public service**
+- **The [[bodies]] that have political or [[administrative]] power and control in a particular sphere**
+- **The [[bodies]] that enforce law and order or provide a public service**
 ---
 #noun
 - **The power to enforce rules or give orders.**

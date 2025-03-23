@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Having or revealing creative skill.**
-- **Relating to or characteristic of [[art]] or [[artists]].**
+- **Relating to or [[characteristic]] of [[art]] or [[artists]].**
 - **Aesthetically pleasing.**
 ---
 #adverb

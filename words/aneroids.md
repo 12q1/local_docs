@@ -1,6 +1,6 @@
 # Aneroids
 ---
 #noun
-- **An [[aneroid]] barometer**
+- **An [[aneroid]] [[barometer]]**
 ---
 ---

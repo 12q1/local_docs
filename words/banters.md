@@ -6,7 +6,7 @@
 - **To tease (someone) mildly.**
 - **To joke [[about]]; to ridicule (a trait, habit, etc.).**
 - **To delude or trick; to play a prank upon.**
-- **(Southern and Western) To challenge to a match.**
+- **(Southern and Western) To [[challenge]] to a match.**
 ---
 ### Synonyms
 - [[kid]], [[wind up]]

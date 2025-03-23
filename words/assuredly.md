@@ -1,6 +1,6 @@
 # Assuredly
 ---
 #adverb
-- **In an [[assured]] manner; certainly.**
+- **In an [[assured]] manner; [[certainly]].**
 ---
 ---

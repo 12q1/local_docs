@@ -8,6 +8,6 @@
 - **Naturally producing or produced by an instrument without electrical [[amplification]], as an [[acoustic]] guitar or [[acoustic]] piano.**
 ---
 #noun
-- **(retronym) A hollow-body guitar of the older variety, in contradistinction to an electric guitar.**
+- **(retronym) A hollow-[[body]] guitar of the older variety, in contradistinction to an electric guitar.**
 ---
 ---

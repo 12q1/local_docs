@@ -1,7 +1,7 @@
 # Arse
 ---
 #noun
-- **The buttocks or more specifically, the [[anus]].**
+- **The [[buttocks]] or more specifically, the [[anus]].**
 - **A stupid, mean or despicable person.**
 ---
 #verb

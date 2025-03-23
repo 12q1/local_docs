@@ -6,7 +6,7 @@
 ### Synonyms
 - [[alternation]], [[apophony]], [[gradation]]
 #verb
-- **(of a vowel-containing linguistic component) To undergo a change of vowel.**
-- **To cause to change a vowel.**
+- **(of a vowel-containing linguistic component) To undergo a [[change]] of vowel.**
+- **To [[cause]] to [[change]] a vowel.**
 ---
 ---

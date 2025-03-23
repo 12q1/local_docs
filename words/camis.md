@@ -1,0 +1,6 @@
+# Camis
+---
+#noun
+- **A [[camisole]].**
+---
+---

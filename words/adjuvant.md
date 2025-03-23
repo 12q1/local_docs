@@ -11,7 +11,7 @@
 - [[accessory]], [[assistant]], [[attendant]], [[satellite]], [[secondary]], [[subordinate]], [[subservient]], [[subsidiary]]
 #adjective
 - **Helping; helpful; [[assisting]].**
-- **Designating a supplementary form of treatment, especially a cancer therapy [[administered]] [[after]] removal of a primary tumour.**
+- **Designating a supplementary form of treatment, especially a [[cancer]] therapy [[administered]] [[after]] removal of a primary tumour.**
 ---
 ### Synonyms
 - [[ancillary]], [[complementary]], [[contributory]], [[extra]], [[supporting]]

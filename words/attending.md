@@ -2,7 +2,7 @@
 ---
 #verb
 - **To set on fire; kindle.**
-- **To take or catch fire.**
+- **To take or [[catch]] fire.**
 ---
 #verb
 - **To listen to (something or someone); to pay [[attention]] to; regard; heed.**
@@ -21,7 +21,7 @@
 ### Synonyms
 - [[notice]], [[pay attention]], [[take heed]], [[behear]], [[heed]], [[mark]], [[notice]], [[bestand]], [[serve]]
 #noun
-- **A physician on the staff of a hospital, especially the principal one that supervises a patient's care.**
+- **A physician on the staff of a hospital, especially the principal one that supervises a patient's [[care]].**
 ---
 #adjective
 - **That [[attend]] or [[attends]]; that is or are in [[attendance]]; [[attendant]].**

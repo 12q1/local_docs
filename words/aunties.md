@@ -5,7 +5,7 @@
 - **The female cousin of one’s parent.**
 - **A woman of an older generation than oneself, especially a friend of one's parents, by means of fictive kin.**
 - **Any elderly woman.**
-- **A procuress or bawd.**
+- **A procuress or [[bawd]].**
 ---
 ### Antonyms
 - [[nephew]], [[niece]], [[uncle]]
@@ -13,6 +13,6 @@
 - **Term of familiarity or respect for a middle-[[aged]] or elderly woman.**
 ---
 #verb
-- **To be or behave like the [[aunt]] of.**
+- **To be or [[behave]] like the [[aunt]] of.**
 ---
 ---

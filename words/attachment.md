@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[act]] or process of (physically or figuratively) [[attaching]].**
-- **A strong bonding with or fondness for someone or something.**
+- **A strong [[bonding]] with or fondness for someone or something.**
 	- _Example: I have such an attachment towards my fiancé!_
 - **A dependence, especially a strong one.**
 - **A device [[attached]] to a piece of equipment or a tool.**

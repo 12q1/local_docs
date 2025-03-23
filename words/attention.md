@@ -10,7 +10,7 @@
 ### Synonyms
 - [[heed]], [[notice]]
 #interjection
-- **Used as a command to bring soldiers to the [[attention]] position.**
-- **A call for people to be quiet/stop doing what they are presently doing and pay heed to what they are to be told or shown.**
+- **Used as a command to [[bring]] soldiers to the [[attention]] position.**
+- **A [[call]] for people to be quiet/stop doing what they are presently doing and pay heed to what they are to be told or shown.**
 ---
 ---

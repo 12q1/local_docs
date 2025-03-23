@@ -1,7 +1,7 @@
 # Arrived
 ---
 #verb
-- **To reach; to get to a certain place.**
+- **To reach; to get to a [[certain]] place.**
 	- _Example: He arrived home for two days._
 - **To obtain a level of success or fame; to succeed.**
 	- _Example: He had finally arrived on Broadway._
@@ -9,7 +9,7 @@
 	- _Example: The time has arrived for us to depart._
 - **To happen or occur.**
 - **To reach; to come to.**
-- **To bring to shore.**
+- **To [[bring]] to shore.**
 ---
 ### Antonyms
 - [[depart]]

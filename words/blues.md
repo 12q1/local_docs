@@ -1,0 +1,26 @@
+# Blues
+---
+#noun
+- **The colour of the clear sky or the deep sea, [[between]] green and violet in the visible spectrum, and one of the primary [[additive]] colours for transmitted light; the colour obtained by subtracting red and green from white light using magenta and [[cyan]] filters; or [[any]] colour resembling this.**
+- **A [[blue]] dye or pigment.**
+- **Any of several processes to protect metal [[against]] rust.**
+- **Blue clothing**
+	- _Example: The boys in blue marched to the pipers._
+- **(in the plural) A [[blue]] uniform. See [[blues]].**
+- **A member of law enforcement**
+- **The sky, literally or figuratively.**
+	- _Example: His request for leave came out of the blue._
+- **The ocean; deep waters.**
+- **The far distance; a remote or distant place.**
+- **Anything [[blue]], especially to distinguish it from similar objects differing only in color.**
+- **A dog or [[cat]] with a slaty gray coat.**
+- **One of the colour [[balls]] used in snooker, with a value of five points.**
+- **Any of the [[butterflies]] of the subfamily Polyommatinae in the family Lycaenidae, most of which have [[blue]] on their wings.**
+- **A [[bluefish]].**
+- **An [[argument]].**
+- **A liquid with an intense [[blue]] colour, [[added]] to a laundry wash to prevent yellowing of white clothes.**
+- **A type of firecracker.**
+- **A [[bluestocking]].**
+- **One of the three color [[charges]] for quarks.**
+---
+---

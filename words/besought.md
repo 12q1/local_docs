@@ -1,0 +1,10 @@
+# Besought
+---
+#verb
+- **To [[beg]] or implore (a person)**
+- **To request or [[beg]] for**
+---
+#verb
+- **To [[beseech]]; entreat.**
+---
+---

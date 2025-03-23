@@ -1,7 +1,7 @@
 # Armpit
 ---
 #noun
-- **The cavity beneath the junction of the [[arm]] and shoulder.**
+- **The [[cavity]] [[beneath]] the junction of the [[arm]] and shoulder.**
 - **Somewhere or something considered unpleasant or undesirable.**
 	- _Example: the armpit of America_
 ---

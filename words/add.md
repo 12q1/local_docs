@@ -11,7 +11,7 @@
 	- _Example: to add numbers_
 - **To combine elements of (something) into one quantity.**
 	- _Example: to add a column of numbers_
-- **To give by way of increased possession (to someone); to bestow (on).**
+- **To give by way of increased possession (to someone); to [[bestow]] (on).**
 - **To [[append]] (e,g, a statement); to say further information.**
 - **To make an [[addition]]; to [[augment]]; to increase.**
 	- _Example: It adds to our anxiety._

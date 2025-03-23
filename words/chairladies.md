@@ -1,0 +1,6 @@
+# Chairladies
+---
+#noun
+- **Chairwoman**
+---
+---

@@ -12,7 +12,7 @@
 - **Insufficiently factual.**
 - **Apart from practice or reality; vague; theoretical; impersonal; not [[applied]].**
 - **(grammar) As a noun, denoting an intangible as opposed to an object, place, or person.**
-- **Of a class in object-oriented programming, being a partial basis for subclasses rather than a complete template for objects.**
+- **Of a class in object-oriented programming, [[being]] a partial [[basis]] for subclasses rather than a complete template for objects.**
 ---
 ### Synonyms
 - [[abstruse]], [[ascriptive]], [[attributive]], [[conceptual]], [[ideal]], [[imaginary]], [[incorporeal]], [[intangible]], [[nonempirical]], [[theoretical]], [[conceptual]], [[theoretical]], [[formal]], [[general]], [[generalized]], [[generic]], [[nonspecific]], [[representational]]

@@ -2,7 +2,7 @@
 ---
 #verb
 - **To furnish with [[accessories]].**
-- **To wear or to choose [[accessories]].**
+- **To wear or to [[choose]] [[accessories]].**
 ---
 #adjective
 - **Wearing [[accessories]].**

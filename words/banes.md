@@ -1,7 +1,7 @@
 # Banes
 ---
 #noun
-- **A cause of misery or death.**
+- **A [[cause]] of misery or death.**
 	- _Example: the bane of one's existence_
 - **Poison, especially [[any]] of several poisonous plants.**
 - **A killer, murderer, slayer.**

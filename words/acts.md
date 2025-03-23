@@ -5,7 +5,7 @@
 	- _Example: an act of goodwill_
 - **Actuality.**
 - **Something done once and for [[all]], as distinguished from a work.**
-- **A product of a legislative body, a statute.**
+- **A product of a legislative [[body]], a statute.**
 - **The process of doing something.**
 	- _Example: He was caught in the act of stealing._
 - **A formal or official record of something done.**
@@ -14,9 +14,9 @@
 - **A performer or performers in a show.**
 	- _Example: Which act did you prefer? The soloist or the band?_
 - **Any organized [[activity]].**
-- **A display of behaviour.**
-- **A thesis maintained in public, in some English universities, by a candidate for a degree, or to show the proficiency of a student.**
-- **A display of behaviour meant to deceive.**
+- **A display of [[behaviour]].**
+- **A thesis maintained in public, in some English universities, by a [[candidate]] for a degree, or to show the proficiency of a student.**
+- **A display of [[behaviour]] meant to deceive.**
 	- _Example: to put on an act_
 ---
 ### Synonyms
@@ -28,11 +28,11 @@
 - **To perform a theatrical role.**
 	- _Example: I started acting at the age of eleven in my local theatre._
 - **Of a play: to be [[acted]] out (well or [[badly]]).**
-- **To behave in a certain manner for an indefinite length of time.**
+- **To [[behave]] in a [[certain]] manner for an indefinite length of time.**
 	- _Example: A dog which acts aggressively is likely to bite._
-- **To convey an [[appearance]] of being.**
+- **To convey an [[appearance]] of [[being]].**
 	- _Example: He acted unconcerned so the others wouldn't worry._
-- **To do something that causes a change binding on the doer.**
+- **To do something that [[causes]] a [[change]] [[binding]] on the doer.**
 	- _Example: act on behalf of John_
 - **(construed with on or upon) To have an effect (on).**
 	- _Example: Gravitational force acts on heavy bodies._

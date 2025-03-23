@@ -1,6 +1,6 @@
 # Autosomes
 ---
 #noun
-- **Any chromosome other than sex chromosomes.**
+- **Any [[chromosome]] other than sex [[chromosomes]].**
 ---
 ---

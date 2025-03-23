@@ -1,0 +1,40 @@
+# Business
+---
+#noun
+- **A specific commercial enterprise or establishment.**
+	- _Example: I was left my father's business._
+- **A person's occupation, work, or trade.**
+	- _Example: He is in the motor and insurance businesses._
+- **Commercial, industrial, or professional [[activity]].**
+	- _Example: He's such a poor cook, I can't believe he's still in business!_
+- **The volume or [[amount]] of commercial trade.**
+	- _Example: Business has been slow lately._
+- **One's dealings; patronage.**
+	- _Example: I shall take my business elsewhere._
+- **Private commercial interests taken collectively.**
+	- _Example: This proposal will satisfy both business and labor._
+- **The management of commercial enterprises, or the study of such management.**
+	- _Example: I studied business at Harvard._
+- **A particular situation or [[activity]].**
+	- _Example: This UFO stuff is a mighty strange business._
+- **Any [[activity]] or objective needing to be dealt with; especially, one of a financial or legal matter.**
+	- _Example: Let's get down to business._
+- **Something involving one personally.**
+	- _Example: That's none of your business._
+- **(parliamentary procedure) Matters that come [[before]] a [[body]] for deliberation or [[action]].**
+	- _Example: If that concludes the announcements, we'll move on to new business._
+- **(travel) Business class, the class of seating provided by [[airlines]] [[between]] first class and coach.**
+- **Action [[carried]] out with a prop or piece of clothing, usually [[away]] from the focus of the scene.**
+- **The collective noun for a group of ferrets.**
+- **Something very good; top quality. (possibly from "the [[bee]]'s knees")**
+	- _Example: These new phones are the business!_
+- **Excrement, particularly that of a non-human [[animal]].**
+	- _Example: As the cart went by, its horse lifted its tail and did its business._
+---
+#adjective
+- **Of, to, pertaining to or utilized for purposes of conducting trade, commerce, governance, [[advocacy]] or other professional purposes.**
+	- _Example: Please do not use this phone for personal calls; it is a business phone._
+- **Professional, [[businesslike]], having concern for good [[business]] practice.**
+- **Supporting [[business]], conducive to the conduct of [[business]].**
+---
+---

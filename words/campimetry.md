@@ -1,0 +1,6 @@
+# Campimetry
+---
+#noun
+- **Perimetry**
+---
+---

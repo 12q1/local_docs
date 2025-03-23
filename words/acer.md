@@ -7,8 +7,8 @@
 	- _Example: I like my new house - there’s acres of space!_
 - **(usually in the plural) A large quantity.**
 - **A field.**
-- **The [[acre]]'s breadth by the length, English units of length equal to the statute dimensions of the [[acre]]: 22 yds (≈20 m) by 220 yds (≈200 m).**
-- **A duel fought between individual Scots and Englishmen in the borderlands.**
+- **The [[acre]]'s [[breadth]] by the length, English units of length equal to the statute dimensions of the [[acre]]: 22 yds (≈20 m) by 220 yds (≈200 m).**
+- **A duel fought [[between]] individual Scots and Englishmen in the [[borderlands]].**
 ---
 ### Synonyms
 - [[morgen]], [[feddan]], [[arpen]], [[arpent]], [[pose]], [[bigha]], [[cawney]], [[cawny]], [[Irish acre]], [[collop]], [[plantation acre]], [[juger]], [[jugerum]], [[Scotch acre]], [[Scots acre]], [[Scottish acre]], [[acair]], [[Welsh acre]], [[cover]], [[cyfair]], [[erw]], [[stang]], [[day's math]], [[demath]]

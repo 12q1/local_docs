@@ -1,6 +1,6 @@
 # Ballbuster
 ---
 #noun
-- **Ball-breaker.**
+- **Ball-[[breaker]].**
 ---
 ---

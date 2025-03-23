@@ -7,7 +7,7 @@
 	- _Example: My ambition is to own a helicopter._
 - **A desire, as in (sense 1), for [[another]] person to [[achieve]] these things.**
 - **A personal quality similar to motivation, not necessarily tied to a single goal.**
-- **The [[act]] of going [[about]] to solicit or obtain an office, or [[any]] other object of desire; canvassing.**
+- **The [[act]] of going [[about]] to solicit or obtain an office, or [[any]] other object of desire; [[canvassing]].**
 ---
 #verb
 - **To seek [[after]] [[ambitiously]] or eagerly; to covet.**

@@ -8,7 +8,7 @@
 - **For example; for instance. (Compare such as.)**
 ---
 #preposition
-- **Introducing a basis of comparison, with an object in the objective case.**
+- **Introducing a [[basis]] of comparison, with an object in the objective [[case]].**
 	- _Example: They're big as houses._
 - **In the role of.**
 	- _Example: He was never seen as the boss, but rather as a friend._
@@ -17,7 +17,7 @@
 - **In the (same) way or manner that; to the (same) degree that.**
 	- _Example: As you wish, my lord!_
 - **At the time that; during the time when:**
-- **Being that, considering that, because, since.**
+- **Being that, considering that, [[because]], since.**
 	- _Example: As it’s too late, I quit._
 - **Introducing a comparison with a hypothetical state (+ subjunctive, or with the verb elided): as though, as if.**
 - **Functioning as a relative conjunction, and sometimes like a relative pronoun: that, which, who. (See usage notes.)**

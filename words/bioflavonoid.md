@@ -1,0 +1,6 @@
+# Bioflavonoid
+---
+#noun
+- **Flavonoid**
+---
+---

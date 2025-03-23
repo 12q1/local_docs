@@ -1,7 +1,7 @@
 # Baling
 ---
 #verb
-- **To remove water from a boat with buckets etc.**
+- **To remove water from a [[boat]] with [[buckets]] etc.**
 ---
 #noun
 - **A collection of material packaged into a [[bale]].**

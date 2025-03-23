@@ -2,7 +2,7 @@
 ---
 #verb
 - **To fasten with a [[band]].**
-- **To fasten an identifying [[band]] [[around]] the leg of (a bird).**
+- **To fasten an identifying [[band]] [[around]] the leg of (a [[bird]]).**
 ---
 #verb
 - **To group together for a common purpose; to confederate.**

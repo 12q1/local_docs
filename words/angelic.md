@@ -1,8 +1,8 @@
 # Angelic
 ---
 #adjective
-- **Belonging to, or proceeding from, [[angels]]; resembling, characteristic of, or partaking of the nature of, an [[angel]].**
-- **Very sweet-natured or well-behaved.**
+- **Belonging to, or proceeding from, [[angels]]; resembling, [[characteristic]] of, or partaking of the nature of, an [[angel]].**
+- **Very sweet-natured or well-[[behaved]].**
 	- _Example: an angelic child_
 - **Of or pertaining to [[angelic]] [[acid]].**
 	- _Example: an angelic ester_

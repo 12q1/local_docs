@@ -7,13 +7,13 @@
 ---
 #verb
 - **To make an [[adjective]] of; to form or convert into an [[adjective]].**
-- **(chiefly as a participle) To characterize with an [[adjective]]; to describe by using an [[adjective]].**
+- **([[chiefly]] as a participle) To [[characterize]] with an [[adjective]]; to describe by using an [[adjective]].**
 ---
 #adjective
 - **Incapable of independent function.**
 - **(grammar) Adjectival; pertaining to or functioning as an [[adjective]].**
 - **Applying to methods of enforcement and rules of procedure.**
-- **(of a dye) Needing the use of a mordant to be made fast to that which is being dyed.**
+- **(of a dye) Needing the use of a mordant to be made fast to that which is [[being]] dyed.**
 ---
 ### Synonyms
 - [[adjectival]], [[dependent]], [[derivative]], [[procedural]]

@@ -1,6 +1,6 @@
 # Bacchanalia
 ---
 #noun
-- **Any wild, orgiastic party or celebration.**
+- **Any wild, orgiastic party or [[celebration]].**
 ---
 ---

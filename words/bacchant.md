@@ -5,7 +5,7 @@
 - **A [[bacchanal]]; a drunken reveler.**
 ---
 #adjective
-- **Fond of drunken revelry; wine-loving; reveling; carousing.**
+- **Fond of drunken revelry; wine-loving; reveling; [[carousing]].**
 ---
 ### Synonyms
 - [[bacchanalian]]

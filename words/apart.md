@@ -3,7 +3,7 @@
 #adjective
 - **(Used [[after]] a noun or in the predicate) Exceptional, distinct.**
 	- _Example: a world apart_
-- **Having been taken [[apart]]; disassembled, in pieces.**
+- **Having [[been]] taken [[apart]]; disassembled, in pieces.**
 ---
 #adverb
 - **Placed separately (in regard to space or time).**

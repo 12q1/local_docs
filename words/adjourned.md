@@ -10,6 +10,6 @@
 	- _Example: After the dinner, we will adjourn to the bar._
 ---
 #adjective
-- **(of a meeting, event or trial) Having been [[adjourned]]; suspended or paused.**
+- **(of a meeting, event or trial) Having [[been]] [[adjourned]]; suspended or paused.**
 ---
 ---

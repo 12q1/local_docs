@@ -8,7 +8,7 @@
 - **A recommendation of a particular product, service or person.**
 	- _Example: The good manners and intelligence of the students are an advertisement for the school._
 - **Notoriety.**
-- **In gin rummy, the discarding of a card of one's preferred suit so as to mislead the opponent into thinking you do not want it.**
+- **In gin rummy, the discarding of a [[card]] of one's preferred suit so as to mislead the opponent into thinking you do not want it.**
 ---
 ### Synonyms
 - [[ad]], [[advert]]

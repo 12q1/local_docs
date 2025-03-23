@@ -1,6 +1,6 @@
 # Bacteraemia
 ---
 #noun
-- **The medical condition of having [[bacteria]] in the bloodstream.**
+- **The medical condition of having [[bacteria]] in the [[bloodstream]].**
 ---
 ---

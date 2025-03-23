@@ -1,6 +1,6 @@
 # Almonries
 ---
 #noun
-- **A building in which [[alms]] were distributed.**
+- **A [[building]] in which [[alms]] were distributed.**
 ---
 ---

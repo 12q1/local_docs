@@ -1,6 +1,6 @@
 # Airframe
 ---
 #noun
-- **The main body and structure of an [[aircraft]] (without the powerplant).**
+- **The main [[body]] and structure of an [[aircraft]] (without the powerplant).**
 ---
 ---

@@ -12,6 +12,6 @@
 ### Antonyms
 - [[create]], [[generate]]
 #adjective
-- **Having been utterly destroyed.**
+- **Having [[been]] utterly destroyed.**
 ---
 ---

@@ -7,6 +7,6 @@
 ### Synonyms
 - [[emmet]], [[pismire]]
 #verb
-- **To rub insects, especially [[ants]], on one's body, perhaps to control parasites or clean feathers.**
+- **To rub insects, especially [[ants]], on one's [[body]], perhaps to control parasites or clean feathers.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Bantlings
 ---
 #noun
-- **An infant or young child.**
+- **An infant or young [[child]].**
 ---
 ### Synonyms
 - [[babe]], [[infant]]

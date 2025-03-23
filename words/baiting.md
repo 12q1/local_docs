@@ -5,7 +5,7 @@
 - **To [[affix]] [[bait]] to a trap or a fishing hook or fishing line.**
 ---
 #verb
-- **To set dogs on (an [[animal]] etc.) to bite or worry; to [[attack]] with dogs, especially for sport.**
+- **To set dogs on (an [[animal]] etc.) to [[bite]] or worry; to [[attack]] with dogs, especially for sport.**
 	- _Example: to bait a bear with dogs;  to bait a bull_
 - **To intentionally [[annoy]], torment, or threaten by constant rebukes or threats; to harass.**
 - **To feed and water (a horse or other [[animal]]), especially during a journey.**
@@ -16,7 +16,7 @@
 - **To flap the wings; to flutter as if to fly; or to hover, as a hawk when she stoops to her prey.**
 ---
 #noun
-- **A bloodsport involving the [[act]] of worrying or tormenting a chained or confined [[animal]] by setting dogs upon it.**
+- **A bloodsport involving the [[act]] of worrying or tormenting a [[chained]] or confined [[animal]] by setting dogs upon it.**
 - **The [[act]] of luring, as into a trap.**
 ---
 ---

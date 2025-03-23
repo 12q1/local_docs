@@ -2,7 +2,7 @@
 ---
 #noun
 - **A person or object that deviates from the rest of a group.**
-- **A group, individual, or structure that deviates from the usual or natural type, especially with an [[atypical]] chromosome number.**
+- **A group, individual, or structure that deviates from the usual or natural type, especially with an [[atypical]] [[chromosome]] number.**
 ---
 ### Synonyms
 - [[deviant]], [[freak]]

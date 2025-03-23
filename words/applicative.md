@@ -1,7 +1,7 @@
 # Applicative
 ---
 #noun
-- **(grammar) A grammatical construct that casts a peripheral noun phrase as direct object.**
+- **(grammar) A grammatical construct that [[casts]] a peripheral noun phrase as direct object.**
 ---
 #adjective
 - **Having practical [[application]]; [[applicable]].**

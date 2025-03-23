@@ -2,9 +2,9 @@
 ---
 #verb
 - **To pass over or by.**
-- **To omit, miss or overlook by chance.**
+- **To omit, miss or overlook by [[chance]].**
 - **To miss intentionally; to [[avoid]].**
-- **To stop, check, block.**
+- **To stop, [[check]], [[block]].**
 - **To stop short and refuse to go on.**
 	- _Example: The horse balked._
 - **To refuse suddenly.**

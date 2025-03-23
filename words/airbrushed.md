@@ -7,7 +7,7 @@
 ### Synonyms
 - [[doctor]], [[photoshop]]
 #adjective
-- **Having been manipulated with an [[airbrush]].**
-- **(by extension) Having had imperfections and blemishes removed through digital manipulation.**
+- **Having [[been]] manipulated with an [[airbrush]].**
+- **(by extension) Having had imperfections and [[blemishes]] removed through digital manipulation.**
 ---
 ---
