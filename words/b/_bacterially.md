@@ -1,6 +1,6 @@
 # Bacterially
 ---
 #adverb
-- **In reference to [[bacteria]]**
+- **In reference to [[b/_bacteria|bacteria]]**
 ---
 ---

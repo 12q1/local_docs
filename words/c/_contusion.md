@@ -1,7 +1,7 @@
 # Contusion
 ---
 #noun
-- **A wound, such as a [[bruise]], in which the skin is not [[broken]], often having [[broken]] [[blood]] vessels and discolouration.**
-- **The [[act]] of [[bruising]].**
+- **A wound, such as a [[b/_bruise|bruise]], in which the skin is not [[b/_broken|broken]], often having [[b/_broken|broken]] [[b/_blood|blood]] vessels and discolouration.**
+- **The [[a/_act|act]] of [[b/_bruising|bruising]].**
 ---
 ---

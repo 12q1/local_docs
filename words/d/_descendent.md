@@ -1,12 +1,12 @@
 # Descendent
 ---
 #noun
-- **{a person [[considered]] as [[descended]] from some [[ancestor]] or race}**
+- **{a person [[c/_considered|considered]] as [[d/_descended|descended]] from some [[a/_ancestor|ancestor]] or race}**
 ---
 #adjective
-- **Descending; going down**
+- **[[d/_descending|Descending]]; going down**
 	- _Example: The elevator resumed its descendent trajectory._
-- **Descending from (an [[ancestor]])**
+- **[[d/_descending|Descending]] from (an [[a/_ancestor|ancestor]])**
 	- _Example: Power in the kingdom is transferred in a descendent manner._
 ---
 ---

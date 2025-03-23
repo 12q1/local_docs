@@ -1,8 +1,8 @@
 # Adjudging
 ---
 #verb
-- **To [[declare]] to be.**
-- **To [[deem]] or determine to be.**
-- **To [[award]] judicially; to [[assign]].**
+- **To [[d/_declare|declare]] to be.**
+- **To [[d/_deem|deem]] or [[d/_determine|determine]] to be.**
+- **To [[a/_award|award]] judicially; to [[a/_assign|assign]].**
 ---
 ---

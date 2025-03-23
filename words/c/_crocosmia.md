@@ -1,7 +1,7 @@
 # Crocosmia
 ---
 #noun
-- **Any of many plants in the genus Crocosmia**
+- **[[a/_any|Any]] of many plants in the genus [[c/_crocosmia|Crocosmia]]**
 ---
 ### Synonyms
 - [[coppertip]], [[falling star]], [[montbretia]]

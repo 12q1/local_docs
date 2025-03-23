@@ -1,14 +1,14 @@
 # Descriptions
 ---
 #noun
-- **A sketch or [[account]] of [[anything]] in words; a portraiture or representation in language; an enumeration of the essential qualities of a thing or species.**
-- **The [[act]] of [[describing]]; a [[delineation]] by marks or signs.**
-- **A set of [[characteristics]] by which someone or something [[can]] be recognized.**
+- **A sketch or [[a/_account|account]] of [[a/_anything|anything]] in words; a portraiture or representation in language; an enumeration of the essential qualities of a thing or species.**
+- **The [[a/_act|act]] of [[d/_describing|describing]]; a [[d/_delineation|delineation]] by marks or signs.**
+- **A set of [[c/_characteristics|characteristics]] by which someone or something [[c/_can|can]] be recognized.**
 	- _Example: The zoo had no lions, tigers, or cats of any description._
 - **A scientific documentation of a taxon for the purpose of introducing it to science.**
 	- _Example: The type description of the fungus was written by a botanist._
-- **The [[act]] or practice of recording and [[describing]] [[actual]] language usage in a given speech [[community]], as opposed to prescription, i.e. laying down norms of language usage.**
-- **A [[descriptive]] linguistic survey.**
+- **The [[a/_act|act]] or practice of recording and [[d/_describing|describing]] [[a/_actual|actual]] language usage in a given speech [[c/_community|community]], as opposed to prescription, i.e. laying down norms of language usage.**
+- **A [[d/_descriptive|descriptive]] linguistic survey.**
 ---
 ### Synonyms
 - [[kind]], [[sort]], [[type]], [[variety]]

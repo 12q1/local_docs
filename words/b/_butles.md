@@ -1,6 +1,6 @@
 # Butles
 ---
 #verb
-- **To serve as or perform the duties of a [[butler]].**
+- **To serve as or perform the duties of a [[b/_butler|butler]].**
 ---
 ---

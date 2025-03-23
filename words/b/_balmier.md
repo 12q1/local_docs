@@ -1,10 +1,10 @@
 # Balmier
 ---
 #adjective
-- **Producing [[balm]].**
+- **Producing [[b/_balm|balm]].**
 - **Soothing or fragrant.**
 - **Mild and pleasant.**
-- **Foolish; slightly [[crazy]] or mad; eccentric.**
+- **Foolish; slightly [[c/_crazy|crazy]] or mad; eccentric.**
 ---
 ### Synonyms
 - [[barmy]]

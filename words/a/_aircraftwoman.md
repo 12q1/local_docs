@@ -1,6 +1,6 @@
 # Aircraftwoman
 ---
 #noun
-- **A female [[aircraftman]].**
+- **A female [[a/_aircraftman|aircraftman]].**
 ---
 ---

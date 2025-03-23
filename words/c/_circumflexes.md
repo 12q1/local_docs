@@ -1,7 +1,7 @@
 # Circumflexes
 ---
 #noun
-- **A diacritical mark (ˆ) placed over a vowel in the orthography or transliteration of many languages to [[change]] its pronunciation; while in some other languages over a [[consonant]].**
+- **A diacritical mark (ˆ) placed over a vowel in the orthography or transliteration of many languages to [[c/_change|change]] its pronunciation; while in some other languages over a [[c/_consonant|consonant]].**
 ---
 ### Synonyms
 - [[circumflex accent]]

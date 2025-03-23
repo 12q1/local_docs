@@ -1,7 +1,7 @@
 # Corpulent
 ---
 #adjective
-- **Large in [[body]]; fat; overweight.**
-- **Physical, material, [[corporeal]].**
+- **Large in [[b/_body|body]]; fat; overweight.**
+- **Physical, material, [[c/_corporeal|corporeal]].**
 ---
 ---

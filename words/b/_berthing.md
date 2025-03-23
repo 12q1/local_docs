@@ -1,11 +1,11 @@
 # Berthing
 ---
 #verb
-- **To [[bring]] (a ship or vehicle) into its [[berth]]**
+- **To [[b/_bring|bring]] (a ship or vehicle) into its [[b/_berth|berth]]**
 ---
 #noun
-- **The planking outside of a vessel, [[above]] the sheer strake.**
-- **An instance of a ship [[being]] [[brought]] to rest at some docking facility.**
-- **A [[berth]], especially figuratively, a place to sleep.**
+- **The planking outside of a vessel, [[a/_above|above]] the sheer strake.**
+- **An instance of a ship [[b/_being|being]] [[b/_brought|brought]] to rest at some docking facility.**
+- **A [[b/_berth|berth]], especially figuratively, a place to sleep.**
 ---
 ---

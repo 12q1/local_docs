@@ -1,6 +1,6 @@
 # Coyly
 ---
 #adverb
-- **In a [[coy]] manner.**
+- **In a [[c/_coy|coy]] manner.**
 ---
 ---

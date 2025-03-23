@@ -1,7 +1,7 @@
 # Assistantship
 ---
 #noun
-- **The occupation of [[being]] an [[assistant]].**
-- **A position of employment as an [[assistant]].**
+- **The occupation of [[b/_being|being]] an [[a/_assistant|assistant]].**
+- **A position of employment as an [[a/_assistant|assistant]].**
 ---
 ---

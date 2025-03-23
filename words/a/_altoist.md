@@ -1,6 +1,6 @@
 # Altoist
 ---
 #noun
-- **A person playing [[alto]] saxophone or some other [[alto]] instrument.**
+- **A person playing [[a/_alto|alto]] saxophone or some other [[a/_alto|alto]] instrument.**
 ---
 ---

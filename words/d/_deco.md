@@ -1,6 +1,6 @@
 # Deco
 ---
 #noun
-- **(underwater diving) Decompression.**
+- **(underwater diving) [[d/_decompression|Decompression]].**
 ---
 ---

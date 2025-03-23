@@ -1,6 +1,6 @@
 # Clotured
 ---
 #verb
-- **To end legislative [[debate]] by this means.**
+- **To end legislative [[d/_debate|debate]] by this means.**
 ---
 ---

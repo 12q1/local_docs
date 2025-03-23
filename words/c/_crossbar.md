@@ -1,13 +1,13 @@
 # Crossbar
 ---
 #noun
-- **Any transverse [[bar]] or piece, such as a [[bar]] [[across]] a door, or the iron [[bar]] or stock which passes through the shank of an [[anchor]].**
+- **[[a/_any|Any]] transverse [[b/_bar|bar]] or piece, such as a [[b/_bar|bar]] [[a/_across|across]] a door, or the iron [[b/_bar|bar]] or stock which passes through the shank of an [[a/_anchor|anchor]].**
 - **The top of the goal structure.**
-- **The top tube of a [[bicycle]] frame.**
+- **The top tube of a [[b/_bicycle|bicycle]] frame.**
 ---
 ### Synonyms
 - [[stock]], [[bar]]
 #verb
-- **To mark with a pattern of transverse [[bars]].**
+- **To mark with a pattern of transverse [[b/_bars|bars]].**
 ---
 ---

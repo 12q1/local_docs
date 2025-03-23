@@ -1,6 +1,6 @@
 # Cocksfoot
 ---
 #noun
-- **Any of the genus Dactylis of Eurasian and North African bluegrasses.**
+- **[[a/_any|Any]] of the genus [[d/_dactylis|Dactylis]] of Eurasian and North [[a/_african|African]] bluegrasses.**
 ---
 ---

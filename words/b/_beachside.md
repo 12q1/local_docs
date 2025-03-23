@@ -1,10 +1,10 @@
 # Beachside
 ---
 #noun
-- **The land [[bordering]] a [[beach]].**
+- **The land [[b/_bordering|bordering]] a [[b/_beach|beach]].**
 ---
 #adjective
-- **Bordering a [[beach]]**
+- **[[b/_bordering|Bordering]] a [[b/_beach|beach]]**
 	- _Example: beachside property_
 ---
 ---

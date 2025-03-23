@@ -1,8 +1,8 @@
 # Daybooks
 ---
 #noun
-- **A [[daily]] [[chronicle]]; a diary.**
-- **([[bookkeeping]]) A ledger; an [[accounting]] journal.**
+- **A [[d/_daily|daily]] [[c/_chronicle|chronicle]]; a diary.**
+- **([[b/_bookkeeping|bookkeeping]]) A ledger; an [[a/_accounting|accounting]] journal.**
 - **A logbook.**
 ---
 ### Synonyms

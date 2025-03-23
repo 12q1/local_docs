@@ -1,6 +1,6 @@
 # Cablegrams
 ---
 #noun
-- **A telegram transmitted via a submarine [[cable]].**
+- **A telegram transmitted via a submarine [[c/_cable|cable]].**
 ---
 ---

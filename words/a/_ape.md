@@ -1,13 +1,13 @@
 # Ape
 ---
 #noun
-- **A primate of the [[clade]] Hominoidea, generally larger than monkeys and distinguished from them by having no tail.**
-- **Any such primate other than a human.**
+- **A primate of the [[c/_clade|clade]] Hominoidea, generally larger than monkeys and distinguished from them by having no tail.**
+- **[[a/_any|Any]] such primate other than a human.**
 - **An uncivilised person.**
-- **One who [[apes]]; a foolish imitator.**
+- **One who [[a/_apes|apes]]; a foolish imitator.**
 ---
 #verb
-- **To [[behave]] like an [[ape]].**
+- **To [[b/_behave|behave]] like an [[a/_ape|ape]].**
 - **To imitate or mimic, particularly to imitate poorly.**
 ---
 ---

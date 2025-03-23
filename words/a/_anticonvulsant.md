@@ -1,9 +1,9 @@
 # Anticonvulsant
 ---
 #noun
-- **An [[agent]] that prevents, stops, or lessens [[convulsions]].**
+- **An [[a/_agent|agent]] that prevents, stops, or lessens [[c/_convulsions|convulsions]].**
 ---
 #adjective
-- **(pharmaceutical effect) Acting as an [[anticonvulsant]].**
+- **(pharmaceutical effect) [[a/_acting|Acting]] as an [[a/_anticonvulsant|anticonvulsant]].**
 ---
 ---

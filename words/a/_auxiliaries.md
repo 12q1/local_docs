@@ -1,9 +1,9 @@
 # Auxiliaries
 ---
 #noun
-- **A person or group that [[acts]] in an [[auxiliary]] manner.**
+- **A person or group that [[a/_acts|acts]] in an [[a/_auxiliary|auxiliary]] manner.**
 - **A sailing vessel equipped with an engine.**
-- **(grammar) An [[auxiliary]] verb.**
-- **A marching [[band]] colorguard.**
+- **(grammar) An [[a/_auxiliary|auxiliary]] verb.**
+- **A marching [[b/_band|band]] colorguard.**
 ---
 ---

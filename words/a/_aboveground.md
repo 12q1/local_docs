@@ -1,6 +1,6 @@
 # Aboveground
 ---
 #adjective
-- **Alternative spelling of [[above]] ground**
+- **[[a/_alternative|Alternative]] spelling of [[a/_above|above]] ground**
 ---
 ---

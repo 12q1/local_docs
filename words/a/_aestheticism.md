@@ -1,6 +1,6 @@
 # Aestheticism
 ---
 #noun
-- **A doctrine which holds [[aesthetics]] or [[beauty]] as the highest ideal or most [[basic]] standard.**
+- **A doctrine which holds [[a/_aesthetics|aesthetics]] or [[b/_beauty|beauty]] as the highest ideal or most [[b/_basic|basic]] standard.**
 ---
 ---

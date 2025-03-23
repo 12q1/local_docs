@@ -4,7 +4,7 @@
 - **(of a sound or syllable) unstressed**
 - **Not having tone (pitch)**
 - **Lacking muscle tone.**
-- **Characterized by [[atony]], or want of vital energy.**
+- **[[c/_characterized|Characterized]] by [[a/_atony|atony]], or want of vital energy.**
 	- _Example: an atonic disease_
 ---
 ---

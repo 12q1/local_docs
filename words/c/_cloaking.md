@@ -1,13 +1,13 @@
 # Cloaking
 ---
 #verb
-- **To [[cover]] as with a [[cloak]].**
-- **To hide or [[conceal]].**
-- **To render or [[become]] invisible via futuristic technology.**
+- **To [[c/_cover|cover]] as with a [[c/_cloak|cloak]].**
+- **To hide or [[c/_conceal|conceal]].**
+- **To render or [[b/_become|become]] invisible via futuristic technology.**
 	- _Example: The ship cloaked before entering the enemy sector of space._
 ---
 #noun
-- **The [[act]] of wrapping or [[covering]] with a [[cloak]].**
-- **The material from which [[cloaks]] are made.**
+- **The [[a/_act|act]] of wrapping or [[c/_covering|covering]] with a [[c/_cloak|cloak]].**
+- **The material from which [[c/_cloaks|cloaks]] are made.**
 ---
 ---

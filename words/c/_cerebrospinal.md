@@ -1,7 +1,7 @@
 # Cerebrospinal
 ---
 #adjective
-- **Of or pertaining to [[brain]] or spine (particularly the spinal [[cord]]).**
+- **Of or pertaining to [[b/_brain|brain]] or spine (particularly the spinal [[c/_cord|cord]]).**
 	- _Example: There was an infection of the cerebrospinal fluid._
 ---
 ---

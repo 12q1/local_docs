@@ -2,17 +2,17 @@
 ---
 #noun
 - **Mutual good, shared by more than one.**
-- **A tract of land in [[common]] ownership; [[common]] land.**
-- **The people; the [[community]].**
-- **The right of taking a profit in the land of [[another]], in [[common]] either with the owner or with other persons; so [[called]] from the [[community]] of interest which [[arises]] [[between]] the [[claimant]] of the right and the owner of the soil, or [[between]] the [[claimants]] and other [[commoners]] entitled to the same right.**
+- **A tract of land in [[c/_common|common]] ownership; [[c/_common|common]] land.**
+- **The people; the [[c/_community|community]].**
+- **The right of taking a profit in the land of [[a/_another|another]], in [[c/_common|common]] either with the owner or with other persons; so [[c/_called|called]] from the [[c/_community|community]] of interest which [[a/_arises|arises]] [[b/_between|between]] the [[c/_claimant|claimant]] of the right and the owner of the soil, or [[b/_between|between]] the [[c/_claimants|claimants]] and other [[c/_commoners|commoners]] entitled to the same right.**
 ---
 #verb
-- **To [[communicate]] (something).**
-- **To [[converse]], talk.**
+- **To [[c/_communicate|communicate]] (something).**
+- **To [[c/_converse|converse]], talk.**
 - **To have sex.**
 - **To participate.**
-- **To have a joint right with others in [[common]] ground.**
-- **To [[board]] together; to eat at a table in [[common]].**
+- **To have a joint right with others in [[c/_common|common]] ground.**
+- **To [[b/_board|board]] together; to eat at a table in [[c/_common|common]].**
 ---
 #adjective
 - **Mutual; shared by more than one.**
@@ -22,9 +22,9 @@
 - **Found in large numbers or in a large quantity; usual.**
 	- _Example: It differs from the common blackbird in the size of its beak._
 - **Simple, ordinary or vulgar.**
-- **(grammar) In some languages, particularly Germanic languages, of the gender originating from the [[coalescence]] of the masculine and feminine [[categories]] of nouns.**
-- **(grammar) Of or pertaining to [[common]] nouns as opposed to proper nouns.**
-- **Vernacular, referring to the name of a kind of plant or [[animal]], i.e., [[common]] name vs. scientific name.**
+- **(grammar) In some languages, particularly Germanic languages, of the gender originating from the [[c/_coalescence|coalescence]] of the masculine and feminine [[c/_categories|categories]] of nouns.**
+- **(grammar) Of or pertaining to [[c/_common|common]] nouns as opposed to proper nouns.**
+- **Vernacular, referring to the name of a kind of plant or [[a/_animal|animal]], i.e., [[c/_common|common]] name vs. scientific name.**
 - **Profane; polluted.**
 - **Given to lewd habits; prostitute.**
 ---

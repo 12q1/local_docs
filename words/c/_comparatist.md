@@ -1,6 +1,6 @@
 # Comparatist
 ---
 #noun
-- **A person who [[carries]] out a [[comparative]] study, especially of language and literary works**
+- **A person who [[c/_carries|carries]] out a [[c/_comparative|comparative]] study, especially of language and literary works**
 ---
 ---

@@ -1,7 +1,7 @@
 # Astonishingly
 ---
 #adverb
-- **In an [[astonishing]] manner; so as to surprise or [[astonish]].**
+- **In an [[a/_astonishing|astonishing]] manner; so as to surprise or [[a/_astonish|astonish]].**
 - **Very; remarkably used as an intensifier.**
 	- _Example: The advertisements made the place look promising, but the food was astonishingly bad._
 ---

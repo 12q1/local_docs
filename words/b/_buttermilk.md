@@ -1,7 +1,7 @@
 # Buttermilk
 ---
 #noun
-- **The liquid left over [[after]] producing [[butter]] from full [[cream]] milk by the [[churning]] process, [[also]] [[called]] traditional [[buttermilk]].**
-- **Cultured [[buttermilk]], a fermented [[dairy]] product produced from [[cow]]'s milk, with a [[characteristically]] sour taste.**
+- **The liquid left over [[a/_after|after]] producing [[b/_butter|butter]] from full [[c/_cream|cream]] milk by the [[c/_churning|churning]] process, [[a/_also|also]] [[c/_called|called]] traditional [[b/_buttermilk|buttermilk]].**
+- **[[c/_cultured|Cultured]] [[b/_buttermilk|buttermilk]], a fermented [[d/_dairy|dairy]] product produced from [[c/_cow|cow]]'s milk, with a [[c/_characteristically|characteristically]] sour taste.**
 ---
 ---

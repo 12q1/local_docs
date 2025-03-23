@@ -1,6 +1,6 @@
 # Dapping
 ---
 #verb
-- **To greet with a [[dap]].**
+- **To greet with a [[d/_dap|dap]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bedsitter
 ---
 #noun
-- **Bedsit**
+- **[[b/_bedsit|Bedsit]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Alchemic
 ---
 #adjective
-- **Alchemical**
+- **[[a/_alchemical|Alchemical]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Acriflavine
 ---
 #noun
-- **An [[antimicrobial]] flavonoid dye [[derived]] from [[acridine]]**
+- **An [[a/_antimicrobial|antimicrobial]] flavonoid dye [[d/_derived|derived]] from [[a/_acridine|acridine]]**
 ---
 ---

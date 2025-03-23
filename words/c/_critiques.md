@@ -1,11 +1,11 @@
 # Critiques
 ---
 #noun
-- **The [[art]] of [[criticism]].**
-- **An essay in which [[another]] piece of work is [[criticised]], reviewed, etc.**
-- **A point made to [[criticize]] something.**
+- **The [[a/_art|art]] of [[c/_criticism|criticism]].**
+- **An essay in which [[a/_another|another]] piece of work is [[c/_criticised|criticised]], reviewed, etc.**
+- **A point made to [[c/_criticize|criticize]] something.**
 	- _Example: Bob liked most of my presentation, but offered three minor critiques._
-- **A [[critic]]; one who [[criticises]].**
+- **A [[c/_critic|critic]]; one who [[c/_criticises|criticises]].**
 ---
 #verb
 - **To review something.**

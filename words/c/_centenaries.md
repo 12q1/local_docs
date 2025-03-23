@@ -1,6 +1,6 @@
 # Centenaries
 ---
 #noun
-- **The hundredth [[anniversary]] of an event or happening.**
+- **The hundredth [[a/_anniversary|anniversary]] of an event or happening.**
 ---
 ---

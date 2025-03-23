@@ -1,6 +1,6 @@
 # Chron
 ---
 #noun
-- **A period of time [[between]] two geomagnetic reversals.**
+- **A period of time [[b/_between|between]] two geomagnetic reversals.**
 ---
 ---

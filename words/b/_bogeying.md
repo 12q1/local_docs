@@ -1,9 +1,9 @@
 # Bogeying
 ---
 #verb
-- **To make a [[bogey]].**
+- **To make a [[b/_bogey|bogey]].**
 ---
 #verb
-- **To swim; to [[bathe]].**
+- **To swim; to [[b/_bathe|bathe]].**
 ---
 ---

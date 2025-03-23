@@ -1,6 +1,6 @@
 # Deforests
 ---
 #verb
-- **To [[clear]] (an [[area]]) of forest.**
+- **To [[c/_clear|clear]] (an [[a/_area|area]]) of forest.**
 ---
 ---

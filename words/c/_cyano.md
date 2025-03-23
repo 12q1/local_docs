@@ -1,6 +1,6 @@
 # Cyano
 ---
 #noun
-- **(especially in [[combination]]) a univalent functional group, -CN, [[consisting]] of a [[carbon]] and a nitrogen [[atom]] joined with a triple [[bond]]; organic [[compounds]] [[containing]] a [[cyano]] group are nitriles**
+- **(especially in [[c/_combination|combination]]) a univalent functional group, -CN, [[c/_consisting|consisting]] of a [[c/_carbon|carbon]] and a nitrogen [[a/_atom|atom]] joined with a triple [[b/_bond|bond]]; organic [[c/_compounds|compounds]] [[c/_containing|containing]] a [[c/_cyano|cyano]] group are nitriles**
 ---
 ---

@@ -1,6 +1,6 @@
 # Centromere
 ---
 #noun
-- **The [[central]] region of a eukaryotic [[chromosome]] where the kinetochore is [[assembled]].**
+- **The [[c/_central|central]] region of a eukaryotic [[c/_chromosome|chromosome]] where the kinetochore is [[a/_assembled|assembled]].**
 ---
 ---

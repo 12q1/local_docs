@@ -1,8 +1,8 @@
 # Courtier
 ---
 #noun
-- **A person in [[attendance]] at a royal [[court]].**
+- **A person in [[a/_attendance|attendance]] at a royal [[c/_court|court]].**
 - **A person who flatters in order to seek favour.**
-- **Any of various nymphalid [[butterflies]] of the Asian genus Sephisa.**
+- **[[a/_any|Any]] of various nymphalid [[b/_butterflies|butterflies]] of the [[a/_asian|Asian]] genus Sephisa.**
 ---
 ---

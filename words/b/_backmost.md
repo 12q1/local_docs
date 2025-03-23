@@ -1,6 +1,6 @@
 # Backmost
 ---
 #adjective
-- **Farthest [[back]]**
+- **Farthest [[b/_back|back]]**
 ---
 ---

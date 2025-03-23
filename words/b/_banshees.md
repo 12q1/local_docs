@@ -1,7 +1,7 @@
 # Banshees
 ---
 #noun
-- **(Irish folklore) A female spirit, usually taking the form of a woman whose mournful wailing warns of an impending [[death]].**
+- **(Irish folklore) A female spirit, usually taking the form of a woman whose mournful wailing warns of an impending [[d/_death|death]].**
 - **A noisy or ill-tempered woman.**
 ---
 ---

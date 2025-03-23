@@ -1,6 +1,6 @@
 # Coley
 ---
 #noun
-- **Coalfish, Pollachius virens**
+- **[[c/_coalfish|Coalfish]], Pollachius virens**
 ---
 ---

@@ -1,9 +1,9 @@
 # Coerces
 ---
 #verb
-- **To restrain by force, especially by law or [[authority]]; to repress; to [[curb]].**
-- **To use force, threat, fraud, or intimidation in an [[attempt]] to [[compel]] one to [[act]] [[against]] their will.**
-- **To force an [[attribute]], normally of a [[data]] type, to take on the [[attribute]] of [[another]] [[data]] type.**
+- **To restrain by force, especially by law or [[a/_authority|authority]]; to repress; to [[c/_curb|curb]].**
+- **To use force, threat, fraud, or intimidation in an [[a/_attempt|attempt]] to [[c/_compel|compel]] one to [[a/_act|act]] [[a/_against|against]] their will.**
+- **To force an [[a/_attribute|attribute]], normally of a [[d/_data|data]] type, to take on the [[a/_attribute|attribute]] of [[a/_another|another]] [[d/_data|data]] type.**
 ---
 ### Synonyms
 - [[bully]], [[compel]], [[dragoon]]

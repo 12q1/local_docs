@@ -1,6 +1,6 @@
 # Bummalo
 ---
 #noun
-- **Bombay duck (flesh of the edible lizardfish)**
+- **[[b/_bombay|Bombay]] duck (flesh of the edible lizardfish)**
 ---
 ---

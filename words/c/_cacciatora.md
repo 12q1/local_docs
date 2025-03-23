@@ -1,7 +1,7 @@
 # Cacciatora
 ---
 #noun
-- **A style of [[cooking]] in which meat is [[cooked]] in a sauce [[containing]] mushrooms, shallots, tomatoes, white wine and herbs.**
+- **A style of [[c/_cooking|cooking]] in which meat is [[c/_cooked|cooked]] in a sauce [[c/_containing|containing]] mushrooms, shallots, tomatoes, white wine and herbs.**
 ---
 ### Synonyms
 - [[chasseur]]

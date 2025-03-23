@@ -1,6 +1,6 @@
 # Coiffing
 ---
 #verb
-- **To style or [[arrange]] hair.**
+- **To style or [[a/_arrange|arrange]] hair.**
 ---
 ---

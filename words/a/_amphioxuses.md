@@ -1,6 +1,6 @@
 # Amphioxuses
 ---
 #noun
-- **The lancelet, particularly of the genus Branchiostoma.**
+- **The lancelet, particularly of the genus [[b/_branchiostoma|Branchiostoma]].**
 ---
 ---

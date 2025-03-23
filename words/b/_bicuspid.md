@@ -1,7 +1,7 @@
 # Bicuspid
 ---
 #noun
-- **A tooth with two [[cusps]]; a premolar tooth.**
+- **A tooth with two [[c/_cusps|cusps]]; a premolar tooth.**
 ---
 ### Synonyms
 - [[premolar]]

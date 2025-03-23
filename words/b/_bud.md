@@ -1,27 +1,27 @@
 # Bud
 ---
 #noun
-- **A newly sprouted leaf or [[blossom]] that has not yet unfolded.**
+- **A newly sprouted leaf or [[b/_blossom|blossom]] that has not yet unfolded.**
 	- _Example: After a long, cold winter, the trees finally began to produce buds._
-- **Something that has [[begun]] to develop.**
+- **Something that has [[b/_begun|begun]] to develop.**
 	- _Example: breast buds_
-- **A small rounded [[body]] in the process of splitting from an organism, which may grow into a genetically identical new organism.**
+- **A small rounded [[b/_body|body]] in the process of splitting from an organism, which may grow into a genetically identical new organism.**
 	- _Example: In this slide, you can see a yeast cell forming buds._
-- **(usually uncountable) Potent [[cannabis]] taken from the flowering part of the plant (the “[[bud]]”), or marijuana generally.**
+- **(usually uncountable) Potent [[c/_cannabis|cannabis]] taken from the flowering part of the plant (the “[[b/_bud|bud]]”), or marijuana generally.**
 	- _Example: Hey bro, want to smoke some bud?_
-- **A weaned [[calf]] in its first year, so [[called]] [[because]] the horns are then [[beginning]] to [[bud]].**
+- **A weaned [[c/_calf|calf]] in its first year, so [[c/_called|called]] [[b/_because|because]] the horns are then [[b/_beginning|beginning]] to [[b/_bud|bud]].**
 - **(term of endearment) A pretty young girl.**
 ---
 ### Synonyms
 - [[budset]], [[marijuana]], [[nug]]
 #verb
-- **To form [[buds]].**
+- **To form [[b/_buds|buds]].**
 	- _Example: The trees are finally starting to bud._
-- **To reproduce by splitting off [[buds]].**
+- **To reproduce by splitting off [[b/_buds|buds]].**
 	- _Example: Yeast reproduces by budding._
-- **To [[begin]] to grow, or to issue from a stock in the manner of a [[bud]], as a horn.**
-- **To be like a [[bud]] in respect to youth and freshness, or growth and promise.**
-- **To put forth as a [[bud]].**
-- **To graft by inserting a [[bud]] under the [[bark]] of [[another]] tree.**
+- **To [[b/_begin|begin]] to grow, or to issue from a stock in the manner of a [[b/_bud|bud]], as a horn.**
+- **To be like a [[b/_bud|bud]] in respect to youth and freshness, or growth and promise.**
+- **To put forth as a [[b/_bud|bud]].**
+- **To graft by inserting a [[b/_bud|bud]] under the [[b/_bark|bark]] of [[a/_another|another]] tree.**
 ---
 ---

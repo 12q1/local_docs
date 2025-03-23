@@ -1,6 +1,6 @@
 # Balletomanes
 ---
 #noun
-- **A [[ballet]] enthusiast.**
+- **A [[b/_ballet|ballet]] enthusiast.**
 ---
 ---

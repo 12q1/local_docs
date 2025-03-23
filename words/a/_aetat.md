@@ -1,6 +1,6 @@
 # Aetat
 ---
 #adjective
-- **Aged; at the [[age]] of.**
+- **[[a/_aged|Aged]]; at the [[a/_age|age]] of.**
 ---
 ---

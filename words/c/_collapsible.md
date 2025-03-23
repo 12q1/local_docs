@@ -1,6 +1,6 @@
 # Collapsible
 ---
 #adjective
-- **That [[can]] be [[collapsed]].**
+- **That [[c/_can|can]] be [[c/_collapsed|collapsed]].**
 ---
 ---

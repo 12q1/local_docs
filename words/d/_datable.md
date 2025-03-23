@@ -1,8 +1,8 @@
 # Datable
 ---
 #adjective
-- **That may be [[ascribed]] a [[date]] or [[age]].**
-- **Suitable for [[dating]] (romantic outings).**
+- **That may be [[a/_ascribed|ascribed]] a [[d/_date|date]] or [[a/_age|age]].**
+- **Suitable for [[d/_dating|dating]] (romantic outings).**
 ---
 ### Synonyms
 - [[attractive]]

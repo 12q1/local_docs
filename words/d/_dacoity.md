@@ -1,7 +1,7 @@
 # Dacoity
 ---
 #noun
-- **Violent robbery [[carried]] out by a [[dacoit]] or a gang of [[dacoits]].**
+- **Violent robbery [[c/_carried|carried]] out by a [[d/_dacoit|dacoit]] or a gang of [[d/_dacoits|dacoits]].**
 ---
 ### Synonyms
 - [[dacoitage]]

@@ -1,6 +1,6 @@
 # Cannibalistic
 ---
 #adjective
-- **Tending toward [[cannibalism]].**
+- **Tending toward [[c/_cannibalism|cannibalism]].**
 ---
 ---

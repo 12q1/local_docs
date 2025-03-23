@@ -1,6 +1,6 @@
 # Carmakers
 ---
 #noun
-- **A [[company]] that manufactures [[automobiles]].**
+- **A [[c/_company|company]] that manufactures [[a/_automobiles|automobiles]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Atheistical
 ---
 #adjective
-- **Of or relating to [[atheism]]; [[atheistic]].**
+- **Of or relating to [[a/_atheism|atheism]]; [[a/_atheistic|atheistic]].**
 ---
 ### Synonyms
 - [[atheistic]]

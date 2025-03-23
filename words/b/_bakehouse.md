@@ -1,8 +1,8 @@
 # Bakehouse
 ---
 #noun
-- **A [[building]] or an [[apartment]] used for the preparing and [[baking]] of [[bread]] and other [[baked]] goods.**
-- **A [[building]] principally [[containing]] ovens.**
-- **Bakery.**
+- **A [[b/_building|building]] or an [[a/_apartment|apartment]] used for the preparing and [[b/_baking|baking]] of [[b/_bread|bread]] and other [[b/_baked|baked]] goods.**
+- **A [[b/_building|building]] principally [[c/_containing|containing]] ovens.**
+- **[[b/_bakery|Bakery]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Derriere
 ---
 #noun
-- **([[chiefly]] humorous) [[bottom]], [[bum]]**
+- **([[c/_chiefly|chiefly]] humorous) [[b/_bottom|bottom]], [[b/_bum|bum]]**
 ---
 ---

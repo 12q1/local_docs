@@ -1,6 +1,6 @@
 # Boatbuilding
 ---
 #noun
-- **The [[construction]] of a [[boat]] or [[boats]].**
+- **The [[c/_construction|construction]] of a [[b/_boat|boat]] or [[b/_boats|boats]].**
 ---
 ---

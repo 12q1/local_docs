@@ -5,6 +5,6 @@
 - **(of men) To have homosexual sex in a public lavatory; to practice cottaging.**
 ---
 #adjective
-- **Filled with or having [[cottages]].**
+- **Filled with or having [[c/_cottages|cottages]].**
 ---
 ---

@@ -1,19 +1,19 @@
 # Butterfly
 ---
 #noun
-- **A flying insect of the order Lepidoptera, distinguished from moths by their diurnal [[activity]] and generally [[brighter]] [[colouring]].**
-- **A use of surgical tape, [[cut]] into thin strips and placed [[across]] an open wound to hold it [[closed]].**
+- **A flying insect of the order Lepidoptera, distinguished from moths by their diurnal [[a/_activity|activity]] and generally [[b/_brighter|brighter]] [[c/_colouring|colouring]].**
+- **A use of surgical tape, [[c/_cut|cut]] into thin strips and placed [[a/_across|across]] an open wound to hold it [[c/_closed|closed]].**
 	- _Example: butterfly tape_
-- **The [[butterfly]] stroke.**
-- **(in plural) A sensation of excited [[anxiety]] felt in the stomach.**
+- **The [[b/_butterfly|butterfly]] stroke.**
+- **(in plural) A sensation of excited [[a/_anxiety|anxiety]] felt in the stomach.**
 	- _Example: I get terrible butterflies before an exam._
-- **Someone seen as [[being]] unserious and (originally) dressed gaudily; someone flighty and unreliable.**
+- **Someone seen as [[b/_being|being]] unserious and (originally) dressed gaudily; someone flighty and unreliable.**
 ---
 ### Synonyms
 - [[lep]]
 #verb
-- **To [[cut]] (food) [[almost]] entirely in half and spread the halves [[apart]], in a shape suggesting the wings of a [[butterfly]].**
+- **To [[c/_cut|cut]] (food) [[a/_almost|almost]] entirely in half and spread the halves [[a/_apart|apart]], in a shape suggesting the wings of a [[b/_butterfly|butterfly]].**
 	- _Example: Butterfly the chicken before you grill it._
-- **To [[cut]] strips of surgical tape or plasters into thin strips, and place [[across]] (a gaping wound) to [[close]] it.**
+- **To [[c/_cut|cut]] strips of surgical tape or plasters into thin strips, and place [[a/_across|across]] (a gaping wound) to [[c/_close|close]] it.**
 ---
 ---

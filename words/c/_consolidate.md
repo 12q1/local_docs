@@ -1,12 +1,12 @@
 # Consolidate
 ---
 #verb
-- **To [[combine]] into a single unit; to group together or join.**
+- **To [[c/_combine|combine]] into a single unit; to group together or join.**
 	- _Example: He consolidated his luggage into a single large bag._
 - **To make stronger or more solid.**
-- **To pay off several [[debts]] with a single loan.**
+- **To pay off several [[d/_debts|debts]] with a single loan.**
 ---
 #adjective
-- **Formed into a solid mass; made firm; [[consolidated]].**
+- **Formed into a solid mass; made firm; [[c/_consolidated|consolidated]].**
 ---
 ---

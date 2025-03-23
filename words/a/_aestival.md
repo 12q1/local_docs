@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Of or relating to summer.**
-- **Coming forth in the summer.**
+- **[[c/_coming|Coming]] forth in the summer.**
 ---
 ### Synonyms
 - [[summer]], [[summery]]

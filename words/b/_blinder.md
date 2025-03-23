@@ -1,41 +1,41 @@
 # Blinder
 ---
 #adjective
-- **(of a person or [[animal]]) Unable to see, due to physiological or neurological factors.**
+- **(of a person or [[a/_animal|animal]]) Unable to see, due to physiological or neurological factors.**
 - **(of an eye) Unable to be used to see, due to physiological or neurological factors.**
-- **Failing to see, [[acknowledge]], perceive.**
+- **Failing to see, [[a/_acknowledge|acknowledge]], perceive.**
 	- _Example: Authors are blind to their own defects._
 - **Of a place, having little or no visibility.**
 	- _Example: a blind corner_
-- **Closed at one end; having a [[dead]] end**
+- **[[c/_closed|Closed]] at one end; having a [[d/_dead|dead]] end**
 	- _Example: a blind gut_
 - **Having no openings for light or passage.**
 	- _Example: a blind alley_
-- **(in [[certain]] phrases) Smallest or slightest.**
+- **(in [[c/_certain|certain]] phrases) Smallest or slightest.**
 	- _Example: I shouted, but he didn't take a blind bit of notice._
-- **Without [[any]] prior knowledge.**
+- **Without [[a/_any|any]] prior knowledge.**
 	- _Example: He took a blind guess at which fork in the road would take him to the airport._
-- **Unconditional; without regard to evidence, logic, reality, [[accidental]] mistakes, extenuating [[circumstances]], etc.**
+- **Unconditional; without regard to evidence, logic, reality, [[a/_accidental|accidental]] mistakes, extenuating [[c/_circumstances|circumstances]], etc.**
 	- _Example: blind deference_
 - **Unintelligible or illegible.**
 	- _Example: a blind passage in a book; blind writing_
-- **Abortive; failing to produce flowers or fruit.**
+- **[[a/_abortive|Abortive]]; failing to produce flowers or fruit.**
 	- _Example: blind buds_
 ---
 ### Antonyms
 - [[seeing]], [[sighted]]
 #noun
-- **Something that [[blinds]].**
-- **A [[bag]] or [[cloth]] put over the head of a difficult horse while it is [[being]] handled or mounted.**
-- **A screen [[attached]] to a horse's [[bridle]] preventing it from [[being]] [[able]] to see things to its side.**
+- **Something that [[b/_blinds|blinds]].**
+- **A [[b/_bag|bag]] or [[c/_cloth|cloth]] put over the head of a difficult horse while it is [[b/_being|being]] handled or mounted.**
+- **A screen [[a/_attached|attached]] to a horse's [[b/_bridle|bridle]] preventing it from [[b/_being|being]] [[a/_able|able]] to see things to its side.**
 - **An exceptional performance.**
 	- _Example: He played a blinder this afternoon on the cricket ground._
-- **A [[bout]] of heavy drinking, a [[bender]].**
+- **A [[b/_bout|bout]] of heavy drinking, a [[b/_bender|bender]].**
 ---
 ### Synonyms
 - [[cracker]], [[blinker]], [[winker]]
 #verb
-- **To fit (a horse) with [[blinders]].**
+- **To fit (a horse) with [[b/_blinders|blinders]].**
 - **(by extension) To obstruct the vision of.**
 ---
 ---

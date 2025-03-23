@@ -1,8 +1,8 @@
 # Cursory
 ---
 #adjective
-- **Hasty; superficial; [[careless]]**
+- **Hasty; superficial; [[c/_careless|careless]]**
 	- _Example: Most junk mail requires only a cursory glance._
-- **Running [[about]]; not stationary.**
+- **Running [[a/_about|about]]; not stationary.**
 ---
 ---

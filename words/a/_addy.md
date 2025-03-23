@@ -1,7 +1,7 @@
 # Addy
 ---
 #noun
-- **Address (especially e-mail [[address]]).**
+- **[[a/_address|Address]] (especially e-mail [[a/_address|address]]).**
 	- _Example: My e-mail addy is being spammed. I should've kept it private._
 ---
 ---

@@ -1,8 +1,8 @@
 # Brightness
 ---
 #noun
-- **The quality of [[being]] [[bright]].**
+- **The quality of [[b/_being|being]] [[b/_bright|bright]].**
 - **The perceived luminance of an object.**
-- **Intelligence, [[cleverness]].**
+- **Intelligence, [[c/_cleverness|cleverness]].**
 ---
 ---

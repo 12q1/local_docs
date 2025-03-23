@@ -1,6 +1,6 @@
 # Clearskins
 ---
 #noun
-- **Cleanskin**
+- **[[c/_cleanskin|Cleanskin]]**
 ---
 ---

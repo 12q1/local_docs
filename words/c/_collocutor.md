@@ -1,6 +1,6 @@
 # Collocutor
 ---
 #noun
-- **Any of the people engaged in a [[conversation]]**
+- **[[a/_any|Any]] of the people engaged in a [[c/_conversation|conversation]]**
 ---
 ---

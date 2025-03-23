@@ -1,6 +1,6 @@
 # Bureaucratizing
 ---
 #verb
-- **To [[bring]] under the [[control]] of a [[bureaucracy]]; to make [[bureaucratic]].**
+- **To [[b/_bring|bring]] under the [[c/_control|control]] of a [[b/_bureaucracy|bureaucracy]]; to make [[b/_bureaucratic|bureaucratic]].**
 ---
 ---

@@ -1,12 +1,12 @@
 # Degauss
 ---
 #noun
-- **The [[act]] by which something is [[degaussed]].**
+- **The [[a/_act|act]] by which something is [[d/_degaussed|degaussed]].**
 ---
 ### Synonyms
 - [[deperm]]
 #verb
-- **To reduce or eliminate the magnetic field from (the hull of a ship, or a [[computer]] monitor, etc.).**
+- **To reduce or eliminate the magnetic field from (the hull of a ship, or a [[c/_computer|computer]] monitor, etc.).**
 ---
 ### Synonyms
 - [[deperm]], [[demagnetise]]

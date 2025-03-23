@@ -10,6 +10,6 @@
 ### Synonyms
 - [[burp]]
 #noun
-- **The [[act]] of producing a [[belch]].**
+- **The [[a/_act|act]] of producing a [[b/_belch|belch]].**
 ---
 ---

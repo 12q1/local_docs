@@ -1,18 +1,18 @@
 # Compromises
 ---
 #noun
-- **The settlement of differences by [[arbitration]] or by [[consent]] reached by mutual [[concessions]].**
-- **A [[committal]] to something [[derogatory]] or objectionable; a prejudicial [[concession]]; a surrender.**
+- **The settlement of differences by [[a/_arbitration|arbitration]] or by [[c/_consent|consent]] reached by mutual [[c/_concessions|concessions]].**
+- **A [[c/_committal|committal]] to something [[d/_derogatory|derogatory]] or objectionable; a prejudicial [[c/_concession|concession]]; a surrender.**
 	- _Example: a compromise of character or right_
-- **In [[data]] security, a violation of the security system such that an unauthorized disclosure or loss of sensitive information may have occurred, or the unauthorized disclosure or loss itself.**
+- **In [[d/_data|data]] security, a violation of the security system such that an unauthorized disclosure or loss of sensitive information may have occurred, or the unauthorized disclosure or loss itself.**
 ---
 #verb
-- **To [[bind]] by mutual [[agreement]].**
-- **To [[adjust]] and settle by mutual [[concessions]]; to [[compound]].**
-- **To find a way [[between]] extremes.**
-- **To pledge by some [[act]] or [[declaration]]; to endanger the life, reputation, etc., of, by some [[act]] which [[can]] not be recalled; to expose to suspicion.**
-- **To [[cause]] impairment of.**
-- **To [[breach]] (a security system).**
+- **To [[b/_bind|bind]] by mutual [[a/_agreement|agreement]].**
+- **To [[a/_adjust|adjust]] and settle by mutual [[c/_concessions|concessions]]; to [[c/_compound|compound]].**
+- **To find a way [[b/_between|between]] extremes.**
+- **To pledge by some [[a/_act|act]] or [[d/_declaration|declaration]]; to endanger the life, reputation, etc., of, by some [[a/_act|act]] which [[c/_can|can]] not be recalled; to expose to suspicion.**
+- **To [[c/_cause|cause]] impairment of.**
+- **To [[b/_breach|breach]] (a security system).**
 	- _Example: He tried to compromise the security in the computer by guessing the password._
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Babby
 ---
 #noun
-- **Baby (human infant).**
+- **[[b/_baby|Baby]] (human infant).**
 ---
 ---

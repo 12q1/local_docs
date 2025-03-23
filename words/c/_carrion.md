@@ -1,8 +1,8 @@
 # Carrion
 ---
 #noun
-- **Dead flesh; [[carcasses]].**
+- **[[d/_dead|Dead]] flesh; [[c/_carcasses|carcasses]].**
 	- _Example: Vultures feed on carrion._
-- **A [[contemptible]] or worthless person.**
+- **A [[c/_contemptible|contemptible]] or worthless person.**
 ---
 ---

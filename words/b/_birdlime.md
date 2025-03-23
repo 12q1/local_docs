@@ -1,10 +1,10 @@
 # Birdlime
 ---
 #noun
-- **A sticky substance smeared on [[branches]] to [[catch]] [[birds]].**
+- **A sticky substance smeared on [[b/_branches|branches]] to [[c/_catch|catch]] [[b/_birds|birds]].**
 - **(rhyming slang) Time; a jail term, the serving of a prison sentence.**
 ---
 #verb
-- **To [[add]] [[birdlime]] to.**
+- **To [[a/_add|add]] [[b/_birdlime|birdlime]] to.**
 ---
 ---

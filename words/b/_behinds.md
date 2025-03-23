@@ -1,10 +1,10 @@
 # Behinds
 ---
 #noun
-- **The rear, [[back]]-end**
-- **Butt, the [[buttocks]], [[bottom]]**
+- **The rear, [[b/_back|back]]-end**
+- **[[b/_butt|Butt]], the [[b/_buttocks|buttocks]], [[b/_bottom|bottom]]**
 - **A one-point score.**
-- **(1800s) The [[catcher]].**
-- **In the Eton College field game, [[any]] of a group of players [[consisting]] of two "shorts" (who try to kick the [[ball]] over the [[bully]]) and a "long" (who [[defends]] the goal).**
+- **(1800s) The [[c/_catcher|catcher]].**
+- **In the Eton [[c/_college|College]] field game, [[a/_any|any]] of a group of players [[c/_consisting|consisting]] of two "shorts" (who try to kick the [[b/_ball|ball]] over the [[b/_bully|bully]]) and a "long" (who [[d/_defends|defends]] the goal).**
 ---
 ---

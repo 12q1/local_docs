@@ -1,6 +1,6 @@
 # Confiscators
 ---
 #noun
-- **A person who [[confiscates]]**
+- **A person who [[c/_confiscates|confiscates]]**
 ---
 ---

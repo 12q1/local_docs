@@ -1,23 +1,23 @@
 # Casting
 ---
 #verb
-- **(physical) To move, or be moved, [[away]].**
+- **(physical) To move, or be moved, [[a/_away|away]].**
 - **To direct (one's eyes, gaze etc.).**
-- **To [[add]] up (a [[column]] of figures, [[accounts]] etc.); [[cross]]-[[cast]] refers to [[adding]] up a row of figures.**
-- **(social) To predict, to [[decide]], to plan.**
-- **To perform, [[bring]] forth (a magical spell or enchantment).**
+- **To [[a/_add|add]] up (a [[c/_column|column]] of figures, [[a/_accounts|accounts]] etc.); [[c/_cross|cross]]-[[c/_cast|cast]] refers to [[a/_adding|adding]] up a row of figures.**
+- **(social) To predict, to [[d/_decide|decide]], to plan.**
+- **To perform, [[b/_bring|bring]] forth (a magical spell or enchantment).**
 - **To throw (light etc.) on or upon something, or in a given direction.**
-- **To give [[birth]] to (a [[child]]) prematurely; to miscarry.**
+- **To give [[b/_birth|birth]] to (a [[c/_child|child]]) prematurely; to miscarry.**
 - **To shape (molten metal etc.) by pouring into a mould; to make (an object) in such a way.**
 - **To twist or warp (of fabric, timber etc.).**
-- **To [[bring]] the [[bows]] of a sailing ship on to the required tack just as the [[anchor]] is weighed by use of the headsail; to [[bring]] (a ship) round.**
-- **To [[deposit]] (a [[ballot]] or voting paper); to formally register (one's vote).**
-- **To [[change]] a variable type from, for example, integer to real, or integer to text.**
+- **To [[b/_bring|bring]] the [[b/_bows|bows]] of a sailing ship on to the required tack just as the [[a/_anchor|anchor]] is weighed by use of the headsail; to [[b/_bring|bring]] (a ship) round.**
+- **To [[d/_deposit|deposit]] (a [[b/_ballot|ballot]] or voting paper); to formally register (one's vote).**
+- **To [[c/_change|change]] a variable type from, for example, integer to real, or integer to text.**
 	- _Example: Casting is generally an indication of bad design._
 - **Of dogs, hunters: to spread out and search for a scent.**
-- **To set (a [[bone]] etc.) in a [[cast]].**
-- **To open a [[circle]] in order to [[begin]] a spell or meeting of witches.**
-- **To [[broadcast]].**
+- **To set (a [[b/_bone|bone]] etc.) in a [[c/_cast|cast]].**
+- **To open a [[c/_circle|circle]] in order to [[b/_begin|begin]] a spell or meeting of witches.**
+- **To [[b/_broadcast|broadcast]].**
 	- _Example: The streamer was the first to cast footage of the new game._
 ---
 ---

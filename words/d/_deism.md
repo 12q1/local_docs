@@ -1,7 +1,7 @@
 # Deism
 ---
 #noun
-- **A philosophical [[belief]] in the existence of a god (or goddess) knowable through human reason; especially, a [[belief]] in a [[creator]] god unaccompanied by [[any]] [[belief]] in supernatural phenomena or specific religious doctrines.**
-- **Belief in a god who [[ceased]] to intervene with existence [[after]] [[acting]] as the [[cause]] of the [[cosmos]].**
+- **A philosophical [[b/_belief|belief]] in the existence of a god (or goddess) knowable through human reason; especially, a [[b/_belief|belief]] in a [[c/_creator|creator]] god unaccompanied by [[a/_any|any]] [[b/_belief|belief]] in supernatural phenomena or specific religious doctrines.**
+- **[[b/_belief|Belief]] in a god who [[c/_ceased|ceased]] to intervene with existence [[a/_after|after]] [[a/_acting|acting]] as the [[c/_cause|cause]] of the [[c/_cosmos|cosmos]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Backcasts
 ---
 #verb
-- **To identify the [[actions]] required in order to reach a proposed future.**
-- **To [[change]] retrospectively; reverse.**
+- **To identify the [[a/_actions|actions]] required in order to reach a proposed future.**
+- **To [[c/_change|change]] retrospectively; reverse.**
 ---
 ---

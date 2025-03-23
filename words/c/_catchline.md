@@ -1,7 +1,7 @@
 # Catchline
 ---
 #noun
-- **A short line of text [[designed]] to [[catch]] the eye, especially one used as an [[advertising]] slogan.**
+- **A short line of text [[d/_designed|designed]] to [[c/_catch|catch]] the eye, especially one used as an [[a/_advertising|advertising]] slogan.**
 - **A temporary note at the top of a page or galley proof to identify it.**
 ---
 ---

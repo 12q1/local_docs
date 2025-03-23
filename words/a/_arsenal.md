@@ -1,10 +1,10 @@
 # Arsenal
 ---
 #noun
-- **A military establishment for the storing, development, manufacturing, testing, or repairing of [[arms]], [[ammunition]], and other war materiel; an [[armoury]].**
-- **A stock of weapons, especially [[all]] the weapons that a nation possesses.**
-- **A store or supply of [[anything]].**
-- **Any supply of [[aid]] [[collected]] to prepare a person or [[army]] for hardship**
+- **A military establishment for the storing, development, manufacturing, testing, or repairing of [[a/_arms|arms]], [[a/_ammunition|ammunition]], and other war materiel; an [[a/_armoury|armoury]].**
+- **A stock of weapons, especially [[a/_all|all]] the weapons that a nation possesses.**
+- **A store or supply of [[a/_anything|anything]].**
+- **[[a/_any|Any]] supply of [[a/_aid|aid]] [[c/_collected|collected]] to prepare a person or [[a/_army|army]] for hardship**
 	- _Example: He arrived with a large arsenal of cleansers and tools, and got right to work._
 ---
 ---

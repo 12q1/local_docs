@@ -1,7 +1,7 @@
 # Conducive
 ---
 #adjective
-- **Tending to [[contribute]] to, encourage, or [[bring]] [[about]] some result.**
+- **Tending to [[c/_contribute|contribute]] to, encourage, or [[b/_bring|bring]] [[a/_about|about]] some result.**
 	- _Example: A small, dark kitchen is not conducive to elaborate cooking._
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Astrantia
 ---
 #noun
-- **Any of the genus Astrantia of herbaceous plants.**
+- **[[a/_any|Any]] of the genus [[a/_astrantia|Astrantia]] of herbaceous plants.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Airlines
 ---
 #noun
-- **A [[company]] that flies [[airplanes]] to transport people and goods.**
+- **A [[c/_company|company]] that flies [[a/_airplanes|airplanes]] to transport people and goods.**
 ---
 ### Synonyms
 - [[air carrier]], [[airway]], [[airways]]

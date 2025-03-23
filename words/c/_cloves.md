@@ -1,14 +1,14 @@
 # Cloves
 ---
 #noun
-- **A very pungent [[aromatic]] spice, the unexpanded flower [[bud]] of the [[clove]] tree.**
-- **A [[clove]] tree, of the species Syzygium aromaticum (syn. Caryophyllus aromaticus), native to the Moluccas (Indonesian islands), which produces the spice.**
-- **An old English measure of weight, [[containing]] 7 pounds (3.2 kg), i.e. half a stone.**
+- **A very pungent [[a/_aromatic|aromatic]] spice, the unexpanded flower [[b/_bud|bud]] of the [[c/_clove|clove]] tree.**
+- **A [[c/_clove|clove]] tree, of the species Syzygium aromaticum (syn. [[c/_caryophyllus|Caryophyllus]] aromaticus), native to the Moluccas (Indonesian islands), which produces the spice.**
+- **An old English measure of weight, [[c/_containing|containing]] 7 pounds (3.2 kg), i.e. half a stone.**
 ---
 #noun
-- **Any one of the separate [[bulbs]] that make up the larger [[bulb]] of garlic.**
+- **[[a/_any|Any]] one of the separate [[b/_bulbs|bulbs]] that make up the larger [[b/_bulb|bulb]] of garlic.**
 ---
 #noun
-- **A narrow valley with steep sides, used in [[areas]] of North America first settled by the Dutch**
+- **A narrow valley with steep sides, used in [[a/_areas|areas]] of North [[a/_america|America]] first settled by the Dutch**
 ---
 ---

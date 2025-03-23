@@ -1,8 +1,8 @@
 # Censes
 ---
 #noun
-- **A [[census]].**
+- **A [[c/_census|census]].**
 - **A public rate or tax.**
-- **Condition; rank**
+- **[[c/_condition|Condition]]; rank**
 ---
 ---

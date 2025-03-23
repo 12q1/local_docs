@@ -1,6 +1,6 @@
 # Chromous
 ---
 #adjective
-- **Of, relating to, or [[containing]] [[chromium]], especially in oxidation state 2**
+- **Of, relating to, or [[c/_containing|containing]] [[c/_chromium|chromium]], especially in oxidation state 2**
 ---
 ---

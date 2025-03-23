@@ -1,50 +1,50 @@
 # Boult
 ---
 #noun
-- **A (usually) metal fastener [[consisting]] of a [[cylindrical]] [[body]] that is threaded, with a larger head on one end. It [[can]] be inserted into an unthreaded hole up to the head, with a nut then threaded on the other end; a heavy machine screw.**
-- **A sliding pin or [[bar]] in a lock or latch mechanism.**
-- **A [[bar]] of wood or metal dropped in horizontal hooks on a door and [[adjoining]] wall or [[between]] the two sides of a double door, to prevent the door(s) from [[being]] forced open.**
-- **A sliding mechanism to [[chamber]] and unchamber a [[cartridge]] in a firearm.**
-- **A small personal-[[armour]]-piercing missile for short-range use, or (in [[common]] usage though [[deprecated]] by experts) a short [[arrow]], intended to be shot from a [[crossbow]] or a [[catapult]].**
-- **A lightning spark, i.e., a lightning [[bolt]].**
-- **A sudden event, [[action]] or emotion.**
+- **A (usually) metal fastener [[c/_consisting|consisting]] of a [[c/_cylindrical|cylindrical]] [[b/_body|body]] that is threaded, with a larger head on one end. It [[c/_can|can]] be inserted into an unthreaded hole up to the head, with a nut then threaded on the other end; a heavy machine screw.**
+- **A sliding pin or [[b/_bar|bar]] in a lock or latch mechanism.**
+- **A [[b/_bar|bar]] of wood or metal dropped in horizontal hooks on a door and [[a/_adjoining|adjoining]] wall or [[b/_between|between]] the two sides of a double door, to prevent the door(s) from [[b/_being|being]] forced open.**
+- **A sliding mechanism to [[c/_chamber|chamber]] and unchamber a [[c/_cartridge|cartridge]] in a firearm.**
+- **A small personal-[[a/_armour|armour]]-piercing missile for short-range use, or (in [[c/_common|common]] usage though [[d/_deprecated|deprecated]] by experts) a short [[a/_arrow|arrow]], intended to be shot from a [[c/_crossbow|crossbow]] or a [[c/_catapult|catapult]].**
+- **A lightning spark, i.e., a lightning [[b/_bolt|bolt]].**
+- **A sudden event, [[a/_action|action]] or emotion.**
 	- _Example: The problem's solution struck him like a bolt from the blue._
-- **A large roll of fabric or similar material, as a [[bolt]] of [[cloth]].**
+- **A large roll of fabric or similar material, as a [[b/_bolt|bolt]] of [[c/_cloth|cloth]].**
 	- _Example: 24 March 1774 - Newspaper: Stamford Mercury - "Mr. Cole, Basket-maker...has lost near 300 boults of rods" https//www.britishnewspaperarchive.co.uk/viewer/bl/0000254/17740324/001/0001_
-- **A sudden spring or start; a sudden leap [[aside]].**
+- **A sudden spring or start; a sudden leap [[a/_aside|aside]].**
 	- _Example: The horse made a bolt._
-- **A sudden flight, as to escape [[creditors]].**
-- **A refusal to support a nomination made by the party with which one has [[been]] [[connected]]; a [[breaking]] [[away]] from one's party.**
+- **A sudden flight, as to escape [[c/_creditors|creditors]].**
+- **A refusal to support a nomination made by the party with which one has [[b/_been|been]] [[c/_connected|connected]]; a [[b/_breaking|breaking]] [[a/_away|away]] from one's party.**
 - **An iron to fasten the legs of a prisoner; a shackle; a fetter.**
-- **A [[burst]] of speed or efficiency.**
+- **A [[b/_burst|burst]] of speed or efficiency.**
 ---
 #verb
-- **To [[connect]] or [[assemble]] pieces using a [[bolt]].**
+- **To [[c/_connect|connect]] or [[a/_assemble|assemble]] pieces using a [[b/_bolt|bolt]].**
 	- _Example: Bolt the vice to the bench._
-- **To secure a door by locking or [[barring]] it.**
+- **To secure a door by locking or [[b/_barring|barring]] it.**
 	- _Example: Bolt the door._
-- **To flee, to [[depart]], to [[accelerate]] suddenly.**
+- **To flee, to [[d/_depart|depart]], to [[a/_accelerate|accelerate]] suddenly.**
 	- _Example: Seeing the snake, the horse bolted._
-- **To [[cause]] to start or spring forth; to dislodge (an [[animal]] [[being]] hunted).**
+- **To [[c/_cause|cause]] to start or spring forth; to dislodge (an [[a/_animal|animal]] [[b/_being|being]] hunted).**
 	- _Example: to bolt a rabbit_
-- **To strike or fall suddenly like a [[bolt]].**
+- **To strike or fall suddenly like a [[b/_bolt|bolt]].**
 - **To escape.**
 - **Of a plant, to grow quickly; to go to seed.**
 	- _Example: Lettuce and spinach will bolt as the weather warms up._
-- **To swallow food without [[chewing]] it.**
+- **To swallow food without [[c/_chewing|chewing]] it.**
 - **To drink one's drink very quickly; to down a drink.**
 	- _Example: Come on, everyone, bolt your drinks; I want to go to the next pub!_
-- **To refuse to support a nomination made by a party or [[caucus]] with which one has [[been]] [[connected]]; to [[break]] [[away]] from a party.**
-- **To utter precipitately; to [[blurt]] or throw out.**
+- **To refuse to support a nomination made by a party or [[c/_caucus|caucus]] with which one has [[b/_been|been]] [[c/_connected|connected]]; to [[b/_break|break]] [[a/_away|away]] from a party.**
+- **To utter precipitately; to [[b/_blurt|blurt]] or throw out.**
 ---
 #noun
-- **A sieve, especially a long fine sieve used in milling for [[bolting]] flour and meal; a [[bolter]].**
+- **A sieve, especially a long fine sieve used in milling for [[b/_bolting|bolting]] flour and meal; a [[b/_bolter|bolter]].**
 ---
 #verb
-- **To sift, especially through a [[cloth]].**
-- **To sift the [[bran]] and germ from wheat flour.**
+- **To sift, especially through a [[c/_cloth|cloth]].**
+- **To sift the [[b/_bran|bran]] and germ from wheat flour.**
 	- _Example: Graham flour is unbolted flour._
-- **To separate, [[assort]], refine, or purify by other means.**
-- **To discuss or [[argue]] privately, and for practice, as [[cases]] at law.**
+- **To separate, [[a/_assort|assort]], refine, or purify by other means.**
+- **To discuss or [[a/_argue|argue]] privately, and for practice, as [[c/_cases|cases]] at law.**
 ---
 ---

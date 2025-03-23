@@ -1,6 +1,6 @@
 # Coromandel
 ---
 #noun
-- **Calamander.**
+- **[[c/_calamander|Calamander]].**
 ---
 ---

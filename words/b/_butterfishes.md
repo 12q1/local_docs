@@ -1,6 +1,6 @@
 # Butterfishes
 ---
 #noun
-- **Any of various species of fish having a slippery mucous [[coating]], especially**
+- **[[a/_any|Any]] of various species of fish having a slippery mucous [[c/_coating|coating]], especially**
 ---
 ---

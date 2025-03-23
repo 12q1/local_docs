@@ -1,8 +1,8 @@
 # Conger
 ---
 #noun
-- **Any of several scaleless marine eels, of the genus Conger, found in [[coastal]] waters**
-- **A [[chain]] of [[booksellers]].**
+- **[[a/_any|Any]] of several scaleless marine eels, of the genus [[c/_conger|Conger]], found in [[c/_coastal|coastal]] waters**
+- **A [[c/_chain|chain]] of [[b/_booksellers|booksellers]].**
 ---
 ### Synonyms
 - [[conger eel]]

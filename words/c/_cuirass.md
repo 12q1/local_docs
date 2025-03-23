@@ -1,10 +1,10 @@
 # Cuirass
 ---
 #noun
-- **A piece of [[defensive]] [[armor]], [[covering]] the [[body]] from the neck to the girdle.**
-- **The [[breastplate]] taken by itself.**
+- **A piece of [[d/_defensive|defensive]] [[a/_armor|armor]], [[c/_covering|covering]] the [[b/_body|body]] from the neck to the girdle.**
+- **The [[b/_breastplate|breastplate]] taken by itself.**
 ---
 #verb
-- **To [[cover]] with [[defensive]] [[armor]]; to [[armor]]-plate.**
+- **To [[c/_cover|cover]] with [[d/_defensive|defensive]] [[a/_armor|armor]]; to [[a/_armor|armor]]-plate.**
 ---
 ---

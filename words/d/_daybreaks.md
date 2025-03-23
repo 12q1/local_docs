@@ -1,7 +1,7 @@
 # Daybreaks
 ---
 #noun
-- **Dawn.**
+- **[[d/_dawn|Dawn]].**
 ---
 ### Synonyms
 - [[break of dawn]], [[break of day]], [[crack of dawn]], [[sunrise]]

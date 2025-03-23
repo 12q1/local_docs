@@ -1,6 +1,6 @@
 # Abulia
 ---
 #noun
-- **Absence of willpower or [[decisiveness]], especially as a symptom of mental illness.**
+- **[[a/_absence|Absence]] of willpower or [[d/_decisiveness|decisiveness]], especially as a symptom of mental illness.**
 ---
 ---

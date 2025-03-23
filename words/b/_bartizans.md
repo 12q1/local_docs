@@ -1,6 +1,6 @@
 # Bartizans
 ---
 #noun
-- **A parapet with [[battlements]] projecting from the top of a tower in a [[castle]] or [[church]].**
+- **A parapet with [[b/_battlements|battlements]] projecting from the top of a tower in a [[c/_castle|castle]] or [[c/_church|church]].**
 ---
 ---

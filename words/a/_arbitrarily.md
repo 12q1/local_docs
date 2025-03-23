@@ -1,9 +1,9 @@
 # Arbitrarily
 ---
 #adverb
-- **In an [[arbitrary]] manner.**
+- **In an [[a/_arbitrary|arbitrary]] manner.**
 	- _Example: The winner was chosen arbitrarily._
-- **To an [[arbitrary]] [[degree]].**
+- **To an [[a/_arbitrary|arbitrary]] [[d/_degree|degree]].**
 	- _Example: an arbitrarily large number_
 ---
 ---

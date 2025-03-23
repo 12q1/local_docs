@@ -1,6 +1,6 @@
 # Carabids
 ---
 #noun
-- **Any of the family Carabidae, the ground [[beetles]].**
+- **[[a/_any|Any]] of the family [[c/_carabidae|Carabidae]], the ground [[b/_beetles|beetles]].**
 ---
 ---

@@ -1,12 +1,12 @@
 # Behold
 ---
 #verb
-- **To see or look at, esp. [[appreciatively]]; to [[descry]], look upon.**
+- **To see or look at, esp. [[a/_appreciatively|appreciatively]]; to [[d/_descry|descry]], look upon.**
 - **To look.**
-- **To [[contemplate]].**
+- **To [[c/_contemplate|contemplate]].**
 ---
 #interjection
-- **Look, a [[call]] of [[attention]] to something**
+- **Look, a [[c/_call|call]] of [[a/_attention|attention]] to something**
 - **Lo!**
 ---
 ---

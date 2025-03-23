@@ -1,12 +1,12 @@
 # Bottomless
 ---
 #adjective
-- **Having no [[bottom]].**
-- **Extremely [[deep]].**
-- **Having no [[bounds]]; limitless.**
+- **Having no [[b/_bottom|bottom]].**
+- **Extremely [[d/_deep|deep]].**
+- **Having no [[b/_bounds|bounds]]; limitless.**
 	- _Example: The restaurant offered bottomless drinks._
 - **Difficult to understand; unfathomable.**
-- **Not wearing [[clothes]] [[below]] the waist; particularly not wearing [[clothes]] that would [[cover]] the genitalia.**
+- **Not wearing [[c/_clothes|clothes]] [[b/_below|below]] the waist; particularly not wearing [[c/_clothes|clothes]] that would [[c/_cover|cover]] the genitalia.**
 ---
 ### Synonyms
 - [[boundless]], [[limitless]], [[unbottomed]], [[unbounded]]

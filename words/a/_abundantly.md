@@ -1,7 +1,7 @@
 # Abundantly
 ---
 #adverb
-- **In an [[abundant]] manner; in a sufficient [[degree]]; in large measure.**
+- **In an [[a/_abundant|abundant]] manner; in a sufficient [[d/_degree|degree]]; in large measure.**
 - **Extremely.**
 ---
 ### Synonyms

@@ -2,25 +2,25 @@
 ---
 #noun
 - **A network of interconnected systems.**
-- **A [[collection]] of [[buildings]] with a [[common]] purpose, such as a university or military [[base]].**
-- **An [[assemblage]] of related things; a [[collection]].**
-- **An [[abnormal]] mental [[condition]] [[caused]] by repressed emotions.**
+- **A [[c/_collection|collection]] of [[b/_buildings|buildings]] with a [[c/_common|common]] purpose, such as a university or military [[b/_base|base]].**
+- **An [[a/_assemblage|assemblage]] of related things; a [[c/_collection|collection]].**
+- **An [[a/_abnormal|abnormal]] mental [[c/_condition|condition]] [[c/_caused|caused]] by repressed emotions.**
 - **(by extension) A vehement, often excessive psychological dislike or fear of a particular thing.**
 	- _Example: Jim has a real complex about working for a woman boss._
-- **A structure [[consisting]] of a [[central]] [[atom]] or molecule weakly [[connected]] to surrounding [[atoms]] or molecules.**
-- **A [[complex]] number.**
+- **A structure [[c/_consisting|consisting]] of a [[c/_central|central]] [[a/_atom|atom]] or molecule weakly [[c/_connected|connected]] to surrounding [[a/_atoms|atoms]] or molecules.**
+- **A [[c/_complex|complex]] number.**
 ---
 #verb
-- **To form a [[complex]] with [[another]] substance**
-- **To [[complicate]].**
+- **To form a [[c/_complex|complex]] with [[a/_another|another]] substance**
+- **To [[c/_complicate|complicate]].**
 ---
 #adjective
-- **Made up of multiple parts; [[composite]]; not simple.**
-- **Not simple, easy, or straightforward; [[complicated]].**
-- **(of a number) Having the form a + [[bi]], where a and [[b]] are real numbers and i is (by [[definition]]) the imaginary square root of −1.**
-- **(of a function) Whose range is a subset of the [[complex]] numbers.**
-- **Whose [[coefficients]] are [[complex]] numbers; [[defined]] over the field of [[complex]] numbers.**
-- **A [[curve]], polygon or other figure that [[crosses]] or intersects itself.**
+- **Made up of multiple parts; [[c/_composite|composite]]; not simple.**
+- **Not simple, easy, or straightforward; [[c/_complicated|complicated]].**
+- **(of a number) Having the form a + [[b/_bi|bi]], where a and [[b/_b|b]] are real numbers and i is (by [[d/_definition|definition]]) the imaginary square root of −1.**
+- **(of a function) Whose range is a subset of the [[c/_complex|complex]] numbers.**
+- **Whose [[c/_coefficients|coefficients]] are [[c/_complex|complex]] numbers; [[d/_defined|defined]] over the field of [[c/_complex|complex]] numbers.**
+- **A [[c/_curve|curve]], polygon or other figure that [[c/_crosses|crosses]] or intersects itself.**
 ---
 ### Synonyms
 - [[complicated]], [[detailed]], [[difficult]], [[hard]], [[intricate]], [[involved]], [[tough]]

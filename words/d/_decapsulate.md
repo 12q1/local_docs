@@ -1,6 +1,6 @@
 # Decapsulate
 ---
 #verb
-- **To remove a [[capsule]] (especially from the kidney).**
+- **To remove a [[c/_capsule|capsule]] (especially from the kidney).**
 ---
 ---

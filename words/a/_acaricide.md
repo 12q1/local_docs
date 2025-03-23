@@ -1,6 +1,6 @@
 # Acaricide
 ---
 #noun
-- **Any substance which kills [[acarids]] (mites and ticks).**
+- **[[a/_any|Any]] substance which kills [[a/_acarids|acarids]] (mites and ticks).**
 ---
 ---

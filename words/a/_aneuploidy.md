@@ -1,6 +1,6 @@
 # Aneuploidy
 ---
 #noun
-- **The [[condition]] of [[being]] [[aneuploid]]; the state of possessing a [[chromosome]] number that is not an exact multiple of the haploid number of the organism in question.**
+- **The [[c/_condition|condition]] of [[b/_being|being]] [[a/_aneuploid|aneuploid]]; the state of possessing a [[c/_chromosome|chromosome]] number that is not an exact multiple of the haploid number of the organism in question.**
 ---
 ---

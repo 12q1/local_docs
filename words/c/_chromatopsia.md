@@ -1,6 +1,6 @@
 # Chromatopsia
 ---
 #noun
-- **A visual [[aberration]] in which objects [[appear]] [[abnormally]] [[coloured]], such as xanthopsia or [[cyanopia]].**
+- **A visual [[a/_aberration|aberration]] in which objects [[a/_appear|appear]] [[a/_abnormally|abnormally]] [[c/_coloured|coloured]], such as xanthopsia or [[c/_cyanopia|cyanopia]].**
 ---
 ---

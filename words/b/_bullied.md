@@ -1,12 +1,12 @@
 # Bullied
 ---
 #adjective
-- **Having [[been]] a victim of a [[bully]].**
+- **Having [[b/_been|been]] a victim of a [[b/_bully|bully]].**
 ---
 #verb
-- **To intimidate (someone) as a [[bully]].**
+- **To intimidate (someone) as a [[b/_bully|bully]].**
 	- _Example: You shouldn't bully people for being gay._
-- **To [[act]] [[aggressively]] towards.**
+- **To [[a/_act|act]] [[a/_aggressively|aggressively]] towards.**
 ---
 ### Synonyms
 - [[push around]], [[ride roughshod over]]

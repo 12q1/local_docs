@@ -1,24 +1,24 @@
 # Bonded
 ---
 #verb
-- **To [[connect]], secure or tie with a [[bond]]; to [[bind]].**
+- **To [[c/_connect|connect]], secure or tie with a [[b/_bond|bond]]; to [[b/_bind|bind]].**
 	- _Example: The gargantuan ape was bonded in iron chains and carted onto the stage._
-- **To [[cause]] to [[adhere]] (one material with [[another]]).**
+- **To [[c/_cause|cause]] to [[a/_adhere|adhere]] (one material with [[a/_another|another]]).**
 	- _Example: The children bonded their snapshots to the scrapbook pages with mucilage._
-- **To form a [[chemical]] [[compound]] with.**
+- **To form a [[c/_chemical|chemical]] [[c/_compound|compound]] with.**
 	- _Example: Under unusual conditions, even gold can be made to bond with other elements._
 - **To guarantee or secure a financial risk.**
 	- _Example: The contractor was bonded with a local underwriter._
-- **To form a friendship or emotional [[connection]].**
+- **To form a friendship or emotional [[c/_connection|connection]].**
 	- _Example: The men had bonded while serving together in Vietnam._
-- **To put in a [[bonded]] warehouse; to secure (goods) until the [[associated]] duties are paid.**
-- **To lay [[bricks]] in a specific pattern.**
-- **To make a reliable electrical [[connection]] [[between]] two [[conductors]] (or [[any]] pieces of metal that may potentially [[become]] [[conductors]]).**
+- **To put in a [[b/_bonded|bonded]] warehouse; to secure (goods) until the [[a/_associated|associated]] duties are paid.**
+- **To lay [[b/_bricks|bricks]] in a specific pattern.**
+- **To make a reliable electrical [[c/_connection|connection]] [[b/_between|between]] two [[c/_conductors|conductors]] (or [[a/_any|any]] pieces of metal that may potentially [[b/_become|become]] [[c/_conductors|conductors]]).**
 	- _Example: A house's distribution panel should always be bonded to the grounding rods via a panel bond._
-- **To [[bail]] out by means of a [[bail]] [[bond]].**
+- **To [[b/_bail|bail]] out by means of a [[b/_bail|bail]] [[b/_bond|bond]].**
 ---
 #adjective
-- **Secured by [[bond]].**
+- **Secured by [[b/_bond|bond]].**
 	- _Example: bonded duties_
 ---
 ---

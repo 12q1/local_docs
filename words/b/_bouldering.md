@@ -1,9 +1,9 @@
 # Bouldering
 ---
 #verb
-- **To engage in [[bouldering]].**
+- **To engage in [[b/_bouldering|bouldering]].**
 ---
 #noun
-- **Climbing, without ropes, on large [[boulders]] or [[boulder]]-sized objects.**
+- **[[c/_climbing|Climbing]], without ropes, on large [[b/_boulders|boulders]] or [[b/_boulder|boulder]]-sized objects.**
 ---
 ---

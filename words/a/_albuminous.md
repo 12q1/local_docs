@@ -1,6 +1,6 @@
 # Albuminous
 ---
 #adjective
-- **Relating to, [[containing]], or having the properties of [[albumen]] or [[albumin]].**
+- **Relating to, [[c/_containing|containing]], or having the properties of [[a/_albumen|albumen]] or [[a/_albumin|albumin]].**
 ---
 ---

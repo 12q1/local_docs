@@ -1,10 +1,10 @@
 # Boba
 ---
 #noun
-- **Short for [[boba]] tea.**
+- **Short for [[b/_boba|boba]] tea.**
 ---
 #noun
-- **A small edible [[ball]] made primarily from tapioca starch; used in [[bubble]] tea.**
+- **A small edible [[b/_ball|ball]] made primarily from tapioca starch; used in [[b/_bubble|bubble]] tea.**
 ---
 ### Synonyms
 - [[ball]], [[boba]], [[pearl tapioca]], [[tapioca]]

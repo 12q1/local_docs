@@ -1,7 +1,7 @@
 # Belches
 ---
 #noun
-- **The sound one makes when [[belching]].**
+- **The sound one makes when [[b/_belching|belching]].**
 - **Malt liquor.**
 ---
 #verb

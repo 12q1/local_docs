@@ -1,10 +1,10 @@
 # Catechizing
 ---
 #verb
-- **To give oral instruction, especially of religion; now specifically by the formal question-and-[[answer]] method; in the Church of England, to teach the [[catechism]] as preparation for [[confirmation]].**
+- **To give oral instruction, especially of religion; now specifically by the formal question-and-[[a/_answer|answer]] method; in the [[c/_church|Church]] of England, to teach the [[c/_catechism|catechism]] as preparation for [[c/_confirmation|confirmation]].**
 - **To question at length.**
 ---
 #noun
-- **Catechism**
+- **[[c/_catechism|Catechism]]**
 ---
 ---

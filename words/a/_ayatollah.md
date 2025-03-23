@@ -2,6 +2,6 @@
 ---
 #noun
 - **A religious leader in Twelver Shi'ism.**
-- **An [[authority]] on [[any]] subject.**
+- **An [[a/_authority|authority]] on [[a/_any|any]] subject.**
 ---
 ---

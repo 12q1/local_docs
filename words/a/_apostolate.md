@@ -1,7 +1,7 @@
 # Apostolate
 ---
 #noun
-- **The office, or responsibilities of an [[apostle]].**
+- **The office, or responsibilities of an [[a/_apostle|apostle]].**
 - **A group of people that exists for the spreading of religious doctrine.**
 ---
 ---

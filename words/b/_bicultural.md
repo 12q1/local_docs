@@ -1,10 +1,10 @@
 # Bicultural
 ---
 #noun
-- **A person [[belonging]] to two [[cultures]].**
+- **A person [[b/_belonging|belonging]] to two [[c/_cultures|cultures]].**
 ---
 #adjective
-- **Adapted to two separate [[cultures]].**
-- **Having working knowledge of two separate [[cultures]].**
+- **[[a/_adapted|Adapted]] to two separate [[c/_cultures|cultures]].**
+- **Having working knowledge of two separate [[c/_cultures|cultures]].**
 ---
 ---

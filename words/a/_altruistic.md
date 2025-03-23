@@ -1,7 +1,7 @@
 # Altruistic
 ---
 #adjective
-- **Regardful of others; [[beneficent]]; unselfish**
+- **Regardful of others; [[b/_beneficent|beneficent]]; unselfish**
 	- _Example: His helping the old woman with her shopping was deemed highly altruistic by everyone, especially since her home was a mile away._
 ---
 ### Synonyms

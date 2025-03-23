@@ -1,6 +1,6 @@
 # Anthracnose
 ---
 #noun
-- **Any of several fungal diseases that [[affect]] many plants and trees.**
+- **[[a/_any|Any]] of several fungal diseases that [[a/_affect|affect]] many plants and trees.**
 ---
 ---

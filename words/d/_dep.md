@@ -1,6 +1,6 @@
 # Dep
 ---
 #noun
-- **Short for [[department]].**
+- **Short for [[d/_department|department]].**
 ---
 ---

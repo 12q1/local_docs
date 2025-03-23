@@ -1,6 +1,6 @@
 # Croplands
 ---
 #noun
-- **Cropland**
+- **[[c/_cropland|Cropland]]**
 ---
 ---

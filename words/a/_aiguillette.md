@@ -1,10 +1,10 @@
 # Aiguillette
 ---
 #noun
-- **A tip, originally of metal and often [[decorative]], on a ribbon or [[cord]] that makes lacing two parts of a garment or garments together easier, as in [[corset]] lacings, "points" (lacing hose or trousers to jacket or doublet) or sleeves to a [[bodice]].**
-- **An ornament worn on [[clothing]], [[consisting]] of a metal tag on a fringe, or a small metallic plate or spangle.**
+- **A tip, originally of metal and often [[d/_decorative|decorative]], on a ribbon or [[c/_cord|cord]] that makes lacing two parts of a garment or garments together easier, as in [[c/_corset|corset]] lacings, "points" (lacing hose or trousers to jacket or doublet) or sleeves to a [[b/_bodice|bodice]].**
+- **An ornament worn on [[c/_clothing|clothing]], [[c/_consisting|consisting]] of a metal tag on a fringe, or a small metallic plate or spangle.**
 ---
 #noun
-- **An ornamental [[braided]] [[cord]] with [[decorative]] metal tips worn on uniforms.**
+- **An ornamental [[b/_braided|braided]] [[c/_cord|cord]] with [[d/_decorative|decorative]] metal tips worn on uniforms.**
 ---
 ---

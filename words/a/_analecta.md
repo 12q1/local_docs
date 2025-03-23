@@ -1,6 +1,6 @@
 # Analecta
 ---
 #noun
-- **Analects**
+- **[[a/_analects|Analects]]**
 ---
 ---

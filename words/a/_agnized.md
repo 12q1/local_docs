@@ -1,6 +1,6 @@
 # Agnized
 ---
 #verb
-- **To recognise; to [[acknowledge]].**
+- **To recognise; to [[a/_acknowledge|acknowledge]].**
 ---
 ---

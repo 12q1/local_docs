@@ -1,6 +1,6 @@
 # Approvingly
 ---
 #adverb
-- **In an [[approving]] manner**
+- **In an [[a/_approving|approving]] manner**
 ---
 ---

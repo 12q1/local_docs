@@ -1,7 +1,7 @@
 # Chiller
 ---
 #noun
-- **Something that [[chills]]**
-- **A frightening dramatic work, such as a [[book]] or film**
+- **Something that [[c/_chills|chills]]**
+- **A frightening dramatic work, such as a [[b/_book|book]] or film**
 ---
 ---

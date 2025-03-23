@@ -1,7 +1,7 @@
 # Adequate
 ---
 #verb
-- **To equalize; to make [[adequate]].**
+- **To equalize; to make [[a/_adequate|adequate]].**
 - **To equal.**
 ---
 #adjective

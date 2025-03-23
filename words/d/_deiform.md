@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Godlike**
-- **Conformable to the will of God**
+- **[[c/_conformable|Conformable]] to the will of God**
 ---
 ---

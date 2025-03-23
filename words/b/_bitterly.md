@@ -1,6 +1,6 @@
 # Bitterly
 ---
 #adverb
-- **In a [[bitter]] manner.**
+- **In a [[b/_bitter|bitter]] manner.**
 ---
 ---

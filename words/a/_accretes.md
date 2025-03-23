@@ -1,9 +1,9 @@
 # Accretes
 ---
 #verb
-- **To grow together, [[combine]]; to fuse.**
+- **To grow together, [[c/_combine|combine]]; to fuse.**
 	- _Example: Astronomers believe the Earth began to accrete more than 4.6 billion years ago._
-- **To [[adhere]]; to grow or to be [[added]] to gradually.**
-- **To make [[adhere]]; to [[add]]; to make larger or more, as by growing.**
+- **To [[a/_adhere|adhere]]; to grow or to be [[a/_added|added]] to gradually.**
+- **To make [[a/_adhere|adhere]]; to [[a/_add|add]]; to make larger or more, as by growing.**
 ---
 ---

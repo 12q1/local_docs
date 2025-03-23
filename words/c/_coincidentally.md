@@ -1,6 +1,6 @@
 # Coincidentally
 ---
 #adverb
-- **In a [[coincidental]] manner.**
+- **In a [[c/_coincidental|coincidental]] manner.**
 ---
 ---

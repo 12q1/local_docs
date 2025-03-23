@@ -1,7 +1,7 @@
 # Cannonries
 ---
 #noun
-- **Cannons, [[collectively]]; [[battery]] of [[cannons]].**
-- **The firing of [[cannons]].**
+- **[[c/_cannons|Cannons]], [[c/_collectively|collectively]]; [[b/_battery|battery]] of [[c/_cannons|cannons]].**
+- **The firing of [[c/_cannons|cannons]].**
 ---
 ---

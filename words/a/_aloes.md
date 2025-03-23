@@ -1,12 +1,12 @@
 # Aloes
 ---
 #noun
-- **(in the plural) The resins of the tree Aquilaria malaccensis (syn. Aquilaria agallocha), known for their fragrant [[aroma]], produced [[after]] infection by the fungus Phialophora parasitica.**
-- **A plant of the genus Aloe.**
-- **A strong, [[bitter]] drink made from the juice of such plants, used as a purgative.**
+- **(in the plural) The resins of the tree [[a/_aquilaria|Aquilaria]] malaccensis (syn. [[a/_aquilaria|Aquilaria]] agallocha), known for their fragrant [[a/_aroma|aroma]], produced [[a/_after|after]] infection by the fungus Phialophora parasitica.**
+- **A plant of the genus [[a/_aloe|Aloe]].**
+- **A strong, [[b/_bitter|bitter]] drink made from the juice of such plants, used as a purgative.**
 ---
 #noun
-- **The resin of the trees or Aquilaria malaccensis (syn. Aquilaria agallocha), known for their fragrant odour.**
-- **The wood of the [[agalloch]].**
+- **The resin of the trees or [[a/_aquilaria|Aquilaria]] malaccensis (syn. [[a/_aquilaria|Aquilaria]] agallocha), known for their fragrant odour.**
+- **The wood of the [[a/_agalloch|agalloch]].**
 ---
 ---

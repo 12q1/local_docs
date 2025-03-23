@@ -1,10 +1,10 @@
 # Cherished
 ---
 #verb
-- **To treat with [[affection]], [[care]], and tenderness; to nurture or protect with [[care]].**
-- **To have a [[deep]] [[appreciation]] of; to hold [[dear]].**
+- **To treat with [[a/_affection|affection]], [[c/_care|care]], and tenderness; to nurture or protect with [[c/_care|care]].**
+- **To have a [[d/_deep|deep]] [[a/_appreciation|appreciation]] of; to hold [[d/_dear|dear]].**
 	- _Example: I cherish your friendship._
-- **To [[cheer]], to gladden.**
+- **To [[c/_cheer|cheer]], to gladden.**
 ---
 ### Antonyms
 - [[despise]]

@@ -1,8 +1,8 @@
 # Biometry
 ---
 #noun
-- **The measurement of [[biological]] [[data]].**
-- **The [[analysis]] of [[biological]] statistics; [[biostatistics]].**
-- **The [[application]] of [[biostatistics]] to security; [[biometrics]].**
+- **The measurement of [[b/_biological|biological]] [[d/_data|data]].**
+- **The [[a/_analysis|analysis]] of [[b/_biological|biological]] statistics; [[b/_biostatistics|biostatistics]].**
+- **The [[a/_application|application]] of [[b/_biostatistics|biostatistics]] to security; [[b/_biometrics|biometrics]].**
 ---
 ---

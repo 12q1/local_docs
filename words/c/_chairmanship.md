@@ -1,6 +1,6 @@
 # Chairmanship
 ---
 #noun
-- **The office, or the term, of a [[chairman]].**
+- **The office, or the term, of a [[c/_chairman|chairman]].**
 ---
 ---

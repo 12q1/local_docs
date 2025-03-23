@@ -1,11 +1,11 @@
 # Crazier
 ---
 #adjective
-- **Flawed or [[damaged]]; unsound, liable to [[break]] [[apart]]; ramshackle.**
+- **Flawed or [[d/_damaged|damaged]]; unsound, liable to [[b/_break|break]] [[a/_apart|apart]]; ramshackle.**
 - **Sickly, frail; diseased.**
-- **Of unsound mind; insane, [[demented]].**
+- **Of unsound mind; insane, [[d/_demented|demented]].**
 	- _Example: His ideas were both frightening and crazy._
-- **Out of [[control]].**
+- **Out of [[c/_control|control]].**
 	- _Example: When she gets on the motorcycle she goes crazy._
 - **Very excited or enthusiastic.**
 	- _Example: He went crazy when he won._

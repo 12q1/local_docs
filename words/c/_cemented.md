@@ -1,13 +1,13 @@
 # Cemented
 ---
 #verb
-- **To [[affix]] with [[cement]].**
-- **To overlay or [[coat]] with [[cement]].**
+- **To [[a/_affix|affix]] with [[c/_cement|cement]].**
+- **To overlay or [[c/_coat|coat]] with [[c/_cement|cement]].**
 	- _Example: to cement a cellar floor_
-- **To unite firmly or [[closely]].**
+- **To unite firmly or [[c/_closely|closely]].**
 - **To make permanent.**
 ---
 #adverb
-- **Bonded by [[cement]] or a similar substance.**
+- **[[b/_bonded|Bonded]] by [[c/_cement|cement]] or a similar substance.**
 ---
 ---

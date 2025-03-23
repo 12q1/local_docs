@@ -1,6 +1,6 @@
 # Camembert
 ---
 #noun
-- **A soft, [[creamy]] [[cheese]] from France made from [[cow]]'s milk.**
+- **A soft, [[c/_creamy|creamy]] [[c/_cheese|cheese]] from France made from [[c/_cow|cow]]'s milk.**
 ---
 ---

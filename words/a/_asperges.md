@@ -4,7 +4,7 @@
 - **To sprinkle.**
 ---
 #noun
-- **A Christian rite in which the [[congregation]] is sprinkled with water.**
-- **The [[brush]] or instrument used in sprinkling holy water; an [[aspergill]].**
+- **A [[c/_christian|Christian]] rite in which the [[c/_congregation|congregation]] is sprinkled with water.**
+- **The [[b/_brush|brush]] or instrument used in sprinkling holy water; an [[a/_aspergill|aspergill]].**
 ---
 ---

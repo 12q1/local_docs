@@ -1,10 +1,10 @@
 # Blooey
 ---
 #adjective
-- **Haywire, [[amiss]].**
+- **Haywire, [[a/_amiss|amiss]].**
 ---
 #interjection
-- **Exclamation representing an explosion or [[abrupt]] occurrence.**
+- **Exclamation representing an explosion or [[a/_abrupt|abrupt]] occurrence.**
 ---
 ### Synonyms
 - [[bam]], [[bang]], [[kablooie]]

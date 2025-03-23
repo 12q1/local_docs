@@ -1,6 +1,6 @@
 # Anyplace
 ---
 #adverb
-- **At a non-specific place; [[anywhere]].**
+- **At a non-specific place; [[a/_anywhere|anywhere]].**
 ---
 ---

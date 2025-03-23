@@ -1,6 +1,6 @@
 # Audiogram
 ---
 #noun
-- **A graphical representation of the hearing [[ability]] of a person**
+- **A graphical representation of the hearing [[a/_ability|ability]] of a person**
 ---
 ---

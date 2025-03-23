@@ -1,17 +1,17 @@
 # Clutches
 ---
 #noun
-- **The [[claw]] of a predatory [[animal]] or [[bird]].**
+- **The [[c/_claw|claw]] of a predatory [[a/_animal|animal]] or [[b/_bird|bird]].**
 - **(by extension) A grip, especially one seen as rapacious or evil.**
-- **A device to interrupt power transmission, [[commonly]] used to separate the engine and gearbox in a [[car]].**
-- **The pedal in a [[car]] that disengages power and torque transmission from the engine (through the drivetrain) to the drive wheels.**
-- **Any device for gripping an object, as at the end of a [[chain]] or tackle.**
+- **A device to interrupt power transmission, [[c/_commonly|commonly]] used to separate the engine and gearbox in a [[c/_car|car]].**
+- **The pedal in a [[c/_car|car]] that disengages power and torque transmission from the engine (through the drivetrain) to the drive wheels.**
+- **[[a/_any|Any]] device for gripping an object, as at the end of a [[c/_chain|chain]] or tackle.**
 - **A small handbag or purse with no straps or handle.**
 ---
 ### Synonyms
 - [[clutch bag]]
 #verb
-- **To seize, as though with [[claws]].**
+- **To seize, as though with [[c/_claws|claws]].**
 	- _Example: to clutch power_
 - **To grip or grasp tightly.**
 	- _Example: She clutched her purse tightly and walked nervously into the building._
@@ -19,13 +19,13 @@
 ### Synonyms
 - [[clasp]], [[grasp]], [[grip]]
 #noun
-- **A [[brood]] of [[chickens]] or a sitting of eggs.**
-- **A group or [[bunch]] (of people or things).**
+- **A [[b/_brood|brood]] of [[c/_chickens|chickens]] or a sitting of eggs.**
+- **A group or [[b/_bunch|bunch]] (of people or things).**
 ---
 #verb
 - **To hatch.**
 ---
 #noun
-- **An important or [[critical]] situation.**
+- **An important or [[c/_critical|critical]] situation.**
 ---
 ---

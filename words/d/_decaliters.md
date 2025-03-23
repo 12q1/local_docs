@@ -1,6 +1,6 @@
 # Decaliters
 ---
 #noun
-- **Ten litres. Symbol: [[dal]]**
+- **Ten litres. Symbol: [[d/_dal|dal]]**
 ---
 ---

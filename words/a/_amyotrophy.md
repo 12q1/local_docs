@@ -1,6 +1,6 @@
 # Amyotrophy
 ---
 #noun
-- **Atrophy of muscles**
+- **[[a/_atrophy|Atrophy]] of muscles**
 ---
 ---

@@ -1,6 +1,6 @@
 # Apriori
 ---
 #adverb
-- **In a way [[based]] on theoretical [[deduction]] rather than empirical observation.**
+- **In a way [[b/_based|based]] on theoretical [[d/_deduction|deduction]] rather than empirical observation.**
 ---
 ---

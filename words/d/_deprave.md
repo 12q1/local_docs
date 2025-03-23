@@ -1,7 +1,7 @@
 # Deprave
 ---
 #verb
-- **To speak ill of; to [[depreciate]]; to malign; to revile**
-- **To make [[bad]] or worse; to vitiate; to [[corrupt]]**
+- **To speak ill of; to [[d/_depreciate|depreciate]]; to malign; to revile**
+- **To make [[b/_bad|bad]] or worse; to vitiate; to [[c/_corrupt|corrupt]]**
 ---
 ---

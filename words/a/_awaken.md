@@ -1,24 +1,24 @@
 # Awaken
 ---
 #verb
-- **To [[become]] [[conscious]] [[after]] having slept.**
-- **To [[cause]] (somebody) to stop sleeping.**
+- **To [[b/_become|become]] [[c/_conscious|conscious]] [[a/_after|after]] having slept.**
+- **To [[c/_cause|cause]] (somebody) to stop sleeping.**
 - **To excite or to stir up something latent.**
 - **To rouse from a state of inaction or dormancy.**
-- **To [[come]] out of a state of inaction or dormancy.**
+- **To [[c/_come|come]] out of a state of inaction or dormancy.**
 ---
 ### Synonyms
 - [[awaken]], [[wake up]], [[bring round]], [[cry]], [[wake up]]
 ### Antonyms
 - [[fall asleep]], [[put to sleep]]
 #verb
-- **To [[cause]] to [[become]] [[awake]].**
+- **To [[c/_cause|cause]] to [[b/_become|become]] [[a/_awake|awake]].**
 	- _Example: She awakened him by ringing the bell._
-- **To stop sleeping; [[awake]].**
+- **To stop sleeping; [[a/_awake|awake]].**
 	- _Example: Each morning he awakens with a smile on his face._
-- **To [[bring]] into [[action]] (something previously dormant); to stimulate.**
+- **To [[b/_bring|bring]] into [[a/_action|action]] (something previously dormant); to stimulate.**
 	- _Example: Awaken your entrepreneurial spirit!_
-- **To [[call]] to a sense of sin.**
+- **To [[c/_call|call]] to a sense of sin.**
 ---
 ### Synonyms
 - [[awake]], [[stir]], [[animate]], [[energize]], [[knock up]], [[uprouse]]

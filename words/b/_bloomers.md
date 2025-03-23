@@ -5,13 +5,13 @@
 ---
 #noun
 - **A minor or embarrassing mistake with minimal results.**
-- **A [[circular]] loaf of white [[bread]].**
-- **A [[blooming]] flower.**
-- **One who [[blooms]], matures, or develops.**
+- **A [[c/_circular|circular]] loaf of white [[b/_bread|bread]].**
+- **A [[b/_blooming|blooming]] flower.**
+- **One who [[b/_blooms|blooms]], matures, or develops.**
 	- _Example: She was a late bloomer._
 ---
 #noun
-- **A [[costume]] for women, [[consisting]] of a short dress with loose trousers gathered [[around]] the [[ankles]], and often a [[broad]]-[[brimmed]] hat.**
-- **A woman who wears a Bloomer [[costume]].**
+- **A [[c/_costume|costume]] for women, [[c/_consisting|consisting]] of a short dress with loose trousers gathered [[a/_around|around]] the [[a/_ankles|ankles]], and often a [[b/_broad|broad]]-[[b/_brimmed|brimmed]] hat.**
+- **A woman who wears a [[b/_bloomer|Bloomer]] [[c/_costume|costume]].**
 ---
 ---

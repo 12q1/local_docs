@@ -1,8 +1,8 @@
 # Concussion
 ---
 #noun
-- **A violent [[collision]] or shock.**
-- **An injury to part of the [[body]], most especially the [[brain]], [[caused]] by a violent [[blow]], followed by loss of function.**
-- **The unlawful forcing of [[another]] by threats of violence to yield up something of value.**
+- **A violent [[c/_collision|collision]] or shock.**
+- **An injury to part of the [[b/_body|body]], most especially the [[b/_brain|brain]], [[c/_caused|caused]] by a violent [[b/_blow|blow]], followed by loss of function.**
+- **The unlawful forcing of [[a/_another|another]] by threats of violence to yield up something of value.**
 ---
 ---

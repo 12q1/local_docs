@@ -1,7 +1,7 @@
 # Aptest
 ---
 #adjective
-- **Suitable; [[appropriate]]; fit or fitted; suited.**
+- **Suitable; [[a/_appropriate|appropriate]]; fit or fitted; suited.**
 	- _Example: an apt metaphor_
 - **(of persons or things) Having a habitual tendency; habitually liable or likely; disposed towards.**
 - **Ready; especially fitted or qualified (to do something); quick to learn.**

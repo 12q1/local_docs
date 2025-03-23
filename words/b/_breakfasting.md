@@ -2,11 +2,11 @@
 ---
 #verb
 - **To eat the morning meal.**
-- **To serve [[breakfast]] to.**
+- **To serve [[b/_breakfast|breakfast]] to.**
 ---
 ### Synonyms
 - [[break one's fast]]
 #noun
-- **The [[act]] of eating [[breakfast]].**
+- **The [[a/_act|act]] of eating [[b/_breakfast|breakfast]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Boxier
 ---
 #adjective
-- **Box-like or [[box]]-shaped.**
+- **[[b/_box|Box]]-like or [[b/_box|box]]-shaped.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Cioppino
 ---
 #noun
-- **An Italian-American shellfish and tomato stew.**
+- **An Italian-[[a/_american|American]] shellfish and tomato stew.**
 ---
 ---

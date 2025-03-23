@@ -1,8 +1,8 @@
 # Constitutionalism
 ---
 #noun
-- **A [[constitutional]] system of governance.**
-- **Adherence to [[constitutional]] principles.**
-- **Philosophical [[belief]] in government under a written [[constitution]].**
+- **A [[c/_constitutional|constitutional]] system of governance.**
+- **[[a/_adherence|Adherence]] to [[c/_constitutional|constitutional]] principles.**
+- **Philosophical [[b/_belief|belief]] in government under a written [[c/_constitution|constitution]].**
 ---
 ---

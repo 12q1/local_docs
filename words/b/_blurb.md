@@ -1,10 +1,10 @@
 # Blurb
 ---
 #noun
-- **A short [[description]] of a [[book]], film, or other work, written and used for promotional purposes.**
+- **A short [[d/_description|description]] of a [[b/_book|book]], film, or other work, written and used for promotional purposes.**
 ---
 #verb
-- **To write or quote in a [[blurb]].**
-- **To supply with a [[blurb]].**
+- **To write or quote in a [[b/_blurb|blurb]].**
+- **To supply with a [[b/_blurb|blurb]].**
 ---
 ---

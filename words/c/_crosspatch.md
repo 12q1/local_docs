@@ -1,7 +1,7 @@
 # Crosspatch
 ---
 #noun
-- **A grumpy, [[bad]]-tempered or irascible person.**
+- **A grumpy, [[b/_bad|bad]]-tempered or irascible person.**
 ---
 ### Synonyms
 - [[grouch]]

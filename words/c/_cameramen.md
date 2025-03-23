@@ -1,7 +1,7 @@
 # Cameramen
 ---
 #noun
-- **Somebody who operates a movie [[camera]] or television [[camera]].**
+- **Somebody who operates a movie [[c/_camera|camera]] or television [[c/_camera|camera]].**
 ---
 ### Synonyms
 - [[camera operator]], [[cameraperson]]

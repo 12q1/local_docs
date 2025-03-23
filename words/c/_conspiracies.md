@@ -1,14 +1,14 @@
 # Conspiracies
 ---
 #noun
-- **The [[act]] of two or more persons, [[called]] [[conspirators]], working secretly to obtain some goal, usually understood with negative [[connotations]].**
-- **An [[agreement]] [[between]] two or more persons to [[break]] the law at some time in the future.**
+- **The [[a/_act|act]] of two or more persons, [[c/_called|called]] [[c/_conspirators|conspirators]], working secretly to obtain some goal, usually understood with negative [[c/_connotations|connotations]].**
+- **An [[a/_agreement|agreement]] [[b/_between|between]] two or more persons to [[b/_break|break]] the law at some time in the future.**
 - **A group of ravens.**
 - **A group of lemurs.**
 - **A situation in which different phonological or grammatical rules lead to similar or related outcomes.**
-- **(by ellipsis) A [[conspiracy]] theory; a hypothesis [[alleging]] [[conspiracy]].**
+- **(by ellipsis) A [[c/_conspiracy|conspiracy]] theory; a hypothesis [[a/_alleging|alleging]] [[c/_conspiracy|conspiracy]].**
 ---
 #verb
-- **To [[conspire]].**
+- **To [[c/_conspire|conspire]].**
 ---
 ---

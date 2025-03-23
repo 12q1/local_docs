@@ -1,6 +1,6 @@
 # Cruelly
 ---
 #adverb
-- **In a [[cruel]] manner.**
+- **In a [[c/_cruel|cruel]] manner.**
 ---
 ---

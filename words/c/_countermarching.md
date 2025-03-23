@@ -1,9 +1,9 @@
 # Countermarching
 ---
 #verb
-- **To march [[back]] [[along]] the same route**
+- **To march [[b/_back|back]] [[a/_along|along]] the same route**
 ---
 #noun
-- **A [[countermarch]].**
+- **A [[c/_countermarch|countermarch]].**
 ---
 ---

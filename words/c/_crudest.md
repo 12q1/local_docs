@@ -3,9 +3,9 @@
 #adjective
 - **In a natural, untreated state.**
 	- _Example: crude oil_
-- **Characterized by simplicity, especially something not [[carefully]] or expertly made.**
+- **[[c/_characterized|Characterized]] by simplicity, especially something not [[c/_carefully|carefully]] or expertly made.**
 	- _Example: a crude shelter_
-- **Lacking [[concealing]] elements.**
+- **Lacking [[c/_concealing|concealing]] elements.**
 	- _Example: a crude truth_
 - **Lacking tact or taste.**
 	- _Example: a crude remark_

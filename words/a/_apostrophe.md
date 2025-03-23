@@ -1,6 +1,6 @@
 # Apostrophe
 ---
 #noun
-- **The text [[character]] ’, which serves as a punctuation mark in various languages and as a diacritical mark in [[certain]] rare [[contexts]].**
+- **The text [[c/_character|character]] ’, which serves as a punctuation mark in various languages and as a diacritical mark in [[c/_certain|certain]] rare [[c/_contexts|contexts]].**
 ---
 ---

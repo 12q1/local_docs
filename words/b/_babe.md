@@ -1,11 +1,11 @@
 # Babe
 ---
 #noun
-- **A [[baby]] or infant; a very young human or [[animal]].**
+- **A [[b/_baby|baby]] or infant; a very young human or [[a/_animal|animal]].**
 	- _Example: These events came to pass when he was but a babe._
-- **An [[attractive]] person, especially a young woman.**
+- **An [[a/_attractive|attractive]] person, especially a young woman.**
 	- _Example: She's a real babe!_
-- **Darling (term of endearment).**
+- **[[d/_darling|Darling]] (term of endearment).**
 	- _Example: Hey, babe, how's about you and me getting together?_
 ---
 ### Synonyms

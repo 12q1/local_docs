@@ -1,11 +1,11 @@
 # Brutalism
 ---
 #noun
-- **A style of modernist [[architecture]] [[characterized]] by [[angular]] geometry and overt signs of the [[construction]] process.**
+- **A style of modernist [[a/_architecture|architecture]] [[c/_characterized|characterized]] by [[a/_angular|angular]] geometry and overt signs of the [[c/_construction|construction]] process.**
 ---
 ### Synonyms
 - [[New Brutalism]]
 #noun
-- **Brutal, violent [[behaviour]]; savagery.**
+- **[[b/_brutal|Brutal]], violent [[b/_behaviour|behaviour]]; savagery.**
 ---
 ---

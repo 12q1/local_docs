@@ -1,9 +1,9 @@
 # Atmospheric
 ---
 #adjective
-- **Of, relating to, produced by, or [[coming]] from the [[atmosphere]].**
+- **Of, relating to, produced by, or [[c/_coming|coming]] from the [[a/_atmosphere|atmosphere]].**
 - **Translucent or hazy.**
-- **Evoking a particular emotional or [[aesthetic]] quality.**
+- **Evoking a particular emotional or [[a/_aesthetic|aesthetic]] quality.**
 	- _Example: a dark atmospheric thriller_
 ---
 ### Synonyms

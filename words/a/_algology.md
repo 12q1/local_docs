@@ -1,7 +1,7 @@
 # Algology
 ---
 #noun
-- **The [[branch]] of [[botany]] [[dealing]] with [[algae]].**
+- **The [[b/_branch|branch]] of [[b/_botany|botany]] [[d/_dealing|dealing]] with [[a/_algae|algae]].**
 ---
 ### Synonyms
 - [[phycology]]

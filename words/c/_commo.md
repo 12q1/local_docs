@@ -1,6 +1,6 @@
 # Commo
 ---
 #noun
-- **A [[communist]].**
+- **A [[c/_communist|communist]].**
 ---
 ---

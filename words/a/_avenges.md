@@ -1,6 +1,6 @@
 # Avenges
 ---
 #noun
-- **An [[act]] of vengeance; a revenge.**
+- **An [[a/_act|act]] of vengeance; a revenge.**
 ---
 ---

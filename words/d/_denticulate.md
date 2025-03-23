@@ -1,10 +1,10 @@
 # Denticulate
 ---
 #noun
-- **A [[denticulated]] object**
+- **A [[d/_denticulated|denticulated]] object**
 ---
 #adjective
-- **Finely [[dentate]], as a leaf edge; [[bearing]] many small toothlike structures.**
-- **Having [[dentils]] or denticules**
+- **Finely [[d/_dentate|dentate]], as a leaf edge; [[b/_bearing|bearing]] many small toothlike structures.**
+- **Having [[d/_dentils|dentils]] or denticules**
 ---
 ---

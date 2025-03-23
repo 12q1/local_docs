@@ -1,10 +1,10 @@
 # Consensus
 ---
 #noun
-- **A process of [[decision]]-making that seeks widespread [[agreement]] [[among]] group members.**
-- **General [[agreement]] [[among]] the members of a given group or [[community]], each of which exercises some discretion in [[decision]]-making and follow-up [[action]].**
+- **A process of [[d/_decision|decision]]-making that seeks widespread [[a/_agreement|agreement]] [[a/_among|among]] group members.**
+- **General [[a/_agreement|agreement]] [[a/_among|among]] the members of a given group or [[c/_community|community]], each of which exercises some discretion in [[d/_decision|decision]]-making and follow-up [[a/_action|action]].**
 	- _Example: After years of debate over the best wine to serve at Thanksgiving, no real consensus has emerged._
-- **Average projected value.**
+- **[[a/_average|Average]] projected value.**
 	- _Example: a financial consensus forecast_
 ---
 ### Antonyms

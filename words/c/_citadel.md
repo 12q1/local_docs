@@ -1,9 +1,9 @@
 # Citadel
 ---
 #noun
-- **A strong fortress that sits high [[above]] a [[city]].**
+- **A strong fortress that sits high [[a/_above|above]] a [[c/_city|city]].**
 - **(sometimes figurative) A stronghold or fortified place.**
-- **An [[armoured]] portion of a warship, housing important equipment.**
-- **A Salvation Army meeting place.**
+- **An [[a/_armoured|armoured]] portion of a warship, housing important equipment.**
+- **A Salvation [[a/_army|Army]] meeting place.**
 ---
 ---

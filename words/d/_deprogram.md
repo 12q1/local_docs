@@ -1,6 +1,6 @@
 # Deprogram
 ---
 #verb
-- **To [[counteract]] the effects of previous programming or [[brainwashing]], especially in an [[attempt]] to persuade (a person) to [[abandon]] [[allegiance]] to a [[cult]].**
+- **To [[c/_counteract|counteract]] the effects of previous programming or [[b/_brainwashing|brainwashing]], especially in an [[a/_attempt|attempt]] to persuade (a person) to [[a/_abandon|abandon]] [[a/_allegiance|allegiance]] to a [[c/_cult|cult]].**
 ---
 ---

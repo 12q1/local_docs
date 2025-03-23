@@ -1,6 +1,6 @@
 # Bongo
 ---
 #noun
-- **A striped [[bovine]] mammal found in Africa, Tragelaphus eurycerus.**
+- **A striped [[b/_bovine|bovine]] mammal found in [[a/_africa|Africa]], Tragelaphus eurycerus.**
 ---
 ---

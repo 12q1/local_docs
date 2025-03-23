@@ -1,6 +1,6 @@
 # Aggressively
 ---
 #adverb
-- **In an [[aggressive]] manner.**
+- **In an [[a/_aggressive|aggressive]] manner.**
 ---
 ---

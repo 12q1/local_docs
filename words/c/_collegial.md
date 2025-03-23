@@ -1,9 +1,9 @@
 # Collegial
 ---
 #adjective
-- **Of, relating to, or ruled by [[colleagues]].**
-- **Ruled by [[bishops]] having equal power.**
-- **Of or relating to a [[college]] or its students; [[collegiate]].**
-- **Possessing [[adherence]] to the ethos, standards and [[conduct]] that govern [[behavior]] [[among]] [[colleagues]] within a given organization or profession.**
+- **Of, relating to, or ruled by [[c/_colleagues|colleagues]].**
+- **Ruled by [[b/_bishops|bishops]] having equal power.**
+- **Of or relating to a [[c/_college|college]] or its students; [[c/_collegiate|collegiate]].**
+- **Possessing [[a/_adherence|adherence]] to the ethos, standards and [[c/_conduct|conduct]] that govern [[b/_behavior|behavior]] [[a/_among|among]] [[c/_colleagues|colleagues]] within a given organization or profession.**
 ---
 ---

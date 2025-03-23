@@ -1,6 +1,6 @@
 # Burbs
 ---
 #noun
-- **([[chiefly]] in the plural) A suburb.**
+- **([[c/_chiefly|chiefly]] in the plural) A suburb.**
 ---
 ---

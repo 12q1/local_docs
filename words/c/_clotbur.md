@@ -1,7 +1,7 @@
 # Clotbur
 ---
 #noun
-- **The [[burdock]].**
-- **The [[cocklebur]].**
+- **The [[b/_burdock|burdock]].**
+- **The [[c/_cocklebur|cocklebur]].**
 ---
 ---

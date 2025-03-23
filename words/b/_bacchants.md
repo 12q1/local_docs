@@ -1,7 +1,7 @@
 # Bacchants
 ---
 #noun
-- **A priest of Bacchus.**
-- **A [[bacchanal]]; a drunken reveler.**
+- **A priest of [[b/_bacchus|Bacchus]].**
+- **A [[b/_bacchanal|bacchanal]]; a drunken reveler.**
 ---
 ---

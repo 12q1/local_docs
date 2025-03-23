@@ -1,6 +1,6 @@
 # Ca
 ---
 #adverb
-- **Abbreviation of [[circa]].**
+- **[[a/_abbreviation|Abbreviation]] of [[c/_circa|circa]].**
 ---
 ---

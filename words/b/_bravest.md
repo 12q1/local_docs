@@ -1,8 +1,8 @@
 # Bravest
 ---
 #adjective
-- **Strong in the face of fear; [[courageous]].**
-- **Having [[any]] sort of superiority or excellence.**
+- **Strong in the face of fear; [[c/_courageous|courageous]].**
+- **Having [[a/_any|any]] sort of superiority or excellence.**
 - **Making a fine show or display.**
 ---
 ### Synonyms

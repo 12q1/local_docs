@@ -1,8 +1,8 @@
 # Bechances
 ---
 #verb
-- **To happen; [[chance]].**
-- **To happen (to); [[befall]] to.**
+- **To happen; [[c/_chance|chance]].**
+- **To happen (to); [[b/_befall|befall]] to.**
 ---
 ### Synonyms
 - [[come to pass]], [[occur]], [[transpire]]

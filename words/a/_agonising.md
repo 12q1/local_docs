@@ -1,10 +1,10 @@
 # Agonising
 ---
 #verb
-- **To writhe with [[agony]]; to suffer violent [[anguish]].**
-- **To struggle; to wrestle; to strive [[desperately]], whether mentally or physically.**
+- **To writhe with [[a/_agony|agony]]; to suffer violent [[a/_anguish|anguish]].**
+- **To struggle; to wrestle; to strive [[d/_desperately|desperately]], whether mentally or physically.**
 ---
 #noun
-- **The [[act]] of one who [[agonizes]].**
+- **The [[a/_act|act]] of one who [[a/_agonizes|agonizes]].**
 ---
 ---

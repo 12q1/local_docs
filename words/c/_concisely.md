@@ -1,6 +1,6 @@
 # Concisely
 ---
 #adverb
-- **In a [[concise]] manner, [[briefly]], without excessive length.**
+- **In a [[c/_concise|concise]] manner, [[b/_briefly|briefly]], without excessive length.**
 ---
 ---

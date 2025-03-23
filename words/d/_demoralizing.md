@@ -1,7 +1,7 @@
 # Demoralizing
 ---
 #verb
-- **To [[destroy]] the morale of; to dishearten.**
+- **To [[d/_destroy|destroy]] the morale of; to dishearten.**
 ---
 #adjective
 - **Disheartening.**

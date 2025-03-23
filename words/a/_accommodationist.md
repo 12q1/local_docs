@@ -1,6 +1,6 @@
 # Accommodationist
 ---
 #noun
-- **Someone who [[accommodates]] an opposition and [[compromises]] their own stance in [[attempt]] to discredit their opposition.**
+- **Someone who [[a/_accommodates|accommodates]] an opposition and [[c/_compromises|compromises]] their own stance in [[a/_attempt|attempt]] to discredit their opposition.**
 ---
 ---

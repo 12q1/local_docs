@@ -2,6 +2,6 @@
 ---
 #noun
 - **A hairshirt.**
-- **([[chiefly]] in Opus Dei) A leather strap studded with metallic [[barbs]] that [[cut]] into flesh as a [[constant]] reminder of Christ's suffering.**
+- **([[c/_chiefly|chiefly]] in Opus [[d/_dei|Dei]]) A leather strap studded with metallic [[b/_barbs|barbs]] that [[c/_cut|cut]] into flesh as a [[c/_constant|constant]] reminder of [[c/_christ|Christ]]'s suffering.**
 ---
 ---

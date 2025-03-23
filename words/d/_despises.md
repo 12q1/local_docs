@@ -1,7 +1,7 @@
 # Despises
 ---
 #verb
-- **To regard with [[contempt]] or scorn.**
+- **To regard with [[c/_contempt|contempt]] or scorn.**
 - **To disregard or ignore.**
 ---
 ### Synonyms

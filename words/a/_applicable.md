@@ -1,7 +1,7 @@
 # Applicable
 ---
 #adjective
-- **Suitable for [[application]], relevant**
+- **Suitable for [[a/_application|application]], relevant**
 ---
 ### Synonyms
 - [[appropriate]]

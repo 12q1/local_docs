@@ -1,11 +1,11 @@
 # Backdating
 ---
 #verb
-- **To give or [[assign]] a [[date]] to a document that is earlier than the [[current]] or true [[date]].**
+- **To give or [[a/_assign|assign]] a [[d/_date|date]] to a document that is earlier than the [[c/_current|current]] or true [[d/_date|date]].**
 ---
 ### Synonyms
 - [[antedate]]
 #noun
-- **The [[act]] by which something is [[backdated]].**
+- **The [[a/_act|act]] by which something is [[b/_backdated|backdated]].**
 ---
 ---

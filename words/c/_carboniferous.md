@@ -1,6 +1,6 @@
 # Carboniferous
 ---
 #adjective
-- **Containing or producing [[carbon]].**
+- **[[c/_containing|Containing]] or producing [[c/_carbon|carbon]].**
 ---
 ---

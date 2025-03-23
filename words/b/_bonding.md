@@ -1,27 +1,27 @@
 # Bonding
 ---
 #verb
-- **To [[connect]], secure or tie with a [[bond]]; to [[bind]].**
+- **To [[c/_connect|connect]], secure or tie with a [[b/_bond|bond]]; to [[b/_bind|bind]].**
 	- _Example: The gargantuan ape was bonded in iron chains and carted onto the stage._
-- **To [[cause]] to [[adhere]] (one material with [[another]]).**
+- **To [[c/_cause|cause]] to [[a/_adhere|adhere]] (one material with [[a/_another|another]]).**
 	- _Example: The children bonded their snapshots to the scrapbook pages with mucilage._
-- **To form a [[chemical]] [[compound]] with.**
+- **To form a [[c/_chemical|chemical]] [[c/_compound|compound]] with.**
 	- _Example: Under unusual conditions, even gold can be made to bond with other elements._
 - **To guarantee or secure a financial risk.**
 	- _Example: The contractor was bonded with a local underwriter._
-- **To form a friendship or emotional [[connection]].**
+- **To form a friendship or emotional [[c/_connection|connection]].**
 	- _Example: The men had bonded while serving together in Vietnam._
-- **To put in a [[bonded]] warehouse; to secure (goods) until the [[associated]] duties are paid.**
-- **To lay [[bricks]] in a specific pattern.**
-- **To make a reliable electrical [[connection]] [[between]] two [[conductors]] (or [[any]] pieces of metal that may potentially [[become]] [[conductors]]).**
+- **To put in a [[b/_bonded|bonded]] warehouse; to secure (goods) until the [[a/_associated|associated]] duties are paid.**
+- **To lay [[b/_bricks|bricks]] in a specific pattern.**
+- **To make a reliable electrical [[c/_connection|connection]] [[b/_between|between]] two [[c/_conductors|conductors]] (or [[a/_any|any]] pieces of metal that may potentially [[b/_become|become]] [[c/_conductors|conductors]]).**
 	- _Example: A house's distribution panel should always be bonded to the grounding rods via a panel bond._
-- **To [[bail]] out by means of a [[bail]] [[bond]].**
+- **To [[b/_bail|bail]] out by means of a [[b/_bail|bail]] [[b/_bond|bond]].**
 ---
 #noun
-- **The [[act]] by which something is [[bonded]] or joined together.**
-- **A relationship [[between]] a parent and offspring that establishes the [[basis]] for an ongoing mutual [[attachment]].**
-- **A [[close]] friendship that develops [[between]] [[adults]], often as a result of intense experiences, as those shared in military [[combat]].**
-- **A method of [[aggregating]] multiple network interfaces on a [[computer]] into a single logical interface**
-- **An [[arrangement]] by which goods remain in the [[customs]] warehouses until the duties are paid.**
+- **The [[a/_act|act]] by which something is [[b/_bonded|bonded]] or joined together.**
+- **A relationship [[b/_between|between]] a parent and offspring that establishes the [[b/_basis|basis]] for an ongoing mutual [[a/_attachment|attachment]].**
+- **A [[c/_close|close]] friendship that develops [[b/_between|between]] [[a/_adults|adults]], often as a result of intense experiences, as those shared in military [[c/_combat|combat]].**
+- **A method of [[a/_aggregating|aggregating]] multiple network interfaces on a [[c/_computer|computer]] into a single logical interface**
+- **An [[a/_arrangement|arrangement]] by which goods remain in the [[c/_customs|customs]] warehouses until the duties are paid.**
 ---
 ---

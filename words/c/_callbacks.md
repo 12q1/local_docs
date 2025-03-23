@@ -2,10 +2,10 @@
 ---
 #noun
 - **The return of a situation to a previous position or state.**
-- **A return telephone or radio [[call]]; especially one made [[automatically]] to [[authenticate]] a logon to a [[computer]] network.**
-- **A product recall [[because]] of a [[defect]] or safety [[concern]].**
-- **A function pointer passed as an [[argument]] to [[another]] function.**
-- **A follow-up [[audition]] ([[casting]])**
+- **A return telephone or radio [[c/_call|call]]; especially one made [[a/_automatically|automatically]] to [[a/_authenticate|authenticate]] a logon to a [[c/_computer|computer]] network.**
+- **A product recall [[b/_because|because]] of a [[d/_defect|defect]] or safety [[c/_concern|concern]].**
+- **A function pointer passed as an [[a/_argument|argument]] to [[a/_another|another]] function.**
+- **A follow-up [[a/_audition|audition]] ([[c/_casting|casting]])**
 - **A joke which references an earlier joke in the same routine**
 ---
 ### Synonyms

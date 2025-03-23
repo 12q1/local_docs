@@ -1,8 +1,8 @@
 # Corsage
 ---
 #noun
-- **The size or shape of a person's [[body]].**
-- **The waist or [[bodice]] of a woman's dress.**
-- **A small [[bouquet]] of flowers, originally worn [[attached]] to the [[bodice]] of a woman's dress.**
+- **The size or shape of a person's [[b/_body|body]].**
+- **The waist or [[b/_bodice|bodice]] of a woman's dress.**
+- **A small [[b/_bouquet|bouquet]] of flowers, originally worn [[a/_attached|attached]] to the [[b/_bodice|bodice]] of a woman's dress.**
 ---
 ---

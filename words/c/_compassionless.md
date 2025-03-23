@@ -1,6 +1,6 @@
 # Compassionless
 ---
 #adjective
-- **Without [[compassion]]; hardhearted.**
+- **Without [[c/_compassion|compassion]]; hardhearted.**
 ---
 ---

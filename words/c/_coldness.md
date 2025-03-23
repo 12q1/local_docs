@@ -3,7 +3,7 @@
 #noun
 - **The relative lack of heat.**
 - **The sensation resulting from exposure to low temperatures.**
-- **Limited enthusiasm or [[affection]]; [[coolness]].**
-- **The reciprocal of [[absolute]] temperature.**
+- **Limited enthusiasm or [[a/_affection|affection]]; [[c/_coolness|coolness]].**
+- **The reciprocal of [[a/_absolute|absolute]] temperature.**
 ---
 ---

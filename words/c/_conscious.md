@@ -1,19 +1,19 @@
 # Conscious
 ---
 #noun
-- **The part of the mind that is [[aware]] of itself; the [[consciousness]].**
+- **The part of the mind that is [[a/_aware|aware]] of itself; the [[c/_consciousness|consciousness]].**
 ---
 #adjective
-- **Alert, [[awake]]; with one's mental faculties [[active]].**
+- **[[a/_alert|Alert]], [[a/_awake|awake]]; with one's mental faculties [[a/_active|active]].**
 	- _Example: The noise woke me, but it was another few minutes before I was fully conscious._
-- **Aware of one's own existence; [[aware]] of one's own [[awareness]].**
+- **[[a/_aware|Aware]] of one's own existence; [[a/_aware|aware]] of one's own [[a/_awareness|awareness]].**
 	- _Example: Only highly intelligent beings can be fully conscious._
-- **Aware of, sensitive to; observing and noticing, or [[being]] strongly interested in or [[concerned]] [[about]].**
+- **[[a/_aware|Aware]] of, sensitive to; observing and noticing, or [[b/_being|being]] strongly interested in or [[c/_concerned|concerned]] [[a/_about|about]].**
 	- _Example: I was conscious of a noise behind me.   a very class-conscious analysis_
-- **Deliberate, intentional, done with [[awareness]] of what one is doing.**
+- **[[d/_deliberate|Deliberate]], intentional, done with [[a/_awareness|awareness]] of what one is doing.**
 - **Known or felt personally, internally by a person.**
 	- _Example: conscious guilt_
-- **Self-[[conscious]].**
+- **Self-[[c/_conscious|conscious]].**
 ---
 ### Antonyms
 - [[asleep]], [[unaware]], [[unconscious]]

@@ -1,10 +1,10 @@
 # Catenaries
 ---
 #noun
-- **The [[curve]] [[described]] by a flexible [[chain]] or a rope if it is supported at each end and is [[acted]] upon only by no other forces than a uniform gravitational force due to its own weight and variations involving [[additional]] and non-uniform forces.**
-- **Any physical [[cable]], rope, [[chain]], or other weight-supporting structure taking such geometric shape, as a suspension [[cable]] for a [[bridge]] or a power-transmission line or an [[arch]] for a [[bridge]] or roof.**
-- **The [[curve]] of an [[anchor]] [[cable]] from the seabed to the vessel; it should be horizontal at the [[anchor]] so as to [[bury]] the flukes.**
-- **A [[cable]], the segments of which [[between]] supports take a [[catenary]] geometric shape, supporting in turn an overhead [[conductor]] that provides trains, trams or trolley [[buses]] with electricity, or the [[combination]] of the [[conductor]], the [[cable]], and supports.**
+- **The [[c/_curve|curve]] [[d/_described|described]] by a flexible [[c/_chain|chain]] or a rope if it is supported at each end and is [[a/_acted|acted]] upon only by no other forces than a uniform gravitational force due to its own weight and variations involving [[a/_additional|additional]] and non-uniform forces.**
+- **[[a/_any|Any]] physical [[c/_cable|cable]], rope, [[c/_chain|chain]], or other weight-supporting structure taking such geometric shape, as a suspension [[c/_cable|cable]] for a [[b/_bridge|bridge]] or a power-transmission line or an [[a/_arch|arch]] for a [[b/_bridge|bridge]] or roof.**
+- **The [[c/_curve|curve]] of an [[a/_anchor|anchor]] [[c/_cable|cable]] from the seabed to the vessel; it should be horizontal at the [[a/_anchor|anchor]] so as to [[b/_bury|bury]] the flukes.**
+- **A [[c/_cable|cable]], the segments of which [[b/_between|between]] supports take a [[c/_catenary|catenary]] geometric shape, supporting in turn an overhead [[c/_conductor|conductor]] that provides trains, trams or trolley [[b/_buses|buses]] with electricity, or the [[c/_combination|combination]] of the [[c/_conductor|conductor]], the [[c/_cable|cable]], and supports.**
 ---
 ### Synonyms
 - [[alysoid]], [[chainette]]

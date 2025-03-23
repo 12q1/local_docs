@@ -1,7 +1,7 @@
 # Bushbaby
 ---
 #noun
-- **An small, nocturnal, African primate, similar to a lemur.**
+- **An small, nocturnal, [[a/_african|African]] primate, similar to a lemur.**
 ---
 ### Synonyms
 - [[galago]]

@@ -1,6 +1,6 @@
 # Clearstory
 ---
 #noun
-- **The upper part of a wall [[containing]] windows to let in natural light to a [[building]], especially in the nave, transept and [[choir]] of a [[church]] or [[cathedral]].**
+- **The upper part of a wall [[c/_containing|containing]] windows to let in natural light to a [[b/_building|building]], especially in the nave, transept and [[c/_choir|choir]] of a [[c/_church|church]] or [[c/_cathedral|cathedral]].**
 ---
 ---

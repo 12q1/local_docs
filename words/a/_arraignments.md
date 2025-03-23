@@ -1,6 +1,6 @@
 # Arraignments
 ---
 #noun
-- **The formal [[charging]] of a [[defendant]] with an offense.**
+- **The formal [[c/_charging|charging]] of a [[d/_defendant|defendant]] with an offense.**
 ---
 ---

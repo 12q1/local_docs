@@ -1,7 +1,7 @@
 # Amenorrhoea
 ---
 #noun
-- **Absence of menstrual discharge.**
+- **[[a/_absence|Absence]] of menstrual discharge.**
 ---
 ### Synonyms
 - [[nonmenstruation]]

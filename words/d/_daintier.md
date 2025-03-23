@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Excellent; valuable, fine.**
-- **Elegant; [[delicately]] small and pretty.**
+- **Elegant; [[d/_delicately|delicately]] small and pretty.**
 - **Fastidious and fussy, especially when eating.**
 ---
 ### Synonyms

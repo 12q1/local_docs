@@ -1,8 +1,8 @@
 # Brome
 ---
 #noun
-- **Any grass of the genus Bromus.**
-- **Bromine**
+- **[[a/_any|Any]] grass of the genus [[b/_bromus|Bromus]].**
+- **[[b/_bromine|Bromine]]**
 ---
 ### Synonyms
 - [[bromegrass]]

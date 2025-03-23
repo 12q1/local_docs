@@ -4,9 +4,9 @@
 - **Money or other items used to facilitate transactions.**
 	- _Example: Wampum was used as a currency by Amerindians._
 - **(more specifically) Paper money.**
-- **The state of [[being]] [[current]]; general [[acceptance]] or recognition.**
+- **The state of [[b/_being|being]] [[c/_current|current]]; general [[a/_acceptance|acceptance]] or recognition.**
 	- _Example: The jargon’s currency._
-- **Current value; general estimation; the rate at which [[anything]] is generally valued.**
+- **[[c/_current|Current]] value; general estimation; the rate at which [[a/_anything|anything]] is generally valued.**
 - **Fluency; readiness of utterance**
 ---
 ---

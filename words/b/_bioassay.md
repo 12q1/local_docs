@@ -1,9 +1,9 @@
 # Bioassay
 ---
 #noun
-- **The [[analysis]] of the [[biological]] [[activity]] of a substance, with reference to a standard preparation, using a [[culture]] of living [[cells]], or a living [[creature]].**
+- **The [[a/_analysis|analysis]] of the [[b/_biological|biological]] [[a/_activity|activity]] of a substance, with reference to a standard preparation, using a [[c/_culture|culture]] of living [[c/_cells|cells]], or a living [[c/_creature|creature]].**
 ---
 #verb
-- **To [[carry]] out such an [[analysis]].**
+- **To [[c/_carry|carry]] out such an [[a/_analysis|analysis]].**
 ---
 ---

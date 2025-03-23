@@ -6,7 +6,7 @@
 ### Antonyms
 - [[hydrate]], [[moisturize]]
 #adjective
-- **From which the water has [[been]] removed.**
-- **Suffering from [[dehydration]].**
+- **From which the water has [[b/_been|been]] removed.**
+- **Suffering from [[d/_dehydration|dehydration]].**
 ---
 ---

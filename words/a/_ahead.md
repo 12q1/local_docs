@@ -1,7 +1,7 @@
 # Ahead
 ---
 #adverb
-- **In or to the front; in [[advance]]; onward.**
+- **In or to the front; in [[a/_advance|advance]]; onward.**
 - **In the direction one is facing or moving.**
 	- _Example: Just ahead you can see the cliffs._
 - **In or for the future.**

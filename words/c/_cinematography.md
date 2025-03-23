@@ -1,7 +1,7 @@
 # Cinematography
 ---
 #noun
-- **The [[art]], process, or job of filming movies.**
+- **The [[a/_art|art]], process, or job of filming movies.**
 - **Motion picture photography.**
 ---
 ### Synonyms

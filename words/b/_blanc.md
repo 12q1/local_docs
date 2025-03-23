@@ -1,7 +1,7 @@
 # Blanc
 ---
 #noun
-- **A white [[cosmetic]].**
-- **A white sauce of fat, [[broth]], and vegetables, used especially for [[braised]] meat.**
+- **A white [[c/_cosmetic|cosmetic]].**
+- **A white sauce of fat, [[b/_broth|broth]], and vegetables, used especially for [[b/_braised|braised]] meat.**
 ---
 ---

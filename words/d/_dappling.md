@@ -1,9 +1,9 @@
 # Dappling
 ---
 #verb
-- **To mark or [[become]] marked with mottling or spots.**
+- **To mark or [[b/_become|become]] marked with mottling or spots.**
 ---
 #noun
-- **A [[dappled]] pattern.**
+- **A [[d/_dappled|dappled]] pattern.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Croups
 ---
 #verb
-- **(obsolete outside dialectal) To [[croak]], make a hoarse noise.**
+- **(obsolete outside dialectal) To [[c/_croak|croak]], make a hoarse noise.**
 ---
 ---

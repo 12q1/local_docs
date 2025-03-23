@@ -1,6 +1,6 @@
 # Breathiest
 ---
 #adjective
-- **Accompanied by [[audible]] [[breathing]].**
+- **[[a/_accompanied|Accompanied]] by [[a/_audible|audible]] [[b/_breathing|breathing]].**
 ---
 ---

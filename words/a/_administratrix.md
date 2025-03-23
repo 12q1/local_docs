@@ -1,6 +1,6 @@
 # Administratrix
 ---
 #noun
-- **A female [[administrator]].**
+- **A female [[a/_administrator|administrator]].**
 ---
 ---

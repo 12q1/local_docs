@@ -6,6 +6,6 @@
 ### Antonyms
 - [[malefic]]
 #adjective
-- **Favorable; [[beneficent]].**
+- **Favorable; [[b/_beneficent|beneficent]].**
 ---
 ---

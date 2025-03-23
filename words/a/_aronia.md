@@ -1,6 +1,6 @@
 # Aronia
 ---
 #noun
-- **Chokeberry**
+- **[[c/_chokeberry|Chokeberry]]**
 ---
 ---

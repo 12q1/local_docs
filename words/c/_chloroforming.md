@@ -1,6 +1,6 @@
 # Chloroforming
 ---
 #verb
-- **To treat with [[chloroform]], or to render unconscious with [[chloroform]].**
+- **To treat with [[c/_chloroform|chloroform]], or to render unconscious with [[c/_chloroform|chloroform]].**
 ---
 ---

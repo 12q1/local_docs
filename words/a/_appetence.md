@@ -1,6 +1,6 @@
 # Appetence
 ---
 #noun
-- **The state or [[action]] of [[desiring]] or [[craving]].**
+- **The state or [[a/_action|action]] of [[d/_desiring|desiring]] or [[c/_craving|craving]].**
 ---
 ---

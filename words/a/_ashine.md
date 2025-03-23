@@ -1,7 +1,7 @@
 # Ashine
 ---
 #adjective
-- **Shining; radiant; [[bright]]**
+- **Shining; radiant; [[b/_bright|bright]]**
 	- _Example: Her face was ashine with joy._
 ---
 ---

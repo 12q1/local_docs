@@ -1,6 +1,6 @@
 # Dastards
 ---
 #noun
-- **A malicious [[coward]]; a dishonorable sneak.**
+- **A malicious [[c/_coward|coward]]; a dishonorable sneak.**
 ---
 ---

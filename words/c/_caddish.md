@@ -1,6 +1,6 @@
 # Caddish
 ---
 #adjective
-- **Characteristic of a [[cad]].**
+- **[[c/_characteristic|Characteristic]] of a [[c/_cad|cad]].**
 ---
 ---

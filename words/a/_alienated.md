@@ -1,8 +1,8 @@
 # Alienated
 ---
 #verb
-- **To [[convey]] or transfer to [[another]], as title, property, or right; to part voluntarily with ownership of.**
-- **To estrange; to withdraw [[affections]] or [[attention]] from; to make indifferent or [[averse]], where love or friendship [[before]] subsisted.**
+- **To [[c/_convey|convey]] or transfer to [[a/_another|another]], as title, property, or right; to part voluntarily with ownership of.**
+- **To estrange; to withdraw [[a/_affections|affections]] or [[a/_attention|attention]] from; to make indifferent or [[a/_averse|averse]], where love or friendship [[b/_before|before]] subsisted.**
 ---
 ### Synonyms
 - [[antagonize]], [[estrange]], [[isolate]], [[marginalize]]

@@ -1,11 +1,11 @@
 # Debonair
 ---
 #noun
-- **Debonaire [[behaviour]]; graciousness.**
+- **[[d/_debonaire|Debonaire]] [[b/_behaviour|behaviour]]; graciousness.**
 ---
 #adjective
-- **Gracious, [[courteous]].**
+- **Gracious, [[c/_courteous|courteous]].**
 - **Suave, urbane and sophisticated.**
-- **(especially of men) Charming, [[confident]] and [[carefully]] dressed.**
+- **(especially of men) [[c/_charming|Charming]], [[c/_confident|confident]] and [[c/_carefully|carefully]] dressed.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Brownest
 ---
 #adjective
-- **Having a [[brown]] [[colour]].**
+- **Having a [[b/_brown|brown]] [[c/_colour|colour]].**
 - **Gloomy.**
-- **(sometimes [[capitalized]]) Of or relating to [[any]] of various ethnic groups having [[dark]] pigmentation of the skin.**
+- **(sometimes [[c/_capitalized|capitalized]]) Of or relating to [[a/_any|any]] of various ethnic groups having [[d/_dark|dark]] pigmentation of the skin.**
 ---
 ### Antonyms
 - [[nonbrown]]

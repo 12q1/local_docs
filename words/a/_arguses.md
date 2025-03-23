@@ -2,8 +2,8 @@
 ---
 #noun
 - **A watchful guardian.**
-- **An [[alert]], observant person.**
-- **Either of two species of pheasant of Southeast Asia having large ocellated tails.**
-- **Any of various nymphalid [[butterflies]] of the genus Junonia. Also [[called]] pansies.**
+- **An [[a/_alert|alert]], observant person.**
+- **Either of two species of pheasant of Southeast [[a/_asia|Asia]] having large ocellated tails.**
+- **[[a/_any|Any]] of various nymphalid [[b/_butterflies|butterflies]] of the genus Junonia. [[a/_also|Also]] [[c/_called|called]] pansies.**
 ---
 ---

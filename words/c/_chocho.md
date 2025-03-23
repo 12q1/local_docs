@@ -1,6 +1,6 @@
 # Chocho
 ---
 #noun
-- **(Carribean) A [[chayote]].**
+- **(Carribean) A [[c/_chayote|chayote]].**
 ---
 ---

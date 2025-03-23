@@ -1,8 +1,8 @@
 # Borderlines
 ---
 #noun
-- **A [[boundary]] or [[accepted]] division; a [[border]].**
+- **A [[b/_boundary|boundary]] or [[a/_accepted|accepted]] division; a [[b/_border|border]].**
 	- _Example: She lives on the borderline between reality and madness._
-- **An individual who has [[borderline]] personality disorder.**
+- **An individual who has [[b/_borderline|borderline]] personality disorder.**
 ---
 ---

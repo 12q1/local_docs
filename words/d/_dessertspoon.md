@@ -1,8 +1,8 @@
 # Dessertspoon
 ---
 #noun
-- **An item of [[cutlery]]; a spoon, larger than a teaspoon and smaller than a tablespoon, used for eating [[dessert]].**
-- **A unit of measure, [[being]] equivalent to two teaspoons or two-thirds of a tablespoon, or [[approximately]] 10 millilitres; a [[dessertspoonful]].**
-- **More generally, that volume of a substance which is [[contained]] within a [[dessert]] spoon.**
+- **An item of [[c/_cutlery|cutlery]]; a spoon, larger than a teaspoon and smaller than a tablespoon, used for eating [[d/_dessert|dessert]].**
+- **A unit of measure, [[b/_being|being]] equivalent to two teaspoons or two-thirds of a tablespoon, or [[a/_approximately|approximately]] 10 millilitres; a [[d/_dessertspoonful|dessertspoonful]].**
+- **More generally, that volume of a substance which is [[c/_contained|contained]] within a [[d/_dessert|dessert]] spoon.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Derby
 ---
 #noun
-- **Any of several [[annual]] horse races.**
-- **(by extension) Any organized race.**
+- **[[a/_any|Any]] of several [[a/_annual|annual]] horse races.**
+- **(by extension) [[a/_any|Any]] organized race.**
 	- _Example: a donkey derby_
-- **A [[bowler]] hat.**
-- **A local [[derby]].**
+- **A [[b/_bowler|bowler]] hat.**
+- **A local [[d/_derby|derby]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Chokedamp
 ---
 #noun
-- **A [[damp]] [[consisting]] [[chiefly]] of [[carbon]] dioxide, so [[called]] for its [[ability]] to [[asphyxiate]].**
+- **A [[d/_damp|damp]] [[c/_consisting|consisting]] [[c/_chiefly|chiefly]] of [[c/_carbon|carbon]] dioxide, so [[c/_called|called]] for its [[a/_ability|ability]] to [[a/_asphyxiate|asphyxiate]].**
 ---
 ---

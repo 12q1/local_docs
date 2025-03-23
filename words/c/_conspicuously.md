@@ -1,7 +1,7 @@
 # Conspicuously
 ---
 #adverb
-- **In a [[conspicuous]] manner; noticeably.**
+- **In a [[c/_conspicuous|conspicuous]] manner; noticeably.**
 ---
 ### Antonyms
 - [[inconspicuously]]

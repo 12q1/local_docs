@@ -1,8 +1,8 @@
 # Aspirin
 ---
 #noun
-- **An [[analgesic]] drug, [[acetylsalicylic]] [[acid]]**
-- **A tablet [[containing]] this substance**
+- **An [[a/_analgesic|analgesic]] drug, [[a/_acetylsalicylic|acetylsalicylic]] [[a/_acid|acid]]**
+- **A tablet [[c/_containing|containing]] this substance**
 ---
 ### Synonyms
 - [[ASA]], [[acetylsalicylic acid]]

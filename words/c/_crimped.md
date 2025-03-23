@@ -1,20 +1,20 @@
 # Crimped
 ---
 #verb
-- **To press into small ridges or folds, to pleat, to [[corrugate]].**
+- **To press into small ridges or folds, to pleat, to [[c/_corrugate|corrugate]].**
 	- _Example: Cornish pasties are crimped during preparation._
-- **To fasten by [[bending]] metal so that it squeezes [[around]] the parts to be fastened.**
+- **To fasten by [[b/_bending|bending]] metal so that it squeezes [[a/_around|around]] the parts to be fastened.**
 	- _Example: He crimped the wire in place._
 - **To pinch and hold; to seize.**
-- **To style hair into a [[crimp]], to form hair into tight [[curls]], to make it kinky.**
-- **To [[bend]] or mold leather into shape.**
-- **To gash the flesh, e.g. of a raw fish, to make it [[crisper]] when [[cooked]].**
+- **To style hair into a [[c/_crimp|crimp]], to form hair into tight [[c/_curls|curls]], to make it kinky.**
+- **To [[b/_bend|bend]] or mold leather into shape.**
+- **To gash the flesh, e.g. of a raw fish, to make it [[c/_crisper|crisper]] when [[c/_cooked|cooked]].**
 ---
 #verb
-- **To impress (seamen or soldiers); to entrap, to [[decoy]].**
+- **To impress (seamen or soldiers); to entrap, to [[d/_decoy|decoy]].**
 ---
 #adjective
-- **With a [[crimp]] in it; [[crushed]] shut.**
+- **With a [[c/_crimp|crimp]] in it; [[c/_crushed|crushed]] shut.**
 	- _Example: The crimped edges had been welded in earlier models._
 ---
 ---

@@ -1,6 +1,6 @@
 # Condottieri
 ---
 #noun
-- **A mercenary military leader from 14th-[[century]] Italy and later in other parts of Europe.**
+- **A mercenary military leader from 14th-[[c/_century|century]] Italy and later in other parts of Europe.**
 ---
 ---

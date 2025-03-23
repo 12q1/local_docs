@@ -1,9 +1,9 @@
 # Balding
 ---
 #verb
-- **To [[become]] [[bald]].**
+- **To [[b/_become|become]] [[b/_bald|bald]].**
 ---
 #adjective
-- **Becoming [[bald]], especially having male pattern [[baldness]]**
+- **[[b/_becoming|Becoming]] [[b/_bald|bald]], especially having male pattern [[b/_baldness|baldness]]**
 ---
 ---

@@ -1,9 +1,9 @@
 # Corky
 ---
 #adjective
-- **Of wine, [[contaminated]] by a faulty or tainted [[cork]].**
+- **Of wine, [[c/_contaminated|contaminated]] by a faulty or tainted [[c/_cork|cork]].**
 	- _Example: This wine smells a bit corky; get me another bottle._
-- **Consisting of, or like, [[cork]]; dry; shrivelled.**
+- **[[c/_consisting|Consisting]] of, or like, [[c/_cork|cork]]; dry; shrivelled.**
 ---
 ### Synonyms
 - [[suberose]], [[suberous]]

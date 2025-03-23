@@ -1,11 +1,11 @@
 # Continuative
 ---
 #noun
-- **Something that [[causes]] a [[continuation]].**
+- **Something that [[c/_causes|causes]] a [[c/_continuation|continuation]].**
 - **A durative.**
 ---
 #adjective
-- **Of or pertaining to [[continuation]].**
+- **Of or pertaining to [[c/_continuation|continuation]].**
 - **Durative.**
 ---
 ---

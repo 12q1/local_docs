@@ -1,15 +1,15 @@
 # Anastomoses
 ---
 #verb
-- **(of streams and rivers, [[blood]] vessels, etc) To join (two or more things) by [[anastomosis]], to interconnect forming a network.**
-- **(of rivers, [[blood]] vessels, etc) To join by [[anastomosis]].**
+- **(of streams and rivers, [[b/_blood|blood]] vessels, etc) To join (two or more things) by [[a/_anastomosis|anastomosis]], to interconnect forming a network.**
+- **(of rivers, [[b/_blood|blood]] vessels, etc) To join by [[a/_anastomosis|anastomosis]].**
 ---
 ### Synonyms
 - [[interconnect]], [[interjoin]]
 #noun
-- **A [[cross]]-[[connection]] [[between]] two [[blood]] vessels.**
-- **An interconnection [[between]] [[any]] two [[channels]], passages or vessels.**
-- **The surgical [[creation]] of a [[connecting]] passage [[between]] [[blood]] vessels, [[bowels]] or other [[channels]].**
-- **The insertion of one word within [[another]], as in "underdarkneath" (James Joyce).**
+- **A [[c/_cross|cross]]-[[c/_connection|connection]] [[b/_between|between]] two [[b/_blood|blood]] vessels.**
+- **An interconnection [[b/_between|between]] [[a/_any|any]] two [[c/_channels|channels]], passages or vessels.**
+- **The surgical [[c/_creation|creation]] of a [[c/_connecting|connecting]] passage [[b/_between|between]] [[b/_blood|blood]] vessels, [[b/_bowels|bowels]] or other [[c/_channels|channels]].**
+- **The insertion of one word within [[a/_another|another]], as in "underdarkneath" (James Joyce).**
 ---
 ---

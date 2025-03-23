@@ -1,6 +1,6 @@
 # Cosmonaut
 ---
 #noun
-- **An [[astronaut]], especially a Russian or Soviet one.**
+- **An [[a/_astronaut|astronaut]], especially a Russian or Soviet one.**
 ---
 ---

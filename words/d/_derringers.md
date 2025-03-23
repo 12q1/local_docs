@@ -1,6 +1,6 @@
 # Derringers
 ---
 #noun
-- **A type of very small, [[concealable]] pistol with one or two [[barrels]], but without [[any]] loading system or magazine.**
+- **A type of very small, [[c/_concealable|concealable]] pistol with one or two [[b/_barrels|barrels]], but without [[a/_any|any]] loading system or magazine.**
 ---
 ---

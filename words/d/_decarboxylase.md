@@ -1,6 +1,6 @@
 # Decarboxylase
 ---
 #noun
-- **Any enzyme that [[catalyzes]] the hydrolysis of a [[carboxyl]] group, effectively removing [[carbon]] dioxide from a [[compound]].**
+- **[[a/_any|Any]] enzyme that [[c/_catalyzes|catalyzes]] the hydrolysis of a [[c/_carboxyl|carboxyl]] group, effectively removing [[c/_carbon|carbon]] dioxide from a [[c/_compound|compound]].**
 ---
 ---

@@ -1,8 +1,8 @@
 # Clubhouse
 ---
 #noun
-- **Any [[building]] used by a [[club]] for meetings or social [[activities]].**
-- **A locker room and possibly [[associated]] rooms used by an [[athletic]] team.**
-- **A [[building]] at a golf [[course]] that houses various [[activities]] [[associated]] with golf.**
+- **[[a/_any|Any]] [[b/_building|building]] used by a [[c/_club|club]] for meetings or social [[a/_activities|activities]].**
+- **A locker room and possibly [[a/_associated|associated]] rooms used by an [[a/_athletic|athletic]] team.**
+- **A [[b/_building|building]] at a golf [[c/_course|course]] that houses various [[a/_activities|activities]] [[a/_associated|associated]] with golf.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Aspirant
 ---
 #noun
-- **Someone who [[aspires]] to high office, etc.**
+- **Someone who [[a/_aspires|aspires]] to high office, etc.**
 ---
 #adjective
-- **Seeking [[advancement]].**
+- **Seeking [[a/_advancement|advancement]].**
 - **Striving for recognition.**
 ---
 ---

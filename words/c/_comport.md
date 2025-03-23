@@ -1,14 +1,14 @@
 # Comport
 ---
 #noun
-- **Manner of [[acting]]; [[conduct]]; [[deportment]].**
+- **Manner of [[a/_acting|acting]]; [[c/_conduct|conduct]]; [[d/_deportment|deportment]].**
 ---
 #verb
-- **To tolerate, [[bear]], put up (with).**
+- **To tolerate, [[b/_bear|bear]], put up (with).**
 	- _Example: to comport with an injury_
-- **To be in [[agreement]] (with); to be of an [[accord]].**
+- **To be in [[a/_agreement|agreement]] (with); to be of an [[a/_accord|accord]].**
 	- _Example: The new rules did not seem to comport with the spirit of the club._
-- **To [[behave]] (in a given manner).**
+- **To [[b/_behave|behave]] (in a given manner).**
 	- _Example: She comported herself with grace._
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Botryoidal
 ---
 #adjective
-- **Having the form of a [[bunch]] of grapes.**
+- **Having the form of a [[b/_bunch|bunch]] of grapes.**
 ---
 ---

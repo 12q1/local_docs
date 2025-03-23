@@ -1,7 +1,7 @@
 # Churched
 ---
 #verb
-- **To [[conduct]] a religious service for (a woman [[after]] [[childbirth]], or a newly married [[couple]]).**
-- **To educate someone religiously, as in in a [[church]].**
+- **To [[c/_conduct|conduct]] a religious service for (a woman [[a/_after|after]] [[c/_childbirth|childbirth]], or a newly married [[c/_couple|couple]]).**
+- **To educate someone religiously, as in in a [[c/_church|church]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Demurrals
 ---
 #noun
-- **The [[act]] of [[demurring]].**
+- **The [[a/_act|act]] of [[d/_demurring|demurring]].**
 - **A formal objection.**
 ---
 ### Synonyms

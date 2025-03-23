@@ -1,7 +1,7 @@
 # Arrestment
 ---
 #noun
-- **The [[action]] of [[arresting]] (in [[any]] sense)**
-- **The process that prohibits a [[debtor]] from making payment to the [[creditor]] until [[another]] [[debt]] due to the person making use of the [[arrestment]] by such [[creditor]] is paid.**
+- **The [[a/_action|action]] of [[a/_arresting|arresting]] (in [[a/_any|any]] sense)**
+- **The process that prohibits a [[d/_debtor|debtor]] from making payment to the [[c/_creditor|creditor]] until [[a/_another|another]] [[d/_debt|debt]] due to the person making use of the [[a/_arrestment|arrestment]] by such [[c/_creditor|creditor]] is paid.**
 ---
 ---

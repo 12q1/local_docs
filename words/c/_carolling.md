@@ -1,6 +1,6 @@
 # Carolling
 ---
 #noun
-- **A singing of [[carols]].**
+- **A singing of [[c/_carols|carols]].**
 ---
 ---

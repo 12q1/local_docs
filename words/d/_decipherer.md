@@ -1,6 +1,6 @@
 # Decipherer
 ---
 #noun
-- **A person who [[deciphers]].**
+- **A person who [[d/_deciphers|deciphers]].**
 ---
 ---

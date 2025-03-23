@@ -1,18 +1,18 @@
 # Coffin
 ---
 #noun
-- **A rectangular [[closed]] [[box]] in which the [[body]] of a [[dead]] person is placed for [[burial]].**
-- **The eighth Lenormand [[card]].**
-- **A [[basket]].**
-- **A [[casing]] or [[crust]], or a mold, of pastry, as for a pie.**
-- **A [[conical]] paper [[bag]], used by grocers.**
-- **The hollow [[crust]] or hoof of a horse's foot, [[below]] the [[coronet]], in which is the [[coffin]] [[bone]].**
-- **A storage [[container]] for nuclear waste.**
+- **A rectangular [[c/_closed|closed]] [[b/_box|box]] in which the [[b/_body|body]] of a [[d/_dead|dead]] person is placed for [[b/_burial|burial]].**
+- **The eighth Lenormand [[c/_card|card]].**
+- **A [[b/_basket|basket]].**
+- **A [[c/_casing|casing]] or [[c/_crust|crust]], or a mold, of pastry, as for a pie.**
+- **A [[c/_conical|conical]] paper [[b/_bag|bag]], used by grocers.**
+- **The hollow [[c/_crust|crust]] or hoof of a horse's foot, [[b/_below|below]] the [[c/_coronet|coronet]], in which is the [[c/_coffin|coffin]] [[b/_bone|bone]].**
+- **A storage [[c/_container|container]] for nuclear waste.**
 ---
 ### Synonyms
 - [[casket]]
 #verb
-- **To place in a [[coffin]].**
+- **To place in a [[c/_coffin|coffin]].**
 ---
 ### Synonyms
 - [[encoffin]]

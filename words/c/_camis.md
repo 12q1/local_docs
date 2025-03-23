@@ -1,6 +1,6 @@
 # Camis
 ---
 #noun
-- **A [[camisole]].**
+- **A [[c/_camisole|camisole]].**
 ---
 ---

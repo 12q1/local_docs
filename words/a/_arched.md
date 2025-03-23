@@ -1,12 +1,12 @@
 # Arched
 ---
 #verb
-- **To form into an [[arch]] shape**
+- **To form into an [[a/_arch|arch]] shape**
 	- _Example: The cat arched its back_
-- **To [[cover]] with an [[arch]] or [[arches]].**
+- **To [[c/_cover|cover]] with an [[a/_arch|arch]] or [[a/_arches|arches]].**
 ---
 #adjective
-- **Curved.**
+- **[[c/_curved|Curved]].**
 	- _Example: His arched back ached from the constant strain._
 ---
 ---

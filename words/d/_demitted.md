@@ -1,7 +1,7 @@
 # Demitted
 ---
 #verb
-- **To let fall; to [[depress]]; to yield.**
-- **To relinquish an office, membership, [[authority]], etc.; to resign, as from a Masonic lodge.**
+- **To let fall; to [[d/_depress|depress]]; to yield.**
+- **To relinquish an office, membership, [[a/_authority|authority]], etc.; to resign, as from a Masonic lodge.**
 ---
 ---

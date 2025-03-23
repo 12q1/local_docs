@@ -1,15 +1,15 @@
 # Covert
 ---
 #noun
-- **A [[covering]].**
+- **A [[c/_covering|covering]].**
 - **A disguise.**
 - **A hiding place.**
-- **Area of thick undergrowth where [[animals]] hide.**
-- **A feather that [[covers]] the [[bases]] of flight feathers.**
+- **[[a/_area|Area]] of thick undergrowth where [[a/_animals|animals]] hide.**
+- **A feather that [[c/_covers|covers]] the [[b/_bases|bases]] of flight feathers.**
 ---
 #adjective
-- **Hidden, [[covered]] over; overgrown, sheltered.**
-- **Secret, surreptitious, [[concealed]].**
+- **Hidden, [[c/_covered|covered]] over; overgrown, sheltered.**
+- **Secret, surreptitious, [[c/_concealed|concealed]].**
 ---
 ### Synonyms
 - [[feme covert]]

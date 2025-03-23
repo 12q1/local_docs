@@ -1,7 +1,7 @@
 # Comedic
 ---
 #adjective
-- **Relating to [[comedy]].**
+- **Relating to [[c/_comedy|comedy]].**
 ---
 ### Synonyms
 - [[comic]], [[comical]]

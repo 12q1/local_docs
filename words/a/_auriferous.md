@@ -1,7 +1,7 @@
 # Auriferous
 ---
 #adjective
-- **Containing or producing gold; gold-[[bearing]]**
+- **[[c/_containing|Containing]] or producing gold; gold-[[b/_bearing|bearing]]**
 ---
 ### Synonyms
 - [[gold-bearing]]

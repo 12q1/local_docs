@@ -1,7 +1,7 @@
 # Aspiration
 ---
 #noun
-- **The [[act]] of [[aspiring]] or [[ardently]] [[desiring]]; an [[ardent]] wish or [[desire]], [[chiefly]] [[after]] what is elevated or spiritual (with [[common]] [[adjunct]] adpositions [[being]] to and of).**
+- **The [[a/_act|act]] of [[a/_aspiring|aspiring]] or [[a/_ardently|ardently]] [[d/_desiring|desiring]]; an [[a/_ardent|ardent]] wish or [[d/_desire|desire]], [[c/_chiefly|chiefly]] [[a/_after|after]] what is elevated or spiritual (with [[c/_common|common]] [[a/_adjunct|adjunct]] adpositions [[b/_being|being]] to and of).**
 	- _Example: Morgan has an aspiration of winning the game._
 ---
 ---

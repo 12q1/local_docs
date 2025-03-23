@@ -1,6 +1,6 @@
 # Defoliants
 ---
 #noun
-- **An [[agent]] used to [[defoliate]] plants.**
+- **An [[a/_agent|agent]] used to [[d/_defoliate|defoliate]] plants.**
 ---
 ---

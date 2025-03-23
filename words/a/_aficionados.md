@@ -1,8 +1,8 @@
 # Aficionados
 ---
 #noun
-- **An [[amateur]] [[bullfighter]].**
-- **A person who likes, knows [[about]], and [[appreciates]] a particular interest or [[activity]] (originally [[bullfighting]]); a fan or devotee.**
+- **An [[a/_amateur|amateur]] [[b/_bullfighter|bullfighter]].**
+- **A person who likes, knows [[a/_about|about]], and [[a/_appreciates|appreciates]] a particular interest or [[a/_activity|activity]] (originally [[b/_bullfighting|bullfighting]]); a fan or devotee.**
 ---
 ### Synonyms
 - [[admirer]], [[buff]], [[connoisseur]], [[enthusiast]], [[expert]], [[fan]], [[follower]], [[lover]]

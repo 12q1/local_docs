@@ -3,18 +3,18 @@
 #verb
 - **To split or sever something with, or as if with, a sharp instrument.**
 	- _Example: The wings cleaved the foggy air._
-- **To [[break]] a single [[crystal]] (such as a gemstone or semiconductor wafer) [[along]] one of its more symmetrical [[crystallographic]] planes (often by impact), forming facets on the resulting pieces.**
-- **To make or [[accomplish]] by or as if by [[cutting]].**
+- **To [[b/_break|break]] a single [[c/_crystal|crystal]] (such as a gemstone or semiconductor wafer) [[a/_along|along]] one of its more symmetrical [[c/_crystallographic|crystallographic]] planes (often by impact), forming facets on the resulting pieces.**
+- **To make or [[a/_accomplish|accomplish]] by or as if by [[c/_cutting|cutting]].**
 	- _Example: The truck cleaved a path through the ice._
-- **To split (a [[complex]] molecule) into simpler molecules.**
+- **To split (a [[c/_complex|complex]] molecule) into simpler molecules.**
 - **To split.**
-- **Of a [[crystal]], to split [[along]] a natural plane of division.**
+- **Of a [[c/_crystal|crystal]], to split [[a/_along|along]] a natural plane of division.**
 ---
 #verb
-- **To [[cling]], [[adhere]] or stick fast to something; used with to or unto.**
+- **To [[c/_cling|cling]], [[a/_adhere|adhere]] or stick fast to something; used with to or unto.**
 ---
 #noun
-- **The [[act]] of one who [[cleaves]], splits, or severs.**
-- **The [[act]] of one who [[cleaves]], [[clings]], or [[adheres]].**
+- **The [[a/_act|act]] of one who [[c/_cleaves|cleaves]], splits, or severs.**
+- **The [[a/_act|act]] of one who [[c/_cleaves|cleaves]], [[c/_clings|clings]], or [[a/_adheres|adheres]].**
 ---
 ---

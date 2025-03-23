@@ -1,10 +1,10 @@
 # Ciphered
 ---
 #verb
-- **To [[calculate]].**
+- **To [[c/_calculate|calculate]].**
 	- _Example: I never learned much more than how to read and cipher._
-- **To write in [[code]] or [[cipher]].**
+- **To write in [[c/_code|code]] or [[c/_cipher|cipher]].**
 - **Of an organ pipe: to sound independent of the organ.**
-- **To [[decipher]].**
+- **To [[d/_decipher|decipher]].**
 ---
 ---

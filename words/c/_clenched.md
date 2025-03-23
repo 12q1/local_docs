@@ -2,7 +2,7 @@
 ---
 #verb
 - **To grip or hold fast.**
-- **To [[close]] tightly.**
+- **To [[c/_close|close]] tightly.**
 	- _Example: He clenched his fist in anger._
 ---
 ### Synonyms
@@ -10,7 +10,7 @@
 ### Antonyms
 - [[unclench]]
 #adjective
-- **Closed tightly.**
+- **[[c/_closed|Closed]] tightly.**
 	- _Example: a clenched fist_
 ---
 ### Antonyms

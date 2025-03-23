@@ -1,18 +1,18 @@
 # Clamors
 ---
 #noun
-- **A great outcry or vociferation; loud and [[continued]] shouting or exclamation.**
-- **Any loud and [[continued]] noise.**
-- **A [[continued]] public expression, often of dissatisfaction or discontent; a popular outcry.**
+- **A great outcry or vociferation; loud and [[c/_continued|continued]] shouting or exclamation.**
+- **[[a/_any|Any]] loud and [[c/_continued|continued]] noise.**
+- **A [[c/_continued|continued]] public expression, often of dissatisfaction or discontent; a popular outcry.**
 ---
 ### Synonyms
 - [[outcry]], [[tumult]]
 #verb
-- **To [[cry]] out and/or [[demand]].**
+- **To [[c/_cry|cry]] out and/or [[d/_demand|demand]].**
 	- _Example: Anyone who tastes our food seems to clamor for more._
-- **To [[demand]] by outcry.**
+- **To [[d/_demand|demand]] by outcry.**
 	- _Example: Thousands of demonstrators clamoring the government's resignation were literally deafening, yet their cries fell in deaf ears_
-- **To [[become]] noisy insistently.**
+- **To [[b/_become|become]] noisy insistently.**
 	- _Example: After a confused murmur the audience soon clamored_
 - **To influence by outcry.**
 	- _Example: His many supporters successfully clamor his election without a formal vote_

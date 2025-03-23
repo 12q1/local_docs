@@ -1,10 +1,10 @@
 # Chick
 ---
 #noun
-- **A young [[bird]].**
-- **A young [[chicken]].**
-- **(term of endearment) A young [[child]].**
-- **A young, especially [[attractive]], woman or teenage girl.**
+- **A young [[b/_bird|bird]].**
+- **A young [[c/_chicken|chicken]].**
+- **(term of endearment) A young [[c/_child|child]].**
+- **A young, especially [[a/_attractive|attractive]], woman or teenage girl.**
 ---
 ### Synonyms
 - [[fledgling]]

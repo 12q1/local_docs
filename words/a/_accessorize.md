@@ -1,7 +1,7 @@
 # Accessorize
 ---
 #verb
-- **To furnish with [[accessories]].**
-- **To wear or to [[choose]] [[accessories]].**
+- **To furnish with [[a/_accessories|accessories]].**
+- **To wear or to [[c/_choose|choose]] [[a/_accessories|accessories]].**
 ---
 ---

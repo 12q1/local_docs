@@ -1,6 +1,6 @@
 # Congregant
 ---
 #noun
-- **A member of a [[congregation]].**
+- **A member of a [[c/_congregation|congregation]].**
 ---
 ---

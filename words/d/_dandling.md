@@ -1,12 +1,12 @@
 # Dandling
 ---
 #verb
-- **To move up and down on one's knee or in one's [[arms]], in [[affectionate]] play, as an infant.**
-- **To treat with fondness, as if a [[child]]; to fondle; to toy with; to pet.**
-- **To play with; to put off or [[delay]] by trifles; to wheedle.**
+- **To move up and down on one's knee or in one's [[a/_arms|arms]], in [[a/_affectionate|affectionate]] play, as an infant.**
+- **To treat with fondness, as if a [[c/_child|child]]; to fondle; to toy with; to pet.**
+- **To play with; to put off or [[d/_delay|delay]] by trifles; to wheedle.**
 ---
 #noun
-- **The [[act]] by which somebody is [[dandled]].**
+- **The [[a/_act|act]] by which somebody is [[d/_dandled|dandled]].**
 	- _Example: the dandlings and caressings of maternal love_
 ---
 ---

@@ -1,16 +1,16 @@
 # Darken
 ---
 #verb
-- **To make [[dark]] or [[darker]] by reducing light.**
-- **To [[become]] [[dark]] or [[darker]] (having less light).**
-- **To get [[dark]] (referring to the sky, either in the evening or as a result of [[cloud]]).**
-- **To make [[dark]] or [[darker]] in [[colour]].**
-- **To [[become]] [[dark]] or [[darker]] in [[colour]].**
-- **To render gloomy, [[darker]] in mood.**
-- **To [[become]] gloomy, [[darker]] in mood.**
-- **To [[blind]], impair the eyesight.**
-- **To be [[blinded]], lose one’s eyesight.**
-- **To [[cloud]], obscure, or perplex; to render less [[clear]] or intelligible.**
+- **To make [[d/_dark|dark]] or [[d/_darker|darker]] by reducing light.**
+- **To [[b/_become|become]] [[d/_dark|dark]] or [[d/_darker|darker]] (having less light).**
+- **To get [[d/_dark|dark]] (referring to the sky, either in the evening or as a result of [[c/_cloud|cloud]]).**
+- **To make [[d/_dark|dark]] or [[d/_darker|darker]] in [[c/_colour|colour]].**
+- **To [[b/_become|become]] [[d/_dark|dark]] or [[d/_darker|darker]] in [[c/_colour|colour]].**
+- **To render gloomy, [[d/_darker|darker]] in mood.**
+- **To [[b/_become|become]] gloomy, [[d/_darker|darker]] in mood.**
+- **To [[b/_blind|blind]], impair the eyesight.**
+- **To be [[b/_blinded|blinded]], lose one’s eyesight.**
+- **To [[c/_cloud|cloud]], obscure, or perplex; to render less [[c/_clear|clear]] or intelligible.**
 - **To make foul; to sully; to tarnish.**
 ---
 ### Synonyms

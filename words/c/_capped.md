@@ -1,8 +1,8 @@
 # Capped
 ---
 #verb
-- **To [[cover]] or seal with a [[cap]].**
-- **To [[award]] a [[cap]] as a mark of distinction.**
+- **To [[c/_cover|cover]] or seal with a [[c/_cap|cap]].**
+- **To [[a/_award|award]] a [[c/_cap|cap]] as a mark of distinction.**
 - **To lie over or on top of something.**
 - **To surpass or outdo.**
 - **To set an upper limit on something.**
@@ -15,13 +15,13 @@
 - **To select to play for the national team.**
 	- _Example: Peter Shilton is the most capped English footballer._
 - **To salute by uncovering the head respectfully.**
-- **To [[deprive]] of a [[cap]].**
+- **To [[d/_deprive|deprive]] of a [[c/_cap|cap]].**
 - **To tell a lie.**
 ---
 #verb
-- **To [[convert]] text to uppercase.**
+- **To [[c/_convert|convert]] text to uppercase.**
 ---
 #verb
-- **To take a screenshot or to record a [[copy]] of a video.**
+- **To take a screenshot or to record a [[c/_copy|copy]] of a video.**
 ---
 ---

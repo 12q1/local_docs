@@ -1,10 +1,10 @@
 # Bottler
 ---
 #noun
-- **A person, [[company]], or thing who [[bottles]], especially in [[bulk]].**
-- **A truck used for transporting [[bottled]] goods in [[crates]].**
+- **A person, [[c/_company|company]], or thing who [[b/_bottles|bottles]], especially in [[b/_bulk|bulk]].**
+- **A truck used for transporting [[b/_bottled|bottled]] goods in [[c/_crates|crates]].**
 - **A person who or group that fails to meet expectations, especially one prone to such failure.**
-- **A Punchman's [[assistant]] who [[collects]] money ("[[bottle]]") from the [[audience]].**
+- **A Punchman's [[a/_assistant|assistant]] who [[c/_collects|collects]] money ("[[b/_bottle|bottle]]") from the [[a/_audience|audience]].**
 ---
 ### Synonyms
 - [[choker]]

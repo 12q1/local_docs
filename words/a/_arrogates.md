@@ -1,7 +1,7 @@
 # Arrogates
 ---
 #verb
-- **To [[appropriate]] or lay [[claim]] to something for oneself without right.**
+- **To [[a/_appropriate|appropriate]] or lay [[c/_claim|claim]] to something for oneself without right.**
 ---
 ### Synonyms
 - [[commandeer]], [[expropriate]], [[usurp]]

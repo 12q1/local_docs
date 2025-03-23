@@ -1,6 +1,6 @@
 # Calcareous
 ---
 #adjective
-- **Resembling or [[containing]] [[calcium]] [[carbonate]] or limestone; [[chalky]].**
+- **Resembling or [[c/_containing|containing]] [[c/_calcium|calcium]] [[c/_carbonate|carbonate]] or limestone; [[c/_chalky|chalky]].**
 ---
 ---

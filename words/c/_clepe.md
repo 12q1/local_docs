@@ -1,14 +1,14 @@
 # Clepe
 ---
 #noun
-- **A [[cry]]; an [[appeal]]; a [[call]].**
+- **A [[c/_cry|cry]]; an [[a/_appeal|appeal]]; a [[c/_call|call]].**
 ---
 #verb
-- **To give a [[call]]; [[cry]] out; [[appeal]].**
-- **To [[call]]; [[call]] upon; [[cry]] out to.**
-- **To [[call]] to oneself; invite; summon.**
-- **To [[call]]; [[call]] by the name of; name.**
-- **(often with 'on') To tell lies [[about]]; inform [[against]] (someone).**
+- **To give a [[c/_call|call]]; [[c/_cry|cry]] out; [[a/_appeal|appeal]].**
+- **To [[c/_call|call]]; [[c/_call|call]] upon; [[c/_cry|cry]] out to.**
+- **To [[c/_call|call]] to oneself; invite; summon.**
+- **To [[c/_call|call]]; [[c/_call|call]] by the name of; name.**
+- **(often with 'on') To tell lies [[a/_about|about]]; inform [[a/_against|against]] (someone).**
 - **To be loquacious; tattle; gossip.**
 - **To report; relate; tell.**
 ---

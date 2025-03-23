@@ -1,9 +1,9 @@
 # Charitable
 ---
 #adjective
-- **Pertaining to [[charity]].**
+- **Pertaining to [[c/_charity|charity]].**
 - **Kind, generous.**
-- **Having a purpose or [[character]] of a [[charity]].**
+- **Having a purpose or [[c/_character|character]] of a [[c/_charity|charity]].**
 ---
 ### Synonyms
 - [[eleemosynary]]

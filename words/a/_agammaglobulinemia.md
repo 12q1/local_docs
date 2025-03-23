@@ -1,6 +1,6 @@
 # Agammaglobulinemia
 ---
 #noun
-- **A [[condition]] in which gammaglobulins such as immunoglobulins are [[absent]] from the [[blood]], or present only in low [[concentrations]]**
+- **A [[c/_condition|condition]] in which gammaglobulins such as immunoglobulins are [[a/_absent|absent]] from the [[b/_blood|blood]], or present only in low [[c/_concentrations|concentrations]]**
 ---
 ---

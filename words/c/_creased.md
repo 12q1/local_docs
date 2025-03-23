@@ -1,13 +1,13 @@
 # Creased
 ---
 #verb
-- **To make a [[crease]] in; to wrinkle.**
-- **To undergo [[creasing]]; to form wrinkles.**
-- **To lightly [[bloody]]; to graze.**
+- **To make a [[c/_crease|crease]] in; to wrinkle.**
+- **To undergo [[c/_creasing|creasing]]; to form wrinkles.**
+- **To lightly [[b/_bloody|bloody]]; to graze.**
 	- _Example: The bullet just creased his shoulder._
 ---
 #adjective
-- **Having a [[crease]] or [[creases]].**
+- **Having a [[c/_crease|crease]] or [[c/_creases|creases]].**
 	- _Example: You're not going out wearing that creased shirt, are you?_
 - **Wrinkly**
 ---

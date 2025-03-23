@@ -1,6 +1,6 @@
 # Crankpins
 ---
 #noun
-- **The pin that [[attaches]] a [[connecting]] rod to a [[crank]]**
+- **The pin that [[a/_attaches|attaches]] a [[c/_connecting|connecting]] rod to a [[c/_crank|crank]]**
 ---
 ---

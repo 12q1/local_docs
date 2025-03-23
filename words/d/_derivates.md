@@ -1,6 +1,6 @@
 # Derivates
 ---
 #noun
-- **Something [[derived]]; a [[derivative]].**
+- **Something [[d/_derived|derived]]; a [[d/_derivative|derivative]].**
 ---
 ---

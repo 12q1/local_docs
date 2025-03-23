@@ -5,10 +5,10 @@
 - **To instruct; to train.**
 	- _Example: She has coached many opera stars._
 - **To study under a tutor.**
-- **To travel in a [[coach]] (sometimes [[coach]] it).**
-- **To [[convey]] in a [[coach]].**
+- **To travel in a [[c/_coach|coach]] (sometimes [[c/_coach|coach]] it).**
+- **To [[c/_convey|convey]] in a [[c/_coach|coach]].**
 ---
 #noun
-- **The process by which someone is [[coached]] or tutored; instruction.**
+- **The process by which someone is [[c/_coached|coached]] or tutored; instruction.**
 ---
 ---

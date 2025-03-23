@@ -1,8 +1,8 @@
 # Acidophil
 ---
 #noun
-- **An eosinophil; a white [[blood]] [[cell]] responsible for [[combating]] infection by parasites in the [[body]].**
-- **One of the endocrine [[acidophilic]] [[cells]] of the [[adenohypophysis]], including somatotrophs and lactotrophs.**
+- **An eosinophil; a white [[b/_blood|blood]] [[c/_cell|cell]] responsible for [[c/_combating|combating]] infection by parasites in the [[b/_body|body]].**
+- **One of the endocrine [[a/_acidophilic|acidophilic]] [[c/_cells|cells]] of the [[a/_adenohypophysis|adenohypophysis]], including somatotrophs and lactotrophs.**
 ---
 ### Synonyms
 - [[alpha cell]]

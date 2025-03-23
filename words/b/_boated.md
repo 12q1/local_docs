@@ -1,10 +1,10 @@
 # Boated
 ---
 #verb
-- **To travel by [[boat]].**
-- **To transport in a [[boat]].**
+- **To travel by [[b/_boat|boat]].**
+- **To transport in a [[b/_boat|boat]].**
 	- _Example: to boat goods_
-- **To place in a [[boat]].**
+- **To place in a [[b/_boat|boat]].**
 	- _Example: to boat oars_
 ---
 ---

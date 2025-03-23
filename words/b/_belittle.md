@@ -1,7 +1,7 @@
 # Belittle
 ---
 #verb
-- **To knowingly say that something is smaller or less important than it [[actually]] is, especially as a way of showing [[contempt]] or [[deprecation]].**
+- **To knowingly say that something is smaller or less important than it [[a/_actually|actually]] is, especially as a way of showing [[c/_contempt|contempt]] or [[d/_deprecation|deprecation]].**
 	- _Example: Don't belittle your colleagues._
 ---
 ### Synonyms

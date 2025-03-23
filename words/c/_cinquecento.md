@@ -1,10 +1,10 @@
 # Cinquecento
 ---
 #noun
-- **The sixteenth [[century]] (1500s).**
+- **The sixteenth [[c/_century|century]] (1500s).**
 ---
 #adjective
-- **Sixteenth-[[century]] (1500s).**
+- **Sixteenth-[[c/_century|century]] (1500s).**
 	- _Example: a cinquecento painting_
 ---
 ---

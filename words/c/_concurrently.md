@@ -1,6 +1,6 @@
 # Concurrently
 ---
 #adverb
-- **In a [[concurrent]] manner; at the same time**
+- **In a [[c/_concurrent|concurrent]] manner; at the same time**
 ---
 ---

@@ -1,7 +1,7 @@
 # Basically
 ---
 #adverb
-- **In a fundamental, essential or [[basic]] manner**
+- **In a fundamental, essential or [[b/_basic|basic]] manner**
 	- _Example: They've added some fancy features, but it's basically still a car._
 - **Mostly; generally; for the most part**
 - **(filler) used to refer to the most important or fundamental point the speaker is making; sometimes tending towards a meaningless filler word**

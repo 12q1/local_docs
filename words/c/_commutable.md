@@ -1,6 +1,6 @@
 # Commutable
 ---
 #adjective
-- **Capable of [[being]] [[commuted]].**
+- **[[c/_capable|Capable]] of [[b/_being|being]] [[c/_commuted|commuted]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bordelaise
 ---
 #noun
-- **A [[brown]] sauce made with dry red wine and [[bone]] marrow.**
+- **A [[b/_brown|brown]] sauce made with dry red wine and [[b/_bone|bone]] marrow.**
 ---
 ---

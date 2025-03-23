@@ -1,6 +1,6 @@
 # Computerese
 ---
 #noun
-- **The jargon [[associated]] with [[computers]].**
+- **The jargon [[a/_associated|associated]] with [[c/_computers|computers]].**
 ---
 ---

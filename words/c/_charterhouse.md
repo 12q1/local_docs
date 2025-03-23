@@ -1,6 +1,6 @@
 # Charterhouse
 ---
 #noun
-- **A Carthusian monastery.**
+- **A [[c/_carthusian|Carthusian]] monastery.**
 ---
 ---

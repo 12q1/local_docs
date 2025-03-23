@@ -1,7 +1,7 @@
 # Decamping
 ---
 #verb
-- **To [[break]] up [[camp]] and move on.**
+- **To [[b/_break|break]] up [[c/_camp|camp]] and move on.**
 - **To disappear suddenly and secretly.**
 ---
 ### Synonyms

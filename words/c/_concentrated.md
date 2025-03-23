@@ -1,19 +1,19 @@
 # Concentrated
 ---
 #verb
-- **To [[bring]] to, or direct toward, a [[common]] [[center]]; to unite more [[closely]]; to gather into one [[body]], mass, or force.**
+- **To [[b/_bring|bring]] to, or direct toward, a [[c/_common|common]] [[c/_center|center]]; to unite more [[c/_closely|closely]]; to gather into one [[b/_body|body]], mass, or force.**
 	- _Example: to concentrate rays of light into a focus_
-- **To increase the strength and diminish the [[bulk]] of, as of a liquid or an ore; to intensify, by getting rid of useless material; to [[condense]].**
+- **To increase the strength and diminish the [[b/_bulk|bulk]] of, as of a liquid or an ore; to intensify, by getting rid of useless material; to [[c/_condense|condense]].**
 	- _Example: to concentrate acid by evaporation_
-- **To [[approach]] or meet in a [[common]] [[center]]; to [[consolidate]].**
+- **To [[a/_approach|approach]] or meet in a [[c/_common|common]] [[c/_center|center]]; to [[c/_consolidate|consolidate]].**
 	- _Example: Population tends to concentrate in cities._
-- **To focus one's thought or [[attention]] (on).**
+- **To focus one's thought or [[a/_attention|attention]] (on).**
 	- _Example: Let me concentrate!_
 ---
 ### Antonyms
 - [[dilute]]
 #adjective
-- **Not dilute; having a high [[concentration]].**
+- **Not dilute; having a high [[c/_concentration|concentration]].**
 	- _Example: We made a drink from concentrated orange juice._
 - **Intense; directed towards a specific location.**
 	- _Example: The concentrated fire from the enemy destroyed our fortifications._

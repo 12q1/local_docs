@@ -1,44 +1,44 @@
 # Binds
 ---
 #noun
-- **That which [[binds]] or ties.**
+- **That which [[b/_binds|binds]] or ties.**
 - **A troublesome situation; a problem; a predicament or quandary.**
-- **Any twining or [[climbing]] plant or stem, especially a hop vine; a [[bine]].**
+- **[[a/_any|Any]] twining or [[c/_climbing|climbing]] plant or stem, especially a hop vine; a [[b/_bine|bine]].**
 - **A ligature or tie for grouping notes.**
-- **A strong grip or stranglehold on a position that is difficult for the opponent to [[break]].**
+- **A strong grip or stranglehold on a position that is difficult for the opponent to [[b/_break|break]].**
 	- _Example: the Maróczy Bind_
-- **The indurated [[clay]] of [[coal]] mines.**
+- **The indurated [[c/_clay|clay]] of [[c/_coal|coal]] mines.**
 ---
 #verb
-- **To tie; to [[confine]] by [[any]] ligature.**
-- **To [[cohere]] or stick together in a mass.**
+- **To tie; to [[c/_confine|confine]] by [[a/_any|any]] ligature.**
+- **To [[c/_cohere|cohere]] or stick together in a mass.**
 	- _Example: Just to make the cheese more binding_
-- **To be restrained from motion, or from [[customary]] or natural [[action]], as by friction.**
+- **To be restrained from motion, or from [[c/_customary|customary]] or natural [[a/_action|action]], as by friction.**
 	- _Example: I wish I knew why the sewing machine binds up after I use it for a while._
-- **To exert a [[binding]] or restraining influence.**
+- **To exert a [[b/_binding|binding]] or restraining influence.**
 	- _Example: These are the ties that bind._
-- **To tie or fasten tightly together, with a [[cord]], [[band]], ligature, [[chain]], etc.**
+- **To tie or fasten tightly together, with a [[c/_cord|cord]], [[b/_band|band]], ligature, [[c/_chain|chain]], etc.**
 	- _Example: to bind grain in bundles  to bind a prisoner_
-- **To [[confine]], restrain, or hold by physical force or influence of [[any]] kind.**
+- **To [[c/_confine|confine]], restrain, or hold by physical force or influence of [[a/_any|any]] kind.**
 	- _Example: Frost binds the earth._
-- **To [[couple]].**
-- **To oblige, restrain, or hold, by [[authority]], law, duty, promise, vow, [[affection]], or other social tie.**
+- **To [[c/_couple|couple]].**
+- **To oblige, restrain, or hold, by [[a/_authority|authority]], law, duty, promise, vow, [[a/_affection|affection]], or other social tie.**
 	- _Example: to bind the conscience  to bind by kindness  bound by affection  commerce binds nations to each other_
-- **To put (a person) under [[definite]] legal obligations, especially, under the obligation of a [[bond]] or [[covenant]].**
+- **To put (a person) under [[d/_definite|definite]] legal obligations, especially, under the obligation of a [[b/_bond|bond]] or [[c/_covenant|covenant]].**
 - **To place under legal obligation to serve.**
 	- _Example: to bind an apprentice  bound out to service_
-- **To protect or strengthen by [[applying]] a [[band]] or [[binding]], as the edge of a [[carpet]] or garment.**
-- **To make fast (a thing) [[about]] or upon something, as by tying; to encircle with something.**
+- **To protect or strengthen by [[a/_applying|applying]] a [[b/_band|band]] or [[b/_binding|binding]], as the edge of a [[c/_carpet|carpet]] or garment.**
+- **To make fast (a thing) [[a/_about|about]] or upon something, as by tying; to encircle with something.**
 	- _Example: to bind a belt about one  to bind a compress upon a wound_
-- **To [[cover]], as with a [[bandage]].**
+- **To [[c/_cover|cover]], as with a [[b/_bandage|bandage]].**
 	- _Example: to bind up a wound_
-- **To prevent or restrain from [[customary]] or natural [[action]], as by producing [[constipation]].**
+- **To prevent or restrain from [[c/_customary|customary]] or natural [[a/_action|action]], as by producing [[c/_constipation|constipation]].**
 	- _Example: Certain drugs bind the bowels._
-- **To put together in a [[cover]], as of [[books]].**
+- **To put together in a [[c/_cover|cover]], as of [[b/_books|books]].**
 	- _Example: The three novels were bound together._
 - **To make two or more elements stick together.**
-- **To [[associate]] an identifier with a value; to [[associate]] a variable name, method name, etc. with the [[content]] of a storage location.**
-- **To [[complain]]; to whine [[about]] something.**
+- **To [[a/_associate|associate]] an identifier with a value; to [[a/_associate|associate]] a variable name, method name, etc. with the [[c/_content|content]] of a storage location.**
+- **To [[c/_complain|complain]]; to whine [[a/_about|about]] something.**
 ---
 ### Synonyms
 - [[bandage]], [[dress]], [[fasten]], [[fetter]], [[make fast]], [[restrain]], [[tie]], [[indenture]], [[obligate]], [[restrain]], [[restrict]]

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A shirt, typically loose and reaching from the neck to the waist.**
-- **A shirt for women, particularly a shirt with [[buttons]]; a dress shirt tailored for women.**
+- **A shirt for women, particularly a shirt with [[b/_buttons|buttons]]; a dress shirt tailored for women.**
 - **A loose-fitting uniform jacket.**
 ---
 ### Synonyms
@@ -11,7 +11,7 @@
 - **A prostitute.**
 ---
 #noun
-- **A prostitute; a [[courtesan]].**
+- **A prostitute; a [[c/_courtesan|courtesan]].**
 ---
 ### Synonyms
 - [[blowen]]

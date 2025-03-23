@@ -1,9 +1,9 @@
 # Accessary
 ---
 #noun
-- **Someone who [[accedes]] to some [[act]], now especially a [[crime]]; one who [[contributes]] as an [[assistant]] or instigator to the [[commission]] of an offense.**
+- **Someone who [[a/_accedes|accedes]] to some [[a/_act|act]], now especially a [[c/_crime|crime]]; one who [[c/_contributes|contributes]] as an [[a/_assistant|assistant]] or instigator to the [[c/_commission|commission]] of an offense.**
 ---
 #adjective
-- **Accompanying as a subordinate; [[additional]]; [[accessory]]; especially, uniting in, or [[contributing]] to, a [[crime]], but not as [[chief]] [[actor]]. See [[accessory]].**
+- **[[a/_accompanying|Accompanying]] as a subordinate; [[a/_additional|additional]]; [[a/_accessory|accessory]]; especially, uniting in, or [[c/_contributing|contributing]] to, a [[c/_crime|crime]], but not as [[c/_chief|chief]] [[a/_actor|actor]]. See [[a/_accessory|accessory]].**
 ---
 ---

@@ -1,28 +1,28 @@
 # Accommodating
 ---
 #verb
-- **To render fit, suitable, or [[correspondent]]; to [[adapt]].**
+- **To render fit, suitable, or [[c/_correspondent|correspondent]]; to [[a/_adapt|adapt]].**
 	- _Example: to accommodate ourselves to circumstances_
-- **To [[cause]] to [[come]] to [[agreement]]; to [[bring]] [[about]] harmony; to reconcile.**
+- **To [[c/_cause|cause]] to [[c/_come|come]] to [[a/_agreement|agreement]]; to [[b/_bring|bring]] [[a/_about|about]] harmony; to reconcile.**
 	- _Example: to accommodate differences_
 - **To provide housing for.**
 	- _Example: to accommodate an old friend for a week_
-- **To provide with something [[desired]], needed, or [[convenient]].**
+- **To provide with something [[d/_desired|desired]], needed, or [[c/_convenient|convenient]].**
 	- _Example: to accommodate a friend with a loan_
 - **To do a favor or service for; to oblige.**
-- **To show the [[correspondence]] of; to [[apply]] or make suit by [[analogy]]; to [[adapt]] or fit, as teachings to [[accidental]] [[circumstances]], statements to facts, etc.**
+- **To show the [[c/_correspondence|correspondence]] of; to [[a/_apply|apply]] or make suit by [[a/_analogy|analogy]]; to [[a/_adapt|adapt]] or fit, as teachings to [[a/_accidental|accidental]] [[c/_circumstances|circumstances]], statements to facts, etc.**
 	- _Example: to accommodate prophecy to events_
-- **To give [[consideration]] to; to [[allow]] for.**
-- **To [[contain]] [[comfortably]]; to have space for.**
+- **To give [[c/_consideration|consideration]] to; to [[a/_allow|allow]] for.**
+- **To [[c/_contain|contain]] [[c/_comfortably|comfortably]]; to have space for.**
 	- _Example: This venue accommodates three hundred people._
-- **To [[adapt]] oneself; to be [[conformable]] or [[adapted]]; [[become]] [[adjusted]].**
+- **To [[a/_adapt|adapt]] oneself; to be [[c/_conformable|conformable]] or [[a/_adapted|adapted]]; [[b/_become|become]] [[a/_adjusted|adjusted]].**
 ---
 ### Synonyms
 - [[adapt]], [[adjust]], [[arrange]], [[conform]], [[suit]], [[oblige]], [[reconcile]]
 ### Antonyms
 - [[discommodate]]
 #adjective
-- **Affording, or disposed to [[afford]], [[accommodation]]; obliging; helpful.**
-- **Pliable; easily [[corrupted]].**
+- **[[a/_affording|Affording]], or disposed to [[a/_afford|afford]], [[a/_accommodation|accommodation]]; obliging; helpful.**
+- **Pliable; easily [[c/_corrupted|corrupted]].**
 ---
 ---

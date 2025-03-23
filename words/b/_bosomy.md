@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Full of sheltered hollows or recesses.**
-- **Having a large [[bosom]].**
+- **Having a large [[b/_bosom|bosom]].**
 ---
 ### Synonyms
 - [[big-breasted]], [[busty]], [[buxom]], [[chesty]]

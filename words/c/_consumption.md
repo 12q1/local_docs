@@ -1,13 +1,13 @@
 # Consumption
 ---
 #noun
-- **The [[act]] of eating, drinking or using.**
+- **The [[a/_act|act]] of eating, drinking or using.**
 	- _Example: The consumption of snails as food is more common in France than in England._
-- **The [[amount]] [[consumed]].**
+- **The [[a/_amount|amount]] [[c/_consumed|consumed]].**
 	- _Example: gross national consumption_
-- **The [[act]] of [[consuming]] or [[destroying]].**
+- **The [[a/_act|act]] of [[c/_consuming|consuming]] or [[d/_destroying|destroying]].**
 	- _Example: The fire's consumption of the forest caused ecological changes._
-- **The wasting [[away]] of the human [[body]] through disease.**
-- **Pulmonary tuberculosis and other diseases that [[cause]] wasting [[away]], lung infection, etc.**
+- **The wasting [[a/_away|away]] of the human [[b/_body|body]] through disease.**
+- **Pulmonary tuberculosis and other diseases that [[c/_cause|cause]] wasting [[a/_away|away]], lung infection, etc.**
 ---
 ---

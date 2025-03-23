@@ -1,6 +1,6 @@
 # Contextually
 ---
 #adverb
-- **In a [[contextual]] manner; with reference to [[context]]**
+- **In a [[c/_contextual|contextual]] manner; with reference to [[c/_context|context]]**
 ---
 ---

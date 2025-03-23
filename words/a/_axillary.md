@@ -1,10 +1,10 @@
 # Axillary
 ---
 #noun
-- **Any of the feathers [[connecting]] the undersurface of the wing and the [[body]], and [[concealed]] by the [[closed]] wing.**
+- **[[a/_any|Any]] of the feathers [[c/_connecting|connecting]] the undersurface of the wing and the [[b/_body|body]], and [[c/_concealed|concealed]] by the [[c/_closed|closed]] wing.**
 ---
 #adjective
-- **Of or pertaining to the [[axilla]] or [[armpit]].**
-- **Situated in, or rising from, an [[axil]]; relating to an [[axil]].**
+- **Of or pertaining to the [[a/_axilla|axilla]] or [[a/_armpit|armpit]].**
+- **Situated in, or rising from, an [[a/_axil|axil]]; relating to an [[a/_axil|axil]].**
 ---
 ---

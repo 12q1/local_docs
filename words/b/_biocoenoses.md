@@ -1,6 +1,6 @@
 # Biocoenoses
 ---
 #noun
-- **A living [[collection]] of life forms that are found together, interacting as a [[community]] within an ecosystem.**
+- **A living [[c/_collection|collection]] of life forms that are found together, interacting as a [[c/_community|community]] within an ecosystem.**
 ---
 ---

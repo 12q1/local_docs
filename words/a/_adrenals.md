@@ -1,6 +1,6 @@
 # Adrenals
 ---
 #noun
-- **An [[adrenal]] gland.**
+- **An [[a/_adrenal|adrenal]] gland.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Acquiescent
 ---
 #adjective
-- **Willing to [[acquiesce]], [[accept]] or [[agree]] to something without objection, protest or resistance**
+- **Willing to [[a/_acquiesce|acquiesce]], [[a/_accept|accept]] or [[a/_agree|agree]] to something without objection, protest or resistance**
 - **Resting satisfied or submissive; disposed tacitly to submit**
 	- _Example: an acquiescent policy_
 ---

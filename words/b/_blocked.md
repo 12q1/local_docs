@@ -9,15 +9,15 @@
 	- _Example: His plan to take over the business was blocked by the boss._
 - **To impede an opponent.**
 	- _Example: He blocked the basketball player's shot._
-- **To specify the positions and movements of the [[actors]].**
+- **To specify the positions and movements of the [[a/_actors|actors]].**
 	- _Example: It was very difficult to block this scene convincingly._
-- **To hit with a [[block]].**
-- **To play a [[block]] shot.**
-- **To disable [[communication]] via telephone, instant messaging, etc., with an undesirable someone.**
+- **To hit with a [[b/_block|block]].**
+- **To play a [[b/_block|block]] shot.**
+- **To disable [[c/_communication|communication]] via telephone, instant messaging, etc., with an undesirable someone.**
 	- _Example: I tried to send you a message, but you've blocked me!_
 - **To wait.**
 	- _Example: When the condition expression is false, the thread blocks on the condition variable._
-- **To stretch or mould (a knitted item, a hat, etc.) into the [[desired]] shape.**
+- **To stretch or mould (a knitted item, a hat, etc.) into the [[d/_desired|desired]] shape.**
 	- _Example: I blocked the mittens by wetting them and pinning them to a shaped piece of cardboard._
 - **To shape or sketch out roughly.**
 ---

@@ -4,7 +4,7 @@
 - **To make wet with or as if with dew.**
 ---
 #adjective
-- **Covered with or as if with dew.**
+- **[[c/_covered|Covered]] with or as if with dew.**
 ---
 ### Synonyms
 - [[dewy]], [[rorid]]

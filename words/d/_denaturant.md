@@ -1,6 +1,6 @@
 # Denaturant
 ---
 #noun
-- **A substance used for [[denaturation]]**
+- **A substance used for [[d/_denaturation|denaturation]]**
 ---
 ---

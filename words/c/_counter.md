@@ -1,21 +1,21 @@
 # Counter
 ---
 #noun
-- **One who [[counts]]**
+- **One who [[c/_counts|counts]]**
 	- _Example: He's only 16 months, but is already a good counter – he can count to 100._
-- **A reckoner; someone who [[collects]] [[data]] by [[counting]]; an enumerator.**
-- **An object (now especially a small disc) used in [[counting]] or keeping [[count]], or as a marker in games, etc.**
+- **A reckoner; someone who [[c/_collects|collects]] [[d/_data|data]] by [[c/_counting|counting]]; an enumerator.**
+- **An object (now especially a small disc) used in [[c/_counting|counting]] or keeping [[c/_count|count]], or as a marker in games, etc.**
 	- _Example: He rolled a six on the dice, so moved his counter forward six spaces._
-- **A telltale; a [[contrivance]] [[attached]] to an engine, printing press, or other machine, for the purpose of [[counting]] the revolutions or the pulsations.**
-- **A variable, memory location, etc. whose [[contents]] are incremented to keep a [[count]].**
-- **A hit [[counter]].**
-- **A table or [[board]] on which money is [[counted]] and over which [[business]] is transacted**
+- **A telltale; a [[c/_contrivance|contrivance]] [[a/_attached|attached]] to an engine, printing press, or other machine, for the purpose of [[c/_counting|counting]] the revolutions or the pulsations.**
+- **A variable, memory location, etc. whose [[c/_contents|contents]] are incremented to keep a [[c/_count|count]].**
+- **A hit [[c/_counter|counter]].**
+- **A table or [[b/_board|board]] on which money is [[c/_counted|counted]] and over which [[b/_business|business]] is transacted**
 	- _Example: He put his money on the counter, and the shopkeeper put it in the till._
 - **A shop tabletop on which goods are examined, weighed or measured.**
-- **In a kitchen, a surface, often [[built]] into the wall and [[above]] a [[cabinet]], [[designed]] to be used for food preparation.**
-- **In a [[bathroom]], a surface, often [[built]] into the wall and [[above]] a [[cabinet]], which holds the washbasin.**
-- **Any stone lying [[closer]] to the [[center]] than [[any]] of the opponent's stones.**
-- **The prison [[attached]] to a [[city]] [[court]]; a [[compter]].**
-- **(grammar) A [[class]] of word used [[along]] with numbers to [[count]] objects and events, typically mass nouns. Although rare and optional in English (e.g. "20 head of [[cattle]]"), they are numerous and required in Chinese, Japanese, and Korean.**
+- **In a kitchen, a surface, often [[b/_built|built]] into the wall and [[a/_above|above]] a [[c/_cabinet|cabinet]], [[d/_designed|designed]] to be used for food preparation.**
+- **In a [[b/_bathroom|bathroom]], a surface, often [[b/_built|built]] into the wall and [[a/_above|above]] a [[c/_cabinet|cabinet]], which holds the washbasin.**
+- **[[a/_any|Any]] stone lying [[c/_closer|closer]] to the [[c/_center|center]] than [[a/_any|any]] of the opponent's stones.**
+- **The prison [[a/_attached|attached]] to a [[c/_city|city]] [[c/_court|court]]; a [[c/_compter|compter]].**
+- **(grammar) A [[c/_class|class]] of word used [[a/_along|along]] with numbers to [[c/_count|count]] objects and events, typically mass nouns. [[a/_although|Although]] rare and optional in English (e.g. "20 head of [[c/_cattle|cattle]]"), they are numerous and required in [[c/_chinese|Chinese]], Japanese, and Korean.**
 ---
 ---

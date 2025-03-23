@@ -1,6 +1,6 @@
 # Anomie
 ---
 #noun
-- **Alienation or social instability [[caused]] by erosion of standards and values.**
+- **[[a/_alienation|Alienation]] or social instability [[c/_caused|caused]] by erosion of standards and values.**
 ---
 ---

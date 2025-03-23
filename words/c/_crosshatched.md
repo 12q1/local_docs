@@ -1,6 +1,6 @@
 # Crosshatched
 ---
 #verb
-- **To mark or fill with a [[crosshatch]] pattern.**
+- **To mark or fill with a [[c/_crosshatch|crosshatch]] pattern.**
 ---
 ---

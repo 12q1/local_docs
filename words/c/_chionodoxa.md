@@ -1,6 +1,6 @@
 # Chionodoxa
 ---
 #noun
-- **Any plant of the genus Chionodoxa.**
+- **[[a/_any|Any]] plant of the genus [[c/_chionodoxa|Chionodoxa]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Busily
 ---
 #adverb
-- **In a [[busy]] manner; [[actively]].**
+- **In a [[b/_busy|busy]] manner; [[a/_actively|actively]].**
 ---
 ---

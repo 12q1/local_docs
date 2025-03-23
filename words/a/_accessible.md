@@ -1,15 +1,15 @@
 # Accessible
 ---
 #adjective
-- **Easy of [[access]] or [[approach]].**
+- **Easy of [[a/_access|access]] or [[a/_approach|approach]].**
 	- _Example: an accessible town or mountain_
-- **(specifically) Built or [[designed]] as to be usable by people with disabilities.**
+- **(specifically) [[b/_built|Built]] or [[d/_designed|designed]] as to be usable by people with disabilities.**
 	- _Example: accessible public transport_
-- **(of a person) Easy to get [[along]] with.**
+- **(of a person) Easy to get [[a/_along|along]] with.**
 - **(followed by to) Open to the influence of.**
 - **Obtainable; to be got at.**
-- **Easily understood or [[appreciated]].**
-- **Capable of [[being]] used or seen.**
+- **Easily understood or [[a/_appreciated|appreciated]].**
+- **[[c/_capable|Capable]] of [[b/_being|being]] used or seen.**
 ---
 ### Synonyms
 - [[approachable]], [[easy-going]], [[friendly]], [[welcoming]]

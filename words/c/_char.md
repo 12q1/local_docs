@@ -1,13 +1,13 @@
 # Char
 ---
 #noun
-- **A [[charred]] substance.**
+- **A [[c/_charred|charred]] substance.**
 ---
 ### Synonyms
 - [[charcoal]]
 #verb
-- **To [[burn]] something to [[charcoal]].**
-- **To [[burn]] slightly or superficially so as to [[affect]] [[colour]].**
+- **To [[b/_burn|burn]] something to [[c/_charcoal|charcoal]].**
+- **To [[b/_burn|burn]] slightly or superficially so as to [[a/_affect|affect]] [[c/_colour|colour]].**
 ---
 ### Synonyms
 - [[blacken]], [[scorch]], [[sear]], [[singe]], [[coal]]

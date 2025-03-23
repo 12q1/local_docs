@@ -1,12 +1,12 @@
 # Conehead
 ---
 #noun
-- **A fan of [[baseball]] pitcher David Cone.**
+- **A fan of [[b/_baseball|baseball]] pitcher [[d/_david|David]] [[c/_cone|Cone]].**
 ---
 #noun
-- **A foam rubber rounded [[cone]] hat to be worn [[atop]] the head as a [[costume]] to [[appear]] to have a [[conical]] [[bald]] skull.**
+- **A foam rubber rounded [[c/_cone|cone]] hat to be worn [[a/_atop|atop]] the head as a [[c/_costume|costume]] to [[a/_appear|appear]] to have a [[c/_conical|conical]] [[b/_bald|bald]] skull.**
 - **An insect of the katydid subfamily Conocephalinae.**
-- **An insect-like [[arthropod]] of the order Protura**
+- **An insect-like [[a/_arthropod|arthropod]] of the order Protura**
 ---
 ### Synonyms
 - [[proturan]]

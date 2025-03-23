@@ -1,7 +1,7 @@
 # Cyclamen
 ---
 #noun
-- **Any of various flowering plants, of the genus Cyclamen, widely [[cultivated]] as a houseplant, having [[decorative]] leaves and solitary flowers.**
+- **[[a/_any|Any]] of various flowering plants, of the genus [[c/_cyclamen|Cyclamen]], widely [[c/_cultivated|cultivated]] as a houseplant, having [[d/_decorative|decorative]] leaves and solitary flowers.**
 ---
 ### Synonyms
 - [[sowbread]]

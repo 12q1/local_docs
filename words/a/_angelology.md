@@ -1,7 +1,7 @@
 # Angelology
 ---
 #noun
-- **The study of [[angels]]. Angels have [[been]] grouped into nine [[categories]] or “[[choirs]],” from lowest to highest: [[angel]], virtue, [[archangel]], power, principality, dominion, throne, [[cherub]], and seraph.**
+- **The study of [[a/_angels|angels]]. [[a/_angels|Angels]] have [[b/_been|been]] grouped into nine [[c/_categories|categories]] or “[[c/_choirs|choirs]],” from lowest to highest: [[a/_angel|angel]], virtue, [[a/_archangel|archangel]], power, principality, dominion, throne, [[c/_cherub|cherub]], and seraph.**
 ---
 ### Antonyms
 - [[demonology]]

@@ -1,9 +1,9 @@
 # Countrywide
 ---
 #adjective
-- **Throughout a [[country]]; nationwide.**
+- **Throughout a [[c/_country|country]]; nationwide.**
 ---
 #adverb
-- **Throughout a [[country]]; nationwide.**
+- **Throughout a [[c/_country|country]]; nationwide.**
 ---
 ---

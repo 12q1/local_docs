@@ -1,11 +1,11 @@
 # Achromatic
 ---
 #adjective
-- **Free from [[color]]; transmitting light without [[color]]-related distortion.**
-- **Containing [[components]] such as [[achromatic]] lenses and prisms, [[designed]] to prevent [[color]]-related distortion.**
-- **Uncolored; not [[absorbing]] [[color]] from a fluid; -- said of tissue**
-- **Having only the diatonic notes of the scale; not modified by [[accidentals]].**
-- **Being [[achromatic]] in subject**
+- **Free from [[c/_color|color]]; transmitting light without [[c/_color|color]]-related distortion.**
+- **[[c/_containing|Containing]] [[c/_components|components]] such as [[a/_achromatic|achromatic]] lenses and prisms, [[d/_designed|designed]] to prevent [[c/_color|color]]-related distortion.**
+- **Uncolored; not [[a/_absorbing|absorbing]] [[c/_color|color]] from a fluid; -- said of tissue**
+- **Having only the diatonic notes of the scale; not modified by [[a/_accidentals|accidentals]].**
+- **[[b/_being|Being]] [[a/_achromatic|achromatic]] in subject**
 	- _Example: The lecture was achromatic, the speaker used politics to suppress the weight of his/her subject._
 ---
 ---

@@ -1,7 +1,7 @@
 # Bale
 ---
 #noun
-- **Evil, especially [[considered]] as an [[active]] force for [[destruction]] or [[death]].**
+- **Evil, especially [[c/_considered|considered]] as an [[a/_active|active]] force for [[d/_destruction|destruction]] or [[d/_death|death]].**
 - **Suffering, woe, torment.**
 ---
 ---

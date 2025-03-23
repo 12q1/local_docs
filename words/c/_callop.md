@@ -1,6 +1,6 @@
 # Callop
 ---
 #noun
-- **An Australian freshwater fish, Macquaria ambigua; the golden perch or yellowbelly**
+- **An [[a/_australian|Australian]] freshwater fish, Macquaria ambigua; the golden perch or yellowbelly**
 ---
 ---

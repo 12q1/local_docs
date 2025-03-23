@@ -1,11 +1,11 @@
 # Categorical
 ---
 #noun
-- **A [[categorical]] proposition.**
+- **A [[c/_categorical|categorical]] proposition.**
 ---
 #adjective
-- **Absolute; having no exception.**
-- **Of, pertaining to, or using a [[category]] or [[categories]].**
+- **[[a/_absolute|Absolute]]; having no exception.**
+- **Of, pertaining to, or using a [[c/_category|category]] or [[c/_categories|categories]].**
 ---
 ### Synonyms
 - [[absolute]], [[categoric]], [[unconditional]]

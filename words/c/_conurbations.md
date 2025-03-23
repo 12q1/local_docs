@@ -1,6 +1,6 @@
 # Conurbations
 ---
 #noun
-- **A [[continuous]] [[aggregation]] of [[built]]-up urban [[communities]] [[created]] as a result of urban sprawl.**
+- **A [[c/_continuous|continuous]] [[a/_aggregation|aggregation]] of [[b/_built|built]]-up urban [[c/_communities|communities]] [[c/_created|created]] as a result of urban sprawl.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Arson
 ---
 #noun
-- **The [[crime]] of [[deliberately]] starting a fire with intent to [[cause]] [[damage]].**
+- **The [[c/_crime|crime]] of [[d/_deliberately|deliberately]] starting a fire with intent to [[c/_cause|cause]] [[d/_damage|damage]].**
 ---
 #verb
-- **To illegally set fire to; to [[burn]] down in a [[criminal]] manner**
+- **To illegally set fire to; to [[b/_burn|burn]] down in a [[c/_criminal|criminal]] manner**
 ---
 ---

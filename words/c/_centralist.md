@@ -1,9 +1,9 @@
 # Centralist
 ---
 #noun
-- **A proponent of [[centralism]]**
+- **A proponent of [[c/_centralism|centralism]]**
 ---
 #adjective
-- **Of or pertaining to [[centralism]]**
+- **Of or pertaining to [[c/_centralism|centralism]]**
 ---
 ---

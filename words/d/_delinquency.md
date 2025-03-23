@@ -2,7 +2,7 @@
 ---
 #noun
 - **Misconduct.**
-- **A [[criminal]] offense.**
-- **A [[debt]] that is overdue for payment.**
+- **A [[c/_criminal|criminal]] offense.**
+- **A [[d/_debt|debt]] that is overdue for payment.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Ceratite
 ---
 #noun
-- **Any [[ammonite]] of the order Ceratitida**
+- **[[a/_any|Any]] [[a/_ammonite|ammonite]] of the order Ceratitida**
 ---
 ---

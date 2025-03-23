@@ -1,15 +1,15 @@
 # Abroad
 ---
 #noun
-- **Countries or lands [[abroad]].**
+- **[[c/_countries|Countries]] or lands [[a/_abroad|abroad]].**
 ---
 #adverb
-- **Beyond the [[bounds]] of a [[country]]; in foreign [[countries]].**
-- **At large; widely; [[broadly]]; over a wide space.**
+- **[[b/_beyond|Beyond]] the [[b/_bounds|bounds]] of a [[c/_country|country]]; in foreign [[c/_countries|countries]].**
+- **At large; widely; [[b/_broadly|broadly]]; over a wide space.**
 	- _Example: A tree spreads its branches abroad._
-- **Without a [[certain]] [[confine]]; outside the house; [[away]] from one's [[abode]].**
-- **Before the public at large; throughout society or the world; here and there; moving without restriction.**
-- **Not on target; [[astray]]; in error; [[confused]]; [[dazed]].**
+- **Without a [[c/_certain|certain]] [[c/_confine|confine]]; outside the house; [[a/_away|away]] from one's [[a/_abode|abode]].**
+- **[[b/_before|Before]] the public at large; throughout society or the world; here and there; moving without restriction.**
+- **Not on target; [[a/_astray|astray]]; in error; [[c/_confused|confused]]; [[d/_dazed|dazed]].**
 - **Played elsewhere than one's home grounds.**
 ---
 #preposition

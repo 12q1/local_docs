@@ -7,6 +7,6 @@
 ### Synonyms
 - [[enervate]], [[enfeeble]], [[weaken]]
 #adjective
-- **Causing a loss of energy or strength.**
+- **[[c/_causing|Causing]] a loss of energy or strength.**
 ---
 ---

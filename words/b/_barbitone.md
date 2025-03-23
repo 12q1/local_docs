@@ -1,6 +1,6 @@
 # Barbitone
 ---
 #noun
-- **Barbital**
+- **[[b/_barbital|Barbital]]**
 ---
 ---

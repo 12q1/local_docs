@@ -1,8 +1,8 @@
 # Clamorous
 ---
 #adjective
-- **Of or pertaining to [[clamor]].**
-- **Having especially (and often unpleasantly) [[bright]] or [[contrasting]] [[colours]] or patterns.**
+- **Of or pertaining to [[c/_clamor|clamor]].**
+- **Having especially (and often unpleasantly) [[b/_bright|bright]] or [[c/_contrasting|contrasting]] [[c/_colours|colours]] or patterns.**
 ---
 ### Synonyms
 - [[clamorsome]], [[garish]], [[gaudy]], [[loud]]

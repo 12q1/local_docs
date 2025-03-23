@@ -1,6 +1,6 @@
 # Cleaved
 ---
 #adjective
-- **Cleft or [[cloven]].**
+- **[[c/_cleft|Cleft]] or [[c/_cloven|cloven]].**
 ---
 ---

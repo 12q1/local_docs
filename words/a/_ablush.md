@@ -1,9 +1,9 @@
 # Ablush
 ---
 #adjective
-- **Blushing; ruddy.**
+- **[[b/_blushing|Blushing]]; ruddy.**
 ---
 #adverb
-- **Blushing; ruddy.**
+- **[[b/_blushing|Blushing]]; ruddy.**
 ---
 ---

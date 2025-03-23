@@ -1,7 +1,7 @@
 # Camwood
 ---
 #noun
-- **An African hardwood tree, Baphia nitida, that is a form of sandalwood.**
+- **An [[a/_african|African]] hardwood tree, [[b/_baphia|Baphia]] nitida, that is a form of sandalwood.**
 - **The wood of this tree.**
 ---
 ---

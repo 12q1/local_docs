@@ -1,9 +1,9 @@
 # Brit
 ---
 #verb
-- **To [[break]] in pieces; divide.**
-- **To [[bruise]]; indent.**
+- **To [[b/_break|break]] in pieces; divide.**
+- **To [[b/_bruise|bruise]]; indent.**
 - **To fall out or shatter (as overripe hops or grain).**
-- **To fade [[away]]; [[alter]].**
+- **To fade [[a/_away|away]]; [[a/_alter|alter]].**
 ---
 ---

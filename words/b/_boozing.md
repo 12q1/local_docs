@@ -1,10 +1,10 @@
 # Boozing
 ---
 #verb
-- **To drink [[alcohol]].**
+- **To drink [[a/_alcohol|alcohol]].**
 	- _Example: We were out all night boozing until we dragged ourselves home hung over._
 ---
 #noun
-- **The [[act]] of drinking heavily.**
+- **The [[a/_act|act]] of drinking heavily.**
 ---
 ---

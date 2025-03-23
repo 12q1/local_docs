@@ -1,6 +1,6 @@
 # Bizarrely
 ---
 #adverb
-- **In a [[bizarre]] manner**
+- **In a [[b/_bizarre|bizarre]] manner**
 ---
 ---

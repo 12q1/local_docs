@@ -1,10 +1,10 @@
 # Bombard
 ---
 #noun
-- **A medieval primitive [[cannon]], used [[chiefly]] in sieges for throwing heavy stone [[balls]].**
-- **A [[bassoon]]-like medieval instrument**
-- **A large liquor [[container]] made of leather, in the form of a jug or a [[bottle]].**
-- **A [[bombardment]].**
-- **A [[bombardon]].**
+- **A medieval primitive [[c/_cannon|cannon]], used [[c/_chiefly|chiefly]] in sieges for throwing heavy stone [[b/_balls|balls]].**
+- **A [[b/_bassoon|bassoon]]-like medieval instrument**
+- **A large liquor [[c/_container|container]] made of leather, in the form of a jug or a [[b/_bottle|bottle]].**
+- **A [[b/_bombardment|bombardment]].**
+- **A [[b/_bombardon|bombardon]].**
 ---
 ---

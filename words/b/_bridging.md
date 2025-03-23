@@ -1,18 +1,18 @@
 # Bridging
 ---
 #verb
-- **To be or make a [[bridge]] over something.**
+- **To be or make a [[b/_bridge|bridge]] over something.**
 	- _Example: With enough cable, we can bridge this gorge._
-- **To span as if with a [[bridge]].**
+- **To span as if with a [[b/_bridge|bridge]].**
 	- _Example: The two groups were able to bridge their differences._
-- **To transition from one piece or section of music to [[another]] without stopping.**
-- **([[communication]]) To [[connect]] two or more [[computer]] [[buses]], networks etc. with a [[bridge]].**
-- **To go to the [[bridge]] position.**
+- **To transition from one piece or section of music to [[a/_another|another]] without stopping.**
+- **([[c/_communication|communication]]) To [[c/_connect|connect]] two or more [[c/_computer|computer]] [[b/_buses|buses]], networks etc. with a [[b/_bridge|bridge]].**
+- **To go to the [[b/_bridge|bridge]] position.**
 ---
 #noun
-- **The system of [[bracing]] used [[between]] floor or other timbers to distribute the weight.**
+- **The system of [[b/_bracing|bracing]] used [[b/_between|between]] floor or other timbers to distribute the weight.**
 ---
 #adjective
-- **That [[acts]] as a [[bridge]] (in many [[contexts]])**
+- **That [[a/_acts|acts]] as a [[b/_bridge|bridge]] (in many [[c/_contexts|contexts]])**
 ---
 ---

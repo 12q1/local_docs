@@ -1,6 +1,6 @@
 # Cubage
 ---
 #noun
-- **A [[cubic]] measurement.**
+- **A [[c/_cubic|cubic]] measurement.**
 ---
 ---

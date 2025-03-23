@@ -1,6 +1,6 @@
 # Aubretias
 ---
 #noun
-- **Any plant of the genus Aubrieta**
+- **[[a/_any|Any]] plant of the genus [[a/_aubrieta|Aubrieta]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Ber
 ---
 #noun
-- **A fruit-[[bearing]] tree, Ziziphus mauritiana; the jujube.**
+- **A fruit-[[b/_bearing|bearing]] tree, Ziziphus mauritiana; the jujube.**
 ---
 ---

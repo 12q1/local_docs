@@ -1,8 +1,8 @@
 # Arteriography
 ---
 #noun
-- **Radiography of an [[artery]]**
-- **Description of the [[arteries]]**
+- **Radiography of an [[a/_artery|artery]]**
+- **[[d/_description|Description]] of the [[a/_arteries|arteries]]**
 ---
 ### Synonyms
 - [[angiography]]

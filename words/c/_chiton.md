@@ -1,6 +1,6 @@
 # Chiton
 ---
 #noun
-- **A loose woolen tunic worn by men and women in Ancient Greece.**
+- **A loose woolen tunic worn by men and women in [[a/_ancient|Ancient]] Greece.**
 ---
 ---

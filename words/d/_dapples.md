@@ -1,10 +1,10 @@
 # Dapples
 ---
 #noun
-- **A mottled marking, usually in [[clusters]].**
-- **An [[animal]] with a mottled or spotted skin or [[coat]].**
+- **A mottled marking, usually in [[c/_clusters|clusters]].**
+- **An [[a/_animal|animal]] with a mottled or spotted skin or [[c/_coat|coat]].**
 ---
 #verb
-- **To mark or [[become]] marked with mottling or spots.**
+- **To mark or [[b/_become|become]] marked with mottling or spots.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Coarcted
 ---
 #verb
-- **To [[coarctate]].**
+- **To [[c/_coarctate|coarctate]].**
 	- _Example: a coarcted aorta_
 ---
 ---

@@ -1,7 +1,7 @@
 # Decalcomania
 ---
 #noun
-- **The process of transferring [[decorative]] [[designs]] onto surfaces using [[decals]].**
-- **A [[decal]].**
+- **The process of transferring [[d/_decorative|decorative]] [[d/_designs|designs]] onto surfaces using [[d/_decals|decals]].**
+- **A [[d/_decal|decal]].**
 ---
 ---

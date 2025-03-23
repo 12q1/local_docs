@@ -1,7 +1,7 @@
 # Contractable
 ---
 #adjective
-- **Capable of [[being]] [[contracted]] (in various senses).**
+- **[[c/_capable|Capable]] of [[b/_being|being]] [[c/_contracted|contracted]] (in various senses).**
 	- _Example: a disease contractable from tapeworms_
 ---
 ---

@@ -1,6 +1,6 @@
 # Crunk
 ---
 #verb
-- **To [[cry]] like a [[crane]].**
+- **To [[c/_cry|cry]] like a [[c/_crane|crane]].**
 ---
 ---

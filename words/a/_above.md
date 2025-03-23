@@ -2,13 +2,13 @@
 ---
 #noun
 - **Heaven.**
-- **Something, especially a person's name in legal documents, that [[appears]] higher on the same page or on a preceding page.**
-- **Higher [[authority]].**
-- **Betterment, raised status or [[condition]].**
+- **Something, especially a person's name in legal documents, that [[a/_appears|appears]] higher on the same page or on a preceding page.**
+- **Higher [[a/_authority|authority]].**
+- **[[b/_betterment|Betterment]], raised status or [[c/_condition|condition]].**
 ---
 #adjective
 - **Of heaven; heavenly.**
-- **(by ellipsis) Being located higher on the same page or on a preceding page.**
+- **(by ellipsis) [[b/_being|Being]] located higher on the same page or on a preceding page.**
 ---
 #adverb
 - **Directly overhead; vertically on top of.**
@@ -18,32 +18,32 @@
 - **In a higher place; upstairs; farther upstream.**
 - **Higher in rank, power, or position.**
 	- _Example: He appealed to the court above._
-- **In [[addition]].**
+- **In [[a/_addition|addition]].**
 - **More in number.**
-- **Above zero; [[above]] freezing.**
+- **[[a/_above|Above]] zero; [[a/_above|above]] freezing.**
 	- _Example: It was a cold day at only 5 above._
-- **On the upper half or the dorsal surface of an [[animal]].**
+- **On the upper half or the dorsal surface of an [[a/_animal|animal]].**
 	- _Example: The sparrow I saw was rufous above and off-white below._
 ---
 #preposition
-- **Physically over; on top of; worn on top of, said of [[clothing]].**
+- **Physically over; on top of; worn on top of, said of [[c/_clothing|clothing]].**
 	- _Example: He always put his coat on above his sweater._
 - **In or to a higher place; higher than; on or over the upper surface.**
 - **Farther north than.**
 	- _Example: Idaho is above Utah._
-- **Rising; [[appearing]] out of reach height-wise.**
-- **Higher than; superior to in [[any]] respect; surpassing; higher in measure, [[degree]], volume, or pitch, etc. than; out of reach; not exposed to; not likely to be [[affected]] by; incapable of negative [[actions]] or thoughts.**
+- **Rising; [[a/_appearing|appearing]] out of reach height-wise.**
+- **Higher than; superior to in [[a/_any|any]] respect; surpassing; higher in measure, [[d/_degree|degree]], volume, or pitch, etc. than; out of reach; not exposed to; not likely to be [[a/_affected|affected]] by; incapable of negative [[a/_actions|actions]] or thoughts.**
 	- _Example: Even the chief of police is not above suspicion._
 - **Higher in rank, status, or position.**
 	- _Example: to stand head and shoulders above the rest_
-- **In [[addition]] to; [[besides]].**
+- **In [[a/_addition|addition]] to; [[b/_besides|besides]].**
 	- _Example: above and beyond the call of duty_
 - **Surpassing in number or quantity; more than.**
 	- _Example: That amount is way above our asking price._
 - **In preference to.**
-- **Too proud to stoop to; [[averse]] to; disinclined towards;**
+- **Too proud to stoop to; [[a/_averse|averse]] to; disinclined towards;**
 	- _Example: The owner was above taking more than a token salary._
-- **Beyond; on the other side.**
+- **[[b/_beyond|Beyond]]; on the other side.**
 - **Upstage of.**
 ---
 ### Antonyms

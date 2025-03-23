@@ -1,17 +1,17 @@
 # Chagrin
 ---
 #noun
-- **Distress of mind [[caused]] by a failure of [[aims]] or plans, want of [[appreciation]], mistakes etc; vexation or mortification.**
+- **Distress of mind [[c/_caused|caused]] by a failure of [[a/_aims|aims]] or plans, want of [[a/_appreciation|appreciation]], mistakes etc; vexation or mortification.**
 - **A type of leather or skin with a rough surface.**
 ---
 ### Synonyms
 - [[disquiet]], [[fretfulness]], [[mortification]], [[peevishness]], [[vexation]], [[shagreen]]
 #verb
-- **To [[bother]] or vex; to mortify.**
-- **To be vexed or [[annoyed]].**
+- **To [[b/_bother|bother]] or vex; to mortify.**
+- **To be vexed or [[a/_annoyed|annoyed]].**
 ---
 #adjective
-- **Feeling [[chagrin]]; [[annoyed]]; vexed, fretful.**
+- **Feeling [[c/_chagrin|chagrin]]; [[a/_annoyed|annoyed]]; vexed, fretful.**
 ---
 ### Synonyms
 - [[chagrined]]

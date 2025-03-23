@@ -1,9 +1,9 @@
 # Commenced
 ---
 #verb
-- **To [[begin]], start.**
-- **To [[begin]] to be, or to [[act]] as.**
-- **To take a [[degree]] at a university.**
+- **To [[b/_begin|begin]], start.**
+- **To [[b/_begin|begin]] to be, or to [[a/_act|act]] as.**
+- **To take a [[d/_degree|degree]] at a university.**
 ---
 ### Antonyms
 - [[cease]], [[stop]]

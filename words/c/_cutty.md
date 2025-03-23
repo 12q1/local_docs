@@ -7,6 +7,6 @@
 - **A girl with a short, dumpy figure.**
 ---
 #adjective
-- **Short, shortened, or small; [[curtailed]].**
+- **Short, shortened, or small; [[c/_curtailed|curtailed]].**
 ---
 ---

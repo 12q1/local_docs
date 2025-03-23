@@ -1,11 +1,11 @@
 # Assemblage
 ---
 #noun
-- **The process of [[assembling]] or [[bringing]] together.**
+- **The process of [[a/_assembling|assembling]] or [[b/_bringing|bringing]] together.**
 	- _Example: the assemblage of words and recordings_
-- **A [[collection]] of things which have [[been]] gathered together or [[assembled]].**
+- **A [[c/_collection|collection]] of things which have [[b/_been|been]] gathered together or [[a/_assembled|assembled]].**
 - **A gathering of people.**
-- **A visual [[art]] form similar to [[collage]], which [[combines]] two-dimensional and three-dimensional, often found, elements into works of [[art]].**
-- **A group of different [[artifacts]] found in [[association]] with one [[another]].**
+- **A visual [[a/_art|art]] form similar to [[c/_collage|collage]], which [[c/_combines|combines]] two-dimensional and three-dimensional, often found, elements into works of [[a/_art|art]].**
+- **A group of different [[a/_artifacts|artifacts]] found in [[a/_association|association]] with one [[a/_another|another]].**
 ---
 ---

@@ -1,10 +1,10 @@
 # Chafers
 ---
 #noun
-- **One who [[chafes]].**
+- **One who [[c/_chafes|chafes]].**
 - **A vessel for heating water; hence, a dish or pan.**
 ---
 #noun
-- **Any of several scarab [[beetles]], including the [[cockchafer]], leaf [[chafer]], and rose [[chafer]]**
+- **[[a/_any|Any]] of several scarab [[b/_beetles|beetles]], including the [[c/_cockchafer|cockchafer]], leaf [[c/_chafer|chafer]], and rose [[c/_chafer|chafer]]**
 ---
 ---

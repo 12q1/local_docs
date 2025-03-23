@@ -2,6 +2,6 @@
 ---
 #noun
 - **An unmarried woman.**
-- **A very small [[bachelor]] (single room) [[apartment]].**
+- **A very small [[b/_bachelor|bachelor]] (single room) [[a/_apartment|apartment]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Cyanic
 ---
 #adjective
-- **Of [[cyanogen]] or its [[derivatives]]**
-- **Azure-[[blue]]**
-- **(of a flower) Containing an [[anthocyanin]]**
+- **Of [[c/_cyanogen|cyanogen]] or its [[d/_derivatives|derivatives]]**
+- **[[a/_azure|Azure]]-[[b/_blue|blue]]**
+- **(of a flower) [[c/_containing|Containing]] an [[a/_anthocyanin|anthocyanin]]**
 ---
 ### Antonyms
 - [[acyanic]]

@@ -1,7 +1,7 @@
 # Climaxed
 ---
 #verb
-- **To reach or [[bring]] to a [[climax]].**
+- **To reach or [[b/_bring|bring]] to a [[c/_climax|climax]].**
 - **To orgasm; to reach orgasm.**
 ---
 ---

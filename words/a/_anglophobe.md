@@ -1,7 +1,7 @@
 # Anglophobe
 ---
 #noun
-- **A person who hates or fears (or has an [[aversion]] to) England, its people or [[anything]] English.**
+- **A person who hates or fears (or has an [[a/_aversion|aversion]] to) England, its people or [[a/_anything|anything]] English.**
 ---
 ### Antonyms
 - [[Anglophile]]

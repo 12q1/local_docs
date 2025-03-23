@@ -1,12 +1,12 @@
 # Acclaimed
 ---
 #verb
-- **To shout; to [[call]] out.**
-- **To express great [[approval]] (for).**
+- **To shout; to [[c/_call|call]] out.**
+- **To express great [[a/_approval|approval]] (for).**
 	- _Example: a highly-acclaimed novel_
-- **To salute or praise with great [[approval]]; to [[compliment]]; to [[applaud]]; to welcome enthusiastically.**
-- **To [[claim]].**
-- **To [[declare]] by [[acclamations]].**
+- **To salute or praise with great [[a/_approval|approval]]; to [[c/_compliment|compliment]]; to [[a/_applaud|applaud]]; to welcome enthusiastically.**
+- **To [[c/_claim|claim]].**
+- **To [[d/_declare|declare]] by [[a/_acclamations|acclamations]].**
 - **To elect to an office by having no opposition.**
 ---
 #adjective

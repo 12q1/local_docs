@@ -1,6 +1,6 @@
 # Bronchopneumonia
 ---
 #noun
-- **A [[bacterial]] infection of the lungs, [[characteristically]] showing numerous small foci of infection.**
+- **A [[b/_bacterial|bacterial]] infection of the lungs, [[c/_characteristically|characteristically]] showing numerous small foci of infection.**
 ---
 ---

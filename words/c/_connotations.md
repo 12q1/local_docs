@@ -1,8 +1,8 @@
 # Connotations
 ---
 #noun
-- **A meaning of a word or phrase that is suggested or implied, as opposed to a [[denotation]], or literal meaning. A [[characteristic]] of words or phrases, or of the [[contexts]] that words and phrases are used in.**
-- **The [[attribute]] or [[aggregate]] of [[attributes]] [[connoted]] by a term, [[contrasted]] with [[denotation]].**
+- **A meaning of a word or phrase that is suggested or implied, as opposed to a [[d/_denotation|denotation]], or literal meaning. A [[c/_characteristic|characteristic]] of words or phrases, or of the [[c/_contexts|contexts]] that words and phrases are used in.**
+- **The [[a/_attribute|attribute]] or [[a/_aggregate|aggregate]] of [[a/_attributes|attributes]] [[c/_connoted|connoted]] by a term, [[c/_contrasted|contrasted]] with [[d/_denotation|denotation]].**
 	- _Example: The two expressions "the morning star" and "the evening star" have different connotations but the same denotation (i.e. the planet Venus)._
 ---
 ### Synonyms

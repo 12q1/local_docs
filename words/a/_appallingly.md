@@ -1,6 +1,6 @@
 # Appallingly
 ---
 #adverb
-- **In an [[appalling]] manner.**
+- **In an [[a/_appalling|appalling]] manner.**
 ---
 ---

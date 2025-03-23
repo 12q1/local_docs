@@ -1,23 +1,23 @@
 # Abandons
 ---
 #verb
-- **To give up or relinquish [[control]] of, to surrender or to give oneself over, or to yield to one's emotions.**
-- **To [[desist]] in doing, practicing, following, holding, or [[adhering]] to; to turn [[away]] from; to permit to lapse; to renounce; to discontinue.**
-- **To leave [[behind]]; to [[desert]] as in a ship or a position, typically in response to overwhelming odds or impending [[dangers]]; to forsake, in spite of a duty or responsibility.**
+- **To give up or relinquish [[c/_control|control]] of, to surrender or to give oneself over, or to yield to one's emotions.**
+- **To [[d/_desist|desist]] in doing, practicing, following, holding, or [[a/_adhering|adhering]] to; to turn [[a/_away|away]] from; to permit to lapse; to renounce; to discontinue.**
+- **To leave [[b/_behind|behind]]; to [[d/_desert|desert]] as in a ship or a position, typically in response to overwhelming odds or impending [[d/_dangers|dangers]]; to forsake, in spite of a duty or responsibility.**
 	- _Example: Many baby girls have been abandoned on the streets of Beijing._
-- **To subdue; to take [[control]] of.**
-- **To [[cast]] out; to [[banish]]; to expel; to reject.**
-- **To no longer exercise a right, title, or interest, especially with no interest of reclaiming it [[again]]; to yield; to relinquish.**
-- **To surrender to the insurer (an insured item), so as to [[claim]] a total loss.**
+- **To subdue; to take [[c/_control|control]] of.**
+- **To [[c/_cast|cast]] out; to [[b/_banish|banish]]; to expel; to reject.**
+- **To no longer exercise a right, title, or interest, especially with no interest of reclaiming it [[a/_again|again]]; to yield; to relinquish.**
+- **To surrender to the insurer (an insured item), so as to [[c/_claim|claim]] a total loss.**
 ---
 #noun
-- **A yielding to natural impulses or inhibitions; freedom from [[artificial]] [[constraint]], with loss of [[appreciation]] of [[consequences]].**
-- **Abandonment; relinquishment.**
+- **A yielding to natural impulses or inhibitions; freedom from [[a/_artificial|artificial]] [[c/_constraint|constraint]], with loss of [[a/_appreciation|appreciation]] of [[c/_consequences|consequences]].**
+- **[[a/_abandonment|Abandonment]]; relinquishment.**
 ---
 ### Synonyms
 - [[abandonment]], [[libertinism]], [[profligacy]], [[unconstraint]], [[unrestraint]], [[wantonness]]
 #noun
-- **(British slang) Abandoned [[children]]; foundlings.**
-- **(British slang) Prostitutes.**
+- **([[b/_british|British]] slang) [[a/_abandoned|Abandoned]] [[c/_children|children]]; foundlings.**
+- **([[b/_british|British]] slang) Prostitutes.**
 ---
 ---

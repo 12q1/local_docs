@@ -1,7 +1,7 @@
 # Boong
 ---
 #noun
-- **An Australian [[aboriginal]].**
+- **An [[a/_australian|Australian]] [[a/_aboriginal|aboriginal]].**
 - **A native of New Guinea or Malaysia.**
 ---
 ### Synonyms

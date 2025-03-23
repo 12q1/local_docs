@@ -1,7 +1,7 @@
 # Awkwardness
 ---
 #noun
-- **The state or quality of [[being]] [[awkward]]; [[clumsiness]]; unskillfulness.**
+- **The state or quality of [[b/_being|being]] [[a/_awkward|awkward]]; [[c/_clumsiness|clumsiness]]; unskillfulness.**
 - **The quality of an embarrassing situation.**
 ---
 ### Synonyms

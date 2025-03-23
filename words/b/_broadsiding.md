@@ -1,6 +1,6 @@
 # Broadsiding
 ---
 #verb
-- **To [[collide]] with something sideways on**
+- **To [[c/_collide|collide]] with something sideways on**
 ---
 ---

@@ -1,10 +1,10 @@
 # Broil
 ---
 #noun
-- **Food prepared by [[broiling]].**
+- **Food prepared by [[b/_broiling|broiling]].**
 ---
 #verb
-- **To [[cook]] by direct, radiant heat.**
+- **To [[c/_cook|cook]] by direct, radiant heat.**
 - **To expose to great heat.**
 - **To be exposed to great heat.**
 ---

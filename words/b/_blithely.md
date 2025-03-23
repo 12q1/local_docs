@@ -1,9 +1,9 @@
 # Blithely
 ---
 #adverb
-- **Without [[care]], [[concern]], or [[consideration]].**
+- **Without [[c/_care|care]], [[c/_concern|concern]], or [[c/_consideration|consideration]].**
 	- _Example: As the bombs fell on the city, the woman blithely continued with her chores._
-- **In a joyful, [[carefree]] manner.**
+- **In a joyful, [[c/_carefree|carefree]] manner.**
 - **In a kind manner.**
 ---
 ### Synonyms

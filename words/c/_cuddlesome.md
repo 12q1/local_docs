@@ -1,6 +1,6 @@
 # Cuddlesome
 ---
 #adjective
-- **Characterised or marked by [[cuddling]]; [[cuddly]].**
+- **[[c/_characterised|Characterised]] or marked by [[c/_cuddling|cuddling]]; [[c/_cuddly|cuddly]].**
 ---
 ---

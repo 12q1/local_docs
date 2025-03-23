@@ -1,6 +1,6 @@
 # Biologists
 ---
 #noun
-- **A student of [[biology]]; one versed in the science of [[biology]].**
+- **A student of [[b/_biology|biology]]; one versed in the science of [[b/_biology|biology]].**
 ---
 ---

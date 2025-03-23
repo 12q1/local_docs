@@ -1,6 +1,6 @@
 # Blackfellow
 ---
 #noun
-- **A (male) Australian Aborigine.**
+- **A (male) [[a/_australian|Australian]] [[a/_aborigine|Aborigine]].**
 ---
 ---

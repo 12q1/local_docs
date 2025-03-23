@@ -1,29 +1,29 @@
 # Def
 ---
 #noun
-- **Deficiency in [[amount]] or quality; a falling short; lack.**
-- **A situation wherein, or [[amount]] whereby, spending exceeds government revenue.**
+- **[[d/_deficiency|Deficiency]] in [[a/_amount|amount]] or quality; a falling short; lack.**
+- **A situation wherein, or [[a/_amount|amount]] whereby, spending exceeds government revenue.**
 ---
 ### Synonyms
 - [[fiscal deficit]], [[shortfall]]
 ### Antonyms
 - [[superavit]]
 #noun
-- **A statement of the meaning of a word or word group or a sign or symbol (dictionary [[definitions]]).**
-- **(usually with the [[definite]] [[article]] the) A [[clear]] instance [[conforming]] to the dictionary or textbook [[definition]].**
+- **A statement of the meaning of a word or word group or a sign or symbol (dictionary [[d/_definitions|definitions]]).**
+- **(usually with the [[d/_definite|definite]] [[a/_article|article]] the) A [[c/_clear|clear]] instance [[c/_conforming|conforming]] to the dictionary or textbook [[d/_definition|definition]].**
 - **A statement expressing the essential nature of something; formulation**
-- **The [[action]] or process of [[defining]].**
-- **The [[act]] of [[defining]]; determination of the limits.**
-- **A product of [[defining]].**
-- **The [[action]] or power of [[describing]], explaining, or making [[definite]] and [[clear]].**
+- **The [[a/_action|action]] or process of [[d/_defining|defining]].**
+- **The [[a/_act|act]] of [[d/_defining|defining]]; [[d/_determination|determination]] of the limits.**
+- **A product of [[d/_defining|defining]].**
+- **The [[a/_action|action]] or power of [[d/_describing|describing]], explaining, or making [[d/_definite|definite]] and [[c/_clear|clear]].**
 	- _Example: Her comic genius is beyond definition._
-- **Clarity of visual presentation, distinctness of outline or [[detail]].**
+- **[[c/_clarity|Clarity]] of visual presentation, distinctness of outline or [[d/_detail|detail]].**
 	- _Example: Improve the definition of an image._
-- **Clarity, especially of musical sound in reproduction.**
-- **Sharp [[demarcation]] of outlines or limits.**
+- **[[c/_clarity|Clarity]], especially of musical sound in reproduction.**
+- **Sharp [[d/_demarcation|demarcation]] of outlines or limits.**
 	- _Example: A jacket with distinct waist definition._
-- **The [[degree]] to which individual muscles are distinct on the [[body]].**
-- **A statement which provides a previous [[declaration]] with a value or [[body]] of a subroutine (in the [[case]] of function).**
+- **The [[d/_degree|degree]] to which individual muscles are distinct on the [[b/_body|body]].**
+- **A statement which provides a previous [[d/_declaration|declaration]] with a value or [[b/_body|body]] of a subroutine (in the [[c/_case|case]] of function).**
 - **A statement that establishes the referent of a term or notation.**
 ---
 ---

@@ -1,8 +1,8 @@
 # App
 ---
 #noun
-- **An [[application]] (program), especially a small one [[designed]] for a mobile device.**
-- **Application (use, purpose; not a [[computer]] program)**
-- **Application (to a [[college]] etc.)**
+- **An [[a/_application|application]] (program), especially a small one [[d/_designed|designed]] for a mobile device.**
+- **[[a/_application|Application]] (use, purpose; not a [[c/_computer|computer]] program)**
+- **[[a/_application|Application]] (to a [[c/_college|college]] etc.)**
 ---
 ---

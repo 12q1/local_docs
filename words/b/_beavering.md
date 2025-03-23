@@ -1,6 +1,6 @@
 # Beavering
 ---
 #noun
-- **Hunting or trapping [[beaver]]**
+- **Hunting or trapping [[b/_beaver|beaver]]**
 ---
 ---

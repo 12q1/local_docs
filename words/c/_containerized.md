@@ -1,11 +1,11 @@
 # Containerized
 ---
 #adjective
-- **Of freight, packed in a [[container]] for transport.**
+- **Of freight, packed in a [[c/_container|container]] for transport.**
 ---
 #verb
-- **To transport ([[cargo]]) in large, standard [[containers]].**
-- **To modify (a ship or industry) to use such [[containers]].**
-- **(of an [[application]]) To run an [[application]] in a [[container]].**
+- **To transport ([[c/_cargo|cargo]]) in large, standard [[c/_containers|containers]].**
+- **To modify (a ship or industry) to use such [[c/_containers|containers]].**
+- **(of an [[a/_application|application]]) To run an [[a/_application|application]] in a [[c/_container|container]].**
 ---
 ---

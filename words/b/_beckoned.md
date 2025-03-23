@@ -1,7 +1,7 @@
 # Beckoned
 ---
 #verb
-- **To wave or nod to somebody with the intention to make the person [[come]] [[closer]].**
-- **To seem [[attractive]] and inviting**
+- **To wave or nod to somebody with the intention to make the person [[c/_come|come]] [[c/_closer|closer]].**
+- **To seem [[a/_attractive|attractive]] and inviting**
 ---
 ---

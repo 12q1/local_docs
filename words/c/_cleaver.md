@@ -1,9 +1,9 @@
 # Cleaver
 ---
 #noun
-- **A squarish, heavy knife used by [[butchers]] for hacking through [[bones]], etc.**
-- **(Bahamas) A type of [[clave]], or rhythm stick, a [[concussive]] musical instrument used in traditional Bahamian music.**
-- **(metaphoric) The [[act]] of eliminating someone or something, especially when done by someone with a history of other eliminations; a dismissal, rejection, or removal.**
+- **A squarish, heavy knife used by [[b/_butchers|butchers]] for hacking through [[b/_bones|bones]], etc.**
+- **([[b/_bahamas|Bahamas]]) A type of [[c/_clave|clave]], or rhythm stick, a [[c/_concussive|concussive]] musical instrument used in traditional [[b/_bahamian|Bahamian]] music.**
+- **(metaphoric) The [[a/_act|act]] of eliminating someone or something, especially when done by someone with a history of other eliminations; a dismissal, rejection, or removal.**
 ---
 ### Synonyms
 - [[axe]]

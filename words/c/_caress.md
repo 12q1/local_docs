@@ -1,13 +1,13 @@
 # Caress
 ---
 #noun
-- **An [[act]] of endearment; [[any]] [[act]] or expression of [[affection]]; an embracing, or touching, with tenderness.**
+- **An [[a/_act|act]] of endearment; [[a/_any|any]] [[a/_act|act]] or expression of [[a/_affection|affection]]; an embracing, or touching, with tenderness.**
 - **A gentle stroking or rubbing.**
 ---
 #verb
 - **To touch or kiss lovingly; to fondle.**
 	- _Example: She loves being caressed by her boyfriend._
-- **To [[affect]] as if with a [[caress]].**
+- **To [[a/_affect|affect]] as if with a [[c/_caress|caress]].**
 ---
 ### Synonyms
 - [[hold]], [[kiss]], [[soothe]], [[stroke]]

@@ -1,13 +1,13 @@
 # Computed
 ---
 #verb
-- **To reckon or [[calculate]].**
+- **To reckon or [[c/_calculate|calculate]].**
 	- _Example: Can anyone here compute the square root of 10201?_
 - **To make sense.**
 	- _Example: Does that compute, or do I need to explain further?_
 ---
 #adjective
-- **Calculated, determined by [[computation]].**
-- **Derived rather than measured.**
+- **[[c/_calculated|Calculated]], [[d/_determined|determined]] by [[c/_computation|computation]].**
+- **[[d/_derived|Derived]] rather than measured.**
 ---
 ---

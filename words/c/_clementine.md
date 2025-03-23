@@ -1,6 +1,6 @@
 # Clementine
 ---
 #noun
-- **A type of small, sweet orange, the result of a [[cross]] [[between]] a tangerine and Seville orange.**
+- **A type of small, sweet orange, the result of a [[c/_cross|cross]] [[b/_between|between]] a tangerine and Seville orange.**
 ---
 ---

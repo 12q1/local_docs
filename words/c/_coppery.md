@@ -1,6 +1,6 @@
 # Coppery
 ---
 #adjective
-- **Resembling the metal [[copper]], especially in [[color]].**
+- **Resembling the metal [[c/_copper|copper]], especially in [[c/_color|color]].**
 ---
 ---

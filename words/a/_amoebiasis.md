@@ -1,6 +1,6 @@
 # Amoebiasis
 ---
 #noun
-- **An infectious disease [[caused]] by the parasitic protozoan Entamoeba histolytica; [[amoebic]] dysentery.**
+- **An infectious disease [[c/_caused|caused]] by the parasitic protozoan Entamoeba histolytica; [[a/_amoebic|amoebic]] dysentery.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Cecitis
 ---
 #noun
-- **Inflammation of the [[caecum]]**
+- **Inflammation of the [[c/_caecum|caecum]]**
 ---
 ---

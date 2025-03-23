@@ -1,6 +1,6 @@
 # Amianthus
 ---
 #noun
-- **A type of [[asbestos]] with long, soft, thin fibers.**
+- **A type of [[a/_asbestos|asbestos]] with long, soft, thin fibers.**
 ---
 ---

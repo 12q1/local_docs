@@ -1,12 +1,12 @@
 # Demonstrators
 ---
 #noun
-- **One who [[demonstrates]] [[anything]], or proves [[beyond]] doubt.**
+- **One who [[d/_demonstrates|demonstrates]] [[a/_anything|anything]], or proves [[b/_beyond|beyond]] doubt.**
 - **The forefinger.**
-- **One who takes part in a [[demonstration]]; a protester.**
-- **One who [[demonstrates]] products in a retail environment; a merchandiser.**
-- **An item, particularly a vehicle, used in [[demonstrations]] to a [[customer]] or user.**
-- **An [[assistant]] to a lecturer.**
-- **One who teaches [[anatomy]] from the dissected parts.**
+- **One who takes part in a [[d/_demonstration|demonstration]]; a protester.**
+- **One who [[d/_demonstrates|demonstrates]] products in a retail environment; a merchandiser.**
+- **An item, particularly a vehicle, used in [[d/_demonstrations|demonstrations]] to a [[c/_customer|customer]] or user.**
+- **An [[a/_assistant|assistant]] to a lecturer.**
+- **One who teaches [[a/_anatomy|anatomy]] from the dissected parts.**
 ---
 ---

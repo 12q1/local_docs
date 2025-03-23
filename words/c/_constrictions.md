@@ -1,8 +1,8 @@
 # Constrictions
 ---
 #noun
-- **The [[act]] of [[constricting]], the state of [[being]] [[constricted]], or something that [[constricts]].**
+- **The [[a/_act|act]] of [[c/_constricting|constricting]], the state of [[b/_being|being]] [[c/_constricted|constricted]], or something that [[c/_constricts|constricts]].**
 - **A narrow part of something; a stricture.**
-- **A [[compression]].**
+- **A [[c/_compression|compression]].**
 ---
 ---

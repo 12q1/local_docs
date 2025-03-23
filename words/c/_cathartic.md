@@ -4,7 +4,7 @@
 - **A laxative.**
 ---
 #adjective
-- **Purgative; inducing (mental or physical) [[catharsis]]**
-- **That releases emotional tension, especially [[after]] an overwhelming experience**
+- **Purgative; inducing (mental or physical) [[c/_catharsis|catharsis]]**
+- **That releases emotional tension, especially [[a/_after|after]] an overwhelming experience**
 ---
 ---

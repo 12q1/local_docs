@@ -1,7 +1,7 @@
 # Casitas
 ---
 #noun
-- **A small, [[attached]] but self-[[contained]] house or [[apartment]]**
+- **A small, [[a/_attached|attached]] but self-[[c/_contained|contained]] house or [[a/_apartment|apartment]]**
 ---
 ### Synonyms
 - [[granny annexe]], [[mother-in-law apartment]]

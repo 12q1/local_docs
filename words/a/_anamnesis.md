@@ -1,8 +1,8 @@
 # Anamnesis
 ---
 #noun
-- **The [[ability]] to recall past events; recollection.**
+- **The [[a/_ability|ability]] to recall past events; recollection.**
 - **The medical history of a patient.**
-- **The mention of the past; quotation of exemplary [[authors]] from memory to establish one's [[authority]].**
+- **The mention of the past; quotation of exemplary [[a/_authors|authors]] from memory to establish one's [[a/_authority|authority]].**
 ---
 ---

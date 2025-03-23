@@ -2,6 +2,6 @@
 ---
 #noun
 - **An early form of movie projector**
-- **(Southeast Asia) A [[cinema]] or movie theatre.**
+- **(Southeast [[a/_asia|Asia]]) A [[c/_cinema|cinema]] or movie theatre.**
 ---
 ---

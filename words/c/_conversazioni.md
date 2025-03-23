@@ -1,7 +1,7 @@
 # Conversazioni
 ---
 #noun
-- **A formal gathering where something related to the [[arts]] is discussed.**
-- **(by extension) A [[community]] social gathering.**
+- **A formal gathering where something related to the [[a/_arts|arts]] is discussed.**
+- **(by extension) A [[c/_community|community]] social gathering.**
 ---
 ---

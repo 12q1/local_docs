@@ -1,21 +1,21 @@
 # Brewing
 ---
 #verb
-- **To make tea or [[coffee]] by mixing tea leaves or [[coffee]] [[beans]] with hot water.**
+- **To make tea or [[c/_coffee|coffee]] by mixing tea leaves or [[c/_coffee|coffee]] [[b/_beans|beans]] with hot water.**
 - **To heat wine, infusing it with spices; to mull.**
-- **To make a hot soup by [[combining]] ingredients and [[boiling]] them in water.**
-- **To make [[beer]] by steeping a starch source in water and fermenting the resulting sweet liquid with yeast.**
-- **To foment or prepare, as by [[brewing]]**
-- **To [[attend]] to the [[business]], or go through the processes, of [[brewing]] or making [[beer]].**
+- **To make a hot soup by [[c/_combining|combining]] ingredients and [[b/_boiling|boiling]] them in water.**
+- **To make [[b/_beer|beer]] by steeping a starch source in water and fermenting the resulting sweet liquid with yeast.**
+- **To foment or prepare, as by [[b/_brewing|brewing]]**
+- **To [[a/_attend|attend]] to the [[b/_business|business]], or go through the processes, of [[b/_brewing|brewing]] or making [[b/_beer|beer]].**
 - **(of an unwelcome event) To be in a state of preparation; to be mixing, forming, or gathering.**
-- **To [[boil]] or seethe; to [[cook]].**
+- **To [[b/_boil|boil]] or seethe; to [[c/_cook|cook]].**
 ---
 ### Synonyms
 - [[contrive]], [[hatch]], [[plot]]
 #noun
-- **The production of [[alcoholic]] [[beverages]], such as [[beer]], by fermentation; the process of [[being]] [[brewed]].**
-- **The [[business]] or occupation of a [[brewer]].**
-- **The quantity of a [[brew]] made in a single [[batch]].**
-- **The forming of a storm or the gathering of [[clouds]].**
+- **The production of [[a/_alcoholic|alcoholic]] [[b/_beverages|beverages]], such as [[b/_beer|beer]], by fermentation; the process of [[b/_being|being]] [[b/_brewed|brewed]].**
+- **The [[b/_business|business]] or occupation of a [[b/_brewer|brewer]].**
+- **The quantity of a [[b/_brew|brew]] made in a single [[b/_batch|batch]].**
+- **The forming of a storm or the gathering of [[c/_clouds|clouds]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Advert
 ---
 #noun
-- **An [[advertisement]], an [[ad]].**
+- **An [[a/_advertisement|advertisement]], an [[a/_ad|ad]].**
 ---
 ---

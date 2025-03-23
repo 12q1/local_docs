@@ -1,7 +1,7 @@
 # Customhouse
 ---
 #noun
-- **An official [[building]], in a port, where [[customs]] are [[collected]] and shipping is [[cleared]] for entry and exit**
+- **An official [[b/_building|building]], in a port, where [[c/_customs|customs]] are [[c/_collected|collected]] and shipping is [[c/_cleared|cleared]] for entry and exit**
 ---
 ### Synonyms
 - [[customs]]

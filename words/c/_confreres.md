@@ -1,6 +1,6 @@
 # Confreres
 ---
 #noun
-- **A [[colleague]] or fellow, especially a professional one.**
+- **A [[c/_colleague|colleague]] or fellow, especially a professional one.**
 ---
 ---

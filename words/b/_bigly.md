@@ -1,8 +1,8 @@
 # Bigly
 ---
 #adverb
-- **In a [[big]] way, greatly; to a great extent, on a large scale.**
+- **In a [[b/_big|big]] way, greatly; to a great extent, on a large scale.**
 - **Strongly, with great force.**
-- **In a [[blustering]] or [[boastful]] manner; haughtily, pompously.**
+- **In a [[b/_blustering|blustering]] or [[b/_boastful|boastful]] manner; haughtily, pompously.**
 ---
 ---

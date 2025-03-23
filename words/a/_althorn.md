@@ -1,6 +1,6 @@
 # Althorn
 ---
 #noun
-- **An [[alto]] or tenor saxhorn**
+- **An [[a/_alto|alto]] or tenor saxhorn**
 ---
 ---

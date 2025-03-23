@@ -6,7 +6,7 @@
 ### Synonyms
 - [[bang]], [[boff]], [[fuck]], [[have sex]], [[make love]], [[screw]], [[sleep together]], [[swive]]
 #adjective
-- **Joined; [[associated]]; [[coupled]].**
-- **(grammar) Joining subject and predicate; [[copulative]].**
+- **Joined; [[a/_associated|associated]]; [[c/_coupled|coupled]].**
+- **(grammar) Joining subject and predicate; [[c/_copulative|copulative]].**
 ---
 ---

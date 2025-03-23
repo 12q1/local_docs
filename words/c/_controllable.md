@@ -1,10 +1,10 @@
 # Controllable
 ---
 #noun
-- **Any factor that [[can]] be [[controlled]].**
+- **[[a/_any|Any]] factor that [[c/_can|can]] be [[c/_controlled|controlled]].**
 ---
 #adjective
-- **Able to be [[controlled]]; subject to regulation or [[command]].**
+- **[[a/_able|Able]] to be [[c/_controlled|controlled]]; subject to regulation or [[c/_command|command]].**
 ---
 ### Antonyms
 - [[uncontrollable]]

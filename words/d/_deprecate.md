@@ -1,11 +1,11 @@
 # Deprecate
 ---
 #verb
-- **To [[belittle]] or express disapproval of.**
+- **To [[b/_belittle|belittle]] or express disapproval of.**
 	- _Example: He deprecates any praise of his own merits._
-- **To [[declare]] something obsolescent; to recommend [[against]] a function, technique, [[command]], etc. that still works but has [[been]] replaced.**
+- **To [[d/_declare|declare]] something obsolescent; to recommend [[a/_against|against]] a function, technique, [[c/_command|command]], etc. that still works but has [[b/_been|been]] replaced.**
 	- _Example: It is still supported but strongly deprecated._
-- **To pray [[against]].**
-- **To regret [[deeply]].**
+- **To pray [[a/_against|against]].**
+- **To regret [[d/_deeply|deeply]].**
 ---
 ---

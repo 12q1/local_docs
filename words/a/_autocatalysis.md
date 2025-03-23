@@ -1,7 +1,7 @@
 # Autocatalysis
 ---
 #noun
-- **Catalysis of a reaction by one of its products**
+- **[[c/_catalysis|Catalysis]] of a reaction by one of its products**
 ---
 ### Synonyms
 - [[autoactivation]]

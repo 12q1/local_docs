@@ -1,6 +1,6 @@
 # Ballcarrier
 ---
 #noun
-- **A player who [[carries]] the football.**
+- **A player who [[c/_carries|carries]] the football.**
 ---
 ---

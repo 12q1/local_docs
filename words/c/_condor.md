@@ -1,9 +1,9 @@
 # Condor
 ---
 #noun
-- **Either of two New World vultures, Vultur gryphus of the Andes or Gymnogyps californianus, a nearly extinct vulture of the mountains of California.**
-- **A gold [[coin]] of some South American [[countries]] [[bearing]] the figure of one of these vultures.**
-- **An Argentinian short range [[ballistic]] missile.**
-- **In golf, four under par (quadruple [[birdie]], triple eagle, or double [[albatross]])**
+- **Either of two New World vultures, Vultur gryphus of the [[a/_andes|Andes]] or Gymnogyps californianus, a nearly extinct vulture of the mountains of [[c/_california|California]].**
+- **A gold [[c/_coin|coin]] of some South [[a/_american|American]] [[c/_countries|countries]] [[b/_bearing|bearing]] the figure of one of these vultures.**
+- **An [[a/_argentinian|Argentinian]] short range [[b/_ballistic|ballistic]] missile.**
+- **In golf, four under par (quadruple [[b/_birdie|birdie]], triple eagle, or double [[a/_albatross|albatross]])**
 ---
 ---

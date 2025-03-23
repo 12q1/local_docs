@@ -1,15 +1,15 @@
 # Annoys
 ---
 #noun
-- **A feeling of discomfort or vexation [[caused]] by what one dislikes.**
-- **That which [[causes]] such a feeling.**
+- **A feeling of discomfort or vexation [[c/_caused|caused]] by what one dislikes.**
+- **That which [[c/_causes|causes]] such a feeling.**
 ---
 ### Synonyms
 - [[annoyance]]
 #verb
-- **To disturb or irritate, especially by [[continued]] or repeated [[acts]]; to [[bother]] with unpleasant [[deeds]].**
+- **To disturb or irritate, especially by [[c/_continued|continued]] or repeated [[a/_acts|acts]]; to [[b/_bother|bother]] with unpleasant [[d/_deeds|deeds]].**
 	- _Example: Marc loved his sister, but when she annoyed him he wanted to switch her off._
-- **To do something to upset or [[anger]] someone; to be troublesome.**
+- **To do something to upset or [[a/_anger|anger]] someone; to be troublesome.**
 - **To molest; to harm; to injure.**
 	- _Example: to annoy an army by impeding its march, or by a cannonade_
 ---

@@ -1,7 +1,7 @@
 # Alibied
 ---
 #verb
-- **To provide an [[alibi]] for.**
+- **To provide an [[a/_alibi|alibi]] for.**
 - **To provide an excuse for.**
 ---
 ---

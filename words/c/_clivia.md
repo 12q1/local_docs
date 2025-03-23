@@ -1,7 +1,7 @@
 # Clivia
 ---
 #noun
-- **Any plant of the genus Clivia, native to southern Africa.**
+- **[[a/_any|Any]] plant of the genus [[c/_clivia|Clivia]], native to southern [[a/_africa|Africa]].**
 ---
 ### Synonyms
 - [[kaffir lily]]

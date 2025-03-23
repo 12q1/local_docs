@@ -1,10 +1,10 @@
 # Conducing
 ---
 #verb
-- **To [[contribute]] or lead to a specific result.**
+- **To [[c/_contribute|contribute]] or lead to a specific result.**
 ---
 #adjective
-- **That [[conduces]] to a given purpose or end result.**
-- **That [[conduces]] to a [[desired]] purpose; [[beneficial]], helpful.**
+- **That [[c/_conduces|conduces]] to a given purpose or end result.**
+- **That [[c/_conduces|conduces]] to a [[d/_desired|desired]] purpose; [[b/_beneficial|beneficial]], helpful.**
 ---
 ---

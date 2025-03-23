@@ -1,6 +1,6 @@
 # Ceanothus
 ---
 #noun
-- **Any of the genus Ceanothus of North American buckthorns.**
+- **[[a/_any|Any]] of the genus [[c/_ceanothus|Ceanothus]] of North [[a/_american|American]] buckthorns.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bacterial
 ---
 #adjective
-- **Of, relating to, or [[caused]] by [[bacteria]].**
+- **Of, relating to, or [[c/_caused|caused]] by [[b/_bacteria|bacteria]].**
 ---
 ---

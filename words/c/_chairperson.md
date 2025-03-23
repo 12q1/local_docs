@@ -1,7 +1,7 @@
 # Chairperson
 ---
 #noun
-- **A [[chairman]] or [[chairwoman]], someone who presides over a meeting, [[board]], etc.**
+- **A [[c/_chairman|chairman]] or [[c/_chairwoman|chairwoman]], someone who presides over a meeting, [[b/_board|board]], etc.**
 ---
 ### Synonyms
 - [[chair]], [[officer]], [[presider]], [[presiding]]

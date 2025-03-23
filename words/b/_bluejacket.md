@@ -1,7 +1,7 @@
 # Bluejacket
 ---
 #noun
-- **A seaman of a British warship**
+- **A seaman of a [[b/_british|British]] warship**
 - **An enlisted man in the US Navy.**
 ---
 ### Synonyms

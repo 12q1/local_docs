@@ -1,6 +1,6 @@
 # Antiestablishment
 ---
 #adjective
-- **Opposed to the political or [[cultural]] establishment**
+- **Opposed to the political or [[c/_cultural|cultural]] establishment**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bombazine
 ---
 #noun
-- **A twilled or [[corded]] fabric made from silk, wool, or [[cotton]] dyed [[black]].**
+- **A twilled or [[c/_corded|corded]] fabric made from silk, wool, or [[c/_cotton|cotton]] dyed [[b/_black|black]].**
 ---
 ---

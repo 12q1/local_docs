@@ -5,7 +5,7 @@
 	- _Example: Arterial ends here._
 ---
 #adjective
-- **Of or relating to an [[artery]].**
+- **Of or relating to an [[a/_artery|artery]].**
 - **(of a route, road or street) Major, important.**
 ---
 ---

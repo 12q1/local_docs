@@ -1,7 +1,7 @@
 # Anorexia
 ---
 #noun
-- **Loss of [[appetite]], especially as a result of disease.**
-- **Anorexia nervosa.**
+- **Loss of [[a/_appetite|appetite]], especially as a result of disease.**
+- **[[a/_anorexia|Anorexia]] nervosa.**
 ---
 ---

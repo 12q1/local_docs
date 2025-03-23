@@ -1,8 +1,8 @@
 # Astute
 ---
 #adjective
-- **Quickly and [[critically]] discerning.**
-- **Shrewd or [[crafty]].**
+- **Quickly and [[c/_critically|critically]] discerning.**
+- **Shrewd or [[c/_crafty|crafty]].**
 ---
 ### Synonyms
 - [[crafty]], [[shrewd]], [[wily]]

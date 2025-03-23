@@ -1,11 +1,11 @@
 # Coastwise
 ---
 #adjective
-- **Along the [[coast]].**
+- **[[a/_along|Along]] the [[c/_coast|coast]].**
 	- _Example: coastwise shipping_
 ---
 #adverb
-- **Along the [[coast]].**
+- **[[a/_along|Along]] the [[c/_coast|coast]].**
 	- _Example: The barley was shipped coastwise._
 ---
 ---

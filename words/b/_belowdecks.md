@@ -1,6 +1,6 @@
 # Belowdecks
 ---
 #adverb
-- **Below the main [[deck]] of a ship.**
+- **[[b/_below|Below]] the main [[d/_deck|deck]] of a ship.**
 ---
 ---

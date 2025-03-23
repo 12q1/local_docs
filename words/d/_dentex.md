@@ -1,6 +1,6 @@
 # Dentex
 ---
 #noun
-- **Any member of the genus Dentex of perciform fish.**
+- **[[a/_any|Any]] member of the genus [[d/_dentex|Dentex]] of perciform fish.**
 ---
 ---

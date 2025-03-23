@@ -1,6 +1,6 @@
 # Chalcids
 ---
 #noun
-- **Any of many small wasps, of the superfamily Chalcidoidea, having parasitic larvae**
+- **[[a/_any|Any]] of many small wasps, of the superfamily [[c/_chalcidoidea|Chalcidoidea]], having parasitic larvae**
 ---
 ---

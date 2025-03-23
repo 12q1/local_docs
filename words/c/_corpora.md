@@ -1,9 +1,9 @@
 # Corpora
 ---
 #noun
-- **A [[collection]] of writings, often on a specific topic, of a specific genre, from a specific [[demographic]] or a particular [[author]], etc.**
-- **(specifically) Such a [[collection]] in form of an electronic [[database]] used for linguistic [[analyses]].**
-- **A [[body]], a [[collection]].**
+- **A [[c/_collection|collection]] of writings, often on a specific topic, of a specific genre, from a specific [[d/_demographic|demographic]] or a particular [[a/_author|author]], etc.**
+- **(specifically) Such a [[c/_collection|collection]] in form of an electronic [[d/_database|database]] used for linguistic [[a/_analyses|analyses]].**
+- **A [[b/_body|body]], a [[c/_collection|collection]].**
 ---
 ### Synonyms
 - [[aggregation]], [[collection]], [[compilation]], [[collection]], [[digital corpus]], [[text corpus]]

@@ -2,6 +2,6 @@
 ---
 #verb
 - **To pour a drink (for).**
-- **To drink [[deeply]] or excessively; [[carouse]].**
+- **To drink [[d/_deeply|deeply]] or excessively; [[c/_carouse|carouse]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Assibilating
 ---
 #verb
-- **To [[change]] into or pronounce with the [[accompaniment]] of a sibilant sound or sounds.**
-- **To [[change]] by [[assibilation]].**
+- **To [[c/_change|change]] into or pronounce with the [[a/_accompaniment|accompaniment]] of a sibilant sound or sounds.**
+- **To [[c/_change|change]] by [[a/_assibilation|assibilation]].**
 ---
 ---

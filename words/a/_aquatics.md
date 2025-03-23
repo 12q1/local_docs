@@ -1,7 +1,7 @@
 # Aquatics
 ---
 #noun
-- **Any [[aquatic]] plant.**
+- **[[a/_any|Any]] [[a/_aquatic|aquatic]] plant.**
 ---
 #noun
 - **Sports involving water.**

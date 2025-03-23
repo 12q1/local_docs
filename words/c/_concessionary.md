@@ -1,10 +1,10 @@
 # Concessionary
 ---
 #noun
-- **One who owns a [[concession]] or a franchise**
+- **One who owns a [[c/_concession|concession]] or a franchise**
 ---
 #adjective
-- **Relating to [[concessions]] or franchises**
-- **Making [[concessions]] or [[compromises]]**
+- **Relating to [[c/_concessions|concessions]] or franchises**
+- **Making [[c/_concessions|concessions]] or [[c/_compromises|compromises]]**
 ---
 ---

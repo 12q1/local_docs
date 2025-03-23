@@ -1,9 +1,9 @@
 # Cussing
 ---
 #verb
-- **To use [[cursing]], to use [[bad]] language, to speak profanely.**
+- **To use [[c/_cursing|cursing]], to use [[b/_bad|bad]] language, to speak profanely.**
 ---
 #noun
-- **The [[act]] of one who [[cusses]], or uses [[bad]] language.**
+- **The [[a/_act|act]] of one who [[c/_cusses|cusses]], or uses [[b/_bad|bad]] language.**
 ---
 ---

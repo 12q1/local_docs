@@ -1,7 +1,7 @@
 # Comradery
 ---
 #noun
-- **Camaraderie**
+- **[[c/_camaraderie|Camaraderie]]**
 ---
 ### Synonyms
 - [[camaraderie]], [[chumminess]], [[comradeliness]], [[comradeship]]

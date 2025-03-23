@@ -1,6 +1,6 @@
 # Dermatophyte
 ---
 #noun
-- **Any parasitic fungus (mycosis) that infects the skin (tinea, ringworm, jock itch, [[athlete]]'s foot).**
+- **[[a/_any|Any]] parasitic fungus (mycosis) that infects the skin (tinea, ringworm, jock itch, [[a/_athlete|athlete]]'s foot).**
 ---
 ---

@@ -1,6 +1,6 @@
 # Cig
 ---
 #noun
-- **Cigarette**
+- **[[c/_cigarette|Cigarette]]**
 ---
 ---

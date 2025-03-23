@@ -1,12 +1,12 @@
 # Chins
 ---
 #noun
-- **The [[bottom]] of a face, (specifically) the typically jutting jawline [[below]] the mouth.**
+- **The [[b/_bottom|bottom]] of a face, (specifically) the typically jutting jawline [[b/_below|below]] the mouth.**
 - **Talk.**
 - **A lie, a falsehood.**
-- **The [[ability]] to withstand [[being]] punched in the [[chin]] without [[being]] knocked out.**
-- **The lower part of the front of an [[aircraft]], [[below]] the nose.**
-- **The [[bottom]] part of a mobile phone, [[below]] the screen.**
+- **The [[a/_ability|ability]] to withstand [[b/_being|being]] punched in the [[c/_chin|chin]] without [[b/_being|being]] knocked out.**
+- **The lower part of the front of an [[a/_aircraft|aircraft]], [[b/_below|below]] the nose.**
+- **The [[b/_bottom|bottom]] part of a mobile phone, [[b/_below|below]] the screen.**
 ---
 ### Synonyms
 - [[mentum]]
@@ -15,16 +15,16 @@
 #verb
 - **To talk.**
 - **To talk to or with (someone).**
-- **To perform a [[chin]]-up (exercise in which one lifts one's own weight while hanging from a [[bar]]).**
-- **To punch or hit (someone)'s [[chin]] (part of the [[body]]).**
-- **To put or hold (a musical instrument) up to one's [[chin]].**
-- **To turn on or operate (a device) using one's [[chin]]; to select (a particular setting) using one's [[chin]].**
-- **To put one's [[chin]] on (something).**
-- **To indicate or point toward (someone or something) with one's [[chin]].**
+- **To perform a [[c/_chin|chin]]-up (exercise in which one lifts one's own weight while hanging from a [[b/_bar|bar]]).**
+- **To punch or hit (someone)'s [[c/_chin|chin]] (part of the [[b/_body|body]]).**
+- **To put or hold (a musical instrument) up to one's [[c/_chin|chin]].**
+- **To turn on or operate (a device) using one's [[c/_chin|chin]]; to select (a particular setting) using one's [[c/_chin|chin]].**
+- **To put one's [[c/_chin|chin]] on (something).**
+- **To indicate or point toward (someone or something) with one's [[c/_chin|chin]].**
 ---
 ### Synonyms
 - [[gab]]
 #noun
-- **A [[chinchilla]].**
+- **A [[c/_chinchilla|chinchilla]].**
 ---
 ---

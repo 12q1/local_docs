@@ -1,17 +1,17 @@
 # Captive
 ---
 #noun
-- **One who has [[been]] [[captured]] or is otherwise [[confined]].**
+- **One who has [[b/_been|been]] [[c/_captured|captured]] or is otherwise [[c/_confined|confined]].**
 - **One held prisoner.**
-- **One [[charmed]] or subdued by [[beauty]], excellence, or [[affection]]; one who is [[captivated]].**
+- **One [[c/_charmed|charmed]] or subdued by [[b/_beauty|beauty]], excellence, or [[a/_affection|affection]]; one who is [[c/_captivated|captivated]].**
 ---
 #verb
-- **To [[capture]]; to take [[captive]].**
+- **To [[c/_capture|capture]]; to take [[c/_captive|captive]].**
 ---
 #adjective
-- **Held prisoner; not free; [[confined]].**
-- **Subdued by love; [[charmed]]; [[captivated]].**
-- **Of or relating to [[bondage]] or [[confinement]]; serving to [[confine]].**
+- **Held prisoner; not free; [[c/_confined|confined]].**
+- **Subdued by love; [[c/_charmed|charmed]]; [[c/_captivated|captivated]].**
+- **Of or relating to [[b/_bondage|bondage]] or [[c/_confinement|confinement]]; serving to [[c/_confine|confine]].**
 	- _Example: captive chains; captive hours_
 ---
 ---

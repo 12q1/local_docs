@@ -3,11 +3,11 @@
 #verb
 - **(ditransitive) To transport toward somebody/somewhere.**
 	- _Example: Waiter, please bring me a single malt whiskey._
-- **To supply or [[contribute]].**
+- **To supply or [[c/_contribute|contribute]].**
 	- _Example: The new company director brought a fresh perspective on sales and marketing._
-- **To occasion or [[bring]] [[about]].**
+- **To occasion or [[b/_bring|bring]] [[a/_about|about]].**
 	- _Example: The controversial TV broadcast brought a storm of complaints._
-- **To raise (a lawsuit, [[charges]], etc.) [[against]] somebody.**
+- **To raise (a lawsuit, [[c/_charges|charges]], etc.) [[a/_against|against]] somebody.**
 - **To persuade; to induce; to draw; to lead; to guide.**
 - **To produce in exchange; to sell for; to fetch.**
 	- _Example: What does coal bring per ton?_

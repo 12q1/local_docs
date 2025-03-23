@@ -1,6 +1,6 @@
 # Acetyl
 ---
 #noun
-- **The univalent radical CH3CO- [[derived]] from [[acetic]] [[acid]].**
+- **The univalent radical CH3CO- [[d/_derived|derived]] from [[a/_acetic|acetic]] [[a/_acid|acid]].**
 ---
 ---

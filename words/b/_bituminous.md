@@ -1,10 +1,10 @@
 # Bituminous
 ---
 #noun
-- **Bituminous [[coal]].**
-- **A type or grade of [[bituminous]] [[coal]].**
+- **[[b/_bituminous|Bituminous]] [[c/_coal|coal]].**
+- **A type or grade of [[b/_bituminous|bituminous]] [[c/_coal|coal]].**
 ---
 #adjective
-- **Of or pertaining to [[bitumen]].**
+- **Of or pertaining to [[b/_bitumen|bitumen]].**
 ---
 ---

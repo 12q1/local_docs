@@ -1,14 +1,14 @@
 # Balms
 ---
 #noun
-- **Any of various [[aromatic]] resins exuded from [[certain]] plants, especially trees of the genus Commiphora of Africa, Arabia and India and Myroxylon of South America.**
+- **[[a/_any|Any]] of various [[a/_aromatic|aromatic]] resins exuded from [[c/_certain|certain]] plants, especially trees of the genus [[c/_commiphora|Commiphora]] of [[a/_africa|Africa]], [[a/_arabia|Arabia]] and India and Myroxylon of South [[a/_america|America]].**
 - **A plant or tree yielding such substance.**
-- **Any soothing oil or lotion, especially an [[aromatic]] one.**
+- **[[a/_any|Any]] soothing oil or lotion, especially an [[a/_aromatic|aromatic]] one.**
 	- _Example: There is a balm in Gilead... (Spiritual)_
 - **Something soothing.**
 	- _Example: Classical music is a sweet balm for our sorrows._
-- **The lemon [[balm]], Melissa officinalis**
-- **Any of a number of other [[aromatic]] herbs with a similar [[citrus]]-like scent, such as [[bee]] [[balm]] and horse [[balm]].**
+- **The lemon [[b/_balm|balm]], Melissa officinalis**
+- **[[a/_any|Any]] of a number of other [[a/_aromatic|aromatic]] herbs with a similar [[c/_citrus|citrus]]-like scent, such as [[b/_bee|bee]] [[b/_balm|balm]] and horse [[b/_balm|balm]].**
 ---
 ### Synonyms
 - [[balsam]], [[balsam]], [[balsam]], [[balsam]]

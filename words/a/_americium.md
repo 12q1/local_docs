@@ -1,6 +1,6 @@
 # Americium
 ---
 #noun
-- **The [[chemical]] element (symbol Am) with an [[atomic]] number of 95.**
+- **The [[c/_chemical|chemical]] element (symbol [[a/_am|Am]]) with an [[a/_atomic|atomic]] number of 95.**
 ---
 ---

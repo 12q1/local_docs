@@ -1,6 +1,6 @@
 # Cagily
 ---
 #adverb
-- **In a [[cagy]] manner.**
+- **In a [[c/_cagy|cagy]] manner.**
 ---
 ---

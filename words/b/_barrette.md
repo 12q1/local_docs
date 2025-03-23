@@ -1,12 +1,12 @@
 # Barrette
 ---
 #noun
-- **A [[clasp]] or [[clip]] for gathering and holding the hair.**
+- **A [[c/_clasp|clasp]] or [[c/_clip|clip]] for gathering and holding the hair.**
 ---
 ### Synonyms
 - [[hair-slide]], [[hairclip]], [[hairslide]]
 #verb
-- **To put (hair) into a [[barrette]].**
+- **To put (hair) into a [[b/_barrette|barrette]].**
 ---
 #noun
 - **The lower part of the epimeron.**

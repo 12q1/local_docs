@@ -1,12 +1,12 @@
 # Backpacking
 ---
 #verb
-- **To hike and [[camp]] overnight in [[backcountry]] with one's gear [[carried]] in a [[backpack]]**
-- **To engage in low-[[cost]], generally urban, travel with minimal luggage and frugal [[accommodations]]**
-- **To place or [[carry]] (an item or items) in a [[backpack]]**
+- **To hike and [[c/_camp|camp]] overnight in [[b/_backcountry|backcountry]] with one's gear [[c/_carried|carried]] in a [[b/_backpack|backpack]]**
+- **To engage in low-[[c/_cost|cost]], generally urban, travel with minimal luggage and frugal [[a/_accommodations|accommodations]]**
+- **To place or [[c/_carry|carry]] (an item or items) in a [[b/_backpack|backpack]]**
 ---
 #noun
-- **Hiking and [[camping]] overnight in [[backcountry]] with one's gear [[carried]] in a [[backpack]].**
-- **Low-[[cost]], generally urban, travel with minimal luggage and frugal [[accommodations]].**
+- **Hiking and [[c/_camping|camping]] overnight in [[b/_backcountry|backcountry]] with one's gear [[c/_carried|carried]] in a [[b/_backpack|backpack]].**
+- **Low-[[c/_cost|cost]], generally urban, travel with minimal luggage and frugal [[a/_accommodations|accommodations]].**
 ---
 ---

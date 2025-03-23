@@ -1,10 +1,10 @@
 # Collectible
 ---
 #noun
-- **An object which someone might want to [[collect]].**
+- **An object which someone might want to [[c/_collect|collect]].**
 ---
 #adjective
-- **Worthy or suitable for [[collecting]] on historical/financial grounds, or for meeting a personal [[aesthetic]].**
+- **Worthy or suitable for [[c/_collecting|collecting]] on historical/financial grounds, or for meeting a personal [[a/_aesthetic|aesthetic]].**
 	- _Example: collectible stamps, collectible china, collectible Beatles memorabilia_
 - **Rightfully subject to payment.**
 	- _Example: a collectible bill_

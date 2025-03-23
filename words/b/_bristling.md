@@ -1,18 +1,18 @@
 # Bristling
 ---
 #verb
-- **To rise or stand erect, like [[bristles]].**
-- **Abound, to have an [[abundance]] of something**
-- **(with at) To be on one's guard or raise one's [[defenses]]; to react with fear, suspicion, or distance.**
+- **To rise or stand erect, like [[b/_bristles|bristles]].**
+- **[[a/_abound|Abound]], to have an [[a/_abundance|abundance]] of something**
+- **(with at) To be on one's guard or raise one's [[d/_defenses|defenses]]; to react with fear, suspicion, or distance.**
 	- _Example: The employees bristled at the prospect of working through the holidays._
-- **To fix a [[bristle]] to.**
+- **To fix a [[b/_bristle|bristle]] to.**
 	- _Example: to bristle a thread_
 ---
 #noun
-- **The [[act]] of one who [[bristles]].**
+- **The [[a/_act|act]] of one who [[b/_bristles|bristles]].**
 ---
 #adjective
-- **Having [[bristles]].**
-- **Showing [[anger]].**
+- **Having [[b/_bristles|bristles]].**
+- **Showing [[a/_anger|anger]].**
 ---
 ---

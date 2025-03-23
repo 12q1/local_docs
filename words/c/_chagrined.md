@@ -1,11 +1,11 @@
 # Chagrined
 ---
 #verb
-- **To [[bother]] or vex; to mortify.**
-- **To be vexed or [[annoyed]].**
+- **To [[b/_bother|bother]] or vex; to mortify.**
+- **To be vexed or [[a/_annoyed|annoyed]].**
 ---
 #adjective
-- **Feeling [[chagrin]] (at something); vexed; fretful.**
+- **Feeling [[c/_chagrin|chagrin]] (at something); vexed; fretful.**
 	- _Example: She was chagrined to note that the paint had dried into a blotchy mess._
 ---
 ---

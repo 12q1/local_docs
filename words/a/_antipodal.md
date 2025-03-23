@@ -1,10 +1,10 @@
 # Antipodal
 ---
 #noun
-- **One of the [[cells]] at the [[chalazal]] pole of an embryo sac.**
+- **One of the [[c/_cells|cells]] at the [[c/_chalazal|chalazal]] pole of an embryo sac.**
 ---
 #adjective
-- **On opposite sides of the globe; pertaining to [[antipodes]]**
+- **On opposite sides of the globe; pertaining to [[a/_antipodes|antipodes]]**
 - **Diametrically opposite**
 ---
 ### Synonyms

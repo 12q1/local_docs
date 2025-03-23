@@ -1,7 +1,7 @@
 # Deme
 ---
 #noun
-- **A township or other subdivision of [[ancient]] Attica.**
-- **A distinct local population of plants or [[animals]].**
+- **A township or other subdivision of [[a/_ancient|ancient]] Attica.**
+- **A distinct local population of plants or [[a/_animals|animals]].**
 ---
 ---

@@ -1,20 +1,20 @@
 # Bootstrap
 ---
 #noun
-- **A loop (leather or other material) sewn at the side or top rear of a [[boot]] to help in pulling the [[boot]] on.**
-- **A means of [[advancing]] oneself or [[accomplishing]] something without [[aid]].**
+- **A loop (leather or other material) sewn at the side or top rear of a [[b/_boot|boot]] to help in pulling the [[b/_boot|boot]] on.**
+- **A means of [[a/_advancing|advancing]] oneself or [[a/_accomplishing|accomplishing]] something without [[a/_aid|aid]].**
 	- _Example: He used his business experience as a bootstrap to win voters._
-- **The process by which the operating system of a [[computer]] is loaded into its memory**
-- **The process necessary to [[compile]] the tools that will be used to [[compile]] the rest of the system or program.**
-- **Any method or instance of estimating properties of an estimator (such as its variance) by measuring those properties when sampling from an [[approximating]] distribution.**
+- **The process by which the operating system of a [[c/_computer|computer]] is loaded into its memory**
+- **The process necessary to [[c/_compile|compile]] the tools that will be used to [[c/_compile|compile]] the rest of the system or program.**
+- **[[a/_any|Any]] method or instance of estimating properties of an estimator (such as its variance) by measuring those properties when sampling from an [[a/_approximating|approximating]] distribution.**
 ---
 #verb
-- **To help (oneself) without the [[aid]] of others.**
+- **To help (oneself) without the [[a/_aid|aid]] of others.**
 	- _Example: Sam spent years bootstrapping himself through college._
-- **To load the operating system into the memory of a [[computer]]. Usually shortened to [[boot]].**
-- **To [[compile]] the tools that will be used to [[compile]] the rest of the system or program.**
+- **To load the operating system into the memory of a [[c/_computer|computer]]. Usually shortened to [[b/_boot|boot]].**
+- **To [[c/_compile|compile]] the tools that will be used to [[c/_compile|compile]] the rest of the system or program.**
 	- _Example: Bootstrapping means building the GNU C Library, GNU Compiler Collection and several other key system programs.http//www.gentoo.org/doc/en/handbook/handbook-x86.xml?part=1&chap=6_
-- **To employ a [[bootstrap]] method.**
-- **To expand or [[advance]] an [[activity]] or a [[collection]] [[based]] solely on previous [[actions]], work, findings, etc.**
+- **To employ a [[b/_bootstrap|bootstrap]] method.**
+- **To expand or [[a/_advance|advance]] an [[a/_activity|activity]] or a [[c/_collection|collection]] [[b/_based|based]] solely on previous [[a/_actions|actions]], work, findings, etc.**
 ---
 ---

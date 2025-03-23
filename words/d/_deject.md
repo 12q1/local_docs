@@ -2,6 +2,6 @@
 ---
 #verb
 - **Make sad or dispirited.**
-- **To [[cast]] down.**
+- **To [[c/_cast|cast]] down.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Carragheen
 ---
 #noun
-- **Irish moss (Chondrus crispus)**
+- **Irish moss ([[c/_chondrus|Chondrus]] crispus)**
 ---
 ---

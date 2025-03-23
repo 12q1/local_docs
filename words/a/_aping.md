@@ -1,7 +1,7 @@
 # Aping
 ---
 #verb
-- **To [[behave]] like an [[ape]].**
+- **To [[b/_behave|behave]] like an [[a/_ape|ape]].**
 - **To imitate or mimic, particularly to imitate poorly.**
 ---
 #noun

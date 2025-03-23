@@ -1,6 +1,6 @@
 # Covariation
 ---
 #noun
-- **Covariance**
+- **[[c/_covariance|Covariance]]**
 ---
 ---

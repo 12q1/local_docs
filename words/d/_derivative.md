@@ -1,11 +1,11 @@
 # Derivative
 ---
 #noun
-- **Something [[derived]].**
-- **A word that [[derives]] from [[another]] one.**
-- **A financial instrument whose value [[depends]] on the valuation of an underlying [[asset]]; such as a warrant, an option etc.**
-- **A [[chemical]] [[derived]] from [[another]].**
-- **The [[derived]] function of a function (the slope at a [[certain]] point on some [[curve]] f(x))**
+- **Something [[d/_derived|derived]].**
+- **A word that [[d/_derives|derives]] from [[a/_another|another]] one.**
+- **A financial instrument whose value [[d/_depends|depends]] on the valuation of an underlying [[a/_asset|asset]]; such as a warrant, an option etc.**
+- **A [[c/_chemical|chemical]] [[d/_derived|derived]] from [[a/_another|another]].**
+- **The [[d/_derived|derived]] function of a function (the slope at a [[c/_certain|certain]] point on some [[c/_curve|curve]] f(x))**
 - **The value of this function for a given value of its independent variable.**
 ---
 ### Synonyms
@@ -13,11 +13,11 @@
 ### Antonyms
 - [[coincidental]]
 #adjective
-- **Obtained by [[derivation]]; not radical, original, or fundamental.**
+- **Obtained by [[d/_derivation|derivation]]; not radical, original, or fundamental.**
 	- _Example: a derivative conveyance; a derivative word_
 - **Imitative of the work of someone else.**
-- **Referring to a work, such as a translation or [[adaptation]], [[based]] on [[another]] work that may be subject to [[copyright]] restrictions.**
-- **Having a value that [[depends]] on an underlying [[asset]] of variable value.**
+- **Referring to a work, such as a translation or [[a/_adaptation|adaptation]], [[b/_based|based]] on [[a/_another|another]] work that may be subject to [[c/_copyright|copyright]] restrictions.**
+- **Having a value that [[d/_depends|depends]] on an underlying [[a/_asset|asset]] of variable value.**
 - **Lacking originality.**
 ---
 ---

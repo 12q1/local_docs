@@ -1,8 +1,8 @@
 # Cashews
 ---
 #noun
-- **A tree, Anacardium occidentale, native to northeastern Brazil, now widely grown in tropical [[climates]] for its [[cashew]] nuts and [[cashew]] [[apples]].**
-- **A [[cashew]] nut.**
+- **A tree, [[a/_anacardium|Anacardium]] occidentale, native to northeastern [[b/_brazil|Brazil]], now widely grown in tropical [[c/_climates|climates]] for its [[c/_cashew|cashew]] nuts and [[c/_cashew|cashew]] [[a/_apples|apples]].**
+- **A [[c/_cashew|cashew]] nut.**
 ---
 ### Synonyms
 - [[acajou]]

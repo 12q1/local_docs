@@ -1,6 +1,6 @@
 # Calluna
 ---
 #noun
-- **A [[common]] European heath/heather of species Calluna vulgaris.**
+- **A [[c/_common|common]] European heath/heather of species [[c/_calluna|Calluna]] vulgaris.**
 ---
 ---

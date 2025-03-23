@@ -1,6 +1,6 @@
 # Beadwork
 ---
 #noun
-- **Decorative work involving [[beads]].**
+- **[[d/_decorative|Decorative]] work involving [[b/_beads|beads]].**
 ---
 ---

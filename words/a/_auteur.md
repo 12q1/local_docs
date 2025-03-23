@@ -1,6 +1,6 @@
 # Auteur
 ---
 #noun
-- **A [[creative]] [[artist]], especially a film director, seen as having a specific, recognisable [[artistic]] vision, and who is seen as the single or preeminent ‘[[author]]’ of his works.**
+- **A [[c/_creative|creative]] [[a/_artist|artist]], especially a film director, seen as having a specific, recognisable [[a/_artistic|artistic]] vision, and who is seen as the single or preeminent ‘[[a/_author|author]]’ of his works.**
 ---
 ---

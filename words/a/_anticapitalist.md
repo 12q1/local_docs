@@ -1,10 +1,10 @@
 # Anticapitalist
 ---
 #noun
-- **One who subscribes to [[anticapitalism]].**
+- **One who subscribes to [[a/_anticapitalism|anticapitalism]].**
 ---
 #adjective
-- **Against or opposed to [[capitalism]].**
+- **[[a/_against|Against]] or opposed to [[c/_capitalism|capitalism]].**
 ---
 ### Synonyms
 - [[commie]]

@@ -1,6 +1,6 @@
 # Candelabrum
 ---
 #noun
-- **A [[candle]] holder.**
+- **A [[c/_candle|candle]] holder.**
 ---
 ---

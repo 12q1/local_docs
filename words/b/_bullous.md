@@ -1,6 +1,6 @@
 # Bullous
 ---
 #adjective
-- **Of, pertaining to or [[characterized]] by [[bullae]]**
+- **Of, pertaining to or [[c/_characterized|characterized]] by [[b/_bullae|bullae]]**
 ---
 ---

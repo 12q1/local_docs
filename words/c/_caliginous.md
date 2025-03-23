@@ -1,6 +1,6 @@
 # Caliginous
 ---
 #adjective
-- **Dark, obscure; murky.**
+- **[[d/_dark|Dark]], obscure; murky.**
 ---
 ---

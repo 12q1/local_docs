@@ -1,7 +1,7 @@
 # Breathing
 ---
 #verb
-- **To draw [[air]] into (inhale), and expel [[air]] from (exhale), the lungs in order to extract oxygen and excrete waste gases.**
+- **To draw [[a/_air|air]] into (inhale), and expel [[a/_air|air]] from (exhale), the lungs in order to extract oxygen and excrete waste gases.**
 - **To take in needed gases and expel waste gases in a similar way.**
 	- _Example: Fish have gills so they can breathe underwater._
 - **To inhale (a gas) to sustain life.**
@@ -10,33 +10,33 @@
 	- _Example: I will not allow it, as long as I still breathe._
 - **To draw something into the lungs.**
 	- _Example: Try not to breathe too much smoke._
-- **To expel [[air]] from the lungs, exhale.**
+- **To expel [[a/_air|air]] from the lungs, exhale.**
 	- _Example: If you breathe on a mirror, it will fog up._
-- **To exhale or expel (something) in the manner of [[breath]].**
+- **To exhale or expel (something) in the manner of [[b/_breath|breath]].**
 	- _Example: The flowers breathed a heady perfume._
 - **To give an impression of, to exude.**
 	- _Example: The decor positively breathes classical elegance._
 - **To whisper quietly.**
 	- _Example: He breathed the words into her ear, but she understood them all._
-- **To pass like [[breath]]; noiselessly or gently; to emanate; to [[blow]] gently.**
+- **To pass like [[b/_breath|breath]]; noiselessly or gently; to emanate; to [[b/_blow|blow]] gently.**
 	- _Example: The wind breathes through the trees._
 - **To exchange gases with the environment.**
 	- _Example: Garments made of certain new materials breathe well and keep the skin relatively dry during exercise._
-- **To rest; to stop and [[catch]] one's [[breath]].**
-- **To stop, to give (a horse) an opportunity to [[catch]] its [[breath]].**
+- **To rest; to stop and [[c/_catch|catch]] one's [[b/_breath|breath]].**
+- **To stop, to give (a horse) an opportunity to [[c/_catch|catch]] its [[b/_breath|breath]].**
 	- _Example: At higher altitudes you need to breathe your horse more often._
-- **To exercise; to tire by [[brisk]] exercise.**
-- **To passionately devote much of one's life to (an [[activity]], etc.).**
+- **To exercise; to tire by [[b/_brisk|brisk]] exercise.**
+- **To passionately devote much of one's life to (an [[a/_activity|activity]], etc.).**
 	- _Example: Do you like hiking?  Are you kidding? I breathe hiking._
 ---
 ### Synonyms
 - [[live and breathe]]
 #noun
-- **The [[act]] of respiration; a single instance of this.**
-- **A diacritical mark indicating [[aspiration]] or lack thereof.**
-- **Time to recover one's [[breath]]; hence, a [[delay]], a spell of time.**
-- **Any gentle influence or operation; inspiration.**
+- **The [[a/_act|act]] of respiration; a single instance of this.**
+- **A diacritical mark indicating [[a/_aspiration|aspiration]] or lack thereof.**
+- **Time to recover one's [[b/_breath|breath]]; hence, a [[d/_delay|delay]], a spell of time.**
+- **[[a/_any|Any]] gentle influence or operation; inspiration.**
 	- _Example: the breathings of the Holy Spirit_
-- **Aspiration; secret prayer.**
+- **[[a/_aspiration|Aspiration]]; secret prayer.**
 ---
 ---

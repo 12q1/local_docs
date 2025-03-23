@@ -1,16 +1,16 @@
 # Croppers
 ---
 #noun
-- **(normally [[confined]] to the expression [[come]] a [[cropper]]) A fall, a tumble.**
+- **(normally [[c/_confined|confined]] to the expression [[c/_come|come]] a [[c/_cropper|cropper]]) A fall, a tumble.**
 ---
 #noun
-- **A [[breed]] of domestic pigeon with large [[crop]].**
+- **A [[b/_breed|breed]] of domestic pigeon with large [[c/_crop|crop]].**
 ---
 #noun
-- **A person who nurtures and gathers a [[crop]].**
+- **A person who nurtures and gathers a [[c/_crop|crop]].**
 - **A variety of plant producing a good harvest.**
 ---
 #noun
-- **A machine for [[cropping]], as for shearing off [[bolts]] or rod iron, or for facing [[cloth]].**
+- **A machine for [[c/_cropping|cropping]], as for shearing off [[b/_bolts|bolts]] or rod iron, or for facing [[c/_cloth|cloth]].**
 ---
 ---

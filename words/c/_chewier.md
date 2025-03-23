@@ -1,7 +1,7 @@
 # Chewier
 ---
 #adjective
-- **Having a pliable or springy texture when [[chewed]].**
+- **Having a pliable or springy texture when [[c/_chewed|chewed]].**
 	- _Example: I must have spent an hour gnawing on the chewy taffy._
 ---
 ---

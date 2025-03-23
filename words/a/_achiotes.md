@@ -1,8 +1,8 @@
 # Achiotes
 ---
 #noun
-- **A tropical American evergreen shrub, Bixa orellana; the lipstick tree.**
-- **The seed of this tree used as a [[colouring]] or in Latin American [[cooking]].**
+- **A tropical [[a/_american|American]] evergreen shrub, [[b/_bixa|Bixa]] orellana; the lipstick tree.**
+- **The seed of this tree used as a [[c/_colouring|colouring]] or in Latin [[a/_american|American]] [[c/_cooking|cooking]].**
 - **An orange-red dye obtained from this seed.**
 ---
 ### Synonyms

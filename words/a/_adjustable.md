@@ -1,9 +1,9 @@
 # Adjustable
 ---
 #noun
-- **Anything that [[can]] be [[adjusted]].**
+- **[[a/_anything|Anything]] that [[c/_can|can]] be [[a/_adjusted|adjusted]].**
 ---
 #adjective
-- **Capable of [[being]] [[adjusted]]**
+- **[[c/_capable|Capable]] of [[b/_being|being]] [[a/_adjusted|adjusted]]**
 ---
 ---

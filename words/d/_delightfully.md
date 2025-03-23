@@ -1,6 +1,6 @@
 # Delightfully
 ---
 #adverb
-- **In a [[delightful]] manner.**
+- **In a [[d/_delightful|delightful]] manner.**
 ---
 ---

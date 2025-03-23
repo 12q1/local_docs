@@ -1,7 +1,7 @@
 # Cochlea
 ---
 #noun
-- **The [[complex]], spirally [[coiled]], tapered [[cavity]] of the inner ear in which sound vibrations are [[converted]] into nerve impulses.**
+- **The [[c/_complex|complex]], spirally [[c/_coiled|coiled]], tapered [[c/_cavity|cavity]] of the inner ear in which sound vibrations are [[c/_converted|converted]] into nerve impulses.**
 - **A spiral-shaped shell, especially that of a snail.**
 ---
 ---

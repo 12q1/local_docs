@@ -1,23 +1,23 @@
 # Contacts
 ---
 #noun
-- **The [[act]] of touching physically; [[being]] in [[close]] [[association]].**
-- **The establishment of [[communication]] (with).**
+- **The [[a/_act|act]] of touching physically; [[b/_being|being]] in [[c/_close|close]] [[a/_association|association]].**
+- **The establishment of [[c/_communication|communication]] (with).**
 	- _Example: I haven't been in contact with her for years._
-- **A nodule [[designed]] to [[connect]] a device with something else.**
+- **A nodule [[d/_designed|designed]] to [[c/_connect|connect]] a device with something else.**
 	- _Example: Touch the contact to ground and read the number again._
-- **Someone with whom one is in [[communication]].**
+- **Someone with whom one is in [[c/_communication|communication]].**
 	- _Example: The salesperson had a whole binder full of contacts for potential clients._
-- **A [[contact]] lens.**
-- **A device [[designed]] for repetitive [[connections]].**
-- **(by ellipsis) Contact juggling.**
+- **A [[c/_contact|contact]] lens.**
+- **A device [[d/_designed|designed]] for repetitive [[c/_connections|connections]].**
+- **(by ellipsis) [[c/_contact|Contact]] juggling.**
 	- _Example: I bought myself a new contact ball last week_
-- **The plane [[between]] two [[adjacent]] [[bodies]] of dissimilar rock.**
+- **The plane [[b/_between|between]] two [[a/_adjacent|adjacent]] [[b/_bodies|bodies]] of dissimilar rock.**
 ---
 #verb
-- **To touch; to [[come]] into physical [[contact]] with.**
+- **To touch; to [[c/_come|come]] into physical [[c/_contact|contact]] with.**
 	- _Example: The side of the car contacted the pedestrian._
-- **To establish [[communication]] with something or someone**
+- **To establish [[c/_communication|communication]] with something or someone**
 	- _Example: I am trying to contact my sister._
 ---
 ---

@@ -1,6 +1,6 @@
 # Catastrophically
 ---
 #adverb
-- **In a [[catastrophic]] manner, or to a [[catastrophic]] extent; disastrously.**
+- **In a [[c/_catastrophic|catastrophic]] manner, or to a [[c/_catastrophic|catastrophic]] extent; disastrously.**
 ---
 ---

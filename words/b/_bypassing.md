@@ -1,7 +1,7 @@
 # Bypassing
 ---
 #verb
-- **To [[avoid]] an obstacle etc, by [[constructing]] or using a [[bypass]]**
-- **To ignore the usual [[channels]] or procedures**
+- **To [[a/_avoid|avoid]] an obstacle etc, by [[c/_constructing|constructing]] or using a [[b/_bypass|bypass]]**
+- **To ignore the usual [[c/_channels|channels]] or procedures**
 ---
 ---

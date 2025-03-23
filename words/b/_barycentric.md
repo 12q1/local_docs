@@ -1,6 +1,6 @@
 # Barycentric
 ---
 #adjective
-- **Of or pertaining to a [[centre]] of gravity.**
+- **Of or pertaining to a [[c/_centre|centre]] of gravity.**
 ---
 ---

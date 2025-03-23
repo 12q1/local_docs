@@ -1,6 +1,6 @@
 # Chylomicron
 ---
 #noun
-- **A microscopic globule of lipoprotein, found in [[blood]] and lymph, that is [[associated]] with the digestion of fats**
+- **A microscopic globule of lipoprotein, found in [[b/_blood|blood]] and lymph, that is [[a/_associated|associated]] with the digestion of fats**
 ---
 ---

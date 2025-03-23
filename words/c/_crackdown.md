@@ -1,6 +1,6 @@
 # Crackdown
 ---
 #noun
-- **Abruptly stern measures or disciplinary [[action]]; increased enforcement**
+- **[[a/_abruptly|Abruptly]] stern measures or disciplinary [[a/_action|action]]; increased enforcement**
 ---
 ---

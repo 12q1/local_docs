@@ -1,6 +1,6 @@
 # Coloristic
 ---
 #adjective
-- **Of, pertaining to, or focused on [[coloring]] or an enhanced use of [[colour]]**
+- **Of, pertaining to, or focused on [[c/_coloring|coloring]] or an enhanced use of [[c/_colour|colour]]**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **Vomit.**
-- **An [[act]] of vomiting.**
+- **An [[a/_act|act]] of vomiting.**
 - **Heavy, sticky snow that makes snowsports difficult.**
 ---
 #verb

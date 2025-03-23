@@ -1,10 +1,10 @@
 # Avidity
 ---
 #noun
-- **Greediness; strong [[appetite]].**
-- **Eagerness; intenseness of [[desire]].**
+- **Greediness; strong [[a/_appetite|appetite]].**
+- **Eagerness; intenseness of [[d/_desire|desire]].**
 	- _Example: to eat with avidity_
-- **The measure of the synergism of the strength of individual interactions [[between]] proteins.**
+- **The measure of the synergism of the strength of individual interactions [[b/_between|between]] proteins.**
 ---
 ### Synonyms
 - [[alacrity]], [[eagerness]], [[enthusiasm]], [[liveliness]]

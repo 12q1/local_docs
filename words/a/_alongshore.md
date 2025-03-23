@@ -1,9 +1,9 @@
 # Alongshore
 ---
 #adjective
-- **At or [[along]] a shore or [[coast]].**
+- **At or [[a/_along|along]] a shore or [[c/_coast|coast]].**
 ---
 #adverb
-- **At or [[along]] a shore or [[coast]].**
+- **At or [[a/_along|along]] a shore or [[c/_coast|coast]].**
 ---
 ---

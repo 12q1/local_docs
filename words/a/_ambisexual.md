@@ -1,11 +1,11 @@
 # Ambisexual
 ---
 #noun
-- **An [[ambisexual]] person.**
+- **An [[a/_ambisexual|ambisexual]] person.**
 ---
 #adjective
-- **Bisexual: [[attracted]] to persons of either sex.**
+- **[[b/_bisexual|Bisexual]]: [[a/_attracted|attracted]] to persons of either sex.**
 - **Unisex: fit for persons of either sex.**
-- **Of [[ambiguous]] sexual orientation.**
+- **Of [[a/_ambiguous|ambiguous]] sexual orientation.**
 ---
 ---

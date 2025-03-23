@@ -1,6 +1,6 @@
 # Ailment
 ---
 #noun
-- **Something which [[ails]] one; a disease; sickness.**
+- **Something which [[a/_ails|ails]] one; a disease; sickness.**
 ---
 ---

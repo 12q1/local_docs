@@ -1,13 +1,13 @@
 # Chary
 ---
 #adverb
-- **In a [[chary]] manner.**
+- **In a [[c/_chary|chary]] manner.**
 ---
 #adjective
-- **Careful, [[cautious]], shy, wary.**
-- **Excessively particular or fussy [[about]] [[details]]; fastidious.**
+- **[[c/_careful|Careful]], [[c/_cautious|cautious]], shy, wary.**
+- **Excessively particular or fussy [[a/_about|about]] [[d/_details|details]]; fastidious.**
 - **Not disposed to give freely; not lavish; frugal, sparing.**
-- **Cared for, regarded as precious; [[cherished]].**
+- **[[c/_cared|Cared]] for, regarded as precious; [[c/_cherished|cherished]].**
 ---
 ### Antonyms
 - [[unchary]], [[unchary]], [[unchary]], [[unchary]]

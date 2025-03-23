@@ -1,10 +1,10 @@
 # Commencement
 ---
 #noun
-- **The first existence of [[anything]]; [[act]] or fact of [[commencing]]**
+- **The first existence of [[a/_anything|anything]]; [[a/_act|act]] or fact of [[c/_commencing|commencing]]**
 	- _Example: The time of Henry VII nearly coincides with the commencement of what is termed modern history._
-- **The [[day]] when [[degrees]] are [[conferred]] by [[colleges]] and universities upon students and others.**
-- **A graduation [[ceremony]], from a school, [[college]] or university.**
+- **The [[d/_day|day]] when [[d/_degrees|degrees]] are [[c/_conferred|conferred]] by [[c/_colleges|colleges]] and universities upon students and others.**
+- **A graduation [[c/_ceremony|ceremony]], from a school, [[c/_college|college]] or university.**
 ---
 ### Synonyms
 - [[beginning]], [[dawn]], [[origin]], [[rise]], [[start]]

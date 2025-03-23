@@ -1,7 +1,7 @@
 # Clothespins
 ---
 #noun
-- **A [[clip]] or fastener used to secure garments to a [[clothesline]] while drying.**
+- **A [[c/_clip|clip]] or fastener used to secure garments to a [[c/_clothesline|clothesline]] while drying.**
 ---
 ### Synonyms
 - [[clothes peg]]

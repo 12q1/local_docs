@@ -1,7 +1,7 @@
 # Dalmatian
 ---
 #noun
-- **One of a [[breed]] of dog with a short, white [[coat]] with [[dark]] spots.**
+- **One of a [[b/_breed|breed]] of dog with a short, white [[c/_coat|coat]] with [[d/_dark|dark]] spots.**
 - **(demonym) A native or inhabitant of Dalmatia.**
 ---
 ### Synonyms

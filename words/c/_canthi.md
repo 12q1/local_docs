@@ -1,6 +1,6 @@
 # Canthi
 ---
 #noun
-- **Either [[corner]] of the eye, where the eyelids meet.**
+- **Either [[c/_corner|corner]] of the eye, where the eyelids meet.**
 ---
 ---

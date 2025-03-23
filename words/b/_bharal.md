@@ -1,6 +1,6 @@
 # Bharal
 ---
 #noun
-- **A [[blue]] sheep, [[being]] [[any]] species of the genus Pseudois, goatlike [[bovids]] of the Himalayas and western China with a [[bluish]]-grey [[coat]]; the Himalayan [[blue]] sheep, Pseudois nayaur.**
+- **A [[b/_blue|blue]] sheep, [[b/_being|being]] [[a/_any|any]] species of the genus Pseudois, goatlike [[b/_bovids|bovids]] of the Himalayas and western [[c/_china|China]] with a [[b/_bluish|bluish]]-grey [[c/_coat|coat]]; the Himalayan [[b/_blue|blue]] sheep, Pseudois nayaur.**
 ---
 ---

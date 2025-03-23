@@ -1,7 +1,7 @@
 # Coffining
 ---
 #verb
-- **To place in a [[coffin]].**
+- **To place in a [[c/_coffin|coffin]].**
 ---
 ### Synonyms
 - [[encoffin]]

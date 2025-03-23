@@ -1,11 +1,11 @@
 # Automobiles
 ---
 #noun
-- **A type of vehicle [[designed]] to move on the ground under its own stored power and intended to [[carry]] a driver, a small number of [[additional]] passengers, and a very limited [[amount]] of other load. A [[car]] or motorcar.**
+- **A type of vehicle [[d/_designed|designed]] to move on the ground under its own stored power and intended to [[c/_carry|carry]] a driver, a small number of [[a/_additional|additional]] passengers, and a very limited [[a/_amount|amount]] of other load. A [[c/_car|car]] or motorcar.**
 ---
 ### Synonyms
 - [[auto]], [[car]], [[motor]], [[motorcar]]
 #verb
-- **To travel by [[automobile]].**
+- **To travel by [[a/_automobile|automobile]].**
 ---
 ---

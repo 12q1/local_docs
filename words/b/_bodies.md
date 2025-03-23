@@ -3,18 +3,18 @@
 #noun
 - **Physical frame.**
 - **Main section.**
-- **Coherent group.**
+- **[[c/_coherent|Coherent]] group.**
 - **Material entity.**
-- **The shank of a type, or the [[depth]] of the shank (by which the size is indicated).**
+- **The shank of a type, or the [[d/_depth|depth]] of the shank (by which the size is indicated).**
 	- _Example: a nonpareil face on an agate body_
-- **A three-dimensional object, such as a [[cube]] or [[cone]].**
+- **A three-dimensional object, such as a [[c/_cube|cube]] or [[c/_cone|cone]].**
 ---
 #verb
-- **To give [[body]] or shape to something.**
-- **To [[construct]] the [[bodywork]] of a [[car]].**
+- **To give [[b/_body|body]] or shape to something.**
+- **To [[c/_construct|construct]] the [[b/_bodywork|bodywork]] of a [[c/_car|car]].**
 - **To embody.**
 - **To murder someone.**
-- **(by extension) To utterly [[defeat]] someone.**
-- **To hard [[counter]] a particular [[character]] [[build]] or play style. Frequently used in the passive voice form, get [[bodied]] by.**
+- **(by extension) To utterly [[d/_defeat|defeat]] someone.**
+- **To hard [[c/_counter|counter]] a particular [[c/_character|character]] [[b/_build|build]] or play style. Frequently used in the passive voice form, get [[b/_bodied|bodied]] by.**
 ---
 ---

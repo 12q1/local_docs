@@ -1,9 +1,9 @@
 # Absorptive
 ---
 #noun
-- **Any substance that [[absorbs]].**
+- **[[a/_any|Any]] substance that [[a/_absorbs|absorbs]].**
 ---
 #adjective
-- **Having power, [[capacity]], or tendency to [[absorb]] or imbibe; [[absorbent]].**
+- **Having power, [[c/_capacity|capacity]], or tendency to [[a/_absorb|absorb]] or imbibe; [[a/_absorbent|absorbent]].**
 ---
 ---

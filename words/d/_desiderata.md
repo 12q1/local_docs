@@ -1,6 +1,6 @@
 # Desiderata
 ---
 #noun
-- **Something that is wished for, or [[considered]] [[desirable]].**
+- **Something that is wished for, or [[c/_considered|considered]] [[d/_desirable|desirable]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Ambitiously
 ---
 #adverb
-- **In an [[ambitious]] manner.**
+- **In an [[a/_ambitious|ambitious]] manner.**
 ---
 ---

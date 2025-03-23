@@ -1,6 +1,6 @@
 # Cuspidors
 ---
 #noun
-- **([[chiefly]] US) A spittoon.**
+- **([[c/_chiefly|chiefly]] US) A spittoon.**
 ---
 ---

@@ -21,7 +21,12 @@ const stopwords = new Set(["the", "is", "to", "and", "a", "an", "of", "in", "on"
 function interlinkText(text) {
     if (!text) return text;
     return text.replace(/\b([a-zA-Z]+)\b/g, (match) => {
-        return wordsList.has(match) && !stopwords.has(match.toLowerCase()) ? `[[${match}]]` : match;
+        const lowerMatch = match.toLowerCase();
+        if (wordsList.has(lowerMatch) && !stopwords.has(lowerMatch)) {
+            const firstLetter = lowerMatch[0];
+            return `[[${firstLetter}/_${lowerMatch}|${match}]]`; // Corrected link
+        }
+        return match;
     });
 }
 
@@ -85,9 +90,10 @@ Object.entries(dictionary).forEach(([word, data]) => {
     if (markdownContent) {
         fs.writeFileSync(filePath, markdownContent, 'utf8');
         console.log(`📄 Created: ${filePath}`);
-        indexContent += `- [[${word}]]\n`;
+        indexContent += `- [[${firstLetter}/_${word}|${word}]]\n`;
     }
 });
+
 
 // Write index file
 fs.writeFileSync(INDEX_FILE, indexContent, 'utf8');

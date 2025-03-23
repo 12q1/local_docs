@@ -1,8 +1,8 @@
 # Confusion
 ---
 #noun
-- **A lack of [[clarity]] or order.**
-- **The state of [[being]] [[confused]]; misunderstanding.**
+- **A lack of [[c/_clarity|clarity]] or order.**
+- **The state of [[b/_being|being]] [[c/_confused|confused]]; misunderstanding.**
 - **A state of shame or embarrassment.**
 ---
 ### Synonyms

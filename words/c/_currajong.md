@@ -1,7 +1,7 @@
 # Currajong
 ---
 #noun
-- **Any of a number of species of tree or shrub in the genus Brachychiton.**
-- **A peanut tree, Sterculia quadrifida, native to eastern [[coastal]] Australia; a red- or orange-fruited kurrajong.**
+- **[[a/_any|Any]] of a number of species of tree or shrub in the genus Brachychiton.**
+- **A peanut tree, Sterculia quadrifida, native to eastern [[c/_coastal|coastal]] [[a/_australia|Australia]]; a red- or orange-fruited kurrajong.**
 ---
 ---

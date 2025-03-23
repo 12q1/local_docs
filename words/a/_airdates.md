@@ -1,6 +1,6 @@
 # Airdates
 ---
 #noun
-- **The [[date]] on which a television or radio program is [[broadcast]].**
+- **The [[d/_date|date]] on which a television or radio program is [[b/_broadcast|broadcast]].**
 ---
 ---

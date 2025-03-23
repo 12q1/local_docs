@@ -1,6 +1,6 @@
 # Caponier
 ---
 #noun
-- **A type of fortification structure which [[allows]] firing [[along]] the [[bottom]] of a dry moat that surrounds the main fortress.**
+- **A type of fortification structure which [[a/_allows|allows]] firing [[a/_along|along]] the [[b/_bottom|bottom]] of a dry moat that surrounds the main fortress.**
 ---
 ---

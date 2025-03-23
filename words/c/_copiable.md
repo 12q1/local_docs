@@ -1,6 +1,6 @@
 # Copiable
 ---
 #adjective
-- **Able to be [[copied]].**
+- **[[a/_able|Able]] to be [[c/_copied|copied]].**
 ---
 ---

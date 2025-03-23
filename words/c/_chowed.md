@@ -4,6 +4,6 @@
 - **To eat.**
 ---
 #verb
-- **To [[call]] a discarded tile to produce a [[chow]].**
+- **To [[c/_call|call]] a discarded tile to produce a [[c/_chow|chow]].**
 ---
 ---

@@ -1,8 +1,8 @@
 # Advisable
 ---
 #adjective
-- **(of a [[course]] of [[action]]) Worthy of [[being]] recommended; [[desirable]].**
-- **(of a person) Capable of [[being]] [[advised]] or willing to be [[advised]].**
+- **(of a [[c/_course|course]] of [[a/_action|action]]) Worthy of [[b/_being|being]] recommended; [[d/_desirable|desirable]].**
+- **(of a person) [[c/_capable|Capable]] of [[b/_being|being]] [[a/_advised|advised]] or willing to be [[a/_advised|advised]].**
 ---
 ### Synonyms
 - [[counselable]], [[prudent]], [[wise]]

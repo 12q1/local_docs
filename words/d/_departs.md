@@ -4,10 +4,10 @@
 - **To leave.**
 - **To set out on a journey.**
 - **To die.**
-- **To disappear, vanish; to [[cease]] to exist.**
-- **To deviate (from), be different (from), fail to [[conform]].**
+- **To disappear, vanish; to [[c/_cease|cease]] to exist.**
+- **To deviate (from), be different (from), fail to [[c/_conform|conform]].**
 	- _Example: His latest statements seemed to depart from party policy somewhat._
-- **To go [[away]] from; to leave.**
+- **To go [[a/_away|away]] from; to leave.**
 - **To divide up; to distribute, share.**
 - **To separate, part.**
 ---

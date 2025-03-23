@@ -1,6 +1,6 @@
 # Altocumulus
 ---
 #noun
-- **A fleecy [[cloud]] formation [[consisting]] of large whitish or greyish globular [[cloudlets]] with shaded portions, often grouped in flocks or rows. (Abbreviated Ac.)**
+- **A fleecy [[c/_cloud|cloud]] formation [[c/_consisting|consisting]] of large whitish or greyish globular [[c/_cloudlets|cloudlets]] with shaded portions, often grouped in flocks or rows. ([[a/_abbreviated|Abbreviated]] [[a/_ac|Ac]].)**
 ---
 ---

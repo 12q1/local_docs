@@ -1,7 +1,7 @@
 # Anticlimaxes
 ---
 #noun
-- **A failed or reverse [[climax]], particularly:**
+- **A failed or reverse [[c/_climax|climax]], particularly:**
 ---
 ### Synonyms
 - [[bathos]]

@@ -1,6 +1,6 @@
 # Cappelletti
 ---
 #noun
-- **A [[circular]] form of ravioli.**
+- **A [[c/_circular|circular]] form of ravioli.**
 ---
 ---

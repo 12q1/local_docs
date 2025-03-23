@@ -1,6 +1,6 @@
 # Byres
 ---
 #noun
-- **A [[barn]], especially one used for keeping [[cattle]] in.**
+- **A [[b/_barn|barn]], especially one used for keeping [[c/_cattle|cattle]] in.**
 ---
 ---

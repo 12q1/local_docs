@@ -1,12 +1,12 @@
 # Adulterine
 ---
 #noun
-- **One [[born]] of an [[adulterous]] union.**
+- **One [[b/_born|born]] of an [[a/_adulterous|adulterous]] union.**
 ---
 #adjective
-- **Spurious; due to [[adulteration]].**
-- **Born of [[adultery]].**
-- **Pertaining to [[adultery]].**
+- **Spurious; due to [[a/_adulteration|adulteration]].**
+- **[[b/_born|Born]] of [[a/_adultery|adultery]].**
+- **Pertaining to [[a/_adultery|adultery]].**
 - **Illegal; unlicensed.**
 ---
 ---

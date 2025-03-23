@@ -1,10 +1,10 @@
 # Awfulness
 ---
 #noun
-- **The state or quality of [[being]] [[awful]].**
-- **The quality of striking with [[awe]], or with reverence**
+- **The state or quality of [[b/_being|being]] [[a/_awful|awful]].**
+- **The quality of striking with [[a/_awe|awe]], or with reverence**
 	- _Example: the awfulness of this sacred place_
-- **The state of [[being]] struck with [[awe]]; a spirit of solemnity; profound reverence.**
+- **The state of [[b/_being|being]] struck with [[a/_awe|awe]]; a spirit of solemnity; profound reverence.**
 ---
 ### Synonyms
 - [[dreadfulness]], [[solemnity]]

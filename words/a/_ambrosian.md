@@ -1,6 +1,6 @@
 # Ambrosian
 ---
 #adjective
-- **Ambrosial.**
+- **[[a/_ambrosial|Ambrosial]].**
 ---
 ---

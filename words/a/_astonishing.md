@@ -6,6 +6,6 @@
 ### Synonyms
 - [[astound]], [[flabbergast]], [[surprise]]
 #adjective
-- **Causing [[astonishment]].**
+- **[[c/_causing|Causing]] [[a/_astonishment|astonishment]].**
 ---
 ---

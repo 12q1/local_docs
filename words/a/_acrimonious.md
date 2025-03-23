@@ -1,8 +1,8 @@
 # Acrimonious
 ---
 #adjective
-- **Harsh and sharp, or [[bitter]] and not pleasant to the taste; [[acrid]], pungent.**
-- **Angry, [[acid]], and sharp in [[delivering]] [[argumentative]] replies: [[bitter]], mean-spirited, sharp in language or tone.**
+- **Harsh and sharp, or [[b/_bitter|bitter]] and not pleasant to the taste; [[a/_acrid|acrid]], pungent.**
+- **[[a/_angry|Angry]], [[a/_acid|acid]], and sharp in [[d/_delivering|delivering]] [[a/_argumentative|argumentative]] replies: [[b/_bitter|bitter]], mean-spirited, sharp in language or tone.**
 ---
 ### Synonyms
 - [[acerb]], [[acerbic]], [[bitter]], [[rancorous]]

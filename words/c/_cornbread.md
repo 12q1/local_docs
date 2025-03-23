@@ -1,6 +1,6 @@
 # Cornbread
 ---
 #noun
-- **Bread made from [[cornmeal]].**
+- **[[b/_bread|Bread]] made from [[c/_cornmeal|cornmeal]].**
 ---
 ---

@@ -2,6 +2,6 @@
 ---
 #noun
 - **Some flowering plants of the genus Lychnis.**
-- **Any flowering plant of the genus Silene.**
+- **[[a/_any|Any]] flowering plant of the genus Silene.**
 ---
 ---

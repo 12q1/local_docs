@@ -1,6 +1,6 @@
 # Deportations
 ---
 #noun
-- **The [[act]] of [[deporting]] or exiling, or the state of [[being]] [[deported]]; [[banishment]]; transportation.**
+- **The [[a/_act|act]] of [[d/_deporting|deporting]] or exiling, or the state of [[b/_being|being]] [[d/_deported|deported]]; [[b/_banishment|banishment]]; transportation.**
 ---
 ---

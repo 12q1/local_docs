@@ -3,17 +3,17 @@
 #verb
 - **To grow or expand.**
 	- _Example: Gradually, the town burgeoned into a thriving city._
-- **To swell to the point of [[bursting]].**
-- **Of plants, to [[bloom]], [[bud]].**
+- **To swell to the point of [[b/_bursting|bursting]].**
+- **Of plants, to [[b/_bloom|bloom]], [[b/_bud|bud]].**
 ---
 ### Synonyms
 - [[blossom]], [[bud]], [[green]], [[sprout]], [[blossom]], [[expand]], [[grow]], [[sprout]]
 #noun
-- **The [[act]] of [[budding]] or sprouting.**
-- **A [[bud]] or [[branch]].**
+- **The [[a/_act|act]] of [[b/_budding|budding]] or sprouting.**
+- **A [[b/_bud|bud]] or [[b/_branch|branch]].**
 - **(by extension) A new growth or expansion of something.**
 ---
 #adjective
-- **That [[buds]], grows or expands; developing.**
+- **That [[b/_buds|buds]], grows or expands; developing.**
 ---
 ---

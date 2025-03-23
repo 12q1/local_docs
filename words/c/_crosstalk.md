@@ -1,15 +1,15 @@
 # Crosstalk
 ---
 #noun
-- **Undesirable signals from a neighbouring transmission [[circuit]]; undesired [[coupling]] [[between]] [[circuits]].**
-- **The situation where one or more [[components]] of a signal transduction pathway [[affect]] [[another]] pathway.**
-- **Conversation that is incidental to the topic under discussion.**
+- **Undesirable signals from a neighbouring transmission [[c/_circuit|circuit]]; undesired [[c/_coupling|coupling]] [[b/_between|between]] [[c/_circuits|circuits]].**
+- **The situation where one or more [[c/_components|components]] of a signal transduction pathway [[a/_affect|affect]] [[a/_another|another]] pathway.**
+- **[[c/_conversation|Conversation]] that is incidental to the topic under discussion.**
 	- _Example: I couldn't hear the opening address because of all the crosstalk around me._
-- **A traditional Chinese [[comedic]] performance in the form of a dialogue.**
+- **A traditional [[c/_chinese|Chinese]] [[c/_comedic|comedic]] performance in the form of a dialogue.**
 ---
 ### Synonyms
 - [[xiangsheng]]
 #verb
-- **To hold an incidental [[conversation]]**
+- **To hold an incidental [[c/_conversation|conversation]]**
 ---
 ---

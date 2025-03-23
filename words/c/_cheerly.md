@@ -1,6 +1,6 @@
 # Cheerly
 ---
 #adjective
-- **Cheerful, gay; not gloomy.**
+- **[[c/_cheerful|Cheerful]], gay; not gloomy.**
 ---
 ---

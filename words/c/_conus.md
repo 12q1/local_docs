@@ -1,6 +1,6 @@
 # Conus
 ---
 #noun
-- **A [[cone]].**
+- **A [[c/_cone|cone]].**
 ---
 ---

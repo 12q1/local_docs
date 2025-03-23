@@ -1,8 +1,8 @@
 # Accordingly
 ---
 #adverb
-- **(manner) Agreeably; [[correspondingly]]; suitably**
-- **In natural sequence; [[consequently]]; so.**
+- **(manner) [[a/_agreeably|Agreeably]]; [[c/_correspondingly|correspondingly]]; suitably**
+- **In natural sequence; [[c/_consequently|consequently]]; so.**
 ---
 ### Synonyms
 - [[consequently]], [[hence]], [[so]], [[therefore]], [[wherefore]]

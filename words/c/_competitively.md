@@ -1,6 +1,6 @@
 # Competitively
 ---
 #adverb
-- **In a [[competitive]] manner.**
+- **In a [[c/_competitive|competitive]] manner.**
 ---
 ---

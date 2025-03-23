@@ -1,18 +1,18 @@
 # Commonplace
 ---
 #noun
-- **A platitude or [[clich]]é.**
-- **Something that is ordinary; something [[commonly]] done or occurring.**
-- **A memorandum; something to be frequently [[consulted]] or referred to.**
-- **A [[commonplace]] [[book]].**
+- **A platitude or [[c/_clich|clich]]é.**
+- **Something that is ordinary; something [[c/_commonly|commonly]] done or occurring.**
+- **A memorandum; something to be frequently [[c/_consulted|consulted]] or referred to.**
+- **A [[c/_commonplace|commonplace]] [[b/_book|book]].**
 ---
 #verb
-- **To make a [[commonplace]] [[book]].**
-- **To enter in a [[commonplace]] [[book]], or to reduce to general heads.**
-- **To utter [[commonplaces]]; to indulge in platitudes.**
+- **To make a [[c/_commonplace|commonplace]] [[b/_book|book]].**
+- **To enter in a [[c/_commonplace|commonplace]] [[b/_book|book]], or to reduce to general heads.**
+- **To utter [[c/_commonplaces|commonplaces]]; to indulge in platitudes.**
 ---
 #adjective
-- **Ordinary; not having [[any]] remarkable [[characteristics]].**
+- **Ordinary; not having [[a/_any|any]] remarkable [[c/_characteristics|characteristics]].**
 ---
 ### Synonyms
 - [[routine]], [[undistinguished]], [[unexceptional]]

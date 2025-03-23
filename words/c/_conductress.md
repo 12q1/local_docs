@@ -1,7 +1,7 @@
 # Conductress
 ---
 #noun
-- **A female [[conductor]]**
+- **A female [[c/_conductor|conductor]]**
 ---
 ### Synonyms
 - [[conductrix]]

@@ -1,9 +1,9 @@
 # Buskins
 ---
 #noun
-- **A half-[[boot]].**
-- **A type of half-[[boot]] with a high heel, worn by the [[ancient]] Athenian tragic [[actors]].**
+- **A half-[[b/_boot|boot]].**
+- **A type of half-[[b/_boot|boot]] with a high heel, worn by the [[a/_ancient|ancient]] [[a/_athenian|Athenian]] tragic [[a/_actors|actors]].**
 - **(by extension) Tragic drama; tragedy.**
-- **An instrument of torture for the foot; [[bootikin]].**
+- **An instrument of torture for the foot; [[b/_bootikin|bootikin]].**
 ---
 ---

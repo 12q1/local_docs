@@ -1,6 +1,6 @@
 # Bacteriuria
 ---
 #noun
-- **The presence of [[bacteria]] in the urine**
+- **The presence of [[b/_bacteria|bacteria]] in the urine**
 ---
 ---

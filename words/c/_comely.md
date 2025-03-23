@@ -1,9 +1,9 @@
 # Comely
 ---
 #adjective
-- **(of a person) Pleasing or [[attractive]] to the eye.**
+- **(of a person) Pleasing or [[a/_attractive|attractive]] to the eye.**
 	- _Example: a comely woman_
-- **Suitable or [[becoming]]; proper; [[agreeable]].**
+- **Suitable or [[b/_becoming|becoming]]; proper; [[a/_agreeable|agreeable]].**
 ---
 ### Synonyms
 - [[pulchritudinous]]

@@ -1,14 +1,14 @@
 # Bacchanal
 ---
 #noun
-- **A devotee of Bacchus.**
+- **A devotee of [[b/_bacchus|Bacchus]].**
 - **Someone who indulges in drunken partying; someone noisy and riotous when intoxicated.**
-- **(in the plural) The festival of Bacchus; the [[bacchanalia]].**
+- **(in the plural) The festival of [[b/_bacchus|Bacchus]]; the [[b/_bacchanalia|bacchanalia]].**
 - **Drunken revelry; an orgy.**
-- **A song or a [[dance]] in honor of Bacchus.**
+- **A song or a [[d/_dance|dance]] in honor of [[b/_bacchus|Bacchus]].**
 ---
 #adjective
-- **Relating to Bacchus or his festival.**
+- **Relating to [[b/_bacchus|Bacchus]] or his festival.**
 - **Engaged in drunken revels; drunken and riotous or noisy.**
 ---
 ---

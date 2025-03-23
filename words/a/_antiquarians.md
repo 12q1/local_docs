@@ -1,7 +1,7 @@
 # Antiquarians
 ---
 #noun
-- **A [[collector]] or student of, or expert in, [[antiquities]] or [[antiques]].**
+- **A [[c/_collector|collector]] or student of, or expert in, [[a/_antiquities|antiquities]] or [[a/_antiques|antiques]].**
 ---
 ### Synonyms
 - [[antiquary]]

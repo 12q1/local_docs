@@ -1,11 +1,11 @@
 # Captivating
 ---
 #verb
-- **To [[attract]] and hold interest and [[attention]] of; [[charm]].**
-- **To take prisoner; to [[capture]]; to subdue.**
+- **To [[a/_attract|attract]] and hold interest and [[a/_attention|attention]] of; [[c/_charm|charm]].**
+- **To take prisoner; to [[c/_capture|capture]]; to subdue.**
 ---
 #adjective
-- **That [[captivates]]; fascinating**
-- **Beautiful; showing great [[beauty]]**
+- **That [[c/_captivates|captivates]]; fascinating**
+- **[[b/_beautiful|Beautiful]]; showing great [[b/_beauty|beauty]]**
 ---
 ---

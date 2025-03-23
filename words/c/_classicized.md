@@ -1,7 +1,7 @@
 # Classicized
 ---
 #verb
-- **To make [[classic]].**
-- **To [[conform]] to the [[classic]] style.**
+- **To make [[c/_classic|classic]].**
+- **To [[c/_conform|conform]] to the [[c/_classic|classic]] style.**
 ---
 ---

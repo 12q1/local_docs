@@ -1,12 +1,12 @@
 # Abolition
 ---
 #noun
-- **The [[act]] of [[abolishing]]; an [[annulling]]; [[abrogation]]**
+- **The [[a/_act|act]] of [[a/_abolishing|abolishing]]; an [[a/_annulling|annulling]]; [[a/_abrogation|abrogation]]**
 	- _Example: the abolition of debts;   the abolition of laws;   the abolition of slavery;   the abolition of police;;   the abolition of taxes_
-- **The state of [[being]] [[abolished]]**
-- **(often [[capitalised]]) The ending of the slave trade or of slavery.**
-- **(often [[capitalised]]) The ending of [[convict]] transportation.**
-- **An [[amnesty]]; a putting out of memory.**
+- **The state of [[b/_being|being]] [[a/_abolished|abolished]]**
+- **(often [[c/_capitalised|capitalised]]) The ending of the slave trade or of slavery.**
+- **(often [[c/_capitalised|capitalised]]) The ending of [[c/_convict|convict]] transportation.**
+- **An [[a/_amnesty|amnesty]]; a putting out of memory.**
 ---
 ### Antonyms
 - [[establishment]], [[foundation]]

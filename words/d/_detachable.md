@@ -1,9 +1,9 @@
 # Detachable
 ---
 #noun
-- **Any device that is [[designed]] so that it [[can]] be [[detached]] from something else.**
+- **[[a/_any|Any]] device that is [[d/_designed|designed]] so that it [[c/_can|can]] be [[d/_detached|detached]] from something else.**
 ---
 #adjective
-- **Designed to be unfastened or disconnected without [[damage]].**
+- **[[d/_designed|Designed]] to be unfastened or disconnected without [[d/_damage|damage]].**
 ---
 ---

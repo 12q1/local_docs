@@ -1,17 +1,17 @@
 # Access
 ---
 #noun
-- **A way or means of [[approaching]] or entering; an entrance; a passage.**
-- **The [[act]] of [[approaching]] or entering; an [[advance]].**
-- **The right or [[ability]] of [[approaching]] or entering; [[admittance]]; [[admission]]; [[accessibility]].**
-- **The quality of [[being]] easy to [[approach]] or enter.**
-- **Admission to sexual intercourse.**
-- **An increase by [[addition]]; [[accession]]**
+- **A way or means of [[a/_approaching|approaching]] or entering; an entrance; a passage.**
+- **The [[a/_act|act]] of [[a/_approaching|approaching]] or entering; an [[a/_advance|advance]].**
+- **The right or [[a/_ability|ability]] of [[a/_approaching|approaching]] or entering; [[a/_admittance|admittance]]; [[a/_admission|admission]]; [[a/_accessibility|accessibility]].**
+- **The quality of [[b/_being|being]] easy to [[a/_approach|approach]] or enter.**
+- **[[a/_admission|Admission]] to sexual intercourse.**
+- **An increase by [[a/_addition|addition]]; [[a/_accession|accession]]**
 	- _Example: an access of territory_
-- **An onset, [[attack]], or fit of disease; an [[ague]] fit.**
+- **An onset, [[a/_attack|attack]], or fit of disease; an [[a/_ague|ague]] fit.**
 - **An outburst of an emotion; a paroxysm; a fit of passion**
-- **The right of a noncustodial parent to visit their [[child]].**
-- **The process of locating [[data]] in memory.**
-- **Connection to or [[communication]] with a [[computer]] program or to the Internet.**
+- **The right of a noncustodial parent to visit their [[c/_child|child]].**
+- **The process of locating [[d/_data|data]] in memory.**
+- **[[c/_connection|Connection]] to or [[c/_communication|communication]] with a [[c/_computer|computer]] program or to the Internet.**
 ---
 ---

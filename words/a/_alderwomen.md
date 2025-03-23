@@ -1,6 +1,6 @@
 # Alderwomen
 ---
 #noun
-- **A female [[alderman]].**
+- **A female [[a/_alderman|alderman]].**
 ---
 ---

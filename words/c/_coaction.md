@@ -1,6 +1,6 @@
 # Coaction
 ---
 #noun
-- **Force; [[compulsion]], either in restraining or impelling**
+- **Force; [[c/_compulsion|compulsion]], either in restraining or impelling**
 ---
 ---

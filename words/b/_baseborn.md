@@ -1,7 +1,7 @@
 # Baseborn
 ---
 #adjective
-- **Bastard, illegitimate**
-- **Of lowly [[birth]].**
+- **[[b/_bastard|Bastard]], illegitimate**
+- **Of lowly [[b/_birth|birth]].**
 ---
 ---

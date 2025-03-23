@@ -1,6 +1,6 @@
 # Californium
 ---
 #noun
-- **A transuranic [[chemical]] element (symbol Cf) with an [[atomic]] number of 98.**
+- **A transuranic [[c/_chemical|chemical]] element (symbol [[c/_cf|Cf]]) with an [[a/_atomic|atomic]] number of 98.**
 ---
 ---

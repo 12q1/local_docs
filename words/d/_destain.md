@@ -1,7 +1,7 @@
 # Destain
 ---
 #verb
-- **To remove a [[chemical]] stain from.**
-- **To lose a [[chemical]] stain.**
+- **To remove a [[c/_chemical|chemical]] stain from.**
+- **To lose a [[c/_chemical|chemical]] stain.**
 ---
 ---

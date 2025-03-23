@@ -1,7 +1,7 @@
 # Dangerously
 ---
 #adverb
-- **In a [[dangerous]] manner.**
+- **In a [[d/_dangerous|dangerous]] manner.**
 ---
 ### Antonyms
 - [[safely]]

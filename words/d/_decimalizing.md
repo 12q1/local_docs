@@ -1,7 +1,7 @@
 # Decimalizing
 ---
 #verb
-- **: To [[convert]] to the [[decimal]] system.**
+- **: To [[c/_convert|convert]] to the [[d/_decimal|decimal]] system.**
 ---
 ### Synonyms
 - [[decimate]]

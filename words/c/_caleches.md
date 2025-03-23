@@ -1,6 +1,6 @@
 # Caleches
 ---
 #noun
-- **A type of [[carriage]] with low wheels, especially pulled by horses.**
+- **A type of [[c/_carriage|carriage]] with low wheels, especially pulled by horses.**
 ---
 ---

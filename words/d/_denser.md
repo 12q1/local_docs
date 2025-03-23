@@ -1,13 +1,13 @@
 # Denser
 ---
 #adjective
-- **Having relatively high [[density]].**
-- **Compact; [[crowded]] together.**
+- **Having relatively high [[d/_density|density]].**
+- **[[c/_compact|Compact]]; [[c/_crowded|crowded]] together.**
 - **Thick; difficult to penetrate.**
-- **Opaque; [[allowing]] little light to pass through.**
+- **Opaque; [[a/_allowing|allowing]] little light to pass through.**
 - **Obscure, or difficult to understand.**
-- **Being a subset of a topological space that [[approximates]] the space well. See Wikipedia [[article]] on [[dense]] sets for mathematical [[definition]].**
-- **(of a person) Slow to [[comprehend]]; of low intelligence.**
+- **[[b/_being|Being]] a subset of a topological space that [[a/_approximates|approximates]] the space well. See Wikipedia [[a/_article|article]] on [[d/_dense|dense]] sets for mathematical [[d/_definition|definition]].**
+- **(of a person) Slow to [[c/_comprehend|comprehend]]; of low intelligence.**
 ---
 ### Synonyms
 - [[abstruse]], [[difficult]], [[hard]], [[incomprehensible]], [[obscure]], [[tough]], [[cloudy]], [[opaque]], [[compact]], [[crowded]], [[packed]], [[dumb]], [[slow]], [[stupid]], [[thick]], [[solid]], [[solid]], [[thick]]

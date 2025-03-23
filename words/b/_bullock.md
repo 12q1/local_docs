@@ -1,10 +1,10 @@
 # Bullock
 ---
 #noun
-- **A young [[bull]].**
-- **A [[castrated]] [[bull]]; an ox.**
+- **A young [[b/_bull|bull]].**
+- **A [[c/_castrated|castrated]] [[b/_bull|bull]]; an ox.**
 ---
 #verb
-- **To [[bully]].**
+- **To [[b/_bully|bully]].**
 ---
 ---

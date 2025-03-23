@@ -1,6 +1,6 @@
 # Cytoplasm
 ---
 #noun
-- **The [[contents]] of a [[cell]] except for the nucleus. It includes cytosol, organelles, vesicles, and the cytoskeleton.**
+- **The [[c/_contents|contents]] of a [[c/_cell|cell]] except for the nucleus. It includes cytosol, organelles, vesicles, and the cytoskeleton.**
 ---
 ---

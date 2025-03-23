@@ -1,13 +1,13 @@
 # Awakens
 ---
 #verb
-- **To [[cause]] to [[become]] [[awake]].**
+- **To [[c/_cause|cause]] to [[b/_become|become]] [[a/_awake|awake]].**
 	- _Example: She awakened him by ringing the bell._
-- **To stop sleeping; [[awake]].**
+- **To stop sleeping; [[a/_awake|awake]].**
 	- _Example: Each morning he awakens with a smile on his face._
-- **To [[bring]] into [[action]] (something previously dormant); to stimulate.**
+- **To [[b/_bring|bring]] into [[a/_action|action]] (something previously dormant); to stimulate.**
 	- _Example: Awaken your entrepreneurial spirit!_
-- **To [[call]] to a sense of sin.**
+- **To [[c/_call|call]] to a sense of sin.**
 ---
 ### Synonyms
 - [[awake]], [[stir]], [[animate]], [[energize]], [[knock up]], [[uprouse]]

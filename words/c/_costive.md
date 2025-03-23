@@ -1,7 +1,7 @@
 # Costive
 ---
 #adjective
-- **Constipated**
+- **[[c/_constipated|Constipated]]**
 - **Miserly, parsimonious**
 ---
 ---

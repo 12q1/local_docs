@@ -1,9 +1,9 @@
 # Chiffonade
 ---
 #noun
-- **A [[culinary]] preparation of herbs or leafy vegetables [[cut]] into long, thin ribbons.**
+- **A [[c/_culinary|culinary]] preparation of herbs or leafy vegetables [[c/_cut|cut]] into long, thin ribbons.**
 ---
 #verb
-- **To prepare a [[chiffonade]].**
+- **To prepare a [[c/_chiffonade|chiffonade]].**
 ---
 ---

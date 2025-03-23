@@ -1,6 +1,6 @@
 # Compliancy
 ---
 #noun
-- **The [[condition]] of [[being]] [[compliant]]; [[compliance]], [[complaisance]]**
+- **The [[c/_condition|condition]] of [[b/_being|being]] [[c/_compliant|compliant]]; [[c/_compliance|compliance]], [[c/_complaisance|complaisance]]**
 ---
 ---

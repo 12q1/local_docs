@@ -1,8 +1,8 @@
 # Alfalfa
 ---
 #noun
-- **A plant, principally of Medicago sativa, grown as a pasture [[crop]].**
-- **A type or [[breed]] of this plant.**
+- **A plant, principally of Medicago sativa, grown as a pasture [[c/_crop|crop]].**
+- **A type or [[b/_breed|breed]] of this plant.**
 ---
 ### Synonyms
 - [[lucerne]]

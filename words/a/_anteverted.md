@@ -2,7 +2,7 @@
 ---
 #verb
 - **To prevent.**
-- **To displace by [[anteversion]].**
+- **To displace by [[a/_anteversion|anteversion]].**
 ---
 #adjective
 - **Turned or tipped forward.**

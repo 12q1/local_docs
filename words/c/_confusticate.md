@@ -1,7 +1,7 @@
 # Confusticate
 ---
 #verb
-- **To [[confuse]], [[confound]] or perplex.**
+- **To [[c/_confuse|confuse]], [[c/_confound|confound]] or perplex.**
 ---
 ### Synonyms
 - [[confuscate]]

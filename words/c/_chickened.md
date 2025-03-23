@@ -1,6 +1,6 @@
 # Chickened
 ---
 #verb
-- **To [[avoid]] a situation one is [[afraid]] of.**
+- **To [[a/_avoid|avoid]] a situation one is [[a/_afraid|afraid]] of.**
 ---
 ---

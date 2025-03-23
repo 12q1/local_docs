@@ -1,10 +1,10 @@
 # Anthropoid
 ---
 #noun
-- **An [[anthropoid]] [[animal]].**
+- **An [[a/_anthropoid|anthropoid]] [[a/_animal|animal]].**
 ---
 #adjective
-- **Having [[characteristics]] of a human, usually in terms of shape or [[appearance]]**
-- **Having [[characteristics]] of an [[ape]]**
+- **Having [[c/_characteristics|characteristics]] of a human, usually in terms of shape or [[a/_appearance|appearance]]**
+- **Having [[c/_characteristics|characteristics]] of an [[a/_ape|ape]]**
 ---
 ---

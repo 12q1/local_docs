@@ -1,6 +1,6 @@
 # Craftsmen
 ---
 #noun
-- **A male [[artisan]].**
+- **A male [[a/_artisan|artisan]].**
 ---
 ---

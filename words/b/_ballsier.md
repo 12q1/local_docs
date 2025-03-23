@@ -1,6 +1,6 @@
 # Ballsier
 ---
 #adjective
-- **Tough and [[courageous]]; having [[balls]].**
+- **Tough and [[c/_courageous|courageous]]; having [[b/_balls|balls]].**
 ---
 ---

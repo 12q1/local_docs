@@ -1,7 +1,7 @@
 # Circumferential
 ---
 #adjective
-- **Of or pertaining to a [[circumference]]**
-- **Circuitous, indirect or roundabout**
+- **Of or pertaining to a [[c/_circumference|circumference]]**
+- **[[c/_circuitous|Circuitous]], indirect or roundabout**
 ---
 ---

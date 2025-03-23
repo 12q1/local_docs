@@ -1,6 +1,6 @@
 # Authoritatively
 ---
 #adverb
-- **In an [[authoritative]] manner, [[being]] worthy of trust.**
+- **In an [[a/_authoritative|authoritative]] manner, [[b/_being|being]] worthy of trust.**
 ---
 ---

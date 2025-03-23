@@ -1,6 +1,6 @@
 # Bioengineering
 ---
 #noun
-- **The [[applications]] of the principles of engineering to [[any]] of the [[biological]] or medical sciences**
+- **The [[a/_applications|applications]] of the principles of engineering to [[a/_any|any]] of the [[b/_biological|biological]] or medical sciences**
 ---
 ---

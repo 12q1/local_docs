@@ -1,6 +1,6 @@
 # Denims
 ---
 #noun
-- **Jeans made of [[denim]].**
+- **Jeans made of [[d/_denim|denim]].**
 ---
 ---

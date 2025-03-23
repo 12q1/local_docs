@@ -2,21 +2,21 @@
 ---
 #noun
 - **A horn used by hunters.**
-- **A simple [[brass]] instrument [[consisting]] of a horn with no valves, playing only pitches in its harmonic series**
-- **A plant in the family Lamiaceae grown as a ground [[cover]], Ajuga reptans, and other plants in the genus Ajuga.**
-- **Anything shaped like a [[bugle]], round or [[conical]] and having a [[bell]] on one end.**
+- **A simple [[b/_brass|brass]] instrument [[c/_consisting|consisting]] of a horn with no valves, playing only pitches in its harmonic series**
+- **A plant in the family Lamiaceae grown as a ground [[c/_cover|cover]], [[a/_ajuga|Ajuga]] reptans, and other plants in the genus [[a/_ajuga|Ajuga]].**
+- **[[a/_anything|Anything]] shaped like a [[b/_bugle|bugle]], round or [[c/_conical|conical]] and having a [[b/_bell|bell]] on one end.**
 ---
 ### Synonyms
 - [[cone]], [[funnel]], [[bugleweed]], [[carpet bugle]], [[ground pine]]
 #verb
-- **To [[announce]], sing, or [[cry]] in the manner of a musical [[bugle]]**
+- **To [[a/_announce|announce]], sing, or [[c/_cry|cry]] in the manner of a musical [[b/_bugle|bugle]]**
 ---
 ### Synonyms
 - [[trumpet]]
 #noun
-- **A tubular glass or plastic [[bead]] sewn onto [[clothes]] as a [[decorative]] trim**
+- **A tubular glass or plastic [[b/_bead|bead]] sewn onto [[c/_clothes|clothes]] as a [[d/_decorative|decorative]] trim**
 ---
 #noun
-- **A sort of wild ox; a [[buffalo]].**
+- **A sort of wild ox; a [[b/_buffalo|buffalo]].**
 ---
 ---

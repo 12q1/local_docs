@@ -2,6 +2,6 @@
 ---
 #noun
 - **A marine European fish (Symphodus melops).**
-- **The related American [[conner]] (Tautogolabrus adspersus).**
+- **The related [[a/_american|American]] [[c/_conner|conner]] (Tautogolabrus adspersus).**
 ---
 ---

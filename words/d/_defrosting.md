@@ -9,6 +9,6 @@
 	- _Example: See you tomorrow evening; I'll have defrosted from my trip by then._
 ---
 #noun
-- **The process by which something is [[defrosted]].**
+- **The process by which something is [[d/_defrosted|defrosted]].**
 ---
 ---

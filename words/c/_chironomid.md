@@ -1,7 +1,7 @@
 # Chironomid
 ---
 #noun
-- **Any of the non-[[biting]] midges or Chironomidae, a family of true flies within the order Diptera.**
+- **[[a/_any|Any]] of the non-[[b/_biting|biting]] midges or [[c/_chironomidae|Chironomidae]], a family of true flies within the order Diptera.**
 	- _Example: Fossil chironomids have proven useful as indicators of climatic change._
 ---
 ---

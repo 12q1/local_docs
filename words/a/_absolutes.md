@@ -1,13 +1,13 @@
 # Absolutes
 ---
 #noun
-- **That which is independent of [[context]]-[[dependent]] interpretation, inviolate, fundamental.**
+- **That which is independent of [[c/_context|context]]-[[d/_dependent|dependent]] interpretation, inviolate, fundamental.**
 	- _Example: moral absolutes_
-- **Anything that is [[absolute]].**
-- **In a plane, the two imaginary [[circular]] points at infinity; in space of three dimensions, the imaginary [[circle]] at infinity.**
-- **(usually [[capitalized]]) A realm which exists without reference to [[anything]] else; that which [[can]] be imagined purely by itself; [[absolute]] ego.**
-- **(usually [[capitalized]]) The unity of spirit and nature; God.**
-- **(usually [[capitalized]]) The whole of reality; the totality to which everything is reduced.**
-- **A [[concentrated]] natural flower oil, used for perfumes; an [[alcoholic]] extract of a [[concrete]].**
+- **[[a/_anything|Anything]] that is [[a/_absolute|absolute]].**
+- **In a plane, the two imaginary [[c/_circular|circular]] points at infinity; in space of three dimensions, the imaginary [[c/_circle|circle]] at infinity.**
+- **(usually [[c/_capitalized|capitalized]]) A realm which exists without reference to [[a/_anything|anything]] else; that which [[c/_can|can]] be imagined purely by itself; [[a/_absolute|absolute]] ego.**
+- **(usually [[c/_capitalized|capitalized]]) The unity of spirit and nature; God.**
+- **(usually [[c/_capitalized|capitalized]]) The whole of reality; the totality to which everything is reduced.**
+- **A [[c/_concentrated|concentrated]] natural flower oil, used for perfumes; an [[a/_alcoholic|alcoholic]] extract of a [[c/_concrete|concrete]].**
 ---
 ---

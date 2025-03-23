@@ -1,12 +1,12 @@
 # Clanger
 ---
 #noun
-- **Something that [[clangs]]; an [[alarm]] [[bell]] ([[also]] figuratively).**
-- **The [[clapper]] of a [[bell]], [[anything]] that strikes a [[bell]] or other metal object to make a ringing sound.**
-- **A very noticeable mistake; an [[attention]]-getting faux pas.**
-- **An inhabitant of Bedfordshire.**
-- **A mistake made by a player; [[counted]] in the game statistics in the [[category]] "errors including frees [[against]]".**
-- **An early hi-hat [[consisting]] of [[cymbals]] mounted on the rim of a [[bass]] drum and struck with an [[arm]] on the drum's pedal.**
+- **Something that [[c/_clangs|clangs]]; an [[a/_alarm|alarm]] [[b/_bell|bell]] ([[a/_also|also]] figuratively).**
+- **The [[c/_clapper|clapper]] of a [[b/_bell|bell]], [[a/_anything|anything]] that strikes a [[b/_bell|bell]] or other metal object to make a ringing sound.**
+- **A very noticeable mistake; an [[a/_attention|attention]]-getting faux pas.**
+- **An inhabitant of [[b/_bedfordshire|Bedfordshire]].**
+- **A mistake made by a player; [[c/_counted|counted]] in the game statistics in the [[c/_category|category]] "errors including frees [[a/_against|against]]".**
+- **An early hi-hat [[c/_consisting|consisting]] of [[c/_cymbals|cymbals]] mounted on the rim of a [[b/_bass|bass]] drum and struck with an [[a/_arm|arm]] on the drum's pedal.**
 ---
 ### Synonyms
 - [[blooper]], [[blunder]], [[boo-boo]], [[faux pas]], [[gaffe]], [[pratfall]]

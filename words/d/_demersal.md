@@ -1,10 +1,10 @@
 # Demersal
 ---
 #noun
-- **Any [[demersal]] organism.**
+- **[[a/_any|Any]] [[d/_demersal|demersal]] organism.**
 ---
 #adjective
-- **That lives near the [[bottom]] of a [[body]] of water.**
+- **That lives near the [[b/_bottom|bottom]] of a [[b/_body|body]] of water.**
 ---
 ### Synonyms
 - [[benthic]]

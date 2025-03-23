@@ -1,17 +1,17 @@
 # Broiling
 ---
 #verb
-- **To [[cook]] by direct, radiant heat.**
+- **To [[c/_cook|cook]] by direct, radiant heat.**
 - **To expose to great heat.**
 - **To be exposed to great heat.**
 ---
 ### Synonyms
 - [[grill]]
 #verb
-- **To [[cause]] a rowdy disturbance; embroil.**
-- **To [[brawl]].**
+- **To [[c/_cause|cause]] a rowdy disturbance; embroil.**
+- **To [[b/_brawl|brawl]].**
 ---
 #noun
-- **A food prepared by [[broiling]].**
+- **A food prepared by [[b/_broiling|broiling]].**
 ---
 ---

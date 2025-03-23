@@ -1,6 +1,6 @@
 # Carbanion
 ---
 #noun
-- **Any organic [[anion]] of general formula R3C-**
+- **[[a/_any|Any]] organic [[a/_anion|anion]] of general formula R3C-**
 ---
 ---

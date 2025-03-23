@@ -5,7 +5,7 @@
 ---
 #adjective
 - **Occurring twice a year; semiannual.**
-- **Occurring once every two years; [[biennial]].**
+- **Occurring once every two years; [[b/_biennial|biennial]].**
 ---
 ### Synonyms
 - [[half-yearly]], [[semiannual]], [[twice-yearly]]

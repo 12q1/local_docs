@@ -1,9 +1,9 @@
 # Contractors
 ---
 #noun
-- **A person or [[company]] that [[builds]] or improves [[buildings]].**
-- **A person or [[company]] that performs specific tasks like electrical or plumbing work in [[construction]] projects.**
-- **A person or [[company]] hired to maintain existing facilities like [[air]] [[conditioning]] systems, groundskeeping, etc.**
-- **A person hired to do a job on a [[business]] [[contract]], as opposed to a permanent employee.**
+- **A person or [[c/_company|company]] that [[b/_builds|builds]] or improves [[b/_buildings|buildings]].**
+- **A person or [[c/_company|company]] that performs specific tasks like electrical or plumbing work in [[c/_construction|construction]] projects.**
+- **A person or [[c/_company|company]] hired to maintain existing facilities like [[a/_air|air]] [[c/_conditioning|conditioning]] systems, groundskeeping, etc.**
+- **A person hired to do a job on a [[b/_business|business]] [[c/_contract|contract]], as opposed to a permanent employee.**
 ---
 ---

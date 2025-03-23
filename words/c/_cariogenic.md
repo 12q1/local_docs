@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Of, or relating to cariogenesis.**
-- **Producing [[dental]] [[caries]].**
+- **Producing [[d/_dental|dental]] [[c/_caries|caries]].**
 ---
 ---

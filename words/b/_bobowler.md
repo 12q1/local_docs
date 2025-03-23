@@ -1,6 +1,6 @@
 # Bobowler
 ---
 #noun
-- **(Black Country) A large moth.**
+- **([[b/_black|Black]] [[c/_country|Country]]) A large moth.**
 ---
 ---

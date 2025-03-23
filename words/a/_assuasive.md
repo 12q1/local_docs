@@ -1,7 +1,7 @@
 # Assuasive
 ---
 #noun
-- **Anything that soothes.**
+- **[[a/_anything|Anything]] that soothes.**
 ---
 #adjective
 - **Mild, soothing.**

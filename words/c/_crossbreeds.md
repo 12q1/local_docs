@@ -1,6 +1,6 @@
 # Crossbreeds
 ---
 #noun
-- **An organism produced by mating of individuals of different varieties or [[breeds]].**
+- **An organism produced by mating of individuals of different varieties or [[b/_breeds|breeds]].**
 ---
 ---

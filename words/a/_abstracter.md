@@ -1,26 +1,26 @@
 # Abstracter
 ---
 #adjective
-- **Derived; extracted.**
-- **Drawn [[away]]; removed from; [[apart]] from; separate.**
-- **Not [[concrete]]: [[conceptual]], ideal.**
-- **Difficult to understand; [[abstruse]]; hard to [[conceptualize]].**
-- **Separately expressing a property or [[attribute]] of an object that is [[considered]] to be inherent to that object: [[attributive]], [[ascriptive]].**
-- **Pertaining [[comprehensively]] to, or representing, a [[class]] or group of objects, as opposed to [[any]] specific object; [[considered]] [[apart]] from [[any]] [[application]] to a particular object: general, generic, nonspecific; representational.**
-- **Absent-minded.**
-- **Pertaining to the formal [[aspect]] of [[art]], such as the lines, [[colors]], shapes, and the relationships [[among]] them.**
+- **[[d/_derived|Derived]]; extracted.**
+- **Drawn [[a/_away|away]]; removed from; [[a/_apart|apart]] from; separate.**
+- **Not [[c/_concrete|concrete]]: [[c/_conceptual|conceptual]], ideal.**
+- **Difficult to understand; [[a/_abstruse|abstruse]]; hard to [[c/_conceptualize|conceptualize]].**
+- **Separately expressing a property or [[a/_attribute|attribute]] of an object that is [[c/_considered|considered]] to be inherent to that object: [[a/_attributive|attributive]], [[a/_ascriptive|ascriptive]].**
+- **Pertaining [[c/_comprehensively|comprehensively]] to, or representing, a [[c/_class|class]] or group of objects, as opposed to [[a/_any|any]] specific object; [[c/_considered|considered]] [[a/_apart|apart]] from [[a/_any|any]] [[a/_application|application]] to a particular object: general, generic, nonspecific; representational.**
+- **[[a/_absent|Absent]]-minded.**
+- **Pertaining to the formal [[a/_aspect|aspect]] of [[a/_art|art]], such as the lines, [[c/_colors|colors]], shapes, and the relationships [[a/_among|among]] them.**
 - **Insufficiently factual.**
-- **Apart from practice or reality; vague; theoretical; impersonal; not [[applied]].**
-- **(grammar) As a noun, [[denoting]] an intangible as opposed to an object, place, or person.**
-- **Of a [[class]] in object-oriented programming, [[being]] a partial [[basis]] for subclasses rather than a [[complete]] template for objects.**
+- **[[a/_apart|Apart]] from practice or reality; vague; theoretical; impersonal; not [[a/_applied|applied]].**
+- **(grammar) As a noun, [[d/_denoting|denoting]] an intangible as opposed to an object, place, or person.**
+- **Of a [[c/_class|class]] in object-oriented programming, [[b/_being|being]] a partial [[b/_basis|basis]] for subclasses rather than a [[c/_complete|complete]] template for objects.**
 ---
 ### Synonyms
 - [[abstruse]], [[ascriptive]], [[attributive]], [[conceptual]], [[ideal]], [[imaginary]], [[incorporeal]], [[intangible]], [[nonempirical]], [[theoretical]], [[conceptual]], [[theoretical]], [[formal]], [[general]], [[generalized]], [[generic]], [[nonspecific]], [[representational]]
 ### Antonyms
 - [[actual]], [[concrete]], [[corporeal]], [[empirical]], [[applied]], [[practical]], [[discrete]], [[particular]], [[precise]], [[specific]]
 #noun
-- **One who [[abstracts]], or makes an [[abstract]], as in records or documents.**
+- **One who [[a/_abstracts|abstracts]], or makes an [[a/_abstract|abstract]], as in records or documents.**
 - **Someone that finds and summarizes information for legal or insurance work.**
-- **An [[accounting]] [[clerk]] who records payroll [[deductions]].**
+- **An [[a/_accounting|accounting]] [[c/_clerk|clerk]] who records payroll [[d/_deductions|deductions]].**
 ---
 ---

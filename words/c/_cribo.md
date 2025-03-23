@@ -1,6 +1,6 @@
 # Cribo
 ---
 #noun
-- **Any of various snakes in the genus Drymarchon.**
+- **[[a/_any|Any]] of various snakes in the genus Drymarchon.**
 ---
 ---

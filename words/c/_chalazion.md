@@ -1,6 +1,6 @@
 # Chalazion
 ---
 #noun
-- **A [[cyst]] in the eyelid, [[caused]] by inflammation of a [[blocked]] meibomian gland.**
+- **A [[c/_cyst|cyst]] in the eyelid, [[c/_caused|caused]] by inflammation of a [[b/_blocked|blocked]] meibomian gland.**
 ---
 ---

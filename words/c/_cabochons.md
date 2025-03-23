@@ -1,6 +1,6 @@
 # Cabochons
 ---
 #noun
-- **A [[convex]]-[[cut]], polished stone.**
+- **A [[c/_convex|convex]]-[[c/_cut|cut]], polished stone.**
 ---
 ---

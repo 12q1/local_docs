@@ -1,7 +1,7 @@
 # Complainer
 ---
 #noun
-- **One who [[complains]], or is known for their [[complaints]].**
+- **One who [[c/_complains|complains]], or is known for their [[c/_complaints|complaints]].**
 ---
 ### Synonyms
 - [[grumbler]], [[squeaky wheel]]

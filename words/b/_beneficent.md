@@ -1,7 +1,7 @@
 # Beneficent
 ---
 #adjective
-- **Given to [[acts]] that are kind, [[charitable]], philanthropic or [[beneficial]].**
+- **Given to [[a/_acts|acts]] that are kind, [[c/_charitable|charitable]], philanthropic or [[b/_beneficial|beneficial]].**
 ---
 ### Synonyms
 - [[beneficient]], [[generous]]

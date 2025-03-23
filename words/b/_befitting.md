@@ -7,7 +7,7 @@
 ### Synonyms
 - [[behoove]]
 #adjective
-- **Appropriate, [[becoming]]**
+- **[[a/_appropriate|Appropriate]], [[b/_becoming|becoming]]**
 	- _Example: He moved with a befitting grace._
 ---
 ---

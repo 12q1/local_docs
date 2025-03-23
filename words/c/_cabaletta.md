@@ -1,7 +1,7 @@
 # Cabaletta
 ---
 #noun
-- **A short, rhythmically repetitive [[aria]].**
+- **A short, rhythmically repetitive [[a/_aria|aria]].**
 	- _Example: 1980, to bring the proceedings to an end and enable him to perform his salvatory mission, he swung into a cabaletta which summed up the argument against Arius — Anthony Burgess, Earthly Powers_
 ---
 ---

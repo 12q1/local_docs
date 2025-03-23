@@ -1,7 +1,7 @@
 # Coercive
 ---
 #adjective
-- **Displaying a tendency or intent to [[coerce]]**
-- **(of a function F) such that the ration of |F(x)| to x [[approaches]] infinity as x [[approaches]] infinity**
+- **Displaying a tendency or intent to [[c/_coerce|coerce]]**
+- **(of a function F) such that the ration of |F(x)| to x [[a/_approaches|approaches]] infinity as x [[a/_approaches|approaches]] infinity**
 ---
 ---

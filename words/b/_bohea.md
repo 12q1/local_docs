@@ -1,6 +1,6 @@
 # Bohea
 ---
 #noun
-- **A [[black]] tea from China.**
+- **A [[b/_black|black]] tea from [[c/_china|China]].**
 ---
 ---

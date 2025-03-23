@@ -5,6 +5,6 @@
 	- _Example: Washing dishes is a chore, but we cannot just stop eating._
 ---
 #verb
-- **To do [[chores]].**
+- **To do [[c/_chores|chores]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Dentin
 ---
 #noun
-- **The hard, [[dense]] [[calcareous]] material that makes up the [[bulk]] of a tooth**
+- **The hard, [[d/_dense|dense]] [[c/_calcareous|calcareous]] material that makes up the [[b/_bulk|bulk]] of a tooth**
 ---
 ---

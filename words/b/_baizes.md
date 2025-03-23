@@ -1,7 +1,7 @@
 # Baizes
 ---
 #noun
-- **A thick, soft, usually woolen [[cloth]] resembling felt; often [[colored]] green and used for [[coverings]] on [[card]] tables, [[billiard]] and snooker tables, etc.**
-- **A [[coarse]] woolen material with a long nap; usually dyed in plain [[colors]].**
+- **A thick, soft, usually woolen [[c/_cloth|cloth]] resembling felt; often [[c/_colored|colored]] green and used for [[c/_coverings|coverings]] on [[c/_card|card]] tables, [[b/_billiard|billiard]] and snooker tables, etc.**
+- **A [[c/_coarse|coarse]] woolen material with a long nap; usually dyed in plain [[c/_colors|colors]].**
 ---
 ---

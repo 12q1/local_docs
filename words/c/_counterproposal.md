@@ -1,7 +1,7 @@
 # Counterproposal
 ---
 #noun
-- **A proposal made as an [[alternative]] to [[another]], earlier proposal.**
+- **A proposal made as an [[a/_alternative|alternative]] to [[a/_another|another]], earlier proposal.**
 ---
 ### Synonyms
 - [[counterproposition]]

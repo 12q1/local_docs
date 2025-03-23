@@ -1,6 +1,6 @@
 # Decontaminated
 ---
 #verb
-- **To remove [[contamination]] from (something), rendering it safe.**
+- **To remove [[c/_contamination|contamination]] from (something), rendering it safe.**
 ---
 ---

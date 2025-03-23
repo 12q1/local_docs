@@ -1,10 +1,10 @@
 # Curial
 ---
 #noun
-- **A member of a [[curia]], especially of that of Rome or the later Italian sovereignties.**
+- **A member of a [[c/_curia|curia]], especially of that of Rome or the later Italian sovereignties.**
 ---
 #adjective
-- **Pertaining to a [[court]]; [[courtly]].**
-- **Pertaining to the papal [[curia]].**
+- **Pertaining to a [[c/_court|court]]; [[c/_courtly|courtly]].**
+- **Pertaining to the papal [[c/_curia|curia]].**
 ---
 ---

@@ -1,8 +1,8 @@
 # Campaigned
 ---
 #verb
-- **To take part in a [[campaign]].**
+- **To take part in a [[c/_campaign|campaign]].**
 	- _Example: She campaigned for better social security._
-- **Consistently ride in races for a racing season.**
+- **[[c/_consistently|Consistently]] ride in races for a racing season.**
 ---
 ---

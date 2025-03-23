@@ -1,9 +1,9 @@
 # Carryons
 ---
 #noun
-- **That luggage or [[baggage]] which is taken onto an [[airplane]] with a passenger, rather than [[checked]].**
+- **That luggage or [[b/_baggage|baggage]] which is taken onto an [[a/_airplane|airplane]] with a passenger, rather than [[c/_checked|checked]].**
 	- _Example: Do you think they'll accept my ski poles as carry-on?_
-- **An [[activity]] that is done in an excessively excitable or [[anxious]] manner.**
+- **An [[a/_activity|activity]] that is done in an excessively excitable or [[a/_anxious|anxious]] manner.**
 ---
 ### Synonyms
 - [[hand luggage]]

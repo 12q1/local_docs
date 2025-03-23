@@ -1,6 +1,6 @@
 # Beasties
 ---
 #noun
-- **Beast, [[animal]].**
+- **[[b/_beast|Beast]], [[a/_animal|animal]].**
 ---
 ---

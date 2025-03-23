@@ -1,10 +1,10 @@
 # Bumbled
 ---
 #verb
-- **To [[act]] in an inept, [[clumsy]] or inexpert manner; to make mistakes.**
+- **To [[a/_act|act]] in an inept, [[c/_clumsy|clumsy]] or inexpert manner; to make mistakes.**
 	- _Example: Spiders build webs and wait for insects to bumble into them._
 ---
 #verb
-- **To [[boom]], as a [[bittern]]; to [[buzz]], as a fly.**
+- **To [[b/_boom|boom]], as a [[b/_bittern|bittern]]; to [[b/_buzz|buzz]], as a fly.**
 ---
 ---

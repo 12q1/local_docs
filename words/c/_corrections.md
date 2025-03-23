@@ -1,12 +1,12 @@
 # Corrections
 ---
 #noun
-- **The [[act]] of [[correcting]].**
+- **The [[a/_act|act]] of [[c/_correcting|correcting]].**
 - **A substitution for an error or mistake.**
 - **Punishment that is intended to rehabilitate an offender.**
-- **An [[amount]] or quantity of something [[added]] or subtracted so as to [[correct]].**
-- **A [[decline]] in a stock market price [[after]] a large rise.**
-- **(procedure word, military) a station's indication that previous information was incorrect and will [[continue]] with [[correct]] information from the last [[correct]] transmitted**
+- **An [[a/_amount|amount]] or quantity of something [[a/_added|added]] or subtracted so as to [[c/_correct|correct]].**
+- **A [[d/_decline|decline]] in a stock market price [[a/_after|after]] a large rise.**
+- **(procedure word, military) a station's indication that previous information was incorrect and will [[c/_continue|continue]] with [[c/_correct|correct]] information from the last [[c/_correct|correct]] transmitted**
 	- _Example: I have four T-80 tanks at grid Three-niner-niner-four-eight-eight, Correction: Grid Three niner-niner-four-eight-five. How copy? Over._
 ---
 ---

@@ -1,9 +1,9 @@
 # Anthologies
 ---
 #noun
-- **A [[collection]] of literary works, such as poems or short stories, especially a [[collection]] from various [[authors]].**
-- **Of a work or series [[containing]] various stories with no direct relation to one [[another]].**
-- **(by extension) An [[assortment]] of things.**
+- **A [[c/_collection|collection]] of literary works, such as poems or short stories, especially a [[c/_collection|collection]] from various [[a/_authors|authors]].**
+- **Of a work or series [[c/_containing|containing]] various stories with no direct relation to one [[a/_another|another]].**
+- **(by extension) An [[a/_assortment|assortment]] of things.**
 - **The study of flowers.**
 ---
 ---

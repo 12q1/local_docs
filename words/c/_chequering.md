@@ -1,10 +1,10 @@
 # Chequering
 ---
 #verb
-- **To mark in a pattern of [[alternating]] light and [[dark]] positions, like a [[checkerboard]].**
-- **To develop markings in a pattern of [[alternating]] light and [[dark]] positions, like a [[checkerboard]].**
+- **To mark in a pattern of [[a/_alternating|alternating]] light and [[d/_dark|dark]] positions, like a [[c/_checkerboard|checkerboard]].**
+- **To develop markings in a pattern of [[a/_alternating|alternating]] light and [[d/_dark|dark]] positions, like a [[c/_checkerboard|checkerboard]].**
 ---
 #noun
-- **A [[chequered]] pattern.**
+- **A [[c/_chequered|chequered]] pattern.**
 ---
 ---

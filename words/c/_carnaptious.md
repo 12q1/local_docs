@@ -1,6 +1,6 @@
 # Carnaptious
 ---
 #adjective
-- **Bad-tempered, quarrelsome, snappy**
+- **[[b/_bad|Bad]]-tempered, quarrelsome, snappy**
 ---
 ---

@@ -1,7 +1,7 @@
 # Anemograph
 ---
 #noun
-- **An [[anemometer]] that makes a graphical recording.**
+- **An [[a/_anemometer|anemometer]] that makes a graphical recording.**
 ---
 ### Synonyms
 - [[anemometrograph]]

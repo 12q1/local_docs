@@ -1,10 +1,10 @@
 # Ctenoid
 ---
 #noun
-- **A [[ctenoidean]].**
+- **A [[c/_ctenoidean|ctenoidean]].**
 ---
 #adjective
 - **Having a toothed margin, usually fish scales**
-- **Comb-like in shape.**
+- **[[c/_comb|Comb]]-like in shape.**
 ---
 ---

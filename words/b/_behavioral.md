@@ -1,6 +1,6 @@
 # Behavioral
 ---
 #adjective
-- **Of or relating to [[behavior]].**
+- **Of or relating to [[b/_behavior|behavior]].**
 ---
 ---

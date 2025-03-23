@@ -1,8 +1,8 @@
 # Chairwoman
 ---
 #noun
-- **A female [[chairperson]]**
-- **A [[charwoman]]**
+- **A female [[c/_chairperson|chairperson]]**
+- **A [[c/_charwoman|charwoman]]**
 ---
 ### Antonyms
 - [[chairman]]

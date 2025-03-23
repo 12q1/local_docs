@@ -1,9 +1,9 @@
 # Blackbirding
 ---
 #verb
-- **To enslave someone, especially through [[chicanery]] or force**
+- **To enslave someone, especially through [[c/_chicanery|chicanery]] or force**
 ---
 #noun
-- **The practice of kidnapping Pacific Islanders, or kanakas, for sale as [[cheap]] labour.**
+- **The practice of kidnapping Pacific Islanders, or kanakas, for sale as [[c/_cheap|cheap]] labour.**
 ---
 ---

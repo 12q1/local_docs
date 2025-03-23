@@ -1,8 +1,8 @@
 # Blazonry
 ---
 #noun
-- **Blazon.**
-- **A [[coat]] of [[arms]]; an [[armorial]] [[bearing]] or [[bearings]].**
-- **An [[artistic]] representation or display.**
+- **[[b/_blazon|Blazon]].**
+- **A [[c/_coat|coat]] of [[a/_arms|arms]]; an [[a/_armorial|armorial]] [[b/_bearing|bearing]] or [[b/_bearings|bearings]].**
+- **An [[a/_artistic|artistic]] representation or display.**
 ---
 ---

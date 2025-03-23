@@ -1,8 +1,8 @@
 # Chatelaines
 ---
 #noun
-- **The mistress of a [[castle]] or large household.**
-- **A [[chain]] or [[clasp]] worn at the waist by women with handkerchief, keys, etc., [[attached]], supposed to resemble the [[chain]] of keys once worn by medieval [[chatelaines]].**
-- **A similar thing in miniature [[attached]] to a watchchain.**
+- **The mistress of a [[c/_castle|castle]] or large household.**
+- **A [[c/_chain|chain]] or [[c/_clasp|clasp]] worn at the waist by women with handkerchief, keys, etc., [[a/_attached|attached]], supposed to resemble the [[c/_chain|chain]] of keys once worn by medieval [[c/_chatelaines|chatelaines]].**
+- **A similar thing in miniature [[a/_attached|attached]] to a watchchain.**
 ---
 ---

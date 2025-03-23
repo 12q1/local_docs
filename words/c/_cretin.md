@@ -1,7 +1,7 @@
 # Cretin
 ---
 #noun
-- **A person who fails to develop mentally and physically due to a [[congenital]] hypothyroidism.**
+- **A person who fails to develop mentally and physically due to a [[c/_congenital|congenital]] hypothyroidism.**
 - **(by extension) An idiot.**
 ---
 ---

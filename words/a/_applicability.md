@@ -1,7 +1,7 @@
 # Applicability
 ---
 #noun
-- **The [[degree]] to which a thing is [[applicable]]; relevancy.**
+- **The [[d/_degree|degree]] to which a thing is [[a/_applicable|applicable]]; relevancy.**
 ---
 ### Antonyms
 - [[inapplicability]]

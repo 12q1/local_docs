@@ -1,17 +1,17 @@
 # Convinced
 ---
 #verb
-- **To make someone [[believe]], or feel sure [[about]] something, especially by using logic, [[argument]] or evidence.**
+- **To make someone [[b/_believe|believe]], or feel sure [[a/_about|about]] something, especially by using logic, [[a/_argument|argument]] or evidence.**
 	- _Example: I wouldn't have or do something, unless I'm convinced that it's good._
 - **To persuade.**
-- **To overcome, [[conquer]], vanquish.**
-- **To [[confute]]; to prove wrong.**
-- **To prove guilty; to [[convict]].**
+- **To overcome, [[c/_conquer|conquer]], vanquish.**
+- **To [[c/_confute|confute]]; to prove wrong.**
+- **To prove guilty; to [[c/_convict|convict]].**
 ---
 ### Synonyms
 - [[assure]], [[convert]], [[persuade]], [[satisfy]], [[win over]]
 #adjective
-- **In a state of [[believing]], especially from evidence but not necessarily.**
+- **In a state of [[b/_believing|believing]], especially from evidence but not necessarily.**
 	- _Example: He was convinced he was a great singer, statements of others to the contrary._
 ---
 ---

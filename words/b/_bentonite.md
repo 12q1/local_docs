@@ -1,8 +1,8 @@
 # Bentonite
 ---
 #noun
-- **Any of several impure [[clay]] minerals [[consisting]] mostly of montmorillonite.**
-- **A porous [[clay]] formed by the [[decomposition]] of volcanic [[ash]] that swells 5 to 6 times its original volume in the presence of water.**
+- **[[a/_any|Any]] of several impure [[c/_clay|clay]] minerals [[c/_consisting|consisting]] mostly of montmorillonite.**
+- **A porous [[c/_clay|clay]] formed by the [[d/_decomposition|decomposition]] of volcanic [[a/_ash|ash]] that swells 5 to 6 times its original volume in the presence of water.**
 ---
 ### Synonyms
 - [[E558]], [[anti-caking agent]]

@@ -1,8 +1,8 @@
 # Aubergine
 ---
 #noun
-- **An Asian plant, Solanum melongena, [[cultivated]] for its edible purple, green, or white ovoid fruit**
+- **An [[a/_asian|Asian]] plant, Solanum melongena, [[c/_cultivated|cultivated]] for its edible purple, green, or white ovoid fruit**
 - **The fruit of this plant, eaten as a vegetable**
-- **A [[dark]] purple [[colour]]; eggplant.**
+- **A [[d/_dark|dark]] purple [[c/_colour|colour]]; eggplant.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Charioting
 ---
 #verb
-- **To [[convey]] by, or as if by, [[chariot]].**
-- **To ride in a [[chariot]].**
+- **To [[c/_convey|convey]] by, or as if by, [[c/_chariot|chariot]].**
+- **To ride in a [[c/_chariot|chariot]].**
 ---
 ---

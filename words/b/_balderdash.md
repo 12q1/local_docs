@@ -8,6 +8,6 @@
 ### Synonyms
 - [[bunk]], [[drivel]], [[piffle]], [[poppycock]], [[rubbish]], [[twaddle]]
 #verb
-- **To mix or [[adulterate]].**
+- **To mix or [[a/_adulterate|adulterate]].**
 ---
 ---

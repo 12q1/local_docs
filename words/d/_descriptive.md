@@ -1,13 +1,13 @@
 # Descriptive
 ---
 #noun
-- **(grammar) An [[adjective]] (or other [[descriptive]] word)**
+- **(grammar) An [[a/_adjective|adjective]] (or other [[d/_descriptive|descriptive]] word)**
 ---
 #adjective
-- **Of, relating to, or providing a [[description]].**
-- **(grammar) Of an [[adjective]], stating an [[attribute]] of the [[associated]] noun (as heavy in the heavy dictionary).**
-- **Describing the structure, grammar, vocabulary and [[actual]] use of a language.**
-- **Describing and seeking to [[classify]], as opposed to normative or prescriptive.**
+- **Of, relating to, or providing a [[d/_description|description]].**
+- **(grammar) Of an [[a/_adjective|adjective]], stating an [[a/_attribute|attribute]] of the [[a/_associated|associated]] noun (as heavy in the heavy dictionary).**
+- **[[d/_describing|Describing]] the structure, grammar, vocabulary and [[a/_actual|actual]] use of a language.**
+- **[[d/_describing|Describing]] and seeking to [[c/_classify|classify]], as opposed to normative or prescriptive.**
 ---
 ### Antonyms
 - [[non-descriptive]], [[normative]], [[prescriptive]]

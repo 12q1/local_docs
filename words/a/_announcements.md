@@ -1,11 +1,11 @@
 # Announcements
 ---
 #noun
-- **An [[act]] of [[announcing]], or giving notice.**
+- **An [[a/_act|act]] of [[a/_announcing|announcing]], or giving notice.**
 	- _Example: He raised his hand to make his announcement and said "Excuse me everyone, I have an announcement to make._
-- **That which [[conveys]] what is [[announced]].**
+- **That which [[c/_conveys|conveys]] what is [[a/_announced|announced]].**
 	- _Example: This announcement was made during the first training session._
-- **The [[content]] which is [[announced]].**
+- **The [[c/_content|content]] which is [[a/_announced|announced]].**
 	- _Example: The announcement implied that somebody needed a spare Toshiba charger._
 ---
 ### Synonyms

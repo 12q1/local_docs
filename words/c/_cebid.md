@@ -1,6 +1,6 @@
 # Cebid
 ---
 #noun
-- **Any member of the Cebidae.**
+- **[[a/_any|Any]] member of the [[c/_cebidae|Cebidae]].**
 ---
 ---

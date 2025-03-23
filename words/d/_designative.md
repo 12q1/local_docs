@@ -1,7 +1,7 @@
 # Designative
 ---
 #adjective
-- **Serving to [[designate]].**
+- **Serving to [[d/_designate|designate]].**
 ---
 ### Synonyms
 - [[designatory]]

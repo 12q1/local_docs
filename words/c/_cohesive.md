@@ -1,10 +1,10 @@
 # Cohesive
 ---
 #noun
-- **A substance that provides [[cohesion]]**
-- **A device used to establish [[cohesion]] within a text**
+- **A substance that provides [[c/_cohesion|cohesion]]**
+- **A device used to establish [[c/_cohesion|cohesion]] within a text**
 ---
 #adjective
-- **Having [[cohesion]].**
+- **Having [[c/_cohesion|cohesion]].**
 ---
 ---

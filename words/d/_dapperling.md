@@ -1,6 +1,6 @@
 # Dapperling
 ---
 #noun
-- **A dwarf; a [[dandiprat]]; a [[dapper]] little fellow.**
+- **A dwarf; a [[d/_dandiprat|dandiprat]]; a [[d/_dapper|dapper]] little fellow.**
 ---
 ---

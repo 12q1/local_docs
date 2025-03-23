@@ -1,6 +1,6 @@
 # Arteriovenous
 ---
 #adjective
-- **Relating to the [[arteries]] and the veins**
+- **Relating to the [[a/_arteries|arteries]] and the veins**
 ---
 ---

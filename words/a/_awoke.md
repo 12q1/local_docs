@@ -1,11 +1,11 @@
 # Awoke
 ---
 #verb
-- **To [[become]] [[conscious]] [[after]] having slept.**
-- **To [[cause]] (somebody) to stop sleeping.**
+- **To [[b/_become|become]] [[c/_conscious|conscious]] [[a/_after|after]] having slept.**
+- **To [[c/_cause|cause]] (somebody) to stop sleeping.**
 - **To excite or to stir up something latent.**
 - **To rouse from a state of inaction or dormancy.**
-- **To [[come]] out of a state of inaction or dormancy.**
+- **To [[c/_come|come]] out of a state of inaction or dormancy.**
 ---
 ### Synonyms
 - [[awaken]], [[wake up]], [[bring round]], [[cry]], [[wake up]]

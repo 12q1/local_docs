@@ -1,11 +1,11 @@
 # Carvel
 ---
 #noun
-- **A light, usually lateen-rigged sailing ship used by the Portuguese and Spanish for [[about]] 300 years from the 15th [[century]], first for trade and later for voyages of exploration.**
+- **A light, usually lateen-rigged sailing ship used by the Portuguese and Spanish for [[a/_about|about]] 300 years from the 15th [[c/_century|century]], first for trade and later for voyages of exploration.**
 ---
 ### Synonyms
 - [[carvel]]
 #noun
-- **The sea [[blubber]] (Cyanea capillata); A jellyfish (Medusozoa).**
+- **The sea [[b/_blubber|blubber]] ([[c/_cyanea|Cyanea]] capillata); A jellyfish (Medusozoa).**
 ---
 ---

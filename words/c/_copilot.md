@@ -1,11 +1,11 @@
 # Copilot
 ---
 #noun
-- **A [[backup]] or [[assistant]] pilot of an [[aircraft]].**
+- **A [[b/_backup|backup]] or [[a/_assistant|assistant]] pilot of an [[a/_aircraft|aircraft]].**
 ---
 ### Synonyms
 - [[number two]], [[second pilot]]
 #verb
-- **To serve as relief or [[assistant]] pilot.**
+- **To serve as relief or [[a/_assistant|assistant]] pilot.**
 ---
 ---

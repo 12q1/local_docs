@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Of or relating to a young, flirtatious girl.**
-- **Characteristic of a [[coquet]].**
+- **[[c/_characteristic|Characteristic]] of a [[c/_coquet|coquet]].**
 ---
 ### Synonyms
 - [[flirtatious]]

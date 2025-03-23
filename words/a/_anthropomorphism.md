@@ -1,7 +1,7 @@
 # Anthropomorphism
 ---
 #noun
-- **The [[attribution]] of human [[characteristics]] and [[behavior]] to something not human.**
-- **The [[attribution]] of human [[characteristics]] to divine [[beings]]**
+- **The [[a/_attribution|attribution]] of human [[c/_characteristics|characteristics]] and [[b/_behavior|behavior]] to something not human.**
+- **The [[a/_attribution|attribution]] of human [[c/_characteristics|characteristics]] to divine [[b/_beings|beings]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Centralizes
 ---
 #verb
-- **To move things physically towards the [[centre]]; to [[consolidate]] or [[concentrate]]**
-- **To move power to a single, [[central]] [[authority]]**
+- **To move things physically towards the [[c/_centre|centre]]; to [[c/_consolidate|consolidate]] or [[c/_concentrate|concentrate]]**
+- **To move power to a single, [[c/_central|central]] [[a/_authority|authority]]**
 ---
 ---

@@ -1,8 +1,8 @@
 # Abasement
 ---
 #noun
-- **The [[act]] of [[abasing]], humbling, or [[bringing]] low.**
-- **The state of [[being]] [[abased]] or humbled; humiliation.**
+- **The [[a/_act|act]] of [[a/_abasing|abasing]], humbling, or [[b/_bringing|bringing]] low.**
+- **The state of [[b/_being|being]] [[a/_abased|abased]] or humbled; humiliation.**
 ---
 ### Synonyms
 - [[abjection]], [[debasement]], [[degeneracy]], [[degeneration]], [[degradation]], [[depravation]], [[depression]], [[deterioration]], [[discredit]], [[dishonor]], [[fall]], [[humiliation]], [[lowering]], [[perversion]], [[reduction]], [[shame]], [[subserviency]], [[vitiation]]

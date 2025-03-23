@@ -1,6 +1,6 @@
 # Brilliantly
 ---
 #adverb
-- **In a [[brilliant]] manner; with [[brilliance]].**
+- **In a [[b/_brilliant|brilliant]] manner; with [[b/_brilliance|brilliance]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Brownnose
 ---
 #noun
-- **One who brownnoses; one who sucks up; a [[bootlicker]], [[ass]]-kisser, sycophant.**
+- **One who brownnoses; one who sucks up; a [[b/_bootlicker|bootlicker]], [[a/_ass|ass]]-kisser, sycophant.**
 ---
 ### Synonyms
 - [[brown noser]]

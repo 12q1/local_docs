@@ -1,6 +1,6 @@
 # Balneotherapy
 ---
 #noun
-- **The treatment of disease by [[bathing]].**
+- **The treatment of disease by [[b/_bathing|bathing]].**
 ---
 ---

@@ -1,13 +1,13 @@
 # Cokes
 ---
 #noun
-- **Cola-[[based]] soft drink.**
-- **A [[bottle]], glass or [[can]] of a [[cola]]-[[based]] soft drink.**
-- **Any soft drink, regardless of type.**
+- **[[c/_cola|Cola]]-[[b/_based|based]] soft drink.**
+- **A [[b/_bottle|bottle]], glass or [[c/_can|can]] of a [[c/_cola|cola]]-[[b/_based|based]] soft drink.**
+- **[[a/_any|Any]] soft drink, regardless of type.**
 ---
 #verb
-- **To produce [[coke]] from [[coal]].**
-- **To turn into [[coke]].**
-- **To [[add]] [[deleterious]] [[carbon]] [[deposits]] as a [[byproduct]] of [[combustion]].**
+- **To produce [[c/_coke|coke]] from [[c/_coal|coal]].**
+- **To turn into [[c/_coke|coke]].**
+- **To [[a/_add|add]] [[d/_deleterious|deleterious]] [[c/_carbon|carbon]] [[d/_deposits|deposits]] as a [[b/_byproduct|byproduct]] of [[c/_combustion|combustion]].**
 ---
 ---

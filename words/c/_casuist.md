@@ -1,8 +1,8 @@
 # Casuist
 ---
 #noun
-- **A person who resolves [[cases]] of [[conscience]] or moral duty.**
-- **Someone who [[attempts]] to specify exact and precise rules for the direction of every [[circumstance]] of [[behaviour]].**
-- **One who is skilled in, or given to, [[casuistry]].**
+- **A person who resolves [[c/_cases|cases]] of [[c/_conscience|conscience]] or moral duty.**
+- **Someone who [[a/_attempts|attempts]] to specify exact and precise rules for the direction of every [[c/_circumstance|circumstance]] of [[b/_behaviour|behaviour]].**
+- **One who is skilled in, or given to, [[c/_casuistry|casuistry]].**
 ---
 ---

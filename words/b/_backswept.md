@@ -1,6 +1,6 @@
 # Backswept
 ---
 #adjective
-- **Swept [[back]].**
+- **Swept [[b/_back|back]].**
 ---
 ---

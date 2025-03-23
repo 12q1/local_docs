@@ -1,6 +1,6 @@
 # Amphiboly
 ---
 #noun
-- **(grammar) An [[ambiguous]] grammatical [[construction]].**
+- **(grammar) An [[a/_ambiguous|ambiguous]] grammatical [[c/_construction|construction]].**
 ---
 ---

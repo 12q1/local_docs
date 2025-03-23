@@ -1,11 +1,11 @@
 # Consociate
 ---
 #noun
-- **An [[associate]]; an [[accomplice]].**
+- **An [[a/_associate|associate]]; an [[a/_accomplice|accomplice]].**
 ---
 #verb
-- **To [[associate]], partner**
-- **To [[bring]] into [[alliance]], [[confederacy]], or relationship; to [[bring]] together; to join; to unite.**
-- **To unite in an ecclesiastical [[consociation]].**
+- **To [[a/_associate|associate]], partner**
+- **To [[b/_bring|bring]] into [[a/_alliance|alliance]], [[c/_confederacy|confederacy]], or relationship; to [[b/_bring|bring]] together; to join; to unite.**
+- **To unite in an ecclesiastical [[c/_consociation|consociation]].**
 ---
 ---

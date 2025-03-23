@@ -1,6 +1,6 @@
 # Bathymetry
 ---
 #noun
-- **The measurement of the [[depths]] of the seas.**
+- **The measurement of the [[d/_depths|depths]] of the seas.**
 ---
 ---

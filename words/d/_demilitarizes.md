@@ -1,8 +1,8 @@
 # Demilitarizes
 ---
 #verb
-- **To remove troops from an [[area]].**
-- **To prevent troops from entering an [[area]].**
-- **To return an [[area]] to [[civilian]] [[control]].**
+- **To remove troops from an [[a/_area|area]].**
+- **To prevent troops from entering an [[a/_area|area]].**
+- **To return an [[a/_area|area]] to [[c/_civilian|civilian]] [[c/_control|control]].**
 ---
 ---

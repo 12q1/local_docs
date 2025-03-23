@@ -1,6 +1,6 @@
 # Blackeye
 ---
 #noun
-- **A [[basic]] [[coffee]] drink [[consisting]] of [[any]] size [[coffee]] with two shots of espresso [[added]].**
+- **A [[b/_basic|basic]] [[c/_coffee|coffee]] drink [[c/_consisting|consisting]] of [[a/_any|any]] size [[c/_coffee|coffee]] with two shots of espresso [[a/_added|added]].**
 ---
 ---

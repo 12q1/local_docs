@@ -1,6 +1,6 @@
 # Catabolite
 ---
 #noun
-- **Any substance produced during [[catabolism]]**
+- **[[a/_any|Any]] substance produced during [[c/_catabolism|catabolism]]**
 ---
 ---

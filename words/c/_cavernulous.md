@@ -1,7 +1,7 @@
 # Cavernulous
 ---
 #adjective
-- **Full of small [[cavities]].**
+- **Full of small [[c/_cavities|cavities]].**
 	- _Example: cavernulous metal_
 ---
 ---

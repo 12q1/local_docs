@@ -7,14 +7,14 @@
 	- _Example: His eyes danced with pleasure as he spoke.   She accused her political opponent of dancing around the issue instead of confronting it._
 - **To perform the steps to.**
 	- _Example: Have you ever danced the tango?_
-- **To [[cause]] to [[dance]], or move nimbly or merrily [[about]].**
+- **To [[c/_cause|cause]] to [[d/_dance|dance]], or move nimbly or merrily [[a/_about|about]].**
 - **To make love or have sex.**
 	- _Example: You make me feel like dancing._
 ---
 ### Synonyms
 - [[throw shapes]], [[do the deed]], [[get some]], [[have sex]]
 #noun
-- **The [[activity]] of taking part in a [[dance]].**
-- **A [[dance]] [[club]] in France.**
+- **The [[a/_activity|activity]] of taking part in a [[d/_dance|dance]].**
+- **A [[d/_dance|dance]] [[c/_club|club]] in France.**
 ---
 ---

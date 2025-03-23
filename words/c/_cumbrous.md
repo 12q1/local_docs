@@ -1,7 +1,7 @@
 # Cumbrous
 ---
 #adjective
-- **Unwieldy [[because]] of its weight; [[cumbersome]].**
+- **Unwieldy [[b/_because|because]] of its weight; [[c/_cumbersome|cumbersome]].**
 - **Giving trouble; vexatious.**
 ---
 ---

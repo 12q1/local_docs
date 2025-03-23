@@ -1,7 +1,7 @@
 # Cadential
 ---
 #adjective
-- **Of or pertaining to [[cadence]] or a [[cadenza]].**
+- **Of or pertaining to [[c/_cadence|cadence]] or a [[c/_cadenza|cadenza]].**
 	- _Example: The song was cadential._
 ---
 ---

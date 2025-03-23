@@ -1,6 +1,6 @@
 # Barasingha
 ---
 #noun
-- **Rucervus duvaucelii, the swamp [[deer]].**
+- **Rucervus duvaucelii, the swamp [[d/_deer|deer]].**
 ---
 ---

@@ -1,15 +1,15 @@
 # Coordinated
 ---
 #verb
-- **To synchronize ([[activities]]).**
+- **To synchronize ([[a/_activities|activities]]).**
 	- _Example: I was playing tennis for the first time, and it was difficult to coordinate._
-- **To match (objects, especially [[clothes]]).**
+- **To match (objects, especially [[c/_clothes|clothes]]).**
 	- _Example: The outfit you're wearing doesn't coordinate._
 ---
 #adjective
-- **Organized, working together, [[cooperating]]**
+- **Organized, working together, [[c/_cooperating|cooperating]]**
 - **Physically graceful or skillful**
-- **Having [[coordinate]] [[bonds]]**
+- **Having [[c/_coordinate|coordinate]] [[b/_bonds|bonds]]**
 ---
 ### Antonyms
 - [[uncoordinated]]

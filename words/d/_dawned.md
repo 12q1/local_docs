@@ -1,10 +1,10 @@
 # Dawned
 ---
 #verb
-- **To [[begin]] to [[brighten]] with [[daylight]].**
+- **To [[b/_begin|begin]] to [[b/_brighten|brighten]] with [[d/_daylight|daylight]].**
 	- _Example: A new day dawns._
-- **To start to [[appear]] or be realized.**
+- **To start to [[a/_appear|appear]] or be realized.**
 	- _Example: I don’t want to be there when the truth dawns on him._
-- **To [[begin]] to give promise; to [[begin]] to [[appear]] or to expand.**
+- **To [[b/_begin|begin]] to give promise; to [[b/_begin|begin]] to [[a/_appear|appear]] or to expand.**
 ---
 ---

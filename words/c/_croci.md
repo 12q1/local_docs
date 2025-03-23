@@ -1,9 +1,9 @@
 # Croci
 ---
 #noun
-- **A perennial flowering plant (of the genus Crocus in the Iridaceae family). Saffron is obtained from the stamens of Crocus sativus.**
-- **Any of various similar flowering plants, such as the [[autumn]] [[crocus]] and prairie [[crocus]].**
-- **A [[deep]] yellow powder, the oxide of some metal (especially iron), [[calcined]] to a red or [[deep]] yellow [[colour]].**
+- **A perennial flowering plant (of the genus [[c/_crocus|Crocus]] in the Iridaceae family). Saffron is obtained from the stamens of [[c/_crocus|Crocus]] sativus.**
+- **[[a/_any|Any]] of various similar flowering plants, such as the [[a/_autumn|autumn]] [[c/_crocus|crocus]] and prairie [[c/_crocus|crocus]].**
+- **A [[d/_deep|deep]] yellow powder, the oxide of some metal (especially iron), [[c/_calcined|calcined]] to a red or [[d/_deep|deep]] yellow [[c/_colour|colour]].**
 - **A fraudulent doctor; a quack.**
 ---
 ---

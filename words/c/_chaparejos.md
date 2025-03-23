@@ -1,6 +1,6 @@
 # Chaparejos
 ---
 #noun
-- **Chaps (trousers)**
+- **[[c/_chaps|Chaps]] (trousers)**
 ---
 ---

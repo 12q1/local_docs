@@ -2,10 +2,10 @@
 ---
 #noun
 - **A person presiding over a meeting.**
-- **The head of a [[corporate]] or governmental [[board]] of directors, a [[committee]], or other formal entity.**
-- **Someone whose job is to [[carry]] people in a portable [[chair]], sedan [[chair]], or similar [[conveyance]].**
+- **The head of a [[c/_corporate|corporate]] or governmental [[b/_board|board]] of directors, a [[c/_committee|committee]], or other formal entity.**
+- **Someone whose job is to [[c/_carry|carry]] people in a portable [[c/_chair|chair]], sedan [[c/_chair|chair]], or similar [[c/_conveyance|conveyance]].**
 ---
 #verb
-- **To serve as [[chairman]].**
+- **To serve as [[c/_chairman|chairman]].**
 ---
 ---

@@ -4,6 +4,6 @@
 - **To trick or mislead.**
 ---
 #noun
-- **Deception**
+- **[[d/_deception|Deception]]**
 ---
 ---

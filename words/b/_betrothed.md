@@ -6,7 +6,7 @@
 - **To promise to take (as a future spouse); to plight one's troth to.**
 ---
 #noun
-- **One who is [[betrothed]], i.e. a fiancé or fiancée.**
+- **One who is [[b/_betrothed|betrothed]], i.e. a fiancé or fiancée.**
 ---
 #adjective
 - **Engaged to be married.**

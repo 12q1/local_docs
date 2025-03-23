@@ -1,12 +1,12 @@
 # Cronies
 ---
 #noun
-- **(originally Cambridge University) Close friend.**
-- **Trusted [[companion]] or partner in a [[criminal]] organization.**
+- **(originally [[c/_cambridge|Cambridge]] University) [[c/_close|Close]] friend.**
+- **Trusted [[c/_companion|companion]] or partner in a [[c/_criminal|criminal]] organization.**
 ---
 ### Antonyms
 - [[noncrony]]
 #noun
-- **An old woman; a [[crone]].**
+- **An old woman; a [[c/_crone|crone]].**
 ---
 ---

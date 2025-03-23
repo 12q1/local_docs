@@ -1,6 +1,6 @@
 # Buckskins
 ---
 #noun
-- **Trousers and other [[clothing]] made from [[buckskin]]**
+- **Trousers and other [[c/_clothing|clothing]] made from [[b/_buckskin|buckskin]]**
 ---
 ---

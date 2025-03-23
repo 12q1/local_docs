@@ -15,7 +15,7 @@
 - **Recognized by the ear; known by the sense of hearing.**
 	- _Example: auricular evidence_
 - **Received by the ear; known by report.**
-- **Pertaining to the [[auricles]] of the heart.**
+- **Pertaining to the [[a/_auricles|auricles]] of the heart.**
 ---
 ### Synonyms
 - [[auditory]], [[aural]], [[otic]]

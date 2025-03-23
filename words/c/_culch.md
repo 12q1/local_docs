@@ -1,10 +1,10 @@
 # Culch
 ---
 #noun
-- **The rocks, [[crushed]] shells, and other sea detritus that [[create]] an oyster [[bed]], where oyster spawn [[can]] [[attach]] themselves.**
+- **The rocks, [[c/_crushed|crushed]] shells, and other sea detritus that [[c/_create|create]] an oyster [[b/_bed|bed]], where oyster spawn [[c/_can|can]] [[a/_attach|attach]] themselves.**
 ---
 #verb
-- **To prepare an oyster [[bed]] with such ([[culch]]) [[attachments]].**
-- **To [[accumulate]] small household items of little value.**
+- **To prepare an oyster [[b/_bed|bed]] with such ([[c/_culch|culch]]) [[a/_attachments|attachments]].**
+- **To [[a/_accumulate|accumulate]] small household items of little value.**
 ---
 ---

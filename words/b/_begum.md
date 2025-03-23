@@ -1,6 +1,6 @@
 # Begum
 ---
 #verb
-- **To [[daub]] or [[cover]] with gum.**
+- **To [[d/_daub|daub]] or [[c/_cover|cover]] with gum.**
 ---
 ---

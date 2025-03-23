@@ -2,6 +2,6 @@
 ---
 #noun
 - **The skull.**
-- **The [[brain]] or mind.**
+- **The [[b/_brain|brain]] or mind.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Calypsonian
 ---
 #noun
-- **A [[calypso]] musician.**
+- **A [[c/_calypso|calypso]] musician.**
 ---
 ---

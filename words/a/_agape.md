@@ -1,13 +1,13 @@
 # Agape
 ---
 #adjective
-- **In a state of [[astonishment]], wonder, expectation, or eager [[attention]]; as with mouth hanging open.**
+- **In a state of [[a/_astonishment|astonishment]], wonder, expectation, or eager [[a/_attention|attention]]; as with mouth hanging open.**
 - **Wide open.**
 ---
 ### Synonyms
 - [[dumbstruck]], [[open-mouthed]], [[wide-eyed]], [[agog]]
 #adverb
-- **In a state of [[astonishment]], wonder, expectation, or eager [[attention]].**
+- **In a state of [[a/_astonishment|astonishment]], wonder, expectation, or eager [[a/_attention|attention]].**
 - **Open wide.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Bandicoots
 ---
 #noun
-- **A small Australian marsupial with a distinctive long snout, of the family Peramelidae.**
-- **Any of several rat-like rodents of the genera Bandicota and Nesokia of southeast Asia.**
+- **A small [[a/_australian|Australian]] marsupial with a distinctive long snout, of the family Peramelidae.**
+- **[[a/_any|Any]] of several rat-like rodents of the genera Bandicota and Nesokia of southeast [[a/_asia|Asia]].**
 ---
 ---

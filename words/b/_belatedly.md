@@ -1,7 +1,7 @@
 # Belatedly
 ---
 #adverb
-- **In a [[belated]] manner; tardily**
+- **In a [[b/_belated|belated]] manner; tardily**
 ---
 ### Synonyms
 - [[late]]

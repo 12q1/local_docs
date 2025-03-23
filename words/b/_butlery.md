@@ -1,6 +1,6 @@
 # Butlery
 ---
 #noun
-- **Butler's pantry; serving pantry**
+- **[[b/_butler|Butler]]'s pantry; serving pantry**
 ---
 ---

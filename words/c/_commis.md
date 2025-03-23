@@ -1,7 +1,7 @@
 # Commis
 ---
 #noun
-- **A [[deputy]] or [[clerk]] of a foreign official**
-- **([[chiefly]] in [[combination]]) An [[assistant]] to a [[chef]]**
+- **A [[d/_deputy|deputy]] or [[c/_clerk|clerk]] of a foreign official**
+- **([[c/_chiefly|chiefly]] in [[c/_combination|combination]]) An [[a/_assistant|assistant]] to a [[c/_chef|chef]]**
 ---
 ---

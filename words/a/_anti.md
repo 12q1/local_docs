@@ -1,15 +1,15 @@
 # Anti
 ---
 #noun
-- **A person opposed to a [[concept]] or principle.**
+- **A person opposed to a [[c/_concept|concept]] or principle.**
 ---
 ### Antonyms
 - [[pro]]
 #adjective
 - **Opposed to something.**
-- **That has a torsion [[angle]] [[between]] 90° and 180°**
+- **That has a torsion [[a/_angle|angle]] [[b/_between|between]] 90° and 180°**
 ---
 #preposition
-- **Alternative form of [[anti]]-**
+- **[[a/_alternative|Alternative]] form of [[a/_anti|anti]]-**
 ---
 ---

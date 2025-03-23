@@ -1,10 +1,10 @@
 # Automatism
 ---
 #noun
-- **Acting [[automatically]] or involuntarily.**
-- **The power of initiating vital processes from within the [[cell]], organ, or organism, independent of external stimulus.**
-- **The doctrine that [[animals]] are [[automata]], operating [[according]] to mechanical laws.**
-- **An [[action]] performed subconsciously, without [[any]] [[apparent]] direction from the mind; a thought which [[appears]] spontaneously in one's [[consciousness]].**
-- **A surrealist painting technique whereby one [[attempts]] to move the [[brush]], pen etc. without [[conscious]] [[control]] over it.**
+- **[[a/_acting|Acting]] [[a/_automatically|automatically]] or involuntarily.**
+- **The power of initiating vital processes from within the [[c/_cell|cell]], organ, or organism, independent of external stimulus.**
+- **The doctrine that [[a/_animals|animals]] are [[a/_automata|automata]], operating [[a/_according|according]] to mechanical laws.**
+- **An [[a/_action|action]] performed subconsciously, without [[a/_any|any]] [[a/_apparent|apparent]] direction from the mind; a thought which [[a/_appears|appears]] spontaneously in one's [[c/_consciousness|consciousness]].**
+- **A surrealist painting technique whereby one [[a/_attempts|attempts]] to move the [[b/_brush|brush]], pen etc. without [[c/_conscious|conscious]] [[c/_control|control]] over it.**
 ---
 ---

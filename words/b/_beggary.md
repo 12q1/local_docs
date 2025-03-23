@@ -1,11 +1,11 @@
 # Beggary
 ---
 #noun
-- **The state of a [[beggar]]; indigence, extreme poverty.**
-- **The fact or [[action]] of [[begging]].**
-- **Beggarly [[appearance]].**
+- **The state of a [[b/_beggar|beggar]]; indigence, extreme poverty.**
+- **The fact or [[a/_action|action]] of [[b/_begging|begging]].**
+- **[[b/_beggarly|Beggarly]] [[a/_appearance|appearance]].**
 ---
 #adjective
-- **Beggarly**
+- **[[b/_beggarly|Beggarly]]**
 ---
 ---

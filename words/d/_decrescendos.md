@@ -4,6 +4,6 @@
 - **An instruction to play gradually more softly.**
 ---
 #verb
-- **To gradually [[become]] quieter**
+- **To gradually [[b/_become|become]] quieter**
 ---
 ---

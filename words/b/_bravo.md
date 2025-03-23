@@ -1,15 +1,15 @@
 # Bravo
 ---
 #noun
-- **A hired soldier; an [[assassin]]; a [[desperado]].**
-- **A shout of "[[bravo]]!"**
-- **The letter B in the ICAO spelling [[alphabet]].**
+- **A hired soldier; an [[a/_assassin|assassin]]; a [[d/_desperado|desperado]].**
+- **A shout of "[[b/_bravo|bravo]]!"**
+- **The letter [[b/_b|B]] in the ICAO spelling [[a/_alphabet|alphabet]].**
 ---
 #verb
-- **To [[cheer]] or [[applaud]], especially by saying [[bravo]]!**
+- **To [[c/_cheer|cheer]] or [[a/_applaud|applaud]], especially by saying [[b/_bravo|bravo]]!**
 ---
 #interjection
-- **Used to express [[acclaim]], especially to a performer.**
+- **Used to express [[a/_acclaim|acclaim]], especially to a performer.**
 	- _Example: Bravo, you have done a brilliant job!_
 ---
 ---

@@ -1,7 +1,7 @@
 # Cancellous
 ---
 #adjective
-- **(of [[bone]]) Having low [[density]] and strength but high surface [[area]], of the kind that fills the inner [[cavity]] of long [[bones]].**
+- **(of [[b/_bone|bone]]) Having low [[d/_density|density]] and strength but high surface [[a/_area|area]], of the kind that fills the inner [[c/_cavity|cavity]] of long [[b/_bones|bones]].**
 ---
 ### Synonyms
 - [[trabecular]]

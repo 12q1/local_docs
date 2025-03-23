@@ -1,6 +1,6 @@
 # Acushla
 ---
 #noun
-- **Darling**
+- **[[d/_darling|Darling]]**
 ---
 ---

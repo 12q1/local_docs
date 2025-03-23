@@ -1,6 +1,6 @@
 # Clupeoids
 ---
 #noun
-- **Any of a group of fish [[closely]] related taxonomically to herring.**
+- **[[a/_any|Any]] of a group of fish [[c/_closely|closely]] related taxonomically to herring.**
 ---
 ---

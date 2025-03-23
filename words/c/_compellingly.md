@@ -1,6 +1,6 @@
 # Compellingly
 ---
 #adverb
-- **In a [[compelling]] manner.**
+- **In a [[c/_compelling|compelling]] manner.**
 ---
 ---

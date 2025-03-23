@@ -6,7 +6,7 @@
 ### Synonyms
 - [[astound]], [[flabbergast]], [[surprise]]
 #adjective
-- **Amazed; surprised.**
+- **[[a/_amazed|Amazed]]; surprised.**
 ---
 ### Synonyms
 - [[agape]], [[amazed]], [[bewildered]], [[shocked]], [[speechless]]

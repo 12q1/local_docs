@@ -2,12 +2,12 @@
 ---
 #noun
 - **A warm waterproof overshoe.**
-- **Any of various [[butterflies]] of the genus Oeneis.**
+- **[[a/_any|Any]] of various [[b/_butterflies|butterflies]] of the genus Oeneis.**
 ---
 #adjective
-- **(now only in [[compounds]]) Pertaining to the [[celestial]] north pole, or to the pole star.**
-- **Pertaining to the northern polar region of the planet, [[characterised]] by extreme [[cold]] and an icy landscape.**
-- **Extremely [[cold]], snowy, or having other properties of extreme winter [[associated]] with the Arctic.**
-- **Designed for use in very [[cold]] [[conditions]].**
+- **(now only in [[c/_compounds|compounds]]) Pertaining to the [[c/_celestial|celestial]] north pole, or to the pole star.**
+- **Pertaining to the northern polar region of the planet, [[c/_characterised|characterised]] by extreme [[c/_cold|cold]] and an icy landscape.**
+- **Extremely [[c/_cold|cold]], snowy, or having other properties of extreme winter [[a/_associated|associated]] with the [[a/_arctic|Arctic]].**
+- **[[d/_designed|Designed]] for use in very [[c/_cold|cold]] [[c/_conditions|conditions]].**
 ---
 ---

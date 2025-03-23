@@ -2,7 +2,7 @@
 ---
 #noun
 - **A state of turbulent motion.**
-- **An [[agitated]] disturbance or a hubbub.**
+- **An [[a/_agitated|agitated]] disturbance or a hubbub.**
 - **Sexual excitement.**
 ---
 ---

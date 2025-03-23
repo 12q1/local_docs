@@ -1,6 +1,6 @@
 # Bankcard
 ---
 #noun
-- **A [[card]] that a [[bank]] issues used by the [[cardholder]] in the [[course]] of [[authorization]] to receive [[bank]] services.**
+- **A [[c/_card|card]] that a [[b/_bank|bank]] issues used by the [[c/_cardholder|cardholder]] in the [[c/_course|course]] of [[a/_authorization|authorization]] to receive [[b/_bank|bank]] services.**
 ---
 ---

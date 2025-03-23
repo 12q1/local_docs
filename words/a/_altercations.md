@@ -1,7 +1,7 @@
 # Altercations
 ---
 #noun
-- **Heated or [[angry]] dispute**
+- **Heated or [[a/_angry|angry]] dispute**
 ---
 ### Synonyms
 - [[dispute]], [[wrangle]]

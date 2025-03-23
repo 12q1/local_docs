@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Having little or no water.**
-- **Having no water of [[crystallization]].**
+- **Having no water of [[c/_crystallization|crystallization]].**
 ---
 ---

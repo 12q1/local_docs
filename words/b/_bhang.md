@@ -1,6 +1,6 @@
 # Bhang
 ---
 #noun
-- **Cannabis, especially as used in the Indian subcontinent.**
+- **[[c/_cannabis|Cannabis]], especially as used in the Indian subcontinent.**
 ---
 ---

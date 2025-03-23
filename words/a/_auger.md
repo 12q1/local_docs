@@ -1,13 +1,13 @@
 # Auger
 ---
 #noun
-- **A [[carpenter]]'s tool for [[boring]] holes longer than those [[bored]] by a gimlet.**
+- **A [[c/_carpenter|carpenter]]'s tool for [[b/_boring|boring]] holes longer than those [[b/_bored|bored]] by a gimlet.**
 - **A snake or plumber's snake (plumbing tool).**
-- **A tool used to [[bore]] holes in the ground, e.g. for fence posts**
-- **A hollow drill used to take [[core]] samples of soil, ice, etc. for scientific study.**
+- **A tool used to [[b/_bore|bore]] holes in the ground, e.g. for fence posts**
+- **A hollow drill used to take [[c/_core|core]] samples of soil, ice, etc. for scientific study.**
 ---
 #verb
-- **To use an [[auger]]; to drill a hole using an [[auger]].**
-- **To proceed in the manner of an [[auger]].**
+- **To use an [[a/_auger|auger]]; to drill a hole using an [[a/_auger|auger]].**
+- **To proceed in the manner of an [[a/_auger|auger]].**
 ---
 ---

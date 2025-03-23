@@ -1,10 +1,10 @@
 # Certainly
 ---
 #adverb
-- **In a way which is [[certain]]; with [[certainty]].**
+- **In a way which is [[c/_certain|certain]]; with [[c/_certainty|certainty]].**
 - **Without doubt, surely.**
 	- _Example: That was certainly sweet of him._
-- **An emphatic [[affirmative]] [[answer]]; of [[course]].**
+- **An emphatic [[a/_affirmative|affirmative]] [[a/_answer|answer]]; of [[c/_course|course]].**
 	- _Example: Would you like it with ice?  Certainly, and with lemon please._
 ---
 ### Synonyms

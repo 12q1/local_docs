@@ -1,7 +1,7 @@
 # Calculable
 ---
 #adjective
-- **Able to be [[calculated]].**
+- **[[a/_able|Able]] to be [[c/_calculated|calculated]].**
 ---
 ### Antonyms
 - [[incalculable]]

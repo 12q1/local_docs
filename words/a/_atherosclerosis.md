@@ -1,6 +1,6 @@
 # Atherosclerosis
 ---
 #noun
-- **The [[clogging]] or hardening of [[arteries]] or [[blood]] vessels [[caused]] by plaques ([[accumulations]] of fatty [[deposits]], usually [[cholesterol]]).**
+- **The [[c/_clogging|clogging]] or hardening of [[a/_arteries|arteries]] or [[b/_blood|blood]] vessels [[c/_caused|caused]] by plaques ([[a/_accumulations|accumulations]] of fatty [[d/_deposits|deposits]], usually [[c/_cholesterol|cholesterol]]).**
 ---
 ---

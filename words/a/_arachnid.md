@@ -1,6 +1,6 @@
 # Arachnid
 ---
 #noun
-- **Any of the eight-legged [[creatures]], including spiders and scorpions, of the [[class]] Arachnida.**
+- **[[a/_any|Any]] of the eight-legged [[c/_creatures|creatures]], including spiders and scorpions, of the [[c/_class|class]] [[a/_arachnida|Arachnida]].**
 ---
 ---

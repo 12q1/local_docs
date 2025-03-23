@@ -1,6 +1,6 @@
 # Antitoxins
 ---
 #noun
-- **An [[antibody]] that is [[capable]] of neutralising specific toxins that are [[causative]] [[agents]] of disease.**
+- **An [[a/_antibody|antibody]] that is [[c/_capable|capable]] of neutralising specific toxins that are [[c/_causative|causative]] [[a/_agents|agents]] of disease.**
 ---
 ---

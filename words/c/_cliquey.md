@@ -1,6 +1,6 @@
 # Cliquey
 ---
 #adjective
-- **Having the [[characteristics]] of a [[clique]]**
+- **Having the [[c/_characteristics|characteristics]] of a [[c/_clique|clique]]**
 ---
 ---

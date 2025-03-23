@@ -2,8 +2,8 @@
 ---
 #adjective
 - **Uncertain, risky, hazardous**
-- **Subject to [[chance]]; random**
-- **Lucky; [[bringing]] good luck**
+- **Subject to [[c/_chance|chance]]; random**
+- **Lucky; [[b/_bringing|bringing]] good luck**
 ---
 ### Synonyms
 - [[dicey]], [[iffy]]

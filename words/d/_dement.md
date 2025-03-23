@@ -1,12 +1,12 @@
 # Dement
 ---
 #noun
-- **An insane person, or one [[afflicted]] with [[dementia]]**
+- **An insane person, or one [[a/_afflicted|afflicted]] with [[d/_dementia|dementia]]**
 ---
 #verb
-- **To drive mad; to [[craze]]**
+- **To drive mad; to [[c/_craze|craze]]**
 ---
 #adjective
-- **Insane, [[demented]]**
+- **Insane, [[d/_demented|demented]]**
 ---
 ---

@@ -1,26 +1,26 @@
 # Accord
 ---
 #noun
-- **Agreement or [[concurrence]] of opinion, will, or [[action]].**
-- **A harmony in sound, pitch and tone; [[concord]].**
-- **Agreement or harmony of things in general.**
+- **[[a/_agreement|Agreement]] or [[c/_concurrence|concurrence]] of opinion, will, or [[a/_action|action]].**
+- **A harmony in sound, pitch and tone; [[c/_concord|concord]].**
+- **[[a/_agreement|Agreement]] or harmony of things in general.**
 	- _Example: the accord of light and shade in painting_
-- **An [[agreement]] [[between]] parties in [[controversy]], by which satisfaction for an injury is stipulated, and which, when executed, prevents a lawsuit.**
-- **An international [[agreement]].**
+- **An [[a/_agreement|agreement]] [[b/_between|between]] parties in [[c/_controversy|controversy]], by which satisfaction for an injury is stipulated, and which, when executed, prevents a lawsuit.**
+- **An international [[a/_agreement|agreement]].**
 	- _Example: The Geneva Accord of 1954 ended the French-Indochinese War._
-- **Assent**
-- **Voluntary or spontaneous impulse to [[act]].**
+- **[[a/_assent|Assent]]**
+- **Voluntary or spontaneous impulse to [[a/_act|act]].**
 	- _Example: Nobody told me to do it. I did it of my own accord._
 ---
 ### Synonyms
 - [[assent]], [[consent]], [[treaty]]
 #verb
-- **To make to [[agree]] or [[correspond]]; to suit one thing to [[another]]; to [[adjust]].**
-- **To [[bring]] (people) to an [[agreement]]; to reconcile, settle, [[adjust]] or harmonize.**
-- **To [[agree]] or [[correspond]]; to be in harmony; to be [[concordant]].**
-- **To [[agree]] in pitch and tone.**
-- **To grant as suitable or proper; to [[concede]] or [[award]].**
-- **To give [[consent]].**
-- **To [[arrive]] at an [[agreement]].**
+- **To make to [[a/_agree|agree]] or [[c/_correspond|correspond]]; to suit one thing to [[a/_another|another]]; to [[a/_adjust|adjust]].**
+- **To [[b/_bring|bring]] (people) to an [[a/_agreement|agreement]]; to reconcile, settle, [[a/_adjust|adjust]] or harmonize.**
+- **To [[a/_agree|agree]] or [[c/_correspond|correspond]]; to be in harmony; to be [[c/_concordant|concordant]].**
+- **To [[a/_agree|agree]] in pitch and tone.**
+- **To grant as suitable or proper; to [[c/_concede|concede]] or [[a/_award|award]].**
+- **To give [[c/_consent|consent]].**
+- **To [[a/_arrive|arrive]] at an [[a/_agreement|agreement]].**
 ---
 ---

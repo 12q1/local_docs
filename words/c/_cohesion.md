@@ -1,12 +1,12 @@
 # Cohesion
 ---
 #noun
-- **State of [[cohering]], or of working together.**
+- **State of [[c/_cohering|cohering]], or of working together.**
 	- _Example: Unit cohesion is important in the military._
 - **Various intermolecular forces that hold solids and liquids together.**
 - **Growing together of normally distinct parts of a plant.**
-- **Degree to which functionally related elements in a [[computing]] system [[belong]] together.**
-- **Grammatical or lexical relationship [[between]] different parts of the same text.**
+- **[[d/_degree|Degree]] to which functionally related elements in a [[c/_computing|computing]] system [[b/_belong|belong]] together.**
+- **Grammatical or lexical relationship [[b/_between|between]] different parts of the same text.**
 ---
 ### Antonyms
 - [[adhesion]], [[coupling]]
