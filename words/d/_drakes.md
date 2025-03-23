@@ -1,15 +1,15 @@
 # Drakes
 ---
 #noun
-- **A male duck.**
+- **A male [[d/_duck|duck]].**
 ---
 #noun
-- **A mayfly used as fishing bait.**
-- **A dragon.**
-- **A small piece of artillery.**
+- **A mayfly used as fishing [[b/_bait|bait]].**
+- **A [[d/_dragon|dragon]].**
+- **A small piece of [[a/_artillery|artillery]].**
 - **A fiery meteor.**
-- **A beaked galley, or Viking warship.**
+- **A [[b/_beaked|beaked]] galley, or Viking warship.**
 ---
 ### Synonyms
-- [[[[d/_drake|drake]] fly]]
+- [[drake fly]]
 ---

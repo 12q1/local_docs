@@ -1,6 +1,6 @@
 # Divaricating
 ---
 #verb
-- **To spread apart; to (cause to) diverge or branch off.**
+- **To spread [[a/_apart|apart]]; to ([[c/_cause|cause]] to) [[d/_diverge|diverge]] or [[b/_branch|branch]] off.**
 ---
 ---

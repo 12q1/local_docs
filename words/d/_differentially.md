@@ -1,7 +1,7 @@
 # Differentially
 ---
 #adverb
-- **In a differential manner**
-- **With regard to differentiation**
+- **In a [[d/_differential|differential]] manner**
+- **With regard to [[d/_differentiation|differentiation]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Cloudland
 ---
 #noun
-- **Fantasy land, dreamland**
+- **Fantasy land, [[d/_dreamland|dreamland]]**
 ---
 ---

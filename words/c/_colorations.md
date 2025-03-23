@@ -1,9 +1,9 @@
 # Colorations
 ---
 #noun
-- **The act or art of coloring.**
-- **The quality of being colored.**
-- **A notational devise for indicating hemiola through either use of red ink (in mensural black notation) or black noteheads (in mensural white notation); or**
-- **Ornamental division (also called passaggi, glosas, diminutions. etc.) employing rapid "black notes".**
+- **The [[a/_act|act]] or [[a/_art|art]] of [[c/_coloring|coloring]].**
+- **The quality of [[b/_being|being]] [[c/_colored|colored]].**
+- **A notational [[d/_devise|devise]] for indicating hemiola through [[e/_either|either]] use of red ink (in mensural [[b/_black|black]] notation) or [[b/_black|black]] noteheads (in mensural white notation); or**
+- **Ornamental [[d/_division|division]] ([[a/_also|also]] [[c/_called|called]] passaggi, glosas, [[d/_diminutions|diminutions]]. etc.) [[e/_employing|employing]] rapid "[[b/_black|black]] notes".**
 ---
 ---

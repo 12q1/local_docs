@@ -1,8 +1,8 @@
 # Delineations
 ---
 #noun
-- **The act of delineating; depiction.**
+- **The [[a/_act|act]] of [[d/_delineating|delineating]]; [[d/_depiction|depiction]].**
 - **An image of the outline of an object.**
-- **A graphic verbal description.**
+- **A graphic verbal [[d/_description|description]].**
 ---
 ---

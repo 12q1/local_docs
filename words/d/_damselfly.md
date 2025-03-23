@@ -1,8 +1,8 @@
 # Damselfly
 ---
 #noun
-- **Any of various insects of the suborder Zygoptera that have long slender bodies, and are similar to dragonflies but having wings folded when at rest.**
+- **[[a/_any|Any]] of various insects of the suborder Zygoptera that have long slender [[b/_bodies|bodies]], and are similar to [[d/_dragonflies|dragonflies]] but having wings folded when at rest.**
 ---
 ### Synonyms
-- [[[[d/_darning|darning]] needle]], [[[[d/_devil|devil]]’s [[d/_darning|darning]] needle]]
+- [[darning needle]], [[devil’s darning needle]]
 ---

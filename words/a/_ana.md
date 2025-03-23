@@ -1,6 +1,6 @@
 # Ana
 ---
 #noun
-- **A collection of things associated with a person or place, especially a personal collection of anecdotes or conversations at table**
+- **A [[c/_collection|collection]] of things [[a/_associated|associated]] with a person or place, especially a personal [[c/_collection|collection]] of [[a/_anecdotes|anecdotes]] or [[c/_conversations|conversations]] at table**
 ---
 ---

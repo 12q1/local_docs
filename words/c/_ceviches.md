@@ -1,6 +1,6 @@
 # Ceviches
 ---
 #noun
-- **Raw seafood cured by marination in an acidic medium such as citrus, vinegar, or other souring agent, found primarily in Latin America.**
+- **Raw seafood [[c/_cured|cured]] by marination in an [[a/_acidic|acidic]] medium such as [[c/_citrus|citrus]], vinegar, or other souring [[a/_agent|agent]], found primarily in Latin [[a/_america|America]].**
 ---
 ---

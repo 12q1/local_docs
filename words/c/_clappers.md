@@ -1,24 +1,24 @@
 # Clappers
 ---
 #noun
-- **One who claps; a person who applauds by clapping the hands.**
-- **An object so suspended inside a bell that it may hit the bell and cause it to ring; a clanger or tongue.**
-- **A wooden mechanical device used as a scarecrow; bird-scaring rattle, a wind-rattle or a wind-clapper.**
-- **A clapstick (musical instrument).**
-- **A pounding block.**
-- **The chattering damsel of a mill.**
+- **One who [[c/_claps|claps]]; a person who [[a/_applauds|applauds]] by [[c/_clapping|clapping]] the hands.**
+- **An object so suspended inside a [[b/_bell|bell]] that it may hit the [[b/_bell|bell]] and [[c/_cause|cause]] it to ring; a [[c/_clanger|clanger]] or tongue.**
+- **A wooden mechanical [[d/_device|device]] used as a scarecrow; [[b/_bird|bird]]-scaring rattle, a wind-rattle or a wind-[[c/_clapper|clapper]].**
+- **A [[c/_clapstick|clapstick]] (musical instrument).**
+- **A pounding [[b/_block|block]].**
+- **The [[c/_chattering|chattering]] [[d/_damsel|damsel]] of a mill.**
 - **A slapshot**
-- **The hinged part of a clapperboard, used to synchronise images and soundtrack, or the clapperboard itself.**
-- **A person's tongue, as a source of chatter or nagging.**
+- **The hinged part of a [[c/_clapperboard|clapperboard]], used to synchronise images and soundtrack, or the [[c/_clapperboard|clapperboard]] itself.**
+- **A person's tongue, as a source of [[c/_chatter|chatter]] or nagging.**
 ---
 ### Synonyms
-- [[[[c/_clapstick|clapstick]]]], [[musicstick]]
+- [[clapstick]], [[musicstick]]
 #verb
-- **To ring a bell by pulling a rope attached to the clapper.**
-- **To make a repetitive clapping sound; to clatter.**
-- **Of birds, to repeatedly strike the mandibles together.**
+- **To ring a [[b/_bell|bell]] by pulling a rope [[a/_attached|attached]] to the [[c/_clapper|clapper]].**
+- **To make a repetitive [[c/_clapping|clapping]] sound; to [[c/_clatter|clatter]].**
+- **Of [[b/_birds|birds]], to repeatedly strike the mandibles together.**
 ---
 #noun
-- **A rabbit burrow.**
+- **A rabbit [[b/_burrow|burrow]].**
 ---
 ---

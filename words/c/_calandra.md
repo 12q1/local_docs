@@ -1,6 +1,6 @@
 # Calandra
 ---
 #noun
-- **A calandra lark**
+- **A [[c/_calandra|calandra]] lark**
 ---
 ---

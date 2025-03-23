@@ -1,8 +1,8 @@
 # Disputable
 ---
 #adjective
-- **Of opinions, propositions or questions, subject to dispute; not settled.**
+- **Of opinions, propositions or questions, subject to [[d/_dispute|dispute]]; not settled.**
 ---
 ### Synonyms
-- [[[[c/_controvertible|controvertible]]]]
+- [[controvertible]]
 ---

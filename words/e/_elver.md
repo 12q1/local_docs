@@ -1,6 +1,6 @@
 # Elver
 ---
 #noun
-- **A young eel.**
+- **A young [[e/_eel|eel]].**
 ---
 ---

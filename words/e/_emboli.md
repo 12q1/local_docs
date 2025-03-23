@@ -1,7 +1,7 @@
 # Emboli
 ---
 #noun
-- **An obstruction causing an embolism: a blood clot, air bubble or other matter carried by the bloodstream and causing a blockage or occlusion of a blood vessel.**
-- **The structure on the end of the palp of male arachnids which contains the opening to the ejaculatory duct.**
+- **An obstruction [[c/_causing|causing]] an [[e/_embolism|embolism]]: a [[b/_blood|blood]] [[c/_clot|clot]], [[a/_air|air]] [[b/_bubble|bubble]] or other matter [[c/_carried|carried]] by the [[b/_bloodstream|bloodstream]] and [[c/_causing|causing]] a [[b/_blockage|blockage]] or occlusion of a [[b/_blood|blood]] vessel.**
+- **The structure on the [[e/_end|end]] of the palp of male [[a/_arachnids|arachnids]] which [[c/_contains|contains]] the opening to the [[e/_ejaculatory|ejaculatory]] [[d/_duct|duct]].**
 ---
 ---

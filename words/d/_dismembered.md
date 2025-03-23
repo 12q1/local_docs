@@ -3,10 +3,10 @@
 #verb
 - **To remove the limbs of.**
 	- _Example: Death by drawing and quartering usually dismembered the condemned person._
-- **To cut or otherwise divide something into pieces.**
+- **To [[c/_cut|cut]] or otherwise [[d/_divide|divide]] something into pieces.**
 	- _Example: The American Civil War nearly dismembered the Union._
 ---
 #adjective
-- **From which the limbs have been removed**
+- **From which the limbs have [[b/_been|been]] removed**
 ---
 ---

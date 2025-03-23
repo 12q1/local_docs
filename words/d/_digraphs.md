@@ -1,10 +1,10 @@
 # Digraphs
 ---
 #noun
-- **A directed graph.**
+- **A [[d/_directed|directed]] graph.**
 ---
 #noun
-- **A two-character sequence used to enter a single conceptual character.**
+- **A two-[[c/_character|character]] sequence used to [[e/_enter|enter]] a single [[c/_conceptual|conceptual]] [[c/_character|character]].**
 - **A pair of letters, especially a pair representing a single phoneme.**
 ---
 ---

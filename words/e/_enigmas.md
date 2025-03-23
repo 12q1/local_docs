@@ -2,6 +2,6 @@
 ---
 #noun
 - **Something or someone puzzling, mysterious or inexplicable.**
-- **A riddle, or a difficult problem.**
+- **A riddle, or a [[d/_difficult|difficult]] problem.**
 ---
 ---

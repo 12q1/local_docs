@@ -1,6 +1,6 @@
 # Carboxylase
 ---
 #noun
-- **Any enzyme that catalyzes either a carboxylation or decarboxylation reaction.**
+- **[[a/_any|Any]] [[e/_enzyme|enzyme]] that [[c/_catalyzes|catalyzes]] [[e/_either|either]] a [[c/_carboxylation|carboxylation]] or [[d/_decarboxylation|decarboxylation]] reaction.**
 ---
 ---

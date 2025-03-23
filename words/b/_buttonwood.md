@@ -1,6 +1,6 @@
 # Buttonwood
 ---
 #noun
-- **The common name given to at least three species of shrub or tree.**
+- **The [[c/_common|common]] name given to at least three species of shrub or tree.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Celluloid
 ---
 #noun
-- **Any of a variety of thermoplastics created from nitrocellulose and camphor, once used as photographic film.**
-- **(often used attributively) The genre of cinema; film.**
+- **[[a/_any|Any]] of a variety of thermoplastics [[c/_created|created]] from nitrocellulose and [[c/_camphor|camphor]], once used as photographic film.**
+- **(often used [[a/_attributively|attributively]]) The genre of [[c/_cinema|cinema]]; film.**
 ---
 ---

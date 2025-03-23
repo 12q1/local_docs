@@ -1,11 +1,11 @@
 # Disembodied
 ---
 #adjective
-- **Having no material body, immaterial; incorporeal or insubstantial.**
+- **Having no material [[b/_body|body]], immaterial; incorporeal or insubstantial.**
 ---
 #verb
-- **To cause someone's soul, spirit, consciousness, voice, etc, to become separated from the physical body.**
-- **To separate (a part of the body) from the body.**
-- **To discharge from military service or array.**
+- **To [[c/_cause|cause]] someone's soul, spirit, [[c/_consciousness|consciousness]], voice, etc, to [[b/_become|become]] separated from the physical [[b/_body|body]].**
+- **To separate (a part of the [[b/_body|body]]) from the [[b/_body|body]].**
+- **To [[d/_discharge|discharge]] from military service or [[a/_array|array]].**
 ---
 ---

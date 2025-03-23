@@ -1,20 +1,20 @@
 # Downright
 ---
 #adjective
-- **Directed vertically; coming straight down.**
-- **Directly to the point; plain**
-- **Using plain direct language; accustomed to express opinions directly and bluntly; blunt.**
-- **Complete; absolute**
+- **[[d/_directed|Directed]] vertically; [[c/_coming|coming]] straight [[d/_down|down]].**
+- **[[d/_directly|Directly]] to the point; plain**
+- **Using plain [[d/_direct|direct]] language; [[a/_accustomed|accustomed]] to express opinions [[d/_directly|directly]] and [[b/_bluntly|bluntly]]; [[b/_blunt|blunt]].**
+- **[[c/_complete|Complete]]; [[a/_absolute|absolute]]**
 ---
 ### Synonyms
-- [[evendown]], [[right-[[d/_down|down]]]], [[unambiguous]], [[unevasive]], [[utter]]
+- [[evendown]], [[right-down]], [[unambiguous]], [[unevasive]], [[utter]]
 #adverb
-- **Really; actually; quite**
+- **Really; [[a/_actually|actually]]; quite**
 	- _Example: He wasn’t just cool to me, he was downright rude._
-- **Straight down; perpendicularly.**
-- **Plainly, unambiguously; directly.**
-- **Without delay; at once.**
+- **Straight [[d/_down|down]]; perpendicularly.**
+- **Plainly, unambiguously; [[d/_directly|directly]].**
+- **Without [[d/_delay|delay]]; at once.**
 ---
 ### Synonyms
-- [[right-[[d/_down|down]]]], [[thoroughly]], [[utterly]]
+- [[right-down]], [[thoroughly]], [[utterly]]
 ---

@@ -1,6 +1,6 @@
 # Dragees
 ---
 #noun
-- **A sweet or confection, originally used to administer drugs, medicine, etc.**
+- **A sweet or [[c/_confection|confection]], originally used to [[a/_administer|administer]] [[d/_drugs|drugs]], medicine, etc.**
 ---
 ---

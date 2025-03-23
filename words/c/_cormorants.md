@@ -1,8 +1,8 @@
 # Cormorants
 ---
 #noun
-- **Any of various medium-large black seabirds of the family Phalacrocoracidae, especially the great cormorant, Phalacrocorax carbo.**
-- **A voracious eater.**
+- **[[a/_any|Any]] of various medium-large [[b/_black|black]] seabirds of the family Phalacrocoracidae, especially the great [[c/_cormorant|cormorant]], Phalacrocorax [[c/_carbo|carbo]].**
+- **A voracious [[e/_eater|eater]].**
 ---
 ### Synonyms
 - [[glutton]]

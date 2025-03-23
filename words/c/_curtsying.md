@@ -1,10 +1,10 @@
 # Curtsying
 ---
 #verb
-- **To make a curtsey.**
+- **To make a [[c/_curtsey|curtsey]].**
 	- _Example: The hotel's staff variously curtsied, nodded, and bowed to the owner as she passed._
 ---
 #noun
-- **The act of dropping a curtsy.**
+- **The [[a/_act|act]] of [[d/_dropping|dropping]] a [[c/_curtsy|curtsy]].**
 ---
 ---

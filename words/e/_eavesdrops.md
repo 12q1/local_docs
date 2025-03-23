@@ -1,17 +1,17 @@
 # Eavesdrops
 ---
 #noun
-- **The dripping of rain from the eaves of a house**
-- **The space around a house on which such water drips**
-- **A concealed aperture through which an occupant of a building can surreptitiously listen to people talking at an entrance to the building**
-- **The act of intentionally hearing a conversation not intended to be heard**
+- **The [[d/_dripping|dripping]] of rain from the [[e/_eaves|eaves]] of a house**
+- **The space [[a/_around|around]] a house on which such water [[d/_drips|drips]]**
+- **A [[c/_concealed|concealed]] [[a/_aperture|aperture]] through which an occupant of a [[b/_building|building]] [[c/_can|can]] surreptitiously listen to people talking at an [[e/_entrance|entrance]] to the [[b/_building|building]]**
+- **The [[a/_act|act]] of intentionally hearing a [[c/_conversation|conversation]] not intended to be heard**
 ---
 ### Synonyms
-- [[[[e/_eavesdrip|eavesdrip]]]]
+- [[eavesdrip]]
 #verb
-- **To hear a conversation one is not intended to hear; to listen in.**
+- **To hear a [[c/_conversation|conversation]] one is not intended to hear; to listen in.**
 	- _Example: I hope nobody was eavesdropping on our conversation last night, since it got so personal._
-- **To listen for another organism's calls, so as to exploit them.**
+- **To listen for [[a/_another|another]] organism's [[c/_calls|calls]], so as to exploit them.**
 ---
 ### Synonyms
 - [[overhear]]

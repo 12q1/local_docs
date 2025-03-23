@@ -1,13 +1,13 @@
 # Cataloguing
 ---
 #verb
-- **To put into a catalogue.**
-- **To make a catalogue of.**
-- **To add items (e.g. books) to an existing catalogue.**
+- **To put into a [[c/_catalogue|catalogue]].**
+- **To make a [[c/_catalogue|catalogue]] of.**
+- **To [[a/_add|add]] items ([[e/_e|e]].g. [[b/_books|books]]) to an existing [[c/_catalogue|catalogue]].**
 ---
 ### Synonyms
-- [[put [[d/_down|down]]]], [[list]]
+- [[put down]], [[list]]
 #noun
-- **The act of arranging in, or as if in, a catalogue.**
+- **The [[a/_act|act]] of [[a/_arranging|arranging]] in, or as if in, a [[c/_catalogue|catalogue]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Afterlife
 ---
 #noun
-- **Life after death.**
+- **Life [[a/_after|after]] [[d/_death|death]].**
 	- _Example: Many religious people believe in an afterlife._
-- **The place believed to be inhabited by deceased people.**
+- **The place [[b/_believed|believed]] to be inhabited by [[d/_deceased|deceased]] people.**
 ---
 ### Synonyms
 - [[eternal life]], [[hereafter]], [[hereafter]], [[other side]]

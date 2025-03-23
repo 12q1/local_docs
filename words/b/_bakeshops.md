@@ -1,6 +1,6 @@
 # Bakeshops
 ---
 #noun
-- **A shop where baked goods are made and sold.**
+- **A shop where [[b/_baked|baked]] goods are made and sold.**
 ---
 ---

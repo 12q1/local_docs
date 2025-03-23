@@ -1,8 +1,8 @@
 # Amtrak
 ---
 #noun
-- **An amphibious vehicle of a class introduced in World War II.**
+- **An [[a/_amphibious|amphibious]] vehicle of a [[c/_class|class]] introduced in World War II.**
 ---
 ### Synonyms
-- [[amphtrack]], [[[[a/_amtrak|amtrak]]]], [[landing vehicle tracked]]
+- [[amphtrack]], [[amtrak]], [[landing vehicle tracked]]
 ---

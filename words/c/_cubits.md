@@ -1,9 +1,9 @@
 # Cubits
 ---
 #noun
-- **Various former units of length notionally based on the distance from a grown man's elbow to his fingertips, standardized in different places and times at values between 35 and 60 cm.**
+- **Various former units of length notionally [[b/_based|based]] on the [[d/_distance|distance]] from a grown man's [[e/_elbow|elbow]] to his fingertips, standardized in [[d/_different|different]] places and times at values [[b/_between|between]] 35 and 60 [[c/_cm|cm]].**
 - **The ulna.**
 ---
 ### Synonyms
-- [[ulna]], [[Russian [[c/_cubit|cubit]]]], [[[[a/_arshin|arshin]]]], [[dira]], [[[[e/_ell|ell]]]]
+- [[ulna]], [[Russian cubit]], [[arshin]], [[dira]], [[ell]]
 ---

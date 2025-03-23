@@ -1,9 +1,9 @@
 # Archenemies
 ---
 #noun
-- **A principal enemy.**
-- **A supreme and most powerful enemy.**
+- **A principal [[e/_enemy|enemy]].**
+- **A supreme and most powerful [[e/_enemy|enemy]].**
 ---
 ### Synonyms
-- [[[[a/_archfoe|archfoe]]]]
+- [[archfoe]]
 ---

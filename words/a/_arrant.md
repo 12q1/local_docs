@@ -1,15 +1,15 @@
 # Arrant
 ---
 #adjective
-- **Utter; complete (with a negative sense).**
+- **Utter; [[c/_complete|complete]] (with a negative sense).**
 ---
 #adjective
-- **Straying from the proper course or standard, or outside established limits.**
-- **Wandering; roving around.**
+- **Straying from the proper [[c/_course|course]] or standard, or outside established limits.**
+- **Wandering; roving [[a/_around|around]].**
 - **Prone to making errors; misbehaved.**
 	- _Example: We ran down the street in pursuit of the errant dog._
-- **Utter, complete (negative); arrant.**
+- **Utter, [[c/_complete|complete]] (negative); [[a/_arrant|arrant]].**
 ---
 ### Synonyms
-- [[[[a/_arrant|arrant]]]]
+- [[arrant]]
 ---

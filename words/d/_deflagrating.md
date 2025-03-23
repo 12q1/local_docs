@@ -1,8 +1,8 @@
 # Deflagrating
 ---
 #verb
-- **To burn with intense light and heat.**
+- **To [[b/_burn|burn]] with intense light and heat.**
 ---
 ### Antonyms
-- [[[[d/_detonate|detonate]]]]
+- [[detonate]]
 ---

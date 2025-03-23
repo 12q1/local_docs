@@ -1,9 +1,9 @@
 # Capitalism
 ---
 #noun
-- **A socio-economic system based on private ownership of resources or capital.**
-- **An economic system based on private ownership of the means of production and their operation for profit.**
-- **(economic liberalism) A socio-economic system based on private property rights, including the private ownership of resources or capital, with economic decisions made largely through the operation of a market unregulated by the state.**
-- **(economic liberalism) An economic system based on the abstraction of resources into the form of privately owned capital, with economic decisions made largely through the operation of a market unregulated by the state.**
+- **A socio-[[e/_economic|economic]] system [[b/_based|based]] on private ownership of resources or [[c/_capital|capital]].**
+- **An [[e/_economic|economic]] system [[b/_based|based]] on private ownership of the means of production and their operation for profit.**
+- **([[e/_economic|economic]] liberalism) A socio-[[e/_economic|economic]] system [[b/_based|based]] on private property rights, including the private ownership of resources or [[c/_capital|capital]], with [[e/_economic|economic]] [[d/_decisions|decisions]] made largely through the operation of a market unregulated by the state.**
+- **([[e/_economic|economic]] liberalism) An [[e/_economic|economic]] system [[b/_based|based]] on the [[a/_abstraction|abstraction]] of resources into the form of privately owned [[c/_capital|capital]], with [[e/_economic|economic]] [[d/_decisions|decisions]] made largely through the operation of a market unregulated by the state.**
 ---
 ---

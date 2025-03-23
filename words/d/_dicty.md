@@ -1,12 +1,12 @@
 # Dicty
 ---
 #noun
-- **An upper-class black.**
+- **An upper-[[c/_class|class]] [[b/_black|black]].**
 ---
 ### Synonyms
-- [[[[c/_chic|chic]]]], [[[[c/_classy|classy]]]], [[ritzy]], [[flashy]], [[showy]], [[haughty]], [[hoity-toity]], [[snobby]], [[snooty]], [[stuck-up]]
+- [[chic]], [[classy]], [[ritzy]], [[flashy]], [[showy]], [[haughty]], [[hoity-toity]], [[snobby]], [[snooty]], [[stuck-up]]
 #adjective
-- **Stylish and respectable; high-class**
+- **Stylish and respectable; high-[[c/_class|class]]**
 - **Striving to seem stylish and respectable; pretentious**
 - **Snobbish and uptight**
 ---

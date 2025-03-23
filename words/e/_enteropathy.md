@@ -1,6 +1,6 @@
 # Enteropathy
 ---
 #noun
-- **An intestinal disorder or disease.**
+- **An intestinal [[d/_disorder|disorder]] or [[d/_disease|disease]].**
 ---
 ---

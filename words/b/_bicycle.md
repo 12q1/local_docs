@@ -1,15 +1,15 @@
 # Bicycle
 ---
 #noun
-- **A vehicle that has two wheels, one behind the other, a steering handle, and a saddle seat or seats and is usually propelled by the action of a rider’s feet upon pedals.**
-- **A traveling block used on a cable in skidding logs.**
-- **The best possible hand in lowball.**
+- **A vehicle that has two wheels, one [[b/_behind|behind]] the other, a steering handle, and a saddle seat or seats and is usually propelled by the [[a/_action|action]] of a rider’s feet upon pedals.**
+- **A traveling [[b/_block|block]] used on a [[c/_cable|cable]] in skidding logs.**
+- **The [[b/_best|best]] possible hand in lowball.**
 - **A motorbike.**
-- **(usually in compounds specifying a context) a slut; a promiscuous woman**
+- **(usually in [[c/_compounds|compounds]] specifying a [[c/_context|context]]) a slut; a promiscuous woman**
 ---
 ### Synonyms
-- [[[[b/_bike|bike]]]], [[pushbike]], [[velocipede]]
+- [[bike]], [[pushbike]], [[velocipede]]
 #verb
-- **To travel or exercise using a bicycle.**
+- **To travel or exercise using a [[b/_bicycle|bicycle]].**
 ---
 ---

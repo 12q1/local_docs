@@ -1,6 +1,6 @@
 # Eagled
 ---
 #verb
-- **To score an eagle.**
+- **To score an [[e/_eagle|eagle]].**
 ---
 ---

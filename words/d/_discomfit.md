@@ -1,14 +1,14 @@
 # Discomfit
 ---
 #verb
-- **To defeat completely; to rout.**
-- **To defeat the plans or hopes of; to frustrate; disconcert.**
-- **To embarrass greatly; to confuse; to perplex; to disconcert.**
+- **To [[d/_defeat|defeat]] [[c/_completely|completely]]; to rout.**
+- **To [[d/_defeat|defeat]] the plans or hopes of; to frustrate; [[d/_disconcert|disconcert]].**
+- **To [[e/_embarrass|embarrass]] greatly; to [[c/_confuse|confuse]]; to perplex; to [[d/_disconcert|disconcert]].**
 	- _Example: Don't worry. Your joke did not really discomfit me._
 ---
 ### Synonyms
-- [[[[a/_abash|abash]]]], [[[[d/_disconcert|disconcert]]]], [[foil]], [[thwart]], [[overthrow]], [[vanquish]]
+- [[abash]], [[disconcert]], [[foil]], [[thwart]], [[overthrow]], [[vanquish]]
 #adjective
-- **Discomfited; overthrown.**
+- **[[d/_discomfited|Discomfited]]; overthrown.**
 ---
 ---

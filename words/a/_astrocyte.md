@@ -1,6 +1,6 @@
 # Astrocyte
 ---
 #noun
-- **A neuroglial cell, in the shape of a star, in the brain.**
+- **A neuroglial [[c/_cell|cell]], in the shape of a star, in the [[b/_brain|brain]].**
 ---
 ---

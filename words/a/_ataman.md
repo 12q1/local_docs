@@ -1,6 +1,6 @@
 # Ataman
 ---
 #noun
-- **A title of Cossack and haidamak leaders of various kinds. The term was also used for the leader of a fisherman artel and of a band of robbers or thieves.**
+- **A title of [[c/_cossack|Cossack]] and haidamak leaders of various kinds. The term was [[a/_also|also]] used for the leader of a fisherman [[a/_artel|artel]] and of a [[b/_band|band]] of robbers or thieves.**
 ---
 ---

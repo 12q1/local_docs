@@ -1,10 +1,10 @@
 # Dodger
 ---
 #noun
-- **Someone who dodges.**
-- **A frame-supported canvas over the companionway (entrance) of a sailboat providing the on-deck crew partial cover from the splashes of the seas that break against the hull of the boat.**
-- **An advertising leaflet; a flyer.**
-- **Bread.**
+- **Someone who [[d/_dodges|dodges]].**
+- **A frame-supported [[c/_canvas|canvas]] over the [[c/_companionway|companionway]] ([[e/_entrance|entrance]]) of a sailboat providing the on-[[d/_deck|deck]] [[c/_crew|crew]] partial [[c/_cover|cover]] from the splashes of the seas that [[b/_break|break]] [[a/_against|against]] the hull of the [[b/_boat|boat]].**
+- **An [[a/_advertising|advertising]] leaflet; a flyer.**
+- **[[b/_bread|Bread]].**
 ---
 ### Synonyms
 - [[sprayhood]]

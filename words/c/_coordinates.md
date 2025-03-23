@@ -1,15 +1,15 @@
 # Coordinates
 ---
 #noun
-- **A number representing the position of a point along a line, arc, or similar one-dimensional figure.**
+- **A number representing the position of a point [[a/_along|along]] a line, [[a/_arc|arc]], or similar one-[[d/_dimensional|dimensional]] figure.**
 	- _Example: Give me your coordinates and we'll come and rescue you._
-- **Something that is equal to another thing.**
-- **(in the plural) Coordinated clothes.**
+- **Something that is [[e/_equal|equal]] to [[a/_another|another]] thing.**
+- **(in the plural) [[c/_coordinated|Coordinated]] [[c/_clothes|clothes]].**
 ---
 #verb
-- **To synchronize (activities).**
+- **To synchronize ([[a/_activities|activities]]).**
 	- _Example: I was playing tennis for the first time, and it was difficult to coordinate._
-- **To match (objects, especially clothes).**
+- **To match (objects, especially [[c/_clothes|clothes]]).**
 	- _Example: The outfit you're wearing doesn't coordinate._
 ---
 ---

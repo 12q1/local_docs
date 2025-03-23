@@ -1,8 +1,8 @@
 # Echidna
 ---
 #noun
-- **Any of the species of small spined monotremes in family Tachyglossidae, the four extant species of which are found in Australia and southern New Guinea.**
+- **[[a/_any|Any]] of the species of small spined monotremes in family Tachyglossidae, the four extant species of which are found in [[a/_australia|Australia]] and southern New Guinea.**
 ---
 ### Synonyms
-- [[[[b/_bunning|bunning]]]], [[spiny [[a/_anteater|anteater]]]]
+- [[bunning]], [[spiny anteater]]
 ---

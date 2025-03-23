@@ -1,15 +1,15 @@
 # Displeasure
 ---
 #noun
-- **A feeling of being displeased with something or someone; dissatisfaction; disapproval.**
-- **That which displeases; cause of irritation or annoyance; offence; injury.**
-- **A state of disgrace or disfavour.**
+- **A feeling of [[b/_being|being]] [[d/_displeased|displeased]] with something or someone; [[d/_dissatisfaction|dissatisfaction]]; [[d/_disapproval|disapproval]].**
+- **That which [[d/_displeases|displeases]]; [[c/_cause|cause]] of irritation or [[a/_annoyance|annoyance]]; offence; injury.**
+- **A state of [[d/_disgrace|disgrace]] or [[d/_disfavour|disfavour]].**
 ---
 ### Synonyms
-- [[[[c/_condemnation|condemnation]]]], [[[[d/_disapprobation|disapprobation]]]], [[[[d/_disapproval|disapproval]]]], [[[[d/_discontent|discontent]]]], [[[[d/_discontentment|discontentment]]]], [[[[d/_dissatisfaction|dissatisfaction]]]], [[unhappiness]], [[[[a/_ache|ache]]]], [[[[d/_discomfort|discomfort]]]], [[pain]]
+- [[condemnation]], [[disapprobation]], [[disapproval]], [[discontent]], [[discontentment]], [[dissatisfaction]], [[unhappiness]], [[ache]], [[discomfort]], [[pain]]
 ### Antonyms
-- [[[[a/_approbation|approbation]]]], [[[[a/_approval|approval]]]], [[[[b/_blessing|blessing]]]], [[[[c/_contentment|contentment]]]], [[happiness]], [[pleasure]], [[satisfaction]], [[[[e/_ease|ease]]]]
+- [[approbation]], [[approval]], [[blessing]], [[contentment]], [[happiness]], [[pleasure]], [[satisfaction]], [[ease]]
 #verb
-- **To displease or offend.**
+- **To [[d/_displease|displease]] or offend.**
 ---
 ---

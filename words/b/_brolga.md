@@ -1,8 +1,8 @@
 # Brolga
 ---
 #noun
-- **A large grey crane, Grus rubicunda, of northern and eastern Australia.**
+- **A large grey [[c/_crane|crane]], Grus rubicunda, of northern and [[e/_eastern|eastern]] [[a/_australia|Australia]].**
 ---
 ### Synonyms
-- [[[[a/_australian|Australian]] [[c/_crane|crane]]]], [[native [[c/_companion|companion]]]]
+- [[Australian crane]], [[native companion]]
 ---

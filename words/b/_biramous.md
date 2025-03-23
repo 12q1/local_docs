@@ -1,6 +1,6 @@
 # Biramous
 ---
 #adjective
-- **Branching in two, composed of two branches.**
+- **[[b/_branching|Branching]] in two, [[c/_composed|composed]] of two [[b/_branches|branches]].**
 ---
 ---

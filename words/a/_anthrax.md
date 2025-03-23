@@ -1,9 +1,9 @@
 # Anthrax
 ---
 #noun
-- **An acute infectious disease of herbivores, especially sheep and cattle, caused by Bacillus anthracis.**
-- **The human disease that can occur in humans through contact with infected herbivores, tissue from infected animals, or high concentrations of anthrax spores, but is not usually spread between humans, with symptoms including lesions on the skin or in the lungs, often fatal.**
+- **An [[a/_acute|acute]] infectious [[d/_disease|disease]] of herbivores, especially sheep and [[c/_cattle|cattle]], [[c/_caused|caused]] by [[b/_bacillus|Bacillus]] anthracis.**
+- **The human [[d/_disease|disease]] that [[c/_can|can]] occur in humans through [[c/_contact|contact]] with infected herbivores, tissue from infected [[a/_animals|animals]], or high [[c/_concentrations|concentrations]] of [[a/_anthrax|anthrax]] spores, but is not usually spread [[b/_between|between]] humans, with symptoms including lesions on the skin or in the lungs, often fatal.**
 ---
 ### Synonyms
-- [[[[c/_cumberland|Cumberland]] [[d/_disease|disease]]]], [[Siberian plague]], [[[[c/_charbon|charbon]]]], [[malignant [[e/_edema|edema]]]], [[splenic fever]], [[woolsorter's [[d/_disease|disease]]]]
+- [[Cumberland disease]], [[Siberian plague]], [[charbon]], [[malignant edema]], [[splenic fever]], [[woolsorter's disease]]
 ---

@@ -1,19 +1,19 @@
 # Civilization
 ---
 #noun
-- **An organized culture encompassing many communities, often on the scale of a nation or a people; a stage or system of social, political or technical development.**
+- **An organized [[c/_culture|culture]] [[e/_encompassing|encompassing]] many [[c/_communities|communities]], often on the scale of a nation or a people; a stage or system of social, political or technical [[d/_development|development]].**
 	- _Example: Modern civilization is a product of industrialization and globalization._
-- **Human society, particularly civil society.**
+- **Human society, particularly [[c/_civil|civil]] society.**
 	- _Example: A hermit doesn't much care for civilization._
-- **The act or process of civilizing or becoming civilized.**
+- **The [[a/_act|act]] or process of [[c/_civilizing|civilizing]] or [[b/_becoming|becoming]] [[c/_civilized|civilized]].**
 	- _Example: The teacher's civilization of the child was no easy task._
-- **The state or quality of being civilized.**
+- **The state or quality of [[b/_being|being]] [[c/_civilized|civilized]].**
 	- _Example: He was a man of great civilization._
-- **The act of rendering a criminal process civil.**
+- **The [[a/_act|act]] of rendering a [[c/_criminal|criminal]] process [[c/_civil|civil]].**
 ---
 ### Synonyms
-- [[[[a/_acculturation|acculturation]]]], [[[[e/_education|education]]]], [[sphere]], [[[[c/_culture|culture]]]], [[order]], [[home]], [[the land of the living]]
+- [[acculturation]], [[education]], [[sphere]], [[culture]], [[order]], [[home]], [[the land of the living]]
 #propernoun
-- **Collectively, those people of the world considered to have a high standard of behavior and / or a high level of development. Commonly subjectively used by people of one society to exclusively refer to their society, or their elite sub-group, or a few associated societies, implying all others, in time or geography or status, as something less than civilised, as savages or barbarians. cf refinement, elitism, civilised society, the Civilised World**
+- **[[c/_collectively|Collectively]], those people of the world [[c/_considered|considered]] to have a high standard of [[b/_behavior|behavior]] and / or a high level of [[d/_development|development]]. [[c/_commonly|Commonly]] subjectively used by people of one society to exclusively refer to their society, or their [[e/_elite|elite]] sub-group, or a few [[a/_associated|associated]] societies, implying [[a/_all|all]] others, in time or geography or status, as something less than [[c/_civilised|civilised]], as savages or [[b/_barbarians|barbarians]]. [[c/_cf|cf]] refinement, [[e/_elitism|elitism]], [[c/_civilised|civilised]] society, the [[c/_civilised|Civilised]] World**
 ---
 ---

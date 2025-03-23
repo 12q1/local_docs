@@ -1,7 +1,7 @@
 # Bowering
 ---
 #verb
-- **To embower; to enclose.**
+- **To [[e/_embower|embower]]; to [[e/_enclose|enclose]].**
 - **To lodge.**
 ---
 ---

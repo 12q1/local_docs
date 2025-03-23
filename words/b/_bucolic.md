@@ -1,8 +1,8 @@
 # Bucolic
 ---
 #adjective
-- **Rustic, pastoral, country-styled.**
-- **Relating to the pleasant aspects of rustic country life.**
+- **Rustic, pastoral, [[c/_country|country]]-styled.**
+- **Relating to the pleasant [[a/_aspects|aspects]] of rustic [[c/_country|country]] life.**
 - **Pertaining to herdsmen or peasants.**
 ---
 ---

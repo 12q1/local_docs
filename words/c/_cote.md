@@ -1,8 +1,8 @@
 # Cote
 ---
 #noun
-- **A cottage or hut.**
-- **A small structure built to contain domesticated animals such as sheep, pigs or pigeons.**
+- **A [[c/_cottage|cottage]] or hut.**
+- **A small structure [[b/_built|built]] to [[c/_contain|contain]] [[d/_domesticated|domesticated]] [[a/_animals|animals]] such as sheep, pigs or pigeons.**
 ---
 ### Synonyms
 - [[shed]]

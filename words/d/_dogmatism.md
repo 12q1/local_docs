@@ -1,6 +1,6 @@
 # Dogmatism
 ---
 #noun
-- **The manner or character of a dogmatist; arrogance or positiveness in stating opinion.**
+- **The manner or [[c/_character|character]] of a [[d/_dogmatist|dogmatist]]; [[a/_arrogance|arrogance]] or positiveness in stating opinion.**
 ---
 ---

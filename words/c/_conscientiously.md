@@ -1,6 +1,6 @@
 # Conscientiously
 ---
 #adverb
-- **In a conscientious manner; attentively.**
+- **In a [[c/_conscientious|conscientious]] manner; [[a/_attentively|attentively]].**
 ---
 ---

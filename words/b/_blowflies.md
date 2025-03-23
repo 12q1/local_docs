@@ -1,6 +1,6 @@
 # Blowflies
 ---
 #noun
-- **Any of various flies of the family Calliphoridae that lay their eggs in rotting meat, dung, or open wounds.**
+- **[[a/_any|Any]] of various flies of the family [[c/_calliphoridae|Calliphoridae]] that lay their [[e/_eggs|eggs]] in rotting meat, [[d/_dung|dung]], or open wounds.**
 ---
 ---

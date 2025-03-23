@@ -2,6 +2,6 @@
 ---
 #verb
 - **To strip of feathers or plumage.**
-- **To lay bare; to expose.**
+- **To lay [[b/_bare|bare]]; to expose.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Crosswind
 ---
 #noun
-- **A wind blowing across a line of travel.**
+- **A wind [[b/_blowing|blowing]] [[a/_across|across]] a line of travel.**
 ---
 ---

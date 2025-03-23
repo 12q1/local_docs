@@ -1,6 +1,6 @@
 # Aerosolize
 ---
 #verb
-- **To disperse a material, usually a solid or liquid, as an aerosol.**
+- **To [[d/_disperse|disperse]] a material, usually a solid or liquid, as an [[a/_aerosol|aerosol]].**
 ---
 ---

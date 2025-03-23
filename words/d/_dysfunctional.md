@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Not performing its proper or intended function.**
-- **Functioning incorrectly or abnormally; especially, designating of a business, family or social group with harmful, aberrant, strange or abnormal behavior.**
+- **Functioning incorrectly or [[a/_abnormally|abnormally]]; especially, [[d/_designating|designating]] of a [[b/_business|business]], family or social group with harmful, [[a/_aberrant|aberrant]], strange or [[a/_abnormal|abnormal]] [[b/_behavior|behavior]].**
 ---
 ### Antonyms
 - [[eufunctional]], [[functional]]

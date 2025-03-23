@@ -1,6 +1,6 @@
 # Brazenly
 ---
 #adverb
-- **In a brazen manner.**
+- **In a [[b/_brazen|brazen]] manner.**
 ---
 ---

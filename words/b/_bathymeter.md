@@ -1,6 +1,6 @@
 # Bathymeter
 ---
 #noun
-- **A bathometer.**
+- **A [[b/_bathometer|bathometer]].**
 ---
 ---

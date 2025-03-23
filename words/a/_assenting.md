@@ -1,9 +1,9 @@
 # Assenting
 ---
 #verb
-- **To agree; to give approval.**
-- **To admit a thing as true.**
+- **To [[a/_agree|agree]]; to give [[a/_approval|approval]].**
+- **To [[a/_admit|admit]] a thing as true.**
 ---
 ### Synonyms
-- [[[[a/_affirm|affirm]]]], [[[[a/_allow|allow]]]], [[[[a/_astipulate|astipulate]]]], [[[[a/_aver|aver]]]], [[soothe]], [[stipulate]], [[[[c/_consent|consent]]]]
+- [[affirm]], [[allow]], [[astipulate]], [[aver]], [[soothe]], [[stipulate]], [[consent]]
 ---

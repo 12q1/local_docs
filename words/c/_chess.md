@@ -1,6 +1,6 @@
 # Chess
 ---
 #noun
-- **A board game for two players with each beginning with sixteen chess pieces moving according to fixed rules across a chessboard with the objective to checkmate the opposing king.**
+- **A [[b/_board|board]] game for two players with [[e/_each|each]] [[b/_beginning|beginning]] with sixteen [[c/_chess|chess]] pieces moving [[a/_according|according]] to fixed rules [[a/_across|across]] a [[c/_chessboard|chessboard]] with the objective to [[c/_checkmate|checkmate]] the opposing king.**
 ---
 ---

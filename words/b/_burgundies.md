@@ -2,11 +2,11 @@
 ---
 #noun
 - **A variety of red wine from this region.**
-- **A variety of wine resembling that of Burgundy; especially from Australia or California.**
+- **A variety of wine resembling that of [[b/_burgundy|Burgundy]]; especially from [[a/_australia|Australia]] or [[c/_california|California]].**
 ---
 ### Synonyms
-- [[[[b/_burgundy|Burgundy]] wine]]
+- [[Burgundy wine]]
 #noun
-- **A dark red colour tinged with purple, like that of Burgundy (red) wine.**
+- **A [[d/_dark|dark]] red [[c/_colour|colour]] tinged with purple, like that of [[b/_burgundy|Burgundy]] (red) wine.**
 ---
 ---

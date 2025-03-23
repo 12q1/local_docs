@@ -1,6 +1,6 @@
 # Brickfielder
 ---
 #noun
-- **A hot, dry, dusty wind of southern or central Australia.**
+- **A hot, [[d/_dry|dry]], [[d/_dusty|dusty]] wind of southern or [[c/_central|central]] [[a/_australia|Australia]].**
 ---
 ---

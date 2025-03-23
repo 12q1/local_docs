@@ -1,6 +1,6 @@
 # Disturbingly
 ---
 #adverb
-- **In a disturbing manner.**
+- **In a [[d/_disturbing|disturbing]] manner.**
 ---
 ---

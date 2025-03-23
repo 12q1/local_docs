@@ -1,6 +1,6 @@
 # Buttled
 ---
 #verb
-- **To serve as or perform the duties of a butler.**
+- **To serve as or perform the [[d/_duties|duties]] of a [[b/_butler|butler]].**
 ---
 ---

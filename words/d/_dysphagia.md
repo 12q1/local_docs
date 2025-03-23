@@ -1,7 +1,7 @@
 # Dysphagia
 ---
 #noun
-- **Difficulty in swallowing.**
+- **[[d/_difficulty|Difficulty]] in swallowing.**
 ---
 ### Synonyms
 - [[dysphagy]]

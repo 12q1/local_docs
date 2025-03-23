@@ -1,6 +1,6 @@
 # Bifaces
 ---
 #noun
-- **A double-sided stone tool**
+- **A [[d/_double|double]]-sided stone tool**
 ---
 ---

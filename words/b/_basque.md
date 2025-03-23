@@ -1,7 +1,7 @@
 # Basque
 ---
 #noun
-- **The part of a waistcoat etc. extending below the waist.**
-- **A woman's close-fitting bodice, underbodice, or corset having such a feature.**
+- **The part of a waistcoat etc. extending [[b/_below|below]] the waist.**
+- **A woman's [[c/_close|close]]-fitting [[b/_bodice|bodice]], underbodice, or [[c/_corset|corset]] having such a feature.**
 ---
 ---

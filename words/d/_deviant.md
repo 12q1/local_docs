@@ -1,15 +1,15 @@
 # Deviant
 ---
 #noun
-- **A person who deviates, especially from norms of social behavior.**
+- **A person who [[d/_deviates|deviates]], especially from norms of social [[b/_behavior|behavior]].**
 	- _Example: He was branded as a deviant and ostracized._
-- **A thing, phenomenon, or trend that deviates from an expectation or pattern.**
+- **A thing, phenomenon, or trend that [[d/_deviates|deviates]] from an expectation or pattern.**
 	- _Example: As the graph shows, the March sales trend is the deviant._
 ---
 ### Synonyms
-- [[heteroclite]], [[nonconformist]], [[[[a/_abnormality|abnormality]]]], [[irregularity]], [[outlier]]
+- [[heteroclite]], [[nonconformist]], [[abnormality]], [[irregularity]], [[outlier]]
 #adjective
-- **Characterized by deviation from an expectation or a social standard.**
+- **[[c/_characterized|Characterized]] by [[d/_deviation|deviation]] from an expectation or a social standard.**
 	- _Example: At the trial, the extent of his deviant behavior became clear._
 ---
 ---

@@ -1,6 +1,6 @@
 # Biennales
 ---
 #noun
-- **A biennial celebration or exhibition**
+- **A [[b/_biennial|biennial]] [[c/_celebration|celebration]] or exhibition**
 ---
 ---

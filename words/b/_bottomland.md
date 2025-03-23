@@ -1,7 +1,7 @@
 # Bottomland
 ---
 #noun
-- **Flat land along a river, lying few feet above normal high water, often consisting of alluvial deposits and naturally fertile.**
+- **Flat land [[a/_along|along]] a river, lying few feet [[a/_above|above]] normal high water, often [[c/_consisting|consisting]] of [[a/_alluvial|alluvial]] [[d/_deposits|deposits]] and naturally fertile.**
 ---
 ### Synonyms
 - [[mudflats]]

@@ -1,6 +1,6 @@
 # Chausses
 ---
 #noun
-- **Armor for the legs, usually made of mail.**
+- **[[a/_armor|Armor]] for the legs, usually made of mail.**
 ---
 ---

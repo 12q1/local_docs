@@ -1,6 +1,6 @@
 # Embrittle
 ---
 #verb
-- **To become or make brittle.**
+- **To [[b/_become|become]] or make [[b/_brittle|brittle]].**
 ---
 ---

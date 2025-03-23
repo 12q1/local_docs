@@ -1,16 +1,16 @@
 # Dx
 ---
 #verb
-- **To diagnose.**
+- **To [[d/_diagnose|diagnose]].**
 	- _Example: I was Dx'd with ADHD ten years ago._
 ---
 #noun
-- **The differential with respect to the variable x.**
+- **The [[d/_differential|differential]] with respect to the variable x.**
 ---
 #noun
-- **The identification of the nature and cause of an illness.**
+- **The identification of the nature and [[c/_cause|cause]] of an illness.**
 	- _Example: He was given the wrong treatment due to an erroneous diagnosis._
-- **The identification of the nature and cause of something (of any nature).**
-- **A written description of a species or other taxon serving to distinguish that species from all others. Especially, a description written in Latin and published.**
+- **The identification of the nature and [[c/_cause|cause]] of something (of [[a/_any|any]] nature).**
+- **A written [[d/_description|description]] of a species or other taxon serving to [[d/_distinguish|distinguish]] that species from [[a/_all|all]] others. Especially, a [[d/_description|description]] written in Latin and published.**
 ---
 ---

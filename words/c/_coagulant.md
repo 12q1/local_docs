@@ -1,11 +1,11 @@
 # Coagulant
 ---
 #noun
-- **A substance that causes coagulation**
+- **A substance that [[c/_causes|causes]] [[c/_coagulation|coagulation]]**
 ---
 ### Antonyms
-- [[[[a/_anticoagulant|anticoagulant]]]]
+- [[anticoagulant]]
 #adjective
-- **That causes coagulation or that coagulates**
+- **That [[c/_causes|causes]] [[c/_coagulation|coagulation]] or that [[c/_coagulates|coagulates]]**
 ---
 ---

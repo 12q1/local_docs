@@ -1,6 +1,6 @@
 # Downwarp
 ---
 #noun
-- **A segment of the crust of the Earth that bends downward**
+- **A segment of the [[c/_crust|crust]] of the [[e/_earth|Earth]] that [[b/_bends|bends]] [[d/_downward|downward]]**
 ---
 ---

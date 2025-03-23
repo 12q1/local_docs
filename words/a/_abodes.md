@@ -1,16 +1,16 @@
 # Abodes
 ---
 #noun
-- **Act of waiting; delay.**
-- **Stay or continuance in a place; sojourn.**
-- **A residence, dwelling or habitation.**
+- **[[a/_act|Act]] of waiting; [[d/_delay|delay]].**
+- **Stay or [[c/_continuance|continuance]] in a place; sojourn.**
+- **A residence, [[d/_dwelling|dwelling]] or habitation.**
 	- _Example: of no fixed abode_
 ---
 #noun
 - **An omen; a foretelling.**
 ---
 #verb
-- **To bode; to foreshow; to presage.**
+- **To [[b/_bode|bode]]; to foreshow; to presage.**
 - **To be ominous.**
 ---
 ---

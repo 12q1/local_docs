@@ -1,11 +1,11 @@
 # Copperplate
 ---
 #noun
-- **A copper plate, either etched or engraved, to make a recessed pattern.**
+- **A [[c/_copper|copper]] plate, [[e/_either|either]] etched or [[e/_engraved|engraved]], to make a recessed pattern.**
 - **A print made from such a plate.**
-- **A style of handwriting based on that used on such prints; English round hand.**
+- **A style of handwriting [[b/_based|based]] on that used on such prints; [[e/_english|English]] round hand.**
 ---
 #verb
-- **To engrave on and print from a copperplate.**
+- **To [[e/_engrave|engrave]] on and print from a [[c/_copperplate|copperplate]].**
 ---
 ---

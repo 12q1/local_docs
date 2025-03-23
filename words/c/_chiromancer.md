@@ -1,7 +1,7 @@
 # Chiromancer
 ---
 #noun
-- **One who practices chiromancy; a palm reader.**
+- **One who practices [[c/_chiromancy|chiromancy]]; a palm reader.**
 ---
 ### Synonyms
 - [[cheiromantist]], [[palmist]], [[palmister]]

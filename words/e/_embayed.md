@@ -1,13 +1,13 @@
 # Embayed
 ---
 #verb
-- **To bathe; to steep.**
+- **To [[b/_bathe|bathe]]; to steep.**
 ---
 #verb
-- **To shut in, enclose, shelter or trap, such as ships in a bay.**
+- **To shut in, [[e/_enclose|enclose]], shelter or trap, such as ships in a [[b/_bay|bay]].**
 ---
 #adjective
-- **Enclosed in (or as though in) a bay; harboured.**
-- **Of water: formed into a bay or bays.**
+- **[[e/_enclosed|Enclosed]] in (or as though in) a [[b/_bay|bay]]; harboured.**
+- **Of water: formed into a [[b/_bay|bay]] or [[b/_bays|bays]].**
 ---
 ---

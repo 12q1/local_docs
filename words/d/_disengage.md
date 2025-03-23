@@ -1,11 +1,11 @@
 # Disengage
 ---
 #noun
-- **A circular movement of the blade that avoids the opponent's parry**
+- **A [[c/_circular|circular]] movement of the [[b/_blade|blade]] that [[a/_avoids|avoids]] the opponent's parry**
 ---
 #verb
-- **To release or loosen from something that binds, entangles, holds, or interlocks.**
+- **To release or loosen from something that [[b/_binds|binds]], [[e/_entangles|entangles]], holds, or interlocks.**
 ---
 ### Synonyms
-- [[[[d/_detach|detach]]]], [[[[d/_disentangle|disentangle]]]], [[free]], [[unfasten]]
+- [[detach]], [[disentangle]], [[free]], [[unfasten]]
 ---

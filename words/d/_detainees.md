@@ -1,6 +1,6 @@
 # Detainees
 ---
 #noun
-- **Someone who is detained, especially in custody or confinement.**
+- **Someone who is [[d/_detained|detained]], especially in [[c/_custody|custody]] or [[c/_confinement|confinement]].**
 ---
 ---

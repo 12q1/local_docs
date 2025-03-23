@@ -1,9 +1,9 @@
 # Amputated
 ---
 #verb
-- **To surgically remove a part of the body, especially a limb**
+- **To surgically remove a part of the [[b/_body|body]], especially a limb**
 ---
 #adjective
-- **Having been removed or cut off.**
+- **Having [[b/_been|been]] removed or [[c/_cut|cut]] off.**
 ---
 ---

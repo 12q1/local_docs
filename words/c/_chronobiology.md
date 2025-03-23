@@ -1,6 +1,6 @@
 # Chronobiology
 ---
 #noun
-- **The study of the effects of time on biological systems, especially the effects of periodicity**
+- **The study of the [[e/_effects|effects]] of time on [[b/_biological|biological]] systems, especially the [[e/_effects|effects]] of periodicity**
 ---
 ---

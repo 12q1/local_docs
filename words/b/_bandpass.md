@@ -1,9 +1,9 @@
 # Bandpass
 ---
 #adjective
-- **Letting through only a specific range of electromagnetic frequencies.**
+- **Letting through only a specific range of [[e/_electromagnetic|electromagnetic]] frequencies.**
 ---
 #noun
-- **A bandpass filter**
+- **A [[b/_bandpass|bandpass]] filter**
 ---
 ---

@@ -1,6 +1,6 @@
 # Alkalosis
 ---
 #noun
-- **An abnormally increased alkalinity in the blood.**
+- **An [[a/_abnormally|abnormally]] increased [[a/_alkalinity|alkalinity]] in the [[b/_blood|blood]].**
 ---
 ---

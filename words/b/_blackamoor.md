@@ -1,11 +1,11 @@
 # Blackamoor
 ---
 #noun
-- **A person with dark skin, especially one from north Africa**
-- **A blackamoor slave, a blackamoor servant; and hence any slave, servant, inferior, or child**
+- **A person with [[d/_dark|dark]] skin, especially one from north [[a/_africa|Africa]]**
+- **A [[b/_blackamoor|blackamoor]] slave, a [[b/_blackamoor|blackamoor]] servant; and hence [[a/_any|any]] slave, servant, inferior, or [[c/_child|child]]**
 - **A stylized Negro**
 	- _Example: Argent, three blackamoors' heads couped sable, capped or, fretty gules._
 ---
 ### Synonyms
-- [[Negro]], [[[[b/_black|black]]]]
+- [[Negro]], [[black]]
 ---

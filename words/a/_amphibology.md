@@ -1,6 +1,6 @@
 # Amphibology
 ---
 #noun
-- **Amphiboly.**
+- **[[a/_amphiboly|Amphiboly]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Clavate
 ---
 #adjective
-- **Resembling a club, becoming increasingly wide from the base to the distal end.**
+- **Resembling a [[c/_club|club]], [[b/_becoming|becoming]] increasingly wide from the [[b/_base|base]] to the [[d/_distal|distal]] [[e/_end|end]].**
 	- _Example: an organism with clavate antennae_
 ---
 ### Synonyms
-- [[[[c/_claviform|claviform]]]], [[[[c/_clubbed|clubbed]]]], [[[[c/_clubbed|clubbed]]]]
+- [[claviform]], [[clubbed]], [[clubbed]]
 ---

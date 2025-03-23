@@ -1,6 +1,6 @@
 # Dom
 ---
 #noun
-- **A title anciently given to the pope, and later to other church dignitaries and some monastic orders.**
+- **A title [[a/_anciently|anciently]] given to the pope, and later to other [[c/_church|church]] [[d/_dignitaries|dignitaries]] and some monastic orders.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Dd
 ---
 #noun
-- **Day, in two-digit, numeric format, as in dd/mm/yyyy**
+- **[[d/_day|Day]], in two-[[d/_digit|digit]], numeric format, as in [[d/_dd|dd]]/mm/yyyy**
 ---
 ---

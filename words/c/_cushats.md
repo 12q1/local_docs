@@ -1,8 +1,8 @@
 # Cushats
 ---
 #noun
-- **A pigeon, wood pigeon or ring dove.**
+- **A pigeon, wood pigeon or ring [[d/_dove|dove]].**
 ---
 ### Synonyms
-- [[[[c/_cushat|cushat]] [[d/_dove|dove]]]], [[[[c/_cushat|cushat]]-[[d/_dove|dove]]]], [[queest]], [[quist]]
+- [[cushat dove]], [[cushat-dove]], [[queest]], [[quist]]
 ---

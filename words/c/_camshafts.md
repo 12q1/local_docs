@@ -1,6 +1,6 @@
 # Camshafts
 ---
 #noun
-- **A shaft fitted with cams; especially one in a piston engine that activates the valves.**
+- **A shaft fitted with [[c/_cams|cams]]; especially one in a piston [[e/_engine|engine]] that [[a/_activates|activates]] the valves.**
 ---
 ---

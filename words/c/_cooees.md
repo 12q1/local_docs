@@ -1,10 +1,10 @@
 # Cooees
 ---
 #noun
-- **A long, loud call used to attract attention when at a distance, mainly done in the Australian bush.**
-- **(with "within") A short distance; hailing distance.**
+- **A long, loud [[c/_call|call]] used to [[a/_attract|attract]] [[a/_attention|attention]] when at a [[d/_distance|distance]], mainly [[d/_done|done]] in the [[a/_australian|Australian]] [[b/_bush|bush]].**
+- **(with "within") A short [[d/_distance|distance]]; hailing [[d/_distance|distance]].**
 ---
 #verb
-- **To make such a call.**
+- **To make such a [[c/_call|call]].**
 ---
 ---

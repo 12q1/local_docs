@@ -1,7 +1,7 @@
 # Caftans
 ---
 #noun
-- **A long tunic worn in the Eastern Mediterranean.**
-- **A long dress or shirt similar in style to those worn in the Eastern Mediterranean.**
+- **A long tunic worn in the [[e/_eastern|Eastern]] Mediterranean.**
+- **A long [[d/_dress|dress]] or shirt similar in style to those worn in the [[e/_eastern|Eastern]] Mediterranean.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Bookbinders
 ---
 #noun
-- **A person whose profession is binding pages together to form a book**
+- **A person whose profession is [[b/_binding|binding]] pages together to form a [[b/_book|book]]**
 ---
 ### Synonyms
-- [[[[b/_bibliopegist|bibliopegist]]]]
+- [[bibliopegist]]
 ---

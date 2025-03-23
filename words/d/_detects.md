@@ -1,6 +1,6 @@
 # Detects
 ---
 #verb
-- **To discover or find by careful search, examination, or probing**
+- **To [[d/_discover|discover]] or find by [[c/_careful|careful]] search, examination, or probing**
 ---
 ---

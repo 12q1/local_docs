@@ -1,9 +1,9 @@
 # Dyslectic
 ---
 #noun
-- **Dyslexic**
+- **[[d/_dyslexic|Dyslexic]]**
 ---
 #adjective
-- **Dyslexic**
+- **[[d/_dyslexic|Dyslexic]]**
 ---
 ---

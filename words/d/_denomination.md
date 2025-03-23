@@ -1,9 +1,9 @@
 # Denomination
 ---
 #noun
-- **The act of naming or designating.**
-- **That by which anything is denominated or styled; an epithet; a name, designation, or title; especially, a general name indicating a class of like individuals**
-- **A class, or society of individuals, called by the same name; a sect or religious subgroup.**
+- **The [[a/_act|act]] of naming or [[d/_designating|designating]].**
+- **That by which [[a/_anything|anything]] is [[d/_denominated|denominated]] or styled; an [[e/_epithet|epithet]]; a name, [[d/_designation|designation]], or title; especially, a general name indicating a [[c/_class|class]] of like individuals**
+- **A [[c/_class|class]], or society of individuals, [[c/_called|called]] by the same name; a sect or religious subgroup.**
 	- _Example: She follows the Ahmadiyya denomination of Islam._
 - **A unit in a series of units of weight, money, etc.**
 	- _Example: What denomination is that money? They are all 50 euro notes._

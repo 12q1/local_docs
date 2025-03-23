@@ -1,7 +1,7 @@
 # Brioche
 ---
 #noun
-- **A type of light sweet pastry or bun of French origin.**
-- **A knitted cushion for the feet.**
+- **A type of light sweet pastry or [[b/_bun|bun]] of French origin.**
+- **A knitted [[c/_cushion|cushion]] for the feet.**
 ---
 ---

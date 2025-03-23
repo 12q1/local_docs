@@ -1,10 +1,10 @@
 # Endings
 ---
 #noun
-- **A termination or conclusion.**
+- **A termination or [[c/_conclusion|conclusion]].**
 - **The last part of something.**
-- **(grammar) The last morpheme of a word, added to some base to make an inflected form (such as -ing in "ending").**
+- **(grammar) The last morpheme of a word, [[a/_added|added]] to some [[b/_base|base]] to make an inflected form (such as -ing in "[[e/_ending|ending]]").**
 ---
 ### Synonyms
-- [[[[c/_conclusion|conclusion]]]], [[[[e/_end|end]]]], [[termination]], [[[[e/_end|end]]]], [[finale]], [[suffix]], [[termination]]
+- [[conclusion]], [[end]], [[termination]], [[end]], [[finale]], [[suffix]], [[termination]]
 ---

@@ -1,14 +1,14 @@
 # Abubble
 ---
 #adjective
-- **In a state of excitement, agitated activity, or motion.**
+- **In a state of excitement, [[a/_agitated|agitated]] [[a/_activity|activity]], or motion.**
 	- _Example: After they had sat down, the party remained abubble until the speaker rose._
-- **Bubbling.**
+- **[[b/_bubbling|Bubbling]].**
 	- _Example: The sour mash was abubble._
 ---
 ### Synonyms
-- [[bubblesome]], [[[[b/_bubbly|bubbly]]]], [[[[e/_ebullient|ebullient]]]]
+- [[bubblesome]], [[bubbly]], [[ebullient]]
 #adverb
-- **Bubbling over with excitement.**
+- **[[b/_bubbling|Bubbling]] over with excitement.**
 ---
 ---

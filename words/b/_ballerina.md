@@ -1,10 +1,10 @@
 # Ballerina
 ---
 #noun
-- **A female ballet dancer**
-- **The star female ballet performer in the company**
-- **(sometimes derogatory) a male ballet dancer**
-- **A ballet flat shoe**
+- **A female [[b/_ballet|ballet]] [[d/_dancer|dancer]]**
+- **The star female [[b/_ballet|ballet]] performer in the [[c/_company|company]]**
+- **(sometimes [[d/_derogatory|derogatory]]) a male [[b/_ballet|ballet]] [[d/_dancer|dancer]]**
+- **A [[b/_ballet|ballet]] flat shoe**
 ---
 ### Synonyms
 - [[ballerino]]

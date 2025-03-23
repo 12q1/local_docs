@@ -1,7 +1,7 @@
 # Chiropodist
 ---
 #noun
-- **A practitioner of chiropody**
+- **A practitioner of [[c/_chiropody|chiropody]]**
 ---
 ### Synonyms
 - [[podiatrist]]

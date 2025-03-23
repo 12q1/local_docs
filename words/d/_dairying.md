@@ -1,6 +1,6 @@
 # Dairying
 ---
 #noun
-- **The business of owning and operating a dairy.**
+- **The [[b/_business|business]] of owning and operating a [[d/_dairy|dairy]].**
 ---
 ---

@@ -1,10 +1,10 @@
 # Dills
 ---
 #noun
-- **Anethum graveolens (the type species of the genus Anethum), a herb, the seeds of which are moderately warming, pungent, and aromatic, formerly used as a soothing medicine for children; also known as dillseed.**
-- **A cucumber pickled with dill flavoring**
+- **[[a/_anethum|Anethum]] graveolens (the type species of the genus [[a/_anethum|Anethum]]), a herb, the seeds of which are moderately warming, pungent, and [[a/_aromatic|aromatic]], formerly used as a soothing medicine for [[c/_children|children]]; [[a/_also|also]] known as [[d/_dillseed|dillseed]].**
+- **A [[c/_cucumber|cucumber]] pickled with [[d/_dill|dill]] flavoring**
 - **A fool.**
 ---
 ### Synonyms
-- [[[[a/_anet|anet]]]], [[[[d/_dillseed|dillseed]]]], [[[[d/_dill|dill]] pickle]], [[[[d/_dill|dill]] pickle]]
+- [[anet]], [[dillseed]], [[dill pickle]], [[dill pickle]]
 ---

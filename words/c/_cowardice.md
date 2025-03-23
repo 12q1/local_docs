@@ -1,8 +1,8 @@
 # Cowardice
 ---
 #noun
-- **Lack of courage.**
+- **Lack of [[c/_courage|courage]].**
 ---
 ### Synonyms
-- [[[[c/_cowardliness|cowardliness]]]], [[[[c/_cowardness|cowardness]]]], [[cowardship]]
+- [[cowardliness]], [[cowardness]], [[cowardship]]
 ---

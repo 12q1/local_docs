@@ -1,6 +1,6 @@
 # Designedly
 ---
 #adverb
-- **By design; intentionally; according to plan.**
+- **By [[d/_design|design]]; intentionally; [[a/_according|according]] to plan.**
 ---
 ---

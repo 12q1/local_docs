@@ -1,6 +1,6 @@
 # Avowedly
 ---
 #adverb
-- **With open acknowledgment, declaration or verification.**
+- **With open [[a/_acknowledgment|acknowledgment]], [[d/_declaration|declaration]] or verification.**
 ---
 ---

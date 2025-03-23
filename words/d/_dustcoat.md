@@ -1,6 +1,6 @@
 # Dustcoat
 ---
 #noun
-- **A coat worn as protection from dust.**
+- **A [[c/_coat|coat]] worn as protection from [[d/_dust|dust]].**
 ---
 ---

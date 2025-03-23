@@ -1,6 +1,6 @@
 # Dimly
 ---
 #adverb
-- **In a dim manner.**
+- **In a [[d/_dim|dim]] manner.**
 ---
 ---

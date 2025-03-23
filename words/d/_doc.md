@@ -1,6 +1,6 @@
 # Doc
 ---
 #noun
-- **A doctor.**
+- **A [[d/_doctor|doctor]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Druggier
 ---
 #adjective
-- **Acting as if on drugs; torpid, uncoordinated, etc.**
+- **[[a/_acting|Acting]] as if on [[d/_drugs|drugs]]; torpid, uncoordinated, etc.**
 ---
 ---

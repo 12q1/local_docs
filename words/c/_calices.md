@@ -1,7 +1,7 @@
 # Calices
 ---
 #noun
-- **The outermost whorl of flower parts, comprising the sepals, which covers and protects the petals as they develop.**
-- **Any of various cup-like structures.**
+- **The outermost whorl of flower parts, [[c/_comprising|comprising]] the sepals, which [[c/_covers|covers]] and protects the petals as they [[d/_develop|develop]].**
+- **[[a/_any|Any]] of various [[c/_cup|cup]]-like structures.**
 ---
 ---

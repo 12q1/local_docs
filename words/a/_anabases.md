@@ -1,9 +1,9 @@
 # Anabases
 ---
 #noun
-- **A military march up-country, especially that of Cyrus the Younger into Asia.**
-- **The first period, or increase, of a disease; augmentation.**
+- **A military march up-[[c/_country|country]], especially that of [[c/_cyrus|Cyrus]] the Younger into [[a/_asia|Asia]].**
+- **The first period, or increase, of a [[d/_disease|disease]]; [[a/_augmentation|augmentation]].**
 ---
 ### Antonyms
-- [[[[c/_catabasis|catabasis]]]], [[katabasis]]
+- [[catabasis]], [[katabasis]]
 ---

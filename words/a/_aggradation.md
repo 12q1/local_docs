@@ -1,6 +1,6 @@
 # Aggradation
 ---
 #noun
-- **Increase in land elevation due to the deposition of sediment.**
+- **Increase in land [[e/_elevation|elevation]] [[d/_due|due]] to the [[d/_deposition|deposition]] of sediment.**
 ---
 ---

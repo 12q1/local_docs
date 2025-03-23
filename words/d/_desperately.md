@@ -1,7 +1,7 @@
 # Desperately
 ---
 #adverb
-- **In a desperate manner; without regard to danger or safety; recklessly.**
+- **In a [[d/_desperate|desperate]] manner; without regard to [[d/_danger|danger]] or safety; recklessly.**
 - **Extremely**
 ---
 ---

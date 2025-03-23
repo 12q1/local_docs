@@ -2,12 +2,12 @@
 ---
 #verb
 - **To warn or notify of a fault; to reprove gently or kindly, but seriously; to exhort.**
-- **To counsel against wrong practices; to caution or advise; to warn against danger or an offense; — followed by of, against, or a subordinate clause.**
-- **To instruct or direct; to inform; to notify.**
+- **To [[c/_counsel|counsel]] [[a/_against|against]] wrong practices; to [[c/_caution|caution]] or [[a/_advise|advise]]; to warn [[a/_against|against]] [[d/_danger|danger]] or an offense; — followed by of, [[a/_against|against]], or a subordinate [[c/_clause|clause]].**
+- **To instruct or [[d/_direct|direct]]; to inform; to notify.**
 ---
 ### Synonyms
-- [[[[c/_chide|chide]]]], [[reprimand]]
+- [[chide]], [[reprimand]]
 #noun
-- **Admonishment**
+- **[[a/_admonishment|Admonishment]]**
 ---
 ---

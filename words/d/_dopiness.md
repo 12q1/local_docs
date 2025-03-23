@@ -1,6 +1,6 @@
 # Dopiness
 ---
 #noun
-- **The characteristic of being dopey.**
+- **The [[c/_characteristic|characteristic]] of [[b/_being|being]] [[d/_dopey|dopey]].**
 ---
 ---

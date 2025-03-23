@@ -1,6 +1,6 @@
 # Bullrings
 ---
 #noun
-- **The area in which a bullfight takes place.**
+- **The [[a/_area|area]] in which a [[b/_bullfight|bullfight]] takes place.**
 ---
 ---

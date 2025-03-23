@@ -5,6 +5,6 @@
 	- _Example: Stop daydreaming and get back to work!_
 ---
 #noun
-- **An instance of daydreaming; a daydream or reverie.**
+- **An instance of [[d/_daydreaming|daydreaming]]; a [[d/_daydream|daydream]] or reverie.**
 ---
 ---

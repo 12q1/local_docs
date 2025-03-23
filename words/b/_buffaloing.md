@@ -1,8 +1,8 @@
 # Buffaloing
 ---
 #verb
-- **To hunt buffalo.**
-- **To outwit, confuse, deceive, or intimidate.**
+- **To hunt [[b/_buffalo|buffalo]].**
+- **To outwit, [[c/_confuse|confuse]], [[d/_deceive|deceive]], or intimidate.**
 - **To pistol-whip.**
 ---
 ---

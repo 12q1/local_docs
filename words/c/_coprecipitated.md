@@ -1,9 +1,9 @@
 # Coprecipitated
 ---
 #verb
-- **To cause, or to undergo, coprecipitation.**
+- **To [[c/_cause|cause]], or to undergo, [[c/_coprecipitation|coprecipitation]].**
 ---
 #adjective
-- **Precipitated along with another substance**
+- **Precipitated [[a/_along|along]] with [[a/_another|another]] substance**
 ---
 ---

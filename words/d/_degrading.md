@@ -5,13 +5,13 @@
 	- _Example: Fred degrades himself by his behaviour._
 - **To reduce in quality or purity.**
 	- _Example: The DNA sample has degraded._
-- **To reduce in altitude or magnitude, as hills and mountains; to wear down.**
+- **To reduce in [[a/_altitude|altitude]] or magnitude, as hills and mountains; to wear [[d/_down|down]].**
 ---
 #noun
-- **An act or process of degradation.**
+- **An [[a/_act|act]] or process of [[d/_degradation|degradation]].**
 ---
 #adjective
-- **That degrades**
+- **That [[d/_degrades|degrades]]**
 	- _Example: Retrieving my dropped possessions from the mud was a degrading experience._
 ---
 ---

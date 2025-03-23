@@ -1,12 +1,12 @@
 # Disincarnate
 ---
 #verb
-- **To divest of body; to make immaterial.**
-- **To die, in context of subsequently existing outside the body (for example, as a soul or spirit).**
+- **To [[d/_divest|divest]] of [[b/_body|body]]; to make immaterial.**
+- **To [[d/_die|die]], in [[c/_context|context]] of subsequently existing outside the [[b/_body|body]] (for example, as a soul or spirit).**
 ---
 #adjective
-- **(of a being) without a body**
+- **(of a [[b/_being|being]]) without a [[b/_body|body]]**
 ---
 ### Synonyms
-- [[[[b/_bodiless|bodiless]]]], [[incorporeal]]
+- [[bodiless]], [[incorporeal]]
 ---

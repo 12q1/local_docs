@@ -1,6 +1,6 @@
 # Applewood
 ---
 #noun
-- **The wood of the apple tree.**
+- **The wood of the [[a/_apple|apple]] tree.**
 ---
 ---

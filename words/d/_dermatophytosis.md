@@ -1,6 +1,6 @@
 # Dermatophytosis
 ---
 #noun
-- **A fungal infection of the skin caused by a dermatophyte, ringworm.**
+- **A fungal infection of the skin [[c/_caused|caused]] by a [[d/_dermatophyte|dermatophyte]], ringworm.**
 ---
 ---

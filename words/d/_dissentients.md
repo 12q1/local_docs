@@ -1,6 +1,6 @@
 # Dissentients
 ---
 #noun
-- **A dissenter.**
+- **A [[d/_dissenter|dissenter]].**
 ---
 ---

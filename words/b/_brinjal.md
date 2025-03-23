@@ -1,6 +1,6 @@
 # Brinjal
 ---
 #noun
-- **An aubergine or eggplant.**
+- **An [[a/_aubergine|aubergine]] or [[e/_eggplant|eggplant]].**
 ---
 ---

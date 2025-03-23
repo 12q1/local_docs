@@ -1,6 +1,6 @@
 # Chiastic
 ---
 #adjective
-- **Pertaining to chiasmus.**
+- **Pertaining to [[c/_chiasmus|chiasmus]].**
 ---
 ---

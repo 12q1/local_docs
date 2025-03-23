@@ -1,6 +1,6 @@
 # Carbonating
 ---
 #verb
-- **To charge (often a beverage) with carbon dioxide.**
+- **To [[c/_charge|charge]] (often a [[b/_beverage|beverage]]) with [[c/_carbon|carbon]] [[d/_dioxide|dioxide]].**
 ---
 ---

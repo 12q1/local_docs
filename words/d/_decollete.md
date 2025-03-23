@@ -1,6 +1,6 @@
 # Decollete
 ---
 #adjective
-- **Having a low-cut neckline.**
+- **Having a low-[[c/_cut|cut]] neckline.**
 ---
 ---

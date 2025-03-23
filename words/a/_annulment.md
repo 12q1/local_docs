@@ -1,12 +1,12 @@
 # Annulment
 ---
 #noun
-- **An act or instance of annulling.**
-- **The state of having been annulled.**
-- **An invalidation of something, especially a legal contract.**
-- **A legal (notably judicial) declaration that a marriage is invalid; the procedure leading to it.**
-- **Total destruction.**
+- **An [[a/_act|act]] or instance of [[a/_annulling|annulling]].**
+- **The state of having [[b/_been|been]] [[a/_annulled|annulled]].**
+- **An invalidation of something, especially a legal [[c/_contract|contract]].**
+- **A legal (notably judicial) [[d/_declaration|declaration]] that a marriage is invalid; the procedure leading to it.**
+- **Total [[d/_destruction|destruction]].**
 ---
 ### Synonyms
-- [[[[a/_abolition|abolition]]]], [[[[c/_cancellation|cancellation]]]], [[nullification]]
+- [[abolition]], [[cancellation]], [[nullification]]
 ---

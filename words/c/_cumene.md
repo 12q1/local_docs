@@ -1,8 +1,8 @@
 # Cumene
 ---
 #noun
-- **The aromatic hydrocarbon isopropyl benzene present in petroleum.**
+- **The [[a/_aromatic|aromatic]] hydrocarbon isopropyl [[b/_benzene|benzene]] present in petroleum.**
 ---
 ### Synonyms
-- [[IUPAC]], [[[[c/_cumol|cumol]]]], [[isopropylbenzene]]
+- [[IUPAC]], [[cumol]], [[isopropylbenzene]]
 ---

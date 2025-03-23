@@ -1,6 +1,6 @@
 # Dinted
 ---
 #verb
-- **To dent.**
+- **To [[d/_dent|dent]].**
 ---
 ---

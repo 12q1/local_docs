@@ -1,6 +1,6 @@
 # Burnsides
 ---
 #noun
-- **(especially in plural) A moustache, with whiskers on the cheeks but with no beard on the chin**
+- **(especially in plural) A moustache, with whiskers on the [[c/_cheeks|cheeks]] but with no [[b/_beard|beard]] on the [[c/_chin|chin]]**
 ---
 ---

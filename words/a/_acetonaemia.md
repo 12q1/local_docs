@@ -1,7 +1,7 @@
 # Acetonaemia
 ---
 #noun
-- **Presence of excessive levels of acetone in blood, sometimes occurring in cows during the first weeks after giving birth to a calf.**
+- **Presence of excessive levels of [[a/_acetone|acetone]] in [[b/_blood|blood]], sometimes occurring in [[c/_cows|cows]] [[d/_during|during]] the first weeks [[a/_after|after]] giving [[b/_birth|birth]] to a [[c/_calf|calf]].**
 ---
 ### Synonyms
 - [[ketonemia]], [[ketosis]]

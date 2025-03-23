@@ -1,11 +1,11 @@
 # Dilations
 ---
 #noun
-- **The act of dilating.**
-- **State of being dilated; expansion; dilatation.**
-- **Delay.**
-- **In morphology, a basic operation (denoted ⊕) that usually uses a structuring element for probing and expanding the shapes contained in the input image.**
+- **The [[a/_act|act]] of [[d/_dilating|dilating]].**
+- **State of [[b/_being|being]] [[d/_dilated|dilated]]; expansion; [[d/_dilatation|dilatation]].**
+- **[[d/_delay|Delay]].**
+- **In morphology, a [[b/_basic|basic]] operation ([[d/_denoted|denoted]] ⊕) that usually uses a structuring [[e/_element|element]] for probing and expanding the shapes [[c/_contained|contained]] in the input image.**
 ---
 ### Synonyms
-- [[[[c/_cunctation|cunctation]]]], [[hold-up]], [[[[d/_dilatation|dilatation]]]], [[expansion]]
+- [[cunctation]], [[hold-up]], [[dilatation]], [[expansion]]
 ---

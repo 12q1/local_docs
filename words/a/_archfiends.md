@@ -1,8 +1,8 @@
 # Archfiends
 ---
 #noun
-- **A chief fiend**
+- **A [[c/_chief|chief]] fiend**
 - **Satan**
-- **(transferred sense) A diabolically evil person.**
+- **(transferred sense) A [[d/_diabolically|diabolically]] evil person.**
 ---
 ---

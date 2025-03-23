@@ -1,6 +1,6 @@
 # Congestive
 ---
 #adjective
-- **Characterized by congestion**
+- **[[c/_characterized|Characterized]] by [[c/_congestion|congestion]]**
 ---
 ---

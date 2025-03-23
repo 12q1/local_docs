@@ -1,6 +1,6 @@
 # Bronc
 ---
 #noun
-- **A bronco.**
+- **A [[b/_bronco|bronco]].**
 ---
 ---

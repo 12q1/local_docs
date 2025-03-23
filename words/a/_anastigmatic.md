@@ -1,6 +1,6 @@
 # Anastigmatic
 ---
 #adjective
-- **(of the eye, or a lens system) Free from astigmatism**
+- **(of the [[e/_eye|eye]], or a lens system) Free from [[a/_astigmatism|astigmatism]]**
 ---
 ---

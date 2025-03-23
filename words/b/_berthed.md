@@ -1,6 +1,6 @@
 # Berthed
 ---
 #verb
-- **To bring (a ship or vehicle) into its berth**
+- **To [[b/_bring|bring]] (a ship or vehicle) into its [[b/_berth|berth]]**
 ---
 ---

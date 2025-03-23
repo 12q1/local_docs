@@ -1,7 +1,7 @@
 # Dogcarts
 ---
 #noun
-- **A cart drawn by a dog.**
-- **A two wheeled horse-drawn carriage with two transverse seats back to back. The rear seat originally closed up to form a box for carrying dogs.**
+- **A [[c/_cart|cart]] [[d/_drawn|drawn]] by a [[d/_dog|dog]].**
+- **A two wheeled horse-[[d/_drawn|drawn]] [[c/_carriage|carriage]] with two transverse seats [[b/_back|back]] to [[b/_back|back]]. The rear seat originally [[c/_closed|closed]] up to form a [[b/_box|box]] for [[c/_carrying|carrying]] [[d/_dogs|dogs]].**
 ---
 ---

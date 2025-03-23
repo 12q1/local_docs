@@ -1,16 +1,16 @@
 # Afternoon
 ---
 #noun
-- **The part of the day from noon or lunchtime until sunset, evening, or suppertime or 6pm.**
-- **The later part of anything, often with implications of decline.**
-- **A party or social event held in the afternoon.**
+- **The part of the [[d/_day|day]] from noon or lunchtime until sunset, evening, or suppertime or 6pm.**
+- **The later part of [[a/_anything|anything]], often with implications of [[d/_decline|decline]].**
+- **A party or social event held in the [[a/_afternoon|afternoon]].**
 ---
 ### Synonyms
-- [[[[a/_aft|aft]]]], [[[[a/_arvo|arvo]]]], [[undern]]
+- [[aft]], [[arvo]], [[undern]]
 #adverb
-- **(more often in the plural) In the afternoon.**
+- **(more often in the plural) In the [[a/_afternoon|afternoon]].**
 ---
 #interjection
-- **Clipping of good afternoon.**
+- **[[c/_clipping|Clipping]] of good [[a/_afternoon|afternoon]].**
 ---
 ---

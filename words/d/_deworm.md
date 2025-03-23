@@ -1,7 +1,7 @@
 # Deworm
 ---
 #verb
-- **To cause an animal to excrete any worms in the digestive tract by the administration of drugs.**
+- **To [[c/_cause|cause]] an [[a/_animal|animal]] to excrete [[a/_any|any]] worms in the [[d/_digestive|digestive]] tract by the [[a/_administration|administration]] of [[d/_drugs|drugs]].**
 	- _Example: Hey, Ethel, you know it's your turn to deworm the cat?_
 ---
 ---

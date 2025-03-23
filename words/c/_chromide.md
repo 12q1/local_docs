@@ -1,6 +1,6 @@
 # Chromide
 ---
 #noun
-- **Any of various cichlid fishes found in Asia.**
+- **[[a/_any|Any]] of various [[c/_cichlid|cichlid]] fishes found in [[a/_asia|Asia]].**
 ---
 ---

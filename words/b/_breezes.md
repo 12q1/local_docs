@@ -3,25 +3,25 @@
 #noun
 - **A light, gentle wind.**
 	- _Example: The breeze rustled the papers on her desk._
-- **Any activity that is easy, not testing or difficult.**
+- **[[a/_any|Any]] [[a/_activity|activity]] that is [[e/_easy|easy]], not testing or [[d/_difficult|difficult]].**
 	- _Example: After studying Latin, Spanish was a breeze._
-- **Wind blowing across a cricket match, whatever its strength.**
-- **Ashes and residue of coal or charcoal, usually from a furnace. See Wikipedia article on Clinker.**
-- **An excited or ruffled state of feeling; a flurry of excitement; a disturbance; a quarrel.**
+- **Wind [[b/_blowing|blowing]] [[a/_across|across]] a [[c/_cricket|cricket]] match, whatever its strength.**
+- **[[a/_ashes|Ashes]] and residue of [[c/_coal|coal]] or [[c/_charcoal|charcoal]], usually from a furnace. See Wikipedia [[a/_article|article]] on [[c/_clinker|Clinker]].**
+- **An excited or ruffled state of feeling; a flurry of excitement; a [[d/_disturbance|disturbance]]; a quarrel.**
 	- _Example: The discovery produced a breeze._
-- **A brief workout for a racehorse.**
+- **A [[b/_brief|brief]] workout for a racehorse.**
 ---
 ### Synonyms
-- [[[[c/_cakewalk|cakewalk]]]], [[[[c/_cinch|cinch]]]], [[[[d/_doddle|doddle]]]], [[piece of [[c/_cake|cake]]]], [[walk in the park]], [[walkover]]
+- [[cakewalk]], [[cinch]], [[doddle]], [[piece of cake]], [[walk in the park]], [[walkover]]
 #verb
-- **(usually with along) To move casually, in a carefree manner.**
-- **To blow gently.**
-- **To take a horse on a light run in order to understand the running characteristics of the horse and to observe it while under motion.**
+- **(usually with [[a/_along|along]]) To move [[c/_casually|casually]], in a [[c/_carefree|carefree]] manner.**
+- **To [[b/_blow|blow]] gently.**
+- **To take a horse on a light run in order to understand the running [[c/_characteristics|characteristics]] of the horse and to observe it while under motion.**
 ---
 #noun
-- **A gadfly; a horsefly; a strong-bodied dipterous insect of the family Tabanidae.**
+- **A gadfly; a horsefly; a strong-[[b/_bodied|bodied]] [[d/_dipterous|dipterous]] insect of the family Tabanidae.**
 ---
 #verb
-- **To buzz.**
+- **To [[b/_buzz|buzz]].**
 ---
 ---

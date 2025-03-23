@@ -1,6 +1,6 @@
 # Duchesse
 ---
 #noun
-- **Duchesse lace**
+- **[[d/_duchesse|Duchesse]] lace**
 ---
 ---

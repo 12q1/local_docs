@@ -1,6 +1,6 @@
 # Circumlunar
 ---
 #adjective
-- **Surrounding, or travelling around the moon**
+- **Surrounding, or travelling [[a/_around|around]] the moon**
 ---
 ---

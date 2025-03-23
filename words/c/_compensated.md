@@ -1,14 +1,14 @@
 # Compensated
 ---
 #verb
-- **To do (something good) after (something bad) happens**
-- **To pay or reward someone in exchange for work done or some other consideration.**
+- **To [[d/_do|do]] (something good) [[a/_after|after]] (something [[b/_bad|bad]]) happens**
+- **To pay or reward someone in exchange for work [[d/_done|done]] or some other [[c/_consideration|consideration]].**
 	- _Example: It is hard work, but they will compensate you well for it._
-- **To make up for; to do something in place of something else; to correct, satisfy; to reach an agreement such that the scales are literally or (metaphorically) balanced; to equalize or make even.**
+- **To make up for; to [[d/_do|do]] something in place of something [[e/_else|else]]; to [[c/_correct|correct]], satisfy; to reach an [[a/_agreement|agreement]] such that the scales are literally or (metaphorically) [[b/_balanced|balanced]]; to [[e/_equalize|equalize]] or make even.**
 	- _Example: His loud voice cannot compensate for a lack of personality._
-- **To adjust or adapt to a change, often a harm or deprivation.**
+- **To [[a/_adjust|adjust]] or [[a/_adapt|adapt]] to a [[c/_change|change]], often a harm or [[d/_deprivation|deprivation]].**
 	- _Example: I don't like driving that old car because it always steers a little to the left so I'm forever compensating for that when I drive it. Trust me, it gets annoying real fast._
 ---
 ### Synonyms
-- [[[[a/_acclimate|acclimate]]]], [[[[a/_acclimatize|acclimatize]]]], [[[[a/_accommodate|accommodate]]]], [[[[a/_accustom|accustom]]]], [[[[a/_adapt|adapt]]]], [[guerdon]], [[reimburse]], [[[[a/_accord|accord]]]], [[[[a/_amend|amend]]]], [[[[a/_appease|appease]]]], [[[[a/_atone|atone]]]], [[equate]], [[expiate]], [[harmonize]], [[indemnify]], [[level]], [[offset]], [[reconcile]], [[rectify]], [[redeem]], [[redress]], [[remedy]], [[remunerate]], [[requite]], [[resolve]], [[restitute]], [[restitution]], [[square]]
+- [[acclimate]], [[acclimatize]], [[accommodate]], [[accustom]], [[adapt]], [[guerdon]], [[reimburse]], [[accord]], [[amend]], [[appease]], [[atone]], [[equate]], [[expiate]], [[harmonize]], [[indemnify]], [[level]], [[offset]], [[reconcile]], [[rectify]], [[redeem]], [[redress]], [[remedy]], [[remunerate]], [[requite]], [[resolve]], [[restitute]], [[restitution]], [[square]]
 ---

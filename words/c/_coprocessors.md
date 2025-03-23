@@ -1,6 +1,6 @@
 # Coprocessors
 ---
 #noun
-- **An additional microprocessor used to supplement the functionality of the central processing unit, performing tasks such as floating-point arithmetic (floating-point unit) or graphics calculations (graphics processing unit).**
+- **An [[a/_additional|additional]] microprocessor used to supplement the functionality of the [[c/_central|central]] processing unit, performing tasks such as floating-point [[a/_arithmetic|arithmetic]] (floating-point unit) or graphics [[c/_calculations|calculations]] (graphics processing unit).**
 ---
 ---

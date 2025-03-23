@@ -1,10 +1,10 @@
 # Colorific
 ---
 #adjective
-- **That produces coloured precipitates**
-- **Colourful**
+- **That produces [[c/_coloured|coloured]] precipitates**
+- **[[c/_colourful|Colourful]]**
 - **Flowery; ornate**
 ---
 ### Synonyms
-- [[motley]], [[multicolored]], [[polychromatic]], [[[[e/_embellished|embellished]]]], [[flashy]], [[florid]], [[showy]]
+- [[motley]], [[multicolored]], [[polychromatic]], [[embellished]], [[flashy]], [[florid]], [[showy]]
 ---

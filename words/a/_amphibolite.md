@@ -1,6 +1,6 @@
 # Amphibolite
 ---
 #noun
-- **Any of a class of metamorphic rock composed mainly of amphibole with some quartz etc.**
+- **[[a/_any|Any]] of a [[c/_class|class]] of metamorphic rock [[c/_composed|composed]] mainly of [[a/_amphibole|amphibole]] with some quartz etc.**
 ---
 ---

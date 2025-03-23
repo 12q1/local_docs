@@ -1,9 +1,9 @@
 # Emission
 ---
 #noun
-- **Something which is emitted or sent out; issue.**
+- **Something which is [[e/_emitted|emitted]] or sent out; issue.**
 	- _Example: the emission was mostly blood_
-- **The act of emitting; the act of sending forth or putting into circulation.**
+- **The [[a/_act|act]] of [[e/_emitting|emitting]]; the [[a/_act|act]] of sending forth or putting into [[c/_circulation|circulation]].**
 	- _Example: the emission of heat from a fire_
 ---
 ### Synonyms

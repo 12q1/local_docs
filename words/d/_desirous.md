@@ -1,8 +1,8 @@
 # Desirous
 ---
 #adjective
-- **Feeling desire; eagerly wishing; eager to obtain**
+- **Feeling [[d/_desire|desire]]; [[e/_eagerly|eagerly]] wishing; [[e/_eager|eager]] to obtain**
 ---
 ### Synonyms
-- [[[[c/_covetous|covetous]]]], [[solicitous]]
+- [[covetous]], [[solicitous]]
 ---

@@ -1,6 +1,6 @@
 # Drosophilas
 ---
 #noun
-- **Any fruit fly of the genus Drosophila**
+- **[[a/_any|Any]] fruit fly of the genus [[d/_drosophila|Drosophila]]**
 ---
 ---

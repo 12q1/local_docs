@@ -1,7 +1,7 @@
 # Dewberry
 ---
 #noun
-- **Small brambles of the genus Rubus which have stems that trail along the ground.**
-- **The purple to black berries of these plants.**
+- **Small [[b/_brambles|brambles]] of the genus Rubus which have stems that trail [[a/_along|along]] the ground.**
+- **The purple to [[b/_black|black]] [[b/_berries|berries]] of these plants.**
 ---
 ---

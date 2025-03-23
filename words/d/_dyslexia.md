@@ -1,8 +1,8 @@
 # Dyslexia
 ---
 #noun
-- **A learning disability characterized by reading and writing difficulties.**
+- **A learning [[d/_disability|disability]] [[c/_characterized|characterized]] by reading and writing [[d/_difficulties|difficulties]].**
 ---
 ### Synonyms
-- [[word-[[b/_blindness|blindness]]]]
+- [[word-blindness]]
 ---

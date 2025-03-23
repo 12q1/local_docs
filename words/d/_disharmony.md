@@ -1,7 +1,7 @@
 # Disharmony
 ---
 #noun
-- **The absence of harmony or concordance.**
+- **The [[a/_absence|absence]] of harmony or [[c/_concordance|concordance]].**
 ---
 ### Synonyms
 - [[inharmony]]

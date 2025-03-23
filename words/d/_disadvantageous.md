@@ -1,6 +1,6 @@
 # Disadvantageous
 ---
 #adjective
-- **Not advantageous.**
+- **Not [[a/_advantageous|advantageous]].**
 ---
 ---

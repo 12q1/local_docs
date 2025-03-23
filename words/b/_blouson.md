@@ -1,6 +1,6 @@
 # Blouson
 ---
 #noun
-- **A garment drawn tight at the waist with blousing hanging over the waistband**
+- **A garment [[d/_drawn|drawn]] tight at the waist with [[b/_blousing|blousing]] hanging over the waistband**
 ---
 ---

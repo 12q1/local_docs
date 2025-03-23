@@ -1,6 +1,6 @@
 # Diamantine
 ---
 #adjective
-- **Adamantine**
+- **[[a/_adamantine|Adamantine]]**
 ---
 ---

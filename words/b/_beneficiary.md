@@ -1,15 +1,15 @@
 # Beneficiary
 ---
 #noun
-- **One who benefits or receives an advantage.**
+- **One who [[b/_benefits|benefits]] or receives an [[a/_advantage|advantage]].**
 	- _Example: You are the lucky beneficiary of this special offer._
-- **One who benefits from the distribution, especially of an estate.**
+- **One who [[b/_benefits|benefits]] from the [[d/_distribution|distribution]], especially of an estate.**
 	- _Example: If any beneficiary does not survive the Settlor for a period of 30 days then the Trustee shall distribute that beneficiary’s share to the surviving beneficiaries by right of representation._
-- **One who benefits from the payout of an insurance policy.**
+- **One who [[b/_benefits|benefits]] from the payout of an insurance policy.**
 ---
 #adjective
-- **Holding some office or valuable possession, in subordination to another; holding under a feudal or other superior; having a dependent and secondary possession.**
-- **Bestowed as a gratuity.**
+- **Holding some office or valuable possession, in subordination to [[a/_another|another]]; holding under a feudal or other superior; having a [[d/_dependent|dependent]] and secondary possession.**
+- **[[b/_bestowed|Bestowed]] as a gratuity.**
 	- _Example: beneficiary gifts_
 ---
 ---

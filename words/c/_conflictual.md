@@ -1,6 +1,6 @@
 # Conflictual
 ---
 #adjective
-- **Characterized by conflict**
+- **[[c/_characterized|Characterized]] by [[c/_conflict|conflict]]**
 ---
 ---

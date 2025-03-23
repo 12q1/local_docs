@@ -1,11 +1,11 @@
 # Cherubic
 ---
 #adjective
-- **Of, or relating to a cherub; angelic.**
-- **Of, or like a baby; infantile**
+- **Of, or relating to a [[c/_cherub|cherub]]; [[a/_angelic|angelic]].**
+- **Of, or like a [[b/_baby|baby]]; infantile**
 ---
 ### Synonyms
-- [[[[c/_cherubical|cherubical]]]], [[[[c/_cherublike|cherublike]]]]
+- [[cherubical]], [[cherublike]]
 ### Antonyms
 - [[uncherubic]]
 ---

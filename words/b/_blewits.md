@@ -1,6 +1,6 @@
 # Blewits
 ---
 #noun
-- **A type of edible mushroom.**
+- **A type of [[e/_edible|edible]] mushroom.**
 ---
 ---

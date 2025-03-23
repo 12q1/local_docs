@@ -1,6 +1,6 @@
 # Brewhouse
 ---
 #noun
-- **Brewery, a place where beer is made**
+- **[[b/_brewery|Brewery]], a place where [[b/_beer|beer]] is made**
 ---
 ---

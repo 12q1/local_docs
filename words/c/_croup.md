@@ -1,9 +1,9 @@
 # Croup
 ---
 #noun
-- **An infectious illness of the larynx, especially in young children, causing respiratory difficulty.**
+- **An infectious illness of the larynx, especially in young [[c/_children|children]], [[c/_causing|causing]] respiratory [[d/_difficulty|difficulty]].**
 ---
 #verb
-- **(obsolete outside dialectal) To croak, make a hoarse noise.**
+- **(obsolete outside [[d/_dialectal|dialectal]]) To [[c/_croak|croak]], make a hoarse noise.**
 ---
 ---

@@ -1,50 +1,50 @@
 # Cast
 ---
 #noun
-- **An act of throwing.**
+- **An [[a/_act|act]] of throwing.**
 - **An instance of throwing out a fishing line.**
-- **Something which has been thrown, dispersed etc.**
-- **A small mass of earth "thrown off" or excreted by a worm.**
+- **Something which has [[b/_been|been]] thrown, [[d/_dispersed|dispersed]] etc.**
+- **A small mass of [[e/_earth|earth]] "thrown off" or excreted by a worm.**
 	- _Example: The area near the stream was covered with little bubbly worm casts._
-- **The collective group of actors performing a play or production together. Contrasted with crew.**
+- **The [[c/_collective|collective]] group of [[a/_actors|actors]] performing a play or production together. [[c/_contrasted|Contrasted]] with [[c/_crew|crew]].**
 	- _Example: He’s in the cast of Oliver._
-- **The casting procedure.**
+- **The [[c/_casting|casting]] procedure.**
 	- _Example: The men got into position for the cast, two at the ladle, two with long rods, all with heavy clothing._
 - **An object made in a mould.**
 	- _Example: The cast would need a great deal of machining to become a recognizable finished part._
-- **A supportive and immobilising device used to help mend broken bones.**
+- **A supportive and immobilising [[d/_device|device]] used to help mend [[b/_broken|broken]] [[b/_bones|bones]].**
 	- _Example: The doctor put a cast on the boy’s broken arm._
-- **The mould used to make cast objects.**
+- **The mould used to make [[c/_cast|cast]] objects.**
 	- _Example: A plaster cast was made from his face._
-- **(hawking) The number of hawks (or occasionally other birds) cast off at one time; a pair.**
+- **(hawking) The number of hawks (or occasionally other [[b/_birds|birds]]) [[c/_cast|cast]] off at one time; a pair.**
 - **A squint.**
-- **Visual appearance.**
+- **Visual [[a/_appearance|appearance]].**
 	- _Example: Her features had a delicate cast to them._
 - **The form of one's thoughts, mind etc.**
 	- _Example: a cast of mind, a mental tendency._
-- **An animal, especially a horse, that is unable to rise without assistance.**
-- **Animal and insect remains which have been regurgitated by a bird.**
-- **A group of crabs.**
-- **A broadcast.**
+- **An [[a/_animal|animal]], especially a horse, that is unable to rise without [[a/_assistance|assistance]].**
+- **[[a/_animal|Animal]] and insect remains which have [[b/_been|been]] regurgitated by a [[b/_bird|bird]].**
+- **A group of [[c/_crabs|crabs]].**
+- **A [[b/_broadcast|broadcast]].**
 ---
 #verb
-- **(physical) To move, or be moved, away.**
-- **To direct (one's eyes, gaze etc.).**
-- **To add up (a column of figures, accounts etc.); cross-cast refers to adding up a row of figures.**
-- **(social) To predict, to decide, to plan.**
-- **To perform, bring forth (a magical spell or enchantment).**
-- **To throw (light etc.) on or upon something, or in a given direction.**
-- **To give birth to (a child) prematurely; to miscarry.**
+- **(physical) To move, or be moved, [[a/_away|away]].**
+- **To [[d/_direct|direct]] (one's [[e/_eyes|eyes]], gaze etc.).**
+- **To [[a/_add|add]] up (a [[c/_column|column]] of figures, [[a/_accounts|accounts]] etc.); [[c/_cross|cross]]-[[c/_cast|cast]] refers to [[a/_adding|adding]] up a row of figures.**
+- **(social) To predict, to [[d/_decide|decide]], to plan.**
+- **To perform, [[b/_bring|bring]] forth (a magical spell or [[e/_enchantment|enchantment]]).**
+- **To throw (light etc.) on or upon something, or in a given [[d/_direction|direction]].**
+- **To give [[b/_birth|birth]] to (a [[c/_child|child]]) prematurely; to miscarry.**
 - **To shape (molten metal etc.) by pouring into a mould; to make (an object) in such a way.**
 - **To twist or warp (of fabric, timber etc.).**
-- **To bring the bows of a sailing ship on to the required tack just as the anchor is weighed by use of the headsail; to bring (a ship) round.**
-- **To deposit (a ballot or voting paper); to formally register (one's vote).**
-- **To change a variable type from, for example, integer to real, or integer to text.**
+- **To [[b/_bring|bring]] the [[b/_bows|bows]] of a sailing ship on to the required tack just as the [[a/_anchor|anchor]] is weighed by use of the headsail; to [[b/_bring|bring]] (a ship) round.**
+- **To [[d/_deposit|deposit]] (a [[b/_ballot|ballot]] or voting paper); to formally register (one's vote).**
+- **To [[c/_change|change]] a variable type from, for example, integer to real, or integer to text.**
 	- _Example: Casting is generally an indication of bad design._
-- **Of dogs, hunters: to spread out and search for a scent.**
-- **To set (a bone etc.) in a cast.**
-- **To open a circle in order to begin a spell or meeting of witches.**
-- **To broadcast.**
+- **Of [[d/_dogs|dogs]], hunters: to spread out and search for a scent.**
+- **To set (a [[b/_bone|bone]] etc.) in a [[c/_cast|cast]].**
+- **To open a [[c/_circle|circle]] in order to [[b/_begin|begin]] a spell or meeting of witches.**
+- **To [[b/_broadcast|broadcast]].**
 	- _Example: The streamer was the first to cast footage of the new game._
 ---
 ---

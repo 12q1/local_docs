@@ -1,7 +1,7 @@
 # Dimps
 ---
 #noun
-- **(chiefly Manchester) A small or short cigarette.**
-- **(by extension) The butt end of a cigarette, before it has been completely smoked; a half-smoked cigarette.**
+- **([[c/_chiefly|chiefly]] Manchester) A small or short [[c/_cigarette|cigarette]].**
+- **(by extension) The [[b/_butt|butt]] [[e/_end|end]] of a [[c/_cigarette|cigarette]], [[b/_before|before]] it has [[b/_been|been]] [[c/_completely|completely]] smoked; a half-smoked [[c/_cigarette|cigarette]].**
 ---
 ---

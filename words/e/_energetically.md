@@ -1,7 +1,7 @@
 # Energetically
 ---
 #adverb
-- **In an energetic manner**
+- **In an [[e/_energetic|energetic]] manner**
 ---
 ### Synonyms
 - [[bustly]]

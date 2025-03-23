@@ -1,6 +1,6 @@
 # Culotte
 ---
 #noun
-- **Singular of culottes**
+- **Singular of [[c/_culottes|culottes]]**
 ---
 ---

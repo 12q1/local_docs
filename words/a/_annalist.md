@@ -1,6 +1,6 @@
 # Annalist
 ---
 #noun
-- **A writer of annals; a chronicler.**
+- **A writer of [[a/_annals|annals]]; a [[c/_chronicler|chronicler]].**
 ---
 ---

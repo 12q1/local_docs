@@ -1,6 +1,6 @@
 # Birchers
 ---
 #noun
-- **A person who flogs using a birch rod.**
+- **A person who flogs using a [[b/_birch|birch]] rod.**
 ---
 ---

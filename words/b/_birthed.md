@@ -1,7 +1,7 @@
 # Birthed
 ---
 #verb
-- **To bear or give birth to (a child).**
+- **To [[b/_bear|bear]] or give [[b/_birth|birth]] to (a [[c/_child|child]]).**
 - **To produce, give rise to.**
 ---
 ---

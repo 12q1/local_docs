@@ -5,5 +5,5 @@
 	- _Example: Oysters are bivalved._
 ---
 ### Synonyms
-- [[[[b/_bivalve|bivalve]]]]
+- [[bivalve]]
 ---

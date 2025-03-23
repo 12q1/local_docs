@@ -2,14 +2,14 @@
 ---
 #noun
 - **Someone of high rank, reputation or social status.**
-- **The quality or state of being eminent.**
-- **Prominence in a particular order or accumulation; esteem.**
-- **An elevated land area or a hill.**
+- **The quality or state of [[b/_being|being]] [[e/_eminent|eminent]].**
+- **Prominence in a particular order or [[a/_accumulation|accumulation]]; esteem.**
+- **An [[e/_elevated|elevated]] land [[a/_area|area]] or a hill.**
 - **A protuberance.**
-- **A dark purple color.**
+- **A [[d/_dark|dark]] purple [[c/_color|color]].**
 ---
 ### Synonyms
-- [[[[c/_celebrity|celebrity]]]], [[[[d/_distinction|distinction]]]], [[prominence]], [[renown]]
+- [[celebrity]], [[distinction]], [[prominence]], [[renown]]
 ### Antonyms
 - [[obscurity]], [[mediocrity]]
 ---

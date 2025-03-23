@@ -1,8 +1,8 @@
 # Cape
 ---
 #noun
-- **A piece or point of land, extending beyond the adjacent coast into a sea or lake; a promontory; a headland.**
+- **A piece or point of land, extending [[b/_beyond|beyond]] the [[a/_adjacent|adjacent]] [[c/_coast|coast]] into a sea or lake; a promontory; a headland.**
 ---
 ### Synonyms
-- [[[[c/_chersonese|chersonese]]]], [[peninsula]], [[point]]
+- [[chersonese]], [[peninsula]], [[point]]
 ---

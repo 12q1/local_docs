@@ -1,10 +1,10 @@
 # Antiviral
 ---
 #noun
-- **An antiviral medication.**
+- **An [[a/_antiviral|antiviral]] medication.**
 ---
 #adjective
-- **(pharmaceutical effect) Inhibiting the growth and reproduction of a virus.**
-- **Eliminating or inhibiting the action of a computer virus.**
+- **(pharmaceutical [[e/_effect|effect]]) Inhibiting the growth and reproduction of a virus.**
+- **[[e/_eliminating|Eliminating]] or inhibiting the [[a/_action|action]] of a [[c/_computer|computer]] virus.**
 ---
 ---

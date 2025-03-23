@@ -2,9 +2,9 @@
 ---
 #verb
 - **To formally revoke the validity of.**
-- **To dissolve (a marital union) on the grounds that it is not valid.**
+- **To [[d/_dissolve|dissolve]] (a marital union) on the grounds that it is not valid.**
 ---
 #noun
-- **An annulment.**
+- **An [[a/_annulment|annulment]].**
 ---
 ---

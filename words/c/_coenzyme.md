@@ -1,6 +1,6 @@
 # Coenzyme
 ---
 #noun
-- **Any small molecule that is necessary for the functioning of an enzyme.**
+- **[[a/_any|Any]] small molecule that is necessary for the functioning of an [[e/_enzyme|enzyme]].**
 ---
 ---

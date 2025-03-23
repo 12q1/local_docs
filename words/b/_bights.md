@@ -1,10 +1,10 @@
 # Bights
 ---
 #noun
-- **A corner, bend, or angle; a hollow**
+- **A [[c/_corner|corner]], [[b/_bend|bend]], or [[a/_angle|angle]]; a hollow**
 	- _Example: the bight of a horse's knee_
-- **An area of sea lying between two promontories, larger than a bay, wider than a gulf**
-- **A bend or curve in a coastline, river, or other geographical feature.**
-- **A curve in a rope**
+- **An [[a/_area|area]] of sea lying [[b/_between|between]] two promontories, larger than a [[b/_bay|bay]], wider than a gulf**
+- **A [[b/_bend|bend]] or [[c/_curve|curve]] in a [[c/_coastline|coastline]], river, or other geographical feature.**
+- **A [[c/_curve|curve]] in a rope**
 ---
 ---

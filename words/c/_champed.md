@@ -1,6 +1,6 @@
 # Champed
 ---
 #verb
-- **To bite or chew, especially noisily or impatiently.**
+- **To [[b/_bite|bite]] or [[c/_chew|chew]], especially noisily or impatiently.**
 ---
 ---

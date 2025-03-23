@@ -1,24 +1,24 @@
 # Bummed
 ---
 #verb
-- **To sodomize; to engage in anal sex.**
+- **To sodomize; to [[e/_engage|engage]] in [[a/_anal|anal]] sex.**
 ---
 #verb
-- **To ask someone to give one (something) for free; to beg for something.**
+- **To [[a/_ask|ask]] someone to give one (something) for free; to [[b/_beg|beg]] for something.**
 	- _Example: Can I bum a cigarette off you?_
 - **To stay idle and unproductive, like a hobo or vagabond; to loiter.**
 	- _Example: I think I'll just bum around downtown for awhile until dinner._
-- **To wet the end of a marijuana cigarette (spliff).**
+- **To wet the [[e/_end|end]] of a marijuana [[c/_cigarette|cigarette]] (spliff).**
 ---
 ### Synonyms
-- [[[[c/_cadge|cadge]]]]
+- [[cadge]]
 #verb
-- **To depress; to make unhappy.**
+- **To [[d/_depress|depress]]; to make unhappy.**
 ---
 #verb
 - **To make a murmuring or humming sound.**
 ---
 #adjective
-- **Depressed, disappointed, in a gloomy mood.**
+- **[[d/_depressed|Depressed]], [[d/_disappointed|disappointed]], in a gloomy mood.**
 ---
 ---

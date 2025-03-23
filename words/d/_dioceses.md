@@ -1,7 +1,7 @@
 # Dioceses
 ---
 #noun
-- **Administrative division of the later Roman Empire, starting with the tetrarchy.**
-- **Region administered by a bishop.**
+- **[[a/_administrative|Administrative]] [[d/_division|division]] of the later Roman [[e/_empire|Empire]], starting with the tetrarchy.**
+- **Region [[a/_administered|administered]] by a [[b/_bishop|bishop]].**
 ---
 ---

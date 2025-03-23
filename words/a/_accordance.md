@@ -1,9 +1,9 @@
 # Accordance
 ---
 #noun
-- **Agreement; harmony; conformity; compliance.**
-- **The act of granting something.**
+- **[[a/_agreement|Agreement]]; harmony; [[c/_conformity|conformity]]; [[c/_compliance|compliance]].**
+- **The [[a/_act|act]] of granting something.**
 ---
 ### Synonyms
-- [[[[c/_coincidence|coincidence]]]], [[harmony]], [[unison]]
+- [[coincidence]], [[harmony]], [[unison]]
 ---

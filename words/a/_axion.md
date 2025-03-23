@@ -1,6 +1,6 @@
 # Axion
 ---
 #noun
-- **A hypothetical subatomic particle postulated to resolve certain symmetry problems concerning the strong nuclear force.**
+- **A hypothetical subatomic particle postulated to resolve [[c/_certain|certain]] symmetry problems [[c/_concerning|concerning]] the strong nuclear force.**
 ---
 ---

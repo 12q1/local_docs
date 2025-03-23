@@ -1,8 +1,8 @@
 # Conscripting
 ---
 #verb
-- **To enrol(l) compulsorily; to draft; to induct.**
+- **To [[e/_enrol|enrol]](l) [[c/_compulsorily|compulsorily]]; to [[d/_draft|draft]]; to induct.**
 ---
 ### Synonyms
-- [[[[d/_draft|draft]]]], [[induct]]
+- [[draft]], [[induct]]
 ---

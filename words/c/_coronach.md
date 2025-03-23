@@ -1,7 +1,7 @@
 # Coronach
 ---
 #noun
-- **Dirge, lamentation**
+- **[[d/_dirge|Dirge]], lamentation**
 ---
 ### Synonyms
 - [[ullaloo]]

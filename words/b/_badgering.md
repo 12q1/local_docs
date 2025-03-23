@@ -1,13 +1,13 @@
 # Badgering
 ---
 #verb
-- **To pester, to annoy persistently; press.**
+- **To pester, to [[a/_annoy|annoy]] persistently; press.**
 	- _Example: He kept badgering her about her bad habits._
 - **To pass gas; to fart.**
 ---
 ### Synonyms
 - [[flatulate]]
 #noun
-- **The act of one who badgers, pesters, or annoys.**
+- **The [[a/_act|act]] of one who [[b/_badgers|badgers]], pesters, or [[a/_annoys|annoys]].**
 ---
 ---

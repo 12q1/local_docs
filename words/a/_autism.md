@@ -1,15 +1,15 @@
 # Autism
 ---
 #noun
-- **A pervasive neurological disorder that is observable in early childhood and persists throughout the lifespan, characterised by atypical communication, language development, eye contact, and sensory experiences.**
-- **(now medically obsolete) A diagnosis involving a pathological tendency to engage in self-centered fantasy thinking, historically considered a symptom of insanity and/or schizophrenia.**
-- **(4chan) Abnormal and unhealthy focus or persistence, and unhealthy hatred of opposition or criticism.**
+- **A pervasive neurological [[d/_disorder|disorder]] that is observable in [[e/_early|early]] [[c/_childhood|childhood]] and persists throughout the lifespan, [[c/_characterised|characterised]] by [[a/_atypical|atypical]] [[c/_communication|communication]], language [[d/_development|development]], [[e/_eye|eye]] [[c/_contact|contact]], and sensory experiences.**
+- **(now medically obsolete) A [[d/_diagnosis|diagnosis]] involving a pathological tendency to [[e/_engage|engage]] in self-[[c/_centered|centered]] fantasy thinking, historically [[c/_considered|considered]] a symptom of insanity and/or schizophrenia.**
+- **(4chan) [[a/_abnormal|Abnormal]] and unhealthy focus or persistence, and unhealthy hatred of opposition or [[c/_criticism|criticism]].**
 ---
 ### Synonyms
-- [[[[a/_autistic|autistic]] spectrum]]
+- [[autistic spectrum]]
 #noun
-- **The range of conditions classified as pervasive developmental disorders, generally held to include autistic disorder, Asperger syndrome, and pervasive developmental disorder - not otherwise specified (PDD-NOS). Also includes childhood disintegrative disorder and Rett syndrome.**
+- **The range of [[c/_conditions|conditions]] [[c/_classified|classified]] as pervasive [[d/_developmental|developmental]] [[d/_disorders|disorders]], generally held to include [[a/_autistic|autistic]] [[d/_disorder|disorder]], [[a/_asperger|Asperger]] syndrome, and pervasive [[d/_developmental|developmental]] [[d/_disorder|disorder]] - not otherwise specified (PDD-NOS). [[a/_also|Also]] includes [[c/_childhood|childhood]] [[d/_disintegrative|disintegrative]] [[d/_disorder|disorder]] and Rett syndrome.**
 ---
 ### Synonyms
-- [[[[a/_autistic|autistic]] spectrum]]
+- [[autistic spectrum]]
 ---

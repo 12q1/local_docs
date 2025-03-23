@@ -1,6 +1,6 @@
 # Calzone
 ---
 #noun
-- **A baked Italian turnover made of pizza dough and stuffed with cheese and other toppings.**
+- **A [[b/_baked|baked]] Italian turnover made of pizza [[d/_dough|dough]] and stuffed with [[c/_cheese|cheese]] and other toppings.**
 ---
 ---

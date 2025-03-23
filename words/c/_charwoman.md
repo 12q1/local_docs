@@ -1,8 +1,8 @@
 # Charwoman
 ---
 #noun
-- **A woman employed to do housework, traditionally coming and going on a daily basis and paid weekly wages.**
+- **A woman [[e/_employed|employed]] to [[d/_do|do]] housework, traditionally [[c/_coming|coming]] and going on a [[d/_daily|daily]] [[b/_basis|basis]] and paid weekly wages.**
 ---
 ### Synonyms
-- [[[[c/_cinderella|Cinderella]]]], [[[[c/_charlady|charlady]]]], [[[[c/_cleaning|cleaning]]]], [[woman]]
+- [[Cinderella]], [[charlady]], [[cleaning]], [[woman]]
 ---

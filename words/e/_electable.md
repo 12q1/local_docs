@@ -1,9 +1,9 @@
 # Electable
 ---
 #noun
-- **A person who is able or fit to be elected to office.**
+- **A person who is [[a/_able|able]] or fit to be [[e/_elected|elected]] to office.**
 ---
 #adjective
-- **Able to be elected to office**
+- **[[a/_able|Able]] to be [[e/_elected|elected]] to office**
 ---
 ---

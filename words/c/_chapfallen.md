@@ -1,6 +1,6 @@
 # Chapfallen
 ---
 #adjective
-- **Crestfallen, dejected.**
+- **[[c/_crestfallen|Crestfallen]], [[d/_dejected|dejected]].**
 ---
 ---

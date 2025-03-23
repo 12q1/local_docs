@@ -2,6 +2,6 @@
 ---
 #noun
 - **A scuffle or fight.**
-- **(by extension) An argument or dispute.**
+- **(by extension) An [[a/_argument|argument]] or [[d/_dispute|dispute]].**
 ---
 ---

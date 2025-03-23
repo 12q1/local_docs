@@ -1,6 +1,6 @@
 # Brewmaster
 ---
 #noun
-- **A person in charge of beer production at a brewery**
+- **A person in [[c/_charge|charge]] of [[b/_beer|beer]] production at a [[b/_brewery|brewery]]**
 ---
 ---

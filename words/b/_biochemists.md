@@ -1,6 +1,6 @@
 # Biochemists
 ---
 #noun
-- **A chemist whose speciality is biochemistry**
+- **A [[c/_chemist|chemist]] whose speciality is [[b/_biochemistry|biochemistry]]**
 ---
 ---

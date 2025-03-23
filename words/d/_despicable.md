@@ -4,10 +4,10 @@
 - **A wretched or wicked person.**
 ---
 #adjective
-- **Fit or deserving to be despised; contemptible; mean**
+- **Fit or [[d/_deserving|deserving]] to be [[d/_despised|despised]]; [[c/_contemptible|contemptible]]; mean**
 ---
 ### Synonyms
-- [[[[c/_contemptible|contemptible]]]], [[evil]], [[mean]], [[vile]]
+- [[contemptible]], [[evil]], [[mean]], [[vile]]
 ### Antonyms
 - [[honorable]]
 ---

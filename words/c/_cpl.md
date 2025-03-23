@@ -2,13 +2,13 @@
 ---
 #noun
 - **Two partners in a romantic or sexual relationship.**
-- **Two of the same kind connected or considered together.**
+- **Two of the same kind [[c/_connected|connected]] or [[c/_considered|considered]] together.**
 - **A small number.**
-- **One of the pairs of plates of two metals which compose a voltaic battery, called a voltaic couple or galvanic couple.**
-- **Two forces that are equal in magnitude but opposite in direction (and acting along parallel lines), thus creating the turning effect of a torque or moment.**
-- **A couple-close.**
-- **That which joins or links two things together; a bond or tie; a coupler.**
+- **One of the pairs of plates of two metals which [[c/_compose|compose]] a voltaic [[b/_battery|battery]], [[c/_called|called]] a voltaic [[c/_couple|couple]] or galvanic [[c/_couple|couple]].**
+- **Two forces that are [[e/_equal|equal]] in magnitude but opposite in [[d/_direction|direction]] (and [[a/_acting|acting]] [[a/_along|along]] parallel lines), thus [[c/_creating|creating]] the turning [[e/_effect|effect]] of a torque or moment.**
+- **A [[c/_couple|couple]]-[[c/_close|close]].**
+- **That which joins or links two things together; a [[b/_bond|bond]] or tie; a [[c/_coupler|coupler]].**
 ---
 ### Synonyms
-- [[few]], [[handful]], [[[[b/_brace|brace]]]], [[pair]]
+- [[few]], [[handful]], [[brace]], [[pair]]
 ---

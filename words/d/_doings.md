@@ -1,9 +1,9 @@
 # Doings
 ---
 #noun
-- **A deed or action, especially when somebody is held responsible for it.**
+- **A [[d/_deed|deed]] or [[a/_action|action]], especially when somebody is held responsible for it.**
 	- _Example: This is his doing. (= "He did it.")_
 ---
 ### Synonyms
-- [[[[a/_act|act]]]]
+- [[act]]
 ---

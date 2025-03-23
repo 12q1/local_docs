@@ -1,6 +1,6 @@
 # Appreciable
 ---
 #adjective
-- **Large enough to be estimated; perceptible; considerable.**
+- **Large [[e/_enough|enough]] to be estimated; perceptible; [[c/_considerable|considerable]].**
 ---
 ---

@@ -1,8 +1,8 @@
 # Curation
 ---
 #noun
-- **The act of curating, of organizing and maintaining a collection of artworks or artifacts.**
-- **The act of curing or healing.**
-- **The manual updating of information in a database.**
+- **The [[a/_act|act]] of curating, of organizing and maintaining a [[c/_collection|collection]] of [[a/_artworks|artworks]] or [[a/_artifacts|artifacts]].**
+- **The [[a/_act|act]] of [[c/_curing|curing]] or healing.**
+- **The manual updating of information in a [[d/_database|database]].**
 ---
 ---

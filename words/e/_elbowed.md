@@ -1,12 +1,12 @@
 # Elbowed
 ---
 #verb
-- **To push with the elbow.**
+- **To push with the [[e/_elbow|elbow]].**
 	- _Example: He elbowed his way through the crowd._
 - **(by extension) To nudge, jostle or push.**
 ---
 #adjective
-- **Having bends or corners.**
-- **(in combination) Having some specific type of elbow**
+- **Having [[b/_bends|bends]] or [[c/_corners|corners]].**
+- **(in [[c/_combination|combination]]) Having some specific type of [[e/_elbow|elbow]]**
 ---
 ---

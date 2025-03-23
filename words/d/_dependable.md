@@ -4,7 +4,7 @@
 - **A reliable person or thing.**
 ---
 #adjective
-- **Able, or easily able to be depended on.**
+- **[[a/_able|Able]], or [[e/_easily|easily]] [[a/_able|able]] to be [[d/_depended|depended]] on.**
 	- _Example: He was a very dependable person._
 ---
 ---

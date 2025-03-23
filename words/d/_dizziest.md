@@ -5,7 +5,7 @@
 	- _Example: I stood up too fast and felt dizzy._
 - **Producing giddiness.**
 	- _Example: We climbed to a dizzy height._
-- **Empty-headed, scatterbrained or frivolous; ditzy.**
+- **[[e/_empty|Empty]]-headed, scatterbrained or frivolous; ditzy.**
 	- _Example: My new secretary is a dizzy blonde._
 ---
 ---

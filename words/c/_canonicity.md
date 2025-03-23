@@ -1,6 +1,6 @@
 # Canonicity
 ---
 #noun
-- **The degree to which something is canonical.**
+- **The [[d/_degree|degree]] to which something is [[c/_canonical|canonical]].**
 ---
 ---

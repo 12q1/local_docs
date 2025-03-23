@@ -1,8 +1,8 @@
 # Beechnuts
 ---
 #noun
-- **The small, triangular, edible nut of the beech tree.**
+- **The small, triangular, [[e/_edible|edible]] nut of the [[b/_beech|beech]] tree.**
 ---
 ### Synonyms
-- [[[[b/_beech|beech]] mast]]
+- [[beech mast]]
 ---

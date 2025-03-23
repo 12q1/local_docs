@@ -1,7 +1,7 @@
 # Disendows
 ---
 #verb
-- **To deprive of an endowment.**
+- **To [[d/_deprive|deprive]] of an [[e/_endowment|endowment]].**
 	- _Example: to disendow a church_
 ---
 ---

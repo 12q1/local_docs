@@ -1,6 +1,6 @@
 # Electrocorticogram
 ---
 #noun
-- **A record of the electrical activity of the brain obtained through electrodes in direct contact with the exposed cerebral cortex**
+- **A record of the [[e/_electrical|electrical]] [[a/_activity|activity]] of the [[b/_brain|brain]] obtained through [[e/_electrodes|electrodes]] in [[d/_direct|direct]] [[c/_contact|contact]] with the exposed [[c/_cerebral|cerebral]] [[c/_cortex|cortex]]**
 ---
 ---

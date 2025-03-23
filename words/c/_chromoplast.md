@@ -1,6 +1,6 @@
 # Chromoplast
 ---
 #noun
-- **Any plastid in which a pigment is synthesized or stored**
+- **[[a/_any|Any]] plastid in which a pigment is synthesized or stored**
 ---
 ---

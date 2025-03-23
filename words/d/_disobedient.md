@@ -1,7 +1,7 @@
 # Disobedient
 ---
 #noun
-- **One who disobeys.**
+- **One who [[d/_disobeys|disobeys]].**
 ---
 #adjective
 - **Not obedient.**

@@ -1,6 +1,6 @@
 # Acidheads
 ---
 #noun
-- **A person who uses the hallucinogenic drug LSD.**
+- **A person who uses the hallucinogenic [[d/_drug|drug]] LSD.**
 ---
 ---

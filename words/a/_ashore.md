@@ -6,5 +6,5 @@
 	- _Example: The canoe sailed ashore._
 ---
 ### Synonyms
-- [[[[a/_aland|aland]]]]
+- [[aland]]
 ---

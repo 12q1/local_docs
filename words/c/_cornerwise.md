@@ -1,6 +1,6 @@
 # Cornerwise
 ---
 #adverb
-- **Diagonally.**
+- **[[d/_diagonally|Diagonally]].**
 ---
 ---

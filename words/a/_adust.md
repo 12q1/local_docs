@@ -1,8 +1,8 @@
 # Adust
 ---
 #adjective
-- **(usually postpositive, of a bodily humour) Abnormally dark or over-concentrated; associated with various states of discomfort or illness (specifically being too hot or dry).**
-- **(by extension) Hot and dry; thirsty or parched.**
-- **Burnt or having a scorched color.**
+- **(usually postpositive, of a [[b/_bodily|bodily]] humour) [[a/_abnormally|Abnormally]] [[d/_dark|dark]] or over-[[c/_concentrated|concentrated]]; [[a/_associated|associated]] with various states of [[d/_discomfort|discomfort]] or illness (specifically [[b/_being|being]] too hot or [[d/_dry|dry]]).**
+- **(by extension) Hot and [[d/_dry|dry]]; thirsty or parched.**
+- **[[b/_burnt|Burnt]] or having a scorched [[c/_color|color]].**
 ---
 ---

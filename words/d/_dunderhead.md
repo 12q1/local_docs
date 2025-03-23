@@ -1,6 +1,6 @@
 # Dunderhead
 ---
 #noun
-- **(somewhat obsolete) A stupid person; a dunce.**
+- **(somewhat obsolete) A stupid person; a [[d/_dunce|dunce]].**
 ---
 ---

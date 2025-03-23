@@ -1,13 +1,13 @@
 # Attitudinizing
 ---
 #verb
-- **To assume an affected, unnatural exaggerated attitude or pose.**
-- **To cause to assume a pose.**
-- **To give the appearance of, make a show of by posing.**
+- **To [[a/_assume|assume]] an [[a/_affected|affected]], unnatural exaggerated [[a/_attitude|attitude]] or pose.**
+- **To [[c/_cause|cause]] to [[a/_assume|assume]] a pose.**
+- **To give the [[a/_appearance|appearance]] of, make a show of by posing.**
 ---
 ### Synonyms
 - [[posturize]]
 #noun
-- **The act of one who attitudinizes; affected posturing.**
+- **The [[a/_act|act]] of one who [[a/_attitudinizes|attitudinizes]]; [[a/_affected|affected]] posturing.**
 ---
 ---

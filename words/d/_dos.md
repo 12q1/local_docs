@@ -1,20 +1,20 @@
 # Dos
 ---
 #noun
-- **A party, celebration, social function.**
+- **A party, [[c/_celebration|celebration]], social function.**
 	- _Example: We’re having a bit of a do on Saturday to celebrate my birthday._
 - **A hairdo.**
 	- _Example: Nice do!_
-- **Something that can or should be done (usually in the phrase dos and don'ts).**
-- **A deed; an act.**
-- **Ado; bustle; stir; to-do; A period of confusion or argument.**
-- **A cheat; a swindler.**
-- **An act of swindling; a fraud or deception.**
+- **Something that [[c/_can|can]] or should be [[d/_done|done]] (usually in the phrase [[d/_dos|dos]] and [[d/_don|don]]'ts).**
+- **A [[d/_deed|deed]]; an [[a/_act|act]].**
+- **[[a/_ado|Ado]]; [[b/_bustle|bustle]]; stir; to-[[d/_do|do]]; A period of [[c/_confusion|confusion]] or [[a/_argument|argument]].**
+- **A [[c/_cheat|cheat]]; a swindler.**
+- **An [[a/_act|act]] of swindling; a fraud or [[d/_deception|deception]].**
 ---
 ### Synonyms
-- [[get-together]], [[to-[[d/_do|do]]]]
+- [[get-together]], [[to-do]]
 #noun
-- **A syllable used in solfège to represent the first and eighth tonic of a major scale.**
+- **A syllable used in solfège to represent the first and [[e/_eighth|eighth]] tonic of a major scale.**
 ---
 ### Synonyms
 - [[ut]]

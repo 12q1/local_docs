@@ -1,8 +1,8 @@
 # Chancel
 ---
 #noun
-- **The space around the altar in a church, often enclosed, for use by the clergy and the choir. In medieval cathedrals the chancel was usually enclosed or blocked off from the nave by an altar screen.**
+- **The space [[a/_around|around]] the [[a/_altar|altar]] in a [[c/_church|church]], often [[e/_enclosed|enclosed]], for use by the [[c/_clergy|clergy]] and the [[c/_choir|choir]]. In medieval [[c/_cathedrals|cathedrals]] the [[c/_chancel|chancel]] was usually [[e/_enclosed|enclosed]] or [[b/_blocked|blocked]] off from the nave by an [[a/_altar|altar]] screen.**
 ---
 ### Synonyms
-- [[[[a/_apse|apse]]]], [[presbytery]], [[sanctuary]]
+- [[apse]], [[presbytery]], [[sanctuary]]
 ---

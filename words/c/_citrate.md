@@ -1,9 +1,9 @@
 # Citrate
 ---
 #noun
-- **Any salt or ester of citric acid.**
+- **[[a/_any|Any]] salt or ester of [[c/_citric|citric]] [[a/_acid|acid]].**
 ---
 #verb
-- **To cause to form citrate.**
+- **To [[c/_cause|cause]] to form [[c/_citrate|citrate]].**
 ---
 ---

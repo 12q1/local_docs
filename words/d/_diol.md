@@ -1,6 +1,6 @@
 # Diol
 ---
 #noun
-- **Any organic compound having two hydroxy functional groups**
+- **[[a/_any|Any]] organic [[c/_compound|compound]] having two hydroxy functional groups**
 ---
 ---

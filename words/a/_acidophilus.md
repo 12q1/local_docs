@@ -1,6 +1,6 @@
 # Acidophilus
 ---
 #noun
-- **Lactobacillus acidophilus, one of the bacteria commonly used in fermenting yogurt**
+- **Lactobacillus [[a/_acidophilus|acidophilus]], one of the [[b/_bacteria|bacteria]] [[c/_commonly|commonly]] used in fermenting yogurt**
 ---
 ---

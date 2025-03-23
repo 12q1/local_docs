@@ -1,8 +1,8 @@
 # Asystole
 ---
 #noun
-- **Absence of systole; failure of the heart to contract.**
+- **[[a/_absence|Absence]] of systole; failure of the heart to [[c/_contract|contract]].**
 ---
 ### Synonyms
-- [[[[c/_cardiac|cardiac]] [[a/_arrest|arrest]]]], [[[[c/_cardiopulmonary|cardiopulmonary]] [[a/_arrest|arrest]]]], [[flatline]]
+- [[cardiac arrest]], [[cardiopulmonary arrest]], [[flatline]]
 ---

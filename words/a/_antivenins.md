@@ -1,9 +1,9 @@
 # Antivenins
 ---
 #noun
-- **An antitoxin for treating bites from venomous animals as such as snakes and spiders.**
-- **A serum containing antivenins.**
+- **An [[a/_antitoxin|antitoxin]] for treating [[b/_bites|bites]] from venomous [[a/_animals|animals]] as such as snakes and spiders.**
+- **A serum [[c/_containing|containing]] [[a/_antivenins|antivenins]].**
 ---
 ### Synonyms
-- [[[[a/_anti|anti]]-venene]], [[[[a/_antivenene|antivenene]]]], [[[[a/_anti|anti]]-venom]], [[[[a/_antivenom|antivenom]]]]
+- [[anti-venene]], [[antivenene]], [[anti-venom]], [[antivenom]]
 ---

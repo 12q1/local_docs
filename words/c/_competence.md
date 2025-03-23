@@ -1,16 +1,16 @@
 # Competence
 ---
 #noun
-- **The quality or state of being competent, i.e. able or suitable for a general role.**
-- **The quality or state of being able or suitable for a particular task; the quality or state of being competent for a particular task.**
-- **The system of linguistic knowledge possessed by native speakers of a language, as opposed to its actual use in concrete situations (performance), cf. :w:linguistic competence.**
+- **The quality or state of [[b/_being|being]] [[c/_competent|competent]], i.[[e/_e|e]]. [[a/_able|able]] or suitable for a general role.**
+- **The quality or state of [[b/_being|being]] [[a/_able|able]] or suitable for a particular task; the quality or state of [[b/_being|being]] [[c/_competent|competent]] for a particular task.**
+- **The system of linguistic knowledge possessed by native speakers of a language, as opposed to its [[a/_actual|actual]] use in [[c/_concrete|concrete]] situations (performance), [[c/_cf|cf]]. :w:linguistic [[c/_competence|competence]].**
 - **A sustainable income.**
-- **The legal authority to deal with a matter.**
+- **The legal [[a/_authority|authority]] to [[d/_deal|deal]] with a matter.**
 	- _Example: That question is out with the competence of this court and must be taken to a higher court._
-- **The degree to which a rock is resistant to deformation or flow.**
+- **The [[d/_degree|degree]] to which a rock is resistant to [[d/_deformation|deformation]] or flow.**
 ---
 ### Synonyms
-- [[[[a/_ability|ability]]]], [[[[a/_aptitude|aptitude]]]], [[[[c/_competency|competency]]]], [[knack]], [[nous]], [[savoir-faire]]
+- [[ability]], [[aptitude]], [[competency]], [[knack]], [[nous]], [[savoir-faire]]
 ### Antonyms
 - [[inability]], [[incompetence]], [[ineptitude]]
 ---

@@ -1,6 +1,6 @@
 # Congeries
 ---
 #noun
-- **A collection or aggregation of disparate items.**
+- **A [[c/_collection|collection]] or [[a/_aggregation|aggregation]] of [[d/_disparate|disparate]] items.**
 ---
 ---

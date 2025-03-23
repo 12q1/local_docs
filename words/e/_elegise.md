@@ -1,8 +1,8 @@
 # Elegise
 ---
 #verb
-- **To compose an elegy for.**
-- **To compose an elegy.**
-- **To praise, as if in an elegy.**
+- **To [[c/_compose|compose]] an [[e/_elegy|elegy]] for.**
+- **To [[c/_compose|compose]] an [[e/_elegy|elegy]].**
+- **To praise, as if in an [[e/_elegy|elegy]].**
 ---
 ---

@@ -1,8 +1,8 @@
 # Characterized
 ---
 #verb
-- **To depict someone or something a particular way (often negative).**
+- **To [[d/_depict|depict]] someone or something a particular way (often negative).**
 - **To be typical of.**
-- **To determine the characteristics of.**
+- **To [[d/_determine|determine]] the [[c/_characteristics|characteristics]] of.**
 ---
 ---

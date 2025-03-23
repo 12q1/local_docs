@@ -1,6 +1,6 @@
 # Centesimo
 ---
 #noun
-- **A unit of currency constituting one hundredth of a lira.**
+- **A unit of [[c/_currency|currency]] [[c/_constituting|constituting]] one hundredth of a lira.**
 ---
 ---

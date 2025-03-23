@@ -1,52 +1,52 @@
 # Beat
 ---
 #noun
-- **A stroke; a blow.**
+- **A stroke; a [[b/_blow|blow]].**
 - **A pulsation or throb.**
 	- _Example: a beat of the heart; the beat of the pulse_
-- **A pulse on the beat level, the metric level at which pulses are heard as the basic unit. Thus a beat is the basic time unit of a piece.**
+- **A pulse on the [[b/_beat|beat]] level, the metric level at which pulses are heard as the [[b/_basic|basic]] unit. Thus a [[b/_beat|beat]] is the [[b/_basic|basic]] time unit of a piece.**
 - **A rhythm.**
-- **The interference between two tones of almost equal frequency**
-- **(authorship) A short pause in a play, screenplay, or teleplay, for dramatic or comedic effect; a plot point or story development.**
+- **The interference [[b/_between|between]] two tones of [[a/_almost|almost]] [[e/_equal|equal]] frequency**
+- **([[a/_authorship|authorship]]) A short pause in a play, screenplay, or teleplay, for [[d/_dramatic|dramatic]] or [[c/_comedic|comedic]] [[e/_effect|effect]]; a plot point or story [[d/_development|development]].**
 - **The route patrolled by a police officer or a guard.**
-- **(by extension) An area of a person's responsibility, especially**
-- **An act of reporting news or scientific results before a rival; a scoop.**
-- **That which beats, or surpasses, another or others.**
+- **(by extension) An [[a/_area|area]] of a person's responsibility, especially**
+- **An [[a/_act|act]] of reporting news or scientific results [[b/_before|before]] a rival; a scoop.**
+- **That which [[b/_beats|beats]], or surpasses, [[a/_another|another]] or others.**
 	- _Example: the beat of him_
 - **A precinct.**
 - **A place of habitual or frequent resort.**
-- **A low cheat or swindler.**
+- **A low [[c/_cheat|cheat]] or swindler.**
 	- _Example: a dead beat_
 - **The instrumental portion of a piece of hip-hop music.**
-- **The act of scouring, or ranging over, a tract of land to rouse or drive out game; also, those so engaged, collectively.**
-- **A smart tap on the adversary's blade.**
+- **The [[a/_act|act]] of scouring, or ranging over, a tract of land to rouse or [[d/_drive|drive]] out game; [[a/_also|also]], those so [[e/_engaged|engaged]], [[c/_collectively|collectively]].**
+- **A smart tap on the [[a/_adversary|adversary]]'s [[b/_blade|blade]].**
 ---
 #verb
 - **To hit; strike**
 	- _Example: As soon as she heard that her father had died, she went into a rage and beat the wall with her fists until her knuckles bled._
 - **To strike or pound repeatedly, usually in some sort of rhythm.**
 	- _Example: He danced hypnotically while she beat the atabaque._
-- **To strike repeatedly; to inflict repeated blows; to knock vigorously or loudly.**
+- **To strike repeatedly; to inflict repeated [[b/_blows|blows]]; to knock vigorously or loudly.**
 - **To move with pulsation or throbbing.**
-- **To win against; to defeat or overcome; to do better than, outdo, or excel (someone) in a particular, competitive event.**
+- **To win [[a/_against|against]]; to [[d/_defeat|defeat]] or overcome; to [[d/_do|do]] [[b/_better|better]] than, outdo, or excel (someone) in a particular, [[c/_competitive|competitive]] event.**
 	- _Example: I just can't seem to beat the last level of this video game._
-- **To sail to windward using a series of alternate tacks across the wind.**
-- **To strike (water, foliage etc.) in order to drive out game; to travel through (a forest etc.) for hunting.**
-- **To mix food in a rapid fashion. Compare whip.**
+- **To sail to windward using a series of [[a/_alternate|alternate]] tacks [[a/_across|across]] the wind.**
+- **To strike (water, foliage etc.) in order to [[d/_drive|drive]] out game; to travel through (a forest etc.) for hunting.**
+- **To mix food in a rapid fashion. [[c/_compare|Compare]] whip.**
 	- _Example: Beat the eggs and whip the cream._
-- **(In haggling for a price) of a buyer, to persuade the seller to reduce a price**
+- **(In haggling for a price) of a [[b/_buyer|buyer]], to persuade the seller to reduce a price**
 	- _Example: He wanted $50 for it, but I managed to beat him down to $35._
-- **To indicate by beating or drumming.**
+- **To indicate by [[b/_beating|beating]] or [[d/_drumming|drumming]].**
 	- _Example: to beat a retreat; to beat to quarters_
 - **To tread, as a path.**
 - **To exercise severely; to perplex; to trouble.**
-- **To be in agitation or doubt.**
+- **To be in [[a/_agitation|agitation]] or [[d/_doubt|doubt]].**
 - **To make a sound when struck.**
 	- _Example: The drums beat._
-- **To make a succession of strokes on a drum.**
+- **To make a succession of strokes on a [[d/_drum|drum]].**
 	- _Example: The drummers beat to call soldiers to their quarters._
-- **To sound with more or less rapid alternations of greater and less intensity, so as to produce a pulsating effect; said of instruments, tones, or vibrations, not perfectly in unison.**
-- **To arrive at a place before someone.**
+- **To sound with more or less rapid [[a/_alternations|alternations]] of greater and less intensity, so as to produce a pulsating [[e/_effect|effect]]; said of instruments, tones, or vibrations, not perfectly in unison.**
+- **To [[a/_arrive|arrive]] at a place [[b/_before|before]] someone.**
 	- _Example: He beat me there._
 - **To have sexual intercourse.**
 	- _Example: Bruv, she came in just as we started to beat._
@@ -54,15 +54,15 @@
 	- _Example: He beat me out of 12 bucks last night._
 ---
 ### Synonyms
-- [[[[d/_do|do]] it]], [[get it on]], [[have sex]], [[shag]], [[hammer]], [[knock]], [[pound]], [[strike]], [[whack]], [[negotiate]]
+- [[do it]], [[get it on]], [[have sex]], [[shag]], [[hammer]], [[knock]], [[pound]], [[strike]], [[whack]], [[negotiate]]
 #adjective
 - **Exhausted**
 	- _Example: After the long day, she was feeling completely beat._
-- **Dilapidated, beat up**
+- **[[d/_dilapidated|Dilapidated]], [[b/_beat|beat]] up**
 	- _Example: Dude, you drive a beat car like that and you ain’t gonna get no honeys._
 - **Fabulous**
 	- _Example: Her makeup was beat!_
-- **Boring**
+- **[[b/_boring|Boring]]**
 - **(of a person) ugly**
 ---
 ### Synonyms

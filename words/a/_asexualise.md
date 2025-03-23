@@ -1,6 +1,6 @@
 # Asexualise
 ---
 #verb
-- **To make asexual.**
+- **To make [[a/_asexual|asexual]].**
 ---
 ---

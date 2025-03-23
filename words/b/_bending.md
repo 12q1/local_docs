@@ -1,36 +1,36 @@
 # Bending
 ---
 #verb
-- **To cause (something) to change its shape into a curve, by physical force, chemical action, or any other means.**
+- **To [[c/_cause|cause]] (something) to [[c/_change|change]] its shape into a [[c/_curve|curve]], by physical force, [[c/_chemical|chemical]] [[a/_action|action]], or [[a/_any|any]] other means.**
 	- _Example: Don’t bend your knees._
-- **To become curved.**
+- **To [[b/_become|become]] [[c/_curved|curved]].**
 	- _Example: Look at the trees bending in the wind._
-- **To cause to change direction.**
-- **To change direction.**
+- **To [[c/_cause|cause]] to [[c/_change|change]] [[d/_direction|direction]].**
+- **To [[c/_change|change]] [[d/_direction|direction]].**
 	- _Example: The road bends to the right_
-- **To be inclined; to direct itself.**
-- **(usually with "down") To stoop.**
+- **To be inclined; to [[d/_direct|direct]] itself.**
+- **(usually with "[[d/_down|down]]") To stoop.**
 	- _Example: He bent down to pick up the pieces._
-- **To bow in prayer, or in token of submission.**
+- **To [[b/_bow|bow]] in prayer, or in token of submission.**
 - **To force to submit.**
 	- _Example: They bent me to their will._
 - **To submit.**
 	- _Example: I am bending to my desire to eat junk food._
-- **To apply to a task or purpose.**
+- **To [[a/_apply|apply]] to a task or purpose.**
 	- _Example: He bent the company's resources to gaining market share._
-- **To apply oneself to a task or purpose.**
+- **To [[a/_apply|apply]] oneself to a task or purpose.**
 	- _Example: He bent to the goal of gaining market share._
-- **To adapt or interpret to for a purpose or beneficiary.**
-- **To tie, as in securing a line to a cleat; to shackle a chain to an anchor; make fast.**
+- **To [[a/_adapt|adapt]] or interpret to for a purpose or [[b/_beneficiary|beneficiary]].**
+- **To tie, as in securing a line to a [[c/_cleat|cleat]]; to shackle a [[c/_chain|chain]] to an [[a/_anchor|anchor]]; make fast.**
 	- _Example: Bend the sail to the yard._
-- **To smoothly change the pitch of a note.**
+- **To smoothly [[c/_change|change]] the pitch of a note.**
 	- _Example: You should bend the G slightly sharp in the next measure._
-- **To swing the body when rowing.**
+- **To swing the [[b/_body|body]] when rowing.**
 ---
 #noun
-- **A motion or action that bends.**
+- **A motion or [[a/_action|action]] that [[b/_bends|bends]].**
 	- _Example: a bending of the knees_
-- **An instance of something being adapted or distorted.**
+- **An instance of something [[b/_being|being]] [[a/_adapted|adapted]] or [[d/_distorted|distorted]].**
 	- _Example: bendings of the rules_
 ---
 ---

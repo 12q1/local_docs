@@ -1,6 +1,6 @@
 # Echolocation
 ---
 #noun
-- **The use of echoes to detect objects as observed in bats and other natural creatures. Also known as biosonar.**
+- **The use of [[e/_echoes|echoes]] to [[d/_detect|detect]] objects as observed in [[b/_bats|bats]] and other natural [[c/_creatures|creatures]]. [[a/_also|Also]] known as biosonar.**
 ---
 ---

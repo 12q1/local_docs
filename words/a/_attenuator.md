@@ -1,6 +1,6 @@
 # Attenuator
 ---
 #noun
-- **Any device that attenuates a signal, but especially an electronic device that reduces the amplitude of a signal**
+- **[[a/_any|Any]] [[d/_device|device]] that [[a/_attenuates|attenuates]] a signal, but especially an [[e/_electronic|electronic]] [[d/_device|device]] that reduces the [[a/_amplitude|amplitude]] of a signal**
 ---
 ---

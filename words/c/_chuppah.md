@@ -1,7 +1,7 @@
 # Chuppah
 ---
 #noun
-- **The canopy over a Jewish couple during their marriage ceremony.**
-- **A marriage ceremony, wedding.**
+- **The [[c/_canopy|canopy]] over a Jewish [[c/_couple|couple]] [[d/_during|during]] their marriage [[c/_ceremony|ceremony]].**
+- **A marriage [[c/_ceremony|ceremony]], wedding.**
 ---
 ---

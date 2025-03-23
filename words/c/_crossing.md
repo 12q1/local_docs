@@ -1,26 +1,26 @@
 # Crossing
 ---
 #verb
-- **To make or form a cross.**
+- **To make or form a [[c/_cross|cross]].**
 - **To move relatively.**
 - **(social) To oppose.**
-- **To cross-fertilize or crossbreed.**
+- **To [[c/_cross|cross]]-fertilize or [[c/_crossbreed|crossbreed]].**
 	- _Example: They managed to cross a sheep with a goat._
-- **To stamp or mark (a cheque) in such a way as to prevent it being cashed, thus requiring it to be deposited into a bank account.**
+- **To stamp or mark (a [[c/_cheque|cheque]]) in such a way as to prevent it [[b/_being|being]] [[c/_cashed|cashed]], thus requiring it to be [[d/_deposited|deposited]] into a [[b/_bank|bank]] [[a/_account|account]].**
 ---
 ### Synonyms
-- [[[[c/_cross|cross]]-fertilize]], [[[[c/_crossbreed|crossbreed]]]]
+- [[cross-fertilize]], [[crossbreed]]
 #noun
-- **An intersection where roads, lines, or tracks cross.**
-- **A place at which a river, railroad, or highway may be crossed.**
-- **The act by which terrain or a road etc. is crossed.**
-- **A voyage across a body of water**
-- **The volume formed by the intersection of chancel, nave and transepts in a cruciform church; often with a tower or cupola over it**
-- **Movement into a crossed position.**
-- **A pair of intersecting edges.**
-- **A pair of parallel lines printed on a cheque**
+- **An intersection where roads, lines, or tracks [[c/_cross|cross]].**
+- **A place at which a river, railroad, or highway may be [[c/_crossed|crossed]].**
+- **The [[a/_act|act]] by which terrain or a road etc. is [[c/_crossed|crossed]].**
+- **A voyage [[a/_across|across]] a [[b/_body|body]] of water**
+- **The volume formed by the intersection of [[c/_chancel|chancel]], nave and transepts in a [[c/_cruciform|cruciform]] [[c/_church|church]]; often with a tower or [[c/_cupola|cupola]] over it**
+- **Movement into a [[c/_crossed|crossed]] position.**
+- **A pair of intersecting [[e/_edges|edges]].**
+- **A pair of parallel lines printed on a [[c/_cheque|cheque]]**
 ---
 #adjective
-- **Extending or lying across; in a crosswise direction.**
+- **Extending or lying [[a/_across|across]]; in a [[c/_crosswise|crosswise]] [[d/_direction|direction]].**
 ---
 ---

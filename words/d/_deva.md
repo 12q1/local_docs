@@ -1,6 +1,6 @@
 # Deva
 ---
 #noun
-- **A god in Vedic mythology, Hinduism and Buddhism.**
+- **A god in Vedic mythology, Hinduism and [[b/_buddhism|Buddhism]].**
 ---
 ---

@@ -1,8 +1,8 @@
 # Anathematized
 ---
 #verb
-- **To cause to be, or to declare as, an anathema or evil.**
+- **To [[c/_cause|cause]] to be, or to [[d/_declare|declare]] as, an [[a/_anathema|anathema]] or evil.**
 ---
 ### Synonyms
-- [[[[c/_condemn|condemn]]]], [[[[d/_damn|damn]]]], [[[[d/_deprecate|deprecate]]]], [[excoriate]], [[vilify]]
+- [[condemn]], [[damn]], [[deprecate]], [[excoriate]], [[vilify]]
 ---

@@ -1,8 +1,8 @@
 # Diversification
 ---
 #noun
-- **The act, or the result, of diversifying.**
-- **A corporate strategy in which a company acquires or establishes a business other than that of its current product.**
-- **An investment strategy involving investing in a range of assets with differing features in order to reduce specific risk.**
+- **The [[a/_act|act]], or the result, of [[d/_diversifying|diversifying]].**
+- **A [[c/_corporate|corporate]] strategy in which a [[c/_company|company]] [[a/_acquires|acquires]] or establishes a [[b/_business|business]] other than that of its [[c/_current|current]] product.**
+- **An investment strategy involving investing in a range of [[a/_assets|assets]] with [[d/_differing|differing]] features in order to reduce specific risk.**
 ---
 ---

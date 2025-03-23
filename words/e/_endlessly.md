@@ -1,8 +1,8 @@
 # Endlessly
 ---
 #adverb
-- **In an endless manner; continuously without limit.**
+- **In an [[e/_endless|endless]] manner; [[c/_continuously|continuously]] without limit.**
 ---
 ### Synonyms
-- [[[[c/_ceaselessly|ceaselessly]]]], [[incessantly]], [[nonstop]]
+- [[ceaselessly]], [[incessantly]], [[nonstop]]
 ---

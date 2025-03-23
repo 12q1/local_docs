@@ -1,6 +1,6 @@
 # Basketmaker
 ---
 #noun
-- **A person who weaves baskets.**
+- **A person who weaves [[b/_baskets|baskets]].**
 ---
 ---

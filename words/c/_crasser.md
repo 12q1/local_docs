@@ -1,11 +1,11 @@
 # Crasser
 ---
 #adjective
-- **Coarse; crude; unrefined or insensitive; lacking discrimination**
+- **[[c/_coarse|Coarse]]; [[c/_crude|crude]]; unrefined or insensitive; lacking [[d/_discrimination|discrimination]]**
 - **Materialistic**
-- **Dense**
-- **Lacking finesse; crude and obvious.**
+- **[[d/_dense|Dense]]**
+- **Lacking finesse; [[c/_crude|crude]] and obvious.**
 ---
 ### Antonyms
-- [[[[d/_delicate|delicate]]]], [[refined]], [[sensitive]]
+- [[delicate]], [[refined]], [[sensitive]]
 ---

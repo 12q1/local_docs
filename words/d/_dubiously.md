@@ -1,7 +1,7 @@
 # Dubiously
 ---
 #adverb
-- **In a dubious manner.**
-- **Accompanied by doubt, or anxious uncertainty.**
+- **In a [[d/_dubious|dubious]] manner.**
+- **[[a/_accompanied|Accompanied]] by [[d/_doubt|doubt]], or [[a/_anxious|anxious]] uncertainty.**
 ---
 ---

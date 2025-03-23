@@ -1,19 +1,19 @@
 # Dedicate
 ---
 #verb
-- **To set apart for a deity or for religious purposes; consecrate.**
-- **To set apart for a special use**
+- **To set [[a/_apart|apart]] for a [[d/_deity|deity]] or for religious purposes; [[c/_consecrate|consecrate]].**
+- **To set [[a/_apart|apart]] for a special use**
 	- _Example: dedicated their money to scientific research._
-- **To commit (oneself) to a particular course of thought or action**
+- **To [[c/_commit|commit]] (oneself) to a particular [[c/_course|course]] of thought or [[a/_action|action]]**
 	- _Example: dedicated ourselves to starting our own business._
-- **To address or inscribe (a literary work, for example) to another as a mark of respect or affection.**
-- **To open (a building, for example) to public use.**
+- **To [[a/_address|address]] or inscribe (a literary work, for example) to [[a/_another|another]] as a mark of respect or [[a/_affection|affection]].**
+- **To open (a [[b/_building|building]], for example) to public use.**
 - **To show to the public for the first time**
 	- _Example: dedicate a monument._
 ---
 ### Synonyms
-- [[[[d/_devote|devote]]]], [[[[a/_allocate|allocate]]]], [[[[e/_earmark|earmark]]]], [[[[b/_behallow|behallow]]]], [[hallow]]
+- [[devote]], [[allocate]], [[earmark]], [[behallow]], [[hallow]]
 #adjective
-- **Dedicated; set apart; devoted; consecrated.**
+- **[[d/_dedicated|Dedicated]]; set [[a/_apart|apart]]; [[d/_devoted|devoted]]; [[c/_consecrated|consecrated]].**
 ---
 ---

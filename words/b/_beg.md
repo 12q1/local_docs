@@ -1,19 +1,19 @@
 # Beg
 ---
 #noun
-- **The act of begging; an imploring request.**
+- **The [[a/_act|act]] of [[b/_begging|begging]]; an imploring request.**
 ---
 #verb
 - **To request the help of someone, often in the form of money.**
 	- _Example: He begged on the street corner from passers-by._
-- **To plead with someone for help, a favor, etc.; to entreat.**
+- **To plead with someone for help, a favor, etc.; to [[e/_entreat|entreat]].**
 	- _Example: He begged her to go to the prom with him._
-- **In the phrase beg the question: to assume.**
-- **In the phrase beg the question: to raise (a question).**
-- **To ask to be appointed guardian for, or to ask to have a guardian appointed for.**
+- **In the phrase [[b/_beg|beg]] the question: to [[a/_assume|assume]].**
+- **In the phrase [[b/_beg|beg]] the question: to raise (a question).**
+- **To [[a/_ask|ask]] to be [[a/_appointed|appointed]] guardian for, or to [[a/_ask|ask]] to have a guardian [[a/_appointed|appointed]] for.**
 ---
 ### Synonyms
 - [[supplicate]]
 ### Antonyms
-- [[set [[a/_aside|aside]]]]
+- [[set aside]]
 ---

@@ -1,6 +1,6 @@
 # Cooeed
 ---
 #verb
-- **To make such a call.**
+- **To make such a [[c/_call|call]].**
 ---
 ---

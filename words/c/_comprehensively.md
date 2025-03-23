@@ -1,8 +1,8 @@
 # Comprehensively
 ---
 #adverb
-- **In a comprehensive manner; in an all-inclusive or wide-ranging fashion.**
+- **In a [[c/_comprehensive|comprehensive]] manner; in an [[a/_all|all]]-inclusive or wide-ranging fashion.**
 ---
 ### Synonyms
-- [[[[c/_completely|completely]]]], [[exhaustively]], [[thoroughly]], [[totally]]
+- [[completely]], [[exhaustively]], [[thoroughly]], [[totally]]
 ---

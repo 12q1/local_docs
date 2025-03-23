@@ -1,7 +1,7 @@
 # Consciously
 ---
 #adverb
-- **In a conscious manner; knowingly, volitionally.**
+- **In a [[c/_conscious|conscious]] manner; knowingly, volitionally.**
 ---
 ### Antonyms
 - [[subconsciously]], [[unconsciously]]

@@ -10,6 +10,6 @@
 ### Synonyms
 - [[junk]], [[rubbish]]
 #verb
-- **To remove dross from.**
+- **To remove [[d/_dross|dross]] from.**
 ---
 ---

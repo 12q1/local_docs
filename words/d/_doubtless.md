@@ -1,12 +1,12 @@
 # Doubtless
 ---
 #adjective
-- **Characterized by or experiencing no doubt at all, certain; undoubted; undoubting.**
+- **[[c/_characterized|Characterized]] by or experiencing no [[d/_doubt|doubt]] at [[a/_all|all]], [[c/_certain|certain]]; undoubted; undoubting.**
 - **Free from fear or suspicion.**
 ---
 #adverb
-- **Without doubt; very probably, in all likelihood; doubtlessly.**
+- **Without [[d/_doubt|doubt]]; very probably, in [[a/_all|all]] likelihood; [[d/_doubtlessly|doubtlessly]].**
 ---
 ### Synonyms
-- [[indisputably]], [[indubitably]], [[undoubtedly]], [[unquestionably]], [[without a [[d/_doubt|doubt]]]]
+- [[indisputably]], [[indubitably]], [[undoubtedly]], [[unquestionably]], [[without a doubt]]
 ---

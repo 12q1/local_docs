@@ -1,7 +1,7 @@
 # Dimercaprol
 ---
 #noun
-- **The mercaptan 2,3-dimercaptopropanol used as an antidote to arsenic poisoning.**
+- **The mercaptan 2,3-dimercaptopropanol used as an [[a/_antidote|antidote]] to [[a/_arsenic|arsenic]] poisoning.**
 ---
 ### Synonyms
 - [[antilewisite]]

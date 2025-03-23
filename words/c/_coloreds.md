@@ -1,7 +1,7 @@
 # Coloreds
 ---
 #noun
-- **A colored person.**
-- **(laundry) A colored article of clothing.**
+- **A [[c/_colored|colored]] person.**
+- **(laundry) A [[c/_colored|colored]] [[a/_article|article]] of [[c/_clothing|clothing]].**
 ---
 ---

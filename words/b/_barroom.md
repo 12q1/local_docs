@@ -1,6 +1,6 @@
 # Barroom
 ---
 #noun
-- **A room where alcoholic drinks are served over a counter.**
+- **A room where [[a/_alcoholic|alcoholic]] [[d/_drinks|drinks]] are served over a [[c/_counter|counter]].**
 ---
 ---

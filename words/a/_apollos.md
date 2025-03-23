@@ -2,6 +2,6 @@
 ---
 #noun
 - **A very handsome young man.**
-- **Any of several papilionid butterflies of the genus Parnassius, especially Parnassius apollo of Eurasia (also known as the mountain apollo).**
+- **[[a/_any|Any]] of several papilionid [[b/_butterflies|butterflies]] of the genus Parnassius, especially Parnassius [[a/_apollo|apollo]] of Eurasia ([[a/_also|also]] known as the mountain [[a/_apollo|apollo]]).**
 ---
 ---

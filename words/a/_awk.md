@@ -2,10 +2,10 @@
 ---
 #adjective
 - **Odd; out of order; perverse.**
-- **Wrong, or not commonly used; clumsy; sinister**
+- **Wrong, or not [[c/_commonly|commonly]] used; [[c/_clumsy|clumsy]]; sinister**
 	- _Example: the awk end of a rod (the butt end)._
-- **Clumsy in performance or manners; not dexterous; awkward.**
-- **(of a situation) Awkward; uncomfortable.**
+- **[[c/_clumsy|Clumsy]] in performance or manners; not [[d/_dexterous|dexterous]]; [[a/_awkward|awkward]].**
+- **(of a situation) [[a/_awkward|Awkward]]; uncomfortable.**
 ---
 ### Synonyms
 - [[unhandy]]

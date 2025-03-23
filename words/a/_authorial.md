@@ -1,8 +1,8 @@
 # Authorial
 ---
 #adjective
-- **Of, coming from, or typical of an author (especially of books).**
+- **Of, [[c/_coming|coming]] from, or typical of an [[a/_author|author]] (especially of [[b/_books|books]]).**
 ---
 ### Synonyms
-- [[[[a/_auctorial|auctorial]]]], [[autorial]]
+- [[auctorial]], [[autorial]]
 ---

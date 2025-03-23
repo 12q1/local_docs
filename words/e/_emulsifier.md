@@ -1,9 +1,9 @@
 # Emulsifier
 ---
 #noun
-- **A substance that helps an emulsion form, or helps keep an emulsion from separating.**
+- **A substance that helps an [[e/_emulsion|emulsion]] form, or helps keep an [[e/_emulsion|emulsion]] from separating.**
 	- _Example: The lecithin in egg yolks is often used as an emulsifier._
 ---
 ### Antonyms
-- [[[[d/_de|de]]-[[e/_emulsifier|emulsifier]]]]
+- [[de-emulsifier]]
 ---

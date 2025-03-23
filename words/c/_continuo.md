@@ -1,6 +1,6 @@
 # Continuo
 ---
 #noun
-- **The bass line of music, especially for a keyboard instrument, that continues throughout a work; basso continuo.**
+- **The [[b/_bass|bass]] line of music, especially for a keyboard instrument, that [[c/_continues|continues]] throughout a work; [[b/_basso|basso]] [[c/_continuo|continuo]].**
 ---
 ---

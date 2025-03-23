@@ -1,6 +1,6 @@
 # Constructively
 ---
 #adverb
-- **In a constructive manner**
+- **In a [[c/_constructive|constructive]] manner**
 ---
 ---

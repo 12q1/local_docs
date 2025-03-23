@@ -1,9 +1,9 @@
 # Colonic
 ---
 #noun
-- **An enema.**
+- **An [[e/_enema|enema]].**
 ---
 #adjective
-- **Of, relating to, affecting or within the colon.**
+- **Of, relating to, [[a/_affecting|affecting]] or within the [[c/_colon|colon]].**
 ---
 ---

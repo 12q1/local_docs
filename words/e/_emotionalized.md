@@ -1,7 +1,7 @@
 # Emotionalized
 ---
 #verb
-- **To give something an emotional quality.**
-- **To make an emotional display.**
+- **To give something an [[e/_emotional|emotional]] quality.**
+- **To make an [[e/_emotional|emotional]] [[d/_display|display]].**
 ---
 ---

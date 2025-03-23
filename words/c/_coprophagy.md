@@ -1,7 +1,7 @@
 # Coprophagy
 ---
 #noun
-- **The eating of feces.**
+- **The [[e/_eating|eating]] of feces.**
 ---
 ### Synonyms
 - [[scatophagy]]

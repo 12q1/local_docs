@@ -1,19 +1,19 @@
 # Boo
 ---
 #noun
-- **A derisive shout made to indicate disapproval.**
+- **A [[d/_derisive|derisive]] shout made to indicate [[d/_disapproval|disapproval]].**
 ---
 #verb
-- **To shout extended boos derisively.**
+- **To shout extended [[b/_boos|boos]] [[d/_derisively|derisively]].**
 	- _Example: When he took the podium, the crowd booed._
-- **To shout extended boos at, as a form of derision.**
+- **To shout extended [[b/_boos|boos]] at, as a form of [[d/_derision|derision]].**
 	- _Example: The protesters loudly booed the visiting senator._
 ---
 ### Antonyms
-- [[[[c/_cheer|cheer]]]]
+- [[cheer]]
 #interjection
-- **A loud exclamation intended to scare someone, especially a child. Usually used when one has been hidden from the victim and then suddenly appeared unexpectedly.**
+- **A loud exclamation intended to scare someone, especially a [[c/_child|child]]. Usually used when one has [[b/_been|been]] hidden from the victim and then suddenly [[a/_appeared|appeared]] unexpectedly.**
 - **Used ironically in a situation where one had the opportunity to scare someone by speaking suddenly.**
-- **An exclamation used by a member or many members of an audience, as at a stage play or sports game, to indicate derision or disapproval of what has just occurred.**
+- **An exclamation used by a member or many members of an [[a/_audience|audience]], as at a stage play or sports game, to indicate [[d/_derision|derision]] or [[d/_disapproval|disapproval]] of what has just occurred.**
 ---
 ---

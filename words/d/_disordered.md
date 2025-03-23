@@ -1,11 +1,11 @@
 # Disordered
 ---
 #verb
-- **To throw into a state of disorder.**
+- **To throw into a state of [[d/_disorder|disorder]].**
 - **To knock out of order or sequence.**
 ---
 #adjective
-- **Chaotic; without clear order; in a state of disorder.**
-- **Deranged.**
+- **[[c/_chaotic|Chaotic]]; without [[c/_clear|clear]] order; in a state of [[d/_disorder|disorder]].**
+- **[[d/_deranged|Deranged]].**
 ---
 ---

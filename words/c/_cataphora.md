@@ -1,8 +1,8 @@
 # Cataphora
 ---
 #noun
-- **The use of a pronoun, or other linguistic unit, before the noun phrase to which it refers, sometimes used for rhetorical effect.**
+- **The use of a pronoun, or other linguistic unit, [[b/_before|before]] the noun phrase to which it refers, sometimes used for rhetorical [[e/_effect|effect]].**
 ---
 ### Antonyms
-- [[[[a/_anaphora|anaphora]]]]
+- [[anaphora]]
 ---

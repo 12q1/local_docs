@@ -1,6 +1,6 @@
 # Dybbuks
 ---
 #noun
-- **A malicious possessing spirit, believed to be the dislocated soul of a dead person.**
+- **A malicious possessing spirit, [[b/_believed|believed]] to be the [[d/_dislocated|dislocated]] soul of a [[d/_dead|dead]] person.**
 ---
 ---

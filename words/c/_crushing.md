@@ -1,33 +1,33 @@
 # Crushing
 ---
 #verb
-- **To press between two hard objects; to squeeze so as to alter the natural shape or integrity of it, or to force together into a mass.**
+- **To press [[b/_between|between]] two hard objects; to squeeze so as to [[a/_alter|alter]] the natural shape or integrity of it, or to force together into a mass.**
 	- _Example: to crush grapes_
 - **To reduce to fine particles by pounding or grinding**
 	- _Example: to crush quartz_
 - **To overwhelm by pressure or weight.**
 	- _Example: After the corruption scandal, the opposition crushed the ruling party in the elections_
-- **To oppress or grievously burden.**
-- **To overcome completely; to subdue totally.**
+- **To oppress or grievously [[b/_burden|burden]].**
+- **To overcome [[c/_completely|completely]]; to subdue totally.**
 	- _Example: The sultan's black guard crushed every resistance bloodily._
-- **To be or become broken down or in, or pressed into a smaller compass, by external weight or force**
+- **To be or [[b/_become|become]] [[b/_broken|broken]] [[d/_down|down]] or in, or pressed into a smaller [[c/_compass|compass]], by external weight or force**
 	- _Example: an eggshell crushes easily_
 - **To feel infatuation or unrequited love.**
 	- _Example: She's crushing on him._
-- **To give a compressed or foreshortened appearance to.**
+- **To give a [[c/_compressed|compressed]] or foreshortened [[a/_appearance|appearance]] to.**
 ---
 ### Synonyms
-- [[[[c/_comminute|comminute]]]]
+- [[comminute]]
 #noun
-- **The action of the verb to crush.**
+- **The [[a/_action|action]] of the verb to [[c/_crush|crush]].**
 - **A former method of execution by placing heavy weights on the victim.**
-- **(in the plural) crushed material**
+- **(in the plural) [[c/_crushed|crushed]] material**
 	- _Example: oilseed crushings_
 ---
 #adjective
-- **That crushes; overwhelming.**
+- **That [[c/_crushes|crushes]]; overwhelming.**
 	- _Example: a crushing defeat_
-- **Devastatingly disheartening.**
+- **[[d/_devastatingly|Devastatingly]] [[d/_disheartening|disheartening]].**
 	- _Example: Oh, your dog has leukemia? That’s crushing._
 ---
 ### Synonyms

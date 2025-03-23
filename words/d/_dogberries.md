@@ -1,7 +1,7 @@
 # Dogberries
 ---
 #noun
-- **The berry of the dogwood.**
-- **Clintonia borealis**
+- **The [[b/_berry|berry]] of the [[d/_dogwood|dogwood]].**
+- **[[c/_clintonia|Clintonia]] [[b/_borealis|borealis]]**
 ---
 ---

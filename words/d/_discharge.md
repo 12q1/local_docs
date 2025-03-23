@@ -1,40 +1,40 @@
 # Discharge
 ---
 #noun
-- **Pus or exudate (other than blood) from a wound or orifice, usually due to infection or pathology.**
-- **The act of accomplishing (an obligation) or repaying a debt etc.; performance.**
-- **The act of expelling or letting go.**
-- **The act of firing a projectile, especially from a firearm.**
+- **Pus or exudate (other than [[b/_blood|blood]]) from a wound or orifice, usually [[d/_due|due]] to infection or pathology.**
+- **The [[a/_act|act]] of [[a/_accomplishing|accomplishing]] (an obligation) or repaying a [[d/_debt|debt]] etc.; performance.**
+- **The [[a/_act|act]] of expelling or letting go.**
+- **The [[a/_act|act]] of firing a projectile, especially from a firearm.**
 - **The process of unloading something.**
 - **The process of flowing out.**
-- **The act of releasing an accumulated charge.**
-- **The act of releasing an inpatient from hospital.**
-- **The act of releasing a member of the armed forces from service.**
-- **The volume of water transported by a river in a certain amount of time, usually in units of m3/s (cubic meters per second).**
+- **The [[a/_act|act]] of releasing an [[a/_accumulated|accumulated]] [[c/_charge|charge]].**
+- **The [[a/_act|act]] of releasing an inpatient from hospital.**
+- **The [[a/_act|act]] of releasing a member of the [[a/_armed|armed]] forces from service.**
+- **The volume of water transported by a river in a [[c/_certain|certain]] [[a/_amount|amount]] of time, usually in units of m3/s ([[c/_cubic|cubic]] meters per second).**
 ---
 ### Synonyms
 - [[firing]]
 #verb
-- **To accomplish or complete, as an obligation.**
-- **To free of a debt, claim, obligation, responsibility, accusation, etc.; to absolve; to acquit; to forgive; to clear.**
-- **To send away (a creditor) satisfied by payment; to pay one's debt or obligation to.**
-- **To set aside; to annul; to dismiss.**
+- **To [[a/_accomplish|accomplish]] or [[c/_complete|complete]], as an obligation.**
+- **To free of a [[d/_debt|debt]], [[c/_claim|claim]], obligation, responsibility, [[a/_accusation|accusation]], etc.; to [[a/_absolve|absolve]]; to [[a/_acquit|acquit]]; to forgive; to [[c/_clear|clear]].**
+- **To send [[a/_away|away]] (a [[c/_creditor|creditor]]) satisfied by payment; to pay one's [[d/_debt|debt]] or obligation to.**
+- **To set [[a/_aside|aside]]; to [[a/_annul|annul]]; to [[d/_dismiss|dismiss]].**
 - **To expel or let go.**
 - **To let fly, as a missile; to shoot.**
-- **To release (an accumulated charge).**
-- **To relieve of an office or employment; to send away from service; to dismiss.**
-- **To release legally from confinement; to set at liberty.**
+- **To release (an [[a/_accumulated|accumulated]] [[c/_charge|charge]]).**
+- **To relieve of an office or [[e/_employment|employment]]; to send [[a/_away|away]] from service; to [[d/_dismiss|dismiss]].**
+- **To release legally from [[c/_confinement|confinement]]; to set at liberty.**
 	- _Example: to discharge a prisoner_
-- **To operate (any weapon that fires a projectile, such as a shotgun or sling).**
-- **To release (an auxiliary assumption) from the list of assumptions used in arguments, and return to the main argument.**
-- **To unload a ship or another means of transport.**
-- **To put forth, or remove, as a charge or burden; to take out, as that with which anything is loaded or filled.**
+- **To operate ([[a/_any|any]] weapon that fires a projectile, such as a shotgun or sling).**
+- **To release (an [[a/_auxiliary|auxiliary]] [[a/_assumption|assumption]]) from the list of [[a/_assumptions|assumptions]] used in [[a/_arguments|arguments]], and return to the main [[a/_argument|argument]].**
+- **To unload a ship or [[a/_another|another]] means of transport.**
+- **To put forth, or remove, as a [[c/_charge|charge]] or [[b/_burden|burden]]; to take out, as that with which [[a/_anything|anything]] is loaded or filled.**
 	- _Example: to discharge a cargo_
-- **To give forth; to emit or send out.**
+- **To give forth; to [[e/_emit|emit]] or send out.**
 	- _Example: A pipe discharges water._
 - **To let fly; to give expression to; to utter.**
 	- _Example: He discharged a horrible oath._
-- **To bleach out or to remove or efface, as by a chemical process.**
+- **To [[b/_bleach|bleach]] out or to remove or [[e/_efface|efface]], as by a [[c/_chemical|chemical]] process.**
 	- _Example: to discharge the colour from a dyed fabric in order to form light figures on a dark background_
 - **To prohibit; to forbid.**
 ---

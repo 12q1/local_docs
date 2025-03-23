@@ -1,10 +1,10 @@
 # Differentials
 ---
 #noun
-- **The differential gear in an automobile etc**
-- **A qualitative or quantitative difference between similar or comparable things**
-- **An infinitesimal change in a variable, or the result of differentiation**
-- **One of two coils of conducting wire so related to one another or to a magnet or armature common to both, that one coil produces polar action contrary to that of the other.**
-- **A form of conductor used for dividing and distributing the current to a series of electric lamps so as to maintain equal action in all.**
+- **The [[d/_differential|differential]] gear in an [[a/_automobile|automobile]] etc**
+- **A qualitative or quantitative [[d/_difference|difference]] [[b/_between|between]] similar or [[c/_comparable|comparable]] things**
+- **An infinitesimal [[c/_change|change]] in a variable, or the result of [[d/_differentiation|differentiation]]**
+- **One of two [[c/_coils|coils]] of [[c/_conducting|conducting]] wire so related to one [[a/_another|another]] or to a magnet or [[a/_armature|armature]] [[c/_common|common]] to [[b/_both|both]], that one [[c/_coil|coil]] produces polar [[a/_action|action]] [[c/_contrary|contrary]] to that of the other.**
+- **A form of [[c/_conductor|conductor]] used for [[d/_dividing|dividing]] and [[d/_distributing|distributing]] the [[c/_current|current]] to a series of [[e/_electric|electric]] lamps so as to maintain [[e/_equal|equal]] [[a/_action|action]] in [[a/_all|all]].**
 ---
 ---

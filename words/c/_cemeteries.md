@@ -1,6 +1,6 @@
 # Cemeteries
 ---
 #noun
-- **A place where the dead are buried; a graveyard or memorial park.**
+- **A place where the [[d/_dead|dead]] are [[b/_buried|buried]]; a graveyard or memorial park.**
 ---
 ---

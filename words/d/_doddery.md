@@ -1,6 +1,6 @@
 # Doddery
 ---
 #adjective
-- **Doddering, trembly, shaky.**
+- **[[d/_doddering|Doddering]], trembly, shaky.**
 ---
 ---

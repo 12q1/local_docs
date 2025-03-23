@@ -1,8 +1,8 @@
 # Digitalizing
 ---
 #verb
-- **To digitize, to make digital.**
+- **To [[d/_digitize|digitize]], to make [[d/_digital|digital]].**
 ---
 ### Synonyms
-- [[[[d/_digitize|digitize]]]]
+- [[digitize]]
 ---

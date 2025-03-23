@@ -1,8 +1,8 @@
 # Disorganization
 ---
 #noun
-- **The act of disorganizing; destruction of system.**
-- **The state of being disorganized**
+- **The [[a/_act|act]] of [[d/_disorganizing|disorganizing]]; [[d/_destruction|destruction]] of system.**
+- **The state of [[b/_being|being]] [[d/_disorganized|disorganized]]**
 	- _Example: the disorganization of the body, or of government_
 ---
 ---

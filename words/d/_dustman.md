@@ -1,8 +1,8 @@
 # Dustman
 ---
 #noun
-- **A person employed to collect refuse from people's homes and take it to be processed.**
+- **A person [[e/_employed|employed]] to [[c/_collect|collect]] refuse from people's homes and take it to be processed.**
 ---
 ### Synonyms
-- [[[[b/_bin|bin]] man]], [[garbage [[c/_collector|collector]]]], [[garbage man]], [[garbo]], [[refuse [[c/_collector|collector]]]], [[sanitation [[e/_engineer|engineer]]]], [[trashman]]
+- [[bin man]], [[garbage collector]], [[garbage man]], [[garbo]], [[refuse collector]], [[sanitation engineer]], [[trashman]]
 ---

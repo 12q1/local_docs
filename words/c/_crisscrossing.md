@@ -1,10 +1,10 @@
 # Crisscrossing
 ---
 #verb
-- **To move back and forth over (something).**
-- **To mark (something) with crossed lines.**
+- **To move [[b/_back|back]] and forth over (something).**
+- **To mark (something) with [[c/_crossed|crossed]] lines.**
 ---
 #noun
-- **A crisscross pattern.**
+- **A [[c/_crisscross|crisscross]] pattern.**
 ---
 ---

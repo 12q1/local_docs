@@ -1,6 +1,6 @@
 # Cashbook
 ---
 #noun
-- **A book used to record amounts of money received or paid out.**
+- **A [[b/_book|book]] used to record [[a/_amounts|amounts]] of money received or paid out.**
 ---
 ---

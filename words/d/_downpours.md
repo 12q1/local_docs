@@ -5,5 +5,5 @@
 	- _Example: They got caught in a downpour without an umbrella and came back soaked._
 ---
 ### Synonyms
-- [[[[c/_cloudburst|cloudburst]]]], [[[[d/_deluge|deluge]]]], [[inundation]], [[monsoon]], [[rain]], [[rainstorm]], [[storm]], [[torrent]], [[wet]]
+- [[cloudburst]], [[deluge]], [[inundation]], [[monsoon]], [[rain]], [[rainstorm]], [[storm]], [[torrent]], [[wet]]
 ---

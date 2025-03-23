@@ -2,12 +2,12 @@
 ---
 #noun
 - **Hearsay, rumour; talk; an instance of this.**
-- **A clamour, an outcry; a noise.**
+- **A [[c/_clamour|clamour]], an outcry; a noise.**
 ---
 #verb
-- **To disseminate, promulgate, or spread news, a rumour, etc.**
+- **To [[d/_disseminate|disseminate]], promulgate, or spread news, a rumour, etc.**
 ---
 #noun
-- **An abnormal sound in the body heard on auscultation (for example, through using a stethoscope); a murmur.**
+- **An [[a/_abnormal|abnormal]] sound in the [[b/_body|body]] heard on [[a/_auscultation|auscultation]] (for example, through using a stethoscope); a murmur.**
 ---
 ---

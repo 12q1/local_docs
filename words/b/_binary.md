@@ -1,31 +1,31 @@
 # Binary
 ---
 #noun
-- **A thing which can have only (one or the other of) two values.**
-- **The bijective base-2 numeral system, which uses only the digits 0 and 1.**
-- **An executable computer file.**
-- **A satellite system consisting of two stars or other bodies orbiting each other.**
+- **A thing which [[c/_can|can]] have only (one or the other of) two values.**
+- **The [[b/_bijective|bijective]] [[b/_base|base]]-2 numeral system, which uses only the [[d/_digits|digits]] 0 and 1.**
+- **An executable [[c/_computer|computer]] file.**
+- **A satellite system [[c/_consisting|consisting]] of two stars or other [[b/_bodies|bodies]] orbiting [[e/_each|each]] other.**
 ---
 ### Synonyms
-- [[[[b/_base|base]] 2]], [[[[b/_binary|binary]] star]], [[[[d/_double|double]] star]]
+- [[base 2]], [[binary star]], [[double star]]
 ### Antonyms
-- [[non-[[b/_binary|binary]]]]
+- [[non-binary]]
 #adjective
-- **Being in a state of one of two mutually exclusive conditions such as on or off, true or false, molten or frozen, presence or absence of a signal.**
+- **[[b/_being|Being]] in a state of one of two mutually exclusive [[c/_conditions|conditions]] such as on or off, true or false, molten or frozen, presence or [[a/_absence|absence]] of a signal.**
 	- _Example: Binary states are often represented as 1 and 0 in computer science._
-- **Concerning logic whose subject matter concerns binary states.**
-- **Concerning numbers and calculations using the binary number system.**
-- **Having two equally important parts; related to something with two parts.**
+- **[[c/_concerning|Concerning]] logic whose subject matter [[c/_concerns|concerns]] [[b/_binary|binary]] states.**
+- **[[c/_concerning|Concerning]] numbers and [[c/_calculations|calculations]] using the [[b/_binary|binary]] number system.**
+- **Having two [[e/_equally|equally]] important parts; related to something with two parts.**
 	- _Example: A binary statistical distribution has only two categories._
-- **(computer engineering) Of an operation, function, procedure or logic gate, taking exactly two operands, arguments, parameters or inputs; having domain of dimension 2.**
+- **([[c/_computer|computer]] [[e/_engineering|engineering]]) Of an operation, function, procedure or logic gate, taking exactly two operands, [[a/_arguments|arguments]], parameters or inputs; having [[d/_domain|domain]] of [[d/_dimension|dimension]] 2.**
 	- _Example: Division of reals is a binary operation._
-- **Of data, consisting coded values (e.g. machine code) not interpretable as plain or ASCII text (e.g. source code).**
+- **Of [[d/_data|data]], [[c/_consisting|consisting]] [[c/_coded|coded]] values ([[e/_e|e]].g. machine [[c/_code|code]]) not interpretable as plain or [[a/_ascii|ASCII]] text ([[e/_e|e]].g. source [[c/_code|code]]).**
 	- _Example: He downloaded the binary distribution for Linux, then burned it to DVD._
-- **Focusing on two mutually exclusive conditions.**
+- **Focusing on two mutually exclusive [[c/_conditions|conditions]].**
 	- _Example: He has a very binary understanding of gender._
 ---
 ### Synonyms
-- [[[[d/_dyadic|dyadic]]]], [[[[b/_boolean|Boolean]]]], [[[[b/_base|base]]-2]], [[[[d/_double|double]]]], [[twin]]
+- [[dyadic]], [[Boolean]], [[base-2]], [[double]], [[twin]]
 ### Antonyms
-- [[[[a/_ascii|ASCII]]]], [[text]], [[non-[[b/_binary|binary]]]]
+- [[ASCII]], [[text]], [[non-binary]]
 ---

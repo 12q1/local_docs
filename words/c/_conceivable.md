@@ -1,10 +1,10 @@
 # Conceivable
 ---
 #adjective
-- **Capable of being conceived or imagined**
+- **[[c/_capable|Capable]] of [[b/_being|being]] [[c/_conceived|conceived]] or imagined**
 ---
 ### Synonyms
-- [[[[c/_credible|credible]]]], [[imaginable]], [[possible]], [[thinkable]]
+- [[credible]], [[imaginable]], [[possible]], [[thinkable]]
 ### Antonyms
 - [[inconceivable]]
 ---

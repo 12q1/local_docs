@@ -1,6 +1,6 @@
 # Dyestuffs
 ---
 #noun
-- **Any soluble pigment used for dyeing the hair, fabric, etc.**
+- **[[a/_any|Any]] soluble pigment used for [[d/_dyeing|dyeing]] the hair, fabric, etc.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Delve
 ---
 #verb
-- **To dig the ground, especially with a shovel.**
-- **To search thoroughly and carefully for information, research, dig into, penetrate, fathom, trace out**
-- **To dig, to excavate.**
+- **To [[d/_dig|dig]] the ground, especially with a shovel.**
+- **To search thoroughly and [[c/_carefully|carefully]] for information, research, [[d/_dig|dig]] into, penetrate, fathom, trace out**
+- **To [[d/_dig|dig]], to excavate.**
 ---
 ### Synonyms
-- [[[[d/_dig|dig]]]], [[investigate]], [[research]]
+- [[dig]], [[investigate]], [[research]]
 ---

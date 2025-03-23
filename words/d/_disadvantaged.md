@@ -1,13 +1,13 @@
 # Disadvantaged
 ---
 #verb
-- **To place at a disadvantage.**
+- **To place at a [[d/_disadvantage|disadvantage]].**
 	- _Example: They fear it might disadvantage honest participants to allow automated entries._
 ---
 ### Synonyms
-- [[tell [[a/_against|against]]]]
+- [[tell against]]
 #adjective
-- **Lacking an advantage relative to another.**
-- **Poor; in financial difficulties.**
+- **Lacking an [[a/_advantage|advantage]] relative to [[a/_another|another]].**
+- **Poor; in financial [[d/_difficulties|difficulties]].**
 ---
 ---

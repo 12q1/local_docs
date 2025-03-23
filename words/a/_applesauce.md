@@ -1,13 +1,13 @@
 # Applesauce
 ---
 #noun
-- **A food prepared by pureeing cooked apples.**
+- **A food prepared by pureeing [[c/_cooked|cooked]] [[a/_apples|apples]].**
 ---
 #noun
-- **(1920s) Nonsense, balderdash, bunk, piffle.**
+- **(1920s) Nonsense, [[b/_balderdash|balderdash]], [[b/_bunk|bunk]], piffle.**
 ---
 ### Synonyms
-- [[[[c/_codswallop|codswallop]]]], [[hooey]], [[malarkey]]
+- [[codswallop]], [[hooey]], [[malarkey]]
 #interjection
 - **Nonsense!**
 ---

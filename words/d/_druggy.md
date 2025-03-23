@@ -1,9 +1,9 @@
 # Druggy
 ---
 #noun
-- **A drug addict or abuser.**
+- **A [[d/_drug|drug]] [[a/_addict|addict]] or [[a/_abuser|abuser]].**
 ---
 #adjective
-- **Acting as if on drugs; torpid, uncoordinated, etc.**
+- **[[a/_acting|Acting]] as if on [[d/_drugs|drugs]]; torpid, uncoordinated, etc.**
 ---
 ---

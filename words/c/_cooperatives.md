@@ -1,6 +1,6 @@
 # Cooperatives
 ---
 #noun
-- **A type of company that is owned partially or wholly by its employees, customers or tenants.**
+- **A type of [[c/_company|company]] that is owned partially or wholly by its [[e/_employees|employees]], [[c/_customers|customers]] or tenants.**
 ---
 ---

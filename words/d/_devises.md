@@ -1,16 +1,16 @@
 # Devises
 ---
 #noun
-- **The act of leaving real property in a will.**
-- **Such a will, or a clause in such a will.**
+- **The [[a/_act|act]] of leaving real property in a will.**
+- **Such a will, or a [[c/_clause|clause]] in such a will.**
 - **The real property left in such a will.**
-- **Design, devising.**
+- **[[d/_design|Design]], [[d/_devising|devising]].**
 ---
 #verb
-- **To use one's intellect to plan or design (something).**
+- **To use one's intellect to plan or [[d/_design|design]] (something).**
 	- _Example: to devise an argument; to devise a machine, or a new system of writing_
 - **To leave (property) in a will.**
-- **To form a scheme; to lay a plan; to contrive; to consider.**
+- **To form a scheme; to lay a plan; to [[c/_contrive|contrive]]; to [[c/_consider|consider]].**
 - **To plan or scheme for; to plot to obtain.**
 - **To imagine; to guess.**
 ---

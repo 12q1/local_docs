@@ -1,6 +1,6 @@
 # Adrowse
 ---
 #adjective
-- **Drowsy**
+- **[[d/_drowsy|Drowsy]]**
 ---
 ---

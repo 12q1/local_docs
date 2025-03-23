@@ -1,10 +1,10 @@
 # Douceurs
 ---
 #noun
-- **Sweetness of manner: agreeableness, gentleness.**
-- **Sweet speech: a compliment.**
-- **A sweetener: a gift offered to sweeten another's attitude, a tip or bribe.**
-- **A tax break provided as an inducement to sell valuable items (especially art) to public collections rather than on the open market.**
+- **Sweetness of manner: [[a/_agreeableness|agreeableness]], gentleness.**
+- **Sweet speech: a [[c/_compliment|compliment]].**
+- **A sweetener: a gift offered to sweeten [[a/_another|another]]'s [[a/_attitude|attitude]], a tip or [[b/_bribe|bribe]].**
+- **A tax [[b/_break|break]] provided as an inducement to sell valuable items (especially [[a/_art|art]]) to public [[c/_collections|collections]] rather than on the open market.**
 ---
 ### Synonyms
 - [[gift]], [[gratuity]]

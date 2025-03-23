@@ -1,6 +1,6 @@
 # Axillaries
 ---
 #noun
-- **Any of the feathers connecting the undersurface of the wing and the body, and concealed by the closed wing.**
+- **[[a/_any|Any]] of the feathers [[c/_connecting|connecting]] the undersurface of the wing and the [[b/_body|body]], and [[c/_concealed|concealed]] by the [[c/_closed|closed]] wing.**
 ---
 ---

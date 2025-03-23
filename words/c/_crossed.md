@@ -1,19 +1,19 @@
 # Crossed
 ---
 #verb
-- **To make or form a cross.**
+- **To make or form a [[c/_cross|cross]].**
 - **To move relatively.**
 - **(social) To oppose.**
-- **To cross-fertilize or crossbreed.**
+- **To [[c/_cross|cross]]-fertilize or [[c/_crossbreed|crossbreed]].**
 	- _Example: They managed to cross a sheep with a goat._
-- **To stamp or mark (a cheque) in such a way as to prevent it being cashed, thus requiring it to be deposited into a bank account.**
+- **To stamp or mark (a [[c/_cheque|cheque]]) in such a way as to prevent it [[b/_being|being]] [[c/_cashed|cashed]], thus requiring it to be [[d/_deposited|deposited]] into a [[b/_bank|bank]] [[a/_account|account]].**
 ---
 ### Synonyms
-- [[[[c/_cross|cross]]-fertilize]], [[[[c/_crossbreed|crossbreed]]]]
+- [[cross-fertilize]], [[crossbreed]]
 #adjective
-- **Marked by a line drawn crosswise, often denoting cancellation.**
+- **Marked by a line [[d/_drawn|drawn]] [[c/_crosswise|crosswise]], often [[d/_denoting|denoting]] [[c/_cancellation|cancellation]].**
 - **Folded.**
 	- _Example: crossed legs_
-- **Cruciate.**
+- **[[c/_cruciate|Cruciate]].**
 ---
 ---

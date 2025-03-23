@@ -1,11 +1,11 @@
 # Educable
 ---
 #noun
-- **A person capable of being educated.**
+- **A person [[c/_capable|capable]] of [[b/_being|being]] [[e/_educated|educated]].**
 ---
 #adjective
-- **Capable of being educated.**
+- **[[c/_capable|Capable]] of [[b/_being|being]] [[e/_educated|educated]].**
 ---
 ### Synonyms
-- [[[[e/_educatable|educatable]]]]
+- [[educatable]]
 ---

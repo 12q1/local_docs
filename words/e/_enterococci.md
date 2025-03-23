@@ -1,6 +1,6 @@
 # Enterococci
 ---
 #noun
-- **Any of a group of streptococci bacteria, of the genus Enterococcus, that inhabit the human gastrointestinal tract and have great resistance to antibiotics**
+- **[[a/_any|Any]] of a group of streptococci [[b/_bacteria|bacteria]], of the genus [[e/_enterococcus|Enterococcus]], that inhabit the human gastrointestinal tract and have great resistance to [[a/_antibiotics|antibiotics]]**
 ---
 ---

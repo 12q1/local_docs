@@ -1,6 +1,6 @@
 # Admirer
 ---
 #noun
-- **One who admires.**
+- **One who [[a/_admires|admires]].**
 ---
 ---

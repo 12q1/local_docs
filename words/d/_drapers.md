@@ -1,6 +1,6 @@
 # Drapers
 ---
 #noun
-- **One who sells cloths; a dealer in cloths.**
+- **One who sells [[c/_cloths|cloths]]; a [[d/_dealer|dealer]] in [[c/_cloths|cloths]].**
 ---
 ---

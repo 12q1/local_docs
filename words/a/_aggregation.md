@@ -1,13 +1,13 @@
 # Aggregation
 ---
 #noun
-- **The act of collecting together (aggregating).**
-- **The state of being collected into a mass, assemblage, or sum (aggregated).**
-- **A collection of particulars; an aggregate.**
+- **The [[a/_act|act]] of [[c/_collecting|collecting]] together ([[a/_aggregating|aggregating]]).**
+- **The state of [[b/_being|being]] [[c/_collected|collected]] into a mass, [[a/_assemblage|assemblage]], or sum ([[a/_aggregated|aggregated]]).**
+- **A [[c/_collection|collection]] of particulars; an [[a/_aggregate|aggregate]].**
 - **Summarizing multiple routes into one route.**
-- **The majority of the parasite population concentrated into a minority of the host population.**
-- **Kind of object composition which does not imply ownership.**
+- **The majority of the parasite population [[c/_concentrated|concentrated]] into a minority of the host population.**
+- **Kind of object [[c/_composition|composition]] which [[d/_does|does]] not imply ownership.**
 ---
 ### Antonyms
-- [[[[d/_disgregation|disgregation]]]]
+- [[disgregation]]
 ---

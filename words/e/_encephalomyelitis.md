@@ -1,6 +1,6 @@
 # Encephalomyelitis
 ---
 #noun
-- **Inflammation of the brain and spinal cord.**
+- **Inflammation of the [[b/_brain|brain]] and spinal [[c/_cord|cord]].**
 ---
 ---

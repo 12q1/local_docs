@@ -1,6 +1,6 @@
 # Candidacy
 ---
 #noun
-- **The state of being a candidate.**
+- **The state of [[b/_being|being]] a [[c/_candidate|candidate]].**
 ---
 ---

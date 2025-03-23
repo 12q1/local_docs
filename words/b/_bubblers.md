@@ -1,13 +1,13 @@
 # Bubblers
 ---
 #noun
-- **Something that emits bubbles.**
-- **An airstone for an aquarium.**
-- **(Wisconsin) A drinking fountain.**
-- **(cannabis subculture) A device used for smoking marijuana, similar to a cannabis pipe but with a section that holds water, like a bong**
-- **One who cheats.**
-- **A freshwater fish of central North America, the freshwater drum, Aplodinotus grunniens; so called from the noise it makes.**
+- **Something that [[e/_emits|emits]] [[b/_bubbles|bubbles]].**
+- **An airstone for an [[a/_aquarium|aquarium]].**
+- **(Wisconsin) A [[d/_drinking|drinking]] fountain.**
+- **([[c/_cannabis|cannabis]] subculture) A [[d/_device|device]] used for smoking marijuana, similar to a [[c/_cannabis|cannabis]] pipe but with a section that holds water, like a [[b/_bong|bong]]**
+- **One who [[c/_cheats|cheats]].**
+- **A freshwater fish of [[c/_central|central]] North [[a/_america|America]], the freshwater [[d/_drum|drum]], Aplodinotus grunniens; so [[c/_called|called]] from the noise it makes.**
 ---
 ### Synonyms
-- [[[[b/_bubbler|bubbler]] [[b/_bong|bong]]]], [[[[d/_drinking|drinking]] fountain]], [[water fountain]]
+- [[bubbler bong]], [[drinking fountain]], [[water fountain]]
 ---

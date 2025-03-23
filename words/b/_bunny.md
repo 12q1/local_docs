@@ -2,11 +2,11 @@
 ---
 #noun
 - **A rabbit, especially a juvenile.**
-- **A bunny girl: a nightclub waitress who wears a costume having rabbit ears and tail.**
-- **In basketball, an easy shot (i.e., one right next to the bucket) that is missed.**
+- **A [[b/_bunny|bunny]] girl: a nightclub waitress who wears a [[c/_costume|costume]] having rabbit [[e/_ears|ears]] and tail.**
+- **In [[b/_basketball|basketball]], an [[e/_easy|easy]] shot (i.[[e/_e|e]]., one right next to the [[b/_bucket|bucket]]) that is missed.**
 ---
 #adjective
-- **Easy or unchallenging.**
+- **[[e/_easy|Easy]] or unchallenging.**
 	- _Example: Let’s start on the bunny slope._
 ---
 ### Synonyms

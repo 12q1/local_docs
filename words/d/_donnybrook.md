@@ -1,9 +1,9 @@
 # Donnybrook
 ---
 #noun
-- **A brawl or fracas; a scene of chaos.**
+- **A [[b/_brawl|brawl]] or fracas; a scene of [[c/_chaos|chaos]].**
 ---
 #adjective
-- **Chaotic.**
+- **[[c/_chaotic|Chaotic]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Driverless
 ---
 #adjective
-- **Without a driver.**
+- **Without a [[d/_driver|driver]].**
 	- _Example: a driverless vehicle_
 ---
 ---

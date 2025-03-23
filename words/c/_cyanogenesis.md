@@ -1,6 +1,6 @@
 # Cyanogenesis
 ---
 #noun
-- **The generation of cyanide, especially from a biological source**
+- **The generation of [[c/_cyanide|cyanide]], especially from a [[b/_biological|biological]] source**
 ---
 ---

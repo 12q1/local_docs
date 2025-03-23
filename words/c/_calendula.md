@@ -1,6 +1,6 @@
 # Calendula
 ---
 #noun
-- **Any plant of the genus Calendula, with yellow or orange flowers, often called marigolds.**
+- **[[a/_any|Any]] plant of the genus [[c/_calendula|Calendula]], with yellow or orange flowers, often [[c/_called|called]] marigolds.**
 ---
 ---

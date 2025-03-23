@@ -1,16 +1,16 @@
 # Blackening
 ---
 #verb
-- **(causative) To cause to be or become black.**
-- **To become black.**
+- **([[c/_causative|causative]]) To [[c/_cause|cause]] to be or [[b/_become|become]] [[b/_black|black]].**
+- **To [[b/_become|become]] [[b/_black|black]].**
 	- _Example: The sky blackened as the storm clouds rolled in._
-- **(causative) To make dirty.**
-- **To defame or sully.**
-- **To cook (meat or fish) by coating with pepper, etc., and quickly searing in a hot pan.**
+- **([[c/_causative|causative]]) To make [[d/_dirty|dirty]].**
+- **To [[d/_defame|defame]] or sully.**
+- **To [[c/_cook|cook]] (meat or fish) by [[c/_coating|coating]] with pepper, etc., and quickly searing in a hot pan.**
 ---
 ### Synonyms
-- [[[[d/_defame|defame]]]], [[[[d/_denigrate|denigrate]]]], [[sully]], [[taint]], [[tarnish]], [[[[b/_black|black]]]], [[[[d/_denigrate|denigrate]]]], [[[[d/_dirty|dirty]]]], [[soil]]
+- [[defame]], [[denigrate]], [[sully]], [[taint]], [[tarnish]], [[black]], [[denigrate]], [[dirty]], [[soil]]
 #noun
-- **The act of turning black in colour; a black stain or mark.**
+- **The [[a/_act|act]] of turning [[b/_black|black]] in [[c/_colour|colour]]; a [[b/_black|black]] stain or mark.**
 ---
 ---

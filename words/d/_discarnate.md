@@ -1,8 +1,8 @@
 # Discarnate
 ---
 #adjective
-- **Having no physical body or form.**
+- **Having no physical [[b/_body|body]] or form.**
 ---
 ### Antonyms
-- [[[[c/_corporeal|corporeal]]]], [[incarnate]], [[tangible]]
+- [[corporeal]], [[incarnate]], [[tangible]]
 ---

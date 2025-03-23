@@ -1,6 +1,6 @@
 # Enshrouded
 ---
 #verb
-- **To cover with (or as if with) a shroud**
+- **To [[c/_cover|cover]] with (or as if with) a shroud**
 ---
 ---

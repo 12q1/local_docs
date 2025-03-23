@@ -1,6 +1,6 @@
 # Chicer
 ---
 #adjective
-- **Elegant, stylish.**
+- **[[e/_elegant|Elegant]], stylish.**
 ---
 ---

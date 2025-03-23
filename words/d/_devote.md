@@ -1,13 +1,13 @@
 # Devote
 ---
 #verb
-- **To give one's time, focus one's efforts, commit oneself, etc. entirely for, on, or to a certain matter**
+- **To give one's time, focus one's [[e/_efforts|efforts]], [[c/_commit|commit]] oneself, etc. [[e/_entirely|entirely]] for, on, or to a [[c/_certain|certain]] matter**
 	- _Example: I devoted this afternoon to repainting my study, and nothing will get in my way._
-- **To consign over; to doom**
+- **To [[c/_consign|consign]] over; to [[d/_doom|doom]]**
 	- _Example: The city was devoted to the flames._
-- **To execrate; to curse**
+- **To execrate; to [[c/_curse|curse]]**
 ---
 #adjective
-- **Devoted; addicted; devout**
+- **[[d/_devoted|Devoted]]; [[a/_addicted|addicted]]; [[d/_devout|devout]]**
 ---
 ---

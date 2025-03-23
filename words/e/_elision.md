@@ -1,7 +1,7 @@
 # Elision
 ---
 #noun
-- **The deliberate omission of something.**
-- **The omission of a letter or syllable between two words; sometimes marked with an apostrophe.**
+- **The [[d/_deliberate|deliberate]] omission of something.**
+- **The omission of a letter or syllable [[b/_between|between]] two words; sometimes marked with an [[a/_apostrophe|apostrophe]].**
 ---
 ---

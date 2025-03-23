@@ -1,13 +1,13 @@
 # Categorically
 ---
 #adverb
-- **In a categorical manner**
-- **By the use of categories**
+- **In a [[c/_categorical|categorical]] manner**
+- **By the use of [[c/_categories|categories]]**
 	- _Example: a welfare scheme for the categorically needy_
-- **Absolutely, by all means; truly**
+- **[[a/_absolutely|Absolutely]], by [[a/_all|all]] means; truly**
 ---
 ### Synonyms
-- [[[[d/_definitively|definitively]]]], [[unconditionally]]
+- [[definitively]], [[unconditionally]]
 ### Antonyms
-- [[[[c/_conditionally|conditionally]]]], [[exceptionally]]
+- [[conditionally]], [[exceptionally]]
 ---

@@ -1,9 +1,9 @@
 # Benzenoid
 ---
 #noun
-- **A compound of this kind.**
+- **A [[c/_compound|compound]] of this kind.**
 ---
 #adjective
-- **Having an electronic structure analogous to that of benzene; Containing at least one benzene ring**
+- **Having an [[e/_electronic|electronic]] structure [[a/_analogous|analogous]] to that of [[b/_benzene|benzene]]; [[c/_containing|Containing]] at least one [[b/_benzene|benzene]] ring**
 ---
 ---

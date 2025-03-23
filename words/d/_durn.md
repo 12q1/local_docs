@@ -1,12 +1,12 @@
 # Durn
 ---
 #adjective
-- **Darn; damn.**
+- **[[d/_darn|Darn]]; [[d/_damn|damn]].**
 ---
 #adverb
-- **Darn; damned; extremely.**
+- **[[d/_darn|Darn]]; [[d/_damned|damned]]; extremely.**
 ---
 #interjection
-- **Darn; damn**
+- **[[d/_darn|Darn]]; [[d/_damn|damn]]**
 ---
 ---

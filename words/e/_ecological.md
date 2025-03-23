@@ -1,9 +1,9 @@
 # Ecological
 ---
 #adjective
-- **Relating to ecology, the interrelationships of organisms and their environment.**
-- **Not harmful to the environment.**
+- **Relating to [[e/_ecology|ecology]], the interrelationships of organisms and their [[e/_environment|environment]].**
+- **Not harmful to the [[e/_environment|environment]].**
 ---
 ### Synonyms
-- [[[[e/_ecologically|ecologically]] friendly]], [[environmentally friendly]]
+- [[ecologically friendly]], [[environmentally friendly]]
 ---

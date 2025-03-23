@@ -1,6 +1,6 @@
 # Enstatite
 ---
 #noun
-- **A form of pyroxene consisting solely of magnesium silicate.**
+- **A form of pyroxene [[c/_consisting|consisting]] solely of magnesium silicate.**
 ---
 ---

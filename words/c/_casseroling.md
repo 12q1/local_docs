@@ -1,6 +1,6 @@
 # Casseroling
 ---
 #verb
-- **To cook like, or as, a casserole; to stew.**
+- **To [[c/_cook|cook]] like, or as, a [[c/_casserole|casserole]]; to stew.**
 ---
 ---

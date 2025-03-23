@@ -1,33 +1,33 @@
 # Colouring
 ---
 #verb
-- **To give something color.**
+- **To give something [[c/_color|color]].**
 	- _Example: We could color the walls red._
-- **To apply colors to the areas within the boundaries of a line drawing using colored markers or crayons.**
+- **To [[a/_apply|apply]] [[c/_colors|colors]] to the [[a/_areas|areas]] within the [[b/_boundaries|boundaries]] of a line [[d/_drawing|drawing]] using [[c/_colored|colored]] markers or [[c/_crayons|crayons]].**
 	- _Example: My kindergartener loves to color._
-- **(of a person or their face) To become red through increased blood flow.**
+- **(of a person or their face) To [[b/_become|become]] red through increased [[b/_blood|blood]] flow.**
 	- _Example: Her face colored as she realized her mistake._
-- **To affect without completely changing.**
+- **To [[a/_affect|affect]] without [[c/_completely|completely]] [[c/_changing|changing]].**
 	- _Example: That interpretation certainly colors my perception of the book._
-- **To attribute a quality to; to portray (as).**
+- **To [[a/_attribute|attribute]] a quality to; to portray (as).**
 	- _Example: Color me confused._
-- **To assign colors to the vertices of a graph (or the regions of a map) so that no two vertices connected by an edge (regions sharing a border) have the same color.**
+- **To [[a/_assign|assign]] [[c/_colors|colors]] to the vertices of a graph (or the regions of a map) so that no two vertices [[c/_connected|connected]] by an [[e/_edge|edge]] (regions sharing a [[b/_border|border]]) have the same [[c/_color|color]].**
 	- _Example: Can this graph be 2-colored?_
 ---
 ### Synonyms
-- [[[[a/_affect|affect]]]], [[influence]], [[[[b/_blush|blush]]]], [[[[c/_call|call]]]], [[[[c/_color|color]] in]], [[[[d/_dye|dye]]]], [[paint]], [[shade]], [[stain]], [[tinge]], [[tint]]
+- [[affect]], [[influence]], [[blush]], [[call]], [[color in]], [[dye]], [[paint]], [[shade]], [[stain]], [[tinge]], [[tint]]
 ### Antonyms
-- [[[[d/_decolor|decolor]]]]
+- [[decolor]]
 #noun
-- **An act or process which applies color.**
-- **Any substance used to give color.**
+- **An [[a/_act|act]] or process which [[a/_applies|applies]] [[c/_color|color]].**
+- **[[a/_any|Any]] substance used to give [[c/_color|color]].**
 	- _Example: Our cookies contain no artificial flavorings or colorings._
-- **The appearance as to color.**
-- **A disguise or discoloration.**
-- **An assignment of a color to each vertex of a graph such that no two vertices connected by an edge are given the same color.**
+- **The [[a/_appearance|appearance]] as to [[c/_color|color]].**
+- **A [[d/_disguise|disguise]] or [[d/_discoloration|discoloration]].**
+- **An [[a/_assignment|assignment]] of a [[c/_color|color]] to [[e/_each|each]] vertex of a graph such that no two vertices [[c/_connected|connected]] by an [[e/_edge|edge]] are given the same [[c/_color|color]].**
 ---
 ### Synonyms
-- [[[[c/_coloration|coloration]]]], [[pigment]]
+- [[coloration]], [[pigment]]
 ### Antonyms
-- [[[[b/_bleach|bleach]]]], [[neutral]], [[shade]]
+- [[bleach]], [[neutral]], [[shade]]
 ---

@@ -1,6 +1,6 @@
 # Disannul
 ---
 #verb
-- **To annul, do away with; to cancel.**
+- **To [[a/_annul|annul]], [[d/_do|do]] [[a/_away|away]] with; to [[c/_cancel|cancel]].**
 ---
 ---

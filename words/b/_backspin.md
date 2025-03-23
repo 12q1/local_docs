@@ -1,15 +1,15 @@
 # Backspin
 ---
 #noun
-- **Spin applied to a ball in order to slow it, change its flight, or stop it when it lands.**
+- **Spin [[a/_applied|applied]] to a [[b/_ball|ball]] in order to slow it, [[c/_change|change]] its flight, or stop it when it lands.**
 ---
 #verb
-- **To spin (a ball) with this motion.**
-- **To play a section of a record in reverse, as a disc jockey; to apply spinback.**
+- **To spin (a [[b/_ball|ball]]) with this motion.**
+- **To play a section of a record in reverse, as a [[d/_disc|disc]] jockey; to [[a/_apply|apply]] spinback.**
 ---
 #noun
-- **A disc jockey's technique of suddenly playing a section of a record in reverse.**
+- **A [[d/_disc|disc]] jockey's technique of suddenly playing a section of a record in reverse.**
 ---
 ### Synonyms
-- [[[[b/_backspin|backspin]]]]
+- [[backspin]]
 ---

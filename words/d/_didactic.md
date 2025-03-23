@@ -1,14 +1,14 @@
 # Didactic
 ---
 #noun
-- **A treatise on teaching or education.**
+- **A treatise on teaching or [[e/_education|education]].**
 ---
 #adjective
-- **Instructive or intended to teach or demonstrate, especially with regard to morality.**
+- **Instructive or intended to teach or [[d/_demonstrate|demonstrate]], especially with regard to morality.**
 	- _Example: didactic poetry_
 - **Excessively moralizing.**
-- **Teaching from textbooks rather than laboratory demonstration and clinical application.**
+- **Teaching from textbooks rather than laboratory [[d/_demonstration|demonstration]] and [[c/_clinical|clinical]] [[a/_application|application]].**
 ---
 ### Synonyms
-- [[[[e/_educative|educative]]]], [[instructive]]
+- [[educative]], [[instructive]]
 ---

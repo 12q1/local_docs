@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Of or from Clacton (especially from Clacton-on-Sea)**
-- **Belonging or relating to a class of ancient tools fashioned from flakes chipped off flint cores.**
+- **[[b/_belonging|Belonging]] or relating to a [[c/_class|class]] of [[a/_ancient|ancient]] tools fashioned from flakes [[c/_chipped|chipped]] off flint [[c/_cores|cores]].**
 ---
 ---

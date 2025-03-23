@@ -1,6 +1,6 @@
 # Drily
 ---
 #adverb
-- **In a dry manner**
+- **In a [[d/_dry|dry]] manner**
 ---
 ---

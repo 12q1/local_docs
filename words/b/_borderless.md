@@ -1,6 +1,6 @@
 # Borderless
 ---
 #adjective
-- **Not having a border.**
+- **Not having a [[b/_border|border]].**
 ---
 ---

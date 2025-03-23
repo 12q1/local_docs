@@ -1,9 +1,9 @@
 # Dun
 ---
 #noun
-- **A brownish grey colour.**
+- **A [[b/_brownish|brownish]] grey [[c/_colour|colour]].**
 ---
 #adjective
-- **Of a brownish grey colour.**
+- **Of a [[b/_brownish|brownish]] grey [[c/_colour|colour]].**
 ---
 ---

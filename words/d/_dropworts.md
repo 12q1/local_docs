@@ -1,8 +1,8 @@
 # Dropworts
 ---
 #noun
-- **A perennial herb, Filipendula vulgaris, closely related to meadowsweet.**
-- **Any plant of genus Oenanthe.**
-- **Any plant of genus Oxypolis.**
+- **A perennial herb, Filipendula vulgaris, [[c/_closely|closely]] related to meadowsweet.**
+- **[[a/_any|Any]] plant of genus Oenanthe.**
+- **[[a/_any|Any]] plant of genus Oxypolis.**
 ---
 ---

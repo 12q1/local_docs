@@ -1,11 +1,11 @@
 # Cordials
 ---
 #noun
-- **A concentrated noncarbonated soft drink which is diluted with water before drinking.**
-- **An individual serving of such a diluted drink.**
+- **A [[c/_concentrated|concentrated]] noncarbonated soft [[d/_drink|drink]] which is [[d/_diluted|diluted]] with water [[b/_before|before]] [[d/_drinking|drinking]].**
+- **An individual serving of such a [[d/_diluted|diluted]] [[d/_drink|drink]].**
 - **A pleasant-tasting medicine.**
 - **A liqueur prepared using the infusion process.**
-- **A candy (or bonbon) usually made of milk chocolate, filled with small fruits (often maraschino cherries) and syrup or fondant.**
-- **Anything that revives or comforts.**
+- **A [[c/_candy|candy]] (or [[b/_bonbon|bonbon]]) usually made of milk [[c/_chocolate|chocolate]], filled with small fruits (often maraschino [[c/_cherries|cherries]]) and syrup or fondant.**
+- **[[a/_anything|Anything]] that revives or [[c/_comforts|comforts]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Choriamb
 ---
 #noun
-- **A choriambus.**
+- **A [[c/_choriambus|choriambus]].**
 ---
 ---

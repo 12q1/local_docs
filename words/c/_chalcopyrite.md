@@ -1,8 +1,8 @@
 # Chalcopyrite
 ---
 #noun
-- **A yellow mineral that is a mixed sulfide of copper and iron, with the chemical formula CuFeS2.**
+- **A yellow mineral that is a mixed sulfide of [[c/_copper|copper]] and iron, with the [[c/_chemical|chemical]] formula CuFeS2.**
 ---
 ### Synonyms
-- [[[[c/_copper|copper]] pyrites]]
+- [[copper pyrites]]
 ---

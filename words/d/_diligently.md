@@ -1,6 +1,6 @@
 # Diligently
 ---
 #adverb
-- **In a diligent manner, with appropriate effort, carefully.**
+- **In a [[d/_diligent|diligent]] manner, with [[a/_appropriate|appropriate]] [[e/_effort|effort]], [[c/_carefully|carefully]].**
 ---
 ---

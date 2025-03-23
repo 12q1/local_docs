@@ -1,11 +1,11 @@
 # Egret
 ---
 #noun
-- **Any of various wading birds of the genera Egretta or Ardea that includes herons, many of which are white or buff, and several of which develop fine plumes during the breeding season.**
-- **A plume or tuft of feathers worn as a part of a headdress, or anything imitating such an ornament.**
-- **The flying feathery or hairy crown of seeds or achenes, such as the down of the thistle.**
-- **The crab-eating macaque (Macaca fascicularis)**
+- **[[a/_any|Any]] of various wading [[b/_birds|birds]] of the genera [[e/_egretta|Egretta]] or [[a/_ardea|Ardea]] that includes herons, many of which are white or [[b/_buff|buff]], and several of which [[d/_develop|develop]] fine plumes [[d/_during|during]] the [[b/_breeding|breeding]] season.**
+- **A plume or tuft of feathers worn as a part of a headdress, or [[a/_anything|anything]] imitating such an ornament.**
+- **The flying feathery or hairy [[c/_crown|crown]] of seeds or [[a/_achenes|achenes]], such as the [[d/_down|down]] of the thistle.**
+- **The [[c/_crab|crab]]-[[e/_eating|eating]] macaque (Macaca fascicularis)**
 ---
 ### Synonyms
-- [[[[a/_aigrette|aigrette]]]]
+- [[aigrette]]
 ---

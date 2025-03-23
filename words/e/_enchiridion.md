@@ -2,6 +2,6 @@
 ---
 #noun
 - **A handbook or manual.**
-- **A dagger.**
+- **A [[d/_dagger|dagger]].**
 ---
 ---

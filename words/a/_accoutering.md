@@ -1,8 +1,8 @@
 # Accoutering
 ---
 #verb
-- **To furnish with dress or equipments, especially those for military service**
+- **To furnish with [[d/_dress|dress]] or [[e/_equipments|equipments]], especially those for military service**
 ---
 ### Synonyms
-- [[[[a/_array|array]]]], [[[[a/_attire|attire]]]], [[equip]]
+- [[array]], [[attire]], [[equip]]
 ---

@@ -1,6 +1,6 @@
 # Carabao
 ---
 #noun
-- **A domesticated subspecies of water-buffalo, Bubalus bubalis carabanesis.**
+- **A [[d/_domesticated|domesticated]] subspecies of water-[[b/_buffalo|buffalo]], Bubalus [[b/_bubalis|bubalis]] carabanesis.**
 ---
 ---

@@ -2,6 +2,6 @@
 ---
 #verb
 - **To make joyful or proud.**
-- **To lift up; raise; elevate.**
+- **To lift up; raise; [[e/_elevate|elevate]].**
 ---
 ---

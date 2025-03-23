@@ -1,6 +1,6 @@
 # Bundt
 ---
 #noun
-- **A baking pan with a hollow, circular, raised area in the middle.**
+- **A [[b/_baking|baking]] pan with a hollow, [[c/_circular|circular]], raised [[a/_area|area]] in the middle.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Disclike
 ---
 #adjective
-- **Resembling a disc or some aspect of one.**
+- **Resembling a [[d/_disc|disc]] or some [[a/_aspect|aspect]] of one.**
 ---
 ---

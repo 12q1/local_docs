@@ -1,10 +1,10 @@
 # Aggregated
 ---
 #verb
-- **To bring together; to collect into a mass or sum.**
+- **To [[b/_bring|bring]] together; to [[c/_collect|collect]] into a mass or sum.**
 	- _Example: The aggregated soil._
-- **To add or unite (e.g. a person), to an association.**
-- **To amount in the aggregate to.**
+- **To [[a/_add|add]] or unite ([[e/_e|e]].g. a person), to an [[a/_association|association]].**
+- **To [[a/_amount|amount]] in the [[a/_aggregate|aggregate]] to.**
 	- _Example: There are ten loads, aggregating five hundred bushels._
 ---
 ### Antonyms

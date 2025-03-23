@@ -1,6 +1,6 @@
 # Caecilian
 ---
 #noun
-- **Any of a group of burrowing amphibians (order Gymnophiona or Apoda) that resemble earthworms or snakes.**
+- **[[a/_any|Any]] of a group of [[b/_burrowing|burrowing]] [[a/_amphibians|amphibians]] (order Gymnophiona or [[a/_apoda|Apoda]]) that resemble [[e/_earthworms|earthworms]] or snakes.**
 ---
 ---

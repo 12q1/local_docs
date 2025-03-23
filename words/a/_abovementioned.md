@@ -1,8 +1,8 @@
 # Abovementioned
 ---
 #adjective
-- **Mentioned above**
+- **Mentioned [[a/_above|above]]**
 ---
 ### Synonyms
-- [[[[a/_above|above]]-mentioned]], [[abovelisted]], [[[[a/_aforementioned|aforementioned]]]], [[[[a/_aforesaid|aforesaid]]]], [[mentioned]]
+- [[above-mentioned]], [[abovelisted]], [[aforementioned]], [[aforesaid]], [[mentioned]]
 ---

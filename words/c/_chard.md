@@ -1,9 +1,9 @@
 # Chard
 ---
 #noun
-- **An edible leafy vegetable, Beta vulgaris subsp. cicla, with a slightly bitter taste.**
-- **Artichoke leaves and shoots, blanched to eat.**
+- **An [[e/_edible|edible]] leafy vegetable, [[b/_beta|Beta]] vulgaris subsp. cicla, with a slightly [[b/_bitter|bitter]] taste.**
+- **[[a/_artichoke|Artichoke]] leaves and shoots, [[b/_blanched|blanched]] to [[e/_eat|eat]].**
 ---
 ### Synonyms
-- [[Swiss [[c/_chard|chard]]]], [[mangold]], [[silverbeet]]
+- [[Swiss chard]], [[mangold]], [[silverbeet]]
 ---

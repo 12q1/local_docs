@@ -1,6 +1,6 @@
 # Brontothere
 ---
 #noun
-- **Any member of the Brontotheridae.**
+- **[[a/_any|Any]] member of the Brontotheridae.**
 ---
 ---

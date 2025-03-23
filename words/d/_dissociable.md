@@ -1,8 +1,8 @@
 # Dissociable
 ---
 #adjective
-- **Able to be dissociated, divided or separated.**
-- **Not well associated or assorted; incongruous.**
-- **Having a tendency to dissolve social connections; unsuited to society; unsociable.**
+- **[[a/_able|Able]] to be [[d/_dissociated|dissociated]], [[d/_divided|divided]] or separated.**
+- **Not well [[a/_associated|associated]] or [[a/_assorted|assorted]]; incongruous.**
+- **Having a tendency to [[d/_dissolve|dissolve]] social [[c/_connections|connections]]; unsuited to society; unsociable.**
 ---
 ---

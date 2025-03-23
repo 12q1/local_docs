@@ -1,6 +1,6 @@
 # Downmost
 ---
 #adjective
-- **Furthest down; located at the bottom of a system or structure.**
+- **Furthest [[d/_down|down]]; located at the [[b/_bottom|bottom]] of a system or structure.**
 ---
 ---

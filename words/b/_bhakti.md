@@ -1,6 +1,6 @@
 # Bhakti
 ---
 #noun
-- **Devotion to God**
+- **[[d/_devotion|Devotion]] to God**
 ---
 ---

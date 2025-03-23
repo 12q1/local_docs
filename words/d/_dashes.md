@@ -1,38 +1,38 @@
 # Dashes
 ---
 #noun
-- **Any of the following symbols: ‒ (figure dash), – (en dash), — (em dash), or ― (horizontal bar).**
-- **(by extension) The longer of the two symbols of Morse code.**
+- **[[a/_any|Any]] of the following symbols: ‒ (figure [[d/_dash|dash]]), – ([[e/_en|en]] [[d/_dash|dash]]), — ([[e/_em|em]] [[d/_dash|dash]]), or ― (horizontal [[b/_bar|bar]]).**
+- **(by extension) The longer of the two symbols of Morse [[c/_code|code]].**
 - **A short run, flight.**
 - **A rushing or violent onset.**
 - **Violent strike; a whack.**
 - **A small quantity of a liquid substance etc.; less than 1/8 of a teaspoon.**
 	- _Example: Add a dash of vinegar._
-- **(by extension) A slight admixture.**
+- **(by extension) A slight [[a/_admixture|admixture]].**
 	- _Example: There is a dash of craziness in his personality._
 - **Ostentatious vigor.**
 	- _Example: Aren't we full of dash this morning?_
-- **A dashboard.**
-- **(Liberia) A bribe or gratuity; a gift.**
-- **A stand-in for a censored word, like "Devil" or "damn". (Compare deuce.)**
+- **A [[d/_dashboard|dashboard]].**
+- **(Liberia) A [[b/_bribe|bribe]] or gratuity; a gift.**
+- **A stand-in for a [[c/_censored|censored]] word, like "[[d/_devil|Devil]]" or "[[d/_damn|damn]]". ([[c/_compare|Compare]] [[d/_deuce|deuce]].)**
 ---
 #verb
-- **To run quickly or for a short distance.**
+- **To run quickly or for a short [[d/_distance|distance]].**
 	- _Example: He dashed across the field._
-- **To leave or depart.**
+- **To leave or [[d/_depart|depart]].**
 	- _Example: I have to dash now. See you soon._
-- **To destroy by striking (against).**
+- **To [[d/_destroy|destroy]] by striking ([[a/_against|against]]).**
 	- _Example: He dashed the bottle against the bar and turned about to fight._
 - **To throw violently.**
 	- _Example: The man was dashed from the vehicle during the accident._
 - **(sometimes figurative) To sprinkle; to splatter.**
-- **To mix, reduce, or adulterate, by throwing in something of an inferior quality.**
+- **To mix, reduce, or [[a/_adulterate|adulterate]], by throwing in something of an inferior quality.**
 	- _Example: to dash wine with water_
-- **(of hopes or dreams) To ruin; to destroy.**
+- **(of hopes or [[d/_dreams|dreams]]) To ruin; to [[d/_destroy|destroy]].**
 	- _Example: Her hopes were dashed when she saw the damage._
-- **To dishearten; to sadden.**
-- **To complete hastily, usually with down or off.**
+- **To [[d/_dishearten|dishearten]]; to sadden.**
+- **To [[c/_complete|complete]] hastily, usually with [[d/_down|down]] or off.**
 	- _Example: He dashed down his eggs, she dashed off her homework_
-- **To draw quickly; jot.**
+- **To [[d/_draw|draw]] quickly; jot.**
 ---
 ---

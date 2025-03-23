@@ -1,9 +1,9 @@
 # Debauchee
 ---
 #noun
-- **Somebody who is debauched; somebody who is dissolute and acts without moral restraint.**
-- **A person addicted to excessive indulgence in sensual pleasures.**
+- **Somebody who is [[d/_debauched|debauched]]; somebody who is [[d/_dissolute|dissolute]] and [[a/_acts|acts]] without moral restraint.**
+- **A person [[a/_addicted|addicted]] to excessive indulgence in sensual pleasures.**
 ---
 ### Synonyms
-- [[[[d/_debaucher|debaucher]]]], [[libertine]]
+- [[debaucher]], [[libertine]]
 ---

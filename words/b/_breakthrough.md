@@ -1,14 +1,14 @@
 # Breakthrough
 ---
 #noun
-- **An advance through and past enemy lines.**
-- **Any major progress; such as a great innovation or discovery that overcomes a significant obstacle.**
+- **An [[a/_advance|advance]] through and past [[e/_enemy|enemy]] lines.**
+- **[[a/_any|Any]] major progress; such as a great innovation or [[d/_discovery|discovery]] that overcomes a significant obstacle.**
 	- _Example: Albert Einstein is credited with making some of the greatest breakthroughs in modern physics._
-- **The penetration of the opposition defence**
-- **The penetration of a separating wall or the remaining distance to an adjacent hollow (a crosscut in mining) or between two parts of a tunnel build from both ends; knockthrough.**
+- **The penetration of the opposition [[d/_defence|defence]]**
+- **The penetration of a separating wall or the remaining [[d/_distance|distance]] to an [[a/_adjacent|adjacent]] hollow (a [[c/_crosscut|crosscut]] in mining) or [[b/_between|between]] two parts of a tunnel [[b/_build|build]] from [[b/_both|both]] [[e/_ends|ends]]; knockthrough.**
 ---
 #adjective
-- **Characterized by major progress or overcoming some obstacle.**
+- **[[c/_characterized|Characterized]] by major progress or overcoming some obstacle.**
 	- _Example: a breakthrough technological advance_
 ---
 ---

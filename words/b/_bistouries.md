@@ -1,6 +1,6 @@
 # Bistouries
 ---
 #noun
-- **A narrow-bladed surgical knife.**
+- **A narrow-[[b/_bladed|bladed]] surgical knife.**
 ---
 ---

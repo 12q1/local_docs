@@ -1,11 +1,11 @@
 # Bewailing
 ---
 #verb
-- **To wail over; to feel or express deep sorrow for**
+- **To wail over; to feel or express [[d/_deep|deep]] sorrow for**
 ---
 ### Synonyms
-- [[[[b/_bemoan|bemoan]]]], [[grieve]], [[lament]]
+- [[bemoan]], [[grieve]], [[lament]]
 #noun
-- **The act of one who bewails something.**
+- **The [[a/_act|act]] of one who [[b/_bewails|bewails]] something.**
 ---
 ---

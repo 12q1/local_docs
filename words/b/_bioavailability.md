@@ -1,7 +1,7 @@
 # Bioavailability
 ---
 #noun
-- **The amount of drug which reaches the site of physiological activity after administration.**
+- **The [[a/_amount|amount]] of [[d/_drug|drug]] which reaches the site of physiological [[a/_activity|activity]] [[a/_after|after]] [[a/_administration|administration]].**
 	- _Example: poor/low oral bioavailability_
 ---
 ---

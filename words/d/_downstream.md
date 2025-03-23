@@ -1,14 +1,14 @@
 # Downstream
 ---
 #verb
-- **To stream downward.**
+- **To stream [[d/_downward|downward]].**
 ---
 #adjective
-- **Lower down, in relation to a river, stream or flow of fluid**
+- **Lower [[d/_down|down]], in relation to a river, stream or flow of fluid**
 	- _Example: She lives downstream from the dam._
-- **In the direction from the server to the client.**
-- **Towards the 3' end of a DNA molecule.**
-- **(metaphoric) Influenced by something; being a consequence of something.**
+- **In the [[d/_direction|direction]] from the server to the [[c/_client|client]].**
+- **Towards the 3' [[e/_end|end]] of a DNA molecule.**
+- **(metaphoric) Influenced by something; [[b/_being|being]] a [[c/_consequence|consequence]] of something.**
 ---
 ### Antonyms
 - [[upstream]]

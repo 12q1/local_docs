@@ -1,7 +1,7 @@
 # Befurred
 ---
 #verb
-- **To cover or clothe with fur.**
+- **To [[c/_cover|cover]] or [[c/_clothe|clothe]] with fur.**
 ---
 #adjective
 - **Wearing fur.**

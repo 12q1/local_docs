@@ -1,9 +1,9 @@
 # Counterboring
 ---
 #verb
-- **To create such a cylindrical recess.**
+- **To [[c/_create|create]] such a [[c/_cylindrical|cylindrical]] recess.**
 ---
 #noun
-- **A counterbore. (cylindrical recess)**
+- **A [[c/_counterbore|counterbore]]. ([[c/_cylindrical|cylindrical]] recess)**
 ---
 ---

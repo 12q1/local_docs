@@ -1,6 +1,6 @@
 # Bloviate
 ---
 #verb
-- **To speak or discourse at length in a pompous or boastful manner.**
+- **To speak or [[d/_discourse|discourse]] at length in a pompous or [[b/_boastful|boastful]] manner.**
 ---
 ---

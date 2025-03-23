@@ -2,8 +2,8 @@
 ---
 #adjective
 - **Unrestrained by morality.**
-- **Recklessly abandoned to sensual pleasures.**
+- **Recklessly [[a/_abandoned|abandoned]] to sensual pleasures.**
 ---
 ### Synonyms
-- [[[[d/_debauched|debauched]]]], [[[[d/_dissipated|dissipated]]]], [[hedonic]], [[lascivious]], [[lewd]], [[libidinous]], [[profligate]], [[wanton]]
+- [[debauched]], [[dissipated]], [[hedonic]], [[lascivious]], [[lewd]], [[libidinous]], [[profligate]], [[wanton]]
 ---

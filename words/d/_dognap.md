@@ -1,6 +1,6 @@
 # Dognap
 ---
 #verb
-- **To abduct (a dog).**
+- **To [[a/_abduct|abduct]] (a [[d/_dog|dog]]).**
 ---
 ---

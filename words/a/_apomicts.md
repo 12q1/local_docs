@@ -1,6 +1,6 @@
 # Apomicts
 ---
 #noun
-- **Any apomictic plant or organism.**
+- **[[a/_any|Any]] [[a/_apomictic|apomictic]] plant or organism.**
 ---
 ---

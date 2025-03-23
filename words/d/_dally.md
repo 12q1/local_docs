@@ -1,10 +1,10 @@
 # Dally
 ---
 #verb
-- **To waste time in trivial activities, or in idleness; to trifle.**
-- **To caress, especially of a sexual nature; to fondle or pet**
-- **To delay unnecessarily; to while away.**
+- **To waste time in trivial [[a/_activities|activities]], or in idleness; to trifle.**
+- **To [[c/_caress|caress]], especially of a sexual nature; to fondle or pet**
+- **To [[d/_delay|delay]] unnecessarily; to while [[a/_away|away]].**
 ---
 ### Synonyms
-- [[kill time]], [[feel up]], [[grope]], [[touch up]], [[[[d/_dawdle|dawdle]]]], [[[[d/_dilly|dilly]]-[[d/_dally|dally]]]]
+- [[kill time]], [[feel up]], [[grope]], [[touch up]], [[dawdle]], [[dilly-dally]]
 ---

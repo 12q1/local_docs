@@ -1,13 +1,13 @@
 # Caveman
 ---
 #noun
-- **An early human or closely related species, popularly held to reside in caves.**
+- **An [[e/_early|early]] human or [[c/_closely|closely]] related species, popularly held to reside in [[c/_caves|caves]].**
 	- _Example: The political cartoon showed the politician as a caveman, clubbing the budget depicted as a mammoth._
-- **A brutish or savage person.**
+- **A [[b/_brutish|brutish]] or savage person.**
 	- _Example: The football squad was made up of cavemen who were responsible for trashing many a locker room._
-- **A man with old-fashioned or backward opinions, particularly with regard to women.**
+- **A man with old-fashioned or [[b/_backward|backward]] opinions, particularly with regard to women.**
 	- _Example: Old Sven is a bit of a caveman; he figures giving women the right to vote was a bad idea._
 ---
 ### Synonyms
-- [[[[b/_boor|boor]]]], [[knuckle [[d/_dragger|dragger]]]], [[lout]], [[savage]], [[thug]], [[troglodyte]], [[hominid]], [[hominin]], [[neanderthal]], [[troglodyte]], [[[[c/_chauvinist|chauvinist]]]]
+- [[boor]], [[knuckle dragger]], [[lout]], [[savage]], [[thug]], [[troglodyte]], [[hominid]], [[hominin]], [[neanderthal]], [[troglodyte]], [[chauvinist]]
 ---

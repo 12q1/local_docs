@@ -1,6 +1,6 @@
 # Benzocaine
 ---
 #noun
-- **A local anesthetic commonly used as a topical pain reliever.**
+- **A local [[a/_anesthetic|anesthetic]] [[c/_commonly|commonly]] used as a topical pain reliever.**
 ---
 ---

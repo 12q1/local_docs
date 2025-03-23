@@ -1,12 +1,12 @@
 # Crayons
 ---
 #noun
-- **A stick of colored chalk or wax used for drawing.**
-- **A colored pencil, a colouring pencil**
-- **A crayon drawing, or a drawing with colored lines.**
-- **A pencil of carbon used in producing electric light.**
+- **A stick of [[c/_colored|colored]] [[c/_chalk|chalk]] or wax used for [[d/_drawing|drawing]].**
+- **A [[c/_colored|colored]] pencil, a [[c/_colouring|colouring]] pencil**
+- **A [[c/_crayon|crayon]] [[d/_drawing|drawing]], or a [[d/_drawing|drawing]] with [[c/_colored|colored]] lines.**
+- **A pencil of [[c/_carbon|carbon]] used in producing [[e/_electric|electric]] light.**
 - **An informal map of a proposed rail route.**
 ---
 ### Synonyms
-- [[pencil [[c/_crayon|crayon]]]]
+- [[pencil crayon]]
 ---

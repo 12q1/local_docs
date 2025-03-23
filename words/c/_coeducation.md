@@ -1,6 +1,6 @@
 # Coeducation
 ---
 #noun
-- **The education of male and female students in the same institution**
+- **The [[e/_education|education]] of male and female students in the same institution**
 ---
 ---

@@ -1,9 +1,9 @@
 # Clanked
 ---
 #verb
-- **To make a clanking sound**
+- **To make a [[c/_clanking|clanking]] sound**
 	- _Example: The chains clanked._
-- **To cause to sound with a clank.**
+- **To [[c/_cause|cause]] to sound with a [[c/_clank|clank]].**
 	- _Example: The prisoners clank their chains._
 ---
 ---

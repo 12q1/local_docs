@@ -1,7 +1,7 @@
 # Dimensional
 ---
 #adjective
-- **Of or pertaining to dimensions.**
-- **Having dimension or dimensions; three-dimensional.**
+- **Of or pertaining to [[d/_dimensions|dimensions]].**
+- **Having [[d/_dimension|dimension]] or [[d/_dimensions|dimensions]]; three-[[d/_dimensional|dimensional]].**
 ---
 ---

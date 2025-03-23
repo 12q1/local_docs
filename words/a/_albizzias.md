@@ -1,6 +1,6 @@
 # Albizzias
 ---
 #noun
-- **Any of a number of trees and shrubs considered either now or formerly to belong to the genus Albizia**
+- **[[a/_any|Any]] of a number of trees and shrubs [[c/_considered|considered]] [[e/_either|either]] now or formerly to [[b/_belong|belong]] to the genus [[a/_albizia|Albizia]]**
 ---
 ---

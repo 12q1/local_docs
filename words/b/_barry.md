@@ -1,6 +1,6 @@
 # Barry
 ---
 #noun
-- **A field divided transversely into several equal parts, and consisting of two different tinctures interchangeably disposed.**
+- **A field [[d/_divided|divided]] transversely into several [[e/_equal|equal]] parts, and [[c/_consisting|consisting]] of two [[d/_different|different]] tinctures interchangeably [[d/_disposed|disposed]].**
 ---
 ---

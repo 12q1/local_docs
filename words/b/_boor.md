@@ -2,8 +2,8 @@
 ---
 #noun
 - **A peasant.**
-- **A Boer, white South African of Dutch or Huguenot descent.**
-- **A yokel, country bumpkin.**
+- **A [[b/_boer|Boer]], white South [[a/_african|African]] of [[d/_dutch|Dutch]] or Huguenot [[d/_descent|descent]].**
+- **A yokel, [[c/_country|country]] [[b/_bumpkin|bumpkin]].**
 - **An uncultured person.**
 ---
 ---

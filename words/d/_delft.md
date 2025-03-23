@@ -1,6 +1,6 @@
 # Delft
 ---
 #noun
-- **A style of blue and white earthenware.**
+- **A style of [[b/_blue|blue]] and white [[e/_earthenware|earthenware]].**
 ---
 ---

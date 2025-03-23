@@ -5,5 +5,5 @@
 - **A roundabout expression.**
 ---
 ### Synonyms
-- [[[[a/_ambages|ambages]]]], [[periphrasis]]
+- [[ambages]], [[periphrasis]]
 ---

@@ -1,8 +1,8 @@
 # Ankylostomiasis
 ---
 #noun
-- **Infection by the hookworm Ancylostoma.**
+- **Infection by the hookworm [[a/_ancylostoma|Ancylostoma]].**
 ---
 ### Synonyms
-- [[[[e/_egyptian|Egyptian]] [[c/_chlorosis|chlorosis]]]], [[[[b/_brickmaker|brickmaker]]'s [[a/_anaemia|anaemia]]]], [[miner's [[a/_anaemia|anaemia]]]], [[tunnel [[d/_disease|disease]]]]
+- [[Egyptian chlorosis]], [[brickmaker's anaemia]], [[miner's anaemia]], [[tunnel disease]]
 ---

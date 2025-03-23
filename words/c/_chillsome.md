@@ -1,6 +1,6 @@
 # Chillsome
 ---
 #adjective
-- **Characterised or marked by chill or chilliness**
+- **[[c/_characterised|Characterised]] or marked by [[c/_chill|chill]] or [[c/_chilliness|chilliness]]**
 ---
 ---

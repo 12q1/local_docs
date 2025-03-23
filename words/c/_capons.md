@@ -1,6 +1,6 @@
 # Capons
 ---
 #noun
-- **A cockerel which has been gelded and fattened for the table.**
+- **A [[c/_cockerel|cockerel]] which has [[b/_been|been]] gelded and fattened for the table.**
 ---
 ---

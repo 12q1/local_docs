@@ -2,6 +2,6 @@
 ---
 #verb
 - **To remove the polarization from something.**
-- **To demagnetize.**
+- **To [[d/_demagnetize|demagnetize]].**
 ---
 ---

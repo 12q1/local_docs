@@ -5,6 +5,6 @@
 	- _Example: Joe travels all over the country, but he is a domiciliary of New York._
 ---
 #adjective
-- **Of or relating to a domicile**
+- **Of or relating to a [[d/_domicile|domicile]]**
 ---
 ---

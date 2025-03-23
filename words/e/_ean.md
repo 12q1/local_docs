@@ -1,6 +1,6 @@
 # Ean
 ---
 #verb
-- **To bring forth young; to yean.**
+- **To [[b/_bring|bring]] forth young; to yean.**
 ---
 ---

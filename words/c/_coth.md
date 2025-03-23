@@ -1,6 +1,6 @@
 # Coth
 ---
 #noun
-- **Abbreviation of hyperbolic cotangent.**
+- **[[a/_abbreviation|Abbreviation]] of hyperbolic [[c/_cotangent|cotangent]].**
 ---
 ---

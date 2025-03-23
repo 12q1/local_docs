@@ -1,9 +1,9 @@
 # Decontrolled
 ---
 #verb
-- **To remove controls.**
+- **To remove [[c/_controls|controls]].**
 ---
 #adjective
-- **Released from a form of control.**
+- **Released from a form of [[c/_control|control]].**
 ---
 ---

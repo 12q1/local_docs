@@ -1,6 +1,6 @@
 # Aquilegia
 ---
 #noun
-- **Any member of the genus Aquilegia.**
+- **[[a/_any|Any]] member of the genus [[a/_aquilegia|Aquilegia]].**
 ---
 ---

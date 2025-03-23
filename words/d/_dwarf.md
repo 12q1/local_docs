@@ -1,9 +1,9 @@
 # Dwarf
 ---
 #noun
-- **Any member of a race of beings from (especially Scandinavian and other Germanic) folklore, usually depicted as having some sort of supernatural powers and being skilled in crafting and metalworking, often as short with long beards, and sometimes as clashing with elves.**
-- **A person of short stature, often one whose limbs are disproportionately small in relation to the body as compared with normal adults, usually as the result of a genetic condition.**
-- **An animal, plant or other thing much smaller than the usual of its sort.**
+- **[[a/_any|Any]] member of a race of [[b/_beings|beings]] from (especially Scandinavian and other Germanic) folklore, usually [[d/_depicted|depicted]] as having some sort of supernatural powers and [[b/_being|being]] skilled in [[c/_crafting|crafting]] and metalworking, often as short with long [[b/_beards|beards]], and sometimes as [[c/_clashing|clashing]] with [[e/_elves|elves]].**
+- **A person of short stature, often one whose limbs are [[d/_disproportionately|disproportionately]] small in relation to the [[b/_body|body]] as [[c/_compared|compared]] with normal [[a/_adults|adults]], usually as the result of a genetic [[c/_condition|condition]].**
+- **An [[a/_animal|animal]], plant or other thing much smaller than the usual of its sort.**
 	- _Example: dwarf honeysuckle_
 - **A star of relatively small size.**
 ---
@@ -12,16 +12,16 @@
 ### Antonyms
 - [[ettin]], [[giant]]
 #verb
-- **To render (much) smaller, turn into a dwarf (version).**
-- **To make appear (much) smaller, puny, tiny.**
+- **To render (much) smaller, turn into a [[d/_dwarf|dwarf]] (version).**
+- **To make [[a/_appear|appear]] (much) smaller, puny, tiny.**
 	- _Example: The newly-built skyscraper dwarfs all older buildings in the downtown skyline._
-- **To make appear insignificant.**
+- **To make [[a/_appear|appear]] insignificant.**
 	- _Example: Bach dwarfs all other composers._
-- **To become (much) smaller.**
+- **To [[b/_become|become]] (much) smaller.**
 - **To hinder from growing to the natural size; to make or keep small; to stunt.**
 ---
 ### Synonyms
-- [[[[e/_eclipse|eclipse]]]], [[outdo]], [[outmatch]], [[outshadow]], [[outshine]], [[outstrip]], [[overshadow]], [[put to shame]], [[surpass]], [[upstage]], [[miniaturize]], [[shrink]], [[shrink]]
+- [[eclipse]], [[outdo]], [[outmatch]], [[outshadow]], [[outshine]], [[outstrip]], [[overshadow]], [[put to shame]], [[surpass]], [[upstage]], [[miniaturize]], [[shrink]], [[shrink]]
 #adjective
 - **Miniature.**
 	- _Example: It is possible to grow the plants as dwarf as one desires._

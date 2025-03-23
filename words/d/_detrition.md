@@ -1,6 +1,6 @@
 # Detrition
 ---
 #noun
-- **Attrition; erosion by friction**
+- **[[a/_attrition|Attrition]]; erosion by friction**
 ---
 ---

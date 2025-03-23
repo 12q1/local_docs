@@ -1,12 +1,12 @@
 # Docs
 ---
 #noun
-- **A doctor.**
+- **A [[d/_doctor|doctor]].**
 ---
 #noun
-- **(usually in the plural) A document, especially (in professional jargon) a piece of technical documentation or legal evidence.**
+- **(usually in the plural) A [[d/_document|document]], especially (in professional jargon) a piece of technical [[d/_documentation|documentation]] or legal evidence.**
 ---
 #noun
-- **A documentary.**
+- **A [[d/_documentary|documentary]].**
 ---
 ---

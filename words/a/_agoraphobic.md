@@ -1,9 +1,9 @@
 # Agoraphobic
 ---
 #noun
-- **One who suffers from agoraphobia.**
+- **One who suffers from [[a/_agoraphobia|agoraphobia]].**
 ---
 #adjective
-- **Of or pertaining to agoraphobia.**
+- **Of or pertaining to [[a/_agoraphobia|agoraphobia]].**
 ---
 ---

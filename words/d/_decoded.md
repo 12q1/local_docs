@@ -1,11 +1,11 @@
 # Decoded
 ---
 #verb
-- **To convert from an encrypted form to plain text.**
-- **To figure out something difficult to interpret.**
+- **To [[c/_convert|convert]] from an [[e/_encrypted|encrypted]] form to plain text.**
+- **To figure out something [[d/_difficult|difficult]] to interpret.**
 ---
 ### Synonyms
-- [[[[d/_decipher|decipher]]]]
+- [[decipher]]
 ### Antonyms
-- [[[[e/_encode|encode]]]]
+- [[encode]]
 ---

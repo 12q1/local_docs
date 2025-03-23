@@ -2,11 +2,11 @@
 ---
 #noun
 - **Great warmth of feeling; fervor; passion.**
-- **Spirit; enthusiasm; passion.**
+- **Spirit; [[e/_enthusiasm|enthusiasm]]; passion.**
 - **Intense heat.**
 ---
 ### Synonyms
-- [[[[e/_elan|elan]]]], [[fire in the [[b/_belly|belly]]]], [[passion]], [[zeal]], [[intensity]]
+- [[elan]], [[fire in the belly]], [[passion]], [[zeal]], [[intensity]]
 ### Antonyms
-- [[[[a/_apathy|apathy]]]]
+- [[apathy]]
 ---

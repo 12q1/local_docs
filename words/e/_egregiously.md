@@ -1,6 +1,6 @@
 # Egregiously
 ---
 #adverb
-- **Conspicuously badly (used negatively)**
+- **[[c/_conspicuously|Conspicuously]] [[b/_badly|badly]] (used negatively)**
 ---
 ---

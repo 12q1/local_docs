@@ -1,10 +1,10 @@
 # Deleting
 ---
 #verb
-- **To remove, get rid of or erase, especially written or printed material, or data on a computer or other device.**
+- **To remove, get rid of or erase, especially written or printed material, or [[d/_data|data]] on a [[c/_computer|computer]] or other [[d/_device|device]].**
 ---
 ### Synonyms
-- [[[[c/_clear|clear]]]], [[erase]], [[remove]], [[strike]], [[terminate]]
+- [[clear]], [[erase]], [[remove]], [[strike]], [[terminate]]
 ### Antonyms
 - [[insert]], [[main]]
 ---

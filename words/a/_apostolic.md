@@ -1,11 +1,11 @@
 # Apostolic
 ---
 #adjective
-- **Pertaining to apostles or their practice of teaching; pertaining to the apostles (of early Christianity) or their teachings.**
+- **Pertaining to [[a/_apostles|apostles]] or their practice of teaching; pertaining to the [[a/_apostles|apostles]] (of [[e/_early|early]] [[c/_christianity|Christianity]]) or their teachings.**
 	- _Example: an apostolic mission_
-- **According to the doctrines of the apostles; delivered or taught by the apostles.**
+- **[[a/_according|According]] to the [[d/_doctrines|doctrines]] of the [[a/_apostles|apostles]]; [[d/_delivered|delivered]] or taught by the [[a/_apostles|apostles]].**
 	- _Example: apostolic faith or practice_
 - **Of or pertaining to the pope or the papacy; papal.**
-- **Of or pertaining to the Catholic missions.**
+- **Of or pertaining to the [[c/_catholic|Catholic]] missions.**
 ---
 ---

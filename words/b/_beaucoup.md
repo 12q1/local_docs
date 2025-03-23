@@ -1,9 +1,9 @@
 # Beaucoup
 ---
 #noun
-- **An abundance.**
+- **An [[a/_abundance|abundance]].**
 ---
 #adverb
-- **In abundance.**
+- **In [[a/_abundance|abundance]].**
 ---
 ---

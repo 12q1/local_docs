@@ -1,8 +1,8 @@
 # Doomsayer
 ---
 #noun
-- **One who makes dire predictions about the future; one who predicts doom.**
+- **One who makes [[d/_dire|dire]] predictions [[a/_about|about]] the future; one who predicts [[d/_doom|doom]].**
 ---
 ### Synonyms
-- [[[[a/_apocalyptic|apocalyptic]]]], [[apocalypticist]], [[doomtard]]
+- [[apocalyptic]], [[apocalypticist]], [[doomtard]]
 ---

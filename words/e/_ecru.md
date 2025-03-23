@@ -1,9 +1,9 @@
 # Ecru
 ---
 #noun
-- **A beige colour.**
+- **A [[b/_beige|beige]] [[c/_colour|colour]].**
 ---
 #adjective
-- **Of a beige colour.**
+- **Of a [[b/_beige|beige]] [[c/_colour|colour]].**
 ---
 ---

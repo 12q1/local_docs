@@ -1,10 +1,10 @@
 # Alter
 ---
 #verb
-- **To change the form or structure of.**
-- **To become different.**
-- **To tailor clothes to make them fit.**
-- **To castrate, neuter or spay (a dog or other animal).**
-- **To affect mentally, as by psychotropic drugs or illness.**
+- **To [[c/_change|change]] the form or structure of.**
+- **To [[b/_become|become]] [[d/_different|different]].**
+- **To tailor [[c/_clothes|clothes]] to make them fit.**
+- **To [[c/_castrate|castrate]], neuter or spay (a [[d/_dog|dog]] or other [[a/_animal|animal]]).**
+- **To [[a/_affect|affect]] mentally, as by psychotropic [[d/_drugs|drugs]] or illness.**
 ---
 ---

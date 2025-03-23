@@ -5,5 +5,5 @@
 - **A male friend.**
 ---
 ### Synonyms
-- [[[[b/_buddy|buddy]]]], [[guyfriend]], [[mate]], [[pal]]
+- [[buddy]], [[guyfriend]], [[mate]], [[pal]]
 ---

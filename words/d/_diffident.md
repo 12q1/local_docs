@@ -1,8 +1,8 @@
 # Diffident
 ---
 #adjective
-- **Lacking confidence in others; distrustful.**
-- **Lacking self-confidence; timid; modest**
+- **Lacking [[c/_confidence|confidence]] in others; [[d/_distrustful|distrustful]].**
+- **Lacking self-[[c/_confidence|confidence]]; timid; modest**
 ---
 ### Synonyms
 - [[modest]], [[timid]]

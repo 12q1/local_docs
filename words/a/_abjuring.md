@@ -1,13 +1,13 @@
 # Abjuring
 ---
 #verb
-- **To renounce upon oath; to forswear; to disavow.**
+- **To renounce upon oath; to forswear; to [[d/_disavow|disavow]].**
 	- _Example: To abjure allegiance to a prince._
-- **To cause one to renounce or recant.**
-- **To reject with solemnity; to abandon forever; to repudiate; to disclaim.**
+- **To [[c/_cause|cause]] one to renounce or recant.**
+- **To reject with solemnity; to [[a/_abandon|abandon]] forever; to repudiate; to [[d/_disclaim|disclaim]].**
 	- _Example: To abjure errors._
-- **To abstain from; to avoid; to shun.**
+- **To [[a/_abstain|abstain]] from; to [[a/_avoid|avoid]]; to shun.**
 ---
 ### Synonyms
-- [[[[a/_avoid|avoid]]]], [[shun]], [[[[d/_disclaim|disclaim]]]], [[repudiate]], [[[[d/_disavow|disavow]]]], [[forswear]], [[renounce]]
+- [[avoid]], [[shun]], [[disclaim]], [[repudiate]], [[disavow]], [[forswear]], [[renounce]]
 ---

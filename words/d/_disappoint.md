@@ -1,18 +1,18 @@
 # Disappoint
 ---
 #verb
-- **To sadden or displease (someone) by underperforming, or by not delivering something promised or hoped for.**
+- **To sadden or [[d/_displease|displease]] (someone) by underperforming, or by not [[d/_delivering|delivering]] something promised or hoped for.**
 	- _Example: His lack of respect disappointed her._
-- **To deprive (someone of something expected or hoped for).**
+- **To [[d/_deprive|deprive]] (someone of something expected or hoped for).**
 - **To fail to meet (an expectation); to fail to fulfil (a hope).**
-- **To show (an opinion, belief, etc.) to be mistaken.**
-- **To prevent (something planned or attempted).**
+- **To show (an opinion, [[b/_belief|belief]], etc.) to be mistaken.**
+- **To prevent (something planned or [[a/_attempted|attempted]]).**
 ---
 ### Synonyms
 - [[frustrate]], [[thwart]]
 ### Antonyms
 - [[satisfy]]
 #adjective
-- **Disappointed**
+- **[[d/_disappointed|Disappointed]]**
 ---
 ---

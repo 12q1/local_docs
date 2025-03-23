@@ -1,6 +1,6 @@
 # Dyking
 ---
 #noun
-- **The process of building a dike.**
+- **The process of [[b/_building|building]] a [[d/_dike|dike]].**
 ---
 ---

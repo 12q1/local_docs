@@ -1,19 +1,19 @@
 # Becks
 ---
 #noun
-- **Anatomical uses.**
+- **[[a/_anatomical|Anatomical]] uses.**
 - **Figurative uses.**
-- **Colloquial uses.**
+- **[[c/_colloquial|Colloquial]] uses.**
 ---
 ### Synonyms
-- [[honker]], [[schnozzle]], [[[[b/_bill|bill]]]]
+- [[honker]], [[schnozzle]], [[bill]]
 #noun
 - **A stream or small river.**
 ---
 ### Synonyms
-- [[[[b/_brook|brook]]]], [[[[b/_burn|burn]]]], [[[[c/_creek|creek]]]], [[stream]]
+- [[brook]], [[burn]], [[creek]], [[stream]]
 #noun
-- **A significant nod, or motion of the head or hand, especially as a call or command.**
+- **A significant nod, or motion of the head or hand, especially as a [[c/_call|call]] or [[c/_command|command]].**
 ---
 #noun
 - **A vat.**

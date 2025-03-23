@@ -1,6 +1,6 @@
 # Bevatrons
 ---
 #noun
-- **A particle accelerator of the 1950s, capable of imparting energies of billions of electron volts.**
+- **A particle [[a/_accelerator|accelerator]] of the 1950s, [[c/_capable|capable]] of imparting [[e/_energies|energies]] of [[b/_billions|billions]] of [[e/_electron|electron]] volts.**
 ---
 ---

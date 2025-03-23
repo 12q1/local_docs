@@ -1,6 +1,6 @@
 # Cunningly
 ---
 #adverb
-- **With cunning, cleverly.**
+- **With [[c/_cunning|cunning]], [[c/_cleverly|cleverly]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Deviance
 ---
 #noun
-- **Actions or behaviors that violate formal and informal cultural norms such as laws and customs.**
-- **A person or thing that differs from the expected.**
+- **[[a/_actions|Actions]] or [[b/_behaviors|behaviors]] that violate formal and informal [[c/_cultural|cultural]] norms such as laws and [[c/_customs|customs]].**
+- **A person or thing that [[d/_differs|differs]] from the expected.**
 ---
 ---

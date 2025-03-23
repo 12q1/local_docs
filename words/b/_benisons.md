@@ -1,7 +1,7 @@
 # Benisons
 ---
 #noun
-- **A blessing; benediction.**
+- **A [[b/_blessing|blessing]]; [[b/_benediction|benediction]].**
 ---
 ### Antonyms
 - [[malison]]

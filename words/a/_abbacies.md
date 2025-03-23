@@ -1,8 +1,8 @@
 # Abbacies
 ---
 #noun
-- **The dignity, estate, term, or jurisdiction of an abbot or abbess.**
+- **The [[d/_dignity|dignity]], estate, term, or jurisdiction of an [[a/_abbot|abbot]] or [[a/_abbess|abbess]].**
 ---
 ### Synonyms
-- [[[[a/_abbotric|abbotric]] (obsolete)]], [[abbotrick (obsolete)]]
+- [[abbotric (obsolete)]], [[abbotrick (obsolete)]]
 ---

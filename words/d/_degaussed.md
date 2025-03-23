@@ -1,8 +1,8 @@
 # Degaussed
 ---
 #verb
-- **To reduce or eliminate the magnetic field from (the hull of a ship, or a computer monitor, etc.).**
+- **To reduce or [[e/_eliminate|eliminate]] the magnetic field from (the hull of a ship, or a [[c/_computer|computer]] monitor, etc.).**
 ---
 ### Synonyms
-- [[[[d/_deperm|deperm]]]], [[[[d/_demagnetise|demagnetise]]]]
+- [[deperm]], [[demagnetise]]
 ---

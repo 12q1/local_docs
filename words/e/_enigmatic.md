@@ -1,9 +1,9 @@
 # Enigmatic
 ---
 #adjective
-- **Pertaining to an enigma.**
+- **Pertaining to an [[e/_enigma|enigma]].**
 - **Mysterious.**
-- **Defying description.**
-- **(variant) Enigmatical.**
+- **[[d/_defying|Defying]] [[d/_description|description]].**
+- **(variant) [[e/_enigmatical|Enigmatical]].**
 ---
 ---

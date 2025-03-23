@@ -1,6 +1,6 @@
 # Biz
 ---
 #noun
-- **Business.**
+- **[[b/_business|Business]].**
 ---
 ---

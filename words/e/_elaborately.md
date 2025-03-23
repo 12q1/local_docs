@@ -1,6 +1,6 @@
 # Elaborately
 ---
 #adverb
-- **In an elaborate manner.**
+- **In an [[e/_elaborate|elaborate]] manner.**
 ---
 ---

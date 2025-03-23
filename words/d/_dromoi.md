@@ -1,8 +1,8 @@
 # Dromoi
 ---
 #noun
-- **An avenue, especially in Ancient Greece.**
-- **A walkway to a building, a ceremonial walkway to a temple or tomb in Ancient Greece or Egypt.**
-- **A racecourse, especially in Ancient Greece.**
+- **An [[a/_avenue|avenue]], especially in [[a/_ancient|Ancient]] Greece.**
+- **A walkway to a [[b/_building|building]], a [[c/_ceremonial|ceremonial]] walkway to a temple or tomb in [[a/_ancient|Ancient]] Greece or [[e/_egypt|Egypt]].**
+- **A racecourse, especially in [[a/_ancient|Ancient]] Greece.**
 ---
 ---

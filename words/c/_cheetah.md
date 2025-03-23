@@ -1,8 +1,8 @@
 # Cheetah
 ---
 #noun
-- **A distinctive member (Acinonyx jubatus) of the cat family, slightly smaller than the leopard, but with proportionately longer limbs and a smaller head. It is native to Africa and also credited with being the fastest terrestrial animal.**
+- **A [[d/_distinctive|distinctive]] member (Acinonyx jubatus) of the [[c/_cat|cat]] family, slightly smaller than the leopard, but with proportionately longer limbs and a smaller head. It is native to [[a/_africa|Africa]] and [[a/_also|also]] [[c/_credited|credited]] with [[b/_being|being]] the fastest terrestrial [[a/_animal|animal]].**
 ---
 ### Synonyms
-- [[hunting [[c/_cat|cat]]]], [[hunting leopard]]
+- [[hunting cat]], [[hunting leopard]]
 ---

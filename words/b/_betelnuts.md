@@ -1,8 +1,8 @@
 # Betelnuts
 ---
 #noun
-- **An egg-shaped seed of the betel palm; wrapped in the leaves of the betel pepper and chewed.**
+- **An [[e/_egg|egg]]-shaped seed of the [[b/_betel|betel]] palm; wrapped in the leaves of the [[b/_betel|betel]] pepper and [[c/_chewed|chewed]].**
 ---
 ### Synonyms
-- [[[[a/_areca|areca]] nut]]
+- [[areca nut]]
 ---

@@ -1,16 +1,16 @@
 # Blamed
 ---
 #verb
-- **To censure (someone or something); to criticize.**
-- **To bring into disrepute.**
-- **(usually followed by "for") To assert or consider that someone is the cause of something negative; to place blame, to attribute responsibility (for something negative or for doing something negative).**
+- **To [[c/_censure|censure]] (someone or something); to [[c/_criticize|criticize]].**
+- **To [[b/_bring|bring]] into [[d/_disrepute|disrepute]].**
+- **(usually followed by "for") To [[a/_assert|assert]] or [[c/_consider|consider]] that someone is the [[c/_cause|cause]] of something negative; to place [[b/_blame|blame]], to [[a/_attribute|attribute]] responsibility (for something negative or for [[d/_doing|doing]] something negative).**
 	- _Example: The arsonist was blamed for the fire._
 ---
 ### Synonyms
-- [[reproach]], [[shend]], [[take to task]], [[upbraid]], [[hold to [[a/_account|account]]]]
+- [[reproach]], [[shend]], [[take to task]], [[upbraid]], [[hold to account]]
 #adjective
 - **God-forsaken.**
-- **Variant of profane damn.**
+- **Variant of profane [[d/_damn|damn]].**
 	- _Example: His damned cards are scattered!_
 ---
 ---

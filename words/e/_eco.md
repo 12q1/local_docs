@@ -1,6 +1,6 @@
 # Eco
 ---
 #adjective
-- **Environmentally friendly or sensitive.**
+- **[[e/_environmentally|Environmentally]] friendly or sensitive.**
 ---
 ---

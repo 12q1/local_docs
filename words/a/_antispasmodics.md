@@ -1,6 +1,6 @@
 # Antispasmodics
 ---
 #noun
-- **A drug that suppresses spasms.**
+- **A [[d/_drug|drug]] that suppresses spasms.**
 ---
 ---

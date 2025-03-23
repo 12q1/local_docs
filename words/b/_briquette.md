@@ -1,12 +1,12 @@
 # Briquette
 ---
 #noun
-- **A small brick, typically made of charcoal and used for fuel.**
-- **A block of artificial stone in the form of a brick, used for paving.**
-- **A moulded sample of solidified cement or mortar for use as a test piece for showing the strength of the material.**
-- **A cigarette lighter.**
+- **A small [[b/_brick|brick]], typically made of [[c/_charcoal|charcoal]] and used for fuel.**
+- **A [[b/_block|block]] of [[a/_artificial|artificial]] stone in the form of a [[b/_brick|brick]], used for paving.**
+- **A moulded sample of solidified [[c/_cement|cement]] or mortar for use as a test piece for showing the strength of the material.**
+- **A [[c/_cigarette|cigarette]] lighter.**
 ---
 #verb
-- **To form (coal, etc.) into small bricks.**
+- **To form ([[c/_coal|coal]], etc.) into small [[b/_bricks|bricks]].**
 ---
 ---

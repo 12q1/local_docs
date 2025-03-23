@@ -1,6 +1,6 @@
 # Doorplates
 ---
 #noun
-- **A plaque mounted on a door, bearing information about the occupant of a room or building.**
+- **A plaque mounted on a [[d/_door|door]], [[b/_bearing|bearing]] information [[a/_about|about]] the occupant of a room or [[b/_building|building]].**
 ---
 ---

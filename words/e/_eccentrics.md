@@ -1,11 +1,11 @@
 # Eccentrics
 ---
 #noun
-- **One who does not behave like others.**
-- **A kook; a person of bizarre habits or beliefs.**
-- **A circle not having the same centre as another.**
-- **A disk or wheel with its axis off centre, giving a reciprocating motion.**
+- **One who [[d/_does|does]] not [[b/_behave|behave]] like others.**
+- **A kook; a person of [[b/_bizarre|bizarre]] habits or [[b/_beliefs|beliefs]].**
+- **A [[c/_circle|circle]] not having the same [[c/_centre|centre]] as [[a/_another|another]].**
+- **A [[d/_disk|disk]] or wheel with its [[a/_axis|axis]] off [[c/_centre|centre]], giving a reciprocating motion.**
 ---
 ### Synonyms
-- [[[[c/_crank|crank]]]], [[odd [[d/_duck|duck]]]], [[weirdo]], [[misfit]], [[nonconformist]]
+- [[crank]], [[odd duck]], [[weirdo]], [[misfit]], [[nonconformist]]
 ---

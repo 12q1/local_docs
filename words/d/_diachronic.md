@@ -1,8 +1,8 @@
 # Diachronic
 ---
 #adjective
-- **Occurring over or changing with time.**
-- **Of, pertaining to or concerned with changes that occur over time.**
+- **Occurring over or [[c/_changing|changing]] with time.**
+- **Of, pertaining to or [[c/_concerned|concerned]] with [[c/_changes|changes]] that occur over time.**
 ---
 ### Synonyms
 - [[diachronical]]

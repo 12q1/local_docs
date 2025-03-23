@@ -1,13 +1,13 @@
 # Either
 ---
 #adverb
-- **(after a negative) As well.**
+- **([[a/_after|after]] a negative) As well.**
 	- _Example: I don't like him, and I don't like her either._
 ---
 #pronoun
 - **One or other of two people or things.**
 	- _Example: He made me two offers, but I did not accept either._
-- **Both, each of two or more.**
+- **[[b/_both|Both]], [[e/_each|each]] of two or more.**
 ---
 #conjunction
 - **Introduces the first of two (or occasionally more) options or possibilities, the second (or last) of which is introduced by “or”.**

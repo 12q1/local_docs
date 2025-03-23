@@ -1,6 +1,6 @@
 # Comings
 ---
 #noun
-- **The act of arriving; an arrival**
+- **The [[a/_act|act]] of [[a/_arriving|arriving]]; an [[a/_arrival|arrival]]**
 ---
 ---

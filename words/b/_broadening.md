@@ -1,14 +1,14 @@
 # Broadening
 ---
 #verb
-- **To make broad or broader.**
+- **To make [[b/_broad|broad]] or [[b/_broader|broader]].**
 	- _Example: Travel broadens the mind._
-- **To become broad or broader.**
+- **To [[b/_become|become]] [[b/_broad|broad]] or [[b/_broader|broader]].**
 	- _Example: The roads gradually broadened as we drove into the countryside._
 ---
 ### Synonyms
 - [[extend]], [[widen]], [[widen]]
 #noun
-- **The act of becoming broader**
+- **The [[a/_act|act]] of [[b/_becoming|becoming]] [[b/_broader|broader]]**
 ---
 ---

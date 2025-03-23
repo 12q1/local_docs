@@ -6,12 +6,12 @@
 - **A qualification or exemption.**
 	- _Example: He gave his daughter some hyacinth bulbs with the caveat that she plant them in the shade._
 - **A formal objection.**
-- **A notice requesting a postponement of a court proceeding.**
+- **A notice requesting a postponement of a [[c/_court|court]] proceeding.**
 ---
 #verb
-- **To qualify a statement with a caveat or proviso.**
+- **To qualify a statement with a [[c/_caveat|caveat]] or proviso.**
 - **To formally object to something.**
 - **To issue a notice requesting that proceedings be suspended.**
-- **To warn or caution against some event.**
+- **To warn or [[c/_caution|caution]] [[a/_against|against]] some event.**
 ---
 ---

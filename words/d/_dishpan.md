@@ -1,6 +1,6 @@
 # Dishpan
 ---
 #noun
-- **A large basin or pan with a flat bottom in which dishes are washed.**
+- **A large [[b/_basin|basin]] or pan with a flat [[b/_bottom|bottom]] in which [[d/_dishes|dishes]] are washed.**
 ---
 ---

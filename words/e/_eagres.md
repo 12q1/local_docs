@@ -1,6 +1,6 @@
 # Eagres
 ---
 #noun
-- **A tidal bore**
+- **A tidal [[b/_bore|bore]]**
 ---
 ---

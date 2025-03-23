@@ -1,19 +1,19 @@
 # Aggro
 ---
 #noun
-- **Aggravation; bother.**
-- **Aggressive behaviour; loud, intimidating behaviour that convincingly threatens violence without necessarily actually becoming violent.**
+- **[[a/_aggravation|Aggravation]]; [[b/_bother|bother]].**
+- **[[a/_aggressive|Aggressive]] [[b/_behaviour|behaviour]]; loud, intimidating [[b/_behaviour|behaviour]] that [[c/_convincingly|convincingly]] threatens violence without necessarily [[a/_actually|actually]] [[b/_becoming|becoming]] violent.**
 	- _Example: Move along, lads; we don't want any aggro._
-- **A measure of how belligerent a player is – a high value may inspire either avoidance or preemptive hostile action from enemies.**
-- **(MMORPG slang) Hostile attention from an enemy that should target players with better defenses.**
+- **A measure of how [[b/_belligerent|belligerent]] a player is – a high value may inspire [[e/_either|either]] [[a/_avoidance|avoidance]] or preemptive hostile [[a/_action|action]] from [[e/_enemies|enemies]].**
+- **(MMORPG slang) Hostile [[a/_attention|attention]] from an [[e/_enemy|enemy]] that should target players with [[b/_better|better]] [[d/_defenses|defenses]].**
 ---
 #verb
-- **(MMORPG slang) To become aggressive towards the player's character.**
+- **(MMORPG slang) To [[b/_become|become]] [[a/_aggressive|aggressive]] towards the player's [[c/_character|character]].**
 	- _Example: Do they aggro on sight or sound?_
 ---
 #adjective
-- **Angry.**
-- **(MMORPG slang) Liable to attack without being attacked first (said of monsters).**
-- **Hardcore, aggressive.**
+- **[[a/_angry|Angry]].**
+- **(MMORPG slang) Liable to [[a/_attack|attack]] without [[b/_being|being]] [[a/_attacked|attacked]] first (said of monsters).**
+- **Hardcore, [[a/_aggressive|aggressive]].**
 ---
 ---

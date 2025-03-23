@@ -1,6 +1,6 @@
 # Aneled
 ---
 #verb
-- **To anoint; to give extreme unction with oil.**
+- **To [[a/_anoint|anoint]]; to give extreme unction with oil.**
 ---
 ---

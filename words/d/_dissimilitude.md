@@ -1,7 +1,7 @@
 # Dissimilitude
 ---
 #noun
-- **The quality of being diverse or different; lack of resemblance.**
+- **The quality of [[b/_being|being]] [[d/_diverse|diverse]] or [[d/_different|different]]; lack of resemblance.**
 ---
 ### Antonyms
 - [[similitude]]

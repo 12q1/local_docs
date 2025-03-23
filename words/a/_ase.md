@@ -1,6 +1,6 @@
 # Ase
 ---
 #noun
-- **An essential energy in West African religions**
+- **An essential [[e/_energy|energy]] in West [[a/_african|African]] religions**
 ---
 ---

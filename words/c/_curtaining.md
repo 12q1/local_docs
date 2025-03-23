@@ -1,12 +1,12 @@
 # Curtaining
 ---
 #verb
-- **To cover (a window) with a curtain; to hang curtains.**
-- **To hide, cover or separate as if by a curtain.**
+- **To [[c/_cover|cover]] (a window) with a [[c/_curtain|curtain]]; to hang [[c/_curtains|curtains]].**
+- **To hide, [[c/_cover|cover]] or separate as if by a [[c/_curtain|curtain]].**
 ---
 ### Synonyms
 - [[becurtain]]
 #noun
-- **Material used for curtains.**
+- **Material used for [[c/_curtains|curtains]].**
 ---
 ---

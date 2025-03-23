@@ -1,6 +1,6 @@
 # Bargees
 ---
 #noun
-- **A crewman of a working barge.**
+- **A [[c/_crewman|crewman]] of a working [[b/_barge|barge]].**
 ---
 ---

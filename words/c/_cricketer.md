@@ -1,6 +1,6 @@
 # Cricketer
 ---
 #noun
-- **A person who plays cricket.**
+- **A person who plays [[c/_cricket|cricket]].**
 ---
 ---

@@ -2,21 +2,21 @@
 ---
 #verb
 - **To finish successfully.**
-- **To complete, as time or distance.**
-- **To execute fully; to fulfill; to complete successfully.**
+- **To [[c/_complete|complete]], as time or [[d/_distance|distance]].**
+- **To execute fully; to fulfill; to [[c/_complete|complete]] successfully.**
 	- _Example: to accomplish a design, an object, a promise_
-- **To equip or furnish thoroughly; hence, to complete in acquirements; to render accomplished; to polish.**
+- **To [[e/_equip|equip]] or furnish thoroughly; hence, to [[c/_complete|complete]] in [[a/_acquirements|acquirements]]; to render [[a/_accomplished|accomplished]]; to polish.**
 - **To gain; to obtain.**
-- **(Philippine English) to fill out a form**
+- **(Philippine [[e/_english|English]]) to fill out a form**
 ---
 ### Synonyms
-- [[[[a/_achieve|achieve]]]], [[[[c/_carry|carry]] out]], [[[[c/_complete|complete]]]], [[[[c/_consummate|consummate]]]], [[[[d/_do|do]]]], [[[[e/_effect|effect]]]], [[[[e/_effectuate|effectuate]]]], [[equip]], [[execute]], [[fulfill]], [[furnish]], [[perfect]], [[perform]], [[realize]]
+- [[achieve]], [[carry out]], [[complete]], [[consummate]], [[do]], [[effect]], [[effectuate]], [[equip]], [[execute]], [[fulfill]], [[furnish]], [[perfect]], [[perform]], [[realize]]
 #adjective
-- **Completed; effected; established.**
+- **[[c/_completed|Completed]]; [[e/_effected|effected]]; established.**
 	- _Example: an accomplished fact_
-- **Having many accomplishments, often as a result of study or training.**
+- **Having many [[a/_accomplishments|accomplishments]], often as a result of study or training.**
 	- _Example: an accomplished scholar, an accomplished villain_
-- **Showing skill and artistry.**
+- **Showing skill and [[a/_artistry|artistry]].**
 	- _Example: an accomplished first novel_
 ---
 ---

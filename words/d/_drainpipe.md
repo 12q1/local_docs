@@ -1,10 +1,10 @@
 # Drainpipe
 ---
 #noun
-- **A pipe that carries fluid which is being drained.**
-- **The type of pipe that is used to construct a drainpipe.**
+- **A pipe that [[c/_carries|carries]] fluid which is [[b/_being|being]] [[d/_drained|drained]].**
+- **The type of pipe that is used to [[c/_construct|construct]] a [[d/_drainpipe|drainpipe]].**
 - **A type of form-fitting trousers with highly tapered legs.**
 ---
 ### Synonyms
-- [[[[c/_culvert|culvert]]]], [[storm [[d/_drain|drain]]]], [[waste pipe]], [[skinny jeans]], [[stovepipe]], [[[[d/_downpipe|downpipe]]]], [[[[d/_downspout|downspout]]]], [[leader]]
+- [[culvert]], [[storm drain]], [[waste pipe]], [[skinny jeans]], [[stovepipe]], [[downpipe]], [[downspout]], [[leader]]
 ---

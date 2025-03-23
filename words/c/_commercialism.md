@@ -1,7 +1,7 @@
 # Commercialism
 ---
 #noun
-- **The practices, methods, aims, and spirit of commerce or business.**
-- **A tendency to value profit over everything else.**
+- **The practices, methods, [[a/_aims|aims]], and spirit of [[c/_commerce|commerce]] or [[b/_business|business]].**
+- **A tendency to value profit over everything [[e/_else|else]].**
 ---
 ---

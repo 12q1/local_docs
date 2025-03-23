@@ -1,6 +1,6 @@
 # Covalent
 ---
 #adjective
-- **Containing or characterized by a covalent bond.**
+- **[[c/_containing|Containing]] or [[c/_characterized|characterized]] by a [[c/_covalent|covalent]] [[b/_bond|bond]].**
 ---
 ---

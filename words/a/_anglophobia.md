@@ -1,8 +1,8 @@
 # Anglophobia
 ---
 #noun
-- **The hatred or fear of England and anything English (or British).**
+- **The hatred or fear of [[e/_england|England]] and [[a/_anything|anything]] [[e/_english|English]] (or [[b/_british|British]]).**
 ---
 ### Antonyms
-- [[[[a/_anglophilia|Anglophilia]]]]
+- [[Anglophilia]]
 ---

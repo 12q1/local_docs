@@ -1,17 +1,17 @@
 # Blinker
 ---
 #noun
-- **Anything that blinks, such as the turn signal of an automobile.**
-- **Eye shields attached to a hood for horses, to prevent them from seeing backwards and partially sideways.**
-- **Whatever obstructs sight or discernment.**
-- **The eyelid.**
-- **A black eye.**
-- **In Conway's Game of Life, an arrangement of three cells in a row that switches between horizontal and vertical orientations in each generation.**
+- **[[a/_anything|Anything]] that [[b/_blinks|blinks]], such as the turn signal of an [[a/_automobile|automobile]].**
+- **[[e/_eye|Eye]] shields [[a/_attached|attached]] to a hood for horses, to prevent them from seeing [[b/_backwards|backwards]] and partially sideways.**
+- **Whatever obstructs sight or [[d/_discernment|discernment]].**
+- **The [[e/_eyelid|eyelid]].**
+- **A [[b/_black|black]] [[e/_eye|eye]].**
+- **In Conway's Game of Life, an [[a/_arrangement|arrangement]] of three [[c/_cells|cells]] in a row that switches [[b/_between|between]] horizontal and vertical orientations in [[e/_each|each]] generation.**
 ---
 ### Synonyms
-- [[[[b/_blinder|blinder]]]], [[winker]], [[[[d/_directional|directional]]]], [[[[d/_directional|directional]] signal]], [[indicator]], [[trafficator]], [[turn indicator]], [[turn signal]]
+- [[blinder]], [[winker]], [[directional]], [[directional signal]], [[indicator]], [[trafficator]], [[turn indicator]], [[turn signal]]
 #verb
-- **To put blinkers on.**
+- **To put [[b/_blinkers|blinkers]] on.**
 	- _Example: The farmer stopped to blinker his horse before riding into an area of heavy traffic._
 ---
 ---

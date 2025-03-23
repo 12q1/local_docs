@@ -1,15 +1,15 @@
 # Ecstatic
 ---
 #noun
-- **(in the plural) Transports of delight; words or actions performed in a state of ecstasy.**
-- **A person in a state of ecstasy.**
+- **(in the plural) Transports of [[d/_delight|delight]]; words or [[a/_actions|actions]] performed in a state of [[e/_ecstasy|ecstasy]].**
+- **A person in a state of [[e/_ecstasy|ecstasy]].**
 ---
 #adjective
-- **Feeling or characterized by ecstasy.**
+- **Feeling or [[c/_characterized|characterized]] by [[e/_ecstasy|ecstasy]].**
 - **Extremely happy.**
-- **Relating to, or caused by, ecstasy or excessive emotion.**
+- **Relating to, or [[c/_caused|caused]] by, [[e/_ecstasy|ecstasy]] or excessive [[e/_emotion|emotion]].**
 	- _Example: ecstatic gaze; ecstatic trance_
 ---
 ### Synonyms
-- [[[[b/_blissful|blissful]]]], [[[[d/_delirious|delirious]]]], [[[[e/_elated|elated]]]], [[euphoric]], [[joyful]], [[joyous]]
+- [[blissful]], [[delirious]], [[elated]], [[euphoric]], [[joyful]], [[joyous]]
 ---

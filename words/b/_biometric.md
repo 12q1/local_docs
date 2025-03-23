@@ -1,6 +1,6 @@
 # Biometric
 ---
 #adjective
-- **Of, pertaining to or using biometrics.**
+- **Of, pertaining to or using [[b/_biometrics|biometrics]].**
 ---
 ---

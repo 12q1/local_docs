@@ -1,11 +1,11 @@
 # Emetic
 ---
 #noun
-- **An agent that induces vomiting**
+- **An [[a/_agent|agent]] that induces vomiting**
 ---
 ### Synonyms
 - [[vomitive]], [[vomitory]]
 #adjective
-- **(pharmaceutical effect) causing nausea and vomiting**
+- **(pharmaceutical [[e/_effect|effect]]) [[c/_causing|causing]] nausea and vomiting**
 ---
 ---

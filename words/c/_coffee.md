@@ -1,20 +1,20 @@
 # Coffee
 ---
 #noun
-- **A beverage made by infusing the beans of the coffee plant in hot water.**
-- **A serving of this beverage.**
-- **The seeds of the plant used to make coffee, misnamed ‘beans’ due to their shape.**
+- **A [[b/_beverage|beverage]] made by infusing the [[b/_beans|beans]] of the [[c/_coffee|coffee]] plant in hot water.**
+- **A serving of this [[b/_beverage|beverage]].**
+- **The seeds of the plant used to make [[c/_coffee|coffee]], misnamed ‘[[b/_beans|beans]]’ [[d/_due|due]] to their shape.**
 - **The powder made by roasting and grinding the seeds.**
-- **A tropical plant of the genus Coffea.**
-- **A pale brown colour, like that of milk coffee.**
-- **The end of a meal, when coffee is served.**
+- **A tropical plant of the genus [[c/_coffea|Coffea]].**
+- **A pale [[b/_brown|brown]] [[c/_colour|colour]], like that of milk [[c/_coffee|coffee]].**
+- **The [[e/_end|end]] of a meal, when [[c/_coffee|coffee]] is served.**
 	- _Example: He did not stay for coffee._
 ---
 #verb
-- **To drink coffee.**
+- **To [[d/_drink|drink]] [[c/_coffee|coffee]].**
 ---
 #adjective
-- **Of a pale brown colour, like that of milk coffee.**
-- **Of a table: a small, low table suitable for people in lounge seating to put coffee cups on.**
+- **Of a pale [[b/_brown|brown]] [[c/_colour|colour]], like that of milk [[c/_coffee|coffee]].**
+- **Of a table: a small, low table suitable for people in lounge seating to put [[c/_coffee|coffee]] [[c/_cups|cups]] on.**
 ---
 ---

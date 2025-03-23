@@ -1,9 +1,9 @@
 # Clangor
 ---
 #noun
-- **A loud, repeating clanging sound; a loud racket; a din.**
+- **A loud, repeating [[c/_clanging|clanging]] sound; a loud racket; a [[d/_din|din]].**
 ---
 #verb
-- **To make a clanging sound.**
+- **To make a [[c/_clanging|clanging]] sound.**
 ---
 ---

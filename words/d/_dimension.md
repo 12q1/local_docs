@@ -1,19 +1,19 @@
 # Dimension
 ---
 #noun
-- **A single aspect of a given thing.**
-- **A measure of spatial extent in a particular direction, such as height, width or breadth, or depth.**
-- **A construct whereby objects or individuals can be distinguished.**
-- **The number of independent coordinates needed to specify uniquely the location of a point in a space; also, any of such independent coordinates.**
-- **The number of elements of any basis of a vector space.**
+- **A single [[a/_aspect|aspect]] of a given thing.**
+- **A measure of spatial extent in a particular [[d/_direction|direction]], such as height, width or [[b/_breadth|breadth]], or [[d/_depth|depth]].**
+- **A [[c/_construct|construct]] whereby objects or individuals [[c/_can|can]] be [[d/_distinguished|distinguished]].**
+- **The number of independent [[c/_coordinates|coordinates]] needed to specify uniquely the location of a point in a space; [[a/_also|also]], [[a/_any|any]] of such independent [[c/_coordinates|coordinates]].**
+- **The number of [[e/_elements|elements]] of [[a/_any|any]] [[b/_basis|basis]] of a vector space.**
 - **One of the physical properties that are regarded as fundamental measures of a physical quantity, such as mass, length and time.**
 	- _Example: The dimension of velocity is length divided by time._
-- **Any of the independent ranges of indices in a multidimensional array.**
+- **[[a/_any|Any]] of the independent ranges of indices in a multidimensional [[a/_array|array]].**
 - **A universe or plane of existence.**
 ---
 ### Synonyms
-- [[[[a/_aspect|aspect]]]], [[[[a/_attribute|attribute]]]], [[property]], [[magnitude]], [[proportion]], [[scope]], [[size]]
+- [[aspect]], [[attribute]], [[property]], [[magnitude]], [[proportion]], [[scope]], [[size]]
 #verb
-- **To mark, cut or shape something to specified dimensions.**
+- **To mark, [[c/_cut|cut]] or shape something to specified [[d/_dimensions|dimensions]].**
 ---
 ---

@@ -1,13 +1,13 @@
 # Commander
 ---
 #noun
-- **One who exercises control and direction of a military or naval organization.**
-- **A naval officer whose rank is above that of a lieutenant commander and below that of captain.**
-- **One who exercises control and direction over a group of persons.**
-- **A designation or rank in certain non-military organizations such as NASA and various police forces.**
-- **The chief officer of a commandry.**
-- **A heavy beetle or wooden mallet, used in paving, in sail lofts, etc.**
-- **A rank within an honorary order: e.g. Commander of the Legion of Honour.**
-- **Any of various nymphalid butterflies of the Asian genus Moduza.**
+- **One who exercises [[c/_control|control]] and [[d/_direction|direction]] of a military or naval organization.**
+- **A naval officer whose rank is [[a/_above|above]] that of a lieutenant [[c/_commander|commander]] and [[b/_below|below]] that of [[c/_captain|captain]].**
+- **One who exercises [[c/_control|control]] and [[d/_direction|direction]] over a group of persons.**
+- **A [[d/_designation|designation]] or rank in [[c/_certain|certain]] non-military organizations such as NASA and various police forces.**
+- **The [[c/_chief|chief]] officer of a [[c/_commandry|commandry]].**
+- **A heavy [[b/_beetle|beetle]] or wooden mallet, used in paving, in sail lofts, etc.**
+- **A rank within an honorary order: [[e/_e|e]].g. [[c/_commander|Commander]] of the Legion of Honour.**
+- **[[a/_any|Any]] of various nymphalid [[b/_butterflies|butterflies]] of the [[a/_asian|Asian]] genus Moduza.**
 ---
 ---

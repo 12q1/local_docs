@@ -1,6 +1,6 @@
 # Chloramine
 ---
 #noun
-- **Any of a class of unstable compounds of nitrogen and chlorine R1R2NCl; also the parent compound NH2Cl, used to manufacture hydrazine, and as the antiseptic chloramine-T**
+- **[[a/_any|Any]] of a [[c/_class|class]] of unstable [[c/_compounds|compounds]] of nitrogen and [[c/_chlorine|chlorine]] R1R2NCl; [[a/_also|also]] the parent [[c/_compound|compound]] NH2Cl, used to manufacture hydrazine, and as the [[a/_antiseptic|antiseptic]] [[c/_chloramine|chloramine]]-T**
 ---
 ---

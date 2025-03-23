@@ -1,6 +1,6 @@
 # Churro
 ---
 #noun
-- **A fried pastry from Spain, typically eaten as a dessert and with chocolate beverage.**
+- **A fried pastry from Spain, typically [[e/_eaten|eaten]] as a [[d/_dessert|dessert]] and with [[c/_chocolate|chocolate]] [[b/_beverage|beverage]].**
 ---
 ---

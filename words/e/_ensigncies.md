@@ -1,6 +1,6 @@
 # Ensigncies
 ---
 #noun
-- **The rank or office of an ensign.**
+- **The rank or office of an [[e/_ensign|ensign]].**
 ---
 ---

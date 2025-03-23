@@ -1,6 +1,6 @@
 # Capsaicin
 ---
 #noun
-- **A chemical compound found in chilli peppers, which is responsible for their pungent flavor.**
+- **A [[c/_chemical|chemical]] [[c/_compound|compound]] found in [[c/_chilli|chilli]] peppers, which is responsible for their pungent flavor.**
 ---
 ---

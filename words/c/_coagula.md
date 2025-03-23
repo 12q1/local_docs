@@ -1,6 +1,6 @@
 # Coagula
 ---
 #noun
-- **A mass of coagulated material; a clot or curd**
+- **A mass of [[c/_coagulated|coagulated]] material; a [[c/_clot|clot]] or [[c/_curd|curd]]**
 ---
 ---

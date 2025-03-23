@@ -1,11 +1,11 @@
 # Ectopic
 ---
 #noun
-- **Ectopic beat or pregnancy.**
+- **[[e/_ectopic|Ectopic]] [[b/_beat|beat]] or pregnancy.**
 ---
 #adjective
-- **Relating to ectopia.**
-- **Being out of place, having an abnormal position.**
+- **Relating to [[e/_ectopia|ectopia]].**
+- **[[b/_being|Being]] out of place, having an [[a/_abnormal|abnormal]] position.**
 ---
 ### Antonyms
 - [[entopic]]

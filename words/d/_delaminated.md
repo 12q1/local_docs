@@ -1,13 +1,13 @@
 # Delaminated
 ---
 #verb
-- **To cause (something assembled by lamination) to come apart into the layers that make it up.**
-- **To come apart into its component layers.**
+- **To [[c/_cause|cause]] (something [[a/_assembled|assembled]] by lamination) to [[c/_come|come]] [[a/_apart|apart]] into the layers that make it up.**
+- **To [[c/_come|come]] [[a/_apart|apart]] into its [[c/_component|component]] layers.**
 	- _Example: Water damage caused the plywood of the floor to delaminate. The layers came apart and the whole piece had to be replaced._
 ---
 ### Synonyms
 - [[delam]]
 #adjective
-- **Whose laminations have been removed.**
+- **Whose laminations have [[b/_been|been]] removed.**
 ---
 ---

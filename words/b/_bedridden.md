@@ -1,8 +1,8 @@
 # Bedridden
 ---
 #adjective
-- **Confined to bed because of infirmity or illness.**
+- **[[c/_confined|Confined]] to [[b/_bed|bed]] [[b/_because|because]] of infirmity or illness.**
 ---
 ### Synonyms
-- [[bedbound]], [[[[b/_bedfast|bedfast]]]]
+- [[bedbound]], [[bedfast]]
 ---

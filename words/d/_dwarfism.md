@@ -1,6 +1,6 @@
 # Dwarfism
 ---
 #noun
-- **The condition of being a dwarf.**
+- **The [[c/_condition|condition]] of [[b/_being|being]] a [[d/_dwarf|dwarf]].**
 ---
 ---

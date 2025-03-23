@@ -1,6 +1,6 @@
 # Aerating
 ---
 #verb
-- **To supply with oxygen or air.**
+- **To supply with oxygen or [[a/_air|air]].**
 ---
 ---

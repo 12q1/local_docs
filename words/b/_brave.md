@@ -1,22 +1,22 @@
 # Brave
 ---
 #noun
-- **A Native American warrior.**
-- **A man daring beyond discretion; a bully.**
-- **A challenge; a defiance; bravado.**
+- **A Native [[a/_american|American]] warrior.**
+- **A man [[d/_daring|daring]] [[b/_beyond|beyond]] [[d/_discretion|discretion]]; a [[b/_bully|bully]].**
+- **A [[c/_challenge|challenge]]; a [[d/_defiance|defiance]]; [[b/_bravado|bravado]].**
 ---
 #verb
-- **To encounter with courage and fortitude, to defy, to provoke.**
+- **To [[e/_encounter|encounter]] with [[c/_courage|courage]] and fortitude, to [[d/_defy|defy]], to provoke.**
 	- _Example: After braving tricks on the high-dive, he braved a jump off the first diving platform._
-- **To adorn; to make fine or showy.**
+- **To [[a/_adorn|adorn]]; to make fine or showy.**
 ---
 #adjective
-- **Strong in the face of fear; courageous.**
-- **Having any sort of superiority or excellence.**
-- **Making a fine show or display.**
+- **Strong in the face of fear; [[c/_courageous|courageous]].**
+- **Having [[a/_any|any]] sort of superiority or excellence.**
+- **Making a fine show or [[d/_display|display]].**
 ---
 ### Synonyms
-- [[[[b/_bold|bold]]]], [[[[d/_daring|daring]]]], [[[[d/_doughty|doughty]]]], [[orped]], [[resilient]], [[stalwart]]
+- [[bold]], [[daring]], [[doughty]], [[orped]], [[resilient]], [[stalwart]]
 ### Antonyms
-- [[[[c/_cowardly|cowardly]]]], [[fearful]], [[mean]], [[weak]]
+- [[cowardly]], [[fearful]], [[mean]], [[weak]]
 ---

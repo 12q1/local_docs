@@ -1,10 +1,10 @@
 # Alarum
 ---
 #noun
-- **A danger signal or warning.**
-- **A call to arms.**
+- **A [[d/_danger|danger]] signal or warning.**
+- **A [[c/_call|call]] to [[a/_arms|arms]].**
 ---
 #verb
-- **To sound alarums, to sound an alarm.**
+- **To sound [[a/_alarums|alarums]], to sound an [[a/_alarm|alarm]].**
 ---
 ---

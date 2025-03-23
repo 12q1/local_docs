@@ -1,6 +1,6 @@
 # Brassie
 ---
 #noun
-- **A wooden-headed golf club with a brass base plate, similar to a modern two wood.**
+- **A wooden-headed golf [[c/_club|club]] with a [[b/_brass|brass]] [[b/_base|base]] plate, similar to a modern two wood.**
 ---
 ---

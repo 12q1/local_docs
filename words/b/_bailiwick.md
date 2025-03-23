@@ -1,9 +1,9 @@
 # Bailiwick
 ---
 #noun
-- **The district within which a bailie or bailiff has jurisdiction.**
-- **A person's concern or sphere of operations, their area of skill or authority.**
+- **The [[d/_district|district]] within which a [[b/_bailie|bailie]] or [[b/_bailiff|bailiff]] has jurisdiction.**
+- **A person's [[c/_concern|concern]] or sphere of operations, their [[a/_area|area]] of skill or [[a/_authority|authority]].**
 ---
 ### Synonyms
-- [[[[d/_department|department]]]], [[[[d/_domain|domain]]]], [[jurisdiction]], [[pale]], [[sphere]], [[territory]], [[turf]]
+- [[department]], [[domain]], [[jurisdiction]], [[pale]], [[sphere]], [[territory]], [[turf]]
 ---

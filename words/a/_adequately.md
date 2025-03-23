@@ -1,8 +1,8 @@
 # Adequately
 ---
 #adverb
-- **In an adequate manner.**
+- **In an [[a/_adequate|adequate]] manner.**
 - **Sufficient to satisfy a requirement or meet a need; sufficiently; satisfactorily.**
-- **Barely satisfactory or sufficient.**
+- **[[b/_barely|Barely]] satisfactory or sufficient.**
 ---
 ---

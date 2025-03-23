@@ -1,6 +1,6 @@
 # Desynchronize
 ---
 #verb
-- **To cause, or to experience desynchronization**
+- **To [[c/_cause|cause]], or to experience desynchronization**
 ---
 ---

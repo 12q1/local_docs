@@ -1,8 +1,8 @@
 # Blotchiest
 ---
 #adjective
-- **Covered in blotches.**
+- **[[c/_covered|Covered]] in [[b/_blotches|blotches]].**
 ---
 ### Synonyms
-- [[[[b/_blotched|blotched]]]], [[spotted]], [[spotty]]
+- [[blotched]], [[spotted]], [[spotty]]
 ---

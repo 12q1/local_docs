@@ -1,11 +1,11 @@
 # Doodling
 ---
 #verb
-- **To draw or scribble aimlessly.**
+- **To [[d/_draw|draw]] or scribble [[a/_aimlessly|aimlessly]].**
 	- _Example: The bored student doodled a submarine in his notebook._
-- **To drone like a bagpipe.**
+- **To [[d/_drone|drone]] like a [[b/_bagpipe|bagpipe]].**
 ---
 #noun
-- **Something doodled; a careless sketch.**
+- **Something [[d/_doodled|doodled]]; a [[c/_careless|careless]] sketch.**
 ---
 ---

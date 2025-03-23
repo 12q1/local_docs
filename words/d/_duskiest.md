@@ -1,14 +1,14 @@
 # Duskiest
 ---
 #adjective
-- **Dimly lit, as at dusk (evening).**
+- **[[d/_dimly|Dimly]] lit, as at [[d/_dusk|dusk]] (evening).**
 	- _Example: I like it when it is dusky, just before the street lights come on._
-- **Having a shade of color that is rather dark.**
+- **Having a shade of [[c/_color|color]] that is rather [[d/_dark|dark]].**
 	- _Example: The dusky rose was of a muted color, not clashing with any of the other colors._
-- **Dark-skinned.**
-- **Ashen; having a greyish skin coloration.**
+- **[[d/_dark|Dark]]-skinned.**
+- **[[a/_ashen|Ashen]]; having a greyish skin [[c/_coloration|coloration]].**
 	- _Example: The patient was in shock and had a dusky skin tone._
 ---
 ### Synonyms
-- [[[[b/_black|black]]]], [[inky]], [[sable]], [[sooty]], [[swarthy]]
+- [[black]], [[inky]], [[sable]], [[sooty]], [[swarthy]]
 ---

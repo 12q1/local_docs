@@ -1,18 +1,18 @@
 # Appraising
 ---
 #verb
-- **To determine the value or worth of something, particularly as a person appointed for this purpose.**
+- **To [[d/_determine|determine]] the value or worth of something, particularly as a person [[a/_appointed|appointed]] for this purpose.**
 	- _Example: to appraise goods and chattels_
-- **To consider comprehensively.**
+- **To [[c/_consider|consider]] [[c/_comprehensively|comprehensively]].**
 - **To judge the performance of someone, especially a worker.**
 	- _Example: At the end of the contract, you will be appraised by your line manager._
-- **To estimate; to conjecture.**
-- **To praise; to commend.**
+- **To estimate; to [[c/_conjecture|conjecture]].**
+- **To praise; to [[c/_commend|commend]].**
 ---
 #verb
-- **To apprise, inform.**
+- **To [[a/_apprise|apprise]], inform.**
 ---
 #noun
-- **The appraisal of the value of goods, land, etc., often in order to pay the debts of a deceased person.**
+- **The [[a/_appraisal|appraisal]] of the value of goods, land, etc., often in order to pay the [[d/_debts|debts]] of a [[d/_deceased|deceased]] person.**
 ---
 ---

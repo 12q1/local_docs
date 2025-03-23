@@ -1,17 +1,17 @@
 # Diaper
 ---
 #noun
-- **A textile fabric having a diamond-shaped pattern formed by alternating directions of thread.**
+- **A textile fabric having a [[d/_diamond|diamond]]-shaped pattern formed by [[a/_alternating|alternating]] [[d/_directions|directions]] of thread.**
 - **A towel or napkin made from such fabric.**
-- **An absorbent garment worn by a baby, by a young child not yet toilet trained, or by an adult who is incontinent; a nappy.**
-- **The diamond pattern associated with diaper textiles.**
-- **Surface decoration of any sort which consists of the constant repetition of one or more simple figures or units of design evenly spaced.**
+- **An [[a/_absorbent|absorbent]] garment worn by a [[b/_baby|baby]], by a young [[c/_child|child]] not yet toilet trained, or by an [[a/_adult|adult]] who is incontinent; a nappy.**
+- **The [[d/_diamond|diamond]] pattern [[a/_associated|associated]] with [[d/_diaper|diaper]] textiles.**
+- **Surface [[d/_decoration|decoration]] of [[a/_any|any]] sort which [[c/_consists|consists]] of the [[c/_constant|constant]] repetition of one or more simple figures or units of [[d/_design|design]] evenly spaced.**
 ---
 ### Synonyms
 - [[napkin]], [[nappy]]
 #verb
-- **To put diapers on someone.**
+- **To put [[d/_diapers|diapers]] on someone.**
 	- _Example: Diapering a baby is something you have to learn fast._
-- **To draw flowers or figures, as upon cloth.**
+- **To [[d/_draw|draw]] flowers or figures, as upon [[c/_cloth|cloth]].**
 ---
 ---

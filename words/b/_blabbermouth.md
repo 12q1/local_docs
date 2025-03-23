@@ -4,8 +4,8 @@
 - **A gossip.**
 	- _Example: If it weren't for that blabbermouth Sally, the principal would never have known we did it._
 - **A person who talks excessively.**
-- **A kind of foam-dispensing nozzle used in firefighting at airports.**
+- **A kind of foam-[[d/_dispensing|dispensing]] nozzle used in firefighting at [[a/_airports|airports]].**
 ---
 ### Synonyms
-- [[[[c/_chatterbox|chatterbox]]]]
+- [[chatterbox]]
 ---

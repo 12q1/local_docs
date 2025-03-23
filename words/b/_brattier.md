@@ -1,6 +1,6 @@
 # Brattier
 ---
 #adjective
-- **Characteristic of a brat; unruly and impolite.**
+- **[[c/_characteristic|Characteristic]] of a [[b/_brat|brat]]; unruly and impolite.**
 ---
 ---

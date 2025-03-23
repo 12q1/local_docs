@@ -1,9 +1,9 @@
 # Carburetor
 ---
 #noun
-- **A device in an internal combustion engine where fuel is vaporized and mixed with air prior to ignition.**
-- **A water pipe or bong; a device or contrivance for mixing air with burning cannabis or cocaine.**
+- **A [[d/_device|device]] in an internal [[c/_combustion|combustion]] [[e/_engine|engine]] where fuel is vaporized and mixed with [[a/_air|air]] prior to ignition.**
+- **A water pipe or [[b/_bong|bong]]; a [[d/_device|device]] or [[c/_contrivance|contrivance]] for mixing [[a/_air|air]] with [[b/_burning|burning]] [[c/_cannabis|cannabis]] or [[c/_cocaine|cocaine]].**
 ---
 ### Synonyms
-- [[carb]], [[[[c/_carby|carby]]]], [[gasifier]]
+- [[carb]], [[carby]], [[gasifier]]
 ---

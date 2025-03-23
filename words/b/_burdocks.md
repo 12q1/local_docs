@@ -1,6 +1,6 @@
 # Burdocks
 ---
 #noun
-- **Any of the species of biennial thistles in the genus Arctium.**
+- **[[a/_any|Any]] of the species of [[b/_biennial|biennial]] thistles in the genus [[a/_arctium|Arctium]].**
 ---
 ---

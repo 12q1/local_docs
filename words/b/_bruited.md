@@ -1,6 +1,6 @@
 # Bruited
 ---
 #verb
-- **To disseminate, promulgate, or spread news, a rumour, etc.**
+- **To [[d/_disseminate|disseminate]], promulgate, or spread news, a rumour, etc.**
 ---
 ---

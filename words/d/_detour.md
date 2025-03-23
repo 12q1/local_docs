@@ -1,10 +1,10 @@
 # Detour
 ---
 #noun
-- **A diversion or deviation from one's original route.**
+- **A [[d/_diversion|diversion]] or [[d/_deviation|deviation]] from one's original route.**
 ---
 #verb
-- **To make a detour.**
-- **To direct or send on a detour.**
+- **To make a [[d/_detour|detour]].**
+- **To [[d/_direct|direct]] or send on a [[d/_detour|detour]].**
 ---
 ---

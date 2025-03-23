@@ -1,6 +1,6 @@
 # Eked
 ---
 #verb
-- **Chiefly in the form eke out: to add to, to augment; to increase; to lengthen.**
+- **[[c/_chiefly|Chiefly]] in the form [[e/_eke|eke]] out: to [[a/_add|add]] to, to [[a/_augment|augment]]; to increase; to lengthen.**
 ---
 ---

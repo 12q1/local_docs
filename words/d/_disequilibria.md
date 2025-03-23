@@ -1,6 +1,6 @@
 # Disequilibria
 ---
 #noun
-- **The loss of equilibrium or stability, especially due to an imbalance of forces.**
+- **The loss of [[e/_equilibrium|equilibrium]] or stability, especially [[d/_due|due]] to an imbalance of forces.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Cardiovascular
 ---
 #adjective
-- **Relating to the circulatory system, that is the heart and blood vessels.**
+- **Relating to the [[c/_circulatory|circulatory]] system, that is the heart and [[b/_blood|blood]] vessels.**
 ---
 ---

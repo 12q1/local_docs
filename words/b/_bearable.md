@@ -1,7 +1,7 @@
 # Bearable
 ---
 #adjective
-- **Able to be borne; tolerable; endurable.**
-- **Able to be borne or carried; portable.**
+- **[[a/_able|Able]] to be [[b/_borne|borne]]; tolerable; [[e/_endurable|endurable]].**
+- **[[a/_able|Able]] to be [[b/_borne|borne]] or [[c/_carried|carried]]; portable.**
 ---
 ---

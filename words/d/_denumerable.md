@@ -1,9 +1,9 @@
 # Denumerable
 ---
 #adjective
-- **Capable of being assigned a bijection to the natural numbers. Applied to sets which are not finite, but have a one-to-one mapping to the natural numbers.**
+- **[[c/_capable|Capable]] of [[b/_being|being]] [[a/_assigned|assigned]] a [[b/_bijection|bijection]] to the natural numbers. [[a/_applied|Applied]] to sets which are not finite, but have a one-to-one mapping to the natural numbers.**
 	- _Example: The empty set is not denumerable because it is finite; the rational numbers are, surprisingly, denumerable because every possible fraction can be assigned a natural number and vice versa._
 ---
 ### Synonyms
-- [[[[c/_countable|countable]]]], [[[[c/_countably|countably]] infinite]]
+- [[countable]], [[countably infinite]]
 ---

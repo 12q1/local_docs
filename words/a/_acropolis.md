@@ -1,6 +1,6 @@
 # Acropolis
 ---
 #noun
-- **A promontory (usually fortified with a citadel) forming the hub of many Grecian cities, and around which many were built for defensive purposes before and during the classical period; compare Acropolis.**
+- **A promontory (usually fortified with a [[c/_citadel|citadel]]) forming the hub of many Grecian [[c/_cities|cities]], and [[a/_around|around]] which many were [[b/_built|built]] for [[d/_defensive|defensive]] purposes [[b/_before|before]] and [[d/_during|during]] the [[c/_classical|classical]] period; [[c/_compare|compare]] [[a/_acropolis|Acropolis]].**
 ---
 ---

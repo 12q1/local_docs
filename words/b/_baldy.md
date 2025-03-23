@@ -1,8 +1,8 @@
 # Baldy
 ---
 #noun
-- **(sometimes derogatory) Someone who is bald.**
+- **(sometimes [[d/_derogatory|derogatory]]) Someone who is [[b/_bald|bald]].**
 ---
 ### Synonyms
-- [[[[b/_baldhead|baldhead]]]], [[[[b/_baldpate|baldpate]]]], [[[[c/_chrome|chrome]] [[d/_dome|dome]]]], [[[[c/_cue|cue]] [[b/_ball|ball]]]], [[follicly [[c/_challenged|challenged]]]], [[slaphead]]
+- [[baldhead]], [[baldpate]], [[chrome dome]], [[cue ball]], [[follicly challenged]], [[slaphead]]
 ---

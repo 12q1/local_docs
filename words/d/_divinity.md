@@ -1,14 +1,14 @@
 # Divinity
 ---
 #noun
-- **A supernatural divine being; a god or goddess.**
+- **A supernatural [[d/_divine|divine]] [[b/_being|being]]; a god or goddess.**
 ---
 #noun
-- **The state, position, or fact of being a god or God. [from 14th c.]**
-- **A celestial being inferior to a supreme God but superior to man.**
+- **The state, position, or fact of [[b/_being|being]] a god or God. [from 14th [[c/_c|c]].]**
+- **A [[c/_celestial|celestial]] [[b/_being|being]] inferior to a supreme God but superior to man.**
 - **The study of religion or religions.**
-- **A type of confectionery made with egg whites, corn syrup, and white sugar.**
+- **A type of [[c/_confectionery|confectionery]] made with [[e/_egg|egg]] whites, [[c/_corn|corn]] syrup, and white sugar.**
 ---
 ### Synonyms
-- [[[[d/_deity|deity]]]], [[godhead]], [[godhood]], [[godliness]], [[godship]], [[godlore]], [[theology]]
+- [[deity]], [[godhead]], [[godhood]], [[godliness]], [[godship]], [[godlore]], [[theology]]
 ---

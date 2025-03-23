@@ -1,10 +1,10 @@
 # Earmarked
 ---
 #verb
-- **To mark (as of sheep) by slitting the ear.**
-- **(by extension) To specify or set aside for a particular purpose, to allocate.**
+- **To mark (as of sheep) by slitting the [[e/_ear|ear]].**
+- **(by extension) To specify or set [[a/_aside|aside]] for a particular purpose, to [[a/_allocate|allocate]].**
 	- _Example: You can donate to the organization as a whole, or you can earmark your contribution for a particular project._
 ---
 ### Synonyms
-- [[[[a/_appropriate|appropriate]]]], [[sepose]]
+- [[appropriate]], [[sepose]]
 ---

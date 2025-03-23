@@ -1,15 +1,15 @@
 # Congee
 ---
 #noun
-- **Leave, formal permission for some action, :**
-- **Formal dismissal; any dismissal; (originally & particularly humorously ironic) abrupt dismissal without ceremony.**
-- **Formal leavetaking; any farewell.**
-- **A fee paid to make another go away, alms to a persistent beggar.**
-- **A bow, curtsey, or other gesture made at departure but (later) including at greeting or in obeissance or respect.**
+- **Leave, formal permission for some [[a/_action|action]], :**
+- **Formal [[d/_dismissal|dismissal]]; [[a/_any|any]] [[d/_dismissal|dismissal]]; (originally & particularly humorously ironic) [[a/_abrupt|abrupt]] [[d/_dismissal|dismissal]] without [[c/_ceremony|ceremony]].**
+- **Formal leavetaking; [[a/_any|any]] farewell.**
+- **A fee paid to make [[a/_another|another]] go [[a/_away|away]], [[a/_alms|alms]] to a persistent [[b/_beggar|beggar]].**
+- **A [[b/_bow|bow]], [[c/_curtsey|curtsey]], or other gesture made at [[d/_departure|departure]] but (later) including at greeting or in obeissance or respect.**
 ---
 #verb
-- **To give congee, (particularly)**
-- **To take congee: to leave ceremoniously.**
-- **To make a congee: to bow, curtsey, etc., (particularly dialectal) while leaving; to make obeissance, show respect, or defer to someone or something.**
+- **To give [[c/_congee|congee]], (particularly)**
+- **To take [[c/_congee|congee]]: to leave [[c/_ceremoniously|ceremoniously]].**
+- **To make a [[c/_congee|congee]]: to [[b/_bow|bow]], [[c/_curtsey|curtsey]], etc., (particularly [[d/_dialectal|dialectal]]) while leaving; to make obeissance, show respect, or [[d/_defer|defer]] to someone or something.**
 ---
 ---

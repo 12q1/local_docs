@@ -1,6 +1,6 @@
 # Beedi
 ---
 #noun
-- **A thin, often flavored, Indian cigarette made of tobacco wrapped in a tendu leaf.**
+- **A thin, often flavored, Indian [[c/_cigarette|cigarette]] made of tobacco wrapped in a tendu leaf.**
 ---
 ---

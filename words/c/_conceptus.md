@@ -1,6 +1,6 @@
 # Conceptus
 ---
 #noun
-- **The fetus or embryo, including all the surrounding tissues protecting and nourishing it during pregnancy.**
+- **The fetus or [[e/_embryo|embryo]], including [[a/_all|all]] the surrounding tissues protecting and nourishing it [[d/_during|during]] pregnancy.**
 ---
 ---

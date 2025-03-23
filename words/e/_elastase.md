@@ -1,6 +1,6 @@
 # Elastase
 ---
 #noun
-- **An endopeptidase enzyme involved in the breakdown of elastin.**
+- **An [[e/_endopeptidase|endopeptidase]] [[e/_enzyme|enzyme]] involved in the [[b/_breakdown|breakdown]] of [[e/_elastin|elastin]].**
 ---
 ---

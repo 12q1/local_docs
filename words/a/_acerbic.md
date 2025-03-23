@@ -1,9 +1,9 @@
 # Acerbic
 ---
 #adjective
-- **Tasting sour or bitter.**
-- **Sharp, harsh, biting.**
+- **Tasting sour or [[b/_bitter|bitter]].**
+- **Sharp, harsh, [[b/_biting|biting]].**
 ---
 ### Synonyms
-- [[[[a/_acrid|acrid]]]], [[[[a/_acrimonious|acrimonious]]]], [[scathing]], [[[[a/_acerb|acerb]]]], [[[[a/_acrid|acrid]]]], [[[[a/_acrimonious|acrimonious]]]]
+- [[acrid]], [[acrimonious]], [[scathing]], [[acerb]], [[acrid]], [[acrimonious]]
 ---

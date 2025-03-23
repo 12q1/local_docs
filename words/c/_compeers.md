@@ -1,6 +1,6 @@
 # Compeers
 ---
 #noun
-- **The equal or peer of someone else; a close companion or associate.**
+- **The [[e/_equal|equal]] or peer of someone [[e/_else|else]]; a [[c/_close|close]] [[c/_companion|companion]] or [[a/_associate|associate]].**
 ---
 ---

@@ -3,6 +3,6 @@
 #adjective
 - **Twelvefold.**
 - **Of the twelfth order.**
-- **Duodecimal.**
+- **[[d/_duodecimal|Duodecimal]].**
 ---
 ---

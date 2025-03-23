@@ -1,42 +1,42 @@
 # Dl
 ---
 #noun
-- **Light destroyer, a variant of the destroyer type of warship**
-- **Destroyer leader, a variant of the destroyer type of warship**
-- **Driver's license**
-- **Initialism of disabled list.**
+- **Light [[d/_destroyer|destroyer]], a variant of the [[d/_destroyer|destroyer]] type of warship**
+- **[[d/_destroyer|Destroyer]] leader, a variant of the [[d/_destroyer|destroyer]] type of warship**
+- **[[d/_driver|Driver]]'s license**
+- **Initialism of [[d/_disabled|disabled]] list.**
 ---
 ### Antonyms
 - [[UL]]
 #verb
-- **Initialism of disabled list.. To place on the disabled list.**
+- **Initialism of [[d/_disabled|disabled]] list.. To place on the [[d/_disabled|disabled]] list.**
 ---
 ### Antonyms
 - [[UL]]
 #noun
 - **A state of secrecy.**
 	- _Example: I'll tell you, but keep it on the down low._
-- **(sexuality) The state of being a man who secretly sleeps with people other than his partner.**
-- **(sexuality) The state of being a man who secretly sleeps with other men.**
+- **(sexuality) The state of [[b/_being|being]] a man who secretly sleeps with people other than his partner.**
+- **(sexuality) The state of [[b/_being|being]] a man who secretly sleeps with other men.**
 ---
 #noun
-- **A file transfer to the local computer.**
+- **A file transfer to the local [[c/_computer|computer]].**
 	- _Example: The download took longer than I expected._
-- **A file that has been, or will be transferred in this way.**
+- **A file that has [[b/_been|been]], or will be transferred in this way.**
 	- _Example: I got the download but it wouldn't work on my computer._
 ---
 ### Antonyms
 - [[upload]]
 #verb
-- **To transfer data from a remote computer (server) to a local computer, usually via a network.**
+- **To transfer [[d/_data|data]] from a remote [[c/_computer|computer]] (server) to a local [[c/_computer|computer]], usually via a network.**
 	- _Example: You can download a trial version of the program for thirty days to determine whether you want to purchase the full version._
-- **To upload; to copy a file from a local computer to a remote computer via a network.**
+- **To upload; to [[c/_copy|copy]] a file from a local [[c/_computer|computer]] to a remote [[c/_computer|computer]] via a network.**
 - **To transfer a file to or from removable media.**
 	- _Example: I needed to download photos to a CD-ROM_
 - **To install software.**
 ---
 ### Synonyms
-- [[[[d/_d|D]]/L]], [[[[d/_dl|DL]]]], [[[[d/_d|d]]/l]], [[[[d/_dl|dl]]]], [[[[c/_copy|copy]]]], [[move]], [[transfer]]
+- [[D/L]], [[DL]], [[d/l]], [[dl]], [[copy]], [[move]], [[transfer]]
 ### Antonyms
 - [[upload]]
 ---

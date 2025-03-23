@@ -1,14 +1,14 @@
 # Edgeways
 ---
 #adjective
-- **With the edge facing in the direction of movement.**
+- **With the [[e/_edge|edge]] facing in the [[d/_direction|direction]] of movement.**
 	- _Example: an edgeways motion_
-- **With the edge uppermost.**
+- **With the [[e/_edge|edge]] uppermost.**
 ---
 #adverb
-- **With the edge facing in the direction of movement.**
-- **With the edge uppermost.**
+- **With the [[e/_edge|edge]] facing in the [[d/_direction|direction]] of movement.**
+- **With the [[e/_edge|edge]] uppermost.**
 ---
 ### Synonyms
-- [[[[e/_edgewise|edgewise]]]]
+- [[edgewise]]
 ---

@@ -1,6 +1,6 @@
 # Driveler
 ---
 #noun
-- **One who drivels.**
+- **One who [[d/_drivels|drivels]].**
 ---
 ---

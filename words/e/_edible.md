@@ -1,19 +1,19 @@
 # Edible
 ---
 #noun
-- **Anything edible.**
-- **(marijuana) a foodstuff, usually a baked good, infused with tetrahydrocannabinol from cannabutter etc.**
+- **[[a/_anything|Anything]] [[e/_edible|edible]].**
+- **(marijuana) a foodstuff, usually a [[b/_baked|baked]] good, infused with tetrahydrocannabinol from cannabutter etc.**
 ---
 ### Synonyms
 - [[food]]
 #adjective
-- **That can be eaten without harm; innocuous to humans; suitable for consumption.**
+- **That [[c/_can|can]] be [[e/_eaten|eaten]] without harm; innocuous to humans; suitable for [[c/_consumption|consumption]].**
 	- _Example: edible fruit_
-- **That can be eaten without disgust.**
+- **That [[c/_can|can]] be [[e/_eaten|eaten]] without [[d/_disgust|disgust]].**
 	- _Example: Although stale, the bread was edible._
 ---
 ### Synonyms
-- [[[[c/_comestible|comestible]]]], [[[[e/_eatable|eatable]]]], [[eatworthy]]
+- [[comestible]], [[eatable]], [[eatworthy]]
 ### Antonyms
 - [[inedible]]
 ---

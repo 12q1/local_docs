@@ -1,7 +1,7 @@
 # Dandering
 ---
 #verb
-- **To wander about.**
+- **To wander [[a/_about|about]].**
 - **To maunder, to talk incoherently.**
 ---
 ---

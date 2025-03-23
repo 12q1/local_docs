@@ -1,6 +1,6 @@
 # Calcrete
 ---
 #noun
-- **A sedimentary rock, a hardened deposit of calcium carbonate, capable of cementing together with other materials.**
+- **A sedimentary rock, a hardened [[d/_deposit|deposit]] of [[c/_calcium|calcium]] [[c/_carbonate|carbonate]], [[c/_capable|capable]] of [[c/_cementing|cementing]] together with other materials.**
 ---
 ---

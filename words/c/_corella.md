@@ -1,6 +1,6 @@
 # Corella
 ---
 #noun
-- **Any of several species of white cockatoo of the subgenus Licmetis within genus Cacatua.**
+- **[[a/_any|Any]] of several species of white [[c/_cockatoo|cockatoo]] of the subgenus Licmetis within genus [[c/_cacatua|Cacatua]].**
 ---
 ---

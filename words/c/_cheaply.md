@@ -1,7 +1,7 @@
 # Cheaply
 ---
 #adverb
-- **In a cheap manner; without expending much money.**
+- **In a [[c/_cheap|cheap]] manner; without expending much money.**
 ---
 ### Antonyms
 - [[expensively]]

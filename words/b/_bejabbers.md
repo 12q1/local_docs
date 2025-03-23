@@ -1,6 +1,6 @@
 # Bejabbers
 ---
 #noun
-- **Bejesus**
+- **[[b/_bejesus|Bejesus]]**
 ---
 ---

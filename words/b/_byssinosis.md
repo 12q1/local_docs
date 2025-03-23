@@ -1,8 +1,8 @@
 # Byssinosis
 ---
 #noun
-- **A lung disease, caused by exposure to cotton dust in inadequately ventilated working environments.**
+- **A lung [[d/_disease|disease]], [[c/_caused|caused]] by exposure to [[c/_cotton|cotton]] [[d/_dust|dust]] in inadequately ventilated working [[e/_environments|environments]].**
 ---
 ### Synonyms
-- [[Monday fever]], [[[[b/_brown|brown]] lung]], [[[[b/_brown|brown]] lung [[d/_disease|disease]]]]
+- [[Monday fever]], [[brown lung]], [[brown lung disease]]
 ---

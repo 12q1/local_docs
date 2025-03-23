@@ -1,6 +1,6 @@
 # Batwoman
 ---
 #noun
-- **A female batman (servant)**
+- **A female [[b/_batman|batman]] (servant)**
 ---
 ---

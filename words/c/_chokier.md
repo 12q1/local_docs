@@ -1,6 +1,6 @@
 # Chokier
 ---
 #adjective
-- **Reminiscent of choking.**
+- **Reminiscent of [[c/_choking|choking]].**
 ---
 ---

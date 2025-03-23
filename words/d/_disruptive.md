@@ -1,10 +1,10 @@
 # Disruptive
 ---
 #adjective
-- **Causing disruption or unrest.**
+- **[[c/_causing|Causing]] [[d/_disruption|disruption]] or unrest.**
 	- _Example: Children who exhibit disruptive behaviour may be expelled from school._
-- **Causing major change, as in a market.**
+- **[[c/_causing|Causing]] major [[c/_change|change]], as in a market.**
 ---
 ### Antonyms
-- [[non-[[d/_disruptive|disruptive]]]], [[nondisruptive]]
+- [[non-disruptive]], [[nondisruptive]]
 ---

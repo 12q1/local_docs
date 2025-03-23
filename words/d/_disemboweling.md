@@ -1,10 +1,10 @@
 # Disemboweling
 ---
 #verb
-- **To take or let out the bowels or interior parts of; to eviscerate.**
-- **To take or draw from the body, as the web of a spider.**
+- **To take or let out the [[b/_bowels|bowels]] or interior parts of; to eviscerate.**
+- **To take or [[d/_draw|draw]] from the [[b/_body|body]], as the web of a spider.**
 ---
 #noun
-- **The act by which somebody is disemboweled.**
+- **The [[a/_act|act]] by which somebody is [[d/_disemboweled|disemboweled]].**
 ---
 ---

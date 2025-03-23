@@ -1,6 +1,6 @@
 # Developpes
 ---
 #noun
-- **Alternative form of développé**
+- **[[a/_alternative|Alternative]] form of [[d/_d|d]]éveloppé**
 ---
 ---

@@ -1,6 +1,6 @@
 # Calceolaria
 ---
 #noun
-- **Any plant of the genus Calceolaria.**
+- **[[a/_any|Any]] plant of the genus [[c/_calceolaria|Calceolaria]].**
 ---
 ---

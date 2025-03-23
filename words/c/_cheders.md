@@ -1,6 +1,6 @@
 # Cheders
 ---
 #noun
-- **An elementary school for Jewish children, teaching basic Judaism and Hebrew.**
+- **An [[e/_elementary|elementary]] school for Jewish [[c/_children|children]], teaching [[b/_basic|basic]] Judaism and Hebrew.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Chelating
 ---
 #adjective
-- **Having the ability to undergo chelation**
+- **Having the [[a/_ability|ability]] to undergo [[c/_chelation|chelation]]**
 ---
 ---

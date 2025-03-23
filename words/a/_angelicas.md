@@ -1,15 +1,15 @@
 # Angelicas
 ---
 #noun
-- **A tall plant, with hollow stems, genus Angelica, especially the garden angelica (Angelica archangelica).**
-- **Candied stems of the plant, used to decorate cookies.**
-- **Species of Aralia.**
+- **A tall plant, with hollow stems, genus [[a/_angelica|Angelica]], especially the garden [[a/_angelica|angelica]] ([[a/_angelica|Angelica]] [[a/_archangelica|archangelica]]).**
+- **[[c/_candied|Candied]] stems of the plant, used to [[d/_decorate|decorate]] [[c/_cookies|cookies]].**
+- **Species of [[a/_aralia|Aralia]].**
 ---
 ### Synonyms
-- [[[[a/_archangel|archangel]]]]
+- [[archangel]]
 #noun
-- **A plucked bowl lute with two necks and most often sixteen strings, played in the manner of a harp, and popular in Baroque Europe.**
+- **A plucked [[b/_bowl|bowl]] lute with two necks and most often sixteen strings, played in the manner of a harp, and popular in [[b/_baroque|Baroque]] Europe.**
 ---
 ### Synonyms
-- [[[[a/_angel|angel]] lute]], [[[[a/_angelica|angelica]]]]
+- [[angel lute]], [[angelica]]
 ---

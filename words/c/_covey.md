@@ -2,10 +2,10 @@
 ---
 #noun
 - **A group of 8–12 (or more) quail.**
-- **A brood of partridges, grouse, etc.**
+- **A [[b/_brood|brood]] of partridges, grouse, etc.**
 - **A party or group (of persons or things).**
 ---
 #verb
-- **To brood; to incubate.**
+- **To [[b/_brood|brood]]; to incubate.**
 ---
 ---

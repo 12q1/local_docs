@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Granting permission to be ordained.**
-- **Granting permission to depart.**
+- **Granting permission to [[d/_depart|depart]].**
 ---
 ---

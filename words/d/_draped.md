@@ -1,13 +1,13 @@
 # Draped
 ---
 #verb
-- **To cover or adorn with drapery or folds of cloth, or as with drapery**
+- **To [[c/_cover|cover]] or [[a/_adorn|adorn]] with [[d/_drapery|drapery]] or folds of [[c/_cloth|cloth]], or as with [[d/_drapery|drapery]]**
 	- _Example: to drape a bust, a building, etc._
-- **To spread over, cover.**
+- **To spread over, [[c/_cover|cover]].**
 	- _Example: I draped my towel over the radiator to dry._
-- **To rail at; to banter.**
-- **To make cloth.**
-- **To design drapery, arrange its folds, etc., as for hangings, costumes, statues, etc.**
+- **To rail at; to [[b/_banter|banter]].**
+- **To make [[c/_cloth|cloth]].**
+- **To [[d/_design|design]] [[d/_drapery|drapery]], [[a/_arrange|arrange]] its folds, etc., as for hangings, [[c/_costumes|costumes]], statues, etc.**
 - **To hang or rest limply**
 ---
 ---

@@ -1,6 +1,6 @@
 # Chiasmus
 ---
 #noun
-- **An inversion of the relationship between the elements of phrases.**
+- **An inversion of the relationship [[b/_between|between]] the [[e/_elements|elements]] of phrases.**
 ---
 ---

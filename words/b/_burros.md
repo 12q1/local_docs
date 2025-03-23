@@ -1,6 +1,6 @@
 # Burros
 ---
 #noun
-- **A small donkey**
+- **A small [[d/_donkey|donkey]]**
 ---
 ---

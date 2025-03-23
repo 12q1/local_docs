@@ -1,6 +1,6 @@
 # Atherogenic
 ---
 #adjective
-- **That initiates or accelerates atherogenesis**
+- **That initiates or [[a/_accelerates|accelerates]] [[a/_atherogenesis|atherogenesis]]**
 ---
 ---

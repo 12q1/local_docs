@@ -1,6 +1,6 @@
 # Commonsense
 ---
 #adjective
-- **Attributive form of common sense**
+- **[[a/_attributive|Attributive]] form of [[c/_common|common]] sense**
 ---
 ---

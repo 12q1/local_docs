@@ -1,6 +1,6 @@
 # Brut
 ---
 #adjective
-- **(of champagne) very dry, and not sweet**
+- **(of [[c/_champagne|champagne]]) very [[d/_dry|dry]], and not sweet**
 ---
 ---

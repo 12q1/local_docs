@@ -1,6 +1,6 @@
 # Appellate
 ---
 #adjective
-- **That can be (legally) appealed to, especially of a court that hears appeals of decisions by a lower court.**
+- **That [[c/_can|can]] be (legally) [[a/_appealed|appealed]] to, especially of a [[c/_court|court]] that hears [[a/_appeals|appeals]] of [[d/_decisions|decisions]] by a lower [[c/_court|court]].**
 ---
 ---

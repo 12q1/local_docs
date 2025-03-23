@@ -1,6 +1,6 @@
 # Badmouths
 ---
 #verb
-- **To criticize or malign, especially unfairly or spitefully.**
+- **To [[c/_criticize|criticize]] or malign, especially unfairly or spitefully.**
 ---
 ---

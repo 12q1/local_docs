@@ -1,14 +1,14 @@
 # Disturb
 ---
 #noun
-- **Disturbance**
+- **[[d/_disturbance|Disturbance]]**
 ---
 #verb
-- **To confuse a quiet, constant state or a calm, continuous flow, in particular: thoughts, actions or liquids.**
+- **To [[c/_confuse|confuse]] a quiet, [[c/_constant|constant]] state or a [[c/_calm|calm]], [[c/_continuous|continuous]] flow, in particular: thoughts, [[a/_actions|actions]] or liquids.**
 	- _Example: A school of fish disturbed the water._
-- **To divert, redirect, or alter by disturbing.**
+- **To [[d/_divert|divert]], redirect, or [[a/_alter|alter]] by [[d/_disturbing|disturbing]].**
 	- _Example: A mudslide disturbed the course of the river._
-- **To have a negative emotional impact; to cause emotional distress or confusion.**
+- **To have a negative [[e/_emotional|emotional]] impact; to [[c/_cause|cause]] [[e/_emotional|emotional]] [[d/_distress|distress]] or [[c/_confusion|confusion]].**
 	- _Example: A disturbing film that tries to explore the mind of a serial killer._
 ---
 ---

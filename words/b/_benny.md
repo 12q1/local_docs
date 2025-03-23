@@ -1,10 +1,10 @@
 # Benny
 ---
 #noun
-- **An amphetamine tablet.**
-- **A tantrum; a fit of furious or erratic behaviour.**
+- **An [[a/_amphetamine|amphetamine]] tablet.**
+- **A tantrum; a fit of furious or erratic [[b/_behaviour|behaviour]].**
 ---
 #verb
-- **(usually with "up") To take amphetamines.**
+- **(usually with "up") To take [[a/_amphetamines|amphetamines]].**
 ---
 ---

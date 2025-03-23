@@ -1,6 +1,6 @@
 # Discerption
 ---
 #noun
-- **The act of pulling or tearing something to pieces**
+- **The [[a/_act|act]] of pulling or tearing something to pieces**
 ---
 ---

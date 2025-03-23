@@ -1,11 +1,11 @@
 # Aphrodisiac
 ---
 #noun
-- **Something, generally a food or drug, having such an effect.**
+- **Something, generally a food or [[d/_drug|drug]], having such an [[e/_effect|effect]].**
 ---
 #adjective
-- **Arousing or intensifying sexual desire.**
+- **[[a/_arousing|Arousing]] or intensifying sexual [[d/_desire|desire]].**
 ---
 ### Antonyms
-- [[[[a/_antaphrodisiac|antaphrodisiac]]]]
+- [[antaphrodisiac]]
 ---

@@ -1,6 +1,6 @@
 # Devoutly
 ---
 #adverb
-- **In a devout manner.**
+- **In a [[d/_devout|devout]] manner.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Emigrating
 ---
 #verb
-- **To leave the country in which one lives, especially one's native country, in order to reside elsewhere.**
+- **To leave the [[c/_country|country]] in which one lives, especially one's native [[c/_country|country]], in order to reside [[e/_elsewhere|elsewhere]].**
 ---
 ### Antonyms
 - [[immigrate]]

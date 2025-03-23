@@ -1,9 +1,9 @@
 # Compeer
 ---
 #noun
-- **The equal or peer of someone else; a close companion or associate.**
+- **The [[e/_equal|equal]] or peer of someone [[e/_else|else]]; a [[c/_close|close]] [[c/_companion|companion]] or [[a/_associate|associate]].**
 ---
 #verb
-- **To be equal with; to match.**
+- **To be [[e/_equal|equal]] with; to match.**
 ---
 ---

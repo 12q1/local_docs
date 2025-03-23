@@ -1,7 +1,7 @@
 # Domestically
 ---
 #adverb
-- **In a domestic manner**
+- **In a [[d/_domestic|domestic]] manner**
 - **At home, playing in one's home ground**
 ---
 ---

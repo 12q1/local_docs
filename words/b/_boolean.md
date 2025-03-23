@@ -1,12 +1,12 @@
 # Boolean
 ---
 #noun
-- **A variable that can hold a single true/false (1/0) value.**
+- **A variable that [[c/_can|can]] hold a single true/false (1/0) value.**
 ---
 ### Synonyms
-- [[[[b/_bool|bool]]]], [[flag]]
+- [[bool]], [[flag]]
 #adjective
 - **Of or pertaining to the work of George Boole.**
-- **Pertaining to data items that can have “true” and “false” (or, equivalently, 1 and 0 respectively) as their only possible values and to operations on such values.**
+- **Pertaining to [[d/_data|data]] items that [[c/_can|can]] have “true” and “false” (or, equivalently, 1 and 0 respectively) as their only possible values and to operations on such values.**
 ---
 ---

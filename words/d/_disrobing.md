@@ -5,8 +5,8 @@
 - **To undress oneself.**
 ---
 ### Synonyms
-- [[[[d/_dismantle|dismantle]]]], [[[[d/_divest|divest]]]], [[strip]], [[unclothe]], [[uncover]], [[undress]], [[get undressed]], [[strip]]
+- [[dismantle]], [[divest]], [[strip]], [[unclothe]], [[uncover]], [[undress]], [[get undressed]], [[strip]]
 #noun
-- **Removal of the clothes.**
+- **Removal of the [[c/_clothes|clothes]].**
 ---
 ---

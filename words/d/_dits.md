@@ -1,13 +1,13 @@
 # Dits
 ---
 #noun
-- **A ditty, a little melody.**
-- **A word; a decree.**
+- **A [[d/_ditty|ditty]], a little melody.**
+- **A word; a [[d/_decree|decree]].**
 ---
 #noun
-- **The spoken representation of a dot in radio and telegraph Morse code.**
+- **The spoken representation of a [[d/_dot|dot]] in radio and telegraph Morse [[c/_code|code]].**
 ---
 #noun
-- **Decimal digit**
+- **[[d/_decimal|Decimal]] [[d/_digit|digit]]**
 ---
 ---

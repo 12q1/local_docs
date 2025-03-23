@@ -1,6 +1,6 @@
 # Bedims
 ---
 #verb
-- **To make dim; to obscure or darken.**
+- **To make [[d/_dim|dim]]; to obscure or [[d/_darken|darken]].**
 ---
 ---

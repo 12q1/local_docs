@@ -1,6 +1,6 @@
 # Annoyingly
 ---
 #adverb
-- **In an annoying manner.**
+- **In an [[a/_annoying|annoying]] manner.**
 ---
 ---

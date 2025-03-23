@@ -1,6 +1,6 @@
 # Damming
 ---
 #verb
-- **To block the flow of water.**
+- **To [[b/_block|block]] the flow of water.**
 ---
 ---

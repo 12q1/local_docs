@@ -1,19 +1,19 @@
 # Counterpoints
 ---
 #noun
-- **The topmost covering of a bed, often functioning as a blanket; a coverlet.**
+- **The topmost [[c/_covering|covering]] of a [[b/_bed|bed]], often functioning as a [[b/_blanket|blanket]]; a [[c/_coverlet|coverlet]].**
 ---
 ### Synonyms
-- [[[[b/_bedcover|bedcover]]]], [[[[b/_bedspread|bedspread]]]]
+- [[bedcover]], [[bedspread]]
 #noun
-- **A melody added to an existing one, especially one added to provide harmony whilst each retains its simultaneous identity; a composition consisting of such contrapuntal melodies.**
-- **Any similar contrasting element in a work of art.**
+- **A melody [[a/_added|added]] to an existing one, especially one [[a/_added|added]] to provide harmony whilst [[e/_each|each]] retains its simultaneous identity; a [[c/_composition|composition]] [[c/_consisting|consisting]] of such [[c/_contrapuntal|contrapuntal]] melodies.**
+- **[[a/_any|Any]] similar [[c/_contrasting|contrasting]] [[e/_element|element]] in a work of [[a/_art|art]].**
 - **An opposite point.**
 ---
 ### Synonyms
-- [[[[c/_contrapuntal|contrapuntal]]]], [[polyphony]]
+- [[contrapuntal]], [[polyphony]]
 #verb
-- **To compose or arrange such music.**
-- **To serve as an opposing point against.**
+- **To [[c/_compose|compose]] or [[a/_arrange|arrange]] such music.**
+- **To serve as an opposing point [[a/_against|against]].**
 ---
 ---

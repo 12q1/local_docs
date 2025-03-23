@@ -1,6 +1,6 @@
 # Bairam
 ---
 #noun
-- **Either of two Muslim festivals held after Ramadan.**
+- **[[e/_either|Either]] of two Muslim festivals held [[a/_after|after]] Ramadan.**
 ---
 ---

@@ -1,21 +1,21 @@
 # Autos
 ---
 #noun
-- **An automobile.**
+- **An [[a/_automobile|automobile]].**
 	- _Example: My brother is an auto mechanic._
-- **A setting for automatic operation.**
+- **A setting for [[a/_automatic|automatic]] operation.**
 	- _Example: Put it on auto._
-- **An automatic gearbox / transmission.**
+- **An [[a/_automatic|automatic]] gearbox / transmission.**
 	- _Example: A body coloured centre pillar signalled the arrival of an electronic four-speed auto, slight suspension revisions and minor trim changes._
-- **A car with an automatic gearbox / transmission.**
+- **A [[c/_car|car]] with an [[a/_automatic|automatic]] gearbox / transmission.**
 	- _Example: It wasn't too bad but we did hire an auto (couldn't imagine changing gears with my right hand)._
 ---
 ### Synonyms
-- [[[[a/_automobile|automobile]]]], [[[[c/_car|car]]]], [[motor]], [[motorcar]], [[[[a/_automatic|automatic]]]]
+- [[automobile]], [[car]], [[motor]], [[motorcar]], [[automatic]]
 ### Antonyms
 - [[manual]]
 #verb
-- **To travel by automobile.**
+- **To travel by [[a/_automobile|automobile]].**
 ---
 #noun
 - **An autorickshaw.**

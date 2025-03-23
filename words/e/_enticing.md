@@ -1,0 +1,17 @@
+# Enticing
+---
+#verb
+- **To lure; to [[a/_attract|attract]] by [[a/_arousing|arousing]] [[d/_desire|desire]] or hope.**
+	- _Example: I enticed the little bear into the trap with a pot of honey._
+---
+#noun
+- **[[e/_enticement|Enticement]]; temptation**
+---
+#adjective
+- **That [[e/_entices|entices]]; [[a/_alluring|alluring]]; [[a/_attractive|attractive]]; [[c/_charming|charming]]**
+---
+### Synonyms
+- [[enticing]], [[illecebrous]]
+### Antonyms
+- [[repulsive]], [[unalluring]], [[unattractive]], [[unenticing]]
+---

@@ -1,8 +1,8 @@
 # Amici
 ---
 #noun
-- **Someone not a party to a case who submits a brief and/or presents oral argument in that case.**
+- **Someone not a party to a [[c/_case|case]] who submits a [[b/_brief|brief]] and/or presents oral [[a/_argument|argument]] in that [[c/_case|case]].**
 ---
 ### Synonyms
-- [[[[a/_amicus|amicus]] [[c/_curiae|curiae]]]]
+- [[amicus curiae]]
 ---

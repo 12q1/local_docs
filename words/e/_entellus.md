@@ -1,7 +1,7 @@
 # Entellus
 ---
 #noun
-- **A small Asian monkey (Semnopithecus entellus, syn. Presbytis entellus) having bristly hairs on the crown and the sides of the face**
+- **A small [[a/_asian|Asian]] monkey (Semnopithecus [[e/_entellus|entellus]], syn. Presbytis [[e/_entellus|entellus]]) having [[b/_bristly|bristly]] hairs on the [[c/_crown|crown]] and the sides of the face**
 ---
 ### Synonyms
 - [[hanuman]]

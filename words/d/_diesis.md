@@ -1,7 +1,7 @@
 # Diesis
 ---
 #noun
-- **Any of several intervals, smaller than a tone, in ancient Greek music.**
-- **The double dagger sign (‡).**
+- **[[a/_any|Any]] of several intervals, smaller than a tone, in [[a/_ancient|ancient]] Greek music.**
+- **The [[d/_double|double]] [[d/_dagger|dagger]] sign (‡).**
 ---
 ---

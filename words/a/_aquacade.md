@@ -1,6 +1,6 @@
 # Aquacade
 ---
 #noun
-- **An entertainment consisting of swimmers and divers performing to music**
+- **An [[e/_entertainment|entertainment]] [[c/_consisting|consisting]] of swimmers and [[d/_divers|divers]] performing to music**
 ---
 ---

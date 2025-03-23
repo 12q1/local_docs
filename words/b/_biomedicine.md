@@ -1,8 +1,8 @@
 # Biomedicine
 ---
 #noun
-- **The application of biology and physiology to clinical medicine.**
-- **The branch of medicine that studies the effects of environmental stress on organisms (most often in space travel).**
-- **A medicine created with the use of living organisms.**
+- **The [[a/_application|application]] of [[b/_biology|biology]] and physiology to [[c/_clinical|clinical]] medicine.**
+- **The [[b/_branch|branch]] of medicine that studies the [[e/_effects|effects]] of [[e/_environmental|environmental]] stress on organisms (most often in space travel).**
+- **A medicine [[c/_created|created]] with the use of living organisms.**
 ---
 ---

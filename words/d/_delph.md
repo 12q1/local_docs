@@ -1,9 +1,9 @@
 # Delph
 ---
 #noun
-- **A style of blue and white earthenware.**
+- **A style of [[b/_blue|blue]] and white [[e/_earthenware|earthenware]].**
 ---
 #noun
-- **A delf; a mine, quarry, pit or ditch.**
+- **A [[d/_delf|delf]]; a mine, quarry, pit or [[d/_ditch|ditch]].**
 ---
 ---

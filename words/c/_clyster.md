@@ -1,6 +1,6 @@
 # Clyster
 ---
 #noun
-- **A medicine applied via the rectum; an enema or suppository.**
+- **A medicine [[a/_applied|applied]] via the rectum; an [[e/_enema|enema]] or suppository.**
 ---
 ---

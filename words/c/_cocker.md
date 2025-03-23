@@ -1,10 +1,10 @@
 # Cocker
 ---
 #noun
-- **One who breeds gamecocks or engages in the sport of cockfighting.**
+- **One who [[b/_breeds|breeds]] gamecocks or [[e/_engages|engages]] in the sport of [[c/_cockfighting|cockfighting]].**
 - **One who hunts woodcocks.**
-- **A device that aids in cocking a crossbow.**
+- **A [[d/_device|device]] that [[a/_aids|aids]] in [[c/_cocking|cocking]] a [[c/_crossbow|crossbow]].**
 ---
 ### Synonyms
-- [[[[c/_cockfighter|cockfighter]]]]
+- [[cockfighter]]
 ---

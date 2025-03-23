@@ -1,8 +1,8 @@
 # Downfield
 ---
 #adjective
-- **Toward the defending team's end of the playing field**
-- **Describing an NMR resonance at a higher frequency to that of a reference signal**
+- **Toward the [[d/_defending|defending]] team's [[e/_end|end]] of the playing field**
+- **[[d/_describing|Describing]] an NMR resonance at a higher frequency to that of a reference signal**
 ---
 ### Antonyms
 - [[upfield]]

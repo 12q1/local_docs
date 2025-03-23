@@ -1,12 +1,12 @@
 # Boma
 ---
 #noun
-- **An enclosure usually made of thorn bushes, and latterly of steel fencing, for protection from marauders.**
-- **A stockade made of bushes and thorns.**
+- **An [[e/_enclosure|enclosure]] usually made of thorn [[b/_bushes|bushes]], and latterly of steel fencing, for protection from marauders.**
+- **A stockade made of [[b/_bushes|bushes]] and thorns.**
 - **A hide.**
 - **A hut.**
-- **(East African) A military or police post or magistracy.**
-- **A type of fertilizer rich in animal dung.**
-- **A method of composting.**
+- **([[e/_east|East]] [[a/_african|African]]) A military or police post or magistracy.**
+- **A type of fertilizer rich in [[a/_animal|animal]] [[d/_dung|dung]].**
+- **A method of [[c/_composting|composting]].**
 ---
 ---

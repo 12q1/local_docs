@@ -1,15 +1,15 @@
 # Eavesdropping
 ---
 #verb
-- **To hear a conversation one is not intended to hear; to listen in.**
+- **To hear a [[c/_conversation|conversation]] one is not intended to hear; to listen in.**
 	- _Example: I hope nobody was eavesdropping on our conversation last night, since it got so personal._
-- **To listen for another organism's calls, so as to exploit them.**
+- **To listen for [[a/_another|another]] organism's [[c/_calls|calls]], so as to exploit them.**
 ---
 ### Synonyms
 - [[overhear]]
 #noun
-- **Listening secretly to private conversation of others.**
-- **The interception of electronic communication.**
-- **The act of one organism listening for another's calls, so as to exploit them.**
+- **Listening secretly to private [[c/_conversation|conversation]] of others.**
+- **The interception of [[e/_electronic|electronic]] [[c/_communication|communication]].**
+- **The [[a/_act|act]] of one organism listening for [[a/_another|another]]'s [[c/_calls|calls]], so as to exploit them.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Choirgirl
 ---
 #noun
-- **A girl who sings in a choir.**
+- **A girl who sings in a [[c/_choir|choir]].**
 ---
 ---

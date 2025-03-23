@@ -1,12 +1,12 @@
 # Curt
 ---
 #verb
-- **To cut, cut short, shorten.**
+- **To [[c/_cut|cut]], [[c/_cut|cut]] short, shorten.**
 ---
 #adjective
-- **Brief or terse, especially to the point of being rude.**
-- **Short or concise.**
+- **[[b/_brief|Brief]] or terse, especially to the point of [[b/_being|being]] rude.**
+- **Short or [[c/_concise|concise]].**
 ---
 ### Synonyms
-- [[[[b/_brusque|brusque]]]]
+- [[brusque]]
 ---

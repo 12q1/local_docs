@@ -1,9 +1,9 @@
 # Ejective
 ---
 #noun
-- **A nonpulmonic consonant formed by squeezing air trapped between the glottis and an articulator further forward, and releasing it suddenly.**
+- **A nonpulmonic [[c/_consonant|consonant]] formed by squeezing [[a/_air|air]] trapped [[b/_between|between]] the glottis and an [[a/_articulator|articulator]] further forward, and releasing it suddenly.**
 ---
 #adjective
-- **Serving to eject, or characterised by ejection.**
+- **Serving to [[e/_eject|eject]], or [[c/_characterised|characterised]] by [[e/_ejection|ejection]].**
 ---
 ---

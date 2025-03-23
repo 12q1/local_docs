@@ -1,8 +1,8 @@
 # Dryrot
 ---
 #noun
-- **The crumbly, friable decayed portions of wooden members of buildings, especially at or below grade, usually caused by a fungal infection.**
-- **Any progression of decay, corruption, or obsolescence.**
-- **A fungal infection which affects plants, in particular potatoes.**
+- **The [[c/_crumbly|crumbly]], friable [[d/_decayed|decayed]] portions of wooden members of [[b/_buildings|buildings]], especially at or [[b/_below|below]] grade, usually [[c/_caused|caused]] by a fungal infection.**
+- **[[a/_any|Any]] progression of [[d/_decay|decay]], [[c/_corruption|corruption]], or obsolescence.**
+- **A fungal infection which [[a/_affects|affects]] plants, in particular potatoes.**
 ---
 ---

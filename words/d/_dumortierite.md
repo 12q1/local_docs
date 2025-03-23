@@ -1,6 +1,6 @@
 # Dumortierite
 ---
 #noun
-- **A fibrous aluminium boro-silicate mineral that occurs in various colours.**
+- **A fibrous [[a/_aluminium|aluminium]] [[b/_boro|boro]]-silicate mineral that occurs in various [[c/_colours|colours]].**
 ---
 ---

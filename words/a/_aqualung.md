@@ -1,9 +1,9 @@
 # Aqualung
 ---
 #noun
-- **(underwater diving) A piece of equipment consisting of an oxygen tank and breathing apparatus used by divers to allow them to breathe underwater at depth.**
+- **(underwater [[d/_diving|diving]]) A piece of [[e/_equipment|equipment]] [[c/_consisting|consisting]] of an oxygen tank and [[b/_breathing|breathing]] [[a/_apparatus|apparatus]] used by [[d/_divers|divers]] to [[a/_allow|allow]] them to [[b/_breathe|breathe]] underwater at [[d/_depth|depth]].**
 ---
 #verb
-- **To scuba dive.**
+- **To scuba [[d/_dive|dive]].**
 ---
 ---

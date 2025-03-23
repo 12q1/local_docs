@@ -1,7 +1,7 @@
 # Burkes
 ---
 #noun
-- **(sometimes affectionate) A fool, prat, twit.**
-- **Cunt.**
+- **(sometimes [[a/_affectionate|affectionate]]) A fool, prat, twit.**
+- **[[c/_cunt|Cunt]].**
 ---
 ---

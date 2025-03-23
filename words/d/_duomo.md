@@ -1,6 +1,6 @@
 # Duomo
 ---
 #noun
-- **A cathedral, especially one in Italy.**
+- **A [[c/_cathedral|cathedral]], especially one in Italy.**
 ---
 ---

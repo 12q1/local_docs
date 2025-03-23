@@ -1,8 +1,8 @@
 # Encephalitis
 ---
 #noun
-- **Inflammation of the brain.**
+- **Inflammation of the [[b/_brain|brain]].**
 ---
 ### Synonyms
-- [[[[c/_cephalitis|cephalitis]]]], [[phrenitis]]
+- [[cephalitis]], [[phrenitis]]
 ---

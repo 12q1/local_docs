@@ -1,6 +1,6 @@
 # Budwood
 ---
 #noun
-- **Short branches with buds prepared for grafting**
+- **Short [[b/_branches|branches]] with [[b/_buds|buds]] prepared for grafting**
 ---
 ---

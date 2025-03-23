@@ -1,7 +1,7 @@
 # Disjoins
 ---
 #verb
-- **To separate; to disunite.**
-- **To become separated.**
+- **To separate; to [[d/_disunite|disunite]].**
+- **To [[b/_become|become]] separated.**
 ---
 ---

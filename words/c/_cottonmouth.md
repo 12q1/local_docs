@@ -1,10 +1,10 @@
 # Cottonmouth
 ---
 #noun
-- **An oral dryness often associated with certain medicines and recreational drugs.**
-- **A snake, Agkistrodon piscivorus, the water moccasin.**
-- **A snake, Agkistrodon contortrix mokasen, the northern copperhead.**
+- **An oral [[d/_dryness|dryness]] often [[a/_associated|associated]] with [[c/_certain|certain]] medicines and recreational [[d/_drugs|drugs]].**
+- **A snake, [[a/_agkistrodon|Agkistrodon]] piscivorus, the water moccasin.**
+- **A snake, [[a/_agkistrodon|Agkistrodon]] contortrix mokasen, the northern [[c/_copperhead|copperhead]].**
 ---
 ### Synonyms
-- [[[[d/_dry|dry]] mouth]], [[xerostomia]]
+- [[dry mouth]], [[xerostomia]]
 ---

@@ -1,6 +1,6 @@
 # Dunted
 ---
 #verb
-- **To strike; give a blow to; knock.**
+- **To strike; give a [[b/_blow|blow]] to; knock.**
 ---
 ---

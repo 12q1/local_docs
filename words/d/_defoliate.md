@@ -1,9 +1,9 @@
 # Defoliate
 ---
 #verb
-- **To remove foliage from (one or more plants), most often with a chemical agent.**
+- **To remove foliage from (one or more plants), most often with a [[c/_chemical|chemical]] [[a/_agent|agent]].**
 ---
 #adjective
-- **Deprived of leaves; defoliated.**
+- **[[d/_deprived|Deprived]] of leaves; [[d/_defoliated|defoliated]].**
 ---
 ---

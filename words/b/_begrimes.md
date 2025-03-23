@@ -1,6 +1,6 @@
 # Begrimes
 ---
 #verb
-- **To make something dirty; to soil.**
+- **To make something [[d/_dirty|dirty]]; to soil.**
 ---
 ---

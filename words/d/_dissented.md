@@ -1,12 +1,12 @@
 # Dissented
 ---
 #verb
-- **To disagree; to withhold assent. Construed with from (or, formerly, to).**
-- **To differ from, especially in opinion, beliefs, etc.**
-- **To be different; to have contrary characteristics.**
+- **To [[d/_disagree|disagree]]; to withhold [[a/_assent|assent]]. [[c/_construed|Construed]] with from (or, formerly, to).**
+- **To [[d/_differ|differ]] from, especially in opinion, [[b/_beliefs|beliefs]], etc.**
+- **To be [[d/_different|different]]; to have [[c/_contrary|contrary]] [[c/_characteristics|characteristics]].**
 ---
 ### Synonyms
-- [[[[d/_disagree|disagree]]]], [[refute]], [[reject]], [[take exception]]
+- [[disagree]], [[refute]], [[reject]], [[take exception]]
 ### Antonyms
-- [[[[a/_accept|accept]]]], [[[[a/_agree|agree]]]], [[[[a/_allow|allow]]]], [[[[a/_assent|assent]]]], [[[[c/_consent|consent]]]], [[follow]]
+- [[accept]], [[agree]], [[allow]], [[assent]], [[consent]], [[follow]]
 ---

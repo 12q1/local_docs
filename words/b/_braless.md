@@ -1,6 +1,6 @@
 # Braless
 ---
 #adjective
-- **Not wearing a bra.**
+- **Not wearing a [[b/_bra|bra]].**
 ---
 ---

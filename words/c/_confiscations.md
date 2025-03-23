@@ -1,6 +1,6 @@
 # Confiscations
 ---
 #noun
-- **The act or process of confiscating.**
+- **The [[a/_act|act]] or process of [[c/_confiscating|confiscating]].**
 ---
 ---

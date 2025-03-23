@@ -1,13 +1,13 @@
 # Enroll
 ---
 #verb
-- **To enter (a name, etc.) in a register, roll or list**
-- **To enlist (someone) or make (someone) a member of**
+- **To [[e/_enter|enter]] (a name, etc.) in a register, roll or list**
+- **To [[e/_enlist|enlist]] (someone) or make (someone) a member of**
 	- _Example: They were eager to enroll new recruits._
-- **To enlist oneself (in something) or become a member (of something)**
+- **To [[e/_enlist|enlist]] oneself (in something) or [[b/_become|become]] a member (of something)**
 	- _Example: Have you enrolled in classes yet for this term?_
-- **To envelop; to enwrap.**
+- **To [[e/_envelop|envelop]]; to [[e/_enwrap|enwrap]].**
 ---
 ### Synonyms
-- [[[[e/_enlist|enlist]]]], [[join]], [[join up]], [[sign up]], [[subscribe]], [[[[e/_enlist|enlist]]]], [[sign up]], [[subscribe]], [[list]], [[note]], [[note [[d/_down|down]]]], [[record]], [[register]], [[[[a/_add|add]]]], [[register]]
+- [[enlist]], [[join]], [[join up]], [[sign up]], [[subscribe]], [[enlist]], [[sign up]], [[subscribe]], [[list]], [[note]], [[note down]], [[record]], [[register]], [[add]], [[register]]
 ---

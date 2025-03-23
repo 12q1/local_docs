@@ -1,6 +1,6 @@
 # Draftsperson
 ---
 #noun
-- **A draftsman or draftswoman.**
+- **A [[d/_draftsman|draftsman]] or [[d/_draftswoman|draftswoman]].**
 ---
 ---

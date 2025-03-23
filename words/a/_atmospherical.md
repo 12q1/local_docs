@@ -1,6 +1,6 @@
 # Atmospherical
 ---
 #adjective
-- **Atmospheric**
+- **[[a/_atmospheric|Atmospheric]]**
 ---
 ---

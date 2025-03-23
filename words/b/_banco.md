@@ -1,10 +1,10 @@
 # Banco
 ---
 #noun
-- **A bank, especially that of Venice; formerly used to indicate bank money, as distinguished from the current money when it has become depreciated.**
+- **A [[b/_bank|bank]], especially that of Venice; formerly used to indicate [[b/_bank|bank]] money, as [[d/_distinguished|distinguished]] from the [[c/_current|current]] money when it has [[b/_become|become]] [[d/_depreciated|depreciated]].**
 	- _Example: banco money_
 ---
 #adjective
-- **Being or relating to a type of court involving a bench of judges. Quite often, the Banco Court is an appeals court.**
+- **[[b/_being|Being]] or relating to a type of [[c/_court|court]] involving a [[b/_bench|bench]] of judges. Quite often, the [[b/_banco|Banco]] [[c/_court|Court]] is an [[a/_appeals|appeals]] [[c/_court|court]].**
 ---
 ---

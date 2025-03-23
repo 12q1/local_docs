@@ -1,6 +1,6 @@
 # Daggy
 ---
 #adjective
-- **Uncool, unfashionable, but comfortably so.**
+- **Uncool, unfashionable, but [[c/_comfortably|comfortably]] so.**
 ---
 ---

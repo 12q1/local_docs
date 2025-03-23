@@ -1,7 +1,7 @@
 # Cadmium
 ---
 #noun
-- **A chemical element (symbol Cd) with an atomic number of 48: a soft, silvery-white metal.**
-- **A single atom of this element.**
+- **A [[c/_chemical|chemical]] [[e/_element|element]] (symbol [[c/_cd|Cd]]) with an [[a/_atomic|atomic]] number of 48: a soft, silvery-white metal.**
+- **A single [[a/_atom|atom]] of this [[e/_element|element]].**
 ---
 ---

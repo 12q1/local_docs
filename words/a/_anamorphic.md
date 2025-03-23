@@ -1,8 +1,8 @@
 # Anamorphic
 ---
 #adjective
-- **Producing various optically distorted images.**
+- **Producing various optically [[d/_distorted|distorted]] images.**
 	- _Example: an anamorphic lens_
-- **Of or relating to the anamorph, an asexual stage in the development of certain fungi.**
+- **Of or relating to the anamorph, an [[a/_asexual|asexual]] stage in the [[d/_development|development]] of [[c/_certain|certain]] fungi.**
 ---
 ---

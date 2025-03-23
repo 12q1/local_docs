@@ -1,6 +1,6 @@
 # Ey
 ---
 #noun
-- **An egg.**
+- **An [[e/_egg|egg]].**
 ---
 ---

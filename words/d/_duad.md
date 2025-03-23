@@ -1,10 +1,10 @@
 # Duad
 ---
 #noun
-- **A pair or couple.**
+- **A pair or [[c/_couple|couple]].**
 - **Dwadasama.**
 - **An unordered pair.**
 ---
 ### Synonyms
-- [[[[d/_dyad|dyad]]]], [[twosome]]
+- [[dyad]], [[twosome]]
 ---

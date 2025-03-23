@@ -2,22 +2,22 @@
 ---
 #verb
 - **(heading) To interact socially.**
-- **(heading) To interact antagonistically.**
-- **(heading) To interact contractually.**
+- **(heading) To interact [[a/_antagonistically|antagonistically]].**
+- **(heading) To interact [[c/_contractually|contractually]].**
 - **(heading) To interact mechanically.**
-- **To enter into (an activity), to participate (construed with in).**
-- **To entangle.**
+- **To [[e/_enter|enter]] into (an [[a/_activity|activity]]), to participate ([[c/_construed|construed]] with in).**
+- **To [[e/_entangle|entangle]].**
 ---
 ### Antonyms
-- [[[[d/_disengage|disengage]]]]
+- [[disengage]]
 #adjective
-- **That engages the attention; engrossing, interesting; enthralling.**
+- **That [[e/_engages|engages]] the [[a/_attention|attention]]; [[e/_engrossing|engrossing]], interesting; [[e/_enthralling|enthralling]].**
 	- _Example: I found the first of the Harry Potter books a very engaging read._
-- **Charming; attractive, especially of a manner or behaviour.**
+- **[[c/_charming|Charming]]; [[a/_attractive|attractive]], especially of a manner or [[b/_behaviour|behaviour]].**
 	- _Example: Beauty, of course, and a bright, engaging personality — or at least the ability to fake one — are prerequisites for entering the Miss World competition._
 ---
 ### Synonyms
-- [[[[a/_appealing|appealing]]]], [[[[a/_attractive|attractive]]]], [[sweet]], [[[[a/_absorbing|absorbing]]]], [[[[c/_compelling|compelling]]]], [[[[e/_engrossing|engrossing]]]], [[[[e/_enthralling|enthralling]]]], [[interesting]]
+- [[appealing]], [[attractive]], [[sweet]], [[absorbing]], [[compelling]], [[engrossing]], [[enthralling]], [[interesting]]
 ### Antonyms
-- [[[[b/_boorish|boorish]]]], [[rude]], [[uncivil]], [[uncivilised]], [[[[b/_boring|boring]]]], [[[[d/_dull|dull]]]], [[unengaging]], [[uninteresting]]
+- [[boorish]], [[rude]], [[uncivil]], [[uncivilised]], [[boring]], [[dull]], [[unengaging]], [[uninteresting]]
 ---

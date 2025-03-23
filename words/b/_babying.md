@@ -1,10 +1,10 @@
 # Babying
 ---
 #verb
-- **To coddle; to pamper somebody like an infant.**
-- **To tend (something) with care; to be overly attentive to (something), fuss over.**
+- **To [[c/_coddle|coddle]]; to pamper somebody like an infant.**
+- **To tend (something) with [[c/_care|care]]; to be overly [[a/_attentive|attentive]] to (something), fuss over.**
 ---
 #noun
-- **The act of coddling or pampering somebody.**
+- **The [[a/_act|act]] of [[c/_coddling|coddling]] or pampering somebody.**
 ---
 ---

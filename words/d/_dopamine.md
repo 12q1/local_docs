@@ -1,8 +1,8 @@
 # Dopamine
 ---
 #noun
-- **A neurotransmitter associated with movement, attention, learning, and the brain’s pleasure and reward system.**
+- **A neurotransmitter [[a/_associated|associated]] with movement, [[a/_attention|attention]], learning, and the [[b/_brain|brain]]’s pleasure and reward system.**
 ---
 ### Synonyms
-- [[[[d/_da|DA]]]]
+- [[DA]]
 ---

@@ -1,6 +1,6 @@
 # Disillusioning
 ---
 #verb
-- **To free or deprive of illusion; to disenchant.**
+- **To free or [[d/_deprive|deprive]] of illusion; to [[d/_disenchant|disenchant]].**
 ---
 ---

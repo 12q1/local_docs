@@ -1,6 +1,6 @@
 # Dramaturgist
 ---
 #noun
-- **A person who composes a drama and directs its representation; a playwright.**
+- **A person who [[c/_composes|composes]] a [[d/_drama|drama]] and [[d/_directs|directs]] its representation; a playwright.**
 ---
 ---

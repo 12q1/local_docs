@@ -1,14 +1,14 @@
 # Decennial
 ---
 #noun
-- **The tenth anniversary of an event or happening.**
+- **The tenth [[a/_anniversary|anniversary]] of an event or happening.**
 ---
 ### Synonyms
-- [[decaversary]], [[tin [[a/_anniversary|anniversary]]]]
+- [[decaversary]], [[tin anniversary]]
 #adjective
 - **Occurring every ten years.**
 - **Of or related to a ten-year period, as a term of office.**
 ---
 ### Synonyms
-- [[[[d/_decennal|decennal]]]], [[decennalian]], [[[[d/_decennary|decennary]]]]
+- [[decennal]], [[decennalian]], [[decennary]]
 ---

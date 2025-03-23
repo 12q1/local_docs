@@ -1,6 +1,6 @@
 # Bemba
 ---
 #noun
-- **A type of folk drum used in Trinidad and Tobago.**
+- **A type of folk [[d/_drum|drum]] used in Trinidad and Tobago.**
 ---
 ---

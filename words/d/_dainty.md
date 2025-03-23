@@ -1,15 +1,15 @@
 # Dainty
 ---
 #noun
-- **A delicacy (in taste).**
+- **A [[d/_delicacy|delicacy]] (in taste).**
 - **Esteem, honour.**
-- **(Prairies and northwestern Ontario) A fancy cookie, pastry, or square, typically homemade, served at a social event (usually plural).**
-- **An affectionate term of address.**
+- **(Prairies and northwestern Ontario) A fancy [[c/_cookie|cookie]], pastry, or square, typically homemade, served at a social event (usually plural).**
+- **An [[a/_affectionate|affectionate]] term of [[a/_address|address]].**
 ---
 #adjective
 - **Excellent; valuable, fine.**
-- **Elegant; delicately small and pretty.**
-- **Fastidious and fussy, especially when eating.**
+- **[[e/_elegant|Elegant]]; [[d/_delicately|delicately]] small and pretty.**
+- **Fastidious and fussy, especially when [[e/_eating|eating]].**
 ---
 ### Synonyms
 - [[neat]], [[petite]]

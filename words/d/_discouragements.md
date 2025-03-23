@@ -1,8 +1,8 @@
 # Discouragements
 ---
 #noun
-- **The loss of confidence or enthusiasm.**
-- **The act of discouraging.**
-- **Anything that discourages.**
+- **The loss of [[c/_confidence|confidence]] or [[e/_enthusiasm|enthusiasm]].**
+- **The [[a/_act|act]] of [[d/_discouraging|discouraging]].**
+- **[[a/_anything|Anything]] that [[d/_discourages|discourages]].**
 ---
 ---

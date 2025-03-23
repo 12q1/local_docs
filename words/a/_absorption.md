@@ -1,10 +1,10 @@
 # Absorption
 ---
 #noun
-- **The act or process of absorbing or of being absorbed as,**
-- **Entire engrossment or occupation of the mind.**
+- **The [[a/_act|act]] or process of [[a/_absorbing|absorbing]] or of [[b/_being|being]] [[a/_absorbed|absorbed]] as,**
+- **[[e/_entire|Entire]] [[e/_engrossment|engrossment]] or occupation of the mind.**
 	- _Example: absorption in some employment_
-- **Mental assimilation.**
-- **The retaining of electrical energy for a short time after it has been introduced to the dielectric.**
+- **Mental [[a/_assimilation|assimilation]].**
+- **The retaining of [[e/_electrical|electrical]] [[e/_energy|energy]] for a short time [[a/_after|after]] it has [[b/_been|been]] introduced to the [[d/_dielectric|dielectric]].**
 ---
 ---

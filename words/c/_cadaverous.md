@@ -1,6 +1,6 @@
 # Cadaverous
 ---
 #adjective
-- **Corpselike; hinting of death; imitating a cadaver.**
+- **[[c/_corpselike|Corpselike]]; hinting of [[d/_death|death]]; imitating a [[c/_cadaver|cadaver]].**
 ---
 ---

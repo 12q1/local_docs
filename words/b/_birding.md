@@ -2,6 +2,6 @@
 ---
 #noun
 - **Birdwatching**
-- **The catching of birds; fowling**
+- **The [[c/_catching|catching]] of [[b/_birds|birds]]; fowling**
 ---
 ---

@@ -1,15 +1,15 @@
 # Divining
 ---
 #verb
-- **To foretell (something), especially by the use of divination.**
-- **To guess or discover (something) through intuition or insight.**
-- **To search for (underground objects or water) using a divining rod.**
-- **To render divine; to deify.**
+- **To foretell (something), especially by the use of [[d/_divination|divination]].**
+- **To guess or [[d/_discover|discover]] (something) through intuition or insight.**
+- **To search for (underground objects or water) using a [[d/_divining|divining]] rod.**
+- **To render [[d/_divine|divine]]; to [[d/_deify|deify]].**
 ---
 #noun
-- **The action of the verb to divine in any sense.**
+- **The [[a/_action|action]] of the verb to [[d/_divine|divine]] in [[a/_any|any]] sense.**
 ---
 #adjective
-- **That or who divines (in any sense of the verb).**
+- **That or who [[d/_divines|divines]] (in [[a/_any|any]] sense of the verb).**
 ---
 ---

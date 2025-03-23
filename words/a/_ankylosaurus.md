@@ -1,8 +1,8 @@
 # Ankylosaurus
 ---
 #noun
-- **A large herbivorous dinosaur, of genus Ankylosaurus, that lived in the Cretaceous period, noted for its heavy armor and club-like tail.**
+- **A large herbivorous [[d/_dinosaur|dinosaur]], of genus [[a/_ankylosaurus|Ankylosaurus]], that lived in the [[c/_cretaceous|Cretaceous]] period, noted for its heavy [[a/_armor|armor]] and [[c/_club|club]]-like tail.**
 ---
 ### Synonyms
-- [[[[a/_ankylosaur|ankylosaur]]]]
+- [[ankylosaur]]
 ---

@@ -1,6 +1,6 @@
 # Emersed
 ---
 #adjective
-- **(of an aquatic plant) That rises above the surface**
+- **(of an [[a/_aquatic|aquatic]] plant) That rises [[a/_above|above]] the surface**
 ---
 ---

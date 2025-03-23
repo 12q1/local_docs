@@ -1,6 +1,6 @@
 # Aestheticize
 ---
 #verb
-- **To make aesthetic; to show something at its best, most pleasing or most artistic.**
+- **To make [[a/_aesthetic|aesthetic]]; to show something at its [[b/_best|best]], most pleasing or most [[a/_artistic|artistic]].**
 ---
 ---

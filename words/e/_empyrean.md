@@ -1,11 +1,11 @@
 # Empyrean
 ---
 #noun
-- **The region of pure light and fire; the highest heaven, where the pure element of fire was supposed by the ancients to exist: the same as the ether, the ninth heaven according to ancient astronomy.**
+- **The region of pure light and fire; the highest heaven, where the pure [[e/_element|element]] of fire was supposed by the [[a/_ancients|ancients]] to exist: the same as the ether, the ninth heaven [[a/_according|according]] to [[a/_ancient|ancient]] [[a/_astronomy|astronomy]].**
 ---
 #adjective
-- **Of the sky or the heavens; celestially refined.**
+- **Of the sky or the heavens; [[c/_celestially|celestially]] refined.**
 ---
 ### Synonyms
-- [[[[e/_empyreal|empyreal]]]]
+- [[empyreal]]
 ---

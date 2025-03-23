@@ -1,6 +1,6 @@
 # Archaean
 ---
 #noun
-- **Any organism of the domain Archaea.**
+- **[[a/_any|Any]] organism of the [[d/_domain|domain]] Archaea.**
 ---
 ---

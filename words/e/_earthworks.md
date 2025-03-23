@@ -1,6 +1,6 @@
 # Earthworks
 ---
 #noun
-- **Any structure made from earth; especially an embankment or rampart used as a fortification.**
+- **[[a/_any|Any]] structure made from [[e/_earth|earth]]; especially an [[e/_embankment|embankment]] or rampart used as a fortification.**
 ---
 ---

@@ -1,13 +1,13 @@
 # Chiseled
 ---
 #verb
-- **To use a chisel.**
-- **To work something with a chisel.**
+- **To use a [[c/_chisel|chisel]].**
+- **To work something with a [[c/_chisel|chisel]].**
 	- _Example: She chiselled a sculpture out of the block of wood._
-- **To cheat, to get something by cheating.**
+- **To [[c/_cheat|cheat]], to get something by [[c/_cheating|cheating]].**
 ---
 #adjective
-- **Having strongly defined facial features.**
-- **(of a physique) Having well-developed muscles with minimal bodyfat.**
+- **Having strongly [[d/_defined|defined]] facial features.**
+- **(of a physique) Having well-[[d/_developed|developed]] muscles with minimal bodyfat.**
 ---
 ---

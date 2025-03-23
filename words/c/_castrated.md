@@ -1,12 +1,12 @@
 # Castrated
 ---
 #verb
-- **To remove the testicles of an animal.**
-- **To remove the ovaries and/or uterus of an animal.**
+- **To remove the testicles of an [[a/_animal|animal]].**
+- **To remove the ovaries and/or uterus of an [[a/_animal|animal]].**
 - **To take something from; to render imperfect or ineffectual.**
 ---
 ### Synonyms
-- [[[[e/_emasculate|emasculate]]]], [[geld]], [[neuter]], [[spay]], [[sterilize]]
+- [[emasculate]], [[geld]], [[neuter]], [[spay]], [[sterilize]]
 #adjective
 - **Having had the reproductive organs removed (testicles in males, ovaries in females).**
 ---

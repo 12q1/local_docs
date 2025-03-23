@@ -1,6 +1,6 @@
 # Daimio
 ---
 #noun
-- **A lord during the Japanese feudal period.**
+- **A lord [[d/_during|during]] the Japanese feudal period.**
 ---
 ---

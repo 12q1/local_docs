@@ -1,7 +1,7 @@
 # Diffract
 ---
 #verb
-- **To cause diffraction**
-- **To undergo diffraction**
+- **To [[c/_cause|cause]] [[d/_diffraction|diffraction]]**
+- **To undergo [[d/_diffraction|diffraction]]**
 ---
 ---

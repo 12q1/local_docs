@@ -1,7 +1,7 @@
 # Emu
 ---
 #noun
-- **A cassowary (genus Casuarius).**
-- **A large flightless bird native to Australia, Dromaius novaehollandiae.**
+- **A [[c/_cassowary|cassowary]] (genus [[c/_casuarius|Casuarius]]).**
+- **A large flightless [[b/_bird|bird]] native to [[a/_australia|Australia]], Dromaius novaehollandiae.**
 ---
 ---

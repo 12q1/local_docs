@@ -1,12 +1,12 @@
 # Crayfishing
 ---
 #verb
-- **To backpedal, desert or withdraw (also used with out).**
+- **To [[b/_backpedal|backpedal]], [[d/_desert|desert]] or withdraw ([[a/_also|also]] used with out).**
 ---
 #verb
-- **To catch crayfish**
+- **To [[c/_catch|catch]] [[c/_crayfish|crayfish]]**
 ---
 #noun
-- **Fishing for crayfish**
+- **Fishing for [[c/_crayfish|crayfish]]**
 ---
 ---

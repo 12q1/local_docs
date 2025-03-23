@@ -1,7 +1,7 @@
 # Edifies
 ---
 #verb
-- **To build, construct.**
+- **To [[b/_build|build]], [[c/_construct|construct]].**
 - **To instruct or improve morally or intellectually.**
 ---
 ---

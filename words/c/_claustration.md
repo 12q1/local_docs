@@ -1,7 +1,7 @@
 # Claustration
 ---
 #noun
-- **Shutting up or enclosing, usually in a religious cloister.**
-- **A method used by emperors to keep their harems and to guarantee their virginity.**
+- **Shutting up or [[e/_enclosing|enclosing]], usually in a religious [[c/_cloister|cloister]].**
+- **A method used by [[e/_emperors|emperors]] to keep their harems and to guarantee their virginity.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Doline
 ---
 #noun
-- **A depression (basin, hollow) in karstic terrain/limestone.**
-- **(by extension) Any sinkhole.**
+- **A [[d/_depression|depression]] ([[b/_basin|basin]], hollow) in karstic terrain/limestone.**
+- **(by extension) [[a/_any|Any]] sinkhole.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Educator
 ---
 #noun
-- **A person distinguished for his/her educational work, a teacher.**
+- **A person [[d/_distinguished|distinguished]] for his/her [[e/_educational|educational]] work, a teacher.**
 ---
 ---

@@ -1,15 +1,15 @@
 # Desiccated
 ---
 #verb
-- **To remove moisture from; to dry.**
-- **To preserve by drying.**
-- **To become dry; to dry up.**
+- **To remove moisture from; to [[d/_dry|dry]].**
+- **To preserve by [[d/_drying|drying]].**
+- **To [[b/_become|become]] [[d/_dry|dry]]; to [[d/_dry|dry]] up.**
 ---
 ### Synonyms
-- [[[[d/_dehydrate|dehydrate]]]], [[exiccate]], [[exsiccate]], [[parch]]
+- [[dehydrate]], [[exiccate]], [[exsiccate]], [[parch]]
 ### Antonyms
 - [[hydrate]], [[moisten]], [[moisturize]], [[wet]]
 #adjective
-- **Dried**
+- **[[d/_dried|Dried]]**
 ---
 ---

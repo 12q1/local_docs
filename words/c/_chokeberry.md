@@ -1,7 +1,7 @@
 # Chokeberry
 ---
 #noun
-- **Either of two species in Aronia, formerly and sometimes in Photinia, deciduous shrubs, native to Russia and eastern North America and most commonly found in wet woods and swamps.**
+- **[[e/_either|Either]] of two species in [[a/_aronia|Aronia]], formerly and sometimes in Photinia, [[d/_deciduous|deciduous]] shrubs, native to Russia and [[e/_eastern|eastern]] North [[a/_america|America]] and most [[c/_commonly|commonly]] found in wet woods and swamps.**
 - **The fruit of such a shrub.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Armchairs
 ---
 #noun
-- **A chair with supports for the arms or elbows.**
+- **A [[c/_chair|chair]] with supports for the [[a/_arms|arms]] or [[e/_elbows|elbows]].**
 ---
 #verb
-- **To create based on theory or general knowledge rather than data.**
-- **To theorize based on analysis of data that was gathered previously; to reflect.**
+- **To [[c/_create|create]] [[b/_based|based]] on theory or general knowledge rather than [[d/_data|data]].**
+- **To theorize [[b/_based|based]] on [[a/_analysis|analysis]] of [[d/_data|data]] that was gathered previously; to reflect.**
 ---
 ---

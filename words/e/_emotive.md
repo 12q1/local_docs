@@ -1,11 +1,11 @@
 # Emotive
 ---
 #noun
-- **(grammar) A word or construct that expresses an emotion.**
+- **(grammar) A word or [[c/_construct|construct]] that expresses an [[e/_emotion|emotion]].**
 ---
 #adjective
-- **Of or relating to emotion.**
-- **Appealing to the emotions.**
-- **(grammar) Expressing an emotion.**
+- **Of or relating to [[e/_emotion|emotion]].**
+- **[[a/_appealing|Appealing]] to the [[e/_emotions|emotions]].**
+- **(grammar) Expressing an [[e/_emotion|emotion]].**
 ---
 ---

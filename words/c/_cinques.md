@@ -1,10 +1,10 @@
 # Cinques
 ---
 #noun
-- **A card, die, or domino with five spots or pips.**
+- **A [[c/_card|card]], [[d/_die|die]], or [[d/_domino|domino]] with five spots or pips.**
 ---
 #noun
-- **(campanology) bell changes rung on eleven bells**
+- **([[c/_campanology|campanology]]) [[b/_bell|bell]] [[c/_changes|changes]] rung on [[e/_eleven|eleven]] [[b/_bells|bells]]**
 	- _Example: A quarter peal of plain bob cinques was rung._
 ---
 ---

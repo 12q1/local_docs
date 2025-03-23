@@ -1,6 +1,6 @@
 # Disconcertment
 ---
 #noun
-- **Disconcertedness**
+- **[[d/_disconcertedness|Disconcertedness]]**
 ---
 ---

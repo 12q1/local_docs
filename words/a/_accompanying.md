@@ -1,20 +1,20 @@
 # Accompanying
 ---
 #verb
-- **To go with or attend as a companion or associate; to keep company with; to go along with.**
+- **To go with or [[a/_attend|attend]] as a [[c/_companion|companion]] or [[a/_associate|associate]]; to keep [[c/_company|company]] with; to go [[a/_along|along]] with.**
 	- _Example: Geoffrey accompanied the group on their pilgrimage._
-- **To supplement with; add to.**
-- **To perform an accompanying part or parts in a composition.**
-- **To perform an accompanying part next to (another instrument or musician).**
+- **To supplement with; [[a/_add|add]] to.**
+- **To perform an [[a/_accompanying|accompanying]] part or parts in a [[c/_composition|composition]].**
+- **To perform an [[a/_accompanying|accompanying]] part next to ([[a/_another|another]] instrument or musician).**
 	- _Example: I will accompany her on the oboe._
-- **To associate in a company; to keep company.**
-- **To cohabit (with).**
-- **To cohabit with; to coexist with; occur with.**
+- **To [[a/_associate|associate]] in a [[c/_company|company]]; to keep [[c/_company|company]].**
+- **To [[c/_cohabit|cohabit]] (with).**
+- **To [[c/_cohabit|cohabit]] with; to [[c/_coexist|coexist]] with; occur with.**
 - **To be found at the same time.**
 	- _Example: Thunder almost always accompanies lightning during a rain storm._
 ---
 #noun
-- **That which accompanies; accompaniment.**
+- **That which [[a/_accompanies|accompanies]]; [[a/_accompaniment|accompaniment]].**
 ---
 #adjective
 - **Present together.**

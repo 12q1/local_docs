@@ -1,6 +1,6 @@
 # Developmentally
 ---
 #adverb
-- **In terms of development.**
+- **In terms of [[d/_development|development]].**
 ---
 ---

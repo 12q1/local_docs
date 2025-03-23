@@ -1,6 +1,6 @@
 # Antivenom
 ---
 #noun
-- **Antivenin**
+- **[[a/_antivenin|Antivenin]]**
 ---
 ---

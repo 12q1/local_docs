@@ -1,6 +1,6 @@
 # Digraph
 ---
 #noun
-- **A directed graph.**
+- **A [[d/_directed|directed]] graph.**
 ---
 ---

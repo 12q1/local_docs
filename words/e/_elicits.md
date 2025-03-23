@@ -1,11 +1,11 @@
 # Elicits
 ---
 #verb
-- **To evoke, educe (emotions, feelings, responses, etc.); to generate, obtain, or provoke as a response or answer.**
-- **To draw out, bring out, bring forth (something latent); to obtain information from someone or something.**
+- **To evoke, [[e/_educe|educe]] ([[e/_emotions|emotions]], feelings, responses, etc.); to generate, obtain, or provoke as a response or [[a/_answer|answer]].**
+- **To [[d/_draw|draw]] out, [[b/_bring|bring]] out, [[b/_bring|bring]] forth (something latent); to obtain information from someone or something.**
 	- _Example: Did you elicit a response?_
-- **To use logic to arrive at truth; to derive by reason**
+- **To use logic to [[a/_arrive|arrive]] at truth; to [[d/_derive|derive]] by reason**
 ---
 ### Synonyms
-- [[[[c/_construe|construe]]]], [[[[d/_deduce|deduce]]]]
+- [[construe]], [[deduce]]
 ---

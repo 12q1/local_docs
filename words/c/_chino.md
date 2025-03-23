@@ -1,6 +1,6 @@
 # Chino
 ---
 #noun
-- **A coarse cotton fabric commonly used to make trousers and uniforms.**
+- **A [[c/_coarse|coarse]] [[c/_cotton|cotton]] fabric [[c/_commonly|commonly]] used to make trousers and uniforms.**
 ---
 ---

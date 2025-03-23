@@ -4,5 +4,5 @@
 - **Trembling.**
 ---
 ### Synonyms
-- [[[[a/_aquiver|aquiver]]]]
+- [[aquiver]]
 ---

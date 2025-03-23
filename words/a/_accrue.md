@@ -1,19 +1,19 @@
 # Accrue
 ---
 #noun
-- **Something that accrues; advantage accruing**
+- **Something that [[a/_accrues|accrues]]; [[a/_advantage|advantage]] [[a/_accruing|accruing]]**
 ---
 #verb
 - **To increase, to rise**
-- **To reach or come to by way of increase; to arise or spring up because of growth or result, especially as the produce of money lent.**
+- **To reach or [[c/_come|come]] to by way of increase; to [[a/_arise|arise]] or spring up [[b/_because|because]] of growth or result, especially as the produce of money lent.**
 - **To be incurred as a result of the passage of time.**
 	- _Example: The monthly financial statements show all the actual but only some of the accrued expenses._
-- **To accumulate**
+- **To [[a/_accumulate|accumulate]]**
 	- _Example: He has accrued nine sick days._
-- **To become an enforceable and permanent right.**
+- **To [[b/_become|become]] an [[e/_enforceable|enforceable]] and permanent right.**
 ---
 ### Synonyms
-- [[[[a/_add|add]] up]], [[rise]]
+- [[add up]], [[rise]]
 ### Antonyms
-- [[[[a/_amortize|amortize]]]], [[[[d/_defer|defer]]]], [[prepay]]
+- [[amortize]], [[defer]], [[prepay]]
 ---

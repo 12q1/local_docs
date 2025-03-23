@@ -1,9 +1,9 @@
 # Bewitching
 ---
 #noun
-- **The act by which somebody is bewitched; a curse or enchantment.**
+- **The [[a/_act|act]] by which somebody is [[b/_bewitched|bewitched]]; a [[c/_curse|curse]] or [[e/_enchantment|enchantment]].**
 ---
 #adjective
-- **Enchanting.**
+- **[[e/_enchanting|Enchanting]].**
 ---
 ---

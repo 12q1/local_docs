@@ -1,6 +1,6 @@
 # Consuetude
 ---
 #noun
-- **Custom, familiarity.**
+- **[[c/_custom|Custom]], familiarity.**
 ---
 ---

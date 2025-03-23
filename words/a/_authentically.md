@@ -1,6 +1,6 @@
 # Authentically
 ---
 #adverb
-- **In an authentic manner; with the requisite or genuine authority.**
+- **In an [[a/_authentic|authentic]] manner; with the requisite or genuine [[a/_authority|authority]].**
 ---
 ---

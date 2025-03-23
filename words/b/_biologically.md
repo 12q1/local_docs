@@ -1,7 +1,7 @@
 # Biologically
 ---
 #adverb
-- **In a biological manner**
-- **With regard to biology**
+- **In a [[b/_biological|biological]] manner**
+- **With regard to [[b/_biology|biology]]**
 ---
 ---

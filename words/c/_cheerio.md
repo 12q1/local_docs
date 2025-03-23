@@ -1,10 +1,10 @@
 # Cheerio
 ---
 #noun
-- **A small saveloy often consumed with tomato sauce at parties.**
+- **A small saveloy often [[c/_consumed|consumed]] with tomato sauce at parties.**
 ---
 ### Synonyms
-- [[[[c/_cocktail|cocktail]] sausage]], [[little [[b/_boy|boy]]]]
+- [[cocktail sausage]], [[little boy]]
 #interjection
 - **Goodbye, an interjection said upon parting.**
 - **Hello; a greeting.**

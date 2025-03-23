@@ -1,8 +1,8 @@
 # Bonbon
 ---
 #noun
-- **A sweet, especially a small chocolate-covered candy.**
-- **A small, spherical savory snack or canapé.**
-- **A Christmas cracker.**
+- **A sweet, especially a small [[c/_chocolate|chocolate]]-[[c/_covered|covered]] [[c/_candy|candy]].**
+- **A small, spherical savory snack or [[c/_canap|canap]]é.**
+- **A [[c/_christmas|Christmas]] [[c/_cracker|cracker]].**
 ---
 ---

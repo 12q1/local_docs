@@ -1,9 +1,9 @@
 # Demurral
 ---
 #noun
-- **The act of demurring.**
+- **The [[a/_act|act]] of [[d/_demurring|demurring]].**
 - **A formal objection.**
 ---
 ### Synonyms
-- [[[[d/_deferral|deferral]]]], [[procrastination]], [[hiatus]], [[moratorium]], [[recess]]
+- [[deferral]], [[procrastination]], [[hiatus]], [[moratorium]], [[recess]]
 ---

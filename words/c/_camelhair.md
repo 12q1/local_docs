@@ -1,7 +1,7 @@
 # Camelhair
 ---
 #noun
-- **The soft hair of a camel.**
+- **The soft hair of a [[c/_camel|camel]].**
 - **A substitute for this hair.**
 - **A soft fabric made from this hair.**
 ---

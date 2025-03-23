@@ -1,8 +1,8 @@
 # Concerting
 ---
 #verb
-- **To plan together; to settle or adjust by conference, agreement, or consultation.**
-- **To plan; to devise; to arrange.**
-- **To act in harmony or conjunction; to form combined plans.**
+- **To plan together; to settle or [[a/_adjust|adjust]] by [[c/_conference|conference]], [[a/_agreement|agreement]], or [[c/_consultation|consultation]].**
+- **To plan; to [[d/_devise|devise]]; to [[a/_arrange|arrange]].**
+- **To [[a/_act|act]] in harmony or [[c/_conjunction|conjunction]]; to form [[c/_combined|combined]] plans.**
 ---
 ---

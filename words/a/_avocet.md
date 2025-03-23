@@ -1,6 +1,6 @@
 # Avocet
 ---
 #noun
-- **Any of four species of wading birds in the genus Recurvirostra, of the family Recurvirostridae, with long, slender recurved bills, long legs, and webbed feet.**
+- **[[a/_any|Any]] of four species of wading [[b/_birds|birds]] in the genus Recurvirostra, of the family Recurvirostridae, with long, slender recurved [[b/_bills|bills]], long legs, and webbed feet.**
 ---
 ---

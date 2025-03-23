@@ -1,11 +1,11 @@
 # Arduous
 ---
 #adjective
-- **Needing or using up much energy; testing powers of endurance.**
+- **Needing or using up much [[e/_energy|energy]]; testing powers of [[e/_endurance|endurance]].**
 	- _Example: The movement towards a peaceful settlement has been a long and arduous political struggle._
-- **Burning; ardent**
-- **Difficult or exhausting to traverse.**
+- **[[b/_burning|Burning]]; [[a/_ardent|ardent]]**
+- **[[d/_difficult|Difficult]] or exhausting to traverse.**
 ---
 ### Synonyms
-- [[[[b/_burdensome|burdensome]]]], [[[[d/_demanding|demanding]]]], [[exhausting]], [[fatiguing]], [[laborious]], [[onerous]], [[strenuous]], [[strugglesome]], [[wearisome]]
+- [[burdensome]], [[demanding]], [[exhausting]], [[fatiguing]], [[laborious]], [[onerous]], [[strenuous]], [[strugglesome]], [[wearisome]]
 ---

@@ -1,6 +1,6 @@
 # Dop
 ---
 #noun
-- **A diving bird.**
+- **A [[d/_diving|diving]] [[b/_bird|bird]].**
 ---
 ---

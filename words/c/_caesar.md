@@ -1,6 +1,6 @@
 # Caesar
 ---
 #noun
-- **Emperor, ruler, dictator**
+- **[[e/_emperor|Emperor]], ruler, [[d/_dictator|dictator]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Dystrophy
 ---
 #noun
-- **A wasting of body tissues, of either genetic origin or due to inadequate or defective nutrition.**
+- **A wasting of [[b/_body|body]] tissues, of [[e/_either|either]] genetic origin or [[d/_due|due]] to inadequate or [[d/_defective|defective]] nutrition.**
 ---
 ---

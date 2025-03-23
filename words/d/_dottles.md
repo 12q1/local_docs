@@ -3,12 +3,12 @@
 #noun
 - **A plug or tap of a vessel.**
 - **A small rounded lump or mass.**
-- **The still burning or wholly burnt tobacco plug in a pipe.**
-- **A baby's dummy, pacifier.**
+- **The still [[b/_burning|burning]] or wholly [[b/_burnt|burnt]] tobacco plug in a pipe.**
+- **A [[b/_baby|baby]]'s [[d/_dummy|dummy]], pacifier.**
 ---
 #noun
-- **A dotard.**
+- **A [[d/_dotard|dotard]].**
 ---
 ### Synonyms
-- [[[[d/_dodipole|dodipole]]]], [[dotel]]
+- [[dodipole]], [[dotel]]
 ---

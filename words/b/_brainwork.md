@@ -1,6 +1,6 @@
 # Brainwork
 ---
 #noun
-- **Work done with the brain; mental effort.**
+- **Work [[d/_done|done]] with the [[b/_brain|brain]]; mental [[e/_effort|effort]].**
 ---
 ---

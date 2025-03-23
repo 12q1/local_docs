@@ -1,6 +1,6 @@
 # Allotropes
 ---
 #noun
-- **Any form of an element that has a distinctly different molecular structure to another form of the same element.**
+- **[[a/_any|Any]] form of an [[e/_element|element]] that has a [[d/_distinctly|distinctly]] [[d/_different|different]] molecular structure to [[a/_another|another]] form of the same [[e/_element|element]].**
 ---
 ---

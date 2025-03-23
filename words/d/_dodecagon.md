@@ -1,8 +1,8 @@
 # Dodecagon
 ---
 #noun
-- **A polygon with twelve edges and twelve angles.**
+- **A polygon with twelve [[e/_edges|edges]] and twelve [[a/_angles|angles]].**
 ---
 ### Synonyms
-- [[12-gon]], [[[[d/_duodecagon|duodecagon]]]]
+- [[12-gon]], [[duodecagon]]
 ---

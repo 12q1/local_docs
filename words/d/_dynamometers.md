@@ -1,6 +1,6 @@
 # Dynamometers
 ---
 #noun
-- **Any of various devices used to measure mechanical power, force, or torque.**
+- **[[a/_any|Any]] of various [[d/_devices|devices]] used to measure mechanical power, force, or torque.**
 ---
 ---

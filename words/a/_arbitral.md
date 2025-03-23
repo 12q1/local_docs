@@ -1,6 +1,6 @@
 # Arbitral
 ---
 #adjective
-- **Relating to arbitration.**
+- **Relating to [[a/_arbitration|arbitration]].**
 ---
 ---

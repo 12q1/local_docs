@@ -1,37 +1,37 @@
 # Devil
 ---
 #noun
-- **An evil creature.**
-- **(with article) The chief devil; Satan.**
-- **A fictional image of a man, usually red or orange in skin color; with a set of horns on his head, a pointed goatee and a long tail and carrying a pitchfork; that represents evil and portrayed to children in an effort to discourage bad behavior.**
-- **The bad part of the conscience; the opposite to the angel.**
+- **An evil [[c/_creature|creature]].**
+- **(with [[a/_article|article]]) The [[c/_chief|chief]] [[d/_devil|devil]]; Satan.**
+- **A fictional image of a man, usually red or orange in skin [[c/_color|color]]; with a set of horns on his head, a pointed goatee and a long tail and [[c/_carrying|carrying]] a pitchfork; that represents evil and portrayed to [[c/_children|children]] in an [[e/_effort|effort]] to [[d/_discourage|discourage]] [[b/_bad|bad]] [[b/_behavior|behavior]].**
+- **The [[b/_bad|bad]] part of the [[c/_conscience|conscience]]; the opposite to the [[a/_angel|angel]].**
 	- _Example: The devil in me wants to let him suffer._
-- **A wicked or naughty person, or one who harbors reckless, spirited energy, especially in a mischievous way; usually said of a young child.**
+- **A wicked or naughty person, or one who harbors reckless, spirited [[e/_energy|energy]], especially in a mischievous way; usually said of a young [[c/_child|child]].**
 	- _Example: Those two kids are devils in a toy store._
-- **A thing that is awkward or difficult to understand or do.**
+- **A thing that is [[a/_awkward|awkward]] or [[d/_difficult|difficult]] to understand or [[d/_do|do]].**
 	- _Example: That math problem was a devil._
-- **(with an article, as an intensifier) Hell.**
+- **(with an [[a/_article|article]], as an intensifier) Hell.**
 	- _Example: She is having a devil of a time fixing it._
-- **A person, especially a man; used to express a particular opinion of him, usually in the phrases poor devil and lucky devil.**
-- **A dust devil.**
-- **(Christian Science) An evil or erring entity.**
-- **(in compounds) A barren, unproductive and unused area.**
+- **A person, especially a man; used to express a particular opinion of him, usually in the phrases poor [[d/_devil|devil]] and lucky [[d/_devil|devil]].**
+- **A [[d/_dust|dust]] [[d/_devil|devil]].**
+- **([[c/_christian|Christian]] Science) An evil or erring [[e/_entity|entity]].**
+- **(in [[c/_compounds|compounds]]) A [[b/_barren|barren]], unproductive and unused [[a/_area|area]].**
 	- _Example: devil strip_
-- **A dish, as a bone with the meat, broiled and excessively peppered; a grill with Cayenne pepper.**
-- **A machine for tearing or cutting rags, cotton, etc.**
-- **A Tasmanian devil.**
-- **An endurance event where riders who fall behind are periodically eliminated.**
+- **A [[d/_dish|dish]], as a [[b/_bone|bone]] with the meat, [[b/_broiled|broiled]] and excessively peppered; a grill with [[c/_cayenne|Cayenne]] pepper.**
+- **A machine for tearing or [[c/_cutting|cutting]] rags, [[c/_cotton|cotton]], etc.**
+- **A Tasmanian [[d/_devil|devil]].**
+- **An [[e/_endurance|endurance]] event where riders who fall [[b/_behind|behind]] are periodically [[e/_eliminated|eliminated]].**
 ---
 ### Synonyms
-- [[[[b/_bastard|bastard]]]], [[[[b/_bitch|bitch]]]], [[[[b/_bugger|bugger]]]], [[stinker]], [[[[b/_bugger|bugger]]]], [[[[c/_cow|cow]]]], [[sod]], [[[[d/_demon|demon]]]], [[[[d/_deuce|deuce]]]], [[[[d/_dickens|dickens]]]], [[fuck]], [[heck]], [[hell]], [[imp]], [[rascal]], [[scamp]], [[scoundrel]]
+- [[bastard]], [[bitch]], [[bugger]], [[stinker]], [[bugger]], [[cow]], [[sod]], [[demon]], [[deuce]], [[dickens]], [[fuck]], [[heck]], [[hell]], [[imp]], [[rascal]], [[scamp]], [[scoundrel]]
 ### Antonyms
-- [[God]], [[[[a/_angel|angel]]]], [[[[c/_conscience|conscience]]]], [[[[a/_angel|angel]]]], [[god]], [[[[a/_angel|angel]]]], [[saint]], [[[[c/_cakewalk|cakewalk]]]], [[piece of [[c/_cake|cake]]]]
+- [[God]], [[angel]], [[conscience]], [[angel]], [[god]], [[angel]], [[saint]], [[cakewalk]], [[piece of cake]]
 #verb
-- **To make like a devil; to invest with the character of a devil.**
-- **To annoy or bother.**
-- **To work as a ‘devil’; to work for a lawyer or writer without fee or recognition.**
+- **To make like a [[d/_devil|devil]]; to invest with the [[c/_character|character]] of a [[d/_devil|devil]].**
+- **To [[a/_annoy|annoy]] or [[b/_bother|bother]].**
+- **To work as a ‘[[d/_devil|devil]]’; to work for a lawyer or writer without fee or recognition.**
 - **To prepare (food) with spices, making it spicy:**
 ---
 ### Synonyms
-- [[[[b/_bedevil|bedevil]]]]
+- [[bedevil]]
 ---

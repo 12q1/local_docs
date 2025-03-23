@@ -3,8 +3,8 @@
 #adjective
 - **Inconsistent with, or far removed from, something; strongly opposed**
 	- _Example: abhorrent thoughts_
-- **Contrary to something; discordant.**
-- **Abhorring; detesting; having or showing abhorrence; loathing.**
-- **Detestable or repugnant.**
+- **[[c/_contrary|Contrary]] to something; [[d/_discordant|discordant]].**
+- **[[a/_abhorring|Abhorring]]; [[d/_detesting|detesting]]; having or showing [[a/_abhorrence|abhorrence]]; loathing.**
+- **[[d/_detestable|Detestable]] or repugnant.**
 ---
 ---

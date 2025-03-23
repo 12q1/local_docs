@@ -1,6 +1,6 @@
 # Betake
 ---
 #verb
-- **To beteach.**
+- **To [[b/_beteach|beteach]].**
 ---
 ---

@@ -1,13 +1,13 @@
 # Depositary
 ---
 #noun
-- **One who receives a deposit in trust**
-- **A place where deposits are kept**
+- **One who receives a [[d/_deposit|deposit]] in trust**
+- **A place where [[d/_deposits|deposits]] are kept**
 ---
 ### Synonyms
-- [[trustee]], [[[[d/_depository|depository]]]]
+- [[trustee]], [[depository]]
 #adjective
-- **Acting as the trusted recipient of a deposit**
+- **[[a/_acting|Acting]] as the trusted recipient of a [[d/_deposit|deposit]]**
 	- _Example: The hospital was the depositary institution of our monies._
 ---
 ---

@@ -1,8 +1,8 @@
 # Cooncan
 ---
 #noun
-- **An early form of the card game rummy.**
+- **An [[e/_early|early]] form of the [[c/_card|card]] game rummy.**
 ---
 ### Synonyms
-- [[[[c/_conquian|conquian]]]]
+- [[conquian]]
 ---

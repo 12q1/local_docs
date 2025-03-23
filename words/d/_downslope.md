@@ -1,14 +1,14 @@
 # Downslope
 ---
 #noun
-- **A descent or declivity**
+- **A [[d/_descent|descent]] or [[d/_declivity|declivity]]**
 ---
 ### Antonyms
 - [[upslope]]
 #adjective
-- **In a direction down a slope**
+- **In a [[d/_direction|direction]] [[d/_down|down]] a slope**
 ---
 #adverb
-- **Down a slope**
+- **[[d/_down|Down]] a slope**
 ---
 ---

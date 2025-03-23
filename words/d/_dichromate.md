@@ -1,6 +1,6 @@
 # Dichromate
 ---
 #noun
-- **Any salt of dichromic acid; in solution the orange dichromate anion (Cr2O72-) is in equilibrium with the yellow chromate anion (CrO42-), the relative amount of each ion depending on the pH; they are both very powerful oxidizing agents**
+- **[[a/_any|Any]] salt of [[d/_dichromic|dichromic]] [[a/_acid|acid]]; in solution the orange [[d/_dichromate|dichromate]] [[a/_anion|anion]] (Cr2O72-) is in [[e/_equilibrium|equilibrium]] with the yellow [[c/_chromate|chromate]] [[a/_anion|anion]] (CrO42-), the relative [[a/_amount|amount]] of [[e/_each|each]] ion [[d/_depending|depending]] on the pH; they are [[b/_both|both]] very powerful oxidizing [[a/_agents|agents]]**
 ---
 ---

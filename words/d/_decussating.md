@@ -1,6 +1,6 @@
 # Decussating
 ---
 #verb
-- **To form an X or to cross or intersect.**
+- **To form an X or to [[c/_cross|cross]] or intersect.**
 ---
 ---

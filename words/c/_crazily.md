@@ -1,7 +1,7 @@
 # Crazily
 ---
 #adverb
-- **In a crazy manner.**
+- **In a [[c/_crazy|crazy]] manner.**
 - **Very, extremely.**
 ---
 ---

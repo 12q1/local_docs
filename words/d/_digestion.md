@@ -1,12 +1,12 @@
 # Digestion
 ---
 #noun
-- **The process, in the gastrointestinal tract, by which food is converted into substances that can be utilized by the body.**
+- **The process, in the gastrointestinal tract, by which food is [[c/_converted|converted]] into substances that [[c/_can|can]] be utilized by the [[b/_body|body]].**
 - **The result of this process.**
-- **The ability to use this process.**
-- **The processing of decay in organic matter assisted by microorganisms.**
-- **The assimilation and understanding of ideas.**
+- **The [[a/_ability|ability]] to use this process.**
+- **The processing of [[d/_decay|decay]] in organic matter [[a/_assisted|assisted]] by microorganisms.**
+- **The [[a/_assimilation|assimilation]] and understanding of ideas.**
 - **Generation of pus; suppuration.**
-- **Dissolution of a sample into a solution by means of adding acid and heat.**
+- **[[d/_dissolution|Dissolution]] of a sample into a solution by means of [[a/_adding|adding]] [[a/_acid|acid]] and heat.**
 ---
 ---

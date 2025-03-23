@@ -1,6 +1,6 @@
 # Electrophorus
 ---
 #noun
-- **An early apparatus, consisting of a rubber disk and a metal plate, for generating static electricity.**
+- **An [[e/_early|early]] [[a/_apparatus|apparatus]], [[c/_consisting|consisting]] of a rubber [[d/_disk|disk]] and a metal plate, for generating static [[e/_electricity|electricity]].**
 ---
 ---

@@ -1,13 +1,13 @@
 # Binaries
 ---
 #noun
-- **A thing which can have only (one or the other of) two values.**
-- **The bijective base-2 numeral system, which uses only the digits 0 and 1.**
-- **An executable computer file.**
-- **A satellite system consisting of two stars or other bodies orbiting each other.**
+- **A thing which [[c/_can|can]] have only (one or the other of) two values.**
+- **The [[b/_bijective|bijective]] [[b/_base|base]]-2 numeral system, which uses only the [[d/_digits|digits]] 0 and 1.**
+- **An executable [[c/_computer|computer]] file.**
+- **A satellite system [[c/_consisting|consisting]] of two stars or other [[b/_bodies|bodies]] orbiting [[e/_each|each]] other.**
 ---
 ### Synonyms
-- [[[[b/_base|base]] 2]], [[[[b/_binary|binary]] star]], [[[[d/_double|double]] star]]
+- [[base 2]], [[binary star]], [[double star]]
 ### Antonyms
-- [[non-[[b/_binary|binary]]]]
+- [[non-binary]]
 ---

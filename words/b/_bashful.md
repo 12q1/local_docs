@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Shy; not liking to be noticed; socially timid.**
-- **Indicating bashfulness.**
+- **Indicating [[b/_bashfulness|bashfulness]].**
 	- _Example: a bashful look_
 ---
 ### Synonyms

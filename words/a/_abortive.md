@@ -1,25 +1,25 @@
 # Abortive
 ---
 #noun
-- **That which is born or brought forth prematurely; an abortion.**
-- **A fruitless effort or issue.**
-- **A medicine to which is attributed the property of causing abortion, abortifacient.**
+- **That which is [[b/_born|born]] or [[b/_brought|brought]] forth prematurely; an [[a/_abortion|abortion]].**
+- **A fruitless [[e/_effort|effort]] or issue.**
+- **A medicine to which is [[a/_attributed|attributed]] the property of [[c/_causing|causing]] [[a/_abortion|abortion]], [[a/_abortifacient|abortifacient]].**
 ---
 #verb
-- **To cause an abortion; to render without fruit.**
+- **To [[c/_cause|cause]] an [[a/_abortion|abortion]]; to render without fruit.**
 ---
 #adjective
-- **Produced by abortion; born prematurely and therefore unnatural.**
+- **Produced by [[a/_abortion|abortion]]; [[b/_born|born]] prematurely and therefore unnatural.**
 	- _Example: an abortive child_
-- **Coming to nothing; failing in its effect; miscarrying; fruitless; unsuccessful.**
+- **[[c/_coming|Coming]] to nothing; failing in its [[e/_effect|effect]]; miscarrying; fruitless; unsuccessful.**
 	- _Example: an abortive attempt_
-- **Imperfectly formed or developed; rudimentary; sterile.**
+- **Imperfectly formed or [[d/_developed|developed]]; rudimentary; sterile.**
 	- _Example: an abortive organ_
-- **(pharmaceutical effect) Causing abortion; abortifacient**
+- **(pharmaceutical [[e/_effect|effect]]) [[c/_causing|Causing]] [[a/_abortion|abortion]]; [[a/_abortifacient|abortifacient]]**
 	- _Example: abortive medicines_
-- **Cutting short; acting to halt or slow the progress (of a disease).**
+- **[[c/_cutting|Cutting]] short; [[a/_acting|acting]] to halt or slow the progress (of a [[d/_disease|disease]]).**
 	- _Example: abortive treatment of typhoid fever_
-- **Made from the skin of a still-born animal.**
+- **Made from the skin of a still-[[b/_born|born]] [[a/_animal|animal]].**
 	- _Example: abortive vellum_
 ---
 ---

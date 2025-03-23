@@ -1,18 +1,18 @@
 # Bombing
 ---
 #verb
-- **To attack using one or more bombs; to bombard.**
-- **To fail dismally.**
-- **To jump into water in a squatting position, with the arms wrapped around the legs.**
-- **To sound; to boom; to make a humming or buzzing sound.**
-- **To cover an area in many graffiti tags.**
-- **To add an excessive amount of chlorine to a pool when it has not been maintained properly.**
-- **To make oneself drunk.**
-- **(especially with along, down, up etc.) To move at high speed.**
+- **To [[a/_attack|attack]] using one or more [[b/_bombs|bombs]]; to [[b/_bombard|bombard]].**
+- **To fail [[d/_dismally|dismally]].**
+- **To jump into water in a squatting position, with the [[a/_arms|arms]] wrapped [[a/_around|around]] the legs.**
+- **To sound; to [[b/_boom|boom]]; to make a humming or [[b/_buzzing|buzzing]] sound.**
+- **To [[c/_cover|cover]] an [[a/_area|area]] in many graffiti tags.**
+- **To [[a/_add|add]] an excessive [[a/_amount|amount]] of [[c/_chlorine|chlorine]] to a pool when it has not [[b/_been|been]] maintained properly.**
+- **To make oneself [[d/_drunk|drunk]].**
+- **(especially with [[a/_along|along]], [[d/_down|down]], up etc.) To move at high speed.**
 	- _Example: I was bombing down the road on my motorbike._
 ---
 #noun
-- **The action of dropping bombs from the air.**
-- **The action of placing and detonating bombs.**
+- **The [[a/_action|action]] of [[d/_dropping|dropping]] [[b/_bombs|bombs]] from the [[a/_air|air]].**
+- **The [[a/_action|action]] of placing and [[d/_detonating|detonating]] [[b/_bombs|bombs]].**
 ---
 ---

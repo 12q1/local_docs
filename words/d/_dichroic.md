@@ -1,10 +1,10 @@
 # Dichroic
 ---
 #noun
-- **A dichroic filter**
+- **A [[d/_dichroic|dichroic]] filter**
 ---
 #adjective
-- **Exhibiting dichroism.**
-- **Exhibiting dichromatism; dichromatic.**
+- **Exhibiting [[d/_dichroism|dichroism]].**
+- **Exhibiting [[d/_dichromatism|dichromatism]]; [[d/_dichromatic|dichromatic]].**
 ---
 ---

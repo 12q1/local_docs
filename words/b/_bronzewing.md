@@ -1,8 +1,8 @@
 # Bronzewing
 ---
 #noun
-- **Any of several species of bird in the genera Henicophaps and Phaps in the pigeon family, found in Australasia.**
+- **[[a/_any|Any]] of several species of [[b/_bird|bird]] in the genera Henicophaps and Phaps in the pigeon family, found in Australasia.**
 ---
 ### Synonyms
-- [[[[b/_bronzewing|bronzewing]] pigeon]]
+- [[bronzewing pigeon]]
 ---

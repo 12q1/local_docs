@@ -1,6 +1,6 @@
 # Contradistinguish
 ---
 #verb
-- **To distinguish things by contrasting their different qualities.**
+- **To [[d/_distinguish|distinguish]] things by [[c/_contrasting|contrasting]] their [[d/_different|different]] qualities.**
 ---
 ---

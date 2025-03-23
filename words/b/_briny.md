@@ -4,6 +4,6 @@
 - **The sea.**
 ---
 #adjective
-- **Of, pertaining to, resembling or containing brine; salty.**
+- **Of, pertaining to, resembling or [[c/_containing|containing]] [[b/_brine|brine]]; salty.**
 ---
 ---

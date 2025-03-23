@@ -1,7 +1,7 @@
 # Anatomise
 ---
 #verb
-- **To inspect or investigate by dissection.**
-- **To scrutinize down to the most minute detail.**
+- **To inspect or investigate by [[d/_dissection|dissection]].**
+- **To scrutinize [[d/_down|down]] to the most minute [[d/_detail|detail]].**
 ---
 ---

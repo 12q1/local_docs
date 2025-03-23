@@ -1,7 +1,7 @@
 # Arcanum
 ---
 #noun
-- **A mystery or deep secret.**
-- **An elixir or secret remedy.**
+- **A mystery or [[d/_deep|deep]] secret.**
+- **An [[e/_elixir|elixir]] or secret remedy.**
 ---
 ---

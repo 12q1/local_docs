@@ -1,9 +1,9 @@
 # Decarbonise
 ---
 #verb
-- **To remove carbon from something, especially from an engine.**
-- **To reduce or replace fossil fuels by renewable energy in energy production systems and processes.**
+- **To remove [[c/_carbon|carbon]] from something, especially from an [[e/_engine|engine]].**
+- **To reduce or replace fossil fuels by renewable [[e/_energy|energy]] in [[e/_energy|energy]] production systems and processes.**
 ---
 ### Synonyms
-- [[[[d/_decoke|decoke]]]]
+- [[decoke]]
 ---

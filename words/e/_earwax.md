@@ -1,8 +1,8 @@
 # Earwax
 ---
 #noun
-- **A waxy substance secreted by the ear.**
+- **A waxy substance secreted by the [[e/_ear|ear]].**
 ---
 ### Synonyms
-- [[[[c/_cerumen|cerumen]]]], [[wax]]
+- [[cerumen]], [[wax]]
 ---

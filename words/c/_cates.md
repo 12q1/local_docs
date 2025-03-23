@@ -1,6 +1,6 @@
 # Cates
 ---
 #noun
-- **Provisions; food; viands; especially, luxurious food; delicacies; dainties.**
+- **Provisions; food; viands; especially, luxurious food; [[d/_delicacies|delicacies]]; [[d/_dainties|dainties]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bravely
 ---
 #adverb
-- **In a brave manner.**
+- **In a [[b/_brave|brave]] manner.**
 ---
 ---

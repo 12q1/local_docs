@@ -1,54 +1,54 @@
 # Blank
 ---
 #noun
-- **A small French coin, originally of silver, afterwards of copper, worth 5 deniers; also a silver coin of Henry V current in the parts of France then held by the English, worth about 8 pence .**
+- **A small French [[c/_coin|coin]], originally of silver, [[a/_afterwards|afterwards]] of [[c/_copper|copper]], worth 5 [[d/_deniers|deniers]]; [[a/_also|also]] a silver [[c/_coin|coin]] of Henry V [[c/_current|current]] in the parts of France then held by the [[e/_english|English]], worth [[a/_about|about]] 8 pence .**
 - **A nonplus .**
-- **The white spot in the centre of a target; hence the object to which anything is directed or aimed, the range of such aim .**
+- **The white spot in the [[c/_centre|centre]] of a target; hence the object to which [[a/_anything|anything]] is [[d/_directed|directed]] or [[a/_aimed|aimed]], the range of such [[a/_aim|aim]] .**
 - **A lot by which nothing is gained; a ticket in a lottery on which no prize is indicated .**
-- **An empty space; a void, for example on a paper .**
-- **(now chiefly U.S.) A document, paper, or form with spaces left blank to be filled up at the pleasure of the person to whom it is given (e.g. a blank charter, ballot, form, contract, etc.), or as the event may determine; a blank form .**
-- **Blank verse .**
-- **A piece of metal (such as a coin, screw, nuts), cut and shaped to the required size of the thing to be made, and ready for the finishing operations; (coining) the disc of metal before stamping .**
+- **An [[e/_empty|empty]] space; a void, for example on a paper .**
+- **(now [[c/_chiefly|chiefly]] U.S.) A [[d/_document|document]], paper, or form with spaces left [[b/_blank|blank]] to be filled up at the pleasure of the person to whom it is given ([[e/_e|e]].g. a [[b/_blank|blank]] [[c/_charter|charter]], [[b/_ballot|ballot]], form, [[c/_contract|contract]], etc.), or as the event may [[d/_determine|determine]]; a [[b/_blank|blank]] form .**
+- **[[b/_blank|Blank]] verse .**
+- **A piece of metal (such as a [[c/_coin|coin]], screw, nuts), [[c/_cut|cut]] and shaped to the required size of the thing to be made, and ready for the finishing operations; ([[c/_coining|coining]]) the [[d/_disc|disc]] of metal [[b/_before|before]] stamping .**
 - **A vacant space, place, or period; a void .**
 - **The 1 / 230400 of a grain .**
-- **An empty space in one's memory; a forgotten item or memory .**
-- **A dash written in place of an omitted letter or word**
-- **The space character; the character resulting from pressing the space-bar on a keyboard.**
-- **A domino without points on one or both of its divisions.**
+- **An [[e/_empty|empty]] space in one's memory; a forgotten item or memory .**
+- **A [[d/_dash|dash]] written in place of an omitted letter or word**
+- **The space [[c/_character|character]]; the [[c/_character|character]] resulting from pressing the space-[[b/_bar|bar]] on a keyboard.**
+- **A [[d/_domino|domino]] without points on one or [[b/_both|both]] of its [[d/_divisions|divisions]].**
 	- _Example: the double blank_
-- **Short for blank cartridge. .**
-- **(in the expression ‘shooting blanks’) An ineffective effort which achieves nothing .**
+- **Short for [[b/_blank|blank]] [[c/_cartridge|cartridge]]. .**
+- **(in the expression ‘shooting [[b/_blanks|blanks]]’) An ineffective [[e/_effort|effort]] which [[a/_achieves|achieves]] nothing .**
 ---
 ### Synonyms
-- [[[[b/_blank|blank]] [[b/_bullet|bullet]]]], [[[[b/_blank|blank]] [[c/_cartridge|cartridge]]]]
+- [[blank bullet]], [[blank cartridge]]
 #verb
 - **To make void; to erase.**
 	- _Example: I blanked out my previous entry._
-- **To ignore (a person) deliberately.**
+- **To ignore (a person) [[d/_deliberately|deliberately]].**
 	- _Example: She blanked me for no reason._
 - **To prevent from scoring, for example in a sporting event.**
 	- _Example: England blanks Wales to advance to the final._
-- **To become blank.**
+- **To [[b/_become|become]] [[b/_blank|blank]].**
 - **To be temporarily unable to remember.**
 	- _Example: I'm blanking on her name right now._
 ---
 #adjective
-- **White or pale; without colour.**
-- **Free from writing, printing, or marks; having an empty space to be filled in**
+- **White or pale; without [[c/_colour|colour]].**
+- **Free from writing, printing, or marks; having an [[e/_empty|empty]] space to be filled in**
 	- _Example: a blank ballot_
-- **Scoreless; without any goals or points.**
-- **Lacking characteristics which give variety; uniform.**
+- **Scoreless; without [[a/_any|any]] goals or points.**
+- **Lacking [[c/_characteristics|characteristics]] which give variety; uniform.**
 	- _Example: a blank desert; a blank wall; blank unconsciousness_
-- **Absolute; downright; sheer.**
+- **[[a/_absolute|Absolute]]; [[d/_downright|downright]]; sheer.**
 	- _Example: There was a look of blank terror on his face._
 - **Without expression.**
 	- _Example: Failing to understand the question, he gave me a blank stare._
-- **Utterly confounded or discomfited.**
-- **Empty; void; without result; fruitless.**
+- **Utterly [[c/_confounded|confounded]] or [[d/_discomfited|discomfited]].**
+- **[[e/_empty|Empty]]; void; without result; fruitless.**
 	- _Example: a blank day_
-- **Devoid of thoughts, memory, or inspiration.**
+- **[[d/_devoid|Devoid]] of thoughts, memory, or inspiration.**
 	- _Example: The shock left his memory blank._
-- **Of ammunition: having propellant but no bullets; unbulleted.**
+- **Of [[a/_ammunition|ammunition]]: having propellant but no [[b/_bullets|bullets]]; unbulleted.**
 	- _Example: The recruits were issued with blank rounds for a training exercise._
 ---
 ---

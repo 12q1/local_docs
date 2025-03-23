@@ -1,6 +1,6 @@
 # Electrohydraulic
 ---
 #adjective
-- **Both electric and hydraulic.**
+- **[[b/_both|Both]] [[e/_electric|electric]] and hydraulic.**
 ---
 ---

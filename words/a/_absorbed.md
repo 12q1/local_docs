@@ -1,24 +1,24 @@
 # Absorbed
 ---
 #verb
-- **To include so that it no longer has separate existence; to overwhelm; to cause to disappear as if by swallowing up; to incorporate; to assimilate; to take in and use up.**
-- **To engulf, as in water; to swallow up.**
-- **To suck up; to drink in; to imbibe, like a sponge or as the lacteals of the body; to chemically take in.**
-- **To take in energy and convert it, as**
+- **To include so that it no longer has separate existence; to overwhelm; to [[c/_cause|cause]] to [[d/_disappear|disappear]] as if by swallowing up; to incorporate; to [[a/_assimilate|assimilate]]; to take in and use up.**
+- **To [[e/_engulf|engulf]], as in water; to swallow up.**
+- **To suck up; to [[d/_drink|drink]] in; to imbibe, like a sponge or as the lacteals of the [[b/_body|body]]; to [[c/_chemically|chemically]] take in.**
+- **To take in [[e/_energy|energy]] and [[c/_convert|convert]] it, as**
 	- _Example: Heat, light, and electricity are absorbed in the substances into which they pass._
-- **To engross or engage wholly; to occupy fully**
-- **To occupy or consume time.**
-- **Assimilate mentally.**
-- **To assume or pay for as part of a commercial transaction.**
-- **To defray the costs.**
-- **To accept or purchase in quantity.**
+- **To [[e/_engross|engross]] or [[e/_engage|engage]] wholly; to occupy fully**
+- **To occupy or [[c/_consume|consume]] time.**
+- **[[a/_assimilate|Assimilate]] mentally.**
+- **To [[a/_assume|assume]] or pay for as part of a [[c/_commercial|commercial]] transaction.**
+- **To [[d/_defray|defray]] the [[c/_costs|costs]].**
+- **To [[a/_accept|accept]] or purchase in quantity.**
 ---
 ### Synonyms
-- [[[[a/_assume|assume]]]], [[[[b/_bear|bear]]]], [[pay for]], [[use up]], [[[[a/_assimilate|assimilate]]]], [[[[e/_engulf|engulf]]]], [[incorporate]], [[overwhelm]], [[swallow up]], [[[[e/_engage|engage]]]], [[[[e/_engross|engross]]]], [[immerse]], [[monopolize]], [[occupy]], [[[[d/_draw|draw]]]], [[[[d/_drink|drink]] in]], [[imbibe]], [[soak up]], [[sop up]], [[steep]], [[suck]], [[suck up]], [[take in]], [[take up]]
+- [[assume]], [[bear]], [[pay for]], [[use up]], [[assimilate]], [[engulf]], [[incorporate]], [[overwhelm]], [[swallow up]], [[engage]], [[engross]], [[immerse]], [[monopolize]], [[occupy]], [[draw]], [[drink in]], [[imbibe]], [[soak up]], [[sop up]], [[steep]], [[suck]], [[suck up]], [[take in]], [[take up]]
 ### Antonyms
-- [[[[e/_emit|emit]]]]
+- [[emit]]
 #adjective
-- **Fully occupied with one's thoughts; engrossed.**
-- **Something that has been absorbed, taken in, engulfed, imbibed, or assimilated.**
+- **Fully occupied with one's thoughts; [[e/_engrossed|engrossed]].**
+- **Something that has [[b/_been|been]] [[a/_absorbed|absorbed]], taken in, [[e/_engulfed|engulfed]], imbibed, or [[a/_assimilated|assimilated]].**
 ---
 ---

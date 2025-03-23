@@ -1,8 +1,8 @@
 # Alula
 ---
 #noun
-- **A small projection of three or four feathers on the first digit of the wing on some birds.**
+- **A small projection of three or four feathers on the first [[d/_digit|digit]] of the wing on some [[b/_birds|birds]].**
 ---
 ### Synonyms
-- [[[[b/_bastard|bastard]] wing]]
+- [[bastard wing]]
 ---

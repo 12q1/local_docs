@@ -1,6 +1,6 @@
 # Distractibility
 ---
 #noun
-- **The ease with which a person's concentration can be interfered with by external stimulation or by irrelevant thoughts**
+- **The [[e/_ease|ease]] with which a person's [[c/_concentration|concentration]] [[c/_can|can]] be interfered with by external stimulation or by irrelevant thoughts**
 ---
 ---

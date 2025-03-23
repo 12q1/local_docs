@@ -1,8 +1,8 @@
 # Ditheism
 ---
 #noun
-- **A belief in two deities, which may be in conflict with each other.**
+- **A [[b/_belief|belief]] in two [[d/_deities|deities]], which may be in [[c/_conflict|conflict]] with [[e/_each|each]] other.**
 ---
 ### Synonyms
-- [[[[b/_bitheism|bitheism]]]], [[duotheism]]
+- [[bitheism]], [[duotheism]]
 ---

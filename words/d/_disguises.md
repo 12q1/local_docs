@@ -1,22 +1,22 @@
 # Disguises
 ---
 #noun
-- **Material (such as clothing, makeup, a wig) used to alter one’s visual appearance in order to hide one's identity or assume another.**
+- **Material (such as [[c/_clothing|clothing]], makeup, a wig) used to [[a/_alter|alter]] one’s visual [[a/_appearance|appearance]] in order to hide one's identity or [[a/_assume|assume]] [[a/_another|another]].**
 	- _Example: A cape and moustache completed his disguise._
-- **The appearance of something on the outside which masks what's beneath.**
-- **The act of disguising, notably as a ploy.**
+- **The [[a/_appearance|appearance]] of something on the outside which masks what's [[b/_beneath|beneath]].**
+- **The [[a/_act|act]] of [[d/_disguising|disguising]], notably as a ploy.**
 	- _Example: Any disguise may expose soldiers to be deemed enemy spies._
-- **A change of behaviour resulting from intoxication.**
+- **A [[c/_change|change]] of [[b/_behaviour|behaviour]] resulting from intoxication.**
 ---
 ### Synonyms
-- [[[[c/_camouflage|camouflage]]]], [[guise]], [[mask]], [[pretense]]
+- [[camouflage]], [[guise]], [[mask]], [[pretense]]
 #verb
-- **To change the appearance of (a person or thing) so as to hide, or to assume an identity.**
+- **To [[c/_change|change]] the [[a/_appearance|appearance]] of (a person or thing) so as to hide, or to [[a/_assume|assume]] an identity.**
 	- _Example: Spies often disguise themselves._
-- **To avoid giving away or revealing (something secret); to hide by a false appearance.**
+- **To [[a/_avoid|avoid]] giving [[a/_away|away]] or revealing (something secret); to hide by a false [[a/_appearance|appearance]].**
 	- _Example: He disguised his true intentions._
-- **To affect or change by liquor; to intoxicate.**
+- **To [[a/_affect|affect]] or [[c/_change|change]] by liquor; to intoxicate.**
 ---
 ### Synonyms
-- [[[[c/_camouflage|camouflage]]]], [[[[c/_cloak|cloak]]]], [[hide]], [[mask]]
+- [[camouflage]], [[cloak]], [[hide]], [[mask]]
 ---

@@ -1,7 +1,7 @@
 # Agarics
 ---
 #noun
-- **Any of various fungi, principally of the order Agaricales, having fruiting bodies consisting of umbrella-like caps, on stalks, with numerous gills beneath.**
-- **A dried fruiting body of a fungus formerly used in medicine (now Fomitopsis officinalis, formerly Fomes officinalis, Polyporus officinalis).**
+- **[[a/_any|Any]] of various fungi, principally of the order [[a/_agaricales|Agaricales]], having fruiting [[b/_bodies|bodies]] [[c/_consisting|consisting]] of umbrella-like [[c/_caps|caps]], on stalks, with numerous gills [[b/_beneath|beneath]].**
+- **A [[d/_dried|dried]] fruiting [[b/_body|body]] of a fungus formerly used in medicine (now Fomitopsis officinalis, formerly Fomes officinalis, Polyporus officinalis).**
 ---
 ---

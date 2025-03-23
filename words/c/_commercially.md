@@ -1,6 +1,6 @@
 # Commercially
 ---
 #adverb
-- **In a commercial manner: a manner pertaining to commerce.**
+- **In a [[c/_commercial|commercial]] manner: a manner pertaining to [[c/_commerce|commerce]].**
 ---
 ---

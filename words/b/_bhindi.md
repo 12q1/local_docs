@@ -1,9 +1,9 @@
 # Bhindi
 ---
 #noun
-- **The edible immature mucilaginous seed pod (properly, capsule) of the Abelmoschus esculentus.**
-- **The flowering mallow plant Abelmoschus esculentus itself, now commonly grown in the tropics and warmer parts of the temperate zones.**
+- **The [[e/_edible|edible]] immature mucilaginous seed pod (properly, [[c/_capsule|capsule]]) of the [[a/_abelmoschus|Abelmoschus]] esculentus.**
+- **The flowering mallow plant [[a/_abelmoschus|Abelmoschus]] esculentus itself, now [[c/_commonly|commonly]] grown in the tropics and warmer parts of the temperate zones.**
 ---
 ### Synonyms
-- [[ladies' fingers]], [[[[b/_bhindi|bhindi]]]], [[gumbo]], [[ladyfinger]]
+- [[ladies' fingers]], [[bhindi]], [[gumbo]], [[ladyfinger]]
 ---

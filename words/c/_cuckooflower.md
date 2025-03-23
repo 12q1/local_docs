@@ -1,6 +1,6 @@
 # Cuckooflower
 ---
 #noun
-- **Either of two flowering plants**
+- **[[e/_either|Either]] of two flowering plants**
 ---
 ---

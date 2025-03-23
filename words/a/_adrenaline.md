@@ -1,6 +1,6 @@
 # Adrenaline
 ---
 #noun
-- **Epinephrine, the hormone and neurotransmitter.**
+- **[[e/_epinephrine|Epinephrine]], the hormone and neurotransmitter.**
 ---
 ---

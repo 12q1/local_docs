@@ -1,7 +1,7 @@
 # Compendiums
 ---
 #noun
-- **A short, complete summary; an abstract.**
-- **A list or collection of various items.**
+- **A short, [[c/_complete|complete]] summary; an [[a/_abstract|abstract]].**
+- **A list or [[c/_collection|collection]] of various items.**
 ---
 ---

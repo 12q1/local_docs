@@ -1,14 +1,14 @@
 # Drawers
 ---
 #noun
-- **An open-topped box that can be slid in and out of the cabinet that contains it, used for storing clothing or other articles.**
-- **A side panel containing supplementary content.**
+- **An open-topped [[b/_box|box]] that [[c/_can|can]] be slid in and out of the [[c/_cabinet|cabinet]] that [[c/_contains|contains]] it, used for storing [[c/_clothing|clothing]] or other [[a/_articles|articles]].**
+- **A side panel [[c/_containing|containing]] supplementary [[c/_content|content]].**
 ---
 #noun
-- **Agent noun of draw; one who draws.**
-- **An artist who primarily makes drawings.**
-- **One who writes a bank draft, check/cheque, or promissory note.**
-- **A barman; a person who draws the beer from the taps.**
+- **[[a/_agent|Agent]] noun of [[d/_draw|draw]]; one who [[d/_draws|draws]].**
+- **An [[a/_artist|artist]] who primarily makes [[d/_drawings|drawings]].**
+- **One who writes a [[b/_bank|bank]] [[d/_draft|draft]], [[c/_check|check]]/[[c/_cheque|cheque]], or promissory note.**
+- **A [[b/_barman|barman]]; a person who [[d/_draws|draws]] the [[b/_beer|beer]] from the taps.**
 - **Someone who taps palm sap for making toddy.**
 - **A wagoner or person who pushes underground tubs.**
 ---

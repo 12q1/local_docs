@@ -1,13 +1,13 @@
 # Elliptic
 ---
 #adjective
-- **Of or pertaining to an ellipse.**
-- **Of or pertaining to a broad field of mathematics that originates from the problem of calculating arc lengths of an ellipse.**
+- **Of or pertaining to an [[e/_ellipse|ellipse]].**
+- **Of or pertaining to a [[b/_broad|broad]] field of mathematics that originates from the problem of [[c/_calculating|calculating]] [[a/_arc|arc]] lengths of an [[e/_ellipse|ellipse]].**
 	- _Example: Elliptic curve_
-- **(in combination, of certain functions, equations and operators) That has coefficients satisfying a condition analogous to the condition for the general equation for a conic section to be of an ellipse.**
+- **(in [[c/_combination|combination]], of [[c/_certain|certain]] functions, [[e/_equations|equations]] and operators) That has [[c/_coefficients|coefficients]] satisfying a [[c/_condition|condition]] [[a/_analogous|analogous]] to the [[c/_condition|condition]] for the general [[e/_equation|equation]] for a [[c/_conic|conic]] section to be of an [[e/_ellipse|ellipse]].**
 	- _Example: Elliptic operator_
 - **(of leaves) Oval, with a short or no point.**
 ---
 ### Synonyms
-- [[[[e/_elliptical|elliptical]]]]
+- [[elliptical]]
 ---

@@ -1,6 +1,6 @@
 # Disaffect
 ---
 #verb
-- **To cause a loss of affection, sympathy or loyalty in; to alienate or estrange.**
+- **To [[c/_cause|cause]] a loss of [[a/_affection|affection]], sympathy or loyalty in; to [[a/_alienate|alienate]] or estrange.**
 ---
 ---

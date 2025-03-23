@@ -1,12 +1,12 @@
 # Elvan
 ---
 #noun
-- **The rock of an elvan vein, or the vein itself.**
+- **The rock of an [[e/_elvan|elvan]] vein, or the vein itself.**
 ---
 ### Synonyms
-- [[[[e/_elvanite|elvanite]]]]
+- [[elvanite]]
 #adjective
-- **Of or relating to certain veins of feldspathic or porphyritic rock crossing metalliferous veins in the mining districts of Cornwall.**
+- **Of or relating to [[c/_certain|certain]] veins of feldspathic or porphyritic rock [[c/_crossing|crossing]] metalliferous veins in the mining [[d/_districts|districts]] of [[c/_cornwall|Cornwall]].**
 	- _Example: an elvan course_
 ---
 ---

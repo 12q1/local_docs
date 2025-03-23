@@ -1,12 +1,12 @@
 # Dollop
 ---
 #noun
-- **A considerable lump, scoop, or quantity of something, especially soft food.**
+- **A [[c/_considerable|considerable]] lump, scoop, or quantity of something, especially soft food.**
 	- _Example: Each pancake comes with a dollop of suspiciously soft butter in a tiny plastic cup._
 ---
 #verb
-- **To apply haphazardly in generous lumps or scoops.**
+- **To [[a/_apply|apply]] haphazardly in generous lumps or scoops.**
 	- _Example: She dolloped a generous quantity of mustard on her hot dog._
-- **To dole out in a considerable quantity; to drip in a viscous form.**
+- **To [[d/_dole|dole]] out in a [[c/_considerable|considerable]] quantity; to [[d/_drip|drip]] in a viscous form.**
 ---
 ---

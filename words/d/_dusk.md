@@ -1,18 +1,18 @@
 # Dusk
 ---
 #noun
-- **A period of time at the end of day when the sun is below the horizon but before the full onset of night, especially the darker part of twilight.**
-- **A darkish colour.**
+- **A period of time at the [[e/_end|end]] of [[d/_day|day]] when the sun is [[b/_below|below]] the horizon but [[b/_before|before]] the full onset of night, especially the [[d/_darker|darker]] part of twilight.**
+- **A [[d/_darkish|darkish]] [[c/_colour|colour]].**
 ---
 ### Synonyms
 - [[evenfall]], [[nightfall]], [[smokefall]], [[vespers]]
 ### Antonyms
-- [[[[d/_dawn|dawn]]]], [[[[d/_daybreak|daybreak]]]]
+- [[dawn]], [[daybreak]]
 #verb
-- **To begin to lose light or whiteness; to grow dusk.**
-- **To make dusk.**
+- **To [[b/_begin|begin]] to lose light or whiteness; to grow [[d/_dusk|dusk]].**
+- **To make [[d/_dusk|dusk]].**
 ---
 #adjective
-- **Tending to darkness or blackness; moderately dark or black; dusky.**
+- **Tending to [[d/_darkness|darkness]] or [[b/_blackness|blackness]]; moderately [[d/_dark|dark]] or [[b/_black|black]]; [[d/_dusky|dusky]].**
 ---
 ---

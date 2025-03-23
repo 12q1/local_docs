@@ -1,9 +1,9 @@
 # Arsine
 ---
 #noun
-- **A compound of arsenic and hydrogen, AsH3, a colorless and exceedingly poisonous gas, having an odor like garlic.**
-- **Any organic derivative of this compound, or of diarsane, triarsane etc.**
+- **A [[c/_compound|compound]] of [[a/_arsenic|arsenic]] and hydrogen, AsH3, a [[c/_colorless|colorless]] and exceedingly poisonous gas, having an odor like garlic.**
+- **[[a/_any|Any]] organic [[d/_derivative|derivative]] of this [[c/_compound|compound]], or of diarsane, triarsane etc.**
 ---
 ### Synonyms
-- [[arsane]], [[[[a/_arsenic|arsenic]] trihydride]], [[[[a/_arseniuretted|arseniuretted]] hydrogen]], [[[[a/_arsenous|arsenous]] hydride]], [[hydrogen [[a/_arsenide|arsenide]]]]
+- [[arsane]], [[arsenic trihydride]], [[arseniuretted hydrogen]], [[arsenous hydride]], [[hydrogen arsenide]]
 ---

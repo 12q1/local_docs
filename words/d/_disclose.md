@@ -1,7 +1,7 @@
 # Disclose
 ---
 #noun
-- **A disclosure.**
+- **A [[d/_disclosure|disclosure]].**
 ---
 #verb
 - **To open up, unfasten.**
@@ -9,7 +9,7 @@
 - **To expose to the knowledge of others; to make known, state openly, reveal.**
 ---
 ### Synonyms
-- [[[[b/_bring|bring]] to light]], [[expose]], [[reveal]], [[impart]], [[make known]], [[publish]], [[[[d/_divulge|divulge]]]], [[impart]], [[publish]], [[reveal]], [[unveil]], [[reveal]], [[unveil]]
+- [[bring to light]], [[expose]], [[reveal]], [[impart]], [[make known]], [[publish]], [[divulge]], [[impart]], [[publish]], [[reveal]], [[unveil]], [[reveal]], [[unveil]]
 ### Antonyms
-- [[[[c/_cover|cover]] up]], [[withhold]]
+- [[cover up]], [[withhold]]
 ---

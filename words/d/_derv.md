@@ -1,6 +1,6 @@
 # Derv
 ---
 #noun
-- **Diesel fuel for motor vehicles.**
+- **[[d/_diesel|Diesel]] fuel for motor vehicles.**
 ---
 ---

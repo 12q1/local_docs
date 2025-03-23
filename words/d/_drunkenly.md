@@ -1,8 +1,8 @@
 # Drunkenly
 ---
 #adverb
-- **In a drunken manner**
+- **In a [[d/_drunken|drunken]] manner**
 ---
 ### Synonyms
-- [[[[b/_bibulously|bibulously]]]], [[intoxicatedly]], [[leglessly]], [[winefully]]
+- [[bibulously]], [[intoxicatedly]], [[leglessly]], [[winefully]]
 ---

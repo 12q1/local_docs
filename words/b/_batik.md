@@ -1,9 +1,9 @@
 # Batik
 ---
 #noun
-- **A wax-resist method of dyeing fabric.**
+- **A wax-resist method of [[d/_dyeing|dyeing]] fabric.**
 ---
 #verb
-- **To dye fabric using the wax-resist method.**
+- **To [[d/_dye|dye]] fabric using the wax-resist method.**
 ---
 ---

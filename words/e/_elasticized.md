@@ -1,6 +1,6 @@
 # Elasticized
 ---
 #verb
-- **To make (clothing, etc.) with elastic, by attaching elastic bands, so it can be adjusted while maintaining a snug fit.**
+- **To make ([[c/_clothing|clothing]], etc.) with [[e/_elastic|elastic]], by [[a/_attaching|attaching]] [[e/_elastic|elastic]] [[b/_bands|bands]], so it [[c/_can|can]] be [[a/_adjusted|adjusted]] while maintaining a snug fit.**
 ---
 ---

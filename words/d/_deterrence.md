@@ -1,10 +1,10 @@
 # Deterrence
 ---
 #noun
-- **The act of deterring, or the state of being deterred.**
-- **Action taken by states or alliances of nations against equally powerful alliances to prevent hostile action.**
-- **The art of producing in one's enemy the fear of attacking.**
+- **The [[a/_act|act]] of [[d/_deterring|deterring]], or the state of [[b/_being|being]] [[d/_deterred|deterred]].**
+- **[[a/_action|Action]] taken by states or [[a/_alliances|alliances]] of nations [[a/_against|against]] [[e/_equally|equally]] powerful [[a/_alliances|alliances]] to prevent hostile [[a/_action|action]].**
+- **The [[a/_art|art]] of producing in one's [[e/_enemy|enemy]] the fear of [[a/_attacking|attacking]].**
 ---
 ### Synonyms
-- [[[[d/_dissuasion|dissuasion]]]], [[intimidation]]
+- [[dissuasion]], [[intimidation]]
 ---

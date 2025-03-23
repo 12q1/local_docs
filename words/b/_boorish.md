@@ -1,7 +1,7 @@
 # Boorish
 ---
 #adjective
-- **Behaving as a boor; rough in manners.**
+- **[[b/_behaving|Behaving]] as a [[b/_boor|boor]]; rough in manners.**
 ---
 ### Synonyms
 - [[rude]], [[uncultured]]

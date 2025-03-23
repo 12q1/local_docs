@@ -1,11 +1,11 @@
 # Amphiprostyle
 ---
 #noun
-- **An amphiprostyle temple or edifice.**
+- **An [[a/_amphiprostyle|amphiprostyle]] temple or [[e/_edifice|edifice]].**
 ---
 #adjective
-- **(of a temple or edifice) Having columns at either end but not along the sides.**
+- **(of a temple or [[e/_edifice|edifice]]) Having [[c/_columns|columns]] at [[e/_either|either]] [[e/_end|end]] but not [[a/_along|along]] the sides.**
 ---
 ### Synonyms
-- [[[[a/_amphiprostylar|amphiprostylar]]]]
+- [[amphiprostylar]]
 ---

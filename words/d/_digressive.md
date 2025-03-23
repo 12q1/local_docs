@@ -1,6 +1,6 @@
 # Digressive
 ---
 #adjective
-- **Marked by digression; rambling**
+- **Marked by [[d/_digression|digression]]; rambling**
 ---
 ---

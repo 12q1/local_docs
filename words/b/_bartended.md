@@ -1,6 +1,6 @@
 # Bartended
 ---
 #verb
-- **To tend a bar; to act as a barman.**
+- **To tend a [[b/_bar|bar]]; to [[a/_act|act]] as a [[b/_barman|barman]].**
 ---
 ---

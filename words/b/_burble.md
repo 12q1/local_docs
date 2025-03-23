@@ -1,13 +1,13 @@
 # Burble
 ---
 #noun
-- **A bubbling, gurgling sound, as of a creek.**
+- **A [[b/_bubbling|bubbling]], gurgling sound, as of a [[c/_creek|creek]].**
 - **A gush of rapid speech.**
-- **The turbulent boundary layer about a moving streamlined body.**
+- **The turbulent [[b/_boundary|boundary]] layer [[a/_about|about]] a moving streamlined [[b/_body|body]].**
 ---
 #verb
-- **To bubble; to gurgle.**
-- **To babble; to speak in an excited rush.**
+- **To [[b/_bubble|bubble]]; to gurgle.**
+- **To [[b/_babble|babble]]; to speak in an excited rush.**
 	- _Example: She burbled on, as if I cared to listen._
 ---
 ---

@@ -1,6 +1,6 @@
 # Arrogantly
 ---
 #adverb
-- **In an arrogant manner; with undue pride or self-importance.**
+- **In an [[a/_arrogant|arrogant]] manner; with undue pride or self-importance.**
 ---
 ---

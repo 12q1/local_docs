@@ -1,6 +1,6 @@
 # Cotinga
 ---
 #noun
-- **Any of the neotropical passerine birds of the genus Cotinga**
+- **[[a/_any|Any]] of the neotropical passerine [[b/_birds|birds]] of the genus [[c/_cotinga|Cotinga]]**
 ---
 ---

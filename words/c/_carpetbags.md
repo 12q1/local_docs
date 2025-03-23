@@ -1,6 +1,6 @@
 # Carpetbags
 ---
 #noun
-- **A traveling bag made from scraps of carpet and used primarily in the United States in the 19th century.**
+- **A traveling [[b/_bag|bag]] made from scraps of [[c/_carpet|carpet]] and used primarily in the United States in the 19th [[c/_century|century]].**
 ---
 ---

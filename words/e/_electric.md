@@ -1,20 +1,20 @@
 # Electric
 ---
 #noun
-- **(usually with definite article) Electricity; the electricity supply.**
+- **(usually with [[d/_definite|definite]] [[a/_article|article]]) [[e/_electricity|Electricity]]; the [[e/_electricity|electricity]] supply.**
 	- _Example: We had to sit in the dark because the electric was cut off._
-- **An electric car.**
-- **An electric toothbrush.**
-- **A substance or object which can be electrified; an insulator or non-conductor, like amber or glass.**
-- **Fencing with the use of a body wire, box, and related equipment to detect when a weapon has touched an opponent.**
+- **An [[e/_electric|electric]] [[c/_car|car]].**
+- **An [[e/_electric|electric]] toothbrush.**
+- **A substance or object which [[c/_can|can]] be [[e/_electrified|electrified]]; an insulator or non-[[c/_conductor|conductor]], like [[a/_amber|amber]] or glass.**
+- **Fencing with the use of a [[b/_body|body]] wire, [[b/_box|box]], and related [[e/_equipment|equipment]] to [[d/_detect|detect]] when a weapon has touched an opponent.**
 ---
 ### Antonyms
 - [[steam]]
 #adjective
-- **Of, relating to, produced by, operated with, or utilising electricity; electrical.**
-- **Of or relating to an electronic version of a musical instrument that has an acoustic equivalent.**
-- **Being emotionally thrilling; electrifying.**
+- **Of, relating to, produced by, operated with, or utilising [[e/_electricity|electricity]]; [[e/_electrical|electrical]].**
+- **Of or relating to an [[e/_electronic|electronic]] version of a musical instrument that has an [[a/_acoustic|acoustic]] equivalent.**
+- **[[b/_being|Being]] [[e/_emotionally|emotionally]] thrilling; [[e/_electrifying|electrifying]].**
 ---
 ### Synonyms
-- [[[[e/_electrical|electrical]]]]
+- [[electrical]]
 ---

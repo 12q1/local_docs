@@ -5,24 +5,24 @@
 	- _Example: My head was banging after drinking all night at the concert._
 - **To hit hard.**
 	- _Example: David and Mary banged into each other._
-- **To engage in sexual intercourse.**
+- **To [[e/_engage|engage]] in sexual intercourse.**
 	- _Example: We can hear the couple banging upstairs._
-- **(with "in") To hammer or to hit anything hard.**
+- **(with "in") To hammer or to hit [[a/_anything|anything]] hard.**
 	- _Example: Hold the picture while I bang in this nail._
-- **To cut squarely across, as the tail of a horse, or a person's forelock; to cut (the hair).**
+- **To [[c/_cut|cut]] squarely [[a/_across|across]], as the tail of a horse, or a person's forelock; to [[c/_cut|cut]] (the hair).**
 - **To inject intravenously.**
 	- _Example: Do you smoke meth? No, I bang it._
 ---
 ### Synonyms
-- [[[[d/_do|do]] it]], [[have sex]], [[nail]]
+- [[do it]], [[have sex]], [[nail]]
 #noun
-- **The action of the verb to bang.**
+- **The [[a/_action|action]] of the verb to [[b/_bang|bang]].**
 	- _Example: Strange bangings in the old house were ascribed to a poltergeist._
 ---
 #adjective
-- **Excellent, brilliant, very exciting, top, great.**
+- **Excellent, [[b/_brilliant|brilliant]], very exciting, top, great.**
 	- _Example: Wow, what a banging haircut! It looks terrific!_
-- **Attractive; sexually appealing.**
+- **[[a/_attractive|Attractive]]; sexually [[a/_appealing|appealing]].**
 - **Huge; great in size.**
 ---
 ---

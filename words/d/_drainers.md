@@ -1,10 +1,10 @@
 # Drainers
 ---
 #noun
-- **That which drains.**
-- **A frame or rack for allowing washed crockery etc to dry naturally.**
-- **A person who explores drains, tunnels, or sewers.**
+- **That which [[d/_drains|drains]].**
+- **A frame or rack for [[a/_allowing|allowing]] washed [[c/_crockery|crockery]] etc to [[d/_dry|dry]] naturally.**
+- **A person who explores [[d/_drains|drains]], tunnels, or sewers.**
 ---
 ### Synonyms
-- [[[[d/_draining|draining]] [[b/_board|board]]]]
+- [[draining board]]
 ---

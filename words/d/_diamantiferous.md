@@ -1,8 +1,8 @@
 # Diamantiferous
 ---
 #adjective
-- **Yielding diamonds.**
+- **Yielding [[d/_diamonds|diamonds]].**
 ---
 ### Synonyms
-- [[[[d/_diamondiferous|diamondiferous]]]]
+- [[diamondiferous]]
 ---

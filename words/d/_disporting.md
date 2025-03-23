@@ -1,11 +1,11 @@
 # Disporting
 ---
 #verb
-- **To amuse oneself divertingly or playfully; in particular, to cavort or gambol.**
+- **To [[a/_amuse|amuse]] oneself [[d/_divertingly|divertingly]] or playfully; in particular, to [[c/_cavort|cavort]] or gambol.**
 ---
 ### Synonyms
-- [[[[c/_cheer|cheer]]]], [[[[d/_divert|divert]]]], [[[[e/_enjoy|enjoy]]]], [[frolic]]
+- [[cheer]], [[divert]], [[enjoy]], [[frolic]]
 #noun
-- **The act of one who disports.**
+- **The [[a/_act|act]] of one who [[d/_disports|disports]].**
 ---
 ---

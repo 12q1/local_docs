@@ -1,6 +1,6 @@
 # Deceptions
 ---
 #noun
-- **An instance of actions and/or schemes fabricated to mislead someone into believing a lie or inaccuracy.**
+- **An instance of [[a/_actions|actions]] and/or schemes fabricated to mislead someone into [[b/_believing|believing]] a lie or inaccuracy.**
 ---
 ---

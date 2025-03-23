@@ -1,7 +1,7 @@
 # Disfranchisement
 ---
 #noun
-- **The act of disfranchising.**
-- **The deprivation of the privileges and immunities of citizenship.**
+- **The [[a/_act|act]] of [[d/_disfranchising|disfranchising]].**
+- **The [[d/_deprivation|deprivation]] of the privileges and immunities of [[c/_citizenship|citizenship]].**
 ---
 ---

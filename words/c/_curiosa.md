@@ -1,6 +1,6 @@
 # Curiosa
 ---
 #noun
-- **Curiosities, especially erotic or pornographic books or articles.**
+- **[[c/_curiosities|Curiosities]], especially erotic or pornographic [[b/_books|books]] or [[a/_articles|articles]].**
 ---
 ---

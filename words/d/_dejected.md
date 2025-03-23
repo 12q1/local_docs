@@ -1,14 +1,14 @@
 # Dejected
 ---
 #verb
-- **Make sad or dispirited.**
-- **To cast down.**
+- **Make sad or [[d/_dispirited|dispirited]].**
+- **To [[c/_cast|cast]] [[d/_down|down]].**
 ---
 #adjective
-- **Sad and dispirited.**
+- **Sad and [[d/_dispirited|dispirited]].**
 ---
 ### Synonyms
-- [[[[d/_despondent|despondent]]]], [[[[d/_disheartened|disheartened]]]], [[[[d/_down|down]] in the mouth]]
+- [[despondent]], [[disheartened]], [[down in the mouth]]
 ### Antonyms
 - [[hopeful]]
 ---

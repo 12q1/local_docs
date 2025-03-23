@@ -1,6 +1,6 @@
 # Devalorize
 ---
 #verb
-- **To devalue.**
+- **To [[d/_devalue|devalue]].**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A member of the family Psychidae of the Lepidoptera.**
-- **Eastern tent caterpillar.**
+- **[[e/_eastern|Eastern]] tent [[c/_caterpillar|caterpillar]].**
 - **Fall webworm.**
 ---
 ---

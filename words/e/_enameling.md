@@ -1,13 +1,13 @@
 # Enameling
 ---
 #verb
-- **To coat or decorate with enamel.**
-- **To variegate with colours, as if with enamel.**
-- **To form a glossy surface like enamel upon.**
+- **To [[c/_coat|coat]] or [[d/_decorate|decorate]] with [[e/_enamel|enamel]].**
+- **To variegate with [[c/_colours|colours]], as if with [[e/_enamel|enamel]].**
+- **To form a glossy surface like [[e/_enamel|enamel]] upon.**
 	- _Example: to enamel card paper; to enamel leather or cloth_
-- **To disguise with cosmetics, as a woman's complexion.**
+- **To [[d/_disguise|disguise]] with [[c/_cosmetics|cosmetics]], as a woman's [[c/_complexion|complexion]].**
 ---
 #noun
-- **The art of applying enamel**
+- **The [[a/_art|art]] of [[a/_applying|applying]] [[e/_enamel|enamel]]**
 ---
 ---

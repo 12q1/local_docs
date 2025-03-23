@@ -1,13 +1,13 @@
 # Direst
 ---
 #adjective
-- **Warning of bad consequences: ill-boding; portentous.**
+- **Warning of [[b/_bad|bad]] [[c/_consequences|consequences]]: ill-[[b/_boding|boding]]; portentous.**
 	- _Example: dire omens_
-- **Requiring action to prevent bad consequences: urgent, pressing.**
+- **Requiring [[a/_action|action]] to prevent [[b/_bad|bad]] [[c/_consequences|consequences]]: urgent, pressing.**
 	- _Example: dire need_
-- **Expressing bad consequences: dreadful; dismal**
+- **Expressing [[b/_bad|bad]] [[c/_consequences|consequences]]: [[d/_dreadful|dreadful]]; [[d/_dismal|dismal]]**
 	- _Example: dire consequences;  to be in dire straits_
-- **Bad in quality, awful, terrible.**
+- **[[b/_bad|Bad]] in quality, [[a/_awful|awful]], terrible.**
 ---
 ### Synonyms
 - [[horrible]], [[lamentable]], [[terrible]]

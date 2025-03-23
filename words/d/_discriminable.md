@@ -1,6 +1,6 @@
 # Discriminable
 ---
 #adjective
-- **That can be discriminated or distinguished from others**
+- **That [[c/_can|can]] be [[d/_discriminated|discriminated]] or [[d/_distinguished|distinguished]] from others**
 ---
 ---

@@ -1,7 +1,7 @@
 # Dishier
 ---
 #adjective
-- **Attractive; good-looking; sexy.**
+- **[[a/_attractive|Attractive]]; good-looking; sexy.**
 - **Tending to relay information and gossip.**
 ---
 ---

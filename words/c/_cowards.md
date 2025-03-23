@@ -1,8 +1,8 @@
 # Cowards
 ---
 #noun
-- **A person who lacks courage.**
+- **A person who lacks [[c/_courage|courage]].**
 ---
 ### Synonyms
-- [[[[c/_chicken|chicken]]]], [[scaredy pants]], [[yellowbelly]]
+- [[chicken]], [[scaredy pants]], [[yellowbelly]]
 ---

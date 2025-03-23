@@ -1,6 +1,6 @@
 # Arteriosclerosis
 ---
 #noun
-- **Hardening, narrowing or loss of elasticity in arteries or blood vessels.**
+- **Hardening, narrowing or loss of [[e/_elasticity|elasticity]] in [[a/_arteries|arteries]] or [[b/_blood|blood]] vessels.**
 ---
 ---

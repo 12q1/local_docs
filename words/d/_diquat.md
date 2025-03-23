@@ -1,6 +1,6 @@
 # Diquat
 ---
 #noun
-- **A contact herbicide that produces desiccation and defoliation.**
+- **A [[c/_contact|contact]] herbicide that produces [[d/_desiccation|desiccation]] and [[d/_defoliation|defoliation]].**
 ---
 ---

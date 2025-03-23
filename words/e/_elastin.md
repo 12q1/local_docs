@@ -1,6 +1,6 @@
 # Elastin
 ---
 #noun
-- **A protein, similar to collagen, found in connective tissue, that has elastic properties.**
+- **A protein, similar to [[c/_collagen|collagen]], found in [[c/_connective|connective]] tissue, that has [[e/_elastic|elastic]] properties.**
 ---
 ---

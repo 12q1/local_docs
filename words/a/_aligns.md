@@ -2,11 +2,11 @@
 ---
 #verb
 - **To form a line; to fall into line.**
-- **To adjust or form to a line; to range or form in line; to bring into line.**
-- **To store (data) in a way that is consistent with the memory architecture, i.e. by beginning each item at an offset equal to some multiple of the word size.**
-- **To identify with or match the behaviour, thoughts, etc of another person.**
-- **To organize a linear arrangement of DNA, RNA or protein sequences which have regions of similarity.**
+- **To [[a/_adjust|adjust]] or form to a line; to range or form in line; to [[b/_bring|bring]] into line.**
+- **To store ([[d/_data|data]]) in a way that is [[c/_consistent|consistent]] with the memory [[a/_architecture|architecture]], i.[[e/_e|e]]. by [[b/_beginning|beginning]] [[e/_each|each]] item at an offset [[e/_equal|equal]] to some multiple of the word size.**
+- **To identify with or match the [[b/_behaviour|behaviour]], thoughts, etc of [[a/_another|another]] person.**
+- **To organize a linear [[a/_arrangement|arrangement]] of DNA, RNA or protein sequences which have regions of similarity.**
 ---
 ### Synonyms
-- [[[[c/_coordinate|coordinate]]]], [[synchronize]]
+- [[coordinate]], [[synchronize]]
 ---

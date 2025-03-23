@@ -1,11 +1,11 @@
 # Buzzsaw
 ---
 #noun
-- **A circular saw.**
+- **A [[c/_circular|circular]] saw.**
 ---
 #verb
-- **To cut with a circular saw.**
-- **To spin rapidly like the blades of a circular saw.**
-- **To produce a loud, harsh noise like that of a circular saw.**
+- **To [[c/_cut|cut]] with a [[c/_circular|circular]] saw.**
+- **To spin rapidly like the [[b/_blades|blades]] of a [[c/_circular|circular]] saw.**
+- **To produce a loud, harsh noise like that of a [[c/_circular|circular]] saw.**
 ---
 ---

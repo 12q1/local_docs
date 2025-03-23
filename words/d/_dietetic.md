@@ -1,7 +1,7 @@
 # Dietetic
 ---
 #adjective
-- **Relating to diet.**
-- **Relating to preparation for those on a restricted diet.**
+- **Relating to [[d/_diet|diet]].**
+- **Relating to preparation for those on a restricted [[d/_diet|diet]].**
 ---
 ---

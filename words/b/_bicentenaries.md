@@ -1,6 +1,6 @@
 # Bicentenaries
 ---
 #noun
-- **A 200th anniversary**
+- **A 200th [[a/_anniversary|anniversary]]**
 ---
 ---

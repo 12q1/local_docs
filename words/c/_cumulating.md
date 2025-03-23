@@ -1,9 +1,9 @@
 # Cumulating
 ---
 #verb
-- **To accumulate; to amass.**
-- **To be accumulated.**
+- **To [[a/_accumulate|accumulate]]; to [[a/_amass|amass]].**
+- **To be [[a/_accumulated|accumulated]].**
 ---
 ### Synonyms
-- [[[[a/_amass|amass]]]], [[heap up]]
+- [[amass]], [[heap up]]
 ---

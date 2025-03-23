@@ -1,6 +1,6 @@
 # Andalusite
 ---
 #noun
-- **An aluminium nesosilicate mineral, Al2SiO5.**
+- **An [[a/_aluminium|aluminium]] nesosilicate mineral, Al2SiO5.**
 ---
 ---

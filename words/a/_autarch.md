@@ -1,6 +1,6 @@
 # Autarch
 ---
 #noun
-- **A despotic ruler**
+- **A [[d/_despotic|despotic]] ruler**
 ---
 ---

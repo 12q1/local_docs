@@ -1,10 +1,10 @@
 # Breakup
 ---
 #noun
-- **The act of breaking up; disintegration or division.**
+- **The [[a/_act|act]] of [[b/_breaking|breaking]] up; [[d/_disintegration|disintegration]] or [[d/_division|division]].**
 - **The termination of a friendship, or a romantic relationship.**
-- **A loss of emotional control; a breakdown.**
-- **(Alaska and northern Canada) The time of year during which winter ice covering bodies of water disintegrates, or more generally Spring.**
+- **A loss of [[e/_emotional|emotional]] [[c/_control|control]]; a [[b/_breakdown|breakdown]].**
+- **([[a/_alaska|Alaska]] and northern [[c/_canada|Canada]]) The time of year [[d/_during|during]] which winter ice [[c/_covering|covering]] [[b/_bodies|bodies]] of water [[d/_disintegrates|disintegrates]], or more generally Spring.**
 ---
 ### Synonyms
 - [[rupture]], [[split]], [[falling out]]

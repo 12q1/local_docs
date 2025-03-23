@@ -1,6 +1,6 @@
 # Appropriateness
 ---
 #noun
-- **The quality or condition of being appropriate**
+- **The quality or [[c/_condition|condition]] of [[b/_being|being]] [[a/_appropriate|appropriate]]**
 ---
 ---

@@ -1,12 +1,12 @@
 # Disengaged
 ---
 #verb
-- **To release or loosen from something that binds, entangles, holds, or interlocks.**
+- **To release or loosen from something that [[b/_binds|binds]], [[e/_entangles|entangles]], holds, or interlocks.**
 ---
 ### Synonyms
-- [[[[d/_detach|detach]]]], [[[[d/_disentangle|disentangle]]]], [[free]], [[unfasten]]
+- [[detach]], [[disentangle]], [[free]], [[unfasten]]
 #adjective
-- **Unconnected; detached.**
-- **Not (socially) engaged; available, free.**
+- **Unconnected; [[d/_detached|detached]].**
+- **Not (socially) [[e/_engaged|engaged]]; [[a/_available|available]], free.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Cinque
 ---
 #noun
-- **A card, die, or domino with five spots or pips.**
+- **A [[c/_card|card]], [[d/_die|die]], or [[d/_domino|domino]] with five spots or pips.**
 ---
 ---

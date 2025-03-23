@@ -1,6 +1,6 @@
 # Consecutively
 ---
 #adverb
-- **In a consecutive manner; without interruption.**
+- **In a [[c/_consecutive|consecutive]] manner; without interruption.**
 ---
 ---

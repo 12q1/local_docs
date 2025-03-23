@@ -1,6 +1,6 @@
 # Bari
 ---
 #noun
-- **A baritone saxophone**
+- **A [[b/_baritone|baritone]] saxophone**
 ---
 ---

@@ -1,6 +1,6 @@
 # Densimeter
 ---
 #noun
-- **A densitometer.**
+- **A [[d/_densitometer|densitometer]].**
 ---
 ---

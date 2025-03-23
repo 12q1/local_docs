@@ -4,5 +4,5 @@
 - **Gallstones**
 ---
 ### Synonyms
-- [[[[b/_biliary|biliary]]]], [[lithiasis]], [[gallstones]]
+- [[biliary]], [[lithiasis]], [[gallstones]]
 ---

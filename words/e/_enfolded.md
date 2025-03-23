@@ -1,7 +1,7 @@
 # Enfolded
 ---
 #verb
-- **To fold something around; to envelop**
-- **To embrace**
+- **To fold something [[a/_around|around]]; to [[e/_envelop|envelop]]**
+- **To [[e/_embrace|embrace]]**
 ---
 ---

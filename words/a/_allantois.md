@@ -1,8 +1,8 @@
 # Allantois
 ---
 #noun
-- **A sac, having a number of functions, that develops in the alimentary canal of the embryos of mammals, birds and reptiles.**
+- **A sac, having a number of functions, that [[d/_develops|develops]] in the [[a/_alimentary|alimentary]] [[c/_canal|canal]] of the [[e/_embryos|embryos]] of mammals, [[b/_birds|birds]] and reptiles.**
 ---
 ### Synonyms
-- [[[[a/_allantoic|allantoic]] sac]], [[[[a/_allantoid|allantoid]]]]
+- [[allantoic sac]], [[allantoid]]
 ---

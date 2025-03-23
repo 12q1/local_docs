@@ -1,16 +1,16 @@
 # Blazon
 ---
 #noun
-- **A verbal or written description of a coat of arms.**
-- **A formalized language for describing a coat of arms.**
-- **A coat of arms or a banner depicting a coat of arms.**
-- **Ostentatious display, verbal or otherwise; publication; description; record.**
+- **A verbal or written [[d/_description|description]] of a [[c/_coat|coat]] of [[a/_arms|arms]].**
+- **A formalized language for [[d/_describing|describing]] a [[c/_coat|coat]] of [[a/_arms|arms]].**
+- **A [[c/_coat|coat]] of [[a/_arms|arms]] or a [[b/_banner|banner]] [[d/_depicting|depicting]] a [[c/_coat|coat]] of [[a/_arms|arms]].**
+- **Ostentatious [[d/_display|display]], verbal or otherwise; publication; [[d/_description|description]]; record.**
 ---
 #verb
-- **To describe a coat of arms.**
+- **To [[d/_describe|describe]] a [[c/_coat|coat]] of [[a/_arms|arms]].**
 - **To make widely or generally known, to proclaim.**
-- **To display conspicuously or publicly.**
-- **To shine; to be conspicuous.**
-- **To deck; to embellish; to adorn.**
+- **To [[d/_display|display]] [[c/_conspicuously|conspicuously]] or publicly.**
+- **To shine; to be [[c/_conspicuous|conspicuous]].**
+- **To [[d/_deck|deck]]; to [[e/_embellish|embellish]]; to [[a/_adorn|adorn]].**
 ---
 ---

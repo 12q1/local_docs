@@ -1,13 +1,13 @@
 # Edgewise
 ---
 #adjective
-- **Edgeways.**
+- **[[e/_edgeways|Edgeways]].**
 ---
 #adverb
-- **Edgeways.**
-- **As if by an edge.**
+- **[[e/_edgeways|Edgeways]].**
+- **As if by an [[e/_edge|edge]].**
 	- _Example: Once his boss got started, Jim just couldn’t get a word in edgewise._
 ---
 ### Synonyms
-- [[[[e/_edgeways|edgeways]]]]
+- [[edgeways]]
 ---

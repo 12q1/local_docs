@@ -1,6 +1,6 @@
 # Caudices
 ---
 #noun
-- **An enlargement of the stem, branch or root of a woody plant, usually serving to store water.**
+- **An [[e/_enlargement|enlargement]] of the stem, [[b/_branch|branch]] or root of a woody plant, usually serving to store water.**
 ---
 ---

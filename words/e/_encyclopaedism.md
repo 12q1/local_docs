@@ -1,6 +1,6 @@
 # Encyclopaedism
 ---
 #noun
-- **Encyclopedic knowledge or learning.**
+- **[[e/_encyclopedic|Encyclopedic]] knowledge or learning.**
 ---
 ---

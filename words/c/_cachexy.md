@@ -1,6 +1,6 @@
 # Cachexy
 ---
 #noun
-- **Cachexia.**
+- **[[c/_cachexia|Cachexia]].**
 ---
 ---

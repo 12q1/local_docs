@@ -1,16 +1,16 @@
 # Deviates
 ---
 #noun
-- **A person with deviant behaviour; a deviant, degenerate or pervert.**
-- **A value equal to the difference between a measured variable factor and a fixed or algorithmic reference value.**
+- **A person with [[d/_deviant|deviant]] [[b/_behaviour|behaviour]]; a [[d/_deviant|deviant]], [[d/_degenerate|degenerate]] or pervert.**
+- **A value [[e/_equal|equal]] to the [[d/_difference|difference]] [[b/_between|between]] a measured variable factor and a fixed or [[a/_algorithmic|algorithmic]] reference value.**
 ---
 ### Synonyms
-- [[[[d/_degenerate|degenerate]]]], [[[[d/_deviant|deviant]]]], [[pervert]]
+- [[degenerate]], [[deviant]], [[pervert]]
 #verb
-- **To go off course from; to change course; to change plans.**
+- **To go off [[c/_course|course]] from; to [[c/_change|change]] [[c/_course|course]]; to [[c/_change|change]] plans.**
 - **To fall outside of, or part from, some norm; to stray.**
 	- _Example: His exhibition of nude paintings deviated from the norm._
-- **To cause to diverge.**
+- **To [[c/_cause|cause]] to [[d/_diverge|diverge]].**
 ---
 ### Synonyms
 - [[swerve]], [[veer]], [[stray]], [[wander]]

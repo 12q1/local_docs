@@ -4,8 +4,8 @@
 - **A Rastafarian person.**
 ---
 #noun
-- **Dreadlocks**
+- **[[d/_dreadlocks|Dreadlocks]]**
 ---
 ### Synonyms
-- [[[[d/_dreadlocks|dreadlocks]]]], [[locks]]
+- [[dreadlocks]], [[locks]]
 ---

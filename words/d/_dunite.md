@@ -1,6 +1,6 @@
 # Dunite
 ---
 #noun
-- **A type of igneous rock with a coarse-grained or phaneritic texture.**
+- **A type of igneous rock with a [[c/_coarse|coarse]]-grained or phaneritic texture.**
 ---
 ---

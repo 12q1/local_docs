@@ -1,9 +1,9 @@
 # Earthwards
 ---
 #adjective
-- **Towards the earth; earthward.**
+- **Towards the [[e/_earth|earth]]; [[e/_earthward|earthward]].**
 ---
 #adverb
-- **Towards the earth; earthward.**
+- **Towards the [[e/_earth|earth]]; [[e/_earthward|earthward]].**
 ---
 ---

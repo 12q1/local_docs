@@ -1,85 +1,85 @@
 # Drops
 ---
 #noun
-- **A small quantity of liquid, just large enough to hold its own round shape via surface tension, especially one that falls from a source of liquid.**
+- **A small quantity of liquid, just large [[e/_enough|enough]] to hold its own round shape via surface tension, especially one that falls from a source of liquid.**
 	- _Example: Put three drops of oil into the mixture._
-- **A very small quantity of liquid, or (by extension) of anything.**
+- **A very small quantity of liquid, or (by extension) of [[a/_anything|anything]].**
 	- _Example: asked for just a drop more tea; she was thirsty and there wasn't a drop of water to be found_
-- **(now especially with "the") Alcoholic spirits in general.**
+- **(now especially with "the") [[a/_alcoholic|Alcoholic]] spirits in general.**
 	- _Example: It doesn't matter where you're from; anyone who enjoys the drop is a friend of mine._
-- **That which resembles or hangs like a liquid globule: a hanging diamond ornament or earring, a glass pendant on a chandelier, etc.**
-- **A thing which drops or hangs down:**
-- **A fall, descent; an act or instance of dropping.**
+- **That which resembles or hangs like a liquid globule: a hanging [[d/_diamond|diamond]] ornament or [[e/_earring|earring]], a glass pendant on a [[c/_chandelier|chandelier]], etc.**
+- **A thing which [[d/_drops|drops]] or hangs [[d/_down|down]]:**
+- **A fall, [[d/_descent|descent]]; an [[a/_act|act]] or instance of [[d/_dropping|dropping]].**
 	- _Example: That was a long drop, but fortunately I didn't break any bones._
 - **A release (of music, a vdeo game, etc).**
-- **A decline in quantity, quality, rate, or degree; a decline (when going from one value to another).**
+- **A [[d/_decline|decline]] in quantity, quality, rate, or [[d/_degree|degree]]; a [[d/_decline|decline]] (when going from one value to [[a/_another|another]]).**
 	- _Example: a drop in demand for oil resulted in a drop in prices_
-- **A thing, person, etc which is dropped:**
-- **An unsolicited credit card issue.**
-- **The amount of money that a gambler exchanges for chips in a casino.**
-- **The distance below a cliff or other high position into which someone or something could fall; the distance to which someone or something drops; a steep slope.**
+- **A thing, person, etc which is [[d/_dropped|dropped]]:**
+- **An unsolicited [[c/_credit|credit]] [[c/_card|card]] issue.**
+- **The [[a/_amount|amount]] of money that a gambler exchanges for [[c/_chips|chips]] in a [[c/_casino|casino]].**
+- **The [[d/_distance|distance]] [[b/_below|below]] a [[c/_cliff|cliff]] or other high position into which someone or something [[c/_could|could]] fall; the [[d/_distance|distance]] to which someone or something [[d/_drops|drops]]; a steep slope.**
 	- _Example: On one side of the road was a 50-foot drop._
-- **The vertical length of a hanging curtain.**
-- **The depth of a (square) sail (generally applied to the courses only); the vertical dimension of a sail.**
-- **The distance of the axis of a shaft below the base of a hanger.**
-- **A place where items or supplies may be left for others to collect, whether openly (as with a mail drop) or secretly or illegaly (as in espionage or crime); a drop-off point.**
+- **The vertical length of a hanging [[c/_curtain|curtain]].**
+- **The [[d/_depth|depth]] of a (square) sail (generally [[a/_applied|applied]] to the [[c/_courses|courses]] only); the vertical [[d/_dimension|dimension]] of a sail.**
+- **The [[d/_distance|distance]] of the [[a/_axis|axis]] of a shaft [[b/_below|below]] the [[b/_base|base]] of a hanger.**
+- **A place where items or supplies may be left for others to [[c/_collect|collect]], whether openly (as with a mail [[d/_drop|drop]]) or secretly or illegaly (as in espionage or [[c/_crime|crime]]); a [[d/_drop|drop]]-off point.**
 	- _Example: I left the plans at the drop, like you asked._
-- **A drop-back.**
+- **A [[d/_drop|drop]]-[[b/_back|back]].**
 	- _Example: The Tiger quarterback took a one-step drop, expecting his tight end to be open._
-- **(Rugby football) A drop-kick.**
-- **A drop target.**
+- **(Rugby football) A [[d/_drop|drop]]-kick.**
+- **A [[d/_drop|drop]] target.**
 ---
 #verb
-- **To fall in droplets (of a liquid).**
-- **To drip (a liquid).**
+- **To fall in [[d/_droplets|droplets]] (of a liquid).**
+- **To [[d/_drip|drip]] (a liquid).**
 	- _Example: The equipment shows how much the glacier has moved and the amount it dropped in height over the summer._
-- **Generally, to fall (straight down).**
+- **Generally, to fall (straight [[d/_down|down]]).**
 	- _Example: A single shot was fired and the bird dropped from the sky._
-- **To let fall; to allow to fall (either by releasing hold of, or losing one's grip on).**
+- **To let fall; to [[a/_allow|allow]] to fall ([[e/_either|either]] by releasing hold of, or losing one's grip on).**
 	- _Example: Don't drop that plate!   The police ordered the men to drop their weapons._
-- **To let drops fall; to discharge itself in drops.**
+- **To let [[d/_drops|drops]] fall; to [[d/_discharge|discharge]] itself in [[d/_drops|drops]].**
 - **To lower; to move to a lower position.**
-- **To set down from a vehicle; to deliver or deposit by stopping.**
+- **To set [[d/_down|down]] from a vehicle; to [[d/_deliver|deliver]] or [[d/_deposit|deposit]] by stopping.**
 	- _Example: Could you drop me at the airport on your way to work tomorrow?_
 - **To sink quickly to the ground.**
 	- _Example: Drop and give me thirty push-ups, private!_
-- **To fall dead, or to fall in death.**
-- **To come to an end (by not being kept up); to stop.**
-- **To mention casually or incidentally, usually in conversation.**
+- **To fall [[d/_dead|dead]], or to fall in [[d/_death|death]].**
+- **To [[c/_come|come]] to an [[e/_end|end]] (by not [[b/_being|being]] kept up); to stop.**
+- **To mention [[c/_casually|casually]] or incidentally, usually in [[c/_conversation|conversation]].**
 	- _Example: The moderator would drop hints whenever the students struggled._
 - **To part with or spend (money).**
-- **To cease concerning oneself over; to have nothing more to do with (a subject, discussion etc.).**
+- **To [[c/_cease|cease]] [[c/_concerning|concerning]] oneself over; to have nothing more to [[d/_do|do]] with (a subject, [[d/_discussion|discussion]] etc.).**
 	- _Example: I'm tired of this subject. Will you just drop it?_
-- **To lessen, decrease, or diminish in value, condition, degree, etc.**
+- **To lessen, [[d/_decrease|decrease]], or [[d/_diminish|diminish]] in value, [[c/_condition|condition]], [[d/_degree|degree]], etc.**
 	- _Example: The stock dropped 1.5% yesterday.   We can take our vacation when the price of fuel drops.   Watch for the temperature to drop sharply, then you'll know the reaction is complete._
 - **To let (a letter etc.) fall into a postbox; to send (a letter or message) in an offhand manner.**
 	- _Example: Drop me a note when you get to the city._
-- **To make (someone or something) fall to the ground from a blow, gunshot etc.; to bring down, to shoot down.**
+- **To make (someone or something) fall to the ground from a [[b/_blow|blow]], gunshot etc.; to [[b/_bring|bring]] [[d/_down|down]], to shoot [[d/_down|down]].**
 	- _Example: Make any sudden movements and I will drop you!_
 - **To fail to write, or (especially) to pronounce (a syllable, letter etc.).**
 	- _Example: Cockneys drop their aitches._
-- **(of a fielder) To fail to make a catch from a batted ball that would have led to the batsman being out.**
+- **(of a fielder) To fail to make a [[c/_catch|catch]] from a [[b/_batted|batted]] [[b/_ball|ball]] that would have led to the [[b/_batsman|batsman]] [[b/_being|being]] out.**
 	- _Example: Warne dropped Tendulkar on 99. Tendulkar went on to get a century next ball_
-- **To swallow (a drug), particularly LSD.**
+- **To swallow (a [[d/_drug|drug]]), particularly LSD.**
 	- _Example: They had never dropped acid._
-- **To dispose (of); get rid of; to remove; to lose.**
+- **To [[d/_dispose|dispose]] (of); get rid of; to remove; to lose.**
 	- _Example: I dropped ten pounds and an obnoxious fiancée._
-- **To eject; to dismiss; to cease to include, as if on a list.**
+- **To [[e/_eject|eject]]; to [[d/_dismiss|dismiss]]; to [[c/_cease|cease]] to include, as if on a list.**
 	- _Example: I've been dropped from the football team._
-- **To drop out of the betting.**
-- **(rugby football) To score (a goal) by means of a drop kick.**
+- **To [[d/_drop|drop]] out of the [[b/_betting|betting]].**
+- **(rugby football) To score (a goal) by means of a [[d/_drop|drop]] kick.**
 - **To impart.**
 	- _Example: I drop knowledge wherever I go._
 - **To release to the public.**
 	- _Example: That hacker has been threatening to drop my docs [i.e. publish my personal information]._
-- **To play a portion of music in the manner of a disc jockey.**
+- **To play a portion of music in the manner of a [[d/_disc|disc]] jockey.**
 	- _Example: I love it when he drops his funky beats._
-- **To enter public distribution.**
+- **To [[e/_enter|enter]] public [[d/_distribution|distribution]].**
 	- _Example: "Hip-Hop Xmas" dropped in time for the holidays._
 - **To tune (a guitar string, etc.) to a lower note.**
-- **To cancel or end a scheduled event, project or course.**
+- **To [[c/_cancel|cancel]] or [[e/_end|end]] a scheduled event, project or [[c/_course|course]].**
 	- _Example: I had to drop calculus because it was taking up too much of my time and I couldn't go anymore._
-- **(fast food) To cook, especially by deep-frying or grilling.**
+- **(fast food) To [[c/_cook|cook]], especially by [[d/_deep|deep]]-frying or grilling.**
 	- _Example: Drop a basket of fries._
 - **(of a voice) To lower in timbre, often relating to puberty.**
 	- _Example: Billy's voice dropped suddenly when he turned 12._
@@ -87,11 +87,11 @@
 	- _Example: My synthesizer makes the notes sound funny when they drop below C2._
 - **(of people) To visit informally; used with in or by.**
 	- _Example: Do drop by soon and I'll lend you that book._
-- **To give birth to.**
+- **To give [[b/_birth|birth]] to.**
 	- _Example: to drop a lamb_
-- **To cover with drops; to variegate; to bedrop.**
-- **(of the testicles) To hang lower and begin producing sperm due to puberty.**
+- **To [[c/_cover|cover]] with [[d/_drops|drops]]; to variegate; to [[b/_bedrop|bedrop]].**
+- **(of the testicles) To hang lower and [[b/_begin|begin]] producing sperm [[d/_due|due]] to puberty.**
 ---
 ### Synonyms
-- [[[[d/_drop|drop]] off]]
+- [[drop off]]
 ---

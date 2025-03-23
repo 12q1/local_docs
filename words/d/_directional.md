@@ -1,10 +1,10 @@
 # Directional
 ---
 #noun
-- **Something that indicates direction, such as a vehicle's turn signal.**
+- **Something that indicates [[d/_direction|direction]], such as a vehicle's turn signal.**
 ---
 #adjective
-- **Indicating direction.**
+- **Indicating [[d/_direction|direction]].**
 - **Of or relating to guidance or help.**
 ---
 ---

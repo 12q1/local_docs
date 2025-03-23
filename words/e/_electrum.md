@@ -1,8 +1,8 @@
 # Electrum
 ---
 #noun
-- **Amber.**
-- **An alloy of gold and silver, used by the ancients; now specifically a natural alloy with between 20 and 50 per cent silver.**
+- **[[a/_amber|Amber]].**
+- **An [[a/_alloy|alloy]] of gold and silver, used by the [[a/_ancients|ancients]]; now specifically a natural [[a/_alloy|alloy]] with [[b/_between|between]] 20 and 50 per [[c/_cent|cent]] silver.**
 - **German silver plate.**
 ---
 ---

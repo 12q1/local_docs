@@ -1,6 +1,6 @@
 # Beneficially
 ---
 #adverb
-- **In a beneficial manner**
+- **In a [[b/_beneficial|beneficial]] manner**
 ---
 ---

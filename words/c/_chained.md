@@ -1,18 +1,18 @@
 # Chained
 ---
 #verb
-- **To fasten something with a chain.**
+- **To fasten something with a [[c/_chain|chain]].**
 - **To link multiple items together.**
 - **To secure someone with fetters.**
-- **To obstruct the mouth of a river etc with a chain.**
+- **To obstruct the mouth of a river etc with a [[c/_chain|chain]].**
 - **To obligate.**
-- **To relate data items with a chain of pointers.**
-- **To be chained to another data item.**
-- **To measure a distance using a 66-foot long chain, as in land surveying.**
-- **(associated with Acorn Computers) To load and automatically run (a program).**
+- **To relate [[d/_data|data]] items with a [[c/_chain|chain]] of pointers.**
+- **To be [[c/_chained|chained]] to [[a/_another|another]] [[d/_data|data]] item.**
+- **To measure a [[d/_distance|distance]] using a 66-foot long [[c/_chain|chain]], as in land surveying.**
+- **([[a/_associated|associated]] with [[a/_acorn|Acorn]] [[c/_computers|Computers]]) To load and [[a/_automatically|automatically]] run (a program).**
 ---
 #adjective
-- **Bound with chains.**
-- **(of data items) Linked in a chain.**
+- **[[b/_bound|Bound]] with [[c/_chains|chains]].**
+- **(of [[d/_data|data]] items) Linked in a [[c/_chain|chain]].**
 ---
 ---

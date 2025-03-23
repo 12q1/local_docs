@@ -1,7 +1,7 @@
 # Cocooned
 ---
 #verb
-- **To envelop in a protective case**
-- **To withdraw into such a case.**
+- **To [[e/_envelop|envelop]] in a protective [[c/_case|case]]**
+- **To withdraw into such a [[c/_case|case]].**
 ---
 ---

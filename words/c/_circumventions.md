@@ -1,9 +1,9 @@
 # Circumventions
 ---
 #noun
-- **The act of evading by going around (bypassing).**
-- **The act of prevailing over another by fraud or deception**
+- **The [[a/_act|act]] of evading by going [[a/_around|around]] ([[b/_bypassing|bypassing]]).**
+- **The [[a/_act|act]] of prevailing over [[a/_another|another]] by fraud or [[d/_deception|deception]]**
 ---
 ### Synonyms
-- [[[[d/_deception|deception]]]], [[[[d/_delusion|delusion]]]], [[fraud]], [[imposture]]
+- [[deception]], [[delusion]], [[fraud]], [[imposture]]
 ---

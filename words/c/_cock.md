@@ -1,43 +1,43 @@
 # Cock
 ---
 #noun
-- **A male bird, especially:**
-- **A valve or tap for controlling flow in plumbing.**
+- **A male [[b/_bird|bird]], especially:**
+- **A valve or tap for [[c/_controlling|controlling]] flow in plumbing.**
 - **The hammer of a firearm trigger mechanism.**
-- **The notch of an arrow or crossbow.**
+- **The notch of an [[a/_arrow|arrow]] or [[c/_crossbow|crossbow]].**
 - **The penis.**
-- **The circle at the end of the rink.**
-- **The state of being cocked; an upward turn, tilt or angle.**
+- **The [[c/_circle|circle]] at the [[e/_end|end]] of the rink.**
+- **The state of [[b/_being|being]] [[c/_cocked|cocked]]; an upward turn, tilt or [[a/_angle|angle]].**
 - **A stupid person.**
 - **Nonsense; rubbish.**
-- **(Tasmania) Term of address.**
+- **(Tasmania) Term of [[a/_address|address]].**
 	- _Example: All right, cock?_
-- **A boastful tilt of one's head or hat.**
+- **A [[b/_boastful|boastful]] tilt of one's head or hat.**
 - **Shuttlecock**
-- **A vane in the shape of a cock; a weathercock.**
-- **A chief man; a leader or master.**
-- **The crow of a cock, especially the first crow in the morning; cockcrow.**
+- **A vane in the shape of a [[c/_cock|cock]]; a weathercock.**
+- **A [[c/_chief|chief]] man; a leader or master.**
+- **The [[c/_crow|crow]] of a [[c/_cock|cock]], especially the first [[c/_crow|crow]] in the morning; [[c/_cockcrow|cockcrow]].**
 - **A male fish, especially a salmon or trout.**
 - **The style or gnomon of a sundial.**
-- **The indicator of a balance.**
-- **The bridge piece that affords a bearing for the pivot of a balance in a clock or watch.**
+- **The indicator of a [[b/_balance|balance]].**
+- **The [[b/_bridge|bridge]] piece that [[a/_affords|affords]] a [[b/_bearing|bearing]] for the pivot of a [[b/_balance|balance]] in a [[c/_clock|clock]] or watch.**
 ---
 ### Synonyms
-- [[[[c/_cockbird|cockbird]]]], [[rooster]], [[stopcock]], [[cockfish]]
+- [[cockbird]], [[rooster]], [[stopcock]], [[cockfish]]
 #verb
-- **To lift the cock of a firearm or crossbow; to prepare (a gun or crossbow) to be fired.**
-- **To be prepared to be triggered by having the cock lifted.**
+- **To lift the [[c/_cock|cock]] of a firearm or [[c/_crossbow|crossbow]]; to prepare (a gun or [[c/_crossbow|crossbow]]) to be fired.**
+- **To be prepared to be triggered by having the [[c/_cock|cock]] lifted.**
 	- _Example: In the darkness, the gun cocked loudly._
 - **To erect; to turn up.**
-- **To copulate with.**
-- **To turn or twist something upwards or to one side; to lift or tilt (e.g. headwear) boastfully.**
+- **To [[c/_copulate|copulate]] with.**
+- **To turn or twist something upwards or to one side; to lift or tilt ([[e/_e|e]].g. headwear) [[b/_boastfully|boastfully]].**
 	- _Example: He cocked his hat jauntily._
-- **To turn (the eye) obliquely and partially close its lid, as an expression of derision or insinuation.**
-- **To strut; to swagger; to look big, pert, or menacing.**
-- **To make a nestle-cock of, to pamper or spoil (of children)**
+- **To turn (the [[e/_eye|eye]]) obliquely and partially [[c/_close|close]] its lid, as an expression of [[d/_derision|derision]] or insinuation.**
+- **To strut; to swagger; to look [[b/_big|big]], pert, or menacing.**
+- **To make a nestle-[[c/_cock|cock]] of, to pamper or spoil (of [[c/_children|children]])**
 ---
 #interjection
-- **Expression of annoyance.**
+- **Expression of [[a/_annoyance|annoyance]].**
 	- _Example: 2006, "Vamp", oh cock i should have kept with a toyota! (on newsgroup uk.rec.cars.modifications)_
 ---
 ---

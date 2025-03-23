@@ -1,9 +1,9 @@
 # Dupe
 ---
 #noun
-- **A person who has been deceived.**
+- **A person who has [[b/_been|been]] [[d/_deceived|deceived]].**
 ---
 #verb
-- **To swindle, deceive, or trick.**
+- **To swindle, [[d/_deceive|deceive]], or trick.**
 ---
 ---

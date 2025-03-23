@@ -1,20 +1,20 @@
 # Dime
 ---
 #noun
-- **A coin worth one-tenth of a U.S. dollar.**
-- **A coin worth one-tenth of a Canadian dollar.**
-- **A small amount of money**
+- **A [[c/_coin|coin]] worth one-tenth of a U.S. [[d/_dollar|dollar]].**
+- **A [[c/_coin|coin]] worth one-tenth of a [[c/_canadian|Canadian]] [[d/_dollar|dollar]].**
+- **A small [[a/_amount|amount]] of money**
 	- _Example: She didn't spend a dime._
-- **An assist**
-- **A playing card with the rank of ten**
-- **Ten dollars**
-- **A thousand dollars**
-- **A measurement of illicit drugs (usually marijuana) sold in ten dollar bags.**
+- **An [[a/_assist|assist]]**
+- **A playing [[c/_card|card]] with the rank of ten**
+- **Ten [[d/_dollars|dollars]]**
+- **A thousand [[d/_dollars|dollars]]**
+- **A measurement of illicit [[d/_drugs|drugs]] (usually marijuana) sold in ten [[d/_dollar|dollar]] [[b/_bags|bags]].**
 - **Payment responsibility**
 	- _Example: Are you traveling on the company's dime?_
-- **A beautiful woman (10 on a 10-point scale)**
-- **A defensive formation with six defensive backs, one of whom is a dimeback.**
+- **A [[b/_beautiful|beautiful]] woman (10 on a 10-point scale)**
+- **A [[d/_defensive|defensive]] formation with six [[d/_defensive|defensive]] [[b/_backs|backs]], one of whom is a dimeback.**
 ---
 ### Synonyms
-- [[ten [[c/_cent|cent]] piece]], [[grand]]
+- [[ten cent piece]], [[grand]]
 ---

@@ -1,9 +1,9 @@
 # Dockers
 ---
 #noun
-- **One who performs docking, as of tails.**
+- **One who performs [[d/_docking|docking]], as of tails.**
 ---
 #noun
-- **A dockworker.**
+- **A [[d/_dockworker|dockworker]].**
 ---
 ---

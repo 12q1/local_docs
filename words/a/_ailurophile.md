@@ -1,10 +1,10 @@
 # Ailurophile
 ---
 #noun
-- **A person with ailurophilia; a cat-lover.**
+- **A person with [[a/_ailurophilia|ailurophilia]]; a [[c/_cat|cat]]-lover.**
 ---
 ### Synonyms
 - [[cataholic]], [[catlover]], [[catophile]]
 ### Antonyms
-- [[[[a/_ailurophobe|ailurophobe]]]]
+- [[ailurophobe]]
 ---

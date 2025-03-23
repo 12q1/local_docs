@@ -1,8 +1,8 @@
 # Chlorines
 ---
 #noun
-- **A toxic, green, gaseous chemical element (symbol Cl) with an atomic number of 17.**
-- **A single atom of this element.**
+- **A toxic, green, gaseous [[c/_chemical|chemical]] [[e/_element|element]] (symbol [[c/_cl|Cl]]) with an [[a/_atomic|atomic]] number of 17.**
+- **A single [[a/_atom|atom]] of this [[e/_element|element]].**
 ---
 ### Synonyms
 - [[E925]]

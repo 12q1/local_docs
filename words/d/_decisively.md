@@ -1,6 +1,6 @@
 # Decisively
 ---
 #adverb
-- **In a decisive manner.**
+- **In a [[d/_decisive|decisive]] manner.**
 ---
 ---

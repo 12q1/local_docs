@@ -4,5 +4,5 @@
 - **Sexual intercourse.**
 ---
 ### Synonyms
-- [[[[c/_coitus|coitus]]]]
+- [[coitus]]
 ---

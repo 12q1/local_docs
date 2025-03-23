@@ -1,11 +1,11 @@
 # Apposite
 ---
 #noun
-- **That which is apposite; something suitable.**
+- **That which is [[a/_apposite|apposite]]; something suitable.**
 ---
 #adjective
-- **Strikingly appropriate or relevant; well suited to the circumstance or in relation to something.**
-- **Positioned at rest in respect to another, be it side-to-side, front-to-front, back-to-back, or even three-dimensionally: in apposition.**
+- **Strikingly [[a/_appropriate|appropriate]] or relevant; well suited to the [[c/_circumstance|circumstance]] or in relation to something.**
+- **Positioned at rest in respect to [[a/_another|another]], be it side-to-side, front-to-front, [[b/_back|back]]-to-[[b/_back|back]], or even three-[[d/_dimensionally|dimensionally]]: in [[a/_apposition|apposition]].**
 - **Related, homologous.**
 ---
 ### Synonyms

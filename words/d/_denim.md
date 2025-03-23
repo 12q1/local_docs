@@ -1,6 +1,6 @@
 # Denim
 ---
 #noun
-- **A textile often made of cotton with a distinct diagonal pattern.**
+- **A textile often made of [[c/_cotton|cotton]] with a [[d/_distinct|distinct]] [[d/_diagonal|diagonal]] pattern.**
 ---
 ---

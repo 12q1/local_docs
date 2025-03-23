@@ -1,8 +1,8 @@
 # Clayey
 ---
 #adjective
-- **Resembling or containing clay.**
+- **Resembling or [[c/_containing|containing]] [[c/_clay|clay]].**
 ---
 ### Synonyms
-- [[[[a/_argillaceous|argillaceous]]]], [[[[c/_clayish|clayish]]]]
+- [[argillaceous]], [[clayish]]
 ---

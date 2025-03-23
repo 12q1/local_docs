@@ -1,7 +1,7 @@
 # Arbalests
 ---
 #noun
-- **A crossbow.**
-- **A crossbowman.**
+- **A [[c/_crossbow|crossbow]].**
+- **A [[c/_crossbowman|crossbowman]].**
 ---
 ---

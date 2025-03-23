@@ -1,6 +1,6 @@
 # Bituminized
 ---
 #verb
-- **To treat with bitumen**
+- **To treat with [[b/_bitumen|bitumen]]**
 ---
 ---

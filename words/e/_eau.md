@@ -1,6 +1,6 @@
 # Eau
 ---
 #propernoun
-- **Misspelling of Eau**
+- **Misspelling of [[e/_eau|Eau]]**
 ---
 ---

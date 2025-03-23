@@ -1,8 +1,8 @@
 # Desecrations
 ---
 #noun
-- **An act of disrespect or impiety towards something considered sacred.**
+- **An [[a/_act|act]] of [[d/_disrespect|disrespect]] or impiety towards something [[c/_considered|considered]] sacred.**
 ---
 ### Synonyms
-- [[[[b/_blasphemy|blasphemy]]]], [[profanation]], [[sacrilege]]
+- [[blasphemy]], [[profanation]], [[sacrilege]]
 ---

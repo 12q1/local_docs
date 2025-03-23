@@ -1,10 +1,10 @@
 # Cookbook
 ---
 #noun
-- **A book or an encyclopedia of recipes and cookery tips.**
-- **(by extension) Any book of strategies.**
+- **A [[b/_book|book]] or an [[e/_encyclopedia|encyclopedia]] of recipes and [[c/_cookery|cookery]] tips.**
+- **(by extension) [[a/_any|Any]] [[b/_book|book]] of strategies.**
 	- _Example: The Anarchist's Cookbook_
 ---
 ### Synonyms
-- [[[[c/_cookery|cookery]] [[b/_book|book]]]], [[recipe [[b/_book|book]]]]
+- [[cookery book]], [[recipe book]]
 ---

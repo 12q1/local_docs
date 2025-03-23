@@ -1,64 +1,64 @@
 # Drags
 ---
 #noun
-- **Resistance of the air (or some other fluid) to something moving through it.**
+- **Resistance of the [[a/_air|air]] (or some other fluid) to something moving through it.**
 	- _Example: When designing cars, manufacturers have to take drag into consideration._
-- **(foundry) The bottom part of a sand casting mold.**
-- **A device dragged along the bottom of a body of water in search of something, e.g. a dead body, or in fishing.**
-- **A puff on a cigarette or joint.**
-- **Someone or something that is annoying or frustrating, or disappointing; an obstacle to progress or enjoyment.**
+- **(foundry) The [[b/_bottom|bottom]] part of a sand [[c/_casting|casting]] mold.**
+- **A [[d/_device|device]] [[d/_dragged|dragged]] [[a/_along|along]] the [[b/_bottom|bottom]] of a [[b/_body|body]] of water in search of something, [[e/_e|e]].g. a [[d/_dead|dead]] [[b/_body|body]], or in fishing.**
+- **A puff on a [[c/_cigarette|cigarette]] or joint.**
+- **Someone or something that is [[a/_annoying|annoying]] or frustrating, or [[d/_disappointing|disappointing]]; an obstacle to progress or [[e/_enjoyment|enjoyment]].**
 	- _Example: Travelling to work in the rush hour is a real drag._
-- **A long open horse-drawn carriage with transverse or side seats.**
-- **Street, as in 'main drag'.**
-- **The scent-path left by dragging a fox, or some other substance such as aniseed, for training hounds to follow scents.**
+- **A long open horse-[[d/_drawn|drawn]] [[c/_carriage|carriage]] with transverse or side seats.**
+- **Street, as in 'main [[d/_drag|drag]]'.**
+- **The scent-path left by [[d/_dragging|dragging]] a fox, or some other substance such as [[a/_aniseed|aniseed]], for training hounds to follow scents.**
 	- _Example: to run a drag_
-- **A large amount of backspin on the cue ball, causing the cue ball to slow down.**
-- **A heavy harrow for breaking up ground.**
-- **A kind of sledge for conveying heavy objects; also, a kind of low car or handcart.**
+- **A large [[a/_amount|amount]] of [[b/_backspin|backspin]] on the [[c/_cue|cue]] [[b/_ball|ball]], [[c/_causing|causing]] the [[c/_cue|cue]] [[b/_ball|ball]] to slow [[d/_down|down]].**
+- **A heavy harrow for [[b/_breaking|breaking]] up ground.**
+- **A kind of sledge for [[c/_conveying|conveying]] heavy objects; [[a/_also|also]], a kind of low [[c/_car|car]] or handcart.**
 	- _Example: a stone drag_
-- **The bottom part of a flask or mould, the upper part being the cope.**
-- **A steel instrument for completing the dressing of soft stone.**
-- **The difference between the speed of a screw steamer under sail and that of the screw when the ship outruns the screw; or between the propulsive effects of the different floats of a paddle wheel.**
-- **Anything towed in the water to retard a ship's progress, or to keep her head up to the wind; especially, a canvas bag with a hooped mouth (drag sail), so used.**
-- **A skid or shoe for retarding the motion of a carriage wheel.**
-- **Motion affected with slowness and difficulty, as if clogged.**
+- **The [[b/_bottom|bottom]] part of a flask or mould, the upper part [[b/_being|being]] the [[c/_cope|cope]].**
+- **A steel instrument for [[c/_completing|completing]] the [[d/_dressing|dressing]] of soft stone.**
+- **The [[d/_difference|difference]] [[b/_between|between]] the speed of a screw steamer under sail and that of the screw when the ship outruns the screw; or [[b/_between|between]] the propulsive [[e/_effects|effects]] of the [[d/_different|different]] floats of a paddle wheel.**
+- **[[a/_anything|Anything]] towed in the water to retard a ship's progress, or to keep her head up to the wind; especially, a [[c/_canvas|canvas]] [[b/_bag|bag]] with a hooped mouth ([[d/_drag|drag]] sail), so used.**
+- **A skid or shoe for retarding the motion of a [[c/_carriage|carriage]] wheel.**
+- **Motion [[a/_affected|affected]] with slowness and [[d/_difficulty|difficulty]], as if [[c/_clogged|clogged]].**
 - **Witch house music.**
 - **The last position in a line of hikers.**
-- **(aerodynamics) The act of suppressing wind flow to slow an aircraft in flight, as by use of flaps when landing.**
-- **A push somewhat under the centre of the cue ball, causing it to follow the object ball a short way.**
-- **A device for guiding wood to the saw.**
+- **([[a/_aerodynamics|aerodynamics]]) The [[a/_act|act]] of suppressing wind flow to slow an [[a/_aircraft|aircraft]] in flight, as by use of flaps when landing.**
+- **A push somewhat under the [[c/_centre|centre]] of the [[c/_cue|cue]] [[b/_ball|ball]], [[c/_causing|causing]] it to follow the object [[b/_ball|ball]] a short way.**
+- **A [[d/_device|device]] for guiding wood to the saw.**
 - **A mailcoach.**
 ---
 #verb
-- **To pull along a surface or through a medium, sometimes with difficulty.**
+- **To pull [[a/_along|along]] a surface or through a medium, sometimes with [[d/_difficulty|difficulty]].**
 	- _Example: Let's drag this load of wood over to the shed._
-- **To move onward heavily, laboriously, or slowly; to advance with weary effort; to go on lingeringly.**
+- **To move onward heavily, laboriously, or slowly; to [[a/_advance|advance]] with weary [[e/_effort|effort]]; to go on lingeringly.**
 	- _Example: Time seems to drag when you’re waiting for a bus._
-- **To act or proceed slowly or without enthusiasm; to be reluctant.**
-- **To draw along (something burdensome); hence, to pass in pain or with difficulty.**
-- **To serve as a clog or hindrance; to hold back.**
-- **To move (an item) on the computer display by means of a mouse or other input device.**
+- **To [[a/_act|act]] or proceed slowly or without [[e/_enthusiasm|enthusiasm]]; to be reluctant.**
+- **To [[d/_draw|draw]] [[a/_along|along]] (something [[b/_burdensome|burdensome]]); hence, to pass in pain or with [[d/_difficulty|difficulty]].**
+- **To serve as a [[c/_clog|clog]] or hindrance; to hold [[b/_back|back]].**
+- **To move (an item) on the [[c/_computer|computer]] [[d/_display|display]] by means of a mouse or other input [[d/_device|device]].**
 	- _Example: Drag the file into the window to open it._
-- **(chiefly of a vehicle) To unintentionally rub or scrape on a surface.**
+- **([[c/_chiefly|chiefly]] of a vehicle) To unintentionally rub or scrape on a surface.**
 	- _Example: The car was so low to the ground that its muffler was dragging on a speed bump._
 - **To hit or kick off target.**
-- **To fish with a dragnet.**
-- **To search for something, as a lost object or body, by dragging something along the bottom of a body of water.**
-- **To break (land) by drawing a drag or harrow over it; to harrow.**
-- **To search exhaustively, as if with a dragnet.**
-- **To roast, say negative things about, or call attention to the flaws of (someone).**
+- **To fish with a [[d/_dragnet|dragnet]].**
+- **To search for something, as a lost object or [[b/_body|body]], by [[d/_dragging|dragging]] something [[a/_along|along]] the [[b/_bottom|bottom]] of a [[b/_body|body]] of water.**
+- **To [[b/_break|break]] (land) by [[d/_drawing|drawing]] a [[d/_drag|drag]] or harrow over it; to harrow.**
+- **To search exhaustively, as if with a [[d/_dragnet|dragnet]].**
+- **To roast, say negative things [[a/_about|about]], or [[c/_call|call]] [[a/_attention|attention]] to the flaws of (someone).**
 	- _Example: You just drag him 'cause he's got more money than you._
 ---
 ### Synonyms
-- [[[[c/_criticize|criticize]]]], [[harrow]]
+- [[criticize]], [[harrow]]
 #noun
-- **Women's clothing worn by men for the purpose of entertainment.**
+- **Women's [[c/_clothing|clothing]] worn by men for the purpose of [[e/_entertainment|entertainment]].**
 	- _Example: He performed in drag._
-- **A men's party attended in women's clothing.**
-- **Any type of clothing or costume associated with a particular occupation or subculture.**
+- **A men's party [[a/_attended|attended]] in women's [[c/_clothing|clothing]].**
+- **[[a/_any|Any]] type of [[c/_clothing|clothing]] or [[c/_costume|costume]] [[a/_associated|associated]] with a particular occupation or subculture.**
 	- _Example: corporate drag_
 ---
 #verb
-- **To perform as a drag queen or drag king.**
+- **To perform as a [[d/_drag|drag]] queen or [[d/_drag|drag]] king.**
 ---
 ---

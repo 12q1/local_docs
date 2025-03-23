@@ -1,7 +1,7 @@
 # Disgustful
 ---
 #adjective
-- **Disgusting, vile.**
-- **Full of disgust.**
+- **[[d/_disgusting|Disgusting]], vile.**
+- **Full of [[d/_disgust|disgust]].**
 ---
 ---

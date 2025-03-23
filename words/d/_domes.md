@@ -1,13 +1,13 @@
 # Domes
 ---
 #noun
-- **A structural element resembling the hollow upper half of a sphere; a cupola**
-- **Anything shaped like an upset bowl, often used as a cover**
+- **A structural [[e/_element|element]] resembling the hollow upper half of a sphere; a [[c/_cupola|cupola]]**
+- **[[a/_anything|Anything]] shaped like an upset [[b/_bowl|bowl]], often used as a [[c/_cover|cover]]**
 	- _Example: a cake dome_
-- **Head (uppermost part of one's body)**
+- **Head (uppermost part of one's [[b/_body|body]])**
 - **Head, oral sex**
-- **A building; a house; an edifice**
-- **Any erection resembling the dome or cupola of a building, such as the upper part of a furnace, the vertical steam chamber on the top of a boiler, etc.**
-- **A prism formed by planes parallel to a lateral axis which meet above in a horizontal edge, like the roof of a house; also, one of the planes of such a form**
+- **A [[b/_building|building]]; a house; an [[e/_edifice|edifice]]**
+- **[[a/_any|Any]] erection resembling the [[d/_dome|dome]] or [[c/_cupola|cupola]] of a [[b/_building|building]], such as the upper part of a furnace, the vertical steam [[c/_chamber|chamber]] on the top of a [[b/_boiler|boiler]], etc.**
+- **A prism formed by planes parallel to a lateral [[a/_axis|axis]] which meet [[a/_above|above]] in a horizontal [[e/_edge|edge]], like the roof of a house; [[a/_also|also]], one of the planes of such a form**
 ---
 ---

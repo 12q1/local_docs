@@ -1,79 +1,79 @@
 # Drive
 ---
 #noun
-- **Motivation to do or achieve something; ability coupled with ambition.**
+- **Motivation to [[d/_do|do]] or [[a/_achieve|achieve]] something; [[a/_ability|ability]] [[c/_coupled|coupled]] with [[a/_ambition|ambition]].**
 	- _Example: Crassus had wealth and wit, but Pompey had drive and Caesar as much again._
-- **Violent or rapid motion; a rushing onward or away; especially, a forced or hurried dispatch of business.**
-- **An act of driving animals forward, as to be captured, hunted etc.**
-- **A sustained advance in the face of the enemy to take a strategic objective.**
+- **Violent or rapid motion; a rushing onward or [[a/_away|away]]; especially, a forced or hurried [[d/_dispatch|dispatch]] of [[b/_business|business]].**
+- **An [[a/_act|act]] of [[d/_driving|driving]] [[a/_animals|animals]] forward, as to be [[c/_captured|captured]], hunted etc.**
+- **A sustained [[a/_advance|advance]] in the face of the [[e/_enemy|enemy]] to take a strategic objective.**
 	- _Example: Napoleon's drive on Moscow was as determined as it was disastrous._
 - **A mechanism used to power or give motion to a vehicle or other machine or machine part.**
 	- _Example: Some old model trains have clockwork drives._
 - **A trip made in a vehicle (now generally in a motor vehicle).**
 	- _Example: It was a long drive._
-- **A driveway.**
+- **A [[d/_driveway|driveway]].**
 	- _Example: The mansion had a long, tree-lined drive._
 - **A type of public roadway.**
 	- _Example: Beverly Hills’ most famous street is Rodeo Drive._
-- **A place suitable or agreeable for driving; a road prepared for driving.**
-- **Desire or interest.**
-- **An apparatus for reading and writing data to or from a mass storage device such as a disk, as a floppy drive.**
-- **A mass storage device in which the mechanism for reading and writing data is integrated with the mechanism for storing data, as a hard drive, a flash drive.**
-- **A stroke made with a driver.**
-- **A ball struck in a flat trajectory.**
-- **A type of shot played by swinging the bat in a vertical arc, through the line of the ball, and hitting it along the ground, normally between cover and midwicket.**
+- **A place suitable or [[a/_agreeable|agreeable]] for [[d/_driving|driving]]; a road prepared for [[d/_driving|driving]].**
+- **[[d/_desire|Desire]] or interest.**
+- **An [[a/_apparatus|apparatus]] for reading and writing [[d/_data|data]] to or from a mass storage [[d/_device|device]] such as a [[d/_disk|disk]], as a floppy [[d/_drive|drive]].**
+- **A mass storage [[d/_device|device]] in which the mechanism for reading and writing [[d/_data|data]] is integrated with the mechanism for storing [[d/_data|data]], as a hard [[d/_drive|drive]], a flash [[d/_drive|drive]].**
+- **A stroke made with a [[d/_driver|driver]].**
+- **A [[b/_ball|ball]] struck in a flat trajectory.**
+- **A type of shot played by swinging the [[b/_bat|bat]] in a vertical [[a/_arc|arc]], through the line of the [[b/_ball|ball]], and hitting it [[a/_along|along]] the ground, normally [[b/_between|between]] [[c/_cover|cover]] and midwicket.**
 - **A straight level shot or pass.**
-- **An offensive possession, generally one consisting of several plays and/ or first downs, often leading to a scoring opportunity.**
-- **A charity event such as a fundraiser, bake sale, or toy drive.**
+- **An offensive possession, generally one [[c/_consisting|consisting]] of several plays and/ or first [[d/_downs|downs]], often leading to a scoring opportunity.**
+- **A [[c/_charity|charity]] event such as a fundraiser, [[b/_bake|bake]] sale, or toy [[d/_drive|drive]].**
 	- _Example: a whist drive; a beetle drive_
-- **(retail) A campaign aimed at selling more of a certain product, e.g. by offering a discount.**
-- **An impression or matrix formed by a punch drift.**
-- **A collection of objects that are driven; a mass of logs to be floated down a river.**
+- **(retail) A [[c/_campaign|campaign]] [[a/_aimed|aimed]] at selling more of a [[c/_certain|certain]] product, [[e/_e|e]].g. by offering a [[d/_discount|discount]].**
+- **An impression or matrix formed by a punch [[d/_drift|drift]].**
+- **A [[c/_collection|collection]] of objects that are [[d/_driven|driven]]; a mass of logs to be floated [[d/_down|down]] a river.**
 ---
 ### Synonyms
-- [[line [[d/_drive|drive]]]], [[[[d/_disk|disk]] [[d/_drive|drive]]]], [[[[a/_approach|approach]]]], [[[[d/_driveway|driveway]]]], [[[[e/_engine|engine]]]], [[mechanism]], [[motor]], [[[[d/_desire|desire]]]], [[impetus]], [[impulse]], [[urge]], [[[[a/_avenue|avenue]]]], [[[[b/_boulevard|boulevard]]]], [[road]], [[street]], [[[[a/_ambition|ambition]]]], [[enthusiasm]], [[get-up-and-go]], [[motivation]], [[self-motivation]], [[verve]], [[[[a/_attack|attack]]]], [[push]], [[ride]], [[spin]], [[trip]]
+- [[line drive]], [[disk drive]], [[approach]], [[driveway]], [[engine]], [[mechanism]], [[motor]], [[desire]], [[impetus]], [[impulse]], [[urge]], [[avenue]], [[boulevard]], [[road]], [[street]], [[ambition]], [[enthusiasm]], [[get-up-and-go]], [[motivation]], [[self-motivation]], [[verve]], [[attack]], [[push]], [[ride]], [[spin]], [[trip]]
 ### Antonyms
 - [[inertia]], [[laziness]], [[phlegm]], [[sloth]]
 #verb
-- **To provide an impetus for motion or other physical change, to move an object by means of the provision of force thereto.**
+- **To provide an impetus for motion or other physical [[c/_change|change]], to move an object by means of the provision of force thereto.**
 	- _Example: You drive nails into wood with a hammer._
-- **To provide an impetus for a non-physical change, especially a change in one's state of mind.**
+- **To provide an impetus for a non-physical [[c/_change|change]], especially a [[c/_change|change]] in one's state of mind.**
 	- _Example: My wife's constant harping about the condition of the house threatens to drive me to distraction._
-- **To displace either physically or non-physically, through the application of force.**
-- **To cause intrinsic motivation through the application or demonstration of force: to impel or urge onward thusly, to compel to move on, to coerce, intimidate or threaten.**
-- **(especially of animals) To impel or urge onward by force; to push forward; to compel to move on.**
+- **To [[d/_displace|displace]] [[e/_either|either]] physically or non-physically, through the [[a/_application|application]] of force.**
+- **To [[c/_cause|cause]] intrinsic motivation through the [[a/_application|application]] or [[d/_demonstration|demonstration]] of force: to impel or urge onward thusly, to [[c/_compel|compel]] to move on, to [[c/_coerce|coerce]], intimidate or threaten.**
+- **(especially of [[a/_animals|animals]]) To impel or urge onward by force; to push forward; to [[c/_compel|compel]] to move on.**
 	- _Example: to drive twenty thousand head of cattle from Texas to the Kansas railheads; to drive sheep out of a field_
-- **To direct a vehicle powered by a horse, ox or similar animal.**
-- **To cause animals to flee out of.**
+- **To [[d/_direct|direct]] a vehicle powered by a horse, ox or similar [[a/_animal|animal]].**
+- **To [[c/_cause|cause]] [[a/_animals|animals]] to flee out of.**
 	- _Example: The beaters drove the brambles, causing a great rush of rabbits and other creatures._
 - **To move (something) by hitting it with great force.**
 	- _Example: You drive nails into wood with a hammer._
-- **To cause (a mechanism) to operate.**
+- **To [[c/_cause|cause]] (a mechanism) to operate.**
 	- _Example: The pistons drive the crankshaft._
 - **To operate (a wheeled motorized vehicle).**
 	- _Example: drive a car_
 - **To motivate; to provide an incentive for.**
 	- _Example: What drives a person to run a marathon?_
-- **To compel (to do something).**
+- **To [[c/_compel|compel]] (to [[d/_do|do]] something).**
 	- _Example: Their debts finally drove them to sell the business._
-- **To cause to become.**
+- **To [[c/_cause|cause]] to [[b/_become|become]].**
 	- _Example: This constant complaining is going to drive me to insanity.   You are driving me crazy!_
-- **To hit the ball with a drive.**
+- **To hit the [[b/_ball|ball]] with a [[d/_drive|drive]].**
 - **To travel by operating a wheeled motorized vehicle.**
 	- _Example: I drive to work every day._
-- **To convey (a person, etc) in a wheeled motorized vehicle.**
+- **To [[c/_convey|convey]] (a person, etc) in a wheeled motorized vehicle.**
 	- _Example: My wife drove me to the airport._
 - **To move forcefully.**
 - **To be moved or propelled forcefully (especially of a ship).**
-- **To urge, press, or bring to a point or state.**
-- **To carry or to keep in motion; to conduct; to prosecute.**
-- **To clear, by forcing away what is contained.**
-- **To dig horizontally; to cut a horizontal gallery or tunnel.**
-- **To put together a drive (n.): to string together offensive plays and advance the ball down the field.**
-- **To distrain for rent.**
-- **To separate the lighter (feathers or down) from the heavier, by exposing them to a current of air.**
-- **To be the dominant party in a sex act.**
+- **To urge, press, or [[b/_bring|bring]] to a point or state.**
+- **To [[c/_carry|carry]] or to keep in motion; to [[c/_conduct|conduct]]; to prosecute.**
+- **To [[c/_clear|clear]], by forcing [[a/_away|away]] what is [[c/_contained|contained]].**
+- **To [[d/_dig|dig]] horizontally; to [[c/_cut|cut]] a horizontal gallery or tunnel.**
+- **To put together a [[d/_drive|drive]] (n.): to string together offensive plays and [[a/_advance|advance]] the [[b/_ball|ball]] [[d/_down|down]] the field.**
+- **To [[d/_distrain|distrain]] for rent.**
+- **To separate the lighter (feathers or [[d/_down|down]]) from the heavier, by exposing them to a [[c/_current|current]] of [[a/_air|air]].**
+- **To be the [[d/_dominant|dominant]] party in a sex [[a/_act|act]].**
 ---
 ### Synonyms
-- [[move]], [[operate]], [[make]], [[render]], [[send]], [[[[c/_compel|compel]]]], [[force]], [[oblige]], [[push]], [[require]], [[take]], [[herd]], [[impel]], [[incentivise]], [[incentivize]], [[motivate]], [[push]], [[urge]], [[force]], [[push]], [[motorvate]]
+- [[move]], [[operate]], [[make]], [[render]], [[send]], [[compel]], [[force]], [[oblige]], [[push]], [[require]], [[take]], [[herd]], [[impel]], [[incentivise]], [[incentivize]], [[motivate]], [[push]], [[urge]], [[force]], [[push]], [[motorvate]]
 ---

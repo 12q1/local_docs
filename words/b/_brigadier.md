@@ -1,9 +1,9 @@
 # Brigadier
 ---
 #noun
-- **An army rank; an officer commanding a brigade.**
-- **The highest field officer grade, below general officers, NATO grade O7**
+- **An [[a/_army|army]] rank; an officer [[c/_commanding|commanding]] a [[b/_brigade|brigade]].**
+- **The highest field officer grade, [[b/_below|below]] general officers, NATO grade O7**
 ---
 ### Synonyms
-- [[[[b/_brigadier|brigadier]] general]], [[senior [[c/_colonel|colonel]]]]
+- [[brigadier general]], [[senior colonel]]
 ---

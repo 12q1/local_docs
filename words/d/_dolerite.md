@@ -1,8 +1,8 @@
 # Dolerite
 ---
 #noun
-- **A fine-grained basaltic rock**
+- **A fine-grained [[b/_basaltic|basaltic]] rock**
 ---
 ### Synonyms
-- [[[[d/_diabase|diabase]]]]
+- [[diabase]]
 ---

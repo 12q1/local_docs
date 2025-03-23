@@ -1,9 +1,9 @@
 # Duelling
 ---
 #verb
-- **To engage in a battle.**
+- **To [[e/_engage|engage]] in a [[b/_battle|battle]].**
 ---
 #noun
-- **Act of taking part in a duel.**
+- **[[a/_act|Act]] of taking part in a [[d/_duel|duel]].**
 ---
 ---

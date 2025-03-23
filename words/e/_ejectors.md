@@ -1,10 +1,10 @@
 # Ejectors
 ---
 #noun
-- **One who, or that which, ejects or dispossesses.**
-- **A jet jump for lifting water or withdrawing air from a space. {Ejector condenser} (Steam Engine), a condenser in which the vacuum is maintained by a jet pump.**
-- **Ejector seat: a pilot's seat in an airplane that can be forcibly ejected in the case of an emergency; then the pilot descends by parachute.**
-- **That part of the mechanism of a breech-loading firearm which ejects the empty shell.**
-- **A lever for removing circuit boards from an electronic chassis.**
+- **One who, or that which, [[e/_ejects|ejects]] or [[d/_dispossesses|dispossesses]].**
+- **A jet jump for lifting water or withdrawing [[a/_air|air]] from a space. {[[e/_ejector|Ejector]] [[c/_condenser|condenser]]} (Steam [[e/_engine|Engine]]), a [[c/_condenser|condenser]] in which the vacuum is maintained by a jet pump.**
+- **[[e/_ejector|Ejector]] seat: a pilot's seat in an [[a/_airplane|airplane]] that [[c/_can|can]] be forcibly [[e/_ejected|ejected]] in the [[c/_case|case]] of an [[e/_emergency|emergency]]; then the pilot [[d/_descends|descends]] by parachute.**
+- **That part of the mechanism of a [[b/_breech|breech]]-loading firearm which [[e/_ejects|ejects]] the [[e/_empty|empty]] shell.**
+- **A lever for removing [[c/_circuit|circuit]] [[b/_boards|boards]] from an [[e/_electronic|electronic]] [[c/_chassis|chassis]].**
 ---
 ---

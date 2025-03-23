@@ -1,9 +1,9 @@
 # Destructing
 ---
 #verb
-- **To intentionally cause the destruction of.**
-- **To self-destruct.**
+- **To intentionally [[c/_cause|cause]] the [[d/_destruction|destruction]] of.**
+- **To self-[[d/_destruct|destruct]].**
 ---
 ### Synonyms
-- [[[[d/_destroy|destroy]]]]
+- [[destroy]]
 ---

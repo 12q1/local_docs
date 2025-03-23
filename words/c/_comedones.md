@@ -1,6 +1,6 @@
 # Comedones
 ---
 #noun
-- **A blackhead or whitehead.**
+- **A [[b/_blackhead|blackhead]] or whitehead.**
 ---
 ---

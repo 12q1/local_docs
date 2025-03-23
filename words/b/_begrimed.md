@@ -1,9 +1,9 @@
 # Begrimed
 ---
 #verb
-- **To make something dirty; to soil.**
+- **To make something [[d/_dirty|dirty]]; to soil.**
 ---
 #adjective
-- **Dirty, soiled, grimy.**
+- **[[d/_dirty|Dirty]], soiled, grimy.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Broths
 ---
 #noun
-- **Water in which food (meat or vegetable etc) has been boiled.**
-- **A soup made from broth and other ingredients such as vegetables, herbs or diced meat.**
+- **Water in which food (meat or vegetable etc) has [[b/_been|been]] [[b/_boiled|boiled]].**
+- **A soup made from [[b/_broth|broth]] and other ingredients such as vegetables, herbs or [[d/_diced|diced]] meat.**
 ---
 ### Synonyms
-- [[[[b/_bouillon|bouillon]]]], [[liquor]], [[pot liquor]], [[stock]]
+- [[bouillon]], [[liquor]], [[pot liquor]], [[stock]]
 ---

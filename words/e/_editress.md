@@ -1,7 +1,7 @@
 # Editress
 ---
 #noun
-- **A female editor.**
+- **A female [[e/_editor|editor]].**
 ---
 ### Synonyms
 - [[editrix]]

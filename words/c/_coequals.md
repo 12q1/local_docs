@@ -1,6 +1,6 @@
 # Coequals
 ---
 #noun
-- **An equal person or thing.**
+- **An [[e/_equal|equal]] person or thing.**
 ---
 ---

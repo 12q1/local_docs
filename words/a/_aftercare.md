@@ -1,9 +1,9 @@
 # Aftercare
 ---
 #noun
-- **The care given to a patient during recovery from an operation or after hospitalization.**
-- **Services and support offered to a customer for the goods or service they have purchased.**
-- **Emotional support offered by the programme makers to a person who has appeared on a stressful talk show, etc.**
-- **(BDSM) Tender affection and care given to a partner after a BDSM activity, usually to serve as a transition between the activity and whatever follows it.**
+- **The [[c/_care|care]] given to a patient [[d/_during|during]] recovery from an operation or [[a/_after|after]] hospitalization.**
+- **Services and support offered to a [[c/_customer|customer]] for the goods or service they have purchased.**
+- **[[e/_emotional|Emotional]] support offered by the programme makers to a person who has [[a/_appeared|appeared]] on a stressful talk show, etc.**
+- **(BDSM) Tender [[a/_affection|affection]] and [[c/_care|care]] given to a partner [[a/_after|after]] a BDSM [[a/_activity|activity]], usually to serve as a transition [[b/_between|between]] the [[a/_activity|activity]] and whatever follows it.**
 ---
 ---

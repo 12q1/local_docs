@@ -1,6 +1,6 @@
 # Denunciator
 ---
 #noun
-- **One who denounces, publishes, or proclaims, especially intended or coming evil; one who threatens or accuses.**
+- **One who [[d/_denounces|denounces]], publishes, or proclaims, especially intended or [[c/_coming|coming]] evil; one who threatens or [[a/_accuses|accuses]].**
 ---
 ---

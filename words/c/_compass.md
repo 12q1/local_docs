@@ -1,16 +1,16 @@
 # Compass
 ---
 #noun
-- **A magnetic or electronic device used to determine the cardinal directions (usually magnetic or true north).**
-- **A pair of compasses (a device used to draw an arc or circle).**
+- **A magnetic or [[e/_electronic|electronic]] [[d/_device|device]] used to [[d/_determine|determine]] the [[c/_cardinal|cardinal]] [[d/_directions|directions]] (usually magnetic or true north).**
+- **A pair of [[c/_compasses|compasses]] (a [[d/_device|device]] used to [[d/_draw|draw]] an [[a/_arc|arc]] or [[c/_circle|circle]]).**
 - **The range of notes of a musical instrument or voice.**
-- **A space within limits; an area.**
-- **An enclosing limit; a boundary, a circumference.**
+- **A space within limits; an [[a/_area|area]].**
+- **An [[e/_enclosing|enclosing]] limit; a [[b/_boundary|boundary]], a [[c/_circumference|circumference]].**
 	- _Example: within the compass of an encircling wall_
-- **Moderate bounds, limits of truth; moderation; due limits; used with within.**
+- **Moderate [[b/_bounds|bounds]], limits of truth; moderation; [[d/_due|due]] limits; used with within.**
 - **Scope.**
-- **A passing round; circuit; circuitous course.**
+- **A passing round; [[c/_circuit|circuit]]; [[c/_circuitous|circuitous]] [[c/_course|course]].**
 ---
 ### Synonyms
-- [[pair of [[c/_compasses|compasses]]]], [[magnetic [[c/_compass|compass]]]]
+- [[pair of compasses]], [[magnetic compass]]
 ---

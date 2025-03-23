@@ -1,9 +1,9 @@
 # Bobsledding
 ---
 #verb
-- **To ride a bobsled.**
+- **To ride a [[b/_bobsled|bobsled]].**
 ---
 #noun
-- **The act or sport of riding a bobsled**
+- **The [[a/_act|act]] or sport of riding a [[b/_bobsled|bobsled]]**
 ---
 ---

@@ -9,6 +9,6 @@
 	- _Example: The program barfed as a result of the invalid input._
 ---
 #interjection
-- **An expression of disgust.**
+- **An expression of [[d/_disgust|disgust]].**
 ---
 ---

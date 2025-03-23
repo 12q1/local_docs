@@ -1,8 +1,8 @@
 # Blameable
 ---
 #adjective
-- **Deserving blame**
+- **[[d/_deserving|Deserving]] [[b/_blame|blame]]**
 ---
 ### Synonyms
-- [[[[b/_blameworthy|blameworthy]]]], [[[[c/_culpable|culpable]]]], [[reprehensible]]
+- [[blameworthy]], [[culpable]], [[reprehensible]]
 ---

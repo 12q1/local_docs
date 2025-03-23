@@ -1,10 +1,10 @@
 # Compresence
 ---
 #noun
-- **The state of existing together concurrently.**
+- **The state of existing together [[c/_concurrently|concurrently]].**
 	- _Example: The properties of redness and juiciness have compresence in apples._
-- **The tie or relation responsible for holding properties in the bundle theory of substance. Also called 'togetherness'**
+- **The tie or relation responsible for holding properties in the [[b/_bundle|bundle]] theory of substance. [[a/_also|Also]] [[c/_called|called]] 'togetherness'**
 ---
 ### Synonyms
-- [[[[c/_coexistence|coexistence]]]], [[[[c/_concurrency|concurrency]]]], [[[[c/_copresence|copresence]]]], [[togetherness]]
+- [[coexistence]], [[concurrency]], [[copresence]], [[togetherness]]
 ---

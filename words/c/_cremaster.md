@@ -1,9 +1,9 @@
 # Cremaster
 ---
 #noun
-- **A thin muscle attached to the testicles.**
-- **In the pupae of certain species of butterfly, a hook-shaped protuberance from the rear of the chrysalis casing, by which the caterpillar fixes itself to the pad of silk it has cemented to the underside of a perch.**
+- **A thin muscle [[a/_attached|attached]] to the testicles.**
+- **In the pupae of [[c/_certain|certain]] species of [[b/_butterfly|butterfly]], a hook-shaped protuberance from the rear of the [[c/_chrysalis|chrysalis]] [[c/_casing|casing]], by which the [[c/_caterpillar|caterpillar]] fixes itself to the pad of silk it has [[c/_cemented|cemented]] to the underside of a perch.**
 ---
 ### Synonyms
-- [[musculus [[c/_cremaster|cremaster]]]]
+- [[musculus cremaster]]
 ---

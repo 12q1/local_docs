@@ -1,9 +1,9 @@
 # Dimensioned
 ---
 #verb
-- **To mark, cut or shape something to specified dimensions.**
+- **To mark, [[c/_cut|cut]] or shape something to specified [[d/_dimensions|dimensions]].**
 ---
 #adjective
-- **Possessing dimension, non-dimensionless, dimensionful.**
+- **Possessing [[d/_dimension|dimension]], non-[[d/_dimensionless|dimensionless]], dimensionful.**
 ---
 ---

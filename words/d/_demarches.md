@@ -1,7 +1,7 @@
 # Demarches
 ---
 #noun
-- **A diplomatic maneuver; one handled with finesse.**
-- **A protest launched through diplomatic measures.**
+- **A [[d/_diplomatic|diplomatic]] maneuver; one handled with finesse.**
+- **A protest launched through [[d/_diplomatic|diplomatic]] measures.**
 ---
 ---

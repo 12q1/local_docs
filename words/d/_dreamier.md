@@ -1,13 +1,13 @@
 # Dreamier
 ---
 #adjective
-- **As in a dream; resembling a dream.**
-- **Sexy; handsome; attractive**
+- **As in a [[d/_dream|dream]]; resembling a [[d/_dream|dream]].**
+- **Sexy; handsome; [[a/_attractive|attractive]]**
 	- _Example: I love the doctor in that American TV show: he is so dreamy!_
-- **Having a pleasant or romantic atmosphere.**
+- **Having a pleasant or romantic [[a/_atmosphere|atmosphere]].**
 	- _Example: That place was so dreamy!_
-- **Tending to dream or daydream.**
+- **Tending to [[d/_dream|dream]] or [[d/_daydream|daydream]].**
 ---
 ### Synonyms
-- [[[[d/_dreamish|dreamish]]]], [[[[d/_dreamlike|dreamlike]]]], [[oneiric]]
+- [[dreamish]], [[dreamlike]], [[oneiric]]
 ---

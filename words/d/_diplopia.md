@@ -1,6 +1,6 @@
 # Diplopia
 ---
 #noun
-- **An ophthalmologic condition where one perceives two images; double vision.**
+- **An ophthalmologic [[c/_condition|condition]] where one perceives two images; [[d/_double|double]] vision.**
 ---
 ---

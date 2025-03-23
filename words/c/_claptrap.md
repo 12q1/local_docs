@@ -1,10 +1,10 @@
 # Claptrap
 ---
 #noun
-- **Empty verbiage or nonsense.**
-- **A device for producing a clapping sound in theaters.**
-- **A device or trick to gain applause; a humbug.**
+- **[[e/_empty|Empty]] verbiage or nonsense.**
+- **A [[d/_device|device]] for producing a [[c/_clapping|clapping]] sound in theaters.**
+- **A [[d/_device|device]] or trick to gain [[a/_applause|applause]]; a humbug.**
 ---
 ### Synonyms
-- [[hot [[a/_air|air]]]], [[palaver]], [[waffle]]
+- [[hot air]], [[palaver]], [[waffle]]
 ---

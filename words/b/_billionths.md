@@ -1,7 +1,7 @@
 # Billionths
 ---
 #noun
-- **The person or thing in the billionth position.**
-- **One of a billion equal parts of a whole.**
+- **The person or thing in the [[b/_billionth|billionth]] position.**
+- **One of a [[b/_billion|billion]] [[e/_equal|equal]] parts of a whole.**
 ---
 ---

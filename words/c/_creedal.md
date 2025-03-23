@@ -1,6 +1,6 @@
 # Creedal
 ---
 #adjective
-- **Of or pertaining to a creed.**
+- **Of or pertaining to a [[c/_creed|creed]].**
 ---
 ---

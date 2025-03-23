@@ -1,14 +1,14 @@
 # Dissembling
 ---
 #verb
-- **To disguise or conceal something.**
+- **To [[d/_disguise|disguise]] or [[c/_conceal|conceal]] something.**
 - **To feign.**
-- **To deliberately ignore something; to pretend not to notice.**
+- **To [[d/_deliberately|deliberately]] ignore something; to pretend not to notice.**
 - **To falsely hide one's opinions or feelings.**
 ---
 ### Synonyms
-- [[[[d/_disregard|disregard]]]], [[take no notice of]]
+- [[disregard]], [[take no notice of]]
 #noun
-- **The action of the verb dissemble**
+- **The [[a/_action|action]] of the verb [[d/_dissemble|dissemble]]**
 ---
 ---

@@ -1,18 +1,18 @@
 # Drones
 ---
 #noun
-- **A male ant, bee or wasp, which does not work but can fertilize the queen bee.**
-- **Someone who does not work; a lazy person, an idler.**
+- **A male [[a/_ant|ant]], [[b/_bee|bee]] or wasp, which [[d/_does|does]] not work but [[c/_can|can]] fertilize the queen [[b/_bee|bee]].**
+- **Someone who [[d/_does|does]] not work; a lazy person, an idler.**
 - **One who performs menial or tedious work.**
-- **A remotely controlled aircraft, an unmanned aerial vehicle (UAV).**
+- **A remotely [[c/_controlled|controlled]] [[a/_aircraft|aircraft]], an unmanned [[a/_aerial|aerial]] vehicle (UAV).**
 	- _Example: One team member launched a camera drone over the Third Pole._
 ---
 ### Synonyms
-- [[UAS]], [[UAV]], [[[[d/_drudge|drudge]]]]
+- [[UAS]], [[UAV]], [[drudge]]
 #noun
-- **A low-pitched hum or buzz.**
-- **One of the fixed-pitch pipes on a bagpipe.**
-- **A genre of music that uses repeated lengthy droning sounds.**
-- **A humming or deep murmuring sound.**
+- **A low-pitched hum or [[b/_buzz|buzz]].**
+- **One of the fixed-pitch pipes on a [[b/_bagpipe|bagpipe]].**
+- **A genre of music that uses repeated lengthy [[d/_droning|droning]] sounds.**
+- **A humming or [[d/_deep|deep]] murmuring sound.**
 ---
 ---

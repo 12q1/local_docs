@@ -1,8 +1,8 @@
 # Egotistical
 ---
 #adjective
-- **Tending to talk excessively about oneself.**
-- **Believing oneself to be better and more important than others.**
-- **Egoistical.**
+- **Tending to talk excessively [[a/_about|about]] oneself.**
+- **[[b/_believing|Believing]] oneself to be [[b/_better|better]] and more important than others.**
+- **[[e/_egoistical|Egoistical]].**
 ---
 ---

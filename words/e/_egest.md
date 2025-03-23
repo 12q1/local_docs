@@ -1,7 +1,7 @@
 # Egest
 ---
 #verb
-- **To eliminate undigested food or waste from the body (as feces).**
+- **To [[e/_eliminate|eliminate]] undigested food or waste from the [[b/_body|body]] (as feces).**
 ---
 ### Synonyms
 - [[excrete]]

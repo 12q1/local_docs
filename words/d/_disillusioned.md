@@ -1,10 +1,10 @@
 # Disillusioned
 ---
 #verb
-- **To free or deprive of illusion; to disenchant.**
+- **To free or [[d/_deprive|deprive]] of illusion; to [[d/_disenchant|disenchant]].**
 ---
 #adjective
-- **Disappointed; experiencing disillusionment; having lost one's illusions.**
+- **[[d/_disappointed|Disappointed]]; experiencing [[d/_disillusionment|disillusionment]]; having lost one's illusions.**
 ---
 ### Antonyms
 - [[inspired]]

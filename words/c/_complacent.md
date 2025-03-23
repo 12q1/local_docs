@@ -1,8 +1,8 @@
 # Complacent
 ---
 #adjective
-- **Uncritically satisfied with oneself or one's achievements; smug.**
-- **Apathetic with regard to an apparent need or problem.**
+- **Uncritically satisfied with oneself or one's [[a/_achievements|achievements]]; smug.**
+- **[[a/_apathetic|Apathetic]] with regard to an [[a/_apparent|apparent]] need or problem.**
 ---
 ### Synonyms
 - [[self-satisfied]], [[smug]]

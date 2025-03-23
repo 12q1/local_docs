@@ -1,6 +1,6 @@
 # Asyndeton
 ---
 #noun
-- **A stylistic scheme in which conjunctions are deliberately omitted from a series of words, phrases, clauses.**
+- **A stylistic scheme in which [[c/_conjunctions|conjunctions]] are [[d/_deliberately|deliberately]] omitted from a series of words, phrases, [[c/_clauses|clauses]].**
 ---
 ---

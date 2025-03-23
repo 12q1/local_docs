@@ -1,8 +1,8 @@
 # Economics
 ---
 #noun
-- **The study of resource allocation, distribution and consumption; of capital and investment; and of management of the factors of production.**
+- **The study of resource [[a/_allocation|allocation]], [[d/_distribution|distribution]] and [[c/_consumption|consumption]]; of [[c/_capital|capital]] and investment; and of management of the factors of production.**
 ---
 ### Synonyms
-- [[[[d/_dismal|dismal]] science]]
+- [[dismal science]]
 ---

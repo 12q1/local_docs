@@ -1,6 +1,6 @@
 # Crustacean
 ---
 #noun
-- **Any arthropod of the subphylum Crustacea, including lobsters, crabs, shrimp, barnacles and woodlice.**
+- **[[a/_any|Any]] [[a/_arthropod|arthropod]] of the subphylum [[c/_crustacea|Crustacea]], including lobsters, [[c/_crabs|crabs]], shrimp, [[b/_barnacles|barnacles]] and woodlice.**
 ---
 ---

@@ -1,12 +1,12 @@
 # Dogmen
 ---
 #noun
-- **A man who likes dogs or prefers dogs as pets, often as opposed to liking cats.**
-- **A man who breeds, handles, or sells dogs; a greyhound or hunting dog handler.**
+- **A man who likes [[d/_dogs|dogs]] or prefers [[d/_dogs|dogs]] as pets, often as opposed to liking [[c/_cats|cats]].**
+- **A man who [[b/_breeds|breeds]], handles, or sells [[d/_dogs|dogs]]; a greyhound or hunting [[d/_dog|dog]] handler.**
 ---
 #noun
-- **An assistant to a crane operator, responsible for securing the crane's load and directing the operator.**
-- **A man who trains dogs for the bloodsport of dogfighting.**
-- **An alleged cryptid that is part man, part dog.**
+- **An [[a/_assistant|assistant]] to a [[c/_crane|crane]] operator, responsible for securing the [[c/_crane|crane]]'s load and [[d/_directing|directing]] the operator.**
+- **A man who trains [[d/_dogs|dogs]] for the bloodsport of [[d/_dogfighting|dogfighting]].**
+- **An [[a/_alleged|alleged]] cryptid that is part man, part [[d/_dog|dog]].**
 ---
 ---

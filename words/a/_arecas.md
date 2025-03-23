@@ -1,6 +1,6 @@
 # Arecas
 ---
 #noun
-- **Any member of the genus Areca of about fifty species of single-stemmed palms in the family Arecaceae, found in humid tropical forests.**
+- **[[a/_any|Any]] member of the genus [[a/_areca|Areca]] of [[a/_about|about]] fifty species of single-stemmed palms in the family [[a/_arecaceae|Arecaceae]], found in humid tropical forests.**
 ---
 ---

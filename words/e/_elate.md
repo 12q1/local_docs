@@ -2,10 +2,10 @@
 ---
 #verb
 - **To make joyful or proud.**
-- **To lift up; raise; elevate.**
+- **To lift up; raise; [[e/_elevate|elevate]].**
 ---
 #adjective
-- **Elated; exultant**
-- **Lifted up; raised; elevated.**
+- **[[e/_elated|Elated]]; exultant**
+- **Lifted up; raised; [[e/_elevated|elevated]].**
 ---
 ---

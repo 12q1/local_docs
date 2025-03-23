@@ -1,8 +1,8 @@
 # Dysgraphia
 ---
 #noun
-- **A language disorder that affects a person's ability to write.**
+- **A language [[d/_disorder|disorder]] that [[a/_affects|affects]] a person's [[a/_ability|ability]] to write.**
 ---
 ### Synonyms
-- [[[[a/_agraphia|agraphia]]]]
+- [[agraphia]]
 ---

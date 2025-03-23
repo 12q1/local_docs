@@ -1,16 +1,16 @@
 # Divines
 ---
 #noun
-- **One skilled in divinity; a theologian.**
-- **A minister of the gospel; a priest; a clergyman.**
-- **(often capitalized, with 'the') God or a god, particularly in its aspect as a transcendental concept.**
+- **One skilled in [[d/_divinity|divinity]]; a theologian.**
+- **A minister of the gospel; a priest; a [[c/_clergyman|clergyman]].**
+- **(often [[c/_capitalized|capitalized]], with 'the') God or a god, particularly in its [[a/_aspect|aspect]] as a transcendental [[c/_concept|concept]].**
 ---
 ### Synonyms
-- [[[[a/_allah|Allah]]]], [[God]], [[[[d/_deity|deity]]]], [[god]], [[[[c/_clergyman|clergyman]]]], [[[[c/_cleric|cleric]]]], [[man of the [[c/_cloth|cloth]]]], [[theologian]]
+- [[Allah]], [[God]], [[deity]], [[god]], [[clergyman]], [[cleric]], [[man of the cloth]], [[theologian]]
 #verb
-- **To foretell (something), especially by the use of divination.**
-- **To guess or discover (something) through intuition or insight.**
-- **To search for (underground objects or water) using a divining rod.**
-- **To render divine; to deify.**
+- **To foretell (something), especially by the use of [[d/_divination|divination]].**
+- **To guess or [[d/_discover|discover]] (something) through intuition or insight.**
+- **To search for (underground objects or water) using a [[d/_divining|divining]] rod.**
+- **To render [[d/_divine|divine]]; to [[d/_deify|deify]].**
 ---
 ---

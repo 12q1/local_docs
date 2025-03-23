@@ -1,9 +1,9 @@
 # Displeased
 ---
 #verb
-- **To make not pleased; to cause a feeling of disapprobation or dislike in; to be disagreeable to; to vex slightly.**
+- **To make not pleased; to [[c/_cause|cause]] a feeling of [[d/_disapprobation|disapprobation]] or [[d/_dislike|dislike]] in; to be [[d/_disagreeable|disagreeable]] to; to vex slightly.**
 	- _Example: I felt displeased with the boy._
-- **To give displeasure or offense.**
+- **To give [[d/_displeasure|displeasure]] or offense.**
 - **To fail to satisfy; to miss of.**
 ---
 ### Synonyms

@@ -1,16 +1,16 @@
 # Bum
 ---
 #noun
-- **The buttocks.**
+- **The [[b/_buttocks|buttocks]].**
 	- _Example: Okay, everyone sit on your bum and try and touch your toes._
-- **The anus.**
+- **The [[a/_anus|anus]].**
 ---
 ### Synonyms
-- [[[[a/_arse|arse]]]], [[[[a/_ass|ass]]]], [[[[b/_backside|backside]]]], [[[[b/_behind|behind]]]], [[[[b/_bottom|bottom]]]], [[[[b/_butt|butt]]]], [[fanny]], [[heinie]], [[tush]], [[tushie]]
+- [[arse]], [[ass]], [[backside]], [[behind]], [[bottom]], [[butt]], [[fanny]], [[heinie]], [[tush]], [[tushie]]
 #verb
-- **To sodomize; to engage in anal sex.**
+- **To sodomize; to [[e/_engage|engage]] in [[a/_anal|anal]] sex.**
 ---
 #interjection
-- **An expression of annoyance.**
+- **An expression of [[a/_annoyance|annoyance]].**
 ---
 ---

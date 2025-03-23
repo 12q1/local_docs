@@ -1,8 +1,8 @@
 # Beddable
 ---
 #adjective
-- **Sexually attractive.**
+- **Sexually [[a/_attractive|attractive]].**
 ---
 ### Synonyms
-- [[[[d/_doable|doable]]]], [[fuckable]], [[shaggable]]
+- [[doable]], [[fuckable]], [[shaggable]]
 ---

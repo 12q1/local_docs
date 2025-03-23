@@ -1,13 +1,13 @@
 # Demographic
 ---
 #noun
-- **(chiefly in plural) A demographic criterion: a characteristic used to classify people for statistical purposes, such as age, race, or gender.**
-- **A demographic group: a collection of people sharing a value for a certain demographic criterion.**
-- **An individual person's characteristic, encoded for the purposes of statistical analysis.**
+- **([[c/_chiefly|chiefly]] in plural) A [[d/_demographic|demographic]] [[c/_criterion|criterion]]: a [[c/_characteristic|characteristic]] used to [[c/_classify|classify]] people for statistical purposes, such as [[a/_age|age]], race, or gender.**
+- **A [[d/_demographic|demographic]] group: a [[c/_collection|collection]] of people sharing a value for a [[c/_certain|certain]] [[d/_demographic|demographic]] [[c/_criterion|criterion]].**
+- **An individual person's [[c/_characteristic|characteristic]], [[e/_encoded|encoded]] for the purposes of statistical [[a/_analysis|analysis]].**
 ---
 ### Synonyms
-- [[[[d/_demo|demo]]]]
+- [[demo]]
 #adjective
-- **Of or pertaining to demography.**
+- **Of or pertaining to [[d/_demography|demography]].**
 ---
 ---

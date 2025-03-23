@@ -1,6 +1,6 @@
 # Coverlet
 ---
 #noun
-- **A blanket used as a bed covering, usually quilted.**
+- **A [[b/_blanket|blanket]] used as a [[b/_bed|bed]] [[c/_covering|covering]], usually quilted.**
 ---
 ---

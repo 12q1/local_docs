@@ -1,6 +1,6 @@
 # Echograph
 ---
 #noun
-- **An instrument that uses ultrasound to produce an echogram as a diagnostic aid.**
+- **An instrument that uses ultrasound to produce an [[e/_echogram|echogram]] as a [[d/_diagnostic|diagnostic]] [[a/_aid|aid]].**
 ---
 ---

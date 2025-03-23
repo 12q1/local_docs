@@ -1,6 +1,6 @@
 # Condign
 ---
 #adjective
-- **Fitting, appropriate, deserved, especially denoting punishment**
+- **Fitting, [[a/_appropriate|appropriate]], [[d/_deserved|deserved]], especially [[d/_denoting|denoting]] punishment**
 ---
 ---

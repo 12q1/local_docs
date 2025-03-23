@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Neat, trim.**
-- **Stylishly dressed, neatly dressed, spiffy.**
-- **Quick; little and active.**
+- **Stylishly [[d/_dressed|dressed]], neatly [[d/_dressed|dressed]], spiffy.**
+- **Quick; little and [[a/_active|active]].**
 ---
 ---

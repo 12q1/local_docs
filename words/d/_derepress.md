@@ -1,7 +1,7 @@
 # Derepress
 ---
 #verb
-- **To activate a gene by the removal of a repressor**
-- **To cease to repress (a belief, memory, etc.).**
+- **To [[a/_activate|activate]] a gene by the removal of a repressor**
+- **To [[c/_cease|cease]] to repress (a [[b/_belief|belief]], memory, etc.).**
 ---
 ---

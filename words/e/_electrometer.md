@@ -1,7 +1,7 @@
 # Electrometer
 ---
 #noun
-- **A device used to detect and measure static electricity; an electroscope.**
-- **A precision voltmeter that draws almost no current from the circuit.**
+- **A [[d/_device|device]] used to [[d/_detect|detect]] and measure static [[e/_electricity|electricity]]; an [[e/_electroscope|electroscope]].**
+- **A precision voltmeter that [[d/_draws|draws]] [[a/_almost|almost]] no [[c/_current|current]] from the [[c/_circuit|circuit]].**
 ---
 ---

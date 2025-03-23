@@ -1,6 +1,6 @@
 # Brominate
 ---
 #verb
-- **To treat or react with bromine or hydrobromic acid, to introduce bromine into a compound.**
+- **To treat or react with [[b/_bromine|bromine]] or hydrobromic [[a/_acid|acid]], to introduce [[b/_bromine|bromine]] into a [[c/_compound|compound]].**
 ---
 ---

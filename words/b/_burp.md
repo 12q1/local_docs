@@ -1,12 +1,12 @@
 # Burp
 ---
 #noun
-- **A belch.**
+- **A [[b/_belch|belch]].**
 ---
 ### Synonyms
-- [[[[b/_belch|belch]]]]
+- [[belch]]
 #verb
-- **To emit a burp.**
-- **To cause someone (such as a baby) to burp.**
+- **To [[e/_emit|emit]] a [[b/_burp|burp]].**
+- **To [[c/_cause|cause]] someone (such as a [[b/_baby|baby]]) to [[b/_burp|burp]].**
 ---
 ---

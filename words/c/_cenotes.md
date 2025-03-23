@@ -1,6 +1,6 @@
 # Cenotes
 ---
 #noun
-- **A deep natural well or sinkhole, especially in Central America, formed by the collapse of surface limestone that exposes ground water underneath, and sometimes used by the ancient Mayans for sacrificial offerings.**
+- **A [[d/_deep|deep]] natural well or sinkhole, especially in [[c/_central|Central]] [[a/_america|America]], formed by the [[c/_collapse|collapse]] of surface limestone that exposes ground water underneath, and sometimes used by the [[a/_ancient|ancient]] Mayans for sacrificial offerings.**
 ---
 ---

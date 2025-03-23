@@ -1,6 +1,6 @@
 # Dura
 ---
 #noun
-- **The dura mater, the outer covering of the brain and spinal cord.**
+- **The [[d/_dura|dura]] mater, the outer [[c/_covering|covering]] of the [[b/_brain|brain]] and spinal [[c/_cord|cord]].**
 ---
 ---

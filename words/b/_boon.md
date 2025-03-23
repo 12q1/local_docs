@@ -2,13 +2,13 @@
 ---
 #noun
 - **A prayer; petition.**
-- **That which is asked or granted as a benefit or favor; a gift or benefaction.**
-- **A good thing; a blessing or benefit; a thing to be thankful for.**
+- **That which is [[a/_asked|asked]] or granted as a [[b/_benefit|benefit]] or favor; a gift or [[b/_benefaction|benefaction]].**
+- **A good thing; a [[b/_blessing|blessing]] or [[b/_benefit|benefit]]; a thing to be thankful for.**
 	- _Example: Anaesthetics are a great boon to modern surgery._
-- **An unpaid service due by a tenant to his lord.**
+- **An unpaid service [[d/_due|due]] by a tenant to his lord.**
 ---
 ### Synonyms
-- [[[[b/_benefit|benefit]]]], [[[[b/_blessing|blessing]]]], [[favor]], [[gift]]
+- [[benefit]], [[blessing]], [[favor]], [[gift]]
 ### Antonyms
-- [[[[b/_bane|bane]]]]
+- [[bane]]
 ---

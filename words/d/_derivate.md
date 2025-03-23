@@ -1,12 +1,12 @@
 # Derivate
 ---
 #noun
-- **Something derived; a derivative.**
+- **Something [[d/_derived|derived]]; a [[d/_derivative|derivative]].**
 ---
 #verb
-- **To derive.**
+- **To [[d/_derive|derive]].**
 ---
 #adjective
-- **Derived; derivative.**
+- **[[d/_derived|Derived]]; [[d/_derivative|derivative]].**
 ---
 ---

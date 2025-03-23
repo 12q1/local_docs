@@ -1,6 +1,6 @@
 # Ascorbate
 ---
 #noun
-- **Any salt or ester of ascorbic acid.**
+- **[[a/_any|Any]] salt or ester of [[a/_ascorbic|ascorbic]] [[a/_acid|acid]].**
 ---
 ---

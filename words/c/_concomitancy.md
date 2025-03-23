@@ -1,6 +1,6 @@
 # Concomitancy
 ---
 #noun
-- **The condition of being concomitant; concomitance**
+- **The [[c/_condition|condition]] of [[b/_being|being]] [[c/_concomitant|concomitant]]; [[c/_concomitance|concomitance]]**
 ---
 ---

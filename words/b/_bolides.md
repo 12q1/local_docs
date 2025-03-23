@@ -1,15 +1,15 @@
 # Bolides
 ---
 #noun
-- **An extremely bright meteor.**
-- **Any extraterrestrial body that collides with Earth.**
+- **An extremely [[b/_bright|bright]] meteor.**
+- **[[a/_any|Any]] extraterrestrial [[b/_body|body]] that [[c/_collides|collides]] with [[e/_earth|Earth]].**
 - **A fireball.**
 ---
 ### Synonyms
 - [[fireball]]
 #noun
-- **A meteor or brilliant shooting star, followed by a train of light or sparks; especially one which explodes.**
+- **A meteor or [[b/_brilliant|brilliant]] shooting star, followed by a train of light or sparks; especially one which explodes.**
 ---
 ### Synonyms
-- [[[[b/_bolide|bolide]]]], [[fireball]]
+- [[bolide]], [[fireball]]
 ---

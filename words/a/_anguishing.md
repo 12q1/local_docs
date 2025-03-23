@@ -2,9 +2,9 @@
 ---
 #verb
 - **To suffer pain.**
-- **To cause to suffer pain.**
+- **To [[c/_cause|cause]] to suffer pain.**
 ---
 #noun
-- **A feeling or expression of anguish.**
+- **A feeling or expression of [[a/_anguish|anguish]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bateau
 ---
 #noun
-- **A small, flat-bottomed type of boat.**
+- **A small, flat-[[b/_bottomed|bottomed]] type of [[b/_boat|boat]].**
 ---
 ---

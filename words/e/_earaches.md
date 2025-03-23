@@ -1,7 +1,7 @@
 # Earaches
 ---
 #noun
-- **A pain in the middle or inner ear.**
+- **A pain in the middle or inner [[e/_ear|ear]].**
 ---
 ### Synonyms
 - [[otalgia]]

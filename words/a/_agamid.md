@@ -1,6 +1,6 @@
 # Agamid
 ---
 #noun
-- **Any of the family Agamidae of lizards, including many dragons.**
+- **[[a/_any|Any]] of the family [[a/_agamidae|Agamidae]] of lizards, including many [[d/_dragons|dragons]].**
 ---
 ---

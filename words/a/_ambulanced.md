@@ -1,6 +1,6 @@
 # Ambulanced
 ---
 #verb
-- **To transport by ambulance.**
+- **To transport by [[a/_ambulance|ambulance]].**
 ---
 ---

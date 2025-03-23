@@ -1,9 +1,9 @@
 # Abalone
 ---
 #noun
-- **An edible univalve mollusc of the genus Haliotis, having a shell lined with mother-of-pearl.**
-- **The meat of the aforementioned mollusc.**
+- **An [[e/_edible|edible]] univalve mollusc of the genus Haliotis, having a shell lined with mother-of-pearl.**
+- **The meat of the [[a/_aforementioned|aforementioned]] mollusc.**
 ---
 ### Synonyms
-- [[[[e/_ear|ear]]-shell]], [[ormer]], [[paua]], [[pawa]], [[perlemoen]]
+- [[ear-shell]], [[ormer]], [[paua]], [[pawa]], [[perlemoen]]
 ---

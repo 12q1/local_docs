@@ -1,17 +1,17 @@
 # Dormant
 ---
 #noun
-- **A crossbeam or joist.**
+- **A [[c/_crossbeam|crossbeam]] or joist.**
 ---
 #adjective
-- **Inactive, sleeping, asleep, suspended.**
+- **Inactive, sleeping, [[a/_asleep|asleep]], suspended.**
 	- _Example: Grass goes dormant during the winter, waiting for spring before it grows again._
-- **In a sleeping posture; distinguished from couchant.**
+- **In a sleeping posture; [[d/_distinguished|distinguished]] from [[c/_couchant|couchant]].**
 	- _Example: a lion dormant_
 - **Leaning.**
 ---
 ### Synonyms
 - [[quiescent]]
 ### Antonyms
-- [[[[a/_active|active]]]], [[[[a/_active|active]]]], [[extinct]]
+- [[active]], [[active]], [[extinct]]
 ---

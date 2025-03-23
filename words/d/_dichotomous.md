@@ -1,8 +1,8 @@
 # Dichotomous
 ---
 #adjective
-- **Dividing or branching into two pieces.**
+- **[[d/_dividing|Dividing]] or [[b/_branching|branching]] into two pieces.**
 ---
 ### Synonyms
-- [[[[b/_bipartite|bipartite]]]], [[forked]]
+- [[bipartite]], [[forked]]
 ---

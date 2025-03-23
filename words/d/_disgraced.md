@@ -1,10 +1,10 @@
 # Disgraced
 ---
 #verb
-- **To put someone out of favor; to bring shame or ignominy upon.**
+- **To put someone out of favor; to [[b/_bring|bring]] shame or ignominy upon.**
 ---
 #adjective
-- **Having been disgraced.**
+- **Having [[b/_been|been]] [[d/_disgraced|disgraced]].**
 	- _Example: a disgraced politician_
 ---
 ---

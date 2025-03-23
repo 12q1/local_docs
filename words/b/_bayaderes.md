@@ -1,7 +1,7 @@
 # Bayaderes
 ---
 #noun
-- **A female dancer**
-- **A type of fabric having strongly contrasting stripes**
+- **A female [[d/_dancer|dancer]]**
+- **A type of fabric having strongly [[c/_contrasting|contrasting]] stripes**
 ---
 ---

@@ -1,9 +1,9 @@
 # Electromechanical
 ---
 #noun
-- **An electromechanical component or device**
+- **An [[e/_electromechanical|electromechanical]] [[c/_component|component]] or [[d/_device|device]]**
 ---
 #adjective
-- **Related to both electricity (or electronics) and mechanics.**
+- **Related to [[b/_both|both]] [[e/_electricity|electricity]] (or [[e/_electronics|electronics]]) and mechanics.**
 ---
 ---

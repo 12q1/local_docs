@@ -1,6 +1,6 @@
 # Anthropoids
 ---
 #noun
-- **An anthropoid animal.**
+- **An [[a/_anthropoid|anthropoid]] [[a/_animal|animal]].**
 ---
 ---

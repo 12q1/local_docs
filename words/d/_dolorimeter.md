@@ -1,6 +1,6 @@
 # Dolorimeter
 ---
 #noun
-- **A device used for measuring pain.**
+- **A [[d/_device|device]] used for measuring pain.**
 ---
 ---

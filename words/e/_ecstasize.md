@@ -1,6 +1,6 @@
 # Ecstasize
 ---
 #verb
-- **To go into a state of ecstasy or rapture.**
+- **To go into a state of [[e/_ecstasy|ecstasy]] or rapture.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Applicant
 ---
 #noun
-- **One who applies for something; one who makes a request; a petitioner.**
+- **One who [[a/_applies|applies]] for something; one who makes a request; a petitioner.**
 	- _Example: Our job advertisement attracted seven applicants._
-- **The third coordinate (or z-coordinate) in a three-dimensional coordinate system.**
+- **The third [[c/_coordinate|coordinate]] (or z-[[c/_coordinate|coordinate]]) in a three-[[d/_dimensional|dimensional]] [[c/_coordinate|coordinate]] system.**
 ---
 ---

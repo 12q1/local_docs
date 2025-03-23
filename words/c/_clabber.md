@@ -1,10 +1,10 @@
 # Clabber
 ---
 #noun
-- **Sour or curdled milk.**
-- **Wet clay or mud.**
+- **Sour or [[c/_curdled|curdled]] milk.**
+- **Wet [[c/_clay|clay]] or mud.**
 ---
 #verb
-- **To sour or curdle.**
+- **To sour or [[c/_curdle|curdle]].**
 ---
 ---

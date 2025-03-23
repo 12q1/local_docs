@@ -1,7 +1,7 @@
 # Blithering
 ---
 #verb
-- **To talk foolishly; to blather**
+- **To talk foolishly; to [[b/_blather|blather]]**
 ---
 #noun
 - **Incoherent or foolish talk.**

@@ -1,8 +1,8 @@
 # Candiru
 ---
 #noun
-- **A small parasitic fish, Vandellia cirrhosa, native to the Amazon river.**
+- **A small parasitic fish, Vandellia cirrhosa, native to the [[a/_amazon|Amazon]] river.**
 ---
 ### Synonyms
-- [[canero]], [[[[c/_ca|ca]]ñero]], [[toothpick fish]], [[vampire fish]]
+- [[canero]], [[cañero]], [[toothpick fish]], [[vampire fish]]
 ---

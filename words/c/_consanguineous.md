@@ -1,10 +1,10 @@
 # Consanguineous
 ---
 #adjective
-- **Related by birth; descended from the same parent or ancestor.**
+- **Related by [[b/_birth|birth]]; [[d/_descended|descended]] from the same parent or [[a/_ancestor|ancestor]].**
 ---
 ### Synonyms
-- [[[[c/_consanguine|consanguine]]]], [[[[c/_consanguineal|consanguineal]]]], [[same-[[b/_blooded|blooded]]]]
+- [[consanguine]], [[consanguineal]], [[same-blooded]]
 ### Antonyms
-- [[[[a/_affinal|affinal]]]]
+- [[affinal]]
 ---

@@ -1,9 +1,9 @@
 # Detecting
 ---
 #verb
-- **To discover or find by careful search, examination, or probing**
+- **To [[d/_discover|discover]] or find by [[c/_careful|careful]] search, examination, or probing**
 ---
 #noun
-- **An act of detection.**
+- **An [[a/_act|act]] of [[d/_detection|detection]].**
 ---
 ---

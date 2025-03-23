@@ -1,6 +1,6 @@
 # Districting
 ---
 #verb
-- **To divide into administrative or other districts.**
+- **To [[d/_divide|divide]] into [[a/_administrative|administrative]] or other [[d/_districts|districts]].**
 ---
 ---

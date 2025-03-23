@@ -5,7 +5,7 @@
 - **A storehouse.**
 ---
 #adjective
-- **Having the quality of preserving from loss, decay, or injury.**
-- **Relating to conservation.**
+- **Having the quality of preserving from loss, [[d/_decay|decay]], or injury.**
+- **Relating to [[c/_conservation|conservation]].**
 ---
 ---

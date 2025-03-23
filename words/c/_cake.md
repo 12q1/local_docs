@@ -1,26 +1,26 @@
 # Cake
 ---
 #noun
-- **A rich, sweet dessert food, typically made of flour, sugar and eggs and baked in an oven, and often covered in icing.**
-- **A small mass of baked dough, especially a thin loaf from unleavened dough.**
+- **A rich, sweet [[d/_dessert|dessert]] food, typically made of flour, sugar and [[e/_eggs|eggs]] and [[b/_baked|baked]] in an oven, and often [[c/_covered|covered]] in icing.**
+- **A small mass of [[b/_baked|baked]] [[d/_dough|dough]], especially a thin loaf from unleavened [[d/_dough|dough]].**
 	- _Example: a johnnycake_
-- **A thin wafer-shaped mass of fried batter; a griddlecake or pancake.**
+- **A thin wafer-shaped mass of fried [[b/_batter|batter]]; a griddlecake or pancake.**
 	- _Example: buckwheat cakes_
-- **A block of any of various dense materials.**
+- **A [[b/_block|block]] of [[a/_any|any]] of various [[d/_dense|dense]] materials.**
 	- _Example: a cake of sand_
-- **A trivially easy task or responsibility; from a piece of cake.**
+- **A trivially [[e/_easy|easy]] task or responsibility; from a piece of [[c/_cake|cake]].**
 - **Money.**
-- **Used to describe the doctrine of having one's cake and eating it too.**
-- **A buttock, especially one that is exceptionally plump.**
+- **Used to [[d/_describe|describe]] the [[d/_doctrine|doctrine]] of having one's [[c/_cake|cake]] and [[e/_eating|eating]] it too.**
+- **A [[b/_buttock|buttock]], especially one that is exceptionally plump.**
 	- _Example: Mmm, I'd like to cut me some of that cake!_
 ---
 ### Synonyms
-- [[[[b/_block|block]]]], [[gâteau]], [[piece of [[c/_cake|cake]]]]
+- [[block]], [[gâteau]], [[piece of cake]]
 #verb
-- **Coat (something) with a crust of solid material.**
+- **[[c/_coat|Coat]] (something) with a [[c/_crust|crust]] of solid material.**
 	- _Example: His shoes are caked with mud._
-- **To form into a cake, or mass.**
+- **To form into a [[c/_cake|cake]], or mass.**
 ---
 ### Synonyms
-- [[[[c/_crust|crust]]]], [[[[e/_encrust|encrust]]]]
+- [[crust]], [[encrust]]
 ---

@@ -1,12 +1,12 @@
 # Dialectic
 ---
 #noun
-- **Any formal system of reasoning that arrives at a truth by the exchange of logical arguments.**
-- **A contradiction of ideas that serves as the determining factor in their interaction.**
+- **[[a/_any|Any]] formal system of reasoning that [[a/_arrives|arrives]] at a truth by the exchange of logical [[a/_arguments|arguments]].**
+- **A [[c/_contradiction|contradiction]] of ideas that serves as the [[d/_determining|determining]] factor in their interaction.**
 	- _Example: This situation created the inner dialectic of American history._
-- **Progress of conflict, especially class conflict.**
+- **Progress of [[c/_conflict|conflict]], especially [[c/_class|class]] [[c/_conflict|conflict]].**
 ---
 #adjective
-- **Dialectical**
+- **[[d/_dialectical|Dialectical]]**
 ---
 ---

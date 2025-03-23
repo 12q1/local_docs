@@ -1,12 +1,12 @@
 # Certainties
 ---
 #noun
-- **The state of being certain.**
-- **An instance of being certain.**
+- **The state of [[b/_being|being]] [[c/_certain|certain]].**
+- **An instance of [[b/_being|being]] [[c/_certain|certain]].**
 - **A fact or truth unquestionably established.**
 ---
 ### Synonyms
-- [[[[c/_certitude|certitude]]]], [[sureness]], [[sure thing]]
+- [[certitude]], [[sureness]], [[sure thing]]
 ### Antonyms
-- [[[[d/_doubt|doubt]]]], [[uncertainty]]
+- [[doubt]], [[uncertainty]]
 ---

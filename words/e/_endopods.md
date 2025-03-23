@@ -1,6 +1,6 @@
 # Endopods
 ---
 #noun
-- **Endopodite**
+- **[[e/_endopodite|Endopodite]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Assortative
 ---
 #adjective
-- **Characterized by assorting.**
+- **[[c/_characterized|Characterized]] by [[a/_assorting|assorting]].**
 ---
 ### Antonyms
 - [[disassortative]]

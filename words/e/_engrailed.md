@@ -4,6 +4,6 @@
 - **A European moth, Ectropis crepuscularia.**
 ---
 #adjective
-- **Having an edge or border indented with semicircles with points outwards. Usually the saltire and the dexter edge of the border of the shield both have cuts along their entire length the shape of crescent moons.**
+- **Having an [[e/_edge|edge]] or [[b/_border|border]] indented with semicircles with points outwards. Usually the saltire and the [[d/_dexter|dexter]] [[e/_edge|edge]] of the [[b/_border|border]] of the shield [[b/_both|both]] have [[c/_cuts|cuts]] [[a/_along|along]] their [[e/_entire|entire]] length the shape of [[c/_crescent|crescent]] moons.**
 ---
 ---

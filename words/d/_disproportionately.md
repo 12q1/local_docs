@@ -1,6 +1,6 @@
 # Disproportionately
 ---
 #adverb
-- **In a disproportionate manner**
+- **In a [[d/_disproportionate|disproportionate]] manner**
 ---
 ---

@@ -1,6 +1,6 @@
 # Dirndls
 ---
 #noun
-- **A traditional Alpine women's dress having a tight bodice and full skirt**
+- **A traditional [[a/_alpine|Alpine]] women's [[d/_dress|dress]] having a tight [[b/_bodice|bodice]] and full skirt**
 ---
 ---

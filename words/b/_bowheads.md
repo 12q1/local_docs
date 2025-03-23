@@ -1,8 +1,8 @@
 # Bowheads
 ---
 #noun
-- **A large whale, Balaena mysticetus, having a large, rounded head, that inhabits Arctic waters.**
+- **A large whale, [[b/_balaena|Balaena]] mysticetus, having a large, rounded head, that inhabits [[a/_arctic|Arctic]] waters.**
 ---
 ### Synonyms
-- [[[[b/_bowhead|bowhead]] whale]]
+- [[bowhead whale]]
 ---

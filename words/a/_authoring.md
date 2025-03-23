@@ -1,10 +1,10 @@
 # Authoring
 ---
 #verb
-- **(sometimes proscribed) To create a work as its author.**
+- **(sometimes proscribed) To [[c/_create|create]] a work as its [[a/_author|author]].**
 ---
 #noun
-- **The process of creating the content of a document or other content item, i.e., writing or composition.**
-- **The result of this process; a writing or composition.**
+- **The process of [[c/_creating|creating]] the [[c/_content|content]] of a [[d/_document|document]] or other [[c/_content|content]] item, i.[[e/_e|e]]., writing or [[c/_composition|composition]].**
+- **The result of this process; a writing or [[c/_composition|composition]].**
 ---
 ---

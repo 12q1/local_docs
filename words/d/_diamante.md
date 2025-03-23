@@ -1,11 +1,11 @@
 # Diamante
 ---
 #noun
-- **An artificial diamond used as adornment, such as a rhinestone.**
-- **A diamante poem.**
+- **An [[a/_artificial|artificial]] [[d/_diamond|diamond]] used as [[a/_adornment|adornment]], such as a rhinestone.**
+- **A [[d/_diamante|diamante]] poem.**
 ---
 #adjective
-- **Covered in diamante decorations**
-- **Shiny or iridescent, as if covered in or made of diamonds**
+- **[[c/_covered|Covered]] in [[d/_diamante|diamante]] [[d/_decorations|decorations]]**
+- **Shiny or iridescent, as if [[c/_covered|covered]] in or made of [[d/_diamonds|diamonds]]**
 ---
 ---

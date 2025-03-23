@@ -1,6 +1,6 @@
 # Determinedly
 ---
 #adverb
-- **In a determined manner.**
+- **In a [[d/_determined|determined]] manner.**
 ---
 ---

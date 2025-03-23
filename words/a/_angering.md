@@ -1,11 +1,11 @@
 # Angering
 ---
 #verb
-- **To cause such a feeling of antagonism in.**
+- **To [[c/_cause|cause]] such a feeling of [[a/_antagonism|antagonism]] in.**
 	- _Example: He who angers you conquers you._
-- **To become angry.**
+- **To [[b/_become|become]] [[a/_angry|angry]].**
 	- _Example: You anger too easily._
 ---
 ### Synonyms
-- [[[[a/_angry|angry]]]], [[get]], [[[[a/_aggravate|aggravate]]]], [[[[a/_annoy|annoy]]]], [[[[d/_displease|displease]]]], [[[[e/_enrage|enrage]]]], [[grill]], [[infuriate]], [[irritate]], [[vex]]
+- [[angry]], [[get]], [[aggravate]], [[annoy]], [[displease]], [[enrage]], [[grill]], [[infuriate]], [[irritate]], [[vex]]
 ---

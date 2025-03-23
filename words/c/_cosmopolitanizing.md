@@ -1,6 +1,6 @@
 # Cosmopolitanizing
 ---
 #verb
-- **To make cosmopolitan.**
+- **To make [[c/_cosmopolitan|cosmopolitan]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Cumulatively
 ---
 #adverb
-- **In a cumulative manner.**
+- **In a [[c/_cumulative|cumulative]] manner.**
 ---
 ---

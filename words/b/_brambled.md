@@ -1,6 +1,6 @@
 # Brambled
 ---
 #adjective
-- **Overgrown with brambles.**
+- **Overgrown with [[b/_brambles|brambles]].**
 ---
 ---

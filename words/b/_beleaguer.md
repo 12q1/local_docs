@@ -1,8 +1,8 @@
 # Beleaguer
 ---
 #verb
-- **To besiege; to surround with troops.**
-- **To vex, harass, or beset.**
+- **To [[b/_besiege|besiege]]; to surround with troops.**
+- **To vex, harass, or [[b/_beset|beset]].**
 - **To exhaust.**
 ---
 ---

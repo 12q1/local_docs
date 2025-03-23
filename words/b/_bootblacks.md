@@ -1,7 +1,7 @@
 # Bootblacks
 ---
 #noun
-- **A shoeshine boy; a person who shines shoes as an occupation.**
+- **A shoeshine [[b/_boy|boy]]; a person who shines shoes as an occupation.**
 ---
 ### Synonyms
 - [[shoeblack]], [[shoeshiner]]

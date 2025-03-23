@@ -1,8 +1,8 @@
 # Crinkliest
 ---
 #adjective
-- **That crinkles.**
-- **Having crinkles; wrinkly.**
+- **That [[c/_crinkles|crinkles]].**
+- **Having [[c/_crinkles|crinkles]]; wrinkly.**
 ---
 ### Synonyms
 - [[bewrinkled]], [[rugose]], [[wrinklesome]]

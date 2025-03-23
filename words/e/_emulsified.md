@@ -1,10 +1,10 @@
 # Emulsified
 ---
 #verb
-- **To make into an emulsion.**
+- **To make into an [[e/_emulsion|emulsion]].**
 ---
 ### Synonyms
-- [[[[e/_emulsionize|emulsionize]]]]
+- [[emulsionize]]
 ### Antonyms
-- [[[[d/_de|de]]-[[e/_emulsify|emulsify]]]]
+- [[de-emulsify]]
 ---

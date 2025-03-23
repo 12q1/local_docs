@@ -1,11 +1,11 @@
 # Amyloid
 ---
 #noun
-- **A waxy compound of protein and polysaccharides that is found deposited in tissues in amyloidosis.**
-- **Any of various starchlike substances.**
+- **A waxy [[c/_compound|compound]] of protein and polysaccharides that is found [[d/_deposited|deposited]] in tissues in [[a/_amyloidosis|amyloidosis]].**
+- **[[a/_any|Any]] of various starchlike substances.**
 ---
 #adjective
-- **Containing or resembling starch.**
-- **Applied to a mushroom that turns blue-black upon application of Melzer's reagent**
+- **[[c/_containing|Containing]] or resembling starch.**
+- **[[a/_applied|Applied]] to a mushroom that turns [[b/_blue|blue]]-[[b/_black|black]] upon [[a/_application|application]] of Melzer's reagent**
 ---
 ---

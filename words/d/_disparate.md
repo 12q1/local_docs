@@ -1,13 +1,13 @@
 # Disparate
 ---
 #noun
-- **(chiefly in the plural) Any of a group of unequal or dissimilar things.**
+- **([[c/_chiefly|chiefly]] in the plural) [[a/_any|Any]] of a group of unequal or [[d/_dissimilar|dissimilar]] things.**
 ---
 #adjective
-- **Composed of inherently different or distinct elements; incongruous.**
+- **[[c/_composed|Composed]] of inherently [[d/_different|different]] or [[d/_distinct|distinct]] [[e/_elements|elements]]; incongruous.**
 	- _Example: The board of the company was decidedly disparate, with no two members from the same social or economic background._
-- **Essentially different; of different species, unlike but not opposed in pairs; also, less properly, utterly unlike; incapable of being compared; having no common genus.**
+- **Essentially [[d/_different|different]]; of [[d/_different|different]] species, unlike but not opposed in pairs; [[a/_also|also]], less properly, utterly unlike; incapable of [[b/_being|being]] [[c/_compared|compared]]; having no [[c/_common|common]] genus.**
 ---
 ### Synonyms
-- [[incongruous]], [[mismatched]], [[uncoordinated]], [[incommensurable]], [[[[d/_different|different]]]], [[[[d/_dissimilar|dissimilar]]]], [[unalike]]
+- [[incongruous]], [[mismatched]], [[uncoordinated]], [[incommensurable]], [[different]], [[dissimilar]], [[unalike]]
 ---

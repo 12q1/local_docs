@@ -1,11 +1,11 @@
 # Cert
 ---
 #noun
-- **Certificate.**
+- **[[c/_certificate|Certificate]].**
 	- _Example: I bought some gift certs for my family for Christmas._
-- **A certainty; something guaranteed to happen.**
+- **A [[c/_certainty|certainty]]; something guaranteed to happen.**
 ---
 #adjective
-- **Abbreviation of certified.**
+- **[[a/_abbreviation|Abbreviation]] of [[c/_certified|certified]].**
 ---
 ---

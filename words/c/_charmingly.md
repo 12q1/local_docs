@@ -1,6 +1,6 @@
 # Charmingly
 ---
 #adverb
-- **In a charming manner.**
+- **In a [[c/_charming|charming]] manner.**
 ---
 ---

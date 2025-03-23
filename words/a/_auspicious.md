@@ -2,12 +2,12 @@
 ---
 #adjective
 - **Of good omen; indicating future success.**
-- **Conducive to success.**
+- **[[c/_conducive|Conducive]] to success.**
 	- _Example: This is an auspicious day._
 - **Marked by success; prosperous.**
 ---
 ### Synonyms
 - [[favorable]], [[favourable]], [[fortunate]], [[lucky]], [[promising]], [[propitious]], [[fortunate]], [[lucky]]
 ### Antonyms
-- [[[[d/_disastrous|disastrous]]]], [[inauspicious]], [[ominous]], [[ruinous]]
+- [[disastrous]], [[inauspicious]], [[ominous]], [[ruinous]]
 ---

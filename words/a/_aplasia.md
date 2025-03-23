@@ -1,6 +1,6 @@
 # Aplasia
 ---
 #noun
-- **A condition marked by the incomplete development, or entire absence, of an organ or tissue.**
+- **A [[c/_condition|condition]] marked by the incomplete [[d/_development|development]], or [[e/_entire|entire]] [[a/_absence|absence]], of an organ or tissue.**
 ---
 ---

@@ -1,20 +1,20 @@
 # Credited
 ---
 #verb
-- **To believe; to put credence in.**
+- **To [[b/_believe|believe]]; to put [[c/_credence|credence]] in.**
 	- _Example: Someone said there were over 100,000 people there, but I can't credit that._
-- **To add to an account.**
+- **To [[a/_add|add]] to an [[a/_account|account]].**
 	- _Example: Credit accounts receivable with the amount of the invoice._
-- **To acknowledge the contribution of.**
+- **To [[a/_acknowledge|acknowledge]] the [[c/_contribution|contribution]] of.**
 	- _Example: Credit the point guard with another assist._
-- **To bring honour or repute upon; to do credit to; to raise the estimation of.**
+- **To [[b/_bring|bring]] honour or repute upon; to [[d/_do|do]] [[c/_credit|credit]] to; to raise the estimation of.**
 ---
 ### Synonyms
-- [[[[a/_accept|accept]]]], [[[[b/_believe|believe]]]]
+- [[accept]], [[believe]]
 ### Antonyms
-- [[[[d/_debit|debit]]]]
+- [[debit]]
 #adjective
-- **Having something attributed to oneself.**
+- **Having something [[a/_attributed|attributed]] to oneself.**
 	- _Example: He was credited with the invention of the alarm clock._
 ---
 ---

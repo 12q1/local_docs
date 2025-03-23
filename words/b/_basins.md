@@ -1,17 +1,17 @@
 # Basins
 ---
 #noun
-- **A wide bowl for washing, sometimes affixed to a wall**
-- **A shallow bowl used for a single serving of a drink or liquidy food**
-- **A depression, natural or artificial, containing water**
-- **An area of land from which water drains into a common outlet; drainage basin**
+- **A wide [[b/_bowl|bowl]] for washing, sometimes [[a/_affixed|affixed]] to a wall**
+- **A shallow [[b/_bowl|bowl]] used for a single serving of a [[d/_drink|drink]] or liquidy food**
+- **A [[d/_depression|depression]], natural or [[a/_artificial|artificial]], [[c/_containing|containing]] water**
+- **An [[a/_area|area]] of land from which water [[d/_drains|drains]] into a [[c/_common|common]] outlet; [[d/_drainage|drainage]] [[b/_basin|basin]]**
 - **A rock formation scooped out by water erosion**
 ---
 ### Synonyms
 - [[sink]]
 #verb
-- **To create a concavity or depression in.**
-- **To serve as or become a basin.**
-- **To shelter or enclose in a basin.**
+- **To [[c/_create|create]] a [[c/_concavity|concavity]] or [[d/_depression|depression]] in.**
+- **To serve as or [[b/_become|become]] a [[b/_basin|basin]].**
+- **To shelter or [[e/_enclose|enclose]] in a [[b/_basin|basin]].**
 ---
 ---

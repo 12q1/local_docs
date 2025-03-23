@@ -1,9 +1,9 @@
 # Dreamers
 ---
 #noun
-- **One who dreams.**
-- **Someone whose beliefs are far from realistic.**
-- **Any anglerfish of the family Oneirodidae.**
+- **One who [[d/_dreams|dreams]].**
+- **Someone whose [[b/_beliefs|beliefs]] are far from realistic.**
+- **[[a/_any|Any]] anglerfish of the family Oneirodidae.**
 - **Swallow-wing puffbird (Chelidoptera tenebrosa)**
 ---
 ---

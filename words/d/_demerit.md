@@ -1,16 +1,16 @@
 # Demerit
 ---
 #noun
-- **A quality of being inadequate; a fault; a disadvantage**
-- **A mark given for bad conduct to a person attending an educational institution or serving in the army.**
-- **That which one merits or deserves, either of good or ill; desert.**
+- **A quality of [[b/_being|being]] inadequate; a fault; a [[d/_disadvantage|disadvantage]]**
+- **A mark given for [[b/_bad|bad]] [[c/_conduct|conduct]] to a person [[a/_attending|attending]] an [[e/_educational|educational]] institution or serving in the [[a/_army|army]].**
+- **That which one merits or [[d/_deserves|deserves]], [[e/_either|either]] of good or ill; [[d/_desert|desert]].**
 ---
 ### Synonyms
-- [[[[d/_discredit|discredit]]]]
+- [[discredit]]
 ### Antonyms
 - [[merit]]
 #verb
-- **To deserve.**
-- **To depreciate or cry down.**
+- **To [[d/_deserve|deserve]].**
+- **To [[d/_depreciate|depreciate]] or [[c/_cry|cry]] [[d/_down|down]].**
 ---
 ---

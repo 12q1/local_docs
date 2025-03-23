@@ -1,11 +1,11 @@
 # Cuneiform
 ---
 #noun
-- **An ancient Mesopotamian writing system, adapted within several language families, originating as pictograms in Sumer around the 30th century BC, evolving into more abstract and characteristic wedge shapes formed by a blunt reed stylus on clay tablets.**
-- **A wedge-shaped bone, especially a cuneiform bone.**
+- **An [[a/_ancient|ancient]] Mesopotamian writing system, [[a/_adapted|adapted]] within several language families, originating as pictograms in Sumer [[a/_around|around]] the 30th [[c/_century|century]] BC, evolving into more [[a/_abstract|abstract]] and [[c/_characteristic|characteristic]] wedge shapes formed by a [[b/_blunt|blunt]] reed stylus on [[c/_clay|clay]] tablets.**
+- **A wedge-shaped [[b/_bone|bone]], especially a [[c/_cuneiform|cuneiform]] [[b/_bone|bone]].**
 ---
 #adjective
-- **Having the form of a wedge; wedge-shaped, especially with a tapered end.**
-- **Written in the cuneiform writing system.**
+- **Having the form of a wedge; wedge-shaped, especially with a tapered [[e/_end|end]].**
+- **Written in the [[c/_cuneiform|cuneiform]] writing system.**
 ---
 ---

@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Originating in the heart.**
-- **Resulting from a disorder of the heart.**
+- **Resulting from a [[d/_disorder|disorder]] of the heart.**
 ---
 ---

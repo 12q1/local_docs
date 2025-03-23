@@ -1,6 +1,6 @@
 # Churchgoer
 ---
 #noun
-- **One who regularly goes to church; a practicing Christian.**
+- **One who regularly goes to [[c/_church|church]]; a practicing [[c/_christian|Christian]].**
 ---
 ---

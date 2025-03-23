@@ -2,10 +2,10 @@
 ---
 #noun
 - **A transparent purple variety of quartz, used as a gemstone.**
-- **A purple colour.**
-- **The purple tincture when emblazoning the arms of the English nobility.**
+- **A purple [[c/_colour|colour]].**
+- **The purple tincture when [[e/_emblazoning|emblazoning]] the [[a/_arms|arms]] of the [[e/_english|English]] nobility.**
 ---
 #adjective
-- **Having a colour similar to that of the gemstone**
+- **Having a [[c/_colour|colour]] similar to that of the gemstone**
 ---
 ---

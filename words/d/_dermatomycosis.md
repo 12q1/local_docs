@@ -1,6 +1,6 @@
 # Dermatomycosis
 ---
 #noun
-- **Any of various skin diseases caused by fungi.**
+- **[[a/_any|Any]] of various skin [[d/_diseases|diseases]] [[c/_caused|caused]] by fungi.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Emitters
 ---
 #noun
-- **That which emits something.**
-- **One terminal of a bipolar transistor (BJT).**
+- **That which [[e/_emits|emits]] something.**
+- **One terminal of a [[b/_bipolar|bipolar]] transistor (BJT).**
 ---
 ---

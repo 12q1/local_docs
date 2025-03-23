@@ -1,6 +1,6 @@
 # Downthrown
 ---
 #adjective
-- **Having, or being, a downthrow**
+- **Having, or [[b/_being|being]], a [[d/_downthrow|downthrow]]**
 ---
 ---

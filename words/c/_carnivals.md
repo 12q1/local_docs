@@ -1,10 +1,10 @@
 # Carnivals
 ---
 #noun
-- **Any of a number of festivals held just before the beginning of Lent.**
+- **[[a/_any|Any]] of a number of festivals held just [[b/_before|before]] the [[b/_beginning|beginning]] of Lent.**
 	- _Example: Carnival of Brazil_
-- **A festive occasion marked by parades and sometimes special foods and other entertainment.**
-- **A traveling amusement park, called a funfair in British English.**
+- **A festive occasion marked by parades and sometimes special foods and other [[e/_entertainment|entertainment]].**
+- **A traveling [[a/_amusement|amusement]] park, [[c/_called|called]] a funfair in [[b/_british|British]] [[e/_english|English]].**
 	- _Example: We all got to ride the merry-go-round when they brought their carnival to town._
 ---
 ---

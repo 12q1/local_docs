@@ -1,6 +1,6 @@
 # Bordures
 ---
 #noun
-- **A contrasting border around a shield.**
+- **A [[c/_contrasting|contrasting]] [[b/_border|border]] [[a/_around|around]] a shield.**
 ---
 ---

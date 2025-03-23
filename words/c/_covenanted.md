@@ -1,12 +1,12 @@
 # Covenanted
 ---
 #verb
-- **To enter into, or promise something by, a covenant.**
-- **To enter a formal agreement.**
-- **To bind oneself in contract.**
+- **To [[e/_enter|enter]] into, or promise something by, a [[c/_covenant|covenant]].**
+- **To [[e/_enter|enter]] a formal [[a/_agreement|agreement]].**
+- **To [[b/_bind|bind]] oneself in [[c/_contract|contract]].**
 - **To make a stipulation.**
 ---
 #adjective
-- **Bound by a covenant.**
+- **[[b/_bound|Bound]] by a [[c/_covenant|covenant]].**
 ---
 ---

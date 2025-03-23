@@ -1,12 +1,12 @@
 # Conversant
 ---
 #noun
-- **One who converses with another.**
+- **One who [[c/_converses|converses]] with [[a/_another|another]].**
 ---
 #adjective
-- **Closely familiar; current; having frequent interaction**
-- **Familiar or acquainted by use or study; well-informed; versed**
+- **[[c/_closely|Closely]] familiar; [[c/_current|current]]; having frequent interaction**
+- **Familiar or [[a/_acquainted|acquainted]] by use or study; well-informed; versed**
 	- _Example: She is equally conversant with Shakespeare and the laws of physics._
-- **Concerned; occupied.**
+- **[[c/_concerned|Concerned]]; occupied.**
 ---
 ---

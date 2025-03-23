@@ -1,6 +1,6 @@
 # Brigands
 ---
 #noun
-- **An outlaw or bandit.**
+- **An outlaw or [[b/_bandit|bandit]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Diplegia
 ---
 #noun
-- **Paralysis that affects symmetrically opposed parts of the body.**
+- **Paralysis that [[a/_affects|affects]] symmetrically opposed parts of the [[b/_body|body]].**
 ---
 ---

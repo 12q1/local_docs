@@ -1,7 +1,7 @@
 # Cajuput
 ---
 #noun
-- **Cajuput oil**
-- **Cajuput tree**
+- **[[c/_cajuput|Cajuput]] oil**
+- **[[c/_cajuput|Cajuput]] tree**
 ---
 ---

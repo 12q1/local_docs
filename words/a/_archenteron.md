@@ -1,6 +1,6 @@
 # Archenteron
 ---
 #noun
-- **A primitive alimentary cavity**
+- **A primitive [[a/_alimentary|alimentary]] [[c/_cavity|cavity]]**
 ---
 ---

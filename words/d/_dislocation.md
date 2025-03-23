@@ -1,10 +1,10 @@
 # Dislocation
 ---
 #noun
-- **The act of displacing, or the state of being displaced.**
-- **The displacement of parts of rocks or portions of strata from the situation which they originally occupied. Slips, faults, and the like, are dislocations.**
-- **The act of dislocating, or putting out of joint; also, the condition of being thus displaced.**
-- **(materials) A linear defect in a crystal lattice. Because dislocations can shift within the crystal lattice, they tend to weaken the material, compared to a perfect crystal.**
-- **(grammar) A sentence structure in which a constituent that could otherwise be either an argument or an adjunct of a clause occurs outside of and adjacent to the clause boundaries. For example, the sentence, "My father, he is a good man", is a left dislocation because the constituent "My father" has been moved to the left of the clause "he is a good man". See dislocation.**
+- **The [[a/_act|act]] of [[d/_displacing|displacing]], or the state of [[b/_being|being]] [[d/_displaced|displaced]].**
+- **The [[d/_displacement|displacement]] of parts of rocks or portions of strata from the situation which they originally occupied. Slips, faults, and the like, are [[d/_dislocations|dislocations]].**
+- **The [[a/_act|act]] of [[d/_dislocating|dislocating]], or putting out of joint; [[a/_also|also]], the [[c/_condition|condition]] of [[b/_being|being]] thus [[d/_displaced|displaced]].**
+- **(materials) A linear [[d/_defect|defect]] in a [[c/_crystal|crystal]] lattice. [[b/_because|Because]] [[d/_dislocations|dislocations]] [[c/_can|can]] shift within the [[c/_crystal|crystal]] lattice, they tend to weaken the material, [[c/_compared|compared]] to a perfect [[c/_crystal|crystal]].**
+- **(grammar) A sentence structure in which a [[c/_constituent|constituent]] that [[c/_could|could]] otherwise be [[e/_either|either]] an [[a/_argument|argument]] or an [[a/_adjunct|adjunct]] of a [[c/_clause|clause]] occurs outside of and [[a/_adjacent|adjacent]] to the [[c/_clause|clause]] [[b/_boundaries|boundaries]]. For example, the sentence, "My father, he is a good man", is a left [[d/_dislocation|dislocation]] [[b/_because|because]] the [[c/_constituent|constituent]] "My father" has [[b/_been|been]] moved to the left of the [[c/_clause|clause]] "he is a good man". See [[d/_dislocation|dislocation]].**
 ---
 ---

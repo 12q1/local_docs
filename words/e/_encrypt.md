@@ -1,8 +1,8 @@
 # Encrypt
 ---
 #verb
-- **To conceal information by means of a code or cipher.**
+- **To [[c/_conceal|conceal]] information by means of a [[c/_code|code]] or [[c/_cipher|cipher]].**
 ---
 ### Antonyms
-- [[[[d/_decrypt|decrypt]]]]
+- [[decrypt]]
 ---

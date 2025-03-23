@@ -1,9 +1,9 @@
 # Blacklegging
 ---
 #verb
-- **To continue working whilst fellow workers strike.**
+- **To [[c/_continue|continue]] working whilst fellow workers strike.**
 ---
 #noun
-- **The practice of working in place of those who are engaged in a strike.**
+- **The practice of working in place of those who are [[e/_engaged|engaged]] in a strike.**
 ---
 ---

@@ -5,6 +5,6 @@
 ---
 #verb
 - **To place next or to or near to; to juxtapose.**
-- **To place opposite or before; to put or apply (one thing to another).**
+- **To place opposite or [[b/_before|before]]; to put or [[a/_apply|apply]] (one thing to [[a/_another|another]]).**
 ---
 ---

@@ -1,6 +1,6 @@
 # Diplomatist
 ---
 #noun
-- **A diplomat**
+- **A [[d/_diplomat|diplomat]]**
 ---
 ---

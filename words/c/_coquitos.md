@@ -1,6 +1,6 @@
 # Coquitos
 ---
 #noun
-- **A traditional Puerto Rican alcoholic eggnog made with coconut.**
+- **A traditional Puerto Rican [[a/_alcoholic|alcoholic]] [[e/_eggnog|eggnog]] made with [[c/_coconut|coconut]].**
 ---
 ---

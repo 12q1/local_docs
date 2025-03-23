@@ -1,6 +1,6 @@
 # Disproportionates
 ---
 #verb
-- **To undergo disproportionation**
+- **To undergo [[d/_disproportionation|disproportionation]]**
 ---
 ---

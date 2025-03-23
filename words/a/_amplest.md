@@ -1,13 +1,13 @@
 # Amplest
 ---
 #adjective
-- **Large; great in size, extent, capacity, or bulk; for example spacious, roomy or widely extended.**
+- **Large; great in size, extent, [[c/_capacity|capacity]], or [[b/_bulk|bulk]]; for example spacious, roomy or widely extended.**
 	- _Example: an ample house_
-- **Fully sufficient; abundant; plenty**
+- **Fully sufficient; [[a/_abundant|abundant]]; plenty**
 	- _Example: ample material_
-- **Not contracted or brief; not concise; extended; diffusive**
+- **Not [[c/_contracted|contracted]] or [[b/_brief|brief]]; not [[c/_concise|concise]]; extended; [[d/_diffusive|diffusive]]**
 	- _Example: an ample story_
 ---
 ### Synonyms
-- [[[[a/_abundant|abundant]]]], [[[[b/_bountiful|bountiful]]]], [[[[c/_capacious|capacious]]]], [[[[c/_copious|copious]]]], [[extensive]], [[full]], [[liberal]], [[munificent]], [[plenteous]], [[plentiful]], [[rich]], [[spacious]], [[wide]]
+- [[abundant]], [[bountiful]], [[capacious]], [[copious]], [[extensive]], [[full]], [[liberal]], [[munificent]], [[plenteous]], [[plentiful]], [[rich]], [[spacious]], [[wide]]
 ---

@@ -1,6 +1,6 @@
 # Dispensaries
 ---
 #noun
-- **A place or room where something is dispensed.**
+- **A place or room where something is [[d/_dispensed|dispensed]].**
 ---
 ---

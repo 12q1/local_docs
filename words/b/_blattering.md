@@ -1,7 +1,7 @@
 # Blattering
 ---
 #verb
-- **To blather.**
+- **To [[b/_blather|blather]].**
 - **To hurry or rush noisily.**
 ---
 ---

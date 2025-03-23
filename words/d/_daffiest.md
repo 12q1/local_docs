@@ -1,8 +1,8 @@
 # Daffiest
 ---
 #adjective
-- **Somewhat mad or eccentric.**
+- **Somewhat mad or [[e/_eccentric|eccentric]].**
 ---
 ### Synonyms
-- [[[[c/_crazy|crazy]]]], [[nutty]], [[wacky]]
+- [[crazy]], [[nutty]], [[wacky]]
 ---

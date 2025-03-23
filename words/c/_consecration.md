@@ -1,6 +1,6 @@
 # Consecration
 ---
 #noun
-- **The act or ceremony of consecrating; the state of being consecrated; dedication.**
+- **The [[a/_act|act]] or [[c/_ceremony|ceremony]] of [[c/_consecrating|consecrating]]; the state of [[b/_being|being]] [[c/_consecrated|consecrated]]; [[d/_dedication|dedication]].**
 ---
 ---

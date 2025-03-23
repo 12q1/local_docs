@@ -1,13 +1,13 @@
 # Budded
 ---
 #verb
-- **To form buds.**
+- **To form [[b/_buds|buds]].**
 	- _Example: The trees are finally starting to bud._
-- **To reproduce by splitting off buds.**
+- **To reproduce by splitting off [[b/_buds|buds]].**
 	- _Example: Yeast reproduces by budding._
-- **To begin to grow, or to issue from a stock in the manner of a bud, as a horn.**
-- **To be like a bud in respect to youth and freshness, or growth and promise.**
-- **To put forth as a bud.**
-- **To graft by inserting a bud under the bark of another tree.**
+- **To [[b/_begin|begin]] to grow, or to issue from a stock in the manner of a [[b/_bud|bud]], as a horn.**
+- **To be like a [[b/_bud|bud]] in respect to youth and freshness, or growth and promise.**
+- **To put forth as a [[b/_bud|bud]].**
+- **To graft by inserting a [[b/_bud|bud]] under the [[b/_bark|bark]] of [[a/_another|another]] tree.**
 ---
 ---

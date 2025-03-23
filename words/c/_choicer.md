@@ -3,8 +3,8 @@
 #adjective
 - **Especially good or preferred.**
 	- _Example: It's a choice location, but you will pay more to live there._
-- **Careful in choosing; discriminating.**
+- **[[c/_careful|Careful]] in [[c/_choosing|choosing]]; [[d/_discriminating|discriminating]].**
 ---
 ### Synonyms
-- [[[[c/_choicy|choicy]]]], [[prime]], [[prize]], [[quality]], [[select]]
+- [[choicy]], [[prime]], [[prize]], [[quality]], [[select]]
 ---

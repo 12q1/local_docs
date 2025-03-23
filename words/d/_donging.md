@@ -1,6 +1,6 @@
 # Donging
 ---
 #verb
-- **Of a bell: to make a low-pitched ringing sound.**
+- **Of a [[b/_bell|bell]]: to make a low-pitched ringing sound.**
 ---
 ---

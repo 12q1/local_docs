@@ -1,6 +1,6 @@
 # Anaglypta
 ---
 #noun
-- **A thick, embossed wallpaper.**
+- **A thick, [[e/_embossed|embossed]] wallpaper.**
 ---
 ---

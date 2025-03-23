@@ -1,6 +1,6 @@
 # Duello
 ---
 #noun
-- **A duel.**
+- **A [[d/_duel|duel]].**
 ---
 ---

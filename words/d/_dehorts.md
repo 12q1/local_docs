@@ -1,8 +1,8 @@
 # Dehorts
 ---
 #verb
-- **To dissuade.**
+- **To [[d/_dissuade|dissuade]].**
 ---
 ### Antonyms
-- [[[[e/_encourage|encourage]]]], [[exhort]], [[persuade]], [[urge]]
+- [[encourage]], [[exhort]], [[persuade]], [[urge]]
 ---

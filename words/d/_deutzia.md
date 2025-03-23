@@ -1,6 +1,6 @@
 # Deutzia
 ---
 #noun
-- **Any of a group of cultivated shrubs, of the genus Deutzia, having white or pink flowers**
+- **[[a/_any|Any]] of a group of [[c/_cultivated|cultivated]] shrubs, of the genus [[d/_deutzia|Deutzia]], having white or pink flowers**
 ---
 ---

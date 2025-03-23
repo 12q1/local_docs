@@ -1,15 +1,15 @@
 # Divisible
 ---
 #noun
-- **Any substance that can be divided.**
+- **[[a/_any|Any]] substance that [[c/_can|can]] be [[d/_divided|divided]].**
 ---
 #adjective
-- **Capable of being divided or split.**
-- **Of an integer, that, when divided by another integer, leaves no remainder.**
+- **[[c/_capable|Capable]] of [[b/_being|being]] [[d/_divided|divided]] or split.**
+- **Of an integer, that, when [[d/_divided|divided]] by [[a/_another|another]] integer, leaves no remainder.**
 	- _Example: 12 is divisible by 3._
 ---
 ### Synonyms
 - [[disunitable]], [[splittable]]
 ### Antonyms
-- [[indivisible]], [[non-[[d/_divisible|divisible]]]], [[[[c/_combinable|combinable]]]], [[mergeable]], [[unifiable]]
+- [[indivisible]], [[non-divisible]], [[combinable]], [[mergeable]], [[unifiable]]
 ---

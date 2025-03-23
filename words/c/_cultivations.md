@@ -1,15 +1,15 @@
 # Cultivations
 ---
 #noun
-- **The art or act of cultivating; improvement of land for or by agriculture**
+- **The [[a/_art|art]] or [[a/_act|act]] of [[c/_cultivating|cultivating]]; improvement of land for or by [[a/_agriculture|agriculture]]**
 	- _Example: The heavy cultivation of the hillside led to soil erosion._
-- **The state of being cultivated or used for agriculture**
+- **The state of [[b/_being|being]] [[c/_cultivated|cultivated]] or used for [[a/_agriculture|agriculture]]**
 	- _Example: These fields are in cultivation._
-- **Devotion of time or attention to the improvement of (something)**
+- **[[d/_devotion|Devotion]] of time or [[a/_attention|attention]] to the improvement of (something)**
 	- _Example: His steadfast cultivation of their relationship finally bore fruit._
-- **Advancement or refinement in physical, intellectual, or moral condition**
+- **[[a/_advancement|Advancement]] or refinement in physical, intellectual, or moral [[c/_condition|condition]]**
 	- _Example: She is a woman of great cultivation._
 ---
 ### Synonyms
-- [[[[c/_culture|culture]]]], [[[[e/_education|education]]]], [[refinement]], [[tillage]]
+- [[culture]], [[education]], [[refinement]], [[tillage]]
 ---

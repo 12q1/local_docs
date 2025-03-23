@@ -1,6 +1,6 @@
 # Chokra
 ---
 #noun
-- **Boy; young male servant.**
+- **[[b/_boy|Boy]]; young male servant.**
 ---
 ---

@@ -1,18 +1,18 @@
 # Aspirate
 ---
 #noun
-- **The puff of air accompanying the release of a plosive consonant.**
-- **A sound produced by such a puff of air.**
-- **A mark of aspiration (#) used in Greek; the asper, or rough breathing.**
+- **The puff of [[a/_air|air]] [[a/_accompanying|accompanying]] the release of a plosive [[c/_consonant|consonant]].**
+- **A sound produced by such a puff of [[a/_air|air]].**
+- **A mark of [[a/_aspiration|aspiration]] (#) used in Greek; the [[a/_asper|asper]], or rough [[b/_breathing|breathing]].**
 ---
 #verb
 - **To remove a liquid or gas by means of suction.**
-- **To inhale so as to draw something other than air into one's lungs.**
-- **To produce an audible puff of breath. especially following a consonant.**
+- **To inhale so as to [[d/_draw|draw]] something other than [[a/_air|air]] into one's lungs.**
+- **To produce an [[a/_audible|audible]] puff of [[b/_breath|breath]]. especially following a [[c/_consonant|consonant]].**
 ---
 ### Synonyms
-- [[[[b/_breathe|breathe]] in]], [[inhale]], [[inspire]]
+- [[breathe in]], [[inhale]], [[inspire]]
 #adjective
-- **Aspirated**
+- **[[a/_aspirated|Aspirated]]**
 ---
 ---

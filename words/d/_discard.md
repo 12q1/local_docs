@@ -1,15 +1,15 @@
 # Discard
 ---
 #noun
-- **Anything discarded.**
-- **A discarded playing card in a card game.**
+- **[[a/_anything|Anything]] [[d/_discarded|discarded]].**
+- **A [[d/_discarded|discarded]] playing [[c/_card|card]] in a [[c/_card|card]] game.**
 - **A temporary variable used to receive a value of no importance and unable to be read later.**
 ---
 #verb
-- **To throw away, to reject.**
-- **To make a discard; to throw out a card.**
-- **To dismiss from employment, confidence, or favour; to discharge.**
+- **To throw [[a/_away|away]], to reject.**
+- **To make a [[d/_discard|discard]]; to throw out a [[c/_card|card]].**
+- **To [[d/_dismiss|dismiss]] from [[e/_employment|employment]], [[c/_confidence|confidence]], or favour; to [[d/_discharge|discharge]].**
 ---
 ### Synonyms
-- [[fire]], [[let go]], [[sack]], [[[[c/_cast|cast]] [[a/_away|away]]]], [[[[d/_dismiss|dismiss]]]], [[[[d/_dispose|dispose]]]], [[[[e/_eliminate|eliminate]]]], [[get rid of]], [[throw [[a/_away|away]]]]
+- [[fire]], [[let go]], [[sack]], [[cast away]], [[dismiss]], [[dispose]], [[eliminate]], [[get rid of]], [[throw away]]
 ---

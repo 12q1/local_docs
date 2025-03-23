@@ -4,8 +4,8 @@
 - **An old woman.**
 ---
 ### Synonyms
-- [[[[c/_crone|crone]]]], [[hag]]
+- [[crone]], [[hag]]
 #noun
-- **A cultivar of field pea or maple pea, dried, soaked, boiled, then fried.**
+- **A [[c/_cultivar|cultivar]] of field pea or maple pea, [[d/_dried|dried]], soaked, [[b/_boiled|boiled]], then fried.**
 ---
 ---

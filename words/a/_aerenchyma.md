@@ -1,6 +1,6 @@
 # Aerenchyma
 ---
 #noun
-- **A spongy, airy tissue found especially in the roots of aquatic plants**
+- **A spongy, [[a/_airy|airy]] tissue found especially in the roots of [[a/_aquatic|aquatic]] plants**
 ---
 ---

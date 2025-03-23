@@ -1,10 +1,10 @@
 # Cementation
 ---
 #noun
-- **The act of cementing**
-- **The impregnation of the surface of a metal with another material; the manufacture of steel by carburizing iron**
+- **The [[a/_act|act]] of [[c/_cementing|cementing]]**
+- **The impregnation of the surface of a metal with [[a/_another|another]] material; the manufacture of steel by [[c/_carburizing|carburizing]] iron**
 - **The precipitation of mineral matter in the pores of a sediment**
-- **The use of a cement join the parts of a broken bone to aid in the healing process**
-- **The use of a cement or adhesive to fasten orthodontics or to restore chipped or broken teeth**
+- **The use of a [[c/_cement|cement]] join the parts of a [[b/_broken|broken]] [[b/_bone|bone]] to [[a/_aid|aid]] in the healing process**
+- **The use of a [[c/_cement|cement]] or [[a/_adhesive|adhesive]] to fasten orthodontics or to restore [[c/_chipped|chipped]] or [[b/_broken|broken]] teeth**
 ---
 ---

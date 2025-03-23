@@ -1,8 +1,8 @@
 # Ambulant
 ---
 #adjective
-- **Able to walk.**
-- **Designed for use by somebody with a disability that impairs, but does not prevent, walking.**
+- **[[a/_able|Able]] to walk.**
+- **[[d/_designed|Designed]] for use by somebody with a [[d/_disability|disability]] that impairs, but [[d/_does|does]] not prevent, walking.**
 	- _Example: an ambulant toilet_
 ---
 ---

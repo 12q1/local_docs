@@ -1,14 +1,14 @@
 # Detriment
 ---
 #noun
-- **Harm, hurt, damage.**
-- **A charge made to students and barristers for incidental repairs of the rooms they occupy.**
+- **Harm, hurt, [[d/_damage|damage]].**
+- **A [[c/_charge|charge]] made to students and [[b/_barristers|barristers]] for incidental repairs of the rooms they occupy.**
 ---
 ### Synonyms
-- [[[[d/_damage|damage]]]], [[expense]], [[harm]], [[hurt]], [[illfare]]
+- [[damage]], [[expense]], [[harm]], [[hurt]], [[illfare]]
 ### Antonyms
-- [[[[b/_benefit|benefit]]]]
+- [[benefit]]
 #verb
-- **To be detrimental to; to harm or mar.**
+- **To be [[d/_detrimental|detrimental]] to; to harm or mar.**
 ---
 ---

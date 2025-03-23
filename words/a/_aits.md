@@ -1,10 +1,10 @@
 # Aits
 ---
 #noun
-- **An island in a river, especially the River Thames in England.**
+- **An island in a river, especially the River Thames in [[e/_england|England]].**
 ---
 ### Synonyms
-- [[[[e/_eyot|eyot]]]]
+- [[eyot]]
 #noun
 - **An oat.**
 ---

@@ -1,23 +1,23 @@
 # Dotted
 ---
 #verb
-- **To cover with small spots (of some liquid).**
+- **To [[c/_cover|cover]] with small spots (of some liquid).**
 	- _Example: His jacket was dotted with splashes of paint._
-- **To add a dot (the symbol) or dots to.**
+- **To [[a/_add|add]] a [[d/_dot|dot]] (the symbol) or [[d/_dots|dots]] to.**
 	- _Example: Dot your is and cross your ts._
-- **To mark by means of dots or small spots.**
+- **To mark by means of [[d/_dots|dots]] or small spots.**
 	- _Example: to dot a line_
-- **To mark or diversify with small detached objects.**
+- **To mark or [[d/_diversify|diversify]] with small [[d/_detached|detached]] objects.**
 	- _Example: to dot a landscape with cottages_
 - **To punch (a person).**
 ---
 ### Synonyms
 - [[stipple]]
 #adjective
-- **(of a line) Made up of a series of dots.**
+- **(of a line) Made up of a series of [[d/_dots|dots]].**
 	- _Example: Please print your name and address clearly on the dotted line._
-- **(usually computing) That contains dots.**
-- **(of notes and rests) With a dot after, increasing the value of the duration by half of the basic note.**
-- **Covered with irregularly scattered objects.**
+- **(usually [[c/_computing|computing]]) That [[c/_contains|contains]] [[d/_dots|dots]].**
+- **(of notes and rests) With a [[d/_dot|dot]] [[a/_after|after]], increasing the value of the [[d/_duration|duration]] by half of the [[b/_basic|basic]] note.**
+- **[[c/_covered|Covered]] with irregularly scattered objects.**
 ---
 ---

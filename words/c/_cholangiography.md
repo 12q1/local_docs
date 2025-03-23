@@ -1,6 +1,6 @@
 # Cholangiography
 ---
 #noun
-- **The diagnostic imaging of the bile duct by means of X-rays.**
+- **The [[d/_diagnostic|diagnostic]] imaging of the [[b/_bile|bile]] [[d/_duct|duct]] by means of X-rays.**
 ---
 ---

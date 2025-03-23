@@ -1,8 +1,8 @@
 # Crawdad
 ---
 #noun
-- **The crayfish.**
+- **The [[c/_crayfish|crayfish]].**
 ---
 ### Synonyms
-- [[[[c/_crawfish|crawfish]]]], [[crawldad]], [[crawlfish]], [[[[c/_crayfish|crayfish]]]], [[mudbug]], [[yabby]]
+- [[crawfish]], [[crawldad]], [[crawlfish]], [[crayfish]], [[mudbug]], [[yabby]]
 ---

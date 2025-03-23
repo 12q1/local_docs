@@ -1,9 +1,9 @@
 # Devitalised
 ---
 #adjective
-- **Deprived of vitality**
+- **[[d/_deprived|Deprived]] of vitality**
 ---
 #verb
-- **To deprive of vitality; to make lifeless; to weaken.**
+- **To [[d/_deprive|deprive]] of vitality; to make lifeless; to weaken.**
 ---
 ---

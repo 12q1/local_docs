@@ -1,11 +1,11 @@
 # Colonialist
 ---
 #noun
-- **An advocate of colonialism.**
+- **An [[a/_advocate|advocate]] of [[c/_colonialism|colonialism]].**
 ---
 #adjective
-- **Of or pertaining to colonialism.**
+- **Of or pertaining to [[c/_colonialism|colonialism]].**
 ---
 ### Synonyms
-- [[[[c/_colonialistic|colonialistic]]]]
+- [[colonialistic]]
 ---

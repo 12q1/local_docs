@@ -1,6 +1,6 @@
 # Cheesewood
 ---
 #noun
-- **Any of various plants:**
+- **[[a/_any|Any]] of various plants:**
 ---
 ---

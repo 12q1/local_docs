@@ -4,9 +4,9 @@
 - **A slothful or stupid person.**
 ---
 ### Synonyms
-- [[[[d/_dullard|dullard]]]]
+- [[dullard]]
 #adjective
-- **Boring, uninteresting.**
+- **[[b/_boring|Boring]], uninteresting.**
 	- _Example: She quit her doldrum job and left to seek a life of adventure._
 ---
 ### Synonyms

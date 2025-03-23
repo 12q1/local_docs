@@ -1,12 +1,12 @@
 # Agglutinative
 ---
 #noun
-- **A sticky material; an adhesive**
+- **A sticky material; an [[a/_adhesive|adhesive]]**
 ---
 #adjective
-- **Sticky, tacky, adhesive**
-- **Having words derived by combining parts, each with a separate meaning**
+- **Sticky, tacky, [[a/_adhesive|adhesive]]**
+- **Having words [[d/_derived|derived]] by [[c/_combining|combining]] parts, [[e/_each|each]] with a separate meaning**
 ---
 ### Synonyms
-- [[[[c/_claggy|claggy]]]], [[tenacious]]
+- [[claggy]], [[tenacious]]
 ---

@@ -1,6 +1,6 @@
 # Diorama
 ---
 #noun
-- **A three-dimensional display of a scenery, often having a painted background in front of which models are arranged, e.g. in a museum where stuffed animals are presented against a painted landscape.**
+- **A three-[[d/_dimensional|dimensional]] [[d/_display|display]] of a scenery, often having a painted [[b/_background|background]] in front of which models are [[a/_arranged|arranged]], [[e/_e|e]].g. in a museum where stuffed [[a/_animals|animals]] are presented [[a/_against|against]] a painted landscape.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Diffusionist
 ---
 #noun
-- **A proponent of diffusionism**
+- **A proponent of [[d/_diffusionism|diffusionism]]**
 ---
 #adjective
-- **Of or pertaining to diffusionism**
+- **Of or pertaining to [[d/_diffusionism|diffusionism]]**
 ---
 ---

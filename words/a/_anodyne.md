@@ -1,15 +1,15 @@
 # Anodyne
 ---
 #noun
-- **Any medicine or other agent that relieves pain**
-- **A source of relaxation or comfort**
+- **[[a/_any|Any]] medicine or other [[a/_agent|agent]] that relieves pain**
+- **A source of relaxation or [[c/_comfort|comfort]]**
 ---
 #adjective
-- **(pharmaceutical effect) capable of soothing or eliminating pain**
+- **(pharmaceutical [[e/_effect|effect]]) [[c/_capable|capable]] of soothing or [[e/_eliminating|eliminating]] pain**
 - **Soothing or relaxing**
 	- _Example: Classical music is rather anodyne._
-- **(by extension) noncontentious, blandly agreeable, unlikely to cause offence or debate**
+- **(by extension) noncontentious, [[b/_blandly|blandly]] [[a/_agreeable|agreeable]], unlikely to [[c/_cause|cause]] offence or [[d/_debate|debate]]**
 ---
 ### Synonyms
-- [[[[b/_bland|bland]]]], [[inoffensive]], [[noncontentious]]
+- [[bland]], [[inoffensive]], [[noncontentious]]
 ---

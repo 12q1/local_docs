@@ -1,16 +1,16 @@
 # Earthly
 ---
 #noun
-- **(collective or in the plural) That which is of the earth or earthly; a terrestrial being.**
-- **A slightest chance (of success etc.) or idea (about something).**
+- **([[c/_collective|collective]] or in the plural) That which is of the [[e/_earth|earth]] or [[e/_earthly|earthly]]; a terrestrial [[b/_being|being]].**
+- **A slightest [[c/_chance|chance]] (of success etc.) or idea ([[a/_about|about]] something).**
 ---
 #adjective
-- **Relating to the earth or this world, as opposed to heaven; terrestrial.**
+- **Relating to the [[e/_earth|earth]] or this world, as opposed to heaven; terrestrial.**
 	- _Example: earthly joys_
-- **(negative) Used for emphasis**
-- **Made of earth; earthy.**
+- **(negative) Used for [[e/_emphasis|emphasis]]**
+- **Made of [[e/_earth|earth]]; [[e/_earthy|earthy]].**
 ---
 #adverb
-- **In an earthly manner**
+- **In an [[e/_earthly|earthly]] manner**
 ---
 ---

@@ -1,8 +1,8 @@
 # Cardiogram
 ---
 #noun
-- **The visual output an electrocardiograph produces**
+- **The visual output an [[e/_electrocardiograph|electrocardiograph]] produces**
 ---
 ### Synonyms
-- [[[[e/_electrocardiogram|electrocardiogram]]]]
+- [[electrocardiogram]]
 ---

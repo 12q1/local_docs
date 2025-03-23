@@ -1,8 +1,8 @@
 # Directress
 ---
 #noun
-- **A female director.**
+- **A female [[d/_director|director]].**
 ---
 ### Synonyms
-- [[[[d/_directrix|directrix]]]]
+- [[directrix]]
 ---

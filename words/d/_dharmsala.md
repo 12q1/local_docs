@@ -1,6 +1,6 @@
 # Dharmsala
 ---
 #noun
-- **A charitable or religious house, especially a resthouse for travellers.**
+- **A [[c/_charitable|charitable]] or religious house, especially a resthouse for travellers.**
 ---
 ---

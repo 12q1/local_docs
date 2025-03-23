@@ -1,17 +1,17 @@
 # Albino
 ---
 #noun
-- **A person or animal congenitally lacking melanin pigmentation in the skin, eyes, and hair or feathers (or more rarely only in the eyes); one born with albinism.**
+- **A person or [[a/_animal|animal]] [[c/_congenitally|congenitally]] lacking melanin pigmentation in the skin, [[e/_eyes|eyes]], and hair or feathers (or more rarely only in the [[e/_eyes|eyes]]); one [[b/_born|born]] with [[a/_albinism|albinism]].**
 ---
 ### Synonyms
 - [[albinoid]], [[amelanoid]], [[hypomelanoid]]
 ### Antonyms
 - [[hypermelanoid]], [[melano]], [[melanoid]]
 #adjective
-- **Congenitally lacking melanin pigmentation in the skin, eyes, and hair or feathers (or more rarely only in the eyes); born with albinism.**
+- **[[c/_congenitally|Congenitally]] lacking melanin pigmentation in the skin, [[e/_eyes|eyes]], and hair or feathers (or more rarely only in the [[e/_eyes|eyes]]); [[b/_born|born]] with [[a/_albinism|albinism]].**
 ---
 ### Synonyms
-- [[[[a/_albinal|albinal]]]], [[[[a/_albinic|albinic]]]], [[[[a/_albinistic|albinistic]]]], [[albinoid]], [[amelanistic]], [[amelanoid]], [[hypomelanistic]], [[hypomelanoid]]
+- [[albinal]], [[albinic]], [[albinistic]], [[albinoid]], [[amelanistic]], [[amelanoid]], [[hypomelanistic]], [[hypomelanoid]]
 ### Antonyms
 - [[hypermelanistic]], [[hypermelanoid]], [[melanistic]], [[melanoid]]
 ---

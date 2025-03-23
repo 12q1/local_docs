@@ -1,9 +1,9 @@
 # Cadastral
 ---
 #noun
-- **A cadastre.**
+- **A [[c/_cadastre|cadastre]].**
 ---
 #adjective
-- **Of or relating to a cadastre**
+- **Of or relating to a [[c/_cadastre|cadastre]]**
 ---
 ---

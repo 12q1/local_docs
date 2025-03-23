@@ -1,6 +1,6 @@
 # Azobenzene
 ---
 #noun
-- **An aromatic azo compound, diphenyl diazene, the basis of many dyes.**
+- **An [[a/_aromatic|aromatic]] [[a/_azo|azo]] [[c/_compound|compound]], [[d/_diphenyl|diphenyl]] diazene, the [[b/_basis|basis]] of many [[d/_dyes|dyes]].**
 ---
 ---

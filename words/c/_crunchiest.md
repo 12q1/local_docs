@@ -1,10 +1,10 @@
 # Crunchiest
 ---
 #adjective
-- **Likely to crunch, especially with reference to food when it is eaten.**
-- **Having sensibilities of a counter-culture nature lover or hippie; derived from the concept of crunchy granola.**
+- **Likely to [[c/_crunch|crunch]], especially with reference to food when it is [[e/_eaten|eaten]].**
+- **Having sensibilities of a [[c/_counter|counter]]-[[c/_culture|culture]] nature lover or hippie; [[d/_derived|derived]] from the [[c/_concept|concept]] of [[c/_crunchy|crunchy]] granola.**
 	- _Example: San Francisco is a very crunchy town._
 ---
 ### Synonyms
-- [[[[c/_crispy|crispy]]]]
+- [[crispy]]
 ---

@@ -1,7 +1,7 @@
 # Catenary
 ---
 #adjective
-- **Relating to a chain; like a chain.**
-- **Relating to a catena.**
+- **Relating to a [[c/_chain|chain]]; like a [[c/_chain|chain]].**
+- **Relating to a [[c/_catena|catena]].**
 ---
 ---

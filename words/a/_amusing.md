@@ -1,17 +1,17 @@
 # Amusing
 ---
 #verb
-- **To entertain or occupy in a pleasant manner; to stir with pleasing emotions.**
+- **To [[e/_entertain|entertain]] or occupy in a pleasant manner; to stir with pleasing [[e/_emotions|emotions]].**
 	- _Example: I watch these movies because they amuse me._
-- **To cause laughter or amusement; to be funny.**
+- **To [[c/_cause|cause]] laughter or [[a/_amusement|amusement]]; to be funny.**
 	- _Example: His jokes rarely fail to amuse._
-- **To keep in expectation; to beguile; to delude.**
-- **To occupy or engage the attention of; to lose in deep thought; to absorb; also, to distract; to bewilder.**
+- **To keep in expectation; to [[b/_beguile|beguile]]; to [[d/_delude|delude]].**
+- **To occupy or [[e/_engage|engage]] the [[a/_attention|attention]] of; to lose in [[d/_deep|deep]] thought; to [[a/_absorb|absorb]]; [[a/_also|also]], to [[d/_distract|distract]]; to [[b/_bewilder|bewilder]].**
 ---
 ### Synonyms
-- [[[[b/_beguile|beguile]]]], [[[[d/_divert|divert]]]], [[[[e/_entertain|entertain]]]], [[exhilarate]], [[gratify]], [[please]]
+- [[beguile]], [[divert]], [[entertain]], [[exhilarate]], [[gratify]], [[please]]
 #adjective
-- **Entertaining.**
+- **[[e/_entertaining|Entertaining]].**
 	- _Example: The film has some amusing moments, but it is unlikely to make you laugh out loud._
 - **Funny, hilarious.**
 ---

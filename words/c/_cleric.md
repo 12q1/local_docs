@@ -1,6 +1,6 @@
 # Cleric
 ---
 #noun
-- **A clergy member.**
+- **A [[c/_clergy|clergy]] member.**
 ---
 ---

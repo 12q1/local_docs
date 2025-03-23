@@ -1,17 +1,17 @@
 # Bushel
 ---
 #noun
-- **A dry measure, containing four pecks, eight gallons, or thirty-two quarts.**
-- **A vessel of the capacity of a bushel, used in measuring; a bushel measure.**
-- **A quantity that fills a bushel measure.**
+- **A [[d/_dry|dry]] measure, [[c/_containing|containing]] four pecks, [[e/_eight|eight]] gallons, or thirty-two quarts.**
+- **A vessel of the [[c/_capacity|capacity]] of a [[b/_bushel|bushel]], used in measuring; a [[b/_bushel|bushel]] measure.**
+- **A quantity that fills a [[b/_bushel|bushel]] measure.**
 	- _Example: a heap containing ten bushels of apples_
 - **A large indefinite quantity.**
 - **The iron lining in the nave of a wheel.**
 ---
 ### Synonyms
-- [[[[b/_box|box]]]]
+- [[box]]
 #verb
-- **To mend or repair clothes.**
-- **To pack grain, hops, etc. into bushel measures.**
+- **To mend or repair [[c/_clothes|clothes]].**
+- **To pack grain, hops, etc. into [[b/_bushel|bushel]] measures.**
 ---
 ---

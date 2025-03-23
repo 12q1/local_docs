@@ -1,15 +1,15 @@
 # Deportment
 ---
 #noun
-- **Bearing; manner of presenting oneself.**
+- **[[b/_bearing|Bearing]]; manner of presenting oneself.**
 	- _Example: Her deportment impressed her interviewers._
-- **Conduct; public behavior.**
+- **[[c/_conduct|Conduct]]; public [[b/_behavior|behavior]].**
 	- _Example: Their deportment changed visibly as the policeman approached._
-- **Apparent level of schooling or training.**
+- **[[a/_apparent|Apparent]] level of schooling or training.**
 	- _Example: His academic deportment did not match his degree record._
-- **Self-discipline.**
+- **Self-[[d/_discipline|discipline]].**
 	- _Example: The nun's deportment reflected her vocation._
 ---
 ### Synonyms
-- [[[[b/_bearing|bearing]]]], [[[[c/_comportment|comportment]]]], [[posture]], [[[[b/_behavior|behavior]]]], [[[[c/_conduct|conduct]]]]
+- [[bearing]], [[comportment]], [[posture]], [[behavior]], [[conduct]]
 ---

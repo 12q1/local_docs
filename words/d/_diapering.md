@@ -1,12 +1,12 @@
 # Diapering
 ---
 #verb
-- **To put diapers on someone.**
+- **To put [[d/_diapers|diapers]] on someone.**
 	- _Example: Diapering a baby is something you have to learn fast._
-- **To draw flowers or figures, as upon cloth.**
+- **To [[d/_draw|draw]] flowers or figures, as upon [[c/_cloth|cloth]].**
 ---
 #noun
-- **The act of clothing somebody in a diaper.**
+- **The [[a/_act|act]] of [[c/_clothing|clothing]] somebody in a [[d/_diaper|diaper]].**
 - **A regular pattern of the same shape, evenly spaced.**
 ---
 ---

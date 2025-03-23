@@ -1,16 +1,16 @@
 # Disgrace
 ---
 #noun
-- **The condition of being out of favor; loss of favor, regard, or respect.**
-- **The state of being dishonored, or covered with shame.**
+- **The [[c/_condition|condition]] of [[b/_being|being]] out of favor; loss of favor, regard, or respect.**
+- **The state of [[b/_being|being]] [[d/_dishonored|dishonored]], or [[c/_covered|covered]] with shame.**
 	- _Example: Now she lives in disgrace._
-- **Something which brings dishonor; the cause of reproach or shame; great discredit.**
+- **Something which [[b/_brings|brings]] [[d/_dishonor|dishonor]]; the [[c/_cause|cause]] of reproach or shame; great [[d/_discredit|discredit]].**
 	- _Example: His behaviour at the party was a total disgrace! He was leeching on all the ladies, and insulting the men._
-- **An act of unkindness; a disfavor.**
+- **An [[a/_act|act]] of unkindness; a [[d/_disfavor|disfavor]].**
 ---
 ### Synonyms
-- [[[[d/_dishonor|dishonor]]]], [[ignominy]], [[misgrace]]
+- [[dishonor]], [[ignominy]], [[misgrace]]
 #verb
-- **To put someone out of favor; to bring shame or ignominy upon.**
+- **To put someone out of favor; to [[b/_bring|bring]] shame or ignominy upon.**
 ---
 ---

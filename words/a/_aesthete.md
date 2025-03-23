@@ -1,6 +1,6 @@
 # Aesthete
 ---
 #noun
-- **Someone who cultivates an unusually high sensitivity to beauty, as in art or nature.**
+- **Someone who [[c/_cultivates|cultivates]] an unusually high sensitivity to [[b/_beauty|beauty]], as in [[a/_art|art]] or nature.**
 ---
 ---

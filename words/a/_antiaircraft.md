@@ -1,15 +1,15 @@
 # Antiaircraft
 ---
 #noun
-- **Anti-aircraft artillery.**
-- **An anti-aircraft artillery organization.**
-- **Anti-aircraft fire.**
+- **[[a/_anti|Anti]]-[[a/_aircraft|aircraft]] [[a/_artillery|artillery]].**
+- **An [[a/_anti|anti]]-[[a/_aircraft|aircraft]] [[a/_artillery|artillery]] organization.**
+- **[[a/_anti|Anti]]-[[a/_aircraft|aircraft]] fire.**
 ---
 ### Synonyms
-- [[[[a/_aa|AA]]]], [[[[d/_double|double]]-A]], [[[[a/_aaa|AAA]]]], [[triple-A]], [[[[a/_archie|Archie]]]], [[[[a/_ack|ack]]-[[a/_ack|ack]]]], [[[[a/_air|air]] [[d/_defence|defence]]]], [[[[a/_air|air]] [[d/_defense|defense]]]]
+- [[AA]], [[double-A]], [[AAA]], [[triple-A]], [[Archie]], [[ack-ack]], [[air defence]], [[air defense]]
 #adjective
-- **Intended to attack aircraft.**
+- **Intended to [[a/_attack|attack]] [[a/_aircraft|aircraft]].**
 ---
 ### Synonyms
-- [[[[a/_aa|AA]]]], [[[[d/_double|double]]-A]], [[[[a/_aaa|AAA]]]], [[triple-A]], [[[[a/_ack|ack]]-[[a/_ack|ack]]]], [[[[a/_air|air]]-[[d/_defence|defence]]]], [[[[a/_air|air]]-[[d/_defense|defense]]]], [[[[a/_anti|anti]]-[[a/_air|air]]]]
+- [[AA]], [[double-A]], [[AAA]], [[triple-A]], [[ack-ack]], [[air-defence]], [[air-defense]], [[anti-air]]
 ---

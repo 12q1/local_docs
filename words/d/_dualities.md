@@ -1,10 +1,10 @@
 # Dualities
 ---
 #noun
-- **A classification into two subclasses or opposed parts.**
+- **A [[c/_classification|classification]] into two subclasses or opposed parts.**
 - **(projective geometry) The interchangeability of points and planes.**
-- **The mathematical equivalence of two seemingly different theoretical descriptions of a physical system.**
+- **The mathematical equivalence of two seemingly [[d/_different|different]] theoretical [[d/_descriptions|descriptions]] of a physical system.**
 ---
 ### Synonyms
-- [[[[d/_dichotomy|dichotomy]]]]
+- [[dichotomy]]
 ---

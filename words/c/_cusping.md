@@ -1,9 +1,9 @@
 # Cusping
 ---
 #verb
-- **To behave in a reckless or dangerous manner.**
+- **To [[b/_behave|behave]] in a reckless or [[d/_dangerous|dangerous]] manner.**
 ---
 #noun
-- **A formation of cusps.**
+- **A formation of [[c/_cusps|cusps]].**
 ---
 ---

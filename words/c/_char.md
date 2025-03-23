@@ -1,16 +1,16 @@
 # Char
 ---
 #noun
-- **A charred substance.**
+- **A [[c/_charred|charred]] substance.**
 ---
 ### Synonyms
-- [[[[c/_charcoal|charcoal]]]]
+- [[charcoal]]
 #verb
-- **To burn something to charcoal.**
-- **To burn slightly or superficially so as to affect colour.**
+- **To [[b/_burn|burn]] something to [[c/_charcoal|charcoal]].**
+- **To [[b/_burn|burn]] slightly or superficially so as to [[a/_affect|affect]] [[c/_colour|colour]].**
 ---
 ### Synonyms
-- [[[[b/_blacken|blacken]]]], [[scorch]], [[sear]], [[singe]], [[[[c/_coal|coal]]]]
+- [[blacken]], [[scorch]], [[sear]], [[singe]], [[coal]]
 #noun
 - **One of the several species of fishes of the genus Salvelinus.**
 	- _Example: Among other native delicacies, they give you fresh char._

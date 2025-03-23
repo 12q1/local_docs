@@ -1,6 +1,6 @@
 # Brainteaser
 ---
 #noun
-- **A difficult problem or puzzle.**
+- **A [[d/_difficult|difficult]] problem or puzzle.**
 ---
 ---

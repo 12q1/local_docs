@@ -1,6 +1,6 @@
 # Effortless
 ---
 #adjective
-- **Without effort.**
+- **Without [[e/_effort|effort]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Disinfections
 ---
 #noun
-- **Treatment with disinfectant materials in order to destroy harmful microorganisms**
+- **Treatment with [[d/_disinfectant|disinfectant]] materials in order to [[d/_destroy|destroy]] harmful microorganisms**
 ---
 ---

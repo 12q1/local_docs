@@ -1,6 +1,6 @@
 # Caatinga
 ---
 #noun
-- **A sparse, thorny wooded area of northeastern Brazil containing drought-resistant trees.**
+- **A sparse, thorny wooded [[a/_area|area]] of northeastern [[b/_brazil|Brazil]] [[c/_containing|containing]] [[d/_drought|drought]]-resistant trees.**
 ---
 ---

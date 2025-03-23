@@ -1,8 +1,8 @@
 # Detritus
 ---
 #noun
-- **(chiefly geological) Pieces of rock broken off by ice, glacier, or erosion.**
-- **Organic waste material from decomposing dead plants or animals.**
-- **Debris or fragments of disintegrated material.**
+- **([[c/_chiefly|chiefly]] geological) Pieces of rock [[b/_broken|broken]] off by ice, glacier, or erosion.**
+- **Organic waste material from [[d/_decomposing|decomposing]] [[d/_dead|dead]] plants or [[a/_animals|animals]].**
+- **[[d/_debris|Debris]] or fragments of [[d/_disintegrated|disintegrated]] material.**
 ---
 ---

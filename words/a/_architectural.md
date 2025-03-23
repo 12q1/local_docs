@@ -1,7 +1,7 @@
 # Architectural
 ---
 #adjective
-- **Pertaining to architecture.**
-- **Resembling architecture in style; seeming to have been designed (by an architect).**
+- **Pertaining to [[a/_architecture|architecture]].**
+- **Resembling [[a/_architecture|architecture]] in style; seeming to have [[b/_been|been]] [[d/_designed|designed]] (by an [[a/_architect|architect]]).**
 ---
 ---

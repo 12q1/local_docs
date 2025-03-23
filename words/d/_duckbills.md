@@ -1,9 +1,9 @@
 # Duckbills
 ---
 #noun
-- **The duck-billed platypus.**
+- **The [[d/_duck|duck]]-[[b/_billed|billed]] platypus.**
 - **A hadrosaur.**
 - **A fish of the family Percophidae**
-- **Bull ray (Aetomylaeus bovinus, now Pteromylaeus bovinus).**
+- **[[b/_bull|Bull]] ray (Aetomylaeus bovinus, now Pteromylaeus bovinus).**
 ---
 ---

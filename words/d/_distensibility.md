@@ -1,6 +1,6 @@
 # Distensibility
 ---
 #noun
-- **Capability of swelling or stretching.**
+- **[[c/_capability|Capability]] of swelling or stretching.**
 ---
 ---

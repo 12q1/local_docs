@@ -2,12 +2,12 @@
 ---
 #noun
 - **An order by the government prohibiting ships from leaving port.**
-- **A ban on trade with another country.**
-- **A temporary ban on making certain information public.**
+- **A [[b/_ban|ban]] on trade with [[a/_another|another]] [[c/_country|country]].**
+- **A temporary [[b/_ban|ban]] on making [[c/_certain|certain]] information public.**
 	- _Example: This copy of the federal budget is under embargo until 2 p.m._
 ---
 #verb
-- **To impose an embargo on trading certain goods with another country.**
-- **To impose an embargo on a document.**
+- **To impose an [[e/_embargo|embargo]] on trading [[c/_certain|certain]] goods with [[a/_another|another]] [[c/_country|country]].**
+- **To impose an [[e/_embargo|embargo]] on a [[d/_document|document]].**
 ---
 ---

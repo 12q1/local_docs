@@ -4,8 +4,8 @@
 - **(racial slur) A Mexican.**
 ---
 #noun
-- **A pitch deliberately thrown at the head (the bean) of the batter.**
+- **A pitch [[d/_deliberately|deliberately]] thrown at the head (the [[b/_bean|bean]]) of the [[b/_batter|batter]].**
 - **(by extension) Head.**
-- **A superior or admirable person; something excellent.**
+- **A superior or [[a/_admirable|admirable]] person; something excellent.**
 ---
 ---

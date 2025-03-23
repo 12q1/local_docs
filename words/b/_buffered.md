@@ -1,13 +1,13 @@
 # Buffered
 ---
 #verb
-- **To use a buffer or buffers; to isolate or minimize the effects of one thing on another.**
-- **To store data in memory temporarily.**
-- **To maintain the acidity of a solution near a chosen value by adding an acid or a base.**
+- **To use a [[b/_buffer|buffer]] or [[b/_buffers|buffers]]; to isolate or minimize the [[e/_effects|effects]] of one thing on [[a/_another|another]].**
+- **To store [[d/_data|data]] in memory temporarily.**
+- **To maintain the [[a/_acidity|acidity]] of a solution near a [[c/_chosen|chosen]] value by [[a/_adding|adding]] an [[a/_acid|acid]] or a [[b/_base|base]].**
 ---
 #adjective
-- **Using a buffer.**
+- **Using a [[b/_buffer|buffer]].**
 	- _Example: a buffered railway siding_
-- **Dissolved in a buffer solution.**
+- **[[d/_dissolved|Dissolved]] in a [[b/_buffer|buffer]] solution.**
 ---
 ---

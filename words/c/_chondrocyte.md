@@ -1,6 +1,6 @@
 # Chondrocyte
 ---
 #noun
-- **A cell that makes up the tissue of cartilage.**
+- **A [[c/_cell|cell]] that makes up the tissue of [[c/_cartilage|cartilage]].**
 ---
 ---

@@ -1,12 +1,12 @@
 # Babs
 ---
 #noun
-- **Baby**
-- **A bait for eels, consisting of a bundle of live worms.**
+- **[[b/_baby|Baby]]**
+- **A [[b/_bait|bait]] for [[e/_eels|eels]], [[c/_consisting|consisting]] of a [[b/_bundle|bundle]] of live worms.**
 ---
 ### Synonyms
-- [[[[c/_clod|clod]]]]
+- [[clod]]
 #verb
-- **To fish for eels using a bab.**
+- **To fish for [[e/_eels|eels]] using a [[b/_bab|bab]].**
 ---
 ---

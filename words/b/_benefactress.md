@@ -1,6 +1,6 @@
 # Benefactress
 ---
 #noun
-- **A female benefactor.**
+- **A female [[b/_benefactor|benefactor]].**
 ---
 ---

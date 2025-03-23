@@ -1,14 +1,14 @@
 # Discontent
 ---
 #noun
-- **Dissatisfaction.**
-- **A longing for better times or circumstances.**
-- **A discontented person; a malcontent.**
+- **[[d/_dissatisfaction|Dissatisfaction]].**
+- **A longing for [[b/_better|better]] times or [[c/_circumstances|circumstances]].**
+- **A [[d/_discontented|discontented]] person; a malcontent.**
 ---
 #verb
-- **To deprive of contentment; to make uneasy; to dissatisfy.**
+- **To [[d/_deprive|deprive]] of [[c/_contentment|contentment]]; to make uneasy; to [[d/_dissatisfy|dissatisfy]].**
 ---
 #adjective
-- **Not content; discontented; dissatisfied.**
+- **Not [[c/_content|content]]; [[d/_discontented|discontented]]; [[d/_dissatisfied|dissatisfied]].**
 ---
 ---

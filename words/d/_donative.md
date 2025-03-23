@@ -2,9 +2,9 @@
 ---
 #noun
 - **A gift; a largess; a gratuity.**
-- **(ecclesiastical law) A benefice conferred on a person by the founder or patron, without either presentation or institution by the ordinary, or induction by his orders.**
+- **([[e/_ecclesiastical|ecclesiastical]] law) A [[b/_benefice|benefice]] [[c/_conferred|conferred]] on a person by the founder or patron, without [[e/_either|either]] presentation or institution by the ordinary, or induction by his orders.**
 ---
 #adjective
-- **Being or relating to a donation.**
+- **[[b/_being|Being]] or relating to a [[d/_donation|donation]].**
 ---
 ---

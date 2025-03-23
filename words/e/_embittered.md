@@ -1,6 +1,6 @@
 # Embittered
 ---
 #verb
-- **To cause to be bitter.**
+- **To [[c/_cause|cause]] to be [[b/_bitter|bitter]].**
 ---
 ---

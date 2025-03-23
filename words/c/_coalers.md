@@ -1,6 +1,6 @@
 # Coalers
 ---
 #noun
-- **A vehicle used for carrying or supplying coal.**
+- **A vehicle used for [[c/_carrying|carrying]] or supplying [[c/_coal|coal]].**
 ---
 ---

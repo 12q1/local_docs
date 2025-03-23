@@ -1,12 +1,12 @@
 # Begrudging
 ---
 #verb
-- **To grudge about or over; be envious or covetous.**
+- **To grudge [[a/_about|about]] or over; be [[e/_envious|envious]] or [[c/_covetous|covetous]].**
 - **To be reluctant**
 - **To give reluctantly.**
 ---
 #adjective
-- **Grudgeful, envious**
+- **Grudgeful, [[e/_envious|envious]]**
 - **Reluctant**
 ---
 ---

@@ -1,6 +1,6 @@
 # Embryonated
 ---
 #adjective
-- **Containing an embryo**
+- **[[c/_containing|Containing]] an [[e/_embryo|embryo]]**
 ---
 ---

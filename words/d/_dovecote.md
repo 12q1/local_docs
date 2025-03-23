@@ -1,9 +1,9 @@
 # Dovecote
 ---
 #noun
-- **A small house or box, raised to a considerable height above the ground, and having compartments, in which domestic pigeons breed; a dove house.**
-- **In medieval Europe, a round or square structure of stone or wood, free-standing or built into a tower, in which pigeons were kept.**
+- **A small house or [[b/_box|box]], raised to a [[c/_considerable|considerable]] height [[a/_above|above]] the ground, and having [[c/_compartments|compartments]], in which [[d/_domestic|domestic]] pigeons [[b/_breed|breed]]; a [[d/_dove|dove]] house.**
+- **In medieval Europe, a round or square structure of stone or wood, free-standing or [[b/_built|built]] into a tower, in which pigeons were kept.**
 ---
 ### Synonyms
-- [[[[c/_columbarium|columbarium]]]], [[[[d/_doocot|doocot]]]], [[[[d/_dovehouse|dovehouse]]]]
+- [[columbarium]], [[doocot]], [[dovehouse]]
 ---

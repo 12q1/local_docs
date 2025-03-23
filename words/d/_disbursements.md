@@ -1,7 +1,7 @@
 # Disbursements
 ---
 #noun
-- **The act, instance, or process of disbursing.**
+- **The [[a/_act|act]], instance, or process of [[d/_disbursing|disbursing]].**
 - **Money paid out or spent.**
 ---
 ---

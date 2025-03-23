@@ -1,6 +1,6 @@
 # Enflesh
 ---
 #verb
-- **To clothe with flesh.**
+- **To [[c/_clothe|clothe]] with flesh.**
 ---
 ---

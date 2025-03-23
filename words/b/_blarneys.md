@@ -1,6 +1,6 @@
 # Blarneys
 ---
 #verb
-- **To beguile with flattery.**
+- **To [[b/_beguile|beguile]] with flattery.**
 ---
 ---

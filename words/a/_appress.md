@@ -1,6 +1,6 @@
 # Appress
 ---
 #verb
-- **To press close to.**
+- **To press [[c/_close|close]] to.**
 ---
 ---

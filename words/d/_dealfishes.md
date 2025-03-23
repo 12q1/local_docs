@@ -1,6 +1,6 @@
 # Dealfishes
 ---
 #noun
-- **A deep-sea ribbonfish, Trachipterus arcticus, from the north Atlantic**
+- **A [[d/_deep|deep]]-sea ribbonfish, Trachipterus arcticus, from the north [[a/_atlantic|Atlantic]]**
 ---
 ---

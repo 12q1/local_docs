@@ -1,30 +1,30 @@
 # Cypher
 ---
 #noun
-- **A numeric character.**
-- **Any text character.**
-- **A combination or interweaving of letters, as the initials of a name; a device; a monogram.**
+- **A numeric [[c/_character|character]].**
+- **[[a/_any|Any]] text [[c/_character|character]].**
+- **A [[c/_combination|combination]] or interweaving of letters, as the initials of a name; a [[d/_device|device]]; a monogram.**
 	- _Example: a painter's cipher, an engraver's cipher, etc._
-- **A method of transforming a text in order to conceal its meaning.**
+- **A method of transforming a text in order to [[c/_conceal|conceal]] its meaning.**
 	- _Example: The message was written in a simple cipher. Anyone could figure it out._
-- **A cryptographic system using an algorithm that converts letters or sequences of bits into ciphertext.**
-- **Ciphertext; a message concealed via a cipher.**
+- **A [[c/_cryptographic|cryptographic]] system using an [[a/_algorithm|algorithm]] that [[c/_converts|converts]] letters or sequences of [[b/_bits|bits]] into [[c/_ciphertext|ciphertext]].**
+- **[[c/_ciphertext|Ciphertext]]; a message [[c/_concealed|concealed]] via a [[c/_cipher|cipher]].**
 	- _Example: The message is clearly a cipher, but I can't figure it out._
-- **A grouping of three digits in a number, especially when delimited by commas or periods:**
+- **A grouping of three [[d/_digits|digits]] in a number, especially when [[d/_delimited|delimited]] by [[c/_commas|commas]] or periods:**
 	- _Example: The probability is 1 in 1,000,000,000,000,000 — a number having five ciphers of zeros._
-- **A fault in an organ valve which causes a pipe to sound continuously without the key having been pressed.**
+- **A fault in an organ valve which [[c/_causes|causes]] a pipe to sound [[c/_continuously|continuously]] without the key having [[b/_been|been]] pressed.**
 - **A hip-hop jam session.**
-- **The path (usually circular) shared cannabis takes through a group, an occasion of cannabis smoking.**
+- **The path (usually [[c/_circular|circular]]) shared [[c/_cannabis|cannabis]] takes through a group, an occasion of [[c/_cannabis|cannabis]] smoking.**
 - **Someone or something of no importance.**
 - **Zero.**
 ---
 ### Synonyms
-- [[monogram]], [[[[c/_code|code]]]], [[number]], [[numeral]], [[naught]], [[nothing]], [[nought]], [[oh]], [[zero]], [[nobody]], [[nonentity]], [[nothing]], [[nullity]]
+- [[monogram]], [[code]], [[number]], [[numeral]], [[naught]], [[nothing]], [[nought]], [[oh]], [[zero]], [[nobody]], [[nonentity]], [[nothing]], [[nullity]]
 #verb
-- **To calculate.**
+- **To [[c/_calculate|calculate]].**
 	- _Example: I never learned much more than how to read and cipher._
-- **To write in code or cipher.**
+- **To write in [[c/_code|code]] or [[c/_cipher|cipher]].**
 - **Of an organ pipe: to sound independent of the organ.**
-- **To decipher.**
+- **To [[d/_decipher|decipher]].**
 ---
 ---

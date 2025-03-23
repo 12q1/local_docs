@@ -2,24 +2,24 @@
 ---
 #verb
 - **To make (something) more precious or valuable.**
-- **To make (something) more expensive; to increase the cost of.**
+- **To make (something) more expensive; to increase the [[c/_cost|cost]] of.**
 - **To stress (something) as important; to exaggerate.**
-- **To make (someone) dear or precious.**
+- **To make (someone) [[d/_dear|dear]] or precious.**
 ---
 ### Synonyms
 - [[bedear]]
 #adjective
-- **Inspiring affection or love, often in a childlike way.**
+- **Inspiring [[a/_affection|affection]] or love, often in a [[c/_childlike|childlike]] way.**
 ---
 ### Synonyms
-- [[[[c/_cute|cute]]]]
+- [[cute]]
 ### Antonyms
 - [[unendearing]]
 #noun
-- **The act or process of endearing, of causing (something or someone) to be loved or to be the object of affection.**
-- **The state or characteristic of being endeared.**
-- **An expression of affection.**
+- **The [[a/_act|act]] or process of [[e/_endearing|endearing]], of [[c/_causing|causing]] (something or someone) to be loved or to be the object of [[a/_affection|affection]].**
+- **The state or [[c/_characteristic|characteristic]] of [[b/_being|being]] [[e/_endeared|endeared]].**
+- **An expression of [[a/_affection|affection]].**
 ---
 ### Synonyms
-- [[term of [[e/_endearment|endearment]]]], [[belovedness]]
+- [[term of endearment]], [[belovedness]]
 ---

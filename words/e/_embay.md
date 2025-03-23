@@ -1,6 +1,6 @@
 # Embay
 ---
 #verb
-- **To bathe; to steep.**
+- **To [[b/_bathe|bathe]]; to steep.**
 ---
 ---

@@ -1,14 +1,14 @@
 # Alkaline
 ---
 #noun
-- **An alkaline battery.**
+- **An [[a/_alkaline|alkaline]] [[b/_battery|battery]].**
 ---
 #adjective
-- **Of, or relating to an alkali, one of a class of caustic bases.**
+- **Of, or relating to an [[a/_alkali|alkali]], one of a [[c/_class|class]] of [[c/_caustic|caustic]] [[b/_bases|bases]].**
 - **Having a pH greater than 7.**
 ---
 ### Synonyms
-- [[[[b/_basic|basic]]]]
+- [[basic]]
 ### Antonyms
-- [[[[a/_acidic|acidic]]]]
+- [[acidic]]
 ---

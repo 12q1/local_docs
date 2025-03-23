@@ -1,8 +1,8 @@
 # Carriageway
 ---
 #noun
-- **The part of a road that carries traffic.**
+- **The part of a road that [[c/_carries|carries]] traffic.**
 ---
 ### Synonyms
-- [[[[d/_direction|direction]]]], [[lane]], [[roadway]], [[side]]
+- [[direction]], [[lane]], [[roadway]], [[side]]
 ---

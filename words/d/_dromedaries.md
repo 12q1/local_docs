@@ -1,9 +1,9 @@
 # Dromedaries
 ---
 #noun
-- **The single-humped camel (Camelus dromedarius).**
-- **Any swift riding camel.**
+- **The single-humped [[c/_camel|camel]] ([[c/_camelus|Camelus]] dromedarius).**
+- **[[a/_any|Any]] swift riding [[c/_camel|camel]].**
 ---
 ### Synonyms
-- [[[[a/_arabian|Arabian]] [[c/_camel|camel]]]], [[Somali [[c/_camel|camel]]]], [[[[d/_dromedarian|dromedarian]]]], [[[[d/_dromedary|dromedary]] [[c/_camel|camel]]]]
+- [[Arabian camel]], [[Somali camel]], [[dromedarian]], [[dromedary camel]]
 ---

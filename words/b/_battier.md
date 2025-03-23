@@ -1,7 +1,7 @@
 # Battier
 ---
 #adjective
-- **Mad, crazy, silly.**
-- **Belonging to, or resembling, a bat (mammal).**
+- **Mad, [[c/_crazy|crazy]], silly.**
+- **[[b/_belonging|Belonging]] to, or resembling, a [[b/_bat|bat]] (mammal).**
 ---
 ---

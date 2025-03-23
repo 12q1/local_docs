@@ -2,8 +2,8 @@
 ---
 #verb
 - **To make noisy puffing sounds, as of a steam locomotive.**
-- **To break wind.**
-- **To intermittently extinguish and reignite a powder charge.**
+- **To [[b/_break|break]] wind.**
+- **To intermittently extinguish and reignite a powder [[c/_charge|charge]].**
 ---
 #noun
 - **A noisy puffing sound, as of a steam locomotive.**

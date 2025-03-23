@@ -1,7 +1,7 @@
 # Desirability
 ---
 #noun
-- **The state of being desirable.**
+- **The state of [[b/_being|being]] [[d/_desirable|desirable]].**
 ---
 ### Antonyms
 - [[undesirability]]

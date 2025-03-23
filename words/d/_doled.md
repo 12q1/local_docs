@@ -1,6 +1,6 @@
 # Doled
 ---
 #verb
-- **To distribute in small amounts; to share out small portions of a meager resource.**
+- **To [[d/_distribute|distribute]] in small [[a/_amounts|amounts]]; to share out small portions of a meager resource.**
 ---
 ---

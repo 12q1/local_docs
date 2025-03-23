@@ -1,16 +1,16 @@
 # Domineering
 ---
 #verb
-- **To rule over or control arbitrarily or arrogantly; to tyrannize.**
+- **To rule over or [[c/_control|control]] [[a/_arbitrarily|arbitrarily]] or [[a/_arrogantly|arrogantly]]; to tyrannize.**
 ---
 #noun
-- **The act of one who domineers.**
+- **The [[a/_act|act]] of one who [[d/_domineers|domineers]].**
 ---
 #adjective
-- **Overbearing, dictatorial or authoritarian**
+- **Overbearing, [[d/_dictatorial|dictatorial]] or [[a/_authoritarian|authoritarian]]**
 ---
 ### Synonyms
-- [[[[a/_arbitrary|arbitrary]]]], [[[[a/_assertive|assertive]]]], [[[[b/_bossy|bossy]]]], [[[[c/_commanding|commanding]]]], [[[[d/_dominant|dominant]]]], [[forceful]], [[oppressive]], [[pushy]], [[regnant]], [[strong-willed]]
+- [[arbitrary]], [[assertive]], [[bossy]], [[commanding]], [[dominant]], [[forceful]], [[oppressive]], [[pushy]], [[regnant]], [[strong-willed]]
 ### Antonyms
 - [[submissive]]
 ---

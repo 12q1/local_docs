@@ -3,11 +3,11 @@
 #verb
 - **To make a sudden movement with, to jerk.**
 - **To start into motion.**
-- **To weave together, intertwine (strands of fibers, ribbons, etc.); to arrange (hair) in braids.**
-- **To mix, or make uniformly soft, by beating, rubbing, or straining, as in preparing food.**
+- **To weave together, intertwine (strands of fibers, ribbons, etc.); to [[a/_arrange|arrange]] (hair) in [[b/_braids|braids]].**
+- **To mix, or make uniformly soft, by [[b/_beating|beating]], rubbing, or straining, as in preparing food.**
 - **To reproach; to upbraid.**
 ---
 #noun
-- **A braided trimming used as decoration on clothes or curtains.**
+- **A [[b/_braided|braided]] trimming used as [[d/_decoration|decoration]] on [[c/_clothes|clothes]] or [[c/_curtains|curtains]].**
 ---
 ---

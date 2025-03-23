@@ -1,6 +1,6 @@
 # Bacterium
 ---
 #noun
-- **A single celled organism with cell walls but no nucleus or organelles.**
+- **A single [[c/_celled|celled]] organism with [[c/_cell|cell]] walls but no nucleus or organelles.**
 ---
 ---

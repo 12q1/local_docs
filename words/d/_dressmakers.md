@@ -1,6 +1,6 @@
 # Dressmakers
 ---
 #noun
-- **A person who makes tailor-made women's clothes.**
+- **A person who makes tailor-made women's [[c/_clothes|clothes]].**
 ---
 ---

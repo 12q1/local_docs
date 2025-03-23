@@ -1,6 +1,6 @@
 # Earthshattering
 ---
 #adjective
-- **Earthshaking**
+- **[[e/_earthshaking|Earthshaking]]**
 ---
 ---

@@ -1,9 +1,9 @@
 # Attaboy
 ---
 #noun
-- **A cry of "attaboy"; an accolade.**
+- **A [[c/_cry|cry]] of "[[a/_attaboy|attaboy]]"; an [[a/_accolade|accolade]].**
 ---
 #interjection
-- **Used to show encouragement or approval to a boy, man, or male animal.**
+- **Used to show [[e/_encouragement|encouragement]] or [[a/_approval|approval]] to a [[b/_boy|boy]], man, or male [[a/_animal|animal]].**
 ---
 ---

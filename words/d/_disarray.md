@@ -1,13 +1,13 @@
 # Disarray
 ---
 #noun
-- **Lack of array or regular order; disorder; confusion.**
-- **Confused attire; undress; dishabille.**
+- **Lack of [[a/_array|array]] or regular order; [[d/_disorder|disorder]]; [[c/_confusion|confusion]].**
+- **[[c/_confused|Confused]] [[a/_attire|attire]]; undress; [[d/_dishabille|dishabille]].**
 ---
 #verb
-- **To throw into disorder; to break the array of.**
-- **To take off the dress of; to unrobe.**
+- **To throw into [[d/_disorder|disorder]]; to [[b/_break|break]] the [[a/_array|array]] of.**
+- **To take off the [[d/_dress|dress]] of; to unrobe.**
 ---
 ### Antonyms
-- [[[[a/_array|array]]]]
+- [[array]]
 ---

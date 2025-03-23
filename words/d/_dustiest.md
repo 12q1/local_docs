@@ -1,11 +1,11 @@
 # Dustiest
 ---
 #adjective
-- **Covered with dust.**
-- **Powdery and resembling dust.**
+- **[[c/_covered|Covered]] with [[d/_dust|dust]].**
+- **Powdery and resembling [[d/_dust|dust]].**
 - **Grey in parts.**
-- **Ugly, disgusting (a general term of abuse)**
+- **Ugly, [[d/_disgusting|disgusting]] (a general term of [[a/_abuse|abuse]])**
 ---
 ### Synonyms
-- [[[[d/_dust|dust]]-ridden]]
+- [[dust-ridden]]
 ---

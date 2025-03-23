@@ -1,13 +1,13 @@
 # Boffo
 ---
 #noun
-- **(chiefly in the world of entertainment) A great success; a hit.**
+- **([[c/_chiefly|chiefly]] in the world of [[e/_entertainment|entertainment]]) A great success; a hit.**
 ---
 ### Synonyms
-- [[[[b/_boff|boff]]]], [[clicko]]
+- [[boff]], [[clicko]]
 #adjective
 - **Outstanding; very good or successful.**
 ---
 ### Synonyms
-- [[[[b/_boff|boff]]]], [[clicko]]
+- [[boff]], [[clicko]]
 ---

@@ -1,7 +1,7 @@
 # Dirigible
 ---
 #noun
-- **A self-propelled airship that can be steered**
+- **A self-propelled [[a/_airship|airship]] that [[c/_can|can]] be steered**
 ---
 #adjective
 - **Steerable**

@@ -1,7 +1,7 @@
 # Bombings
 ---
 #noun
-- **The action of dropping bombs from the air.**
-- **The action of placing and detonating bombs.**
+- **The [[a/_action|action]] of [[d/_dropping|dropping]] [[b/_bombs|bombs]] from the [[a/_air|air]].**
+- **The [[a/_action|action]] of placing and [[d/_detonating|detonating]] [[b/_bombs|bombs]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Crispate
 ---
 #adjective
-- **Having curled, wavy or notched edges**
+- **Having [[c/_curled|curled]], wavy or notched [[e/_edges|edges]]**
 ---
 ---

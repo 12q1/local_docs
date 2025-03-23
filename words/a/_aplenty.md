@@ -7,6 +7,6 @@
 ### Synonyms
 - [[galore]]
 #adverb
-- **Enough or more than enough.**
+- **[[e/_enough|Enough]] or more than [[e/_enough|enough]].**
 ---
 ---

@@ -1,18 +1,18 @@
 # Electrified
 ---
 #adjective
-- **Powered by electricity.**
+- **Powered by [[e/_electricity|electricity]].**
 ---
 ### Antonyms
-- [[non-[[e/_electrified|electrified]]]], [[nonelectrified]], [[unelectrified]]
+- [[non-electrified]], [[nonelectrified]], [[unelectrified]]
 #verb
-- **To supply electricity to; to charge with electricity.**
+- **To supply [[e/_electricity|electricity]] to; to [[c/_charge|charge]] with [[e/_electricity|electricity]].**
 	- _Example: to electrify a cable_
-- **To cause electricity to pass through; to affect by electricity; to give an electric shock to.**
+- **To [[c/_cause|cause]] [[e/_electricity|electricity]] to pass through; to [[a/_affect|affect]] by [[e/_electricity|electricity]]; to give an [[e/_electric|electric]] shock to.**
 	- _Example: to electrify a limb, or the body_
-- **To adapt (a home, farm, village, city, industry, railroad) for electric power.**
-- **To strongly excite, especially by something delightful or inspiring; to thrill.**
+- **To [[a/_adapt|adapt]] (a home, farm, village, [[c/_city|city]], industry, railroad) for [[e/_electric|electric]] power.**
+- **To strongly excite, especially by something [[d/_delightful|delightful]] or inspiring; to thrill.**
 	- _Example: Her performance in the play electrified the audience._
-- **To become electric.**
+- **To [[b/_become|become]] [[e/_electric|electric]].**
 ---
 ---

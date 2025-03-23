@@ -1,17 +1,17 @@
 # Battened
 ---
 #verb
-- **To become better; improve in condition, especially by feeding.**
+- **To [[b/_become|become]] [[b/_better|better]]; improve in [[c/_condition|condition]], especially by feeding.**
 - **To feed (on); to revel (in).**
 - **To thrive by feeding; grow fat; feed oneself gluttonously.**
 - **To thrive, prosper, or live in luxury, especially at the expense of others; fare sumptuously.**
 	- _Example: Robber barons who battened on the poor_
-- **To gratify a morbid appetite or craving; gloat.**
-- **To improve by feeding; fatten; make fat or cause to thrive due to plenteous feeding.**
-- **To fertilize or enrich, as land.**
+- **To gratify a morbid [[a/_appetite|appetite]] or [[c/_craving|craving]]; gloat.**
+- **To improve by feeding; fatten; make fat or [[c/_cause|cause]] to thrive [[d/_due|due]] to plenteous feeding.**
+- **To fertilize or [[e/_enrich|enrich]], as land.**
 ---
 #verb
-- **To furnish with battens.**
-- **To fasten or secure a hatch etc using battens.**
+- **To furnish with [[b/_battens|battens]].**
+- **To fasten or secure a hatch etc using [[b/_battens|battens]].**
 ---
 ---

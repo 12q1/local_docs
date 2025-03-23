@@ -1,8 +1,8 @@
 # Choreographed
 ---
 #verb
-- **To design and record the choreography for a dramatic work such as a ballet**
-- **To direct the development of a project; to orchestrate**
+- **To [[d/_design|design]] and record the [[c/_choreography|choreography]] for a [[d/_dramatic|dramatic]] work such as a [[b/_ballet|ballet]]**
+- **To [[d/_direct|direct]] the [[d/_development|development]] of a project; to orchestrate**
 ---
 #adjective
 - **Made to work together; orchestrated**

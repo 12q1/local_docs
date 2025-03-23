@@ -1,6 +1,6 @@
 # Billon
 ---
 #noun
-- **Any of several alloys of precious metals and base metals that are used (where legal) to make coins, medals etc.**
+- **[[a/_any|Any]] of several [[a/_alloys|alloys]] of precious metals and [[b/_base|base]] metals that are used (where legal) to make [[c/_coins|coins]], medals etc.**
 ---
 ---

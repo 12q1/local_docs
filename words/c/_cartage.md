@@ -1,7 +1,7 @@
 # Cartage
 ---
 #noun
-- **The transport of goods by cart; carting**
-- **A charge made for such transport**
+- **The transport of goods by [[c/_cart|cart]]; [[c/_carting|carting]]**
+- **A [[c/_charge|charge]] made for such transport**
 ---
 ---

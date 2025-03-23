@@ -1,6 +1,6 @@
 # Ascariasis
 ---
 #noun
-- **A disease of humans caused by the parasitic roundworm Ascaris lumbricoides in humans and by other species of Ascaris in other mammals.**
+- **A [[d/_disease|disease]] of humans [[c/_caused|caused]] by the parasitic roundworm [[a/_ascaris|Ascaris]] lumbricoides in humans and by other species of [[a/_ascaris|Ascaris]] in other mammals.**
 ---
 ---

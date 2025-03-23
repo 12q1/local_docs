@@ -1,6 +1,6 @@
 # Electroencephalograms
 ---
 #noun
-- **A recording of electrical brain activity (brain waves) made by an electroencephalograph.**
+- **A recording of [[e/_electrical|electrical]] [[b/_brain|brain]] [[a/_activity|activity]] ([[b/_brain|brain]] waves) made by an [[e/_electroencephalograph|electroencephalograph]].**
 ---
 ---

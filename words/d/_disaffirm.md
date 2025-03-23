@@ -1,6 +1,6 @@
 # Disaffirm
 ---
 #verb
-- **To deny, contradict or repudiate**
+- **To [[d/_deny|deny]], [[c/_contradict|contradict]] or repudiate**
 ---
 ---

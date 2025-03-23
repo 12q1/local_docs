@@ -1,10 +1,10 @@
 # Backwinding
 ---
 #verb
-- **To deflect air into the back of a sail or of a vessel**
+- **To [[d/_deflect|deflect]] [[a/_air|air]] into the [[b/_back|back]] of a sail or of a vessel**
 	- _Example: If a sailing boat's bow is pointing too high into the wind the sails backwind._
 ---
 #verb
-- **To wind backwards.**
+- **To wind [[b/_backwards|backwards]].**
 ---
 ---

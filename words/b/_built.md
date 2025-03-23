@@ -1,25 +1,25 @@
 # Built
 ---
 #verb
-- **To form (something) by combining materials or parts.**
-- **To develop or give form to (something) according to a plan or process.**
-- **To increase or strengthen (something) by adding gradually to.**
-- **To establish a basis for (something).**
-- **To form by combining materials or parts.**
-- **To develop in magnitude or extent.**
-- **To construct (software) by compiling its source code.**
-- **(of source code) To be converted into software by compilation, usually with minimal human intervention.**
+- **To form (something) by [[c/_combining|combining]] materials or parts.**
+- **To [[d/_develop|develop]] or give form to (something) [[a/_according|according]] to a plan or process.**
+- **To increase or strengthen (something) by [[a/_adding|adding]] gradually to.**
+- **To establish a [[b/_basis|basis]] for (something).**
+- **To form by [[c/_combining|combining]] materials or parts.**
+- **To [[d/_develop|develop]] in magnitude or extent.**
+- **To [[c/_construct|construct]] (software) by [[c/_compiling|compiling]] its source [[c/_code|code]].**
+- **(of source [[c/_code|code]]) To be [[c/_converted|converted]] into software by [[c/_compilation|compilation]], usually with minimal human intervention.**
 	- _Example: This code won't build any more. Have you made any changes?_
 ---
 ### Synonyms
-- [[[[c/_create|create]]]], [[[[b/_base|base]]]], [[found]], [[ground]], [[[[c/_construct|construct]]]], [[erect]], [[[[b/_build|build]] up]], [[[[e/_enlarge|enlarge]]]], [[increase]], [[strengthen]]
+- [[create]], [[base]], [[found]], [[ground]], [[construct]], [[erect]], [[build up]], [[enlarge]], [[increase]], [[strengthen]]
 ### Antonyms
-- [[[[d/_demolish|demolish]]]], [[[[d/_destroy|destroy]]]], [[ruin]], [[wreck]], [[[[d/_decrease|decrease]]]], [[[[d/_dissipate|dissipate]]]], [[weaken]]
+- [[demolish]], [[destroy]], [[ruin]], [[wreck]], [[decrease]], [[dissipate]], [[weaken]]
 #noun
-- **Shape; build; form of structure.**
+- **Shape; [[b/_build|build]]; form of structure.**
 	- _Example: the built of a ship_
 ---
 #adjective
-- **Well-built, muscular or toned.**
+- **Well-[[b/_built|built]], muscular or toned.**
 ---
 ---

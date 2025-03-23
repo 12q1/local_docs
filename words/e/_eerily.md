@@ -1,7 +1,7 @@
 # Eerily
 ---
 #adverb
-- **In an eerie manner.**
+- **In an [[e/_eerie|eerie]] manner.**
 ---
 ### Synonyms
 - [[ominously]], [[strangely]], [[uncannily]]

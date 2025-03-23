@@ -1,9 +1,9 @@
 # Dishcloths
 ---
 #noun
-- **A cloth used to wash dishes.**
-- **A cloth used to dry dishes.**
+- **A [[c/_cloth|cloth]] used to wash [[d/_dishes|dishes]].**
+- **A [[c/_cloth|cloth]] used to [[d/_dry|dry]] [[d/_dishes|dishes]].**
 ---
 ### Synonyms
-- [[[[d/_dishtowel|dishtowel]]]], [[tea [[c/_cloth|cloth]]]], [[tea towel]]
+- [[dishtowel]], [[tea cloth]], [[tea towel]]
 ---

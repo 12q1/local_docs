@@ -1,9 +1,9 @@
 # Cabman
 ---
 #noun
-- **The driver of a hackney cab.**
-- **The driver of a taxi.**
+- **The [[d/_driver|driver]] of a hackney [[c/_cab|cab]].**
+- **The [[d/_driver|driver]] of a taxi.**
 ---
 ### Synonyms
-- [[[[c/_cabdriver|cabdriver]]]]
+- [[cabdriver]]
 ---

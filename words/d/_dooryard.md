@@ -1,6 +1,6 @@
 # Dooryard
 ---
 #noun
-- **The yard near the front or back door of a house**
+- **The yard near the front or [[b/_back|back]] [[d/_door|door]] of a house**
 ---
 ---

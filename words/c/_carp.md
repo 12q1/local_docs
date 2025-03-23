@@ -1,6 +1,6 @@
 # Carp
 ---
 #noun
-- **Any of various freshwater fish of the family Cyprinidae, especially the common carp, Cyprinus carpio.**
+- **[[a/_any|Any]] of various freshwater fish of the family [[c/_cyprinidae|Cyprinidae]], especially the [[c/_common|common]] [[c/_carp|carp]], [[c/_cyprinus|Cyprinus]] carpio.**
 ---
 ---

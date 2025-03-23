@@ -2,11 +2,11 @@
 ---
 #verb
 - **To make smaller.**
-- **To become smaller.**
-- **To lessen the authority or dignity of; to put down; to degrade; to abase; to weaken; to nerf (in gaming).**
+- **To [[b/_become|become]] smaller.**
+- **To lessen the [[a/_authority|authority]] or [[d/_dignity|dignity]] of; to put [[d/_down|down]]; to [[d/_degrade|degrade]]; to [[a/_abase|abase]]; to weaken; to nerf (in gaming).**
 - **To taper.**
-- **To disappear gradually.**
-- **To take away; to subtract.**
+- **To [[d/_disappear|disappear]] gradually.**
+- **To take [[a/_away|away]]; to subtract.**
 ---
 ### Antonyms
 - [[improve]], [[renovate]], [[repair]]
@@ -18,5 +18,5 @@
 - **Reduced by a semitone**
 ---
 ### Antonyms
-- [[[[a/_augmented|augmented]]]]
+- [[augmented]]
 ---

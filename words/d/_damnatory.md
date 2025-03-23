@@ -1,6 +1,6 @@
 # Damnatory
 ---
 #adjective
-- **Containing a sentence of condemnation.**
+- **[[c/_containing|Containing]] a sentence of [[c/_condemnation|condemnation]].**
 ---
 ---

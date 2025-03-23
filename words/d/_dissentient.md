@@ -1,9 +1,9 @@
 # Dissentient
 ---
 #noun
-- **A dissenter.**
+- **A [[d/_dissenter|dissenter]].**
 ---
 #adjective
-- **Dissenting; of a different opinion.**
+- **[[d/_dissenting|Dissenting]]; of a [[d/_different|different]] opinion.**
 ---
 ---

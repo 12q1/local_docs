@@ -1,8 +1,8 @@
 # Balloonfish
 ---
 #noun
-- **A fish of the genus Diodon or Tetraodon, capable of distending its body by taking air or water into its dilatable esophagus.**
+- **A fish of the genus [[d/_diodon|Diodon]] or Tetraodon, [[c/_capable|capable]] of [[d/_distending|distending]] its [[b/_body|body]] by taking [[a/_air|air]] or water into its [[d/_dilatable|dilatable]] esophagus.**
 ---
 ### Synonyms
-- [[[[d/_diodont|diodont]]]], [[porcupinefish]]
+- [[diodont]], [[porcupinefish]]
 ---

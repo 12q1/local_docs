@@ -1,6 +1,6 @@
 # Coexist
 ---
 #verb
-- **(of two or more things, people, concepts, etc.) To exist contemporaneously or in the same area.**
+- **(of two or more things, people, [[c/_concepts|concepts]], etc.) To exist [[c/_contemporaneously|contemporaneously]] or in the same [[a/_area|area]].**
 ---
 ---

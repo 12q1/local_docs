@@ -1,8 +1,8 @@
 # Afflatuses
 ---
 #noun
-- **A sudden rush of creative impulse or inspiration, often attributed to divine influence.**
+- **A sudden rush of [[c/_creative|creative]] impulse or inspiration, often [[a/_attributed|attributed]] to [[d/_divine|divine]] influence.**
 ---
 ### Synonyms
-- [[[[a/_afflation|afflation]]]]
+- [[afflation]]
 ---

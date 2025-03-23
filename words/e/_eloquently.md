@@ -1,6 +1,6 @@
 # Eloquently
 ---
 #adverb
-- **In an eloquent manner; stated well.**
+- **In an [[e/_eloquent|eloquent]] manner; stated well.**
 ---
 ---

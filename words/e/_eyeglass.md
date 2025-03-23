@@ -1,9 +1,9 @@
 # Eyeglass
 ---
 #noun
-- **An artificial lens, especially one of a pair.**
+- **An [[a/_artificial|artificial]] lens, especially one of a pair.**
 - **A monocle.**
-- **An eyepiece.**
-- **The lens of the eye.**
+- **An [[e/_eyepiece|eyepiece]].**
+- **The lens of the [[e/_eye|eye]].**
 ---
 ---

@@ -3,14 +3,14 @@
 #verb
 - **To take out of service or to render unusable.**
 	- _Example: The Army decommissioned the Sherman tank by filling the turret with cement._
-- **To remove or revoke a commission.**
+- **To remove or revoke a [[c/_commission|commission]].**
 	- _Example: After his arrest, the officer was decommissioned from the police force._
-- **To remove or revoke a formal designation.**
+- **To remove or revoke a formal [[d/_designation|designation]].**
 	- _Example: The state highway was decommissioned and reverted to local control._
 ---
 ### Antonyms
-- [[[[c/_commission|commission]]]]
+- [[commission]]
 #noun
-- **The act by which something is decommissioned.**
+- **The [[a/_act|act]] by which something is [[d/_decommissioned|decommissioned]].**
 ---
 ---

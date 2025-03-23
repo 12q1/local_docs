@@ -1,15 +1,15 @@
 # Disarming
 ---
 #verb
-- **To deprive of weapons; to deprive of the means of attack or defense; to render defenseless.**
-- **To deprive of the means or the disposition to harm; to render harmless or innocuous**
+- **To [[d/_deprive|deprive]] of weapons; to [[d/_deprive|deprive]] of the means of [[a/_attack|attack]] or [[d/_defense|defense]]; to render [[d/_defenseless|defenseless]].**
+- **To [[d/_deprive|deprive]] of the means or the [[d/_disposition|disposition]] to harm; to render harmless or innocuous**
 	- _Example: to disarm a man's wrath_
-- **To lay down arms; to stand down.**
+- **To lay [[d/_down|down]] [[a/_arms|arms]]; to stand [[d/_down|down]].**
 - **To reduce one's own military forces.**
-- **To disable the security systems on.**
+- **To [[d/_disable|disable]] the security systems on.**
 ---
 #adjective
-- **Charming; likely to put one at ease.**
+- **[[c/_charming|Charming]]; likely to put one at [[e/_ease|ease]].**
 	- _Example: a disarming smile_
 ---
 ---

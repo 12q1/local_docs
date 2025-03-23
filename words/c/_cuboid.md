@@ -1,10 +1,10 @@
 # Cuboid
 ---
 #noun
-- **The cuboid bone.**
+- **The [[c/_cuboid|cuboid]] [[b/_bone|bone]].**
 - **A parallelepiped having six rectangular faces.**
 ---
 #adjective
-- **Of the shape of a cube.**
+- **Of the shape of a [[c/_cube|cube]].**
 ---
 ---

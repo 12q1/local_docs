@@ -1,11 +1,11 @@
 # Courageous
 ---
 #adjective
-- **Of a person, displaying or possessing courage.**
+- **Of a person, [[d/_displaying|displaying]] or possessing [[c/_courage|courage]].**
 	- _Example: the most courageous person I have ever met_
-- **Of an action, that requires courage.**
+- **Of an [[a/_action|action]], that requires [[c/_courage|courage]].**
 	- _Example: a courageous deed_
 ---
 ### Synonyms
-- [[[[b/_bold|bold]]]], [[[[b/_brave|brave]]]], [[hardy]], [[valorous]], [[[[b/_bold|bold]]]], [[[[b/_brave|brave]]]], [[heroic]]
+- [[bold]], [[brave]], [[hardy]], [[valorous]], [[bold]], [[brave]], [[heroic]]
 ---

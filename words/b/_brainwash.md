@@ -1,10 +1,10 @@
 # Brainwash
 ---
 #noun
-- **A distorting effect upon one's memory, belief, or ideas, as by propaganda.**
+- **A [[d/_distorting|distorting]] [[e/_effect|effect]] upon one's memory, [[b/_belief|belief]], or ideas, as by propaganda.**
 ---
 #verb
-- **To affect one's mind by using extreme mental pressure or any other mind-affecting process. (e.g. hypnosis)**
-- **To take from an electronically controlled machine its stored-up information; to erase a computer's programming. (1960)**
+- **To [[a/_affect|affect]] one's mind by using extreme mental pressure or [[a/_any|any]] other mind-[[a/_affecting|affecting]] process. ([[e/_e|e]].g. hypnosis)**
+- **To take from an [[e/_electronically|electronically]] [[c/_controlled|controlled]] machine its stored-up information; to erase a [[c/_computer|computer]]'s programming. (1960)**
 ---
 ---

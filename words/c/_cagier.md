@@ -1,7 +1,7 @@
 # Cagier
 ---
 #adjective
-- **Wary, careful, shrewd.**
+- **Wary, [[c/_careful|careful]], shrewd.**
 - **Uncommunicative; unwilling or hesitant to give information.**
 ---
 ### Synonyms

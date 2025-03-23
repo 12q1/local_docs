@@ -1,8 +1,8 @@
 # Bombes
 ---
 #noun
-- **A dessert made from ice cream frozen in a (generally spherical or hemispherical) mold.**
-- **(chiefly in German cooking) A small, cylindrical or spherical chocolate-covered confection. (Compare truffle.)**
-- **An electromechanical device used in early cryptanalysis.**
+- **A [[d/_dessert|dessert]] made from ice [[c/_cream|cream]] frozen in a (generally spherical or hemispherical) mold.**
+- **([[c/_chiefly|chiefly]] in German [[c/_cooking|cooking]]) A small, [[c/_cylindrical|cylindrical]] or spherical [[c/_chocolate|chocolate]]-[[c/_covered|covered]] [[c/_confection|confection]]. ([[c/_compare|Compare]] truffle.)**
+- **An [[e/_electromechanical|electromechanical]] [[d/_device|device]] used in [[e/_early|early]] [[c/_cryptanalysis|cryptanalysis]].**
 ---
 ---

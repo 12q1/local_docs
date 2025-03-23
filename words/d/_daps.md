@@ -1,12 +1,12 @@
 # Daps
 ---
 #noun
-- **Elaborate handshake, especially hooking thumbs.**
+- **[[e/_elaborate|Elaborate]] handshake, especially hooking thumbs.**
 - **A fistbump.**
 ---
 ### Synonyms
-- [[[[d/_dab|dab]]]]
+- [[dab]]
 #verb
-- **To greet with a dap.**
+- **To greet with a [[d/_dap|dap]].**
 ---
 ---

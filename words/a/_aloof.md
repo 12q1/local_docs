@@ -1,13 +1,13 @@
 # Aloof
 ---
 #adjective
-- **Reserved and remote; either physically or emotionally distant; standoffish.**
+- **Reserved and remote; [[e/_either|either]] physically or [[e/_emotionally|emotionally]] [[d/_distant|distant]]; standoffish.**
 ---
 #adverb
-- **At or from a distance, but within view, or at a small distance; apart; away.**
+- **At or from a [[d/_distance|distance]], but within view, or at a small [[d/_distance|distance]]; [[a/_apart|apart]]; [[a/_away|away]].**
 - **Without sympathy; unfavorably.**
 ---
 #preposition
-- **Away from; clear of.**
+- **[[a/_away|Away]] from; [[c/_clear|clear]] of.**
 ---
 ---

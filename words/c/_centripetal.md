@@ -1,10 +1,10 @@
 # Centripetal
 ---
 #adjective
-- **Directed or moving towards a centre.**
-- **Of, relating to, or operated by centripetal force.**
-- **(of a nerve impulse) Directed towards the central nervous system; afferent.**
+- **[[d/_directed|Directed]] or moving towards a [[c/_centre|centre]].**
+- **Of, relating to, or operated by [[c/_centripetal|centripetal]] force.**
+- **(of a nerve impulse) [[d/_directed|Directed]] towards the [[c/_central|central]] nervous system; [[a/_afferent|afferent]].**
 ---
 ### Antonyms
-- [[[[c/_centrifugal|centrifugal]]]]
+- [[centrifugal]]
 ---

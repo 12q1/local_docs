@@ -1,9 +1,9 @@
 # Contumacious
 ---
 #adjective
-- **Contemptuous of authority; willfully disobedient; rebellious.**
-- **Willfully disobedient to the summons or orders of a court.**
+- **[[c/_contemptuous|Contemptuous]] of [[a/_authority|authority]]; willfully [[d/_disobedient|disobedient]]; rebellious.**
+- **Willfully [[d/_disobedient|disobedient]] to the summons or orders of a [[c/_court|court]].**
 ---
 ### Synonyms
-- [[[[d/_disobedient|disobedient]]]], [[insubordinate]], [[obstinate]], [[perverse]], [[rebellious]], [[stubborn]]
+- [[disobedient]], [[insubordinate]], [[obstinate]], [[perverse]], [[rebellious]], [[stubborn]]
 ---

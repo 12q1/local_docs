@@ -1,6 +1,6 @@
 # Deliration
 ---
 #noun
-- **Aberration of the mind; delirium**
+- **[[a/_aberration|Aberration]] of the mind; [[d/_delirium|delirium]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Anthropopathy
 ---
 #noun
-- **The attribution of human emotions to a god.**
+- **The [[a/_attribution|attribution]] of human [[e/_emotions|emotions]] to a god.**
 ---
 ---

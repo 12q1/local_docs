@@ -1,6 +1,6 @@
 # Autorotate
 ---
 #verb
-- **To undergo autorotation.**
+- **To undergo [[a/_autorotation|autorotation]].**
 ---
 ---

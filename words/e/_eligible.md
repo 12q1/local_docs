@@ -1,11 +1,11 @@
 # Eligible
 ---
 #noun
-- **One who is eligible.**
+- **One who is [[e/_eligible|eligible]].**
 ---
 #adjective
-- **Allowed to and meeting the necessary conditions required to participate in or be chosen for something**
-- **Worthy of being chosen (for marriage)**
+- **[[a/_allowed|Allowed]] to and meeting the necessary [[c/_conditions|conditions]] required to participate in or be [[c/_chosen|chosen]] for something**
+- **Worthy of [[b/_being|being]] [[c/_chosen|chosen]] (for marriage)**
 ---
 ### Synonyms
 - [[qualified]]

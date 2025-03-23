@@ -1,6 +1,6 @@
 # Ara
 ---
 #noun
-- **The great blue and yellow macaw (Ara ararauna).**
+- **The great [[b/_blue|blue]] and yellow macaw ([[a/_ara|Ara]] [[a/_ararauna|ararauna]]).**
 ---
 ---

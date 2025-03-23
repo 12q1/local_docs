@@ -1,7 +1,7 @@
 # Dialyse
 ---
 #verb
-- **To subject (something or someone) to dialysis.**
-- **To undergo dialysis.**
+- **To subject (something or someone) to [[d/_dialysis|dialysis]].**
+- **To undergo [[d/_dialysis|dialysis]].**
 ---
 ---

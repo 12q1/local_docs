@@ -1,9 +1,9 @@
 # Bluecoats
 ---
 #noun
-- **A traditional dress code at certain prestigious British schools**
+- **A traditional [[d/_dress|dress]] [[c/_code|code]] at [[c/_certain|certain]] prestigious [[b/_british|British]] schools**
 	- _Example: This was a bluecoat school in my day._
-- **A soldier or officer in the Union army during the American Civil War**
+- **A soldier or officer in the Union [[a/_army|army]] [[d/_during|during]] the [[a/_american|American]] [[c/_civil|Civil]] War**
 - **A policeman**
 ---
 ---

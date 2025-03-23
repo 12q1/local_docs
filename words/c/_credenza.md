@@ -1,7 +1,7 @@
 # Credenza
 ---
 #noun
-- **A sideboard or buffet.**
-- **A horizontal filing cabinet, typically placed behind a desk.**
+- **A sideboard or [[b/_buffet|buffet]].**
+- **A horizontal filing [[c/_cabinet|cabinet]], typically placed [[b/_behind|behind]] a [[d/_desk|desk]].**
 ---
 ---

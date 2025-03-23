@@ -1,17 +1,17 @@
 # Bonk
 ---
 #noun
-- **A bump on the head.**
-- **Any minor collision or random meeting.**
-- **An act of sexual intercourse.**
-- **A condition of sudden, severe fatigue in an endurance sports event caused by glycogen depletion.**
+- **A [[b/_bump|bump]] on the head.**
+- **[[a/_any|Any]] minor [[c/_collision|collision]] or random meeting.**
+- **An [[a/_act|act]] of sexual intercourse.**
+- **A [[c/_condition|condition]] of sudden, severe fatigue in an [[e/_endurance|endurance]] sports event [[c/_caused|caused]] by glycogen [[d/_depletion|depletion]].**
 ---
 #verb
-- **To strike or collide with something.**
+- **To strike or [[c/_collide|collide]] with something.**
 - **To have sexual intercourse.**
-- **To hit something with the front of the board, especially in midair.**
-- **To experience sudden and severe fatigue in an endurance sports event due to glycogen depletion.**
+- **To hit something with the front of the [[b/_board|board]], especially in midair.**
+- **To experience sudden and severe fatigue in an [[e/_endurance|endurance]] sports event [[d/_due|due]] to glycogen [[d/_depletion|depletion]].**
 ---
 ### Synonyms
-- [[hit the wall]], [[boink]], [[[[d/_discuss|discuss]] Uganda]], [[have sex]]
+- [[hit the wall]], [[boink]], [[discuss Uganda]], [[have sex]]
 ---

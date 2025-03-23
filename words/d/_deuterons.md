@@ -1,8 +1,8 @@
 # Deuterons
 ---
 #noun
-- **The atomic nucleus of a deuterium atom, consisting of a proton and a neutron**
+- **The [[a/_atomic|atomic]] nucleus of a [[d/_deuterium|deuterium]] [[a/_atom|atom]], [[c/_consisting|consisting]] of a proton and a neutron**
 ---
 ### Synonyms
-- [[[[d/_d|D]]+]]
+- [[D+]]
 ---

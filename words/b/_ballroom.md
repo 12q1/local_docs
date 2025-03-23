@@ -1,10 +1,10 @@
 # Ballroom
 ---
 #noun
-- **A large room used for dancing and banquets.**
-- **A type of elegant dance.**
+- **A large room used for [[d/_dancing|dancing]] and [[b/_banquets|banquets]].**
+- **A type of [[e/_elegant|elegant]] [[d/_dance|dance]].**
 ---
 #verb
-- **To take part in ballroom dancing.**
+- **To take part in [[b/_ballroom|ballroom]] [[d/_dancing|dancing]].**
 ---
 ---

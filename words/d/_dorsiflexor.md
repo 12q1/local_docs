@@ -1,6 +1,6 @@
 # Dorsiflexor
 ---
 #noun
-- **A muscle that causes dorsiflexion when it contracts**
+- **A muscle that [[c/_causes|causes]] [[d/_dorsiflexion|dorsiflexion]] when it [[c/_contracts|contracts]]**
 ---
 ---

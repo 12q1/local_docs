@@ -1,6 +1,6 @@
 # Diffusible
 ---
 #adjective
-- **Able to be diffused**
+- **[[a/_able|Able]] to be [[d/_diffused|diffused]]**
 ---
 ---

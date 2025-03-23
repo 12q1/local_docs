@@ -1,6 +1,6 @@
 # Contumelies
 ---
 #noun
-- **Offensive and abusive language or behaviour; scorn, insult.**
+- **Offensive and [[a/_abusive|abusive]] language or [[b/_behaviour|behaviour]]; scorn, insult.**
 ---
 ---

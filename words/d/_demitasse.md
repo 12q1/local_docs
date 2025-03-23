@@ -1,7 +1,7 @@
 # Demitasse
 ---
 #noun
-- **A small cup of strong black coffee.**
-- **The cup in which this coffee is served.**
+- **A small [[c/_cup|cup]] of strong [[b/_black|black]] [[c/_coffee|coffee]].**
+- **The [[c/_cup|cup]] in which this [[c/_coffee|coffee]] is served.**
 ---
 ---

@@ -1,11 +1,11 @@
 # Benefitting
 ---
 #verb
-- **To be or to provide a benefit to.**
-- **To receive a benefit (from); to be a beneficiary.**
+- **To be or to provide a [[b/_benefit|benefit]] to.**
+- **To receive a [[b/_benefit|benefit]] (from); to be a [[b/_beneficiary|beneficiary]].**
 ---
 ### Synonyms
-- [[[[b/_batten|batten]]]], [[[[b/_behoove|behoove]]]], [[help]]
+- [[batten]], [[behoove]], [[help]]
 ### Antonyms
-- [[[[d/_detriment|detriment]]]], [[malefic]]
+- [[detriment]], [[malefic]]
 ---

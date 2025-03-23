@@ -1,14 +1,14 @@
 # Edifying
 ---
 #verb
-- **To build, construct.**
+- **To [[b/_build|build]], [[c/_construct|construct]].**
 - **To instruct or improve morally or intellectually.**
 ---
 #noun
-- **Edification**
+- **[[e/_edification|Edification]]**
 ---
 #adjective
-- **That educates, informs, illuminates or instructs.**
-- **That enlightens or uplifts.**
+- **That [[e/_educates|educates]], informs, illuminates or instructs.**
+- **That [[e/_enlightens|enlightens]] or uplifts.**
 ---
 ---

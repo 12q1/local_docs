@@ -1,6 +1,6 @@
 # Entamebas
 ---
 #noun
-- **Any of many parasitic amoebas, of the genus Entamoeba, that cause dysentery etc.**
+- **[[a/_any|Any]] of many parasitic [[a/_amoebas|amoebas]], of the genus [[e/_entamoeba|Entamoeba]], that [[c/_cause|cause]] [[d/_dysentery|dysentery]] etc.**
 ---
 ---

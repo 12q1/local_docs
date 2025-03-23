@@ -1,7 +1,7 @@
 # Curates
 ---
 #noun
-- **An assistant rector or vicar.**
+- **An [[a/_assistant|assistant]] rector or vicar.**
 - **A parish priest.**
 ---
 ---

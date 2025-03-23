@@ -1,19 +1,19 @@
 # Clustering
 ---
 #verb
-- **To form a cluster or group.**
+- **To form a [[c/_cluster|cluster]] or group.**
 	- _Example: The children clustered around the puppy._
-- **To collect into clusters.**
-- **To cover with clusters.**
+- **To [[c/_collect|collect]] into [[c/_clusters|clusters]].**
+- **To [[c/_cover|cover]] with [[c/_clusters|clusters]].**
 ---
 #noun
-- **The action of the verb to cluster.**
+- **The [[a/_action|action]] of the verb to [[c/_cluster|cluster]].**
 - **A grouping of a number of similar things.**
-- **(demographics) The grouping of a population based on ethnicity, economics or religion.**
-- **The undesirable contiguous grouping of elements in a hash table.**
-- **(writing) A prewriting technique consisting of writing ideas down on a sheet of paper around a central idea within a circle, with the related ideas radially joined to the circle using rays.**
+- **([[d/_demographics|demographics]]) The grouping of a population [[b/_based|based]] on ethnicity, [[e/_economics|economics]] or religion.**
+- **The undesirable [[c/_contiguous|contiguous]] grouping of [[e/_elements|elements]] in a hash table.**
+- **(writing) A prewriting technique [[c/_consisting|consisting]] of writing ideas [[d/_down|down]] on a sheet of paper [[a/_around|around]] a [[c/_central|central]] idea within a [[c/_circle|circle]], with the related ideas radially joined to the [[c/_circle|circle]] using rays.**
 ---
 #adjective
-- **Forming a cluster.**
+- **Forming a [[c/_cluster|cluster]].**
 ---
 ---

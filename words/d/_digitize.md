@@ -1,11 +1,11 @@
 # Digitize
 ---
 #verb
-- **To represent something (such as an image or sound) as a structured sequence of binary digits**
-- **To quantize a continuous or analog value; to convert it into a discrete value**
+- **To represent something (such as an image or sound) as a structured sequence of [[b/_binary|binary]] [[d/_digits|digits]]**
+- **To quantize a [[c/_continuous|continuous]] or [[a/_analog|analog]] value; to [[c/_convert|convert]] it into a [[d/_discrete|discrete]] value**
 - **To finger.**
 	- _Example: to digitize a pen_
 ---
 ### Synonyms
-- [[[[d/_digitalize|digitalize]]]]
+- [[digitalize]]
 ---

@@ -1,6 +1,6 @@
 # Corticifugal
 ---
 #adjective
-- **Leading away from the cerebral cortex**
+- **Leading [[a/_away|away]] from the [[c/_cerebral|cerebral]] [[c/_cortex|cortex]]**
 ---
 ---

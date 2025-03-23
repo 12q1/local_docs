@@ -1,10 +1,10 @@
 # Backhander
 ---
 #noun
-- **A glass of wine given out of turn, the bottle having been handed backwards.**
-- **A blow with the back of the hand.**
-- **A bribe, a secret payment.**
-- **(racquet sports) A shot played backhand, a backhand stroke.**
-- **A surfer who approaches a swell with the wave behind them ("on their backhand") rather than facing the wave ("on their forehand").**
+- **A glass of wine given out of turn, the [[b/_bottle|bottle]] having [[b/_been|been]] handed [[b/_backwards|backwards]].**
+- **A [[b/_blow|blow]] with the [[b/_back|back]] of the hand.**
+- **A [[b/_bribe|bribe]], a secret payment.**
+- **(racquet sports) A shot played [[b/_backhand|backhand]], a [[b/_backhand|backhand]] stroke.**
+- **A surfer who [[a/_approaches|approaches]] a swell with the wave [[b/_behind|behind]] them ("on their [[b/_backhand|backhand]]") rather than facing the wave ("on their forehand").**
 ---
 ---

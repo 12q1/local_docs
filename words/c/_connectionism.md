@@ -1,6 +1,6 @@
 # Connectionism
 ---
 #noun
-- **Any of several fields of psychology that model brain processes in terms of interconnected networks**
+- **[[a/_any|Any]] of several fields of psychology that model [[b/_brain|brain]] processes in terms of interconnected networks**
 ---
 ---

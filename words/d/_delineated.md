@@ -1,11 +1,11 @@
 # Delineated
 ---
 #verb
-- **To sketch out, draw or trace an outline.**
-- **To depict, represent with pictures.**
-- **To describe or depict with words or gestures.**
+- **To sketch out, [[d/_draw|draw]] or trace an outline.**
+- **To [[d/_depict|depict]], represent with pictures.**
+- **To [[d/_describe|describe]] or [[d/_depict|depict]] with words or gestures.**
 - **To outline or mark out.**
 ---
 ### Synonyms
-- [[[[d/_delimit|delimit]]]], [[[[d/_demarcate|demarcate]]]], [[[[d/_demark|demark]]]]
+- [[delimit]], [[demarcate]], [[demark]]
 ---

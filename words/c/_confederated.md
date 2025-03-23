@@ -1,6 +1,6 @@
 # Confederated
 ---
 #verb
-- **To combine in a confederacy.**
+- **To [[c/_combine|combine]] in a [[c/_confederacy|confederacy]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Declutch
 ---
 #verb
-- **To disengage the clutch on a vehicle or other engine with PTO**
+- **To [[d/_disengage|disengage]] the [[c/_clutch|clutch]] on a vehicle or other [[e/_engine|engine]] with PTO**
 ---
 ---

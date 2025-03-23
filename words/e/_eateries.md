@@ -1,6 +1,6 @@
 # Eateries
 ---
 #noun
-- **A restaurant or café; a place to purchase and eat food.**
+- **A restaurant or [[c/_caf|caf]]é; a place to purchase and [[e/_eat|eat]] food.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Emotionally
 ---
 #adverb
-- **In an emotional manner; displaying emotion.**
-- **Regarding emotions.**
+- **In an [[e/_emotional|emotional]] manner; [[d/_displaying|displaying]] [[e/_emotion|emotion]].**
+- **Regarding [[e/_emotions|emotions]].**
 	- _Example: Physically, it was easy, but emotionally it was the hardest thing I've ever done._
 ---
 ---

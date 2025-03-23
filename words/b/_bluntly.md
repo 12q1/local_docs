@@ -1,8 +1,8 @@
 # Bluntly
 ---
 #adverb
-- **In a blunt manner; without delicacy, or the usual forms of civility.**
+- **In a [[b/_blunt|blunt]] manner; without [[d/_delicacy|delicacy]], or the usual forms of [[c/_civility|civility]].**
 ---
 ### Synonyms
-- [[[[a/_abruptly|abruptly]]]], [[[[c/_coarsely|coarsely]]]], [[plainly]]
+- [[abruptly]], [[coarsely]], [[plainly]]
 ---

@@ -1,7 +1,7 @@
 # Acetabular
 ---
 #adjective
-- **Cup-shaped; saucer-shaped; acetabuliform**
-- **Related to the acetabulum**
+- **[[c/_cup|Cup]]-shaped; saucer-shaped; [[a/_acetabuliform|acetabuliform]]**
+- **Related to the [[a/_acetabulum|acetabulum]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Cacology
 ---
 #noun
-- **Poor diction or choice of words.**
+- **Poor [[d/_diction|diction]] or [[c/_choice|choice]] of words.**
 ---
 ---

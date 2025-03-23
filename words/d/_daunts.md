@@ -1,7 +1,7 @@
 # Daunts
 ---
 #verb
-- **To discourage, intimidate.**
+- **To [[d/_discourage|discourage]], intimidate.**
 - **To overwhelm.**
 ---
 ---

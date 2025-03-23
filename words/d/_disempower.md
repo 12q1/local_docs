@@ -1,10 +1,10 @@
 # Disempower
 ---
 #verb
-- **To remove confidence from (someone) to do something.**
+- **To remove [[c/_confidence|confidence]] from (someone) to [[d/_do|do]] something.**
 ---
 ### Synonyms
-- [[[[d/_demoralize|demoralize]]]], [[[[d/_dishearten|dishearten]]]], [[[[d/_dispirit|dispirit]]]]
+- [[demoralize]], [[dishearten]], [[dispirit]]
 ### Antonyms
-- [[[[e/_empower|empower]]]], [[inspire]]
+- [[empower]], [[inspire]]
 ---

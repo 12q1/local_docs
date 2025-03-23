@@ -2,6 +2,6 @@
 ---
 #noun
 - **An improvement.**
-- **An improvement to a property that adds to its value.**
+- **An improvement to a property that [[a/_adds|adds]] to its value.**
 ---
 ---

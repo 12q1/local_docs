@@ -1,6 +1,6 @@
 # Ascots
 ---
 #noun
-- **Ascot tie**
+- **[[a/_ascot|Ascot]] tie**
 ---
 ---

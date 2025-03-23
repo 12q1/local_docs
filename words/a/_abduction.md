@@ -1,14 +1,14 @@
 # Abduction
 ---
 #noun
-- **Leading away; a carrying away.**
-- **The act of abducing or abducting; a drawing apart; the movement which separates a limb or other part from the axis, or middle line, of the body.**
-- **A syllogism or form of argument in which the major premise is evident, but the minor is only probable.**
-- **The wrongful, and usually forcible, carrying off of a human being.**
+- **Leading [[a/_away|away]]; a [[c/_carrying|carrying]] [[a/_away|away]].**
+- **The [[a/_act|act]] of [[a/_abducing|abducing]] or [[a/_abducting|abducting]]; a [[d/_drawing|drawing]] [[a/_apart|apart]]; the movement which separates a limb or other part from the [[a/_axis|axis]], or middle line, of the [[b/_body|body]].**
+- **A syllogism or form of [[a/_argument|argument]] in which the major premise is evident, but the minor is only probable.**
+- **The wrongful, and usually forcible, [[c/_carrying|carrying]] off of a human [[b/_being|being]].**
 	- _Example: the abduction of a child_
 ---
 ### Synonyms
-- [[[[a/_appropriation|appropriation]]]], [[kidnapping]], [[seizure]], [[withdrawal]], [[[[a/_abstraction|abstraction]]]], [[retroduction]]
+- [[appropriation]], [[kidnapping]], [[seizure]], [[withdrawal]], [[abstraction]], [[retroduction]]
 ### Antonyms
-- [[[[a/_adduction|adduction]]]]
+- [[adduction]]
 ---

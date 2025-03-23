@@ -1,6 +1,6 @@
 # Congaing
 ---
 #verb
-- **To dance the conga.**
+- **To [[d/_dance|dance]] the [[c/_conga|conga]].**
 ---
 ---

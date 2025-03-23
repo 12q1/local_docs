@@ -1,6 +1,6 @@
 # Diapausing
 ---
 #adjective
-- **Undergoing a diapause**
+- **Undergoing a [[d/_diapause|diapause]]**
 ---
 ---

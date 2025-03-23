@@ -1,8 +1,8 @@
 # Autarky
 ---
 #noun
-- **National economic self-sufficiency.**
+- **National [[e/_economic|economic]] self-sufficiency.**
 - **The state of personal self-sufficiency.**
-- **An enclosed ecosystem.**
+- **An [[e/_enclosed|enclosed]] [[e/_ecosystem|ecosystem]].**
 ---
 ---

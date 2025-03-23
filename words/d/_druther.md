@@ -1,7 +1,7 @@
 # Druther
 ---
 #noun
-- **(chiefly plural) singular of druthers**
+- **([[c/_chiefly|chiefly]] plural) singular of [[d/_druthers|druthers]]**
 ---
 #verb
 - **(often jocular) Would rather; would prefer to.**

@@ -1,7 +1,7 @@
 # Autonomously
 ---
 #adverb
-- **In an autonomous or self-governing manner.**
+- **In an [[a/_autonomous|autonomous]] or self-governing manner.**
 ---
 ### Synonyms
 - [[independently]]

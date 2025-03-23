@@ -1,21 +1,21 @@
 # Disdain
 ---
 #noun
-- **A feeling of contempt or scorn.**
+- **A feeling of [[c/_contempt|contempt]] or scorn.**
 	- _Example: The cat viewed the cheap supermarket catfood with disdain and stalked away._
-- **That which is worthy to be disdained or regarded with contempt and aversion.**
-- **The state of being despised; shame.**
+- **That which is worthy to be [[d/_disdained|disdained]] or regarded with [[c/_contempt|contempt]] and [[a/_aversion|aversion]].**
+- **The state of [[b/_being|being]] [[d/_despised|despised]]; shame.**
 ---
 ### Synonyms
-- [[[[a/_abomination|abomination]]]], [[[[c/_condescension|condescension]]]], [[[[c/_contempt|contempt]]]], [[[[d/_despisal|despisal]]]], [[scorn]]
+- [[abomination]], [[condescension]], [[contempt]], [[despisal]], [[scorn]]
 ### Antonyms
-- [[[[a/_admiration|admiration]]]], [[[[a/_adoration|adoration]]]], [[honor]], [[respect]], [[reverence]]
+- [[admiration]], [[adoration]], [[honor]], [[respect]], [[reverence]]
 #verb
-- **To regard (someone or something) with strong contempt.**
+- **To regard (someone or something) with strong [[c/_contempt|contempt]].**
 - **To be indignant or offended.**
 ---
 ### Synonyms
-- [[[[a/_abominate|abominate]]]], [[[[c/_contemn|contemn]]]]
+- [[abominate]], [[contemn]]
 ### Antonyms
-- [[[[a/_admire|admire]]]], [[[[a/_adore|adore]]]], [[honor]], [[respect]], [[revere]]
+- [[admire]], [[adore]], [[honor]], [[respect]], [[revere]]
 ---

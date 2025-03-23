@@ -1,8 +1,8 @@
 # Apprised
 ---
 #verb
-- **To notify, or to make aware; to inform.**
+- **To notify, or to make [[a/_aware|aware]]; to inform.**
 ---
 ### Synonyms
-- [[[[a/_abreast|abreast]]]], [[up to [[d/_date|date]]]], [[up-to-[[d/_date|date]]]]
+- [[abreast]], [[up to date]], [[up-to-date]]
 ---

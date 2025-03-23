@@ -5,5 +5,5 @@
 	- _Example: He heard from a coworker that the company planned to merge those departments._
 ---
 ### Synonyms
-- [[[[c/_colleague|colleague]]]], [[workmate]]
+- [[colleague]], [[workmate]]
 ---

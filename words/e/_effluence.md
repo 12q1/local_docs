@@ -5,5 +5,5 @@
 - **Something that flows out; the issue.**
 ---
 ### Synonyms
-- [[[[e/_efflux|efflux]]]], [[[[e/_effluxion|effluxion]]]], [[outflow]]
+- [[efflux]], [[effluxion]], [[outflow]]
 ---

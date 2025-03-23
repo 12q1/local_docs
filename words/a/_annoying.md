@@ -1,21 +1,21 @@
 # Annoying
 ---
 #verb
-- **To disturb or irritate, especially by continued or repeated acts; to bother with unpleasant deeds.**
+- **To [[d/_disturb|disturb]] or irritate, especially by [[c/_continued|continued]] or repeated [[a/_acts|acts]]; to [[b/_bother|bother]] with unpleasant [[d/_deeds|deeds]].**
 	- _Example: Marc loved his sister, but when she annoyed him he wanted to switch her off._
-- **To do something to upset or anger someone; to be troublesome.**
+- **To [[d/_do|do]] something to upset or [[a/_anger|anger]] someone; to be troublesome.**
 - **To molest; to harm; to injure.**
 	- _Example: to annoy an army by impeding its march, or by a cannonade_
 ---
 ### Synonyms
-- [[[[b/_bother|bother]]]], [[[[b/_bug|bug]]]], [[hassle]], [[irk]], [[irritate]], [[nag]], [[pester]]
+- [[bother]], [[bug]], [[hassle]], [[irk]], [[irritate]], [[nag]], [[pester]]
 ### Antonyms
 - [[please]]
 #noun
-- **That which annoys; an annoyance.**
+- **That which [[a/_annoys|annoys]]; an [[a/_annoyance|annoyance]].**
 ---
 #adjective
-- **Causing irritation or annoyance; troublesome; vexatious.**
+- **[[c/_causing|Causing]] irritation or [[a/_annoyance|annoyance]]; troublesome; vexatious.**
 	- _Example: Vandals are really annoying._
 ---
 ---

@@ -1,6 +1,6 @@
 # Cervine
 ---
 #adjective
-- **Pertaining to a deer; deer-like.**
+- **Pertaining to a [[d/_deer|deer]]; [[d/_deer|deer]]-like.**
 ---
 ---

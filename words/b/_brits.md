@@ -1,6 +1,6 @@
 # Brits
 ---
 #noun
-- **Brit milah**
+- **[[b/_brit|Brit]] milah**
 ---
 ---

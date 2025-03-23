@@ -1,9 +1,9 @@
 # Curtals
 ---
 #noun
-- **A variety of short-barrelled cannon.**
-- **An early type of bassoon.**
-- **A horse or other animal having a docked tail.**
-- **Anything docked or cut short.**
+- **A variety of short-[[b/_barrelled|barrelled]] [[c/_cannon|cannon]].**
+- **An [[e/_early|early]] type of [[b/_bassoon|bassoon]].**
+- **A horse or other [[a/_animal|animal]] having a [[d/_docked|docked]] tail.**
+- **[[a/_anything|Anything]] [[d/_docked|docked]] or [[c/_cut|cut]] short.**
 ---
 ---

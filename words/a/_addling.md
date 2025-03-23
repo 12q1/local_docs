@@ -1,6 +1,6 @@
 # Addling
 ---
 #noun
-- **(provincial) Earnings.**
+- **(provincial) [[e/_earnings|Earnings]].**
 ---
 ---

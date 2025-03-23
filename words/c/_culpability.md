@@ -1,6 +1,6 @@
 # Culpability
 ---
 #noun
-- **The degree of one's blameworthiness in the commission of a crime or offence.**
+- **The [[d/_degree|degree]] of one's [[b/_blameworthiness|blameworthiness]] in the [[c/_commission|commission]] of a [[c/_crime|crime]] or offence.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Asperses
 ---
 #verb
-- **To sprinkle or scatter (liquid or dust).**
-- **To falsely or maliciously charge another; to slander.**
+- **To sprinkle or scatter (liquid or [[d/_dust|dust]]).**
+- **To falsely or maliciously [[c/_charge|charge]] [[a/_another|another]]; to slander.**
 ---
 ---

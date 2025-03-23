@@ -1,6 +1,6 @@
 # Cleopatra
 ---
 #noun
-- **The butterfly Gonepteryx cleopatra of the family Pieridae.**
+- **The [[b/_butterfly|butterfly]] Gonepteryx [[c/_cleopatra|cleopatra]] of the family Pieridae.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Dissidence
 ---
 #noun
-- **The state of being dissident; dissent**
+- **The state of [[b/_being|being]] [[d/_dissident|dissident]]; [[d/_dissent|dissent]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Anaerobes
 ---
 #noun
-- **An anaerobic organism; one that does not require oxygen to sustain its metabolic processes.**
+- **An [[a/_anaerobic|anaerobic]] organism; one that [[d/_does|does]] not require oxygen to sustain its metabolic processes.**
 ---
 ---

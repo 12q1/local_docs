@@ -1,7 +1,7 @@
 # Bankbooks
 ---
 #noun
-- **Passbook, chequebook**
+- **Passbook, [[c/_chequebook|chequebook]]**
 - **Wealth**
 ---
 ---

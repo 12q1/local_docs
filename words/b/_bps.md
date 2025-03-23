@@ -6,9 +6,9 @@
 ### Synonyms
 - [[permyriad]], [[‱]]
 #noun
-- **Initialism of bits per second, a measure of speed of digital communication.**
-- **Baud rate**
+- **Initialism of [[b/_bits|bits]] per second, a measure of speed of [[d/_digital|digital]] [[c/_communication|communication]].**
+- **[[b/_baud|Baud]] rate**
 ---
 ### Synonyms
-- [[[[b/_b|b]]/s]], [[[[b/_bp|bp]]]]
+- [[b/s]], [[bp]]
 ---

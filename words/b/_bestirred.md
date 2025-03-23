@@ -1,7 +1,7 @@
 # Bestirred
 ---
 #verb
-- **To put into brisk or vigorous action; to move with life and vigor.**
-- **To make active; to rouse oneself.**
+- **To put into [[b/_brisk|brisk]] or vigorous [[a/_action|action]]; to move with life and vigor.**
+- **To make [[a/_active|active]]; to rouse oneself.**
 ---
 ---

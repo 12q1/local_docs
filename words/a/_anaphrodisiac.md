@@ -1,9 +1,9 @@
 # Anaphrodisiac
 ---
 #noun
-- **An antaphrodisiac (substance which reduces the sex drive).**
+- **An [[a/_antaphrodisiac|antaphrodisiac]] (substance which reduces the sex [[d/_drive|drive]]).**
 ---
 #adjective
-- **Antaphrodisiac (capable of reducing the sex drive).**
+- **[[a/_antaphrodisiac|Antaphrodisiac]] ([[c/_capable|capable]] of reducing the sex [[d/_drive|drive]]).**
 ---
 ---

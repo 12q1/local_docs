@@ -1,7 +1,7 @@
 # Compartmented
 ---
 #adjective
-- **Divided into compartments.**
-- **Having (a specified type of) compartments.**
+- **[[d/_divided|Divided]] into [[c/_compartments|compartments]].**
+- **Having (a specified type of) [[c/_compartments|compartments]].**
 ---
 ---

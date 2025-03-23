@@ -1,6 +1,6 @@
 # Curvirostral
 ---
 #adjective
-- **Having a crooked beak**
+- **Having a [[c/_crooked|crooked]] [[b/_beak|beak]]**
 ---
 ---

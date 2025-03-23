@@ -1,10 +1,10 @@
 # Accusation
 ---
 #noun
-- **The act of accusing.**
-- **A formal charge brought against a person in a court of law.**
-- **An allegation.**
+- **The [[a/_act|act]] of [[a/_accusing|accusing]].**
+- **A formal [[c/_charge|charge]] [[b/_brought|brought]] [[a/_against|against]] a person in a [[c/_court|court]] of law.**
+- **An [[a/_allegation|allegation]].**
 ---
 ### Synonyms
-- [[[[a/_allegation|allegation]]]], [[[[a/_assertion|assertion]]]], [[[[c/_censure|censure]]]], [[[[c/_charge|charge]]]], [[[[c/_crimination|crimination]]]], [[impeachment]]
+- [[allegation]], [[assertion]], [[censure]], [[charge]], [[crimination]], [[impeachment]]
 ---

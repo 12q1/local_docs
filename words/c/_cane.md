@@ -1,20 +1,20 @@
 # Cane
 ---
 #noun
-- **A plant with simple stems, like bamboo or sugar cane, or the stem thereof**
-- **The stem of such a plant adapted for use as a tool**
-- **A rod-shaped tool or device, somewhat like a cane**
-- **Split rattan, as used in wickerwork, basketry and the like**
-- **A local European measure of length; the canna.**
+- **A plant with simple stems, like [[b/_bamboo|bamboo]] or sugar [[c/_cane|cane]], or the stem thereof**
+- **The stem of such a plant [[a/_adapted|adapted]] for use as a tool**
+- **A rod-shaped tool or [[d/_device|device]], somewhat like a [[c/_cane|cane]]**
+- **Split rattan, as used in wickerwork, [[b/_basketry|basketry]] and the like**
+- **A local European measure of length; the [[c/_canna|canna]].**
 ---
 #verb
-- **To strike or beat with a cane or similar implement**
-- **To destroy; to comprehensively defeat**
+- **To strike or [[b/_beat|beat]] with a [[c/_cane|cane]] or similar implement**
+- **To [[d/_destroy|destroy]]; to [[c/_comprehensively|comprehensively]] [[d/_defeat|defeat]]**
 	- _Example: Mudchester Rovers were caned 10-0._
-- **To do something well, in a competent fashion**
+- **To [[d/_do|do]] something well, in a [[c/_competent|competent]] fashion**
 - **To produce extreme pain**
 	- _Example: Don't hit me with that. It really canes!_
-- **To make or furnish with cane or rattan.**
+- **To make or furnish with [[c/_cane|cane]] or rattan.**
 	- _Example: to cane chairs_
 ---
 ---

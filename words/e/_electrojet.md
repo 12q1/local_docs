@@ -1,6 +1,6 @@
 # Electrojet
 ---
 #noun
-- **An electric current that travels around the E region of the Earth's ionosphere.**
+- **An [[e/_electric|electric]] [[c/_current|current]] that travels [[a/_around|around]] the [[e/_e|E]] region of the [[e/_earth|Earth]]'s ionosphere.**
 ---
 ---

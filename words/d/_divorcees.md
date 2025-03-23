@@ -1,7 +1,7 @@
 # Divorcees
 ---
 #noun
-- **A person divorced.**
+- **A person [[d/_divorced|divorced]].**
 ---
 ### Antonyms
 - [[spouse]]

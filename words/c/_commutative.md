@@ -1,14 +1,14 @@
 # Commutative
 ---
 #adjective
-- **(of a binary operation) Such that the order in which the operands are taken does not affect their image under the operation.**
+- **(of a [[b/_binary|binary]] operation) Such that the order in which the operands are taken [[d/_does|does]] not [[a/_affect|affect]] their image under the operation.**
 	- _Example: Addition and multiplication are commutative operations but subtraction and division are not._
-- **(of an algebraic structure) Having a commutative operation.**
-- **(of a diagram of morphisms) Such that any two sequences of morphisms with the same initial and final positions compose to the same morphism.**
+- **(of an [[a/_algebraic|algebraic]] structure) Having a [[c/_commutative|commutative]] operation.**
+- **(of a [[d/_diagram|diagram]] of morphisms) Such that [[a/_any|any]] two sequences of morphisms with the same initial and final positions [[c/_compose|compose]] to the same morphism.**
 - **Relating to exchange; interchangeable.**
 ---
 ### Synonyms
-- [[[[a/_abelian|Abelian]]]], [[[[a/_abelian|abelian]]]]
+- [[Abelian]], [[abelian]]
 ### Antonyms
-- [[[[a/_anticommutative|anticommutative]]]]
+- [[anticommutative]]
 ---

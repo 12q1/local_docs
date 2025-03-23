@@ -1,10 +1,10 @@
 # Disarticulated
 ---
 #verb
-- **To disjoint.**
-- **To amputate (a limb) at a joint without cutting the bone.**
+- **To [[d/_disjoint|disjoint]].**
+- **To [[a/_amputate|amputate]] (a limb) at a joint without [[c/_cutting|cutting]] the [[b/_bone|bone]].**
 ---
 #adjective
-- **Disjointed**
+- **[[d/_disjointed|Disjointed]]**
 ---
 ---

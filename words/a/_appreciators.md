@@ -1,6 +1,6 @@
 # Appreciators
 ---
 #noun
-- **One who fully appreciates or understands a given thing.**
+- **One who fully [[a/_appreciates|appreciates]] or understands a given thing.**
 ---
 ---

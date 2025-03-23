@@ -1,6 +1,6 @@
 # Conceptually
 ---
 #adverb
-- **In a conceptual manner**
+- **In a [[c/_conceptual|conceptual]] manner**
 ---
 ---

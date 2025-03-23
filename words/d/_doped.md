@@ -1,18 +1,18 @@
 # Doped
 ---
 #verb
-- **To affect with drugs.**
-- **To treat with dope (lubricant, etc.).**
-- **To add a dopant such as arsenic to (a pure semiconductor such as silicon).**
-- **To use drugs; especially, to use prohibited performance-enhancing drugs in sporting competitions.**
+- **To [[a/_affect|affect]] with [[d/_drugs|drugs]].**
+- **To treat with [[d/_dope|dope]] (lubricant, etc.).**
+- **To [[a/_add|add]] a [[d/_dopant|dopant]] such as [[a/_arsenic|arsenic]] to (a pure semiconductor such as silicon).**
+- **To use [[d/_drugs|drugs]]; especially, to use prohibited performance-[[e/_enhancing|enhancing]] [[d/_drugs|drugs]] in sporting [[c/_competitions|competitions]].**
 - **To judge or guess; to predict the result of.**
 ---
 #adjective
-- **Drugged.**
+- **[[d/_drugged|Drugged]].**
 	- _Example: He was so doped after the surgery that it took him 2 hours to remember his name._
-- **Describing a semiconductor that has had small amounts of elements added to create charge carriers.**
+- **[[d/_describing|Describing]] a semiconductor that has had small [[a/_amounts|amounts]] of [[e/_elements|elements]] [[a/_added|added]] to [[c/_create|create]] [[c/_charge|charge]] [[c/_carriers|carriers]].**
 	- _Example: The silicon was doped with boron to make a p-type semiconductor._
-- **Covered with dope, a glue or paint like pore filler.**
+- **[[c/_covered|Covered]] with [[d/_dope|dope]], a glue or paint like pore filler.**
 	- _Example: The doped fabric covering the Hindenburg was very flammable._
 ---
 ---

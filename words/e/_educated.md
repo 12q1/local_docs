@@ -9,8 +9,8 @@
 ### Antonyms
 - [[ignorize]]
 #adjective
-- **Having attained a level of higher education, such as a college degree.**
-- **Based on relevant information.**
+- **Having [[a/_attained|attained]] a level of higher [[e/_education|education]], such as a [[c/_college|college]] [[d/_degree|degree]].**
+- **[[b/_based|Based]] on relevant information.**
 ---
 ### Antonyms
 - [[uneducated]]

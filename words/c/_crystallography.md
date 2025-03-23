@@ -1,7 +1,7 @@
 # Crystallography
 ---
 #noun
-- **The experimental science of determining the arrangement of atoms in solids.**
-- **The study of crystals.**
+- **The experimental science of [[d/_determining|determining]] the [[a/_arrangement|arrangement]] of [[a/_atoms|atoms]] in solids.**
+- **The study of [[c/_crystals|crystals]].**
 ---
 ---

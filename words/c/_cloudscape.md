@@ -1,6 +1,6 @@
 # Cloudscape
 ---
 #noun
-- **A work of art or other image depicting sky and clouds.**
+- **A work of [[a/_art|art]] or other image [[d/_depicting|depicting]] sky and [[c/_clouds|clouds]].**
 ---
 ---

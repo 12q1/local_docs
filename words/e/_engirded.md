@@ -1,6 +1,6 @@
 # Engirded
 ---
 #verb
-- **To gird around; to ingirt.**
+- **To gird [[a/_around|around]]; to ingirt.**
 ---
 ---

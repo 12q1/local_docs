@@ -1,10 +1,10 @@
 # Diseased
 ---
 #verb
-- **To cause unease; to annoy, irritate.**
-- **To infect with a disease.**
+- **To [[c/_cause|cause]] unease; to [[a/_annoy|annoy]], irritate.**
+- **To infect with a [[d/_disease|disease]].**
 ---
 #adjective
-- **Affected with or suffering from disease.**
+- **[[a/_affected|Affected]] with or suffering from [[d/_disease|disease]].**
 ---
 ---

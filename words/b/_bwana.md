@@ -1,6 +1,6 @@
 # Bwana
 ---
 #noun
-- **Big boss, important person.**
+- **[[b/_big|Big]] [[b/_boss|boss]], important person.**
 ---
 ---

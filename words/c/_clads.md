@@ -1,8 +1,8 @@
 # Clads
 ---
 #verb
-- **(past tense clad) To clothe.**
-- **(past tense clad or cladded) To cover (with insulation or another material); to surround, envelop.**
+- **(past tense [[c/_clad|clad]]) To [[c/_clothe|clothe]].**
+- **(past tense [[c/_clad|clad]] or cladded) To [[c/_cover|cover]] (with insulation or [[a/_another|another]] material); to surround, [[e/_envelop|envelop]].**
 - **(figuratively) To imbue (with a specified quality)**
 ---
 ---

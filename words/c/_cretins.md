@@ -1,7 +1,7 @@
 # Cretins
 ---
 #noun
-- **A person who fails to develop mentally and physically due to a congenital hypothyroidism.**
+- **A person who fails to [[d/_develop|develop]] mentally and physically [[d/_due|due]] to a [[c/_congenital|congenital]] hypothyroidism.**
 - **(by extension) An idiot.**
 ---
 ---

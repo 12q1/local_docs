@@ -2,6 +2,6 @@
 ---
 #noun
 - **Something which softens or lubricates the skin; moisturizer.**
-- **Anything soothing the mind, or that makes something more acceptable.**
+- **[[a/_anything|Anything]] soothing the mind, or that makes something more [[a/_acceptable|acceptable]].**
 ---
 ---

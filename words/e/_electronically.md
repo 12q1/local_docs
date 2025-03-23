@@ -1,6 +1,6 @@
 # Electronically
 ---
 #adverb
-- **By means of electronics, or of electronic technology.**
+- **By means of [[e/_electronics|electronics]], or of [[e/_electronic|electronic]] technology.**
 ---
 ---

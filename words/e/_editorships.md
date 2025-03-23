@@ -1,6 +1,6 @@
 # Editorships
 ---
 #noun
-- **The position or job of being an editor**
+- **The position or job of [[b/_being|being]] an [[e/_editor|editor]]**
 ---
 ---

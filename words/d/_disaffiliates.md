@@ -1,6 +1,6 @@
 # Disaffiliates
 ---
 #verb
-- **To cease to have an affiliation (with); to take steps to break an affiliation or association.**
+- **To [[c/_cease|cease]] to have an [[a/_affiliation|affiliation]] (with); to take steps to [[b/_break|break]] an [[a/_affiliation|affiliation]] or [[a/_association|association]].**
 ---
 ---

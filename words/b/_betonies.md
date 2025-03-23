@@ -1,9 +1,9 @@
 # Betonies
 ---
 #noun
-- **Any plant of the genus Stachys.**
-- **Any plant of the genus Pedicularis (louseworts).**
+- **[[a/_any|Any]] plant of the genus Stachys.**
+- **[[a/_any|Any]] plant of the genus Pedicularis (louseworts).**
 ---
 ### Synonyms
-- [[lousewort]], [[wood [[b/_betony|betony]]]], [[heal-[[a/_all|all]]]], [[lamb's [[e/_ears|ears]]]], [[self-heal]], [[woundwort]], [[lousewort]], [[wood [[b/_betony|betony]]]]
+- [[lousewort]], [[wood betony]], [[heal-all]], [[lamb's ears]], [[self-heal]], [[woundwort]], [[lousewort]], [[wood betony]]
 ---

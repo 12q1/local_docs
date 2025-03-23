@@ -1,8 +1,8 @@
 # Disbandment
 ---
 #noun
-- **The act of disbanding**
+- **The [[a/_act|act]] of [[d/_disbanding|disbanding]]**
 ---
 ### Synonyms
-- [[[[d/_dispersal|dispersal]]]], [[[[d/_dissolution|dissolution]]]]
+- [[dispersal]], [[dissolution]]
 ---

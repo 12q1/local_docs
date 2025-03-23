@@ -1,11 +1,11 @@
 # Bloodshed
 ---
 #noun
-- **The shedding or spilling of blood.**
-- **A slaughter; destruction of life, notably on a large scale.**
-- **The shedding of one's own blood; specifically, the death of Christ.**
-- **A bloodshot condition or appearance; an effusion of blood in the eye.**
+- **The shedding or spilling of [[b/_blood|blood]].**
+- **A slaughter; [[d/_destruction|destruction]] of life, notably on a large scale.**
+- **The shedding of one's own [[b/_blood|blood]]; specifically, the [[d/_death|death]] of [[c/_christ|Christ]].**
+- **A [[b/_bloodshot|bloodshot]] [[c/_condition|condition]] or [[a/_appearance|appearance]]; an [[e/_effusion|effusion]] of [[b/_blood|blood]] in the [[e/_eye|eye]].**
 ---
 ### Synonyms
-- [[[[b/_bloodbath|bloodbath]]]], [[[[c/_carnage|carnage]]]], [[[[b/_bloodletting|bloodletting]]]]
+- [[bloodbath]], [[carnage]], [[bloodletting]]
 ---

@@ -1,6 +1,6 @@
 # Decasyllable
 ---
 #noun
-- **A verse form having ten syllables in each line.**
+- **A verse form having ten syllables in [[e/_each|each]] line.**
 ---
 ---

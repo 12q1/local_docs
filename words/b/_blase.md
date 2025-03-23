@@ -1,8 +1,8 @@
 # Blase
 ---
 #adjective
-- **Unimpressed with something because of over-familiarity.**
+- **Unimpressed with something [[b/_because|because]] of over-familiarity.**
 ---
 ### Synonyms
-- [[[[c/_casual|casual]]]], [[indifferent]], [[jaded]], [[nonchalant]], [[unimpressed]]
+- [[casual]], [[indifferent]], [[jaded]], [[nonchalant]], [[unimpressed]]
 ---

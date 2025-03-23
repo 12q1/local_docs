@@ -1,6 +1,6 @@
 # Empolder
 ---
 #verb
-- **To construct polders in order to drain land**
+- **To [[c/_construct|construct]] polders in order to [[d/_drain|drain]] land**
 ---
 ---

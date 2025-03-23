@@ -1,7 +1,7 @@
 # Creepily
 ---
 #adverb
-- **In a creepy manner.**
-- **With a furtive creeping motion.**
+- **In a [[c/_creepy|creepy]] manner.**
+- **With a furtive [[c/_creeping|creeping]] motion.**
 ---
 ---

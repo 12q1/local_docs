@@ -2,7 +2,7 @@
 ---
 #noun
 - **A level or rank in an organization, profession, or society.**
-- **A line of riders seeking maximum drafting in a crosswind, resulting in a diagonal line across the road.**
-- **A formation of troops, ships, etc., in diagonal parallel rows.**
+- **A line of riders seeking maximum [[d/_drafting|drafting]] in a [[c/_crosswind|crosswind]], resulting in a [[d/_diagonal|diagonal]] line [[a/_across|across]] the road.**
+- **A formation of troops, ships, etc., in [[d/_diagonal|diagonal]] parallel rows.**
 ---
 ---

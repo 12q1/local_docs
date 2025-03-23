@@ -1,6 +1,6 @@
 # Bicycled
 ---
 #verb
-- **To travel or exercise using a bicycle.**
+- **To travel or exercise using a [[b/_bicycle|bicycle]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Copyread
 ---
 #verb
-- **To read text (of a newspaper etc.) and edit it to correct mistakes.**
+- **To read text (of a newspaper etc.) and [[e/_edit|edit]] it to [[c/_correct|correct]] mistakes.**
 ---
 ---

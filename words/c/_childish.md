@@ -1,12 +1,12 @@
 # Childish
 ---
 #adjective
-- **Of or suitable for a child.**
-- **Behaving immaturely.**
+- **Of or suitable for a [[c/_child|child]].**
+- **[[b/_behaving|Behaving]] immaturely.**
 	- _Example: Your childish temper tantrums are not going to change my decision on this matter._
 ---
 ### Synonyms
-- [[immature]], [[infantile]], [[juvenile]], [[puerile]], [[silly]], [[unbecoming]], [[[[c/_childly|childly]]]], [[juvenile]], [[kiddish]]
+- [[immature]], [[infantile]], [[juvenile]], [[puerile]], [[silly]], [[unbecoming]], [[childly]], [[juvenile]], [[kiddish]]
 ### Antonyms
-- [[adultish]], [[mature]], [[[[a/_adult|adult]]]], [[[[a/_adultlike|adultlike]]]]
+- [[adultish]], [[mature]], [[adult]], [[adultlike]]
 ---

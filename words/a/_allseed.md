@@ -1,6 +1,6 @@
 # Allseed
 ---
 #noun
-- **Any of several unrelated plants that produce many seeds, such as**
+- **[[a/_any|Any]] of several unrelated plants that produce many seeds, such as**
 ---
 ---

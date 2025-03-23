@@ -1,6 +1,6 @@
 # Brunets
 ---
 #noun
-- **A man or boy with brown or black hair.**
+- **A man or [[b/_boy|boy]] with [[b/_brown|brown]] or [[b/_black|black]] hair.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Ab
 ---
 #noun
-- **Abdominal muscle.**
+- **[[a/_abdominal|Abdominal]] muscle.**
 ---
 ---

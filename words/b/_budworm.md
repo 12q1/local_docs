@@ -1,6 +1,6 @@
 # Budworm
 ---
 #noun
-- **Any of various moth caterpillars.**
+- **[[a/_any|Any]] of various moth [[c/_caterpillars|caterpillars]].**
 ---
 ---

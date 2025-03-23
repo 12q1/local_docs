@@ -1,12 +1,12 @@
 # Arching
 ---
 #verb
-- **To form into an arch shape**
+- **To form into an [[a/_arch|arch]] shape**
 	- _Example: The cat arched its back_
-- **To cover with an arch or arches.**
+- **To [[c/_cover|cover]] with an [[a/_arch|arch]] or [[a/_arches|arches]].**
 ---
 #noun
-- **The arched part of a structure.**
+- **The [[a/_arched|arched]] part of a structure.**
 ---
 #adjective
 - **Hogging, as opposed to sagging**

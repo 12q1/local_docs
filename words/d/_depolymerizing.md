@@ -1,7 +1,7 @@
 # Depolymerizing
 ---
 #verb
-- **To decompose a polymer into smaller fragments.**
+- **To [[d/_decompose|decompose]] a polymer into smaller fragments.**
 ---
 #adjective
 - **That depolymerizes**

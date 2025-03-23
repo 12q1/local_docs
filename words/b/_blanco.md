@@ -1,6 +1,6 @@
 # Blanco
 ---
 #verb
-- **To polish using Blanco.**
+- **To polish using [[b/_blanco|Blanco]].**
 ---
 ---

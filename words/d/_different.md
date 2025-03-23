@@ -1,20 +1,20 @@
 # Different
 ---
 #noun
-- **The different ideal.**
+- **The [[d/_different|different]] ideal.**
 ---
 #adjective
-- **Not the same; exhibiting a difference.**
-- **Various, assorted, diverse.**
-- **Distinct, separate; used for emphasis after numbers and other determiners of quantity.**
+- **Not the same; exhibiting a [[d/_difference|difference]].**
+- **Various, [[a/_assorted|assorted]], [[d/_diverse|diverse]].**
+- **[[d/_distinct|Distinct]], separate; used for [[e/_emphasis|emphasis]] [[a/_after|after]] numbers and other [[d/_determiners|determiners]] of quantity.**
 	- _Example: Several different scientists all reached this conclusion at about the same time._
 - **Unlike most others; unusual.**
 ---
 ### Synonyms
-- [[[[a/_apart|apart]]]], [[[[d/_distinct|distinct]]]], [[other]], [[[[a/_aberrant|aberrant]]]], [[[[d/_deviant|deviant]]]], [[nonstandard]], [[sundry]]
+- [[apart]], [[distinct]], [[other]], [[aberrant]], [[deviant]], [[nonstandard]], [[sundry]]
 ### Antonyms
-- [[undifferent]], [[[[c/_coherent|coherent]]]], [[indistinct]], [[unified]], [[[[a/_alike|alike]]]], [[identical]], [[same]], [[similar]], [[normal]], [[usual]], [[homogeneous]]
+- [[undifferent]], [[coherent]], [[indistinct]], [[unified]], [[alike]], [[identical]], [[same]], [[similar]], [[normal]], [[usual]], [[homogeneous]]
 #adverb
-- **Differently.**
+- **[[d/_differently|Differently]].**
 ---
 ---

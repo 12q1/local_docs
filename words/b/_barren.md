@@ -1,16 +1,16 @@
 # Barren
 ---
 #noun
-- **An area of low fertility and habitation, a desolate place.**
+- **An [[a/_area|area]] of low fertility and habitation, a [[d/_desolate|desolate]] place.**
 	- _Example: The pine barrens are a site lonely enough to suit any hermit._
 ---
 #adjective
-- **Unable to bear children; sterile.**
+- **Unable to [[b/_bear|bear]] [[c/_children|children]]; sterile.**
 	- _Example: I silently wept as my daughter's husband rejected her. What would she do now that she was no longer a maiden but also barren?_
 - **Of poor fertility, infertile; not producing vegetation.**
-- **Bleak.**
-- **Unproductive; fruitless; unprofitable; empty.**
-- **Mentally dull; stupid.**
+- **[[b/_bleak|Bleak]].**
+- **Unproductive; fruitless; unprofitable; [[e/_empty|empty]].**
+- **Mentally [[d/_dull|dull]]; stupid.**
 ---
 ### Synonyms
 - [[sterile]]

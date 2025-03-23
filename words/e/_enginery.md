@@ -1,8 +1,8 @@
 # Enginery
 ---
 #noun
-- **Machinery made up of engines; instruments of war.**
-- **The act or art of managing engines, or artillery.**
-- **Any device or contrivance; machinery; structure or arrangement.**
+- **Machinery made up of [[e/_engines|engines]]; instruments of war.**
+- **The [[a/_act|act]] or [[a/_art|art]] of managing [[e/_engines|engines]], or [[a/_artillery|artillery]].**
+- **[[a/_any|Any]] [[d/_device|device]] or [[c/_contrivance|contrivance]]; machinery; structure or [[a/_arrangement|arrangement]].**
 ---
 ---

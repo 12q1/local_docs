@@ -1,7 +1,7 @@
 # Dogbane
 ---
 #noun
-- **Any species of genus Apocynum, eponymous of the dogbane family Apocynaceae**
+- **[[a/_any|Any]] species of genus [[a/_apocynum|Apocynum]], [[e/_eponymous|eponymous]] of the [[d/_dogbane|dogbane]] family [[a/_apocynaceae|Apocynaceae]]**
 	- _Example: Most dogbanes are poisonous tropical plants producing showy flowers and milky juice_
 ---
 ---

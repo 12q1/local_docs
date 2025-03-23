@@ -1,9 +1,9 @@
 # Dialectal
 ---
 #adjective
-- **Of or relating to a dialect.**
+- **Of or relating to a [[d/_dialect|dialect]].**
 - **Peculiar to a (nonstandard) variety or lect.**
 ---
 ### Synonyms
-- [[nonstandard]], [[[[d/_dialectical|dialectical]]]]
+- [[nonstandard]], [[dialectical]]
 ---

@@ -1,6 +1,6 @@
 # Arthropod
 ---
 #noun
-- **An invertebrate animal of the phylum Arthropoda, characterized by a chitinous exoskeleton and multiple jointed appendages**
+- **An invertebrate [[a/_animal|animal]] of the phylum [[a/_arthropoda|Arthropoda]], [[c/_characterized|characterized]] by a [[c/_chitinous|chitinous]] exoskeleton and multiple jointed [[a/_appendages|appendages]]**
 ---
 ---

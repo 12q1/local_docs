@@ -1,14 +1,14 @@
 # Bubblier
 ---
 #adjective
-- **Full of bubbles.**
+- **Full of [[b/_bubbles|bubbles]].**
 	- _Example: Whip the egg white into a bubbly froth._
-- **Cheerful, lively.**
+- **[[c/_cheerful|Cheerful]], lively.**
 	- _Example: She has a bubbly personality._
-- **Having the characteristics of bubbles.**
+- **Having the [[c/_characteristics|characteristics]] of [[b/_bubbles|bubbles]].**
 	- _Example: The architecture of the conservatory was bubbly._
-- **Having the characteristics of economic bubbles.**
+- **Having the [[c/_characteristics|characteristics]] of [[e/_economic|economic]] [[b/_bubbles|bubbles]].**
 ---
 ### Synonyms
-- [[[[b/_bubbly|bubbly]]]], [[fizzy]], [[sparkling]], [[[[e/_ebullient|ebullient]]]], [[perky]]
+- [[bubbly]], [[fizzy]], [[sparkling]], [[ebullient]], [[perky]]
 ---

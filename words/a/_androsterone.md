@@ -1,6 +1,6 @@
 # Androsterone
 ---
 #noun
-- **An androgenic hormone, excreted in the urine, somewhat less active than testosterone.**
+- **An [[a/_androgenic|androgenic]] hormone, excreted in the urine, somewhat less [[a/_active|active]] than testosterone.**
 ---
 ---

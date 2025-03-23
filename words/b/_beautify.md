@@ -1,11 +1,11 @@
 # Beautify
 ---
 #verb
-- **To make beautiful, or to increase the beauty of.**
-- **To become beautiful.**
+- **To make [[b/_beautiful|beautiful]], or to increase the [[b/_beauty|beauty]] of.**
+- **To [[b/_become|become]] [[b/_beautiful|beautiful]].**
 ---
 ### Synonyms
-- [[[[a/_adorn|adorn]]]], [[[[d/_decorate|decorate]]]], [[ornament]], [[prettify]]
+- [[adorn]], [[decorate]], [[ornament]], [[prettify]]
 ### Antonyms
 - [[uglify]]
 ---

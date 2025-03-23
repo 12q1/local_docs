@@ -1,6 +1,6 @@
 # Controversially
 ---
 #adverb
-- **In a controversial manner.**
+- **In a [[c/_controversial|controversial]] manner.**
 ---
 ---

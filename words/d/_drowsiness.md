@@ -1,6 +1,6 @@
 # Drowsiness
 ---
 #noun
-- **State of being drowsy.**
+- **State of [[b/_being|being]] [[d/_drowsy|drowsy]].**
 ---
 ---

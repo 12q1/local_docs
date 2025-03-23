@@ -1,7 +1,7 @@
 # Bioscopes
 ---
 #noun
-- **An early form of movie projector**
-- **(Southeast Asia) A cinema or movie theatre.**
+- **An [[e/_early|early]] form of movie projector**
+- **(Southeast [[a/_asia|Asia]]) A [[c/_cinema|cinema]] or movie theatre.**
 ---
 ---

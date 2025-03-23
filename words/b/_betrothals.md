@@ -1,9 +1,9 @@
 # Betrothals
 ---
 #noun
-- **The act of betrothing.**
-- **The fact of being betrothed; a mutual promise, engagement, or contract for a future marriage between two people.**
+- **The [[a/_act|act]] of [[b/_betrothing|betrothing]].**
+- **The fact of [[b/_being|being]] [[b/_betrothed|betrothed]]; a mutual promise, [[e/_engagement|engagement]], or [[c/_contract|contract]] for a future marriage [[b/_between|between]] two people.**
 ---
 ### Synonyms
-- [[[[a/_affiance|affiance]]]], [[[[b/_betrothment|betrothment]]]]
+- [[affiance]], [[betrothment]]
 ---

@@ -1,9 +1,9 @@
 # Bowfront
 ---
 #adjective
-- **Having an outward curving front.**
+- **Having an outward [[c/_curving|curving]] front.**
 	- _Example: bowfront furniture_
-- **Having a bow window in front.**
+- **Having a [[b/_bow|bow]] window in front.**
 	- _Example: bowfront houses_
 ---
 ---

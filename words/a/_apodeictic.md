@@ -1,10 +1,10 @@
 # Apodeictic
 ---
 #adjective
-- **Affording proof; demonstrative.**
-- **Incontrovertible; demonstrably true or certain.**
-- **Of the characteristic feature of a proposition that is necessary (or impossible): perfectly certain (or inconceivable) or incontrovertibly true (or false); self-evident.**
+- **[[a/_affording|Affording]] proof; [[d/_demonstrative|demonstrative]].**
+- **Incontrovertible; [[d/_demonstrably|demonstrably]] true or [[c/_certain|certain]].**
+- **Of the [[c/_characteristic|characteristic]] feature of a proposition that is necessary (or impossible): perfectly [[c/_certain|certain]] (or inconceivable) or incontrovertibly true (or false); self-evident.**
 ---
 ### Antonyms
-- [[[[a/_anapodeictic|anapodeictic]]]]
+- [[anapodeictic]]
 ---

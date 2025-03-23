@@ -1,7 +1,7 @@
 # Der
 ---
 #interjection
-- **Disdainful indication that something is obvious.**
+- **[[d/_disdainful|Disdainful]] indication that something is obvious.**
 - **Indication of stupidity.**
 ---
 ---

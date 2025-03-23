@@ -1,9 +1,9 @@
 # Convictions
 ---
 #noun
-- **A firmly held belief.**
-- **A judgement of guilt in a court of law.**
-- **The state of being found or proved guilty.**
-- **The state of being wholly convinced.**
+- **A firmly held [[b/_belief|belief]].**
+- **A judgement of guilt in a [[c/_court|court]] of law.**
+- **The state of [[b/_being|being]] found or proved guilty.**
+- **The state of [[b/_being|being]] wholly [[c/_convinced|convinced]].**
 ---
 ---

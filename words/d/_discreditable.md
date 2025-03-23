@@ -1,7 +1,7 @@
 # Discreditable
 ---
 #adjective
-- **Able to be discredited.**
-- **Low, mean, bringing discredit.**
+- **[[a/_able|Able]] to be [[d/_discredited|discredited]].**
+- **Low, mean, [[b/_bringing|bringing]] [[d/_discredit|discredit]].**
 ---
 ---

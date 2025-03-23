@@ -1,8 +1,8 @@
 # Eying
 ---
 #verb
-- **To observe carefully or appraisingly.**
+- **To observe [[c/_carefully|carefully]] or [[a/_appraisingly|appraisingly]].**
 	- _Example: After eyeing the document for half an hour, she decided not to sign it._
-- **To appear; to look.**
+- **To [[a/_appear|appear]]; to look.**
 ---
 ---

@@ -1,12 +1,12 @@
 # Dangerous
 ---
 #adjective
-- **Full of danger.**
+- **Full of [[d/_danger|danger]].**
 	- _Example: Railway crossings without gates are highly dangerous._
-- **Causing danger; ready to do harm or injury.**
-- **In a condition of danger, as from illness; threatened with death.**
-- **Hard to suit; difficult to please.**
-- **Reserved; not affable.**
+- **[[c/_causing|Causing]] [[d/_danger|danger]]; ready to [[d/_do|do]] harm or injury.**
+- **In a [[c/_condition|condition]] of [[d/_danger|danger]], as from illness; threatened with [[d/_death|death]].**
+- **Hard to suit; [[d/_difficult|difficult]] to please.**
+- **Reserved; not [[a/_affable|affable]].**
 ---
 ### Synonyms
 - [[hazardous]], [[perilous]], [[risky]], [[unsafe]]

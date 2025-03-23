@@ -1,6 +1,6 @@
 # Chlorodyne
 ---
 #noun
-- **A narcotic drug, made from chloroform, morphia and other substances.**
+- **A narcotic [[d/_drug|drug]], made from [[c/_chloroform|chloroform]], morphia and other substances.**
 ---
 ---

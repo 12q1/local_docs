@@ -1,6 +1,6 @@
 # Dehull
 ---
 #verb
-- **To remove the hull (covering of a seed or fruit)**
+- **To remove the hull ([[c/_covering|covering]] of a seed or fruit)**
 ---
 ---

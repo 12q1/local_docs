@@ -1,10 +1,10 @@
 # Corrivals
 ---
 #noun
-- **A fellow rival; a competitor; a rival.**
-- **A companion.**
+- **A fellow rival; a [[c/_competitor|competitor]]; a rival.**
+- **A [[c/_companion|companion]].**
 ---
 #verb
-- **To compete with; to rival**
+- **To [[c/_compete|compete]] with; to rival**
 ---
 ---

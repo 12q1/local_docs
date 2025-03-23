@@ -1,7 +1,7 @@
 # Bibber
 ---
 #noun
-- **One given to drinking alcoholic beverages too freely; a tippler.**
+- **One given to [[d/_drinking|drinking]] [[a/_alcoholic|alcoholic]] [[b/_beverages|beverages]] too freely; a tippler.**
 ---
 ### Synonyms
 - [[tippler]]

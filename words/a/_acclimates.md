@@ -1,10 +1,10 @@
 # Acclimates
 ---
 #verb
-- **To habituate to a climate not native; to acclimatize.**
-- **To adjust to a new environment; not necessarily a wild, natural, earthy one.**
-- **To become accustomed to a new climate or environment.**
+- **To habituate to a [[c/_climate|climate]] not native; to [[a/_acclimatize|acclimatize]].**
+- **To [[a/_adjust|adjust]] to a new [[e/_environment|environment]]; not necessarily a wild, natural, [[e/_earthy|earthy]] one.**
+- **To [[b/_become|become]] [[a/_accustomed|accustomed]] to a new [[c/_climate|climate]] or [[e/_environment|environment]].**
 ---
 ### Synonyms
-- [[[[a/_acclimatise|acclimatise]]]], [[[[a/_acclimatize|acclimatize]]]], [[[[a/_accommodate|accommodate]]]], [[acculture]], [[[[a/_accustom|accustom]]]], [[[[a/_adjust|adjust]]]], [[[[c/_climatize|climatize]]]], [[[[c/_conform|conform]]]], [[get used to]], [[habituate]], [[harden]], [[season]], [[toughen]]
+- [[acclimatise]], [[acclimatize]], [[accommodate]], [[acculture]], [[accustom]], [[adjust]], [[climatize]], [[conform]], [[get used to]], [[habituate]], [[harden]], [[season]], [[toughen]]
 ---

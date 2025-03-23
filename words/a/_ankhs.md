@@ -1,9 +1,9 @@
 # Ankhs
 ---
 #noun
-- **A cross shaped like a T with a loop at the top, the Egyptian hieroglyph representing the Egyptian triliteral ꜥnḫ and often used as an amulet or charm for this concept.**
-- **Tau cross**
+- **A [[c/_cross|cross]] shaped like a T with a loop at the top, the [[e/_egyptian|Egyptian]] hieroglyph representing the [[e/_egyptian|Egyptian]] triliteral ꜥnḫ and often used as an [[a/_amulet|amulet]] or [[c/_charm|charm]] for this [[c/_concept|concept]].**
+- **Tau [[c/_cross|cross]]**
 ---
 ### Synonyms
-- [[[[e/_egyptian|Egyptian]] [[c/_cross|cross]]]], [[[[a/_ansate|ansate]] [[c/_cross|cross]]]], [[[[c/_crux|crux]] ansata]]
+- [[Egyptian cross]], [[ansate cross]], [[crux ansata]]
 ---

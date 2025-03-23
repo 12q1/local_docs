@@ -1,7 +1,7 @@
 # Dictatorial
 ---
 #adjective
-- **Of or pertaining to a dictator**
-- **In the manner of a dictator, usually with callous disregard for others**
+- **Of or pertaining to a [[d/_dictator|dictator]]**
+- **In the manner of a [[d/_dictator|dictator]], usually with [[c/_callous|callous]] [[d/_disregard|disregard]] for others**
 ---
 ---

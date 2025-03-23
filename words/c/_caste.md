@@ -1,8 +1,8 @@
 # Caste
 ---
 #noun
-- **Any of the hereditary social classes and subclasses of South Asian societies.**
-- **A separate and fixed order or class of persons in society who chiefly associate with each other.**
-- **A class of polymorphous eusocial insects of a particular size and function within a colony.**
+- **[[a/_any|Any]] of the hereditary social [[c/_classes|classes]] and subclasses of South [[a/_asian|Asian]] societies.**
+- **A separate and fixed order or [[c/_class|class]] of persons in society who [[c/_chiefly|chiefly]] [[a/_associate|associate]] with [[e/_each|each]] other.**
+- **A [[c/_class|class]] of polymorphous eusocial insects of a particular size and function within a [[c/_colony|colony]].**
 ---
 ---

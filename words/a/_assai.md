@@ -1,6 +1,6 @@
 # Assai
 ---
 #adverb
-- **A tempo direction equivalent to "very".**
+- **A tempo [[d/_direction|direction]] equivalent to "very".**
 ---
 ---

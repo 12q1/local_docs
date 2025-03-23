@@ -1,6 +1,6 @@
 # Causerie
 ---
 #noun
-- **An informal conversation, or casual short written article, especially on a serious topic.**
+- **An informal [[c/_conversation|conversation]], or [[c/_casual|casual]] short written [[a/_article|article]], especially on a serious topic.**
 ---
 ---

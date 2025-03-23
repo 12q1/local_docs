@@ -1,23 +1,23 @@
 # Disappointed
 ---
 #verb
-- **To sadden or displease (someone) by underperforming, or by not delivering something promised or hoped for.**
+- **To sadden or [[d/_displease|displease]] (someone) by underperforming, or by not [[d/_delivering|delivering]] something promised or hoped for.**
 	- _Example: His lack of respect disappointed her._
-- **To deprive (someone of something expected or hoped for).**
+- **To [[d/_deprive|deprive]] (someone of something expected or hoped for).**
 - **To fail to meet (an expectation); to fail to fulfil (a hope).**
-- **To show (an opinion, belief, etc.) to be mistaken.**
-- **To prevent (something planned or attempted).**
+- **To show (an opinion, [[b/_belief|belief]], etc.) to be mistaken.**
+- **To prevent (something planned or [[a/_attempted|attempted]]).**
 ---
 ### Synonyms
 - [[frustrate]], [[thwart]]
 ### Antonyms
 - [[satisfy]]
 #adjective
-- **Defeated of expectations or hope; experiencing disappointment; let down.**
+- **[[d/_defeated|Defeated]] of expectations or hope; experiencing [[d/_disappointment|disappointment]]; let [[d/_down|down]].**
 	- _Example: After all his anticipation, the trip left him deeply disappointed._
-- **Expressing or indicating disappointment.**
+- **Expressing or indicating [[d/_disappointment|disappointment]].**
 	- _Example: a disappointed tone / face / silence_
 ---
 ### Synonyms
-- [[[[d/_discomfited|discomfited]]]], [[foiled]], [[frustrated]], [[thwarted]]
+- [[discomfited]], [[foiled]], [[frustrated]], [[thwarted]]
 ---

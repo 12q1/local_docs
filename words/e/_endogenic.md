@@ -1,6 +1,6 @@
 # Endogenic
 ---
 #adjective
-- **Originating within the earth; endogenous or endogenetic**
+- **Originating within the [[e/_earth|earth]]; [[e/_endogenous|endogenous]] or [[e/_endogenetic|endogenetic]]**
 ---
 ---

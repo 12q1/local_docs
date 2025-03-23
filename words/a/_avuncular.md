@@ -2,8 +2,8 @@
 ---
 #adjective
 - **In the manner of an uncle, pertaining to an uncle.**
-- **(by extension) Kind, genial, benevolent, or tolerant.**
+- **(by extension) Kind, genial, [[b/_benevolent|benevolent]], or tolerant.**
 ---
 ### Synonyms
-- [[[[b/_benevolent|benevolent]]]], [[kind]], [[uncley]], [[unclish]]
+- [[benevolent]], [[kind]], [[uncley]], [[unclish]]
 ---

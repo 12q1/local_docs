@@ -1,8 +1,8 @@
 # Elusory
 ---
 #adjective
-- **That tends to elude**
+- **That tends to [[e/_elude|elude]]**
 ---
 ### Synonyms
-- [[[[e/_elusive|elusive]]]], [[evasive]]
+- [[elusive]], [[evasive]]
 ---

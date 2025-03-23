@@ -1,7 +1,7 @@
 # Compering
 ---
 #verb
-- **To emcee, to act as compere.**
+- **To [[e/_emcee|emcee]], to [[a/_act|act]] as [[c/_compere|compere]].**
 	- _Example: I will be compering for next week's Village Fete._
 ---
 ---

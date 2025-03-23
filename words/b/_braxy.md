@@ -1,10 +1,10 @@
 # Braxy
 ---
 #noun
-- **An inflammatory disease of sheep.**
-- **Meat from sheep that have died from this disease, or that have died from accident or disease in general.**
+- **An inflammatory [[d/_disease|disease]] of sheep.**
+- **Meat from sheep that have [[d/_died|died]] from this [[d/_disease|disease]], or that have [[d/_died|died]] from [[a/_accident|accident]] or [[d/_disease|disease]] in general.**
 ---
 #adjective
-- **Sick with braxy**
+- **Sick with [[b/_braxy|braxy]]**
 ---
 ---

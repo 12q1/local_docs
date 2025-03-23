@@ -1,11 +1,11 @@
 # Deuced
 ---
 #adjective
-- **Damned.**
+- **[[d/_damned|Damned]].**
 ---
 #adverb
-- **(degree) Damned.**
+- **([[d/_degree|degree]]) [[d/_damned|Damned]].**
 ---
 ### Synonyms
-- [[[[d/_deucedly|deucedly]]]]
+- [[deucedly]]
 ---

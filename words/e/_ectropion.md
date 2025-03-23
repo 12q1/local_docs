@@ -1,6 +1,6 @@
 # Ectropion
 ---
 #noun
-- **A condition of loose eyelids, characterized by the turning outward of the lower eyelid.**
+- **A [[c/_condition|condition]] of loose [[e/_eyelids|eyelids]], [[c/_characterized|characterized]] by the turning outward of the lower [[e/_eyelid|eyelid]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Beefcakes
 ---
 #noun
-- **Imagery of one or more muscular, well-built men.**
-- **Such a male, especially as seen as physically desirable.**
+- **Imagery of one or more muscular, well-[[b/_built|built]] men.**
+- **Such a male, especially as seen as physically [[d/_desirable|desirable]].**
 ---
 ### Synonyms
-- [[[[a/_adonis|adonis]]]], [[hunk]], [[lady-killer]]
+- [[adonis]], [[hunk]], [[lady-killer]]
 ---

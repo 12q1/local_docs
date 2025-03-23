@@ -1,7 +1,7 @@
 # Earfuls
 ---
 #noun
-- **An angry reprimand, castigation or telling off**
+- **An [[a/_angry|angry]] reprimand, [[c/_castigation|castigation]] or telling off**
 - **Intimate gossip**
 ---
 ---

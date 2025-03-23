@@ -1,6 +1,6 @@
 # Ani
 ---
 #noun
-- **A bird of the genus Crotophaga in the cuckoo family.**
+- **A [[b/_bird|bird]] of the genus [[c/_crotophaga|Crotophaga]] in the [[c/_cuckoo|cuckoo]] family.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Ensepulchre
 ---
 #verb
-- **To confine in, or as if in, a sepulchre.**
+- **To [[c/_confine|confine]] in, or as if in, a sepulchre.**
 ---
 ---

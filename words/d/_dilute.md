@@ -1,22 +1,22 @@
 # Dilute
 ---
 #noun
-- **An animal having a lighter-coloured coat than is usual.**
+- **An [[a/_animal|animal]] having a lighter-[[c/_coloured|coloured]] [[c/_coat|coat]] than is usual.**
 ---
 #verb
-- **To make thinner by adding solvent to a solution, especially by adding water.**
-- **To weaken, especially by adding a foreign substance.**
-- **To cause the value of individual shares or the stake of a shareholder to decrease by increasing the total number of shares.**
-- **To become attenuated, thin, or weak.**
+- **To make thinner by [[a/_adding|adding]] solvent to a solution, especially by [[a/_adding|adding]] water.**
+- **To weaken, especially by [[a/_adding|adding]] a foreign substance.**
+- **To [[c/_cause|cause]] the value of individual shares or the stake of a shareholder to [[d/_decrease|decrease]] by increasing the total number of shares.**
+- **To [[b/_become|become]] [[a/_attenuated|attenuated]], thin, or weak.**
 	- _Example: It dilutes easily._
 ---
 ### Antonyms
-- [[[[c/_condense|condense]]]]
+- [[condense]]
 #adjective
-- **Having a low concentration.**
+- **Having a low [[c/_concentration|concentration]].**
 	- _Example: Clean the panel with a dilute, neutral cleaner._
-- **Weak; reduced in strength by dilution; diluted.**
-- **Of an animal: having a lighter-coloured coat than is usual.**
+- **Weak; reduced in strength by [[d/_dilution|dilution]]; [[d/_diluted|diluted]].**
+- **Of an [[a/_animal|animal]]: having a lighter-[[c/_coloured|coloured]] [[c/_coat|coat]] than is usual.**
 	- _Example: a cat with a dilute tortoiseshell coat_
 ---
 ---

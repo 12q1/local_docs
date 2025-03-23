@@ -1,17 +1,17 @@
 # Cesarean
 ---
 #noun
-- **An inhabitant/citizen of Caesarea.**
+- **An inhabitant/[[c/_citizen|citizen]] of Caesarea.**
 ---
 #adjective
 - **Of or relating to Caesarea.**
 ---
 #adjective
-- **Of, relating to or in the manner of Julius Caesar or other Caesars.**
+- **Of, relating to or in the manner of Julius [[c/_caesar|Caesar]] or other Caesars.**
 ---
 #noun
-- **A Caesarean section.**
+- **A [[c/_caesarean|Caesarean]] section.**
 ---
 ### Synonyms
-- [[[[c/_c|C]]-section]], [[[[c/_c|c]]-section]]
+- [[C-section]], [[c-section]]
 ---

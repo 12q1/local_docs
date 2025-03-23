@@ -1,14 +1,14 @@
 # Awakes
 ---
 #verb
-- **To become conscious after having slept.**
-- **To cause (somebody) to stop sleeping.**
+- **To [[b/_become|become]] [[c/_conscious|conscious]] [[a/_after|after]] having slept.**
+- **To [[c/_cause|cause]] (somebody) to stop sleeping.**
 - **To excite or to stir up something latent.**
-- **To rouse from a state of inaction or dormancy.**
-- **To come out of a state of inaction or dormancy.**
+- **To rouse from a state of inaction or [[d/_dormancy|dormancy]].**
+- **To [[c/_come|come]] out of a state of inaction or [[d/_dormancy|dormancy]].**
 ---
 ### Synonyms
-- [[[[a/_awaken|awaken]]]], [[wake up]], [[[[b/_bring|bring]] round]], [[[[c/_cry|cry]]]], [[wake up]]
+- [[awaken]], [[wake up]], [[bring round]], [[cry]], [[wake up]]
 ### Antonyms
-- [[fall [[a/_asleep|asleep]]]], [[put to sleep]]
+- [[fall asleep]], [[put to sleep]]
 ---

@@ -1,7 +1,7 @@
 # Decorous
 ---
 #adjective
-- **Marked by proper behavior.**
+- **Marked by proper [[b/_behavior|behavior]].**
 ---
 ### Antonyms
 - [[indecorous]]

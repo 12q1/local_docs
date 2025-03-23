@@ -1,8 +1,8 @@
 # Barbital
 ---
 #noun
-- **The first commercially marketed barbiturate, used as a hypnotic drug until the mid-1950s.**
+- **The first [[c/_commercially|commercially]] marketed [[b/_barbiturate|barbiturate]], used as a hypnotic [[d/_drug|drug]] until the mid-1950s.**
 ---
 ### Synonyms
-- [[[[b/_barbitone|barbitone]]]], [[diethylbarbituric [[a/_acid|acid]]]], [[diethylmalonyl urea]]
+- [[barbitone]], [[diethylbarbituric acid]], [[diethylmalonyl urea]]
 ---

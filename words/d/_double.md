@@ -1,62 +1,62 @@
 # Double
 ---
 #noun
-- **Twice the number, amount, size, etc.**
-- **A person who resembles and stands in for another person, often for safety purposes**
+- **Twice the number, [[a/_amount|amount]], size, etc.**
+- **A person who resembles and stands in for [[a/_another|another]] person, often for safety purposes**
 	- _Example: Saddam Hussein was rumored to have many doubles._
-- **A drink with two portions of alcohol.**
+- **A [[d/_drink|drink]] with two portions of [[a/_alcohol|alcohol]].**
 	- _Example: On second thought, make that a double._
-- **A ghostly apparition of a living person; doppelgänger.**
+- **A ghostly [[a/_apparition|apparition]] of a living person; doppelgänger.**
 - **A sharp turn, especially a return on one's own tracks.**
-- **A redundant item for which an identical item already exists.**
+- **A redundant item for which an identical item [[a/_already|already]] exists.**
 	- _Example: Before printing the photos, Liam deleted the doubles._
-- **A two-base hit.**
+- **A two-[[b/_base|base]] hit.**
 	- _Example: The catcher hit a double to lead off the ninth._
-- **A call that increases certain scoring points if the last preceding bid becomes the contract.**
-- **A strike in which the object ball is struck so as to make it rebound against the cushion to an opposite pocket.**
-- **A bet on two horses in different races in which any winnings from the first race are placed on the horse in the later race.**
-- **The narrow outermost ring on a dartboard.**
+- **A [[c/_call|call]] that increases [[c/_certain|certain]] scoring points if the last preceding [[b/_bid|bid]] [[b/_becomes|becomes]] the [[c/_contract|contract]].**
+- **A strike in which the object [[b/_ball|ball]] is struck so as to make it rebound [[a/_against|against]] the [[c/_cushion|cushion]] to an opposite pocket.**
+- **A [[b/_bet|bet]] on two horses in [[d/_different|different]] races in which [[a/_any|any]] winnings from the first race are placed on the horse in the later race.**
+- **The narrow outermost ring on a [[d/_dartboard|dartboard]].**
 - **A hit on this ring.**
-- **A tile that has the same value (i.e., the same number of pips) on both sides.**
-- **A double-precision floating-point number.**
-- **Two competitions, usually one league and one cup, won by the same team in a single season.**
-- **A boat for two scullers.**
+- **A tile that has the same value (i.[[e/_e|e]]., the same number of pips) on [[b/_both|both]] sides.**
+- **A [[d/_double|double]]-precision floating-point number.**
+- **Two [[c/_competitions|competitions]], usually one league and one [[c/_cup|cup]], won by the same team in a single season.**
+- **A [[b/_boat|boat]] for two scullers.**
 - **The feat of scoring twice in one game.**
-- **(chiefly swimming and track) The feat of winning two events in a single meet or competition.**
+- **([[c/_chiefly|chiefly]] swimming and track) The feat of winning two events in a single meet or [[c/_competition|competition]].**
 	- _Example: In 1996, Michael Johnson achieved a double by winning both the 200 and 400 meter dashes._
-- **A former French coin worth one-sixth of a sou.**
-- **(Guernsey) A copper coin worth one-eighth of a penny.**
-- **Playing the same part on two instruments, alternately.**
-- **A double feast.**
+- **A former French [[c/_coin|coin]] worth one-sixth of a sou.**
+- **(Guernsey) A [[c/_copper|copper]] [[c/_coin|coin]] worth one-[[e/_eighth|eighth]] of a penny.**
+- **Playing the same part on two instruments, [[a/_alternately|alternately]].**
+- **A [[d/_double|double]] feast.**
 ---
 #verb
 - **To multiply by two.**
 	- _Example: The company doubled their earnings per share over last quarter._
 - **To fold over so as to make two folds.**
 	- _Example: To make a pleat, double the material at the waist._
-- **To be the double of; to exceed by twofold; to contain or be worth twice as much as.**
-- **To increase by 100%, to become twice as large in size.**
+- **To be the [[d/_double|double]] of; to exceed by twofold; to [[c/_contain|contain]] or be worth twice as much as.**
+- **To increase by 100%, to [[b/_become|become]] twice as large in size.**
 	- _Example: Our earnings have doubled in the last year._
-- **To get a two-base hit.**
+- **To get a two-[[b/_base|base]] hit.**
 	- _Example: The batter doubled into the corner._
-- **(sometimes followed by up) To clench (a fist).**
-- **(often followed by together or up) To join or couple.**
-- **To repeat exactly; copy.**
+- **(sometimes followed by up) To [[c/_clench|clench]] (a fist).**
+- **(often followed by together or up) To join or [[c/_couple|couple]].**
+- **To repeat exactly; [[c/_copy|copy]].**
 - **(often followed by as) To play a second part or serve a second role.**
 	- _Example: A spork is a kind of fork that doubles as a spoon._
-- **To turn sharply, following a winding course.**
-- **To sail around (a headland or other point).**
-- **To duplicate (a part) either in unison or at the octave above or below it.**
-- **(usually followed by "on") To be capable of performing (upon an additional instrument).**
-- **To make a call that will double certain scoring points if the preceding bid becomes the contract.**
-- **To double down.**
-- **To cause (a ball) to rebound from a cushion before entering the pocket.**
-- **(followed by for) To act as substitute.**
+- **To turn sharply, following a winding [[c/_course|course]].**
+- **To sail [[a/_around|around]] (a headland or other point).**
+- **To [[d/_duplicate|duplicate]] (a part) [[e/_either|either]] in unison or at the octave [[a/_above|above]] or [[b/_below|below]] it.**
+- **(usually followed by "on") To be [[c/_capable|capable]] of performing (upon an [[a/_additional|additional]] instrument).**
+- **To make a [[c/_call|call]] that will [[d/_double|double]] [[c/_certain|certain]] scoring points if the preceding [[b/_bid|bid]] [[b/_becomes|becomes]] the [[c/_contract|contract]].**
+- **To [[d/_double|double]] [[d/_down|down]].**
+- **To [[c/_cause|cause]] (a [[b/_ball|ball]]) to rebound from a [[c/_cushion|cushion]] [[b/_before|before]] [[e/_entering|entering]] the pocket.**
+- **(followed by for) To [[a/_act|act]] as substitute.**
 - **To go or march at twice the normal speed.**
-- **To multiply the strength or effect of by two.**
+- **To multiply the strength or [[e/_effect|effect]] of by two.**
 	- _Example: Sorry, this store does not double coupons._
-- **To unite, as ranks or files, so as to form one from each two.**
-- **(of a station) To transmit simultaneously on the same channel as another station, either unintentionally or deliberately, causing interference.**
+- **To unite, as ranks or files, so as to form one from [[e/_each|each]] two.**
+- **(of a station) To transmit simultaneously on the same [[c/_channel|channel]] as [[a/_another|another]] station, [[e/_either|either]] unintentionally or [[d/_deliberately|deliberately]], [[c/_causing|causing]] interference.**
 	- _Example: Could you please repeat your last transmission? Another station was doubling with you._
 ---
 ### Synonyms
@@ -64,19 +64,19 @@
 ### Antonyms
 - [[halve]]
 #adjective
-- **Made up of two matching or complementary elements.**
+- **Made up of two matching or [[c/_complementary|complementary]] [[e/_elements|elements]].**
 	- _Example: The closet has double doors._
 - **Of twice the quantity.**
 	- _Example: Give me a double serving of mashed potatoes._
-- **Of a family relationship, related on both the maternal and paternal sides of a family.**
+- **Of a family relationship, related on [[b/_both|both]] the maternal and paternal sides of a family.**
 	- _Example: He's my double cousin as my mother's sister married my father's brother._
-- **Designed for two users.**
+- **[[d/_designed|Designed]] for two users.**
 	- _Example: a double room_
-- **Folded in two; composed of two layers.**
-- **Stooping; bent over.**
-- **Having two aspects; ambiguous.**
+- **Folded in two; [[c/_composed|composed]] of two layers.**
+- **Stooping; [[b/_bent|bent]] over.**
+- **Having two [[a/_aspects|aspects]]; [[a/_ambiguous|ambiguous]].**
 	- _Example: a double meaning_
-- **False, deceitful, or hypocritical.**
+- **False, [[d/_deceitful|deceitful]], or hypocritical.**
 	- _Example: a double life_
 - **Of flowers, having more than the normal number of petals.**
 - **Of an instrument, sounding an octave lower.**
@@ -84,19 +84,19 @@
 - **Of time, twice as fast.**
 ---
 ### Synonyms
-- [[twofold]], [[[[b/_binary|binary]]]], [[twin]], [[[[d/_duplicate|duplicate]]]], [[twofold]]
+- [[twofold]], [[binary]], [[twin]], [[duplicate]], [[twofold]]
 ### Antonyms
 - [[half]], [[half]]
 #adverb
-- **Twice over; twofold; doubly.**
-- **Two together; two at a time. (especially in see double)**
+- **Twice over; twofold; [[d/_doubly|doubly]].**
+- **Two together; two at a time. (especially in see [[d/_double|double]])**
 	- _Example: There are only a few beds, so some of the children will have to sleep double for the night._
 ---
 ### Synonyms
-- [[[[d/_doubly|doubly]]]]
+- [[doubly]]
 #noun
-- **The double time, a marching cadence (pace) approaching running speed.**
+- **The [[d/_double|double]] time, a marching [[c/_cadence|cadence]] (pace) [[a/_approaching|approaching]] running speed.**
 ---
 ### Synonyms
-- [[[[d/_double|double]]]]
+- [[double]]
 ---

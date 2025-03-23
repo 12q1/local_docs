@@ -1,6 +1,6 @@
 # Dramatically
 ---
 #adverb
-- **In a dramatic manner.**
+- **In a [[d/_dramatic|dramatic]] manner.**
 ---
 ---

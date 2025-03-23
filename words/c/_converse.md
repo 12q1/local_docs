@@ -1,11 +1,11 @@
 # Converse
 ---
 #noun
-- **Free verbal interchange of thoughts or views; conversation; chat.**
+- **Free verbal interchange of thoughts or views; [[c/_conversation|conversation]]; [[c/_chat|chat]].**
 ---
 #verb
-- **To talk; to engage in conversation**
-- **To keep company; to hold intimate intercourse; to commune; followed by with**
+- **To talk; to [[e/_engage|engage]] in [[c/_conversation|conversation]]**
+- **To keep [[c/_company|company]]; to hold intimate intercourse; to [[c/_commune|commune]]; followed by with**
 - **To have knowledge of (a thing), from long intercourse or study**
 ---
 ---

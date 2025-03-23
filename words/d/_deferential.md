@@ -1,10 +1,10 @@
 # Deferential
 ---
 #adjective
-- **Respectful and considerate; showing deference.**
-- **Based on deference; based on the doctrine, ideology, or wishes of others rather than one's own conclusions.**
-- **Of, or relating to the vas deferens.**
+- **Respectful and [[c/_considerate|considerate]]; showing [[d/_deference|deference]].**
+- **[[b/_based|Based]] on [[d/_deference|deference]]; [[b/_based|based]] on the [[d/_doctrine|doctrine]], ideology, or wishes of others rather than one's own [[c/_conclusions|conclusions]].**
+- **Of, or relating to the vas [[d/_deferens|deferens]].**
 ---
 ### Antonyms
-- [[[[d/_derogative|derogative]]]], [[[[d/_derogatory|derogatory]]]]
+- [[derogative]], [[derogatory]]
 ---

@@ -1,6 +1,6 @@
 # Anatomically
 ---
 #adverb
-- **Pertaining to the anatomy.**
+- **Pertaining to the [[a/_anatomy|anatomy]].**
 ---
 ---

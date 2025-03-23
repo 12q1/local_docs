@@ -1,9 +1,9 @@
 # Ecbolic
 ---
 #noun
-- **An agent that produces abortion of a fetus or hastens delivery of the same.**
+- **An [[a/_agent|agent]] that produces [[a/_abortion|abortion]] of a fetus or hastens [[d/_delivery|delivery]] of the same.**
 ---
 #adjective
-- **Producing abortion of a fetus or accelerating childbirth, oxytocic.**
+- **Producing [[a/_abortion|abortion]] of a fetus or [[a/_accelerating|accelerating]] [[c/_childbirth|childbirth]], oxytocic.**
 ---
 ---

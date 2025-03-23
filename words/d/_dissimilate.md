@@ -1,7 +1,7 @@
 # Dissimilate
 ---
 #verb
-- **To make dissimilar or unlike.**
-- **To become dissimilar or unlike.**
+- **To make [[d/_dissimilar|dissimilar]] or unlike.**
+- **To [[b/_become|become]] [[d/_dissimilar|dissimilar]] or unlike.**
 ---
 ---

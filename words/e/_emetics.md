@@ -1,7 +1,7 @@
 # Emetics
 ---
 #noun
-- **An agent that induces vomiting**
+- **An [[a/_agent|agent]] that induces vomiting**
 ---
 ### Synonyms
 - [[vomitive]], [[vomitory]]

@@ -1,9 +1,9 @@
 # Deaconesses
 ---
 #noun
-- **A female deacon.**
-- **A female servant in the early Christian church.**
-- **The nun in charge of the altar in a convent.**
-- **One of an order of women in some Protestant churches who nurse the sick and tend the poor.**
+- **A female [[d/_deacon|deacon]].**
+- **A female servant in the [[e/_early|early]] [[c/_christian|Christian]] [[c/_church|church]].**
+- **The nun in [[c/_charge|charge]] of the [[a/_altar|altar]] in a [[c/_convent|convent]].**
+- **One of an order of women in some Protestant [[c/_churches|churches]] who nurse the sick and tend the poor.**
 ---
 ---

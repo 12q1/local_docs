@@ -2,8 +2,8 @@
 ---
 #noun
 - **A tree (Terminalia latifolia, now Terminalia catappa) of Jamaica.**
-- **A type of tobacco having broad leaves, used for making cigars.**
+- **A type of tobacco having [[b/_broad|broad]] leaves, used for making [[c/_cigars|cigars]].**
 ---
 ### Synonyms
-- [[Indian [[a/_almond|almond]]]], [[[[a/_almond|almond]] tree]], [[tropical [[a/_almond|almond]]]], [[umbrella tree]]
+- [[Indian almond]], [[almond tree]], [[tropical almond]], [[umbrella tree]]
 ---

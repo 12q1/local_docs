@@ -1,6 +1,6 @@
 # Easterlies
 ---
 #noun
-- **Any persistent wind from the east (usually applied to broad currents or belts of easterly winds).**
+- **[[a/_any|Any]] persistent wind from the [[e/_east|east]] (usually [[a/_applied|applied]] to [[b/_broad|broad]] [[c/_currents|currents]] or [[b/_belts|belts]] of [[e/_easterly|easterly]] winds).**
 ---
 ---

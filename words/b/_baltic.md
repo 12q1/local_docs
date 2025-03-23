@@ -1,9 +1,9 @@
 # Baltic
 ---
 #adjective
-- **Of or pertaining to the Baltic region or the Baltic Sea.**
-- **Of or pertaining to any of the Baltic languages.**
-- **Of or pertaining to the Balts (the Baltic peoples).**
-- **Extremely cold.**
+- **Of or pertaining to the [[b/_baltic|Baltic]] region or the [[b/_baltic|Baltic]] Sea.**
+- **Of or pertaining to [[a/_any|any]] of the [[b/_baltic|Baltic]] languages.**
+- **Of or pertaining to the Balts (the [[b/_baltic|Baltic]] peoples).**
+- **Extremely [[c/_cold|cold]].**
 ---
 ---

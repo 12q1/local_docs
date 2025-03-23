@@ -1,16 +1,16 @@
 # Bunching
 ---
 #verb
-- **To gather into a bunch.**
+- **To gather into a [[b/_bunch|bunch]].**
 - **To gather fabric into folds.**
-- **To form a bunch.**
+- **To form a [[b/_bunch|bunch]].**
 - **To be gathered together in folds**
 - **To protrude or swell**
 ---
 ### Synonyms
-- [[[[c/_cluster|cluster]]]], [[group]]
+- [[cluster]], [[group]]
 #noun
-- **An arrangement of items in a bunch.**
-- **The illegitimate supplying of laboratory animals that are actually kidnapped pets or illegally trapped strays.**
+- **An [[a/_arrangement|arrangement]] of items in a [[b/_bunch|bunch]].**
+- **The illegitimate supplying of laboratory [[a/_animals|animals]] that are [[a/_actually|actually]] kidnapped pets or illegally trapped strays.**
 ---
 ---

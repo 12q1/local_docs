@@ -1,8 +1,8 @@
 # Barraged
 ---
 #verb
-- **To direct a barrage at.**
+- **To [[d/_direct|direct]] a [[b/_barrage|barrage]] at.**
 ---
 ### Synonyms
-- [[[[b/_bombard|bombard]]]]
+- [[bombard]]
 ---

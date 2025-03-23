@@ -1,6 +1,6 @@
 # Castrate
 ---
 #noun
-- **A castrated man; a eunuch.**
+- **A [[c/_castrated|castrated]] man; a eunuch.**
 ---
 ---

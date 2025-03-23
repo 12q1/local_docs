@@ -1,12 +1,12 @@
 # Cinctures
 ---
 #noun
-- **An enclosure, or the act of enclosing, encircling or encompassing**
-- **A girdle or belt, especially as part of a vestment**
-- **The fillet, listel, or band next to the apophyge at the extremity of the shaft of a column.**
+- **An [[e/_enclosure|enclosure]], or the [[a/_act|act]] of [[e/_enclosing|enclosing]], [[e/_encircling|encircling]] or [[e/_encompassing|encompassing]]**
+- **A girdle or [[b/_belt|belt]], especially as part of a vestment**
+- **The fillet, listel, or [[b/_band|band]] next to the [[a/_apophyge|apophyge]] at the extremity of the shaft of a [[c/_column|column]].**
 ---
 #verb
-- **To encircle or surround.**
-- **(viniculture) To girdle (stunt or kill by cutting).**
+- **To [[e/_encircle|encircle]] or surround.**
+- **(viniculture) To girdle (stunt or kill by [[c/_cutting|cutting]]).**
 ---
 ---

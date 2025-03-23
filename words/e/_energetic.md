@@ -1,10 +1,10 @@
 # Energetic
 ---
 #adjective
-- **Possessing or pertaining to energy.**
+- **Possessing or pertaining to [[e/_energy|energy]].**
 	- _Example: Cosmic rays are energetic particles from outer space._
-- **Characterised by force or vigour; full of energy; lively, vigorous.**
+- **[[c/_characterised|Characterised]] by force or vigour; full of [[e/_energy|energy]]; lively, vigorous.**
 	- _Example: Those kids are so energetic: they want to run around playing all day._
-- **Having powerful effects; efficacious, potent.**
+- **Having powerful [[e/_effects|effects]]; [[e/_efficacious|efficacious]], potent.**
 ---
 ---

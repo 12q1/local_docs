@@ -1,6 +1,6 @@
 # Abominably
 ---
 #adverb
-- **In an abominable manner; very odiously; detestably.**
+- **In an [[a/_abominable|abominable]] manner; very odiously; [[d/_detestably|detestably]].**
 ---
 ---

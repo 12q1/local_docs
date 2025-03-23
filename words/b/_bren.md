@@ -1,6 +1,6 @@
 # Bren
 ---
 #verb
-- **To burn (to set ablaze).**
+- **To [[b/_burn|burn]] (to set [[a/_ablaze|ablaze]]).**
 ---
 ---

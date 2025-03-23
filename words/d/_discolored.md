@@ -1,13 +1,13 @@
 # Discolored
 ---
 #verb
-- **To change or lose color.**
+- **To [[c/_change|change]] or lose [[c/_color|color]].**
 	- _Example: Washing light laundry with dark may cause your clothes to discolor._
 ---
 #adjective
-- **Deprived of color, or given the wrong color; pale, stained.**
+- **[[d/_deprived|Deprived]] of [[c/_color|color]], or given the wrong [[c/_color|color]]; pale, stained.**
 - **Multicolored.**
 ---
 ### Synonyms
-- [[[[b/_bleached|bleached]]]], [[[[d/_decoloured|decoloured]]]], [[whitened]], [[[[b/_blemished|blemished]]]], [[maculate]], [[tarnished]], [[motley]], [[multihued]], [[polychromatic]]
+- [[bleached]], [[decoloured]], [[whitened]], [[blemished]], [[maculate]], [[tarnished]], [[motley]], [[multihued]], [[polychromatic]]
 ---

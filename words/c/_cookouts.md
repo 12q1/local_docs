@@ -1,6 +1,6 @@
 # Cookouts
 ---
 #noun
-- **A gathering for a meal that is cooked and eaten outside; either a domestic barbecue or a larger social event.**
+- **A gathering for a meal that is [[c/_cooked|cooked]] and [[e/_eaten|eaten]] outside; [[e/_either|either]] a [[d/_domestic|domestic]] [[b/_barbecue|barbecue]] or a larger social event.**
 ---
 ---

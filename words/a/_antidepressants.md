@@ -1,7 +1,7 @@
 # Antidepressants
 ---
 #noun
-- **An agent that prevents or counteracts depression.**
+- **An [[a/_agent|agent]] that prevents or [[c/_counteracts|counteracts]] [[d/_depression|depression]].**
 ---
 ### Antonyms
 - [[depressogenic]]

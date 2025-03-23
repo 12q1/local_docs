@@ -1,6 +1,6 @@
 # Enfetter
 ---
 #verb
-- **To bind in fetters; to enchain.**
+- **To [[b/_bind|bind]] in fetters; to [[e/_enchain|enchain]].**
 ---
 ---

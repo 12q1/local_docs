@@ -1,12 +1,12 @@
 # Egged
 ---
 #verb
-- **To throw eggs at.**
-- **To dip in or coat with beaten egg.**
-- **To distort a circular cross-section (as in a tube) to an elliptical or oval shape, either inadvertently or intentionally.**
+- **To throw [[e/_eggs|eggs]] at.**
+- **To [[d/_dip|dip]] in or [[c/_coat|coat]] with [[b/_beaten|beaten]] [[e/_egg|egg]].**
+- **To [[d/_distort|distort]] a [[c/_circular|circular]] [[c/_cross|cross]]-section (as in a tube) to an [[e/_elliptical|elliptical]] or oval shape, [[e/_either|either]] inadvertently or intentionally.**
 	- _Example: After I cut the tubing, I found that I had slightly egged it in the vise._
 ---
 #verb
-- **To encourage, incite.**
+- **To [[e/_encourage|encourage]], incite.**
 ---
 ---

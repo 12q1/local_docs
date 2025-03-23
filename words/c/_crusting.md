@@ -1,11 +1,11 @@
 # Crusting
 ---
 #verb
-- **To cover with a crust.**
-- **To form a crust.**
+- **To [[c/_cover|cover]] with a [[c/_crust|crust]].**
+- **To form a [[c/_crust|crust]].**
 ---
 #noun
-- **Encrusted material.**
+- **[[e/_encrusted|Encrusted]] material.**
 	- _Example: the crustings on a barrel_
 ---
 ---

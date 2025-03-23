@@ -1,11 +1,11 @@
 # Bareback
 ---
 #noun
-- **A bird, raised for meat, that lacks feathers, seen as an undesirable trait.**
+- **A [[b/_bird|bird]], raised for meat, that lacks feathers, seen as an undesirable trait.**
 ---
 #verb
-- **To have sex without a condom.**
-- **To have, usually male to male, anal sex without a condom.**
+- **To have sex without a [[c/_condom|condom]].**
+- **To have, usually male to male, [[a/_anal|anal]] sex without a [[c/_condom|condom]].**
 ---
 #adjective
 - **Without a saddle.**
@@ -14,7 +14,7 @@
 #adverb
 - **Without a saddle.**
 	- _Example: I can ride a horse bareback._
-- **Without a condom.**
+- **Without a [[c/_condom|condom]].**
 	- _Example: We had sex bareback._
 ---
 ---

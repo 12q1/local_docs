@@ -1,7 +1,7 @@
 # Dumdums
 ---
 #noun
-- **A soft-nosed bullet that expands on impact to cause a gaping wound.**
+- **A soft-nosed [[b/_bullet|bullet]] that expands on impact to [[c/_cause|cause]] a gaping wound.**
 ---
 #noun
 - **An ignorant person; an idiot.**

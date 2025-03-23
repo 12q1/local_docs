@@ -1,9 +1,9 @@
 # Dappled
 ---
 #verb
-- **To mark or become marked with mottling or spots.**
+- **To mark or [[b/_become|become]] marked with mottling or spots.**
 ---
 #adjective
-- **Having a mottled or spotted skin or coat, dapple.**
+- **Having a mottled or spotted skin or [[c/_coat|coat]], [[d/_dapple|dapple]].**
 ---
 ---

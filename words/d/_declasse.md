@@ -1,6 +1,6 @@
 # Declasse
 ---
 #adjective
-- **Degraded from one's social class.**
+- **[[d/_degraded|Degraded]] from one's social [[c/_class|class]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Cathouse
 ---
 #noun
-- **A brothel.**
-- **Any small house or structure or enclosure used to house a cat.**
+- **A [[b/_brothel|brothel]].**
+- **[[a/_any|Any]] small house or structure or [[e/_enclosure|enclosure]] used to house a [[c/_cat|cat]].**
 ---
 ---

@@ -1,24 +1,24 @@
 # Crab
 ---
 #noun
-- **A crustacean of the infraorder Brachyura, having five pairs of legs, the foremost of which are in the form of claws, and a carapace.**
-- **The meat of this crustacean, served as food; crabmeat**
-- **A bad-tempered person.**
-- **(in plural crabs) An infestation of pubic lice (Pthirus pubis).**
+- **A [[c/_crustacean|crustacean]] of the infraorder [[b/_brachyura|Brachyura]], having five pairs of legs, the foremost of which are in the form of [[c/_claws|claws]], and a [[c/_carapace|carapace]].**
+- **The meat of this [[c/_crustacean|crustacean]], served as food; [[c/_crabmeat|crabmeat]]**
+- **A [[b/_bad|bad]]-tempered person.**
+- **(in plural [[c/_crabs|crabs]]) An infestation of pubic lice (Pthirus pubis).**
 	- _Example: Although crabs themselves are an easily treated inconvenience, the patient and his partner(s) clearly run major STD risks._
-- **A playing card with the rank of three.**
+- **A playing [[c/_card|card]] with the rank of three.**
 - **A position in rowing where the oar is pushed under the rigger by the force of the water.**
-- **A defect in an outwardly normal object that may render it inconvenient and troublesome to use.**
-- **An unsold book that is returned to the publisher.**
+- **A [[d/_defect|defect]] in an outwardly normal object that may render it inconvenient and troublesome to use.**
+- **An unsold [[b/_book|book]] that is returned to the publisher.**
 ---
 #verb
-- **To fish for crabs.**
+- **To fish for [[c/_crabs|crabs]].**
 - **To ruin.**
-- **To complain.**
-- **To drift or move sideways or to leeward (by analogy with the movement of a crab).**
-- **To navigate (an aircraft, e.g. a glider) sideways against an air current in order to maintain a straight-line course.**
-- **To move (a camera) sideways.**
-- **(World War I), to fly slightly off the straight-line course towards an enemy aircraft, as the machine guns on early aircraft did not allow firing through the propeller disk.**
-- **To back out of something.**
+- **To [[c/_complain|complain]].**
+- **To [[d/_drift|drift]] or move sideways or to leeward (by [[a/_analogy|analogy]] with the movement of a [[c/_crab|crab]]).**
+- **To navigate (an [[a/_aircraft|aircraft]], [[e/_e|e]].g. a glider) sideways [[a/_against|against]] an [[a/_air|air]] [[c/_current|current]] in order to maintain a straight-line [[c/_course|course]].**
+- **To move (a [[c/_camera|camera]]) sideways.**
+- **(World War I), to fly slightly off the straight-line [[c/_course|course]] towards an [[e/_enemy|enemy]] [[a/_aircraft|aircraft]], as the machine guns on [[e/_early|early]] [[a/_aircraft|aircraft]] [[d/_did|did]] not [[a/_allow|allow]] firing through the propeller [[d/_disk|disk]].**
+- **To [[b/_back|back]] out of something.**
 ---
 ---

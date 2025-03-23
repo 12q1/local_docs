@@ -1,0 +1,6 @@
+# Epicarps
+---
+#noun
+- **Exocarp.**
+---
+---

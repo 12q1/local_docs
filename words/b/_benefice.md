@@ -1,11 +1,11 @@
 # Benefice
 ---
 #noun
-- **Land granted to a priest in a church that has a source of income attached to it.**
-- **A favour or benefit.**
+- **Land granted to a priest in a [[c/_church|church]] that has a source of income [[a/_attached|attached]] to it.**
+- **A favour or [[b/_benefit|benefit]].**
 - **(feudal law) An estate in lands; a fief.**
 ---
 #verb
-- **To bestow a benefice upon**
+- **To [[b/_bestow|bestow]] a [[b/_benefice|benefice]] upon**
 ---
 ---

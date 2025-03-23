@@ -1,20 +1,20 @@
 # Embracing
 ---
 #verb
-- **To clasp (someone or each other) in the arms with affection; to take in the arms; to hug.**
-- **To seize (something) eagerly or with alacrity; to accept or take up with cordiality; to welcome.**
+- **To [[c/_clasp|clasp]] (someone or [[e/_each|each]] other) in the [[a/_arms|arms]] with [[a/_affection|affection]]; to take in the [[a/_arms|arms]]; to hug.**
+- **To seize (something) [[e/_eagerly|eagerly]] or with [[a/_alacrity|alacrity]]; to [[a/_accept|accept]] or take up with [[c/_cordiality|cordiality]]; to welcome.**
 	- _Example: I wholeheartedly embrace the new legislation._
 - **To submit to; to undergo.**
-- **To encircle; to enclose, to encompass.**
-- **To enfold, to include (ideas, principles, etc.); to encompass.**
+- **To [[e/_encircle|encircle]]; to [[e/_enclose|enclose]], to [[e/_encompass|encompass]].**
+- **To [[e/_enfold|enfold]], to include (ideas, principles, etc.); to [[e/_encompass|encompass]].**
 	- _Example: Natural philosophy embraces many sciences._
-- **To fasten on, as armour.**
-- **To accept (someone) as a friend; to accept (someone's) help gladly.**
-- **To attempt to influence (a court, jury, etc.) corruptly; to practise embracery.**
+- **To fasten on, as [[a/_armour|armour]].**
+- **To [[a/_accept|accept]] (someone) as a friend; to [[a/_accept|accept]] (someone's) help gladly.**
+- **To [[a/_attempt|attempt]] to influence (a [[c/_court|court]], jury, etc.) [[c/_corruptly|corruptly]]; to practise [[e/_embracery|embracery]].**
 ---
 ### Synonyms
-- [[[[a/_accept|accept]]]], [[entwine]], [[surround]], [[fall on someone's neck]]
+- [[accept]], [[entwine]], [[surround]], [[fall on someone's neck]]
 #noun
-- **The act of embracing (in various senses).**
+- **The [[a/_act|act]] of [[e/_embracing|embracing]] (in various senses).**
 ---
 ---

@@ -1,6 +1,6 @@
 # Enterocoele
 ---
 #noun
-- **A perivisceral cavity which arises as an outgrowth or outgrowths from the digestive tract.**
+- **A perivisceral [[c/_cavity|cavity]] which [[a/_arises|arises]] as an outgrowth or outgrowths from the [[d/_digestive|digestive]] tract.**
 ---
 ---

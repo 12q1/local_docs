@@ -2,9 +2,9 @@
 ---
 #verb
 - **To give.**
-- **To convey, as by will or lease.**
+- **To [[c/_convey|convey]], as by will or lease.**
 - **To transmit by inheritance.**
 - **To pass by inheritance.**
-- **To die.**
+- **To [[d/_die|die]].**
 ---
 ---

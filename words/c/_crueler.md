@@ -1,13 +1,13 @@
 # Crueler
 ---
 #adjective
-- **Intentionally causing or reveling in pain and suffering; merciless, heartless.**
+- **Intentionally [[c/_causing|causing]] or reveling in pain and suffering; merciless, heartless.**
 	- _Example: The supervisor was very cruel to Josh, as he would always give Josh the hardest, most degrading work he could find._
 - **Harsh; severe.**
-- **Cool; awesome; neat.**
+- **[[c/_cool|Cool]]; [[a/_awesome|awesome]]; neat.**
 ---
 ### Synonyms
-- [[[[b/_brutal|brutal]]]], [[sadistic]]
+- [[brutal]], [[sadistic]]
 ### Antonyms
 - [[merciful]]
 ---

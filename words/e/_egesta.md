@@ -1,6 +1,6 @@
 # Egesta
 ---
 #noun
-- **The waste which is carried out from a cell or an organism; the result of egestion; excrement**
+- **The waste which is [[c/_carried|carried]] out from a [[c/_cell|cell]] or an organism; the result of [[e/_egestion|egestion]]; excrement**
 ---
 ---

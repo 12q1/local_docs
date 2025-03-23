@@ -1,19 +1,19 @@
 # Auxiliary
 ---
 #noun
-- **A person or group that acts in an auxiliary manner.**
-- **A sailing vessel equipped with an engine.**
-- **(grammar) An auxiliary verb.**
-- **A marching band colorguard.**
+- **A person or group that [[a/_acts|acts]] in an [[a/_auxiliary|auxiliary]] manner.**
+- **A sailing vessel [[e/_equipped|equipped]] with an [[e/_engine|engine]].**
+- **(grammar) An [[a/_auxiliary|auxiliary]] verb.**
+- **A marching [[b/_band|band]] colorguard.**
 ---
 #adjective
-- **Helping; giving assistance or support.**
+- **Helping; giving [[a/_assistance|assistance]] or support.**
 	- _Example: auxiliary troops_
 - **Supplementary or subsidiary.**
-- **Held in reserve for exceptional circumstances.**
-- **Of a ship, having both sails and an engine.**
-- **(grammar) Relating to an auxiliary verb.**
+- **Held in reserve for exceptional [[c/_circumstances|circumstances]].**
+- **Of a ship, having [[b/_both|both]] sails and an [[e/_engine|engine]].**
+- **(grammar) Relating to an [[a/_auxiliary|auxiliary]] verb.**
 ---
 ### Synonyms
-- [[motorsailer]], [[[[a/_accessory|accessory]]]], [[[[a/_accessory|accessory]]]], [[[[a/_ancillary|ancillary]]]]
+- [[motorsailer]], [[accessory]], [[accessory]], [[ancillary]]
 ---

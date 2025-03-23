@@ -1,6 +1,6 @@
 # Backveld
 ---
 #noun
-- **(southern Africa) Backward and unsophisticated rural areas.**
+- **(southern [[a/_africa|Africa]]) [[b/_backward|Backward]] and unsophisticated rural [[a/_areas|areas]].**
 ---
 ---

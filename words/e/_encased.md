@@ -1,6 +1,6 @@
 # Encased
 ---
 #verb
-- **To enclose, as in a case.**
+- **To [[e/_enclose|enclose]], as in a [[c/_case|case]].**
 ---
 ---

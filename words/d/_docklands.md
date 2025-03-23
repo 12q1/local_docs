@@ -1,6 +1,6 @@
 # Docklands
 ---
 #noun
-- **An area of a town or city which contains, or used to contain, an industrial port.**
+- **An [[a/_area|area]] of a town or [[c/_city|city]] which [[c/_contains|contains]], or used to [[c/_contain|contain]], an industrial port.**
 ---
 ---

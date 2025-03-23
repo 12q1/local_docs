@@ -1,6 +1,6 @@
 # Counteraccusation
 ---
 #noun
-- **An accusation made in reply to another accusation.**
+- **An [[a/_accusation|accusation]] made in reply to [[a/_another|another]] [[a/_accusation|accusation]].**
 ---
 ---

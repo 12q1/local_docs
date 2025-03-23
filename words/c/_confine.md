@@ -1,12 +1,12 @@
 # Confine
 ---
 #noun
-- **(chiefly in the plural) A boundary or limit.**
+- **([[c/_chiefly|chiefly]] in the plural) A [[b/_boundary|boundary]] or limit.**
 ---
 ### Synonyms
-- [[[[b/_border|border]]]], [[[[b/_bound|bound]]]], [[limit]]
+- [[border]], [[bound]], [[limit]]
 #verb
-- **To restrict; to keep within bounds; to shut or keep in a limited space or area.**
-- **To have a common boundary; to border; to lie contiguous; to touch; followed by on or with.**
+- **To restrict; to keep within [[b/_bounds|bounds]]; to shut or keep in a limited space or [[a/_area|area]].**
+- **To have a [[c/_common|common]] [[b/_boundary|boundary]]; to [[b/_border|border]]; to lie [[c/_contiguous|contiguous]]; to touch; followed by on or with.**
 ---
 ---

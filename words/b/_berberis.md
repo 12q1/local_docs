@@ -1,8 +1,8 @@
 # Berberis
 ---
 #noun
-- **Any of very many evergreen or deciduous shrubs of the genus Berberis.**
+- **[[a/_any|Any]] of very many evergreen or [[d/_deciduous|deciduous]] shrubs of the genus [[b/_berberis|Berberis]].**
 ---
 ### Synonyms
-- [[[[b/_barberry|barberry]]]]
+- [[barberry]]
 ---

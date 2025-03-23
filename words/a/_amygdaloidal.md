@@ -1,7 +1,7 @@
 # Amygdaloidal
 ---
 #adjective
-- **Shaped like an almond**
-- **Of, like or pertaining to, the amygdaloid mineral.**
+- **Shaped like an [[a/_almond|almond]]**
+- **Of, like or pertaining to, the [[a/_amygdaloid|amygdaloid]] mineral.**
 ---
 ---

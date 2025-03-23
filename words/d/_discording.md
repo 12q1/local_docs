@@ -1,6 +1,6 @@
 # Discording
 ---
 #verb
-- **To disagree; to fail to agree or harmonize; clash.**
+- **To [[d/_disagree|disagree]]; to fail to [[a/_agree|agree]] or harmonize; [[c/_clash|clash]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Disincentive
 ---
 #noun
-- **That which discourages a particular behaviour; a deterrent.**
+- **That which [[d/_discourages|discourages]] a particular [[b/_behaviour|behaviour]]; a [[d/_deterrent|deterrent]].**
 ---
 ### Antonyms
 - [[incentive]]

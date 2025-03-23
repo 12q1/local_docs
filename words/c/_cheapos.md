@@ -1,9 +1,9 @@
 # Cheapos
 ---
 #noun
-- **A person who is stingy, a cheapskate.**
-- **A primitive trap, often set in the hope of swindling a win or draw from a losing position.**
+- **A person who is stingy, a [[c/_cheapskate|cheapskate]].**
+- **A primitive trap, often set in the hope of swindling a win or [[d/_draw|draw]] from a losing position.**
 ---
 ### Synonyms
-- [[[[c/_cheapie|cheapie]]]], [[piker]], [[skinflint]], [[tightwad]]
+- [[cheapie]], [[piker]], [[skinflint]], [[tightwad]]
 ---

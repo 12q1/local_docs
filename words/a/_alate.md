@@ -7,5 +7,5 @@
 - **Having winglike extensions or parts; winged.**
 ---
 ### Synonyms
-- [[[[a/_alated|alated]]]]
+- [[alated]]
 ---

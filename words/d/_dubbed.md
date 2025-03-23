@@ -1,25 +1,25 @@
 # Dubbed
 ---
 #verb
-- **To confer knighthood; the conclusion of the ceremony was marked by a tap on the shoulder with a sword.**
-- **To name, to entitle, to call.**
-- **To deem.**
-- **To clothe or invest; to ornament; to adorn.**
-- **(heading) To strike, rub, or dress smooth; to dab.**
-- **To prepare (a gamecock) for fighting, by trimming the hackles and cutting off the comb and wattles.**
+- **To [[c/_confer|confer]] knighthood; the [[c/_conclusion|conclusion]] of the [[c/_ceremony|ceremony]] was marked by a tap on the shoulder with a sword.**
+- **To name, to [[e/_entitle|entitle]], to [[c/_call|call]].**
+- **To [[d/_deem|deem]].**
+- **To [[c/_clothe|clothe]] or invest; to ornament; to [[a/_adorn|adorn]].**
+- **(heading) To strike, rub, or [[d/_dress|dress]] smooth; to [[d/_dab|dab]].**
+- **To prepare (a gamecock) for fighting, by trimming the hackles and [[c/_cutting|cutting]] off the [[c/_comb|comb]] and wattles.**
 ---
 #verb
-- **To make a noise by brisk drumbeats.**
-- **To do something badly.**
+- **To make a noise by [[b/_brisk|brisk]] [[d/_drumbeats|drumbeats]].**
+- **To [[d/_do|do]] something [[b/_badly|badly]].**
 - **In golf, to execute a shot poorly.**
 ---
 #verb
-- **To add sound to film or change audio on film.**
-- **To make a copy from an original or master audio tape.**
+- **To [[a/_add|add]] sound to film or [[c/_change|change]] [[a/_audio|audio]] on film.**
+- **To make a [[c/_copy|copy]] from an original or master [[a/_audio|audio]] tape.**
 - **To replace the original soundtrack of a film with a synchronized translation**
-- **To mix audio tracks to produce a new sound; to remix.**
+- **To mix [[a/_audio|audio]] tracks to produce a new sound; to remix.**
 ---
 #verb
-- **To open or close.**
+- **To open or [[c/_close|close]].**
 ---
 ---

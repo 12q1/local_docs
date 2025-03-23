@@ -1,16 +1,16 @@
 # Abnormity
 ---
 #noun
-- **The state or quality of being abnormal; variation; irregularity.**
-- **Something abnormal; an aberration; an abnormal occurrence or feature.**
+- **The state or quality of [[b/_being|being]] [[a/_abnormal|abnormal]]; variation; irregularity.**
+- **Something [[a/_abnormal|abnormal]]; an [[a/_aberration|aberration]]; an [[a/_abnormal|abnormal]] occurrence or feature.**
 ---
 ### Synonyms
-- [[[[a/_aberrant|aberrant]]]], [[[[d/_deviant|deviant]]]], [[outlier]], [[[[a/_abnormalcy|abnormalcy]]]], [[[[a/_anomalousness|anomalousness]]]], [[[[e/_enormity|enormity]]]], [[weirdness]]
+- [[aberrant]], [[deviant]], [[outlier]], [[abnormalcy]], [[anomalousness]], [[enormity]], [[weirdness]]
 ### Antonyms
 - [[normality]]
 #noun
 - **A monstrosity**
 ---
 ### Synonyms
-- [[[[a/_aberrant|aberrant]]]], [[outlier]], [[[[a/_abnormality|abnormality]]]], [[weirdness]]
+- [[aberrant]], [[outlier]], [[abnormality]], [[weirdness]]
 ---

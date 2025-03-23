@@ -1,8 +1,8 @@
 # Asseveration
 ---
 #noun
-- **An earnest affirmation; a declaration of support.**
+- **An [[e/_earnest|earnest]] [[a/_affirmation|affirmation]]; a [[d/_declaration|declaration]] of support.**
 ---
 ### Synonyms
-- [[[[a/_averment|averment]]]], [[[[a/_avowal|avowal]]]]
+- [[averment]], [[avowal]]
 ---

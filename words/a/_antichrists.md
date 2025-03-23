@@ -1,6 +1,6 @@
 # Antichrists
 ---
 #noun
-- **One who works against the teachings of Christ.**
+- **One who works [[a/_against|against]] the teachings of [[c/_christ|Christ]].**
 ---
 ---

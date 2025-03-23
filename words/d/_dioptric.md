@@ -1,12 +1,12 @@
 # Dioptric
 ---
 #noun
-- **(in the plural) The branch of optics concerned with refraction.**
-- **A dioptric telescope.**
+- **(in the plural) The [[b/_branch|branch]] of optics [[c/_concerned|concerned]] with refraction.**
+- **A [[d/_dioptric|dioptric]] telescope.**
 ---
 #adjective
-- **Pertaining to a diopter.**
-- **Acting as a medium for sight; making use of refraction (of lenses, etc.).**
-- **Capable of being seen through.**
+- **Pertaining to a [[d/_diopter|diopter]].**
+- **[[a/_acting|Acting]] as a medium for sight; making use of refraction (of lenses, etc.).**
+- **[[c/_capable|Capable]] of [[b/_being|being]] seen through.**
 ---
 ---

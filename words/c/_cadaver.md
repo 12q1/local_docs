@@ -1,8 +1,8 @@
 # Cadaver
 ---
 #noun
-- **A dead body; especially the corpse of a human to be dissected.**
+- **A [[d/_dead|dead]] [[b/_body|body]]; especially the [[c/_corpse|corpse]] of a human to be [[d/_dissected|dissected]].**
 ---
 ### Synonyms
-- [[[[b/_body|body]]]], [[[[c/_corpse|corpse]]]]
+- [[body]], [[corpse]]
 ---

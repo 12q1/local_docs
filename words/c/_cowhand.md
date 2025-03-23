@@ -1,8 +1,8 @@
 # Cowhand
 ---
 #noun
-- **One who tends free-range cattle, especially in the American West.**
+- **One who tends free-range [[c/_cattle|cattle]], especially in the [[a/_american|American]] West.**
 ---
 ### Synonyms
-- [[cowperson]], [[[[c/_cowpoke|cowpoke]]]]
+- [[cowperson]], [[cowpoke]]
 ---

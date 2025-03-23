@@ -1,27 +1,27 @@
 # Elements
 ---
 #noun
-- **One of the simplest or essential parts or principles of which anything consists, or upon which the constitution or fundamental powers of anything are based.**
+- **One of the simplest or essential parts or principles of which [[a/_anything|anything]] [[c/_consists|consists]], or upon which the [[c/_constitution|constitution]] or fundamental powers of [[a/_anything|anything]] are [[b/_based|based]].**
 	- _Example: Letters are the elements of written language._
 - **A small part of the whole.**
 	- _Example: an element of doubt;  an element of the picture_
 - **The sky.**
-- **(with "the") Atmospheric forces such as strong winds and rains.**
+- **(with "the") [[a/_atmospheric|Atmospheric]] forces such as strong winds and rains.**
 	- _Example: exposed to the elements_
-- **A place or state of being that an individual or object is best suited to.**
+- **A place or state of [[b/_being|being]] that an individual or object is [[b/_best|best]] suited to.**
 	- _Example: to be in one's element_
-- **(usually in the plural) The bread and wine taken at Holy Communion.**
-- **A group of people within a larger group having a particular common characteristic.**
+- **(usually in the plural) The [[b/_bread|bread]] and wine taken at Holy [[c/_communion|Communion]].**
+- **A group of people within a larger group having a particular [[c/_common|common]] [[c/_characteristic|characteristic]].**
 	- _Example: You sometimes find the hooligan element at football matches._
-- **A component in electrical equipment, often in the form of a coil, having a high resistance, thereby generating heat when a current is passed through it.**
+- **A [[c/_component|component]] in [[e/_electrical|electrical]] [[e/_equipment|equipment]], often in the form of a [[c/_coil|coil]], having a high resistance, thereby generating heat when a [[c/_current|current]] is passed through it.**
 	- _Example: The element in this electric kettle can heat the water in under a minute._
-- **One of the conceptual objects in a markup language, usually represented in text by tags.**
+- **One of the [[c/_conceptual|conceptual]] objects in a markup language, usually represented in text by tags.**
 ---
 ### Synonyms
-- [[[[c/_chemical|chemical]] [[e/_element|element]]]], [[firststuff]], [[member]]
+- [[chemical element]], [[firststuff]], [[member]]
 #noun
 - **Outdoor weather, such as wind or rain.**
-- **The basic tenets of an area of knowledge.**
-- **The bread and wine of the Eucharist.**
+- **The [[b/_basic|basic]] tenets of an [[a/_area|area]] of knowledge.**
+- **The [[b/_bread|bread]] and wine of the Eucharist.**
 ---
 ---

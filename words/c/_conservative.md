@@ -6,17 +6,17 @@
 ### Synonyms
 - [[reactionary]], [[right-winger]], [[traditionalist]]
 #adjective
-- **Cautious.**
-- **Tending to resist change or innovation.**
+- **[[c/_cautious|Cautious]].**
+- **Tending to resist [[c/_change|change]] or innovation.**
 	- _Example: The curriculum committee at this university is extremely conservative._
-- **Based on pessimistic assumptions.**
+- **[[b/_based|Based]] on pessimistic [[a/_assumptions|assumptions]].**
 	- _Example: At a conservative estimate, growth may even be negative next year._
-- **Supporting some combination of fiscal, political or social conservatism.**
-- **Relating to the Conservative Party.**
-- **Neither creating nor destroying a given quantity.**
-- **Having power to preserve in a safe or entire state, or from loss, waste, or injury; preservative.**
-- **Relating to Conservative Judaism.**
-- **(clothing) Conventional, traditional, and moderate in style and appearance; not extreme, excessive, faddish, or intense.**
-- **Not including any operation or intervention (said of a treatment, see conservative treatment)**
+- **Supporting some [[c/_combination|combination]] of fiscal, political or social [[c/_conservatism|conservatism]].**
+- **Relating to the [[c/_conservative|Conservative]] Party.**
+- **Neither [[c/_creating|creating]] nor [[d/_destroying|destroying]] a given quantity.**
+- **Having power to preserve in a safe or [[e/_entire|entire]] state, or from loss, waste, or injury; preservative.**
+- **Relating to [[c/_conservative|Conservative]] Judaism.**
+- **([[c/_clothing|clothing]]) [[c/_conventional|Conventional]], traditional, and moderate in style and [[a/_appearance|appearance]]; not extreme, excessive, faddish, or intense.**
+- **Not including [[a/_any|any]] operation or intervention (said of a treatment, see [[c/_conservative|conservative]] treatment)**
 ---
 ---

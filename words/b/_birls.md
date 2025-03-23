@@ -1,6 +1,6 @@
 # Birls
 ---
 #noun
-- **A girl of boyish appearance.**
+- **A girl of [[b/_boyish|boyish]] [[a/_appearance|appearance]].**
 ---
 ---

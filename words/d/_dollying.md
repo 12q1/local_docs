@@ -1,10 +1,10 @@
 # Dollying
 ---
 #verb
-- **To hit a dolly.**
-- **To move (an object) using a dolly.**
-- **To wash (laundry) in a tub using the stirring device called a dolly.**
-- **To beat (red-hot metal) with a hammer.**
-- **To crush ore with a dolly.**
+- **To hit a [[d/_dolly|dolly]].**
+- **To move (an object) using a [[d/_dolly|dolly]].**
+- **To wash (laundry) in a tub using the stirring [[d/_device|device]] [[c/_called|called]] a [[d/_dolly|dolly]].**
+- **To [[b/_beat|beat]] (red-hot metal) with a hammer.**
+- **To [[c/_crush|crush]] ore with a [[d/_dolly|dolly]].**
 ---
 ---

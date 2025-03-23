@@ -1,9 +1,9 @@
 # Burgle
 ---
 #verb
-- **To commit burglary.**
-- **To take the ball legally from an opposing player.**
+- **To [[c/_commit|commit]] [[b/_burglary|burglary]].**
+- **To take the [[b/_ball|ball]] legally from an opposing player.**
 ---
 ### Synonyms
-- [[[[b/_burglarize|burglarize]]]]
+- [[burglarize]]
 ---

@@ -1,7 +1,7 @@
 # Conceptualizing
 ---
 #verb
-- **To interpret a phenomenon by forming a concept.**
-- **To conceive the idea for something.**
+- **To interpret a phenomenon by forming a [[c/_concept|concept]].**
+- **To [[c/_conceive|conceive]] the idea for something.**
 ---
 ---

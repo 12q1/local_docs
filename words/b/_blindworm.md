@@ -1,6 +1,6 @@
 # Blindworm
 ---
 #noun
-- **Anguis fragilis (slowworm), a small species of legless lizard.**
+- **[[a/_anguis|Anguis]] fragilis (slowworm), a small species of legless lizard.**
 ---
 ---

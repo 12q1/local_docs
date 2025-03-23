@@ -1,6 +1,6 @@
 # Dahabeahs
 ---
 #noun
-- **A traditional Egyptian sailing-boat.**
+- **A traditional [[e/_egyptian|Egyptian]] sailing-[[b/_boat|boat]].**
 ---
 ---

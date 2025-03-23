@@ -1,6 +1,6 @@
 # Chicha
 ---
 #noun
-- **A fermented beverage from South and Central America, most commonly made from maize, grapes or apples.**
+- **A fermented [[b/_beverage|beverage]] from South and [[c/_central|Central]] [[a/_america|America]], most [[c/_commonly|commonly]] made from maize, grapes or [[a/_apples|apples]].**
 ---
 ---

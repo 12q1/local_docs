@@ -1,8 +1,8 @@
 # Chronographs
 ---
 #noun
-- **A chronogram.**
-- **A device which marks or records time or time intervals**
-- **A combination of watch and stopwatch**
+- **A [[c/_chronogram|chronogram]].**
+- **A [[d/_device|device]] which marks or records time or time intervals**
+- **A [[c/_combination|combination]] of watch and stopwatch**
 ---
 ---

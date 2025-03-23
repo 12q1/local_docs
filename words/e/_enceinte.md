@@ -1,9 +1,9 @@
 # Enceinte
 ---
 #noun
-- **An enclosure.**
-- **The line of works forming the main enclosure of a fortress.**
-- **The area or town enclosed by a line of fortification.**
+- **An [[e/_enclosure|enclosure]].**
+- **The line of works forming the main [[e/_enclosure|enclosure]] of a fortress.**
+- **The [[a/_area|area]] or town [[e/_enclosed|enclosed]] by a line of fortification.**
 ---
 #adjective
 - **Pregnant.**

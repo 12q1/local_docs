@@ -2,10 +2,10 @@
 ---
 #verb
 - **To make a prolonged sharp grating or squeaking sound, as by the friction of hard substances.**
-- **To produce a creaking sound with.**
-- **To suffer from strain or old age.**
+- **To produce a [[c/_creaking|creaking]] sound with.**
+- **To suffer from strain or old [[a/_age|age]].**
 ---
 #noun
-- **A noise that creaks.**
+- **A noise that [[c/_creaks|creaks]].**
 ---
 ---

@@ -1,17 +1,17 @@
 # Circulated
 ---
 #verb
-- **To move in circles or through a circuit**
-- **To cause (a person or thing) to move in circles or through a circuit**
+- **To move in [[c/_circles|circles]] or through a [[c/_circuit|circuit]]**
+- **To [[c/_cause|cause]] (a person or thing) to move in [[c/_circles|circles]] or through a [[c/_circuit|circuit]]**
 - **To move from person to person, as at a party**
-- **To spread or disseminate**
+- **To spread or [[d/_disseminate|disseminate]]**
 	- _Example: to circulate money or gossip_
-- **To become widely known**
-- **Of decimals: to repeat.**
+- **To [[b/_become|become]] widely known**
+- **Of [[d/_decimals|decimals]]: to repeat.**
 ---
 ### Synonyms
-- [[[[d/_disseminate|disseminate]]]], [[put [[a/_about|about]]]], [[spread]]
+- [[disseminate]], [[put about]], [[spread]]
 #adjective
-- **Distributed about a circuit**
+- **[[d/_distributed|Distributed]] [[a/_about|about]] a [[c/_circuit|circuit]]**
 ---
 ---

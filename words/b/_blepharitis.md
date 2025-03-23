@@ -1,6 +1,6 @@
 # Blepharitis
 ---
 #noun
-- **An inflammation of the eyelid.**
+- **An inflammation of the [[e/_eyelid|eyelid]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Brunch
 ---
 #noun
-- **A meal eaten later in the day than breakfast and earlier than lunch, and often consisting of typical foods from both of those meals.**
+- **A meal [[e/_eaten|eaten]] later in the [[d/_day|day]] than [[b/_breakfast|breakfast]] and [[e/_earlier|earlier]] than lunch, and often [[c/_consisting|consisting]] of typical foods from [[b/_both|both]] of those meals.**
 ---
 #verb
-- **To eat brunch.**
+- **To [[e/_eat|eat]] [[b/_brunch|brunch]].**
 ---
 ---

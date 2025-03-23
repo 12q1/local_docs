@@ -1,6 +1,6 @@
 # Elucidations
 ---
 #noun
-- **A making clear; the act of elucidating or that which elucidates, as an explanation, an exposition, an illustration**
+- **A making [[c/_clear|clear]]; the [[a/_act|act]] of [[e/_elucidating|elucidating]] or that which [[e/_elucidates|elucidates]], as an explanation, an exposition, an illustration**
 ---
 ---

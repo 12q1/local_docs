@@ -1,9 +1,9 @@
 # Clumped
 ---
 #verb
-- **To form clusters or lumps.**
-- **To gather in dense groups.**
+- **To form [[c/_clusters|clusters]] or lumps.**
+- **To gather in [[d/_dense|dense]] groups.**
 - **To walk with heavy footfalls.**
-- **To strike; to beat.**
+- **To strike; to [[b/_beat|beat]].**
 ---
 ---

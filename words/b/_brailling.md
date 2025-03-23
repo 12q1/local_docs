@@ -1,6 +1,6 @@
 # Brailling
 ---
 #noun
-- **A form of cheating in the board game Scrabble, where a player drawing tiles from the bag attempts to feel their raised surfaces so as to choose specific letters.**
+- **A form of [[c/_cheating|cheating]] in the [[b/_board|board]] game Scrabble, where a player [[d/_drawing|drawing]] tiles from the [[b/_bag|bag]] [[a/_attempts|attempts]] to feel their raised surfaces so as to [[c/_choose|choose]] specific letters.**
 ---
 ---

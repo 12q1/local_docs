@@ -1,6 +1,6 @@
 # Draghound
 ---
 #noun
-- **A hunting dog especially trained to be effective in drag hunts, having the highly developed sense of smell and the stamina to follow an artificially scented trail at high speed over considerable distance.**
+- **A hunting [[d/_dog|dog]] especially trained to be [[e/_effective|effective]] in [[d/_drag|drag]] hunts, having the highly [[d/_developed|developed]] sense of smell and the stamina to follow an [[a/_artificially|artificially]] scented trail at high speed over [[c/_considerable|considerable]] [[d/_distance|distance]].**
 ---
 ---

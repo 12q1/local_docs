@@ -3,8 +3,8 @@
 #noun
 - **A piece of solid or semisolid mucus in or removed from a nostril.**
 - **Something suggestive of this material.**
-- **A thing; especially a problematic or difficult thing.**
+- **A thing; especially a problematic or [[d/_difficult|difficult]] thing.**
 ---
 ### Synonyms
-- [[[[b/_bogey|bogey]]]], [[[[b/_bogie|bogie]]]], [[snot]], [[[[b/_bugger|bugger]]]]
+- [[bogey]], [[bogie]], [[snot]], [[bugger]]
 ---

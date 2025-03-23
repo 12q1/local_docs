@@ -1,13 +1,13 @@
 # Drowsier
 ---
 #adjective
-- **Inclined to drowse; heavy with sleepiness**
+- **Inclined to [[d/_drowse|drowse]]; heavy with sleepiness**
 	- _Example: I was feeling drowsy and so decided to make a cup of coffee to try to wake myself up._
-- **Causing someone to fall sleep or feel sleepy; lulling; soporific.**
+- **[[c/_causing|Causing]] someone to fall sleep or feel sleepy; lulling; soporific.**
 	- _Example: It was a warm, drowsy summer afternoon._
-- **Boring.**
-- **Dull; stupid.**
+- **[[b/_boring|Boring]].**
+- **[[d/_dull|Dull]]; stupid.**
 ---
 ### Synonyms
-- [[[[d/_dozy|dozy]]]], [[lethargic]]
+- [[dozy]], [[lethargic]]
 ---

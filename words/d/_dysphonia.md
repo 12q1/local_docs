@@ -1,6 +1,6 @@
 # Dysphonia
 ---
 #noun
-- **A difficulty in producing vocal sounds.**
+- **A [[d/_difficulty|difficulty]] in producing vocal sounds.**
 ---
 ---

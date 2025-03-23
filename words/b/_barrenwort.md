@@ -1,6 +1,6 @@
 # Barrenwort
 ---
 #noun
-- **A herb, Epimedium alpinum, once thought to prevent conception**
+- **A herb, [[e/_epimedium|Epimedium]] alpinum, once thought to prevent [[c/_conception|conception]]**
 ---
 ---

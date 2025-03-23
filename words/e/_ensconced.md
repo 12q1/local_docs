@@ -1,13 +1,13 @@
 # Ensconced
 ---
 #verb
-- **To place in a secure environment.**
-- **To settle comfortably.**
+- **To place in a secure [[e/_environment|environment]].**
+- **To settle [[c/_comfortably|comfortably]].**
 ---
 ### Synonyms
-- [[[[c/_cuddle|cuddle]] up]]
+- [[cuddle up]]
 #adjective
-- **Placed in a secure environment.**
-- **Settled comfortably.**
+- **Placed in a secure [[e/_environment|environment]].**
+- **Settled [[c/_comfortably|comfortably]].**
 ---
 ---

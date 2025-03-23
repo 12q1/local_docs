@@ -1,6 +1,6 @@
 # Dieselize
 ---
 #verb
-- **To convert or adapt an engine to diesel fuel.**
+- **To [[c/_convert|convert]] or [[a/_adapt|adapt]] an [[e/_engine|engine]] to [[d/_diesel|diesel]] fuel.**
 ---
 ---

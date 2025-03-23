@@ -1,9 +1,9 @@
 # Decarboxylated
 ---
 #verb
-- **To remove one or more carboxyl groups from a molecule**
+- **To remove one or more [[c/_carboxyl|carboxyl]] groups from a molecule**
 ---
 #adjective
-- **Describing a product of decarboxylation**
+- **[[d/_describing|Describing]] a product of [[d/_decarboxylation|decarboxylation]]**
 ---
 ---

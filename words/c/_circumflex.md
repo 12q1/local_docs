@@ -1,18 +1,18 @@
 # Circumflex
 ---
 #noun
-- **A diacritical mark (ˆ) placed over a vowel in the orthography or transliteration of many languages to change its pronunciation; while in some other languages over a consonant.**
+- **A [[d/_diacritical|diacritical]] mark (ˆ) placed over a vowel in the orthography or transliteration of many languages to [[c/_change|change]] its pronunciation; while in some other languages over a [[c/_consonant|consonant]].**
 ---
 ### Synonyms
-- [[[[c/_circumflex|circumflex]] [[a/_accent|accent]]]]
+- [[circumflex accent]]
 #verb
-- **To mark or pronounce with a circumflex.**
+- **To mark or pronounce with a [[c/_circumflex|circumflex]].**
 	- _Example: to circumflex a syllable_
 ---
 #adjective
-- **Having a circumflex mark.**
+- **Having a [[c/_circumflex|circumflex]] mark.**
 	- _Example: ê is e circumflex._
-- **Curving around.**
+- **[[c/_curving|Curving]] [[a/_around|around]].**
 	- _Example: The circumflex coronary artery_
 ---
 ---

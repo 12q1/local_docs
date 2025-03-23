@@ -1,6 +1,6 @@
 # Dizygous
 ---
 #adjective
-- **Dizygotic**
+- **[[d/_dizygotic|Dizygotic]]**
 ---
 ---

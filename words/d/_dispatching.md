@@ -2,20 +2,20 @@
 ---
 #verb
 - **To send (a shipment) with promptness.**
-- **To send (a person) away hastily.**
-- **To send (an important official message) promptly, by means of a diplomat or military officer.**
+- **To send (a person) [[a/_away|away]] hastily.**
+- **To send (an important official message) promptly, by means of a [[d/_diplomat|diplomat]] or military officer.**
 - **To send (a journalist) to a place in order to report.**
-- **To dispose of speedily, as business; to execute quickly; to make a speedy end of; to finish; to perform.**
+- **To [[d/_dispose|dispose]] of speedily, as [[b/_business|business]]; to execute quickly; to make a speedy [[e/_end|end]] of; to finish; to perform.**
 - **To rid; to free.**
-- **To destroy quickly and efficiently.**
-- **To pass on for further processing, especially via a dispatch table (often with to).**
+- **To [[d/_destroy|destroy]] quickly and [[e/_efficiently|efficiently]].**
+- **To pass on for further processing, especially via a [[d/_dispatch|dispatch]] table (often with to).**
 - **To hurry.**
-- **To deprive.**
+- **To [[d/_deprive|deprive]].**
 ---
 ### Synonyms
-- [[[[d/_destroy|destroy]]]], [[kill]], [[make haste]], [[send]]
+- [[destroy]], [[kill]], [[make haste]], [[send]]
 #noun
-- **The sending of somebody or something to a destination for a purpose.**
-- **Burial**
+- **The sending of somebody or something to a [[d/_destination|destination]] for a purpose.**
+- **[[b/_burial|Burial]]**
 ---
 ---

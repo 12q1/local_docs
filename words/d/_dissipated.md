@@ -1,15 +1,15 @@
 # Dissipated
 ---
 #verb
-- **To drive away, disperse.**
+- **To [[d/_drive|drive]] [[a/_away|away]], [[d/_disperse|disperse]].**
 - **To use up or waste; squander.**
-- **To vanish by dispersion.**
-- **To cause energy to be lost through its conversion to heat.**
-- **To be dissolute in conduct.**
+- **To vanish by [[d/_dispersion|dispersion]].**
+- **To [[c/_cause|cause]] [[e/_energy|energy]] to be lost through its [[c/_conversion|conversion]] to heat.**
+- **To be [[d/_dissolute|dissolute]] in [[c/_conduct|conduct]].**
 ---
 #adjective
 - **Wasteful of health or possessions in the pursuit of pleasure.**
 ---
 ### Synonyms
-- [[[[d/_dissolute|dissolute]]]], [[intemperate]]
+- [[dissolute]], [[intemperate]]
 ---

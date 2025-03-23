@@ -1,7 +1,7 @@
 # Dishonestly
 ---
 #adverb
-- **In a dishonest manner.**
+- **In a [[d/_dishonest|dishonest]] manner.**
 ---
 ### Antonyms
 - [[honestly]]

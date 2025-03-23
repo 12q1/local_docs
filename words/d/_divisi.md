@@ -1,8 +1,8 @@
 # Divisi
 ---
 #adverb
-- **Divided (i.e. simultaneous notes between two or more players)**
+- **[[d/_divided|Divided]] (i.[[e/_e|e]]. simultaneous notes [[b/_between|between]] two or more players)**
 ---
 ### Antonyms
-- [[non [[d/_divisi|divisi]]]]
+- [[non divisi]]
 ---

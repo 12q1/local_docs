@@ -1,6 +1,6 @@
 # Downturned
 ---
 #adjective
-- **Turned downwards**
+- **Turned [[d/_downwards|downwards]]**
 ---
 ---

@@ -1,8 +1,8 @@
 # Baobabs
 ---
 #noun
-- **A tree, Adansonia digitata (and similar species), native to tropical Africa, having a broad swollen trunk and edible gourd-like hanging fruits.**
+- **A tree, [[a/_adansonia|Adansonia]] digitata (and similar species), native to tropical [[a/_africa|Africa]], having a [[b/_broad|broad]] swollen trunk and [[e/_edible|edible]] gourd-like hanging fruits.**
 ---
 ### Synonyms
-- [[[[c/_cream|cream]] of tartar tree]], [[sour gourd]]
+- [[cream of tartar tree]], [[sour gourd]]
 ---

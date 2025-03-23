@@ -1,6 +1,6 @@
 # Dispassionately
 ---
 #adverb
-- **In a dispassionate manner**
+- **In a [[d/_dispassionate|dispassionate]] manner**
 ---
 ---

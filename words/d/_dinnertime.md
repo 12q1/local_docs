@@ -1,9 +1,9 @@
 # Dinnertime
 ---
 #noun
-- **The time when dinner takes place.**
-- **The time when dinner is ready.**
-- **The midday break in English schools (some areas), lunchtime.**
+- **The time when [[d/_dinner|dinner]] takes place.**
+- **The time when [[d/_dinner|dinner]] is ready.**
+- **The midday [[b/_break|break]] in [[e/_english|English]] schools (some [[a/_areas|areas]]), lunchtime.**
 ---
 ### Synonyms
 - [[suppertime]]

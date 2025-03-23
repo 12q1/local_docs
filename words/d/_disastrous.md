@@ -1,11 +1,11 @@
 # Disastrous
 ---
 #adjective
-- **Of the nature of a disaster; calamitous.**
-- **Foreboding disaster; ill-omened.**
+- **Of the nature of a [[d/_disaster|disaster]]; [[c/_calamitous|calamitous]].**
+- **Foreboding [[d/_disaster|disaster]]; ill-omened.**
 ---
 ### Synonyms
-- [[[[c/_cataclysmic|cataclysmic]]]], [[[[c/_catastrophic|catastrophic]]]], [[ill-[[b/_boding|boding]]]], [[inauspicious]], [[sinister]]
+- [[cataclysmic]], [[catastrophic]], [[ill-boding]], [[inauspicious]], [[sinister]]
 ### Antonyms
-- [[[[a/_auspicious|auspicious]]]], [[fortunate]]
+- [[auspicious]], [[fortunate]]
 ---

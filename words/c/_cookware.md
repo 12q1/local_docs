@@ -1,6 +1,6 @@
 # Cookware
 ---
 #noun
-- **The assorted objects, such as pots, pans, baking sheets, etc., used for cooking**
+- **The [[a/_assorted|assorted]] objects, such as pots, pans, [[b/_baking|baking]] sheets, etc., used for [[c/_cooking|cooking]]**
 ---
 ---

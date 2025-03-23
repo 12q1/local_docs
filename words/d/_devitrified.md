@@ -1,6 +1,6 @@
 # Devitrified
 ---
 #verb
-- **(of a glassy material) To become crystalline and brittle**
+- **(of a glassy material) To [[b/_become|become]] [[c/_crystalline|crystalline]] and [[b/_brittle|brittle]]**
 ---
 ---

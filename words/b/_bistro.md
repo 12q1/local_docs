@@ -2,6 +2,6 @@
 ---
 #noun
 - **A small restaurant.**
-- **A small bar or pub.**
+- **A small [[b/_bar|bar]] or pub.**
 ---
 ---

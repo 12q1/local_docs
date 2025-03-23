@@ -1,6 +1,6 @@
 # Embeddable
 ---
 #adjective
-- **That can be embedded.**
+- **That [[c/_can|can]] be [[e/_embedded|embedded]].**
 ---
 ---

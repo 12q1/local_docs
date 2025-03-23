@@ -1,13 +1,13 @@
 # Diseases
 ---
 #noun
-- **An abnormal condition of a human, animal or plant that causes discomfort or dysfunction; distinct from injury insofar as the latter is usually instantaneously acquired.**
+- **An [[a/_abnormal|abnormal]] [[c/_condition|condition]] of a human, [[a/_animal|animal]] or plant that [[c/_causes|causes]] [[d/_discomfort|discomfort]] or [[d/_dysfunction|dysfunction]]; [[d/_distinct|distinct]] from injury insofar as the latter is usually instantaneously [[a/_acquired|acquired]].**
 	- _Example: The tomato plants had some kind of disease that left their leaves splotchy and fruit withered._
-- **(by extension) Any abnormal or harmful condition, as of society, people's attitudes, way of living etc.**
-- **Lack of ease; uneasiness; trouble; vexation; disquiet.**
+- **(by extension) [[a/_any|Any]] [[a/_abnormal|abnormal]] or harmful [[c/_condition|condition]], as of society, people's [[a/_attitudes|attitudes]], way of living etc.**
+- **Lack of [[e/_ease|ease]]; uneasiness; trouble; vexation; [[d/_disquiet|disquiet]].**
 ---
 #verb
-- **To cause unease; to annoy, irritate.**
-- **To infect with a disease.**
+- **To [[c/_cause|cause]] unease; to [[a/_annoy|annoy]], irritate.**
+- **To infect with a [[d/_disease|disease]].**
 ---
 ---

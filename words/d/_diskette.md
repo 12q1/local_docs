@@ -1,9 +1,9 @@
 # Diskette
 ---
 #noun
-- **A small, flexible, magnetic disk for storage and retrieval of data.**
-- **An 8-inch floppy disk.**
+- **A small, flexible, magnetic [[d/_disk|disk]] for storage and retrieval of [[d/_data|data]].**
+- **An 8-inch floppy [[d/_disk|disk]].**
 ---
 ### Synonyms
-- [[[[d/_disk|disk]]]], [[floppy]], [[floppy [[d/_disk|disk]]]], [[floppy [[d/_diskette|diskette]]]]
+- [[disk]], [[floppy]], [[floppy disk]], [[floppy diskette]]
 ---

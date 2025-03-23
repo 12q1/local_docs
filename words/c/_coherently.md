@@ -1,7 +1,7 @@
 # Coherently
 ---
 #adverb
-- **In a coherent manner.**
+- **In a [[c/_coherent|coherent]] manner.**
 ---
 ### Antonyms
 - [[incoherently]]

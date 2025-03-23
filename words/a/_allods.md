@@ -1,6 +1,6 @@
 # Allods
 ---
 #noun
-- **Allodium**
+- **[[a/_allodium|Allodium]]**
 ---
 ---

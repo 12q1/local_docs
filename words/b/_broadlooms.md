@@ -2,6 +2,6 @@
 ---
 #noun
 - **A wide loom.**
-- **A carpet woven on a wide loom.**
+- **A [[c/_carpet|carpet]] woven on a wide loom.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Allo
 ---
 #interjection
-- **(representing Cockney or other accent) Hello.**
+- **(representing [[c/_cockney|Cockney]] or other [[a/_accent|accent]]) Hello.**
 	- _Example: 'Allo, 'allo, 'allo! What's goin' on 'ere, then?_
 ---
 ---

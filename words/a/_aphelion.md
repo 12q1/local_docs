@@ -1,7 +1,7 @@
 # Aphelion
 ---
 #noun
-- **The point in the elliptical orbit of a planet, comet, etc., where it is farthest from the Sun.**
+- **The point in the [[e/_elliptical|elliptical]] orbit of a planet, [[c/_comet|comet]], etc., where it is farthest from the Sun.**
 ---
 ### Antonyms
 - [[perihelion]]

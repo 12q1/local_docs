@@ -3,9 +3,9 @@
 #noun
 - **An item which is inexpensive.**
 - **An item of poor quality.**
-- **A person who is stingy, a cheapskate.**
+- **A person who is stingy, a [[c/_cheapskate|cheapskate]].**
 ---
 #adjective
-- **Cheap; inferior.**
+- **[[c/_cheap|Cheap]]; inferior.**
 ---
 ---

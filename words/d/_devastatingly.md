@@ -1,6 +1,6 @@
 # Devastatingly
 ---
 #adverb
-- **In a devastating manner.**
+- **In a [[d/_devastating|devastating]] manner.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Cornball
 ---
 #noun
-- **A ball of popped corn stuck together with soft candy from molasses or sugar.**
+- **A [[b/_ball|ball]] of popped [[c/_corn|corn]] stuck together with soft [[c/_candy|candy]] from molasses or sugar.**
 - **An unsophisticated person.**
-- **Something excessively corny.**
+- **Something excessively [[c/_corny|corny]].**
 	- _Example: That movie was a real cornball._
 ---
 ---

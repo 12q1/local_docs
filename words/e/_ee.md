@@ -1,6 +1,6 @@
 # Ee
 ---
 #noun
-- **An eye.**
+- **An [[e/_eye|eye]].**
 ---
 ---

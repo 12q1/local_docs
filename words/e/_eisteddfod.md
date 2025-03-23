@@ -1,6 +1,6 @@
 # Eisteddfod
 ---
 #noun
-- **Any of several annual festivals in which Welsh poets, dancers, and musicians compete for recognition.**
+- **[[a/_any|Any]] of several [[a/_annual|annual]] festivals in which Welsh poets, [[d/_dancers|dancers]], and musicians [[c/_compete|compete]] for recognition.**
 ---
 ---

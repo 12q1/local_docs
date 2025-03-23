@@ -1,6 +1,6 @@
 # Cellarette
 ---
 #noun
-- **A drinks cabinet**
+- **A [[d/_drinks|drinks]] [[c/_cabinet|cabinet]]**
 ---
 ---

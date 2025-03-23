@@ -1,8 +1,8 @@
 # Colonialism
 ---
 #noun
-- **The colonial domination policy. A colonial system.**
-- **A colonial word, phrase, concept, or habit.**
-- **Colonial life.**
+- **The [[c/_colonial|colonial]] [[d/_domination|domination]] policy. A [[c/_colonial|colonial]] system.**
+- **A [[c/_colonial|colonial]] word, phrase, [[c/_concept|concept]], or habit.**
+- **[[c/_colonial|Colonial]] life.**
 ---
 ---

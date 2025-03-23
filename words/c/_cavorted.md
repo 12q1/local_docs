@@ -2,8 +2,8 @@
 ---
 #verb
 - **(originally intransitive) To prance, said of mounts**
-- **To move about carelessly, playfully or boisterously.**
+- **To move [[a/_about|about]] [[c/_carelessly|carelessly]], playfully or [[b/_boisterously|boisterously]].**
 ---
 ### Synonyms
-- [[[[c/_caper|caper]]]], [[frolic]], [[prance]], [[romp]]
+- [[caper]], [[frolic]], [[prance]], [[romp]]
 ---

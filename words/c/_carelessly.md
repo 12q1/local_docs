@@ -1,9 +1,9 @@
 # Carelessly
 ---
 #adverb
-- **Giving the appearance of carelessness; relaxedly.**
+- **Giving the [[a/_appearance|appearance]] of [[c/_carelessness|carelessness]]; relaxedly.**
 	- _Example: The papers were carelessly strewn on the table._
-- **Done without care or attention; inattentively.**
+- **[[d/_done|Done]] without [[c/_care|care]] or [[a/_attention|attention]]; inattentively.**
 	- _Example: Distracted by the salesperson, he carelessly read the contract._
 ---
 ---

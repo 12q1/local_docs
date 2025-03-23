@@ -1,6 +1,6 @@
 # Celandine
 ---
 #noun
-- **Either of two unrelated flowering plants:**
+- **[[e/_either|Either]] of two unrelated flowering plants:**
 ---
 ---

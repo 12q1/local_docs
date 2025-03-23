@@ -1,6 +1,6 @@
 # Easter
 ---
 #adjective
-- **Eastern.**
+- **[[e/_eastern|Eastern]].**
 ---
 ---

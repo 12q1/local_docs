@@ -1,6 +1,6 @@
 # Difficultly
 ---
 #adverb
-- **With difficulty; not easily.**
+- **With [[d/_difficulty|difficulty]]; not [[e/_easily|easily]].**
 ---
 ---

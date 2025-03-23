@@ -1,26 +1,26 @@
 # Damn
 ---
 #noun
-- **The use of "damn" as a curse.**
+- **The use of "[[d/_damn|damn]]" as a [[c/_curse|curse]].**
 	- _Example: He said a few damns and left._
-- **A small, negligible quantity, being of little value; a whit or jot.**
+- **A small, negligible quantity, [[b/_being|being]] of little value; a whit or jot.**
 	- _Example: The new hires aren't worth a damn._
-- **The smallest amount of concern or consideration.**
+- **The smallest [[a/_amount|amount]] of [[c/_concern|concern]] or [[c/_consideration|consideration]].**
 	- _Example: I don't give a damn._
 ---
 #verb
-- **To condemn to hell.**
+- **To [[c/_condemn|condemn]] to hell.**
 	- _Example: I damn you eternally, fiend!_
-- **To condemn; to declare guilty; to doom; to adjudge to punishment.**
+- **To [[c/_condemn|condemn]]; to [[d/_declare|declare]] guilty; to [[d/_doom|doom]]; to [[a/_adjudge|adjudge]] to punishment.**
 - **To put out of favor; to ruin; to label negatively.**
 	- _Example: I’m afraid that if I speak out on this, I’ll be damned as a troublemaker._
-- **To condemn as unfit, harmful, invalid, immoral or illegal.**
-- **To curse; put a curse upon.**
+- **To [[c/_condemn|condemn]] as unfit, harmful, invalid, immoral or illegal.**
+- **To [[c/_curse|curse]]; put a [[c/_curse|curse]] upon.**
 	- _Example: That man stole my wallet. Damn him!_
-- **To invoke damnation; to curse.**
+- **To invoke [[d/_damnation|damnation]]; to [[c/_curse|curse]].**
 ---
 #adjective
-- **Generic intensifier. Fucking; bloody.**
+- **Generic intensifier. Fucking; [[b/_bloody|bloody]].**
 	- _Example: Shut the damn door!_
 ---
 #adverb
@@ -28,6 +28,6 @@
 	- _Example: That car was going damn fast!_
 ---
 #interjection
-- **Used to express anger, irritation, disappointment, annoyance, contempt or suprise, etc. See also dammit.**
+- **Used to express [[a/_anger|anger]], irritation, [[d/_disappointment|disappointment]], [[a/_annoyance|annoyance]], [[c/_contempt|contempt]] or suprise, etc. See [[a/_also|also]] [[d/_dammit|dammit]].**
 ---
 ---

@@ -1,13 +1,13 @@
 # Antiemetic
 ---
 #noun
-- **A drug that combats nausea and vomiting**
+- **A [[d/_drug|drug]] that [[c/_combats|combats]] nausea and vomiting**
 ---
 ### Antonyms
-- [[[[e/_emetic|emetic]]]]
+- [[emetic]]
 #adjective
-- **That combats nausea and vomiting**
+- **That [[c/_combats|combats]] nausea and vomiting**
 ---
 ### Antonyms
-- [[[[e/_emetic|emetic]]]]
+- [[emetic]]
 ---

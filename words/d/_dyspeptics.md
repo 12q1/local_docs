@@ -1,6 +1,6 @@
 # Dyspeptics
 ---
 #noun
-- **A dyspeptic person.**
+- **A [[d/_dyspeptic|dyspeptic]] person.**
 ---
 ---

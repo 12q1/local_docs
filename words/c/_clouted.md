@@ -1,14 +1,14 @@
 # Clouted
 ---
 #verb
-- **To form a clot or mass.**
-- **To cause to clot or form into a mass.**
+- **To form a [[c/_clot|clot]] or mass.**
+- **To [[c/_cause|cause]] to [[c/_clot|clot]] or form into a mass.**
 ---
 #verb
 - **To hit, especially with the fist.**
-- **To cover with cloth, leather, or other material; to bandage, patch, or mend with a clout.**
-- **To stud with nails, as a timber, or a boot sole.**
-- **To guard with an iron plate, as an axletree.**
-- **To join or patch clumsily.**
+- **To [[c/_cover|cover]] with [[c/_cloth|cloth]], leather, or other material; to [[b/_bandage|bandage]], patch, or mend with a [[c/_clout|clout]].**
+- **To stud with nails, as a timber, or a [[b/_boot|boot]] sole.**
+- **To guard with an iron plate, as an [[a/_axletree|axletree]].**
+- **To join or patch [[c/_clumsily|clumsily]].**
 ---
 ---

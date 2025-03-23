@@ -1,10 +1,10 @@
 # Duple
 ---
 #adjective
-- **Double.**
-- **Having two beats, or a multiple of two beats, in each measure.**
-- **Having two beats in each foot.**
+- **[[d/_double|Double]].**
+- **Having two [[b/_beats|beats]], or a multiple of two [[b/_beats|beats]], in [[e/_each|each]] measure.**
+- **Having two [[b/_beats|beats]] in [[e/_each|each]] foot.**
 ---
 ### Synonyms
-- [[[[d/_duplicate|duplicate]]]], [[twosome]]
+- [[duplicate]], [[twosome]]
 ---

@@ -1,10 +1,10 @@
 # Deciles
 ---
 #noun
-- **Any of the values in a series that divides the distribution of individuals in that series into ten groups of equal frequency.**
+- **[[a/_any|Any]] of the values in a series that [[d/_divides|divides]] the [[d/_distribution|distribution]] of individuals in that series into ten groups of [[e/_equal|equal]] frequency.**
 	- _Example: Although few people scored high marks, everyone did quite well—the lowest decile was over 50%._
-- **Any one of the ten subsets or groups so divided.**
+- **[[a/_any|Any]] one of the ten subsets or groups so [[d/_divided|divided]].**
 	- _Example: Our school is in the top decile for exam results._
-- **An aspect or position of two planets when they are distant from each other a tenth part of the zodiac.**
+- **An [[a/_aspect|aspect]] or position of two planets when they are [[d/_distant|distant]] from [[e/_each|each]] other a tenth part of the zodiac.**
 ---
 ---

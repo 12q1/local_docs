@@ -1,6 +1,6 @@
 # Completive
 ---
 #adjective
-- **Making complete.**
+- **Making [[c/_complete|complete]].**
 ---
 ---

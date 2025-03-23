@@ -7,23 +7,23 @@
 	- _Example: I do wonder why keeping my little breasts bare can be lewd even as none tells my brother anything for being bare-chested._
 - **Having no supplies.**
 	- _Example: The cupboard was bare._
-- **Having no decoration.**
+- **Having no [[d/_decoration|decoration]].**
 	- _Example: The walls of this room are bare — why not hang some paintings on them?_
-- **Having had what usually covers (something) removed.**
+- **Having had what usually [[c/_covers|covers]] (something) removed.**
 	- _Example: The trees were left bare after the swarm of locusts devoured all the leaves._
 - **(Toronto) A lot or lots of.**
 	- _Example: It's bare money to get in the club each time, man._
-- **With head uncovered; bareheaded.**
-- **Without anything to cover up or conceal one's thoughts or actions; open to view; exposed.**
-- **Mere; without embellishment.**
+- **With head uncovered; [[b/_bareheaded|bareheaded]].**
+- **Without [[a/_anything|anything]] to [[c/_cover|cover]] up or [[c/_conceal|conceal]] one's thoughts or [[a/_actions|actions]]; open to view; exposed.**
+- **Mere; without [[e/_embellishment|embellishment]].**
 - **Threadbare, very worn.**
 - **Not insured.**
 ---
 ### Synonyms
-- [[[[e/_empty|empty]]]], [[plain]], [[unadorned]], [[undecorated]], [[[[e/_empty|empty]]]], [[unfurnished]], [[unstocked]], [[unsupplied]], [[mere]], [[minimal]], [[exposed]], [[naked]], [[nude]], [[uncovered]], [[undressed]], [[[[d/_despoiled|despoiled]]]], [[stripped]], [[uncovered]]
+- [[empty]], [[plain]], [[unadorned]], [[undecorated]], [[empty]], [[unfurnished]], [[unstocked]], [[unsupplied]], [[mere]], [[minimal]], [[exposed]], [[naked]], [[nude]], [[uncovered]], [[undressed]], [[despoiled]], [[stripped]], [[uncovered]]
 ### Antonyms
-- [[[[c/_covered|covered]]]], [[[[a/_adorn|adorn]]]], [[[[d/_decorated|decorated]]]], [[ornate]], [[full]], [[furnished]], [[stocked]], [[supplied]], [[well-stocked]], [[[[a/_ample|ample]]]], [[plentiful]], [[sufficient]], [[[[c/_covered|covered]]]], [[[[d/_dressed|dressed]]]], [[unexposed]]
+- [[covered]], [[adorn]], [[decorated]], [[ornate]], [[full]], [[furnished]], [[stocked]], [[supplied]], [[well-stocked]], [[ample]], [[plentiful]], [[sufficient]], [[covered]], [[dressed]], [[unexposed]]
 #noun
-- **One who bares or exposes something.**
+- **One who [[b/_bares|bares]] or exposes something.**
 ---
 ---

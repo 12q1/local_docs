@@ -7,11 +7,11 @@
 	- _Example: the efflux of a boil_
 ---
 ### Synonyms
-- [[[[e/_effluence|effluence]]]], [[[[e/_effluxion|effluxion]]]], [[outflow]], [[outflow]]
+- [[effluence]], [[effluxion]], [[outflow]], [[outflow]]
 ### Antonyms
 - [[influx]]
 #verb
 - **To run out; to flow forth.**
-- **To pass away.**
+- **To pass [[a/_away|away]].**
 ---
 ---

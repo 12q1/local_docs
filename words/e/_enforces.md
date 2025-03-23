@@ -1,18 +1,18 @@
 # Enforces
 ---
 #verb
-- **To keep up, impose or bring into effect something, not necessarily by force.**
+- **To keep up, impose or [[b/_bring|bring]] into [[e/_effect|effect]] something, not necessarily by force.**
 	- _Example: The police are there to enforce the law._
-- **To give strength or force to; to affirm, to emphasize.**
+- **To give strength or force to; to [[a/_affirm|affirm]], to [[e/_emphasize|emphasize]].**
 	- _Example: The victim was able to enforce his evidence against the alleged perpetrator._
-- **To strengthen (a castle, town etc.) with extra troops, fortifications etc.**
-- **To intensify, make stronger, add force to.**
+- **To strengthen (a [[c/_castle|castle]], town etc.) with extra troops, fortifications etc.**
+- **To intensify, make stronger, [[a/_add|add]] force to.**
 - **To exert oneself, to try hard.**
-- **To compel, oblige (someone or something); to force.**
+- **To [[c/_compel|compel]], oblige (someone or something); to force.**
 - **To make or gain by force; to force.**
 	- _Example: to enforce a passage_
-- **To put in motion or action by violence; to drive.**
-- **To give force to; to strengthen; to invigorate; to urge with energy.**
+- **To put in motion or [[a/_action|action]] by violence; to [[d/_drive|drive]].**
+- **To give force to; to strengthen; to invigorate; to urge with [[e/_energy|energy]].**
 	- _Example: to enforce arguments or requests_
 - **To urge; to ply hard; to lay much stress upon.**
 - **To prove; to evince.**

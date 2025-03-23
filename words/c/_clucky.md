@@ -1,7 +1,7 @@
 # Clucky
 ---
 #adjective
-- **Broody.**
-- **Prone to cluck.**
+- **[[b/_broody|Broody]].**
+- **Prone to [[c/_cluck|cluck]].**
 ---
 ---

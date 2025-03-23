@@ -3,13 +3,13 @@
 #verb
 - **To supply with light.**
 	- _Example: The sun enlightens the Earth._
-- **To make something clear to (someone); to give knowledge or understanding to.**
+- **To make something [[c/_clear|clear]] to (someone); to give knowledge or understanding to.**
 ---
 ### Synonyms
-- [[[[a/_apprise|apprise]]]], [[inform]], [[notify]], [[illuminate]], [[illumine]]
+- [[apprise]], [[inform]], [[notify]], [[illuminate]], [[illumine]]
 ### Antonyms
 - [[endarken]]
 #adjective
-- **Serving to enlighten.**
+- **Serving to [[e/_enlighten|enlighten]].**
 ---
 ---

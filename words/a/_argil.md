@@ -1,6 +1,6 @@
 # Argil
 ---
 #noun
-- **Potter's clay.**
+- **Potter's [[c/_clay|clay]].**
 ---
 ---

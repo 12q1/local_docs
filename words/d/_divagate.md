@@ -1,7 +1,7 @@
 # Divagate
 ---
 #verb
-- **To wander about.**
+- **To wander [[a/_about|about]].**
 - **To stray from a subject or theme.**
 ---
 ---

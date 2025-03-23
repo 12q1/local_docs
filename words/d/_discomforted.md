@@ -1,7 +1,7 @@
 # Discomforted
 ---
 #verb
-- **To cause annoyance or distress to.**
-- **To discourage; to deject.**
+- **To [[c/_cause|cause]] [[a/_annoyance|annoyance]] or [[d/_distress|distress]] to.**
+- **To [[d/_discourage|discourage]]; to [[d/_deject|deject]].**
 ---
 ---

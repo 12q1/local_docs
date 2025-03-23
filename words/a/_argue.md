@@ -1,13 +1,13 @@
 # Argue
 ---
 #verb
-- **To show grounds for concluding (that); to indicate, imply.**
-- **To debate, disagree or discuss opposing or differing viewpoints.**
+- **To show grounds for [[c/_concluding|concluding]] (that); to indicate, imply.**
+- **To [[d/_debate|debate]], [[d/_disagree|disagree]] or [[d/_discuss|discuss]] opposing or [[d/_differing|differing]] viewpoints.**
 	- _Example: He also argued for stronger methods to be used against China._
-- **To have an argument, a quarrel.**
-- **To present (a viewpoint or an argument therefor).**
+- **To have an [[a/_argument|argument]], a quarrel.**
+- **To present (a viewpoint or an [[a/_argument|argument]] therefor).**
 	- _Example: He argued his point._
 - **To prove.**
-- **To accuse.**
+- **To [[a/_accuse|accuse]].**
 ---
 ---

@@ -4,6 +4,6 @@
 - **A shabby, slovenly person.**
 ---
 #adjective
-- **Shabby, dirty, greasy.**
+- **Shabby, [[d/_dirty|dirty]], greasy.**
 ---
 ---

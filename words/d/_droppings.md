@@ -1,9 +1,9 @@
 # Droppings
 ---
 #noun
-- **Something dropped.**
-- **(usually in the plural) A piece of animal excrement; dung.**
+- **Something [[d/_dropped|dropped]].**
+- **(usually in the plural) A piece of [[a/_animal|animal]] excrement; [[d/_dung|dung]].**
 	- _Example: a rabbit dropping_
-- **The act of something that drops or falls.**
+- **The [[a/_act|act]] of something that [[d/_drops|drops]] or falls.**
 ---
 ---

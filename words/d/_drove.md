@@ -1,12 +1,12 @@
 # Drove
 ---
 #noun
-- **A number of cattle driven to market or new pastures.**
+- **A number of [[c/_cattle|cattle]] [[d/_driven|driven]] to market or new pastures.**
 - **(usually in the plural) A large number of people on the move (literally or figuratively).**
-- **(collective) A group of hares.**
-- **A road or track along which cattle are habitually driven.**
-- **A narrow drain or channel used in the irrigation of land.**
-- **A broad chisel used to bring stone to a nearly smooth surface.**
-- **The grooved surface of stone finished by the drove chisel.**
+- **([[c/_collective|collective]]) A group of hares.**
+- **A road or track [[a/_along|along]] which [[c/_cattle|cattle]] are habitually [[d/_driven|driven]].**
+- **A narrow [[d/_drain|drain]] or [[c/_channel|channel]] used in the irrigation of land.**
+- **A [[b/_broad|broad]] [[c/_chisel|chisel]] used to [[b/_bring|bring]] stone to a nearly smooth surface.**
+- **The grooved surface of stone finished by the [[d/_drove|drove]] [[c/_chisel|chisel]].**
 ---
 ---

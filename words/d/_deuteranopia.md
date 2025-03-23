@@ -1,6 +1,6 @@
 # Deuteranopia
 ---
 #noun
-- **A form of color blindness in which the retina is deficient in or lacks cone cells containing opsins that respond to the color green, resulting in an inability to distinguish red from green.**
+- **A form of [[c/_color|color]] [[b/_blindness|blindness]] in which the retina is [[d/_deficient|deficient]] in or lacks [[c/_cone|cone]] [[c/_cells|cells]] [[c/_containing|containing]] opsins that respond to the [[c/_color|color]] green, resulting in an inability to [[d/_distinguish|distinguish]] red from green.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Collaborator
 ---
 #noun
-- **A person who works with others towards a common goal.**
-- **A person who cooperates traitorously with an enemy.**
+- **A person who works with others towards a [[c/_common|common]] goal.**
+- **A person who [[c/_cooperates|cooperates]] traitorously with an [[e/_enemy|enemy]].**
 ---
 ### Synonyms
-- [[[[c/_collaborationist|collaborationist]]]], [[turncoat]], [[team player]]
+- [[collaborationist]], [[turncoat]], [[team player]]
 ---

@@ -1,10 +1,10 @@
 # Ass
 ---
 #noun
-- **Any of several species of horse-like animals, especially Equus asinus, the domesticated of which are used as beasts of burden.**
+- **[[a/_any|Any]] of several species of horse-like [[a/_animals|animals]], especially Equus asinus, the [[d/_domesticated|domesticated]] of which are used as [[b/_beasts|beasts]] of [[b/_burden|burden]].**
 - **A stupid person.**
 	- _Example: That new kid left the cap off the syrup bottle again! What an ass._
 ---
 ### Synonyms
-- [[[[d/_donkey|donkey]]]], [[fool]], [[idiot]]
+- [[donkey]], [[fool]], [[idiot]]
 ---

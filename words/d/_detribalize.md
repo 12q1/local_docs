@@ -1,6 +1,6 @@
 # Detribalize
 ---
 #verb
-- **To cause (the members of a tribe) to lose their tribal culture.**
+- **To [[c/_cause|cause]] (the members of a tribe) to lose their tribal [[c/_culture|culture]].**
 ---
 ---

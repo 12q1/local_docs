@@ -1,9 +1,9 @@
 # Academically
 ---
 #adverb
-- **In an academic style or way; from an academic perspective.**
+- **In an [[a/_academic|academic]] style or way; from an [[a/_academic|academic]] perspective.**
 	- _Example: Academically, the football team is counter-productive._
 ---
 ### Antonyms
-- [[non-[[a/_academically|academically]]]]
+- [[non-academically]]
 ---

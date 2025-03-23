@@ -1,9 +1,9 @@
 # Autoclaves
 ---
 #noun
-- **A strong, pressurized, heated vessel, as for laboratory experiments, sterilization, cooking or mineral processing.**
+- **A strong, pressurized, heated vessel, as for laboratory experiments, sterilization, [[c/_cooking|cooking]] or mineral processing.**
 ---
 #verb
-- **To sterilize laboratory equipment in an autoclave.**
+- **To sterilize laboratory [[e/_equipment|equipment]] in an [[a/_autoclave|autoclave]].**
 ---
 ---

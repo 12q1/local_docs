@@ -1,8 +1,8 @@
 # Diplomatically
 ---
 #adverb
-- **In a diplomatic manner.**
+- **In a [[d/_diplomatic|diplomatic]] manner.**
 	- _Example: He dealt with the problem very diplomatically_
-- **(domain) From the perspective of diplomacy**
+- **([[d/_domain|domain]]) From the perspective of [[d/_diplomacy|diplomacy]]**
 ---
 ---

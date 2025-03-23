@@ -1,10 +1,10 @@
 # Dubitable
 ---
 #adjective
-- **Capable of being doubted; susceptible of being questioned.**
+- **[[c/_capable|Capable]] of [[b/_being|being]] [[d/_doubted|doubted]]; susceptible of [[b/_being|being]] questioned.**
 ---
 ### Synonyms
-- [[[[d/_doubtable|doubtable]]]], [[[[d/_doubtful|doubtful]]]], [[uncertain]]
+- [[doubtable]], [[doubtful]], [[uncertain]]
 ### Antonyms
 - [[indubitable]]
 ---

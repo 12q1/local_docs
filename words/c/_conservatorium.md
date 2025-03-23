@@ -1,6 +1,6 @@
 # Conservatorium
 ---
 #noun
-- **Conservatory**
+- **[[c/_conservatory|Conservatory]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bacteriostat
 ---
 #noun
-- **A biological or chemical agent that causes bacteriostasis.**
+- **A [[b/_biological|biological]] or [[c/_chemical|chemical]] [[a/_agent|agent]] that [[c/_causes|causes]] [[b/_bacteriostasis|bacteriostasis]].**
 ---
 ---

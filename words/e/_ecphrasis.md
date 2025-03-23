@@ -1,6 +1,6 @@
 # Ecphrasis
 ---
 #noun
-- **A clear, intense, self-contained argument or verbal description of an object, especially of an artwork.**
+- **A [[c/_clear|clear]], intense, self-[[c/_contained|contained]] [[a/_argument|argument]] or verbal [[d/_description|description]] of an object, especially of an [[a/_artwork|artwork]].**
 ---
 ---

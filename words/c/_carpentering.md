@@ -1,6 +1,6 @@
 # Carpentering
 ---
 #noun
-- **Carpentry**
+- **[[c/_carpentry|Carpentry]]**
 ---
 ---

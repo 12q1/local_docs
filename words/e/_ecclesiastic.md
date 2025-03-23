@@ -1,9 +1,9 @@
 # Ecclesiastic
 ---
 #noun
-- **A cleric.**
+- **A [[c/_cleric|cleric]].**
 ---
 #adjective
-- **Of or pertaining to the church; ecclesiastical.**
+- **Of or pertaining to the [[c/_church|church]]; [[e/_ecclesiastical|ecclesiastical]].**
 ---
 ---

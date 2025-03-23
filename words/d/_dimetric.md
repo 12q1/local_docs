@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Tetragonal**
-- **(technical drawing) axonometric**
-- **Exhibiting dimeter**
+- **(technical [[d/_drawing|drawing]]) [[a/_axonometric|axonometric]]**
+- **Exhibiting [[d/_dimeter|dimeter]]**
 ---
 ---

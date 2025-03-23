@@ -1,9 +1,9 @@
 # Diversity
 ---
 #noun
-- **The quality of being diverse or different; difference or unlikeness.**
-- **A variety; diverse types or examples.**
-- **Equal-opportunity inclusion**
+- **The quality of [[b/_being|being]] [[d/_diverse|diverse]] or [[d/_different|different]]; [[d/_difference|difference]] or unlikeness.**
+- **A variety; [[d/_diverse|diverse]] types or examples.**
+- **[[e/_equal|Equal]]-opportunity inclusion**
 ---
 ### Synonyms
 - [[selection]]

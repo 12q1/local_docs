@@ -1,8 +1,8 @@
 # Befriend
 ---
 #verb
-- **To become a friend of, to make friends with.**
-- **To act as a friend to, to assist.**
+- **To [[b/_become|become]] a friend of, to make friends with.**
+- **To [[a/_act|act]] as a friend to, to [[a/_assist|assist]].**
 - **To favor.**
 ---
 ### Antonyms

@@ -1,8 +1,8 @@
 # Clavicles
 ---
 #noun
-- **The collarbone; the prominent bone at the top of the chest between the shoulder and the neck connecting the shoulder and the breastbone.**
+- **The [[c/_collarbone|collarbone]]; the prominent [[b/_bone|bone]] at the top of the [[c/_chest|chest]] [[b/_between|between]] the shoulder and the neck [[c/_connecting|connecting]] the shoulder and the [[b/_breastbone|breastbone]].**
 ---
 ### Synonyms
-- [[[[c/_collar|collar]] [[b/_bone|bone]]]], [[[[c/_collar|collar]]-[[b/_bone|bone]]]], [[[[c/_collarbone|collarbone]]]]
+- [[collar bone]], [[collar-bone]], [[collarbone]]
 ---

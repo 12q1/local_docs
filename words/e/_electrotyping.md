@@ -1,6 +1,6 @@
 # Electrotyping
 ---
 #noun
-- **The act or process of making electrotypes**
+- **The [[a/_act|act]] or process of making [[e/_electrotypes|electrotypes]]**
 ---
 ---

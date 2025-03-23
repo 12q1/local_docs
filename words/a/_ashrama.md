@@ -1,6 +1,6 @@
 # Ashrama
 ---
 #noun
-- **Any of the four stages of Hindu spiritual life**
+- **[[a/_any|Any]] of the four stages of Hindu spiritual life**
 ---
 ---

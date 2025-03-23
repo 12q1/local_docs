@@ -1,6 +1,6 @@
 # Dilly
 ---
 #adjective
-- **Redolent of dill (the herb).**
+- **Redolent of [[d/_dill|dill]] (the herb).**
 ---
 ---

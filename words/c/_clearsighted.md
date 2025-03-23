@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Having sharp vision.**
-- **Acutely perceptive or discerning; perspicacious.**
+- **[[a/_acutely|Acutely]] perceptive or [[d/_discerning|discerning]]; perspicacious.**
 ---
 ---

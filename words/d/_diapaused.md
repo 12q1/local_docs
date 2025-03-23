@@ -1,6 +1,6 @@
 # Diapaused
 ---
 #adjective
-- **Undergoing diapause**
+- **Undergoing [[d/_diapause|diapause]]**
 ---
 ---

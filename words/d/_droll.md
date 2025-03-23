@@ -1,12 +1,12 @@
 # Droll
 ---
 #noun
-- **A funny person; a buffoon, a wag.**
+- **A funny person; a [[b/_buffoon|buffoon]], a wag.**
 ---
 #verb
 - **To jest, to joke.**
 ---
 #adjective
-- **Oddly humorous; whimsical, amusing in a quaint way; waggish.**
+- **Oddly humorous; whimsical, [[a/_amusing|amusing]] in a quaint way; waggish.**
 ---
 ---

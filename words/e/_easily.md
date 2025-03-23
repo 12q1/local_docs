@@ -1,10 +1,10 @@
 # Easily
 ---
 #adverb
-- **Comfortably, without discomfort or anxiety.**
-- **Without difficulty.**
+- **[[c/_comfortably|Comfortably]], without [[d/_discomfort|discomfort]] or [[a/_anxiety|anxiety]].**
+- **Without [[d/_difficulty|difficulty]].**
 	- _Example: Individuals without a family network are easily controlled._
-- **Absolutely, without question.**
+- **[[a/_absolutely|Absolutely]], without question.**
 	- _Example: This is easily the best meal I have eaten._
 ---
 ---

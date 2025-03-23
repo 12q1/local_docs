@@ -1,13 +1,13 @@
 # Attitudes
 ---
 #noun
-- **The position of the body or way of carrying oneself.**
+- **The position of the [[b/_body|body]] or way of [[c/_carrying|carrying]] oneself.**
 	- _Example: The ballet dancer walked with a graceful attitude._
-- **Disposition or state of mind.**
+- **[[d/_disposition|Disposition]] or state of mind.**
 	- _Example: Don't give me your negative attitude._
-- **The orientation of a vehicle or other object relative to the horizon, direction of motion, other objects, etc.**
+- **The orientation of a vehicle or other object relative to the horizon, [[d/_direction|direction]] of motion, other objects, etc.**
 	- _Example: The airliner had to land with a nose-up attitude after the incident._
-- **A position similar to arabesque, but with the raised leg bent at the knee.**
+- **A position similar to [[a/_arabesque|arabesque]], but with the raised leg [[b/_bent|bent]] at the knee.**
 ---
 ### Synonyms
 - [[orientation]], [[trim]], [[posture]], [[stance]]

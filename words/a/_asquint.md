@@ -5,6 +5,6 @@
 	- _Example: Eyes asquint, he saw she was driving much too fast._
 ---
 #adverb
-- **With narrowed eyes.**
+- **With narrowed [[e/_eyes|eyes]].**
 ---
 ---

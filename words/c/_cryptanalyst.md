@@ -1,6 +1,6 @@
 # Cryptanalyst
 ---
 #noun
-- **An expert in analyzing and breaking codes and ciphers.**
+- **An expert in [[a/_analyzing|analyzing]] and [[b/_breaking|breaking]] [[c/_codes|codes]] and [[c/_ciphers|ciphers]].**
 ---
 ---

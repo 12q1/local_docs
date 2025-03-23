@@ -1,8 +1,8 @@
 # Dollhouse
 ---
 #noun
-- **A miniature house used by children as a toy or as a base for domestic dioramas.**
+- **A miniature house used by [[c/_children|children]] as a toy or as a [[b/_base|base]] for [[d/_domestic|domestic]] [[d/_dioramas|dioramas]].**
 ---
 ### Synonyms
-- [[[[d/_doll|doll]]'s house]]
+- [[doll's house]]
 ---

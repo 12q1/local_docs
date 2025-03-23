@@ -1,25 +1,25 @@
 # Brass
 ---
 #noun
-- **A metallic alloy of copper and zinc used in many industrial and plumbing applications.**
-- **A class of wind instruments, usually made of metal (such as brass), that use vibrations of the player's lips to produce sound; the section of an orchestra that features such instruments**
-- **Spent shell casings (usually made of brass); the part of the cartridge left over after bullets have been fired.**
-- **The colour of brass.**
+- **A metallic [[a/_alloy|alloy]] of [[c/_copper|copper]] and zinc used in many industrial and plumbing [[a/_applications|applications]].**
+- **A [[c/_class|class]] of wind instruments, usually made of metal (such as [[b/_brass|brass]]), that use vibrations of the player's lips to produce sound; the section of an orchestra that features such instruments**
+- **Spent shell [[c/_casings|casings]] (usually made of [[b/_brass|brass]]); the part of the [[c/_cartridge|cartridge]] left over [[a/_after|after]] [[b/_bullets|bullets]] have [[b/_been|been]] fired.**
+- **The [[c/_colour|colour]] of [[b/_brass|brass]].**
 - **(used as a singular or plural noun, metonym) High-ranking officers.**
 	- _Example: The brass are not going to like this._
-- **A brave or foolhardy attitude; impudence.**
+- **A [[b/_brave|brave]] or foolhardy [[a/_attitude|attitude]]; impudence.**
 	- _Example: You've got a lot of brass telling me to do that!_
 - **Money.**
-- **Inferior composition.**
+- **Inferior [[c/_composition|composition]].**
 ---
 #verb
-- **To coat with brass.**
+- **To [[c/_coat|coat]] with [[b/_brass|brass]].**
 ---
 #adjective
-- **Made of brass, of or pertaining to brass.**
-- **Of the colour of brass.**
-- **Impertinent, bold: brazen.**
-- **Bad, annoying; as wordplay applied especially to brass instruments.**
-- **Of inferior composition.**
+- **Made of [[b/_brass|brass]], of or pertaining to [[b/_brass|brass]].**
+- **Of the [[c/_colour|colour]] of [[b/_brass|brass]].**
+- **Impertinent, [[b/_bold|bold]]: [[b/_brazen|brazen]].**
+- **[[b/_bad|Bad]], [[a/_annoying|annoying]]; as wordplay [[a/_applied|applied]] especially to [[b/_brass|brass]] instruments.**
+- **Of inferior [[c/_composition|composition]].**
 ---
 ---

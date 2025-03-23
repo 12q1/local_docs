@@ -1,11 +1,11 @@
 # Depressive
 ---
 #noun
-- **A person suffering from depression.**
+- **A person suffering from [[d/_depression|depression]].**
 ---
 #adjective
-- **Causing depression; dispiriting.**
-- **Affected by depression, depressed; dispirited; melancholic.**
-- **Relating to or characteristic of depression.**
+- **[[c/_causing|Causing]] [[d/_depression|depression]]; [[d/_dispiriting|dispiriting]].**
+- **[[a/_affected|Affected]] by [[d/_depression|depression]], [[d/_depressed|depressed]]; [[d/_dispirited|dispirited]]; melancholic.**
+- **Relating to or [[c/_characteristic|characteristic]] of [[d/_depression|depression]].**
 ---
 ---

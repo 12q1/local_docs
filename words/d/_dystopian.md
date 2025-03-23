@@ -1,7 +1,7 @@
 # Dystopian
 ---
 #adjective
-- **Of or pertaining to a dystopia.**
-- **Dire; characterized by human suffering or misery.**
+- **Of or pertaining to a [[d/_dystopia|dystopia]].**
+- **[[d/_dire|Dire]]; [[c/_characterized|characterized]] by human suffering or misery.**
 ---
 ---

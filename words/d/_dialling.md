@@ -1,16 +1,16 @@
 # Dialling
 ---
 #verb
-- **To control or select something with a dial, or (figuratively) as if with a dial.**
+- **To [[c/_control|control]] or select something with a [[d/_dial|dial]], or (figuratively) as if with a [[d/_dial|dial]].**
 	- _Example: President Trump has recently dialled down the rhetoric._
-- **To select a number, or to call someone, on a telephone.**
+- **To select a number, or to [[c/_call|call]] someone, on a telephone.**
 	- _Example: In an emergency dial 999._
-- **To use a dial or a telephone.**
+- **To use a [[d/_dial|dial]] or a telephone.**
 	- _Example: Please be careful when dialling._
 ---
 #noun
-- **The act by which a number is dialed.**
-- **The art of constructing dials; the science of measuring time by dials.**
-- **A method of surveying, especially in mines, in which the bearings of the courses, or the angles which they make with each other, are determined by means of the circumferentor; the use of a miner's dial.**
+- **The [[a/_act|act]] by which a number is [[d/_dialed|dialed]].**
+- **The [[a/_art|art]] of [[c/_constructing|constructing]] [[d/_dials|dials]]; the science of measuring time by [[d/_dials|dials]].**
+- **A method of surveying, especially in mines, in which the [[b/_bearings|bearings]] of the [[c/_courses|courses]], or the [[a/_angles|angles]] which they make with [[e/_each|each]] other, are [[d/_determined|determined]] by means of the [[c/_circumferentor|circumferentor]]; the use of a miner's [[d/_dial|dial]].**
 ---
 ---

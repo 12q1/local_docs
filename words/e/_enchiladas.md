@@ -1,6 +1,6 @@
 # Enchiladas
 ---
 #noun
-- **A Mexican dish made by wrapping a filling in a tortilla, then baking in a sauce.**
+- **A Mexican [[d/_dish|dish]] made by wrapping a filling in a tortilla, then [[b/_baking|baking]] in a sauce.**
 ---
 ---

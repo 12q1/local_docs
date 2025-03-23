@@ -1,9 +1,9 @@
 # Ducted
 ---
 #verb
-- **To channel something through a duct (or series of ducts).**
+- **To [[c/_channel|channel]] something through a [[d/_duct|duct]] (or series of [[d/_ducts|ducts]]).**
 ---
 #adjective
-- **Fitted with a duct**
+- **Fitted with a [[d/_duct|duct]]**
 ---
 ---

@@ -1,10 +1,10 @@
 # Enclitic
 ---
 #noun
-- **A clitic that joins with the preceding word phonetically, graphically, or both.**
+- **A [[c/_clitic|clitic]] that joins with the preceding word phonetically, graphically, or [[b/_both|both]].**
 	- _Example: The English possessive 's is an enclitic._
 ---
 #adjective
-- **(grammar) Affixed phonetically.**
+- **(grammar) [[a/_affixed|Affixed]] phonetically.**
 ---
 ---

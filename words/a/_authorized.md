@@ -1,16 +1,16 @@
 # Authorized
 ---
 #verb
-- **To grant (someone) the permission or power necessary to do (something).**
+- **To grant (someone) the permission or power necessary to [[d/_do|do]] (something).**
 	- _Example: The General Assembly authorized the Council to take up the matter._
-- **To permit (something), to sanction or consent to (something).**
+- **To permit (something), to sanction or [[c/_consent|consent]] to (something).**
 	- _Example: The judge authorized the wiretapping._
 ---
 #adjective
-- **Explicitly allowed.**
+- **Explicitly [[a/_allowed|allowed]].**
 ---
 ### Synonyms
-- [[[[a/_allowed|allowed]]]], [[permitted]]
+- [[allowed]], [[permitted]]
 ### Antonyms
 - [[unauthorized]]
 ---

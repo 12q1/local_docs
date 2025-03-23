@@ -1,7 +1,7 @@
 # Concomitantly
 ---
 #adverb
-- **At the same time as something else.**
-- **Incidentally to something else.**
+- **At the same time as something [[e/_else|else]].**
+- **Incidentally to something [[e/_else|else]].**
 ---
 ---

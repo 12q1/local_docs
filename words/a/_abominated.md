@@ -1,9 +1,9 @@
 # Abominated
 ---
 #verb
-- **To feel disgust towards; to loathe or detest thoroughly; to hate in the highest degree, as if with religious dread.**
-- **To dislike strongly.**
+- **To feel [[d/_disgust|disgust]] towards; to loathe or [[d/_detest|detest]] thoroughly; to hate in the highest [[d/_degree|degree]], as if with religious [[d/_dread|dread]].**
+- **To [[d/_dislike|dislike]] strongly.**
 ---
 ### Synonyms
-- [[[[a/_abhor|abhor]]]], [[[[d/_detest|detest]]]], [[loathe]], [[[[a/_abhor|abhor]]]]
+- [[abhor]], [[detest]], [[loathe]], [[abhor]]
 ---

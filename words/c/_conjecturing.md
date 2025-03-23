@@ -6,6 +6,6 @@
 - **To infer on slight evidence; to guess at.**
 ---
 #noun
-- **The forming of conjectures.**
+- **The forming of [[c/_conjectures|conjectures]].**
 ---
 ---

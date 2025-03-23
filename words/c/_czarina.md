@@ -1,8 +1,8 @@
 # Czarina
 ---
 #noun
-- **An empress of several Eastern European countries, especially Russia, or the wife of a tsar.**
+- **An [[e/_empress|empress]] of several [[e/_eastern|Eastern]] European [[c/_countries|countries]], especially Russia, or the wife of a tsar.**
 ---
 ### Synonyms
-- [[[[c/_czaritza|czaritza]]]], [[tsaritsa]]
+- [[czaritza]], [[tsaritsa]]
 ---

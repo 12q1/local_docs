@@ -1,8 +1,8 @@
 # Cybernetics
 ---
 #noun
-- **The theory/science of communication and control in the animal and the machine.**
-- **The art/study of governing, controlling automatic processes and communication.**
-- **Technology related to computers and Internet.**
+- **The theory/science of [[c/_communication|communication]] and [[c/_control|control]] in the [[a/_animal|animal]] and the machine.**
+- **The [[a/_art|art]]/study of governing, [[c/_controlling|controlling]] [[a/_automatic|automatic]] processes and [[c/_communication|communication]].**
+- **Technology related to [[c/_computers|computers]] and Internet.**
 ---
 ---

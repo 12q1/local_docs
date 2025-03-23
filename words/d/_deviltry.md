@@ -1,6 +1,6 @@
 # Deviltry
 ---
 #noun
-- **Devilry.**
+- **[[d/_devilry|Devilry]].**
 ---
 ---

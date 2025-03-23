@@ -1,6 +1,6 @@
 # Adversely
 ---
 #adverb
-- **In an adverse manner.**
+- **In an [[a/_adverse|adverse]] manner.**
 ---
 ---

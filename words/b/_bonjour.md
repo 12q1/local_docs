@@ -1,9 +1,9 @@
 # Bonjour
 ---
 #verb
-- **To greet in French with "bonjour".**
+- **To greet in French with "[[b/_bonjour|bonjour]]".**
 ---
 #interjection
-- **(in French contexts) good morning**
+- **(in French [[c/_contexts|contexts]]) good morning**
 ---
 ---

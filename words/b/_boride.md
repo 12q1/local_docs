@@ -1,7 +1,7 @@
 # Boride
 ---
 #noun
-- **The B3− anion**
-- **Any binary compound of boron and a more electropositive element**
+- **The B3− [[a/_anion|anion]]**
+- **[[a/_any|Any]] [[b/_binary|binary]] [[c/_compound|compound]] of [[b/_boron|boron]] and a more [[e/_electropositive|electropositive]] [[e/_element|element]]**
 ---
 ---

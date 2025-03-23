@@ -1,6 +1,6 @@
 # Bilharzia
 ---
 #noun
-- **The parasitic disease schistosomiasis**
+- **The parasitic [[d/_disease|disease]] schistosomiasis**
 ---
 ---

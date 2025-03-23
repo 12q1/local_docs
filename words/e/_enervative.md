@@ -1,6 +1,6 @@
 # Enervative
 ---
 #adjective
-- **Causing enervation.**
+- **[[c/_causing|Causing]] [[e/_enervation|enervation]].**
 ---
 ---

@@ -1,8 +1,8 @@
 # Cranberries
 ---
 #noun
-- **A shrub belonging to the section Vaccinium sect. Oxycoccus of the genus Vaccinium.**
-- **The edible red berry of that shrub.**
-- **An intense red colour, like that of a cranberry**
+- **A shrub [[b/_belonging|belonging]] to the section Vaccinium sect. Oxycoccus of the genus Vaccinium.**
+- **The [[e/_edible|edible]] red [[b/_berry|berry]] of that shrub.**
+- **An intense red [[c/_colour|colour]], like that of a [[c/_cranberry|cranberry]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Compulsively
 ---
 #adverb
-- **In a compulsive manner; obsessively.**
+- **In a [[c/_compulsive|compulsive]] manner; obsessively.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Disappearance
 ---
 #noun
-- **The action of disappearing or vanishing.**
+- **The [[a/_action|action]] of [[d/_disappearing|disappearing]] or vanishing.**
 ---
 ---

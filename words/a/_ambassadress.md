@@ -1,9 +1,9 @@
 # Ambassadress
 ---
 #noun
-- **A female ambassador.**
-- **The wife of an ambassador.**
+- **A female [[a/_ambassador|ambassador]].**
+- **The wife of an [[a/_ambassador|ambassador]].**
 ---
 ### Synonyms
-- [[ambassadrice]], [[ambassadrix]], [[ambassatrice]], [[ambassatrix]], [[[[e/_embassadress|embassadress]]]]
+- [[ambassadrice]], [[ambassadrix]], [[ambassatrice]], [[ambassatrix]], [[embassadress]]
 ---

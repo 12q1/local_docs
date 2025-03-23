@@ -1,6 +1,6 @@
 # Elmwood
 ---
 #noun
-- **The wood of the elm tree.**
+- **The wood of the [[e/_elm|elm]] tree.**
 ---
 ---

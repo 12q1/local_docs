@@ -1,6 +1,6 @@
 # Dino
 ---
 #noun
-- **Dinosaur.**
+- **[[d/_dinosaur|Dinosaur]].**
 ---
 ---

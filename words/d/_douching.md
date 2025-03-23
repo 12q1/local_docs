@@ -1,10 +1,10 @@
 # Douching
 ---
 #verb
-- **To administer a douche to; to shower; to douse**
-- **To use a douche.**
+- **To [[a/_administer|administer]] a [[d/_douche|douche]] to; to shower; to [[d/_douse|douse]]**
+- **To use a [[d/_douche|douche]].**
 ---
 #noun
-- **A washing or irrigation with a douche.**
+- **A washing or irrigation with a [[d/_douche|douche]].**
 ---
 ---

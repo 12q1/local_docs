@@ -1,9 +1,9 @@
 # Businesslike
 ---
 #adjective
-- **Methodical and efficient, in a way that would be advantageous to a business or businessperson.**
-- **Earnest and practical without being distracted or enthusiastic.**
+- **Methodical and [[e/_efficient|efficient]], in a way that would be [[a/_advantageous|advantageous]] to a [[b/_business|business]] or businessperson.**
+- **[[e/_earnest|Earnest]] and practical without [[b/_being|being]] [[d/_distracted|distracted]] or [[e/_enthusiastic|enthusiastic]].**
 ---
 ### Synonyms
-- [[[[e/_earnest|earnest]]]], [[focused]], [[matter-of-fact]]
+- [[earnest]], [[focused]], [[matter-of-fact]]
 ---

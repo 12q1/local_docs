@@ -1,6 +1,6 @@
 # Cepheids
 ---
 #noun
-- **A cepheid variable.**
+- **A [[c/_cepheid|cepheid]] variable.**
 ---
 ---

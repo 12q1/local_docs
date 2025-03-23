@@ -1,6 +1,6 @@
 # Berkelium
 ---
 #noun
-- **A transuranic chemical element (symbol Bk) with an atomic number of 97.**
+- **A transuranic [[c/_chemical|chemical]] [[e/_element|element]] (symbol [[b/_bk|Bk]]) with an [[a/_atomic|atomic]] number of 97.**
 ---
 ---

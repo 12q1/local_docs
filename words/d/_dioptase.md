@@ -1,6 +1,6 @@
 # Dioptase
 ---
 #noun
-- **An intense emerald-green to bluish-green copper cyclosilicate mineral.**
+- **An intense [[e/_emerald|emerald]]-green to [[b/_bluish|bluish]]-green [[c/_copper|copper]] [[c/_cyclosilicate|cyclosilicate]] mineral.**
 ---
 ---

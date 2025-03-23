@@ -1,6 +1,6 @@
 # Doxastic
 ---
 #adjective
-- **Of, pertaining to, or depending on opinion; conjectural.**
+- **Of, pertaining to, or [[d/_depending|depending]] on opinion; [[c/_conjectural|conjectural]].**
 ---
 ---

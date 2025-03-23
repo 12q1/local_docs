@@ -1,10 +1,10 @@
 # Disgruntled
 ---
 #verb
-- **To make discontent or cross; to put in a bad temper.**
+- **To make [[d/_discontent|discontent]] or [[c/_cross|cross]]; to put in a [[b/_bad|bad]] temper.**
 ---
 #adjective
-- **Unhappy; dissatisfied**
+- **Unhappy; [[d/_dissatisfied|dissatisfied]]**
 - **Frustrated.**
 ---
 ### Antonyms

@@ -1,11 +1,11 @@
 # Earmuff
 ---
 #noun
-- **A garment to keep the ears warm.**
-- **A garment or part worn over a single ear.**
-- **A sound-deadening cup or a pair of such cups worn over the ear or ears.**
+- **A garment to keep the [[e/_ears|ears]] warm.**
+- **A garment or part worn over a single [[e/_ear|ear]].**
+- **A sound-[[d/_deadening|deadening]] [[c/_cup|cup]] or a pair of such [[c/_cups|cups]] worn over the [[e/_ear|ear]] or [[e/_ears|ears]].**
 ---
 #noun
-- **Objects designed to cover a person's ears for protection against cold or noise. They consist of a thermoplastic or metal head-band, that fits over the top of the head, and a pad at each end, to cover the external ears.**
+- **Objects [[d/_designed|designed]] to [[c/_cover|cover]] a person's [[e/_ears|ears]] for protection [[a/_against|against]] [[c/_cold|cold]] or noise. They [[c/_consist|consist]] of a thermoplastic or metal head-[[b/_band|band]], that fits over the top of the head, and a pad at [[e/_each|each]] [[e/_end|end]], to [[c/_cover|cover]] the external [[e/_ears|ears]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Backstopping
 ---
 #verb
-- **To serve as backstop for.**
-- **To bolster, support.**
+- **To serve as [[b/_backstop|backstop]] for.**
+- **To [[b/_bolster|bolster]], support.**
 ---
 ---

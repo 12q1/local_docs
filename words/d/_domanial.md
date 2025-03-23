@@ -1,6 +1,6 @@
 # Domanial
 ---
 #adjective
-- **Of or pertaining to a domain.**
+- **Of or pertaining to a [[d/_domain|domain]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Dissertate
 ---
 #verb
-- **To make a dissertation; to discourse.**
+- **To make a [[d/_dissertation|dissertation]]; to [[d/_discourse|discourse]].**
 ---
 ---

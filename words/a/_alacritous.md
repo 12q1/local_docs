@@ -1,6 +1,6 @@
 # Alacritous
 ---
 #adjective
-- **Brisk, speedy, with alacrity, quick and eager.**
+- **[[b/_brisk|Brisk]], speedy, with [[a/_alacrity|alacrity]], quick and [[e/_eager|eager]].**
 ---
 ---

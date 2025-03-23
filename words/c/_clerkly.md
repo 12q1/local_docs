@@ -1,12 +1,12 @@
 # Clerkly
 ---
 #adjective
-- **Of clerks; befitting a clerk.**
+- **Of [[c/_clerks|clerks]]; [[b/_befitting|befitting]] a [[c/_clerk|clerk]].**
 	- _Example: the clerkly life_
 - **Scholarly.**
 ---
 ### Synonyms
-- [[[[c/_clerkish|clerkish]]]], [[clerky]]
+- [[clerkish]], [[clerky]]
 #adverb
 - **In a scholarly manner.**
 ---

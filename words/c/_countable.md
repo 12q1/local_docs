@@ -1,13 +1,13 @@
 # Countable
 ---
 #adjective
-- **Capable of being counted; having a quantity.**
-- **(of a set) Finite or countably infinite; having a one-to-one correspondence (bijection) with a subset of the natural numbers.**
-- **(of a set) Countably infinite; having a bijection with the natural numbers.**
-- **(grammar, of a noun) Freely usable with the indefinite article and with numbers, and therefore having a plural form.**
+- **[[c/_capable|Capable]] of [[b/_being|being]] [[c/_counted|counted]]; having a quantity.**
+- **(of a set) Finite or [[c/_countably|countably]] infinite; having a one-to-one [[c/_correspondence|correspondence]] ([[b/_bijection|bijection]]) with a subset of the natural numbers.**
+- **(of a set) [[c/_countably|Countably]] infinite; having a [[b/_bijection|bijection]] with the natural numbers.**
+- **(grammar, of a noun) Freely usable with the indefinite [[a/_article|article]] and with numbers, and therefore having a plural form.**
 ---
 ### Synonyms
-- [[[[d/_denumerable|denumerable]]]]
+- [[denumerable]]
 ### Antonyms
-- [[non-[[d/_denumerable|denumerable]]]], [[uncountable]], [[uncountable]], [[uncountable]], [[uncountable]]
+- [[non-denumerable]], [[uncountable]], [[uncountable]], [[uncountable]], [[uncountable]]
 ---

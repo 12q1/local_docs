@@ -1,6 +1,6 @@
 # Conflab
 ---
 #noun
-- **A discussion**
+- **A [[d/_discussion|discussion]]**
 ---
 ---

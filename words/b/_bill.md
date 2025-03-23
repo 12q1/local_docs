@@ -1,15 +1,15 @@
 # Bill
 ---
 #noun
-- **Any of various bladed or pointed hand weapons, originally designating an Anglo-Saxon sword, and later a weapon of infantry, especially in the 14th and 15th centuries, commonly consisting of a broad, heavy, double-edged, hook-shaped blade, with a short pike at the back and another at the top, attached to the end of a long staff.**
-- **A cutting instrument, with hook-shaped point, and fitted with a handle, used in pruning, etc.; a billhook.**
-- **Somebody armed with a bill; a billman.**
+- **[[a/_any|Any]] of various [[b/_bladed|bladed]] or pointed hand weapons, originally [[d/_designating|designating]] an [[a/_anglo|Anglo]]-Saxon sword, and later a weapon of infantry, especially in the 14th and 15th [[c/_centuries|centuries]], [[c/_commonly|commonly]] [[c/_consisting|consisting]] of a [[b/_broad|broad]], heavy, [[d/_double|double]]-[[e/_edged|edged]], hook-shaped [[b/_blade|blade]], with a short pike at the [[b/_back|back]] and [[a/_another|another]] at the top, [[a/_attached|attached]] to the [[e/_end|end]] of a long staff.**
+- **A [[c/_cutting|cutting]] instrument, with hook-shaped point, and fitted with a handle, used in pruning, etc.; a [[b/_billhook|billhook]].**
+- **Somebody [[a/_armed|armed]] with a [[b/_bill|bill]]; a [[b/_billman|billman]].**
 - **A pickaxe, or mattock.**
-- **The extremity of the arm of an anchor; the point of or beyond the fluke (also called the peak).**
+- **The extremity of the [[a/_arm|arm]] of an [[a/_anchor|anchor]]; the point of or [[b/_beyond|beyond]] the fluke ([[a/_also|also]] [[c/_called|called]] the peak).**
 ---
 ### Synonyms
-- [[[[b/_billhook|billhook]]]], [[hand [[b/_bill|bill]]]], [[hedge [[b/_bill|bill]]]], [[[[b/_billman|billman]]]], [[polearm]]
+- [[billhook]], [[hand bill]], [[hedge bill]], [[billman]], [[polearm]]
 #verb
-- **To dig, chop, etc., with a bill.**
+- **To [[d/_dig|dig]], [[c/_chop|chop]], etc., with a [[b/_bill|bill]].**
 ---
 ---

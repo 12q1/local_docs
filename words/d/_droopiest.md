@@ -1,6 +1,6 @@
 # Droopiest
 ---
 #adjective
-- **Tending to droop; sagging; wilting.**
+- **Tending to [[d/_droop|droop]]; sagging; wilting.**
 ---
 ---

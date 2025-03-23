@@ -1,14 +1,14 @@
 # Cozening
 ---
 #verb
-- **To become cozy; (by extension) to become acquainted, comfortable, or familiar with.**
+- **To [[b/_become|become]] [[c/_cozy|cozy]]; (by extension) to [[b/_become|become]] [[a/_acquainted|acquainted]], [[c/_comfortable|comfortable]], or familiar with.**
 ---
 #verb
-- **To cheat; to defraud; to deceive, usually by small arts, or in a pitiful way.**
+- **To [[c/_cheat|cheat]]; to [[d/_defraud|defraud]]; to [[d/_deceive|deceive]], usually by small [[a/_arts|arts]], or in a pitiful way.**
 ---
 ### Synonyms
-- [[[[b/_beguile|beguile]]]]
+- [[beguile]]
 #noun
-- **Fraud; deception; the acts of one who cozens**
+- **Fraud; [[d/_deception|deception]]; the [[a/_acts|acts]] of one who [[c/_cozens|cozens]]**
 ---
 ---

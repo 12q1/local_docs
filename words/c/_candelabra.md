@@ -1,9 +1,9 @@
 # Candelabra
 ---
 #noun
-- **A single candelabrum.**
+- **A single [[c/_candelabrum|candelabrum]].**
 ---
 #noun
-- **A candle holder.**
+- **A [[c/_candle|candle]] holder.**
 ---
 ---

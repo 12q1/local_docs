@@ -1,7 +1,7 @@
 # Cabana
 ---
 #noun
-- **A cabin or hut for relaxing.**
-- **A shelter on a beach or at a swimming pool.**
+- **A [[c/_cabin|cabin]] or hut for relaxing.**
+- **A shelter on a [[b/_beach|beach]] or at a swimming pool.**
 ---
 ---

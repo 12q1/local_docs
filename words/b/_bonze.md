@@ -1,6 +1,6 @@
 # Bonze
 ---
 #noun
-- **A Buddhist monk or priest in East Asia.**
+- **A [[b/_buddhist|Buddhist]] monk or priest in [[e/_east|East]] [[a/_asia|Asia]].**
 ---
 ---

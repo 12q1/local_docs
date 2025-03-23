@@ -1,9 +1,9 @@
 # Dishwashers
 ---
 #noun
-- **A machine for washing dishes.**
-- **Someone who washes dishes, especially one hired to wash dishes in a restaurant.**
-- **A European bird, the wagtail.**
-- **A bird, the restless flycatcher (Myiagra inquieta).**
+- **A machine for washing [[d/_dishes|dishes]].**
+- **Someone who washes [[d/_dishes|dishes]], especially one hired to wash [[d/_dishes|dishes]] in a restaurant.**
+- **A European [[b/_bird|bird]], the wagtail.**
+- **A [[b/_bird|bird]], the restless flycatcher (Myiagra inquieta).**
 ---
 ---

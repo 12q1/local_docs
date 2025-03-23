@@ -1,6 +1,6 @@
 # Capriccioso
 ---
 #adverb
-- **Capriciously**
+- **[[c/_capriciously|Capriciously]]**
 ---
 ---

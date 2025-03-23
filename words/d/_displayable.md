@@ -1,6 +1,6 @@
 # Displayable
 ---
 #adjective
-- **Capable of being displayed.**
+- **[[c/_capable|Capable]] of [[b/_being|being]] [[d/_displayed|displayed]].**
 ---
 ---

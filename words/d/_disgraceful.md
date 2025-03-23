@@ -1,7 +1,7 @@
 # Disgraceful
 ---
 #adjective
-- **Bringing or warranting disgrace; shameful.**
+- **[[b/_bringing|Bringing]] or warranting [[d/_disgrace|disgrace]]; shameful.**
 - **Giving offense to moral sensibilities and injurious to reputation.**
 ---
 ---

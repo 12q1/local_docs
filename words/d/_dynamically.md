@@ -1,6 +1,6 @@
 # Dynamically
 ---
 #adverb
-- **Of a dynamic nature; variable or constantly changing nature.**
+- **Of a [[d/_dynamic|dynamic]] nature; variable or [[c/_constantly|constantly]] [[c/_changing|changing]] nature.**
 ---
 ---

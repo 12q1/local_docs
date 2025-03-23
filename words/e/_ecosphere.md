@@ -1,7 +1,7 @@
 # Ecosphere
 ---
 #noun
-- **The portion of the atmosphere from sea-level to about 4000 meters in which it is possible to breathe without technological assistance.**
-- **The biosphere**
+- **The portion of the [[a/_atmosphere|atmosphere]] from sea-level to [[a/_about|about]] 4000 meters in which it is possible to [[b/_breathe|breathe]] without technological [[a/_assistance|assistance]].**
+- **The [[b/_biosphere|biosphere]]**
 ---
 ---

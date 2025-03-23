@@ -1,9 +1,9 @@
 # Birr
 ---
 #noun
-- **Force, vigor, energy**
+- **Force, vigor, [[e/_energy|energy]]**
 - **A strong wind.**
-- **The force of movement; rush, impetus, momentum, driving force**
+- **The force of movement; rush, impetus, momentum, [[d/_driving|driving]] force**
 - **A thrust or push.**
 - **A whirring noise**
 - **A strong trilling.**

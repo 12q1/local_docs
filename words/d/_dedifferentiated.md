@@ -1,9 +1,9 @@
 # Dedifferentiated
 ---
 #verb
-- **To lose or reverse differentiation**
+- **To lose or reverse [[d/_differentiation|differentiation]]**
 ---
 #adjective
-- **That has undergone dedifferentiation**
+- **That has undergone [[d/_dedifferentiation|dedifferentiation]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Elfish
 ---
 #adjective
-- **Characteristic of an elf; elfin, elven.**
+- **[[c/_characteristic|Characteristic]] of an [[e/_elf|elf]]; [[e/_elfin|elfin]], elven.**
 - **Mischievous.**
 ---
 ### Synonyms

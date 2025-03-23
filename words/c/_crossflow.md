@@ -1,10 +1,10 @@
 # Crossflow
 ---
 #noun
-- **A crosswise flow.**
+- **A [[c/_crosswise|crosswise]] flow.**
 ---
 #verb
-- **To flow across, or in a contrary direction.**
+- **To flow [[a/_across|across]], or in a [[c/_contrary|contrary]] [[d/_direction|direction]].**
 	- _Example: His crossflowing course. — Milton._
 ---
 ---

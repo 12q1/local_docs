@@ -1,7 +1,7 @@
 # Crosshatching
 ---
 #verb
-- **To mark or fill with a crosshatch pattern.**
+- **To mark or fill with a [[c/_crosshatch|crosshatch]] pattern.**
 ---
 #noun
 - **A method of showing shading by means of multiple small lines that intersect.**

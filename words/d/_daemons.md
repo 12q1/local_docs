@@ -1,16 +1,16 @@
 # Daemons
 ---
 #noun
-- **A process (a running program) that does not have a controlling terminal.**
+- **A process (a running program) that [[d/_does|does]] not have a [[c/_controlling|controlling]] terminal.**
 ---
 #noun
 - **An evil supernatural spirit.**
 - **A neutral supernatural spirit.**
-- **Someone with great strength, passion or skill for a particular activity, pursuit etc.; an enthusiast.**
+- **Someone with great strength, passion or skill for a particular [[a/_activity|activity]], pursuit etc.; an [[e/_enthusiast|enthusiast]].**
 	- _Example: He’s a demon at the card tables._
-- **A form of patience (known as Canfield in the US).**
-- **Any of various hesperiid butterflies of the genera Notocrypta and Udaspes.**
+- **A form of patience (known as [[c/_canfield|Canfield]] in the US).**
+- **[[a/_any|Any]] of various hesperiid [[b/_butterflies|butterflies]] of the genera Notocrypta and Udaspes.**
 ---
 ### Synonyms
-- [[genius]], [[tutelary [[d/_deity|deity]]]]
+- [[genius]], [[tutelary deity]]
 ---

@@ -1,9 +1,9 @@
 # Dimerized
 ---
 #verb
-- **To produce, or to undergo dimerization**
+- **To produce, or to undergo [[d/_dimerization|dimerization]]**
 ---
 #adjective
-- **That have been reacted to form a dimer**
+- **That have [[b/_been|been]] reacted to form a [[d/_dimer|dimer]]**
 ---
 ---

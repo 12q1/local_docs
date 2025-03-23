@@ -1,6 +1,6 @@
 # Defiantly
 ---
 #adverb
-- **In a defiant manner.**
+- **In a [[d/_defiant|defiant]] manner.**
 ---
 ---

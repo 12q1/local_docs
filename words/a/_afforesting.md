@@ -7,5 +7,5 @@
 ### Synonyms
 - [[forest]]
 ### Antonyms
-- [[[[d/_deforest|deforest]]]]
+- [[deforest]]
 ---

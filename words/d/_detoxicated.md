@@ -1,9 +1,9 @@
 # Detoxicated
 ---
 #verb
-- **(of a person) To remove poison (or its effects) from.**
-- **(of a poison) To counteract, or make less poisonous.**
+- **(of a person) To remove poison (or its [[e/_effects|effects]]) from.**
+- **(of a poison) To [[c/_counteract|counteract]], or make less poisonous.**
 ---
 ### Synonyms
-- [[[[d/_detoxify|detoxify]]]]
+- [[detoxify]]
 ---

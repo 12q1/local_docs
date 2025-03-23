@@ -1,6 +1,6 @@
 # Brekky
 ---
 #noun
-- **Breakfast.**
+- **[[b/_breakfast|Breakfast]].**
 ---
 ---

@@ -7,6 +7,6 @@
 ### Synonyms
 - [[swap]], [[swop]], [[trade]]
 #noun
-- **Barter**
+- **[[b/_barter|Barter]]**
 ---
 ---

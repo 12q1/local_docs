@@ -1,6 +1,6 @@
 # Dulse
 ---
 #noun
-- **A seaweed of a reddish-brown color (Palmaria palmata) which is sometimes eaten, as in Scotland.**
+- **A seaweed of a reddish-[[b/_brown|brown]] [[c/_color|color]] (Palmaria palmata) which is sometimes [[e/_eaten|eaten]], as in Scotland.**
 ---
 ---

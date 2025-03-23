@@ -1,6 +1,6 @@
 # Doggo
 ---
 #noun
-- **A dog.**
+- **A [[d/_dog|dog]].**
 ---
 ---

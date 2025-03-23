@@ -1,20 +1,20 @@
 # Bolster
 ---
 #noun
-- **A large cushion or pillow.**
-- **A pad, quilt, or anything used to hinder pressure, support part of the body, or make a bandage sit easy upon a wounded part; a compress.**
-- **A small spacer located on top of the axle of horse-drawn wagons that gives the front wheels enough clearance to turn.**
-- **A short, horizontal structural timber between a post and a beam for enlarging the bearing area of the post and/or reducing the span of the beam.**
-- **A beam in the middle of a railway truck, supporting the body of the car.**
-- **The perforated plate in a punching machine on which anything rests when being punched.**
-- **The part of a knife blade that abuts upon the end of the handle.**
-- **The metallic end of a pocketknife handle.**
-- **The rolls forming the ends or sides of the Ionic capital.**
-- **A block of wood on the carriage of a siege gun, upon which the breech of the gun rests when arranged for transportation.**
+- **A large [[c/_cushion|cushion]] or pillow.**
+- **A pad, quilt, or [[a/_anything|anything]] used to hinder pressure, support part of the [[b/_body|body]], or make a [[b/_bandage|bandage]] sit [[e/_easy|easy]] upon a wounded part; a [[c/_compress|compress]].**
+- **A small spacer located on top of the [[a/_axle|axle]] of horse-[[d/_drawn|drawn]] wagons that gives the front wheels [[e/_enough|enough]] [[c/_clearance|clearance]] to turn.**
+- **A short, horizontal structural timber [[b/_between|between]] a post and a [[b/_beam|beam]] for [[e/_enlarging|enlarging]] the [[b/_bearing|bearing]] [[a/_area|area]] of the post and/or reducing the span of the [[b/_beam|beam]].**
+- **A [[b/_beam|beam]] in the middle of a railway truck, supporting the [[b/_body|body]] of the [[c/_car|car]].**
+- **The perforated plate in a punching machine on which [[a/_anything|anything]] rests when [[b/_being|being]] punched.**
+- **The part of a knife [[b/_blade|blade]] that [[a/_abuts|abuts]] upon the [[e/_end|end]] of the handle.**
+- **The metallic [[e/_end|end]] of a pocketknife handle.**
+- **The rolls forming the [[e/_ends|ends]] or sides of the Ionic [[c/_capital|capital]].**
+- **A [[b/_block|block]] of wood on the [[c/_carriage|carriage]] of a siege gun, upon which the [[b/_breech|breech]] of the gun rests when [[a/_arranged|arranged]] for transportation.**
 ---
 ### Synonyms
-- [[[[d/_dutch|Dutch]] wife]], [[[[c/_cross|cross]]-head]], [[pillow]]
+- [[Dutch wife]], [[cross-head]], [[pillow]]
 #verb
-- **To brace, reinforce, secure, or support.**
+- **To [[b/_brace|brace]], reinforce, secure, or support.**
 ---
 ---

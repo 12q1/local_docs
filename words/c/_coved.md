@@ -1,9 +1,9 @@
 # Coved
 ---
 #verb
-- **To arch over; to build in a hollow concave form; to make in the form of a cove.**
+- **To [[a/_arch|arch]] over; to [[b/_build|build]] in a hollow [[c/_concave|concave]] form; to make in the form of a [[c/_cove|cove]].**
 ---
 #verb
-- **To brood, cover, over, or sit over, as birds their eggs.**
+- **To [[b/_brood|brood]], [[c/_cover|cover]], over, or sit over, as [[b/_birds|birds]] their [[e/_eggs|eggs]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Clary
 ---
 #noun
-- **Clary sage (Salvia sclarea)**
+- **[[c/_clary|Clary]] sage (Salvia sclarea)**
 ---
 ---

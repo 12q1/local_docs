@@ -1,22 +1,22 @@
 # Benefit
 ---
 #noun
-- **An advantage; help or aid from something.**
+- **An [[a/_advantage|advantage]]; help or [[a/_aid|aid]] from something.**
 	- _Example: It was for her benefit.   His benefit was free beer._
-- **A payment made in accordance with an insurance policy or a public assistance scheme.**
-- **An event such as a performance, given to raise funds for some cause.**
-- **Beneficence; liberality**
+- **A payment made in [[a/_accordance|accordance]] with an insurance policy or a public [[a/_assistance|assistance]] scheme.**
+- **An event such as a performance, given to raise funds for some [[c/_cause|cause]].**
+- **[[b/_beneficence|Beneficence]]; liberality**
 ---
 ### Synonyms
-- [[[[a/_advantage|advantage]]]], [[[[a/_aid|aid]]]], [[[[a/_assistance|assistance]]]], [[[[b/_boon|boon]]]], [[foredeal]], [[help]], [[subsidy]]
+- [[advantage]], [[aid]], [[assistance]], [[boon]], [[foredeal]], [[help]], [[subsidy]]
 ### Antonyms
-- [[[[d/_detriment|detriment]]]], [[[[d/_disadvantage|disadvantage]]]], [[[[e/_encumbrance|encumbrance]]]], [[harm]], [[hindrance]], [[nuisance]], [[obstacle]]
+- [[detriment]], [[disadvantage]], [[encumbrance]], [[harm]], [[hindrance]], [[nuisance]], [[obstacle]]
 #verb
-- **To be or to provide a benefit to.**
-- **To receive a benefit (from); to be a beneficiary.**
+- **To be or to provide a [[b/_benefit|benefit]] to.**
+- **To receive a [[b/_benefit|benefit]] (from); to be a [[b/_beneficiary|beneficiary]].**
 ---
 ### Synonyms
-- [[[[b/_batten|batten]]]], [[[[b/_behoove|behoove]]]], [[help]]
+- [[batten]], [[behoove]], [[help]]
 ### Antonyms
-- [[[[d/_detriment|detriment]]]], [[malefic]]
+- [[detriment]], [[malefic]]
 ---

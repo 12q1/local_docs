@@ -1,21 +1,21 @@
 # Acceptance
 ---
 #noun
-- **The act of accepting; a receiving of something offered, with acquiescence, approbation, or satisfaction; especially, favourable reception; approval.**
+- **The [[a/_act|act]] of [[a/_accepting|accepting]]; a receiving of something offered, with [[a/_acquiescence|acquiescence]], [[a/_approbation|approbation]], or satisfaction; especially, favourable reception; [[a/_approval|approval]].**
 	- _Example: the acceptance of a gift, office, doctrine, etc._
-- **Belief in something; agreement, assent.**
-- **The state of being accepted.**
-- **The usual or accepted meaning of a word or expression.**
-- **An assent and engagement by the person on whom a bill of exchange is drawn, to pay it when due according to the terms of the acceptance; the bill of exchange itself when accepted.**
-- **An agreeing to the action, proposals, or terms of another by some act which results in the conclusion of a legally binding contract; the reception or taking of a thing bought as that for which it was bought, or as that agreed to be delivered, or the taking of possession of a thing as owner.**
-- **The act of an authorized representative of the government by which the government assents to ownership of existing and identified supplies, or approves specific services rendered, as partial or complete performance of a contract.**
-- **A list of horses accepted as starters in a race.**
+- **[[b/_belief|Belief]] in something; [[a/_agreement|agreement]], [[a/_assent|assent]].**
+- **The state of [[b/_being|being]] [[a/_accepted|accepted]].**
+- **The usual or [[a/_accepted|accepted]] meaning of a word or expression.**
+- **An [[a/_assent|assent]] and [[e/_engagement|engagement]] by the person on whom a [[b/_bill|bill]] of exchange is [[d/_drawn|drawn]], to pay it when [[d/_due|due]] [[a/_according|according]] to the terms of the [[a/_acceptance|acceptance]]; the [[b/_bill|bill]] of exchange itself when [[a/_accepted|accepted]].**
+- **An [[a/_agreeing|agreeing]] to the [[a/_action|action]], proposals, or terms of [[a/_another|another]] by some [[a/_act|act]] which results in the [[c/_conclusion|conclusion]] of a legally [[b/_binding|binding]] [[c/_contract|contract]]; the reception or taking of a thing [[b/_bought|bought]] as that for which it was [[b/_bought|bought]], or as that [[a/_agreed|agreed]] to be [[d/_delivered|delivered]], or the taking of possession of a thing as owner.**
+- **The [[a/_act|act]] of an [[a/_authorized|authorized]] representative of the government by which the government [[a/_assents|assents]] to ownership of existing and identified supplies, or [[a/_approves|approves]] specific services rendered, as partial or [[c/_complete|complete]] performance of a [[c/_contract|contract]].**
+- **A list of horses [[a/_accepted|accepted]] as starters in a race.**
 ---
 ### Synonyms
-- [[[[a/_accepting|accepting]]]], [[[[a/_approval|approval]]]], [[receiving]], [[reception]], [[[[a/_assent|assent]]]], [[[[a/_acceptableness|acceptableness]]]]
+- [[accepting]], [[approval]], [[receiving]], [[reception]], [[assent]], [[acceptableness]]
 #noun
-- **A conserved property of the light in an optical system which characterizes how "spread out" the light is in terms of angle and area: it is the product of its cross-sectional area (normal to the direction of propagation) and the solid angle it subtends.**
+- **A [[c/_conserved|conserved]] property of the light in an optical system which [[c/_characterizes|characterizes]] how "spread out" the light is in terms of [[a/_angle|angle]] and [[a/_area|area]]: it is the product of its [[c/_cross|cross]]-sectional [[a/_area|area]] (normal to the [[d/_direction|direction]] of propagation) and the solid [[a/_angle|angle]] it subtends.**
 ---
 ### Synonyms
-- [[AΩ product]], [[[[a/_acceptance|acceptance]]]], [[geometric extent]], [[light grasp]], [[light-[[c/_collecting|collecting]] power]], [[light-gathering power]], [[optical extent]], [[throughput]]
+- [[AΩ product]], [[acceptance]], [[geometric extent]], [[light grasp]], [[light-collecting power]], [[light-gathering power]], [[optical extent]], [[throughput]]
 ---

@@ -5,5 +5,5 @@
 - **Resonant**
 ---
 ### Synonyms
-- [[[[d/_dulcet|dulcet]]]], [[musical]], [[[[b/_booming|booming]]]], [[remugient]]
+- [[dulcet]], [[musical]], [[booming]], [[remugient]]
 ---

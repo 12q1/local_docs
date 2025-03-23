@@ -1,6 +1,6 @@
 # Avis
 ---
 #noun
-- **Advice; opinion; deliberation.**
+- **[[a/_advice|Advice]]; opinion; [[d/_deliberation|deliberation]].**
 ---
 ---

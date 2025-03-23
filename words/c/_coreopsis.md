@@ -1,6 +1,6 @@
 # Coreopsis
 ---
 #noun
-- **Any of several composite herbs, of genus Coreopsis, typically with bright yellow flowers.**
+- **[[a/_any|Any]] of several [[c/_composite|composite]] herbs, of genus [[c/_coreopsis|Coreopsis]], typically with [[b/_bright|bright]] yellow flowers.**
 ---
 ---

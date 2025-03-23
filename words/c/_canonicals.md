@@ -2,6 +2,6 @@
 ---
 #noun
 - **The formal robes of a priest.**
-- **A URL presented in canonical form.**
+- **A URL presented in [[c/_canonical|canonical]] form.**
 ---
 ---

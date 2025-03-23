@@ -1,10 +1,10 @@
 # Cornerman
 ---
 #noun
-- **A coach, trainer or other assistant who attends to a boxer between rounds.**
-- **A player who can play both the small forward and power forward positions.**
-- **A policeman assigned to an intersection to direct the traffic.**
+- **A [[c/_coach|coach]], trainer or other [[a/_assistant|assistant]] who [[a/_attends|attends]] to a [[b/_boxer|boxer]] [[b/_between|between]] rounds.**
+- **A player who [[c/_can|can]] play [[b/_both|both]] the small forward and power forward positions.**
+- **A policeman [[a/_assigned|assigned]] to an intersection to [[d/_direct|direct]] the traffic.**
 ---
 ### Synonyms
-- [[[[c/_corner|corner]]]]
+- [[corner]]
 ---

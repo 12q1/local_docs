@@ -1,9 +1,9 @@
 # Chordate
 ---
 #noun
-- **A member of the phylum Chordata; numerous animals having a notochord at some stage of their development; in vertebrates this develops into the spine**
+- **A member of the phylum [[c/_chordata|Chordata]]; numerous [[a/_animals|animals]] having a notochord at some stage of their [[d/_development|development]]; in vertebrates this [[d/_develops|develops]] into the spine**
 ---
 #adjective
-- **Of such animals.**
+- **Of such [[a/_animals|animals]].**
 ---
 ---

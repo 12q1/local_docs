@@ -1,7 +1,7 @@
 # Dwt
 ---
 #noun
-- **Deadweight ton; deadweight tonnage.**
+- **[[d/_deadweight|Deadweight]] ton; [[d/_deadweight|deadweight]] tonnage.**
 - **Pennyweight**
 ---
 ---

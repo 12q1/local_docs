@@ -1,11 +1,11 @@
 # Ellipsis
 ---
 #noun
-- **A mark consisting of (in English) three periods, historically or more formally with spaces in between, before, and after them “ . . . ”, or more recently a single character “…” Ellipses are used to indicate that words have been omitted in a text or that they are missing or illegible.**
-- **(grammar) The omission of a word or phrase that can be inferred from the context.**
-- **The omission of scenes in a film that do not advance the plot.**
-- **An ellipse.**
+- **A mark [[c/_consisting|consisting]] of (in [[e/_english|English]]) three periods, historically or more formally with spaces in [[b/_between|between]], [[b/_before|before]], and [[a/_after|after]] them “ . . . ”, or more recently a single [[c/_character|character]] “…” [[e/_ellipses|Ellipses]] are used to indicate that words have [[b/_been|been]] omitted in a text or that they are missing or illegible.**
+- **(grammar) The omission of a word or phrase that [[c/_can|can]] be inferred from the [[c/_context|context]].**
+- **The omission of scenes in a film that [[d/_do|do]] not [[a/_advance|advance]] the plot.**
+- **An [[e/_ellipse|ellipse]].**
 ---
 ### Synonyms
-- [[[[d/_dot|dot]] [[d/_dot|dot]] [[d/_dot|dot]]]], [[suspension [[d/_dots|dots]]]], [[suspension points]]
+- [[dot dot dot]], [[suspension dots]], [[suspension points]]
 ---

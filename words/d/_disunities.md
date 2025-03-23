@@ -1,7 +1,7 @@
 # Disunities
 ---
 #noun
-- **The lack of unity or cohesion.**
+- **The lack of unity or [[c/_cohesion|cohesion]].**
 ---
 ### Antonyms
 - [[unity]]

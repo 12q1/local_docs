@@ -6,6 +6,6 @@
 	- _Example: Swaziland is an absolute diarchy, ruled jointly by a king and a queen mother._
 ---
 #noun
-- **Any of several offices of the Roman Republic held by two joint magistrates known as duumvirs.**
+- **[[a/_any|Any]] of several offices of the Roman Republic held by two joint magistrates known as [[d/_duumvirs|duumvirs]].**
 ---
 ---

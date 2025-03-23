@@ -1,6 +1,6 @@
 # Citriculture
 ---
 #noun
-- **The cultivation of citrus fruits.**
+- **The [[c/_cultivation|cultivation]] of [[c/_citrus|citrus]] fruits.**
 ---
 ---

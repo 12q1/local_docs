@@ -1,6 +1,6 @@
 # Dowd
 ---
 #noun
-- **A dowdy person, especially a woman; a frump.**
+- **A [[d/_dowdy|dowdy]] person, especially a woman; a frump.**
 ---
 ---

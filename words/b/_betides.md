@@ -1,6 +1,6 @@
 # Betides
 ---
 #adverb
-- **At any early period.**
+- **At [[a/_any|any]] [[e/_early|early]] period.**
 ---
 ---

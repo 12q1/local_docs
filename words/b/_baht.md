@@ -1,6 +1,6 @@
 # Baht
 ---
 #noun
-- **The official currency of Thailand, equal to 100 satang.**
+- **The official [[c/_currency|currency]] of Thailand, [[e/_equal|equal]] to 100 satang.**
 ---
 ---

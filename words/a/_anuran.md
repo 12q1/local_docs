@@ -1,9 +1,9 @@
 # Anuran
 ---
 #noun
-- **(batrachology) Any amphibian of the order Anura; a frog, a toad.**
+- **(batrachology) [[a/_any|Any]] [[a/_amphibian|amphibian]] of the order [[a/_anura|Anura]]; a frog, a toad.**
 ---
 #adjective
-- **(batrachology) Of or relating to the order Anura.**
+- **(batrachology) Of or relating to the order [[a/_anura|Anura]].**
 ---
 ---

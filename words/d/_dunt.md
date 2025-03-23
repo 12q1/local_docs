@@ -1,9 +1,9 @@
 # Dunt
 ---
 #noun
-- **A stroke; a dull-sounding blow.**
+- **A stroke; a [[d/_dull|dull]]-sounding [[b/_blow|blow]].**
 ---
 #verb
-- **To strike; give a blow to; knock.**
+- **To strike; give a [[b/_blow|blow]] to; knock.**
 ---
 ---

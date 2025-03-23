@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Urgent.**
-- **Crying earnestly; beseeching clamorously.**
+- **[[c/_crying|Crying]] [[e/_earnestly|earnestly]]; [[b/_beseeching|beseeching]] [[c/_clamorously|clamorously]].**
 ---
 ---

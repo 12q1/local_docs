@@ -1,9 +1,9 @@
 # Citywide
 ---
 #adjective
-- **Throughout a city.**
+- **Throughout a [[c/_city|city]].**
 ---
 #adverb
-- **Throughout a city.**
+- **Throughout a [[c/_city|city]].**
 ---
 ---

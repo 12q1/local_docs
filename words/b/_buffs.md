@@ -1,37 +1,37 @@
 # Buffs
 ---
 #noun
-- **Undyed leather from the skin of buffalo or similar animals.**
-- **A tool, often one covered with buff leather, used for polishing.**
-- **A brownish yellow colour.**
-- **A military coat made of buff leather.**
-- **A person who is very interested in a particular subject; an enthusiast.**
-- **An effect that makes a character or item stronger.**
+- **Undyed leather from the skin of [[b/_buffalo|buffalo]] or similar [[a/_animals|animals]].**
+- **A tool, often one [[c/_covered|covered]] with [[b/_buff|buff]] leather, used for polishing.**
+- **A [[b/_brownish|brownish]] yellow [[c/_colour|colour]].**
+- **A military [[c/_coat|coat]] made of [[b/_buff|buff]] leather.**
+- **A person who is very interested in a particular subject; an [[e/_enthusiast|enthusiast]].**
+- **An [[e/_effect|effect]] that makes a [[c/_character|character]] or item stronger.**
 	- _Example: I just picked up an epic damage buff! Let's go gank the other team!_
-- **Compressive coupler force that occurs during a slack bunched condition.**
-- **The bare skin.**
+- **[[c/_compressive|Compressive]] [[c/_coupler|coupler]] force that occurs [[d/_during|during]] a slack [[b/_bunched|bunched]] [[c/_condition|condition]].**
+- **The [[b/_bare|bare]] skin.**
 	- _Example: to strip to the buff_
-- **The greyish viscid substance constituting the buffy coat.**
-- **A substance used to dilute (street) drugs in order to increase profits.**
+- **The greyish viscid substance [[c/_constituting|constituting]] the [[b/_buffy|buffy]] [[c/_coat|coat]].**
+- **A substance used to [[d/_dilute|dilute]] (street) [[d/_drugs|drugs]] in order to increase profits.**
 ---
 ### Synonyms
-- [[[[a/_aficionado|aficionado]]]], [[revamp]]
+- [[aficionado]], [[revamp]]
 ### Antonyms
 - [[debuff]], [[nerf]]
 #verb
 - **To polish and make shiny by rubbing.**
 	- _Example: He was already buffing the car's hubs._
-- **To make a character or an item stronger.**
+- **To make a [[c/_character|character]] or an item stronger.**
 	- _Example: I noticed that the pistols were buffed in the update._
-- **To modify a medical chart, especially in a dishonest manner.**
+- **To modify a medical [[c/_chart|chart]], especially in a [[d/_dishonest|dishonest]] manner.**
 ---
 #noun
-- **A buffet; a blow.**
+- **A [[b/_buffet|buffet]]; a [[b/_blow|blow]].**
 ---
 #verb
 - **To strike.**
 ---
 #noun
-- **A buffalo, or the meat of a buffalo.**
+- **A [[b/_buffalo|buffalo]], or the meat of a [[b/_buffalo|buffalo]].**
 ---
 ---

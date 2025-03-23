@@ -1,13 +1,13 @@
 # Connoted
 ---
 #verb
-- **To signify beyond its literal or principal meaning.**
+- **To signify [[b/_beyond|beyond]] its literal or principal meaning.**
 	- _Example: Racism often connotes an underlying fear or ignorance._
-- **To possess an inseparable related condition; to imply as a logical consequence.**
+- **To possess an inseparable related [[c/_condition|condition]]; to imply as a logical [[c/_consequence|consequence]].**
 	- _Example: Poverty connotes hunger._
 - **To express without overt reference; to imply.**
-- **To require as a logical predicate to consequence.**
+- **To require as a logical predicate to [[c/_consequence|consequence]].**
 ---
 ### Synonyms
-- [[[[e/_entail|entail]]]], [[imply]], [[[[e/_entail|entail]]]], [[imply]], [[predicate]]
+- [[entail]], [[imply]], [[entail]], [[imply]], [[predicate]]
 ---

@@ -1,9 +1,9 @@
 # Enjambed
 ---
 #verb
-- **To carry a sentence over to the next line without a pause.**
+- **To [[c/_carry|carry]] a sentence over to the next line without a pause.**
 ---
 #adjective
-- **(grammar, of two syntactic units) continued without a pause**
+- **(grammar, of two syntactic units) [[c/_continued|continued]] without a pause**
 ---
 ---

@@ -1,7 +1,7 @@
 # Blockhole
 ---
 #noun
-- **A small depression in the pitch caused by batsmen tapping their bats on the point where they have taken block.**
-- **(by extension) The approximate place where the toe of the bat touches the pitch when a batsman is taking guard.**
+- **A small [[d/_depression|depression]] in the pitch [[c/_caused|caused]] by [[b/_batsmen|batsmen]] tapping their [[b/_bats|bats]] on the point where they have taken [[b/_block|block]].**
+- **(by extension) The [[a/_approximate|approximate]] place where the toe of the [[b/_bat|bat]] touches the pitch when a [[b/_batsman|batsman]] is taking guard.**
 ---
 ---

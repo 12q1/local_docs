@@ -1,6 +1,6 @@
 # Breechclout
 ---
 #noun
-- **A breechcloth or loincloth.**
+- **A [[b/_breechcloth|breechcloth]] or loincloth.**
 ---
 ---

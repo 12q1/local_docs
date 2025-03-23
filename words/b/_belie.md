@@ -1,7 +1,7 @@
 # Belie
 ---
 #verb
-- **To lie around; encompass.**
-- **(of an army) To surround; beleaguer.**
+- **To lie [[a/_around|around]]; [[e/_encompass|encompass]].**
+- **(of an [[a/_army|army]]) To surround; [[b/_beleaguer|beleaguer]].**
 ---
 ---

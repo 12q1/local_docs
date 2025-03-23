@@ -2,35 +2,35 @@
 ---
 #noun
 - **A grotesque representation of a figure; a gargoyle.**
-- **A caricature.**
-- **(often in plural) A ludicrous gesture or act; ridiculous behaviour; caper.**
-- **A grotesque performer or clown, buffoon.**
+- **A [[c/_caricature|caricature]].**
+- **(often in plural) A ludicrous gesture or [[a/_act|act]]; ridiculous [[b/_behaviour|behaviour]]; [[c/_caper|caper]].**
+- **A grotesque performer or [[c/_clown|clown]], [[b/_buffoon|buffoon]].**
 ---
 #adjective
-- **Playful, funny, absurd**
+- **Playful, funny, [[a/_absurd|absurd]]**
 - **Grotesque, incongruous.**
-- **Grotesque, bizarre**
+- **Grotesque, [[b/_bizarre|bizarre]]**
 ---
 #noun
-- **A pose, often exaggerated, in anticipation of an action; for example, a brief squat before jumping**
+- **A pose, often exaggerated, in [[a/_anticipation|anticipation]] of an [[a/_action|action]]; for example, a [[b/_brief|brief]] squat [[b/_before|before]] jumping**
 ---
 #noun
-- **In general, anything very old; specifically:**
-- **A style of type of thick and bold face in which all lines are of equal or nearly equal thickness.**
+- **In general, [[a/_anything|anything]] very old; specifically:**
+- **A style of type of thick and [[b/_bold|bold]] face in which [[a/_all|all]] lines are of [[e/_equal|equal]] or nearly [[e/_equal|equal]] thickness.**
 ---
 ### Synonyms
-- [[[[a/_ancient|ancient]]]], [[[[c/_coffin|coffin]] [[d/_dodger|dodger]]]], [[geriatric]], [[oldster]]
+- [[ancient]], [[coffin dodger]], [[geriatric]], [[oldster]]
 #verb
-- **To search or shop for antiques.**
-- **To make an object appear to be an antique in some way.**
-- **To emboss without gilding.**
+- **To search or shop for [[a/_antiques|antiques]].**
+- **To make an object [[a/_appear|appear]] to be an [[a/_antique|antique]] in some way.**
+- **To [[e/_emboss|emboss]] without gilding.**
 ---
 #adjective
-- **Having existed in ancient times, descended from antiquity; used especially in reference to Greece and Rome.**
-- **Belonging to former times, not modern, out of date, old-fashioned.**
-- **Designating a style of type.**
-- **Embossed without gilt.**
+- **Having existed in [[a/_ancient|ancient]] times, [[d/_descended|descended]] from [[a/_antiquity|antiquity]]; used especially in reference to Greece and Rome.**
+- **[[b/_belonging|Belonging]] to former times, not modern, out of [[d/_date|date]], old-fashioned.**
+- **[[d/_designating|Designating]] a style of type.**
+- **[[e/_embossed|Embossed]] without gilt.**
 ---
 ### Synonyms
-- [[[[a/_antiquated|antiquated]]]], [[[[d/_disused|disused]]]], [[outdated]]
+- [[antiquated]], [[disused]], [[outdated]]
 ---

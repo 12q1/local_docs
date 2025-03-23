@@ -1,6 +1,6 @@
 # Bothersome
 ---
 #adjective
-- **Causing bother or perplexity.**
+- **[[c/_causing|Causing]] [[b/_bother|bother]] or perplexity.**
 ---
 ---

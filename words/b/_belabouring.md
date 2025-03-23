@@ -1,9 +1,9 @@
 # Belabouring
 ---
 #verb
-- **To labour about; labour over; work hard upon; ply diligently.**
-- **To beat soundly; thump; beat someone.**
-- **To attack someone verbally.**
-- **To discuss something repeatedly; to harp on.**
+- **To labour [[a/_about|about]]; labour over; work hard upon; ply [[d/_diligently|diligently]].**
+- **To [[b/_beat|beat]] soundly; thump; [[b/_beat|beat]] someone.**
+- **To [[a/_attack|attack]] someone verbally.**
+- **To [[d/_discuss|discuss]] something repeatedly; to harp on.**
 ---
 ---

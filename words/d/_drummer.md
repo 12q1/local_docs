@@ -1,10 +1,10 @@
 # Drummer
 ---
 #noun
-- **One who plays the drums.**
+- **One who plays the [[d/_drums|drums]].**
 - **Travelling salesman**
-- **A drumstick (the lower part of a chicken or turkey leg).**
-- **Any of various fish of the family Kyphosidae which make a drumming sound.**
+- **A [[d/_drumstick|drumstick]] (the lower part of a [[c/_chicken|chicken]] or turkey leg).**
+- **[[a/_any|Any]] of various fish of the family Kyphosidae which make a [[d/_drumming|drumming]] sound.**
 ---
 ### Synonyms
 - [[drummist]], [[percussionist]], [[hawker]], [[peddler]]

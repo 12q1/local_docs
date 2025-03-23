@@ -1,9 +1,9 @@
 # Dewing
 ---
 #verb
-- **To wet with, or as if with, dew; to moisten.**
+- **To wet with, or as if with, [[d/_dew|dew]]; to moisten.**
 ---
 #noun
-- **A contributor to corrosion?**
+- **A [[c/_contributor|contributor]] to [[c/_corrosion|corrosion]]?**
 ---
 ---

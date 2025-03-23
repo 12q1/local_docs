@@ -1,6 +1,6 @@
 # Botels
 ---
 #noun
-- **A floating hotel; a boat that acts as a hotel**
+- **A floating hotel; a [[b/_boat|boat]] that [[a/_acts|acts]] as a hotel**
 ---
 ---

@@ -1,10 +1,10 @@
 # Concise
 ---
 #verb
-- **To make concise; to abridge or summarize.**
+- **To make [[c/_concise|concise]]; to [[a/_abridge|abridge]] or summarize.**
 ---
 #adjective
-- **Brief, yet including all important information**
+- **[[b/_brief|Brief]], yet including [[a/_all|all]] important information**
 ---
 ### Synonyms
 - [[succinct]], [[terse]]

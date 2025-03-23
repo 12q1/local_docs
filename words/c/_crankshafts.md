@@ -1,6 +1,6 @@
 # Crankshafts
 ---
 #noun
-- **A rotating shaft that drives (or is driven by) a crank.**
+- **A rotating shaft that [[d/_drives|drives]] (or is [[d/_driven|driven]] by) a [[c/_crank|crank]].**
 ---
 ---

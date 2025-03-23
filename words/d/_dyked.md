@@ -1,6 +1,6 @@
 # Dyked
 ---
 #adjective
-- **Containing a dyke (ditch)**
+- **[[c/_containing|Containing]] a [[d/_dyke|dyke]] ([[d/_ditch|ditch]])**
 ---
 ---

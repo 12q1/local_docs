@@ -1,7 +1,7 @@
 # Corpuscles
 ---
 #noun
-- **A minute particle; an atom; a molecule.**
-- **A protoplasmic animal cell; especially, such as float free, like blood, lymph, and pus corpuscles; or such as are embedded in an intercellular matrix, like connective tissue and cartilage corpuscles.**
+- **A minute particle; an [[a/_atom|atom]]; a molecule.**
+- **A protoplasmic [[a/_animal|animal]] [[c/_cell|cell]]; especially, such as float free, like [[b/_blood|blood]], lymph, and pus [[c/_corpuscles|corpuscles]]; or such as are [[e/_embedded|embedded]] in an intercellular matrix, like [[c/_connective|connective]] tissue and [[c/_cartilage|cartilage]] [[c/_corpuscles|corpuscles]].**
 ---
 ---

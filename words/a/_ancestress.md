@@ -1,6 +1,6 @@
 # Ancestress
 ---
 #noun
-- **Female ancestor**
+- **Female [[a/_ancestor|ancestor]]**
 ---
 ---

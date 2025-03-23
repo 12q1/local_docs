@@ -1,11 +1,11 @@
 # Buttonholing
 ---
 #verb
-- **To detain (a person) in conversation against their will.**
+- **To [[d/_detain|detain]] (a person) in [[c/_conversation|conversation]] [[a/_against|against]] their will.**
 ---
 ### Synonyms
-- [[[[a/_accost|accost]]]], [[waylay]]
+- [[accost]], [[waylay]]
 #noun
-- **The act of detaining someone in conversation against his or her will.**
+- **The [[a/_act|act]] of [[d/_detaining|detaining]] someone in [[c/_conversation|conversation]] [[a/_against|against]] his or her will.**
 ---
 ---

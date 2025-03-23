@@ -6,5 +6,5 @@
 - **To twist into or as if into a strained shape or expression.**
 ---
 ### Synonyms
-- [[[[d/_deform|deform]]]], [[[[d/_detort|detort]]]], [[twist]]
+- [[deform]], [[detort]], [[twist]]
 ---

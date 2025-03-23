@@ -1,6 +1,6 @@
 # Dimerizing
 ---
 #verb
-- **To produce, or to undergo dimerization**
+- **To produce, or to undergo [[d/_dimerization|dimerization]]**
 ---
 ---

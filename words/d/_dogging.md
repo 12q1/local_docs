@@ -1,22 +1,22 @@
 # Dogging
 ---
 #verb
-- **To pursue with the intent to catch.**
-- **To follow in an annoying or harassing way.**
+- **To pursue with the intent to [[c/_catch|catch]].**
+- **To follow in an [[a/_annoying|annoying]] or harassing way.**
 	- _Example: The woman cursed him so that trouble would dog his every step._
 - **To fasten a hatch securely.**
 	- _Example: It is very important to dog down these hatches..._
-- **To watch, or participate, in sexual activity in a public place.**
+- **To watch, or participate, in sexual [[a/_activity|activity]] in a public place.**
 	- _Example: I admit that I like to dog at my local country park._
-- **To intentionally restrict one's productivity as employee; to work at the slowest rate that goes unpunished.**
+- **To intentionally restrict one's productivity as [[e/_employee|employee]]; to work at the slowest rate that goes unpunished.**
 	- _Example: A surprise inspection of the night shift found that some workers were dogging it._
-- **To criticize.**
-- **To divide (a watch) with a comrade.**
+- **To [[c/_criticize|criticize]].**
+- **To [[d/_divide|divide]] (a watch) with a [[c/_comrade|comrade]].**
 ---
 ### Synonyms
-- [[[[c/_chase|chase]]]], [[[[c/_chase|chase]] [[a/_after|after]]]], [[go [[a/_after|after]]]], [[pursue]], [[tag]], [[tail]], [[track]], [[trail]], [[goldbrick]], [[soldier]]
+- [[chase]], [[chase after]], [[go after]], [[pursue]], [[tag]], [[tail]], [[track]], [[trail]], [[goldbrick]], [[soldier]]
 #noun
-- **The act of one who dogs or harasses.**
-- **The practice of having sexual intercourse in public places, especially parks, deliberately taking the chance of being watched.**
+- **The [[a/_act|act]] of one who [[d/_dogs|dogs]] or harasses.**
+- **The practice of having sexual intercourse in public places, especially parks, [[d/_deliberately|deliberately]] taking the [[c/_chance|chance]] of [[b/_being|being]] watched.**
 ---
 ---

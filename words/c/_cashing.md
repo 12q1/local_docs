@@ -1,10 +1,10 @@
 # Cashing
 ---
 #verb
-- **To exchange (a check/cheque) for money in the form of notes/bills.**
+- **To exchange (a [[c/_check|check]]/[[c/_cheque|cheque]]) for money in the form of notes/[[b/_bills|bills]].**
 - **To obtain a payout from a tournament.**
 ---
 #verb
-- **To disband. To do away with, kill**
+- **To [[d/_disband|disband]]. To [[d/_do|do]] [[a/_away|away]] with, kill**
 ---
 ---

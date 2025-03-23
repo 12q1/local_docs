@@ -1,13 +1,13 @@
 # Boycotts
 ---
 #noun
-- **The act of boycotting.**
+- **The [[a/_act|act]] of [[b/_boycotting|boycotting]].**
 ---
 ### Synonyms
-- [[[[e/_embargo|embargo]]]], [[taboo]]
+- [[embargo]], [[taboo]]
 #verb
-- **To abstain, either as an individual or a group, from using, buying, or dealing with someone or some organization as an expression of protest.**
+- **To [[a/_abstain|abstain]], [[e/_either|either]] as an individual or a group, from using, [[b/_buying|buying]], or [[d/_dealing|dealing]] with someone or some organization as an expression of protest.**
 ---
 ### Synonyms
-- [[[[b/_blackball|blackball]]]], [[[[b/_blacklist|blacklist]]]], [[[[e/_embargo|embargo]]]], [[withhold patronage]]
+- [[blackball]], [[blacklist]], [[embargo]], [[withhold patronage]]
 ---

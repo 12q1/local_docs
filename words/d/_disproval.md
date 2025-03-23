@@ -1,6 +1,6 @@
 # Disproval
 ---
 #noun
-- **The act of disproving; disproof.**
+- **The [[a/_act|act]] of [[d/_disproving|disproving]]; [[d/_disproof|disproof]].**
 ---
 ---

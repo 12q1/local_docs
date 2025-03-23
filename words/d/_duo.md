@@ -1,11 +1,11 @@
 # Duo
 ---
 #noun
-- **Two people who work or collaborate together as partners; especially, those who perform music together.**
-- **Any pair of two people.**
-- **Any cocktail consisting of a spirit and a liqueur.**
-- **A song in two parts; a duet.**
+- **Two people who work or [[c/_collaborate|collaborate]] together as partners; especially, those who perform music together.**
+- **[[a/_any|Any]] pair of two people.**
+- **[[a/_any|Any]] [[c/_cocktail|cocktail]] [[c/_consisting|consisting]] of a spirit and a liqueur.**
+- **A song in two parts; a [[d/_duet|duet]].**
 ---
 ### Synonyms
-- [[[[c/_couple|couple]]]], [[pair]], [[twosome]]
+- [[couple]], [[pair]], [[twosome]]
 ---

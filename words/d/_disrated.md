@@ -2,6 +2,6 @@
 ---
 #verb
 - **To lower a rate or rating**
-- **To demote a sailor to a lower rank**
+- **To [[d/_demote|demote]] a sailor to a lower rank**
 ---
 ---

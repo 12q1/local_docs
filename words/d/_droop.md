@@ -2,14 +2,14 @@
 ---
 #noun
 - **Something which is limp or sagging**
-- **A condition or posture of drooping**
+- **A [[c/_condition|condition]] or posture of [[d/_drooping|drooping]]**
 	- _Example: He walked with a discouraged droop._
 ---
 #verb
-- **To hang downward; to sag.**
-- **To slowly become limp; to bend gradually.**
-- **To lose all energy, enthusiasm or happiness; to flag.**
-- **To allow to droop or sink.**
-- **To proceed downward, or toward a close; to decline.**
+- **To hang [[d/_downward|downward]]; to sag.**
+- **To slowly [[b/_become|become]] limp; to [[b/_bend|bend]] gradually.**
+- **To lose [[a/_all|all]] [[e/_energy|energy]], [[e/_enthusiasm|enthusiasm]] or happiness; to flag.**
+- **To [[a/_allow|allow]] to [[d/_droop|droop]] or sink.**
+- **To proceed [[d/_downward|downward]], or toward a [[c/_close|close]]; to [[d/_decline|decline]].**
 ---
 ---

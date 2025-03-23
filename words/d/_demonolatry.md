@@ -1,6 +1,6 @@
 # Demonolatry
 ---
 #noun
-- **Worship of demons.**
+- **Worship of [[d/_demons|demons]].**
 ---
 ---

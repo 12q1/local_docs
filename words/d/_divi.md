@@ -1,6 +1,6 @@
 # Divi
 ---
 #noun
-- **The dividend paid out by the Co-op**
+- **The [[d/_dividend|dividend]] paid out by the [[c/_co|Co]]-op**
 ---
 ---

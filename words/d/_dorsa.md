@@ -1,12 +1,12 @@
 # Dorsa
 ---
 #noun
-- **The back of the tongue, used for articulating dorsal consonants.**
-- **The top of the foot or the back of the hand.**
-- **The back or dorsal region on the surface of an animal.**
-- **(astrogeology) A ridge on a hill, or on the surface of a planet or moon.**
-- **Theta Capricorni, a star on the back of the Goat**
+- **The [[b/_back|back]] of the tongue, used for [[a/_articulating|articulating]] [[d/_dorsal|dorsal]] [[c/_consonants|consonants]].**
+- **The top of the foot or the [[b/_back|back]] of the hand.**
+- **The [[b/_back|back]] or [[d/_dorsal|dorsal]] region on the surface of an [[a/_animal|animal]].**
+- **([[a/_astrogeology|astrogeology]]) A ridge on a hill, or on the surface of a planet or moon.**
+- **Theta Capricorni, a star on the [[b/_back|back]] of the Goat**
 ---
 ### Synonyms
-- [[[[b/_back|back]]]]
+- [[back]]
 ---

@@ -1,10 +1,10 @@
 # Atypical
 ---
 #noun
-- **An atypical antipsychotic.**
+- **An [[a/_atypical|atypical]] [[a/_antipsychotic|antipsychotic]].**
 ---
 #adjective
-- **Not conforming to the normal type.**
+- **Not [[c/_conforming|conforming]] to the normal type.**
 - **Unusual or irregular.**
 ---
 ### Antonyms

@@ -1,9 +1,9 @@
 # Aphorisms
 ---
 #noun
-- **An original, laconic phrase conveying some principle or concept of thought.**
+- **An original, laconic phrase [[c/_conveying|conveying]] some principle or [[c/_concept|concept]] of thought.**
 ---
 #verb
-- **To speak or write aphorisms.**
+- **To speak or write [[a/_aphorisms|aphorisms]].**
 ---
 ---

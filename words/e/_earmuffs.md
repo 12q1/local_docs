@@ -1,6 +1,6 @@
 # Earmuffs
 ---
 #noun
-- **Objects designed to cover a person's ears for protection against cold or noise. They consist of a thermoplastic or metal head-band, that fits over the top of the head, and a pad at each end, to cover the external ears.**
+- **Objects [[d/_designed|designed]] to [[c/_cover|cover]] a person's [[e/_ears|ears]] for protection [[a/_against|against]] [[c/_cold|cold]] or noise. They [[c/_consist|consist]] of a thermoplastic or metal head-[[b/_band|band]], that fits over the top of the head, and a pad at [[e/_each|each]] [[e/_end|end]], to [[c/_cover|cover]] the external [[e/_ears|ears]].**
 ---
 ---

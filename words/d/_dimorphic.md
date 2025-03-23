@@ -1,9 +1,9 @@
 # Dimorphic
 ---
 #adjective
-- **Occurring or existing in two different forms**
-- **Exhibiting dimorphism**
+- **Occurring or existing in two [[d/_different|different]] forms**
+- **Exhibiting [[d/_dimorphism|dimorphism]]**
 ---
 ### Synonyms
-- [[bimorphic]], [[bimorphous]], [[[[d/_dimorphous|dimorphous]]]]
+- [[bimorphic]], [[bimorphous]], [[dimorphous]]
 ---

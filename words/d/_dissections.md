@@ -1,7 +1,7 @@
 # Dissections
 ---
 #noun
-- **The act of dissecting, or something dissected**
-- **A minute and detailed examination or analysis**
+- **The [[a/_act|act]] of [[d/_dissecting|dissecting]], or something [[d/_dissected|dissected]]**
+- **A minute and [[d/_detailed|detailed]] examination or [[a/_analysis|analysis]]**
 ---
 ---

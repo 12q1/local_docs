@@ -1,6 +1,6 @@
 # Coopered
 ---
 #verb
-- **To make and repair barrels etc.**
+- **To make and repair [[b/_barrels|barrels]] etc.**
 ---
 ---

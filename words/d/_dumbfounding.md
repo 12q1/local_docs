@@ -1,8 +1,8 @@
 # Dumbfounding
 ---
 #verb
-- **To confuse and bewilder; to leave speechless.**
+- **To [[c/_confuse|confuse]] and [[b/_bewilder|bewilder]]; to leave speechless.**
 ---
 ### Synonyms
-- [[flabbergast]], [[strike [[d/_dumb|dumb]]]]
+- [[flabbergast]], [[strike dumb]]
 ---

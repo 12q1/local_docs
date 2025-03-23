@@ -1,6 +1,6 @@
 # Burgeons
 ---
 #noun
-- **A bud, sprout, shoot.**
+- **A [[b/_bud|bud]], sprout, shoot.**
 ---
 ---

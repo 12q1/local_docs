@@ -1,8 +1,8 @@
 # Coetaneous
 ---
 #adjective
-- **Belonging to the same age, era or period; coeval or contemporary.**
+- **[[b/_belonging|Belonging]] to the same [[a/_age|age]], era or period; [[c/_coeval|coeval]] or [[c/_contemporary|contemporary]].**
 ---
 ### Synonyms
-- [[[[c/_contemporaneous|contemporaneous]]]]
+- [[contemporaneous]]
 ---

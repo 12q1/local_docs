@@ -1,8 +1,8 @@
 # Boxcars
 ---
 #noun
-- **An enclosed railroad freight car, especially one with a sliding door.**
+- **An [[e/_enclosed|enclosed]] railroad freight [[c/_car|car]], especially one with a sliding [[d/_door|door]].**
 ---
 ### Synonyms
-- [[[[b/_box|box]] van]], [[goods van]]
+- [[box van]], [[goods van]]
 ---

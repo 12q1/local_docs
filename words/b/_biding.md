@@ -1,7 +1,7 @@
 # Biding
 ---
 #noun
-- **An awaiting; expectation.**
+- **An [[a/_awaiting|awaiting]]; expectation.**
 - **Residence; habitation.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Androcratic
 ---
 #adjective
-- **Relating to androcracy.**
+- **Relating to [[a/_androcracy|androcracy]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Disinvest
 ---
 #verb
-- **To reduce investment, or cease to invest.**
+- **To reduce investment, or [[c/_cease|cease]] to invest.**
 ---
 ### Antonyms
 - [[invest]]

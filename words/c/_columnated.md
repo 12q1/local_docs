@@ -1,6 +1,6 @@
 # Columnated
 ---
 #adjective
-- **Having columns; columnar**
+- **Having [[c/_columns|columns]]; [[c/_columnar|columnar]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Cremations
 ---
 #noun
-- **A burning; especially the act or practice of cremating the dead, burning a corpse.**
+- **A [[b/_burning|burning]]; especially the [[a/_act|act]] or practice of [[c/_cremating|cremating]] the [[d/_dead|dead]], [[b/_burning|burning]] a [[c/_corpse|corpse]].**
 	- _Example: Cremation removes a significant amount of "closure" from the process of death._
 ---
 ### Synonyms

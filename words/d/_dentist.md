@@ -1,6 +1,6 @@
 # Dentist
 ---
 #noun
-- **A medical doctor who specializes in dentistry.**
+- **A medical [[d/_doctor|doctor]] who specializes in [[d/_dentistry|dentistry]].**
 ---
 ---

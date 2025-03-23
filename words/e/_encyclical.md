@@ -1,9 +1,9 @@
 # Encyclical
 ---
 #noun
-- **A papal letter, intended for general circulation in the Catholic Church.**
+- **A papal letter, intended for general [[c/_circulation|circulation]] in the [[c/_catholic|Catholic]] [[c/_church|Church]].**
 ---
 #adjective
-- **Intended for general circulation.**
+- **Intended for general [[c/_circulation|circulation]].**
 ---
 ---

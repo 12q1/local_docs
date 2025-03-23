@@ -1,6 +1,6 @@
 # Donjon
 ---
 #noun
-- **The fortified tower of a motte or early castle; a keep.**
+- **The fortified tower of a motte or [[e/_early|early]] [[c/_castle|castle]]; a keep.**
 ---
 ---

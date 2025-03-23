@@ -1,16 +1,16 @@
 # Embarks
 ---
 #verb
-- **To get on a boat or ship or (outside the USA) an aeroplane.**
+- **To get on a [[b/_boat|boat]] or ship or (outside the USA) an [[a/_aeroplane|aeroplane]].**
 	- _Example: All passengers please embark now._
-- **To start, begin.**
+- **To start, [[b/_begin|begin]].**
 	- _Example: Phil embarked on his journey yesterday._
-- **To cause to go on board a vessel or boat; to put on shipboard.**
-- **To engage, enlist, or invest (as persons, money, etc.) in any affair.**
+- **To [[c/_cause|cause]] to go on [[b/_board|board]] a vessel or [[b/_boat|boat]]; to put on shipboard.**
+- **To [[e/_engage|engage]], [[e/_enlist|enlist]], or invest (as persons, money, etc.) in [[a/_any|any]] [[a/_affair|affair]].**
 	- _Example: He embarked his fortune in trade._
 ---
 ### Synonyms
 - [[make sail]]
 ### Antonyms
-- [[[[d/_disembark|disembark]]]]
+- [[disembark]]
 ---

@@ -1,6 +1,6 @@
 # Durocs
 ---
 #noun
-- **A pig of a reddish breed developed in North America.**
+- **A pig of a reddish [[b/_breed|breed]] [[d/_developed|developed]] in North [[a/_america|America]].**
 ---
 ---

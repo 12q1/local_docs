@@ -1,6 +1,6 @@
 # Couvert
 ---
 #noun
-- **Cover charge**
+- **[[c/_cover|Cover]] [[c/_charge|charge]]**
 ---
 ---

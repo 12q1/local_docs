@@ -1,7 +1,7 @@
 # Denuclearize
 ---
 #verb
-- **To ban, remove or reduce the numbers of nuclear weapons in an area.**
+- **To [[b/_ban|ban]], remove or reduce the numbers of nuclear weapons in an [[a/_area|area]].**
 ---
 ### Synonyms
 - [[denuke]]

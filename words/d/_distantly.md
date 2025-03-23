@@ -1,9 +1,9 @@
 # Distantly
 ---
 #adverb
-- **At a distance.**
+- **At a [[d/_distance|distance]].**
 	- _Example: The horizon was distantly visible in the grey light of dawn._
-- **In a distant manner; with detachment.**
+- **In a [[d/_distant|distant]] manner; with [[d/_detachment|detachment]].**
 	- _Example: "What do you want?" she said distantly._
 ---
 ---

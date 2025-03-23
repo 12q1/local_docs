@@ -1,8 +1,8 @@
 # Alidades
 ---
 #noun
-- **A sighting device used for measuring angles.**
+- **A sighting [[d/_device|device]] used for measuring [[a/_angles|angles]].**
 ---
 ### Synonyms
-- [[[[d/_diopter|diopter]]]], [[turning [[b/_board|board]]]]
+- [[diopter]], [[turning board]]
 ---

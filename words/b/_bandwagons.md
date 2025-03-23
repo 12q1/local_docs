@@ -1,7 +1,7 @@
 # Bandwagons
 ---
 #noun
-- **A large wagon used to carry a band of musicians in a parade.**
-- **A current movement that attracts wide support.**
+- **A large wagon used to [[c/_carry|carry]] a [[b/_band|band]] of musicians in a parade.**
+- **A [[c/_current|current]] movement that [[a/_attracts|attracts]] wide support.**
 ---
 ---

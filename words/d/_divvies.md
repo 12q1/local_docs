@@ -1,16 +1,16 @@
 # Divvies
 ---
 #noun
-- **A dividend.**
+- **A [[d/_dividend|dividend]].**
 ---
 #noun
 - **A stupid person; someone of low intelligence.**
 ---
 #noun
-- **A dividend; a share or portion.**
+- **A [[d/_dividend|dividend]]; a share or portion.**
 ---
 #verb
-- **To divide into portions.**
+- **To [[d/_divide|divide]] into portions.**
 	- _Example: We divvied the money into equal portions to split between us._
 ---
 #noun

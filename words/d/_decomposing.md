@@ -1,9 +1,9 @@
 # Decomposing
 ---
 #verb
-- **To separate or break down something into its components; to disintegrate or fragment**
-- **To rot, decay or putrefy**
+- **To separate or [[b/_break|break]] [[d/_down|down]] something into its [[c/_components|components]]; to [[d/_disintegrate|disintegrate]] or fragment**
+- **To rot, [[d/_decay|decay]] or putrefy**
 ---
 ### Antonyms
-- [[[[a/_assemble|assemble]]]]
+- [[assemble]]
 ---

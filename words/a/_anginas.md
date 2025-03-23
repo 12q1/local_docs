@@ -2,7 +2,7 @@
 ---
 #noun
 - **An inflammatory infection of the throat, particularly quinsy.**
-- **Short for angina pectoris.**
-- **A chest pain or shortness of breath occurring with lesser degrees of arterial blockage.**
+- **Short for [[a/_angina|angina]] pectoris.**
+- **A [[c/_chest|chest]] pain or shortness of [[b/_breath|breath]] occurring with lesser [[d/_degrees|degrees]] of [[a/_arterial|arterial]] [[b/_blockage|blockage]].**
 ---
 ---

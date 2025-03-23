@@ -1,9 +1,9 @@
 # Dentary
 ---
 #noun
-- **The dentary bone.**
+- **The [[d/_dentary|dentary]] [[b/_bone|bone]].**
 ---
 #adjective
-- **Relating to, or bearing, teeth.**
+- **Relating to, or [[b/_bearing|bearing]], teeth.**
 ---
 ---

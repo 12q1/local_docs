@@ -1,52 +1,52 @@
 # Bulls
 ---
 #noun
-- **An adult male of domesticated cattle or oxen.**
-- **A male of domesticated cattle or oxen of any age.**
-- **Any adult male bovine.**
-- **An adult male of certain large mammals, such as whales, elephants, camels and seals.**
+- **An [[a/_adult|adult]] male of [[d/_domesticated|domesticated]] [[c/_cattle|cattle]] or oxen.**
+- **A male of [[d/_domesticated|domesticated]] [[c/_cattle|cattle]] or oxen of [[a/_any|any]] [[a/_age|age]].**
+- **[[a/_any|Any]] [[a/_adult|adult]] male [[b/_bovine|bovine]].**
+- **An [[a/_adult|adult]] male of [[c/_certain|certain]] large mammals, such as whales, [[e/_elephants|elephants]], [[c/_camels|camels]] and seals.**
 - **A large, strong man.**
-- **An investor who buys (commodities or securities) in anticipation of a rise in prices.**
+- **An investor who [[b/_buys|buys]] ([[c/_commodities|commodities]] or securities) in [[a/_anticipation|anticipation]] of a rise in prices.**
 - **A policeman.**
-- **A crown coin; its value, 5 shillings.**
+- **A [[c/_crown|crown]] [[c/_coin|coin]]; its value, 5 shillings.**
 - **(Philadelphia) A man.**
-- **A man who has sex with another man's wife or girlfriend with the consent of both.**
-- **A drink made by pouring water into a cask that previously held liquor.**
+- **A man who has sex with [[a/_another|another]] man's wife or girlfriend with the [[c/_consent|consent]] of [[b/_both|both]].**
+- **A [[d/_drink|drink]] made by pouring water into a [[c/_cask|cask]] that previously held liquor.**
 ---
 ### Synonyms
-- [[[[b/_bro|bro]]]], [[[[c/_cat|cat]]]], [[[[d/_dude|dude]]]], [[guy]], [[[[c/_cop|cop]]]], [[[[c/_copper|copper]]]], [[pig]], [[rozzer]]
+- [[bro]], [[cat]], [[dude]], [[guy]], [[cop]], [[copper]], [[pig]], [[rozzer]]
 ### Antonyms
-- [[[[b/_bear|bear]]]]
+- [[bear]]
 #noun
-- **A papal bull, an official document or edict from the Pope.**
-- **A seal affixed to a document, especially a document from the Pope.**
+- **A papal [[b/_bull|bull]], an official [[d/_document|document]] or [[e/_edict|edict]] from the Pope.**
+- **A seal [[a/_affixed|affixed]] to a [[d/_document|document]], especially a [[d/_document|document]] from the Pope.**
 ---
 #noun
-- **(16th century) A bubble.**
+- **(16th [[c/_century|century]]) A [[b/_bubble|bubble]].**
 ---
 #noun
-- **The centre of a target, inside the inner and magpie.**
-- **A shot which hits the centre of a target.**
-- **The two central rings on a dartboard.**
-- **A hard striped peppermint-flavoured boiled sweet.**
+- **The [[c/_centre|centre]] of a target, inside the inner and magpie.**
+- **A shot which hits the [[c/_centre|centre]] of a target.**
+- **The two [[c/_central|central]] rings on a [[d/_dartboard|dartboard]].**
+- **A hard striped peppermint-flavoured [[b/_boiled|boiled]] sweet.**
 - **Thick glass set into the side of a ship to let in light.**
-- **A hand-cancelled postmark issued by a counter clerk at a post office, typically done on a receipt for proof of mailing.**
-- **The central part of a crown glass disk, with concentric ripple effect.**
-- **A convex glass lens which is placed in front of a lamp to concentrate the light so as to make it more conspicuous as a signal; also the lantern itself.**
-- **A £50 banknote.**
-- **Any of the first postage stamps produced in Brazil from 1843.**
+- **A hand-[[c/_cancelled|cancelled]] postmark issued by a [[c/_counter|counter]] [[c/_clerk|clerk]] at a post office, typically [[d/_done|done]] on a receipt for proof of mailing.**
+- **The [[c/_central|central]] part of a [[c/_crown|crown]] glass [[d/_disk|disk]], with [[c/_concentric|concentric]] ripple [[e/_effect|effect]].**
+- **A [[c/_convex|convex]] glass lens which is placed in front of a lamp to [[c/_concentrate|concentrate]] the light so as to make it more [[c/_conspicuous|conspicuous]] as a signal; [[a/_also|also]] the lantern itself.**
+- **A £50 [[b/_banknote|banknote]].**
+- **[[a/_any|Any]] of the first postage stamps produced in [[b/_brazil|Brazil]] from 1843.**
 ---
 #noun
-- **The faeces of a bull.**
-- **False or exaggerated statements made to impress and deceive the listener rather than inform; nonsense.**
+- **The faeces of a [[b/_bull|bull]].**
+- **False or exaggerated statements made to impress and [[d/_deceive|deceive]] the listener rather than inform; nonsense.**
 	- _Example: Don't pay any attention to him. He talks a lot of bullshit._
-- **A card game in which the object is to bluff about cards laid down and to determine when one's opponents are bluffing.**
+- **A [[c/_card|card]] game in which the object is to [[b/_bluff|bluff]] [[a/_about|about]] [[c/_cards|cards]] laid [[d/_down|down]] and to [[d/_determine|determine]] when one's opponents are [[b/_bluffing|bluffing]].**
 	- _Example: Anyone want to play a few hands of bullshit?_
-- **An object of frustration and/or disgust, often caused by a perceived deception.**
+- **An object of frustration and/or [[d/_disgust|disgust]], often [[c/_caused|caused]] by a perceived [[d/_deception|deception]].**
 	- _Example: That's total bullshit! I called your office and they said you never came in!_
 - **Statements that may be true but misleading nonetheless.**
-- **Statements made without any particular reference to their truth value.**
+- **Statements made without [[a/_any|any]] particular reference to their truth value.**
 ---
 ### Synonyms
-- [[[[b/_bs|BS]]]], [[I [[d/_doubt|doubt]] it]], [[[[c/_cheat|cheat]]]], [[[[b/_bs|BS]]]], [[[[b/_bull|bull]]]], [[bulldada]], [[bullpucky]], [[[[b/_bushwah|bushwah]]]], [[malarkey]]
+- [[BS]], [[I doubt it]], [[cheat]], [[BS]], [[bull]], [[bulldada]], [[bullpucky]], [[bushwah]], [[malarkey]]
 ---

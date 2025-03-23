@@ -1,27 +1,27 @@
 # Conducts
 ---
 #noun
-- **The act or method of controlling or directing**
+- **The [[a/_act|act]] or method of [[c/_controlling|controlling]] or [[d/_directing|directing]]**
 - **Skillful guidance or management; leadership**
-- **Behaviour; the manner of behaving**
+- **[[b/_behaviour|Behaviour]]; the manner of [[b/_behaving|behaving]]**
 	- _Example: Good conduct will be rewarded and likewise poor conduct will be punished._
 - **(of a literary work) plot; storyline**
-- **Convoy; escort; person who accompanies another**
-- **Something which carries or conveys anything; a channel; an instrument.**
+- **[[c/_convoy|Convoy]]; escort; person who [[a/_accompanies|accompanies]] [[a/_another|another]]**
+- **Something which [[c/_carries|carries]] or [[c/_conveys|conveys]] [[a/_anything|anything]]; a [[c/_channel|channel]]; an instrument.**
 ---
 ### Synonyms
-- [[[[c/_control|control]]]], [[guidance]], [[management]], [[[[b/_bearing|bearing]]]], [[[[b/_behavior|behavior]]]], [[[[b/_behaviour|behaviour]]]], [[[[d/_demeanor|demeanor]]]], [[[[d/_demeanour|demeanour]]]], [[[[d/_deportment|deportment]]]], [[[[a/_action|action]]]], [[plot]], [[storyline]]
+- [[control]], [[guidance]], [[management]], [[bearing]], [[behavior]], [[behaviour]], [[demeanor]], [[demeanour]], [[deportment]], [[action]], [[plot]], [[storyline]]
 #verb
 - **To lead, or guide; to escort.**
-- **To lead; to direct; to be in charge of (people or tasks)**
+- **To lead; to [[d/_direct|direct]]; to be in [[c/_charge|charge]] of (people or tasks)**
 	- _Example: The commander conducted thousands of troops._
-- **(reflexively to conduct oneself) To behave.**
+- **(reflexively to [[c/_conduct|conduct]] oneself) To [[b/_behave|behave]].**
 	- _Example: He conducted himself well._
-- **To serve as a medium for conveying; to transmit (heat, light, electricity, etc.)**
-- **To direct, as the leader in the performance of a musical composition.**
-- **To act as a conductor (as of heat, electricity, etc.); to carry.**
-- **To carry out (something organized)**
+- **To serve as a medium for [[c/_conveying|conveying]]; to transmit (heat, light, [[e/_electricity|electricity]], etc.)**
+- **To [[d/_direct|direct]], as the leader in the performance of a musical [[c/_composition|composition]].**
+- **To [[a/_act|act]] as a [[c/_conductor|conductor]] (as of heat, [[e/_electricity|electricity]], etc.); to [[c/_carry|carry]].**
+- **To [[c/_carry|carry]] out (something organized)**
 ---
 ### Synonyms
-- [[belead]], [[[[d/_direct|direct]]]], [[lead]], [[manage]], [[oversee]], [[run]], [[supervise]], [[[[a/_accompany|accompany]]]], [[belead]], [[escort]], [[guide]], [[lead]], [[steer]], [[[[a/_act|act]]]], [[[[b/_behave|behave]]]], [[[[c/_carry|carry]] on]], [[[[c/_carry|carry]]]], [[[[c/_convey|convey]]]], [[transmit]]
+- [[belead]], [[direct]], [[lead]], [[manage]], [[oversee]], [[run]], [[supervise]], [[accompany]], [[belead]], [[escort]], [[guide]], [[lead]], [[steer]], [[act]], [[behave]], [[carry on]], [[carry]], [[convey]], [[transmit]]
 ---

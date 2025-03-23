@@ -1,11 +1,11 @@
 # Bonked
 ---
 #verb
-- **To strike or collide with something.**
+- **To strike or [[c/_collide|collide]] with something.**
 - **To have sexual intercourse.**
-- **To hit something with the front of the board, especially in midair.**
-- **To experience sudden and severe fatigue in an endurance sports event due to glycogen depletion.**
+- **To hit something with the front of the [[b/_board|board]], especially in midair.**
+- **To experience sudden and severe fatigue in an [[e/_endurance|endurance]] sports event [[d/_due|due]] to glycogen [[d/_depletion|depletion]].**
 ---
 ### Synonyms
-- [[hit the wall]], [[boink]], [[[[d/_discuss|discuss]] Uganda]], [[have sex]]
+- [[hit the wall]], [[boink]], [[discuss Uganda]], [[have sex]]
 ---

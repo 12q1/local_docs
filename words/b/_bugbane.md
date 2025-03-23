@@ -1,7 +1,7 @@
 # Bugbane
 ---
 #noun
-- **Actaea spp. (baneberry).**
+- **[[a/_actaea|Actaea]] spp. ([[b/_baneberry|baneberry]]).**
 - **Trautvetteria spp.**
 ---
 ---

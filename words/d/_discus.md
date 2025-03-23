@@ -2,9 +2,9 @@
 ---
 #noun
 - **A round plate-like object that is thrown for sport.**
-- **The athletics sport of discus throwing.**
-- **(plural: discus) A discus fish (genus Symphysodon)**
-- **A chakram.**
+- **The [[a/_athletics|athletics]] sport of [[d/_discus|discus]] throwing.**
+- **(plural: [[d/_discus|discus]]) A [[d/_discus|discus]] fish (genus Symphysodon)**
+- **A [[c/_chakram|chakram]].**
 ---
 ### Synonyms
 - [[quoit]]

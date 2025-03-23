@@ -1,13 +1,13 @@
 # Downriver
 ---
 #adjective
-- **Closer to the mouth of a river**
+- **[[c/_closer|Closer]] to the mouth of a river**
 	- _Example: My house is downriver to his._
 ---
 #adverb
-- **Travelling in the direction of the river current.**
+- **Travelling in the [[d/_direction|direction]] of the river [[c/_current|current]].**
 	- _Example: It is easier to paddle downriver._
 ---
 ### Synonyms
-- [[[[d/_downstream|downstream]]]]
+- [[downstream]]
 ---

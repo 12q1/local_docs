@@ -1,6 +1,6 @@
 # Airdropping
 ---
 #verb
-- **To delivery goods, equipment, or personnel by dropping them from an aircraft in flight.**
+- **To [[d/_delivery|delivery]] goods, [[e/_equipment|equipment]], or personnel by [[d/_dropping|dropping]] them from an [[a/_aircraft|aircraft]] in flight.**
 ---
 ---

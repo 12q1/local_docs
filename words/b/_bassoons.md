@@ -1,12 +1,12 @@
 # Bassoons
 ---
 #noun
-- **A musical instrument in the woodwind family, having a double reed and playing in the tenor and bass ranges.**
+- **A musical instrument in the woodwind family, having a [[d/_double|double]] reed and playing in the tenor and [[b/_bass|bass]] ranges.**
 ---
 ### Synonyms
 - [[fagotto]]
 #verb
-- **To play the bassoon.**
-- **To make a bassoon-like sound.**
+- **To play the [[b/_bassoon|bassoon]].**
+- **To make a [[b/_bassoon|bassoon]]-like sound.**
 ---
 ---

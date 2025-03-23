@@ -1,8 +1,8 @@
 # Benzaldehyde
 ---
 #noun
-- **A chemical compound (C6H5CHO) consisting of a benzene ring with an aldehyde substituent.**
-- **Any of various derivatives of benzaldehyde.**
+- **A [[c/_chemical|chemical]] [[c/_compound|compound]] (C6H5CHO) [[c/_consisting|consisting]] of a [[b/_benzene|benzene]] ring with an [[a/_aldehyde|aldehyde]] substituent.**
+- **[[a/_any|Any]] of various [[d/_derivatives|derivatives]] of [[b/_benzaldehyde|benzaldehyde]].**
 	- _Example: benzaldehydes with polar substituents_
 ---
 ---

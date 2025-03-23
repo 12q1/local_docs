@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Thirsty.**
-- **Eager or extremely desirous (for something).**
+- **[[e/_eager|Eager]] or extremely [[d/_desirous|desirous]] (for something).**
 ---
 ---

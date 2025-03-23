@@ -1,9 +1,9 @@
 # Dynamiting
 ---
 #verb
-- **To blow up with dynamite or other high explosive.**
+- **To [[b/_blow|blow]] up with [[d/_dynamite|dynamite]] or other high explosive.**
 ---
 #noun
-- **The act of blowing something up with dynamite.**
+- **The [[a/_act|act]] of [[b/_blowing|blowing]] something up with [[d/_dynamite|dynamite]].**
 ---
 ---

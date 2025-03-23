@@ -1,6 +1,6 @@
 # Chicest
 ---
 #adjective
-- **Elegant, stylish.**
+- **[[e/_elegant|Elegant]], stylish.**
 ---
 ---

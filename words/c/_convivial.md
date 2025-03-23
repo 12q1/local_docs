@@ -1,7 +1,7 @@
 # Convivial
 ---
 #adjective
-- **Having elements of a feast or of entertainment, especially when it comes to eating and drinking, with accompanying festivity**
+- **Having [[e/_elements|elements]] of a feast or of [[e/_entertainment|entertainment]], especially when it [[c/_comes|comes]] to [[e/_eating|eating]] and [[d/_drinking|drinking]], with [[a/_accompanying|accompanying]] festivity**
 ---
 ### Synonyms
 - [[festive]], [[gay]], [[jovial]], [[merry]], [[social]]

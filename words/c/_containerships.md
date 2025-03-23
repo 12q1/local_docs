@@ -1,6 +1,6 @@
 # Containerships
 ---
 #noun
-- **A cargo vessel designed to carry cargo prepacked into containers**
+- **A [[c/_cargo|cargo]] vessel [[d/_designed|designed]] to [[c/_carry|carry]] [[c/_cargo|cargo]] prepacked into [[c/_containers|containers]]**
 ---
 ---

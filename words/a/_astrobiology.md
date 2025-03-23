@@ -1,6 +1,6 @@
 # Astrobiology
 ---
 #noun
-- **The study of life anywhere in the universe, including the Earth**
+- **The study of life [[a/_anywhere|anywhere]] in the universe, including the [[e/_earth|Earth]]**
 ---
 ---

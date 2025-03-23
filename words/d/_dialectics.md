@@ -1,8 +1,8 @@
 # Dialectics
 ---
 #noun
-- **A systematic method of argument that attempts to resolve the contradictions in opposing views or ideas.**
+- **A systematic method of [[a/_argument|argument]] that [[a/_attempts|attempts]] to resolve the [[c/_contradictions|contradictions]] in opposing views or ideas.**
 ---
 ### Synonyms
-- [[[[d/_dialectic|dialectic]]]], [[[[d/_dialectical|dialectical]] method]]
+- [[dialectic]], [[dialectical method]]
 ---

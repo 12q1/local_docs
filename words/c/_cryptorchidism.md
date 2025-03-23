@@ -1,6 +1,6 @@
 # Cryptorchidism
 ---
 #noun
-- **(andrology) The failure of one or both testes to descend into the scrotum**
+- **(andrology) The failure of one or [[b/_both|both]] testes to [[d/_descend|descend]] into the scrotum**
 ---
 ---

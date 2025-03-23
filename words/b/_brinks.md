@@ -1,9 +1,9 @@
 # Brinks
 ---
 #noun
-- **The edge, margin, or border of a steep place, as of a precipice; a bank or edge.**
+- **The [[e/_edge|edge]], margin, or [[b/_border|border]] of a steep place, as of a precipice; a [[b/_bank|bank]] or [[e/_edge|edge]].**
 	- _Example: the brink of a river_
-- **The edge or border**
+- **The [[e/_edge|edge]] or [[b/_border|border]]**
 	- _Example: He's on the brink of madness._
 ---
 ---

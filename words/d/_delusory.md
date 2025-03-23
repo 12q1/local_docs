@@ -1,6 +1,6 @@
 # Delusory
 ---
 #adjective
-- **Tending to delude**
+- **Tending to [[d/_delude|delude]]**
 ---
 ---

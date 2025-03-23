@@ -1,12 +1,12 @@
 # Downbeat
 ---
 #noun
-- **The accented beat at the beginning of a bar (indicated by a conductor with a downward stroke).**
+- **The [[a/_accented|accented]] [[b/_beat|beat]] at the [[b/_beginning|beginning]] of a [[b/_bar|bar]] (indicated by a [[c/_conductor|conductor]] with a [[d/_downward|downward]] stroke).**
 ---
 #adjective
 - **Sad or pessimistic.**
 	- _Example: He sounded downbeat when asked about his future plans._
-- **Cautiously optimistic.**
+- **[[c/_cautiously|Cautiously]] optimistic.**
 	- _Example: She carried herself with a quiet downbeat grace._
 ---
 ### Antonyms

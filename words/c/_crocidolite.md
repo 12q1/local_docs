@@ -1,8 +1,8 @@
 # Crocidolite
 ---
 #noun
-- **A fibrous, blue-green mineral that is an asbestos-like variety of riebeckite.**
+- **A fibrous, [[b/_blue|blue]]-green mineral that is an [[a/_asbestos|asbestos]]-like variety of riebeckite.**
 ---
 ### Synonyms
-- [[[[c/_cape|Cape]] [[b/_blue|blue]]]], [[[[b/_blue|blue]] [[a/_asbestos|asbestos]]]]
+- [[Cape blue]], [[blue asbestos]]
 ---

@@ -1,6 +1,6 @@
 # Cryogen
 ---
 #noun
-- **A cryogenic liquid (that boils below about -160°C) used as a refrigerant**
+- **A [[c/_cryogenic|cryogenic]] liquid (that [[b/_boils|boils]] [[b/_below|below]] [[a/_about|about]] -160°[[c/_c|C]]) used as a refrigerant**
 ---
 ---

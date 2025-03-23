@@ -1,8 +1,8 @@
 # Bourne
 ---
 #noun
-- **A boundary.**
-- **A goal or destination.**
-- **A stream or brook in which water flows only seasonally.**
+- **A [[b/_boundary|boundary]].**
+- **A goal or [[d/_destination|destination]].**
+- **A stream or [[b/_brook|brook]] in which water flows only seasonally.**
 ---
 ---

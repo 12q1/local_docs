@@ -2,6 +2,6 @@
 ---
 #noun
 - **A lack of moisture.**
-- **The degree to which something is dry.**
+- **The [[d/_degree|degree]] to which something is [[d/_dry|dry]].**
 ---
 ---

@@ -3,35 +3,35 @@
 #noun
 - **A small, round spot.**
 	- _Example: a dot of colour_
-- **(grammar) A punctuation mark used to indicate the end of a sentence or an abbreviated part of a word; a full stop; a period.**
-- **A point used as a diacritical mark above or below various letters of the Latin script, as in Ȧ, Ạ, Ḅ, Ḃ, Ċ.**
-- **A symbol used for separating the fractional part of a decimal number from the whole part, for indicating multiplication or a scalar product, or for various other purposes.**
-- **One of the two symbols used in Morse code.**
-- **A lump or clot.**
-- **Anything small and like a speck comparatively; a small portion or specimen.**
+- **(grammar) A punctuation mark used to indicate the [[e/_end|end]] of a sentence or an [[a/_abbreviated|abbreviated]] part of a word; a full stop; a period.**
+- **A point used as a [[d/_diacritical|diacritical]] mark [[a/_above|above]] or [[b/_below|below]] various letters of the Latin script, as in Ȧ, Ạ, Ḅ, Ḃ, Ċ.**
+- **A symbol used for separating the fractional part of a [[d/_decimal|decimal]] number from the whole part, for indicating multiplication or a scalar product, or for various other purposes.**
+- **One of the two symbols used in Morse [[c/_code|code]].**
+- **A lump or [[c/_clot|clot]].**
+- **[[a/_anything|Anything]] small and like a speck [[c/_comparatively|comparatively]]; a small portion or specimen.**
 	- _Example: a dot of a child_
-- **A dot ball.**
-- **Buckshot, projectile from a "dotty" or shotgun**
+- **A [[d/_dot|dot]] [[b/_ball|ball]].**
+- **[[b/_buckshot|Buckshot]], projectile from a "[[d/_dotty|dotty]]" or shotgun**
 ---
 ### Synonyms
-- [[tittle]], [[full stop]], [[period]], [[point]], [[[[d/_dit|dit]]]], [[[[d/_decimal|decimal]] point]], [[speck]], [[spot]]
+- [[tittle]], [[full stop]], [[period]], [[point]], [[dit]], [[decimal point]], [[speck]], [[spot]]
 #verb
-- **To cover with small spots (of some liquid).**
+- **To [[c/_cover|cover]] with small spots (of some liquid).**
 	- _Example: His jacket was dotted with splashes of paint._
-- **To add a dot (the symbol) or dots to.**
+- **To [[a/_add|add]] a [[d/_dot|dot]] (the symbol) or [[d/_dots|dots]] to.**
 	- _Example: Dot your is and cross your ts._
-- **To mark by means of dots or small spots.**
+- **To mark by means of [[d/_dots|dots]] or small spots.**
 	- _Example: to dot a line_
-- **To mark or diversify with small detached objects.**
+- **To mark or [[d/_diversify|diversify]] with small [[d/_detached|detached]] objects.**
 	- _Example: to dot a landscape with cottages_
 - **To punch (a person).**
 ---
 ### Synonyms
 - [[stipple]]
 #noun
-- **A dowry.**
+- **A [[d/_dowry|dowry]].**
 ---
 #noun
-- **A punctuation mark consisting of three dots, indicating an omission of some text or a sentence which wasn't fully finished, an ellipsis.**
+- **A punctuation mark [[c/_consisting|consisting]] of three [[d/_dots|dots]], indicating an omission of some text or a sentence which wasn't fully finished, an [[e/_ellipsis|ellipsis]].**
 ---
 ---

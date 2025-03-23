@@ -1,6 +1,6 @@
 # Backcountry
 ---
 #noun
-- **A remote region; the boondocks.**
+- **A remote region; the [[b/_boondocks|boondocks]].**
 ---
 ---

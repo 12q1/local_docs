@@ -1,10 +1,10 @@
 # Creance
 ---
 #noun
-- **Faith; belief; creed**
-- **A long leash, or lightweight cord used to prevent escape of a hawk during training flights.**
+- **Faith; [[b/_belief|belief]]; [[c/_creed|creed]]**
+- **A long leash, or lightweight [[c/_cord|cord]] used to prevent escape of a hawk [[d/_during|during]] training flights.**
 ---
 #verb
-- **To get on credit; to borrow.**
+- **To get on [[c/_credit|credit]]; to [[b/_borrow|borrow]].**
 ---
 ---

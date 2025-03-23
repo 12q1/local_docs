@@ -2,14 +2,14 @@
 ---
 #verb
 - **To improve.**
-- **To become better; to improve.**
+- **To [[b/_become|become]] [[b/_better|better]]; to improve.**
 - **To surpass in excellence; to exceed; to excel.**
-- **To give advantage to; to support; to advance the interest of.**
+- **To give [[a/_advantage|advantage]] to; to support; to [[a/_advance|advance]] the interest of.**
 ---
 #verb
-- **(with bare infinitive) Should; ought to; need to; must.**
+- **(with [[b/_bare|bare]] infinitive) Should; ought to; need to; must.**
 	- _Example: The project had better get finished by the current deadline._
 ---
 ### Synonyms
-- [[had [[b/_best|best]]]]
+- [[had best]]
 ---

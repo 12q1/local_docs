@@ -1,7 +1,7 @@
 # Darner
 ---
 #noun
-- **One who darns.**
-- **Any dragonfly of the family Aeshnidae; a hawker.**
+- **One who [[d/_darns|darns]].**
+- **[[a/_any|Any]] [[d/_dragonfly|dragonfly]] of the family Aeshnidae; a hawker.**
 ---
 ---

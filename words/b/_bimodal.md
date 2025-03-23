@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Having two modes or forms**
-- **(of a distribution) Having two modes (local maxima)**
+- **(of a [[d/_distribution|distribution]]) Having two modes (local maxima)**
 ---
 ---

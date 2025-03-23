@@ -1,6 +1,6 @@
 # Babylon
 ---
 #noun
-- **A female breast.**
+- **A female [[b/_breast|breast]].**
 ---
 ---

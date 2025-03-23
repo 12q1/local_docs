@@ -1,33 +1,33 @@
 # Boiled
 ---
 #verb
-- **(of liquids) To heat to the point where it begins to turn into a gas.**
+- **(of liquids) To heat to the point where it [[b/_begins|begins]] to turn into a gas.**
 	- _Example: Boil some water in a pan._
-- **To cook in boiling water.**
+- **To [[c/_cook|cook]] in [[b/_boiling|boiling]] water.**
 	- _Example: Boil the eggs for three minutes._
-- **(of liquids) To begin to turn into a gas, seethe.**
+- **(of liquids) To [[b/_begin|begin]] to turn into a gas, seethe.**
 	- _Example: Pure water boils at 100 degrees Celsius._
-- **To bring to a boil, to heat so as to cause the contents to boil.**
+- **To [[b/_bring|bring]] to a [[b/_boil|boil]], to heat so as to [[c/_cause|cause]] the [[c/_contents|contents]] to [[b/_boil|boil]].**
 - **(used only in progressive tenses, of weather) To be uncomfortably hot.**
 	- _Example: It’s boiling outside!_
 - **(used only in progressive tenses) To feel uncomfortably hot.**
 	- _Example: I’m boiling in here – could you open the window?_
-- **To form, or separate, by boiling or evaporation.**
+- **To form, or separate, by [[b/_boiling|boiling]] or evaporation.**
 	- _Example: to boil sugar or salt_
 - **To steep or soak in warm water.**
-- **To be agitated like boiling water; to bubble; to effervesce.**
+- **To be [[a/_agitated|agitated]] like [[b/_boiling|boiling]] water; to [[b/_bubble|bubble]]; to [[e/_effervesce|effervesce]].**
 	- _Example: the boiling waves of the sea_
 - **To be moved or excited with passion; to be hot or fervid.**
 	- _Example: His blood boils with anger._
 ---
 ### Synonyms
-- [[plaw]], [[seethe]], [[well]], [[be [[b/_baking|baking]]]], [[be seething]], [[be stewing]], [[be [[b/_baking|baking]]]], [[be scorching]], [[be sweltering]]
+- [[plaw]], [[seethe]], [[well]], [[be baking]], [[be seething]], [[be stewing]], [[be baking]], [[be scorching]], [[be sweltering]]
 ### Antonyms
-- [[[[c/_condense|condense]]]], [[be freezing]], [[be freezing]]
+- [[condense]], [[be freezing]], [[be freezing]]
 #adjective
-- **Cooked in boiling water.**
-- **(of water) Having reached the boiling point.**
-- **Angry.**
-- **Drunk.**
+- **[[c/_cooked|Cooked]] in [[b/_boiling|boiling]] water.**
+- **(of water) Having reached the [[b/_boiling|boiling]] point.**
+- **[[a/_angry|Angry]].**
+- **[[d/_drunk|Drunk]].**
 ---
 ---

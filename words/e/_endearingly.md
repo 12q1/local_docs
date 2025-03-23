@@ -1,6 +1,6 @@
 # Endearingly
 ---
 #adverb
-- **In an endearing manner**
+- **In an [[e/_endearing|endearing]] manner**
 ---
 ---

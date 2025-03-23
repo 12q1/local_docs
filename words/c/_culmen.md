@@ -2,8 +2,8 @@
 ---
 #noun
 - **Top; summit.**
-- **The dorsal ridge of a bird's bill.**
+- **The [[d/_dorsal|dorsal]] ridge of a [[b/_bird|bird]]'s [[b/_bill|bill]].**
 ---
 ### Synonyms
-- [[[[a/_acme|acme]]]], [[summit]], [[top]]
+- [[acme]], [[summit]], [[top]]
 ---

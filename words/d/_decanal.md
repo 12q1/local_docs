@@ -1,6 +1,6 @@
 # Decanal
 ---
 #adjective
-- **Pertaining to a dean or deanery.**
+- **Pertaining to a [[d/_dean|dean]] or [[d/_deanery|deanery]].**
 ---
 ---

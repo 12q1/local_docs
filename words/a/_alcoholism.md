@@ -1,9 +1,9 @@
 # Alcoholism
 ---
 #noun
-- **A chronic disease caused by compulsive and uncontrollable consumption of alcoholic beverages, leading to addiction and deterioration in health and social functioning.**
-- **Acute alcohol poisoning.**
+- **A [[c/_chronic|chronic]] [[d/_disease|disease]] [[c/_caused|caused]] by [[c/_compulsive|compulsive]] and uncontrollable [[c/_consumption|consumption]] of [[a/_alcoholic|alcoholic]] [[b/_beverages|beverages]], leading to [[a/_addiction|addiction]] and [[d/_deterioration|deterioration]] in health and social functioning.**
+- **[[a/_acute|Acute]] [[a/_alcohol|alcohol]] poisoning.**
 ---
 ### Synonyms
-- [[[[d/_dipsomania|dipsomania]]]]
+- [[dipsomania]]
 ---

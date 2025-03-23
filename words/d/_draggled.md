@@ -1,9 +1,9 @@
 # Draggled
 ---
 #verb
-- **To make, or to become, wet and muddy by dragging along the ground**
+- **To make, or to [[b/_become|become]], wet and muddy by [[d/_dragging|dragging]] [[a/_along|along]] the ground**
 ---
 #adjective
-- **Bedraggled.**
+- **[[b/_bedraggled|Bedraggled]].**
 ---
 ---

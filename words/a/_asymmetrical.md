@@ -2,9 +2,9 @@
 ---
 #adjective
 - **Not symmetrical.**
-- **(of a question) Presenting a false dilemma, or a choice between two things which are not opposites.**
+- **(of a question) Presenting a false [[d/_dilemma|dilemma]], or a [[c/_choice|choice]] [[b/_between|between]] two things which are not opposites.**
 	- _Example: Question six is asymmetrical: "Are things going in the right direction or on the wrong track?" (The West Wing, Season 1, Episode 21, Toby)_
 ---
 ### Synonyms
-- [[[[a/_asymmetric|asymmetric]]]], [[lopsided]], [[unsymmetrical]]
+- [[asymmetric]], [[lopsided]], [[unsymmetrical]]
 ---

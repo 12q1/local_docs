@@ -1,7 +1,7 @@
 # Drunkenness
 ---
 #noun
-- **A state of being drunk.**
+- **A state of [[b/_being|being]] [[d/_drunk|drunk]].**
 ---
 ### Antonyms
 - [[soberness]]

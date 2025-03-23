@@ -1,13 +1,13 @@
 # Disheveled
 ---
 #verb
-- **To throw into disorder; upheave.**
-- **To disarrange or loosen (hair, clothing, etc.).**
-- **To spread out in disorder.**
+- **To throw into [[d/_disorder|disorder]]; upheave.**
+- **To [[d/_disarrange|disarrange]] or loosen (hair, [[c/_clothing|clothing]], etc.).**
+- **To spread out in [[d/_disorder|disorder]].**
 ---
 #adjective
 - **(of a person) With the hair uncombed.**
-- **(by extension) Disorderly or untidy in appearance.**
+- **(by extension) [[d/_disorderly|Disorderly]] or untidy in [[a/_appearance|appearance]].**
 ---
 ### Synonyms
 - [[messy]], [[scraggly]], [[tousled]], [[unkempt]], [[untidy]], [[untidy]]

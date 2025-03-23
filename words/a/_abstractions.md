@@ -1,26 +1,26 @@
 # Abstractions
 ---
 #noun
-- **The act of abstracting, separating, withdrawing, or taking away; withdrawal; the state of being taken away.**
+- **The [[a/_act|act]] of [[a/_abstracting|abstracting]], separating, withdrawing, or taking [[a/_away|away]]; withdrawal; the state of [[b/_being|being]] taken [[a/_away|away]].**
 - **A separation from worldly objects; a recluse life; the withdrawal from one's senses.**
-- **The act of focusing on one characteristic of an object rather than the object as a whole group of characteristics; the act of separating said qualities from the object or ideas.**
+- **The [[a/_act|act]] of focusing on one [[c/_characteristic|characteristic]] of an object rather than the object as a whole group of [[c/_characteristics|characteristics]]; the [[a/_act|act]] of separating said qualities from the object or ideas.**
 	- _Example: Abstraction is necessary for the classification of things into genera and species._
-- **Any characteristic of an individual object when that characteristic has been separated from the object and is contemplated alone as a quality having independent existence.**
-- **A member of an idealized subgroup when contemplated according to the abstracted quality which defines the subgroup.**
-- **The act of comparing commonality between distinct objects and organizing using those similarities; the act of generalizing characteristics; the product of said generalization.**
-- **An idea or notion of an abstract or theoretical nature.**
+- **[[a/_any|Any]] [[c/_characteristic|characteristic]] of an individual object when that [[c/_characteristic|characteristic]] has [[b/_been|been]] separated from the object and is [[c/_contemplated|contemplated]] [[a/_alone|alone]] as a quality having independent existence.**
+- **A member of an idealized subgroup when [[c/_contemplated|contemplated]] [[a/_according|according]] to the [[a/_abstracted|abstracted]] quality which [[d/_defines|defines]] the subgroup.**
+- **The [[a/_act|act]] of [[c/_comparing|comparing]] [[c/_commonality|commonality]] [[b/_between|between]] [[d/_distinct|distinct]] objects and organizing using those similarities; the [[a/_act|act]] of generalizing [[c/_characteristics|characteristics]]; the product of said generalization.**
+- **An idea or notion of an [[a/_abstract|abstract]] or theoretical nature.**
 	- _Example: to fight for mere abstractions._
-- **Absence or absorption of mind; inattention to present objects; preoccupation.**
-- **An abstract creation, or piece of art; qualities of artwork that are free from representational aspects.**
-- **A separation of volatile parts by the act of distillation.**
+- **[[a/_absence|Absence]] or [[a/_absorption|absorption]] of mind; inattention to present objects; preoccupation.**
+- **An [[a/_abstract|abstract]] [[c/_creation|creation]], or piece of [[a/_art|art]]; qualities of [[a/_artwork|artwork]] that are free from representational [[a/_aspects|aspects]].**
+- **A separation of volatile parts by the [[a/_act|act]] of [[d/_distillation|distillation]].**
 - **An idea of an idealistic, unrealistic or visionary nature.**
-- **The result of mentally abstracting an idea; the product of any mental process involving a synthesis of: separation, despecification, generalization, and ideation in any of a number of combinations.**
-- **The merging of two river valleys by the larger of the two deepening and widening so much so, as to assimilate the smaller.**
-- **Any generalization technique that ignores or hides details to capture some kind of commonality between different instances for the purpose of controlling the intellectual complexity of engineered systems, particularly software systems.**
-- **Any intellectual construct produced through the technique of abstraction.**
+- **The result of mentally [[a/_abstracting|abstracting]] an idea; the product of [[a/_any|any]] mental process involving a synthesis of: separation, [[d/_despecification|despecification]], generalization, and ideation in [[a/_any|any]] of a number of [[c/_combinations|combinations]].**
+- **The merging of two river valleys by the larger of the two [[d/_deepening|deepening]] and widening so much so, as to [[a/_assimilate|assimilate]] the smaller.**
+- **[[a/_any|Any]] generalization technique that ignores or hides [[d/_details|details]] to [[c/_capture|capture]] some kind of [[c/_commonality|commonality]] [[b/_between|between]] [[d/_different|different]] instances for the purpose of [[c/_controlling|controlling]] the intellectual [[c/_complexity|complexity]] of [[e/_engineered|engineered]] systems, particularly software systems.**
+- **[[a/_any|Any]] intellectual [[c/_construct|construct]] produced through the technique of [[a/_abstraction|abstraction]].**
 ---
 ### Synonyms
 - [[universalization]]
 ### Antonyms
-- [[[[c/_concretization|concretization]]]], [[specialization]]
+- [[concretization]], [[specialization]]
 ---

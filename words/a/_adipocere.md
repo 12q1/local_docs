@@ -1,7 +1,7 @@
 # Adipocere
 ---
 #noun
-- **A brown, fatty, waxy substance (fatty acids) that forms on dead animal tissues in response to hydrolysis**
+- **A [[b/_brown|brown]], fatty, waxy substance (fatty [[a/_acids|acids]]) that forms on [[d/_dead|dead]] [[a/_animal|animal]] tissues in response to hydrolysis**
 ---
 ### Synonyms
 - [[grave wax]]

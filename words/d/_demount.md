@@ -1,7 +1,7 @@
 # Demount
 ---
 #verb
-- **To remove from its mounting; to take down from a mounted position.**
-- **To dismount.**
+- **To remove from its mounting; to take [[d/_down|down]] from a mounted position.**
+- **To [[d/_dismount|dismount]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Danging
 ---
 #verb
-- **Damn.**
+- **[[d/_damn|Damn]].**
 ---
 #verb
-- **To dash.**
+- **To [[d/_dash|dash]].**
 ---
 ---

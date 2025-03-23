@@ -1,6 +1,6 @@
 # Decalcifies
 ---
 #verb
-- **To deprive of calcareous matter.**
+- **To [[d/_deprive|deprive]] of [[c/_calcareous|calcareous]] matter.**
 ---
 ---

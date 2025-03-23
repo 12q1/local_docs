@@ -1,6 +1,6 @@
 # Donnered
 ---
 #verb
-- **To beat up; clobber; thrash.**
+- **To [[b/_beat|beat]] up; [[c/_clobber|clobber]]; thrash.**
 ---
 ---

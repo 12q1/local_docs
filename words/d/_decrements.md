@@ -1,7 +1,7 @@
 # Decrements
 ---
 #verb
-- **To decrease a value by a basic quantity unit.**
+- **To [[d/_decrease|decrease]] a value by a [[b/_basic|basic]] quantity unit.**
 ---
 ### Antonyms
 - [[increment]]

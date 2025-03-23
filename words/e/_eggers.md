@@ -1,12 +1,12 @@
 # Eggers
 ---
 #noun
-- **One who gathers eggs.**
+- **One who gathers [[e/_eggs|eggs]].**
 ---
 #noun
-- **Any of various species of moth, especially the oak egger-moth, Lasiocampa quercus.**
+- **[[a/_any|Any]] of various species of moth, especially the oak [[e/_egger|egger]]-moth, Lasiocampa quercus.**
 ---
 #noun
-- **One who eggs or incites.**
+- **One who [[e/_eggs|eggs]] or incites.**
 ---
 ---

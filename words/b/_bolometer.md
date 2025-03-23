@@ -1,6 +1,6 @@
 # Bolometer
 ---
 #noun
-- **A sensitive device for detecting and measuring the energy of electromagnetic radiation.**
+- **A sensitive [[d/_device|device]] for [[d/_detecting|detecting]] and measuring the [[e/_energy|energy]] of [[e/_electromagnetic|electromagnetic]] radiation.**
 ---
 ---

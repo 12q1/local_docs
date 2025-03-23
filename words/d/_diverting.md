@@ -1,12 +1,12 @@
 # Diverting
 ---
 #verb
-- **To turn aside from a course.**
+- **To turn [[a/_aside|aside]] from a [[c/_course|course]].**
 	- _Example: The workers diverted the stream away from the road._
-- **To distract.**
+- **To [[d/_distract|distract]].**
 	- _Example: Don't let him divert your attention; keep your eye on the ball._
-- **To entertain or amuse (by diverting the attention)**
-- **To turn aside; to digress.**
+- **To [[e/_entertain|entertain]] or [[a/_amuse|amuse]] (by [[d/_diverting|diverting]] the [[a/_attention|attention]])**
+- **To turn [[a/_aside|aside]]; to [[d/_digress|digress]].**
 ---
 ### Synonyms
 - [[offlead]]

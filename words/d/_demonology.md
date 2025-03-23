@@ -1,10 +1,10 @@
 # Demonology
 ---
 #noun
-- **The study of demons, especially the incantations required to summon and control them.**
+- **The study of [[d/_demons|demons]], especially the incantations required to summon and [[c/_control|control]] them.**
 ---
 ### Synonyms
 - [[demonlore]]
 ### Antonyms
-- [[[[a/_angelology|angelology]]]]
+- [[angelology]]
 ---

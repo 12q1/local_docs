@@ -1,9 +1,9 @@
 # Arrivederci
 ---
 #noun
-- **An Italian farewell by saying "arrivederci".**
+- **An Italian farewell by saying "[[a/_arrivederci|arrivederci]]".**
 ---
 #interjection
-- **(in the context of Italy or Italian culture) farewell, goodbye, see you later (non-definitive farewell)**
+- **(in the [[c/_context|context]] of Italy or Italian [[c/_culture|culture]]) farewell, goodbye, see you later (non-[[d/_definitive|definitive]] farewell)**
 ---
 ---

@@ -1,8 +1,8 @@
 # Bronchi
 ---
 #noun
-- **Either of two airways, which are primary branches of the trachea, leading directly into the lungs.**
+- **[[e/_either|Either]] of two [[a/_airways|airways]], which are primary [[b/_branches|branches]] of the trachea, leading [[d/_directly|directly]] into the lungs.**
 ---
 ### Synonyms
-- [[[[b/_bronchial|bronchial]] tube]]
+- [[bronchial tube]]
 ---

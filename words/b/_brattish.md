@@ -1,8 +1,8 @@
 # Brattish
 ---
 #adjective
-- **Characteristic of a brat; childishly rude and annoying.**
+- **[[c/_characteristic|Characteristic]] of a [[b/_brat|brat]]; [[c/_childishly|childishly]] rude and [[a/_annoying|annoying]].**
 ---
 ### Synonyms
-- [[[[b/_bratty|bratty]]]]
+- [[bratty]]
 ---

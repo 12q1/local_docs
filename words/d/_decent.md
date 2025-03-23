@@ -1,18 +1,18 @@
 # Decent
 ---
 #adjective
-- **Appropriate; suitable for the circumstances.**
-- **(of a person) Having a suitable conformity to basic moral standards; showing integrity, fairness, or other characteristics associated with moral uprightness.**
-- **Sufficiently clothed or dressed to be seen.**
+- **[[a/_appropriate|Appropriate]]; suitable for the [[c/_circumstances|circumstances]].**
+- **(of a person) Having a suitable [[c/_conformity|conformity]] to [[b/_basic|basic]] moral standards; showing integrity, fairness, or other [[c/_characteristics|characteristics]] [[a/_associated|associated]] with moral uprightness.**
+- **Sufficiently [[c/_clothed|clothed]] or [[d/_dressed|dressed]] to be seen.**
 	- _Example: Are you decent? May I come in?_
-- **Fair; good enough; okay.**
+- **Fair; good [[e/_enough|enough]]; okay.**
 	- _Example: He's a decent saxophonist, but probably not good enough to make a career of it._
 - **Significant; substantial.**
 	- _Example: There are a decent number of references out there, if you can find them._
-- **Comely; shapely; well-formed.**
+- **[[c/_comely|Comely]]; shapely; well-formed.**
 ---
 ### Synonyms
-- [[[[a/_adequate|adequate]]]], [[satisfactory]], [[good]], [[moral]]
+- [[adequate]], [[satisfactory]], [[good]], [[moral]]
 ### Antonyms
-- [[[[b/_bad|bad]]]], [[immoral]], [[inadequate]], [[poor]], [[unsatisfactory]], [[indecent]], [[underdressed]]
+- [[bad]], [[immoral]], [[inadequate]], [[poor]], [[unsatisfactory]], [[indecent]], [[underdressed]]
 ---

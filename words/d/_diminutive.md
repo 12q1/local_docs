@@ -1,20 +1,20 @@
 # Diminutive
 ---
 #noun
-- **(grammar) A word form expressing smallness, youth, unimportance, or endearment.**
+- **(grammar) A word form expressing smallness, youth, unimportance, or [[e/_endearment|endearment]].**
 	- _Example: Booklet, the diminutive of book, means ‘small book’._
 ---
 ### Synonyms
 - [[nomen deminutivum]], [[pet form]]
 ### Antonyms
-- [[[[a/_augmentative|augmentative]]]]
+- [[augmentative]]
 #adjective
 - **Very small.**
-- **Serving to diminish.**
-- **(grammar) Of or pertaining to, or creating a word form expressing smallness, youth, unimportance, or endearment.**
+- **Serving to [[d/_diminish|diminish]].**
+- **(grammar) Of or pertaining to, or [[c/_creating|creating]] a word form expressing smallness, youth, unimportance, or [[e/_endearment|endearment]].**
 ---
 ### Synonyms
 - [[lilliputian]], [[tiny]]
 ### Antonyms
-- [[[[a/_augmentative|augmentative]]]], [[gigantic]], [[huge]]
+- [[augmentative]], [[gigantic]], [[huge]]
 ---

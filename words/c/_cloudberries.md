@@ -1,9 +1,9 @@
 # Cloudberries
 ---
 #noun
-- **A species of slow-growing bramble.**
+- **A species of slow-growing [[b/_bramble|bramble]].**
 - **The fruit of these plants.**
 ---
 ### Synonyms
-- [[aqpik]], [[[[b/_bakeapple|bakeapple]]]], [[Rubus chamaemorus]]
+- [[aqpik]], [[bakeapple]], [[Rubus chamaemorus]]
 ---

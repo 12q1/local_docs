@@ -1,8 +1,8 @@
 # Debagged
 ---
 #verb
-- **To remove from a bag.**
-- **To pull down the trousers quickly without consent of, as a prank.**
-- **To perform blepharoplasty to remove eyebags.**
+- **To remove from a [[b/_bag|bag]].**
+- **To pull [[d/_down|down]] the trousers quickly without [[c/_consent|consent]] of, as a prank.**
+- **To perform [[b/_blepharoplasty|blepharoplasty]] to remove eyebags.**
 ---
 ---

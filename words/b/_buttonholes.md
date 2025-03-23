@@ -1,8 +1,8 @@
 # Buttonholes
 ---
 #verb
-- **To detain (a person) in conversation against their will.**
+- **To [[d/_detain|detain]] (a person) in [[c/_conversation|conversation]] [[a/_against|against]] their will.**
 ---
 ### Synonyms
-- [[[[a/_accost|accost]]]], [[waylay]]
+- [[accost]], [[waylay]]
 ---

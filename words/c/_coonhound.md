@@ -1,6 +1,6 @@
 # Coonhound
 ---
 #noun
-- **Any of several American breeds of dog originally used in hunting raccoons.**
+- **[[a/_any|Any]] of several [[a/_american|American]] [[b/_breeds|breeds]] of [[d/_dog|dog]] originally used in hunting raccoons.**
 ---
 ---

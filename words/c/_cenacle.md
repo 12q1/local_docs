@@ -1,9 +1,9 @@
 # Cenacle
 ---
 #noun
-- **A dining room, especially one on an upper floor (traditionally the room in which the Last Supper took place).**
-- **(by extension) A small circle or gathering of specialists (writers etc).**
+- **A [[d/_dining|dining]] room, especially one on an upper floor (traditionally the room in which the Last Supper took place).**
+- **(by extension) A small [[c/_circle|circle]] or gathering of specialists (writers etc).**
 ---
 ### Synonyms
-- [[[[c/_circle|circle]]]], [[[[c/_clique|clique]]]]
+- [[circle]], [[clique]]
 ---

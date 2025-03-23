@@ -2,7 +2,7 @@
 ---
 #noun
 - **The number nine.**
-- **Any grouping or system containing nine objects.**
+- **[[a/_any|Any]] grouping or system [[c/_containing|containing]] nine objects.**
 ---
 ### Synonyms
 - [[nonad]]

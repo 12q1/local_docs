@@ -1,9 +1,9 @@
 # Braggadocio
 ---
 #noun
-- **A braggart.**
-- **Empty boasting.**
+- **A [[b/_braggart|braggart]].**
+- **[[e/_empty|Empty]] [[b/_boasting|boasting]].**
 ---
 ### Synonyms
-- [[[[b/_big|big]] talk]], [[[[b/_blowhard|blowhard]]]]
+- [[big talk]], [[blowhard]]
 ---

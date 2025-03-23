@@ -1,10 +1,10 @@
 # Durum
 ---
 #noun
-- **Triticum turgidum subsp. durum, syn. Triticum durum (hard wheat), the flour of which is used to make pasta and bread.**
+- **Triticum turgidum subsp. [[d/_durum|durum]], syn. Triticum [[d/_durum|durum]] (hard wheat), the flour of which is used to make pasta and [[b/_bread|bread]].**
 ---
 ### Synonyms
-- [[[[d/_durum|durum]]]], [[hard wheat]], [[pasta wheat]]
+- [[durum]], [[hard wheat]], [[pasta wheat]]
 ### Antonyms
 - [[soft wheat]]
 ---

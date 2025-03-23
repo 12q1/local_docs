@@ -1,6 +1,6 @@
 # Ascertainment
 ---
 #noun
-- **The act of ascertaining.**
+- **The [[a/_act|act]] of [[a/_ascertaining|ascertaining]].**
 ---
 ---

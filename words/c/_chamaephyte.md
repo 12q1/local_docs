@@ -1,7 +1,7 @@
 # Chamaephyte
 ---
 #noun
-- **Any low perennial plant whose buds overwinter just above soil level**
+- **[[a/_any|Any]] low perennial plant whose [[b/_buds|buds]] overwinter just [[a/_above|above]] soil level**
 ---
 ### Synonyms
 - [[chamerophyte]]

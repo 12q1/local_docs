@@ -1,6 +1,6 @@
 # Earthmover
 ---
 #noun
-- **A vehicle designed to excavate or transport earth in large quantities.**
+- **A vehicle [[d/_designed|designed]] to excavate or transport [[e/_earth|earth]] in large quantities.**
 ---
 ---

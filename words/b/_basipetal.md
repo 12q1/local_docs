@@ -1,8 +1,8 @@
 # Basipetal
 ---
 #adjective
-- **That develops, matures or opens from the apex towards the base in sequence**
+- **That [[d/_develops|develops]], matures or opens from the [[a/_apex|apex]] towards the [[b/_base|base]] in sequence**
 ---
 ### Antonyms
-- [[[[a/_acropetal|acropetal]]]]
+- [[acropetal]]
 ---

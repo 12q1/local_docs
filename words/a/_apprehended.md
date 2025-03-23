@@ -2,18 +2,18 @@
 ---
 #verb
 - **To take or seize; to take hold of.**
-- **To take hold of with the understanding, that is, to conceive in the mind; to become cognizant of; to understand; to recognize; to consider.**
-- **To anticipate; especially, to anticipate with anxiety, dread, or fear; to fear.**
-- **To think, believe, or be of opinion; to understand; to suppose.**
-- **To be apprehensive; to fear.**
+- **To take hold of with the understanding, that is, to [[c/_conceive|conceive]] in the mind; to [[b/_become|become]] [[c/_cognizant|cognizant]] of; to understand; to recognize; to [[c/_consider|consider]].**
+- **To [[a/_anticipate|anticipate]]; especially, to [[a/_anticipate|anticipate]] with [[a/_anxiety|anxiety]], [[d/_dread|dread]], or fear; to fear.**
+- **To think, [[b/_believe|believe]], or be of opinion; to understand; to suppose.**
+- **To be [[a/_apprehensive|apprehensive]]; to fear.**
 ---
 ### Synonyms
-- [[[[a/_arrest|arrest]]]], [[[[b/_believe|believe]]]], [[[[c/_capture|capture]]]], [[[[c/_catch|catch]]]], [[[[c/_conceive|conceive]]]], [[[[d/_detain|detain]]]], [[[[d/_dread|dread]]]], [[fear]], [[imagine]], [[seize]], [[understand]]
+- [[arrest]], [[believe]], [[capture]], [[catch]], [[conceive]], [[detain]], [[dread]], [[fear]], [[imagine]], [[seize]], [[understand]]
 #adjective
 - **Taken; seized.**
 	- _Example: an apprehended criminal_
-- **Conceived; understood.**
+- **[[c/_conceived|Conceived]]; understood.**
 	- _Example: an apprehended concept_
-- **Having come to accept an understanding of something.**
+- **Having [[c/_come|come]] to [[a/_accept|accept]] an understanding of something.**
 ---
 ---

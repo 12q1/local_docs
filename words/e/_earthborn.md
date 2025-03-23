@@ -1,6 +1,6 @@
 # Earthborn
 ---
 #adjective
-- **Born or produced on the planet Earth.**
+- **[[b/_born|Born]] or produced on the planet [[e/_earth|Earth]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Chlordiazepoxide
 ---
 #noun
-- **A benzodiazepine derivative used as a sedative drug.**
+- **A benzodiazepine [[d/_derivative|derivative]] used as a sedative [[d/_drug|drug]].**
 ---
 ---

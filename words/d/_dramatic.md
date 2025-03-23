@@ -1,8 +1,8 @@
 # Dramatic
 ---
 #adjective
-- **Of or relating to the drama.**
-- **Striking in appearance or effect.**
+- **Of or relating to the [[d/_drama|drama]].**
+- **Striking in [[a/_appearance|appearance]] or [[e/_effect|effect]].**
 - **Having a powerful, expressive singing voice.**
 ---
 ---

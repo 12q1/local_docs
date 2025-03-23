@@ -1,6 +1,6 @@
 # Dialectology
 ---
 #noun
-- **The study of dialects.**
+- **The study of [[d/_dialects|dialects]].**
 ---
 ---

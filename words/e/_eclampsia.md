@@ -1,6 +1,6 @@
 # Eclampsia
 ---
 #noun
-- **A complication of pregnancy characterized by seizures and coma due to hypertension.**
+- **A [[c/_complication|complication]] of pregnancy [[c/_characterized|characterized]] by seizures and [[c/_coma|coma]] [[d/_due|due]] to hypertension.**
 ---
 ---

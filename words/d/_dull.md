@@ -1,35 +1,35 @@
 # Dull
 ---
 #verb
-- **To render dull; to remove or blunt an edge or something that was sharp.**
+- **To render [[d/_dull|dull]]; to remove or [[b/_blunt|blunt]] an [[e/_edge|edge]] or something that was sharp.**
 	- _Example: Years of misuse have dulled the tools._
-- **To soften, moderate or blunt; to make dull, stupid, or sluggish; to stupefy.**
+- **To soften, moderate or [[b/_blunt|blunt]]; to make [[d/_dull|dull]], stupid, or sluggish; to stupefy.**
 	- _Example: He drinks to dull the pain._
-- **To lose a sharp edge; to become dull.**
+- **To lose a sharp [[e/_edge|edge]]; to [[b/_become|become]] [[d/_dull|dull]].**
 	- _Example: A razor will dull with use._
-- **To render dim or obscure; to sully; to tarnish.**
+- **To render [[d/_dim|dim]] or obscure; to sully; to tarnish.**
 ---
 ### Synonyms
 - [[dullen]]
 #adjective
-- **Lacking the ability to cut easily; not sharp.**
+- **Lacking the [[a/_ability|ability]] to [[c/_cut|cut]] [[e/_easily|easily]]; not sharp.**
 	- _Example: All these knives are dull._
-- **Boring; not exciting or interesting.**
+- **[[b/_boring|Boring]]; not exciting or interesting.**
 	- _Example: He sat through the dull lecture and barely stayed awake._
-- **Not shiny; having a matte finish or no particular luster or brightness.**
+- **Not shiny; having a matte finish or no particular luster or [[b/_brightness|brightness]].**
 	- _Example: Choose a dull finish to hide fingerprints._
-- **Not bright or intelligent; stupid; having slow understanding.**
+- **Not [[b/_bright|bright]] or intelligent; stupid; having slow understanding.**
 - **Sluggish, listless.**
-- **Cloudy, overcast.**
+- **[[c/_cloudy|Cloudy]], overcast.**
 	- _Example: It's a dull day._
 - **Insensible; unfeeling.**
 - **Heavy; lifeless; inert.**
 - **(of pain etc) Not intense; felt indistinctly or only slightly.**
 	- _Example: Pressing on the bruise produces a dull pain._
-- **(of a noise or sound) Not clear, muffled.**
+- **(of a noise or sound) Not [[c/_clear|clear]], muffled.**
 ---
 ### Synonyms
 - [[lackluster]], [[matte]]
 ### Antonyms
-- [[[[b/_bright|bright]]]], [[intelligent]], [[sharp]]
+- [[bright]], [[intelligent]], [[sharp]]
 ---

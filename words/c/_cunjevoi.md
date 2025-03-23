@@ -1,13 +1,13 @@
 # Cunjevoi
 ---
 #noun
-- **A coastal sea squirt, Pyura stolonifera, found in some parts of Australia and South Africa.**
+- **A [[c/_coastal|coastal]] sea squirt, Pyura stolonifera, found in some parts of [[a/_australia|Australia]] and South [[a/_africa|Africa]].**
 ---
 ### Synonyms
-- [[red [[b/_bait|bait]]]], [[rooi [[a/_aas|aas]]]]
+- [[red bait]], [[rooi aas]]
 #noun
-- **A large flowering plant, Alocasia macrorrhizos, native to tropical islands from Asia to Australia.**
+- **A large flowering plant, [[a/_alocasia|Alocasia]] macrorrhizos, native to tropical islands from [[a/_asia|Asia]] to [[a/_australia|Australia]].**
 ---
 ### Synonyms
-- [[giant [[a/_alocasia|alocasia]]]], [[giant taro]]
+- [[giant alocasia]], [[giant taro]]
 ---

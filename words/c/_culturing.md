@@ -1,10 +1,10 @@
 # Culturing
 ---
 #verb
-- **To maintain in an environment suitable for growth (especially of bacteria) (compare cultivate)**
-- **To increase the artistic or scientific interest (in something) (compare cultivate)**
+- **To maintain in an [[e/_environment|environment]] suitable for growth (especially of [[b/_bacteria|bacteria]]) ([[c/_compare|compare]] [[c/_cultivate|cultivate]])**
+- **To increase the [[a/_artistic|artistic]] or scientific interest (in something) ([[c/_compare|compare]] [[c/_cultivate|cultivate]])**
 ---
 #noun
-- **An act or an instance of growing or maintaining a culture (especially of bacteria).**
+- **An [[a/_act|act]] or an instance of growing or maintaining a [[c/_culture|culture]] (especially of [[b/_bacteria|bacteria]]).**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bullwhipped
 ---
 #verb
-- **To beat with a bullwhip.**
+- **To [[b/_beat|beat]] with a [[b/_bullwhip|bullwhip]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Biocoenosis
 ---
 #noun
-- **A community of interacting organisms that form a natural ecological unit.**
+- **A [[c/_community|community]] of interacting organisms that form a natural [[e/_ecological|ecological]] unit.**
 ---
 ---

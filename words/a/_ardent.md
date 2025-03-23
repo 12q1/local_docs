@@ -1,7 +1,7 @@
 # Ardent
 ---
 #adjective
-- **Full of ardor; fervent, passionate.**
-- **Burning; glowing; shining.**
+- **Full of [[a/_ardor|ardor]]; fervent, passionate.**
+- **[[b/_burning|Burning]]; glowing; shining.**
 ---
 ---

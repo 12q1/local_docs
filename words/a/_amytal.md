@@ -1,8 +1,8 @@
 # Amytal
 ---
 #noun
-- **A barbiturate derivative, a bitter-tasting odourless white powder with sedative-hypnotic and analgesic properties.**
+- **A [[b/_barbiturate|barbiturate]] [[d/_derivative|derivative]], a [[b/_bitter|bitter]]-tasting odourless white powder with sedative-hypnotic and [[a/_analgesic|analgesic]] properties.**
 ---
 ### Synonyms
-- [[amylobarbitone]], [[[[a/_amytal|amytal]]]], [[sodium [[a/_amytal|amytal]]]]
+- [[amylobarbitone]], [[amytal]], [[sodium amytal]]
 ---

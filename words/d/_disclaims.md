@@ -1,10 +1,10 @@
 # Disclaims
 ---
 #verb
-- **To renounce all claim to; to deny ownership of or responsibility for; to disown; to disavow; to reject.**
-- **To deny, as a claim; to refuse.**
-- **To relinquish or deny having a claim; to disavow another's claim; to decline accepting, as an estate, interest, or office.**
+- **To renounce [[a/_all|all]] [[c/_claim|claim]] to; to [[d/_deny|deny]] ownership of or responsibility for; to [[d/_disown|disown]]; to [[d/_disavow|disavow]]; to reject.**
+- **To [[d/_deny|deny]], as a [[c/_claim|claim]]; to refuse.**
+- **To relinquish or [[d/_deny|deny]] having a [[c/_claim|claim]]; to [[d/_disavow|disavow]] [[a/_another|another]]'s [[c/_claim|claim]]; to [[d/_decline|decline]] [[a/_accepting|accepting]], as an estate, interest, or office.**
 ---
 ### Synonyms
-- [[refuse]], [[[[d/_disavow|disavow]]]], [[[[d/_disown|disown]]]], [[renounce]], [[repudiate]]
+- [[refuse]], [[disavow]], [[disown]], [[renounce]], [[repudiate]]
 ---

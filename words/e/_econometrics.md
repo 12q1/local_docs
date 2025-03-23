@@ -1,6 +1,6 @@
 # Econometrics
 ---
 #noun
-- **The branch of economics that applies statistical methods to the empirical study of economic theories and relationships.**
+- **The [[b/_branch|branch]] of [[e/_economics|economics]] that [[a/_applies|applies]] statistical methods to the [[e/_empirical|empirical]] study of [[e/_economic|economic]] theories and relationships.**
 ---
 ---

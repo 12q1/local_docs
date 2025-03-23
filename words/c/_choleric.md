@@ -1,15 +1,15 @@
 # Choleric
 ---
 #noun
-- **A person with a choleric temperament.**
-- **A person suffering from cholera (infectious disease).**
+- **A person with a [[c/_choleric|choleric]] temperament.**
+- **A person suffering from [[c/_cholera|cholera]] (infectious [[d/_disease|disease]]).**
 ---
 #adjective
-- **(according to theories of the four humours or temperaments) Having a temperament characterized by an excess of choler; easily becoming angry.**
-- **Showing or expressing anger.**
-- **Of or relating to cholera (infectious disease).**
-- **Causing an excess of choler.**
+- **([[a/_according|according]] to theories of the four humours or temperaments) Having a temperament [[c/_characterized|characterized]] by an excess of [[c/_choler|choler]]; [[e/_easily|easily]] [[b/_becoming|becoming]] [[a/_angry|angry]].**
+- **Showing or expressing [[a/_anger|anger]].**
+- **Of or relating to [[c/_cholera|cholera]] (infectious [[d/_disease|disease]]).**
+- **[[c/_causing|Causing]] an excess of [[c/_choler|choler]].**
 ---
 ### Synonyms
-- [[ill-tempered]], [[irascible]], [[[[a/_angry|angry]]]], [[indignant]], [[irate]], [[vexed]], [[wrathful]]
+- [[ill-tempered]], [[irascible]], [[angry]], [[indignant]], [[irate]], [[vexed]], [[wrathful]]
 ---

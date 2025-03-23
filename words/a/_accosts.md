@@ -1,17 +1,17 @@
 # Accosts
 ---
 #noun
-- **Address; greeting.**
-- **An attack.**
+- **[[a/_address|Address]]; greeting.**
+- **An [[a/_attack|attack]].**
 ---
 #verb
-- **To approach and speak to boldly or aggressively, as with a demand or request.**
-- **To join side to side; to border.**
-- **(by extension) To sail along the coast or side of.**
-- **To approach; to come up to.**
-- **To speak to first; to address; to greet.**
-- **To adjoin; to lie alongside.**
-- **To assault.**
+- **To [[a/_approach|approach]] and speak to [[b/_boldly|boldly]] or [[a/_aggressively|aggressively]], as with a [[d/_demand|demand]] or request.**
+- **To join side to side; to [[b/_border|border]].**
+- **(by extension) To sail [[a/_along|along]] the [[c/_coast|coast]] or side of.**
+- **To [[a/_approach|approach]]; to [[c/_come|come]] up to.**
+- **To speak to first; to [[a/_address|address]]; to greet.**
+- **To [[a/_adjoin|adjoin]]; to lie [[a/_alongside|alongside]].**
+- **To [[a/_assault|assault]].**
 - **To solicit sexually.**
 ---
 ---

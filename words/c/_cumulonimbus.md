@@ -1,6 +1,6 @@
 # Cumulonimbus
 ---
 #noun
-- **A cloud, with a tall structure and a flat base, that is often associated with thunderstorms.**
+- **A [[c/_cloud|cloud]], with a tall structure and a flat [[b/_base|base]], that is often [[a/_associated|associated]] with thunderstorms.**
 ---
 ---

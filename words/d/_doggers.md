@@ -1,9 +1,9 @@
 # Doggers
 ---
 #noun
-- **A two-masted fishing vessel, used by the Dutch.**
+- **A two-masted fishing vessel, used by the [[d/_dutch|Dutch]].**
 ---
 #noun
-- **A participant in the sexual activity of dogging.**
+- **A participant in the sexual [[a/_activity|activity]] of [[d/_dogging|dogging]].**
 ---
 ---

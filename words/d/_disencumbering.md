@@ -1,6 +1,6 @@
 # Disencumbering
 ---
 #verb
-- **To remove an encumbrance or burden from (someone or something).**
+- **To remove an [[e/_encumbrance|encumbrance]] or [[b/_burden|burden]] from (someone or something).**
 ---
 ---

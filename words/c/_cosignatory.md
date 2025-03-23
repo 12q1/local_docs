@@ -1,7 +1,7 @@
 # Cosignatory
 ---
 #noun
-- **Any of several people who sign a document together (especially a treaty)**
+- **[[a/_any|Any]] of several people who sign a [[d/_document|document]] together (especially a treaty)**
 ---
 #adjective
 - **Signed or signing jointly**

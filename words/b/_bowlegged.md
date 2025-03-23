@@ -1,10 +1,10 @@
 # Bowlegged
 ---
 #adjective
-- **Having a bowleg**
+- **Having a [[b/_bowleg|bowleg]]**
 ---
 ### Synonyms
-- [[[[c/_couldn|couldn]]'t stop a pig in a passage]]
+- [[couldn't stop a pig in a passage]]
 ### Antonyms
 - [[knock-kneed]]
 ---

@@ -1,6 +1,6 @@
 # Diethylstilboestrol
 ---
 #noun
-- **Diethylstilbestrol**
+- **[[d/_diethylstilbestrol|Diethylstilbestrol]]**
 ---
 ---

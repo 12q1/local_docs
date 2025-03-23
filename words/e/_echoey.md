@@ -1,6 +1,6 @@
 # Echoey
 ---
 #adjective
-- **(of a sound) That echoes.**
+- **(of a sound) That [[e/_echoes|echoes]].**
 ---
 ---

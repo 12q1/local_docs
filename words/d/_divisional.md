@@ -1,10 +1,10 @@
 # Divisional
 ---
 #noun
-- **A playoff determining the winning team from a particular division.**
+- **A playoff [[d/_determining|determining]] the winning team from a particular [[d/_division|division]].**
 ---
 #adjective
-- **Of or pertaining to a division.**
-- **Of or pertaining to the process of division.**
+- **Of or pertaining to a [[d/_division|division]].**
+- **Of or pertaining to the process of [[d/_division|division]].**
 ---
 ---

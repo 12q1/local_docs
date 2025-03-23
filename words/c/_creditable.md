@@ -1,12 +1,12 @@
 # Creditable
 ---
 #adjective
-- **Credible or believable.**
-- **That brings credit or honour; respectable.**
-- **That can be assigned; assignable.**
+- **[[c/_credible|Credible]] or [[b/_believable|believable]].**
+- **That [[b/_brings|brings]] [[c/_credit|credit]] or honour; respectable.**
+- **That [[c/_can|can]] be [[a/_assigned|assigned]]; [[a/_assignable|assignable]].**
 ---
 ### Synonyms
-- [[[[b/_believable|believable]]]], [[[[c/_credible|credible]]]], [[[[c/_commendable|commendable]]]], [[respectable]], [[[[a/_assignable|assignable]]]]
+- [[believable]], [[credible]], [[commendable]], [[respectable]], [[assignable]]
 ### Antonyms
 - [[incredible]], [[increditable]], [[unbelievable]]
 ---

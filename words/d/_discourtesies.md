@@ -1,7 +1,7 @@
 # Discourtesies
 ---
 #noun
-- **Lack of courtesy; rudeness.**
-- **A rude act.**
+- **Lack of [[c/_courtesy|courtesy]]; rudeness.**
+- **A rude [[a/_act|act]].**
 ---
 ---

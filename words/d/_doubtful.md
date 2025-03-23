@@ -1,15 +1,15 @@
 # Doubtful
 ---
 #noun
-- **A doubtful person or thing.**
+- **A [[d/_doubtful|doubtful]] person or thing.**
 ---
 #adjective
-- **Subject to, or causing doubt.**
-- **Experiencing or showing doubt, sceptical.**
+- **Subject to, or [[c/_causing|causing]] [[d/_doubt|doubt]].**
+- **Experiencing or showing [[d/_doubt|doubt]], sceptical.**
 - **Undecided or of uncertain outcome.**
-- **Fearsome, dreadful.**
+- **Fearsome, [[d/_dreadful|dreadful]].**
 - **Improbable or unlikely.**
-- **Suspicious, or of dubious character.**
+- **Suspicious, or of [[d/_dubious|dubious]] [[c/_character|character]].**
 - **Unclear or unreliable.**
 ---
 ---

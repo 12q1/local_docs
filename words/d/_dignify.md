@@ -1,14 +1,14 @@
 # Dignify
 ---
 #verb
-- **To invest with dignity or honour.**
-- **To give distinction to.**
+- **To invest with [[d/_dignity|dignity]] or honour.**
+- **To give [[d/_distinction|distinction]] to.**
 - **To exalt in rank.**
-- **(chiefly in the negative) To treat as worthy or acceptable; to indulge or condone by acknowledging.**
+- **([[c/_chiefly|chiefly]] in the negative) To treat as worthy or [[a/_acceptable|acceptable]]; to indulge or [[c/_condone|condone]] by [[a/_acknowledging|acknowledging]].**
 	- _Example: I will not dignify that comment with a response._
 ---
 ### Synonyms
-- [[[[a/_adorn|adorn]]]], [[[[a/_advance|advance]]]], [[[[e/_elevate|elevate]]]], [[[[e/_ennoble|ennoble]]]], [[exalt]], [[honor]], [[illustrate]], [[prefer]]
+- [[adorn]], [[advance]], [[elevate]], [[ennoble]], [[exalt]], [[honor]], [[illustrate]], [[prefer]]
 ### Antonyms
-- [[[[d/_demean|demean]]]], [[humiliate]], [[mortify]], [[shame]]
+- [[demean]], [[humiliate]], [[mortify]], [[shame]]
 ---

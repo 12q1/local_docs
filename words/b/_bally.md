@@ -1,7 +1,7 @@
 # Bally
 ---
 #adjective
-- **Bloody (used as a mild intensifier).**
+- **[[b/_bloody|Bloody]] (used as a mild intensifier).**
 	- _Example: He's just a bally idiot._
 ---
 #adverb
@@ -9,5 +9,5 @@
 	- _Example: That was a bally foolish thing to do, old chap!_
 ---
 ### Synonyms
-- [[[[b/_blasted|blasted]]]], [[[[d/_dashed|dashed]]]]
+- [[blasted]], [[dashed]]
 ---

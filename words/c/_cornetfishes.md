@@ -1,6 +1,6 @@
 # Cornetfishes
 ---
 #noun
-- **Any of several slender, elongate tropical fish, of the family Fistulariidae, that live in shallow water**
+- **[[a/_any|Any]] of several slender, [[e/_elongate|elongate]] tropical fish, of the family Fistulariidae, that live in shallow water**
 ---
 ---

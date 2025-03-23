@@ -1,14 +1,14 @@
 # Averse
 ---
 #verb
-- **To turn away.**
+- **To turn [[a/_away|away]].**
 ---
 #adjective
 - **Having a repugnance or opposition of mind.**
-- **Turned away or backward.**
+- **Turned [[a/_away|away]] or [[b/_backward|backward]].**
 - **Lying on the opposite side (to or from).**
-- **Turned so as to show the back, as of a right hand.**
+- **Turned so as to show the [[b/_back|back]], as of a right hand.**
 ---
 ### Synonyms
-- [[[[d/_disinclined|disinclined]]]], [[[[d/_disliking|disliking]]]], [[fromward]], [[loath]], [[reluctant]], [[unwilling]]
+- [[disinclined]], [[disliking]], [[fromward]], [[loath]], [[reluctant]], [[unwilling]]
 ---

@@ -1,10 +1,10 @@
 # Cannoning
 ---
 #verb
-- **To bombard with cannons.**
-- **To play the carom billiard shot. To strike two balls with the cue ball**
+- **To [[b/_bombard|bombard]] with [[c/_cannons|cannons]].**
+- **To play the [[c/_carom|carom]] [[b/_billiard|billiard]] shot. To strike two [[b/_balls|balls]] with the [[c/_cue|cue]] [[b/_ball|ball]]**
 	- _Example: The white cannoned off the red onto the pink._
 - **To fire something, especially spherical, rapidly.**
-- **To collide or strike violently, especially so as to glance off or rebound.**
+- **To [[c/_collide|collide]] or strike violently, especially so as to glance off or rebound.**
 ---
 ---

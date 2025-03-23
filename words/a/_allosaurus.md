@@ -1,6 +1,6 @@
 # Allosaurus
 ---
 #noun
-- **A large, carnivorous dinosaur, of genus Allosaurus, that lived in the Jurassic period.**
+- **A large, [[c/_carnivorous|carnivorous]] [[d/_dinosaur|dinosaur]], of genus [[a/_allosaurus|Allosaurus]], that lived in the Jurassic period.**
 ---
 ---

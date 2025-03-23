@@ -1,6 +1,6 @@
 # Clockmaker
 ---
 #noun
-- **A person who makes clocks.**
+- **A person who makes [[c/_clocks|clocks]].**
 ---
 ---

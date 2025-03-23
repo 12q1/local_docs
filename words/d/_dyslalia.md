@@ -1,6 +1,6 @@
 # Dyslalia
 ---
 #noun
-- **Difficulty in talking due to a structural abnormality**
+- **[[d/_difficulty|Difficulty]] in talking [[d/_due|due]] to a structural [[a/_abnormality|abnormality]]**
 ---
 ---

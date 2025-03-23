@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Hard to work with; stubborn.**
-- **Difficult.**
+- **[[d/_difficult|Difficult]].**
 ---
 ---

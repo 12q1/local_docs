@@ -1,8 +1,8 @@
 # Antithesis
 ---
 #noun
-- **A proposition that is the diametric opposite of some other proposition.**
-- **A device by which two contrasting ideas are juxtaposed in parallel form.**
+- **A proposition that is the [[d/_diametric|diametric]] opposite of some other proposition.**
+- **A [[d/_device|device]] by which two [[c/_contrasting|contrasting]] ideas are juxtaposed in parallel form.**
 ---
 ### Antonyms
 - [[epitome]]

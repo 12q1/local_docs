@@ -1,7 +1,7 @@
 # Endodontic
 ---
 #adjective
-- **Referring to, or associated with endodontics**
-- **Relating to the endodontium**
+- **Referring to, or [[a/_associated|associated]] with [[e/_endodontics|endodontics]]**
+- **Relating to the [[e/_endodontium|endodontium]]**
 ---
 ---

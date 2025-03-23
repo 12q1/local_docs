@@ -1,7 +1,7 @@
 # Encourage
 ---
 #verb
-- **To mentally support; to motivate, give courage, hope or spirit.**
+- **To mentally support; to motivate, give [[c/_courage|courage]], hope or spirit.**
 	- _Example: I encouraged him during his race._
 - **To spur on, strongly recommend.**
 	- _Example: We encourage the use of bicycles in the town centre._
@@ -9,7 +9,7 @@
 	- _Example: The royal family has always encouraged the arts in word and deed_
 ---
 ### Synonyms
-- [[[[b/_bield|bield]]]], [[[[e/_embolden|embolden]]]]
+- [[bield]], [[embolden]]
 ### Antonyms
-- [[becourage]], [[[[d/_discourage|discourage]]]]
+- [[becourage]], [[discourage]]
 ---

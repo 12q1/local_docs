@@ -3,14 +3,14 @@
 #verb
 - **To request forcefully.**
 	- _Example: I demand to see the manager._
-- **To claim a right to something.**
+- **To [[c/_claim|claim]] a right to something.**
 	- _Example: The bank is demanding the mortgage payment._
-- **To ask forcefully for information.**
+- **To [[a/_ask|ask]] forcefully for information.**
 	- _Example: I demand an immediate explanation._
 - **To require of someone.**
 	- _Example: This job demands a lot of patience._
-- **To issue a summons to court.**
+- **To issue a summons to [[c/_court|court]].**
 ---
 ### Synonyms
-- [[frain]], [[[[c/_call|call]] for]], [[insist]]
+- [[frain]], [[call for]], [[insist]]
 ---

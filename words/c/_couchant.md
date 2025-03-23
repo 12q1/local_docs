@@ -1,7 +1,7 @@
 # Couchant
 ---
 #adjective
-- **(of an animal) Lying with belly down and front legs extended; crouching.**
-- **Represented as crouching with the head raised.**
+- **(of an [[a/_animal|animal]]) Lying with [[b/_belly|belly]] [[d/_down|down]] and front legs extended; [[c/_crouching|crouching]].**
+- **Represented as [[c/_crouching|crouching]] with the head raised.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Bibbing
 ---
 #verb
-- **To dress (somebody) in a bib.**
-- **To drink heartily; to tipple.**
+- **To [[d/_dress|dress]] (somebody) in a [[b/_bib|bib]].**
+- **To [[d/_drink|drink]] heartily; to tipple.**
 ---
 #verb
-- **To beep (e.g. a car horn).**
+- **To [[b/_beep|beep]] ([[e/_e|e]].g. a [[c/_car|car]] horn).**
 ---
 ---

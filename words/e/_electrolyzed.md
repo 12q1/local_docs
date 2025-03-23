@@ -1,9 +1,9 @@
 # Electrolyzed
 ---
 #verb
-- **To decompose by means of, or as a result of electrolysis.**
+- **To [[d/_decompose|decompose]] by means of, or as a result of [[e/_electrolysis|electrolysis]].**
 ---
 #adjective
-- **Decomposed by electrolysis**
+- **[[d/_decomposed|Decomposed]] by [[e/_electrolysis|electrolysis]]**
 ---
 ---

@@ -1,12 +1,12 @@
 # Cavern
 ---
 #noun
-- **A large cave.**
-- **An underground chamber.**
+- **A large [[c/_cave|cave]].**
+- **An underground [[c/_chamber|chamber]].**
 ---
 #verb
-- **To form a cavern or deep depression in.**
+- **To form a [[c/_cavern|cavern]] or [[d/_deep|deep]] [[d/_depression|depression]] in.**
 	- _Example: catacombs caverning the hillsides_
-- **To put into a cavern.**
+- **To put into a [[c/_cavern|cavern]].**
 ---
 ---

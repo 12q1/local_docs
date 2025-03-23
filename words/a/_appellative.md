@@ -1,11 +1,11 @@
 # Appellative
 ---
 #noun
-- **A common noun**
-- **An epithet**
+- **A [[c/_common|common]] noun**
+- **An [[e/_epithet|epithet]]**
 ---
 #adjective
-- **(grammar) of or pertaining to an appellative noun or common noun**
-- **Of or pertaining to ascribing names**
+- **(grammar) of or pertaining to an [[a/_appellative|appellative]] noun or [[c/_common|common]] noun**
+- **Of or pertaining to [[a/_ascribing|ascribing]] names**
 ---
 ---

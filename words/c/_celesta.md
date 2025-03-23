@@ -1,8 +1,8 @@
 # Celesta
 ---
 #noun
-- **A musical instrument consisting principally of a set of graduated steel plates struck with hammers that are activated by a keyboard.**
+- **A musical instrument [[c/_consisting|consisting]] principally of a set of graduated steel plates struck with hammers that are [[a/_activated|activated]] by a keyboard.**
 ---
 ### Synonyms
-- [[[[c/_celeste|celeste]]]]
+- [[celeste]]
 ---

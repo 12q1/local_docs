@@ -1,6 +1,6 @@
 # Crabhole
 ---
 #noun
-- **A small burrow dug by a crab**
+- **A small [[b/_burrow|burrow]] [[d/_dug|dug]] by a [[c/_crab|crab]]**
 ---
 ---

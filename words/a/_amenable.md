@@ -2,9 +2,9 @@
 ---
 #adjective
 - **Willing to respond to persuasion or suggestions.**
-- **Willing to comply; easily led.**
-- **Liable to be brought to account; responsible; accountable.**
-- **(of a group) Being a locally compact topological group carrying a kind of averaging operation on bounded functions that is invariant under translation by group elements.**
+- **Willing to [[c/_comply|comply]]; [[e/_easily|easily]] led.**
+- **Liable to be [[b/_brought|brought]] to [[a/_account|account]]; responsible; [[a/_accountable|accountable]].**
+- **(of a group) [[b/_being|Being]] a locally [[c/_compact|compact]] topological group [[c/_carrying|carrying]] a kind of [[a/_averaging|averaging]] operation on [[b/_bounded|bounded]] functions that is invariant under translation by group [[e/_elements|elements]].**
 ---
 ### Antonyms
 - [[unamenable]]

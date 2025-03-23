@@ -1,6 +1,6 @@
 # Eident
 ---
 #adjective
-- **Busy, industrious, diligent.**
+- **[[b/_busy|Busy]], industrious, [[d/_diligent|diligent]].**
 ---
 ---

@@ -1,11 +1,11 @@
 # Biologic
 ---
 #noun
-- **An extremely complex drug, vaccine or antitoxin that is made from a living organism, or from products of a living organism.**
+- **An extremely [[c/_complex|complex]] [[d/_drug|drug]], vaccine or [[a/_antitoxin|antitoxin]] that is made from a living organism, or from products of a living organism.**
 ---
 #adjective
-- **Biological; pertaining to biology or to a living organism.**
+- **[[b/_biological|Biological]]; pertaining to [[b/_biology|biology]] or to a living organism.**
 ---
 ### Synonyms
-- [[[[b/_biological|biological]]]]
+- [[biological]]
 ---

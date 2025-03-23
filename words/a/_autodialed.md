@@ -1,6 +1,6 @@
 # Autodialed
 ---
 #verb
-- **To dial automatically.**
+- **To [[d/_dial|dial]] [[a/_automatically|automatically]].**
 ---
 ---

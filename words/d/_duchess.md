@@ -1,10 +1,10 @@
 # Duchess
 ---
 #noun
-- **The wife or widow of a duke.**
-- **The female ruler of a duchy.**
+- **The wife or widow of a [[d/_duke|duke]].**
+- **The female ruler of a [[d/_duchy|duchy]].**
 ---
 #verb
-- **To court or curry favour for political or business advantage; to flatter obsequiously.**
+- **To [[c/_court|court]] or [[c/_curry|curry]] favour for political or [[b/_business|business]] [[a/_advantage|advantage]]; to flatter obsequiously.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Accurately
 ---
 #adverb
-- **In an accurate manner; exactly; precisely; without error or defect.**
+- **In an [[a/_accurate|accurate]] manner; exactly; precisely; without error or [[d/_defect|defect]].**
 ---
 ### Synonyms
-- [[exactly]], [[precisely]], [[slap [[b/_bang|bang]]]]
+- [[exactly]], [[precisely]], [[slap bang]]
 ---

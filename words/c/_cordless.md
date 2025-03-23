@@ -1,10 +1,10 @@
 # Cordless
 ---
 #adjective
-- **Having no cord; especially using batteries instead of mains electricity**
+- **Having no [[c/_cord|cord]]; especially using [[b/_batteries|batteries]] instead of mains [[e/_electricity|electricity]]**
 ---
 ### Synonyms
 - [[wireless]]
 ### Antonyms
-- [[[[c/_corded|corded]]]]
+- [[corded]]
 ---

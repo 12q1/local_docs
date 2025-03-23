@@ -1,14 +1,14 @@
 # Agates
 ---
 #noun
-- **A semi-pellucid, uncrystallized variety of quartz, presenting various tints in the same specimen, with colors delicately arranged in stripes or bands, or blended in clouds.**
-- **The size of type between pearl and nonpareil, standardized as 5 1/2-point.**
+- **A semi-pellucid, uncrystallized variety of quartz, presenting various tints in the same specimen, with [[c/_colors|colors]] [[d/_delicately|delicately]] [[a/_arranged|arranged]] in stripes or [[b/_bands|bands]], or [[b/_blended|blended]] in [[c/_clouds|clouds]].**
+- **The size of type [[b/_between|between]] pearl and nonpareil, standardized as 5 1/2-point.**
 - **One fourteenth of an inch**
-- **A diminutive person; so called in allusion to the small figures cut in agate for rings and seals.**
-- **A tool used by gold-wire drawers, bookbinders, etc.;—so called from the agate fixed in it for burnishing.**
-- **A marble made from agate.**
+- **A [[d/_diminutive|diminutive]] person; so [[c/_called|called]] in [[a/_allusion|allusion]] to the small figures [[c/_cut|cut]] in [[a/_agate|agate]] for rings and seals.**
+- **A tool used by gold-wire [[d/_drawers|drawers]], [[b/_bookbinders|bookbinders]], etc.;—so [[c/_called|called]] from the [[a/_agate|agate]] fixed in it for [[b/_burnishing|burnishing]].**
+- **A marble made from [[a/_agate|agate]].**
 - **(usually in the plural) A testicle.**
 ---
 ### Synonyms
-- [[[[a/_aggie|aggie]]]], [[ruby]]
+- [[aggie]], [[ruby]]
 ---

@@ -3,14 +3,14 @@
 #adjective
 - **By oneself, solitary.**
 	- _Example: I can't ask for help because I am alone._
-- **Apart from, or exclusive of, others.**
+- **[[a/_apart|Apart]] from, or exclusive of, others.**
 	- _Example: Jones alone could do it._
-- **Considered separately.**
-- **Without equal.**
+- **[[c/_considered|Considered]] separately.**
+- **Without [[e/_equal|equal]].**
 - **Unique; rare; matchless.**
 ---
 #adverb
-- **By oneself; apart from, or exclusive of, others; solo.**
+- **By oneself; [[a/_apart|apart]] from, or exclusive of, others; solo.**
 	- _Example: She walked home alone._
 - **Without outside help.**
 	- _Example: The job was too hard for me to do alone._

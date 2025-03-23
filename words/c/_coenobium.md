@@ -1,9 +1,9 @@
 # Coenobium
 ---
 #noun
-- **A monastery, a monastic community.**
+- **A monastery, a monastic [[c/_community|community]].**
 ---
 #noun
-- **An arranged colony of algae that acts as a single organism.**
+- **An [[a/_arranged|arranged]] [[c/_colony|colony]] of [[a/_algae|algae]] that [[a/_acts|acts]] as a single organism.**
 ---
 ---

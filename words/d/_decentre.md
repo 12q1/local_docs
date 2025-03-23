@@ -1,8 +1,8 @@
 # Decentre
 ---
 #verb
-- **To remove the centre from.**
-- **To place away from the centre; to make eccentric.**
-- **To displace from the centre.**
+- **To remove the [[c/_centre|centre]] from.**
+- **To place [[a/_away|away]] from the [[c/_centre|centre]]; to make [[e/_eccentric|eccentric]].**
+- **To [[d/_displace|displace]] from the [[c/_centre|centre]].**
 ---
 ---

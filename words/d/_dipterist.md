@@ -1,6 +1,6 @@
 # Dipterist
 ---
 #noun
-- **An entomologist who specializes in the order Diptera (the true flies).**
+- **An [[e/_entomologist|entomologist]] who specializes in the order [[d/_diptera|Diptera]] (the true flies).**
 ---
 ---

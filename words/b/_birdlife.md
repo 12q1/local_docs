@@ -1,6 +1,6 @@
 # Birdlife
 ---
 #noun
-- **The birds (e.g. of an area) collectively.**
+- **The [[b/_birds|birds]] ([[e/_e|e]].g. of an [[a/_area|area]]) [[c/_collectively|collectively]].**
 ---
 ---

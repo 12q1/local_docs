@@ -1,9 +1,9 @@
 # August
 ---
 #adjective
-- **Awe-inspiring, majestic, noble, venerable.**
+- **[[a/_awe|Awe]]-inspiring, majestic, noble, venerable.**
 	- _Example: an august patron of the arts_
-- **Of noble birth.**
+- **Of noble [[b/_birth|birth]].**
 	- _Example: an august lineage_
 ---
 ---

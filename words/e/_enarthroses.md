@@ -1,6 +1,6 @@
 # Enarthroses
 ---
 #noun
-- **A ball-and-socket joint.**
+- **A [[b/_ball|ball]]-and-socket joint.**
 ---
 ---

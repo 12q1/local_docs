@@ -1,14 +1,14 @@
 # Curveball
 ---
 #noun
-- **A forespin pitch thrown by rotating the index and middle fingers down and resulting in motion down "curve"**
+- **A forespin pitch thrown by rotating the index and middle fingers [[d/_down|down]] and resulting in motion [[d/_down|down]] "[[c/_curve|curve]]"**
 	- _Example: He bit on a curveball in the dirt._
-- **(by extension) An unexpected turn of events initiated by an opponent or chance.**
+- **(by extension) An unexpected turn of events initiated by an opponent or [[c/_chance|chance]].**
 	- _Example: Life has thrown him a few curveballs._
 ---
 ### Synonyms
-- [[[[c/_curve|curve]]]], [[[[d/_deuce|deuce]]]], [[yakker]]
+- [[curve]], [[deuce]], [[yakker]]
 #verb
-- **To throw a curveball.**
+- **To throw a [[c/_curveball|curveball]].**
 ---
 ---

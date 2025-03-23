@@ -4,5 +4,5 @@
 - **A fellow follower of one's religion.**
 ---
 ### Synonyms
-- [[[[c/_co|co]]-religionary]]
+- [[co-religionary]]
 ---

@@ -1,15 +1,15 @@
 # Breaded
 ---
 #verb
-- **To coat with breadcrumbs**
+- **To [[c/_coat|coat]] with breadcrumbs**
 ---
 #verb
-- **To make broad; spread.**
+- **To make [[b/_broad|broad]]; spread.**
 ---
 #verb
 - **To form in meshes; net.**
 ---
 #adjective
-- **Braided**
+- **[[b/_braided|Braided]]**
 ---
 ---

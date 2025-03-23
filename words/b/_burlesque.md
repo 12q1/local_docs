@@ -1,15 +1,15 @@
 # Burlesque
 ---
 #noun
-- **A derisive art form that mocks by imitation; a parody.**
-- **A variety adult entertainment show, usually including titillation such as striptease, most common from the 1880s to the 1930s.**
-- **A ludicrous imitation; a caricature; a travesty; a gross perversion.**
+- **A [[d/_derisive|derisive]] [[a/_art|art]] form that mocks by imitation; a parody.**
+- **A variety [[a/_adult|adult]] [[e/_entertainment|entertainment]] show, usually including titillation such as striptease, most [[c/_common|common]] from the 1880s to the 1930s.**
+- **A ludicrous imitation; a [[c/_caricature|caricature]]; a travesty; a gross perversion.**
 ---
 ### Synonyms
-- [[[[c/_caricature|caricature]]]], [[imitation]], [[lampoon]], [[travesty]]
+- [[caricature]], [[imitation]], [[lampoon]], [[travesty]]
 #verb
-- **To make a burlesque parody of.**
-- **To ridicule, or to make ludicrous by grotesque representation in action or in language.**
+- **To make a [[b/_burlesque|burlesque]] parody of.**
+- **To ridicule, or to make ludicrous by grotesque representation in [[a/_action|action]] or in language.**
 ---
 #adjective
 - **Parodical; parodic**

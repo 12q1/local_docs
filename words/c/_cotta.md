@@ -1,7 +1,7 @@
 # Cotta
 ---
 #noun
-- **A surplice, in England and America usually one shorter and less full than the ordinary surplice and with short sleeves, or sometimes none.**
-- **A kind of coarse woollen blanket.**
+- **A surplice, in [[e/_england|England]] and [[a/_america|America]] usually one shorter and less full than the ordinary surplice and with short sleeves, or sometimes none.**
+- **A kind of [[c/_coarse|coarse]] woollen [[b/_blanket|blanket]].**
 ---
 ---

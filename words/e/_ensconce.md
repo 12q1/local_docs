@@ -1,9 +1,9 @@
 # Ensconce
 ---
 #verb
-- **To place in a secure environment.**
-- **To settle comfortably.**
+- **To place in a secure [[e/_environment|environment]].**
+- **To settle [[c/_comfortably|comfortably]].**
 ---
 ### Synonyms
-- [[[[c/_cuddle|cuddle]] up]]
+- [[cuddle up]]
 ---

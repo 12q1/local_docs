@@ -1,12 +1,12 @@
 # Dampening
 ---
 #verb
-- **To make damp or moist; to make slightly wet.**
-- **To become damp or moist.**
-- **To depress; to check; to make dull; to lessen.**
-- **To become damped or deadened.**
+- **To make [[d/_damp|damp]] or moist; to make slightly wet.**
+- **To [[b/_become|become]] [[d/_damp|damp]] or moist.**
+- **To [[d/_depress|depress]]; to [[c/_check|check]]; to make [[d/_dull|dull]]; to lessen.**
+- **To [[b/_become|become]] [[d/_damped|damped]] or [[d/_deadened|deadened]].**
 ---
 #noun
-- **The act of making or becoming damp.**
+- **The [[a/_act|act]] of making or [[b/_becoming|becoming]] [[d/_damp|damp]].**
 ---
 ---

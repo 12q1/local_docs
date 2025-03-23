@@ -1,6 +1,6 @@
 # Chelas
 ---
 #noun
-- **A pupil or disciple, especially in Hinduism.**
+- **A pupil or [[d/_disciple|disciple]], especially in Hinduism.**
 ---
 ---

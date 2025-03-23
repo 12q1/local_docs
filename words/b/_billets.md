@@ -1,29 +1,29 @@
 # Billets
 ---
 #noun
-- **An English fish, allied to the cod; the coalfish.**
+- **An [[e/_english|English]] fish, [[a/_allied|allied]] to the [[c/_cod|cod]]; the [[c/_coalfish|coalfish]].**
 ---
 #noun
 - **A short informal letter.**
 - **A written order to quarter soldiers.**
 ---
 #noun
-- **A place where a soldier is assigned to lodge.**
-- **An allocated space or berth in a boat or ship.**
-- **Berth; position.**
+- **A place where a soldier is [[a/_assigned|assigned]] to lodge.**
+- **An [[a/_allocated|allocated]] space or [[b/_berth|berth]] in a [[b/_boat|boat]] or ship.**
+- **[[b/_berth|Berth]]; position.**
 ---
 #verb
 - **(of a householder etc.) To lodge soldiers, or guests, usually by order.**
 - **(of a soldier) To lodge, or be quartered, in a private house.**
-- **To direct, by a ticket or note, where to lodge.**
+- **To [[d/_direct|direct]], by a ticket or note, where to lodge.**
 ---
 #noun
 - **A semi-finished length of metal.**
 - **A short piece of wood, especially one used as firewood.**
-- **A short cutting of sugar cane produced by a harvester or used for planting.**
-- **A rectangle used as a charge on an escutcheon.**
-- **An ornament in Norman work, resembling a billet of wood, either square or round.**
-- **(saddlery) A strap that enters a buckle.**
-- **A loop that receives the end of a buckled strap.**
+- **A short [[c/_cutting|cutting]] of sugar [[c/_cane|cane]] produced by a harvester or used for planting.**
+- **A rectangle used as a [[c/_charge|charge]] on an escutcheon.**
+- **An ornament in Norman work, resembling a [[b/_billet|billet]] of wood, [[e/_either|either]] square or round.**
+- **(saddlery) A strap that [[e/_enters|enters]] a [[b/_buckle|buckle]].**
+- **A loop that receives the [[e/_end|end]] of a [[b/_buckled|buckled]] strap.**
 ---
 ---

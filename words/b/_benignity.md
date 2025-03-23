@@ -1,11 +1,11 @@
 # Benignity
 ---
 #noun
-- **The state of being benign.**
-- **A benign act.**
+- **The state of [[b/_being|being]] [[b/_benign|benign]].**
+- **A [[b/_benign|benign]] [[a/_act|act]].**
 ---
 ### Synonyms
-- [[[[b/_benignancy|benignancy]]]], [[[[b/_benignness|benignness]]]]
+- [[benignancy]], [[benignness]]
 ### Antonyms
 - [[malignancy]]
 ---

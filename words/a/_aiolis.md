@@ -1,6 +1,6 @@
 # Aiolis
 ---
 #noun
-- **A type of sauce, similar to mayonnaise, made from garlic, egg, lemon juice and olive oil.**
+- **A type of sauce, similar to mayonnaise, made from garlic, [[e/_egg|egg]], lemon juice and olive oil.**
 ---
 ---

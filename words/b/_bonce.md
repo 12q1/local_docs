@@ -1,6 +1,6 @@
 # Bonce
 ---
 #noun
-- **(British slang) the human head**
+- **([[b/_british|British]] slang) the human head**
 ---
 ---

@@ -1,7 +1,7 @@
 # Directorial
 ---
 #adjective
-- **Of or pertaining to a director**
-- **Of or pertaining to administration or to a directorate**
+- **Of or pertaining to a [[d/_director|director]]**
+- **Of or pertaining to [[a/_administration|administration]] or to a [[d/_directorate|directorate]]**
 ---
 ---

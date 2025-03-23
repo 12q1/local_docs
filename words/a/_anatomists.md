@@ -1,6 +1,6 @@
 # Anatomists
 ---
 #noun
-- **One who studies, teaches, writes on, or does research on anatomy and anatomical structures.**
+- **One who studies, teaches, writes on, or [[d/_does|does]] research on [[a/_anatomy|anatomy]] and [[a/_anatomical|anatomical]] structures.**
 ---
 ---

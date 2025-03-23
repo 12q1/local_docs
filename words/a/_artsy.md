@@ -1,6 +1,6 @@
 # Artsy
 ---
 #adjective
-- **(sometimes derogatory) Inclined towards the arts; arty.**
+- **(sometimes [[d/_derogatory|derogatory]]) Inclined towards the [[a/_arts|arts]]; [[a/_arty|arty]].**
 ---
 ---

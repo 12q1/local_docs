@@ -1,12 +1,12 @@
 # Diastole
 ---
 #noun
-- **The phase or process of relaxation and dilation of the heart chambers, between contractions, during which they fill with blood; an instance of the process.**
-- **The lengthening of a vowel or syllable beyond its typical length.**
-- **(Greek grammar) The hypodiastole, a textual or punctuation mark formerly used to disambiguate homonyms in Greek.**
+- **The phase or process of relaxation and [[d/_dilation|dilation]] of the heart [[c/_chambers|chambers]], [[b/_between|between]] [[c/_contractions|contractions]], [[d/_during|during]] which they fill with [[b/_blood|blood]]; an instance of the process.**
+- **The lengthening of a vowel or syllable [[b/_beyond|beyond]] its typical length.**
+- **(Greek grammar) The hypodiastole, a textual or punctuation mark formerly used to [[d/_disambiguate|disambiguate]] homonyms in Greek.**
 ---
 ### Synonyms
-- [[[[e/_ectasis|ectasis]]]]
+- [[ectasis]]
 ### Antonyms
 - [[systole]], [[systole]]
 ---

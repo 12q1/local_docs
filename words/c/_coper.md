@@ -1,6 +1,6 @@
 # Coper
 ---
 #noun
-- **One who copes.**
+- **One who [[c/_copes|copes]].**
 ---
 ---

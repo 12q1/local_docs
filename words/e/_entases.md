@@ -1,6 +1,6 @@
 # Entases
 ---
 #noun
-- **A slight convex curvature introduced into the shaft of a column for aesthetic reasons, or to compensate for the illusion of concavity.**
+- **A slight [[c/_convex|convex]] [[c/_curvature|curvature]] introduced into the shaft of a [[c/_column|column]] for [[a/_aesthetic|aesthetic]] reasons, or to [[c/_compensate|compensate]] for the illusion of [[c/_concavity|concavity]].**
 ---
 ---

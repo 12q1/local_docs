@@ -1,19 +1,19 @@
 # Conventional
 ---
 #noun
-- **A conventional gilt-edged security, a kind of bond paying the holder a fixed cash payment (or coupon) every six months until maturity, at which point the holder receives the final payment and the return of the principal.**
+- **A [[c/_conventional|conventional]] gilt-[[e/_edged|edged]] security, a kind of [[b/_bond|bond]] paying the holder a fixed [[c/_cash|cash]] payment (or [[c/_coupon|coupon]]) every six months until maturity, at which point the holder receives the final payment and the return of the principal.**
 ---
 #adjective
-- **Pertaining to a convention, as in following generally accepted principles, methods and behaviour.**
-- **Ordinary, commonplace.**
+- **Pertaining to a [[c/_convention|convention]], as in following generally [[a/_accepted|accepted]] principles, methods and [[b/_behaviour|behaviour]].**
+- **Ordinary, [[c/_commonplace|commonplace]].**
 	- _Example: They wear conventional clothes, eat conventional food, and keep conventional hours._
-- **Banal, trite, hackneyed, unoriginal or clichéd.**
-- **Pertaining to a weapon which is not a weapon of mass destruction.**
+- **[[b/_banal|Banal]], trite, hackneyed, unoriginal or [[c/_clich|clich]]é[[d/_d|d]].**
+- **Pertaining to a weapon which is not a weapon of mass [[d/_destruction|destruction]].**
 - **Making use of synthetic fertilizers and pesticides.**
-- **In accordance with a bidding convention, as opposed to a natural bid.**
+- **In [[a/_accordance|accordance]] with a [[b/_bidding|bidding]] [[c/_convention|convention]], as opposed to a natural [[b/_bid|bid]].**
 ---
 ### Synonyms
-- [[stereotypical]], [[[[c/_canonical|canonical]]]], [[typical]]
+- [[stereotypical]], [[canonical]], [[typical]]
 ### Antonyms
-- [[organic]], [[natural]], [[imaginative]], [[[[a/_atypical|atypical]]]], [[out of the ordinary]], [[unconventional]], [[nuclear]]
+- [[organic]], [[natural]], [[imaginative]], [[atypical]], [[out of the ordinary]], [[unconventional]], [[nuclear]]
 ---

@@ -1,11 +1,11 @@
 # Carotid
 ---
 #noun
-- **Any of a number of major arteries in the head and neck.**
+- **[[a/_any|Any]] of a number of major [[a/_arteries|arteries]] in the head and neck.**
 ---
 ### Synonyms
-- [[[[c/_carotid|carotid]] [[a/_artery|artery]]]]
+- [[carotid artery]]
 #adjective
-- **Relating to these arteries.**
+- **Relating to these [[a/_arteries|arteries]].**
 ---
 ---

@@ -2,6 +2,6 @@
 ---
 #noun
 - **A kind of handgun.**
-- **A large cannon.**
+- **A large [[c/_cannon|cannon]].**
 ---
 ---

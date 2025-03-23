@@ -1,12 +1,12 @@
 # Constrained
 ---
 #verb
-- **To force physically, by strong persuasion or pressuring; to compel; to oblige.**
-- **To keep within close bounds; to confine.**
+- **To force physically, by strong persuasion or pressuring; to [[c/_compel|compel]]; to oblige.**
+- **To keep within [[c/_close|close]] [[b/_bounds|bounds]]; to [[c/_confine|confine]].**
 - **To reduce a result in response to limited resources.**
 ---
 #adjective
-- **Kept within close bounds; confined.**
-- **Forced; compelled.**
+- **Kept within [[c/_close|close]] [[b/_bounds|bounds]]; [[c/_confined|confined]].**
+- **Forced; [[c/_compelled|compelled]].**
 ---
 ---

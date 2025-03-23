@@ -1,9 +1,9 @@
 # Birrs
 ---
 #noun
-- **Force, vigor, energy**
+- **Force, vigor, [[e/_energy|energy]]**
 - **A strong wind.**
-- **The force of movement; rush, impetus, momentum, driving force**
+- **The force of movement; rush, impetus, momentum, [[d/_driving|driving]] force**
 - **A thrust or push.**
 - **A whirring noise**
 - **A strong trilling.**
@@ -13,7 +13,7 @@
 - **To lurch or set to spinning.**
 ---
 #noun
-- **The currency of Ethiopia, divided into 100 santims.**
+- **The [[c/_currency|currency]] of Ethiopia, [[d/_divided|divided]] into 100 santims.**
 ---
 ### Synonyms
 - [[ETB]]

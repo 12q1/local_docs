@@ -1,9 +1,9 @@
 # Dipteran
 ---
 #noun
-- **An insect of the large order Diptera; a fly.**
+- **An insect of the large order [[d/_diptera|Diptera]]; a fly.**
 ---
 #adjective
-- **Relating to or denoting dipterans.**
+- **Relating to or [[d/_denoting|denoting]] [[d/_dipterans|dipterans]].**
 ---
 ---

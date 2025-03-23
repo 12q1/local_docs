@@ -1,6 +1,6 @@
 # Egad
 ---
 #interjection
-- **A mild exclamation of surprise, contempt, outrage, etc.**
+- **A mild exclamation of surprise, [[c/_contempt|contempt]], outrage, etc.**
 ---
 ---

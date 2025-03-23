@@ -1,6 +1,6 @@
 # Compressive
 ---
 #adjective
-- **That compresses**
+- **That [[c/_compresses|compresses]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Blitzkriegs
 ---
 #noun
-- **A fast, sudden military offensive, usually combining ground forces with air support.**
+- **A fast, sudden military offensive, usually [[c/_combining|combining]] ground forces with [[a/_air|air]] support.**
 ---
 ---

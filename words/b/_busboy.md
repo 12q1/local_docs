@@ -1,6 +1,6 @@
 # Busboy
 ---
 #noun
-- **Assistant waiter; one who clears plates from and cleans tables**
+- **[[a/_assistant|Assistant]] waiter; one who [[c/_clears|clears]] plates from and [[c/_cleans|cleans]] tables**
 ---
 ---

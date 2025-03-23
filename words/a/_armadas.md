@@ -1,9 +1,9 @@
 # Armadas
 ---
 #noun
-- **A fleet of warships, especially with reference to the Spanish Armada.**
-- **Any large army or fleet of military vessels.**
-- **A large flock of anything.**
+- **A fleet of warships, especially with reference to the Spanish [[a/_armada|Armada]].**
+- **[[a/_any|Any]] large [[a/_army|army]] or fleet of military vessels.**
+- **A large flock of [[a/_anything|anything]].**
 	- _Example: An armada of insects attacked us every day at sunset._
 ---
 ---

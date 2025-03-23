@@ -1,7 +1,7 @@
 # Chafer
 ---
 #noun
-- **One who chafes.**
-- **A vessel for heating water; hence, a dish or pan.**
+- **One who [[c/_chafes|chafes]].**
+- **A vessel for heating water; hence, a [[d/_dish|dish]] or pan.**
 ---
 ---

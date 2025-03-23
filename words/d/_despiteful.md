@@ -1,6 +1,6 @@
 # Despiteful
 ---
 #adjective
-- **Full of despite; expressing malice or contemptuous hate.**
+- **Full of [[d/_despite|despite]]; expressing malice or [[c/_contemptuous|contemptuous]] hate.**
 ---
 ---

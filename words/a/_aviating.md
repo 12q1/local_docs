@@ -1,7 +1,7 @@
 # Aviating
 ---
 #verb
-- **To operate an aircraft.**
+- **To operate an [[a/_aircraft|aircraft]].**
 ---
 ### Synonyms
 - [[fly]], [[pilot]]

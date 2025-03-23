@@ -1,9 +1,9 @@
 # Downloadable
 ---
 #noun
-- **Something that can be downloaded.**
+- **Something that [[c/_can|can]] be [[d/_downloaded|downloaded]].**
 ---
 #adjective
-- **Capable of being downloaded.**
+- **[[c/_capable|Capable]] of [[b/_being|being]] [[d/_downloaded|downloaded]].**
 ---
 ---

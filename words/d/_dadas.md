@@ -1,6 +1,6 @@
 # Dadas
 ---
 #noun
-- **Father, dad.**
+- **Father, [[d/_dad|dad]].**
 ---
 ---

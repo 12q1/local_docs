@@ -1,10 +1,10 @@
 # Electroshock
 ---
 #noun
-- **(An) electric shock.**
-- **Electroconvulsive therapy.**
+- **(An) [[e/_electric|electric]] shock.**
+- **[[e/_electroconvulsive|Electroconvulsive]] therapy.**
 ---
 #verb
-- **To administer electroconvulsive therapy.**
+- **To [[a/_administer|administer]] [[e/_electroconvulsive|electroconvulsive]] therapy.**
 ---
 ---

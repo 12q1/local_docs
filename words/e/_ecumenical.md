@@ -1,7 +1,7 @@
 # Ecumenical
 ---
 #adjective
-- **Pertaining to the universal Church, representing the entire Christian world; interdenominational; sometimes by extension, interreligious.**
+- **Pertaining to the universal [[c/_church|Church]], representing the [[e/_entire|entire]] [[c/_christian|Christian]] world; interdenominational; sometimes by extension, interreligious.**
 - **General, universal, worldwide.**
 ---
 ### Synonyms

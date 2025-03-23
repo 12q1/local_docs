@@ -1,11 +1,11 @@
 # Balsamic
 ---
 #noun
-- **A balsamic vinegar.**
+- **A [[b/_balsamic|balsamic]] vinegar.**
 ---
 #adjective
-- **Producing balsam.**
-- **Having the health-giving properties of balsam; soothing, restorative.**
-- **Having the pleasant odour of balsam; balmy, fragrant.**
+- **Producing [[b/_balsam|balsam]].**
+- **Having the health-giving properties of [[b/_balsam|balsam]]; soothing, restorative.**
+- **Having the pleasant odour of [[b/_balsam|balsam]]; [[b/_balmy|balmy]], fragrant.**
 ---
 ---

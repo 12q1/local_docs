@@ -1,10 +1,10 @@
 # Babied
 ---
 #adjective
-- **Spoiled or coddled.**
+- **Spoiled or [[c/_coddled|coddled]].**
 ---
 #verb
-- **To coddle; to pamper somebody like an infant.**
-- **To tend (something) with care; to be overly attentive to (something), fuss over.**
+- **To [[c/_coddle|coddle]]; to pamper somebody like an infant.**
+- **To tend (something) with [[c/_care|care]]; to be overly [[a/_attentive|attentive]] to (something), fuss over.**
 ---
 ---

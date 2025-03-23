@@ -1,10 +1,10 @@
 # Ecliptic
 ---
 #noun
-- **The apparent annual path of the Sun in the sky. More accurately, it is the intersection of the celestial sphere with the plane of the ecliptic, which is the geometric plane containing the mean orbit of the Earth around the Sun.**
-- **A great circle drawn on a terrestrial globe, used for illustrating and solving astronomical problems.**
+- **The [[a/_apparent|apparent]] [[a/_annual|annual]] path of the Sun in the sky. More [[a/_accurately|accurately]], it is the intersection of the [[c/_celestial|celestial]] sphere with the plane of the [[e/_ecliptic|ecliptic]], which is the geometric plane [[c/_containing|containing]] the mean orbit of the [[e/_earth|Earth]] [[a/_around|around]] the Sun.**
+- **A great [[c/_circle|circle]] [[d/_drawn|drawn]] on a terrestrial globe, used for illustrating and solving [[a/_astronomical|astronomical]] problems.**
 ---
 #adjective
-- **Relating to an eclipse or the ecliptic.**
+- **Relating to an [[e/_eclipse|eclipse]] or the [[e/_ecliptic|ecliptic]].**
 ---
 ---

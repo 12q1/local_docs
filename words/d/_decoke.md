@@ -1,9 +1,9 @@
 # Decoke
 ---
 #noun
-- **Decarbonization.**
+- **[[d/_decarbonization|Decarbonization]].**
 ---
 #verb
-- **To decarbonize, especially to remove the build-up of carbon in the cylinder of an engine or the bowl or a pipe.**
+- **To [[d/_decarbonize|decarbonize]], especially to remove the [[b/_build|build]]-up of [[c/_carbon|carbon]] in the [[c/_cylinder|cylinder]] of an [[e/_engine|engine]] or the [[b/_bowl|bowl]] or a pipe.**
 ---
 ---

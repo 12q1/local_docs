@@ -3,7 +3,7 @@
 #noun
 - **A male pupil or student.**
 - **A male graduate.**
-- **A student of any gender.**
-- **A graduate of any gender.**
+- **A student of [[a/_any|any]] gender.**
+- **A graduate of [[a/_any|any]] gender.**
 ---
 ---

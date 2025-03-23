@@ -1,6 +1,6 @@
 # Deportee
 ---
 #noun
-- **A deported person.**
+- **A [[d/_deported|deported]] person.**
 ---
 ---

@@ -1,16 +1,16 @@
 # Clickers
 ---
 #noun
-- **The remote-control device used to change settings on a television set, VCR, or other electronic equipment.**
+- **The remote-[[c/_control|control]] [[d/_device|device]] used to [[c/_change|change]] settings on a television set, VCR, or other [[e/_electronic|electronic]] [[e/_equipment|equipment]].**
 	- _Example: We have a clicker for the TV, one for the VCR, one for the DVD player and another one that does it all._
-- **An electronic device used by individual students in the classroom to respond to multiple-choice questions, etc.**
-- **A person who cuts out the uppers of shoes from pieces of leather using a flexible knife that clicks as it changes direction.**
-- **A machine that cuts materials using a steel rule die. The name comes from the sound (click) when the material is cut. May be hand, pneumatic, or hydraulic powered.**
-- **A signalling device used by military forces. Pressed between thumb and fingers, it makes a small but distinctive click understood by other members of a unit.**
-- **A small mechanical device that produces a clicking sound, used in dog training.**
-- **Someone who clicks, for example using a computer mouse.**
-- **One who stands before a shop door to invite people to buy.**
-- **One who has charge of the work of a companionship.**
-- **An employee who locks the type in the form to make it ready for printing.**
+- **An [[e/_electronic|electronic]] [[d/_device|device]] used by individual students in the [[c/_classroom|classroom]] to respond to multiple-[[c/_choice|choice]] questions, etc.**
+- **A person who [[c/_cuts|cuts]] out the uppers of shoes from pieces of leather using a flexible knife that [[c/_clicks|clicks]] as it [[c/_changes|changes]] [[d/_direction|direction]].**
+- **A machine that [[c/_cuts|cuts]] materials using a steel rule [[d/_die|die]]. The name [[c/_comes|comes]] from the sound ([[c/_click|click]]) when the material is [[c/_cut|cut]]. May be hand, pneumatic, or hydraulic powered.**
+- **A signalling [[d/_device|device]] used by military forces. Pressed [[b/_between|between]] thumb and fingers, it makes a small but [[d/_distinctive|distinctive]] [[c/_click|click]] understood by other members of a unit.**
+- **A small mechanical [[d/_device|device]] that produces a [[c/_clicking|clicking]] sound, used in [[d/_dog|dog]] training.**
+- **Someone who [[c/_clicks|clicks]], for example using a [[c/_computer|computer]] mouse.**
+- **One who stands [[b/_before|before]] a shop [[d/_door|door]] to invite people to [[b/_buy|buy]].**
+- **One who has [[c/_charge|charge]] of the work of a [[c/_companionship|companionship]].**
+- **An [[e/_employee|employee]] who locks the type in the form to make it ready for printing.**
 ---
 ---

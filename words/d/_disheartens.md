@@ -1,10 +1,10 @@
 # Disheartens
 ---
 #verb
-- **To discourage someone by removing their enthusiasm or courage.**
+- **To [[d/_discourage|discourage]] someone by removing their [[e/_enthusiasm|enthusiasm]] or [[c/_courage|courage]].**
 ---
 ### Synonyms
-- [[[[d/_discourage|discourage]]]]
+- [[discourage]]
 ### Antonyms
-- [[[[e/_encourage|encourage]]]], [[hearten]]
+- [[encourage]], [[hearten]]
 ---

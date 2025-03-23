@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Sweet; nice; pleasant.**
-- **Serious and quiet; steady, not flighty or casual; sober.**
+- **Serious and quiet; steady, not flighty or [[c/_casual|casual]]; sober.**
 ---
 ---

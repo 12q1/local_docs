@@ -3,8 +3,8 @@
 #verb
 - **To take hold of; to grasp; to grab tightly.**
 	- _Example: They clasped hands and parted as friends._
-- **To shut or fasten together with, or as if with, a clasp.**
+- **To shut or fasten together with, or as if with, a [[c/_clasp|clasp]].**
 ---
 ### Synonyms
-- [[begrip]], [[grasp]], [[grip]], [[[[a/_attach|attach]]]], [[join]], [[put together]]
+- [[begrip]], [[grasp]], [[grip]], [[attach]], [[join]], [[put together]]
 ---

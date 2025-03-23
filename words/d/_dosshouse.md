@@ -1,6 +1,6 @@
 # Dosshouse
 ---
 #noun
-- **A cheap inn; a flophouse.**
+- **A [[c/_cheap|cheap]] inn; a flophouse.**
 ---
 ---

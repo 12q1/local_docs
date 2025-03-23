@@ -1,9 +1,9 @@
 # Eyeleted
 ---
 #verb
-- **To make eyelets in.**
+- **To make [[e/_eyelets|eyelets]] in.**
 ---
 #adjective
-- **Fitted with eyelets.**
+- **Fitted with [[e/_eyelets|eyelets]].**
 ---
 ---

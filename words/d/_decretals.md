@@ -1,7 +1,7 @@
 # Decretals
 ---
 #noun
-- **A papal decree, particularly one derived from an ecclesiastical letter.**
-- **Any decree or pronounced instruction.**
+- **A papal [[d/_decree|decree]], particularly one [[d/_derived|derived]] from an [[e/_ecclesiastical|ecclesiastical]] letter.**
+- **[[a/_any|Any]] [[d/_decree|decree]] or pronounced instruction.**
 ---
 ---

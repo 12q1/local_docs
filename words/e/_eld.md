@@ -1,23 +1,23 @@
 # Eld
 ---
 #noun
-- **One's age, age in years, period of life.**
-- **Old age, senility; an old person.**
-- **Time; an age, an indefinitely long period of time.**
-- **Former ages, antiquity, olden times.**
+- **One's [[a/_age|age]], [[a/_age|age]] in years, period of life.**
+- **Old [[a/_age|age]], senility; an old person.**
+- **Time; an [[a/_age|age]], an indefinitely long period of time.**
+- **Former [[a/_ages|ages]], [[a/_antiquity|antiquity]], olden times.**
 ---
 ### Synonyms
-- [[[[d/_days|days]] of yore]], [[yonks]], [[[[e/_elderliness|elderliness]]]], [[geriatric]], [[oldster]], [[senior [[c/_citizen|citizen]]]]
+- [[days of yore]], [[yonks]], [[elderliness]], [[geriatric]], [[oldster]], [[senior citizen]]
 #verb
-- **To age, become or grow old.**
-- **To delay; linger.**
-- **To make old, age.**
+- **To [[a/_age|age]], [[b/_become|become]] or grow old.**
+- **To [[d/_delay|delay]]; linger.**
+- **To make old, [[a/_age|age]].**
 ---
 ### Synonyms
-- [[elden]], [[[[a/_abide|abide]]]], [[mature]]
+- [[elden]], [[abide]], [[mature]]
 #adjective
 - **Old.**
 ---
 ### Synonyms
-- [[[[a/_aged|aged]]]], [[venerable]]
+- [[aged]], [[venerable]]
 ---

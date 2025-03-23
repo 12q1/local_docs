@@ -1,6 +1,6 @@
 # Disparager
 ---
 #noun
-- **One who disparages.**
+- **One who [[d/_disparages|disparages]].**
 ---
 ---

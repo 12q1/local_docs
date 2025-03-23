@@ -1,6 +1,6 @@
 # Conspiratorially
 ---
 #adverb
-- **In a conspiratorial manner**
+- **In a [[c/_conspiratorial|conspiratorial]] manner**
 ---
 ---

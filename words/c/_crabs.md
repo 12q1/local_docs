@@ -1,46 +1,46 @@
 # Crabs
 ---
 #noun
-- **A crustacean of the infraorder Brachyura, having five pairs of legs, the foremost of which are in the form of claws, and a carapace.**
-- **The meat of this crustacean, served as food; crabmeat**
-- **A bad-tempered person.**
-- **(in plural crabs) An infestation of pubic lice (Pthirus pubis).**
+- **A [[c/_crustacean|crustacean]] of the infraorder [[b/_brachyura|Brachyura]], having five pairs of legs, the foremost of which are in the form of [[c/_claws|claws]], and a [[c/_carapace|carapace]].**
+- **The meat of this [[c/_crustacean|crustacean]], served as food; [[c/_crabmeat|crabmeat]]**
+- **A [[b/_bad|bad]]-tempered person.**
+- **(in plural [[c/_crabs|crabs]]) An infestation of pubic lice (Pthirus pubis).**
 	- _Example: Although crabs themselves are an easily treated inconvenience, the patient and his partner(s) clearly run major STD risks._
-- **A playing card with the rank of three.**
+- **A playing [[c/_card|card]] with the rank of three.**
 - **A position in rowing where the oar is pushed under the rigger by the force of the water.**
-- **A defect in an outwardly normal object that may render it inconvenient and troublesome to use.**
-- **An unsold book that is returned to the publisher.**
+- **A [[d/_defect|defect]] in an outwardly normal object that may render it inconvenient and troublesome to use.**
+- **An unsold [[b/_book|book]] that is returned to the publisher.**
 ---
 #verb
-- **To fish for crabs.**
+- **To fish for [[c/_crabs|crabs]].**
 - **To ruin.**
-- **To complain.**
-- **To drift or move sideways or to leeward (by analogy with the movement of a crab).**
-- **To navigate (an aircraft, e.g. a glider) sideways against an air current in order to maintain a straight-line course.**
-- **To move (a camera) sideways.**
-- **(World War I), to fly slightly off the straight-line course towards an enemy aircraft, as the machine guns on early aircraft did not allow firing through the propeller disk.**
-- **To back out of something.**
+- **To [[c/_complain|complain]].**
+- **To [[d/_drift|drift]] or move sideways or to leeward (by [[a/_analogy|analogy]] with the movement of a [[c/_crab|crab]]).**
+- **To navigate (an [[a/_aircraft|aircraft]], [[e/_e|e]].g. a glider) sideways [[a/_against|against]] an [[a/_air|air]] [[c/_current|current]] in order to maintain a straight-line [[c/_course|course]].**
+- **To move (a [[c/_camera|camera]]) sideways.**
+- **(World War I), to fly slightly off the straight-line [[c/_course|course]] towards an [[e/_enemy|enemy]] [[a/_aircraft|aircraft]], as the machine guns on [[e/_early|early]] [[a/_aircraft|aircraft]] [[d/_did|did]] not [[a/_allow|allow]] firing through the propeller [[d/_disk|disk]].**
+- **To [[b/_back|back]] out of something.**
 ---
 #noun
-- **The crab apple or wild apple.**
-- **The tree bearing crab apples, which has a dogbane-like bitter bark with medical use.**
-- **A cudgel made of the wood of the crab tree; a crabstick.**
-- **A movable winch or windlass with powerful gearing, used with derricks, etc.**
-- **A form of windlass, or geared capstan, for hauling ships into dock, etc.**
+- **The [[c/_crab|crab]] [[a/_apple|apple]] or wild [[a/_apple|apple]].**
+- **The tree [[b/_bearing|bearing]] [[c/_crab|crab]] [[a/_apples|apples]], which has a [[d/_dogbane|dogbane]]-like [[b/_bitter|bitter]] [[b/_bark|bark]] with medical use.**
+- **A [[c/_cudgel|cudgel]] made of the wood of the [[c/_crab|crab]] tree; a [[c/_crabstick|crabstick]].**
+- **A movable winch or windlass with powerful gearing, used with [[d/_derricks|derricks]], etc.**
+- **A form of windlass, or geared [[c/_capstan|capstan]], for hauling ships into [[d/_dock|dock]], etc.**
 - **A machine used in ropewalks to stretch the yarn.**
-- **A claw for anchoring a portable machine.**
+- **A [[c/_claw|claw]] for [[a/_anchoring|anchoring]] a portable machine.**
 ---
 ### Synonyms
-- [[[[c/_crab|crab]] [[a/_apple|apple]]]], [[[[c/_crab|crab]] [[a/_apple|apple]]]]
+- [[crab apple]], [[crab apple]]
 #verb
 - **(obsolete) To irritate, make surly or sour**
-- **To be ill-tempered; to complain or find fault.**
-- **(British dialect) To cudgel or beat, as with a crabstick**
+- **To be ill-tempered; to [[c/_complain|complain]] or find fault.**
+- **([[b/_british|British]] [[d/_dialect|dialect]]) To [[c/_cudgel|cudgel]] or [[b/_beat|beat]], as with a [[c/_crabstick|crabstick]]**
 ---
 #noun
-- **The tree species Carapa guianensis, native to South America.**
+- **The tree species [[c/_carapa|Carapa]] guianensis, native to South [[a/_america|America]].**
 ---
 #noun
-- **Short for carabiner.**
+- **Short for [[c/_carabiner|carabiner]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Deveins
 ---
 #verb
-- **To remove the vein-like colon from (shrimp).**
+- **To remove the vein-like [[c/_colon|colon]] from (shrimp).**
 ---
 ---

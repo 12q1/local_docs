@@ -1,9 +1,9 @@
 # Discompose
 ---
 #verb
-- **To destroy the composure of; to disturb or agitate.**
-- **To disarrange, or throw into a state of disorder.**
+- **To [[d/_destroy|destroy]] the [[c/_composure|composure]] of; to [[d/_disturb|disturb]] or [[a/_agitate|agitate]].**
+- **To [[d/_disarrange|disarrange]], or throw into a state of [[d/_disorder|disorder]].**
 ---
 ### Synonyms
-- [[[[a/_agitate|agitate]]]], [[perturb]], [[unsettle]]
+- [[agitate]], [[perturb]], [[unsettle]]
 ---

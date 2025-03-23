@@ -1,6 +1,6 @@
 # Chopfallen
 ---
 #adjective
-- **Chapfallen**
+- **[[c/_chapfallen|Chapfallen]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Comediennes
 ---
 #noun
-- **A female comedian.**
+- **A female [[c/_comedian|comedian]].**
 ---
 ---

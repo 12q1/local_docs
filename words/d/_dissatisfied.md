@@ -1,11 +1,11 @@
 # Dissatisfied
 ---
 #adjective
-- **Feeling or displaying disappointment or a lack of contentment.**
-- **Not satisfied (e.g. with the quality of something).**
+- **Feeling or [[d/_displaying|displaying]] [[d/_disappointment|disappointment]] or a lack of [[c/_contentment|contentment]].**
+- **Not satisfied ([[e/_e|e]].g. with the quality of something).**
 	- _Example: We offer refunds to dissatisfied customers._
 ---
 #verb
-- **To fail to satisfy; to displease.**
+- **To fail to satisfy; to [[d/_displease|displease]].**
 ---
 ---

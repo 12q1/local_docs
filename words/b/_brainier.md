@@ -1,8 +1,8 @@
 # Brainier
 ---
 #adjective
-- **Very intellectually capable.**
+- **Very intellectually [[c/_capable|capable]].**
 ---
 ### Synonyms
-- [[[[c/_clever|clever]]]], [[smart]]
+- [[clever]], [[smart]]
 ---

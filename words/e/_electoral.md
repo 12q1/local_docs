@@ -1,7 +1,7 @@
 # Electoral
 ---
 #adjective
-- **Relating to or composed of electors.**
-- **Of, or relating to elections.**
+- **Relating to or [[c/_composed|composed]] of [[e/_electors|electors]].**
+- **Of, or relating to [[e/_elections|elections]].**
 ---
 ---

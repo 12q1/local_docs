@@ -1,6 +1,6 @@
 # Dozer
 ---
 #noun
-- **One who dozes.**
+- **One who [[d/_dozes|dozes]].**
 ---
 ---

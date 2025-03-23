@@ -1,7 +1,7 @@
 # Draymen
 ---
 #noun
-- **A man who drives drays.**
-- **A deliveryman for a brewery.**
+- **A man who [[d/_drives|drives]] [[d/_drays|drays]].**
+- **A [[d/_deliveryman|deliveryman]] for a [[b/_brewery|brewery]].**
 ---
 ---

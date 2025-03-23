@@ -1,9 +1,9 @@
 # Dammit
 ---
 #noun
-- **The saying of the interjection, used as a general measure of anything.**
+- **The saying of the interjection, used as a general measure of [[a/_anything|anything]].**
 ---
 #interjection
-- **(mildly) Expressing anger, irritation, contempt, or disappointment.**
+- **(mildly) Expressing [[a/_anger|anger]], irritation, [[c/_contempt|contempt]], or [[d/_disappointment|disappointment]].**
 ---
 ---

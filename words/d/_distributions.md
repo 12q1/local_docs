@@ -1,25 +1,25 @@
 # Distributions
 ---
 #noun
-- **An act of distributing or state of being distributed.**
-- **An apportionment by law (of funds, property).**
-- **The process by which goods get to final consumers over a geographical market, including storing, selling, shipping and advertising.**
-- **Anything distributed; portion; share.**
-- **The result of distributing; arrangement.**
-- **The total number of something sold or delivered to the clients.**
+- **An [[a/_act|act]] of [[d/_distributing|distributing]] or state of [[b/_being|being]] [[d/_distributed|distributed]].**
+- **An [[a/_apportionment|apportionment]] by law (of funds, property).**
+- **The process by which goods get to final [[c/_consumers|consumers]] over a geographical market, including storing, selling, shipping and [[a/_advertising|advertising]].**
+- **[[a/_anything|Anything]] [[d/_distributed|distributed]]; portion; share.**
+- **The result of [[d/_distributing|distributing]]; [[a/_arrangement|arrangement]].**
+- **The total number of something sold or [[d/_delivered|delivered]] to the [[c/_clients|clients]].**
 	- _Example: The distribution of my little rock magazine is about 3,000._
 - **The frequency of occurrence or extent of existence.**
-- **The apportionment of income or wealth in a population.**
+- **The [[a/_apportionment|apportionment]] of income or wealth in a population.**
 	- _Example: The wealth distribution became extremely skewed in the kleptocracy._
-- **The way in which a player's hand is divided in suits, or in which a particular suit is divided between the players.**
+- **The way in which a player's hand is [[d/_divided|divided]] in suits, or in which a particular suit is [[d/_divided|divided]] [[b/_between|between]] the players.**
 	- _Example: The declarer had 3-6-2-2 distribution._
-- **A probability distribution; the set of relative likelihoods that a variable will have a value in a given interval.**
-- **A subset of the tangent bundle of a manifold that satisfies certain properties; used to construct the notions of integrability and foliation of a manifold.**
-- **A set of bundled software components; distro.**
-- **The process or result of the sale of securities, especially their placement among investors with long-term investment strategies.**
+- **A probability [[d/_distribution|distribution]]; the set of relative likelihoods that a variable will have a value in a given interval.**
+- **A subset of the tangent [[b/_bundle|bundle]] of a manifold that satisfies [[c/_certain|certain]] properties; used to [[c/_construct|construct]] the notions of integrability and foliation of a manifold.**
+- **A set of [[b/_bundled|bundled]] software [[c/_components|components]]; distro.**
+- **The process or result of the sale of securities, especially their placement [[a/_among|among]] investors with long-term investment strategies.**
 - **The resolution of a whole into its parts.**
-- **The process of sorting the types and placing them in their proper boxes in the cases.**
-- **(steam engines) The steps or operations by which steam is supplied to and withdrawn from the cylinder at each stroke of the piston: admission, suppression or cutting off, release or exhaust, and compression of exhaust steam prior to the next admission.**
-- **A rhetorical technique in which a subject is divided into multiple cases based on some property or properties, and each case is addressed individually.**
+- **The process of sorting the types and placing them in their proper [[b/_boxes|boxes]] in the [[c/_cases|cases]].**
+- **(steam [[e/_engines|engines]]) The steps or operations by which steam is supplied to and withdrawn from the [[c/_cylinder|cylinder]] at [[e/_each|each]] stroke of the piston: [[a/_admission|admission]], suppression or [[c/_cutting|cutting]] off, release or exhaust, and [[c/_compression|compression]] of exhaust steam prior to the next [[a/_admission|admission]].**
+- **A rhetorical technique in which a subject is [[d/_divided|divided]] into multiple [[c/_cases|cases]] [[b/_based|based]] on some property or properties, and [[e/_each|each]] [[c/_case|case]] is [[a/_addressed|addressed]] individually.**
 ---
 ---

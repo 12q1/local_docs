@@ -1,18 +1,18 @@
 # Denatured
 ---
 #verb
-- **To take away a natural characteristic or inherent property of (a thing or a person).**
-- **To add something to (alcohol) that makes it unsuitable for consumption but leaves it suitable for other purposes.**
+- **To take [[a/_away|away]] a natural [[c/_characteristic|characteristic]] or inherent property of (a thing or a person).**
+- **To [[a/_add|add]] something to ([[a/_alcohol|alcohol]]) that makes it unsuitable for [[c/_consumption|consumption]] but leaves it suitable for other purposes.**
 	- _Example: While you cannot drink denatured alcohol, you can still use it to remove sticker glue from most surfaces._
-- **To alter its original form or state, especially of a protein, by heat, acidity etc.**
-- **To combine fissionable material with nonfissionable material in order to prevent its use in an atomic weapon.**
+- **To [[a/_alter|alter]] its original form or state, especially of a protein, by heat, [[a/_acidity|acidity]] etc.**
+- **To [[c/_combine|combine]] fissionable material with nonfissionable material in order to prevent its use in an [[a/_atomic|atomic]] weapon.**
 ---
 ### Synonyms
-- [[[[d/_denaturalize|denaturalize]]]]
+- [[denaturalize]]
 #adjective
-- **Having been deprived of its nature, having had its nature changed.**
-- **Of alcohol made undrinkable, by adding a toxin or unpalatable substance, but still useful as a fuel or solvent. Traditionally by the addition of methanol (wood alcohol) to ethanol (grain alcohol).**
+- **Having [[b/_been|been]] [[d/_deprived|deprived]] of its nature, having had its nature [[c/_changed|changed]].**
+- **Of [[a/_alcohol|alcohol]] made undrinkable, by [[a/_adding|adding]] a toxin or unpalatable substance, but still useful as a fuel or solvent. Traditionally by the [[a/_addition|addition]] of methanol (wood [[a/_alcohol|alcohol]]) to ethanol (grain [[a/_alcohol|alcohol]]).**
 ---
 ### Synonyms
-- [[[[d/_denat|denat]].]]
+- [[denat.]]
 ---

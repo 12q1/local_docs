@@ -1,9 +1,9 @@
 # Desynchronizing
 ---
 #verb
-- **To cause, or to experience desynchronization**
+- **To [[c/_cause|cause]], or to experience desynchronization**
 ---
 #adjective
-- **That causes desynchronization**
+- **That [[c/_causes|causes]] desynchronization**
 ---
 ---

@@ -1,6 +1,6 @@
 # Brose
 ---
 #noun
-- **Oatmeal mixed with boiling water or milk.**
+- **Oatmeal mixed with [[b/_boiling|boiling]] water or milk.**
 ---
 ---

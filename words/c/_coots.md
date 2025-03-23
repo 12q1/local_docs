@@ -1,11 +1,11 @@
 # Coots
 ---
 #noun
-- **Any of various aquatic birds of the genus Fulica that are mainly black with a prominent frontal shield on the forehead.**
-- **A foolish or eccentric fellow**
+- **[[a/_any|Any]] of various [[a/_aquatic|aquatic]] [[b/_birds|birds]] of the genus Fulica that are mainly [[b/_black|black]] with a prominent frontal shield on the forehead.**
+- **A foolish or [[e/_eccentric|eccentric]] fellow**
 	- _Example: A rich coot_
 - **(with the) A success; something excellent.**
 	- _Example: Man that song's the coot._
-- **Body louse (Pediculus humanus).**
+- **[[b/_body|Body]] louse (Pediculus humanus).**
 ---
 ---

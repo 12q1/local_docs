@@ -1,11 +1,11 @@
 # Dyed
 ---
 #verb
-- **To colour with dye, or as if with dye.**
+- **To [[c/_colour|colour]] with [[d/_dye|dye]], or as if with [[d/_dye|dye]].**
 ---
 ### Synonyms
 - [[shade]], [[stain]], [[streak]], [[tint]]
 #adjective
-- **Coloured or tinted with dye, or as though therewith.**
+- **[[c/_coloured|Coloured]] or tinted with [[d/_dye|dye]], or as though therewith.**
 ---
 ---

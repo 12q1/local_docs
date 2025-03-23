@@ -1,6 +1,6 @@
 # Alienors
 ---
 #noun
-- **A person who alienates a property.**
+- **A person who [[a/_alienates|alienates]] a property.**
 ---
 ---

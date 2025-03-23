@@ -1,15 +1,15 @@
 # Controllers
 ---
 #noun
-- **One who controls something.**
-- **Any electric or mechanical device for controlling a circuit or system.**
-- **A person who audits, and manages the financial affairs of a company or government; a comptroller.**
-- **A mechanism that controls or regulates the operation of a machine, especially a peripheral device in a computer.**
-- **An iron block, usually bolted to a ship's deck, for controlling the running out of a chain cable. The links of the cable tend to drop into hollows in the block, and thus hold fast until disengaged.**
-- **The person who supervises and handles communication with an agent in the field.**
-- **The subject of a control verb. See Control (linguistics)**
-- **In software applications using the model-view-controller design pattern, the part or parts of the application that treat input and output, forming an interface between models and views.**
+- **One who [[c/_controls|controls]] something.**
+- **[[a/_any|Any]] [[e/_electric|electric]] or mechanical [[d/_device|device]] for [[c/_controlling|controlling]] a [[c/_circuit|circuit]] or system.**
+- **A person who [[a/_audits|audits]], and manages the financial [[a/_affairs|affairs]] of a [[c/_company|company]] or government; a [[c/_comptroller|comptroller]].**
+- **A mechanism that [[c/_controls|controls]] or regulates the operation of a machine, especially a peripheral [[d/_device|device]] in a [[c/_computer|computer]].**
+- **An iron [[b/_block|block]], usually [[b/_bolted|bolted]] to a ship's [[d/_deck|deck]], for [[c/_controlling|controlling]] the running out of a [[c/_chain|chain]] [[c/_cable|cable]]. The links of the [[c/_cable|cable]] tend to [[d/_drop|drop]] into hollows in the [[b/_block|block]], and thus hold fast until [[d/_disengaged|disengaged]].**
+- **The person who supervises and handles [[c/_communication|communication]] with an [[a/_agent|agent]] in the field.**
+- **The subject of a [[c/_control|control]] verb. See [[c/_control|Control]] (linguistics)**
+- **In software [[a/_applications|applications]] using the model-view-[[c/_controller|controller]] [[d/_design|design]] pattern, the part or parts of the [[a/_application|application]] that treat input and output, forming an interface [[b/_between|between]] models and views.**
 ---
 ### Synonyms
-- [[[[d/_driver|driver]]]], [[[[a/_administrator|administrator]]]], [[[[c/_chief|chief]]]], [[foreman]], [[head]], [[head man]], [[organizer]], [[overseer]], [[superintendent]], [[supervisor]], [[[[c/_comptroller|comptroller]]]]
+- [[driver]], [[administrator]], [[chief]], [[foreman]], [[head]], [[head man]], [[organizer]], [[overseer]], [[superintendent]], [[supervisor]], [[comptroller]]
 ---

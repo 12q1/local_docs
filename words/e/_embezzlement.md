@@ -1,7 +1,7 @@
 # Embezzlement
 ---
 #noun
-- **The fraudulent conversion of property from a property owner.**
+- **The fraudulent [[c/_conversion|conversion]] of property from a property owner.**
 ---
 ### Synonyms
 - [[misappropriation]]

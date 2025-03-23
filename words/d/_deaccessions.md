@@ -1,12 +1,12 @@
 # Deaccessions
 ---
 #noun
-- **The disposal of objects in this way.**
+- **The [[d/_disposal|disposal]] of objects in this way.**
 ---
 ### Antonyms
-- [[[[a/_accession|accession]]]]
+- [[accession]]
 #verb
-- **To officially remove an object from a museum, art gallery or library so that it may be sold.**
+- **To officially remove an object from a museum, [[a/_art|art]] gallery or library so that it may be sold.**
 ---
 ### Synonyms
 - [[deacquisition]]

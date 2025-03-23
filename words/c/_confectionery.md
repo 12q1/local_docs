@@ -1,10 +1,10 @@
 # Confectionery
 ---
 #noun
-- **Foodstuffs that taste very sweet, taken as a group; candies, sweetmeats and confections collectively.**
-- **The business or occupation of manufacturing confectionery; the skill or work of a confectioner.**
-- **A store where confectionery is sold; a confectioner's shop.**
+- **Foodstuffs that taste very sweet, taken as a group; [[c/_candies|candies]], sweetmeats and [[c/_confections|confections]] [[c/_collectively|collectively]].**
+- **The [[b/_business|business]] or occupation of manufacturing [[c/_confectionery|confectionery]]; the skill or work of a [[c/_confectioner|confectioner]].**
+- **A store where [[c/_confectionery|confectionery]] is sold; a [[c/_confectioner|confectioner]]'s shop.**
 ---
 ### Synonyms
-- [[manufacture]], [[[[c/_candy|candy]] store]], [[[[c/_confectioner|confectioner]]'s]], [[sweet shop]], [[[[c/_candy|candy]]]], [[sweets]]
+- [[manufacture]], [[candy store]], [[confectioner's]], [[sweet shop]], [[candy]], [[sweets]]
 ---

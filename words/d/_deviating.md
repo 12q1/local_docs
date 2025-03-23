@@ -1,10 +1,10 @@
 # Deviating
 ---
 #verb
-- **To go off course from; to change course; to change plans.**
+- **To go off [[c/_course|course]] from; to [[c/_change|change]] [[c/_course|course]]; to [[c/_change|change]] plans.**
 - **To fall outside of, or part from, some norm; to stray.**
 	- _Example: His exhibition of nude paintings deviated from the norm._
-- **To cause to diverge.**
+- **To [[c/_cause|cause]] to [[d/_diverge|diverge]].**
 ---
 ### Synonyms
 - [[swerve]], [[veer]], [[stray]], [[wander]]

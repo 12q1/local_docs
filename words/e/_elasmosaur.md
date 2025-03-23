@@ -1,6 +1,6 @@
 # Elasmosaur
 ---
 #noun
-- **Any plesiosaur of the genus Elasmosaurus.**
+- **[[a/_any|Any]] plesiosaur of the genus [[e/_elasmosaurus|Elasmosaurus]].**
 ---
 ---

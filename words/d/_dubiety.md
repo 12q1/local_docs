@@ -1,7 +1,7 @@
 # Dubiety
 ---
 #noun
-- **Doubtfulness.**
-- **A particular instance of doubt or uncertainty.**
+- **[[d/_doubtfulness|Doubtfulness]].**
+- **A particular instance of [[d/_doubt|doubt]] or uncertainty.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bossies
 ---
 #noun
-- **A cow or calf.**
+- **A [[c/_cow|cow]] or [[c/_calf|calf]].**
 ---
 ---

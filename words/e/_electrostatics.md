@@ -1,6 +1,6 @@
 # Electrostatics
 ---
 #noun
-- **The branch of physics that deals with static electricity; that is, with the force exerted by an unchanging electric field upon a charged object**
+- **The [[b/_branch|branch]] of physics that [[d/_deals|deals]] with static [[e/_electricity|electricity]]; that is, with the force exerted by an unchanging [[e/_electric|electric]] field upon a [[c/_charged|charged]] object**
 ---
 ---

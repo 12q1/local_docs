@@ -1,7 +1,7 @@
 # Commercialization
 ---
 #noun
-- **The act of commercializing.**
+- **The [[a/_act|act]] of [[c/_commercializing|commercializing]].**
 ---
 ### Synonyms
 - [[commodification]]

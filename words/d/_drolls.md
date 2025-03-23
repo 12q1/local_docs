@@ -1,6 +1,6 @@
 # Drolls
 ---
 #noun
-- **A funny person; a buffoon, a wag.**
+- **A funny person; a [[b/_buffoon|buffoon]], a wag.**
 ---
 ---

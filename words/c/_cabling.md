@@ -1,17 +1,17 @@
 # Cabling
 ---
 #verb
-- **To provide with cable(s)**
-- **To fasten (as if) with cable(s)**
-- **To wrap wires to form a cable**
-- **To send a telegram by cable**
-- **To communicate by cable**
-- **To ornament with cabling.**
-- **To create cable stitches.**
+- **To provide with [[c/_cable|cable]](s)**
+- **To fasten (as if) with [[c/_cable|cable]](s)**
+- **To wrap wires to form a [[c/_cable|cable]]**
+- **To send a telegram by [[c/_cable|cable]]**
+- **To [[c/_communicate|communicate]] by [[c/_cable|cable]]**
+- **To ornament with [[c/_cabling|cabling]].**
+- **To [[c/_create|create]] [[c/_cable|cable]] stitches.**
 ---
 #noun
-- **A collection of cables.**
+- **A [[c/_collection|collection]] of [[c/_cables|cables]].**
 	- _Example: We have to redo all this cabling for the network and this time remember which wire goes where._
-- **The decoration of a fluted shaft of a column or of a pilaster with reeds, or rounded mouldings, which seem to be laid in the hollows of the fluting.**
+- **The [[d/_decoration|decoration]] of a fluted shaft of a [[c/_column|column]] or of a pilaster with reeds, or rounded mouldings, which seem to be laid in the hollows of the fluting.**
 ---
 ---

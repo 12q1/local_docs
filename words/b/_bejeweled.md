@@ -1,9 +1,9 @@
 # Bejeweled
 ---
 #verb
-- **To decorate or bedeck with jewels or gems.**
+- **To [[d/_decorate|decorate]] or [[b/_bedeck|bedeck]] with jewels or gems.**
 ---
 #adjective
-- **Covered in jewels, especially as decoration**
+- **[[c/_covered|Covered]] in jewels, especially as [[d/_decoration|decoration]]**
 ---
 ---

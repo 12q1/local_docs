@@ -1,11 +1,11 @@
 # Aura
 ---
 #noun
-- **Distinctive atmosphere or quality associated with something.**
-- **An invisible force surrounding a living creature.**
-- **Perceptual disturbance experienced by some migraine sufferers before a migraine headache.**
-- **Telltale sensation experienced by some people with epilepsy before a seizure.**
+- **[[d/_distinctive|Distinctive]] [[a/_atmosphere|atmosphere]] or quality [[a/_associated|associated]] with something.**
+- **An invisible force surrounding a living [[c/_creature|creature]].**
+- **Perceptual [[d/_disturbance|disturbance]] experienced by some migraine sufferers [[b/_before|before]] a migraine headache.**
+- **Telltale sensation experienced by some people with [[e/_epilepsy|epilepsy]] [[b/_before|before]] a seizure.**
 ---
 ### Synonyms
-- [[[[a/_air|air]]]], [[feeling]], [[mood]], [[spirit]], [[vibe]]
+- [[air]], [[feeling]], [[mood]], [[spirit]], [[vibe]]
 ---

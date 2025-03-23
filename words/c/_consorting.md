@@ -1,9 +1,9 @@
 # Consorting
 ---
 #verb
-- **To associate or keep company (with).**
-- **To be in agreement.**
+- **To [[a/_associate|associate]] or keep [[c/_company|company]] (with).**
+- **To be in [[a/_agreement|agreement]].**
 ---
 ### Synonyms
-- [[hang out]], [[[[a/_associate|associate]]]], [[hang out]], [[[[a/_agree|agree]]]], [[[[c/_concur|concur]]]]
+- [[hang out]], [[associate]], [[hang out]], [[agree]], [[concur]]
 ---

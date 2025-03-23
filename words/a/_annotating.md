@@ -1,6 +1,6 @@
 # Annotating
 ---
 #verb
-- **To add annotation to.**
+- **To [[a/_add|add]] [[a/_annotation|annotation]] to.**
 ---
 ---

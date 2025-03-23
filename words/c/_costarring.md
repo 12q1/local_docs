@@ -1,7 +1,7 @@
 # Costarring
 ---
 #verb
-- **To perform with the billing of a costar.**
+- **To perform with the [[b/_billing|billing]] of a [[c/_costar|costar]].**
 	- _Example: People thought his career was over but now he will get to costar on Broadway next month._
 ---
 ---

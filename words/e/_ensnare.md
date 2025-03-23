@@ -1,7 +1,7 @@
 # Ensnare
 ---
 #verb
-- **To entrap; to catch in a snare or trap.**
-- **To entangle; to enmesh.**
+- **To [[e/_entrap|entrap]]; to [[c/_catch|catch]] in a snare or trap.**
+- **To [[e/_entangle|entangle]]; to [[e/_enmesh|enmesh]].**
 ---
 ---

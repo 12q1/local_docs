@@ -1,8 +1,8 @@
 # Distinctiveness
 ---
 #noun
-- **The quality of being distinctive, individual or discrete.**
-- **Something which distinguishes something from anything else.**
+- **The quality of [[b/_being|being]] [[d/_distinctive|distinctive]], individual or [[d/_discrete|discrete]].**
+- **Something which [[d/_distinguishes|distinguishes]] something from [[a/_anything|anything]] [[e/_else|else]].**
 ---
 ### Synonyms
 - [[uniqueness]]

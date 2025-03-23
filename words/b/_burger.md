@@ -2,6 +2,6 @@
 ---
 #noun
 - **A hamburger.**
-- **(chiefly as a combining form) A similar sandwich or patty.**
+- **([[c/_chiefly|chiefly]] as a [[c/_combining|combining]] form) A similar sandwich or patty.**
 ---
 ---

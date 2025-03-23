@@ -1,6 +1,6 @@
 # Downcut
 ---
 #verb
-- **Deepen by erosion.**
+- **[[d/_deepen|Deepen]] by erosion.**
 ---
 ---

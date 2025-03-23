@@ -1,6 +1,6 @@
 # Almsgiving
 ---
 #noun
-- **The act of voluntarily giving alms, of making donations to the poor, charity.**
+- **The [[a/_act|act]] of voluntarily giving [[a/_alms|alms]], of making [[d/_donations|donations]] to the poor, [[c/_charity|charity]].**
 ---
 ---

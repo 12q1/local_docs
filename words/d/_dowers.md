@@ -1,14 +1,14 @@
 # Dowers
 ---
 #noun
-- **The part of or interest in a deceased husband's property provided to his widow, usually in the form of a life estate.**
-- **Property given by a groom directly to his bride at or before their wedding in order to legitimize the marriage; dowry.**
-- **That with which one is gifted or endowed; endowment; gift.**
+- **The part of or interest in a [[d/_deceased|deceased]] husband's property provided to his widow, usually in the form of a life estate.**
+- **Property given by a groom [[d/_directly|directly]] to his [[b/_bride|bride]] at or [[b/_before|before]] their wedding in order to legitimize the marriage; [[d/_dowry|dowry]].**
+- **That with which one is gifted or [[e/_endowed|endowed]]; [[e/_endowment|endowment]]; gift.**
 ---
 ### Antonyms
-- [[[[c/_curtesy|curtesy]]]]
+- [[curtesy]]
 #verb
-- **To give a dower or dowry.**
-- **To endow.**
+- **To give a [[d/_dower|dower]] or [[d/_dowry|dowry]].**
+- **To [[e/_endow|endow]].**
 ---
 ---

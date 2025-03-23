@@ -1,15 +1,15 @@
 # Beforehand
 ---
 #adjective
-- **In comfortable circumstances as regards property; forehanded.**
-- **(often followed by with) In a state of anticipation or preoccupation.**
+- **In [[c/_comfortable|comfortable]] [[c/_circumstances|circumstances]] as regards property; forehanded.**
+- **(often followed by with) In a state of [[a/_anticipation|anticipation]] or preoccupation.**
 ---
 #adverb
-- **At an earlier or preceding time.**
+- **At an [[e/_earlier|earlier]] or preceding time.**
 	- _Example: Will it be possible to have access to the room beforehand so that we can set up chairs?_
 ---
 ### Synonyms
-- [[in [[a/_advance|advance]]]], [[upfront]]
+- [[in advance]], [[upfront]]
 ### Antonyms
-- [[[[a/_afterwards|afterwards]]]]
+- [[afterwards]]
 ---

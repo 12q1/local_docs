@@ -1,6 +1,6 @@
 # Efferents
 ---
 #noun
-- **A duct or stream that carries away.**
+- **A [[d/_duct|duct]] or stream that [[c/_carries|carries]] [[a/_away|away]].**
 ---
 ---

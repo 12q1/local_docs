@@ -1,7 +1,7 @@
 # Earnestly
 ---
 #adverb
-- **In an earnest manner; being very sincere; putting forth genuine effort.**
+- **In an [[e/_earnest|earnest]] manner; [[b/_being|being]] very sincere; putting forth genuine [[e/_effort|effort]].**
 ---
 ### Synonyms
 - [[for real]]

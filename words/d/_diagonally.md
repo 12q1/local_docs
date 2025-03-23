@@ -1,6 +1,6 @@
 # Diagonally
 ---
 #adverb
-- **In a diagonal manner, not square to any direction.**
+- **In a [[d/_diagonal|diagonal]] manner, not square to [[a/_any|any]] [[d/_direction|direction]].**
 ---
 ---

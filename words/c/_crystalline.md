@@ -1,14 +1,14 @@
 # Crystalline
 ---
 #noun
-- **Any crystalline substance.**
-- **Aniline**
+- **[[a/_any|Any]] [[c/_crystalline|crystalline]] substance.**
+- **[[a/_aniline|Aniline]]**
 ---
 #adjective
-- **Of, relating to, or composed of crystals.**
-- **Having a regular three-dimensional molecular structure.**
-- **Resembling crystal in being clear and transparent.**
+- **Of, relating to, or [[c/_composed|composed]] of [[c/_crystals|crystals]].**
+- **Having a regular three-[[d/_dimensional|dimensional]] molecular structure.**
+- **Resembling [[c/_crystal|crystal]] in [[b/_being|being]] [[c/_clear|clear]] and transparent.**
 ---
 ### Antonyms
-- [[[[a/_amorphous|amorphous]]]]
+- [[amorphous]]
 ---

@@ -1,8 +1,8 @@
 # Deuteragonist
 ---
 #noun
-- **A secondary character; specifically, the second most important character (after the protagonist).**
-- **(ancient Greek drama) An actor playing a role (potentially all roles) requiring a second actor to be present on the stage, opposite the protagonist.**
+- **A secondary [[c/_character|character]]; specifically, the second most important [[c/_character|character]] ([[a/_after|after]] the protagonist).**
+- **([[a/_ancient|ancient]] Greek [[d/_drama|drama]]) An [[a/_actor|actor]] playing a role (potentially [[a/_all|all]] roles) requiring a second [[a/_actor|actor]] to be present on the stage, opposite the protagonist.**
 ---
 ### Synonyms
 - [[sidekick]]

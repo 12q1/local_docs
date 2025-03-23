@@ -1,12 +1,12 @@
 # Analyzed
 ---
 #verb
-- **To subject to analysis.**
-- **To resolve (anything complex) into its elements.**
-- **To separate into the constituent parts, for the purpose of an examination of each separately.**
-- **To examine in such a manner as to ascertain the elements or nature of the thing examined; as, to analyze a fossil substance, to analyze a sentence or a word, or to analyze an action to ascertain its morality.**
+- **To subject to [[a/_analysis|analysis]].**
+- **To resolve ([[a/_anything|anything]] [[c/_complex|complex]]) into its [[e/_elements|elements]].**
+- **To separate into the [[c/_constituent|constituent]] parts, for the purpose of an examination of [[e/_each|each]] separately.**
+- **To examine in such a manner as to [[a/_ascertain|ascertain]] the [[e/_elements|elements]] or nature of the thing examined; as, to [[a/_analyze|analyze]] a fossil substance, to [[a/_analyze|analyze]] a sentence or a word, or to [[a/_analyze|analyze]] an [[a/_action|action]] to [[a/_ascertain|ascertain]] its morality.**
 ---
 #adjective
-- **Having been subject to analysis; examined closely, carefully considered.**
+- **Having [[b/_been|been]] subject to [[a/_analysis|analysis]]; examined [[c/_closely|closely]], [[c/_carefully|carefully]] [[c/_considered|considered]].**
 ---
 ---

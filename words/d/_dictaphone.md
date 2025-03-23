@@ -1,6 +1,6 @@
 # Dictaphone
 ---
 #noun
-- **A dictation machine.**
+- **A [[d/_dictation|dictation]] machine.**
 ---
 ---

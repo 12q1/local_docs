@@ -1,6 +1,6 @@
 # Carborundum
 ---
 #noun
-- **Crystals of silicon carbide used as an abrasive.**
+- **[[c/_crystals|Crystals]] of silicon [[c/_carbide|carbide]] used as an [[a/_abrasive|abrasive]].**
 ---
 ---

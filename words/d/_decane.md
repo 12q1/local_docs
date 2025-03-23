@@ -1,6 +1,6 @@
 # Decane
 ---
 #noun
-- **Any of the seventy-five isomers of the aliphatic hydrocarbon having the chemical formula C10H22**
+- **[[a/_any|Any]] of the seventy-five isomers of the [[a/_aliphatic|aliphatic]] hydrocarbon having the [[c/_chemical|chemical]] formula C10H22**
 ---
 ---

@@ -1,10 +1,10 @@
 # Debases
 ---
 #verb
-- **To lower in character, quality, or value; to degrade.**
+- **To lower in [[c/_character|character]], quality, or value; to [[d/_degrade|degrade]].**
 - **To lower in position or rank.**
-- **To lower the value of (a currency) by reducing the amount of valuable metal in the coins.**
+- **To lower the value of (a [[c/_currency|currency]]) by reducing the [[a/_amount|amount]] of valuable metal in the [[c/_coins|coins]].**
 ---
 ### Synonyms
-- [[[[a/_abase|abase]]]], [[[[a/_adulterate|adulterate]]]], [[[[d/_degrade|degrade]]]], [[[[d/_demean|demean]]]]
+- [[abase]], [[adulterate]], [[degrade]], [[demean]]
 ---

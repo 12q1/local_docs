@@ -1,10 +1,10 @@
 # Ensuite
 ---
 #noun
-- **A private bathroom connected to a bedroom, as in an apartment or hotel room.**
+- **A private [[b/_bathroom|bathroom]] [[c/_connected|connected]] to a [[b/_bedroom|bedroom]], as in an [[a/_apartment|apartment]] or hotel room.**
 ---
 #adjective
-- **(of a bathroom etc.) Connected to a bedroom.**
+- **(of a [[b/_bathroom|bathroom]] etc.) [[c/_connected|Connected]] to a [[b/_bedroom|bedroom]].**
 - **As part of a series.**
 ---
 ---

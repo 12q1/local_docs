@@ -1,10 +1,10 @@
 # Desalts
 ---
 #verb
-- **To remove salt from; to desalinate.**
+- **To remove salt from; to [[d/_desalinate|desalinate]].**
 ---
 ### Synonyms
-- [[[[d/_desalinate|desalinate]]]], [[desalinise]], [[[[d/_desalinize|desalinize]]]]
+- [[desalinate]], [[desalinise]], [[desalinize]]
 ### Antonyms
 - [[salinate]], [[salt]]
 ---

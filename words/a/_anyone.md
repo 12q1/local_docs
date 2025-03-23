@@ -1,9 +1,9 @@
 # Anyone
 ---
 #pronoun
-- **Any person; anybody.**
+- **[[a/_any|Any]] person; [[a/_anybody|anybody]].**
 	- _Example: Almost anyone can change a light bulb._
 ---
 ### Synonyms
-- [[[[a/_anybody|anybody]]]]
+- [[anybody]]
 ---

@@ -1,12 +1,12 @@
 # Detergent
 ---
 #adjective
-- **That cleanses.**
+- **That [[c/_cleanses|cleanses]].**
 	- _Example: Apply the cleansing cream to your skin._
 ---
 ### Synonyms
-- [[[[d/_detergent|detergent]]]], [[smectic]]
+- [[detergent]], [[smectic]]
 #noun
-- **Any non-soap cleaning agent, especially a synthetic surfactant.**
+- **[[a/_any|Any]] non-soap [[c/_cleaning|cleaning]] [[a/_agent|agent]], especially a synthetic surfactant.**
 ---
 ---

@@ -2,6 +2,6 @@
 ---
 #noun
 - **An explosion, or violent outburst**
-- **An enlargement**
+- **An [[e/_enlargement|enlargement]]**
 ---
 ---

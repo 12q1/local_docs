@@ -1,17 +1,17 @@
 # Decimals
 ---
 #noun
-- **A number expressed in the base-ten system, a fractional numeral written in this system.**
-- **The decimal system itself.**
-- **A decimal place.**
+- **A number expressed in the [[b/_base|base]]-ten system, a fractional numeral written in this system.**
+- **The [[d/_decimal|decimal]] system itself.**
+- **A [[d/_decimal|decimal]] place.**
 	- _Example: Pi has a value of 3.142, to three decimals._
-- **A decimal point.**
+- **A [[d/_decimal|decimal]] point.**
 ---
 ### Synonyms
-- [[[[d/_decimal|decimal]] number]], [[[[d/_decimal|decimal]] place]], [[[[d/_decimal|decimal]] system]]
+- [[decimal number]], [[decimal place]], [[decimal system]]
 ### Antonyms
 - [[fraction]]
 #verb
-- **To represent with numbers after a decimal point**
+- **To represent with numbers [[a/_after|after]] a [[d/_decimal|decimal]] point**
 ---
 ---

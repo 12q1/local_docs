@@ -1,6 +1,6 @@
 # Enkindles
 ---
 #verb
-- **To kindle; to arouse or evoke.**
+- **To kindle; to [[a/_arouse|arouse]] or evoke.**
 ---
 ---

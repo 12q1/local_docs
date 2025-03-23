@@ -1,7 +1,7 @@
 # Egyptology
 ---
 #noun
-- **The study of ancient Egypt.**
-- **A work concerning ancient Egypt.**
+- **The study of [[a/_ancient|ancient]] [[e/_egypt|Egypt]].**
+- **A work [[c/_concerning|concerning]] [[a/_ancient|ancient]] [[e/_egypt|Egypt]].**
 ---
 ---

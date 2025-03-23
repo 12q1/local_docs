@@ -1,11 +1,11 @@
 # Bedewed
 ---
 #verb
-- **To make wet with or as if with dew.**
+- **To make wet with or as if with [[d/_dew|dew]].**
 ---
 #adjective
-- **Covered with or as if with dew.**
+- **[[c/_covered|Covered]] with or as if with [[d/_dew|dew]].**
 ---
 ### Synonyms
-- [[[[d/_dewy|dewy]]]], [[rorid]]
+- [[dewy]], [[rorid]]
 ---

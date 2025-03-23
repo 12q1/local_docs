@@ -1,6 +1,6 @@
 # Amphiboles
 ---
 #noun
-- **Any of a large group of structurally similar hydrated double silicate minerals, containing various combinations of sodium, calcium, magnesium, iron, and aluminium/aluminum**
+- **[[a/_any|Any]] of a large group of structurally similar hydrated [[d/_double|double]] silicate minerals, [[c/_containing|containing]] various [[c/_combinations|combinations]] of sodium, [[c/_calcium|calcium]], magnesium, iron, and [[a/_aluminium|aluminium]]/[[a/_aluminum|aluminum]]**
 ---
 ---

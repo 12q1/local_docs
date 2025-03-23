@@ -1,10 +1,10 @@
 # Chestier
 ---
 #adjective
-- **(of a woman) Having large breasts; busty.**
-- **(of a cough or cold) Not dry; involving the coughing of phlegm.**
+- **(of a woman) Having large [[b/_breasts|breasts]]; [[b/_busty|busty]].**
+- **(of a [[c/_cough|cough]] or [[c/_cold|cold]]) Not [[d/_dry|dry]]; involving the [[c/_coughing|coughing]] of phlegm.**
 	- _Example: a chesty cough; a chesty cold_
-- **Coming from, or associated with, the chest.**
+- **[[c/_coming|Coming]] from, or [[a/_associated|associated]] with, the [[c/_chest|chest]].**
 	- _Example: a deep chesty voice_
 ---
 ---

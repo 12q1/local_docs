@@ -1,7 +1,7 @@
 # Atonal
 ---
 #adjective
-- **Lacking a tonal center or key.**
+- **Lacking a tonal [[c/_center|center]] or key.**
 - **Not tonal, lacking tones.**
 ---
 ---

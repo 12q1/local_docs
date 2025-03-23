@@ -1,6 +1,6 @@
 # Drugger
 ---
 #noun
-- **A druggist.**
+- **A [[d/_druggist|druggist]].**
 ---
 ---

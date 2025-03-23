@@ -1,27 +1,27 @@
 # Awaken
 ---
 #verb
-- **To become conscious after having slept.**
-- **To cause (somebody) to stop sleeping.**
+- **To [[b/_become|become]] [[c/_conscious|conscious]] [[a/_after|after]] having slept.**
+- **To [[c/_cause|cause]] (somebody) to stop sleeping.**
 - **To excite or to stir up something latent.**
-- **To rouse from a state of inaction or dormancy.**
-- **To come out of a state of inaction or dormancy.**
+- **To rouse from a state of inaction or [[d/_dormancy|dormancy]].**
+- **To [[c/_come|come]] out of a state of inaction or [[d/_dormancy|dormancy]].**
 ---
 ### Synonyms
-- [[[[a/_awaken|awaken]]]], [[wake up]], [[[[b/_bring|bring]] round]], [[[[c/_cry|cry]]]], [[wake up]]
+- [[awaken]], [[wake up]], [[bring round]], [[cry]], [[wake up]]
 ### Antonyms
-- [[fall [[a/_asleep|asleep]]]], [[put to sleep]]
+- [[fall asleep]], [[put to sleep]]
 #verb
-- **To cause to become awake.**
+- **To [[c/_cause|cause]] to [[b/_become|become]] [[a/_awake|awake]].**
 	- _Example: She awakened him by ringing the bell._
-- **To stop sleeping; awake.**
+- **To stop sleeping; [[a/_awake|awake]].**
 	- _Example: Each morning he awakens with a smile on his face._
-- **To bring into action (something previously dormant); to stimulate.**
+- **To [[b/_bring|bring]] into [[a/_action|action]] (something previously [[d/_dormant|dormant]]); to stimulate.**
 	- _Example: Awaken your entrepreneurial spirit!_
-- **To call to a sense of sin.**
+- **To [[c/_call|call]] to a sense of sin.**
 ---
 ### Synonyms
-- [[[[a/_awake|awake]]]], [[stir]], [[[[a/_animate|animate]]]], [[[[e/_energize|energize]]]], [[knock up]], [[uprouse]]
+- [[awake]], [[stir]], [[animate]], [[energize]], [[knock up]], [[uprouse]]
 ### Antonyms
-- [[fall [[a/_asleep|asleep]]]]
+- [[fall asleep]]
 ---

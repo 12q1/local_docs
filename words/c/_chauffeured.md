@@ -1,9 +1,9 @@
 # Chauffeured
 ---
 #verb
-- **To be, or act as, a chauffeur (driver of a motor car).**
+- **To be, or [[a/_act|act]] as, a [[c/_chauffeur|chauffeur]] ([[d/_driver|driver]] of a motor [[c/_car|car]]).**
 - **To transport (someone) in a motor vehicle.**
 ---
 ### Synonyms
-- [[[[b/_bring|bring]]]], [[shuttle]], [[transport]]
+- [[bring]], [[shuttle]], [[transport]]
 ---

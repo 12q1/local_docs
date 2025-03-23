@@ -1,7 +1,7 @@
 # Amanuenses
 ---
 #noun
-- **One employed to take dictation, or copy manuscripts.**
-- **A clerk, secretary or stenographer, or scribe.**
+- **One [[e/_employed|employed]] to take [[d/_dictation|dictation]], or [[c/_copy|copy]] manuscripts.**
+- **A [[c/_clerk|clerk]], secretary or stenographer, or scribe.**
 ---
 ---

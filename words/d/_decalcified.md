@@ -1,9 +1,9 @@
 # Decalcified
 ---
 #adjective
-- **From which calcareous matter has been removed.**
+- **From which [[c/_calcareous|calcareous]] matter has [[b/_been|been]] removed.**
 ---
 #verb
-- **To deprive of calcareous matter.**
+- **To [[d/_deprive|deprive]] of [[c/_calcareous|calcareous]] matter.**
 ---
 ---

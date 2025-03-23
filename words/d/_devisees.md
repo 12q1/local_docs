@@ -1,7 +1,7 @@
 # Devisees
 ---
 #noun
-- **The person or entity to whom property is devised in a will.**
+- **The person or [[e/_entity|entity]] to whom property is [[d/_devised|devised]] in a will.**
 ---
 ### Synonyms
 - [[legatee]]

@@ -1,6 +1,6 @@
 # Communitarianism
 ---
 #noun
-- **The group of doctrines that oppose excessive individualism in favour of a more community-based approach**
+- **The group of [[d/_doctrines|doctrines]] that oppose excessive individualism in favour of a more [[c/_community|community]]-[[b/_based|based]] [[a/_approach|approach]]**
 ---
 ---

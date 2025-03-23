@@ -1,8 +1,8 @@
 # Bolognas
 ---
 #noun
-- **A seasoned Italian sausage made from beef, pork or veal.**
+- **A seasoned Italian sausage made from [[b/_beef|beef]], pork or veal.**
 ---
 ### Synonyms
-- [[[[b/_bologna|Bologna]] sausage]], [[mortadella]]
+- [[Bologna sausage]], [[mortadella]]
 ---

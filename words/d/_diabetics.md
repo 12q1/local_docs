@@ -1,6 +1,6 @@
 # Diabetics
 ---
 #noun
-- **A person who suffers from diabetes mellitus.**
+- **A person who suffers from [[d/_diabetes|diabetes]] mellitus.**
 ---
 ---

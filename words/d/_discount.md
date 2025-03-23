@@ -3,24 +3,24 @@
 #noun
 - **A reduction in price.**
 	- _Example: This store offers discounts on all its wares. That store specializes in discount wares, too._
-- **A deduction made for interest, in advancing money upon, or purchasing, a bill or note not due; payment in advance of interest upon money.**
-- **The rate of interest charged in discounting.**
-- **(transactional analysis) The act of one who believes, or act as though they believe, that their own feelings are more important than the reality of a situation.**
+- **A [[d/_deduction|deduction]] made for interest, in [[a/_advancing|advancing]] money upon, or purchasing, a [[b/_bill|bill]] or note not [[d/_due|due]]; payment in [[a/_advance|advance]] of interest upon money.**
+- **The rate of interest [[c/_charged|charged]] in [[d/_discounting|discounting]].**
+- **(transactional [[a/_analysis|analysis]]) The [[a/_act|act]] of one who [[b/_believes|believes]], or [[a/_act|act]] as though they [[b/_believe|believe]], that their own feelings are more important than the reality of a situation.**
 ---
 ### Synonyms
 - [[rebate]], [[reduction]]
 ### Antonyms
 - [[surcharge]]
 #verb
-- **To deduct from an account, debt, charge, and the like.**
+- **To [[d/_deduct|deduct]] from an [[a/_account|account]], [[d/_debt|debt]], [[c/_charge|charge]], and the like.**
 	- _Example: Merchants sometimes discount five or six per cent for prompt payment of bills._
-- **To lend money upon, deducting the discount or allowance for interest**
+- **To lend money upon, [[d/_deducting|deducting]] the [[d/_discount|discount]] or [[a/_allowance|allowance]] for interest**
 	- _Example: the banks discount notes and bills of exchange_
-- **To take into consideration beforehand; to anticipate and form conclusions concerning (an event).**
-- **To leave out of account or regard as unimportant.**
+- **To take into [[c/_consideration|consideration]] [[b/_beforehand|beforehand]]; to [[a/_anticipate|anticipate]] and form [[c/_conclusions|conclusions]] [[c/_concerning|concerning]] (an event).**
+- **To leave out of [[a/_account|account]] or regard as unimportant.**
 	- _Example: They discounted his comments._
-- **To lend, or make a practice of lending, money, abating the discount**
-- **(transactional analysis) To believe, or act as though one believes, that one's own feelings are more important than the reality of a situation.**
+- **To lend, or make a practice of lending, money, [[a/_abating|abating]] the [[d/_discount|discount]]**
+- **(transactional [[a/_analysis|analysis]]) To [[b/_believe|believe]], or [[a/_act|act]] as though one [[b/_believes|believes]], that one's own feelings are more important than the reality of a situation.**
 ---
 #adjective
 - **(of a store) Specializing in selling goods at reduced prices.**

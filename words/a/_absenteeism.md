@@ -1,7 +1,7 @@
 # Absenteeism
 ---
 #noun
-- **The state of being absent, especially frequently or without good reason; the practice of an absentee.**
-- **The practice of absenting oneself from the country or district where one's estate is situated.**
+- **The state of [[b/_being|being]] [[a/_absent|absent]], especially frequently or without good reason; the practice of an [[a/_absentee|absentee]].**
+- **The practice of [[a/_absenting|absenting]] oneself from the [[c/_country|country]] or [[d/_district|district]] where one's estate is situated.**
 ---
 ---

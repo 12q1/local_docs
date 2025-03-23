@@ -1,6 +1,6 @@
 # Bifid
 ---
 #adjective
-- **Cleft; divided into two lobes.**
+- **[[c/_cleft|Cleft]]; [[d/_divided|divided]] into two lobes.**
 ---
 ---

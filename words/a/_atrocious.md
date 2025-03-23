@@ -1,10 +1,10 @@
 # Atrocious
 ---
 #adjective
-- **Frightful, evil, cruel, or monstrous.**
+- **Frightful, evil, [[c/_cruel|cruel]], or monstrous.**
 	- _Example: Prisons have been the sites of atrocious mistreatment of prisoners._
 - **Offensive or heinous.**
-- **Very bad; abominable, disgusting.**
+- **Very [[b/_bad|bad]]; [[a/_abominable|abominable]], [[d/_disgusting|disgusting]].**
 	- _Example: Their taste in clothes is just atrocious._
 ---
 ---

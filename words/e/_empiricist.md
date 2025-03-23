@@ -1,6 +1,6 @@
 # Empiricist
 ---
 #noun
-- **An advocate or supporter of empiricism**
+- **An [[a/_advocate|advocate]] or supporter of [[e/_empiricism|empiricism]]**
 ---
 ---

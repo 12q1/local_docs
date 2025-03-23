@@ -1,13 +1,13 @@
 # Dynamite
 ---
 #noun
-- **A class of explosives made from nitroglycerine in an absorbent medium such as kieselguhr, used in mining and blasting; invented by Alfred Nobel in 1867.**
+- **A [[c/_class|class]] of explosives made from nitroglycerine in an [[a/_absorbent|absorbent]] medium such as kieselguhr, used in mining and [[b/_blasting|blasting]]; invented by [[a/_alfred|Alfred]] Nobel in 1867.**
 - **A stick of trinitrotoluene (TNT)**
-- **Anything exceptionally dangerous, exciting or wonderful.**
+- **[[a/_anything|Anything]] exceptionally [[d/_dangerous|dangerous]], exciting or wonderful.**
 ---
 ### Synonyms
 - [[nitro]]
 #verb
-- **To blow up with dynamite or other high explosive.**
+- **To [[b/_blow|blow]] up with [[d/_dynamite|dynamite]] or other high explosive.**
 ---
 ---

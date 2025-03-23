@@ -5,6 +5,6 @@
 - **(by extension) To isolate.**
 ---
 #adjective
-- **Placed alone or apart, as if on an island.**
+- **Placed [[a/_alone|alone]] or [[a/_apart|apart]], as if on an island.**
 ---
 ---

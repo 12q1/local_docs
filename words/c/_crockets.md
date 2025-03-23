@@ -1,6 +1,6 @@
 # Crockets
 ---
 #noun
-- **Any of a series of hook-shaped decorative floral elements used in Gothic architecture.**
+- **[[a/_any|Any]] of a series of hook-shaped [[d/_decorative|decorative]] floral [[e/_elements|elements]] used in Gothic [[a/_architecture|architecture]].**
 ---
 ---

@@ -1,29 +1,29 @@
 # Charm
 ---
 #noun
-- **An object, act or words believed to have magic power (usually carries a positive connotation).**
+- **An object, [[a/_act|act]] or words [[b/_believed|believed]] to have magic power (usually [[c/_carries|carries]] a positive [[c/_connotation|connotation]]).**
 	- _Example: It works like a charm._
-- **The ability to persuade, delight or arouse admiration; often constructed in the plural.**
+- **The [[a/_ability|ability]] to persuade, [[d/_delight|delight]] or [[a/_arouse|arouse]] [[a/_admiration|admiration]]; often [[c/_constructed|constructed]] in the plural.**
 	- _Example: He had great personal charm._
-- **A small trinket on a bracelet or chain, etc., traditionally supposed to confer luck upon the wearer.**
+- **A small trinket on a [[b/_bracelet|bracelet]] or [[c/_chain|chain]], etc., traditionally supposed to [[c/_confer|confer]] luck upon the wearer.**
 	- _Example: She wears a charm bracelet on her wrist._
-- **A quantum number of hadrons determined by the number of charm quarks and antiquarks.**
-- **A second-order measure of derivative price sensitivity, expressed as the instantaneous rate of change of delta with respect to time.**
+- **A quantum number of hadrons [[d/_determined|determined]] by the number of [[c/_charm|charm]] quarks and antiquarks.**
+- **A second-order measure of [[d/_derivative|derivative]] price sensitivity, expressed as the instantaneous rate of [[c/_change|change]] of [[d/_delta|delta]] with respect to time.**
 ---
 ### Synonyms
-- [[DdeltaDtime]], [[[[d/_delta|delta]] [[d/_decay|decay]]]], [[[[a/_appeal|appeal]]]], [[[[a/_attraction|attraction]]]], [[[[c/_charisma|charisma]]]], [[[[a/_amulet|amulet]]]], [[incantation]], [[spell]], [[talisman]], [[[[a/_amulet|amulet]]]], [[[[d/_dangle|dangle]]]], [[ornament]]
+- [[DdeltaDtime]], [[delta decay]], [[appeal]], [[attraction]], [[charisma]], [[amulet]], [[incantation]], [[spell]], [[talisman]], [[amulet]], [[dangle]], [[ornament]]
 ### Antonyms
-- [[[[b/_boredom|boredom]]]], [[[[d/_dryness|dryness]]]]
+- [[boredom]], [[dryness]]
 #verb
 - **To seduce, persuade or fascinate someone or something.**
 	- _Example: He charmed her with his dashing tales of his days as a sailor._
-- **To use a magical charm upon; to subdue, control, or summon by incantation or supernatural influence.**
+- **To use a magical [[c/_charm|charm]] upon; to subdue, [[c/_control|control]], or summon by incantation or supernatural influence.**
 	- _Example: After winning three games while wearing the chain, Dan began to think it had been charmed._
-- **To protect with, or make invulnerable by, spells, charms, or supernatural influences.**
+- **To protect with, or make invulnerable by, spells, [[c/_charms|charms]], or supernatural influences.**
 	- _Example: She led a charmed life._
 - **To make music upon.**
-- **To subdue or overcome by some secret power, or by that which gives pleasure; to allay; to soothe.**
+- **To subdue or overcome by some secret power, or by that which gives pleasure; to [[a/_allay|allay]]; to soothe.**
 ---
 ### Synonyms
-- [[[[d/_delight|delight]]]], [[[[e/_enchant|enchant]]]], [[entrance]], [[[[b/_bewitch|bewitch]]]], [[[[e/_enchant|enchant]]]], [[[[e/_ensorcel|ensorcel]]]], [[[[e/_enspell|enspell]]]]
+- [[delight]], [[enchant]], [[entrance]], [[bewitch]], [[enchant]], [[ensorcel]], [[enspell]]
 ---

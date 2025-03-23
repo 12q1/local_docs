@@ -1,13 +1,13 @@
 # Careful
 ---
 #adjective
-- **Taking care; attentive to potential danger, error or harm; cautious.**
+- **Taking [[c/_care|care]]; [[a/_attentive|attentive]] to potential [[d/_danger|danger]], error or harm; [[c/_cautious|cautious]].**
 	- _Example: He was a slow and careful driver._
-- **Conscientious and painstaking; meticulous.**
+- **[[c/_conscientious|Conscientious]] and painstaking; meticulous.**
 	- _Example: They made a careful search of the crime scene._
-- **Full of care or grief; sorrowful, sad.**
-- **Full of cares or anxiety; worried, troubled.**
+- **Full of [[c/_care|care]] or grief; sorrowful, sad.**
+- **Full of [[c/_cares|cares]] or [[a/_anxiety|anxiety]]; worried, troubled.**
 ---
 ### Antonyms
-- [[[[c/_careless|careless]]]]
+- [[careless]]
 ---

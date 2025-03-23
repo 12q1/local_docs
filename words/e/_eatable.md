@@ -1,15 +1,15 @@
 # Eatable
 ---
 #noun
-- **(chiefly in the plural) Anything edible; food.**
+- **([[c/_chiefly|chiefly]] in the plural) [[a/_anything|Anything]] [[e/_edible|edible]]; food.**
 ---
 ### Synonyms
-- [[[[c/_comestible|comestible]]]], [[[[e/_edible|edible]]]]
+- [[comestible]], [[edible]]
 #adjective
-- **Able to be eaten; edible.**
+- **[[a/_able|Able]] to be [[e/_eaten|eaten]]; [[e/_edible|edible]].**
 ---
 ### Synonyms
-- [[[[c/_comestible|comestible]]]], [[[[e/_edible|edible]]]]
+- [[comestible]], [[edible]]
 ### Antonyms
 - [[uneatable]]
 ---

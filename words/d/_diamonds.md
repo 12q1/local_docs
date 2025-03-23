@@ -1,31 +1,31 @@
 # Diamonds
 ---
 #noun
-- **A glimmering glass-like mineral that is an allotrope of carbon in which each atom is surrounded by four others in the form of a tetrahedron.**
+- **A glimmering glass-like mineral that is an [[a/_allotrope|allotrope]] of [[c/_carbon|carbon]] in which [[e/_each|each]] [[a/_atom|atom]] is surrounded by four others in the form of a tetrahedron.**
 	- _Example: The saw is coated with diamond._
 - **A gemstone made from this mineral.**
 	- _Example: The dozen loose diamonds sparkled in the light._
-- **A ring containing a diamond.**
+- **A ring [[c/_containing|containing]] a [[d/_diamond|diamond]].**
 	- _Example: What a beautiful engagement diamond._
-- **A very pale blue color/colour.**
-- **Something that resembles a diamond.**
-- **A rhombus, especially when oriented so that its longer axis is vertical.**
+- **A very pale [[b/_blue|blue]] [[c/_color|color]]/[[c/_colour|colour]].**
+- **Something that resembles a [[d/_diamond|diamond]].**
+- **A rhombus, especially when oriented so that its longer [[a/_axis|axis]] is vertical.**
 - **The polyiamond made up of two triangles.**
-- **The entire field of play used in the game.**
-- **The infield of a baseball field.**
+- **The [[e/_entire|entire]] field of play used in the game.**
+- **The infield of a [[b/_baseball|baseball]] field.**
 	- _Example: The teams met on the diamond._
-- **A card of the diamonds suit.**
+- **A [[c/_card|card]] of the [[d/_diamonds|diamonds]] suit.**
 	- _Example: I have only one diamond in my hand._
 - **A size of type, standardised as 4 1/2 point.**
 ---
 ### Synonyms
-- [[[[b/_ball|ball]] field]], [[[[b/_baseball|baseball]] field]], [[[[b/_baseball|baseball]] [[d/_diamond|diamond]]]], [[infield]], [[sparkler]], [[2-iamond]], [[lozenge]], [[rhomb]], [[rhombus]], [[[[d/_diamond|diamond]] ring]], [[[[a/_adamant|adamant]]]]
+- [[ball field]], [[baseball field]], [[baseball diamond]], [[infield]], [[sparkler]], [[2-iamond]], [[lozenge]], [[rhomb]], [[rhombus]], [[diamond ring]], [[adamant]]
 ### Antonyms
 - [[outfield]]
 #verb
-- **To adorn with or as if with diamonds**
+- **To [[a/_adorn|adorn]] with or as if with [[d/_diamonds|diamonds]]**
 ---
 #noun
-- **One of the four suits of playing cards, marked with the symbol ♦.**
+- **One of the four suits of playing [[c/_cards|cards]], marked with the symbol ♦.**
 ---
 ---

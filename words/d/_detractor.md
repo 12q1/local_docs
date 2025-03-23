@@ -1,10 +1,10 @@
 # Detractor
 ---
 #noun
-- **A person who belittles the worth of another person or cause.**
+- **A person who [[b/_belittles|belittles]] the worth of [[a/_another|another]] person or [[c/_cause|cause]].**
 ---
 ### Synonyms
-- [[[[c/_cynic|cynic]]]], [[[[d/_defamer|defamer]]]], [[libeler]], [[mudslinger]], [[slanderer]]
+- [[cynic]], [[defamer]], [[libeler]], [[mudslinger]], [[slanderer]]
 ### Antonyms
 - [[proponent]], [[supporter]]
 ---

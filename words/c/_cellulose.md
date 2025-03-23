@@ -1,12 +1,12 @@
 # Cellulose
 ---
 #noun
-- **A complex carbohydrate that forms the main constituent of the cell wall in most plants and is important in the manufacture of numerous products, such as paper, textiles, pharmaceuticals, and explosives.**
-- **A polysaccharide containing many glucose units in parallel chains.**
+- **A [[c/_complex|complex]] [[c/_carbohydrate|carbohydrate]] that forms the main [[c/_constituent|constituent]] of the [[c/_cell|cell]] wall in most plants and is important in the manufacture of numerous products, such as paper, textiles, pharmaceuticals, and explosives.**
+- **A polysaccharide [[c/_containing|containing]] many glucose units in parallel [[c/_chains|chains]].**
 ---
 ### Synonyms
-- [[E460]], [[[[e/_emulsifier|emulsifier]]]]
+- [[E460]], [[emulsifier]]
 #adjective
-- **Consisting of, or containing, cells.**
+- **[[c/_consisting|Consisting]] of, or [[c/_containing|containing]], [[c/_cells|cells]].**
 ---
 ---

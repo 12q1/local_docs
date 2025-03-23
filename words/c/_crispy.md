@@ -1,10 +1,10 @@
 # Crispy
 ---
 #noun
-- **The well-baked fat on the surface of a piece of roasted meat.**
+- **The well-[[b/_baked|baked]] fat on the surface of a piece of roasted meat.**
 ---
 #adjective
-- **Having a crisp texture; brittle yet tender.**
+- **Having a [[c/_crisp|crisp]] texture; [[b/_brittle|brittle]] yet tender.**
 	- _Example: Baked rolls should be crispy._
 ---
 ---

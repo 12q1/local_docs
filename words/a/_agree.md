@@ -1,22 +1,22 @@
 # Agree
 ---
 #verb
-- **To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.**
+- **To harmonize in opinion, statement, or [[a/_action|action]]; to be in unison or [[c/_concord|concord]]; to be or [[b/_become|become]] united or [[c/_consistent|consistent]]; to [[c/_concur|concur]].**
 	- _Example: all parties agree in the expediency of the law._
-- **To yield assent; to accede;—followed by to.**
+- **To yield [[a/_assent|assent]]; to [[a/_accede|accede]];—followed by to.**
 	- _Example: to agree to an offer, or to opinion._
-- **To yield assent to; to approve.**
-- **To make a stipulation by way of settling differences or determining a price; to exchange promises; to come to terms or to a common resolve; to promise.**
-- **To be conformable; to resemble; to coincide; to correspond.**
+- **To yield [[a/_assent|assent]] to; to [[a/_approve|approve]].**
+- **To make a stipulation by way of settling [[d/_differences|differences]] or [[d/_determining|determining]] a price; to exchange promises; to [[c/_come|come]] to terms or to a [[c/_common|common]] resolve; to promise.**
+- **To be [[c/_conformable|conformable]]; to resemble; to [[c/_coincide|coincide]]; to [[c/_correspond|correspond]].**
 	- _Example: the picture does not agree with the original; the two scales agree exactly._
-- **(now always with with) To suit or be adapted in its effects; to do well.**
+- **(now [[a/_always|always]] with with) To suit or be [[a/_adapted|adapted]] in its [[e/_effects|effects]]; to [[d/_do|do]] well.**
 	- _Example: the same food does not agree with every constitution._
-- **(grammar) To correspond to (another word) in a grammatical category, such as gender, number, case, or person.**
+- **(grammar) To [[c/_correspond|correspond]] to ([[a/_another|another]] word) in a grammatical [[c/_category|category]], such as gender, number, [[c/_case|case]], or person.**
 	- _Example: In Romanian, the articles, adjectives, pronouns agree in gender, number and case with the noun they refer to._
-- **To consent to a contract or to an element of a contract.**
+- **To [[c/_consent|consent]] to a [[c/_contract|contract]] or to an [[e/_element|element]] of a [[c/_contract|contract]].**
 ---
 ### Synonyms
-- [[[[c/_coincide|coincide]]]], [[[[c/_correspond|correspond]]]], [[match]], [[resemble]], [[[[b/_bargain|bargain]]]], [[[[d/_deal|deal]]]], [[[[e/_engage|engage]]]], [[fit]], [[suit]], [[[[c/_concur|concur]]]], [[harmonize]], [[[[a/_accede|accede]]]], [[[[c/_come|come]] [[a/_around|around]]]], [[give way]], [[[[a/_approve|approve]]]], [[set]]
+- [[coincide]], [[correspond]], [[match]], [[resemble]], [[bargain]], [[deal]], [[engage]], [[fit]], [[suit]], [[concur]], [[harmonize]], [[accede]], [[come around]], [[give way]], [[approve]], [[set]]
 ### Antonyms
-- [[[[d/_disagree|disagree]]]]
+- [[disagree]]
 ---

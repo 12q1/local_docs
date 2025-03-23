@@ -1,6 +1,6 @@
 # Astrochemistry
 ---
 #noun
-- **The study of the chemical composition of stars and outer space**
+- **The study of the [[c/_chemical|chemical]] [[c/_composition|composition]] of stars and outer space**
 ---
 ---

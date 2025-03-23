@@ -1,8 +1,8 @@
 # Cerumen
 ---
 #noun
-- **Earwax**
+- **[[e/_earwax|Earwax]]**
 ---
 ### Synonyms
-- [[[[e/_earwax|earwax]]]], [[wax]]
+- [[earwax]], [[wax]]
 ---

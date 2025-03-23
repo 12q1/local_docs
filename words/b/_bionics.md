@@ -1,7 +1,7 @@
 # Bionics
 ---
 #noun
-- **The design of engineering systems, especially electronic ones, based on that of biological systems.**
+- **The [[d/_design|design]] of [[e/_engineering|engineering]] systems, especially [[e/_electronic|electronic]] ones, [[b/_based|based]] on that of [[b/_biological|biological]] systems.**
 - **Biomimetics**
 ---
 ---

@@ -1,6 +1,6 @@
 # Chipboard
 ---
 #noun
-- **A building material made from wood chips compressed and bound with synthetic resin.**
+- **A [[b/_building|building]] material made from wood [[c/_chips|chips]] [[c/_compressed|compressed]] and [[b/_bound|bound]] with synthetic resin.**
 ---
 ---

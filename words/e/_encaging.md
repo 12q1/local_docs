@@ -1,6 +1,6 @@
 # Encaging
 ---
 #verb
-- **To lock inside a cage; to imprison.**
+- **To lock inside a [[c/_cage|cage]]; to imprison.**
 ---
 ---

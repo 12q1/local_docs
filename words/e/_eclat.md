@@ -1,6 +1,6 @@
 # Eclat
 ---
 #noun
-- **A brilliant or successful effect; brilliance of success or effort; splendor; brilliant show; striking effect; glory; renown.**
+- **A [[b/_brilliant|brilliant]] or successful [[e/_effect|effect]]; [[b/_brilliance|brilliance]] of success or [[e/_effort|effort]]; splendor; [[b/_brilliant|brilliant]] show; striking [[e/_effect|effect]]; glory; renown.**
 ---
 ---

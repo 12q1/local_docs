@@ -1,6 +1,6 @@
 # Embruing
 ---
 #verb
-- **To stain (in, with, blood, slaughter, etc.).**
+- **To stain (in, with, [[b/_blood|blood]], slaughter, etc.).**
 ---
 ---

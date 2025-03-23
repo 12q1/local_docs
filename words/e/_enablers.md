@@ -2,7 +2,7 @@
 ---
 #noun
 - **One who or that which helps something to happen.**
-- **One who encourages a bad habit in another (typically drug addiction) by their behaviour.**
-- **One who gives someone else the power to behave in a certain way.**
+- **One who [[e/_encourages|encourages]] a [[b/_bad|bad]] habit in [[a/_another|another]] (typically [[d/_drug|drug]] [[a/_addiction|addiction]]) by their [[b/_behaviour|behaviour]].**
+- **One who gives someone [[e/_else|else]] the power to [[b/_behave|behave]] in a [[c/_certain|certain]] way.**
 ---
 ---

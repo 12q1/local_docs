@@ -1,10 +1,10 @@
 # Circumambient
 ---
 #adjective
-- **Including all aspects of; encompassing.**
+- **Including [[a/_all|all]] [[a/_aspects|aspects]] of; [[e/_encompassing|encompassing]].**
 - **Surrounding.**
 ---
 #adverb
-- **In a circumambient manner**
+- **In a [[c/_circumambient|circumambient]] manner**
 ---
 ---

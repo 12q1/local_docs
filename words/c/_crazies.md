@@ -1,9 +1,9 @@
 # Crazies
 ---
 #noun
-- **An insane or eccentric person; a crackpot.**
-- **Eccentric behaviour; lunacy.**
+- **An insane or [[e/_eccentric|eccentric]] person; a [[c/_crackpot|crackpot]].**
+- **[[e/_eccentric|Eccentric]] [[b/_behaviour|behaviour]]; lunacy.**
 ---
 ### Synonyms
-- [[lunatic]], [[mad man]], [[nut [[b/_ball|ball]]]], [[nut [[c/_case|case]]]], [[nutso]], [[psychopath]]
+- [[lunatic]], [[mad man]], [[nut ball]], [[nut case]], [[nutso]], [[psychopath]]
 ---

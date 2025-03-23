@@ -1,7 +1,7 @@
 # Dielectrics
 ---
 #noun
-- **An electrically insulating or nonconducting material considered for its electric susceptibility, i.e. its property of polarization when exposed to an external electric field.**
+- **An [[e/_electrically|electrically]] insulating or nonconducting material [[c/_considered|considered]] for its [[e/_electric|electric]] susceptibility, i.[[e/_e|e]]. its property of polarization when exposed to an external [[e/_electric|electric]] field.**
 ---
 ### Synonyms
 - [[insulator]]

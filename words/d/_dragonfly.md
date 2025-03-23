@@ -1,8 +1,8 @@
 # Dragonfly
 ---
 #noun
-- **An insect of the suborder Epiprocta or, more strictly, the infraorder Anisoptera, having four long transparent wings held perpendicular to a long body when perched.**
+- **An insect of the suborder Epiprocta or, more strictly, the infraorder [[a/_anisoptera|Anisoptera]], having four long transparent wings held perpendicular to a long [[b/_body|body]] when perched.**
 ---
 ### Synonyms
-- [[[[a/_adderbolt|adderbolt]]]], [[[[d/_darner|darner]]]], [[[[d/_darning|darning]] needle]], [[[[d/_dining|dining]] needle]], [[horse-stinger]], [[mosquito hawk]], [[needle]], [[snake [[d/_doctor|doctor]]]], [[spindle]]
+- [[adderbolt]], [[darner]], [[darning needle]], [[dining needle]], [[horse-stinger]], [[mosquito hawk]], [[needle]], [[snake doctor]], [[spindle]]
 ---

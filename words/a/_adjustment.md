@@ -1,14 +1,14 @@
 # Adjustment
 ---
 #noun
-- **The action of adjusting something**
-- **The result of adjusting something; a small change; a minor correction; a modification or alteration**
-- **The settling or balancing of a financial account**
+- **The [[a/_action|action]] of [[a/_adjusting|adjusting]] something**
+- **The result of [[a/_adjusting|adjusting]] something; a small [[c/_change|change]]; a minor [[c/_correction|correction]]; a modification or [[a/_alteration|alteration]]**
+- **The settling or [[b/_balancing|balancing]] of a financial [[a/_account|account]]**
 	- _Example: The credit card company made an adjustment to my account to waive the late fee._
-- **The behavioural process of balancing conflicting needs, or needs against obstacles in the environment.**
+- **The [[b/_behavioural|behavioural]] process of [[b/_balancing|balancing]] [[c/_conflicting|conflicting]] needs, or needs [[a/_against|against]] obstacles in the [[e/_environment|environment]].**
 	- _Example: When Jim graduated, he found adjustment to the working world difficult._
-- **The assessment, by an insurance company, of a claim; the settlement of such a claim**
+- **The [[a/_assessment|assessment]], by an insurance [[c/_company|company]], of a [[c/_claim|claim]]; the settlement of such a [[c/_claim|claim]]**
 ---
 ### Synonyms
-- [[[[c/_change|change]]]], [[[[c/_correction|correction]]]], [[modification]]
+- [[change]], [[correction]], [[modification]]
 ---

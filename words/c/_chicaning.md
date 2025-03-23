@@ -1,8 +1,8 @@
 # Chicaning
 ---
 #verb
-- **To use chicanery, tricks or subterfuge.**
-- **To deceive.**
+- **To use [[c/_chicanery|chicanery]], tricks or subterfuge.**
+- **To [[d/_deceive|deceive]].**
 ---
 #noun
 - **Trickery; subterfuge**

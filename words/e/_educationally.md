@@ -1,6 +1,6 @@
 # Educationally
 ---
 #adverb
-- **In an educational manner.**
+- **In an [[e/_educational|educational]] manner.**
 ---
 ---

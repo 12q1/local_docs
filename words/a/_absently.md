@@ -1,8 +1,8 @@
 # Absently
 ---
 #adverb
-- **In an absent-minded or abstracted manner.**
+- **In an [[a/_absent|absent]]-minded or [[a/_abstracted|abstracted]] manner.**
 ---
 ### Synonyms
-- [[[[a/_absent|absent]]-mindedly]], [[[[a/_abstractedly|abstractedly]]]]
+- [[absent-mindedly]], [[abstractedly]]
 ---

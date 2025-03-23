@@ -1,7 +1,7 @@
 # Dithionite
 ---
 #noun
-- **Any salt or ester of dithionous acid, H2S2O4**
+- **[[a/_any|Any]] salt or ester of [[d/_dithionous|dithionous]] [[a/_acid|acid]], H2S2O4**
 ---
 ### Synonyms
 - [[hydrosulfite]]

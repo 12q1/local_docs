@@ -1,7 +1,7 @@
 # Cremes
 ---
 #noun
-- **A very sugary, fluffy white cream derivative.**
-- **Cream**
+- **A very sugary, fluffy white [[c/_cream|cream]] [[d/_derivative|derivative]].**
+- **[[c/_cream|Cream]]**
 ---
 ---

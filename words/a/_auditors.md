@@ -1,10 +1,10 @@
 # Auditors
 ---
 #noun
-- **One who audits bookkeeping accounts.**
-- **In many jurisdictions, an elected or appointed public official in charge of the public accounts; a comptroller.**
-- **One who audits an academic course; who attends the lectures but does not earn academic credit.**
-- **One who listens, typically as a member of an audience.**
+- **One who [[a/_audits|audits]] [[b/_bookkeeping|bookkeeping]] [[a/_accounts|accounts]].**
+- **In many jurisdictions, an [[e/_elected|elected]] or [[a/_appointed|appointed]] public official in [[c/_charge|charge]] of the public [[a/_accounts|accounts]]; a [[c/_comptroller|comptroller]].**
+- **One who [[a/_audits|audits]] an [[a/_academic|academic]] [[c/_course|course]]; who [[a/_attends|attends]] the lectures but [[d/_does|does]] not [[e/_earn|earn]] [[a/_academic|academic]] [[c/_credit|credit]].**
+- **One who listens, typically as a member of an [[a/_audience|audience]].**
 - **One trained to perform spiritual guidance procedures.**
 ---
 ---

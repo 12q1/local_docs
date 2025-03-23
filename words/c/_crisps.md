@@ -1,11 +1,11 @@
 # Crisps
 ---
 #noun
-- **A thin slice of fried potato eaten as a snack.**
-- **A baked dessert made with fruit and crumb topping**
-- **Anything baked or fried and eaten as a snack**
+- **A thin slice of fried potato [[e/_eaten|eaten]] as a snack.**
+- **A [[b/_baked|baked]] [[d/_dessert|dessert]] made with fruit and [[c/_crumb|crumb]] topping**
+- **[[a/_anything|Anything]] [[b/_baked|baked]] or fried and [[e/_eaten|eaten]] as a snack**
 	- _Example: kale crisps_
 ---
 ### Synonyms
-- [[potato [[c/_chip|chip]]]], [[potato [[c/_crisp|crisp]]]], [[[[c/_crumble|crumble]]]], [[[[c/_crunch|crunch]]]]
+- [[potato chip]], [[potato crisp]], [[crumble]], [[crunch]]
 ---

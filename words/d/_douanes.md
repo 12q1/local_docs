@@ -1,6 +1,6 @@
 # Douanes
 ---
 #noun
-- **A custom house.**
+- **A [[c/_custom|custom]] house.**
 ---
 ---

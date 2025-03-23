@@ -1,7 +1,7 @@
 # Diabolical
 ---
 #adjective
-- **Extremely wicked or cruel.**
-- **Of or concerning the devil; satanic.**
+- **Extremely wicked or [[c/_cruel|cruel]].**
+- **Of or [[c/_concerning|concerning]] the [[d/_devil|devil]]; satanic.**
 ---
 ---

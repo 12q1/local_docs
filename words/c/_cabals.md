@@ -8,8 +8,8 @@
 - **An identifiable group within the tradition of Discordianism.**
 ---
 ### Synonyms
-- [[[[c/_camarilla|camarilla]]]], [[[[c/_conspiracy|conspiracy]]]]
+- [[camarilla]], [[conspiracy]]
 #verb
-- **To engage in the activities of a cabal.**
+- **To [[e/_engage|engage]] in the [[a/_activities|activities]] of a [[c/_cabal|cabal]].**
 ---
 ---

@@ -2,24 +2,24 @@
 ---
 #noun
 - **A regular polyhedron having six identical square faces.**
-- **Any object more or less in the form of a cube.**
+- **[[a/_any|Any]] object more or less in the form of a [[c/_cube|cube]].**
 	- _Example: a stock cube_
 - **The third power of a number, value, term or expression.**
 	- _Example: the cube of 2 is 8_
-- **A data structure consisting of a three-dimensional array; a data cube**
-- **A Rubick's cube style puzzle, not necessarily in the shape of a cube**
+- **A [[d/_data|data]] structure [[c/_consisting|consisting]] of a three-[[d/_dimensional|dimensional]] [[a/_array|array]]; a [[d/_data|data]] [[c/_cube|cube]]**
+- **A Rubick's [[c/_cube|cube]] style puzzle, not necessarily in the shape of a [[c/_cube|cube]]**
 ---
 ### Synonyms
-- [[regular hexahedron]], [[power]], [[third]], [[[[b/_block|block]]]], [[[[b/_brick|brick]]]], [[[[d/_die|die]]]]
+- [[regular hexahedron]], [[power]], [[third]], [[block]], [[brick]], [[die]]
 #verb
-- **To raise to the third power; to determine the result of multiplying by itself twice.**
+- **To raise to the third power; to [[d/_determine|determine]] the result of multiplying by itself twice.**
 	- _Example: Three cubed can be written as 33, and equals twenty-seven._
-- **To form into the shape of a cube.**
-- **To cut into cubes.**
+- **To form into the shape of a [[c/_cube|cube]].**
+- **To [[c/_cut|cut]] into [[c/_cubes|cubes]].**
 	- _Example: Cube the ham right after adding the curry to the rice._
-- **To use a Rubik's cube.**
+- **To use a Rubik's [[c/_cube|cube]].**
 	- _Example: He likes to cube now and then._
 ---
 ### Synonyms
-- [[[[d/_dice|dice]]]]
+- [[dice]]
 ---

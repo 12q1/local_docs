@@ -1,6 +1,6 @@
 # Durwan
 ---
 #noun
-- **A live-in doorkeeper, especially in an apartment building.**
+- **A live-in [[d/_doorkeeper|doorkeeper]], especially in an [[a/_apartment|apartment]] [[b/_building|building]].**
 ---
 ---

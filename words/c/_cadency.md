@@ -1,25 +1,25 @@
 # Cadency
 ---
 #noun
-- **The act or state of declining or sinking.**
-- **Balanced, rhythmic flow.**
-- **The measure or beat of movement.**
-- **The general inflection or modulation of the voice, or of any sound.**
-- **A progression of at least two chords which conclude a piece of music, section or musical phrases within it. Sometimes referred to analogously as musical punctuation.**
-- **A cadenza, or closing embellishment; a pause before the end of a strain, which the performer may fill with a flight of fancy.**
-- **(speech) A fall in inflection of a speaker’s voice, such as at the end of a sentence.**
-- **A dance move which ends a phrase.**
+- **The [[a/_act|act]] or state of [[d/_declining|declining]] or sinking.**
+- **[[b/_balanced|Balanced]], rhythmic flow.**
+- **The measure or [[b/_beat|beat]] of movement.**
+- **The general inflection or modulation of the voice, or of [[a/_any|any]] sound.**
+- **A progression of at least two [[c/_chords|chords]] which [[c/_conclude|conclude]] a piece of music, section or musical phrases within it. Sometimes referred to [[a/_analogously|analogously]] as musical punctuation.**
+- **A [[c/_cadenza|cadenza]], or [[c/_closing|closing]] [[e/_embellishment|embellishment]]; a pause [[b/_before|before]] the [[e/_end|end]] of a strain, which the performer may fill with a flight of fancy.**
+- **(speech) A fall in inflection of a speaker’s voice, such as at the [[e/_end|end]] of a sentence.**
+- **A [[d/_dance|dance]] move which [[e/_ends|ends]] a phrase.**
 	- _Example: The cadence in a galliard step refers to the final leap in a cinquepace sequence._
-- **The rhythm and sequence of a series of actions.**
+- **The rhythm and sequence of a series of [[a/_actions|actions]].**
 - **(running) The number of steps per minute.**
-- **The number of revolutions per minute of the cranks or pedals of a bicycle.**
-- **A chant that is sung by military personnel while running or marching; a jody call.**
-- **Cadency**
+- **The number of revolutions per minute of the [[c/_cranks|cranks]] or pedals of a [[b/_bicycle|bicycle]].**
+- **A [[c/_chant|chant]] that is sung by military personnel while running or marching; a jody [[c/_call|call]].**
+- **[[c/_cadency|Cadency]]**
 - **(horse-riding) Harmony and proportion of movement, as in a well-managed horse.**
 ---
 ### Synonyms
-- [[[[c/_clausula|clausula]]]]
+- [[clausula]]
 #noun
-- **Any systematic way of distinguishing similar coats of arms belonging to members of the same family.**
+- **[[a/_any|Any]] systematic way of [[d/_distinguishing|distinguishing]] similar [[c/_coats|coats]] of [[a/_arms|arms]] [[b/_belonging|belonging]] to members of the same family.**
 ---
 ---

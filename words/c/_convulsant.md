@@ -1,9 +1,9 @@
 # Convulsant
 ---
 #noun
-- **Anything, such as a drug, that causes convulsions**
+- **[[a/_anything|Anything]], such as a [[d/_drug|drug]], that [[c/_causes|causes]] [[c/_convulsions|convulsions]]**
 ---
 #adjective
-- **Causing or producing convulsions; convulsive.**
+- **[[c/_causing|Causing]] or producing [[c/_convulsions|convulsions]]; [[c/_convulsive|convulsive]].**
 ---
 ---

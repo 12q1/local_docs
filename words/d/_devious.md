@@ -1,7 +1,7 @@
 # Devious
 ---
 #adjective
-- **Cunning or deceiving, not straightforward or honest, not frank**
-- **Roundabout, circuitous, deviating from the direct or ordinary route**
+- **[[c/_cunning|Cunning]] or [[d/_deceiving|deceiving]], not straightforward or honest, not frank**
+- **Roundabout, [[c/_circuitous|circuitous]], [[d/_deviating|deviating]] from the [[d/_direct|direct]] or ordinary route**
 ---
 ---

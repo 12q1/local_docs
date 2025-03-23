@@ -1,6 +1,6 @@
 # Dipeptide
 ---
 #noun
-- **An organic compound formed from two amino acids joined by a peptide bond.**
+- **An organic [[c/_compound|compound]] formed from two [[a/_amino|amino]] [[a/_acids|acids]] joined by a peptide [[b/_bond|bond]].**
 ---
 ---

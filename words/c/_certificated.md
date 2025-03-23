@@ -1,9 +1,9 @@
 # Certificated
 ---
 #verb
-- **To supply with a certificate, especially following certification**
+- **To supply with a [[c/_certificate|certificate]], especially following [[c/_certification|certification]]**
 ---
 #adjective
-- **That has been subject to certification**
+- **That has [[b/_been|been]] subject to [[c/_certification|certification]]**
 ---
 ---

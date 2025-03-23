@@ -1,8 +1,8 @@
 # Catabolism
 ---
 #noun
-- **Destructive metabolism, usually including the release of energy and breakdown of materials.**
+- **[[d/_destructive|Destructive]] metabolism, usually including the release of [[e/_energy|energy]] and [[b/_breakdown|breakdown]] of materials.**
 ---
 ### Antonyms
-- [[[[a/_anabolism|anabolism]]]]
+- [[anabolism]]
 ---

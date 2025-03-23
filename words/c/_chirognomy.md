@@ -1,6 +1,6 @@
 # Chirognomy
 ---
 #noun
-- **The art of judging character by the shape and appearance of the hand.**
+- **The [[a/_art|art]] of judging [[c/_character|character]] by the shape and [[a/_appearance|appearance]] of the hand.**
 ---
 ---

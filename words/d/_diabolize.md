@@ -1,6 +1,6 @@
 # Diabolize
 ---
 #verb
-- **To represent as diabolical**
+- **To represent as [[d/_diabolical|diabolical]]**
 ---
 ---

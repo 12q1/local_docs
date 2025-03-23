@@ -1,6 +1,6 @@
 # Crisply
 ---
 #adverb
-- **In a crisp manner.**
+- **In a [[c/_crisp|crisp]] manner.**
 ---
 ---

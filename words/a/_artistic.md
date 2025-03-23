@@ -1,12 +1,12 @@
 # Artistic
 ---
 #adjective
-- **Having or revealing creative skill.**
-- **Relating to or characteristic of art or artists.**
-- **Aesthetically pleasing.**
+- **Having or revealing [[c/_creative|creative]] skill.**
+- **Relating to or [[c/_characteristic|characteristic]] of [[a/_art|art]] or [[a/_artists|artists]].**
+- **[[a/_aesthetically|Aesthetically]] pleasing.**
 ---
 #adverb
-- **Artistically, in an artistic style.**
+- **[[a/_artistically|Artistically]], in an [[a/_artistic|artistic]] style.**
 ---
 ### Antonyms
 - [[inartistic]]

@@ -1,8 +1,8 @@
 # Discourteous
 ---
 #adjective
-- **Impolite; lacking consideration for others**
+- **Impolite; lacking [[c/_consideration|consideration]] for others**
 ---
 ### Antonyms
-- [[[[c/_courteous|courteous]]]]
+- [[courteous]]
 ---

@@ -1,6 +1,6 @@
 # Counterclaimed
 ---
 #verb
-- **To file a counterclaim.**
+- **To file a [[c/_counterclaim|counterclaim]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Androids
 ---
 #noun
-- **A robot that is designed to look and act like a human being (not necessarily male)**
+- **A robot that is [[d/_designed|designed]] to look and [[a/_act|act]] like a human [[b/_being|being]] (not necessarily male)**
 ---
 ---

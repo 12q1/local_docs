@@ -1,7 +1,7 @@
 # Detoured
 ---
 #verb
-- **To make a detour.**
-- **To direct or send on a detour.**
+- **To make a [[d/_detour|detour]].**
+- **To [[d/_direct|direct]] or send on a [[d/_detour|detour]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Consternated
 ---
 #verb
-- **To cause consternation in; to dismay.**
+- **To [[c/_cause|cause]] [[c/_consternation|consternation]] in; to [[d/_dismay|dismay]].**
 ---
 #adjective
-- **Dismayed.**
+- **[[d/_dismayed|Dismayed]].**
 ---
 ---

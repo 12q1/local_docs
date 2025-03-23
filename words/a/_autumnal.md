@@ -1,7 +1,7 @@
 # Autumnal
 ---
 #adjective
-- **Of or relating to autumn.**
+- **Of or relating to [[a/_autumn|autumn]].**
 - **Past the middle of life; in the third stage.**
 ---
 ---

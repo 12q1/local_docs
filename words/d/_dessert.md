@@ -1,8 +1,8 @@
 # Dessert
 ---
 #noun
-- **A sweet confection served as the last course of a meal**
+- **A sweet [[c/_confection|confection]] served as the last [[c/_course|course]] of a meal**
 ---
 ### Synonyms
-- [[[[a/_afters|afters]]]], [[pudding]], [[sweet]]
+- [[afters]], [[pudding]], [[sweet]]
 ---

@@ -1,6 +1,6 @@
 # Archduchess
 ---
 #noun
-- **A daughter or granddaughter of the Emperor of Austria-Hungary, or the wife of a son or grandson of the Emperor of Austria-Hungary**
+- **A [[d/_daughter|daughter]] or granddaughter of the [[e/_emperor|Emperor]] of [[a/_austria|Austria]]-Hungary, or the wife of a son or grandson of the [[e/_emperor|Emperor]] of [[a/_austria|Austria]]-Hungary**
 ---
 ---

@@ -1,8 +1,8 @@
 # Barkeeper
 ---
 #noun
-- **A bartender: a person preparing and serving drinks at a bar.**
+- **A [[b/_bartender|bartender]]: a person preparing and serving [[d/_drinks|drinks]] at a [[b/_bar|bar]].**
 ---
 ### Synonyms
-- [[[[b/_bartender|bartender]]]], [[mixologist]]
+- [[bartender]], [[mixologist]]
 ---

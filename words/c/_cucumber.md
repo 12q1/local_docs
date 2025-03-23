@@ -1,9 +1,9 @@
 # Cucumber
 ---
 #noun
-- **A vine in the gourd family, Cucumis sativus.**
-- **The edible fruit of this plant, having a green rind and crisp white flesh.**
+- **A vine in the gourd family, [[c/_cucumis|Cucumis]] sativus.**
+- **The [[e/_edible|edible]] fruit of this plant, having a green rind and [[c/_crisp|crisp]] white flesh.**
 ---
 ### Synonyms
-- [[[[c/_cuke|cuke]]]]
+- [[cuke]]
 ---

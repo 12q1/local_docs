@@ -1,12 +1,12 @@
 # Divined
 ---
 #verb
-- **To foretell (something), especially by the use of divination.**
-- **To guess or discover (something) through intuition or insight.**
-- **To search for (underground objects or water) using a divining rod.**
-- **To render divine; to deify.**
+- **To foretell (something), especially by the use of [[d/_divination|divination]].**
+- **To guess or [[d/_discover|discover]] (something) through intuition or insight.**
+- **To search for (underground objects or water) using a [[d/_divining|divining]] rod.**
+- **To render [[d/_divine|divine]]; to [[d/_deify|deify]].**
 ---
 #adjective
-- **Made divine, made holy.**
+- **Made [[d/_divine|divine]], made holy.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Adducts
 ---
 #noun
-- **The product of an addition reaction.**
+- **The product of an [[a/_addition|addition]] reaction.**
 ---
 #verb
-- **To draw towards a center or a middle line.**
+- **To [[d/_draw|draw]] towards a [[c/_center|center]] or a middle line.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Cocoyam
 ---
 #noun
-- **New cocoyam: Xanthosoma, particularly Xanthosoma sagittifolium, or the edible root of that plant; malanga.**
-- **Old cocoyam: Colocasia esculenta; taro.**
+- **New [[c/_cocoyam|cocoyam]]: Xanthosoma, particularly Xanthosoma sagittifolium, or the [[e/_edible|edible]] root of that plant; malanga.**
+- **Old [[c/_cocoyam|cocoyam]]: [[c/_colocasia|Colocasia]] esculenta; taro.**
 ---
 ### Synonyms
-- [[macabo]], [[malanga]], [[new [[c/_cocoyam|cocoyam]]]], [[otoe]], [[otoy]], [[quequisque]], [[yautia]], [[[[d/_dasheen|dasheen]]]], [[taro]], [[taioba]], [[tanier]], [[tannia]], [[tannier]]
+- [[macabo]], [[malanga]], [[new cocoyam]], [[otoe]], [[otoy]], [[quequisque]], [[yautia]], [[dasheen]], [[taro]], [[taioba]], [[tanier]], [[tannia]], [[tannier]]
 ---

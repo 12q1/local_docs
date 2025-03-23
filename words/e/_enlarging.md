@@ -3,16 +3,16 @@
 #verb
 - **To make larger.**
 - **To grow larger.**
-- **To increase the capacity of; to expand; to give free scope or greater scope to; also, to dilate, as with joy, affection, etc.**
+- **To increase the [[c/_capacity|capacity]] of; to expand; to give free scope or greater scope to; [[a/_also|also]], to [[d/_dilate|dilate]], as with joy, [[a/_affection|affection]], etc.**
 	- _Example: Knowledge enlarges the mind._
-- **To speak or write at length upon or on (some subject); expand; elaborate**
+- **To speak or write at length upon or on (some subject); expand; [[e/_elaborate|elaborate]]**
 - **To release; to set at large.**
-- **To get more astern or parallel with the vessel's course; to draw aft; said of the wind.**
-- **To extend the time allowed for compliance with (an order or rule).**
+- **To get more [[a/_astern|astern]] or parallel with the vessel's [[c/_course|course]]; to [[d/_draw|draw]] [[a/_aft|aft]]; said of the wind.**
+- **To extend the time [[a/_allowed|allowed]] for [[c/_compliance|compliance]] with (an order or rule).**
 ---
 ### Synonyms
-- [[embiggen]], [[enlargen]], [[greaten]], [[largen]], [[[[d/_dilate|dilate]]]], [[expatiate]]
+- [[embiggen]], [[enlargen]], [[greaten]], [[largen]], [[dilate]], [[expatiate]]
 #noun
-- **The act of one who enlarges.**
+- **The [[a/_act|act]] of one who [[e/_enlarges|enlarges]].**
 ---
 ---

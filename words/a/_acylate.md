@@ -1,6 +1,6 @@
 # Acylate
 ---
 #verb
-- **To add one or more acyl groups to a compound.**
+- **To [[a/_add|add]] one or more [[a/_acyl|acyl]] groups to a [[c/_compound|compound]].**
 ---
 ---

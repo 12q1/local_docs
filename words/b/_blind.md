@@ -1,58 +1,58 @@
 # Blind
 ---
 #noun
-- **A covering for a window to keep out light. The covering may be made of cloth or of narrow slats that can block light or allow it to pass.**
-- **A destination sign mounted on a public transport vehicle displaying the route destination, number, name and/or via points, etc.**
-- **Any device intended to conceal or hide.**
+- **A [[c/_covering|covering]] for a window to keep out light. The [[c/_covering|covering]] may be made of [[c/_cloth|cloth]] or of narrow slats that [[c/_can|can]] [[b/_block|block]] light or [[a/_allow|allow]] it to pass.**
+- **A [[d/_destination|destination]] sign mounted on a public transport vehicle [[d/_displaying|displaying]] the route [[d/_destination|destination]], number, name and/or via points, etc.**
+- **[[a/_any|Any]] [[d/_device|device]] intended to [[c/_conceal|conceal]] or hide.**
 	- _Example: a duck blind_
-- **Something to mislead the eye or the understanding, or to conceal some covert deed or design; a subterfuge.**
-- **A blindage.**
+- **Something to mislead the [[e/_eye|eye]] or the understanding, or to [[c/_conceal|conceal]] some [[c/_covert|covert]] [[d/_deed|deed]] or [[d/_design|design]]; a subterfuge.**
+- **A [[b/_blindage|blindage]].**
 - **A halting place.**
 - **The blindside.**
 - **(1800s) No score.**
-- **A forced bet: the small blind or the big blind.**
+- **A forced [[b/_bet|bet]]: the small [[b/_blind|blind]] or the [[b/_big|big]] [[b/_blind|blind]].**
 	- _Example: The blinds are $10/$20 and the ante is $1._
-- **A player who is forced to pay such a bet.**
+- **A player who is forced to pay such a [[b/_bet|bet]].**
 	- _Example: The blinds immediately folded when I reraised._
-- **(as a plural) Those who are blind, taken as a group.**
+- **(as a plural) Those who are [[b/_blind|blind]], taken as a group.**
 ---
 ### Synonyms
 - [[rollsign]]
 #verb
-- **To make temporarily or permanently blind.**
+- **To make temporarily or permanently [[b/_blind|blind]].**
 	- _Example: Don't wave that pencil in my face - do you want to blind me?_
-- **To curse.**
-- **To darken; to obscure to the eye or understanding; to conceal.**
-- **To cover with a thin coating of sand and fine gravel, for example a road newly paved, in order that the joints between the stones may be filled.**
+- **To [[c/_curse|curse]].**
+- **To [[d/_darken|darken]]; to obscure to the [[e/_eye|eye]] or understanding; to [[c/_conceal|conceal]].**
+- **To [[c/_cover|cover]] with a thin [[c/_coating|coating]] of sand and fine gravel, for example a road newly paved, in order that the joints [[b/_between|between]] the stones may be filled.**
 ---
 #adjective
-- **(of a person or animal) Unable to see, due to physiological or neurological factors.**
-- **(of an eye) Unable to be used to see, due to physiological or neurological factors.**
-- **Failing to see, acknowledge, perceive.**
+- **(of a person or [[a/_animal|animal]]) Unable to see, [[d/_due|due]] to physiological or neurological factors.**
+- **(of an [[e/_eye|eye]]) Unable to be used to see, [[d/_due|due]] to physiological or neurological factors.**
+- **Failing to see, [[a/_acknowledge|acknowledge]], perceive.**
 	- _Example: Authors are blind to their own defects._
 - **Of a place, having little or no visibility.**
 	- _Example: a blind corner_
-- **Closed at one end; having a dead end**
+- **[[c/_closed|Closed]] at one [[e/_end|end]]; having a [[d/_dead|dead]] [[e/_end|end]]**
 	- _Example: a blind gut_
 - **Having no openings for light or passage.**
 	- _Example: a blind alley_
-- **(in certain phrases) Smallest or slightest.**
+- **(in [[c/_certain|certain]] phrases) Smallest or slightest.**
 	- _Example: I shouted, but he didn't take a blind bit of notice._
-- **Without any prior knowledge.**
+- **Without [[a/_any|any]] prior knowledge.**
 	- _Example: He took a blind guess at which fork in the road would take him to the airport._
-- **Unconditional; without regard to evidence, logic, reality, accidental mistakes, extenuating circumstances, etc.**
+- **Unconditional; without regard to evidence, logic, reality, [[a/_accidental|accidental]] mistakes, extenuating [[c/_circumstances|circumstances]], etc.**
 	- _Example: blind deference_
 - **Unintelligible or illegible.**
 	- _Example: a blind passage in a book; blind writing_
-- **Abortive; failing to produce flowers or fruit.**
+- **[[a/_abortive|Abortive]]; failing to produce flowers or fruit.**
 	- _Example: blind buds_
 ---
 ### Antonyms
 - [[seeing]], [[sighted]]
 #adverb
 - **Without seeing; unseeingly.**
-- **Absolutely, totally.**
+- **[[a/_absolutely|Absolutely]], totally.**
 	- _Example: to swear blind_
-- **(three card brag) Without looking at the cards dealt.**
+- **(three [[c/_card|card]] [[b/_brag|brag]]) Without looking at the [[c/_cards|cards]] [[d/_dealt|dealt]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Computationally
 ---
 #adverb
-- **In a computational manner**
-- **Using computation**
+- **In a [[c/_computational|computational]] manner**
+- **Using [[c/_computation|computation]]**
 ---
 ---

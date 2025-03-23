@@ -1,8 +1,8 @@
 # Blindly
 ---
 #adverb
-- **In a blind manner; without sight; sightlessly.**
+- **In a [[b/_blind|blind]] manner; without sight; sightlessly.**
 	- _Example: I stumbled blindly through the forest, branches whipping at my face._
-- **Without consideration or question.**
+- **Without [[c/_consideration|consideration]] or question.**
 ---
 ---

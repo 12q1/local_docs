@@ -1,16 +1,16 @@
 # Coup
 ---
 #noun
-- **A quick, brilliant, and highly successful act.**
-- **(of Native Americans) A blow against an enemy delivered in a way that shows bravery.**
-- **A coup d'état.**
-- **(by extension) A takeover of one group by another.**
-- **A single roll of the wheel at roulette, or a deal in rouge et noir.**
-- **One of various named strategies employed by the declarer to win more tricks, such as the Bath coup.**
+- **A quick, [[b/_brilliant|brilliant]], and highly successful [[a/_act|act]].**
+- **(of Native [[a/_americans|Americans]]) A [[b/_blow|blow]] [[a/_against|against]] an [[e/_enemy|enemy]] [[d/_delivered|delivered]] in a way that shows [[b/_bravery|bravery]].**
+- **A [[c/_coup|coup]] [[d/_d|d]]'état.**
+- **(by extension) A takeover of one group by [[a/_another|another]].**
+- **A single roll of the wheel at roulette, or a [[d/_deal|deal]] in rouge et noir.**
+- **One of various named strategies [[e/_employed|employed]] by the [[d/_declarer|declarer]] to win more tricks, such as the [[b/_bath|Bath]] [[c/_coup|coup]].**
 ---
 ### Synonyms
 - [[putsch]], [[triumph]]
 #verb
-- **To make a coup.**
+- **To make a [[c/_coup|coup]].**
 ---
 ---

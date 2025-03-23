@@ -1,18 +1,18 @@
 # Barrener
 ---
 #adjective
-- **Unable to bear children; sterile.**
+- **Unable to [[b/_bear|bear]] [[c/_children|children]]; sterile.**
 	- _Example: I silently wept as my daughter's husband rejected her. What would she do now that she was no longer a maiden but also barren?_
 - **Of poor fertility, infertile; not producing vegetation.**
-- **Bleak.**
-- **Unproductive; fruitless; unprofitable; empty.**
-- **Mentally dull; stupid.**
+- **[[b/_bleak|Bleak]].**
+- **Unproductive; fruitless; unprofitable; [[e/_empty|empty]].**
+- **Mentally [[d/_dull|dull]]; stupid.**
 ---
 ### Synonyms
 - [[sterile]]
 ### Antonyms
 - [[fertile]], [[fruitful]]
 #noun
-- **A barren animal, one that cannot bear young.**
+- **A [[b/_barren|barren]] [[a/_animal|animal]], one that [[c/_cannot|cannot]] [[b/_bear|bear]] young.**
 ---
 ---

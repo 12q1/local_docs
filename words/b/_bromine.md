@@ -1,8 +1,8 @@
 # Bromine
 ---
 #noun
-- **A nonmetallic chemical element (symbol Br) with an atomic number of 35; one of the halogens, it is a fuming red-brown liquid at room temperature.**
-- **A bromine atom in a molecule**
+- **A nonmetallic [[c/_chemical|chemical]] [[e/_element|element]] (symbol [[b/_br|Br]]) with an [[a/_atomic|atomic]] number of 35; one of the halogens, it is a fuming red-[[b/_brown|brown]] liquid at room temperature.**
+- **A [[b/_bromine|bromine]] [[a/_atom|atom]] in a molecule**
 ---
 ### Synonyms
 - [[muride]]

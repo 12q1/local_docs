@@ -1,10 +1,10 @@
 # Distich
 ---
 #noun
-- **A couplet, a two-line stanza making complete sense.**
-- **Any couplet.**
+- **A [[c/_couplet|couplet]], a two-line stanza making [[c/_complete|complete]] sense.**
+- **[[a/_any|Any]] [[c/_couplet|couplet]].**
 ---
 #adjective
-- **Distichous.**
+- **[[d/_distichous|Distichous]].**
 ---
 ---

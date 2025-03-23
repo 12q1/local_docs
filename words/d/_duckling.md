@@ -1,8 +1,8 @@
 # Duckling
 ---
 #noun
-- **A young duck.**
+- **A young [[d/_duck|duck]].**
 ---
 ### Synonyms
-- [[[[d/_ducklet|ducklet]]]]
+- [[ducklet]]
 ---

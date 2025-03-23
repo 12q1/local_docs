@@ -1,15 +1,15 @@
 # Damaged
 ---
 #verb
-- **To impair the soundness, goodness, or value of; to harm or cause destruction.**
+- **To impair the soundness, goodness, or value of; to harm or [[c/_cause|cause]] [[d/_destruction|destruction]].**
 	- _Example: Be careful not to damage any of the fragile items while unpacking them._
-- **To undergo damage.**
+- **To undergo [[d/_damage|damage]].**
 ---
 #adjective
-- **Suffered a damage.**
+- **Suffered a [[d/_damage|damage]].**
 ---
 ### Synonyms
-- [[[[d/_defective|defective]]]], [[faulty]], [[injured]], [[wounded]]
+- [[defective]], [[faulty]], [[injured]], [[wounded]]
 ### Antonyms
-- [[[[c/_complete|complete]]]], [[perfect]], [[undamaged]]
+- [[complete]], [[perfect]], [[undamaged]]
 ---

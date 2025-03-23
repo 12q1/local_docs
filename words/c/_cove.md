@@ -1,15 +1,15 @@
 # Cove
 ---
 #noun
-- **A hollow in a rock; a cave or cavern.**
-- **A concave vault or archway, especially the arch of a ceiling.**
-- **A small coastal inlet, especially one having high cliffs protecting vessels from prevailing winds.**
+- **A hollow in a rock; a [[c/_cave|cave]] or [[c/_cavern|cavern]].**
+- **A [[c/_concave|concave]] vault or [[a/_archway|archway]], especially the [[a/_arch|arch]] of a [[c/_ceiling|ceiling]].**
+- **A small [[c/_coastal|coastal]] inlet, especially one having high [[c/_cliffs|cliffs]] protecting vessels from prevailing winds.**
 - **A strip of prairie extending into woodland.**
-- **A recess or sheltered area on the slopes of a mountain.**
+- **A recess or sheltered [[a/_area|area]] on the slopes of a mountain.**
 - **The wooden roof of the stern gallery of an old sailing warship.**
-- **A thin line, sometimes gilded, along a yacht's strake below deck level.**
+- **A thin line, sometimes gilded, [[a/_along|along]] a yacht's strake [[b/_below|below]] [[d/_deck|deck]] level.**
 ---
 #verb
-- **To arch over; to build in a hollow concave form; to make in the form of a cove.**
+- **To [[a/_arch|arch]] over; to [[b/_build|build]] in a hollow [[c/_concave|concave]] form; to make in the form of a [[c/_cove|cove]].**
 ---
 ---

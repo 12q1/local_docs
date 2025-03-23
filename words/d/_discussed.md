@@ -1,14 +1,14 @@
 # Discussed
 ---
 #verb
-- **To converse or debate concerning a particular topic.**
+- **To [[c/_converse|converse]] or [[d/_debate|debate]] [[c/_concerning|concerning]] a particular topic.**
 	- _Example: I don't wish to discuss this further. Let's talk about something else._
-- **To communicate, tell, or disclose (information, a message, etc.).**
-- **To break to pieces; to shatter.**
-- **To deal with, in eating or drinking; consume.**
-- **To examine or search thoroughly; to exhaust a remedy against, as against a principal debtor before proceeding against the surety.**
-- **To drive away, disperse, shake off; said especially of tumors.**
+- **To [[c/_communicate|communicate]], tell, or [[d/_disclose|disclose]] (information, a message, etc.).**
+- **To [[b/_break|break]] to pieces; to shatter.**
+- **To [[d/_deal|deal]] with, in [[e/_eating|eating]] or [[d/_drinking|drinking]]; [[c/_consume|consume]].**
+- **To examine or search thoroughly; to exhaust a remedy [[a/_against|against]], as [[a/_against|against]] a principal [[d/_debtor|debtor]] [[b/_before|before]] proceeding [[a/_against|against]] the surety.**
+- **To [[d/_drive|drive]] [[a/_away|away]], [[d/_disperse|disperse]], shake off; said especially of tumors.**
 ---
 ### Synonyms
-- [[[[b/_bespeak|bespeak]]]], [[[[b/_betalk|betalk]]]], [[[[d/_debate|debate]]]], [[talk [[a/_about|about]]]]
+- [[bespeak]], [[betalk]], [[debate]], [[talk about]]
 ---

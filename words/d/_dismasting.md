@@ -1,9 +1,9 @@
 # Dismasting
 ---
 #verb
-- **To break off the mast (of a ship), especially by gunfire.**
+- **To [[b/_break|break]] off the mast (of a ship), especially by gunfire.**
 ---
 #noun
-- **The act by which a ship is dismasted.**
+- **The [[a/_act|act]] by which a ship is [[d/_dismasted|dismasted]].**
 ---
 ---

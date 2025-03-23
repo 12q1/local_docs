@@ -1,19 +1,19 @@
 # Downcast
 ---
 #noun
-- **A cast from supertype to subtype.**
+- **A [[c/_cast|cast]] from supertype to subtype.**
 - **A melancholy look.**
-- **A ventilating shaft down which the air passes in circulating through a mine.**
+- **A ventilating shaft [[d/_down|down]] which the [[a/_air|air]] passes in [[c/_circulating|circulating]] through a mine.**
 ---
 #verb
-- **To cast or throw down; to turn downward.**
+- **To [[c/_cast|cast]] or throw [[d/_down|down]]; to turn [[d/_downward|downward]].**
 - **To taunt; to reproach; to upbraid.**
-- **To cast from supertype to subtype.**
+- **To [[c/_cast|cast]] from supertype to subtype.**
 ---
 ### Antonyms
 - [[upcast]]
 #adjective
-- **(of eyes) Looking downwards.**
-- **(of a person) Feeling despondent.**
+- **(of [[e/_eyes|eyes]]) Looking [[d/_downwards|downwards]].**
+- **(of a person) Feeling [[d/_despondent|despondent]].**
 ---
 ---

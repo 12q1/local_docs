@@ -1,6 +1,6 @@
 # Counterintelligence
 ---
 #noun
-- **Counterespionage**
+- **[[c/_counterespionage|Counterespionage]]**
 ---
 ---

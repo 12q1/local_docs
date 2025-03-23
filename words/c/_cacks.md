@@ -1,7 +1,7 @@
 # Cacks
 ---
 #verb
-- **To defecate.**
+- **To [[d/_defecate|defecate]].**
 - **To kill.**
 	- _Example: “He tried to shoot me, so I cacked him.”_
 ---

@@ -1,12 +1,12 @@
 # Disengagement
 ---
 #noun
-- **Release or detachment from a physical situation or other involvement.**
-- **The separation or release of a chemical.**
-- **Leisure; relief from responsibilities or onerous activities.**
-- **Withdrawal from combat, confrontation, or the assertion of influence.**
-- **Termination of an agreement to be married.**
-- **A circular movement of the blade that blocks an opponent's parry.**
-- **The emergence of the fetus from the birth canal.**
+- **Release or [[d/_detachment|detachment]] from a physical situation or other involvement.**
+- **The separation or release of a [[c/_chemical|chemical]].**
+- **Leisure; relief from responsibilities or onerous [[a/_activities|activities]].**
+- **Withdrawal from [[c/_combat|combat]], [[c/_confrontation|confrontation]], or the [[a/_assertion|assertion]] of influence.**
+- **Termination of an [[a/_agreement|agreement]] to be married.**
+- **A [[c/_circular|circular]] movement of the [[b/_blade|blade]] that [[b/_blocks|blocks]] an opponent's parry.**
+- **The [[e/_emergence|emergence]] of the fetus from the [[b/_birth|birth]] [[c/_canal|canal]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Ensorceled
 ---
 #verb
-- **To bewitch or enchant.**
-- **To captivate, entrance, fascinate.**
+- **To [[b/_bewitch|bewitch]] or [[e/_enchant|enchant]].**
+- **To [[c/_captivate|captivate]], [[e/_entrance|entrance]], fascinate.**
 ---
 ---

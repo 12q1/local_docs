@@ -1,11 +1,11 @@
 # Compatriot
 ---
 #noun
-- **Somebody from one's own country.**
+- **Somebody from one's own [[c/_country|country]].**
 ---
 ### Synonyms
-- [[[[c/_citizen|citizen]]]], [[fellow]], [[[[c/_countryman|countryman]]]], [[[[c/_countrywoman|countrywoman]]]], [[fellow]]
+- [[citizen]], [[fellow]], [[countryman]], [[countrywoman]], [[fellow]]
 #adjective
-- **Of the same country; having a common sentiment of patriotism.**
+- **Of the same [[c/_country|country]]; having a [[c/_common|common]] sentiment of patriotism.**
 ---
 ---

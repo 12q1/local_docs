@@ -1,8 +1,8 @@
 # Dionysiac
 ---
 #adjective
-- **Wild and ecstatic**
+- **Wild and [[e/_ecstatic|ecstatic]]**
 ---
 ### Synonyms
-- [[[[d/_dionysian|dionysian]]]]
+- [[dionysian]]
 ---

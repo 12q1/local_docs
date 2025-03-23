@@ -1,6 +1,6 @@
 # Crotchety
 ---
 #adjective
-- **Cranky, disagreeable, or stubborn, especially if prone to odd whims or fancies.**
+- **[[c/_cranky|Cranky]], [[d/_disagreeable|disagreeable]], or stubborn, especially if prone to odd whims or fancies.**
 ---
 ---

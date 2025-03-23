@@ -1,6 +1,6 @@
 # Cos
 ---
 #noun
-- **A variety of lettuce with long, crisp leaves.**
+- **A variety of lettuce with long, [[c/_crisp|crisp]] leaves.**
 ---
 ---

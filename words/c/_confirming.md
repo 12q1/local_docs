@@ -2,12 +2,12 @@
 ---
 #verb
 - **To strengthen; to make firm or resolute.**
-- **To administer the sacrament of confirmation on (someone).**
-- **To assure the accuracy of previous statements.**
+- **To [[a/_administer|administer]] the sacrament of [[c/_confirmation|confirmation]] on (someone).**
+- **To [[a/_assure|assure]] the [[a/_accuracy|accuracy]] of previous statements.**
 ---
 ### Antonyms
-- [[[[c/_contradict|contradict]]]], [[[[d/_deny|deny]]]], [[[[d/_disconfirm|disconfirm]]]], [[[[d/_dispute|dispute]]]], [[infirm]], [[question]]
+- [[contradict]], [[deny]], [[disconfirm]], [[dispute]], [[infirm]], [[question]]
 #noun
-- **An act of confirmation.**
+- **An [[a/_act|act]] of [[c/_confirmation|confirmation]].**
 ---
 ---

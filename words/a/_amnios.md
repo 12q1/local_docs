@@ -1,6 +1,6 @@
 # Amnios
 ---
 #noun
-- **Amnion**
+- **[[a/_amnion|Amnion]]**
 ---
 ---

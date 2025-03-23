@@ -1,7 +1,7 @@
 # Decentralisation
 ---
 #noun
-- **The action of decentralizing, or the state of being decentralized.**
+- **The [[a/_action|action]] of [[d/_decentralizing|decentralizing]], or the state of [[b/_being|being]] [[d/_decentralized|decentralized]].**
 ---
 ### Antonyms
 - [[recentralization]]

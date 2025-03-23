@@ -1,7 +1,7 @@
 # Dibbers
 ---
 #noun
-- **A tool with a handle on one end and a point on the other, used in the garden to poke holes in preparation for planting seeds, bulbs, etc. Also known as a dibble or dib.**
-- **One who dibs.**
+- **A tool with a handle on one [[e/_end|end]] and a point on the other, used in the garden to poke holes in preparation for planting seeds, [[b/_bulbs|bulbs]], etc. [[a/_also|Also]] known as a [[d/_dibble|dibble]] or [[d/_dib|dib]].**
+- **One who [[d/_dibs|dibs]].**
 ---
 ---

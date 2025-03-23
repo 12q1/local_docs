@@ -1,7 +1,7 @@
 # Demilunes
 ---
 #noun
-- **A fortification constructed beyond the main ditch of a fortress, and in front of the curtain between two bastions, intended to defend the curtain; a ravelin.**
-- **A crescentic mass of granular protoplasm present in the salivary glands.**
+- **A fortification [[c/_constructed|constructed]] [[b/_beyond|beyond]] the main [[d/_ditch|ditch]] of a fortress, and in front of the [[c/_curtain|curtain]] [[b/_between|between]] two [[b/_bastions|bastions]], intended to [[d/_defend|defend]] the [[c/_curtain|curtain]]; a ravelin.**
+- **A [[c/_crescentic|crescentic]] mass of granular protoplasm present in the salivary glands.**
 ---
 ---

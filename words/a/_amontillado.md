@@ -1,6 +1,6 @@
 # Amontillado
 ---
 #noun
-- **A pale, dry sherry from Montilla.**
+- **A pale, [[d/_dry|dry]] sherry from Montilla.**
 ---
 ---

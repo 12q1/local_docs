@@ -1,27 +1,27 @@
 # Bongs
 ---
 #noun
-- **The clang of a large bell.**
-- **Doorbell chimes.**
+- **The [[c/_clang|clang]] of a large [[b/_bell|bell]].**
+- **[[d/_doorbell|Doorbell]] [[c/_chimes|chimes]].**
 ---
 #verb
-- **To pull a bell.**
-- **To ring a doorbell.**
+- **To pull a [[b/_bell|bell]].**
+- **To ring a [[d/_doorbell|doorbell]].**
 ---
 #noun
-- **A vessel, usually made of glass or ceramic and filled with water, used in smoking various substances; especially marijuana or pot.**
-- **An act of smoking one serving of drugs from a bong.**
-- **A device for rapidly consuming beer, usually consisting of a funnel or reservoir of beer and a length of tubing.**
+- **A vessel, usually made of glass or [[c/_ceramic|ceramic]] and filled with water, used in smoking various substances; especially marijuana or pot.**
+- **An [[a/_act|act]] of smoking one serving of [[d/_drugs|drugs]] from a [[b/_bong|bong]].**
+- **A [[d/_device|device]] for rapidly [[c/_consuming|consuming]] [[b/_beer|beer]], usually [[c/_consisting|consisting]] of a funnel or reservoir of [[b/_beer|beer]] and a length of tubing.**
 ---
 ### Synonyms
-- [[[[b/_beer|beer]] [[b/_bong|bong]]]], [[[[b/_bucket|bucket]] [[b/_bong|bong]]]], [[water pipe]]
+- [[beer bong]], [[bucket bong]], [[water pipe]]
 #noun
 - **A very wide piton.**
 ---
 #noun
-- **An Australian Aboriginal person.**
+- **An [[a/_australian|Australian]] [[a/_aboriginal|Aboriginal]] person.**
 ---
 #noun
-- **(thieves' cant) A purse.**
+- **(thieves' [[c/_cant|cant]]) A purse.**
 ---
 ---

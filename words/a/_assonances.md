@@ -1,6 +1,6 @@
 # Assonances
 ---
 #noun
-- **The repetition of similar or identical vowel sounds (though with different consonants), usually in literature or poetry.**
+- **The repetition of similar or identical vowel sounds (though with [[d/_different|different]] [[c/_consonants|consonants]]), usually in literature or poetry.**
 ---
 ---

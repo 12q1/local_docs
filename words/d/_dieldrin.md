@@ -1,6 +1,6 @@
 # Dieldrin
 ---
 #noun
-- **A cyclodiene insecticide, related to aldrin, that is a persistent organic pollutant.**
+- **A [[c/_cyclodiene|cyclodiene]] insecticide, related to [[a/_aldrin|aldrin]], that is a persistent organic pollutant.**
 ---
 ---

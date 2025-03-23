@@ -1,6 +1,6 @@
 # Disquisitional
 ---
 #adjective
-- **Pertaining to disquisition; of the nature of disquisition.**
+- **Pertaining to [[d/_disquisition|disquisition]]; of the nature of [[d/_disquisition|disquisition]].**
 ---
 ---

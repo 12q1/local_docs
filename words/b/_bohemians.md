@@ -1,6 +1,6 @@
 # Bohemians
 ---
 #noun
-- **An unconventional or nonconformist artist or writer.**
+- **An unconventional or nonconformist [[a/_artist|artist]] or writer.**
 ---
 ---

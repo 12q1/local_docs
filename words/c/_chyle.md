@@ -1,6 +1,6 @@
 # Chyle
 ---
 #noun
-- **A digestive fluid containing fatty droplets, found in the small intestine.**
+- **A [[d/_digestive|digestive]] fluid [[c/_containing|containing]] fatty [[d/_droplets|droplets]], found in the small intestine.**
 ---
 ---

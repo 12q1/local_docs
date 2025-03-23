@@ -2,10 +2,10 @@
 ---
 #adjective
 - **Of or relating to something that is in question as to its intent or value.**
-- **Inclined to argue or debate; provoking debate.**
+- **Inclined to [[a/_argue|argue]] or [[d/_debate|debate]]; provoking [[d/_debate|debate]].**
 ---
 ### Synonyms
-- [[[[a/_argumentative|argumentative]]]], [[[[c/_contentious|contentious]]]], [[quarrelsome]]
+- [[argumentative]], [[contentious]], [[quarrelsome]]
 ### Antonyms
-- [[[[c/_conciliatory|conciliatory]]]], [[pacific]], [[peaceable]]
+- [[conciliatory]], [[pacific]], [[peaceable]]
 ---

@@ -1,7 +1,7 @@
 # Electroconvulsive
 ---
 #adjective
-- **Causing seizures or convulsions by means of strong electrical shocks.**
+- **[[c/_causing|Causing]] seizures or [[c/_convulsions|convulsions]] by means of strong [[e/_electrical|electrical]] shocks.**
 	- _Example: Electroconvulsive therapy is virtually a last-resort technique._
 ---
 ---

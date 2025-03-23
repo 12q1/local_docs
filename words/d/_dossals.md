@@ -1,6 +1,6 @@
 # Dossals
 ---
 #noun
-- **A hanging, usually of rich stuff, at the back of a throne, altar, etc.**
+- **A hanging, usually of rich stuff, at the [[b/_back|back]] of a throne, [[a/_altar|altar]], etc.**
 ---
 ---

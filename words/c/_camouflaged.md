@@ -1,9 +1,9 @@
 # Camouflaged
 ---
 #verb
-- **To hide or disguise something by covering it up or changing the way it looks.**
+- **To hide or [[d/_disguise|disguise]] something by [[c/_covering|covering]] it up or [[c/_changing|changing]] the way it looks.**
 ---
 #adjective
-- **Wearing, in, or treated with, camouflage; disguised**
+- **Wearing, in, or treated with, [[c/_camouflage|camouflage]]; [[d/_disguised|disguised]]**
 ---
 ---

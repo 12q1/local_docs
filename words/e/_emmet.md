@@ -1,7 +1,7 @@
 # Emmet
 ---
 #noun
-- **An ant.**
-- **(Cornish dialect) A tourist.**
+- **An [[a/_ant|ant]].**
+- **([[c/_cornish|Cornish]] [[d/_dialect|dialect]]) A tourist.**
 ---
 ---

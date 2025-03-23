@@ -2,8 +2,8 @@
 ---
 #adjective
 - **Very foolish; failing to exercise intelligence or judgement or rationality**
-- **Of, pertaining to, or characteristic of donkeys**
+- **Of, pertaining to, or [[c/_characteristic|characteristic]] of [[d/_donkeys|donkeys]]**
 ---
 ### Synonyms
-- [[[[d/_donkeyish|donkeyish]]]], [[foolish]], [[obstinate]]
+- [[donkeyish]], [[foolish]], [[obstinate]]
 ---

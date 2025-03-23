@@ -1,6 +1,6 @@
 # Bemusement
 ---
 #noun
-- **The state of being bemused.**
+- **The state of [[b/_being|being]] [[b/_bemused|bemused]].**
 ---
 ---

@@ -1,14 +1,14 @@
 # Enquiring
 ---
 #verb
-- **To make an enquiry.**
+- **To make an [[e/_enquiry|enquiry]].**
 	- _Example: He enquired about the availability of rental bicycles in the town._
-- **To ask about (something).**
+- **To [[a/_ask|ask]] [[a/_about|about]] (something).**
 ---
 #noun
-- **An instance of making an enquiry; an asking.**
+- **An instance of making an [[e/_enquiry|enquiry]]; an [[a/_asking|asking]].**
 ---
 #adjective
-- **Curious, inquisitive or investigative.**
+- **[[c/_curious|Curious]], inquisitive or investigative.**
 ---
 ---

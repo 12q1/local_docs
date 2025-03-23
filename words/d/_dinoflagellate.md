@@ -1,6 +1,6 @@
 # Dinoflagellate
 ---
 #noun
-- **Any of many marine protozoa of the phylum Dinoflagellata, which have two flagella.**
+- **[[a/_any|Any]] of many marine protozoa of the phylum [[d/_dinoflagellata|Dinoflagellata]], which have two flagella.**
 ---
 ---

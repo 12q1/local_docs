@@ -1,6 +1,6 @@
 # Birchen
 ---
 #adjective
-- **Made from birch wood.**
+- **Made from [[b/_birch|birch]] wood.**
 ---
 ---

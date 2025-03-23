@@ -1,6 +1,6 @@
 # Dynode
 ---
 #noun
-- **Any of a series of electrodes within a photomultiplier tube.**
+- **[[a/_any|Any]] of a series of [[e/_electrodes|electrodes]] within a photomultiplier tube.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Edification
 ---
 #noun
-- **The act of edifying, or the state of being edified or improved; a building process, especially morally, emotionally, or spiritually**
-- **A building or edifice.**
+- **The [[a/_act|act]] of [[e/_edifying|edifying]], or the state of [[b/_being|being]] [[e/_edified|edified]] or improved; a [[b/_building|building]] process, especially morally, [[e/_emotionally|emotionally]], or spiritually**
+- **A [[b/_building|building]] or [[e/_edifice|edifice]].**
 ---
 ---

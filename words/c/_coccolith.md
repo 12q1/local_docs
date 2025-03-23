@@ -1,6 +1,6 @@
 # Coccolith
 ---
 #noun
-- **A microscopic skeletal plate of calcite on the surface of certain marine phytoplankton; it forms chalk and limestone when fossilized**
+- **A microscopic skeletal plate of [[c/_calcite|calcite]] on the surface of [[c/_certain|certain]] marine phytoplankton; it forms [[c/_chalk|chalk]] and limestone when fossilized**
 ---
 ---

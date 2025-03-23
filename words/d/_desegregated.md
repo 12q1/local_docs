@@ -1,6 +1,6 @@
 # Desegregated
 ---
 #verb
-- **To the end segregation of (something).**
+- **To the [[e/_end|end]] segregation of (something).**
 ---
 ---

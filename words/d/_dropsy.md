@@ -1,7 +1,7 @@
 # Dropsy
 ---
 #noun
-- **Swelling, edema, often from chronic obstructive pulmonary disease (COPD).**
+- **Swelling, [[e/_edema|edema]], often from [[c/_chronic|chronic]] obstructive pulmonary [[d/_disease|disease]] (COPD).**
 ---
 ### Synonyms
 - [[water sickness]]

@@ -1,7 +1,7 @@
 # Callas
 ---
 #noun
-- **A marsh plant native to cooler areas throughout the northern hemisphere, Calla palustris, having pale green flowers in a white spathe.**
-- **The calla lily, Zantedeschia aethiopica.**
+- **A marsh plant native to [[c/_cooler|cooler]] [[a/_areas|areas]] throughout the northern hemisphere, [[c/_calla|Calla]] palustris, having pale green flowers in a white spathe.**
+- **The [[c/_calla|calla]] lily, Zantedeschia aethiopica.**
 ---
 ---

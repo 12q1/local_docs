@@ -1,0 +1,7 @@
+# Entombing
+---
+#verb
+- **To [[d/_deposit|deposit]] in a tomb.**
+- **To [[c/_confine|confine]] in restrictive surroundings.**
+---
+---

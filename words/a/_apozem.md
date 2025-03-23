@@ -1,6 +1,6 @@
 # Apozem
 ---
 #noun
-- **A decoction or infusion.**
+- **A [[d/_decoction|decoction]] or infusion.**
 ---
 ---

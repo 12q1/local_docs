@@ -1,13 +1,13 @@
 # County
 ---
 #noun
-- **The land ruled by a count or a countess.**
-- **An administrative region of various countries, including Bhutan, Canada, China, Croatia, Ireland, Japan, New Zealand, Norway, Poland, Romania, South Korea, Sweden, the United Kingdom, and 48 of the 50 United States (excluding Alaska and Louisiana).**
-- **A definitive geographic region, without direct administrative functions.**
-- **A jail operated by a county government.**
+- **The land ruled by a [[c/_count|count]] or a [[c/_countess|countess]].**
+- **An [[a/_administrative|administrative]] region of various [[c/_countries|countries]], including [[b/_bhutan|Bhutan]], [[c/_canada|Canada]], [[c/_china|China]], Croatia, Ireland, Japan, New Zealand, Norway, Poland, Romania, South Korea, Sweden, the United Kingdom, and 48 of the 50 United States (excluding [[a/_alaska|Alaska]] and Louisiana).**
+- **A [[d/_definitive|definitive]] geographic region, without [[d/_direct|direct]] [[a/_administrative|administrative]] functions.**
+- **A jail operated by a [[c/_county|county]] government.**
 	- _Example: He can't come; he's up in the county for agg assault._
 ---
 #adjective
-- **Characteristic of a ‘county family’; representative of the gentry or aristocracy of a county.**
+- **[[c/_characteristic|Characteristic]] of a ‘[[c/_county|county]] family’; representative of the gentry or [[a/_aristocracy|aristocracy]] of a [[c/_county|county]].**
 ---
 ---

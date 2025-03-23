@@ -1,10 +1,10 @@
 # Clearcole
 ---
 #noun
-- **A primer (for paint) containing white lead.**
-- **A coating to which gold leaf is applied.**
+- **A primer (for paint) [[c/_containing|containing]] white lead.**
+- **A [[c/_coating|coating]] to which gold leaf is [[a/_applied|applied]].**
 ---
 #verb
-- **To coat or paint with clearcole.**
+- **To [[c/_coat|coat]] or paint with [[c/_clearcole|clearcole]].**
 ---
 ---

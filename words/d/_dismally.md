@@ -1,6 +1,6 @@
 # Dismally
 ---
 #adverb
-- **In a dismal manner.**
+- **In a [[d/_dismal|dismal]] manner.**
 ---
 ---

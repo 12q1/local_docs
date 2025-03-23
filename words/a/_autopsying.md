@@ -1,7 +1,7 @@
 # Autopsying
 ---
 #verb
-- **To perform an autopsy on.**
-- **To perform an after-the-fact analysis of, especially of a failure.**
+- **To perform an [[a/_autopsy|autopsy]] on.**
+- **To perform an [[a/_after|after]]-the-fact [[a/_analysis|analysis]] of, especially of a failure.**
 ---
 ---

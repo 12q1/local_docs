@@ -1,6 +1,6 @@
 # Begging
 ---
 #noun
-- **The act of one who begs.**
+- **The [[a/_act|act]] of one who [[b/_begs|begs]].**
 ---
 ---

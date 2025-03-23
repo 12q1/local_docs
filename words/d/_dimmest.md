@@ -1,13 +1,13 @@
 # Dimmest
 ---
 #adjective
-- **Not bright or colorful.**
+- **Not [[b/_bright|bright]] or [[c/_colorful|colorful]].**
 	- _Example: The lighting was too dim for me to make out his facial features._
 - **Not smart or intelligent.**
 	- _Example: He may be a bit dim, but he's not stupid._
 - **Indistinct, hazy or unclear.**
 	- _Example: His vision grew dimmer as he aged._
-- **Disapproving, unfavorable: rarely used outside the phrase take a dim view of.**
+- **[[d/_disapproving|Disapproving]], unfavorable: rarely used outside the phrase take a [[d/_dim|dim]] view of.**
 ---
 #adjective
 - **Lessened, reduced**
@@ -17,5 +17,5 @@
 - **Reduced by a semitone**
 ---
 ### Antonyms
-- [[[[a/_augmented|augmented]]]]
+- [[augmented]]
 ---

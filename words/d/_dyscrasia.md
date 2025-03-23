@@ -1,9 +1,9 @@
 # Dyscrasia
 ---
 #noun
-- **(ancient usage) Imbalance of the four bodily humors (blood, black and yellow bile, phlegm) that was thought to cause disease.**
-- **(modern usage) Any bodily disorder, especially regarding the blood.**
+- **([[a/_ancient|ancient]] usage) Imbalance of the four [[b/_bodily|bodily]] humors ([[b/_blood|blood]], [[b/_black|black]] and yellow [[b/_bile|bile]], phlegm) that was thought to [[c/_cause|cause]] [[d/_disease|disease]].**
+- **(modern usage) [[a/_any|Any]] [[b/_bodily|bodily]] [[d/_disorder|disorder]], especially regarding the [[b/_blood|blood]].**
 ---
 ### Synonyms
-- [[[[d/_disease|disease]]]]
+- [[disease]]
 ---

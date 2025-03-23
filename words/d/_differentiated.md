@@ -1,19 +1,19 @@
 # Differentiated
 ---
 #verb
-- **To show, or be the distinction between two things.**
-- **To perceive the difference between things; to discriminate.**
+- **To show, or be the [[d/_distinction|distinction]] [[b/_between|between]] two things.**
+- **To perceive the [[d/_difference|difference]] [[b/_between|between]] things; to [[d/_discriminate|discriminate]].**
 - **To modify, or be modified.**
-- **To calculate the derivative of a function.**
-- **To calculate the differential of a function of multiple variables.**
-- **To produce distinct organs or to achieve specific functions by a process of development called differentiation.**
+- **To [[c/_calculate|calculate]] the [[d/_derivative|derivative]] of a function.**
+- **To [[c/_calculate|calculate]] the [[d/_differential|differential]] of a function of multiple variables.**
+- **To produce [[d/_distinct|distinct]] organs or to [[a/_achieve|achieve]] specific functions by a process of [[d/_development|development]] [[c/_called|called]] [[d/_differentiation|differentiation]].**
 ---
 ### Synonyms
-- [[[[c/_change|change]]]], [[transform]], [[[[d/_differentialize|differentialize]]]], [[[[d/_differentialize|differentialize]]]]
+- [[change]], [[transform]], [[differentialize]], [[differentialize]]
 ### Antonyms
-- [[leave [[a/_alone|alone]]]], [[preserve]], [[mix up]], [[muddle up]], [[equate]]
+- [[leave alone]], [[preserve]], [[mix up]], [[muddle up]], [[equate]]
 #adjective
-- **(of a cell or tissue) That has taken on a specialized form and function**
+- **(of a [[c/_cell|cell]] or tissue) That has taken on a specialized form and function**
 ---
 ### Antonyms
 - [[undifferentiated]]

@@ -1,6 +1,6 @@
 # Enswathed
 ---
 #verb
-- **To swathe; to envelop, as in swaddling clothes.**
+- **To swathe; to [[e/_envelop|envelop]], as in swaddling [[c/_clothes|clothes]].**
 ---
 ---

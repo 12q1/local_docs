@@ -1,6 +1,6 @@
 # Dimensioning
 ---
 #verb
-- **To mark, cut or shape something to specified dimensions.**
+- **To mark, [[c/_cut|cut]] or shape something to specified [[d/_dimensions|dimensions]].**
 ---
 ---

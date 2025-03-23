@@ -1,7 +1,7 @@
 # Devon
 ---
 #noun
-- **(Eastern Australia) A type of processed meat sausage.**
+- **([[e/_eastern|Eastern]] [[a/_australia|Australia]]) A type of processed meat sausage.**
 ---
 ### Synonyms
 - [[fritz]]

@@ -3,14 +3,14 @@
 #noun
 - **A fool, a simpleton, a mindless person.**
 - **A small mindless sketch, etc.**
-- **(sometimes childish) Penis.**
+- **(sometimes [[c/_childish|childish]]) Penis.**
 ---
 #verb
-- **To draw or scribble aimlessly.**
+- **To [[d/_draw|draw]] or scribble [[a/_aimlessly|aimlessly]].**
 	- _Example: The bored student doodled a submarine in his notebook._
-- **To drone like a bagpipe.**
+- **To [[d/_drone|drone]] like a [[b/_bagpipe|bagpipe]].**
 ---
 #noun
-- **Any crossbreed of a poodle with a different breed of dog.**
+- **[[a/_any|Any]] [[c/_crossbreed|crossbreed]] of a poodle with a [[d/_different|different]] [[b/_breed|breed]] of [[d/_dog|dog]].**
 ---
 ---

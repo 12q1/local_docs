@@ -1,6 +1,6 @@
 # Endometritis
 ---
 #noun
-- **Inflammation of the endometrium**
+- **Inflammation of the [[e/_endometrium|endometrium]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Eyedroppers
 ---
 #noun
-- **A dropper for administering eyedrops.**
+- **A [[d/_dropper|dropper]] for [[a/_administering|administering]] eyedrops.**
 ---
 ---

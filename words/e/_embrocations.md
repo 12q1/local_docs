@@ -1,7 +1,7 @@
 # Embrocations
 ---
 #noun
-- **The act of moistening and rubbing a diseased part with spirit, oil, etc.**
-- **The liquid or lotion with which an affected part is rubbed.**
+- **The [[a/_act|act]] of moistening and rubbing a [[d/_diseased|diseased]] part with spirit, oil, etc.**
+- **The liquid or lotion with which an [[a/_affected|affected]] part is rubbed.**
 ---
 ---

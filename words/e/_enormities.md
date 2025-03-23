@@ -1,12 +1,12 @@
 # Enormities
 ---
 #noun
-- **Deviation from what is normal or standard; irregularity, abnormality.**
-- **Deviation from moral normality; extreme wickedness, nefariousness, or cruelty.**
+- **[[d/_deviation|Deviation]] from what is normal or standard; irregularity, [[a/_abnormality|abnormality]].**
+- **[[d/_deviation|Deviation]] from moral normality; extreme wickedness, nefariousness, or [[c/_cruelty|cruelty]].**
 	- _Example: Not until the war ended and journalists were able to enter Cambodia did the world really become aware of the enormity of Pol Pot’s oppression._
-- **A breach of law or morality; a transgression, an act of evil or wickedness.**
-- **Great size; enormousness, hugeness, immenseness.**
+- **A [[b/_breach|breach]] of law or morality; a transgression, an [[a/_act|act]] of evil or wickedness.**
+- **Great size; [[e/_enormousness|enormousness]], hugeness, immenseness.**
 ---
 ### Synonyms
-- [[[[d/_desecration|desecration]]]], [[violation]], [[[[a/_atrociousness|atrociousness]]]], [[[[d/_depravity|depravity]]]], [[immorality]], [[[[a/_anomalousness|anomalousness]]]], [[oddness]], [[weirdness]], [[immensity]], [[prodigiousness]]
+- [[desecration]], [[violation]], [[atrociousness]], [[depravity]], [[immorality]], [[anomalousness]], [[oddness]], [[weirdness]], [[immensity]], [[prodigiousness]]
 ---

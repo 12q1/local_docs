@@ -1,9 +1,9 @@
 # Circumstances
 ---
 #noun
-- **That which attends, or relates to, or in some way affects, a fact or event; an attendant thing or state of things.**
+- **That which [[a/_attends|attends]], or relates to, or in some way [[a/_affects|affects]], a fact or event; an [[a/_attendant|attendant]] thing or state of things.**
 - **An event; a fact; a particular incident.**
-- **Circumlocution; detail.**
-- **Condition in regard to worldly estate; state of property; situation; surroundings.**
+- **[[c/_circumlocution|Circumlocution]]; [[d/_detail|detail]].**
+- **[[c/_condition|Condition]] in regard to worldly estate; state of property; situation; surroundings.**
 ---
 ---

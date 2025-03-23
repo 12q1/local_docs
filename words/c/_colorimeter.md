@@ -1,7 +1,7 @@
 # Colorimeter
 ---
 #noun
-- **Any of various instruments designed to determine the color of something, by comparison with standard colors or by spectroscopy.**
-- **An analytic instrument that estimates the concentration of a substance in a sample by measuring its color against the solution's complimentary color.**
+- **[[a/_any|Any]] of various instruments [[d/_designed|designed]] to [[d/_determine|determine]] the [[c/_color|color]] of something, by [[c/_comparison|comparison]] with standard [[c/_colors|colors]] or by spectroscopy.**
+- **An [[a/_analytic|analytic]] instrument that estimates the [[c/_concentration|concentration]] of a substance in a sample by measuring its [[c/_color|color]] [[a/_against|against]] the solution's [[c/_complimentary|complimentary]] [[c/_color|color]].**
 ---
 ---

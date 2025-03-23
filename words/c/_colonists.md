@@ -1,7 +1,7 @@
 # Colonists
 ---
 #noun
-- **A founder of a colony.**
-- **A member of a colony.**
+- **A founder of a [[c/_colony|colony]].**
+- **A member of a [[c/_colony|colony]].**
 ---
 ---

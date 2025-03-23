@@ -1,9 +1,9 @@
 # Counterinsurgency
 ---
 #noun
-- **Any political or military action taken to defeat insurgency, especially during guerrilla warfare.**
+- **[[a/_any|Any]] political or military [[a/_action|action]] taken to [[d/_defeat|defeat]] insurgency, especially [[d/_during|during]] guerrilla warfare.**
 	- _Example: Morrell says whatever the details, the United States will continue to pursue a military and civilian counterinsurgency strategy in Afghanistan._
 ---
 ### Synonyms
-- [[[[c/_coin|COIN]]]], [[antiinsurgency]], [[pacification]]
+- [[COIN]], [[antiinsurgency]], [[pacification]]
 ---

@@ -1,6 +1,6 @@
 # Disafforestment
 ---
 #noun
-- **Disafforestation**
+- **[[d/_disafforestation|Disafforestation]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Capably
 ---
 #adverb
-- **In a capable manner.**
+- **In a [[c/_capable|capable]] manner.**
 ---
 ---

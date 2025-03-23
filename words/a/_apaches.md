@@ -1,9 +1,9 @@
 # Apaches
 ---
 #noun
-- **Any of several Athabascan-speaking peoples of the American southwest excluding Navajo, i.e. Chiricahua, Jicarilla, Lipan, Mescalero, Plains Apache, or Western Apache.**
-- **A person belonging to an Apache people.**
-- **A Parisian gangster of the late 19th and early 20th centuries.**
-- **AH-64 Apache, a U.S. military helicopter.**
+- **[[a/_any|Any]] of several [[a/_athabascan|Athabascan]]-speaking peoples of the [[a/_american|American]] southwest excluding Navajo, i.[[e/_e|e]]. [[c/_chiricahua|Chiricahua]], Jicarilla, Lipan, Mescalero, Plains [[a/_apache|Apache]], or Western [[a/_apache|Apache]].**
+- **A person [[b/_belonging|belonging]] to an [[a/_apache|Apache]] people.**
+- **A Parisian gangster of the late 19th and [[e/_early|early]] 20th [[c/_centuries|centuries]].**
+- **[[a/_ah|AH]]-64 [[a/_apache|Apache]], a U.S. military helicopter.**
 ---
 ---

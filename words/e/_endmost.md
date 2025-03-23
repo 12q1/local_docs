@@ -1,6 +1,6 @@
 # Endmost
 ---
 #adjective
-- **Last in a series, furthest away**
+- **Last in a series, furthest [[a/_away|away]]**
 ---
 ---

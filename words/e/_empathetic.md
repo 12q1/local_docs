@@ -1,6 +1,6 @@
 # Empathetic
 ---
 #adjective
-- **Showing empathy for others, and recognizing their feelings; empathic**
+- **Showing [[e/_empathy|empathy]] for others, and recognizing their feelings; [[e/_empathic|empathic]]**
 ---
 ---

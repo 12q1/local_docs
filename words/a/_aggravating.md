@@ -11,5 +11,5 @@
 ### Synonyms
 - [[exasperate]], [[irritate]], [[provoke]], [[exacerbate]], [[exaggerate]], [[heighten]], [[increase]], [[intensify]], [[magnify]]
 ### Antonyms
-- [[[[a/_alleviate|alleviate]]]], [[mitigate]]
+- [[alleviate]], [[mitigate]]
 ---

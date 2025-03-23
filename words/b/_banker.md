@@ -1,9 +1,9 @@
 # Banker
 ---
 #noun
-- **One who conducts the business of banking; one who, individually, or as a member of a company, keeps an establishment for the deposit or loan of money, or for traffic in money, bills of exchange, etc.**
-- **A money changer.**
-- **The dealer, or one who keeps the bank in a gambling house.**
-- **The stone bench on which a mason cuts or squares his work.**
+- **One who [[c/_conducts|conducts]] the [[b/_business|business]] of [[b/_banking|banking]]; one who, individually, or as a member of a [[c/_company|company]], keeps an establishment for the [[d/_deposit|deposit]] or loan of money, or for traffic in money, [[b/_bills|bills]] of exchange, etc.**
+- **A money [[c/_changer|changer]].**
+- **The [[d/_dealer|dealer]], or one who keeps the [[b/_bank|bank]] in a gambling house.**
+- **The stone [[b/_bench|bench]] on which a mason [[c/_cuts|cuts]] or squares his work.**
 ---
 ---

@@ -1,11 +1,11 @@
 # Commendatory
 ---
 #noun
-- **That which commends; a commendation; eulogy.**
+- **That which [[c/_commends|commends]]; a [[c/_commendation|commendation]]; eulogy.**
 ---
 #adjective
-- **Serving to commend or compliment; complimentary.**
-- **Holding a benefice in commendam.**
+- **Serving to [[c/_commend|commend]] or [[c/_compliment|compliment]]; [[c/_complimentary|complimentary]].**
+- **Holding a [[b/_benefice|benefice]] in [[c/_commendam|commendam]].**
 	- _Example: a commendatory bishop_
 ---
 ---

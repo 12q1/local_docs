@@ -1,11 +1,11 @@
 # Anent
 ---
 #preposition
-- **Concerning, with regard to, about, in respect to, as to, insofar as, inasmuch as., apropos**
+- **[[c/_concerning|Concerning]], with regard to, [[a/_about|about]], in respect to, as to, insofar as, inasmuch as., [[a/_apropos|apropos]]**
 - **In the opinion or judgment of.**
-- **Against, in front of, fronting; before; opposite; over against, on the other side.**
+- **[[a/_against|Against]], in front of, fronting; [[b/_before|before]]; opposite; over [[a/_against|against]], on the other side.**
 - **In a line with; side by side with; on a level with.**
 ---
 ### Synonyms
-- [[[[a/_apropos|apropos]]]], [[as for]]
+- [[apropos]], [[as for]]
 ---

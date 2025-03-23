@@ -1,9 +1,9 @@
 # Dozers
 ---
 #noun
-- **One who dozes.**
+- **One who [[d/_dozes|dozes]].**
 ---
 #noun
-- **A bulldozer.**
+- **A [[b/_bulldozer|bulldozer]].**
 ---
 ---

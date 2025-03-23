@@ -1,7 +1,7 @@
 # Charcoaling
 ---
 #verb
-- **To draw with charcoal.**
-- **To cook over charcoal.**
+- **To [[d/_draw|draw]] with [[c/_charcoal|charcoal]].**
+- **To [[c/_cook|cook]] over [[c/_charcoal|charcoal]].**
 ---
 ---

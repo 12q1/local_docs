@@ -1,8 +1,8 @@
 # Artiest
 ---
 #adjective
-- **Pretending to artistic worth; high-flown.**
+- **Pretending to [[a/_artistic|artistic]] worth; high-flown.**
 ---
 ### Synonyms
-- [[[[a/_artsy|artsy]]]]
+- [[artsy]]
 ---

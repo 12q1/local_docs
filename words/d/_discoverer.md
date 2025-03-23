@@ -1,7 +1,7 @@
 # Discoverer
 ---
 #noun
-- **One who discovers: a person who has discovered something.**
+- **One who [[d/_discovers|discovers]]: a person who has [[d/_discovered|discovered]] something.**
 ---
 ### Synonyms
 - [[repertor]]

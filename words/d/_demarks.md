@@ -1,6 +1,6 @@
 # Demarks
 ---
 #verb
-- **To demarcate.**
+- **To [[d/_demarcate|demarcate]].**
 ---
 ---

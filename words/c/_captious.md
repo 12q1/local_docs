@@ -1,9 +1,9 @@
 # Captious
 ---
 #adjective
-- **That captures; especially, (of an argument, words etc.) designed to capture or entrap in misleading arguments; sophistical.**
-- **Having a disposition to find fault unreasonably or to raise petty objections; cavilling, nitpicky.**
+- **That [[c/_captures|captures]]; especially, (of an [[a/_argument|argument]], words etc.) [[d/_designed|designed]] to [[c/_capture|capture]] or [[e/_entrap|entrap]] in misleading [[a/_arguments|arguments]]; sophistical.**
+- **Having a [[d/_disposition|disposition]] to find fault unreasonably or to raise petty objections; [[c/_cavilling|cavilling]], nitpicky.**
 ---
 ### Synonyms
-- [[[[c/_carping|carping]]]], [[[[c/_critical|critical]]]], [[faultfinding]], [[hypercritical]], [[nitpicky]], [[sophistical]], [[thorny]], [[tricky]]
+- [[carping]], [[critical]], [[faultfinding]], [[hypercritical]], [[nitpicky]], [[sophistical]], [[thorny]], [[tricky]]
 ---

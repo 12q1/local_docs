@@ -1,6 +1,6 @@
 # Cps
 ---
 #noun
-- **Initialism of character(s) per second.**
+- **Initialism of [[c/_character|character]](s) per second.**
 ---
 ---

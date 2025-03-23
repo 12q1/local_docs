@@ -1,9 +1,9 @@
 # Dripstone
 ---
 #noun
-- **A protective moulding over a door or window that allows rain to drip away from the structure.**
-- **Stalactites and stalagmites collectively.**
+- **A protective moulding over a [[d/_door|door]] or window that [[a/_allows|allows]] rain to [[d/_drip|drip]] [[a/_away|away]] from the structure.**
+- **Stalactites and stalagmites [[c/_collectively|collectively]].**
 ---
 ### Synonyms
-- [[[[d/_drip|drip]]]], [[headmold]], [[hoodmold]], [[throating]]
+- [[drip]], [[headmold]], [[hoodmold]], [[throating]]
 ---

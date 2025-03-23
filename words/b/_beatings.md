@@ -1,9 +1,9 @@
 # Beatings
 ---
 #noun
-- **The action by which someone or something is beaten.**
+- **The [[a/_action|action]] by which someone or something is [[b/_beaten|beaten]].**
 	- _Example: secret beatings of prisoners_
-- **A heavy defeat or setback.**
+- **A heavy [[d/_defeat|defeat]] or setback.**
 - **The pulsation of the heart.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Afterword
 ---
 #noun
-- **An epilogue.**
+- **An [[e/_epilogue|epilogue]].**
 - **(of a letter) a postscript.**
-- **(to a book) an appendix.**
+- **(to a [[b/_book|book]]) an [[a/_appendix|appendix]].**
 ---
 ### Synonyms
-- [[[[a/_annex|annex]]]], [[aftertale]], [[[[a/_afterward|afterward]]]], [[afterscript]]
+- [[annex]], [[aftertale]], [[afterward]], [[afterscript]]
 ---

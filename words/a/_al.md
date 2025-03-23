@@ -1,6 +1,6 @@
 # Al
 ---
 #noun
-- **The Indian mulberry, Morinda citrifolia, especially as used to make dye.**
+- **The Indian mulberry, Morinda citrifolia, especially as used to make [[d/_dye|dye]].**
 ---
 ---

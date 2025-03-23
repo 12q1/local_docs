@@ -1,7 +1,7 @@
 # Bap
 ---
 #noun
-- **A soft bread roll, originally from Scotland.**
-- **(chiefly in the plural) A woman's breast.**
+- **A soft [[b/_bread|bread]] roll, originally from Scotland.**
+- **([[c/_chiefly|chiefly]] in the plural) A woman's [[b/_breast|breast]].**
 ---
 ---

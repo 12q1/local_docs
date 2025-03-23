@@ -1,6 +1,6 @@
 # Circumambulated
 ---
 #verb
-- **To walk around something in a circle, especially for a ritual purpose.**
+- **To walk [[a/_around|around]] something in a [[c/_circle|circle]], especially for a ritual purpose.**
 ---
 ---

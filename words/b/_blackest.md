@@ -1,33 +1,33 @@
 # Blackest
 ---
 #adjective
-- **(of an object) Absorbing all light and reflecting none; dark and hueless.**
+- **(of an object) [[a/_absorbing|Absorbing]] [[a/_all|all]] light and reflecting none; [[d/_dark|dark]] and hueless.**
 - **(of a place, etc) Without light.**
-- **(sometimes capitalized) Of or relating to any of various ethnic groups having dark pigmentation of the skin.**
-- **Designated for use by those ethnic groups which have dark pigmentation of the skin.**
+- **(sometimes [[c/_capitalized|capitalized]]) Of or relating to [[a/_any|any]] of various ethnic groups having [[d/_dark|dark]] pigmentation of the skin.**
+- **[[d/_designated|Designated]] for use by those ethnic groups which have [[d/_dark|dark]] pigmentation of the skin.**
 	- _Example: black drinking fountain; black hospital_
-- **(of a card) Of the spades or clubs suits. Compare red**
+- **(of a [[c/_card|card]]) Of the spades or [[c/_clubs|clubs]] suits. [[c/_compare|Compare]] red**
 	- _Example: I was dealt two red queens, and he got one of the black queens._
-- **Bad; evil; ill-omened.**
-- **Expressing menace, or discontent; threatening; sullen.**
+- **[[b/_bad|Bad]]; evil; ill-omened.**
+- **Expressing menace, or [[d/_discontent|discontent]]; threatening; sullen.**
 	- _Example: He shot her a black look._
-- **(of objects, markets, etc) Illegitimate, illegal or disgraced.**
+- **(of objects, markets, etc) Illegitimate, illegal or [[d/_disgraced|disgraced]].**
 - **Overcrowded.**
-- **(of coffee or tea) Without any cream, milk or creamer.**
+- **(of [[c/_coffee|coffee]] or tea) Without [[a/_any|any]] [[c/_cream|cream]], milk or [[c/_creamer|creamer]].**
 	- _Example: Jim drinks his coffee black, but Ellen prefers it with creamer._
-- **Of or relating to the playing pieces of a board game deemed to belong to the "black" set (in chess the set used by the player who moves second) (often regardless of the pieces' actual colour).**
-- **Said of a symbol or character that is solid, filled with color. Compare white.**
-- **Related to the Christian Democratic Union of Germany.**
+- **Of or relating to the playing pieces of a [[b/_board|board]] game [[d/_deemed|deemed]] to [[b/_belong|belong]] to the "[[b/_black|black]]" set (in [[c/_chess|chess]] the set used by the player who moves second) (often regardless of the pieces' [[a/_actual|actual]] [[c/_colour|colour]]).**
+- **Said of a symbol or [[c/_character|character]] that is solid, filled with [[c/_color|color]]. [[c/_compare|Compare]] white.**
+- **Related to the [[c/_christian|Christian]] [[d/_democratic|Democratic]] Union of Germany.**
 	- _Example: After the election, the parties united in a black-yellow alliance._
-- **Clandestine; relating to a political, military, or espionage operation or site, the existence or details of which is withheld from the general public.**
+- **[[c/_clandestine|Clandestine]]; relating to a political, military, or espionage operation or site, the existence or [[d/_details|details]] of which is withheld from the general public.**
 	- _Example: 5 percent of the Defense Department funding will go to black projects._
 - **Occult; relating to something (such as mystical or magical knowledge) which is unknown to or kept secret from the general public.**
-- **Protestant, often with the implication of being militantly pro-British or anti-Catholic**
-- **Having one or more features (hair, fur, armour, clothes, bark, etc) that is dark (or black); in taxonomy, especially: dark in comparison to another species with the same base name.**
-- **Foul; dirty.**
+- **Protestant, often with the implication of [[b/_being|being]] militantly pro-[[b/_british|British]] or [[a/_anti|anti]]-[[c/_catholic|Catholic]]**
+- **Having one or more features (hair, fur, [[a/_armour|armour]], [[c/_clothes|clothes]], [[b/_bark|bark]], etc) that is [[d/_dark|dark]] (or [[b/_black|black]]); in taxonomy, especially: [[d/_dark|dark]] in [[c/_comparison|comparison]] to [[a/_another|another]] species with the same [[b/_base|base]] name.**
+- **Foul; [[d/_dirty|dirty]].**
 ---
 ### Synonyms
-- [[[[d/_dark|dark]]]], [[swart]], [[[[d/_dark|dark]]]], [[gloomy]], [[pitch-[[b/_black|black]]]]
+- [[dark]], [[swart]], [[dark]], [[gloomy]], [[pitch-black]]
 ### Antonyms
-- [[nonblack]], [[unblack]], [[white]], [[[[b/_bright|bright]]]], [[illuminated]], [[lit]]
+- [[nonblack]], [[unblack]], [[white]], [[bright]], [[illuminated]], [[lit]]
 ---

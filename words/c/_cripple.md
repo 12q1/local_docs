@@ -1,26 +1,26 @@
 # Cripple
 ---
 #noun
-- **(sometimes offensive) a person who has severely impaired physical abilities because of deformation, injury, or amputation of parts of the body.**
+- **(sometimes offensive) a person who has severely impaired physical [[a/_abilities|abilities]] [[b/_because|because]] of [[d/_deformation|deformation]], injury, or [[a/_amputation|amputation]] of parts of the [[b/_body|body]].**
 	- _Example: He returned from war a cripple._
-- **A shortened wooden stud or brace used to construct the portion of a wall above a door or above and below a window.**
+- **A shortened wooden stud or [[b/_brace|brace]] used to [[c/_construct|construct]] the portion of a wall [[a/_above|above]] a [[d/_door|door]] or [[a/_above|above]] and [[b/_below|below]] a window.**
 - **Scrapple.**
-- **(among lumbermen) A rocky shallow in a stream.**
+- **([[a/_among|among]] lumbermen) A rocky shallow in a stream.**
 ---
 ### Synonyms
-- [[[[d/_disabled|disabled]]]]
+- [[disabled]]
 #verb
-- **To make someone a cripple; to cause someone to become physically impaired**
+- **To make someone a [[c/_cripple|cripple]]; to [[c/_cause|cause]] someone to [[b/_become|become]] physically impaired**
 	- _Example: The car bomb crippled five passers-by._
-- **To damage seriously; to destroy**
+- **To [[d/_damage|damage]] seriously; to [[d/_destroy|destroy]]**
 	- _Example: My ambitions were crippled by a lack of money._
-- **To release a product (especially a computer program) with reduced functionality, in some cases, making the item essentially worthless.**
+- **To release a product (especially a [[c/_computer|computer]] program) with reduced functionality, in some [[c/_cases|cases]], making the item essentially worthless.**
 	- _Example: The word processor was released in a crippled demonstration version that did not allow you to save._
 - **To nerf something which is overpowered**
 ---
 ### Synonyms
 - [[limit]], [[restrict]]
 #adjective
-- **Crippled.**
+- **[[c/_crippled|Crippled]].**
 ---
 ---

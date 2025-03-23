@@ -2,6 +2,6 @@
 ---
 #verb
 - **To mix separate things together.**
-- **To become mixed; to amalgamate.**
+- **To [[b/_become|become]] mixed; to [[a/_amalgamate|amalgamate]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Egalitarianism
 ---
 #noun
-- **The political doctrine that holds that all people in a society should have equal rights from birth.**
+- **The political [[d/_doctrine|doctrine]] that holds that [[a/_all|all]] people in a society should have [[e/_equal|equal]] rights from [[b/_birth|birth]].**
 ---
 ### Synonyms
 - [[equalitarianism]]

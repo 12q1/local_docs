@@ -1,13 +1,13 @@
 # Comestible
 ---
 #noun
-- **(chiefly in the plural) Anything that can be eaten; food.**
+- **([[c/_chiefly|chiefly]] in the plural) [[a/_anything|Anything]] that [[c/_can|can]] be [[e/_eaten|eaten]]; food.**
 ---
 ### Synonyms
 - [[foodstuff]], [[sustenance]], [[victuals]]
 #adjective
-- **Suitable to be eaten; edible.**
+- **Suitable to be [[e/_eaten|eaten]]; [[e/_edible|edible]].**
 ---
 ### Synonyms
-- [[[[e/_eatable|eatable]]]], [[[[e/_edible|edible]]]], [[esculent]]
+- [[eatable]], [[edible]], [[esculent]]
 ---

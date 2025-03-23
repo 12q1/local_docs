@@ -1,6 +1,6 @@
 # Dum
 ---
 #adjective
-- **Cooked with steam**
+- **[[c/_cooked|Cooked]] with steam**
 ---
 ---

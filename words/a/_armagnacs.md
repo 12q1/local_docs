@@ -1,6 +1,6 @@
 # Armagnacs
 ---
 #noun
-- **A brandy made in the region of Armagnac.**
+- **A [[b/_brandy|brandy]] made in the region of [[a/_armagnac|Armagnac]].**
 ---
 ---

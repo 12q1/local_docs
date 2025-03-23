@@ -1,7 +1,7 @@
 # Bobbling
 ---
 #verb
-- **To bob up and down.**
+- **To [[b/_bob|bob]] up and [[d/_down|down]].**
 - **To make a mistake in.**
 - **To roll slowly.**
 ---

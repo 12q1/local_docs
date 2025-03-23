@@ -1,6 +1,6 @@
 # Adulterous
 ---
 #adjective
-- **Of, or characterized by adultery.**
+- **Of, or [[c/_characterized|characterized]] by [[a/_adultery|adultery]].**
 ---
 ---

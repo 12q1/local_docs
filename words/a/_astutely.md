@@ -1,6 +1,6 @@
 # Astutely
 ---
 #adverb
-- **In an astute manner.**
+- **In an [[a/_astute|astute]] manner.**
 ---
 ---

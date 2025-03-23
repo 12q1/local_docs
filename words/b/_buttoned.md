@@ -1,12 +1,12 @@
 # Buttoned
 ---
 #verb
-- **To fasten with a button.**
-- **To be fastened by a button or buttons.**
+- **To fasten with a [[b/_button|button]].**
+- **To be fastened by a [[b/_button|button]] or [[b/_buttons|buttons]].**
 	- _Example: The coat will not button._
 - **To stop talking.**
 ---
 #adjective
-- **With buttons fastened**
+- **With [[b/_buttons|buttons]] fastened**
 ---
 ---

@@ -1,8 +1,8 @@
 # Conjunctivitis
 ---
 #noun
-- **An inflammation of the conjunctiva, often due to infection.**
+- **An inflammation of the [[c/_conjunctiva|conjunctiva]], often [[d/_due|due]] to infection.**
 ---
 ### Synonyms
-- [[Madras [[e/_eye|eye]]]], [[pink-[[e/_eye|eye]]]], [[pinkeye]]
+- [[Madras eye]], [[pink-eye]], [[pinkeye]]
 ---

@@ -1,6 +1,6 @@
 # Deled
 ---
 #verb
-- **(usually imperative) to delete**
+- **(usually imperative) to [[d/_delete|delete]]**
 ---
 ---

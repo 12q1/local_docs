@@ -1,8 +1,8 @@
 # Burdensome
 ---
 #adjective
-- **Characteristic of a burden; arduous or demanding**
+- **[[c/_characteristic|Characteristic]] of a [[b/_burden|burden]]; [[a/_arduous|arduous]] or [[d/_demanding|demanding]]**
 ---
 ### Synonyms
-- [[[[a/_arduous|arduous]]]], [[[[d/_demanding|demanding]]]], [[exacting]], [[onerous]], [[taxing]]
+- [[arduous]], [[demanding]], [[exacting]], [[onerous]], [[taxing]]
 ---

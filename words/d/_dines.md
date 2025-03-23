@@ -1,8 +1,8 @@
 # Dines
 ---
 #verb
-- **To eat; to eat dinner or supper.**
-- **To give a dinner to; to furnish with the chief meal; to feed.**
-- **To dine upon; to have to eat.**
+- **To [[e/_eat|eat]]; to [[e/_eat|eat]] [[d/_dinner|dinner]] or supper.**
+- **To give a [[d/_dinner|dinner]] to; to furnish with the [[c/_chief|chief]] meal; to feed.**
+- **To [[d/_dine|dine]] upon; to have to [[e/_eat|eat]].**
 ---
 ---

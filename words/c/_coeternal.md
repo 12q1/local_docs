@@ -1,6 +1,6 @@
 # Coeternal
 ---
 #adjective
-- **Jointly or equally eternal**
+- **Jointly or [[e/_equally|equally]] eternal**
 ---
 ---

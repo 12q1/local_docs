@@ -1,8 +1,8 @@
 # Cabotage
 ---
 #noun
-- **The transport of goods or passengers between two points in the same country.**
-- **The right to engage in such transport.**
-- **The exclusive right of a country to control such transport.**
+- **The transport of goods or passengers [[b/_between|between]] two points in the same [[c/_country|country]].**
+- **The right to [[e/_engage|engage]] in such transport.**
+- **The exclusive right of a [[c/_country|country]] to [[c/_control|control]] such transport.**
 ---
 ---

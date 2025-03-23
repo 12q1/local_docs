@@ -1,6 +1,6 @@
 # Empathizing
 ---
 #verb
-- **To feel empathy for another person**
+- **To feel [[e/_empathy|empathy]] for [[a/_another|another]] person**
 ---
 ---

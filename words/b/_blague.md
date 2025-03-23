@@ -1,6 +1,6 @@
 # Blague
 ---
 #noun
-- **Mendacious boasting; falsehood; humbug**
+- **Mendacious [[b/_boasting|boasting]]; falsehood; humbug**
 ---
 ---

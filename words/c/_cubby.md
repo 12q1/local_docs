@@ -1,7 +1,7 @@
 # Cubby
 ---
 #noun
-- **A small, confined space.**
-- **In a school classroom, a cell of a shelf for students to place belongings in.**
+- **A small, [[c/_confined|confined]] space.**
+- **In a school [[c/_classroom|classroom]], a [[c/_cell|cell]] of a shelf for students to place [[b/_belongings|belongings]] in.**
 ---
 ---

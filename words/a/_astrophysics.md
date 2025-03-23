@@ -1,6 +1,6 @@
 # Astrophysics
 ---
 #noun
-- **The branch of astronomy or physics that deals with the physical properties of celestial bodies and with the interaction between matter and radiation in celestial bodies and in the space between them.**
+- **The [[b/_branch|branch]] of [[a/_astronomy|astronomy]] or physics that [[d/_deals|deals]] with the physical properties of [[c/_celestial|celestial]] [[b/_bodies|bodies]] and with the interaction [[b/_between|between]] matter and radiation in [[c/_celestial|celestial]] [[b/_bodies|bodies]] and in the space [[b/_between|between]] them.**
 ---
 ---

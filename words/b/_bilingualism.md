@@ -1,6 +1,6 @@
 # Bilingualism
 ---
 #noun
-- **The condition of being bilingual; the ability to speak two languages.**
+- **The [[c/_condition|condition]] of [[b/_being|being]] [[b/_bilingual|bilingual]]; the [[a/_ability|ability]] to speak two languages.**
 ---
 ---

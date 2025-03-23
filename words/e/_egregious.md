@@ -1,8 +1,8 @@
 # Egregious
 ---
 #adjective
-- **Usually in a negative sense: conspicuous, exceptional, outstanding.**
+- **Usually in a negative sense: [[c/_conspicuous|conspicuous]], exceptional, outstanding.**
 	- _Example: The student has made egregious errors on the examination._
-- **Outrageously bad; shocking.**
+- **Outrageously [[b/_bad|bad]]; shocking.**
 ---
 ---

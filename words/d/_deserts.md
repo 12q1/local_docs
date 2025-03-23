@@ -1,16 +1,16 @@
 # Deserts
 ---
 #noun
-- **(usually in the plural) That which is deserved or merited; a just punishment or reward**
+- **(usually in the plural) That which is [[d/_deserved|deserved]] or merited; a just punishment or reward**
 ---
 #noun
-- **A barren area of land or desolate terrain, especially one with little water or vegetation; a wasteland.**
-- **Any barren place or situation.**
+- **A [[b/_barren|barren]] [[a/_area|area]] of land or [[d/_desolate|desolate]] terrain, especially one with little water or vegetation; a wasteland.**
+- **[[a/_any|Any]] [[b/_barren|barren]] place or situation.**
 ---
 #verb
-- **To leave (anything that depends on one's presence to survive, exist, or succeed), especially when contrary to a promise or obligation; to abandon; to forsake.**
+- **To leave ([[a/_anything|anything]] that [[d/_depends|depends]] on one's presence to survive, exist, or succeed), especially when [[c/_contrary|contrary]] to a promise or obligation; to [[a/_abandon|abandon]]; to forsake.**
 	- _Example: You can't just drive off and desert me here, in the middle of nowhere._
-- **To leave one's duty or post, especially to leave a military or naval unit without permission.**
+- **To leave one's [[d/_duty|duty]] or post, especially to leave a military or naval unit without permission.**
 	- _Example: Anyone found deserting will be punished._
 ---
 ---

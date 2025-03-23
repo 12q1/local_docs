@@ -1,10 +1,10 @@
 # Dietary
 ---
 #noun
-- **A regulated diet.**
+- **A regulated [[d/_diet|diet]].**
 ---
 #adjective
-- **Of, or relating to diet.**
-- **Comprising a food source.**
+- **Of, or relating to [[d/_diet|diet]].**
+- **[[c/_comprising|Comprising]] a food source.**
 ---
 ---

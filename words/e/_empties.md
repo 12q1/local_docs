@@ -1,13 +1,13 @@
 # Empties
 ---
 #noun
-- **(usually plural) A container, especially a bottle, whose contents have been used up, leaving it empty.**
+- **(usually plural) A [[c/_container|container]], especially a [[b/_bottle|bottle]], whose [[c/_contents|contents]] have [[b/_been|been]] used up, leaving it [[e/_empty|empty]].**
 	- _Example: Put the empties out to be recycled._
 ---
 #verb
-- **To make empty; to void; to remove the contents of.**
+- **To make [[e/_empty|empty]]; to void; to remove the [[c/_contents|contents]] of.**
 	- _Example: The cinema emptied quickly after the end of the film._
-- **Of a river, duct, etc: to drain or flow toward an ultimate destination.**
+- **Of a river, [[d/_duct|duct]], etc: to [[d/_drain|drain]] or flow toward an ultimate [[d/_destination|destination]].**
 	- _Example: Salmon River empties on the W shore about 2 miles below Bear River._
 ---
 ### Antonyms

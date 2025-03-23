@@ -1,6 +1,6 @@
 # Analytically
 ---
 #adverb
-- **In an analytical manner.**
+- **In an [[a/_analytical|analytical]] manner.**
 ---
 ---

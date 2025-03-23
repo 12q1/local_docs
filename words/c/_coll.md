@@ -1,6 +1,6 @@
 # Coll
 ---
 #verb
-- **To hug or embrace.**
+- **To hug or [[e/_embrace|embrace]].**
 ---
 ---

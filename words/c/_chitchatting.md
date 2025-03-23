@@ -1,6 +1,6 @@
 # Chitchatting
 ---
 #verb
-- **To engage in small talk, to discuss unimportant matters.**
+- **To [[e/_engage|engage]] in small talk, to [[d/_discuss|discuss]] unimportant matters.**
 ---
 ---

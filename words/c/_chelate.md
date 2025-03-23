@@ -1,14 +1,14 @@
 # Chelate
 ---
 #noun
-- **A chelate compound**
+- **A [[c/_chelate|chelate]] [[c/_compound|compound]]**
 ---
 #verb
-- **To form a chelate compound by combining a metal atom to form a ring**
-- **To remove heavy metals from the bloodstream using a chelate (such as EDTA)**
+- **To form a [[c/_chelate|chelate]] [[c/_compound|compound]] by [[c/_combining|combining]] a metal [[a/_atom|atom]] to form a ring**
+- **To remove heavy metals from the [[b/_bloodstream|bloodstream]] using a [[c/_chelate|chelate]] (such as EDTA)**
 ---
 #adjective
-- **Having chelae, or in the form of a chela**
-- **Relating to chelation**
+- **Having [[c/_chelae|chelae]], or in the form of a [[c/_chela|chela]]**
+- **Relating to [[c/_chelation|chelation]]**
 ---
 ---

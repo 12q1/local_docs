@@ -1,6 +1,6 @@
 # Dasein
 ---
 #noun
-- **Being; especially the nature of being; existence, presence, hereness, suchness, essence**
+- **[[b/_being|Being]]; especially the nature of [[b/_being|being]]; existence, presence, hereness, suchness, essence**
 ---
 ---

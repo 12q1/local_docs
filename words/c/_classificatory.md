@@ -1,6 +1,6 @@
 # Classificatory
 ---
 #adjective
-- **Serving to classify.**
+- **Serving to [[c/_classify|classify]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Couch
 ---
 #noun
-- **Couch grass, a species of persistent grass, Elymus repens, usually considered a weed.**
+- **[[c/_couch|Couch]] grass, a species of persistent grass, [[e/_elymus|Elymus]] repens, usually [[c/_considered|considered]] a weed.**
 ---
 ---

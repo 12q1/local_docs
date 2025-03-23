@@ -1,9 +1,9 @@
 # Coevolving
 ---
 #verb
-- **To evolve, along with another organism, via coevolution.**
+- **To evolve, [[a/_along|along]] with [[a/_another|another]] organism, via [[c/_coevolution|coevolution]].**
 ---
 #adjective
-- **Subject to coevolution**
+- **Subject to [[c/_coevolution|coevolution]]**
 ---
 ---

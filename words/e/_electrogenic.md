@@ -1,6 +1,6 @@
 # Electrogenic
 ---
 #adjective
-- **Of or pertaining to electrogenesis.**
+- **Of or pertaining to [[e/_electrogenesis|electrogenesis]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Cornbrash
 ---
 #noun
-- **A coarse calcareous sandstone in various parts of England**
+- **A [[c/_coarse|coarse]] [[c/_calcareous|calcareous]] sandstone in various parts of [[e/_england|England]]**
 ---
 ---

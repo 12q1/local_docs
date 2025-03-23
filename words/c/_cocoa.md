@@ -1,17 +1,17 @@
 # Cocoa
 ---
 #noun
-- **The dried and partially fermented fatty seeds of the cacao tree from which chocolate is made.**
-- **An unsweetened brown powder made from roasted, ground cocoa beans, used in making chocolate, and in cooking.**
-- **A hot drink made with milk, cocoa powder, and sugar.**
+- **The [[d/_dried|dried]] and partially fermented fatty seeds of the [[c/_cacao|cacao]] tree from which [[c/_chocolate|chocolate]] is made.**
+- **An unsweetened [[b/_brown|brown]] powder made from roasted, ground [[c/_cocoa|cocoa]] [[b/_beans|beans]], used in making [[c/_chocolate|chocolate]], and in [[c/_cooking|cooking]].**
+- **A hot [[d/_drink|drink]] made with milk, [[c/_cocoa|cocoa]] powder, and sugar.**
 	- _Example: Do you like cocoa?_
-- **A serving of this drink.**
+- **A serving of this [[d/_drink|drink]].**
 	- _Example: I like to watch TV with a cocoa._
-- **A light to medium brown colour.**
+- **A light to medium [[b/_brown|brown]] [[c/_colour|colour]].**
 ---
 ### Synonyms
-- [[[[c/_chocolate|chocolate]]]], [[[[d/_drinking|drinking]] [[c/_chocolate|chocolate]]]], [[hot [[c/_chocolate|chocolate]]]]
+- [[chocolate]], [[drinking chocolate]], [[hot chocolate]]
 #adjective
-- **Of a light to medium brown colour, like that of cocoa powder.**
+- **Of a light to medium [[b/_brown|brown]] [[c/_colour|colour]], like that of [[c/_cocoa|cocoa]] powder.**
 ---
 ---

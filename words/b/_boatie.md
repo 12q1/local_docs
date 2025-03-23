@@ -1,7 +1,7 @@
 # Boatie
 ---
 #noun
-- **A boater (someone who travels by boat)**
-- **(or endearing) A boat.**
+- **A [[b/_boater|boater]] (someone who travels by [[b/_boat|boat]])**
+- **(or [[e/_endearing|endearing]]) A [[b/_boat|boat]].**
 ---
 ---

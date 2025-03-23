@@ -1,7 +1,7 @@
 # Dementia
 ---
 #noun
-- **A progressive decline in cognitive function due to damage or disease in the brain beyond what might be expected from normal aging. Areas particularly affected include memory, attention, judgement, language and problem solving.**
+- **A progressive [[d/_decline|decline]] in [[c/_cognitive|cognitive]] function [[d/_due|due]] to [[d/_damage|damage]] or [[d/_disease|disease]] in the [[b/_brain|brain]] [[b/_beyond|beyond]] what might be expected from normal [[a/_aging|aging]]. [[a/_areas|Areas]] particularly [[a/_affected|affected]] include memory, [[a/_attention|attention]], judgement, language and problem solving.**
 - **Madness or insanity.**
 ---
 ---

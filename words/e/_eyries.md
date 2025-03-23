@@ -1,7 +1,7 @@
 # Eyries
 ---
 #noun
-- **The nest of a bird of prey.**
-- **Any high and remote but commanding place.**
+- **The nest of a [[b/_bird|bird]] of prey.**
+- **[[a/_any|Any]] high and remote but [[c/_commanding|commanding]] place.**
 ---
 ---

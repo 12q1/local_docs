@@ -1,15 +1,15 @@
 # Designate
 ---
 #verb
-- **To mark out and make known; to point out; to indicate; to show; to distinguish by marks or description**
+- **To mark out and make known; to point out; to indicate; to show; to [[d/_distinguish|distinguish]] by marks or [[d/_description|description]]**
 	- _Example: to designate the boundaries of a country_
-- **To call by a distinctive title; to name.**
-- **To indicate or set apart for a purpose or duty; — with to or for; to designate an officer for or to the command of a post or station.**
+- **To [[c/_call|call]] by a [[d/_distinctive|distinctive]] title; to name.**
+- **To indicate or set [[a/_apart|apart]] for a purpose or [[d/_duty|duty]]; — with to or for; to [[d/_designate|designate]] an officer for or to the [[c/_command|command]] of a post or station.**
 ---
 ### Synonyms
-- [[[[d/_denominate|denominate]]]], [[entitle]], [[name]], [[style]], [[[[d/_denote|denote]]]], [[[[d/_describe|describe]]]], [[indicate]], [[note]], [[[[a/_allocate|allocate]]]], [[[[e/_earmark|earmark]]]]
+- [[denominate]], [[entitle]], [[name]], [[style]], [[denote]], [[describe]], [[indicate]], [[note]], [[allocate]], [[earmark]]
 #adjective
-- **Designated; appointed; chosen.**
-- **Used after a role title to indicate that the person has been selected but has yet to take up the role.**
+- **[[d/_designated|Designated]]; [[a/_appointed|appointed]]; [[c/_chosen|chosen]].**
+- **Used [[a/_after|after]] a role title to indicate that the person has [[b/_been|been]] selected but has yet to take up the role.**
 ---
 ---

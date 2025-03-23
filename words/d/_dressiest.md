@@ -1,7 +1,7 @@
 # Dressiest
 ---
 #adjective
-- **Elegant, smart or stylish.**
-- **Fond of dressing up; keen on fashion.**
+- **[[e/_elegant|Elegant]], smart or stylish.**
+- **Fond of [[d/_dressing|dressing]] up; keen on fashion.**
 ---
 ---

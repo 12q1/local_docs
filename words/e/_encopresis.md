@@ -1,6 +1,6 @@
 # Encopresis
 ---
 #noun
-- **Fecal incontinence in children**
+- **Fecal incontinence in [[c/_children|children]]**
 ---
 ---

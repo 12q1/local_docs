@@ -1,13 +1,13 @@
 # Amalgam
 ---
 #noun
-- **An alloy containing mercury.**
-- **A combination of different things.**
-- **One of the ingredients in an alloy.**
+- **An [[a/_alloy|alloy]] [[c/_containing|containing]] mercury.**
+- **A [[c/_combination|combination]] of [[d/_different|different]] things.**
+- **One of the ingredients in an [[a/_alloy|alloy]].**
 ---
 ### Synonyms
-- [[[[a/_alloy|alloy]]]], [[[[b/_blend|blend]]]], [[[[c/_combo|combo]]]], [[[[c/_compound|compound]]]], [[[[c/_conglomerate|conglomerate]]]], [[mixture]]
+- [[alloy]], [[blend]], [[combo]], [[compound]], [[conglomerate]], [[mixture]]
 #verb
-- **To amalgamate.**
+- **To [[a/_amalgamate|amalgamate]].**
 ---
 ---

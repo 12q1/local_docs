@@ -1,9 +1,9 @@
 # Aitchbone
 ---
 #noun
-- **A cut of beef lying above the rump bone.**
-- **The rump bone itself.**
+- **A [[c/_cut|cut]] of [[b/_beef|beef]] lying [[a/_above|above]] the rump [[b/_bone|bone]].**
+- **The rump [[b/_bone|bone]] itself.**
 ---
 ### Synonyms
-- [[[[e/_edgebone|edgebone]]]]
+- [[edgebone]]
 ---

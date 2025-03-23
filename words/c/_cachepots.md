@@ -1,6 +1,6 @@
 # Cachepots
 ---
 #noun
-- **An ornamental container for a flowerpot.**
+- **An ornamental [[c/_container|container]] for a flowerpot.**
 ---
 ---

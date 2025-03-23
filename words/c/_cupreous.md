@@ -1,13 +1,13 @@
 # Cupreous
 ---
 #noun
-- **A reddish-brown color, like that of polished copper.**
+- **A reddish-[[b/_brown|brown]] [[c/_color|color]], like that of polished [[c/_copper|copper]].**
 ---
 #adjective
-- **Of or of the nature of copper.**
-- **Containing copper.**
-- **Of a reddish-brown color, like that of polished copper.**
+- **Of or of the nature of [[c/_copper|copper]].**
+- **[[c/_containing|Containing]] [[c/_copper|copper]].**
+- **Of a reddish-[[b/_brown|brown]] [[c/_color|color]], like that of polished [[c/_copper|copper]].**
 ---
 ### Synonyms
-- [[[[a/_auburn|auburn]]]], [[[[b/_brassy|brassy]]]], [[[[c/_coppery|coppery]]]], [[russet]], [[[[c/_cuprous|cuprous]]]]
+- [[auburn]], [[brassy]], [[coppery]], [[russet]], [[cuprous]]
 ---

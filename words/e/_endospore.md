@@ -2,6 +2,6 @@
 ---
 #noun
 - **The inner layer of a spore.**
-- **A small vegetative spore produced by some bacteria.**
+- **A small vegetative spore produced by some [[b/_bacteria|bacteria]].**
 ---
 ---

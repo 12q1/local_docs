@@ -1,8 +1,8 @@
 # Catachreses
 ---
 #noun
-- **A misuse of a word; an application of a term to something which it does not properly denote.**
-- **A misapplication or overextension of figurative or analogical description; a wrongly-applied metaphor or trope.**
+- **A misuse of a word; an [[a/_application|application]] of a term to something which it [[d/_does|does]] not properly [[d/_denote|denote]].**
+- **A misapplication or overextension of figurative or [[a/_analogical|analogical]] [[d/_description|description]]; a wrongly-[[a/_applied|applied]] metaphor or trope.**
 ---
 ### Synonyms
 - [[abusio]], [[misnomer]], [[malapropism]]

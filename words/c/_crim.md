@@ -1,6 +1,6 @@
 # Crim
 ---
 #noun
-- **A criminal.**
+- **A [[c/_criminal|criminal]].**
 ---
 ---

@@ -1,11 +1,11 @@
 # Doddle
 ---
 #noun
-- **A job, task or other activity that is simple or easy to complete.**
+- **A job, task or other [[a/_activity|activity]] that is simple or [[e/_easy|easy]] to [[c/_complete|complete]].**
 ---
 ### Synonyms
-- [[[[b/_breeze|breeze]]]], [[[[c/_cakewalk|cakewalk]]]], [[[[c/_cinch|cinch]]]], [[piece of [[c/_cake|cake]]]], [[walk in the park]], [[walkover]]
+- [[breeze]], [[cakewalk]], [[cinch]], [[piece of cake]], [[walk in the park]], [[walkover]]
 #verb
-- **To dodder.**
+- **To [[d/_dodder|dodder]].**
 ---
 ---

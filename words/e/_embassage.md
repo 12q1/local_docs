@@ -1,7 +1,7 @@
 # Embassage
 ---
 #noun
-- **An embassy.**
+- **An [[e/_embassy|embassy]].**
 - **Message; errand.**
 ---
 ---

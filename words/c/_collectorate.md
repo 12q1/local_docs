@@ -1,6 +1,6 @@
 # Collectorate
 ---
 #noun
-- **The district of a collector of customs; a collectorship.**
+- **The [[d/_district|district]] of a [[c/_collector|collector]] of [[c/_customs|customs]]; a [[c/_collectorship|collectorship]].**
 ---
 ---

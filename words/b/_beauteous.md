@@ -1,6 +1,6 @@
 # Beauteous
 ---
 #adjective
-- **Beautiful.**
+- **[[b/_beautiful|Beautiful]].**
 ---
 ---

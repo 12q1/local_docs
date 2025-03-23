@@ -1,20 +1,20 @@
 # Corded
 ---
 #verb
-- **To furnish with cords**
-- **To tie or fasten with cords**
-- **To flatten a book during binding**
-- **To arrange (wood, etc.) in a pile for measurement by the cord.**
+- **To furnish with [[c/_cords|cords]]**
+- **To tie or fasten with [[c/_cords|cords]]**
+- **To flatten a [[b/_book|book]] [[d/_during|during]] [[b/_binding|binding]]**
+- **To [[a/_arrange|arrange]] (wood, etc.) in a pile for measurement by the [[c/_cord|cord]].**
 ---
 #adjective
-- **Fitted with a cord.**
-- **Having the appearance of cords or furrows.**
+- **Fitted with a [[c/_cord|cord]].**
+- **Having the [[a/_appearance|appearance]] of [[c/_cords|cords]] or furrows.**
 	- _Example: the hard, corded upper arms of a bodybuilder_
-- **Wound about with cords.**
-- **Of wood: piled in cords.**
+- **Wound [[a/_about|about]] with [[c/_cords|cords]].**
+- **Of wood: piled in [[c/_cords|cords]].**
 ---
 ### Synonyms
 - [[wired]]
 ### Antonyms
-- [[[[c/_cordless|cordless]]]]
+- [[cordless]]
 ---

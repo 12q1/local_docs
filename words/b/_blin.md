@@ -1,9 +1,9 @@
 # Blin
 ---
 #noun
-- **Cessation; end.**
+- **[[c/_cessation|Cessation]]; [[e/_end|end]].**
 ---
 #verb
-- **To cease (from); to stop; to desist, to let up.**
+- **To [[c/_cease|cease]] (from); to stop; to [[d/_desist|desist]], to let up.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Doited
 ---
 #adjective
-- **Afflicted with weak-mindedness, usually caused by senility**
+- **[[a/_afflicted|Afflicted]] with weak-mindedness, usually [[c/_caused|caused]] by senility**
 ---
 ### Synonyms
 - [[senile]]

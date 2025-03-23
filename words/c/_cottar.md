@@ -1,8 +1,8 @@
 # Cottar
 ---
 #noun
-- **A peasant who performed labour in exchange for the right to live in a cottage.**
+- **A peasant who performed labour in exchange for the right to live in a [[c/_cottage|cottage]].**
 ---
 ### Synonyms
-- [[[[c/_coscet|coscet]]]], [[[[c/_cottager|cottager]]]]
+- [[coscet]], [[cottager]]
 ---

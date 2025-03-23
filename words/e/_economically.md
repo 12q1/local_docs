@@ -1,9 +1,9 @@
 # Economically
 ---
 #adverb
-- **(manner) In an economical manner; not wastefully; not extravagantly**
-- **(domain) From the perspective of economics or an economy.**
-- **According to divine economy.**
+- **(manner) In an [[e/_economical|economical]] manner; not wastefully; not extravagantly**
+- **([[d/_domain|domain]]) From the perspective of [[e/_economics|economics]] or an [[e/_economy|economy]].**
+- **[[a/_according|According]] to [[d/_divine|divine]] [[e/_economy|economy]].**
 ---
 ### Synonyms
 - [[prudently]]

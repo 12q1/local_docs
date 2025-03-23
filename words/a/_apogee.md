@@ -1,13 +1,13 @@
 # Apogee
 ---
 #noun
-- **The point, in an orbit about the Earth, that is furthest from the Earth: the apoapsis of an Earth orbiter.**
-- **(more generally) The point, in an orbit about any planet, that is farthest from the planet: the apoapsis of any satellite.**
-- **(possibly obsolete outside astrology) The point, in any trajectory of an object in space, where it is furthest from the Earth.**
+- **The point, in an orbit [[a/_about|about]] the [[e/_earth|Earth]], that is furthest from the [[e/_earth|Earth]]: the [[a/_apoapsis|apoapsis]] of an [[e/_earth|Earth]] orbiter.**
+- **(more generally) The point, in an orbit [[a/_about|about]] [[a/_any|any]] planet, that is farthest from the planet: the [[a/_apoapsis|apoapsis]] of [[a/_any|any]] satellite.**
+- **(possibly obsolete outside [[a/_astrology|astrology]]) The point, in [[a/_any|any]] trajectory of an object in space, where it is furthest from the [[e/_earth|Earth]].**
 - **The highest point.**
 ---
 ### Synonyms
-- [[[[a/_acme|acme]]]], [[[[c/_climax|climax]]]], [[[[c/_culmination|culmination]]]], [[pinnacle]], [[zenith]], [[[[a/_apoapsis|apoapsis]]]], [[[[a/_apocenter|apocenter]]]], [[[[a/_apsis|apsis]]]]
+- [[acme]], [[climax]], [[culmination]], [[pinnacle]], [[zenith]], [[apoapsis]], [[apocenter]], [[apsis]]
 ### Antonyms
 - [[periapsis]], [[perigee]], [[nadir]], [[perigee]]
 ---

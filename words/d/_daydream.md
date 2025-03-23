@@ -1,7 +1,7 @@
 # Daydream
 ---
 #noun
-- **A spontaneous and fanciful series of thoughts while awake not connected to immediate reality.**
+- **A spontaneous and fanciful series of thoughts while [[a/_awake|awake]] not [[c/_connected|connected]] to immediate reality.**
 ---
 #verb
 - **To have such a series of thoughts; to woolgather.**

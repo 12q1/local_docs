@@ -1,8 +1,8 @@
 # Coven
 ---
 #noun
-- **A formal group or assembly of witches.**
-- **A family, group or assembly of vampires.**
-- **A clique that shares common interests or activities.**
+- **A formal group or [[a/_assembly|assembly]] of witches.**
+- **A family, group or [[a/_assembly|assembly]] of vampires.**
+- **A [[c/_clique|clique]] that shares [[c/_common|common]] interests or [[a/_activities|activities]].**
 ---
 ---

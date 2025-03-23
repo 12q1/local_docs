@@ -1,6 +1,6 @@
 # Dueled
 ---
 #verb
-- **To engage in a battle.**
+- **To [[e/_engage|engage]] in a [[b/_battle|battle]].**
 ---
 ---

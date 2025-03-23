@@ -1,6 +1,6 @@
 # Accusal
 ---
 #noun
-- **Accusation**
+- **[[a/_accusation|Accusation]]**
 ---
 ---

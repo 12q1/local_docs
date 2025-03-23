@@ -1,11 +1,11 @@
 # Colligated
 ---
 #verb
-- **To tie or bind together.**
-- **To formally link or connect together logically; to bring together by colligation; to sum up in a single proposition.**
+- **To tie or [[b/_bind|bind]] together.**
+- **To formally link or [[c/_connect|connect]] together logically; to [[b/_bring|bring]] together by [[c/_colligation|colligation]]; to sum up in a single proposition.**
 ---
 #adjective
 - **Tied together**
-- **Logically connected**
+- **Logically [[c/_connected|connected]]**
 ---
 ---

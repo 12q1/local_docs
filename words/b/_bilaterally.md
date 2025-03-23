@@ -1,6 +1,6 @@
 # Bilaterally
 ---
 #adverb
-- **In a bilateral manner.**
+- **In a [[b/_bilateral|bilateral]] manner.**
 ---
 ---

@@ -2,8 +2,8 @@
 ---
 #noun
 - **Mischief.**
-- **Wickedness; cruelty.**
-- **An action performed with the help of a devil; witchcraft.**
-- **An act of such mischief, wickedness, cruelty, or witchcraft.**
+- **Wickedness; [[c/_cruelty|cruelty]].**
+- **An [[a/_action|action]] performed with the help of a [[d/_devil|devil]]; witchcraft.**
+- **An [[a/_act|act]] of such mischief, wickedness, [[c/_cruelty|cruelty]], or witchcraft.**
 ---
 ---

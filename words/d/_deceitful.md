@@ -1,7 +1,7 @@
 # Deceitful
 ---
 #adjective
-- **Deliberately misleading or cheating.**
-- **Deceptive, two-faced.**
+- **[[d/_deliberately|Deliberately]] misleading or [[c/_cheating|cheating]].**
+- **[[d/_deceptive|Deceptive]], two-faced.**
 ---
 ---

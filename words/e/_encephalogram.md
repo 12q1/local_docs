@@ -1,6 +1,6 @@
 # Encephalogram
 ---
 #noun
-- **An image of the brain obtained by encephalography.**
+- **An image of the [[b/_brain|brain]] obtained by [[e/_encephalography|encephalography]].**
 ---
 ---

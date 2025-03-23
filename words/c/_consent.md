@@ -1,23 +1,23 @@
 # Consent
 ---
 #noun
-- **Voluntary agreement or permission.**
-- **Unity or agreement of opinion, sentiment, or inclination.**
-- **Advice; counsel.**
+- **Voluntary [[a/_agreement|agreement]] or permission.**
+- **Unity or [[a/_agreement|agreement]] of opinion, sentiment, or inclination.**
+- **[[a/_advice|Advice]]; [[c/_counsel|counsel]].**
 ---
 ### Synonyms
-- [[[[a/_agreement|agreement]]]], [[[[a/_approval|approval]]]], [[[[a/_assent|assent]]]], [[consensualness]], [[permission]], [[willingness]], [[yes]]
+- [[agreement]], [[approval]], [[assent]], [[consensualness]], [[permission]], [[willingness]], [[yes]]
 ### Antonyms
-- [[[[d/_disagreement|disagreement]]]], [[[[d/_dissent|dissent]]]], [[opposition]], [[refusal]]
+- [[disagreement]], [[dissent]], [[opposition]], [[refusal]]
 #verb
 - **To express willingness, to give permission.**
 	- _Example: After reflecting a little bit, I've consented._
-- **To cause to sign a consent form.**
-- **To grant; to allow; to assent to.**
-- **To agree in opinion or sentiment; to be of the same mind; to accord; to concur.**
+- **To [[c/_cause|cause]] to sign a [[c/_consent|consent]] form.**
+- **To grant; to [[a/_allow|allow]]; to [[a/_assent|assent]] to.**
+- **To [[a/_agree|agree]] in opinion or sentiment; to be of the same mind; to [[a/_accord|accord]]; to [[c/_concur|concur]].**
 ---
 ### Synonyms
-- [[[[a/_acquiesce|acquiesce]]]], [[[[a/_agree|agree]]]], [[[[a/_approve|approve]]]], [[[[a/_assent|assent]]]], [[[[c/_concur|concur]]]], [[yes]]
+- [[acquiesce]], [[agree]], [[approve]], [[assent]], [[concur]], [[yes]]
 ### Antonyms
-- [[[[d/_disagree|disagree]]]], [[object]], [[oppose]]
+- [[disagree]], [[object]], [[oppose]]
 ---

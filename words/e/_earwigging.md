@@ -2,11 +2,11 @@
 ---
 #verb
 - **To fill the mind of with prejudice by insinuations.**
-- **To attempt to influence by persistent confidential argument or talk.**
-- **To eavesdrop.**
-- **To eavesdrop on.**
+- **To [[a/_attempt|attempt]] to influence by persistent [[c/_confidential|confidential]] [[a/_argument|argument]] or talk.**
+- **To [[e/_eavesdrop|eavesdrop]].**
+- **To [[e/_eavesdrop|eavesdrop]] on.**
 ---
 #noun
-- **An attempt to influence by persistent confidential argument or talk.**
+- **An [[a/_attempt|attempt]] to influence by persistent [[c/_confidential|confidential]] [[a/_argument|argument]] or talk.**
 ---
 ---

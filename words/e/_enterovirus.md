@@ -1,6 +1,6 @@
 # Enterovirus
 ---
 #noun
-- **Any of many viruses, of the genus Enterovirus, that infect the gastrointestinal tract**
+- **[[a/_any|Any]] of many viruses, of the genus [[e/_enterovirus|Enterovirus]], that infect the gastrointestinal tract**
 ---
 ---

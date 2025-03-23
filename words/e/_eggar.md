@@ -1,7 +1,7 @@
 # Eggar
 ---
 #noun
-- **Any moth of the family Lasiocampidae.**
+- **[[a/_any|Any]] moth of the family Lasiocampidae.**
 ---
 ### Synonyms
 - [[lappet moth]], [[snout moth]]

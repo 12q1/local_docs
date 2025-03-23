@@ -1,8 +1,8 @@
 # Ajowan
 ---
 #noun
-- **A plant in the family Apiaceae (Trachyspermum ammi), and its seed, which is used (especially in South Asian cooking) for its thyme-like flavor.**
+- **A plant in the family [[a/_apiaceae|Apiaceae]] (Trachyspermum [[a/_ammi|ammi]]), and its seed, which is used (especially in South [[a/_asian|Asian]] [[c/_cooking|cooking]]) for its thyme-like flavor.**
 ---
 ### Synonyms
-- [[[[b/_bishop|bishop]]'s weed]], [[[[c/_carom|carom]]]]
+- [[bishop's weed]], [[carom]]
 ---

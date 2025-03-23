@@ -2,14 +2,14 @@
 ---
 #verb
 - **To vanish.**
-- **To make vanish; especially, to abduct and murder surreptitiously for political reasons.**
-- **To go away; to become lost.**
+- **To make vanish; especially, to [[a/_abduct|abduct]] and murder surreptitiously for political reasons.**
+- **To go [[a/_away|away]]; to [[b/_become|become]] lost.**
 ---
 ### Synonyms
-- [[[[d/_dematerialize|dematerialize]]]], [[vanish]]
+- [[dematerialize]], [[vanish]]
 ### Antonyms
-- [[[[a/_appear|appear]]]]
+- [[appear]]
 #noun
-- **Disappearance**
+- **[[d/_disappearance|Disappearance]]**
 ---
 ---

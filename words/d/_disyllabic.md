@@ -1,11 +1,11 @@
 # Disyllabic
 ---
 #noun
-- **A word consisting of two syllables**
+- **A word [[c/_consisting|consisting]] of two syllables**
 ---
 #adjective
-- **Comprising two syllables.**
+- **[[c/_comprising|Comprising]] two syllables.**
 ---
 ### Synonyms
-- [[[[b/_bisyllabic|bisyllabic]]]]
+- [[bisyllabic]]
 ---

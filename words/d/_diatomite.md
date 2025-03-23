@@ -1,8 +1,8 @@
 # Diatomite
 ---
 #noun
-- **A fine, powdery earth formed from the skeletons of diatoms**
+- **A fine, powdery [[e/_earth|earth]] formed from the skeletons of [[d/_diatoms|diatoms]]**
 ---
 ### Synonyms
-- [[[[d/_diatomaceous|diatomaceous]] [[e/_earth|earth]]]], [[kieselguhr]]
+- [[diatomaceous earth]], [[kieselguhr]]
 ---

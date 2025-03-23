@@ -1,13 +1,13 @@
 # Durative
 ---
 #noun
-- **This aspect, or a verb in this aspect; a continuative.**
+- **This [[a/_aspect|aspect]], or a verb in this [[a/_aspect|aspect]]; a [[c/_continuative|continuative]].**
 ---
 #adjective
-- **Of or pertaining to duration.**
+- **Of or pertaining to [[d/_duration|duration]].**
 - **Long-lasting.**
-- **Of or pertaining to the aspect of a verb that expresses continuing action; continuative. Part of the imperfective aspect, as opposed to the perfective aspect, of verbs.**
+- **Of or pertaining to the [[a/_aspect|aspect]] of a verb that expresses [[c/_continuing|continuing]] [[a/_action|action]]; [[c/_continuative|continuative]]. Part of the imperfective [[a/_aspect|aspect]], as opposed to the perfective [[a/_aspect|aspect]], of verbs.**
 ---
 ### Synonyms
-- [[[[d/_diuturnal|diuturnal]]]], [[prolonged]]
+- [[diuturnal]], [[prolonged]]
 ---

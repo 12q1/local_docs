@@ -1,6 +1,6 @@
 # Adsorbents
 ---
 #noun
-- **The solid or liquid in the process of adsorption on which the adsorbate accumulates.**
+- **The solid or liquid in the process of [[a/_adsorption|adsorption]] on which the [[a/_adsorbate|adsorbate]] [[a/_accumulates|accumulates]].**
 ---
 ---

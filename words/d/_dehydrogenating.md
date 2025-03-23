@@ -4,6 +4,6 @@
 - **To remove hydrogen from (a substance).**
 ---
 #adjective
-- **That undergoes or produces dehydrogenation**
+- **That undergoes or produces [[d/_dehydrogenation|dehydrogenation]]**
 ---
 ---

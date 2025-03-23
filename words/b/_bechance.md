@@ -1,9 +1,9 @@
 # Bechance
 ---
 #verb
-- **To happen; chance.**
-- **To happen (to); befall to.**
+- **To happen; [[c/_chance|chance]].**
+- **To happen (to); [[b/_befall|befall]] to.**
 ---
 ### Synonyms
-- [[[[c/_come|come]] to pass]], [[occur]], [[transpire]]
+- [[come to pass]], [[occur]], [[transpire]]
 ---

@@ -1,9 +1,9 @@
 # Breakfasted
 ---
 #verb
-- **To eat the morning meal.**
-- **To serve breakfast to.**
+- **To [[e/_eat|eat]] the morning meal.**
+- **To serve [[b/_breakfast|breakfast]] to.**
 ---
 ### Synonyms
-- [[[[b/_break|break]] one's fast]]
+- [[break one's fast]]
 ---

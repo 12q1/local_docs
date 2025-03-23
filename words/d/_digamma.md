@@ -1,6 +1,6 @@
 # Digamma
 ---
 #noun
-- **Letter of the Old Greek alphabet: Ϝ, ϝ**
+- **Letter of the Old Greek [[a/_alphabet|alphabet]]: Ϝ, ϝ**
 ---
 ---

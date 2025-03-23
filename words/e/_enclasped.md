@@ -1,8 +1,8 @@
 # Enclasped
 ---
 #verb
-- **To hold in (or as if in) a clasp; to embrace**
+- **To hold in (or as if in) a [[c/_clasp|clasp]]; to [[e/_embrace|embrace]]**
 ---
 ### Synonyms
-- [[[[c/_clasp|clasp]]]], [[grasp]], [[grip]]
+- [[clasp]], [[grasp]], [[grip]]
 ---

@@ -1,8 +1,8 @@
 # Boundless
 ---
 #adjective
-- **Without bounds, unbounded.**
+- **Without [[b/_bounds|bounds]], unbounded.**
 ---
 ### Synonyms
-- [[[[b/_bottomless|bottomless]]]], [[limitless]], [[unbottomed]], [[unbounded]]
+- [[bottomless]], [[limitless]], [[unbottomed]], [[unbounded]]
 ---

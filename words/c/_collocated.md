@@ -1,8 +1,8 @@
 # Collocated
 ---
 #verb
-- **(said of certain words) To be often used together, form a collocation; for example strong collocates with tea.**
-- **To arrange or occur side by side.**
+- **(said of [[c/_certain|certain]] words) To be often used together, form a [[c/_collocation|collocation]]; for example strong [[c/_collocates|collocates]] with tea.**
+- **To [[a/_arrange|arrange]] or occur side by side.**
 - **To set or place; to station.**
 ---
 ---

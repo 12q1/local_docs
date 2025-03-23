@@ -1,6 +1,6 @@
 # Crewelwork
 ---
 #noun
-- **Embroidery made using a crewel**
+- **[[e/_embroidery|Embroidery]] made using a [[c/_crewel|crewel]]**
 ---
 ---

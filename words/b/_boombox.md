@@ -1,7 +1,7 @@
 # Boombox
 ---
 #noun
-- **A powerful portable audio system for listening collectively to recorded or broadcast sound.**
+- **A powerful portable [[a/_audio|audio]] system for listening [[c/_collectively|collectively]] to recorded or [[b/_broadcast|broadcast]] sound.**
 ---
 ### Synonyms
 - [[jambox]]

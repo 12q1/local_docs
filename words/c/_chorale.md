@@ -2,6 +2,6 @@
 ---
 #noun
 - **A form of Lutheran or Protestant hymn tune.**
-- **A chorus or choir.**
+- **A [[c/_chorus|chorus]] or [[c/_choir|choir]].**
 ---
 ---

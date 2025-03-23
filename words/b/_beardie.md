@@ -1,9 +1,9 @@
 # Beardie
 ---
 #noun
-- **A fish, the bearded loach or stone loach, Barbatula barbatula.**
+- **A fish, the [[b/_bearded|bearded]] loach or stone loach, Barbatula barbatula.**
 ---
 #noun
-- **A bearded person or animal:**
+- **A [[b/_bearded|bearded]] person or [[a/_animal|animal]]:**
 ---
 ---

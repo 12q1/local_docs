@@ -1,6 +1,6 @@
 # Endenizen
 ---
 #verb
-- **To admit to the privileges of a denizen; to naturalize.**
+- **To [[a/_admit|admit]] to the privileges of a [[d/_denizen|denizen]]; to naturalize.**
 ---
 ---

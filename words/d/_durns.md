@@ -4,9 +4,9 @@
 - **A secret; secrecy.**
 - **A secret place; hiding.**
 - **An obscure language.**
-- **Darkness; obscurity.**
+- **[[d/_darkness|Darkness]]; obscurity.**
 ---
 #noun
-- **A gatepost or doorpost.**
+- **A gatepost or [[d/_doorpost|doorpost]].**
 ---
 ---

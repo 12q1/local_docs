@@ -1,6 +1,6 @@
 # Discretional
 ---
 #adjective
-- **Discretionary**
+- **[[d/_discretionary|Discretionary]]**
 ---
 ---

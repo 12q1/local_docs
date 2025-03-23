@@ -2,10 +2,10 @@
 ---
 #noun
 - **An indifference to suffering or pleasure in inflicting suffering.**
-- **A cruel act.**
+- **A [[c/_cruel|cruel]] [[a/_act|act]].**
 ---
 ### Synonyms
-- [[[[b/_barbarism|barbarism]]]], [[mercilessness]], [[ruthlessness]]
+- [[barbarism]], [[mercilessness]], [[ruthlessness]]
 ### Antonyms
 - [[mercy]]
 ---

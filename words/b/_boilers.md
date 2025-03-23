@@ -1,12 +1,12 @@
 # Boilers
 ---
 #noun
-- **A person who boils something.**
-- **A steam boiler.**
-- **An apparatus for heating circulating water or other heat transferring liquid.**
-- **A device consisting of a heat source and a tank for storing hot water, typically for space heating, domestic hot water etc., disregarding the source of heat.**
-- **A kitchen vessel for steaming, boiling or heating food.**
-- **A sunken reef, especially a coral reef, on which the sea breaks heavily.**
-- **A tough old chicken only suitable for cooking by boiling.**
+- **A person who [[b/_boils|boils]] something.**
+- **A steam [[b/_boiler|boiler]].**
+- **An [[a/_apparatus|apparatus]] for heating [[c/_circulating|circulating]] water or other heat transferring liquid.**
+- **A [[d/_device|device]] [[c/_consisting|consisting]] of a heat source and a tank for storing hot water, typically for space heating, [[d/_domestic|domestic]] hot water etc., [[d/_disregarding|disregarding]] the source of heat.**
+- **A kitchen vessel for steaming, [[b/_boiling|boiling]] or heating food.**
+- **A sunken reef, especially a [[c/_coral|coral]] reef, on which the sea [[b/_breaks|breaks]] heavily.**
+- **A tough old [[c/_chicken|chicken]] only suitable for [[c/_cooking|cooking]] by [[b/_boiling|boiling]].**
 ---
 ---

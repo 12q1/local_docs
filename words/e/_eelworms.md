@@ -1,6 +1,6 @@
 # Eelworms
 ---
 #noun
-- **A nematode, or roundworm, especially any that resemble small eels.**
+- **A nematode, or roundworm, especially [[a/_any|any]] that resemble small [[e/_eels|eels]].**
 ---
 ---

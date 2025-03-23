@@ -1,16 +1,16 @@
 # Dihedral
 ---
 #noun
-- **An angle between two plane surfaces**
-- **The upward slope of an aircraft's wing**
-- **The angle between pairs of chemical bonds separated by a third bond**
+- **An [[a/_angle|angle]] [[b/_between|between]] two plane surfaces**
+- **The upward slope of an [[a/_aircraft|aircraft]]'s wing**
+- **The [[a/_angle|angle]] [[b/_between|between]] pairs of [[c/_chemical|chemical]] [[b/_bonds|bonds]] separated by a third [[b/_bond|bond]]**
 ---
 #adjective
-- **Consisting of, relating to or contained between two plane surfaces.**
+- **[[c/_consisting|Consisting]] of, relating to or [[c/_contained|contained]] [[b/_between|between]] two plane surfaces.**
 	- _Example: dihedral angle_
-- **(of a kite or an aeroplane) Having wings that form a dihedral angle, especially when the angle between the upper sides is less than 180°.**
-- **Of wing pairs, inclined at an upward angle to each other.**
+- **(of a kite or an [[a/_aeroplane|aeroplane]]) Having wings that form a [[d/_dihedral|dihedral]] [[a/_angle|angle]], especially when the [[a/_angle|angle]] [[b/_between|between]] the upper sides is less than 180°.**
+- **Of wing pairs, inclined at an upward [[a/_angle|angle]] to [[e/_each|each]] other.**
 ---
 ### Antonyms
-- [[[[a/_anhedral|anhedral]]]]
+- [[anhedral]]
 ---

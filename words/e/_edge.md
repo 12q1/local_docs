@@ -1,33 +1,33 @@
 # Edge
 ---
 #noun
-- **The boundary line of a surface.**
-- **A one-dimensional face of a polytope. In particular, the joining line between two vertices of a polygon; the place where two faces of a polyhedron meet.**
-- **An advantage.**
+- **The [[b/_boundary|boundary]] line of a surface.**
+- **A one-[[d/_dimensional|dimensional]] face of a polytope. In particular, the joining line [[b/_between|between]] two vertices of a polygon; the place where two faces of a polyhedron meet.**
+- **An [[a/_advantage|advantage]].**
 	- _Example: I have the edge on him._
-- **The thin cutting side of the blade of an instrument, such as an ax, knife, sword, or scythe; that which cuts as an edge does, or wounds deeply, etc.**
-- **A sharp terminating border; a margin; a brink; an extreme verge.**
+- **The thin [[c/_cutting|cutting]] side of the [[b/_blade|blade]] of an instrument, such as an [[a/_ax|ax]], knife, sword, or scythe; that which [[c/_cuts|cuts]] as an [[e/_edge|edge]] [[d/_does|does]], or wounds [[d/_deeply|deeply]], etc.**
+- **A sharp terminating [[b/_border|border]]; a margin; a [[b/_brink|brink]]; an extreme verge.**
 	- _Example: He is standing on the edge of a precipice._
-- **Sharpness; readiness or fitness to cut; keenness; intenseness of desire.**
-- **The border or part adjacent to the line of division; the beginning or early part (of a period of time)**
+- **Sharpness; readiness or fitness to [[c/_cut|cut]]; keenness; intenseness of [[d/_desire|desire]].**
+- **The [[b/_border|border]] or part [[a/_adjacent|adjacent]] to the line of [[d/_division|division]]; the [[b/_beginning|beginning]] or [[e/_early|early]] part (of a period of time)**
 	- _Example: in the edge of evening_
-- **A shot where the ball comes off the edge of the bat, often unintentionally.**
-- **A connected pair of vertices in a graph.**
-- **In male masturbation, a level of sexual arousal that is maintained just short of reaching the point of inevitability, or climax; see also edging.**
+- **A shot where the [[b/_ball|ball]] [[c/_comes|comes]] off the [[e/_edge|edge]] of the [[b/_bat|bat]], often unintentionally.**
+- **A [[c/_connected|connected]] pair of vertices in a graph.**
+- **In male masturbation, a level of sexual [[a/_arousal|arousal]] that is maintained just short of reaching the point of inevitability, or [[c/_climax|climax]]; see [[a/_also|also]] [[e/_edging|edging]].**
 ---
 ### Synonyms
-- [[[[a/_advantage|advantage]]]], [[gain]], [[line]], [[[[b/_boundary|boundary]]]], [[[[b/_brink|brink]]]], [[lip]], [[margin]], [[rim]]
+- [[advantage]], [[gain]], [[line]], [[boundary]], [[brink]], [[lip]], [[margin]], [[rim]]
 #verb
-- **To move an object slowly and carefully in a particular direction.**
+- **To move an object slowly and [[c/_carefully|carefully]] in a particular [[d/_direction|direction]].**
 	- _Example: He edged the book across the table._
-- **To move slowly and carefully in a particular direction.**
+- **To move slowly and [[c/_carefully|carefully]] in a particular [[d/_direction|direction]].**
 	- _Example: He edged away from her._
-- **(usually in the form 'just edge') To win by a small margin.**
-- **To hit the ball with an edge of the bat, causing a fine deflection.**
-- **To trim the margin of a lawn where the grass meets the sidewalk, usually with an electric or gas-powered lawn edger.**
-- **To furnish with an edge; to construct an edging.**
-- **To furnish with an edge, as a tool or weapon; to sharpen.**
-- **To make sharp or keen; to incite; to exasperate; to goad; to urge or egg on.**
-- **To delay one's orgasm so as to remain almost at the point of orgasm.**
+- **(usually in the form 'just [[e/_edge|edge]]') To win by a small margin.**
+- **To hit the [[b/_ball|ball]] with an [[e/_edge|edge]] of the [[b/_bat|bat]], [[c/_causing|causing]] a fine [[d/_deflection|deflection]].**
+- **To trim the margin of a lawn where the grass meets the sidewalk, usually with an [[e/_electric|electric]] or gas-powered lawn [[e/_edger|edger]].**
+- **To furnish with an [[e/_edge|edge]]; to [[c/_construct|construct]] an [[e/_edging|edging]].**
+- **To furnish with an [[e/_edge|edge]], as a tool or weapon; to sharpen.**
+- **To make sharp or keen; to incite; to exasperate; to goad; to urge or [[e/_egg|egg]] on.**
+- **To [[d/_delay|delay]] one's orgasm so as to remain [[a/_almost|almost]] at the point of orgasm.**
 ---
 ---

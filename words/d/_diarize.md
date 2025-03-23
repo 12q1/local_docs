@@ -1,6 +1,6 @@
 # Diarize
 ---
 #verb
-- **To record (events) in a diary.**
+- **To record (events) in a [[d/_diary|diary]].**
 ---
 ---

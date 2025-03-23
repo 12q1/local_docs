@@ -1,6 +1,6 @@
 # Burials
 ---
 #noun
-- **The act of burying; interment**
+- **The [[a/_act|act]] of [[b/_burying|burying]]; interment**
 ---
 ---

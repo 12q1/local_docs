@@ -1,10 +1,10 @@
 # Elected
 ---
 #verb
-- **To choose or make a decision (to do something)**
-- **To choose (a candidate) in an election**
+- **To [[c/_choose|choose]] or make a [[d/_decision|decision]] (to [[d/_do|do]] something)**
+- **To [[c/_choose|choose]] (a [[c/_candidate|candidate]]) in an [[e/_election|election]]**
 ---
 #noun
-- **One who is elected.**
+- **One who is [[e/_elected|elected]].**
 ---
 ---

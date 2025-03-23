@@ -1,7 +1,7 @@
 # Briberies
 ---
 #noun
-- **The making of illegal payment, or bribes, to persons in official positions as a means of influencing their decisions**
-- **The activity of giving, offering or accepting bribes**
+- **The making of illegal payment, or [[b/_bribes|bribes]], to persons in official positions as a means of influencing their [[d/_decisions|decisions]]**
+- **The [[a/_activity|activity]] of giving, offering or [[a/_accepting|accepting]] [[b/_bribes|bribes]]**
 ---
 ---

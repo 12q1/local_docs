@@ -1,7 +1,7 @@
 # Crosspiece
 ---
 #noun
-- **A horizontal or transverse beam or similar member that extends across or perpendicular to something.**
-- **A bar or timber connecting two knightheads or two bitts; a timber over the windlass, with pins for belaying the running rigging.**
+- **A horizontal or transverse [[b/_beam|beam]] or similar member that extends [[a/_across|across]] or perpendicular to something.**
+- **A [[b/_bar|bar]] or timber [[c/_connecting|connecting]] two knightheads or two [[b/_bitts|bitts]]; a timber over the windlass, with pins for [[b/_belaying|belaying]] the running rigging.**
 ---
 ---

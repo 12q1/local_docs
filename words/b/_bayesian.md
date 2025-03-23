@@ -1,6 +1,6 @@
 # Bayesian
 ---
 #adjective
-- **Of or pertaining to Thomas Bayes, English mathematician.**
+- **Of or pertaining to Thomas Bayes, [[e/_english|English]] mathematician.**
 ---
 ---

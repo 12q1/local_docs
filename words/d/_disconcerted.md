@@ -1,16 +1,16 @@
 # Disconcerted
 ---
 #verb
-- **To upset the composure of.**
-- **To bring into confusion.**
-- **To frustrate, discomfit.**
+- **To upset the [[c/_composure|composure]] of.**
+- **To [[b/_bring|bring]] into [[c/_confusion|confusion]].**
+- **To frustrate, [[d/_discomfit|discomfit]].**
 	- _Example: The emperor disconcerted the plans of his enemy._
 ---
 ### Synonyms
-- [[[[a/_agitate|agitate]]]], [[upset]]
+- [[agitate]], [[upset]]
 #adjective
-- **Ruffled; upset and embarrassed.**
-- **Self-consciously distressed.**
-- **Frustrated and disarranged.**
+- **Ruffled; upset and [[e/_embarrassed|embarrassed]].**
+- **Self-[[c/_consciously|consciously]] [[d/_distressed|distressed]].**
+- **Frustrated and [[d/_disarranged|disarranged]].**
 ---
 ---

@@ -2,16 +2,16 @@
 ---
 #verb
 - **To train someone by instruction and practice.**
-- **To teach someone to obey authority.**
-- **To punish someone in order to (re)gain control.**
+- **To teach someone to obey [[a/_authority|authority]].**
+- **To punish someone in order to (re)gain [[c/_control|control]].**
 - **To impose order on someone.**
 ---
 ### Synonyms
-- [[[[d/_drill|drill]]]]
+- [[drill]]
 #adjective
-- **Possessing mental discipline.**
-- **Punished for disobedience.**
-- **Under control.**
-- **(in combination) Relating to a specified kind or number of disciplines.**
+- **Possessing mental [[d/_discipline|discipline]].**
+- **Punished for [[d/_disobedience|disobedience]].**
+- **Under [[c/_control|control]].**
+- **(in [[c/_combination|combination]]) Relating to a specified kind or number of [[d/_disciplines|disciplines]].**
 ---
 ---

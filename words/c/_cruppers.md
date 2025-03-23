@@ -2,9 +2,9 @@
 ---
 #noun
 - **A strap, looped under a horse's tail, used to stop a saddle from slipping.**
-- **The buttocks or rump, especially of a horse.**
-- **A piece of armour covering the hindquarters of a horse.**
+- **The [[b/_buttocks|buttocks]] or rump, especially of a horse.**
+- **A piece of [[a/_armour|armour]] [[c/_covering|covering]] the hindquarters of a horse.**
 ---
 ### Synonyms
-- [[[[c/_croupe|croupe]]]]
+- [[croupe]]
 ---

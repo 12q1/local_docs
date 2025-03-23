@@ -1,6 +1,6 @@
 # Draconic
 ---
 #adjective
-- **Draconian.**
+- **[[d/_draconian|Draconian]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Creatively
 ---
 #adverb
-- **In a creative manner.**
+- **In a [[c/_creative|creative]] manner.**
 ---
 ---

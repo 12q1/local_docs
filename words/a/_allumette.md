@@ -2,6 +2,6 @@
 ---
 #noun
 - **A matchstick.**
-- **A matchstick-sized cut of potatoes.**
+- **A matchstick-sized [[c/_cut|cut]] of potatoes.**
 ---
 ---

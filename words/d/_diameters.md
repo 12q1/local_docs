@@ -1,9 +1,9 @@
 # Diameters
 ---
 #noun
-- **Any straight line between two points on the circumference of a circle that passes through the centre/center of the circle.**
+- **[[a/_any|Any]] straight line [[b/_between|between]] two points on the [[c/_circumference|circumference]] of a [[c/_circle|circle]] that passes through the [[c/_centre|centre]]/[[c/_center|center]] of the [[c/_circle|circle]].**
 - **The length of such a line.**
-- **The maximum distance between any two points in a metric space**
-- **The maximum eccentricity over all vertices in a graph.**
+- **The maximum [[d/_distance|distance]] [[b/_between|between]] [[a/_any|any]] two points in a metric space**
+- **The maximum [[e/_eccentricity|eccentricity]] over [[a/_all|all]] vertices in a graph.**
 ---
 ---

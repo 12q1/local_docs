@@ -2,11 +2,11 @@
 ---
 #noun
 - **Life at home with one's family.**
-- **(plural) Domestic chores; housework.**
-- **Affection for the home and its material comforts.**
+- **(plural) [[d/_domestic|Domestic]] [[c/_chores|chores]]; housework.**
+- **[[a/_affection|Affection]] for the home and its material [[c/_comforts|comforts]].**
 ---
 ### Synonyms
-- [[[[c/_comfort|comfort]]]], [[family]], [[materialism]]
+- [[comfort]], [[family]], [[materialism]]
 ### Antonyms
-- [[[[b/_business|business]]]], [[society]], [[worldliness]]
+- [[business]], [[society]], [[worldliness]]
 ---

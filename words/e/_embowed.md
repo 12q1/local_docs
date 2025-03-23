@@ -1,9 +1,9 @@
 # Embowed
 ---
 #verb
-- **To bend like a bow; to curve.**
+- **To [[b/_bend|bend]] like a [[b/_bow|bow]]; to [[c/_curve|curve]].**
 ---
 #adjective
-- **Bent, curved or arched like a bow.**
+- **[[b/_bent|Bent]], [[c/_curved|curved]] or [[a/_arched|arched]] like a [[b/_bow|bow]].**
 ---
 ---

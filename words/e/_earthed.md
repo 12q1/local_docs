@@ -1,14 +1,14 @@
 # Earthed
 ---
 #verb
-- **To connect electrically to the earth.**
+- **To [[c/_connect|connect]] [[e/_electrically|electrically]] to the [[e/_earth|earth]].**
 	- _Example: That noise is because the amplifier is not properly earthed._
-- **To bury.**
-- **To burrow.**
+- **To [[b/_bury|bury]].**
+- **To [[b/_burrow|burrow]].**
 ---
 ### Synonyms
 - [[ground]]
 #adjective
-- **Grounded, connected electrically to the ground.**
+- **Grounded, [[c/_connected|connected]] [[e/_electrically|electrically]] to the ground.**
 ---
 ---

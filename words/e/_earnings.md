@@ -1,8 +1,8 @@
 # Earnings
 ---
 #noun
-- **Wages, money earned, income.**
-- **Business profits.**
+- **Wages, money [[e/_earned|earned]], income.**
+- **[[b/_business|Business]] profits.**
 - **Gains on investments; returns.**
 ---
 ---

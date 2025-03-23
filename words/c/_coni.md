@@ -1,6 +1,6 @@
 # Coni
 ---
 #noun
-- **A cone.**
+- **A [[c/_cone|cone]].**
 ---
 ---

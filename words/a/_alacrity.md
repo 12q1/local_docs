@@ -1,11 +1,11 @@
 # Alacrity
 ---
 #noun
-- **Eagerness; liveliness; enthusiasm.**
+- **[[e/_eagerness|Eagerness]]; liveliness; [[e/_enthusiasm|enthusiasm]].**
 - **Promptness; speed.**
 ---
 ### Synonyms
-- [[[[a/_avidity|avidity]]]], [[[[e/_eagerness|eagerness]]]], [[enthusiasm]], [[willingness]], [[[[b/_briskness|briskness]]]], [[[[c/_celerity|celerity]]]], [[haste]], [[promptness]], [[quickness]], [[swiftness]]
+- [[avidity]], [[eagerness]], [[enthusiasm]], [[willingness]], [[briskness]], [[celerity]], [[haste]], [[promptness]], [[quickness]], [[swiftness]]
 ### Antonyms
-- [[[[a/_apathy|apathy]]]], [[[[d/_disinclination|disinclination]]]], [[hesitance]], [[indifference]], [[reluctance]]
+- [[apathy]], [[disinclination]], [[hesitance]], [[indifference]], [[reluctance]]
 ---

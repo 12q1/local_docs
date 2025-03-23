@@ -1,23 +1,23 @@
 # Cardinal
 ---
 #noun
-- **One of the officials appointed by the pope in the Roman Catholic Church, ranking only below the pope and the patriarchs, constituting the special college which elects the pope. (See Wikipedia article on Catholic cardinals.)**
-- **Any of a genus of songbirds of the finch family, Cardinalis.**
-- **Any of various related passerine birds of the family Cardinalidae (See Wikipedia article on cardinals) and other similar birds that were once considered to be related.**
-- **(color) A deep red color, somewhat less vivid than scarlet, the traditional colour of a Catholic cardinal's cassock. (same as cardinal red)**
-- **Short for cardinal number, a number indicating quantity, or the size of a set (e.g., zero, one, two, three). (See Wikipedia article on Cardinal number.)**
-- **(grammar) Short for cardinal numeral, a word used to represent a cardinal number.**
-- **Short for cardinal flower (Lobelia cardinalis), a flowering plant.**
-- **Short for cardinal tetra (Paracheirodon axelrodi), a freshwater fish.**
-- **(bow) A woman's short cloak with a hood, originally made of scarlet cloth.**
+- **One of the officials [[a/_appointed|appointed]] by the pope in the Roman [[c/_catholic|Catholic]] [[c/_church|Church]], ranking only [[b/_below|below]] the pope and the patriarchs, [[c/_constituting|constituting]] the special [[c/_college|college]] which [[e/_elects|elects]] the pope. (See Wikipedia [[a/_article|article]] on [[c/_catholic|Catholic]] [[c/_cardinals|cardinals]].)**
+- **[[a/_any|Any]] of a genus of songbirds of the finch family, [[c/_cardinalis|Cardinalis]].**
+- **[[a/_any|Any]] of various related passerine [[b/_birds|birds]] of the family Cardinalidae (See Wikipedia [[a/_article|article]] on [[c/_cardinals|cardinals]]) and other similar [[b/_birds|birds]] that were once [[c/_considered|considered]] to be related.**
+- **([[c/_color|color]]) A [[d/_deep|deep]] red [[c/_color|color]], somewhat less vivid than scarlet, the traditional [[c/_colour|colour]] of a [[c/_catholic|Catholic]] [[c/_cardinal|cardinal]]'s [[c/_cassock|cassock]]. (same as [[c/_cardinal|cardinal]] red)**
+- **Short for [[c/_cardinal|cardinal]] number, a number indicating quantity, or the size of a set ([[e/_e|e]].g., zero, one, two, three). (See Wikipedia [[a/_article|article]] on [[c/_cardinal|Cardinal]] number.)**
+- **(grammar) Short for [[c/_cardinal|cardinal]] numeral, a word used to represent a [[c/_cardinal|cardinal]] number.**
+- **Short for [[c/_cardinal|cardinal]] flower (Lobelia [[c/_cardinalis|cardinalis]]), a flowering plant.**
+- **Short for [[c/_cardinal|cardinal]] tetra (Paracheirodon axelrodi), a freshwater fish.**
+- **([[b/_bow|bow]]) A woman's short [[c/_cloak|cloak]] with a hood, originally made of scarlet [[c/_cloth|cloth]].**
 - **Mulled red wine.**
 ---
 #adjective
-- **Of fundamental importance; crucial, pivotal.**
+- **Of fundamental importance; [[c/_crucial|crucial]], pivotal.**
 	- _Example: a cardinal rule_
-- **Of or relating to the cardinal directions (north, south, east and west).**
+- **Of or relating to the [[c/_cardinal|cardinal]] [[d/_directions|directions]] (north, south, [[e/_east|east]] and west).**
 	- _Example: a cardinal mark_
-- **Describing a "natural" number used to indicate quantity (e.g., zero, one, two, three), as opposed to an ordinal number indicating relative position.**
-- **Having a bright red color (from the color of a Catholic cardinal's cassock).**
+- **[[d/_describing|Describing]] a "natural" number used to indicate quantity ([[e/_e|e]].g., zero, one, two, three), as opposed to an ordinal number indicating relative position.**
+- **Having a [[b/_bright|bright]] red [[c/_color|color]] (from the [[c/_color|color]] of a [[c/_catholic|Catholic]] [[c/_cardinal|cardinal]]'s [[c/_cassock|cassock]]).**
 ---
 ---

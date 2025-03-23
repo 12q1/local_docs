@@ -4,7 +4,7 @@
 - **To torment or provoke.**
 ---
 #noun
-- **A blood sport in which dogs are set upon a chained bear**
-- **(metaphoric) A bloodthirsty free for all.**
+- **A [[b/_blood|blood]] sport in which [[d/_dogs|dogs]] are set upon a [[c/_chained|chained]] [[b/_bear|bear]]**
+- **(metaphoric) A [[b/_bloodthirsty|bloodthirsty]] free for [[a/_all|all]].**
 ---
 ---

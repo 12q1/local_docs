@@ -1,8 +1,8 @@
 # Depopulated
 ---
 #verb
-- **To reduce the population of a region by disease, war, forced relocation etc.**
-- **To remove the components from a circuit board.**
-- **To become depopulated, to lose its population.**
+- **To reduce the population of a region by [[d/_disease|disease]], war, forced relocation etc.**
+- **To remove the [[c/_components|components]] from a [[c/_circuit|circuit]] [[b/_board|board]].**
+- **To [[b/_become|become]] [[d/_depopulated|depopulated]], to lose its population.**
 ---
 ---

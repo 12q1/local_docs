@@ -1,9 +1,9 @@
 # Childbearing
 ---
 #noun
-- **The process of giving birth; pregnancy and parturition**
+- **The process of giving [[b/_birth|birth]]; pregnancy and parturition**
 ---
 #adjective
-- **Of, pertaining to, or suitable for childbirth**
+- **Of, pertaining to, or suitable for [[c/_childbirth|childbirth]]**
 ---
 ---

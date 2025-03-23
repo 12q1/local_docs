@@ -1,6 +1,6 @@
 # Contusing
 ---
 #verb
-- **To injure without breaking the skin; to bruise.**
+- **To injure without [[b/_breaking|breaking]] the skin; to [[b/_bruise|bruise]].**
 ---
 ---

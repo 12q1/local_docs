@@ -1,12 +1,12 @@
 # Eastward
 ---
 #noun
-- **The direction or area lying to the east.**
+- **The [[d/_direction|direction]] or [[a/_area|area]] lying to the [[e/_east|east]].**
 ---
 #adjective
-- **Situated or directed towards the east.**
+- **Situated or [[d/_directed|directed]] towards the [[e/_east|east]].**
 ---
 #adverb
-- **Towards the east.**
+- **Towards the [[e/_east|east]].**
 ---
 ---

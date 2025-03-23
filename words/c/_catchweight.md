@@ -1,16 +1,16 @@
 # Catchweight
 ---
 #noun
-- **A weight category other than the standard weight categories: either an agreed-upon weight range or an agreement to allow any weight.**
-- **The weight of an item that is not set to a standard, but which varies around an approximate value.**
-- **The weight of all the fish caught.**
+- **A weight [[c/_category|category]] other than the standard weight [[c/_categories|categories]]: [[e/_either|either]] an [[a/_agreed|agreed]]-upon weight range or an [[a/_agreement|agreement]] to [[a/_allow|allow]] [[a/_any|any]] weight.**
+- **The weight of an item that is not set to a standard, but which varies [[a/_around|around]] an [[a/_approximate|approximate]] value.**
+- **The weight of [[a/_all|all]] the fish [[c/_caught|caught]].**
 ---
 #adjective
-- **Without any weight restrictions; having no handicap.**
-- **Having no standard weight, but rather having weight determined when packaged for sale or shipping.**
+- **Without [[a/_any|any]] weight restrictions; having no handicap.**
+- **Having no standard weight, but rather having weight [[d/_determined|determined]] when packaged for sale or shipping.**
 ---
 #adverb
-- **Without any weight restrictions; without being handicapped.**
+- **Without [[a/_any|any]] weight restrictions; without [[b/_being|being]] handicapped.**
 	- _Example: to ride catchweight_
 ---
 ---

@@ -1,29 +1,29 @@
 # Blinking
 ---
 #verb
-- **To close and reopen both eyes quickly.**
+- **To [[c/_close|close]] and reopen [[b/_both|both]] [[e/_eyes|eyes]] quickly.**
 	- _Example: The loser in the staring game is the person who blinks first._
 - **To flash on and off at regular intervals.**
 	- _Example: The blinking text on the screen was distracting._
-- **To perform the smallest action that could solicit a response.**
+- **To perform the smallest [[a/_action|action]] that [[c/_could|could]] solicit a response.**
 - **To shut out of sight; to evade; to shirk.**
 	- _Example: to blink the question_
-- **To trick; to deceive.**
-- **To turn slightly sour, or blinky, as beer, milk, etc.**
-- **To teleport, mostly for short distances.**
+- **To trick; to [[d/_deceive|deceive]].**
+- **To turn slightly sour, or [[b/_blinky|blinky]], as [[b/_beer|beer]], milk, etc.**
+- **To teleport, mostly for short [[d/_distances|distances]].**
 ---
 ### Synonyms
 - [[nictitate]]
 #noun
-- **The act of something that blinks.**
+- **The [[a/_act|act]] of something that [[b/_blinks|blinks]].**
 	- _Example: the steady blinkings of lights on the console_
 ---
 #adjective
-- **That blinks.**
+- **That [[b/_blinks|blinks]].**
 	- _Example: a blinking light_
-- **Bloody**
+- **[[b/_bloody|Bloody]]**
 	- _Example: The blinking telly isn't working again._
 ---
 ### Synonyms
-- [[[[b/_blasted|blasted]]]], [[blimming]], [[[[b/_blooming|blooming]]]], [[winking]]
+- [[blasted]], [[blimming]], [[blooming]], [[winking]]
 ---

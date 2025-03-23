@@ -1,9 +1,9 @@
 # Bevvy
 ---
 #noun
-- **Alcoholic beverage.**
+- **[[a/_alcoholic|Alcoholic]] [[b/_beverage|beverage]].**
 ---
 #verb
-- **To get drunk**
+- **To get [[d/_drunk|drunk]]**
 ---
 ---

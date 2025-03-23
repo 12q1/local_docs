@@ -1,7 +1,7 @@
 # Cimmerian
 ---
 #adjective
-- **Perpetually dark or gloomy**
-- **Mentally dark; ignorant**
+- **Perpetually [[d/_dark|dark]] or gloomy**
+- **Mentally [[d/_dark|dark]]; ignorant**
 ---
 ---

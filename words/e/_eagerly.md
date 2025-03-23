@@ -1,7 +1,7 @@
 # Eagerly
 ---
 #adverb
-- **In an eager manner.**
+- **In an [[e/_eager|eager]] manner.**
 ---
 ### Synonyms
 - [[heartily]], [[with a will]]

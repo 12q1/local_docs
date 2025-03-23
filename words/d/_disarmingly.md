@@ -1,6 +1,6 @@
 # Disarmingly
 ---
 #adverb
-- **In a disarming manner.**
+- **In a [[d/_disarming|disarming]] manner.**
 ---
 ---

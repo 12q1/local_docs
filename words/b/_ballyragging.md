@@ -1,6 +1,6 @@
 # Ballyragging
 ---
 #verb
-- **To harass, badger, taunt, or abuse verbally.**
+- **To harass, [[b/_badger|badger]], taunt, or [[a/_abuse|abuse]] verbally.**
 ---
 ---

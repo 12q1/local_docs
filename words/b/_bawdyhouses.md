@@ -1,6 +1,6 @@
 # Bawdyhouses
 ---
 #noun
-- **A brothel; a house of prostitution.**
+- **A [[b/_brothel|brothel]]; a house of prostitution.**
 ---
 ---

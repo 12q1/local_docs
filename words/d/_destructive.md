@@ -1,14 +1,14 @@
 # Destructive
 ---
 #adjective
-- **Causing destruction; damaging.**
-- **Causing breakdown or disassembly.**
+- **[[c/_causing|Causing]] [[d/_destruction|destruction]]; [[d/_damaging|damaging]].**
+- **[[c/_causing|Causing]] [[b/_breakdown|breakdown]] or [[d/_disassembly|disassembly]].**
 	- _Example: Catabolism is a destructive metabolism that involves the breakdown of molecules and release of energy._
-- **Lossy; causing irreversible change.**
+- **Lossy; [[c/_causing|causing]] irreversible [[c/_change|change]].**
 	- _Example: Blurring an image is a destructive operation, but rotating an image is not._
 ---
 ### Synonyms
-- [[[[c/_calamitous|calamitous]]]], [[[[c/_catastrophic|catastrophic]]]], [[[[d/_devastating|devastating]]]], [[[[d/_disastrous|disastrous]]]], [[eradicative]], [[harmful]], [[pernicious]], [[ruinous]], [[wrackful]], [[wreckful]]
+- [[calamitous]], [[catastrophic]], [[devastating]], [[disastrous]], [[eradicative]], [[harmful]], [[pernicious]], [[ruinous]], [[wrackful]], [[wreckful]]
 ### Antonyms
-- [[[[c/_constructive|constructive]]]], [[nondestructive]], [[productive]]
+- [[constructive]], [[nondestructive]], [[productive]]
 ---

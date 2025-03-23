@@ -1,6 +1,6 @@
 # Anglophile
 ---
 #noun
-- **A person who loves or admires the country, culture or people of England.**
+- **A person who loves or [[a/_admires|admires]] the [[c/_country|country]], [[c/_culture|culture]] or people of [[e/_england|England]].**
 ---
 ---

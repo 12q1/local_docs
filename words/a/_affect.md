@@ -1,16 +1,16 @@
 # Affect
 ---
 #verb
-- **To influence or alter.**
+- **To influence or [[a/_alter|alter]].**
 	- _Example: The experience affected me deeply._
-- **To move to emotion.**
+- **To move to [[e/_emotion|emotion]].**
 	- _Example: He was deeply affected by the tragic ending of the play._
-- **Of an illness or condition, to infect or harm (a part of the body).**
+- **Of an illness or [[c/_condition|condition]], to infect or harm (a part of the [[b/_body|body]]).**
 	- _Example: Hepatitis affects the liver._
-- **To dispose or incline.**
-- **To tend to by affinity or disposition.**
-- **To assign; to appoint.**
+- **To [[d/_dispose|dispose]] or incline.**
+- **To tend to by [[a/_affinity|affinity]] or [[d/_disposition|disposition]].**
+- **To [[a/_assign|assign]]; to [[a/_appoint|appoint]].**
 ---
 ### Synonyms
-- [[[[a/_alter|alter]]]], [[[[c/_change|change]]]], [[have an [[e/_effect|effect]] on]], [[have an impact on]], [[influence]], [[[[a/_attack|attack]]]], [[harm]], [[infect]], [[move]], [[touch]]
+- [[alter]], [[change]], [[have an effect on]], [[have an impact on]], [[influence]], [[attack]], [[harm]], [[infect]], [[move]], [[touch]]
 ---

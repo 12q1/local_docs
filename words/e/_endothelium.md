@@ -1,6 +1,6 @@
 # Endothelium
 ---
 #noun
-- **A thin layer of flat epithelial cells that lines the heart, serous cavities, lymph vessels, and blood vessels.**
+- **A thin layer of flat [[e/_epithelial|epithelial]] [[c/_cells|cells]] that lines the heart, serous [[c/_cavities|cavities]], lymph vessels, and [[b/_blood|blood]] vessels.**
 ---
 ---

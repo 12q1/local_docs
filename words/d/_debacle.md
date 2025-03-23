@@ -1,8 +1,8 @@
 # Debacle
 ---
 #noun
-- **An event or enterprise that ends suddenly and disastrously, often with humiliating consequences.**
-- **A breaking up of a natural dam, usually made of ice, by a river and the ensuing rush of water.**
+- **An event or [[e/_enterprise|enterprise]] that [[e/_ends|ends]] suddenly and [[d/_disastrously|disastrously]], often with humiliating [[c/_consequences|consequences]].**
+- **A [[b/_breaking|breaking]] up of a natural [[d/_dam|dam]], usually made of ice, by a river and the [[e/_ensuing|ensuing]] rush of water.**
 ---
 ### Synonyms
 - [[fiasco]]

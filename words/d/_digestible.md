@@ -1,10 +1,10 @@
 # Digestible
 ---
 #adjective
-- **Capable of being digested.**
+- **[[c/_capable|Capable]] of [[b/_being|being]] [[d/_digested|digested]].**
 ---
 ### Synonyms
-- [[[[b/_bite|bite]]-sized]]
+- [[bite-sized]]
 ### Antonyms
 - [[indigestible]]
 ---

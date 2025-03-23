@@ -1,8 +1,8 @@
 # Donations
 ---
 #noun
-- **A voluntary gift or contribution for a specific cause.**
+- **A voluntary gift or [[c/_contribution|contribution]] for a specific [[c/_cause|cause]].**
 	- _Example: They were collecting donations for the elderly at Christmas._
-- **The act of giving or bestowing; a grant.**
+- **The [[a/_act|act]] of giving or [[b/_bestowing|bestowing]]; a grant.**
 ---
 ---

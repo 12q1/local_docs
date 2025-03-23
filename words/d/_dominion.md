@@ -2,11 +2,11 @@
 ---
 #noun
 - **Power or the use of power; sovereignty over something; stewardship, supremacy.**
-- **Predominance; ascendancy**
+- **Predominance; [[a/_ascendancy|ascendancy]]**
 - **(sometimes figurative) A kingdom, nation, or other sphere of influence; governed territory.**
 	- _Example: the dominions of a king  the dominion of the passions_
-- **An order of angel in Christian angelology, ranked above virtues and below thrones.**
+- **An order of [[a/_angel|angel]] in [[c/_christian|Christian]] [[a/_angelology|angelology]], ranked [[a/_above|above]] virtues and [[b/_below|below]] thrones.**
 ---
 ### Synonyms
-- [[[[d/_domination|domination]]]]
+- [[domination]]
 ---

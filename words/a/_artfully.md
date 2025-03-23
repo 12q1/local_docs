@@ -1,6 +1,6 @@
 # Artfully
 ---
 #adverb
-- **In an artful manner.**
+- **In an [[a/_artful|artful]] manner.**
 ---
 ---

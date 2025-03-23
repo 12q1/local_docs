@@ -1,13 +1,13 @@
 # Desiring
 ---
 #verb
-- **To want; to wish for earnestly.**
+- **To want; to wish for [[e/_earnestly|earnestly]].**
 	- _Example: I desire to speak with you._
-- **To put a request to (someone); to entreat.**
-- **To want emotionally or sexually.**
+- **To put a request to (someone); to [[e/_entreat|entreat]].**
+- **To want [[e/_emotionally|emotionally]] or sexually.**
 	- _Example: She has desired him since they first met._
-- **To express a wish for; to entreat; to request.**
-- **To require; to demand; to claim.**
+- **To express a wish for; to [[e/_entreat|entreat]]; to request.**
+- **To require; to [[d/_demand|demand]]; to [[c/_claim|claim]].**
 - **To miss; to regret.**
 ---
 #noun

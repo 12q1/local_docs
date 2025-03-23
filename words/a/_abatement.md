@@ -1,9 +1,9 @@
 # Abatement
 ---
 #noun
-- **The act of abating, or the state of being abated; a lessening, diminution, or reduction; a moderation; removal or putting an end to; the suppression of.**
+- **The [[a/_act|act]] of [[a/_abating|abating]], or the state of [[b/_being|being]] [[a/_abated|abated]]; a lessening, [[d/_diminution|diminution]], or reduction; a moderation; removal or putting an [[e/_end|end]] to; the suppression of.**
 	- _Example: The abatement of a nuisance is the suppression thereof._
-- **The amount abated; that which is taken away by way of reduction; deduction; decrease; a rebate or discount allowed; in particular from a tax.**
-- **A mark of dishonor on an escutcheon; any figure added to the coat of arms tending to lower the dignity or station of the bearer.**
+- **The [[a/_amount|amount]] [[a/_abated|abated]]; that which is taken [[a/_away|away]] by way of reduction; [[d/_deduction|deduction]]; [[d/_decrease|decrease]]; a rebate or [[d/_discount|discount]] [[a/_allowed|allowed]]; in particular from a tax.**
+- **A mark of [[d/_dishonor|dishonor]] on an escutcheon; [[a/_any|any]] figure [[a/_added|added]] to the [[c/_coat|coat]] of [[a/_arms|arms]] tending to lower the [[d/_dignity|dignity]] or station of the [[b/_bearer|bearer]].**
 ---
 ---

@@ -1,10 +1,10 @@
 # Cockeyed
 ---
 #adjective
-- **Having both eyes oriented inward, cross-eyed.**
-- **Crooked or askew.**
-- **Absurd, silly, or stupid; usually used in reference to ideas rather than people.**
+- **Having [[b/_both|both]] [[e/_eyes|eyes]] oriented inward, [[c/_cross|cross]]-[[e/_eyed|eyed]].**
+- **[[c/_crooked|Crooked]] or [[a/_askew|askew]].**
+- **[[a/_absurd|Absurd]], silly, or stupid; usually used in reference to ideas rather than people.**
 	- _Example: I'm not going to go along with your cockeyed plot._
-- **Drunk.**
+- **[[d/_drunk|Drunk]].**
 ---
 ---

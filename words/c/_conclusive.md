@@ -1,7 +1,7 @@
 # Conclusive
 ---
 #adjective
-- **Pertaining to a conclusion.**
-- **Providing an end to something; decisive.**
+- **Pertaining to a [[c/_conclusion|conclusion]].**
+- **Providing an [[e/_end|end]] to something; [[d/_decisive|decisive]].**
 ---
 ---

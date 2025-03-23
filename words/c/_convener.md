@@ -1,8 +1,8 @@
 # Convener
 ---
 #noun
-- **One who convenes or calls a meeting**
+- **One who [[c/_convenes|convenes]] or [[c/_calls|calls]] a meeting**
 ---
 ### Synonyms
-- [[[[c/_convoker|convoker]]]]
+- [[convoker]]
 ---

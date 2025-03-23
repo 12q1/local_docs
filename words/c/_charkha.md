@@ -1,6 +1,6 @@
 # Charkha
 ---
 #noun
-- **A domestic spinning wheel, used mostly for spinning cotton.**
+- **A [[d/_domestic|domestic]] spinning wheel, used mostly for spinning [[c/_cotton|cotton]].**
 ---
 ---

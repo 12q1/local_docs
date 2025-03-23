@@ -1,8 +1,8 @@
 # Animism
 ---
 #noun
-- **A belief that spirits inhabit some or all classes of natural objects or phenomena.**
-- **A belief that an immaterial force animates the universe.**
-- **A doctrine that animal life is produced by an immaterial spirit.**
+- **A [[b/_belief|belief]] that spirits inhabit some or [[a/_all|all]] [[c/_classes|classes]] of natural objects or phenomena.**
+- **A [[b/_belief|belief]] that an immaterial force [[a/_animates|animates]] the universe.**
+- **A [[d/_doctrine|doctrine]] that [[a/_animal|animal]] life is produced by an immaterial spirit.**
 ---
 ---

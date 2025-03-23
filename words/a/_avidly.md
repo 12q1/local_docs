@@ -1,6 +1,6 @@
 # Avidly
 ---
 #adverb
-- **In an avid manner; greedily; eagerly.**
+- **In an [[a/_avid|avid]] manner; greedily; [[e/_eagerly|eagerly]].**
 ---
 ---

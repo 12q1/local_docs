@@ -1,6 +1,6 @@
 # Cabbie
 ---
 #noun
-- **A cabdriver, someone who drives a taxi.**
+- **A [[c/_cabdriver|cabdriver]], someone who [[d/_drives|drives]] a taxi.**
 ---
 ---

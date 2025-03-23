@@ -1,6 +1,6 @@
 # Citywards
 ---
 #adverb
-- **Towards a city**
+- **Towards a [[c/_city|city]]**
 ---
 ---

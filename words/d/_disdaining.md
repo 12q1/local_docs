@@ -1,11 +1,11 @@
 # Disdaining
 ---
 #verb
-- **To regard (someone or something) with strong contempt.**
+- **To regard (someone or something) with strong [[c/_contempt|contempt]].**
 - **To be indignant or offended.**
 ---
 ### Synonyms
-- [[[[a/_abominate|abominate]]]], [[[[c/_contemn|contemn]]]]
+- [[abominate]], [[contemn]]
 ### Antonyms
-- [[[[a/_admire|admire]]]], [[[[a/_adore|adore]]]], [[honor]], [[respect]], [[revere]]
+- [[admire]], [[adore]], [[honor]], [[respect]], [[revere]]
 ---

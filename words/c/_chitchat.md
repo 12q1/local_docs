@@ -1,12 +1,12 @@
 # Chitchat
 ---
 #noun
-- **Light conversation; casual talk, usually about trivial matters.**
+- **Light [[c/_conversation|conversation]]; [[c/_casual|casual]] talk, usually [[a/_about|about]] trivial matters.**
 - **Gossip.**
 ---
 ### Synonyms
-- [[[[c/_chinwag|chinwag]]]], [[[[c/_claver|claver]]]]
+- [[chinwag]], [[claver]]
 #verb
-- **To engage in small talk, to discuss unimportant matters.**
+- **To [[e/_engage|engage]] in small talk, to [[d/_discuss|discuss]] unimportant matters.**
 ---
 ---

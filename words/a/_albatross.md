@@ -1,10 +1,10 @@
 # Albatross
 ---
 #noun
-- **Any of various large seabirds of the family Diomedeidae ranging widely in the Southern Ocean and the North Pacific and having a hooked beak and long narrow wings.**
-- **Any of various African and Asian pierid butterflies of the genus Appias. Some species of this genus are also known as puffins.**
-- **A double eagle, or three under par on any one hole, except a par 3 hole.**
+- **[[a/_any|Any]] of various large seabirds of the family [[d/_diomedeidae|Diomedeidae]] ranging widely in the Southern Ocean and the North Pacific and having a hooked [[b/_beak|beak]] and long narrow wings.**
+- **[[a/_any|Any]] of various [[a/_african|African]] and [[a/_asian|Asian]] pierid [[b/_butterflies|butterflies]] of the genus Appias. Some species of this genus are [[a/_also|also]] known as puffins.**
+- **A [[d/_double|double]] [[e/_eagle|eagle]], or three under par on [[a/_any|any]] one hole, except a par 3 hole.**
 ---
 ### Synonyms
-- [[gooney]], [[gooney [[b/_bird|bird]]]], [[goonie]]
+- [[gooney]], [[gooney bird]], [[goonie]]
 ---

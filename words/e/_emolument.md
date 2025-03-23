@@ -1,8 +1,8 @@
 # Emolument
 ---
 #noun
-- **Payment for an office or employment; compensation for a job, which is usually monetary.**
+- **Payment for an office or [[e/_employment|employment]]; [[c/_compensation|compensation]] for a job, which is usually monetary.**
 ---
 ### Synonyms
-- [[[[c/_compensation|compensation]]]], [[fee]], [[payment]]
+- [[compensation]], [[fee]], [[payment]]
 ---

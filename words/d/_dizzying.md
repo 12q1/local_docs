@@ -1,12 +1,12 @@
 # Dizzying
 ---
 #verb
-- **To make dizzy, to bewilder.**
+- **To make [[d/_dizzy|dizzy]], to [[b/_bewilder|bewilder]].**
 ---
 #adjective
-- **Tending to make one (actually or metaphorically) dizzy or confused, as of great speed or height.**
+- **Tending to make one ([[a/_actually|actually]] or metaphorically) [[d/_dizzy|dizzy]] or [[c/_confused|confused]], as of great speed or height.**
 	- _Example: The salesman presented me with a dizzying array of choices, and I was hard pressed to choose between them._
 ---
 ### Synonyms
-- [[[[b/_bewildering|bewildering]]]], [[excessive]], [[heady]], [[intoxicating]]
+- [[bewildering]], [[excessive]], [[heady]], [[intoxicating]]
 ---

@@ -1,6 +1,6 @@
 # Decadence
 ---
 #noun
-- **A state of moral or artistic decline or deterioration; decay**
+- **A state of moral or [[a/_artistic|artistic]] [[d/_decline|decline]] or [[d/_deterioration|deterioration]]; [[d/_decay|decay]]**
 ---
 ---

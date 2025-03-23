@@ -1,9 +1,9 @@
 # Barbiturates
 ---
 #noun
-- **Any salt or ester of barbituric acid.**
-- **Any of derivatives of barbituric acid that act as depressants of the central nervous system and are used as sedatives or hypnotics.**
+- **[[a/_any|Any]] salt or ester of [[b/_barbituric|barbituric]] [[a/_acid|acid]].**
+- **[[a/_any|Any]] of [[d/_derivatives|derivatives]] of [[b/_barbituric|barbituric]] [[a/_acid|acid]] that [[a/_act|act]] as [[d/_depressants|depressants]] of the [[c/_central|central]] nervous system and are used as sedatives or hypnotics.**
 ---
 ### Synonyms
-- [[[[b/_barb|barb]]]], [[barbie]], [[goofball]]
+- [[barb]], [[barbie]], [[goofball]]
 ---

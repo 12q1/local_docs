@@ -1,8 +1,8 @@
 # Bolide
 ---
 #noun
-- **An extremely bright meteor.**
-- **Any extraterrestrial body that collides with Earth.**
+- **An extremely [[b/_bright|bright]] meteor.**
+- **[[a/_any|Any]] extraterrestrial [[b/_body|body]] that [[c/_collides|collides]] with [[e/_earth|Earth]].**
 - **A fireball.**
 ---
 ### Synonyms

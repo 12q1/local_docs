@@ -1,6 +1,6 @@
 # Crayoned
 ---
 #verb
-- **To draw with a crayon.**
+- **To [[d/_draw|draw]] with a [[c/_crayon|crayon]].**
 ---
 ---

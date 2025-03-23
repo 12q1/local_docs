@@ -1,6 +1,6 @@
 # Biometrician
 ---
 #noun
-- **One who practices biometrics.**
+- **One who practices [[b/_biometrics|biometrics]].**
 ---
 ---

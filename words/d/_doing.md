@@ -1,64 +1,64 @@
 # Doing
 ---
 #verb
-- **(auxiliary) A syntactic marker.**
+- **([[a/_auxiliary|auxiliary]]) A syntactic marker.**
 - **To perform; to execute.**
 	- _Example: All you ever do is surf the Internet. What will you do this afternoon?_
-- **To cause, make (someone) (do something).**
+- **To [[c/_cause|cause]], make (someone) ([[d/_do|do]] something).**
 - **To suffice.**
 	- _Example: it’s not the best broom, but it will have to do;  this will do me, thanks._
-- **To be reasonable or acceptable.**
+- **To be reasonable or [[a/_acceptable|acceptable]].**
 	- _Example: It simply will not do to have dozens of children running around such a quiet event._
-- **(ditransitive) To have (as an effect).**
+- **(ditransitive) To have (as an [[e/_effect|effect]]).**
 	- _Example: The fresh air did him some good._
 - **To fare, perform (well or poorly).**
 	- _Example: Our relationship isn't doing very well;  how do you do?_
-- **(chiefly in questions) To have as one's job.**
+- **([[c/_chiefly|chiefly]] in questions) To have as one's job.**
 	- _Example: What does Bob do? — He's a plumber._
-- **To perform the tasks or actions associated with (something).**
+- **To perform the tasks or [[a/_actions|actions]] [[a/_associated|associated]] with (something).**
 	- _Example: "Don't forget to do your report" means something quite different depending on whether you're a student or a programmer._
-- **To cook.**
+- **To [[c/_cook|cook]].**
 	- _Example: I'll just do some eggs._
-- **To travel in, to tour, to make a circuit of.**
+- **To travel in, to tour, to make a [[c/_circuit|circuit]] of.**
 	- _Example: Let’s do New York also._
-- **To treat in a certain way.**
-- **To work for or on, by way of caring for, looking after, preparing, cleaning, keeping in order, etc.**
-- **To act or behave in a certain manner; to conduct oneself.**
-- **To spend (time) in jail. (See also do time)**
+- **To treat in a [[c/_certain|certain]] way.**
+- **To work for or on, by way of [[c/_caring|caring]] for, looking [[a/_after|after]], preparing, [[c/_cleaning|cleaning]], keeping in order, etc.**
+- **To [[a/_act|act]] or [[b/_behave|behave]] in a [[c/_certain|certain]] manner; to [[c/_conduct|conduct]] oneself.**
+- **To spend (time) in jail. (See [[a/_also|also]] [[d/_do|do]] time)**
 	- _Example: I did five years for armed robbery._
-- **To impersonate or depict.**
+- **To impersonate or [[d/_depict|depict]].**
 	- _Example: They really laughed when he did Clinton, with a perfect accent and a leer._
-- **(with 'a' and the name of a person, place, event, etc.) To copy or emulate the actions or behaviour that is associated with the person or thing mentioned.**
+- **(with 'a' and the name of a person, place, event, etc.) To [[c/_copy|copy]] or [[e/_emulate|emulate]] the [[a/_actions|actions]] or [[b/_behaviour|behaviour]] that is [[a/_associated|associated]] with the person or thing mentioned.**
 	- _Example: He did a Henry VIII and got married six times._
 - **To kill.**
-- **To deal with for good and all; to finish up; to undo; to ruin; to do for.**
+- **To [[d/_deal|deal]] with for good and [[a/_all|all]]; to finish up; to undo; to ruin; to [[d/_do|do]] for.**
 - **To punish for a misdemeanor.**
 	- _Example: He got done for speeding._
-- **To have sex with. (See also do it)**
-- **To cheat or swindle.**
+- **To have sex with. (See [[a/_also|also]] [[d/_do|do]] it)**
+- **To [[c/_cheat|cheat]] or swindle.**
 	- _Example: That guy just did me out of two hundred bucks!_
-- **To convert into a certain form; especially, to translate.**
+- **To [[c/_convert|convert]] into a [[c/_certain|certain]] form; especially, to translate.**
 	- _Example: the novel has just been done into English;  I'm going to do this play into a movie_
 - **To finish.**
-- **To work as a domestic servant (with for).**
-- **(auxiliary) Used to form the present progressive of verbs.**
-- **To cash or to advance money for, as a bill or note.**
+- **To work as a [[d/_domestic|domestic]] servant (with for).**
+- **([[a/_auxiliary|auxiliary]]) Used to form the present progressive of verbs.**
+- **To [[c/_cash|cash]] or to [[a/_advance|advance]] money for, as a [[b/_bill|bill]] or note.**
 - **(ditransitive) To make or provide.**
 	- _Example: Could you do me a burger with mayonnaise instead of ketchup?_
-- **To injure (one's own body part).**
-- **To take drugs.**
+- **To injure (one's own [[b/_body|body]] part).**
+- **To take [[d/_drugs|drugs]].**
 	- _Example: I do cocaine._
-- **(in the form be doing [somewhere]) To exist with a purpose or for a reason.**
+- **(in the form be [[d/_doing|doing]] [somewhere]) To exist with a purpose or for a reason.**
 	- _Example: What's that car doing in our swimming pool?_
 ---
 ### Synonyms
-- [[[[a/_accomplish|accomplish]]]], [[[[c/_carry|carry]] out]], [[functionate]], [[[[a/_attend|attend]]]], [[serve]], [[wait on]], [[[[d/_defraud|defraud]]]], [[[[d/_diddle|diddle]]]], [[mug off]], [[rip off]], [[scam]], [[[[d/_do|do]] in]], [[murder]], [[off]], [[rub out]], [[furnish]], [[give]], [[supply]], [[go to [[b/_bed|bed]] with]], [[sleep with]], [[imitate]], [[personate]], [[take off]], [[serve]]
+- [[accomplish]], [[carry out]], [[functionate]], [[attend]], [[serve]], [[wait on]], [[defraud]], [[diddle]], [[mug off]], [[rip off]], [[scam]], [[do in]], [[murder]], [[off]], [[rub out]], [[furnish]], [[give]], [[supply]], [[go to bed with]], [[sleep with]], [[imitate]], [[personate]], [[take off]], [[serve]]
 ### Antonyms
-- [[[[d/_don|don]]'t]]
+- [[don't]]
 #noun
-- **A deed or action, especially when somebody is held responsible for it.**
+- **A [[d/_deed|deed]] or [[a/_action|action]], especially when somebody is held responsible for it.**
 	- _Example: This is his doing. (= "He did it.")_
 ---
 ### Synonyms
-- [[[[a/_act|act]]]]
+- [[act]]
 ---

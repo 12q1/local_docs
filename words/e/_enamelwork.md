@@ -1,6 +1,6 @@
 # Enamelwork
 ---
 #noun
-- **Objects decorated with enamel**
+- **Objects [[d/_decorated|decorated]] with [[e/_enamel|enamel]]**
 ---
 ---

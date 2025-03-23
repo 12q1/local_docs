@@ -1,8 +1,8 @@
 # Astatine
 ---
 #noun
-- **A highly radioactive chemical element (symbol At), one of the halogens, with atomic number 85.**
+- **A highly radioactive [[c/_chemical|chemical]] [[e/_element|element]] (symbol At), one of the halogens, with [[a/_atomic|atomic]] number 85.**
 ---
 ### Synonyms
-- [[[[a/_alabamine|alabamine]]]], [[[[a/_anglo|anglo]]-helvetium]]
+- [[alabamine]], [[anglo-helvetium]]
 ---

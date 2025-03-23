@@ -1,13 +1,13 @@
 # Emboldened
 ---
 #verb
-- **To render (someone) bolder or more courageous.**
-- **To encourage, inspire, or motivate.**
-- **To format text in boldface.**
+- **To render (someone) [[b/_bolder|bolder]] or more [[c/_courageous|courageous]].**
+- **To [[e/_encourage|encourage]], inspire, or motivate.**
+- **To format text in [[b/_boldface|boldface]].**
 ---
 ### Synonyms
-- [[[[b/_boldface|boldface]]]]
+- [[boldface]]
 #adjective
-- **Having been made bold.**
+- **Having [[b/_been|been]] made [[b/_bold|bold]].**
 ---
 ---

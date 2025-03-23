@@ -1,7 +1,7 @@
 # Cur
 ---
 #noun
-- **A contemptible or inferior dog.**
-- **A detestable person.**
+- **A [[c/_contemptible|contemptible]] or inferior [[d/_dog|dog]].**
+- **A [[d/_detestable|detestable]] person.**
 ---
 ---

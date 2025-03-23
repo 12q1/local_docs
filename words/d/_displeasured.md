@@ -1,6 +1,6 @@
 # Displeasured
 ---
 #verb
-- **To displease or offend.**
+- **To [[d/_displease|displease]] or offend.**
 ---
 ---

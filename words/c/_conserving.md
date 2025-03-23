@@ -3,10 +3,10 @@
 #verb
 - **To save for later use, sometimes by the use of a preservative.**
 	- _Example: to conserve fruits with sugar_
-- **To protect an environment.**
-- **To remain unchanged during a process**
+- **To protect an [[e/_environment|environment]].**
+- **To remain unchanged [[d/_during|during]] a process**
 ---
 #adjective
-- **Accompanied by conservation.**
+- **[[a/_accompanied|Accompanied]] by [[c/_conservation|conservation]].**
 ---
 ---

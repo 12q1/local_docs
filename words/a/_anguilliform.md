@@ -1,10 +1,10 @@
 # Anguilliform
 ---
 #noun
-- **Any eel of the order Anguilliformes**
+- **[[a/_any|Any]] [[e/_eel|eel]] of the order Anguilliformes**
 ---
 #adjective
-- **Shaped like an eel.**
-- **Swimming in the manner of an eel.**
+- **Shaped like an [[e/_eel|eel]].**
+- **Swimming in the manner of an [[e/_eel|eel]].**
 ---
 ---

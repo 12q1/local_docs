@@ -1,7 +1,7 @@
 # Discoverability
 ---
 #noun
-- **The state or condition of being discoverable.**
+- **The state or [[c/_condition|condition]] of [[b/_being|being]] [[d/_discoverable|discoverable]].**
 ---
 ### Synonyms
 - [[findability]]

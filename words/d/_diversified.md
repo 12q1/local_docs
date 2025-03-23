@@ -1,10 +1,10 @@
 # Diversified
 ---
 #adjective
-- **Modified by diversification**
+- **Modified by [[d/_diversification|diversification]]**
 ---
 #verb
-- **To make diverse or various in form or quality; to give variety to distinguish by numerous differences or aspects.**
+- **To make [[d/_diverse|diverse]] or various in form or quality; to give variety to [[d/_distinguish|distinguish]] by numerous [[d/_differences|differences]] or [[a/_aspects|aspects]].**
 ---
 ### Synonyms
 - [[variegate]]

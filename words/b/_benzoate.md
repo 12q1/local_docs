@@ -1,6 +1,6 @@
 # Benzoate
 ---
 #noun
-- **Any salt or ester of benzoic acid.**
+- **[[a/_any|Any]] salt or ester of [[b/_benzoic|benzoic]] [[a/_acid|acid]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Coadjutor
 ---
 #noun
-- **An assistant or helper.**
-- **An assistant to a bishop.**
+- **An [[a/_assistant|assistant]] or helper.**
+- **An [[a/_assistant|assistant]] to a [[b/_bishop|bishop]].**
 ---
 ---

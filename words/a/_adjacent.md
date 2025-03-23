@@ -1,22 +1,22 @@
 # Adjacent
 ---
 #noun
-- **Something that lies next to something else, especially the side of a right triangle that is neither the hypotenuse nor the opposite.**
+- **Something that lies next to something [[e/_else|else]], especially the side of a right triangle that is neither the hypotenuse nor the opposite.**
 ---
 #adjective
-- **Lying next to, close, or contiguous; neighboring; bordering on.**
+- **Lying next to, [[c/_close|close]], or [[c/_contiguous|contiguous]]; neighboring; [[b/_bordering|bordering]] on.**
 	- _Example: Because the conference room is filled, we will have our meeting in the adjacent room._
-- **Just before, after, or facing.**
+- **Just [[b/_before|before]], [[a/_after|after]], or facing.**
 	- _Example: The picture is on the adjacent page._
-- **Related to; suggestive of; bordering on.**
+- **Related to; suggestive of; [[b/_bordering|bordering]] on.**
 ---
 ### Synonyms
-- [[[[a/_abutting|abutting]]]], [[[[a/_adjoining|adjoining]]]], [[[[c/_contiguous|contiguous]]]], [[juxtaposed]], [[near]]
+- [[abutting]], [[adjoining]], [[contiguous]], [[juxtaposed]], [[near]]
 ### Antonyms
-- [[[[a/_apart|apart]]]], [[[[d/_distant|distant]]]], [[nonadjacent]]
+- [[apart]], [[distant]], [[nonadjacent]]
 #preposition
-- **Next to; beside.**
+- **Next to; [[b/_beside|beside]].**
 	- _Example: A notice was sent to the house adjacent the school._
-- **Related to; suggestive of; bordering on.**
+- **Related to; suggestive of; [[b/_bordering|bordering]] on.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Eastwards
 ---
 #adverb
-- **Eastward.**
+- **[[e/_eastward|Eastward]].**
 ---
 ---

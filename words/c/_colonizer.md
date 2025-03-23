@@ -1,6 +1,6 @@
 # Colonizer
 ---
 #noun
-- **One who establishes or joins a colony; a colonist**
+- **One who establishes or joins a [[c/_colony|colony]]; a [[c/_colonist|colonist]]**
 ---
 ---

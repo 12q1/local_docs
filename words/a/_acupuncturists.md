@@ -1,6 +1,6 @@
 # Acupuncturists
 ---
 #noun
-- **A healthcare professional who is qualified or professionally engaged in the practice of acupuncture.**
+- **A healthcare professional who is qualified or professionally [[e/_engaged|engaged]] in the practice of [[a/_acupuncture|acupuncture]].**
 ---
 ---

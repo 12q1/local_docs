@@ -4,5 +4,5 @@
 - **Sourly; tartly**
 ---
 ### Synonyms
-- [[[[a/_acerbically|acerbically]]]]
+- [[acerbically]]
 ---

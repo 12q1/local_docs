@@ -1,6 +1,6 @@
 # Emblematising
 ---
 #verb
-- **To stand as an emblem for; to represent.**
+- **To stand as an [[e/_emblem|emblem]] for; to represent.**
 ---
 ---

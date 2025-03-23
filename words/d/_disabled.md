@@ -1,26 +1,26 @@
 # Disabled
 ---
 #verb
-- **To render unable; to take away an ability of, as by crippling.**
-- **(chiefly of a person) To impair the physical or mental abilities of; to cause a serious, permanent injury.**
+- **To render unable; to take [[a/_away|away]] an [[a/_ability|ability]] of, as by [[c/_crippling|crippling]].**
+- **([[c/_chiefly|chiefly]] of a person) To impair the physical or mental [[a/_abilities|abilities]] of; to [[c/_cause|cause]] a serious, permanent injury.**
 	- _Example: Falling off the horse disabled him._
-- **To deactivate, to make inoperational (especially of a function of an electronic or mechanical device).**
+- **To [[d/_deactivate|deactivate]], to make inoperational (especially of a function of an [[e/_electronic|electronic]] or mechanical [[d/_device|device]]).**
 	- _Example: The pilot had to disable the autopilot of his airplane._
 ---
 ### Synonyms
-- [[[[d/_deactivate|deactivate]]]], [[non-standard]], [[unable]]
+- [[deactivate]], [[non-standard]], [[unable]]
 ### Antonyms
-- [[[[e/_enable|enable]]]]
+- [[enable]]
 #noun
-- **One who is disabled. (often used collectively as the disabled, but sometimes also singular)**
+- **One who is [[d/_disabled|disabled]]. (often used [[c/_collectively|collectively]] as the [[d/_disabled|disabled]], but sometimes [[a/_also|also]] singular)**
 ---
 #adjective
-- **Made incapable of use or action.**
-- **Having a disability.**
-- **Legally disqualified.**
+- **Made incapable of use or [[a/_action|action]].**
+- **Having a [[d/_disability|disability]].**
+- **Legally [[d/_disqualified|disqualified]].**
 ---
 ### Synonyms
 - [[incapacitated]], [[indisposed]], [[invalid]]
 ### Antonyms
-- [[[[e/_enabled|enabled]]]]
+- [[enabled]]
 ---

@@ -1,9 +1,9 @@
 # Burkha
 ---
 #noun
-- **An Islamic garment that covers the whole body, which has a net screen covering the eyes so they cannot be seen, and is worn by women.**
-- **A dress made from felt or karakul (the short curly fur of young lambs of the breed of that name), traditionally worn by men of the Caucasus region.**
+- **An Islamic garment that [[c/_covers|covers]] the whole [[b/_body|body]], which has a net screen [[c/_covering|covering]] the [[e/_eyes|eyes]] so they [[c/_cannot|cannot]] be seen, and is worn by women.**
+- **A [[d/_dress|dress]] made from felt or karakul (the short [[c/_curly|curly]] fur of young lambs of the [[b/_breed|breed]] of that name), traditionally worn by men of the [[c/_caucasus|Caucasus]] region.**
 ---
 ### Synonyms
-- [[[[c/_chadri|chadri]]]], [[paranja]]
+- [[chadri]], [[paranja]]
 ---

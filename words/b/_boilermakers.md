@@ -1,7 +1,7 @@
 # Boilermakers
 ---
 #noun
-- **A person qualified to make or repair boilers.**
-- **A whiskey with a beer chaser.**
+- **A person qualified to make or repair [[b/_boilers|boilers]].**
+- **A whiskey with a [[b/_beer|beer]] [[c/_chaser|chaser]].**
 ---
 ---

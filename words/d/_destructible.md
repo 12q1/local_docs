@@ -1,10 +1,10 @@
 # Destructible
 ---
 #adjective
-- **Liable to destruction; capable of being destroyed.**
+- **Liable to [[d/_destruction|destruction]]; [[c/_capable|capable]] of [[b/_being|being]] [[d/_destroyed|destroyed]].**
 ---
 ### Synonyms
-- [[[[b/_breakable|breakable]]]], [[[[d/_destroyable|destroyable]]]], [[wreckable]]
+- [[breakable]], [[destroyable]], [[wreckable]]
 ### Antonyms
-- [[[[c/_constructible|constructible]]]], [[producible]], [[indestructible]], [[unbreakable]], [[undestroyable]], [[unwreckable]]
+- [[constructible]], [[producible]], [[indestructible]], [[unbreakable]], [[undestroyable]], [[unwreckable]]
 ---

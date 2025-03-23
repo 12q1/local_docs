@@ -5,6 +5,6 @@
 	- _Example: a crackling fire_
 ---
 #adjective
-- **Having a crackle, or glaze resembling many small cracks.**
+- **Having a [[c/_crackle|crackle]], or glaze resembling many small [[c/_cracks|cracks]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Dactylic
 ---
 #noun
-- **A dactylic verse.**
+- **A [[d/_dactylic|dactylic]] verse.**
 ---
 #adjective
-- **Of or consisting of dactyls.**
+- **Of or [[c/_consisting|consisting]] of [[d/_dactyls|dactyls]].**
 ---
 ---

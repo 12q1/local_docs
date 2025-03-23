@@ -1,6 +1,6 @@
 # Eldritch
 ---
 #adjective
-- **Unearthly, supernatural, eerie.**
+- **Unearthly, supernatural, [[e/_eerie|eerie]].**
 ---
 ---

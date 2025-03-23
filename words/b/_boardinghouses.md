@@ -1,9 +1,9 @@
 # Boardinghouses
 ---
 #noun
-- **A private house in which paying residents are provided with accommodation and meals.**
-- **A boarding school building where boarders live during term time.**
+- **A private house in which paying residents are provided with [[a/_accommodation|accommodation]] and meals.**
+- **A [[b/_boarding|boarding]] school [[b/_building|building]] where [[b/_boarders|boarders]] live [[d/_during|during]] term time.**
 ---
 ### Synonyms
-- [[[[d/_digs|digs]]]], [[guesthouse]], [[lodging house]], [[rooming house]]
+- [[digs]], [[guesthouse]], [[lodging house]], [[rooming house]]
 ---

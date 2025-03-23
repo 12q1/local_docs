@@ -1,6 +1,6 @@
 # Dorsoventral
 ---
 #adjective
-- **Of, pertaining to, or situated at the back and belly of something.**
+- **Of, pertaining to, or situated at the [[b/_back|back]] and [[b/_belly|belly]] of something.**
 ---
 ---

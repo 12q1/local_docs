@@ -1,15 +1,15 @@
 # Bilingual
 ---
 #noun
-- **A person who is able to use two languages.**
+- **A person who is [[a/_able|able]] to use two languages.**
 ---
 #adjective
-- **Having the ability to speak two languages.**
-- **Spoken or written in two different languages.**
+- **Having the [[a/_ability|ability]] to speak two languages.**
+- **Spoken or written in two [[d/_different|different]] languages.**
 	- _Example: a bilingual dictionary_
-- **Characterized by the use or presence of two languages.**
+- **[[c/_characterized|Characterized]] by the use or presence of two languages.**
 	- _Example: bilingual education_
 ---
 ### Synonyms
-- [[[[d/_diglot|diglot]]]], [[two-tongued]], [[two-tongued]]
+- [[diglot]], [[two-tongued]], [[two-tongued]]
 ---

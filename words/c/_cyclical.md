@@ -4,5 +4,5 @@
 - **Recurring at regular intervals**
 ---
 ### Synonyms
-- [[[[c/_cyclic|cyclic]]]], [[periodic]]
+- [[cyclic]], [[periodic]]
 ---

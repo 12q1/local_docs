@@ -1,6 +1,6 @@
 # Durned
 ---
 #adjective
-- **Darned.**
+- **[[d/_darned|Darned]].**
 ---
 ---

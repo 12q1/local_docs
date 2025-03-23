@@ -1,6 +1,6 @@
 # Byrnie
 ---
 #noun
-- **A short chain mail shirt, covering from the upper arms to the upper thighs.**
+- **A short [[c/_chain|chain]] mail shirt, [[c/_covering|covering]] from the upper [[a/_arms|arms]] to the upper thighs.**
 ---
 ---

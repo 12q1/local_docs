@@ -1,8 +1,8 @@
 # Callipygian
 ---
 #adjective
-- **Having beautifully shaped buttocks.**
+- **Having [[b/_beautifully|beautifully]] shaped [[b/_buttocks|buttocks]].**
 ---
 ### Synonyms
-- [[bootylicious]], [[bumtastic]], [[[[c/_callipygous|callipygous]]]], [[rumpalicious]]
+- [[bootylicious]], [[bumtastic]], [[callipygous]], [[rumpalicious]]
 ---

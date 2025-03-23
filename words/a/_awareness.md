@@ -1,11 +1,11 @@
 # Awareness
 ---
 #noun
-- **The state or level of consciousness where sense data can be confirmed by an observer.**
+- **The state or level of [[c/_consciousness|consciousness]] where sense [[d/_data|data]] [[c/_can|can]] be [[c/_confirmed|confirmed]] by an observer.**
 	- _Example: I gradually passed from sleep to full awareness._
-- **The state or quality of being aware of something**
+- **The state or quality of [[b/_being|being]] [[a/_aware|aware]] of something**
 	- _Example: The awareness of one type of idea naturally fosters an awareness of another idea_
 ---
 ### Synonyms
-- [[[[c/_consciousness|consciousness]]]], [[knowledge]], [[[[c/_consciousness|consciousness]]]], [[wakefulness]]
+- [[consciousness]], [[knowledge]], [[consciousness]], [[wakefulness]]
 ---

@@ -2,6 +2,6 @@
 ---
 #verb
 - **To perform this step.**
-- **To dismiss.**
+- **To [[d/_dismiss|dismiss]].**
 ---
 ---

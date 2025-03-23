@@ -1,14 +1,14 @@
 # Coralline
 ---
 #noun
-- **Any calcareous species of red algae of the family Corallinaceae.**
-- **An animal that resembles such a coral.**
+- **[[a/_any|Any]] [[c/_calcareous|calcareous]] species of red [[a/_algae|algae]] of the family [[c/_corallinaceae|Corallinaceae]].**
+- **An [[a/_animal|animal]] that resembles such a [[c/_coral|coral]].**
 ---
 #adjective
-- **Of, relating to or pertaining to or resembling red algae of the family Corallinaceae.**
-- **Of, pertaining to, or resembling the material coral.**
-- **Describing rock formed from the skeletons of such algae.**
+- **Of, relating to or pertaining to or resembling red [[a/_algae|algae]] of the family [[c/_corallinaceae|Corallinaceae]].**
+- **Of, pertaining to, or resembling the material [[c/_coral|coral]].**
+- **[[d/_describing|Describing]] rock formed from the skeletons of such [[a/_algae|algae]].**
 ---
 ### Synonyms
-- [[[[c/_coral|coral]]]], [[[[c/_coralloid|coralloid]]]], [[[[c/_coralloidal|coralloidal]]]]
+- [[coral]], [[coralloid]], [[coralloidal]]
 ---

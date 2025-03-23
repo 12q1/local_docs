@@ -1,6 +1,6 @@
 # Encephalin
 ---
 #noun
-- **Any of a group of pentapeptide endorphins that have opiate-like effects**
+- **[[a/_any|Any]] of a group of pentapeptide endorphins that have opiate-like [[e/_effects|effects]]**
 ---
 ---

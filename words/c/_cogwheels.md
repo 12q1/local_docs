@@ -2,8 +2,8 @@
 ---
 #noun
 - **A gear wheel**
-- **(When used attributively) Something behaving in similar, jerky, manner as a cogwheel, e.g. cogwheel respiration as a side effect of hyperbaric medicine**
+- **(When used [[a/_attributively|attributively]]) Something [[b/_behaving|behaving]] in similar, jerky, manner as a [[c/_cogwheel|cogwheel]], [[e/_e|e]].g. [[c/_cogwheel|cogwheel]] respiration as a side [[e/_effect|effect]] of hyperbaric medicine**
 ---
 ### Synonyms
-- [[[[c/_cog|cog]]]], [[gear]], [[gear wheel]]
+- [[cog]], [[gear]], [[gear wheel]]
 ---

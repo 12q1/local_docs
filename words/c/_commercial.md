@@ -1,12 +1,12 @@
 # Commercial
 ---
 #noun
-- **An advertisement in a common media format, usually radio or television.**
-- **A commercial trader, as opposed to an individual speculator.**
+- **An [[a/_advertisement|advertisement]] in a [[c/_common|common]] media format, usually radio or television.**
+- **A [[c/_commercial|commercial]] trader, as opposed to an individual speculator.**
 ---
 #adjective
-- **Of or pertaining to commerce.**
-- **(aviation) Designating an airport that serves passenger and/or cargo flights.**
-- **(aviation) Designating such an airplane flight.**
+- **Of or pertaining to [[c/_commerce|commerce]].**
+- **([[a/_aviation|aviation]]) [[d/_designating|Designating]] an [[a/_airport|airport]] that serves passenger and/or [[c/_cargo|cargo]] flights.**
+- **([[a/_aviation|aviation]]) [[d/_designating|Designating]] such an [[a/_airplane|airplane]] flight.**
 ---
 ---

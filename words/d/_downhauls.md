@@ -1,6 +1,6 @@
 # Downhauls
 ---
 #noun
-- **Any rope used to haul down a sail or spar.**
+- **[[a/_any|Any]] rope used to haul [[d/_down|down]] a sail or spar.**
 ---
 ---

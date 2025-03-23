@@ -1,15 +1,15 @@
 # Distressing
 ---
 #verb
-- **To cause strain or anxiety to someone.**
-- **To retain someone’s property against the payment of a debt; to distrain.**
-- **To treat a new object to give it an appearance of age.**
+- **To [[c/_cause|cause]] strain or [[a/_anxiety|anxiety]] to someone.**
+- **To retain someone’s property [[a/_against|against]] the payment of a [[d/_debt|debt]]; to [[d/_distrain|distrain]].**
+- **To treat a new object to give it an [[a/_appearance|appearance]] of [[a/_age|age]].**
 	- _Example: She distressed the new media cabinet so that it fit with the other furniture in the room._
 ---
 ### Synonyms
-- [[[[a/_age|age]]]], [[[[a/_antique|antique]]]], [[patinate]], [[[[a/_anguish|anguish]]]], [[harrow]], [[martyr]], [[tantalise]], [[tantalize]], [[torment]], [[trouble]], [[vex]], [[[[d/_distrain|distrain]]]]
+- [[age]], [[antique]], [[patinate]], [[anguish]], [[harrow]], [[martyr]], [[tantalise]], [[tantalize]], [[torment]], [[trouble]], [[vex]], [[distrain]]
 #adjective
-- **Causing distress; upsetting; distressful.**
+- **[[c/_causing|Causing]] [[d/_distress|distress]]; upsetting; [[d/_distressful|distressful]].**
 	- _Example: The details of the ordeal can be distressing to some readers._
 ---
 ---

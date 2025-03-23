@@ -1,7 +1,7 @@
 # Encircles
 ---
 #verb
-- **To surround, form a circle around.**
-- **To move or go around completely.**
+- **To surround, form a [[c/_circle|circle]] [[a/_around|around]].**
+- **To move or go [[a/_around|around]] [[c/_completely|completely]].**
 ---
 ---

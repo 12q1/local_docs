@@ -1,7 +1,7 @@
 # Cacophonies
 ---
 #noun
-- **A mix of discordant sounds; dissonance.**
+- **A mix of [[d/_discordant|discordant]] sounds; [[d/_dissonance|dissonance]].**
 ---
 ### Antonyms
 - [[euphony]], [[harmony]]

@@ -1,6 +1,6 @@
 # Enslavement
 ---
 #noun
-- **The act of enslaving or the state of being a slave; bondage**
+- **The [[a/_act|act]] of [[e/_enslaving|enslaving]] or the state of [[b/_being|being]] a slave; [[b/_bondage|bondage]]**
 ---
 ---

@@ -1,13 +1,13 @@
 # Diluent
 ---
 #noun
-- **That which dilutes.**
-- **A solvent or other liquid preparation used to dilute a sample prior to testing.**
-- **An agent used for effecting dilution of the blood; a weak drink.**
+- **That which [[d/_dilutes|dilutes]].**
+- **A solvent or other liquid preparation used to [[d/_dilute|dilute]] a sample prior to testing.**
+- **An [[a/_agent|agent]] used for [[e/_effecting|effecting]] [[d/_dilution|dilution]] of the [[b/_blood|blood]]; a weak [[d/_drink|drink]].**
 ---
 ### Synonyms
-- [[[[d/_dilutant|dilutant]]]], [[[[d/_diluter|diluter]]]], [[thinner]]
+- [[dilutant]], [[diluter]], [[thinner]]
 #adjective
-- **Diluting; making thinner or weaker by admixture, especially of water.**
+- **[[d/_diluting|Diluting]]; making thinner or weaker by [[a/_admixture|admixture]], especially of water.**
 ---
 ---

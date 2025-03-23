@@ -1,7 +1,7 @@
 # Dupion
 ---
 #noun
-- **A double cocoon, made by two silkworms.**
-- **The silk from a double cocoon.**
+- **A [[d/_double|double]] [[c/_cocoon|cocoon]], made by two silkworms.**
+- **The silk from a [[d/_double|double]] [[c/_cocoon|cocoon]].**
 ---
 ---

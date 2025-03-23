@@ -1,6 +1,6 @@
 # Agapanthus
 ---
 #noun
-- **Any member of the genus Agapanthus of flowering plants.**
+- **[[a/_any|Any]] member of the genus [[a/_agapanthus|Agapanthus]] of flowering plants.**
 ---
 ---

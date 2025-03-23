@@ -1,6 +1,6 @@
 # Cimbalom
 ---
 #noun
-- **A type of concert hammered dulcimer used primarily in the music of Eastern Europe.**
+- **A type of [[c/_concert|concert]] hammered [[d/_dulcimer|dulcimer]] used primarily in the music of [[e/_eastern|Eastern]] Europe.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Animosity
 ---
 #noun
-- **Violent hatred leading to active opposition; active enmity; energetic dislike.**
+- **Violent hatred leading to [[a/_active|active]] opposition; [[a/_active|active]] [[e/_enmity|enmity]]; [[e/_energetic|energetic]] [[d/_dislike|dislike]].**
 ---
 ### Synonyms
-- [[[[a/_acrimony|acrimony]]]], [[[[e/_enmity|enmity]]]], [[hatred]], [[opposition]]
+- [[acrimony]], [[enmity]], [[hatred]], [[opposition]]
 ### Antonyms
 - [[peace]]
 ---

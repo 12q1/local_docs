@@ -1,17 +1,17 @@
 # Dredging
 ---
 #verb
-- **To make a channel deeper or wider using a dredge.**
-- **To bring something to the surface with a dredge.**
+- **To make a [[c/_channel|channel]] [[d/_deeper|deeper]] or wider using a [[d/_dredge|dredge]].**
+- **To [[b/_bring|bring]] something to the surface with a [[d/_dredge|dredge]].**
 - **(Usually with up) to unearth.**
 	- _Example: to dredge up someone's unsavoury past_
 ---
 #verb
-- **To sprinkle (food) with spices or seasonings, using a dredge.**
+- **To sprinkle (food) with spices or seasonings, using a [[d/_dredge|dredge]].**
 	- _Example: Dredge the meat with the flour mixture you prepared earlier._
 ---
 #noun
-- **That which is dredged up.**
-- **The act of using a dredger or excavator to dredge a harbour, river, channel or watercourse.**
+- **That which is [[d/_dredged|dredged]] up.**
+- **The [[a/_act|act]] of using a [[d/_dredger|dredger]] or excavator to [[d/_dredge|dredge]] a harbour, river, [[c/_channel|channel]] or watercourse.**
 ---
 ---

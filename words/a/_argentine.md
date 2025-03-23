@@ -1,12 +1,12 @@
 # Argentine
 ---
 #noun
-- **Any osmeriform fish of the genus Argentina, especially the European argentine, Argentina sphyraena.**
-- **A siliceous variety of calcite, or lime carbonate, having a silvery-white, pearly lustre, and a waving or curved lamellar structure.**
-- **White metal coated with silver**
+- **[[a/_any|Any]] osmeriform fish of the genus [[a/_argentina|Argentina]], especially the European [[a/_argentine|argentine]], [[a/_argentina|Argentina]] sphyraena.**
+- **A siliceous variety of [[c/_calcite|calcite]], or lime [[c/_carbonate|carbonate]], having a silvery-white, pearly lustre, and a waving or [[c/_curved|curved]] lamellar structure.**
+- **White metal [[c/_coated|coated]] with silver**
 ---
 #adjective
-- **Containing or resembling silver.**
+- **[[c/_containing|Containing]] or resembling silver.**
 ---
 ### Synonyms
 - [[silvern]]

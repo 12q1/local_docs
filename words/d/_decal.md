@@ -1,10 +1,10 @@
 # Decal
 ---
 #noun
-- **A design or picture produced in order to be transferred to another surface either permanently or temporarily.**
-- **A decorative sticker.**
+- **A [[d/_design|design]] or picture produced in order to be transferred to [[a/_another|another]] surface [[e/_either|either]] permanently or temporarily.**
+- **A [[d/_decorative|decorative]] sticker.**
 ---
 #verb
-- **To apply decals to.**
+- **To [[a/_apply|apply]] [[d/_decals|decals]] to.**
 ---
 ---

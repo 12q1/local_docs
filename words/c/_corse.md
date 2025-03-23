@@ -1,7 +1,7 @@
 # Corse
 ---
 #noun
-- **A (living) body.**
-- **A dead body, a corpse.**
+- **A (living) [[b/_body|body]].**
+- **A [[d/_dead|dead]] [[b/_body|body]], a [[c/_corpse|corpse]].**
 ---
 ---

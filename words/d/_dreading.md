@@ -2,9 +2,9 @@
 ---
 #verb
 - **To fear greatly.**
-- **To anticipate with fear.**
+- **To [[a/_anticipate|anticipate]] with fear.**
 	- _Example: I'm dreading getting the results of the test, as it could decide my whole life._
-- **To be in dread, or great fear.**
-- **To style (the hair) into dreadlocks.**
+- **To be in [[d/_dread|dread]], or great fear.**
+- **To style (the hair) into [[d/_dreadlocks|dreadlocks]].**
 ---
 ---

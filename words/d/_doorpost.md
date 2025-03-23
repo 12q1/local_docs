@@ -1,6 +1,6 @@
 # Doorpost
 ---
 #noun
-- **Doorjamb**
+- **[[d/_doorjamb|Doorjamb]]**
 ---
 ---

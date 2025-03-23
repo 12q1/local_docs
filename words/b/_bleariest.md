@@ -1,6 +1,6 @@
 # Bleariest
 ---
 #adjective
-- **Tired, having senses dulled by exhaustion.**
+- **Tired, having senses [[d/_dulled|dulled]] by exhaustion.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Discountenancing
 ---
 #verb
-- **To have an unfavorable opinion of; to deprecate or disapprove of.**
-- **To abash, embarrass or disconcert.**
-- **To refuse countenance or support to; to discourage.**
+- **To have an unfavorable opinion of; to [[d/_deprecate|deprecate]] or [[d/_disapprove|disapprove]] of.**
+- **To [[a/_abash|abash]], [[e/_embarrass|embarrass]] or [[d/_disconcert|disconcert]].**
+- **To refuse [[c/_countenance|countenance]] or support to; to [[d/_discourage|discourage]].**
 ---
 ---

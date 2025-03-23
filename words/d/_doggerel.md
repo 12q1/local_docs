@@ -1,9 +1,9 @@
 # Doggerel
 ---
 #noun
-- **A comic or humorous verse, usually irregular in measure.**
+- **A [[c/_comic|comic]] or humorous verse, usually irregular in measure.**
 ---
 #adjective
-- **Of a crude or irregular construction. (Originally applied to humorous verse, but now to verse lacking artistry or meaning.)**
+- **Of a [[c/_crude|crude]] or irregular [[c/_construction|construction]]. (Originally [[a/_applied|applied]] to humorous verse, but now to verse lacking [[a/_artistry|artistry]] or meaning.)**
 ---
 ---

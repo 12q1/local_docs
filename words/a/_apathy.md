@@ -1,10 +1,10 @@
 # Apathy
 ---
 #noun
-- **Lack of emotion or motivation; lack of interest or enthusiasm towards something; disinterest (in something).**
+- **Lack of [[e/_emotion|emotion]] or motivation; lack of interest or [[e/_enthusiasm|enthusiasm]] towards something; [[d/_disinterest|disinterest]] (in something).**
 ---
 ### Synonyms
 - [[indifference]], [[neutrality]]
 ### Antonyms
-- [[[[e/_empathy|empathy]]]], [[sympathy]]
+- [[empathy]], [[sympathy]]
 ---

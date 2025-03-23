@@ -1,12 +1,12 @@
 # Egalitarian
 ---
 #noun
-- **A person who accepts or promotes social equality and equal rights for all people.**
+- **A person who [[a/_accepts|accepts]] or promotes social [[e/_equality|equality]] and [[e/_equal|equal]] rights for [[a/_all|all]] people.**
 ---
 ### Synonyms
 - [[equalitarian]]
 #adjective
-- **Characterized by social equality and equal rights for all people.**
+- **[[c/_characterized|Characterized]] by social [[e/_equality|equality]] and [[e/_equal|equal]] rights for [[a/_all|all]] people.**
 ---
 ### Synonyms
 - [[equalitarian]]

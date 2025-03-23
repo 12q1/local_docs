@@ -1,18 +1,18 @@
 # Discredit
 ---
 #noun
-- **Discrediting or disbelieving.**
-- **A person or thing that causes harm to a reputation, as of a person, family, or institution.**
-- **The state of being discredited or disbelieved.**
+- **[[d/_discrediting|Discrediting]] or [[d/_disbelieving|disbelieving]].**
+- **A person or thing that [[c/_causes|causes]] harm to a reputation, as of a person, family, or institution.**
+- **The state of [[b/_being|being]] [[d/_discredited|discredited]] or [[d/_disbelieved|disbelieved]].**
 	- _Example: Later accounts have brought the story into discredit._
-- **A degree of dishonour or disesteem; ill repute; reproach.**
+- **A [[d/_degree|degree]] of [[d/_dishonour|dishonour]] or [[d/_disesteem|disesteem]]; ill repute; reproach.**
 ---
 ### Synonyms
-- [[[[d/_demerit|demerit]]]]
+- [[demerit]]
 #verb
-- **To harm the good reputation of a person; to cause an idea or piece of evidence to seem false or unreliable.**
+- **To harm the good reputation of a person; to [[c/_cause|cause]] an idea or piece of evidence to seem false or unreliable.**
 	- _Example: The candidate tried to discredit his opponent._
 ---
 ### Synonyms
-- [[[[d/_demean|demean]]]], [[[[d/_disgrace|disgrace]]]], [[[[d/_dishonour|dishonour]]]], [[[[d/_disprove|disprove]]]], [[invalidate]], [[tell [[a/_against|against]]]]
+- [[demean]], [[disgrace]], [[dishonour]], [[disprove]], [[invalidate]], [[tell against]]
 ---

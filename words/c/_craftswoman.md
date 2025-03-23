@@ -1,8 +1,8 @@
 # Craftswoman
 ---
 #noun
-- **A female artisan.**
+- **A female [[a/_artisan|artisan]].**
 ---
 ### Antonyms
-- [[[[c/_craftsman|craftsman]]]]
+- [[craftsman]]
 ---

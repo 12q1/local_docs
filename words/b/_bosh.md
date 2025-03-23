@@ -4,9 +4,9 @@
 - **Nonsense.**
 ---
 ### Synonyms
-- [[[[b/_blatherskite|blatherskite]]]], [[hogwash]], [[malarkey]]
+- [[blatherskite]], [[hogwash]], [[malarkey]]
 #interjection
-- **An expression of disbelief or annoyance.**
+- **An expression of [[d/_disbelief|disbelief]] or [[a/_annoyance|annoyance]].**
 ---
 ### Synonyms
 - [[fiddlesticks]], [[horsefeathers]], [[pull the other one]]

@@ -1,6 +1,6 @@
 # Aphis
 ---
 #noun
-- **An aphid.**
+- **An [[a/_aphid|aphid]].**
 ---
 ---

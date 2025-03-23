@@ -1,9 +1,9 @@
 # Conjuration
 ---
 #noun
-- **Conjuring, legerdemain or magic.**
+- **[[c/_conjuring|Conjuring]], legerdemain or magic.**
 - **A magic trick.**
-- **The act of calling or summoning by a sacred name, or in solemn manner, or binding by an oath; an earnest entreaty; adjuration.**
-- **A league for a criminal purpose; conspiracy.**
+- **The [[a/_act|act]] of [[c/_calling|calling]] or summoning by a sacred name, or in solemn manner, or [[b/_binding|binding]] by an oath; an [[e/_earnest|earnest]] [[e/_entreaty|entreaty]]; [[a/_adjuration|adjuration]].**
+- **A league for a [[c/_criminal|criminal]] purpose; [[c/_conspiracy|conspiracy]].**
 ---
 ---

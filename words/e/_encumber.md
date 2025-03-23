@@ -1,10 +1,10 @@
 # Encumber
 ---
 #verb
-- **To load down something with a burden**
-- **To restrict or block something with a hindrance or impediment**
-- **To burden with a legal claim or other obligation**
+- **To load [[d/_down|down]] something with a [[b/_burden|burden]]**
+- **To restrict or [[b/_block|block]] something with a hindrance or impediment**
+- **To [[b/_burden|burden]] with a legal [[c/_claim|claim]] or other obligation**
 ---
 ### Antonyms
-- [[[[d/_disencumber|disencumber]]]], [[unencumber]], [[unload]]
+- [[disencumber]], [[unencumber]], [[unload]]
 ---

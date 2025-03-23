@@ -1,9 +1,9 @@
 # Drubs
 ---
 #verb
-- **To beat (someone or something) with a stick.**
-- **To defeat someone soundly; to annihilate or crush.**
+- **To [[b/_beat|beat]] (someone or something) with a stick.**
+- **To [[d/_defeat|defeat]] someone soundly; to [[a/_annihilate|annihilate]] or [[c/_crush|crush]].**
 - **To forcefully teach something.**
-- **To criticize harshly; to excoriate.**
+- **To [[c/_criticize|criticize]] harshly; to excoriate.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Edema
 ---
 #noun
-- **An excessive accumulation of serum in tissue spaces or a body cavity.**
-- **A similar swelling in plants caused by excessive accumulation of water.**
+- **An excessive [[a/_accumulation|accumulation]] of serum in tissue spaces or a [[b/_body|body]] [[c/_cavity|cavity]].**
+- **A similar swelling in plants [[c/_caused|caused]] by excessive [[a/_accumulation|accumulation]] of water.**
 ---
 ### Synonyms
-- [[[[d/_dropsy|dropsy]]]], [[hydrops]], [[hydropsy]]
+- [[dropsy]], [[hydrops]], [[hydropsy]]
 ---

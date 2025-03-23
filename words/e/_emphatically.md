@@ -1,7 +1,7 @@
 # Emphatically
 ---
 #adverb
-- **In an emphatic manner; with emphasis.**
-- **Not really, but apparently.**
+- **In an [[e/_emphatic|emphatic]] manner; with [[e/_emphasis|emphasis]].**
+- **Not really, but [[a/_apparently|apparently]].**
 ---
 ---

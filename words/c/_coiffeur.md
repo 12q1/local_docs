@@ -4,6 +4,6 @@
 - **A male hairdresser.**
 ---
 #verb
-- **To cut or style hair**
+- **To [[c/_cut|cut]] or style hair**
 ---
 ---

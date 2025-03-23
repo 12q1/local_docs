@@ -3,21 +3,21 @@
 #verb
 - **To ingest; to be ingested.**
 - **To use up.**
-- **To cause (someone) to worry.**
+- **To [[c/_cause|cause]] (someone) to worry.**
 	- _Example: What’s eating you?_
 - **To take the loss in a transaction.**
 - **To be injured or killed by (something such as a firearm or its projectile), especially in the mouth.**
-- **To corrode or erode.**
+- **To [[c/_corrode|corrode]] or erode.**
 	- _Example: The acid rain ate away the statue.  The strong acid eats through the metal._
-- **To perform oral sex (on a person or body part).**
+- **To perform oral sex (on a person or [[b/_body|body]] part).**
 	- _Example: Eat me!_
 ---
 ### Synonyms
-- [[[[b/_bother|bother]]]], [[[[d/_disturb|disturb]]]], [[worry]], [[[[c/_consume|consume]]]], [[swallow]], [[[[b/_breakfast|breakfast]]]], [[[[c/_chow|chow]] [[d/_down|down]]]], [[[[d/_dine|dine]]]], [[[[d/_dinner|dinner]]]], [[feed one's face]], [[lunch]], [[supper]], [[tea]]
+- [[bother]], [[disturb]], [[worry]], [[consume]], [[swallow]], [[breakfast]], [[chow down]], [[dine]], [[dinner]], [[feed one's face]], [[lunch]], [[supper]], [[tea]]
 #adjective
-- **Bred to be eaten.**
+- **[[b/_bred|Bred]] to be [[e/_eaten|eaten]].**
 	- _Example: eating chickens; eating quails_
-- **Suitable to be eaten without being cooked.**
+- **Suitable to be [[e/_eaten|eaten]] without [[b/_being|being]] [[c/_cooked|cooked]].**
 	- _Example: Wait! That's not an eating apple._
 ---
 ---

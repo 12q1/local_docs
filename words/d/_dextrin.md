@@ -1,8 +1,8 @@
 # Dextrin
 ---
 #noun
-- **Any of a range of oligomers of glucose, intermediate in complexity between maltose and starch, produced by the enzymatic hydrolysis of starch; used commercially as adhesives.**
+- **[[a/_any|Any]] of a range of oligomers of glucose, intermediate in [[c/_complexity|complexity]] [[b/_between|between]] maltose and starch, produced by the [[e/_enzymatic|enzymatic]] hydrolysis of starch; used [[c/_commercially|commercially]] as [[a/_adhesives|adhesives]].**
 ---
 ### Synonyms
-- [[E1400]], [[food [[a/_additive|additive]]]]
+- [[E1400]], [[food additive]]
 ---

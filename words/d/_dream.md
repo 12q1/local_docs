@@ -3,7 +3,7 @@
 #noun
 - **Imaginary events seen in the mind while sleeping.**
 - **A hope or wish.**
-- **A visionary scheme; a wild conceit; an idle fancy.**
+- **A visionary scheme; a wild [[c/_conceit|conceit]]; an idle fancy.**
 	- _Example: a dream of bliss_
 ---
 ### Synonyms
@@ -11,11 +11,11 @@
 #verb
 - **To see imaginary events in one's mind while sleeping.**
 - **To hope, to wish.**
-- **To daydream.**
+- **To [[d/_daydream|daydream]].**
 	- _Example: Stop dreaming and get back to work._
-- **To envision as an imaginary experience (usually when asleep).**
+- **To [[e/_envision|envision]] as an imaginary experience (usually when [[a/_asleep|asleep]]).**
 	- _Example: I dreamed a vivid dream last night._
-- **To consider the possibility (of).**
+- **To [[c/_consider|consider]] the possibility (of).**
 	- _Example: I wouldn't dream of snubbing you in public._
 ---
 #adjective

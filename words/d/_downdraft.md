@@ -1,6 +1,6 @@
 # Downdraft
 ---
 #noun
-- **A strong, downward air current; an air pocket or air hole**
+- **A strong, [[d/_downward|downward]] [[a/_air|air]] [[c/_current|current]]; an [[a/_air|air]] pocket or [[a/_air|air]] hole**
 ---
 ---

@@ -1,10 +1,10 @@
 # Enfranchisement
 ---
 #noun
-- **The act of enfranchising**
+- **The [[a/_act|act]] of [[e/_enfranchising|enfranchising]]**
 - **A release from slavery**
-- **The investiture with any of several municipal privileges**
-- **Conversion of a copyhold estate into a freehold**
+- **The investiture with [[a/_any|any]] of several municipal privileges**
+- **[[c/_conversion|Conversion]] of a [[c/_copyhold|copyhold]] estate into a freehold**
 	- _Example: enfranchisement of copyhold_
 ---
 ---

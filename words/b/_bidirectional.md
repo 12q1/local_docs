@@ -1,8 +1,8 @@
 # Bidirectional
 ---
 #adjective
-- **Moving in two directions (usually opposite).**
-- **Operating or functioning in two directions (usually opposite).**
+- **Moving in two [[d/_directions|directions]] (usually opposite).**
+- **Operating or functioning in two [[d/_directions|directions]] (usually opposite).**
 ---
 ### Antonyms
 - [[unidirectional]]

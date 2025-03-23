@@ -1,15 +1,15 @@
 # Absences
 ---
 #noun
-- **A state of being away or withdrawn from a place or from companionship; the period of being away.**
+- **A state of [[b/_being|being]] [[a/_away|away]] or withdrawn from a place or from [[c/_companionship|companionship]]; the period of [[b/_being|being]] [[a/_away|away]].**
 	- _Example: Absence makes the heart grow fonder._
-- **Failure to be present where one is expected, wanted, or needed; nonattendance; deficiency.**
-- **Lack; deficiency; nonexistence.**
+- **Failure to be present where one is expected, wanted, or needed; nonattendance; [[d/_deficiency|deficiency]].**
+- **Lack; [[d/_deficiency|deficiency]]; nonexistence.**
 	- _Example: He had an absence of enthusiasm._
-- **Inattention to things present; abstraction (of mind).**
+- **Inattention to things present; [[a/_abstraction|abstraction]] (of mind).**
 	- _Example: absence of mind_
-- **Temporary loss or disruption of consciousness, with sudden onset and recovery, and common in epilepsy.**
-- **Lack of contact between blades.**
+- **Temporary loss or [[d/_disruption|disruption]] of [[c/_consciousness|consciousness]], with sudden onset and recovery, and [[c/_common|common]] in [[e/_epilepsy|epilepsy]].**
+- **Lack of [[c/_contact|contact]] [[b/_between|between]] [[b/_blades|blades]].**
 ---
 ### Synonyms
 - [[missingness]]

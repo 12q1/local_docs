@@ -1,6 +1,6 @@
 # Anthropophagus
 ---
 #noun
-- **A man-eater; a cannibal.**
+- **A man-[[e/_eater|eater]]; a [[c/_cannibal|cannibal]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Eave
 ---
 #noun
-- **Eaves: the underside of a roof that extends beyond the external walls of a building.**
+- **[[e/_eaves|Eaves]]: the underside of a roof that extends [[b/_beyond|beyond]] the external walls of a [[b/_building|building]].**
 ---
 ---

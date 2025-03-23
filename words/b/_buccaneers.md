@@ -1,7 +1,7 @@
 # Buccaneers
 ---
 #noun
-- **Any of a group of seamen who cruised on their own account on the Spanish Main and in the Pacific in the 17th century, who were similar to pirates but did not prey on ships of their own nation.**
+- **[[a/_any|Any]] of a group of seamen who [[c/_cruised|cruised]] on their own [[a/_account|account]] on the Spanish Main and in the Pacific in the 17th [[c/_century|century]], who were similar to pirates but [[d/_did|did]] not prey on ships of their own nation.**
 - **A pirate.**
 ---
 ### Synonyms

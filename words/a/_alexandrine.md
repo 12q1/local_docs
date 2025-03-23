@@ -1,7 +1,7 @@
 # Alexandrine
 ---
 #noun
-- **A line of poetic meter having twelve syllables, usually divided into two or three equal parts.**
-- **An Alexandrine parrot or parakeet.**
+- **A line of poetic meter having twelve syllables, usually [[d/_divided|divided]] into two or three [[e/_equal|equal]] parts.**
+- **An [[a/_alexandrine|Alexandrine]] parrot or parakeet.**
 ---
 ---

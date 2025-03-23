@@ -1,6 +1,6 @@
 # Cerecloth
 ---
 #noun
-- **Cloth coated with wax so that it is waterproof, used for covering the dead.**
+- **[[c/_cloth|Cloth]] [[c/_coated|coated]] with wax so that it is waterproof, used for [[c/_covering|covering]] the [[d/_dead|dead]].**
 ---
 ---

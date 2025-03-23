@@ -1,6 +1,6 @@
 # Bogbean
 ---
 #noun
-- **Buckbean**
+- **[[b/_buckbean|Buckbean]]**
 ---
 ---

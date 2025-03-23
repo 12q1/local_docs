@@ -1,8 +1,8 @@
 # Cysteine
 ---
 #noun
-- **A sulphur-containing nonessential amino acid C3H7NO2S found in most animal proteins; it readily oxidizes to cystine.**
+- **A sulphur-[[c/_containing|containing]] nonessential [[a/_amino|amino]] [[a/_acid|acid]] C3H7NO2S found in most [[a/_animal|animal]] proteins; it readily oxidizes to [[c/_cystine|cystine]].**
 ---
 ### Synonyms
-- [[Cys]], [[E910]], [[food [[a/_additive|additive]]]], [[E920]], [[improving [[a/_agent|agent]]]]
+- [[Cys]], [[E910]], [[food additive]], [[E920]], [[improving agent]]
 ---

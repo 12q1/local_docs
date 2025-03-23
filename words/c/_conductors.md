@@ -1,15 +1,15 @@
 # Conductors
 ---
 #noun
-- **One who conducts or leads; a guide; a director.**
-- **A person who conducts an orchestra, choir or other music ensemble; a professional whose occupation is conducting.**
-- **A person who takes tickets on public transportation and also helps passengers**
+- **One who [[c/_conducts|conducts]] or leads; a guide; a [[d/_director|director]].**
+- **A person who [[c/_conducts|conducts]] an orchestra, [[c/_choir|choir]] or other music [[e/_ensemble|ensemble]]; a professional whose occupation is [[c/_conducting|conducting]].**
+- **A person who takes tickets on public transportation and [[a/_also|also]] helps passengers**
 	- _Example: train conductor; tram conductor_
-- **Something that can transmit electricity, heat, light or sound.**
-- **An ideal of a ring that measures how far it is from being integrally closed**
-- **A grooved sound or staff used for directing instruments, such as lithontriptic forceps; a director.**
+- **Something that [[c/_can|can]] transmit [[e/_electricity|electricity]], heat, light or sound.**
+- **An ideal of a ring that measures how far it is from [[b/_being|being]] integrally [[c/_closed|closed]]**
+- **A grooved sound or staff used for [[d/_directing|directing]] instruments, such as lithontriptic forceps; a [[d/_director|director]].**
 - **A leader.**
 ---
 ### Antonyms
-- [[insulator]], [[non-[[c/_conductor|conductor]]]], [[nonconductor]]
+- [[insulator]], [[non-conductor]], [[nonconductor]]
 ---

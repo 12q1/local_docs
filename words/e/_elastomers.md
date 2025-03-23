@@ -1,6 +1,6 @@
 # Elastomers
 ---
 #noun
-- **Any polymer having the elastic properties of rubber**
+- **[[a/_any|Any]] polymer having the [[e/_elastic|elastic]] properties of rubber**
 ---
 ---

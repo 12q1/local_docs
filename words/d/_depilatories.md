@@ -1,6 +1,6 @@
 # Depilatories
 ---
 #noun
-- **A preparation that removes hair from the body.**
+- **A preparation that removes hair from the [[b/_body|body]].**
 ---
 ---

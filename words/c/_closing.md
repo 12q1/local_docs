@@ -3,23 +3,23 @@
 #verb
 - **(physical) To remove a gap.**
 - **(social) To finish, to terminate.**
-- **To come or gather around; to enclose; to encompass; to confine.**
-- **To have a vector sum of 0; that is, to form a closed polygon.**
+- **To [[c/_come|come]] or gather [[a/_around|around]]; to [[e/_enclose|enclose]]; to [[e/_encompass|encompass]]; to [[c/_confine|confine]].**
+- **To have a vector sum of 0; that is, to form a [[c/_closed|closed]] polygon.**
 ---
 ### Synonyms
-- [[narrow]], [[shut]], [[[[c/_close|close]] off]], [[[[c/_close|close]] up]], [[[[c/_cover|cover]]]], [[shut]], [[shut off]], [[[[c/_close|close]] [[d/_down|down]]]], [[[[e/_end|end]]]], [[finish]], [[terminate]], [[wind up]], [[[[c/_close|close]] out]], [[exit]]
+- [[narrow]], [[shut]], [[close off]], [[close up]], [[cover]], [[shut]], [[shut off]], [[close down]], [[end]], [[finish]], [[terminate]], [[wind up]], [[close out]], [[exit]]
 ### Antonyms
-- [[extend]], [[widen]], [[open]], [[open]], [[[[b/_begin|begin]]]], [[[[c/_commence|commence]]]], [[initiate]], [[start]], [[open]], [[start]]
+- [[extend]], [[widen]], [[open]], [[open]], [[begin]], [[commence]], [[initiate]], [[start]], [[open]], [[start]]
 #noun
-- **The act by which something is closed.**
+- **The [[a/_act|act]] by which something is [[c/_closed|closed]].**
 	- _Example: openings and closings of doors_
-- **The end or conclusion of something.**
+- **The [[e/_end|end]] or [[c/_conclusion|conclusion]] of something.**
 	- _Example: the closing of a popular play_
-- **The final procedure in a house sale, when documents are signed and recorded.**
-- **In morphology, the erosion of the dilation of a set.**
+- **The final procedure in a house sale, when [[d/_documents|documents]] are signed and recorded.**
+- **In morphology, the erosion of the [[d/_dilation|dilation]] of a set.**
 ---
 #adjective
-- **Pertaining to the finish or ending of a series of events; occurring at the end or after all others.**
+- **Pertaining to the finish or [[e/_ending|ending]] of a series of events; occurring at the [[e/_end|end]] or [[a/_after|after]] [[a/_all|all]] others.**
 	- _Example: I'd like to add some closing words._
 ---
 ---

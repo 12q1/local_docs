@@ -1,9 +1,9 @@
 # Birthwort
 ---
 #noun
-- **Any plant species of the genus Aristolochia.**
-- **Birthroot, Trillium erectum**
+- **[[a/_any|Any]] plant species of the genus [[a/_aristolochia|Aristolochia]].**
+- **[[b/_birthroot|Birthroot]], Trillium erectum**
 ---
 ### Synonyms
-- [[[[d/_dutchman|Dutchman]]'s pipe]], [[pipevine]]
+- [[Dutchman's pipe]], [[pipevine]]
 ---

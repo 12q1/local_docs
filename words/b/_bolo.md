@@ -1,10 +1,10 @@
 # Bolo
 ---
 #noun
-- **A long, heavy, single-edged machete.**
+- **A long, heavy, single-[[e/_edged|edged]] machete.**
 - **A type of punch; an uppercut.**
 ---
 #verb
-- **To attack or despatch with a bolo knife.**
+- **To [[a/_attack|attack]] or [[d/_despatch|despatch]] with a [[b/_bolo|bolo]] knife.**
 ---
 ---

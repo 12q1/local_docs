@@ -1,7 +1,7 @@
 # Enjoinder
 ---
 #noun
-- **A request or demand from an authority.**
+- **A request or [[d/_demand|demand]] from an [[a/_authority|authority]].**
 ---
 ### Synonyms
 - [[imposition]], [[injunction]]

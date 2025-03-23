@@ -1,6 +1,6 @@
 # Distinguee
 ---
 #adjective
-- **Fashionably distinguished or elegant; having an air of superiority.**
+- **Fashionably [[d/_distinguished|distinguished]] or [[e/_elegant|elegant]]; having an [[a/_air|air]] of superiority.**
 ---
 ---

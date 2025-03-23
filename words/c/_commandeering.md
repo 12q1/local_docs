@@ -3,6 +3,6 @@
 #verb
 - **To seize for military use.**
 - **To force into military service.**
-- **To take arbitrarily or by force.**
+- **To take [[a/_arbitrarily|arbitrarily]] or by force.**
 ---
 ---

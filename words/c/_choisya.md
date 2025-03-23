@@ -1,6 +1,6 @@
 # Choisya
 ---
 #noun
-- **Any of the genus Choisya of aromatic evergreen shrubs in the rue family, Rutaceae.**
+- **[[a/_any|Any]] of the genus [[c/_choisya|Choisya]] of [[a/_aromatic|aromatic]] evergreen shrubs in the rue family, Rutaceae.**
 ---
 ---

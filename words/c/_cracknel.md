@@ -1,7 +1,7 @@
 # Cracknel
 ---
 #noun
-- **A hard, crisp biscuit**
-- **(in the plural) crackling (fried pork fat)**
+- **A hard, [[c/_crisp|crisp]] [[b/_biscuit|biscuit]]**
+- **(in the plural) [[c/_crackling|crackling]] (fried pork fat)**
 ---
 ---

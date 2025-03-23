@@ -1,7 +1,7 @@
 # Bursar
 ---
 #noun
-- **The treasurer of a university, college or school.**
-- **A student funded by a bursary.**
+- **The treasurer of a university, [[c/_college|college]] or school.**
+- **A student funded by a [[b/_bursary|bursary]].**
 ---
 ---

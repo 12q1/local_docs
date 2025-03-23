@@ -1,12 +1,12 @@
 # Downer
 ---
 #noun
-- **A negative drug trip.**
+- **A negative [[d/_drug|drug]] trip.**
 	- _Example: Normally those pills give me a boost, but last night they gave me a downer._
-- **A drug that has depressant qualities.**
-- **Something or someone disagreeable, dispiriting or depressing; a killjoy.**
-- **A livestock animal that has collapsed.**
-- **A form of industrial action in which workers down tools and refuse to work.**
+- **A [[d/_drug|drug]] that has [[d/_depressant|depressant]] qualities.**
+- **Something or someone [[d/_disagreeable|disagreeable]], [[d/_dispiriting|dispiriting]] or [[d/_depressing|depressing]]; a killjoy.**
+- **A livestock [[a/_animal|animal]] that has [[c/_collapsed|collapsed]].**
+- **A form of industrial [[a/_action|action]] in which workers [[d/_down|down]] tools and refuse to work.**
 ---
 ### Synonyms
 - [[buzzkill]], [[killjoy]], [[spoilsport]]

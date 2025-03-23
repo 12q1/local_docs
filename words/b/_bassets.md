@@ -1,8 +1,8 @@
 # Bassets
 ---
 #noun
-- **The edge of a geological stratum at the surface of the ground; the outcrop.**
-- **A basset hound.**
-- **A card game resembling faro.**
+- **The [[e/_edge|edge]] of a geological stratum at the surface of the ground; the outcrop.**
+- **A [[b/_basset|basset]] hound.**
+- **A [[c/_card|card]] game resembling faro.**
 ---
 ---

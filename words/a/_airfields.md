@@ -1,8 +1,8 @@
 # Airfields
 ---
 #noun
-- **An open field designated for the taking off and landing of aircraft, but which, unlike an airport, does not necessarily have terminals or paved runways.**
+- **An open field [[d/_designated|designated]] for the taking off and landing of [[a/_aircraft|aircraft]], but which, unlike an [[a/_airport|airport]], [[d/_does|does]] not necessarily have terminals or paved runways.**
 ---
 ### Synonyms
-- [[[[a/_aerodrome|aerodrome]]]], [[[[a/_airdrome|airdrome]]]], [[landing field]]
+- [[aerodrome]], [[airdrome]], [[landing field]]
 ---

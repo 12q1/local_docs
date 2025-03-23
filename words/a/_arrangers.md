@@ -1,7 +1,7 @@
 # Arrangers
 ---
 #noun
-- **One who arranges.**
-- **Digital keyboard to play music with accompaniment styles.**
+- **One who [[a/_arranges|arranges]].**
+- **[[d/_digital|Digital]] keyboard to play music with [[a/_accompaniment|accompaniment]] styles.**
 ---
 ---

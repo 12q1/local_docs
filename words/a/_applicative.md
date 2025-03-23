@@ -1,10 +1,10 @@
 # Applicative
 ---
 #noun
-- **(grammar) A grammatical construct that casts a peripheral noun phrase as direct object.**
+- **(grammar) A grammatical [[c/_construct|construct]] that [[c/_casts|casts]] a peripheral noun phrase as [[d/_direct|direct]] object.**
 ---
 #adjective
-- **Having practical application; applicable.**
-- **Of a programming language: using successive functional transformations on data to arrive at a result.**
+- **Having practical [[a/_application|application]]; [[a/_applicable|applicable]].**
+- **Of a programming language: using successive functional transformations on [[d/_data|data]] to [[a/_arrive|arrive]] at a result.**
 ---
 ---

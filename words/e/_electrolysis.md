@@ -1,7 +1,7 @@
 # Electrolysis
 ---
 #noun
-- **The chemical change produced by passing an electric current through a conducting solution or a molten salt.**
-- **The destruction of hair roots by means of an electric current.**
+- **The [[c/_chemical|chemical]] [[c/_change|change]] produced by passing an [[e/_electric|electric]] [[c/_current|current]] through a [[c/_conducting|conducting]] solution or a molten salt.**
+- **The [[d/_destruction|destruction]] of hair roots by means of an [[e/_electric|electric]] [[c/_current|current]].**
 ---
 ---

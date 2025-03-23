@@ -1,12 +1,12 @@
 # Breakfasting
 ---
 #verb
-- **To eat the morning meal.**
-- **To serve breakfast to.**
+- **To [[e/_eat|eat]] the morning meal.**
+- **To serve [[b/_breakfast|breakfast]] to.**
 ---
 ### Synonyms
-- [[[[b/_break|break]] one's fast]]
+- [[break one's fast]]
 #noun
-- **The act of eating breakfast.**
+- **The [[a/_act|act]] of [[e/_eating|eating]] [[b/_breakfast|breakfast]].**
 ---
 ---

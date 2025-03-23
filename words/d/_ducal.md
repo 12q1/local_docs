@@ -1,6 +1,6 @@
 # Ducal
 ---
 #adjective
-- **Of or pertaining to a duke, a duchess, or the duchy or dukedom they hold.**
+- **Of or pertaining to a [[d/_duke|duke]], a [[d/_duchess|duchess]], or the [[d/_duchy|duchy]] or [[d/_dukedom|dukedom]] they hold.**
 ---
 ---

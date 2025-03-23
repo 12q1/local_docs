@@ -1,6 +1,6 @@
 # Emulous
 ---
 #adjective
-- **Ambitious or competitive.**
+- **[[a/_ambitious|Ambitious]] or [[c/_competitive|competitive]].**
 ---
 ---

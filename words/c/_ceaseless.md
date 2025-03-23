@@ -1,7 +1,7 @@
 # Ceaseless
 ---
 #adjective
-- **Without an end.**
+- **Without an [[e/_end|end]].**
 - **Without stop or pause, incessant.**
 ---
 ---

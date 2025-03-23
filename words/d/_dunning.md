@@ -1,14 +1,14 @@
 # Dunning
 ---
 #verb
-- **To ask or beset a debtor for payment.**
-- **To harass by continually repeating e.g. a request.**
+- **To [[a/_ask|ask]] or [[b/_beset|beset]] a [[d/_debtor|debtor]] for payment.**
+- **To harass by [[c/_continually|continually]] repeating [[e/_e|e]].g. a request.**
 ---
 #verb
-- **To cure, as codfish, by laying them, after salting, in a pile in a dark place, covered with saltgrass or a similar substance.**
+- **To [[c/_cure|cure]], as [[c/_codfish|codfish]], by laying them, [[a/_after|after]] salting, in a pile in a [[d/_dark|dark]] place, [[c/_covered|covered]] with saltgrass or a similar substance.**
 ---
 #noun
-- **Attempt to collect a debt.**
+- **[[a/_attempt|Attempt]] to [[c/_collect|collect]] a [[d/_debt|debt]].**
 	- _Example: He asked his attorney to send her a dunning letter._
 ---
 ---

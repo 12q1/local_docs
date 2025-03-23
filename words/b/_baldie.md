@@ -1,10 +1,10 @@
 # Baldie
 ---
 #noun
-- **Somebody who is bald.**
-- **The bald eagle (Haliaeetus leucocephalus).**
+- **Somebody who is [[b/_bald|bald]].**
+- **The [[b/_bald|bald]] [[e/_eagle|eagle]] (Haliaeetus leucocephalus).**
 - **A fish, the baldchin groper.**
 ---
 ### Synonyms
-- [[[[b/_baldhead|baldhead]]]], [[[[b/_baldpate|baldpate]]]], [[skinhead]], [[slaphead]]
+- [[baldhead]], [[baldpate]], [[skinhead]], [[slaphead]]
 ---

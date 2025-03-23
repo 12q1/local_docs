@@ -1,8 +1,8 @@
 # Aquavit
 ---
 #noun
-- **A Scandinavian liquor that is about 40% alcohol by volume; distilled from potato or grain mash and flavored with caraway seeds, anise, fennel, dill and other spices and herbs, depending on variety.**
+- **A Scandinavian liquor that is [[a/_about|about]] 40% [[a/_alcohol|alcohol]] by volume; [[d/_distilled|distilled]] from potato or grain mash and flavored with [[c/_caraway|caraway]] seeds, [[a/_anise|anise]], fennel, [[d/_dill|dill]] and other spices and herbs, [[d/_depending|depending]] on variety.**
 ---
 ### Synonyms
-- [[[[a/_akvavit|akvavit]]]]
+- [[akvavit]]
 ---

@@ -1,6 +1,6 @@
 # Elegiacs
 ---
 #noun
-- **A poem composed in the couplet style of classical elegies: a line of dactylic hexameter followed by a line of dactylic pentameter.**
+- **A poem [[c/_composed|composed]] in the [[c/_couplet|couplet]] style of [[c/_classical|classical]] [[e/_elegies|elegies]]: a line of [[d/_dactylic|dactylic]] hexameter followed by a line of [[d/_dactylic|dactylic]] pentameter.**
 ---
 ---

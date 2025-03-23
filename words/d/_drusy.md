@@ -1,6 +1,6 @@
 # Drusy
 ---
 #adjective
-- **Having a druse.**
+- **Having a [[d/_druse|druse]].**
 ---
 ---

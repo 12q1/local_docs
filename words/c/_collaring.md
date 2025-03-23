@@ -1,18 +1,18 @@
 # Collaring
 ---
 #verb
-- **To grab or seize by the collar or neck.**
-- **To place a collar on, to fit with one.**
+- **To grab or seize by the [[c/_collar|collar]] or neck.**
+- **To place a [[c/_collar|collar]] on, to fit with one.**
 	- _Example: Collar and leash aggressive dogs._
-- **To seize, capture or detain.**
-- **To preempt, control stringently and exclusively.**
-- **(law enforcement) To arrest.**
-- **To bind in conversation.**
+- **To seize, [[c/_capture|capture]] or [[d/_detain|detain]].**
+- **To preempt, [[c/_control|control]] stringently and exclusively.**
+- **(law [[e/_enforcement|enforcement]]) To [[a/_arrest|arrest]].**
+- **To [[b/_bind|bind]] in [[c/_conversation|conversation]].**
 	- _Example: I managed to collar Fred in the office for an hour._
-- **To roll up (beef or other meat) and bind it with string preparatory to cooking.**
-- **(BDSM) To bind (a submissive) to a dominant under specific conditions or obligations.**
+- **To roll up ([[b/_beef|beef]] or other meat) and [[b/_bind|bind]] it with string preparatory to [[c/_cooking|cooking]].**
+- **(BDSM) To [[b/_bind|bind]] (a submissive) to a [[d/_dominant|dominant]] under specific [[c/_conditions|conditions]] or obligations.**
 ---
 #noun
-- **Material for making shirt collars.**
+- **Material for making shirt [[c/_collars|collars]].**
 ---
 ---

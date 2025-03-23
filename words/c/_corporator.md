@@ -1,6 +1,6 @@
 # Corporator
 ---
 #noun
-- **A member of a corporation, especially one of the original members.**
+- **A member of a [[c/_corporation|corporation]], especially one of the original members.**
 ---
 ---

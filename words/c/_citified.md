@@ -1,17 +1,17 @@
 # Citified
 ---
 #adjective
-- **Characteristic of the sophisticated customs or dress associated with city life.**
+- **[[c/_characteristic|Characteristic]] of the sophisticated [[c/_customs|customs]] or [[d/_dress|dress]] [[a/_associated|associated]] with [[c/_city|city]] life.**
 ---
 ### Antonyms
-- [[[[c/_countrified|countrified]]]]
+- [[countrified]]
 #verb
-- **To become more like or more in the character of a city.**
-- **To make more like or more in the character of a city.**
-- **To make more like a city person.**
+- **To [[b/_become|become]] more like or more in the [[c/_character|character]] of a [[c/_city|city]].**
+- **To make more like or more in the [[c/_character|character]] of a [[c/_city|city]].**
+- **To make more like a [[c/_city|city]] person.**
 ---
 ### Synonyms
 - [[urbanize]]
 ### Antonyms
-- [[[[c/_countrify|countrify]]]]
+- [[countrify]]
 ---

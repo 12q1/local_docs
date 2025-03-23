@@ -1,9 +1,9 @@
 # Ensheathed
 ---
 #verb
-- **To cover with or as if with a sheath.**
+- **To [[c/_cover|cover]] with or as if with a sheath.**
 ---
 #adjective
-- **Enclosed in a sheath**
+- **[[e/_enclosed|Enclosed]] in a sheath**
 ---
 ---

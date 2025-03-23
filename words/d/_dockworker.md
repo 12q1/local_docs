@@ -1,8 +1,8 @@
 # Dockworker
 ---
 #noun
-- **A person who works on the dock of a harbor or shipyard, usually employed to load or unload freight.**
+- **A person who works on the [[d/_dock|dock]] of a harbor or shipyard, usually [[e/_employed|employed]] to load or unload freight.**
 ---
 ### Synonyms
-- [[[[d/_docker|docker]]]], [[longshoreman]], [[stevedore]], [[wharfie]]
+- [[docker]], [[longshoreman]], [[stevedore]], [[wharfie]]
 ---

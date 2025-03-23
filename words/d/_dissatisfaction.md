@@ -1,7 +1,7 @@
 # Dissatisfaction
 ---
 #noun
-- **Unhappiness or discontent**
-- **The cause of such feelings**
+- **Unhappiness or [[d/_discontent|discontent]]**
+- **The [[c/_cause|cause]] of such feelings**
 ---
 ---

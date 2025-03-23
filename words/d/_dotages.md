@@ -1,10 +1,10 @@
 # Dotages
 ---
 #noun
-- **Decline in judgment and other cognitive functions, associated with aging; senility.**
-- **Fondness or attentiveness, especially to an excessive degree.**
-- **Foolish utterance(s); drivel.**
+- **[[d/_decline|Decline]] in judgment and other [[c/_cognitive|cognitive]] functions, [[a/_associated|associated]] with [[a/_aging|aging]]; senility.**
+- **Fondness or [[a/_attentiveness|attentiveness]], especially to an excessive [[d/_degree|degree]].**
+- **Foolish utterance(s); [[d/_drivel|drivel]].**
 ---
 ### Synonyms
-- [[second [[c/_childhood|childhood]]]]
+- [[second childhood]]
 ---

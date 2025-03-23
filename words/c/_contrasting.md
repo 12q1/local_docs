@@ -1,12 +1,12 @@
 # Contrasting
 ---
 #verb
-- **To set in opposition in order to show the difference or differences between.**
-- **To form a contrast.**
+- **To set in opposition in order to show the [[d/_difference|difference]] or [[d/_differences|differences]] [[b/_between|between]].**
+- **To form a [[c/_contrast|contrast]].**
 	- _Example: Foreground and background strongly contrast._
 ---
 #adjective
-- **Set in opposition; markedly different.**
+- **Set in opposition; markedly [[d/_different|different]].**
 	- _Example: George W. Bush and John Kerry had contrasting debating styles._
 ---
 ### Antonyms

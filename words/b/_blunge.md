@@ -1,6 +1,6 @@
 # Blunge
 ---
 #verb
-- **To mix clay and water.**
+- **To mix [[c/_clay|clay]] and water.**
 ---
 ---

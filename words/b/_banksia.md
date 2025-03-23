@@ -1,6 +1,6 @@
 # Banksia
 ---
 #noun
-- **A plant belonging to the genus Banksia.**
+- **A plant [[b/_belonging|belonging]] to the genus [[b/_banksia|Banksia]].**
 ---
 ---

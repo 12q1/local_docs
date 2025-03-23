@@ -1,6 +1,6 @@
 # Antennule
 ---
 #noun
-- **A small antenna.**
+- **A small [[a/_antenna|antenna]].**
 ---
 ---

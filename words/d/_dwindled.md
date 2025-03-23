@@ -1,9 +1,9 @@
 # Dwindled
 ---
 #verb
-- **To decrease, shrink, diminish, reduce in size or intensity.**
-- **To fall away in quality; degenerate, sink.**
-- **To lessen; to bring low.**
-- **To break up or disperse.**
+- **To [[d/_decrease|decrease]], shrink, [[d/_diminish|diminish]], reduce in size or intensity.**
+- **To fall [[a/_away|away]] in quality; [[d/_degenerate|degenerate]], sink.**
+- **To lessen; to [[b/_bring|bring]] low.**
+- **To [[b/_break|break]] up or [[d/_disperse|disperse]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Ceinture
 ---
 #noun
-- **A belt or girdle.**
+- **A [[b/_belt|belt]] or girdle.**
 ---
 ---

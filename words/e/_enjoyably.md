@@ -1,6 +1,6 @@
 # Enjoyably
 ---
 #adverb
-- **In an enjoyable manner**
+- **In an [[e/_enjoyable|enjoyable]] manner**
 ---
 ---

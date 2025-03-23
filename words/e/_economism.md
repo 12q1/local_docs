@@ -1,6 +1,6 @@
 # Economism
 ---
 #noun
-- **The belief that economic causes or factors have dominance over all others**
+- **The [[b/_belief|belief]] that [[e/_economic|economic]] [[c/_causes|causes]] or factors have [[d/_dominance|dominance]] over [[a/_all|all]] others**
 ---
 ---

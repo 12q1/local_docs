@@ -1,15 +1,15 @@
 # Commodores
 ---
 #noun
-- **A naval officer holding a rank between captain and rear admiral.**
-- **A (temporary) commander over a collection of ships who is not an admiral.**
+- **A naval officer holding a rank [[b/_between|between]] [[c/_captain|captain]] and rear [[a/_admiral|admiral]].**
+- **A (temporary) [[c/_commander|commander]] over a [[c/_collection|collection]] of ships who is not an [[a/_admiral|admiral]].**
 - **The leading ship in a fleet of merchantmen.**
-- **The president of a yacht club.**
-- **A yacht-club president's vessel in a regatta.**
-- **A commodore admiral.**
-- **A rear admiral (lower half).**
-- **Any of various nymphalid butterflies of the Asian genus Parasarpa.**
+- **The president of a yacht [[c/_club|club]].**
+- **A yacht-[[c/_club|club]] president's vessel in a regatta.**
+- **A [[c/_commodore|commodore]] [[a/_admiral|admiral]].**
+- **A rear [[a/_admiral|admiral]] (lower half).**
+- **[[a/_any|Any]] of various nymphalid [[b/_butterflies|butterflies]] of the [[a/_asian|Asian]] genus Parasarpa.**
 ---
 ### Synonyms
-- [[CDRE]], [[COMO]], [[flag [[c/_captain|captain]]]], [[fleet [[c/_captain|captain]]]], [[grade]], [[senior]], [[senior [[c/_captain|captain]]]], [[shipmaster]], [[Cmdre]], [[Cmdre.]], [[flag [[c/_captain|captain]]]], [[fleet [[c/_captain|captain]]]], [[senior [[c/_captain|captain]]]]
+- [[CDRE]], [[COMO]], [[flag captain]], [[fleet captain]], [[grade]], [[senior]], [[senior captain]], [[shipmaster]], [[Cmdre]], [[Cmdre.]], [[flag captain]], [[fleet captain]], [[senior captain]]
 ---

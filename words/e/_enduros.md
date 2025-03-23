@@ -1,7 +1,7 @@
 # Enduros
 ---
 #noun
-- **A motorcycle sport run on predominantly off-road courses, with many obstacles and challenges.**
-- **A particular race or event in the sport of enduro.**
+- **A motorcycle sport run on predominantly off-road [[c/_courses|courses]], with many obstacles and [[c/_challenges|challenges]].**
+- **A particular race or event in the sport of [[e/_enduro|enduro]].**
 ---
 ---

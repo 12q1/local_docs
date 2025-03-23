@@ -1,12 +1,12 @@
 # Asynchronous
 ---
 #adjective
-- **Not synchronous; occurring at different times.**
-- **(of a request or a message) Allowing the client to continue during processing.**
-- **(communication) Having many actions occurring at a time, in any order, without waiting for each other.**
+- **Not synchronous; occurring at [[d/_different|different]] times.**
+- **(of a request or a message) [[a/_allowing|Allowing]] the [[c/_client|client]] to [[c/_continue|continue]] [[d/_during|during]] processing.**
+- **([[c/_communication|communication]]) Having many [[a/_actions|actions]] occurring at a time, in [[a/_any|any]] order, without waiting for [[e/_each|each]] other.**
 ---
 ### Synonyms
-- [[[[a/_async|async]]]], [[asynch]], [[metachronous]]
+- [[async]], [[asynch]], [[metachronous]]
 ### Antonyms
 - [[synchronous]]
 ---

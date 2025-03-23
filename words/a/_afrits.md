@@ -1,6 +1,6 @@
 # Afrits
 ---
 #noun
-- **(Islamic mythology) a kind of djinn mentioned in the Qur'an.**
+- **(Islamic mythology) a kind of [[d/_djinn|djinn]] mentioned in the Qur'an.**
 ---
 ---

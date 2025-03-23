@@ -1,16 +1,16 @@
 # Dictionary
 ---
 #noun
-- **A reference work with a list of words from one or more languages, normally ordered alphabetically, explaining each word's meaning, and sometimes containing information on its etymology, pronunciation, usage, translations, and other data.**
-- **(preceded by the) A synchronic dictionary of a standardised language held to only contain words that are properly part of the language.**
-- **(by extension) Any work that has a list of material organized alphabetically; e.g., biographical dictionary, encyclopedic dictionary.**
-- **An associative array, a data structure where each value is referenced by a particular key, analogous to words and definitions in a physical dictionary.**
+- **A reference work with a list of words from one or more languages, normally ordered [[a/_alphabetically|alphabetically]], explaining [[e/_each|each]] word's meaning, and sometimes [[c/_containing|containing]] information on its etymology, pronunciation, usage, translations, and other [[d/_data|data]].**
+- **(preceded by the) A synchronic [[d/_dictionary|dictionary]] of a standardised language held to only [[c/_contain|contain]] words that are properly part of the language.**
+- **(by extension) [[a/_any|Any]] work that has a list of material organized [[a/_alphabetically|alphabetically]]; [[e/_e|e]].g., [[b/_biographical|biographical]] [[d/_dictionary|dictionary]], [[e/_encyclopedic|encyclopedic]] [[d/_dictionary|dictionary]].**
+- **An [[a/_associative|associative]] [[a/_array|array]], a [[d/_data|data]] structure where [[e/_each|each]] value is referenced by a particular key, [[a/_analogous|analogous]] to words and [[d/_definitions|definitions]] in a physical [[d/_dictionary|dictionary]].**
 ---
 ### Synonyms
 - [[wordbook]]
 #verb
-- **To look up in a dictionary.**
-- **To add to a dictionary.**
-- **To compile a dictionary.**
+- **To look up in a [[d/_dictionary|dictionary]].**
+- **To [[a/_add|add]] to a [[d/_dictionary|dictionary]].**
+- **To [[c/_compile|compile]] a [[d/_dictionary|dictionary]].**
 ---
 ---

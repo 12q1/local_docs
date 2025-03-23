@@ -1,6 +1,6 @@
 # Cuke
 ---
 #noun
-- **A cucumber.**
+- **A [[c/_cucumber|cucumber]].**
 ---
 ---

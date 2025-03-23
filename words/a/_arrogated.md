@@ -1,13 +1,13 @@
 # Arrogated
 ---
 #verb
-- **To appropriate or lay claim to something for oneself without right.**
+- **To [[a/_appropriate|appropriate]] or lay [[c/_claim|claim]] to something for oneself without right.**
 ---
 ### Synonyms
-- [[[[c/_commandeer|commandeer]]]], [[expropriate]], [[usurp]]
+- [[commandeer]], [[expropriate]], [[usurp]]
 ### Antonyms
-- [[[[a/_abandon|abandon]]]], [[[[a/_abdicate|abdicate]]]], [[relinquish]], [[renounce]]
+- [[abandon]], [[abdicate]], [[relinquish]], [[renounce]]
 #adjective
-- **Claimed falsely**
+- **[[c/_claimed|Claimed]] falsely**
 ---
 ---

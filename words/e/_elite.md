@@ -1,11 +1,11 @@
 # Elite
 ---
 #noun
-- **A special group or social class of people which have a superior intellectual, social or economic status as, the elite of society.**
-- **Someone who is among the best at a certain task.**
+- **A special group or social [[c/_class|class]] of people which have a superior intellectual, social or [[e/_economic|economic]] status as, the [[e/_elite|elite]] of society.**
+- **Someone who is [[a/_among|among]] the [[b/_best|best]] at a [[c/_certain|certain]] task.**
 ---
 #adjective
-- **Of high birth or social position; aristocratic or patrician.**
-- **Representing the choicest or most select of a group.**
+- **Of high [[b/_birth|birth]] or social position; [[a/_aristocratic|aristocratic]] or patrician.**
+- **Representing the [[c/_choicest|choicest]] or most select of a group.**
 ---
 ---

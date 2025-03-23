@@ -1,6 +1,6 @@
 # Crooknecks
 ---
 #noun
-- **Any of several yellow varieties of squash having a curved neck.**
+- **[[a/_any|Any]] of several yellow varieties of squash having a [[c/_curved|curved]] neck.**
 ---
 ---

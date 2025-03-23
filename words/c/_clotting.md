@@ -1,10 +1,10 @@
 # Clotting
 ---
 #verb
-- **To form a clot or mass.**
-- **To cause to clot or form into a mass.**
+- **To form a [[c/_clot|clot]] or mass.**
+- **To [[c/_cause|cause]] to [[c/_clot|clot]] or form into a mass.**
 ---
 #noun
-- **Clotted material.**
+- **[[c/_clotted|Clotted]] material.**
 ---
 ---

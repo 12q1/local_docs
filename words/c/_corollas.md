@@ -1,6 +1,6 @@
 # Corollas
 ---
 #noun
-- **An outermost-but-one whorl of a flower, composed of petals, when it is not the same in appearance as the outermost whorl (the calyx); it usually comprises the petal, which may be fused.**
+- **An outermost-but-one whorl of a flower, [[c/_composed|composed]] of petals, when it is not the same in [[a/_appearance|appearance]] as the outermost whorl (the [[c/_calyx|calyx]]); it usually [[c/_comprises|comprises]] the petal, which may be fused.**
 ---
 ---

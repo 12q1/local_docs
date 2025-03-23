@@ -1,6 +1,6 @@
 # Anticyclones
 ---
 #noun
-- **A system of winds that spiral out from a centre of high pressure**
+- **A system of winds that spiral out from a [[c/_centre|centre]] of high pressure**
 ---
 ---

@@ -1,6 +1,6 @@
 # Chifforobes
 ---
 #noun
-- **A piece of furniture consisting of a wardrobe combined with a chest of drawers**
+- **A piece of furniture [[c/_consisting|consisting]] of a wardrobe [[c/_combined|combined]] with a [[c/_chest|chest]] of [[d/_drawers|drawers]]**
 ---
 ---

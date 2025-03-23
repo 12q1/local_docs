@@ -1,6 +1,6 @@
 # Commination
 ---
 #noun
-- **A formal denunciation; especially one threatening divine punishment, read out in church on Ash Wednesday**
+- **A formal [[d/_denunciation|denunciation]]; especially one threatening [[d/_divine|divine]] punishment, read out in [[c/_church|church]] on [[a/_ash|Ash]] Wednesday**
 ---
 ---

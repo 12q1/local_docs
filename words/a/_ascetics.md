@@ -1,6 +1,6 @@
 # Ascetics
 ---
 #noun
-- **One who is devoted to the practice of self-denial, either through seclusion or stringent abstinence.**
+- **One who is [[d/_devoted|devoted]] to the practice of self-[[d/_denial|denial]], [[e/_either|either]] through seclusion or stringent [[a/_abstinence|abstinence]].**
 ---
 ---

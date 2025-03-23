@@ -1,7 +1,7 @@
 # Endometriosis
 ---
 #noun
-- **A condition characterised by the presence of endometrial tissue elsewhere than in the lining of the uterus; an instance of such presence.**
+- **A [[c/_condition|condition]] [[c/_characterised|characterised]] by the presence of [[e/_endometrial|endometrial]] tissue [[e/_elsewhere|elsewhere]] than in the lining of the uterus; an instance of such presence.**
 ---
 ### Synonyms
 - [[adenomyosis]]

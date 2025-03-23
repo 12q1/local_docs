@@ -1,7 +1,7 @@
 # Cheeseburger
 ---
 #noun
-- **A hamburger containing cheese (usually one or more slices of processed cheese).**
+- **A hamburger [[c/_containing|containing]] [[c/_cheese|cheese]] (usually one or more slices of processed [[c/_cheese|cheese]]).**
 ---
 ### Synonyms
 - [[cheesehamburger]]

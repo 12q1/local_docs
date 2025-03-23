@@ -1,15 +1,15 @@
 # Engenders
 ---
 #verb
-- **To beget (of a man); to bear or conceive (of a woman).**
-- **To give existence to, to produce (living creatures).**
-- **To bring into existence (a situation, quality, result etc.); to give rise to, cause, create.**
-- **To assume form; to come into existence; to be caused or produced.**
-- **To copulate, to have sex.**
+- **To [[b/_beget|beget]] (of a man); to [[b/_bear|bear]] or [[c/_conceive|conceive]] (of a woman).**
+- **To give existence to, to produce (living [[c/_creatures|creatures]]).**
+- **To [[b/_bring|bring]] into existence (a situation, quality, result etc.); to give rise to, [[c/_cause|cause]], [[c/_create|create]].**
+- **To [[a/_assume|assume]] form; to [[c/_come|come]] into existence; to be [[c/_caused|caused]] or produced.**
+- **To [[c/_copulate|copulate]], to have sex.**
 ---
 ### Synonyms
-- [[[[a/_assemble|assemble]]]], [[[[b/_beget|beget]]]], [[[[c/_conjure|conjure]]]], [[[[c/_craft|craft]]]], [[[[c/_create|create]]]], [[generate]], [[invent]], [[make]], [[manufacture]], [[produce]], [[[[d/_do|do]] it]], [[get it on]], [[have sex]]
+- [[assemble]], [[beget]], [[conjure]], [[craft]], [[create]], [[generate]], [[invent]], [[make]], [[manufacture]], [[produce]], [[do it]], [[get it on]], [[have sex]]
 #verb
-- **(critical theory) To endow with gender; to create gender or enhance the importance of gender.**
+- **([[c/_critical|critical]] theory) To [[e/_endow|endow]] with gender; to [[c/_create|create]] gender or [[e/_enhance|enhance]] the importance of gender.**
 ---
 ---

@@ -1,11 +1,11 @@
 # Crenellated
 ---
 #verb
-- **To furnish with crenelles.**
+- **To furnish with [[c/_crenelles|crenelles]].**
 - **To indent; to notch.**
 ---
 #adjective
-- **Having crenellations or battlements**
+- **Having crenellations or [[b/_battlements|battlements]]**
 - **Having a series of square indentations**
 ---
 ---

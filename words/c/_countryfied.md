@@ -4,5 +4,5 @@
 - **To make rural or rustic.**
 ---
 ### Antonyms
-- [[[[c/_citify|citify]]]]
+- [[citify]]
 ---

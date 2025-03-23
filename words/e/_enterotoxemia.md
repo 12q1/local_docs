@@ -1,6 +1,6 @@
 # Enterotoxemia
 ---
 #noun
-- **Blood poisoning by an enterotoxin**
+- **[[b/_blood|Blood]] poisoning by an [[e/_enterotoxin|enterotoxin]]**
 ---
 ---

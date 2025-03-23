@@ -1,6 +1,6 @@
 # Devitalise
 ---
 #verb
-- **To deprive of vitality; to make lifeless; to weaken.**
+- **To [[d/_deprive|deprive]] of vitality; to make lifeless; to weaken.**
 ---
 ---

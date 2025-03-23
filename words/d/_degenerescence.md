@@ -1,6 +1,6 @@
 # Degenerescence
 ---
 #noun
-- **Degeneration**
+- **[[d/_degeneration|Degeneration]]**
 ---
 ---

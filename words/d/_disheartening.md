@@ -1,17 +1,17 @@
 # Disheartening
 ---
 #verb
-- **To discourage someone by removing their enthusiasm or courage.**
+- **To [[d/_discourage|discourage]] someone by removing their [[e/_enthusiasm|enthusiasm]] or [[c/_courage|courage]].**
 ---
 ### Synonyms
-- [[[[d/_discourage|discourage]]]]
+- [[discourage]]
 ### Antonyms
-- [[[[e/_encourage|encourage]]]], [[hearten]]
+- [[encourage]], [[hearten]]
 #adjective
-- **Causing a person to lose heart; making despondent or gloomy.**
+- **[[c/_causing|Causing]] a person to lose heart; making [[d/_despondent|despondent]] or gloomy.**
 ---
 ### Synonyms
-- [[[[d/_discouraging|discouraging]]]]
+- [[discouraging]]
 ### Antonyms
 - [[heartening]]
 ---

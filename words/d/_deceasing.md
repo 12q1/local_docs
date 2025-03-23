@@ -1,6 +1,6 @@
 # Deceasing
 ---
 #verb
-- **To die.**
+- **To [[d/_die|die]].**
 ---
 ---

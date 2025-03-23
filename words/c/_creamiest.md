@@ -1,12 +1,12 @@
 # Creamiest
 ---
 #adjective
-- **Containing cream.**
+- **[[c/_containing|Containing]] [[c/_cream|cream]].**
 	- _Example: creamy milk_
-- **Of food or drink, having the rich taste or thick, smooth texture of cream, whether or not it actually contains cream.**
+- **Of food or [[d/_drink|drink]], having the rich taste or thick, smooth texture of [[c/_cream|cream]], whether or not it [[a/_actually|actually]] [[c/_contains|contains]] [[c/_cream|cream]].**
 	- _Example: creamy chocolate_
-- **Of any liquid, having the thick texture of cream.**
+- **Of [[a/_any|any]] liquid, having the thick texture of [[c/_cream|cream]].**
 	- _Example: a creamy lotion_
-- **Having the colour of cream.**
+- **Having the [[c/_colour|colour]] of [[c/_cream|cream]].**
 ---
 ---

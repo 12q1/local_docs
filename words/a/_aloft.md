@@ -1,9 +1,9 @@
 # Aloft
 ---
 #adverb
-- **At, to, or in the air or sky.**
+- **At, to, or in the [[a/_air|air]] or sky.**
 	- _Example: high winds aloft_
-- **Above, overhead, in a high place; up.**
+- **[[a/_above|Above]], overhead, in a high place; up.**
 - **In the top, at the masthead, or on the higher yards or rigging.**
 ---
 ---

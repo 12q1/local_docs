@@ -1,12 +1,12 @@
 # Backflip
 ---
 #noun
-- **An act of rotating one's body 360 degrees in the backward direction.**
+- **An [[a/_act|act]] of rotating one's [[b/_body|body]] 360 [[d/_degrees|degrees]] in the [[b/_backward|backward]] [[d/_direction|direction]].**
 	- _Example: The gymnast performed a backflip on a trampoline._
 - **(by extension) a total reversal in policy or opinion; a volte-face, a U-turn.**
 ---
 #verb
-- **To perform a backflip (rotation of body)**
-- **To completely reverse a policy or opinion; perform a U-turn.**
+- **To perform a [[b/_backflip|backflip]] (rotation of [[b/_body|body]])**
+- **To [[c/_completely|completely]] reverse a policy or opinion; perform a U-turn.**
 ---
 ---

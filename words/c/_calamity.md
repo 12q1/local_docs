@@ -2,7 +2,7 @@
 ---
 #noun
 - **An event resulting in great loss.**
-- **The distress that results from some disaster.**
+- **The [[d/_distress|distress]] that results from some [[d/_disaster|disaster]].**
 ---
 ### Synonyms
 - [[nakba]]

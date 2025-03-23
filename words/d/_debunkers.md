@@ -1,6 +1,6 @@
 # Debunkers
 ---
 #noun
-- **Someone who debunks.**
+- **Someone who [[d/_debunks|debunks]].**
 ---
 ---

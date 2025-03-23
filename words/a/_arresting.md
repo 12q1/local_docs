@@ -1,16 +1,16 @@
 # Arresting
 ---
 #verb
-- **To stop the motion of (a person or animal).**
+- **To stop the motion of (a person or [[a/_animal|animal]]).**
 - **To stay, remain.**
-- **To stop or slow (a process, course etc.).**
-- **To seize (someone) with the authority of the law; to take into legal custody.**
+- **To stop or slow (a process, [[c/_course|course]] etc.).**
+- **To seize (someone) with the [[a/_authority|authority]] of the law; to take into legal [[c/_custody|custody]].**
 	- _Example: The police have arrested a suspect in the murder inquiry._
-- **To catch the attention of.**
-- **To undergo cardiac arrest.**
+- **To [[c/_catch|catch]] the [[a/_attention|attention]] of.**
+- **To undergo [[c/_cardiac|cardiac]] [[a/_arrest|arrest]].**
 ---
 ### Synonyms
-- [[[[a/_attract|attract]]]], [[[[d/_dazzle|dazzle]]]], [[[[e/_engage|engage]]]], [[entice]], [[[[a/_apprehend|apprehend]]]], [[seize]], [[[[c/_cease|cease]]]], [[[[d/_discontinue|discontinue]]]], [[freeze]], [[halt]]
+- [[attract]], [[dazzle]], [[engage]], [[entice]], [[apprehend]], [[seize]], [[cease]], [[discontinue]], [[freeze]], [[halt]]
 #adjective
 - **Striking, gripping**
 ---

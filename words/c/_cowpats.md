@@ -1,7 +1,7 @@
 # Cowpats
 ---
 #noun
-- **A dropping of cow dung.**
+- **A [[d/_dropping|dropping]] of [[c/_cow|cow]] [[d/_dung|dung]].**
 ---
 ### Synonyms
 - [[cowpie]]

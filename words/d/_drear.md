@@ -1,6 +1,6 @@
 # Drear
 ---
 #adjective
-- **Dreary.**
+- **[[d/_dreary|Dreary]].**
 ---
 ---

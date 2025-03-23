@@ -1,9 +1,9 @@
 # Electrical
 ---
 #noun
-- **An electrical engineer.**
+- **An [[e/_electrical|electrical]] [[e/_engineer|engineer]].**
 ---
 #adjective
-- **Related to electricity (or electronics)**
+- **Related to [[e/_electricity|electricity]] (or [[e/_electronics|electronics]])**
 ---
 ---

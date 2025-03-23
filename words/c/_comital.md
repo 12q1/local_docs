@@ -1,7 +1,7 @@
 # Comital
 ---
 #adjective
-- **Of or pertaining to a count or earl.**
+- **Of or pertaining to a [[c/_count|count]] or [[e/_earl|earl]].**
 ---
 ### Synonyms
 - [[comtal]]

@@ -1,7 +1,7 @@
 # Chiro
 ---
 #noun
-- **A chiropractor.**
-- **Chiropractic.**
+- **A [[c/_chiropractor|chiropractor]].**
+- **[[c/_chiropractic|Chiropractic]].**
 ---
 ---

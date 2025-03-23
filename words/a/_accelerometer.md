@@ -1,7 +1,7 @@
 # Accelerometer
 ---
 #noun
-- **An instrument for measuring acceleration.**
-- **An instrument made for detecting and measuring vibrations.**
+- **An instrument for measuring [[a/_acceleration|acceleration]].**
+- **An instrument made for [[d/_detecting|detecting]] and measuring vibrations.**
 ---
 ---

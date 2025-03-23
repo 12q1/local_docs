@@ -1,8 +1,8 @@
 # Drippiest
 ---
 #adjective
-- **Dripping or tending to drip.**
+- **[[d/_dripping|Dripping]] or tending to [[d/_drip|drip]].**
 - **Rainy or wet.**
-- **Maudlin, tiresome or annoying;**
+- **Maudlin, tiresome or [[a/_annoying|annoying]];**
 ---
 ---

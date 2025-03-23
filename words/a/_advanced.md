@@ -1,21 +1,21 @@
 # Advanced
 ---
 #verb
-- **To promote or advantage.**
+- **To promote or [[a/_advantage|advantage]].**
 - **To move forward in space or time.**
 - **To raise, be raised.**
 ---
 ### Synonyms
-- [[[[a/_accelerate|accelerate]]]], [[[[a/_adduce|adduce]]]], [[[[a/_aggrandize|aggrandize]]]], [[[[a/_allege|allege]]]], [[[[a/_assign|assign]]]], [[[[e/_elevate|elevate]]]], [[exalt]], [[heighten]], [[improve]], [[raise]]
+- [[accelerate]], [[adduce]], [[aggrandize]], [[allege]], [[assign]], [[elevate]], [[exalt]], [[heighten]], [[improve]], [[raise]]
 ### Antonyms
 - [[regress]], [[retract]]
 #adjective
-- **At or close to the state of the art.**
-- **Enhanced.**
-- **Having moved forward in time or space (e.g. advanced ignition timing).**
-- **In a late stage of development; greatly developed beyond an initial stage.**
+- **At or [[c/_close|close]] to the state of the [[a/_art|art]].**
+- **[[e/_enhanced|Enhanced]].**
+- **Having moved forward in time or space ([[e/_e|e]].g. [[a/_advanced|advanced]] ignition timing).**
+- **In a late stage of [[d/_development|development]]; greatly [[d/_developed|developed]] [[b/_beyond|beyond]] an initial stage.**
 - **Pronounced farther to the front of the vocal tract.**
-- **(Philippine English) (Of a clock or watch) Indicating a time ahead of the correct time.**
+- **(Philippine [[e/_english|English]]) (Of a [[c/_clock|clock]] or watch) Indicating a time [[a/_ahead|ahead]] of the [[c/_correct|correct]] time.**
 ---
 ### Synonyms
 - [[professional]], [[progressive]], [[sophisticated]]

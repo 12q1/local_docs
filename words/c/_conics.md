@@ -1,6 +1,6 @@
 # Conics
 ---
 #noun
-- **That branch of geometry which treats of the cone and the curves which arise from its sections.**
+- **That [[b/_branch|branch]] of geometry which treats of the [[c/_cone|cone]] and the [[c/_curves|curves]] which [[a/_arise|arise]] from its sections.**
 ---
 ---

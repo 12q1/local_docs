@@ -1,6 +1,6 @@
 # Eyeleting
 ---
 #verb
-- **To make eyelets in.**
+- **To make [[e/_eyelets|eyelets]] in.**
 ---
 ---

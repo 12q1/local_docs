@@ -1,10 +1,10 @@
 # Cloudy
 ---
 #adjective
-- **Covered with or characterised by clouds; overcast.**
-- **Not transparent or clear.**
+- **[[c/_covered|Covered]] with or [[c/_characterised|characterised]] by [[c/_clouds|clouds]]; overcast.**
+- **Not transparent or [[c/_clear|clear]].**
 - **Uncertain; unclear.**
-- **Using or relating to cloud computing.**
+- **Using or relating to [[c/_cloud|cloud]] [[c/_computing|computing]].**
 	- _Example: a cloudy infrastructure_
 - **Shady; sketchy; suspicious**
 ---

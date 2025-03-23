@@ -1,8 +1,8 @@
 # Chukars
 ---
 #noun
-- **A species of partridge native to central Asia (Alectoris chukar).**
+- **A species of partridge native to [[c/_central|central]] [[a/_asia|Asia]] ([[a/_alectoris|Alectoris]] [[c/_chukar|chukar]]).**
 ---
 ### Synonyms
-- [[[[c/_chukar|chukar]] partridge]]
+- [[chukar partridge]]
 ---

@@ -1,11 +1,11 @@
 # Despise
 ---
 #verb
-- **To regard with contempt or scorn.**
-- **To disregard or ignore.**
+- **To regard with [[c/_contempt|contempt]] or scorn.**
+- **To [[d/_disregard|disregard]] or ignore.**
 ---
 ### Synonyms
-- [[[[c/_contemn|contemn]]]], [[[[d/_disdain|disdain]]]], [[scorn]]
+- [[contemn]], [[disdain]], [[scorn]]
 ### Antonyms
-- [[[[a/_admire|admire]]]], [[[[c/_cherish|cherish]]]], [[honor]], [[respect]], [[treasure]]
+- [[admire]], [[cherish]], [[honor]], [[respect]], [[treasure]]
 ---

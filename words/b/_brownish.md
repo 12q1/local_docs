@@ -1,6 +1,6 @@
 # Brownish
 ---
 #adjective
-- **Of a colour which resembles brown; somewhat brown.**
+- **Of a [[c/_colour|colour]] which resembles [[b/_brown|brown]]; somewhat [[b/_brown|brown]].**
 ---
 ---

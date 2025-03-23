@@ -1,6 +1,6 @@
 # Aproned
 ---
 #adjective
-- **Wearing an apron.**
+- **Wearing an [[a/_apron|apron]].**
 ---
 ---

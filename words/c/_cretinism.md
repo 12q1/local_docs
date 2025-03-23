@@ -1,8 +1,8 @@
 # Cretinism
 ---
 #noun
-- **A condition of severely stunted physical and mental growth due to the untreated congenital deficiency of thyroid hormones.**
+- **A [[c/_condition|condition]] of severely stunted physical and mental growth [[d/_due|due]] to the untreated [[c/_congenital|congenital]] [[d/_deficiency|deficiency]] of thyroid hormones.**
 ---
 ### Synonyms
-- [[[[c/_congenital|congenital]] iodine [[d/_deficiency|deficiency]] syndrome]]
+- [[congenital iodine deficiency syndrome]]
 ---

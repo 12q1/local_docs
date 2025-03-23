@@ -1,8 +1,8 @@
 # Dismissive
 ---
 #adjective
-- **Showing disregard, indicating rejection, serving to dismiss.**
+- **Showing [[d/_disregard|disregard]], indicating rejection, serving to [[d/_dismiss|dismiss]].**
 ---
 ### Synonyms
-- [[[[c/_contemptuous|contemptuous]]]], [[indifferent]]
+- [[contemptuous]], [[indifferent]]
 ---

@@ -1,6 +1,6 @@
 # Dynamited
 ---
 #verb
-- **To blow up with dynamite or other high explosive.**
+- **To [[b/_blow|blow]] up with [[d/_dynamite|dynamite]] or other high explosive.**
 ---
 ---

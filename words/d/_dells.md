@@ -1,10 +1,10 @@
 # Dells
 ---
 #noun
-- **A valley, especially in the form of a natural hollow, small and deep.**
+- **A valley, especially in the form of a natural hollow, small and [[d/_deep|deep]].**
 ---
 ### Synonyms
-- [[[[d/_dale|dale]]]], [[[[d/_dingle|dingle]]]], [[vale]], [[valley]]
+- [[dale]], [[dingle]], [[vale]], [[valley]]
 #noun
 - **A young woman; a wench.**
 ---

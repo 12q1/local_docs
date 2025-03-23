@@ -1,6 +1,6 @@
 # Deodorized
 ---
 #verb
-- **To mask or eliminate the odor of, or an odor in, (something).**
+- **To mask or [[e/_eliminate|eliminate]] the odor of, or an odor in, (something).**
 ---
 ---

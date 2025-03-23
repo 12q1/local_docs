@@ -1,14 +1,14 @@
 # Contradictory
 ---
 #noun
-- **Either of a pair of propositions, that cannot both be true or both be false.**
+- **[[e/_either|Either]] of a pair of propositions, that [[c/_cannot|cannot]] [[b/_both|both]] be true or [[b/_both|both]] be false.**
 ---
 #adjective
-- **That contradicts something, such as an argument.**
-- **That is itself a contradiction.**
-- **That is diametrically opposed to something.**
+- **That [[c/_contradicts|contradicts]] something, such as an [[a/_argument|argument]].**
+- **That is itself a [[c/_contradiction|contradiction]].**
+- **That is [[d/_diametrically|diametrically]] opposed to something.**
 - **Mutually exclusive.**
-- **Tending to contradict or oppose, contrarious.**
+- **Tending to [[c/_contradict|contradict]] or oppose, [[c/_contrarious|contrarious]].**
 ---
 ### Synonyms
 - [[incompatible]], [[opposite]]

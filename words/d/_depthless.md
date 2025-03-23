@@ -1,8 +1,8 @@
 # Depthless
 ---
 #adjective
-- **Having no depth, or having a depth that is impossible to determine**
+- **Having no [[d/_depth|depth]], or having a [[d/_depth|depth]] that is impossible to [[d/_determine|determine]]**
 ---
 ### Synonyms
-- [[[[b/_bottomless|bottomless]]]], [[fathomless]], [[soundless]], [[unfathomable]]
+- [[bottomless]], [[fathomless]], [[soundless]], [[unfathomable]]
 ---

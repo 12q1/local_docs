@@ -2,6 +2,6 @@
 ---
 #noun
 - **Prison**
-- **A station, as for collection of customs, for palanquin bearers, police, etc.**
+- **A station, as for [[c/_collection|collection]] of [[c/_customs|customs]], for palanquin [[b/_bearers|bearers]], police, etc.**
 ---
 ---

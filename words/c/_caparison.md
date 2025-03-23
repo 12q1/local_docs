@@ -1,10 +1,10 @@
 # Caparison
 ---
 #noun
-- **The often ornamental coverings for an animal, especially a horse or an elephant.**
-- **Gay or rich clothing.**
+- **The often ornamental [[c/_coverings|coverings]] for an [[a/_animal|animal]], especially a horse or an [[e/_elephant|elephant]].**
+- **Gay or rich [[c/_clothing|clothing]].**
 ---
 #verb
-- **To dress up a horse or elephant with ornamental coverings.**
+- **To [[d/_dress|dress]] up a horse or [[e/_elephant|elephant]] with ornamental [[c/_coverings|coverings]].**
 ---
 ---

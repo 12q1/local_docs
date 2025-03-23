@@ -1,6 +1,6 @@
 # Aerobiology
 ---
 #noun
-- **The study of the dispersion of airborne biological materials, as pollen, spores, microorganisms, or viruses.**
+- **The study of the [[d/_dispersion|dispersion]] of [[a/_airborne|airborne]] [[b/_biological|biological]] materials, as pollen, spores, microorganisms, or viruses.**
 ---
 ---

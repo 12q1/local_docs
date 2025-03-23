@@ -1,6 +1,6 @@
 # Conscientiousness
 ---
 #noun
-- **The state or characteristic of being conscientious.**
+- **The state or [[c/_characteristic|characteristic]] of [[b/_being|being]] [[c/_conscientious|conscientious]].**
 ---
 ---

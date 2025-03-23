@@ -1,6 +1,6 @@
 # Chordotonal
 ---
 #adjective
-- **Describing the stretch receptors in arthropods that detect the position of body segments or appendages**
+- **[[d/_describing|Describing]] the stretch receptors in [[a/_arthropods|arthropods]] that [[d/_detect|detect]] the position of [[b/_body|body]] segments or [[a/_appendages|appendages]]**
 ---
 ---

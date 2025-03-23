@@ -1,6 +1,6 @@
 # Conglobulate
 ---
 #verb
-- **To be collected into a compact round mass.**
+- **To be [[c/_collected|collected]] into a [[c/_compact|compact]] round mass.**
 ---
 ---

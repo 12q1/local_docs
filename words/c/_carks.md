@@ -1,7 +1,7 @@
 # Carks
 ---
 #noun
-- **A noxious or corroding worry.**
-- **The state of being filled with worry.**
+- **A noxious or [[c/_corroding|corroding]] worry.**
+- **The state of [[b/_being|being]] filled with worry.**
 ---
 ---

@@ -1,31 +1,31 @@
 # Blew
 ---
 #verb
-- **To produce an air current.**
-- **To propel by an air current.**
+- **To produce an [[a/_air|air]] [[c/_current|current]].**
+- **To propel by an [[a/_air|air]] [[c/_current|current]].**
 	- _Example: Blow the dust off that book and open it up._
-- **To be propelled by an air current.**
+- **To be propelled by an [[a/_air|air]] [[c/_current|current]].**
 	- _Example: The leaves blow through the streets in the fall._
-- **To create or shape by blowing; as in to blow bubbles, to blow glass.**
-- **To force a current of air upon with the mouth, or by other means.**
+- **To [[c/_create|create]] or shape by [[b/_blowing|blowing]]; as in to [[b/_blow|blow]] [[b/_bubbles|bubbles]], to [[b/_blow|blow]] glass.**
+- **To force a [[c/_current|current]] of [[a/_air|air]] upon with the mouth, or by other means.**
 	- _Example: to blow the fire_
-- **To clear of contents by forcing air through.**
+- **To [[c/_clear|clear]] of [[c/_contents|contents]] by forcing [[a/_air|air]] through.**
 	- _Example: to blow an egg_
-- **To cause to make sound by blowing, as a musical instrument.**
-- **To make a sound as the result of being blown.**
+- **To [[c/_cause|cause]] to make sound by [[b/_blowing|blowing]], as a musical instrument.**
+- **To make a sound as the result of [[b/_being|being]] [[b/_blown|blown]].**
 	- _Example: In the harbor, the ships' horns blew._
-- **(of a cetacean) To exhale visibly through the spout the seawater which it has taken in while feeding.**
+- **(of a [[c/_cetacean|cetacean]]) To exhale visibly through the spout the seawater which it has taken in while feeding.**
 	- _Example: There she blows! (i.e. "I see a whale spouting!")_
 - **To explode.**
 	- _Example: Get away from that burning gas tank! It's about to blow!_
-- **(with "up" or with prep phrase headed by "to") To cause to explode, shatter, or be utterly destroyed.**
+- **(with "up" or with prep phrase headed by "to") To [[c/_cause|cause]] to explode, shatter, or be utterly [[d/_destroyed|destroyed]].**
 	- _Example: The aerosol can was blown to bits._
-- **To cause sudden destruction of.**
+- **To [[c/_cause|cause]] sudden [[d/_destruction|destruction]] of.**
 	- _Example: He blew the tires and the engine._
-- **To suddenly fail destructively.**
+- **To suddenly fail [[d/_destructively|destructively]].**
 	- _Example: He tried to sprint, but his ligaments blew and he was barely able to walk to the finish line._
-- **(used to express displeasure or frustration) Damn.**
-- **To be very undesirable. (See also suck.)**
+- **(used to express [[d/_displeasure|displeasure]] or frustration) [[d/_damn|Damn]].**
+- **To be very undesirable. (See [[a/_also|also]] suck.)**
 	- _Example: This blows!_
 - **To recklessly squander.**
 	- _Example: I blew $35 thou on a car._
@@ -33,66 +33,66 @@
 	- _Example: Who did you have to blow to get those backstage passes?_
 - **To leave, especially suddenly or in a hurry.**
 	- _Example: Let's blow this joint._
-- **To make flyblown, to defile, especially with fly eggs.**
-- **To spread by report; to publish; to disclose.**
+- **To make flyblown, to [[d/_defile|defile]], especially with fly [[e/_eggs|eggs]].**
+- **To spread by report; to publish; to [[d/_disclose|disclose]].**
 - **To inflate, as with pride; to puff up.**
-- **To breathe hard or quick; to pant; to puff.**
-- **To put out of breath; to cause to blow from fatigue.**
+- **To [[b/_breathe|breathe]] hard or quick; to pant; to puff.**
+- **To put out of [[b/_breath|breath]]; to [[c/_cause|cause]] to [[b/_blow|blow]] from fatigue.**
 	- _Example: to blow a horse_
-- **To talk loudly; to boast; to storm.**
+- **To talk loudly; to [[b/_boast|boast]]; to storm.**
 - **To sing.**
 	- _Example: That girl has a wonderful voice; just listen to her blow!_
-- **To leave the Church of Scientology in an unauthorized manner.**
+- **To leave the [[c/_church|Church]] of Scientology in an unauthorized manner.**
 ---
 #verb
-- **To blossom; to cause to bloom or blossom.**
+- **To [[b/_blossom|blossom]]; to [[c/_cause|cause]] to [[b/_bloom|bloom]] or [[b/_blossom|blossom]].**
 ---
 #noun
-- **The colour of the clear sky or the deep sea, between green and violet in the visible spectrum, and one of the primary additive colours for transmitted light; the colour obtained by subtracting red and green from white light using magenta and cyan filters; or any colour resembling this.**
-- **A blue dye or pigment.**
-- **Any of several processes to protect metal against rust.**
-- **Blue clothing**
+- **The [[c/_colour|colour]] of the [[c/_clear|clear]] sky or the [[d/_deep|deep]] sea, [[b/_between|between]] green and violet in the visible spectrum, and one of the primary [[a/_additive|additive]] [[c/_colours|colours]] for transmitted light; the [[c/_colour|colour]] obtained by subtracting red and green from white light using magenta and [[c/_cyan|cyan]] filters; or [[a/_any|any]] [[c/_colour|colour]] resembling this.**
+- **A [[b/_blue|blue]] [[d/_dye|dye]] or pigment.**
+- **[[a/_any|Any]] of several processes to protect metal [[a/_against|against]] rust.**
+- **[[b/_blue|Blue]] [[c/_clothing|clothing]]**
 	- _Example: The boys in blue marched to the pipers._
-- **(in the plural) A blue uniform. See blues.**
-- **A member of law enforcement**
+- **(in the plural) A [[b/_blue|blue]] uniform. See [[b/_blues|blues]].**
+- **A member of law [[e/_enforcement|enforcement]]**
 - **The sky, literally or figuratively.**
 	- _Example: His request for leave came out of the blue._
-- **The ocean; deep waters.**
-- **The far distance; a remote or distant place.**
-- **Anything blue, especially to distinguish it from similar objects differing only in color.**
-- **A dog or cat with a slaty gray coat.**
-- **One of the colour balls used in snooker, with a value of five points.**
-- **Any of the butterflies of the subfamily Polyommatinae in the family Lycaenidae, most of which have blue on their wings.**
-- **A bluefish.**
-- **An argument.**
-- **A liquid with an intense blue colour, added to a laundry wash to prevent yellowing of white clothes.**
+- **The ocean; [[d/_deep|deep]] waters.**
+- **The far [[d/_distance|distance]]; a remote or [[d/_distant|distant]] place.**
+- **[[a/_anything|Anything]] [[b/_blue|blue]], especially to [[d/_distinguish|distinguish]] it from similar objects [[d/_differing|differing]] only in [[c/_color|color]].**
+- **A [[d/_dog|dog]] or [[c/_cat|cat]] with a slaty gray [[c/_coat|coat]].**
+- **One of the [[c/_colour|colour]] [[b/_balls|balls]] used in snooker, with a value of five points.**
+- **[[a/_any|Any]] of the [[b/_butterflies|butterflies]] of the subfamily Polyommatinae in the family Lycaenidae, most of which have [[b/_blue|blue]] on their wings.**
+- **A [[b/_bluefish|bluefish]].**
+- **An [[a/_argument|argument]].**
+- **A liquid with an intense [[b/_blue|blue]] [[c/_colour|colour]], [[a/_added|added]] to a laundry wash to prevent yellowing of white [[c/_clothes|clothes]].**
 - **A type of firecracker.**
-- **A bluestocking.**
-- **One of the three color charges for quarks.**
+- **A [[b/_bluestocking|bluestocking]].**
+- **One of the three [[c/_color|color]] [[c/_charges|charges]] for quarks.**
 ---
 #adjective
-- **Of the colour blue.**
+- **Of the [[c/_colour|colour]] [[b/_blue|blue]].**
 	- _Example: the deep blue sea_
-- **Depressed, melancholic, sad.**
+- **[[d/_depressed|Depressed]], melancholic, sad.**
 - **Pale, without redness or glare; said of a flame.**
 	- _Example: The candle burns blue._
-- **Supportive of, run by (a member of), pertaining to, or dominated by a political party represented by the colour blue.**
-- **Of the higher-frequency region of the part of the electromagnetic spectrum which is relevant in the specific observation.**
-- **(of steak) Extra rare; left very raw and cold.**
-- **(of a dog or cat) Having a coat of fur of a slaty gray shade.**
+- **Supportive of, run by (a member of), pertaining to, or [[d/_dominated|dominated]] by a political party represented by the [[c/_colour|colour]] [[b/_blue|blue]].**
+- **Of the higher-frequency region of the part of the [[e/_electromagnetic|electromagnetic]] spectrum which is relevant in the specific observation.**
+- **(of steak) Extra rare; left very raw and [[c/_cold|cold]].**
+- **(of a [[d/_dog|dog]] or [[c/_cat|cat]]) Having a [[c/_coat|coat]] of fur of a slaty gray shade.**
 - **Severe or overly strict in morals; gloomy.**
 	- _Example: blue and sour religionists;  blue laws_
 - **(of women) literary; bluestockinged.**
-- **Having a color charge of blue.**
-- **(entertainment) Risque or obscene**
+- **Having a [[c/_color|color]] [[c/_charge|charge]] of [[b/_blue|blue]].**
+- **([[e/_entertainment|entertainment]]) Risque or obscene**
 	- _Example: His material is too blue for prime-time_
 ---
 ### Antonyms
-- [[nonblue]], [[unblue]], [[[[a/_antiblue|antiblue]]]]
+- [[nonblue]], [[unblue]], [[antiblue]]
 #adjective
-- **(entertainment) Pornographic or profane.**
+- **([[e/_entertainment|entertainment]]) Pornographic or profane.**
 	- _Example: The air was blue with oaths._
 ---
 ### Synonyms
-- [[X-rated]], [[[[a/_adult|adult]]]]
+- [[X-rated]], [[adult]]
 ---

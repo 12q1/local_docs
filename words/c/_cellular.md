@@ -1,9 +1,9 @@
 # Cellular
 ---
 #noun
-- **A cellular phone (mobile phone).**
+- **A [[c/_cellular|cellular]] phone (mobile phone).**
 ---
 #adjective
-- **Of, relating to, consisting of, or resembling a cell or cells.**
+- **Of, relating to, [[c/_consisting|consisting]] of, or resembling a [[c/_cell|cell]] or [[c/_cells|cells]].**
 ---
 ---

@@ -1,11 +1,11 @@
 # Accessory
 ---
 #adjective
-- **Having a secondary, supplementary or subordinate function by accompanying as a subordinate; aiding in a secondary way; being additional; being connected as an incident or subordinate to a principal; contributing or being contributory. Said of people and things, and, when of people, usually in a bad sense**
+- **Having a secondary, supplementary or subordinate function by [[a/_accompanying|accompanying]] as a subordinate; [[a/_aiding|aiding]] in a secondary way; [[b/_being|being]] [[a/_additional|additional]]; [[b/_being|being]] [[c/_connected|connected]] as an incident or subordinate to a principal; [[c/_contributing|contributing]] or [[b/_being|being]] [[c/_contributory|contributory]]. Said of people and things, and, when of people, usually in a [[b/_bad|bad]] sense**
 	- _Example: She was accessory to the riot._
-- **Assisting a crime without actually participating in committing the crime itself.**
-- **Present in a minor amount, and not essential.**
+- **[[a/_assisting|Assisting]] a [[c/_crime|crime]] without [[a/_actually|actually]] participating in [[c/_committing|committing]] the [[c/_crime|crime]] itself.**
+- **Present in a minor [[a/_amount|amount]], and not essential.**
 ---
 ### Synonyms
-- [[[[a/_acceding|acceding]]]], [[[[a/_accompanying|accompanying]]]], [[[[a/_additional|additional]]]], [[[[a/_auxiliary|auxiliary]]]], [[[[c/_contributory|contributory]]]], [[subservient]], [[subsidiary]]
+- [[acceding]], [[accompanying]], [[additional]], [[auxiliary]], [[contributory]], [[subservient]], [[subsidiary]]
 ---

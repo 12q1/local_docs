@@ -1,19 +1,19 @@
 # Dodging
 ---
 #verb
-- **To avoid (something) by moving suddenly out of the way.**
+- **To [[a/_avoid|avoid]] (something) by moving suddenly out of the way.**
 	- _Example: He dodged traffic crossing the street._
-- **To avoid; to sidestep.**
+- **To [[a/_avoid|avoid]]; to sidestep.**
 	- _Example: The politician dodged the question with a meaningless reply._
 - **To go hither and thither.**
-- **(videography) To decrease the exposure for certain areas of an image in order to make them darker (compare burn).**
-- **To follow by dodging, or suddenly shifting from place to place.**
+- **(videography) To [[d/_decrease|decrease]] the exposure for [[c/_certain|certain]] [[a/_areas|areas]] of an image in order to make them [[d/_darker|darker]] ([[c/_compare|compare]] [[b/_burn|burn]]).**
+- **To follow by [[d/_dodging|dodging]], or suddenly shifting from place to place.**
 - **To trick somebody.**
 ---
 ### Synonyms
-- [[[[d/_duck|duck]]]], [[evade]], [[fudge]], [[shun]], [[skirt]]
+- [[duck]], [[evade]], [[fudge]], [[shun]], [[skirt]]
 #noun
-- **The act of dodging; a dodge.**
+- **The [[a/_act|act]] of [[d/_dodging|dodging]]; a [[d/_dodge|dodge]].**
 	- _Example: twistings and dodgings_
 ---
 ---

@@ -1,6 +1,6 @@
 # Earrings
 ---
 #noun
-- **A piece of jewelry worn on the ear.**
+- **A piece of jewelry worn on the [[e/_ear|ear]].**
 ---
 ---

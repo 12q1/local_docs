@@ -1,6 +1,6 @@
 # Boronia
 ---
 #noun
-- **Any of several aromatic herbs, of the genus Boronia, used in perfumery**
+- **[[a/_any|Any]] of several [[a/_aromatic|aromatic]] herbs, of the genus [[b/_boronia|Boronia]], used in perfumery**
 ---
 ---

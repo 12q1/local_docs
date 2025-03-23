@@ -1,6 +1,6 @@
 # Eluent
 ---
 #noun
-- **In chromatography, a solvent used in order to effect separation by elution.**
+- **In [[c/_chromatography|chromatography]], a solvent used in order to [[e/_effect|effect]] separation by [[e/_elution|elution]].**
 ---
 ---

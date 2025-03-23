@@ -1,6 +1,6 @@
 # Dewclaws
 ---
 #noun
-- **A vestigial digit, hoof or claw that does not reach the ground.**
+- **A vestigial [[d/_digit|digit]], hoof or [[c/_claw|claw]] that [[d/_does|does]] not reach the ground.**
 ---
 ---

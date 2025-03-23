@@ -1,8 +1,8 @@
 # Eyecup
 ---
 #noun
-- **An eyebath**
-- **Coon eyes**
-- **A shield surrounding the eyepiece of a camera.**
+- **An [[e/_eyebath|eyebath]]**
+- **[[c/_coon|Coon]] [[e/_eyes|eyes]]**
+- **A shield surrounding the [[e/_eyepiece|eyepiece]] of a [[c/_camera|camera]].**
 ---
 ---

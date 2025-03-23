@@ -1,15 +1,15 @@
 # Crude
 ---
 #noun
-- **Any substance in its natural state.**
-- **Crude oil.**
+- **[[a/_any|Any]] substance in its natural state.**
+- **[[c/_crude|Crude]] oil.**
 ---
 #adjective
 - **In a natural, untreated state.**
 	- _Example: crude oil_
-- **Characterized by simplicity, especially something not carefully or expertly made.**
+- **[[c/_characterized|Characterized]] by simplicity, especially something not [[c/_carefully|carefully]] or expertly made.**
 	- _Example: a crude shelter_
-- **Lacking concealing elements.**
+- **Lacking [[c/_concealing|concealing]] [[e/_elements|elements]].**
 	- _Example: a crude truth_
 - **Lacking tact or taste.**
 	- _Example: a crude remark_
@@ -17,7 +17,7 @@
 - **(grammar) Pertaining to the uninflected stem of a word.**
 ---
 ### Synonyms
-- [[raw]], [[[[b/_blunt|blunt]]]], [[immature]], [[unripe]], [[obvious]], [[primitive]], [[raw]]
+- [[raw]], [[blunt]], [[immature]], [[unripe]], [[obvious]], [[primitive]], [[raw]]
 ### Antonyms
 - [[processed]], [[refined]]
 ---

@@ -1,10 +1,10 @@
 # Atomy
 ---
 #noun
-- **A floating mote or speck of dust.**
+- **A floating mote or speck of [[d/_dust|dust]].**
 - **An indivisible particle.**
-- **A tiny being; a very small person.**
+- **A tiny [[b/_being|being]]; a very small person.**
 ---
 ### Synonyms
-- [[[[a/_atom|atom]]]]
+- [[atom]]
 ---

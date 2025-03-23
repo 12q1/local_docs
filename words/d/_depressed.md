@@ -1,23 +1,23 @@
 # Depressed
 ---
 #verb
-- **To press down.**
+- **To press [[d/_down|down]].**
 	- _Example: Depress the upper lever to start the machine._
-- **To make depressed, sad or bored.**
+- **To make [[d/_depressed|depressed]], sad or [[b/_bored|bored]].**
 	- _Example: Winter depresses me._
-- **To cause a depression or a decrease in parts of the economy.**
+- **To [[c/_cause|cause]] a [[d/_depression|depression]] or a [[d/_decrease|decrease]] in parts of the [[e/_economy|economy]].**
 	- _Example: Lower productivity will eventually depress wages._
-- **To bring down or humble; to abase (pride, etc.).**
-- **To reduce (an equation) in a lower degree.**
+- **To [[b/_bring|bring]] [[d/_down|down]] or humble; to [[a/_abase|abase]] (pride, etc.).**
+- **To reduce (an [[e/_equation|equation]]) in a lower [[d/_degree|degree]].**
 ---
 ### Synonyms
-- [[[[d/_downbear|downbear]]]]
+- [[downbear]]
 #adjective
-- **Unhappy; despondent**
-- **Suffering damaging effects of economic recession.**
+- **Unhappy; [[d/_despondent|despondent]]**
+- **Suffering [[d/_damaging|damaging]] [[e/_effects|effects]] of [[e/_economic|economic]] recession.**
 ---
 ### Synonyms
-- [[[[d/_despondent|despondent]]]], [[emo]], [[gloomy]], [[melancholy]], [[miserable]], [[sad]], [[unhappy]]
+- [[despondent]], [[emo]], [[gloomy]], [[melancholy]], [[miserable]], [[sad]], [[unhappy]]
 ### Antonyms
-- [[[[c/_cheerful|cheerful]]]]
+- [[cheerful]]
 ---

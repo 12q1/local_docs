@@ -1,6 +1,6 @@
 # Endways
 ---
 #adverb
-- **Endwise**
+- **[[e/_endwise|Endwise]]**
 ---
 ---

@@ -1,9 +1,9 @@
 # Encasing
 ---
 #verb
-- **To enclose, as in a case.**
+- **To [[e/_enclose|enclose]], as in a [[c/_case|case]].**
 ---
 #noun
-- **That which encases; an outer cover.**
+- **That which [[e/_encases|encases]]; an outer [[c/_cover|cover]].**
 ---
 ---

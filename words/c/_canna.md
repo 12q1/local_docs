@@ -1,6 +1,6 @@
 # Canna
 ---
 #noun
-- **Any member of the genus Canna of tropical plants with large leaves and often showy flowers.**
+- **[[a/_any|Any]] member of the genus [[c/_canna|Canna]] of tropical plants with large leaves and often showy flowers.**
 ---
 ---

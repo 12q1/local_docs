@@ -1,11 +1,11 @@
 # Burping
 ---
 #verb
-- **To emit a burp.**
-- **To cause someone (such as a baby) to burp.**
+- **To [[e/_emit|emit]] a [[b/_burp|burp]].**
+- **To [[c/_cause|cause]] someone (such as a [[b/_baby|baby]]) to [[b/_burp|burp]].**
 ---
 #noun
-- **The sound of a burp.**
-- **The act by which a baby is burped.**
+- **The sound of a [[b/_burp|burp]].**
+- **The [[a/_act|act]] by which a [[b/_baby|baby]] is [[b/_burped|burped]].**
 ---
 ---

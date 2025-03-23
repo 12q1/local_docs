@@ -1,6 +1,6 @@
 # Breathalyse
 ---
 #verb
-- **To estimate the alcohol content of a person's blood by using a breathalyzer**
+- **To estimate the [[a/_alcohol|alcohol]] [[c/_content|content]] of a person's [[b/_blood|blood]] by using a breathalyzer**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Lacking rain.**
-- **Dry; thirsty**
+- **[[d/_dry|Dry]]; thirsty**
 	- _Example: Thy droughty throat. — Philips._
 ---
 ---

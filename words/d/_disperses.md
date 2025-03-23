@@ -1,11 +1,11 @@
 # Disperses
 ---
 #verb
-- **To scatter in different directions**
+- **To scatter in [[d/_different|different]] [[d/_directions|directions]]**
 	- _Example: The Jews are dispersed among all nations._
-- **To break up and disappear; to dissipate**
-- **To disseminate**
-- **To separate rays of light etc. according to wavelength; to refract**
-- **To distribute throughout**
+- **To [[b/_break|break]] up and [[d/_disappear|disappear]]; to [[d/_dissipate|dissipate]]**
+- **To [[d/_disseminate|disseminate]]**
+- **To separate rays of light etc. [[a/_according|according]] to wavelength; to refract**
+- **To [[d/_distribute|distribute]] throughout**
 ---
 ---

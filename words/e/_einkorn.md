@@ -1,6 +1,6 @@
 # Einkorn
 ---
 #noun
-- **Einkorn wheat.**
+- **[[e/_einkorn|Einkorn]] wheat.**
 ---
 ---

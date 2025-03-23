@@ -1,6 +1,6 @@
 # Coyness
 ---
 #noun
-- **The property of being coy.**
+- **The property of [[b/_being|being]] [[c/_coy|coy]].**
 ---
 ---

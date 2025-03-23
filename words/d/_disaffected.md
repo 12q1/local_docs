@@ -1,10 +1,10 @@
 # Disaffected
 ---
 #verb
-- **To cause a loss of affection, sympathy or loyalty in; to alienate or estrange.**
+- **To [[c/_cause|cause]] a loss of [[a/_affection|affection]], sympathy or loyalty in; to [[a/_alienate|alienate]] or estrange.**
 ---
 #adjective
-- **Alienated or estranged, often with hostile effect; rebellious, resentful; disloyal.**
-- **Affected with disease.**
+- **[[a/_alienated|Alienated]] or estranged, often with hostile [[e/_effect|effect]]; rebellious, resentful; [[d/_disloyal|disloyal]].**
+- **[[a/_affected|Affected]] with [[d/_disease|disease]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Encyst
 ---
 #verb
-- **To enclose within a cyst.**
-- **To be enclosed within a cyst.**
+- **To [[e/_enclose|enclose]] within a [[c/_cyst|cyst]].**
+- **To be [[e/_enclosed|enclosed]] within a [[c/_cyst|cyst]].**
 ---
 ---

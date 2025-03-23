@@ -6,9 +6,9 @@
 - **A penis.**
 ---
 #noun
-- **A woman's breast.**
-- **A fight, an argument; a set-to.**
+- **A woman's [[b/_breast|breast]].**
+- **A fight, an [[a/_argument|argument]]; a set-to.**
 - **An idiot.**
-- **An attachment to a clock by which the quarter hours are struck upon bells of different tones.**
+- **An [[a/_attachment|attachment]] to a [[c/_clock|clock]] by which the quarter hours are struck upon [[b/_bells|bells]] of [[d/_different|different]] tones.**
 ---
 ---

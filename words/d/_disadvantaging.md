@@ -1,9 +1,9 @@
 # Disadvantaging
 ---
 #verb
-- **To place at a disadvantage.**
+- **To place at a [[d/_disadvantage|disadvantage]].**
 	- _Example: They fear it might disadvantage honest participants to allow automated entries._
 ---
 ### Synonyms
-- [[tell [[a/_against|against]]]]
+- [[tell against]]
 ---

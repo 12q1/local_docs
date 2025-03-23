@@ -1,9 +1,9 @@
 # Bonkers
 ---
 #noun
-- **One who bonks.**
+- **One who [[b/_bonks|bonks]].**
 ---
 #adjective
-- **Mad; crazy.**
+- **Mad; [[c/_crazy|crazy]].**
 ---
 ---

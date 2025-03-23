@@ -1,12 +1,12 @@
 # Cussed
 ---
 #verb
-- **To use cursing, to use bad language, to speak profanely.**
+- **To use [[c/_cursing|cursing]], to use [[b/_bad|bad]] language, to speak profanely.**
 ---
 #adjective
 - **Ill-tempered, nasty, obstinate.**
 ---
 #adverb
-- **(degree) Very, cussedly, accursedly.**
+- **([[d/_degree|degree]]) Very, [[c/_cussedly|cussedly]], [[a/_accursedly|accursedly]].**
 ---
 ---

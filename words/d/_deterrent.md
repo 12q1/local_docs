@@ -1,9 +1,9 @@
 # Deterrent
 ---
 #noun
-- **Something that deters.**
+- **Something that [[d/_deters|deters]].**
 ---
 #adjective
-- **Serving to deter, preventing something from happening.**
+- **Serving to [[d/_deter|deter]], preventing something from happening.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Convoluting
 ---
 #verb
-- **To make unnecessarily complex.**
-- **To fold or coil into numerous overlapping layers.**
+- **To make unnecessarily [[c/_complex|complex]].**
+- **To fold or [[c/_coil|coil]] into numerous overlapping layers.**
 ---
 ---

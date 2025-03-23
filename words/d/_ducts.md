@@ -1,12 +1,12 @@
 # Ducts
 ---
 #noun
-- **A pipe, tube or canal which carries gas or liquid from one place to another.**
+- **A pipe, tube or [[c/_canal|canal]] which [[c/_carries|carries]] gas or liquid from one place to [[a/_another|another]].**
 	- _Example: heating and air-conditioning ducts_
-- **An enclosure or channel for electrical cable runs.**
-- **Guidance; direction.**
+- **An [[e/_enclosure|enclosure]] or [[c/_channel|channel]] for [[e/_electrical|electrical]] [[c/_cable|cable]] runs.**
+- **Guidance; [[d/_direction|direction]].**
 ---
 #verb
-- **To channel something through a duct (or series of ducts).**
+- **To [[c/_channel|channel]] something through a [[d/_duct|duct]] (or series of [[d/_ducts|ducts]]).**
 ---
 ---

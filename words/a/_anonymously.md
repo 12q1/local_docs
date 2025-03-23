@@ -1,6 +1,6 @@
 # Anonymously
 ---
 #adverb
-- **In an anonymous manner; without a name.**
+- **In an [[a/_anonymous|anonymous]] manner; without a name.**
 ---
 ---

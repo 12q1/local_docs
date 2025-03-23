@@ -1,6 +1,6 @@
 # Deliciously
 ---
 #adverb
-- **In a delicious manner.**
+- **In a [[d/_delicious|delicious]] manner.**
 ---
 ---

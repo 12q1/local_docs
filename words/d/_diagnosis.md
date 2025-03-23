@@ -1,13 +1,13 @@
 # Diagnosis
 ---
 #verb
-- **To determine which disease is causing a sick person's signs and symptoms; to find the diagnosis.**
-- **(by extension) To determine the cause of a problem.**
+- **To [[d/_determine|determine]] which [[d/_disease|disease]] is [[c/_causing|causing]] a sick person's signs and symptoms; to find the [[d/_diagnosis|diagnosis]].**
+- **(by extension) To [[d/_determine|determine]] the [[c/_cause|cause]] of a problem.**
 ---
 #noun
-- **The identification of the nature and cause of an illness.**
+- **The identification of the nature and [[c/_cause|cause]] of an illness.**
 	- _Example: He was given the wrong treatment due to an erroneous diagnosis._
-- **The identification of the nature and cause of something (of any nature).**
-- **A written description of a species or other taxon serving to distinguish that species from all others. Especially, a description written in Latin and published.**
+- **The identification of the nature and [[c/_cause|cause]] of something (of [[a/_any|any]] nature).**
+- **A written [[d/_description|description]] of a species or other taxon serving to [[d/_distinguish|distinguish]] that species from [[a/_all|all]] others. Especially, a [[d/_description|description]] written in Latin and published.**
 ---
 ---

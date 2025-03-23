@@ -1,9 +1,9 @@
 # Confinements
 ---
 #noun
-- **The act of confining or the state of being confined.**
-- **Lying-in, time of giving birth.**
+- **The [[a/_act|act]] of [[c/_confining|confining]] or the state of [[b/_being|being]] [[c/_confined|confined]].**
+- **Lying-in, time of giving [[b/_birth|birth]].**
 ---
 ### Synonyms
-- [[[[b/_birthing|birthing]]]], [[labour]]
+- [[birthing]], [[labour]]
 ---

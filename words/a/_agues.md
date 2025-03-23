@@ -1,6 +1,6 @@
 # Agues
 ---
 #verb
-- **To strike with an ague, or with a cold fit.**
+- **To strike with an [[a/_ague|ague]], or with a [[c/_cold|cold]] fit.**
 ---
 ---

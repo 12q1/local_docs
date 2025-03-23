@@ -1,9 +1,9 @@
 # Dephlogisticated
 ---
 #verb
-- **To take away the phlogiston, i.e. ability to burn, which is now understood to be chemically impossible**
+- **To take [[a/_away|away]] the phlogiston, i.[[e/_e|e]]. [[a/_ability|ability]] to [[b/_burn|burn]], which is now understood to be [[c/_chemically|chemically]] impossible**
 ---
 #adjective
-- **From which the phlogiston has been removed**
+- **From which the phlogiston has [[b/_been|been]] removed**
 ---
 ---

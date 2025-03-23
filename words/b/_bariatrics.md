@@ -1,6 +1,6 @@
 # Bariatrics
 ---
 #noun
-- **The branch of medicine dealing with obesity and weight problems.**
+- **The [[b/_branch|branch]] of medicine [[d/_dealing|dealing]] with obesity and weight problems.**
 ---
 ---

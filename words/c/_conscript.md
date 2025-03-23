@@ -1,16 +1,16 @@
 # Conscript
 ---
 #noun
-- **One who is compulsorily enrolled, often into a military service; a draftee.**
+- **One who is [[c/_compulsorily|compulsorily]] [[e/_enrolled|enrolled]], often into a military service; a [[d/_draftee|draftee]].**
 	- _Example: The soldier was a conscript._
 ---
 #verb
-- **To enrol(l) compulsorily; to draft; to induct.**
+- **To [[e/_enrol|enrol]](l) [[c/_compulsorily|compulsorily]]; to [[d/_draft|draft]]; to induct.**
 ---
 ### Synonyms
-- [[[[d/_draft|draft]]]], [[induct]]
+- [[draft]], [[induct]]
 #adjective
-- **Drafted into a military service or similar.**
-- **Enrolled; written; registered.**
+- **[[d/_drafted|Drafted]] into a military service or similar.**
+- **[[e/_enrolled|Enrolled]]; written; registered.**
 ---
 ---

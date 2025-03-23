@@ -1,9 +1,9 @@
 # Ecclesiastical
 ---
 #adjective
-- **Of or pertaining to the church.**
+- **Of or pertaining to the [[c/_church|church]].**
 	- _Example: ecclesiastical architecture_
 ---
 ### Synonyms
-- [[churchical]], [[[[c/_churchlike|churchlike]]]], [[[[c/_churchly|churchly]]]], [[[[e/_ecclesiastic|ecclesiastic]]]]
+- [[churchical]], [[churchlike]], [[churchly]], [[ecclesiastic]]
 ---

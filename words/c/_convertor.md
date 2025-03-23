@@ -1,6 +1,6 @@
 # Convertor
 ---
 #noun
-- **A person who, or a thing that converts**
+- **A person who, or a thing that [[c/_converts|converts]]**
 ---
 ---

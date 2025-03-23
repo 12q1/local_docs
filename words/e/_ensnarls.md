@@ -1,6 +1,6 @@
 # Ensnarls
 ---
 #verb
-- **To entangle; to trap.**
+- **To [[e/_entangle|entangle]]; to trap.**
 ---
 ---

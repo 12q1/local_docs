@@ -1,6 +1,6 @@
 # Dockland
 ---
 #noun
-- **The land area surrounding a dock, especially the renovated or gentrified areas surrounding a former dock.**
+- **The land [[a/_area|area]] surrounding a [[d/_dock|dock]], especially the renovated or gentrified [[a/_areas|areas]] surrounding a former [[d/_dock|dock]].**
 ---
 ---

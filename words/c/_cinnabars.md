@@ -1,11 +1,11 @@
 # Cinnabars
 ---
 #noun
-- **A deep red mineral, mercuric sulfide, HgS; the principal ore of mercury; such ore used as the pigment vermilion.**
-- **A bright red colour tinted with orange.**
-- **A species of moth, Tyria jacobaeae, having red patches on its predominantly black wings.**
-- **(in “Cinnabar Panacea”) The Elixir of Life.**
+- **A [[d/_deep|deep]] red mineral, mercuric sulfide, HgS; the principal ore of mercury; such ore used as the pigment vermilion.**
+- **A [[b/_bright|bright]] red [[c/_colour|colour]] tinted with orange.**
+- **A species of moth, Tyria jacobaeae, having red patches on its predominantly [[b/_black|black]] wings.**
+- **(in “[[c/_cinnabar|Cinnabar]] Panacea”) The [[e/_elixir|Elixir]] of Life.**
 ---
 ### Synonyms
-- [[[[c/_cinnabar|cinnabar]] moth]], [[æthiops mineral]]
+- [[cinnabar moth]], [[æthiops mineral]]
 ---

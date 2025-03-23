@@ -1,14 +1,14 @@
 # Beleaguered
 ---
 #verb
-- **To besiege; to surround with troops.**
-- **To vex, harass, or beset.**
+- **To [[b/_besiege|besiege]]; to surround with troops.**
+- **To vex, harass, or [[b/_beset|beset]].**
 - **To exhaust.**
 ---
 #adjective
-- **Besieged; surrounded by enemy troops.**
+- **[[b/_besieged|Besieged]]; surrounded by [[e/_enemy|enemy]] troops.**
 	- _Example: a beleaguered stronghold_
-- **Beset by trouble or difficulty.**
+- **[[b/_beset|Beset]] by trouble or [[d/_difficulty|difficulty]].**
 	- _Example: a beleaguered ego_
 ---
 ### Antonyms

@@ -1,15 +1,15 @@
 # Culminate
 ---
 #verb
-- **Of a heavenly body, to be at the highest point, reach its greatest altitude.**
+- **Of a heavenly [[b/_body|body]], to be at the highest point, reach its greatest [[a/_altitude|altitude]].**
 - **To reach the (physical) summit, highest point, peak etc.**
-- **To reach a climax; to come to the decisive point (especially as an end or conclusion).**
+- **To reach a [[c/_climax|climax]]; to [[c/_come|come]] to the [[d/_decisive|decisive]] point (especially as an [[e/_end|end]] or [[c/_conclusion|conclusion]]).**
 	- _Example: The class will culminate with a rigorous examination._
-- **To finalize, bring to a conclusion, form the climax of.**
+- **To finalize, [[b/_bring|bring]] to a [[c/_conclusion|conclusion]], form the [[c/_climax|climax]] of.**
 ---
 ### Synonyms
 - [[peak]]
 #adjective
-- **Relating to the culmen**
+- **Relating to the [[c/_culmen|culmen]]**
 ---
 ---

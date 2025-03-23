@@ -1,6 +1,6 @@
 # Bibbs
 ---
 #noun
-- **A bibcock.**
+- **A [[b/_bibcock|bibcock]].**
 ---
 ---

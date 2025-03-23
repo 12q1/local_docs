@@ -1,6 +1,6 @@
 # Bondieuserie
 ---
 #noun
-- **Any devotional ornament or church object, especially one having little artistic value; a religious knick-knack.**
+- **[[a/_any|Any]] [[d/_devotional|devotional]] ornament or [[c/_church|church]] object, especially one having little [[a/_artistic|artistic]] value; a religious knick-knack.**
 ---
 ---

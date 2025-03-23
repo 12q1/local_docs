@@ -1,6 +1,6 @@
 # Cervicitis
 ---
 #noun
-- **Inflammation of the cervix.**
+- **Inflammation of the [[c/_cervix|cervix]].**
 ---
 ---

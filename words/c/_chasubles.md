@@ -1,6 +1,6 @@
 # Chasubles
 ---
 #noun
-- **The outermost liturgical vestment worn by clergy for celebrating Eucharist or Mass.**
+- **The outermost liturgical vestment worn by [[c/_clergy|clergy]] for [[c/_celebrating|celebrating]] Eucharist or Mass.**
 ---
 ---

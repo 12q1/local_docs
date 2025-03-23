@@ -1,7 +1,7 @@
 # Disaffection
 ---
 #noun
-- **Discontent; unrest.**
-- **Alienation; loss of loyalty.**
+- **[[d/_discontent|Discontent]]; unrest.**
+- **[[a/_alienation|Alienation]]; loss of loyalty.**
 ---
 ---

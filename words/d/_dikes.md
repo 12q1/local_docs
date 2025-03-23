@@ -1,10 +1,10 @@
 # Dikes
 ---
 #noun
-- **A well-dressed man.**
-- **Formalwear or other fashionable dress.**
+- **A well-[[d/_dressed|dressed]] man.**
+- **Formalwear or other fashionable [[d/_dress|dress]].**
 ---
 #noun
-- **(usually derogatory) A lesbian, particularly one with masculine or butch traits or behavior.**
+- **(usually [[d/_derogatory|derogatory]]) A lesbian, particularly one with masculine or [[b/_butch|butch]] traits or [[b/_behavior|behavior]].**
 ---
 ---

@@ -1,8 +1,8 @@
 # Callously
 ---
 #adverb
-- **In a callous manner; done without regard to others' sensitivities.**
+- **In a [[c/_callous|callous]] manner; [[d/_done|done]] without regard to others' sensitivities.**
 ---
 ### Synonyms
-- [[[[c/_carelessly|carelessly]]]], [[hardheartedly]], [[indifferently]], [[unfeelingly]]
+- [[carelessly]], [[hardheartedly]], [[indifferently]], [[unfeelingly]]
 ---

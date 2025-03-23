@@ -1,12 +1,12 @@
 # Dinghy
 ---
 #noun
-- **A small open boat, propelled by oars or paddles, carried as a tender, lifeboat, or pleasure craft on a ship.**
+- **A small open [[b/_boat|boat]], propelled by oars or paddles, [[c/_carried|carried]] as a tender, lifeboat, or pleasure [[c/_craft|craft]] on a ship.**
 - **An inflatable rubber life raft.**
 ---
 ### Synonyms
 - [[tender]]
 #verb
-- **To travel by dinghy.**
+- **To travel by [[d/_dinghy|dinghy]].**
 ---
 ---

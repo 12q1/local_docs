@@ -1,8 +1,8 @@
 # Dizygotic
 ---
 #adjective
-- **Derived from two eggs that have been separately fertilized; dizygous.**
+- **[[d/_derived|Derived]] from two [[e/_eggs|eggs]] that have [[b/_been|been]] separately fertilized; [[d/_dizygous|dizygous]].**
 ---
 ### Synonyms
-- [[[[d/_dizygous|dizygous]]]], [[fraternal]]
+- [[dizygous]], [[fraternal]]
 ---

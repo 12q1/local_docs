@@ -1,6 +1,6 @@
 # Breadthways
 ---
 #adverb
-- **Breadthwise**
+- **[[b/_breadthwise|Breadthwise]]**
 ---
 ---

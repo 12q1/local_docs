@@ -1,6 +1,6 @@
 # Dinting
 ---
 #verb
-- **To dent.**
+- **To [[d/_dent|dent]].**
 ---
 ---

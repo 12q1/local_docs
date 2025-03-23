@@ -1,8 +1,8 @@
 # Accepters
 ---
 #noun
-- **A person who accepts; a taker.**
+- **A person who [[a/_accepts|accepts]]; a taker.**
 - **A respecter; one who views others with partiality.**
-- **An acceptor; one who accepts an order or a bill of exchange.**
+- **An [[a/_acceptor|acceptor]]; one who [[a/_accepts|accepts]] an order or a [[b/_bill|bill]] of exchange.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Egressed
 ---
 #verb
-- **To exit or leave; to go or come out.**
+- **To exit or leave; to go or [[c/_come|come]] out.**
 ---
 ### Synonyms
-- [[[[c/_come|come]] out]], [[[[d/_depart|depart]]]], [[exit]], [[go out]], [[leave]]
+- [[come out]], [[depart]], [[exit]], [[go out]], [[leave]]
 ### Antonyms
-- [[[[c/_come|come]] in]], [[[[e/_enter|enter]]]], [[go in]]
+- [[come in]], [[enter]], [[go in]]
 ---

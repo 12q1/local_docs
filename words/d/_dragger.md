@@ -1,11 +1,11 @@
 # Dragger
 ---
 #noun
-- **Something that drags.**
+- **Something that [[d/_drags|drags]].**
 - **A trawler.**
-- **One who takes part in drag racing.**
-- **A vehicle used in drag racing.**
+- **One who takes part in [[d/_drag|drag]] racing.**
+- **A vehicle used in [[d/_drag|drag]] racing.**
 ---
 ### Synonyms
-- [[[[d/_dragster|dragster]]]], [[[[d/_dragster|dragster]]]]
+- [[dragster]], [[dragster]]
 ---

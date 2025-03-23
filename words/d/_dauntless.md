@@ -4,7 +4,7 @@
 - **Invulnerable to fear or intimidation.**
 ---
 ### Synonyms
-- [[[[d/_daredevil|daredevil]]]]
+- [[daredevil]]
 ### Antonyms
 - [[timid]]
 ---

@@ -7,5 +7,5 @@
 - **To treat revengefully; to wreak vengeance on.**
 ---
 ### Synonyms
-- [[[[b/_bewreak|bewreak]]]], [[get [[b/_back|back]] at]], [[retaliate]], [[take revenge]], [[spite]]
+- [[bewreak]], [[get back at]], [[retaliate]], [[take revenge]], [[spite]]
 ---

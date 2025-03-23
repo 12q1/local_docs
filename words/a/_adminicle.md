@@ -1,9 +1,9 @@
 # Adminicle
 ---
 #noun
-- **Something that aids or supports.**
-- **An auxiliary.**
-- **Corroborative proof.**
-- **Background ornamentation on a coin or medal.**
+- **Something that [[a/_aids|aids]] or supports.**
+- **An [[a/_auxiliary|auxiliary]].**
+- **[[c/_corroborative|Corroborative]] proof.**
+- **[[b/_background|Background]] ornamentation on a [[c/_coin|coin]] or medal.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Consultative
 ---
 #adjective
-- **That gives advice or consultation; advisory.**
+- **That gives [[a/_advice|advice]] or [[c/_consultation|consultation]]; [[a/_advisory|advisory]].**
 ---
 ---

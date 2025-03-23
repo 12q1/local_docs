@@ -1,6 +1,6 @@
 # Bateleur
 ---
 #noun
-- **A species of eagle, Terathopius ecaudatus, endemic to Africa and Arabia.**
+- **A species of [[e/_eagle|eagle]], Terathopius ecaudatus, [[e/_endemic|endemic]] to [[a/_africa|Africa]] and [[a/_arabia|Arabia]].**
 ---
 ---

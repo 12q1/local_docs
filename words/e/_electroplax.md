@@ -1,6 +1,6 @@
 # Electroplax
 ---
 #noun
-- **Electric organ**
+- **[[e/_electric|Electric]] organ**
 ---
 ---

@@ -4,6 +4,6 @@
 - **To remove hydrogen from (a substance).**
 ---
 #adjective
-- **That has been treated by dehydrogenation**
+- **That has [[b/_been|been]] treated by [[d/_dehydrogenation|dehydrogenation]]**
 ---
 ---

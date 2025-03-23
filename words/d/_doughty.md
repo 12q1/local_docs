@@ -1,11 +1,11 @@
 # Doughty
 ---
 #noun
-- **A person who is bold or brave.**
+- **A person who is [[b/_bold|bold]] or [[b/_brave|brave]].**
 ---
 #adjective
-- **Bold; brave, courageous.**
+- **[[b/_bold|Bold]]; [[b/_brave|brave]], [[c/_courageous|courageous]].**
 ---
 ### Synonyms
-- [[[[d/_dauntless|dauntless]]]], [[fearless]], [[intrepid]], [[resolute]], [[stouthearted]], [[valiant]]
+- [[dauntless]], [[fearless]], [[intrepid]], [[resolute]], [[stouthearted]], [[valiant]]
 ---

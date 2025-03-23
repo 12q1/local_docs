@@ -1,6 +1,6 @@
 # Ecdysone
 ---
 #noun
-- **A hormone in insects and other arthropods that promotes molting.**
+- **A hormone in insects and other [[a/_arthropods|arthropods]] that promotes molting.**
 ---
 ---

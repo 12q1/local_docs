@@ -1,20 +1,20 @@
 # Daunting
 ---
 #verb
-- **To discourage, intimidate.**
+- **To [[d/_discourage|discourage]], intimidate.**
 - **To overwhelm.**
 ---
 #noun
-- **Present participle of daunt.**
+- **Present participle of [[d/_daunt|daunt]].**
 ---
 #adjective
-- **Discouraging; inspiring fear.**
-- **Intimidatingly impressive; awe-inspiring, overwhelming.**
-- **Appearing to be difficult; challenging.**
+- **[[d/_discouraging|Discouraging]]; inspiring fear.**
+- **Intimidatingly impressive; [[a/_awe|awe]]-inspiring, overwhelming.**
+- **[[a/_appearing|Appearing]] to be [[d/_difficult|difficult]]; [[c/_challenging|challenging]].**
 	- _Example: It was a daunting task, but it was accomplished with some forward planning._
 ---
 ### Synonyms
-- [[[[d/_disconcerting|disconcerting]]]], [[[[d/_dismaying|dismaying]]]], [[formidable]], [[frightening]], [[unnerving]], [[unsettling]], [[formidable]], [[intimidating]], [[intimidating]]
+- [[disconcerting]], [[dismaying]], [[formidable]], [[frightening]], [[unnerving]], [[unsettling]], [[formidable]], [[intimidating]], [[intimidating]]
 ### Antonyms
 - [[undaunting]], [[undaunting]], [[undaunting]]
 ---

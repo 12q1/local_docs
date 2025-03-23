@@ -1,6 +1,6 @@
 # Disyllable
 ---
 #noun
-- **A word comprising two syllables.**
+- **A word [[c/_comprising|comprising]] two syllables.**
 ---
 ---

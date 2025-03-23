@@ -1,8 +1,8 @@
 # Durance
 ---
 #noun
-- **Duration.**
-- **Endurance.**
-- **Imprisonment; forced confinement.**
+- **[[d/_duration|Duration]].**
+- **[[e/_endurance|Endurance]].**
+- **Imprisonment; forced [[c/_confinement|confinement]].**
 ---
 ---

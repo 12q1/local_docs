@@ -1,12 +1,12 @@
 # Antipathy
 ---
 #noun
-- **A feeling of dislike (normally towards someone, less often towards something); repugnance or distaste.**
-- **Natural contrariety or incompatibility**
+- **A feeling of [[d/_dislike|dislike]] (normally towards someone, less often towards something); repugnance or [[d/_distaste|distaste]].**
+- **Natural [[c/_contrariety|contrariety]] or incompatibility**
 	- _Example: oil and water have antipathy_
 ---
 ### Synonyms
-- [[[[a/_aversion|aversion]]]], [[[[c/_contrariety|contrariety]]]], [[[[d/_disgust|disgust]]]], [[[[d/_dislike|dislike]]]], [[[[d/_distaste|distaste]]]], [[[[e/_enmity|enmity]]]], [[hatred]], [[ill will]], [[opposition]], [[repugnance]]
+- [[aversion]], [[contrariety]], [[disgust]], [[dislike]], [[distaste]], [[enmity]], [[hatred]], [[ill will]], [[opposition]], [[repugnance]]
 ### Antonyms
 - [[sympathy]]
 ---

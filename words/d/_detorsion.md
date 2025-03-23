@@ -1,6 +1,6 @@
 # Detorsion
 ---
 #noun
-- **The act of detorting, or the state of being detorted; a twisting or warping.**
+- **The [[a/_act|act]] of detorting, or the state of [[b/_being|being]] detorted; a twisting or warping.**
 ---
 ---

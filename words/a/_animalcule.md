@@ -1,10 +1,10 @@
 # Animalcule
 ---
 #noun
-- **A small animal.**
-- **A microscopic aquatic animal or protozoan.**
+- **A small [[a/_animal|animal]].**
+- **A microscopic [[a/_aquatic|aquatic]] [[a/_animal|animal]] or protozoan.**
 - **A spermatozoon.**
 ---
 ### Synonyms
-- [[[[a/_animalculum|animalculum]]]]
+- [[animalculum]]
 ---

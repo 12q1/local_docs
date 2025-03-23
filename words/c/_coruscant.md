@@ -1,6 +1,6 @@
 # Coruscant
 ---
 #adjective
-- **Emitting flashes of light; glittering.**
+- **[[e/_emitting|Emitting]] flashes of light; glittering.**
 ---
 ---

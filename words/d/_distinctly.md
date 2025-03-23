@@ -1,7 +1,7 @@
 # Distinctly
 ---
 #adverb
-- **In a distinct manner.**
+- **In a [[d/_distinct|distinct]] manner.**
 ---
 ### Antonyms
 - [[indistinctly]]

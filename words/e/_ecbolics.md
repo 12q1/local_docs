@@ -1,6 +1,6 @@
 # Ecbolics
 ---
 #noun
-- **An agent that produces abortion of a fetus or hastens delivery of the same.**
+- **An [[a/_agent|agent]] that produces [[a/_abortion|abortion]] of a fetus or hastens [[d/_delivery|delivery]] of the same.**
 ---
 ---

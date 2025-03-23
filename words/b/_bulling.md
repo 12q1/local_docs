@@ -1,23 +1,23 @@
 # Bulling
 ---
 #verb
-- **To force oneself (in a particular direction).**
+- **To force oneself (in a particular [[d/_direction|direction]]).**
 	- _Example: He bulled his way in._
 - **To lie, to tell untruths.**
-- **To be in heat; to manifest sexual desire as cows do.**
-- **To polish boots to a high shine.**
-- **To endeavour to raise the market price of.**
+- **To be in heat; to manifest sexual [[d/_desire|desire]] as [[c/_cows|cows]] [[d/_do|do]].**
+- **To polish [[b/_boots|boots]] to a high shine.**
+- **To [[e/_endeavour|endeavour]] to raise the market price of.**
 	- _Example: to bull railroad bonds_
-- **To endeavour to raise prices in.**
+- **To [[e/_endeavour|endeavour]] to raise prices in.**
 	- _Example: to bull the market_
 ---
 #verb
-- **(17th century) to publish in a Papal bull**
+- **(17th [[c/_century|century]]) to publish in a Papal [[b/_bull|bull]]**
 ---
 #verb
-- **To mock; to cheat.**
+- **To mock; to [[c/_cheat|cheat]].**
 ---
 #noun
-- **The mating of a cow with a bull.**
+- **The mating of a [[c/_cow|cow]] with a [[b/_bull|bull]].**
 ---
 ---

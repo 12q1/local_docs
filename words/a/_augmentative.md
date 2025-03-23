@@ -4,8 +4,8 @@
 - **(grammar) A form of word that expresses large size, intensity, or seniority**
 ---
 ### Antonyms
-- [[[[d/_diminutive|diminutive]]]]
+- [[diminutive]]
 #adjective
-- **Growing, enlarging, increasing.**
+- **Growing, [[e/_enlarging|enlarging]], increasing.**
 ---
 ---

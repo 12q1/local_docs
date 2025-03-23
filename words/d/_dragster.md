@@ -1,10 +1,10 @@
 # Dragster
 ---
 #noun
-- **A heavily modified or custom-built vehicle used in drag racing.**
-- **One who takes part in drag racing.**
-- **A drag queen.**
+- **A heavily modified or [[c/_custom|custom]]-[[b/_built|built]] vehicle used in [[d/_drag|drag]] racing.**
+- **One who takes part in [[d/_drag|drag]] racing.**
+- **A [[d/_drag|drag]] queen.**
 ---
 ### Synonyms
-- [[[[d/_dragger|dragger]]]]
+- [[dragger]]
 ---

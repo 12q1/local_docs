@@ -1,6 +1,6 @@
 # Egger
 ---
 #noun
-- **One who gathers eggs.**
+- **One who gathers [[e/_eggs|eggs]].**
 ---
 ---

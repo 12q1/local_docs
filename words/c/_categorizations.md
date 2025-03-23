@@ -1,7 +1,7 @@
 # Categorizations
 ---
 #noun
-- **A group of things arranged by category; a classification.**
-- **The process of sorting or arranging things into categories or classes.**
+- **A group of things [[a/_arranged|arranged]] by [[c/_category|category]]; a [[c/_classification|classification]].**
+- **The process of sorting or [[a/_arranging|arranging]] things into [[c/_categories|categories]] or [[c/_classes|classes]].**
 ---
 ---

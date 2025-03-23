@@ -1,6 +1,6 @@
 # Acouchi
 ---
 #noun
-- **Any of several rodents of the genus Myoprocta of the family Dasyproctidae, smaller than agoutis, which inhabit Amazonia.**
+- **[[a/_any|Any]] of several rodents of the genus Myoprocta of the family [[d/_dasyproctidae|Dasyproctidae]], smaller than [[a/_agoutis|agoutis]], which inhabit Amazonia.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Disunited
 ---
 #verb
-- **To cause disagreement or alienation among or within.**
+- **To [[c/_cause|cause]] [[d/_disagreement|disagreement]] or [[a/_alienation|alienation]] [[a/_among|among]] or within.**
 - **To separate, sever, or split.**
-- **To disintegrate; to come apart.**
+- **To [[d/_disintegrate|disintegrate]]; to [[c/_come|come]] [[a/_apart|apart]].**
 ---
 #adjective
 - **Lacking unity; not united.**

@@ -1,6 +1,6 @@
 # Digitisation
 ---
 #noun
-- **The conversion of data from analog to digital or binary.**
+- **The [[c/_conversion|conversion]] of [[d/_data|data]] from [[a/_analog|analog]] to [[d/_digital|digital]] or [[b/_binary|binary]].**
 ---
 ---

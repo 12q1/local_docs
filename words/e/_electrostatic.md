@@ -1,6 +1,6 @@
 # Electrostatic
 ---
 #adjective
-- **Of, relating to, or produced by electrostatics or static electricity**
+- **Of, relating to, or produced by [[e/_electrostatics|electrostatics]] or static [[e/_electricity|electricity]]**
 ---
 ---

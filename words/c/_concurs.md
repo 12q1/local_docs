@@ -1,13 +1,13 @@
 # Concurs
 ---
 #verb
-- **To unite or agree (in action or opinion); to have a common opinion; to coincide; to correspond.**
-- **To meet in the same point; to combine or conjoin; to contribute or help towards a common object or effect.**
+- **To unite or [[a/_agree|agree]] (in [[a/_action|action]] or opinion); to have a [[c/_common|common]] opinion; to [[c/_coincide|coincide]]; to [[c/_correspond|correspond]].**
+- **To meet in the same point; to [[c/_combine|combine]] or [[c/_conjoin|conjoin]]; to [[c/_contribute|contribute]] or help towards a [[c/_common|common]] object or [[e/_effect|effect]].**
 - **To run together; to meet.**
-- **To converge.**
+- **To [[c/_converge|converge]].**
 ---
 ### Synonyms
-- [[[[c/_cooperate|cooperate]]]], [[unite]], [[[[a/_assemble|assemble]]]], [[[[c/_congregate|congregate]]]], [[[[c/_crowd|crowd]]]], [[flock]], [[[[a/_accord|accord]]]], [[[[a/_agree|agree]]]], [[[[c/_coexist|coexist]]]]
+- [[cooperate]], [[unite]], [[assemble]], [[congregate]], [[crowd]], [[flock]], [[accord]], [[agree]], [[coexist]]
 ### Antonyms
-- [[[[d/_diverge|diverge]]]], [[[[d/_disassemble|disassemble]]]], [[[[d/_disperse|disperse]]]], [[[[d/_disagree|disagree]]]], [[[[d/_dissent|dissent]]]]
+- [[diverge]], [[disassemble]], [[disperse]], [[disagree]], [[dissent]]
 ---

@@ -1,6 +1,6 @@
 # Cella
 ---
 #noun
-- **The central, enclosed part of an ancient temple, as distinguished from the open porticos.**
+- **The [[c/_central|central]], [[e/_enclosed|enclosed]] part of an [[a/_ancient|ancient]] temple, as [[d/_distinguished|distinguished]] from the open porticos.**
 ---
 ---

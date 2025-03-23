@@ -1,7 +1,7 @@
 # Cowman
 ---
 #noun
-- **Cattle rancher**
-- **Cattleman**
+- **[[c/_cattle|Cattle]] rancher**
+- **[[c/_cattleman|Cattleman]]**
 ---
 ---

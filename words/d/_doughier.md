@@ -1,6 +1,6 @@
 # Doughier
 ---
 #adjective
-- **Having the characteristics of dough especially in appearance or consistency: as**
+- **Having the [[c/_characteristics|characteristics]] of [[d/_dough|dough]] especially in [[a/_appearance|appearance]] or [[c/_consistency|consistency]]: as**
 ---
 ---

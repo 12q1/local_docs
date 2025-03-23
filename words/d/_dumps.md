@@ -1,43 +1,43 @@
 # Dumps
 ---
 #noun
-- **A place where waste or garbage is left; a ground or place for dumping ashes, refuse, etc.; a disposal site.**
+- **A place where waste or garbage is left; a ground or place for [[d/_dumping|dumping]] [[a/_ashes|ashes]], refuse, etc.; a [[d/_disposal|disposal]] site.**
 	- _Example: A toxic waste dump._
-- **A car or boat for dumping refuse, etc.**
-- **That which is dumped, especially in a chaotic way; a mess.**
-- **An act of dumping, or its result.**
+- **A [[c/_car|car]] or [[b/_boat|boat]] for [[d/_dumping|dumping]] refuse, etc.**
+- **That which is [[d/_dumped|dumped]], especially in a [[c/_chaotic|chaotic]] way; a mess.**
+- **An [[a/_act|act]] of [[d/_dumping|dumping]], or its result.**
 	- _Example: The new XML dump is coming soon._
-- **A formatted listing of the contents of program storage, especially when produced automatically by a failing program**
+- **A formatted listing of the [[c/_contents|contents]] of program storage, especially when produced [[a/_automatically|automatically]] by a failing program**
 - **A storage place for supplies, especially military.**
-- **An unpleasant, dirty, disreputable, unfashionable, boring or depressing looking place.**
+- **An unpleasant, [[d/_dirty|dirty]], [[d/_disreputable|disreputable]], unfashionable, [[b/_boring|boring]] or [[d/_depressing|depressing]] looking place.**
 	- _Example: Don't feel bad about moving away from this dump._
-- **(often with the verb "take") An act of defecation; a defecating.**
+- **(often with the verb "take") An [[a/_act|act]] of [[d/_defecation|defecation]]; a [[d/_defecating|defecating]].**
 	- _Example: I have to take a dump._
-- **(usually in the plural) A sad, gloomy state of the mind; sadness; melancholy; despondency**
-- **Absence of mind; revery.**
+- **(usually in the plural) A sad, gloomy state of the mind; sadness; melancholy; [[d/_despondency|despondency]]**
+- **[[a/_absence|Absence]] of mind; revery.**
 - **A pile of ore or rock.**
-- **A melancholy strain or tune in music; any tune.**
-- **An old kind of dance.**
-- **A small coin made by punching a hole in a larger coin (called a holey dollar).**
-- **A temporary display case that holds many copies of an item being sold.**
+- **A melancholy strain or tune in music; [[a/_any|any]] tune.**
+- **An old kind of [[d/_dance|dance]].**
+- **A small [[c/_coin|coin]] made by punching a hole in a larger [[c/_coin|coin]] ([[c/_called|called]] a holey [[d/_dollar|dollar]]).**
+- **A temporary [[d/_display|display]] [[c/_case|case]] that holds many [[c/_copies|copies]] of an item [[b/_being|being]] sold.**
 ---
 #verb
-- **To release, especially in large quantities and chaotic manner.**
-- **To discard; to get rid of something one does not want anymore.**
-- **To sell below cost or very cheaply; to engage in dumping.**
-- **To copy data from a system to another place or system, usually in order to archive it.**
-- **To output the contents of storage or a data structure, often in order to diagnose a bug.**
-- **To end a relationship with.**
+- **To release, especially in large quantities and [[c/_chaotic|chaotic]] manner.**
+- **To [[d/_discard|discard]]; to get rid of something one [[d/_does|does]] not want [[a/_anymore|anymore]].**
+- **To sell [[b/_below|below]] [[c/_cost|cost]] or very [[c/_cheaply|cheaply]]; to [[e/_engage|engage]] in [[d/_dumping|dumping]].**
+- **To [[c/_copy|copy]] [[d/_data|data]] from a system to [[a/_another|another]] place or system, usually in order to [[a/_archive|archive]] it.**
+- **To output the [[c/_contents|contents]] of storage or a [[d/_data|data]] structure, often in order to [[d/_diagnose|diagnose]] a [[b/_bug|bug]].**
+- **To [[e/_end|end]] a relationship with.**
 - **To knock heavily; to stump.**
-- **To put or throw down with more or less of violence; hence, to unload from a cart by tilting it**
+- **To put or throw [[d/_down|down]] with more or less of violence; hence, to unload from a [[c/_cart|cart]] by tilting it**
 	- _Example: We dumped the coal onto the fireplace._
 - **To precipitate (especially snow) heavily.**
 ---
 #noun
 - **A thick, ill-shapen piece.**
-- **A lead counter used in the game of chuck-farthing.**
+- **A lead [[c/_counter|counter]] used in the game of [[c/_chuck|chuck]]-farthing.**
 ---
 #noun
-- **A deep hole in a river bed; a pool.**
+- **A [[d/_deep|deep]] hole in a river [[b/_bed|bed]]; a pool.**
 ---
 ---

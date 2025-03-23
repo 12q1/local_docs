@@ -1,18 +1,18 @@
 # Engraved
 ---
 #verb
-- **To carve text or symbols into (something), usually for the purposes of identification or art.**
+- **To [[c/_carve|carve]] text or symbols into (something), usually for the purposes of identification or [[a/_art|art]].**
 	- _Example: He engraved the plaque with his name._
-- **To carve (something) into a material.**
+- **To [[c/_carve|carve]] (something) into a material.**
 	- _Example: He engraved his name._
 ---
 ### Synonyms
-- [[[[c/_carve|carve]]]], [[etch]], [[inscribe]]
+- [[carve]], [[etch]], [[inscribe]]
 #verb
-- **To put in a grave, to bury.**
+- **To put in a grave, to [[b/_bury|bury]].**
 ---
 #adjective
-- **Made by engraving**
-- **Decorated with engravings**
+- **Made by [[e/_engraving|engraving]]**
+- **[[d/_decorated|Decorated]] with [[e/_engravings|engravings]]**
 ---
 ---

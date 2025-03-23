@@ -1,11 +1,11 @@
 # Enacting
 ---
 #verb
-- **To make (a bill) into law**
-- **To act the part of; to play**
-- **To do; to effect**
+- **To make (a [[b/_bill|bill]]) into law**
+- **To [[a/_act|act]] the part of; to play**
+- **To [[d/_do|do]]; to [[e/_effect|effect]]**
 ---
 #noun
-- **Enactment.**
+- **[[e/_enactment|Enactment]].**
 ---
 ---

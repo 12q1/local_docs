@@ -1,6 +1,6 @@
 # Dysprosium
 ---
 #noun
-- **A metallic chemical element (symbol Dy) with atomic number 66: a rare earth element with a metallic silver lustre.**
+- **A metallic [[c/_chemical|chemical]] [[e/_element|element]] (symbol [[d/_dy|Dy]]) with [[a/_atomic|atomic]] number 66: a rare [[e/_earth|earth]] [[e/_element|element]] with a metallic silver lustre.**
 ---
 ---

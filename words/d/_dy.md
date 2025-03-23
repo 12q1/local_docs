@@ -1,35 +1,35 @@
 # Dy
 ---
 #verb
-- **To stop living; to become dead; to undergo death.**
-- **To (stop living and) undergo (a specified death).**
+- **To stop living; to [[b/_become|become]] [[d/_dead|dead]]; to undergo [[d/_death|death]].**
+- **To (stop living and) undergo (a specified [[d/_death|death]]).**
 	- _Example: He died a hero's death._
 - **To yearn intensely.**
 	- _Example: I'm dying for a packet of crisps._
-- **To be or become hated or utterly ignored or cut off, as if dead.**
+- **To be or [[b/_become|become]] hated or utterly ignored or [[c/_cut|cut]] off, as if [[d/_dead|dead]].**
 	- _Example: The day our sister eloped, she died to our mother._
-- **To become spiritually dead; to lose hope.**
+- **To [[b/_become|become]] spiritually [[d/_dead|dead]]; to lose hope.**
 	- _Example: He died a little inside each time she refused to speak to him._
 - **To be mortified or shocked by a situation.**
 	- _Example: If anyone sees me wearing this ridiculous outfit, I'll die._
-- **To be so overcome with emotion or laughter as to be incapacitated.**
+- **To be so overcome with [[e/_emotion|emotion]] or laughter as to be incapacitated.**
 	- _Example: When I found out my two favorite musicians would be recording an album together, I literally planned my own funeral arrangements and died._
-- **(of a machine) To stop working, to break down.**
+- **(of a machine) To stop working, to [[b/_break|break]] [[d/_down|down]].**
 	- _Example: My car died in the middle of the freeway this morning._
-- **(of a computer program) To abort, to terminate (as an error condition).**
-- **To perish; to cease to exist; to become lost or extinct.**
-- **To sink; to faint; to pine; to languish, with weakness, discouragement, love, etc.**
-- **(often with "to") To become indifferent; to cease to be subject.**
+- **(of a [[c/_computer|computer]] program) To [[a/_abort|abort]], to terminate (as an error [[c/_condition|condition]]).**
+- **To perish; to [[c/_cease|cease]] to exist; to [[b/_become|become]] lost or extinct.**
+- **To sink; to faint; to pine; to languish, with weakness, [[d/_discouragement|discouragement]], love, etc.**
+- **(often with "to") To [[b/_become|become]] indifferent; to [[c/_cease|cease]] to be subject.**
 	- _Example: to die to pleasure or to sin_
-- **To disappear gradually in another surface, as where mouldings are lost in a sloped or curved face.**
-- **To become vapid, flat, or spiritless, as liquor.**
-- **(of a stand-up comedian or a joke) To fail to evoke laughter from the audience.**
+- **To [[d/_disappear|disappear]] gradually in [[a/_another|another]] surface, as where mouldings are lost in a sloped or [[c/_curved|curved]] face.**
+- **To [[b/_become|become]] vapid, flat, or spiritless, as liquor.**
+- **(of a stand-up [[c/_comedian|comedian]] or a joke) To fail to evoke laughter from the [[a/_audience|audience]].**
 	- _Example: Then there was that time I died onstage in Montreal..._
 ---
 ### Synonyms
-- [[be no more]], [[[[b/_bite|bite]] the [[b/_big|big]] one]], [[[[b/_bite|bite]] the [[d/_dust|dust]]]], [[[[b/_buy|buy]] the farm]], [[[[c/_cease|cease]] to be]], [[[[c/_check|check]] out]], [[[[c/_cross|cross]] over]], [[[[c/_cross|cross]] the river]], [[expire]], [[give up the ghost]], [[go to meet one's maker]], [[hop off the twig]], [[join the [[c/_choir|choir]] invisible]], [[kick the [[b/_bucket|bucket]]]], [[pass]], [[pass [[a/_away|away]]]], [[pass on]], [[push up the [[d/_daisies|daisies]]]], [[shuffle off this mortal [[c/_coil|coil]]]], [[stiff]], [[succumb]]
+- [[be no more]], [[bite the big one]], [[bite the dust]], [[buy the farm]], [[cease to be]], [[check out]], [[cross over]], [[cross the river]], [[expire]], [[give up the ghost]], [[go to meet one's maker]], [[hop off the twig]], [[join the choir invisible]], [[kick the bucket]], [[pass]], [[pass away]], [[pass on]], [[push up the daisies]], [[shuffle off this mortal coil]], [[stiff]], [[succumb]]
 #verb
-- **To colour with dye, or as if with dye.**
+- **To [[c/_colour|colour]] with [[d/_dye|dye]], or as if with [[d/_dye|dye]].**
 ---
 ### Synonyms
 - [[shade]], [[stain]], [[streak]], [[tint]]

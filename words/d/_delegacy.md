@@ -1,7 +1,7 @@
 # Delegacy
 ---
 #noun
-- **The position or state of being a delegate.**
-- **A collection of delegates.**
+- **The position or state of [[b/_being|being]] a [[d/_delegate|delegate]].**
+- **A [[c/_collection|collection]] of [[d/_delegates|delegates]].**
 ---
 ---

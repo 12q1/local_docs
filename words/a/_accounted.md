@@ -2,6 +2,6 @@
 ---
 #verb
 - **To provide explanation.**
-- **To count.**
+- **To [[c/_count|count]].**
 ---
 ---

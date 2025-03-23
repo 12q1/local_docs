@@ -1,8 +1,8 @@
 # Cessation
 ---
 #noun
-- **A ceasing or discontinuance, for example of an action, whether temporary or final.**
+- **A [[c/_ceasing|ceasing]] or [[d/_discontinuance|discontinuance]], for example of an [[a/_action|action]], whether temporary or final.**
 ---
 ### Synonyms
-- [[[[c/_close|close]]]], [[[[e/_endpoint|endpoint]]]], [[terminus]], [[hiatus]], [[moratorium]], [[recess]]
+- [[close]], [[endpoint]], [[terminus]], [[hiatus]], [[moratorium]], [[recess]]
 ---

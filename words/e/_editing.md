@@ -1,19 +1,19 @@
 # Editing
 ---
 #verb
-- **To change a text, or a document.**
-- **To be the editor of a publication.**
+- **To [[c/_change|change]] a text, or a [[d/_document|document]].**
+- **To be the [[e/_editor|editor]] of a publication.**
 	- _Example: He edits the Chronicle._
-- **To change the contents of a file, website, etc.**
+- **To [[c/_change|change]] the [[c/_contents|contents]] of a file, website, etc.**
 	- _Example: Wikipedia is an interactive encyclopedia which allows anybody to edit and improve articles._
-- **To alter the DNA sequence of a chromosome; to perform gene splicing.**
-- **To alter a film by cutting and splicing frames.**
-- **To cut short or otherwise alter an improvised scene.**
-- **To lend itself to editing in a certain way.**
+- **To [[a/_alter|alter]] the DNA sequence of a [[c/_chromosome|chromosome]]; to perform gene splicing.**
+- **To [[a/_alter|alter]] a film by [[c/_cutting|cutting]] and splicing frames.**
+- **To [[c/_cut|cut]] short or otherwise [[a/_alter|alter]] an improvised scene.**
+- **To lend itself to [[e/_editing|editing]] in a [[c/_certain|certain]] way.**
 ---
 ### Synonyms
-- [[splice]], [[[[c/_cut|cut]]]], [[[[a/_alter|alter]]]], [[fix up]], [[retouch]]
+- [[splice]], [[cut]], [[alter]], [[fix up]], [[retouch]]
 #noun
-- **An act or instance of something being edited.**
+- **An [[a/_act|act]] or instance of something [[b/_being|being]] [[e/_edited|edited]].**
 ---
 ---

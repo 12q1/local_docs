@@ -1,6 +1,6 @@
 # Anuria
 ---
 #noun
-- **A condition in which the kidneys do not produce urine.**
+- **A [[c/_condition|condition]] in which the kidneys [[d/_do|do]] not produce urine.**
 ---
 ---

@@ -1,20 +1,20 @@
 # Agglomerate
 ---
 #noun
-- **A collection or mass.**
-- **A mass of angular volcanic fragments united by heat; distinguished from conglomerate.**
-- **An ice cover of floe formed by the freezing together of various forms of ice.**
+- **A [[c/_collection|collection]] or mass.**
+- **A mass of [[a/_angular|angular]] volcanic fragments united by heat; [[d/_distinguished|distinguished]] from [[c/_conglomerate|conglomerate]].**
+- **An ice [[c/_cover|cover]] of floe formed by the freezing together of various forms of ice.**
 ---
 ### Synonyms
-- [[[[a/_agglomeration|agglomeration]]]], [[[[c/_collection|collection]]]], [[mass]]
+- [[agglomeration]], [[collection]], [[mass]]
 #verb
-- **To wind or collect into a ball; hence, to gather into a mass or anything like a mass.**
+- **To wind or [[c/_collect|collect]] into a [[b/_ball|ball]]; hence, to gather into a mass or [[a/_anything|anything]] like a mass.**
 ---
 ### Synonyms
-- [[[[b/_ball|ball]]]], [[[[b/_ball|ball]] up]], [[[[b/_bundle|bundle]] up]], [[[[c/_clew|clew]]]], [[[[c/_conglobate|conglobate]]]], [[[[c/_conglobe|conglobe]]]], [[globe]], [[orb]], [[wind]], [[[[a/_amass|amass]]]], [[gather]], [[gather up]], [[merge]], [[pile up]]
+- [[ball]], [[ball up]], [[bundle up]], [[clew]], [[conglobate]], [[conglobe]], [[globe]], [[orb]], [[wind]], [[amass]], [[gather]], [[gather up]], [[merge]], [[pile up]]
 #adjective
-- **Collected into a ball, heap, or mass**
+- **[[c/_collected|Collected]] into a [[b/_ball|ball]], heap, or mass**
 ---
 ### Synonyms
-- [[[[a/_agglomerated|agglomerated]]]]
+- [[agglomerated]]
 ---

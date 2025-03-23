@@ -1,6 +1,6 @@
 # Directionless
 ---
 #adjective
-- **Lacking direction; aimless.**
+- **Lacking [[d/_direction|direction]]; [[a/_aimless|aimless]].**
 ---
 ---

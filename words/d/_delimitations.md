@@ -1,7 +1,7 @@
 # Delimitations
 ---
 #noun
-- **The act of delimiting something.**
-- **A limit or boundary.**
+- **The [[a/_act|act]] of [[d/_delimiting|delimiting]] something.**
+- **A limit or [[b/_boundary|boundary]].**
 ---
 ---

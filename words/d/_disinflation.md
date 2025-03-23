@@ -1,7 +1,7 @@
 # Disinflation
 ---
 #noun
-- **A decrease in the inflation rate.**
-- **Deflation**
+- **A [[d/_decrease|decrease]] in the inflation rate.**
+- **[[d/_deflation|Deflation]]**
 ---
 ---

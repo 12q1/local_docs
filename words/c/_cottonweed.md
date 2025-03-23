@@ -1,6 +1,6 @@
 # Cottonweed
 ---
 #noun
-- **Any of several unrelated plants that have downy heads**
+- **[[a/_any|Any]] of several unrelated plants that have [[d/_downy|downy]] heads**
 ---
 ---

@@ -1,10 +1,10 @@
 # Constituting
 ---
 #verb
-- **To set up; to establish; to enact.**
-- **To make up; to compose; to form.**
-- **To appoint, depute, or elect to an office; to make and empower.**
+- **To set up; to establish; to [[e/_enact|enact]].**
+- **To make up; to [[c/_compose|compose]]; to form.**
+- **To [[a/_appoint|appoint]], [[d/_depute|depute]], or [[e/_elect|elect]] to an office; to make and [[e/_empower|empower]].**
 ---
 ### Synonyms
-- [[[[c/_compose|compose]]]], [[form]], [[make up]], [[[[e/_enact|enact]]]], [[establish]]
+- [[compose]], [[form]], [[make up]], [[enact]], [[establish]]
 ---

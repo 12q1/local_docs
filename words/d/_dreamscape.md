@@ -1,6 +1,6 @@
 # Dreamscape
 ---
 #noun
-- **The landscape within a dream**
+- **The landscape within a [[d/_dream|dream]]**
 ---
 ---

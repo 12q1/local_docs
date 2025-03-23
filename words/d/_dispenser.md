@@ -1,6 +1,6 @@
 # Dispenser
 ---
 #noun
-- **Something or someone that dispenses things.**
+- **Something or someone that [[d/_dispenses|dispenses]] things.**
 ---
 ---

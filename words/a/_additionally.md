@@ -1,8 +1,8 @@
 # Additionally
 ---
 #adverb
-- **By way of addition; in addition to; also.**
+- **By way of [[a/_addition|addition]]; in [[a/_addition|addition]] to; [[a/_also|also]].**
 ---
 ### Synonyms
-- [[[[a/_also|also]]]], [[furthermore]], [[in [[a/_addition|addition]]]]
+- [[also]], [[furthermore]], [[in addition]]
 ---

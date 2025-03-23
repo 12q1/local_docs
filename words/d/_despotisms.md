@@ -1,7 +1,7 @@
 # Despotisms
 ---
 #noun
-- **Government by a singular authority, either a single person or tight-knit group, which rules with absolute power, especially in a cruel and oppressive way.**
+- **Government by a singular [[a/_authority|authority]], [[e/_either|either]] a single person or tight-knit group, which rules with [[a/_absolute|absolute]] power, especially in a [[c/_cruel|cruel]] and oppressive way.**
 ---
 ### Synonyms
 - [[tyranny]]

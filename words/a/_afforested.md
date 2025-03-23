@@ -7,8 +7,8 @@
 ### Synonyms
 - [[forest]]
 ### Antonyms
-- [[[[d/_deforest|deforest]]]]
+- [[deforest]]
 #adjective
-- **Created by afforestation.**
+- **[[c/_created|Created]] by [[a/_afforestation|afforestation]].**
 ---
 ---

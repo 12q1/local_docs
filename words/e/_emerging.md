@@ -1,18 +1,18 @@
 # Emerging
 ---
 #verb
-- **To come into view.**
-- **To come out of a situation, object or a liquid.**
+- **To [[c/_come|come]] into view.**
+- **To [[c/_come|come]] out of a situation, object or a liquid.**
 	- _Example: He emerged unscathed from the accident._
-- **To become known.**
+- **To [[b/_become|become]] known.**
 	- _Example: Gradually the truth emerged._
 ---
 ### Synonyms
-- [[[[c/_come|come]] forth]], [[forthcome]], [[heave in sight]]
+- [[come forth]], [[forthcome]], [[heave in sight]]
 #noun
-- **Emergence**
+- **[[e/_emergence|Emergence]]**
 ---
 #adjective
-- **Becoming prominent; emergent; rising.**
+- **[[b/_becoming|Becoming]] prominent; [[e/_emergent|emergent]]; rising.**
 ---
 ---

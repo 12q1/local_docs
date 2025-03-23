@@ -1,7 +1,7 @@
 # Dextro
 ---
 #adjective
-- **Dextrorotatory.**
+- **[[d/_dextrorotatory|Dextrorotatory]].**
 ---
 ### Antonyms
 - [[levo]]

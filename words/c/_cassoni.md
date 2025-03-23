@@ -1,6 +1,6 @@
 # Cassoni
 ---
 #noun
-- **A highly-decorated traditional Italian dowry chest.**
+- **A highly-[[d/_decorated|decorated]] traditional Italian [[d/_dowry|dowry]] [[c/_chest|chest]].**
 ---
 ---

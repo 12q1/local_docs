@@ -1,8 +1,8 @@
 # Charmless
 ---
 #adjective
-- **(of character) unpleasant, unappealing, lacking charm**
+- **(of [[c/_character|character]]) unpleasant, unappealing, lacking [[c/_charm|charm]]**
 ---
 ### Antonyms
-- [[[[c/_charming|charming]]]]
+- [[charming]]
 ---

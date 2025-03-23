@@ -1,8 +1,8 @@
 # Del
 ---
 #noun
-- **The symbol ∇ used to denote the gradient operator.**
-- **The symbol ∂, in the context of a partial differential**
+- **The symbol ∇ used to [[d/_denote|denote]] the gradient operator.**
+- **The symbol ∂, in the [[c/_context|context]] of a partial [[d/_differential|differential]]**
 ---
 ### Synonyms
 - [[atled]], [[nabla]]

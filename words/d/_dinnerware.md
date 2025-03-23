@@ -1,6 +1,6 @@
 # Dinnerware
 ---
 #noun
-- **The dishes used for serving dinner.**
+- **The [[d/_dishes|dishes]] used for serving [[d/_dinner|dinner]].**
 ---
 ---

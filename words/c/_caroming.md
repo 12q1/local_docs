@@ -1,7 +1,7 @@
 # Caroming
 ---
 #verb
-- **To make a carom (shot in billiards).**
-- **To strike and bounce back; to strike (something) and rebound.**
+- **To make a [[c/_carom|carom]] (shot in [[b/_billiards|billiards]]).**
+- **To strike and [[b/_bounce|bounce]] [[b/_back|back]]; to strike (something) and rebound.**
 ---
 ---

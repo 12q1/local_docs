@@ -1,9 +1,9 @@
 # Deejay
 ---
 #noun
-- **A disc jockey.**
+- **A [[d/_disc|disc]] jockey.**
 ---
 #verb
-- **To perform as a disc jockey.**
+- **To perform as a [[d/_disc|disc]] jockey.**
 ---
 ---

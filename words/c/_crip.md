@@ -1,7 +1,7 @@
 # Crip
 ---
 #noun
-- **A cripple.**
-- **(rehabilitation, generally self-referential) A person with a disability.**
+- **A [[c/_cripple|cripple]].**
+- **(rehabilitation, generally self-referential) A person with a [[d/_disability|disability]].**
 ---
 ---

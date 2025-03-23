@@ -1,7 +1,7 @@
 # Easeful
 ---
 #adjective
-- **Full of ease, restful, comfortable**
+- **Full of [[e/_ease|ease]], restful, [[c/_comfortable|comfortable]]**
 	- _Example: easeful death_
 ---
 ---

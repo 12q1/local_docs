@@ -1,6 +1,6 @@
 # Advisedly
 ---
 #adverb
-- **With intentionality; deliberately.**
+- **With intentionality; [[d/_deliberately|deliberately]].**
 ---
 ---

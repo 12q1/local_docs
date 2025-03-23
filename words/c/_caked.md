@@ -1,17 +1,17 @@
 # Caked
 ---
 #verb
-- **Coat (something) with a crust of solid material.**
+- **[[c/_coat|Coat]] (something) with a [[c/_crust|crust]] of solid material.**
 	- _Example: His shoes are caked with mud._
-- **To form into a cake, or mass.**
+- **To form into a [[c/_cake|cake]], or mass.**
 ---
 ### Synonyms
-- [[[[c/_crust|crust]]]], [[[[e/_encrust|encrust]]]]
+- [[crust]], [[encrust]]
 #verb
-- **To cackle like a goose.**
+- **To [[c/_cackle|cackle]] like a goose.**
 ---
 #adjective
-- **(smoking, of a pipe) Empty with nothing left to smoke but ash.**
+- **(smoking, of a pipe) [[e/_empty|Empty]] with nothing left to smoke but [[a/_ash|ash]].**
 ---
 ### Synonyms
 - [[kicked]]

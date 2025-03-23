@@ -1,10 +1,10 @@
 # Detonators
 ---
 #noun
-- **A device used to detonate an explosive device etc.**
-- **A small explosive device attached to the railhead to provide an audible warning when a train passes over it.**
-- **Any explosive whose action is practically instantaneous.**
-- **A gun fired by a percussion cap.**
+- **A [[d/_device|device]] used to [[d/_detonate|detonate]] an explosive [[d/_device|device]] etc.**
+- **A small explosive [[d/_device|device]] [[a/_attached|attached]] to the railhead to provide an [[a/_audible|audible]] warning when a train passes over it.**
+- **[[a/_any|Any]] explosive whose [[a/_action|action]] is practically instantaneous.**
+- **A gun fired by a percussion [[c/_cap|cap]].**
 ---
 ### Synonyms
 - [[torpedo]]

@@ -1,17 +1,17 @@
 # Discriminating
 ---
 #verb
-- **To make distinctions.**
-- **(construed with against) To make decisions based on prejudice.**
+- **To make [[d/_distinctions|distinctions]].**
+- **([[c/_construed|construed]] with [[a/_against|against]]) To make [[d/_decisions|decisions]] [[b/_based|based]] on prejudice.**
 	- _Example: The law prohibits discriminating against people based on their skin color._
-- **To set apart as being different; to mark as different; to separate from another by discerning differences; to distinguish.**
+- **To set [[a/_apart|apart]] as [[b/_being|being]] [[d/_different|different]]; to mark as [[d/_different|different]]; to separate from [[a/_another|another]] by [[d/_discerning|discerning]] [[d/_differences|differences]]; to [[d/_distinguish|distinguish]].**
 ---
 ### Synonyms
-- [[[[d/_disfavor|disfavor]]]], [[[[d/_differentiate|differentiate]]]], [[[[d/_distinguish|distinguish]]]]
+- [[disfavor]], [[differentiate]], [[distinguish]]
 ### Antonyms
 - [[favor]]
 #adjective
-- **Able to perceive fine distinctions between similar things; perceptive**
-- **Having a discerning judgment or taste**
+- **[[a/_able|Able]] to perceive fine [[d/_distinctions|distinctions]] [[b/_between|between]] similar things; perceptive**
+- **Having a [[d/_discerning|discerning]] judgment or taste**
 ---
 ---

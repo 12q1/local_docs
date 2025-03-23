@@ -1,6 +1,6 @@
 # Colubrids
 ---
 #noun
-- **Any snake in the family Colubridae, completely covered in scales and mostly nonvenomous.**
+- **[[a/_any|Any]] snake in the family [[c/_colubridae|Colubridae]], [[c/_completely|completely]] [[c/_covered|covered]] in scales and mostly nonvenomous.**
 ---
 ---

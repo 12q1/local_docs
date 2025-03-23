@@ -1,14 +1,14 @@
 # Bleb
 ---
 #noun
-- **A bubble, such as in paint or glass.**
-- **A large vesicle or bulla, usually containing a serous fluid.**
-- **An irregular bulge in the plasma membrane of a cell undergoing apoptosis.**
-- **A bubble-like inclusion of one mineral within another.**
+- **A [[b/_bubble|bubble]], such as in paint or glass.**
+- **A large vesicle or [[b/_bulla|bulla]], usually [[c/_containing|containing]] a serous fluid.**
+- **An irregular [[b/_bulge|bulge]] in the plasma membrane of a [[c/_cell|cell]] undergoing apoptosis.**
+- **A [[b/_bubble|bubble]]-like inclusion of one mineral within [[a/_another|another]].**
 ---
 ### Synonyms
-- [[[[b/_blister|blister]]]], [[[[b/_bubble|bubble]]]], [[[[b/_blister|blister]]]]
+- [[blister]], [[bubble]], [[blister]]
 #verb
-- **To form, or cause the formation of, blebs.**
+- **To form, or [[c/_cause|cause]] the formation of, [[b/_blebs|blebs]].**
 ---
 ---

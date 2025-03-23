@@ -1,8 +1,8 @@
 # Dogies
 ---
 #noun
-- **A motherless calf in a range herd of cattle; a calf separated from its cow.**
+- **A motherless [[c/_calf|calf]] in a range herd of [[c/_cattle|cattle]]; a [[c/_calf|calf]] separated from its [[c/_cow|cow]].**
 ---
 ### Synonyms
-- [[[[b/_bum|bum]] [[c/_calf|calf]]]], [[[[b/_bummer|bummer]]]], [[leppy]]
+- [[bum calf]], [[bummer]], [[leppy]]
 ---

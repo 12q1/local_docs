@@ -1,8 +1,8 @@
 # Delusive
 ---
 #adjective
-- **Producing delusions.**
-- **Delusional.**
-- **Inappropriate to reality; forming part of a delusion.**
+- **Producing [[d/_delusions|delusions]].**
+- **[[d/_delusional|Delusional]].**
+- **Inappropriate to reality; forming part of a [[d/_delusion|delusion]].**
 ---
 ---

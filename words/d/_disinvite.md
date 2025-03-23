@@ -1,7 +1,7 @@
 # Disinvite
 ---
 #verb
-- **To cancel an invitation to (someone).**
+- **To [[c/_cancel|cancel]] an invitation to (someone).**
 ---
 ### Synonyms
 - [[uninvite]]

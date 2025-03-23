@@ -1,6 +1,6 @@
 # Diagnostician
 ---
 #noun
-- **A person who diagnoses, especially a medical doctor.**
+- **A person who [[d/_diagnoses|diagnoses]], especially a medical [[d/_doctor|doctor]].**
 ---
 ---

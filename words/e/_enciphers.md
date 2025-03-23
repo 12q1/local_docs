@@ -1,8 +1,8 @@
 # Enciphers
 ---
 #verb
-- **To convert plain text into cipher; to encrypt**
+- **To [[c/_convert|convert]] plain text into [[c/_cipher|cipher]]; to [[e/_encrypt|encrypt]]**
 ---
 ### Antonyms
-- [[[[d/_decipher|decipher]]]]
+- [[decipher]]
 ---

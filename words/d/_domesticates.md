@@ -1,6 +1,6 @@
 # Domesticates
 ---
 #noun
-- **An animal or plant that has been domesticated.**
+- **An [[a/_animal|animal]] or plant that has [[b/_been|been]] [[d/_domesticated|domesticated]].**
 ---
 ---

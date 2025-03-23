@@ -1,6 +1,6 @@
 # Deniable
 ---
 #adjective
-- **Able to be denied or contradicted**
+- **[[a/_able|Able]] to be [[d/_denied|denied]] or [[c/_contradicted|contradicted]]**
 ---
 ---

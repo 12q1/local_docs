@@ -1,9 +1,9 @@
 # Enrobes
 ---
 #verb
-- **To invest or adorn with a robe or vestment; to attire.**
-- **To coat or cover.**
+- **To invest or [[a/_adorn|adorn]] with a robe or vestment; to [[a/_attire|attire]].**
+- **To [[c/_coat|coat]] or [[c/_cover|cover]].**
 ---
 ### Synonyms
-- [[[[c/_clothe|clothe]]]], [[[[d/_dress|dress]]]], [[robe]]
+- [[clothe]], [[dress]], [[robe]]
 ---

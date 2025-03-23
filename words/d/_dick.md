@@ -3,19 +3,19 @@
 #noun
 - **A male person.**
 - **The penis.**
-- **A highly contemptible person; a jerk.**
+- **A highly [[c/_contemptible|contemptible]] person; a jerk.**
 	- _Example: That person is such a dick._
-- **Absolutely nothing.**
+- **[[a/_absolutely|Absolutely]] nothing.**
 	- _Example: Last weekend I did dick._
 - **Sexual intercourse with a man.**
 ---
 ### Synonyms
-- [[[[a/_asshole|asshole]]]], [[dickhead]], [[jerk]]
+- [[asshole]], [[dickhead]], [[jerk]]
 #verb
-- **To mistreat or take advantage of somebody (often with around or up).**
+- **To mistreat or take [[a/_advantage|advantage]] of somebody (often with [[a/_around|around]] or up).**
 	- _Example: Dude, don't let them dick you around like that!_
 - **(of a man) To have sexual intercourse with.**
 ---
 ### Synonyms
-- [[[[b/_bone|bone]]]], [[go to [[b/_bed|bed]] with]], [[schlong]]
+- [[bone]], [[go to bed with]], [[schlong]]
 ---

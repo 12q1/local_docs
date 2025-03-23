@@ -1,10 +1,10 @@
 # Boho
 ---
 #noun
-- **A bohemian.**
-- **A style of female fashion drawing on various bohemian and hippie influences, popular in the mid-first decade of the 21st century.**
+- **A [[b/_bohemian|bohemian]].**
+- **A style of female fashion [[d/_drawing|drawing]] on various [[b/_bohemian|bohemian]] and hippie influences, popular in the mid-first [[d/_decade|decade]] of the 21st [[c/_century|century]].**
 ---
 #adjective
-- **Bohemian.**
+- **[[b/_bohemian|Bohemian]].**
 ---
 ---

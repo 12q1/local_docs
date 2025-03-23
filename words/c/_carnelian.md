@@ -1,8 +1,8 @@
 # Carnelian
 ---
 #noun
-- **A hard, reddish brown chalcedony; used in jewelery,**
+- **A hard, reddish [[b/_brown|brown]] [[c/_chalcedony|chalcedony]]; used in jewelery,**
 ---
 ### Synonyms
-- [[[[c/_cornelian|cornelian]]]]
+- [[cornelian]]
 ---

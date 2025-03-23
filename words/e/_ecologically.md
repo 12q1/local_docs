@@ -1,7 +1,7 @@
 # Ecologically
 ---
 #adverb
-- **In an ecological manner.**
-- **Regarding ecology**
+- **In an [[e/_ecological|ecological]] manner.**
+- **Regarding [[e/_ecology|ecology]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Dunny
 ---
 #adjective
-- **Somewhat dun, dusky brownish.**
+- **Somewhat [[d/_dun|dun]], [[d/_dusky|dusky]] [[b/_brownish|brownish]].**
 ---
 ---

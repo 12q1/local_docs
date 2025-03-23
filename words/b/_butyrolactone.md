@@ -1,6 +1,6 @@
 # Butyrolactone
 ---
 #noun
-- **Any lactone derived from a hydroxybutyric acid**
+- **[[a/_any|Any]] lactone [[d/_derived|derived]] from a hydroxybutyric [[a/_acid|acid]]**
 ---
 ---

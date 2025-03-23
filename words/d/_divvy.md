@@ -1,10 +1,10 @@
 # Divvy
 ---
 #noun
-- **A dividend; a share or portion.**
+- **A [[d/_dividend|dividend]]; a share or portion.**
 ---
 #verb
-- **To divide into portions.**
+- **To [[d/_divide|divide]] into portions.**
 	- _Example: We divvied the money into equal portions to split between us._
 ---
 ---

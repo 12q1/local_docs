@@ -1,6 +1,6 @@
 # Bawley
 ---
 #noun
-- **A small fishing boat, equipped with sails, used mainly in the estuary of the Thames, England.**
+- **A small fishing [[b/_boat|boat]], [[e/_equipped|equipped]] with sails, used mainly in the estuary of the Thames, [[e/_england|England]].**
 ---
 ---

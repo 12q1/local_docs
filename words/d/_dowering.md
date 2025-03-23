@@ -1,7 +1,7 @@
 # Dowering
 ---
 #verb
-- **To give a dower or dowry.**
-- **To endow.**
+- **To give a [[d/_dower|dower]] or [[d/_dowry|dowry]].**
+- **To [[e/_endow|endow]].**
 ---
 ---

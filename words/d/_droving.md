@@ -1,7 +1,7 @@
 # Droving
 ---
 #verb
-- **To herd cattle; particularly over a long distance.**
-- **To finish (stone) with a drove chisel.**
+- **To herd [[c/_cattle|cattle]]; particularly over a long [[d/_distance|distance]].**
+- **To finish (stone) with a [[d/_drove|drove]] [[c/_chisel|chisel]].**
 ---
 ---

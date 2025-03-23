@@ -1,7 +1,7 @@
 # Anticline
 ---
 #noun
-- **A fold with strata sloping downwards on each side.**
+- **A fold with strata sloping [[d/_downwards|downwards]] on [[e/_each|each]] side.**
 ---
 ### Synonyms
 - [[upwrap]]

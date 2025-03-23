@@ -1,7 +1,7 @@
 # Annelids
 ---
 #noun
-- **Any of various wormlike animals, of the phylum Annelida, having a segmented body; they include the earthworm and the leech**
+- **[[a/_any|Any]] of various wormlike [[a/_animals|animals]], of the phylum [[a/_annelida|Annelida]], having a segmented [[b/_body|body]]; they include the [[e/_earthworm|earthworm]] and the leech**
 ---
 ### Synonyms
 - [[ringed worm]]

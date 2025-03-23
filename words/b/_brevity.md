@@ -1,10 +1,10 @@
 # Brevity
 ---
 #noun
-- **The quality of being brief in duration.**
-- **Succinctness; conciseness.**
+- **The quality of [[b/_being|being]] [[b/_brief|brief]] in [[d/_duration|duration]].**
+- **Succinctness; [[c/_conciseness|conciseness]].**
 - **A short piece of writing.**
 ---
 ### Synonyms
-- [[ephemerality]], [[fleetingness]], [[transiency]], [[[[c/_concision|concision]]]], [[laconicism]], [[terseness]]
+- [[ephemerality]], [[fleetingness]], [[transiency]], [[concision]], [[laconicism]], [[terseness]]
 ---

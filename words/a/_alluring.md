@@ -1,14 +1,14 @@
 # Alluring
 ---
 #verb
-- **To entice; to attract.**
+- **To [[e/_entice|entice]]; to [[a/_attract|attract]].**
 ---
 ### Synonyms
-- [[[[a/_attract|attract]]]], [[[[d/_decoy|decoy]]]], [[entice]], [[seduce]], [[tempt]]
+- [[attract]], [[decoy]], [[entice]], [[seduce]], [[tempt]]
 #noun
-- **The action of the verb allure.**
+- **The [[a/_action|action]] of the verb [[a/_allure|allure]].**
 ---
 #adjective
-- **Having the power to allure.**
+- **Having the power to [[a/_allure|allure]].**
 ---
 ---

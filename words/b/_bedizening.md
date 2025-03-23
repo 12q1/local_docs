@@ -2,11 +2,11 @@
 ---
 #verb
 - **To ornament something in showy, tasteless, or gaudy finery.**
-- **To dirty; cover with dirt.**
+- **To [[d/_dirty|dirty]]; [[c/_cover|cover]] with [[d/_dirt|dirt]].**
 ---
 ### Synonyms
-- [[[[e/_embellish|embellish]]]]
+- [[embellish]]
 #noun
-- **The act of adorning gaudily.**
+- **The [[a/_act|act]] of [[a/_adorning|adorning]] gaudily.**
 ---
 ---

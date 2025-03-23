@@ -1,6 +1,6 @@
 # Akela
 ---
 #noun
-- **The leader of a pack of Cub Scouts.**
+- **The leader of a pack of [[c/_cub|Cub]] Scouts.**
 ---
 ---

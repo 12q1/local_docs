@@ -1,9 +1,9 @@
 # Dialup
 ---
 #noun
-- **A network connection that requires a telephone number to be dialed.**
+- **A network [[c/_connection|connection]] that requires a telephone number to be [[d/_dialed|dialed]].**
 ---
 #adjective
-- **(of a connection to a network, especially to the Internet) that requires a telephone number to be dialed**
+- **(of a [[c/_connection|connection]] to a network, especially to the Internet) that requires a telephone number to be [[d/_dialed|dialed]]**
 ---
 ---

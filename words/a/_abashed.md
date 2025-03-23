@@ -1,14 +1,14 @@
 # Abashed
 ---
 #verb
-- **To make ashamed; to embarrass; to destroy the self-possession of, as by exciting suddenly a consciousness of guilt, mistake, or inferiority; to disconcert; to discomfit.**
-- **To lose self-possession; to become ashamed.**
+- **To make [[a/_ashamed|ashamed]]; to [[e/_embarrass|embarrass]]; to [[d/_destroy|destroy]] the self-possession of, as by exciting suddenly a [[c/_consciousness|consciousness]] of guilt, mistake, or inferiority; to [[d/_disconcert|disconcert]]; to [[d/_discomfit|discomfit]].**
+- **To lose self-possession; to [[b/_become|become]] [[a/_ashamed|ashamed]].**
 ---
 ### Synonyms
-- [[[[b/_bewilder|bewilder]]]], [[[[c/_confound|confound]]]], [[[[c/_confuse|confuse]]]], [[[[d/_daunt|daunt]]]], [[[[d/_discompose|discompose]]]], [[[[d/_disconcert|disconcert]]]], [[[[d/_discountenance|discountenance]]]], [[[[d/_dishearten|dishearten]]]], [[[[e/_embarrass|embarrass]]]], [[faze]], [[fluster]], [[humble]], [[humiliate]], [[mortify]], [[rattle]], [[shake]], [[shame]], [[snub]]
+- [[bewilder]], [[confound]], [[confuse]], [[daunt]], [[discompose]], [[disconcert]], [[discountenance]], [[dishearten]], [[embarrass]], [[faze]], [[fluster]], [[humble]], [[humiliate]], [[mortify]], [[rattle]], [[shake]], [[shame]], [[snub]]
 ### Antonyms
-- [[[[a/_abet|abet]]]], [[[[a/_animate|animate]]]], [[[[b/_buoy|buoy]]]], [[[[c/_cheer|cheer]]]], [[[[c/_countenance|countenance]]]], [[[[e/_embolden|embolden]]]], [[[[e/_encourage|encourage]]]], [[incite]], [[inspirit]], [[rally]], [[reassure]], [[uphold]]
+- [[abet]], [[animate]], [[buoy]], [[cheer]], [[countenance]], [[embolden]], [[encourage]], [[incite]], [[inspirit]], [[rally]], [[reassure]], [[uphold]]
 #adjective
-- **Embarrassed, disconcerted, or ashamed.**
+- **[[e/_embarrassed|Embarrassed]], [[d/_disconcerted|disconcerted]], or [[a/_ashamed|ashamed]].**
 ---
 ---

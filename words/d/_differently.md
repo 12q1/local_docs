@@ -1,6 +1,6 @@
 # Differently
 ---
 #adverb
-- **(manner) In a different way.**
+- **(manner) In a [[d/_different|different]] way.**
 ---
 ---

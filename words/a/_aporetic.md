@@ -1,6 +1,6 @@
 # Aporetic
 ---
 #adjective
-- **Tending to doubt.**
+- **Tending to [[d/_doubt|doubt]].**
 ---
 ---

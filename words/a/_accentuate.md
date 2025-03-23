@@ -1,10 +1,10 @@
 # Accentuate
 ---
 #verb
-- **To pronounce with an accent or vocal stress.**
-- **To bring out distinctly; to make more noticeable or prominent; to emphasize.**
-- **To mark with a written accent.**
+- **To pronounce with an [[a/_accent|accent]] or vocal stress.**
+- **To [[b/_bring|bring]] out [[d/_distinctly|distinctly]]; to make more noticeable or prominent; to [[e/_emphasize|emphasize]].**
+- **To mark with a written [[a/_accent|accent]].**
 ---
 ### Synonyms
-- [[[[a/_accent|accent]]]], [[[[b/_betone|betone]]]]
+- [[accent]], [[betone]]
 ---

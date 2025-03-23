@@ -1,7 +1,7 @@
 # Diffusivity
 ---
 #noun
-- **A tendency to diffuse**
-- **A coefficient of diffusion; especially the amount of heat that passes through a given area in unit time**
+- **A tendency to [[d/_diffuse|diffuse]]**
+- **A [[c/_coefficient|coefficient]] of [[d/_diffusion|diffusion]]; especially the [[a/_amount|amount]] of heat that passes through a given [[a/_area|area]] in unit time**
 ---
 ---

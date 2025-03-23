@@ -1,8 +1,8 @@
 # Cutups
 ---
 #noun
-- **Someone who cuts up; someone who acts boisterously or clownishly, for example, by playing practical jokes.**
+- **Someone who [[c/_cuts|cuts]] up; someone who [[a/_acts|acts]] [[b/_boisterously|boisterously]] or [[c/_clownishly|clownishly]], for example, by playing practical jokes.**
 ---
 ### Synonyms
-- [[[[c/_class|class]] [[c/_clown|clown]]]], [[prankster]]
+- [[class clown]], [[prankster]]
 ---

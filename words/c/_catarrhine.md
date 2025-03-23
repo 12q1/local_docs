@@ -1,9 +1,9 @@
 # Catarrhine
 ---
 #noun
-- **Any animal of this group**
+- **[[a/_any|Any]] [[a/_animal|animal]] of this group**
 ---
 #adjective
-- **Describing the Catarrhini parvorder of primates (including humans) that have nostrils that are close together and directed frontward or downward**
+- **[[d/_describing|Describing]] the Catarrhini parvorder of primates (including humans) that have nostrils that are [[c/_close|close]] together and [[d/_directed|directed]] frontward or [[d/_downward|downward]]**
 ---
 ---

@@ -2,9 +2,9 @@
 ---
 #noun
 - **Hearsay, rumour; talk; an instance of this.**
-- **A clamour, an outcry; a noise.**
+- **A [[c/_clamour|clamour]], an outcry; a noise.**
 ---
 #verb
-- **To disseminate, promulgate, or spread news, a rumour, etc.**
+- **To [[d/_disseminate|disseminate]], promulgate, or spread news, a rumour, etc.**
 ---
 ---

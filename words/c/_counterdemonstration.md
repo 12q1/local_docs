@@ -1,6 +1,6 @@
 # Counterdemonstration
 ---
 #noun
-- **A demonstration in opposition to another demonstration**
+- **A [[d/_demonstration|demonstration]] in opposition to [[a/_another|another]] [[d/_demonstration|demonstration]]**
 ---
 ---

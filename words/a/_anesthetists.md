@@ -1,6 +1,6 @@
 # Anesthetists
 ---
 #noun
-- **One who gives an anesthetic.**
+- **One who gives an [[a/_anesthetic|anesthetic]].**
 ---
 ---

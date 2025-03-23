@@ -1,6 +1,6 @@
 # Electrophysiology
 ---
 #noun
-- **The branch of physiology that studies the electrical activity of organisms**
+- **The [[b/_branch|branch]] of physiology that studies the [[e/_electrical|electrical]] [[a/_activity|activity]] of organisms**
 ---
 ---

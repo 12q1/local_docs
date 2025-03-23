@@ -1,6 +1,6 @@
 # Danewort
 ---
 #noun
-- **A European dwarf version of the elder, Sambucus ebulus, that has a bad smell**
+- **A European [[d/_dwarf|dwarf]] version of the [[e/_elder|elder]], Sambucus [[e/_ebulus|ebulus]], that has a [[b/_bad|bad]] smell**
 ---
 ---

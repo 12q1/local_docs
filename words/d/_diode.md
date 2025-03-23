@@ -1,6 +1,6 @@
 # Diode
 ---
 #noun
-- **An electronic device that allows current to flow in one direction only; used chiefly as a rectifier.**
+- **An [[e/_electronic|electronic]] [[d/_device|device]] that [[a/_allows|allows]] [[c/_current|current]] to flow in one [[d/_direction|direction]] only; used [[c/_chiefly|chiefly]] as a rectifier.**
 ---
 ---

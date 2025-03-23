@@ -1,19 +1,19 @@
 # Acknowledgements
 ---
 #noun
-- **The act of acknowledging**
-- **The act of recognizing in a particular character or relationship; recognition of existence, authority, truth, or genuineness.**
+- **The [[a/_act|act]] of [[a/_acknowledging|acknowledging]]**
+- **The [[a/_act|act]] of recognizing in a particular [[c/_character|character]] or relationship; recognition of existence, [[a/_authority|authority]], truth, or genuineness.**
 - **A reward or other expression or token of gratitude.**
-- **An expression of gratitude for a benefit or an obligation.**
+- **An expression of gratitude for a [[b/_benefit|benefit]] or an obligation.**
 	- _Example: the acknowledgment of a favor_
-- **A message from the addressee informing the originator that the originator's communication has been received and understood.**
+- **A message from the [[a/_addressee|addressee]] informing the originator that the originator's [[c/_communication|communication]] has [[b/_been|been]] received and understood.**
 	- _Example: the acknowledgment of a wedding invitation_
-- **A response (ACK) sent by a receiver to indicate successful receipt of a transmission (See Wikipedia article on transmission).**
-- **A recognition as genuine or valid; an avowing or admission in legal form.**
+- **A response ([[a/_ack|ACK]]) sent by a receiver to indicate successful receipt of a transmission (See Wikipedia [[a/_article|article]] on transmission).**
+- **A recognition as genuine or valid; an [[a/_avowing|avowing]] or [[a/_admission|admission]] in legal form.**
 	- _Example: acknowledgment of a deed_
-- **The act of a person admitting a child as their own.**
-- **A formal statement or document recognizing the fulfillment or execution of a legal requirement or procedure.**
+- **The [[a/_act|act]] of a person [[a/_admitting|admitting]] a [[c/_child|child]] as their own.**
+- **A formal statement or [[d/_document|document]] recognizing the fulfillment or execution of a legal requirement or procedure.**
 ---
 ### Synonyms
-- [[[[a/_ack|ACK]]]], [[[[a/_admission|admission]]]], [[[[a/_avowal|avowal]]]], [[[[c/_concession|concession]]]], [[[[c/_confession|confession]]]], [[recognition]], [[recognizance]], [[[[a/_admission|admission]]]]
+- [[ACK]], [[admission]], [[avowal]], [[concession]], [[confession]], [[recognition]], [[recognizance]], [[admission]]
 ---

@@ -1,6 +1,6 @@
 # Cedis
 ---
 #noun
-- **The currency of Ghana, divided into 100 pesewas and represented by ₵.**
+- **The [[c/_currency|currency]] of Ghana, [[d/_divided|divided]] into 100 pesewas and represented by ₵.**
 ---
 ---

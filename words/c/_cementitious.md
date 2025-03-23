@@ -1,6 +1,6 @@
 # Cementitious
 ---
 #adjective
-- **Resembling or having some properties of cement.**
+- **Resembling or having some properties of [[c/_cement|cement]].**
 ---
 ---

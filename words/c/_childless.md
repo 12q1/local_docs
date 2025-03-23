@@ -1,8 +1,8 @@
 # Childless
 ---
 #adjective
-- **Not having any children.**
+- **Not having [[a/_any|any]] [[c/_children|children]].**
 ---
 ### Synonyms
-- [[babyless]], [[[[c/_child|child]]-free]], [[childrenless]], [[kidless]], [[offspringless]]
+- [[babyless]], [[child-free]], [[childrenless]], [[kidless]], [[offspringless]]
 ---

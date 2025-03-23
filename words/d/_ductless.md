@@ -1,6 +1,6 @@
 # Ductless
 ---
 #adjective
-- **Having no duct.**
+- **Having no [[d/_duct|duct]].**
 ---
 ---

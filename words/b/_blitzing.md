@@ -1,13 +1,13 @@
 # Blitzing
 ---
 #verb
-- **To attack quickly or suddenly, as by an air raid or similar action.**
-- **To perform a blitz.**
+- **To [[a/_attack|attack]] quickly or suddenly, as by an [[a/_air|air]] raid or similar [[a/_action|action]].**
+- **To perform a [[b/_blitz|blitz]].**
 	- _Example: The Washington High defense almost always blitzes on third down._
-- **To purée or chop (food products) using a food processor or blender.**
+- **To puré[[e/_e|e]] or [[c/_chop|chop]] (food products) using a food processor or [[b/_blender|blender]].**
 	- _Example: To make nut roast, you have to blitz the nuts in the food processor before adding the parsley and breadcrumbs._
-- **To do something quickly or in one session.**
+- **To [[d/_do|do]] something quickly or in one session.**
 ---
 ### Synonyms
-- [[[[c/_charge|charge]]]], [[hurry]], [[zoom]], [[zhoosh]]
+- [[charge]], [[hurry]], [[zoom]], [[zhoosh]]
 ---

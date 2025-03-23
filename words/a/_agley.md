@@ -1,9 +1,9 @@
 # Agley
 ---
 #adjective
-- **Wrong; askew.**
+- **Wrong; [[a/_askew|askew]].**
 ---
 #adverb
-- **Wrong, awry, askew, amiss, or distortedly.**
+- **Wrong, [[a/_awry|awry]], [[a/_askew|askew]], [[a/_amiss|amiss]], or [[d/_distortedly|distortedly]].**
 ---
 ---

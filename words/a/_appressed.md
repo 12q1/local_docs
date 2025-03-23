@@ -1,9 +1,9 @@
 # Appressed
 ---
 #verb
-- **To press close to.**
+- **To press [[c/_close|close]] to.**
 ---
 #adjective
-- **Closely flattened down.**
+- **[[c/_closely|Closely]] flattened [[d/_down|down]].**
 ---
 ---

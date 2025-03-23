@@ -1,10 +1,10 @@
 # Apolunes
 ---
 #noun
-- **The point of an elliptical lunar orbit where the distance between the satellite and the Moon is at its maximum.**
+- **The point of an [[e/_elliptical|elliptical]] lunar orbit where the [[d/_distance|distance]] [[b/_between|between]] the satellite and the Moon is at its maximum.**
 ---
 ### Synonyms
-- [[[[a/_apocynthion|apocynthion]]]]
+- [[apocynthion]]
 ### Antonyms
 - [[perilune]]
 ---

@@ -1,9 +1,9 @@
 # Backslapping
 ---
 #verb
-- **To enthusiastically affirm or congratulate a person, especially by patting them on the back.**
+- **To [[e/_enthusiastically|enthusiastically]] [[a/_affirm|affirm]] or [[c/_congratulate|congratulate]] a person, especially by patting them on the [[b/_back|back]].**
 ---
 #noun
-- **Action of the verb to backslap**
+- **[[a/_action|Action]] of the verb to [[b/_backslap|backslap]]**
 ---
 ---

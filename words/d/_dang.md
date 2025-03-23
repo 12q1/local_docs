@@ -1,18 +1,18 @@
 # Dang
 ---
 #noun
-- **A damn, a negligible quantity, minimal consideration.**
+- **A [[d/_damn|damn]], a negligible quantity, minimal [[c/_consideration|consideration]].**
 	- _Example: I don't give a dang._
 ---
 #verb
-- **Damn.**
+- **[[d/_damn|Damn]].**
 ---
 #adjective
-- **Damn.**
+- **[[d/_damn|Damn]].**
 ---
 ### Synonyms
-- [[[[d/_darn|darn]]]], [[[[d/_durn|durn]]]]
+- [[darn]], [[durn]]
 #interjection
-- **Damn.**
+- **[[d/_damn|Damn]].**
 ---
 ---

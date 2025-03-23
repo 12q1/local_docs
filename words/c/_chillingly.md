@@ -1,6 +1,6 @@
 # Chillingly
 ---
 #adverb
-- **In a chilling manner.**
+- **In a [[c/_chilling|chilling]] manner.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Colure
 ---
 #noun
-- **Either of two great circles (meridians) that intersect at the poles and either the equinoxes or solstices.**
+- **[[e/_either|Either]] of two great [[c/_circles|circles]] (meridians) that intersect at the poles and [[e/_either|either]] the [[e/_equinoxes|equinoxes]] or solstices.**
 ---
 ---

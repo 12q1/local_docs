@@ -1,13 +1,13 @@
 # Carpeted
 ---
 #verb
-- **To lay carpet, or to have carpet installed, in an area.**
+- **To lay [[c/_carpet|carpet]], or to have [[c/_carpet|carpet]] installed, in an [[a/_area|area]].**
 	- _Example: After the fire, they carpeted over the blackened hardwood flooring._
-- **To substantially cover something, as a carpet does; to blanket something.**
+- **To substantially [[c/_cover|cover]] something, as a [[c/_carpet|carpet]] [[d/_does|does]]; to [[b/_blanket|blanket]] something.**
 	- _Example: Popcorn and candy wrappers carpeted the floor of the cinema._
 - **To reprimand.**
 ---
 #adjective
-- **(of a room in a building) Floored with a carpet.**
+- **(of a room in a [[b/_building|building]]) Floored with a [[c/_carpet|carpet]].**
 ---
 ---

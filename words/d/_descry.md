@@ -2,7 +2,7 @@
 ---
 #verb
 - **To see.**
-- **To discover (a distant or obscure object) by the eye; to espy; to discern or detect.**
-- **To discover: to disclose; to reveal.**
+- **To [[d/_discover|discover]] (a [[d/_distant|distant]] or obscure object) by the [[e/_eye|eye]]; to espy; to [[d/_discern|discern]] or [[d/_detect|detect]].**
+- **To [[d/_discover|discover]]: to [[d/_disclose|disclose]]; to reveal.**
 ---
 ---

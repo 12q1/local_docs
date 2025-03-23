@@ -1,6 +1,6 @@
 # Eclairs
 ---
 #noun
-- **An oblong, chocolate-covered, cream-filled pastry.**
+- **An oblong, [[c/_chocolate|chocolate]]-[[c/_covered|covered]], [[c/_cream|cream]]-filled pastry.**
 ---
 ---

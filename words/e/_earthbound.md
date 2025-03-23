@@ -1,8 +1,8 @@
 # Earthbound
 ---
 #adjective
-- **Confined to the Earth.**
+- **[[c/_confined|Confined]] to the [[e/_earth|Earth]].**
 - **Unimaginative or mundane.**
-- **Heading towards Earth.**
+- **Heading towards [[e/_earth|Earth]].**
 ---
 ---

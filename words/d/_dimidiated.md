@@ -1,7 +1,7 @@
 # Dimidiated
 ---
 #verb
-- **To divide into two.**
+- **To [[d/_divide|divide]] into two.**
 - **To represent one half of.**
 ---
 ### Synonyms

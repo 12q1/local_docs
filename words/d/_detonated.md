@@ -1,11 +1,11 @@
 # Detonated
 ---
 #verb
-- **To explode; to blow up. Specifically, to combust supersonically via shock compression.**
-- **To cause to explode.**
+- **To explode; to [[b/_blow|blow]] up. Specifically, to [[c/_combust|combust]] supersonically via shock [[c/_compression|compression]].**
+- **To [[c/_cause|cause]] to explode.**
 ---
 ### Synonyms
-- [[[[b/_blast|blast]]]], [[[[d/_discharge|discharge]]]], [[fulminate]]
+- [[blast]], [[discharge]], [[fulminate]]
 ### Antonyms
-- [[[[d/_deflagrate|deflagrate]]]]
+- [[deflagrate]]
 ---

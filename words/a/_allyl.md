@@ -1,8 +1,8 @@
 # Allyl
 ---
 #noun
-- **(especially in combination) The univalent radical, CH2=CH-CH2-, existing especially in oils of garlic and mustard.**
+- **(especially in [[c/_combination|combination]]) The univalent radical, CH2=[[c/_ch|CH]]-CH2-, existing especially in oils of garlic and mustard.**
 ---
 ### Synonyms
-- [[[[a/_allyl|allyl]] group]]
+- [[allyl group]]
 ---

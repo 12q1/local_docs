@@ -1,8 +1,8 @@
 # Carpals
 ---
 #noun
-- **Any of the eight bones of the wrist (carpus).**
+- **[[a/_any|Any]] of the [[e/_eight|eight]] [[b/_bones|bones]] of the wrist ([[c/_carpus|carpus]]).**
 ---
 ### Synonyms
-- [[[[c/_carpal|carpal]] [[b/_bone|bone]]]]
+- [[carpal bone]]
 ---

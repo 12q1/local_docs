@@ -1,7 +1,7 @@
 # Emirates
 ---
 #noun
-- **A country ruled by an emir.**
-- **The office of an emir.**
+- **A [[c/_country|country]] ruled by an [[e/_emir|emir]].**
+- **The office of an [[e/_emir|emir]].**
 ---
 ---

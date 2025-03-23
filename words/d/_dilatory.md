@@ -1,10 +1,10 @@
 # Dilatory
 ---
 #adjective
-- **Relating to dilation; dilative**
+- **Relating to [[d/_dilation|dilation]]; [[d/_dilative|dilative]]**
 ---
 #adjective
-- **Intentionally delaying (someone or something), intended to cause delay, gain time, or defer decision.**
+- **Intentionally [[d/_delaying|delaying]] (someone or something), intended to [[c/_cause|cause]] [[d/_delay|delay]], gain time, or [[d/_defer|defer]] [[d/_decision|decision]].**
 	- _Example: a dilatory strategy_
 - **Slow or tardy.**
 ---

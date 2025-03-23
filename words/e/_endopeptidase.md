@@ -1,6 +1,6 @@
 # Endopeptidase
 ---
 #noun
-- **Any of a group of enzymes, such as trypsin, chymotrypsin, pepsin and elastase, which catalyze the splitting of polypeptide chains away from the ends**
+- **[[a/_any|Any]] of a group of [[e/_enzymes|enzymes]], such as trypsin, [[c/_chymotrypsin|chymotrypsin]], pepsin and [[e/_elastase|elastase]], which [[c/_catalyze|catalyze]] the splitting of polypeptide [[c/_chains|chains]] [[a/_away|away]] from the [[e/_ends|ends]]**
 ---
 ---

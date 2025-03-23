@@ -1,9 +1,9 @@
 # Dishonoring
 ---
 #verb
-- **To bring disgrace upon someone or something; to shame.**
+- **To [[b/_bring|bring]] [[d/_disgrace|disgrace]] upon someone or something; to shame.**
 	- _Example: You have dishonoured the family._
-- **To refuse to accept something, such as a cheque; to not honor.**
+- **To refuse to [[a/_accept|accept]] something, such as a [[c/_cheque|cheque]]; to not honor.**
 - **To violate or rape.**
 ---
 ---

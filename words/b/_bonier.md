@@ -1,9 +1,9 @@
 # Bonier
 ---
 #adjective
-- **Resembling, having the appearance or consistence of, or relating to bone; osseous.**
-- **Full of bones**
+- **Resembling, having the [[a/_appearance|appearance]] or [[c/_consistence|consistence]] of, or relating to [[b/_bone|bone]]; osseous.**
+- **Full of [[b/_bones|bones]]**
 - **With little flesh; skinny, thin**
-- **Having prominent bones**
+- **Having prominent [[b/_bones|bones]]**
 ---
 ---

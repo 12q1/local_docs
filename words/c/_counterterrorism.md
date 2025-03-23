@@ -1,6 +1,6 @@
 # Counterterrorism
 ---
 #noun
-- **Measures intended to combat or reduce terrorist activities.**
+- **Measures intended to [[c/_combat|combat]] or reduce terrorist [[a/_activities|activities]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Drouthy
 ---
 #adjective
-- **Droughty, dry.**
+- **[[d/_droughty|Droughty]], [[d/_dry|dry]].**
 - **Thirsty.**
 ---
 ---

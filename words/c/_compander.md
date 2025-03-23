@@ -1,6 +1,6 @@
 # Compander
 ---
 #noun
-- **Any device used for companding.**
+- **[[a/_any|Any]] [[d/_device|device]] used for companding.**
 ---
 ---

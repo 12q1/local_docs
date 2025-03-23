@@ -1,7 +1,7 @@
 # Decanters
 ---
 #noun
-- **A vessel for decanting liquor.**
-- **A receptacle for decanted liquor, especially a crystal bottle with a stopper.**
+- **A vessel for [[d/_decanting|decanting]] liquor.**
+- **A receptacle for [[d/_decanted|decanted]] liquor, especially a [[c/_crystal|crystal]] [[b/_bottle|bottle]] with a stopper.**
 ---
 ---

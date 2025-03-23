@@ -1,7 +1,7 @@
 # Copyholders
 ---
 #noun
-- **A person who rents land under the copyhold system.**
-- **A device that holds copy in place for typesetting.**
+- **A person who rents land under the [[c/_copyhold|copyhold]] system.**
+- **A [[d/_device|device]] that holds [[c/_copy|copy]] in place for typesetting.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Credible
 ---
 #adjective
-- **Believable or plausible.**
-- **Authentic or convincing.**
+- **[[b/_believable|Believable]] or plausible.**
+- **[[a/_authentic|Authentic]] or [[c/_convincing|convincing]].**
 ---
 ### Antonyms
 - [[incredible]]

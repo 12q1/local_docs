@@ -1,10 +1,10 @@
 # Academical
 ---
 #noun
-- **Academic dress, consisting of a cap and gown.**
+- **[[a/_academic|Academic]] [[d/_dress|dress]], [[c/_consisting|consisting]] of a [[c/_cap|cap]] and gown.**
 ---
 #adjective
-- **Belonging to the school of Plato; believing in Plato's philosophy; sceptical .**
-- **Pertaining to a university or other form of higher education.**
+- **[[b/_belonging|Belonging]] to the school of Plato; [[b/_believing|believing]] in Plato's philosophy; sceptical .**
+- **Pertaining to a university or other form of higher [[e/_education|education]].**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Recurring in steady, rapid succession.**
-- **Seemingly continuous; appearing to have no end or interruption.**
-- **Forming a continuous series.**
+- **Seemingly [[c/_continuous|continuous]]; [[a/_appearing|appearing]] to have no [[e/_end|end]] or interruption.**
+- **Forming a [[c/_continuous|continuous]] series.**
 ---
 ---

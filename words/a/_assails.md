@@ -1,7 +1,7 @@
 # Assails
 ---
 #verb
-- **To attack with harsh words or violent force (also figuratively).**
+- **To [[a/_attack|attack]] with harsh words or violent force ([[a/_also|also]] figuratively).**
 	- _Example: Muggers assailed them as they entered an alley._
 ---
 ---

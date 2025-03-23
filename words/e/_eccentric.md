@@ -1,24 +1,24 @@
 # Eccentric
 ---
 #noun
-- **One who does not behave like others.**
-- **A kook; a person of bizarre habits or beliefs.**
-- **A circle not having the same centre as another.**
-- **A disk or wheel with its axis off centre, giving a reciprocating motion.**
+- **One who [[d/_does|does]] not [[b/_behave|behave]] like others.**
+- **A kook; a person of [[b/_bizarre|bizarre]] habits or [[b/_beliefs|beliefs]].**
+- **A [[c/_circle|circle]] not having the same [[c/_centre|centre]] as [[a/_another|another]].**
+- **A [[d/_disk|disk]] or wheel with its [[a/_axis|axis]] off [[c/_centre|centre]], giving a reciprocating motion.**
 ---
 ### Synonyms
-- [[[[c/_crank|crank]]]], [[odd [[d/_duck|duck]]]], [[weirdo]], [[misfit]], [[nonconformist]]
+- [[crank]], [[odd duck]], [[weirdo]], [[misfit]], [[nonconformist]]
 #adjective
-- **Not at or in the centre; away from the centre.**
-- **Not perfectly circular; elliptical.**
+- **Not at or in the [[c/_centre|centre]]; [[a/_away|away]] from the [[c/_centre|centre]].**
+- **Not perfectly [[c/_circular|circular]]; [[e/_elliptical|elliptical]].**
 	- _Example: As of 2008, Margaret had the most eccentric orbit of any moon in the solar system, though Nereid's mean eccentricity is greater._
-- **Having a different center; not concentric.**
-- **(of a person) Deviating from the norm; behaving unexpectedly or differently; unconventional and slightly strange.**
-- **(of a motion) Against or in the opposite direction of contraction of a muscle (e.g., such as results from flexion of the lower arm (bending of the elbow joint) by an external force while contracting the triceps and other elbow extensor muscles to control that movement; opening of the jaw while flexing the masseter).**
-- **Having different goals or motives.**
+- **Having a [[d/_different|different]] [[c/_center|center]]; not [[c/_concentric|concentric]].**
+- **(of a person) [[d/_deviating|Deviating]] from the norm; [[b/_behaving|behaving]] unexpectedly or [[d/_differently|differently]]; unconventional and slightly strange.**
+- **(of a motion) [[a/_against|Against]] or in the opposite [[d/_direction|direction]] of [[c/_contraction|contraction]] of a muscle ([[e/_e|e]].g., such as results from flexion of the lower [[a/_arm|arm]] ([[b/_bending|bending]] of the [[e/_elbow|elbow]] joint) by an external force while [[c/_contracting|contracting]] the triceps and other [[e/_elbow|elbow]] extensor muscles to [[c/_control|control]] that movement; opening of the jaw while flexing the masseter).**
+- **Having [[d/_different|different]] goals or motives.**
 ---
 ### Synonyms
-- [[[[a/_abnormal|abnormal]]]], [[[[e/_eccentrical|eccentrical]]]], [[excentrical]], [[odd]], [[[[e/_eccentrical|eccentrical]]]], [[excentrical]], [[[[e/_eccentrical|eccentrical]]]], [[excentrical]], [[[[e/_eccentrical|eccentrical]]]], [[excentrical]], [[[[e/_eccentrical|eccentrical]]]], [[excentrical]]
+- [[abnormal]], [[eccentrical]], [[excentrical]], [[odd]], [[eccentrical]], [[excentrical]], [[eccentrical]], [[excentrical]], [[eccentrical]], [[excentrical]], [[eccentrical]], [[excentrical]]
 ### Antonyms
-- [[[[c/_concentric|concentric]]]]
+- [[concentric]]
 ---

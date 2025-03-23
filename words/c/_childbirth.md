@@ -1,8 +1,8 @@
 # Childbirth
 ---
 #noun
-- **The fact or action of giving birth to a child, as the culmination of pregnancy.**
+- **The fact or [[a/_action|action]] of giving [[b/_birth|birth]] to a [[c/_child|child]], as the [[c/_culmination|culmination]] of pregnancy.**
 ---
 ### Antonyms
-- [[[[d/_death|death]]]]
+- [[death]]
 ---

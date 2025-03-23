@@ -1,6 +1,6 @@
 # Amrit
 ---
 #noun
-- **The water of life; the drink of the Hindu gods.**
+- **The water of life; the [[d/_drink|drink]] of the Hindu gods.**
 ---
 ---

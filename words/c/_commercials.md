@@ -1,7 +1,7 @@
 # Commercials
 ---
 #noun
-- **An advertisement in a common media format, usually radio or television.**
-- **A commercial trader, as opposed to an individual speculator.**
+- **An [[a/_advertisement|advertisement]] in a [[c/_common|common]] media format, usually radio or television.**
+- **A [[c/_commercial|commercial]] trader, as opposed to an individual speculator.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Courbettes
 ---
 #noun
-- **A movement in dressage in which the horse makes a series of jumps on the hind legs with the forelegs in the air.**
+- **A movement in [[d/_dressage|dressage]] in which the horse makes a series of jumps on the hind legs with the forelegs in the [[a/_air|air]].**
 ---
 ### Synonyms
-- [[[[c/_curvet|curvet]]]]
+- [[curvet]]
 ---

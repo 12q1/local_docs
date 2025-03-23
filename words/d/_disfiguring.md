@@ -1,7 +1,7 @@
 # Disfiguring
 ---
 #verb
-- **Change the appearance of something/someone to the negative.**
+- **[[c/_change|Change]] the [[a/_appearance|appearance]] of something/someone to the negative.**
 	- _Example: The burnings disfigured his face._
 ---
 ---

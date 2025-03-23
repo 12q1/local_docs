@@ -1,7 +1,7 @@
 # Apotheosized
 ---
 #verb
-- **To deify, to convert into a god.**
+- **To [[d/_deify|deify]], to [[c/_convert|convert]] into a god.**
 - **To exalt, glorify.**
 ---
 ---

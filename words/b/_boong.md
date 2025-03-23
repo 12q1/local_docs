@@ -1,9 +1,9 @@
 # Boong
 ---
 #noun
-- **An Australian aboriginal.**
+- **An [[a/_australian|Australian]] [[a/_aboriginal|aboriginal]].**
 - **A native of New Guinea or Malaysia.**
 ---
 ### Synonyms
-- [[Fuzzy Wuzzy [[a/_angel|Angel]]]], [[Jacky]], [[[[a/_abo|abo]]]]
+- [[Fuzzy Wuzzy Angel]], [[Jacky]], [[abo]]
 ---

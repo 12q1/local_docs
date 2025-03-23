@@ -1,12 +1,12 @@
 # Cheapening
 ---
 #verb
-- **To decrease the value of; to make cheap**
+- **To [[d/_decrease|decrease]] the value of; to make [[c/_cheap|cheap]]**
 - **To make vulgar**
-- **To become cheaper**
-- **To bargain for, ask the price of.**
+- **To [[b/_become|become]] [[c/_cheaper|cheaper]]**
+- **To [[b/_bargain|bargain]] for, [[a/_ask|ask]] the price of.**
 ---
 #noun
-- **The process by which something is cheapened or made vulgar.**
+- **The process by which something is [[c/_cheapened|cheapened]] or made vulgar.**
 ---
 ---

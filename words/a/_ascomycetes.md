@@ -1,7 +1,7 @@
 # Ascomycetes
 ---
 #noun
-- **Any fungus of the phylum Ascomycota, characterized by the production of a sac, or ascus, which contains non-motile spores.**
+- **[[a/_any|Any]] fungus of the phylum Ascomycota, [[c/_characterized|characterized]] by the production of a sac, or [[a/_ascus|ascus]], which [[c/_contains|contains]] non-motile spores.**
 ---
 ### Synonyms
 - [[sac fungus]]

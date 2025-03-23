@@ -1,7 +1,7 @@
 # Detested
 ---
 #verb
-- **To dislike intensely; to loathe.**
-- **To witness against; to denounce; to condemn.**
+- **To [[d/_dislike|dislike]] intensely; to loathe.**
+- **To witness [[a/_against|against]]; to [[d/_denounce|denounce]]; to [[c/_condemn|condemn]].**
 ---
 ---

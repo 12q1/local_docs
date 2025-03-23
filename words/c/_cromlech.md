@@ -1,8 +1,8 @@
 # Cromlech
 ---
 #noun
-- **A dolmen or ancient underground tomb in Wales, usually made with stones disposed in a circular shape.**
+- **A [[d/_dolmen|dolmen]] or [[a/_ancient|ancient]] underground tomb in Wales, usually made with stones [[d/_disposed|disposed]] in a [[c/_circular|circular]] shape.**
 ---
 ### Synonyms
-- [[[[b/_bowing|bowing]] stone]]
+- [[bowing stone]]
 ---

@@ -1,6 +1,6 @@
 # Doubter
 ---
 #noun
-- **One who doubts.**
+- **One who [[d/_doubts|doubts]].**
 ---
 ---

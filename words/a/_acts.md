@@ -1,47 +1,47 @@
 # Acts
 ---
 #noun
-- **Something done, a deed.**
+- **Something [[d/_done|done]], a [[d/_deed|deed]].**
 	- _Example: an act of goodwill_
-- **Actuality.**
-- **Something done once and for all, as distinguished from a work.**
-- **A product of a legislative body, a statute.**
-- **The process of doing something.**
+- **[[a/_actuality|Actuality]].**
+- **Something [[d/_done|done]] once and for [[a/_all|all]], as [[d/_distinguished|distinguished]] from a work.**
+- **A product of a legislative [[b/_body|body]], a statute.**
+- **The process of [[d/_doing|doing]] something.**
 	- _Example: He was caught in the act of stealing._
-- **A formal or official record of something done.**
-- **A division of a theatrical performance.**
+- **A formal or official record of something [[d/_done|done]].**
+- **A [[d/_division|division]] of a theatrical performance.**
 	- _Example: The pivotal moment in the play was in the first scene of the second act._
 - **A performer or performers in a show.**
 	- _Example: Which act did you prefer? The soloist or the band?_
-- **Any organized activity.**
-- **A display of behaviour.**
-- **A thesis maintained in public, in some English universities, by a candidate for a degree, or to show the proficiency of a student.**
-- **A display of behaviour meant to deceive.**
+- **[[a/_any|Any]] organized [[a/_activity|activity]].**
+- **A [[d/_display|display]] of [[b/_behaviour|behaviour]].**
+- **A thesis maintained in public, in some [[e/_english|English]] universities, by a [[c/_candidate|candidate]] for a [[d/_degree|degree]], or to show the proficiency of a student.**
+- **A [[d/_display|display]] of [[b/_behaviour|behaviour]] meant to [[d/_deceive|deceive]].**
 	- _Example: to put on an act_
 ---
 ### Synonyms
-- [[pretense]], [[statute]], [[[[d/_deed|deed]]]]
+- [[pretense]], [[statute]], [[deed]]
 #verb
-- **To do something.**
+- **To [[d/_do|do]] something.**
 	- _Example: If you don't act soon, you will be in trouble._
-- **To do (something); to perform.**
+- **To [[d/_do|do]] (something); to perform.**
 - **To perform a theatrical role.**
 	- _Example: I started acting at the age of eleven in my local theatre._
-- **Of a play: to be acted out (well or badly).**
-- **To behave in a certain manner for an indefinite length of time.**
+- **Of a play: to be [[a/_acted|acted]] out (well or [[b/_badly|badly]]).**
+- **To [[b/_behave|behave]] in a [[c/_certain|certain]] manner for an indefinite length of time.**
 	- _Example: A dog which acts aggressively is likely to bite._
-- **To convey an appearance of being.**
+- **To [[c/_convey|convey]] an [[a/_appearance|appearance]] of [[b/_being|being]].**
 	- _Example: He acted unconcerned so the others wouldn't worry._
-- **To do something that causes a change binding on the doer.**
+- **To [[d/_do|do]] something that [[c/_causes|causes]] a [[c/_change|change]] [[b/_binding|binding]] on the [[d/_doer|doer]].**
 	- _Example: act on behalf of John_
-- **(construed with on or upon) To have an effect (on).**
+- **([[c/_construed|construed]] with on or upon) To have an [[e/_effect|effect]] (on).**
 	- _Example: Gravitational force acts on heavy bodies._
 - **To play (a role).**
 	- _Example: He's been acting Shakespearean leads since he was twelve._
 - **To feign.**
 	- _Example: He acted the angry parent, but was secretly amused._
-- **(construed with on or upon, of a group) To map via a homomorphism to a group of automorphisms (of).**
+- **([[c/_construed|construed]] with on or upon, of a group) To map via a homomorphism to a group of automorphisms (of).**
 	- _Example: This group acts on the circle, so it can't be left-orderable!_
-- **To move to action; to actuate; to animate.**
+- **To move to [[a/_action|action]]; to [[a/_actuate|actuate]]; to [[a/_animate|animate]].**
 ---
 ---

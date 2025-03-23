@@ -1,7 +1,7 @@
 # Diction
 ---
 #noun
-- **Choice and use of words, especially with regard to effective communication.**
-- **The effectiveness and degree of clarity of word choice and expression.**
+- **[[c/_choice|Choice]] and use of words, especially with regard to [[e/_effective|effective]] [[c/_communication|communication]].**
+- **The [[e/_effectiveness|effectiveness]] and [[d/_degree|degree]] of [[c/_clarity|clarity]] of word [[c/_choice|choice]] and expression.**
 ---
 ---

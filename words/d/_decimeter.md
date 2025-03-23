@@ -1,8 +1,8 @@
 # Decimeter
 ---
 #noun
-- **An SI unit of length equal to 10-1 metres. Symbol: dm**
+- **An SI unit of length [[e/_equal|equal]] to 10-1 metres. Symbol: [[d/_dm|dm]]**
 ---
 ### Synonyms
-- [[decim]], [[[[d/_dm|dm]]]], [[㍷]]
+- [[decim]], [[dm]], [[㍷]]
 ---

@@ -1,8 +1,8 @@
 # Anon
 ---
 #adverb
-- **Straight away; at once.**
+- **Straight [[a/_away|away]]; at once.**
 - **Soon; in a little while.**
-- **At another time; then; again.**
+- **At [[a/_another|another]] time; then; [[a/_again|again]].**
 ---
 ---

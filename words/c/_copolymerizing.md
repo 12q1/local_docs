@@ -1,6 +1,6 @@
 # Copolymerizing
 ---
 #verb
-- **To polymerize so as to form a copolymer**
+- **To polymerize so as to form a [[c/_copolymer|copolymer]]**
 ---
 ---

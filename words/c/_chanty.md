@@ -1,8 +1,8 @@
 # Chanty
 ---
 #noun
-- **A roughly-built hut or cabin.**
-- **A rudimentary or improvised dwelling, especially one not legally owned.**
+- **A roughly-[[b/_built|built]] hut or [[c/_cabin|cabin]].**
+- **A rudimentary or improvised [[d/_dwelling|dwelling]], especially one not legally owned.**
 - **An unlicensed pub.**
 ---
 ### Synonyms

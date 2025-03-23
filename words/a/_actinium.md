@@ -1,6 +1,6 @@
 # Actinium
 ---
 #noun
-- **A radioactive, metallic chemical element (symbol: Ac) with an atomic number of 89; found in uranium ores**
+- **A radioactive, metallic [[c/_chemical|chemical]] [[e/_element|element]] (symbol: [[a/_ac|Ac]]) with an [[a/_atomic|atomic]] number of 89; found in uranium ores**
 ---
 ---

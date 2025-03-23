@@ -1,9 +1,9 @@
 # Deforested
 ---
 #verb
-- **To clear (an area) of forest.**
+- **To [[c/_clear|clear]] (an [[a/_area|area]]) of forest.**
 ---
 #adjective
-- **Of or pertaining to deforestation.**
+- **Of or pertaining to [[d/_deforestation|deforestation]].**
 ---
 ---

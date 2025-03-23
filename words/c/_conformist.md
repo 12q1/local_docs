@@ -1,11 +1,11 @@
 # Conformist
 ---
 #noun
-- **Someone who tries to conform to the mainstream.**
+- **Someone who tries to [[c/_conform|conform]] to the mainstream.**
 ---
 ### Antonyms
 - [[nonconformist]]
 #adjective
-- **Conforming to established customs, etc.**
+- **[[c/_conforming|Conforming]] to established [[c/_customs|customs]], etc.**
 ---
 ---

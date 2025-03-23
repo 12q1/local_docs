@@ -1,6 +1,6 @@
 # Cypripedium
 ---
 #noun
-- **Any member of the orchid genus Cypripedium.**
+- **[[a/_any|Any]] member of the orchid genus [[c/_cypripedium|Cypripedium]].**
 ---
 ---

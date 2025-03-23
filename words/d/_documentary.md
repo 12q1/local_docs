@@ -6,8 +6,8 @@
 ### Antonyms
 - [[fiction]]
 #adjective
-- **Of, related to, or based on documents.**
-- **Which serves to document (record and:or illustrate) a subject.**
-- **(of a film, book etc) Presented objectively without the insertion of fictional matter.**
+- **Of, related to, or [[b/_based|based]] on [[d/_documents|documents]].**
+- **Which serves to [[d/_document|document]] (record and:or illustrate) a subject.**
+- **(of a film, [[b/_book|book]] etc) Presented objectively without the insertion of fictional matter.**
 ---
 ---

@@ -1,19 +1,19 @@
 # Affaires
 ---
 #noun
-- **(often in the plural) Something which is done or is to be done; business of any kind, commercial, professional, or public.**
+- **(often in the plural) Something which is [[d/_done|done]] or is to be [[d/_done|done]]; [[b/_business|business]] of [[a/_any|any]] kind, [[c/_commercial|commercial]], professional, or public.**
 	- _Example: a difficult affair to manage_
-- **Any proceeding or action which it is wished to refer to or characterize vaguely.**
+- **[[a/_any|Any]] proceeding or [[a/_action|action]] which it is wished to refer to or [[c/_characterize|characterize]] vaguely.**
 	- _Example: an affair of honor, a duel;  an affair of love, an intrigue_
-- **An action or engagement not of sufficient magnitude to be called a battle.**
-- **A material object (vaguely designated).**
+- **An [[a/_action|action]] or [[e/_engagement|engagement]] not of sufficient magnitude to be [[c/_called|called]] a [[b/_battle|battle]].**
+- **A material object (vaguely [[d/_designated|designated]]).**
 	- _Example: He used a hook-shaped affair with a long handle to unlock the car._
-- **An adulterous relationship. (from affaire de cœur).**
-- **A romantic relationship with someone who is not one's regular partner (boyfriend, girlfriend).**
-- **A person with whom someone has an adulterous relationship.**
+- **An [[a/_adulterous|adulterous]] relationship. (from [[a/_affaire|affaire]] [[d/_de|de]] [[c/_c|c]]œur).**
+- **A romantic relationship with someone who is not one's regular partner ([[b/_boyfriend|boyfriend]], girlfriend).**
+- **A person with whom someone has an [[a/_adulterous|adulterous]] relationship.**
 - **A party or social gathering, especially of a formal nature.**
 - **The (male or female) genitals.**
 ---
 ### Synonyms
-- [[[[c/_concern|concern]]]], [[matter]]
+- [[concern]], [[matter]]
 ---

@@ -1,11 +1,11 @@
 # Dickering
 ---
 #verb
-- **To bargain, haggle or negotiate over a sale.**
-- **To barter.**
+- **To [[b/_bargain|bargain]], haggle or negotiate over a sale.**
+- **To [[b/_barter|barter]].**
 ---
 #noun
-- **Bargaining**
-- **Bartering**
+- **[[b/_bargaining|Bargaining]]**
+- **[[b/_bartering|Bartering]]**
 ---
 ---

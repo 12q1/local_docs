@@ -1,9 +1,9 @@
 # Algal
 ---
 #noun
-- **An alga.**
+- **An [[a/_alga|alga]].**
 ---
 #adjective
-- **Pertaining to, or like, algae**
+- **Pertaining to, or like, [[a/_algae|algae]]**
 ---
 ---

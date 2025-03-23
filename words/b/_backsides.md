@@ -1,9 +1,9 @@
 # Backsides
 ---
 #noun
-- **The back side of anything, the part opposite its front, particularly:**
-- **The reverse or opposite of anything.**
+- **The [[b/_back|back]] side of [[a/_anything|anything]], the part opposite its front, particularly:**
+- **The reverse or opposite of [[a/_anything|anything]].**
 ---
 ### Synonyms
-- [[rear]], [[[[b/_backhouse|backhouse]]]], [[verso]]
+- [[rear]], [[backhouse]], [[verso]]
 ---

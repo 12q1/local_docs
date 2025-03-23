@@ -1,9 +1,9 @@
 # Contestation
 ---
 #noun
-- **The act of contesting; emulation**
-- **Proof by witness; attestation; testimony.**
+- **The [[a/_act|act]] of [[c/_contesting|contesting]]; [[e/_emulation|emulation]]**
+- **Proof by witness; [[a/_attestation|attestation]]; testimony.**
 ---
 ### Synonyms
-- [[[[d/_dispute|dispute]]]], [[rivalry]], [[strife]]
+- [[dispute]], [[rivalry]], [[strife]]
 ---

@@ -1,8 +1,8 @@
 # Duralumin
 ---
 #noun
-- **An alloy of over 90% aluminium, 4% copper and traces of manganese, magnesium, iron and silicon, widely used in the aircraft industry**
+- **An [[a/_alloy|alloy]] of over 90% [[a/_aluminium|aluminium]], 4% [[c/_copper|copper]] and traces of manganese, magnesium, iron and silicon, widely used in the [[a/_aircraft|aircraft]] industry**
 ---
 ### Synonyms
-- [[[[d/_dural|dural]]]], [[duralium]], [[duralum]], [[duraluminium]], [[duraluminum]]
+- [[dural]], [[duralium]], [[duralum]], [[duraluminium]], [[duraluminum]]
 ---

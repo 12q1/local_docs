@@ -1,24 +1,24 @@
 # Committed
 ---
 #verb
-- **To give in trust; to put into charge or keeping; to entrust; to consign; used with to or formerly unto.**
-- **To put in charge of a jailer; to imprison.**
-- **To have (a person) enter an establishment, such as a hospital or asylum, as a patient.**
+- **To give in trust; to put into [[c/_charge|charge]] or keeping; to [[e/_entrust|entrust]]; to [[c/_consign|consign]]; used with to or formerly unto.**
+- **To put in [[c/_charge|charge]] of a jailer; to imprison.**
+- **To have (a person) [[e/_enter|enter]] an establishment, such as a hospital or [[a/_asylum|asylum]], as a patient.**
 	- _Example: Tony should be committed to a nuthouse!_
-- **To do (something bad); to perpetrate, as a crime, sin, or fault.**
+- **To [[d/_do|do]] (something [[b/_bad|bad]]); to perpetrate, as a [[c/_crime|crime]], sin, or fault.**
 	- _Example: to commit a series of heinous crimes_
-- **To join a contest; to match; followed by with.**
-- **To pledge or bind; to compromise, expose, or endanger by some decisive act or preliminary step. (Traditionally used only reflexively but now also without oneself etc.)**
+- **To join a [[c/_contest|contest]]; to match; followed by with.**
+- **To pledge or [[b/_bind|bind]]; to [[c/_compromise|compromise]], expose, or [[e/_endanger|endanger]] by some [[d/_decisive|decisive]] [[a/_act|act]] or preliminary step. (Traditionally used only reflexively but now [[a/_also|also]] without oneself etc.)**
 	- _Example: to commit oneself to a certain action_
-- **To make a set of changes permanent.**
-- **(Latinism) To confound.**
-- **To commit an offence; especially, to fornicate.**
-- **To be committed or perpetrated; to take place; to occur.**
+- **To make a set of [[c/_changes|changes]] permanent.**
+- **(Latinism) To [[c/_confound|confound]].**
+- **To [[c/_commit|commit]] an offence; especially, to fornicate.**
+- **To be [[c/_committed|committed]] or perpetrated; to take place; to occur.**
 ---
 #adjective
-- **Obligated by a pledge to some course of action.**
-- **Showing commitment.**
-- **Associated in an exclusive (but not necessarily permanent) sexual relationship.**
-- **Required by logic to endorse the conclusion of an argument.**
+- **Obligated by a pledge to some [[c/_course|course]] of [[a/_action|action]].**
+- **Showing [[c/_commitment|commitment]].**
+- **[[a/_associated|Associated]] in an exclusive (but not necessarily permanent) sexual relationship.**
+- **Required by logic to [[e/_endorse|endorse]] the [[c/_conclusion|conclusion]] of an [[a/_argument|argument]].**
 ---
 ---

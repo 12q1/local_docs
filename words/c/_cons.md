@@ -1,26 +1,26 @@
 # Cons
 ---
 #noun
-- **A disadvantage of something, especially when contrasted with its advantages (pros).**
+- **A [[d/_disadvantage|disadvantage]] of something, especially when [[c/_contrasted|contrasted]] with its [[a/_advantages|advantages]] (pros).**
 	- _Example: pros and cons_
-- **(abbreviation) conservative**
+- **([[a/_abbreviation|abbreviation]]) [[c/_conservative|conservative]]**
 	- _Example: own the cons_
 ---
 ### Synonyms
-- [[[[d/_disadvantage|disadvantage]]]]
+- [[disadvantage]]
 ### Antonyms
 - [[pro]]
 #noun
-- **A convicted criminal, a convict.**
+- **A [[c/_convicted|convicted]] [[c/_criminal|criminal]], a [[c/_convict|convict]].**
 ---
 #noun
-- **A fraud; something carried out with the intention of deceiving, usually for personal, often illegal, gain.**
+- **A fraud; something [[c/_carried|carried]] out with the intention of [[d/_deceiving|deceiving]], usually for personal, often illegal, gain.**
 ---
 #noun
-- **An organized gathering such as a convention, conference or congress.**
+- **An organized gathering such as a [[c/_convention|convention]], [[c/_conference|conference]] or [[c/_congress|congress]].**
 ---
 #noun
-- **The conversion of part of a building.**
+- **The [[c/_conversion|conversion]] of part of a [[b/_building|building]].**
 	- _Example: We're getting a loft con done next year._
 ---
 ---

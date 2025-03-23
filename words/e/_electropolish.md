@@ -1,6 +1,6 @@
 # Electropolish
 ---
 #verb
-- **To brighten (a metal) by the electrolytic removal of its surface.**
+- **To [[b/_brighten|brighten]] (a metal) by the [[e/_electrolytic|electrolytic]] removal of its surface.**
 ---
 ---

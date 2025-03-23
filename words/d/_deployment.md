@@ -1,9 +1,9 @@
 # Deployment
 ---
 #noun
-- **An arrangement or classification of things.**
+- **An [[a/_arrangement|arrangement]] or [[c/_classification|classification]] of things.**
 - **An implementation, or putting into use, of something.**
-- **The distribution of military forces prior to battle.**
+- **The [[d/_distribution|distribution]] of military forces prior to [[b/_battle|battle]].**
 - **(parachuting) the start of something**
 ---
 ### Antonyms

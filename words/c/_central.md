@@ -1,11 +1,11 @@
 # Central
 ---
 #adjective
-- **Being in the centre.**
-- **Having or containing the centre of something.**
-- **Being very important, or key to something.**
-- **Exerting its action towards the peripheral organs.**
+- **[[b/_being|Being]] in the [[c/_centre|centre]].**
+- **Having or [[c/_containing|containing]] the [[c/_centre|centre]] of something.**
+- **[[b/_being|Being]] very important, or key to something.**
+- **Exerting its [[a/_action|action]] towards the peripheral organs.**
 ---
 ### Synonyms
-- [[[[d/_dominant|dominant]]]], [[main]], [[principal]]
+- [[dominant]], [[main]], [[principal]]
 ---

@@ -1,6 +1,6 @@
 # Betwixt
 ---
 #preposition
-- **Between.**
+- **[[b/_between|Between]].**
 ---
 ---

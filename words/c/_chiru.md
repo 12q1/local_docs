@@ -1,6 +1,6 @@
 # Chiru
 ---
 #noun
-- **The Tibetan antelope, Pantholops hodgsonii.**
+- **The Tibetan [[a/_antelope|antelope]], Pantholops hodgsonii.**
 ---
 ---

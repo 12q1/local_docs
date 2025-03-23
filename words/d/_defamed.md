@@ -1,9 +1,9 @@
 # Defamed
 ---
 #verb
-- **To disgrace; to bring into disrepute.**
-- **To charge; to accuse (someone) of an offence.**
-- **To harm or diminish the reputation of; to disparage.**
+- **To [[d/_disgrace|disgrace]]; to [[b/_bring|bring]] into [[d/_disrepute|disrepute]].**
+- **To [[c/_charge|charge]]; to [[a/_accuse|accuse]] (someone) of an offence.**
+- **To harm or [[d/_diminish|diminish]] the reputation of; to [[d/_disparage|disparage]].**
 	- _Example: to defame somebody_
 ---
 ---

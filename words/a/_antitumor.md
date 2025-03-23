@@ -1,11 +1,11 @@
 # Antitumor
 ---
 #noun
-- **Any substance that inhibits tumors.**
+- **[[a/_any|Any]] substance that inhibits tumors.**
 ---
 #adjective
-- **Inhibiting the development of a tumor.**
+- **Inhibiting the [[d/_development|development]] of a tumor.**
 ---
 ### Synonyms
-- [[[[a/_antineoplastic|antineoplastic]]]]
+- [[antineoplastic]]
 ---

@@ -1,9 +1,9 @@
 # Biguanide
 ---
 #noun
-- **The compound imidodicarbonimidic diamide derived from guanidine**
-- **Any of a class of antihyperglycemic and antimalarial drugs based upon this compound.**
+- **The [[c/_compound|compound]] imidodicarbonimidic [[d/_diamide|diamide]] [[d/_derived|derived]] from guanidine**
+- **[[a/_any|Any]] of a [[c/_class|class]] of antihyperglycemic and [[a/_antimalarial|antimalarial]] [[d/_drugs|drugs]] [[b/_based|based]] upon this [[c/_compound|compound]].**
 ---
 ### Synonyms
-- [[carbamimidoylguanidine]], [[[[d/_diguanide|diguanide]]]]
+- [[carbamimidoylguanidine]], [[diguanide]]
 ---

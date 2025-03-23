@@ -1,9 +1,9 @@
 # Cablegram
 ---
 #noun
-- **A telegram transmitted via a submarine cable.**
+- **A telegram transmitted via a submarine [[c/_cable|cable]].**
 ---
 #verb
-- **To communicate by cablegram.**
+- **To [[c/_communicate|communicate]] by [[c/_cablegram|cablegram]].**
 ---
 ---

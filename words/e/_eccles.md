@@ -2,7 +2,7 @@
 ---
 #noun
 - **An icicle.**
-- **(usually plural) The crest of a cock.**
+- **(usually plural) The [[c/_crest|crest]] of a [[c/_cock|cock]].**
 - **A woodpecker.**
 ---
 ---

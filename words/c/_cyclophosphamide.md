@@ -1,6 +1,6 @@
 # Cyclophosphamide
 ---
 #noun
-- **An immunosuppressive, antineoplastic drug used in the treatment of Hodgkin's disease and certain other forms of cancer.**
+- **An immunosuppressive, [[a/_antineoplastic|antineoplastic]] [[d/_drug|drug]] used in the treatment of Hodgkin's [[d/_disease|disease]] and [[c/_certain|certain]] other forms of [[c/_cancer|cancer]].**
 ---
 ---

@@ -2,9 +2,9 @@
 ---
 #verb
 - **To obtain money or property from (a person) by fraud; to swindle.**
-- **To deprive.**
+- **To [[d/_deprive|deprive]].**
 ---
 #noun
-- **The act of committing fraud.**
+- **The [[a/_act|act]] of [[c/_committing|committing]] fraud.**
 ---
 ---

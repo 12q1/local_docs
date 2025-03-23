@@ -1,8 +1,8 @@
 # Armloads
 ---
 #noun
-- **A quantity of things approaching the maximum that could be held or carried with one arm.**
+- **A quantity of things [[a/_approaching|approaching]] the maximum that [[c/_could|could]] be held or [[c/_carried|carried]] with one [[a/_arm|arm]].**
 ---
 ### Synonyms
-- [[[[a/_armful|armful]]]]
+- [[armful]]
 ---

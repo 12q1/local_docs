@@ -1,6 +1,6 @@
 # Dartboard
 ---
 #noun
-- **A board used as a target for throwing darts.**
+- **A [[b/_board|board]] used as a target for throwing [[d/_darts|darts]].**
 ---
 ---

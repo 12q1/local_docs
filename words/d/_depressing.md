@@ -1,21 +1,21 @@
 # Depressing
 ---
 #verb
-- **To press down.**
+- **To press [[d/_down|down]].**
 	- _Example: Depress the upper lever to start the machine._
-- **To make depressed, sad or bored.**
+- **To make [[d/_depressed|depressed]], sad or [[b/_bored|bored]].**
 	- _Example: Winter depresses me._
-- **To cause a depression or a decrease in parts of the economy.**
+- **To [[c/_cause|cause]] a [[d/_depression|depression]] or a [[d/_decrease|decrease]] in parts of the [[e/_economy|economy]].**
 	- _Example: Lower productivity will eventually depress wages._
-- **To bring down or humble; to abase (pride, etc.).**
-- **To reduce (an equation) in a lower degree.**
+- **To [[b/_bring|bring]] [[d/_down|down]] or humble; to [[a/_abase|abase]] (pride, etc.).**
+- **To reduce (an [[e/_equation|equation]]) in a lower [[d/_degree|degree]].**
 ---
 ### Synonyms
-- [[[[d/_downbear|downbear]]]]
+- [[downbear]]
 #adjective
-- **Causing depression or sadness.**
+- **[[c/_causing|Causing]] [[d/_depression|depression]] or sadness.**
 	- _Example: The television news was depressing, so rather than start crying I turned it off._
-- **Causing a reduction in economic activity.**
+- **[[c/_causing|Causing]] a reduction in [[e/_economic|economic]] [[a/_activity|activity]].**
 	- _Example: The policy may have a depressing effect on some branches of industry._
 ---
 ### Synonyms

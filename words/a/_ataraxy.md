@@ -1,6 +1,6 @@
 # Ataraxy
 ---
 #noun
-- **Freedom from mental disturbance; imperturbability, dogged indifference.**
+- **Freedom from mental [[d/_disturbance|disturbance]]; imperturbability, [[d/_dogged|dogged]] indifference.**
 ---
 ---

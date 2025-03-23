@@ -1,6 +1,6 @@
 # Boohoo
 ---
 #verb
-- **To cry, weep.**
+- **To [[c/_cry|cry]], weep.**
 ---
 ---

@@ -1,16 +1,16 @@
 # Cartoon
 ---
 #noun
-- **A humorous drawing, often with a caption, or a strip of such drawings.**
-- **A drawing satirising current public figures.**
-- **An artist's preliminary sketch.**
-- **An animated piece of film which is often but not exclusively humorous.**
-- **A diagram in a scientific concept.**
+- **A humorous [[d/_drawing|drawing]], often with a [[c/_caption|caption]], or a strip of such [[d/_drawings|drawings]].**
+- **A [[d/_drawing|drawing]] satirising [[c/_current|current]] public figures.**
+- **An [[a/_artist|artist]]'s preliminary sketch.**
+- **An [[a/_animated|animated]] piece of film which is often but not exclusively humorous.**
+- **A [[d/_diagram|diagram]] in a scientific [[c/_concept|concept]].**
 ---
 ### Synonyms
-- [[[[a/_animated|animated]] [[c/_cartoon|cartoon]]]], [[[[a/_animation|animation]]]], [[[[c/_comic|comic]] strip]], [[strip [[c/_cartoon|cartoon]]]], [[[[c/_caricature|caricature]]]], [[political [[c/_cartoon|cartoon]]]]
+- [[animated cartoon]], [[animation]], [[comic strip]], [[strip cartoon]], [[caricature]], [[political cartoon]]
 #verb
-- **To draw a cartoon, a humorous drawing.**
+- **To [[d/_draw|draw]] a [[c/_cartoon|cartoon]], a humorous [[d/_drawing|drawing]].**
 - **To make a preliminary sketch.**
 ---
 ---

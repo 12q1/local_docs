@@ -1,7 +1,7 @@
 # Ambidexterity
 ---
 #noun
-- **The property of being equally skillful with each hand.**
-- **Superior cleverness or adaptability.**
+- **The property of [[b/_being|being]] [[e/_equally|equally]] skillful with [[e/_each|each]] hand.**
+- **Superior [[c/_cleverness|cleverness]] or [[a/_adaptability|adaptability]].**
 ---
 ---

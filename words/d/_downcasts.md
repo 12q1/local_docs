@@ -1,9 +1,9 @@
 # Downcasts
 ---
 #verb
-- **To cast or throw down; to turn downward.**
+- **To [[c/_cast|cast]] or throw [[d/_down|down]]; to turn [[d/_downward|downward]].**
 - **To taunt; to reproach; to upbraid.**
-- **To cast from supertype to subtype.**
+- **To [[c/_cast|cast]] from supertype to subtype.**
 ---
 ### Antonyms
 - [[upcast]]

@@ -1,14 +1,14 @@
 # Dilettante
 ---
 #noun
-- **An amateur, someone who dabbles in a field out of casual interest rather than as a profession or serious interest.**
-- **(sometimes offensive) A person with a general but superficial interest in any art or a branch of knowledge.**
+- **An [[a/_amateur|amateur]], someone who [[d/_dabbles|dabbles]] in a field out of [[c/_casual|casual]] interest rather than as a profession or serious interest.**
+- **(sometimes offensive) A person with a general but superficial interest in [[a/_any|any]] [[a/_art|art]] or a [[b/_branch|branch]] of knowledge.**
 ---
 ### Synonyms
-- [[[[a/_amateur|amateur]]]], [[[[d/_dabbler|dabbler]]]]
+- [[amateur]], [[dabbler]]
 ### Antonyms
 - [[professional]]
 #adjective
-- **Pertaining to or like a dilettante.**
+- **Pertaining to or like a [[d/_dilettante|dilettante]].**
 ---
 ---

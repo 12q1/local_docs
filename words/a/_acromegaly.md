@@ -1,8 +1,8 @@
 # Acromegaly
 ---
 #noun
-- **A chronic disease marked by enlargement of the bones of the extremities, face, and jaw that is caused by over-activity of the pituitary gland.**
+- **A [[c/_chronic|chronic]] [[d/_disease|disease]] marked by [[e/_enlargement|enlargement]] of the [[b/_bones|bones]] of the extremities, face, and jaw that is [[c/_caused|caused]] by over-[[a/_activity|activity]] of the pituitary gland.**
 ---
 ### Synonyms
-- [[Marie's [[d/_disease|disease]]]], [[[[a/_acromegalia|acromegalia]]]], [[acromegaloidism]]
+- [[Marie's disease]], [[acromegalia]], [[acromegaloidism]]
 ---

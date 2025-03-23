@@ -1,6 +1,6 @@
 # Carbo
 ---
 #noun
-- **Carbohydrate**
+- **[[c/_carbohydrate|Carbohydrate]]**
 ---
 ---

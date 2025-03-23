@@ -5,35 +5,35 @@
 	- _Example: If you clear the table, I'll wash up._
 - **To remove (items or material) so as to leave something unobstructed or open.**
 	- _Example: Please clear all this stuff off the table._
-- **To become free from obstruction or obscurement; to become transparent.**
+- **To [[b/_become|become]] free from obstruction or obscurement; to [[b/_become|become]] transparent.**
 	- _Example: After a heavy rain, the sky cleared nicely for the evening._
-- **To eliminate ambiguity or doubt from (a matter); to clarify or resolve; to clear up.**
+- **To [[e/_eliminate|eliminate]] [[a/_ambiguity|ambiguity]] or [[d/_doubt|doubt]] from (a matter); to [[c/_clarify|clarify]] or resolve; to [[c/_clear|clear]] up.**
 	- _Example: We need to clear this issue once and for all._
-- **To remove from suspicion, especially of having committed a crime.**
+- **To remove from suspicion, especially of having [[c/_committed|committed]] a [[c/_crime|crime]].**
 	- _Example: The court cleared the man of murder._
 - **To pass without interference; to miss.**
 	- _Example: The door just barely clears the table as it closes._
-- **(activities such as jumping or throwing) To exceed a stated mark.**
+- **([[a/_activities|activities]] such as jumping or throwing) To exceed a stated mark.**
 	- _Example: She was the first female high jumper to clear two metres._
-- **To finish or complete (a stage, challenge, or game).**
+- **To finish or [[c/_complete|complete]] (a stage, [[c/_challenge|challenge]], or game).**
 	- _Example: I cleared the first level in 36 seconds._
-- **Of a check or financial transaction, to go through as payment; to be processed so that the money is transferred.**
+- **Of a [[c/_check|check]] or financial transaction, to go through as payment; to be processed so that the money is transferred.**
 	- _Example: The check might not clear for a couple of days._
-- **To earn a profit of; to net.**
+- **To [[e/_earn|earn]] a profit of; to net.**
 	- _Example: He's been clearing seven thousand a week._
-- **To approve or authorise for a particular purpose or action; to give clearance to.**
+- **To [[a/_approve|approve]] or [[a/_authorise|authorise]] for a particular purpose or [[a/_action|action]]; to give [[c/_clearance|clearance]] to.**
 	- _Example: Air traffic control cleared the plane to land._
-- **To obtain approval or authorisation in respect of.**
+- **To obtain [[a/_approval|approval]] or [[a/_authorisation|authorisation]] in respect of.**
 	- _Example: I've cleared the press release with the marketing department, so go ahead and publish it._
-- **To obtain a clearance.**
+- **To obtain a [[c/_clearance|clearance]].**
 	- _Example: The steamer cleared for Liverpool today._
-- **To obtain permission to use (a sample of copyrighted audio) in another track.**
-- **To disengage oneself from incumbrances, distress, or entanglements; to become free.**
-- **To hit, kick, head, punch etc. (a ball, puck) away in order to defend one's goal.**
+- **To obtain permission to use (a sample of [[c/_copyrighted|copyrighted]] [[a/_audio|audio]]) in [[a/_another|another]] track.**
+- **To [[d/_disengage|disengage]] oneself from incumbrances, [[d/_distress|distress]], or [[e/_entanglements|entanglements]]; to [[b/_become|become]] free.**
+- **To hit, kick, head, punch etc. (a [[b/_ball|ball]], puck) [[a/_away|away]] in order to [[d/_defend|defend]] one's goal.**
 	- _Example: A low cross came in, and Smith cleared._
-- **To reset or unset; to return to an empty state or to zero.**
+- **To reset or unset; to return to an [[e/_empty|empty]] state or to zero.**
 	- _Example: to clear an array;  to clear a single bit (binary digit) in a value_
-- **To style (an element within a document) so that it is not permitted to float at a given position.**
+- **To style (an [[e/_element|element]] within a [[d/_document|document]]) so that it is not permitted to float at a given position.**
 ---
 ### Synonyms
 - [[stub]]

@@ -1,12 +1,12 @@
 # Continence
 ---
 #noun
-- **(urology) The voluntary control of urination and defecation.**
-- **Moderation or self-restraint, especially in sexual activity; abstinence.**
-- **Uninterrupted course; continuity.**
+- **(urology) The voluntary [[c/_control|control]] of urination and [[d/_defecation|defecation]].**
+- **Moderation or self-restraint, especially in sexual [[a/_activity|activity]]; [[a/_abstinence|abstinence]].**
+- **Uninterrupted [[c/_course|course]]; [[c/_continuity|continuity]].**
 ---
 ### Synonyms
-- [[[[a/_asceticism|asceticism]]]], [[temperance]]
+- [[asceticism]], [[temperance]]
 ### Antonyms
-- [[incontinence]], [[[[a/_acrasia|acrasia]]]], [[[[a/_acrasy|acrasy]]]], [[intemperance]]
+- [[incontinence]], [[acrasia]], [[acrasy]], [[intemperance]]
 ---

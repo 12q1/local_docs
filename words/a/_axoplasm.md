@@ -1,6 +1,6 @@
 # Axoplasm
 ---
 #noun
-- **The cytoplasm of an axon**
+- **The [[c/_cytoplasm|cytoplasm]] of an [[a/_axon|axon]]**
 ---
 ---

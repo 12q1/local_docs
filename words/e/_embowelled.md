@@ -1,9 +1,9 @@
 # Embowelled
 ---
 #verb
-- **To enclose or bury.**
-- **To remove the bowels; disembowel.**
+- **To [[e/_enclose|enclose]] or [[b/_bury|bury]].**
+- **To remove the [[b/_bowels|bowels]]; [[d/_disembowel|disembowel]].**
 ---
 ### Synonyms
-- [[[[b/_bury|bury]]]], [[[[e/_embed|embed]]]], [[[[e/_enclose|enclose]]]], [[inclose]], [[[[d/_disembowel|disembowel]]]], [[eviscerate]]
+- [[bury]], [[embed]], [[enclose]], [[inclose]], [[disembowel]], [[eviscerate]]
 ---

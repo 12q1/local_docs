@@ -1,7 +1,7 @@
 # Dissonant
 ---
 #adjective
-- **Exhibiting dissonance; not agreeing or harmonizing.**
+- **Exhibiting [[d/_dissonance|dissonance]]; not [[a/_agreeing|agreeing]] or harmonizing.**
 	- _Example: The music was filled with dissonant chords._
 ---
 ---

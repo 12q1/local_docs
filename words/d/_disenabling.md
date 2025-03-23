@@ -1,6 +1,6 @@
 # Disenabling
 ---
 #verb
-- **To disable; to disqualify.**
+- **To [[d/_disable|disable]]; to [[d/_disqualify|disqualify]].**
 ---
 ---

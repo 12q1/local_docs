@@ -1,6 +1,6 @@
 # Computational
 ---
 #adjective
-- **Of or relating to computation.**
+- **Of or relating to [[c/_computation|computation]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Diddy
 ---
 #noun
-- **A woman's breast.**
+- **A woman's [[b/_breast|breast]].**
 - **A fool, a tit.**
 ---
 #adjective

@@ -1,7 +1,7 @@
 # Dillweed
 ---
 #noun
-- **Dill, an aromatic herb used in cooking and medicine; Anethum graveolens.**
-- **A contemptible person; a fool.**
+- **[[d/_dill|Dill]], an [[a/_aromatic|aromatic]] herb used in [[c/_cooking|cooking]] and medicine; [[a/_anethum|Anethum]] graveolens.**
+- **A [[c/_contemptible|contemptible]] person; a fool.**
 ---
 ---

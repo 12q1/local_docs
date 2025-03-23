@@ -1,6 +1,6 @@
 # Dreamful
 ---
 #adjective
-- **Dreamy**
+- **[[d/_dreamy|Dreamy]]**
 ---
 ---

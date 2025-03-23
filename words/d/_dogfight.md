@@ -1,12 +1,12 @@
 # Dogfight
 ---
 #noun
-- **A twisting turning battle between two or more military aircraft, especially between fighters.**
+- **A twisting turning [[b/_battle|battle]] [[b/_between|between]] two or more military [[a/_aircraft|aircraft]], especially [[b/_between|between]] fighters.**
 	- _Example: The two bi-planes swirled around each other like angry wasps in a violent dogfight._
-- **A fight between dogs.**
+- **A fight [[b/_between|between]] [[d/_dogs|dogs]].**
 ---
 #verb
-- **To engage in a battle between fighter planes.**
+- **To [[e/_engage|engage]] in a [[b/_battle|battle]] [[b/_between|between]] fighter planes.**
 	- _Example: Missiles exhausted, the pilot was forced to close and dogfight with his opponent._
 ---
 ---

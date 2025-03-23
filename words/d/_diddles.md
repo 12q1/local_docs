@@ -1,13 +1,13 @@
 # Diddles
 ---
 #verb
-- **To cheat; to swindle.**
+- **To [[c/_cheat|cheat]]; to swindle.**
 - **To have sex with.**
 - **To masturbate (especially of women).**
 - **To waste time.**
-- **To totter, like a child learning to walk; to daddle.**
-- **To manipulate a value at the level of individual bits (binary digits).**
+- **To totter, like a [[c/_child|child]] learning to walk; to [[d/_daddle|daddle]].**
+- **To manipulate a value at the level of individual [[b/_bits|bits]] ([[b/_binary|binary]] [[d/_digits|digits]]).**
 ---
 ### Synonyms
-- [[[[d/_defraud|defraud]]]], [[take for a ride]], [[go to [[b/_bed|bed]] with]], [[sleep with]], [[[[b/_beat|beat]] off]], [[play with oneself]], [[reel]], [[stagger]], [[sway]], [[[[d/_dick|dick]] [[a/_around|around]]]], [[lollygag]]
+- [[defraud]], [[take for a ride]], [[go to bed with]], [[sleep with]], [[beat off]], [[play with oneself]], [[reel]], [[stagger]], [[sway]], [[dick around]], [[lollygag]]
 ---

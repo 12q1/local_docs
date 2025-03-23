@@ -1,6 +1,6 @@
 # Armrest
 ---
 #noun
-- **Part of the seat of a chair that is designed to support the arm.**
+- **Part of the seat of a [[c/_chair|chair]] that is [[d/_designed|designed]] to support the [[a/_arm|arm]].**
 ---
 ---

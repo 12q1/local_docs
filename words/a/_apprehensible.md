@@ -1,8 +1,8 @@
 # Apprehensible
 ---
 #adjective
-- **Which can be apprehended (usually in the sense of being understood).**
+- **Which [[c/_can|can]] be [[a/_apprehended|apprehended]] (usually in the sense of [[b/_being|being]] understood).**
 ---
 ### Synonyms
-- [[[[a/_apprehendable|apprehendable]]]]
+- [[apprehendable]]
 ---

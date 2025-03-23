@@ -1,8 +1,8 @@
 # Backache
 ---
 #noun
-- **Any pain or ache in the back.**
+- **[[a/_any|Any]] pain or [[a/_ache|ache]] in the [[b/_back|back]].**
 ---
 ### Synonyms
-- [[[[b/_back|back]] pain]]
+- [[back pain]]
 ---

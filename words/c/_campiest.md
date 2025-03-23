@@ -1,9 +1,9 @@
 # Campiest
 ---
 #adjective
-- **Characterized by camp or kitsch, especially when deliberate or intentional.**
+- **[[c/_characterized|Characterized]] by [[c/_camp|camp]] or kitsch, especially when [[d/_deliberate|deliberate]] or intentional.**
 	- _Example: Stu liked to watch campy B-movie horror flicks from the 1950s, not because they scared him, but because he found them funny._
 ---
 ### Synonyms
-- [[[[c/_camp|camp]]]], [[[[c/_corny|corny]]]], [[hammy]], [[silly]], [[tawdry]], [[vulgar]]
+- [[camp]], [[corny]], [[hammy]], [[silly]], [[tawdry]], [[vulgar]]
 ---

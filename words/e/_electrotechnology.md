@@ -1,6 +1,6 @@
 # Electrotechnology
 ---
 #noun
-- **Electrical technology and engineering.**
+- **[[e/_electrical|Electrical]] technology and [[e/_engineering|engineering]].**
 ---
 ---

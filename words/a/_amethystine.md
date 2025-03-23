@@ -1,6 +1,6 @@
 # Amethystine
 ---
 #adjective
-- **Like amethyst, especially in colour.**
+- **Like [[a/_amethyst|amethyst]], especially in [[c/_colour|colour]].**
 ---
 ---

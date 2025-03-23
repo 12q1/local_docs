@@ -1,6 +1,6 @@
 # Diamine
 ---
 #noun
-- **Any compound containing two amino functional groups.**
+- **[[a/_any|Any]] [[c/_compound|compound]] [[c/_containing|containing]] two [[a/_amino|amino]] functional groups.**
 ---
 ---

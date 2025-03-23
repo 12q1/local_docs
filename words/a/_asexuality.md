@@ -1,10 +1,10 @@
 # Asexuality
 ---
 #noun
-- **The state or quality of being asexual, that is:**
+- **The state or quality of [[b/_being|being]] [[a/_asexual|asexual]], that is:**
 ---
 ### Synonyms
-- [[[[a/_anaphrodisia|anaphrodisia]]]]
+- [[anaphrodisia]]
 ### Antonyms
 - [[allosexuality]]
 ---

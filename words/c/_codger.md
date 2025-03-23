@@ -1,6 +1,6 @@
 # Codger
 ---
 #noun
-- **An amusingly eccentric or grumpy and usually elderly man.**
+- **An [[a/_amusingly|amusingly]] [[e/_eccentric|eccentric]] or grumpy and usually [[e/_elderly|elderly]] man.**
 ---
 ---

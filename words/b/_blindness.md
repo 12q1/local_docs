@@ -1,10 +1,10 @@
 # Blindness
 ---
 #noun
-- **The condition of being blind; unable to see.**
-- **Want of intellectual or moral discernment; mental darkness; ignorance, heedlessness.**
-- **Concealment**
+- **The [[c/_condition|condition]] of [[b/_being|being]] [[b/_blind|blind]]; unable to see.**
+- **Want of intellectual or moral [[d/_discernment|discernment]]; mental [[d/_darkness|darkness]]; ignorance, heedlessness.**
+- **[[c/_concealment|Concealment]]**
 ---
 ### Synonyms
-- [[[[a/_ablepsy|ablepsy]]]], [[blindhood]], [[[[c/_cecity|cecity]]]], [[sightlessness]]
+- [[ablepsy]], [[blindhood]], [[cecity]], [[sightlessness]]
 ---

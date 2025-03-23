@@ -1,8 +1,8 @@
 # Conspirator
 ---
 #noun
-- **One of a group that acts in harmony; a person who is part of a conspiracy.**
-- **Part of a group that agree to do an unlawful or unethical act.**
+- **One of a group that [[a/_acts|acts]] in harmony; a person who is part of a [[c/_conspiracy|conspiracy]].**
+- **Part of a group that [[a/_agree|agree]] to [[d/_do|do]] an unlawful or unethical [[a/_act|act]].**
 	- _Example: The conspirators were rounded up by the police and arrested._
 ---
 ---

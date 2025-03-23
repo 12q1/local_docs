@@ -1,24 +1,24 @@
 # Engrossing
 ---
 #verb
-- **To write (a document) in large, aesthetic, and legible lettering; to make a finalized copy of.**
-- **To buy up wholesale, especially to buy the whole supply of (a commodity etc.).**
-- **To monopolize; to concentrate (something) in the single possession of someone, especially unfairly.**
-- **To completely engage the attention of.**
+- **To write (a [[d/_document|document]]) in large, [[a/_aesthetic|aesthetic]], and legible lettering; to make a finalized [[c/_copy|copy]] of.**
+- **To [[b/_buy|buy]] up wholesale, especially to [[b/_buy|buy]] the whole supply of (a [[c/_commodity|commodity]] etc.).**
+- **To monopolize; to [[c/_concentrate|concentrate]] (something) in the single possession of someone, especially unfairly.**
+- **To [[c/_completely|completely]] [[e/_engage|engage]] the [[a/_attention|attention]] of.**
 	- _Example: She seems to be completely engrossed in that book._
-- **To thicken; to condense.**
-- **To make gross, thick, or large; to thicken; to increase in bulk or quantity.**
-- **To amass.**
+- **To thicken; to [[c/_condense|condense]].**
+- **To make gross, thick, or large; to thicken; to increase in [[b/_bulk|bulk]] or quantity.**
+- **To [[a/_amass|amass]].**
 ---
 ### Synonyms
-- [[amound]], [[hoard]], [[[[c/_corner|corner]] the market]], [[inspissate]]
+- [[amound]], [[hoard]], [[corner the market]], [[inspissate]]
 #noun
-- **The act of one who engrosses, or buys up wholesale.**
+- **The [[a/_act|act]] of one who [[e/_engrosses|engrosses]], or [[b/_buys|buys]] up wholesale.**
 ---
 #adjective
-- **Utterly consuming one's time and attention.**
+- **Utterly [[c/_consuming|consuming]] one's time and [[a/_attention|attention]].**
 	- _Example: an engrossing documentary_
 ---
 ### Synonyms
-- [[[[a/_absorbing|absorbing]]]], [[fascinating]]
+- [[absorbing]], [[fascinating]]
 ---

@@ -1,6 +1,6 @@
 # Duplexity
 ---
 #noun
-- **The state of being duplex**
+- **The state of [[b/_being|being]] [[d/_duplex|duplex]]**
 ---
 ---

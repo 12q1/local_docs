@@ -1,10 +1,10 @@
 # Devastates
 ---
 #verb
-- **To ruin many or all things over a large area, such as most or all buildings of a city, or cities of a region, or trees of a forest.**
-- **To destroy a whole collection of related ideas, beliefs, and strongly held opinions.**
-- **To break beyond recovery or repair so that the only options are abandonment or the clearing away of useless remains (if any) and starting over.**
+- **To ruin many or [[a/_all|all]] things over a large [[a/_area|area]], such as most or [[a/_all|all]] [[b/_buildings|buildings]] of a [[c/_city|city]], or [[c/_cities|cities]] of a region, or trees of a forest.**
+- **To [[d/_destroy|destroy]] a whole [[c/_collection|collection]] of related ideas, [[b/_beliefs|beliefs]], and strongly held opinions.**
+- **To [[b/_break|break]] [[b/_beyond|beyond]] recovery or repair so that the only options are [[a/_abandonment|abandonment]] or the [[c/_clearing|clearing]] [[a/_away|away]] of useless remains (if [[a/_any|any]]) and starting over.**
 ---
 ### Synonyms
-- [[[[d/_decimate|decimate]]]], [[[[d/_destroy|destroy]]]], [[raze]], [[ruin]]
+- [[decimate]], [[destroy]], [[raze]], [[ruin]]
 ---

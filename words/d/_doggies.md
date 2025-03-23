@@ -1,12 +1,12 @@
 # Doggies
 ---
 #noun
-- **A dog, especially a small one.**
+- **A [[d/_dog|dog]], especially a small one.**
 	- _Example: That's such a cute little doggy, Keira!_
-- **Doggy style**
+- **[[d/_doggy|Doggy]] style**
 	- _Example: Her favourite position is doggy._
-- **(armed services) A junior temporarily assigned to do minor duties for a senior; a gofer.**
+- **([[a/_armed|armed]] services) A junior temporarily [[a/_assigned|assigned]] to [[d/_do|do]] minor [[d/_duties|duties]] for a senior; a gofer.**
 ---
 ### Synonyms
-- [[pooch]], [[poochie]], [[pup]], [[puppy]], [[puppy [[d/_dog|dog]]]]
+- [[pooch]], [[poochie]], [[pup]], [[puppy]], [[puppy dog]]
 ---

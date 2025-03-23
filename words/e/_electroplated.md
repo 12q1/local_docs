@@ -1,9 +1,9 @@
 # Electroplated
 ---
 #verb
-- **To coat (an object) with a thin layer of metal using electrolysis**
+- **To [[c/_coat|coat]] (an object) with a thin layer of metal using [[e/_electrolysis|electrolysis]]**
 ---
 #adjective
-- **Having a thin electrochemical layer of metal deposited on its surface**
+- **Having a thin [[e/_electrochemical|electrochemical]] layer of metal [[d/_deposited|deposited]] on its surface**
 ---
 ---

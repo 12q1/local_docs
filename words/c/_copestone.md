@@ -1,6 +1,6 @@
 # Copestone
 ---
 #noun
-- **Capstone**
+- **[[c/_capstone|Capstone]]**
 ---
 ---

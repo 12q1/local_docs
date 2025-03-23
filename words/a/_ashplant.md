@@ -1,8 +1,8 @@
 # Ashplant
 ---
 #noun
-- **An ash sapling.**
+- **An [[a/_ash|ash]] sapling.**
 - **A walking stick.**
-- **A stick kept for administering corporal punishment, a cane.**
+- **A stick kept for [[a/_administering|administering]] [[c/_corporal|corporal]] punishment, a [[c/_cane|cane]].**
 ---
 ---

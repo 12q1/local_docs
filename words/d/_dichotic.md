@@ -1,6 +1,6 @@
 # Dichotic
 ---
 #adjective
-- **That stimulates each ear with a different pitch or loudness**
+- **That stimulates [[e/_each|each]] [[e/_ear|ear]] with a [[d/_different|different]] pitch or loudness**
 ---
 ---

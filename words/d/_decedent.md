@@ -1,9 +1,9 @@
 # Decedent
 ---
 #noun
-- **A dead person.**
+- **A [[d/_dead|dead]] person.**
 ---
 #adjective
-- **Removing; departing.**
+- **Removing; [[d/_departing|departing]].**
 ---
 ---

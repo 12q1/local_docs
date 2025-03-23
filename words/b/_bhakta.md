@@ -1,6 +1,6 @@
 # Bhakta
 ---
 #noun
-- **Someone who practises bhakti; a person who is devoted to God; a devotee; a worshipper.**
+- **Someone who practises [[b/_bhakti|bhakti]]; a person who is [[d/_devoted|devoted]] to God; a [[d/_devotee|devotee]]; a worshipper.**
 ---
 ---

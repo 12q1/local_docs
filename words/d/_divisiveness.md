@@ -1,6 +1,6 @@
 # Divisiveness
 ---
 #noun
-- **The characteristic of being divisive.**
+- **The [[c/_characteristic|characteristic]] of [[b/_being|being]] [[d/_divisive|divisive]].**
 ---
 ---

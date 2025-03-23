@@ -1,17 +1,17 @@
 # Conglomerate
 ---
 #noun
-- **A cluster of heterogeneous things.**
-- **A corporation formed by the combination of several smaller corporations whose activities are unrelated to the corporation's primary activity.**
-- **A rock consisting of gravel or pebbles embedded in a matrix.**
+- **A [[c/_cluster|cluster]] of heterogeneous things.**
+- **A [[c/_corporation|corporation]] formed by the [[c/_combination|combination]] of several smaller [[c/_corporations|corporations]] whose [[a/_activities|activities]] are unrelated to the [[c/_corporation|corporation]]'s primary [[a/_activity|activity]].**
+- **A rock [[c/_consisting|consisting]] of gravel or pebbles [[e/_embedded|embedded]] in a matrix.**
 ---
 #verb
-- **To combine together into a larger mass.**
-- **To combine together into a larger corporation.**
+- **To [[c/_combine|combine]] together into a larger mass.**
+- **To [[c/_combine|combine]] together into a larger [[c/_corporation|corporation]].**
 ---
 #adjective
-- **Clustered together into a mass.**
+- **[[c/_clustered|Clustered]] together into a mass.**
 	- _Example: conglomerate flowers_
-- **Composed of fragments of rock, pebbles, or stones cemented together.**
+- **[[c/_composed|Composed]] of fragments of rock, pebbles, or stones [[c/_cemented|cemented]] together.**
 ---
 ---

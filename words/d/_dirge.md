@@ -1,12 +1,12 @@
 # Dirge
 ---
 #noun
-- **A mournful poem or piece of music composed or performed as a memorial to a dead person.**
-- **A song or piece of music that is considered too slow, bland or boring.**
+- **A mournful poem or piece of music [[c/_composed|composed]] or performed as a memorial to a [[d/_dead|dead]] person.**
+- **A song or piece of music that is [[c/_considered|considered]] too slow, [[b/_bland|bland]] or [[b/_boring|boring]].**
 ---
 ### Synonyms
-- [[[[c/_coronach|coronach]]]], [[[[e/_elegy|elegy]]]], [[lament]], [[requiem]], [[threnody]]
+- [[coronach]], [[elegy]], [[lament]], [[requiem]], [[threnody]]
 #verb
-- **To sing dirges**
+- **To sing [[d/_dirges|dirges]]**
 ---
 ---

@@ -1,22 +1,22 @@
 # Browning
 ---
 #verb
-- **To become brown.**
+- **To [[b/_become|become]] [[b/_brown|brown]].**
 	- _Example: Fry the onions until they brown._
-- **To cook something until it becomes brown.**
+- **To [[c/_cook|cook]] something until it [[b/_becomes|becomes]] [[b/_brown|brown]].**
 	- _Example: Brown the onions in a large frying pan._
 - **To tan.**
 	- _Example: Light-skinned people tend to brown when exposed to the sun._
-- **To make brown or dusky.**
-- **To give a bright brown colour to, as to gun barrels, by forming a thin coating of oxide on their surface.**
-- **(usually derogatory) To turn progressively more Middle Eastern, Hispanic or Latino, in the context of the population of a geographic region.**
+- **To make [[b/_brown|brown]] or [[d/_dusky|dusky]].**
+- **To give a [[b/_bright|bright]] [[b/_brown|brown]] [[c/_colour|colour]] to, as to gun [[b/_barrels|barrels]], by forming a thin [[c/_coating|coating]] of oxide on their surface.**
+- **(usually [[d/_derogatory|derogatory]]) To turn progressively more Middle [[e/_eastern|Eastern]], Hispanic or Latino, in the [[c/_context|context]] of the population of a geographic region.**
 	- _Example: the browning of America_
-- **To treat with deference, or respect.**
+- **To treat with [[d/_deference|deference]], or respect.**
 ---
 #noun
-- **The act or operation of giving a brown colour, as to gun barrels, cooked food, etc.**
-- **Any of various preparations used to impart a brown colour to gravy, leather, etc.**
-- **A smooth coat of brown mortar, usually the second coat, and the preparation for the finishing coat of plaster.**
-- **A brown-skinned person.**
+- **The [[a/_act|act]] or operation of giving a [[b/_brown|brown]] [[c/_colour|colour]], as to gun [[b/_barrels|barrels]], [[c/_cooked|cooked]] food, etc.**
+- **[[a/_any|Any]] of various preparations used to impart a [[b/_brown|brown]] [[c/_colour|colour]] to gravy, leather, etc.**
+- **A smooth [[c/_coat|coat]] of [[b/_brown|brown]] mortar, usually the second [[c/_coat|coat]], and the preparation for the finishing [[c/_coat|coat]] of plaster.**
+- **A [[b/_brown|brown]]-skinned person.**
 ---
 ---

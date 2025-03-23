@@ -1,6 +1,6 @@
 # Drome
 ---
 #noun
-- **The crab plover, Dromas ardeola, of North Africa.**
+- **The [[c/_crab|crab]] plover, Dromas ardeola, of North [[a/_africa|Africa]].**
 ---
 ---

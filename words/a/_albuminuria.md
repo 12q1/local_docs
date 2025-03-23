@@ -1,6 +1,6 @@
 # Albuminuria
 ---
 #noun
-- **The presence of albumin in the urine, often a symptom of renal disease**
+- **The presence of [[a/_albumin|albumin]] in the urine, often a symptom of renal [[d/_disease|disease]]**
 ---
 ---

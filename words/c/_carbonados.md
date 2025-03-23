@@ -1,13 +1,13 @@
 # Carbonados
 ---
 #noun
-- **Meat or fish that has been scored and broiled.**
+- **Meat or fish that has [[b/_been|been]] scored and [[b/_broiled|broiled]].**
 ---
 ### Synonyms
-- [[[[c/_carbonade|carbonade]]]]
+- [[carbonade]]
 #noun
-- **A dark, non-transparent, impure form of polycrystalline diamond (also containing graphite and amorphous carbon) used in drilling.**
+- **A [[d/_dark|dark]], non-transparent, impure form of polycrystalline [[d/_diamond|diamond]] ([[a/_also|also]] [[c/_containing|containing]] graphite and [[a/_amorphous|amorphous]] [[c/_carbon|carbon]]) used in [[d/_drilling|drilling]].**
 ---
 ### Synonyms
-- [[[[b/_black|black]] [[d/_diamond|diamond]]]]
+- [[black diamond]]
 ---

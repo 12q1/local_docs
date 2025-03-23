@@ -1,8 +1,8 @@
 # Dipsos
 ---
 #noun
-- **A dipsomaniac; an alcoholic; a drunk.**
+- **A [[d/_dipsomaniac|dipsomaniac]]; an [[a/_alcoholic|alcoholic]]; a [[d/_drunk|drunk]].**
 ---
 ### Synonyms
-- [[[[a/_alco|alco]]]], [[[[a/_alcoholic|alcoholic]]]], [[souse]], [[suck-pint]]
+- [[alco]], [[alcoholic]], [[souse]], [[suck-pint]]
 ---

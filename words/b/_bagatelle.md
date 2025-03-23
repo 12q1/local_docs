@@ -2,14 +2,14 @@
 ---
 #noun
 - **A trifle; an insubstantial thing.**
-- **A short piece of literature or of instrumental music, typically light or playful in character.**
-- **A game similar to billiards played on an oblong table with pockets or arches at one end only.**
-- **Any of several smaller, wooden table top games developed from the original bagatelle in which the pockets are made of pins; also called pin bagatelle, hit-a-pin bagatelle, jaw ball.**
+- **A short piece of literature or of instrumental music, typically light or playful in [[c/_character|character]].**
+- **A game similar to [[b/_billiards|billiards]] played on an oblong table with pockets or [[a/_arches|arches]] at one [[e/_end|end]] only.**
+- **[[a/_any|Any]] of several smaller, wooden table top games [[d/_developed|developed]] from the original [[b/_bagatelle|bagatelle]] in which the pockets are made of pins; [[a/_also|also]] [[c/_called|called]] pin [[b/_bagatelle|bagatelle]], hit-a-pin [[b/_bagatelle|bagatelle]], jaw [[b/_ball|ball]].**
 ---
 ### Synonyms
-- [[[[b/_bag|bag]] of shells]]
+- [[bag of shells]]
 #verb
-- **To meander or move around, in a manner similar to the ball in the game of bagatelle.**
-- **To bagatellize; to regard as a bagatelle.**
+- **To meander or move [[a/_around|around]], in a manner similar to the [[b/_ball|ball]] in the game of [[b/_bagatelle|bagatelle]].**
+- **To bagatellize; to regard as a [[b/_bagatelle|bagatelle]].**
 ---
 ---

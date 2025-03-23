@@ -1,12 +1,12 @@
 # Bisects
 ---
 #noun
-- **A bisector, which divides into two equal parts.**
-- **An envelope, card, or fragment thereof showing an affixed cut half of a regular issued stamp, over which one or more postal markings have been applied. Typically used in wartime when normal lower rate stamps may not be available.**
+- **A [[b/_bisector|bisector]], which [[d/_divides|divides]] into two [[e/_equal|equal]] parts.**
+- **An [[e/_envelope|envelope]], [[c/_card|card]], or fragment thereof showing an [[a/_affixed|affixed]] [[c/_cut|cut]] half of a regular issued stamp, over which one or more postal markings have [[b/_been|been]] [[a/_applied|applied]]. Typically used in wartime when normal lower rate stamps may not be [[a/_available|available]].**
 ---
 #verb
-- **To cut or divide into two parts.**
+- **To [[c/_cut|cut]] or [[d/_divide|divide]] into two parts.**
 ---
 ### Synonyms
-- [[[[d/_dichotomize|dichotomize]]]], [[[[d/_dimidiate|dimidiate]]]]
+- [[dichotomize]], [[dimidiate]]
 ---

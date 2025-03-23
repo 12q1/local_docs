@@ -1,6 +1,6 @@
 # Disforest
 ---
 #verb
-- **To disafforest**
+- **To [[d/_disafforest|disafforest]]**
 ---
 ---

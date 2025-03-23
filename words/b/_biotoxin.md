@@ -1,6 +1,6 @@
 # Biotoxin
 ---
 #noun
-- **Any toxin produced by a living organism**
+- **[[a/_any|Any]] toxin produced by a living organism**
 ---
 ---

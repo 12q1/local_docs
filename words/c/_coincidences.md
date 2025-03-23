@@ -1,11 +1,11 @@
 # Coincidences
 ---
 #noun
-- **Of objects, the property of being coincident; occurring at the same time or place.**
-- **Of events, the appearance of a meaningful connection when there is none.**
-- **A coincidence point.**
-- **A fixed point of a correspondence; a point of a variety corresponding to itself under a correspondence.**
+- **Of objects, the property of [[b/_being|being]] [[c/_coincident|coincident]]; occurring at the same time or place.**
+- **Of events, the [[a/_appearance|appearance]] of a meaningful [[c/_connection|connection]] when there is none.**
+- **A [[c/_coincidence|coincidence]] point.**
+- **A fixed point of a [[c/_correspondence|correspondence]]; a point of a variety [[c/_corresponding|corresponding]] to itself under a [[c/_correspondence|correspondence]].**
 ---
 ### Synonyms
-- [[[[c/_coincidence|coincidence]] point]], [[[[c/_concurrentness|concurrentness]]]], [[synchronicity]]
+- [[coincidence point]], [[concurrentness]], [[synchronicity]]
 ---

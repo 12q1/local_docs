@@ -1,6 +1,6 @@
 # Empressement
 ---
 #noun
-- **Animated cordiality; friendliness, enthusiasm.**
+- **[[a/_animated|Animated]] [[c/_cordiality|cordiality]]; friendliness, [[e/_enthusiasm|enthusiasm]].**
 ---
 ---

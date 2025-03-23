@@ -1,8 +1,8 @@
 # Collectables
 ---
 #noun
-- **Anything that someone might want to collect.**
+- **[[a/_anything|Anything]] that someone might want to [[c/_collect|collect]].**
 ---
 ### Synonyms
-- [[[[c/_collector|collector]]'s item]]
+- [[collector's item]]
 ---

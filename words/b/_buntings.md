@@ -1,19 +1,19 @@
 # Buntings
 ---
 #noun
-- **Strips of material used as festive decoration, especially in the colours of the national flag.**
-- **A thin cloth of woven wool from which flags are made; it is light enough to spread in a gentle wind but resistant to fraying in a strong wind.**
-- **Flags considered as a group.**
+- **Strips of material used as festive [[d/_decoration|decoration]], especially in the [[c/_colours|colours]] of the national flag.**
+- **A thin [[c/_cloth|cloth]] of woven wool from which flags are made; it is light [[e/_enough|enough]] to spread in a gentle wind but resistant to fraying in a strong wind.**
+- **Flags [[c/_considered|considered]] as a group.**
 ---
 #noun
-- **Any of various songbirds, mostly of the genus Emberiza, having short bills and brown or gray plumage.**
+- **[[a/_any|Any]] of various songbirds, mostly of the genus [[e/_emberiza|Emberiza]], having short [[b/_bills|bills]] and [[b/_brown|brown]] or gray plumage.**
 ---
 #noun
-- **A warm, hooded infant garment, as outerwear or sleepwear, similar to a sleeper or sleepsack; especially as baby bunting or bunting bag.**
+- **A warm, hooded infant garment, as outerwear or sleepwear, similar to a sleeper or sleepsack; especially as [[b/_baby|baby]] [[b/_bunting|bunting]] or [[b/_bunting|bunting]] [[b/_bag|bag]].**
 ---
 #noun
-- **A pushing action.**
+- **A pushing [[a/_action|action]].**
 - **A strong timber; a stout prop.**
-- **An old boys' game, played with sticks and a small piece of wood.**
+- **An old [[b/_boys|boys]]' game, played with sticks and a small piece of wood.**
 ---
 ---

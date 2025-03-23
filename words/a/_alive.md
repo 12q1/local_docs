@@ -1,54 +1,54 @@
 # Alive
 ---
 #adjective
-- **Having life; living; not dead**
+- **Having life; living; not [[d/_dead|dead]]**
 	- _Example: As long as the plant is alive, he will continue to water it._
-- **In a state of action; in force or operation; existent**
+- **In a state of [[a/_action|action]]; in force or operation; existent**
 	- _Example: to keep the affections alive_
-- **Busy with activity of many living beings; swarming; thronged; busy.**
+- **[[b/_busy|Busy]] with [[a/_activity|activity]] of many living [[b/_beings|beings]]; swarming; thronged; [[b/_busy|busy]].**
 	- _Example: Although quite dull during the day, the main street comes alive at night, with many bars and clubs opening._
-- **Sprightly; lively; brisk.**
-- **Susceptible; easy to impress; having keen feelings, as opposed to apathy**
-- **(as an intensifier) out of all living creatures.**
+- **Sprightly; lively; [[b/_brisk|brisk]].**
+- **Susceptible; [[e/_easy|easy]] to impress; having keen feelings, as opposed to [[a/_apathy|apathy]]**
+- **(as an intensifier) out of [[a/_all|all]] living [[c/_creatures|creatures]].**
 ---
 ### Synonyms
-- [[[[a/_alive|alive]] and kicking]], [[extant]], [[vital]], [[existing]], [[extant]], [[ever]], [[in the world]], [[frisky]], [[peppy]], [[zestful]]
+- [[alive and kicking]], [[extant]], [[vital]], [[existing]], [[extant]], [[ever]], [[in the world]], [[frisky]], [[peppy]], [[zestful]]
 ### Antonyms
-- [[[[d/_dead|dead]]]]
+- [[dead]]
 #adjective
-- **(only used attributively) Having life; that is alive.**
+- **(only used [[a/_attributively|attributively]]) Having life; that is [[a/_alive|alive]].**
 	- _Example: The post office will not ship live animals._
-- **Being in existence; actual**
+- **[[b/_being|Being]] in existence; [[a/_actual|actual]]**
 	- _Example: He is a live example of the consequences of excessive drinking._
-- **Having active properties; being energized.**
-- **Operational; in actual use rather than in testing etc.**
-- **Taken from a living animal.**
+- **Having [[a/_active|active]] properties; [[b/_being|being]] [[e/_energized|energized]].**
+- **Operational; in [[a/_actual|actual]] use rather than in testing etc.**
+- **Taken from a living [[a/_animal|animal]].**
 	- _Example: live feathers_
 - **Imparting power; having motion.**
 	- _Example: a live, or driving, axle_
-- **Still in active play.**
+- **Still in [[a/_active|active]] play.**
 	- _Example: a live ball_
-- **Seen or heard from a broadcast, as it happens.**
+- **Seen or heard from a [[b/_broadcast|broadcast]], as it happens.**
 	- _Example: The station presented a live news program every evening._
 - **(of a performance or speech) In person.**
 	- _Example: This nightclub has a live band on weekends._
-- **(entertainment, performing) Recorded in front of an audience and not having been edited after recording.**
+- **([[e/_entertainment|entertainment]], performing) Recorded in front of an [[a/_audience|audience]] and not having [[b/_been|been]] [[e/_edited|edited]] [[a/_after|after]] recording.**
 	- _Example: a live album_
-- **Of firearms or explosives, capable of causing harm.**
+- **Of firearms or explosives, [[c/_capable|capable]] of [[c/_causing|causing]] harm.**
 	- _Example: The air force practices dropping live bombs on the uninhabited island._
-- **(circuitry) Electrically charged or energized, usually indicating that the item may cause electrocution if touched.**
+- **([[c/_circuitry|circuitry]]) [[e/_electrically|Electrically]] [[c/_charged|charged]] or [[e/_energized|energized]], usually indicating that the item may [[c/_cause|cause]] [[e/_electrocution|electrocution]] if touched.**
 	- _Example: Use caution when working near live wires._
-- **Being a bet which can be raised by the bettor, usually in reference to a blind or straddle.**
+- **[[b/_being|Being]] a [[b/_bet|bet]] which [[c/_can|can]] be raised by the [[b/_bettor|bettor]], usually in reference to a [[b/_blind|blind]] or straddle.**
 	- _Example: Tommy's blind was live, so he was given the option to raise._
-- **Featuring humans; not animated, in the phrases “live actors” or “live action”.**
-- **Being in a state of ignition; burning.**
+- **Featuring humans; not [[a/_animated|animated]], in the phrases “live [[a/_actors|actors]]” or “live [[a/_action|action]]”.**
+- **[[b/_being|Being]] in a state of ignition; [[b/_burning|burning]].**
 	- _Example: a live coal; live embers_
-- **Full of earnestness; active; wide awake; glowing.**
+- **Full of [[e/_earnestness|earnestness]]; [[a/_active|active]]; wide [[a/_awake|awake]]; glowing.**
 	- _Example: a live man, or orator_
-- **Vivid; bright.**
+- **Vivid; [[b/_bright|bright]].**
 ---
 ### Synonyms
-- [[real]], [[hot]], [[[[a/_alive|alive]]]], [[living]], [[in person]], [[in the flesh]]
+- [[real]], [[hot]], [[alive]], [[living]], [[in person]], [[in the flesh]]
 ### Antonyms
-- [[prerecorded]], [[recorded]], [[[[b/_blank|blank]]]], [[[[d/_dummy|dummy]]]], [[[[d/_dead|dead]]]], [[neutral]], [[[[a/_animated|animated]]]], [[[[d/_dead|dead]]]], [[[[b/_broadcast|broadcast]]]]
+- [[prerecorded]], [[recorded]], [[blank]], [[dummy]], [[dead]], [[neutral]], [[animated]], [[dead]], [[broadcast]]
 ---

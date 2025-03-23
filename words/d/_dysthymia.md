@@ -1,11 +1,11 @@
 # Dysthymia
 ---
 #noun
-- **A tendency to be depressed, without hope.**
-- **A form of clinical depression, characterized by low-grade depression which lasts at least 2 years.**
+- **A tendency to be [[d/_depressed|depressed]], without hope.**
+- **A form of [[c/_clinical|clinical]] [[d/_depression|depression]], [[c/_characterized|characterized]] by low-grade [[d/_depression|depression]] which lasts at least 2 years.**
 ---
 ### Synonyms
-- [[[[d/_depression|depression]]]], [[[[d/_dejectedness|dejectedness]]]], [[[[d/_depression|depression]]]], [[[[d/_despondence|despondence]]]], [[gloom]], [[lypemania]]
+- [[depression]], [[dejectedness]], [[depression]], [[despondence]], [[gloom]], [[lypemania]]
 ### Antonyms
 - [[euthymia]], [[euphoria]]
 ---

@@ -2,9 +2,9 @@
 ---
 #noun
 - **A group of two things.**
-- **An empty box placed above the existing boxes of the beehive in order to allow the colony to expand or store additional honey.**
+- **An [[e/_empty|empty]] [[b/_box|box]] placed [[a/_above|above]] the existing [[b/_boxes|boxes]] of the [[b/_beehive|beehive]] in order to [[a/_allow|allow]] the [[c/_colony|colony]] to expand or store [[a/_additional|additional]] honey.**
 - **A tuplet of two notes played in the time of three.**
 ---
 ### Synonyms
-- [[super]], [[[[c/_couple|couple]]]], [[pair]]
+- [[super]], [[couple]], [[pair]]
 ---

@@ -1,6 +1,6 @@
 # Anaesthesiology
 ---
 #noun
-- **The science of administering anesthetics.**
+- **The science of [[a/_administering|administering]] [[a/_anesthetics|anesthetics]].**
 ---
 ---

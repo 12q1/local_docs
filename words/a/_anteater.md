@@ -1,7 +1,7 @@
 # Anteater
 ---
 #noun
-- **Any of several animals, in suborder Vermilingua, which are noted for eating ants and termites which they catch with their long sticky tongues.**
-- **Any of some other unrelated species that feed with ants, including pangolin (scaly anteater), echidna (spiny anteater), aardvark and numbat (banded anteater).**
+- **[[a/_any|Any]] of several [[a/_animals|animals]], in suborder Vermilingua, which are noted for [[e/_eating|eating]] [[a/_ants|ants]] and termites which they [[c/_catch|catch]] with their long sticky tongues.**
+- **[[a/_any|Any]] of some other unrelated species that feed with [[a/_ants|ants]], including pangolin (scaly [[a/_anteater|anteater]]), [[e/_echidna|echidna]] (spiny [[a/_anteater|anteater]]), [[a/_aardvark|aardvark]] and numbat ([[b/_banded|banded]] [[a/_anteater|anteater]]).**
 ---
 ---

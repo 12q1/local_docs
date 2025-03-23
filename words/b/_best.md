@@ -1,15 +1,15 @@
 # Best
 ---
 #noun
-- **The supreme effort one can make, or has made.**
+- **The supreme [[e/_effort|effort]] one [[c/_can|can]] make, or has made.**
 	- _Example: I did my best._
-- **One's best behavior.**
+- **One's [[b/_best|best]] [[b/_behavior|behavior]].**
 	- _Example: I was somewhat distant lately, and my lady promised me head every Tuesday of the week when I'm nice to her, so I better be on my best._
 - **The person (or persons; or thing or things) that is (are) most excellent.**
 ---
 #verb
-- **To surpass in skill or achievement.**
-- **To beat in a contest**
+- **To surpass in skill or [[a/_achievement|achievement]].**
+- **To [[b/_beat|beat]] in a [[c/_contest|contest]]**
 ---
 ### Antonyms
 - [[worst]]
@@ -20,29 +20,29 @@
 	- _Example: In my opinion, mushrooms are the best pizza toppings._
 ---
 ### Antonyms
-- [[[[b/_baddest|baddest]]]], [[worst]]
+- [[baddest]], [[worst]]
 #adjective
 - **(of people)**
-- **(of capabilities)**
+- **(of [[c/_capabilities|capabilities]])**
 - **(properties and qualities)**
 - **(when with and) Very, extremely. See good and.**
 	- _Example: The soup is good and hot._
-- **Holy (especially when capitalized) .**
+- **Holy (especially when [[c/_capitalized|capitalized]]) .**
 	- _Example: Good Friday_
 - **(of quantities)**
 ---
 ### Synonyms
-- [[[[a/_accomplished|accomplished]]]], [[[[a/_all|all]] right]], [[[[d/_decent|decent]]]], [[not [[b/_bad|bad]]]], [[satisfactory]], [[well]]
+- [[accomplished]], [[all right]], [[decent]], [[not bad]], [[satisfactory]], [[well]]
 ### Antonyms
-- [[[[b/_bad|bad]]]], [[evil]], [[[[b/_bad|bad]]]], [[poor]]
+- [[bad]], [[evil]], [[bad]], [[poor]]
 #adverb
-- **(manner) Accurately, competently, satisfactorily.**
+- **(manner) [[a/_accurately|Accurately]], [[c/_competently|competently]], satisfactorily.**
 	- _Example: He does his job well._
-- **(manner) Completely, fully.**
+- **(manner) [[c/_completely|Completely]], fully.**
 	- _Example: We’re well beat now._
-- **(degree) To a significant degree.**
+- **([[d/_degree|degree]]) To a significant [[d/_degree|degree]].**
 	- _Example: That author is well known._
-- **(degree) Very (as a general-purpose intensifier).**
-- **In a desirable manner; so as one could wish; satisfactorily; favourably; advantageously.**
+- **([[d/_degree|degree]]) Very (as a general-purpose intensifier).**
+- **In a [[d/_desirable|desirable]] manner; so as one [[c/_could|could]] wish; satisfactorily; favourably; [[a/_advantageously|advantageously]].**
 ---
 ---

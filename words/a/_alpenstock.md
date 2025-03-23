@@ -1,6 +1,6 @@
 # Alpenstock
 ---
 #noun
-- **A stout adjustable walking stick with a metal point, used by mountain climbers and walkers in hilly or uneven terrain**
+- **A stout [[a/_adjustable|adjustable]] walking stick with a metal point, used by mountain [[c/_climbers|climbers]] and walkers in hilly or uneven terrain**
 ---
 ---

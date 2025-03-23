@@ -1,34 +1,34 @@
 # Cap
 ---
 #noun
-- **A close-fitting hat, either brimless or peaked.**
+- **A [[c/_close|close]]-fitting hat, [[e/_either|either]] [[b/_brimless|brimless]] or peaked.**
 	- _Example: The children were all wearing caps to protect them from the sun._
 - **A special hat to indicate rank, occupation, etc.**
-- **An academic mortarboard.**
-- **A protective cover or seal.**
+- **An [[a/_academic|academic]] mortarboard.**
+- **A protective [[c/_cover|cover]] or seal.**
 	- _Example: He took the cap off the bottle and splashed himself with some cologne._
-- **A crown for covering a tooth.**
+- **A [[c/_crown|crown]] for [[c/_covering|covering]] a tooth.**
 	- _Example: He had golden caps on his teeth._
 - **The summit of a mountain, etc.**
 	- _Example: There was snow on the cap of the mountain._
-- **An artificial upper limit or ceiling.**
+- **An [[a/_artificial|artificial]] upper limit or [[c/_ceiling|ceiling]].**
 	- _Example: We should put a cap on the salaries, to keep them under control._
 - **The top part of a mushroom.**
-- **(toy) A small amount of percussive explosive in a paper strip or plastic cup for use in a toy gun.**
+- **(toy) A small [[a/_amount|amount]] of percussive explosive in a paper strip or plastic [[c/_cup|cup]] for use in a toy gun.**
 	- _Example: Billy spent all morning firing caps with his friends, re-enacting storming the beach at Normandy._
-- **A small explosive device used to detonate a larger charge of explosives.**
+- **A small explosive [[d/_device|device]] used to [[d/_detonate|detonate]] a larger [[c/_charge|charge]] of explosives.**
 	- _Example: He wired the cap to the bundle of dynamite, then detonated it remotely._
-- **A bullet used to shoot someone.**
-- **An international appearance.**
+- **A [[b/_bullet|bullet]] used to shoot someone.**
+- **An international [[a/_appearance|appearance]].**
 	- _Example: Rio Ferdinand won his 50th cap for England in a game against Sweden._
-- **The top, or uppermost part; the chief.**
+- **The top, or uppermost part; the [[c/_chief|chief]].**
 - **A respectful uncovering of the head.**
-- **The whole top of the head of a bird from the base of the bill to the nape of the neck.**
-- **The uppermost of any assemblage of parts.**
+- **The whole top of the head of a [[b/_bird|bird]] from the [[b/_base|base]] of the [[b/_bill|bill]] to the nape of the neck.**
+- **The uppermost of [[a/_any|any]] [[a/_assemblage|assemblage]] of parts.**
 	- _Example: the cap of column, door, etc.; a capital, coping, cornice, lintel, or plate_
-- **Something covering the top or end of a thing for protection or ornament.**
-- **A collar of iron or wood used in joining spars, as the mast and the topmast, the bowsprit and the jib boom; also, a covering of tarred canvas at the end of a rope.**
-- **A portion of a spherical or other convex surface.**
+- **Something [[c/_covering|covering]] the top or [[e/_end|end]] of a thing for protection or ornament.**
+- **A [[c/_collar|collar]] of iron or wood used in joining spars, as the mast and the topmast, the [[b/_bowsprit|bowsprit]] and the jib [[b/_boom|boom]]; [[a/_also|also]], a [[c/_covering|covering]] of tarred [[c/_canvas|canvas]] at the [[e/_end|end]] of a rope.**
+- **A portion of a spherical or other [[c/_convex|convex]] surface.**
 - **A large size of writing paper.**
 	- _Example: flat cap; foolscap; legal cap_
 - **A lie or exaggeration.**
@@ -37,13 +37,13 @@
 ### Antonyms
 - [[floor]]
 #verb
-- **To cover or seal with a cap.**
-- **To award a cap as a mark of distinction.**
+- **To [[c/_cover|cover]] or seal with a [[c/_cap|cap]].**
+- **To [[a/_award|award]] a [[c/_cap|cap]] as a mark of [[d/_distinction|distinction]].**
 - **To lie over or on top of something.**
 - **To surpass or outdo.**
 - **To set an upper limit on something.**
 	- _Example: cap wages._
-- **To make something even more wonderful at the end.**
+- **To make something even more wonderful at the [[e/_end|end]].**
 	- _Example: That really capped my day._
 - **To select a player to play for a specified side.**
 - **To shoot (someone) with a firearm.**
@@ -51,7 +51,7 @@
 - **To select to play for the national team.**
 	- _Example: Peter Shilton is the most capped English footballer._
 - **To salute by uncovering the head respectfully.**
-- **To deprive of a cap.**
+- **To [[d/_deprive|deprive]] of a [[c/_cap|cap]].**
 - **To tell a lie.**
 ---
 ---

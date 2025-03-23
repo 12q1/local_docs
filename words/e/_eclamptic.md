@@ -1,9 +1,9 @@
 # Eclamptic
 ---
 #noun
-- **One who suffers from eclampsia.**
+- **One who suffers from [[e/_eclampsia|eclampsia]].**
 ---
 #adjective
-- **Of or pertaining to eclampsia.**
+- **Of or pertaining to [[e/_eclampsia|eclampsia]].**
 ---
 ---

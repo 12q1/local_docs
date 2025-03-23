@@ -1,7 +1,7 @@
 # Deemsters
 ---
 #noun
-- **A judge; one who pronounces sentence or doom.**
+- **A judge; one who pronounces sentence or [[d/_doom|doom]].**
 - **A judge on the Isle of Man.**
 ---
 ---

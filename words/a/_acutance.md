@@ -1,6 +1,6 @@
 # Acutance
 ---
 #noun
-- **Edge contrast in an image; a component of sharpness.**
+- **[[e/_edge|Edge]] [[c/_contrast|contrast]] in an image; a [[c/_component|component]] of sharpness.**
 ---
 ---

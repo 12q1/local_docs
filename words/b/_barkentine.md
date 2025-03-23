@@ -1,6 +1,6 @@
 # Barkentine
 ---
 #noun
-- **A sailing vessel similar to a barque, but fore-and-aft (schooner) rigged on the mainmast**
+- **A sailing vessel similar to a [[b/_barque|barque]], but fore-and-[[a/_aft|aft]] (schooner) rigged on the mainmast**
 ---
 ---

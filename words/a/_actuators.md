@@ -1,9 +1,9 @@
 # Actuators
 ---
 #noun
-- **Something that actuates something else, especially a usually electric device that causes a mechanical device (i.e. a mechanism) to be switched on or off, for example an electric motor that opens and closes a valve**
+- **Something that [[a/_actuates|actuates]] something [[e/_else|else]], especially a usually [[e/_electric|electric]] [[d/_device|device]] that [[c/_causes|causes]] a mechanical [[d/_device|device]] (i.[[e/_e|e]]. a mechanism) to be switched on or off, for example an [[e/_electric|electric]] motor that opens and [[c/_closes|closes]] a valve**
 	- _Example: The mind is the actuator of the body._
-- **The mechanism that moves the head assembly on a disk drive**
-- **A relay that controls the flow of electricity**
+- **The mechanism that moves the head [[a/_assembly|assembly]] on a [[d/_disk|disk]] [[d/_drive|drive]]**
+- **A relay that [[c/_controls|controls]] the flow of [[e/_electricity|electricity]]**
 ---
 ---

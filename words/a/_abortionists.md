@@ -1,10 +1,10 @@
 # Abortionists
 ---
 #noun
-- **One who performs an illegal abortion in a non-medical setting (a back street, a hotel room, etc).**
-- **(chiefly in anti-abortion discourse) An abortion provider; one who performs a legal abortion.**
-- **(in anti-abortion discourse) One who favors abortion being legal.**
+- **One who performs an illegal [[a/_abortion|abortion]] in a non-medical setting (a [[b/_back|back]] street, a hotel room, etc).**
+- **([[c/_chiefly|chiefly]] in [[a/_anti|anti]]-[[a/_abortion|abortion]] [[d/_discourse|discourse]]) An [[a/_abortion|abortion]] provider; one who performs a legal [[a/_abortion|abortion]].**
+- **(in [[a/_anti|anti]]-[[a/_abortion|abortion]] [[d/_discourse|discourse]]) One who favors [[a/_abortion|abortion]] [[b/_being|being]] legal.**
 ---
 ### Antonyms
-- [[[[a/_anti|anti]]-[[a/_abortionist|abortionist]]]]
+- [[anti-abortionist]]
 ---

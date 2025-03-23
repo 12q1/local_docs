@@ -1,13 +1,13 @@
 # Ed
 ---
 #noun
-- **Education. Often used in set phrases such as phys ed, driver's ed, special ed, etc.**
+- **[[e/_education|Education]]. Often used in set phrases such as phys [[e/_ed|ed]], [[d/_driver|driver]]'s [[e/_ed|ed]], special [[e/_ed|ed]], etc.**
 ---
 #noun
-- **Edition**
-- **Editor**
-- **Education (uncountable)**
+- **[[e/_edition|Edition]]**
+- **[[e/_editor|Editor]]**
+- **[[e/_education|Education]] (uncountable)**
 ---
 ### Synonyms
-- [[[[e/_educ|educ]].]]
+- [[educ.]]
 ---

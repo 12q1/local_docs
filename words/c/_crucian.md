@@ -1,8 +1,8 @@
 # Crucian
 ---
 #noun
-- **A small greenish-brown carp, Carassius carassius, farmed in parts of Europe.**
+- **A small greenish-[[b/_brown|brown]] [[c/_carp|carp]], Carassius carassius, farmed in parts of Europe.**
 ---
 ### Synonyms
-- [[[[c/_crucian|crucian]] [[c/_carp|carp]]]]
+- [[crucian carp]]
 ---

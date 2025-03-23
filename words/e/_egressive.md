@@ -1,14 +1,14 @@
 # Egressive
 ---
 #noun
-- **A speech sound in which the air stream is created by pushing air out through the mouth or nose.**
+- **A speech sound in which the [[a/_air|air]] stream is [[c/_created|created]] by pushing [[a/_air|air]] out through the mouth or nose.**
 ---
 ### Antonyms
 - [[ingressive]]
 #adjective
-- **Going or directed outward.**
-- **(of a speech sound) Uttered by pushing air out through the mouth or nose.**
-- **Descriptive of a place or channel through which something such as water or lava leaves an area.**
+- **Going or [[d/_directed|directed]] outward.**
+- **(of a speech sound) Uttered by pushing [[a/_air|air]] out through the mouth or nose.**
+- **[[d/_descriptive|Descriptive]] of a place or [[c/_channel|channel]] through which something such as water or lava leaves an [[a/_area|area]].**
 ---
 ### Antonyms
 - [[ingressive]]

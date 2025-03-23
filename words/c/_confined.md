@@ -1,12 +1,12 @@
 # Confined
 ---
 #verb
-- **To restrict; to keep within bounds; to shut or keep in a limited space or area.**
-- **To have a common boundary; to border; to lie contiguous; to touch; followed by on or with.**
+- **To restrict; to keep within [[b/_bounds|bounds]]; to shut or keep in a limited space or [[a/_area|area]].**
+- **To have a [[c/_common|common]] [[b/_boundary|boundary]]; to [[b/_border|border]]; to lie [[c/_contiguous|contiguous]]; to touch; followed by on or with.**
 ---
 #adjective
 - **Not free to move.**
 - **Limited; narrow; restricted.**
-- **In childbed.**
+- **In [[c/_childbed|childbed]].**
 ---
 ---

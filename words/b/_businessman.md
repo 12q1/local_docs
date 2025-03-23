@@ -1,7 +1,7 @@
 # Businessman
 ---
 #noun
-- **A man in business, one who works at a commercial institution.**
+- **A man in [[b/_business|business]], one who works at a [[c/_commercial|commercial]] institution.**
 ---
 ### Synonyms
 - [[businessperson]]

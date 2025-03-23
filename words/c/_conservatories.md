@@ -5,10 +5,10 @@
 - **A storehouse.**
 ---
 #noun
-- **A large greenhouse or hothouse for the display of plants**
+- **A large greenhouse or hothouse for the [[d/_display|display]] of plants**
 - **A glass-walled and -roofed room in a house**
-- **A school of music or drama**
+- **A school of music or [[d/_drama|drama]]**
 ---
 ### Synonyms
-- [[Florida room]], [[solarium]], [[sunroom]], [[[[c/_conservatoire|conservatoire]]]], [[greenhouse]], [[hothouse]], [[orangery]], [[planthouse]]
+- [[Florida room]], [[solarium]], [[sunroom]], [[conservatoire]], [[greenhouse]], [[hothouse]], [[orangery]], [[planthouse]]
 ---

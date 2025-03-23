@@ -1,6 +1,6 @@
 # Disguisements
 ---
 #noun
-- **Disguise (deceptive appearance)**
+- **[[d/_disguise|Disguise]] ([[d/_deceptive|deceptive]] [[a/_appearance|appearance]])**
 ---
 ---

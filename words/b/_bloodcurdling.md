@@ -1,6 +1,6 @@
 # Bloodcurdling
 ---
 #adjective
-- **Causing great horror or terror.**
+- **[[c/_causing|Causing]] great horror or terror.**
 ---
 ---

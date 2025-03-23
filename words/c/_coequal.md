@@ -1,9 +1,9 @@
 # Coequal
 ---
 #noun
-- **An equal person or thing.**
+- **An [[e/_equal|equal]] person or thing.**
 ---
 #adjective
-- **Equal to each other in size, rank or position.**
+- **[[e/_equal|Equal]] to [[e/_each|each]] other in size, rank or position.**
 ---
 ---

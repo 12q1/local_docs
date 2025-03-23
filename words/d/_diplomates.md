@@ -1,9 +1,9 @@
 # Diplomates
 ---
 #noun
-- **A professional who has earned a diploma.**
+- **A professional who has [[e/_earned|earned]] a [[d/_diploma|diploma]].**
 ---
 #verb
-- **To award a diploma to.**
+- **To [[a/_award|award]] a [[d/_diploma|diploma]] to.**
 ---
 ---

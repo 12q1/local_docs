@@ -1,8 +1,8 @@
 # Acmes
 ---
 #noun
-- **The top or highest point; pinnacle; culmination.**
-- **The crisis or height of a disease.**
-- **Mature age; full bloom of life.**
+- **The top or highest point; pinnacle; [[c/_culmination|culmination]].**
+- **The [[c/_crisis|crisis]] or height of a [[d/_disease|disease]].**
+- **Mature [[a/_age|age]]; full [[b/_bloom|bloom]] of life.**
 ---
 ---

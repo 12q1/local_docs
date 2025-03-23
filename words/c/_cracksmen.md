@@ -1,6 +1,6 @@
 # Cracksmen
 ---
 #noun
-- **A burglar or safebreaker.**
+- **A [[b/_burglar|burglar]] or safebreaker.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Contrasuggestible
 ---
 #adjective
-- **Liable to respond to psychological suggestion by doing the opposite.**
+- **Liable to respond to psychological suggestion by [[d/_doing|doing]] the opposite.**
 ---
 ---

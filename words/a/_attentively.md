@@ -1,6 +1,6 @@
 # Attentively
 ---
 #adverb
-- **In an attentive manner.**
+- **In an [[a/_attentive|attentive]] manner.**
 ---
 ---

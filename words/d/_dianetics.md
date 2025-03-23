@@ -1,6 +1,6 @@
 # Dianetics
 ---
 #noun
-- **A self-help system designed by L. Ron Hubbard which is chiefly employed today in Scientology.**
+- **A self-help system [[d/_designed|designed]] by L. Ron Hubbard which is [[c/_chiefly|chiefly]] [[e/_employed|employed]] today in Scientology.**
 ---
 ---

@@ -1,11 +1,11 @@
 # Aches
 ---
 #noun
-- **Continued dull pain, as distinguished from sudden twinges, or spasmodic pain.**
+- **[[c/_continued|Continued]] [[d/_dull|dull]] pain, as [[d/_distinguished|distinguished]] from sudden twinges, or spasmodic pain.**
 ---
 #verb
-- **To suffer pain; to be the source of, or be in, pain, especially continued dull pain; to be distressed.**
-- **To cause someone or something to suffer pain.**
+- **To suffer pain; to be the source of, or be in, pain, especially [[c/_continued|continued]] [[d/_dull|dull]] pain; to be [[d/_distressed|distressed]].**
+- **To [[c/_cause|cause]] someone or something to suffer pain.**
 ---
 #noun
 - **Parsley**

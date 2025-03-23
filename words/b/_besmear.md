@@ -1,6 +1,6 @@
 # Besmear
 ---
 #verb
-- **To smear over; smear all over; sully.**
+- **To smear over; smear [[a/_all|all]] over; sully.**
 ---
 ---

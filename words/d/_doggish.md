@@ -1,9 +1,9 @@
 # Doggish
 ---
 #adjective
-- **Currish, resembling a mongrel dog, notably in its worst qualities**
+- **[[c/_currish|Currish]], resembling a mongrel [[d/_dog|dog]], notably in its worst qualities**
 - **Stylish in a showy way**
 ---
 ### Synonyms
-- [[[[d/_doggy|doggy]]]]
+- [[doggy]]
 ---

@@ -1,10 +1,10 @@
 # Comber
 ---
 #noun
-- **A person who combs wool, etc.**
-- **A machine that combs wool, etc.**
-- **A long, curving wave breaking on the shore.**
+- **A person who [[c/_combs|combs]] wool, etc.**
+- **A machine that [[c/_combs|combs]] wool, etc.**
+- **A long, [[c/_curving|curving]] wave [[b/_breaking|breaking]] on the shore.**
 ---
 ### Synonyms
-- [[[[b/_breaker|breaker]]]]
+- [[breaker]]
 ---

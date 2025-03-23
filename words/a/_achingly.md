@@ -1,6 +1,6 @@
 # Achingly
 ---
 #adverb
-- **In an aching manner; sorely.**
+- **In an [[a/_aching|aching]] manner; sorely.**
 ---
 ---

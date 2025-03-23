@@ -1,6 +1,6 @@
 # Constructional
 ---
 #adjective
-- **Of, pertaining to, or obtained by construction.**
+- **Of, pertaining to, or obtained by [[c/_construction|construction]].**
 ---
 ---

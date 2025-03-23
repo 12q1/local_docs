@@ -1,7 +1,7 @@
 # Dystocia
 ---
 #noun
-- **A slow or difficult labour or delivery.**
+- **A slow or [[d/_difficult|difficult]] labour or [[d/_delivery|delivery]].**
 ---
 ### Antonyms
 - [[eutocia]]

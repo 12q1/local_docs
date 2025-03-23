@@ -1,8 +1,8 @@
 # Eyestrain
 ---
 #noun
-- **Tiredness or pain in the eyes, sometimes accompanied by headache, caused by excessive or improper use of the eyes, or by uncorrected defects of vision**
+- **Tiredness or pain in the [[e/_eyes|eyes]], sometimes [[a/_accompanied|accompanied]] by headache, [[c/_caused|caused]] by excessive or improper use of the [[e/_eyes|eyes]], or by uncorrected [[d/_defects|defects]] of vision**
 ---
 ### Synonyms
-- [[[[a/_asthenopia|asthenopia]]]]
+- [[asthenopia]]
 ---

@@ -1,8 +1,8 @@
 # Anonyms
 ---
 #noun
-- **An anonymous person.**
-- **An assumed or false name; a pseudonym.**
-- **A mere name; a name resting upon no diagnosis or other recognized basis.**
+- **An [[a/_anonymous|anonymous]] person.**
+- **An [[a/_assumed|assumed]] or false name; a pseudonym.**
+- **A mere name; a name resting upon no [[d/_diagnosis|diagnosis]] or other recognized [[b/_basis|basis]].**
 ---
 ---

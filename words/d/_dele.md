@@ -1,9 +1,9 @@
 # Dele
 ---
 #noun
-- **A sign signifying deletion**
+- **A sign signifying [[d/_deletion|deletion]]**
 ---
 #verb
-- **(usually imperative) to delete**
+- **(usually imperative) to [[d/_delete|delete]]**
 ---
 ---

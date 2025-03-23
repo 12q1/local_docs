@@ -1,6 +1,6 @@
 # Breechblock
 ---
 #noun
-- **The metal block that closes the breech of a breech-loading gun after insertion of the cartridge.**
+- **The metal [[b/_block|block]] that [[c/_closes|closes]] the [[b/_breech|breech]] of a [[b/_breech|breech]]-loading gun [[a/_after|after]] insertion of the [[c/_cartridge|cartridge]].**
 ---
 ---

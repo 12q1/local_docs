@@ -4,6 +4,6 @@
 - **Plumpness, stoutness, especially when voluptuous.**
 ---
 #adjective
-- **Plump, chubby, buxom.**
+- **Plump, [[c/_chubby|chubby]], [[b/_buxom|buxom]].**
 ---
 ---

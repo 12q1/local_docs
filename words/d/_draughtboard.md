@@ -1,6 +1,6 @@
 # Draughtboard
 ---
 #noun
-- **A checkerboard used to play draughts.**
+- **A [[c/_checkerboard|checkerboard]] used to play [[d/_draughts|draughts]].**
 ---
 ---

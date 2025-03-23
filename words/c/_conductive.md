@@ -1,9 +1,9 @@
 # Conductive
 ---
 #adjective
-- **Able to conduct electrical current or heat.**
+- **[[a/_able|Able]] to [[c/_conduct|conduct]] [[e/_electrical|electrical]] [[c/_current|current]] or heat.**
 	- _Example: Distilled water is very slightly electrically conductive._
-- **Of, or relating to conductivity of a material.**
+- **Of, or relating to [[c/_conductivity|conductivity]] of a material.**
 ---
 ### Synonyms
 - [[conductant]]

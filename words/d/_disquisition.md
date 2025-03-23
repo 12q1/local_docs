@@ -2,6 +2,6 @@
 ---
 #noun
 - **A methodical inquiry or investigation.**
-- **A lengthy, formal discourse that analyses or explains some topic; a dissertation or treatise.**
+- **A lengthy, formal [[d/_discourse|discourse]] that [[a/_analyses|analyses]] or explains some topic; a [[d/_dissertation|dissertation]] or treatise.**
 ---
 ---

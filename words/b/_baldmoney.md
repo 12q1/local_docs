@@ -1,9 +1,9 @@
 # Baldmoney
 ---
 #noun
-- **Meum athamanticum, an ornamental plant in the Apiaceae family.**
+- **Meum athamanticum, an ornamental plant in the [[a/_apiaceae|Apiaceae]] family.**
 - **Gentianeae tribe plant, gentian or felwort**
 ---
 ### Synonyms
-- [[[[b/_bearwort|bearwort]]]], [[meon]], [[meu]], [[meum]], [[spicknel]], [[spignel]]
+- [[bearwort]], [[meon]], [[meu]], [[meum]], [[spicknel]], [[spignel]]
 ---

@@ -1,7 +1,7 @@
 # Carols
 ---
 #noun
-- **A small closet or enclosure built against a window on the inner side, to sit in for study.**
+- **A small [[c/_closet|closet]] or [[e/_enclosure|enclosure]] [[b/_built|built]] [[a/_against|against]] a window on the inner side, to sit in for study.**
 - **Hence, a partially partitioned space for studying or reading, often in a library.**
 	- _Example: He was busy writing his report in a small library carrel._
 ---

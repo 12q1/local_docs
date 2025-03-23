@@ -1,6 +1,6 @@
 # Endogenetic
 ---
 #adjective
-- **Endogenous**
+- **[[e/_endogenous|Endogenous]]**
 ---
 ---

@@ -1,9 +1,9 @@
 # Defected
 ---
 #verb
-- **To abandon or turn against; to cease or change one's loyalty, especially from a military organisation or political party.**
-- **To desert one's army, to flee from combat.**
-- **To join the enemy army.**
-- **To flee one's country and seek asylum.**
+- **To [[a/_abandon|abandon]] or turn [[a/_against|against]]; to [[c/_cease|cease]] or [[c/_change|change]] one's loyalty, especially from a military organisation or political party.**
+- **To [[d/_desert|desert]] one's [[a/_army|army]], to flee from [[c/_combat|combat]].**
+- **To join the [[e/_enemy|enemy]] [[a/_army|army]].**
+- **To flee one's [[c/_country|country]] and seek [[a/_asylum|asylum]].**
 ---
 ---

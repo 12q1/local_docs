@@ -1,7 +1,7 @@
 # Cautiously
 ---
 #adverb
-- **In a cautious manner.**
+- **In a [[c/_cautious|cautious]] manner.**
 ---
 ### Antonyms
 - [[incautiously]]

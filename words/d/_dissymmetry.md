@@ -1,7 +1,7 @@
 # Dissymmetry
 ---
 #noun
-- **Asymmetry**
-- **Chirality**
+- **[[a/_asymmetry|Asymmetry]]**
+- **[[c/_chirality|Chirality]]**
 ---
 ---

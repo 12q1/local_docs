@@ -1,6 +1,6 @@
 # Enrapt
 ---
 #adjective
-- **Fascinated, enraptured**
+- **Fascinated, [[e/_enraptured|enraptured]]**
 ---
 ---

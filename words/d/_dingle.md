@@ -1,6 +1,6 @@
 # Dingle
 ---
 #noun
-- **A small, narrow or enclosed, usually wooded valley.**
+- **A small, narrow or [[e/_enclosed|enclosed]], usually wooded valley.**
 ---
 ---

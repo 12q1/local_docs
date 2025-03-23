@@ -1,11 +1,11 @@
 # Calculator
 ---
 #noun
-- **A mechanical or electronic device that performs mathematical calculations.**
-- **A person who performs mathematical calculation**
-- **A person who calculates (in the sense of scheming).**
+- **A mechanical or [[e/_electronic|electronic]] [[d/_device|device]] that performs mathematical [[c/_calculations|calculations]].**
+- **A person who performs mathematical [[c/_calculation|calculation]]**
+- **A person who [[c/_calculates|calculates]] (in the sense of scheming).**
 - **A set of mathematical tables.**
 ---
 ### Synonyms
-- [[[[e/_electronic|electronic]] [[c/_calculator|calculator]]]], [[pocket [[c/_calculator|calculator]]]], [[ready reckoner]], [[table]], [[[[a/_adding|adding]] machine]], [[[[c/_computer|computer]]]], [[plotter]], [[schemer]]
+- [[electronic calculator]], [[pocket calculator]], [[ready reckoner]], [[table]], [[adding machine]], [[computer]], [[plotter]], [[schemer]]
 ---

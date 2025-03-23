@@ -4,12 +4,12 @@
 - **One who lived prior to Noah's Flood.**
 ---
 #adjective
-- **Ancient or antiquated.**
-- **Extremely dated.**
+- **[[a/_ancient|Ancient]] or [[a/_antiquated|antiquated]].**
+- **Extremely [[d/_dated|dated]].**
 	- _Example: Those ideas are antediluvian._
-- **Pertaining or belonging to the time period prior to a great or destructive flood or deluge.**
-- **Pertaining or belonging to the time prior to Noah's Flood.**
+- **Pertaining or [[b/_belonging|belonging]] to the time period prior to a great or [[d/_destructive|destructive]] flood or [[d/_deluge|deluge]].**
+- **Pertaining or [[b/_belonging|belonging]] to the time prior to Noah's Flood.**
 ---
 ### Synonyms
-- [[[[a/_antediluvial|antediluvial]]]], [[[[a/_antediluvial|antediluvial]]]], [[old]], [[prehistoric]], [[[[d/_dated|dated]]]], [[old-fashioned]], [[preflood]]
+- [[antediluvial]], [[antediluvial]], [[old]], [[prehistoric]], [[dated]], [[old-fashioned]], [[preflood]]
 ---

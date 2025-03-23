@@ -1,11 +1,11 @@
 # Defuses
 ---
 #verb
-- **To remove the fuse from (a bomb, etc.).**
-- **To make less dangerous, tense, or hostile.**
+- **To remove the fuse from (a [[b/_bomb|bomb]], etc.).**
+- **To make less [[d/_dangerous|dangerous]], tense, or hostile.**
 	- _Example: to defuse a hostage situation_
 ---
 #verb
-- **To disorder; to make shapeless.**
+- **To [[d/_disorder|disorder]]; to make shapeless.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Chucklesome
 ---
 #adjective
-- **Causing chuckles; humorous.**
+- **[[c/_causing|Causing]] [[c/_chuckles|chuckles]]; humorous.**
 ---
 ---

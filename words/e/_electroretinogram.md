@@ -1,6 +1,6 @@
 # Electroretinogram
 ---
 #noun
-- **The chart or graph produced by electroretinography**
+- **The [[c/_chart|chart]] or graph produced by [[e/_electroretinography|electroretinography]]**
 ---
 ---

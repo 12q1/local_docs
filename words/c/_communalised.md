@@ -1,6 +1,6 @@
 # Communalised
 ---
 #verb
-- **To take property into communal ownership**
+- **To take property into [[c/_communal|communal]] ownership**
 ---
 ---

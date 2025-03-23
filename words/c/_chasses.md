@@ -1,14 +1,14 @@
 # Chasses
 ---
 #noun
-- **A reliquary casket.**
+- **A reliquary [[c/_casket|casket]].**
 ---
 #noun
-- **A small serving of spirits taken to remove the taste of coffee, tobacco, etc.**
+- **A small serving of spirits taken to remove the taste of [[c/_coffee|coffee]], tobacco, etc.**
 ---
 ### Synonyms
-- [[[[c/_chasse|chasse]]]], [[pousse-[[c/_caf|caf]]é]]
+- [[chasse]], [[pousse-café]]
 #noun
-- **A gliding movement in dance (especially ballet) with the same foot always leading.**
+- **A gliding movement in [[d/_dance|dance]] (especially [[b/_ballet|ballet]]) with the same foot [[a/_always|always]] leading.**
 ---
 ---

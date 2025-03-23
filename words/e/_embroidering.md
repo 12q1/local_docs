@@ -1,10 +1,10 @@
 # Embroidering
 ---
 #verb
-- **To stitch a decorative design on fabric with needle and thread of various colours.**
-- **To add imaginary detail to a narrative to make it more interesting or acceptable.**
+- **To stitch a [[d/_decorative|decorative]] [[d/_design|design]] on fabric with needle and thread of various [[c/_colours|colours]].**
+- **To [[a/_add|add]] imaginary [[d/_detail|detail]] to a narrative to make it more interesting or [[a/_acceptable|acceptable]].**
 ---
 #noun
-- **An embroidered decoration.**
+- **An [[e/_embroidered|embroidered]] [[d/_decoration|decoration]].**
 ---
 ---

@@ -1,13 +1,13 @@
 # Cooping
 ---
 #verb
-- **To keep in a coop.**
-- **To shut up or confine in a narrow space; to cramp.**
-- **To unlawfully confine one or more voters to prevent them from casting their ballots in an election.**
-- **(law enforcement) Of a police officer: to sleep or relax while on duty.**
-- **To make or repair barrels, casks and other wooden vessels; to work upon in the manner of a cooper.**
+- **To keep in a [[c/_coop|coop]].**
+- **To shut up or [[c/_confine|confine]] in a narrow space; to [[c/_cramp|cramp]].**
+- **To unlawfully [[c/_confine|confine]] one or more voters to prevent them from [[c/_casting|casting]] their [[b/_ballots|ballots]] in an [[e/_election|election]].**
+- **(law [[e/_enforcement|enforcement]]) Of a police officer: to sleep or relax while on [[d/_duty|duty]].**
+- **To make or repair [[b/_barrels|barrels]], [[c/_casks|casks]] and other wooden vessels; to work upon in the manner of a [[c/_cooper|cooper]].**
 ---
 #noun
-- **The practice of forcing unwilling participants to vote, often several times over, for a particular candidate in an election.**
+- **The practice of forcing unwilling participants to vote, often several times over, for a particular [[c/_candidate|candidate]] in an [[e/_election|election]].**
 ---
 ---

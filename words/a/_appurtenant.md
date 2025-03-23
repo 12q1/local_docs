@@ -1,12 +1,12 @@
 # Appurtenant
 ---
 #noun
-- **An appendage or attachment.**
-- **A type of easement benefiting real property that "runs with the land" as opposed to an interest belonging solely to the beneficiary.**
+- **An [[a/_appendage|appendage]] or [[a/_attachment|attachment]].**
+- **A type of [[e/_easement|easement]] [[b/_benefiting|benefiting]] real property that "runs with the land" as opposed to an interest [[b/_belonging|belonging]] solely to the [[b/_beneficiary|beneficiary]].**
 ---
 #adjective
-- **Of or pertaining to an appurtenance.**
+- **Of or pertaining to an [[a/_appurtenance|appurtenance]].**
 	- _Example: a right of way appurtenant to land or buildings_
-- **Ancillary or subsidiary.**
+- **[[a/_ancillary|Ancillary]] or subsidiary.**
 ---
 ---

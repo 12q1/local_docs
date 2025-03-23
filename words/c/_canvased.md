@@ -1,7 +1,7 @@
 # Canvased
 ---
 #verb
-- **To cover an area or object with canvas.**
-- **Alternative spelling of canvass.**
+- **To [[c/_cover|cover]] an [[a/_area|area]] or object with [[c/_canvas|canvas]].**
+- **[[a/_alternative|Alternative]] spelling of [[c/_canvass|canvass]].**
 ---
 ---

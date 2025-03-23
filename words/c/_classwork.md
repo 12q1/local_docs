@@ -1,6 +1,6 @@
 # Classwork
 ---
 #noun
-- **That part of a scholar's work that is done in class.**
+- **That part of a scholar's work that is [[d/_done|done]] in [[c/_class|class]].**
 ---
 ---

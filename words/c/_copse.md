@@ -4,9 +4,9 @@
 - **A thicket of small trees or shrubs.**
 ---
 ### Synonyms
-- [[[[c/_coppice|coppice]]]]
+- [[coppice]]
 #verb
-- **To trim or cut.**
+- **To trim or [[c/_cut|cut]].**
 - **To plant and preserve.**
 ---
 ---

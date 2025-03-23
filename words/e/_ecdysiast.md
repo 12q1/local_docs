@@ -1,8 +1,8 @@
 # Ecdysiast
 ---
 #noun
-- **An erotic dancer who removes their clothes as a form of entertainment; a stripper.**
+- **An erotic [[d/_dancer|dancer]] who removes their [[c/_clothes|clothes]] as a form of [[e/_entertainment|entertainment]]; a stripper.**
 ---
 ### Synonyms
-- [[exotic [[d/_dancer|dancer]]]], [[stripper]]
+- [[exotic dancer]], [[stripper]]
 ---

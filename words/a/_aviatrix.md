@@ -1,8 +1,8 @@
 # Aviatrix
 ---
 #noun
-- **A female aviator.**
+- **A female [[a/_aviator|aviator]].**
 ---
 ### Synonyms
-- [[[[a/_aviatress|aviatress]]]], [[[[a/_aviatrice|aviatrice]]]], [[pilotess]]
+- [[aviatress]], [[aviatrice]], [[pilotess]]
 ---

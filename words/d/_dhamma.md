@@ -1,6 +1,6 @@
 # Dhamma
 ---
 #noun
-- **The teachings of Buddha**
+- **The teachings of [[b/_buddha|Buddha]]**
 ---
 ---

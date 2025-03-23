@@ -1,24 +1,24 @@
 # Allowances
 ---
 #noun
-- **Permission; granting, conceding, or admitting**
-- **Acknowledgment.**
-- **That which is allowed; a share or portion allotted or granted; a sum granted as a reimbursement, a bounty, or as appropriate for any purpose; a stated quantity.**
+- **Permission; granting, [[c/_conceding|conceding]], or [[a/_admitting|admitting]]**
+- **[[a/_acknowledgment|Acknowledgment]].**
+- **That which is [[a/_allowed|allowed]]; a share or portion [[a/_allotted|allotted]] or granted; a sum granted as a reimbursement, a [[b/_bounty|bounty]], or as [[a/_appropriate|appropriate]] for [[a/_any|any]] purpose; a stated quantity.**
 	- _Example: her meagre allowance of food or drink_
-- **Abatement; deduction; the taking into account of mitigating circumstances**
+- **[[a/_abatement|Abatement]]; [[d/_deduction|deduction]]; the taking into [[a/_account|account]] of mitigating [[c/_circumstances|circumstances]]**
 	- _Example: to make allowance for his naivety_
-- **A customary deduction from the gross weight of goods, differing by country.**
+- **A [[c/_customary|customary]] [[d/_deduction|deduction]] from the gross weight of goods, [[d/_differing|differing]] by [[c/_country|country]].**
 	- _Example: Tare and tret are examples of allowance._
-- **A permitted reduction in the weight that a racehorse must carry.**
+- **A permitted reduction in the weight that a racehorse must [[c/_carry|carry]].**
 	- _Example: On the Flat, an apprentice jockey starts with an allowance of 7 lb._
-- **A child's allowance; pocket money.**
+- **A [[c/_child|child]]'s [[a/_allowance|allowance]]; pocket money.**
 	- _Example: She gives her daughters each an allowance of thirty dollars a month._
-- **(minting) A permissible deviation in the fineness and weight of coins, owing to the difficulty in securing exact conformity to the standard prescribed by law.**
-- **Approval; approbation**
+- **(minting) A permissible [[d/_deviation|deviation]] in the fineness and weight of [[c/_coins|coins]], owing to the [[d/_difficulty|difficulty]] in securing exact [[c/_conformity|conformity]] to the standard prescribed by law.**
+- **[[a/_approval|Approval]]; [[a/_approbation|approbation]]**
 - **License; indulgence**
 ---
 ### Synonyms
-- [[[[a/_authorization|authorization]]]], [[permission]], [[sanction]], [[tolerance]], [[remedy]], [[tolerance]], [[stipend]]
+- [[authorization]], [[permission]], [[sanction]], [[tolerance]], [[remedy]], [[tolerance]], [[stipend]]
 ### Antonyms
 - [[penalty]]
 ---

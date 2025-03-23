@@ -1,6 +1,6 @@
 # Dispraising
 ---
 #verb
-- **To notice with disapprobation or some degree of censure; to disparage, to criticize.**
+- **To notice with [[d/_disapprobation|disapprobation]] or some [[d/_degree|degree]] of [[c/_censure|censure]]; to [[d/_disparage|disparage]], to [[c/_criticize|criticize]].**
 ---
 ---

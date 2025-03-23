@@ -1,6 +1,6 @@
 # Crucially
 ---
 #adverb
-- **In a crucial manner.**
+- **In a [[c/_crucial|crucial]] manner.**
 ---
 ---

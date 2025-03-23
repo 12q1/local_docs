@@ -1,7 +1,7 @@
 # Boneless
 ---
 #adjective
-- **Without bones, especially as pertaining to meat or poultry prepared for eating.**
-- **Lacking strength, courage, or resolve; spineless.**
+- **Without [[b/_bones|bones]], especially as pertaining to meat or poultry prepared for [[e/_eating|eating]].**
+- **Lacking strength, [[c/_courage|courage]], or resolve; spineless.**
 ---
 ---

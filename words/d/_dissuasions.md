@@ -1,7 +1,7 @@
 # Dissuasions
 ---
 #noun
-- **The act or an instance of dissuading**
+- **The [[a/_act|act]] or an instance of [[d/_dissuading|dissuading]]**
 ---
 ### Antonyms
 - [[persuasion]]

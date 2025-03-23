@@ -1,6 +1,6 @@
 # Bleakness
 ---
 #noun
-- **The characteristic of being bleak.**
+- **The [[c/_characteristic|characteristic]] of [[b/_being|being]] [[b/_bleak|bleak]].**
 ---
 ---

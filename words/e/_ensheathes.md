@@ -1,6 +1,6 @@
 # Ensheathes
 ---
 #verb
-- **To cover with or as if with a sheath.**
+- **To [[c/_cover|cover]] with or as if with a sheath.**
 ---
 ---

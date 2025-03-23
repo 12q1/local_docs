@@ -1,7 +1,7 @@
 # Demean
 ---
 #verb
-- **To debase; to lower; to degrade.**
+- **To [[d/_debase|debase]]; to lower; to [[d/_degrade|degrade]].**
 - **To humble, humble oneself; to humiliate.**
 - **To mortify.**
 ---

@@ -1,6 +1,6 @@
 # Atelier
 ---
 #noun
-- **A workshop or studio, especially for an artist, designer or fashion house.**
+- **A workshop or studio, especially for an [[a/_artist|artist]], [[d/_designer|designer]] or fashion house.**
 ---
 ---

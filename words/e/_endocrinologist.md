@@ -1,6 +1,6 @@
 # Endocrinologist
 ---
 #noun
-- **A person who is skilled at, or practices, endocrinology.**
+- **A person who is skilled at, or practices, [[e/_endocrinology|endocrinology]].**
 ---
 ---

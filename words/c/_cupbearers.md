@@ -1,8 +1,8 @@
 # Cupbearers
 ---
 #noun
-- **One who ceremonially fills and hands out the cups in which a drink is served.**
+- **One who [[c/_ceremonially|ceremonially]] fills and hands out the [[c/_cups|cups]] in which a [[d/_drink|drink]] is served.**
 ---
 ### Synonyms
-- [[[[c/_cupper|cupper]]]]
+- [[cupper]]
 ---

@@ -1,6 +1,6 @@
 # Assistance
 ---
 #noun
-- **Aid; help; the act or result of assisting.**
+- **[[a/_aid|Aid]]; help; the [[a/_act|act]] or result of [[a/_assisting|assisting]].**
 ---
 ---

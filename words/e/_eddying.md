@@ -1,9 +1,9 @@
 # Eddying
 ---
 #verb
-- **To form an eddy; to move in, or as if in, an eddy; to move in a circle.**
+- **To form an [[e/_eddy|eddy]]; to move in, or as if in, an [[e/_eddy|eddy]]; to move in a [[c/_circle|circle]].**
 ---
 #noun
-- **The motion of an eddy.**
+- **The motion of an [[e/_eddy|eddy]].**
 ---
 ---

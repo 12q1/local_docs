@@ -1,10 +1,10 @@
 # Altos
 ---
 #noun
-- **A musical part or section higher than tenor and lower than soprano, formerly the part that performed a countermelody above the tenor or main melody.**
-- **A person or musical instrument that performs the alto part.**
-- **An alto saxophone**
+- **A musical part or section higher than tenor and lower than soprano, formerly the part that performed a countermelody [[a/_above|above]] the tenor or main melody.**
+- **A person or musical instrument that performs the [[a/_alto|alto]] part.**
+- **An [[a/_alto|alto]] saxophone**
 ---
 ### Synonyms
-- [[[[c/_contratenor|contratenor]] [[a/_altus|altus]]]], [[high [[c/_countertenor|countertenor]]]]
+- [[contratenor altus]], [[high countertenor]]
 ---

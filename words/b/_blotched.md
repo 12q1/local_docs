@@ -1,12 +1,12 @@
 # Blotched
 ---
 #verb
-- **To mark with blotches.**
-- **To develop blotches, to become blotchy.**
+- **To mark with [[b/_blotches|blotches]].**
+- **To [[d/_develop|develop]] [[b/_blotches|blotches]], to [[b/_become|become]] [[b/_blotchy|blotchy]].**
 ---
 #adjective
-- **Covered in blotches.**
+- **[[c/_covered|Covered]] in [[b/_blotches|blotches]].**
 ---
 ### Synonyms
-- [[[[b/_blotchy|blotchy]]]], [[spotted]], [[spotty]]
+- [[blotchy]], [[spotted]], [[spotty]]
 ---

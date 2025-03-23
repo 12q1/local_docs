@@ -1,11 +1,11 @@
 # Dyeing
 ---
 #verb
-- **To colour with dye, or as if with dye.**
+- **To [[c/_colour|colour]] with [[d/_dye|dye]], or as if with [[d/_dye|dye]].**
 ---
 ### Synonyms
 - [[shade]], [[stain]], [[streak]], [[tint]]
 #noun
-- **The act by which something is dyed.**
+- **The [[a/_act|act]] by which something is [[d/_dyed|dyed]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Candidatures
 ---
 #noun
-- **The condition of becoming a candidate.**
+- **The [[c/_condition|condition]] of [[b/_becoming|becoming]] a [[c/_candidate|candidate]].**
 ---
 ---

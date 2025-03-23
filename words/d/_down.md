@@ -1,109 +1,109 @@
 # Down
 ---
 #noun
-- **A negative aspect; a downer.**
+- **A negative [[a/_aspect|aspect]]; a [[d/_downer|downer]].**
 	- _Example: I love almost everything about my job. The only down is that I can't take Saturdays off._
 - **A grudge (on someone).**
-- **An act of swallowing an entire drink at once.**
-- **A single play, from the time the ball is snapped (the start) to the time the whistle is blown (the end) when the ball is down, or is downed.**
+- **An [[a/_act|act]] of swallowing an [[e/_entire|entire]] [[d/_drink|drink]] at once.**
+- **A single play, from the time the [[b/_ball|ball]] is snapped (the start) to the time the whistle is [[b/_blown|blown]] (the [[e/_end|end]]) when the [[b/_ball|ball]] is [[d/_down|down]], or is [[d/_downed|downed]].**
 	- _Example: I bet after the third down, the kicker will replace the quarterback on the field._
-- **(crosswords) A clue whose solution runs vertically in the grid.**
+- **([[c/_crosswords|crosswords]]) A [[c/_clue|clue]] whose solution runs vertically in the grid.**
 	- _Example: I haven't solved 12 or 13 across, but I've got most of the downs._
-- **A downstairs room of a two-story house.**
+- **A [[d/_downstairs|downstairs]] room of a two-story house.**
 	- _Example: She lives in a two-up two-down._
-- **Down payment.**
+- **[[d/_down|Down]] payment.**
 ---
 #verb
-- **To knock (someone or something) down; to cause to come down, to fell.**
+- **To knock (someone or something) [[d/_down|down]]; to [[c/_cause|cause]] to [[c/_come|come]] [[d/_down|down]], to fell.**
 	- _Example: A single rifle shot downed the mighty beast._
-- **To lower; to put (something) down.**
+- **To lower; to put (something) [[d/_down|down]].**
 	- _Example: The bell rang for lunch, and the workers downed their tools._
-- **To defeat; to overpower.**
-- **To disparage, to put down.**
-- **To go or come down; to descend.**
-- **To drink or swallow, especially without stopping before the vessel containing the liquid is empty.**
+- **To [[d/_defeat|defeat]]; to overpower.**
+- **To [[d/_disparage|disparage]], to put [[d/_down|down]].**
+- **To go or [[c/_come|come]] [[d/_down|down]]; to [[d/_descend|descend]].**
+- **To [[d/_drink|drink]] or swallow, especially without stopping [[b/_before|before]] the vessel [[c/_containing|containing]] the liquid is [[e/_empty|empty]].**
 	- _Example: He downed an ale and ordered another._
-- **To render (the ball) dead, typically by touching the ground while in possession.**
+- **To render (the [[b/_ball|ball]]) [[d/_dead|dead]], typically by touching the ground while in possession.**
 	- _Example: He downed it at the seven-yard line._
-- **(pocket billiards) To sink (a ball) into a hole or pocket.**
+- **(pocket [[b/_billiards|billiards]]) To sink (a [[b/_ball|ball]]) into a hole or pocket.**
 	- _Example: He downed two balls on the break._
 ---
 #adjective
-- **Sad, unhappy, depressed, feeling low.**
+- **Sad, unhappy, [[d/_depressed|depressed]], feeling low.**
 	- _Example: Mary seems very down since she split up with her boyfriend._
-- **(normally in the combination 'down with') Sick or ill.**
+- **(normally in the [[c/_combination|combination]] '[[d/_down|down]] with') Sick or ill.**
 	- _Example: He is down with the flu._
-- **At a lower level than before.**
+- **At a lower level than [[b/_before|before]].**
 	- _Example: Prices are down._
 - **Having a lower score than an opponent.**
 	- _Example: At 5–1 down, she produced a great comeback to win the set on a tiebreak._
 - **(following the noun modified) Out.**
 	- _Example: Two down and one to go in the bottom of the ninth._
-- **(with "on") Negative about, hostile to.**
+- **(with "on") Negative [[a/_about|about]], hostile to.**
 	- _Example: Ever since Nixon, I've been down on Republicans._
-- **Comfortable with, accepting of, approachable.**
+- **[[c/_comfortable|Comfortable]] with, [[a/_accepting|accepting]] of, [[a/_approachable|approachable]].**
 	- _Example: Are you down to hang out at the mall, Jamal?_
 - **Inoperable; out of order; out of service.**
 	- _Example: The system is down._
-- **Finished (of a task); defeated or dealt with (of an opponent or obstacle); elapsed (of time). Often coupled with to go (remaining).**
+- **Finished (of a task); [[d/_defeated|defeated]] or [[d/_dealt|dealt]] with (of an opponent or obstacle); [[e/_elapsed|elapsed]] (of time). Often [[c/_coupled|coupled]] with to go (remaining).**
 	- _Example: Ten minutes down and nothing's happened yet._
 - **(police, of a person) Wounded and unable to move normally, or killed.**
 	- _Example: There are three soldiers down and one walking wounded._
-- **(of an aircraft) Mechanically failed, collided, shot down, or otherwise suddenly unable to fly.**
+- **(of an [[a/_aircraft|aircraft]]) Mechanically failed, [[c/_collided|collided]], shot [[d/_down|down]], or otherwise suddenly unable to fly.**
 	- _Example: We have a chopper down near the river._
-- **Thoroughly practiced, learned or memorised; mastered. (Compare down pat.)**
+- **Thoroughly practiced, learned or memorised; mastered. ([[c/_compare|Compare]] [[d/_down|down]] pat.)**
 	- _Example: It's two weeks until opening night and our lines are still not down yet._
-- **Downright; absolute; positive.**
-- **Accepted or respected, especially in the black or thug community.**
+- **[[d/_downright|Downright]]; [[a/_absolute|absolute]]; positive.**
+- **[[a/_accepted|Accepted]] or respected, especially in the [[b/_black|black]] or thug [[c/_community|community]].**
 	- _Example: What you mean, 'No'? Man, I thought you was down._
-- **Facing downwards.**
+- **Facing [[d/_downwards|downwards]].**
 ---
 ### Antonyms
 - [[up]], [[up]], [[up]], [[up]]
 #adverb
-- **From a higher position to a lower one; downwards.**
+- **From a higher position to a lower one; [[d/_downwards|downwards]].**
 	- _Example: The cat jumped down from the table._
-- **At a lower or further place or position along a set path.**
+- **At a lower or further place or position [[a/_along|along]] a set path.**
 	- _Example: His place is farther down the road._
-- **South (as south is at the bottom of typical maps).**
+- **South (as south is at the [[b/_bottom|bottom]] of typical maps).**
 	- _Example: I went down to Miami for a conference._
-- **Away from the city (regardless of direction).**
+- **[[a/_away|Away]] from the [[c/_city|city]] (regardless of [[d/_direction|direction]]).**
 	- _Example: He went down to Cavan._
-- **At or towards any place that is visualised as 'down' by virtue of local features or local convention, or arbitrarily, irrespective of direction or elevation change.**
+- **At or towards [[a/_any|any]] place that is visualised as '[[d/_down|down]]' by virtue of local features or local [[c/_convention|convention]], or [[a/_arbitrarily|arbitrarily]], irrespective of [[d/_direction|direction]] or [[e/_elevation|elevation]] [[c/_change|change]].**
 	- _Example: She lives down by the park._
-- **Towards the opponent's side (in ball-sports).**
+- **Towards the opponent's side (in [[b/_ball|ball]]-sports).**
 - **Into a state of non-operation.**
 	- _Example: The computer has been shut down._
 - **To a subordinate or less prestigious position or rank.**
 	- _Example: After the incident, Kelly went down to Second Lieutenant._
-- **In the direction leading away from the principal terminus, away from milepost zero.**
-- **(sentence substitute) Get down.**
+- **In the [[d/_direction|direction]] leading [[a/_away|away]] from the principal terminus, [[a/_away|away]] from milepost zero.**
+- **(sentence substitute) Get [[d/_down|down]].**
 	- _Example: Down, boy! (such as to direct a dog to stand on four legs from two, or to sit from standing on four legs.)_
-- **(academia) Away from Oxford or Cambridge.**
+- **([[a/_academia|academia]]) [[a/_away|Away]] from Oxford or [[c/_cambridge|Cambridge]].**
 	- _Example: He's gone back down to Newcastle for Christmas._
-- **From a remoter or higher antiquity.**
+- **From a remoter or higher [[a/_antiquity|antiquity]].**
 	- _Example: These traditions have been handed down over generations._
 - **So as to lessen quantity, level or intensity.**
 	- _Example: Please turn the music down!_
 - **So as to reduce size, weight or volume.**
 	- _Example: Boil the mixture down to a syrupy consistency._
-- **From less to greater detail.**
+- **From less to greater [[d/_detail|detail]].**
 	- _Example: This spreadsheet lets you drill down to daily or even hourly sales figures._
-- **So as to secure or compress something to the floor, ground, or other (usually horizontal) surface.**
+- **So as to secure or [[c/_compress|compress]] something to the floor, ground, or other (usually horizontal) surface.**
 	- _Example: We need to nail down this carpet so people don't keep tripping over it._
-- **(intensifier) Used with verbs to add emphasis to the action of the verb.**
+- **(intensifier) Used with verbs to [[a/_add|add]] [[e/_emphasis|emphasis]] to the [[a/_action|action]] of the verb.**
 	- _Example: They tamped (down) the asphalt to get a better bond._
-- **Used with verbs to indicate that the action of the verb was carried to some state of completion, rather than being of indefinite duration.**
+- **Used with verbs to indicate that the [[a/_action|action]] of the verb was [[c/_carried|carried]] to some state of [[c/_completion|completion]], rather than [[b/_being|being]] of indefinite [[d/_duration|duration]].**
 	- _Example: He boiled the mixture. / He boiled down the mixture._
 ---
 ### Antonyms
-- [[up]], [[up]], [[up]], [[up]], [[up]], [[[[a/_across|across]]]]
+- [[up]], [[up]], [[up]], [[up]], [[up]], [[across]]
 #preposition
-- **From the higher end to the lower of.**
+- **From the higher [[e/_end|end]] to the lower of.**
 	- _Example: The ball rolled down the hill._
 - **From nouth to south of.**
 	- _Example: We sailed down the eastern seaboard._
-- **From one end to another of (in any direction); along.**
+- **From one [[e/_end|end]] to [[a/_another|another]] of (in [[a/_any|any]] [[d/_direction|direction]]); [[a/_along|along]].**
 	- _Example: The bus went down the street._
 - **At (a given place that is seen as removed from one's present location or other point of reference).**
 	- _Example: I'll see you later down the pub._

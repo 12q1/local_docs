@@ -1,7 +1,7 @@
 # Dystonia
 ---
 #noun
-- **A disabling neurological disorder in which prolonged and repetitive contractions of muscles cause jerking, twisting movements and abnormal postures of the body**
+- **A [[d/_disabling|disabling]] neurological [[d/_disorder|disorder]] in which prolonged and repetitive [[c/_contractions|contractions]] of muscles [[c/_cause|cause]] jerking, twisting movements and [[a/_abnormal|abnormal]] postures of the [[b/_body|body]]**
 ---
 ### Synonyms
 - [[neurodystonia]]

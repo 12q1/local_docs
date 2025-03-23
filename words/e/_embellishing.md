@@ -1,15 +1,15 @@
 # Embellishing
 ---
 #verb
-- **To make more beautiful and attractive; to decorate.**
+- **To make more [[b/_beautiful|beautiful]] and [[a/_attractive|attractive]]; to [[d/_decorate|decorate]].**
 	- _Example: The old book cover was embellished with golden letters_
-- **To make something sound or look better or more acceptable than it is in reality; to distort, to embroider.**
+- **To make something sound or look [[b/_better|better]] or more [[a/_acceptable|acceptable]] than it is in reality; to [[d/_distort|distort]], to [[e/_embroider|embroider]].**
 	- _Example: to embellish a story, the truth_
 ---
 ### Synonyms
-- [[[[a/_adorn|adorn]]]], [[[[b/_beautify|beautify]]]], [[[[d/_deck|deck]]]], [[[[d/_decorate|decorate]]]], [[grace]], [[ornament]], [[prettify]]
+- [[adorn]], [[beautify]], [[deck]], [[decorate]], [[grace]], [[ornament]], [[prettify]]
 #noun
-- **An embellishment.**
+- **An [[e/_embellishment|embellishment]].**
 	- _Example: His many embellishings of the tale stretched the credulity of the listeners._
 ---
 ---

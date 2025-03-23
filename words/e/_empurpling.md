@@ -2,7 +2,7 @@
 ---
 #verb
 - **To make purple.**
-- **To enrage or anger, referring to making the face purple or red with blood.**
-- **Of writing, to make overly flowery or showy; to embellish unduly.**
+- **To [[e/_enrage|enrage]] or [[a/_anger|anger]], referring to making the face purple or red with [[b/_blood|blood]].**
+- **Of writing, to make overly flowery or showy; to [[e/_embellish|embellish]] unduly.**
 ---
 ---

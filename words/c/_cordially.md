@@ -1,6 +1,6 @@
 # Cordially
 ---
 #adverb
-- **In a cordial, warm or friendly manner.**
+- **In a [[c/_cordial|cordial]], warm or friendly manner.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Countersignatures
 ---
 #noun
-- **A signature made to confirm or endorse another.**
+- **A signature made to [[c/_confirm|confirm]] or [[e/_endorse|endorse]] [[a/_another|another]].**
 ---
 ---

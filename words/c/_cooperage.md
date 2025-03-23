@@ -1,8 +1,8 @@
 # Cooperage
 ---
 #noun
-- **The art or trade of a cooper.**
-- **The price paid to a cooper for work carried out.**
-- **A cooper's workshop.**
+- **The [[a/_art|art]] or trade of a [[c/_cooper|cooper]].**
+- **The price paid to a [[c/_cooper|cooper]] for work [[c/_carried|carried]] out.**
+- **A [[c/_cooper|cooper]]'s workshop.**
 ---
 ---

@@ -4,5 +4,5 @@
 - **A quiet laugh.**
 ---
 ### Synonyms
-- [[[[c/_chortle|chortle]]]], [[giggle]], [[snigger]], [[titter]]
+- [[chortle]], [[giggle]], [[snigger]], [[titter]]
 ---

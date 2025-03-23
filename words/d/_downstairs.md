@@ -8,11 +8,11 @@
 ### Antonyms
 - [[upstairs]]
 #adjective
-- **A floor lower than the current one.**
+- **A floor lower than the [[c/_current|current]] one.**
 	- _Example: The kids sleep in the downstairs bedroom, we sleep in the upstairs one._
 ---
 #adverb
-- **Living, stepping, or coming down the stairs**
+- **Living, stepping, or [[c/_coming|coming]] [[d/_down|down]] the stairs**
 	- _Example: walk downstairs_
 ---
 ---

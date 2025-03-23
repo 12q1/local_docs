@@ -1,6 +1,6 @@
 # Drumlin
 ---
 #noun
-- **An elongated hill or ridge of glacial drift.**
+- **An [[e/_elongated|elongated]] hill or ridge of glacial [[d/_drift|drift]].**
 ---
 ---

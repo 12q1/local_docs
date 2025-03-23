@@ -1,6 +1,6 @@
 # Conscribed
 ---
 #verb
-- **To enroll; to enlist.**
+- **To [[e/_enroll|enroll]]; to [[e/_enlist|enlist]].**
 ---
 ---

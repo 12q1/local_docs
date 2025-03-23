@@ -1,7 +1,7 @@
 # Dibasic
 ---
 #adjective
-- **(of an acid) containing two replaceable hydrogen atoms**
-- **(of a salt) having two atoms of a univalent metal**
+- **(of an [[a/_acid|acid]]) [[c/_containing|containing]] two replaceable hydrogen [[a/_atoms|atoms]]**
+- **(of a salt) having two [[a/_atoms|atoms]] of a univalent metal**
 ---
 ---

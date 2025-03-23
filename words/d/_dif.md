@@ -1,6 +1,6 @@
 # Dif
 ---
 #noun
-- **Difference**
+- **[[d/_difference|Difference]]**
 ---
 ---

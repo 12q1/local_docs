@@ -1,8 +1,8 @@
 # Collinses
 ---
 #noun
-- **Any of various alcoholic drinks made with lemon juice, sugar, and carbonated water.**
+- **[[a/_any|Any]] of various [[a/_alcoholic|alcoholic]] [[d/_drinks|drinks]] made with lemon juice, sugar, and [[c/_carbonated|carbonated]] water.**
 ---
 ### Synonyms
-- [[[[c/_collins|Collins]]]], [[Tom [[c/_collins|Collins]]]]
+- [[Collins]], [[Tom Collins]]
 ---

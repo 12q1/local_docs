@@ -1,7 +1,7 @@
 # Dishonorable
 ---
 #adjective
-- **Without honor, or causing dishonor.**
+- **Without honor, or [[c/_causing|causing]] [[d/_dishonor|dishonor]].**
 - **Lacking respect for ethical principles.**
 ---
 ---

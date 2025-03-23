@@ -1,6 +1,6 @@
 # Cuirassier
 ---
 #noun
-- **A cavalry soldier equipped with a cuirass (armor).**
+- **A [[c/_cavalry|cavalry]] soldier [[e/_equipped|equipped]] with a [[c/_cuirass|cuirass]] ([[a/_armor|armor]]).**
 ---
 ---

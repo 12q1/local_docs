@@ -1,8 +1,8 @@
 # Dissyllabic
 ---
 #adjective
-- **Comprising two syllables.**
+- **[[c/_comprising|Comprising]] two syllables.**
 ---
 ### Synonyms
-- [[[[b/_bisyllabic|bisyllabic]]]]
+- [[bisyllabic]]
 ---

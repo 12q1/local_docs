@@ -1,6 +1,6 @@
 # Biosocial
 ---
 #adjective
-- **Of or pertaining to both biological and social features.**
+- **Of or pertaining to [[b/_both|both]] [[b/_biological|biological]] and social features.**
 ---
 ---

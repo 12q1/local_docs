@@ -1,7 +1,7 @@
 # Endotherm
 ---
 #noun
-- **An animal that maintains a constant body temperature**
+- **An [[a/_animal|animal]] that maintains a [[c/_constant|constant]] [[b/_body|body]] temperature**
 ---
 ### Synonyms
 - [[homeotherm]]

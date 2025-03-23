@@ -1,12 +1,12 @@
 # Donkeys
 ---
 #noun
-- **A domestic animal, Equus asinus asinus, similar to a horse**
+- **A [[d/_domestic|domestic]] [[a/_animal|animal]], Equus asinus asinus, similar to a horse**
 - **A stubborn person**
 - **A fool**
-- **A small auxiliary engine**
-- **A bad poker player**
+- **A small [[a/_auxiliary|auxiliary]] [[e/_engine|engine]]**
+- **A [[b/_bad|bad]] poker player**
 ---
 ### Synonyms
-- [[[[d/_donkey|donkey]] [[e/_engine|engine]]]]
+- [[donkey engine]]
 ---

@@ -1,6 +1,6 @@
 # Dependably
 ---
 #adverb
-- **In a dependable manner.**
+- **In a [[d/_dependable|dependable]] manner.**
 ---
 ---

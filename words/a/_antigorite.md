@@ -1,8 +1,8 @@
 # Antigorite
 ---
 #noun
-- **A brownish-green variety of serpentine.**
+- **A [[b/_brownish|brownish]]-green variety of serpentine.**
 ---
 ### Synonyms
-- [[[[b/_baltimorite|baltimorite]]]], [[picrolite]]
+- [[baltimorite]], [[picrolite]]
 ---

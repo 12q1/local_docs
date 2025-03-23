@@ -1,9 +1,9 @@
 # Calmness
 ---
 #noun
-- **The state of being calm; tranquillity; silence.**
-- **The product of being calm.**
+- **The state of [[b/_being|being]] [[c/_calm|calm]]; tranquillity; silence.**
+- **The product of [[b/_being|being]] [[c/_calm|calm]].**
 ---
 ### Antonyms
-- [[[[d/_disturbance|disturbance]]]]
+- [[disturbance]]
 ---

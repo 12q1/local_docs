@@ -3,21 +3,21 @@
 #noun
 - **A man, generally a younger man.**
 	- _Example: So we were at the mall and these two dudes just walk up to us and say "hi"._
-- **(used in the vocative) A term of address for someone, typically a man, particularly when cautioning him or offering him advice.**
+- **(used in the vocative) A term of [[a/_address|address]] for someone, typically a man, particularly when [[c/_cautioning|cautioning]] him or offering him [[a/_advice|advice]].**
 	- _Example: Dude, I'd be careful around the principal; he's having a bad day._
-- **An inexperienced cowboy.**
+- **An inexperienced [[c/_cowboy|cowboy]].**
 - **A tourist.**
-- **A man who is very concerned about his dress and appearance; a dandy, a fop.**
+- **A man who is very [[c/_concerned|concerned]] [[a/_about|about]] his [[d/_dress|dress]] and [[a/_appearance|appearance]]; a [[d/_dandy|dandy]], a fop.**
 ---
 ### Synonyms
-- [[[[b/_bloke|bloke]]]], [[[[c/_chap|chap]]]], [[[[c/_cove|cove]]]], [[guy]], [[[[d/_dandy|dandy]]]], [[fop]], [[masher]], [[mate]]
+- [[bloke]], [[chap]], [[cove]], [[guy]], [[dandy]], [[fop]], [[masher]], [[mate]]
 #verb
-- **To address someone as dude.**
-- **To take a vacation in a dude ranch.**
-- **Usually followed by up: to dress up, to wear smart or special clothes.**
+- **To [[a/_address|address]] someone as [[d/_dude|dude]].**
+- **To take a vacation in a [[d/_dude|dude]] ranch.**
+- **Usually followed by up: to [[d/_dress|dress]] up, to wear smart or special [[c/_clothes|clothes]].**
 ---
 #interjection
-- **A term of address, usually for a man, conveying awe, excitement, surprise, etc.**
+- **A term of [[a/_address|address]], usually for a man, [[c/_conveying|conveying]] [[a/_awe|awe]], excitement, surprise, etc.**
 	- _Example: Dude! You finally called!_
 ---
 ---

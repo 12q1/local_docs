@@ -1,6 +1,6 @@
 # Collectivists
 ---
 #noun
-- **An advocate of collectivism.**
+- **An [[a/_advocate|advocate]] of [[c/_collectivism|collectivism]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Dihydric
 ---
 #adjective
-- **Containing two hydroxyl functional groups.**
+- **[[c/_containing|Containing]] two hydroxyl functional groups.**
 ---
 ---

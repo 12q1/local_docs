@@ -1,7 +1,7 @@
 # Dogmatized
 ---
 #verb
-- **To treat something as dogma.**
-- **To speak or write dogmatically.**
+- **To treat something as [[d/_dogma|dogma]].**
+- **To speak or write [[d/_dogmatically|dogmatically]].**
 ---
 ---

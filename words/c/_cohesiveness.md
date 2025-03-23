@@ -1,6 +1,6 @@
 # Cohesiveness
 ---
 #noun
-- **The state of being cohesive**
+- **The state of [[b/_being|being]] [[c/_cohesive|cohesive]]**
 ---
 ---

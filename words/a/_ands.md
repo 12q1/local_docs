@@ -1,10 +1,10 @@
 # Ands
 ---
 #noun
-- **In rhythm, the second half of a divided beat.**
+- **In rhythm, the second half of a [[d/_divided|divided]] [[b/_beat|beat]].**
 ---
 #noun
-- **Breath.**
+- **[[b/_breath|Breath]].**
 - **Sea smoke; steam fog.**
 ---
 ---

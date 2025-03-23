@@ -1,6 +1,6 @@
 # Cannonaded
 ---
 #verb
-- **To discharge artillery fire upon.**
+- **To [[d/_discharge|discharge]] [[a/_artillery|artillery]] fire upon.**
 ---
 ---

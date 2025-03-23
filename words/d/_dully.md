@@ -1,6 +1,6 @@
 # Dully
 ---
 #adverb
-- **In a dull manner; without liveliness; without lustre.**
+- **In a [[d/_dull|dull]] manner; without liveliness; without lustre.**
 ---
 ---

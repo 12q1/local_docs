@@ -1,6 +1,6 @@
 # Acca
 ---
 #noun
-- **An accumulator bet.**
+- **An [[a/_accumulator|accumulator]] [[b/_bet|bet]].**
 ---
 ---

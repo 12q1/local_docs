@@ -1,8 +1,8 @@
 # Cockchafer
 ---
 #noun
-- **Any of the large European beetles from the genus Melolontha that are destructive to vegetation.**
+- **[[a/_any|Any]] of the large European [[b/_beetles|beetles]] from the genus Melolontha that are [[d/_destructive|destructive]] to vegetation.**
 ---
 ### Synonyms
-- [[May [[b/_bug|bug]]]]
+- [[May bug]]
 ---

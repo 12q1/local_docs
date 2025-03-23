@@ -1,8 +1,8 @@
 # Dismemberments
 ---
 #noun
-- **The act of dismembering.**
-- **The state or condition of being dismembered.**
-- **Removal from membership; detachment from an organization, group, etc.**
+- **The [[a/_act|act]] of [[d/_dismembering|dismembering]].**
+- **The state or [[c/_condition|condition]] of [[b/_being|being]] [[d/_dismembered|dismembered]].**
+- **Removal from membership; [[d/_detachment|detachment]] from an organization, group, etc.**
 ---
 ---

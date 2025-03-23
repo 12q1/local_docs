@@ -1,7 +1,7 @@
 # Clambered
 ---
 #verb
-- **To climb (something) with some difficulty, or in a haphazard fashion.**
+- **To [[c/_climb|climb]] (something) with some [[d/_difficulty|difficulty]], or in a haphazard fashion.**
 	- _Example: The children clambered over the jungle gym._
 ---
 ---

@@ -1,6 +1,6 @@
 # Disentitle
 ---
 #verb
-- **To deprive of title, right or claim.**
+- **To [[d/_deprive|deprive]] of title, right or [[c/_claim|claim]].**
 ---
 ---

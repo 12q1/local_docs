@@ -1,10 +1,10 @@
 # Craftsmanship
 ---
 #noun
-- **The quality of being a craftsman.**
-- **An example of a craftsman's work.**
+- **The quality of [[b/_being|being]] a [[c/_craftsman|craftsman]].**
+- **An example of a [[c/_craftsman|craftsman]]'s work.**
 	- _Example: The craftsmanship on the antique chair was exquisite._
 ---
 ### Synonyms
-- [[[[c/_craftwork|craftwork]]]], [[workmanship]]
+- [[craftwork]], [[workmanship]]
 ---

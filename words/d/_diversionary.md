@@ -1,6 +1,6 @@
 # Diversionary
 ---
 #adjective
-- **That serves as a diversion.**
+- **That serves as a [[d/_diversion|diversion]].**
 ---
 ---

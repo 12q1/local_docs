@@ -1,6 +1,6 @@
 # Deemphasized
 ---
 #verb
-- **To remove or reduce the emphasis from something; to make something less important; to play down.**
+- **To remove or reduce the [[e/_emphasis|emphasis]] from something; to make something less important; to play [[d/_down|down]].**
 ---
 ---

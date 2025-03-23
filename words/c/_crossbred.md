@@ -1,16 +1,16 @@
 # Crossbred
 ---
 #noun
-- **Any organism produced by breeding from two breeds, varieties, or species.**
+- **[[a/_any|Any]] organism produced by [[b/_breeding|breeding]] from two [[b/_breeds|breeds]], varieties, or species.**
 ---
 #adjective
-- **Produced by breeding from two breeds, varieties or species.**
+- **Produced by [[b/_breeding|breeding]] from two [[b/_breeds|breeds]], varieties or species.**
 ---
 ### Synonyms
-- [[mixed-[[b/_blood|blood]]]]
+- [[mixed-blood]]
 #verb
-- **To produce (an organism) by the mating of individuals of different breeds, varieties, or species; hybridize.**
+- **To produce (an organism) by the mating of individuals of [[d/_different|different]] [[b/_breeds|breeds]], varieties, or species; hybridize.**
 - **To mate so as to produce a hybrid; interbreed.**
-- **To mate (an organism) with another organism so as to produce a hybrid.**
+- **To mate (an organism) with [[a/_another|another]] organism so as to produce a hybrid.**
 ---
 ---

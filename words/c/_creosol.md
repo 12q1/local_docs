@@ -1,6 +1,6 @@
 # Creosol
 ---
 #noun
-- **The methoxy phenol 2-methoxy-4-methylphenol that is a constituent of creosote**
+- **The methoxy phenol 2-methoxy-4-methylphenol that is a [[c/_constituent|constituent]] of [[c/_creosote|creosote]]**
 ---
 ---

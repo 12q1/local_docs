@@ -1,7 +1,7 @@
 # Dragnets
 ---
 #noun
-- **A net dragged across the bottom of a body of water.**
-- **(law enforcement) Heightened efforts by law-enforcement personnel to capture suspects.**
+- **A net [[d/_dragged|dragged]] [[a/_across|across]] the [[b/_bottom|bottom]] of a [[b/_body|body]] of water.**
+- **(law [[e/_enforcement|enforcement]]) Heightened [[e/_efforts|efforts]] by law-[[e/_enforcement|enforcement]] personnel to [[c/_capture|capture]] suspects.**
 ---
 ---

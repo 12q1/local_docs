@@ -3,8 +3,8 @@
 #verb
 - **To find fault (with something).**
 	- _Example: They criticized him for endangering people's lives._
-- **To evaluate (something), assessing its merits and faults.**
+- **To evaluate (something), [[a/_assessing|assessing]] its merits and faults.**
 ---
 ### Synonyms
-- [[[[a/_appraise|appraise]]]], [[[[c/_censure|censure]]]], [[judge]], [[[[c/_censure|censure]]]], [[pick at]]
+- [[appraise]], [[censure]], [[judge]], [[censure]], [[pick at]]
 ---

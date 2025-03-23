@@ -1,6 +1,6 @@
 # Apexed
 ---
 #adjective
-- **Having an apex; with a pointed end.**
+- **Having an [[a/_apex|apex]]; with a pointed [[e/_end|end]].**
 ---
 ---
