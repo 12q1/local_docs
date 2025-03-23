@@ -7,5 +7,5 @@
 - **(parachuting) the start of something**
 ---
 ### Antonyms
-- [[ployment]]
+- [[p/_ployment|ployment]]
 ---

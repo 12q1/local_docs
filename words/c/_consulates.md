@@ -8,5 +8,5 @@
 - **[[a/_any|Any]] town or [[c/_city|city]] [[c/_council|council]].**
 ---
 ### Synonyms
-- [[capitoulate]], [[consulship]], [[capitoulate]]
+- [[c/_capitoulate|capitoulate]], [[c/_consulship|consulship]], [[c/_capitoulate|capitoulate]]
 ---

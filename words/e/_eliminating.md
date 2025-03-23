@@ -10,5 +10,5 @@
 - **To record [[a/_amounts|amounts]] in a [[c/_consolidation|consolidation]] statement to remove the [[e/_effects|effects]] of inter-[[c/_company|company]] transactions.**
 ---
 ### Synonyms
-- [[abolish]], [[abrogate]]
+- [[a/_abolish|abolish]], [[a/_abrogate|abrogate]]
 ---

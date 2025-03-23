@@ -6,5 +6,5 @@
 - **A sexual relationship, not serious but often illicit.**
 ---
 ### Synonyms
-- [[affair]], [[dawdling]], [[idling]], [[trifling]], [[flirtation]]
+- [[a/_affair|affair]], [[d/_dawdling|dawdling]], [[i/_idling|idling]], [[t/_trifling|trifling]], [[f/_flirtation|flirtation]]
 ---

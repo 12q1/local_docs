@@ -9,7 +9,7 @@
 	- _Example: A man or his business is embarrassed when he cannot meet his pecuniary engagements._
 ---
 ### Synonyms
-- [[abash]], [[discomfit]], [[disconcert]], [[humiliate]], [[shame]]
+- [[a/_abash|abash]], [[d/_discomfit|discomfit]], [[d/_disconcert|disconcert]], [[h/_humiliate|humiliate]], [[s/_shame|shame]]
 #noun
 - **The [[a/_action|action]] of the verb to [[e/_embarrass|embarrass]]; [[e/_embarrassment|embarrassment]].**
 ---
@@ -17,5 +17,5 @@
 - **[[c/_causing|Causing]] [[e/_embarrassment|embarrassment]]; leading to a feeling of uncomfortable shame or self-[[c/_consciousness|consciousness]].**
 ---
 ### Synonyms
-- [[awkward]], [[shameful]]
+- [[a/_awkward|awkward]], [[s/_shameful|shameful]]
 ---

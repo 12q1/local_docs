@@ -15,15 +15,15 @@
 	- _Example: av u got d@? — have you got that?_
 ---
 #noun
-- **A [[b/_broad|broad]] street, especially one [[b/_bordered|bordered]] by trees.**
+- **A [[b/_broad|broad]] street, [[e/_especially|especially]] one [[b/_bordered|bordered]] by trees.**
 - **A way or opening for [[e/_entrance|entrance]] into a place; a passage by which a place may be reached; a way of [[a/_approach|approach]] or of exit.**
-- **The principal walk or [[a/_approach|approach]] to a house which is withdrawn from the road, especially, such [[a/_approach|approach]] [[b/_bordered|bordered]] on [[e/_each|each]] side by trees; [[a/_any|any]] [[b/_broad|broad]] passageway thus [[b/_bordered|bordered]].**
+- **The principal walk or [[a/_approach|approach]] to a house which is withdrawn from the road, [[e/_especially|especially]], such [[a/_approach|approach]] [[b/_bordered|bordered]] on [[e/_each|each]] side by trees; [[a/_any|any]] [[b/_broad|broad]] passageway thus [[b/_bordered|bordered]].**
 - **A method or means by which something may be [[a/_accomplished|accomplished]].**
 	- _Example: There are several avenues by which we can approach this problem._
-- **(urban toponymy) A street, especially, in [[c/_cities|cities]] laid out in a grid pattern, one that is in a particular side of the [[c/_city|city]] or that runs in a particular [[d/_direction|direction]].**
+- **(urban toponymy) A street, [[e/_especially|especially]], in [[c/_cities|cities]] laid out in a grid pattern, one that is in a particular side of the [[c/_city|city]] or that runs in a particular [[d/_direction|direction]].**
 ---
 ### Synonyms
-- [[av]], [[av.]], [[ave]], [[ave.]], [[boulevard]], [[drive]]
+- [[a/_av|av]], [[a/_av.|av.]], [[a/_ave|ave]], [[a/_ave.|ave.]], [[b/_boulevard|boulevard]], [[d/_drive|drive]]
 #adjective
 - **[[c/_constituting|Constituting]] or relating to the [[a/_average|average]].**
 	- _Example: The average age of the participants was 18.5._
@@ -34,9 +34,9 @@
 - **Not outstanding, not good, [[b/_banal|banal]]; [[b/_bad|bad]] or poor.**
 ---
 ### Synonyms
-- [[av.]], [[ave.]], [[avg.]], [[expectation]], [[mean]], [[comme ci comme ça]], [[mediocre]], [[medium]], [[middle]], [[middling]], [[ranking]], [[so-so]], [[unremarkable]], [[ordinary]], [[uninspiring]], [[bog-standard]], [[conventional]], [[normal]], [[regular]], [[standard]], [[typical]], [[usual]]
+- [[a/_av.|av.]], [[a/_ave.|ave.]], [[a/_avg.|avg.]], [[e/_expectation|expectation]], [[m/_mean|mean]], [[m/_mediocre|mediocre]], [[m/_medium|medium]], [[m/_middle|middle]], [[m/_middling|middling]], [[r/_ranking|ranking]], [[s/_so-so|so-so]], [[u/_unremarkable|unremarkable]], [[o/_ordinary|ordinary]], [[u/_uninspiring|uninspiring]], [[b/_bog-standard|bog-standard]], [[c/_conventional|conventional]], [[n/_normal|normal]], [[r/_regular|regular]], [[s/_standard|standard]], [[t/_typical|typical]], [[u/_usual|usual]]
 ### Antonyms
-- [[extraordinary]]
+- [[e/_extraordinary|extraordinary]]
 #noun
 - **The official system of weights used in the UK [[b/_between|between]] 1856 and 1963. It had [[b/_been|been]] the [[c/_customary|customary]] system in London since 1300.**
 - **The official system of weights used in the USA [[b/_between|between]] 1866 and 1959.**

@@ -13,5 +13,5 @@
 - **To [[c/_covertly|covertly]] have sex (with a person other than one's primary partner); to [[c/_cheat|cheat]] with.**
 ---
 ### Synonyms
-- [[crawl]]
+- [[c/_crawl|crawl]]
 ---

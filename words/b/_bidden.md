@@ -14,5 +14,5 @@
 - **To wait for; to [[a/_await|await]].**
 ---
 ### Synonyms
-- [[put up with]], [[live]], [[stand by]], [[await]]
+- [[l/_live|live]], [[a/_await|await]]
 ---

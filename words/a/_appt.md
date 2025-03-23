@@ -8,17 +8,17 @@
 - **Stipulation; [[a/_agreement|agreement]]; the [[a/_act|act]] of fixing by mutual [[a/_agreement|agreement]].**
 - **An [[a/_arrangement|arrangement]] [[b/_between|between]] people to meet; an [[e/_engagement|engagement]].**
 	- _Example: I'm leaving work early because I have a doctor's appointment._
-- **[[d/_decree|Decree]]; [[d/_direction|direction]]; established order or [[c/_constitution|constitution]].**
+- **[[d/_decree|Decree]]; [[d/_direction|direction]]; [[e/_established|established]] order or [[c/_constitution|constitution]].**
 	- _Example: To submit to the divine appointments._
-- **The exercise of the power of [[d/_designating|designating]] (under a power of [[a/_appointment|appointment]]) a person to [[e/_enjoy|enjoy]] an estate or other specific property; [[a/_also|also]], the instrument by which the [[d/_designation|designation]] is made.**
+- **The exercise of the power of [[d/_designating|designating]] (under a power of [[a/_appointment|appointment]]) a person to [[e/_enjoy|enjoy]] an [[e/_estate|estate]] or other specific property; [[a/_also|also]], the instrument by which the [[d/_designation|designation]] is made.**
 - **The [[a/_assignment|assignment]] of a person by an official to perform a [[d/_duty|duty]], such as a presidential [[a/_appointment|appointment]] of a judge to a [[c/_court|court]].**
 - **(now in the plural) [[e/_equipment|Equipment]], furniture.**
-- **A honorary part or exercise, as an oration, etc., at a public exhibition of a [[c/_college|college]].**
+- **A honorary part or exercise, as an oration, [[e/_etc|etc]]., at a public exhibition of a [[c/_college|college]].**
 	- _Example: to have an appointment_
 - **The [[a/_allowance|allowance]] paid to a public officer.**
 ---
 ### Synonyms
-- [[command]], [[designation]], [[direction]], [[equipment]], [[establishment]], [[order]]
+- [[c/_command|command]], [[d/_designation|designation]], [[d/_direction|direction]], [[e/_equipment|equipment]], [[e/_establishment|establishment]], [[o/_order|order]]
 ### Antonyms
-- [[dismissal]]
+- [[d/_dismissal|dismissal]]
 ---

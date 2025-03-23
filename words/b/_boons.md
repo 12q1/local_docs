@@ -8,7 +8,7 @@
 - **An unpaid service [[d/_due|due]] by a tenant to his lord.**
 ---
 ### Synonyms
-- [[benefit]], [[blessing]], [[favor]], [[gift]]
+- [[b/_benefit|benefit]], [[b/_blessing|blessing]], [[f/_favor|favor]], [[g/_gift|gift]]
 ### Antonyms
-- [[bane]]
+- [[b/_bane|bane]]
 ---

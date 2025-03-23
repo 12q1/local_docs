@@ -9,7 +9,7 @@
 	- _Example: The answers intelligence services seek are often drowned in the flood of information they can now gather._
 ---
 ### Synonyms
-- [[flood]], [[inundate]]
+- [[f/_flood|flood]], [[i/_inundate|inundate]]
 #noun
 - **An instance of a person or [[a/_animal|animal]] [[d/_drowning|drowning]].**
 	- _Example: It's dangerous to swim in that river — there were three drownings there last year._

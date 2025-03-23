@@ -5,5 +5,5 @@
 - **The [[e/_edible|edible]] fruit of this plant, having a green rind and [[c/_crisp|crisp]] white flesh.**
 ---
 ### Synonyms
-- [[cuke]]
+- [[c/_cuke|cuke]]
 ---

@@ -12,7 +12,7 @@
 - **A person's tongue, as a source of [[c/_chatter|chatter]] or nagging.**
 ---
 ### Synonyms
-- [[clapstick]], [[musicstick]]
+- [[c/_clapstick|clapstick]], [[m/_musicstick|musicstick]]
 #verb
 - **To ring a [[b/_bell|bell]] by pulling a rope [[a/_attached|attached]] to the [[c/_clapper|clapper]].**
 - **To make a repetitive [[c/_clapping|clapping]] sound; to [[c/_clatter|clatter]].**

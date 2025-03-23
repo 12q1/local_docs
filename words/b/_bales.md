@@ -12,6 +12,6 @@
 - **A measurement of paper [[e/_equal|equal]] to 10 reams.**
 ---
 #verb
-- **To remove water from a [[b/_boat|boat]] with [[b/_buckets|buckets]] etc.**
+- **To remove water from a [[b/_boat|boat]] with [[b/_buckets|buckets]] [[e/_etc|etc]].**
 ---
 ---

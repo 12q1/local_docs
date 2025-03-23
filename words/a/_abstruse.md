@@ -5,5 +5,5 @@
 - **[[c/_concealed|Concealed]] or hidden out of the way; secret.**
 ---
 ### Synonyms
-- [[clandestine]], [[secret]], [[surreptitious]], [[esoteric]], [[obscure]], [[recondite]], [[esoteric]], [[obscure]], [[recondite]]
+- [[c/_clandestine|clandestine]], [[s/_secret|secret]], [[s/_surreptitious|surreptitious]], [[e/_esoteric|esoteric]], [[o/_obscure|obscure]], [[r/_recondite|recondite]], [[e/_esoteric|esoteric]], [[o/_obscure|obscure]], [[r/_recondite|recondite]]
 ---

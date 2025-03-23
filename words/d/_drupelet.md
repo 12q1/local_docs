@@ -5,5 +5,5 @@
 	- _Example: It is best to pick the berries while all drupelets are of a consistent, dark red coloration._
 ---
 ### Synonyms
-- [[drupel]]
+- [[d/_drupel|drupel]]
 ---

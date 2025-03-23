@@ -1,9 +1,9 @@
 # Cropping
 ---
 #verb
-- **To remove the top [[e/_end|end]] of something, especially a plant.**
+- **To remove the top [[e/_end|end]] of something, [[e/_especially|especially]] a plant.**
 - **To mow, reap or gather.**
-- **To [[c/_cut|cut]] (especially hair or an [[a/_animal|animal]]'s tail or [[e/_ears|ears]]) short.**
+- **To [[c/_cut|cut]] ([[e/_especially|especially]] hair or an [[a/_animal|animal]]'s tail or [[e/_ears|ears]]) short.**
 - **To remove the outer parts of a photograph or other image, typically in order to frame the subject [[b/_better|better]].**
 - **To yield harvest.**
 - **To [[c/_cause|cause]] to [[b/_bear|bear]] a [[c/_crop|crop]].**

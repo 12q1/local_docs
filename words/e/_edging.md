@@ -21,5 +21,5 @@
 - **The sexual technique of maintaining a high level of sexual [[a/_arousal|arousal]] for an extended period of time without reaching orgasm.**
 ---
 ### Antonyms
-- [[smearing]]
+- [[s/_smearing|smearing]]
 ---

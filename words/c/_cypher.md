@@ -10,7 +10,7 @@
 - **A [[c/_cryptographic|cryptographic]] system using an [[a/_algorithm|algorithm]] that [[c/_converts|converts]] letters or sequences of [[b/_bits|bits]] into [[c/_ciphertext|ciphertext]].**
 - **[[c/_ciphertext|Ciphertext]]; a message [[c/_concealed|concealed]] via a [[c/_cipher|cipher]].**
 	- _Example: The message is clearly a cipher, but I can't figure it out._
-- **A grouping of three [[d/_digits|digits]] in a number, especially when [[d/_delimited|delimited]] by [[c/_commas|commas]] or periods:**
+- **A grouping of three [[d/_digits|digits]] in a number, [[e/_especially|especially]] when [[d/_delimited|delimited]] by [[c/_commas|commas]] or periods:**
 	- _Example: The probability is 1 in 1,000,000,000,000,000 — a number having five ciphers of zeros._
 - **A fault in an organ valve which [[c/_causes|causes]] a pipe to sound [[c/_continuously|continuously]] without the key having [[b/_been|been]] pressed.**
 - **A hip-hop jam session.**
@@ -19,7 +19,7 @@
 - **Zero.**
 ---
 ### Synonyms
-- [[monogram]], [[code]], [[number]], [[numeral]], [[naught]], [[nothing]], [[nought]], [[oh]], [[zero]], [[nobody]], [[nonentity]], [[nothing]], [[nullity]]
+- [[m/_monogram|monogram]], [[c/_code|code]], [[n/_number|number]], [[n/_numeral|numeral]], [[n/_naught|naught]], [[n/_nothing|nothing]], [[n/_nought|nought]], [[o/_oh|oh]], [[z/_zero|zero]], [[n/_nobody|nobody]], [[n/_nonentity|nonentity]], [[n/_nothing|nothing]], [[n/_nullity|nullity]]
 #verb
 - **To [[c/_calculate|calculate]].**
 	- _Example: I never learned much more than how to read and cipher._

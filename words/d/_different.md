@@ -11,9 +11,9 @@
 - **Unlike most others; unusual.**
 ---
 ### Synonyms
-- [[apart]], [[distinct]], [[other]], [[aberrant]], [[deviant]], [[nonstandard]], [[sundry]]
+- [[a/_apart|apart]], [[d/_distinct|distinct]], [[o/_other|other]], [[a/_aberrant|aberrant]], [[d/_deviant|deviant]], [[n/_nonstandard|nonstandard]], [[s/_sundry|sundry]]
 ### Antonyms
-- [[undifferent]], [[coherent]], [[indistinct]], [[unified]], [[alike]], [[identical]], [[same]], [[similar]], [[normal]], [[usual]], [[homogeneous]]
+- [[u/_undifferent|undifferent]], [[c/_coherent|coherent]], [[i/_indistinct|indistinct]], [[u/_unified|unified]], [[a/_alike|alike]], [[i/_identical|identical]], [[s/_same|same]], [[s/_similar|similar]], [[n/_normal|normal]], [[u/_usual|usual]], [[h/_homogeneous|homogeneous]]
 #adverb
 - **[[d/_differently|Differently]].**
 ---

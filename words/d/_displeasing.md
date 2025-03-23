@@ -7,9 +7,9 @@
 - **To fail to satisfy; to miss of.**
 ---
 ### Synonyms
-- [[misplease]]
+- [[m/_misplease|misplease]]
 ### Antonyms
-- [[please]]
+- [[p/_please|please]]
 #adjective
 - **Unattractive, [[d/_dislikable|dislikable]], objectionable.**
 ---

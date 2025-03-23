@@ -15,7 +15,7 @@
 - **The human head.**
 	- _Example: I'll knock your block off!_
 - **A wig [[b/_block|block]]: a simplified head model upon which wigs are worn.**
-- **A mould on which hats, [[b/_bonnets|bonnets]], etc., are shaped.**
+- **A mould on which hats, [[b/_bonnets|bonnets]], [[e/_etc|etc]]., are shaped.**
 - **A set of sheets (of paper) joined together at one [[e/_end|end]].**
 	- _Example: a block of 100 tickets_
 - **A logical [[d/_data|data]] storage unit [[c/_containing|containing]] one or more physical sectors (see [[c/_cluster|cluster]]).**
@@ -42,7 +42,7 @@
 - **A [[d/_discrete|discrete]] group of vines in a vineyard, often [[d/_distinguished|distinguished]] from others by variety, [[c/_clone|clone]], [[c/_canopy|canopy]] training method, irrigation infrastructure, or some [[c/_combination|combination]] thereof.**
 ---
 ### Synonyms
-- [[roof]], [[stuff]], [[wall]], [[barrier]], [[blockage]], [[obstruction]], [[city block]]
+- [[r/_roof|roof]], [[s/_stuff|stuff]], [[w/_wall|wall]], [[b/_barrier|barrier]], [[b/_blockage|blockage]], [[o/_obstruction|obstruction]]
 #verb
 - **To fill (something) so that it is not possible to pass.**
 	- _Example: The pipe is blocked._
@@ -56,11 +56,11 @@
 	- _Example: It was very difficult to block this scene convincingly._
 - **To hit with a [[b/_block|block]].**
 - **To play a [[b/_block|block]] shot.**
-- **To [[d/_disable|disable]] [[c/_communication|communication]] via telephone, instant messaging, etc., with an undesirable someone.**
+- **To [[d/_disable|disable]] [[c/_communication|communication]] via telephone, instant messaging, [[e/_etc|etc]]., with an undesirable someone.**
 	- _Example: I tried to send you a message, but you've blocked me!_
 - **To wait.**
 	- _Example: When the condition expression is false, the thread blocks on the condition variable._
-- **To stretch or mould (a knitted item, a hat, etc.) into the [[d/_desired|desired]] shape.**
+- **To stretch or mould (a knitted item, a hat, [[e/_etc|etc]].) into the [[d/_desired|desired]] shape.**
 	- _Example: I blocked the mittens by wetting them and pinning them to a shaped piece of cardboard._
 - **To shape or sketch out roughly.**
 ---

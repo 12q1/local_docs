@@ -5,7 +5,7 @@
 - **[[e/_eccentric|Eccentric]] [[b/_behaviour|behaviour]]; lunacy.**
 ---
 ### Synonyms
-- [[lunatic]], [[mad man]], [[nut ball]], [[nut case]], [[nutso]], [[psychopath]]
+- [[l/_lunatic|lunatic]], [[n/_nutso|nutso]], [[p/_psychopath|psychopath]]
 #adjective
 - **Flawed or [[d/_damaged|damaged]]; unsound, liable to [[b/_break|break]] [[a/_apart|apart]]; ramshackle.**
 - **Sickly, frail; [[d/_diseased|diseased]].**
@@ -21,7 +21,7 @@
 	- _Example: The game had a crazy ending._
 ---
 ### Synonyms
-- [[deranged]], [[loco]], [[nutso]], [[zany]], [[nutso]], [[off the chain]], [[insane]]
+- [[d/_deranged|deranged]], [[l/_loco|loco]], [[n/_nutso|nutso]], [[z/_zany|zany]], [[n/_nutso|nutso]], [[i/_insane|insane]]
 #adverb
 - **Very, extremely.**
 	- _Example: That trick was crazy good._

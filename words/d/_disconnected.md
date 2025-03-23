@@ -14,5 +14,5 @@
 - **(of a topological space) That [[c/_can|can]] be partitioned into two nonempty subsets which are [[b/_both|both]] open and [[c/_closed|closed]].**
 ---
 ### Antonyms
-- [[connected]]
+- [[c/_connected|connected]]
 ---

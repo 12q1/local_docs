@@ -9,7 +9,7 @@
 - **The [[d/_dead|dead]] protective tissue [[b/_between|between]] the [[b/_bark|bark]] and [[c/_cambium|cambium]] in woody plants, with suberin [[d/_deposits|deposits]] making it impervious to gasses and water.**
 ---
 #verb
-- **To seal or stop up, especially with a [[c/_cork|cork]] stopper.**
+- **To seal or stop up, [[e/_especially|especially]] with a [[c/_cork|cork]] stopper.**
 - **To [[b/_blacken|blacken]] (as) with a [[b/_burnt|burnt]] [[c/_cork|cork]]**
 - **To leave the [[c/_cork|cork]] in a [[b/_bottle|bottle]] [[a/_after|after]] [[a/_attempting|attempting]] to uncork it.**
 - **To fill with [[c/_cork|cork]], as the [[c/_center|center]] of a [[b/_baseball|baseball]] [[b/_bat|bat]].**

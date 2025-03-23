@@ -12,7 +12,7 @@
 - **A series of interconnected links of known length, used as a measuring [[d/_device|device]].**
 - **A long measuring tape.**
 - **A unit of length [[e/_equal|equal]] to 22 yards. The length of a Gunter's surveying [[c/_chain|chain]]. The length of a [[c/_cricket|cricket]] pitch. [[e/_equal|Equal]] to 20.12 metres, 4 rods, or 100 links.**
-- **A totally ordered set, especially a totally ordered subset of a poset.**
+- **A totally ordered set, [[e/_especially|especially]] a totally ordered subset of a poset.**
 - **A sequence of linked house purchases, [[e/_each|each]] of which is [[d/_dependent|dependent]] on the preceding and succeeding purchase (said to be "[[b/_broken|broken]]" if a [[b/_buyer|buyer]] or seller pulls out).**
 - **That which [[c/_confines|confines]], fetters, or secures; a [[b/_bond|bond]].**
 	- _Example: the chains of habit_
@@ -20,12 +20,12 @@
 - **The warp threads of a web.**
 ---
 ### Synonyms
-- [[rackle]]
+- [[r/_rackle|rackle]]
 #verb
 - **To fasten something with a [[c/_chain|chain]].**
 - **To link multiple items together.**
 - **To secure someone with fetters.**
-- **To obstruct the mouth of a river etc with a [[c/_chain|chain]].**
+- **To obstruct the mouth of a river [[e/_etc|etc]] with a [[c/_chain|chain]].**
 - **To obligate.**
 - **To relate [[d/_data|data]] items with a [[c/_chain|chain]] of pointers.**
 - **To be [[c/_chained|chained]] to [[a/_another|another]] [[d/_data|data]] item.**

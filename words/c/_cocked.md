@@ -4,7 +4,7 @@
 - **To lift the [[c/_cock|cock]] of a firearm or [[c/_crossbow|crossbow]]; to prepare (a gun or [[c/_crossbow|crossbow]]) to be fired.**
 - **To be prepared to be triggered by having the [[c/_cock|cock]] lifted.**
 	- _Example: In the darkness, the gun cocked loudly._
-- **To erect; to turn up.**
+- **To [[e/_erect|erect]]; to turn up.**
 - **To [[c/_copulate|copulate]] with.**
 - **To turn or twist something upwards or to one side; to lift or tilt ([[e/_e|e]].g. headwear) [[b/_boastfully|boastfully]].**
 	- _Example: He cocked his hat jauntily._
@@ -21,5 +21,5 @@
 	- _Example: The large-cocked man entered the dressing room._
 ---
 ### Synonyms
-- [[bedicked]], [[bepenised]], [[dicked]], [[penised]], [[phallused]]
+- [[b/_bedicked|bedicked]], [[b/_bepenised|bepenised]], [[d/_dicked|dicked]], [[p/_penised|penised]], [[p/_phallused|phallused]]
 ---

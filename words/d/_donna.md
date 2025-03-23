@@ -1,8 +1,8 @@
 # Donna
 ---
 #noun
-- **A lady, especially a noblewoman; the title given to a lady in Italy.**
+- **A lady, [[e/_especially|especially]] a noblewoman; the title given to a lady in Italy.**
 ---
 ### Synonyms
-- [[lady]], [[madam]], [[mistress]], [[noblewoman]]
+- [[l/_lady|lady]], [[m/_madam|madam]], [[m/_mistress|mistress]], [[n/_noblewoman|noblewoman]]
 ---

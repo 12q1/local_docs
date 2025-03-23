@@ -6,7 +6,7 @@
 - **Rubbish.**
 ---
 ### Synonyms
-- [[caca]]
+- [[c/_caca|caca]]
 #verb
 - **To [[d/_defecate|defecate]].**
 - **To kill.**

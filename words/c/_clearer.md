@@ -31,9 +31,9 @@
 	- _Example: a clear profit_
 ---
 ### Synonyms
-- [[pellucid]], [[transparent]], [[homogeneous]], [[conspicuous]]
+- [[p/_pellucid|pellucid]], [[t/_transparent|transparent]], [[h/_homogeneous|homogeneous]], [[c/_conspicuous|conspicuous]]
 ### Antonyms
-- [[thick]], [[opaque]], [[turbid]], [[cloudy]], [[nebulous]], [[obscure]]
+- [[t/_thick|thick]], [[o/_opaque|opaque]], [[t/_turbid|turbid]], [[c/_cloudy|cloudy]], [[n/_nebulous|nebulous]], [[o/_obscure|obscure]]
 #noun
 - **Someone who or something which [[c/_clears|clears]].**
 - **A tool by which the hemp for lines and twines, used by sailmakers, is finished.**

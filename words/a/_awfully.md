@@ -9,5 +9,5 @@
 - **Fearfully.**
 ---
 ### Synonyms
-- [[extremely]], [[terribly]], [[very]]
+- [[e/_extremely|extremely]], [[t/_terribly|terribly]], [[v/_very|very]]
 ---

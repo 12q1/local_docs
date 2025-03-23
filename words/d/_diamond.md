@@ -9,7 +9,7 @@
 	- _Example: What a beautiful engagement diamond._
 - **A very pale [[b/_blue|blue]] [[c/_color|color]]/[[c/_colour|colour]].**
 - **Something that resembles a [[d/_diamond|diamond]].**
-- **A rhombus, especially when oriented so that its longer [[a/_axis|axis]] is vertical.**
+- **A rhombus, [[e/_especially|especially]] when oriented so that its longer [[a/_axis|axis]] is vertical.**
 - **The polyiamond made up of two triangles.**
 - **The [[e/_entire|entire]] field of play used in the game.**
 - **The infield of a [[b/_baseball|baseball]] field.**
@@ -19,9 +19,9 @@
 - **A size of type, standardised as 4 1/2 point.**
 ---
 ### Synonyms
-- [[ball field]], [[baseball field]], [[baseball diamond]], [[infield]], [[sparkler]], [[2-iamond]], [[lozenge]], [[rhomb]], [[rhombus]], [[diamond ring]], [[adamant]]
+- [[i/_infield|infield]], [[s/_sparkler|sparkler]], [[2/_2-iamond|2-iamond]], [[l/_lozenge|lozenge]], [[r/_rhomb|rhomb]], [[r/_rhombus|rhombus]], [[a/_adamant|adamant]]
 ### Antonyms
-- [[outfield]]
+- [[o/_outfield|outfield]]
 #verb
 - **To [[a/_adorn|adorn]] with or as if with [[d/_diamonds|diamonds]]**
 ---

@@ -19,7 +19,7 @@
 - **[[a/_any|Any]] of the four [[c/_cardinal|cardinal]] points of an [[a/_astrological|astrological]] [[c/_chart|chart]]: the [[a/_ascendant|Ascendant]], the Midheaven, the [[d/_descendant|Descendant]] and the Imum Coeli.**
 ---
 ### Synonyms
-- [[swerve]], [[corner]], [[nook]], [[-gon]], [[hexagon]], [[opinion]], [[perspective]], [[point of view]], [[slant]], [[view]], [[viewpoint]]
+- [[s/_swerve|swerve]], [[c/_corner|corner]], [[n/_nook|nook]], [[-/_-gon|-gon]], [[h/_hexagon|hexagon]], [[o/_opinion|opinion]], [[p/_perspective|perspective]], [[s/_slant|slant]], [[v/_view|view]], [[v/_viewpoint|viewpoint]]
 #verb
 - **(often in the passive) To place (something) at an [[a/_angle|angle]].**
 	- _Example: The roof is angled at 15 degrees._

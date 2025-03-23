@@ -6,7 +6,7 @@
 - **The process by which a term gains a more positive [[c/_connotation|connotation]] over time.**
 ---
 ### Synonyms
-- [[revamp]]
+- [[r/_revamp|revamp]]
 ### Antonyms
-- [[deterioration]], [[nerf]], [[pejoration]]
+- [[d/_deterioration|deterioration]], [[n/_nerf|nerf]], [[p/_pejoration|pejoration]]
 ---

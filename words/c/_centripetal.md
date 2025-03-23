@@ -6,5 +6,5 @@
 - **(of a nerve impulse) [[d/_directed|Directed]] towards the [[c/_central|central]] nervous system; [[a/_afferent|afferent]].**
 ---
 ### Antonyms
-- [[centrifugal]]
+- [[c/_centrifugal|centrifugal]]
 ---

@@ -11,5 +11,5 @@
 	- _Example: We were all saddened by the deplorable death of his son._
 ---
 ### Synonyms
-- [[pathetic]]
+- [[p/_pathetic|pathetic]]
 ---

@@ -5,7 +5,7 @@
 - **[[a/_anything|Anything]] forming or resembling such a line, particularly:**
 ---
 ### Synonyms
-- [[bias]], [[slash]]
+- [[b/_bias|bias]], [[s/_slash|slash]]
 ### Antonyms
-- [[backslash]]
+- [[b/_backslash|backslash]]
 ---

@@ -1,7 +1,7 @@
 # Delicate
 ---
 #noun
-- **A [[d/_delicate|delicate]] item of [[c/_clothing|clothing]], especially underwear or lingerie.**
+- **A [[d/_delicate|delicate]] item of [[c/_clothing|clothing]], [[e/_especially|especially]] underwear or lingerie.**
 	- _Example: Don't put that in with your jeans: it's a delicate!_
 - **A [[c/_choice|choice]] [[d/_dainty|dainty]]; a [[d/_delicacy|delicacy]].**
 - **A [[d/_delicate|delicate]], luxurious, or [[e/_effeminate|effeminate]] person.**
@@ -17,7 +17,7 @@
 	- _Example: delicate attentions_
 - **Of weak health; [[e/_easily|easily]] sick; unable to [[e/_endure|endure]] hardship.**
 	- _Example: a delicate child_
-- **Unwell, especially [[b/_because|because]] of having [[d/_drunk|drunk]] too much [[a/_alcohol|alcohol]].**
+- **Unwell, [[e/_especially|especially]] [[b/_because|because]] of having [[d/_drunk|drunk]] too much [[a/_alcohol|alcohol]].**
 	- _Example: Please don't speak so loudly: I'm feeling a bit delicate this morning._
 - **[[a/_addicted|Addicted]] to pleasure; luxurious; voluptuous; [[a/_alluring|alluring]].**
 - **Pleasing to the senses; refined; [[a/_adapted|adapted]] to please an [[e/_elegant|elegant]] or [[c/_cultivated|cultivated]] taste.**
@@ -32,5 +32,5 @@
 	- _Example: a delicate thermometer_
 ---
 ### Synonyms
-- [[fragile]]
+- [[f/_fragile|fragile]]
 ---

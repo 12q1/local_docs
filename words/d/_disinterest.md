@@ -7,7 +7,7 @@
 - **What is [[c/_contrary|contrary]] to interest or [[a/_advantage|advantage]].**
 ---
 ### Synonyms
-- [[apathy]], [[indifference]], [[uninterest]], [[disadvantage]], [[impartiality]]
+- [[a/_apathy|apathy]], [[i/_indifference|indifference]], [[u/_uninterest|uninterest]], [[d/_disadvantage|disadvantage]], [[i/_impartiality|impartiality]]
 #verb
 - **To render [[d/_disinterested|disinterested]].**
 ---
@@ -15,5 +15,5 @@
 - **Free of personal [[b/_bias|bias]].**
 ---
 ### Synonyms
-- [[disinterested]]
+- [[d/_disinterested|disinterested]]
 ---

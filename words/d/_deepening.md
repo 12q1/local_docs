@@ -29,7 +29,7 @@
 	- _Example: The new bed allowed my sleep to deepen._
 ---
 ### Synonyms
-- [[depthen]]
+- [[d/_depthen|depthen]]
 #noun
 - **The [[a/_act|act]] of [[b/_becoming|becoming]] [[d/_deeper|deeper]].**
 ---

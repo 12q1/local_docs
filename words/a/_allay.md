@@ -14,5 +14,5 @@
 - **(by extension) To make worse by the introduction of inferior [[e/_elements|elements]].**
 ---
 ### Synonyms
-- [[abate]], [[alleviate]], [[appease]], [[assuage]], [[calm]], [[compose]], [[quiet]], [[soothe]]
+- [[a/_abate|abate]], [[a/_alleviate|alleviate]], [[a/_appease|appease]], [[a/_assuage|assuage]], [[c/_calm|calm]], [[c/_compose|compose]], [[q/_quiet|quiet]], [[s/_soothe|soothe]]
 ---

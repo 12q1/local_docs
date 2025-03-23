@@ -7,6 +7,6 @@
 	- _Example: Yes, I can do that for you - it's no bother._
 ---
 #noun
-- **Violence, especially that [[a/_associated|associated]] with youth gangs.**
+- **Violence, [[e/_especially|especially]] that [[a/_associated|associated]] with youth gangs.**
 ---
 ---

@@ -6,5 +6,5 @@
 - **The Numidian [[c/_crane|crane]] (Grus virgo).**
 ---
 ### Synonyms
-- [[demoiselle crane]]
+- 
 ---

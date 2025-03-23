@@ -4,5 +4,5 @@
 - **[[d/_darling|Darling]] (term of [[e/_endearment|endearment]]).**
 ---
 ### Synonyms
-- [[babe]], [[baby]], [[darling]], [[dear]], [[love]], [[loved one]], [[significant other]], [[special someone]], [[sweetheart]]
+- [[b/_babe|babe]], [[b/_baby|baby]], [[d/_darling|darling]], [[d/_dear|dear]], [[l/_love|love]], [[s/_sweetheart|sweetheart]]
 ---

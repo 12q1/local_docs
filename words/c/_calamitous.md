@@ -5,5 +5,5 @@
 	- _Example: The city was struck by a calamitous cyclone._
 ---
 ### Synonyms
-- [[destructive]], [[fatal]]
+- [[d/_destructive|destructive]], [[f/_fatal|fatal]]
 ---

@@ -11,7 +11,7 @@
 - **Leaning.**
 ---
 ### Synonyms
-- [[quiescent]]
+- [[q/_quiescent|quiescent]]
 ### Antonyms
-- [[active]], [[active]], [[extinct]]
+- [[a/_active|active]], [[a/_active|active]], [[e/_extinct|extinct]]
 ---

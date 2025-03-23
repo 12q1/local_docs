@@ -21,14 +21,14 @@
 - **Quietly impudent, [[d/_defiant|defiant]], or selfish; [[d/_deliberately|deliberately]] presuming: said of persons and [[a/_acts|acts]].**
 ---
 ### Synonyms
-- [[OK]], [[acceptable]], [[all right]], [[chilly]], [[distant]], [[phlegmatic]], [[standoffish]], [[unemotional]], [[easy]], [[fine]], [[not bothered]], [[not fussed]], [[fashionable]], [[happening]], [[hip]], [[in]], [[in fashion]], [[modish]], [[stylish]], [[trendy]], [[à la mode]]
+- [[O/_OK|OK]], [[a/_acceptable|acceptable]], [[c/_chilly|chilly]], [[d/_distant|distant]], [[p/_phlegmatic|phlegmatic]], [[s/_standoffish|standoffish]], [[u/_unemotional|unemotional]], [[e/_easy|easy]], [[f/_fine|fine]], [[f/_fashionable|fashionable]], [[h/_happening|happening]], [[h/_hip|hip]], [[i/_in|in]], [[m/_modish|modish]], [[s/_stylish|stylish]], [[t/_trendy|trendy]]
 ### Antonyms
-- [[awkward]], [[uncool]], [[bothered]], [[upset]], [[démodé]], [[old hat]], [[out]], [[out of fashion]], [[lukewarm]], [[tepid]], [[warm]], [[not cricket]], [[not on]], [[unacceptable]], [[passionate]], [[warm]], [[warm]]
+- [[a/_awkward|awkward]], [[u/_uncool|uncool]], [[b/_bothered|bothered]], [[u/_upset|upset]], [[d/_démodé|démodé]], [[o/_out|out]], [[l/_lukewarm|lukewarm]], [[t/_tepid|tepid]], [[w/_warm|warm]], [[u/_unacceptable|unacceptable]], [[p/_passionate|passionate]], [[w/_warm|warm]], [[w/_warm|warm]]
 #noun
 - **[[a/_anything|Anything]] which [[c/_cools|cools]].**
 - **An insulated [[b/_bin|bin]] or [[b/_box|box]] used with ice or freezer packs to keep food or [[b/_beverages|beverages]] [[c/_cold|cold]] while picnicking or [[c/_camping|camping]].**
 - **A [[d/_device|device]] for refrigerating [[d/_dead|dead]] [[b/_bodies|bodies]] in a morgue.**
-- **A mixed [[d/_drink|drink]], especially one served [[c/_chilled|chilled]].**
+- **A mixed [[d/_drink|drink]], [[e/_especially|especially]] one served [[c/_chilled|chilled]].**
 	- _Example: They served wine coolers in the afternoon._
 - **A prison.**
 - **A [[c/_cold|cold]] [[d/_deck|deck]].**

@@ -8,5 +8,5 @@
 	- _Example: Though initially adopting a hard-line stance, the politician soon started to backpedal._
 ---
 ### Synonyms
-- [[climb down]]
+- 
 ---

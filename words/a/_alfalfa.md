@@ -5,5 +5,5 @@
 - **A type or [[b/_breed|breed]] of this plant.**
 ---
 ### Synonyms
-- [[lucerne]]
+- [[l/_lucerne|lucerne]]
 ---

@@ -13,7 +13,7 @@
 - **A [[d/_dropping|dropping]] of [[c/_cow|cow]] [[d/_dung|dung]] (presumably from the sound made as it hits the ground)**
 ---
 ### Synonyms
-- [[thunderclap]]
+- [[t/_thunderclap|thunderclap]]
 #verb
 - **To strike the palms of the hands together, [[c/_creating|creating]] a sharp sound.**
 	- _Example: The children began to clap in time with the music._

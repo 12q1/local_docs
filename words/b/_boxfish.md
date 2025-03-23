@@ -5,5 +5,5 @@
 - **[[c/_certain|Certain]] species in Ostraciidae, principally in genus Ostracion.**
 ---
 ### Synonyms
-- [[cofferfish]]
+- [[c/_cofferfish|cofferfish]]
 ---

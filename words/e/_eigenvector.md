@@ -5,5 +5,5 @@
 - **Specifically, given a matrix A, the [[e/_eigenvector|eigenvector]] of the transformation "leftside multiplication by A"**
 ---
 ### Synonyms
-- [[characteristic vector]], [[latent vector]], [[proper vector]]
+- 
 ---

@@ -5,5 +5,5 @@
 - **[[a/_any|Any]] imagined fear or threat, or a fear presumed larger than it really is.**
 ---
 ### Synonyms
-- [[goblin]]
+- [[g/_goblin|goblin]]
 ---

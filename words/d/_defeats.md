@@ -7,7 +7,7 @@
 - **To nullify**
 ---
 ### Synonyms
-- [[beat]], [[overcome]], [[vanquish]]
+- [[b/_beat|beat]], [[o/_overcome|overcome]], [[v/_vanquish|vanquish]]
 #noun
 - **The [[a/_act|act]] or instance of [[b/_being|being]] [[d/_defeated|defeated]], of [[b/_being|being]] overcome or vanquished; a loss.**
 	- _Example: Licking their wounds after a temporary defeat, they planned their next move._
@@ -17,5 +17,5 @@
 - **[[d/_destruction|Destruction]], ruin.**
 ---
 ### Antonyms
-- [[victory]]
+- [[v/_victory|victory]]
 ---

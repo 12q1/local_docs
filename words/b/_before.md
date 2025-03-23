@@ -7,9 +7,9 @@
 - **At the front [[e/_end|end]].**
 ---
 ### Synonyms
-- [[previously]], [[in front]], [[ahead]]
+- [[p/_previously|previously]], [[a/_ahead|ahead]]
 ### Antonyms
-- [[after]], [[behind]]
+- [[a/_after|after]], [[b/_behind|behind]]
 #preposition
 - **[[e/_earlier|Earlier]] than (in time).**
 	- _Example: I want this done before Monday._
@@ -26,14 +26,14 @@
 	- _Example: An entrepreneur puts market share and profit before quality, an amateur intrinsic qualities before economical considerations._
 ---
 ### Synonyms
-- [[by]], [[ere]], [[no later than]], [[previous to]], [[prior to]], [[ahead of]], [[ahead of]], [[in front of]]
+- [[b/_by|by]], [[e/_ere|ere]]
 ### Antonyms
-- [[after]], [[later]], [[after]], [[behind]]
+- [[a/_after|after]], [[l/_later|later]], [[a/_after|after]], [[b/_behind|behind]]
 #conjunction
 - **In [[a/_advance|advance]] of the time when.**
 - **Rather or sooner than.**
 	- _Example: I'll die before I'll tell you anything about it._
 ---
 ### Synonyms
-- [[lest]]
+- [[l/_lest|lest]]
 ---

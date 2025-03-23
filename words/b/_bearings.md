@@ -13,6 +13,6 @@
 - **The portion of a support on which [[a/_anything|anything]] rests.**
 - **The unsupported span.**
 	- _Example: The beam has twenty feet of bearing between its supports._
-- **[[a/_any|Any]] single [[e/_emblem|emblem]] or [[c/_charge|charge]] in an escutcheon or [[c/_coat|coat]] of [[a/_arms|arms]].**
+- **[[a/_any|Any]] single [[e/_emblem|emblem]] or [[c/_charge|charge]] in an [[e/_escutcheon|escutcheon]] or [[c/_coat|coat]] of [[a/_arms|arms]].**
 ---
 ---

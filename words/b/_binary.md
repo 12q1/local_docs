@@ -7,9 +7,9 @@
 - **A satellite system [[c/_consisting|consisting]] of two stars or other [[b/_bodies|bodies]] orbiting [[e/_each|each]] other.**
 ---
 ### Synonyms
-- [[base 2]], [[binary star]], [[double star]]
+- 
 ### Antonyms
-- [[non-binary]]
+- [[n/_non-binary|non-binary]]
 #adjective
 - **[[b/_being|Being]] in a state of one of two mutually exclusive [[c/_conditions|conditions]] such as on or off, true or false, molten or frozen, presence or [[a/_absence|absence]] of a signal.**
 	- _Example: Binary states are often represented as 1 and 0 in computer science._
@@ -25,7 +25,7 @@
 	- _Example: He has a very binary understanding of gender._
 ---
 ### Synonyms
-- [[dyadic]], [[Boolean]], [[base-2]], [[double]], [[twin]]
+- [[d/_dyadic|dyadic]], [[B/_Boolean|Boolean]], [[b/_base-2|base-2]], [[d/_double|double]], [[t/_twin|twin]]
 ### Antonyms
-- [[ASCII]], [[text]], [[non-binary]]
+- [[A/_ASCII|ASCII]], [[t/_text|text]], [[n/_non-binary|non-binary]]
 ---

@@ -8,7 +8,7 @@
 - **A [[c/_charge|charge]] of misconduct [[b/_brought|brought]] in a legal proceeding.**
 - **The number of [[b/_balls|balls]] and strikes, respectively, on a [[b/_batter|batter]]'s in-progress plate [[a/_appearance|appearance]].**
 	- _Example: He has a 3–2 count with the bases loaded._
-- **An object of interest or [[a/_account|account]]; value; estimation.**
+- **An object of interest or [[a/_account|account]]; value; [[e/_estimation|estimation]].**
 ---
 #verb
 - **To recite numbers in sequence.**
@@ -25,14 +25,14 @@
 - **To plead orally; to [[a/_argue|argue]] a matter in [[c/_court|court]]; to recite a [[c/_count|count]].**
 ---
 ### Synonyms
-- [[enumerate]], [[number]]
+- [[e/_enumerate|enumerate]], [[n/_number|number]]
 #noun
 - **The male ruler of a [[c/_county|county]].**
 - **A nobleman holding a rank intermediate [[b/_between|between]] [[d/_dukes|dukes]] and [[b/_barons|barons]].**
 - **[[a/_any|Any]] of various nymphalid [[b/_butterflies|butterflies]] of the genus Tanaecia. Other [[b/_butterflies|butterflies]] in this genus are [[c/_called|called]] [[e/_earls|earls]] and viscounts.**
 ---
 ### Synonyms
-- [[earl]], [[comte]], [[graf]], [[conte]]
+- [[e/_earl|earl]], [[c/_comte|comte]], [[g/_graf|graf]], [[c/_conte|conte]]
 #noun
 - **(of a statistic) To be [[e/_enumerated|enumerated]] rather than represented as a proportion or percentage.**
 ---

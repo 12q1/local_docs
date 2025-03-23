@@ -5,5 +5,5 @@
 - **Socially exclusive.**
 ---
 ### Synonyms
-- [[clanny]]
+- [[c/_clanny|clanny]]
 ---

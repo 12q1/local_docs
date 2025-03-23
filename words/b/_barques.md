@@ -6,5 +6,5 @@
 - **A sailing vessel or [[b/_boat|boat]] of [[a/_any|any]] kind**
 ---
 ### Synonyms
-- [[boat]]
+- [[b/_boat|boat]]
 ---

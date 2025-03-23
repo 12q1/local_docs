@@ -16,7 +16,7 @@
 - **An [[a/_ancient|ancient]] game of football, played in some parts of [[e/_england|England]].**
 ---
 ### Synonyms
-- [[burrow]], [[pie]]
+- [[b/_burrow|burrow]], [[p/_pie|pie]]
 #verb
 - **To live in a tent or similar temporary [[a/_accommodation|accommodation]].**
 	- _Example: We're planning to camp in the field until Sunday._

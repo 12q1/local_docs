@@ -6,10 +6,10 @@
 - **An oak [[b/_board|board]] of a size used for [[b/_barrel|barrel]] staves.**
 ---
 ### Synonyms
-- [[weatherboard]]
+- [[w/_weatherboard|weatherboard]]
 #noun
 - **A [[c/_clapper|clapper]] [[b/_board|board]]; a [[d/_device|device]] used in film production, having hinged [[b/_boards|boards]] that are [[b/_brought|brought]] together with a [[c/_clap|clap]], used to synchronize picture and sound at the start of [[e/_each|each]] take of a motion picture or other video production.**
 ---
 ### Synonyms
-- [[clapper board]], [[clapstick]]
+- [[c/_clapstick|clapstick]]
 ---

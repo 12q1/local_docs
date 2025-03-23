@@ -7,5 +7,5 @@
 - **A member of the Worshipful [[c/_company|Company]] of Cordwainers, a livery [[c/_company|company]].**
 ---
 ### Synonyms
-- [[shoemaker]]
+- [[s/_shoemaker|shoemaker]]
 ---

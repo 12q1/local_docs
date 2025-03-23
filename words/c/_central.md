@@ -7,5 +7,5 @@
 - **Exerting its [[a/_action|action]] towards the peripheral organs.**
 ---
 ### Synonyms
-- [[dominant]], [[main]], [[principal]]
+- [[d/_dominant|dominant]], [[m/_main|main]], [[p/_principal|principal]]
 ---

@@ -1,8 +1,8 @@
 # Diaphoresis
 ---
 #noun
-- **Perspiration, especially when profuse and medically induced.**
+- **Perspiration, [[e/_especially|especially]] when profuse and medically induced.**
 ---
 ### Synonyms
-- [[hidrosis]], [[perspiration]], [[sudation]], [[sudoresis]], [[sweating]]
+- [[h/_hidrosis|hidrosis]], [[p/_perspiration|perspiration]], [[s/_sudation|sudation]], [[s/_sudoresis|sudoresis]], [[s/_sweating|sweating]]
 ---

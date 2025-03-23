@@ -6,7 +6,7 @@
 - **[[c/_cornflower|Cornflower]] [[b/_blue|blue]].**
 ---
 ### Synonyms
-- [[bachelor's button]], [[bluebottle]], [[chicory button]], [[common chicory]], [[horseweed]], [[ragged sailor]], [[succory]]
+- [[b/_bluebottle|bluebottle]], [[h/_horseweed|horseweed]], [[s/_succory|succory]]
 #adjective
 - **Of a [[b/_blue|blue]] [[c/_colour|colour]], as that of the [[c/_cornflower|cornflower]]; [[c/_cornflower|cornflower]] [[b/_blue|blue]].**
 ---

@@ -5,7 +5,7 @@
 - **By the way, incidental**
 ---
 ### Synonyms
-- [[by the way]], [[incidental]], [[incidentally]]
+- [[i/_incidental|incidental]], [[i/_incidentally|incidentally]]
 #adverb
 - **By the way.**
 - **Timely; at a good time.**
@@ -15,7 +15,7 @@
 - **Regarding or [[c/_concerning|concerning]].**
 ---
 ### Synonyms
-- [[about]], [[as for]]
+- [[a/_about|about]]
 ### Antonyms
-- [[malapropos]]
+- [[m/_malapropos|malapropos]]
 ---

@@ -5,5 +5,5 @@
 - **[[e/_easily|Easily]] stained with [[a/_acidic|acidic]] [[d/_dyes|dyes]], such as [[e/_eosin|eosin]].**
 ---
 ### Synonyms
-- [[acidophilous]]
+- [[a/_acidophilous|acidophilous]]
 ---

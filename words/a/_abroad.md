@@ -9,7 +9,7 @@
 	- _Example: A tree spreads its branches abroad._
 - **Without a [[c/_certain|certain]] [[c/_confine|confine]]; outside the house; [[a/_away|away]] from one's [[a/_abode|abode]].**
 - **[[b/_before|Before]] the public at large; throughout society or the world; here and there; moving without restriction.**
-- **Not on target; [[a/_astray|astray]]; in error; [[c/_confused|confused]]; [[d/_dazed|dazed]].**
+- **Not on target; [[a/_astray|astray]]; in [[e/_error|error]]; [[c/_confused|confused]]; [[d/_dazed|dazed]].**
 - **Played [[e/_elsewhere|elsewhere]] than one's home grounds.**
 ---
 #preposition

@@ -5,5 +5,5 @@
 - **To surrender (a person) to the fury of soldiers.**
 ---
 ### Synonyms
-- [[compel]]
+- [[c/_compel|compel]]
 ---

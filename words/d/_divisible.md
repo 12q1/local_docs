@@ -9,7 +9,7 @@
 	- _Example: 12 is divisible by 3._
 ---
 ### Synonyms
-- [[disunitable]], [[splittable]]
+- [[d/_disunitable|disunitable]], [[s/_splittable|splittable]]
 ### Antonyms
-- [[indivisible]], [[non-divisible]], [[combinable]], [[mergeable]], [[unifiable]]
+- [[i/_indivisible|indivisible]], [[n/_non-divisible|non-divisible]], [[c/_combinable|combinable]], [[m/_mergeable|mergeable]], [[u/_unifiable|unifiable]]
 ---

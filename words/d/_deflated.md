@@ -9,5 +9,5 @@
 - **To [[c/_compress|compress]] ([[d/_data|data]]) [[a/_according|according]] to a particular [[a/_algorithm|algorithm]].**
 ---
 ### Antonyms
-- [[inflate]]
+- [[i/_inflate|inflate]]
 ---

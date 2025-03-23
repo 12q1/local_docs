@@ -9,5 +9,5 @@
 - **(of a set) Infinite and not the [[d/_disjoint|disjoint]] union of two infinite subsets.**
 ---
 ### Synonyms
-- [[formless]], [[shapeless]]
+- [[f/_formless|formless]], [[s/_shapeless|shapeless]]
 ---

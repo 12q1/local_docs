@@ -6,5 +6,5 @@
 - **To give the [[a/_appearance|appearance]] of, make a show of by posing.**
 ---
 ### Synonyms
-- [[posturize]]
+- [[p/_posturize|posturize]]
 ---

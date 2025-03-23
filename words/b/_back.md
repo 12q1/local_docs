@@ -1,7 +1,7 @@
 # Back
 ---
 #noun
-- **The rear of the [[b/_body|body]], especially the part [[b/_between|between]] the neck and the [[e/_end|end]] of the spine and opposite the [[c/_chest|chest]] and [[b/_belly|belly]].**
+- **The rear of the [[b/_body|body]], [[e/_especially|especially]] the part [[b/_between|between]] the neck and the [[e/_end|end]] of the spine and opposite the [[c/_chest|chest]] and [[b/_belly|belly]].**
 	- _Example: Could you please scratch my back?_
 - **That which is farthest [[a/_away|away]] from the front.**
 	- _Example: He sat in the back of the room._
@@ -18,9 +18,9 @@
 - **[[a/_among|Among]] leather [[d/_dealers|dealers]], one of the thickest and stoutest tanned hides.**
 ---
 ### Synonyms
-- [[dorsum]], [[reverse]]
+- [[d/_dorsum|dorsum]], [[r/_reverse|reverse]]
 ### Antonyms
-- [[front]], [[front]]
+- [[f/_front|front]], [[f/_front|front]]
 #verb
 - **To go in the reverse [[d/_direction|direction]].**
 	- _Example: the train backed into the station;  the horse refuses to back_
@@ -44,7 +44,7 @@
 	- _Example: to back the oars_
 ---
 ### Antonyms
-- [[veer]]
+- [[v/_veer|veer]]
 #adjective
 - **Near the rear.**
 	- _Example: Go in the back door of the house._
@@ -60,9 +60,9 @@
 	- _Example: The vowel of lot has a back vowel in most dialects of England._
 ---
 ### Synonyms
-- [[remote]], [[rear]], [[former]], [[previous]]
+- [[r/_remote|remote]], [[r/_rear|rear]], [[f/_former|former]], [[p/_previous|previous]]
 ### Antonyms
-- [[main]], [[front]], [[current]]
+- [[m/_main|main]], [[f/_front|front]], [[c/_current|current]]
 #adverb
 - **To or in a previous [[c/_condition|condition]] or place.**
 	- _Example: He gave back the money.   He needs his money back.   He was on vacation, but now he’s back.   The office fell into chaos when you left, but now order is back._

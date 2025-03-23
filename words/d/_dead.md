@@ -5,18 +5,18 @@
 	- _Example: Have respect for the dead._
 ---
 ### Synonyms
-- [[deceased]]
+- [[d/_deceased|deceased]]
 #noun
 - **(often with "the") Time when [[c/_coldness|coldness]], [[d/_darkness|darkness]], or stillness is most intense.**
 	- _Example: The dead of night. The dead of winter._
 ---
 ### Synonyms
-- [[deceased]]
+- [[d/_deceased|deceased]]
 #noun
 - **(usually plural) Sterile mining waste, often present as many large rocks stacked inside the workings.**
 ---
 ### Synonyms
-- [[deceased]]
+- [[d/_deceased|deceased]]
 #verb
 - **To prevent by [[d/_disabling|disabling]]; stop.**
 - **To make [[d/_dead|dead]]; to [[d/_deaden|deaden]]; to [[d/_deprive|deprive]] of life, force, or vigour.**
@@ -62,10 +62,10 @@
 - **[[b/_bringing|Bringing]] [[d/_death|death]]; [[d/_deadly|deadly]].**
 - **[[c/_cut|Cut]] off from the rights of a [[c/_citizen|citizen]]; [[d/_deprived|deprived]] of the power of [[e/_enjoying|enjoying]] the rights of property.**
 	- _Example: A person who is banished or who becomes a monk is civilly dead._
-- **(often with "to") Indifferent to, no longer subject to or ruled by (sin, guilt, pleasure, etc).**
+- **(often with "to") Indifferent to, no longer subject to or ruled by (sin, guilt, pleasure, [[e/_etc|etc]]).**
 ---
 ### Antonyms
-- [[alive]], [[living]]
+- [[a/_alive|alive]], [[l/_living|living]]
 #adverb
 - **([[d/_degree|degree]]) Exactly.**
 	- _Example: He hit the target dead in the centre._

@@ -7,7 +7,7 @@
 - **Transmitting without the use of an [[a/_amplifier|amplifier]].**
 ---
 ### Synonyms
-- [[barefooted]], [[discalced]], [[shoeless]], [[unshod]], [[unshoed]]
+- [[b/_barefooted|barefooted]], [[d/_discalced|discalced]], [[s/_shoeless|shoeless]], [[u/_unshod|unshod]], [[u/_unshoed|unshoed]]
 #adverb
 - **Wearing nothing on the feet.**
 	- _Example: She likes to go barefoot in the summertime._

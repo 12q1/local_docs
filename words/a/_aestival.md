@@ -5,7 +5,7 @@
 - **[[c/_coming|Coming]] forth in the summer.**
 ---
 ### Synonyms
-- [[summer]], [[summery]]
+- [[s/_summer|summer]], [[s/_summery|summery]]
 ### Antonyms
-- [[brumal]], [[hibernal]], [[winter]], [[wintry]]
+- [[b/_brumal|brumal]], [[h/_hibernal|hibernal]], [[w/_winter|winter]], [[w/_wintry|wintry]]
 ---

@@ -7,5 +7,5 @@
 - **A pacifier.**
 ---
 ### Synonyms
-- [[(continental) quilt]], [[duvet]], [[consoler]]
+- [[d/_duvet|duvet]], [[c/_consoler|consoler]]
 ---

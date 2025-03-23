@@ -7,7 +7,7 @@
 - **The [[e/_end|end]] of the [[a/_apparent|apparent]] transit of a small [[a/_astronomical|astronomical]] [[b/_body|body]] over the [[d/_disk|disk]] of a larger one.**
 ---
 ### Synonyms
-- [[exit]], [[outgang]], [[way out]], [[departure]], [[exit]], [[exiting]], [[leaving]]
+- [[e/_exit|exit]], [[o/_outgang|outgang]], [[d/_departure|departure]], [[e/_exit|exit]], [[e/_exiting|exiting]], [[l/_leaving|leaving]]
 ### Antonyms
-- [[entrance]], [[ingress]], [[way in]], [[entering]], [[entrance]]
+- [[e/_entrance|entrance]], [[i/_ingress|ingress]], [[e/_entering|entering]], [[e/_entrance|entrance]]
 ---

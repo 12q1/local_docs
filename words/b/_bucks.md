@@ -24,7 +24,7 @@
 - **A wood or metal frame used by [[a/_automotive|automotive]] [[c/_customizers|customizers]] and restorers to [[a/_assist|assist]] in the shaping of sheet metal [[b/_bodywork|bodywork]]. See Street Rodder "Making a Wood [[b/_buck|Buck]]".**
 ---
 ### Synonyms
-- [[button]], [[stag]], [[hob]], [[hob-ferret]], [[billy]], [[billygoat]], [[buck-goat]], [[buckling]], [[he-goat]], [[ram]], [[tup]], [[bill]], [[bone]], [[clam]], [[cucumber]], [[dead president]], [[greenback]], [[note]], [[one-spot]], [[paper]], [[simoleon]], [[single]], [[smackeroo]]
+- [[b/_button|button]], [[s/_stag|stag]], [[h/_hob|hob]], [[h/_hob-ferret|hob-ferret]], [[b/_billy|billy]], [[b/_billygoat|billygoat]], [[b/_buck-goat|buck-goat]], [[b/_buckling|buckling]], [[h/_he-goat|he-goat]], [[r/_ram|ram]], [[t/_tup|tup]], [[b/_bill|bill]], [[b/_bone|bone]], [[c/_clam|clam]], [[c/_cucumber|cucumber]], [[g/_greenback|greenback]], [[n/_note|note]], [[o/_one-spot|one-spot]], [[p/_paper|paper]], [[s/_simoleon|simoleon]], [[s/_single|single]], [[s/_smackeroo|smackeroo]]
 #verb
 - **To [[c/_copulate|copulate]], as [[b/_bucks|bucks]] and [[d/_does|does]].**
 ---
@@ -63,7 +63,7 @@
 - **A hybrid plant.**
 - **A stubborn person.**
 - **A person paid to smuggle [[d/_drugs|drugs]].**
-- **A [[c/_coin|coin]] or medal minted with obverse and reverse [[d/_designs|designs]] not normally seen on the same piece, [[e/_either|either]] intentionally or in error.**
+- **A [[c/_coin|coin]] or medal minted with obverse and reverse [[d/_designs|designs]] not normally seen on the same piece, [[e/_either|either]] intentionally or in [[e/_error|error]].**
 - **A MMORPG [[c/_character|character]], or NPC [[c/_companion|companion]] in a tabletop RPG, used mainly to store extra inventory for the owner's primary [[c/_character|character]].**
 - **[[a/_any|Any]] of a group of [[c/_cocktails|cocktails]] involving ginger [[a/_ale|ale]] or ginger [[b/_beer|beer]], [[c/_citrus|citrus]] juice, and various liquors.**
 - **A kind of triangular sail for a yacht.**

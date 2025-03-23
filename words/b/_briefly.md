@@ -9,5 +9,5 @@
 	- _Example: Briefly, I am not happy about what happened, but no one will be losing their job._
 ---
 ### Synonyms
-- [[fleetingly]], [[temporarily]], [[transiently]]
+- [[f/_fleetingly|fleetingly]], [[t/_temporarily|temporarily]], [[t/_transiently|transiently]]
 ---

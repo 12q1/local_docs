@@ -9,7 +9,7 @@
 - **Suffered a [[d/_damage|damage]].**
 ---
 ### Synonyms
-- [[defective]], [[faulty]], [[injured]], [[wounded]]
+- [[d/_defective|defective]], [[f/_faulty|faulty]], [[i/_injured|injured]], [[w/_wounded|wounded]]
 ### Antonyms
-- [[complete]], [[perfect]], [[undamaged]]
+- [[c/_complete|complete]], [[p/_perfect|perfect]], [[u/_undamaged|undamaged]]
 ---

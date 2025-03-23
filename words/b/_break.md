@@ -17,7 +17,7 @@
 	- _Example: big break_
 - **The [[b/_beginning|beginning]] (of the morning).**
 	- _Example: at the break of day_
-- **An [[a/_act|act]] of escaping.**
+- **An [[a/_act|act]] of [[e/_escaping|escaping]].**
 	- _Example: It was a clean break._
 - **The separation [[b/_between|between]] lines, paragraphs or pages of a written text.**
 - **A keystroke or other signal that [[c/_causes|causes]] a program to terminate or suspend execution.**
@@ -25,7 +25,7 @@
 - **A [[c/_change|change]], particularly the [[e/_end|end]] of a spell of persistent good or [[b/_bad|bad]] weather.**
 - **:**
 - **A large four-wheeled [[c/_carriage|carriage]], having a straight [[b/_body|body]] and [[c/_calash|calash]] top, with the [[d/_driver|driver]]'s seat in front and the footman's [[b/_behind|behind]].**
-- **(equitation) A sharp [[b/_bit|bit]] or snaffle.**
+- **([[e/_equitation|equitation]]) A sharp [[b/_bit|bit]] or snaffle.**
 - **A short section of music, often [[b/_between|between]] verses, in which some performers stop while others [[c/_continue|continue]].**
 	- _Example: The fiddle break was amazing; it was a pity the singer came back in on the wrong note._
 - **The point in the musical scale at which a woodwind instrument is [[d/_designed|designed]] to overblow, that is, to move from its lower to its upper register.**
@@ -33,7 +33,7 @@
 - **Usu. plural An [[a/_area|area]] [[a/_along|along]] a river that features steep [[b/_banks|banks]], [[b/_bluffs|bluffs]], or gorges ([[e/_e|e]].g., Upper Missouri River [[b/_breaks|Breaks]] National Monument, US).**
 ---
 ### Synonyms
-- [[crack of dawn]], [[split]], [[breach]], [[gap]], [[space]], [[time-out]], [[day off]], [[time off]], [[playtime]], [[recess]]
+- [[s/_split|split]], [[b/_breach|breach]], [[g/_gap|gap]], [[s/_space|space]], [[t/_time-out|time-out]], [[p/_playtime|playtime]], [[r/_recess|recess]]
 #verb
 - **To separate into two or more pieces, to fracture or [[c/_crack|crack]], by a process that [[c/_cannot|cannot]] [[e/_easily|easily]] be reversed for reassembly.**
 	- _Example: If the vase falls to the floor, it might break._
@@ -55,7 +55,7 @@
 	- _Example: The forecast says the hot weather will break by midweek._
 - **(of a storm) To [[b/_begin|begin]]; to [[e/_end|end]].**
 	- _Example: Around midday the storm broke, and the afternoon was calm and sunny._
-- **(of morning, [[d/_dawn|dawn]], [[d/_day|day]] etc.) To [[a/_arrive|arrive]].**
+- **(of morning, [[d/_dawn|dawn]], [[d/_day|day]] [[e/_etc|etc]].) To [[a/_arrive|arrive]].**
 	- _Example: Morning has broken._
 - **To render (a game) unchallenging by [[a/_altering|altering]] its rules or exploiting loopholes or weaknesses in them in a way that gives a player an unfair [[a/_advantage|advantage]].**
 	- _Example: Changing the rules to let white have three extra queens would break chess._
@@ -71,7 +71,7 @@
 	- _Example: Let's break for lunch._
 - **To interrupt (a fall) by inserting something so that the falling object [[d/_does|does]] not (immediately) hit something [[e/_else|else]] [[b/_beneath|beneath]].**
 	- _Example: He survived the jump out the window because the bushes below broke his fall._
-- **To [[d/_disclose|disclose]] or make known an item of news, etc.**
+- **To [[d/_disclose|disclose]] or make known an item of news, [[e/_etc|etc]].**
 	- _Example: I don't know how to break this to you, but your cat is not coming back._
 - **(of a sound) To [[b/_become|become]] [[a/_audible|audible]] suddenly.**
 - **To [[c/_change|change]] a steady state [[a/_abruptly|abruptly]].**
@@ -102,7 +102,7 @@
 - **To suspend the execution of a program [[d/_during|during]] [[d/_debugging|debugging]] so that the state of the program [[c/_can|can]] be investigated.**
 ---
 ### Synonyms
-- [[crack]], [[fracture]], [[burst]], [[bust]], [[shatter]], [[shear]], [[smash]], [[split]], [[break down]], [[bust]], [[fail]], [[go down]], [[contravene]], [[go against]], [[violate]], [[break in]], [[subject]], [[tame]]
+- [[c/_crack|crack]], [[f/_fracture|fracture]], [[b/_burst|burst]], [[b/_bust|bust]], [[s/_shatter|shatter]], [[s/_shear|shear]], [[s/_smash|smash]], [[s/_split|split]], [[b/_bust|bust]], [[f/_fail|fail]], [[c/_contravene|contravene]], [[v/_violate|violate]], [[s/_subject|subject]], [[t/_tame|tame]]
 ### Antonyms
-- [[hold]], [[assemble]], [[fix]], [[join]], [[mend]], [[put together]], [[repair]]
+- [[h/_hold|hold]], [[a/_assemble|assemble]], [[f/_fix|fix]], [[j/_join|join]], [[m/_mend|mend]], [[r/_repair|repair]]
 ---

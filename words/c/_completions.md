@@ -8,7 +8,7 @@
 - **The space resulting from such an [[a/_act|act]].**
 ---
 ### Synonyms
-- [[completeness]], [[doneness]]
+- [[c/_completeness|completeness]], [[d/_doneness|doneness]]
 ### Antonyms
-- [[termination]], [[incompletion]], [[unfinishedness]]
+- [[t/_termination|termination]], [[i/_incompletion|incompletion]], [[u/_unfinishedness|unfinishedness]]
 ---

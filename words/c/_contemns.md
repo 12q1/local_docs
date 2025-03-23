@@ -5,7 +5,7 @@
 - **To [[c/_commit|commit]] an offence of [[c/_contempt|contempt]], such as [[c/_contempt|contempt]] of [[c/_court|court]]; to unlawfully flout ([[e/_e|e]].g. a ruling).**
 ---
 ### Synonyms
-- [[despise]], [[scorn]]
+- [[d/_despise|despise]], [[s/_scorn|scorn]]
 ### Antonyms
-- [[honor]], [[respect]], [[revere]], [[venerate]]
+- [[h/_honor|honor]], [[r/_respect|respect]], [[r/_revere|revere]], [[v/_venerate|venerate]]
 ---

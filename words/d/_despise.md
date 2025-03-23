@@ -5,7 +5,7 @@
 - **To [[d/_disregard|disregard]] or ignore.**
 ---
 ### Synonyms
-- [[contemn]], [[disdain]], [[scorn]]
+- [[c/_contemn|contemn]], [[d/_disdain|disdain]], [[s/_scorn|scorn]]
 ### Antonyms
-- [[admire]], [[cherish]], [[honor]], [[respect]], [[treasure]]
+- [[a/_admire|admire]], [[c/_cherish|cherish]], [[h/_honor|honor]], [[r/_respect|respect]], [[t/_treasure|treasure]]
 ---

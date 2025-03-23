@@ -10,5 +10,5 @@
 	- _Example: They could not adapt to the new climate and so perished._
 ---
 ### Synonyms
-- [[proportion]]
+- [[p/_proportion|proportion]]
 ---

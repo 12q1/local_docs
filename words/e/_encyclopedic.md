@@ -5,5 +5,5 @@
 - **Relating to or [[c/_containing|containing]] [[d/_descriptive|descriptive]] information rather than only linguistic or lexical information; [[a/_about|about]] facts and [[c/_concepts|concepts]], and not only a word or term; including proper names, [[b/_biographical|biographical]] and geographical information and illustrations.**
 ---
 ### Synonyms
-- [[encyclopaedical]], [[encyclopedical]], [[encyclopædical]]
+- [[e/_encyclopaedical|encyclopaedical]], [[e/_encyclopedical|encyclopedical]], [[e/_encyclopædical|encyclopædical]]
 ---

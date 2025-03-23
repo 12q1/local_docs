@@ -4,7 +4,7 @@
 - **Something that is produced, [[c/_consumed|consumed]], used, or [[d/_done|done]] every [[d/_day|day]].**
 ---
 ### Synonyms
-- [[help]], [[maid]], [[daily paper]]
+- [[h/_help|help]], [[m/_maid|maid]]
 #verb
 - **To [[d/_drive|drive]] an [[a/_automobile|automobile]] frequently, on a [[d/_daily|daily]] [[b/_basis|basis]], for regular and mundane tasks.**
 ---
@@ -13,5 +13,5 @@
 - **[[d/_diurnal|Diurnal]], by [[d/_daylight|daylight]], as opposed to nightly**
 ---
 ### Synonyms
-- [[quotidian]]
+- [[q/_quotidian|quotidian]]
 ---

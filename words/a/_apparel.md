@@ -4,7 +4,7 @@
 - **[[c/_clothing|Clothing]].**
 - **[[a/_aspect|Aspect]], guise, form.**
 - **A small ornamental piece of [[e/_embroidery|embroidery]] worn on [[a/_albs|albs]] and some other [[e/_ecclesiastical|ecclesiastical]] vestments.**
-- **The furniture of a ship, such as masts, sails, rigging, [[a/_anchors|anchors]], guns, etc.**
+- **The furniture of a ship, such as masts, sails, rigging, [[a/_anchors|anchors]], guns, [[e/_etc|etc]].**
 ---
 #verb
 - **To [[d/_dress|dress]] or [[c/_clothe|clothe]]; to [[a/_attire|attire]].**
@@ -14,5 +14,5 @@
 	- _Example: a garden appareled with greenery_
 ---
 ### Synonyms
-- [[dight]], [[don]], [[put on]], [[adorn]], [[ornament]], [[kit out]]
+- [[d/_dight|dight]], [[d/_don|don]], [[a/_adorn|adorn]], [[o/_ornament|ornament]]
 ---

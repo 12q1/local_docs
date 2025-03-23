@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[c/_cluster|cluster]] or lump; an unshaped piece or mass.**
-- **A thick group or [[b/_bunch|bunch]], especially of [[b/_bushes|bushes]] or hair.**
+- **A thick group or [[b/_bunch|bunch]], [[e/_especially|especially]] of [[b/_bushes|bushes]] or hair.**
 - **A [[d/_dull|dull]] thud.**
 - **The [[c/_compressed|compressed]] [[c/_clay|clay]] of [[c/_coal|coal]] strata.**
 - **A small group of trees or plants.**
@@ -18,5 +18,5 @@
 - **A game in which questions are [[a/_asked|asked]] for the purpose of [[e/_enabling|enabling]] the questioners to [[d/_discover|discover]] a word or thing previously selected by two persons who [[a/_answer|answer]] the questions.**
 ---
 ### Synonyms
-- [[clubs]]
+- [[c/_clubs|clubs]]
 ---

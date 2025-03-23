@@ -5,5 +5,5 @@
 	- _Example: Most of the test was easy, but the last question was a doozy._
 ---
 ### Synonyms
-- [[lulu]]
+- [[l/_lulu|lulu]]
 ---

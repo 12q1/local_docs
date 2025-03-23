@@ -6,5 +6,5 @@
 	- _Example: In zebrafish, the adaxial cells are precursors to the embryonic slow muscle fibers._
 ---
 ### Antonyms
-- [[abaxial]]
+- [[a/_abaxial|abaxial]]
 ---

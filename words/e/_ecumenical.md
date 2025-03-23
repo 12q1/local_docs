@@ -5,5 +5,5 @@
 - **General, universal, worldwide.**
 ---
 ### Synonyms
-- [[universal]], [[worldwide]]
+- [[u/_universal|universal]], [[w/_worldwide|worldwide]]
 ---

@@ -12,5 +12,5 @@
 - **To [[c/_consult|consult]] (with).**
 ---
 ### Synonyms
-- [[inform]], [[notify]], [[counsel]], [[warn]]
+- [[i/_inform|inform]], [[n/_notify|notify]], [[c/_counsel|counsel]], [[w/_warn|warn]]
 ---

@@ -8,5 +8,5 @@
 - **Occurring once every two years; [[b/_biennial|biennial]].**
 ---
 ### Synonyms
-- [[half-yearly]], [[semiannual]], [[twice-yearly]]
+- [[h/_half-yearly|half-yearly]], [[s/_semiannual|semiannual]], [[t/_twice-yearly|twice-yearly]]
 ---

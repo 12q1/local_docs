@@ -11,5 +11,5 @@
 - **A [[d/_disc|disc]] jockey's technique of suddenly playing a section of a record in reverse.**
 ---
 ### Synonyms
-- [[backspin]]
+- [[b/_backspin|backspin]]
 ---

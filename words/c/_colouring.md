@@ -15,9 +15,9 @@
 	- _Example: Can this graph be 2-colored?_
 ---
 ### Synonyms
-- [[affect]], [[influence]], [[blush]], [[call]], [[color in]], [[dye]], [[paint]], [[shade]], [[stain]], [[tinge]], [[tint]]
+- [[a/_affect|affect]], [[i/_influence|influence]], [[b/_blush|blush]], [[c/_call|call]], [[d/_dye|dye]], [[p/_paint|paint]], [[s/_shade|shade]], [[s/_stain|stain]], [[t/_tinge|tinge]], [[t/_tint|tint]]
 ### Antonyms
-- [[decolor]]
+- [[d/_decolor|decolor]]
 #noun
 - **An [[a/_act|act]] or process which [[a/_applies|applies]] [[c/_color|color]].**
 - **[[a/_any|Any]] substance used to give [[c/_color|color]].**
@@ -27,7 +27,7 @@
 - **An [[a/_assignment|assignment]] of a [[c/_color|color]] to [[e/_each|each]] vertex of a graph such that no two vertices [[c/_connected|connected]] by an [[e/_edge|edge]] are given the same [[c/_color|color]].**
 ---
 ### Synonyms
-- [[coloration]], [[pigment]]
+- [[c/_coloration|coloration]], [[p/_pigment|pigment]]
 ### Antonyms
-- [[bleach]], [[neutral]], [[shade]]
+- [[b/_bleach|bleach]], [[n/_neutral|neutral]], [[s/_shade|shade]]
 ---

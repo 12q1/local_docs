@@ -9,7 +9,7 @@
 - **[[e/_either|Either]] half of a flattened fossil when the rock has split [[a/_along|along]] the plane of the fossil.**
 ---
 ### Synonyms
-- [[equivalent]], [[homolog]], [[opposite number]], [[pendant]]
+- [[e/_equivalent|equivalent]], [[h/_homolog|homolog]], [[p/_pendant|pendant]]
 #verb
 - **[[c/_counterbalance|Counterbalance]].**
 ---

@@ -6,9 +6,9 @@
 - **To raise, be raised.**
 ---
 ### Synonyms
-- [[accelerate]], [[adduce]], [[aggrandize]], [[allege]], [[assign]], [[elevate]], [[exalt]], [[heighten]], [[improve]], [[raise]]
+- [[a/_accelerate|accelerate]], [[a/_adduce|adduce]], [[a/_aggrandize|aggrandize]], [[a/_allege|allege]], [[a/_assign|assign]], [[e/_elevate|elevate]], [[e/_exalt|exalt]], [[h/_heighten|heighten]], [[i/_improve|improve]], [[r/_raise|raise]]
 ### Antonyms
-- [[regress]], [[retract]]
+- [[r/_regress|regress]], [[r/_retract|retract]]
 #adjective
 - **At or [[c/_close|close]] to the state of the [[a/_art|art]].**
 - **[[e/_enhanced|Enhanced]].**
@@ -18,5 +18,5 @@
 - **(Philippine [[e/_english|English]]) (Of a [[c/_clock|clock]] or watch) Indicating a time [[a/_ahead|ahead]] of the [[c/_correct|correct]] time.**
 ---
 ### Synonyms
-- [[professional]], [[progressive]], [[sophisticated]]
+- [[p/_professional|professional]], [[p/_progressive|progressive]], [[s/_sophisticated|sophisticated]]
 ---

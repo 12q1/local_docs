@@ -6,7 +6,7 @@
 	- _Example: Accusations of abuse were pure extortive calumny in a malicious bid to make money._
 ---
 ### Synonyms
-- [[calumniousness]], [[defamation]], [[obloquy]], [[traducement]], [[vilification]]
+- [[c/_calumniousness|calumniousness]], [[d/_defamation|defamation]], [[o/_obloquy|obloquy]], [[t/_traducement|traducement]], [[v/_vilification|vilification]]
 #verb
 - **To make false [[a/_accusations|accusations]] or levy false [[c/_charges|charges]] [[a/_against|against]] a person with the intent to tarnish that person's reputation or standing; to [[c/_calumniate|calumniate]].**
 ---

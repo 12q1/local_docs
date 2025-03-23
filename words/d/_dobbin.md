@@ -5,9 +5,9 @@
 - **Sea gravel mixed with sand.**
 ---
 ### Synonyms
-- [[hack]], [[jade]], [[nag]]
+- [[h/_hack|hack]], [[j/_jade|jade]], [[n/_nag|nag]]
 #noun
-- **[[a/_any|Any]] of several [[a/_animals|animals]] related to Equus ferus caballus.**
+- **[[a/_any|Any]] of several [[a/_animals|animals]] related to [[e/_equus|Equus]] ferus caballus.**
 - **[[e/_equipment|Equipment]] with legs.**
 - **Type of [[e/_equipment|equipment]].**
 - **A mass of [[e/_earthy|earthy]] matter, or rock of the same [[c/_character|character]] as the wall rock, occurring in the [[c/_course|course]] of a vein, as of [[c/_coal|coal]] or ore; hence, to take horse (said of a vein) is to [[d/_divide|divide]] into [[b/_branches|branches]] for a [[d/_distance|distance]].**
@@ -17,11 +17,11 @@
 - **([[a/_among|among]] students) horseplay; tomfoolery**
 ---
 ### Synonyms
-- [[horsie]], [[nag]], [[prad]], [[steed]], [[knight]], [[pommel horse]], [[vaulting horse]], [[dobbin]], [[pony]], [[trot]]
+- [[h/_horsie|horsie]], [[n/_nag|nag]], [[p/_prad|prad]], [[s/_steed|steed]], [[k/_knight|knight]], [[d/_dobbin|dobbin]], [[p/_pony|pony]], [[t/_trot|trot]]
 #noun
 - **Heroin ([[d/_drug|drug]]).**
 	- _Example: Alright, mate, got any horse?_
 ---
 ### Synonyms
-- [[H]], [[smack]]
+- [[H/_H|H]], [[s/_smack|smack]]
 ---

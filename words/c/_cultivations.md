@@ -11,5 +11,5 @@
 	- _Example: She is a woman of great cultivation._
 ---
 ### Synonyms
-- [[culture]], [[education]], [[refinement]], [[tillage]]
+- [[c/_culture|culture]], [[e/_education|education]], [[r/_refinement|refinement]], [[t/_tillage|tillage]]
 ---

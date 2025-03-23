@@ -14,7 +14,7 @@
 	- _Example: I can't get this cassette to  eject._
 ---
 ### Synonyms
-- [[remove]], [[come out]], [[kick out]], [[send off]], [[toss]], [[boot out]], [[discharge]], [[dismiss]], [[drive out]], [[evict]], [[expel]], [[kick out]], [[oust]], [[toss]], [[turf out]], [[bail out]], [[throw out]]
+- [[r/_remove|remove]], [[t/_toss|toss]], [[d/_discharge|discharge]], [[d/_dismiss|dismiss]], [[e/_evict|evict]], [[e/_expel|expel]], [[o/_oust|oust]], [[t/_toss|toss]]
 #noun
 - **An inferred object of someone [[e/_else|else]]'s [[c/_consciousness|consciousness]]**
 ---

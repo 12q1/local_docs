@@ -11,13 +11,13 @@
 - **Interest of money; increase; overplus (as the thirteenth in the [[b/_baker|baker]]'s [[d/_dozen|dozen]]).**
 ---
 ### Synonyms
-- [[benefit]], [[edge]], [[foredeal]], [[value]], [[vantage]]
+- [[b/_benefit|benefit]], [[e/_edge|edge]], [[f/_foredeal|foredeal]], [[v/_value|value]], [[v/_vantage|vantage]]
 ### Antonyms
-- [[disadvantage]], [[drawback]]
+- [[d/_disadvantage|disadvantage]], [[d/_drawback|drawback]]
 #verb
 - **To provide (someone) with an [[a/_advantage|advantage]], to give an [[e/_edge|edge]] to**
 - **To [[d/_do|do]] something for one's own [[b/_benefit|benefit]]; to take [[a/_advantage|advantage]] of**
 ---
 ### Synonyms
-- [[benefit]], [[favor]], [[favorise]]
+- [[b/_benefit|benefit]], [[f/_favor|favor]], [[f/_favorise|favorise]]
 ---

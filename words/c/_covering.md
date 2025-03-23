@@ -33,5 +33,5 @@
 - **To [[d/_defend|defend]] a particular player or [[a/_area|area]].**
 ---
 ### Synonyms
-- [[impregnate]]
+- [[i/_impregnate|impregnate]]
 ---

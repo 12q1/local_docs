@@ -17,7 +17,7 @@
 	- _Example: The truck veered across the central reservation and collected a car that was travelling in the opposite direction._
 ---
 #noun
-- **The prayer said [[b/_before|before]] the reading of the [[e/_epistle|epistle]] lesson, especially one found in a prayerbook, as with the [[b/_book|Book]] of [[c/_common|Common]] Prayer.**
+- **The prayer said [[b/_before|before]] the reading of the [[e/_epistle|epistle]] lesson, [[e/_especially|especially]] one found in a prayerbook, as with the [[b/_book|Book]] of [[c/_common|Common]] Prayer.**
 	- _Example: He used the day's collect as the basis of his sermon._
 ---
 ---

@@ -6,7 +6,7 @@
 - **To [[b/_break|break]] [[b/_beyond|beyond]] recovery or repair so that the only options are [[a/_abandonment|abandonment]] or the [[c/_clearing|clearing]] [[a/_away|away]] of useless remains (if [[a/_any|any]]) and starting over.**
 ---
 ### Synonyms
-- [[decimate]], [[destroy]], [[raze]], [[ruin]]
+- [[d/_decimate|decimate]], [[d/_destroy|destroy]], [[r/_raze|raze]], [[r/_ruin|ruin]]
 #adjective
 - **[[c/_causing|Causing]] [[d/_devastation|devastation]]**
 ---

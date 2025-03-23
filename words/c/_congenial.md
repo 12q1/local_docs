@@ -7,5 +7,5 @@
 - **Suitable to one’s needs.**
 ---
 ### Antonyms
-- [[uncongenial]]
+- [[u/_uncongenial|uncongenial]]
 ---

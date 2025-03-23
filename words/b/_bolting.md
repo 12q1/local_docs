@@ -10,7 +10,7 @@
 - **To [[c/_cause|cause]] to start or spring forth; to [[d/_dislodge|dislodge]] (an [[a/_animal|animal]] [[b/_being|being]] hunted).**
 	- _Example: to bolt a rabbit_
 - **To strike or fall suddenly like a [[b/_bolt|bolt]].**
-- **To escape.**
+- **To [[e/_escape|escape]].**
 - **Of a plant, to grow quickly; to go to seed.**
 	- _Example: Lettuce and spinach will bolt as the weather warms up._
 - **To swallow food without [[c/_chewing|chewing]] it.**
@@ -20,7 +20,7 @@
 - **To utter precipitately; to [[b/_blurt|blurt]] or throw out.**
 ---
 #verb
-- **To sift, especially through a [[c/_cloth|cloth]].**
+- **To sift, [[e/_especially|especially]] through a [[c/_cloth|cloth]].**
 - **To sift the [[b/_bran|bran]] and germ from wheat flour.**
 	- _Example: Graham flour is unbolted flour._
 - **To separate, [[a/_assort|assort]], refine, or purify by other means.**

@@ -6,5 +6,5 @@
 - **To [[a/_arrange|arrange]] (rooms or other structures) in a row.**
 ---
 ### Synonyms
-- [[flank]]
+- [[f/_flank|flank]]
 ---

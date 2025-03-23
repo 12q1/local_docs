@@ -4,5 +4,5 @@
 - **[[c/_clear|Clear]], harmonious, and restrained.**
 ---
 ### Antonyms
-- [[dionysian]]
+- [[d/_dionysian|dionysian]]
 ---

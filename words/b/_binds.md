@@ -3,7 +3,7 @@
 #noun
 - **That which [[b/_binds|binds]] or ties.**
 - **A troublesome situation; a problem; a predicament or quandary.**
-- **[[a/_any|Any]] twining or [[c/_climbing|climbing]] plant or stem, especially a hop vine; a [[b/_bine|bine]].**
+- **[[a/_any|Any]] twining or [[c/_climbing|climbing]] plant or stem, [[e/_especially|especially]] a hop vine; a [[b/_bine|bine]].**
 - **A ligature or tie for grouping notes.**
 - **A strong grip or stranglehold on a position that is [[d/_difficult|difficult]] for the opponent to [[b/_break|break]].**
 	- _Example: the Maróczy Bind_
@@ -17,14 +17,14 @@
 	- _Example: I wish I knew why the sewing machine binds up after I use it for a while._
 - **To exert a [[b/_binding|binding]] or restraining influence.**
 	- _Example: These are the ties that bind._
-- **To tie or fasten tightly together, with a [[c/_cord|cord]], [[b/_band|band]], ligature, [[c/_chain|chain]], etc.**
+- **To tie or fasten tightly together, with a [[c/_cord|cord]], [[b/_band|band]], ligature, [[c/_chain|chain]], [[e/_etc|etc]].**
 	- _Example: to bind grain in bundles  to bind a prisoner_
 - **To [[c/_confine|confine]], restrain, or hold by physical force or influence of [[a/_any|any]] kind.**
 	- _Example: Frost binds the earth._
 - **To [[c/_couple|couple]].**
 - **To oblige, restrain, or hold, by [[a/_authority|authority]], law, [[d/_duty|duty]], promise, vow, [[a/_affection|affection]], or other social tie.**
 	- _Example: to bind the conscience  to bind by kindness  bound by affection  commerce binds nations to each other_
-- **To put (a person) under [[d/_definite|definite]] legal obligations, especially, under the obligation of a [[b/_bond|bond]] or [[c/_covenant|covenant]].**
+- **To put (a person) under [[d/_definite|definite]] legal obligations, [[e/_especially|especially]], under the obligation of a [[b/_bond|bond]] or [[c/_covenant|covenant]].**
 - **To place under legal obligation to serve.**
 	- _Example: to bind an apprentice  bound out to service_
 - **To protect or strengthen by [[a/_applying|applying]] a [[b/_band|band]] or [[b/_binding|binding]], as the [[e/_edge|edge]] of a [[c/_carpet|carpet]] or garment.**
@@ -37,9 +37,9 @@
 - **To put together in a [[c/_cover|cover]], as of [[b/_books|books]].**
 	- _Example: The three novels were bound together._
 - **To make two or more [[e/_elements|elements]] stick together.**
-- **To [[a/_associate|associate]] an identifier with a value; to [[a/_associate|associate]] a variable name, method name, etc. with the [[c/_content|content]] of a storage location.**
+- **To [[a/_associate|associate]] an identifier with a value; to [[a/_associate|associate]] a variable name, method name, [[e/_etc|etc]]. with the [[c/_content|content]] of a storage location.**
 - **To [[c/_complain|complain]]; to whine [[a/_about|about]] something.**
 ---
 ### Synonyms
-- [[bandage]], [[dress]], [[fasten]], [[fetter]], [[make fast]], [[restrain]], [[tie]], [[indenture]], [[obligate]], [[restrain]], [[restrict]]
+- [[b/_bandage|bandage]], [[d/_dress|dress]], [[f/_fasten|fasten]], [[f/_fetter|fetter]], [[r/_restrain|restrain]], [[t/_tie|tie]], [[i/_indenture|indenture]], [[o/_obligate|obligate]], [[r/_restrain|restrain]], [[r/_restrict|restrict]]
 ---

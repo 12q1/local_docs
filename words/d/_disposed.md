@@ -11,9 +11,9 @@
 - **To regulate; to [[a/_adjust|adjust]]; to settle; to [[d/_determine|determine]].**
 ---
 ### Synonyms
-- [[discard]], [[incline]]
+- [[d/_discard|discard]], [[i/_incline|incline]]
 ### Antonyms
-- [[disincline]], [[indispose]]
+- [[d/_disincline|disincline]], [[i/_indispose|indispose]]
 #adjective
 - **Inclined; minded.**
 - **(in [[c/_combination|combination]]) Having a [[c/_certain|certain]] [[d/_disposition|disposition]].**

@@ -5,5 +5,5 @@
 - **A freshwater fish native to the Great Lakes; the species [[c/_coregonus|Coregonus]] hoyi.**
 ---
 ### Synonyms
-- [[wanker]]
+- [[w/_wanker|wanker]]
 ---

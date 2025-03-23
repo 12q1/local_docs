@@ -4,7 +4,7 @@
 - **In a [[c/_correct|correct]] manner.**
 ---
 ### Synonyms
-- [[accurately]], [[exactly]], [[precisely]]
+- [[a/_accurately|accurately]], [[e/_exactly|exactly]], [[p/_precisely|precisely]]
 ### Antonyms
-- [[incorrectly]]
+- [[i/_incorrectly|incorrectly]]
 ---

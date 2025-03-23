@@ -6,7 +6,7 @@
 - **A ludicrous imitation; a [[c/_caricature|caricature]]; a travesty; a gross perversion.**
 ---
 ### Synonyms
-- [[caricature]], [[imitation]], [[lampoon]], [[travesty]]
+- [[c/_caricature|caricature]], [[i/_imitation|imitation]], [[l/_lampoon|lampoon]], [[t/_travesty|travesty]]
 #verb
 - **To make a [[b/_burlesque|burlesque]] parody of.**
 - **To ridicule, or to make ludicrous by grotesque representation in [[a/_action|action]] or in language.**

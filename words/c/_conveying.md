@@ -12,5 +12,5 @@
 - **To [[c/_carry|carry]] or take [[a/_away|away]] secretly; to steal; to thieve.**
 ---
 ### Synonyms
-- [[express]], [[relay]], [[send]], [[carry]], [[transport]], [[accompany]], [[conduct]], [[escort]]
+- [[e/_express|express]], [[r/_relay|relay]], [[s/_send|send]], [[c/_carry|carry]], [[t/_transport|transport]], [[a/_accompany|accompany]], [[c/_conduct|conduct]], [[e/_escort|escort]]
 ---

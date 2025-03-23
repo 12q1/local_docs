@@ -4,5 +4,5 @@
 - **[[a/_against|Against]] or opposed to gay people, or to rights for gay people.**
 ---
 ### Antonyms
-- [[pro-gay]]
+- [[p/_pro-gay|pro-gay]]
 ---

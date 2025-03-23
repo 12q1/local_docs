@@ -7,9 +7,9 @@
 	- _Example: Winter depresses me._
 - **To [[c/_cause|cause]] a [[d/_depression|depression]] or a [[d/_decrease|decrease]] in parts of the [[e/_economy|economy]].**
 	- _Example: Lower productivity will eventually depress wages._
-- **To [[b/_bring|bring]] [[d/_down|down]] or humble; to [[a/_abase|abase]] (pride, etc.).**
+- **To [[b/_bring|bring]] [[d/_down|down]] or humble; to [[a/_abase|abase]] (pride, [[e/_etc|etc]].).**
 - **To reduce (an [[e/_equation|equation]]) in a lower [[d/_degree|degree]].**
 ---
 ### Synonyms
-- [[downbear]]
+- [[d/_downbear|downbear]]
 ---

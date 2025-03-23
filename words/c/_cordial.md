@@ -15,5 +15,5 @@
 - **Proceeding from the heart.**
 ---
 ### Synonyms
-- [[heartfelt]], [[affable]], [[amiable]], [[cheer]], [[invigorating]]
+- [[h/_heartfelt|heartfelt]], [[a/_affable|affable]], [[a/_amiable|amiable]], [[c/_cheer|cheer]], [[i/_invigorating|invigorating]]
 ---

@@ -5,5 +5,5 @@
 - **(nutrition) One of a group of vitamins that [[a/_act|act]] [[a/_against|against]] the [[e/_effects|effects]] of free radicals.**
 ---
 ### Antonyms
-- [[oxidant]]
+- [[o/_oxidant|oxidant]]
 ---

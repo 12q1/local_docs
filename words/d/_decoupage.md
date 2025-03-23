@@ -1,7 +1,7 @@
 # Decoupage
 ---
 #noun
-- **An [[a/_art|art]] technique in which paper [[c/_cutouts|cutouts]] ([[e/_either|either]] from magazines etc or specially made) are glued onto the surface of an object and sometimes painted or [[d/_decorated|decorated]]**
+- **An [[a/_art|art]] technique in which paper [[c/_cutouts|cutouts]] ([[e/_either|either]] from magazines [[e/_etc|etc]] or specially made) are glued onto the surface of an object and sometimes painted or [[d/_decorated|decorated]]**
 - **An [[a/_artwork|artwork]] made by this technique**
 ---
 #verb

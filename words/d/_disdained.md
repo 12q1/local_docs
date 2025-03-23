@@ -5,7 +5,7 @@
 - **To be indignant or offended.**
 ---
 ### Synonyms
-- [[abominate]], [[contemn]]
+- [[a/_abominate|abominate]], [[c/_contemn|contemn]]
 ### Antonyms
-- [[admire]], [[adore]], [[honor]], [[respect]], [[revere]]
+- [[a/_admire|admire]], [[a/_adore|adore]], [[h/_honor|honor]], [[r/_respect|respect]], [[r/_revere|revere]]
 ---

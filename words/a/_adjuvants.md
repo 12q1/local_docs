@@ -8,5 +8,5 @@
 - **A substance [[e/_enhancing|enhancing]] the immune response to an [[a/_antigen|antigen]].**
 ---
 ### Synonyms
-- [[accessory]], [[assistant]], [[attendant]], [[satellite]], [[secondary]], [[subordinate]], [[subservient]], [[subsidiary]]
+- [[a/_accessory|accessory]], [[a/_assistant|assistant]], [[a/_attendant|attendant]], [[s/_satellite|satellite]], [[s/_secondary|secondary]], [[s/_subordinate|subordinate]], [[s/_subservient|subservient]], [[s/_subsidiary|subsidiary]]
 ---

@@ -5,5 +5,5 @@
 - **The [[c/_clergy|clergy]], or their opinions, as opposed to the laity.**
 ---
 ### Synonyms
-- [[intelligentsia]]
+- [[i/_intelligentsia|intelligentsia]]
 ---

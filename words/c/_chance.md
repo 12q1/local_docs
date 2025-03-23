@@ -10,7 +10,7 @@
 - **What [[b/_befalls|befalls]] or happens to a person; their lot or fate.**
 ---
 ### Synonyms
-- [[fortune]], [[hap]]
+- [[f/_fortune|fortune]], [[h/_hap|hap]]
 #adjective
 - **Happening by [[c/_chance|chance]], [[c/_casual|casual]].**
 ---

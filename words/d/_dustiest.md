@@ -7,5 +7,5 @@
 - **Ugly, [[d/_disgusting|disgusting]] (a general term of [[a/_abuse|abuse]])**
 ---
 ### Synonyms
-- [[dust-ridden]]
+- [[d/_dust-ridden|dust-ridden]]
 ---

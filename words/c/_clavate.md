@@ -5,5 +5,5 @@
 	- _Example: an organism with clavate antennae_
 ---
 ### Synonyms
-- [[claviform]], [[clubbed]], [[clubbed]]
+- [[c/_claviform|claviform]], [[c/_clubbed|clubbed]], [[c/_clubbed|clubbed]]
 ---

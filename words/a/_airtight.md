@@ -7,7 +7,7 @@
 - **(of a person) Highly reserved in some matter, particularly tight-lipped or tight-fisted.**
 ---
 ### Synonyms
-- [[hermetic]]
+- [[h/_hermetic|hermetic]]
 ### Antonyms
-- [[breathable]], [[transpirable]]
+- [[b/_breathable|breathable]], [[t/_transpirable|transpirable]]
 ---

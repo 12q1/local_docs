@@ -9,5 +9,5 @@
 - **A [[d/_decorated|decorated]] [[c/_cabinet|cabinet]] at the front of a synagogue, in which Torah scrolls are kept.**
 ---
 ### Synonyms
-- [[barge]], [[basket]], [[chest]], [[coffer]], [[hutch]], [[refuge]], [[retreat]], [[shelter]], [[ship]], [[vessel]]
+- [[b/_barge|barge]], [[b/_basket|basket]], [[c/_chest|chest]], [[c/_coffer|coffer]], [[h/_hutch|hutch]], [[r/_refuge|refuge]], [[r/_retreat|retreat]], [[s/_shelter|shelter]], [[s/_ship|ship]], [[v/_vessel|vessel]]
 ---

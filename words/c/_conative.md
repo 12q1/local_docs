@@ -5,5 +5,5 @@
 	- _Example: The conative, as opposed to the cognitive or affective, relates to purposeful, but not necessarily ultimately rational, action._
 ---
 ### Synonyms
-- [[conational]]
+- [[c/_conational|conational]]
 ---

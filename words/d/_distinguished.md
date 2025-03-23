@@ -8,9 +8,9 @@
 - **To make to [[d/_differ|differ]].**
 ---
 ### Synonyms
-- [[differentiate]], [[discriminate]]
+- [[d/_differentiate|differentiate]], [[d/_discriminate|discriminate]]
 ### Antonyms
-- [[confuse]]
+- [[c/_confuse|confuse]]
 #adjective
 - **[[c/_celebrated|Celebrated]], well-known or [[e/_eminent|eminent]] [[b/_because|because]] of past [[a/_achievements|achievements]]; prestigious**
 	- _Example: The lecture was attended by many distinguished mathematicians._
@@ -20,7 +20,7 @@
 	- _Example: Let X be a topological space with a distinguished point p._
 ---
 ### Synonyms
-- [[eminent]], [[exceptional]], [[remarkable]], [[grand]], [[imposing]]
+- [[e/_eminent|eminent]], [[e/_exceptional|exceptional]], [[r/_remarkable|remarkable]], [[g/_grand|grand]], [[i/_imposing|imposing]]
 ### Antonyms
-- [[mediocre]]
+- [[m/_mediocre|mediocre]]
 ---

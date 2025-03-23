@@ -14,9 +14,9 @@
 	- _Example: to beetle cotton goods_
 ---
 #noun
-- **The process by which fabrics, etc. are [[b/_beetled|beetled]], or [[b/_beaten|beaten]] with a mallet.**
+- **The process by which fabrics, [[e/_etc|etc]]. are [[b/_beetled|beetled]], or [[b/_beaten|beaten]] with a mallet.**
 ---
 #adjective
-- **Jutting or protruding, especially of a person's [[b/_brows|brows]].**
+- **Jutting or protruding, [[e/_especially|especially]] of a person's [[b/_brows|brows]].**
 ---
 ---

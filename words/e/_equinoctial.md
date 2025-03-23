@@ -11,5 +11,5 @@
 - **[[e/_equatorial|Equatorial]]: Of or relating to the [[e/_equator|equator]] of the [[e/_earth|Earth]].**
 ---
 ### Synonyms
-- [[equinoctal]], [[equinoxial]], [[equatorial]]
+- [[e/_equinoctal|equinoctal]], [[e/_equinoxial|equinoxial]], [[e/_equatorial|equatorial]]
 ---

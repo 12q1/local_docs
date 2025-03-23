@@ -10,6 +10,6 @@
 - **Under the influence of [[e/_enchantment|enchantment]].**
 ---
 #interjection
-- **A greeting used when introduced to someone for the first time, especially by a man when introduced to a woman.**
+- **A greeting used when introduced to someone for the first time, [[e/_especially|especially]] by a man when introduced to a woman.**
 ---
 ---

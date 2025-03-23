@@ -8,7 +8,7 @@
 - **Unnatural.**
 ---
 ### Synonyms
-- [[artificious]]
+- [[a/_artificious|artificious]]
 ### Antonyms
-- [[natural]]
+- [[n/_natural|natural]]
 ---

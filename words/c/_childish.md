@@ -6,7 +6,7 @@
 	- _Example: Your childish temper tantrums are not going to change my decision on this matter._
 ---
 ### Synonyms
-- [[immature]], [[infantile]], [[juvenile]], [[puerile]], [[silly]], [[unbecoming]], [[childly]], [[juvenile]], [[kiddish]]
+- [[i/_immature|immature]], [[i/_infantile|infantile]], [[j/_juvenile|juvenile]], [[p/_puerile|puerile]], [[s/_silly|silly]], [[u/_unbecoming|unbecoming]], [[c/_childly|childly]], [[j/_juvenile|juvenile]], [[k/_kiddish|kiddish]]
 ### Antonyms
-- [[adultish]], [[mature]], [[adult]], [[adultlike]]
+- [[a/_adultish|adultish]], [[m/_mature|mature]], [[a/_adult|adult]], [[a/_adultlike|adultlike]]
 ---

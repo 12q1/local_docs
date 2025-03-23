@@ -5,5 +5,5 @@
 - **To [[d/_disarrange|disarrange]], or throw into a state of [[d/_disorder|disorder]].**
 ---
 ### Synonyms
-- [[agitate]], [[perturb]], [[unsettle]]
+- [[a/_agitate|agitate]], [[p/_perturb|perturb]], [[u/_unsettle|unsettle]]
 ---

@@ -5,7 +5,7 @@
 - **(sometimes offensive) A person with a general but superficial interest in [[a/_any|any]] [[a/_art|art]] or a [[b/_branch|branch]] of knowledge.**
 ---
 ### Synonyms
-- [[amateur]], [[dabbler]]
+- [[a/_amateur|amateur]], [[d/_dabbler|dabbler]]
 ### Antonyms
-- [[professional]]
+- [[p/_professional|professional]]
 ---

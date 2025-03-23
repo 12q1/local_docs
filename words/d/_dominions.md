@@ -8,5 +8,5 @@
 - **An order of [[a/_angel|angel]] in [[c/_christian|Christian]] [[a/_angelology|angelology]], ranked [[a/_above|above]] virtues and [[b/_below|below]] thrones.**
 ---
 ### Synonyms
-- [[domination]]
+- [[d/_domination|domination]]
 ---

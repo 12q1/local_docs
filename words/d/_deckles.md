@@ -6,5 +6,5 @@
 - **(Jewish [[c/_cuisine|cuisine]]) The fattier, smaller point-[[c/_cut|cut]] portion of a [[b/_brisket|brisket]] of [[b/_beef|beef]], [[b/_being|being]] the superficial pectoral muscle.**
 ---
 ### Synonyms
-- [[point]]
+- [[p/_point|point]]
 ---

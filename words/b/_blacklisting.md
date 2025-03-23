@@ -5,7 +5,7 @@
 	- _Example: You can blacklist known spammers with that button._
 ---
 ### Synonyms
-- [[blackball]], [[send to Coventry]]
+- [[b/_blackball|blackball]]
 #noun
 - **The [[a/_act|act]] of placing onto a [[b/_blacklist|blacklist]].**
 ---

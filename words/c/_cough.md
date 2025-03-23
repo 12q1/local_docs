@@ -5,11 +5,11 @@
 	- _Example: Behind me, I heard a distinct, dry cough._
 - **A [[c/_condition|condition]] that [[c/_causes|causes]] one to [[c/_cough|cough]]; a tendency to [[c/_cough|cough]].**
 	- _Example: Sorry, I can't come to work today – I've got a nasty cough._
-- **Used to focus [[a/_attention|attention]] on a following utterance, often a euphemism or an [[a/_attribution|attribution]] of [[b/_blame|blame]]**
+- **Used to focus [[a/_attention|attention]] on a following utterance, often a [[e/_euphemism|euphemism]] or an [[a/_attribution|attribution]] of [[b/_blame|blame]]**
 	- _Example: He was – cough – indisposed._
 ---
 ### Synonyms
-- [[tussis]]
+- [[t/_tussis|tussis]]
 #verb
 - **To push [[a/_air|air]] from the lungs in a quick, noisy explosion.**
 	- _Example: I breathed in a lungful of smoke by mistake, and started to cough._

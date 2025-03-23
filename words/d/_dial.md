@@ -4,7 +4,7 @@
 - **A graduated, [[c/_circular|circular]] scale over which a needle moves to show a measurement (such as speed).**
 - **A [[c/_clock|clock]] face.**
 - **A sundial.**
-- **A panel on a radio etc showing wavelengths or [[c/_channels|channels]]; a knob that is turned to [[c/_change|change]] the wavelength etc.**
+- **A panel on a radio [[e/_etc|etc]] showing wavelengths or [[c/_channels|channels]]; a knob that is turned to [[c/_change|change]] the wavelength [[e/_etc|etc]].**
 - **A [[d/_disk|disk]] with finger holes on a telephone; used to select the number to be [[c/_called|called]].**
 - **A person's face.**
 - **A miner's [[c/_compass|compass]].**

@@ -4,7 +4,7 @@
 - **A person who favors maintenance of the status quo.**
 ---
 ### Synonyms
-- [[reactionary]], [[right-winger]], [[traditionalist]]
+- [[r/_reactionary|reactionary]], [[r/_right-winger|right-winger]], [[t/_traditionalist|traditionalist]]
 #adjective
 - **[[c/_cautious|Cautious]].**
 - **Tending to resist [[c/_change|change]] or innovation.**

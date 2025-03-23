@@ -15,7 +15,7 @@
 - **Not hasty or sudden; slow.**
 ---
 ### Synonyms
-- [[careful]], [[cautious]], [[well-advised]], [[circumspect]], [[thoughtful]], [[purposeful]], [[volitional]]
+- [[c/_careful|careful]], [[c/_cautious|cautious]], [[w/_well-advised|well-advised]], [[c/_circumspect|circumspect]], [[t/_thoughtful|thoughtful]], [[p/_purposeful|purposeful]], [[v/_volitional|volitional]]
 ### Antonyms
-- [[unintentional]], [[unwitting]]
+- [[u/_unintentional|unintentional]], [[u/_unwitting|unwitting]]
 ---

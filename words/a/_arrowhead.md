@@ -6,5 +6,5 @@
 - **[[a/_any|Any]] plant in the genus Sagittaria.**
 ---
 ### Synonyms
-- [[duck potato]], [[wapato]]
+- [[w/_wapato|wapato]]
 ---

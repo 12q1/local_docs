@@ -8,5 +8,5 @@
 	- _Example: The decapitation of the Foreign Secretary was a significant publicity coup for the opposition._
 ---
 ### Synonyms
-- [[beheading]]
+- [[b/_beheading|beheading]]
 ---

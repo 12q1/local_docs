@@ -13,7 +13,7 @@
 - **To [[e/_embrace|embrace]] sexually.**
 ---
 ### Synonyms
-- [[contract]], [[abridge]], [[condense]], [[shorten]], [[truncate]], [[compact]], [[condense]], [[pack]], [[press]], [[squash]], [[squeeze]]
+- [[c/_contract|contract]], [[a/_abridge|abridge]], [[c/_condense|condense]], [[s/_shorten|shorten]], [[t/_truncate|truncate]], [[c/_compact|compact]], [[c/_condense|condense]], [[p/_pack|pack]], [[p/_press|press]], [[s/_squash|squash]], [[s/_squeeze|squeeze]]
 ### Antonyms
-- [[decontract]], [[expand]], [[expand]], [[lengthen]], [[uncompress]]
+- [[d/_decontract|decontract]], [[e/_expand|expand]], [[e/_expand|expand]], [[l/_lengthen|lengthen]], [[u/_uncompress|uncompress]]
 ---

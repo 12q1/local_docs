@@ -7,7 +7,7 @@
 	- _Example: She clutched her purse tightly and walked nervously into the building._
 ---
 ### Synonyms
-- [[clasp]], [[grasp]], [[grip]]
+- [[c/_clasp|clasp]], [[g/_grasp|grasp]], [[g/_grip|grip]]
 #verb
 - **To hatch.**
 ---

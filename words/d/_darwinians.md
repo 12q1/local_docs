@@ -5,5 +5,5 @@
 - **A native or resident of [[d/_darwin|Darwin]], Northern Territory, [[a/_australia|Australia]]**
 ---
 ### Synonyms
-- [[Darwinist]]
+- [[D/_Darwinist|Darwinist]]
 ---

@@ -3,7 +3,7 @@
 #noun
 - **[[a/_armor|Armor]] for the [[a/_arm|arm]]; vambrace.**
 - **A measurement of length, originally representing a person's outstretched [[a/_arms|arms]].**
-- **A [[c/_curved|curved]] instrument or handle of iron or wood, for holding and turning [[b/_bits|bits]], etc.; a [[b/_bitstock|bitstock]].**
+- **A [[c/_curved|curved]] instrument or handle of iron or wood, for holding and turning [[b/_bits|bits]], [[e/_etc|etc]].; a [[b/_bitstock|bitstock]].**
 - **That which holds [[a/_anything|anything]] tightly or supports it firmly; a [[b/_bandage|bandage]] or a prop.**
 - **A [[c/_cord|cord]], ligament, or rod, for producing or maintaining tension.**
 - **A thong used to regulate the tension of a [[d/_drum|drum]].**
@@ -19,7 +19,7 @@
 - **Two goals scored by one player in a game.**
 ---
 ### Synonyms
-- [[fathom]], [[dyad]], [[twosome]]
+- [[f/_fathom|fathom]], [[d/_dyad|dyad]], [[t/_twosome|twosome]]
 #verb
 - **To prepare for something [[b/_bad|bad]], such as an impact or [[b/_blow|blow]].**
 	- _Example: All hands, brace for impact!_

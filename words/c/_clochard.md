@@ -1,6 +1,6 @@
 # Clochard
 ---
 #noun
-- **A [[b/_beggar|beggar]] or tramp, especially in France.**
+- **A [[b/_beggar|beggar]] or tramp, [[e/_especially|especially]] in France.**
 ---
 ---

@@ -6,5 +6,5 @@
 - **A pang or expression of [[d/_doubt|doubt]].**
 ---
 ### Synonyms
-- [[doubtfulness]]
+- [[d/_doubtfulness|doubtfulness]]
 ---

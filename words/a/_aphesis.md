@@ -5,7 +5,7 @@
 	- _Example: The word "scarp" is derived from "escarp" by aphesis._
 ---
 ### Synonyms
-- [[procope]]
+- [[p/_procope|procope]]
 ### Antonyms
-- [[apocope]], [[prothesis]]
+- [[a/_apocope|apocope]], [[p/_prothesis|prothesis]]
 ---

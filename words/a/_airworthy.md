@@ -5,7 +5,7 @@
 	- _Example: Doc Savage doubted that he would carry out the threat, and thought the plane was still airworthy._
 ---
 ### Synonyms
-- [[flyable]], [[flyworthy]], [[skyworthy]]
+- [[f/_flyable|flyable]], [[f/_flyworthy|flyworthy]], [[s/_skyworthy|skyworthy]]
 ### Antonyms
-- [[unflyable]]
+- [[u/_unflyable|unflyable]]
 ---

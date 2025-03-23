@@ -5,5 +5,5 @@
 - **Obvious, on show; unashamed; loudly obtrusive or offensive.**
 ---
 ### Antonyms
-- [[furtive]]
+- [[f/_furtive|furtive]]
 ---

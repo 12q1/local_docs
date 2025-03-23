@@ -7,5 +7,5 @@
 	- _Example: The game is allegedly exciting._
 ---
 ### Synonyms
-- [[purportedly]], [[supposedly]]
+- [[p/_purportedly|purportedly]], [[s/_supposedly|supposedly]]
 ---

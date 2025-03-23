@@ -9,5 +9,5 @@
 - **Relating to spatial representations: linked to a reference frame [[b/_based|based]] on one's own location within the [[e/_environment|environment]] (as when giving the [[d/_direction|direction]] as "right" rather than "north"); opposed to allocentric.**
 ---
 ### Synonyms
-- [[self-minded]]
+- [[s/_self-minded|self-minded]]
 ---

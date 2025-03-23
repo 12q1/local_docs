@@ -4,5 +4,5 @@
 - **In a [[c/_cautious|cautious]] manner.**
 ---
 ### Antonyms
-- [[incautiously]]
+- [[i/_incautiously|incautiously]]
 ---

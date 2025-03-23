@@ -2,7 +2,7 @@
 ---
 #noun
 - **Someone who [[b/_binds|binds]]**
-- **A [[c/_cover|cover]] or holder for unbound papers, pages etc.**
+- **A [[c/_cover|cover]] or holder for unbound papers, pages [[e/_etc|etc]].**
 - **Something that is used to [[b/_bind|bind]] things together, often referring to the mechanism that [[a/_accomplishes|accomplishes]] this for a [[b/_book|book]].**
 - **A software mechanism that performs [[b/_binding|binding]].**
 - **A [[d/_dossier|dossier]].**
@@ -14,5 +14,5 @@
 - **Protein [[b/_binder|binder]]**
 ---
 ### Synonyms
-- [[binding agent]]
+- 
 ---

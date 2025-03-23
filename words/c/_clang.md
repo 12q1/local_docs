@@ -11,6 +11,6 @@
 - **To give out a [[c/_clang|clang]]; to resound.**
 ---
 #noun
-- **[[a/_any|Any]] periodic sound, especially one [[c/_composed|composed]] of a fundamental and harmonics, as opposed to simple periodic sounds (sine tones).**
+- **[[a/_any|Any]] periodic sound, [[e/_especially|especially]] one [[c/_composed|composed]] of a fundamental and harmonics, as opposed to simple periodic sounds (sine tones).**
 ---
 ---

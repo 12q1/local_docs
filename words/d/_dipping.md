@@ -18,7 +18,7 @@
 - **To plunge or [[e/_engage|engage]] thoroughly in [[a/_any|any]] [[a/_affair|affair]].**
 - **To take out, by [[d/_dipping|dipping]] a [[d/_dipper|dipper]], ladle, or other receptacle, into a fluid and removing a part; often with out.**
 	- _Example: to dip water from a boiler; to dip out water_
-- **To perform the [[a/_action|action]] of plunging a [[d/_dipper|dipper]], ladle. etc. into a liquid or soft substance and removing a part.**
+- **To perform the [[a/_action|action]] of plunging a [[d/_dipper|dipper]], ladle. [[e/_etc|etc]]. into a liquid or soft substance and removing a part.**
 - **To [[e/_engage|engage]] as a pledge; to mortgage.**
 - **To perform (a [[b/_bow|bow]] or [[c/_curtsey|curtsey]]) by inclining the [[b/_body|body]].**
 - **To incline [[d/_downward|downward]] from the plane of the horizon.**
@@ -33,7 +33,7 @@
 - **An [[a/_act|act]] or process of immersing.**
 - **The [[a/_act|act]] of inclining [[d/_downward|downward]].**
 - **The [[a/_act|act]] of lifting or moving a liquid with a [[d/_dipper|dipper]], ladle, or the like.**
-- **The process of [[c/_cleaning|cleaning]] or [[b/_brightening|brightening]] sheet metal or metalware, especially [[b/_brass|brass]], by [[d/_dipping|dipping]] it in [[a/_acids|acids]], etc.**
+- **The process of [[c/_cleaning|cleaning]] or [[b/_brightening|brightening]] sheet metal or metalware, [[e/_especially|especially]] [[b/_brass|brass]], by [[d/_dipping|dipping]] it in [[a/_acids|acids]], [[e/_etc|etc]].**
 - **The use of [[d/_dipping|dipping]] tobacco (moist snuff) in the mouth, usually [[b/_between|between]] the lip and gum or [[c/_cheek|cheek]] and gum in the lower or upper part of the mouth.**
 - **The [[a/_act|act]] or fact of missing out on seeing a [[b/_bird|bird]].**
 ---

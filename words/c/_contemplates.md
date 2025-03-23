@@ -6,5 +6,5 @@
 	- _Example: I contemplated doing the project myself, but it would have taken too long._
 ---
 ### Synonyms
-- [[examine]]
+- [[e/_examine|examine]]
 ---

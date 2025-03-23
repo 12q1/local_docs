@@ -5,7 +5,7 @@
 - **Pertaining to the [[b/_body|body]]; [[b/_bodily|bodily]]; [[c/_corporal|corporal]].**
 ---
 ### Synonyms
-- [[bodily]], [[corporal]]
+- [[b/_bodily|bodily]], [[c/_corporal|corporal]]
 ### Antonyms
-- [[ethereal]], [[incorporeal]], [[insubstantial]], [[intangible]], [[spiritual]]
+- [[e/_ethereal|ethereal]], [[i/_incorporeal|incorporeal]], [[i/_insubstantial|insubstantial]], [[i/_intangible|intangible]], [[s/_spiritual|spiritual]]
 ---

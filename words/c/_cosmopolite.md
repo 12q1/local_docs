@@ -5,7 +5,7 @@
 - **The [[b/_butterfly|butterfly]] painted lady (Vanessa cardui).**
 ---
 ### Synonyms
-- [[cosmopolitan]]
+- [[c/_cosmopolitan|cosmopolitan]]
 #adjective
 - **Of or relating to cosmopolites; [[c/_cosmopolitan|cosmopolitan]].**
 - **([[c/_communication|communication]]) Oriented outside one's own social system**

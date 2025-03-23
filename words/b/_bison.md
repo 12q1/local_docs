@@ -5,5 +5,5 @@
 - **A similar North [[a/_american|American]] [[a/_animal|animal]], [[b/_bison|Bison]] [[b/_bison|bison]].**
 ---
 ### Synonyms
-- [[American bison]], [[American buffalo]], [[buffalo]], [[European bison]], [[wisent]]
+- [[b/_buffalo|buffalo]], [[w/_wisent|wisent]]
 ---

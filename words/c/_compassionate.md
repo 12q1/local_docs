@@ -4,7 +4,7 @@
 - **To feel [[c/_compassion|compassion]] (for someone or with regard to something); to regard (someone or something) with [[c/_compassion|compassion]].**
 ---
 ### Synonyms
-- [[feel sorry for]], [[pity]]
+- [[p/_pity|pity]]
 #adjective
 - **Having, feeling or showing [[c/_compassion|compassion]] (to or toward someone).**
 	- _Example: The Compassionate, the All-Compassionate_
@@ -13,5 +13,5 @@
 - **Inviting or [[a/_asking|asking]] for pity.**
 ---
 ### Synonyms
-- [[empathetic]], [[ruthful]], [[sympathetic]], [[pitiable]]
+- [[e/_empathetic|empathetic]], [[r/_ruthful|ruthful]], [[s/_sympathetic|sympathetic]], [[p/_pitiable|pitiable]]
 ---

@@ -5,7 +5,7 @@
 ---
 #verb
 - **To physically make letters and words on a writing surface; to inscribe.**
-- **To write, especially a literary or [[a/_artistic|artistic]] work; to [[c/_compose|compose]].**
+- **To write, [[e/_especially|especially]] a literary or [[a/_artistic|artistic]] work; to [[c/_compose|compose]].**
 - **To [[d/_dictate|dictate]]; to prompt.**
 - **To invite or [[a/_ask|ask]].**
 - **To indict; to [[a/_accuse|accuse]]; to [[c/_censure|censure]].**

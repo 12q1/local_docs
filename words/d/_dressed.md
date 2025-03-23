@@ -9,12 +9,12 @@
 	- _Example: Due to a left ankle sprain, Kobe Bryant did not dress for the game against Indiana_
 - **Of a man, to [[a/_allow|allow]] the genitals to fall to one side or other within the trousers.**
 	- _Example: Does sir dress to the right or the left?_
-- **To prepare (food) for [[c/_cooking|cooking]], especially by seasoning it.**
+- **To prepare (food) for [[c/_cooking|cooking]], [[e/_especially|especially]] by seasoning it.**
 - **To prepare oneself; to make ready.**
 - **To [[a/_adorn|adorn]], ornament.**
 	- _Example: It was time to dress the windows for Christmas again._
 - **To ornament (a ship) by hoisting the national [[c/_colours|colours]] at the peak and mastheads, and setting the jack forward; when "[[d/_dressed|dressed]] full", the signal flags and pennants are [[a/_added|added]].**
-- **To prepare (a set) by installing the props, scenery, etc.**
+- **To prepare (a set) by installing the props, scenery, [[e/_etc|etc]].**
 - **To treat (a wound, or wounded person).**
 - **To prepare for use; to fit for [[a/_any|any]] use; to render suitable for an intended purpose; to get ready.**
 	- _Example: to dress leather or cloth;  to dress a garden;  to dress grain, by cleansing it;  in mining and metallurgy, to dress ores, by sorting and separating them_
@@ -26,14 +26,14 @@
 - **To [[b/_break|break]] and train for use, as a horse or other [[a/_animal|animal]].**
 ---
 ### Synonyms
-- [[bandage]], [[clothe]], [[don]], [[get dressed]]
+- [[b/_bandage|bandage]], [[c/_clothe|clothe]], [[d/_don|don]]
 ### Antonyms
-- [[strip]], [[undress]], [[disrobe]], [[get undressed]], [[strip]], [[undress]]
+- [[s/_strip|strip]], [[u/_undress|undress]], [[d/_disrobe|disrobe]], [[s/_strip|strip]], [[u/_undress|undress]]
 #adjective
 - **Having [[b/_been|been]] subjected to a preparatory process or treatment; treated, prepared.**
-- **Prepared for [[e/_eating|eating]], especially by the [[a/_addition|addition]] of specific [[c/_condiments|condiments]] or [[d/_dressing|dressing]].**
+- **Prepared for [[e/_eating|eating]], [[e/_especially|especially]] by the [[a/_addition|addition]] of specific [[c/_condiments|condiments]] or [[d/_dressing|dressing]].**
 - **Wearing [[c/_clothes|clothes]]; [[a/_attired|attired]] (now often with qualifying word).**
 ---
 ### Synonyms
-- [[dressed]], [[raimented]]
+- [[d/_dressed|dressed]], [[r/_raimented|raimented]]
 ---

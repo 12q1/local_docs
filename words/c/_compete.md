@@ -6,5 +6,5 @@
 - **To take part in a [[c/_contest|contest]], game or similar event**
 ---
 ### Antonyms
-- [[cooperate]]
+- [[c/_cooperate|cooperate]]
 ---

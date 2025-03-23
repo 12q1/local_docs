@@ -21,9 +21,9 @@
 	- _Example: His blood boils with anger._
 ---
 ### Synonyms
-- [[plaw]], [[seethe]], [[well]], [[be baking]], [[be seething]], [[be stewing]], [[be baking]], [[be scorching]], [[be sweltering]]
+- [[p/_plaw|plaw]], [[s/_seethe|seethe]], [[w/_well|well]]
 ### Antonyms
-- [[condense]], [[be freezing]], [[be freezing]]
+- [[c/_condense|condense]]
 #adjective
 - **[[c/_cooked|Cooked]] in [[b/_boiling|boiling]] water.**
 - **(of water) Having reached the [[b/_boiling|boiling]] point.**

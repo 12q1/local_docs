@@ -8,7 +8,7 @@
 - **To make to [[d/_differ|differ]].**
 ---
 ### Synonyms
-- [[differentiate]], [[discriminate]]
+- [[d/_differentiate|differentiate]], [[d/_discriminate|discriminate]]
 ### Antonyms
-- [[confuse]]
+- [[c/_confuse|confuse]]
 ---

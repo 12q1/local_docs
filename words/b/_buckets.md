@@ -21,7 +21,7 @@
 - **The pitcher in [[c/_certain|certain]] orchids.**
 ---
 ### Synonyms
-- [[pail]], [[banger]], [[jalopy]], [[rustbucket]], [[blade]], [[scoop]], [[vane]]
+- [[p/_pail|pail]], [[b/_banger|banger]], [[j/_jalopy|jalopy]], [[r/_rustbucket|rustbucket]], [[b/_blade|blade]], [[s/_scoop|scoop]], [[v/_vane|vane]]
 #verb
 - **To place inside a [[b/_bucket|bucket]].**
 - **To [[d/_draw|draw]] or lift in, or as if in, [[b/_buckets|buckets]].**
@@ -35,5 +35,5 @@
 - **To make, or [[c/_cause|cause]] to make (the recovery), with a [[c/_certain|certain]] hurried or unskillful forward swing of the [[b/_body|body]].**
 ---
 ### Synonyms
-- [[chuck it down]], [[piss down]], [[rain cats and dogs]], [[book it]], [[hurtle]], [[rocket]], [[shoot]], [[speed]], [[whizz]]
+- [[h/_hurtle|hurtle]], [[r/_rocket|rocket]], [[s/_shoot|shoot]], [[s/_speed|speed]], [[w/_whizz|whizz]]
 ---

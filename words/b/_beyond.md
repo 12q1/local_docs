@@ -12,7 +12,7 @@
 	- _Example: 2017 July 13, Joseph Gamp "Marvel release stirring new set images of Black Panther and we are BEYOND excited" Metro (UK)_
 ---
 ### Synonyms
-- [[ayond]], [[ayont]]
+- [[a/_ayond|ayond]], [[a/_ayont|ayont]]
 #preposition
 - **Further [[a/_away|away]] than.**
 	- _Example: She had no reason for the conviction beyond the very inadequate one that she had seen him around London._
@@ -28,7 +28,7 @@
 	- _Example: He understood geometry well, but algebraic topology was beyond him._
 ---
 ### Synonyms
-- [[ayond]], [[ayont]]
+- [[a/_ayond|ayond]], [[a/_ayont|ayont]]
 ### Antonyms
-- [[before]], [[earlier]]
+- [[b/_before|before]], [[e/_earlier|earlier]]
 ---

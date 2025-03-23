@@ -9,5 +9,5 @@
 - **To lose flavour or [[b/_become|become]] stale.**
 ---
 ### Synonyms
-- [[affright]], [[daunt]], [[depress]], [[dismay]], [[frighten]], [[scare]], [[terrify]]
+- [[a/_affright|affright]], [[d/_daunt|daunt]], [[d/_depress|depress]], [[d/_dismay|dismay]], [[f/_frighten|frighten]], [[s/_scare|scare]], [[t/_terrify|terrify]]
 ---

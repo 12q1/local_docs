@@ -41,7 +41,7 @@
 ---
 #noun
 - **A lock.**
-- **A key, especially a master key; a lockpick.**
+- **A key, [[e/_especially|especially]] a master key; a lockpick.**
 ---
 #verb
 - **To open or [[c/_close|close]].**

@@ -5,7 +5,7 @@
 	- _Example: The villain began to cachinnate and twirl his moustache._
 ---
 ### Synonyms
-- [[guffaw]]
+- [[g/_guffaw|guffaw]]
 #adjective
 - **[[c/_cackling|Cackling]], laughing.**
 ---

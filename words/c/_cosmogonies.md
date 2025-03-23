@@ -6,5 +6,5 @@
 - **The [[c/_creation|creation]] of the universe.**
 ---
 ### Synonyms
-- [[cosmogenesis]], [[cosmogeny]], [[cosmology]], [[hexameron]]
+- [[c/_cosmogenesis|cosmogenesis]], [[c/_cosmogeny|cosmogeny]], [[c/_cosmology|cosmology]], [[h/_hexameron|hexameron]]
 ---

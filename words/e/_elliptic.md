@@ -9,5 +9,5 @@
 - **(of leaves) Oval, with a short or no point.**
 ---
 ### Synonyms
-- [[elliptical]]
+- [[e/_elliptical|elliptical]]
 ---

@@ -9,7 +9,7 @@
 - **To install software.**
 ---
 ### Synonyms
-- [[D/L]], [[DL]], [[d/l]], [[dl]], [[copy]], [[move]], [[transfer]]
+- [[D/_D/L|D/L]], [[D/_DL|DL]], [[d/_d/l|d/l]], [[d/_dl|dl]], [[c/_copy|copy]], [[m/_move|move]], [[t/_transfer|transfer]]
 ### Antonyms
-- [[upload]]
+- [[u/_upload|upload]]
 ---

@@ -8,5 +8,5 @@
 - **The process in which two or more populations [[a/_accumulate|accumulate]] genetic [[c/_changes|changes]] (mutations) through time.**
 ---
 ### Antonyms
-- [[convergence]]
+- [[c/_convergence|convergence]]
 ---

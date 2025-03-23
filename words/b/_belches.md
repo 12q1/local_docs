@@ -12,5 +12,5 @@
 - **To be [[e/_ejected|ejected]] or [[e/_emitted|emitted]] (from something) with spasmodic force or noise.**
 ---
 ### Synonyms
-- [[burp]]
+- [[b/_burp|burp]]
 ---

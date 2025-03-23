@@ -6,5 +6,5 @@
 	- _Example: Chickpea is valued for its nutritive seeds with high protein content._
 ---
 ### Synonyms
-- [[Bengal gram]], [[garbanzo]], [[Bengal gram]], [[garbanzo bean]]
+- [[g/_garbanzo|garbanzo]]
 ---

@@ -12,7 +12,7 @@
 - **A worldly sailor.**
 ---
 ### Synonyms
-- [[shellback]], [[twitch]]
+- [[s/_shellback|shellback]], [[t/_twitch|twitch]]
 #verb
 - **To [[c/_connect|connect]] with or [[a/_attach|attach]].**
 - **To press [[c/_close|close]] [[a/_against|against]] something.**

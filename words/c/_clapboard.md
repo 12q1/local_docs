@@ -6,7 +6,7 @@
 - **An oak [[b/_board|board]] of a size used for [[b/_barrel|barrel]] staves.**
 ---
 ### Synonyms
-- [[weatherboard]]
+- [[w/_weatherboard|weatherboard]]
 #verb
 - **To [[c/_cover|cover]] with [[c/_clapboards|clapboards]].**
 	- _Example: to clapboard the sides of a house_

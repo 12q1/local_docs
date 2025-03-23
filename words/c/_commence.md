@@ -6,5 +6,5 @@
 - **To take a [[d/_degree|degree]] at a university.**
 ---
 ### Antonyms
-- [[cease]], [[stop]]
+- [[c/_cease|cease]], [[s/_stop|stop]]
 ---

@@ -9,5 +9,5 @@
 - **[[a/_anything|Anything]] inflated, [[e/_empty|empty]], or unsound.**
 ---
 ### Synonyms
-- [[vesica]]
+- [[v/_vesica|vesica]]
 ---

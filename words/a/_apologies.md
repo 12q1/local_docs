@@ -9,11 +9,11 @@
 	- _Example: a poor apology for a hotel room_
 ---
 ### Synonyms
-- [[apologia]]
+- [[a/_apologia|apologia]]
 #interjection
 - **Expresses regret, remorse, or sorrow.**
 - **Used to [[c/_correct|correct]] oneself in speech.**
 ---
 ### Synonyms
-- [[sorry]]
+- [[s/_sorry|sorry]]
 ---

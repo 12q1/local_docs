@@ -10,7 +10,7 @@
 - **To lay [[a/_aside|aside]]; to rid oneself of.**
 ---
 ### Antonyms
-- [[withdrawal]]
+- [[w/_withdrawal|withdrawal]]
 #noun
 - **[[d/_deposition|Deposition]]**
 ---

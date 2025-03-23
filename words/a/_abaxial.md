@@ -5,7 +5,7 @@
 - **Not in the [[a/_axis|axis]]. [[a/_applied|Applied]] to an [[e/_embryo|embryo]] placed out of the [[a/_axis|axis]] of the seed.**
 ---
 ### Synonyms
-- [[dorsal]], [[eccentric]]
+- [[d/_dorsal|dorsal]], [[e/_eccentric|eccentric]]
 ### Antonyms
-- [[adaxial]]
+- [[a/_adaxial|adaxial]]
 ---

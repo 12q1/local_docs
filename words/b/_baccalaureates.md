@@ -7,5 +7,5 @@
 - **The International [[b/_baccalaureate|Baccalaureate]].**
 ---
 ### Synonyms
-- [[bachelor's degree]]
+- 
 ---

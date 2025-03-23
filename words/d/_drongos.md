@@ -7,5 +7,5 @@
 - **A fool, an idiot, a stupid fellow.**
 ---
 ### Synonyms
-- [[cretin]], [[doilem]], [[dufus]], [[fool]], [[glaik]], [[idiot]], [[mong]]
+- [[c/_cretin|cretin]], [[d/_doilem|doilem]], [[d/_dufus|dufus]], [[f/_fool|fool]], [[g/_glaik|glaik]], [[i/_idiot|idiot]], [[m/_mong|mong]]
 ---

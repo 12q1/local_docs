@@ -13,7 +13,7 @@
 - **[[a/_attendance|Attendance]] at an institution of higher [[e/_education|education]].**
 	- _Example: These should be his college years, but he joined the Army._
 - **A postsecondary institution that offers vocational training and/or [[a/_associate|associate]]'s [[d/_degrees|degrees]].**
-- **A non-specialized, semi-[[a/_autonomous|autonomous]] [[d/_division|division]] of a university, with its own faculty, [[d/_departments|departments]], library, etc.**
+- **A non-specialized, semi-[[a/_autonomous|autonomous]] [[d/_division|division]] of a university, with its own faculty, [[d/_departments|departments]], library, [[e/_etc|etc]].**
 	- _Example: Pembroke College, Cambridge; Balliol College, Oxford; University College, London_
 - **An institution of further [[e/_education|education]] at an intermediate level; sixth form.**
 - **An institution for [[a/_adult|adult]] [[e/_education|education]] at a [[b/_basic|basic]] or intermediate level (teaching those of [[a/_any|any]] [[a/_age|age]]).**
@@ -25,5 +25,5 @@
 - **(in [[c/_chile|Chile]]) A [[b/_bilingual|bilingual]] school.**
 ---
 ### Synonyms
-- [[department]], [[faculty]], [[school]]
+- [[d/_department|department]], [[f/_faculty|faculty]], [[s/_school|school]]
 ---

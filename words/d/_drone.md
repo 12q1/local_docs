@@ -8,7 +8,7 @@
 	- _Example: One team member launched a camera drone over the Third Pole._
 ---
 ### Synonyms
-- [[UAS]], [[UAV]], [[drudge]]
+- [[U/_UAS|UAS]], [[U/_UAV|UAV]], [[d/_drudge|drudge]]
 #verb
 - **To kill with a missile fired by unmanned [[a/_aircraft|aircraft]].**
 ---

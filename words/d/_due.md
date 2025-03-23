@@ -18,11 +18,11 @@
 	- _Example: The baby is just about due._
 - **Owing; [[a/_ascribable|ascribable]], as to a [[c/_cause|cause]].**
 	- _Example: The dangerously low water table is due to rapidly growing pumping._
-- **On a [[d/_direct|direct]] [[b/_bearing|bearing]], especially for the four points of the [[c/_compass|compass]]**
+- **On a [[d/_direct|direct]] [[b/_bearing|bearing]], [[e/_especially|especially]] for the four points of the [[c/_compass|compass]]**
 	- _Example: The town is 5 miles due North of the bridge._
 ---
 ### Synonyms
-- [[expected]], [[expected]], [[forecast]], [[needed]], [[owing]], [[required]], [[to be made]]
+- [[e/_expected|expected]], [[e/_expected|expected]], [[f/_forecast|forecast]], [[n/_needed|needed]], [[o/_owing|owing]], [[r/_required|required]]
 #adverb
 - **(used with [[c/_compass|compass]] [[d/_directions|directions]]) [[d/_directly|Directly]]; exactly.**
 	- _Example: The river runs due north for about a mile._

@@ -8,5 +8,5 @@
 - **The [[d/_deviation|deviation]] of a heavenly [[b/_body|body]] from a spherical form.**
 ---
 ### Antonyms
-- [[decompression]], [[rarefaction]]
+- [[d/_decompression|decompression]], [[r/_rarefaction|rarefaction]]
 ---

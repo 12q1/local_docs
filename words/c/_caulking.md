@@ -10,5 +10,5 @@
 	- _Example: Oakum was used for the caulking of the hulls of wooden ships._
 ---
 ### Synonyms
-- [[caulk]]
+- [[c/_caulk|caulk]]
 ---

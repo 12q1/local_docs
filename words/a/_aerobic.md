@@ -6,5 +6,5 @@
 - **Of or relating to [[a/_aerobics|aerobics]].**
 ---
 ### Antonyms
-- [[anaerobic]]
+- [[a/_anaerobic|anaerobic]]
 ---

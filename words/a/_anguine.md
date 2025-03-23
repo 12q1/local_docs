@@ -5,5 +5,5 @@
 - **Snakelike.**
 ---
 ### Synonyms
-- [[ophidian]], [[serpentine]], [[snakelike]]
+- [[o/_ophidian|ophidian]], [[s/_serpentine|serpentine]], [[s/_snakelike|snakelike]]
 ---

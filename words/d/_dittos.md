@@ -9,5 +9,5 @@
 - **(in the plural) A suit of [[c/_clothes|clothes]] of the same [[c/_colour|colour]] throughout.**
 ---
 ### Synonyms
-- [[do.]]
+- [[d/_do.|do.]]
 ---

@@ -7,7 +7,7 @@
 	- _Example: A noble instance of this attribute of the decisive character. -J. Foster._
 ---
 ### Synonyms
-- [[conclusive]], [[decided]], [[positive]]
+- [[c/_conclusive|conclusive]], [[d/_decided|decided]], [[p/_positive|positive]]
 ### Antonyms
-- [[indecisive]]
+- [[i/_indecisive|indecisive]]
 ---

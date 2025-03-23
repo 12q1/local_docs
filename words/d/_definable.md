@@ -5,5 +5,5 @@
 	- _Example: Many words are definable by using other words._
 ---
 ### Antonyms
-- [[indefinable]], [[undefinable]]
+- [[i/_indefinable|indefinable]], [[u/_undefinable|undefinable]]
 ---

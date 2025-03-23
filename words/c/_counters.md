@@ -5,7 +5,7 @@
 - **A [[c/_conservative|conservative]]; originally tied to Nicaraguan [[c/_counter|counter]]-revolutionaries.**
 - **An [[e/_entry|entry]] (or [[a/_account|account]]) that [[c/_cancels|cancels]] [[a/_another|another]] [[e/_entry|entry]] (or [[a/_account|account]]).**
 	- _Example: The sum for each contra account is shown in the last column._
-- **[[a/_any|Any]] of the musical instruments in the [[c/_contrabass|contrabass]] range, [[e/_e|e]].g. [[c/_contrabassoon|contrabassoon]], [[c/_contrabass|contrabass]] [[c/_clarinet|clarinet]] or, especially, [[d/_double|double]] [[b/_bass|bass]].**
+- **[[a/_any|Any]] of the musical instruments in the [[c/_contrabass|contrabass]] range, [[e/_e|e]].g. [[c/_contrabassoon|contrabassoon]], [[c/_contrabass|contrabass]] [[c/_clarinet|clarinet]] or, [[e/_especially|especially]], [[d/_double|double]] [[b/_bass|bass]].**
 - **A [[c/_contra|contra]] [[d/_dance|dance]].**
 - **A [[c/_country|country]] [[d/_dance|dance]].**
 ---
@@ -13,10 +13,10 @@
 - **One who [[c/_counts|counts]]**
 	- _Example: He's only 16 months, but is already a good counter – he can count to 100._
 - **A reckoner; someone who [[c/_collects|collects]] [[d/_data|data]] by [[c/_counting|counting]]; an [[e/_enumerator|enumerator]].**
-- **An object (now especially a small [[d/_disc|disc]]) used in [[c/_counting|counting]] or keeping [[c/_count|count]], or as a marker in games, etc.**
+- **An object (now [[e/_especially|especially]] a small [[d/_disc|disc]]) used in [[c/_counting|counting]] or keeping [[c/_count|count]], or as a marker in games, [[e/_etc|etc]].**
 	- _Example: He rolled a six on the dice, so moved his counter forward six spaces._
 - **A telltale; a [[c/_contrivance|contrivance]] [[a/_attached|attached]] to an [[e/_engine|engine]], printing press, or other machine, for the purpose of [[c/_counting|counting]] the revolutions or the pulsations.**
-- **A variable, memory location, etc. whose [[c/_contents|contents]] are incremented to keep a [[c/_count|count]].**
+- **A variable, memory location, [[e/_etc|etc]]. whose [[c/_contents|contents]] are incremented to keep a [[c/_count|count]].**
 - **A hit [[c/_counter|counter]].**
 - **A table or [[b/_board|board]] on which money is [[c/_counted|counted]] and over which [[b/_business|business]] is transacted**
 	- _Example: He put his money on the counter, and the shopkeeper put it in the till._

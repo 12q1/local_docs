@@ -5,7 +5,7 @@
 	- _Example: The house had fallen into such disrepair that no agent would show it to buyers._
 ---
 ### Synonyms
-- [[unrepair]]
+- [[u/_unrepair|unrepair]]
 #verb
 - **To get into a state of [[d/_disrepair|disrepair]].**
 ---

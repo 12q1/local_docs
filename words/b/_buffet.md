@@ -6,5 +6,5 @@
 - **A small stool; a stool for a [[b/_buffet|buffet]] or [[c/_counter|counter]].**
 ---
 ### Synonyms
-- [[buffet meal]], [[smorgasbord]], [[cupboard]], [[sideboard]], [[smorgasbord]]
+- [[s/_smorgasbord|smorgasbord]], [[c/_cupboard|cupboard]], [[s/_sideboard|sideboard]], [[s/_smorgasbord|smorgasbord]]
 ---

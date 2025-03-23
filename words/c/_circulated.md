@@ -10,7 +10,7 @@
 - **Of [[d/_decimals|decimals]]: to repeat.**
 ---
 ### Synonyms
-- [[disseminate]], [[put about]], [[spread]]
+- [[d/_disseminate|disseminate]], [[s/_spread|spread]]
 #adjective
 - **[[d/_distributed|Distributed]] [[a/_about|about]] a [[c/_circuit|circuit]]**
 ---

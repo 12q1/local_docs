@@ -5,5 +5,5 @@
 - **[[b/_buried|Buried]] or found in a place remote from the site of formation.**
 ---
 ### Antonyms
-- [[autochthonous]]
+- [[a/_autochthonous|autochthonous]]
 ---

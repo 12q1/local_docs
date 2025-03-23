@@ -11,5 +11,5 @@
 - **Praiseworthy.**
 ---
 ### Synonyms
-- [[leveful]]
+- [[l/_leveful|leveful]]
 ---

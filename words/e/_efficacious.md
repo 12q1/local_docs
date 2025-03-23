@@ -5,7 +5,7 @@
 	- _Example: This medicine is efficacious._
 ---
 ### Synonyms
-- [[effective]]
+- [[e/_effective|effective]]
 ### Antonyms
-- [[inefficacious]]
+- [[i/_inefficacious|inefficacious]]
 ---

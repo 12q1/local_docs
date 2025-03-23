@@ -5,5 +5,5 @@
 - **[[a/_any|Any]] of a [[c/_class|class]] of antihyperglycemic and [[a/_antimalarial|antimalarial]] [[d/_drugs|drugs]] [[b/_based|based]] upon this [[c/_compound|compound]].**
 ---
 ### Synonyms
-- [[carbamimidoylguanidine]], [[diguanide]]
+- [[c/_carbamimidoylguanidine|carbamimidoylguanidine]], [[d/_diguanide|diguanide]]
 ---

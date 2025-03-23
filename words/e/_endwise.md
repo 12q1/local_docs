@@ -9,5 +9,5 @@
 - **Towards the [[e/_ends|ends]]**
 ---
 ### Synonyms
-- [[edgeways]], [[endways]], [[lengthwise]], [[sideways]], [[sidewise]]
+- [[e/_edgeways|edgeways]], [[e/_endways|endways]], [[l/_lengthwise|lengthwise]], [[s/_sideways|sideways]], [[s/_sidewise|sidewise]]
 ---

@@ -4,7 +4,7 @@
 - **The naturally-occurring [[d/_dextrorotatory|dextrorotatory]] form of glucose monosaccharide molecule.**
 ---
 ### Synonyms
-- [[D-Glucose]], [[D-glucose]], [[dextroglucose]]
+- [[D/_D-Glucose|D-Glucose]], [[D/_D-glucose|D-glucose]], [[d/_dextroglucose|dextroglucose]]
 ### Antonyms
-- [[L-Glucose]], [[L-glucose]]
+- [[L/_L-Glucose|L-Glucose]], [[L/_L-glucose|L-glucose]]
 ---

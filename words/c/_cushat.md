@@ -4,5 +4,5 @@
 - **A pigeon, wood pigeon or ring [[d/_dove|dove]].**
 ---
 ### Synonyms
-- [[cushat dove]], [[cushat-dove]], [[queest]], [[quist]]
+- [[c/_cushat-dove|cushat-dove]], [[q/_queest|queest]], [[q/_quist|quist]]
 ---

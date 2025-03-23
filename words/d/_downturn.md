@@ -5,7 +5,7 @@
 	- _Example: The downturn in the economy made it harder to find jobs._
 ---
 ### Antonyms
-- [[upturn]]
+- [[u/_upturn|upturn]]
 #verb
 - **To turn [[d/_downwards|downwards]]**
 - **To [[d/_decline|decline]]**

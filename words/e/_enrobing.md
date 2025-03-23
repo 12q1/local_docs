@@ -5,5 +5,5 @@
 - **To [[c/_coat|coat]] or [[c/_cover|cover]].**
 ---
 ### Synonyms
-- [[clothe]], [[dress]], [[robe]]
+- [[c/_clothe|clothe]], [[d/_dress|dress]], [[r/_robe|robe]]
 ---

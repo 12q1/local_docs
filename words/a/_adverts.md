@@ -9,5 +9,5 @@
 - **To [[c/_call|call]] [[a/_attention|attention]], refer (to).**
 ---
 ### Synonyms
-- [[refer]]
+- [[r/_refer|refer]]
 ---

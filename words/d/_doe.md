@@ -8,5 +8,5 @@
 - **A female kangaroo.**
 ---
 ### Synonyms
-- [[hind]], [[blue flyer]]
+- [[h/_hind|hind]]
 ---

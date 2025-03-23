@@ -4,7 +4,7 @@
 - **Something that is or has [[b/_been|been]] [[a/_assimilated|assimilated]].**
 ---
 #verb
-- **To incorporate nutrients into the [[b/_body|body]], especially [[a/_after|after]] [[d/_digestion|digestion]].**
+- **To incorporate nutrients into the [[b/_body|body]], [[e/_especially|especially]] [[a/_after|after]] [[d/_digestion|digestion]].**
 	- _Example: Food is assimilated and converted into organic tissue._
 - **To incorporate or [[a/_absorb|absorb]] (knowledge) into the mind.**
 	- _Example: The teacher paused in her lecture to allow the students to assimilate what she had said._
@@ -16,5 +16,5 @@
 - **To be incorporated or [[a/_absorbed|absorbed]] into something.**
 ---
 ### Synonyms
-- [[integrate]], [[process]]
+- [[i/_integrate|integrate]], [[p/_process|process]]
 ---

@@ -5,7 +5,7 @@
 - **The property of having [[b/_behavior|behavior]] [[d/_determined|determined]] only by initial state and input.**
 ---
 ### Synonyms
-- [[fatalism]]
+- [[f/_fatalism|fatalism]]
 ### Antonyms
-- [[indeterminism]]
+- [[i/_indeterminism|indeterminism]]
 ---

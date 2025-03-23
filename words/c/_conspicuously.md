@@ -4,5 +4,5 @@
 - **In a [[c/_conspicuous|conspicuous]] manner; noticeably.**
 ---
 ### Antonyms
-- [[inconspicuously]]
+- [[i/_inconspicuously|inconspicuously]]
 ---

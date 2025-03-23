@@ -5,5 +5,5 @@
 - **Harmony; [[a/_agreement|agreement]]; lack of [[d/_discordance|discordance]].**
 ---
 ### Antonyms
-- [[discordance]], [[dissonance]]
+- [[d/_discordance|discordance]], [[d/_dissonance|dissonance]]
 ---

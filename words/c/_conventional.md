@@ -13,7 +13,7 @@
 - **In [[a/_accordance|accordance]] with a [[b/_bidding|bidding]] [[c/_convention|convention]], as opposed to a natural [[b/_bid|bid]].**
 ---
 ### Synonyms
-- [[stereotypical]], [[canonical]], [[typical]]
+- [[s/_stereotypical|stereotypical]], [[c/_canonical|canonical]], [[t/_typical|typical]]
 ### Antonyms
-- [[organic]], [[natural]], [[imaginative]], [[atypical]], [[out of the ordinary]], [[unconventional]], [[nuclear]]
+- [[o/_organic|organic]], [[n/_natural|natural]], [[i/_imaginative|imaginative]], [[a/_atypical|atypical]], [[u/_unconventional|unconventional]], [[n/_nuclear|nuclear]]
 ---

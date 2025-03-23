@@ -5,5 +5,5 @@
 - **A wing of an [[a/_aircraft|aircraft]].**
 ---
 ### Synonyms
-- [[foil]], [[wing]]
+- [[f/_foil|foil]], [[w/_wing|wing]]
 ---

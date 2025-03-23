@@ -5,5 +5,5 @@
 - **Of, or pertaining to, the [[c/_cephalon|cephalon]].**
 ---
 ### Antonyms
-- [[caudal]]
+- [[c/_caudal|caudal]]
 ---

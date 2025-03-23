@@ -3,8 +3,8 @@
 #adjective
 - **Excellent; valuable, fine.**
 - **[[e/_elegant|Elegant]]; [[d/_delicately|delicately]] small and pretty.**
-- **Fastidious and fussy, especially when [[e/_eating|eating]].**
+- **Fastidious and fussy, [[e/_especially|especially]] when [[e/_eating|eating]].**
 ---
 ### Synonyms
-- [[neat]], [[petite]]
+- [[n/_neat|neat]], [[p/_petite|petite]]
 ---

@@ -4,5 +4,5 @@
 - **In a [[c/_coherent|coherent]] manner.**
 ---
 ### Antonyms
-- [[incoherently]]
+- [[i/_incoherently|incoherently]]
 ---

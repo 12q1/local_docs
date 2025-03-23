@@ -7,7 +7,7 @@
 - **Real; [[a/_actual|actual]]; put into execution.**
 ---
 ### Synonyms
-- [[corporal]], [[corporeal]]
+- [[c/_corporal|corporal]], [[c/_corporeal|corporeal]]
 #adverb
 - **In [[b/_bodily|bodily]] form; physically, [[c/_corporally|corporally]].**
 - **Pertaining to the whole [[b/_body|body]] or mass; wholly.**
@@ -15,5 +15,5 @@
 	- _Example: He was thrown bodily out of the house._
 ---
 ### Synonyms
-- [[bodyaciously]]
+- [[b/_bodyaciously|bodyaciously]]
 ---

@@ -5,5 +5,5 @@
 - **[[e/_eccentric|Eccentric]] [[b/_behaviour|behaviour]]; lunacy.**
 ---
 ### Synonyms
-- [[lunatic]], [[mad man]], [[nut ball]], [[nut case]], [[nutso]], [[psychopath]]
+- [[l/_lunatic|lunatic]], [[n/_nutso|nutso]], [[p/_psychopath|psychopath]]
 ---

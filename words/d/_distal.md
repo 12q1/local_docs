@@ -7,5 +7,5 @@
 - **Far or farther from the speaker.**
 ---
 ### Antonyms
-- [[mesial]], [[proximal]]
+- [[m/_mesial|mesial]], [[p/_proximal|proximal]]
 ---

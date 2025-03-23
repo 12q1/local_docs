@@ -5,7 +5,7 @@
 	- _Example: This page is editable by anyone._
 ---
 ### Synonyms
-- [[modifiable]]
+- [[m/_modifiable|modifiable]]
 ### Antonyms
-- [[uneditable]]
+- [[u/_uneditable|uneditable]]
 ---

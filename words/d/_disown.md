@@ -7,5 +7,5 @@
 - **To [[d/_detach|detach]] (a job or process) so that it [[c/_can|can]] [[c/_continue|continue]] to run even when the user who launched it [[e/_ends|ends]] his/her login session.**
 ---
 ### Synonyms
-- [[disavow]], [[disclaim]]
+- [[d/_disavow|disavow]], [[d/_disclaim|disclaim]]
 ---

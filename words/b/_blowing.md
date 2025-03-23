@@ -31,9 +31,9 @@
 	- _Example: I blew $35 thou on a car._
 - **To fellate; to perform oral sex on (usually a man)**
 	- _Example: Who did you have to blow to get those backstage passes?_
-- **To leave, especially suddenly or in a hurry.**
+- **To leave, [[e/_especially|especially]] suddenly or in a hurry.**
 	- _Example: Let's blow this joint._
-- **To make flyblown, to [[d/_defile|defile]], especially with fly [[e/_eggs|eggs]].**
+- **To make flyblown, to [[d/_defile|defile]], [[e/_especially|especially]] with fly [[e/_eggs|eggs]].**
 - **To spread by report; to publish; to [[d/_disclose|disclose]].**
 - **To inflate, as with pride; to puff up.**
 - **To [[b/_breathe|breathe]] hard or quick; to pant; to puff.**

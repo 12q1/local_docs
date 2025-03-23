@@ -11,9 +11,9 @@
 - **To set a signal on a line using a voltage or [[e/_electric|electric]] [[c/_current|current]].**
 ---
 ### Synonyms
-- [[affirm]], [[asseverate]], [[aver]]
+- [[a/_affirm|affirm]], [[a/_asseverate|asseverate]], [[a/_aver|aver]]
 ### Antonyms
-- [[deassert]], [[deny]], [[remit]]
+- [[d/_deassert|deassert]], [[d/_deny|deny]], [[r/_remit|remit]]
 #noun
 - **The [[a/_act|act]] of making [[a/_assertions|assertions]].**
 ---

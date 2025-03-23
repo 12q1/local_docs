@@ -5,5 +5,5 @@
 	- _Example: Construction of the new offices is proceeding apace._
 ---
 ### Synonyms
-- [[expeditiously]], [[swiftly]]
+- [[e/_expeditiously|expeditiously]], [[s/_swiftly|swiftly]]
 ---

@@ -7,5 +7,5 @@
 - **[[c/_cause|Cause]] of [[a/_admiration|admiration]]; something to excite wonder, or pleased surprise.**
 ---
 ### Synonyms
-- [[adoration]], [[appreciation]], [[approval]], [[reverence]], [[wonder]], [[worship]]
+- [[a/_adoration|adoration]], [[a/_appreciation|appreciation]], [[a/_approval|approval]], [[r/_reverence|reverence]], [[w/_wonder|wonder]], [[w/_worship|worship]]
 ---

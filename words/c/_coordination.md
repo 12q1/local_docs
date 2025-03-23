@@ -10,5 +10,5 @@
 - **The reaction of one or more ligands with a metal ion to form a [[c/_coordination|coordination]] [[c/_compound|compound]].**
 ---
 ### Antonyms
-- [[incoordination]], [[subordination]]
+- [[i/_incoordination|incoordination]], [[s/_subordination|subordination]]
 ---

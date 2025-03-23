@@ -6,7 +6,7 @@
 - **Trading [[a/_activity|activity]] in a security immediately following its initial offering to the public.**
 ---
 ### Antonyms
-- [[OEM]]
+- [[O/_OEM|OEM]]
 #verb
 - **To sell goods or services in the [[a/_aftermarket|aftermarket]].**
 ---

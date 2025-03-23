@@ -5,5 +5,5 @@
 - **[[d/_describing|Describing]] a heuristic that never overestimates the [[c/_cost|cost]] of reaching a goal.**
 ---
 ### Antonyms
-- [[inadmissible]]
+- [[i/_inadmissible|inadmissible]]
 ---

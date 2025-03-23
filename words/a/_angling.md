@@ -18,5 +18,5 @@
 - **A form of fishing, with a rod, line and [[a/_angle|angle]] (hook) for recreation or sport.**
 ---
 ### Synonyms
-- [[gentle craft]]
+- 
 ---

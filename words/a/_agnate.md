@@ -6,12 +6,12 @@
 - **[[a/_any|Any]] paternal male relative.**
 ---
 ### Antonyms
-- [[enate]]
+- [[e/_enate|enate]]
 #adjective
 - **Related to someone by male [[c/_connections|connections]] or on the paternal side of the family.**
 - **[[a/_allied|Allied]]; [[a/_akin|akin]]**
 - **Having a similar semantic meaning.**
 ---
 ### Synonyms
-- [[agnatic]], [[patrilineal]]
+- [[a/_agnatic|agnatic]], [[p/_patrilineal|patrilineal]]
 ---

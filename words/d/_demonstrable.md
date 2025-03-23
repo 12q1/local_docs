@@ -8,5 +8,5 @@
 	- _Example: It is easily demonstrable that water extinguishes fire._
 ---
 ### Antonyms
-- [[indemonstrable]], [[undemonstrable]]
+- [[i/_indemonstrable|indemonstrable]], [[u/_undemonstrable|undemonstrable]]
 ---

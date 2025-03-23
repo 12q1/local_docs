@@ -6,5 +6,5 @@
 - **([[c/_christian|Christian]] theology) Inborn [[c/_corruption|corruption]], [[e/_entailing|entailing]] the [[b/_belief|belief]] that every facet of human nature has [[b/_been|been]] polluted, [[d/_defiled|defiled]], and [[c/_contaminated|contaminated]] by sin.**
 ---
 ### Synonyms
-- [[wickedness]]
+- [[w/_wickedness|wickedness]]
 ---

@@ -11,9 +11,9 @@
 	- _Example: It wasn't too bad but we did hire an auto (couldn't imagine changing gears with my right hand)._
 ---
 ### Synonyms
-- [[automobile]], [[car]], [[motor]], [[motorcar]], [[automatic]]
+- [[a/_automobile|automobile]], [[c/_car|car]], [[m/_motor|motor]], [[m/_motorcar|motorcar]], [[a/_automatic|automatic]]
 ### Antonyms
-- [[manual]]
+- [[m/_manual|manual]]
 #verb
 - **To travel by [[a/_automobile|automobile]].**
 ---

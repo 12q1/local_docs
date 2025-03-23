@@ -4,7 +4,7 @@
 - **A [[c/_crescent|crescent]] oriented with horns turned to sinister (pointing right).**
 ---
 ### Antonyms
-- [[increscent]]
+- [[i/_increscent|increscent]]
 #adjective
 - **[[b/_becoming|Becoming]] gradually less; [[d/_diminishing|diminishing]].**
 - **Waning.**

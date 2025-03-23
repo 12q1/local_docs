@@ -4,5 +4,5 @@
 - **A [[b/_bartender|bartender]]**
 ---
 ### Synonyms
-- [[bar-keeper]], [[barkeeper]]
+- [[b/_bar-keeper|bar-keeper]], [[b/_barkeeper|barkeeper]]
 ---

@@ -5,5 +5,5 @@
 	- _Example: Janek feels very at ease amongst his friends, but gets incredibly nervous when meeting new people._
 ---
 ### Synonyms
-- [[amid]], [[amidst]], [[among]]
+- [[a/_amid|amid]], [[a/_amidst|amidst]], [[a/_among|among]]
 ---

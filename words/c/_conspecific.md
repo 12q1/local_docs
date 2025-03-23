@@ -7,5 +7,5 @@
 - **Relating to the same species**
 ---
 ### Antonyms
-- [[allospecific]]
+- [[a/_allospecific|allospecific]]
 ---

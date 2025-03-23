@@ -15,5 +15,5 @@
 - **(of one [[c/_curve|curve]] to [[a/_another|another]] [[c/_curve|curve]]) Having a relationship of the nature of an [[a/_adjoint|adjoint]] ([[a/_adjoint|adjoint]] [[c/_curve|curve]]); sharing multiple points with.**
 ---
 ### Synonyms
-- [[adjunct]]
+- [[a/_adjunct|adjunct]]
 ---

@@ -12,7 +12,7 @@
 - **[[c/_capable|Capable]] of [[b/_being|being]] used or seen.**
 ---
 ### Synonyms
-- [[approachable]], [[easy-going]], [[friendly]], [[welcoming]]
+- [[a/_approachable|approachable]], [[e/_easy-going|easy-going]], [[f/_friendly|friendly]], [[w/_welcoming|welcoming]]
 ### Antonyms
-- [[inaccessible]]
+- [[i/_inaccessible|inaccessible]]
 ---

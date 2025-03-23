@@ -4,5 +4,5 @@
 - **The young of a swan.**
 ---
 ### Synonyms
-- [[swanling]]
+- [[s/_swanling|swanling]]
 ---

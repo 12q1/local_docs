@@ -7,7 +7,7 @@
 	- _Example: Angry clouds conspire your overthrow._
 ---
 ### Synonyms
-- [[collogue]]
+- [[c/_collogue|collogue]]
 #noun
 - **[[c/_conspiracy|Conspiracy]]**
 ---

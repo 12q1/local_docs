@@ -6,5 +6,5 @@
 - **The [[a/_art|art]] of producing in one's [[e/_enemy|enemy]] the fear of [[a/_attacking|attacking]].**
 ---
 ### Synonyms
-- [[dissuasion]], [[intimidation]]
+- [[d/_dissuasion|dissuasion]], [[i/_intimidation|intimidation]]
 ---

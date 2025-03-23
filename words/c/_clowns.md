@@ -8,7 +8,7 @@
 - **One who works upon the soil; a rustic; a [[c/_churl|churl]]; a yokel.**
 ---
 ### Synonyms
-- [[buffoon]], [[fool]]
+- [[b/_buffoon|buffoon]], [[f/_fool|fool]]
 #verb
 - **To [[a/_act|act]] in a silly or playful fashion.**
 - **To ridicule.**

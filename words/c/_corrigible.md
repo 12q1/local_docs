@@ -7,7 +7,7 @@
 - **Having power to [[c/_correct|correct]].**
 ---
 ### Synonyms
-- [[correctable]], [[corrective]], [[docile]], [[punishable]]
+- [[c/_correctable|correctable]], [[c/_corrective|corrective]], [[d/_docile|docile]], [[p/_punishable|punishable]]
 ### Antonyms
-- [[incorrigible]]
+- [[i/_incorrigible|incorrigible]]
 ---

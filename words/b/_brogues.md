@@ -6,5 +6,5 @@
 - **A heavy shoe of untanned leather.**
 ---
 ### Synonyms
-- [[brogan]]
+- [[b/_brogan|brogan]]
 ---

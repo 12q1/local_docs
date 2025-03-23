@@ -2,10 +2,10 @@
 ---
 #adjective
 - **Thirsty for [[b/_blood|blood]]: inexorably violent or [[e/_eager|eager]] for [[b/_bloodshed|bloodshed]]; murderous.**
-- **Of a [[b/_book|book]], film, etc.: [[d/_depicting|depicting]] much violence; gory, violent.**
+- **Of a [[b/_book|book]], film, [[e/_etc|etc]].: [[d/_depicting|depicting]] much violence; gory, violent.**
 ---
 ### Synonyms
-- [[bloodlusty]], [[homicidal]], [[murderous]], [[murtherous]]
+- [[b/_bloodlusty|bloodlusty]], [[h/_homicidal|homicidal]], [[m/_murderous|murderous]], [[m/_murtherous|murtherous]]
 ### Antonyms
-- [[unbloodthirsty]]
+- [[u/_unbloodthirsty|unbloodthirsty]]
 ---

@@ -11,7 +11,7 @@
 - **A [[c/_cpu|CPU]] [[c/_clock|clock]] [[c/_cycle|cycle]], or T-state.**
 ---
 ### Synonyms
-- [[timepiece]], [[odometer]]
+- [[t/_timepiece|timepiece]], [[o/_odometer|odometer]]
 #verb
 - **To measure the [[d/_duration|duration]] of.**
 - **To measure the speed of.**
@@ -26,7 +26,7 @@
 	- _Example: Have you clocked that game yet?_
 ---
 ### Synonyms
-- [[check out]], [[scope out]], [[slug]], [[smack]], [[thump]], [[whack]], [[time]], [[turn back (the vehicle's) clock]], [[wind back (the vehicle's) clock]]
+- [[s/_slug|slug]], [[s/_smack|smack]], [[t/_thump|thump]], [[w/_whack|whack]], [[t/_time|time]]
 #noun
 - **A pattern near the heel of a sock or stocking.**
 ---
@@ -34,7 +34,7 @@
 - **To ornament ([[e/_e|e]].g. the side of a stocking) with figured work.**
 ---
 #noun
-- **A large [[b/_beetle|beetle]], especially the European [[d/_dung|dung]] [[b/_beetle|beetle]] (Geotrupes stercorarius).**
+- **A large [[b/_beetle|beetle]], [[e/_especially|especially]] the European [[d/_dung|dung]] [[b/_beetle|beetle]] (Geotrupes stercorarius).**
 ---
 #verb
 - **To make the sound of a hen; to [[c/_cluck|cluck]].**

@@ -4,5 +4,5 @@
 - **Once every year without fail, yearly**
 ---
 ### Synonyms
-- [[perennially]]
+- [[p/_perennially|perennially]]
 ---

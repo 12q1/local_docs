@@ -9,5 +9,5 @@
 	- _Example: The coterie was located in the middle of our wheat field._
 ---
 ### Synonyms
-- [[clique]]
+- [[c/_clique|clique]]
 ---

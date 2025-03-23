@@ -5,5 +5,5 @@
 - **The inability to write.**
 ---
 ### Synonyms
-- [[dysgraphia]]
+- [[d/_dysgraphia|dysgraphia]]
 ---

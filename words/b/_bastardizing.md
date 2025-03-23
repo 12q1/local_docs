@@ -7,7 +7,7 @@
 - **To [[b/_beget|beget]] out of wedlock.**
 ---
 ### Synonyms
-- [[mongrelize]]
+- [[m/_mongrelize|mongrelize]]
 #noun
 - **The [[a/_act|act]] or process by which something is [[b/_bastardized|bastardized]].**
 ---

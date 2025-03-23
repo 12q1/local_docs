@@ -5,7 +5,7 @@
 - **[[b/_bioscope|Bioscope]]; [[c/_cinema|cinema]]**
 ---
 #noun
-- **A person's life story, especially one published.**
+- **A person's life story, [[e/_especially|especially]] one published.**
 	- _Example: There are many biographies of Benjamin Franklin._
 - **The [[a/_art|art]] of writing this kind of story.**
 ---
@@ -16,5 +16,5 @@
 	- _Example: the biology of the whale_
 ---
 ### Synonyms
-- [[life science]], [[life sciences]], [[lifelore]]
+- [[l/_lifelore|lifelore]]
 ---

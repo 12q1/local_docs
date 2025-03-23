@@ -8,7 +8,7 @@
 - **To [[b/_break|break]] out in [[b/_blisters|blisters]].**
 ---
 ### Synonyms
-- [[vesicate]]
+- [[v/_vesicate|vesicate]]
 #adjective
 - **Having one or more [[b/_blisters|blisters]]**
 ---

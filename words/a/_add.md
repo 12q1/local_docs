@@ -21,7 +21,7 @@
 	- _Example: Typically, a hostile mob will add whenever it's within the aggro radius of a player._
 ---
 ### Synonyms
-- [[coalesce]], [[join]], [[unite]], [[bestow]], [[give]], [[annex]], [[augment]], [[increase]], [[add up]], [[sum]], [[mention]], [[note]]
+- [[c/_coalesce|coalesce]], [[j/_join|join]], [[u/_unite|unite]], [[b/_bestow|bestow]], [[g/_give|give]], [[a/_annex|annex]], [[a/_augment|augment]], [[i/_increase|increase]], [[s/_sum|sum]], [[m/_mention|mention]], [[n/_note|note]]
 ### Antonyms
-- [[remove]], [[subtract]]
+- [[r/_remove|remove]], [[s/_subtract|subtract]]
 ---

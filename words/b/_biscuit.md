@@ -10,9 +10,9 @@
 - **A light [[b/_brown|brown]] [[c/_colour|colour]].**
 - **A thin oval wafer of wood or other material inserted into mating slots on pieces of material to be joined to provide gluing surface and strength in shear.**
 - **A plastic [[c/_card|card]] [[b/_bearing|bearing]] the [[c/_codes|codes]] for [[a/_authorizing|authorizing]] a nuclear [[a/_attack|attack]].**
-- **(hiphop) A handgun, especially a revolver.**
+- **(hiphop) A handgun, [[e/_especially|especially]] a revolver.**
 - **(shuffleboard) A puck (hockey puck).**
 ---
 ### Synonyms
-- [[dowel]], [[finger joint]], [[glue strip]], [[spline]]
+- [[d/_dowel|dowel]], [[s/_spline|spline]]
 ---

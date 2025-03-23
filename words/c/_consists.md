@@ -8,11 +8,11 @@
 	- _Example: The greeting package consists of some brochures, a pen, and a notepad._
 ---
 ### Synonyms
-- [[be composed of]], [[comprise]]
+- [[c/_comprise|comprise]]
 #noun
 - **A lineup or sequence of railroad [[c/_carriages|carriages]] or [[c/_cars|cars]], with or without a locomotive, that form a unit.**
 	- _Example: The train's consist included a baggage car, four passenger cars, and a diner._
 ---
 ### Synonyms
-- [[formation]], [[rake]]
+- [[f/_formation|formation]], [[r/_rake|rake]]
 ---

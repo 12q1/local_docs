@@ -5,5 +5,5 @@
 - **Gossip.**
 ---
 ### Synonyms
-- [[chinwag]], [[claver]]
+- [[c/_chinwag|chinwag]], [[c/_claver|claver]]
 ---

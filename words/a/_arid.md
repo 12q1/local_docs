@@ -9,5 +9,5 @@
 	- _Example: The millionaire viewed his gift as arid._
 ---
 ### Antonyms
-- [[costly]], [[precious]], [[valuable]], [[damp]], [[drenched]], [[moist]], [[wet]], [[humid]], [[rainforest]]
+- [[c/_costly|costly]], [[p/_precious|precious]], [[v/_valuable|valuable]], [[d/_damp|damp]], [[d/_drenched|drenched]], [[m/_moist|moist]], [[w/_wet|wet]], [[h/_humid|humid]], [[r/_rainforest|rainforest]]
 ---

@@ -17,5 +17,5 @@
 - **[[c/_composed|Composed]] of three or more rings [[a/_attached|attached]] to a single [[c/_carbon|carbon]] [[a/_atom|atom]] (the rings not [[a/_all|all]] [[b/_being|being]] in the same plane).**
 ---
 ### Synonyms
-- [[rude]], [[rugged]]
+- [[r/_rude|rude]], [[r/_rugged|rugged]]
 ---

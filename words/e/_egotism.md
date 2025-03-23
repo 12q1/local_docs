@@ -7,5 +7,5 @@
 - **(by [[c/_confusion|confusion]] of the similar words) [[e/_egoism|Egoism]].**
 ---
 ### Synonyms
-- [[conceit]], [[pride]], [[vanity]], [[egocentrism]], [[egoism]]
+- [[c/_conceit|conceit]], [[p/_pride|pride]], [[v/_vanity|vanity]], [[e/_egocentrism|egocentrism]], [[e/_egoism|egoism]]
 ---

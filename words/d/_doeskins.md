@@ -6,6 +6,6 @@
 	- _Example: Frequently, doeskins had a higher value in trade than the skins of bucks, as they were considered of finer quality._
 - **([[c/_chiefly|chiefly]] in the plural) A glove made of [[d/_doeskin|doeskin]] leather.**
 	- _Example: Elizabeth accidentally left her doeskins on the pew at Sunday service._
-- **A very soft, [[c/_close|close]]-napped fabric, especially of high quality.**
+- **A very soft, [[c/_close|close]]-napped fabric, [[e/_especially|especially]] of high quality.**
 ---
 ---

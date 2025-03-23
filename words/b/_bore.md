@@ -26,5 +26,5 @@
 - **To fool; to trick.**
 ---
 ### Antonyms
-- [[interest]]
+- [[i/_interest|interest]]
 ---

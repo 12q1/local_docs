@@ -7,5 +7,5 @@
 - **Offering to an opponent a [[c/_choice|choice]] [[b/_between|between]] two ([[e/_equally|equally]] unfavorable) [[a/_alternatives|alternatives]].**
 ---
 ### Synonyms
-- [[bind]], [[fix]], [[pickle]], [[problem]], [[quandary]]
+- [[b/_bind|bind]], [[f/_fix|fix]], [[p/_pickle|pickle]], [[p/_problem|problem]], [[q/_quandary|quandary]]
 ---

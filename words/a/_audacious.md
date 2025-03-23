@@ -5,7 +5,7 @@
 - **Impudent.**
 ---
 ### Synonyms
-- [[bold]], [[daring]], [[temerarious]], [[temeritous]]
+- [[b/_bold|bold]], [[d/_daring|daring]], [[t/_temerarious|temerarious]], [[t/_temeritous|temeritous]]
 ### Antonyms
-- [[cautious]], [[prudent]], [[shy]]
+- [[c/_cautious|cautious]], [[p/_prudent|prudent]], [[s/_shy|shy]]
 ---

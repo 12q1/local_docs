@@ -1,9 +1,9 @@
 # Courteous
 ---
 #adjective
-- **Showing regard or thought for others; especially, [[d/_displaying|displaying]] good manners or etiquette.**
+- **Showing regard or thought for others; [[e/_especially|especially]], [[d/_displaying|displaying]] good manners or [[e/_etiquette|etiquette]].**
 	- _Example: a courteous gentleman   a courteous gesture_
 ---
 ### Antonyms
-- [[discourteous]], [[uncourteous]]
+- [[d/_discourteous|discourteous]], [[u/_uncourteous|uncourteous]]
 ---

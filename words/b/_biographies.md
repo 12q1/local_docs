@@ -1,7 +1,7 @@
 # Biographies
 ---
 #noun
-- **A person's life story, especially one published.**
+- **A person's life story, [[e/_especially|especially]] one published.**
 	- _Example: There are many biographies of Benjamin Franklin._
 - **The [[a/_art|art]] of writing this kind of story.**
 ---

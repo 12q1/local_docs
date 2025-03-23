@@ -7,7 +7,7 @@
 	- _Example: Are you aware of what is being said about you?_
 ---
 ### Synonyms
-- [[apprised]], [[cognizant]], [[conscious]], [[informed]], [[mindful]], [[alert]], [[attentive]], [[observant]], [[sensitive]], [[wary]], [[watchful]]
+- [[a/_apprised|apprised]], [[c/_cognizant|cognizant]], [[c/_conscious|conscious]], [[i/_informed|informed]], [[m/_mindful|mindful]], [[a/_alert|alert]], [[a/_attentive|attentive]], [[o/_observant|observant]], [[s/_sensitive|sensitive]], [[w/_wary|wary]], [[w/_watchful|watchful]]
 ### Antonyms
-- [[unaware]]
+- [[u/_unaware|unaware]]
 ---

@@ -6,5 +6,5 @@
 - **Without a physical [[b/_base|base]].**
 ---
 ### Synonyms
-- [[groundless]], [[unfounded]]
+- [[g/_groundless|groundless]], [[u/_unfounded|unfounded]]
 ---

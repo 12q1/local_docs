@@ -6,5 +6,5 @@
 - **To sour, to [[e/_embitter|embitter]].**
 ---
 ### Antonyms
-- [[alkalify]], [[basify]]
+- [[a/_alkalify|alkalify]], [[b/_basify|basify]]
 ---

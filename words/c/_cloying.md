@@ -6,12 +6,12 @@
 - **To fill to loathing; to surfeit.**
 ---
 ### Synonyms
-- [[block]], [[block up]], [[choke]], [[fill]], [[fill up]], [[stop up]], [[stuff]], [[stuff up]], [[jade]], [[nauseate]], [[pall]], [[sicken]], [[surfeit]], [[fill up]], [[glut]], [[gorge]], [[sate]], [[satiate]], [[satisfy]], [[stodge]], [[stuff]], [[stuff up]]
+- [[b/_block|block]], [[c/_choke|choke]], [[f/_fill|fill]], [[s/_stuff|stuff]], [[j/_jade|jade]], [[n/_nauseate|nauseate]], [[p/_pall|pall]], [[s/_sicken|sicken]], [[s/_surfeit|surfeit]], [[g/_glut|glut]], [[g/_gorge|gorge]], [[s/_sate|sate]], [[s/_satiate|satiate]], [[s/_satisfy|satisfy]], [[s/_stodge|stodge]], [[s/_stuff|stuff]]
 #adjective
 - **Unpleasantly excessive.**
 	- _Example: The cloying fondness she displayed was what, in the end, drove me away._
 - **Excessively sweet.**
 ---
 ### Synonyms
-- [[oversweet]], [[saccharine]], [[syrupy]], [[treacly]], [[exaggerated]]
+- [[o/_oversweet|oversweet]], [[s/_saccharine|saccharine]], [[s/_syrupy|syrupy]], [[t/_treacly|treacly]], [[e/_exaggerated|exaggerated]]
 ---

@@ -5,5 +5,5 @@
 - **The fruit of plants in the genus Myrica.**
 ---
 ### Synonyms
-- [[bay-rum]], [[bayberry]], [[sweet gale]], [[wax-myrtle]]
+- [[b/_bay-rum|bay-rum]], [[b/_bayberry|bayberry]], [[w/_wax-myrtle|wax-myrtle]]
 ---

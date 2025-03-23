@@ -5,7 +5,7 @@
 	- _Example: I almost died in a capricious winter storm._
 ---
 ### Synonyms
-- [[arbitrary]], [[whimsical]]
+- [[a/_arbitrary|arbitrary]], [[w/_whimsical|whimsical]]
 ### Antonyms
-- [[conscientious]], [[rigorous]]
+- [[c/_conscientious|conscientious]], [[r/_rigorous|rigorous]]
 ---

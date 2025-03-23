@@ -5,5 +5,5 @@
 - **A likeness of a person.**
 ---
 ### Synonyms
-- [[figure]], [[image]], [[picture]]
+- [[f/_figure|figure]], [[i/_image|image]], [[p/_picture|picture]]
 ---

@@ -7,7 +7,7 @@
 - **Food; sustenance; support of life, in general.**
 ---
 ### Synonyms
-- [[dough]], [[folding stuff]], [[lolly]], [[paper]], [[spondulicks]], [[wonga]]
+- [[d/_dough|dough]], [[l/_lolly|lolly]], [[p/_paper|paper]], [[s/_spondulicks|spondulicks]], [[w/_wonga|wonga]]
 #verb
 - **To [[c/_coat|coat]] with breadcrumbs**
 ---

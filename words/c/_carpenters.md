@@ -8,5 +8,5 @@
 - **A woodlouse.**
 ---
 ### Synonyms
-- [[chippy]], [[joiner]]
+- [[c/_chippy|chippy]], [[j/_joiner|joiner]]
 ---

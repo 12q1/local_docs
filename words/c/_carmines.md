@@ -5,5 +5,5 @@
 - **A purplish-red [[c/_colour|colour]], resembling that pigment.**
 ---
 ### Synonyms
-- [[C.I. 75470]], [[E120]], [[cochineal]], [[crimson]]
+- [[E/_E120|E120]], [[c/_cochineal|cochineal]], [[c/_crimson|crimson]]
 ---

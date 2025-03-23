@@ -9,7 +9,7 @@
 	- _Example: The effect of flying was most convincing._
 - **(sound [[e/_engineering|engineering]]) An [[a/_alteration|alteration]], or [[d/_device|device]] for producing an [[a/_alteration|alteration]], in sound [[a/_after|after]] it has [[b/_been|been]] produced by an instrument.**
 	- _Example: I just bought a couple of great effects._
-- **(etc.) A scientific phenomenon, usually named [[a/_after|after]] its [[d/_discoverer|discoverer]].**
+- **([[e/_etc|etc]].) A scientific phenomenon, usually named [[a/_after|after]] its [[d/_discoverer|discoverer]].**
 	- _Example: Doppler effect_
 - **(usually in the plural) [[b/_belongings|Belongings]], usually as personal [[e/_effects|effects]].**
 - **[[c/_consequence|Consequence]] intended; purpose; meaning; general intent; with to.**

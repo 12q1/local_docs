@@ -11,7 +11,7 @@
 - **A harp seal pup [[a/_after|after]] its first moult and [[b/_before|before]] its second moult.**
 ---
 ### Synonyms
-- [[drum stick]]
+- 
 #noun
 - **A sleeveless undershirt.**
 ---

@@ -6,7 +6,7 @@
 - **An overly materialistic and selfish young Jewish man.**
 ---
 ### Synonyms
-- [[JAP]], [[kugel]]
+- [[J/_JAP|JAP]], [[k/_kugel|kugel]]
 #verb
 - **To [[a/_achieve|achieve]] a score of 6-0 in a tennis set.**
 - **To hold an opponent to a score of zero.**

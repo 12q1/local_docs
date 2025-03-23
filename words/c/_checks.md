@@ -6,7 +6,7 @@
 	- _Example: I don't know if she will be there, but it's worth a check._
 - **A [[c/_control|control]]; a limit or stop.**
 	- _Example: The castle moat should hold the enemy in check._
-- **A mark (especially a [[c/_checkmark|checkmark]]: ✓) used as an indicator.**
+- **A mark ([[e/_especially|especially]] a [[c/_checkmark|checkmark]]: ✓) used as an indicator.**
 	- _Example: Place a check by the things you have done._
 - **An order to a [[b/_bank|bank]] to pay money to a named person or [[e/_entity|entity]].**
 	- _Example: I was not carrying cash, so I wrote a check for the amount._
@@ -16,13 +16,13 @@
 	- _Example: The hockey player gave a good hard check to obtain the puck._
 - **A token used instead of [[c/_cash|cash]] in gaming machines, or in gambling generally.**
 - **A lengthwise separation through the growth rings in wood.**
-- **A mark, [[c/_certificate|certificate]] or token by which errors may be prevented, or a thing or person may be identified.**
+- **A mark, [[c/_certificate|certificate]] or token by which [[e/_errors|errors]] may be prevented, or a thing or person may be identified.**
 	- _Example: a check given for baggage_
 - **The forsaking by a hawk of its proper game to follow other [[b/_birds|birds]].**
 - **A small [[c/_chink|chink]] or [[c/_crack|crack]].**
 ---
 ### Synonyms
-- [[bill]], [[cheque]], [[checkmark]], [[tick]], [[cheque]]
+- [[b/_bill|bill]], [[c/_cheque|cheque]], [[c/_checkmark|checkmark]], [[t/_tick|tick]], [[c/_cheque|cheque]]
 #verb
 - **To inspect; to examine.**
 	- _Example: Check the oil in your car once a month._
@@ -46,7 +46,7 @@
 - **To make a move which puts an [[a/_adversary|adversary]]'s king in [[c/_check|check]]; to put in [[c/_check|check]].**
 - **To [[c/_chide|chide]], rebuke, or reprove.**
 - **To slack or [[e/_ease|ease]] off, as a [[b/_brace|brace]] which is too stiffly extended.**
-- **To [[c/_crack|crack]] or gape open, as wood in [[d/_drying|drying]]; or to [[c/_crack|crack]] in small [[c/_checks|checks]], as varnish, paint, etc.**
+- **To [[c/_crack|crack]] or gape open, as wood in [[d/_drying|drying]]; or to [[c/_crack|crack]] in small [[c/_checks|checks]], as varnish, paint, [[e/_etc|etc]].**
 - **To make [[c/_checks|checks]] or [[c/_chinks|chinks]] in; to [[c/_cause|cause]] to [[c/_crack|crack]].**
 	- _Example: The sun checks timber._
 - **To make a stop; to pause; with at.**
@@ -55,9 +55,9 @@
 - **To turn, when in pursuit of proper game, and fly [[a/_after|after]] other [[b/_birds|birds]].**
 ---
 ### Synonyms
-- [[attack]], [[tackle]], [[trap]], [[check off]], [[cross off]], [[strike off]], [[tick]], [[tick off]], [[curtail]], [[restrain]]
+- [[a/_attack|attack]], [[t/_tackle|tackle]], [[t/_trap|trap]], [[t/_tick|tick]], [[c/_curtail|curtail]], [[r/_restrain|restrain]]
 ### Antonyms
-- [[uncheck]]
+- [[u/_uncheck|uncheck]]
 #noun
 - **(usually pluralized) A pattern made up of a grid of squares of [[a/_alternating|alternating]] [[c/_colors|colors]]; a [[c/_checkered|checkered]] pattern.**
 	- _Example: The tablecloth had red and white checks._

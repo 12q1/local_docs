@@ -21,9 +21,9 @@
 	- _Example: Can I borrow a sheet of paper?_
 ---
 ### Synonyms
-- [[adopt]], [[use]]
+- [[a/_adopt|adopt]], [[u/_use|use]]
 ### Antonyms
-- [[carry]], [[give back]], [[lend]], [[return]]
+- [[c/_carry|carry]], [[l/_lend|lend]], [[r/_return|return]]
 #noun
 - **A ransom; a pledge or guarantee.**
 - **A surety; someone standing [[b/_bail|bail]].**

@@ -1,7 +1,7 @@
 # Cacodylate
 ---
 #noun
-- **[[a/_any|Any]] salt or ester of [[c/_cacodylic|cacodylic]] [[a/_acid|acid]]**
+- **[[a/_any|Any]] salt or [[e/_ester|ester]] of [[c/_cacodylic|cacodylic]] [[a/_acid|acid]]**
 ---
 #verb
 - **To react or to treat with [[c/_cacodylic|cacodylic]] [[a/_acid|acid]]**

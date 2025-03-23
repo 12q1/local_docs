@@ -10,7 +10,7 @@
 - **To imprint or paint with [[b/_bars|bars]], to stripe.**
 ---
 ### Synonyms
-- [[block]], [[hinder]], [[obstruct]], [[ban]], [[interdict]], [[prohibit]]
+- [[b/_block|block]], [[h/_hinder|hinder]], [[o/_obstruct|obstruct]], [[b/_ban|ban]], [[i/_interdict|interdict]], [[p/_prohibit|prohibit]]
 #noun
 - **([[c/_collective|collective]]) [[b/_bars|Bars]]; an [[a/_arrangement|arrangement]] or pattern of stripes or [[b/_bars|bars]].**
 - **The [[a/_act|act]] of fitting or [[c/_closing|closing]] something with [[b/_bars|bars]].**
@@ -19,11 +19,11 @@
 - **The sewing of a [[d/_decorative|decorative]] [[b/_bar|bar]] or tack upon a fabric or leather.**
 ---
 ### Synonyms
-- [[tacking]]
+- [[t/_tacking|tacking]]
 #preposition
 - **Unless something happens; excepting; in the [[a/_absence|absence]] of.**
 	- _Example: Barring any further red tape, we will finally be able to open the restaurant._
 ---
 ### Synonyms
-- [[apart from]], [[except for]], [[save for]]
+- 
 ---

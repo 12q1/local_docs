@@ -7,5 +7,5 @@
 - **[[d/_disappointed|Disappointed]]; experiencing [[d/_disillusionment|disillusionment]]; having lost one's illusions.**
 ---
 ### Antonyms
-- [[inspired]]
+- [[i/_inspired|inspired]]
 ---

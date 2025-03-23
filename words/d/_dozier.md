@@ -8,5 +8,5 @@
 	- _Example: dozy wood_
 ---
 ### Synonyms
-- [[doty]]
+- [[d/_doty|doty]]
 ---

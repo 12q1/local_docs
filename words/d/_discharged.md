@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[a/_accomplish|accomplish]] or [[c/_complete|complete]], as an obligation.**
-- **To free of a [[d/_debt|debt]], [[c/_claim|claim]], obligation, responsibility, [[a/_accusation|accusation]], etc.; to [[a/_absolve|absolve]]; to [[a/_acquit|acquit]]; to forgive; to [[c/_clear|clear]].**
+- **To free of a [[d/_debt|debt]], [[c/_claim|claim]], obligation, responsibility, [[a/_accusation|accusation]], [[e/_etc|etc]].; to [[a/_absolve|absolve]]; to [[a/_acquit|acquit]]; to forgive; to [[c/_clear|clear]].**
 - **To send [[a/_away|away]] (a [[c/_creditor|creditor]]) satisfied by payment; to pay one's [[d/_debt|debt]] or obligation to.**
 - **To set [[a/_aside|aside]]; to [[a/_annul|annul]]; to [[d/_dismiss|dismiss]].**
 - **To expel or let go.**
@@ -25,5 +25,5 @@
 - **To prohibit; to forbid.**
 ---
 ### Synonyms
-- [[fire]], [[let go]], [[terminate]]
+- [[f/_fire|fire]], [[t/_terminate|terminate]]
 ---

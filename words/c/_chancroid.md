@@ -5,5 +5,5 @@
 - **A sore [[c/_characteristic|characteristic]] of this infection.**
 ---
 ### Synonyms
-- [[soft chancre]], [[ulcus molle]]
+- 
 ---

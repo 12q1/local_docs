@@ -16,7 +16,7 @@
 - **To trick somebody.**
 ---
 ### Synonyms
-- [[duck]], [[evade]], [[fudge]], [[shun]], [[skirt]]
+- [[d/_duck|duck]], [[e/_evade|evade]], [[f/_fudge|fudge]], [[s/_shun|shun]], [[s/_skirt|skirt]]
 #adjective
 - **[[d/_dodgy|Dodgy]]**
 ---

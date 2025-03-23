@@ -8,10 +8,10 @@
 - **Overly [[e/_eager|eager]] to please or obey.**
 ---
 ### Synonyms
-- [[dignified]], [[genteel]], [[refined]], [[well-mannered]], [[flattering]], [[obsequious]], [[servile]]
+- [[d/_dignified|dignified]], [[g/_genteel|genteel]], [[r/_refined|refined]], [[w/_well-mannered|well-mannered]], [[f/_flattering|flattering]], [[o/_obsequious|obsequious]], [[s/_servile|servile]]
 #adverb
 - **In the manner of a royal [[c/_court|court]]; in a manner [[b/_befitting|befitting]] of a royal [[c/_court|court]].**
 ---
 ### Synonyms
-- [[courtlily]]
+- [[c/_courtlily|courtlily]]
 ---

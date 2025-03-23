@@ -5,5 +5,5 @@
 - **Relating to or [[c/_containing|containing]] [[a/_axioms|axioms]].**
 ---
 ### Synonyms
-- [[axiomatical]], [[self-evident]]
+- [[a/_axiomatical|axiomatical]], [[s/_self-evident|self-evident]]
 ---

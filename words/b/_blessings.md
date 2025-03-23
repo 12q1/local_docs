@@ -13,5 +13,5 @@
 - **A group of unicorns.**
 ---
 ### Antonyms
-- [[curse]]
+- [[c/_curse|curse]]
 ---

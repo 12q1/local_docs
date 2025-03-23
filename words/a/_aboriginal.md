@@ -7,7 +7,7 @@
 - **Of or pertaining to [[a/_australian|Australian]] [[a/_aboriginal|Aboriginal]] peoples, [[a/_aborigines|Aborigines]], or their language.**
 ---
 ### Synonyms
-- [[Eskimo]], [[First Nations]], [[First Peoples]], [[Indian]], [[Inuit]], [[Metis]], [[Native]], [[Native American]], [[aboriginal]], [[native]], [[Aborigine]], [[aboriginal]], [[aborigine]]
+- [[E/_Eskimo|Eskimo]], [[I/_Indian|Indian]], [[I/_Inuit|Inuit]], [[M/_Metis|Metis]], [[N/_Native|Native]], [[a/_aboriginal|aboriginal]], [[n/_native|native]], [[A/_Aborigine|Aborigine]], [[a/_aboriginal|aboriginal]], [[a/_aborigine|aborigine]]
 #noun
 - **An [[a/_animal|animal]] or plant native to a region.**
 ---
@@ -16,5 +16,5 @@
 - **Living in a land [[b/_before|before]] [[c/_colonization|colonization]] by the Europeans.**
 ---
 ### Synonyms
-- [[ancient]], [[autochthonous]], [[earliest]], [[endemic]], [[first]], [[indigenous]], [[native]], [[original]], [[primeval]], [[primitive]], [[primordial]]
+- [[a/_ancient|ancient]], [[a/_autochthonous|autochthonous]], [[e/_earliest|earliest]], [[e/_endemic|endemic]], [[f/_first|first]], [[i/_indigenous|indigenous]], [[n/_native|native]], [[o/_original|original]], [[p/_primeval|primeval]], [[p/_primitive|primitive]], [[p/_primordial|primordial]]
 ---

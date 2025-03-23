@@ -6,5 +6,5 @@
 - **[[a/_any|Any]] turn or winding.**
 ---
 ### Synonyms
-- [[bayou]], [[branch]], [[brook]], [[run]], [[beck]], [[brook]], [[burn]], [[stream]]
+- [[b/_bayou|bayou]], [[b/_branch|branch]], [[b/_brook|brook]], [[r/_run|run]], [[b/_beck|beck]], [[b/_brook|brook]], [[b/_burn|burn]], [[s/_stream|stream]]
 ---

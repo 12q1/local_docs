@@ -7,5 +7,5 @@
 - **A senior member of the staff at an institution of higher learning; pedant.**
 ---
 ### Synonyms
-- [[academia]], [[academy]], [[pedant]]
+- [[a/_academia|academia]], [[a/_academy|academy]], [[p/_pedant|pedant]]
 ---

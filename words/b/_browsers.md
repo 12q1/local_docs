@@ -6,5 +6,5 @@
 - **A web [[b/_browser|browser]].**
 ---
 ### Antonyms
-- [[nonbrowser]]
+- [[n/_nonbrowser|nonbrowser]]
 ---

@@ -9,7 +9,7 @@
 	- _Example: I thought I could always go back to work._
 ---
 ### Synonyms
-- [[all the time]], [[continually]], [[every time]], [[perpetually]], [[anyhow]], [[anyway]], [[at any rate]], [[regardless]], [[invariably]], [[uniformly]]
+- [[c/_continually|continually]], [[p/_perpetually|perpetually]], [[a/_anyhow|anyhow]], [[a/_anyway|anyway]], [[r/_regardless|regardless]], [[i/_invariably|invariably]], [[u/_uniformly|uniformly]]
 ### Antonyms
-- [[at no time]], [[never]], [[manywise]], [[sundrily]], [[variously]]
+- [[n/_never|never]], [[m/_manywise|manywise]], [[s/_sundrily|sundrily]], [[v/_variously|variously]]
 ---

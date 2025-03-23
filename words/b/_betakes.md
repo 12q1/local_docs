@@ -13,5 +13,5 @@
 - **To take oneself.**
 ---
 ### Synonyms
-- [[wend]]
+- [[w/_wend|wend]]
 ---

@@ -7,7 +7,7 @@
 	- _Example: There were a few dates planted around the house._
 ---
 #noun
-- **The [[a/_addition|addition]] to a writing, inscription, [[c/_coin|coin]], etc., which specifies the time (especially the [[d/_day|day]], month, and year) when the writing or inscription was given, executed, or made.**
+- **The [[a/_addition|addition]] to a writing, inscription, [[c/_coin|coin]], [[e/_etc|etc]]., which specifies the time ([[e/_especially|especially]] the [[d/_day|day]], month, and year) when the writing or inscription was given, executed, or made.**
 	- _Example: the date of a letter, of a will, of a deed, of a coin, etc._
 - **A specific [[d/_day|day]] in time at which a transaction or event takes place, or is [[a/_appointed|appointed]] to take place; a given point of time.**
 	- _Example: Do you know the date of the wedding?_
@@ -32,10 +32,10 @@
 - **(by extension) To have a steady relationship with; to be romantically involved with.**
 - **(by extension) To have a steady relationship with [[e/_each|each]] other; to be romantically involved with [[e/_each|each]] other.**
 	- _Example: They met a couple of years ago, but have been dating for about five months._
-- **To make or [[b/_become|become]] old, especially in such a way as to fall out of fashion, [[b/_become|become]] less [[a/_appealing|appealing]] or [[a/_attractive|attractive]], etc.**
+- **To make or [[b/_become|become]] old, [[e/_especially|especially]] in such a way as to fall out of fashion, [[b/_become|become]] less [[a/_appealing|appealing]] or [[a/_attractive|attractive]], [[e/_etc|etc]].**
 	- _Example: The comedian dated himself by making quips about bands from the 1960s._
 - **(with from) To have [[b/_beginning|beginning]]; to [[b/_begin|begin]]; to be [[d/_dated|dated]] or reckoned.**
 ---
 ### Synonyms
-- [[age]], [[elden]], [[obsolesce]], [[go out]], [[see]]
+- [[a/_age|age]], [[e/_elden|elden]], [[o/_obsolesce|obsolesce]], [[s/_see|see]]
 ---

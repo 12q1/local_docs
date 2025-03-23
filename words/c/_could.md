@@ -12,9 +12,9 @@
 - **To know.**
 ---
 ### Synonyms
-- [[be able to]], [[cognize]], [[grok]], [[ken]], [[may]]
+- [[c/_cognize|cognize]], [[g/_grok|grok]], [[k/_ken|ken]], [[m/_may|may]]
 ### Antonyms
-- [[can't]], [[cannot]], [[can’t]]
+- [[c/_can't|can't]], [[c/_cannot|cannot]], [[c/_can’t|can’t]]
 #noun
 - **Something that [[c/_could|could]] happen, or [[c/_could|could]] be the [[c/_case|case]], under [[d/_different|different]] [[c/_circumstances|circumstances]]; a potentiality.**
 ---

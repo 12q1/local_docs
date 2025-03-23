@@ -6,5 +6,5 @@
 - **A kind of needle with a rounded tip.**
 ---
 ### Synonyms
-- [[biro]]
+- [[b/_biro|biro]]
 ---

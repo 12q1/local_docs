@@ -1,7 +1,7 @@
 # Efface
 ---
 #verb
-- **To erase (as [[a/_anything|anything]] impressed or inscribed upon a surface); to render illegible or indiscernible.**
+- **To [[e/_erase|erase]] (as [[a/_anything|anything]] impressed or inscribed upon a surface); to render illegible or indiscernible.**
 	- _Example: Do not efface what I've written on the chalkboard._
 - **To [[c/_cause|cause]] to [[d/_disappear|disappear]] as if by rubbing out or striking out.**
 	- _Example: Some people like to efface their own memories with alcohol._

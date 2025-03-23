@@ -8,5 +8,5 @@
 	- _Example: There are ten loads, aggregating five hundred bushels._
 ---
 ### Antonyms
-- [[segregate]]
+- [[s/_segregate|segregate]]
 ---

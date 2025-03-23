@@ -18,7 +18,7 @@
 	- _Example: He never seems to consider the feelings of others._
 ---
 ### Synonyms
-- [[bethink]], [[deliberate]], [[bethink]], [[reflect]], [[bethink]], [[think of]], [[deem]], [[regard]], [[think of]], [[observe]], [[regard]], [[take into account]]
+- [[b/_bethink|bethink]], [[d/_deliberate|deliberate]], [[b/_bethink|bethink]], [[r/_reflect|reflect]], [[b/_bethink|bethink]], [[d/_deem|deem]], [[r/_regard|regard]], [[o/_observe|observe]], [[r/_regard|regard]]
 #noun
 - **[[c/_consideration|Consideration]].**
 ---
@@ -31,5 +31,5 @@
 	- _Example: Considering the extent of his crimes, he was given a surprisingly short sentence._
 ---
 ### Synonyms
-- [[in view of]]
+- 
 ---

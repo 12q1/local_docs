@@ -11,5 +11,5 @@
 	- _Example: an armoured unit; the Royal Canadian Armoured Corps_
 ---
 ### Synonyms
-- [[mechanized]], [[tank]], [[mailed]]
+- [[m/_mechanized|mechanized]], [[t/_tank|tank]], [[m/_mailed|mailed]]
 ---

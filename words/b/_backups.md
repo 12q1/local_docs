@@ -11,5 +11,5 @@
 	- _Example: He's got a gun! You'd better send for backup._
 ---
 ### Synonyms
-- [[line]], [[tailback]], [[reserve]], [[spare]], [[stand-in]], [[substitute]]
+- [[l/_line|line]], [[t/_tailback|tailback]], [[r/_reserve|reserve]], [[s/_spare|spare]], [[s/_stand-in|stand-in]], [[s/_substitute|substitute]]
 ---

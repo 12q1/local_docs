@@ -1,8 +1,8 @@
 # Cloisters
 ---
 #noun
-- **A [[c/_covered|covered]] walk with an open [[c/_colonnade|colonnade]] on one side, running [[a/_along|along]] the walls of [[b/_buildings|buildings]] that face a quadrangle; especially:**
-- **A place, especially a monastery or [[c/_convent|convent]], [[d/_devoted|devoted]] to religious seclusion.**
+- **A [[c/_covered|covered]] walk with an open [[c/_colonnade|colonnade]] on one side, running [[a/_along|along]] the walls of [[b/_buildings|buildings]] that face a quadrangle; [[e/_especially|especially]]:**
+- **A place, [[e/_especially|especially]] a monastery or [[c/_convent|convent]], [[d/_devoted|devoted]] to religious seclusion.**
 - **The monastic life.**
 ---
 #verb
@@ -14,5 +14,5 @@
 - **To protect or isolate.**
 ---
 ### Synonyms
-- [[enter religion]]
+- 
 ---

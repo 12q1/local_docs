@@ -8,5 +8,5 @@
 - **To inflict a severe [[e/_electric|electric]] shock (not necessarily fatal) upon.**
 ---
 ### Synonyms
-- [[electrify]]
+- [[e/_electrify|electrify]]
 ---

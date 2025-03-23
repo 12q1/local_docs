@@ -6,5 +6,5 @@
 - **[[d/_developed|Developed]] from an independent [[c/_centre|centre]] of ossification.**
 ---
 ### Antonyms
-- [[exogenous]]
+- [[e/_exogenous|exogenous]]
 ---

@@ -6,5 +6,5 @@
 - **A [[c/_critical|critical]] observation or [[d/_detailed|detailed]] examination and review.**
 ---
 ### Synonyms
-- [[animadversion]], [[censure]], [[critique]]
+- [[a/_animadversion|animadversion]], [[c/_censure|censure]], [[c/_critique|critique]]
 ---

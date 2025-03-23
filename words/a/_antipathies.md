@@ -6,7 +6,7 @@
 	- _Example: oil and water have antipathy_
 ---
 ### Synonyms
-- [[aversion]], [[contrariety]], [[disgust]], [[dislike]], [[distaste]], [[enmity]], [[hatred]], [[ill will]], [[opposition]], [[repugnance]]
+- [[a/_aversion|aversion]], [[c/_contrariety|contrariety]], [[d/_disgust|disgust]], [[d/_dislike|dislike]], [[d/_distaste|distaste]], [[e/_enmity|enmity]], [[h/_hatred|hatred]], [[o/_opposition|opposition]], [[r/_repugnance|repugnance]]
 ### Antonyms
-- [[sympathy]]
+- [[s/_sympathy|sympathy]]
 ---

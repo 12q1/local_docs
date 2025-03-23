@@ -8,5 +8,5 @@
 - **Satisfying a [[c/_congruence|congruence]] relation.**
 ---
 ### Synonyms
-- [[congruous]]
+- [[c/_congruous|congruous]]
 ---

@@ -4,5 +4,5 @@
 - **A practitioner of [[c/_chiropody|chiropody]]**
 ---
 ### Synonyms
-- [[podiatrist]]
+- [[p/_podiatrist|podiatrist]]
 ---

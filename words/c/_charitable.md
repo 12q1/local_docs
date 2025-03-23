@@ -6,5 +6,5 @@
 - **Having a purpose or [[c/_character|character]] of a [[c/_charity|charity]].**
 ---
 ### Synonyms
-- [[eleemosynary]]
+- [[e/_eleemosynary|eleemosynary]]
 ---

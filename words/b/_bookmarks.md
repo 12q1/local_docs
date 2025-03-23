@@ -6,7 +6,7 @@
 - **A pointer found in a nonclustered index to a row in a [[c/_clustered|clustered]] index or a table heap**
 ---
 ### Synonyms
-- [[favourites]]
+- [[f/_favourites|favourites]]
 #verb
 - **To [[c/_create|create]] a [[b/_bookmark|bookmark]].**
 ---

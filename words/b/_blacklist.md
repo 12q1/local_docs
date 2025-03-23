@@ -5,13 +5,13 @@
 	- _Example: The software included a lengthy blacklist of disreputable websites to block._
 ---
 ### Synonyms
-- [[blocklist]]
+- [[b/_blocklist|blocklist]]
 ### Antonyms
-- [[greylist]], [[whitelist]]
+- [[g/_greylist|greylist]], [[w/_whitelist|whitelist]]
 #verb
 - **To place on a [[b/_blacklist|blacklist]]; to mark a person or [[e/_entity|entity]] as one to be shunned or [[b/_banned|banned]].**
 	- _Example: You can blacklist known spammers with that button._
 ---
 ### Synonyms
-- [[blackball]], [[send to Coventry]]
+- [[b/_blackball|blackball]]
 ---

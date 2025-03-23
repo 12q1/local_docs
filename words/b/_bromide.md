@@ -10,7 +10,7 @@
 - **A print made on [[b/_bromide|bromide]] paper.**
 ---
 ### Synonyms
-- [[platitude]]
+- [[p/_platitude|platitude]]
 ### Antonyms
-- [[sulphite]]
+- [[s/_sulphite|sulphite]]
 ---

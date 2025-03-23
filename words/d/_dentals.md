@@ -5,5 +5,5 @@
 - **A [[d/_dental|dental]] sound.**
 ---
 ### Synonyms
-- [[prophy]]
+- [[p/_prophy|prophy]]
 ---

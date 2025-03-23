@@ -9,5 +9,5 @@
 - **Multicolored.**
 ---
 ### Synonyms
-- [[bleached]], [[decoloured]], [[whitened]], [[blemished]], [[maculate]], [[tarnished]], [[motley]], [[multihued]], [[polychromatic]]
+- [[b/_bleached|bleached]], [[d/_decoloured|decoloured]], [[w/_whitened|whitened]], [[b/_blemished|blemished]], [[m/_maculate|maculate]], [[t/_tarnished|tarnished]], [[m/_motley|motley]], [[m/_multihued|multihued]], [[p/_polychromatic|polychromatic]]
 ---

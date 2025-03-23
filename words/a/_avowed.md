@@ -6,7 +6,7 @@
 - **To [[a/_acknowledge|acknowledge]] and justify, as an [[a/_act|act]] [[d/_done|done]]. See [[a/_avowry|avowry]].**
 ---
 ### Antonyms
-- [[disavow]]
+- [[d/_disavow|disavow]]
 #adjective
 - **Openly [[a/_acknowledged|acknowledged]]**
 - **Positively stated**

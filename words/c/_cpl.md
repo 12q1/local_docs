@@ -10,5 +10,5 @@
 - **That which joins or links two things together; a [[b/_bond|bond]] or tie; a [[c/_coupler|coupler]].**
 ---
 ### Synonyms
-- [[few]], [[handful]], [[brace]], [[pair]]
+- [[f/_few|few]], [[h/_handful|handful]], [[b/_brace|brace]], [[p/_pair|pair]]
 ---

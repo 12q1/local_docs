@@ -5,5 +5,5 @@
 - **A woodworking saw used for straight or [[c/_curved|curved]] [[c/_cuts|cuts]].**
 ---
 ### Synonyms
-- [[Finn saw]], [[Swede saw]], [[buck saw]], [[frame saw]], [[turning saw]]
+- 
 ---

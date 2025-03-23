@@ -9,7 +9,7 @@
 - **(usually uncountable) The [[e/_edible|edible]] part of the root of a [[b/_beet|beet]] plant, raw or prepared.**
 ---
 ### Synonyms
-- [[red beet]], [[table beet]]
+- 
 #verb
 - **To turn a [[b/_bright|bright]] red or purple [[c/_colour|colour]].**
 ---

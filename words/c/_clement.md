@@ -5,5 +5,5 @@
 - **Mild (said of weather and similar [[c/_circumstances|circumstances]]).**
 ---
 ### Antonyms
-- [[inclement]]
+- [[i/_inclement|inclement]]
 ---

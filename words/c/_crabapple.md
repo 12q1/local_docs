@@ -6,5 +6,5 @@
 - **An unpleasant person; a person who is [[c/_crabby|crabby]].**
 ---
 ### Synonyms
-- [[grouch]], [[grump]], [[misery]], [[moaner]], [[crab]], [[crab]], [[crab tree]]
+- [[g/_grouch|grouch]], [[g/_grump|grump]], [[m/_misery|misery]], [[m/_moaner|moaner]], [[c/_crab|crab]], [[c/_crab|crab]]
 ---

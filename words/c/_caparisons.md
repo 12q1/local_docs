@@ -1,7 +1,7 @@
 # Caparisons
 ---
 #noun
-- **The often ornamental [[c/_coverings|coverings]] for an [[a/_animal|animal]], especially a horse or an [[e/_elephant|elephant]].**
+- **The often ornamental [[c/_coverings|coverings]] for an [[a/_animal|animal]], [[e/_especially|especially]] a horse or an [[e/_elephant|elephant]].**
 - **Gay or rich [[c/_clothing|clothing]].**
 ---
 #verb

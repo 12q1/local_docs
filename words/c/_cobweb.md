@@ -1,7 +1,7 @@
 # Cobweb
 ---
 #noun
-- **A spiderweb, or the remains of one, especially an [[a/_asymmetrical|asymmetrical]] one that is woven with an irregular pattern of threads.**
+- **A spiderweb, or the remains of one, [[e/_especially|especially]] an [[a/_asymmetrical|asymmetrical]] one that is woven with an irregular pattern of threads.**
 - **One of its filaments; gossamer**
 - **Something thin and unsubstantial, or flimsy and worthless; valueless remainder.**
 - **An intricate plot to [[c/_catch|catch]] the unwary**

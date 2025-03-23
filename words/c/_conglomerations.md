@@ -5,5 +5,5 @@
 - **An instance of [[c/_conglomerating|conglomerating]], a [[c/_coming|coming]] together of separate parts.**
 ---
 ### Synonyms
-- [[conglomerate]]
+- [[c/_conglomerate|conglomerate]]
 ---

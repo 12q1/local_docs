@@ -4,5 +4,5 @@
 - **The tissue of the skin underlying the [[e/_epidermis|epidermis]].**
 ---
 ### Synonyms
-- [[corium]], [[cutis]], [[cutis vera]], [[derm]], [[derma]], [[true skin]]
+- [[c/_corium|corium]], [[c/_cutis|cutis]], [[d/_derm|derm]], [[d/_derma|derma]]
 ---

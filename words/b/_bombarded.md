@@ -6,5 +6,5 @@
 - **To [[d/_direct|direct]] at a substance an intense stream of high-[[e/_energy|energy]] particles, usually sub-[[a/_atomic|atomic]] or made of at most a few [[a/_atoms|atoms]].**
 ---
 ### Synonyms
-- [[bomb]]
+- [[b/_bomb|bomb]]
 ---

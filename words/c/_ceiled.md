@@ -8,5 +8,5 @@
 - **(in [[c/_combination|combination]]) Having some specified type of [[c/_ceiling|ceiling]]**
 ---
 ### Synonyms
-- [[ceilinged]]
+- [[c/_ceilinged|ceilinged]]
 ---

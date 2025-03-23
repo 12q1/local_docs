@@ -4,5 +4,5 @@
 - **A [[c/_coverall|coverall]].**
 ---
 ### Synonyms
-- [[overalls]]
+- [[o/_overalls|overalls]]
 ---

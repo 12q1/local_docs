@@ -10,5 +10,5 @@
 - **Tipsy; [[d/_drunk|drunk]]**
 ---
 ### Synonyms
-- [[drunkish]], [[squiffy]], [[campy]], [[cheesy]], [[kitsch]], [[kitschy]], [[schlocky]], [[schmaltzy]], [[tacky]]
+- [[d/_drunkish|drunkish]], [[s/_squiffy|squiffy]], [[c/_campy|campy]], [[c/_cheesy|cheesy]], [[k/_kitsch|kitsch]], [[k/_kitschy|kitschy]], [[s/_schlocky|schlocky]], [[s/_schmaltzy|schmaltzy]], [[t/_tacky|tacky]]
 ---

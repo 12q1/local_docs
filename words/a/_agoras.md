@@ -2,6 +2,6 @@
 ---
 #noun
 - **A place for gathering.**
-- **A marketplace, especially in [[c/_classical|Classical]] Greece.**
+- **A marketplace, [[e/_especially|especially]] in [[c/_classical|Classical]] Greece.**
 ---
 ---

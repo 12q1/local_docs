@@ -10,7 +10,7 @@
 - **That which joins or links two things together; a [[b/_bond|bond]] or tie; a [[c/_coupler|coupler]].**
 ---
 ### Synonyms
-- [[few]], [[handful]], [[brace]], [[pair]]
+- [[f/_few|few]], [[h/_handful|handful]], [[b/_brace|brace]], [[p/_pair|pair]]
 #verb
 - **To join (two things) together, or (one thing) to ([[a/_another|another]]).**
 	- _Example: I've coupled our system to theirs._
@@ -18,5 +18,5 @@
 - **To join in sexual intercourse; to [[c/_copulate|copulate]].**
 ---
 ### Synonyms
-- [[have sex]], [[make love]], [[bewed]], [[espouse]], [[affix]], [[attach]], [[put together]]
+- [[b/_bewed|bewed]], [[e/_espouse|espouse]], [[a/_affix|affix]], [[a/_attach|attach]]
 ---

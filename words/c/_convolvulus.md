@@ -5,5 +5,5 @@
 - **A species of hawkmoth, Agrius [[c/_convolvuli|convolvuli]].**
 ---
 ### Synonyms
-- [[bindweed]], [[morning glory]]
+- [[b/_bindweed|bindweed]]
 ---

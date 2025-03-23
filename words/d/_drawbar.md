@@ -8,5 +8,5 @@
 - **A [[d/_device|device]] for [[c/_changing|changing]] the tools on milling machines.**
 ---
 ### Synonyms
-- [[dragbar]], [[draglink]], [[drawlink]]
+- [[d/_dragbar|dragbar]], [[d/_draglink|draglink]], [[d/_drawlink|drawlink]]
 ---

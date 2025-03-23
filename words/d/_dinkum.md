@@ -8,5 +8,5 @@
 - **Genuine, true, honest, on the level.**
 ---
 ### Synonyms
-- [[dinky-die]]
+- [[d/_dinky-die|dinky-die]]
 ---

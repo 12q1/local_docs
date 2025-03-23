@@ -21,7 +21,7 @@
 	- _Example: He is in the fields, harvesting ears of corn._
 ---
 ### Synonyms
-- [[head]], [[spike]]
+- [[h/_head|head]], [[s/_spike|spike]]
 #verb
 - **To put forth [[e/_ears|ears]] in growing; to form [[e/_ears|ears]], as grain [[d/_does|does]].**
 	- _Example: This corn ears well._

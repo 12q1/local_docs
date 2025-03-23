@@ -5,5 +5,5 @@
 	- _Example: John became the donee of the bone marrow donated by his brother._
 ---
 ### Synonyms
-- [[donatee]]
+- [[d/_donatee|donatee]]
 ---

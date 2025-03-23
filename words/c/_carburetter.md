@@ -5,5 +5,5 @@
 - **A water pipe or [[b/_bong|bong]]; a [[d/_device|device]] or [[c/_contrivance|contrivance]] for mixing [[a/_air|air]] with [[b/_burning|burning]] [[c/_cannabis|cannabis]] or [[c/_cocaine|cocaine]].**
 ---
 ### Synonyms
-- [[carb]], [[carby]], [[gasifier]]
+- [[c/_carb|carb]], [[c/_carby|carby]], [[g/_gasifier|gasifier]]
 ---

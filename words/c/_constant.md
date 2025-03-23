@@ -9,12 +9,12 @@
 #adjective
 - **Unchanged through time or space; permanent.**
 - **[[c/_consistently|Consistently]] recurring over time; persistent.**
-- **Steady in purpose, [[a/_action|action]], feeling, etc.**
+- **Steady in purpose, [[a/_action|action]], feeling, [[e/_etc|etc]].**
 - **Firm; solid; not fluid.**
 - **[[c/_consistent|Consistent]]; logical.**
 - **([[c/_complexity|complexity]] theory) [[b/_bounded|Bounded]] [[a/_above|above]] by a [[c/_constant|constant]].**
 	- _Example: constant time   constant space_
 ---
 ### Synonyms
-- [[nonchanging]], [[unaltering]], [[unvarying]]
+- [[n/_nonchanging|nonchanging]], [[u/_unaltering|unaltering]], [[u/_unvarying|unvarying]]
 ---

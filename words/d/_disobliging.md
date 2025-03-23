@@ -6,7 +6,7 @@
 - **To offend by an [[a/_act|act]] of unkindness or incivility.**
 ---
 ### Antonyms
-- [[oblige]]
+- [[o/_oblige|oblige]]
 #adjective
 - **Not obliging; not making an [[e/_effort|effort]] to respect the needs and wishes of others; unaccommodating.**
 ---

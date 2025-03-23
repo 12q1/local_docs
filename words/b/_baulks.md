@@ -3,7 +3,7 @@
 #noun
 - **An uncultivated ridge formed in the open field system, [[c/_caused|caused]] by the [[a/_action|action]] of ploughing.**
 - **The wall of [[e/_earth|earth]] at the [[e/_edge|edge]] of an excavation.**
-- **[[b/_beam|Beam]], [[c/_crossbeam|crossbeam]]; squared timber; a tie [[b/_beam|beam]] of a house, stretching from wall to wall, especially when laid so as to form a loft, "the [[b/_balks|balks]]".**
+- **[[b/_beam|Beam]], [[c/_crossbeam|crossbeam]]; squared timber; a tie [[b/_beam|beam]] of a house, stretching from wall to wall, [[e/_especially|especially]] when laid so as to form a loft, "the [[b/_balks|balks]]".**
 - **A hindrance or [[d/_disappointment|disappointment]]; a [[c/_check|check]].**
 - **A sudden and obstinate stop; a failure.**
 - **An omission.**
@@ -27,5 +27,5 @@
 - **To leave heaped up; to heap up in piles.**
 ---
 ### Synonyms
-- [[avoid]], [[refuse]], [[shirk]], [[shun]], [[baffle]], [[foil]], [[frustrate]], [[thwart]], [[miss]], [[overlook]]
+- [[a/_avoid|avoid]], [[r/_refuse|refuse]], [[s/_shirk|shirk]], [[s/_shun|shun]], [[b/_baffle|baffle]], [[f/_foil|foil]], [[f/_frustrate|frustrate]], [[t/_thwart|thwart]], [[m/_miss|miss]], [[o/_overlook|overlook]]
 ---

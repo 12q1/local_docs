@@ -7,5 +7,5 @@
 - **[[a/_arousing|Arousing]] or intensifying sexual [[d/_desire|desire]].**
 ---
 ### Antonyms
-- [[antaphrodisiac]]
+- [[a/_antaphrodisiac|antaphrodisiac]]
 ---

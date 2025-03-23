@@ -4,5 +4,5 @@
 - **Pertaining to [[a/_anaphylaxis|anaphylaxis]].**
 ---
 ### Synonyms
-- [[anaphylaxic]]
+- [[a/_anaphylaxic|anaphylaxic]]
 ---

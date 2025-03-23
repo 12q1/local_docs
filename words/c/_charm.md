@@ -5,15 +5,15 @@
 	- _Example: It works like a charm._
 - **The [[a/_ability|ability]] to persuade, [[d/_delight|delight]] or [[a/_arouse|arouse]] [[a/_admiration|admiration]]; often [[c/_constructed|constructed]] in the plural.**
 	- _Example: He had great personal charm._
-- **A small trinket on a [[b/_bracelet|bracelet]] or [[c/_chain|chain]], etc., traditionally supposed to [[c/_confer|confer]] luck upon the wearer.**
+- **A small trinket on a [[b/_bracelet|bracelet]] or [[c/_chain|chain]], [[e/_etc|etc]]., traditionally supposed to [[c/_confer|confer]] luck upon the wearer.**
 	- _Example: She wears a charm bracelet on her wrist._
 - **A quantum number of hadrons [[d/_determined|determined]] by the number of [[c/_charm|charm]] quarks and antiquarks.**
 - **A second-order measure of [[d/_derivative|derivative]] price sensitivity, expressed as the instantaneous rate of [[c/_change|change]] of [[d/_delta|delta]] with respect to time.**
 ---
 ### Synonyms
-- [[DdeltaDtime]], [[delta decay]], [[appeal]], [[attraction]], [[charisma]], [[amulet]], [[incantation]], [[spell]], [[talisman]], [[amulet]], [[dangle]], [[ornament]]
+- [[D/_DdeltaDtime|DdeltaDtime]], [[a/_appeal|appeal]], [[a/_attraction|attraction]], [[c/_charisma|charisma]], [[a/_amulet|amulet]], [[i/_incantation|incantation]], [[s/_spell|spell]], [[t/_talisman|talisman]], [[a/_amulet|amulet]], [[d/_dangle|dangle]], [[o/_ornament|ornament]]
 ### Antonyms
-- [[boredom]], [[dryness]]
+- [[b/_boredom|boredom]], [[d/_dryness|dryness]]
 #verb
 - **To seduce, persuade or fascinate someone or something.**
 	- _Example: He charmed her with his dashing tales of his days as a sailor._
@@ -25,5 +25,5 @@
 - **To subdue or overcome by some secret power, or by that which gives pleasure; to [[a/_allay|allay]]; to soothe.**
 ---
 ### Synonyms
-- [[delight]], [[enchant]], [[entrance]], [[bewitch]], [[enchant]], [[ensorcel]], [[enspell]]
+- [[d/_delight|delight]], [[e/_enchant|enchant]], [[e/_entrance|entrance]], [[b/_bewitch|bewitch]], [[e/_enchant|enchant]], [[e/_ensorcel|ensorcel]], [[e/_enspell|enspell]]
 ---

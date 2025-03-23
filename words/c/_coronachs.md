@@ -4,5 +4,5 @@
 - **[[d/_dirge|Dirge]], lamentation**
 ---
 ### Synonyms
-- [[ullaloo]]
+- [[u/_ullaloo|ullaloo]]
 ---

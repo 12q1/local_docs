@@ -14,5 +14,5 @@
 	- _Example: a constitutional walk_
 ---
 ### Antonyms
-- [[unconstitutional]], [[anticonstitutional]]
+- [[u/_unconstitutional|unconstitutional]], [[a/_anticonstitutional|anticonstitutional]]
 ---

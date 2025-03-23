@@ -6,5 +6,5 @@
 - **Relating to [[e/_earlier|earlier]], more primitive [[b/_behavior|behavior]] that returns [[a/_after|after]] an [[a/_absence|absence]].**
 ---
 ### Synonyms
-- [[atavistical]]
+- [[a/_atavistical|atavistical]]
 ---

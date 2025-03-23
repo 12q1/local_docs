@@ -10,5 +10,5 @@
 - **The [[a/_assessment|assessment]], by an insurance [[c/_company|company]], of a [[c/_claim|claim]]; the settlement of such a [[c/_claim|claim]]**
 ---
 ### Synonyms
-- [[change]], [[correction]], [[modification]]
+- [[c/_change|change]], [[c/_correction|correction]], [[m/_modification|modification]]
 ---

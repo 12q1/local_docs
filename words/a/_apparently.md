@@ -8,5 +8,5 @@
 	- _Example: Apparently you are quite a good dancer._
 ---
 ### Synonyms
-- [[allegedly]], [[reportedly]], [[clearly]], [[evidently]], [[obviously]], [[plainly]], [[visibly]], [[ostensibly]], [[seemingly]]
+- [[a/_allegedly|allegedly]], [[r/_reportedly|reportedly]], [[c/_clearly|clearly]], [[e/_evidently|evidently]], [[o/_obviously|obviously]], [[p/_plainly|plainly]], [[v/_visibly|visibly]], [[o/_ostensibly|ostensibly]], [[s/_seemingly|seemingly]]
 ---

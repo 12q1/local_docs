@@ -13,7 +13,7 @@
 - **The middle section of a flask, made so that it [[c/_can|can]] be moved laterally, to permit the removal of the pattern from the mould.**
 ---
 ### Synonyms
-- [[arsecheek]], [[asscheek]], [[butt cheek]], [[nether cheek]], [[gena]], [[brass neck]], [[chutzpah]], [[impertinence]], [[impudence]], [[nerve]], [[sass]], [[wang]]
+- [[a/_arsecheek|arsecheek]], [[a/_asscheek|asscheek]], [[g/_gena|gena]], [[c/_chutzpah|chutzpah]], [[i/_impertinence|impertinence]], [[i/_impudence|impudence]], [[n/_nerve|nerve]], [[s/_sass|sass]], [[w/_wang|wang]]
 #verb
 - **To be impudent towards.**
 	- _Example: Don't cheek me, you little rascal!_

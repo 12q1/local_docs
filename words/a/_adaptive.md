@@ -6,7 +6,7 @@
 - **Of a trait: that helps an individual to function well in society.**
 ---
 ### Synonyms
-- [[adaptable]], [[adaptative]]
+- [[a/_adaptable|adaptable]], [[a/_adaptative|adaptative]]
 ### Antonyms
-- [[maladaptive]]
+- [[m/_maladaptive|maladaptive]]
 ---

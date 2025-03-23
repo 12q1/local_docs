@@ -5,5 +5,5 @@
 - **Typical.**
 ---
 ### Synonyms
-- [[characteristic]], [[exemplary]], [[representative]], [[illustrative]], [[symbolic]]
+- [[c/_characteristic|characteristic]], [[e/_exemplary|exemplary]], [[r/_representative|representative]], [[i/_illustrative|illustrative]], [[s/_symbolic|symbolic]]
 ---

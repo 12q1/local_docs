@@ -17,5 +17,5 @@
 - **Living in a [[c/_cavity|cavity]] or small [[c/_cave|cave]].**
 ---
 ### Synonyms
-- [[cryptozoic]]
+- [[c/_cryptozoic|cryptozoic]]
 ---

@@ -10,7 +10,7 @@
 	- _Example: John flew coach to Vienna, but first-class back home._
 ---
 ### Synonyms
-- [[carriage]], [[carriage]]
+- [[c/_carriage|carriage]], [[c/_carriage|carriage]]
 #verb
 - **To train.**
 - **To instruct; to train.**

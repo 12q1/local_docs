@@ -4,7 +4,7 @@
 - **[[d/_dawn|Dawn]].**
 ---
 ### Synonyms
-- [[break of dawn]], [[break of day]], [[crack of dawn]], [[sunrise]]
+- [[s/_sunrise|sunrise]]
 ### Antonyms
-- [[dusk]], [[nightfall]]
+- [[d/_dusk|dusk]], [[n/_nightfall|nightfall]]
 ---

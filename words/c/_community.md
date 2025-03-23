@@ -12,5 +12,5 @@
 - **[[c/_commonness|Commonness]]; frequency.**
 ---
 ### Antonyms
-- [[anticommunity]], [[noncommunity]]
+- [[a/_anticommunity|anticommunity]], [[n/_noncommunity|noncommunity]]
 ---

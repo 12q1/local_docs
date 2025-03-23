@@ -13,12 +13,12 @@
 - **Something exceptional.**
 ---
 ### Synonyms
-- [[binge]], [[spree]], [[toot]], [[bender tent]]
+- [[b/_binge|binge]], [[s/_spree|spree]], [[t/_toot|toot]]
 #interjection
 - **([[b/_british|British]] slang) Used to express [[d/_disbelief|disbelief]] or [[d/_doubt|doubt]] at what one has just heard.**
 - **([[b/_british|British]] slang) Used to indicate that the previous phrase was meant sarcastically or ironically.**
 	- _Example: O yes, I'll do it — bender!_
 ---
 ### Synonyms
-- [[I don't think]], [[not]]
+- [[n/_not|not]]
 ---

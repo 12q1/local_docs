@@ -15,9 +15,9 @@
 - **To quieten or reduce (a negative feeling, such as [[a/_anger|anger]] or grief)**
 ---
 ### Synonyms
-- [[arrange]], [[sort]], [[sort out]], [[sort out]]
+- [[a/_arrange|arrange]], [[s/_sort|sort]]
 #noun
-- **That which is [[d/_digested|digested]]; especially, that which is worked over, [[c/_classified|classified]], and [[a/_arranged|arranged]] under proper heads or titles**
+- **That which is [[d/_digested|digested]]; [[e/_especially|especially]], that which is worked over, [[c/_classified|classified]], and [[a/_arranged|arranged]] under proper heads or titles**
 - **A [[c/_compilation|compilation]] of statutes or [[d/_decisions|decisions]] [[a/_analytically|analytically]] [[a/_arranged|arranged]]; a summary of laws.**
 	- _Example: Comyn's Digest_
 - **[[a/_any|Any]] [[c/_collection|collection]] of [[a/_articles|articles]], as an Internet mailing list including a week's postings, or a magazine [[a/_arranging|arranging]] a [[c/_collection|collection]] of writings.**

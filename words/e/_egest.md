@@ -4,7 +4,7 @@
 - **To [[e/_eliminate|eliminate]] undigested food or waste from the [[b/_body|body]] (as feces).**
 ---
 ### Synonyms
-- [[excrete]]
+- [[e/_excrete|excrete]]
 ### Antonyms
-- [[ingest]]
+- [[i/_ingest|ingest]]
 ---

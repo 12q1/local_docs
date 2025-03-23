@@ -5,5 +5,5 @@
 - **[[e/_earnest|Earnest]] and practical without [[b/_being|being]] [[d/_distracted|distracted]] or [[e/_enthusiastic|enthusiastic]].**
 ---
 ### Synonyms
-- [[earnest]], [[focused]], [[matter-of-fact]]
+- [[e/_earnest|earnest]], [[f/_focused|focused]], [[m/_matter-of-fact|matter-of-fact]]
 ---

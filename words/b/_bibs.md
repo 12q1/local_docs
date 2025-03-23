@@ -1,7 +1,7 @@
 # Bibs
 ---
 #noun
-- **An item of [[c/_clothing|clothing]] for people (especially [[b/_babies|babies]]) tied [[a/_around|around]] their neck to protect their [[c/_clothes|clothes]] from getting [[d/_dirty|dirty]] when [[e/_eating|eating]].**
+- **An item of [[c/_clothing|clothing]] for people ([[e/_especially|especially]] [[b/_babies|babies]]) tied [[a/_around|around]] their neck to protect their [[c/_clothes|clothes]] from getting [[d/_dirty|dirty]] when [[e/_eating|eating]].**
 - **Similar items of [[c/_clothing|clothing]] such as the [[c/_chinese|Chinese]] dudou and Vietnamese yem.**
 - **A rectangular piece of material, [[c/_carrying|carrying]] a [[b/_bib|bib]] number, worn as identification by [[e/_entrants|entrants]] in a race.**
 - **A [[c/_colourful|colourful]] polyester or plastic vest worn over one's [[c/_clothes|clothes]], usually to mark one's team [[d/_during|during]] group [[a/_activities|activities]].**
@@ -11,7 +11,7 @@
 - **A [[b/_bibcock|bibcock]].**
 ---
 ### Synonyms
-- [[pinny]], [[pouting]]
+- [[p/_pinny|pinny]], [[p/_pouting|pouting]]
 #verb
 - **To [[d/_dress|dress]] (somebody) in a [[b/_bib|bib]].**
 - **To [[d/_drink|drink]] heartily; to tipple.**

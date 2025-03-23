@@ -10,5 +10,5 @@
 - **(metaphoric) To make [[a/_appear|appear]] positive and highly respected.**
 ---
 ### Synonyms
-- [[buff]], [[furbish]], [[polish]], [[shine]], [[wax]]
+- [[b/_buff|buff]], [[f/_furbish|furbish]], [[p/_polish|polish]], [[s/_shine|shine]], [[w/_wax|wax]]
 ---

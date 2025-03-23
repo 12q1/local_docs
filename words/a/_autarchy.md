@@ -7,5 +7,5 @@
 - **[[a/_autarky|Autarky]]: national [[e/_economic|economic]] self-reliance.**
 ---
 ### Synonyms
-- [[sovereignty]]
+- [[s/_sovereignty|sovereignty]]
 ---

@@ -5,7 +5,7 @@
 - **Of a reaction that occurs when [[c/_cells|cells]] are transplanted into a genetically [[d/_different|different]] recipient.**
 ---
 ### Synonyms
-- [[allogeneous]]
+- [[a/_allogeneous|allogeneous]]
 #adjective
 - **Having an external [[c/_cause|cause]], or source; exogenous.**
 - **Formed in [[a/_another|another]] location and transported.**

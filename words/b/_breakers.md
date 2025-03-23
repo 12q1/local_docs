@@ -10,7 +10,7 @@
 - **A user of [[c/_cb|CB]] radio.**
 ---
 ### Synonyms
-- [[B-boy]], [[B-girl]], [[breakdancer]], [[destroyer]], [[wrecker]]
+- [[B/_B-boy|B-boy]], [[B/_B-girl|B-girl]], [[b/_breakdancer|breakdancer]], [[d/_destroyer|destroyer]], [[w/_wrecker|wrecker]]
 #noun
 - **A small [[c/_cask|cask]] of liquid kept permanently in a ship's [[b/_boat|boat]] in [[c/_case|case]] of shipwreck.**
 ---

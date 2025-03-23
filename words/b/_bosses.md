@@ -15,16 +15,16 @@
 	- _Example: There's no olive oil; will sunflower oil do? — I'll have to run that by the boss._
 ---
 ### Synonyms
-- [[employer]], [[gov]], [[guv]], [[guvnor]], [[mate]], [[head]], [[leader]], [[leader]], [[line manager]], [[manager]], [[supervisor]]
+- [[e/_employer|employer]], [[g/_gov|gov]], [[g/_guv|guv]], [[g/_guvnor|guvnor]], [[m/_mate|mate]], [[h/_head|head]], [[l/_leader|leader]], [[l/_leader|leader]], [[m/_manager|manager]], [[s/_supervisor|supervisor]]
 #verb
 - **To exercise [[a/_authoritative|authoritative]] [[c/_control|control]] over; to tell (someone) what to [[d/_do|do]], often repeatedly.**
 ---
 ### Synonyms
-- [[boss around]], [[lord over]]
+- 
 #noun
 - **A swelling, lump or protuberance in an [[a/_animal|animal]], person or object.**
-- **A lump-like mass of rock, especially one projecting through a stratum of [[d/_different|different]] rock.**
-- **A [[c/_convex|convex]] protuberance in hammered work, especially the rounded projection in the [[c/_centre|centre]] of a shield.**
+- **A lump-like mass of rock, [[e/_especially|especially]] one projecting through a stratum of [[d/_different|different]] rock.**
+- **A [[c/_convex|convex]] protuberance in hammered work, [[e/_especially|especially]] the rounded projection in the [[c/_centre|centre]] of a shield.**
 - **A protrusion, frequently a [[c/_cylinder|cylinder]] of material that extends [[b/_beyond|beyond]] a hole.**
 - **A knob or projection, usually at the intersection of ribs in a vault.**
 - **A target [[b/_block|block]], made of foam but historically made of hay [[b/_bales|bales]], to which a target face is [[a/_attached|attached]].**
@@ -35,8 +35,8 @@
 - **To [[d/_decorate|decorate]] with [[b/_bosses|bosses]]; to [[e/_emboss|emboss]].**
 ---
 #noun
-- **A hassock or small seat, especially made from a [[b/_bundle|bundle]] of straw.**
+- **A hassock or small seat, [[e/_especially|especially]] made from a [[b/_bundle|bundle]] of straw.**
 ---
 ### Synonyms
-- [[footrest]], [[hassock]]
+- [[f/_footrest|footrest]], [[h/_hassock|hassock]]
 ---

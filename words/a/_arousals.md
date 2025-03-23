@@ -10,5 +10,5 @@
 	- _Example: the animal undergoes regular spells of arousal_
 ---
 ### Synonyms
-- [[wakefulness]], [[horniness]], [[alertness]]
+- [[w/_wakefulness|wakefulness]], [[h/_horniness|horniness]], [[a/_alertness|alertness]]
 ---

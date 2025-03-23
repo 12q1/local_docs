@@ -4,5 +4,5 @@
 - **The quality of [[b/_being|being]] [[c/_correct|correct]]**
 ---
 ### Synonyms
-- [[correctness]]
+- [[c/_correctness|correctness]]
 ---

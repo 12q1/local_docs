@@ -5,5 +5,5 @@
 - **To [[d/_do|do]] something for one's own [[b/_benefit|benefit]]; to take [[a/_advantage|advantage]] of**
 ---
 ### Synonyms
-- [[benefit]], [[favor]], [[favorise]]
+- [[b/_benefit|benefit]], [[f/_favor|favor]], [[f/_favorise|favorise]]
 ---

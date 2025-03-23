@@ -10,12 +10,12 @@
 - **Ocean waves, generally [[c/_caused|caused]] by wind, [[d/_distinguished|distinguished]] from swell by [[b/_being|being]] smaller and not lasting as long.**
 - **A hand where two or more players have an [[e/_equal|equal]]-valued hand, resulting in the [[c/_chips|chips]] [[b/_being|being]] shared [[e/_equally|equally]] [[b/_between|between]] them.**
 	- _Example: With both players having an ace-high straight, the pot was a chop._
-- **(with "the") Termination, especially from [[e/_employment|employment]]; the sack.**
+- **(with "the") Termination, [[e/_especially|especially]] from [[e/_employment|employment]]; the sack.**
 - **A woodchopping [[c/_competition|competition]].**
 - **A [[c/_crack|crack]] or [[c/_cleft|cleft]]; a [[c/_chap|chap]].**
 ---
 ### Synonyms
-- [[axe]], [[pink slip]], [[sack]]
+- [[a/_axe|axe]], [[s/_sack|sack]]
 #verb
 - **To [[c/_cut|cut]] into pieces with short, vigorous [[c/_cutting|cutting]] motions.**
 	- _Example: chop wood; chop an onion_
@@ -58,7 +58,7 @@
 - **An IRC [[c/_channel|channel]] operator.**
 ---
 ### Synonyms
-- [[chanop]], [[op]]
+- [[c/_chanop|chanop]], [[o/_op|op]]
 #noun
 - **Jaws, mouth.**
 - **One's skill at musical interpretation and [[d/_delivery|delivery]] (originally of jazz); musical performance [[a/_ability|ability]].**

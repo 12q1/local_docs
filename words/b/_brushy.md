@@ -5,5 +5,5 @@
 - **Of the [[c/_countryside|countryside]]: having thick vegetation, taller than grass but shorter than trees; having [[a/_abundant|abundant]] [[b/_brush|brush]]; shrubby.**
 ---
 ### Synonyms
-- [[brushlike]], [[shrubby]]
+- [[b/_brushlike|brushlike]], [[s/_shrubby|shrubby]]
 ---

@@ -5,5 +5,5 @@
 - **A solution of this [[c/_compound|compound]] in water used [[d/_domestically|domestically]] as a [[c/_cleaning|cleaning]] fluid.**
 ---
 ### Synonyms
-- [[spirits of hartshorn]], [[volatile alkali]]
+- 
 ---

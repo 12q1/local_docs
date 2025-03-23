@@ -4,5 +4,5 @@
 - **Excrement**
 ---
 ### Synonyms
-- [[cack]]
+- [[c/_cack|cack]]
 ---

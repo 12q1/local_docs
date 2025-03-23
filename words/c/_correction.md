@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[c/_correcting|correcting]].**
-- **A substitution for an error or mistake.**
+- **A substitution for an [[e/_error|error]] or mistake.**
 - **Punishment that is intended to rehabilitate an offender.**
 - **An [[a/_amount|amount]] or quantity of something [[a/_added|added]] or subtracted so as to [[c/_correct|correct]].**
 - **A [[d/_decline|decline]] in a stock market price [[a/_after|after]] a large rise.**

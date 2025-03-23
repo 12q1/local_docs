@@ -8,10 +8,10 @@
 	- _Example: The calico cat had distinctive red and dark markings._
 ---
 ### Synonyms
-- [[tortoiseshell]]
+- [[t/_tortoiseshell|tortoiseshell]]
 #noun
 - **A tortoiseshell and white [[d/_domestic|domestic]] [[c/_cat|cat]].**
 ---
 ### Synonyms
-- [[calico]]
+- [[c/_calico|calico]]
 ---

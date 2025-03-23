@@ -8,5 +8,5 @@
 - **[[b/_being|Being]] out of place, having an [[a/_abnormal|abnormal]] position.**
 ---
 ### Antonyms
-- [[entopic]]
+- [[e/_entopic|entopic]]
 ---

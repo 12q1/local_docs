@@ -7,5 +7,5 @@
 - **The legal tenure of a [[b/_baron|baron]]'s land; military tenure.**
 ---
 ### Synonyms
-- [[hundred]]
+- [[h/_hundred|hundred]]
 ---

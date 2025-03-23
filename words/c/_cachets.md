@@ -10,5 +10,5 @@
 - **A hidden location from which one [[c/_can|can]] observe [[b/_birds|birds]] while remaining unseen.**
 ---
 ### Synonyms
-- [[charm]], [[je ne sais quoi]], [[magic touch]], [[oomph]], [[zing]]
+- [[c/_charm|charm]], [[o/_oomph|oomph]], [[z/_zing|zing]]
 ---

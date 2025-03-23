@@ -4,5 +4,5 @@
 - **A fine, powdery [[e/_earth|earth]] formed from the skeletons of [[d/_diatoms|diatoms]]**
 ---
 ### Synonyms
-- [[diatomaceous earth]], [[kieselguhr]]
+- [[k/_kieselguhr|kieselguhr]]
 ---

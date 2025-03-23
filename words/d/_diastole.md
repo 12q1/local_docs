@@ -6,7 +6,7 @@
 - **(Greek grammar) The hypodiastole, a textual or punctuation mark formerly used to [[d/_disambiguate|disambiguate]] homonyms in Greek.**
 ---
 ### Synonyms
-- [[ectasis]]
+- [[e/_ectasis|ectasis]]
 ### Antonyms
-- [[systole]], [[systole]]
+- [[s/_systole|systole]], [[s/_systole|systole]]
 ---

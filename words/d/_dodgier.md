@@ -15,5 +15,5 @@
 	- _Example: I'm feeling dodgy today, probably got the flu._
 ---
 ### Synonyms
-- [[dodge]], [[chancy]], [[risky]], [[flaky]], [[shaky]]
+- [[d/_dodge|dodge]], [[c/_chancy|chancy]], [[r/_risky|risky]], [[f/_flaky|flaky]], [[s/_shaky|shaky]]
 ---

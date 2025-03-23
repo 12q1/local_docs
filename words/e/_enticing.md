@@ -11,7 +11,7 @@
 - **That [[e/_entices|entices]]; [[a/_alluring|alluring]]; [[a/_attractive|attractive]]; [[c/_charming|charming]]**
 ---
 ### Synonyms
-- [[enticing]], [[illecebrous]]
+- [[e/_enticing|enticing]], [[i/_illecebrous|illecebrous]]
 ### Antonyms
-- [[repulsive]], [[unalluring]], [[unattractive]], [[unenticing]]
+- [[r/_repulsive|repulsive]], [[u/_unalluring|unalluring]], [[u/_unattractive|unattractive]], [[u/_unenticing|unenticing]]
 ---

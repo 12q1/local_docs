@@ -8,7 +8,7 @@
 - **To be wanting; to fail; to pass [[a/_away|away]].**
 ---
 ### Synonyms
-- [[desert]], [[lack]], [[discontinue]], [[hold]], [[terminate]], [[arrest]], [[discontinue]]
+- [[d/_desert|desert]], [[l/_lack|lack]], [[d/_discontinue|discontinue]], [[h/_hold|hold]], [[t/_terminate|terminate]], [[a/_arrest|arrest]], [[d/_discontinue|discontinue]]
 #noun
 - **A [[c/_cessation|cessation]].**
 ---

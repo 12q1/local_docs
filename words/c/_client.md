@@ -7,7 +7,7 @@
 - **A person who [[e/_employs|employs]] or retains an [[a/_attorney|attorney]] to represent him or her in [[a/_any|any]] legal matter, or one who merely [[d/_divulges|divulges]] [[c/_confidential|confidential]] matters to an [[a/_attorney|attorney]] while pursuing professional [[a/_assistance|assistance]] without subsequently retaining the [[a/_attorney|attorney]].**
 ---
 ### Synonyms
-- [[buyer]], [[customer]], [[punter]]
+- [[b/_buyer|buyer]], [[c/_customer|customer]], [[p/_punter|punter]]
 ### Antonyms
-- [[server]]
+- [[s/_server|server]]
 ---

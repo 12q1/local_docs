@@ -9,5 +9,5 @@
 - **The [[a/_advancement|advancement]] of students at a rate that places them [[a/_ahead|ahead]] of where they would be in the regular school [[c/_curriculum|curriculum]].**
 ---
 ### Antonyms
-- [[deceleration]], [[retardation]]
+- [[d/_deceleration|deceleration]], [[r/_retardation|retardation]]
 ---

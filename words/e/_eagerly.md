@@ -4,5 +4,5 @@
 - **In an [[e/_eager|eager]] manner.**
 ---
 ### Synonyms
-- [[heartily]], [[with a will]]
+- [[h/_heartily|heartily]]
 ---

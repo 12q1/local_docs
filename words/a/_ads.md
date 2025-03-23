@@ -5,7 +5,7 @@
 	- _Example: I have placed both of the ads in the newspaper as instructed._
 ---
 ### Synonyms
-- [[advert]]
+- [[a/_advert|advert]]
 #noun
 - **[[a/_advantage|Advantage]]**
 - **([[d/_debating|debating]]) [[a/_advantage|advantage]]**

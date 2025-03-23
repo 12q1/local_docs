@@ -6,5 +6,5 @@
 - **An inflatable [[b/_band|band]] worn round the [[a/_arms|arms]] to keep [[a/_afloat|afloat]] in water**
 ---
 ### Synonyms
-- [[water wing]]
+- 
 ---

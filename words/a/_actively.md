@@ -7,5 +7,5 @@
 	- _Example: a word used actively_
 ---
 ### Antonyms
-- [[passively]]
+- [[p/_passively|passively]]
 ---

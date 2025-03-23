@@ -3,7 +3,7 @@
 #verb
 - **To [[e/_emit|emit]] [[b/_beams|beams]] of light; shine; radiate.**
 	- _Example: to beam forth light_
-- **To smile [[b/_broadly|broadly]] or especially [[c/_cheerfully|cheerfully]].**
+- **To smile [[b/_broadly|broadly]] or [[e/_especially|especially]] [[c/_cheerfully|cheerfully]].**
 - **To furnish or supply with [[b/_beams|beams]]**
 - **To give the [[a/_appearance|appearance]] of [[b/_beams|beams]] to.**
 - **To transmit matter or information via a high-tech wireless mechanism.**

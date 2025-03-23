@@ -7,5 +7,5 @@
 - **(grammar) The [[a/_aorist|aorist]] subjunctive or subjunctive perfective: a form of a verb not used independently but preceded by a particle to form the negative or a tense form. Found in Greek and in the Gaelic languages.**
 ---
 ### Synonyms
-- [[dependant]]
+- [[d/_dependant|dependant]]
 ---

@@ -5,7 +5,7 @@
 - **The starting point of a logical [[d/_deduction|deduction]] or thought; [[b/_basis|basis]].**
 - **A permanent structure for housing military personnel and material.**
 - **The place where [[d/_decisions|decisions]] for an organization are made; headquarters.**
-- **A [[b/_basic|basic]] but essential [[c/_component|component]] or ingredient.**
+- **A [[b/_basic|basic]] but [[e/_essential|essential]] [[c/_component|component]] or ingredient.**
 - **A substance used as a mordant in [[d/_dyeing|dyeing]].**
 - **Foundation: a [[c/_cosmetic|cosmetic]] [[c/_cream|cream]] to make the face [[a/_appear|appear]] uniform.**
 - **[[a/_any|Any]] of a [[c/_class|class]] of generally water-soluble [[c/_compounds|compounds]], having [[b/_bitter|bitter]] taste, that turn red litmus [[b/_blue|blue]], and react with [[a/_acids|acids]] to form salts.**
@@ -15,8 +15,8 @@
 - **The [[e/_end|end]] of a leaf, petal or similar organ where it is [[a/_attached|attached]] to its support.**
 - **The name of the [[c/_controlling|controlling]] terminal of a [[b/_bipolar|bipolar]] transistor (BJT).**
 - **The lowest side of a in a triangle or other polygon, or the lowest face of a [[c/_cone|cone]], pyramid or other polyhedron laid flat.**
-- **The lowest third of a shield or escutcheon.**
-- **The lower part of the field. See escutcheon.**
+- **The lowest third of a shield or [[e/_escutcheon|escutcheon]].**
+- **The lower part of the field. See [[e/_escutcheon|escutcheon]].**
 - **A number raised to the power of an exponent.**
 	- _Example: The logarithm to base 2 of 8 is 3._
 - **The set of sets from which a topology is generated.**
@@ -36,9 +36,9 @@
 - **Short for [[b/_base|base]] leg.**
 ---
 ### Synonyms
-- [[alkali]]
+- [[a/_alkali|alkali]]
 ### Antonyms
-- [[acid]], [[apex]]
+- [[a/_acid|acid]], [[a/_apex|apex]]
 #verb
 - **To give as its foundation or starting point; to lay the foundation of.**
 - **To be located (at a particular place).**
@@ -57,12 +57,12 @@
 	- _Example: The score had been written without the treble and bass, but it was easy to pick out which was which based on the location of the notes on the staff._
 ---
 ### Synonyms
-- [[F clef]], [[basso]]
+- [[b/_basso|basso]]
 #noun
 - **A root.**
 - **A primitive word, from which other words may be [[d/_derived|derived]].**
 - **The number of [[d/_distinct|distinct]] symbols used to represent numbers in a particular [[b/_base|base]], as ten for [[d/_decimal|decimal]].**
 ---
 ### Synonyms
-- [[primitive]], [[radical]]
+- [[p/_primitive|primitive]], [[r/_radical|radical]]
 ---

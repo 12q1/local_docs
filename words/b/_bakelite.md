@@ -4,5 +4,5 @@
 - **A heat-resisting [[c/_chemically|chemically]] inert phenol formaldehyde resin (an [[e/_early|early]] thermosetting plastic).**
 ---
 ### Synonyms
-- [[polyoxybenzylmethylenglycolanhydride]]
+- [[p/_polyoxybenzylmethylenglycolanhydride|polyoxybenzylmethylenglycolanhydride]]
 ---

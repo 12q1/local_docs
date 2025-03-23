@@ -7,5 +7,5 @@
 	- _Example: My bonnie friend, come over here._
 ---
 ### Synonyms
-- [[blithe]], [[cheerful]], [[frolicsome]], [[gay]]
+- [[b/_blithe|blithe]], [[c/_cheerful|cheerful]], [[f/_frolicsome|frolicsome]], [[g/_gay|gay]]
 ---

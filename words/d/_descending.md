@@ -1,7 +1,7 @@
 # Descending
 ---
 #verb
-- **To pass from a higher to a lower place; to move [[d/_downwards|downwards]]; to [[c/_come|come]] or go [[d/_down|down]] in [[a/_any|any]] way, for example by falling, flowing, walking, [[c/_climbing|climbing]] etc.**
+- **To pass from a higher to a lower place; to move [[d/_downwards|downwards]]; to [[c/_come|come]] or go [[d/_down|down]] in [[a/_any|any]] way, for example by falling, flowing, walking, [[c/_climbing|climbing]] [[e/_etc|etc]].**
 	- _Example: The rain descended, and the floods came._
 - **To [[e/_enter|enter]] mentally; to retire.**
 - **(with on or upon) To make an [[a/_attack|attack]], or incursion, as if from a vantage ground; to [[c/_come|come]] suddenly and with violence.**
@@ -19,9 +19,9 @@
 	- _Example: they descended the river in boats; to descend a ladder_
 ---
 ### Synonyms
-- [[go down]]
+- 
 ### Antonyms
-- [[ascend]], [[go up]]
+- [[a/_ascend|ascend]]
 #noun
 - **A [[d/_descent|descent]].**
 	- _Example: continual ascendings and descendings_
@@ -33,5 +33,5 @@
 	- _Example: We used a descending sort._
 ---
 ### Antonyms
-- [[ascending]], [[ascending]]
+- [[a/_ascending|ascending]], [[a/_ascending|ascending]]
 ---

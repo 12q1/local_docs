@@ -5,5 +5,5 @@
 - **Inaction, passivity, or neglect to take legal [[a/_action|action]] when it is [[c/_called|called]] for in order to [[a/_assert|assert]], preserve, or safeguard a right, and which inaction implies the [[a/_abandonment|abandonment]] of said right.**
 ---
 ### Synonyms
-- [[sufferance]]
+- [[s/_sufferance|sufferance]]
 ---

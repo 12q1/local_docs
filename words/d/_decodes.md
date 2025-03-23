@@ -5,7 +5,7 @@
 - **To figure out something [[d/_difficult|difficult]] to interpret.**
 ---
 ### Synonyms
-- [[decipher]]
+- [[d/_decipher|decipher]]
 ### Antonyms
-- [[encode]]
+- [[e/_encode|encode]]
 ---

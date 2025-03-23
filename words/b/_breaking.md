@@ -21,7 +21,7 @@
 	- _Example: The forecast says the hot weather will break by midweek._
 - **(of a storm) To [[b/_begin|begin]]; to [[e/_end|end]].**
 	- _Example: Around midday the storm broke, and the afternoon was calm and sunny._
-- **(of morning, [[d/_dawn|dawn]], [[d/_day|day]] etc.) To [[a/_arrive|arrive]].**
+- **(of morning, [[d/_dawn|dawn]], [[d/_day|day]] [[e/_etc|etc]].) To [[a/_arrive|arrive]].**
 	- _Example: Morning has broken._
 - **To render (a game) unchallenging by [[a/_altering|altering]] its rules or exploiting loopholes or weaknesses in them in a way that gives a player an unfair [[a/_advantage|advantage]].**
 	- _Example: Changing the rules to let white have three extra queens would break chess._
@@ -37,7 +37,7 @@
 	- _Example: Let's break for lunch._
 - **To interrupt (a fall) by inserting something so that the falling object [[d/_does|does]] not (immediately) hit something [[e/_else|else]] [[b/_beneath|beneath]].**
 	- _Example: He survived the jump out the window because the bushes below broke his fall._
-- **To [[d/_disclose|disclose]] or make known an item of news, etc.**
+- **To [[d/_disclose|disclose]] or make known an item of news, [[e/_etc|etc]].**
 	- _Example: I don't know how to break this to you, but your cat is not coming back._
 - **(of a sound) To [[b/_become|become]] [[a/_audible|audible]] suddenly.**
 - **To [[c/_change|change]] a steady state [[a/_abruptly|abruptly]].**
@@ -68,9 +68,9 @@
 - **To suspend the execution of a program [[d/_during|during]] [[d/_debugging|debugging]] so that the state of the program [[c/_can|can]] be investigated.**
 ---
 ### Synonyms
-- [[crack]], [[fracture]], [[burst]], [[bust]], [[shatter]], [[shear]], [[smash]], [[split]], [[break down]], [[bust]], [[fail]], [[go down]], [[contravene]], [[go against]], [[violate]], [[break in]], [[subject]], [[tame]]
+- [[c/_crack|crack]], [[f/_fracture|fracture]], [[b/_burst|burst]], [[b/_bust|bust]], [[s/_shatter|shatter]], [[s/_shear|shear]], [[s/_smash|smash]], [[s/_split|split]], [[b/_bust|bust]], [[f/_fail|fail]], [[c/_contravene|contravene]], [[v/_violate|violate]], [[s/_subject|subject]], [[t/_tame|tame]]
 ### Antonyms
-- [[hold]], [[assemble]], [[fix]], [[join]], [[mend]], [[put together]], [[repair]]
+- [[h/_hold|hold]], [[a/_assemble|assemble]], [[f/_fix|fix]], [[j/_join|join]], [[m/_mend|mend]], [[r/_repair|repair]]
 #noun
 - **The [[a/_act|act]] by which something is [[b/_broken|broken]].**
 - **A [[c/_change|change]] of a vowel to a [[d/_diphthong|diphthong]]**

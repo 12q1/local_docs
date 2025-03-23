@@ -9,7 +9,7 @@
 - **To [[e/_entangle|entangle]].**
 ---
 ### Antonyms
-- [[disengage]]
+- [[d/_disengage|disengage]]
 #adjective
 - **[[a/_agreed|Agreed]] to be married.**
 - **[[b/_busy|Busy]] or [[e/_employed|employed]].**
@@ -22,5 +22,5 @@
 - **(of a foetus) Having the widest part of its presenting part, usually the head, [[e/_enter|enter]] the pelvic [[b/_brim|brim]] or inlet.**
 ---
 ### Synonyms
-- [[busy]]
+- [[b/_busy|busy]]
 ---

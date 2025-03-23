@@ -6,7 +6,7 @@
 - **In the game of [[c/_croquet|croquet]], a [[b/_ball|ball]] that has not passed through the first wicket.**
 ---
 ### Synonyms
-- [[sulid]]
+- [[s/_sulid|sulid]]
 #verb
 - **To [[b/_behave|behave]] stupidly; to [[a/_act|act]] like a [[b/_booby|booby]].**
 - **To install a [[b/_booby|booby]] trap on or at (something); to [[a/_attack|attack]] (someone) with a [[b/_booby|booby]] trap.**

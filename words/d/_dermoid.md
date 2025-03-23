@@ -4,5 +4,5 @@
 - **Resembling skin**
 ---
 ### Synonyms
-- [[dermatoid]]
+- [[d/_dermatoid|dermatoid]]
 ---

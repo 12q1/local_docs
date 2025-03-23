@@ -5,5 +5,5 @@
 - **A [[c/_crane|crane]], often working in pairs and usually made of steel, used to lower things over an [[e/_edge|edge]] of a long [[d/_drop|drop]] off, such as lowering a maintenance trapeze [[d/_down|down]] a [[b/_building|building]] or launching a lifeboat over the side of a ship.**
 ---
 ### Synonyms
-- [[fish davit]]
+- 
 ---

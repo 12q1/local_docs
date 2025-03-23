@@ -8,7 +8,7 @@
 - **[[a/_any|Any]] of several four-wheeled [[c/_carriages|carriages]]; a [[c/_cabriolet|cabriolet]]**
 ---
 ### Synonyms
-- [[driver's compartment]]
+- 
 #verb
 - **To travel by taxicab.**
 ---

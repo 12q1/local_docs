@@ -7,5 +7,5 @@
 - **To [[e/_entangle|entangle]] or run [[a/_against|against]] so as to impede motion.**
 ---
 ### Synonyms
-- [[besmirch]], [[sully]], [[tarnish]]
+- [[b/_besmirch|besmirch]], [[s/_sully|sully]], [[t/_tarnish|tarnish]]
 ---

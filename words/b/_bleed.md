@@ -2,7 +2,7 @@
 ---
 #noun
 - **An incident of [[b/_bleeding|bleeding]], as in haemophilia.**
-- **A narrow [[e/_edge|edge]] [[a/_around|around]] a page layout, to be printed but [[c/_cut|cut]] off [[a/_afterwards|afterwards]] ([[a/_added|added]] to [[a/_allow|allow]] for slight misalignment, especially with pictures that should run to the [[e/_edge|edge]] of the finished sheet).**
+- **A narrow [[e/_edge|edge]] [[a/_around|around]] a page layout, to be printed but [[c/_cut|cut]] off [[a/_afterwards|afterwards]] ([[a/_added|added]] to [[a/_allow|allow]] for slight misalignment, [[e/_especially|especially]] with pictures that should run to the [[e/_edge|edge]] of the finished sheet).**
 - **(sound recording) The situation where sound is picked up by a microphone from a source other than that which is intended.**
 - **The removal of [[a/_air|air]] [[b/_bubbles|bubbles]] from a pipe [[c/_containing|containing]] other fluids.**
 ---

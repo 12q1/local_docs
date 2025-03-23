@@ -9,5 +9,5 @@
 - **A saucisse.**
 ---
 ### Synonyms
-- [[ham]], [[pork]]
+- [[h/_ham|ham]], [[p/_pork|pork]]
 ---

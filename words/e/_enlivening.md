@@ -6,5 +6,5 @@
 	- _Example: The game was much enlivened when both teams scored within five minutes of each other._
 ---
 ### Synonyms
-- [[liven]], [[liven up]]
+- [[l/_liven|liven]]
 ---

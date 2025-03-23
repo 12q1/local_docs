@@ -5,5 +5,5 @@
 - **Food, such as a stew, [[c/_cooked|cooked]] in such a [[d/_dish|dish]].**
 ---
 ### Synonyms
-- [[hotdish]], [[hotpot]], [[stew]], [[casserole dish]]
+- [[h/_hotdish|hotdish]], [[h/_hotpot|hotpot]], [[s/_stew|stew]]
 ---

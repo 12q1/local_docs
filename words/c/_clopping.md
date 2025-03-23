@@ -5,6 +5,6 @@
 ---
 #noun
 - **The sound or [[a/_action|action]] of something that [[c/_clops|clops]].**
-- **The [[a/_act|act]] of masturbating to erotic fanart of My Little Pony [[c/_characters|characters]].**
+- **The [[a/_act|act]] of masturbating to [[e/_erotic|erotic]] fanart of My Little Pony [[c/_characters|characters]].**
 ---
 ---

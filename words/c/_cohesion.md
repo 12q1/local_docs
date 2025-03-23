@@ -9,5 +9,5 @@
 - **Grammatical or lexical relationship [[b/_between|between]] [[d/_different|different]] parts of the same text.**
 ---
 ### Antonyms
-- [[adhesion]], [[coupling]]
+- [[a/_adhesion|adhesion]], [[c/_coupling|coupling]]
 ---

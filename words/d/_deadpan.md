@@ -4,7 +4,7 @@
 - **A style of [[c/_comedic|comedic]] [[d/_delivery|delivery]] in which something humorous is said or [[d/_done|done]] while not exhibiting a [[c/_change|change]] in [[e/_emotion|emotion]] or facial expression.**
 ---
 ### Synonyms
-- [[deadpan comedy]], [[deadpan humour]]
+- 
 #verb
 - **To express (oneself) in an impassive or expressionless manner.**
 ---
@@ -15,7 +15,7 @@
 - **Impassive.**
 ---
 ### Synonyms
-- [[poker-faced]]
+- [[p/_poker-faced|poker-faced]]
 #adverb
 - **In a [[d/_deadpan|deadpan]] manner.**
 ---

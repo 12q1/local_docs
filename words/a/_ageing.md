@@ -11,7 +11,7 @@
 	- _Example: He grew fat as he aged._
 ---
 ### Synonyms
-- [[mature]], [[elden]]
+- [[m/_mature|mature]], [[e/_elden|elden]]
 #noun
 - **The process of [[b/_becoming|becoming]] older or more mature.**
 - **The [[d/_deliberate|deliberate]] process of making something (such as an [[a/_antique|antique]]) [[a/_appear|appear]] (or, in science fiction, [[b/_become|become]]) older than it is.**

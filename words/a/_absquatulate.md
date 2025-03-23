@@ -5,5 +5,5 @@
 - **To [[a/_abscond|abscond]].**
 ---
 ### Synonyms
-- [[abscond]], [[decamp]], [[skedaddle]], [[vamoose]]
+- [[a/_abscond|abscond]], [[d/_decamp|decamp]], [[s/_skedaddle|skedaddle]], [[v/_vamoose|vamoose]]
 ---

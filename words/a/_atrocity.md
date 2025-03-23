@@ -7,5 +7,5 @@
 - **An object [[c/_considered|considered]] to be extremely unattractive or undesirable.**
 ---
 ### Synonyms
-- [[abomination]], [[atrociousness]], [[brutality]], [[heinousness]]
+- [[a/_abomination|abomination]], [[a/_atrociousness|atrociousness]], [[b/_brutality|brutality]], [[h/_heinousness|heinousness]]
 ---

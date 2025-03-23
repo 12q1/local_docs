@@ -6,5 +6,5 @@
 - **The midday [[b/_break|break]] in [[e/_english|English]] schools (some [[a/_areas|areas]]), lunchtime.**
 ---
 ### Synonyms
-- [[suppertime]]
+- [[s/_suppertime|suppertime]]
 ---

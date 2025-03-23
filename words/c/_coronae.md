@@ -2,7 +2,7 @@
 ---
 #noun
 - **The luminous plasma [[a/_atmosphere|atmosphere]] of the Sun or other star, extending millions of kilometres into space, most [[e/_easily|easily]] seen [[d/_during|during]] a total solar [[e/_eclipse|eclipse]].**
-- **A [[c/_circle|circle]] or set of [[c/_circles|circles]] visible [[a/_around|around]] a [[b/_bright|bright]] [[c/_celestial|celestial]] object, especially the Sun or the Moon, [[a/_attributable|attributable]] to an optical phenomenon produced by the [[d/_diffraction|diffraction]] of its light by small water [[d/_droplets|droplets]] or tiny ice [[c/_crystals|crystals]].**
+- **A [[c/_circle|circle]] or set of [[c/_circles|circles]] visible [[a/_around|around]] a [[b/_bright|bright]] [[c/_celestial|celestial]] object, [[e/_especially|especially]] the Sun or the Moon, [[a/_attributable|attributable]] to an optical phenomenon produced by the [[d/_diffraction|diffraction]] of its light by small water [[d/_droplets|droplets]] or tiny ice [[c/_crystals|crystals]].**
 - **(by extension) [[a/_any|Any]] luminous or [[c/_crownlike|crownlike]] ring [[a/_around|around]] an object or person.**
 - **A luminous [[a/_appearance|appearance]] [[c/_caused|caused]] by [[c/_corona|corona]] [[d/_discharge|discharge]], often seen as a [[b/_bluish|bluish]] glow in the [[a/_air|air]] [[a/_adjacent|adjacent]] to pointed metal [[c/_conductors|conductors]] [[c/_carrying|carrying]] high voltages.**
 - **The large, flat, projecting member of a [[c/_cornice|cornice]] which [[c/_crowns|crowns]] the [[e/_entablature|entablature]], situated [[a/_above|above]] the [[b/_bed|bed]] moulding and [[b/_below|below]] the [[c/_cymatium|cymatium]].**
@@ -15,5 +15,5 @@
 - **A mineral zone, [[c/_consisting|consisting]] of one or more minerals, which surrounds [[a/_another|another]] mineral or lies at the interface of two minerals, typically in a radial [[a/_arrangement|arrangement]]; a reaction rim.**
 ---
 ### Synonyms
-- [[corona lucis]], [[corona veneris]], [[crown of Venus]], [[drip]], [[larmier]]
+- [[d/_drip|drip]], [[l/_larmier|larmier]]
 ---

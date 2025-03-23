@@ -5,5 +5,5 @@
 - **To unite or [[c/_connect|connect]] firmly, as in a system.**
 ---
 ### Synonyms
-- [[compress]], [[condense]]
+- [[c/_compress|compress]], [[c/_condense|condense]]
 ---

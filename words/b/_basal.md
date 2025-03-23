@@ -15,5 +15,5 @@
 	- _Example: A magnolia is a basal angiosperm._
 ---
 ### Synonyms
-- [[basilar]]
+- [[b/_basilar|basilar]]
 ---

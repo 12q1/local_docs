@@ -4,5 +4,5 @@
 - **A thief who steals from others' purses or pockets in public.**
 ---
 ### Synonyms
-- [[pickpocket]]
+- [[p/_pickpocket|pickpocket]]
 ---

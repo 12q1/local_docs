@@ -6,5 +6,5 @@
 	- _Example: You can donate to the organization as a whole, or you can earmark your contribution for a particular project._
 ---
 ### Synonyms
-- [[appropriate]], [[sepose]]
+- [[a/_appropriate|appropriate]], [[s/_sepose|sepose]]
 ---

@@ -4,5 +4,5 @@
 - **A tavern that sells [[b/_beer|beer]].**
 ---
 ### Synonyms
-- [[alehouse]]
+- [[a/_alehouse|alehouse]]
 ---

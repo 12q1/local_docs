@@ -4,5 +4,5 @@
 - **[[a/_any|Any]] plant of the genus Lycium.**
 ---
 ### Synonyms
-- [[Christmas berry]], [[Duke of Argyll's tea tree]], [[desert-thorn]], [[goji]], [[matrimony vine]], [[wolfberry]]
+- [[d/_desert-thorn|desert-thorn]], [[g/_goji|goji]], [[w/_wolfberry|wolfberry]]
 ---

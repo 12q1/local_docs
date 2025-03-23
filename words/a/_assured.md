@@ -12,5 +12,5 @@
 - **Self-[[c/_confident|confident]]; self-[[a/_assured|assured]]; sure.**
 ---
 ### Synonyms
-- [[sicker]]
+- [[s/_sicker|sicker]]
 ---

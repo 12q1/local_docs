@@ -8,5 +8,5 @@
 - **To produce or [[e/_emit|emit]] (musical sounds).**
 ---
 ### Synonyms
-- [[converse]], [[talk]]
+- [[c/_converse|converse]], [[t/_talk|talk]]
 ---

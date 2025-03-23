@@ -7,7 +7,7 @@
 - **[[d/_dazzle|Dazzle]] [[c/_camouflage|camouflage]].**
 ---
 ### Synonyms
-- [[herd]], [[zeal]]
+- [[h/_herd|herd]], [[z/_zeal|zeal]]
 #verb
 - **To [[c/_confuse|confuse]] the sight of by means of excessive [[b/_brightness|brightness]].**
 	- _Example: Dazzled by the headlights of the lorry, the deer stopped in the middle of the street._
@@ -16,5 +16,5 @@
 - **To be overpowered by light; to be [[c/_confused|confused]] by excess of [[b/_brightness|brightness]].**
 ---
 ### Synonyms
-- [[impress]], [[overpower]]
+- [[i/_impress|impress]], [[o/_overpower|overpower]]
 ---

@@ -5,5 +5,5 @@
 - **[[a/_any|Any]] of various pierid [[b/_butterflies|butterflies]] of the genus Catopsilia. [[a/_also|Also]] [[c/_called|called]] a migrant.**
 ---
 ### Antonyms
-- [[immigrant]]
+- [[i/_immigrant|immigrant]]
 ---

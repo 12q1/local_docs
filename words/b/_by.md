@@ -4,9 +4,9 @@
 - **A flying insect, of the [[c/_clade|clade]] [[a/_anthophila|Anthophila]] within the hymenopteran superfamily [[a/_apoidea|Apoidea]], known for its organised societies (though only a minority have them), for [[c/_collecting|collecting]] pollen and (in some species) producing wax and honey.**
 ---
 ### Synonyms
-- [[king of insects]]
+- 
 #noun
-- **A [[c/_contest|contest]], especially for spelling; see spelling [[b/_bee|bee]].**
+- **A [[c/_contest|contest]], [[e/_especially|especially]] for spelling; see spelling [[b/_bee|bee]].**
 	- _Example: geography bee_
 - **A [[c/_community|community]] gathering to share labour, [[e/_e|e]].g. a sewing [[b/_bee|bee]] or a quilting [[b/_bee|bee]].**
 ---
@@ -20,12 +20,12 @@
 - **(usually in the plural) [[a/_any|Any]] of the pieces of hard wood [[b/_bolted|bolted]] to the sides of the [[b/_bowsprit|bowsprit]], to reeve the fore-topmast stays through.**
 ---
 ### Synonyms
-- [[bee block]]
+- 
 #adjective
 - **Out of the way, subsidiary.**
 ---
 ### Antonyms
-- [[main]], [[principal]]
+- [[m/_main|main]], [[p/_principal|principal]]
 #adverb
 - **[[a/_along|Along]] a path which runs past the speaker.**
 	- _Example: I watched as it passed by._
@@ -44,7 +44,7 @@
 - **Not later than (the given time); not later than the [[e/_end|end]] of (the given time interval).**
 	- _Example: Be back by ten o'clock!._
 - **Indicates the person or thing that [[d/_does|does]] or [[c/_causes|causes]] something: Through the [[a/_action|action]] or presence of.**
-- **Indicates the [[c/_creator|creator]] of a work: Existing through the [[a/_authorship|authorship]] etc. of.**
+- **Indicates the [[c/_creator|creator]] of a work: Existing through the [[a/_authorship|authorship]] [[e/_etc|etc]]. of.**
 	- _Example: There are many well-known plays by William Shakespeare_
 - **Indicates a means of [[a/_achieving|achieving]] something: Involving/using the means of.**
 	- _Example: By 'maybe' she means 'no'._
@@ -68,7 +68,7 @@
 	- _Example: Craig's Crew plays the bye next week._
 - **An extra scored when the [[b/_batsmen|batsmen]] take runs [[a/_after|after]] the [[b/_ball|ball]] has passed the striker without hitting [[e/_either|either]] the [[b/_bat|bat]] or the [[b/_batsman|batsman]].**
 - **A [[d/_dwelling|dwelling]].**
-- **A thing not [[d/_directly|directly]] [[a/_aimed|aimed]] at; something which is a secondary object of regard; an object by the way, etc.**
+- **A thing not [[d/_directly|directly]] [[a/_aimed|aimed]] at; something which is a secondary object of regard; an object by the way, [[e/_etc|etc]].**
 - **A pass.**
 ---
 #interjection

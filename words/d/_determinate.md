@@ -12,5 +12,5 @@
 - **Of [[d/_determined|determined]] purpose; resolute.**
 ---
 ### Antonyms
-- [[indeterminate]], [[indeterminate]], [[nondeterminate]]
+- [[i/_indeterminate|indeterminate]], [[i/_indeterminate|indeterminate]], [[n/_nondeterminate|nondeterminate]]
 ---

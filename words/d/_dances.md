@@ -7,11 +7,11 @@
 - **A genre of modern music [[c/_characterised|characterised]] by sampled [[b/_beats|beats]], repetitive rhythms and few lyrics.**
 - **The [[a/_art|art]], profession, and study of [[d/_dancing|dancing]].**
 - **A piece of music with a particular [[d/_dance|dance]] rhythm.**
-- **A [[b/_battle|battle]] of wits, especially one [[c/_commonly|commonly]] fought [[b/_between|between]] two rivals.**
+- **A [[b/_battle|battle]] of wits, [[e/_especially|especially]] one [[c/_commonly|commonly]] fought [[b/_between|between]] two rivals.**
 	- _Example: So how much longer are we gonna do this dance?_
 ---
 #verb
-- **To move with rhythmic steps or movements, especially in time to music.**
+- **To move with rhythmic steps or movements, [[e/_especially|especially]] in time to music.**
 	- _Example: I danced with her all night long._
 - **To leap or move lightly and rapidly.**
 	- _Example: His eyes danced with pleasure as he spoke.   She accused her political opponent of dancing around the issue instead of confronting it._
@@ -22,5 +22,5 @@
 	- _Example: You make me feel like dancing._
 ---
 ### Synonyms
-- [[throw shapes]], [[do the deed]], [[get some]], [[have sex]]
+- 
 ---

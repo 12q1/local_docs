@@ -7,5 +7,5 @@
 - **A natural gift or talent.**
 ---
 ### Antonyms
-- [[bride price]], [[dower]]
+- [[d/_dower|dower]]
 ---

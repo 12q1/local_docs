@@ -6,7 +6,7 @@
 - **To give spirit or vigour to; to stimulate or [[e/_enliven|enliven]]; to inspirit.**
 ---
 ### Synonyms
-- [[enliven]], [[vitalise]]
+- [[e/_enliven|enliven]], [[v/_vitalise|vitalise]]
 #adjective
 - **Full of life or spirit; lively; vigorous; spritely.**
 	- _Example: an animated discussion_
@@ -15,5 +15,5 @@
 	- _Example: an animated film_
 ---
 ### Synonyms
-- [[claymated]], [[animate]], [[living]], [[brisk]], [[dynamic]], [[peppy]]
+- [[c/_claymated|claymated]], [[a/_animate|animate]], [[l/_living|living]], [[b/_brisk|brisk]], [[d/_dynamic|dynamic]], [[p/_peppy|peppy]]
 ---

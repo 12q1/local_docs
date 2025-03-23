@@ -8,5 +8,5 @@
 	- _Example: In later years, the professor became known as an eminent historian._
 ---
 ### Synonyms
-- [[distinguished]], [[noteworthy]], [[outstanding]], [[remarkable]], [[prominent]], [[towering]]
+- [[d/_distinguished|distinguished]], [[n/_noteworthy|noteworthy]], [[o/_outstanding|outstanding]], [[r/_remarkable|remarkable]], [[p/_prominent|prominent]], [[t/_towering|towering]]
 ---

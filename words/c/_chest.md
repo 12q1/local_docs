@@ -13,7 +13,7 @@
 	- _Example: He scored with a chest into the goal._
 ---
 ### Synonyms
-- [[trunk]], [[breast]]
+- [[t/_trunk|trunk]], [[b/_breast|breast]]
 #verb
 - **To hit with one's [[c/_chest|chest]] (front of one's [[b/_body|body]])**
 - **To [[d/_deposit|deposit]] in a [[c/_chest|chest]].**

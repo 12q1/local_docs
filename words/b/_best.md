@@ -12,7 +12,7 @@
 - **To [[b/_beat|beat]] in a [[c/_contest|contest]]**
 ---
 ### Antonyms
-- [[worst]]
+- [[w/_worst|worst]]
 #adjective
 - **Most; largest.**
 	- _Example: Unpacking took the best part of a week._
@@ -20,21 +20,21 @@
 	- _Example: In my opinion, mushrooms are the best pizza toppings._
 ---
 ### Antonyms
-- [[baddest]], [[worst]]
+- [[b/_baddest|baddest]], [[w/_worst|worst]]
 #adjective
 - **(of people)**
 - **(of [[c/_capabilities|capabilities]])**
 - **(properties and qualities)**
 - **(when with and) Very, extremely. See good and.**
 	- _Example: The soup is good and hot._
-- **Holy (especially when [[c/_capitalized|capitalized]]) .**
+- **Holy ([[e/_especially|especially]] when [[c/_capitalized|capitalized]]) .**
 	- _Example: Good Friday_
 - **(of quantities)**
 ---
 ### Synonyms
-- [[accomplished]], [[all right]], [[decent]], [[not bad]], [[satisfactory]], [[well]]
+- [[a/_accomplished|accomplished]], [[d/_decent|decent]], [[s/_satisfactory|satisfactory]], [[w/_well|well]]
 ### Antonyms
-- [[bad]], [[evil]], [[bad]], [[poor]]
+- [[b/_bad|bad]], [[e/_evil|evil]], [[b/_bad|bad]], [[p/_poor|poor]]
 #adverb
 - **(manner) [[a/_accurately|Accurately]], [[c/_competently|competently]], satisfactorily.**
 	- _Example: He does his job well._

@@ -9,5 +9,5 @@
 - **To [[a/_abstain|abstain]] from; to [[a/_avoid|avoid]]; to shun.**
 ---
 ### Synonyms
-- [[avoid]], [[shun]], [[disclaim]], [[repudiate]], [[disavow]], [[forswear]], [[renounce]]
+- [[a/_avoid|avoid]], [[s/_shun|shun]], [[d/_disclaim|disclaim]], [[r/_repudiate|repudiate]], [[d/_disavow|disavow]], [[f/_forswear|forswear]], [[r/_renounce|renounce]]
 ---

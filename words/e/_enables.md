@@ -9,10 +9,10 @@
 - **To imply or tacitly [[c/_confer|confer]] excuse for an [[a/_action|action]] or a [[b/_behavior|behavior]].**
 	- _Example: His parents enabled him to go on buying drugs._
 - **To put a [[c/_circuit|circuit]] [[e/_element|element]] into [[a/_action|action]] by supplying a suitable input pulse.**
-- **To [[a/_activate|activate]], to make operational (especially of a function of an [[e/_electronic|electronic]] or mechanical [[d/_device|device]]).**
+- **To [[a/_activate|activate]], to make operational ([[e/_especially|especially]] of a function of an [[e/_electronic|electronic]] or mechanical [[d/_device|device]]).**
 ---
 ### Synonyms
-- [[activate]], [[turn on]], [[allow]], [[authorize]], [[let]], [[permit]], [[empower]], [[endow]]
+- [[a/_activate|activate]], [[a/_allow|allow]], [[a/_authorize|authorize]], [[l/_let|let]], [[p/_permit|permit]], [[e/_empower|empower]], [[e/_endow|endow]]
 ### Antonyms
-- [[disable]]
+- [[d/_disable|disable]]
 ---

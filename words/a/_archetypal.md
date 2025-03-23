@@ -4,5 +4,5 @@
 - **Of or pertaining to an [[a/_archetype|archetype]].**
 ---
 ### Synonyms
-- [[archetypic]], [[archetypical]]
+- [[a/_archetypic|archetypic]], [[a/_archetypical|archetypical]]
 ---

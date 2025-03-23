@@ -10,5 +10,5 @@
 - **A [[c/_contemporary|contemporary]] or rival.**
 ---
 ### Synonyms
-- [[pledge]]
+- [[p/_pledge|pledge]]
 ---

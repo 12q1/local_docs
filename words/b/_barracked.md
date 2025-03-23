@@ -9,5 +9,5 @@
 - **To [[c/_cheer|cheer]] for or support a team.**
 ---
 ### Synonyms
-- [[cheer]], [[root for]], [[badger]], [[jeer]], [[make fun of]], [[tease]]
+- [[c/_cheer|cheer]], [[b/_badger|badger]], [[j/_jeer|jeer]], [[t/_tease|tease]]
 ---

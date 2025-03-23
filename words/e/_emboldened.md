@@ -6,7 +6,7 @@
 - **To format text in [[b/_boldface|boldface]].**
 ---
 ### Synonyms
-- [[boldface]]
+- [[b/_boldface|boldface]]
 #adjective
 - **Having [[b/_been|been]] made [[b/_bold|bold]].**
 ---

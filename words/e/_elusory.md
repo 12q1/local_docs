@@ -4,5 +4,5 @@
 - **That tends to [[e/_elude|elude]]**
 ---
 ### Synonyms
-- [[elusive]], [[evasive]]
+- [[e/_elusive|elusive]], [[e/_evasive|evasive]]
 ---

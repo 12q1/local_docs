@@ -6,5 +6,5 @@
 - **[[a/_any|Any]] other species in the genus Ocimum.**
 ---
 ### Synonyms
-- [[St. Joseph's wort]], [[albahaca]], [[sweet basil]]
+- [[a/_albahaca|albahaca]]
 ---

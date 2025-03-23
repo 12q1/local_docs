@@ -12,5 +12,5 @@
 - **To flatten (metal) by hammering, so as to [[c/_compress|compress]] it inwardly and spread it outwardly.**
 ---
 ### Synonyms
-- [[intoxicate]], [[thrash]]
+- [[i/_intoxicate|intoxicate]], [[t/_thrash|thrash]]
 ---

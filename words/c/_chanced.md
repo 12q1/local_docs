@@ -12,5 +12,5 @@
 	- _Example: The car broke down a week after I bought it. I was chanced by that fast-talking salesman._
 ---
 ### Synonyms
-- [[come across]], [[come on]], [[come upon]], [[encounter]], [[stumble upon]], [[come to pass]], [[occur]], [[transpire]], [[deceive]], [[fool]], [[trick]], [[test]]
+- [[e/_encounter|encounter]], [[o/_occur|occur]], [[t/_transpire|transpire]], [[d/_deceive|deceive]], [[f/_fool|fool]], [[t/_trick|trick]], [[t/_test|test]]
 ---

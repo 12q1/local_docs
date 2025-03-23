@@ -7,5 +7,5 @@
 - **The length of time that a ship's rations will supply**
 ---
 ### Synonyms
-- [[thole]]
+- [[t/_thole|thole]]
 ---

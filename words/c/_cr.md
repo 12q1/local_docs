@@ -5,5 +5,5 @@
 - **One who gives [[c/_credence|credence]] to something; a [[b/_believer|believer]].**
 ---
 ### Antonyms
-- [[debtor]], [[debtor]]
+- [[d/_debtor|debtor]], [[d/_debtor|debtor]]
 ---

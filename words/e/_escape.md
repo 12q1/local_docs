@@ -1,0 +1,31 @@
+# Escape
+---
+#noun
+- **The [[a/_act|act]] of leaving a [[d/_dangerous|dangerous]] or unpleasant situation.**
+	- _Example: The prisoners made their escape by digging a tunnel._
+- **Leakage or outflow, as of steam or a liquid, or an [[e/_electric|electric]] [[c/_current|current]] through [[d/_defective|defective]] insulation.**
+- **Something that has [[e/_escaped|escaped]]; an [[e/_escapee|escapee]].**
+- **A holiday, viewed as time [[a/_away|away]] from the vicissitudes of life.**
+- **[[e/_escape|Escape]] key**
+- **The text [[c/_character|character]] represented by 27 ([[d/_decimal|decimal]]) or 1B (hexadecimal).**
+	- _Example: You forgot to insert an escape in the datastream._
+- **A successful shot from a snooker position.**
+- **A [[d/_defective|defective]] product that is [[a/_allowed|allowed]] to leave a manufacturing facility.**
+- **That which [[e/_escapes|escapes]] [[a/_attention|attention]] or restraint; a mistake, oversight, or transgression.**
+- **A sally.**
+- **An [[a/_apophyge|apophyge]].**
+---
+#verb
+- **To get free; to free oneself.**
+	- _Example: The factory was evacuated after toxic gases escaped from a pipe._
+- **To [[a/_avoid|avoid]] ([[a/_any|any]] unpleasant person or thing); to [[e/_elude|elude]], get [[a/_away|away]] from.**
+	- _Example: He only got a fine and so escaped going to jail._
+- **To [[a/_avoid|avoid]] [[c/_capture|capture]]; to get [[a/_away|away]] with something, [[a/_avoid|avoid]] punishment.**
+	- _Example: Luckily, I escaped with only a fine._
+- **To [[e/_elude|elude]] the observation or notice of; to not be seen or remembered by.**
+	- _Example: The name of the hotel escapes me at present._
+- **To [[c/_cause|cause]] (a single [[c/_character|character]], or [[a/_all|all]] such [[c/_characters|characters]] in a string) to be interpreted literally, instead of with [[a/_any|any]] special meaning it would usually have in the same [[c/_context|context]], often by prefixing with [[a/_another|another]] [[c/_character|character]].**
+	- _Example: Brion escaped the double quote character on Windows by adding a second double quote within the literal._
+- **To halt a program or [[c/_command|command]] by pressing a key (such as the "[[e/_esc|Esc]]" key) or [[c/_combination|combination]] of keys.**
+---
+---

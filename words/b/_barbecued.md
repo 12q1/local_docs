@@ -5,7 +5,7 @@
 - **To grill.**
 ---
 ### Synonyms
-- [[braai]]
+- [[b/_braai|braai]]
 #adjective
 - **[[c/_cooked|Cooked]] on a [[b/_barbecue|barbecue]].**
 ---

@@ -4,5 +4,5 @@
 - **To [[b/_burn|burn]] with intense light and heat.**
 ---
 ### Antonyms
-- [[detonate]]
+- [[d/_detonate|detonate]]
 ---

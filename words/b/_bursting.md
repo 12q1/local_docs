@@ -9,7 +9,7 @@
 - **To separate (printer paper) at perforation lines.**
 	- _Example: I printed the report on form-feed paper, then burst the sheets._
 - **To [[e/_enter|enter]] or exit hurriedly and unexpectedly.**
-- **To erupt; to [[c/_change|change]] state suddenly as if [[b/_bursting|bursting]].**
+- **To [[e/_erupt|erupt]]; to [[c/_change|change]] state suddenly as if [[b/_bursting|bursting]].**
 	- _Example: The flowers burst into bloom on the first day of spring._
 - **To produce as an [[e/_effect|effect]] of [[b/_bursting|bursting]].**
 	- _Example: to burst a hole through the wall_
@@ -26,5 +26,5 @@
 	- _Example: Can you tell me where the toilets are? I'm bursting._
 ---
 ### Synonyms
-- [[busting]]
+- [[b/_busting|busting]]
 ---

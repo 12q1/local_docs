@@ -7,5 +7,5 @@
 - **A software tool that provides [[a/_assistance|assistance]] in some task, a wizard program.**
 ---
 ### Synonyms
-- [[wizard]]
+- [[w/_wizard|wizard]]
 ---

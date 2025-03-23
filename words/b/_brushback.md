@@ -5,5 +5,5 @@
 - **An [[a/_action|action]] intended to threaten or frighten someone.**
 ---
 ### Synonyms
-- [[brushback]]
+- [[b/_brushback|brushback]]
 ---

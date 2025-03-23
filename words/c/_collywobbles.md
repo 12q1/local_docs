@@ -7,5 +7,5 @@
 	- _Example: I don't like walking through the forest at night. It gives me the collywobbles._
 ---
 ### Synonyms
-- [[butterflies]], [[creeps]], [[heebie-jeebies]], [[willies]], [[mulligrubs]]
+- [[b/_butterflies|butterflies]], [[c/_creeps|creeps]], [[h/_heebie-jeebies|heebie-jeebies]], [[w/_willies|willies]], [[m/_mulligrubs|mulligrubs]]
 ---

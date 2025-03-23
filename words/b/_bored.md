@@ -16,7 +16,7 @@
 - **To fool; to trick.**
 ---
 ### Antonyms
-- [[interest]]
+- [[i/_interest|interest]]
 #adjective
 - **Suffering from [[b/_boredom|boredom]]; mildly [[a/_annoyed|annoyed]] and restless through having nothing to [[d/_do|do]]**
 - **Uninterested, without [[a/_attention|attention]]**

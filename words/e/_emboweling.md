@@ -5,7 +5,7 @@
 - **To remove the [[b/_bowels|bowels]]; [[d/_disembowel|disembowel]].**
 ---
 ### Synonyms
-- [[bury]], [[embed]], [[enclose]], [[inclose]], [[disembowel]], [[eviscerate]]
+- [[b/_bury|bury]], [[e/_embed|embed]], [[e/_enclose|enclose]], [[i/_inclose|inclose]], [[d/_disembowel|disembowel]], [[e/_eviscerate|eviscerate]]
 #noun
 - **An [[a/_act|act]] of [[d/_disembowelment|disembowelment]].**
 ---

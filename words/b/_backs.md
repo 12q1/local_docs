@@ -1,7 +1,7 @@
 # Backs
 ---
 #noun
-- **The rear of the [[b/_body|body]], especially the part [[b/_between|between]] the neck and the [[e/_end|end]] of the spine and opposite the [[c/_chest|chest]] and [[b/_belly|belly]].**
+- **The rear of the [[b/_body|body]], [[e/_especially|especially]] the part [[b/_between|between]] the neck and the [[e/_end|end]] of the spine and opposite the [[c/_chest|chest]] and [[b/_belly|belly]].**
 	- _Example: Could you please scratch my back?_
 - **That which is farthest [[a/_away|away]] from the front.**
 	- _Example: He sat in the back of the room._
@@ -18,9 +18,9 @@
 - **[[a/_among|Among]] leather [[d/_dealers|dealers]], one of the thickest and stoutest tanned hides.**
 ---
 ### Synonyms
-- [[dorsum]], [[reverse]]
+- [[d/_dorsum|dorsum]], [[r/_reverse|reverse]]
 ### Antonyms
-- [[front]], [[front]]
+- [[f/_front|front]], [[f/_front|front]]
 #verb
 - **To go in the reverse [[d/_direction|direction]].**
 	- _Example: the train backed into the station;  the horse refuses to back_
@@ -44,9 +44,9 @@
 	- _Example: to back the oars_
 ---
 ### Antonyms
-- [[veer]]
+- [[v/_veer|veer]]
 #noun
-- **A large shallow vat; a [[c/_cistern|cistern]], tub, or trough, used by [[b/_brewers|brewers]], [[d/_distillers|distillers]], [[d/_dyers|dyers]], picklers, gluemakers, and others, for mixing or [[c/_cooling|cooling]] wort, holding water, hot glue, etc.**
+- **A large shallow vat; a [[c/_cistern|cistern]], tub, or trough, used by [[b/_brewers|brewers]], [[d/_distillers|distillers]], [[d/_dyers|dyers]], picklers, gluemakers, and others, for mixing or [[c/_cooling|cooling]] wort, holding water, hot glue, [[e/_etc|etc]].**
 - **A ferryboat.**
 ---
 ---

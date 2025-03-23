@@ -10,16 +10,16 @@
 	- _Example: Milk is a caloric beverage._
 ---
 ### Synonyms
-- [[calorific]]
+- [[c/_calorific|calorific]]
 ### Antonyms
-- [[noncaloric]]
+- [[n/_noncaloric|noncaloric]]
 #adjective
 - **Relating to [[c/_calories|calories]].**
 - **Relating to or producing heat or other [[e/_energy|energy]].**
 - **(of food) High in [[c/_calories|calories]] and thus likely fattening.**
 ---
 ### Synonyms
-- [[caloric]]
+- [[c/_caloric|caloric]]
 ### Antonyms
-- [[frigorific]]
+- [[f/_frigorific|frigorific]]
 ---

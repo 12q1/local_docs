@@ -9,9 +9,9 @@
 - **The iron lining in the nave of a wheel.**
 ---
 ### Synonyms
-- [[box]]
+- [[b/_box|box]]
 #verb
 - **To mend or repair [[c/_clothes|clothes]].**
-- **To pack grain, hops, etc. into [[b/_bushel|bushel]] measures.**
+- **To pack grain, hops, [[e/_etc|etc]]. into [[b/_bushel|bushel]] measures.**
 ---
 ---

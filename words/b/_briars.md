@@ -5,7 +5,7 @@
 - **[[a/_anything|Anything]] sharp or unpleasant to the feelings.**
 ---
 #noun
-- **The white heath, Erica [[a/_arborea|arborea]], a thorny Mediterranean shrub.**
+- **The white heath, [[e/_erica|Erica]] [[a/_arborea|arborea]], a thorny Mediterranean shrub.**
 - **A pipe for smoking, made from the roots of that shrub.**
 ---
 ---

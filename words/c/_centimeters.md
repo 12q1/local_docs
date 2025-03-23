@@ -4,5 +4,5 @@
 - **An SI unit of length [[e/_equal|equal]] to 10-2 metres. Symbol: [[c/_cm|cm]]**
 ---
 ### Synonyms
-- [[cm]], [[㎝]]
+- [[c/_cm|cm]], [[㎝/_㎝|㎝]]
 ---

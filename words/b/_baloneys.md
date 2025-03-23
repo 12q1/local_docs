@@ -4,5 +4,5 @@
 - **A type of sausage; [[b/_bologna|bologna]].**
 ---
 ### Synonyms
-- [[bologna]]
+- [[b/_bologna|bologna]]
 ---

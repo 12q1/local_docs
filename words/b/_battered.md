@@ -12,9 +12,9 @@
 - **To flatten (metal) by hammering, so as to [[c/_compress|compress]] it inwardly and spread it outwardly.**
 ---
 ### Synonyms
-- [[intoxicate]], [[thrash]]
+- [[i/_intoxicate|intoxicate]], [[t/_thrash|thrash]]
 #verb
-- **To slope (of walls, [[b/_buildings|buildings]] etc.).**
+- **To slope (of walls, [[b/_buildings|buildings]] [[e/_etc|etc]].).**
 ---
 #adjective
 - **[[b/_beaten|Beaten]] up through a lot of use; in rough [[c/_condition|condition]]; weathered.**

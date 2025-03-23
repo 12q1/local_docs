@@ -5,7 +5,7 @@
 - **Of, or like a [[b/_baby|baby]]; infantile**
 ---
 ### Synonyms
-- [[cherubical]], [[cherublike]]
+- [[c/_cherubical|cherubical]], [[c/_cherublike|cherublike]]
 ### Antonyms
-- [[uncherubic]]
+- [[u/_uncherubic|uncherubic]]
 ---

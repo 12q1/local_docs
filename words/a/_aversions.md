@@ -8,5 +8,5 @@
 - **The [[a/_act|act]] of turning [[a/_away|away]] from an object.**
 ---
 ### Synonyms
-- [[abomination]], [[antipathy]], [[disinclination]], [[reluctance]]
+- [[a/_abomination|abomination]], [[a/_antipathy|antipathy]], [[d/_disinclination|disinclination]], [[r/_reluctance|reluctance]]
 ---

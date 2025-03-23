@@ -7,5 +7,5 @@
 - **The measure of the synergism of the strength of individual interactions [[b/_between|between]] proteins.**
 ---
 ### Synonyms
-- [[alacrity]], [[eagerness]], [[enthusiasm]], [[liveliness]]
+- [[a/_alacrity|alacrity]], [[e/_eagerness|eagerness]], [[e/_enthusiasm|enthusiasm]], [[l/_liveliness|liveliness]]
 ---

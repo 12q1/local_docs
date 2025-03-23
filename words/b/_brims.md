@@ -7,7 +7,7 @@
 - **An [[e/_edge|edge]] or [[b/_border|border]] (originally specifically of the sea or a [[b/_body|body]] of water).**
 - **The topmost rim or lip of a [[c/_container|container]].**
 	- _Example: The toy box was filled to the brim with stuffed animals._
-- **A projecting rim, especially of a hat.**
+- **A projecting rim, [[e/_especially|especially]] of a hat.**
 	- _Example: He turned the back of his brim up stylishly._
 ---
 #verb

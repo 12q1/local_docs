@@ -5,5 +5,5 @@
 - **[[c/_completely|Completely]] opposed**
 ---
 ### Synonyms
-- [[antipodal]], [[diametral]]
+- [[a/_antipodal|antipodal]], [[d/_diametral|diametral]]
 ---

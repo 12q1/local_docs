@@ -13,5 +13,5 @@
 - **(of a person) White, [[b/_being|being]] a white person.**
 ---
 ### Synonyms
-- [[Caucasoid]], [[Europid]]
+- [[C/_Caucasoid|Caucasoid]], [[E/_Europid|Europid]]
 ---

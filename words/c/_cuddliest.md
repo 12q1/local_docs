@@ -5,5 +5,5 @@
 - **Fond of, or prone to [[c/_cuddling|cuddling]]**
 ---
 ### Synonyms
-- [[cuddlesome]]
+- [[c/_cuddlesome|cuddlesome]]
 ---

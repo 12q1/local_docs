@@ -13,5 +13,5 @@
 - **The practice of riding a motorcycle.**
 ---
 ### Synonyms
-- [[cycling]]
+- [[c/_cycling|cycling]]
 ---

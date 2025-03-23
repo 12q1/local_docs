@@ -8,15 +8,15 @@
 - **To serve; to treat; to [[b/_benefit|benefit]].**
 ---
 ### Synonyms
-- [[merit]]
+- [[m/_merit|merit]]
 #noun
 - **[[d/_desert|Desert]], merit**
 ---
 #adjective
 - **Worthy of reward or praise; meritorious**
 	- _Example: the deserving poor_
-- **Meriting, worthy (reward, punishment etc.)**
+- **Meriting, worthy (reward, punishment [[e/_etc|etc]].)**
 ---
 ### Antonyms
-- [[undeserving]]
+- [[u/_undeserving|undeserving]]
 ---

@@ -6,5 +6,5 @@
 - **[[a/_affectionate|Affectionate]] or ironic term of [[a/_address|address]].**
 ---
 ### Synonyms
-- [[crowfoot]], [[ranunculus]]
+- [[c/_crowfoot|crowfoot]], [[r/_ranunculus|ranunculus]]
 ---

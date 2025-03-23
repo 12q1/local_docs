@@ -8,5 +8,5 @@
 - **[[c/_capable|Capable]] of [[b/_being|being]] [[a/_accounted|accounted]] for; explicable; explainable.**
 ---
 ### Synonyms
-- [[amenable]], [[answerable]], [[liable]], [[responsible]]
+- [[a/_amenable|amenable]], [[a/_answerable|answerable]], [[l/_liable|liable]], [[r/_responsible|responsible]]
 ---

@@ -13,7 +13,7 @@
 - **To [[c/_covertly|covertly]] have sex (with a person other than one's primary partner); to [[c/_cheat|cheat]] with.**
 ---
 ### Synonyms
-- [[crawl]]
+- [[c/_crawl|crawl]]
 #noun
 - **The movement of something that [[c/_creeps|creeps]] (like worms or snails)**
 - **A relatively small gradual [[c/_change|change]], variation or [[d/_deviation|deviation]] (from a planned value) in a measure.**
@@ -24,17 +24,17 @@
 - **An increase in strain with time; the gradual flow or [[d/_deformation|deformation]] of a material under stress.**
 - **The imperceptible [[d/_downslope|downslope]] movement of surface rock.**
 - **Someone unpleasantly strange or [[e/_eccentric|eccentric]].**
-- **A frightening and/or [[d/_disconcerting|disconcerting]] person, especially one who gives the speaker [[c/_chills|chills]].**
+- **A frightening and/or [[d/_disconcerting|disconcerting]] person, [[e/_especially|especially]] one who gives the speaker [[c/_chills|chills]].**
 	- _Example: Stop following me, you creep!_
 - **A [[b/_barrier|barrier]] with small openings used to keep large [[a/_animals|animals]] out while [[a/_allowing|allowing]] smaller [[a/_animals|animals]] to pass through.**
 ---
 ### Synonyms
-- [[weirdo]]
+- [[w/_weirdo|weirdo]]
 #noun
 - **(preceded by [[d/_definite|definite]] [[a/_article|article]]) A sensation that things are [[c/_crawling|crawling]] on one's skin.**
 - **(preceded by [[d/_definite|definite]] [[a/_article|article]]) A feeling of fear or horror.**
 	- _Example: I get the creeps walking down that street, even in broad daylight._
 ---
 ### Synonyms
-- [[collywobbles]], [[heebie-jeebies]], [[willies]]
+- [[c/_collywobbles|collywobbles]], [[h/_heebie-jeebies|heebie-jeebies]], [[w/_willies|willies]]
 ---

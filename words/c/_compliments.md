@@ -5,5 +5,5 @@
 - **[[c/_complimentary|Complimentary]] language; [[c/_courtesy|courtesy]], flattery.**
 ---
 ### Antonyms
-- [[insult]]
+- [[i/_insult|insult]]
 ---

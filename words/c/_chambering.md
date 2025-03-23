@@ -13,7 +13,7 @@
 - **To be lascivious.**
 ---
 ### Synonyms
-- [[blissom]], [[lust]]
+- [[b/_blissom|blissom]], [[l/_lust|lust]]
 #noun
 - **The [[c/_chamber|chamber]] of a gun or other firearm.**
 ---

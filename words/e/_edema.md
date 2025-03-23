@@ -5,5 +5,5 @@
 - **A similar swelling in plants [[c/_caused|caused]] by excessive [[a/_accumulation|accumulation]] of water.**
 ---
 ### Synonyms
-- [[dropsy]], [[hydrops]], [[hydropsy]]
+- [[d/_dropsy|dropsy]], [[h/_hydrops|hydrops]], [[h/_hydropsy|hydropsy]]
 ---

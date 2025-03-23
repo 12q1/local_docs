@@ -1,7 +1,7 @@
 # Callaloo
 ---
 #noun
-- **[[a/_any|Any]] of various tropical plants grown in the [[a/_americas|Americas]], especially of the genus Xanthosoma, [[c/_cultivated|cultivated]] for their [[e/_edible|edible]] leaves.**
+- **[[a/_any|Any]] of various tropical plants grown in the [[a/_americas|Americas]], [[e/_especially|especially]] of the genus Xanthosoma, [[c/_cultivated|cultivated]] for their [[e/_edible|edible]] leaves.**
 - **A spicy soup or stew made from such leaves.**
 ---
 ---

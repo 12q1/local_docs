@@ -5,5 +5,5 @@
 - **A [[c/_chain|chain]] of [[b/_booksellers|booksellers]].**
 ---
 ### Synonyms
-- [[conger eel]]
+- 
 ---

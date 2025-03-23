@@ -28,7 +28,7 @@
 - **A flop; a film that performs poorly at the [[b/_box|box]] office.**
 ---
 ### Synonyms
-- [[Canis canis]], [[Canis domesticus]], [[Canis familiaris]], [[canine]], [[domestic dog]], [[hound]], [[sire]], [[stud]], [[bloke]], [[chap]], [[dude]], [[fellow]], [[guy]], [[man]], [[click]], [[detent]], [[pawl]], [[andiron]], [[dogiron]], [[firedog]], [[blackguard]], [[bounder]], [[cad]], [[fool]], [[heel]], [[hound]], [[scoundrel]]
+- [[c/_canine|canine]], [[h/_hound|hound]], [[s/_sire|sire]], [[s/_stud|stud]], [[b/_bloke|bloke]], [[c/_chap|chap]], [[d/_dude|dude]], [[f/_fellow|fellow]], [[g/_guy|guy]], [[m/_man|man]], [[c/_click|click]], [[d/_detent|detent]], [[p/_pawl|pawl]], [[a/_andiron|andiron]], [[d/_dogiron|dogiron]], [[f/_firedog|firedog]], [[b/_blackguard|blackguard]], [[b/_bounder|bounder]], [[c/_cad|cad]], [[f/_fool|fool]], [[h/_heel|heel]], [[h/_hound|hound]], [[s/_scoundrel|scoundrel]]
 #verb
 - **To pursue with the intent to [[c/_catch|catch]].**
 - **To follow in an [[a/_annoying|annoying]] or harassing way.**
@@ -43,7 +43,7 @@
 - **To [[d/_divide|divide]] (a watch) with a [[c/_comrade|comrade]].**
 ---
 ### Synonyms
-- [[chase]], [[chase after]], [[go after]], [[pursue]], [[tag]], [[tail]], [[track]], [[trail]], [[goldbrick]], [[soldier]]
+- [[c/_chase|chase]], [[p/_pursue|pursue]], [[t/_tag|tag]], [[t/_tail|tail]], [[t/_track|track]], [[t/_trail|trail]], [[g/_goldbrick|goldbrick]], [[s/_soldier|soldier]]
 #noun
 - **Meat from a [[d/_dog|dog]] [[e/_eaten|eaten]] as food.**
 	- _Example: We visited South Korea this time around, where we ate dog meat for the first time._
@@ -52,5 +52,5 @@
 	- _Example: Did you just step on my blue suede shoes? You're dog meat now!_
 ---
 ### Synonyms
-- [[dog]], [[dog food]], [[fragrant meat]]
+- [[d/_dog|dog]]
 ---

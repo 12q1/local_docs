@@ -5,7 +5,7 @@
 	- _Example: His two-fingered gesture emphasized what he had told his boss to do with his job._
 ---
 ### Synonyms
-- [[betone]], [[stress]], [[underscore]]
+- [[b/_betone|betone]], [[s/_stress|stress]], [[u/_underscore|underscore]]
 ### Antonyms
-- [[de-emphasize]], [[downplay]]
+- [[d/_de-emphasize|de-emphasize]], [[d/_downplay|downplay]]
 ---

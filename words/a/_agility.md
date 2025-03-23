@@ -6,5 +6,5 @@
 - **A faculty of [[b/_being|being]] [[a/_agile|agile]] in [[b/_body|body]], mind, or figuratively.**
 ---
 ### Synonyms
-- [[nimbleness]]
+- [[n/_nimbleness|nimbleness]]
 ---

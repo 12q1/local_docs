@@ -1,7 +1,7 @@
 # Annual
 ---
 #noun
-- **An [[a/_annual|annual]] publication; a [[b/_book|book]], periodical, journal, report, [[c/_comic|comic]] [[b/_book|book]], yearbook, etc., which is published serially once a year, which may or may not be in [[a/_addition|addition]] to regular weekly or monthly publication.**
+- **An [[a/_annual|annual]] publication; a [[b/_book|book]], periodical, journal, report, [[c/_comic|comic]] [[b/_book|book]], yearbook, [[e/_etc|etc]]., which is published serially once a year, which may or may not be in [[a/_addition|addition]] to regular weekly or monthly publication.**
 	- _Example: I read the magazine, but I usually don't purchase the annuals._
 - **An [[a/_annual|annual]] plant; a plant with a life span of just one growing season; a plant which naturally germinates, flowers and [[d/_dies|dies]] in one year. [[c/_compare|Compare]] [[b/_biennial|biennial]], perennial.**
 	- _Example: I can't wait to plant my annuals in the spring._
@@ -17,5 +17,5 @@
 - **Living or lasting just one season or year, as [[c/_certain|certain]] insects or insect [[c/_colonies|colonies]].**
 ---
 ### Synonyms
-- [[yearly]]
+- [[y/_yearly|yearly]]
 ---

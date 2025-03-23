@@ -11,7 +11,7 @@
 - **To handcuff.**
 ---
 #noun
-- **A [[b/_blow|blow]], especially with the open hand; a [[b/_box|box]]; a slap.**
+- **A [[b/_blow|blow]], [[e/_especially|especially]] with the open hand; a [[b/_box|box]]; a slap.**
 ---
 #verb
 - **To hit, as a reproach, particularly with the open palm to the head; to slap.**

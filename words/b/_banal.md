@@ -5,7 +5,7 @@
 - **(history) Relating to a type of feudal jurisdiction or service.**
 ---
 ### Synonyms
-- [[everyday]], [[prosaic]]
+- [[e/_everyday|everyday]], [[p/_prosaic|prosaic]]
 ### Antonyms
-- [[new]], [[original]]
+- [[n/_new|new]], [[o/_original|original]]
 ---

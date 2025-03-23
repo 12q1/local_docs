@@ -5,5 +5,5 @@
 - **To be in [[a/_agreement|agreement]].**
 ---
 ### Synonyms
-- [[hang out]], [[associate]], [[hang out]], [[agree]], [[concur]]
+- [[a/_associate|associate]], [[a/_agree|agree]], [[c/_concur|concur]]
 ---

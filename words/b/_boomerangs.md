@@ -5,9 +5,9 @@
 - **A breakdancing move in which the performer walks on his or her hands while keeping the legs raised off the ground.**
 ---
 ### Synonyms
-- [[kylie]]
+- [[k/_kylie|kylie]]
 #verb
-- **To return or rebound unexpectedly, especially when the result is undesired; to [[b/_backfire|backfire]].**
+- **To return or rebound unexpectedly, [[e/_especially|especially]] when the result is undesired; to [[b/_backfire|backfire]].**
 - **To travel in a [[c/_curved|curved]] path.**
 ---
 ---

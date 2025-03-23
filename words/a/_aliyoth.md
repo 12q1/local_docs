@@ -6,5 +6,5 @@
 - **One of the major waves of immigration of Jews to Israel.**
 ---
 ### Antonyms
-- [[yerida]]
+- [[y/_yerida|yerida]]
 ---

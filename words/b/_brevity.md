@@ -6,5 +6,5 @@
 - **A short piece of writing.**
 ---
 ### Synonyms
-- [[ephemerality]], [[fleetingness]], [[transiency]], [[concision]], [[laconicism]], [[terseness]]
+- [[e/_ephemerality|ephemerality]], [[f/_fleetingness|fleetingness]], [[t/_transiency|transiency]], [[c/_concision|concision]], [[l/_laconicism|laconicism]], [[t/_terseness|terseness]]
 ---

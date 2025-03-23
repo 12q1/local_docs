@@ -1,8 +1,8 @@
 # Elecampane
 ---
 #noun
-- **A tall Eurasian herb, Inula helenium, whose roots have [[b/_been|been]] used medicinally**
+- **A tall [[e/_eurasian|Eurasian]] herb, Inula helenium, whose roots have [[b/_been|been]] used medicinally**
 ---
 ### Synonyms
-- [[horseheal]], [[scabwort]]
+- [[h/_horseheal|horseheal]], [[s/_scabwort|scabwort]]
 ---

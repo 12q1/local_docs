@@ -6,5 +6,5 @@
 - **[[e/_equal|Equal]]-opportunity inclusion**
 ---
 ### Synonyms
-- [[selection]]
+- [[s/_selection|selection]]
 ---

@@ -6,5 +6,5 @@
 - **Surcharged with liquor; sick from excessive indulgence in [[d/_drinking|drinking]] or [[e/_eating|eating]]; [[d/_drunk|drunk]].**
 ---
 ### Synonyms
-- [[debauched]], [[intemperate]], [[crapulent]], [[wamble-cropped]]
+- [[d/_debauched|debauched]], [[i/_intemperate|intemperate]], [[c/_crapulent|crapulent]], [[w/_wamble-cropped|wamble-cropped]]
 ---

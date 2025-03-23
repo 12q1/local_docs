@@ -8,7 +8,7 @@
 - **Having a pH greater than 7.**
 ---
 ### Synonyms
-- [[basic]]
+- [[b/_basic|basic]]
 ### Antonyms
-- [[acidic]]
+- [[a/_acidic|acidic]]
 ---

@@ -11,7 +11,7 @@
 - **[[d/_damn|Damn]].**
 ---
 ### Synonyms
-- [[darn]], [[durn]]
+- [[d/_darn|darn]], [[d/_durn|durn]]
 #interjection
 - **[[d/_damn|Damn]].**
 ---

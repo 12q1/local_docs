@@ -20,5 +20,5 @@
 	- _Example: The antivirus program runs on a background thread._
 ---
 ### Antonyms
-- [[conspicuous]], [[foreground]], [[forestanding]], [[primary]], [[prominent]]
+- [[c/_conspicuous|conspicuous]], [[f/_foreground|foreground]], [[f/_forestanding|forestanding]], [[p/_primary|primary]], [[p/_prominent|prominent]]
 ---

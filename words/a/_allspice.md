@@ -5,5 +5,5 @@
 - **Pimenta dioica, an evergreen tree of tropical [[a/_america|America]] with [[a/_aromatic|aromatic]] [[b/_berries|berries]].**
 ---
 ### Synonyms
-- [[Pimento]], [[Jamaica pepper]]
+- [[P/_Pimento|Pimento]]
 ---

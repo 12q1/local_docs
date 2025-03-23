@@ -12,14 +12,14 @@
 	- _Example: the east front of a cathedral_
 ---
 ### Synonyms
-- [[oriental]], [[easterly]], [[eastern]], [[eastward]]
+- [[o/_oriental|oriental]], [[e/_easterly|easterly]], [[e/_eastern|eastern]], [[e/_eastward|eastward]]
 ### Antonyms
-- [[westerly]], [[western]], [[westward]]
+- [[w/_westerly|westerly]], [[w/_western|western]], [[w/_westward|westward]]
 #adverb
 - **Towards the [[e/_east|east]]; [[e/_eastwards|eastwards]]**
 ---
 ### Synonyms
-- [[eastwards]]
+- [[e/_eastwards|eastwards]]
 ### Antonyms
-- [[west]], [[westwards]]
+- [[w/_west|west]], [[w/_westwards|westwards]]
 ---

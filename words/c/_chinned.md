@@ -11,7 +11,7 @@
 - **To indicate or point toward (someone or something) with one's [[c/_chin|chin]].**
 ---
 ### Synonyms
-- [[gab]]
+- [[g/_gab|gab]]
 #adjective
 - **(in [[c/_combination|combination]]) Having some specific type of [[c/_chin|chin]] or number of [[c/_chins|chins]].**
 	- _Example: a double-chinned woman_

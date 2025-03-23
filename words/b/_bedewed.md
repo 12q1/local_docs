@@ -7,5 +7,5 @@
 - **[[c/_covered|Covered]] with or as if with [[d/_dew|dew]].**
 ---
 ### Synonyms
-- [[dewy]], [[rorid]]
+- [[d/_dewy|dewy]], [[r/_rorid|rorid]]
 ---

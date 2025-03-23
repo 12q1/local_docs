@@ -5,5 +5,5 @@
 - **Of a reaction that occurs when [[c/_cells|cells]] are transplanted into a genetically [[d/_different|different]] recipient.**
 ---
 ### Synonyms
-- [[allogeneous]]
+- [[a/_allogeneous|allogeneous]]
 ---

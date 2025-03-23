@@ -6,5 +6,5 @@
 - **An orange-red [[d/_dye|dye]] obtained from this seed.**
 ---
 ### Synonyms
-- [[E160b]], [[achiote]], [[anatto]], [[food colouring]], [[achiote]], [[achiote]], [[lipstick tree]], [[roucou]]
+- [[E/_E160b|E160b]], [[a/_achiote|achiote]], [[a/_anatto|anatto]], [[a/_achiote|achiote]], [[a/_achiote|achiote]], [[r/_roucou|roucou]]
 ---

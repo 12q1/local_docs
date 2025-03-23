@@ -8,5 +8,5 @@
 - **[[a/_able|Able]] to be [[d/_decided|decided]] or settled by law**
 ---
 ### Antonyms
-- [[indeterminable]], [[undeterminable]]
+- [[i/_indeterminable|indeterminable]], [[u/_undeterminable|undeterminable]]
 ---

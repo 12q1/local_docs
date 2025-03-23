@@ -9,5 +9,5 @@
 - **(pharmaceutical [[e/_effect|effect]]) preventing or [[c/_counteracting|counteracting]] the pathogenic [[a/_action|action]] of microbes**
 ---
 ### Synonyms
-- [[antimicrobic]]
+- [[a/_antimicrobic|antimicrobic]]
 ---

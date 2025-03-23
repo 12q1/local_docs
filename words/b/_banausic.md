@@ -5,5 +5,5 @@
 - **Uncultured, unrefined, utilitarian.**
 ---
 ### Synonyms
-- [[mundane]]
+- [[m/_mundane|mundane]]
 ---

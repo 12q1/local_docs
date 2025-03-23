@@ -9,5 +9,5 @@
 - **Held at [[a/_attention|attention]], as if by magic.**
 ---
 ### Synonyms
-- [[bedazzled]], [[fascinated]], [[hypnotized]], [[mesmerized]], [[spellbound]]
+- [[b/_bedazzled|bedazzled]], [[f/_fascinated|fascinated]], [[h/_hypnotized|hypnotized]], [[m/_mesmerized|mesmerized]], [[s/_spellbound|spellbound]]
 ---

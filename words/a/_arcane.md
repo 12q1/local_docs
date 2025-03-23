@@ -10,7 +10,7 @@
 	- _Example: An arcane law_
 ---
 ### Synonyms
-- [[clandestine]], [[enigmatic]], [[esoteric]], [[recondite]], [[esoteric]]
+- [[c/_clandestine|clandestine]], [[e/_enigmatic|enigmatic]], [[e/_esoteric|esoteric]], [[r/_recondite|recondite]], [[e/_esoteric|esoteric]]
 ### Antonyms
-- [[mundane]]
+- [[m/_mundane|mundane]]
 ---

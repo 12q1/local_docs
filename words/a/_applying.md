@@ -17,7 +17,7 @@
 - **To visit.**
 ---
 ### Synonyms
-- [[appropriate]], [[devote]], [[use]], [[attach]], [[incline]]
+- [[a/_appropriate|appropriate]], [[d/_devote|devote]], [[u/_use|use]], [[a/_attach|attach]], [[i/_incline|incline]]
 #noun
 - **The [[a/_act|act]] of [[a/_applying|applying]]; an [[a/_application|application]].**
 ---

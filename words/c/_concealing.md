@@ -5,11 +5,11 @@
 	- _Example: He tried to conceal the truth about his health._
 ---
 ### Synonyms
-- [[hide]], [[obfuscate]], [[secrete]]
+- [[h/_hide|hide]], [[o/_obfuscate|obfuscate]], [[s/_secrete|secrete]]
 ### Antonyms
-- [[admit]], [[reveal]], [[uncover]]
+- [[a/_admit|admit]], [[r/_reveal|reveal]], [[u/_uncover|uncover]]
 #noun
 - **An [[a/_act|act]] of [[c/_concealment|concealment]].**
-- **Material, etc. that [[c/_conceals|conceals]] something.**
+- **Material, [[e/_etc|etc]]. that [[c/_conceals|conceals]] something.**
 ---
 ---

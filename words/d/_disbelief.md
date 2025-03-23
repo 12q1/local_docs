@@ -8,7 +8,7 @@
 - **The loss or [[a/_abandonment|abandonment]] of a [[b/_belief|belief]]; [[c/_cessation|cessation]] of [[b/_belief|belief]].**
 ---
 ### Synonyms
-- [[incredulity]]
+- [[i/_incredulity|incredulity]]
 ### Antonyms
-- [[belief]]
+- [[b/_belief|belief]]
 ---

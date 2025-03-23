@@ -35,5 +35,5 @@
 	- _Example: Bugger, I've missed the bus._
 ---
 ### Synonyms
-- [[bummer]], [[damn]], [[whoops]]
+- [[b/_bummer|bummer]], [[d/_damn|damn]], [[w/_whoops|whoops]]
 ---

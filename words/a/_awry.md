@@ -7,7 +7,7 @@
 	- _Example: There is something awry with this story._
 ---
 ### Synonyms
-- [[wonky]]
+- [[w/_wonky|wonky]]
 #adverb
 - **Obliquely, [[c/_crookedly|crookedly]]; [[a/_askew|askew]].**
 - **Perversely, improperly.**

@@ -7,5 +7,5 @@
 - **A prose text that explains [[a/_aspects|aspects]] of the Vedas.**
 ---
 ### Synonyms
-- [[brahman]], [[brahmin]]
+- [[b/_brahman|brahman]], [[b/_brahmin|brahmin]]
 ---

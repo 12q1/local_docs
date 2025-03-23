@@ -5,5 +5,5 @@
 	- _Example: An avascular mass was discovered during surgery._
 ---
 ### Antonyms
-- [[vascular]]
+- [[v/_vascular|vascular]]
 ---

@@ -9,5 +9,5 @@
 - **A species of rove [[b/_beetle|beetle]], so [[c/_called|called]] from its habit of [[e/_elevating|elevating]] the tail.**
 ---
 ### Synonyms
-- [[ckt]], [[mixed drink]]
+- [[c/_ckt|ckt]]
 ---

@@ -19,5 +19,5 @@
 - **To [[e/_employ|employ]] (a term) in its whole extent; to take as universal in one premise.**
 ---
 ### Synonyms
-- [[categorize]], [[sort]], [[courier]], [[allot]], [[dispend]], [[parcel out]], [[disperse]], [[sparble]], [[strew]]
+- [[c/_categorize|categorize]], [[s/_sort|sort]], [[c/_courier|courier]], [[a/_allot|allot]], [[d/_dispend|dispend]], [[d/_disperse|disperse]], [[s/_sparble|sparble]], [[s/_strew|strew]]
 ---

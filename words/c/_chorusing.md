@@ -10,5 +10,5 @@
 - **(of [[a/_animals|animals]]) To make their [[c/_cry|cry]] together.**
 ---
 ### Synonyms
-- [[duet]]
+- [[d/_duet|duet]]
 ---

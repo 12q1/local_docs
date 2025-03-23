@@ -8,5 +8,5 @@
 	- _Example: She had the distinction of meeting the Queen._
 ---
 ### Antonyms
-- [[confusion]]
+- [[c/_confusion|confusion]]
 ---

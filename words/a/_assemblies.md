@@ -12,11 +12,11 @@
 - **In Microsoft .NET, a [[b/_building|building]] [[b/_block|block]] of an [[a/_application|application]], similar to a DLL, but [[c/_containing|containing]] [[b/_both|both]] executable [[c/_code|code]] and information normally found in a DLL's type library. The type library information in an [[a/_assembly|assembly]], [[c/_called|called]] a manifest, [[d/_describes|describes]] public functions, [[d/_data|data]], [[c/_classes|classes]], and version information.**
 ---
 ### Synonyms
-- [[foregathering]]
+- [[f/_foregathering|foregathering]]
 #noun
 - **A programming language in which the source [[c/_code|code]] of programs is [[c/_composed|composed]] of mnemonic instructions, [[e/_each|each]] of which [[c/_corresponds|corresponds]] [[d/_directly|directly]] to a machine instruction for a particular processor.**
 	- _Example: A skilled programmer can write very fast code in assembly language._
 ---
 ### Synonyms
-- [[assembler]]
+- [[a/_assembler|assembler]]
 ---

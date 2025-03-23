@@ -5,5 +5,5 @@
 - **To exhibit [[b/_brilliant|brilliant]] technique or style.**
 ---
 ### Synonyms
-- [[gleam]], [[glimmer]], [[glisten]], [[glitter]], [[radiate]], [[scintillate]], [[sheen]], [[shine]], [[sparkle]], [[twinkle]]
+- [[g/_gleam|gleam]], [[g/_glimmer|glimmer]], [[g/_glisten|glisten]], [[g/_glitter|glitter]], [[r/_radiate|radiate]], [[s/_scintillate|scintillate]], [[s/_sheen|sheen]], [[s/_shine|shine]], [[s/_sparkle|sparkle]], [[t/_twinkle|twinkle]]
 ---

@@ -22,5 +22,5 @@
 	- _Example: You'll have to take over from here, mate, I'm completely buggered._
 ---
 ### Synonyms
-- [[fucked]], [[kaput]], [[stuffed]], [[fucked]], [[in for it]], [[all in]], [[done in]], [[exhausted]]
+- [[f/_fucked|fucked]], [[k/_kaput|kaput]], [[s/_stuffed|stuffed]], [[f/_fucked|fucked]], [[e/_exhausted|exhausted]]
 ---

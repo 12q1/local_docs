@@ -7,5 +7,5 @@
 - **To [[b/_beget|beget]] out of wedlock.**
 ---
 ### Synonyms
-- [[mongrelize]]
+- [[m/_mongrelize|mongrelize]]
 ---

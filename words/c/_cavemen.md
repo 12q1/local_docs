@@ -9,5 +9,5 @@
 	- _Example: Old Sven is a bit of a caveman; he figures giving women the right to vote was a bad idea._
 ---
 ### Synonyms
-- [[boor]], [[knuckle dragger]], [[lout]], [[savage]], [[thug]], [[troglodyte]], [[hominid]], [[hominin]], [[neanderthal]], [[troglodyte]], [[chauvinist]]
+- [[b/_boor|boor]], [[l/_lout|lout]], [[s/_savage|savage]], [[t/_thug|thug]], [[t/_troglodyte|troglodyte]], [[h/_hominid|hominid]], [[h/_hominin|hominin]], [[n/_neanderthal|neanderthal]], [[t/_troglodyte|troglodyte]], [[c/_chauvinist|chauvinist]]
 ---

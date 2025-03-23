@@ -4,5 +4,5 @@
 - **Wild, irrational, and undisciplined**
 ---
 ### Antonyms
-- [[apollonian]]
+- [[a/_apollonian|apollonian]]
 ---

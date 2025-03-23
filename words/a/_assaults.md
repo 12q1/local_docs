@@ -1,7 +1,7 @@
 # Assaults
 ---
 #noun
-- **A violent onset or [[a/_attack|attack]] with physical means, for example [[b/_blows|blows]], weapons, etc.**
+- **A violent onset or [[a/_attack|attack]] with physical means, for example [[b/_blows|blows]], weapons, [[e/_etc|etc]].**
 	- _Example: to make assault upon a man, a house, or a town_
 - **A violent onset or [[a/_attack|attack]] with moral weapons, for example words, [[a/_arguments|arguments]], [[a/_appeals|appeals]], and the like**
 	- _Example: to make an assault on the prerogatives of a prince, or on the constitution of a government_
@@ -12,7 +12,7 @@
 - **A non-[[c/_competitive|competitive]] [[c/_combat|combat]] [[b/_between|between]] two fencers.**
 ---
 ### Synonyms
-- [[onfall]], [[onrush]]
+- [[o/_onfall|onfall]], [[o/_onrush|onrush]]
 #verb
 - **To [[a/_attack|attack]], physically or figuratively.**
 	- _Example: Loud music assaulted our ears as we entered the building._

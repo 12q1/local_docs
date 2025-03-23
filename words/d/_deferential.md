@@ -6,5 +6,5 @@
 - **Of, or relating to the vas [[d/_deferens|deferens]].**
 ---
 ### Antonyms
-- [[derogative]], [[derogatory]]
+- [[d/_derogative|derogative]], [[d/_derogatory|derogatory]]
 ---

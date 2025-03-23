@@ -7,7 +7,7 @@
 - **A firm hold.**
 ---
 ### Synonyms
-- [[breeze]], [[cakewalk]], [[doddle]], [[piece of cake]], [[walk in the park]], [[walkover]]
+- [[b/_breeze|breeze]], [[c/_cakewalk|cakewalk]], [[d/_doddle|doddle]], [[w/_walkover|walkover]]
 #verb
 - **To [[b/_bring|bring]] to [[c/_certain|certain]] [[c/_conclusion|conclusion]].**
 - **To tighten [[d/_down|down]].**

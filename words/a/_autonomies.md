@@ -7,7 +7,7 @@
 - **The status of a [[c/_church|church]] whose highest-ranking [[b/_bishop|bishop]] is [[a/_appointed|appointed]] by the patriarch of the mother [[c/_church|church]], but which is self-governing in [[a/_all|all]] other respects. [[c/_compare|Compare]] [[a/_autocephaly|autocephaly]].**
 ---
 ### Synonyms
-- [[sovereignty]]
+- [[s/_sovereignty|sovereignty]]
 ### Antonyms
-- [[heteronomy]], [[incapacity]], [[dependency]], [[inoperability]], [[nonautonomy]]
+- [[h/_heteronomy|heteronomy]], [[i/_incapacity|incapacity]], [[d/_dependency|dependency]], [[i/_inoperability|inoperability]], [[n/_nonautonomy|nonautonomy]]
 ---

@@ -7,5 +7,5 @@
 - **[[d/_developing|Developing]] in an unusual place or from an unusual source.**
 ---
 ### Synonyms
-- [[accidental]], [[spontaneous]], [[sporadic]], [[extrinsic]], [[acquired]]
+- [[a/_accidental|accidental]], [[s/_spontaneous|spontaneous]], [[s/_sporadic|sporadic]], [[e/_extrinsic|extrinsic]], [[a/_acquired|acquired]]
 ---

@@ -4,5 +4,5 @@
 - **To send out or give off**
 ---
 ### Synonyms
-- [[output]], [[outsend]]
+- [[o/_output|output]], [[o/_outsend|outsend]]
 ---

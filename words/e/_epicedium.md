@@ -4,5 +4,5 @@
 - **[[d/_dirge|Dirge]], lament, [[e/_elegy|elegy]]**
 ---
 ### Synonyms
-- [[epicede]]
+- [[e/_epicede|epicede]]
 ---

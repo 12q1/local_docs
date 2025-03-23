@@ -11,13 +11,13 @@
 	- _Example: I connected the printer to the computer, but I couldn't get it work._
 - **To join an [[e/_electrical|electrical]] or telephone line to a [[c/_circuit|circuit]] or network.**
 	- _Example: When the technician connects my house, I'll be able to access the internet._
-- **To [[a/_associate|associate]]; to establish a relation [[b/_between|between]].**
+- **To [[a/_associate|associate]]; to [[e/_establish|establish]] a relation [[b/_between|between]].**
 	- _Example: I didn't connect my lost jewelry with the news of an area cat burglar until the police contacted me._
 - **To make a travel [[c/_connection|connection]]; to switch from one means of transport to [[a/_another|another]] as part of the same trip.**
 	- _Example: I'm flying to London where I connect with a flight heading to Hungary._
 ---
 ### Synonyms
-- [[affix]], [[join]], [[put together]], [[unite]]
+- [[a/_affix|affix]], [[j/_join|join]], [[u/_unite|unite]]
 ### Antonyms
-- [[disconnect]]
+- [[d/_disconnect|disconnect]]
 ---

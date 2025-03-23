@@ -12,7 +12,7 @@
 - **To [[c/_consult|consult]] (with).**
 ---
 ### Synonyms
-- [[inform]], [[notify]], [[counsel]], [[warn]]
+- [[i/_inform|inform]], [[n/_notify|notify]], [[c/_counsel|counsel]], [[w/_warn|warn]]
 #adjective
 - **[[c/_considered|Considered]] or thought out; resulting from [[d/_deliberation|deliberation]].**
 - **Informed, [[a/_appraised|appraised]] or made [[a/_aware|aware]].**

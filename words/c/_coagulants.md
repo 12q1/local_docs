@@ -4,5 +4,5 @@
 - **A substance that [[c/_causes|causes]] [[c/_coagulation|coagulation]]**
 ---
 ### Antonyms
-- [[anticoagulant]]
+- [[a/_anticoagulant|anticoagulant]]
 ---

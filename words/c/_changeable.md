@@ -7,5 +7,5 @@
 - **(of a species) [[c/_capable|Capable]] of [[c/_camouflaging|camouflaging]] itself by [[c/_changing|changing]] [[c/_colour|colour]].**
 ---
 ### Synonyms
-- [[alterable]], [[modifiable]], [[variable]], [[chameleonic]], [[fickle]], [[labile]], [[variable]]
+- [[a/_alterable|alterable]], [[m/_modifiable|modifiable]], [[v/_variable|variable]], [[c/_chameleonic|chameleonic]], [[f/_fickle|fickle]], [[l/_labile|labile]], [[v/_variable|variable]]
 ---

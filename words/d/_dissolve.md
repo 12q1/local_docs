@@ -4,7 +4,7 @@
 - **A form of film punctuation in which there is a gradual transition from one scene to the next**
 ---
 ### Synonyms
-- [[fade out]]
+- 
 #verb
 - **To terminate a union of multiple members [[a/_actively|actively]], as by [[d/_disbanding|disbanding]].**
 	- _Example: The ruling party or coalition sometimes dissolves parliament early when the polls are favorable, hoping to reconvene with a larger majority._
@@ -23,7 +23,7 @@
 - **To relax by pleasure; to make powerless.**
 ---
 ### Synonyms
-- [[fade out]], [[formelt]], [[melt]]
+- [[f/_formelt|formelt]], [[m/_melt|melt]]
 ### Antonyms
-- [[establish]], [[found]]
+- [[e/_establish|establish]], [[f/_found|found]]
 ---

@@ -10,7 +10,7 @@
 - **To win [[a/_against|against]]; to [[d/_defeat|defeat]] or overcome; to [[d/_do|do]] [[b/_better|better]] than, outdo, or excel (someone) in a particular, [[c/_competitive|competitive]] event.**
 	- _Example: I just can't seem to beat the last level of this video game._
 - **To sail to windward using a series of [[a/_alternate|alternate]] tacks [[a/_across|across]] the wind.**
-- **To strike (water, foliage etc.) in order to [[d/_drive|drive]] out game; to travel through (a forest etc.) for hunting.**
+- **To strike (water, foliage [[e/_etc|etc]].) in order to [[d/_drive|drive]] out game; to travel through (a forest [[e/_etc|etc]].) for hunting.**
 - **To mix food in a rapid fashion. [[c/_compare|Compare]] whip.**
 	- _Example: Beat the eggs and whip the cream._
 - **(In haggling for a price) of a [[b/_buyer|buyer]], to persuade the seller to reduce a price**
@@ -33,7 +33,7 @@
 	- _Example: He beat me out of 12 bucks last night._
 ---
 ### Synonyms
-- [[do it]], [[get it on]], [[have sex]], [[shag]], [[hammer]], [[knock]], [[pound]], [[strike]], [[whack]], [[negotiate]]
+- [[s/_shag|shag]], [[h/_hammer|hammer]], [[k/_knock|knock]], [[p/_pound|pound]], [[s/_strike|strike]], [[w/_whack|whack]], [[n/_negotiate|negotiate]]
 #adjective
 - **[[d/_defeated|Defeated]]**
 - **Repeatedly struck, or formed or flattened by [[b/_blows|blows]]**

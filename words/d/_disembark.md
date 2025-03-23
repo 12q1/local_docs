@@ -6,7 +6,7 @@
 - **To go [[a/_ashore|ashore]] out of a ship or [[b/_boat|boat]]; to leave a train or [[a/_airplane|airplane]]**
 ---
 ### Synonyms
-- [[alight]], [[debark]], [[get off]], [[get out]], [[debark]], [[land]]
+- [[a/_alight|alight]], [[d/_debark|debark]], [[d/_debark|debark]], [[l/_land|land]]
 ### Antonyms
-- [[embark]]
+- [[e/_embark|embark]]
 ---

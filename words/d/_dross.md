@@ -8,7 +8,7 @@
 - **Worthless or trivial matter.**
 ---
 ### Synonyms
-- [[junk]], [[rubbish]]
+- [[j/_junk|junk]], [[r/_rubbish|rubbish]]
 #verb
 - **To remove [[d/_dross|dross]] from.**
 ---

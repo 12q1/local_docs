@@ -1,7 +1,7 @@
 # Clouts
 ---
 #noun
-- **Influence or [[e/_effectiveness|effectiveness]], especially political.**
+- **Influence or [[e/_effectiveness|effectiveness]], [[e/_especially|especially]] political.**
 - **A [[b/_blow|blow]] with the hand.**
 - **A home run.**
 - **The [[c/_center|center]] of the [[b/_butt|butt]] at which [[a/_archers|archers]] shoot; probably once a piece of white [[c/_cloth|cloth]] or a nail head.**

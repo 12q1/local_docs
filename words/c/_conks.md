@@ -11,13 +11,13 @@
 - **A person who operates such a machine.**
 ---
 ### Synonyms
-- [[conch]], [[conche]]
+- [[c/_conch|conch]], [[c/_conche|conche]]
 #noun
 - **The shelf- or [[b/_bracket|bracket]]-shaped fruiting [[b/_body|body]] of a [[b/_bracket|bracket]] fungus ([[a/_also|also]] [[c/_called|called]] a shelf fungus), i.[[e/_e|e]]. a mushroom growing off a tree trunk.**
-- **A nose, especially a large one.**
+- **A nose, [[e/_especially|especially]] a large one.**
 ---
 #verb
-- **To hit, especially on the head.**
+- **To hit, [[e/_especially|especially]] on the head.**
 ---
 #noun
 - **A hairstyle involving the [[c/_chemical|chemical]] straightening and styling of kinky hair.**

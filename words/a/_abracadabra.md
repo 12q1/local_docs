@@ -9,5 +9,5 @@
 - **Used to indicate that a magic trick or other illusion has [[b/_been|been]] performed.**
 ---
 ### Synonyms
-- [[hey presto]]
+- 
 ---

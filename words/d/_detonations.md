@@ -6,5 +6,5 @@
 - **[[e/_engine|Engine]] knocking, an improper [[c/_combustion|combustion]] in internal [[c/_combustion|combustion]] [[e/_engines|engines]]**
 ---
 ### Antonyms
-- [[deflagration]]
+- [[d/_deflagration|deflagration]]
 ---

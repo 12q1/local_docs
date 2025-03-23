@@ -7,5 +7,5 @@
 - **(of a temple or [[e/_edifice|edifice]]) Having [[c/_columns|columns]] at [[e/_either|either]] [[e/_end|end]] but not [[a/_along|along]] the sides.**
 ---
 ### Synonyms
-- [[amphiprostylar]]
+- [[a/_amphiprostylar|amphiprostylar]]
 ---

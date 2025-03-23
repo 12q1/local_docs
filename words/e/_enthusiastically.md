@@ -4,5 +4,5 @@
 - **In an [[e/_enthusiastic|enthusiastic]] manner.**
 ---
 ### Antonyms
-- [[unenthusiastically]]
+- [[u/_unenthusiastically|unenthusiastically]]
 ---

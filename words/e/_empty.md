@@ -1,17 +1,17 @@
 # Empty
 ---
 #noun
-- **(usually plural) A [[c/_container|container]], especially a [[b/_bottle|bottle]], whose [[c/_contents|contents]] have [[b/_been|been]] used up, leaving it [[e/_empty|empty]].**
+- **(usually plural) A [[c/_container|container]], [[e/_especially|especially]] a [[b/_bottle|bottle]], whose [[c/_contents|contents]] have [[b/_been|been]] used up, leaving it [[e/_empty|empty]].**
 	- _Example: Put the empties out to be recycled._
 ---
 #verb
 - **To make [[e/_empty|empty]]; to void; to remove the [[c/_contents|contents]] of.**
 	- _Example: The cinema emptied quickly after the end of the film._
-- **Of a river, [[d/_duct|duct]], etc: to [[d/_drain|drain]] or flow toward an ultimate [[d/_destination|destination]].**
+- **Of a river, [[d/_duct|duct]], [[e/_etc|etc]]: to [[d/_drain|drain]] or flow toward an ultimate [[d/_destination|destination]].**
 	- _Example: Salmon River empties on the W shore about 2 miles below Bear River._
 ---
 ### Antonyms
-- [[fill]]
+- [[f/_fill|fill]]
 #adjective
 - **[[d/_devoid|Devoid]] of [[c/_content|content]]; [[c/_containing|containing]] nothing or nobody; vacant.**
 	- _Example: an empty purse; an empty jug; an empty stomach_
@@ -26,13 +26,13 @@
 	- _Example: empty dreams_
 - **[[d/_destitute|Destitute]] of, or lacking, sense, knowledge, or [[c/_courtesy|courtesy]].**
 	- _Example: empty brains; an empty coxcomb_
-- **(of some female [[a/_animals|animals]], especially [[c/_cows|cows]] and sheep) Not pregnant; not producing offspring when expected to [[d/_do|do]] so [[d/_during|during]] the [[b/_breeding|breeding]] season.**
+- **(of some female [[a/_animals|animals]], [[e/_especially|especially]] [[c/_cows|cows]] and sheep) Not pregnant; not producing offspring when expected to [[d/_do|do]] so [[d/_during|during]] the [[b/_breeding|breeding]] season.**
 	- _Example: Empty cow rates have increased in recent years._
 - **Producing nothing; unfruitful; said of a plant or tree.**
 	- _Example: an empty vine_
 ---
 ### Synonyms
-- [[clean]], [[clear]], [[leer]], [[toom]], [[unoccupied]]
+- [[c/_clean|clean]], [[c/_clear|clear]], [[l/_leer|leer]], [[t/_toom|toom]], [[u/_unoccupied|unoccupied]]
 ### Antonyms
-- [[non-empty]], [[full]]
+- [[n/_non-empty|non-empty]], [[f/_full|full]]
 ---

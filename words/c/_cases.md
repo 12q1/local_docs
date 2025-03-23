@@ -33,14 +33,14 @@
 - **A shallow tray [[d/_divided|divided]] into [[c/_compartments|compartments]] or "[[b/_boxes|boxes]]" for holding type, traditionally [[a/_arranged|arranged]] in sets of two, the "upper [[c/_case|case]]" ([[c/_containing|containing]] [[c/_capitals|capitals]], small [[c/_capitals|capitals]], [[a/_accented|accented]]) and "lower [[c/_case|case]]" (small letters, figures, punctuation marks, quadrats, and spaces).**
 - **(by extension) The nature of a piece of [[a/_alphabetic|alphabetic]] type, whether a “[[c/_capital|capital]]” (upper [[c/_case|case]]) or “small” (lower [[c/_case|case]]) letter.**
 - **Four of a kind.**
-- **A unit of liquid measure used to measure sales in the [[b/_beverage|beverage]] industry, equivalent to 192 fluid ounces.**
+- **A unit of liquid measure used to measure sales in the [[b/_beverage|beverage]] industry, [[e/_equivalent|equivalent]] to 192 fluid ounces.**
 - **A small fissure which [[a/_admits|admits]] water into the workings.**
 - **A thin layer of harder metal on the surface of an object whose [[d/_deeper|deeper]] metal is [[a/_allowed|allowed]] to remain soft.**
 - **A [[c/_cardboard|cardboard]] [[b/_box|box]] that holds (usually 24) [[b/_beer|beer]] [[b/_bottles|bottles]] or [[c/_cans|cans]].**
 	- _Example: a single case of Bud Light_
 ---
 ### Synonyms
-- [[carton]]
+- [[c/_carton|carton]]
 #verb
 - **To place (an item or items of manufacture) into a [[b/_box|box]], as in preparation for shipment.**
 - **To [[c/_cover|cover]] or protect with, or as if with, a [[c/_case|case]]; to [[e/_enclose|enclose]].**

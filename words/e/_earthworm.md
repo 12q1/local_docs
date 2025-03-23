@@ -6,5 +6,5 @@
 - **A [[c/_contemptible|contemptible]] person; a groveller.**
 ---
 ### Synonyms
-- [[groundworm]], [[nightcrawler]], [[nightwalker]], [[rainworm]], [[red wiggler]], [[red worm]], [[wiggler]]
+- [[g/_groundworm|groundworm]], [[n/_nightcrawler|nightcrawler]], [[n/_nightwalker|nightwalker]], [[r/_rainworm|rainworm]], [[w/_wiggler|wiggler]]
 ---

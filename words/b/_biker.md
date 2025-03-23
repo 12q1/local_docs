@@ -5,5 +5,5 @@
 - **[[c/_cyclist|Cyclist]]**
 ---
 ### Synonyms
-- [[bikie]], [[motorcyclist]]
+- [[b/_bikie|bikie]], [[m/_motorcyclist|motorcyclist]]
 ---

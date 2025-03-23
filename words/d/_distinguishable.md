@@ -5,5 +5,5 @@
 	- _Example: Black is very distinguishable against a white background_
 ---
 ### Antonyms
-- [[confusable]], [[indistinguishable]], [[mistakable]]
+- [[c/_confusable|confusable]], [[i/_indistinguishable|indistinguishable]], [[m/_mistakable|mistakable]]
 ---

@@ -1,9 +1,9 @@
 # Corteges
 ---
 #noun
-- **A [[c/_ceremonial|ceremonial]] procession, especially for a wedding or funeral or following a king.**
+- **A [[c/_ceremonial|ceremonial]] procession, [[e/_especially|especially]] for a wedding or funeral or following a king.**
 	- _Example: 1660: Samuel Pepys, Diary - Upon the morrow after their marriage, the bride and bridegroom perambulate the streets, followed by a numerous cortege, the guests at the wedding festival, two and two..._
 ---
 ### Synonyms
-- [[entourage]], [[followership]], [[gang]], [[group]], [[posse]], [[retinue]]
+- [[e/_entourage|entourage]], [[f/_followership|followership]], [[g/_gang|gang]], [[g/_group|group]], [[p/_posse|posse]], [[r/_retinue|retinue]]
 ---

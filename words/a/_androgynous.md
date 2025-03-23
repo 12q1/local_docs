@@ -7,5 +7,5 @@
 - **Possessing qualities of [[b/_both|both]] sexes.**
 ---
 ### Synonyms
-- [[epicene]], [[hermaphrodite]]
+- [[e/_epicene|epicene]], [[h/_hermaphrodite|hermaphrodite]]
 ---

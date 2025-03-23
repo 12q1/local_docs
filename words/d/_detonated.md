@@ -5,7 +5,7 @@
 - **To [[c/_cause|cause]] to explode.**
 ---
 ### Synonyms
-- [[blast]], [[discharge]], [[fulminate]]
+- [[b/_blast|blast]], [[d/_discharge|discharge]], [[f/_fulminate|fulminate]]
 ### Antonyms
-- [[deflagrate]]
+- [[d/_deflagrate|deflagrate]]
 ---

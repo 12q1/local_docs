@@ -4,5 +4,5 @@
 - **[[d/_deserving|Deserving]] [[b/_blame|blame]]**
 ---
 ### Synonyms
-- [[blameworthy]], [[culpable]], [[reprehensible]]
+- [[b/_blameworthy|blameworthy]], [[c/_culpable|culpable]], [[r/_reprehensible|reprehensible]]
 ---

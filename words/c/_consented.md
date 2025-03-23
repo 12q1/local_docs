@@ -8,7 +8,7 @@
 - **To [[a/_agree|agree]] in opinion or sentiment; to be of the same mind; to [[a/_accord|accord]]; to [[c/_concur|concur]].**
 ---
 ### Synonyms
-- [[acquiesce]], [[agree]], [[approve]], [[assent]], [[concur]], [[yes]]
+- [[a/_acquiesce|acquiesce]], [[a/_agree|agree]], [[a/_approve|approve]], [[a/_assent|assent]], [[c/_concur|concur]], [[y/_yes|yes]]
 ### Antonyms
-- [[disagree]], [[object]], [[oppose]]
+- [[d/_disagree|disagree]], [[o/_object|object]], [[o/_oppose|oppose]]
 ---

@@ -7,7 +7,7 @@
 - **[[a/_any|Any]] very sexually [[a/_attractive|attractive]] person, who is therefore material for such a photograph.**
 ---
 ### Synonyms
-- [[babe]], [[beefcake]], [[doll]], [[fox]], [[hunk]], [[stud muffin]], [[pin-up]], [[pin-up]], [[pin-up girl]]
+- [[b/_babe|babe]], [[b/_beefcake|beefcake]], [[d/_doll|doll]], [[f/_fox|fox]], [[h/_hunk|hunk]], [[p/_pin-up|pin-up]], [[p/_pin-up|pin-up]]
 ### Antonyms
-- [[crone]], [[fright]], [[hag]], [[monster]]
+- [[c/_crone|crone]], [[f/_fright|fright]], [[h/_hag|hag]], [[m/_monster|monster]]
 ---

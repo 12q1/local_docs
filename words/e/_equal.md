@@ -6,17 +6,17 @@
 - **State of [[b/_being|being]] [[e/_equal|equal]]; [[e/_equality|equality]].**
 ---
 ### Synonyms
-- [[peer]]
+- [[p/_peer|peer]]
 #verb
 - **To be [[e/_equal|equal]] to, to have the same value as; to [[c/_correspond|correspond]] to.**
 	- _Example: Two plus two equals four._
-- **To make equivalent to; to [[c/_cause|cause]] to match.**
+- **To make [[e/_equivalent|equivalent]] to; to [[c/_cause|cause]] to match.**
 	- _Example: David equaled the water levels of the bottles, so they now both contain exactly 1 liter._
 - **To have as its [[c/_consequence|consequence]].**
 	- _Example: Losing this deal equals losing your job._
 ---
 ### Synonyms
-- [[entail]], [[imply]], [[lead]], [[mean]], [[result in]], [[spell]], [[be]], [[is]]
+- [[e/_entail|entail]], [[i/_imply|imply]], [[l/_lead|lead]], [[m/_mean|mean]], [[s/_spell|spell]], [[b/_be|be]], [[i/_is|is]]
 #adjective
 - **The same in [[a/_all|all]] respects.**
 	- _Example: All men are created equal._
@@ -30,5 +30,5 @@
 - **Intended for voices of one kind only, [[e/_either|either]] [[a/_all|all]] male or [[a/_all|all]] female; not mixed.**
 ---
 ### Synonyms
-- [[equivalent]], [[identical]], [[even]], [[fair]], [[uniform]], [[unvarying]]
+- [[e/_equivalent|equivalent]], [[i/_identical|identical]], [[e/_even|even]], [[f/_fair|fair]], [[u/_uniform|uniform]], [[u/_unvarying|unvarying]]
 ---

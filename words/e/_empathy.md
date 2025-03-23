@@ -8,5 +8,5 @@
 - **MDMA.**
 ---
 ### Synonyms
-- [[ecstasy]]
+- [[e/_ecstasy|ecstasy]]
 ---

@@ -8,7 +8,7 @@
 - **To [[c/_call|call]] from the small [[b/_blind|blind]] in an unraised pot.**
 ---
 ### Synonyms
-- [[accomplish]], [[finish]], [[consummate]], [[perfect]], [[top off]]
+- [[a/_accomplish|accomplish]], [[f/_finish|finish]], [[c/_consummate|consummate]], [[p/_perfect|perfect]]
 #adjective
 - **Finished.**
 ---

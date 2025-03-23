@@ -7,7 +7,7 @@
 - **A term [[d/_designating|designating]] [[b/_both|both]] a quality and the subject in which it exists; a [[c/_concrete|concrete]] term.**
 - **Sugar [[b/_boiled|boiled]] [[d/_down|down]] from [[c/_cane|cane]] juice to a solid mass.**
 - **A [[d/_dessert|dessert]] of frozen [[c/_custard|custard]] with various toppings.**
-- **An extract of herbal materials that has a semi-solid [[c/_consistency|consistency]], especially when such materials are partly [[a/_aromatic|aromatic]].**
+- **An extract of herbal materials that has a semi-solid [[c/_consistency|consistency]], [[e/_especially|especially]] when such materials are partly [[a/_aromatic|aromatic]].**
 ---
 #verb
 - **(usually transitive) To [[c/_cover|cover]] with or [[e/_encase|encase]] in [[c/_concrete|concrete]] ([[b/_building|building]] material).**

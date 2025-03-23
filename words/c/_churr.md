@@ -7,7 +7,7 @@
 - **To make the prolonged trilling sound of an insect ([[e/_e|e]].g. a grasshopper, a [[c/_cicada|cicada]]).**
 ---
 ### Synonyms
-- [[chirp]], [[stridulate]]
+- [[c/_chirp|chirp]], [[s/_stridulate|stridulate]]
 #noun
 - **A low vocal sound made by some [[b/_birds|birds]].**
 ---

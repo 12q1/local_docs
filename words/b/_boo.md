@@ -10,9 +10,9 @@
 	- _Example: The protesters loudly booed the visiting senator._
 ---
 ### Antonyms
-- [[cheer]]
+- [[c/_cheer|cheer]]
 #interjection
-- **A loud exclamation intended to scare someone, especially a [[c/_child|child]]. Usually used when one has [[b/_been|been]] hidden from the victim and then suddenly [[a/_appeared|appeared]] unexpectedly.**
+- **A loud exclamation intended to scare someone, [[e/_especially|especially]] a [[c/_child|child]]. Usually used when one has [[b/_been|been]] hidden from the victim and then suddenly [[a/_appeared|appeared]] unexpectedly.**
 - **Used ironically in a situation where one had the opportunity to scare someone by speaking suddenly.**
 - **An exclamation used by a member or many members of an [[a/_audience|audience]], as at a stage play or sports game, to indicate [[d/_derision|derision]] or [[d/_disapproval|disapproval]] of what has just occurred.**
 ---

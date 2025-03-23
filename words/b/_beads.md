@@ -1,13 +1,13 @@
 # Beads
 ---
 #noun
-- **Prayer, later especially with a rosary.**
+- **Prayer, later [[e/_especially|especially]] with a rosary.**
 - **[[e/_each|Each]] in a string of small [[b/_balls|balls]] making up the rosary or paternoster.**
 - **A small, round object.**
 - **(heading) A ridge, [[b/_band|band]], or molding.**
 - **Knowledge sufficient to [[d/_direct|direct]] one's [[a/_activities|activities]] to a purpose.**
 	- _Example: We now have a bead on the main technical issues for the project_
-- **A glassy [[d/_drop|drop]] of molten flux, as [[b/_borax|borax]] or microcosmic salt, used as a solvent and [[c/_color|color]] test for several mineral [[e/_earths|earths]] and oxides, as of iron, manganese, etc., [[b/_before|before]] the [[b/_blowpipe|blowpipe]].**
+- **A glassy [[d/_drop|drop]] of molten flux, as [[b/_borax|borax]] or microcosmic salt, used as a solvent and [[c/_color|color]] test for several mineral [[e/_earths|earths]] and oxides, as of iron, manganese, [[e/_etc|etc]]., [[b/_before|before]] the [[b/_blowpipe|blowpipe]].**
 	- _Example: the borax bead;  the iron bead, etc._
 - **Front sight of a gun.**
 ---

@@ -1,7 +1,7 @@
 # Dob
 ---
 #noun
-- **A small [[a/_amount|amount]] of something, especially paste.**
+- **A small [[a/_amount|amount]] of something, [[e/_especially|especially]] paste.**
 	- _Example: Put a dob of butter on the potato, please._
 ---
 #verb

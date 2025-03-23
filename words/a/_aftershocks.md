@@ -6,5 +6,5 @@
 - **[[e/_emotional|Emotional]] and physical [[d/_distress|distress]] following a traumatic event.**
 ---
 ### Antonyms
-- [[foreshock]]
+- [[f/_foreshock|foreshock]]
 ---

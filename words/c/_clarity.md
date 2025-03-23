@@ -5,7 +5,7 @@
 	- _Example: Lack of clarity on the part of the teacher will cause confusion among the students._
 ---
 ### Synonyms
-- [[clearness]], [[obviousness]], [[transparency]]
+- [[c/_clearness|clearness]], [[o/_obviousness|obviousness]], [[t/_transparency|transparency]]
 ### Antonyms
-- [[confusion]]
+- [[c/_confusion|confusion]]
 ---

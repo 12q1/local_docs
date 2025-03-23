@@ -7,5 +7,5 @@
 	- _Example: Wastewater is any water that has been adversely affected in quality by anthropogenic influence._
 ---
 ### Synonyms
-- [[anthropogenous]]
+- [[a/_anthropogenous|anthropogenous]]
 ---

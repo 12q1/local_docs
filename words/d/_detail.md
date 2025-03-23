@@ -1,11 +1,11 @@
 # Detail
 ---
 #noun
-- **Something small [[e/_enough|enough]] to escape [[c/_casual|casual]] notice.**
+- **Something small [[e/_enough|enough]] to [[e/_escape|escape]] [[c/_casual|casual]] notice.**
 	- _Example: Note this fine detail in the lower left corner._
 - **A profusion of [[d/_details|details]].**
 	- _Example: This etching is full of fine detail._
-- **The small things that [[c/_can|can]] escape [[c/_casual|casual]] notice.**
+- **The small things that [[c/_can|can]] [[e/_escape|escape]] [[c/_casual|casual]] notice.**
 - **Something [[c/_considered|considered]] trivial [[e/_enough|enough]] to ignore.**
 	- _Example: I don't concern myself with the details of accounting._
 - **A person's name, [[a/_address|address]] and other personal information.**
@@ -16,7 +16,7 @@
 - **A selected portion of a painting**
 ---
 ### Synonyms
-- [[contingent]], [[detachment]], [[portion]], [[section]], [[particular]], [[minutia]], [[technicality]], [[trifle]], [[triviality]]
+- [[c/_contingent|contingent]], [[d/_detachment|detachment]], [[p/_portion|portion]], [[s/_section|section]], [[p/_particular|particular]], [[m/_minutia|minutia]], [[t/_technicality|technicality]], [[t/_trifle|trifle]], [[t/_triviality|triviality]]
 #verb
 - **To explain in [[d/_detail|detail]].**
 	- _Example: I'll detail the exact procedure to you later._
@@ -25,5 +25,5 @@
 - **To [[a/_assign|assign]] to a particular task**
 ---
 ### Synonyms
-- [[detach]], [[specify]]
+- [[d/_detach|detach]], [[s/_specify|specify]]
 ---

@@ -7,6 +7,6 @@
 - **A narrow [[c/_cleft|cleft]] in a rock face; a narrow vertical [[c/_cave|cave]] passage.**
 ---
 #verb
-- **To negotiate a [[c/_chimney|chimney]] (narrow vertical [[c/_cave|cave]] passage) by pushing [[a/_against|against]] the sides with [[b/_back|back]], feet, hands, etc.**
+- **To negotiate a [[c/_chimney|chimney]] (narrow vertical [[c/_cave|cave]] passage) by pushing [[a/_against|against]] the sides with [[b/_back|back]], feet, hands, [[e/_etc|etc]].**
 ---
 ---

@@ -10,5 +10,5 @@
 	- _Example: They were shown an educational film about VD._
 ---
 ### Synonyms
-- [[didactic]], [[educative]], [[instructive]]
+- [[d/_didactic|didactic]], [[e/_educative|educative]], [[i/_instructive|instructive]]
 ---

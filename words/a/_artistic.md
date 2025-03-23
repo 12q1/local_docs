@@ -9,5 +9,5 @@
 - **[[a/_artistically|Artistically]], in an [[a/_artistic|artistic]] style.**
 ---
 ### Antonyms
-- [[inartistic]]
+- [[i/_inartistic|inartistic]]
 ---

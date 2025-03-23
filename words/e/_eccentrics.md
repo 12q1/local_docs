@@ -7,5 +7,5 @@
 - **A [[d/_disk|disk]] or wheel with its [[a/_axis|axis]] off [[c/_centre|centre]], giving a reciprocating motion.**
 ---
 ### Synonyms
-- [[crank]], [[odd duck]], [[weirdo]], [[misfit]], [[nonconformist]]
+- [[c/_crank|crank]], [[w/_weirdo|weirdo]], [[m/_misfit|misfit]], [[n/_nonconformist|nonconformist]]
 ---

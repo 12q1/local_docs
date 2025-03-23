@@ -8,9 +8,9 @@
 #adjective
 - **(of a material) [[c/_capable|Capable]] of withstanding a [[d/_direct|direct]] shot by a [[b/_bullet|bullet]] fired from a gun.**
 	- _Example: A bulletproof window._
-- **Reliable, infallible, sturdy or error-tolerant.**
+- **Reliable, infallible, sturdy or [[e/_error|error]]-tolerant.**
 - **(usually of an idea or [[c/_concept|concept]]) Unbreakable, very tough.**
 ---
 ### Synonyms
-- [[foolproof]]
+- [[f/_foolproof|foolproof]]
 ---

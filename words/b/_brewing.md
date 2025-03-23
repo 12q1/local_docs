@@ -11,7 +11,7 @@
 - **To [[b/_boil|boil]] or seethe; to [[c/_cook|cook]].**
 ---
 ### Synonyms
-- [[contrive]], [[hatch]], [[plot]]
+- [[c/_contrive|contrive]], [[h/_hatch|hatch]], [[p/_plot|plot]]
 #noun
 - **The production of [[a/_alcoholic|alcoholic]] [[b/_beverages|beverages]], such as [[b/_beer|beer]], by fermentation; the process of [[b/_being|being]] [[b/_brewed|brewed]].**
 - **The [[b/_business|business]] or occupation of a [[b/_brewer|brewer]].**

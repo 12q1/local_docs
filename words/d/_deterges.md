@@ -1,6 +1,6 @@
 # Deterges
 ---
 #verb
-- **To [[c/_clean|clean]] of undesirable material, especially a wound (technical).**
+- **To [[c/_clean|clean]] of undesirable material, [[e/_especially|especially]] a wound (technical).**
 ---
 ---

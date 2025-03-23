@@ -23,5 +23,5 @@
 	- _Example: to back the oars_
 ---
 ### Antonyms
-- [[veer]]
+- [[v/_veer|veer]]
 ---

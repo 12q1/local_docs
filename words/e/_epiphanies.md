@@ -7,12 +7,12 @@
 - **The season or time of the [[c/_christian|Christian]] [[c/_church|church]] year [[e/_either|either]] from the [[e/_epiphany|Epiphany]] feast [[d/_day|day]] to Shrove Tuesday (the [[d/_day|day]] [[b/_before|before]] [[a/_ash|Ash]] Wednesday, the start of Lent) or from the [[e/_epiphany|Epiphany]] feast [[d/_day|day]] to the feast of the Presentation of [[c/_christ|Christ]] in the Temple.**
 ---
 ### Synonyms
-- [[Twelfth Day]], [[Twelfthtide]], [[Twelvetide]]
+- [[T/_Twelfthtide|Twelfthtide]], [[T/_Twelvetide|Twelvetide]]
 #noun
 - **An illuminating realization or [[d/_discovery|discovery]], often resulting in a personal feeling of [[e/_elation|elation]], [[a/_awe|awe]], or wonder.**
 	- _Example: It came to her in an epiphany what her life's work was to be._
 - **A manifestation or [[a/_appearance|appearance]] of a [[d/_divine|divine]] or superhuman [[b/_being|being]].**
 ---
 ### Synonyms
-- [[aha moment]], [[enlightenment]], [[nirvana]], [[satori]], [[theophany]]
+- [[e/_enlightenment|enlightenment]], [[n/_nirvana|nirvana]], [[s/_satori|satori]], [[t/_theophany|theophany]]
 ---

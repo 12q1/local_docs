@@ -4,5 +4,5 @@
 - **To remove the sulfur from something (such as petroleum or flue gases).**
 ---
 ### Synonyms
-- [[desulfur]]
+- [[d/_desulfur|desulfur]]
 ---

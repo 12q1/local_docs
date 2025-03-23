@@ -6,5 +6,5 @@
 - **The group of parishes for which a rural [[d/_dean|dean]] has responsibility.**
 ---
 ### Synonyms
-- [[deanship]]
+- [[d/_deanship|deanship]]
 ---

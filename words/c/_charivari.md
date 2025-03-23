@@ -5,5 +5,5 @@
 - **(by extension) [[a/_any|Any]] loud, [[c/_cacophonous|cacophonous]] noise or hubbub.**
 ---
 ### Synonyms
-- [[rough music]], [[skimmington]], [[skimmity]], [[skimmity-ride]]
+- [[s/_skimmington|skimmington]], [[s/_skimmity|skimmity]], [[s/_skimmity-ride|skimmity-ride]]
 ---

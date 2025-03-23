@@ -6,5 +6,5 @@
 - **Polystachya (a genus of orchids).**
 ---
 ### Antonyms
-- [[anaphora]]
+- [[a/_anaphora|anaphora]]
 ---

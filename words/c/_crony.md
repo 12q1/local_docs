@@ -5,5 +5,5 @@
 - **Trusted [[c/_companion|companion]] or partner in a [[c/_criminal|criminal]] organization.**
 ---
 ### Antonyms
-- [[noncrony]]
+- [[n/_noncrony|noncrony]]
 ---

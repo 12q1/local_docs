@@ -7,5 +7,5 @@
 - **[[a/_altruistic|Altruistic]], [[c/_charitable|charitable]], good, just and fair.**
 ---
 ### Antonyms
-- [[malevolent]]
+- [[m/_malevolent|malevolent]]
 ---

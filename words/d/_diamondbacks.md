@@ -5,5 +5,5 @@
 - **The saltmarsh terrapin of the [[a/_atlantic|Atlantic]] [[c/_coast|coast]] (Malacoclemmys palustris).**
 ---
 ### Synonyms
-- [[western diamondback rattlesnake]]
+- 
 ---

@@ -10,5 +10,5 @@
 	- _Example: to attempt the enemy's camp_
 ---
 ### Synonyms
-- [[take a run at]], [[take a stab at]]
+- 
 ---

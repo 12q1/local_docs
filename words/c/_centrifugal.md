@@ -9,5 +9,5 @@
 - **Having the radicle turned toward the sides of the fruit, as some [[e/_embryos|embryos]].**
 ---
 ### Antonyms
-- [[centripetal]]
+- [[c/_centripetal|centripetal]]
 ---

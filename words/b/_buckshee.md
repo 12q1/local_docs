@@ -2,7 +2,7 @@
 ---
 #noun
 - **A gift or [[b/_bribe|bribe]].**
-- **An extra portion, ration etc.**
+- **An extra portion, ration [[e/_etc|etc]].**
 - **A wound that is relatively minor but sufficient to get a soldier sent [[a/_away|away]] from the front to the hospital.**
 ---
 #adjective

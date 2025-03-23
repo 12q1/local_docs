@@ -10,7 +10,7 @@
 - **To relinquish or renounce a throne, or other high office or [[d/_dignity|dignity]]; to renounce sovereignty.**
 ---
 ### Synonyms
-- [[abandon]], [[abjure]], [[cast aside]], [[cast off]], [[cede]], [[desert]], [[disinherit]], [[disown]], [[forego]], [[forsake]], [[give up]], [[quit]], [[refuse]], [[reject]], [[relent]], [[relinquish]], [[renounce]], [[repudiate]], [[resign]], [[retire]], [[stand down]], [[surrender]], [[vacate]], [[waive]], [[yield]]
+- [[a/_abandon|abandon]], [[a/_abjure|abjure]], [[c/_cede|cede]], [[d/_desert|desert]], [[d/_disinherit|disinherit]], [[d/_disown|disown]], [[f/_forego|forego]], [[f/_forsake|forsake]], [[q/_quit|quit]], [[r/_refuse|refuse]], [[r/_reject|reject]], [[r/_relent|relent]], [[r/_relinquish|relinquish]], [[r/_renounce|renounce]], [[r/_repudiate|repudiate]], [[r/_resign|resign]], [[r/_retire|retire]], [[s/_surrender|surrender]], [[v/_vacate|vacate]], [[w/_waive|waive]], [[y/_yield|yield]]
 ### Antonyms
-- [[claim]], [[grasp]], [[maintain]], [[occupy]], [[retain]], [[seize]], [[usurp]]
+- [[c/_claim|claim]], [[g/_grasp|grasp]], [[m/_maintain|maintain]], [[o/_occupy|occupy]], [[r/_retain|retain]], [[s/_seize|seize]], [[u/_usurp|usurp]]
 ---

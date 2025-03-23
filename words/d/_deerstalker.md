@@ -8,5 +8,5 @@
 	- _Example: Two famous fictional characters who wore deerstalker hats were Sherlock Holmes and Holden Caulfield in J. D. Salinger's Catcher in the Rye._
 ---
 ### Synonyms
-- [[fore-and-after]], [[hunting cap]]
+- [[f/_fore-and-after|fore-and-after]]
 ---

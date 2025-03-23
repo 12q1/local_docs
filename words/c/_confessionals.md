@@ -5,5 +5,5 @@
 - **A [[c/_confession|confession]].**
 ---
 ### Synonyms
-- [[confession booth]]
+- 
 ---

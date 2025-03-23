@@ -5,7 +5,7 @@
 	- _Example: Craig's Crew plays the bye next week._
 - **An extra scored when the [[b/_batsmen|batsmen]] take runs [[a/_after|after]] the [[b/_ball|ball]] has passed the striker without hitting [[e/_either|either]] the [[b/_bat|bat]] or the [[b/_batsman|batsman]].**
 - **A [[d/_dwelling|dwelling]].**
-- **A thing not [[d/_directly|directly]] [[a/_aimed|aimed]] at; something which is a secondary object of regard; an object by the way, etc.**
+- **A thing not [[d/_directly|directly]] [[a/_aimed|aimed]] at; something which is a secondary object of regard; an object by the way, [[e/_etc|etc]].**
 - **A pass.**
 ---
 ---

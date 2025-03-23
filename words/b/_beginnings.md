@@ -9,7 +9,7 @@
 	- _Example: That house is at the beginning of the street._
 ---
 ### Synonyms
-- [[commencing]], [[start]], [[starting]], [[head]], [[start]], [[commencement]], [[origin]], [[source]], [[start]], [[element]], [[embryo]], [[rudiment]]
+- [[c/_commencing|commencing]], [[s/_start|start]], [[s/_starting|starting]], [[h/_head|head]], [[s/_start|start]], [[c/_commencement|commencement]], [[o/_origin|origin]], [[s/_source|source]], [[s/_start|start]], [[e/_element|element]], [[e/_embryo|embryo]], [[r/_rudiment|rudiment]]
 ### Antonyms
-- [[conclusion]], [[end]]
+- [[c/_conclusion|conclusion]], [[e/_end|end]]
 ---

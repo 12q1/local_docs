@@ -5,5 +5,5 @@
 - **Opposed to logic.**
 ---
 ### Antonyms
-- [[logical]]
+- [[l/_logical|logical]]
 ---

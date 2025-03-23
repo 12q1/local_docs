@@ -6,6 +6,6 @@
 - **A [[d/_dynamite|dynamite]] fuse made with a small quantity of [[d/_dynamite|dynamite]] powder [[a/_along|along]] its length, so that the spark travels quickly and at a specific known rate.**
 ---
 #verb
-- **To travel in a straight [[c/_course|course]], ignoring established paths of travel.**
+- **To travel in a straight [[c/_course|course]], ignoring [[e/_established|established]] paths of travel.**
 ---
 ---

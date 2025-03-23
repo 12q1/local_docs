@@ -17,7 +17,7 @@
 - **One of a pair of morphisms which relate to [[e/_each|each]] other through a pair of [[a/_adjoint|adjoint]] functors.**
 ---
 ### Synonyms
-- [[addition]], [[supplement]]
+- [[a/_addition|addition]], [[s/_supplement|supplement]]
 #noun
 - **The [[a/_action|action]] of [[a/_adjusting|adjusting]] something**
 - **The result of [[a/_adjusting|adjusting]] something; a small [[c/_change|change]]; a minor [[c/_correction|correction]]; a modification or [[a/_alteration|alteration]]**
@@ -28,5 +28,5 @@
 - **The [[a/_assessment|assessment]], by an insurance [[c/_company|company]], of a [[c/_claim|claim]]; the settlement of such a [[c/_claim|claim]]**
 ---
 ### Synonyms
-- [[change]], [[correction]], [[modification]]
+- [[c/_change|change]], [[c/_correction|correction]], [[m/_modification|modification]]
 ---

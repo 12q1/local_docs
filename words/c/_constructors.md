@@ -6,5 +6,5 @@
 - **A [[c/_class|class]] method that [[c/_creates|creates]] and initializes [[e/_each|each]] instance of an object.**
 ---
 ### Antonyms
-- [[destructor]]
+- [[d/_destructor|destructor]]
 ---

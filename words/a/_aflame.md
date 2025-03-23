@@ -6,5 +6,5 @@
 	- _Example: She said nothing and simply stared at him, eyes aflame._
 ---
 ### Synonyms
-- [[ablaze]], [[afire]], [[flaming]]
+- [[a/_ablaze|ablaze]], [[a/_afire|afire]], [[f/_flaming|flaming]]
 ---

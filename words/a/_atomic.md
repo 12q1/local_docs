@@ -17,5 +17,5 @@
 - **(of a [[c/_commit|commit]] in a VCS) [[c/_containing|Containing]] a single [[c/_change|change]], as opposed to involving numerous unrelated [[c/_changes|changes]].**
 ---
 ### Antonyms
-- [[molecular]]
+- [[m/_molecular|molecular]]
 ---

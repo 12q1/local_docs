@@ -7,6 +7,6 @@
 	- _Example: Did you see that car? He’s such a baller._
 ---
 #adjective
-- **Very [[c/_cool|cool]], especially [[d/_due|due]] to extravagance.**
+- **Very [[c/_cool|cool]], [[e/_especially|especially]] [[d/_due|due]] to extravagance.**
 ---
 ---

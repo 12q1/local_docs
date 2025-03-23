@@ -6,7 +6,7 @@
 #adjective
 - **Of, relating to, or using [[a/_arithmetic|arithmetic]]; [[a/_arithmetical|arithmetical]].**
 	- _Example: arithmetic geometry_
-- **Of a progression, mean, etc, [[c/_computed|computed]] solely using [[a/_addition|addition]].**
+- **Of a progression, mean, [[e/_etc|etc]], [[c/_computed|computed]] solely using [[a/_addition|addition]].**
 	- _Example: arithmetic progression_
 ---
 ---

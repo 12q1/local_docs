@@ -5,13 +5,13 @@
 - **To [[d/_disregard|disregard]] or ignore.**
 ---
 ### Synonyms
-- [[contemn]], [[disdain]], [[scorn]]
+- [[c/_contemn|contemn]], [[d/_disdain|disdain]], [[s/_scorn|scorn]]
 ### Antonyms
-- [[admire]], [[cherish]], [[honor]], [[respect]], [[treasure]]
+- [[a/_admire|admire]], [[c/_cherish|cherish]], [[h/_honor|honor]], [[r/_respect|respect]], [[t/_treasure|treasure]]
 #adjective
 - **Hated; viewed with scorn.**
 	- _Example: The dictator's cruelty made him the most despised person in the region._
 ---
 ### Antonyms
-- [[cherished]], [[treasured]], [[undespised]]
+- [[c/_cherished|cherished]], [[t/_treasured|treasured]], [[u/_undespised|undespised]]
 ---

@@ -6,10 +6,10 @@
 #adjective
 - **[[a/_able|Able]] to be [[d/_drunk|drunk]] (as liquid).**
 - **(of water) Safe to [[d/_drink|drink]].**
-- **(of an [[a/_alcoholic|alcoholic]] [[b/_beverage|beverage]], especially wine) Of good or satisfactory quality.**
+- **(of an [[a/_alcoholic|alcoholic]] [[b/_beverage|beverage]], [[e/_especially|especially]] wine) Of good or satisfactory quality.**
 ---
 ### Synonyms
-- [[drinkworthy]], [[potable]], [[safe]]
+- [[d/_drinkworthy|drinkworthy]], [[p/_potable|potable]], [[s/_safe|safe]]
 ### Antonyms
-- [[undrinkable]], [[impotable]], [[undrinkable]]
+- [[u/_undrinkable|undrinkable]], [[i/_impotable|impotable]], [[u/_undrinkable|undrinkable]]
 ---

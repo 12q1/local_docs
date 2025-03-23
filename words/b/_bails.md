@@ -4,7 +4,7 @@
 - **Security, usually a sum of money, exchanged for the release of an [[a/_arrested|arrested]] person as a guarantee of that person's [[a/_appearance|appearance]] for trial.**
 - **Release from imprisonment on payment of such money.**
 - **The person providing such payment.**
-- **A [[b/_bucket|bucket]] or scoop used for removing water from a [[b/_boat|boat]] etc.**
+- **A [[b/_bucket|bucket]] or scoop used for removing water from a [[b/_boat|boat]] [[e/_etc|etc]].**
 - **A person who [[b/_bails|bails]] water out of a [[b/_boat|boat]].**
 - **[[c/_custody|Custody]]; keeping.**
 ---
@@ -25,7 +25,7 @@
 - **To fail to meet a [[c/_commitment|commitment]].**
 ---
 #noun
-- **A hoop, ring or handle (especially of a kettle or [[b/_bucket|bucket]]).**
+- **A hoop, ring or handle ([[e/_especially|especially]] of a kettle or [[b/_bucket|bucket]]).**
 - **A stall for a [[c/_cow|cow]] (or other [[a/_animal|animal]]) (usually tethered with a semi-[[c/_circular|circular]] hoop).**
 - **A hinged [[b/_bar|bar]] as a restraint for [[a/_animals|animals]], or on a typewriter.**
 - **A frame to restrain a [[c/_cow|cow]] [[d/_during|during]] milking or feeding.**

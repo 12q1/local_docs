@@ -8,6 +8,6 @@
 - **To [[d/_deaden|deaden]] the sound of ([[b/_bells|bells]]) by muffling the [[c/_clapper|clapper]].**
 ---
 #adjective
-- **[[b/_battered|Battered]], especially by strong wind.**
+- **[[b/_battered|Battered]], [[e/_especially|especially]] by strong wind.**
 ---
 ---

@@ -15,7 +15,7 @@
 - **To take (a final exam) in order to get [[c/_credit|credit]] for a [[c/_course|course]] without taking it.**
 ---
 ### Synonyms
-- [[becall]], [[call out]]
+- [[b/_becall|becall]]
 #noun
 - **The [[a/_act|act]] of making a [[c/_challenge|challenge]].**
 ---
@@ -23,5 +23,5 @@
 - **[[d/_difficult|Difficult]], hard to [[d/_do|do]].**
 ---
 ### Antonyms
-- [[unchallenging]]
+- [[u/_unchallenging|unchallenging]]
 ---

@@ -9,12 +9,12 @@
 - **(in the plural) A suit of [[c/_clothes|clothes]] of the same [[c/_colour|colour]] throughout.**
 ---
 ### Synonyms
-- [[do.]]
+- [[d/_do.|do.]]
 #verb
-- **To repeat the [[a/_aforesaid|aforesaid]], the [[e/_earlier|earlier]] [[a/_action|action]] etc.**
+- **To repeat the [[a/_aforesaid|aforesaid]], the [[e/_earlier|earlier]] [[a/_action|action]] [[e/_etc|etc]].**
 ---
 ### Synonyms
-- [[ape]], [[echo]]
+- [[a/_ape|ape]], [[e/_echo|echo]]
 #adverb
 - **As said [[b/_before|before]], likewise.**
 ---

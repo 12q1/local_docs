@@ -6,5 +6,5 @@
 - **The feathery [[c/_crown|crown]] of some seeds (such as the [[d/_dandelion|dandelion]]).**
 ---
 ### Synonyms
-- [[egret]]
+- [[e/_egret|egret]]
 ---

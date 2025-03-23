@@ -5,5 +5,5 @@
 	- _Example: The migrants will be enslaved once they're no longer useful to the oligarchs; make no mistake about that._
 ---
 ### Synonyms
-- [[beslave]], [[bethrall]], [[enslaven]]
+- [[b/_beslave|beslave]], [[b/_bethrall|bethrall]], [[e/_enslaven|enslaven]]
 ---

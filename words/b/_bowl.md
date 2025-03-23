@@ -14,5 +14,5 @@
 - **A postseason football [[c/_competition|competition]], a [[b/_bowl|bowl]] game (i.[[e/_e|e]]. Rose [[b/_bowl|Bowl]], Super [[b/_bowl|Bowl]])**
 ---
 ### Synonyms
-- [[bowlful]], [[crater]], [[hollow]], [[bowl cut]], [[pudding bowl]]
+- [[b/_bowlful|bowlful]], [[c/_crater|crater]], [[h/_hollow|hollow]]
 ---

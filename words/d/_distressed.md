@@ -7,12 +7,12 @@
 	- _Example: She distressed the new media cabinet so that it fit with the other furniture in the room._
 ---
 ### Synonyms
-- [[age]], [[antique]], [[patinate]], [[anguish]], [[harrow]], [[martyr]], [[tantalise]], [[tantalize]], [[torment]], [[trouble]], [[vex]], [[distrain]]
+- [[a/_age|age]], [[a/_antique|antique]], [[p/_patinate|patinate]], [[a/_anguish|anguish]], [[h/_harrow|harrow]], [[m/_martyr|martyr]], [[t/_tantalise|tantalise]], [[t/_tantalize|tantalize]], [[t/_torment|torment]], [[t/_trouble|trouble]], [[v/_vex|vex]], [[d/_distrain|distrain]]
 #adjective
 - **[[a/_anxious|Anxious]] or uneasy**
 	- _Example: I'm distressed that John hasn't answered my calls. I hope nothing bad happened to him on the way here._
-- **(of merchandise, etc.) [[d/_damaged|damaged]]**
+- **(of merchandise, [[e/_etc|etc]].) [[d/_damaged|damaged]]**
 - **(of a property) offered for sale [[a/_after|after]] foreclosure**
-- **(of furniture, etc.) faded or [[a/_abused|abused]] in order to [[a/_appear|appear]] old, or [[a/_antique|antique]]**
+- **(of furniture, [[e/_etc|etc]].) faded or [[a/_abused|abused]] in order to [[a/_appear|appear]] old, or [[a/_antique|antique]]**
 ---
 ---

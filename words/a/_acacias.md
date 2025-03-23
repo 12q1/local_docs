@@ -9,7 +9,7 @@
 - **A light to moderate greenish yellow with a hint of red.**
 ---
 ### Synonyms
-- [[gum acacia]], [[gum arabic]], [[wattle]]
+- [[w/_wattle|wattle]]
 #noun
 - **(history) A roll or [[b/_bag|bag]], filled with [[d/_dust|dust]], [[b/_borne|borne]] by [[b/_byzantine|Byzantine]] [[e/_emperors|emperors]], as a memento of mortality. It is represented on medals.**
 ---

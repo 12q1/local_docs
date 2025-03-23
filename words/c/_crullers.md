@@ -4,5 +4,5 @@
 - **A [[d/_donut|donut]] in the form of a twisted ring.**
 ---
 ### Synonyms
-- [[wonder]]
+- [[w/_wonder|wonder]]
 ---

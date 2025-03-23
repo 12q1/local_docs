@@ -5,7 +5,7 @@
 - **A legal merging of a territory into [[a/_another|another]] [[b/_body|body]].**
 ---
 ### Synonyms
-- [[annexion]]
+- [[a/_annexion|annexion]]
 ### Antonyms
-- [[separation]]
+- [[s/_separation|separation]]
 ---

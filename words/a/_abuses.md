@@ -11,11 +11,11 @@
 - **Violation; [[d/_defilement|defilement]]; rape; forcing of undesired sexual [[a/_activity|activity]] by one person on [[a/_another|another]], often on a repeated [[b/_basis|basis]].**
 ---
 ### Synonyms
-- [[abusio]], [[contumely]], [[insult]], [[invective]], [[opprobrium]], [[reproach]], [[scurrility]], [[misuse]]
+- [[a/_abusio|abusio]], [[c/_contumely|contumely]], [[i/_insult|insult]], [[i/_invective|invective]], [[o/_opprobrium|opprobrium]], [[r/_reproach|reproach]], [[s/_scurrility|scurrility]], [[m/_misuse|misuse]]
 #verb
 - **To put to a wrong use; to misapply; to use improperly; to misuse; to use for a wrong purpose or [[e/_end|end]]; to pervert**
 	- _Example: He abused his authority._
-- **To injure; to maltreat; to hurt; to treat with [[c/_cruelty|cruelty]], especially repeatedly.**
+- **To injure; to maltreat; to hurt; to treat with [[c/_cruelty|cruelty]], [[e/_especially|especially]] repeatedly.**
 - **To [[a/_attack|attack]] with [[c/_coarse|coarse]] language; to insult; to revile; malign; to speak in an offensive manner to or [[a/_about|about]] someone; to [[d/_disparage|disparage]].**
 - **To imbibe a [[d/_drug|drug]] for a purpose other than it was intended; to intentionally take more of a [[d/_drug|drug]] than was prescribed for recreational reasons; to take illegal [[d/_drugs|drugs]] habitually.**
 - **To violate; [[d/_defile|defile]]; to rape.**
@@ -24,5 +24,5 @@
 - **[[d/_disuse|Disuse]].**
 ---
 ### Synonyms
-- [[injure]], [[maltreat]], [[reproach]], [[revile]], [[vilify]], [[vituperate]]
+- [[i/_injure|injure]], [[m/_maltreat|maltreat]], [[r/_reproach|reproach]], [[r/_revile|revile]], [[v/_vilify|vilify]], [[v/_vituperate|vituperate]]
 ---

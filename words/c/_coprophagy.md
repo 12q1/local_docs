@@ -4,5 +4,5 @@
 - **The [[e/_eating|eating]] of feces.**
 ---
 ### Synonyms
-- [[scatophagy]]
+- [[s/_scatophagy|scatophagy]]
 ---

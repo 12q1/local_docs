@@ -10,9 +10,9 @@
 - **The loss of a first or second language or a portion of that language.**
 ---
 ### Synonyms
-- [[natural wastage]]
+- 
 ### Antonyms
-- [[accretion]]
+- [[a/_accretion|accretion]]
 #verb
 - **To grind or wear [[d/_down|down]] through friction.**
 	- _Example: attritioned teeth; attritioned rock_
@@ -22,5 +22,5 @@
 	- _Example: The cohort of one hundred students had attritioned to sixty by the end of secondary school._
 ---
 ### Synonyms
-- [[attrit]]
+- [[a/_attrit|attrit]]
 ---

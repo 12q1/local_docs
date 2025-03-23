@@ -7,7 +7,7 @@
 	- _Example: My mum is such a cheapskate that she didn't lend me money to go shopping._
 ---
 ### Synonyms
-- [[miser]]
+- [[m/_miser|miser]]
 ### Antonyms
-- [[spendthrift]]
+- [[s/_spendthrift|spendthrift]]
 ---

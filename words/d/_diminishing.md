@@ -9,7 +9,7 @@
 - **To take [[a/_away|away]]; to subtract.**
 ---
 ### Antonyms
-- [[improve]], [[renovate]], [[repair]]
+- [[i/_improve|improve]], [[r/_renovate|renovate]], [[r/_repair|repair]]
 #noun
 - **A [[d/_diminishment|diminishment]].**
 ---

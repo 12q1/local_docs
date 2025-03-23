@@ -8,7 +8,7 @@
 	- _Example: from the cradle to the grave_
 - **An implement [[c/_consisting|consisting]] of a [[b/_broad|broad]] scythe for [[c/_cutting|cutting]] grain, with a set of long fingers parallel to the scythe, [[d/_designed|designed]] to receive the grain, and to lay it evenly in a swath.**
 - **A tool used in mezzotint [[e/_engraving|engraving]], which, by a rocking motion, raises [[b/_burrs|burrs]] on the surface of the plate, so preparing the ground.**
-- **A framework of timbers, or iron [[b/_bars|bars]], moving upon ways or rollers, used to support, lift, or [[c/_carry|carry]] ships or other vessels, heavy guns, etc., as up an inclined plane, or [[a/_across|across]] a strip of land, or in launching a ship.**
+- **A framework of timbers, or iron [[b/_bars|bars]], moving upon ways or rollers, used to support, lift, or [[c/_carry|carry]] ships or other vessels, heavy guns, [[e/_etc|etc]]., as up an inclined plane, or [[a/_across|across]] a strip of land, or in launching a ship.**
 - **A [[c/_case|case]] for a [[b/_broken|broken]] or [[d/_dislocated|dislocated]] limb.**
 - **A frame to keep the [[b/_bedclothes|bedclothes]] from [[c/_contact|contact]] with the sensitive parts of an injured person.**
 - **A machine on rockers, used in washing out [[a/_auriferous|auriferous]] [[e/_earth|earth]].**
@@ -22,7 +22,7 @@
 - **A mechanical [[d/_device|device]] for tilting and [[d/_decanting|decanting]] a [[b/_bottle|bottle]] of wine.**
 ---
 ### Synonyms
-- [[rocker]], [[rest]]
+- [[r/_rocker|rocker]], [[r/_rest|rest]]
 #verb
 - **To [[c/_contain|contain]] in or as if in a [[c/_cradle|cradle]].**
 - **To rock (a [[b/_baby|baby]] to sleep).**

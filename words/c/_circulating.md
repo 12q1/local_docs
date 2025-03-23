@@ -10,11 +10,11 @@
 - **Of [[d/_decimals|decimals]]: to repeat.**
 ---
 ### Synonyms
-- [[disseminate]], [[put about]], [[spread]]
+- [[d/_disseminate|disseminate]], [[s/_spread|spread]]
 #adjective
 - **Moving [[a/_about|about]] freely.**
 	- _Example: He glanced at the slowly circulating guests._
-- **An institution lending from its [[c/_collection|collection]], especially of [[b/_books|books]], on [[c/_condition|condition]] of membership.**
+- **An institution lending from its [[c/_collection|collection]], [[e/_especially|especially]] of [[b/_books|books]], on [[c/_condition|condition]] of membership.**
 	- _Example: A circulating library._
 ---
 ---

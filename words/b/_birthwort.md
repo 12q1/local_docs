@@ -5,5 +5,5 @@
 - **[[b/_birthroot|Birthroot]], Trillium erectum**
 ---
 ### Synonyms
-- [[Dutchman's pipe]], [[pipevine]]
+- [[p/_pipevine|pipevine]]
 ---

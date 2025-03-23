@@ -6,5 +6,5 @@
 - **Similar to that of a [[d/_drunk|drunk]].**
 ---
 ### Synonyms
-- [[drunklike]], [[intoxicated-like]]
+- [[d/_drunklike|drunklike]], [[i/_intoxicated-like|intoxicated-like]]
 ---

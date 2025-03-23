@@ -7,5 +7,5 @@
 	- _Example: It’s quite normal for babies to have chubby cheeks._
 ---
 ### Synonyms
-- [[chunky]], [[plump]], [[podgy]], [[chunky]], [[plump]], [[podgy]], [[tubby]]
+- [[c/_chunky|chunky]], [[p/_plump|plump]], [[p/_podgy|podgy]], [[c/_chunky|chunky]], [[p/_plump|plump]], [[p/_podgy|podgy]], [[t/_tubby|tubby]]
 ---

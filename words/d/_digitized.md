@@ -7,7 +7,7 @@
 	- _Example: to digitize a pen_
 ---
 ### Synonyms
-- [[digitalize]]
+- [[d/_digitalize|digitalize]]
 #adjective
 - **That has [[b/_been|been]] [[c/_converted|converted]] from [[a/_analog|analog]] to [[d/_digital|digital]]**
 ---

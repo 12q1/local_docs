@@ -4,5 +4,5 @@
 - **The state of [[b/_being|being]] [[c/_cheap|cheap]]**
 ---
 ### Synonyms
-- [[frugality]], [[parsimony]], [[thriftiness]]
+- [[f/_frugality|frugality]], [[p/_parsimony|parsimony]], [[t/_thriftiness|thriftiness]]
 ---

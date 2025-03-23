@@ -9,7 +9,7 @@
 	- _Example: How else (=in what other way) can it be done?_
 ---
 ### Synonyms
-- [[otherwise]]
+- [[o/_otherwise|otherwise]]
 #conjunction
 - **For otherwise; or [[e/_else|else]].**
 	- _Example: Then the Wronskian of f and g must be nonzero, else they could not be linearly independent._

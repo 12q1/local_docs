@@ -6,5 +6,5 @@
 - **A [[d/_document|document]] written in [[d/_decorative|decorative]] style.**
 ---
 ### Synonyms
-- [[chirography]], [[penmanship]]
+- [[c/_chirography|chirography]], [[p/_penmanship|penmanship]]
 ---

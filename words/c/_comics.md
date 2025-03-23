@@ -9,5 +9,5 @@
 - **The medium of [[c/_comic|comic]] [[b/_books|books]], [[c/_comic|comic]] strips, and other sequential [[a/_art|art]]**
 ---
 ### Synonyms
-- [[funnies]], [[funny pages]], [[funny papers]]
+- [[f/_funnies|funnies]]
 ---

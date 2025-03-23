@@ -12,5 +12,5 @@
 - **The supplying of a ship with [[c/_coal|coal]].**
 ---
 ### Synonyms
-- [[bunkering]]
+- [[b/_bunkering|bunkering]]
 ---

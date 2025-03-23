@@ -6,6 +6,6 @@
 - **[[a/_any|Any]] [[c/_council|council]] or [[a/_assembly|assembly]].**
 - **A [[c/_couch|couch]]- or sofa-like piece of furniture made of a mattress lying [[a/_against|against]] the wall and [[e/_either|either]] on the floor or an [[e/_elevated|elevated]] structure.**
 - **A smoking-room.**
-- **A [[c/_collection|collection]] of poems, especially one written by one [[a/_author|author]] in [[a/_arabic|Arabic]] or Persian.**
+- **A [[c/_collection|collection]] of poems, [[e/_especially|especially]] one written by one [[a/_author|author]] in [[a/_arabic|Arabic]] or Persian.**
 ---
 ---

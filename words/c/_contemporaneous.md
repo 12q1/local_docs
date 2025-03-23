@@ -5,5 +5,5 @@
 	- _Example: Look in other contemporaneous works to see whether that idea was common then._
 ---
 ### Synonyms
-- [[coeval]], [[contemporary]], [[cotemporal]]
+- [[c/_coeval|coeval]], [[c/_contemporary|contemporary]], [[c/_cotemporal|cotemporal]]
 ---

@@ -5,5 +5,5 @@
 - **The jurisdiction of an [[a/_archbishop|archbishop]]; an [[a/_archdiocese|archdiocese]]**
 ---
 ### Synonyms
-- [[archbishopdom]]
+- [[a/_archbishopdom|archbishopdom]]
 ---

@@ -1,10 +1,10 @@
 # Divulged
 ---
 #verb
-- **To make public or known; to [[c/_communicate|communicate]] to the public; to tell (information, especially a secret) so that it may [[b/_become|become]] generally known**
+- **To make public or known; to [[c/_communicate|communicate]] to the public; to tell (information, [[e/_especially|especially]] a secret) so that it may [[b/_become|become]] generally known**
 	- _Example: I will never divulge that secret to anyone._
 - **To indicate publicly; to proclaim.**
 ---
 ### Synonyms
-- [[bewray]], [[bring out]], [[disclose]], [[discover]], [[expose]], [[give away]], [[impart]], [[let on]], [[let out]], [[reveal]], [[uncover]], [[disclose]]
+- [[b/_bewray|bewray]], [[d/_disclose|disclose]], [[d/_discover|discover]], [[e/_expose|expose]], [[i/_impart|impart]], [[r/_reveal|reveal]], [[u/_uncover|uncover]], [[d/_disclose|disclose]]
 ---

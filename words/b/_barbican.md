@@ -7,5 +7,5 @@
 - **A temporary wooden tower [[b/_built|built]] for [[d/_defensive|defensive]] purposes.**
 ---
 ### Synonyms
-- [[guardhouse]]
+- [[g/_guardhouse|guardhouse]]
 ---

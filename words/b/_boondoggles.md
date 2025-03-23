@@ -6,5 +6,5 @@
 	- _Example: Opponents consider this another billion-dollar government boondoggle._
 ---
 ### Synonyms
-- [[woggle]]
+- [[w/_woggle|woggle]]
 ---

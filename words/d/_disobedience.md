@@ -5,7 +5,7 @@
 	- _Example: The teacher complained of the child's disobedience._
 ---
 ### Synonyms
-- [[contumacy]], [[rebellion]]
+- [[c/_contumacy|contumacy]], [[r/_rebellion|rebellion]]
 ### Antonyms
-- [[obedience]]
+- [[o/_obedience|obedience]]
 ---

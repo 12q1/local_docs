@@ -5,7 +5,7 @@
 - **The state of having [[b/_been|been]] or process of [[b/_becoming|becoming]] freed of false [[b/_belief|belief]].**
 ---
 ### Synonyms
-- [[disillusionment]]
+- [[d/_disillusionment|disillusionment]]
 #verb
 - **To free or [[d/_deprive|deprive]] of illusion; to [[d/_disenchant|disenchant]].**
 ---

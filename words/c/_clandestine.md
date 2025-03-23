@@ -6,5 +6,5 @@
 - **(of a person or lodge) Not recognized as a regular member.**
 ---
 ### Synonyms
-- [[covert]], [[furtive]], [[hush-hush]], [[secret]], [[secretive]], [[undercover]]
+- [[c/_covert|covert]], [[f/_furtive|furtive]], [[h/_hush-hush|hush-hush]], [[s/_secret|secret]], [[s/_secretive|secretive]], [[u/_undercover|undercover]]
 ---

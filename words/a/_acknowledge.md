@@ -11,5 +11,5 @@
 - **To own as genuine or valid; to [[a/_assent|assent]] to (a legal instrument) to give it validity; to [[a/_avow|avow]] or [[a/_admit|admit]] in legal form.**
 ---
 ### Synonyms
-- [[admit]], [[allow]], [[avow]], [[concede]], [[confess]], [[own]], [[proclaim]], [[recognize]]
+- [[a/_admit|admit]], [[a/_allow|allow]], [[a/_avow|avow]], [[c/_concede|concede]], [[c/_confess|confess]], [[o/_own|own]], [[p/_proclaim|proclaim]], [[r/_recognize|recognize]]
 ---

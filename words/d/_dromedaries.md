@@ -5,5 +5,5 @@
 - **[[a/_any|Any]] swift riding [[c/_camel|camel]].**
 ---
 ### Synonyms
-- [[Arabian camel]], [[Somali camel]], [[dromedarian]], [[dromedary camel]]
+- [[d/_dromedarian|dromedarian]]
 ---

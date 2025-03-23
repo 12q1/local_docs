@@ -7,5 +7,5 @@
 - **Unmasked (not wearing a mask) or not wearing a face [[c/_covering|covering]]**
 ---
 ### Synonyms
-- [[bareface]]
+- [[b/_bareface|bareface]]
 ---

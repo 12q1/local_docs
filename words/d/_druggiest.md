@@ -1,6 +1,6 @@
 # Druggiest
 ---
 #adjective
-- **[[a/_acting|Acting]] as if on [[d/_drugs|drugs]]; torpid, uncoordinated, etc.**
+- **[[a/_acting|Acting]] as if on [[d/_drugs|drugs]]; torpid, uncoordinated, [[e/_etc|etc]].**
 ---
 ---

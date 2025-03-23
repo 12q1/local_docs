@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_act|act]] of touching physically; [[b/_being|being]] in [[c/_close|close]] [[a/_association|association]].**
-- **The establishment of [[c/_communication|communication]] (with).**
+- **The [[e/_establishment|establishment]] of [[c/_communication|communication]] (with).**
 	- _Example: I haven't been in contact with her for years._
 - **A nodule [[d/_designed|designed]] to [[c/_connect|connect]] a [[d/_device|device]] with something [[e/_else|else]].**
 	- _Example: Touch the contact to ground and read the number again._
@@ -17,7 +17,7 @@
 #verb
 - **To touch; to [[c/_come|come]] into physical [[c/_contact|contact]] with.**
 	- _Example: The side of the car contacted the pedestrian._
-- **To establish [[c/_communication|communication]] with something or someone**
+- **To [[e/_establish|establish]] [[c/_communication|communication]] with something or someone**
 	- _Example: I am trying to contact my sister._
 ---
 ---

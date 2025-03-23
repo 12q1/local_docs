@@ -1,7 +1,7 @@
 # Dug
 ---
 #verb
-- **To move hard-packed [[e/_earth|earth]] out of the way, especially [[d/_downward|downward]] to make a hole with a shovel. Or to [[d/_drill|drill]], or the like, through rocks, roads, or the like. More generally, to make [[a/_any|any]] similar hole by moving material out of the way.**
+- **To move hard-packed [[e/_earth|earth]] out of the way, [[e/_especially|especially]] [[d/_downward|downward]] to make a hole with a shovel. Or to [[d/_drill|drill]], or the like, through rocks, roads, or the like. More generally, to make [[a/_any|any]] similar hole by moving material out of the way.**
 	- _Example: If the plane can't pull out of the dive it is in, it'll dig a hole in the ground._
 - **To get by [[d/_digging|digging]]; to take from the ground; often with up.**
 	- _Example: to dig potatoes_

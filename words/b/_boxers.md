@@ -10,7 +10,7 @@
 - **A letterboxer.**
 ---
 ### Synonyms
-- [[pugilist]], [[boxer engine]]
+- [[p/_pugilist|pugilist]]
 #noun
 - **[[b/_boxer|Boxer]] shorts.**
 	- _Example: You could see his boxers under his trousers._

@@ -7,5 +7,5 @@
 - **[[a/_any|Any]] person or thing [[a/_anathematized|anathematized]], or [[c/_cursed|cursed]] by [[e/_ecclesiastical|ecclesiastical]] [[a/_authority|authority]].**
 ---
 ### Synonyms
-- [[ban]], [[curse]], [[bête noire]]
+- [[b/_ban|ban]], [[c/_curse|curse]]
 ---

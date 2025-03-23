@@ -5,5 +5,5 @@
 - **An [[a/_act|act]] which is fraudulent or otherwise [[d/_dishonest|dishonest]].**
 ---
 ### Antonyms
-- [[honesty]]
+- [[h/_honesty|honesty]]
 ---

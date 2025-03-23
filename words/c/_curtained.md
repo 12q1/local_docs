@@ -5,7 +5,7 @@
 - **To hide, [[c/_cover|cover]] or separate as if by a [[c/_curtain|curtain]].**
 ---
 ### Synonyms
-- [[becurtain]]
+- [[b/_becurtain|becurtain]]
 #adjective
 - **[[c/_covered|Covered]] or partitioned with a [[c/_curtain|curtain]] or [[c/_curtains|curtains]].**
 - **Hidden or separated as if by a [[c/_curtain|curtain]].**

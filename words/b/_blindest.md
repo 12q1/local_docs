@@ -22,7 +22,7 @@
 	- _Example: I shouted, but he didn't take a blind bit of notice._
 - **Without [[a/_any|any]] prior knowledge.**
 	- _Example: He took a blind guess at which fork in the road would take him to the airport._
-- **Unconditional; without regard to evidence, logic, reality, [[a/_accidental|accidental]] mistakes, extenuating [[c/_circumstances|circumstances]], etc.**
+- **Unconditional; without regard to evidence, logic, reality, [[a/_accidental|accidental]] mistakes, extenuating [[c/_circumstances|circumstances]], [[e/_etc|etc]].**
 	- _Example: blind deference_
 - **Unintelligible or illegible.**
 	- _Example: a blind passage in a book; blind writing_
@@ -30,5 +30,5 @@
 	- _Example: blind buds_
 ---
 ### Antonyms
-- [[seeing]], [[sighted]]
+- [[s/_seeing|seeing]], [[s/_sighted|sighted]]
 ---

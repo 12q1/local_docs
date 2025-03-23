@@ -8,5 +8,5 @@
 	- _Example: a backlit computer keyboard_
 ---
 ### Antonyms
-- [[frontlit]]
+- [[f/_frontlit|frontlit]]
 ---

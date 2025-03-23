@@ -7,5 +7,5 @@
 - **To [[c/_cheer|cheer]], to gladden.**
 ---
 ### Antonyms
-- [[despise]]
+- [[d/_despise|despise]]
 ---

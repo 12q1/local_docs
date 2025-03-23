@@ -1,9 +1,9 @@
 # Clerks
 ---
 #noun
-- **One who occupationally works with records, [[a/_accounts|accounts]], letters, etc.; an office worker.**
+- **One who occupationally works with records, [[a/_accounts|accounts]], letters, [[e/_etc|etc]].; an office worker.**
 - **A facilitator of a Quaker meeting for [[b/_business|business]] [[a/_affairs|affairs]].**
-- **In the [[c/_church|Church]] of [[e/_england|England]], the layman that [[a/_assists|assists]] in the [[c/_church|church]] service, especially in reading the responses ([[a/_also|also]] [[c/_called|called]] parish [[c/_clerk|clerk]]).**
+- **In the [[c/_church|Church]] of [[e/_england|England]], the layman that [[a/_assists|assists]] in the [[c/_church|church]] service, [[e/_especially|especially]] in reading the responses ([[a/_also|also]] [[c/_called|called]] parish [[c/_clerk|clerk]]).**
 - **A [[c/_cleric|cleric]] or [[c/_clergyman|clergyman]] (the legal title for [[c/_clergy|clergy]] of the [[c/_church|Church]] of [[e/_england|England]] is "[[c/_clerk|Clerk]] in Holy Orders", still used in legal [[d/_documents|documents]] and [[c/_cherished|cherished]] by some of their number).**
 - **A scholar.**
 ---

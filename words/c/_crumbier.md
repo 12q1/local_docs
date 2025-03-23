@@ -10,5 +10,5 @@
 - **Soft, like the [[c/_crumb|crumb]] of [[b/_bread|bread]]; not [[c/_crusty|crusty]].**
 ---
 ### Synonyms
-- [[crumby]]
+- [[c/_crumby|crumby]]
 ---

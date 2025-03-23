@@ -4,5 +4,5 @@
 - **A giraffe.**
 ---
 ### Synonyms
-- [[giraffe]]
+- [[g/_giraffe|giraffe]]
 ---

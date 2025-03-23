@@ -4,5 +4,5 @@
 - **A person who [[c/_choreographs|choreographs]].**
 ---
 ### Synonyms
-- [[choreographist]]
+- [[c/_choreographist|choreographist]]
 ---

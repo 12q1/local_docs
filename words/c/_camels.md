@@ -6,7 +6,7 @@
 - **Loaded vessels lashed tightly, one on [[e/_each|each]] side of [[a/_another|another]] vessel, and then [[e/_emptied|emptied]] to reduce the [[d/_draught|draught]] of the ship in the middle.**
 ---
 ### Synonyms
-- [[oont]]
+- [[o/_oont|oont]]
 #noun
 - **A ruminant, of the genus Giraffa, of the [[a/_african|African]] savannah with long legs and highly [[e/_elongated|elongated]] neck, which make it the tallest living [[a/_animal|animal]]; yellow fur patterned with [[d/_dark|dark]] spots, often in the form of a network; and two or more short, skin-[[c/_covered|covered]] horns, so-[[c/_called|called]]; strictly speaking the horn-like projections are ossicones.**
 - **A giraffe unicycle.**
@@ -14,5 +14,5 @@
 	- _Example: Are you having a giraffe?!_
 ---
 ### Synonyms
-- [[bubble]], [[bubble bath]], [[camelopard]]
+- [[b/_bubble|bubble]], [[c/_camelopard|camelopard]]
 ---

@@ -8,7 +8,7 @@
 - **To [[b/_bond|bond]] pieces of metal into a [[c/_continuous|continuous]] whole by liquefying parts of [[e/_each|each]] piece, [[b/_bringing|bringing]] the liquids into [[c/_contact|contact]], and [[a/_allowing|allowing]] the [[c/_combined|combined]] liquid to solidify.**
 ---
 ### Synonyms
-- [[amalgamate]], [[combine]], [[fuse]], [[join]], [[merge]], [[unite]]
+- [[a/_amalgamate|amalgamate]], [[c/_combine|combine]], [[f/_fuse|fuse]], [[j/_join|join]], [[m/_merge|merge]], [[u/_unite|unite]]
 #noun
 - **[[c/_coalescence|Coalescence]]**
 ---

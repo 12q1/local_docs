@@ -9,5 +9,5 @@
 - **A [[c/_confection|confection]] made from peanut [[b/_butter|butter]] fudge partially [[d/_dipped|dipped]] in [[c/_chocolate|chocolate]] to leave a [[c/_circle|circle]] of peanut [[b/_butter|butter]] visible, supposed to resemble the nut of the Ohio [[b/_buckeye|buckeye]] tree.**
 ---
 ### Synonyms
-- [[Ohioan]]
+- [[O/_Ohioan|Ohioan]]
 ---

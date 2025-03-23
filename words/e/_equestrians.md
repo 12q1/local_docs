@@ -4,5 +4,5 @@
 - **An [[e/_equestrian|equestrian]] person; a horserider.**
 ---
 ### Synonyms
-- [[horseman]], [[horserider]]
+- [[h/_horseman|horseman]], [[h/_horserider|horserider]]
 ---

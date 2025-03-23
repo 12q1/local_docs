@@ -4,5 +4,5 @@
 - **Having two lobes.**
 ---
 ### Synonyms
-- [[bilobate]]
+- [[b/_bilobate|bilobate]]
 ---

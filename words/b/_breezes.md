@@ -12,7 +12,7 @@
 - **A [[b/_brief|brief]] workout for a racehorse.**
 ---
 ### Synonyms
-- [[cakewalk]], [[cinch]], [[doddle]], [[piece of cake]], [[walk in the park]], [[walkover]]
+- [[c/_cakewalk|cakewalk]], [[c/_cinch|cinch]], [[d/_doddle|doddle]], [[w/_walkover|walkover]]
 #verb
 - **(usually with [[a/_along|along]]) To move [[c/_casually|casually]], in a [[c/_carefree|carefree]] manner.**
 - **To [[b/_blow|blow]] gently.**

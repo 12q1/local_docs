@@ -11,5 +11,5 @@
 - **A [[b/_blackout|blackout]], regardless of time of [[d/_day|day]].**
 ---
 ### Synonyms
-- [[grayout]], [[greyout]]
+- [[g/_grayout|grayout]], [[g/_greyout|greyout]]
 ---

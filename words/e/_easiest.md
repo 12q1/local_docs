@@ -16,7 +16,7 @@
 	- _Example: The market is easy._
 ---
 ### Synonyms
-- [[relaxed]], [[relaxing]], [[fast]], [[eath]], [[light]], [[soft]], [[trivial]]
+- [[r/_relaxed|relaxed]], [[r/_relaxing|relaxing]], [[f/_fast|fast]], [[e/_eath|eath]], [[l/_light|light]], [[s/_soft|soft]], [[t/_trivial|trivial]]
 ### Antonyms
-- [[anxious]], [[uneasy]], [[challenging]], [[difficult]], [[hard]], [[uneasy]], [[uneath]]
+- [[a/_anxious|anxious]], [[u/_uneasy|uneasy]], [[c/_challenging|challenging]], [[d/_difficult|difficult]], [[h/_hard|hard]], [[u/_uneasy|uneasy]], [[u/_uneath|uneath]]
 ---

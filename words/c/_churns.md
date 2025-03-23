@@ -1,7 +1,7 @@
 # Churns
 ---
 #noun
-- **A vessel used for [[c/_churning|churning]], especially for producing [[b/_butter|butter]].**
+- **A vessel used for [[c/_churning|churning]], [[e/_especially|especially]] for producing [[b/_butter|butter]].**
 	- _Example: a butter churn_
 - **[[c/_customer|Customer]] [[a/_attrition|attrition]]; the phenomenon or rate of [[c/_customers|customers]] leaving a [[c/_company|company]].**
 - **The time when a [[c/_consumer|consumer]] switches his/her service provider.**

@@ -19,7 +19,7 @@
 	- _Example: I gave him the charge to get the deal closed by the end of the month._
 - **An offensive foul in which the player with the [[b/_ball|ball]] moves into a stationary [[d/_defender|defender]].**
 - **A measured [[a/_amount|amount]] of powder and/or shot in a firearm [[c/_cartridge|cartridge]].**
-- **An image [[d/_displayed|displayed]] on an escutcheon.**
+- **An image [[d/_displayed|displayed]] on an [[e/_escutcheon|escutcheon]].**
 - **A position (of a weapon) fitted for [[a/_attack|attack]].**
 	- _Example: to bring a weapon to the charge_
 - **A sort of plaster or ointment.**
@@ -28,14 +28,14 @@
 - **An [[a/_address|address]] given at a [[c/_church|church]] service [[c/_concluding|concluding]] a visitation.**
 ---
 ### Synonyms
-- [[count]]
+- [[c/_count|count]]
 #verb
 - **To [[a/_assign|assign]] a [[d/_duty|duty]] or responsibility to**
 - **To [[a/_assign|assign]] (a [[d/_debit|debit]]) to an [[a/_account|account]]**
 	- _Example: Let's charge this to marketing._
 - **To pay on [[a/_account|account]], as by using a [[c/_credit|credit]] [[c/_card|card]]**
 	- _Example: Can I charge my purchase to my credit card?_
-- **To require payment (of) (a price or fee, for goods, services, etc.)**
+- **To require payment (of) (a price or fee, for goods, services, [[e/_etc|etc]].)**
 	- _Example: I won't charge you for the wheat_
 - **(possibly [[a/_archaic|archaic]]) to sell at a given price.**
 	- _Example: to charge coal at $5 per unit_

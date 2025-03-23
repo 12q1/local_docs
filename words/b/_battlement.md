@@ -6,5 +6,5 @@
 - **The towering roof of heaven.**
 ---
 ### Synonyms
-- [[crenellation]]
+- [[c/_crenellation|crenellation]]
 ---

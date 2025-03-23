@@ -1,7 +1,7 @@
 # Books
 ---
 #noun
-- **A [[c/_collection|collection]] of sheets of paper [[b/_bound|bound]] together to hinge at one [[e/_edge|edge]], [[c/_containing|containing]] printed or written material, pictures, etc.**
+- **A [[c/_collection|collection]] of sheets of paper [[b/_bound|bound]] together to hinge at one [[e/_edge|edge]], [[c/_containing|containing]] printed or written material, pictures, [[e/_etc|etc]].**
 	- _Example: He was frustrated because he couldn't find anything about dinosaurs in the book._
 - **A long work fit for publication, typically prose, such as a novel or textbook, and typically published as such a [[b/_bound|bound]] [[c/_collection|collection]] of sheets, but now sometimes [[e/_electronically|electronically]] as an [[e/_e|e]]-[[b/_book|book]].**
 	- _Example: I have three copies of his first book._
@@ -22,7 +22,7 @@
 - **[[a/_any|Any]] source of instruction.**
 ---
 ### Synonyms
-- [[account]], [[record]], [[booklet]], [[libretto]], [[tome]], [[volume]]
+- [[a/_account|account]], [[r/_record|record]], [[b/_booklet|booklet]], [[l/_libretto|libretto]], [[t/_tome|tome]], [[v/_volume|volume]]
 #verb
 - **To reserve (something) for future use.**
 	- _Example: I can book tickets for the concert next week._
@@ -40,5 +40,5 @@
 	- _Example: He was here earlier, but he booked._
 ---
 ### Synonyms
-- [[bomb]], [[hurtle]], [[rocket]], [[shoot]], [[speed]], [[whiz]], [[make a note of]], [[note down]], [[record]], [[write down]], [[reserve]]
+- [[b/_bomb|bomb]], [[h/_hurtle|hurtle]], [[r/_rocket|rocket]], [[s/_shoot|shoot]], [[s/_speed|speed]], [[w/_whiz|whiz]], [[r/_record|record]], [[r/_reserve|reserve]]
 ---

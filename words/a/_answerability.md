@@ -4,5 +4,5 @@
 - **The state of [[b/_being|being]] [[a/_answerable|answerable]].**
 ---
 ### Antonyms
-- [[unanswerability]]
+- [[u/_unanswerability|unanswerability]]
 ---

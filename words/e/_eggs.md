@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[a/_approximately|approximately]] spherical or [[e/_ellipsoidal|ellipsoidal]] [[b/_body|body]] produced by [[b/_birds|birds]], reptiles, insects and other [[a/_animals|animals]], housing the [[e/_embryo|embryo]] [[d/_during|during]] its [[d/_development|development]].**
-- **The [[e/_egg|egg]] of a [[d/_domestic|domestic]] fowl (especially a hen) or its [[c/_contents|contents]], used as food.**
+- **The [[e/_egg|egg]] of a [[d/_domestic|domestic]] fowl ([[e/_especially|especially]] a hen) or its [[c/_contents|contents]], used as food.**
 	- _Example: I also determine the minimal amount of egg required to make good mayonnaise._
 - **The female primary [[c/_cell|cell]], the ovum.**
 - **[[a/_anything|Anything]] shaped like an [[e/_egg|egg]], such as an [[e/_easter|Easter]] [[e/_egg|egg]] or a [[c/_chocolate|chocolate]] [[e/_egg|egg]].**

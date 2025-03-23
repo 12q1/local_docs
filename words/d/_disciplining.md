@@ -7,7 +7,7 @@
 - **To impose order on someone.**
 ---
 ### Synonyms
-- [[drill]]
+- [[d/_drill|drill]]
 #noun
 - **The use of punishment to [[c/_compel|compel]] [[b/_behavior|behavior]].**
 ---

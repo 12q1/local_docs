@@ -8,5 +8,5 @@
 	- _Example: a financial consensus forecast_
 ---
 ### Antonyms
-- [[dissensus]]
+- [[d/_dissensus|dissensus]]
 ---

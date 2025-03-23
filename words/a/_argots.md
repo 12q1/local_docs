@@ -6,5 +6,5 @@
 	- _Example: The conversation was in the argot of the trade, full of acronyms and abbreviations that made no sense to the uninitiate._
 ---
 ### Synonyms
-- [[cant]], [[jargon]], [[slang]], [[jargon]]
+- [[c/_cant|cant]], [[j/_jargon|jargon]], [[s/_slang|slang]], [[j/_jargon|jargon]]
 ---

@@ -7,7 +7,7 @@
 	- _Example: The popular show quickly became a ratings bonanza for the network._
 ---
 ### Synonyms
-- [[mother lode]]
+- 
 ### Antonyms
-- [[borrasca]]
+- [[b/_borrasca|borrasca]]
 ---

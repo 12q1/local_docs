@@ -8,7 +8,7 @@
 - **A [[c/_connective|connective]] tissue.**
 ---
 ### Synonyms
-- [[connexive]]
+- [[c/_connexive|connexive]]
 #adjective
 - **Serving or tending to [[c/_connect|connect]]; [[c/_connecting|connecting]].**
 ---

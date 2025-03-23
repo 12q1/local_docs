@@ -8,7 +8,7 @@
 - **A [[c/_catalytic|catalytic]] [[c/_converter|converter]].**
 ---
 ### Synonyms
-- [[stimulus]], [[straw that stirs the drink]]
+- [[s/_stimulus|stimulus]]
 ### Antonyms
-- [[inhibitor]], [[dampener]]
+- [[i/_inhibitor|inhibitor]], [[d/_dampener|dampener]]
 ---

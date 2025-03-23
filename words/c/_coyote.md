@@ -5,7 +5,7 @@
 - **A smuggler of undocumented immigrants [[a/_across|across]] the land [[b/_border|border]] from Latin [[a/_america|America]] into the United States of [[a/_america|America]].**
 ---
 ### Synonyms
-- [[prairie wolf]]
+- 
 #verb
 - **To prospect for gold by manually [[d/_digging|digging]] holes into overlying [[e/_earth|earth]], as into a hillside.**
 ---

@@ -8,7 +8,7 @@
 - **A [[d/_design|design]] pattern in object oriented methodology in which a [[c/_collection|collection]] is iterated uniformly**
 ---
 ### Synonyms
-- [[the caret]], [[the iterator pattern]]
+- 
 #verb
 - **To navigate by means of the [[c/_cursor|cursor]] keys.**
 ---

@@ -5,5 +5,5 @@
 - **A yellow flower of uncertain type, possibly the [[e/_eel|eel]]-ware, Ranunculus fluitans.**
 ---
 ### Synonyms
-- [[dogfish]], [[slipskin]]
+- [[d/_dogfish|dogfish]], [[s/_slipskin|slipskin]]
 ---

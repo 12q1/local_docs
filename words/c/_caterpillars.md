@@ -6,5 +6,5 @@
 - **A vehicle with a [[c/_caterpillar|caterpillar]] track; a [[c/_crawler|crawler]].**
 ---
 ### Synonyms
-- [[leafworm]]
+- [[l/_leafworm|leafworm]]
 ---

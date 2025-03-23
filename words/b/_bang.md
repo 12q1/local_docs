@@ -19,11 +19,11 @@
 - **A thrill.**
 ---
 ### Synonyms
-- [[exclamation mark]], [[exclamation point]], [[blow]], [[strike]], [[explosion]]
+- [[b/_blow|blow]], [[s/_strike|strike]], [[e/_explosion|explosion]]
 ### Antonyms
-- [[hang]]
+- [[h/_hang|hang]]
 #verb
-- **To make sudden loud noises, and often repeatedly, especially by exploding or hitting something.**
+- **To make sudden loud noises, and often repeatedly, [[e/_especially|especially]] by exploding or hitting something.**
 	- _Example: My head was banging after drinking all night at the concert._
 - **To hit hard.**
 	- _Example: David and Mary banged into each other._
@@ -36,7 +36,7 @@
 	- _Example: Do you smoke meth? No, I bang it._
 ---
 ### Synonyms
-- [[do it]], [[have sex]], [[nail]]
+- [[n/_nail|nail]]
 #adverb
 - **Right, [[d/_directly|directly]].**
 	- _Example: The passenger door was bang against the garage wall._
@@ -46,15 +46,15 @@
 	- _Example: Distracted, he ran bang into the opening door._
 ---
 #interjection
-- **A sudden percussive sound, such as made by the firing of a gun, slamming of a [[d/_door|door]], etc.**
+- **A sudden percussive sound, such as made by the firing of a gun, slamming of a [[d/_door|door]], [[e/_etc|etc]].**
 	- _Example: He pointed his finger at her like a gun and said, "Bang!"_
 ---
 #noun
 - **Hair hanging over the forehead.**
-- **A hairstyle including such hair, especially [[c/_cut|cut]] straight [[a/_across|across]] the forehead.**
+- **A hairstyle including such hair, [[e/_especially|especially]] [[c/_cut|cut]] straight [[a/_across|across]] the forehead.**
 ---
 ### Synonyms
-- [[bang]], [[forelocks]], [[fringe]], [[bang]], [[fringe]]
+- [[b/_bang|bang]], [[f/_forelocks|forelocks]], [[f/_fringe|fringe]], [[b/_bang|bang]], [[f/_fringe|fringe]]
 #noun
 - **[[b/_brucellosis|Brucellosis]], a [[b/_bacterial|bacterial]] [[d/_disease|disease]].**
 ---

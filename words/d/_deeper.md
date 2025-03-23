@@ -1,7 +1,7 @@
 # Deeper
 ---
 #adjective
-- **(of a physical [[d/_distance|distance]]) Extending far [[a/_away|away]] from a point of reference, especially [[d/_downwards|downwards]].**
+- **(of a physical [[d/_distance|distance]]) Extending far [[a/_away|away]] from a point of reference, [[e/_especially|especially]] [[d/_downwards|downwards]].**
 - **(intellectual, social) [[c/_complex|Complex]], involved.**
 - **(sound, voice) Low in pitch.**
 	- _Example: She has a very deep contralto voice._
@@ -16,7 +16,7 @@
 	- _Example: deep time_
 ---
 ### Synonyms
-- [[heavy]], [[meaningful]], [[profound]], [[low]], [[low-pitched]], [[bright]], [[rich]], [[vivid]], [[fast]], [[heavy]], [[thick]], [[great]], [[large]], [[voluminous]]
+- [[h/_heavy|heavy]], [[m/_meaningful|meaningful]], [[p/_profound|profound]], [[l/_low|low]], [[l/_low-pitched|low-pitched]], [[b/_bright|bright]], [[r/_rich|rich]], [[v/_vivid|vivid]], [[f/_fast|fast]], [[h/_heavy|heavy]], [[t/_thick|thick]], [[g/_great|great]], [[l/_large|large]], [[v/_voluminous|voluminous]]
 ### Antonyms
-- [[frivolous]], [[light]], [[shallow]], [[superficial]], [[shallow]], [[high]], [[high-pitched]], [[piping]], [[desaturated]], [[light]], [[pale]], [[washed-out]], [[shallow]], [[light]], [[shallow]], [[thin]], [[shallow]], [[small]]
+- [[f/_frivolous|frivolous]], [[l/_light|light]], [[s/_shallow|shallow]], [[s/_superficial|superficial]], [[s/_shallow|shallow]], [[h/_high|high]], [[h/_high-pitched|high-pitched]], [[p/_piping|piping]], [[d/_desaturated|desaturated]], [[l/_light|light]], [[p/_pale|pale]], [[w/_washed-out|washed-out]], [[s/_shallow|shallow]], [[l/_light|light]], [[s/_shallow|shallow]], [[t/_thin|thin]], [[s/_shallow|shallow]], [[s/_small|small]]
 ---

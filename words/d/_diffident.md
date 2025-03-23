@@ -5,5 +5,5 @@
 - **Lacking self-[[c/_confidence|confidence]]; timid; modest**
 ---
 ### Synonyms
-- [[modest]], [[timid]]
+- [[m/_modest|modest]], [[t/_timid|timid]]
 ---

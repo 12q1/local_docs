@@ -7,5 +7,5 @@
 - **A [[b/_belay|belay]] [[d/_device|device]] used in rock [[c/_climbing|climbing]]**
 ---
 ### Synonyms
-- [[tail]]
+- [[t/_tail|tail]]
 ---

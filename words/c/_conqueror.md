@@ -4,5 +4,5 @@
 - **Someone who [[c/_conquers|conquers]]**
 ---
 ### Synonyms
-- [[subjugator]], [[vanquisher]], [[victor]]
+- [[s/_subjugator|subjugator]], [[v/_vanquisher|vanquisher]], [[v/_victor|victor]]
 ---

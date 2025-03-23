@@ -4,5 +4,5 @@
 - **In a [[d/_derisive|derisive]] manner; demeaningly, mockingly.**
 ---
 ### Synonyms
-- [[demeaningly]], [[mockingly]]
+- [[d/_demeaningly|demeaningly]], [[m/_mockingly|mockingly]]
 ---

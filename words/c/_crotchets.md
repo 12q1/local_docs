@@ -10,5 +10,5 @@
 - **A square [[b/_bracket|bracket]].**
 ---
 ### Synonyms
-- [[quarter note]]
+- 
 ---

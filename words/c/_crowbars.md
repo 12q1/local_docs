@@ -6,7 +6,7 @@
 - **A type of [[c/_cocktail|cocktail]] made with only [[c/_crown|Crown]] Royal whiskey and lemon lime soda.**
 ---
 ### Synonyms
-- [[jemmy]], [[jimmy]], [[nail bar]], [[pinchbar]], [[prybar]]
+- [[j/_jemmy|jemmy]], [[j/_jimmy|jimmy]], [[p/_pinchbar|pinchbar]], [[p/_prybar|prybar]]
 #verb
 - **To use force to move. To prise.**
 ---

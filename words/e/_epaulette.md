@@ -7,5 +7,5 @@
 - **The red patch on the shoulders of a red-winged [[b/_blackbird|blackbird]]**
 ---
 ### Synonyms
-- [[shoulder board]], [[shoulder mark]], [[shoulder strap]], [[tegula]]
+- [[t/_tegula|tegula]]
 ---

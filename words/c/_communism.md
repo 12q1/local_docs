@@ -6,5 +6,5 @@
 - **The international socialist society where [[c/_classes|classes]], money, and the state no longer exist.**
 ---
 ### Synonyms
-- [[aspheterism]]
+- [[a/_aspheterism|aspheterism]]
 ---

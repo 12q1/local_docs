@@ -5,5 +5,5 @@
 - **A porous [[c/_clay|clay]] formed by the [[d/_decomposition|decomposition]] of volcanic [[a/_ash|ash]] that swells 5 to 6 times its original volume in the presence of water.**
 ---
 ### Synonyms
-- [[E558]], [[anti-caking agent]]
+- [[E/_E558|E558]]
 ---

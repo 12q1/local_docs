@@ -6,5 +6,5 @@
 - **Something that [[d/_determines|determines]], or helps someone to [[d/_determine|determine]], something [[e/_else|else]].**
 ---
 ### Synonyms
-- [[determinative]], [[determinative]]
+- [[d/_determinative|determinative]], [[d/_determinative|determinative]]
 ---

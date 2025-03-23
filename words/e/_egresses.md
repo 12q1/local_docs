@@ -4,7 +4,7 @@
 - **To exit or leave; to go or [[c/_come|come]] out.**
 ---
 ### Synonyms
-- [[come out]], [[depart]], [[exit]], [[go out]], [[leave]]
+- [[d/_depart|depart]], [[e/_exit|exit]], [[l/_leave|leave]]
 ### Antonyms
-- [[come in]], [[enter]], [[go in]]
+- [[e/_enter|enter]]
 ---

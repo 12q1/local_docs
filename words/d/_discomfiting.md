@@ -7,10 +7,10 @@
 	- _Example: Don't worry. Your joke did not really discomfit me._
 ---
 ### Synonyms
-- [[abash]], [[disconcert]], [[foil]], [[thwart]], [[overthrow]], [[vanquish]]
+- [[a/_abash|abash]], [[d/_disconcert|disconcert]], [[f/_foil|foil]], [[t/_thwart|thwart]], [[o/_overthrow|overthrow]], [[v/_vanquish|vanquish]]
 #adjective
 - **Tending to [[d/_discomfit|discomfit]].**
 ---
 ### Synonyms
-- [[discomforting]], [[disconcerting]], [[troubling]], [[unsettling]], [[upsetting]]
+- [[d/_discomforting|discomforting]], [[d/_disconcerting|disconcerting]], [[t/_troubling|troubling]], [[u/_unsettling|unsettling]], [[u/_upsetting|upsetting]]
 ---

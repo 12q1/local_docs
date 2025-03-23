@@ -6,5 +6,5 @@
 - **One who lodges in a [[d/_doss|doss]]-house.**
 ---
 ### Synonyms
-- [[shirker]]
+- [[s/_shirker|shirker]]
 ---

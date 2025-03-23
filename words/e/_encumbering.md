@@ -6,5 +6,5 @@
 - **To [[b/_burden|burden]] with a legal [[c/_claim|claim]] or other obligation**
 ---
 ### Antonyms
-- [[disencumber]], [[unencumber]], [[unload]]
+- [[d/_disencumber|disencumber]], [[u/_unencumber|unencumber]], [[u/_unload|unload]]
 ---

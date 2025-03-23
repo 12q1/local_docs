@@ -1,8 +1,8 @@
 # Cupidity
 ---
 #noun
-- **Extreme greed, especially for wealth.**
+- **Extreme greed, [[e/_especially|especially]] for wealth.**
 ---
 ### Synonyms
-- [[avarice]], [[covetousness]]
+- [[a/_avarice|avarice]], [[c/_covetousness|covetousness]]
 ---

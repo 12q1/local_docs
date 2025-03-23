@@ -7,5 +7,5 @@
 	- _Example: The protesters loudly booed the visiting senator._
 ---
 ### Antonyms
-- [[cheer]]
+- [[c/_cheer|cheer]]
 ---

@@ -17,6 +17,6 @@
 #adjective
 - **Made of or [[c/_containing|containing]] [[c/_chocolate|chocolate]].**
 - **Having a [[d/_dark|dark]] reddish-[[b/_brown|brown]] [[c/_colour|colour]]/[[c/_color|color]].**
-- **[[b/_black|Black]] (relating to [[a/_any|any]] of various ethnic groups having [[d/_dark|dark]] pigmentation of the skin).**
+- **[[b/_black|Black]] (relating to [[a/_any|any]] of various [[e/_ethnic|ethnic]] groups having [[d/_dark|dark]] pigmentation of the skin).**
 ---
 ---

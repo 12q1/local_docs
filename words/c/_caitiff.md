@@ -6,6 +6,6 @@
 - **A villain, a [[c/_coward|coward]] or wretch**
 ---
 #adjective
-- **Especially [[d/_despicable|despicable]]; [[c/_cowardly|cowardly]]**
+- **[[e/_especially|Especially]] [[d/_despicable|despicable]]; [[c/_cowardly|cowardly]]**
 ---
 ---

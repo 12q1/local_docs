@@ -8,7 +8,7 @@
 - **A [[b/_breech|breech]] [[b/_birth|birth]].**
 ---
 #verb
-- **To [[d/_dress|dress]] in [[b/_breeches|breeches]]. (especially) To [[d/_dress|dress]] a [[b/_boy|boy]] in [[b/_breeches|breeches]] or trousers for the first time.**
+- **To [[d/_dress|dress]] in [[b/_breeches|breeches]]. ([[e/_especially|especially]]) To [[d/_dress|dress]] a [[b/_boy|boy]] in [[b/_breeches|breeches]] or trousers for the first time.**
 - **To [[b/_beat|beat]] or spank on the [[b/_buttocks|buttocks]].**
 - **To fit or furnish with a [[b/_breech|breech]].**
 	- _Example: to breech a gun_

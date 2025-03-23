@@ -6,5 +6,5 @@
 - **(quilting) A subtly patterned fabric printed in [[d/_different|different]] shades of a single [[c/_color|color]], often used in place of a solid to [[c/_create|create]] visual texture.**
 ---
 ### Synonyms
-- [[liquidiser]], [[liquidizer]], [[vitamiser]], [[vitamizer]]
+- [[l/_liquidiser|liquidiser]], [[l/_liquidizer|liquidizer]], [[v/_vitamiser|vitamiser]], [[v/_vitamizer|vitamizer]]
 ---

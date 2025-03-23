@@ -4,5 +4,5 @@
 - **To get off a [[b/_bus|bus]].**
 ---
 ### Antonyms
-- [[embus]]
+- [[e/_embus|embus]]
 ---

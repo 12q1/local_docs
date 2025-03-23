@@ -6,7 +6,7 @@
 - **Impartiality.**
 ---
 ### Synonyms
-- [[equity]], [[fairness]], [[frankness]], [[honesty]], [[parrhesia]], [[sincerity]]
+- [[e/_equity|equity]], [[f/_fairness|fairness]], [[f/_frankness|frankness]], [[h/_honesty|honesty]], [[p/_parrhesia|parrhesia]], [[s/_sincerity|sincerity]]
 ### Antonyms
-- [[deception]], [[fraud]], [[lie]]
+- [[d/_deception|deception]], [[f/_fraud|fraud]], [[l/_lie|lie]]
 ---

@@ -4,5 +4,5 @@
 - **Unimpressed with something [[b/_because|because]] of over-familiarity.**
 ---
 ### Synonyms
-- [[casual]], [[indifferent]], [[jaded]], [[nonchalant]], [[unimpressed]]
+- [[c/_casual|casual]], [[i/_indifferent|indifferent]], [[j/_jaded|jaded]], [[n/_nonchalant|nonchalant]], [[u/_unimpressed|unimpressed]]
 ---

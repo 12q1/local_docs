@@ -4,5 +4,5 @@
 - **A loose-fitting protective garment worn over other [[c/_clothing|clothing]].**
 ---
 ### Synonyms
-- [[overall]]
+- [[o/_overall|overall]]
 ---

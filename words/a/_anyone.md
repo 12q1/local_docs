@@ -5,5 +5,5 @@
 	- _Example: Almost anyone can change a light bulb._
 ---
 ### Synonyms
-- [[anybody]]
+- [[a/_anybody|anybody]]
 ---

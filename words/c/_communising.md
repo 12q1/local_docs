@@ -7,5 +7,5 @@
 - **To [[c/_come|come]] under public ownership or [[c/_control|control]].**
 ---
 ### Antonyms
-- [[decommunize]]
+- [[d/_decommunize|decommunize]]
 ---

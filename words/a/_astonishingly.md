@@ -6,5 +6,5 @@
 	- _Example: The advertisements made the place look promising, but the food was astonishingly bad._
 ---
 ### Synonyms
-- [[amazingly]], [[hugely]], [[staggeringly]], [[very]]
+- [[a/_amazingly|amazingly]], [[h/_hugely|hugely]], [[s/_staggeringly|staggeringly]], [[v/_very|very]]
 ---

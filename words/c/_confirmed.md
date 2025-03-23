@@ -6,7 +6,7 @@
 - **To [[a/_assure|assure]] the [[a/_accuracy|accuracy]] of previous statements.**
 ---
 ### Antonyms
-- [[contradict]], [[deny]], [[disconfirm]], [[dispute]], [[infirm]], [[question]]
+- [[c/_contradict|contradict]], [[d/_deny|deny]], [[d/_disconfirm|disconfirm]], [[d/_dispute|dispute]], [[i/_infirm|infirm]], [[q/_question|question]]
 #adjective
 - **Having a settled habit; inveterate or habitual**
 	- _Example: a confirmed liar_
@@ -16,7 +16,7 @@
 	- _Example: a confirmed Catholic_
 ---
 ### Synonyms
-- [[sicker]]
+- [[s/_sicker|sicker]]
 ### Antonyms
-- [[unconfirmed]]
+- [[u/_unconfirmed|unconfirmed]]
 ---

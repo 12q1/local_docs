@@ -6,5 +6,5 @@
 - **Having [[c/_cavities|cavities]]**
 ---
 ### Synonyms
-- [[cavelike]]
+- [[c/_cavelike|cavelike]]
 ---

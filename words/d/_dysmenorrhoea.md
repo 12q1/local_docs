@@ -4,5 +4,5 @@
 - **Painful menstruation.**
 ---
 ### Synonyms
-- [[menorrhalgia]]
+- [[m/_menorrhalgia|menorrhalgia]]
 ---

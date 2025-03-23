@@ -5,8 +5,8 @@
 	- _Example: I know of the man; but have no acquaintance with him._
 - **A person or persons with whom one is [[a/_acquainted|acquainted]].**
 - **Such people [[c/_collectively|collectively]]; one's [[c/_circle|circle]] of [[a/_acquaintances|acquaintances]] (with plural [[c/_concord|concord]]).**
-- **Personal knowledge (with a specific subject etc.).**
+- **Personal knowledge (with a specific subject [[e/_etc|etc]].).**
 ---
 ### Synonyms
-- [[familiarity]], [[fellowship]], [[intimacy]], [[knowledge]]
+- [[f/_familiarity|familiarity]], [[f/_fellowship|fellowship]], [[i/_intimacy|intimacy]], [[k/_knowledge|knowledge]]
 ---

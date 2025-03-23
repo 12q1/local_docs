@@ -11,5 +11,5 @@
 - **A statement in a program [[a/_asserting|asserting]] a [[c/_condition|condition]] expected to be true at a particular point, used in [[d/_debugging|debugging]].**
 ---
 ### Synonyms
-- [[accusation]], [[allegation]], [[censure]], [[charge]], [[crimination]], [[impeachment]]
+- [[a/_accusation|accusation]], [[a/_allegation|allegation]], [[c/_censure|censure]], [[c/_charge|charge]], [[c/_crimination|crimination]], [[i/_impeachment|impeachment]]
 ---

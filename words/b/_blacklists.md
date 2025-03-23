@@ -5,7 +5,7 @@
 	- _Example: The software included a lengthy blacklist of disreputable websites to block._
 ---
 ### Synonyms
-- [[blocklist]]
+- [[b/_blocklist|blocklist]]
 ### Antonyms
-- [[greylist]], [[whitelist]]
+- [[g/_greylist|greylist]], [[w/_whitelist|whitelist]]
 ---

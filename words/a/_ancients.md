@@ -7,12 +7,12 @@
 - **A senior; an [[e/_elder|elder]]; a predecessor.**
 ---
 ### Synonyms
-- [[geriatric]], [[oldster]], [[senior citizen]], [[antique]], [[antecessor]], [[forerunner]], [[aged]], [[eldern]], [[hoary]]
+- [[g/_geriatric|geriatric]], [[o/_oldster|oldster]], [[a/_antique|antique]], [[a/_antecessor|antecessor]], [[f/_forerunner|forerunner]], [[a/_aged|aged]], [[e/_eldern|eldern]], [[h/_hoary|hoary]]
 #noun
 - **A flag, [[b/_banner|banner]], standard or [[e/_ensign|ensign]].**
 - **The [[b/_bearer|bearer]] of a flag; [[e/_ensign|ensign]]**
 ---
 #noun
-- **The people of [[c/_classical|classical]] [[a/_antiquity|antiquity]], especially such writers and philosophers.**
+- **The people of [[c/_classical|classical]] [[a/_antiquity|antiquity]], [[e/_especially|especially]] such writers and philosophers.**
 ---
 ---

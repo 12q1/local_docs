@@ -4,10 +4,10 @@
 - **[[c/_civilian|Civilian]] [[c/_clothes|clothes]]**
 ---
 ### Synonyms
-- [[mufti]]
+- [[m/_mufti|mufti]]
 #noun
 - **A [[c/_civilian|civilian]]; someone who is not in the military.**
 ---
 ### Synonyms
-- [[civvie]]
+- [[c/_civvie|civvie]]
 ---

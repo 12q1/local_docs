@@ -6,5 +6,5 @@
 - **The psychological state of [[b/_being|being]] [[a/_annoyed|annoyed]] or irritated.**
 ---
 ### Synonyms
-- [[nark]]
+- [[n/_nark|nark]]
 ---

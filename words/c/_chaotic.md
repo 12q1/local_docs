@@ -10,7 +10,7 @@
 - **[[a/_aligned|Aligned]] [[a/_against|against]] following or upholding laws and principles.**
 ---
 ### Synonyms
-- [[shambolic]]
+- [[s/_shambolic|shambolic]]
 ### Antonyms
-- [[lawful]]
+- [[l/_lawful|lawful]]
 ---

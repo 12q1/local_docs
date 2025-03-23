@@ -7,5 +7,5 @@
 	- _Example: a clingy ex-girlfriend who won't stop calling_
 ---
 ### Synonyms
-- [[clinging]], [[overattached]]
+- [[c/_clinging|clinging]], [[o/_overattached|overattached]]
 ---

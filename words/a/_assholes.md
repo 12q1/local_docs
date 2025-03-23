@@ -7,7 +7,7 @@
 - **By extension, [[a/_anything|anything]] unpleasant or undesirable. Often used [[a/_appositionally|appositionally]].**
 ---
 ### Synonyms
-- [[dick]], [[jerk]]
+- [[d/_dick|dick]], [[j/_jerk|jerk]]
 #noun
 - **A receptacle under a fire grate for [[c/_collecting|collecting]] [[a/_ashes|ashes]].**
 ---

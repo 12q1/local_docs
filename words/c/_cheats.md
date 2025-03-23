@@ -11,7 +11,7 @@
 	- _Example: He cheated his way into office._
 ---
 ### Synonyms
-- [[belirt]], [[blench]], [[break the rules]], [[lirt]]
+- [[b/_belirt|belirt]], [[b/_blench|blench]], [[l/_lirt|lirt]]
 #noun
 - **Someone who [[c/_cheats|cheats]] (informal: [[c/_cheater|cheater]]).**
 - **An [[a/_act|act]] of [[d/_deception|deception]] or fraud; that which is the means of fraud or [[d/_deception|deception]]; a fraud; a trick; imposition; imposture.**
@@ -20,5 +20,5 @@
 - **A hidden means of gaining an unfair [[a/_advantage|advantage]] in a [[c/_computer|computer]] game, often by [[e/_entering|entering]] a [[c/_cheat|cheat]] [[c/_code|code]].**
 ---
 ### Synonyms
-- [[BS]], [[I doubt it]], [[bullshit]]
+- [[B/_BS|BS]], [[b/_bullshit|bullshit]]
 ---

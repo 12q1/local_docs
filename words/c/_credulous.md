@@ -5,7 +5,7 @@
 - **[[b/_believed|Believed]] too readily.**
 ---
 ### Synonyms
-- [[naive]], [[unworldly]]
+- [[n/_naive|naive]], [[u/_unworldly|unworldly]]
 ### Antonyms
-- [[incredulous]], [[noncredulous]]
+- [[i/_incredulous|incredulous]], [[n/_noncredulous|noncredulous]]
 ---

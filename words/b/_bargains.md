@@ -9,5 +9,5 @@
 - **The thing stipulated or purchased.**
 ---
 ### Synonyms
-- [[contract]], [[engagement]], [[stipulation]], [[purchase]], [[rip-off]], [[steal]]
+- [[c/_contract|contract]], [[e/_engagement|engagement]], [[s/_stipulation|stipulation]], [[p/_purchase|purchase]], [[r/_rip-off|rip-off]], [[s/_steal|steal]]
 ---

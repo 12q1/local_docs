@@ -5,5 +5,5 @@
 - **Officially sanctioned postponement of [[c/_compulsory|compulsory]] military service.**
 ---
 ### Synonyms
-- [[deferral]]
+- [[d/_deferral|deferral]]
 ---

@@ -7,11 +7,11 @@
 - **To suppress vibrations (mechanical) or oscillations ([[e/_electrical|electrical]]) by [[c/_converting|converting]] [[e/_energy|energy]] to heat (or some other form of [[e/_energy|energy]]).**
 ---
 ### Synonyms
-- [[moisten]]
+- [[m/_moisten|moisten]]
 #adjective
 - **(of an extinguished fire) stopped from smouldering and reigniting by the [[a/_application|application]] of water**
 - **(of a linear [[d/_dynamic|dynamic]] system) Possessing a nonzero [[d/_damping|damping]] ratio.**
 ---
 ### Antonyms
-- [[undamped]]
+- [[u/_undamped|undamped]]
 ---

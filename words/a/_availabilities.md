@@ -7,7 +7,7 @@
 	- _Example: We have several availabilities._
 ---
 ### Synonyms
-- [[accessibility]], [[availableness]]
+- [[a/_accessibility|accessibility]], [[a/_availableness|availableness]]
 ### Antonyms
-- [[non-availability]], [[nonavailability]], [[unavailability]]
+- [[n/_non-availability|non-availability]], [[n/_nonavailability|nonavailability]], [[u/_unavailability|unavailability]]
 ---

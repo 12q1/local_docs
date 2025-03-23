@@ -6,7 +6,7 @@
 - **To exercise excessive or [[d/_damaging|damaging]] [[a/_authority|authority]] in an [[a/_attempt|attempt]] to protect. To overprotect.**
 ---
 ### Synonyms
-- [[simmer]], [[cosset]], [[pamper]], [[posset]], [[spoil]]
+- [[s/_simmer|simmer]], [[c/_cosset|cosset]], [[p/_pamper|pamper]], [[p/_posset|posset]], [[s/_spoil|spoil]]
 #noun
 - **The [[a/_act|act]] of one who [[c/_coddles|coddles]] or pampers.**
 ---

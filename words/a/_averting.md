@@ -9,5 +9,5 @@
 - **To turn [[a/_away|away]].**
 ---
 ### Synonyms
-- [[forestall]]
+- [[f/_forestall|forestall]]
 ---

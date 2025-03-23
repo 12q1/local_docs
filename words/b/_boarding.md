@@ -12,12 +12,12 @@
 - **To [[c/_cover|cover]] with [[b/_boards|boards]] or [[b/_boarding|boarding]].**
 	- _Example: to board a house_
 - **To hit (someone) with a wooden [[b/_board|board]].**
-- **To write something on a [[b/_board|board]], especially a [[b/_blackboard|blackboard]] or whiteboard.**
+- **To write something on a [[b/_board|board]], [[e/_especially|especially]] a [[b/_blackboard|blackboard]] or whiteboard.**
 ---
 ### Antonyms
-- [[alight]], [[disembark]]
+- [[a/_alight|alight]], [[d/_disembark|disembark]]
 #noun
-- **The [[a/_act|act]] of people getting [[a/_aboard|aboard]] a ship [[a/_aircraft|aircraft]], train, [[b/_bus|bus]] etc.; [[e/_embarkation|embarkation]]**
+- **The [[a/_act|act]] of people getting [[a/_aboard|aboard]] a ship [[a/_aircraft|aircraft]], train, [[b/_bus|bus]] [[e/_etc|etc]].; [[e/_embarkation|embarkation]]**
 - **The [[a/_act|act]] of a sailor or [[b/_boarding|boarding]] party [[a/_attacking|attacking]] an [[e/_enemy|enemy]] ship by [[b/_boarding|boarding]] it**
 - **A structure made of [[b/_boards|boards]]**
 - **Riding a skateboard**

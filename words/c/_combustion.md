@@ -7,5 +7,5 @@
 - **Violent [[a/_agitation|agitation]], tumult.**
 ---
 ### Synonyms
-- [[cremation]], [[incineration]]
+- [[c/_cremation|cremation]], [[i/_incineration|incineration]]
 ---

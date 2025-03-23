@@ -8,5 +8,5 @@
 - **[[c/_causing|Causing]] [[d/_disgust|disgust]]; repulsive; [[d/_distasteful|distasteful]].**
 ---
 ### Synonyms
-- [[distasteful]], [[gro]], [[grody]], [[grotty]], [[repulsive]]
+- [[d/_distasteful|distasteful]], [[g/_gro|gro]], [[g/_grody|grody]], [[g/_grotty|grotty]], [[r/_repulsive|repulsive]]
 ---

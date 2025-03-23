@@ -5,5 +5,5 @@
 - **A kind of [[c/_cyst|cyst]] on the scalp.**
 ---
 ### Synonyms
-- [[atherosis]], [[plaque]]
+- [[a/_atherosis|atherosis]], [[p/_plaque|plaque]]
 ---

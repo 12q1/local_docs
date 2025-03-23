@@ -6,7 +6,7 @@
 - **A stereotype (printing plate).**
 ---
 ### Synonyms
-- [[platitude]], [[stereotype]]
+- [[p/_platitude|platitude]], [[s/_stereotype|stereotype]]
 #verb
 - **To use a [[c/_clich|clich]]é; to make up a word or a name that sounds like a [[c/_clich|clich]]é.**
 ---

@@ -7,5 +7,5 @@
 	- _Example: Company policy forbids displaying cheesecake in the locker rooms._
 ---
 ### Synonyms
-- [[leg art]]
+- 
 ---

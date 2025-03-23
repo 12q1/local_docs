@@ -8,5 +8,5 @@
 - **(of an [[a/_athlete|athlete]]) to reduce one's training, particularly [[d/_during|during]] the offseason, in preparation for a [[c/_cycle|cycle]] of retraining.**
 ---
 ### Antonyms
-- [[entrain]]
+- [[e/_entrain|entrain]]
 ---

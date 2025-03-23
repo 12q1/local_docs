@@ -9,7 +9,7 @@
 - **To turn [[a/_aside|aside]]; to [[d/_digress|digress]].**
 ---
 ### Synonyms
-- [[offlead]]
+- [[o/_offlead|offlead]]
 #adjective
 - **That has [[b/_been|been]] subject to [[d/_diversion|diversion]]**
 ---

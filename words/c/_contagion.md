@@ -8,5 +8,5 @@
 - **A resulting recession or [[c/_crisis|crisis]] [[d/_developed|developed]] in such manner**
 ---
 ### Synonyms
-- [[infection]]
+- [[i/_infection|infection]]
 ---

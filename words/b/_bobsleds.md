@@ -6,7 +6,7 @@
 - **A short sled, mostly used as one of a pair [[c/_connected|connected]] by a reach or [[c/_coupling|coupling]]; the [[c/_compound|compound]] sled so formed.**
 ---
 ### Synonyms
-- [[bobsleigh]], [[bobsledding]], [[bobsleigh]]
+- [[b/_bobsleigh|bobsleigh]], [[b/_bobsledding|bobsledding]], [[b/_bobsleigh|bobsleigh]]
 #verb
 - **To ride a [[b/_bobsled|bobsled]].**
 ---

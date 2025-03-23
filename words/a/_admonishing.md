@@ -6,7 +6,7 @@
 - **To instruct or [[d/_direct|direct]]; to inform; to notify.**
 ---
 ### Synonyms
-- [[chide]], [[reprimand]]
+- [[c/_chide|chide]], [[r/_reprimand|reprimand]]
 #noun
 - **[[a/_admonishment|Admonishment]]**
 ---

@@ -8,5 +8,5 @@
 - **A vehicle [[e/_equipped|equipped]] with tanks for supplying water to remote locations.**
 ---
 ### Synonyms
-- [[bowser]], [[tanker]]
+- [[b/_bowser|bowser]], [[t/_tanker|tanker]]
 ---

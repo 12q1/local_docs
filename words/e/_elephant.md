@@ -8,7 +8,7 @@
 - **Ivory.**
 ---
 ### Synonyms
-- [[Elephas]], [[Loxodonta]], [[africana]], [[maximus]]
+- [[E/_Elephas|Elephas]], [[L/_Loxodonta|Loxodonta]], [[a/_africana|africana]], [[m/_maximus|maximus]]
 #noun
 - **A large size of paper, measuring 23 by 28 inches, or sometimes 22 by 30, or ([[d/_double|double]] [[e/_elephant|elephant]] paper) 26 by 40 inches.**
 ---

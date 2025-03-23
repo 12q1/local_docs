@@ -10,10 +10,10 @@
 	- _Example: He likes to cube now and then._
 ---
 ### Synonyms
-- [[dice]]
+- [[d/_dice|dice]]
 #adjective
 - **Raised to the third power.**
 ---
 ### Synonyms
-- [[³]]
+- [[³/_³|³]]
 ---

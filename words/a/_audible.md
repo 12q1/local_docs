@@ -12,7 +12,7 @@
 - **[[a/_able|Able]] to be heard.**
 ---
 ### Synonyms
-- [[sounded]], [[vocal]]
+- [[s/_sounded|sounded]], [[v/_vocal|vocal]]
 ### Antonyms
-- [[inaudible]], [[quiet]], [[silent]]
+- [[i/_inaudible|inaudible]], [[q/_quiet|quiet]], [[s/_silent|silent]]
 ---

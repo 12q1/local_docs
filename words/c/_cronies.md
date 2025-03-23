@@ -5,7 +5,7 @@
 - **Trusted [[c/_companion|companion]] or partner in a [[c/_criminal|criminal]] organization.**
 ---
 ### Antonyms
-- [[noncrony]]
+- [[n/_noncrony|noncrony]]
 #noun
 - **An old woman; a [[c/_crone|crone]].**
 ---

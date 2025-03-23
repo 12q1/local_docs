@@ -4,5 +4,5 @@
 - **Of or relating to the [[d/_dermis|dermis]] or skin.**
 ---
 ### Synonyms
-- [[dermal]]
+- [[d/_dermal|dermal]]
 ---

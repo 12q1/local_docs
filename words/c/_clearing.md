@@ -9,7 +9,7 @@
 	- _Example: After a heavy rain, the sky cleared nicely for the evening._
 - **To [[e/_eliminate|eliminate]] [[a/_ambiguity|ambiguity]] or [[d/_doubt|doubt]] from (a matter); to [[c/_clarify|clarify]] or resolve; to [[c/_clear|clear]] up.**
 	- _Example: We need to clear this issue once and for all._
-- **To remove from suspicion, especially of having [[c/_committed|committed]] a [[c/_crime|crime]].**
+- **To remove from suspicion, [[e/_especially|especially]] of having [[c/_committed|committed]] a [[c/_crime|crime]].**
 	- _Example: The court cleared the man of murder._
 - **To pass without interference; to miss.**
 	- _Example: The door just barely clears the table as it closes._
@@ -29,23 +29,23 @@
 	- _Example: The steamer cleared for Liverpool today._
 - **To obtain permission to use (a sample of [[c/_copyrighted|copyrighted]] [[a/_audio|audio]]) in [[a/_another|another]] track.**
 - **To [[d/_disengage|disengage]] oneself from incumbrances, [[d/_distress|distress]], or [[e/_entanglements|entanglements]]; to [[b/_become|become]] free.**
-- **To hit, kick, head, punch etc. (a [[b/_ball|ball]], puck) [[a/_away|away]] in order to [[d/_defend|defend]] one's goal.**
+- **To hit, kick, head, punch [[e/_etc|etc]]. (a [[b/_ball|ball]], puck) [[a/_away|away]] in order to [[d/_defend|defend]] one's goal.**
 	- _Example: A low cross came in, and Smith cleared._
 - **To reset or unset; to return to an [[e/_empty|empty]] state or to zero.**
 	- _Example: to clear an array;  to clear a single bit (binary digit) in a value_
 - **To style (an [[e/_element|element]] within a [[d/_document|document]]) so that it is not permitted to float at a given position.**
 ---
 ### Synonyms
-- [[stub]]
+- [[s/_stub|stub]]
 #noun
 - **The [[a/_act|act]] or process of making or [[b/_becoming|becoming]] [[c/_clear|clear]].**
 - **An [[a/_area|area]] of land within a wood or forest [[d/_devoid|devoid]] of trees.**
-- **An open space in the fog etc.**
+- **An open space in the fog [[e/_etc|etc]].**
 - **A process of exchanging transaction information and [[a/_authorisation|authorisation]] through a [[c/_central|central]] institution or system to [[c/_complete|complete]] and settle those transactions.**
 - **A sequence of events used to [[d/_disconnect|disconnect]] a [[c/_call|call]], and return to the ready state.**
 - **The period in which remaining university places are [[a/_allocated|allocated]] to remaining students.**
 - **The [[a/_act|act]] of removing the [[b/_ball|ball]] from one's own goal [[a/_area|area]] by kicking it.**
 ---
 ### Synonyms
-- [[glade]]
+- [[g/_glade|glade]]
 ---

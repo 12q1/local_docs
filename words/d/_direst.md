@@ -10,5 +10,5 @@
 - **[[b/_bad|Bad]] in quality, [[a/_awful|awful]], terrible.**
 ---
 ### Synonyms
-- [[horrible]], [[lamentable]], [[terrible]]
+- [[h/_horrible|horrible]], [[l/_lamentable|lamentable]], [[t/_terrible|terrible]]
 ---

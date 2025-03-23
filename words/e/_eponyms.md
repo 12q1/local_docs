@@ -9,5 +9,5 @@
 	- _Example: “Tangerine” is an eponym of Tangier._
 ---
 ### Synonyms
-- [[namesake]], [[toponym]]
+- [[n/_namesake|namesake]], [[t/_toponym|toponym]]
 ---

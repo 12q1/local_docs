@@ -11,5 +11,5 @@
 - **(of a primary key) Used as the [[c/_clustering|clustering]] key of a [[c/_clustered|clustered]] index.**
 ---
 ### Antonyms
-- [[nonclustered]]
+- [[n/_nonclustered|nonclustered]]
 ---

@@ -7,5 +7,5 @@
 - **The status of a [[c/_cardinal|cardinal]].**
 ---
 ### Synonyms
-- [[power]]
+- [[p/_power|power]]
 ---

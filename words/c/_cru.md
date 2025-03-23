@@ -1,6 +1,6 @@
 # Cru
 ---
 #noun
-- **A vineyard or group of vineyards in France, especially one having a high reputation.**
+- **A vineyard or group of vineyards in France, [[e/_especially|especially]] one having a high reputation.**
 ---
 ---

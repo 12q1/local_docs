@@ -3,7 +3,7 @@
 #noun
 - **A group, [[c/_collection|collection]], [[c/_category|category]] or set sharing [[c/_characteristics|characteristics]] or [[a/_attributes|attributes]].**
 	- _Example: Often used to imply membership of a large class._
-- **A social grouping, [[b/_based|based]] on job, wealth, etc. In [[b/_britain|Britain]], society is [[c/_commonly|commonly]] split into three main [[c/_classes|classes]]; upper [[c/_class|class]], middle [[c/_class|class]] and working [[c/_class|class]].**
+- **A social grouping, [[b/_based|based]] on job, wealth, [[e/_etc|etc]]. In [[b/_britain|Britain]], society is [[c/_commonly|commonly]] split into three main [[c/_classes|classes]]; upper [[c/_class|class]], middle [[c/_class|class]] and working [[c/_class|class]].**
 - **The [[d/_division|division]] of society into [[c/_classes|classes]].**
 	- _Example: Jane Austen's works deal with class in 18th-century England._
 - **[[a/_admirable|Admirable]] [[b/_behavior|behavior]]; [[e/_elegance|elegance]].**

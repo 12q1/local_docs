@@ -15,5 +15,5 @@
 - **Officious; meddling.**
 ---
 ### Synonyms
-- [[swamped]]
+- [[s/_swamped|swamped]]
 ---

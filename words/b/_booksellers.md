@@ -5,5 +5,5 @@
 - **A [[b/_business|business]] that sells [[b/_books|books]].**
 ---
 ### Synonyms
-- [[bookman]]
+- [[b/_bookman|bookman]]
 ---

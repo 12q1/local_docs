@@ -18,5 +18,5 @@
 - **To [[c/_curse|curse]]; to utter [[c/_curses|curses]] or maledictions.**
 ---
 ### Synonyms
-- [[disallow]], [[forbid]], [[prohibit]]
+- [[d/_disallow|disallow]], [[f/_forbid|forbid]], [[p/_prohibit|prohibit]]
 ---

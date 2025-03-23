@@ -10,5 +10,5 @@
 - **[[d/_derived|Derived]] from [[b/_benzene|benzene]].**
 ---
 ### Antonyms
-- [[aliphatic]]
+- [[a/_aliphatic|aliphatic]]
 ---

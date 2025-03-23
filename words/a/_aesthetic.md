@@ -3,7 +3,7 @@
 #noun
 - **The study of [[a/_art|art]] or [[b/_beauty|beauty]].**
 - **That which [[a/_appeals|appeals]] to the senses.**
-- **The [[a/_artistic|artistic]] motifs [[d/_defining|defining]] a [[c/_collection|collection]] of things, especially works of [[a/_art|art]]; more [[b/_broadly|broadly]], their vibe.**
+- **The [[a/_artistic|artistic]] motifs [[d/_defining|defining]] a [[c/_collection|collection]] of things, [[e/_especially|especially]] works of [[a/_art|art]]; more [[b/_broadly|broadly]], their vibe.**
 	- _Example: Her most recent works have this quirky, half-serious 90's teen culture-inspired aesthetic._
 ---
 #adjective
@@ -12,7 +12,7 @@
 	- _Example: It works well enough, but the shabby exterior offends his aesthetic sensibilities._
 ---
 ### Synonyms
-- [[aesthetical]], [[esthetic]], [[tasteful]]
+- [[a/_aesthetical|aesthetical]], [[e/_esthetic|esthetic]], [[t/_tasteful|tasteful]]
 ### Antonyms
-- [[inaesthetic]], [[unaesthetic]]
+- [[i/_inaesthetic|inaesthetic]], [[u/_unaesthetic|unaesthetic]]
 ---

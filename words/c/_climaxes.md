@@ -7,9 +7,9 @@
 - **(now [[c/_commonly|commonly]]) A [[c/_culmination|culmination]] or [[a/_acme|acme]]: the last term in an [[a/_ascending|ascending]] series, particularly:**
 ---
 ### Synonyms
-- [[auxesis]], [[catacosmesis]], [[incrementum]]
+- [[a/_auxesis|auxesis]], [[c/_catacosmesis|catacosmesis]], [[i/_incrementum|incrementum]]
 ### Antonyms
-- [[catacosmesis]]
+- [[c/_catacosmesis|catacosmesis]]
 #verb
 - **To reach or [[b/_bring|bring]] to a [[c/_climax|climax]].**
 - **To orgasm; to reach orgasm.**

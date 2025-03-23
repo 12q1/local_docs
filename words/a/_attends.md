@@ -7,9 +7,9 @@
 #verb
 - **To listen to (something or someone); to pay [[a/_attention|attention]] to; regard; heed.**
 - **To listen (to, unto).**
-- **To turn one's [[c/_consideration|consideration]] (to); to [[d/_deal|deal]] with (a task, problem, [[c/_concern|concern]] etc.), to look [[a/_after|after]].**
+- **To turn one's [[c/_consideration|consideration]] (to); to [[d/_deal|deal]] with (a task, problem, [[c/_concern|concern]] [[e/_etc|etc]].), to look [[a/_after|after]].**
 	- _Example: Secretaries attend to correspondence._
-- **To wait upon as a servant etc.; to [[a/_accompany|accompany]] to [[a/_assist|assist]] (someone).**
+- **To wait upon as a servant [[e/_etc|etc]].; to [[a/_accompany|accompany]] to [[a/_assist|assist]] (someone).**
 	- _Example: Servants attend the king day and night._
 - **To be present at (an event or place) in order to take part in some [[a/_action|action]] or proceedings; to regularly go to (an event or place).**
 	- _Example: Children must attend primary school._
@@ -19,5 +19,5 @@
 - **To wait for; to [[a/_await|await]]; to remain, [[a/_abide|abide]], or be in store for.**
 ---
 ### Synonyms
-- [[notice]], [[pay attention]], [[take heed]], [[behear]], [[heed]], [[mark]], [[notice]], [[bestand]], [[serve]]
+- [[n/_notice|notice]], [[b/_behear|behear]], [[h/_heed|heed]], [[m/_mark|mark]], [[n/_notice|notice]], [[b/_bestand|bestand]], [[s/_serve|serve]]
 ---

@@ -7,5 +7,5 @@
 - **A [[d/_dialog|dialog]] [[b/_box|box]].**
 ---
 ### Antonyms
-- [[introspection]], [[monolog]], [[multilog]]
+- [[i/_introspection|introspection]], [[m/_monolog|monolog]], [[m/_multilog|multilog]]
 ---

@@ -9,7 +9,7 @@
 - **To be [[c/_confused|confused]].**
 ---
 ### Synonyms
-- [[flummox]], [[mistake]]
+- [[f/_flummox|flummox]], [[m/_mistake|mistake]]
 #adjective
 - **(of a person) unable to think [[c/_clearly|clearly]] or understand**
 - **(of a person or [[a/_animal|animal]]) [[d/_disoriented|disoriented]]**
@@ -18,5 +18,5 @@
 - **[[e/_embarrassed|Embarrassed]]**
 ---
 ### Synonyms
-- [[dazed]], [[perplexed]], [[puzzled]]
+- [[d/_dazed|dazed]], [[p/_perplexed|perplexed]], [[p/_puzzled|puzzled]]
 ---

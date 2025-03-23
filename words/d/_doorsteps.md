@@ -5,6 +5,6 @@
 	- _Example: On one's doorstep._
 - **One's immediate neighbourhood or locality.**
 	- _Example: They want to build the prison right on our doorstep; it will only be half a mile away and being that close scares me._
-- **A [[b/_big|big]] slice, especially of [[b/_bread|bread]].**
+- **A [[b/_big|big]] slice, [[e/_especially|especially]] of [[b/_bread|bread]].**
 ---
 ---

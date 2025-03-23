@@ -6,7 +6,7 @@
 - **A political interest group by members of a legislative [[b/_body|body]].**
 ---
 ### Synonyms
-- [[parliamentary group]]
+- 
 #verb
 - **To meet and participate in [[c/_caucus|caucus]].**
 - **To [[b/_bring|bring]] into or treat in [[c/_caucus|caucus]].**

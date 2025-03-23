@@ -4,7 +4,7 @@
 - **To take by the [[a/_arm|arm]]; to take up in one's [[a/_arms|arms]].**
 ---
 #verb
-- **To supply with [[a/_armour|armour]] or (later especially) weapons.**
+- **To supply with [[a/_armour|armour]] or (later [[e/_especially|especially]]) weapons.**
 	- _Example: The king armed his knights with swords and shields._
 - **To prepare a tool or a weapon for [[a/_action|action]]; to [[a/_activate|activate]].**
 	- _Example: Remember to arm the alarm system before leaving for work._
@@ -15,7 +15,7 @@
 - **To fit (a magnet) with an [[a/_armature|armature]].**
 ---
 ### Synonyms
-- [[beweapon]]
+- [[b/_beweapon|beweapon]]
 #noun
 - **A piece of tallow or soap put in the [[c/_cavity|cavity]] and over the [[b/_bottom|bottom]] of a sounding lead to pick up samples of the [[b/_bottom|bottom]] of the sea.**
 - **The [[a/_act|act]] of supplying with [[a/_arms|arms]] and [[a/_ammunition|ammunition]] in preparation of a [[c/_conflict|conflict]]**

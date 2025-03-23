@@ -19,5 +19,5 @@
 - **Hollow; [[e/_empty|empty]]**
 ---
 ### Antonyms
-- [[convex]]
+- [[c/_convex|convex]]
 ---

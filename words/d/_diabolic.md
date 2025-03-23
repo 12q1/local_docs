@@ -7,5 +7,5 @@
 	- _Example: fires lit up a diabolic scene_
 ---
 ### Synonyms
-- [[demonic]], [[fiendish]], [[hellish]], [[infernal]], [[satanic]], [[unholy]], [[devilish]], [[mephistophelean]], [[mephistophelian]]
+- [[d/_demonic|demonic]], [[f/_fiendish|fiendish]], [[h/_hellish|hellish]], [[i/_infernal|infernal]], [[s/_satanic|satanic]], [[u/_unholy|unholy]], [[d/_devilish|devilish]], [[m/_mephistophelean|mephistophelean]], [[m/_mephistophelian|mephistophelian]]
 ---

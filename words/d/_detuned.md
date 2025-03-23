@@ -6,7 +6,7 @@
 - **To [[a/_alter|alter]] the [[c/_capacitance|capacitance]] of a [[c/_circuit|circuit]] such that its resonant frequency [[d/_differs|differs]] from the incoming frequency.**
 ---
 ### Synonyms
-- [[untune]]
+- [[u/_untune|untune]]
 #adjective
 - **Having undergone [[d/_detuning|detuning]].**
 	- _Example: a detuned instrument or device_

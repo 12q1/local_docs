@@ -5,5 +5,5 @@
 	- _Example: a costly activity_
 ---
 ### Antonyms
-- [[costlessly]]
+- [[c/_costlessly|costlessly]]
 ---

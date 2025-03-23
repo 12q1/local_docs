@@ -7,5 +7,5 @@
 - **[[c/_causing|Causing]] or tending to [[c/_cause|cause]] [[c/_cancer|cancer]].**
 ---
 ### Synonyms
-- [[cancerogenic]]
+- [[c/_cancerogenic|cancerogenic]]
 ---

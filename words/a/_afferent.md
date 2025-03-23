@@ -8,5 +8,5 @@
 	- _Example: An afferent nerve carries impulses from the body to the brain._
 ---
 ### Antonyms
-- [[efferent]]
+- [[e/_efferent|efferent]]
 ---

@@ -5,5 +5,5 @@
 	- _Example: a library borrower's card_
 ---
 ### Antonyms
-- [[lender]]
+- [[l/_lender|lender]]
 ---

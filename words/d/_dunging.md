@@ -6,7 +6,7 @@
 - **To release [[d/_dung|dung]]: to [[d/_defecate|defecate]].**
 ---
 #verb
-- **To [[d/_discard|discard]] (especially rubbish); to [[c/_chuck|chuck]] out.**
+- **To [[d/_discard|discard]] ([[e/_especially|especially]] rubbish); to [[c/_chuck|chuck]] out.**
 ---
 #noun
 - **An [[a/_application|application]] of manure, to fertilize land.**

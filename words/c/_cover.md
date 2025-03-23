@@ -4,9 +4,9 @@
 - **A lid.**
 - **[[a/_area|Area]] or situation which screens a person or thing from view.**
 	- _Example: The soldiers took cover behind a ruined building._
-- **The front and [[b/_back|back]] of a [[b/_book|book]], magazine, [[c/_cd|CD]] package, etc.**
+- **The front and [[b/_back|back]] of a [[b/_book|book]], magazine, [[c/_cd|CD]] package, [[e/_etc|etc]].**
 - **The top sheet of a [[b/_bed|bed]].**
-- **A [[c/_cloth|cloth]], usually fitted, placed over an item such as a [[c/_car|car]] or sofa to protect it from [[d/_dust|dust]], rain, etc. when not in use.**
+- **A [[c/_cloth|cloth]], usually fitted, placed over an item such as a [[c/_car|car]] or sofa to protect it from [[d/_dust|dust]], rain, [[e/_etc|etc]]. when not in use.**
 - **A [[c/_cover|cover]] [[c/_charge|charge]].**
 	- _Example: There's a $15 cover tonight._
 - **A setting at a restaurant table or formal [[d/_dinner|dinner]].**
@@ -15,7 +15,7 @@
 - **A fielding position on the off side, [[b/_between|between]] point and mid off, [[a/_about|about]] 30° forward of square; a fielder in this position.**
 - **A set (more often known as a family) of sets, whose union [[c/_contains|contains]] the given set.**
 	- _Example: The open intervals are a cover for the real numbers._
-- **An [[e/_envelope|envelope]] [[c/_complete|complete]] with stamps and postmarks etc.**
+- **An [[e/_envelope|envelope]] [[c/_complete|complete]] with stamps and postmarks [[e/_etc|etc]].**
 - **A solid object, including terrain, that provides protection from [[e/_enemy|enemy]] fire.**
 - **In [[c/_commercial|commercial]] law, a [[b/_buyer|buyer]]’s purchase on the open market of goods similar or identical to the goods [[c/_contracted|contracted]] for [[a/_after|after]] a seller has [[b/_breached|breached]] a [[c/_contract|contract]] of sale by failure to [[d/_deliver|deliver]] the goods [[c/_contracted|contracted]] for.**
 - **An insurance [[c/_contract|contract]]; [[c/_coverage|coverage]] by an insurance [[c/_contract|contract]].**
@@ -58,7 +58,7 @@
 - **To [[d/_defend|defend]] a particular player or [[a/_area|area]].**
 ---
 ### Synonyms
-- [[impregnate]]
+- [[i/_impregnate|impregnate]]
 #adjective
 - **Of or pertaining to the front [[c/_cover|cover]] of a [[b/_book|book]] or magazine.**
 - **Of, pertaining to, or [[c/_consisting|consisting]] of [[c/_cover|cover]] versions.**

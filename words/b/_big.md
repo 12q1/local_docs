@@ -7,9 +7,9 @@
 - **(BDSM) The participant in ageplay who [[a/_acts|acts]] out the older role.**
 ---
 ### Synonyms
-- [[major leagues]]
+- 
 ### Antonyms
-- [[little]]
+- [[l/_little|little]]
 #verb
 - **To praise, recommend, or promote.**
 ---
@@ -34,15 +34,15 @@
 	- _Example: Whoa, Nadia has gotten pretty big since she hit puberty._
 - **(sometimes figurative) Large with young; pregnant; swelling; ready to give [[b/_birth|birth]] or produce.**
 	- _Example: She was big with child._
-- **Used as an intensifier, especially of negative-valence nouns**
+- **Used as an intensifier, [[e/_especially|especially]] of negative-valence nouns**
 	- _Example: You are a big liar.  Why are you in such a big hurry?_
 - **(of a [[c/_city|city]]) populous**
 - **(of somebody's [[a/_age|age]]) old, mature. Used to imply that somebody is too old for something, or [[a/_acting|acting]] immaturely.**
 ---
 ### Synonyms
-- [[adult]], [[fully grown]], [[grown up]], [[all the rage]], [[in demand]], [[well liked]], [[ample]], [[huge]], [[jumbo]], [[large]], [[massive]], [[sizeable]], [[stoor]], [[busty]], [[macromastic]], [[stacked]], [[chubby]], [[plus-size]], [[rotund]], [[essential]], [[paramount]], [[weighty]], [[fanatical]], [[mad]], [[worked up]], [[full]], [[great]], [[heavy]]
+- [[a/_adult|adult]], [[a/_ample|ample]], [[h/_huge|huge]], [[j/_jumbo|jumbo]], [[l/_large|large]], [[m/_massive|massive]], [[s/_sizeable|sizeable]], [[s/_stoor|stoor]], [[b/_busty|busty]], [[m/_macromastic|macromastic]], [[s/_stacked|stacked]], [[c/_chubby|chubby]], [[p/_plus-size|plus-size]], [[r/_rotund|rotund]], [[e/_essential|essential]], [[p/_paramount|paramount]], [[w/_weighty|weighty]], [[f/_fanatical|fanatical]], [[m/_mad|mad]], [[f/_full|full]], [[g/_great|great]], [[h/_heavy|heavy]]
 ### Antonyms
-- [[little]], [[miniature]], [[minuscule]], [[minute]], [[small]], [[tiny]], [[little]], [[young]]
+- [[l/_little|little]], [[m/_miniature|miniature]], [[m/_minuscule|minuscule]], [[m/_minute|minute]], [[s/_small|small]], [[t/_tiny|tiny]], [[l/_little|little]], [[y/_young|young]]
 #adverb
 - **In a loud manner.**
 - **In a [[b/_boasting|boasting]] manner.**

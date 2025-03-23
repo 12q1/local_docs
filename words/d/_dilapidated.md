@@ -6,6 +6,6 @@
 - **To squander or waste.**
 ---
 #adjective
-- **Having fallen into a state of [[d/_disrepair|disrepair]] or [[d/_deterioration|deterioration]], especially through neglect.**
+- **Having fallen into a state of [[d/_disrepair|disrepair]] or [[d/_deterioration|deterioration]], [[e/_especially|especially]] through neglect.**
 ---
 ---

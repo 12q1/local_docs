@@ -4,5 +4,5 @@
 - **A German.**
 ---
 ### Synonyms
-- [[Fritz]], [[Hun]], [[Jerry]], [[Kraut]]
+- [[F/_Fritz|Fritz]], [[H/_Hun|Hun]], [[J/_Jerry|Jerry]], [[K/_Kraut|Kraut]]
 ---

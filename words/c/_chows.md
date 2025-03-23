@@ -1,7 +1,7 @@
 # Chows
 ---
 #noun
-- **Food, especially snacks.**
+- **Food, [[e/_especially|especially]] snacks.**
 	- _Example: I'm going to pick up some chow for dinner._
 - **A [[c/_chow|Chow]] [[c/_chow|Chow]].**
 - **A [[c/_chinese|Chinese]] person.**

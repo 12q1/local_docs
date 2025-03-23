@@ -10,7 +10,7 @@
 - **To find [[e/_earlier|earlier]] [[c/_citational|citational]] evidence for a term.**
 ---
 ### Synonyms
-- [[backdate]], [[foredate]], [[predate]]
+- [[b/_backdate|backdate]], [[f/_foredate|foredate]], [[p/_predate|predate]]
 ### Antonyms
-- [[overdate]], [[postdate]], [[postdate]]
+- [[o/_overdate|overdate]], [[p/_postdate|postdate]], [[p/_postdate|postdate]]
 ---

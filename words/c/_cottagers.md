@@ -5,5 +5,5 @@
 - **One who [[e/_engages|engages]] in sex in public lavatories; a practitioner of cottaging.**
 ---
 ### Synonyms
-- [[coscet]], [[cotter]]
+- [[c/_coscet|coscet]], [[c/_cotter|cotter]]
 ---

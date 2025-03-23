@@ -7,13 +7,13 @@
 - **To [[b/_become|become]] soiled.**
 ---
 ### Synonyms
-- [[soil]], [[taint]], [[sully]]
+- [[s/_soil|soil]], [[t/_taint|taint]], [[s/_sully|sully]]
 #adjective
 - **Unclean; [[c/_covered|covered]] with or [[c/_containing|containing]] unpleasant substances such as [[d/_dirt|dirt]] or grime.**
 	- _Example: Despite a walk in the rain, my shoes weren't too dirty._
 - **That makes one unclean; [[c/_corrupting|corrupting]], infecting.**
 	- _Example: Don't put that in your mouth, dear. It's dirty._
-- **Morally unclean; obscene or indecent, especially sexually.**
+- **Morally unclean; obscene or indecent, [[e/_especially|especially]] sexually.**
 	- _Example: At the reception, Uncle Nick got drunk and told dirty jokes to the bridesmaids._
 - **[[d/_dishonourable|Dishonourable]]; violating [[a/_accepted|accepted]] standards or rules.**
 	- _Example: He might have scored, but it was a dirty trick that won him the penalty._
@@ -27,17 +27,17 @@
 	- _Example: Occasionally it reads the sector into a dirty buffer, which means it needs to sync the dirty buffer first._
 - **[[c/_carrying|Carrying]] illegal [[d/_drugs|drugs]] [[a/_among|among]] one's possessions or inside of one's [[b/_bloodstream|bloodstream]].**
 	- _Example: None of y'all get into my car if you're dirty._
-- **Used as an intensifier, especially in [[c/_conjunction|conjunction]] with "great".**
+- **Used as an intensifier, [[e/_especially|especially]] in [[c/_conjunction|conjunction]] with "great".**
 	- _Example: He lives in a dirty great mansion._
 - **Sleety; gusty; stormy.**
 	- _Example: dirty weather_
-- **Of an [[a/_alcoholic|alcoholic]] [[b/_beverage|beverage]], especially a [[c/_cocktail|cocktail]] or mixed [[d/_drink|drink]]: served with the juice of olives.**
+- **Of an [[a/_alcoholic|alcoholic]] [[b/_beverage|beverage]], [[e/_especially|especially]] a [[c/_cocktail|cocktail]] or mixed [[d/_drink|drink]]: served with the juice of olives.**
 	- _Example: dirty martini_
 - **Of food, indulgent in an unhealthy way.**
 	- _Example: The waiter served dirty burgers to the customers._
 ---
 ### Synonyms
-- [[base]], [[despicable]], [[dishonest]], [[dishonorable]], [[filthy]], [[lousy]], [[mean]], [[sordid]], [[unethical]], [[vile]], [[indecent]], [[lewd]], [[obscene]], [[raunchy]], [[salacious]], [[filthy]], [[soiled]], [[sordid]], [[unclean]], [[unwashed]], [[ill-gotten]], [[dingy]], [[dullish]], [[muddied]], [[muddy]], [[cheating]], [[foul]], [[unsporting]], [[unsportsmanlike]]
+- [[b/_base|base]], [[d/_despicable|despicable]], [[d/_dishonest|dishonest]], [[d/_dishonorable|dishonorable]], [[f/_filthy|filthy]], [[l/_lousy|lousy]], [[m/_mean|mean]], [[s/_sordid|sordid]], [[u/_unethical|unethical]], [[v/_vile|vile]], [[i/_indecent|indecent]], [[l/_lewd|lewd]], [[o/_obscene|obscene]], [[r/_raunchy|raunchy]], [[s/_salacious|salacious]], [[f/_filthy|filthy]], [[s/_soiled|soiled]], [[s/_sordid|sordid]], [[u/_unclean|unclean]], [[u/_unwashed|unwashed]], [[i/_ill-gotten|ill-gotten]], [[d/_dingy|dingy]], [[d/_dullish|dullish]], [[m/_muddied|muddied]], [[m/_muddy|muddy]], [[c/_cheating|cheating]], [[f/_foul|foul]], [[u/_unsporting|unsporting]], [[u/_unsportsmanlike|unsportsmanlike]]
 ### Antonyms
-- [[clean]], [[bright]], [[pure]], [[sportsmanlike]], [[neat]]
+- [[c/_clean|clean]], [[b/_bright|bright]], [[p/_pure|pure]], [[s/_sportsmanlike|sportsmanlike]], [[n/_neat|neat]]
 ---

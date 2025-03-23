@@ -7,5 +7,5 @@
 - **Provocation, irritation, [[a/_annoyance|annoyance]].**
 ---
 ### Synonyms
-- [[exacerbation]]
+- [[e/_exacerbation|exacerbation]]
 ---

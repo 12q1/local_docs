@@ -7,5 +7,5 @@
 - **To summon judicially to meet or [[a/_appear|appear]].**
 ---
 ### Synonyms
-- [[assemble]], [[collect]], [[congregate]], [[convoke]], [[meet]], [[summon]], [[unite]]
+- [[a/_assemble|assemble]], [[c/_collect|collect]], [[c/_congregate|congregate]], [[c/_convoke|convoke]], [[m/_meet|meet]], [[s/_summon|summon]], [[u/_unite|unite]]
 ---

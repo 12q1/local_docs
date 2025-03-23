@@ -6,7 +6,7 @@
 - **A [[b/_bodybuilder|bodybuilder]].**
 ---
 ### Synonyms
-- [[constructor]]
+- [[c/_constructor|constructor]]
 ### Antonyms
-- [[destroyer]], [[wrecker]]
+- [[d/_destroyer|destroyer]], [[w/_wrecker|wrecker]]
 ---

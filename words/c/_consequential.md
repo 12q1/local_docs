@@ -7,7 +7,7 @@
 - **(of a person) Self-important.**
 ---
 ### Synonyms
-- [[considerable]], [[important]]
+- [[c/_considerable|considerable]], [[i/_important|important]]
 ### Antonyms
-- [[inconsequential]]
+- [[i/_inconsequential|inconsequential]]
 ---

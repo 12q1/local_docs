@@ -5,5 +5,5 @@
 - **Exhibiting [[d/_dimorphism|dimorphism]]**
 ---
 ### Synonyms
-- [[bimorphic]], [[bimorphous]], [[dimorphous]]
+- [[b/_bimorphic|bimorphic]], [[b/_bimorphous|bimorphous]], [[d/_dimorphous|dimorphous]]
 ---

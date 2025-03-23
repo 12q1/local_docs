@@ -7,5 +7,5 @@
 - **To set in order, as a jury, for the trial of a [[c/_cause|cause]]; that is, to [[c/_call|call]] them one at a time.**
 ---
 ### Synonyms
-- [[don]], [[dress]], [[put on]]
+- [[d/_don|don]], [[d/_dress|dress]]
 ---

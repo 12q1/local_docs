@@ -11,7 +11,7 @@
 - **To provide; to make [[a/_available|available]].**
 ---
 ### Antonyms
-- [[disavail]]
+- [[d/_disavail|disavail]]
 #noun
 - **[[e/_effect|Effect]] in [[a/_achieving|achieving]] a goal or [[a/_aim|aim]]; purpose, use**
 	- _Example: Any use would probably be an availing of the protection afforded by the passport._

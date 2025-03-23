@@ -12,7 +12,7 @@
 - **One of a pair of morphisms which relate to [[e/_each|each]] other through a pair of [[a/_adjoint|adjoint]] functors.**
 ---
 ### Synonyms
-- [[addition]], [[supplement]]
+- [[a/_addition|addition]], [[s/_supplement|supplement]]
 #adjective
 - **[[c/_connected|Connected]] in a subordinate function.**
 - **[[a/_added|Added]] to a faculty or staff in a secondary position.**

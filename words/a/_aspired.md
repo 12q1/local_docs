@@ -7,5 +7,5 @@
 - **To move upward; to be very tall.**
 ---
 ### Synonyms
-- [[ascend]], [[mount]], [[ascend]], [[rise]], [[soar]], [[tower]]
+- [[a/_ascend|ascend]], [[m/_mount|mount]], [[a/_ascend|ascend]], [[r/_rise|rise]], [[s/_soar|soar]], [[t/_tower|tower]]
 ---

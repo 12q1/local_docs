@@ -5,5 +5,5 @@
 - **A person of Italian [[d/_descent|descent]].**
 ---
 ### Synonyms
-- [[Eyetie]], [[goombah]], [[greaseball]], [[guido]], [[guinea]], [[wog]], [[wop]]
+- [[E/_Eyetie|Eyetie]], [[g/_goombah|goombah]], [[g/_greaseball|greaseball]], [[g/_guido|guido]], [[g/_guinea|guinea]], [[w/_wog|wog]], [[w/_wop|wop]]
 ---

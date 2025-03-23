@@ -5,5 +5,5 @@
 - **One who gives a name to something.**
 ---
 ### Antonyms
-- [[numerator]]
+- [[n/_numerator|numerator]]
 ---

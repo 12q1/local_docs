@@ -8,5 +8,5 @@
 - **Used to express [[d/_disbelief|disbelief]]: nonsense!; rubbish!**
 ---
 ### Synonyms
-- [[hogswallop]]
+- [[h/_hogswallop|hogswallop]]
 ---

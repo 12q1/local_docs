@@ -7,5 +7,5 @@
 - **Having [[c/_comparable|comparable]] measurements in [[a/_all|all]] [[d/_directions|directions]]; [[e/_equidimensional|equidimensional]].**
 ---
 ### Synonyms
-- [[equidimensional]]
+- [[e/_equidimensional|equidimensional]]
 ---

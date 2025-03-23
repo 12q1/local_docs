@@ -7,5 +7,5 @@
 - **A pair of two mutually exclusive [[c/_choices|choices]] in a [[d/_dichotomous|dichotomous]] key.**
 ---
 ### Synonyms
-- [[one-way pair]]
+- 
 ---

@@ -8,7 +8,7 @@
 	- _Example: A nylon collar kept the bolt from damaging the surface underneath._
 - **(in [[c/_compounds|compounds]]) Of or pertaining to a [[c/_certain|certain]] [[c/_category|category]] of professions as symbolized by typical [[c/_clothing|clothing]].**
 - **The neck or line of junction [[b/_between|between]] the root of a plant and its stem.**
-- **A ringlike part of a mollusk in [[c/_connection|connection]] with the esophagus.**
+- **A ringlike part of a mollusk in [[c/_connection|connection]] with the [[e/_esophagus|esophagus]].**
 - **An [[e/_eye|eye]] formed in the [[b/_bight|bight]] or [[b/_bend|bend]] of a shroud or stay to go over the masthead; [[a/_also|also]], a rope to which [[c/_certain|certain]] parts of rigging, as [[d/_dead|dead]]-[[e/_eyes|eyes]], are secured.**
 - **An [[a/_arrest|arrest]].**
 - **A trading strategy using options such that there is [[b/_both|both]] an upper limit on profit and a lower limit on loss, [[c/_constructed|constructed]] through taking [[e/_equal|equal]] but opposite positions in a put and a [[c/_call|call]] with [[d/_different|different]] strike prices.**

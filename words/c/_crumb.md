@@ -12,7 +12,7 @@
 - **A [[b/_body|body]] louse (Pediculus humanus).**
 ---
 ### Synonyms
-- [[crumbling]]
+- [[c/_crumbling|crumbling]]
 #verb
 - **To [[c/_cover|cover]] with [[c/_crumbs|crumbs]].**
 - **To [[b/_break|break]] into [[c/_crumbs|crumbs]] or small pieces with the fingers; to [[c/_crumble|crumble]].**

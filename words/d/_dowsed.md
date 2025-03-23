@@ -11,6 +11,6 @@
 	- _Example: Douse the topsail!_
 ---
 #verb
-- **To use the [[d/_dipping|dipping]] or [[d/_divining|divining]] rod, as in search of water, ore, etc.**
+- **To use the [[d/_dipping|dipping]] or [[d/_divining|divining]] rod, as in search of water, ore, [[e/_etc|etc]].**
 ---
 ---

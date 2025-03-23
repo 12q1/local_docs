@@ -12,6 +12,6 @@
 - **A [[c/_crossover|crossover]] [[d/_dribble|dribble]].**
 ---
 #adjective
-- **(of an Ethernet [[c/_cable|cable]]) [[c/_configured|Configured]] so that the transmit signals at one [[e/_end|end]] are [[c/_connected|connected]] to the receive signals at the other.**
+- **(of an [[e/_ethernet|Ethernet]] [[c/_cable|cable]]) [[c/_configured|Configured]] so that the transmit signals at one [[e/_end|end]] are [[c/_connected|connected]] to the receive signals at the other.**
 ---
 ---

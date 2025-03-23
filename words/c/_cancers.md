@@ -5,5 +5,5 @@
 - **Something [[d/_damaging|damaging]] that spreads throughout something [[e/_else|else]].**
 ---
 ### Synonyms
-- [[growth]], [[malignancy]], [[neoplasia]], [[lichen]]
+- [[g/_growth|growth]], [[m/_malignancy|malignancy]], [[n/_neoplasia|neoplasia]], [[l/_lichen|lichen]]
 ---

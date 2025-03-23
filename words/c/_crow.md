@@ -11,5 +11,5 @@
 - **The [[e/_emblem|emblem]] of an [[e/_eagle|eagle]], a sign of military rank.**
 ---
 ### Synonyms
-- [[cock-a-doodle-doo]], [[crowbar]]
+- [[c/_cock-a-doodle-doo|cock-a-doodle-doo]], [[c/_crowbar|crowbar]]
 ---

@@ -18,7 +18,7 @@
 - **A pair of fluted rolls for grinding [[c/_caoutchouc|caoutchouc]].**
 ---
 ### Synonyms
-- [[biscuit]], [[black hat]], [[black-hat hacker]], [[hacker]], [[corn-cracker]], [[honky]], [[peckerwood]], [[redneck]], [[trailer nigger]], [[trailer trash]], [[white trash]], [[whitey]], [[wonderbread]], [[popper]], [[snapper]]
+- [[b/_biscuit|biscuit]], [[h/_hacker|hacker]], [[c/_corn-cracker|corn-cracker]], [[h/_honky|honky]], [[p/_peckerwood|peckerwood]], [[r/_redneck|redneck]], [[w/_whitey|whitey]], [[w/_wonderbread|wonderbread]], [[p/_popper|popper]], [[s/_snapper|snapper]]
 #adjective
 - **[[c/_crazy|Crazy]], insane.**
 ---

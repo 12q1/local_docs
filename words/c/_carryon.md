@@ -6,7 +6,7 @@
 - **An [[a/_activity|activity]] that is [[d/_done|done]] in an excessively excitable or [[a/_anxious|anxious]] manner.**
 ---
 ### Synonyms
-- [[hand luggage]]
+- 
 #adjective
 - **Taken onto an [[a/_airplane|airplane]] with a passenger, rather than [[c/_checked|checked]].**
 	- _Example: It's a compact suitcase, but it makes a good carry-on bag._

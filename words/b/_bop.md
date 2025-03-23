@@ -7,5 +7,5 @@
 - **To strike gently or playfully.**
 ---
 ### Synonyms
-- [[bip]], [[boop]]
+- [[b/_bip|bip]], [[b/_boop|boop]]
 ---

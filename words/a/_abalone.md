@@ -5,5 +5,5 @@
 - **The meat of the [[a/_aforementioned|aforementioned]] mollusc.**
 ---
 ### Synonyms
-- [[ear-shell]], [[ormer]], [[paua]], [[pawa]], [[perlemoen]]
+- [[e/_ear-shell|ear-shell]], [[o/_ormer|ormer]], [[p/_paua|paua]], [[p/_pawa|pawa]], [[p/_perlemoen|perlemoen]]
 ---

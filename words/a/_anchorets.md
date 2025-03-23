@@ -1,8 +1,8 @@
 # Anchorets
 ---
 #noun
-- **One who lives in isolation or seclusion, especially for religious reasons.**
+- **One who lives in isolation or seclusion, [[e/_especially|especially]] for religious reasons.**
 ---
 ### Synonyms
-- [[eremite]], [[hermit]], [[recluse]]
+- [[e/_eremite|eremite]], [[h/_hermit|hermit]], [[r/_recluse|recluse]]
 ---

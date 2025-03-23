@@ -5,5 +5,5 @@
 - **Peculiar to a (nonstandard) variety or lect.**
 ---
 ### Synonyms
-- [[nonstandard]], [[dialectical]]
+- [[n/_nonstandard|nonstandard]], [[d/_dialectical|dialectical]]
 ---

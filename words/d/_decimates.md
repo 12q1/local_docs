@@ -11,10 +11,10 @@
 - **To [[d/_devastate|devastate]]: to reduce or [[d/_destroy|destroy]] significantly but not [[c/_completely|completely]].**
 - **To exact a tithe or other 10% tax**
 - **To tithe: to pay a 10% tax.**
-- **To [[d/_decimalize|decimalize]]: to [[d/_divide|divide]] into tenths, hundredths etc.**
+- **To [[d/_decimalize|decimalize]]: to [[d/_divide|divide]] into tenths, hundredths [[e/_etc|etc]].**
 - **To reduce to one-tenth: to [[d/_destroy|destroy]] or remove nine-tenths of [[a/_anything|anything]].**
 - **To replace a high-resolution model with [[a/_another|another]] of lower but [[a/_acceptable|acceptable]] quality.**
 ---
 ### Synonyms
-- [[decimalize]], [[tithe]], [[tithe]], [[devastate]], [[tithe]]
+- [[d/_decimalize|decimalize]], [[t/_tithe|tithe]], [[t/_tithe|tithe]], [[d/_devastate|devastate]], [[t/_tithe|tithe]]
 ---

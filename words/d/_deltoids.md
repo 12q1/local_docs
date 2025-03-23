@@ -5,5 +5,5 @@
 - **The [[d/_deltoid|deltoid]] ligament, a triangular ligament on the human [[a/_ankle|ankle]].**
 ---
 ### Synonyms
-- [[delt]]
+- [[d/_delt|delt]]
 ---

@@ -2,8 +2,8 @@
 ---
 #adjective
 - **Produced by living organisms, or by a [[b/_biological|biological]] process**
-- **Essential for the maintenance of life**
+- **[[e/_essential|Essential]] for the maintenance of life**
 ---
 ### Antonyms
-- [[abiogenic]]
+- [[a/_abiogenic|abiogenic]]
 ---

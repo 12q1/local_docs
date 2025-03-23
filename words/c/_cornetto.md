@@ -4,5 +4,5 @@
 - **A trumpet-like wind instrument used in European music of the medieval, Renaissance, and [[b/_baroque|Baroque]] periods.**
 ---
 ### Synonyms
-- [[cornett]]
+- [[c/_cornett|cornett]]
 ---

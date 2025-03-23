@@ -5,5 +5,5 @@
 - **(post-structuralism) An insoluble [[c/_contradiction|contradiction]] in a text's meaning; a logical impasse suggested by a text or speaker.**
 ---
 ### Synonyms
-- [[contradiction]], [[impasse]], [[paradox]]
+- [[c/_contradiction|contradiction]], [[i/_impasse|impasse]], [[p/_paradox|paradox]]
 ---

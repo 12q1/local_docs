@@ -10,5 +10,5 @@
 - **A limitation.**
 ---
 ### Synonyms
-- [[if-then]], [[material conditional]]
+- [[i/_if-then|if-then]]
 ---

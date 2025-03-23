@@ -8,5 +8,5 @@
 	- _Example: Happy belated birthday!_
 ---
 ### Synonyms
-- [[late]], [[overdue]], [[tardy]]
+- [[l/_late|late]], [[o/_overdue|overdue]], [[t/_tardy|tardy]]
 ---

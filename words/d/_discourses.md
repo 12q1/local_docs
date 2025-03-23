@@ -10,5 +10,5 @@
 - **[[d/_dealing|Dealing]]; transaction.**
 ---
 ### Synonyms
-- [[communication]], [[expression]], [[dissertation]], [[lecture]], [[study]], [[treatise]], [[ratiocination]], [[conversation]], [[debate]], [[discussion]], [[talk]]
+- [[c/_communication|communication]], [[e/_expression|expression]], [[d/_dissertation|dissertation]], [[l/_lecture|lecture]], [[s/_study|study]], [[t/_treatise|treatise]], [[r/_ratiocination|ratiocination]], [[c/_conversation|conversation]], [[d/_debate|debate]], [[d/_discussion|discussion]], [[t/_talk|talk]]
 ---

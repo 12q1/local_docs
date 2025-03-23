@@ -6,5 +6,5 @@
 - **([[b/_british|British]] slang) A woman who runs a [[b/_brothel|brothel]]; a woman [[e/_employed|employed]] by a prostitute to find [[c/_clients|clients]].**
 ---
 ### Synonyms
-- [[mother superior]], [[Covent Garden abbess]], [[bawd]], [[lady abbess]], [[madam]]
+- [[b/_bawd|bawd]], [[m/_madam|madam]]
 ---

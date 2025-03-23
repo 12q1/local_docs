@@ -4,5 +4,5 @@
 - **To remove water from.**
 ---
 ### Synonyms
-- [[dehydrate]], [[dry]]
+- [[d/_dehydrate|dehydrate]], [[d/_dry|dry]]
 ---

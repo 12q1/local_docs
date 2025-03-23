@@ -5,7 +5,7 @@
 - **That which is and renders [[c/_complex|complex]]; intricacy; [[c/_complication|complication]].**
 ---
 ### Synonyms
-- [[complicacy]]
+- [[c/_complicacy|complicacy]]
 ### Antonyms
-- [[simplicity]]
+- [[s/_simplicity|simplicity]]
 ---

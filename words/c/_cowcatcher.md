@@ -5,5 +5,5 @@
 - **An [[a/_advertisement|advertisement]] at the start of a programme.**
 ---
 ### Synonyms
-- [[pilot]]
+- [[p/_pilot|pilot]]
 ---

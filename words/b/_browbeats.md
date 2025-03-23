@@ -5,5 +5,5 @@
 	- _Example: Though the teacher browbeat all the children, they still acted out during the lesson._
 ---
 ### Synonyms
-- [[bully]], [[cow]], [[domineer]], [[intimidate]]
+- [[b/_bully|bully]], [[c/_cow|cow]], [[d/_domineer|domineer]], [[i/_intimidate|intimidate]]
 ---

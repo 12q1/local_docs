@@ -1,6 +1,6 @@
 # Churchwoman
 ---
 #noun
-- **The female equivalent of a [[c/_churchman|churchman]].**
+- **The female [[e/_equivalent|equivalent]] of a [[c/_churchman|churchman]].**
 ---
 ---

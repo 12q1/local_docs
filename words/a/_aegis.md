@@ -5,5 +5,5 @@
 - **Usually as under the [[a/_aegis|aegis]]: guidance, protection; [[e/_endorsement|endorsement]], sponsorship.**
 ---
 ### Synonyms
-- [[auspices]], [[patronage]], [[protection]]
+- [[a/_auspices|auspices]], [[p/_patronage|patronage]], [[p/_protection|protection]]
 ---

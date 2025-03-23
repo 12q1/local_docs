@@ -6,5 +6,5 @@
 - **West Indian [[b/_bay|bay]] tree (Pimenta racemosa), a tropical [[a/_american|American]] shrub with [[a/_aromatic|aromatic]] leaves that are used in the preparation of [[b/_bay|bay]] rum.**
 ---
 ### Synonyms
-- [[wax myrtle]], [[candleberry]], [[wax myrtle]]
+- [[c/_candleberry|candleberry]]
 ---

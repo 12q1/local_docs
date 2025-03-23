@@ -5,5 +5,5 @@
 - **Sexual reproduction involving the union or fusion of two [[d/_dissimilar|dissimilar]] gametes.**
 ---
 ### Synonyms
-- [[heterogamy]]
+- [[h/_heterogamy|heterogamy]]
 ---

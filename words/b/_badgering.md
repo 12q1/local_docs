@@ -6,7 +6,7 @@
 - **To pass gas; to fart.**
 ---
 ### Synonyms
-- [[flatulate]]
+- [[f/_flatulate|flatulate]]
 #noun
 - **The [[a/_act|act]] of one who [[b/_badgers|badgers]], pesters, or [[a/_annoys|annoys]].**
 ---

@@ -3,12 +3,12 @@
 #noun
 - **The [[a/_act|act]] or process of [[c/_calculating|calculating]].**
 - **The result of [[c/_calculating|calculating]].**
-- **Reckoning, estimate.**
+- **Reckoning, [[e/_estimate|estimate]].**
 	- _Example: By my calculation, we should be there by midnight._
 - **An expectation [[b/_based|based]] on [[c/_circumstances|circumstances]].**
 ---
 ### Synonyms
-- [[sum]], [[computation]], [[evaluation]], [[reckoning]], [[estimate]], [[guess]], [[measurement]], [[reckoning]]
+- [[s/_sum|sum]], [[c/_computation|computation]], [[e/_evaluation|evaluation]], [[r/_reckoning|reckoning]], [[e/_estimate|estimate]], [[g/_guess|guess]], [[m/_measurement|measurement]], [[r/_reckoning|reckoning]]
 #noun
 - **A mechanical or [[e/_electronic|electronic]] [[d/_device|device]] that performs mathematical [[c/_calculations|calculations]].**
 - **A person who performs mathematical [[c/_calculation|calculation]]**
@@ -16,7 +16,7 @@
 - **A set of mathematical tables.**
 ---
 ### Synonyms
-- [[electronic calculator]], [[pocket calculator]], [[ready reckoner]], [[table]], [[adding machine]], [[computer]], [[plotter]], [[schemer]]
+- [[t/_table|table]], [[c/_computer|computer]], [[p/_plotter|plotter]], [[s/_schemer|schemer]]
 #noun
 - **[[c/_calculation|Calculation]]; [[c/_computation|computation]].**
 - **[[a/_any|Any]] formal system in which symbolic expressions are manipulated [[a/_according|according]] to fixed rules.**
@@ -25,8 +25,8 @@
 - **A stony [[c/_concretion|concretion]] that forms in a [[b/_bodily|bodily]] organ.**
 	- _Example: renal calculus ( = kidney stone)_
 - **[[d/_deposits|Deposits]] of [[c/_calcium|calcium]] phosphate salts on teeth.**
-- **A [[d/_decision|decision]]-making method, especially one [[a/_appropriate|appropriate]] for a specialised realm.**
+- **A [[d/_decision|decision]]-making method, [[e/_especially|especially]] one [[a/_appropriate|appropriate]] for a specialised realm.**
 ---
 ### Synonyms
-- [[ciphering]], [[reckoning]], [[infinitesimal calculus]], [[dental calculus]], [[tartar]], [[stone]]
+- [[c/_ciphering|ciphering]], [[r/_reckoning|reckoning]], [[t/_tartar|tartar]], [[s/_stone|stone]]
 ---

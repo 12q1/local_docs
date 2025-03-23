@@ -6,5 +6,5 @@
 - **A party or social event held in the [[a/_afternoon|afternoon]].**
 ---
 ### Synonyms
-- [[aft]], [[arvo]], [[undern]]
+- [[a/_aft|aft]], [[a/_arvo|arvo]], [[u/_undern|undern]]
 ---

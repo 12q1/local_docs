@@ -7,5 +7,5 @@
 - **Term of [[e/_endearment|endearment]]**
 ---
 ### Synonyms
-- [[babe]], [[fox]], [[stunner]], [[cockney]], [[pansy]], [[sissy]], [[fairy cake]], [[cabbage]], [[heartmate]], [[sweetie]]
+- [[b/_babe|babe]], [[f/_fox|fox]], [[s/_stunner|stunner]], [[c/_cockney|cockney]], [[p/_pansy|pansy]], [[s/_sissy|sissy]], [[c/_cabbage|cabbage]], [[h/_heartmate|heartmate]], [[s/_sweetie|sweetie]]
 ---

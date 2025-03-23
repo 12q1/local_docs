@@ -8,5 +8,5 @@
 - **A method of problem solving in which members of a group [[c/_contribute|contribute]] ideas spontaneously.**
 ---
 ### Synonyms
-- [[blue-sky thinking]], [[masterminding]], [[thought shower]]
+- [[m/_masterminding|masterminding]]
 ---

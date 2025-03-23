@@ -5,5 +5,5 @@
 - **A viral infection of horses [[c/_causing|causing]] swelling of parts of the head.**
 ---
 ### Synonyms
-- [[bluetongue]], [[horse sickness]], [[stone curlew]], [[thick-knee]]
+- [[b/_bluetongue|bluetongue]], [[t/_thick-knee|thick-knee]]
 ---

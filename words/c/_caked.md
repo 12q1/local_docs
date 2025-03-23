@@ -6,7 +6,7 @@
 - **To form into a [[c/_cake|cake]], or mass.**
 ---
 ### Synonyms
-- [[crust]], [[encrust]]
+- [[c/_crust|crust]], [[e/_encrust|encrust]]
 #verb
 - **To [[c/_cackle|cackle]] like a goose.**
 ---
@@ -14,5 +14,5 @@
 - **(smoking, of a pipe) [[e/_empty|Empty]] with nothing left to smoke but [[a/_ash|ash]].**
 ---
 ### Synonyms
-- [[kicked]]
+- [[k/_kicked|kicked]]
 ---

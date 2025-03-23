@@ -6,5 +6,5 @@
 - **(by extension) A foolish or [[c/_conceited|conceited]] person; a [[d/_dandy|dandy]].**
 ---
 ### Synonyms
-- [[fool]], [[popinjay]]
+- [[f/_fool|fool]], [[p/_popinjay|popinjay]]
 ---

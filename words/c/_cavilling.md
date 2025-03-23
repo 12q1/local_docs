@@ -4,7 +4,7 @@
 - **To [[c/_criticise|criticise]] for petty or frivolous reasons.**
 ---
 ### Synonyms
-- [[be hypercritical]], [[nitpick]], [[pettifog]], [[split hairs]]
+- [[n/_nitpick|nitpick]], [[p/_pettifog|pettifog]]
 #noun
 - **[[c/_cavillation|Cavillation]]**
 ---

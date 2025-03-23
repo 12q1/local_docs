@@ -8,5 +8,5 @@
 - **To regard as hopeless; to give up.**
 ---
 ### Synonyms
-- [[bewail]], [[condemn]]
+- [[b/_bewail|bewail]], [[c/_condemn|condemn]]
 ---

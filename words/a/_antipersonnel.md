@@ -4,5 +4,5 @@
 - **[[d/_designed|Designed]] to kill soldiers.**
 ---
 ### Synonyms
-- [[AP]]
+- [[A/_AP|AP]]
 ---

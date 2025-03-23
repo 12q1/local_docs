@@ -7,7 +7,7 @@
 - **(mountaineering) An overhanging [[e/_edge|edge]] of snow on a ridge or the [[c/_crest|crest]] of a mountain and [[a/_along|along]] the sides of gullies.**
 ---
 ### Synonyms
-- [[snow cornice]]
+- 
 #verb
 - **To furnish or [[d/_decorate|decorate]] with a [[c/_cornice|cornice]].**
 ---

@@ -4,5 +4,5 @@
 - **An old woman.**
 ---
 ### Synonyms
-- [[crone]], [[hag]]
+- [[c/_crone|crone]], [[h/_hag|hag]]
 ---

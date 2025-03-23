@@ -5,5 +5,5 @@
 	- _Example: Admittedly, vandalism is a bit of a problem._
 ---
 ### Synonyms
-- [[granted]]
+- [[g/_granted|granted]]
 ---

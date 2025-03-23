@@ -9,5 +9,5 @@
 - **Trifling.**
 ---
 ### Synonyms
-- [[goofy]], [[sappy]], [[unreasonable]], [[wacky]], [[zany]]
+- [[g/_goofy|goofy]], [[s/_sappy|sappy]], [[u/_unreasonable|unreasonable]], [[w/_wacky|wacky]], [[z/_zany|zany]]
 ---

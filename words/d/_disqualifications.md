@@ -8,5 +8,5 @@
 - **: The [[a/_act|act]] of [[b/_being|being]] forbidden from further play in a [[b/_basketball|basketball]] game [[d/_due|due]] to the [[a/_accumulation|accumulation]] of too many personal fouls.**
 ---
 ### Synonyms
-- [[fouling out]]
+- 
 ---

@@ -11,10 +11,10 @@
 - **To [[a/_amend|amend]] the [[e/_elements|elements]] of a text to fit local [[c/_culture|culture]].**
 ---
 ### Antonyms
-- [[foreignize]]
+- [[f/_foreignize|foreignize]]
 #adjective
-- **(of an [[a/_animal|animal]] or a plant, especially a pet) selectively [[b/_bred|bred]] to live with or [[a/_around|around]] humans.**
+- **(of an [[a/_animal|animal]] or a plant, [[e/_especially|especially]] a pet) selectively [[b/_bred|bred]] to live with or [[a/_around|around]] humans.**
 ---
 ### Antonyms
-- [[undomesticated]]
+- [[u/_undomesticated|undomesticated]]
 ---

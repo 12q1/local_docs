@@ -4,5 +4,5 @@
 - **Fearful, terrible.**
 ---
 ### Synonyms
-- [[dire]]
+- [[d/_dire|dire]]
 ---

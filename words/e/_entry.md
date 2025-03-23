@@ -9,7 +9,7 @@
 - **The start of an insurance [[c/_contract|contract]].**
 - **A passageway [[b/_between|between]] terraced houses that provides a means of [[e/_entering|entering]] a [[b/_back|back]] garden or yard.**
 - **A small room immediately inside the front [[d/_door|door]] of a house or other [[b/_building|building]], often having an [[a/_access|access]] to a stairway and leading on to other rooms**
-- **A small group formed within a [[c/_church|church]], especially [[e/_episcopal|Episcopal]], for simple [[d/_dinner|dinner]] and fellowship, and to help facilitate new friendships**
+- **A small group formed within a [[c/_church|church]], [[e/_especially|especially]] [[e/_episcopal|Episcopal]], for simple [[d/_dinner|dinner]] and fellowship, and to help facilitate new friendships**
 - **An item in a list, such as an [[a/_article|article]] in a [[d/_dictionary|dictionary]] or [[e/_encyclopedia|encyclopedia]].**
 - **A record made in a log, [[d/_diary|diary]] or [[a/_anything|anything]] similarly organized; a [[d/_datum|datum]] in a [[d/_database|database]].**
 	- _Example: What does the entry for 2 August 2005 say?_
@@ -19,7 +19,7 @@
 - **The point when a musician starts to play or sing; [[e/_entrance|entrance]].**
 ---
 ### Synonyms
-- [[access]], [[enter]], [[entrance]], [[article]], [[lemma]], [[lexeme]], [[entrance]], [[ingang]], [[way in]], [[access]], [[admission]], [[record]], [[element]]
+- [[a/_access|access]], [[e/_enter|enter]], [[e/_entrance|entrance]], [[a/_article|article]], [[l/_lemma|lemma]], [[l/_lexeme|lexeme]], [[e/_entrance|entrance]], [[i/_ingang|ingang]], [[a/_access|access]], [[a/_admission|admission]], [[r/_record|record]], [[e/_element|element]]
 ### Antonyms
-- [[departure]], [[exit]], [[leaving]], [[exit]], [[way out]]
+- [[d/_departure|departure]], [[e/_exit|exit]], [[l/_leaving|leaving]], [[e/_exit|exit]]
 ---

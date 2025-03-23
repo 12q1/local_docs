@@ -24,9 +24,9 @@
 - **Trading at a price level which is low relative to historical trends, a similar [[a/_asset|asset]], or (for [[d/_derivatives|derivatives]]) a theoretical value.**
 ---
 ### Synonyms
-- [[bargain]], [[frugal]], [[inexpensive]], [[no-frills]], [[priced-off]], [[flimsy]]
+- [[b/_bargain|bargain]], [[f/_frugal|frugal]], [[i/_inexpensive|inexpensive]], [[n/_no-frills|no-frills]], [[p/_priced-off|priced-off]], [[f/_flimsy|flimsy]]
 ### Antonyms
-- [[rich]], [[dear]], [[expensive]], [[high-priced]], [[pricey]], [[precious]], [[valuable]]
+- [[r/_rich|rich]], [[d/_dear|dear]], [[e/_expensive|expensive]], [[h/_high-priced|high-priced]], [[p/_pricey|pricey]], [[p/_precious|precious]], [[v/_valuable|valuable]]
 #adverb
 - **[[c/_cheaply|Cheaply]].**
 ---

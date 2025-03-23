@@ -17,7 +17,7 @@
 	- _Example: big break_
 - **The [[b/_beginning|beginning]] (of the morning).**
 	- _Example: at the break of day_
-- **An [[a/_act|act]] of escaping.**
+- **An [[a/_act|act]] of [[e/_escaping|escaping]].**
 	- _Example: It was a clean break._
 - **The separation [[b/_between|between]] lines, paragraphs or pages of a written text.**
 - **A keystroke or other signal that [[c/_causes|causes]] a program to terminate or suspend execution.**
@@ -25,7 +25,7 @@
 - **A [[c/_change|change]], particularly the [[e/_end|end]] of a spell of persistent good or [[b/_bad|bad]] weather.**
 - **:**
 - **A large four-wheeled [[c/_carriage|carriage]], having a straight [[b/_body|body]] and [[c/_calash|calash]] top, with the [[d/_driver|driver]]'s seat in front and the footman's [[b/_behind|behind]].**
-- **(equitation) A sharp [[b/_bit|bit]] or snaffle.**
+- **([[e/_equitation|equitation]]) A sharp [[b/_bit|bit]] or snaffle.**
 - **A short section of music, often [[b/_between|between]] verses, in which some performers stop while others [[c/_continue|continue]].**
 	- _Example: The fiddle break was amazing; it was a pity the singer came back in on the wrong note._
 - **The point in the musical scale at which a woodwind instrument is [[d/_designed|designed]] to overblow, that is, to move from its lower to its upper register.**
@@ -33,7 +33,7 @@
 - **Usu. plural An [[a/_area|area]] [[a/_along|along]] a river that features steep [[b/_banks|banks]], [[b/_bluffs|bluffs]], or gorges ([[e/_e|e]].g., Upper Missouri River [[b/_breaks|Breaks]] National Monument, US).**
 ---
 ### Synonyms
-- [[crack of dawn]], [[split]], [[breach]], [[gap]], [[space]], [[time-out]], [[day off]], [[time off]], [[playtime]], [[recess]]
+- [[s/_split|split]], [[b/_breach|breach]], [[g/_gap|gap]], [[s/_space|space]], [[t/_time-out|time-out]], [[p/_playtime|playtime]], [[r/_recess|recess]]
 #noun
 - **A section of extended repetition of the percussion [[b/_break|break]] to a song, [[c/_created|created]] by a hip-hop [[d/_dj|DJ]] as rhythmic [[d/_dance|dance]] music.**
 ---

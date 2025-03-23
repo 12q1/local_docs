@@ -6,5 +6,5 @@
 - **A meeting of predominantly females.**
 ---
 ### Synonyms
-- [[hotbox]], [[taco fest]]
+- [[h/_hotbox|hotbox]]
 ---

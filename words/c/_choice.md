@@ -14,12 +14,12 @@
 - **A sufficient number to [[c/_choose|choose]] [[a/_among|among]].**
 ---
 ### Synonyms
-- [[assortment]], [[range]], [[selection]], [[cream]], [[option]], [[possibility]], [[abundance]], [[profusion]]
+- [[a/_assortment|assortment]], [[r/_range|range]], [[s/_selection|selection]], [[c/_cream|cream]], [[o/_option|option]], [[p/_possibility|possibility]], [[a/_abundance|abundance]], [[p/_profusion|profusion]]
 #adjective
-- **Especially good or preferred.**
+- **[[e/_especially|Especially]] good or preferred.**
 	- _Example: It's a choice location, but you will pay more to live there._
 - **[[c/_careful|Careful]] in [[c/_choosing|choosing]]; [[d/_discriminating|discriminating]].**
 ---
 ### Synonyms
-- [[choicy]], [[prime]], [[prize]], [[quality]], [[select]]
+- [[c/_choicy|choicy]], [[p/_prime|prime]], [[p/_prize|prize]], [[q/_quality|quality]], [[s/_select|select]]
 ---

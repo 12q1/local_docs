@@ -1,7 +1,7 @@
 # Conking
 ---
 #verb
-- **To hit, especially on the head.**
+- **To hit, [[e/_especially|especially]] on the head.**
 ---
 #verb
 - **To [[c/_chemically|chemically]] straighten tightly [[c/_curled|curled]] hair.**

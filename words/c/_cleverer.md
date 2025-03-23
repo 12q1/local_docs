@@ -13,7 +13,7 @@
 - **Fit and healthy; free from fatigue or illness.**
 ---
 ### Synonyms
-- [[adroit]], [[talented]], [[magical]], [[cunning]], [[street-smart]], [[ingenious]], [[quick-witted]], [[sharp-witted]]
+- [[a/_adroit|adroit]], [[t/_talented|talented]], [[m/_magical|magical]], [[c/_cunning|cunning]], [[s/_street-smart|street-smart]], [[i/_ingenious|ingenious]], [[q/_quick-witted|quick-witted]], [[s/_sharp-witted|sharp-witted]]
 ### Antonyms
-- [[clumsy]], [[natural]], [[ineffectual]], [[naive]], [[dull]], [[stupid]]
+- [[c/_clumsy|clumsy]], [[n/_natural|natural]], [[i/_ineffectual|ineffectual]], [[n/_naive|naive]], [[d/_dull|dull]], [[s/_stupid|stupid]]
 ---

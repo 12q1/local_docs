@@ -9,9 +9,9 @@
 	- _Example: Now that the zipper has detached, my winter coat won't keep me very warm._
 ---
 ### Synonyms
-- [[fall off]], [[allocate]], [[earmark]], [[disengage]], [[unfasten]]
+- [[a/_allocate|allocate]], [[e/_earmark|earmark]], [[d/_disengage|disengage]], [[u/_unfasten|unfasten]]
 ### Antonyms
-- [[attach]]
+- [[a/_attach|attach]]
 #adjective
 - **Not physically [[a/_attached|attached]]; separated from something it [[c/_could|could]] [[c/_connect|connect]] to.**
 - **Of a house: not joined to [[a/_another|another]] house on [[e/_either|either]] side.**

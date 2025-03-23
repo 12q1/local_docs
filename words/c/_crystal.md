@@ -8,9 +8,9 @@
 - **The glass over the [[d/_dial|dial]] of a watch [[c/_case|case]].**
 ---
 ### Synonyms
-- [[grain]]
+- [[g/_grain|grain]]
 ### Antonyms
-- [[amorphous]], [[glass]]
+- [[a/_amorphous|amorphous]], [[g/_glass|glass]]
 #adjective
 - **Very [[c/_clear|clear]].**
 	- _Example: "Do I make myself clear?" / "Crystal."_

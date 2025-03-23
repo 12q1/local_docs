@@ -10,7 +10,7 @@
 - **A sewer.**
 ---
 ### Synonyms
-- [[cabinet]], [[armchair]]
+- [[c/_cabinet|cabinet]], [[a/_armchair|armchair]]
 #verb
 - **To shut [[a/_away|away]] for private [[d/_discussion|discussion]].**
 	- _Example: The ambassador has been closeted with the prime minister all afternoon. We're all worried what will be announced when they exit._
@@ -19,6 +19,6 @@
 ---
 #adjective
 - **Private.**
-- **Secret, (especially) with reference to gay people who are in the [[c/_closet|closet]]; [[c/_closeted|closeted]].**
+- **Secret, ([[e/_especially|especially]]) with reference to gay people who are in the [[c/_closet|closet]]; [[c/_closeted|closeted]].**
 ---
 ---

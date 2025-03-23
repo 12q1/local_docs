@@ -5,12 +5,12 @@
 - **To spiritually purify; to free from guilt or sin; to purge.**
 ---
 #noun
-- **The process of removing [[d/_dirt|dirt]], toxins etc.**
+- **The process of removing [[d/_dirt|dirt]], toxins [[e/_etc|etc]].**
 ---
 #adjective
 - **That [[c/_cleanses|cleanses]].**
 	- _Example: Apply the cleansing cream to your skin._
 ---
 ### Synonyms
-- [[detergent]], [[smectic]]
+- [[d/_detergent|detergent]], [[s/_smectic|smectic]]
 ---

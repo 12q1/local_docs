@@ -5,7 +5,7 @@
 - **The first stage of a [[d/_deal|deal]], in which players [[b/_bid|bid]] to [[d/_determine|determine]] the final [[c/_contract|contract]].**
 ---
 ### Synonyms
-- [[roup sale]]
+- 
 #verb
 - **To sell at an [[a/_auction|auction]].**
 ---

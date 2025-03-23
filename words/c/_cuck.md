@@ -4,7 +4,7 @@
 - **A [[c/_cuckold|cuckold]].**
 - **A weakling.**
 	- _Example: beta cuck_
-- **One who [[a/_acts|acts]] [[a/_against|against]] one's own interests, or that of one's own race, gender, [[c/_class|class]], religion, etc.**
+- **One who [[a/_acts|acts]] [[a/_against|against]] one's own interests, or that of one's own race, gender, [[c/_class|class]], religion, [[e/_etc|etc]].**
 ---
 #verb
 - **To [[c/_cuckold|cuckold]], to be sexually unfaithful towards.**

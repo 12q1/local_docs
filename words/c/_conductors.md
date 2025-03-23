@@ -11,5 +11,5 @@
 - **A leader.**
 ---
 ### Antonyms
-- [[insulator]], [[non-conductor]], [[nonconductor]]
+- [[i/_insulator|insulator]], [[n/_non-conductor|non-conductor]], [[n/_nonconductor|nonconductor]]
 ---

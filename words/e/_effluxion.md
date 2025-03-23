@@ -7,5 +7,5 @@
 	- _Example: the effluxion of a boil_
 ---
 ### Synonyms
-- [[effluence]], [[efflux]], [[outflow]]
+- [[e/_effluence|effluence]], [[e/_efflux|efflux]], [[o/_outflow|outflow]]
 ---

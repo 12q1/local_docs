@@ -7,5 +7,5 @@
 - **Such [[a/_activities|activities]] or events that occur [[a/_after|after]] skiing.**
 ---
 ### Synonyms
-- [[apres]], [[après]], [[après-skiing]]
+- [[a/_apres|apres]], [[a/_après|après]], [[a/_après-skiing|après-skiing]]
 ---

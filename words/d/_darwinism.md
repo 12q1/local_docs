@@ -5,5 +5,5 @@
 - **The principles of natural selection set out in [[c/_charles|Charles]] [[d/_darwin|Darwin]]'s On the Origin of Species (1859), more strictly [[d/_defined|defined]] by [[a/_august|August]] Weismann and [[d/_developed|developed]] by other [[a/_authors|authors]] into a [[c/_central|central]] part of the modern evolutionary synthesis.**
 ---
 ### Synonyms
-- [[Darwinianism]]
+- [[D/_Darwinianism|Darwinianism]]
 ---

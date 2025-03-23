@@ -6,7 +6,7 @@
 - **To listen for [[a/_another|another]] organism's [[c/_calls|calls]], so as to exploit them.**
 ---
 ### Synonyms
-- [[overhear]]
+- [[o/_overhear|overhear]]
 #noun
 - **Listening secretly to private [[c/_conversation|conversation]] of others.**
 - **The interception of [[e/_electronic|electronic]] [[c/_communication|communication]].**

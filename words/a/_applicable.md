@@ -4,7 +4,7 @@
 - **Suitable for [[a/_application|application]], relevant**
 ---
 ### Synonyms
-- [[appropriate]]
+- [[a/_appropriate|appropriate]]
 ### Antonyms
-- [[inapplicable]]
+- [[i/_inapplicable|inapplicable]]
 ---

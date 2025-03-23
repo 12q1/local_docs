@@ -7,5 +7,5 @@
 	- _Example: My sister lives in that apartment building._
 ---
 ### Synonyms
-- [[construction]], [[edifice]]
+- [[c/_construction|construction]], [[e/_edifice|edifice]]
 ---

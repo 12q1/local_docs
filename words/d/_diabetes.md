@@ -6,5 +6,5 @@
 - **[[a/_any|Any]] food or [[b/_beverage|beverage]] with a high [[a/_amount|amount]] of sugar.**
 ---
 ### Synonyms
-- [[DM]], [[diabeetus]], [[diabetes mellitus]]
+- [[D/_DM|DM]], [[d/_diabeetus|diabeetus]]
 ---

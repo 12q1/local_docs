@@ -5,5 +5,5 @@
 - **A medicine which suppresses [[a/_appetite|appetite]].**
 ---
 ### Synonyms
-- [[anorectic]]
+- [[a/_anorectic|anorectic]]
 ---

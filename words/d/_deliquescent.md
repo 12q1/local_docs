@@ -8,5 +8,5 @@
 - **(of the fruiting [[b/_body|body]] of a fungus) [[b/_becoming|Becoming]] liquid as a phase of its life [[c/_cycle|cycle]].**
 ---
 ### Synonyms
-- [[disappearing]], [[melting]]
+- [[d/_disappearing|disappearing]], [[m/_melting|melting]]
 ---

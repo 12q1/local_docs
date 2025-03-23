@@ -20,5 +20,5 @@
 - **A removable [[d/_disk|disk]] used for storing [[d/_digital|digital]] [[d/_data|data]], measuring [[b/_between|between]] 2 and 8 inches [[d/_diagonally|diagonally]] and storing [[b/_between|between]] 80 KB and 240 MB.**
 ---
 ### Synonyms
-- [[disk]], [[diskette]], [[floppy]], [[floppy diskette]]
+- [[d/_disk|disk]], [[d/_diskette|diskette]], [[f/_floppy|floppy]]
 ---

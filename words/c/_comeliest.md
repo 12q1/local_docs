@@ -6,7 +6,7 @@
 - **Suitable or [[b/_becoming|becoming]]; proper; [[a/_agreeable|agreeable]].**
 ---
 ### Synonyms
-- [[pulchritudinous]]
+- [[p/_pulchritudinous|pulchritudinous]]
 ### Antonyms
-- [[homely]]
+- [[h/_homely|homely]]
 ---

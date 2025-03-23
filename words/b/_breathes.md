@@ -26,9 +26,9 @@
 - **To stop, to give (a horse) an opportunity to [[c/_catch|catch]] its [[b/_breath|breath]].**
 	- _Example: At higher altitudes you need to breathe your horse more often._
 - **To exercise; to tire by [[b/_brisk|brisk]] exercise.**
-- **To passionately [[d/_devote|devote]] much of one's life to (an [[a/_activity|activity]], etc.).**
+- **To passionately [[d/_devote|devote]] much of one's life to (an [[a/_activity|activity]], [[e/_etc|etc]].).**
 	- _Example: Do you like hiking?  Are you kidding? I breathe hiking._
 ---
 ### Synonyms
-- [[live and breathe]]
+- 
 ---

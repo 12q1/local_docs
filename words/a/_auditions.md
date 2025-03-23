@@ -9,7 +9,7 @@
 - **Something heard.**
 ---
 ### Synonyms
-- [[casting]], [[tryout]]
+- [[c/_casting|casting]], [[t/_tryout|tryout]]
 #verb
 - **To evaluate one or more performers in through an [[a/_audition|audition]].**
 	- _Example: We auditioned several actors for the part._

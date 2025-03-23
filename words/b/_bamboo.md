@@ -8,7 +8,7 @@
 ---
 #verb
 - **To flog with a [[b/_bamboo|bamboo]] [[c/_cane|cane]].**
-- **To paint (furniture, etc.) to give it the [[a/_appearance|appearance]] of [[b/_bamboo|bamboo]].**
+- **To paint (furniture, [[e/_etc|etc]].) to give it the [[a/_appearance|appearance]] of [[b/_bamboo|bamboo]].**
 - **To penetrate sexually.**
 ---
 #adjective

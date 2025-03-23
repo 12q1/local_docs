@@ -9,7 +9,7 @@
 	- _Example: Did you get your disability this month?_
 ---
 ### Synonyms
-- [[disqualification]], [[impotence]], [[inability]], [[incapacity]], [[incompetence]], [[incompetency]], [[weakness]]
+- [[d/_disqualification|disqualification]], [[i/_impotence|impotence]], [[i/_inability|inability]], [[i/_incapacity|incapacity]], [[i/_incompetence|incompetence]], [[i/_incompetency|incompetency]], [[w/_weakness|weakness]]
 ### Antonyms
-- [[ability]], [[capacity]], [[competence]], [[competency]], [[potence]], [[potential]], [[qualification]], [[strength]]
+- [[a/_ability|ability]], [[c/_capacity|capacity]], [[c/_competence|competence]], [[c/_competency|competency]], [[p/_potence|potence]], [[p/_potential|potential]], [[q/_qualification|qualification]], [[s/_strength|strength]]
 ---

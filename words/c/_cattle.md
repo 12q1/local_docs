@@ -1,7 +1,7 @@
 # Cattle
 ---
 #noun
-- **[[d/_domesticated|Domesticated]] [[b/_bovine|bovine]] [[a/_animals|animals]] ([[c/_cows|cows]], [[b/_bulls|bulls]], steers etc).**
+- **[[d/_domesticated|Domesticated]] [[b/_bovine|bovine]] [[a/_animals|animals]] ([[c/_cows|cows]], [[b/_bulls|bulls]], steers [[e/_etc|etc]]).**
 	- _Example: Do you want to raise cattle?_
 - **[[c/_certain|Certain]] other livestock, such as sheep, pigs or horses.**
 - **People who resemble [[d/_domesticated|domesticated]] [[b/_bovine|bovine]] [[a/_animals|animals]] in [[b/_behavior|behavior]] or [[d/_destiny|destiny]].**
@@ -10,5 +10,5 @@
 - **Used in restricted [[c/_contexts|contexts]] to refer to the meat [[d/_derived|derived]] from [[c/_cattle|cattle]].**
 ---
 ### Synonyms
-- [[Bos]], [[cattlebeast]], [[cattlehead]], [[neat]]
+- [[B/_Bos|Bos]], [[c/_cattlebeast|cattlebeast]], [[c/_cattlehead|cattlehead]], [[n/_neat|neat]]
 ---

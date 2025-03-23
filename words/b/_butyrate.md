@@ -1,8 +1,8 @@
 # Butyrate
 ---
 #noun
-- **[[a/_any|Any]] salt or ester of [[b/_butyric|butyric]] [[a/_acid|acid]].**
+- **[[a/_any|Any]] salt or [[e/_ester|ester]] of [[b/_butyric|butyric]] [[a/_acid|acid]].**
 ---
 ### Synonyms
-- [[butanoate]]
+- [[b/_butanoate|butanoate]]
 ---

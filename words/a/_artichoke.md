@@ -5,5 +5,5 @@
 - **A [[d/_dull|dull]] green [[c/_colour|colour]], like that of an [[a/_artichoke|artichoke]].**
 ---
 ### Synonyms
-- [[cardoon]], [[cardoons]], [[globe artichoke]]
+- [[c/_cardoon|cardoon]], [[c/_cardoons|cardoons]]
 ---

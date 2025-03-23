@@ -12,7 +12,7 @@
 - **To flatten (metal) by hammering, so as to [[c/_compress|compress]] it inwardly and spread it outwardly.**
 ---
 ### Synonyms
-- [[intoxicate]], [[thrash]]
+- [[i/_intoxicate|intoxicate]], [[t/_thrash|thrash]]
 #noun
 - **A [[b/_beaten|beaten]] mixture of flour and liquid (usually [[e/_egg|egg]] and milk), used for [[b/_baking|baking]] ([[e/_e|e]].g. pancakes, [[c/_cake|cake]], or Yorkshire pudding) or to [[c/_coat|coat]] food ([[e/_e|e]].g. fish) prior to frying**
 	- _Example: To the dismay of his mother, the boy put his finger into the cake batter._
@@ -22,12 +22,12 @@
 - **A [[b/_bruise|bruise]] on the face of a plate or of type in the form.**
 ---
 ### Synonyms
-- [[binge]]
+- [[b/_binge|binge]]
 #noun
 - **An incline on the outer face of a [[b/_built|built]] wall.**
 ---
 #verb
-- **To slope (of walls, [[b/_buildings|buildings]] etc.).**
+- **To slope (of walls, [[b/_buildings|buildings]] [[e/_etc|etc]].).**
 ---
 #noun
 - **The player [[a/_attempting|attempting]] to hit the [[b/_ball|ball]] with a [[b/_bat|bat]].**
@@ -35,5 +35,5 @@
 - **The player [[a/_attempting|attempting]] to hit the [[b/_ball|ball]] with a [[b/_bat|bat]]; a [[b/_batsman|batsman]].**
 ---
 ### Synonyms
-- [[batsman]], [[batsman (rare)]], [[hitter]]
+- [[b/_batsman|batsman]], [[h/_hitter|hitter]]
 ---

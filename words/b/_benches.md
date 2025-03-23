@@ -33,9 +33,9 @@
 - **To place on a [[b/_bench|bench]] or seat of honour.**
 ---
 ### Synonyms
-- [[sideline]]
+- [[s/_sideline|sideline]]
 #noun
-- **The weight one is [[a/_able|able]] to [[b/_bench|bench]] press, especially the maximum weight [[c/_capable|capable]] of [[b/_being|being]] pressed.**
+- **The weight one is [[a/_able|able]] to [[b/_bench|bench]] press, [[e/_especially|especially]] the maximum weight [[c/_capable|capable]] of [[b/_being|being]] pressed.**
 	- _Example: He became frustrated when his bench increased by only 10 pounds despite a month of training._
 ---
 #verb

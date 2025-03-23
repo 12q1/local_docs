@@ -7,7 +7,7 @@
 - **A satellite system [[c/_consisting|consisting]] of two stars or other [[b/_bodies|bodies]] orbiting [[e/_each|each]] other.**
 ---
 ### Synonyms
-- [[base 2]], [[binary star]], [[double star]]
+- 
 ### Antonyms
-- [[non-binary]]
+- [[n/_non-binary|non-binary]]
 ---

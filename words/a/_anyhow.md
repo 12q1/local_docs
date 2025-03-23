@@ -6,5 +6,5 @@
 	- _Example: Anyhow, he is dead now._
 ---
 ### Synonyms
-- [[anyhoo]], [[anyway]], [[anywho]]
+- [[a/_anyhoo|anyhoo]], [[a/_anyway|anyway]], [[a/_anywho|anywho]]
 ---

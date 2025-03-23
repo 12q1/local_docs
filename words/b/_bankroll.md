@@ -11,5 +11,5 @@
 	- _Example: Professor Stebbins didn't need to apply for government grants because his lab was bankrolled by a large pharmaceutical corporation._
 ---
 ### Synonyms
-- [[finance]], [[support]], [[underwrite]]
+- [[f/_finance|finance]], [[s/_support|support]], [[u/_underwrite|underwrite]]
 ---

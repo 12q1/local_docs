@@ -18,7 +18,7 @@
 - **The space measured [[b/_back|back]] from the winning-post which a racehorse running in a heat must reach when the winner has [[c/_covered|covered]] the whole [[c/_course|course]], in order to run in the final heat.**
 ---
 ### Synonyms
-- [[farness]]
+- [[f/_farness|farness]]
 #verb
 - **To move [[a/_away|away]] (from) someone or something.**
 	- _Example: He distanced himself from the comments made by some of his colleagues._

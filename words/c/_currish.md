@@ -5,5 +5,5 @@
 - **Ignoble, mean-spirited.**
 ---
 ### Synonyms
-- [[doggish]]
+- [[d/_doggish|doggish]]
 ---

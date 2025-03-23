@@ -7,5 +7,5 @@
 - **A fixed point of a [[c/_correspondence|correspondence]]; a point of a variety [[c/_corresponding|corresponding]] to itself under a [[c/_correspondence|correspondence]].**
 ---
 ### Synonyms
-- [[coincidence point]], [[concurrentness]], [[synchronicity]]
+- [[c/_concurrentness|concurrentness]], [[s/_synchronicity|synchronicity]]
 ---

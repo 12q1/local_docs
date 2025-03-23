@@ -6,7 +6,7 @@
 - **A heavy shoe of untanned leather.**
 ---
 ### Synonyms
-- [[brogan]]
+- [[b/_brogan|brogan]]
 #verb
 - **To speak with a [[b/_brogue|brogue]] ([[a/_accent|accent]]).**
 - **To walk.**

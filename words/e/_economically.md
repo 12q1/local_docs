@@ -6,5 +6,5 @@
 - **[[a/_according|According]] to [[d/_divine|divine]] [[e/_economy|economy]].**
 ---
 ### Synonyms
-- [[prudently]]
+- [[p/_prudently|prudently]]
 ---

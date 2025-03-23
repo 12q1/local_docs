@@ -11,7 +11,7 @@
 - **([[c/_chiefly|chiefly]] in the plural) A woman's [[b/_breast|breast]].**
 ---
 ### Synonyms
-- [[milkery]], [[milkhouse]]
+- [[m/_milkery|milkery]], [[m/_milkhouse|milkhouse]]
 #adjective
 - **Referring to products produced from milk.**
 - **Referring to the milk production and processing industries.**

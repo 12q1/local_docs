@@ -6,5 +6,5 @@
 - **(by extension) [[a/_any|Any]] gastropod of the family [[c/_cypraeidae|Cypraeidae]]; its shell.**
 ---
 ### Synonyms
-- [[money cowrie]], [[wampum]]
+- [[w/_wampum|wampum]]
 ---

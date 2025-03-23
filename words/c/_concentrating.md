@@ -11,5 +11,5 @@
 	- _Example: Let me concentrate!_
 ---
 ### Antonyms
-- [[dilute]]
+- [[d/_dilute|dilute]]
 ---

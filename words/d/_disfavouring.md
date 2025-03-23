@@ -5,7 +5,7 @@
 	- _Example: Her past performance meant that she was often disfavoured for important tasks._
 ---
 ### Synonyms
-- [[discriminate]], [[maltreat]]
+- [[d/_discriminate|discriminate]], [[m/_maltreat|maltreat]]
 ### Antonyms
-- [[favour]]
+- [[f/_favour|favour]]
 ---

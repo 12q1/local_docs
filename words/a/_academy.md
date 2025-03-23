@@ -9,9 +9,9 @@
 - **A society of learned people united for the [[a/_advancement|advancement]] of the [[a/_arts|arts]] and sciences, and literature, or some particular [[a/_art|art]] or science.**
 - **The knowledge [[d/_disseminated|disseminated]] in an [[a/_academy|Academy]].**
 - **(with the, without reference to [[a/_any|any]] specific [[a/_academy|academy]]) [[a/_academia|Academia]].**
-- **A [[b/_body|body]] of established opinion in a particular field, regarded as [[a/_authoritative|authoritative]].**
+- **A [[b/_body|body]] of [[e/_established|established]] opinion in a particular field, regarded as [[a/_authoritative|authoritative]].**
 - **A school [[d/_directly|directly]] funded by [[c/_central|central]] government, independent of local [[c/_control|control]].**
 ---
 ### Synonyms
-- [[learned society]]
+- 
 ---

@@ -5,5 +5,5 @@
 - **The [[d/_driver|driver]] of a taxi.**
 ---
 ### Synonyms
-- [[cabdriver]]
+- [[c/_cabdriver|cabdriver]]
 ---

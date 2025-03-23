@@ -4,5 +4,5 @@
 - **The part of the skull that [[c/_contains|contains]] the [[b/_brain|brain]]; the neurocranium.**
 ---
 ### Synonyms
-- [[cranium]], [[neurocranium]]
+- [[c/_cranium|cranium]], [[n/_neurocranium|neurocranium]]
 ---

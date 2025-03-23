@@ -4,5 +4,5 @@
 - **The [[e/_emission|emission]] of light as the result of a [[c/_chemical|chemical]] reaction.**
 ---
 ### Synonyms
-- [[chemoluminescence]]
+- [[c/_chemoluminescence|chemoluminescence]]
 ---

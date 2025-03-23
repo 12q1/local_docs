@@ -11,5 +11,5 @@
 - **[[a/_any|Any]] of various nymphalid [[b/_butterflies|butterflies]] of the [[a/_asian|Asian]] genus Parasarpa.**
 ---
 ### Synonyms
-- [[CDRE]], [[COMO]], [[flag captain]], [[fleet captain]], [[grade]], [[senior]], [[senior captain]], [[shipmaster]], [[Cmdre]], [[Cmdre.]], [[flag captain]], [[fleet captain]], [[senior captain]]
+- [[C/_CDRE|CDRE]], [[C/_COMO|COMO]], [[g/_grade|grade]], [[s/_senior|senior]], [[s/_shipmaster|shipmaster]], [[C/_Cmdre|Cmdre]], [[C/_Cmdre.|Cmdre.]]
 ---

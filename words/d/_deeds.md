@@ -9,7 +9,7 @@
 	- _Example: I inherited the deed to the house._
 ---
 ### Synonyms
-- [[act]], [[action]], [[certificate]], [[document]], [[instrument]]
+- [[a/_act|act]], [[a/_action|action]], [[c/_certificate|certificate]], [[d/_document|document]], [[i/_instrument|instrument]]
 #verb
 - **To transfer real property by [[d/_deed|deed]].**
 	- _Example: He deeded over the mineral rights to some fellas from Denver._

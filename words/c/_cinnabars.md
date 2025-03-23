@@ -7,5 +7,5 @@
 - **(in “[[c/_cinnabar|Cinnabar]] Panacea”) The [[e/_elixir|Elixir]] of Life.**
 ---
 ### Synonyms
-- [[cinnabar moth]], [[æthiops mineral]]
+- 
 ---

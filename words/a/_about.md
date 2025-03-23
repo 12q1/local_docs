@@ -9,7 +9,7 @@
 	- _Example: I had my keys just a minute ago, so they must be about somewhere._
 ---
 ### Synonyms
-- [[around]], [[active]], [[around]], [[astir]], [[mobile]]
+- [[a/_around|around]], [[a/_active|active]], [[a/_around|around]], [[a/_astir|astir]], [[m/_mobile|mobile]]
 #adverb
 - **On [[a/_all|all]] sides; [[a/_around|around]].**
 	- _Example: I looked about at the scenery that surrounded me._
@@ -29,7 +29,7 @@
 	- _Example: a mile about, and a third of a mile across_
 ---
 ### Synonyms
-- [[around]]
+- [[a/_around|around]]
 #preposition
 - **In a [[c/_circle|circle]] [[a/_around|around]]; [[a/_all|all]] round; on every side of; on the outside of.**
 	- _Example: The snake was coiled about his ankle._
@@ -48,5 +48,5 @@
 	- _Example: He has his wits about him._
 ---
 ### Synonyms
-- [[apropos]], [[as for]]
+- [[a/_apropos|apropos]]
 ---

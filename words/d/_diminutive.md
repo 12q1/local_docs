@@ -5,16 +5,16 @@
 	- _Example: Booklet, the diminutive of book, means ‘small book’._
 ---
 ### Synonyms
-- [[nomen deminutivum]], [[pet form]]
+- 
 ### Antonyms
-- [[augmentative]]
+- [[a/_augmentative|augmentative]]
 #adjective
 - **Very small.**
 - **Serving to [[d/_diminish|diminish]].**
 - **(grammar) Of or pertaining to, or [[c/_creating|creating]] a word form expressing smallness, youth, unimportance, or [[e/_endearment|endearment]].**
 ---
 ### Synonyms
-- [[lilliputian]], [[tiny]]
+- [[l/_lilliputian|lilliputian]], [[t/_tiny|tiny]]
 ### Antonyms
-- [[augmentative]], [[gigantic]], [[huge]]
+- [[a/_augmentative|augmentative]], [[g/_gigantic|gigantic]], [[h/_huge|huge]]
 ---

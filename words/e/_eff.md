@@ -5,5 +5,5 @@
 	- _Example: And he kept saying, "Effing this, effing that."_
 ---
 ### Synonyms
-- [[feck]], [[frak]], [[frig]]
+- [[f/_feck|feck]], [[f/_frak|frak]], [[f/_frig|frig]]
 ---

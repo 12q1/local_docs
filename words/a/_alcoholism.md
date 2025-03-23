@@ -5,5 +5,5 @@
 - **[[a/_acute|Acute]] [[a/_alcohol|alcohol]] poisoning.**
 ---
 ### Synonyms
-- [[dipsomania]]
+- [[d/_dipsomania|dipsomania]]
 ---

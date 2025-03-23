@@ -8,7 +8,7 @@
 - **A [[c/_charge|charge]] of misconduct [[b/_brought|brought]] in a legal proceeding.**
 - **The number of [[b/_balls|balls]] and strikes, respectively, on a [[b/_batter|batter]]'s in-progress plate [[a/_appearance|appearance]].**
 	- _Example: He has a 3–2 count with the bases loaded._
-- **An object of interest or [[a/_account|account]]; value; estimation.**
+- **An object of interest or [[a/_account|account]]; value; [[e/_estimation|estimation]].**
 ---
 #verb
 - **To recite numbers in sequence.**
@@ -25,7 +25,7 @@
 - **To plead orally; to [[a/_argue|argue]] a matter in [[c/_court|court]]; to recite a [[c/_count|count]].**
 ---
 ### Synonyms
-- [[enumerate]], [[number]]
+- [[e/_enumerate|enumerate]], [[n/_number|number]]
 #adjective
 - **(grammar) [[c/_countable|Countable]].**
 ---

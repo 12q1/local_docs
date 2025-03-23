@@ -15,5 +15,5 @@
 - **Steep or [[a/_abrupt|abrupt]].**
 ---
 ### Synonyms
-- [[audacious]], [[brave]], [[courageous]], [[daring]], [[doughty]], [[forward]]
+- [[a/_audacious|audacious]], [[b/_brave|brave]], [[c/_courageous|courageous]], [[d/_daring|daring]], [[d/_doughty|doughty]], [[f/_forward|forward]]
 ---

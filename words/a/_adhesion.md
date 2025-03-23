@@ -8,5 +8,5 @@
 - **The [[b/_binding|binding]] of a [[c/_cell|cell]] to a surface or substrate.**
 ---
 ### Antonyms
-- [[cohesion]]
+- [[c/_cohesion|cohesion]]
 ---

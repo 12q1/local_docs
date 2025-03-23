@@ -5,6 +5,6 @@
 	- _Example: He denuded himself of his clothes._
 ---
 #adjective
-- **Exposed by erosion**
+- **Exposed by [[e/_erosion|erosion]]**
 ---
 ---

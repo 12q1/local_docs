@@ -4,5 +4,5 @@
 - **Sociable.**
 ---
 ### Antonyms
-- [[unclubbable]]
+- [[u/_unclubbable|unclubbable]]
 ---

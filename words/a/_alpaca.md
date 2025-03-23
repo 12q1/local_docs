@@ -5,5 +5,5 @@
 - **Wool from the [[a/_alpaca|alpaca]].**
 ---
 ### Synonyms
-- [[alpaco]], [[paco]]
+- [[a/_alpaco|alpaco]], [[p/_paco|paco]]
 ---

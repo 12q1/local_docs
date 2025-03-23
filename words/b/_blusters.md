@@ -6,7 +6,7 @@
 - **Fitful noise and violence.**
 ---
 ### Synonyms
-- [[bombast]]
+- [[b/_bombast|bombast]]
 #verb
 - **To speak or protest loudly.**
 	- _Example: When confronted by opposition his reaction was to bluster, which often cowed the meek._

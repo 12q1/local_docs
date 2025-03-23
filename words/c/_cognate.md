@@ -12,5 +12,5 @@
 - **[[d/_descended|Descended]] from the same source lexeme of an [[a/_ancestor|ancestor]] language.**
 ---
 ### Synonyms
-- [[akin]], [[same-blooded]], [[allied]], [[connate]], [[kindred]]
+- [[a/_akin|akin]], [[s/_same-blooded|same-blooded]], [[a/_allied|allied]], [[c/_connate|connate]], [[k/_kindred|kindred]]
 ---

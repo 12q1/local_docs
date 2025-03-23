@@ -14,5 +14,5 @@
 	- _Example: emotional greeting_
 ---
 ### Synonyms
-- [[demonstrative]], [[effusive]], [[sentimental]], [[temperamental]]
+- [[d/_demonstrative|demonstrative]], [[e/_effusive|effusive]], [[s/_sentimental|sentimental]], [[t/_temperamental|temperamental]]
 ---

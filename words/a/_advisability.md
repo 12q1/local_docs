@@ -5,5 +5,5 @@
 - **An instance of [[a/_advisability|advisability]]; a [[c/_consideration|consideration]] in [[d/_determining|determining]] overall [[a/_advisability|advisability]].**
 ---
 ### Antonyms
-- [[inadvisability]]
+- [[i/_inadvisability|inadvisability]]
 ---

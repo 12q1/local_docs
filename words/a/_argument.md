@@ -17,7 +17,7 @@
 - **Matter for question; [[b/_business|business]] in hand.**
 ---
 ### Synonyms
-- [[actual argument]], [[passed parameter]]
+- 
 #verb
 - **(NNES) To put forward as an [[a/_argument|argument]]; to [[a/_argue|argue]].**
 ---

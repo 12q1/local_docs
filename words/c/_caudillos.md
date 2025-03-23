@@ -2,6 +2,6 @@
 ---
 #noun
 - **A leader.**
-- **A military [[d/_dictator|dictator]], especially one ruling in Latin [[a/_america|America]].**
+- **A military [[d/_dictator|dictator]], [[e/_especially|especially]] one ruling in Latin [[a/_america|America]].**
 ---
 ---

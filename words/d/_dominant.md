@@ -8,7 +8,7 @@
 - **(BDSM) The [[d/_dominating|dominating]] partner in sadomasochistic sexual [[a/_activity|activity]].**
 ---
 ### Synonyms
-- [[dominator]]
+- [[d/_dominator|dominator]]
 #adjective
 - **Ruling; governing; prevailing**
 	- _Example: The dominant party controlled the government._
@@ -17,7 +17,7 @@
 - **[[d/_designating|Designating]] the follicle which will survive [[a/_atresia|atresia]] and permit ovulation.**
 ---
 ### Synonyms
-- [[prevalent]], [[imposing]]
+- [[p/_prevalent|prevalent]], [[i/_imposing|imposing]]
 ### Antonyms
-- [[defiant]], [[obedient]], [[rebellious]], [[submissive]]
+- [[d/_defiant|defiant]], [[o/_obedient|obedient]], [[r/_rebellious|rebellious]], [[s/_submissive|submissive]]
 ---

@@ -6,7 +6,7 @@
 - **A loose-fitting uniform jacket.**
 ---
 ### Synonyms
-- [[bodice]]
+- [[b/_bodice|bodice]]
 #noun
 - **A prostitute.**
 ---
@@ -14,7 +14,7 @@
 - **A prostitute; a [[c/_courtesan|courtesan]].**
 ---
 ### Synonyms
-- [[blowen]]
+- [[b/_blowen|blowen]]
 #noun
 - **A ruddy, fat-faced woman; a wench.**
 ---

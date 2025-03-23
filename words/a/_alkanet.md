@@ -12,5 +12,5 @@
 - **Puccoon (Sanguinaria canadensis).**
 ---
 ### Synonyms
-- [[orchanet]]
+- [[o/_orchanet|orchanet]]
 ---

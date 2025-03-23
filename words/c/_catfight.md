@@ -7,5 +7,5 @@
 	- _Example: Nancy and Sheila got into a catfight when Nancy's boyfriend cheated on her with Sheila._
 ---
 ### Synonyms
-- [[hairpulling contest]], [[scragfight]]
+- [[s/_scragfight|scragfight]]
 ---

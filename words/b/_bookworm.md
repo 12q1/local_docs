@@ -5,5 +5,5 @@
 - **An [[a/_avid|avid]] [[b/_book|book]] reader.**
 ---
 ### Synonyms
-- [[bibliophage]], [[bibliophile]], [[book lover]], [[librovore]]
+- [[b/_bibliophage|bibliophage]], [[b/_bibliophile|bibliophile]], [[l/_librovore|librovore]]
 ---

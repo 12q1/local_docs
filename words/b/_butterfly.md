@@ -10,7 +10,7 @@
 - **Someone seen as [[b/_being|being]] unserious and (originally) [[d/_dressed|dressed]] gaudily; someone flighty and unreliable.**
 ---
 ### Synonyms
-- [[lep]]
+- [[l/_lep|lep]]
 #verb
 - **To [[c/_cut|cut]] (food) [[a/_almost|almost]] [[e/_entirely|entirely]] in half and spread the halves [[a/_apart|apart]], in a shape suggesting the wings of a [[b/_butterfly|butterfly]].**
 	- _Example: Butterfly the chicken before you grill it._

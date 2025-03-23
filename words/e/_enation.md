@@ -5,5 +5,5 @@
 - **The generation of such an outgrowth.**
 ---
 ### Synonyms
-- [[gall]]
+- [[g/_gall|gall]]
 ---

@@ -21,7 +21,7 @@
 	- _Example: Wait till I catch you, you little basket!_
 ---
 ### Synonyms
-- [[basketball]], [[hoop]], [[cart]], [[shopping basket]], [[shopping cart]], [[cart]], [[shopping basket]], [[shopping cart]]
+- [[b/_basketball|basketball]], [[h/_hoop|hoop]], [[c/_cart|cart]], [[c/_cart|cart]]
 #verb
 - **To place in a [[b/_basket|basket]] or [[b/_baskets|baskets]].**
 - **To [[c/_cross|cross]]-[[c/_collateralize|collateralize]] the royalty [[a/_advances|advances]] for multiple works so that the [[c/_creator|creator]] is not paid until [[a/_all|all]] of those works have [[a/_achieved|achieved]] a [[c/_certain|certain]] level of success.**

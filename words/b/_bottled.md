@@ -11,7 +11,7 @@
 	- _Example: Liverpool bottled the Premier League._
 - **To strike (someone) with a [[b/_bottle|bottle]].**
 	- _Example: He was bottled at a nightclub and had to have facial surgery._
-- **To pelt (a musical [[a/_act|act]] on stage, etc.) with [[b/_bottles|bottles]] as a sign of [[d/_disapproval|disapproval]].**
+- **To pelt (a musical [[a/_act|act]] on stage, [[e/_etc|etc]].) with [[b/_bottles|bottles]] as a sign of [[d/_disapproval|disapproval]].**
 	- _Example: Meat Loaf was once bottled at Reading Festival._
 ---
 #adjective
@@ -21,5 +21,5 @@
 - **Kept in restraint; [[b/_bottled|bottled]] up.**
 ---
 ### Synonyms
-- [[contained]], [[suppressed]], [[lecythiform]]
+- [[c/_contained|contained]], [[s/_suppressed|suppressed]], [[l/_lecythiform|lecythiform]]
 ---

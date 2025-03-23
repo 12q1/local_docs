@@ -8,5 +8,5 @@
 - **Written as [[b/_bill|bill]] hook: a sharply pointed spike growing from the tip of the upper mandible of the hatchlings of honeyguides, used to [[d/_destroy|destroy]] the [[e/_eggs|eggs]] and kill the [[c/_chicks|chicks]] of the host species.**
 ---
 ### Synonyms
-- [[Yorkshire bill]], [[bill]], [[block hook]], [[broom hook]], [[hack]], [[hacker]], [[handbill]], [[hedge bill]], [[hedging bill]], [[hedging-bill]], [[pruning hook]], [[vine hook]]
+- [[b/_bill|bill]], [[h/_hack|hack]], [[h/_hacker|hacker]], [[h/_handbill|handbill]], [[h/_hedging-bill|hedging-bill]]
 ---

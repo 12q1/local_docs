@@ -7,13 +7,13 @@
 	- _Example: The G-men raiding the speakeasy were equipped with .45 automatics, while the local policemen were carrying revolvers and shotguns._
 ---
 ### Antonyms
-- [[manual transmission]], [[standard transmission]], [[stick]], [[stickshift]]
+- [[s/_stick|stick]], [[s/_stickshift|stickshift]]
 #adjective
 - **[[c/_capable|Capable]] of operating without external [[c/_control|control]] or intervention.**
 	- _Example: The automatic clothes washer was a great labor-saving device._
 - **[[d/_done|Done]] out of habit or without [[c/_conscious|conscious]] thought.**
 	- _Example: Absent-minded doodling is a form of automatic art._
-- **Necessary, inevitable, prescribed by logic, law, etc.**
+- **Necessary, inevitable, prescribed by logic, law, [[e/_etc|etc]].**
 	- _Example: Spitting at another player means an automatic red card._
 - **(of a firearm such as a machine gun) Firing [[c/_continuously|continuously]] as long as the trigger is pressed until [[a/_ammunition|ammunition]] is exhausted.**
 	- _Example: Fully automatic weapons cannot be legally owned by private citizens in the US, except in very special circumstances, as by private security companies._
@@ -23,7 +23,7 @@
 - **(of a group) Having one or more finite-state [[a/_automata|automata]]**
 ---
 ### Synonyms
-- [[instinctive]], [[perfunctory]], [[thoughtless]]
+- [[i/_instinctive|instinctive]], [[p/_perfunctory|perfunctory]], [[t/_thoughtless|thoughtless]]
 ### Antonyms
-- [[manual]], [[non-automatic]], [[voluntary]]
+- [[m/_manual|manual]], [[n/_non-automatic|non-automatic]], [[v/_voluntary|voluntary]]
 ---

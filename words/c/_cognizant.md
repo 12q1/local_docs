@@ -5,5 +5,5 @@
 	- _Example: The defendant is cognizant that this is a serious charge._
 ---
 ### Antonyms
-- [[unwitting]]
+- [[u/_unwitting|unwitting]]
 ---

@@ -1,7 +1,7 @@
 # Accepting
 ---
 #verb
-- **To receive, especially with a [[c/_consent|consent]], with favour, or with [[a/_approval|approval]].**
+- **To receive, [[e/_especially|especially]] with a [[c/_consent|consent]], with favour, or with [[a/_approval|approval]].**
 - **To [[a/_admit|admit]] to a place or a group.**
 	- _Example: The Boy Scouts were going to accept him as a member._
 - **To regard as proper, usual, true, or to [[b/_believe|believe]] in.**
@@ -18,9 +18,9 @@
 	- _Example: I accept._
 ---
 ### Synonyms
-- [[admit]], [[onfang]], [[receive]], [[take]], [[withtake]]
+- [[a/_admit|admit]], [[o/_onfang|onfang]], [[r/_receive|receive]], [[t/_take|take]], [[w/_withtake|withtake]]
 ### Antonyms
-- [[decline]], [[reject]]
+- [[d/_decline|decline]], [[r/_reject|reject]]
 #adjective
 - **[[c/_characterized|Characterized]] by [[a/_acceptance|acceptance]].**
 ---

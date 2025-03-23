@@ -10,5 +10,5 @@
 - **[[c/_catachrestic|Catachrestic]].**
 ---
 ### Synonyms
-- [[berating]], [[injurious]], [[insolent]], [[insulting]], [[offensive]], [[opprobrious]], [[reproachful]], [[reviling]], [[scurrilous]], [[vituperative]]
+- [[b/_berating|berating]], [[i/_injurious|injurious]], [[i/_insolent|insolent]], [[i/_insulting|insulting]], [[o/_offensive|offensive]], [[o/_opprobrious|opprobrious]], [[r/_reproachful|reproachful]], [[r/_reviling|reviling]], [[s/_scurrilous|scurrilous]], [[v/_vituperative|vituperative]]
 ---

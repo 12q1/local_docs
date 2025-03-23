@@ -3,11 +3,11 @@
 #noun
 - **A small [[d/_depression|depression]] or indentation in a surface.**
 	- _Example: The accident created a dimple in the hood of the car._
-- **Specifically, a small natural [[d/_depression|depression]] on the skin, especially on the face near the [[c/_corners|corners]] of the mouth.**
+- **Specifically, a small natural [[d/_depression|depression]] on the skin, [[e/_especially|especially]] on the face near the [[c/_corners|corners]] of the mouth.**
 	- _Example: You have very cute dimples._
 ---
 ### Synonyms
-- [[dent]]
+- [[d/_dent|dent]]
 #verb
 - **To [[c/_create|create]] a [[d/_dimple|dimple]] in.**
 	- _Example: The hailstorm dimpled the roof of our car._
@@ -16,5 +16,5 @@
 - **To form [[d/_dimples|dimples]]; to sink into [[d/_depressions|depressions]] or little inequalities.**
 ---
 ### Synonyms
-- [[dent]], [[mar]]
+- [[d/_dent|dent]], [[m/_mar|mar]]
 ---

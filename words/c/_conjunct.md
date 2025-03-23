@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[e/_either|Either]] term of a [[c/_conjunction|conjunction]].**
-- **An [[a/_adjunct|adjunct]] that supplements a sentence with information, [[c/_connecting|connecting]] the sentence with previous parts of the [[d/_discourse|discourse]]. Not [[c/_considered|considered]] to be an essential part of the propositional [[c/_content|content]].**
+- **An [[a/_adjunct|adjunct]] that supplements a sentence with information, [[c/_connecting|connecting]] the sentence with previous parts of the [[d/_discourse|discourse]]. Not [[c/_considered|considered]] to be an [[e/_essential|essential]] part of the propositional [[c/_content|content]].**
 ---
 #adjective
 - **[[c/_conjoined|Conjoined]].**
@@ -10,5 +10,5 @@
 - **[[a/_acting|Acting]] together; [[c/_collaborative|collaborative]].**
 ---
 ### Antonyms
-- [[disjunct]]
+- [[d/_disjunct|disjunct]]
 ---

@@ -5,5 +5,5 @@
 - **Operating or functioning in two [[d/_directions|directions]] (usually opposite).**
 ---
 ### Antonyms
-- [[unidirectional]]
+- [[u/_unidirectional|unidirectional]]
 ---

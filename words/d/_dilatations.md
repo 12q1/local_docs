@@ -6,5 +6,5 @@
 - **A [[d/_dilation|dilation]] or [[e/_enlargement|enlargement]] of a [[c/_canal|canal]] or other organ.**
 ---
 ### Synonyms
-- [[dilation]], [[dilation]]
+- [[d/_dilation|dilation]], [[d/_dilation|dilation]]
 ---

@@ -10,5 +10,5 @@
 - **A [[c/_conker|conker]] with a flat side.**
 ---
 ### Synonyms
-- [[shit-eating grin]], [[geriatric]], [[oldster]], [[senior citizen]], [[affineur]], [[cheesemaker]], [[cheesemonger]], [[fromager]]
+- [[g/_geriatric|geriatric]], [[o/_oldster|oldster]], [[a/_affineur|affineur]], [[c/_cheesemaker|cheesemaker]], [[c/_cheesemonger|cheesemonger]], [[f/_fromager|fromager]]
 ---

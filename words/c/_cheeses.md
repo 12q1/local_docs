@@ -5,11 +5,11 @@
 	- _Example: Jesus, that was close!_
 ---
 ### Synonyms
-- [[Christ]], [[God]], [[Jesus Christ]]
+- [[C/_Christ|Christ]], [[G/_God|God]]
 #noun
 - **A [[d/_dairy|dairy]] product made from [[c/_curdled|curdled]] or [[c/_cultured|cultured]] milk.**
 - **[[a/_any|Any]] particular variety of [[c/_cheese|cheese]].**
-- **A piece of [[c/_cheese|cheese]], especially one moulded into a large round shape [[d/_during|during]] manufacture.**
+- **A piece of [[c/_cheese|cheese]], [[e/_especially|especially]] one moulded into a large round shape [[d/_during|during]] manufacture.**
 - **That which is melodramatic, overly [[e/_emotional|emotional]], or [[c/_clich|clich]]é, i.[[e/_e|e]]. [[c/_cheesy|cheesy]].**
 - **Money.**
 - **In skittles, the roughly ovoid object that is thrown to knock [[d/_down|down]] the skittles.**
@@ -22,7 +22,7 @@
 - **A low [[c/_curtsey|curtsey]]; so [[c/_called|called]] on [[a/_account|account]] of the [[c/_cheese|cheese]] shape [[a/_assumed|assumed]] by a woman's [[d/_dress|dress]] when she stoops [[a/_after|after]] extending the skirts by a rapid gyration.**
 ---
 ### Antonyms
-- [[fill]]
+- [[f/_fill|fill]]
 #verb
 - **To prepare [[c/_curds|curds]] for making [[c/_cheese|cheese]].**
 - **To make holes in a pattern of [[c/_circuitry|circuitry]] to [[d/_decrease|decrease]] pattern [[d/_density|density]].**
@@ -37,8 +37,8 @@
 #verb
 - **To use an unsporting tactic; to repeatedly use an [[a/_attack|attack]] which is overpowered or [[d/_difficult|difficult]] to [[c/_counter|counter]].**
 	- _Example: You can cheese most of the game using certain exploits._
-- **To use an unconventional, [[a/_all|all]]-in strategy to take one's opponent by surprise [[e/_early|early]] in the game (especially for real-time strategy games).**
+- **To use an unconventional, [[a/_all|all]]-in strategy to take one's opponent by surprise [[e/_early|early]] in the game ([[e/_especially|especially]] for real-time strategy games).**
 ---
 ### Synonyms
-- [[rush]], [[zerg]]
+- [[r/_rush|rush]], [[z/_zerg|zerg]]
 ---

@@ -11,5 +11,5 @@
 - **A type of thick rice porridge or soup, sometimes prepared with vegetables and/or meat.**
 ---
 ### Synonyms
-- [[porridge]], [[rice congee]], [[rice porridge]]
+- [[p/_porridge|porridge]]
 ---

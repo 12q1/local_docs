@@ -10,5 +10,5 @@
 - **Vagina**
 ---
 ### Synonyms
-- [[French roll]], [[hair bun]], [[cake]]
+- [[c/_cake|cake]]
 ---

@@ -7,5 +7,5 @@
 	- _Example: The brakes produce a deceleration of 10 metres per second._
 ---
 ### Antonyms
-- [[acceleration]]
+- [[a/_acceleration|acceleration]]
 ---

@@ -8,5 +8,5 @@
 - **A species of moth, Craniophora ligustri.**
 ---
 ### Synonyms
-- [[ensign]], [[second lieutenant]]
+- [[e/_ensign|ensign]]
 ---

@@ -5,5 +5,5 @@
 - **To be an [[e/_epitome|epitome]] of.**
 ---
 ### Synonyms
-- [[sum up]]
+- 
 ---

@@ -5,5 +5,5 @@
 - **To settle [[c/_comfortably|comfortably]].**
 ---
 ### Synonyms
-- [[cuddle up]]
+- 
 ---

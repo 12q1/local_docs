@@ -8,5 +8,5 @@
 - **(usually in the plural) The private parts; a woman's [[b/_breasts|breasts]] or [[b/_buttocks|buttocks]], or a man's genitalia.**
 ---
 ### Antonyms
-- [[liability]]
+- [[l/_liability|liability]]
 ---

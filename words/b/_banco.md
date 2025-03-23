@@ -1,7 +1,7 @@
 # Banco
 ---
 #noun
-- **A [[b/_bank|bank]], especially that of Venice; formerly used to indicate [[b/_bank|bank]] money, as [[d/_distinguished|distinguished]] from the [[c/_current|current]] money when it has [[b/_become|become]] [[d/_depreciated|depreciated]].**
+- **A [[b/_bank|bank]], [[e/_especially|especially]] that of Venice; formerly used to indicate [[b/_bank|bank]] money, as [[d/_distinguished|distinguished]] from the [[c/_current|current]] money when it has [[b/_become|become]] [[d/_depreciated|depreciated]].**
 	- _Example: banco money_
 ---
 #adjective

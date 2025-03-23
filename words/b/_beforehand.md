@@ -9,7 +9,7 @@
 	- _Example: Will it be possible to have access to the room beforehand so that we can set up chairs?_
 ---
 ### Synonyms
-- [[in advance]], [[upfront]]
+- [[u/_upfront|upfront]]
 ### Antonyms
-- [[afterwards]]
+- [[a/_afterwards|afterwards]]
 ---

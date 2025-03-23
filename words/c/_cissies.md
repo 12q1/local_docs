@@ -10,9 +10,9 @@
 - **Sister.**
 ---
 ### Synonyms
-- [[cot-quean]], [[janegirl]], [[sis]], [[milquetoast]], [[nancy]], [[quiche-eater]]
+- [[c/_cot-quean|cot-quean]], [[j/_janegirl|janegirl]], [[s/_sis|sis]], [[m/_milquetoast|milquetoast]], [[n/_nancy|nancy]], [[q/_quiche-eater|quiche-eater]]
 ### Antonyms
-- [[non-sissy]], [[unsissy]]
+- [[n/_non-sissy|non-sissy]], [[u/_unsissy|unsissy]]
 #noun
 - **Urination; urine.**
 ---

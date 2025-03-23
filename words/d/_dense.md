@@ -13,7 +13,7 @@
 - **(of a person) Slow to [[c/_comprehend|comprehend]]; of low intelligence.**
 ---
 ### Synonyms
-- [[abstruse]], [[difficult]], [[hard]], [[incomprehensible]], [[obscure]], [[tough]], [[cloudy]], [[opaque]], [[compact]], [[crowded]], [[packed]], [[dumb]], [[slow]], [[stupid]], [[thick]], [[solid]], [[solid]], [[thick]]
+- [[a/_abstruse|abstruse]], [[d/_difficult|difficult]], [[h/_hard|hard]], [[i/_incomprehensible|incomprehensible]], [[o/_obscure|obscure]], [[t/_tough|tough]], [[c/_cloudy|cloudy]], [[o/_opaque|opaque]], [[c/_compact|compact]], [[c/_crowded|crowded]], [[p/_packed|packed]], [[d/_dumb|dumb]], [[s/_slow|slow]], [[s/_stupid|stupid]], [[t/_thick|thick]], [[s/_solid|solid]], [[s/_solid|solid]], [[t/_thick|thick]]
 ### Antonyms
-- [[diffuse]], [[few and far between]], [[rarefied]], [[scattered]], [[sparse]], [[bright]], [[canny]], [[intelligent]], [[quick]], [[quick-witted]], [[smart]], [[clear]], [[comprehensible]], [[easy]], [[simple]], [[straightforward]], [[understandable]], [[clear]], [[diaphanous]], [[see-through]], [[translucent]], [[transparent]], [[diffuse]], [[meager]], [[thin]]
+- [[d/_diffuse|diffuse]], [[r/_rarefied|rarefied]], [[s/_scattered|scattered]], [[s/_sparse|sparse]], [[b/_bright|bright]], [[c/_canny|canny]], [[i/_intelligent|intelligent]], [[q/_quick|quick]], [[q/_quick-witted|quick-witted]], [[s/_smart|smart]], [[c/_clear|clear]], [[c/_comprehensible|comprehensible]], [[e/_easy|easy]], [[s/_simple|simple]], [[s/_straightforward|straightforward]], [[u/_understandable|understandable]], [[c/_clear|clear]], [[d/_diaphanous|diaphanous]], [[s/_see-through|see-through]], [[t/_translucent|translucent]], [[t/_transparent|transparent]], [[d/_diffuse|diffuse]], [[m/_meager|meager]], [[t/_thin|thin]]
 ---

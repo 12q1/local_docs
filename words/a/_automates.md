@@ -5,5 +5,5 @@
 	- _Example: Many offices still need to automate._
 ---
 ### Synonyms
-- [[robotize]]
+- [[r/_robotize|robotize]]
 ---

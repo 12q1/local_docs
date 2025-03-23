@@ -12,5 +12,5 @@
 	- _Example: Gerald checked himself into the hospital because he was dissociating._
 ---
 ### Antonyms
-- [[associate]]
+- [[a/_associate|associate]]
 ---

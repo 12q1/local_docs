@@ -7,5 +7,5 @@
 - **Penis**
 ---
 ### Synonyms
-- [[dink]], [[doofus]], [[thingamajig]]
+- [[d/_dink|dink]], [[d/_doofus|doofus]], [[t/_thingamajig|thingamajig]]
 ---

@@ -7,5 +7,5 @@
 - **(pharmaceutical [[e/_effect|effect]]) Generating sweat or perspiration.**
 ---
 ### Synonyms
-- [[sudorific]]
+- [[s/_sudorific|sudorific]]
 ---

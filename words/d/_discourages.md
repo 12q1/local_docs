@@ -6,7 +6,7 @@
 - **To persuade somebody not to [[d/_do|do]] (something).**
 ---
 ### Synonyms
-- [[becourage]], [[deter]], [[dissuade]]
+- [[b/_becourage|becourage]], [[d/_deter|deter]], [[d/_dissuade|dissuade]]
 ### Antonyms
-- [[encourage]]
+- [[e/_encourage|encourage]]
 ---

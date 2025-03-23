@@ -5,5 +5,5 @@
 - **A team or organization which has an extended period of success or [[d/_dominant|dominant]] performance.**
 ---
 ### Synonyms
-- [[house]]
+- [[h/_house|house]]
 ---

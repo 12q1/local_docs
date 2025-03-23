@@ -4,5 +4,5 @@
 - **A house or [[b/_barn|barn]] for keeping [[c/_cows|cows]].**
 ---
 ### Synonyms
-- [[cowshed]]
+- [[c/_cowshed|cowshed]]
 ---

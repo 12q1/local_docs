@@ -6,5 +6,5 @@
 - **A fragrant herb in the mint family native to the [[e/_eastern|eastern]] US, [[c/_cunila|Cunila]] origanoides**
 ---
 ### Synonyms
-- [[burning bush]], [[fraxinella]], [[gas plant]]
+- [[f/_fraxinella|fraxinella]]
 ---

@@ -5,5 +5,5 @@
 	- _Example: He would sometimes downplay his Princeton education by saying simply that he went to school in New Jersey._
 ---
 ### Synonyms
-- [[trivialize]], [[understate]]
+- [[t/_trivialize|trivialize]], [[u/_understate|understate]]
 ---

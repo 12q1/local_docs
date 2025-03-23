@@ -5,5 +5,5 @@
 - **An [[a/_atom|atom]] of this [[e/_element|element]].**
 ---
 ### Synonyms
-- [[glucinium]], [[glucinum]]
+- [[g/_glucinium|glucinium]], [[g/_glucinum|glucinum]]
 ---

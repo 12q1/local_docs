@@ -1,6 +1,6 @@
 # Ep
 ---
 #noun
-- **[[e/_episode|Episode]] (of a TV serial, etc.)**
+- **[[e/_episode|Episode]] (of a TV serial, [[e/_etc|etc]].)**
 ---
 ---

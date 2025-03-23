@@ -15,7 +15,7 @@
 - **To stun, [[a/_amaze|amaze]]**
 ---
 ### Synonyms
-- [[confuse]], [[mix up]], [[puzzle]]
+- [[c/_confuse|confuse]], [[p/_puzzle|puzzle]]
 #noun
 - **The [[a/_act|act]] by which things are [[c/_confounded|confounded]], or [[c/_confused|confused]].**
 - **The process by which an [[a/_apparent|apparent]] [[a/_association|association]] [[b/_between|between]] an exposure and an outcome is [[a/_actually|actually]] explained by [[a/_another|another]] factor.**

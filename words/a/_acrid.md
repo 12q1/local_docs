@@ -9,7 +9,7 @@
 	- _Example: That man has an acrid temper._
 ---
 ### Synonyms
-- [[acerbic]], [[acrimonious]], [[acrimonious]], [[pungent]], [[corrosive]]
+- [[a/_acerbic|acerbic]], [[a/_acrimonious|acrimonious]], [[a/_acrimonious|acrimonious]], [[p/_pungent|pungent]], [[c/_corrosive|corrosive]]
 ### Antonyms
-- [[delectable]], [[delicious]], [[tasteful]]
+- [[d/_delectable|delectable]], [[d/_delicious|delicious]], [[t/_tasteful|tasteful]]
 ---

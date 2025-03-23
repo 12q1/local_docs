@@ -6,7 +6,7 @@
 - **To give spirit or vigour to; to stimulate or [[e/_enliven|enliven]]; to inspirit.**
 ---
 ### Synonyms
-- [[enliven]], [[vitalise]]
+- [[e/_enliven|enliven]], [[v/_vitalise|vitalise]]
 #adjective
 - **That which lives.**
 - **Possessing the quality or [[a/_ability|ability]] of motion.**
@@ -17,7 +17,7 @@
 - **(grammar) Inflected to [[a/_agree|agree]] with an [[a/_animate|animate]] noun or pronoun.**
 ---
 ### Synonyms
-- [[active]], [[dynamic]], [[energetic]], [[lively]], [[perky]], [[vivacious]], [[astir]], [[dynamic]], [[kinetic]], [[motile]], [[alive]], [[live]], [[living]], [[alive]], [[living]], [[vital]]
+- [[a/_active|active]], [[d/_dynamic|dynamic]], [[e/_energetic|energetic]], [[l/_lively|lively]], [[p/_perky|perky]], [[v/_vivacious|vivacious]], [[a/_astir|astir]], [[d/_dynamic|dynamic]], [[k/_kinetic|kinetic]], [[m/_motile|motile]], [[a/_alive|alive]], [[l/_live|live]], [[l/_living|living]], [[a/_alive|alive]], [[l/_living|living]], [[v/_vital|vital]]
 ### Antonyms
-- [[static]], [[inanimate]], [[inanimate]], [[fixed]], [[immobile]], [[static]], [[stationary]], [[still]]
+- [[s/_static|static]], [[i/_inanimate|inanimate]], [[i/_inanimate|inanimate]], [[f/_fixed|fixed]], [[i/_immobile|immobile]], [[s/_static|static]], [[s/_stationary|stationary]], [[s/_still|still]]
 ---

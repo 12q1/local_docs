@@ -1,8 +1,8 @@
 # Eludes
 ---
 #verb
-- **To evade, or escape from someone or something, especially by using [[c/_cunning|cunning]] or skill**
+- **To evade, or [[e/_escape|escape]] from someone or something, [[e/_especially|especially]] by using [[c/_cunning|cunning]] or skill**
 - **To shake off a pursuer; to give someone the slip**
-- **To escape understanding of; to be incomprehensible to**
+- **To [[e/_escape|escape]] understanding of; to be incomprehensible to**
 ---
 ---

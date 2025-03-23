@@ -6,5 +6,5 @@
 - **The tie or relation responsible for holding properties in the [[b/_bundle|bundle]] theory of substance. [[a/_also|Also]] [[c/_called|called]] 'togetherness'**
 ---
 ### Synonyms
-- [[coexistence]], [[concurrency]], [[copresence]], [[togetherness]]
+- [[c/_coexistence|coexistence]], [[c/_concurrency|concurrency]], [[c/_copresence|copresence]], [[t/_togetherness|togetherness]]
 ---

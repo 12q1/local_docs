@@ -12,7 +12,7 @@
 - **[[c/_canada|Canada]] [[b/_balsam|balsam]], a turpentine obtained from the resin of [[b/_balsam|balsam]] fir.**
 ---
 ### Synonyms
-- [[impatiens]], [[jewelweed]], [[touch-me-not]], [[balm]], [[balm]], [[balm]], [[balm]]
+- [[i/_impatiens|impatiens]], [[j/_jewelweed|jewelweed]], [[t/_touch-me-not|touch-me-not]], [[b/_balm|balm]], [[b/_balm|balm]], [[b/_balm|balm]], [[b/_balm|balm]]
 #verb
 - **To treat or [[a/_anoint|anoint]] with [[b/_balsam|balsam]].**
 ---

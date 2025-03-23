@@ -19,5 +19,5 @@
 - **The visual indication of a [[c/_colour|colour]] light (or mechanical) signal as [[d/_displayed|displayed]] to the [[d/_driver|driver]]. With [[c/_colour|colour]] light signals this would be red, yellow or green.**
 ---
 ### Synonyms
-- [[appearance]], [[blee]], [[look]], [[facet]]
+- [[a/_appearance|appearance]], [[b/_blee|blee]], [[l/_look|look]], [[f/_facet|facet]]
 ---

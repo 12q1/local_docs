@@ -6,5 +6,5 @@
 - **A [[c/_costume|costume]] [[d/_drama|drama]].**
 ---
 ### Synonyms
-- [[costumier]]
+- [[c/_costumier|costumier]]
 ---

@@ -6,6 +6,6 @@
 - **A worker in [[c/_charge|charge]] of the wagonway, reporting to the [[d/_deputy|deputy]].**
 ---
 #noun
-- **The white linen [[c/_cloth|cloth]] on which the [[e/_elements|elements]] of the Eucharist are placed; a [[c/_communion|communion]] [[c/_cloth|cloth]].**
+- **The white linen [[c/_cloth|cloth]] on which the [[e/_elements|elements]] of the [[e/_eucharist|Eucharist]] are placed; a [[c/_communion|communion]] [[c/_cloth|cloth]].**
 ---
 ---

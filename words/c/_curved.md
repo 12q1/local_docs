@@ -16,7 +16,7 @@
 - **Having a [[c/_curve|curve]] or [[c/_curves|curves]].**
 ---
 ### Synonyms
-- [[curvy]], [[sinuous]], [[tortuous]], [[wavy]]
+- [[c/_curvy|curvy]], [[s/_sinuous|sinuous]], [[t/_tortuous|tortuous]], [[w/_wavy|wavy]]
 ### Antonyms
-- [[straight]]
+- [[s/_straight|straight]]
 ---

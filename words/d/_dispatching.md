@@ -8,12 +8,12 @@
 - **To [[d/_dispose|dispose]] of speedily, as [[b/_business|business]]; to execute quickly; to make a speedy [[e/_end|end]] of; to finish; to perform.**
 - **To rid; to free.**
 - **To [[d/_destroy|destroy]] quickly and [[e/_efficiently|efficiently]].**
-- **To pass on for further processing, especially via a [[d/_dispatch|dispatch]] table (often with to).**
+- **To pass on for further processing, [[e/_especially|especially]] via a [[d/_dispatch|dispatch]] table (often with to).**
 - **To hurry.**
 - **To [[d/_deprive|deprive]].**
 ---
 ### Synonyms
-- [[destroy]], [[kill]], [[make haste]], [[send]]
+- [[d/_destroy|destroy]], [[k/_kill|kill]], [[s/_send|send]]
 #noun
 - **The sending of somebody or something to a [[d/_destination|destination]] for a purpose.**
 - **[[b/_burial|Burial]]**

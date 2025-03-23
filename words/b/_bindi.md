@@ -5,5 +5,5 @@
 - **Makeup or jewellery worn in imitation of such a [[d/_dot|dot]].**
 ---
 ### Synonyms
-- [[kumkum]], [[pottu]], [[sindoor]], [[tika]], [[tilak]], [[tilakam]]
+- [[k/_kumkum|kumkum]], [[p/_pottu|pottu]], [[s/_sindoor|sindoor]], [[t/_tika|tika]], [[t/_tilak|tilak]], [[t/_tilakam|tilakam]]
 ---

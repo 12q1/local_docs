@@ -8,7 +8,7 @@
 - **To pull off, tear [[a/_apart|apart]].**
 ---
 ### Synonyms
-- [[distress]]
+- [[d/_distress|distress]]
 #noun
 - **The [[a/_act|act]] or process by which something is [[d/_distrained|distrained]].**
 ---

@@ -14,7 +14,7 @@
 - **Initialism of medium coeli, the midheaven or highest point in the sky. [[c/_contrasted|Contrasted]] to Imum Coeli.**
 ---
 #noun
-- **A medical facility, such as a hospital, especially one for the treatment and [[d/_diagnosis|diagnosis]] of outpatients.**
+- **A medical facility, such as a hospital, [[e/_especially|especially]] one for the treatment and [[d/_diagnosis|diagnosis]] of outpatients.**
 - **(by extension) A hospital session to [[d/_diagnose|diagnose]] or treat patients.**
 - **A school, or a session of a school or [[c/_class|class]], in which medicine or surgery is taught by the examination and treatment of patients in the presence of the pupils.**
 - **A group practice of several physicians.**
@@ -29,21 +29,21 @@
 - **To rap as part of a hip-hop performance.**
 ---
 ### Synonyms
-- [[compere]], [[rap]]
+- [[c/_compere|compere]], [[r/_rap|rap]]
 #noun
 - **A large medical facility, usually in a [[b/_building|building]] with multiple floors, where seriously ill or injured patients are given extensive medical and/or surgical treatment.**
 - **A [[b/_building|building]] founded for the long-term [[c/_care|care]] of its residents, such as an [[a/_almshouse|almshouse]]. The residents may have no physical [[a/_ailments|ailments]], but simply need financial support.**
 - **A place of lodging.**
 ---
 ### Synonyms
-- [[infirmary]], [[sickhouse]]
+- [[i/_infirmary|infirmary]], [[s/_sickhouse|sickhouse]]
 #noun
 - **Someone who [[a/_acts|acts]] as a host at a formal event.**
 - **Someone who [[c/_conducts|conducts]] a programme of varied [[e/_entertainment|entertainment]], for example by introducing performers to the [[a/_audience|audience]].**
 - **A rapper.**
 ---
 ### Synonyms
-- [[MC]], [[compere]], [[host]], [[presenter]], [[toastmaster]], [[MC]], [[emcee]], [[MC]], [[interlocuter]]
+- [[M/_MC|MC]], [[c/_compere|compere]], [[h/_host|host]], [[p/_presenter|presenter]], [[t/_toastmaster|toastmaster]], [[M/_MC|MC]], [[e/_emcee|emcee]], [[M/_MC|MC]], [[i/_interlocuter|interlocuter]]
 #noun
 - **[[d/_dichloromethane|Dichloromethane]]**
 ---
@@ -51,7 +51,7 @@
 - **A viral infection of the skin or (occasionally) mucous membranes, [[c/_caused|caused]] by Molluscum contagiosum virus (MCV), a DNA poxvirus.**
 ---
 ### Synonyms
-- [[MC]], [[water wart]]
+- [[M/_MC|MC]]
 #noun
 - **A group of individuals whose primary interests and [[a/_activities|activities]] involve motorcycles.**
 ---
@@ -60,5 +60,5 @@
 - **A room or [[a/_area|area]] for the treatment of the sick or injured in a school.**
 ---
 ### Synonyms
-- [[infirmary]]
+- [[i/_infirmary|infirmary]]
 ---

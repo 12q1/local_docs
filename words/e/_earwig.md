@@ -6,7 +6,7 @@
 - **A flatterer.**
 ---
 ### Synonyms
-- [[forkytail]]
+- [[f/_forkytail|forkytail]]
 #verb
 - **To fill the mind of with prejudice by insinuations.**
 - **To [[a/_attempt|attempt]] to influence by persistent [[c/_confidential|confidential]] [[a/_argument|argument]] or talk.**

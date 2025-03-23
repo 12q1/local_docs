@@ -7,5 +7,5 @@
 	- _Example: The awareness of one type of idea naturally fosters an awareness of another idea_
 ---
 ### Synonyms
-- [[consciousness]], [[knowledge]], [[consciousness]], [[wakefulness]]
+- [[c/_consciousness|consciousness]], [[k/_knowledge|knowledge]], [[c/_consciousness|consciousness]], [[w/_wakefulness|wakefulness]]
 ---

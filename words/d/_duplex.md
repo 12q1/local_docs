@@ -19,5 +19,5 @@
 - **Having horizons with [[c/_contrasting|contrasting]] textures.**
 ---
 ### Antonyms
-- [[simplex]]
+- [[s/_simplex|simplex]]
 ---

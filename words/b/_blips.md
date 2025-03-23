@@ -6,7 +6,7 @@
 - **To [[e/_edit|edit]] out inappropriate spoken language in a [[b/_broadcast|broadcast]] by replacing offending words with [[b/_bleeps|bleeps]].**
 ---
 ### Synonyms
-- [[blip]]
+- [[b/_blip|blip]]
 #noun
 - **A small [[d/_dot|dot]] registered on [[e/_electronic|electronic]] [[e/_equipment|equipment]], such as a radar or oscilloscope screen.**
 - **A short sound of a single pitch, usually [[e/_electronically|electronically]] generated.**

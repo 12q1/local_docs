@@ -5,10 +5,10 @@
 	- _Example: Ever since he choked on a bone, he has refused to eat fish._
 - **To prevent (someone) from [[b/_breathing|breathing]] or talking by strangling or filling the windpipe.**
 	- _Example: The collar of this shirt is too tight; it’s choking me._
-- **To obstruct (a passage, etc.) by filling it up or [[c/_clogging|clogging]] it.**
+- **To obstruct (a passage, [[e/_etc|etc]].) by filling it up or [[c/_clogging|clogging]] it.**
 	- _Example: to choke a cave passage with boulders and mud_
-- **To hinder or [[c/_check|check]], as growth, expansion, progress, etc.; to kill (a plant by robbing it of nutrients); to extinguish (fire by robbing it of oxygen).**
-- **To perform [[b/_badly|badly]] at a [[c/_crucial|crucial]] stage of a [[c/_competition|competition]] [[b/_because|because]] one is nervous, especially when one is winning.**
+- **To hinder or [[c/_check|check]], as growth, expansion, progress, [[e/_etc|etc]].; to kill (a plant by robbing it of nutrients); to extinguish (fire by robbing it of oxygen).**
+- **To perform [[b/_badly|badly]] at a [[c/_crucial|crucial]] stage of a [[c/_competition|competition]] [[b/_because|because]] one is nervous, [[e/_especially|especially]] when one is winning.**
 	- _Example: He has a lot of talent, but he tends to choke under pressure._
 - **To move one's fingers very [[c/_close|close]] to the tip of a pencil, [[b/_brush|brush]] or other [[a/_art|art]] tool.**
 - **To be [[c/_checked|checked]] or stopped, as if by [[c/_choking|choking]]**
@@ -21,7 +21,7 @@
 - **To make a [[c/_choke|choke]], as in a [[c/_cartridge|cartridge]], or in the [[b/_bore|bore]] of the [[b/_barrel|barrel]] of a shotgun.**
 ---
 ### Synonyms
-- [[asphyxiate]], [[strangle]], [[suffocate]], [[throttle]], [[block up]], [[bung up]], [[clog]], [[congest]], [[jam]], [[obstruct]], [[stop up]], [[choke out]], [[stifle]], [[stick]]
+- [[a/_asphyxiate|asphyxiate]], [[s/_strangle|strangle]], [[s/_suffocate|suffocate]], [[t/_throttle|throttle]], [[c/_clog|clog]], [[c/_congest|congest]], [[j/_jam|jam]], [[o/_obstruct|obstruct]], [[s/_stifle|stifle]], [[s/_stick|stick]]
 #noun
 - **The process in which a person's [[a/_airway|airway]] [[b/_becomes|becomes]] [[b/_blocked|blocked]], resulting in [[a/_asphyxia|asphyxia]] in [[c/_cases|cases]] that are not treated promptly.**
 - **The [[a/_act|act]] of [[c/_coughing|coughing]] when a foreign object (i.[[e/_e|e]]. food, [[b/_beverages|beverages]]) [[b/_becomes|becomes]] lodged in a person's [[a/_airway|airway]].**

@@ -6,5 +6,5 @@
 - **An overly materialistic and selfish young Jewish man.**
 ---
 ### Synonyms
-- [[JAP]], [[kugel]]
+- [[J/_JAP|JAP]], [[k/_kugel|kugel]]
 ---

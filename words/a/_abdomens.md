@@ -8,5 +8,5 @@
 - **The posterior section of the [[b/_body|body]], [[b/_behind|behind]] the thorax, in insects, [[c/_crustaceans|crustaceans]], and other [[a/_arthropoda|Arthropoda]].**
 ---
 ### Synonyms
-- [[belly]], [[stomach]], [[tummy]]
+- [[b/_belly|belly]], [[s/_stomach|stomach]], [[t/_tummy|tummy]]
 ---

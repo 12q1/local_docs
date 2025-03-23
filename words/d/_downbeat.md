@@ -10,5 +10,5 @@
 	- _Example: She carried herself with a quiet downbeat grace._
 ---
 ### Antonyms
-- [[upbeat]]
+- [[u/_upbeat|upbeat]]
 ---

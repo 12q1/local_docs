@@ -6,5 +6,5 @@
 - **A person with relatively [[d/_dark|dark]] hair and a warm skin tone, seen as [[b/_best|best]] suited to [[c/_certain|certain]] [[c/_colours|colours]] in [[c/_clothing|clothing]].**
 ---
 ### Synonyms
-- [[back end]], [[fall]], [[harvest]], [[decline]]
+- [[f/_fall|fall]], [[h/_harvest|harvest]], [[d/_decline|decline]]
 ---

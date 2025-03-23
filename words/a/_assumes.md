@@ -1,7 +1,7 @@
 # Assumes
 ---
 #verb
-- **To [[a/_authenticate|authenticate]] by means of [[b/_belief|belief]]; to surmise; to suppose to be true, especially without proof**
+- **To [[a/_authenticate|authenticate]] by means of [[b/_belief|belief]]; to surmise; to suppose to be true, [[e/_especially|especially]] without proof**
 	- _Example: We assume that, as her parents were dentists, she knows quite a bit about dentistry._
 - **To take on a position, [[d/_duty|duty]] or form**
 	- _Example: Mr. Jones will assume the position of a lifeguard until a proper replacement is found._

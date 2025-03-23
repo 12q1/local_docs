@@ -10,7 +10,7 @@
 - **At, near, or towards the stern of a vessel (with the frame of reference within the vessel).**
 ---
 ### Synonyms
-- [[abaft]], [[astern]]
+- [[a/_abaft|abaft]], [[a/_astern|astern]]
 ### Antonyms
-- [[fore]], [[forward]]
+- [[f/_fore|fore]], [[f/_forward|forward]]
 ---

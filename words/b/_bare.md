@@ -25,9 +25,9 @@
 - **Not insured.**
 ---
 ### Synonyms
-- [[empty]], [[plain]], [[unadorned]], [[undecorated]], [[empty]], [[unfurnished]], [[unstocked]], [[unsupplied]], [[mere]], [[minimal]], [[exposed]], [[naked]], [[nude]], [[uncovered]], [[undressed]], [[despoiled]], [[stripped]], [[uncovered]]
+- [[e/_empty|empty]], [[p/_plain|plain]], [[u/_unadorned|unadorned]], [[u/_undecorated|undecorated]], [[e/_empty|empty]], [[u/_unfurnished|unfurnished]], [[u/_unstocked|unstocked]], [[u/_unsupplied|unsupplied]], [[m/_mere|mere]], [[m/_minimal|minimal]], [[e/_exposed|exposed]], [[n/_naked|naked]], [[n/_nude|nude]], [[u/_uncovered|uncovered]], [[u/_undressed|undressed]], [[d/_despoiled|despoiled]], [[s/_stripped|stripped]], [[u/_uncovered|uncovered]]
 ### Antonyms
-- [[covered]], [[adorn]], [[decorated]], [[ornate]], [[full]], [[furnished]], [[stocked]], [[supplied]], [[well-stocked]], [[ample]], [[plentiful]], [[sufficient]], [[covered]], [[dressed]], [[unexposed]]
+- [[c/_covered|covered]], [[a/_adorn|adorn]], [[d/_decorated|decorated]], [[o/_ornate|ornate]], [[f/_full|full]], [[f/_furnished|furnished]], [[s/_stocked|stocked]], [[s/_supplied|supplied]], [[w/_well-stocked|well-stocked]], [[a/_ample|ample]], [[p/_plentiful|plentiful]], [[s/_sufficient|sufficient]], [[c/_covered|covered]], [[d/_dressed|dressed]], [[u/_unexposed|unexposed]]
 #adverb
 - **Very; significantly.**
 	- _Example: It's taking bare time._

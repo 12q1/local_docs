@@ -6,5 +6,5 @@
 - **Two of the four humours, [[b/_black|black]] [[b/_bile|bile]] or yellow [[b/_bile|bile]], in [[a/_ancient|ancient]] and medieval physiology.**
 ---
 ### Synonyms
-- [[gall]]
+- [[g/_gall|gall]]
 ---

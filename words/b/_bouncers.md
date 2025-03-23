@@ -1,7 +1,7 @@
 # Bouncers
 ---
 #noun
-- **A member of security personnel [[e/_employed|employed]] by [[b/_bars|bars]], nightclubs, etc to maintain order and [[d/_deal|deal]] with patrons who [[c/_cause|cause]] trouble.**
+- **A member of security personnel [[e/_employed|employed]] by [[b/_bars|bars]], nightclubs, [[e/_etc|etc]] to maintain order and [[d/_deal|deal]] with patrons who [[c/_cause|cause]] trouble.**
 - **A short-pitched [[b/_ball|ball]] that [[b/_bounces|bounces]] up towards, or [[a/_above|above]] the height of the [[b/_batsman|batsman]]’s head.**
 - **An [[a/_account|account]] or server (as with IRC and FTP) that invisibly redirects requests to [[a/_another|another]], used for [[a/_anonymity|anonymity]] or vanity.**
 - **One who [[b/_bounces|bounces]]; a large, heavy person who makes much noise in moving.**
@@ -13,5 +13,5 @@
 - **A kind of seat mounted in a framework in which a [[b/_baby|baby]] [[c/_can|can]] [[b/_bounce|bounce]] up and [[d/_down|down]].**
 ---
 ### Synonyms
-- [[BNC]], [[bumper]], [[chucker-out]], [[doorman]]
+- [[B/_BNC|BNC]], [[b/_bumper|bumper]], [[c/_chucker-out|chucker-out]], [[d/_doorman|doorman]]
 ---

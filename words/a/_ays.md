@@ -5,5 +5,5 @@
 	- _Example: "To call for the ayes and nays;" "The ayes have it."_
 ---
 ### Synonyms
-- [[yes]]
+- [[y/_yes|yes]]
 ---

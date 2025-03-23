@@ -5,5 +5,5 @@
 - **[[a/_any|Any]] of various passerine [[b/_birds|birds]] in the bushshrike family of the genus Laniarius.**
 ---
 ### Synonyms
-- [[agbada]]
+- [[a/_agbada|agbada]]
 ---

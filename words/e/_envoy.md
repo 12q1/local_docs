@@ -10,5 +10,5 @@
 - **A messenger.**
 ---
 ### Synonyms
-- [[envoy extraordinary]], [[minister plenipotentiary]]
+- 
 ---

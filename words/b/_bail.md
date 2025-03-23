@@ -4,7 +4,7 @@
 - **Security, usually a sum of money, exchanged for the release of an [[a/_arrested|arrested]] person as a guarantee of that person's [[a/_appearance|appearance]] for trial.**
 - **Release from imprisonment on payment of such money.**
 - **The person providing such payment.**
-- **A [[b/_bucket|bucket]] or scoop used for removing water from a [[b/_boat|boat]] etc.**
+- **A [[b/_bucket|bucket]] or scoop used for removing water from a [[b/_boat|boat]] [[e/_etc|etc]].**
 - **A person who [[b/_bails|bails]] water out of a [[b/_boat|boat]].**
 - **[[c/_custody|Custody]]; keeping.**
 ---

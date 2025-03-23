@@ -5,5 +5,5 @@
 - **Features that increase software usability for users with [[c/_certain|certain]] impairments.**
 ---
 ### Synonyms
-- [[a11y]]
+- [[a/_a11y|a11y]]
 ---

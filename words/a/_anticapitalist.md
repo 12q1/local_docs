@@ -7,5 +7,5 @@
 - **[[a/_against|Against]] or opposed to [[c/_capitalism|capitalism]].**
 ---
 ### Synonyms
-- [[commie]]
+- [[c/_commie|commie]]
 ---

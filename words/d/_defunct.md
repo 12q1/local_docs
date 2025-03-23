@@ -14,5 +14,5 @@
 - **(of a language) No longer spoken.**
 ---
 ### Synonyms
-- [[antiquated]], [[disused]], [[outdated]]
+- [[a/_antiquated|antiquated]], [[d/_disused|disused]], [[o/_outdated|outdated]]
 ---

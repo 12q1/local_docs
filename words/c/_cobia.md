@@ -4,5 +4,5 @@
 - **Rachycentron canadum, a perciform marine fish.**
 ---
 ### Synonyms
-- [[beijupirá]], [[black salmon]], [[crabeater]], [[lemonfish]], [[ling]], [[prodigal son]]
+- [[b/_beijupirá|beijupirá]], [[c/_crabeater|crabeater]], [[l/_lemonfish|lemonfish]], [[l/_ling|ling]]
 ---

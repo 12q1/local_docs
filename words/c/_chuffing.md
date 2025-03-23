@@ -9,6 +9,6 @@
 - **A noisy puffing sound, as of a steam locomotive.**
 ---
 #adjective
-- **Used as a mild intensifier, especially as a substitute for "fucking".**
+- **Used as a mild intensifier, [[e/_especially|especially]] as a substitute for "fucking".**
 ---
 ---

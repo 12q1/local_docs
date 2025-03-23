@@ -8,7 +8,7 @@
 - **(usually in [[c/_compounds|compounds]] specifying a [[c/_context|context]]) a slut; a promiscuous woman**
 ---
 ### Synonyms
-- [[bike]], [[pushbike]], [[velocipede]]
+- [[b/_bike|bike]], [[p/_pushbike|pushbike]], [[v/_velocipede|velocipede]]
 #verb
 - **To travel or exercise using a [[b/_bicycle|bicycle]].**
 ---

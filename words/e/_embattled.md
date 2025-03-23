@@ -12,9 +12,9 @@
 #adjective
 - **Subject to or troubled by [[b/_battles|battles]], [[c/_controversy|controversy]] or [[d/_debates|debates]].**
 - **Prepared or [[a/_armed|armed]] for [[b/_battle|battle]].**
-- **Of a wall, fortress, etc., having [[b/_battlements|battlements]] or crenellations.**
+- **Of a wall, fortress, [[e/_etc|etc]]., having [[b/_battlements|battlements]] or crenellations.**
 - **[[d/_drawn|Drawn]] with a line of [[a/_alternating|alternating]] square indentations and extensions.**
 ---
 ### Synonyms
-- [[crenellé]]
+- [[c/_crenellé|crenellé]]
 ---

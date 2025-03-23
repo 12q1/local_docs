@@ -10,7 +10,7 @@
 	- _Example: Such compulsory measures are limited._
 ---
 ### Synonyms
-- [[mandatory]]
+- [[m/_mandatory|mandatory]]
 ### Antonyms
-- [[optional]]
+- [[o/_optional|optional]]
 ---

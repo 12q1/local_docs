@@ -12,5 +12,5 @@
 - **In spite of, notwithstanding, regardless of.**
 ---
 ### Synonyms
-- [[in spite of]], [[maugre]]
+- [[m/_maugre|maugre]]
 ---

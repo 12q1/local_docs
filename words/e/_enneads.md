@@ -5,5 +5,5 @@
 - **[[a/_any|Any]] grouping or system [[c/_containing|containing]] nine objects.**
 ---
 ### Synonyms
-- [[nonad]]
+- [[n/_nonad|nonad]]
 ---

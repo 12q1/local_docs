@@ -12,5 +12,5 @@
 - **One of a pair of morphisms which relate to [[e/_each|each]] other through a pair of [[a/_adjoint|adjoint]] functors.**
 ---
 ### Synonyms
-- [[addition]], [[supplement]]
+- [[a/_addition|addition]], [[s/_supplement|supplement]]
 ---

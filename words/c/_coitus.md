@@ -1,6 +1,6 @@
 # Coitus
 ---
 #noun
-- **Sexual intercourse, especially involving penile-vaginal penetration.**
+- **Sexual intercourse, [[e/_especially|especially]] involving penile-vaginal penetration.**
 ---
 ---

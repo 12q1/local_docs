@@ -5,7 +5,7 @@
 - **An old woman.**
 ---
 ### Synonyms
-- [[chiropter]], [[chiropteran]], [[flindermouse]], [[flittermouse]], [[fluttermouse]], [[flying-mouse]], [[rearmouse]], [[reremouse]]
+- [[c/_chiropter|chiropter]], [[c/_chiropteran|chiropteran]], [[f/_flindermouse|flindermouse]], [[f/_flittermouse|flittermouse]], [[f/_fluttermouse|fluttermouse]], [[f/_flying-mouse|flying-mouse]], [[r/_rearmouse|rearmouse]], [[r/_reremouse|reremouse]]
 #noun
 - **A [[c/_club|club]] made of wood or [[a/_aluminium|aluminium]] used for striking the [[b/_ball|ball]] in sports such as [[b/_baseball|baseball]], softball and [[c/_cricket|cricket]].**
 - **A turn at hitting the [[b/_ball|ball]] with a [[b/_bat|bat]] in a game.**
@@ -21,7 +21,7 @@
 - **Manner; rate; [[c/_condition|condition]]; state of health.**
 ---
 ### Synonyms
-- [[kip]], [[kylie]], [[lannet]], [[stick]]
+- [[k/_kip|kip]], [[k/_kylie|kylie]], [[l/_lannet|lannet]], [[s/_stick|stick]]
 #verb
 - **To hit with a [[b/_bat|bat]] or (figuratively) as if with a [[b/_bat|bat]].**
 	- _Example: He batted the ball away with a satisfying thwack._

@@ -6,5 +6,5 @@
 - **A series of [[a/_ancestors|ancestors]] or progenitors; lineage, or those who [[c/_compose|compose]] the line of natural [[d/_descent|descent]].**
 ---
 ### Synonyms
-- [[provenance]]
+- [[p/_provenance|provenance]]
 ---

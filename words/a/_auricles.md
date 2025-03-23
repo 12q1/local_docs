@@ -7,5 +7,5 @@
 - **[[a/_any|Any]] [[a/_appendage|appendage]] in the shape of an [[e/_earlobe|earlobe]].**
 ---
 ### Synonyms
-- [[pavilion]], [[pinna]]
+- [[p/_pavilion|pavilion]], [[p/_pinna|pinna]]
 ---

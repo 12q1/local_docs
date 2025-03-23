@@ -8,15 +8,15 @@
 - **[[b/_beneficence|Beneficence]]; liberality**
 ---
 ### Synonyms
-- [[advantage]], [[aid]], [[assistance]], [[boon]], [[foredeal]], [[help]], [[subsidy]]
+- [[a/_advantage|advantage]], [[a/_aid|aid]], [[a/_assistance|assistance]], [[b/_boon|boon]], [[f/_foredeal|foredeal]], [[h/_help|help]], [[s/_subsidy|subsidy]]
 ### Antonyms
-- [[detriment]], [[disadvantage]], [[encumbrance]], [[harm]], [[hindrance]], [[nuisance]], [[obstacle]]
+- [[d/_detriment|detriment]], [[d/_disadvantage|disadvantage]], [[e/_encumbrance|encumbrance]], [[h/_harm|harm]], [[h/_hindrance|hindrance]], [[n/_nuisance|nuisance]], [[o/_obstacle|obstacle]]
 #verb
 - **To be or to provide a [[b/_benefit|benefit]] to.**
 - **To receive a [[b/_benefit|benefit]] (from); to be a [[b/_beneficiary|beneficiary]].**
 ---
 ### Synonyms
-- [[batten]], [[behoove]], [[help]]
+- [[b/_batten|batten]], [[b/_behoove|behoove]], [[h/_help|help]]
 ### Antonyms
-- [[detriment]], [[malefic]]
+- [[d/_detriment|detriment]], [[m/_malefic|malefic]]
 ---

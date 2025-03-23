@@ -28,16 +28,16 @@
 	- _Example: Tax is levied against income from sales._
 - **As protection from.**
 	- _Example: He turned the umbrella against the wind._
-- **In [[a/_anticipation|anticipation]] of; in preparation for (a particular time, event etc.).**
+- **In [[a/_anticipation|anticipation]] of; in preparation for (a particular time, event [[e/_etc|etc]].).**
 	- _Example: The stores are kept well stocked against a time of need._
 - **(Hollywood) To be paid now in [[c/_contrast|contrast]] to the following [[a/_amount|amount]] to be paid later under specified [[c/_circumstances|circumstances]], usually that a movie is made or has started filming.**
 	- _Example: The studio weren't sure the movie would ever get made, so they only paid $50,000 against $200,000. That way they wouldn't be out very much if filming never began._
 - **Exposed to.**
 ---
 ### Synonyms
-- [[versus]]
+- [[v/_versus|versus]]
 ### Antonyms
-- [[for]], [[on]], [[with]]
+- [[f/_for|for]], [[o/_on|on]], [[w/_with|with]]
 #conjunction
 - **By the time that (something happened); [[b/_before|before]].**
 ---

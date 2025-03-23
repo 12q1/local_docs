@@ -7,7 +7,7 @@
 - **A [[b/_birch|birch]]-[[b/_bark|bark]] [[c/_canoe|canoe]].**
 ---
 ### Synonyms
-- [[makepeace]], [[switch]]
+- [[m/_makepeace|makepeace]], [[s/_switch|switch]]
 #verb
 - **To punish with a stick, [[b/_bundle|bundle]] of twigs, or rod made of [[b/_birch|birch]] wood.**
 - **To punish as though one were using a stick, [[b/_bundle|bundle]] of twigs, or rod made of [[b/_birch|birch]] wood.**

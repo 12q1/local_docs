@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[e/_enclosure|enclosure]], or the [[a/_act|act]] of [[e/_enclosing|enclosing]], [[e/_encircling|encircling]] or [[e/_encompassing|encompassing]]**
-- **A girdle or [[b/_belt|belt]], especially as part of a vestment**
+- **A girdle or [[b/_belt|belt]], [[e/_especially|especially]] as part of a vestment**
 - **The fillet, listel, or [[b/_band|band]] next to the [[a/_apophyge|apophyge]] at the extremity of the shaft of a [[c/_column|column]].**
 ---
 #verb

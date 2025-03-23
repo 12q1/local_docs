@@ -9,7 +9,7 @@
 	- _Example: bar of chocolate_
 - **A [[b/_broad|broad]] shaft, or [[b/_band|band]], or stripe.**
 	- _Example: a bar of colour_
-- **A long, narrow [[d/_drawn|drawn]] or printed rectangle, [[c/_cuboid|cuboid]] or [[c/_cylinder|cylinder]], especially as used in a [[b/_bar|bar]] [[c/_code|code]] or a [[b/_bar|bar]] [[c/_chart|chart]].**
+- **A long, narrow [[d/_drawn|drawn]] or printed rectangle, [[c/_cuboid|cuboid]] or [[c/_cylinder|cylinder]], [[e/_especially|especially]] as used in a [[b/_bar|bar]] [[c/_code|code]] or a [[b/_bar|bar]] [[c/_chart|chart]].**
 - **[[a/_any|Any]] of various lines used as punctuation or [[d/_diacritics|diacritics]], such as the pipe ⟨|⟩, fraction [[b/_bar|bar]] (as in 12), and strikethrough (as in Ⱥ), formerly including oblique marks such as the slash.**
 - **The sign indicating that the [[c/_characteristic|characteristic]] of a logarithm is negative, [[c/_conventionally|conventionally]] placed [[a/_above|above]] the [[d/_digit|digit]](s) to show that it [[a/_applies|applies]] to the [[c/_characteristic|characteristic]] only and not to the mantissa.**
 - **A similar sign indicating that the [[c/_charge|charge]] on a particle is negative (and that [[c/_consequently|consequently]] the particle is in fact an [[a/_antiparticle|antiparticle]]).**
@@ -18,11 +18,11 @@
 - **The [[c/_counter|counter]] of such premises.**
 	- _Example: Step up to the bar and order a drink._
 - **A [[c/_counter|counter]], or simply a [[c/_cabinet|cabinet]], from which [[a/_alcoholic|alcoholic]] [[d/_drinks|drinks]] are served in a private house or a hotel room.**
-- **(by extension, in [[c/_combinations|combinations]] such as [[c/_coffee|coffee]] [[b/_bar|bar]], juice [[b/_bar|bar]] etc.) Premises or a [[c/_counter|counter]] serving [[a/_any|any]] type of [[b/_beverage|beverage]].**
-- **An establishment where [[a/_alcohol|alcohol]] and sometimes other refreshments are served.**
-- **An informal establishment selling food to be [[c/_consumed|consumed]] on the premises.**
+- **(by extension, in [[c/_combinations|combinations]] such as [[c/_coffee|coffee]] [[b/_bar|bar]], juice [[b/_bar|bar]] [[e/_etc|etc]].) Premises or a [[c/_counter|counter]] serving [[a/_any|any]] type of [[b/_beverage|beverage]].**
+- **An [[e/_establishment|establishment]] where [[a/_alcohol|alcohol]] and sometimes other refreshments are served.**
+- **An informal [[e/_establishment|establishment]] selling food to be [[c/_consumed|consumed]] on the premises.**
 	- _Example: a burger bar_
-- **An establishment offering [[c/_cosmetic|cosmetic]] services.**
+- **An [[e/_establishment|establishment]] offering [[c/_cosmetic|cosmetic]] services.**
 	- _Example: a nail bar; a brow bar_
 - **An official order or pronouncement that prohibits some [[a/_activity|activity]].**
 	- _Example: The club has lifted its bar on women members._
@@ -45,7 +45,7 @@
 - **The [[c/_central|central]] [[d/_divider|divider]] [[b/_between|between]] the inner and outer table of a [[b/_backgammon|backgammon]] [[b/_board|board]], where stones are placed if they are hit.**
 - **An [[a/_addition|addition]] to a military medal, on [[a/_account|account]] of a subsequent [[a/_act|act]]**
 - **A linear shoaling landform feature within a [[b/_body|body]] of water.**
-- **A ridge or succession of ridges of sand or other substance, especially a formation extending [[a/_across|across]] the mouth of a river or harbor or off a [[b/_beach|beach]], and which may obstruct navigation. (FM 55-501).**
+- **A ridge or succession of ridges of sand or other substance, [[e/_especially|especially]] a formation extending [[a/_across|across]] the mouth of a river or harbor or off a [[b/_beach|beach]], and which may obstruct navigation. (FM 55-501).**
 - **One of the ordinaries in heraldry; a fess.**
 - **A [[c/_city|city]] gate, in some [[b/_british|British]] place names.**
 	- _Example: Potter's Bar_
@@ -56,7 +56,7 @@
 - **(in the plural) The space [[b/_between|between]] the tusks and grinders in the upper jaw of a horse, in which the [[b/_bit|bit]] is placed.**
 ---
 ### Synonyms
-- [[ban]], [[prohibition]], [[barroom]], [[ginshop]], [[pub]], [[public house]], [[tavern]], [[measure]]
+- [[b/_ban|ban]], [[p/_prohibition|prohibition]], [[b/_barroom|barroom]], [[g/_ginshop|ginshop]], [[p/_pub|pub]], [[t/_tavern|tavern]], [[m/_measure|measure]]
 #verb
 - **To obstruct the passage of (someone or something).**
 	- _Example: Our way was barred by a huge rockfall._
@@ -67,7 +67,7 @@
 - **To imprint or paint with [[b/_bars|bars]], to stripe.**
 ---
 ### Synonyms
-- [[block]], [[hinder]], [[obstruct]], [[ban]], [[interdict]], [[prohibit]]
+- [[b/_block|block]], [[h/_hinder|hinder]], [[o/_obstruct|obstruct]], [[b/_ban|ban]], [[i/_interdict|interdict]], [[p/_prohibit|prohibit]]
 #noun
 - **A non-SI unit of pressure [[e/_equal|equal]] to 100,000 pascals, [[a/_approximately|approximately]] [[e/_equal|equal]] to [[a/_atmospheric|atmospheric]] pressure at sea level.**
 ---

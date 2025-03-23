@@ -6,5 +6,5 @@
 - **A part that is joined to something larger.**
 ---
 ### Synonyms
-- [[annex]], [[appendix]], [[appendix]], [[outgrowth]], [[process]], [[extremity]], [[member]]
+- [[a/_annex|annex]], [[a/_appendix|appendix]], [[a/_appendix|appendix]], [[o/_outgrowth|outgrowth]], [[p/_process|process]], [[e/_extremity|extremity]], [[m/_member|member]]
 ---

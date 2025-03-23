@@ -5,5 +5,5 @@
 - **[[a/_any|Any]] of the [[d/_different|different]] phonological representations of a morpheme.**
 ---
 ### Synonyms
-- [[paramorph]]
+- [[p/_paramorph|paramorph]]
 ---

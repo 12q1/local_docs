@@ -1,7 +1,7 @@
 # Biddy
 ---
 #noun
-- **A woman, especially an old woman; especially one regarded as fussy or mean or a gossipy [[b/_busybody|busybody]].**
+- **A woman, [[e/_especially|especially]] an old woman; [[e/_especially|especially]] one regarded as fussy or mean or a gossipy [[b/_busybody|busybody]].**
 - **An [[a/_attractive|attractive]] girl.**
 - **An Irish maidservant.**
 - **(by extension) An Irishwoman.**

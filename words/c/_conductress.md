@@ -4,5 +4,5 @@
 - **A female [[c/_conductor|conductor]]**
 ---
 ### Synonyms
-- [[conductrix]]
+- [[c/_conductrix|conductrix]]
 ---

@@ -5,5 +5,5 @@
 - **A lesser [[d/_deity|deity]].**
 ---
 ### Synonyms
-- [[half-god]], [[hero]]
+- [[h/_half-god|half-god]], [[h/_hero|hero]]
 ---

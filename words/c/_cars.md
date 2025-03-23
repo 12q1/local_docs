@@ -23,7 +23,7 @@
 - **A floating perforated [[b/_box|box]] for living fish.**
 ---
 ### Synonyms
-- [[auto]], [[automobile]], [[carriage]], [[motor]], [[motorcar]], [[vehicle]], [[basket]], [[gondola]], [[carload]], [[wagonload]], [[carriage]], [[railcar]], [[wagon]]
+- [[a/_auto|auto]], [[a/_automobile|automobile]], [[c/_carriage|carriage]], [[m/_motor|motor]], [[m/_motorcar|motorcar]], [[v/_vehicle|vehicle]], [[b/_basket|basket]], [[g/_gondola|gondola]], [[c/_carload|carload]], [[w/_wagonload|wagonload]], [[c/_carriage|carriage]], [[r/_railcar|railcar]], [[w/_wagon|wagon]]
 #noun
 - **A turn.**
 ---
@@ -31,5 +31,5 @@
 - **The first part of a [[c/_cons|cons]] in LISP. The first [[e/_element|element]] of a list**
 ---
 ### Antonyms
-- [[cdr]]
+- [[c/_cdr|cdr]]
 ---

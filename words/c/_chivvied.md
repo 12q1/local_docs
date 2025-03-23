@@ -8,5 +8,5 @@
 	- _Example: to chivvy the fox_
 ---
 ### Synonyms
-- [[chase]], [[hunt]]
+- [[c/_chase|chase]], [[h/_hunt|hunt]]
 ---

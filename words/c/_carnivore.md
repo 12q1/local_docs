@@ -8,5 +8,5 @@
 - **A person who is not a vegetarian.**
 ---
 ### Synonyms
-- [[carnivoran]], [[kreophagist]], [[meat-eater]], [[meatarian]], [[meatatarian]], [[nonvegetarian]], [[meat-eater]], [[zoophage]], [[meatarian]], [[meatatarian]], [[zoophage]]
+- [[c/_carnivoran|carnivoran]], [[k/_kreophagist|kreophagist]], [[m/_meat-eater|meat-eater]], [[m/_meatarian|meatarian]], [[m/_meatatarian|meatatarian]], [[n/_nonvegetarian|nonvegetarian]], [[m/_meat-eater|meat-eater]], [[z/_zoophage|zoophage]], [[m/_meatarian|meatarian]], [[m/_meatatarian|meatatarian]], [[z/_zoophage|zoophage]]
 ---

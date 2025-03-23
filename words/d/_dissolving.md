@@ -18,9 +18,9 @@
 - **To relax by pleasure; to make powerless.**
 ---
 ### Synonyms
-- [[fade out]], [[formelt]], [[melt]]
+- [[f/_formelt|formelt]], [[m/_melt|melt]]
 ### Antonyms
-- [[establish]], [[found]]
+- [[e/_establish|establish]], [[f/_found|found]]
 #noun
 - **The [[a/_act|act]] by which something [[d/_dissolves|dissolves]].**
 ---

@@ -8,8 +8,8 @@
 - **One learned in the literature of [[a/_ancient|Ancient]] Greece and [[a/_ancient|Ancient]] Rome; a student of [[c/_classical|classical]] literature.**
 ---
 #noun
-- **The study of [[a/_ancient|Ancient]] Greek and Latin, their literature, history, etc., sometimes inclusive of the study of the [[a/_ancient|ancient]] Mediterranean generally.**
+- **The study of [[a/_ancient|Ancient]] Greek and Latin, their literature, history, [[e/_etc|etc]]., sometimes inclusive of the study of the [[a/_ancient|ancient]] Mediterranean generally.**
 ---
 ### Synonyms
-- [[classics]], [[humanities]]
+- [[c/_classics|classics]], [[h/_humanities|humanities]]
 ---

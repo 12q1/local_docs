@@ -11,7 +11,7 @@
 	- _Example: He grew fat as he aged._
 ---
 ### Synonyms
-- [[mature]], [[elden]]
+- [[m/_mature|mature]], [[e/_elden|elden]]
 #noun
 - **Old people, [[c/_collectively|collectively]].**
 ---
@@ -22,5 +22,5 @@
 - **Having undergone the improving [[e/_effects|effects]] of time; matured.**
 ---
 ### Synonyms
-- [[old]], [[year]], [[eldern]], [[hoary]], [[matured]]
+- [[o/_old|old]], [[y/_year|year]], [[e/_eldern|eldern]], [[h/_hoary|hoary]], [[m/_matured|matured]]
 ---

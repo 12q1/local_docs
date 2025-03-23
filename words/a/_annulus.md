@@ -10,5 +10,5 @@
 - **(oil and gas production) The space [[c/_contained|contained]] [[b/_between|between]] the [[c/_centre|centre]] well [[b/_bore|bore]] and [[a/_any|any]] external tubing. Sometimes used for separated gas flow.**
 ---
 ### Synonyms
-- [[cylinder]]
+- [[c/_cylinder|cylinder]]
 ---

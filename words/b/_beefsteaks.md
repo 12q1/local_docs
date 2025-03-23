@@ -10,10 +10,10 @@
 - **Gyromitra esculenta (a potentially fatally poisonous fungus that is a [[d/_delicacy|delicacy]])**
 ---
 ### Synonyms
-- [[brain mushroom]], [[elephant ears]], [[beefsteak]]
+- [[b/_beefsteak|beefsteak]]
 #noun
 - **A type of large tomato**
 ---
 ### Synonyms
-- [[beef tomato]], [[beefsteak]]
+- [[b/_beefsteak|beefsteak]]
 ---

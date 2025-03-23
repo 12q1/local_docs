@@ -6,7 +6,7 @@
 - **One who exercises [[c/_control|control]] and [[d/_direction|direction]] over a group of persons.**
 - **A [[d/_designation|designation]] or rank in [[c/_certain|certain]] non-military organizations such as NASA and various police forces.**
 - **The [[c/_chief|chief]] officer of a [[c/_commandry|commandry]].**
-- **A heavy [[b/_beetle|beetle]] or wooden mallet, used in paving, in sail lofts, etc.**
+- **A heavy [[b/_beetle|beetle]] or wooden mallet, used in paving, in sail lofts, [[e/_etc|etc]].**
 - **A rank within an honorary order: [[e/_e|e]].g. [[c/_commander|Commander]] of the Legion of Honour.**
 - **[[a/_any|Any]] of various nymphalid [[b/_butterflies|butterflies]] of the [[a/_asian|Asian]] genus Moduza.**
 ---

@@ -5,5 +5,5 @@
 - **A [[d/_dining|dining]] [[a/_area|area]] in an institution where meals may be purchased (as [[a/_above|above]]), provided, or [[b/_brought|brought]] in from [[e/_elsewhere|elsewhere]]**
 ---
 ### Synonyms
-- [[canteen]], [[lunchroom]]
+- [[c/_canteen|canteen]], [[l/_lunchroom|lunchroom]]
 ---

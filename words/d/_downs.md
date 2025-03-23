@@ -21,7 +21,7 @@
 - **To [[d/_defeat|defeat]]; to overpower.**
 - **To [[d/_disparage|disparage]], to put [[d/_down|down]].**
 - **To go or [[c/_come|come]] [[d/_down|down]]; to [[d/_descend|descend]].**
-- **To [[d/_drink|drink]] or swallow, especially without stopping [[b/_before|before]] the vessel [[c/_containing|containing]] the liquid is [[e/_empty|empty]].**
+- **To [[d/_drink|drink]] or swallow, [[e/_especially|especially]] without stopping [[b/_before|before]] the vessel [[c/_containing|containing]] the liquid is [[e/_empty|empty]].**
 	- _Example: He downed an ale and ordered another._
 - **To render (the [[b/_ball|ball]]) [[d/_dead|dead]], typically by touching the ground while in possession.**
 	- _Example: He downed it at the seven-yard line._
@@ -29,9 +29,9 @@
 	- _Example: He downed two balls on the break._
 ---
 #noun
-- **(especially southern [[e/_england|England]]) A hill, especially a [[c/_chalk|chalk]] hill; rolling grassland**
+- **([[e/_especially|especially]] southern [[e/_england|England]]) A hill, [[e/_especially|especially]] a [[c/_chalk|chalk]] hill; rolling grassland**
 	- _Example: The North Downs are a ridge of chalk hills in south east England._
-- **(usually in the plural) A field, especially one used for horse racing.**
+- **(usually in the plural) A field, [[e/_especially|especially]] one used for horse racing.**
 - **([[c/_chiefly|chiefly]] in the plural) A tract of poor, sandy, undulating or hilly land near the sea, [[c/_covered|covered]] with fine turf which serves [[c/_chiefly|chiefly]] for the grazing of sheep.**
 ---
 #noun

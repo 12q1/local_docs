@@ -18,5 +18,5 @@
 	- _Example: Some colour-blind people can't distinguish between red and green._
 ---
 ### Synonyms
-- [[atween]], [[atwix]], [[atwixt]], [[betwixt]]
+- [[a/_atween|atween]], [[a/_atwix|atwix]], [[a/_atwixt|atwixt]], [[b/_betwixt|betwixt]]
 ---

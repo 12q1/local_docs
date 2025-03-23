@@ -6,5 +6,5 @@
 - **An expression of [[a/_affection|affection]].**
 ---
 ### Synonyms
-- [[term of endearment]], [[belovedness]]
+- [[b/_belovedness|belovedness]]
 ---

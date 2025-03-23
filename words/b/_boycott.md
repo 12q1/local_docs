@@ -4,10 +4,10 @@
 - **The [[a/_act|act]] of [[b/_boycotting|boycotting]].**
 ---
 ### Synonyms
-- [[embargo]], [[taboo]]
+- [[e/_embargo|embargo]], [[t/_taboo|taboo]]
 #verb
 - **To [[a/_abstain|abstain]], [[e/_either|either]] as an individual or a group, from using, [[b/_buying|buying]], or [[d/_dealing|dealing]] with someone or some organization as an expression of protest.**
 ---
 ### Synonyms
-- [[blackball]], [[blacklist]], [[embargo]], [[withhold patronage]]
+- [[b/_blackball|blackball]], [[b/_blacklist|blacklist]], [[e/_embargo|embargo]]
 ---

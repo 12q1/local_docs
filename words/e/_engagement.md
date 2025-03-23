@@ -1,7 +1,7 @@
 # Engagement
 ---
 #noun
-- **An [[a/_appointment|appointment]], especially to speak or perform.**
+- **An [[a/_appointment|appointment]], [[e/_especially|especially]] to speak or perform.**
 	- _Example: The lecturer has three speaking engagements this week._
 - **[[c/_connection|Connection]] or [[a/_attachment|attachment]].**
 	- _Example: Check the gears for full engagement before turning the handle._
@@ -14,7 +14,7 @@
 	- _Example: After engagement it quickly became clear which of the fencers was going to prevail._
 ---
 ### Synonyms
-- [[action]], [[commitment]]
+- [[a/_action|action]], [[c/_commitment|commitment]]
 ### Antonyms
-- [[apathy]], [[disengagement]]
+- [[a/_apathy|apathy]], [[d/_disengagement|disengagement]]
 ---

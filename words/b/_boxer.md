@@ -10,5 +10,5 @@
 - **A letterboxer.**
 ---
 ### Synonyms
-- [[pugilist]], [[boxer engine]]
+- [[p/_pugilist|pugilist]]
 ---

@@ -10,7 +10,7 @@
 - **To [[c/_clean|clean]] with a [[c/_chamois|chamois]] leather [[c/_cloth|cloth]].**
 ---
 ### Synonyms
-- [[shammy]]
+- [[s/_shammy|shammy]]
 #adjective
 - **[[c/_chamois|Chamois]]-[[c/_colored|colored]].**
 ---

@@ -9,5 +9,5 @@
 - **[[c/_covered|Covered]] with [[a/_armor|armor]], as a ship or the face of a fortification; [[a/_armor|armor]]-plated.**
 ---
 ### Antonyms
-- [[nonarmored]], [[unarmored]]
+- [[n/_nonarmored|nonarmored]], [[u/_unarmored|unarmored]]
 ---

@@ -1,10 +1,10 @@
 # Clubs
 ---
 #noun
-- **An [[a/_association|association]] of members joining together for some [[c/_common|common]] purpose, especially sports or recreation.**
+- **An [[a/_association|association]] of members joining together for some [[c/_common|common]] purpose, [[e/_especially|especially]] sports or recreation.**
 - **A heavy stick intended for use as a weapon or plaything.**
 - **A joint [[c/_charge|charge]] of expense, or [[a/_any|any]] person's share of it; a [[c/_contribution|contribution]] to a [[c/_common|common]] fund.**
-- **An establishment that provides staged [[e/_entertainment|entertainment]], often with food and [[d/_drink|drink]], such as a nightclub.**
+- **An [[e/_establishment|establishment]] that provides staged [[e/_entertainment|entertainment]], often with food and [[d/_drink|drink]], such as a nightclub.**
 	- _Example: She was sitting in a jazz club, sipping wine and listening to a bass player's solo._
 - **A [[b/_black|black]] [[c/_clover|clover]] shape (♣), one of the four symbols used to mark the suits of playing [[c/_cards|cards]].**
 - **[[a/_any|Any]] set of people with a shared [[c/_characteristic|characteristic]].**
@@ -13,7 +13,7 @@
 - **The slice of [[b/_bread|bread]] in the middle of a [[c/_club|club]] sandwich.**
 ---
 ### Synonyms
-- [[team]], [[cudgel]]
+- [[t/_team|team]], [[c/_cudgel|cudgel]]
 #verb
 - **To hit with a [[c/_club|club]].**
 	- _Example: He clubbed the poor dog._
@@ -38,5 +38,5 @@
 - **A game in which questions are [[a/_asked|asked]] for the purpose of [[e/_enabling|enabling]] the questioners to [[d/_discover|discover]] a word or thing previously selected by two persons who [[a/_answer|answer]] the questions.**
 ---
 ### Synonyms
-- [[clubs]]
+- [[c/_clubs|clubs]]
 ---

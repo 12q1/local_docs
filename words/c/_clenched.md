@@ -6,13 +6,13 @@
 	- _Example: He clenched his fist in anger._
 ---
 ### Synonyms
-- [[clasp]], [[clutch]], [[grip]]
+- [[c/_clasp|clasp]], [[c/_clutch|clutch]], [[g/_grip|grip]]
 ### Antonyms
-- [[unclench]]
+- [[u/_unclench|unclench]]
 #adjective
 - **[[c/_closed|Closed]] tightly.**
 	- _Example: a clenched fist_
 ---
 ### Antonyms
-- [[unclenched]]
+- [[u/_unclenched|unclenched]]
 ---

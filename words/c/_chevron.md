@@ -9,7 +9,7 @@
 - **A háček, a [[d/_diacritical|diacritical]] mark that may resemble an inverted [[c/_circumflex|circumflex]].**
 ---
 ### Synonyms
-- [[angle bracket]], [[wicket]]
+- [[w/_wicket|wicket]]
 #verb
 - **To form or be formed into [[c/_chevrons|chevrons]]**
 ---

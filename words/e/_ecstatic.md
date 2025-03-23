@@ -11,5 +11,5 @@
 	- _Example: ecstatic gaze; ecstatic trance_
 ---
 ### Synonyms
-- [[blissful]], [[delirious]], [[elated]], [[euphoric]], [[joyful]], [[joyous]]
+- [[b/_blissful|blissful]], [[d/_delirious|delirious]], [[e/_elated|elated]], [[e/_euphoric|euphoric]], [[j/_joyful|joyful]], [[j/_joyous|joyous]]
 ---

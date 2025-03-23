@@ -7,5 +7,5 @@
 - **[[b/_bread|Bread]].**
 ---
 ### Synonyms
-- [[sprayhood]]
+- [[s/_sprayhood|sprayhood]]
 ---

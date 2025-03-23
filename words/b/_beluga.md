@@ -5,5 +5,5 @@
 - **A fish, Huso huso, found in the [[c/_caspian|Caspian]] Sea and the [[b/_black|Black]] Sea, that is a source of [[c/_caviar|caviar]].**
 ---
 ### Synonyms
-- [[beluga whale]], [[sea canary]], [[white whale]]
+- 
 ---

@@ -6,7 +6,7 @@
 - **Scholarly.**
 ---
 ### Synonyms
-- [[clerkish]], [[clerky]]
+- [[c/_clerkish|clerkish]], [[c/_clerky|clerky]]
 #adverb
 - **In a scholarly manner.**
 ---

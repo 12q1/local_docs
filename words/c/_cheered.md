@@ -8,5 +8,5 @@
 	- _Example: The crowd cheered in support of the athletes._
 ---
 ### Antonyms
-- [[boo]]
+- [[b/_boo|boo]]
 ---

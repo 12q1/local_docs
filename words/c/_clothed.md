@@ -7,10 +7,10 @@
 	- _Example: to clothe somebody with authority or power_
 ---
 ### Synonyms
-- [[dight]], [[don]], [[put on]]
+- [[d/_dight|dight]], [[d/_don|don]]
 #adjective
 - **Wearing [[c/_clothes|clothes]] or [[c/_clothing|clothing]].**
 ---
 ### Synonyms
-- [[clad]], [[dressed]], [[raimented]]
+- [[c/_clad|clad]], [[d/_dressed|dressed]], [[r/_raimented|raimented]]
 ---

@@ -19,5 +19,5 @@
 - **To [[c/_crouch|crouch]]; to [[c/_cringe|cringe]].**
 ---
 ### Synonyms
-- [[bow]], [[flex]], [[incurvate]], [[behedge]], [[curtail]], [[limit]], [[bend]], [[fawn]], [[stoop]], [[curb stomp]]
+- [[b/_bow|bow]], [[f/_flex|flex]], [[i/_incurvate|incurvate]], [[b/_behedge|behedge]], [[c/_curtail|curtail]], [[l/_limit|limit]], [[b/_bend|bend]], [[f/_fawn|fawn]], [[s/_stoop|stoop]]
 ---

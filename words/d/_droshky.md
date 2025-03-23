@@ -1,8 +1,8 @@
 # Droshky
 ---
 #noun
-- **An open horse-[[d/_drawn|drawn]] [[c/_carriage|carriage]], especially in Russia.**
+- **An open horse-[[d/_drawn|drawn]] [[c/_carriage|carriage]], [[e/_especially|especially]] in Russia.**
 ---
 ### Synonyms
-- [[droitzschka]]
+- [[d/_droitzschka|droitzschka]]
 ---

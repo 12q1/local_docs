@@ -5,5 +5,5 @@
 - **Inordinate [[d/_desire|desire]] for some supposed good.**
 ---
 ### Synonyms
-- [[avariciousness]], [[covetousness]], [[cupidity]]
+- [[a/_avariciousness|avariciousness]], [[c/_covetousness|covetousness]], [[c/_cupidity|cupidity]]
 ---

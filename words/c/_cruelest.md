@@ -7,7 +7,7 @@
 - **[[c/_cool|Cool]]; [[a/_awesome|awesome]]; neat.**
 ---
 ### Synonyms
-- [[brutal]], [[sadistic]]
+- [[b/_brutal|brutal]], [[s/_sadistic|sadistic]]
 ### Antonyms
-- [[merciful]]
+- [[m/_merciful|merciful]]
 ---

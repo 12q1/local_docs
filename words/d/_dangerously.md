@@ -4,5 +4,5 @@
 - **In a [[d/_dangerous|dangerous]] manner.**
 ---
 ### Antonyms
-- [[safely]]
+- [[s/_safely|safely]]
 ---

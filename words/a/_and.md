@@ -8,5 +8,5 @@
 - **(heading) Expressing a [[c/_condition|condition]].**
 ---
 ### Synonyms
-- [[&]], [['n']], [[+]], [[as well as]], [[in addition to]], [[together with]]
+- [[&/_&|&]], [['/_'n'|'n']], [[+/_+|+]]
 ---

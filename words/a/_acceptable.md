@@ -7,5 +7,5 @@
 	- _Example: The designs were acceptable, but they were nothing special either._
 ---
 ### Antonyms
-- [[inacceptable]], [[unacceptable]]
+- [[i/_inacceptable|inacceptable]], [[u/_unacceptable|unacceptable]]
 ---

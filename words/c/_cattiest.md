@@ -6,5 +6,5 @@
 	- _Example: a catty smell_
 ---
 ### Synonyms
-- [[bitchy]], [[cattish]], [[malicious]], [[nasty]], [[snide]], [[spiteful]]
+- [[b/_bitchy|bitchy]], [[c/_cattish|cattish]], [[m/_malicious|malicious]], [[n/_nasty|nasty]], [[s/_snide|snide]], [[s/_spiteful|spiteful]]
 ---

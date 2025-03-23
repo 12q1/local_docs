@@ -17,8 +17,8 @@
 - **To [[b/_bombard|bombard]] with [[c/_cannons|cannons]].**
 - **To play the [[c/_carom|carom]] [[b/_billiard|billiard]] shot. To strike two [[b/_balls|balls]] with the [[c/_cue|cue]] [[b/_ball|ball]]**
 	- _Example: The white cannoned off the red onto the pink._
-- **To fire something, especially spherical, rapidly.**
-- **To [[c/_collide|collide]] or strike violently, especially so as to glance off or rebound.**
+- **To fire something, [[e/_especially|especially]] spherical, rapidly.**
+- **To [[c/_collide|collide]] or strike violently, [[e/_especially|especially]] so as to glance off or rebound.**
 ---
 #noun
 - **A generally [[a/_accepted|accepted]] principle; a rule.**
@@ -26,7 +26,7 @@
 - **A group of literary works that are generally [[a/_accepted|accepted]] as representing a field.**
 - **The works of a writer that have [[b/_been|been]] [[a/_accepted|accepted]] as [[a/_authentic|authentic]].**
 	- _Example: the entire Shakespeare canon_
-- **A eucharistic prayer, particularly the Roman [[c/_canon|Canon]].**
+- **A [[e/_eucharistic|eucharistic]] prayer, particularly the Roman [[c/_canon|Canon]].**
 - **A religious law or [[b/_body|body]] of law [[d/_decreed|decreed]] by the [[c/_church|church]].**
 	- _Example: We must proceed according to canon law._
 - **A [[c/_catalogue|catalogue]] of saints [[a/_acknowledged|acknowledged]] and [[c/_canonized|canonized]] in the Roman [[c/_catholic|Catholic]] [[c/_church|Church]].**
@@ -35,7 +35,7 @@
 - **A piece of music in which the same melody is played by [[d/_different|different]] voices, but [[b/_beginning|beginning]] at [[d/_different|different]] times; a round.**
 	- _Example: Pachelbel’s Canon has become very popular._
 - **(Roman law) A rent or stipend payable at some regular time, generally [[a/_annual|annual]], [[e/_e|e]].g., [[c/_canon|canon]] frumentarius**
-- **Those sources, especially including literary works, which are [[c/_considered|considered]] part of the main [[c/_continuity|continuity]] regarding a given fictional universe.**
+- **Those sources, [[e/_especially|especially]] including literary works, which are [[c/_considered|considered]] part of the main [[c/_continuity|continuity]] regarding a given fictional universe.**
 	- _Example: A spin-off book series revealed the aliens to be originally from Earth, but it's not canon._
 - **A rolled and filleted loin of meat; [[a/_also|also]] [[c/_called|called]] [[c/_cannon|cannon]].**
 	- _Example: a canon of beef or lamb_
@@ -44,7 +44,7 @@
 - **A [[c/_carom|carom]].**
 ---
 ### Synonyms
-- [[French canon]]
+- 
 #noun
 - **A [[c/_clergy|clergy]] member serving a [[c/_cathedral|cathedral]] or [[c/_collegiate|collegiate]] [[c/_church|church]].**
 - **A [[c/_canon|canon]] regular, a member of [[a/_any|any]] of several Roman [[c/_catholic|Catholic]] religious orders.**

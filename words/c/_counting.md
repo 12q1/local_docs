@@ -15,11 +15,11 @@
 - **To plead orally; to [[a/_argue|argue]] a matter in [[c/_court|court]]; to recite a [[c/_count|count]].**
 ---
 ### Synonyms
-- [[enumerate]], [[number]]
+- [[e/_enumerate|enumerate]], [[n/_number|number]]
 #noun
 - **A [[c/_count|count]]**
 - **The [[a/_act|act]] by which something is [[c/_counted|counted]].**
 ---
 ### Synonyms
-- [[enumeration]], [[numbering]]
+- [[e/_enumeration|enumeration]], [[n/_numbering|numbering]]
 ---

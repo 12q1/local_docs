@@ -21,5 +21,5 @@
 	- _Example: to boom railroad or mining shares_
 ---
 ### Synonyms
-- [[flourish]], [[prosper]]
+- [[f/_flourish|flourish]], [[p/_prosper|prosper]]
 ---

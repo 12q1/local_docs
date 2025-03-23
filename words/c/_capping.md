@@ -28,7 +28,7 @@
 - **The [[a/_act|act]] of removing one's hat as a token of respect.**
 - **The leached upper part of a [[b/_body|body]] or rock that still [[c/_contains|contains]] [[d/_disseminated|disseminated]] sulphide mineral [[d/_deposit|deposit]].**
 - **The process of [[c/_covering|covering]] a [[b/_borehole|borehole]] in order to seal an oil well.**
-- **The selling of a security etc. [[c/_close|close]] to an expiry [[d/_date|date]].**
+- **The selling of a security [[e/_etc|etc]]. [[c/_close|close]] to an expiry [[d/_date|date]].**
 - **The [[c/_conversion|conversion]] of a polyhedron into a stellated polyhedron by raising a pyramid on [[e/_each|each]] face.**
 - **The recording of a television [[b/_broadcast|broadcast]] to one's [[c/_computer|computer]].**
 ---

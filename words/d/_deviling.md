@@ -7,5 +7,5 @@
 - **To prepare (food) with spices, making it spicy:**
 ---
 ### Synonyms
-- [[bedevil]]
+- [[b/_bedevil|bedevil]]
 ---

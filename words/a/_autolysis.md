@@ -8,5 +8,5 @@
 - **A two-stage mixing process where water and flour are [[c/_combined|combined]] first [[b/_before|before]] [[a/_adding|adding]] leavening and salt.**
 ---
 ### Synonyms
-- [[autodigestion]]
+- [[a/_autodigestion|autodigestion]]
 ---

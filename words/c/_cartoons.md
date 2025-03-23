@@ -8,7 +8,7 @@
 - **A [[d/_diagram|diagram]] in a scientific [[c/_concept|concept]].**
 ---
 ### Synonyms
-- [[animated cartoon]], [[animation]], [[comic strip]], [[strip cartoon]], [[caricature]], [[political cartoon]]
+- [[a/_animation|animation]], [[c/_caricature|caricature]]
 #verb
 - **To [[d/_draw|draw]] a [[c/_cartoon|cartoon]], a humorous [[d/_drawing|drawing]].**
 - **To make a preliminary sketch.**

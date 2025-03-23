@@ -9,7 +9,7 @@
 - **Relating to a [[b/_benefice|benefice]].**
 ---
 ### Synonyms
-- [[advantageous]], [[behooveful]], [[helpful]], [[useful]], [[usufructuary]], [[usufructuous]]
+- [[a/_advantageous|advantageous]], [[b/_behooveful|behooveful]], [[h/_helpful|helpful]], [[u/_useful|useful]], [[u/_usufructuary|usufructuary]], [[u/_usufructuous|usufructuous]]
 ### Antonyms
-- [[damaging]], [[harmful]], [[maleficial]], [[nocuous]], [[harmless]], [[innocuous]], [[undamaging]]
+- [[d/_damaging|damaging]], [[h/_harmful|harmful]], [[m/_maleficial|maleficial]], [[n/_nocuous|nocuous]], [[h/_harmless|harmless]], [[i/_innocuous|innocuous]], [[u/_undamaging|undamaging]]
 ---

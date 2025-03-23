@@ -7,5 +7,5 @@
 - **[[a/_any|Any]] [[e/_enclosed|enclosed]] sexine and nexine layers, widening toward the interior of the grain.**
 ---
 ### Synonyms
-- [[cavaedium]]
+- [[c/_cavaedium|cavaedium]]
 ---

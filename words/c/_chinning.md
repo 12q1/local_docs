@@ -11,5 +11,5 @@
 - **To indicate or point toward (someone or something) with one's [[c/_chin|chin]].**
 ---
 ### Synonyms
-- [[gab]]
+- [[g/_gab|gab]]
 ---

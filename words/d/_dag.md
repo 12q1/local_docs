@@ -5,7 +5,7 @@
 - **A [[d/_dangling|dangling]] lock of sheep’s wool matted with [[d/_dung|dung]].**
 ---
 ### Synonyms
-- [[dagging]], [[daglock]], [[taglock]], [[dung tag]]
+- [[d/_dagging|dagging]], [[d/_daglock|daglock]], [[t/_taglock|taglock]]
 #verb
 - **To shear the hindquarters of a sheep in order to remove [[d/_dags|dags]] or prevent their formation.**
 - **To [[d/_daggle|daggle]] or [[b/_bemire|bemire]].**

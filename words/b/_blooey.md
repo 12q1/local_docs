@@ -7,5 +7,5 @@
 - **Exclamation representing an explosion or [[a/_abrupt|abrupt]] occurrence.**
 ---
 ### Synonyms
-- [[bam]], [[bang]], [[kablooie]]
+- [[b/_bam|bam]], [[b/_bang|bang]], [[k/_kablooie|kablooie]]
 ---

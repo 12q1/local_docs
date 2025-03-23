@@ -17,7 +17,7 @@
 - **A mound; a [[b/_barrow|barrow]].**
 ---
 #noun
-- **A [[b/_burrow|burrow]], especially a rabbit's [[b/_burrow|burrow]].**
+- **A [[b/_burrow|burrow]], [[e/_especially|especially]] a rabbit's [[b/_burrow|burrow]].**
 - **An excavation; a military mine.**
 ---
 #verb

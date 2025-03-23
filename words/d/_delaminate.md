@@ -6,5 +6,5 @@
 	- _Example: Water damage caused the plywood of the floor to delaminate. The layers came apart and the whole piece had to be replaced._
 ---
 ### Synonyms
-- [[delam]]
+- [[d/_delam|delam]]
 ---

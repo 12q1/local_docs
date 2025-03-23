@@ -5,5 +5,5 @@
 - **A lookout posted [[d/_during|during]] a two-up game, when gambling was illegal.**
 ---
 ### Synonyms
-- [[cocky]]
+- [[c/_cocky|cocky]]
 ---

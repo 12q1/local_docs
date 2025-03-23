@@ -11,7 +11,7 @@
 	- _Example: Let me concentrate!_
 ---
 ### Antonyms
-- [[dilute]]
+- [[d/_dilute|dilute]]
 #adjective
 - **Not [[d/_dilute|dilute]]; having a high [[c/_concentration|concentration]].**
 	- _Example: We made a drink from concentrated orange juice._
@@ -19,7 +19,7 @@
 	- _Example: The concentrated fire from the enemy destroyed our fortifications._
 ---
 ### Synonyms
-- [[strong]]
+- [[s/_strong|strong]]
 ### Antonyms
-- [[haphazard]], [[sporadic]], [[diluted]]
+- [[h/_haphazard|haphazard]], [[s/_sporadic|sporadic]], [[d/_diluted|diluted]]
 ---

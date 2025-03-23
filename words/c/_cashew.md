@@ -5,5 +5,5 @@
 - **A [[c/_cashew|cashew]] nut.**
 ---
 ### Synonyms
-- [[acajou]]
+- [[a/_acajou|acajou]]
 ---

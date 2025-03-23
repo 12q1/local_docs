@@ -9,7 +9,7 @@
 	- _Example: eyes affixed upon the ground_
 ---
 ### Synonyms
-- [[join]], [[put together]], [[unite]]
+- [[j/_join|join]], [[u/_unite|unite]]
 #adjective
 - **[[e/_enduringly|Enduringly]] stuck to, or [[a/_attached|attached]] to, something.**
 - **With an [[a/_affix|affix]].**

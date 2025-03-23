@@ -7,5 +7,5 @@
 	- _Example: Jane was the chorister of her congregation's choir, and that occupied much of her time on the weekends._
 ---
 ### Synonyms
-- [[quirister]]
+- [[q/_quirister|quirister]]
 ---

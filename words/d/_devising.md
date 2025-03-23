@@ -9,8 +9,8 @@
 - **To imagine; to guess.**
 ---
 #noun
-- **The [[a/_act|act]] of [[c/_creating|creating]] a plan or some object, especially a will**
+- **The [[a/_act|act]] of [[c/_creating|creating]] a plan or some object, [[e/_especially|especially]] a will**
 ---
 ### Synonyms
-- [[fashioning]], [[making]]
+- [[f/_fashioning|fashioning]], [[m/_making|making]]
 ---

@@ -8,7 +8,7 @@
 - **The process by which a public [[e/_entity|entity]] exercises its powers of [[e/_eminent|eminent]] [[d/_domain|domain]].**
 ---
 ### Synonyms
-- [[blame]], [[censure]], [[disapprobation]]
+- [[b/_blame|blame]], [[c/_censure|censure]], [[d/_disapprobation|disapprobation]]
 ### Antonyms
-- [[praise]], [[acquittal]], [[acquittal]], [[justification]]
+- [[p/_praise|praise]], [[a/_acquittal|acquittal]], [[a/_acquittal|acquittal]], [[j/_justification|justification]]
 ---

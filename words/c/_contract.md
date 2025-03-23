@@ -14,5 +14,5 @@
 - **Not [[a/_abstract|abstract]]; [[c/_concrete|concrete]].**
 ---
 ### Synonyms
-- [[contract law]]
+- 
 ---

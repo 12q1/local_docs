@@ -9,7 +9,7 @@
 	- _Example: He's been cranking all day and yet it refuses to crank._
 - **To [[c/_cause|cause]] to spin via other means, as though turned by a [[c/_crank|crank]].**
 	- _Example: Crank it up!_
-- **To [[a/_act|act]] in a [[c/_cranky|cranky]] manner; to [[b/_behave|behave]] unreasonably and irritably, especially through [[c/_complaining|complaining]].**
+- **To [[a/_act|act]] in a [[c/_cranky|cranky]] manner; to [[b/_behave|behave]] unreasonably and irritably, [[e/_especially|especially]] through [[c/_complaining|complaining]].**
 	- _Example: Quit cranking about your spilt milk!_
 - **To be running at a high level of output or [[e/_effort|effort]].**
 	- _Example: By one hour into the shift, the boys were really cranking._

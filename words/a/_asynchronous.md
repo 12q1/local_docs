@@ -6,7 +6,7 @@
 - **([[c/_communication|communication]]) Having many [[a/_actions|actions]] occurring at a time, in [[a/_any|any]] order, without waiting for [[e/_each|each]] other.**
 ---
 ### Synonyms
-- [[async]], [[asynch]], [[metachronous]]
+- [[a/_async|async]], [[a/_asynch|asynch]], [[m/_metachronous|metachronous]]
 ### Antonyms
-- [[synchronous]]
+- [[s/_synchronous|synchronous]]
 ---

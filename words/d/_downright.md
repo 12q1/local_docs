@@ -7,7 +7,7 @@
 - **[[c/_complete|Complete]]; [[a/_absolute|absolute]]**
 ---
 ### Synonyms
-- [[evendown]], [[right-down]], [[unambiguous]], [[unevasive]], [[utter]]
+- [[e/_evendown|evendown]], [[r/_right-down|right-down]], [[u/_unambiguous|unambiguous]], [[u/_unevasive|unevasive]], [[u/_utter|utter]]
 #adverb
 - **Really; [[a/_actually|actually]]; quite**
 	- _Example: He wasn’t just cool to me, he was downright rude._
@@ -16,5 +16,5 @@
 - **Without [[d/_delay|delay]]; at once.**
 ---
 ### Synonyms
-- [[right-down]], [[thoroughly]], [[utterly]]
+- [[r/_right-down|right-down]], [[t/_thoroughly|thoroughly]], [[u/_utterly|utterly]]
 ---

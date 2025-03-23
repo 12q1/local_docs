@@ -7,5 +7,5 @@
 - **A protruding [[b/_belly|belly]]; a paunch.**
 ---
 ### Synonyms
-- [[public limited company]]
+- 
 ---

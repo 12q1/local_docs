@@ -4,5 +4,5 @@
 - **Somewhat mad or [[e/_eccentric|eccentric]].**
 ---
 ### Synonyms
-- [[crazy]], [[nutty]], [[wacky]]
+- [[c/_crazy|crazy]], [[n/_nutty|nutty]], [[w/_wacky|wacky]]
 ---

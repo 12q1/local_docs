@@ -4,9 +4,9 @@
 - **To [[a/_appropriate|appropriate]] or lay [[c/_claim|claim]] to something for oneself without right.**
 ---
 ### Synonyms
-- [[commandeer]], [[expropriate]], [[usurp]]
+- [[c/_commandeer|commandeer]], [[e/_expropriate|expropriate]], [[u/_usurp|usurp]]
 ### Antonyms
-- [[abandon]], [[abdicate]], [[relinquish]], [[renounce]]
+- [[a/_abandon|abandon]], [[a/_abdicate|abdicate]], [[r/_relinquish|relinquish]], [[r/_renounce|renounce]]
 #adjective
 - **[[c/_claimed|Claimed]] falsely**
 ---

@@ -14,12 +14,12 @@
 - **A [[d/_drink|drink]] made by pouring water into a [[c/_cask|cask]] that previously held liquor.**
 ---
 ### Synonyms
-- [[bro]], [[cat]], [[dude]], [[guy]], [[cop]], [[copper]], [[pig]], [[rozzer]]
+- [[b/_bro|bro]], [[c/_cat|cat]], [[d/_dude|dude]], [[g/_guy|guy]], [[c/_cop|cop]], [[c/_copper|copper]], [[p/_pig|pig]], [[r/_rozzer|rozzer]]
 ### Antonyms
-- [[bear]]
+- [[b/_bear|bear]]
 #noun
 - **A papal [[b/_bull|bull]], an official [[d/_document|document]] or [[e/_edict|edict]] from the Pope.**
-- **A seal [[a/_affixed|affixed]] to a [[d/_document|document]], especially a [[d/_document|document]] from the Pope.**
+- **A seal [[a/_affixed|affixed]] to a [[d/_document|document]], [[e/_especially|especially]] a [[d/_document|document]] from the Pope.**
 ---
 #noun
 - **(16th [[c/_century|century]]) A [[b/_bubble|bubble]].**
@@ -48,5 +48,5 @@
 - **Statements made without [[a/_any|any]] particular reference to their truth value.**
 ---
 ### Synonyms
-- [[BS]], [[I doubt it]], [[cheat]], [[BS]], [[bull]], [[bulldada]], [[bullpucky]], [[bushwah]], [[malarkey]]
+- [[B/_BS|BS]], [[c/_cheat|cheat]], [[B/_BS|BS]], [[b/_bull|bull]], [[b/_bulldada|bulldada]], [[b/_bullpucky|bullpucky]], [[b/_bushwah|bushwah]], [[m/_malarkey|malarkey]]
 ---

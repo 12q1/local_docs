@@ -5,5 +5,5 @@
 - **An illustrative [[d/_discussion|discussion]] of a topic.**
 ---
 ### Synonyms
-- [[cartology]]
+- [[c/_cartology|cartology]]
 ---

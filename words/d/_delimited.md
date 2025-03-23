@@ -10,5 +10,5 @@
 - **Within set [[b/_boundaries|boundaries]] or limits.**
 ---
 ### Synonyms
-- [[bounded]], [[demarcated]]
+- [[b/_bounded|bounded]], [[d/_demarcated|demarcated]]
 ---

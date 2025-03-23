@@ -6,7 +6,7 @@
 - **The place [[b/_believed|believed]] to be inhabited by [[d/_deceased|deceased]] people.**
 ---
 ### Synonyms
-- [[eternal life]], [[hereafter]], [[hereafter]], [[other side]]
+- [[h/_hereafter|hereafter]], [[h/_hereafter|hereafter]]
 ### Antonyms
-- [[forelife]]
+- [[f/_forelife|forelife]]
 ---

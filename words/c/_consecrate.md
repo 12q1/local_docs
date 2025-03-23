@@ -5,9 +5,9 @@
 - **(specifically) To ordain as a [[b/_bishop|bishop]].**
 ---
 ### Synonyms
-- [[behallow]], [[hallow]]
+- [[b/_behallow|behallow]], [[h/_hallow|hallow]]
 ### Antonyms
-- [[defile]], [[desecrate]]
+- [[d/_defile|defile]], [[d/_desecrate|desecrate]]
 #adjective
 - **[[c/_consecrated|Consecrated]]; [[d/_devoted|devoted]]; [[d/_dedicated|dedicated]]; sacred.**
 ---

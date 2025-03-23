@@ -2,7 +2,7 @@
 ---
 #noun
 - **A small, flat, [[b/_baked|baked]] good which is [[e/_either|either]] [[c/_crisp|crisp]] or soft but firm.**
-- **A sweet [[b/_baked|baked]] good (as in the previous sense) usually having [[c/_chocolate|chocolate]] [[c/_chips|chips]], fruit, nuts etc. [[b/_baked|baked]] into it.**
+- **A sweet [[b/_baked|baked]] good (as in the previous sense) usually having [[c/_chocolate|chocolate]] [[c/_chips|chips]], fruit, nuts [[e/_etc|etc]]. [[b/_baked|baked]] into it.**
 - **A [[b/_bun|bun]].**
 - **An HTTP [[c/_cookie|cookie]].**
 - **A magic [[c/_cookie|cookie]].**
@@ -11,8 +11,8 @@
 - **A piece of [[c/_crack|crack]] [[c/_cocaine|cocaine]], larger than a rock, and often in the shape of a [[c/_cookie|cookie]].**
 ---
 ### Synonyms
-- [[bickie]], [[biscuit]]
+- [[b/_bickie|bickie]], [[b/_biscuit|biscuit]]
 #verb
-- **To send a [[c/_cookie|cookie]] to (a user, [[c/_computer|computer]], etc.).**
+- **To send a [[c/_cookie|cookie]] to (a user, [[c/_computer|computer]], [[e/_etc|etc]].).**
 ---
 ---

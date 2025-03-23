@@ -2,10 +2,10 @@
 ---
 #noun
 - **The sharp [[c/_cutting|cutting]] [[e/_edge|edge]] of a knife, [[c/_chisel|chisel]], or other tool, a razor [[b/_blade|blade]]/sword.**
-- **The flat functional [[e/_end|end]] of a propeller, oar, hockey stick, screwdriver, skate, etc.**
+- **The flat functional [[e/_end|end]] of a propeller, oar, hockey stick, screwdriver, skate, [[e/_etc|etc]].**
 - **The narrow leaf of a grass or [[c/_cereal|cereal]].**
 - **The thin, flat part of a plant leaf, [[a/_attached|attached]] to a stem (petiole). The lamina.**
-- **A flat [[b/_bone|bone]], especially the shoulder [[b/_blade|blade]].**
+- **A flat [[b/_bone|bone]], [[e/_especially|especially]] the shoulder [[b/_blade|blade]].**
 - **A [[c/_cut|cut]] of [[b/_beef|beef]] from near the shoulder [[b/_blade|blade]] (part of the [[c/_chuck|chuck]]).**
 - **The part of the tongue just [[b/_behind|behind]] the tip, used to make laminal [[c/_consonants|consonants]].**
 - **A sword or knife.**

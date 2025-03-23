@@ -14,9 +14,9 @@
 	- _Example: the commission, preparation or instigation of an act of terrorism_
 ---
 ### Synonyms
-- [[committee]], [[government body]]
+- [[c/_committee|committee]]
 ### Antonyms
-- [[omission]]
+- [[o/_omission|omission]]
 #verb
 - **To send or officially [[c/_charge|charge]] someone or some group to [[d/_do|do]] something.**
 	- _Example: James Bond was commissioned with recovering the secret documents._

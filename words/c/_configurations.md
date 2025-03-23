@@ -8,5 +8,5 @@
 - **A finite set of points and lines (and sometimes planes), generally with [[e/_equal|equal]] numbers of points per line and [[e/_equal|equal]] numbers of lines per point.**
 ---
 ### Synonyms
-- [[constitution]]
+- [[c/_constitution|constitution]]
 ---

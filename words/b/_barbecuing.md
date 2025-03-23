@@ -5,5 +5,5 @@
 - **To grill.**
 ---
 ### Synonyms
-- [[braai]]
+- [[b/_braai|braai]]
 ---

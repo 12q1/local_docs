@@ -6,5 +6,5 @@
 - **To [[c/_collect|collect]] and [[a/_arrange|arrange]] in a systematic form.**
 ---
 ### Synonyms
-- [[systematize]]
+- [[s/_systematize|systematize]]
 ---

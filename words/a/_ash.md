@@ -11,7 +11,7 @@
 - **A gray [[c/_colour|colour]], like that of [[a/_ash|ash]].**
 ---
 ### Synonyms
-- [[cremains]]
+- [[c/_cremains|cremains]]
 #verb
 - **To reduce to a residue of [[a/_ash|ash]]. See [[a/_ashing|ashing]].**
 - **To hit the [[e/_end|end]] off of a [[b/_burning|burning]] [[c/_cigar|cigar]] or [[c/_cigarette|cigarette]].**

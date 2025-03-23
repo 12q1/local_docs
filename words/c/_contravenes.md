@@ -5,5 +5,5 @@
 - **To [[d/_deny|deny]] the truth of something.**
 ---
 ### Synonyms
-- [[breach]], [[break]], [[infringe]], [[violate]], [[contradict]], [[controvert]], [[dispute]], [[gainsay]]
+- [[b/_breach|breach]], [[b/_break|break]], [[i/_infringe|infringe]], [[v/_violate|violate]], [[c/_contradict|contradict]], [[c/_controvert|controvert]], [[d/_dispute|dispute]], [[g/_gainsay|gainsay]]
 ---

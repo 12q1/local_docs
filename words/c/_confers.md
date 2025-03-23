@@ -10,5 +10,5 @@
 - **To [[c/_contribute|contribute]]; to [[c/_conduce|conduce]].**
 ---
 ### Synonyms
-- [[afford]]
+- [[a/_afford|afford]]
 ---

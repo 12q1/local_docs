@@ -7,7 +7,7 @@
 - **[[c/_careful|Careful]], [[d/_delicate|delicate]] [[c/_construction|construction]]; fine workmanship, [[d/_delicacy|delicacy]] of [[b/_building|building]].**
 ---
 ### Synonyms
-- [[inquisitiveness]]
+- [[i/_inquisitiveness|inquisitiveness]]
 ### Antonyms
-- [[ignorance]]
+- [[i/_ignorance|ignorance]]
 ---

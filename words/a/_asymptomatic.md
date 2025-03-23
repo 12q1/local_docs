@@ -7,5 +7,5 @@
 - **Not exhibiting [[a/_any|any]] symptoms of [[d/_disease|disease]].**
 ---
 ### Synonyms
-- [[symptomless]]
+- [[s/_symptomless|symptomless]]
 ---

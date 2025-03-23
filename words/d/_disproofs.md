@@ -4,5 +4,5 @@
 - **A refutation.**
 ---
 ### Synonyms
-- [[confutation]], [[refutation]]
+- [[c/_confutation|confutation]], [[r/_refutation|refutation]]
 ---

@@ -10,7 +10,7 @@
 - **An idiomatic [[d/_divide|divide]] [[b/_between|between]] the Republican Party and the [[d/_democratic|Democratic]] Party, who are said to be on two sides of the [[a/_aisle|aisle]].**
 ---
 ### Synonyms
-- [[isle]], [[aisle seat]]
+- [[i/_isle|isle]]
 ### Antonyms
-- [[window]], [[window seat]]
+- [[w/_window|window]]
 ---

@@ -6,5 +6,5 @@
 - **The masculine [[a/_aspect|aspect]] of the feminine psyche or personality.**
 ---
 ### Synonyms
-- [[bad blood]]
+- 
 ---

@@ -5,7 +5,7 @@
 - **[[c/_condemnation|Condemnation]] to everlasting punishment in the future state, or the punishment itself.**
 ---
 ### Synonyms
-- [[tarnation]]
+- [[t/_tarnation|tarnation]]
 ### Antonyms
-- [[salvation]]
+- [[s/_salvation|salvation]]
 ---

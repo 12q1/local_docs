@@ -9,7 +9,7 @@
 	- _Example: They were highly contagious, spreading bacteria to other people._
 ---
 ### Synonyms
-- [[catching]], [[infectious]], [[infectious]]
+- [[c/_catching|catching]], [[i/_infectious|infectious]], [[i/_infectious|infectious]]
 ### Antonyms
-- [[non-contagious]]
+- [[n/_non-contagious|non-contagious]]
 ---

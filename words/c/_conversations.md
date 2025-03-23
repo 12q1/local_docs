@@ -8,10 +8,10 @@
 - **Interaction; [[c/_commerce|commerce]] or intercourse with other people; [[d/_dealing|dealing]] with others.**
 - **[[b/_behaviour|Behaviour]], the way one [[c/_conducts|conducts]] oneself; a person's way of life.**
 - **Sexual intercourse.**
-- **[[e/_engagement|Engagement]] with a specific subject, idea, field of study etc.**
+- **[[e/_engagement|Engagement]] with a specific subject, idea, field of study [[e/_etc|etc]].**
 ---
 ### Synonyms
-- [[banter]], [[chat]], [[chinwag]], [[dialogue]], [[discussion]], [[interlocution]], [[powwow]], [[table talk]], [[familiarity]], [[understanding]]
+- [[b/_banter|banter]], [[c/_chat|chat]], [[c/_chinwag|chinwag]], [[d/_dialogue|dialogue]], [[d/_discussion|discussion]], [[i/_interlocution|interlocution]], [[p/_powwow|powwow]], [[f/_familiarity|familiarity]], [[u/_understanding|understanding]]
 #verb
 - **To [[e/_engage|engage]] in [[c/_conversation|conversation]] (with).**
 ---

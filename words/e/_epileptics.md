@@ -5,5 +5,5 @@
 - **A medicine for the [[c/_cure|cure]] of [[e/_epilepsy|epilepsy]].**
 ---
 ### Synonyms
-- [[antiepileptic]]
+- [[a/_antiepileptic|antiepileptic]]
 ---

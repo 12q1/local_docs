@@ -10,5 +10,5 @@
 - **[[c/_contained|Contained]] in the whole an integral number of times, a factor or [[d/_divisor|divisor]].**
 ---
 ### Antonyms
-- [[aliquant]]
+- [[a/_aliquant|aliquant]]
 ---

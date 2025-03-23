@@ -10,12 +10,12 @@
 - **Sexual intercourse with a man.**
 ---
 ### Synonyms
-- [[asshole]], [[dickhead]], [[jerk]]
+- [[a/_asshole|asshole]], [[d/_dickhead|dickhead]], [[j/_jerk|jerk]]
 #verb
 - **To mistreat or take [[a/_advantage|advantage]] of somebody (often with [[a/_around|around]] or up).**
 	- _Example: Dude, don't let them dick you around like that!_
 - **(of a man) To have sexual intercourse with.**
 ---
 ### Synonyms
-- [[bone]], [[go to bed with]], [[schlong]]
+- [[b/_bone|bone]], [[s/_schlong|schlong]]
 ---

@@ -5,7 +5,7 @@
 - **A vehicle which [[c/_can|can]] operate on land and water. See Wikipedia [[a/_article|article]] on "[[a/_amphibious|Amphibious]] [[a/_aircraft|aircraft]]"**
 ---
 ### Synonyms
-- [[amphibium]]
+- [[a/_amphibium|amphibium]]
 #adjective
 - **Of or relating to the [[c/_class|class]] [[a/_amphibia|Amphibia]].**
 - **[[c/_capable|Capable]] of operating on [[b/_both|both]] land and water [[a/_amphibious|amphibious]].**

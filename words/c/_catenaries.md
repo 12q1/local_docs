@@ -7,5 +7,5 @@
 - **A [[c/_cable|cable]], the segments of which [[b/_between|between]] supports take a [[c/_catenary|catenary]] geometric shape, supporting in turn an overhead [[c/_conductor|conductor]] that provides trains, trams or trolley [[b/_buses|buses]] with [[e/_electricity|electricity]], or the [[c/_combination|combination]] of the [[c/_conductor|conductor]], the [[c/_cable|cable]], and supports.**
 ---
 ### Synonyms
-- [[alysoid]], [[chainette]]
+- [[a/_alysoid|alysoid]], [[c/_chainette|chainette]]
 ---

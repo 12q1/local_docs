@@ -6,5 +6,5 @@
 - **Profane, obscene, offensive (usually in the phrase [[c/_colourful|colourful]] language).**
 ---
 ### Synonyms
-- [[motley]], [[multicolored]], [[polychromatic]]
+- [[m/_motley|motley]], [[m/_multicolored|multicolored]], [[p/_polychromatic|polychromatic]]
 ---

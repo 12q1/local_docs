@@ -9,5 +9,5 @@
 	- _Example: The new stain remover was ten times more effective than the competition._
 ---
 ### Antonyms
-- [[cooperation]]
+- [[c/_cooperation|cooperation]]
 ---

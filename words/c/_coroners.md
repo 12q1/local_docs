@@ -6,5 +6,5 @@
 - **The [[a/_administrative|administrative]] head of a sheading.**
 ---
 ### Synonyms
-- [[autopsier]]
+- [[a/_autopsier|autopsier]]
 ---

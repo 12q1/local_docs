@@ -7,5 +7,5 @@
 	- _Example: Ever since our argument, she has been totally distant toward me._
 ---
 ### Synonyms
-- [[aloof]], [[cold]], [[faraway]]
+- [[a/_aloof|aloof]], [[c/_cold|cold]], [[f/_faraway|faraway]]
 ---

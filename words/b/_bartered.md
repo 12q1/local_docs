@@ -5,5 +5,5 @@
 	- _Example: She bartered a bonsai for one of the rare books in my library._
 ---
 ### Synonyms
-- [[swap]], [[swop]], [[trade]]
+- [[s/_swap|swap]], [[s/_swop|swop]], [[t/_trade|trade]]
 ---

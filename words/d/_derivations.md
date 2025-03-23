@@ -6,7 +6,7 @@
 - **(genealogy) The [[a/_act|act]] of tracing origin or [[d/_descent|descent]].**
 	- _Example: the derivation of a word from an Indo-European root_
 - **(grammar) Forming a new word by [[c/_changing|changing]] the [[b/_base|base]] of [[a/_another|another]] word or by [[a/_adding|adding]] [[a/_affixes|affixes]] to it.**
-- **The state or method of [[b/_being|being]] [[d/_derived|derived]]; the relation of origin when established or [[a/_asserted|asserted]].**
+- **The state or method of [[b/_being|being]] [[d/_derived|derived]]; the relation of origin when [[e/_established|established]] or [[a/_asserted|asserted]].**
 - **That from which a thing is [[d/_derived|derived]].**
 - **That which is [[d/_derived|derived]]; a [[d/_derivative|derivative]]; a [[d/_deduction|deduction]].**
 - **The operation of [[d/_deducing|deducing]] one function from [[a/_another|another]] [[a/_according|according]] to a fixed [[d/_definition|definition]], referred to as [[d/_derivation|derivation]] or [[d/_differentiation|differentiation]]; this is the inverse operation to integration.**

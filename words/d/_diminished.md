@@ -9,7 +9,7 @@
 - **To take [[a/_away|away]]; to subtract.**
 ---
 ### Antonyms
-- [[improve]], [[renovate]], [[repair]]
+- [[i/_improve|improve]], [[r/_renovate|renovate]], [[r/_repair|repair]]
 #adjective
 - **Lessened, reduced**
 	- _Example: The diminished Roman Empire never recovered from the sack of Rome._
@@ -18,5 +18,5 @@
 - **Reduced by a semitone**
 ---
 ### Antonyms
-- [[augmented]]
+- [[a/_augmented|augmented]]
 ---

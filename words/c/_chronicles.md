@@ -4,10 +4,10 @@
 - **A written [[a/_account|account]] of events and when they happened, ordered by time.**
 ---
 ### Synonyms
-- [[annals]], [[archives]], [[chronicon]], [[diary]], [[history]], [[journal]], [[narration]], [[prehistory]], [[recital]], [[record]], [[recountal]], [[register]], [[report]], [[story]], [[version]]
+- [[a/_annals|annals]], [[a/_archives|archives]], [[c/_chronicon|chronicon]], [[d/_diary|diary]], [[h/_history|history]], [[j/_journal|journal]], [[n/_narration|narration]], [[p/_prehistory|prehistory]], [[r/_recital|recital]], [[r/_record|record]], [[r/_recountal|recountal]], [[r/_register|register]], [[r/_report|report]], [[s/_story|story]], [[v/_version|version]]
 #verb
 - **To record in or as in a [[c/_chronicle|chronicle]].**
 ---
 ### Synonyms
-- [[record]]
+- [[r/_record|record]]
 ---

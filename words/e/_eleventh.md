@@ -9,5 +9,5 @@
 - **The ordinal form of the number [[e/_eleven|eleven]].**
 ---
 ### Synonyms
-- [[11th]], [[XI]], [[XIth]]
+- [[1/_11th|11th]], [[X/_XI|XI]], [[X/_XIth|XIth]]
 ---

@@ -9,5 +9,5 @@
 - **(with “as” or “like”) Expressing an indefinite [[c/_comparison|comparison]].**
 ---
 ### Synonyms
-- [[aught]]
+- [[a/_aught|aught]]
 ---

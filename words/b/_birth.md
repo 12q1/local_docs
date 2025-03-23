@@ -11,15 +11,15 @@
 - **That which is [[b/_born|born]].**
 ---
 ### Antonyms
-- [[death]]
+- [[d/_death|death]]
 #verb
 - **To [[b/_bear|bear]] or give [[b/_birth|birth]] to (a [[c/_child|child]]).**
 - **To produce, give rise to.**
 ---
 #adjective
-- **A familial relationship established by [[c/_childbirth|childbirth]].**
+- **A familial relationship [[e/_established|established]] by [[c/_childbirth|childbirth]].**
 	- _Example: Her birth father left when she was a baby; she was raised by her mother and stepfather._
 ---
 ### Synonyms
-- [[biological]], [[blood]], [[consanguineous]]
+- [[b/_biological|biological]], [[b/_blood|blood]], [[c/_consanguineous|consanguineous]]
 ---

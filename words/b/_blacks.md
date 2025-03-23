@@ -3,7 +3,7 @@
 #noun
 - **The [[c/_colour|colour]]/[[c/_color|color]] perceived in the [[a/_absence|absence]] of light, but [[a/_also|also]] when no light is reflected, but rather [[a/_absorbed|absorbed]].**
 - **A [[b/_black|black]] [[d/_dye|dye]] or pigment.**
-- **A pen, pencil, [[c/_crayon|crayon]], etc., made of [[b/_black|black]] pigment.**
+- **A pen, pencil, [[c/_crayon|crayon]], [[e/_etc|etc]]., made of [[b/_black|black]] pigment.**
 - **(in the plural) [[b/_black|Black]] [[c/_cloth|cloth]] hung up at funerals.**
 - **(sometimes [[c/_capitalised|capitalised]]) A person of [[a/_african|African]], [[a/_aborigine|Aborigine]], or Maori [[d/_descent|descent]]; a [[d/_dark|dark]]-skinned person.**
 - **[[b/_blackness|Blackness]], the [[c/_condition|condition]] of having [[d/_dark|dark]] skin.**
@@ -19,12 +19,12 @@
 - **Marijuana.**
 ---
 ### Antonyms
-- [[white]]
+- [[w/_white|white]]
 #verb
 - **To make [[b/_black|black]]; to [[b/_blacken|blacken]].**
 - **To [[a/_apply|apply]] [[b/_blacking|blacking]] to (something).**
 - **To [[b/_boycott|boycott]], usually as part of an industrial [[d/_dispute|dispute]].**
 ---
 ### Synonyms
-- [[blackball]], [[blacklist]], [[blacken]], [[darken]], [[swarten]]
+- [[b/_blackball|blackball]], [[b/_blacklist|blacklist]], [[b/_blacken|blacken]], [[d/_darken|darken]], [[s/_swarten|swarten]]
 ---

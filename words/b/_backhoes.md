@@ -5,5 +5,5 @@
 - **A multi-purpose tractor with a front-mounted loading [[b/_bucket|bucket]] and a rear-mounted [[d/_digging|digging]] [[b/_bucket|bucket]].**
 ---
 ### Synonyms
-- [[excavator]], [[backhoe endloader]], [[backhoe loader]], [[loader excavator]]
+- [[e/_excavator|excavator]]
 ---

@@ -6,5 +6,5 @@
 - **An [[a/_attendant|attendant]], [[a/_assistant|assistant]] or follower.**
 ---
 ### Synonyms
-- [[sidekick]]
+- [[s/_sidekick|sidekick]]
 ---

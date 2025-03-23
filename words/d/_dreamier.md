@@ -9,5 +9,5 @@
 - **Tending to [[d/_dream|dream]] or [[d/_daydream|daydream]].**
 ---
 ### Synonyms
-- [[dreamish]], [[dreamlike]], [[oneiric]]
+- [[d/_dreamish|dreamish]], [[d/_dreamlike|dreamlike]], [[o/_oneiric|oneiric]]
 ---

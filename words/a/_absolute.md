@@ -13,7 +13,7 @@
 #adjective
 - **Free of restrictions, limitations, qualifications or [[c/_conditions|conditions]]; unconditional.**
 	- _Example: 1658, Samuel Hoard, God[']s Love to Mankind, Manifested, by disprooving his absolute decree for their damnation_
-- **Free from imperfection, perfect, [[c/_complete|complete]]; especially, perfectly [[e/_embodying|embodying]] a quality in its essential [[c/_characteristics|characteristics]] or to its highest [[d/_degree|degree]].**
+- **Free from imperfection, perfect, [[c/_complete|complete]]; [[e/_especially|especially]], perfectly [[e/_embodying|embodying]] a quality in its [[e/_essential|essential]] [[c/_characteristics|characteristics]] or to its highest [[d/_degree|degree]].**
 	- _Example: absolute purity, absolute liberty_
 - **Pure, free from mixture or [[a/_adulteration|adulteration]]; unmixed.**
 	- _Example: absolute alcohol_
@@ -30,12 +30,12 @@
 	- _Example: absolute deviation_
 - **Indicating an expression that is true for [[a/_all|all]] real numbers, or of [[a/_all|all]] values of the variable; unconditional.**
 - **Pertaining to a grading system [[b/_based|based]] on the knowledge of the individual and not on the [[c/_comparative|comparative]] knowledge of the group of students.**
-- **Independent of (references to) other [[a/_arts|arts]]; expressing things ([[b/_beauty|beauty]], ideas, etc) only in one [[a/_art|art]].**
+- **Independent of (references to) other [[a/_arts|arts]]; expressing things ([[b/_beauty|beauty]], ideas, [[e/_etc|etc]]) only in one [[a/_art|art]].**
 	- _Example: absolute music_
 - **[[a/_absolved|Absolved]]; free.**
 ---
 ### Synonyms
-- [[categorical]], [[unconditional]], [[unlimited]], [[unrestricted]], [[independent]], [[autocratic]], [[despotic]]
+- [[c/_categorical|categorical]], [[u/_unconditional|unconditional]], [[u/_unlimited|unlimited]], [[u/_unrestricted|unrestricted]], [[i/_independent|independent]], [[a/_autocratic|autocratic]], [[d/_despotic|despotic]]
 ### Antonyms
-- [[conditional]], [[limited]], [[dependent]], [[relative]]
+- [[c/_conditional|conditional]], [[l/_limited|limited]], [[d/_dependent|dependent]], [[r/_relative|relative]]
 ---

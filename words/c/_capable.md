@@ -6,5 +6,5 @@
 - **Of sufficient [[c/_capacity|capacity]] or size for holding, [[c/_containing|containing]], receiving or taking in; [[a/_accessible|accessible]] to. [[c/_construed|Construed]] with of, for or an infinitive.**
 ---
 ### Antonyms
-- [[incapable]]
+- [[i/_incapable|incapable]]
 ---

@@ -7,7 +7,7 @@
 ---
 #adjective
 - **Having a highly [[d/_developed|developed]] society or [[c/_culture|culture]].**
-- **Showing evidence of moral and intellectual [[a/_advancement|advancement]]; humane, reasonable, ethical.**
+- **Showing evidence of moral and intellectual [[a/_advancement|advancement]]; humane, reasonable, [[e/_ethical|ethical]].**
 - **Marked by refinement in taste and manners.**
 ---
 ---

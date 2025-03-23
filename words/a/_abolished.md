@@ -6,7 +6,7 @@
 - **To put an [[e/_end|end]] to or [[d/_destroy|destroy]], as a physical object; to wipe out.**
 ---
 ### Synonyms
-- [[abrogate]], [[annul]], [[cancel]], [[dissolve]], [[nullify]], [[repeal]], [[revoke]]
+- [[a/_abrogate|abrogate]], [[a/_annul|annul]], [[c/_cancel|cancel]], [[d/_dissolve|dissolve]], [[n/_nullify|nullify]], [[r/_repeal|repeal]], [[r/_revoke|revoke]]
 ### Antonyms
-- [[establish]], [[found]]
+- [[e/_establish|establish]], [[f/_found|found]]
 ---

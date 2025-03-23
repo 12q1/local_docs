@@ -4,7 +4,7 @@
 - **The [[a/_act|act]] of [[d/_disapproving|disapproving]]; [[c/_condemnation|condemnation]].**
 ---
 ### Synonyms
-- [[disapprobation]]
+- [[d/_disapprobation|disapprobation]]
 ### Antonyms
-- [[approval]]
+- [[a/_approval|approval]]
 ---

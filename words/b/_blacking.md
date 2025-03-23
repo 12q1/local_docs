@@ -6,7 +6,7 @@
 - **To [[b/_boycott|boycott]], usually as part of an industrial [[d/_dispute|dispute]].**
 ---
 ### Synonyms
-- [[blackball]], [[blacklist]], [[blacken]], [[darken]], [[swarten]]
+- [[b/_blackball|blackball]], [[b/_blacklist|blacklist]], [[b/_blacken|blacken]], [[d/_darken|darken]], [[s/_swarten|swarten]]
 #noun
 - **A preparation, [[c/_containing|containing]] lampblack, used to produce a shiny [[b/_black|black]] [[c/_coating|coating]].**
 - **Shoe polish.**

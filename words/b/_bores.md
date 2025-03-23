@@ -26,10 +26,10 @@
 - **To fool; to trick.**
 ---
 ### Antonyms
-- [[interest]]
+- [[i/_interest|interest]]
 #noun
-- **A sudden and rapid flow of tide occuring in [[c/_certain|certain]] rivers and estuaries which rolls up as a wave.**
+- **A sudden and rapid flow of tide occuring in [[c/_certain|certain]] rivers and [[e/_estuaries|estuaries]] which rolls up as a wave.**
 ---
 ### Synonyms
-- [[eagre]]
+- [[e/_eagre|eagre]]
 ---

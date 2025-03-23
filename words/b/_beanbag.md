@@ -8,5 +8,5 @@
 - **An idiot.**
 ---
 ### Synonyms
-- [[beanbag chair]], [[Hacky-Sack]]
+- [[H/_Hacky-Sack|Hacky-Sack]]
 ---

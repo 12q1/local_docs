@@ -12,5 +12,5 @@
 - **A [[b/_banknote|banknote]] in the [[d/_denomination|denomination]] of one hundred [[d/_dollars|dollars]].**
 ---
 ### Synonyms
-- [[centuria]], [[yearhundred]]
+- [[c/_centuria|centuria]], [[y/_yearhundred|yearhundred]]
 ---

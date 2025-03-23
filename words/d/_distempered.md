@@ -13,5 +13,5 @@
 - **[[a/_affected|Affected]] with or suffering from [[d/_distemper|distemper]].**
 ---
 ### Synonyms
-- [[diseased]]
+- [[d/_diseased|diseased]]
 ---

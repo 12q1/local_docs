@@ -9,7 +9,7 @@
 - **A little [[e/_elevated|elevated]] spot or [[c/_clump|clump]] of [[e/_earth|earth]], roots, and grass, in a marsh or swamp.**
 ---
 ### Synonyms
-- [[mire]], [[quagmire]], [[bogland]], [[bogmire]], [[fen]], [[marsh]], [[marshland]], [[mire]], [[morass]], [[moss]], [[muskeg]], [[pakihi]], [[peat bog]], [[quagmire]], [[slough]], [[swamp]], [[swampland]], [[wetlands]]
+- [[m/_mire|mire]], [[q/_quagmire|quagmire]], [[b/_bogland|bogland]], [[b/_bogmire|bogmire]], [[f/_fen|fen]], [[m/_marsh|marsh]], [[m/_marshland|marshland]], [[m/_mire|mire]], [[m/_morass|morass]], [[m/_moss|moss]], [[m/_muskeg|muskeg]], [[p/_pakihi|pakihi]], [[q/_quagmire|quagmire]], [[s/_slough|slough]], [[s/_swamp|swamp]], [[s/_swampland|swampland]], [[w/_wetlands|wetlands]]
 #verb
 - **(now often with "[[d/_down|down]]") To sink or submerge someone or something into [[b/_bogland|bogland]].**
 - **To prevent or slow someone or something from making progress.**
@@ -56,10 +56,10 @@
 - **A young [[a/_apprentice|apprentice]] jockey.**
 ---
 ### Synonyms
-- [[bog]], [[bogey]], [[boggard]], [[boggle]], [[bogle]], [[bugbear]], [[defect]], [[glitch]]
+- [[b/_bog|bog]], [[b/_bogey|bogey]], [[b/_boggard|boggard]], [[b/_boggle|boggle]], [[b/_bogle|bogle]], [[b/_bugbear|bugbear]], [[d/_defect|defect]], [[g/_glitch|glitch]]
 #noun
 - **A microfossil, particularly a foraminiferan.**
 ---
 ### Synonyms
-- [[bug]]
+- [[b/_bug|bug]]
 ---

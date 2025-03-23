@@ -9,5 +9,5 @@
 - **An [[a/_amnesty|amnesty]]; a putting out of memory.**
 ---
 ### Antonyms
-- [[establishment]], [[foundation]]
+- [[e/_establishment|establishment]], [[f/_foundation|foundation]]
 ---

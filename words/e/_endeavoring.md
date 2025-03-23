@@ -7,7 +7,7 @@
 - **To work with purpose.**
 ---
 ### Synonyms
-- [[strive]]
+- [[s/_strive|strive]]
 #noun
 - **The [[a/_act|act]] by which one [[e/_endeavors|endeavors]] or strives; an [[a/_attempt|attempt]].**
 ---

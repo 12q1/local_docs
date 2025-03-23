@@ -9,5 +9,5 @@
 	- _Example: a poor apology for a hotel room_
 ---
 ### Synonyms
-- [[apologia]]
+- [[a/_apologia|apologia]]
 ---

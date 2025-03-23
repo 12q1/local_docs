@@ -10,7 +10,7 @@
 	- _Example: The protesting students derailed the professor's lecture._
 ---
 ### Synonyms
-- [[unrail]]
+- [[u/_unrail|unrail]]
 #noun
 - **The [[a/_act|act]] by which something is [[d/_derailed|derailed]].**
 ---

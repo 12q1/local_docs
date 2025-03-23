@@ -8,13 +8,13 @@
 - **To remove [[e/_equipment|equipment]] from a [[c/_climbing|climbing]] route [[a/_after|after]] it was previously lead [[c/_climbed|climbed]].**
 - **To make things [[c/_clean|clean]] in general.**
 	- _Example: She just likes to clean. That’s why I married her._
-- **To remove unnecessary files, etc. from (a [[d/_directory|directory]], etc.).**
+- **To remove unnecessary files, [[e/_etc|etc]]. from (a [[d/_directory|directory]], [[e/_etc|etc]].).**
 - **To [[b/_brush|brush]] the ice lightly in front of a moving rock to remove [[a/_any|any]] [[d/_debris|debris]] and [[e/_ensure|ensure]] a [[c/_correct|correct]] line; less vigorous than a sweep.**
 - **To purge a raw of [[a/_any|any]] [[b/_blemishes|blemishes]] [[c/_caused|caused]] by the scanning process such as [[b/_brown|brown]] tinting and poor [[c/_color|color]] [[c/_contrast|contrast]].**
 - **To remove guts and/or scales of a [[b/_butchered|butchered]] [[a/_animal|animal]].**
 ---
 #noun
 - **(gerund of [[c/_clean|clean]]) The process of making something [[c/_clean|clean]].**
-- **The [[a/_afterbirth|afterbirth]] of [[c/_cows|cows]], ewes, etc.**
+- **The [[a/_afterbirth|afterbirth]] of [[c/_cows|cows]], ewes, [[e/_etc|etc]].**
 ---
 ---

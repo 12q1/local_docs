@@ -9,5 +9,5 @@
 - **A [[c/_catalyst|catalyst]] used to promote the [[d/_drying|drying]] of paints and varnishes by oxidative crosslinking.**
 ---
 ### Synonyms
-- [[clothes dryer]], [[tumble dryer]]
+- 
 ---

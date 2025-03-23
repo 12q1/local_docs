@@ -8,5 +8,5 @@
 	- _Example: astounding success; an astounding spectacle_
 ---
 ### Synonyms
-- [[amazing]], [[extraordinary]], [[fantastic]], [[incredible]], [[marvelous]], [[miraculous]], [[phenomenal]], [[remarkable]], [[unbelievable]]
+- [[a/_amazing|amazing]], [[e/_extraordinary|extraordinary]], [[f/_fantastic|fantastic]], [[i/_incredible|incredible]], [[m/_marvelous|marvelous]], [[m/_miraculous|miraculous]], [[p/_phenomenal|phenomenal]], [[r/_remarkable|remarkable]], [[u/_unbelievable|unbelievable]]
 ---

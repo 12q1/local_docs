@@ -6,7 +6,7 @@
 - **(slang, [[c/_chiefly|chiefly]] US) [[c/_crack|crack]] [[c/_cocaine|cocaine]].**
 ---
 ### Synonyms
-- [[confectionery]], [[lollies]], [[sugar candy]], [[sweet]], [[lolly]], [[sweet]]
+- [[c/_confectionery|confectionery]], [[l/_lollies|lollies]], [[s/_sweet|sweet]], [[l/_lolly|lolly]], [[s/_sweet|sweet]]
 #verb
 - **To [[c/_cook|cook]] in, or [[c/_coat|coat]] with, sugar syrup.**
 - **To have sugar [[c/_crystals|crystals]] form in or on.**
@@ -17,5 +17,5 @@
 - **A unit of mass used in southern India, [[e/_equal|equal]] to twenty maunds, roughly [[e/_equal|equal]] to 500 pounds [[a/_avoirdupois|avoirdupois]] but varying locally.**
 ---
 ### Synonyms
-- [[maunee]]
+- [[m/_maunee|maunee]]
 ---

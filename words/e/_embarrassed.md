@@ -9,14 +9,14 @@
 	- _Example: A man or his business is embarrassed when he cannot meet his pecuniary engagements._
 ---
 ### Synonyms
-- [[abash]], [[discomfit]], [[disconcert]], [[humiliate]], [[shame]]
+- [[a/_abash|abash]], [[d/_discomfit|discomfit]], [[d/_disconcert|disconcert]], [[h/_humiliate|humiliate]], [[s/_shame|shame]]
 #adjective
 - **Having a feeling of shameful [[d/_discomfort|discomfort]].**
 	- _Example: After returning from the pool, Aleshia felt significantly better, though she was still slightly embarrassed._
 - **Impeded; obstructed.**
 ---
 ### Synonyms
-- [[ashamed]]
+- [[a/_ashamed|ashamed]]
 ### Antonyms
-- [[honored]], [[proud]]
+- [[h/_honored|honored]], [[p/_proud|proud]]
 ---

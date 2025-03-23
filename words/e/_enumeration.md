@@ -7,5 +7,5 @@
 - **A [[d/_data|data]] type that [[a/_allows|allows]] variables to have [[a/_any|any]] of a predefined set of values.**
 ---
 ### Synonyms
-- [[numbering]], [[telling]], [[enum]]
+- [[n/_numbering|numbering]], [[t/_telling|telling]], [[e/_enum|enum]]
 ---

@@ -5,7 +5,7 @@
 - **Something [[a/_abnormal|abnormal]]; an [[a/_aberration|aberration]]; an [[a/_abnormal|abnormal]] occurrence or feature.**
 ---
 ### Synonyms
-- [[aberrant]], [[deviant]], [[outlier]], [[abnormalcy]], [[anomalousness]], [[enormity]], [[weirdness]]
+- [[a/_aberrant|aberrant]], [[d/_deviant|deviant]], [[o/_outlier|outlier]], [[a/_abnormalcy|abnormalcy]], [[a/_anomalousness|anomalousness]], [[e/_enormity|enormity]], [[w/_weirdness|weirdness]]
 ### Antonyms
-- [[normality]]
+- [[n/_normality|normality]]
 ---

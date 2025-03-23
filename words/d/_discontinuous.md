@@ -5,7 +5,7 @@
 - **Having at least one [[d/_discontinuity|discontinuity]]**
 ---
 ### Synonyms
-- [[patchy]], [[spasmodic]]
+- [[p/_patchy|patchy]], [[s/_spasmodic|spasmodic]]
 ### Antonyms
-- [[continuous]], [[continuous]]
+- [[c/_continuous|continuous]], [[c/_continuous|continuous]]
 ---

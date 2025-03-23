@@ -5,5 +5,5 @@
 	- _Example: The old fellow chortled as he recalled his youthful adventures._
 ---
 ### Synonyms
-- [[chuckle]]
+- [[c/_chuckle|chuckle]]
 ---

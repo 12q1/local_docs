@@ -6,7 +6,7 @@
 - **(slang, [[c/_chiefly|chiefly]] US) [[c/_crack|crack]] [[c/_cocaine|cocaine]].**
 ---
 ### Synonyms
-- [[confectionery]], [[lollies]], [[sugar candy]], [[sweet]], [[lolly]], [[sweet]]
+- [[c/_confectionery|confectionery]], [[l/_lollies|lollies]], [[s/_sweet|sweet]], [[l/_lolly|lolly]], [[s/_sweet|sweet]]
 #verb
 - **To [[c/_cook|cook]] in, or [[c/_coat|coat]] with, sugar syrup.**
 - **To have sugar [[c/_crystals|crystals]] form in or on.**

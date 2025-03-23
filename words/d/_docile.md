@@ -5,7 +5,7 @@
 - **Yielding to [[c/_control|control]] or supervision, [[d/_direction|direction]], or management.**
 ---
 ### Synonyms
-- [[amenable]], [[compliant]], [[teachable]], [[compliant]], [[malleable]], [[manageable]], [[meek]], [[submissive]], [[tractable]]
+- [[a/_amenable|amenable]], [[c/_compliant|compliant]], [[t/_teachable|teachable]], [[c/_compliant|compliant]], [[m/_malleable|malleable]], [[m/_manageable|manageable]], [[m/_meek|meek]], [[s/_submissive|submissive]], [[t/_tractable|tractable]]
 ### Antonyms
-- [[defiant]], [[perverse]], [[rebellious]], [[wilful]]
+- [[d/_defiant|defiant]], [[p/_perverse|perverse]], [[r/_rebellious|rebellious]], [[w/_wilful|wilful]]
 ---

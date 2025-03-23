@@ -6,5 +6,5 @@
 - **[[a/_any|Any]] tree of genus [[b/_buxus|Buxus]].**
 ---
 ### Synonyms
-- [[common box]]
+- 
 ---

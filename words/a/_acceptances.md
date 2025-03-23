@@ -1,7 +1,7 @@
 # Acceptances
 ---
 #noun
-- **The [[a/_act|act]] of [[a/_accepting|accepting]]; a receiving of something offered, with [[a/_acquiescence|acquiescence]], [[a/_approbation|approbation]], or satisfaction; especially, favourable reception; [[a/_approval|approval]].**
+- **The [[a/_act|act]] of [[a/_accepting|accepting]]; a receiving of something offered, with [[a/_acquiescence|acquiescence]], [[a/_approbation|approbation]], or satisfaction; [[e/_especially|especially]], favourable reception; [[a/_approval|approval]].**
 	- _Example: the acceptance of a gift, office, doctrine, etc._
 - **[[b/_belief|Belief]] in something; [[a/_agreement|agreement]], [[a/_assent|assent]].**
 - **The state of [[b/_being|being]] [[a/_accepted|accepted]].**
@@ -12,10 +12,10 @@
 - **A list of horses [[a/_accepted|accepted]] as starters in a race.**
 ---
 ### Synonyms
-- [[accepting]], [[approval]], [[receiving]], [[reception]], [[assent]], [[acceptableness]]
+- [[a/_accepting|accepting]], [[a/_approval|approval]], [[r/_receiving|receiving]], [[r/_reception|reception]], [[a/_assent|assent]], [[a/_acceptableness|acceptableness]]
 #noun
 - **A [[c/_conserved|conserved]] property of the light in an optical system which [[c/_characterizes|characterizes]] how "spread out" the light is in terms of [[a/_angle|angle]] and [[a/_area|area]]: it is the product of its [[c/_cross|cross]]-sectional [[a/_area|area]] (normal to the [[d/_direction|direction]] of propagation) and the solid [[a/_angle|angle]] it subtends.**
 ---
 ### Synonyms
-- [[AΩ product]], [[acceptance]], [[geometric extent]], [[light grasp]], [[light-collecting power]], [[light-gathering power]], [[optical extent]], [[throughput]]
+- [[a/_acceptance|acceptance]], [[t/_throughput|throughput]]
 ---

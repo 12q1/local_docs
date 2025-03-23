@@ -1,7 +1,7 @@
 # Demonetizes
 ---
 #verb
-- **To withdraw the status of legal tender from a [[c/_coin|coin]] (etc.) and remove it from [[c/_circulation|circulation]].**
+- **To withdraw the status of legal tender from a [[c/_coin|coin]] ([[e/_etc|etc]].) and remove it from [[c/_circulation|circulation]].**
 - **To [[d/_declare|declare]] ineligible or worthless as a medium of exchange or as legal tender.**
 - **To [[d/_demote|demote]] (published [[c/_content|content]], or its [[c/_creator|creator]]) so that it is no longer [[e/_eligible|eligible]] to [[e/_earn|earn]] money for its publisher.**
 	- _Example: The site has the ability to demonetize a video._

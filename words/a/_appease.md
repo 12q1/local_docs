@@ -7,7 +7,7 @@
 	- _Example: They appeased the angry gods with burnt offerings._
 ---
 ### Synonyms
-- [[calm]], [[lull]], [[pacify]], [[placate]], [[quell]], [[quiet]], [[still]], [[mollify]], [[propitiate]]
+- [[c/_calm|calm]], [[l/_lull|lull]], [[p/_pacify|pacify]], [[p/_placate|placate]], [[q/_quell|quell]], [[q/_quiet|quiet]], [[s/_still|still]], [[m/_mollify|mollify]], [[p/_propitiate|propitiate]]
 ### Antonyms
-- [[antagonize]]
+- [[a/_antagonize|antagonize]]
 ---

@@ -5,5 +5,5 @@
 - **The [[b/_business|business]] of a [[c/_cutler|cutler]].**
 ---
 ### Synonyms
-- [[flatware]], [[silverware]]
+- [[f/_flatware|flatware]], [[s/_silverware|silverware]]
 ---

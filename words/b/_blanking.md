@@ -1,7 +1,7 @@
 # Blanking
 ---
 #verb
-- **To make void; to erase.**
+- **To make void; to [[e/_erase|erase]].**
 	- _Example: I blanked out my previous entry._
 - **To ignore (a person) [[d/_deliberately|deliberately]].**
 	- _Example: She blanked me for no reason._

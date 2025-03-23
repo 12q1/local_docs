@@ -12,7 +12,7 @@
 - **A herb of the genus [[a/_astragalus|Astragalus]].**
 ---
 ### Synonyms
-- [[anklebone]], [[astragal]], [[talus]], [[astragal]], [[locoweed]]
+- [[a/_anklebone|anklebone]], [[a/_astragal|astragal]], [[t/_talus|talus]], [[a/_astragal|astragal]], [[l/_locoweed|locoweed]]
 #noun
 - **Gaming with one or more [[d/_dice|dice]].**
 - **A [[d/_die|die]].**
@@ -20,10 +20,10 @@
 	- _Example: Cut onions, carrots and celery into medium dice._
 ---
 ### Synonyms
-- [[astragals]]
+- [[a/_astragals|astragals]]
 #noun
 - **[[a/_any|Any]] of several plants indigenous to the western United States, of genus Oxytropis or [[a/_astragalus|Astragalus]].**
 ---
 ### Synonyms
-- [[astragal]], [[astragalus]], [[oxytrope]], [[crazyweed]], [[loco]]
+- [[a/_astragal|astragal]], [[a/_astragalus|astragalus]], [[o/_oxytrope|oxytrope]], [[c/_crazyweed|crazyweed]], [[l/_loco|loco]]
 ---

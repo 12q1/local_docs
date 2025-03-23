@@ -8,5 +8,5 @@
 - **The process by which persons, lands, or [[e/_effects|effects]] are seized for [[d/_debt|debt]]; process for [[e/_enforcing|enforcing]] the [[a/_attendance|attendance]] of witnesses or the production of writings.**
 ---
 ### Synonyms
-- [[worksomeness]]
+- [[w/_worksomeness|worksomeness]]
 ---

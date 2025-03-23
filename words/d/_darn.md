@@ -1,10 +1,10 @@
 # Darn
 ---
 #verb
-- **Euphemism of [[d/_damn|damn]].**
+- **[[e/_euphemism|Euphemism]] of [[d/_damn|damn]].**
 ---
 ### Synonyms
-- [[damn]], [[dang]]
+- [[d/_damn|damn]], [[d/_dang|dang]]
 #adjective
 - **[[d/_damn|Damn]].**
 ---

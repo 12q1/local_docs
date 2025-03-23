@@ -6,5 +6,5 @@
 	- _Example: With his monotonous routine, he lives in dullsville._
 ---
 ### Antonyms
-- [[thrillsville]]
+- [[t/_thrillsville|thrillsville]]
 ---

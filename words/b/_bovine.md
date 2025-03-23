@@ -9,5 +9,5 @@
 - **Sluggish, [[d/_dull|dull]], slow-witted.**
 ---
 ### Synonyms
-- [[neatish]]
+- [[n/_neatish|neatish]]
 ---

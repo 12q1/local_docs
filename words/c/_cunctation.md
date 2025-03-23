@@ -4,5 +4,5 @@
 - **[[d/_delay|Delay]], hesitation, procrastination.**
 ---
 ### Synonyms
-- [[dilation]], [[hold-up]]
+- [[d/_dilation|dilation]], [[h/_hold-up|hold-up]]
 ---

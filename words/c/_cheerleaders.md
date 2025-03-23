@@ -5,5 +5,5 @@
 - **A person who rallies support for [[a/_any|any]] [[c/_cause|cause]].**
 ---
 ### Antonyms
-- [[gloomleader]]
+- [[g/_gloomleader|gloomleader]]
 ---

@@ -7,5 +7,5 @@
 - **(usually in the plural, by extension) The tiered seating provided for the [[a/_audience|audience]] at a television filming.**
 ---
 ### Synonyms
-- [[stand]], [[terrace]]
+- [[s/_stand|stand]], [[t/_terrace|terrace]]
 ---

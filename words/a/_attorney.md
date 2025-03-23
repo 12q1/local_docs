@@ -8,7 +8,7 @@
 - **A title given to lawyers and notaries public, or those holders by profession who [[a/_also|also]] [[d/_do|do]] other jobs. Usually [[c/_capitalized|capitalized]] or [[a/_abbreviated|abbreviated]] as [[a/_atty|Atty]].**
 ---
 ### Synonyms
-- [[advocate]], [[mouthpiece]]
+- [[a/_advocate|advocate]], [[m/_mouthpiece|mouthpiece]]
 #verb
 - **To work as a legal [[a/_attorney|attorney]].**
 - **To provide with a legal [[a/_attorney|attorney]].**

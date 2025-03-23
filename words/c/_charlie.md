@@ -10,5 +10,5 @@
 - **A short, pointed [[b/_beard|beard]], like that of King [[c/_charles|Charles]] I.**
 ---
 ### Synonyms
-- [[snow]], [[fool]]
+- [[s/_snow|snow]], [[f/_fool|fool]]
 ---

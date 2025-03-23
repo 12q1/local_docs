@@ -8,5 +8,5 @@
 - **One [[a/_apt|apt]] to [[c/_change|change]]; a waverer.**
 ---
 ### Synonyms
-- [[swapling]], [[shape-shifter]], [[auf]], [[oaf]]
+- [[s/_swapling|swapling]], [[s/_shape-shifter|shape-shifter]], [[a/_auf|auf]], [[o/_oaf|oaf]]
 ---

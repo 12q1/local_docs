@@ -5,5 +5,5 @@
 - **Specifically Rhodeus amarus, formerly [[c/_called|called]] Rhodeus sericeus.**
 ---
 ### Synonyms
-- [[European bitterling]]
+- 
 ---

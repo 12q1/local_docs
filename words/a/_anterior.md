@@ -6,5 +6,5 @@
 - **Nearer the forward [[e/_end|end]]; nearer the head of an [[a/_animal|animal]] or the front of a human.**
 ---
 ### Antonyms
-- [[posterior]], [[posterior]]
+- [[p/_posterior|posterior]], [[p/_posterior|posterior]]
 ---

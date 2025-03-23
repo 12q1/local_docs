@@ -18,7 +18,7 @@
 - **License; indulgence**
 ---
 ### Synonyms
-- [[authorization]], [[permission]], [[sanction]], [[tolerance]], [[remedy]], [[tolerance]], [[stipend]]
+- [[a/_authorization|authorization]], [[p/_permission|permission]], [[s/_sanction|sanction]], [[t/_tolerance|tolerance]], [[r/_remedy|remedy]], [[t/_tolerance|tolerance]], [[s/_stipend|stipend]]
 ### Antonyms
-- [[penalty]]
+- [[p/_penalty|penalty]]
 ---

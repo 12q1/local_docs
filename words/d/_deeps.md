@@ -1,7 +1,7 @@
 # Deeps
 ---
 #noun
-- **(with "the") The [[d/_deep|deep]] part of a lake, sea, etc.**
+- **(with "the") The [[d/_deep|deep]] part of a lake, sea, [[e/_etc|etc]].**
 	- _Example: creatures of the deep_
 - **(with "the") A silent time; quiet isolation.**
 	- _Example: the deep of night_

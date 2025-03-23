@@ -5,5 +5,5 @@
 - **Stupid talk or writing; nonsense.**
 ---
 ### Synonyms
-- [[gibberish]], [[gobbledegook]], [[tosh]]
+- [[g/_gibberish|gibberish]], [[g/_gobbledegook|gobbledegook]], [[t/_tosh|tosh]]
 ---

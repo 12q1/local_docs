@@ -12,5 +12,5 @@
 - **Marked with, [[b/_bearing|bearing]], or wearing the sign of the [[c/_cross|cross]].**
 ---
 ### Synonyms
-- [[crutched]]
+- [[c/_crutched|crutched]]
 ---

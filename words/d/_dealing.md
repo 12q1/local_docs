@@ -13,14 +13,14 @@
 - **To take [[a/_action|action]]; to [[a/_act|act]].**
 - **To trade professionally (followed by in).**
 	- _Example: She deals in gold._
-- **To sell, especially to sell illicit [[d/_drugs|drugs]].**
+- **To sell, [[e/_especially|especially]] to sell illicit [[d/_drugs|drugs]].**
 	- _Example: This club takes a dim view of members who deal drugs._
 - **To be [[c/_concerned|concerned]] with.**
 - **To handle, to manage, to [[c/_cope|cope]].**
 	- _Example: I can't deal with this._
 ---
 ### Synonyms
-- [[administer]], [[allot]], [[deal out]], [[dish out]], [[dispense]], [[distribute]], [[dole out]], [[hand out]], [[lot]], [[mete out]], [[parcel out]], [[shell out]], [[pitch]], [[throw]], [[apportion]], [[divvy up]], [[portion out]], [[share]], [[share out]], [[sell]], [[bargain]], [[sell]], [[trade]]
+- [[a/_administer|administer]], [[a/_allot|allot]], [[d/_dispense|dispense]], [[d/_distribute|distribute]], [[l/_lot|lot]], [[p/_pitch|pitch]], [[t/_throw|throw]], [[a/_apportion|apportion]], [[s/_share|share]], [[s/_sell|sell]], [[b/_bargain|bargain]], [[s/_sell|sell]], [[t/_trade|trade]]
 #noun
 - **([[c/_chiefly|chiefly]] in the plural) A [[b/_business|business]] transaction.**
 - **One's manner of [[a/_acting|acting]] toward others; [[b/_behaviour|behaviour]]; interactions or relations with others.**

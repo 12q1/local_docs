@@ -7,5 +7,5 @@
 - **The inclusion of nonconformists within the [[c/_church|Church]] of [[e/_england|England]].**
 ---
 ### Synonyms
-- [[understanding]]
+- [[u/_understanding|understanding]]
 ---

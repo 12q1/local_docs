@@ -5,5 +5,5 @@
 - **A sudden [[e/_emotional|emotional]] outburst.**
 ---
 ### Synonyms
-- [[ebullience]], [[ebullience]]
+- [[e/_ebullience|ebullience]], [[e/_ebullience|ebullience]]
 ---

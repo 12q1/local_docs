@@ -6,5 +6,5 @@
 - **[[a/_any|Any]] plant in what used to be the [[d/_dicotyledones|Dicotyledones]].**
 ---
 ### Synonyms
-- [[dicot]], [[magnoliopsid]]
+- [[d/_dicot|dicot]], [[m/_magnoliopsid|magnoliopsid]]
 ---

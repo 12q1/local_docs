@@ -8,7 +8,7 @@
 - **To [[c/_come|come]] out of a state of inaction or [[d/_dormancy|dormancy]].**
 ---
 ### Synonyms
-- [[awaken]], [[wake up]], [[bring round]], [[cry]], [[wake up]]
+- [[a/_awaken|awaken]], [[c/_cry|cry]]
 ### Antonyms
-- [[fall asleep]], [[put to sleep]]
+- 
 ---

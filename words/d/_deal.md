@@ -6,5 +6,5 @@
 - **(often followed by of) An indefinite quantity or [[a/_amount|amount]]; a lot (now usually qualified by great or good).**
 ---
 ### Synonyms
-- [[allotment]], [[apportionment]], [[distribution]], [[doling out]], [[sharing]], [[batch]], [[flock]], [[good deal]], [[great deal]], [[hatful]], [[heap]], [[load]], [[lot]], [[mass]], [[mess]], [[mickle]], [[mint]], [[muckle]], [[peck]], [[pile]], [[plenty]], [[pot]], [[quite a little]], [[raft]], [[sight]], [[slew]], [[spate]], [[stack]], [[tidy sum]], [[wad]], [[whole lot]], [[whole slew]]
+- [[a/_allotment|allotment]], [[a/_apportionment|apportionment]], [[d/_distribution|distribution]], [[s/_sharing|sharing]], [[b/_batch|batch]], [[f/_flock|flock]], [[h/_hatful|hatful]], [[h/_heap|heap]], [[l/_load|load]], [[l/_lot|lot]], [[m/_mass|mass]], [[m/_mess|mess]], [[m/_mickle|mickle]], [[m/_mint|mint]], [[m/_muckle|muckle]], [[p/_peck|peck]], [[p/_pile|pile]], [[p/_plenty|plenty]], [[p/_pot|pot]], [[r/_raft|raft]], [[s/_sight|sight]], [[s/_slew|slew]], [[s/_spate|spate]], [[s/_stack|stack]], [[w/_wad|wad]]
 ---

@@ -1,8 +1,8 @@
 # Equipage
 ---
 #noun
-- **[[e/_equipment|Equipment]] or supplies, especially military ones.**
-- **Military [[d/_dress|dress]]; uniform, [[a/_armour|armour]] etc.**
+- **[[e/_equipment|Equipment]] or supplies, [[e/_especially|especially]] military ones.**
+- **Military [[d/_dress|dress]]; uniform, [[a/_armour|armour]] [[e/_etc|etc]].**
 - **A type of horse-[[d/_drawn|drawn]] [[c/_carriage|carriage]].**
 - **The [[c/_carriage|carriage]] together with [[a/_attendants|attendants]]; a retinue.**
 ---

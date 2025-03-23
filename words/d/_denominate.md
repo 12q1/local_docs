@@ -6,5 +6,5 @@
 	- _Example: Oil is denominated in dollars, so changes in the strength of the dollar affect oil prices everywhere._
 ---
 ### Synonyms
-- [[bename]]
+- [[b/_bename|bename]]
 ---

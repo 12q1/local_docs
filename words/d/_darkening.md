@@ -14,7 +14,7 @@
 - **To make foul; to sully; to tarnish.**
 ---
 ### Synonyms
-- [[blacken]]
+- [[b/_blacken|blacken]]
 #noun
 - **The [[a/_act|act]] of something [[b/_becoming|becoming]] [[d/_darker|darker]].**
 ---

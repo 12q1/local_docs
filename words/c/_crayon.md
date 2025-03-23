@@ -8,7 +8,7 @@
 - **An informal map of a proposed rail route.**
 ---
 ### Synonyms
-- [[pencil crayon]]
+- 
 #verb
 - **To [[d/_draw|draw]] with a [[c/_crayon|crayon]].**
 ---

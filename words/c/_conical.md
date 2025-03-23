@@ -9,5 +9,5 @@
 - **[[d/_describing|Describing]] a map projection in which meridians are mapped to [[e/_equally|equally]] spaced lines radiating out from the [[a/_apex|apex]] and parallels of latitude are mapped to [[c/_circular|circular]] [[a/_arcs|arcs]] [[c/_centred|centred]] on the [[a/_apex|apex]].**
 ---
 ### Synonyms
-- [[conal]], [[conic]], [[conic]]
+- [[c/_conal|conal]], [[c/_conic|conic]], [[c/_conic|conic]]
 ---

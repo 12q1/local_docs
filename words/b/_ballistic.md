@@ -7,7 +7,7 @@
 	- _Example: When he heard him lie about it, he went ballistic._
 ---
 ### Synonyms
-- [[ballistical]]
+- [[b/_ballistical|ballistical]]
 ### Antonyms
-- [[anti-ballistic]], [[guided]], [[projectile]]
+- [[a/_anti-ballistic|anti-ballistic]], [[g/_guided|guided]], [[p/_projectile|projectile]]
 ---

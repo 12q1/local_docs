@@ -1,10 +1,10 @@
 # Eggheads
 ---
 #noun
-- **A [[b/_bald|bald]] person, especially a man.**
+- **A [[b/_bald|bald]] person, [[e/_especially|especially]] a man.**
 - **A [[b/_bald|bald]] head.**
 - **A [[c/_coldly|coldly]] out of personal touch intellectual.**
 ---
 ### Synonyms
-- [[boffin]], [[brain]]
+- [[b/_boffin|boffin]], [[b/_brain|brain]]
 ---

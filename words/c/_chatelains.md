@@ -4,5 +4,5 @@
 - **A [[c/_castle|castle]]-keeper, [[c/_castellan|castellan]].**
 ---
 ### Synonyms
-- [[castellan]]
+- [[c/_castellan|castellan]]
 ---

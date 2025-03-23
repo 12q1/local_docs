@@ -8,5 +8,5 @@
 	- _Example: He was suffering from deprivation of sleep._
 ---
 ### Synonyms
-- [[bereavement]], [[loss]], [[privation]], [[want]]
+- [[b/_bereavement|bereavement]], [[l/_loss|loss]], [[p/_privation|privation]], [[w/_want|want]]
 ---

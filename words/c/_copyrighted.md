@@ -7,5 +7,5 @@
 - **[[c/_covered|Covered]] by a [[c/_copyright|copyright]], not public [[d/_domain|domain]].**
 ---
 ### Antonyms
-- [[public domain]], [[uncopyrighted]]
+- [[u/_uncopyrighted|uncopyrighted]]
 ---

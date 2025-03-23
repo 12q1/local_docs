@@ -4,5 +4,5 @@
 - **Land near a [[b/_border|border]]; marches**
 ---
 ### Synonyms
-- [[marchland]]
+- [[m/_marchland|marchland]]
 ---

@@ -5,11 +5,11 @@
 - **The [[a/_act|act]] of [[d/_doing|doing]] something quickly.**
 	- _Example: We must act with dispatch in this matter._
 - **A mission by an [[e/_emergency|emergency]] response service, typically [[a/_attend|attend]] to an [[e/_emergency|emergency]] in the field.**
-- **The passing on of a message for further processing, especially via a [[d/_dispatch|dispatch]] table.**
+- **The passing on of a message for further processing, [[e/_especially|especially]] via a [[d/_dispatch|dispatch]] table.**
 - **A [[d/_dismissal|dismissal]].**
 ---
 ### Synonyms
-- [[haste]], [[hurry]], [[rapidity]]
+- [[h/_haste|haste]], [[h/_hurry|hurry]], [[r/_rapidity|rapidity]]
 #verb
 - **To send (a shipment) with promptness.**
 - **To send (a person) [[a/_away|away]] hastily.**
@@ -18,10 +18,10 @@
 - **To [[d/_dispose|dispose]] of speedily, as [[b/_business|business]]; to execute quickly; to make a speedy [[e/_end|end]] of; to finish; to perform.**
 - **To rid; to free.**
 - **To [[d/_destroy|destroy]] quickly and [[e/_efficiently|efficiently]].**
-- **To pass on for further processing, especially via a [[d/_dispatch|dispatch]] table (often with to).**
+- **To pass on for further processing, [[e/_especially|especially]] via a [[d/_dispatch|dispatch]] table (often with to).**
 - **To hurry.**
 - **To [[d/_deprive|deprive]].**
 ---
 ### Synonyms
-- [[destroy]], [[kill]], [[make haste]], [[send]]
+- [[d/_destroy|destroy]], [[k/_kill|kill]], [[s/_send|send]]
 ---

@@ -11,11 +11,11 @@
 	- _Example: You can't go into the dressing room while she's changing.   The clowns changed into their costumes before the circus started._
 - **To replace the [[c/_clothing|clothing]] of (the one wearing it).**
 	- _Example: It's your turn to change the baby._
-- **To transfer to [[a/_another|another]] vehicle (train, [[b/_bus|bus]], etc.)**
+- **To transfer to [[a/_another|another]] vehicle (train, [[b/_bus|bus]], [[e/_etc|etc]].)**
 - **To exchange.**
 - **To [[c/_change|change]] hand while riding (a horse).**
 	- _Example: to change a horse_
 ---
 ### Synonyms
-- [[alter]], [[another]], [[make]], [[modify]], [[transform]]
+- [[a/_alter|alter]], [[a/_another|another]], [[m/_make|make]], [[m/_modify|modify]], [[t/_transform|transform]]
 ---

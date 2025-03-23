@@ -8,5 +8,5 @@
 - **(of a person) Mentally ill to such an extent that involuntary institutionalization is [[a/_appropriate|appropriate]]; [[c/_crazy|crazy]].**
 ---
 ### Synonyms
-- [[insane]], [[mad]], [[nuts]]
+- [[i/_insane|insane]], [[m/_mad|mad]], [[n/_nuts|nuts]]
 ---

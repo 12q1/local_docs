@@ -5,5 +5,5 @@
 - **(of a poison) To [[c/_counteract|counteract]], or make less poisonous.**
 ---
 ### Synonyms
-- [[detoxify]]
+- [[d/_detoxify|detoxify]]
 ---

@@ -8,5 +8,5 @@
 - **To ignore; pay no [[a/_attention|attention]] to.**
 ---
 ### Synonyms
-- [[misregard]], [[unheed]], [[unmind]]
+- [[m/_misregard|misregard]], [[u/_unheed|unheed]], [[u/_unmind|unmind]]
 ---

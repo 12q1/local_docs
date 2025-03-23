@@ -4,18 +4,18 @@
 - **[[d/_declared|Declared]]**
 ---
 ### Synonyms
-- [[d]]
+- [[d/_d|d]]
 #verb
 - **Of a quantity, to [[b/_become|become]] smaller.**
 - **To make (a quantity) smaller.**
 ---
 ### Synonyms
-- [[drop]], [[fall]], [[go down]], [[plummet]], [[plunge]], [[reduce]], [[shrink]], [[sink]], [[abate]], [[cut]], [[decrement]], [[lower]], [[reduce]]
+- [[d/_drop|drop]], [[f/_fall|fall]], [[p/_plummet|plummet]], [[p/_plunge|plunge]], [[r/_reduce|reduce]], [[s/_shrink|shrink]], [[s/_sink|sink]], [[a/_abate|abate]], [[c/_cut|cut]], [[d/_decrement|decrement]], [[l/_lower|lower]], [[r/_reduce|reduce]]
 ### Antonyms
-- [[go up]], [[grow]], [[increase]], [[rise]], [[shoot up]], [[soar]], [[increase]], [[increment]], [[raise]], [[up]]
+- [[g/_grow|grow]], [[i/_increase|increase]], [[r/_rise|rise]], [[s/_soar|soar]], [[i/_increase|increase]], [[i/_increment|increment]], [[r/_raise|raise]], [[u/_up|up]]
 #noun
 - **A small quantity removed or lost. One of a series of regular subtractions.**
 ---
 ### Antonyms
-- [[increment]]
+- [[i/_increment|increment]]
 ---

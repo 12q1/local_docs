@@ -5,5 +5,5 @@
 - **Of or pertaining to [[a/_anabasis|anabasis]]**
 ---
 ### Antonyms
-- [[katabatic]]
+- [[k/_katabatic|katabatic]]
 ---

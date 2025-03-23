@@ -11,7 +11,7 @@
 	- _Example: To transport gasoline, truckers must have a valid licence and the hazardous materials endorsement._
 - **Sponsorship, in means of money, by a [[c/_company|company]], [[b/_business|business]] or [[e/_enterprise|enterprise]].**
 	- _Example: After the Olympics, he was hoping to get an endorsement deal._
-- **Support from an important, renowned figure of a media ([[c/_celebrity|celebrity]], politics, sports, etc.), to get [[b/_back|back]] up.**
+- **Support from an important, renowned figure of a media ([[c/_celebrity|celebrity]], politics, sports, [[e/_etc|etc]].), to get [[b/_back|back]] up.**
 	- _Example: I'm not sure whether an endorsement from Donald Trump will help or hurt._
 ---
 ---

@@ -5,5 +5,5 @@
 - **To [[c/_come|come]] together; to [[a/_assemble|assemble]]; to meet.**
 ---
 ### Synonyms
-- [[amass]], [[assemble]], [[bring together]], [[compact]], [[gather]], [[mass]], [[assemble]], [[begather]], [[forgather]]
+- [[a/_amass|amass]], [[a/_assemble|assemble]], [[c/_compact|compact]], [[g/_gather|gather]], [[m/_mass|mass]], [[a/_assemble|assemble]], [[b/_begather|begather]], [[f/_forgather|forgather]]
 ---

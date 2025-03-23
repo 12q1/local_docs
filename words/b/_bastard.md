@@ -20,12 +20,12 @@
 - **An inferior quality of soft [[b/_brown|brown]] sugar, obtained from syrups that have [[b/_been|been]] [[b/_boiled|boiled]] several times.**
 - **A large mould for straining sugar.**
 - **A writing paper of a particular size.**
-- **A Eurosceptic [[c/_conservative|Conservative]] MP, especially in the government of John Major.**
+- **A Eurosceptic [[c/_conservative|Conservative]] MP, [[e/_especially|especially]] in the government of John Major.**
 ---
 ### Synonyms
-- [[arsehole]], [[asshole]], [[son of a bitch]], [[born in the vestry]], [[illegitimate]], [[love-child]]
+- [[a/_arsehole|arsehole]], [[a/_asshole|asshole]], [[i/_illegitimate|illegitimate]], [[l/_love-child|love-child]]
 ### Antonyms
-- [[legitimate]]
+- [[l/_legitimate|legitimate]]
 #verb
 - **To [[b/_bastardize|bastardize]].**
 ---
@@ -33,7 +33,7 @@
 - **Of or like a [[b/_bastard|bastard]] (illegitimate human [[d/_descendant|descendant]]).**
 - **Of or like a [[b/_bastard|bastard]] ([[b/_bad|bad]] person).**
 - **Of or like a mongrel, [[b/_bastardized|bastardized]] [[c/_creature|creature]]/[[c/_cross|cross]].**
-- **Of [[a/_abnormal|abnormal]], irregular or otherwise inferior qualities (size, shape etc).**
+- **Of [[a/_abnormal|abnormal]], irregular or otherwise inferior qualities (size, shape [[e/_etc|etc]]).**
 	- _Example: a bastard culverin_
 - **Spurious, lacking [[a/_authenticity|authenticity]]: [[c/_counterfeit|counterfeit]], fake.**
 - **Used in the vernacular name of a species to indicate that it is similar in some way to [[a/_another|another]] species, often (but not [[a/_always|always]]) one of [[a/_another|another]] genus.**

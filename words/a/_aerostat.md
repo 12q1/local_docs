@@ -5,5 +5,5 @@
 - **A moored [[b/_balloon|balloon]] flown in a semi-permanent manner, such as a [[b/_border|border]] patrol monitoring [[b/_balloon|balloon]] [[a/_affixed|affixed]] at 18,000 feet (~6 km).**
 ---
 ### Antonyms
-- [[aerodyne]]
+- [[a/_aerodyne|aerodyne]]
 ---

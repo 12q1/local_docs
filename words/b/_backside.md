@@ -5,5 +5,5 @@
 - **The reverse or opposite of [[a/_anything|anything]].**
 ---
 ### Synonyms
-- [[rear]], [[backhouse]], [[verso]]
+- [[r/_rear|rear]], [[b/_backhouse|backhouse]], [[v/_verso|verso]]
 ---

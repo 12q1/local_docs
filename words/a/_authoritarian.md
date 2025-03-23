@@ -13,7 +13,7 @@
 - **Tending to impose one's [[d/_demands|demands]] upon others as if one were an [[a/_authority|authority]].**
 ---
 ### Synonyms
-- [[illiberal]], [[oppressive]], [[arrogant]], [[commanding]], [[haughty]], [[imperious]]
+- [[i/_illiberal|illiberal]], [[o/_oppressive|oppressive]], [[a/_arrogant|arrogant]], [[c/_commanding|commanding]], [[h/_haughty|haughty]], [[i/_imperious|imperious]]
 ### Antonyms
-- [[liberal]], [[humble]], [[modest]], [[servile]]
+- [[l/_liberal|liberal]], [[h/_humble|humble]], [[m/_modest|modest]], [[s/_servile|servile]]
 ---

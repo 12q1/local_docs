@@ -1,8 +1,8 @@
 # Eglantines
 ---
 #noun
-- **A Eurasian rose, Rosa eglanteria, having prickly stems, fragrant leaves, pink flowers and red hips.**
+- **A [[e/_eurasian|Eurasian]] rose, Rosa eglanteria, having prickly stems, fragrant leaves, pink flowers and red hips.**
 ---
 ### Synonyms
-- [[sweetbrier]]
+- [[s/_sweetbrier|sweetbrier]]
 ---

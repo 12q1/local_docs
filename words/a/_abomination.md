@@ -7,5 +7,5 @@
 - **That which is [[a/_abominable|abominable]], shamefully vile; an object that excites [[d/_disgust|disgust]] and hatred; very often with religious undertones.**
 ---
 ### Synonyms
-- [[abhorrence]], [[aversion]], [[detestation]], [[disgust]], [[loathing]], [[loathsomeness]], [[odiousness]], [[perversion]]
+- [[a/_abhorrence|abhorrence]], [[a/_aversion|aversion]], [[d/_detestation|detestation]], [[d/_disgust|disgust]], [[l/_loathing|loathing]], [[l/_loathsomeness|loathsomeness]], [[o/_odiousness|odiousness]], [[p/_perversion|perversion]]
 ---

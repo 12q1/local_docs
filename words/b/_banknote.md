@@ -5,5 +5,5 @@
 - **A piece of paper [[c/_currency|currency]].**
 ---
 ### Synonyms
-- [[bill]], [[note]]
+- [[b/_bill|bill]], [[n/_note|note]]
 ---

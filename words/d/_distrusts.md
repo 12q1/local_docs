@@ -4,10 +4,10 @@
 - **Lack of trust or [[c/_confidence|confidence]].**
 ---
 ### Synonyms
-- [[mistrust]], [[untrust]], [[wantrust]]
+- [[m/_mistrust|mistrust]], [[u/_untrust|untrust]], [[w/_wantrust|wantrust]]
 #verb
 - **To put no trust in; to have no [[c/_confidence|confidence]] in.**
 ---
 ### Synonyms
-- [[mistrust]]
+- [[m/_mistrust|mistrust]]
 ---

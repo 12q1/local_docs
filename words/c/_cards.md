@@ -6,7 +6,7 @@
 	- _Example: He played cards with his friends._
 - **A resource or an [[a/_argument|argument]], used to [[a/_achieve|achieve]] a purpose.**
 	- _Example: He accused them of playing the race card._
-- **[[a/_any|Any]] flat, normally rectangular piece of stiff paper, plastic etc.**
+- **[[a/_any|Any]] flat, normally rectangular piece of stiff paper, plastic [[e/_etc|etc]].**
 - **A map or [[c/_chart|chart]].**
 - **An [[a/_amusing|amusing]] or [[e/_entertaining|entertaining]] person, often slightly [[e/_eccentrically|eccentrically]] so.**
 - **A list of scheduled events or of performers or [[c/_contestants|contestants]].**
@@ -20,7 +20,7 @@
 	- _Example: The realtor gave me her card so I could call if I had any questions about buying a house._
 - **Title [[c/_card|card]] / Intertitle: A piece of filmed, printed text [[e/_edited|edited]] into the midst of the photographed [[a/_action|action]] at various points, generally to [[c/_convey|convey]] [[c/_character|character]] [[d/_dialogue|dialogue]] or [[d/_descriptive|descriptive]] narrative material related to the plot.**
 - **A test [[c/_card|card]].**
-- **A published note, [[c/_containing|containing]] a [[b/_brief|brief]] statement, explanation, request, expression of thanks, etc.**
+- **A published note, [[c/_containing|containing]] a [[b/_brief|brief]] statement, explanation, request, expression of thanks, [[e/_etc|etc]].**
 	- _Example: to put a card in the newspapers_
 - **A printed programme.**
 - **(by extension) An [[a/_attraction|attraction]] or inducement.**
@@ -30,7 +30,7 @@
 - **An indicator [[c/_card|card]].**
 ---
 #verb
-- **To [[c/_check|check]] IDs, especially [[a/_against|against]] a minimum [[a/_age|age]] requirement.**
+- **To [[c/_check|check]] IDs, [[e/_especially|especially]] [[a/_against|against]] a minimum [[a/_age|age]] requirement.**
 	- _Example: I heard you don't get carded at the other liquor store._
 - **To play [[c/_cards|cards]].**
 - **To make (a stated score), as recorded on a scoring [[c/_card|card]].**

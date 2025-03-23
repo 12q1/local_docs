@@ -2,7 +2,7 @@
 ---
 #adverb
 - **[[a/_also|Also]]; in [[a/_addition|addition]].**
-- **Used to [[e/_emphasize|emphasize]] an [[a/_additional|additional]] point, especially an important or stronger reason; Moreover; furthermore.**
+- **Used to [[e/_emphasize|emphasize]] an [[a/_additional|additional]] point, [[e/_especially|especially]] an important or stronger reason; Moreover; furthermore.**
 	- _Example: I don't feel like going out tonight. Besides, I have to work tomorrow morning anyway._
 - **Otherwise; [[e/_else|else]].**
 	- _Example: I have been to Spain but nowhere besides._
@@ -15,5 +15,5 @@
 - **[[b/_beside|Beside]].**
 ---
 ### Synonyms
-- [[beyond]], [[on top of]], [[barring]], [[besides]], [[save for]]
+- [[b/_beyond|beyond]], [[b/_barring|barring]], [[b/_besides|besides]]
 ---

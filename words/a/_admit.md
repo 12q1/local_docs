@@ -14,5 +14,5 @@
 - **To [[a/_allow|allow]] to [[e/_enter|enter]] a hospital or similar facility for treatment.**
 ---
 ### Synonyms
-- [[inlet]], [[let in]], [[acknowledge]], [[own]], [[confess]], [[own up]]
+- [[i/_inlet|inlet]], [[a/_acknowledge|acknowledge]], [[o/_own|own]], [[c/_confess|confess]]
 ---

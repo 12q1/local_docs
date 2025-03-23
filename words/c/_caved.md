@@ -15,5 +15,5 @@
 - **To [[d/_dwell|dwell]] in a [[c/_cave|cave]].**
 ---
 ### Synonyms
-- [[spelunk]]
+- [[s/_spelunk|spelunk]]
 ---

@@ -14,5 +14,5 @@
 - **[[d/_divided|Divided]] into [[d/_diagonal|diagonal]] [[b/_bands|bands]] of [[c/_colour|colour]]**
 ---
 ### Synonyms
-- [[articulated]], [[jointed]], [[sinuous]], [[tortuous]], [[twisted]], [[twisty]], [[winding]], [[windy]], [[flexible]], [[pliable]], [[supple]], [[flexible]], [[limber]], [[lissom]], [[lissome]], [[lithe]], [[supple]]
+- [[a/_articulated|articulated]], [[j/_jointed|jointed]], [[s/_sinuous|sinuous]], [[t/_tortuous|tortuous]], [[t/_twisted|twisted]], [[t/_twisty|twisty]], [[w/_winding|winding]], [[w/_windy|windy]], [[f/_flexible|flexible]], [[p/_pliable|pliable]], [[s/_supple|supple]], [[f/_flexible|flexible]], [[l/_limber|limber]], [[l/_lissom|lissom]], [[l/_lissome|lissome]], [[l/_lithe|lithe]], [[s/_supple|supple]]
 ---

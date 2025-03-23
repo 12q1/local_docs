@@ -18,5 +18,5 @@
 - **Suddenly terminating, as if [[c/_cut|cut]] off; truncate.**
 ---
 ### Synonyms
-- [[broken]], [[rough]], [[rugged]], [[blunt]], [[brusque]], [[sudden]], [[disconnected]], [[unexpected]], [[brusque]], [[impolite]], [[rude]], [[uncivil]]
+- [[b/_broken|broken]], [[r/_rough|rough]], [[r/_rugged|rugged]], [[b/_blunt|blunt]], [[b/_brusque|brusque]], [[s/_sudden|sudden]], [[d/_disconnected|disconnected]], [[u/_unexpected|unexpected]], [[b/_brusque|brusque]], [[i/_impolite|impolite]], [[r/_rude|rude]], [[u/_uncivil|uncivil]]
 ---

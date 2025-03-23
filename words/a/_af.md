@@ -5,5 +5,5 @@
 	- _Example: It was hot as fuck outside today._
 ---
 ### Synonyms
-- [[AF]], [[as all hell]], [[as anything]], [[as hell]], [[asf]]
+- [[A/_AF|AF]], [[a/_asf|asf]]
 ---

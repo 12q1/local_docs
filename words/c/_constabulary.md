@@ -10,5 +10,5 @@
 	- _Example: Constabulary missions are different from fighting wars._
 ---
 ### Synonyms
-- [[constabular]]
+- [[c/_constabular|constabular]]
 ---

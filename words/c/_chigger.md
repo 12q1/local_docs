@@ -5,5 +5,5 @@
 - **A harvest mite, a very small, red mite [[e/_endemic|endemic]] to the Midwestern and Southeastern US, the infestation of which [[c/_causes|causes]] intense itching.**
 ---
 ### Synonyms
-- [[harvest mite]]
+- 
 ---

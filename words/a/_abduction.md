@@ -8,7 +8,7 @@
 	- _Example: the abduction of a child_
 ---
 ### Synonyms
-- [[appropriation]], [[kidnapping]], [[seizure]], [[withdrawal]], [[abstraction]], [[retroduction]]
+- [[a/_appropriation|appropriation]], [[k/_kidnapping|kidnapping]], [[s/_seizure|seizure]], [[w/_withdrawal|withdrawal]], [[a/_abstraction|abstraction]], [[r/_retroduction|retroduction]]
 ### Antonyms
-- [[adduction]]
+- [[a/_adduction|adduction]]
 ---

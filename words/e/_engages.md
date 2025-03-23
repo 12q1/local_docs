@@ -9,5 +9,5 @@
 - **To [[e/_entangle|entangle]].**
 ---
 ### Antonyms
-- [[disengage]]
+- [[d/_disengage|disengage]]
 ---

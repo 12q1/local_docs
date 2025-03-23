@@ -7,7 +7,7 @@
 	- _Example: I draped my towel over the radiator to dry._
 - **To rail at; to [[b/_banter|banter]].**
 - **To make [[c/_cloth|cloth]].**
-- **To [[d/_design|design]] [[d/_drapery|drapery]], [[a/_arrange|arrange]] its folds, etc., as for hangings, [[c/_costumes|costumes]], statues, etc.**
+- **To [[d/_design|design]] [[d/_drapery|drapery]], [[a/_arrange|arrange]] its folds, [[e/_etc|etc]]., as for hangings, [[c/_costumes|costumes]], statues, [[e/_etc|etc]].**
 - **To hang or rest limply**
 ---
 ---

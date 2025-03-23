@@ -11,9 +11,9 @@
 	- _Example: The outcome of the peace negotiations in Moscow in 1940 was a heavy blow to the young nation, but in the same time a great comfort: at least the independency was preserved._
 ---
 ### Synonyms
-- [[liss]]
+- [[l/_liss|liss]]
 ### Antonyms
-- [[austerity]]
+- [[a/_austerity|austerity]]
 #verb
 - **To relieve the [[d/_distress|distress]] or suffering of; to provide [[c/_comfort|comfort]] to.**
 	- _Example: Rob comforted Aaron because he was lost and very sad._
@@ -22,5 +22,5 @@
 - **To [[a/_assist|assist]] or help; to [[a/_aid|aid]].**
 ---
 ### Synonyms
-- [[besoothe]]
+- [[b/_besoothe|besoothe]]
 ---

@@ -7,7 +7,7 @@
 - **To falsely hide one's opinions or feelings.**
 ---
 ### Synonyms
-- [[disregard]], [[take no notice of]]
+- [[d/_disregard|disregard]]
 #noun
 - **The [[a/_action|action]] of the verb [[d/_dissemble|dissemble]]**
 ---

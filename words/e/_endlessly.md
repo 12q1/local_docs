@@ -4,5 +4,5 @@
 - **In an [[e/_endless|endless]] manner; [[c/_continuously|continuously]] without limit.**
 ---
 ### Synonyms
-- [[ceaselessly]], [[incessantly]], [[nonstop]]
+- [[c/_ceaselessly|ceaselessly]], [[i/_incessantly|incessantly]], [[n/_nonstop|nonstop]]
 ---

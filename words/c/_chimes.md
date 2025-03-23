@@ -13,7 +13,7 @@
 	- _Example: Strike the bell with the brass chime hanging on the chain next to it._
 ---
 ### Synonyms
-- [[alarm]], [[bell]], [[buzz]], [[buzzer]], [[carillon]], [[clapper]], [[curfew]], [[ding-dong]], [[dinger]], [[glockenspiel]], [[gong]], [[peal]], [[ringer]], [[siren]], [[tintinnabulum]], [[tocsin]], [[toll]], [[vesper]]
+- [[a/_alarm|alarm]], [[b/_bell|bell]], [[b/_buzz|buzz]], [[b/_buzzer|buzzer]], [[c/_carillon|carillon]], [[c/_clapper|clapper]], [[c/_curfew|curfew]], [[d/_ding-dong|ding-dong]], [[d/_dinger|dinger]], [[g/_glockenspiel|glockenspiel]], [[g/_gong|gong]], [[p/_peal|peal]], [[r/_ringer|ringer]], [[s/_siren|siren]], [[t/_tintinnabulum|tintinnabulum]], [[t/_tocsin|tocsin]], [[t/_toll|toll]], [[v/_vesper|vesper]]
 #verb
 - **To make the sound of a [[c/_chime|chime]].**
 	- _Example: I got up for lunch as soon as the wall clock began chiming noon._
@@ -29,7 +29,7 @@
 - **A piece of the [[b/_backbone|backbone]] of an [[a/_animal|animal]], with the [[a/_adjoining|adjoining]] parts, [[c/_cut|cut]] for [[c/_cooking|cooking]].**
 - **A sharp [[a/_angle|angle]] in the [[c/_cross|cross]] section of a hull.**
 - **A hollowed or [[b/_bevelled|bevelled]] [[c/_channel|channel]] in the waterway of a ship's [[d/_deck|deck]].**
-- **The [[e/_edge|edge]] or rim of a [[c/_cask|cask]], etc., formed by the projecting [[e/_ends|ends]] of the staves; the [[c/_chamfered|chamfered]] [[e/_end|end]] of a stave.**
+- **The [[e/_edge|edge]] or rim of a [[c/_cask|cask]], [[e/_etc|etc]]., formed by the projecting [[e/_ends|ends]] of the staves; the [[c/_chamfered|chamfered]] [[e/_end|end]] of a stave.**
 - **The [[b/_back|back]] of the [[b/_blade|blade]] on a scythe.**
 ---
 ---

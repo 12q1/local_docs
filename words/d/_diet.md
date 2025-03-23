@@ -14,5 +14,5 @@
 	- _Example: You folks reduce it to the bible only as being authoritative, impoverishing the faith. "Christianity Lite", diet Christianity for those who can't handle the Whole Meal._
 ---
 ### Synonyms
-- [[lite]]
+- [[l/_lite|lite]]
 ---

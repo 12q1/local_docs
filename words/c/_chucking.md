@@ -10,7 +10,7 @@
 ---
 #verb
 - **To touch or tap gently.**
-- **To throw, especially in a [[c/_careless|careless]] or inaccurate manner.**
+- **To throw, [[e/_especially|especially]] in a [[c/_careless|careless]] or inaccurate manner.**
 	- _Example: Chuck that magazine to me, would you?_
 - **To throw; to [[b/_bowl|bowl]] with an incorrect [[a/_action|action]].**
 - **To [[d/_discard|discard]], to throw [[a/_away|away]].**
@@ -21,7 +21,7 @@
 - **To leave; to [[d/_depart|depart]]; to [[b/_bounce|bounce]].**
 	- _Example: Let's chuck._
 - **To [[c/_chuckle|chuckle]]; to laugh.**
-- **On rhythm guitar or mandolin etc.: to mute a [[c/_chord|chord]] by lifting the fretting fingers immediately [[a/_after|after]] strumming, producing a percussive [[e/_effect|effect]].**
+- **On rhythm guitar or mandolin [[e/_etc|etc]].: to mute a [[c/_chord|chord]] by lifting the fretting fingers immediately [[a/_after|after]] strumming, producing a percussive [[e/_effect|effect]].**
 ---
 #noun
 - **The holding of an object in a [[c/_chuck|chuck]].**

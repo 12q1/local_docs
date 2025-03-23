@@ -6,5 +6,5 @@
 - **(radiology) The [[d/_degree|degree]] to which the image of a scan stands out as a [[b/_bright|bright]] [[a/_area|area]].**
 ---
 ### Antonyms
-- [[dehancement]]
+- [[d/_dehancement|dehancement]]
 ---

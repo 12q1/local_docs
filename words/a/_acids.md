@@ -6,5 +6,5 @@
 - **Lysergic [[a/_acid|acid]] [[d/_diethylamide|diethylamide]] (LSD)**
 ---
 ### Antonyms
-- [[alkali]], [[base]]
+- [[a/_alkali|alkali]], [[b/_base|base]]
 ---

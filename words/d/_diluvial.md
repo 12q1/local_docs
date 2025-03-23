@@ -5,5 +5,5 @@
 - **Pertaining to Noah's Flood.**
 ---
 ### Synonyms
-- [[diluvian]]
+- [[d/_diluvian|diluvian]]
 ---

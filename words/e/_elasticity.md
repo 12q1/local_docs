@@ -12,5 +12,5 @@
 	- _Example: Her elasticity allowed her to recover quickly._
 ---
 ### Synonyms
-- [[point elasticity]]
+- 
 ---

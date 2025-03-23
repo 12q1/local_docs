@@ -5,5 +5,5 @@
 - **[[a/_any|Any]] plant of the genus Pedicularis (louseworts).**
 ---
 ### Synonyms
-- [[lousewort]], [[wood betony]], [[heal-all]], [[lamb's ears]], [[self-heal]], [[woundwort]], [[lousewort]], [[wood betony]]
+- [[l/_lousewort|lousewort]], [[h/_heal-all|heal-all]], [[s/_self-heal|self-heal]], [[w/_woundwort|woundwort]], [[l/_lousewort|lousewort]]
 ---

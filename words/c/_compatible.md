@@ -13,5 +13,5 @@
 	- _Example: His actions were compatible with his sermons._
 ---
 ### Antonyms
-- [[incompatible]], [[noncompatible]]
+- [[i/_incompatible|incompatible]], [[n/_noncompatible|noncompatible]]
 ---

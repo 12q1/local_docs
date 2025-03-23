@@ -14,9 +14,9 @@
 - **To [[d/_divide|divide]] (a watch) with a [[c/_comrade|comrade]].**
 ---
 ### Synonyms
-- [[chase]], [[chase after]], [[go after]], [[pursue]], [[tag]], [[tail]], [[track]], [[trail]], [[goldbrick]], [[soldier]]
+- [[c/_chase|chase]], [[p/_pursue|pursue]], [[t/_tag|tag]], [[t/_tail|tail]], [[t/_track|track]], [[t/_trail|trail]], [[g/_goldbrick|goldbrick]], [[s/_soldier|soldier]]
 #noun
 - **The [[a/_act|act]] of one who [[d/_dogs|dogs]] or harasses.**
-- **The practice of having sexual intercourse in public places, especially parks, [[d/_deliberately|deliberately]] taking the [[c/_chance|chance]] of [[b/_being|being]] watched.**
+- **The practice of having sexual intercourse in public places, [[e/_especially|especially]] parks, [[d/_deliberately|deliberately]] taking the [[c/_chance|chance]] of [[b/_being|being]] watched.**
 ---
 ---

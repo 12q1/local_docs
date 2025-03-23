@@ -8,5 +8,5 @@
 - **Short for [[c/_cockatoo|cockatoo]] farmer; (by extension) [[a/_any|any]] farmer or owner of rural land.**
 ---
 ### Synonyms
-- [[cockatoo]], [[crofter]]
+- [[c/_cockatoo|cockatoo]], [[c/_crofter|crofter]]
 ---

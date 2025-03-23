@@ -5,7 +5,7 @@
 - **(mildly) “[[b/_business|Business]]”, as in such phrases as mind your own [[b/_beeswax|beeswax]] and none of your [[b/_beeswax|beeswax]].**
 ---
 ### Synonyms
-- [[E901]]
+- [[E/_E901|E901]]
 #verb
 - **To polish with [[b/_beeswax|beeswax]].**
 ---

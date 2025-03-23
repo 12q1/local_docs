@@ -14,9 +14,9 @@
 - **(of a problem) That is in a given [[c/_complexity|complexity]] [[c/_class|class]] and is such that every other problem in the [[c/_class|class]] [[c/_can|can]] be reduced to it (usually in polynomial time or logarithmic space).**
 ---
 ### Synonyms
-- [[concluded]], [[done]], [[downright]], [[utter]], [[entire]], [[total]]
+- [[c/_concluded|concluded]], [[d/_done|done]], [[d/_downright|downright]], [[u/_utter|utter]], [[e/_entire|entire]], [[t/_total|total]]
 ### Antonyms
-- [[incomplete]]
+- [[i/_incomplete|incomplete]]
 #noun
 - **One who [[c/_completes|completes]] something.**
 ---

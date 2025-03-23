@@ -11,16 +11,16 @@
 - **A rank [[b/_below|below]] kingdom and [[a/_above|above]] [[c/_class|class]], particularly used of plants or fungi, [[a/_also|also]] (particularly of [[a/_animals|animals]]) [[c/_called|called]] a phylum; a taxon at that rank.**
 	- _Example: Magnolias belong to the division Magnoliophyta._
 - **A [[d/_disagreement|disagreement]]; a [[d/_difference|difference]] of viewpoint [[b/_between|between]] two sides of an [[a/_argument|argument]].**
-- **A method by which a legislature is separated into groups in order to take a [[b/_better|better]] estimate of vote than a voice vote.**
+- **A method by which a legislature is separated into groups in order to take a [[b/_better|better]] [[e/_estimate|estimate]] of vote than a voice vote.**
 	- _Example: The House of Commons has voted to approve the third reading of the bill without a division. The bill will now progress to the House of Lords._
 - **A florid instrumental variation of a melody in the 17th and 18th [[c/_centuries|centuries]], originally [[c/_conceived|conceived]] as the [[d/_dividing|dividing]] of [[e/_each|each]] of a succession of long notes into several short ones.**
 - **A set of pipes in a pipe organ which are independently [[c/_controlled|controlled]] and supplied.**
 - **A [[c/_concept|concept]] whereby a [[c/_common|common]] group of [[d/_debtors|debtors]] are only responsible for their proportionate sum of the total [[d/_debt|debt]].**
 - **[[a/_any|Any]] of the four major parts of a [[c/_cobol|COBOL]] program source [[c/_code|code]]**
-- **(Eton [[c/_college|College]]) A lesson; a [[c/_class|class]].**
+- **([[e/_eton|Eton]] [[c/_college|College]]) A lesson; a [[c/_class|class]].**
 ---
 ### Synonyms
-- [[lith]], [[split]]
+- [[l/_lith|lith]], [[s/_split|split]]
 ### Antonyms
-- [[multiplication]], [[combination]], [[fusion]], [[merger]], [[unification]]
+- [[m/_multiplication|multiplication]], [[c/_combination|combination]], [[f/_fusion|fusion]], [[m/_merger|merger]], [[u/_unification|unification]]
 ---

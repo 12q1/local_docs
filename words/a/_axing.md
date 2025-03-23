@@ -20,11 +20,11 @@
 ---
 #verb
 - **To fell or [[c/_chop|chop]] with an [[a/_axe|axe]].**
-- **To lay off, terminate or [[d/_drastically|drastically]] reduce, especially in a rough or ruthless manner; to [[c/_cancel|cancel]].**
+- **To lay off, terminate or [[d/_drastically|drastically]] reduce, [[e/_especially|especially]] in a rough or ruthless manner; to [[c/_cancel|cancel]].**
 	- _Example: He got axed in the last round of firings._
 ---
 ### Synonyms
-- [[downsize]], [[fire]], [[lay off]]
+- [[d/_downsize|downsize]], [[f/_fire|fire]]
 #verb
 - **To furnish with an [[a/_axle|axle]].**
 ---

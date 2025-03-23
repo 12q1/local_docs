@@ -14,7 +14,7 @@
 - **To [[c/_clean|clean]] one's teeth by [[b/_brushing|brushing]] them.**
 ---
 #adjective
-- **Rubbed, especially as a finish.**
+- **Rubbed, [[e/_especially|especially]] as a finish.**
 	- _Example: The brushed aluminum vase had a soft appearance._
 ---
 ---

@@ -7,7 +7,7 @@
 	- _Example: a dream of bliss_
 ---
 ### Synonyms
-- [[sweven]], [[vision]]
+- [[s/_sweven|sweven]], [[v/_vision|vision]]
 #verb
 - **To see imaginary events in one's mind while sleeping.**
 - **To hope, to wish.**

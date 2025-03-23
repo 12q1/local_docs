@@ -6,7 +6,7 @@
 - **To extract information or [[c/_consent|consent]] from someone.**
 ---
 ### Synonyms
-- [[spiral]]
+- [[s/_spiral|spiral]]
 #noun
 - **A winding, twisting motion.**
 ---

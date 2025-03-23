@@ -5,7 +5,7 @@
 - **A minor wound that is severe [[e/_enough|enough]] to get a soldier sent [[a/_away|away]] from the front.**
 ---
 ### Synonyms
-- [[grease payment]], [[lubrication payment]], [[Blighty one]], [[buckshee]]
+- [[b/_buckshee|buckshee]]
 #verb
 - **To [[b/_bribe|bribe]] with a [[b/_baksheesh|baksheesh]].**
 ---

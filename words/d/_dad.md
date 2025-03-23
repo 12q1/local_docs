@@ -8,5 +8,5 @@
 - **Used to [[a/_address|address]] an older [[a/_adult|adult]] male**
 ---
 ### Synonyms
-- [[Pa]], [[Pop]], [[dada]], [[daddy]], [[pa]], [[papa]], [[pappa]], [[papà]], [[papá]], [[pater]], [[paw]], [[pop]], [[daddio]], [[pop]], [[pops]]
+- [[P/_Pa|Pa]], [[P/_Pop|Pop]], [[d/_dada|dada]], [[d/_daddy|daddy]], [[p/_pa|pa]], [[p/_papa|papa]], [[p/_pappa|pappa]], [[p/_papà|papà]], [[p/_papá|papá]], [[p/_pater|pater]], [[p/_paw|paw]], [[p/_pop|pop]], [[d/_daddio|daddio]], [[p/_pop|pop]], [[p/_pops|pops]]
 ---

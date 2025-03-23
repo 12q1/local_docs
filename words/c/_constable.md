@@ -2,7 +2,7 @@
 ---
 #noun
 - **One holding the lowest rank in most [[c/_commonwealth|Commonwealth]] police forces. (See [[a/_also|also]] [[c/_chief|chief]] [[c/_constable|constable]].)**
-- **A police officer or an officer with equivalent powers.**
+- **A police officer or an officer with [[e/_equivalent|equivalent]] powers.**
 - **An officer of a noble [[c/_court|court]] in the Middle [[a/_ages|Ages]], usually a senior [[a/_army|army]] [[c/_commander|commander]]. (See [[a/_also|also]] marshal).**
 - **The warden of a [[c/_castle|castle]].**
 - **A public officer, usually at municipal level, responsible for maintaining order or serving writs and [[c/_court|court]] orders.**

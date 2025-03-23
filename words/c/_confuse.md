@@ -9,5 +9,5 @@
 - **To be [[c/_confused|confused]].**
 ---
 ### Synonyms
-- [[flummox]], [[mistake]]
+- [[f/_flummox|flummox]], [[m/_mistake|mistake]]
 ---

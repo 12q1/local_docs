@@ -13,7 +13,7 @@
 - **Pagellus bogaraveo, syn. Pagellus centrodontus (sea [[b/_bream|bream]])**
 ---
 ### Synonyms
-- [[becker]]
+- [[b/_becker|becker]]
 #noun
 - **A kind of small [[c/_charcoal|charcoal]] used for roasting ore.**
 ---

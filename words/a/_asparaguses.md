@@ -6,5 +6,5 @@
 - **A green [[c/_colour|colour]], like that of an [[a/_asparagus|asparagus]].**
 ---
 ### Synonyms
-- [[sparage]], [[sparagrass]], [[sparagus]], [[sparrowgrass]]
+- [[s/_sparage|sparage]], [[s/_sparagrass|sparagrass]], [[s/_sparagus|sparagus]], [[s/_sparrowgrass|sparrowgrass]]
 ---

@@ -11,5 +11,5 @@
 - **(originally United States) A foolish, silly, or unintelligent person.**
 ---
 ### Synonyms
-- [[bimbo]], [[bubblehead]]
+- [[b/_bimbo|bimbo]], [[b/_bubblehead|bubblehead]]
 ---

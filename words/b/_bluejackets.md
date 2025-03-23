@@ -5,5 +5,5 @@
 - **An [[e/_enlisted|enlisted]] man in the US Navy.**
 ---
 ### Synonyms
-- [[sailor]]
+- [[s/_sailor|sailor]]
 ---

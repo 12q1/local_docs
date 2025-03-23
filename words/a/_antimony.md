@@ -5,5 +5,5 @@
 - **The [[a/_alloy|alloy]] stibnite.**
 ---
 ### Synonyms
-- [[stibium]]
+- [[s/_stibium|stibium]]
 ---

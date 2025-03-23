@@ -23,7 +23,7 @@
 - **[[d/_device|Device]] that holds and feeds [[c/_cartridges|cartridges]] into a [[b/_belt|belt]]-fed weapon**
 ---
 ### Synonyms
-- [[restraint]], [[safety belt]], [[seat belt]], [[girdle]], [[sash]], [[strap]], [[waistband]], [[blow]], [[punch]], [[sock]], [[wallop]], [[dram]], [[nip]]
+- [[r/_restraint|restraint]], [[g/_girdle|girdle]], [[s/_sash|sash]], [[s/_strap|strap]], [[w/_waistband|waistband]], [[b/_blow|blow]], [[p/_punch|punch]], [[s/_sock|sock]], [[w/_wallop|wallop]], [[d/_dram|dram]], [[n/_nip|nip]]
 #verb
 - **To [[e/_encircle|encircle]].**
 	- _Example: The small town was belted by cornfields in all directions._
@@ -44,5 +44,5 @@
 	- _Example: He was really belting along._
 ---
 ### Synonyms
-- [[gulp]], [[pound]], [[slurp]], [[circle]], [[girdle]], [[surround]], [[buckle]], [[fasten]], [[strap]], [[bash]], [[clobber]], [[smack]], [[wallop]], [[strap]], [[whip]], [[book]], [[speed]], [[whiz]], [[zoom]]
+- [[g/_gulp|gulp]], [[p/_pound|pound]], [[s/_slurp|slurp]], [[c/_circle|circle]], [[g/_girdle|girdle]], [[s/_surround|surround]], [[b/_buckle|buckle]], [[f/_fasten|fasten]], [[s/_strap|strap]], [[b/_bash|bash]], [[c/_clobber|clobber]], [[s/_smack|smack]], [[w/_wallop|wallop]], [[s/_strap|strap]], [[w/_whip|whip]], [[b/_book|book]], [[s/_speed|speed]], [[w/_whiz|whiz]], [[z/_zoom|zoom]]
 ---

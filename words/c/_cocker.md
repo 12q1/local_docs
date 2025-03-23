@@ -6,5 +6,5 @@
 - **A [[d/_device|device]] that [[a/_aids|aids]] in [[c/_cocking|cocking]] a [[c/_crossbow|crossbow]].**
 ---
 ### Synonyms
-- [[cockfighter]]
+- [[c/_cockfighter|cockfighter]]
 ---

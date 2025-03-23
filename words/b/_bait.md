@@ -1,7 +1,7 @@
 # Bait
 ---
 #noun
-- **[[a/_any|Any]] substance, especially food, used in [[c/_catching|catching]] fish, or other [[a/_animals|animals]], by [[a/_alluring|alluring]] them to a hook, snare, trap, or net.**
+- **[[a/_any|Any]] substance, [[e/_especially|especially]] food, used in [[c/_catching|catching]] fish, or other [[a/_animals|animals]], by [[a/_alluring|alluring]] them to a hook, snare, trap, or net.**
 - **Food [[c/_containing|containing]] poison or a harmful [[a/_additive|additive]] to kill [[a/_animals|animals]] that are pests.**
 - **[[a/_anything|Anything]] which [[a/_allures|allures]]; something used to lure or [[e/_entice|entice]] someone or something into [[d/_doing|doing]] something**
 - **A portion of food or [[d/_drink|drink]], as a refreshment taken on a journey; [[a/_also|also]], a stop for rest and refreshment.**

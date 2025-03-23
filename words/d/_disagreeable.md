@@ -8,5 +8,5 @@
 - **Exciting repugnance; offensive to the feelings or senses; [[d/_displeasing|displeasing]]; unpleasant.**
 ---
 ### Antonyms
-- [[agreeable]]
+- [[a/_agreeable|agreeable]]
 ---

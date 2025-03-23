@@ -4,5 +4,5 @@
 - **The frame into which a [[d/_door|door]] is fitted.**
 ---
 ### Synonyms
-- [[doorcase]]
+- [[d/_doorcase|doorcase]]
 ---

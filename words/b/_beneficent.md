@@ -4,7 +4,7 @@
 - **Given to [[a/_acts|acts]] that are kind, [[c/_charitable|charitable]], philanthropic or [[b/_beneficial|beneficial]].**
 ---
 ### Synonyms
-- [[beneficient]], [[generous]]
+- [[b/_beneficient|beneficient]], [[g/_generous|generous]]
 ### Antonyms
-- [[maleficent]]
+- [[m/_maleficent|maleficent]]
 ---

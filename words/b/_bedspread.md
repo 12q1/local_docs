@@ -5,5 +5,5 @@
 - **A [[c/_coverlet|coverlet]].**
 ---
 ### Synonyms
-- [[bedcover]], [[counterpane]]
+- [[b/_bedcover|bedcover]], [[c/_counterpane|counterpane]]
 ---

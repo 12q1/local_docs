@@ -7,7 +7,7 @@
 - **A [[d/_disk|disk]] or wheel with its [[a/_axis|axis]] off [[c/_centre|centre]], giving a reciprocating motion.**
 ---
 ### Synonyms
-- [[crank]], [[odd duck]], [[weirdo]], [[misfit]], [[nonconformist]]
+- [[c/_crank|crank]], [[w/_weirdo|weirdo]], [[m/_misfit|misfit]], [[n/_nonconformist|nonconformist]]
 #adjective
 - **Not at or in the [[c/_centre|centre]]; [[a/_away|away]] from the [[c/_centre|centre]].**
 - **Not perfectly [[c/_circular|circular]]; [[e/_elliptical|elliptical]].**
@@ -18,7 +18,7 @@
 - **Having [[d/_different|different]] goals or motives.**
 ---
 ### Synonyms
-- [[abnormal]], [[eccentrical]], [[excentrical]], [[odd]], [[eccentrical]], [[excentrical]], [[eccentrical]], [[excentrical]], [[eccentrical]], [[excentrical]], [[eccentrical]], [[excentrical]]
+- [[a/_abnormal|abnormal]], [[e/_eccentrical|eccentrical]], [[e/_excentrical|excentrical]], [[o/_odd|odd]], [[e/_eccentrical|eccentrical]], [[e/_excentrical|excentrical]], [[e/_eccentrical|eccentrical]], [[e/_excentrical|excentrical]], [[e/_eccentrical|eccentrical]], [[e/_excentrical|excentrical]], [[e/_eccentrical|eccentrical]], [[e/_excentrical|excentrical]]
 ### Antonyms
-- [[concentric]]
+- [[c/_concentric|concentric]]
 ---

@@ -10,7 +10,7 @@
 - **A mistake in performing.**
 ---
 ### Synonyms
-- [[2-omino]], [[domino costume]], [[domino mask]], [[eyemask]], [[half mask]]
+- [[2/_2-omino|2-omino]], [[e/_eyemask|eyemask]]
 #verb
 - **To [[c/_collapse|collapse]] in the manner of [[d/_dominoes|dominoes]].**
 - **To [[c/_cause|cause]] to [[c/_collapse|collapse]] in the manner of [[d/_dominoes|dominoes]].**

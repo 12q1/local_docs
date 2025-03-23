@@ -13,6 +13,6 @@
 - **The [[c/_corresponding|corresponding]] tracks on a vertical [[a/_arrangement|arrangement]] of [[d/_disks|disks]] in a [[d/_disk|disk]] [[d/_drive|drive]] [[c/_considered|considered]] as a unit of [[d/_data|data]] [[c/_capacity|capacity]].**
 ---
 #verb
-- **To [[c/_calender|calender]]; to press (paper, etc.) [[b/_between|between]] rollers to make it glossy.**
+- **To [[c/_calender|calender]]; to press (paper, [[e/_etc|etc]].) [[b/_between|between]] rollers to make it glossy.**
 ---
 ---

@@ -12,11 +12,11 @@
 	- _Example: an easterly wind_
 ---
 ### Synonyms
-- [[eastly]]
+- [[e/_eastly|eastly]]
 #adverb
 - **In an [[e/_eastward|eastward]] [[d/_direction|direction]] or position; towards the [[e/_east|east]].**
 - **From the [[e/_east|east]].**
 ---
 ### Synonyms
-- [[eastly]]
+- [[e/_eastly|eastly]]
 ---

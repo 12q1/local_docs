@@ -11,5 +11,5 @@
 - **In gin rummy, the [[d/_discarding|discarding]] of a [[c/_card|card]] of one's preferred suit so as to mislead the opponent into thinking you [[d/_do|do]] not want it.**
 ---
 ### Synonyms
-- [[ad]], [[advert]]
+- [[a/_ad|ad]], [[a/_advert|advert]]
 ---

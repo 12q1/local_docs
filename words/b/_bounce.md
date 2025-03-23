@@ -3,7 +3,7 @@
 #noun
 - **A [[c/_change|change]] of [[d/_direction|direction]] of motion [[a/_after|after]] hitting the ground or an obstacle.**
 - **A movement up and then [[d/_down|down]] (or vice versa), once or repeatedly.**
-- **An [[e/_email|email]] return with [[a/_any|any]] error.**
+- **An [[e/_email|email]] return with [[a/_any|any]] [[e/_error|error]].**
 - **The sack, licensing.**
 - **A [[b/_bang|bang]], [[b/_boom|boom]].**
 - **A [[d/_drink|drink]] [[b/_based|based]] on brandyW.**
@@ -18,7 +18,7 @@
 	- _Example: Them pro-ballers got bounce!_
 ---
 ### Synonyms
-- [[rebound]], [[bob]], [[bobbing]], [[bouncing]], [[mad ups]], [[ups]]
+- [[r/_rebound|rebound]], [[b/_bob|bob]], [[b/_bobbing|bobbing]], [[b/_bouncing|bouncing]], [[u/_ups|ups]]
 #verb
 - **To [[c/_change|change]] the [[d/_direction|direction]] of motion [[a/_after|after]] hitting an obstacle.**
 	- _Example: The tennis ball bounced off the wall before coming to rest in the ditch._
@@ -26,7 +26,7 @@
 	- _Example: He bounces nervously on his chair._
 - **To [[c/_cause|cause]] to move quickly up and [[d/_down|down]], or [[b/_back|back]] and forth, once or repeatedly.**
 	- _Example: He bounced the child on his knee._
-- **To suggest or introduce (an idea, etc.) to (off or by) somebody, in order to gain feedback.**
+- **To suggest or introduce (an idea, [[e/_etc|etc]].) to (off or by) somebody, in order to gain feedback.**
 	- _Example: I'm meeting Bob later to bounce some ideas off him about the new product range._
 - **To leap or spring suddenly or unceremoniously; to [[b/_bound|bound]].**
 	- _Example: She bounced happily into the room._
@@ -56,5 +56,5 @@
 - **To [[b/_boast|boast]]; to [[b/_bluster|bluster]].**
 ---
 ### Synonyms
-- [[bounce back]], [[rebound]], [[bang]], [[do it]], [[have sex]], [[bob]]
+- [[r/_rebound|rebound]], [[b/_bang|bang]], [[b/_bob|bob]]
 ---

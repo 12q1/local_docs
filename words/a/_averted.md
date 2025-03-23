@@ -9,8 +9,8 @@
 - **To turn [[a/_away|away]].**
 ---
 ### Synonyms
-- [[forestall]]
+- [[f/_forestall|forestall]]
 #adjective
-- **Turned [[a/_away|away]], especially as an expression of feeling; [[a/_also|also]], offended; unpropitious.**
+- **Turned [[a/_away|away]], [[e/_especially|especially]] as an expression of feeling; [[a/_also|also]], offended; unpropitious.**
 ---
 ---

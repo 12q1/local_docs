@@ -5,9 +5,9 @@
 	- _Example: I'm a terrible cook, so I eat a lot of frozen dinners._
 - **The head [[c/_cook|cook]] of a manor house**
 - **The [[d/_degree|degree]] or quality of cookedness of food**
-- **One who manufactures [[c/_certain|certain]] illegal [[d/_drugs|drugs]], especially meth.**
+- **One who manufactures [[c/_certain|certain]] illegal [[d/_drugs|drugs]], [[e/_especially|especially]] meth.**
 	- _Example: Police found two meth cooks working in the illicit lab._
-- **A session of manufacturing [[c/_certain|certain]] illegal [[d/_drugs|drugs]], especially meth.**
+- **A session of manufacturing [[c/_certain|certain]] illegal [[d/_drugs|drugs]], [[e/_especially|especially]] meth.**
 - **A fish, the European striped wrasse, Labrus mixtus.**
 ---
 #verb
@@ -29,7 +29,7 @@
 	- _Example: On the Wagner piece, the orchestra was cooking!_
 ---
 ### Synonyms
-- [[cook off]], [[bake]], [[stew]]
+- [[b/_bake|bake]], [[s/_stew|stew]]
 #verb
 - **To make the noise of the [[c/_cuckoo|cuckoo]].**
 ---

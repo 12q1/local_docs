@@ -6,5 +6,5 @@
 	- _Example: the armpit of America_
 ---
 ### Synonyms
-- [[armhole]], [[axilla]], [[oxter]], [[underarm]]
+- [[a/_armhole|armhole]], [[a/_axilla|axilla]], [[o/_oxter|oxter]], [[u/_underarm|underarm]]
 ---

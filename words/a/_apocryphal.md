@@ -8,7 +8,7 @@
 	- _Example: There is an apocryphal tale of a little boy plugging the dike with his finger._
 ---
 ### Synonyms
-- [[allonymous]], [[spurious]], [[anecdotal]]
+- [[a/_allonymous|allonymous]], [[s/_spurious|spurious]], [[a/_anecdotal|anecdotal]]
 ### Antonyms
-- [[canonical]]
+- [[c/_canonical|canonical]]
 ---

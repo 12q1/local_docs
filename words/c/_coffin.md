@@ -10,10 +10,10 @@
 - **A storage [[c/_container|container]] for nuclear waste.**
 ---
 ### Synonyms
-- [[casket]]
+- [[c/_casket|casket]]
 #verb
 - **To place in a [[c/_coffin|coffin]].**
 ---
 ### Synonyms
-- [[encoffin]]
+- [[e/_encoffin|encoffin]]
 ---

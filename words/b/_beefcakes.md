@@ -2,8 +2,8 @@
 ---
 #noun
 - **Imagery of one or more muscular, well-[[b/_built|built]] men.**
-- **Such a male, especially as seen as physically [[d/_desirable|desirable]].**
+- **Such a male, [[e/_especially|especially]] as seen as physically [[d/_desirable|desirable]].**
 ---
 ### Synonyms
-- [[adonis]], [[hunk]], [[lady-killer]]
+- [[a/_adonis|adonis]], [[h/_hunk|hunk]], [[l/_lady-killer|lady-killer]]
 ---

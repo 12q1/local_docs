@@ -7,7 +7,7 @@
 - **To indicate or set [[a/_apart|apart]] for a purpose or [[d/_duty|duty]]; — with to or for; to [[d/_designate|designate]] an officer for or to the [[c/_command|command]] of a post or station.**
 ---
 ### Synonyms
-- [[denominate]], [[entitle]], [[name]], [[style]], [[denote]], [[describe]], [[indicate]], [[note]], [[allocate]], [[earmark]]
+- [[d/_denominate|denominate]], [[e/_entitle|entitle]], [[n/_name|name]], [[s/_style|style]], [[d/_denote|denote]], [[d/_describe|describe]], [[i/_indicate|indicate]], [[n/_note|note]], [[a/_allocate|allocate]], [[e/_earmark|earmark]]
 #adjective
 - **Having a specified [[d/_designation|designation]]**
 ---

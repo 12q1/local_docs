@@ -5,5 +5,5 @@
 - **A [[c/_clapperboard|clapperboard]].**
 ---
 ### Synonyms
-- [[clapper]], [[musicstick]]
+- [[c/_clapper|clapper]], [[m/_musicstick|musicstick]]
 ---

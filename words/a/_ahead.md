@@ -12,5 +12,5 @@
 	- _Example: In all of his classes Jack was ahead._
 ---
 ### Antonyms
-- [[astern]], [[behind]]
+- [[a/_astern|astern]], [[b/_behind|behind]]
 ---

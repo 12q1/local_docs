@@ -5,5 +5,5 @@
 - **To [[d/_disappear|disappear]] suddenly and secretly.**
 ---
 ### Synonyms
-- [[abscond]], [[absquatulate]]
+- [[a/_abscond|abscond]], [[a/_absquatulate|absquatulate]]
 ---

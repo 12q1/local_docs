@@ -7,5 +7,5 @@
 - **(of a gesture) Made using a [[b/_beak|beak]]; (of a sound) produced through a [[b/_beak|beak]].**
 ---
 ### Synonyms
-- [[beaked]], [[rostellate]], [[rostrate]], [[rostrated]]
+- [[b/_beaked|beaked]], [[r/_rostellate|rostellate]], [[r/_rostrate|rostrate]], [[r/_rostrated|rostrated]]
 ---

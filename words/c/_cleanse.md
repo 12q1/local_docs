@@ -5,7 +5,7 @@
 	- _Example: I regularly visit the spa for a massage and a facial cleanse._
 ---
 ### Synonyms
-- [[cleansing]]
+- [[c/_cleansing|cleansing]]
 #verb
 - **To free from [[d/_dirt|dirt]]; to [[c/_clean|clean]], to purify.**
 - **To spiritually purify; to free from guilt or sin; to purge.**

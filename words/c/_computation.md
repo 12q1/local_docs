@@ -5,5 +5,5 @@
 - **The result of [[c/_computation|computation]]; the [[a/_amount|amount]] [[c/_computed|computed]].**
 ---
 ### Synonyms
-- [[calculus]], [[ciphering]]
+- [[c/_calculus|calculus]], [[c/_ciphering|ciphering]]
 ---

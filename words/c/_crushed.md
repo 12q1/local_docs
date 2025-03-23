@@ -17,7 +17,7 @@
 - **To give a [[c/_compressed|compressed]] or foreshortened [[a/_appearance|appearance]] to.**
 ---
 ### Synonyms
-- [[comminute]]
+- [[c/_comminute|comminute]]
 #adjective
 - **Pulverized, rendered into small, [[d/_disconnected|disconnected]] fragments.**
 - **[[b/_broken|Broken]], saddened, [[d/_depressed|depressed]].**

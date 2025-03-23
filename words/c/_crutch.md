@@ -1,7 +1,7 @@
 # Crutch
 ---
 #noun
-- **A [[d/_device|device]] to [[a/_assist|assist]] in motion as a [[c/_cane|cane]], especially one that provides support under the [[a/_arm|arm]] to reduce weight on a leg.**
+- **A [[d/_device|device]] to [[a/_assist|assist]] in motion as a [[c/_cane|cane]], [[e/_especially|especially]] one that provides support under the [[a/_arm|arm]] to reduce weight on a leg.**
 	- _Example: He walked on crutches for a month until the cast was removed from his leg._
 - **Something that supports, often used negatively to indicate that it is not needed and [[c/_causes|causes]] an unhealthful [[d/_dependency|dependency]]; a prop**
 	- _Example: Alcohol became a crutch to help him through the long nights; eventually it killed him._

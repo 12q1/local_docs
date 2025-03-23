@@ -4,5 +4,5 @@
 - **To wind or [[c/_collect|collect]] into a [[b/_ball|ball]]; hence, to gather into a mass or [[a/_anything|anything]] like a mass.**
 ---
 ### Synonyms
-- [[ball]], [[ball up]], [[bundle up]], [[clew]], [[conglobate]], [[conglobe]], [[globe]], [[orb]], [[wind]], [[amass]], [[gather]], [[gather up]], [[merge]], [[pile up]]
+- [[b/_ball|ball]], [[c/_clew|clew]], [[c/_conglobate|conglobate]], [[c/_conglobe|conglobe]], [[g/_globe|globe]], [[o/_orb|orb]], [[w/_wind|wind]], [[a/_amass|amass]], [[g/_gather|gather]], [[m/_merge|merge]]
 ---

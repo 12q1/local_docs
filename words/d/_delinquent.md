@@ -11,5 +11,5 @@
 - **Failing in or neglectful of a [[d/_duty|duty]] or obligation; guilty of a misdeed or offense**
 ---
 ### Synonyms
-- [[defaulting]]
+- [[d/_defaulting|defaulting]]
 ---

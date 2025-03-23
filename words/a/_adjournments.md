@@ -6,5 +6,5 @@
 - **Ampliatio.**
 ---
 ### Synonyms
-- [[deferral]], [[procrastination]]
+- [[d/_deferral|deferral]], [[p/_procrastination|procrastination]]
 ---

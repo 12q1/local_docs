@@ -5,5 +5,5 @@
 - **[[c/_closely|Closely]]-related [[c/_cultivars|cultivars]] such as the [[e/_enormous|enormous]] turnip-shaped Sakurajima or green-and-red watermelon radish.**
 ---
 ### Synonyms
-- [[Chinese green radish]], [[Chinese radish]], [[Chinese radish]], [[Chinese white radish]], [[Japanese radish]], [[Japanese radish]], [[Korean radish]], [[Oriental radish]], [[oriental radish]], [[Oriental radish]], [[oriental radish]], [[Sakurajima radish]], [[beauty heart radish]], [[daikon radish]], [[fodder radish]], [[forage radish]], [[icicle radish]], [[lo bak]], [[lo pak]], [[lo bak]], [[lo pak]], [[long white radish]], [[moole]], [[mooli]], [[muli]], [[oil radish]], [[oilseed radish]], [[radish ripper]], [[red daikon]], [[roseheart radish]], [[shinrimei]], [[shinrimei radish]], [[tillage radish]], [[watermelon radish]], [[white radish]], [[white radish]]
+- [[m/_moole|moole]], [[m/_mooli|mooli]], [[m/_muli|muli]], [[s/_shinrimei|shinrimei]]
 ---

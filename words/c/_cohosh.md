@@ -5,5 +5,5 @@
 - **A smooth herb, [[a/_actaea|Actaea]] racemosa, marketed for medicinal use.**
 ---
 ### Synonyms
-- [[Cimicifuga racemosa]], [[black cohosh]], [[black snakeroot]], [[blue cohosh]], [[squaw root]]
+- 
 ---

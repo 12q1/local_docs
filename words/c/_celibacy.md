@@ -5,5 +5,5 @@
 - **(by extension) [[a/_abstinence|Abstinence]] from sexual relations.**
 ---
 ### Synonyms
-- [[sexlessness]]
+- [[s/_sexlessness|sexlessness]]
 ---

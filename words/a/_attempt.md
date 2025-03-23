@@ -3,11 +3,11 @@
 #noun
 - **The [[a/_action|action]] of trying at something.**
 	- _Example: It was worth the attempt._
-- **An [[a/_assault|assault]] or [[a/_attack|attack]], especially an [[a/_assassination|assassination]] [[a/_attempt|attempt]].**
+- **An [[a/_assault|assault]] or [[a/_attack|attack]], [[e/_especially|especially]] an [[a/_assassination|assassination]] [[a/_attempt|attempt]].**
 	- _Example: 1584 No man can charge us of any attempt against the realm. (Allen's Defence Of English Catholics, cited after Edinburgh review 1883, p. 378)_
 ---
 ### Synonyms
-- [[effort]], [[try]]
+- [[e/_effort|effort]], [[t/_try|try]]
 #verb
 - **To try.**
 	- _Example: A group of 80 budding mountaineers attempted Kilimanjaro, but 30 of them didn't make it to the top._
@@ -18,5 +18,5 @@
 	- _Example: to attempt the enemy's camp_
 ---
 ### Synonyms
-- [[take a run at]], [[take a stab at]]
+- 
 ---

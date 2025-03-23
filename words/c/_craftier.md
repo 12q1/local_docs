@@ -6,5 +6,5 @@
 - **Skillful at [[d/_deceiving|deceiving]] others; [[c/_characterized|characterized]] by [[c/_craft|craft]]**
 ---
 ### Synonyms
-- [[cunning]], [[wily]]
+- [[c/_cunning|cunning]], [[w/_wily|wily]]
 ---

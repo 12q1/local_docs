@@ -8,7 +8,7 @@
 - **With respect to the [[c/_closing|closing]] of a letter, formal and professional.**
 ---
 ### Synonyms
-- [[free of charge]]
+- 
 ### Antonyms
-- [[uncomplimentary]]
+- [[u/_uncomplimentary|uncomplimentary]]
 ---

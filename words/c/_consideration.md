@@ -12,5 +12,5 @@
 - **Importance, [[c/_claim|claim]] to notice, regard.**
 ---
 ### Synonyms
-- [[deliberation]], [[thought]], [[factor]], [[motive]], [[reason]]
+- [[d/_deliberation|deliberation]], [[t/_thought|thought]], [[f/_factor|factor]], [[m/_motive|motive]], [[r/_reason|reason]]
 ---

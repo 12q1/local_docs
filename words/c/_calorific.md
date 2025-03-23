@@ -6,7 +6,7 @@
 - **(of food) High in [[c/_calories|calories]] and thus likely fattening.**
 ---
 ### Synonyms
-- [[caloric]]
+- [[c/_caloric|caloric]]
 ### Antonyms
-- [[frigorific]]
+- [[f/_frigorific|frigorific]]
 ---

@@ -1,12 +1,12 @@
 # Equating
 ---
 #verb
-- **To [[c/_consider|consider]] [[e/_equal|equal]] or equivalent.**
+- **To [[c/_consider|consider]] [[e/_equal|equal]] or [[e/_equivalent|equivalent]].**
 - **To set as [[e/_equal|equal]].**
 ---
 ### Antonyms
-- [[differentiate]]
+- [[d/_differentiate|differentiate]]
 #noun
-- **The [[a/_act|act]] by which things are [[e/_equated|equated]]; the evaluation of things as equivalent.**
+- **The [[a/_act|act]] by which things are [[e/_equated|equated]]; the evaluation of things as [[e/_equivalent|equivalent]].**
 ---
 ---

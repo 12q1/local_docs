@@ -5,5 +5,5 @@
 - **To [[a/_act|act]] as a judge.**
 ---
 ### Synonyms
-- [[arbitrate]], [[decide]], [[resolve]], [[settle]], [[try]]
+- [[a/_arbitrate|arbitrate]], [[d/_decide|decide]], [[r/_resolve|resolve]], [[s/_settle|settle]], [[t/_try|try]]
 ---

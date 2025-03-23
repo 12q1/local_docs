@@ -14,7 +14,7 @@
 - **[[a/_abandon|Abandon]]; [[c/_careless|careless]] freedom or [[e/_ease|ease]]; surrender to one's [[e/_emotions|emotions]].**
 ---
 ### Synonyms
-- [[abandoning]], [[abdication]], [[abjuration]], [[abnegation]], [[abrogation]], [[cession]], [[defection]], [[demission]], [[dereliction]], [[desertion]], [[rejection]], [[relinquishment]], [[renunciation]], [[resignation]], [[surrender]]
+- [[a/_abandoning|abandoning]], [[a/_abdication|abdication]], [[a/_abjuration|abjuration]], [[a/_abnegation|abnegation]], [[a/_abrogation|abrogation]], [[c/_cession|cession]], [[d/_defection|defection]], [[d/_demission|demission]], [[d/_dereliction|dereliction]], [[d/_desertion|desertion]], [[r/_rejection|rejection]], [[r/_relinquishment|relinquishment]], [[r/_renunciation|renunciation]], [[r/_resignation|resignation]], [[s/_surrender|surrender]]
 ### Antonyms
-- [[acquisition]], [[arrogation]], [[care]], [[completion]], [[conviviality]], [[correction]], [[custody]], [[entertainment]], [[heed]], [[help]], [[hospitality]], [[maintenance]], [[reception]], [[reclamation]], [[retention]], [[solicitude]], [[support]], [[tenacity]], [[vigilance]], [[watchfulness]], [[welcome]]
+- [[a/_acquisition|acquisition]], [[a/_arrogation|arrogation]], [[c/_care|care]], [[c/_completion|completion]], [[c/_conviviality|conviviality]], [[c/_correction|correction]], [[c/_custody|custody]], [[e/_entertainment|entertainment]], [[h/_heed|heed]], [[h/_help|help]], [[h/_hospitality|hospitality]], [[m/_maintenance|maintenance]], [[r/_reception|reception]], [[r/_reclamation|reclamation]], [[r/_retention|retention]], [[s/_solicitude|solicitude]], [[s/_support|support]], [[t/_tenacity|tenacity]], [[v/_vigilance|vigilance]], [[w/_watchfulness|watchfulness]], [[w/_welcome|welcome]]
 ---

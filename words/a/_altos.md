@@ -6,5 +6,5 @@
 - **An [[a/_alto|alto]] saxophone**
 ---
 ### Synonyms
-- [[contratenor altus]], [[high countertenor]]
+- 
 ---

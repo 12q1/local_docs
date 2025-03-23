@@ -10,7 +10,7 @@
 ---
 #noun
 - **A very young human, particularly from [[b/_birth|birth]] to a [[c/_couple|couple]] of years old or until walking is fully mastered.**
-- **[[a/_any|Any]] very young [[a/_animal|animal]], especially a vertebrate; many species have specific names for their [[b/_babies|babies]], such as kittens for the [[b/_babies|babies]] of [[c/_cats|cats]], puppies for the [[b/_babies|babies]] of [[d/_dogs|dogs]], and [[c/_chickens|chickens]] for the [[b/_babies|babies]] of [[b/_birds|birds]]. See for more.**
+- **[[a/_any|Any]] very young [[a/_animal|animal]], [[e/_especially|especially]] a vertebrate; many species have specific names for their [[b/_babies|babies]], such as kittens for the [[b/_babies|babies]] of [[c/_cats|cats]], puppies for the [[b/_babies|babies]] of [[d/_dogs|dogs]], and [[c/_chickens|chickens]] for the [[b/_babies|babies]] of [[b/_birds|birds]]. See for more.**
 - **Unborn young; a fetus.**
 	- _Example: When is your baby due?_
 - **A person who is immature, infantile or feeble.**
@@ -30,7 +30,7 @@
 - **A small image of an infant; a [[d/_doll|doll]].**
 ---
 ### Synonyms
-- [[big baby]], [[love]], [[babbie]], [[babby]], [[babe]], [[infant]]
+- [[l/_love|love]], [[b/_babbie|babbie]], [[b/_babby|babby]], [[b/_babe|babe]], [[i/_infant|infant]]
 #noun
 - **A sport [[c/_common|common]] in North [[a/_america|America]], the [[c/_caribbean|Caribbean]], and Japan, in which the object is to strike a [[b/_ball|ball]] so that one of a nine-person team [[c/_can|can]] run [[c/_counter|counter]]-[[c/_clockwise|clockwise]] [[a/_among|among]] four [[b/_bases|bases]], resulting in the scoring of a run. The team with the most runs [[a/_after|after]] termination of play, usually nine innings, wins.**
 - **The [[b/_ball|ball]] used to play the sport of [[b/_baseball|baseball]].**
@@ -42,17 +42,17 @@
 - **A [[d/_device|device]] using [[b/_baseband|baseband]] transmission.**
 ---
 ### Synonyms
-- [[lowpass]]
+- [[l/_lowpass|lowpass]]
 #noun
 - **A sport in which two opposing teams of five players strive to put a [[b/_ball|ball]] through a hoop.**
 - **The particular kind of [[b/_ball|ball]] used in the sport of [[b/_basketball|basketball]].**
 ---
 ### Synonyms
-- [[hoops]]
+- [[h/_hoops|hoops]]
 #noun
-- **A [[b/_board|board]] on which messages may be posted, especially one in a public space.**
+- **A [[b/_board|board]] on which messages may be posted, [[e/_especially|especially]] one in a public space.**
 - **A system in which users may send, read and reply to public messages; an [[e/_electronic|electronic]] message [[b/_board|board]] or forum.**
 ---
 ### Synonyms
-- [[notice board]]
+- 
 ---

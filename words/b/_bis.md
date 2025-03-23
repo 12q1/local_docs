@@ -4,5 +4,5 @@
 - **A [[b/_bisexual|bisexual]] person.**
 ---
 ### Synonyms
-- [[bisexual]]
+- [[b/_bisexual|bisexual]]
 ---

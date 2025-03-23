@@ -4,5 +4,5 @@
 - **[[a/_able|Able]] to be [[c/_calculated|calculated]].**
 ---
 ### Antonyms
-- [[incalculable]]
+- [[i/_incalculable|incalculable]]
 ---

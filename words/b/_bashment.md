@@ -1,7 +1,7 @@
 # Bashment
 ---
 #noun
-- **(especially Jamaican) A party or rave.**
-- **(especially Jamaican) Dancehall music.**
+- **([[e/_especially|especially]] Jamaican) A party or rave.**
+- **([[e/_especially|especially]] Jamaican) Dancehall music.**
 ---
 ---

@@ -15,15 +15,15 @@
 - **A substance used to [[d/_dilute|dilute]] (street) [[d/_drugs|drugs]] in order to increase profits.**
 ---
 ### Synonyms
-- [[aficionado]], [[revamp]]
+- [[a/_aficionado|aficionado]], [[r/_revamp|revamp]]
 ### Antonyms
-- [[debuff]], [[nerf]]
+- [[d/_debuff|debuff]], [[n/_nerf|nerf]]
 #verb
 - **To polish and make shiny by rubbing.**
 	- _Example: He was already buffing the car's hubs._
 - **To make a [[c/_character|character]] or an item stronger.**
 	- _Example: I noticed that the pistols were buffed in the update._
-- **To modify a medical [[c/_chart|chart]], especially in a [[d/_dishonest|dishonest]] manner.**
+- **To modify a medical [[c/_chart|chart]], [[e/_especially|especially]] in a [[d/_dishonest|dishonest]] manner.**
 ---
 #noun
 - **A [[b/_buffet|buffet]]; a [[b/_blow|blow]].**

@@ -19,5 +19,5 @@
 - **(of time) Long [[a/_ago|ago]]; in the past.**
 ---
 ### Synonyms
-- [[of old]], [[way back]]
+- 
 ---

@@ -13,12 +13,12 @@
 	- _Example: It's a dull day._
 - **Insensible; unfeeling.**
 - **Heavy; lifeless; inert.**
-- **(of pain etc) Not intense; felt indistinctly or only slightly.**
+- **(of pain [[e/_etc|etc]]) Not intense; felt indistinctly or only slightly.**
 	- _Example: Pressing on the bruise produces a dull pain._
 - **(of a noise or sound) Not [[c/_clear|clear]], muffled.**
 ---
 ### Synonyms
-- [[lackluster]], [[matte]]
+- [[l/_lackluster|lackluster]], [[m/_matte|matte]]
 ### Antonyms
-- [[bright]], [[intelligent]], [[sharp]]
+- [[b/_bright|bright]], [[i/_intelligent|intelligent]], [[s/_sharp|sharp]]
 ---

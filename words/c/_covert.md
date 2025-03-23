@@ -12,7 +12,7 @@
 - **Secret, surreptitious, [[c/_concealed|concealed]].**
 ---
 ### Synonyms
-- [[feme covert]]
+- 
 ### Antonyms
-- [[overt]]
+- [[o/_overt|overt]]
 ---

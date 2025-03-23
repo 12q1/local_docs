@@ -14,7 +14,7 @@
 	- _Example: We took the computer apart and put it back together._
 ---
 ### Synonyms
-- [[independently]], [[separately]], [[asunder]], [[in twain]]
+- [[i/_independently|independently]], [[s/_separately|separately]], [[a/_asunder|asunder]]
 ### Antonyms
-- [[together]]
+- [[t/_together|together]]
 ---

@@ -25,7 +25,7 @@
 - **To [[b/_betroth|betroth]]; to [[a/_affiance|affiance]].**
 ---
 ### Synonyms
-- [[catch]], [[get]], [[abate]], [[decrease]], [[lessen]], [[reduce]], [[shorten]], [[shrink]]
+- [[c/_catch|catch]], [[g/_get|get]], [[a/_abate|abate]], [[d/_decrease|decrease]], [[l/_lessen|lessen]], [[r/_reduce|reduce]], [[s/_shorten|shorten]], [[s/_shrink|shrink]]
 ### Antonyms
-- [[expand]], [[increase]], [[grow]], [[lengthen]]
+- [[e/_expand|expand]], [[i/_increase|increase]], [[g/_grow|grow]], [[l/_lengthen|lengthen]]
 ---

@@ -5,5 +5,5 @@
 - **Uncommunicative; unwilling or hesitant to give information.**
 ---
 ### Synonyms
-- [[evasive]], [[reticent]]
+- [[e/_evasive|evasive]], [[r/_reticent|reticent]]
 ---

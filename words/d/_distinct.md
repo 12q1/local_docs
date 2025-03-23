@@ -12,7 +12,7 @@
 - **Marked; variegated.**
 ---
 ### Synonyms
-- [[clear]], [[vivid]], [[different]], [[separate]], [[several]], [[specified]], [[patterned]], [[characteristic]], [[distinctive]], [[prominent]], [[discrete]], [[individual]], [[noncontinuous]], [[separate]]
+- [[c/_clear|clear]], [[v/_vivid|vivid]], [[d/_different|different]], [[s/_separate|separate]], [[s/_several|several]], [[s/_specified|specified]], [[p/_patterned|patterned]], [[c/_characteristic|characteristic]], [[d/_distinctive|distinctive]], [[p/_prominent|prominent]], [[d/_discrete|discrete]], [[i/_individual|individual]], [[n/_noncontinuous|noncontinuous]], [[s/_separate|separate]]
 ### Antonyms
-- [[confusing]], [[indistinct]], [[indistinguishable]], [[same]]
+- [[c/_confusing|confusing]], [[i/_indistinct|indistinct]], [[i/_indistinguishable|indistinguishable]], [[s/_same|same]]
 ---

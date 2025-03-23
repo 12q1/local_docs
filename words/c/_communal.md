@@ -7,5 +7,5 @@
 	- _Example: communal politics_
 ---
 ### Antonyms
-- [[secular]]
+- [[s/_secular|secular]]
 ---

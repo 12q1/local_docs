@@ -5,5 +5,5 @@
 - **The [[b/_bully|bully]] tree.**
 ---
 ### Synonyms
-- [[damson]]
+- [[d/_damson|damson]]
 ---

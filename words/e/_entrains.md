@@ -14,5 +14,5 @@
 	- _Example: to entrain a regiment_
 ---
 ### Antonyms
-- [[detrain]]
+- [[d/_detrain|detrain]]
 ---

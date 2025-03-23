@@ -10,5 +10,5 @@
 	- _Example: He made a delicious butternut soup._
 ---
 ### Synonyms
-- [[white walnut]]
+- 
 ---

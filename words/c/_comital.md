@@ -4,5 +4,5 @@
 - **Of or pertaining to a [[c/_count|count]] or [[e/_earl|earl]].**
 ---
 ### Synonyms
-- [[comtal]]
+- [[c/_comtal|comtal]]
 ---

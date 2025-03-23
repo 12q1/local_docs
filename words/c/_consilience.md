@@ -5,5 +5,5 @@
 - **The [[a/_agreement|agreement]], [[c/_co|co]]-operation, or overlap of [[a/_academic|academic]] [[d/_disciplines|disciplines]].**
 ---
 ### Synonyms
-- [[coincidence]]
+- [[c/_coincidence|coincidence]]
 ---

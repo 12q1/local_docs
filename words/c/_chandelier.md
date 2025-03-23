@@ -7,5 +7,5 @@
 - **An endoilluminator used in [[e/_eye|eye]] surgery.**
 ---
 ### Synonyms
-- [[wall]]
+- [[w/_wall|wall]]
 ---

@@ -16,14 +16,14 @@
 - **A point scored in a rubber at whist.**
 ---
 ### Synonyms
-- [[angle]], [[bend]], [[cranny]], [[hern]], [[hideaway]], [[hirn]], [[nook]], [[recess]]
+- [[a/_angle|angle]], [[b/_bend|bend]], [[c/_cranny|cranny]], [[h/_hern|hern]], [[h/_hideaway|hideaway]], [[h/_hirn|hirn]], [[n/_nook|nook]], [[r/_recess|recess]]
 #verb
 - **To [[d/_drive|drive]] (someone or something) into a [[c/_corner|corner]] or other [[c/_confined|confined]] space.**
 	- _Example: The cat had cornered a cricket between the sofa and the television stand._
 - **To trap in a position of great [[d/_difficulty|difficulty]] or hopeless [[e/_embarrassment|embarrassment]].**
 	- _Example: The reporter cornered the politician by pointing out the hypocrisy of his position on mandatory sentencing, in light of the politician's own actions in court._
 - **To put (someone) in an [[a/_awkward|awkward]] situation.**
-- **To get sufficient [[c/_command|command]] of (a stock, [[c/_commodity|commodity]], etc.), so as to be [[a/_able|able]] to manipulate its price.**
+- **To get sufficient [[c/_command|command]] of (a stock, [[c/_commodity|commodity]], [[e/_etc|etc]].), so as to be [[a/_able|able]] to manipulate its price.**
 	- _Example: It's extremely hard to corner the petroleum market because there are so many players._
 - **To turn a [[c/_corner|corner]] or [[d/_drive|drive]] [[a/_around|around]] a [[c/_curve|curve]].**
 	- _Example: As the stock car driver cornered the last turn, he lost control and spun out._

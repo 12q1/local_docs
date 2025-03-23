@@ -10,5 +10,5 @@
 - **A tensor of order two and rank one.**
 ---
 ### Synonyms
-- [[couple]], [[duad]]
+- [[c/_couple|couple]], [[d/_duad|duad]]
 ---

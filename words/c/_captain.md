@@ -15,7 +15,7 @@
 - **An honorific title given to a prominent person. See [[c/_colonel|colonel]].**
 ---
 ### Synonyms
-- [[master]], [[skipper]], [[foreman]], [[straw boss]], [[supervisor]], [[CAPT]], [[CAPT.]], [[CPT]], [[Capt]], [[Capt.]], [[pilot]], [[pilot in command]]
+- [[m/_master|master]], [[s/_skipper|skipper]], [[f/_foreman|foreman]], [[s/_supervisor|supervisor]], [[C/_CAPT|CAPT]], [[C/_CAPT.|CAPT.]], [[C/_CPT|CPT]], [[C/_Capt|Capt]], [[C/_Capt.|Capt.]], [[p/_pilot|pilot]]
 #verb
 - **To [[a/_act|act]] as [[c/_captain|captain]]**
 - **To exercise [[c/_command|command]] of a ship, [[a/_aircraft|aircraft]] or sports team.**

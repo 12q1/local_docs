@@ -5,5 +5,5 @@
 - **A stick or staff taken from this tree.**
 ---
 ### Synonyms
-- [[sloe]]
+- [[s/_sloe|sloe]]
 ---

@@ -4,5 +4,5 @@
 - **[[d/_difficulty|Difficulty]] in swallowing.**
 ---
 ### Synonyms
-- [[dysphagy]]
+- [[d/_dysphagy|dysphagy]]
 ---

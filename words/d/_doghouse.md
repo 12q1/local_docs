@@ -6,8 +6,8 @@
 - **Mechanically, an [[e/_equipment|equipment]] [[c/_cover|cover]] with an opening, with a shape resembling a [[d/_doghouse|doghouse]].**
 - **A [[d/_difficult|difficult]] or [[d/_demoralizing|demoralizing]] situation.**
 - **A traffic signal with five sections: two on the [[b/_bottom|bottom]], two in the middle, and one on top.**
-- **[[a/_any|Any]] shabby or [[d/_disreputable|disreputable]] establishment.**
+- **[[a/_any|Any]] shabby or [[d/_disreputable|disreputable]] [[e/_establishment|establishment]].**
 ---
 ### Synonyms
-- [[kennel]]
+- [[k/_kennel|kennel]]
 ---

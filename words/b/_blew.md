@@ -31,9 +31,9 @@
 	- _Example: I blew $35 thou on a car._
 - **To fellate; to perform oral sex on (usually a man)**
 	- _Example: Who did you have to blow to get those backstage passes?_
-- **To leave, especially suddenly or in a hurry.**
+- **To leave, [[e/_especially|especially]] suddenly or in a hurry.**
 	- _Example: Let's blow this joint._
-- **To make flyblown, to [[d/_defile|defile]], especially with fly [[e/_eggs|eggs]].**
+- **To make flyblown, to [[d/_defile|defile]], [[e/_especially|especially]] with fly [[e/_eggs|eggs]].**
 - **To spread by report; to publish; to [[d/_disclose|disclose]].**
 - **To inflate, as with pride; to puff up.**
 - **To [[b/_breathe|breathe]] hard or quick; to pant; to puff.**
@@ -59,7 +59,7 @@
 	- _Example: His request for leave came out of the blue._
 - **The ocean; [[d/_deep|deep]] waters.**
 - **The far [[d/_distance|distance]]; a remote or [[d/_distant|distant]] place.**
-- **[[a/_anything|Anything]] [[b/_blue|blue]], especially to [[d/_distinguish|distinguish]] it from similar objects [[d/_differing|differing]] only in [[c/_color|color]].**
+- **[[a/_anything|Anything]] [[b/_blue|blue]], [[e/_especially|especially]] to [[d/_distinguish|distinguish]] it from similar objects [[d/_differing|differing]] only in [[c/_color|color]].**
 - **A [[d/_dog|dog]] or [[c/_cat|cat]] with a slaty gray [[c/_coat|coat]].**
 - **One of the [[c/_colour|colour]] [[b/_balls|balls]] used in snooker, with a value of five points.**
 - **[[a/_any|Any]] of the [[b/_butterflies|butterflies]] of the subfamily Polyommatinae in the family Lycaenidae, most of which have [[b/_blue|blue]] on their wings.**
@@ -88,11 +88,11 @@
 	- _Example: His material is too blue for prime-time_
 ---
 ### Antonyms
-- [[nonblue]], [[unblue]], [[antiblue]]
+- [[n/_nonblue|nonblue]], [[u/_unblue|unblue]], [[a/_antiblue|antiblue]]
 #adjective
 - **([[e/_entertainment|entertainment]]) Pornographic or profane.**
 	- _Example: The air was blue with oaths._
 ---
 ### Synonyms
-- [[X-rated]], [[adult]]
+- [[X/_X-rated|X-rated]], [[a/_adult|adult]]
 ---

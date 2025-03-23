@@ -5,5 +5,5 @@
 - **To [[b/_board|board]] a [[b/_bus|bus]]**
 ---
 ### Antonyms
-- [[debus]]
+- [[d/_debus|debus]]
 ---

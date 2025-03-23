@@ -15,7 +15,7 @@
 - **To take (a final exam) in order to get [[c/_credit|credit]] for a [[c/_course|course]] without taking it.**
 ---
 ### Synonyms
-- [[becall]], [[call out]]
+- [[b/_becall|becall]]
 #adjective
 - **Lacking some physical or mental [[a/_attribute|attribute]] or skill ; used [[a/_after|after]] [[a/_adverbs|adverbs]] to make politically [[c/_correct|correct]] [[a/_adjectives|adjectives]].**
 	- _Example: mentally challenged_

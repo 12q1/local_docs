@@ -4,5 +4,5 @@
 - **[[c/_calm|Calm]] and [[c/_composed|composed]]; of stable [[d/_disposition|disposition]].**
 ---
 ### Synonyms
-- [[calm]], [[composed]]
+- [[c/_calm|calm]], [[c/_composed|composed]]
 ---

@@ -10,7 +10,7 @@
 - **(in negative sense) Forward, impudent.**
 ---
 ### Synonyms
-- [[self-assured]]
+- [[s/_self-assured|self-assured]]
 ### Antonyms
-- [[insecure]], [[self-destructive]]
+- [[i/_insecure|insecure]], [[s/_self-destructive|self-destructive]]
 ---

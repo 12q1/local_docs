@@ -8,7 +8,7 @@
 - **A [[d/_drinking|drinking]] spree.**
 ---
 ### Synonyms
-- [[spurt]]
+- [[s/_spurt|spurt]]
 #verb
 - **To [[b/_break|break]] from internal pressure.**
 	- _Example: I blew the balloon up too much, and it burst._
@@ -18,7 +18,7 @@
 - **To separate (printer paper) at perforation lines.**
 	- _Example: I printed the report on form-feed paper, then burst the sheets._
 - **To [[e/_enter|enter]] or exit hurriedly and unexpectedly.**
-- **To erupt; to [[c/_change|change]] state suddenly as if [[b/_bursting|bursting]].**
+- **To [[e/_erupt|erupt]]; to [[c/_change|change]] state suddenly as if [[b/_bursting|bursting]].**
 	- _Example: The flowers burst into bloom on the first day of spring._
 - **To produce as an [[e/_effect|effect]] of [[b/_bursting|bursting]].**
 	- _Example: to burst a hole through the wall_

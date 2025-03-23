@@ -1,6 +1,6 @@
 # Desalinized
 ---
 #verb
-- **To remove the salt from something, especially from seawater.**
+- **To remove the salt from something, [[e/_especially|especially]] from seawater.**
 ---
 ---

@@ -4,5 +4,5 @@
 - **To [[c/_confuse|confuse]], [[c/_confound|confound]] or perplex.**
 ---
 ### Synonyms
-- [[confuscate]]
+- [[c/_confuscate|confuscate]]
 ---

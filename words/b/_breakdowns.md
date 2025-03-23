@@ -13,10 +13,10 @@
 - **A loss of organization (of the parts of a system).**
 - **A noisy, rapid, shuffling [[d/_dance|dance]] [[e/_engaged|engaged]] in [[c/_competitively|competitively]] by a number of persons or pairs in succession, [[c/_common|common]] in Southern United States [[a/_african|African]] [[a/_american|American]] music.**
 - **[[a/_any|Any]] [[c/_crude|crude]], noisy [[d/_dance|dance]] performed by shuffling the feet, usually by one person at a time.**
-- **[[a/_any|Any]] rapid [[b/_bluegrass|bluegrass]] [[d/_dance|dance]] tune, especially featuring a five-string [[b/_banjo|banjo]].**
+- **[[a/_any|Any]] rapid [[b/_bluegrass|bluegrass]] [[d/_dance|dance]] tune, [[e/_especially|especially]] featuring a five-string [[b/_banjo|banjo]].**
 	- _Example: "Foggy Mountain Breakdown"_
 - **The percussion [[b/_break|break]] of songs [[c/_chosen|chosen]] by a [[d/_dj|DJ]] for use in hip-hop music.**
 ---
 ### Synonyms
-- [[degradation]]
+- [[d/_degradation|degradation]]
 ---

@@ -6,5 +6,5 @@
 - **To be evidence of something; to be of importance or relevance.**
 ---
 ### Synonyms
-- [[wrangle]]
+- [[w/_wrangle|wrangle]]
 ---

@@ -2,9 +2,9 @@
 ---
 #noun
 - **A kind of sponge [[c/_cake|cake]] soaked in rum-flavoured syrup.**
-- **(esp. [[a/_among|among]] people of [[e/_east|East]] European [[a/_ancestry|ancestry]]) A grandmother.**
-- **An old woman, especially a traditional old woman from an [[e/_eastern|eastern]] European [[c/_culture|culture]].**
-- **(esp. [[a/_among|among]] people of Indian [[a/_ancestry|ancestry]]) A father.**
+- **([[e/_esp|esp]]. [[a/_among|among]] people of [[e/_east|East]] European [[a/_ancestry|ancestry]]) A grandmother.**
+- **An old woman, [[e/_especially|especially]] a traditional old woman from an [[e/_eastern|eastern]] European [[c/_culture|culture]].**
+- **([[e/_esp|esp]]. [[a/_among|among]] people of Indian [[a/_ancestry|ancestry]]) A father.**
 - **(Hinduism, Islam, Sikhism) A holy man, a spiritual leader.**
 - **A [[b/_baby|baby]], [[c/_child|child]].**
 - **In [[b/_baby|baby]] talk, often used for a variety of words [[b/_beginning|beginning]] with [[b/_b|b]], such as [[b/_bottle|bottle]] or [[b/_blanket|blanket]].**

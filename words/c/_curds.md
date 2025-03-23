@@ -1,7 +1,7 @@
 # Curds
 ---
 #noun
-- **The part of milk that [[c/_coagulates|coagulates]] when it sours or is treated with [[e/_enzymes|enzymes]]; used to make [[c/_cottage|cottage]] [[c/_cheese|cheese]], dahi, etc.**
+- **The part of milk that [[c/_coagulates|coagulates]] when it sours or is treated with [[e/_enzymes|enzymes]]; used to make [[c/_cottage|cottage]] [[c/_cheese|cheese]], dahi, [[e/_etc|etc]].**
 - **The [[c/_coagulated|coagulated]] part of [[a/_any|any]] liquid.**
 - **The [[e/_edible|edible]] flower head of [[c/_certain|certain]] [[b/_brassicaceous|brassicaceous]] plants.**
 ---

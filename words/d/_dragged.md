@@ -21,7 +21,7 @@
 	- _Example: You just drag him 'cause he's got more money than you._
 ---
 ### Synonyms
-- [[criticize]], [[harrow]]
+- [[c/_criticize|criticize]], [[h/_harrow|harrow]]
 #verb
 - **To perform as a [[d/_drag|drag]] queen or [[d/_drag|drag]] king.**
 ---

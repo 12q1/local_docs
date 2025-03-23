@@ -7,7 +7,7 @@
 	- _Example: The new company director brought a fresh perspective on sales and marketing._
 - **To occasion or [[b/_bring|bring]] [[a/_about|about]].**
 	- _Example: The controversial TV broadcast brought a storm of complaints._
-- **To raise (a lawsuit, [[c/_charges|charges]], etc.) [[a/_against|against]] somebody.**
+- **To raise (a lawsuit, [[c/_charges|charges]], [[e/_etc|etc]].) [[a/_against|against]] somebody.**
 - **To persuade; to induce; to [[d/_draw|draw]]; to lead; to guide.**
 - **To produce in exchange; to sell for; to fetch.**
 	- _Example: What does coal bring per ton?_

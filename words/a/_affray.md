@@ -8,7 +8,7 @@
 - **Terror.**
 ---
 ### Synonyms
-- [[alarm]], [[fright]], [[terror]], [[brawl]], [[fray]]
+- [[a/_alarm|alarm]], [[f/_fright|fright]], [[t/_terror|terror]], [[b/_brawl|brawl]], [[f/_fray|fray]]
 #verb
 - **To startle from quiet; to [[a/_alarm|alarm]].**
 - **To frighten; to scare; to frighten [[a/_away|away]].**

@@ -5,5 +5,5 @@
 - **Extremely.**
 ---
 ### Synonyms
-- [[amply]], [[fully]], [[plentifully]]
+- [[a/_amply|amply]], [[f/_fully|fully]], [[p/_plentifully|plentifully]]
 ---

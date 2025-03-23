@@ -6,5 +6,5 @@
 - **[[a/_any|Any]] institution which provides [[e/_education|education]] to young offenders.**
 ---
 ### Synonyms
-- [[reformatory]]
+- [[r/_reformatory|reformatory]]
 ---

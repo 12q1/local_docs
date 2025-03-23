@@ -5,7 +5,7 @@
 	- _Example: I am deboning a fish._
 ---
 ### Synonyms
-- [[bone]], [[unbone]]
+- [[b/_bone|bone]], [[u/_unbone|unbone]]
 #adjective
 - **Having its [[b/_bones|bones]] removed.**
 	- _Example: This deboned fish will be safe for the cat to eat._

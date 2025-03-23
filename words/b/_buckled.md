@@ -1,7 +1,7 @@
 # Buckled
 ---
 #verb
-- **To [[d/_distort|distort]] or [[c/_collapse|collapse]] under physical pressure; especially, of a slender structure in [[c/_compression|compression]].**
+- **To [[d/_distort|distort]] or [[c/_collapse|collapse]] under physical pressure; [[e/_especially|especially]], of a slender structure in [[c/_compression|compression]].**
 - **To make [[b/_bend|bend]]; to [[c/_cause|cause]] to [[b/_become|become]] [[d/_distorted|distorted]].**
 - **To give in; to react suddenly or [[a/_adversely|adversely]] to stress or pressure (of a person).**
 	- _Example: It is amazing that he has never buckled after so many years of doing such urgent work._

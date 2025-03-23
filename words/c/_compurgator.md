@@ -1,6 +1,6 @@
 # Compurgator
 ---
 #noun
-- **Someone who vouches for [[a/_another|another]] person's innocence, trustworthiness etc.**
+- **Someone who vouches for [[a/_another|another]] person's innocence, trustworthiness [[e/_etc|etc]].**
 ---
 ---

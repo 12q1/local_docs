@@ -4,7 +4,7 @@
 - **In scientific usage, a multicellular organism that is usually mobile, whose [[c/_cells|cells]] are not [[e/_encased|encased]] in a rigid [[c/_cell|cell]] wall ([[d/_distinguishing|distinguishing]] it from plants and fungi) and which [[d/_derives|derives]] [[e/_energy|energy]] solely from the [[c/_consumption|consumption]] of other organisms ([[d/_distinguishing|distinguishing]] it from plants).**
 	- _Example: A cat is an animal, not a plant. Humans are also animals, under the scientific definition, as we are not plants._
 - **In non-scientific usage, [[a/_any|any]] member of the kingdom [[a/_animalia|Animalia]] other than a human.**
-- **In non-scientific usage, [[a/_any|any]] land-living vertebrate (i.[[e/_e|e]]. not fishes, insects, etc.).**
+- **In non-scientific usage, [[a/_any|any]] land-living vertebrate (i.[[e/_e|e]]. not fishes, insects, [[e/_etc|etc]].).**
 - **A person who [[b/_behaves|behaves]] wildly; a [[b/_bestial|bestial]], [[b/_brutal|brutal]], [[b/_brutish|brutish]], [[c/_cruel|cruel]], or inhuman person.**
 	- _Example: My students are animals._
 - **A person of a particular type.**
@@ -13,5 +13,5 @@
 	- _Example: a whole different animal_
 ---
 ### Synonyms
-- [[beast]], [[beast]], [[creature]], [[brute]], [[monster]], [[savage]]
+- [[b/_beast|beast]], [[b/_beast|beast]], [[c/_creature|creature]], [[b/_brute|brute]], [[m/_monster|monster]], [[s/_savage|savage]]
 ---

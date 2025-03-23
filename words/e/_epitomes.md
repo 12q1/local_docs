@@ -7,7 +7,7 @@
 - **A [[b/_brief|brief]] summary of a text.**
 ---
 ### Synonyms
-- [[abstract]], [[synopsis]], [[acme]], [[greatest]], [[exemplar]], [[model]], [[type]], [[poster child]], [[quintessential]]
+- [[a/_abstract|abstract]], [[s/_synopsis|synopsis]], [[a/_acme|acme]], [[g/_greatest|greatest]], [[e/_exemplar|exemplar]], [[m/_model|model]], [[t/_type|type]], [[q/_quintessential|quintessential]]
 ### Antonyms
-- [[antithesis]]
+- [[a/_antithesis|antithesis]]
 ---

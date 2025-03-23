@@ -1,7 +1,7 @@
 # Citizens
 ---
 #noun
-- **A resident of a [[c/_city|city]] or town, especially one with legally-recognized rights or [[d/_duties|duties]].**
+- **A resident of a [[c/_city|city]] or town, [[e/_especially|especially]] one with legally-recognized rights or [[d/_duties|duties]].**
 - **A legally-recognized member of a state, with [[a/_associated|associated]] rights and obligations; a person [[c/_considered|considered]] in terms of this role.**
 - **An inhabitant or occupant: a member of [[a/_any|any]] place.**
 	- _Example: Diogenes reckoned himself a citizen of the world._
@@ -12,7 +12,7 @@
 - **An object.**
 ---
 ### Synonyms
-- [[burgess]], [[burgess]], [[burgher]], [[freeman]], [[burgher]], [[comrade]], [[countryman]], [[national]], [[denizen]], [[denizen]], [[inhabitant]], [[local]], [[native]], [[occupant]], [[resident]], [[townsman]], [[townswoman]]
+- [[b/_burgess|burgess]], [[b/_burgess|burgess]], [[b/_burgher|burgher]], [[f/_freeman|freeman]], [[b/_burgher|burgher]], [[c/_comrade|comrade]], [[c/_countryman|countryman]], [[n/_national|national]], [[d/_denizen|denizen]], [[d/_denizen|denizen]], [[i/_inhabitant|inhabitant]], [[l/_local|local]], [[n/_native|native]], [[o/_occupant|occupant]], [[r/_resident|resident]], [[t/_townsman|townsman]], [[t/_townswoman|townswoman]]
 ### Antonyms
-- [[country gentleman]], [[countryfolk]], [[countryman]], [[peasant]], [[villager]], [[alien]], [[foreigner]], [[illegal]], [[illegal alien]], [[alien]], [[outsider]], [[stranger]]
+- [[c/_countryfolk|countryfolk]], [[c/_countryman|countryman]], [[p/_peasant|peasant]], [[v/_villager|villager]], [[a/_alien|alien]], [[f/_foreigner|foreigner]], [[i/_illegal|illegal]], [[a/_alien|alien]], [[o/_outsider|outsider]], [[s/_stranger|stranger]]
 ---

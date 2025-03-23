@@ -5,5 +5,5 @@
 - **(sometimes [[c/_capitalized|capitalized]]) To [[b/_behave|behave]] in an [[a/_authoritative|authoritative]], [[c/_commanding|commanding]] manner.**
 ---
 ### Synonyms
-- [[pull the strings]], [[swagger]], [[push around]]
+- [[s/_swagger|swagger]]
 ---

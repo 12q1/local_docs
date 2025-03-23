@@ -5,5 +5,5 @@
 	- _Example: A confident demeanor is crucial for persuading others._
 ---
 ### Synonyms
-- [[behavior]], [[comportment]]
+- [[b/_behavior|behavior]], [[c/_comportment|comportment]]
 ---

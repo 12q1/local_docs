@@ -13,7 +13,7 @@
 	- _Example: Strike the bell with the brass chime hanging on the chain next to it._
 ---
 ### Synonyms
-- [[alarm]], [[bell]], [[buzz]], [[buzzer]], [[carillon]], [[clapper]], [[curfew]], [[ding-dong]], [[dinger]], [[glockenspiel]], [[gong]], [[peal]], [[ringer]], [[siren]], [[tintinnabulum]], [[tocsin]], [[toll]], [[vesper]]
+- [[a/_alarm|alarm]], [[b/_bell|bell]], [[b/_buzz|buzz]], [[b/_buzzer|buzzer]], [[c/_carillon|carillon]], [[c/_clapper|clapper]], [[c/_curfew|curfew]], [[d/_ding-dong|ding-dong]], [[d/_dinger|dinger]], [[g/_glockenspiel|glockenspiel]], [[g/_gong|gong]], [[p/_peal|peal]], [[r/_ringer|ringer]], [[s/_siren|siren]], [[t/_tintinnabulum|tintinnabulum]], [[t/_tocsin|tocsin]], [[t/_toll|toll]], [[v/_vesper|vesper]]
 #verb
 - **To make the sound of a [[c/_chime|chime]].**
 	- _Example: I got up for lunch as soon as the wall clock began chiming noon._

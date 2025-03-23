@@ -7,5 +7,5 @@
 - **A usually portable [[c/_communications|communications]] [[d/_device|device]].**
 ---
 ### Synonyms
-- [[commlink]]
+- [[c/_commlink|commlink]]
 ---

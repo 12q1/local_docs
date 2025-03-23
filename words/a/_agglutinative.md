@@ -8,5 +8,5 @@
 - **Having words [[d/_derived|derived]] by [[c/_combining|combining]] parts, [[e/_each|each]] with a separate meaning**
 ---
 ### Synonyms
-- [[claggy]], [[tenacious]]
+- [[c/_claggy|claggy]], [[t/_tenacious|tenacious]]
 ---

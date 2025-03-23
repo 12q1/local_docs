@@ -7,7 +7,7 @@
 - **To set [[a/_apart|apart]] as [[b/_being|being]] [[d/_different|different]]; to mark as [[d/_different|different]]; to separate from [[a/_another|another]] by [[d/_discerning|discerning]] [[d/_differences|differences]]; to [[d/_distinguish|distinguish]].**
 ---
 ### Synonyms
-- [[disfavor]], [[differentiate]], [[distinguish]]
+- [[d/_disfavor|disfavor]], [[d/_differentiate|differentiate]], [[d/_distinguish|distinguish]]
 ### Antonyms
-- [[favor]]
+- [[f/_favor|favor]]
 ---

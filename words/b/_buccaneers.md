@@ -5,5 +5,5 @@
 - **A pirate.**
 ---
 ### Synonyms
-- [[pirate]], [[privateer]]
+- [[p/_pirate|pirate]], [[p/_privateer|privateer]]
 ---

@@ -6,5 +6,5 @@
 - **[[c/_concealment|Concealment]]**
 ---
 ### Synonyms
-- [[ablepsy]], [[blindhood]], [[cecity]], [[sightlessness]]
+- [[a/_ablepsy|ablepsy]], [[b/_blindhood|blindhood]], [[c/_cecity|cecity]], [[s/_sightlessness|sightlessness]]
 ---

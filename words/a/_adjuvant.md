@@ -8,11 +8,11 @@
 - **A substance [[e/_enhancing|enhancing]] the immune response to an [[a/_antigen|antigen]].**
 ---
 ### Synonyms
-- [[accessory]], [[assistant]], [[attendant]], [[satellite]], [[secondary]], [[subordinate]], [[subservient]], [[subsidiary]]
+- [[a/_accessory|accessory]], [[a/_assistant|assistant]], [[a/_attendant|attendant]], [[s/_satellite|satellite]], [[s/_secondary|secondary]], [[s/_subordinate|subordinate]], [[s/_subservient|subservient]], [[s/_subsidiary|subsidiary]]
 #adjective
 - **Helping; helpful; [[a/_assisting|assisting]].**
-- **[[d/_designating|Designating]] a supplementary form of treatment, especially a [[c/_cancer|cancer]] therapy [[a/_administered|administered]] [[a/_after|after]] removal of a primary tumour.**
+- **[[d/_designating|Designating]] a supplementary form of treatment, [[e/_especially|especially]] a [[c/_cancer|cancer]] therapy [[a/_administered|administered]] [[a/_after|after]] removal of a primary tumour.**
 ---
 ### Synonyms
-- [[ancillary]], [[complementary]], [[contributory]], [[extra]], [[supporting]]
+- [[a/_ancillary|ancillary]], [[c/_complementary|complementary]], [[c/_contributory|contributory]], [[e/_extra|extra]], [[s/_supporting|supporting]]
 ---

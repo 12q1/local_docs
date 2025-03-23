@@ -4,5 +4,5 @@
 - **[[a/_affectedly|Affectedly]] trendy; [[c/_chic|chic]] and stylish**
 ---
 ### Synonyms
-- [[bougie]], [[bourgie]]
+- [[b/_bougie|bougie]], [[b/_bourgie|bourgie]]
 ---

@@ -7,5 +7,5 @@
 - **A list of occurrences of a word or phrase from a [[c/_corpus|corpus]], with the immediate [[c/_context|context]].**
 ---
 ### Synonyms
-- [[accordance]], [[agreement]], [[consonance]], [[agreement]], [[concord]]
+- [[a/_accordance|accordance]], [[a/_agreement|agreement]], [[c/_consonance|consonance]], [[a/_agreement|agreement]], [[c/_concord|concord]]
 ---

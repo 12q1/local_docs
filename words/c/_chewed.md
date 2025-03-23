@@ -9,7 +9,7 @@
 	- _Example: The professor stood at the blackboard, chalk in hand, and chewed the question the student had asked._
 ---
 ### Synonyms
-- [[bite]], [[chavel]], [[chomp]], [[crunch]], [[masticate]], [[grind]], [[pulverize]], [[rip]], [[shred]], [[tear]], [[contemplate]], [[mull]], [[muse]], [[ponder]], [[ruminate]]
+- [[b/_bite|bite]], [[c/_chavel|chavel]], [[c/_chomp|chomp]], [[c/_crunch|crunch]], [[m/_masticate|masticate]], [[g/_grind|grind]], [[p/_pulverize|pulverize]], [[r/_rip|rip]], [[s/_shred|shred]], [[t/_tear|tear]], [[c/_contemplate|contemplate]], [[m/_mull|mull]], [[m/_muse|muse]], [[p/_ponder|ponder]], [[r/_ruminate|ruminate]]
 #adjective
 - **That has [[b/_been|been]] [[c/_chewed|chewed]]; masticated.**
 ---

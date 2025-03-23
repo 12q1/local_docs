@@ -4,7 +4,7 @@
 - **A large, naturally-occurring [[c/_cavity|cavity]] formed underground or in the face of a [[c/_cliff|cliff]] or a hillside.**
 	- _Example: We found a cave on the mountainside where we could take shelter._
 - **A hole, [[d/_depression|depression]], or gap in [[e/_earth|earth]] or rock, whether natural or man-made.**
-- **A storage [[c/_cellar|cellar]], especially for wine or [[c/_cheese|cheese]].**
+- **A storage [[c/_cellar|cellar]], [[e/_especially|especially]] for wine or [[c/_cheese|cheese]].**
 	- _Example: This wine has been aged in our cave for thirty years._
 - **A place of retreat, such as a man [[c/_cave|cave]].**
 	- _Example: My room was a cozy cave where I could escape from my family._
@@ -19,7 +19,7 @@
 - **A [[c/_code|code]] [[c/_cave|cave]].**
 ---
 ### Synonyms
-- [[earthhole]]
+- [[e/_earthhole|earthhole]]
 #verb
 - **To surrender.**
 	- _Example: He caved under pressure._
@@ -35,5 +35,5 @@
 - **To [[d/_dwell|dwell]] in a [[c/_cave|cave]].**
 ---
 ### Synonyms
-- [[spelunk]]
+- [[s/_spelunk|spelunk]]
 ---

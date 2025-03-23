@@ -31,7 +31,7 @@
 	- _Example: Could you please repeat your last transmission? Another station was doubling with you._
 ---
 ### Synonyms
-- [[redouble]], [[facsimilize]]
+- [[r/_redouble|redouble]], [[f/_facsimilize|facsimilize]]
 ### Antonyms
-- [[halve]]
+- [[h/_halve|halve]]
 ---

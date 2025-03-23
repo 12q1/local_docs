@@ -4,7 +4,7 @@
 - **(of a trait or a [[d/_disease|disease]]) Present since [[b/_birth|birth]].**
 ---
 ### Synonyms
-- [[congenite]], [[genetous]]
+- [[c/_congenite|congenite]], [[g/_genetous|genetous]]
 ### Antonyms
-- [[acquired]]
+- [[a/_acquired|acquired]]
 ---

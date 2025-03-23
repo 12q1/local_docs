@@ -4,5 +4,5 @@
 - **Without [[a/_any|any]] [[c/_clouds|clouds]].**
 ---
 ### Antonyms
-- [[cloudy]]
+- [[c/_cloudy|cloudy]]
 ---

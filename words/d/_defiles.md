@@ -8,9 +8,9 @@
 	- _Example: The serial rapist kidnapped and defiled a six-year-old girl._
 ---
 ### Synonyms
-- [[contaminate]], [[pollute]], [[spoil]], [[sully]], [[desecrate]], [[profane]], [[ravish]], [[violate]], [[vitiate]]
+- [[c/_contaminate|contaminate]], [[p/_pollute|pollute]], [[s/_spoil|spoil]], [[s/_sully|sully]], [[d/_desecrate|desecrate]], [[p/_profane|profane]], [[r/_ravish|ravish]], [[v/_violate|violate]], [[v/_vitiate|vitiate]]
 ### Antonyms
-- [[clean]], [[purify]], [[sanctify]]
+- [[c/_clean|clean]], [[p/_purify|purify]], [[s/_sanctify|sanctify]]
 #noun
 - **A narrow way or passage, [[e/_e|e]].g. [[b/_between|between]] mountains.**
 - **A single file, such as of soldiers.**

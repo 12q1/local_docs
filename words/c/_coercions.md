@@ -8,5 +8,5 @@
 - **The process by which the meaning of a word or other linguistic [[e/_element|element]] is reinterpreted to match the grammatical [[c/_context|context]].**
 ---
 ### Antonyms
-- [[noncoercion]]
+- [[n/_noncoercion|noncoercion]]
 ---

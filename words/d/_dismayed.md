@@ -6,7 +6,7 @@
 - **To take [[d/_dismay|dismay]] or fright; to be filled with [[d/_dismay|dismay]].**
 ---
 ### Synonyms
-- [[appall]], [[daunt]], [[terrify]]
+- [[a/_appall|appall]], [[d/_daunt|daunt]], [[t/_terrify|terrify]]
 #adjective
 - **Having the [[e/_emotion|emotion]] of [[d/_dismay|dismay]].**
 	- _Example: He was dismayed to find his car had gone._

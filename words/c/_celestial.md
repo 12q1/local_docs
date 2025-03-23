@@ -8,12 +8,12 @@
 - **Of or pertaining to the highest [[d/_degree|degree]] of glory.**
 ---
 ### Synonyms
-- [[celest]], [[heavenly]]
+- [[c/_celest|celest]], [[h/_heavenly|heavenly]]
 #adjective
 - **Of or pertaining to the heaven [[b/_believed|believed]] in by many religions.**
 - **Of or pertaining to the kingdom of God; [[d/_divine|divine]].**
 - **Strongly or sublimely [[b/_beautiful|beautiful]] or pleasurable.**
 ---
 ### Synonyms
-- [[divine]], [[spiritual]], [[celest]], [[celestial]], [[paradisaic]], [[paradisaical]], [[paradisal]], [[paradisic]], [[beatific]], [[blissful]], [[delightful]], [[divine]], [[wonderful]]
+- [[d/_divine|divine]], [[s/_spiritual|spiritual]], [[c/_celest|celest]], [[c/_celestial|celestial]], [[p/_paradisaic|paradisaic]], [[p/_paradisaical|paradisaical]], [[p/_paradisal|paradisal]], [[p/_paradisic|paradisic]], [[b/_beatific|beatific]], [[b/_blissful|blissful]], [[d/_delightful|delightful]], [[d/_divine|divine]], [[w/_wonderful|wonderful]]
 ---

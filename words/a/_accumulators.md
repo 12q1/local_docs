@@ -15,5 +15,5 @@
 - **A one way membership function.**
 ---
 ### Synonyms
-- [[collector]], [[parlay]], [[share forward accumulator]], [[shock absorber]]
+- [[c/_collector|collector]], [[p/_parlay|parlay]]
 ---

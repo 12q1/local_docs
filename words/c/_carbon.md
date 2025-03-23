@@ -16,5 +16,5 @@
 	- _Example: When I send it, I'll carbon Julia so she's aware._
 ---
 ### Synonyms
-- [[cc]]
+- [[c/_cc|cc]]
 ---

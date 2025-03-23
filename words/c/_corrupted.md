@@ -10,9 +10,9 @@
 #adjective
 - **Marked by immorality and perversion; [[d/_depraved|depraved]].**
 - **[[d/_dishonest|Dishonest]].**
-- **[[c/_containing|Containing]] errors.**
+- **[[c/_containing|Containing]] [[e/_errors|errors]].**
 	- _Example: It proved impossible to recover any data from the corrupted disk._
 ---
 ### Synonyms
-- [[corrupt]]
+- [[c/_corrupt|corrupt]]
 ---

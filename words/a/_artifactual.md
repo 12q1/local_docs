@@ -5,5 +5,5 @@
 - **Resembling an [[a/_artifact|artifact]].**
 ---
 ### Synonyms
-- [[artifactitious]]
+- [[a/_artifactitious|artifactitious]]
 ---

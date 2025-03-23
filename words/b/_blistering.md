@@ -8,7 +8,7 @@
 - **To [[b/_break|break]] out in [[b/_blisters|blisters]].**
 ---
 ### Synonyms
-- [[vesicate]]
+- [[v/_vesicate|vesicate]]
 #noun
 - **The practice of forming [[b/_blisters|blisters]] on the skin, to promote [[b/_blood|blood]] flow and [[a/_aid|aid]] healing.**
 ---

@@ -6,7 +6,7 @@
 - **Exact [[c/_conformity|conformity]] to truth, or to a rule or model; [[d/_degree|degree]] of [[c/_conformity|conformity]] of a measure to a true or standard value.**
 ---
 ### Synonyms
-- [[correctness]], [[truthfulness]]
+- [[c/_correctness|correctness]], [[t/_truthfulness|truthfulness]]
 ### Antonyms
-- [[inaccuracy]]
+- [[i/_inaccuracy|inaccuracy]]
 ---

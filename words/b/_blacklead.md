@@ -4,7 +4,7 @@
 - **The metal lead.**
 ---
 ### Antonyms
-- [[white lead]]
+- 
 #verb
 - **To [[c/_cover|cover]], treat or polish with graphite**
 ---
@@ -15,5 +15,5 @@
 - **A grey [[c/_colour|colour]].**
 ---
 ### Synonyms
-- [[black lead]], [[plumbago]], [[CFRP]], [[CRP]], [[carbon fiber]], [[composite]], [[plastic]], [[polymer]], [[reinforced]]
+- [[p/_plumbago|plumbago]], [[C/_CFRP|CFRP]], [[C/_CRP|CRP]], [[c/_composite|composite]], [[p/_plastic|plastic]], [[p/_polymer|polymer]], [[r/_reinforced|reinforced]]
 ---

@@ -9,5 +9,5 @@
 - **Loss of [[c/_composure|composure]] or presence of mind.**
 ---
 ### Synonyms
-- [[amazement]], [[stupefaction]], [[wonder]], [[wonderment]], [[consternation]], [[dismay]], [[marvel]], [[stunner]], [[numbness]], [[paralysis]], [[stupor]]
+- [[a/_amazement|amazement]], [[s/_stupefaction|stupefaction]], [[w/_wonder|wonder]], [[w/_wonderment|wonderment]], [[c/_consternation|consternation]], [[d/_dismay|dismay]], [[m/_marvel|marvel]], [[s/_stunner|stunner]], [[n/_numbness|numbness]], [[p/_paralysis|paralysis]], [[s/_stupor|stupor]]
 ---

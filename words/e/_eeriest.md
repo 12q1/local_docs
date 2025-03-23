@@ -6,5 +6,5 @@
 - **Frightened, timid.**
 ---
 ### Synonyms
-- [[creepy]], [[spooky]]
+- [[c/_creepy|creepy]], [[s/_spooky|spooky]]
 ---

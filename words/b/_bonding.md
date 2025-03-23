@@ -19,7 +19,7 @@
 ---
 #noun
 - **The [[a/_act|act]] by which something is [[b/_bonded|bonded]] or joined together.**
-- **A relationship [[b/_between|between]] a parent and offspring that establishes the [[b/_basis|basis]] for an ongoing mutual [[a/_attachment|attachment]].**
+- **A relationship [[b/_between|between]] a parent and offspring that [[e/_establishes|establishes]] the [[b/_basis|basis]] for an ongoing mutual [[a/_attachment|attachment]].**
 - **A [[c/_close|close]] friendship that [[d/_develops|develops]] [[b/_between|between]] [[a/_adults|adults]], often as a result of intense experiences, as those shared in military [[c/_combat|combat]].**
 - **A method of [[a/_aggregating|aggregating]] multiple network interfaces on a [[c/_computer|computer]] into a single logical interface**
 - **An [[a/_arrangement|arrangement]] by which goods remain in the [[c/_customs|customs]] warehouses until the [[d/_duties|duties]] are paid.**

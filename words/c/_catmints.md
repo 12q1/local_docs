@@ -5,5 +5,5 @@
 - **Something that [[c/_causes|causes]] excitement or interest.**
 ---
 ### Synonyms
-- [[catmint]], [[catwort]]
+- [[c/_catmint|catmint]], [[c/_catwort|catwort]]
 ---

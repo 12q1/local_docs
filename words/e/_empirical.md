@@ -6,7 +6,7 @@
 - **(philosophy of science) Verifiable by means of scientific experimentation.**
 ---
 ### Synonyms
-- [[empiric]]
+- [[e/_empiric|empiric]]
 ### Antonyms
-- [[anecdotal]], [[nonempirical]]
+- [[a/_anecdotal|anecdotal]], [[n/_nonempirical|nonempirical]]
 ---

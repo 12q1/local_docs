@@ -4,5 +4,5 @@
 - **Wild and [[e/_ecstatic|ecstatic]]**
 ---
 ### Synonyms
-- [[dionysian]]
+- [[d/_dionysian|dionysian]]
 ---

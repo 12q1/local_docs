@@ -5,5 +5,5 @@
 - **To self-[[d/_destruct|destruct]].**
 ---
 ### Synonyms
-- [[destroy]]
+- [[d/_destroy|destroy]]
 ---

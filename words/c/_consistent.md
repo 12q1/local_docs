@@ -11,5 +11,5 @@
 - **Of a set of statements: such that no [[c/_contradiction|contradiction]] logically follows from them.**
 ---
 ### Antonyms
-- [[contradictory]], [[incompatible]], [[inconsistent]]
+- [[c/_contradictory|contradictory]], [[i/_incompatible|incompatible]], [[i/_inconsistent|inconsistent]]
 ---

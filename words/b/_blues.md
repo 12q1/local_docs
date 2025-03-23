@@ -12,7 +12,7 @@
 	- _Example: His request for leave came out of the blue._
 - **The ocean; [[d/_deep|deep]] waters.**
 - **The far [[d/_distance|distance]]; a remote or [[d/_distant|distant]] place.**
-- **[[a/_anything|Anything]] [[b/_blue|blue]], especially to [[d/_distinguish|distinguish]] it from similar objects [[d/_differing|differing]] only in [[c/_color|color]].**
+- **[[a/_anything|Anything]] [[b/_blue|blue]], [[e/_especially|especially]] to [[d/_distinguish|distinguish]] it from similar objects [[d/_differing|differing]] only in [[c/_color|color]].**
 - **A [[d/_dog|dog]] or [[c/_cat|cat]] with a slaty gray [[c/_coat|coat]].**
 - **One of the [[c/_colour|colour]] [[b/_balls|balls]] used in snooker, with a value of five points.**
 - **[[a/_any|Any]] of the [[b/_butterflies|butterflies]] of the subfamily Polyommatinae in the family Lycaenidae, most of which have [[b/_blue|blue]] on their wings.**

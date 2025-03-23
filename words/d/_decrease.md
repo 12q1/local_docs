@@ -6,15 +6,15 @@
 - **A reduction in the number of stitches, usually [[a/_accomplished|accomplished]] by suspending the stitch to be [[d/_decreased|decreased]] from [[a/_another|another]] existing stitch or by knitting it together with [[a/_another|another]] stitch. See [[d/_decrease|Decrease]] (knitting).**
 ---
 ### Synonyms
-- [[cut]], [[decrement]], [[drop]], [[fall]], [[loss]], [[lowering]], [[reduction]], [[shrinkage]]
+- [[c/_cut|cut]], [[d/_decrement|decrement]], [[d/_drop|drop]], [[f/_fall|fall]], [[l/_loss|loss]], [[l/_lowering|lowering]], [[r/_reduction|reduction]], [[s/_shrinkage|shrinkage]]
 ### Antonyms
-- [[gain]], [[increase]], [[increment]], [[raise]], [[rise]]
+- [[g/_gain|gain]], [[i/_increase|increase]], [[i/_increment|increment]], [[r/_raise|raise]], [[r/_rise|rise]]
 #verb
 - **Of a quantity, to [[b/_become|become]] smaller.**
 - **To make (a quantity) smaller.**
 ---
 ### Synonyms
-- [[drop]], [[fall]], [[go down]], [[plummet]], [[plunge]], [[reduce]], [[shrink]], [[sink]], [[abate]], [[cut]], [[decrement]], [[lower]], [[reduce]]
+- [[d/_drop|drop]], [[f/_fall|fall]], [[p/_plummet|plummet]], [[p/_plunge|plunge]], [[r/_reduce|reduce]], [[s/_shrink|shrink]], [[s/_sink|sink]], [[a/_abate|abate]], [[c/_cut|cut]], [[d/_decrement|decrement]], [[l/_lower|lower]], [[r/_reduce|reduce]]
 ### Antonyms
-- [[go up]], [[grow]], [[increase]], [[rise]], [[shoot up]], [[soar]], [[increase]], [[increment]], [[raise]], [[up]]
+- [[g/_grow|grow]], [[i/_increase|increase]], [[r/_rise|rise]], [[s/_soar|soar]], [[i/_increase|increase]], [[i/_increment|increment]], [[r/_raise|raise]], [[u/_up|up]]
 ---

@@ -1,7 +1,7 @@
 # Bleached
 ---
 #verb
-- **To treat with [[b/_bleach|bleach]], especially so as to whiten (fabric, paper, etc.) or lighten (hair).**
+- **To treat with [[b/_bleach|bleach]], [[e/_especially|especially]] so as to whiten (fabric, paper, [[e/_etc|etc]].) or lighten (hair).**
 - **To be whitened or lightened (by the sun, for example).**
 - **(of [[c/_corals|corals]]) to lose [[c/_color|color]] [[d/_due|due]] to stress-induced expulsion of symbiotic unicellular [[a/_algae|algae]].**
 	- _Example: Once coral bleaching begins, corals tend to continue to bleach even if the stressor is removed._
@@ -9,7 +9,7 @@
 	- _Example: semantically bleached words that have become illocutionary particles_
 ---
 ### Synonyms
-- [[blanch]]
+- [[b/_blanch|blanch]]
 #adjective
 - **Whitened; made white using [[b/_bleach|bleach]]**
 	- _Example: Bleached cotton_
@@ -17,5 +17,5 @@
 - **Having the hair lightened by [[b/_bleaching|bleaching]].**
 ---
 ### Synonyms
-- [[blanched]]
+- [[b/_blanched|blanched]]
 ---

@@ -14,7 +14,7 @@
 - **To [[a/_accompany|accompany]]; to be in the [[c/_company|company]] of.**
 ---
 ### Synonyms
-- [[attach]], [[join]], [[put together]], [[unite]]
+- [[a/_attach|attach]], [[j/_join|join]], [[u/_unite|unite]]
 ### Antonyms
-- [[disassociate]]
+- [[d/_disassociate|disassociate]]
 ---

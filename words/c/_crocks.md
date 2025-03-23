@@ -10,8 +10,8 @@
 - **Silly talk, a foolish [[b/_belief|belief]], a poor excuse, nonsense.**
 	- _Example: That's a bunch of crock._
 - **A low stool.**
-- **A patient who is [[d/_difficult|difficult]] to treat, especially one who [[c/_complains|complains]] of a minor or imagined illness.**
+- **A patient who is [[d/_difficult|difficult]] to treat, [[e/_especially|especially]] one who [[c/_complains|complains]] of a minor or imagined illness.**
 ---
 ### Synonyms
-- [[banger]]
+- [[b/_banger|banger]]
 ---

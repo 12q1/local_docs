@@ -8,7 +8,7 @@
 - **A force [[a/_acting|acting]] on a [[b/_body|body]] in the [[d/_direction|direction]] of its motion.**
 ---
 ### Synonyms
-- [[struggle]]
+- [[s/_struggle|struggle]]
 #verb
 - **To make an [[e/_effort|effort]].**
 - **To strengthen, fortify or stimulate**

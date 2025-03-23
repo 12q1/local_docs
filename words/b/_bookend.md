@@ -8,5 +8,5 @@
 - **To [[c/_come|come]] [[b/_before|before]] and [[a/_after|after]], or at [[b/_both|both]] sides of.**
 ---
 ### Synonyms
-- [[flank]]
+- [[f/_flank|flank]]
 ---

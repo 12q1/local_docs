@@ -5,7 +5,7 @@
 - **A [[b/_benign|benign]] [[a/_act|act]].**
 ---
 ### Synonyms
-- [[benignancy]], [[benignness]]
+- [[b/_benignancy|benignancy]], [[b/_benignness|benignness]]
 ### Antonyms
-- [[malignancy]]
+- [[m/_malignancy|malignancy]]
 ---

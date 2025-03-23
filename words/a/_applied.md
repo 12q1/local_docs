@@ -5,7 +5,7 @@
 - **Of a [[b/_branch|branch]] of science, serving [[a/_another|another]] [[b/_branch|branch]] of science or [[e/_engineering|engineering]].**
 ---
 ### Antonyms
-- [[pure]]
+- [[p/_pure|pure]]
 #verb
 - **To lay or place; to put (one thing to [[a/_another|another]])**
 	- _Example: to apply cream to a rash_
@@ -23,5 +23,5 @@
 - **To visit.**
 ---
 ### Synonyms
-- [[appropriate]], [[devote]], [[use]], [[attach]], [[incline]]
+- [[a/_appropriate|appropriate]], [[d/_devote|devote]], [[u/_use|use]], [[a/_attach|attach]], [[i/_incline|incline]]
 ---

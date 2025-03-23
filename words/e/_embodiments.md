@@ -6,5 +6,5 @@
 	- _Example: You are the very embodiment of beauty._
 ---
 ### Synonyms
-- [[incarnation]]
+- [[i/_incarnation|incarnation]]
 ---

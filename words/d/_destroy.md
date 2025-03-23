@@ -19,7 +19,7 @@
 	- _Example: She got destroyed by her lover on the carpet._
 ---
 ### Synonyms
-- [[annihilate]], [[break]], [[demolish]], [[kill]], [[ruin]], [[waste]]
+- [[a/_annihilate|annihilate]], [[b/_break|break]], [[d/_demolish|demolish]], [[k/_kill|kill]], [[r/_ruin|ruin]], [[w/_waste|waste]]
 ### Antonyms
-- [[build]], [[construct]], [[create]], [[make]], [[raise]], [[repair]]
+- [[b/_build|build]], [[c/_construct|construct]], [[c/_create|create]], [[m/_make|make]], [[r/_raise|raise]], [[r/_repair|repair]]
 ---

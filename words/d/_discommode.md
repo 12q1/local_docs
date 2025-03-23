@@ -4,7 +4,7 @@
 - **To [[c/_cause|cause]] inconvenience to (someone).**
 ---
 ### Synonyms
-- [[incommode]], [[inconvenience]]
+- [[i/_incommode|incommode]], [[i/_inconvenience|inconvenience]]
 ### Antonyms
-- [[accommodate]]
+- [[a/_accommodate|accommodate]]
 ---

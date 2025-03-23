@@ -8,5 +8,5 @@
 - **Toward a [[c/_city|city]] or [[c/_cities|cities]]**
 ---
 ### Synonyms
-- [[citywards]]
+- [[c/_citywards|citywards]]
 ---

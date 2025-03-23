@@ -16,5 +16,5 @@
 	- _Example: Its capacity rating was 150 tons per hour, but its actual maximum capacity was 200 tons per hour._
 ---
 ### Synonyms
-- [[throughput]]
+- [[t/_throughput|throughput]]
 ---

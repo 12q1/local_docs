@@ -1,9 +1,9 @@
 # Campers
 ---
 #noun
-- **A person who [[c/_camps|camps]], especially in a tent etc.**
+- **A person who [[c/_camps|camps]], [[e/_especially|especially]] in a tent [[e/_etc|etc]].**
 	- _Example: There were thousands of campers at the music festival._
 - **A motor vehicle with a rear [[c/_compartment|compartment]] for living and sleeping in.**
-- **A person who stays in one spot [[d/_during|during]] a first-person shooting game, to guard an item etc.**
+- **A person who stays in one spot [[d/_during|during]] a first-person shooting game, to guard an item [[e/_etc|etc]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Accommodation
 ---
 #noun
-- **(usually a mass noun) Lodging in a [[d/_dwelling|dwelling]] or similar living quarters [[a/_afforded|afforded]] to travellers in hotels or on [[c/_cruise|cruise]] ships, or prisoners, etc.**
+- **(usually a mass noun) Lodging in a [[d/_dwelling|dwelling]] or similar living quarters [[a/_afforded|afforded]] to travellers in hotels or on [[c/_cruise|cruise]] ships, or prisoners, [[e/_etc|etc]].**
 - **(physical) [[a/_adaptation|Adaptation]] or [[a/_adjustment|adjustment]].**
 - **(personal) [[a/_adaptation|Adaptation]] or [[a/_adjustment|adjustment]].**
 - **The place where sediments [[c/_can|can]] make, or have made, a sedimentation.**

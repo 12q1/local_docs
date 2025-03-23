@@ -8,5 +8,5 @@
 - **The retort or turning of an [[a/_adversary|adversary]]'s plea [[a/_against|against]] him.**
 ---
 ### Synonyms
-- [[epistrophe]]
+- [[e/_epistrophe|epistrophe]]
 ---

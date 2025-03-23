@@ -5,7 +5,7 @@
 - **A native or resident of [[d/_darwin|Darwin]], Northern Territory, [[a/_australia|Australia]]**
 ---
 ### Synonyms
-- [[Darwinist]]
+- [[D/_Darwinist|Darwinist]]
 #adjective
 - **Relating to the theory of evolution, as [[a/_advanced|advanced]] by [[c/_charles|Charles]] [[d/_darwin|Darwin]].**
 - **[[c/_competitive|Competitive]].**

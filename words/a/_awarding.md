@@ -10,7 +10,7 @@
 	- _Example: He was awarded the Nobel Prize for Literature._
 ---
 ### Synonyms
-- [[crown]], [[bestow]]
+- [[c/_crown|crown]], [[b/_bestow|bestow]]
 #noun
 - **The [[a/_act|act]] of [[b/_bestowing|bestowing]] an [[a/_award|award]].**
 - **The [[a/_act|act]] of giving by official [[d/_decision|decision]] such as giving a [[c/_contract|contract]].**

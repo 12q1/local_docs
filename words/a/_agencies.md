@@ -7,10 +7,10 @@
 - **A medium through which power is exerted or an [[e/_end|end]] is [[a/_achieved|achieved]].**
 - **The office or function of an [[a/_agent|agent]]; [[a/_also|also]], the relationship [[b/_between|between]] a principal and that person's [[a/_agent|agent]].**
 	- _Example: authority of agency_
-- **An establishment [[e/_engaged|engaged]] in [[d/_doing|doing]] [[b/_business|business]] for [[a/_another|another]]; [[a/_also|also]], the place of [[b/_business|business]] or the [[d/_district|district]] of such an [[a/_agency|agency]].**
+- **An [[e/_establishment|establishment]] [[e/_engaged|engaged]] in [[d/_doing|doing]] [[b/_business|business]] for [[a/_another|another]]; [[a/_also|also]], the place of [[b/_business|business]] or the [[d/_district|district]] of such an [[a/_agency|agency]].**
 - **A [[d/_department|department]] or other [[a/_administrative|administrative]] unit of a government; [[a/_also|also]], the office or headquarters of, or the [[d/_district|district]] [[a/_administered|administered]] by such unit of government.**
 	- _Example: Agency for Toxic Substances and Disease Registry_
 ---
 ### Synonyms
-- [[action]], [[activity]], [[operation]], [[instrumentality]], [[means]], [[management]]
+- [[a/_action|action]], [[a/_activity|activity]], [[o/_operation|operation]], [[i/_instrumentality|instrumentality]], [[m/_means|means]], [[m/_management|management]]
 ---

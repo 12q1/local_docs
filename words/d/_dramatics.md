@@ -5,5 +5,5 @@
 - **(used with a singular or plural verb) [[d/_dramatic|dramatic]] [[b/_behaviour|behaviour]].**
 ---
 ### Synonyms
-- [[histrionics]]
+- [[h/_histrionics|histrionics]]
 ---

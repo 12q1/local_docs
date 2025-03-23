@@ -7,7 +7,7 @@
 	- _Example: Oxford Circus in London is at the north end of Regent Street._
 - **A spectacle; a noisy fuss; a [[c/_chaotic|chaotic]] and/or [[c/_crowded|crowded]] place.**
 - **In the [[a/_ancient|ancient]] Roman [[e/_empire|Empire]], a [[b/_building|building]] for [[c/_chariot|chariot]] racing.**
-- **(World War II) A [[c/_code|code]] name for [[b/_bomber|bomber]] [[a/_attacks|attacks]] with fighter escorts in the [[d/_day|day]] time. The [[a/_attacks|attacks]] were [[a/_against|against]] short-range targets with the intention of occupying [[e/_enemy|enemy]] fighters and keeping their fighter units in the [[a/_area|area]] [[c/_concerned|concerned]].**
+- **(World War II) A [[c/_code|code]] name for [[b/_bomber|bomber]] [[a/_attacks|attacks]] with fighter [[e/_escorts|escorts]] in the [[d/_day|day]] time. The [[a/_attacks|attacks]] were [[a/_against|against]] short-range targets with the intention of occupying [[e/_enemy|enemy]] fighters and keeping their fighter units in the [[a/_area|area]] [[c/_concerned|concerned]].**
 - **[[c/_circuit|Circuit]]; space; [[e/_enclosure|enclosure]].**
 ---
 ---

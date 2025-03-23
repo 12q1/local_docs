@@ -2,7 +2,7 @@
 ---
 #noun
 - **A pair of two similar or [[e/_equal|equal]] things; [[c/_couple|couple]].**
-- **One of two or more [[d/_different|different]] words in a language [[d/_derived|derived]] from the same etymological root but having [[d/_different|different]] phonological forms ([[e/_e|e]].g., toucher and toquer in French or shade and shadow in [[e/_english|English]]).**
+- **One of two or more [[d/_different|different]] words in a language [[d/_derived|derived]] from the same [[e/_etymological|etymological]] root but having [[d/_different|different]] phonological forms ([[e/_e|e]].g., toucher and toquer in French or shade and shadow in [[e/_english|English]]).**
 - **In textual [[c/_criticism|criticism]], two [[d/_different|different]] narrative [[a/_accounts|accounts]] of the same [[a/_actual|actual]] event.**
 - **(lapidary) An imitation gem made of two pieces of glass or [[c/_crystal|crystal]] with a layer of [[c/_color|color]] [[b/_between|between]] them.**
 - **A word or phrase set a second time by mistake.**
@@ -17,5 +17,5 @@
 - **[[d/_dipole|Dipole]] [[a/_antenna|antenna]].**
 ---
 ### Synonyms
-- [[duet]], [[dyad]]
+- [[d/_duet|duet]], [[d/_dyad|dyad]]
 ---

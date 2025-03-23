@@ -5,5 +5,5 @@
 - **A female given name from [[e/_english|English]]; used since [[e/_early|early]] 20th [[c/_century|century]].**
 ---
 ### Synonyms
-- [[Eastermonth]]
+- [[E/_Eastermonth|Eastermonth]]
 ---

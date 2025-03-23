@@ -12,7 +12,7 @@
 - **Southward**
 ---
 ### Synonyms
-- [[down]], [[downwards]]
+- [[d/_down|down]], [[d/_downwards|downwards]]
 ### Antonyms
-- [[up]], [[upwards]]
+- [[u/_up|up]], [[u/_upwards|upwards]]
 ---

@@ -5,9 +5,9 @@
 - **A specific [[b/_branch|branch]] of knowledge or learning.**
 ---
 ### Synonyms
-- [[field]], [[sphere]], [[penalty]], [[sanction]]
+- [[f/_field|field]], [[s/_sphere|sphere]], [[p/_penalty|penalty]], [[s/_sanction|sanction]]
 ### Antonyms
-- [[spontaneity]]
+- [[s/_spontaneity|spontaneity]]
 #verb
 - **To train someone by instruction and practice.**
 - **To teach someone to obey [[a/_authority|authority]].**
@@ -15,5 +15,5 @@
 - **To impose order on someone.**
 ---
 ### Synonyms
-- [[drill]]
+- [[d/_drill|drill]]
 ---

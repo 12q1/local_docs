@@ -18,7 +18,7 @@
 - **When a musician starts playing or singing, [[e/_entry|entry]].**
 ---
 ### Synonyms
-- [[ingang]]
+- [[i/_ingang|ingang]]
 ### Antonyms
-- [[exit]]
+- [[e/_exit|exit]]
 ---

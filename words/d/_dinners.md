@@ -10,11 +10,11 @@
 - **The food provided or [[c/_consumed|consumed]] at [[a/_any|any]] such meal.**
 ---
 ### Synonyms
-- [[evening meal]], [[supper]], [[tea]], [[banquet]], [[feast]], [[luncheon]], [[chow]], [[lunch]], [[luncheon]]
+- [[s/_supper|supper]], [[t/_tea|tea]], [[b/_banquet|banquet]], [[f/_feast|feast]], [[l/_luncheon|luncheon]], [[c/_chow|chow]], [[l/_lunch|lunch]], [[l/_luncheon|luncheon]]
 #verb
 - **To [[e/_eat|eat]] a [[d/_dinner|dinner]].**
 - **To provide (someone) with a [[d/_dinner|dinner]].**
 ---
 ### Synonyms
-- [[dine]]
+- [[d/_dine|dine]]
 ---

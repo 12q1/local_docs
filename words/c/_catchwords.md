@@ -6,5 +6,5 @@
 - **[[a/_among|Among]] theatrical performers, the last word of the preceding speaker, serving as a [[c/_cue|cue]] for the next speaker.**
 ---
 ### Synonyms
-- [[watchword]], [[guide word]]
+- [[w/_watchword|watchword]]
 ---

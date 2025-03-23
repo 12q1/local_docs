@@ -5,5 +5,5 @@
 - **A title [[b/_borne|borne]] by some such monarchs, as in [[b/_byzantium|Byzantium]] and tsarist Russia.**
 ---
 ### Synonyms
-- [[autocrator]], [[despot]], [[dictator]], [[monarch]], [[strongman]], [[tyrant]]
+- [[a/_autocrator|autocrator]], [[d/_despot|despot]], [[d/_dictator|dictator]], [[m/_monarch|monarch]], [[s/_strongman|strongman]], [[t/_tyrant|tyrant]]
 ---

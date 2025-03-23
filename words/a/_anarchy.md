@@ -7,5 +7,5 @@
 - **[[c/_confusion|Confusion]] in general; [[d/_disorder|disorder]].**
 ---
 ### Antonyms
-- [[nonanarchy]], [[order]]
+- [[n/_nonanarchy|nonanarchy]], [[o/_order|order]]
 ---

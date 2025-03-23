@@ -5,5 +5,5 @@
 - **[[c/_containing|Containing]] [[c/_copper|copper]] with an oxidation number of 1.**
 ---
 ### Synonyms
-- [[cupreous]]
+- [[c/_cupreous|cupreous]]
 ---

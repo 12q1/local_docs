@@ -5,5 +5,5 @@
 - **Of a long and winding route.**
 ---
 ### Synonyms
-- [[indirect]], [[roundabout]], [[roundabout]], [[tortuous]]
+- [[i/_indirect|indirect]], [[r/_roundabout|roundabout]], [[r/_roundabout|roundabout]], [[t/_tortuous|tortuous]]
 ---

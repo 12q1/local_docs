@@ -10,5 +10,5 @@
 - **Rheum, sleepy [[d/_dust|dust]]**
 ---
 ### Synonyms
-- [[common cold]], [[coryza]], [[head cold]], [[pose]], [[coldness]]
+- [[c/_coryza|coryza]], [[p/_pose|pose]], [[c/_coldness|coldness]]
 ---

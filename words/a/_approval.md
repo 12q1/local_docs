@@ -8,5 +8,5 @@
 - **Something mailed by a seller to a [[c/_collector|collector]] to match their stated interests; the [[c/_collector|collector]] [[c/_can|can]] [[a/_approve|approve]] of or return the item.**
 ---
 ### Synonyms
-- [[approbation]], [[sanction]], [[commendation]]
+- [[a/_approbation|approbation]], [[s/_sanction|sanction]], [[c/_commendation|commendation]]
 ---

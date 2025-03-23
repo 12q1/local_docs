@@ -5,7 +5,7 @@
 - **The property of a logical theory that whenever a wff is valid then it must [[a/_also|also]] be a theorem. Symbolically, letting T represent a theory within logic L, this [[c/_can|can]] be represented as the property that whenever T \vDash \phi is true, then T \vdash \phi must [[a/_also|also]] be true, for [[a/_any|any]] wff φ of logic L.**
 ---
 ### Synonyms
-- [[completion]], [[fulfillment]]
+- [[c/_completion|completion]], [[f/_fulfillment|fulfillment]]
 ### Antonyms
-- [[incompleteness]], [[unfinishedness]]
+- [[i/_incompleteness|incompleteness]], [[u/_unfinishedness|unfinishedness]]
 ---

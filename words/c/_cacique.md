@@ -6,5 +6,5 @@
 - **[[a/_any|Any]] of a number of tropical [[b/_blackbirds|blackbirds]] from [[c/_central|Central]] [[a/_america|America]] and South [[a/_america|America]], family Icteridae.**
 ---
 ### Synonyms
-- [[chieftain]]
+- [[c/_chieftain|chieftain]]
 ---

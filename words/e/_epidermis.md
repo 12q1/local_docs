@@ -5,5 +5,5 @@
 - **The similar outer layer of [[c/_cells|cells]] in invertebrates and plants**
 ---
 ### Synonyms
-- [[cuticle]]
+- [[c/_cuticle|cuticle]]
 ---

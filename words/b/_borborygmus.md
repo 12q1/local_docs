@@ -5,5 +5,5 @@
 - **Something resembling [[b/_borborygmus|borborygmus]].**
 ---
 ### Synonyms
-- [[borborygm]]
+- [[b/_borborygm|borborygm]]
 ---

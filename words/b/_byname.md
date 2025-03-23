@@ -7,7 +7,7 @@
 - **A ritual title for a god or goddess used in Heathenry.**
 ---
 ### Synonyms
-- [[cognomen]], [[sobriquet]], [[to-name]]
+- [[c/_cognomen|cognomen]], [[s/_sobriquet|sobriquet]], [[t/_to-name|to-name]]
 #verb
 - **To [[a/_assign|assign]] a [[b/_byname|byname]] to.**
 ---

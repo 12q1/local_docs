@@ -11,7 +11,7 @@
 - **The pin in a lock which [[e/_enters|enters]] the [[b/_barrel|barrel]] of the key.**
 ---
 #verb
-- **To make a hole in, especially a [[c/_cask|cask]] of liquor, and put in a tap in order to [[d/_draw|draw]] the liquid.**
+- **To make a hole in, [[e/_especially|especially]] a [[c/_cask|cask]] of liquor, and put in a tap in order to [[d/_draw|draw]] the liquid.**
 - **To open, to make an opening into; to pierce.**
 	- _Example: French knights at Agincourt were unable to broach the English line._
 - **To [[b/_begin|begin]] [[d/_discussion|discussion]] [[a/_about|about]] (something).**
@@ -22,5 +22,5 @@
 - **A painting [[a/_all|all]] of one [[c/_colour|colour]], such as a sepia painting.**
 ---
 ### Synonyms
-- [[breastpin]]
+- [[b/_breastpin|breastpin]]
 ---

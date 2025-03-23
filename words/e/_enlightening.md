@@ -6,9 +6,9 @@
 - **To make something [[c/_clear|clear]] to (someone); to give knowledge or understanding to.**
 ---
 ### Synonyms
-- [[apprise]], [[inform]], [[notify]], [[illuminate]], [[illumine]]
+- [[a/_apprise|apprise]], [[i/_inform|inform]], [[n/_notify|notify]], [[i/_illuminate|illuminate]], [[i/_illumine|illumine]]
 ### Antonyms
-- [[endarken]]
+- [[e/_endarken|endarken]]
 #adjective
 - **Serving to [[e/_enlighten|enlighten]].**
 ---

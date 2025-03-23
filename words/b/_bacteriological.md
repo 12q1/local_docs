@@ -4,5 +4,5 @@
 - **Of or pertaining to [[b/_bacteriology|bacteriology]].**
 ---
 ### Synonyms
-- [[bacteriologic]]
+- [[b/_bacteriologic|bacteriologic]]
 ---

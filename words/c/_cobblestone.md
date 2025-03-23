@@ -5,5 +5,5 @@
 - **The material made from [[c/_cobblestones|cobblestones]].**
 ---
 ### Synonyms
-- [[backformation]], [[cobble]]
+- [[b/_backformation|backformation]], [[c/_cobble|cobble]]
 ---

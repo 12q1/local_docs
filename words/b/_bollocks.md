@@ -11,9 +11,9 @@
 - **(taboo) ([[a/_also|also]] [[b/_bollocks|bollocks]] up) To fail (a task); to make a mess of.**
 ---
 #interjection
-- **(taboo) An expression of [[a/_anger|anger]], frustration, etc.**
+- **(taboo) An expression of [[a/_anger|anger]], frustration, [[e/_etc|etc]].**
 - **(taboo) An expression of incredulity.**
 ---
 ### Synonyms
-- [[Horlicks]]
+- [[H/_Horlicks|Horlicks]]
 ---

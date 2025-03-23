@@ -5,5 +5,5 @@
 - **To [[d/_determine|determine]] the [[a/_amount|amount]] of.**
 ---
 ### Synonyms
-- [[number]], [[tally]]
+- [[n/_number|number]], [[t/_tally|tally]]
 ---

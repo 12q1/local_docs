@@ -9,5 +9,5 @@
 - **Promotive of [[a/_abstemiousness|abstemiousness]].**
 ---
 ### Antonyms
-- [[immoderate]], [[intemperate]]
+- [[i/_immoderate|immoderate]], [[i/_intemperate|intemperate]]
 ---

@@ -7,5 +7,5 @@
 - **[[c/_clandestine|Clandestine]], secret or furtive**
 ---
 ### Synonyms
-- [[backstairs]]
+- [[b/_backstairs|backstairs]]
 ---

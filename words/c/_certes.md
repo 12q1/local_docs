@@ -4,5 +4,5 @@
 - **[[c/_certainly|Certainly]], indeed.**
 ---
 ### Synonyms
-- [[of course]], [[truly]], [[verily]]
+- [[t/_truly|truly]], [[v/_verily|verily]]
 ---

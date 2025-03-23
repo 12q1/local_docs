@@ -6,5 +6,5 @@
 - **Self-[[c/_consumption|consumption]]; the [[a/_act|act]] of [[e/_eating|eating]] oneself.**
 ---
 ### Synonyms
-- [[autocannibalism]]
+- [[a/_autocannibalism|autocannibalism]]
 ---

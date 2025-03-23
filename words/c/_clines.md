@@ -8,5 +8,5 @@
 - **(inversive geometry) A generalized [[c/_circle|circle]].**
 ---
 ### Synonyms
-- [[circline]], [[generalized circle]]
+- [[c/_circline|circline]]
 ---

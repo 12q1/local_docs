@@ -5,11 +5,11 @@
 	- _Example: His lack of respect disappointed her._
 - **To [[d/_deprive|deprive]] (someone of something expected or hoped for).**
 - **To fail to meet (an expectation); to fail to fulfil (a hope).**
-- **To show (an opinion, [[b/_belief|belief]], etc.) to be mistaken.**
+- **To show (an opinion, [[b/_belief|belief]], [[e/_etc|etc]].) to be mistaken.**
 - **To prevent (something planned or [[a/_attempted|attempted]]).**
 ---
 ### Synonyms
-- [[frustrate]], [[thwart]]
+- [[f/_frustrate|frustrate]], [[t/_thwart|thwart]]
 ### Antonyms
-- [[satisfy]]
+- [[s/_satisfy|satisfy]]
 ---

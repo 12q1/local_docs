@@ -7,5 +7,5 @@
 - **A [[c/_chakram|chakram]].**
 ---
 ### Synonyms
-- [[quoit]]
+- [[q/_quoit|quoit]]
 ---

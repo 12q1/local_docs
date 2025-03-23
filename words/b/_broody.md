@@ -1,7 +1,7 @@
 # Broody
 ---
 #noun
-- **A female [[b/_bird|bird]] in the [[c/_condition|condition]] to incubate [[e/_eggs|eggs]]; a [[b/_broody|broody]] hen, [[d/_duck|duck]], etc.**
+- **A female [[b/_bird|bird]] in the [[c/_condition|condition]] to incubate [[e/_eggs|eggs]]; a [[b/_broody|broody]] hen, [[d/_duck|duck]], [[e/_etc|etc]].**
 	- _Example: There are six broodies in that coop._
 ---
 #adjective
@@ -10,5 +10,5 @@
 - **Of [[a/_any|any]] [[c/_creature|creature]] or person: showing an interest in raising young.**
 ---
 ### Synonyms
-- [[clucky]]
+- [[c/_clucky|clucky]]
 ---

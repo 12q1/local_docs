@@ -5,5 +5,5 @@
 - **A stripper.**
 ---
 ### Synonyms
-- [[exotic dancer]], [[stepper]]
+- [[s/_stepper|stepper]]
 ---

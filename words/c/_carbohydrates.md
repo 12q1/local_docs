@@ -7,5 +7,5 @@
 	- _Example: I'm cutting down on carbohydrates like bread and pasta._
 ---
 ### Synonyms
-- [[carb]], [[saccharide]]
+- [[c/_carb|carb]], [[s/_saccharide|saccharide]]
 ---

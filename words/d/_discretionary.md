@@ -5,5 +5,5 @@
 	- _Example: discretionary income_
 ---
 ### Synonyms
-- [[elective]], [[optional]]
+- [[e/_elective|elective]], [[o/_optional|optional]]
 ---

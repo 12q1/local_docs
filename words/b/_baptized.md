@@ -7,7 +7,7 @@
 - **To [[e/_ensure|ensure]] proper [[b/_burning|burning]] of a joint by moistening the exterior with saliva.**
 ---
 ### Synonyms
-- [[christen]]
+- [[c/_christen|christen]]
 #adjective
 - **(of a person) who has [[b/_been|been]] [[b/_baptized|baptized]]**
 ---

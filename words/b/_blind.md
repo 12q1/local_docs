@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[c/_covering|covering]] for a window to keep out light. The [[c/_covering|covering]] may be made of [[c/_cloth|cloth]] or of narrow slats that [[c/_can|can]] [[b/_block|block]] light or [[a/_allow|allow]] it to pass.**
-- **A [[d/_destination|destination]] sign mounted on a public transport vehicle [[d/_displaying|displaying]] the route [[d/_destination|destination]], number, name and/or via points, etc.**
+- **A [[d/_destination|destination]] sign mounted on a public transport vehicle [[d/_displaying|displaying]] the route [[d/_destination|destination]], number, name and/or via points, [[e/_etc|etc]].**
 - **[[a/_any|Any]] [[d/_device|device]] intended to [[c/_conceal|conceal]] or hide.**
 	- _Example: a duck blind_
 - **Something to mislead the [[e/_eye|eye]] or the understanding, or to [[c/_conceal|conceal]] some [[c/_covert|covert]] [[d/_deed|deed]] or [[d/_design|design]]; a subterfuge.**
@@ -17,7 +17,7 @@
 - **(as a plural) Those who are [[b/_blind|blind]], taken as a group.**
 ---
 ### Synonyms
-- [[rollsign]]
+- [[r/_rollsign|rollsign]]
 #verb
 - **To make temporarily or permanently [[b/_blind|blind]].**
 	- _Example: Don't wave that pencil in my face - do you want to blind me?_
@@ -40,7 +40,7 @@
 	- _Example: I shouted, but he didn't take a blind bit of notice._
 - **Without [[a/_any|any]] prior knowledge.**
 	- _Example: He took a blind guess at which fork in the road would take him to the airport._
-- **Unconditional; without regard to evidence, logic, reality, [[a/_accidental|accidental]] mistakes, extenuating [[c/_circumstances|circumstances]], etc.**
+- **Unconditional; without regard to evidence, logic, reality, [[a/_accidental|accidental]] mistakes, extenuating [[c/_circumstances|circumstances]], [[e/_etc|etc]].**
 	- _Example: blind deference_
 - **Unintelligible or illegible.**
 	- _Example: a blind passage in a book; blind writing_
@@ -48,7 +48,7 @@
 	- _Example: blind buds_
 ---
 ### Antonyms
-- [[seeing]], [[sighted]]
+- [[s/_seeing|seeing]], [[s/_sighted|sighted]]
 #adverb
 - **Without seeing; unseeingly.**
 - **[[a/_absolutely|Absolutely]], totally.**

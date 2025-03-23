@@ -9,9 +9,9 @@
 	- _Example: the dawn of civilization_
 ---
 ### Synonyms
-- [[beginning]], [[onset]], [[start]], [[break of dawn]], [[break of day]], [[crack of dawn]], [[day-dawn]], [[daybreak]], [[dayspring]], [[sunrise]], [[sunup]], [[break of dawn]], [[break of day]], [[day-dawn]], [[dayspring]], [[sunrise]]
+- [[b/_beginning|beginning]], [[o/_onset|onset]], [[s/_start|start]], [[d/_day-dawn|day-dawn]], [[d/_daybreak|daybreak]], [[d/_dayspring|dayspring]], [[s/_sunrise|sunrise]], [[s/_sunup|sunup]], [[d/_day-dawn|day-dawn]], [[d/_dayspring|dayspring]], [[s/_sunrise|sunrise]]
 ### Antonyms
-- [[dusk]]
+- [[d/_dusk|dusk]]
 #verb
 - **To [[b/_begin|begin]] to [[b/_brighten|brighten]] with [[d/_daylight|daylight]].**
 	- _Example: A new day dawns._

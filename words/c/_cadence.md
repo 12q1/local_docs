@@ -18,7 +18,7 @@
 - **(horse-riding) Harmony and proportion of movement, as in a well-managed horse.**
 ---
 ### Synonyms
-- [[clausula]]
+- [[c/_clausula|clausula]]
 #verb
 - **To give a [[c/_cadence|cadence]] to.**
 - **To give structure to.**

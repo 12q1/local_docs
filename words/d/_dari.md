@@ -5,5 +5,5 @@
 - **Sorghum syrup.**
 ---
 ### Synonyms
-- [[durra]], [[jowar]], [[juar]], [[kaoliang]], [[milo]], [[mtama]]
+- [[d/_durra|durra]], [[j/_jowar|jowar]], [[j/_juar|juar]], [[k/_kaoliang|kaoliang]], [[m/_milo|milo]], [[m/_mtama|mtama]]
 ---

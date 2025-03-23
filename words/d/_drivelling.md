@@ -6,7 +6,7 @@
 - **To be weak or foolish; to [[d/_dote|dote]].**
 ---
 ### Synonyms
-- [[drool]]
+- [[d/_drool|drool]]
 #noun
 - **Foolish talk.**
 	- _Example: the drivellings of an idiot_

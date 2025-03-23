@@ -9,9 +9,9 @@
 - **(of a temperature) [[b/_below|Below]] zero.**
 ---
 ### Synonyms
-- [[downwards]], [[beneath]], [[under]], [[underneath]], [[downstairs]]
+- [[d/_downwards|downwards]], [[b/_beneath|beneath]], [[u/_under|under]], [[u/_underneath|underneath]], [[d/_downstairs|downstairs]]
 ### Antonyms
-- [[upwards]], [[aloft]], [[overhead]], [[up]], [[upstairs]]
+- [[u/_upwards|upwards]], [[a/_aloft|aloft]], [[o/_overhead|overhead]], [[u/_up|up]], [[u/_upstairs|upstairs]]
 #preposition
 - **Lower in spatial position than.**
 	- _Example: The treasure is buried two meters below the surface._
@@ -26,7 +26,7 @@
 - **(stage [[d/_directions|directions]]) [[d/_downstage|Downstage]] of.**
 ---
 ### Synonyms
-- [[downstream]], [[beneath]], [[under]], [[underneath]], [[under]], [[beneath]]
+- [[d/_downstream|downstream]], [[b/_beneath|beneath]], [[u/_under|under]], [[u/_underneath|underneath]], [[u/_under|under]], [[b/_beneath|beneath]]
 ### Antonyms
-- [[upstream]], [[above]], [[over]], [[over]]
+- [[u/_upstream|upstream]], [[a/_above|above]], [[o/_over|over]], [[o/_over|over]]
 ---

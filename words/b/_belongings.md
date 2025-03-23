@@ -8,5 +8,5 @@
 - **Family; relations; household.**
 ---
 ### Synonyms
-- [[possession]], [[thing]]
+- [[p/_possession|possession]], [[t/_thing|thing]]
 ---

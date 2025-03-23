@@ -5,5 +5,5 @@
 - **(by extension) A variety of translucent quartz, spangled throughout with scales of yellow mica.**
 ---
 ### Synonyms
-- [[goldstone]]
+- [[g/_goldstone|goldstone]]
 ---

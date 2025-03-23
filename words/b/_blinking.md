@@ -9,11 +9,11 @@
 - **To shut out of sight; to evade; to shirk.**
 	- _Example: to blink the question_
 - **To trick; to [[d/_deceive|deceive]].**
-- **To turn slightly sour, or [[b/_blinky|blinky]], as [[b/_beer|beer]], milk, etc.**
+- **To turn slightly sour, or [[b/_blinky|blinky]], as [[b/_beer|beer]], milk, [[e/_etc|etc]].**
 - **To teleport, mostly for short [[d/_distances|distances]].**
 ---
 ### Synonyms
-- [[nictitate]]
+- [[n/_nictitate|nictitate]]
 #noun
 - **The [[a/_act|act]] of something that [[b/_blinks|blinks]].**
 	- _Example: the steady blinkings of lights on the console_
@@ -25,5 +25,5 @@
 	- _Example: The blinking telly isn't working again._
 ---
 ### Synonyms
-- [[blasted]], [[blimming]], [[blooming]], [[winking]]
+- [[b/_blasted|blasted]], [[b/_blimming|blimming]], [[b/_blooming|blooming]], [[w/_winking|winking]]
 ---

@@ -11,7 +11,7 @@
 - **To [[b/_bind|bind]]; to hold by a moral tie.**
 ---
 ### Antonyms
-- [[disunite]], [[divide]], [[separate]]
+- [[d/_disunite|disunite]], [[d/_divide|divide]], [[s/_separate|separate]]
 #noun
 - **The [[a/_act|act]] by which things are [[c/_combined|combined]] or [[b/_brought|brought]] together.**
 ---

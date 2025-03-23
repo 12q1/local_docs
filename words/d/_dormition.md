@@ -6,5 +6,5 @@
 - **(often [[c/_capitalized|capitalized]]) The [[d/_death|death]] and [[a/_assumption|assumption]] into heaven of the Virgin Mary.**
 ---
 ### Synonyms
-- [[sleep]]
+- [[s/_sleep|sleep]]
 ---

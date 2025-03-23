@@ -6,5 +6,5 @@
 - **A kind of hawthorn ([[c/_crataegus|Crataegus]] [[c/_crus|crus]]-galli).**
 ---
 ### Synonyms
-- [[Japanese millet]], [[barnyard grass]], [[barnyard millet]], [[cockspur grass]], [[common barnyard grass]], [[water grass]], [[cockspur hawthorn]], [[cockspur thorn]], [[gaff]]
+- [[g/_gaff|gaff]]
 ---

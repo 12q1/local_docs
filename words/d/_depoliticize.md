@@ -4,5 +4,5 @@
 - **To remove something from political influence**
 ---
 ### Antonyms
-- [[politicize]]
+- [[p/_politicize|politicize]]
 ---

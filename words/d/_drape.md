@@ -3,7 +3,7 @@
 #noun
 - **A [[c/_curtain|curtain]]; a [[d/_drapery|drapery]].**
 - **The way in which fabric falls or hangs.**
-- **A member of a youth subculture [[d/_distinguished|distinguished]] by its sharp [[d/_dress|dress]], especially peg-leg pants (1950s: [[e/_e|e]].g. [[b/_baltimore|Baltimore]], MD). [[a/_antonym|Antonym]]: square**
+- **A member of a youth subculture [[d/_distinguished|distinguished]] by its sharp [[d/_dress|dress]], [[e/_especially|especially]] peg-leg pants (1950s: [[e/_e|e]].g. [[b/_baltimore|Baltimore]], MD). [[a/_antonym|Antonym]]: square**
 - **A [[d/_dress|dress]] made from an [[e/_entire|entire]] piece of [[c/_cloth|cloth]], without having pieces [[c/_cut|cut]] [[a/_away|away]] as in a fitted garment.**
 ---
 #verb
@@ -13,7 +13,7 @@
 	- _Example: I draped my towel over the radiator to dry._
 - **To rail at; to [[b/_banter|banter]].**
 - **To make [[c/_cloth|cloth]].**
-- **To [[d/_design|design]] [[d/_drapery|drapery]], [[a/_arrange|arrange]] its folds, etc., as for hangings, [[c/_costumes|costumes]], statues, etc.**
+- **To [[d/_design|design]] [[d/_drapery|drapery]], [[a/_arrange|arrange]] its folds, [[e/_etc|etc]]., as for hangings, [[c/_costumes|costumes]], statues, [[e/_etc|etc]].**
 - **To hang or rest limply**
 ---
 ---

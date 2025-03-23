@@ -15,5 +15,5 @@
 - **(grammar) Relating to an [[a/_auxiliary|auxiliary]] verb.**
 ---
 ### Synonyms
-- [[motorsailer]], [[accessory]], [[accessory]], [[ancillary]]
+- [[m/_motorsailer|motorsailer]], [[a/_accessory|accessory]], [[a/_accessory|accessory]], [[a/_ancillary|ancillary]]
 ---

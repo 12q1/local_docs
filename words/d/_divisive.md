@@ -5,5 +5,5 @@
 	- _Example: Rather than fostering unity, he becomes divisive._
 ---
 ### Antonyms
-- [[combinative]]
+- [[c/_combinative|combinative]]
 ---

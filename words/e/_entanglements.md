@@ -10,5 +10,5 @@
 - **A quantum mechanical phenomenon in which the quantum states of two or more objects have to be [[d/_described|described]] with reference to [[e/_each|each]] other, even though the individual objects are spatially separated.**
 ---
 ### Synonyms
-- [[spooky action at a distance]]
+- 
 ---

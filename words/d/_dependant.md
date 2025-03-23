@@ -13,5 +13,5 @@
 	- _Example: a dependent bough or leaf_
 ---
 ### Antonyms
-- [[independent]]
+- [[i/_independent|independent]]
 ---

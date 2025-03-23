@@ -6,5 +6,5 @@
 - **The [[a/_ability|ability]] to influence without the use of logic.**
 ---
 ### Synonyms
-- [[charm]], [[spell]]
+- [[c/_charm|charm]], [[s/_spell|spell]]
 ---

@@ -6,5 +6,5 @@
 - **A large-scale [[c/_conflict|conflict]].**
 ---
 ### Synonyms
-- [[firestorm]], [[inferno]]
+- [[f/_firestorm|firestorm]], [[i/_inferno|inferno]]
 ---

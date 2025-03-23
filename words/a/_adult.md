@@ -5,7 +5,7 @@
 - **A person who has reached the legal [[a/_age|age]] of majority.**
 ---
 ### Synonyms
-- [[grown up]]
+- 
 #verb
 - **To ([[c/_cause|cause]] to) be or [[b/_become|become]] an [[a/_adult|adult]].**
 - **To [[b/_behave|behave]] like an [[a/_adult|adult]].**
@@ -20,5 +20,5 @@
 - **Vulgar or profane.**
 ---
 ### Synonyms
-- [[X-rated]], [[XXX]], [[XXXX]], [[pornographic]], [[big]], [[fully grown]], [[grown up]], [[grown up]], [[blue]], [[indecent]], [[obscene]], [[salacious]]
+- [[X/_X-rated|X-rated]], [[X/_XXX|XXX]], [[X/_XXXX|XXXX]], [[p/_pornographic|pornographic]], [[b/_big|big]], [[b/_blue|blue]], [[i/_indecent|indecent]], [[o/_obscene|obscene]], [[s/_salacious|salacious]]
 ---

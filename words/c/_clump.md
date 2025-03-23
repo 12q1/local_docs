@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[c/_cluster|cluster]] or lump; an unshaped piece or mass.**
-- **A thick group or [[b/_bunch|bunch]], especially of [[b/_bushes|bushes]] or hair.**
+- **A thick group or [[b/_bunch|bunch]], [[e/_especially|especially]] of [[b/_bushes|bushes]] or hair.**
 - **A [[d/_dull|dull]] thud.**
 - **The [[c/_compressed|compressed]] [[c/_clay|clay]] of [[c/_coal|coal]] strata.**
 - **A small group of trees or plants.**

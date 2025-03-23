@@ -15,7 +15,7 @@
 - **To place one's pieces [[a/_actively|actively]].**
 	- _Example: I need to develop my white-square bishop._
 - **To [[c/_cause|cause]] a [[b/_ball|ball]] to [[b/_become|become]] more open and [[a/_available|available]] to be played on later. Usually by moving it [[a/_away|away]] from the [[c/_cushion|cushion]], or by opening a pack.**
-- **To [[c/_change|change]] the form of (an [[a/_algebraic|algebraic]] expression, etc.) by executing [[c/_certain|certain]] indicated operations without [[c/_changing|changing]] the value.**
+- **To [[c/_change|change]] the form of (an [[a/_algebraic|algebraic]] expression, [[e/_etc|etc]].) by executing [[c/_certain|certain]] indicated operations without [[c/_changing|changing]] the value.**
 ---
 #adjective
 - **(said of a [[c/_country|country]]) Not primitive; not third-world.**
@@ -25,5 +25,5 @@
 - **[[a/_advanced|Advanced]], fully formed.**
 ---
 ### Synonyms
-- [[adult]], [[big]], [[advanced]], [[first-world]], [[industrialised]]
+- [[a/_adult|adult]], [[b/_big|big]], [[a/_advanced|advanced]], [[f/_first-world|first-world]], [[i/_industrialised|industrialised]]
 ---

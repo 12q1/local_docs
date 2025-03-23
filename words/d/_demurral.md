@@ -5,5 +5,5 @@
 - **A formal objection.**
 ---
 ### Synonyms
-- [[deferral]], [[procrastination]], [[hiatus]], [[moratorium]], [[recess]]
+- [[d/_deferral|deferral]], [[p/_procrastination|procrastination]], [[h/_hiatus|hiatus]], [[m/_moratorium|moratorium]], [[r/_recess|recess]]
 ---

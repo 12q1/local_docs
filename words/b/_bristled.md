@@ -1,7 +1,7 @@
 # Bristled
 ---
 #verb
-- **To rise or stand erect, like [[b/_bristles|bristles]].**
+- **To rise or stand [[e/_erect|erect]], like [[b/_bristles|bristles]].**
 - **[[a/_abound|Abound]], to have an [[a/_abundance|abundance]] of something**
 - **(with at) To be on one's guard or raise one's [[d/_defenses|defenses]]; to react with fear, suspicion, or [[d/_distance|distance]].**
 	- _Example: The employees bristled at the prospect of working through the holidays._

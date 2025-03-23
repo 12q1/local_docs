@@ -6,5 +6,5 @@
 	- _Example: depository library_
 ---
 ### Antonyms
-- [[nondepository]]
+- [[n/_nondepository|nondepository]]
 ---

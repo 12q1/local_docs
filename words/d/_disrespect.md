@@ -1,17 +1,17 @@
 # Disrespect
 ---
 #noun
-- **A lack of respect, esteem or [[c/_courteous|courteous]] [[b/_behaviour|behaviour]].**
+- **A lack of respect, [[e/_esteem|esteem]] or [[c/_courteous|courteous]] [[b/_behaviour|behaviour]].**
 ---
 ### Synonyms
-- [[misrespect]], [[unrespect]]
+- [[m/_misrespect|misrespect]], [[u/_unrespect|unrespect]]
 ### Antonyms
-- [[respect]]
+- [[r/_respect|respect]]
 #verb
 - **To show a lack of respect to someone or something.**
 ---
 ### Synonyms
-- [[dis]], [[insult]], [[misbid]], [[misrespect]]
+- [[d/_dis|dis]], [[i/_insult|insult]], [[m/_misbid|misbid]], [[m/_misrespect|misrespect]]
 ### Antonyms
-- [[respect]]
+- [[r/_respect|respect]]
 ---

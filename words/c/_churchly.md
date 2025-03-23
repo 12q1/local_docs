@@ -8,5 +8,5 @@
 - **[[c/_characteristic|Characteristic]] of a [[c/_church|church]]; [[c/_churchy|churchy]].**
 ---
 ### Synonyms
-- [[churchical]], [[churchlike]]
+- [[c/_churchical|churchical]], [[c/_churchlike|churchlike]]
 ---

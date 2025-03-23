@@ -12,5 +12,5 @@
 - **To silence.**
 ---
 ### Synonyms
-- [[din]]
+- [[d/_din|din]]
 ---

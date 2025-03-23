@@ -5,12 +5,12 @@
 - **To [[b/_burn|burn]] slightly or superficially so as to [[a/_affect|affect]] [[c/_colour|colour]].**
 ---
 ### Synonyms
-- [[blacken]], [[scorch]], [[sear]], [[singe]], [[coal]]
+- [[b/_blacken|blacken]], [[s/_scorch|scorch]], [[s/_sear|sear]], [[s/_singe|singe]], [[c/_coal|coal]]
 #verb
-- **To turn, especially [[a/_away|away]] or [[a/_aside|aside]].**
-- **To work, especially to [[d/_do|do]] housework; to work by the [[d/_day|day]], without [[b/_being|being]] a regularly hired servant.**
+- **To turn, [[e/_especially|especially]] [[a/_away|away]] or [[a/_aside|aside]].**
+- **To work, [[e/_especially|especially]] to [[d/_do|do]] housework; to work by the [[d/_day|day]], without [[b/_being|being]] a regularly hired servant.**
 - **To perform; to [[d/_do|do]]; to finish.**
-- **To work or hew (stone, etc.).**
+- **To work or hew (stone, [[e/_etc|etc]].).**
 ---
 #noun
 - **The incomplete [[c/_combustion|combustion]] of organic material.**

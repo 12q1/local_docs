@@ -5,7 +5,7 @@
 	- _Example: They canned air to sell as a novelty to tourists._
 - **To preserve by heating and sealing in a jar or [[c/_can|can]].**
 	- _Example: They spent August canning fruit and vegetables._
-- **To [[d/_discard|discard]], scrap or terminate (an idea, project, etc.).**
+- **To [[d/_discard|discard]], scrap or terminate (an idea, project, [[e/_etc|etc]].).**
 	- _Example: He canned the whole project because he thought it would fail._
 - **To shut up.**
 	- _Example: Can your gob._
@@ -22,7 +22,7 @@
 - **Terminated, fired from a job.**
 ---
 ### Synonyms
-- [[boilerplate]], [[stock]], [[tinned]]
+- [[b/_boilerplate|boilerplate]], [[s/_stock|stock]], [[t/_tinned|tinned]]
 ### Antonyms
-- [[dried]]
+- [[d/_dried|dried]]
 ---

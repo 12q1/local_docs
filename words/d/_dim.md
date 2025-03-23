@@ -28,5 +28,5 @@
 - **Reduced by a semitone**
 ---
 ### Antonyms
-- [[augmented]]
+- [[a/_augmented|augmented]]
 ---

@@ -9,7 +9,7 @@
 - **To [[d/_dread|dread]], to fear.**
 ---
 ### Synonyms
-- [[distrust]], [[mistrust]]
+- [[d/_distrust|distrust]], [[m/_mistrust|mistrust]]
 #noun
 - **A [[c/_condition|condition]] of [[d/_doubt|doubt]].**
 ---

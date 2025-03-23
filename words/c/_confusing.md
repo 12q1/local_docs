@@ -9,11 +9,11 @@
 - **To be [[c/_confused|confused]].**
 ---
 ### Synonyms
-- [[flummox]], [[mistake]]
+- [[f/_flummox|flummox]], [[m/_mistake|mistake]]
 #adjective
-- **[[d/_difficult|Difficult]] to understand; not [[c/_clear|clear]] as lacking order, [[c/_chaotic|chaotic]] etc**
+- **[[d/_difficult|Difficult]] to understand; not [[c/_clear|clear]] as lacking order, [[c/_chaotic|chaotic]] [[e/_etc|etc]]**
 	- _Example: Several sections in that book are really confusing._
 ---
 ### Synonyms
-- [[misleading]], [[mistakable]], [[muddlesome]]
+- [[m/_misleading|misleading]], [[m/_mistakable|mistakable]], [[m/_muddlesome|muddlesome]]
 ---

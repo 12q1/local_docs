@@ -4,13 +4,13 @@
 - **A [[c/_charred|charred]] substance.**
 ---
 ### Synonyms
-- [[charcoal]]
+- [[c/_charcoal|charcoal]]
 #verb
 - **To [[b/_burn|burn]] something to [[c/_charcoal|charcoal]].**
 - **To [[b/_burn|burn]] slightly or superficially so as to [[a/_affect|affect]] [[c/_colour|colour]].**
 ---
 ### Synonyms
-- [[blacken]], [[scorch]], [[sear]], [[singe]], [[coal]]
+- [[b/_blacken|blacken]], [[s/_scorch|scorch]], [[s/_sear|sear]], [[s/_singe|singe]], [[c/_coal|coal]]
 #noun
 - **One of the several species of fishes of the genus Salvelinus.**
 	- _Example: Among other native delicacies, they give you fresh char._
@@ -23,12 +23,12 @@
 	- _Example: I had to scrub the kitchen today, because the char couldn't come._
 ---
 ### Synonyms
-- [[charlady]], [[charwoman]], [[cleaning]], [[lady]], [[cleaning]], [[woman]]
+- [[c/_charlady|charlady]], [[c/_charwoman|charwoman]], [[c/_cleaning|cleaning]], [[l/_lady|lady]], [[c/_cleaning|cleaning]], [[w/_woman|woman]]
 #verb
-- **To turn, especially [[a/_away|away]] or [[a/_aside|aside]].**
-- **To work, especially to [[d/_do|do]] housework; to work by the [[d/_day|day]], without [[b/_being|being]] a regularly hired servant.**
+- **To turn, [[e/_especially|especially]] [[a/_away|away]] or [[a/_aside|aside]].**
+- **To work, [[e/_especially|especially]] to [[d/_do|do]] housework; to work by the [[d/_day|day]], without [[b/_being|being]] a regularly hired servant.**
 - **To perform; to [[d/_do|do]]; to finish.**
-- **To work or hew (stone, etc.).**
+- **To work or hew (stone, [[e/_etc|etc]].).**
 ---
 #noun
 - **A [[c/_character|character]] (text [[e/_element|element]] such as a letter or symbol).**

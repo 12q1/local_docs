@@ -6,5 +6,5 @@
 - **[[a/_any|Any]] of several [[c/_closely|closely]] related, [[e/_edible|edible]] species of the genus [[a/_amanita|Amanita]], including [[a/_amanita|Amanita]] rubescens and [[a/_amanita|Amanita]] novinupta.**
 ---
 ### Synonyms
-- [[blush]], [[rouge]]
+- [[b/_blush|blush]], [[r/_rouge|rouge]]
 ---

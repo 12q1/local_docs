@@ -5,8 +5,8 @@
 - **Something which represents a larger whole.**
 	- _Example: The rampant poverty in the ethnic slums was just an emblem of the group's disenfranchisement by the society as a whole._
 - **Inlay; inlaid or mosaic work; something ornamental inserted in a surface.**
-- **A picture [[a/_accompanied|accompanied]] with a motto, a set of verses, etc. intended as a moral lesson or meditation.**
+- **A picture [[a/_accompanied|accompanied]] with a motto, a set of verses, [[e/_etc|etc]]. intended as a moral lesson or meditation.**
 ---
 ### Synonyms
-- [[betoken]], [[token]], [[symbol]]
+- [[b/_betoken|betoken]], [[t/_token|token]], [[s/_symbol|symbol]]
 ---

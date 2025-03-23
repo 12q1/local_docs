@@ -5,5 +5,5 @@
 - **A fabricated memory [[b/_believed|believed]] to be true.**
 ---
 ### Synonyms
-- [[confab]]
+- [[c/_confab|confab]]
 ---

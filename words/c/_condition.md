@@ -15,11 +15,11 @@
 	- _Example: A man of his condition has no place to make request._
 ---
 ### Synonyms
-- [[fettle]]
+- [[f/_fettle|fettle]]
 #verb
 - **To subject to the process of [[a/_acclimation|acclimation]].**
 	- _Example: I became conditioned to the absence of seasons in San Diego._
-- **To subject to [[d/_different|different]] [[c/_conditions|conditions]], especially as an exercise.**
+- **To subject to [[d/_different|different]] [[c/_conditions|conditions]], [[e/_especially|especially]] as an exercise.**
 	- _Example: They were conditioning their shins in their karate class._
 - **To place [[c/_conditions|conditions]] or limitations upon.**
 - **To shape the [[b/_behaviour|behaviour]] of someone to [[d/_do|do]] something.**

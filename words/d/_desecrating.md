@@ -6,5 +6,5 @@
 - **To [[c/_change|change]] in an inappropriate and [[d/_destructive|destructive]] way.**
 ---
 ### Synonyms
-- [[pervert]], [[defile]], [[unhallow]], [[deconsecrate]], [[desanctify]]
+- [[p/_pervert|pervert]], [[d/_defile|defile]], [[u/_unhallow|unhallow]], [[d/_deconsecrate|deconsecrate]], [[d/_desanctify|desanctify]]
 ---

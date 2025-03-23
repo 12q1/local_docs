@@ -5,5 +5,5 @@
 	- _Example: Killing doctors is barbaric._
 ---
 ### Antonyms
-- [[nonbarbaric]]
+- [[n/_nonbarbaric|nonbarbaric]]
 ---

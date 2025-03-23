@@ -15,9 +15,9 @@
 	- _Example: Can this graph be 2-colored?_
 ---
 ### Synonyms
-- [[affect]], [[influence]], [[blush]], [[call]], [[color in]], [[dye]], [[paint]], [[shade]], [[stain]], [[tinge]], [[tint]]
+- [[a/_affect|affect]], [[i/_influence|influence]], [[b/_blush|blush]], [[c/_call|call]], [[d/_dye|dye]], [[p/_paint|paint]], [[s/_shade|shade]], [[s/_stain|stain]], [[t/_tinge|tinge]], [[t/_tint|tint]]
 ### Antonyms
-- [[decolor]]
+- [[d/_decolor|decolor]]
 #noun
 - **A [[c/_colored|colored]] person.**
 - **(laundry) A [[c/_colored|colored]] [[a/_article|article]] of [[c/_clothing|clothing]].**

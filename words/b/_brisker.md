@@ -11,5 +11,5 @@
 - **[[a/_abrupt|Abrupt]], [[c/_curt|curt]] in one's manner or in relation to others.**
 ---
 ### Synonyms
-- [[lively]], [[quick]], [[spirited]]
+- [[l/_lively|lively]], [[q/_quick|quick]], [[s/_spirited|spirited]]
 ---

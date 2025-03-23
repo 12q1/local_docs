@@ -8,5 +8,5 @@
 - **(used with for) Worried [[a/_about|about]], feeling [[c/_concern|concern]] for, fearing for (someone or something).**
 ---
 ### Synonyms
-- [[afeared]], [[alarmed]], [[anxious]], [[apprehensive]], [[fearful]], [[timid]], [[timorous]], [[sorry]]
+- [[a/_afeared|afeared]], [[a/_alarmed|alarmed]], [[a/_anxious|anxious]], [[a/_apprehensive|apprehensive]], [[f/_fearful|fearful]], [[t/_timid|timid]], [[t/_timorous|timorous]], [[s/_sorry|sorry]]
 ---

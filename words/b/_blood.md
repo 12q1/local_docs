@@ -10,7 +10,7 @@
 - **One of the four humours in the human [[b/_body|body]].**
 - **A [[b/_blood|blood]] test or [[b/_blood|blood]] sample.**
 - **The sap or juice which flows in or from plants.**
-- **The juice of [[a/_anything|anything]], especially if red.**
+- **The juice of [[a/_anything|anything]], [[e/_especially|especially]] if red.**
 - **Temper of mind; [[d/_disposition|disposition]]; mood**
 - **A lively, showy man; a rake; a [[d/_dandy|dandy]].**
 - **A [[b/_blood|blood]] horse, one of good pedigree.**
@@ -18,7 +18,7 @@
 	- _Example: They came looking for blood._
 ---
 ### Synonyms
-- [[purging]], [[background]], [[descent]], [[heritage]], [[stock]]
+- [[p/_purging|purging]], [[b/_background|background]], [[d/_descent|descent]], [[h/_heritage|heritage]], [[s/_stock|stock]]
 #verb
 - **To [[c/_cause|cause]] something to be [[c/_covered|covered]] with [[b/_blood|blood]]; to [[b/_bloody|bloody]].**
 - **To let [[b/_blood|blood]] (from); to [[b/_bleed|bleed]].**

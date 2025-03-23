@@ -11,7 +11,7 @@
 	- _Example: Through his powers of deduction, he realized that the plan would never work._
 ---
 ### Synonyms
-- [[extract]], [[reduction]]
+- [[e/_extract|extract]], [[r/_reduction|reduction]]
 ### Antonyms
-- [[induction]]
+- [[i/_induction|induction]]
 ---

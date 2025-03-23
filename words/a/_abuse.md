@@ -11,5 +11,5 @@
 - **Violation; [[d/_defilement|defilement]]; rape; forcing of undesired sexual [[a/_activity|activity]] by one person on [[a/_another|another]], often on a repeated [[b/_basis|basis]].**
 ---
 ### Synonyms
-- [[abusio]], [[contumely]], [[insult]], [[invective]], [[opprobrium]], [[reproach]], [[scurrility]], [[misuse]]
+- [[a/_abusio|abusio]], [[c/_contumely|contumely]], [[i/_insult|insult]], [[i/_invective|invective]], [[o/_opprobrium|opprobrium]], [[r/_reproach|reproach]], [[s/_scurrility|scurrility]], [[m/_misuse|misuse]]
 ---

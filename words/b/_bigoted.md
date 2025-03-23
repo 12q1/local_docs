@@ -4,7 +4,7 @@
 - **Having the [[c/_characteristics|characteristics]] of a [[b/_bigot|bigot]]; strongly prejudiced; forming opinions without just [[c/_cause|cause]]**
 ---
 ### Synonyms
-- [[biased]], [[intolerant]]
+- [[b/_biased|biased]], [[i/_intolerant|intolerant]]
 ### Antonyms
-- [[tolerant]]
+- [[t/_tolerant|tolerant]]
 ---

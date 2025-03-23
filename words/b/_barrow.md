@@ -7,5 +7,5 @@
 - **A heap of rubbish, [[a/_attle|attle]], or other such refuse.**
 ---
 ### Synonyms
-- [[tumulus]]
+- [[t/_tumulus|tumulus]]
 ---

@@ -8,7 +8,7 @@
 - **To protrude or swell**
 ---
 ### Synonyms
-- [[cluster]], [[group]]
+- [[c/_cluster|cluster]], [[g/_group|group]]
 #noun
 - **An [[a/_arrangement|arrangement]] of items in a [[b/_bunch|bunch]].**
 - **The illegitimate supplying of laboratory [[a/_animals|animals]] that are [[a/_actually|actually]] kidnapped pets or illegally trapped strays.**

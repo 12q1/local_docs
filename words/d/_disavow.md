@@ -7,7 +7,7 @@
 	- _Example: Because of her dissatisfaction, she now disavows the merits of fascism._
 ---
 ### Synonyms
-- [[abjure]], [[deny]], [[disclaim]], [[disown]], [[reject]], [[deny]], [[disprove]], [[impugn]], [[reject]], [[repudiate]]
+- [[a/_abjure|abjure]], [[d/_deny|deny]], [[d/_disclaim|disclaim]], [[d/_disown|disown]], [[r/_reject|reject]], [[d/_deny|deny]], [[d/_disprove|disprove]], [[i/_impugn|impugn]], [[r/_reject|reject]], [[r/_repudiate|repudiate]]
 ### Antonyms
-- [[accept]], [[own up]], [[accept]], [[prove]]
+- [[a/_accept|accept]], [[a/_accept|accept]], [[p/_prove|prove]]
 ---

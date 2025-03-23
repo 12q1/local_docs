@@ -5,5 +5,5 @@
 - **To [[c/_concur|concur]] upon [[c/_conviction|conviction]]; as, to [[a/_acquiesce|acquiesce]] in an opinion; to [[a/_assent|assent]] to; usually, to [[c/_concur|concur]], not heartily but so far as to forbear opposition.**
 ---
 ### Synonyms
-- [[accept]], [[go along with]], [[tacitly]], [[agree]], [[assent]], [[comply]], [[concur]], [[consent]], [[submit]], [[yield]]
+- [[a/_accept|accept]], [[t/_tacitly|tacitly]], [[a/_agree|agree]], [[a/_assent|assent]], [[c/_comply|comply]], [[c/_concur|concur]], [[c/_consent|consent]], [[s/_submit|submit]], [[y/_yield|yield]]
 ---

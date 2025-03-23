@@ -15,7 +15,7 @@
 	- _Example: I shouted, but he didn't take a blind bit of notice._
 - **Without [[a/_any|any]] prior knowledge.**
 	- _Example: He took a blind guess at which fork in the road would take him to the airport._
-- **Unconditional; without regard to evidence, logic, reality, [[a/_accidental|accidental]] mistakes, extenuating [[c/_circumstances|circumstances]], etc.**
+- **Unconditional; without regard to evidence, logic, reality, [[a/_accidental|accidental]] mistakes, extenuating [[c/_circumstances|circumstances]], [[e/_etc|etc]].**
 	- _Example: blind deference_
 - **Unintelligible or illegible.**
 	- _Example: a blind passage in a book; blind writing_
@@ -23,7 +23,7 @@
 	- _Example: blind buds_
 ---
 ### Antonyms
-- [[seeing]], [[sighted]]
+- [[s/_seeing|seeing]], [[s/_sighted|sighted]]
 #noun
 - **Something that [[b/_blinds|blinds]].**
 - **A [[b/_bag|bag]] or [[c/_cloth|cloth]] put over the head of a [[d/_difficult|difficult]] horse while it is [[b/_being|being]] handled or mounted.**
@@ -33,7 +33,7 @@
 - **A [[b/_bout|bout]] of heavy [[d/_drinking|drinking]], a [[b/_bender|bender]].**
 ---
 ### Synonyms
-- [[cracker]], [[blinker]], [[winker]]
+- [[c/_cracker|cracker]], [[b/_blinker|blinker]], [[w/_winker|winker]]
 #verb
 - **To fit (a horse) with [[b/_blinders|blinders]].**
 - **(by extension) To obstruct the vision of.**

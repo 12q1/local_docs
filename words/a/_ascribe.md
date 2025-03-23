@@ -8,5 +8,5 @@
 - **(with to) To [[b/_believe|believe]] in or [[a/_agree|agree]] with; subscribe.**
 ---
 ### Synonyms
-- [[attribute]], [[impute]]
+- [[a/_attribute|attribute]], [[i/_impute|impute]]
 ---

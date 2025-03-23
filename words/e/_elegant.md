@@ -7,7 +7,7 @@
 - **Fine; [[d/_doing|doing]] well.**
 ---
 ### Synonyms
-- [[classy]], [[graceful]]
+- [[c/_classy|classy]], [[g/_graceful|graceful]]
 ### Antonyms
-- [[clumsy]], [[haphazard]], [[inelegant]]
+- [[c/_clumsy|clumsy]], [[h/_haphazard|haphazard]], [[i/_inelegant|inelegant]]
 ---

@@ -7,7 +7,7 @@
 - **(by extension) [[a/_any|Any]] [[d/_detailed|detailed]] plan, whether literal or figurative.**
 ---
 ### Synonyms
-- [[schematic]], [[layout]], [[plan]], [[road map]], [[schematic]], [[cyanotype]], [[schematic]]
+- [[s/_schematic|schematic]], [[l/_layout|layout]], [[p/_plan|plan]], [[s/_schematic|schematic]], [[c/_cyanotype|cyanotype]], [[s/_schematic|schematic]]
 #verb
 - **To make a [[b/_blueprint|blueprint]] for.**
 	- _Example: The architect blueprinted the renovation plan once the client had signed off._

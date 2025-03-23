@@ -4,5 +4,5 @@
 - **Lowest, [[c/_closest|closest]] to the [[b/_bottom|bottom]].**
 ---
 ### Antonyms
-- [[top-most]], [[topmost]]
+- [[t/_top-most|top-most]], [[t/_topmost|topmost]]
 ---

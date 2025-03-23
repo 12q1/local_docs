@@ -13,7 +13,7 @@
 - **To remove [[e/_equipment|equipment]] from a [[c/_climbing|climbing]] route [[a/_after|after]] it was previously lead [[c/_climbed|climbed]].**
 - **To make things [[c/_clean|clean]] in general.**
 	- _Example: She just likes to clean. That’s why I married her._
-- **To remove unnecessary files, etc. from (a [[d/_directory|directory]], etc.).**
+- **To remove unnecessary files, [[e/_etc|etc]]. from (a [[d/_directory|directory]], [[e/_etc|etc]].).**
 - **To [[b/_brush|brush]] the ice lightly in front of a moving rock to remove [[a/_any|any]] [[d/_debris|debris]] and [[e/_ensure|ensure]] a [[c/_correct|correct]] line; less vigorous than a sweep.**
 - **To purge a raw of [[a/_any|any]] [[b/_blemishes|blemishes]] [[c/_caused|caused]] by the scanning process such as [[b/_brown|brown]] tinting and poor [[c/_color|color]] [[c/_contrast|contrast]].**
 - **To remove guts and/or scales of a [[b/_butchered|butchered]] [[a/_animal|animal]].**
@@ -38,9 +38,9 @@
 - **(of a route) [[a/_ascended|Ascended]] without falling.**
 ---
 ### Synonyms
-- [[clean]]
+- [[c/_clean|clean]]
 ### Antonyms
-- [[dirty]], [[unclean]]
+- [[d/_dirty|dirty]], [[u/_unclean|unclean]]
 #adverb
 - **Fully and [[c/_completely|completely]].**
 	- _Example: He was stabbed clean through._

@@ -6,5 +6,5 @@
 - **[[a/_any|Any]] household, institution, or other organization that is run under such sovereignty or [[a/_autocracy|autocracy]].**
 ---
 ### Synonyms
-- [[autocracy]], [[dictatorialism]]
+- [[a/_autocracy|autocracy]], [[d/_dictatorialism|dictatorialism]]
 ---

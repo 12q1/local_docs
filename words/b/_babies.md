@@ -2,7 +2,7 @@
 ---
 #noun
 - **A very young human, particularly from [[b/_birth|birth]] to a [[c/_couple|couple]] of years old or until walking is fully mastered.**
-- **[[a/_any|Any]] very young [[a/_animal|animal]], especially a vertebrate; many species have specific names for their [[b/_babies|babies]], such as kittens for the [[b/_babies|babies]] of [[c/_cats|cats]], puppies for the [[b/_babies|babies]] of [[d/_dogs|dogs]], and [[c/_chickens|chickens]] for the [[b/_babies|babies]] of [[b/_birds|birds]]. See for more.**
+- **[[a/_any|Any]] very young [[a/_animal|animal]], [[e/_especially|especially]] a vertebrate; many species have specific names for their [[b/_babies|babies]], such as kittens for the [[b/_babies|babies]] of [[c/_cats|cats]], puppies for the [[b/_babies|babies]] of [[d/_dogs|dogs]], and [[c/_chickens|chickens]] for the [[b/_babies|babies]] of [[b/_birds|birds]]. See for more.**
 - **Unborn young; a fetus.**
 	- _Example: When is your baby due?_
 - **A person who is immature, infantile or feeble.**
@@ -22,7 +22,7 @@
 - **A small image of an infant; a [[d/_doll|doll]].**
 ---
 ### Synonyms
-- [[big baby]], [[love]], [[babbie]], [[babby]], [[babe]], [[infant]]
+- [[l/_love|love]], [[b/_babbie|babbie]], [[b/_babby|babby]], [[b/_babe|babe]], [[i/_infant|infant]]
 #verb
 - **To [[c/_coddle|coddle]]; to pamper somebody like an infant.**
 - **To tend (something) with [[c/_care|care]]; to be overly [[a/_attentive|attentive]] to (something), fuss over.**

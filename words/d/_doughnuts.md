@@ -9,5 +9,5 @@
 - **([[c/_colloquial|colloquial]]) A foolish or stupid person.**
 ---
 ### Synonyms
-- [[ring]], [[torus]]
+- [[r/_ring|ring]], [[t/_torus|torus]]
 ---

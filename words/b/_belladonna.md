@@ -5,5 +5,5 @@
 - **An [[a/_alkaloid|alkaloid]] extracted from this plant, sometimes used medicinally, [[c/_containing|containing]] [[a/_atropine|atropine]].**
 ---
 ### Synonyms
-- [[deadly nightshade]]
+- 
 ---

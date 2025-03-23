@@ -6,7 +6,7 @@
 - **A minor related mention, an [[a/_afterthought|afterthought]].**
 ---
 ### Synonyms
-- [[side note]], [[sidebar]]
+- [[s/_sidebar|sidebar]]
 #adverb
 - **To or on one side so as to be out of the way.**
 	- _Example: Move aside, please, so that these people can come through._

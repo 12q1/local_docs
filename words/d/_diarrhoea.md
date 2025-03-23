@@ -5,5 +5,5 @@
 - **The watery or very soft excrement that [[c/_comes|comes]] from such [[b/_bowel|bowel]] movements.**
 ---
 ### Synonyms
-- [[runs]], [[shits]], [[skitters]], [[squirts]], [[squits]], [[trots]]
+- [[r/_runs|runs]], [[s/_shits|shits]], [[s/_skitters|skitters]], [[s/_squirts|squirts]], [[s/_squits|squits]], [[t/_trots|trots]]
 ---

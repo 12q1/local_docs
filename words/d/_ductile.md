@@ -6,7 +6,7 @@
 - **Led [[e/_easily|easily]]; prone to follow.**
 ---
 ### Synonyms
-- [[tractable]], [[flexible]], [[plastic]], [[pliant]]
+- [[t/_tractable|tractable]], [[f/_flexible|flexible]], [[p/_plastic|plastic]], [[p/_pliant|pliant]]
 ### Antonyms
-- [[brittle]]
+- [[b/_brittle|brittle]]
 ---

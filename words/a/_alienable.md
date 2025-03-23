@@ -5,5 +5,5 @@
 	- _Example: Land is alienable according to the laws of the state._
 ---
 ### Antonyms
-- [[inalienable]], [[unalienable]]
+- [[i/_inalienable|inalienable]], [[u/_unalienable|unalienable]]
 ---

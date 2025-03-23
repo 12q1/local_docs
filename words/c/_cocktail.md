@@ -9,9 +9,9 @@
 - **A species of rove [[b/_beetle|beetle]], so [[c/_called|called]] from its habit of [[e/_elevating|elevating]] the tail.**
 ---
 ### Synonyms
-- [[ckt]], [[mixed drink]]
+- [[c/_ckt|ckt]]
 #verb
-- **To [[a/_adulterate|adulterate]] (fuel, etc.) by mixing in other substances.**
+- **To [[a/_adulterate|adulterate]] (fuel, [[e/_etc|etc]].) by mixing in other substances.**
 - **To treat (a person) to [[c/_cocktails|cocktails]].**
 	- _Example: He dined and cocktailed her at the most exclusive bars and restaurants._
 ---

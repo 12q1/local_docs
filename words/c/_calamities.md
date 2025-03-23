@@ -5,5 +5,5 @@
 - **The [[d/_distress|distress]] that results from some [[d/_disaster|disaster]].**
 ---
 ### Synonyms
-- [[nakba]]
+- [[n/_nakba|nakba]]
 ---

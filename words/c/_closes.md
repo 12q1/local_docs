@@ -10,9 +10,9 @@
 - **(travel) The time when checkin staff will no longer [[a/_accept|accept]] passengers for a flight.**
 ---
 ### Synonyms
-- [[end]], [[finale]]
+- [[e/_end|end]], [[f/_finale|finale]]
 ### Antonyms
-- [[beginning]], [[start]]
+- [[b/_beginning|beginning]], [[s/_start|start]]
 #verb
 - **(physical) To remove a gap.**
 - **(social) To finish, to terminate.**
@@ -20,9 +20,9 @@
 - **To have a vector sum of 0; that is, to form a [[c/_closed|closed]] polygon.**
 ---
 ### Synonyms
-- [[narrow]], [[shut]], [[close off]], [[close up]], [[cover]], [[shut]], [[shut off]], [[close down]], [[end]], [[finish]], [[terminate]], [[wind up]], [[close out]], [[exit]]
+- [[n/_narrow|narrow]], [[s/_shut|shut]], [[c/_cover|cover]], [[s/_shut|shut]], [[e/_end|end]], [[f/_finish|finish]], [[t/_terminate|terminate]], [[e/_exit|exit]]
 ### Antonyms
-- [[extend]], [[widen]], [[open]], [[open]], [[begin]], [[commence]], [[initiate]], [[start]], [[open]], [[start]]
+- [[e/_extend|extend]], [[w/_widen|widen]], [[o/_open|open]], [[o/_open|open]], [[b/_begin|begin]], [[c/_commence|commence]], [[i/_initiate|initiate]], [[s/_start|start]], [[o/_open|open]], [[s/_start|start]]
 #noun
 - **([[c/_chiefly|chiefly]] Yorkshire) An [[e/_enclosed|enclosed]] field.**
 - **([[c/_chiefly|chiefly]] [[b/_british|British]]) A street that [[e/_ends|ends]] in a [[d/_dead|dead]] [[e/_end|end]].**
@@ -32,5 +32,5 @@
 - **The interest which one may have in a piece of ground, even though it is not [[e/_enclosed|enclosed]].**
 ---
 ### Synonyms
-- [[cul-de-sac]]
+- [[c/_cul-de-sac|cul-de-sac]]
 ---

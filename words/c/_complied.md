@@ -7,7 +7,7 @@
 - **To [[e/_enfold|enfold]]; to [[e/_embrace|embrace]].**
 ---
 ### Synonyms
-- [[carry out]], [[consummate]], [[give way]]
+- [[c/_consummate|consummate]]
 ### Antonyms
-- [[violate]]
+- [[v/_violate|violate]]
 ---

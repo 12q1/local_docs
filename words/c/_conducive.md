@@ -5,7 +5,7 @@
 	- _Example: A small, dark kitchen is not conducive to elaborate cooking._
 ---
 ### Synonyms
-- [[favorable]], [[helpful]], [[instrumental]]
+- [[f/_favorable|favorable]], [[h/_helpful|helpful]], [[i/_instrumental|instrumental]]
 ### Antonyms
-- [[inconducive]], [[unconducive]]
+- [[i/_inconducive|inconducive]], [[u/_unconducive|unconducive]]
 ---

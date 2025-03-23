@@ -8,5 +8,5 @@
 - **To oppose; to revoke the [[c/_command|command]] of.**
 ---
 ### Synonyms
-- [[cancel]], [[rescind]], [[forbid]], [[prohibit]]
+- [[c/_cancel|cancel]], [[r/_rescind|rescind]], [[f/_forbid|forbid]], [[p/_prohibit|prohibit]]
 ---

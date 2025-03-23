@@ -5,5 +5,5 @@
 - **To represent one half of.**
 ---
 ### Synonyms
-- [[halve]]
+- [[h/_halve|halve]]
 ---

@@ -12,5 +12,5 @@
 - **An irregularity or [[d/_disproportion|disproportion]].**
 ---
 ### Synonyms
-- [[abnormality]], [[deviance]], [[deviation]], [[exception]], [[inconsistency]], [[irregularity]], [[phenomenon]]
+- [[a/_abnormality|abnormality]], [[d/_deviance|deviance]], [[d/_deviation|deviation]], [[e/_exception|exception]], [[i/_inconsistency|inconsistency]], [[i/_irregularity|irregularity]], [[p/_phenomenon|phenomenon]]
 ---

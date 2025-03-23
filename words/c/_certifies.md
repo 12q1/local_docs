@@ -9,5 +9,5 @@
 - **To [[a/_assure|assure]] (oneself) of something; to [[a/_ascertain|ascertain]].**
 ---
 ### Synonyms
-- [[approve]], [[attest]], [[confirm]], [[vouch for]], [[witness]]
+- [[a/_approve|approve]], [[a/_attest|attest]], [[c/_confirm|confirm]], [[w/_witness|witness]]
 ---

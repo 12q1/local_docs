@@ -17,7 +17,7 @@
 	- _Example: creative accounting_
 ---
 ### Synonyms
-- [[inventive]], [[original]]
+- [[i/_inventive|inventive]], [[o/_original|original]]
 ### Antonyms
-- [[annihilative]], [[imitative]]
+- [[a/_annihilative|annihilative]], [[i/_imitative|imitative]]
 ---

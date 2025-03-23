@@ -4,5 +4,5 @@
 - **A person who [[d/_does|does]] menial work, a servant.**
 ---
 ### Synonyms
-- [[factotum]], [[gofer]], [[handyman]], [[jack of all trades]], [[odd job]]
+- [[f/_factotum|factotum]], [[g/_gofer|gofer]], [[h/_handyman|handyman]]
 ---

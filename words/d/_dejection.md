@@ -7,5 +7,5 @@
 - **[[d/_defecation|Defecation]] or feces.**
 ---
 ### Synonyms
-- [[bowel movement]], [[excrement]], [[crestfallenness]], [[despondency]], [[downheartedness]]
+- [[e/_excrement|excrement]], [[c/_crestfallenness|crestfallenness]], [[d/_despondency|despondency]], [[d/_downheartedness|downheartedness]]
 ---

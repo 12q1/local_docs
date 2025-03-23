@@ -5,5 +5,5 @@
 	- _Example: Yes, my life has been blameworthy; I confess it. But you know nothing of its temptations._
 ---
 ### Antonyms
-- [[praiseworthy]]
+- [[p/_praiseworthy|praiseworthy]]
 ---

@@ -8,7 +8,7 @@
 - **Relating to exchange; interchangeable.**
 ---
 ### Synonyms
-- [[Abelian]], [[abelian]]
+- [[A/_Abelian|Abelian]], [[a/_abelian|abelian]]
 ### Antonyms
-- [[anticommutative]]
+- [[a/_anticommutative|anticommutative]]
 ---

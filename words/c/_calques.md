@@ -5,5 +5,5 @@
 	- _Example: The word "watershed" is a calque of the German "Wasserscheide"._
 ---
 ### Synonyms
-- [[calquing]], [[loan translation]]
+- [[c/_calquing|calquing]]
 ---

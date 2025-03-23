@@ -6,7 +6,7 @@
 - **A petrolhead.**
 ---
 ### Synonyms
-- [[bevan]], [[booner]], [[westie]], [[westy]], [[white trash]], [[NED]], [[chav]], [[dag]], [[redneck]]
+- [[b/_bevan|bevan]], [[b/_booner|booner]], [[w/_westie|westie]], [[w/_westy|westy]], [[N/_NED|NED]], [[c/_chav|chav]], [[d/_dag|dag]], [[r/_redneck|redneck]]
 #noun
 - **[[a/_any|Any]] narrow water or [[c/_creek|creek]], particularly a tranquil [[b/_backwater|backwater]].**
 - **(North Western Ontario) An indigenous person.**

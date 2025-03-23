@@ -1,6 +1,6 @@
 # Booklice
 ---
 #noun
-- **[[a/_any|Any]] of the small insects who feed on bookbindings, especially those of the order Psocoptera.**
+- **[[a/_any|Any]] of the small insects who feed on bookbindings, [[e/_especially|especially]] those of the order Psocoptera.**
 ---
 ---

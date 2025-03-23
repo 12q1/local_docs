@@ -5,5 +5,5 @@
 - **Showing or having the impulse to be [[c/_combative|combative]].**
 ---
 ### Antonyms
-- [[pacific]]
+- [[p/_pacific|pacific]]
 ---

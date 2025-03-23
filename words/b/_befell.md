@@ -9,5 +9,5 @@
 - **To fall.**
 ---
 ### Synonyms
-- [[come to pass]], [[occur]], [[transpire]]
+- [[o/_occur|occur]], [[t/_transpire|transpire]]
 ---

@@ -3,7 +3,7 @@
 #noun
 - **A measure of the extent of a surface; it is measured in square units.**
 - **A particular geographic region.**
-- **[[a/_any|Any]] particular extent of surface, especially an [[e/_empty|empty]] or unused extent.**
+- **[[a/_any|Any]] particular extent of surface, [[e/_especially|especially]] an [[e/_empty|empty]] or unused extent.**
 	- _Example: The photo is a little dark in that area._
 - **The extent, scope, or range of an object or [[c/_concept|concept]].**
 	- _Example: The plans are a bit vague in that area._

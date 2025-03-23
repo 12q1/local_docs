@@ -4,7 +4,7 @@
 - **A shallow [[d/_deformation|deformation]] in the surface of an object, produced by an impact.**
 	- _Example: The crash produced a dent in the left side of the car._
 - **A type of maize/[[c/_corn|corn]] with a relatively soft outer hull, and a soft type of starch that shrinks at maturity to leave an indentation in the surface of the kernel.**
-- **(by extension) A sudden negative [[c/_change|change]], such as loss, [[d/_damage|damage]], weakening, [[c/_consumption|consumption]] or [[d/_diminution|diminution]], especially one produced by an external force, event or [[a/_action|action]]**
+- **(by extension) A sudden negative [[c/_change|change]], such as loss, [[d/_damage|damage]], weakening, [[c/_consumption|consumption]] or [[d/_diminution|diminution]], [[e/_especially|especially]] one produced by an external force, event or [[a/_action|action]]**
 	- _Example: That purchase put a bit of a dent in my wallet._
 ---
 #verb

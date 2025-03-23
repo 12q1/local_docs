@@ -5,5 +5,5 @@
 - **A second marriage [[a/_after|after]] the [[d/_death|death]] of a spouse.**
 ---
 ### Synonyms
-- [[deuterogamy]], [[digamy]]
+- [[d/_deuterogamy|deuterogamy]], [[d/_digamy|digamy]]
 ---

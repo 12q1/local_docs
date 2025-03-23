@@ -7,5 +7,5 @@
 	- _Example: I'm competing in two dressages and a jumping show this weekend._
 ---
 ### Synonyms
-- [[ballet on horseback]], [[classical dressage]], [[flatwork]], [[haute ecole]], [[training]]
+- [[f/_flatwork|flatwork]], [[t/_training|training]]
 ---

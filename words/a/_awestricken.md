@@ -4,5 +4,5 @@
 - **Filled with [[a/_awe|awe]].**
 ---
 ### Synonyms
-- [[awed]], [[awestruck]]
+- [[a/_awed|awed]], [[a/_awestruck|awestruck]]
 ---

@@ -4,5 +4,5 @@
 - **To [[d/_dissuade|dissuade]].**
 ---
 ### Antonyms
-- [[encourage]], [[exhort]], [[persuade]], [[urge]]
+- [[e/_encourage|encourage]], [[e/_exhort|exhort]], [[p/_persuade|persuade]], [[u/_urge|urge]]
 ---

@@ -9,5 +9,5 @@
 - **Of or pertaining to the [[a/_aspect|aspect]] of a verb that expresses [[c/_continuing|continuing]] [[a/_action|action]]; [[c/_continuative|continuative]]. Part of the imperfective [[a/_aspect|aspect]], as opposed to the perfective [[a/_aspect|aspect]], of verbs.**
 ---
 ### Synonyms
-- [[diuturnal]], [[prolonged]]
+- [[d/_diuturnal|diuturnal]], [[p/_prolonged|prolonged]]
 ---

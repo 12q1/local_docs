@@ -6,5 +6,5 @@
 - **A [[c/_charge|charge]] made for exchanging [[c/_currency|currency]] for [[b/_bullion|bullion]]**
 ---
 ### Antonyms
-- [[despatch]]
+- [[d/_despatch|despatch]]
 ---

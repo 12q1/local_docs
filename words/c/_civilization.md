@@ -12,7 +12,7 @@
 - **The [[a/_act|act]] of rendering a [[c/_criminal|criminal]] process [[c/_civil|civil]].**
 ---
 ### Synonyms
-- [[acculturation]], [[education]], [[sphere]], [[culture]], [[order]], [[home]], [[the land of the living]]
+- [[a/_acculturation|acculturation]], [[e/_education|education]], [[s/_sphere|sphere]], [[c/_culture|culture]], [[o/_order|order]], [[h/_home|home]]
 #propernoun
 - **[[c/_collectively|Collectively]], those people of the world [[c/_considered|considered]] to have a high standard of [[b/_behavior|behavior]] and / or a high level of [[d/_development|development]]. [[c/_commonly|Commonly]] subjectively used by people of one society to exclusively refer to their society, or their [[e/_elite|elite]] sub-group, or a few [[a/_associated|associated]] societies, implying [[a/_all|all]] others, in time or geography or status, as something less than [[c/_civilised|civilised]], as savages or [[b/_barbarians|barbarians]]. [[c/_cf|cf]] refinement, [[e/_elitism|elitism]], [[c/_civilised|civilised]] society, the [[c/_civilised|Civilised]] World**
 ---

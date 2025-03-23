@@ -7,5 +7,5 @@
 - **Not inclined; having a [[d/_disinclination|disinclination]]; [[b/_being|being]] unwilling.**
 ---
 ### Antonyms
-- [[inclined]]
+- [[i/_inclined|inclined]]
 ---

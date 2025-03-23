@@ -5,5 +5,5 @@
 - **A force or influence that [[b/_balances|balances]], [[c/_checks|checks]] or limits an opposite one.**
 ---
 ### Synonyms
-- [[counterpoise]], [[counterweight]]
+- [[c/_counterpoise|counterpoise]], [[c/_counterweight|counterweight]]
 ---

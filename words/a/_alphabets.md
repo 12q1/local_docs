@@ -10,10 +10,10 @@
 - **The simplest rudiments; [[e/_elements|elements]].**
 ---
 ### Synonyms
-- [[ABC]], [[absey]]
+- [[A/_ABC|ABC]], [[a/_absey|absey]]
 #verb
 - **To [[d/_designate|designate]] by the letters of the [[a/_alphabet|alphabet]]; to [[a/_arrange|arrange]] [[a/_alphabetically|alphabetically]].**
 ---
 ### Synonyms
-- [[alphabetize]]
+- [[a/_alphabetize|alphabetize]]
 ---

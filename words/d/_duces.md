@@ -6,5 +6,5 @@
 - **The subject of a fugue, [[a/_answered|answered]] by the [[c/_comes|comes]].**
 ---
 ### Synonyms
-- [[valedictorian]]
+- [[v/_valedictorian|valedictorian]]
 ---

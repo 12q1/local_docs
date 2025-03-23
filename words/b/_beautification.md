@@ -5,5 +5,5 @@
 	- _Example: Thanks to the beautification efforts, the appearance of the highway has vastly improved._
 ---
 ### Antonyms
-- [[uglification]]
+- [[u/_uglification|uglification]]
 ---

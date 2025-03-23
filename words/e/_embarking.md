@@ -6,13 +6,13 @@
 - **To start, [[b/_begin|begin]].**
 	- _Example: Phil embarked on his journey yesterday._
 - **To [[c/_cause|cause]] to go on [[b/_board|board]] a vessel or [[b/_boat|boat]]; to put on shipboard.**
-- **To [[e/_engage|engage]], [[e/_enlist|enlist]], or invest (as persons, money, etc.) in [[a/_any|any]] [[a/_affair|affair]].**
+- **To [[e/_engage|engage]], [[e/_enlist|enlist]], or invest (as persons, money, [[e/_etc|etc]].) in [[a/_any|any]] [[a/_affair|affair]].**
 	- _Example: He embarked his fortune in trade._
 ---
 ### Synonyms
-- [[make sail]]
+- 
 ### Antonyms
-- [[disembark]]
+- [[d/_disembark|disembark]]
 #noun
 - **An [[e/_embarkation|embarkation]].**
 ---

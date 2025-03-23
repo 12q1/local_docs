@@ -9,5 +9,5 @@
 - **Intoxicated**
 ---
 ### Synonyms
-- [[smitten]]
+- [[s/_smitten|smitten]]
 ---

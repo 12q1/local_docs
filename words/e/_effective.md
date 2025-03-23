@@ -16,5 +16,5 @@
 - **(for [[a/_any|any]] [[e/_effective|effective]] theory) [[a/_approximate|approximate]]; Not [[d/_describing|describing]] the fundamental [[d/_dynamic|dynamic]] [[c/_changes|changes]] in some system as they happen.**
 ---
 ### Synonyms
-- [[efficacious]]
+- [[e/_efficacious|efficacious]]
 ---

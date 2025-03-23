@@ -7,7 +7,7 @@
 	- _Example: The browser is standards-compliant._
 ---
 ### Synonyms
-- [[bending]], [[pliant]], [[yielding]], [[conformant]]
+- [[b/_bending|bending]], [[p/_pliant|pliant]], [[y/_yielding|yielding]], [[c/_conformant|conformant]]
 ### Antonyms
-- [[non-compliant]], [[noncompliant]]
+- [[n/_non-compliant|non-compliant]], [[n/_noncompliant|noncompliant]]
 ---

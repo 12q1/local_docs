@@ -23,7 +23,7 @@
 - **To make a move which puts an [[a/_adversary|adversary]]'s king in [[c/_check|check]]; to put in [[c/_check|check]].**
 - **To [[c/_chide|chide]], rebuke, or reprove.**
 - **To slack or [[e/_ease|ease]] off, as a [[b/_brace|brace]] which is too stiffly extended.**
-- **To [[c/_crack|crack]] or gape open, as wood in [[d/_drying|drying]]; or to [[c/_crack|crack]] in small [[c/_checks|checks]], as varnish, paint, etc.**
+- **To [[c/_crack|crack]] or gape open, as wood in [[d/_drying|drying]]; or to [[c/_crack|crack]] in small [[c/_checks|checks]], as varnish, paint, [[e/_etc|etc]].**
 - **To make [[c/_checks|checks]] or [[c/_chinks|chinks]] in; to [[c/_cause|cause]] to [[c/_crack|crack]].**
 	- _Example: The sun checks timber._
 - **To make a stop; to pause; with at.**
@@ -32,9 +32,9 @@
 - **To turn, when in pursuit of proper game, and fly [[a/_after|after]] other [[b/_birds|birds]].**
 ---
 ### Synonyms
-- [[attack]], [[tackle]], [[trap]], [[check off]], [[cross off]], [[strike off]], [[tick]], [[tick off]], [[curtail]], [[restrain]]
+- [[a/_attack|attack]], [[t/_tackle|tackle]], [[t/_trap|trap]], [[t/_tick|tick]], [[c/_curtail|curtail]], [[r/_restrain|restrain]]
 ### Antonyms
-- [[uncheck]]
+- [[u/_uncheck|uncheck]]
 #verb
 - **To mark with a [[c/_check|check]] pattern.**
 ---

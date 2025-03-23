@@ -9,13 +9,13 @@
 - **The flared [[e/_end|end]] of a [[b/_brass|brass]] or woodwind instrument.**
 - **[[a/_any|Any]] of a series of strokes on a [[b/_bell|bell]] (or similar), struck every half hour to indicate the time (within a four hour watch)**
 - **The flared [[e/_end|end]] of a pipe, [[d/_designed|designed]] to mate with a narrow spigot.**
-- **A [[d/_device|device]] [[c/_control|control]] [[c/_code|code]] that produces a [[b/_beep|beep]] (or rings a small [[e/_electromechanical|electromechanical]] [[b/_bell|bell]] on older teleprinters etc.).**
+- **A [[d/_device|device]] [[c/_control|control]] [[c/_code|code]] that produces a [[b/_beep|beep]] (or rings a small [[e/_electromechanical|electromechanical]] [[b/_bell|bell]] on older teleprinters [[e/_etc|etc]].).**
 - **[[a/_anything|Anything]] shaped like a [[b/_bell|bell]], such as the [[c/_cup|cup]] or [[c/_corolla|corolla]] of a flower.**
 - **The part of the [[c/_capital|capital]] of a [[c/_column|column]] included [[b/_between|between]] the [[a/_abacus|abacus]] and neck molding; [[a/_also|also]] used for the naked [[c/_core|core]] of nearly [[c/_cylindrical|cylindrical]] shape, [[a/_assumed|assumed]] to exist within the leafage of a [[c/_capital|capital]].**
 - **An instrument situated on a [[b/_bicycle|bicycle]]'s handlebar, used by the [[c/_cyclist|cyclist]] to warn of his or her presence.**
 ---
 ### Synonyms
-- [[campane]], [[tintinnabule]]
+- [[c/_campane|campane]], [[t/_tintinnabule|tintinnabule]]
 #verb
 - **To [[a/_attach|attach]] a [[b/_bell|bell]] to.**
 	- _Example: Who will bell the cat?_

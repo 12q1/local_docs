@@ -8,5 +8,5 @@
 - **One who [[b/_believes|believes]] that microorganisms [[c/_cause|cause]] [[d/_disease|disease]].**
 ---
 ### Synonyms
-- [[animalier]]
+- [[a/_animalier|animalier]]
 ---

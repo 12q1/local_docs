@@ -1,8 +1,8 @@
 # Disapprobation
 ---
 #noun
-- **An [[a/_act|act]] or expression of [[c/_condemnation|condemnation]] or [[d/_disapproval|disapproval]], especially on moral grounds.**
+- **An [[a/_act|act]] or expression of [[c/_condemnation|condemnation]] or [[d/_disapproval|disapproval]], [[e/_especially|especially]] on moral grounds.**
 ---
 ### Antonyms
-- [[approbation]]
+- [[a/_approbation|approbation]]
 ---

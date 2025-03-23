@@ -6,5 +6,5 @@
 - **[[c/_causing|Causing]] major [[c/_change|change]], as in a market.**
 ---
 ### Antonyms
-- [[non-disruptive]], [[nondisruptive]]
+- [[n/_non-disruptive|non-disruptive]], [[n/_nondisruptive|nondisruptive]]
 ---

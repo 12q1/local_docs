@@ -6,5 +6,5 @@
 - **To mark with a written [[a/_accent|accent]].**
 ---
 ### Synonyms
-- [[accent]], [[betone]]
+- [[a/_accent|accent]], [[b/_betone|betone]]
 ---

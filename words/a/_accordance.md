@@ -5,5 +5,5 @@
 - **The [[a/_act|act]] of granting something.**
 ---
 ### Synonyms
-- [[coincidence]], [[harmony]], [[unison]]
+- [[c/_coincidence|coincidence]], [[h/_harmony|harmony]], [[u/_unison|unison]]
 ---

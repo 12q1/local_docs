@@ -5,7 +5,7 @@
 - **The symbol ∂, in the [[c/_context|context]] of a partial [[d/_differential|differential]]**
 ---
 ### Synonyms
-- [[atled]], [[nabla]]
+- [[a/_atled|atled]], [[n/_nabla|nabla]]
 #noun
 - **A part, portion**
 ---

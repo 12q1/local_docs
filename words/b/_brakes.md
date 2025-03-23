@@ -4,7 +4,7 @@
 - **A fern; [[b/_bracken|bracken]].**
 ---
 #noun
-- **A thicket, or an [[a/_area|area]] overgrown with [[b/_briers|briers]] etc.**
+- **A thicket, or an [[a/_area|area]] overgrown with [[b/_briers|briers]] [[e/_etc|etc]].**
 ---
 #noun
 - **A tool used for [[b/_breaking|breaking]] flax or hemp.**
@@ -26,13 +26,13 @@
 - **That part of a [[c/_carriage|carriage]], as of a movable [[b/_battery|battery]], or [[e/_engine|engine]], which [[e/_enables|enables]] it to turn.**
 ---
 ### Synonyms
-- [[swipe]]
+- [[s/_swipe|swipe]]
 #verb
 - **To operate (a) [[b/_brake|brake]](s).**
 - **To be stopped or slowed (as if) by [[b/_braking|braking]].**
 ---
 ### Antonyms
-- [[accelerate]], [[floor it]], [[put the pedal to the metal]], [[redline]]
+- [[a/_accelerate|accelerate]], [[r/_redline|redline]]
 #noun
 - **A [[c/_cage|cage]].**
 - **A type of torture instrument.**

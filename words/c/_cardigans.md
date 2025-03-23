@@ -4,5 +4,5 @@
 - **A type of sweater or jumper that fastens up the front with [[b/_buttons|buttons]] or a zipper, usually machine- or hand-knitted from wool.**
 ---
 ### Synonyms
-- [[cardi]], [[cardie]], [[cardy]]
+- [[c/_cardi|cardi]], [[c/_cardie|cardie]], [[c/_cardy|cardy]]
 ---

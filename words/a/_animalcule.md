@@ -6,5 +6,5 @@
 - **A spermatozoon.**
 ---
 ### Synonyms
-- [[animalculum]]
+- [[a/_animalculum|animalculum]]
 ---

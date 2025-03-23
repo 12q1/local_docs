@@ -11,7 +11,7 @@
 - **To [[c/_cast|cast]] from supertype to subtype.**
 ---
 ### Antonyms
-- [[upcast]]
+- [[u/_upcast|upcast]]
 #adjective
 - **(of [[e/_eyes|eyes]]) Looking [[d/_downwards|downwards]].**
 - **(of a person) Feeling [[d/_despondent|despondent]].**

@@ -5,5 +5,5 @@
 	- _Example: The two species have some anatomical similarities._
 ---
 ### Synonyms
-- [[anatomic]]
+- [[a/_anatomic|anatomic]]
 ---

@@ -27,7 +27,7 @@
 - **(gay sexual slang) (of a homosexual man) [[e/_enjoying|enjoying]] a role in [[a/_anal|anal]] sex in which he penetrates, rather than [[b/_being|being]] penetrated by his partner.**
 ---
 ### Synonyms
-- [[acting]], [[agile]], [[nimble]], [[busy]], [[deedful]], [[diligent]], [[energetic]], [[in action]], [[in force]], [[working]], [[operative]], [[top]]
+- [[a/_acting|acting]], [[a/_agile|agile]], [[n/_nimble|nimble]], [[b/_busy|busy]], [[d/_deedful|deedful]], [[d/_diligent|diligent]], [[e/_energetic|energetic]], [[w/_working|working]], [[o/_operative|operative]], [[t/_top|top]]
 ### Antonyms
-- [[bottom]], [[passive]], [[dormant]], [[extinct]], [[quiescent]], [[dull]], [[indolent]], [[inert]], [[sluggish]], [[indolent]], [[passive]], [[still]], [[passive]], [[passive]], [[sedentary]], [[tranquil]], [[passive]], [[slow]], [[speculative]], [[theoretical]]
+- [[b/_bottom|bottom]], [[p/_passive|passive]], [[d/_dormant|dormant]], [[e/_extinct|extinct]], [[q/_quiescent|quiescent]], [[d/_dull|dull]], [[i/_indolent|indolent]], [[i/_inert|inert]], [[s/_sluggish|sluggish]], [[i/_indolent|indolent]], [[p/_passive|passive]], [[s/_still|still]], [[p/_passive|passive]], [[p/_passive|passive]], [[s/_sedentary|sedentary]], [[t/_tranquil|tranquil]], [[p/_passive|passive]], [[s/_slow|slow]], [[s/_speculative|speculative]], [[t/_theoretical|theoretical]]
 ---

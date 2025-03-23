@@ -21,7 +21,7 @@
 - **To [[c/_cause|cause]] to be hot.**
 - **To smoke marijuana.**
 - **To harden by [[c/_cold|cold]].**
-- **To fix (lighting, reflections, etc.) as part of the texture of an object to improve rendering performance.**
+- **To fix (lighting, reflections, [[e/_etc|etc]].) as part of the texture of an object to improve rendering performance.**
 - **(with "in" or "into") To incorporate into something greater.**
 ---
 ---

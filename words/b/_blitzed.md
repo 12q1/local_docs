@@ -9,7 +9,7 @@
 - **To [[d/_do|do]] something quickly or in one session.**
 ---
 ### Synonyms
-- [[charge]], [[hurry]], [[zoom]], [[zhoosh]]
+- [[c/_charge|charge]], [[h/_hurry|hurry]], [[z/_zoom|zoom]], [[z/_zhoosh|zhoosh]]
 #adjective
 - **[[d/_drunk|Drunk]], wasted.**
 ---

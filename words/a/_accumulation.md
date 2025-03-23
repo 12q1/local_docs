@@ -11,7 +11,7 @@
 - **The practice of taking two higher [[d/_degrees|degrees]] simultaneously, to reduce the length of study.**
 ---
 ### Synonyms
-- [[retained earnings]]
+- 
 ### Antonyms
-- [[decumulation]]
+- [[d/_decumulation|decumulation]]
 ---

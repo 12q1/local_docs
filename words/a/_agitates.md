@@ -11,7 +11,7 @@
 	- _Example: politicians agitate desperate designs_
 ---
 ### Synonyms
-- [[canvass]], [[debate]], [[discuss]], [[distract]], [[disturb]], [[excite]], [[move]], [[revolve]], [[rouse]], [[shake]]
+- [[c/_canvass|canvass]], [[d/_debate|debate]], [[d/_discuss|discuss]], [[d/_distract|distract]], [[d/_disturb|disturb]], [[e/_excite|excite]], [[m/_move|move]], [[r/_revolve|revolve]], [[r/_rouse|rouse]], [[s/_shake|shake]]
 ### Antonyms
-- [[appease]], [[calm]], [[quieten]]
+- [[a/_appease|appease]], [[c/_calm|calm]], [[q/_quieten|quieten]]
 ---

@@ -6,5 +6,5 @@
 - **[[d/_dearness|Dearness]]; the quality of [[b/_being|being]] rare or [[c/_costly|costly]].**
 ---
 ### Synonyms
-- [[famine]], [[shortage]], [[lack]], [[paucity]], [[scarcity]]
+- [[f/_famine|famine]], [[s/_shortage|shortage]], [[l/_lack|lack]], [[p/_paucity|paucity]], [[s/_scarcity|scarcity]]
 ---

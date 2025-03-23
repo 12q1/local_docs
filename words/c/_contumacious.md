@@ -5,5 +5,5 @@
 - **Willfully [[d/_disobedient|disobedient]] to the summons or orders of a [[c/_court|court]].**
 ---
 ### Synonyms
-- [[disobedient]], [[insubordinate]], [[obstinate]], [[perverse]], [[rebellious]], [[stubborn]]
+- [[d/_disobedient|disobedient]], [[i/_insubordinate|insubordinate]], [[o/_obstinate|obstinate]], [[p/_perverse|perverse]], [[r/_rebellious|rebellious]], [[s/_stubborn|stubborn]]
 ---

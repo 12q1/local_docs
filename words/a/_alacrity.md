@@ -5,7 +5,7 @@
 - **Promptness; speed.**
 ---
 ### Synonyms
-- [[avidity]], [[eagerness]], [[enthusiasm]], [[willingness]], [[briskness]], [[celerity]], [[haste]], [[promptness]], [[quickness]], [[swiftness]]
+- [[a/_avidity|avidity]], [[e/_eagerness|eagerness]], [[e/_enthusiasm|enthusiasm]], [[w/_willingness|willingness]], [[b/_briskness|briskness]], [[c/_celerity|celerity]], [[h/_haste|haste]], [[p/_promptness|promptness]], [[q/_quickness|quickness]], [[s/_swiftness|swiftness]]
 ### Antonyms
-- [[apathy]], [[disinclination]], [[hesitance]], [[indifference]], [[reluctance]]
+- [[a/_apathy|apathy]], [[d/_disinclination|disinclination]], [[h/_hesitance|hesitance]], [[i/_indifference|indifference]], [[r/_reluctance|reluctance]]
 ---

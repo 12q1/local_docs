@@ -1,7 +1,7 @@
 # Custody
 ---
 #noun
-- **The legal right to take [[c/_care|care]] of something or somebody, especially [[c/_children|children]].**
+- **The legal right to take [[c/_care|care]] of something or somebody, [[e/_especially|especially]] [[c/_children|children]].**
 	- _Example: The court awarded custody to the child's father._
 - **Temporary possession or [[c/_care|care]] of somebody [[e/_else|else]]'s property.**
 	- _Example: I couldn't pay the bill and now my passport is in custody of the hotel management._

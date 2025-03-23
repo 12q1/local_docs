@@ -7,7 +7,7 @@
 #adjective
 - **In a natural, untreated state.**
 	- _Example: crude oil_
-- **[[c/_characterized|Characterized]] by simplicity, especially something not [[c/_carefully|carefully]] or expertly made.**
+- **[[c/_characterized|Characterized]] by simplicity, [[e/_especially|especially]] something not [[c/_carefully|carefully]] or expertly made.**
 	- _Example: a crude shelter_
 - **Lacking [[c/_concealing|concealing]] [[e/_elements|elements]].**
 	- _Example: a crude truth_
@@ -17,7 +17,7 @@
 - **(grammar) Pertaining to the uninflected stem of a word.**
 ---
 ### Synonyms
-- [[raw]], [[blunt]], [[immature]], [[unripe]], [[obvious]], [[primitive]], [[raw]]
+- [[r/_raw|raw]], [[b/_blunt|blunt]], [[i/_immature|immature]], [[u/_unripe|unripe]], [[o/_obvious|obvious]], [[p/_primitive|primitive]], [[r/_raw|raw]]
 ### Antonyms
-- [[processed]], [[refined]]
+- [[p/_processed|processed]], [[r/_refined|refined]]
 ---

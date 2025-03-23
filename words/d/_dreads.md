@@ -7,5 +7,5 @@
 - **[[d/_dreadlocks|Dreadlocks]]**
 ---
 ### Synonyms
-- [[dreadlocks]], [[locks]]
+- [[d/_dreadlocks|dreadlocks]], [[l/_locks|locks]]
 ---

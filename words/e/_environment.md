@@ -11,5 +11,5 @@
 - **The set of variables and their values in a namespace that an operating system [[a/_associates|associates]] with a process.**
 ---
 ### Synonyms
-- [[umbworld]]
+- [[u/_umbworld|umbworld]]
 ---

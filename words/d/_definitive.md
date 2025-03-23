@@ -5,7 +5,7 @@
 - **An ordinary postage stamp that is part of a series of [[a/_all|all]] [[d/_denominations|denominations]] or is reprinted as needed to meet [[d/_demand|demand]]**
 ---
 ### Synonyms
-- [[definitive stamp]]
+- 
 #adjective
 - **Explicitly [[d/_defined|defined]]**
 - **[[c/_conclusive|Conclusive]] or [[d/_decisive|decisive]]**

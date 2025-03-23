@@ -5,5 +5,5 @@
 	- _Example: He took a few cautious steps toward the cave._
 ---
 ### Antonyms
-- [[careless]], [[incautious]], [[neglecting]], [[uncautious]]
+- [[c/_careless|careless]], [[i/_incautious|incautious]], [[n/_neglecting|neglecting]], [[u/_uncautious|uncautious]]
 ---

@@ -9,5 +9,5 @@
 	- _Example: For dessert, the hosts treated us to a helping of boozy apple pie._
 ---
 ### Synonyms
-- [[drunk]], [[sottish]]
+- [[d/_drunk|drunk]], [[s/_sottish|sottish]]
 ---

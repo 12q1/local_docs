@@ -1,7 +1,7 @@
 # Burnouts
 ---
 #noun
-- **The experience of long-term exhaustion and [[d/_diminished|diminished]] interest, especially in one's [[c/_career|career]].**
+- **The experience of long-term exhaustion and [[d/_diminished|diminished]] interest, [[e/_especially|especially]] in one's [[c/_career|career]].**
 - **A marijuana [[a/_addict|addict]]; one whose [[b/_brains|brains]] have [[b/_been|been]] [[b/_burned|burned]] out.**
 - **The shutoff of a rocket motor following the [[c/_complete|complete]] exhaustion of its fuel supply, or having [[b/_been|been]] irreversibly throttled [[a/_after|after]] the [[a/_application|application]] of a planned [[d/_delta|delta]]-v.**
 - **The failure of an [[e/_electrical|electrical]] [[d/_device|device]], usually through overheating [[d/_due|due]] to the [[a/_application|application]] of excessive power.**

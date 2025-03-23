@@ -4,5 +4,5 @@
 - **One who [[c/_comments|comments]].**
 ---
 ### Synonyms
-- [[commentator]]
+- [[c/_commentator|commentator]]
 ---

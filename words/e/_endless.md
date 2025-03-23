@@ -8,7 +8,7 @@
 - **Without profitable [[e/_end|end]]; fruitless; unsatisfying.**
 ---
 ### Synonyms
-- [[eternal]], [[infinite]], [[unlimited]], [[unending]]
+- [[e/_eternal|eternal]], [[i/_infinite|infinite]], [[u/_unlimited|unlimited]], [[u/_unending|unending]]
 ### Antonyms
-- [[finite]], [[limited]]
+- [[f/_finite|finite]], [[l/_limited|limited]]
 ---

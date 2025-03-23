@@ -11,7 +11,7 @@
 - **To [[c/_crouch|crouch]]; to [[c/_cringe|cringe]].**
 ---
 ### Synonyms
-- [[bow]], [[flex]], [[incurvate]], [[behedge]], [[curtail]], [[limit]], [[bend]], [[fawn]], [[stoop]], [[curb stomp]]
+- [[b/_bow|bow]], [[f/_flex|flex]], [[i/_incurvate|incurvate]], [[b/_behedge|behedge]], [[c/_curtail|curtail]], [[l/_limit|limit]], [[b/_bend|bend]], [[f/_fawn|fawn]], [[s/_stoop|stoop]]
 #noun
 - **A row of [[c/_curbstones|curbstones]]; the material used to [[c/_construct|construct]] such a [[c/_curb|curb]]**
 - **The [[d/_damage|damage]] [[c/_caused|caused]] to a wheel or tire by [[c/_curbing|curbing]] (running the wheel or tire into or over a [[c/_curb|curb]]).**

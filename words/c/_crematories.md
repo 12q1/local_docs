@@ -1,6 +1,6 @@
 # Crematories
 ---
 #noun
-- **The establishment or furnace that [[c/_cremates|cremates]] [[b/_bodies|bodies]].**
+- **The [[e/_establishment|establishment]] or furnace that [[c/_cremates|cremates]] [[b/_bodies|bodies]].**
 ---
 ---

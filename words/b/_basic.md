@@ -9,7 +9,7 @@
 	- _Example: The drill sergeants gave him hell in basic._
 ---
 #adjective
-- **Necessary, essential for life or some process.**
+- **Necessary, [[e/_essential|essential]] for life or some process.**
 	- _Example: Flour is a basic ingredient of bread._
 - **[[e/_elementary|Elementary]], simple, fundamental, merely functional.**
 	- _Example: The Hotel Sparta’s accommodation is very basic._
@@ -17,7 +17,7 @@
 - **Unremarkable or uninteresting; [[b/_boring|boring]]; uncool.**
 ---
 ### Synonyms
-- [[alkaline]]
+- [[a/_alkaline|alkaline]]
 ### Antonyms
-- [[acidic]]
+- [[a/_acidic|acidic]]
 ---

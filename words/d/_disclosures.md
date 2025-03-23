@@ -7,7 +7,7 @@
 - **A previously hidden fact or series of facts that is made known.**
 ---
 ### Synonyms
-- [[revelation]]
+- [[r/_revelation|revelation]]
 ### Antonyms
-- [[closure]]
+- [[c/_closure|closure]]
 ---

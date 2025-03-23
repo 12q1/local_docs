@@ -9,5 +9,5 @@
 - **Sexual intercourse.**
 ---
 ### Synonyms
-- [[connection]], [[union]]
+- [[c/_connection|connection]], [[u/_union|union]]
 ---

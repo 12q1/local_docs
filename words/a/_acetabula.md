@@ -11,5 +11,5 @@
 - **(Roman [[a/_antiquities|Antiquities]]) A measure of [[a/_about|about]] one [[e/_eighth|eighth]] of a pint.**
 ---
 ### Synonyms
-- [[cotyloid cavity]]
+- 
 ---

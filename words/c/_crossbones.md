@@ -1,6 +1,6 @@
 # Crossbones
 ---
 #noun
-- **A representation of two [[b/_bones|bones]] [[c/_crossed|crossed]] [[d/_diagonally|diagonally]], especially as a symbol of [[d/_danger|danger]] or [[d/_death|death]]**
+- **A representation of two [[b/_bones|bones]] [[c/_crossed|crossed]] [[d/_diagonally|diagonally]], [[e/_especially|especially]] as a symbol of [[d/_danger|danger]] or [[d/_death|death]]**
 ---
 ---

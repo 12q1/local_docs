@@ -7,5 +7,5 @@
 - **To [[a/_astonish|astonish]], [[a/_amaze|amaze]].**
 ---
 ### Synonyms
-- [[forspeak]]
+- [[f/_forspeak|forspeak]]
 ---

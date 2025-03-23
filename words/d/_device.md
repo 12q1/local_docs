@@ -1,7 +1,7 @@
 # Device
 ---
 #noun
-- **[[a/_any|Any]] piece of [[e/_equipment|equipment]] made for a particular purpose, especially a mechanical or [[e/_electrical|electrical]] one.**
+- **[[a/_any|Any]] piece of [[e/_equipment|equipment]] made for a particular purpose, [[e/_especially|especially]] a mechanical or [[e/_electrical|electrical]] one.**
 	- _Example: There are a number of household devices in a kitchen such as a dishwasher, a garbage disposal, or an electric can opener._
 - **A peripheral [[d/_device|device]]; an item of hardware.**
 - **A project or scheme, often [[d/_designed|designed]] to [[d/_deceive|deceive]]; a stratagem; an [[a/_artifice|artifice]].**
@@ -15,5 +15,5 @@
 - **Opinion; [[d/_decision|decision]].**
 ---
 ### Synonyms
-- [[contrivance]], [[invention]], [[apparatus]], [[appliance]], [[contrivance]], [[design]], [[equipment]], [[gadget]], [[artifice]], [[project]], [[scheme]], [[stratagem]]
+- [[c/_contrivance|contrivance]], [[i/_invention|invention]], [[a/_apparatus|apparatus]], [[a/_appliance|appliance]], [[c/_contrivance|contrivance]], [[d/_design|design]], [[e/_equipment|equipment]], [[g/_gadget|gadget]], [[a/_artifice|artifice]], [[p/_project|project]], [[s/_scheme|scheme]], [[s/_stratagem|stratagem]]
 ---

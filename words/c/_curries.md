@@ -2,11 +2,11 @@
 ---
 #noun
 - **One of a family of [[d/_dishes|dishes]] originating from South [[a/_asian|Asian]] [[c/_cuisine|cuisine]], flavoured by a spiced sauce.**
-- **A spiced sauce or relish, especially one flavoured with [[c/_curry|curry]] powder.**
+- **A spiced sauce or relish, [[e/_especially|especially]] one flavoured with [[c/_curry|curry]] powder.**
 - **[[c/_curry|Curry]] powder.**
 ---
 ### Synonyms
-- [[Ruby Murray]], [[curry powder]]
+- 
 #verb
 - **To [[c/_cook|cook]] or season with [[c/_curry|curry]] powder.**
 ---
@@ -29,14 +29,14 @@
 	- _Example: Michelangelo personally quarried marble from the world-famous quarry at Carrara._
 ---
 ### Synonyms
-- [[delf]]
+- [[d/_delf|delf]]
 #noun
 - **A part of the [[e/_entrails|entrails]] of a hunted [[a/_animal|animal]], given to the hounds as a reward.**
 - **An [[a/_animal|animal]], often a [[b/_bird|bird]] or mammal, which is hunted.**
 - **An object of search or pursuit.**
 ---
 ### Synonyms
-- [[mark]], [[prey]], [[target]]
+- [[m/_mark|mark]], [[p/_prey|prey]], [[t/_target|target]]
 #noun
 - **A [[d/_diamond|diamond]]-shaped tile or pane, often of glass or stone.**
 ---

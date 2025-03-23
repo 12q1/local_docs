@@ -8,7 +8,7 @@
 - **To [[d/_defile|defile]] by [[a/_adultery|adultery]].**
 ---
 ### Synonyms
-- [[debase]]
+- [[d/_debase|debase]]
 #adjective
 - **Tending to [[c/_commit|commit]] [[a/_adultery|adultery]].**
 - **[[c/_corrupted|Corrupted]]; impure; [[a/_adulterated|adulterated]].**

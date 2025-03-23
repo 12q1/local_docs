@@ -9,5 +9,5 @@
 - **To be exposed to great heat.**
 ---
 ### Synonyms
-- [[grill]]
+- [[g/_grill|grill]]
 ---

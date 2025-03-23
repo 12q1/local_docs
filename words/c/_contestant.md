@@ -5,5 +5,5 @@
 - **One who [[b/_brings|brings]] a legal [[c/_challenge|challenge]].**
 ---
 ### Synonyms
-- [[competitor]]
+- [[c/_competitor|competitor]]
 ---

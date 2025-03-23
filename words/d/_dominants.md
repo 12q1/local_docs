@@ -8,5 +8,5 @@
 - **(BDSM) The [[d/_dominating|dominating]] partner in sadomasochistic sexual [[a/_activity|activity]].**
 ---
 ### Synonyms
-- [[dominator]]
+- [[d/_dominator|dominator]]
 ---

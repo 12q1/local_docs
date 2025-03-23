@@ -5,5 +5,5 @@
 - **A [[c/_cover|cover]] for a quilt or [[c/_comforter|comforter]].**
 ---
 ### Synonyms
-- [[continental quilt]], [[doona]], [[quilt]]
+- [[d/_doona|doona]], [[q/_quilt|quilt]]
 ---

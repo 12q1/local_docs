@@ -7,5 +7,5 @@
 - **[[a/_any|Any]] process, prolongation or projection.**
 ---
 ### Synonyms
-- [[addition]], [[attachment]]
+- [[a/_addition|addition]], [[a/_attachment|attachment]]
 ---

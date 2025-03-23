@@ -7,7 +7,7 @@
 - **To [[b/_become|become]] soiled.**
 ---
 ### Synonyms
-- [[soil]], [[taint]], [[sully]]
+- [[s/_soil|soil]], [[t/_taint|taint]], [[s/_sully|sully]]
 #noun
 - **A soiling or making [[d/_dirty|dirty]].**
 ---

@@ -9,5 +9,5 @@
 	- _Example: All of my records are categorized._
 ---
 ### Antonyms
-- [[uncategorized]]
+- [[u/_uncategorized|uncategorized]]
 ---

@@ -7,7 +7,7 @@
 - **Pleasing, flattering.**
 ---
 ### Synonyms
-- [[crystallized]]
+- [[c/_crystallized|crystallized]]
 #verb
 - **To [[c/_cook|cook]] in, or [[c/_coat|coat]] with, sugar syrup.**
 - **To have sugar [[c/_crystals|crystals]] form in or on.**

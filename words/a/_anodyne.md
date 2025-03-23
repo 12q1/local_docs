@@ -11,5 +11,5 @@
 - **(by extension) noncontentious, [[b/_blandly|blandly]] [[a/_agreeable|agreeable]], unlikely to [[c/_cause|cause]] offence or [[d/_debate|debate]]**
 ---
 ### Synonyms
-- [[bland]], [[inoffensive]], [[noncontentious]]
+- [[b/_bland|bland]], [[i/_inoffensive|inoffensive]], [[n/_noncontentious|noncontentious]]
 ---

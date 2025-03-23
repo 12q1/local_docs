@@ -9,5 +9,5 @@
 - **To transport (someone) in a motor vehicle.**
 ---
 ### Synonyms
-- [[bring]], [[shuttle]], [[transport]]
+- [[b/_bring|bring]], [[s/_shuttle|shuttle]], [[t/_transport|transport]]
 ---

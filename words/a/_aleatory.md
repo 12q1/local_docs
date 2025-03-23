@@ -5,5 +5,5 @@
 - **Of or pertaining to works that have [[b/_been|been]] produced with an [[e/_element|element]] of [[c/_chance|chance]] (aleatoricism).**
 ---
 ### Synonyms
-- [[random]], [[stochastic]]
+- [[r/_random|random]], [[s/_stochastic|stochastic]]
 ---

@@ -1,8 +1,8 @@
 # Dell
 ---
 #noun
-- **A valley, especially in the form of a natural hollow, small and [[d/_deep|deep]].**
+- **A valley, [[e/_especially|especially]] in the form of a natural hollow, small and [[d/_deep|deep]].**
 ---
 ### Synonyms
-- [[dale]], [[dingle]], [[vale]], [[valley]]
+- [[d/_dale|dale]], [[d/_dingle|dingle]], [[v/_vale|vale]], [[v/_valley|valley]]
 ---

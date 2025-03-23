@@ -6,5 +6,5 @@
 - **The [[a/_act|act]] of looking forward to a future event**
 ---
 ### Antonyms
-- [[pragmatism]]
+- [[p/_pragmatism|pragmatism]]
 ---

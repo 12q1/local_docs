@@ -7,5 +7,5 @@
 	- _Example: The roads gradually broadened as we drove into the countryside._
 ---
 ### Synonyms
-- [[extend]], [[widen]], [[widen]]
+- [[e/_extend|extend]], [[w/_widen|widen]], [[w/_widen|widen]]
 ---

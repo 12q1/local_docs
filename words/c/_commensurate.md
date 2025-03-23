@@ -9,5 +9,5 @@
 - **[[d/_describing|Describing]] a [[c/_crystal|crystal]] in which every [[a/_atom|atom]] or molecule is placed in the same relative position**
 ---
 ### Antonyms
-- [[discommensurate]], [[incommensurate]]
+- [[d/_discommensurate|discommensurate]], [[i/_incommensurate|incommensurate]]
 ---

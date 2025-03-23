@@ -6,7 +6,7 @@
 	- _Example: I don't know if she will be there, but it's worth a check._
 - **A [[c/_control|control]]; a limit or stop.**
 	- _Example: The castle moat should hold the enemy in check._
-- **A mark (especially a [[c/_checkmark|checkmark]]: ✓) used as an indicator.**
+- **A mark ([[e/_especially|especially]] a [[c/_checkmark|checkmark]]: ✓) used as an indicator.**
 	- _Example: Place a check by the things you have done._
 - **An order to a [[b/_bank|bank]] to pay money to a named person or [[e/_entity|entity]].**
 	- _Example: I was not carrying cash, so I wrote a check for the amount._
@@ -16,11 +16,11 @@
 	- _Example: The hockey player gave a good hard check to obtain the puck._
 - **A token used instead of [[c/_cash|cash]] in gaming machines, or in gambling generally.**
 - **A lengthwise separation through the growth rings in wood.**
-- **A mark, [[c/_certificate|certificate]] or token by which errors may be prevented, or a thing or person may be identified.**
+- **A mark, [[c/_certificate|certificate]] or token by which [[e/_errors|errors]] may be prevented, or a thing or person may be identified.**
 	- _Example: a check given for baggage_
 - **The forsaking by a hawk of its proper game to follow other [[b/_birds|birds]].**
 - **A small [[c/_chink|chink]] or [[c/_crack|crack]].**
 ---
 ### Synonyms
-- [[bill]], [[cheque]], [[checkmark]], [[tick]], [[cheque]]
+- [[b/_bill|bill]], [[c/_cheque|cheque]], [[c/_checkmark|checkmark]], [[t/_tick|tick]], [[c/_cheque|cheque]]
 ---

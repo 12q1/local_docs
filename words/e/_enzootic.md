@@ -9,5 +9,5 @@
 	- _Example: Rabies is enzootic throughout North America._
 ---
 ### Antonyms
-- [[epizootic]]
+- [[e/_epizootic|epizootic]]
 ---

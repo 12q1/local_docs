@@ -7,7 +7,7 @@
 - **The great [[a/_ant|ant]] thrush of Sumatra (Pitta gigas), which has a very short tail.**
 ---
 ### Synonyms
-- [[micron]]
+- [[m/_micron|micron]]
 ### Antonyms
-- [[macron]]
+- [[m/_macron|macron]]
 ---

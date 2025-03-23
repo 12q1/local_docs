@@ -7,5 +7,5 @@
 - **A [[b/_bubble|bubble]]-like inclusion of one mineral within [[a/_another|another]].**
 ---
 ### Synonyms
-- [[blister]], [[bubble]], [[blister]]
+- [[b/_blister|blister]], [[b/_bubble|bubble]], [[b/_blister|blister]]
 ---

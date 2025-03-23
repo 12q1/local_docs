@@ -5,5 +5,5 @@
 - **A similar lily in genus Hippeastrum, such as Hippeastrum puniceum, and [[c/_cultivars|cultivars]].**
 ---
 ### Synonyms
-- [[amarillo]], [[belladonna lily]], [[naked-lady-lily]]
+- [[a/_amarillo|amarillo]], [[n/_naked-lady-lily|naked-lady-lily]]
 ---

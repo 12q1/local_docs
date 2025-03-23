@@ -11,7 +11,7 @@
 - **A rapid sequence of punches or strikes in [[b/_boxing|boxing]] or other [[c/_combat|combat]] sports.**
 ---
 ### Synonyms
-- [[fusion]], [[merger]]
+- [[f/_fusion|fusion]], [[m/_merger|merger]]
 ### Antonyms
-- [[division]], [[separation]], [[permutation]]
+- [[d/_division|division]], [[s/_separation|separation]], [[p/_permutation|permutation]]
 ---

@@ -14,14 +14,14 @@
 - **A postseason football [[c/_competition|competition]], a [[b/_bowl|bowl]] game (i.[[e/_e|e]]. Rose [[b/_bowl|Bowl]], Super [[b/_bowl|Bowl]])**
 ---
 ### Synonyms
-- [[bowlful]], [[crater]], [[hollow]], [[bowl cut]], [[pudding bowl]]
+- [[b/_bowlful|bowlful]], [[c/_crater|crater]], [[h/_hollow|hollow]]
 #noun
 - **The [[b/_ball|ball]] rolled by players in the game of lawn [[b/_bowls|bowls]].**
 - **The [[a/_action|action]] of [[b/_bowling|bowling]] a [[b/_ball|ball]].**
 - **(in the plural, but used with a singular verb) The game of [[b/_bowls|bowls]].**
 ---
 ### Synonyms
-- [[lawn bowling]], [[lawn bowls]]
+- 
 #verb
 - **To roll or throw (a [[b/_ball|ball]]) in the [[c/_correct|correct]] manner in [[c/_cricket|cricket]] and similar games and sports.**
 - **To throw the [[b/_ball|ball]] (in [[c/_cricket|cricket]] and similar games and sports).**

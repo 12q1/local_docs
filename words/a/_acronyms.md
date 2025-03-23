@@ -5,7 +5,7 @@
 - **An [[a/_abbreviation|abbreviation]] formed by the [[b/_beginning|beginning]] letters or syllables of other words (as "[[b/_benelux|Benelux]]").**
 ---
 ### Synonyms
-- [[initialism]]
+- [[i/_initialism|initialism]]
 #verb
 - **To form into an [[a/_acronym|acronym]].**
 ---

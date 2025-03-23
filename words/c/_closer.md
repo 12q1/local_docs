@@ -31,7 +31,7 @@
 - **Marked, evident.**
 ---
 ### Synonyms
-- [[high]], [[close by]], [[near]], [[nearby]], [[muggy]], [[oppressive]], [[intimate]]
+- [[h/_high|high]], [[n/_near|near]], [[n/_nearby|nearby]], [[m/_muggy|muggy]], [[o/_oppressive|oppressive]], [[i/_intimate|intimate]]
 ### Antonyms
-- [[open]], [[distant]], [[far]], [[far off]], [[faraway]], [[remote]], [[aloof]], [[cool]], [[distant]]
+- [[o/_open|open]], [[d/_distant|distant]], [[f/_far|far]], [[f/_faraway|faraway]], [[r/_remote|remote]], [[a/_aloof|aloof]], [[c/_cool|cool]], [[d/_distant|distant]]
 ---

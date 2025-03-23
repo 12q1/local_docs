@@ -12,5 +12,5 @@
 - **To shut or fasten together with, or as if with, a [[c/_clasp|clasp]].**
 ---
 ### Synonyms
-- [[begrip]], [[grasp]], [[grip]], [[attach]], [[join]], [[put together]]
+- [[b/_begrip|begrip]], [[g/_grasp|grasp]], [[g/_grip|grip]], [[a/_attach|attach]], [[j/_join|join]]
 ---

@@ -2,7 +2,7 @@
 ---
 #verb
 - **To increase, to rise**
-- **To reach or [[c/_come|come]] to by way of increase; to [[a/_arise|arise]] or spring up [[b/_because|because]] of growth or result, especially as the produce of money lent.**
+- **To reach or [[c/_come|come]] to by way of increase; to [[a/_arise|arise]] or spring up [[b/_because|because]] of growth or result, [[e/_especially|especially]] as the produce of money lent.**
 - **To be incurred as a result of the passage of time.**
 	- _Example: The monthly financial statements show all the actual but only some of the accrued expenses._
 - **To [[a/_accumulate|accumulate]]**
@@ -10,9 +10,9 @@
 - **To [[b/_become|become]] an [[e/_enforceable|enforceable]] and permanent right.**
 ---
 ### Synonyms
-- [[add up]], [[rise]]
+- [[r/_rise|rise]]
 ### Antonyms
-- [[amortize]], [[defer]], [[prepay]]
+- [[a/_amortize|amortize]], [[d/_defer|defer]], [[p/_prepay|prepay]]
 #adjective
 - **Having increased through [[a/_accrual|accrual]]; having risen over time or [[d/_due|due]] to financial transactions.**
 ---

@@ -11,5 +11,5 @@
 - **Injury; [[d/_degradation|degradation]]; ruin.**
 ---
 ### Synonyms
-- [[advowtry]]
+- [[a/_advowtry|advowtry]]
 ---

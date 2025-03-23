@@ -1,8 +1,8 @@
 # Angekok
 ---
 #noun
-- **An Eskimo/Inuit sorcerer or shaman.**
+- **An [[e/_eskimo|Eskimo]]/Inuit sorcerer or shaman.**
 ---
 ### Synonyms
-- [[angakkuq]], [[angakok]], [[angatkuq]], [[angekkok]], [[angekut]]
+- [[a/_angakkuq|angakkuq]], [[a/_angakok|angakok]], [[a/_angatkuq|angatkuq]], [[a/_angekkok|angekkok]], [[a/_angekut|angekut]]
 ---

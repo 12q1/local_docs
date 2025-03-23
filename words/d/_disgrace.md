@@ -9,7 +9,7 @@
 - **An [[a/_act|act]] of unkindness; a [[d/_disfavor|disfavor]].**
 ---
 ### Synonyms
-- [[dishonor]], [[ignominy]], [[misgrace]]
+- [[d/_dishonor|dishonor]], [[i/_ignominy|ignominy]], [[m/_misgrace|misgrace]]
 #verb
 - **To put someone out of favor; to [[b/_bring|bring]] shame or ignominy upon.**
 ---

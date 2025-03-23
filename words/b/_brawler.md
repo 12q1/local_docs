@@ -5,5 +5,5 @@
 - **A [[b/_beat|beat]] '[[e/_em|em]] up game.**
 ---
 ### Synonyms
-- [[rooster]]
+- [[r/_rooster|rooster]]
 ---

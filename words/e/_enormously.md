@@ -6,5 +6,5 @@
 - **Shockingly.**
 ---
 ### Synonyms
-- [[greatly]], [[highly]], [[immensely]], [[vastly]], [[very]]
+- [[g/_greatly|greatly]], [[h/_highly|highly]], [[i/_immensely|immensely]], [[v/_vastly|vastly]], [[v/_very|very]]
 ---

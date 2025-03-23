@@ -13,7 +13,7 @@
 	- _Example: Nobody told me to do it. I did it of my own accord._
 ---
 ### Synonyms
-- [[assent]], [[consent]], [[treaty]]
+- [[a/_assent|assent]], [[c/_consent|consent]], [[t/_treaty|treaty]]
 #verb
 - **To make to [[a/_agree|agree]] or [[c/_correspond|correspond]]; to suit one thing to [[a/_another|another]]; to [[a/_adjust|adjust]].**
 - **To [[b/_bring|bring]] (people) to an [[a/_agreement|agreement]]; to reconcile, settle, [[a/_adjust|adjust]] or harmonize.**

@@ -8,9 +8,9 @@
 - **To throw ([[c/_cannon|cannon]]) off their [[c/_carriages|carriages]].**
 ---
 ### Synonyms
-- [[umount]], [[unmount]]
+- [[u/_umount|umount]], [[u/_unmount|unmount]]
 ### Antonyms
-- [[mount]], [[get on]]
+- [[m/_mount|mount]]
 #noun
 - **The [[a/_act|act]] of one who [[d/_dismounts|dismounts]].**
 ---

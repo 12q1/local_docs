@@ -10,5 +10,5 @@
 - **Of [[d/_decimals|decimals]]: to repeat.**
 ---
 ### Synonyms
-- [[disseminate]], [[put about]], [[spread]]
+- [[d/_disseminate|disseminate]], [[s/_spread|spread]]
 ---

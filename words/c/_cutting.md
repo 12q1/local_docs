@@ -23,14 +23,14 @@
 	- _Example: If you cut then I'll deal._
 - **To write.**
 	- _Example: cut orders;  cut a check_
-- **To [[d/_dilute|dilute]] or [[a/_adulterate|adulterate]] something, especially a recreational [[d/_drug|drug]].**
+- **To [[d/_dilute|dilute]] or [[a/_adulterate|adulterate]] something, [[e/_especially|especially]] a recreational [[d/_drug|drug]].**
 	- _Example: Drug dealers sometimes cut cocaine with lidocaine._
 - **To exhibit (a quality).**
 - **To stop or [[d/_disengage|disengage]].**
 	- _Example: Cut the engines when the plane comes to a halt!_
 - **To [[d/_drive|drive]] (a [[b/_ball|ball]]) to one side, as by (in [[b/_billiards|billiards]] or [[c/_croquet|croquet]]) hitting it fine with [[a/_another|another]] [[b/_ball|ball]], or (in tennis) striking it with the racket inclined.**
 - **To lose [[b/_body|body]] mass [[a/_after|after]] [[b/_bulking|bulking]], [[a/_aiming|aiming]] to keep the [[a/_additional|additional]] muscle but lose the fat.**
-- **To perform (a [[d/_dancing|dancing]] movement etc.).**
+- **To perform (a [[d/_dancing|dancing]] movement [[e/_etc|etc]].).**
 ---
 #noun
 - **The [[a/_action|action]] of the verb to [[c/_cut|cut]].**
@@ -45,14 +45,14 @@
 - **The [[a/_act|act]] of [[c/_cutting|cutting]] one's own skin as a symptom of a mental [[d/_disorder|disorder]]; self-harm.**
 ---
 ### Synonyms
-- [[cut]]
+- [[c/_cut|cut]]
 ### Antonyms
-- [[embankment]]
+- [[e/_embankment|embankment]]
 #adjective
 - **That is used for [[c/_cutting|cutting]].**
 	- _Example: I need some sort of cutting utensil to get through this shrink wrap._
 - **Piercing, sharp.**
-- **Of [[c/_criticism|criticism]], remarks, etc.: (potentially) hurtful.**
+- **Of [[c/_criticism|criticism]], remarks, [[e/_etc|etc]].: (potentially) hurtful.**
 	- _Example: The director gave the auditioning actors cutting criticism._
 - **Of a [[b/_beverage|beverage]]: half-sized.**
 	- _Example: a cutting chai_

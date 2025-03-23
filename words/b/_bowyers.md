@@ -5,5 +5,5 @@
 - **A person who uses the [[b/_bow|bow]], an [[a/_archer|archer]].**
 ---
 ### Synonyms
-- [[bow maker]], [[fletcher]], [[archer]], [[bowman]]
+- [[f/_fletcher|fletcher]], [[a/_archer|archer]], [[b/_bowman|bowman]]
 ---

@@ -7,5 +7,5 @@
 	- _Example: Taxes are obviously certitudes._
 ---
 ### Synonyms
-- [[certainty]]
+- [[c/_certainty|certainty]]
 ---

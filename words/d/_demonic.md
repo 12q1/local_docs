@@ -6,5 +6,5 @@
 - **Pertaining to [[d/_d|d]]æmons in [[a/_ancient|ancient]] Greek thought; [[c/_concerning|concerning]] supernatural ‘genius’.**
 ---
 ### Synonyms
-- [[demonish]], [[demonlike]], [[demonly]]
+- [[d/_demonish|demonish]], [[d/_demonlike|demonlike]], [[d/_demonly|demonly]]
 ---

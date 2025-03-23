@@ -11,5 +11,5 @@
 	- _Example: to celebrate a marriage_
 ---
 ### Synonyms
-- [[fete]], [[keep]], [[observe]], [[solemnize]]
+- [[f/_fete|fete]], [[k/_keep|keep]], [[o/_observe|observe]], [[s/_solemnize|solemnize]]
 ---

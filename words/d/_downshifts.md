@@ -6,5 +6,5 @@
 - **To make less [[c/_controversial|controversial]] or risky.**
 ---
 ### Antonyms
-- [[upshift]]
+- [[u/_upshift|upshift]]
 ---

@@ -5,5 +5,5 @@
 - **(frequency) [[c/_constantly|constantly]]; [[a/_always|always]].**
 ---
 ### Synonyms
-- [[continually]], [[incessantly]], [[invariably]], [[uniformly]]
+- [[c/_continually|continually]], [[i/_incessantly|incessantly]], [[i/_invariably|invariably]], [[u/_uniformly|uniformly]]
 ---

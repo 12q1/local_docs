@@ -6,5 +6,5 @@
 - **A [[c/_cheap|cheap]], rough [[b/_bar|bar]] or saloon.**
 ---
 ### Synonyms
-- [[dive]], [[deadfall trap]]
+- [[d/_dive|dive]]
 ---

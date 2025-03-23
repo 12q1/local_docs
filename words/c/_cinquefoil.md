@@ -6,5 +6,5 @@
 - **A particular knot of five [[c/_crossings|crossings]].**
 ---
 ### Synonyms
-- [[fiveleaf]], [[knot]]
+- [[f/_fiveleaf|fiveleaf]], [[k/_knot|knot]]
 ---

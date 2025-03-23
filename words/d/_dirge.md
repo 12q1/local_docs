@@ -5,7 +5,7 @@
 - **A song or piece of music that is [[c/_considered|considered]] too slow, [[b/_bland|bland]] or [[b/_boring|boring]].**
 ---
 ### Synonyms
-- [[coronach]], [[elegy]], [[lament]], [[requiem]], [[threnody]]
+- [[c/_coronach|coronach]], [[e/_elegy|elegy]], [[l/_lament|lament]], [[r/_requiem|requiem]], [[t/_threnody|threnody]]
 #verb
 - **To sing [[d/_dirges|dirges]]**
 ---

@@ -5,7 +5,7 @@
 - **A force or influence that [[b/_balances|balances]], [[c/_checks|checks]] or limits an opposite one.**
 ---
 ### Synonyms
-- [[counterpoise]], [[counterweight]]
+- [[c/_counterpoise|counterpoise]], [[c/_counterweight|counterweight]]
 #verb
 - **To [[a/_apply|apply]] weight in order to [[b/_balance|balance]] an opposing weight.**
 	- _Example: Big brother counterbalances his two siblings to the pound._
@@ -13,7 +13,7 @@
 	- _Example: Arm wrestling is undecided as long as the opponents counterbalance each-other_
 ---
 ### Synonyms
-- [[counteract]], [[counterpoise]], [[counterpoise]], [[counterweight]], [[equiponderate]]
+- [[c/_counteract|counteract]], [[c/_counterpoise|counterpoise]], [[c/_counterpoise|counterpoise]], [[c/_counterweight|counterweight]], [[e/_equiponderate|equiponderate]]
 ### Antonyms
-- [[outweigh]], [[overcome]], [[overpower]]
+- [[o/_outweigh|outweigh]], [[o/_overcome|overcome]], [[o/_overpower|overpower]]
 ---

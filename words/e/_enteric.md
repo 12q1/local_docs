@@ -5,5 +5,5 @@
 - **Staying intact in the stomach, then [[d/_dissolving|dissolving]] in the intestine**
 ---
 ### Synonyms
-- [[enteral]]
+- [[e/_enteral|enteral]]
 ---

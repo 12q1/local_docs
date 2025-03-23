@@ -6,7 +6,7 @@
 - **To [[a/_add|add]] items ([[e/_e|e]].g. [[b/_books|books]]) to an existing [[c/_catalogue|catalogue]].**
 ---
 ### Synonyms
-- [[put down]], [[list]]
+- [[l/_list|list]]
 #noun
 - **The [[a/_act|act]] of [[a/_arranging|arranging]] in, or as if in, a [[c/_catalogue|catalogue]].**
 ---

@@ -6,5 +6,5 @@
 - **An imaginary [[c/_creature|creature]] meant to inspire fear in [[c/_children|children]].**
 ---
 ### Synonyms
-- [[goblin]], [[pet peeve]]
+- [[g/_goblin|goblin]]
 ---

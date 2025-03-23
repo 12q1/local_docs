@@ -7,5 +7,5 @@
 	- _Example: Two alanines are replaced by prolines._
 ---
 ### Synonyms
-- [[Ala]]
+- [[A/_Ala|Ala]]
 ---

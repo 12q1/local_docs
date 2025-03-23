@@ -5,5 +5,5 @@
 - **[[b/_bromine|Bromine]]**
 ---
 ### Synonyms
-- [[bromegrass]]
+- [[b/_bromegrass|bromegrass]]
 ---

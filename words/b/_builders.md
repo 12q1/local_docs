@@ -6,12 +6,12 @@
 - **A [[b/_bodybuilder|bodybuilder]].**
 ---
 ### Synonyms
-- [[constructor]]
+- [[c/_constructor|constructor]]
 ### Antonyms
-- [[destroyer]], [[wrecker]]
+- [[d/_destroyer|destroyer]], [[w/_wrecker|wrecker]]
 #noun
 - **[[b/_black|Black]] tea, [[b/_brewed|brewed]] strong and served in a large mug with milk and sugar.**
 ---
 ### Synonyms
-- [[builder's]], [[builders tea]], [[builders']], [[builders' tea]]
+- [[b/_builder's|builder's]], [[b/_builders'|builders']]
 ---

@@ -8,7 +8,7 @@
 - **Surface [[d/_decoration|decoration]] of [[a/_any|any]] sort which [[c/_consists|consists]] of the [[c/_constant|constant]] repetition of one or more simple figures or units of [[d/_design|design]] evenly spaced.**
 ---
 ### Synonyms
-- [[napkin]], [[nappy]]
+- [[n/_napkin|napkin]], [[n/_nappy|nappy]]
 #verb
 - **To put [[d/_diapers|diapers]] on someone.**
 	- _Example: Diapering a baby is something you have to learn fast._

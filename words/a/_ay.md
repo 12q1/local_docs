@@ -8,12 +8,12 @@
 	- _Example: "To call for the ayes and nays;" "The ayes have it."_
 ---
 ### Synonyms
-- [[yes]]
+- [[y/_yes|yes]]
 #interjection
 - **Yes; yea; a word expressing [[a/_assent|assent]], or an [[a/_affirmative|affirmative]] [[a/_answer|answer]] to a question.**
 ---
 ### Synonyms
-- [[yea]], [[yes]]
+- [[y/_yea|yea]], [[y/_yes|yes]]
 ### Antonyms
-- [[nay]], [[no]]
+- [[n/_nay|nay]], [[n/_no|no]]
 ---

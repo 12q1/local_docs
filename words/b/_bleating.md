@@ -6,7 +6,7 @@
 	- _Example: The last thing we need is to hear them bleating to us about organizational problems._
 ---
 ### Synonyms
-- [[kvetch]], [[moan]], [[whine]], [[whinge]], [[baa]]
+- [[k/_kvetch|kvetch]], [[m/_moan|moan]], [[w/_whine|whine]], [[w/_whinge|whinge]], [[b/_baa|baa]]
 #noun
 - **A noise that [[b/_bleats|bleats]].**
 - **Inane or plaintive [[c/_chatter|chatter]].**

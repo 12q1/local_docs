@@ -8,5 +8,5 @@
 - **Without [[d/_doubt|doubt]]; very probably, in [[a/_all|all]] likelihood; [[d/_doubtlessly|doubtlessly]].**
 ---
 ### Synonyms
-- [[indisputably]], [[indubitably]], [[undoubtedly]], [[unquestionably]], [[without a doubt]]
+- [[i/_indisputably|indisputably]], [[i/_indubitably|indubitably]], [[u/_undoubtedly|undoubtedly]], [[u/_unquestionably|unquestionably]]
 ---

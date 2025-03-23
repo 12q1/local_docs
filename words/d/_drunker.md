@@ -8,5 +8,5 @@
 - **[[d/_drenched|Drenched]] or saturated with moisture or liquid.**
 ---
 ### Synonyms
-- [[boozy]], [[sottish]]
+- [[b/_boozy|boozy]], [[s/_sottish|sottish]]
 ---

@@ -4,5 +4,5 @@
 - **In a [[d/_dishonest|dishonest]] manner.**
 ---
 ### Antonyms
-- [[honestly]]
+- [[h/_honestly|honestly]]
 ---

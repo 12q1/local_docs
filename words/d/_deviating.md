@@ -7,5 +7,5 @@
 - **To [[c/_cause|cause]] to [[d/_diverge|diverge]].**
 ---
 ### Synonyms
-- [[swerve]], [[veer]], [[stray]], [[wander]]
+- [[s/_swerve|swerve]], [[v/_veer|veer]], [[s/_stray|stray]], [[w/_wander|wander]]
 ---

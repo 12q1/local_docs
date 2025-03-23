@@ -9,6 +9,6 @@
 - **Pertaining to taking [[a/_away|away]] or removing.**
 - **Sacrificial, wearing [[a/_away|away]] or [[b/_being|being]] [[d/_destroyed|destroyed]] in order to protect the underlying, as in [[a/_ablative|ablative]] paints used for [[a/_antifouling|antifouling]]. .**
 - **Relating to the removal of a [[b/_body|body]] part, tumor, or organ.**
-- **Relating to the erosion of a land mass; relating to the melting or evaporation of a glacier.**
+- **Relating to the [[e/_erosion|erosion]] of a land mass; relating to the melting or evaporation of a glacier.**
 ---
 ---

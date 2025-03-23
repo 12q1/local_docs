@@ -9,7 +9,7 @@
 - **([[c/_chiefly|chiefly]] in the plural) A small low iron, or [[d/_dog|dog]], [[b/_between|between]] the [[a/_andirons|andirons]].**
 - **An instrument with iron hooks or [[c/_claws|claws]] for [[d/_dredging|dredging]] up items from a well or other water.**
 - **[[a/_any|Any]] [[d/_device|device]] for [[c/_causing|causing]] material to move steadily from one part of a machine to [[a/_another|another]], such as an [[a/_apron|apron]] in a [[c/_carding|carding]] machine, or an inner spiral in a grain screen.**
-- **[[a/_any|Any]] plant (as ivy or periwinkle) that grows by [[c/_creeping|creeping]]; especially a [[c/_climbing|climbing]] plant of the genus Parthenocissus.**
+- **[[a/_any|Any]] plant (as ivy or periwinkle) that grows by [[c/_creeping|creeping]]; [[e/_especially|especially]] a [[c/_climbing|climbing]] plant of the genus Parthenocissus.**
 - **A treecreeper.**
 - **A small four-hooked grapnel used to recover objects [[d/_dropped|dropped]] onto the sea [[b/_bed|bed]].**
 - **The lowest gear of a tractor or truck.**
@@ -20,5 +20,5 @@
 - **A [[b/_ball|ball]] that travels low, near ground level.**
 ---
 ### Synonyms
-- [[climber]], [[babygro]], [[creepers]], [[diaper shirt]], [[infant bodysuit]], [[snapsuit]], [[crawler]], [[cradle]], [[creeper gear]], [[creeper shift]]
+- [[c/_climber|climber]], [[b/_babygro|babygro]], [[c/_creepers|creepers]], [[s/_snapsuit|snapsuit]], [[c/_crawler|crawler]], [[c/_cradle|cradle]]
 ---

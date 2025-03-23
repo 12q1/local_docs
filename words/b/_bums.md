@@ -6,7 +6,7 @@
 - **The [[a/_anus|anus]].**
 ---
 ### Synonyms
-- [[arse]], [[ass]], [[backside]], [[behind]], [[bottom]], [[butt]], [[fanny]], [[heinie]], [[tush]], [[tushie]]
+- [[a/_arse|arse]], [[a/_ass|ass]], [[b/_backside|backside]], [[b/_behind|behind]], [[b/_bottom|bottom]], [[b/_butt|butt]], [[f/_fanny|fanny]], [[h/_heinie|heinie]], [[t/_tush|tush]], [[t/_tushie|tushie]]
 #verb
 - **To sodomize; to [[e/_engage|engage]] in [[a/_anal|anal]] sex.**
 ---
@@ -19,7 +19,7 @@
 - **A [[d/_drinking|drinking]] spree.**
 ---
 ### Synonyms
-- [[bender]], [[binge]], [[hobo]], [[homeless]], [[tramp]], [[vagabond]], [[vagrant]], [[wanderer]], [[bumpkin]], [[footler]], [[idler]], [[layabout]], [[loafer]], [[lout]], [[yob]], [[yobbo]]
+- [[b/_bender|bender]], [[b/_binge|binge]], [[h/_hobo|hobo]], [[h/_homeless|homeless]], [[t/_tramp|tramp]], [[v/_vagabond|vagabond]], [[v/_vagrant|vagrant]], [[w/_wanderer|wanderer]], [[b/_bumpkin|bumpkin]], [[f/_footler|footler]], [[i/_idler|idler]], [[l/_layabout|layabout]], [[l/_loafer|loafer]], [[l/_lout|lout]], [[y/_yob|yob]], [[y/_yobbo|yobbo]]
 #verb
 - **To [[a/_ask|ask]] someone to give one (something) for free; to [[b/_beg|beg]] for something.**
 	- _Example: Can I bum a cigarette off you?_
@@ -28,7 +28,7 @@
 - **To wet the [[e/_end|end]] of a marijuana [[c/_cigarette|cigarette]] (spliff).**
 ---
 ### Synonyms
-- [[cadge]]
+- [[c/_cadge|cadge]]
 #verb
 - **To [[d/_depress|depress]]; to make unhappy.**
 ---

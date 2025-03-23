@@ -1,7 +1,7 @@
 # Brooms
 ---
 #verb
-- **To [[c/_clean|clean]] ([[e/_e|e]].g. a ship's [[b/_bottom|bottom]] of [[c/_clinging|clinging]] shells, seaweed, etc.) by the [[a/_application|application]] of fire and scraping.**
+- **To [[c/_clean|clean]] ([[e/_e|e]].g. a ship's [[b/_bottom|bottom]] of [[c/_clinging|clinging]] shells, seaweed, [[e/_etc|etc]].) by the [[a/_application|application]] of fire and scraping.**
 ---
 #noun
 - **A [[d/_domestic|domestic]] utensil with fibers [[b/_bound|bound]] together at the [[e/_end|end]] of a long handle, used for sweeping.**
@@ -10,7 +10,7 @@
 - **A gun, [[b/_because|because]] it is more or less long, held similarly to a [[b/_besom|besom]] and “[[c/_cleans|cleans]]” what is in front.**
 ---
 ### Synonyms
-- [[besom]]
+- [[b/_besom|besom]]
 #verb
 - **To sweep with a [[b/_broom|broom]].**
 - **(roofing) To improve the [[e/_embedding|embedding]] of a membrane by using a [[b/_broom|broom]] or squeegee to smooth it out and [[e/_ensure|ensure]] [[c/_contact|contact]] with the [[a/_adhesive|adhesive]] under the membrane.**

@@ -19,7 +19,7 @@
 	- _Example: On the Wagner piece, the orchestra was cooking!_
 ---
 ### Synonyms
-- [[cook off]], [[bake]], [[stew]]
+- [[b/_bake|bake]], [[s/_stew|stew]]
 #verb
 - **To make the noise of the [[c/_cuckoo|cuckoo]].**
 ---
@@ -32,7 +32,7 @@
 - **The result of preparing food by using heat.**
 ---
 ### Synonyms
-- [[culinary art]]
+- 
 #adjective
 - **In progress, happening.**
 	- _Example: The project took a few days to gain momentum, but by the end of the week, things were really cooking._

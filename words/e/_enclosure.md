@@ -11,6 +11,6 @@
 	- _Example: At first, untrained horses resist enclosure._
 - **([[b/_british|British]] History) The post-feudal process of subdivision of [[c/_common|common]] lands for individual ownership.**
 	- _Example: Strip-farming disappeared after enclosure._
-- **The [[a/_area|area]] of a [[c/_convent|convent]], monastery, etc where [[a/_access|access]] is restricted to [[c/_community|community]] members.**
+- **The [[a/_area|area]] of a [[c/_convent|convent]], monastery, [[e/_etc|etc]] where [[a/_access|access]] is restricted to [[c/_community|community]] members.**
 ---
 ---

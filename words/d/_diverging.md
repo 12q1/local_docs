@@ -11,7 +11,7 @@
 - **(of a sequence, series, or function) Not to [[c/_converge|converge]]: to have no limit, or no finite limit.**
 ---
 ### Antonyms
-- [[converge]]
+- [[c/_converge|converge]]
 #noun
 - **[[d/_divergence|Divergence]]**
 ---

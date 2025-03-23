@@ -4,7 +4,7 @@
 - **A flag or standard used by a military [[c/_commander|commander]], monarch or nation.**
 - **(by extension) The military unit under such a flag or standard.**
 - **(by extension) A military or [[a/_administrative|administrative]] subdivision.**
-- **[[a/_any|Any]] large sign, especially when made of soft material or fabric.**
+- **[[a/_any|Any]] large sign, [[e/_especially|especially]] when made of soft material or fabric.**
 	- _Example: The mayor hung a banner across Main Street to commemorate the town's 100th anniversary._
 - **A large piece of [[c/_cloth|cloth]] with a slogan, motto, or [[e/_emblem|emblem]] [[c/_carried|carried]] in a [[d/_demonstration|demonstration]] or other procession or suspended in some [[c/_conspicuous|conspicuous]] place.**
 - **(by extension) A [[c/_cause|cause]] or purpose; a [[c/_campaign|campaign]] or movement.**

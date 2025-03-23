@@ -12,16 +12,16 @@
 - **Of a star or [[c/_class|class]] of stars, hotter than the sun.**
 ---
 ### Synonyms
-- [[first]], [[premature]]
+- [[f/_first|first]], [[p/_premature|premature]]
 ### Antonyms
-- [[late]], [[late]], [[terminal]]
+- [[l/_late|late]], [[l/_late|late]], [[t/_terminal|terminal]]
 #adverb
 - **At a time [[b/_before|before]] expected; sooner than usual.**
 	- _Example: We finished the project an hour sooner than scheduled, so we left early._
 - **Soon; in good time; seasonably.**
 ---
 ### Synonyms
-- [[prematurely]]
+- [[p/_prematurely|prematurely]]
 ### Antonyms
-- [[late]], [[tardily]]
+- [[l/_late|late]], [[t/_tardily|tardily]]
 ---

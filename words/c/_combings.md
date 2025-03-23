@@ -1,6 +1,6 @@
 # Combings
 ---
 #noun
-- **Fragments of hair etc. removed with a [[c/_comb|comb]].**
+- **Fragments of hair [[e/_etc|etc]]. removed with a [[c/_comb|comb]].**
 ---
 ---

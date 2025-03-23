@@ -11,5 +11,5 @@
 	- _Example: Men can ejaculate between 0.1 and 10 milliliters of semen on average._
 ---
 ### Synonyms
-- [[blurt out]], [[eject]], [[throw out]]
+- [[e/_eject|eject]]
 ---

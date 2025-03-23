@@ -5,5 +5,5 @@
 - **Very large; of vast measure.**
 ---
 ### Synonyms
-- [[astronomic]]
+- [[a/_astronomic|astronomic]]
 ---

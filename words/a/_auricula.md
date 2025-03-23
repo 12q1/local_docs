@@ -7,5 +7,5 @@
 - **(plural: [[a/_auriculas|auriculas]]) The ornamental primrose Primula [[a/_auricula|auricula]]**
 ---
 ### Synonyms
-- [[auricle]], [[pinna]], [[atrial appendage]], [[auricle]], [[auricular appendix]], [[Auricula]], [[bear's ear]], [[valva]]
+- [[a/_auricle|auricle]], [[p/_pinna|pinna]], [[a/_auricle|auricle]], [[A/_Auricula|Auricula]], [[v/_valva|valva]]
 ---

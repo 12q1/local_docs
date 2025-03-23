@@ -2,7 +2,7 @@
 ---
 #noun
 - **A single-room [[d/_dwelling|dwelling]] for a hermit.**
-- **A small monastery or nunnery [[d/_dependent|dependent]] on a larger religious establishment.**
+- **A small monastery or nunnery [[d/_dependent|dependent]] on a larger religious [[e/_establishment|establishment]].**
 - **A small room in a monastery or nunnery [[a/_accommodating|accommodating]] one person.**
 	- _Example: Gregor Mendel must have spent a good amount of time outside of his cell._
 - **A room in a prison or jail for one or more inmates.**
@@ -34,7 +34,7 @@
 - **An [[a/_area|area]] of an insect wing [[b/_bounded|bounded]] by veins**
 ---
 ### Synonyms
-- [[prison cell]]
+- 
 #verb
 - **To place or [[e/_enclose|enclose]] in a [[c/_cell|cell]].**
 ---

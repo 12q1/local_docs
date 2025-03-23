@@ -9,5 +9,5 @@
 	- _Example: Crime doesn’t pay._
 ---
 ### Synonyms
-- [[criminality]], [[delinquency]]
+- [[c/_criminality|criminality]], [[d/_delinquency|delinquency]]
 ---

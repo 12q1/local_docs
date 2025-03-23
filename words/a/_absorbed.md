@@ -14,9 +14,9 @@
 - **To [[a/_accept|accept]] or purchase in quantity.**
 ---
 ### Synonyms
-- [[assume]], [[bear]], [[pay for]], [[use up]], [[assimilate]], [[engulf]], [[incorporate]], [[overwhelm]], [[swallow up]], [[engage]], [[engross]], [[immerse]], [[monopolize]], [[occupy]], [[draw]], [[drink in]], [[imbibe]], [[soak up]], [[sop up]], [[steep]], [[suck]], [[suck up]], [[take in]], [[take up]]
+- [[a/_assume|assume]], [[b/_bear|bear]], [[a/_assimilate|assimilate]], [[e/_engulf|engulf]], [[i/_incorporate|incorporate]], [[o/_overwhelm|overwhelm]], [[e/_engage|engage]], [[e/_engross|engross]], [[i/_immerse|immerse]], [[m/_monopolize|monopolize]], [[o/_occupy|occupy]], [[d/_draw|draw]], [[i/_imbibe|imbibe]], [[s/_steep|steep]], [[s/_suck|suck]]
 ### Antonyms
-- [[emit]]
+- [[e/_emit|emit]]
 #adjective
 - **Fully occupied with one's thoughts; [[e/_engrossed|engrossed]].**
 - **Something that has [[b/_been|been]] [[a/_absorbed|absorbed]], taken in, [[e/_engulfed|engulfed]], imbibed, or [[a/_assimilated|assimilated]].**

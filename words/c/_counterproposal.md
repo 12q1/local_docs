@@ -4,5 +4,5 @@
 - **A proposal made as an [[a/_alternative|alternative]] to [[a/_another|another]], [[e/_earlier|earlier]] proposal.**
 ---
 ### Synonyms
-- [[counterproposition]]
+- [[c/_counterproposition|counterproposition]]
 ---

@@ -5,5 +5,5 @@
 - **[[a/_any|Any]] object.**
 ---
 ### Synonyms
-- [[construction]], [[contrivance]], [[device]], [[fandango]], [[gadget]], [[mechanism]]
+- [[c/_construction|construction]], [[c/_contrivance|contrivance]], [[d/_device|device]], [[f/_fandango|fandango]], [[g/_gadget|gadget]], [[m/_mechanism|mechanism]]
 ---

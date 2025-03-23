@@ -5,5 +5,5 @@
 - **(mostly in the passive) To [[c/_captivate|captivate]].**
 ---
 ### Antonyms
-- [[disenamor]], [[disenamour]]
+- [[d/_disenamor|disenamor]], [[d/_disenamour|disenamour]]
 ---

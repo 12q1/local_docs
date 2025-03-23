@@ -12,7 +12,7 @@
 - **Statements made without [[a/_any|any]] particular reference to their truth value.**
 ---
 ### Synonyms
-- [[BS]], [[I doubt it]], [[cheat]], [[BS]], [[bull]], [[bulldada]], [[bullpucky]], [[bushwah]], [[malarkey]]
+- [[B/_BS|BS]], [[c/_cheat|cheat]], [[B/_BS|BS]], [[b/_bull|bull]], [[b/_bulldada|bulldada]], [[b/_bullpucky|bullpucky]], [[b/_bushwah|bushwah]], [[m/_malarkey|malarkey]]
 #verb
 - **To tell lies, exaggerate; to mislead; to [[d/_deceive|deceive]].**
 	- _Example: I think you're bullshitting. Let’s just call your office and see if you even came in._
@@ -22,7 +22,7 @@
 	- _Example: We just went on stage and bullshitted the whole concert because we didn't know any songs._
 ---
 ### Synonyms
-- [[crap]]
+- [[c/_crap|crap]]
 #adjective
 - **[[a/_absurd|Absurd]], irrational, or nonsensical. Most often said of speech, information, or [[c/_content|content]].**
 	- _Example: That's the most bullshit excuse I've ever heard._

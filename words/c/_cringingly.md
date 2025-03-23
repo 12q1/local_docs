@@ -5,5 +5,5 @@
 - **So as to make one [[c/_cringe|cringe]].**
 ---
 ### Synonyms
-- [[cringeworthily]]
+- [[c/_cringeworthily|cringeworthily]]
 ---

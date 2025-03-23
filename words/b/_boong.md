@@ -5,5 +5,5 @@
 - **A native of New Guinea or Malaysia.**
 ---
 ### Synonyms
-- [[Fuzzy Wuzzy Angel]], [[Jacky]], [[abo]]
+- [[J/_Jacky|Jacky]], [[a/_abo|abo]]
 ---

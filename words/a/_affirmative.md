@@ -7,7 +7,7 @@
 - **An [[a/_assertion|assertion]].**
 ---
 ### Antonyms
-- [[negative]]
+- [[n/_negative|negative]]
 #adjective
 - **Pertaining to truth; [[a/_asserting|asserting]] that something is; [[a/_affirming|affirming]]**
 	- _Example: an affirmative answer_
@@ -22,6 +22,6 @@
 ---
 #interjection
 - **An [[e/_elaborate|elaborate]] synonym for the word yes.**
-- **(especially radio [[c/_communications|communications]]) Yes; true; [[c/_correct|correct]].**
+- **([[e/_especially|especially]] radio [[c/_communications|communications]]) Yes; true; [[c/_correct|correct]].**
 ---
 ---

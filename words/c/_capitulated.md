@@ -7,5 +7,5 @@
 - **To [[d/_draw|draw]] up the [[a/_articles|articles]] of treaty with; to treat, [[b/_bargain|bargain]], parley.**
 ---
 ### Synonyms
-- [[wave the white flag]]
+- 
 ---

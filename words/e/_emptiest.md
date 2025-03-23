@@ -14,13 +14,13 @@
 	- _Example: empty dreams_
 - **[[d/_destitute|Destitute]] of, or lacking, sense, knowledge, or [[c/_courtesy|courtesy]].**
 	- _Example: empty brains; an empty coxcomb_
-- **(of some female [[a/_animals|animals]], especially [[c/_cows|cows]] and sheep) Not pregnant; not producing offspring when expected to [[d/_do|do]] so [[d/_during|during]] the [[b/_breeding|breeding]] season.**
+- **(of some female [[a/_animals|animals]], [[e/_especially|especially]] [[c/_cows|cows]] and sheep) Not pregnant; not producing offspring when expected to [[d/_do|do]] so [[d/_during|during]] the [[b/_breeding|breeding]] season.**
 	- _Example: Empty cow rates have increased in recent years._
 - **Producing nothing; unfruitful; said of a plant or tree.**
 	- _Example: an empty vine_
 ---
 ### Synonyms
-- [[clean]], [[clear]], [[leer]], [[toom]], [[unoccupied]]
+- [[c/_clean|clean]], [[c/_clear|clear]], [[l/_leer|leer]], [[t/_toom|toom]], [[u/_unoccupied|unoccupied]]
 ### Antonyms
-- [[non-empty]], [[full]]
+- [[n/_non-empty|non-empty]], [[f/_full|full]]
 ---

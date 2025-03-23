@@ -8,5 +8,5 @@
 - **Relationship [[b/_between|between]] [[c/_classes|classes]] of objects that [[a/_allows|allows]] one object instance to [[c/_cause|cause]] [[a/_another|another]] to perform an [[a/_action|action]] on its [[b/_behalf|behalf]].**
 ---
 ### Synonyms
-- [[connection]]
+- [[c/_connection|connection]]
 ---

@@ -4,7 +4,7 @@
 - **The process of making or growing worse, or the state of having grown worse.**
 ---
 ### Synonyms
-- [[retrogression]]
+- [[r/_retrogression|retrogression]]
 ### Antonyms
-- [[amelioration]]
+- [[a/_amelioration|amelioration]]
 ---

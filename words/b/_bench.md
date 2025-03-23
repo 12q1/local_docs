@@ -33,5 +33,5 @@
 - **To place on a [[b/_bench|bench]] or seat of honour.**
 ---
 ### Synonyms
-- [[sideline]]
+- [[s/_sideline|sideline]]
 ---

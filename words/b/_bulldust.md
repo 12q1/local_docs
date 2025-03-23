@@ -5,5 +5,5 @@
 - **Nonsense; [[b/_blatantly|blatantly]] false statements.**
 ---
 ### Synonyms
-- [[bullshit]]
+- [[b/_bullshit|bullshit]]
 ---

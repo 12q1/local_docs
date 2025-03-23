@@ -13,7 +13,7 @@
 	- _Example: 24 March 1774 - Newspaper: Stamford Mercury - "Mr. Cole, Basket-maker...has lost near 300 boults of rods" https//www.britishnewspaperarchive.co.uk/viewer/bl/0000254/17740324/001/0001_
 - **A sudden spring or start; a sudden leap [[a/_aside|aside]].**
 	- _Example: The horse made a bolt._
-- **A sudden flight, as to escape [[c/_creditors|creditors]].**
+- **A sudden flight, as to [[e/_escape|escape]] [[c/_creditors|creditors]].**
 - **A refusal to support a nomination made by the party with which one has [[b/_been|been]] [[c/_connected|connected]]; a [[b/_breaking|breaking]] [[a/_away|away]] from one's party.**
 - **An iron to fasten the legs of a prisoner; a shackle; a fetter.**
 - **A [[b/_burst|burst]] of speed or [[e/_efficiency|efficiency]].**
@@ -28,7 +28,7 @@
 - **To [[c/_cause|cause]] to start or spring forth; to [[d/_dislodge|dislodge]] (an [[a/_animal|animal]] [[b/_being|being]] hunted).**
 	- _Example: to bolt a rabbit_
 - **To strike or fall suddenly like a [[b/_bolt|bolt]].**
-- **To escape.**
+- **To [[e/_escape|escape]].**
 - **Of a plant, to grow quickly; to go to seed.**
 	- _Example: Lettuce and spinach will bolt as the weather warms up._
 - **To swallow food without [[c/_chewing|chewing]] it.**

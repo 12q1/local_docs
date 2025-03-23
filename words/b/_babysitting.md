@@ -10,5 +10,5 @@
 - **The work of a [[b/_babysitter|babysitter]]; the [[c/_care|care]] of [[c/_children|children]] in the temporary [[a/_absence|absence]] of their parents.**
 ---
 ### Synonyms
-- [[daycare]]
+- [[d/_daycare|daycare]]
 ---

@@ -7,5 +7,5 @@
 - **To [[d/_dress|dress]] as, or to [[a/_adopt|adopt]] the style of, a [[d/_dandy|dandy]].**
 ---
 ### Synonyms
-- [[dandyize]]
+- [[d/_dandyize|dandyize]]
 ---

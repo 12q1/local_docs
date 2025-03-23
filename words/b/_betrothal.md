@@ -5,5 +5,5 @@
 - **The fact of [[b/_being|being]] [[b/_betrothed|betrothed]]; a mutual promise, [[e/_engagement|engagement]], or [[c/_contract|contract]] for a future marriage [[b/_between|between]] two people.**
 ---
 ### Synonyms
-- [[affiance]], [[betrothment]]
+- [[a/_affiance|affiance]], [[b/_betrothment|betrothment]]
 ---

@@ -6,7 +6,7 @@
 - **A [[d/_different|different]] type of musical instrument resembling an organ.**
 ---
 ### Synonyms
-- [[claro]]
+- [[c/_claro|claro]]
 #verb
 - **To sound a [[c/_clarion|clarion]] (trumpet-like instrument).**
 - **To make a similar sound to the instrument.**

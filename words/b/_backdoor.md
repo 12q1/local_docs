@@ -9,9 +9,9 @@
 - **The rear side of the hole, furthest from the golfer.**
 ---
 ### Antonyms
-- [[foredoor]], [[front door]]
+- [[f/_foredoor|foredoor]]
 #verb
-- **To [[a/_attempt|attempt]] to [[a/_accomplish|accomplish]] by indirect means, especially when [[d/_direct|direct]] means are proscribed.**
+- **To [[a/_attempt|attempt]] to [[a/_accomplish|accomplish]] by indirect means, [[e/_especially|especially]] when [[d/_direct|direct]] means are proscribed.**
 - **To [[e/_enter|enter]] a tube by [[a/_accelerating|accelerating]] from [[b/_behind|behind]]; to surf into an [[a/_already|already]] formed hollow wave, in [[c/_contrast|contrast]] to the normal method of slowing to [[a/_allow|allow]] a surfable wave to form.**
 ---
 ---

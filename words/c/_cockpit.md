@@ -12,5 +12,5 @@
 - **An [[a/_area|area]] from where something is [[c/_controlled|controlled]] or managed; a [[c/_centre|centre]] of [[c/_control|control]].**
 ---
 ### Synonyms
-- [[flight deck]], [[office]]
+- [[o/_office|office]]
 ---

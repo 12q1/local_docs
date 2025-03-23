@@ -6,5 +6,5 @@
 - **A nickname or [[e/_epithet|epithet]] by which someone is identified.**
 ---
 ### Synonyms
-- [[byname]], [[moniker]], [[sobriquet]]
+- [[b/_byname|byname]], [[m/_moniker|moniker]], [[s/_sobriquet|sobriquet]]
 ---

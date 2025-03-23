@@ -6,5 +6,5 @@
 - **To [[c/_constitute|constitute]] the [[c/_code|code]] necessary for the [[b/_biosynthesis|biosynthesis]] of a protein by means of a matrix so as to transcribe DNA material.**
 ---
 ### Antonyms
-- [[decode]]
+- [[d/_decode|decode]]
 ---

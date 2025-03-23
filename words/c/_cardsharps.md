@@ -5,5 +5,5 @@
 	- _Example: One of Tim’s great-grandparents had been a cardsharp in the wild west, and had been shot dead during a game._
 ---
 ### Synonyms
-- [[broadsman]], [[card mechanic]], [[cardshark]], [[cardsharper]]
+- [[b/_broadsman|broadsman]], [[c/_cardshark|cardshark]], [[c/_cardsharper|cardsharper]]
 ---

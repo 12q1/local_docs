@@ -5,5 +5,5 @@
 - **An [[a/_articulate|articulate]] statement [[a/_annexed|annexed]] to a summons, setting forth the [[a/_allegations|allegations]] in fact upon which an [[a/_action|action]] is founded.**
 ---
 ### Synonyms
-- [[condescension]]
+- [[c/_condescension|condescension]]
 ---

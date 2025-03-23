@@ -4,7 +4,7 @@
 - **[[c/_containing|Containing]], [[c/_consisting|consisting]] of, or producing harsh, unpleasant or [[d/_discordant|discordant]] sounds.**
 ---
 ### Synonyms
-- [[inharmonious]], [[unmelodic]], [[unmusical]]
+- [[i/_inharmonious|inharmonious]], [[u/_unmelodic|unmelodic]], [[u/_unmusical|unmusical]]
 ### Antonyms
-- [[euphonious]], [[harmonious]], [[musical]]
+- [[e/_euphonious|euphonious]], [[h/_harmonious|harmonious]], [[m/_musical|musical]]
 ---

@@ -25,5 +25,5 @@
 - **A risky investment or other venture.**
 ---
 ### Synonyms
-- [[circular]], [[leaflet]], [[aviator]], [[aviatrix]]
+- [[c/_circular|circular]], [[l/_leaflet|leaflet]], [[a/_aviator|aviator]], [[a/_aviatrix|aviatrix]]
 ---

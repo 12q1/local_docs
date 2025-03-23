@@ -2,6 +2,6 @@
 ---
 #noun
 - **The [[a/_act|act]] or process of [[d/_developing|developing]] an opinion of value.**
-- **A judgment or [[a/_assessment|assessment]] of the value of something, especially a formal one.**
+- **A judgment or [[a/_assessment|assessment]] of the value of something, [[e/_especially|especially]] a formal one.**
 ---
 ---

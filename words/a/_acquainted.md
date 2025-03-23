@@ -7,7 +7,7 @@
 - **To familiarize; to [[a/_accustom|accustom]].**
 ---
 ### Synonyms
-- [[advise]], [[apprise]], [[inform]], [[habituate]], [[inure]], [[familiarize]]
+- [[a/_advise|advise]], [[a/_apprise|apprise]], [[i/_inform|inform]], [[h/_habituate|habituate]], [[i/_inure|inure]], [[f/_familiarize|familiarize]]
 #adjective
 - **Personally known; familiar.**
 ---

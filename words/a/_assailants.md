@@ -5,5 +5,5 @@
 - **(by extension) A hostile [[c/_critic|critic]] or opponent.**
 ---
 ### Synonyms
-- [[attacker]]
+- [[a/_attacker|attacker]]
 ---

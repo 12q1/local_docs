@@ -10,9 +10,9 @@
 - **(heading) To obtain or experience**
 ---
 ### Synonyms
-- [[get]], [[take]], [[capture]], [[hook]], [[snare]], [[take]], [[fang]], [[grab]], [[snatch]]
+- [[g/_get|get]], [[t/_take|take]], [[c/_capture|capture]], [[h/_hook|hook]], [[s/_snare|snare]], [[t/_take|take]], [[f/_fang|fang]], [[g/_grab|grab]], [[s/_snatch|snatch]]
 ### Antonyms
-- [[drop]], [[release]]
+- [[d/_drop|drop]], [[r/_release|release]]
 #noun
 - **The [[a/_action|action]] of the verb [[c/_catch|catch]].**
 ---

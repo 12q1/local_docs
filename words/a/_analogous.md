@@ -5,5 +5,5 @@
 - **Functionally similar, but [[a/_arising|arising]] through [[c/_convergent|convergent]] evolution rather than [[b/_being|being]] homologous.**
 ---
 ### Synonyms
-- [[comparable]], [[correspondent]], [[like]], [[parallel]], [[similar]]
+- [[c/_comparable|comparable]], [[c/_correspondent|correspondent]], [[l/_like|like]], [[p/_parallel|parallel]], [[s/_similar|similar]]
 ---

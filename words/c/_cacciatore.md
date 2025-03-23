@@ -4,8 +4,8 @@
 - **A meal prepared in this style.**
 ---
 #adjective
-- **(of [[c/_chicken|chicken]], rabbit, etc.) Prepared in an Italian style with wine, mushrooms, spices and tomatoes.**
+- **(of [[c/_chicken|chicken]], rabbit, [[e/_etc|etc]].) Prepared in an Italian style with wine, mushrooms, spices and tomatoes.**
 ---
 ### Synonyms
-- [[chasseur]]
+- [[c/_chasseur|chasseur]]
 ---

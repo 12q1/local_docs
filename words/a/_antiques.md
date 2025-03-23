@@ -14,7 +14,7 @@
 - **A style of type of thick and [[b/_bold|bold]] face in which [[a/_all|all]] lines are of [[e/_equal|equal]] or nearly [[e/_equal|equal]] thickness.**
 ---
 ### Synonyms
-- [[ancient]], [[coffin dodger]], [[geriatric]], [[oldster]]
+- [[a/_ancient|ancient]], [[g/_geriatric|geriatric]], [[o/_oldster|oldster]]
 #verb
 - **To search or shop for [[a/_antiques|antiques]].**
 - **To make an object [[a/_appear|appear]] to be an [[a/_antique|antique]] in some way.**

@@ -7,5 +7,5 @@
 	- _Example: Our trip to California was a disappointment._
 ---
 ### Synonyms
-- [[let-down]]
+- [[l/_let-down|let-down]]
 ---

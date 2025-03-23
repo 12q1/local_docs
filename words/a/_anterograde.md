@@ -7,5 +7,5 @@
 	- _Example: Anterograde tracing is a research technique which is used to trace neural connections from their source to their point of termination. The opposite technique is retrograde tracing._
 ---
 ### Antonyms
-- [[retrograde]]
+- [[r/_retrograde|retrograde]]
 ---

@@ -7,9 +7,9 @@
 - **To have a vector sum of 0; that is, to form a [[c/_closed|closed]] polygon.**
 ---
 ### Synonyms
-- [[narrow]], [[shut]], [[close off]], [[close up]], [[cover]], [[shut]], [[shut off]], [[close down]], [[end]], [[finish]], [[terminate]], [[wind up]], [[close out]], [[exit]]
+- [[n/_narrow|narrow]], [[s/_shut|shut]], [[c/_cover|cover]], [[s/_shut|shut]], [[e/_end|end]], [[f/_finish|finish]], [[t/_terminate|terminate]], [[e/_exit|exit]]
 ### Antonyms
-- [[extend]], [[widen]], [[open]], [[open]], [[begin]], [[commence]], [[initiate]], [[start]], [[open]], [[start]]
+- [[e/_extend|extend]], [[w/_widen|widen]], [[o/_open|open]], [[o/_open|open]], [[b/_begin|begin]], [[c/_commence|commence]], [[i/_initiate|initiate]], [[s/_start|start]], [[o/_open|open]], [[s/_start|start]]
 #adjective
 - **Sealed, made inaccessible or impassable; not open.**
 - **(of a store or [[b/_business|business]]) Not operating or [[c/_conducting|conducting]] trade.**
@@ -24,7 +24,7 @@
 - **Having the sound [[c/_cut|cut]] off sharply by a following [[c/_consonant|consonant]], like the /ɪ/ in pin.**
 ---
 ### Synonyms
-- [[shut]]
+- [[s/_shut|shut]]
 ### Antonyms
-- [[open]]
+- [[o/_open|open]]
 ---

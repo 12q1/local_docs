@@ -9,5 +9,5 @@
 - **Supported by [[c/_charity|charity]]**
 ---
 ### Synonyms
-- [[charitable]]
+- [[c/_charitable|charitable]]
 ---

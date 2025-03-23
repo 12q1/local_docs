@@ -7,7 +7,7 @@
 - **To [[c/_converge|converge]].**
 ---
 ### Synonyms
-- [[cooperate]], [[unite]], [[assemble]], [[congregate]], [[crowd]], [[flock]], [[accord]], [[agree]], [[coexist]]
+- [[c/_cooperate|cooperate]], [[u/_unite|unite]], [[a/_assemble|assemble]], [[c/_congregate|congregate]], [[c/_crowd|crowd]], [[f/_flock|flock]], [[a/_accord|accord]], [[a/_agree|agree]], [[c/_coexist|coexist]]
 ### Antonyms
-- [[diverge]], [[disassemble]], [[disperse]], [[disagree]], [[dissent]]
+- [[d/_diverge|diverge]], [[d/_disassemble|disassemble]], [[d/_disperse|disperse]], [[d/_disagree|disagree]], [[d/_dissent|dissent]]
 ---

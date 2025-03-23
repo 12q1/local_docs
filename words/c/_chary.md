@@ -10,5 +10,5 @@
 - **[[c/_cared|Cared]] for, regarded as precious; [[c/_cherished|cherished]].**
 ---
 ### Antonyms
-- [[unchary]], [[unchary]], [[unchary]], [[unchary]]
+- [[u/_unchary|unchary]], [[u/_unchary|unchary]], [[u/_unchary|unchary]], [[u/_unchary|unchary]]
 ---

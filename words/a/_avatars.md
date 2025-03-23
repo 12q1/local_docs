@@ -6,5 +6,5 @@
 - **A [[d/_digital|digital]] representation of a person or [[b/_being|being]]; often, it [[c/_can|can]] take on [[a/_any|any]] of various forms, as a participant [[c/_chooses|chooses]]. [[e/_e|e]].g. 3D, [[a/_animated|animated]], photo, sketch of a person or a person's [[a/_alter|alter]] [[e/_ego|ego]], sometimes used in a virtual world or virtual [[c/_chat|chat]] room.**
 ---
 ### Synonyms
-- [[profile picture]], [[user pic]]
+- 
 ---

@@ -20,8 +20,8 @@
 	- _Example: I'd like a big bit of cake, please._
 - **Somewhat; something, but not very great; [[a/_also|also]] used like jot and whit to express the smallest [[d/_degree|degree]]. See [[a/_also|also]] a [[b/_bit|bit]].**
 	- _Example: Am I bored? Not a bit of it!_
-- **A prison sentence, especially a short one.**
-- **An excerpt of material making up part of a show, [[c/_comedy|comedy]] routine, etc.**
+- **A prison sentence, [[e/_especially|especially]] a short one.**
+- **An excerpt of material making up part of a show, [[c/_comedy|comedy]] routine, [[e/_etc|etc]].**
 	- _Example: His bit about video games was not nearly as entertaining as the other segments of his show._
 - **A small part or role, sometimes with spoken lines, in a theatrical performance.**
 	- _Example: She acted her bit in the opening scene._
@@ -30,7 +30,7 @@
 - **The [[b/_bevelled|bevelled]] front [[e/_edge|edge]] of an axehead [[a/_along|along]] which the [[c/_cutting|cutting]] [[e/_edge|edge]] runs.**
 ---
 ### Synonyms
-- [[coin]], [[piece]], [[kimberwicke]], [[pelham]], [[snaffle]], [[portion]], [[segment]], [[share]], [[bid]], [[morsel]], [[piece]], [[scrap]]
+- [[c/_coin|coin]], [[p/_piece|piece]], [[k/_kimberwicke|kimberwicke]], [[p/_pelham|pelham]], [[s/_snaffle|snaffle]], [[p/_portion|portion]], [[s/_segment|segment]], [[s/_share|share]], [[b/_bid|bid]], [[m/_morsel|morsel]], [[p/_piece|piece]], [[s/_scrap|scrap]]
 #verb
 - **To put a [[b/_bridle|bridle]] upon; to put the [[b/_bit|bit]] in the mouth of (a horse).**
 ---

@@ -9,5 +9,5 @@
 	- _Example: 1996, Beruga (line translated by Dan Owsen), Terranigma. Nintendo of America._
 ---
 ### Synonyms
-- [[sex up]], [[turn on]], [[animate]], [[energize]], [[inspire]], [[rouse]], [[wake up]]
+- [[a/_animate|animate]], [[e/_energize|energize]], [[i/_inspire|inspire]], [[r/_rouse|rouse]]
 ---

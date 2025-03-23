@@ -5,5 +5,5 @@
 - **A signature made from interwoven [[a/_arabic|Arabic]] words.**
 ---
 ### Synonyms
-- [[carmen figuratum]], [[figure poem]]
+- 
 ---

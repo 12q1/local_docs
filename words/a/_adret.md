@@ -4,5 +4,5 @@
 - **The sun-facing side of a mountain.**
 ---
 ### Antonyms
-- [[ubac]]
+- [[u/_ubac|ubac]]
 ---

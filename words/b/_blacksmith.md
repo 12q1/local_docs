@@ -6,7 +6,7 @@
 - **A [[b/_blackish|blackish]] fish of the Pacific [[c/_coast|coast]] (Chromis punctipinnis).**
 ---
 ### Synonyms
-- [[farrier]], [[ironsmith]]
+- [[f/_farrier|farrier]], [[i/_ironsmith|ironsmith]]
 #verb
 - **To work as a [[b/_blacksmith|blacksmith]].**
 ---

@@ -4,5 +4,5 @@
 - **A sudden heavy rainstorm.**
 ---
 ### Synonyms
-- [[cloudbust]]
+- [[c/_cloudbust|cloudbust]]
 ---

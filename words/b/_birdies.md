@@ -12,7 +12,7 @@
 - **(usually preceded by "the") A [[c/_certain|certain]] rude gesture in some [[c/_countries|countries]], formed with the middle and index fingers.**
 ---
 ### Synonyms
-- [[cocky]]
+- [[c/_cocky|cocky]]
 #verb
 - **To score a [[b/_birdie|birdie]].**
 	- _Example: Sörenstam birdied to take the lead._

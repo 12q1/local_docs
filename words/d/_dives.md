@@ -10,7 +10,7 @@
 - **A [[d/_downward|downward]] swooping motion.**
 - **A swim under water.**
 - **A [[d/_decline|decline]].**
-- **A seedy [[b/_bar|bar]], nightclub, etc.**
+- **A seedy [[b/_bar|bar]], nightclub, [[e/_etc|etc]].**
 - **[[a/_aerial|Aerial]] [[d/_descent|descent]] with the nose pointed [[d/_down|down]].**
 - **A [[d/_deliberate|deliberate]] fall [[a/_after|after]] a [[c/_challenge|challenge]].**
 ---
@@ -20,11 +20,11 @@
 - **To jump headfirst toward the ground or into [[a/_another|another]] substance.**
 	- _Example: to dive into home plate_
 - **To [[d/_descend|descend]] sharply or steeply.**
-- **(especially with in) To undertake with [[e/_enthusiasm|enthusiasm]].**
+- **([[e/_especially|especially]] with in) To undertake with [[e/_enthusiasm|enthusiasm]].**
 	- _Example: She dove right in and started making improvements._
 - **To [[d/_deliberately|deliberately]] fall [[d/_down|down]] [[a/_after|after]] a [[c/_challenge|challenge]], imitating [[b/_being|being]] fouled, in the hope of getting one's opponent penalised.**
 - **To [[c/_cause|cause]] to [[d/_descend|descend]], [[d/_dunk|dunk]]; to plunge something into water.**
 - **To explore by [[d/_diving|diving]]; to plunge into.**
-- **To plunge or to go [[d/_deeply|deeply]] into [[a/_any|any]] subject, question, [[b/_business|business]], etc.; to penetrate; to explore.**
+- **To plunge or to go [[d/_deeply|deeply]] into [[a/_any|any]] subject, question, [[b/_business|business]], [[e/_etc|etc]].; to penetrate; to explore.**
 ---
 ---

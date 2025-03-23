@@ -10,5 +10,5 @@
 - **(Philippine [[e/_english|English]]) to fill out a form**
 ---
 ### Synonyms
-- [[achieve]], [[carry out]], [[complete]], [[consummate]], [[do]], [[effect]], [[effectuate]], [[equip]], [[execute]], [[fulfill]], [[furnish]], [[perfect]], [[perform]], [[realize]]
+- [[a/_achieve|achieve]], [[c/_complete|complete]], [[c/_consummate|consummate]], [[d/_do|do]], [[e/_effect|effect]], [[e/_effectuate|effectuate]], [[e/_equip|equip]], [[e/_execute|execute]], [[f/_fulfill|fulfill]], [[f/_furnish|furnish]], [[p/_perfect|perfect]], [[p/_perform|perform]], [[r/_realize|realize]]
 ---

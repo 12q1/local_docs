@@ -9,5 +9,5 @@
 - **Of, or relating to the science, technology and industry [[a/_associated|associated]] with [[a/_aircraft|aircraft]], missiles, satellites and spacecraft.**
 ---
 ### Synonyms
-- [[aerospatial]]
+- [[a/_aerospatial|aerospatial]]
 ---

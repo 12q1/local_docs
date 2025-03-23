@@ -10,5 +10,5 @@
 - **To render [[d/_dim|dim]] or obscure; to sully; to tarnish.**
 ---
 ### Synonyms
-- [[dullen]]
+- [[d/_dullen|dullen]]
 ---

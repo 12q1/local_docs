@@ -5,5 +5,5 @@
 - **A single [[a/_atom|atom]] of this [[e/_element|element]].**
 ---
 ### Synonyms
-- [[E925]]
+- [[E/_E925|E925]]
 ---

@@ -5,5 +5,5 @@
 - **[[c/_characteristic|Characteristic]] of a [[c/_coquet|coquet]].**
 ---
 ### Synonyms
-- [[flirtatious]]
+- [[f/_flirtatious|flirtatious]]
 ---

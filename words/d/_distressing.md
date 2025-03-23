@@ -7,7 +7,7 @@
 	- _Example: She distressed the new media cabinet so that it fit with the other furniture in the room._
 ---
 ### Synonyms
-- [[age]], [[antique]], [[patinate]], [[anguish]], [[harrow]], [[martyr]], [[tantalise]], [[tantalize]], [[torment]], [[trouble]], [[vex]], [[distrain]]
+- [[a/_age|age]], [[a/_antique|antique]], [[p/_patinate|patinate]], [[a/_anguish|anguish]], [[h/_harrow|harrow]], [[m/_martyr|martyr]], [[t/_tantalise|tantalise]], [[t/_tantalize|tantalize]], [[t/_torment|torment]], [[t/_trouble|trouble]], [[v/_vex|vex]], [[d/_distrain|distrain]]
 #adjective
 - **[[c/_causing|Causing]] [[d/_distress|distress]]; upsetting; [[d/_distressful|distressful]].**
 	- _Example: The details of the ordeal can be distressing to some readers._

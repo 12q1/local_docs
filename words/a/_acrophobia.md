@@ -4,7 +4,7 @@
 - **Fear of heights.**
 ---
 ### Synonyms
-- [[altophobia]], [[height-fear]]
+- [[a/_altophobia|altophobia]], [[h/_height-fear|height-fear]]
 ### Antonyms
-- [[bathophobia]]
+- [[b/_bathophobia|bathophobia]]
 ---

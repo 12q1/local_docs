@@ -1,7 +1,7 @@
 # Casinos
 ---
 #noun
-- **A public [[b/_building|building]] or room for [[e/_entertainment|entertainment]], especially gambling.**
+- **A public [[b/_building|building]] or room for [[e/_entertainment|entertainment]], [[e/_especially|especially]] gambling.**
 - **A [[c/_card|card]] game for two to four players.**
 ---
 ---

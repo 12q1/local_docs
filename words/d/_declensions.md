@@ -7,5 +7,5 @@
 	- _Example: In Latin, 'amicus' belongs to the second declension. Most second-declension nouns end in '-i' in the genitive singular and '-um' in the accusative singular._
 ---
 ### Synonyms
-- [[declination]]
+- [[d/_declination|declination]]
 ---

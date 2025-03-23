@@ -4,5 +4,5 @@
 - **A one-piece, skin-tight garment rather like a leotard.**
 ---
 ### Synonyms
-- [[bodyliner]]
+- [[b/_bodyliner|bodyliner]]
 ---

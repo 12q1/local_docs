@@ -5,7 +5,7 @@
 - **(Western United States) Soluble mineral matter, other than [[c/_common|common]] salt, [[c/_contained|contained]] in soils of natural waters.**
 ---
 ### Synonyms
-- [[base]]
+- [[b/_base|base]]
 ### Antonyms
-- [[acid]]
+- [[a/_acid|acid]]
 ---

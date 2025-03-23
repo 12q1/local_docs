@@ -7,5 +7,5 @@
 - **To repair or mend [[c/_clumsily|clumsily]].**
 ---
 ### Synonyms
-- [[bodge]], [[bungle]], [[destroy]], [[ruin]], [[spoil]]
+- [[b/_bodge|bodge]], [[b/_bungle|bungle]], [[d/_destroy|destroy]], [[r/_ruin|ruin]], [[s/_spoil|spoil]]
 ---

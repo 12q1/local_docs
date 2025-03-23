@@ -7,5 +7,5 @@
 - **Permitting the possession of [[a/_alcoholic|alcoholic]] [[b/_beverages|beverages]], but not their sale.**
 ---
 ### Synonyms
-- [[glum]], [[melancholy]], [[sorrowful]], [[moist]], [[thoan]], [[thone]]
+- [[g/_glum|glum]], [[m/_melancholy|melancholy]], [[s/_sorrowful|sorrowful]], [[m/_moist|moist]], [[t/_thoan|thoan]], [[t/_thone|thone]]
 ---

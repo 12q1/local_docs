@@ -4,5 +4,5 @@
 - **Of or pertaining to the cryptogams.**
 ---
 ### Synonyms
-- [[cryptogamous]]
+- [[c/_cryptogamous|cryptogamous]]
 ---

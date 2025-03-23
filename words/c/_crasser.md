@@ -7,5 +7,5 @@
 - **Lacking finesse; [[c/_crude|crude]] and obvious.**
 ---
 ### Antonyms
-- [[delicate]], [[refined]], [[sensitive]]
+- [[d/_delicate|delicate]], [[r/_refined|refined]], [[s/_sensitive|sensitive]]
 ---

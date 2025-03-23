@@ -4,7 +4,7 @@
 - **A slothful or stupid person.**
 ---
 ### Synonyms
-- [[dullard]]
+- [[d/_dullard|dullard]]
 #noun
 - **Usually preceded by the: a state of [[a/_apathy|apathy]] or lack of interest; a situation where one feels [[b/_boredom|boredom]], [[e/_ennui|ennui]], or tedium; a state of listlessness or malaise.**
 	- _Example: I was in the doldrums yesterday and just didn’t feel inspired._
@@ -12,5 +12,5 @@
 - **(by extension) Usually preceded by the: a part of the ocean near the [[e/_equator|equator]] where [[c/_calms|calms]], squalls, and light, [[b/_baffling|baffling]] winds are [[c/_common|common]].**
 ---
 ### Synonyms
-- [[calms]], [[intertropical convergence zone (ITCZ)]], [[dumps]]
+- [[c/_calms|calms]], [[d/_dumps|dumps]]
 ---

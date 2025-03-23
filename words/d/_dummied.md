@@ -6,5 +6,5 @@
 - **To feint.**
 ---
 ### Synonyms
-- [[juke]]
+- [[j/_juke|juke]]
 ---

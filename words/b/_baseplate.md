@@ -7,5 +7,5 @@
 - **A steel plate used on rail tracks [[b/_between|between]] flanged T rail and the [[c/_crossties|crossties]].**
 ---
 ### Synonyms
-- [[baseplate]]
+- [[b/_baseplate|baseplate]]
 ---

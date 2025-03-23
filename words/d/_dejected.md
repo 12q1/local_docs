@@ -8,7 +8,7 @@
 - **Sad and [[d/_dispirited|dispirited]].**
 ---
 ### Synonyms
-- [[despondent]], [[disheartened]], [[down in the mouth]]
+- [[d/_despondent|despondent]], [[d/_disheartened|disheartened]]
 ### Antonyms
-- [[hopeful]]
+- [[h/_hopeful|hopeful]]
 ---

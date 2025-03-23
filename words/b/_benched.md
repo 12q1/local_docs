@@ -9,7 +9,7 @@
 - **To place on a [[b/_bench|bench]] or seat of honour.**
 ---
 ### Synonyms
-- [[sideline]]
+- [[s/_sideline|sideline]]
 #verb
 - **To lift by [[b/_bench|bench]] pressing**
 	- _Example: I heard he can bench 150 pounds._

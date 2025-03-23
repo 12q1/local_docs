@@ -7,7 +7,7 @@
 	- _Example: The patient suffers from adrenal dystopia._
 ---
 ### Synonyms
-- [[ectopia]], [[ectopy]], [[heterotopia]], [[malposition]], [[anti-utopia]], [[cacotopia]], [[kakotopia]]
+- [[e/_ectopia|ectopia]], [[e/_ectopy|ectopy]], [[h/_heterotopia|heterotopia]], [[m/_malposition|malposition]], [[a/_anti-utopia|anti-utopia]], [[c/_cacotopia|cacotopia]], [[k/_kakotopia|kakotopia]]
 ### Antonyms
-- [[utopia]]
+- [[u/_utopia|utopia]]
 ---

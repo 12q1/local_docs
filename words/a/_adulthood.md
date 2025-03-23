@@ -5,5 +5,5 @@
 - **The time period of a human [[b/_being|being]]'s majority; the time [[d/_during|during]] which a human [[b/_being|being]] has reached physical maturity, and [[e/_ending|ending]] with its [[d/_death|death]].**
 ---
 ### Antonyms
-- [[childhood]]
+- [[c/_childhood|childhood]]
 ---

@@ -7,5 +7,5 @@
 	- _Example: mere declamation_
 ---
 ### Synonyms
-- [[haranguing]]
+- [[h/_haranguing|haranguing]]
 ---

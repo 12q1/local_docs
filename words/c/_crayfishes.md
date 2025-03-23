@@ -6,5 +6,5 @@
 - **The species Thenus orientalis of the slipper lobster family.**
 ---
 ### Synonyms
-- [[crawdad]], [[crawfish]], [[crawldad]], [[crawlfish]], [[mudbug]], [[yabby]]
+- [[c/_crawdad|crawdad]], [[c/_crawfish|crawfish]], [[c/_crawldad|crawldad]], [[c/_crawlfish|crawlfish]], [[m/_mudbug|mudbug]], [[y/_yabby|yabby]]
 ---

@@ -7,5 +7,5 @@
 	- _Example: to digitize a pen_
 ---
 ### Synonyms
-- [[digitalize]]
+- [[d/_digitalize|digitalize]]
 ---

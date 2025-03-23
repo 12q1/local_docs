@@ -8,7 +8,7 @@
 - **(of a [[c/_clause|clause]] in a testament) [[b/_being|Being]] or pertaining to a [[d/_derogatory|derogatory]] [[c/_clause|clause]].**
 ---
 ### Synonyms
-- [[injurious]], [[pejorative]]
+- [[i/_injurious|injurious]], [[p/_pejorative|pejorative]]
 ### Antonyms
-- [[honorific]]
+- [[h/_honorific|honorific]]
 ---

@@ -4,5 +4,5 @@
 - **Situated on the same side of the [[a/_atlantic|Atlantic]] Ocean.**
 ---
 ### Antonyms
-- [[Transatlantic]]
+- [[T/_Transatlantic|Transatlantic]]
 ---

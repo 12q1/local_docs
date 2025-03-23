@@ -6,5 +6,5 @@
 - **Something which has the qualities of great power and might, and monstrous proportions.**
 ---
 ### Synonyms
-- [[colossus]], [[leviathan]], [[mammoth]], [[titan]]
+- [[c/_colossus|colossus]], [[l/_leviathan|leviathan]], [[m/_mammoth|mammoth]], [[t/_titan|titan]]
 ---

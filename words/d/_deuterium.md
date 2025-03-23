@@ -5,5 +5,5 @@
 	- _Example: There were about 80 deuteriums for every million protiums, and virtually no tritium._
 ---
 ### Synonyms
-- [[D]], [[heavy hydrogen]]
+- [[D/_D|D]]
 ---

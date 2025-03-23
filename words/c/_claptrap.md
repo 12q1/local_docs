@@ -6,5 +6,5 @@
 - **A [[d/_device|device]] or trick to gain [[a/_applause|applause]]; a humbug.**
 ---
 ### Synonyms
-- [[hot air]], [[palaver]], [[waffle]]
+- [[p/_palaver|palaver]], [[w/_waffle|waffle]]
 ---

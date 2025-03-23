@@ -24,9 +24,9 @@
 - **To [[d/_destroy|destroy]], or level to the ground.**
 ---
 ### Synonyms
-- [[contract]], [[cut short]], [[decrease]], [[diminish]], [[lessen]], [[lower]], [[moderate]], [[remit]], [[remove]], [[slacken]], [[suppress]], [[terminate]], [[appease]], [[depress]], [[humble]], [[pacify]], [[soften]], [[soothe]], [[tranquilize]], [[fail]], [[fall through]], [[alleviate]], [[assuage]], [[decline]], [[diminish]], [[ebb]], [[mitigate]], [[relax]], [[subside]], [[temper]], [[wane]]
+- [[c/_contract|contract]], [[d/_decrease|decrease]], [[d/_diminish|diminish]], [[l/_lessen|lessen]], [[l/_lower|lower]], [[m/_moderate|moderate]], [[r/_remit|remit]], [[r/_remove|remove]], [[s/_slacken|slacken]], [[s/_suppress|suppress]], [[t/_terminate|terminate]], [[a/_appease|appease]], [[d/_depress|depress]], [[h/_humble|humble]], [[p/_pacify|pacify]], [[s/_soften|soften]], [[s/_soothe|soothe]], [[t/_tranquilize|tranquilize]], [[f/_fail|fail]], [[a/_alleviate|alleviate]], [[a/_assuage|assuage]], [[d/_decline|decline]], [[d/_diminish|diminish]], [[e/_ebb|ebb]], [[m/_mitigate|mitigate]], [[r/_relax|relax]], [[s/_subside|subside]], [[t/_temper|temper]], [[w/_wane|wane]]
 ### Antonyms
-- [[accelerate]], [[aggravate]], [[amplify]], [[augment]], [[continue]], [[develop]], [[enhance]], [[enlarge]], [[extend]], [[foment]], [[increase]], [[intensify]], [[magnify]], [[prolong]], [[raise]], [[revive]], [[rise]]
+- [[a/_accelerate|accelerate]], [[a/_aggravate|aggravate]], [[a/_amplify|amplify]], [[a/_augment|augment]], [[c/_continue|continue]], [[d/_develop|develop]], [[e/_enhance|enhance]], [[e/_enlarge|enlarge]], [[e/_extend|extend]], [[f/_foment|foment]], [[i/_increase|increase]], [[i/_intensify|intensify]], [[m/_magnify|magnify]], [[p/_prolong|prolong]], [[r/_raise|raise]], [[r/_revive|revive]], [[r/_rise|rise]]
 #verb
 - **To [[e/_enter|enter]] a tenement without permission [[a/_after|after]] the owner has [[d/_died|died]] and [[b/_before|before]] the heir takes possession.**
 ---

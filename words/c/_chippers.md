@@ -12,5 +12,5 @@
 - **A golf [[c/_club|club]] for making [[c/_chip|chip]] shots.**
 ---
 ### Synonyms
-- [[greasy spoon]], [[hole in the wall]]
+- 
 ---

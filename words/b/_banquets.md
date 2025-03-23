@@ -5,7 +5,7 @@
 - **A [[d/_dessert|dessert]]; a [[c/_course|course]] of sweetmeats.**
 ---
 ### Synonyms
-- [[feast]], [[reception]]
+- [[f/_feast|feast]], [[r/_reception|reception]]
 #verb
 - **To participate in a [[b/_banquet|banquet]]; to feast.**
 - **To have [[d/_dessert|dessert]] [[a/_after|after]] a feast.**

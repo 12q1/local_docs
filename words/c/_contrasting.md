@@ -10,5 +10,5 @@
 	- _Example: George W. Bush and John Kerry had contrasting debating styles._
 ---
 ### Antonyms
-- [[identical]]
+- [[i/_identical|identical]]
 ---

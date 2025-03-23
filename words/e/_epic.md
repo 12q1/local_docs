@@ -8,7 +8,7 @@
 - **In software [[d/_development|development]], a large or extended user story.**
 ---
 ### Synonyms
-- [[epos]], [[épopée]]
+- [[e/_epos|epos]], [[é/_épopée|épopée]]
 #adjective
 - **Of, or relating to, an [[e/_epic|epic]].**
 	- _Example: Beowulf is an epic poem._
@@ -18,5 +18,5 @@
 	- _Example: The after-prom party was truly epic._
 ---
 ### Synonyms
-- [[epical]], [[extraordinary]], [[momentous]], [[remarkable]]
+- [[e/_epical|epical]], [[e/_extraordinary|extraordinary]], [[m/_momentous|momentous]], [[r/_remarkable|remarkable]]
 ---

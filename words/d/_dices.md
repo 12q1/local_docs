@@ -7,7 +7,7 @@
 	- _Example: Cut onions, carrots and celery into medium dice._
 ---
 ### Synonyms
-- [[astragals]]
+- [[a/_astragals|astragals]]
 #verb
 - **To play [[d/_dice|dice]].**
 - **To [[c/_cut|cut]] into small [[c/_cubes|cubes]].**

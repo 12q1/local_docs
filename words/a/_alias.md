@@ -7,7 +7,7 @@
 - **An spurious signal generated as a technological [[a/_artifact|artifact]].**
 ---
 ### Synonyms
-- [[pseudonym]]
+- [[p/_pseudonym|pseudonym]]
 #verb
 - **To [[a/_assign|assign]] an [[a/_additional|additional]] name to an [[e/_entity|entity]], often a more user-friendly one.**
 - **(of two signals) to [[b/_become|become]] indistinguishable**
@@ -18,5 +18,5 @@
 	- _Example: Smith, alias Simpson._
 ---
 ### Synonyms
-- [[AKA]]
+- [[A/_AKA|AKA]]
 ---

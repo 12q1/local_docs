@@ -21,9 +21,9 @@
 - **[[a/_already|Already]] past or gone; [[b/_bygone|bygone]].**
 ---
 ### Synonyms
-- [[Third World]], [[developing]], [[antediluvian]], [[antiquated]], [[backwards]], [[parachronistic]], [[retrograde]], [[forepast]], [[historical]], [[overdue]], [[tardy]], [[retrograde]]
+- [[d/_developing|developing]], [[a/_antediluvian|antediluvian]], [[a/_antiquated|antiquated]], [[b/_backwards|backwards]], [[p/_parachronistic|parachronistic]], [[r/_retrograde|retrograde]], [[f/_forepast|forepast]], [[h/_historical|historical]], [[o/_overdue|overdue]], [[t/_tardy|tardy]], [[r/_retrograde|retrograde]]
 ### Antonyms
-- [[First World]], [[developed]], [[forward]], [[progressive]]
+- [[d/_developed|developed]], [[f/_forward|forward]], [[p/_progressive|progressive]]
 #adverb
 - **(of motion) In the [[d/_direction|direction]] towards the [[b/_back|back]]; [[b/_backwards|backwards]]**
 	- _Example: to throw the arms backward_
@@ -32,7 +32,7 @@
 - **From a [[b/_better|better]] to a worse state, as from honor to shame, from religion to sin.**
 ---
 ### Synonyms
-- [[backwards]]
+- [[b/_backwards|backwards]]
 ### Antonyms
-- [[forward]], [[forwards]]
+- [[f/_forward|forward]], [[f/_forwards|forwards]]
 ---

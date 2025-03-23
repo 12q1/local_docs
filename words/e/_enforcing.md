@@ -5,7 +5,7 @@
 	- _Example: The police are there to enforce the law._
 - **To give strength or force to; to [[a/_affirm|affirm]], to [[e/_emphasize|emphasize]].**
 	- _Example: The victim was able to enforce his evidence against the alleged perpetrator._
-- **To strengthen (a [[c/_castle|castle]], town etc.) with extra troops, fortifications etc.**
+- **To strengthen (a [[c/_castle|castle]], town [[e/_etc|etc]].) with extra troops, fortifications [[e/_etc|etc]].**
 - **To intensify, make stronger, [[a/_add|add]] force to.**
 - **To exert oneself, to try hard.**
 - **To [[c/_compel|compel]], oblige (someone or something); to force.**

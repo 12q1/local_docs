@@ -7,7 +7,7 @@
 - **(grammar) The [[a/_aorist|aorist]] subjunctive or subjunctive perfective: a form of a verb not used independently but preceded by a particle to form the negative or a tense form. Found in Greek and in the Gaelic languages.**
 ---
 ### Synonyms
-- [[dependant]]
+- [[d/_dependant|dependant]]
 #adjective
 - **Relying upon; [[d/_depending|depending]] upon.**
 	- _Example: At that point I was dependent on financial aid for my tuition._
@@ -18,5 +18,5 @@
 	- _Example: a dependent bough or leaf_
 ---
 ### Antonyms
-- [[independent]]
+- [[i/_independent|independent]]
 ---

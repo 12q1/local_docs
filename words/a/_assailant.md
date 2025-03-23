@@ -5,7 +5,7 @@
 - **(by extension) A hostile [[c/_critic|critic]] or opponent.**
 ---
 ### Synonyms
-- [[attacker]]
+- [[a/_attacker|attacker]]
 #adjective
 - **[[a/_assailing|Assailing]]; [[a/_attacking|attacking]].**
 ---

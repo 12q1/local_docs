@@ -8,5 +8,5 @@
 - **Well skilled; [[c/_completely|completely]] versed; thoroughly proficient**
 ---
 ### Antonyms
-- [[inept]]
+- [[i/_inept|inept]]
 ---

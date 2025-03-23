@@ -6,7 +6,7 @@
 - **Fit; suitable; [[a/_appropriate|appropriate]].**
 ---
 ### Synonyms
-- [[easy]], [[expedient]], [[simple]]
+- [[e/_easy|easy]], [[e/_expedient|expedient]], [[s/_simple|simple]]
 ### Antonyms
-- [[inconvenient]]
+- [[i/_inconvenient|inconvenient]]
 ---

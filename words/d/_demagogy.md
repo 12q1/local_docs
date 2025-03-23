@@ -4,5 +4,5 @@
 - **[[d/_demagogism|Demagogism]]**
 ---
 ### Synonyms
-- [[demagogism]], [[demagoguery]]
+- [[d/_demagogism|demagogism]], [[d/_demagoguery|demagoguery]]
 ---

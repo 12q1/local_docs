@@ -4,5 +4,5 @@
 - **A shop that sells [[b/_books|books]].**
 ---
 ### Synonyms
-- [[bookstore]]
+- [[b/_bookstore|bookstore]]
 ---

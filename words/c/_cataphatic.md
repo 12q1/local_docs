@@ -5,5 +5,5 @@
 - **(by extension) That which [[a/_actively|actively]] [[d/_defines|defines]] a thing by [[d/_describing|describing]] what it is [[c/_characteristic|characteristic]] thereof.**
 ---
 ### Antonyms
-- [[apophatic]]
+- [[a/_apophatic|apophatic]]
 ---

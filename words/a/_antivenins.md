@@ -5,5 +5,5 @@
 - **A serum [[c/_containing|containing]] [[a/_antivenins|antivenins]].**
 ---
 ### Synonyms
-- [[anti-venene]], [[antivenene]], [[anti-venom]], [[antivenom]]
+- [[a/_anti-venene|anti-venene]], [[a/_antivenene|antivenene]], [[a/_anti-venom|anti-venom]], [[a/_antivenom|antivenom]]
 ---

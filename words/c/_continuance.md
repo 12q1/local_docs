@@ -5,7 +5,7 @@
 - **An order issued by a [[c/_court|court]] granting a postponement of a legal proceeding for a set period.**
 ---
 ### Synonyms
-- [[perdurance]], [[remanence]]
+- [[p/_perdurance|perdurance]], [[r/_remanence|remanence]]
 ### Antonyms
-- [[discontinuance]]
+- [[d/_discontinuance|discontinuance]]
 ---

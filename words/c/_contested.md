@@ -10,9 +10,9 @@
 - **To make a subject of litigation; to [[d/_defend|defend]], as a suit; to [[d/_dispute|dispute]] or resist, as a [[c/_claim|claim]], by [[c/_course|course]] of law.**
 ---
 ### Synonyms
-- [[call into question]], [[oppose]], [[compete]], [[contend]], [[go in for]], [[controvert]]
+- [[o/_oppose|oppose]], [[c/_compete|compete]], [[c/_contend|contend]], [[c/_controvert|controvert]]
 ### Antonyms
-- [[support]]
+- [[s/_support|support]]
 #adjective
 - **[[c/_controversial|Controversial]]; [[c/_contentious|contentious]]; [[d/_debated|debated]]**
 ---

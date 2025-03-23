@@ -3,7 +3,7 @@
 #noun
 - **The food of the gods, thought to [[c/_confer|confer]] immortality.**
 - **The [[a/_anointing|anointing]]-oil of the gods.**
-- **[[a/_any|Any]] food with an especially [[d/_delicious|delicious]] flavour or fragrance.**
+- **[[a/_any|Any]] food with an [[e/_especially|especially]] [[d/_delicious|delicious]] flavour or fragrance.**
 - **[[a/_anything|Anything]] [[d/_delightfully|delightfully]] sweet and pleasing.**
 - **An [[a/_annual|annual]] herb historically used medicinally and in [[c/_cooking|cooking]], Dysphania botrys.**
 - **A mixture of nectar and pollen prepared by worker [[b/_bees|bees]] and fed to larvae.**

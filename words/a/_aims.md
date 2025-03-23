@@ -11,7 +11,7 @@
 - **[[c/_conjecture|Conjecture]]; guess.**
 ---
 ### Synonyms
-- [[aspiration]], [[design]], [[end]], [[ettle]], [[intention]], [[mint]], [[object]], [[purpose]], [[scheme]], [[scope]], [[tendency]], [[design]], [[purpose]], [[scheme]]
+- [[a/_aspiration|aspiration]], [[d/_design|design]], [[e/_end|end]], [[e/_ettle|ettle]], [[i/_intention|intention]], [[m/_mint|mint]], [[o/_object|object]], [[p/_purpose|purpose]], [[s/_scheme|scheme]], [[s/_scope|scope]], [[t/_tendency|tendency]], [[d/_design|design]], [[p/_purpose|purpose]], [[s/_scheme|scheme]]
 #verb
 - **To point or [[d/_direct|direct]] a missile, or a weapon which propels as missile, towards an object or spot with the intent of hitting it**
 	- _Example: He aimed at the target, but the arrow flew straight over it._

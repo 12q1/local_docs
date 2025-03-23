@@ -5,5 +5,5 @@
 - **Extremely [[b/_bad|bad]]; terrible.**
 ---
 ### Synonyms
-- [[fathomless]], [[immeasurable]], [[profound]], [[unending]]
+- [[f/_fathomless|fathomless]], [[i/_immeasurable|immeasurable]], [[p/_profound|profound]], [[u/_unending|unending]]
 ---

@@ -13,5 +13,5 @@
 - **One of the handles [[a/_above|above]] the trunnions by which a gun was lifted.**
 ---
 ### Synonyms
-- [[mereswine]], [[sea goose]], [[sea pig]]
+- [[m/_mereswine|mereswine]]
 ---

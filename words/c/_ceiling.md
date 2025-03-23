@@ -15,5 +15,5 @@
 - **The inner planking of a vessel.**
 ---
 ### Antonyms
-- [[floor]]
+- [[f/_floor|floor]]
 ---

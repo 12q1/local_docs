@@ -11,7 +11,7 @@
 - **(of a [[b/_beer|beer]]) To [[b/_become|become]] less [[d/_dense|dense]] as a result of the [[c/_conversion|conversion]] of sugar to [[a/_alcohol|alcohol]].**
 ---
 ### Antonyms
-- [[amplify]]
+- [[a/_amplify|amplify]]
 #adjective
 - **(of leaves) Gradually tapering into a petiole-like extension toward the [[b/_base|base]].**
 ---

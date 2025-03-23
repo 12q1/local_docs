@@ -7,7 +7,7 @@
 - **To [[a/_allay|allay]]; to temper.**
 ---
 ### Synonyms
-- [[calm]], [[moderate]], [[quell]], [[cunctation]], [[hold-up]], [[adjourn]], [[defer]], [[forslow]], [[on ice]], [[penelopize]], [[postpone]], [[put off]], [[suspend]], [[forslow]], [[get in the way]], [[hold up]], [[impede]]
+- [[c/_calm|calm]], [[m/_moderate|moderate]], [[q/_quell|quell]], [[c/_cunctation|cunctation]], [[h/_hold-up|hold-up]], [[a/_adjourn|adjourn]], [[d/_defer|defer]], [[f/_forslow|forslow]], [[p/_penelopize|penelopize]], [[p/_postpone|postpone]], [[s/_suspend|suspend]], [[f/_forslow|forslow]], [[i/_impede|impede]]
 #verb
 - **To [[d/_dilute|dilute]], temper.**
 - **To [[a/_assuage|assuage]], quench, [[a/_allay|allay]].**

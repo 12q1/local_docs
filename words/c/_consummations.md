@@ -5,6 +5,6 @@
 - **The first [[a/_act|act]] of sexual intercourse in a relationship, particularly the first such [[a/_act|act]] following marriage.**
 - **The [[a/_achievement|achievement]] of perfection.**
 - **Termination; the [[e/_end|end]] (as of the world or of life).**
-- **The [[d/_date|date]] at which the mortgagor [[b/_becomes|becomes]] [[c/_contractually|contractually]] obligated to the mortgagee in a real estate transaction.**
+- **The [[d/_date|date]] at which the mortgagor [[b/_becomes|becomes]] [[c/_contractually|contractually]] obligated to the mortgagee in a real [[e/_estate|estate]] transaction.**
 ---
 ---

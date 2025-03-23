@@ -5,5 +5,5 @@
 - **The wood from a [[b/_birch|birch]] tree.**
 ---
 ### Synonyms
-- [[birch]]
+- [[b/_birch|birch]]
 ---

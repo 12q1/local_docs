@@ -5,7 +5,7 @@
 - **[[a/_any|Any]] similar [[d/_double|double]] sulphate in which [[e/_either|either]] or [[b/_both|both]] of the potassium and [[a/_aluminium|aluminium]] is wholly or partly replaced by other univalent or tervalent [[c/_cations|cations]].**
 ---
 ### Synonyms
-- [[potash alum]]
+- 
 #noun
 - **(shortening) A past [[a/_attendee|attendee]] or graduate (of [[e/_either|either]] gender) of a [[c/_college|college]], university or other [[e/_educational|educational]] institution.**
 ---

@@ -5,5 +5,5 @@
 - **[[c/_cerecloth|Cerecloth]].**
 ---
 ### Synonyms
-- [[pall]], [[winding clothes]], [[winding sheet]]
+- [[p/_pall|pall]]
 ---

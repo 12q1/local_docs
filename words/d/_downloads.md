@@ -7,7 +7,7 @@
 	- _Example: I got the download but it wouldn't work on my computer._
 ---
 ### Antonyms
-- [[upload]]
+- [[u/_upload|upload]]
 #verb
 - **To transfer [[d/_data|data]] from a remote [[c/_computer|computer]] (server) to a local [[c/_computer|computer]], usually via a network.**
 	- _Example: You can download a trial version of the program for thirty days to determine whether you want to purchase the full version._
@@ -17,7 +17,7 @@
 - **To install software.**
 ---
 ### Synonyms
-- [[D/L]], [[DL]], [[d/l]], [[dl]], [[copy]], [[move]], [[transfer]]
+- [[D/_D/L|D/L]], [[D/_DL|DL]], [[d/_d/l|d/l]], [[d/_dl|dl]], [[c/_copy|copy]], [[m/_move|move]], [[t/_transfer|transfer]]
 ### Antonyms
-- [[upload]]
+- [[u/_upload|upload]]
 ---

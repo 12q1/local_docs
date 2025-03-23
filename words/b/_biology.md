@@ -7,5 +7,5 @@
 	- _Example: the biology of the whale_
 ---
 ### Synonyms
-- [[life science]], [[life sciences]], [[lifelore]]
+- [[l/_lifelore|lifelore]]
 ---

@@ -8,5 +8,5 @@
 - **(mentality) Relating to the functions of the two [[c/_cerebral|cerebral]] hemispheres in the history of human [[b/_beings|beings]] ‘hearing’ the speech of gods or idols, [[a/_according|according]] to Julian Jaynes's theory of the [[b/_bicameral|bicameral]] mind.**
 ---
 ### Antonyms
-- [[caseless]], [[unicameral]], [[unicase]]
+- [[c/_caseless|caseless]], [[u/_unicameral|unicameral]], [[u/_unicase|unicase]]
 ---

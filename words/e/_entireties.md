@@ -5,5 +5,5 @@
 	- _Example: Due to the early rainout, the game will be replayed in its entirety on Friday._
 ---
 ### Synonyms
-- [[totality]], [[whole]]
+- [[t/_totality|totality]], [[w/_whole|whole]]
 ---

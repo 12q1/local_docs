@@ -15,5 +15,5 @@
 	- _Example: champion of the poor_
 ---
 ### Synonyms
-- [[paladin]]
+- [[p/_paladin|paladin]]
 ---

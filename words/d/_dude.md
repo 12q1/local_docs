@@ -10,14 +10,14 @@
 - **A man who is very [[c/_concerned|concerned]] [[a/_about|about]] his [[d/_dress|dress]] and [[a/_appearance|appearance]]; a [[d/_dandy|dandy]], a fop.**
 ---
 ### Synonyms
-- [[bloke]], [[chap]], [[cove]], [[guy]], [[dandy]], [[fop]], [[masher]], [[mate]]
+- [[b/_bloke|bloke]], [[c/_chap|chap]], [[c/_cove|cove]], [[g/_guy|guy]], [[d/_dandy|dandy]], [[f/_fop|fop]], [[m/_masher|masher]], [[m/_mate|mate]]
 #verb
 - **To [[a/_address|address]] someone as [[d/_dude|dude]].**
 - **To take a vacation in a [[d/_dude|dude]] ranch.**
 - **Usually followed by up: to [[d/_dress|dress]] up, to wear smart or special [[c/_clothes|clothes]].**
 ---
 #interjection
-- **A term of [[a/_address|address]], usually for a man, [[c/_conveying|conveying]] [[a/_awe|awe]], excitement, surprise, etc.**
+- **A term of [[a/_address|address]], usually for a man, [[c/_conveying|conveying]] [[a/_awe|awe]], excitement, surprise, [[e/_etc|etc]].**
 	- _Example: Dude! You finally called!_
 ---
 ---

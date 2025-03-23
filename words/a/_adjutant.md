@@ -6,11 +6,11 @@
 - **[[a/_any|Any]] [[b/_bird|bird]] of the genus Leptoptilos, a [[b/_branch|branch]] of the stork family ([[c/_ciconiidae|Ciconiidae]]) native to India and Southeast [[a/_asia|Asia]].**
 ---
 ### Synonyms
-- [[bird]]
+- [[b/_bird|bird]]
 #adjective
 - **[[a/_assistant|Assistant]]; who helps a higher-ranking officer.**
 	- _Example: adjutant officer_
 ---
 ### Synonyms
-- [[adj.]], [[adjt.]]
+- [[a/_adj.|adj.]], [[a/_adjt.|adjt.]]
 ---

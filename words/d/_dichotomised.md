@@ -6,5 +6,5 @@
 - **To exhibit as a half [[d/_disk|disk]].**
 ---
 ### Synonyms
-- [[bisect]], [[halve]]
+- [[b/_bisect|bisect]], [[h/_halve|halve]]
 ---

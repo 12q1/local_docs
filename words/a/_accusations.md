@@ -6,5 +6,5 @@
 - **An [[a/_allegation|allegation]].**
 ---
 ### Synonyms
-- [[allegation]], [[assertion]], [[censure]], [[charge]], [[crimination]], [[impeachment]]
+- [[a/_allegation|allegation]], [[a/_assertion|assertion]], [[c/_censure|censure]], [[c/_charge|charge]], [[c/_crimination|crimination]], [[i/_impeachment|impeachment]]
 ---

@@ -10,7 +10,7 @@
 	- _Example: He likes to cube now and then._
 ---
 ### Synonyms
-- [[dice]]
+- [[d/_dice|dice]]
 #noun
 - **The [[a/_activity|activity]] of solving the Rubik's [[c/_cube|cube]].**
 ---

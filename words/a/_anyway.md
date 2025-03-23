@@ -10,5 +10,5 @@
 - **In [[a/_any|any]] way.**
 ---
 ### Synonyms
-- [[any old]], [[any road up]], [[anyroad]], [[anywise]], [[way]]
+- [[a/_anyroad|anyroad]], [[a/_anywise|anywise]], [[w/_way|way]]
 ---

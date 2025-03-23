@@ -9,7 +9,7 @@
 	- _Example: His family boasted a famous name._
 ---
 ### Synonyms
-- [[brag]]
+- [[b/_brag|brag]]
 #verb
 - **To [[d/_dress|dress]], as a stone, with a [[b/_broad|broad]] [[c/_chisel|chisel]].**
 - **(sculpting) To shape roughly as a preparation for the finer work to follow; to [[c/_cut|cut]] to the general form required.**

@@ -1,10 +1,10 @@
 # Cinder
 ---
 #noun
-- **Partially or mostly [[b/_burnt|burnt]] material that results from incomplete [[c/_combustion|combustion]] of [[c/_coal|coal]] or wood etc.**
+- **Partially or mostly [[b/_burnt|burnt]] material that results from incomplete [[c/_combustion|combustion]] of [[c/_coal|coal]] or wood [[e/_etc|etc]].**
 - **An [[e/_ember|ember]].**
 - **Slag from a metal furnace.**
-- **[[a/_any|Any]] strong stimulant [[a/_added|added]] to tea, soda water, etc.**
+- **[[a/_any|Any]] strong stimulant [[a/_added|added]] to tea, soda water, [[e/_etc|etc]].**
 ---
 #verb
 - **To reduce to [[c/_cinders|cinders]].**

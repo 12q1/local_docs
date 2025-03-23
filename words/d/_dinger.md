@@ -14,5 +14,5 @@
 - **A [[c/_catapult|catapult]], a shanghai.**
 ---
 ### Synonyms
-- [[ding]], [[franger]]
+- [[d/_ding|ding]], [[f/_franger|franger]]
 ---

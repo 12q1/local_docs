@@ -11,7 +11,7 @@
 - **To [[c/_convert|convert]] from single to [[d/_dual|dual]]; specifically, to [[c/_convert|convert]] a single-[[c/_carriageway|carriageway]] road to a [[d/_dual|dual]] [[c/_carriageway|carriageway]].**
 ---
 #adjective
-- **Exhibiting [[d/_duality|duality]]; [[c/_characterized|characterized]] by having two (usually equivalent) [[c/_components|components]].**
+- **Exhibiting [[d/_duality|duality]]; [[c/_characterized|characterized]] by having two (usually [[e/_equivalent|equivalent]]) [[c/_components|components]].**
 - **[[a/_acting|Acting]] as a [[c/_counterpart|counterpart]].**
 - **[[d/_double|Double]].**
 	- _Example: a dual-headed computer_
@@ -21,5 +21,5 @@
 - **[[b/_being|Being]] the [[d/_dual|dual]] of some other [[c/_category|category]]; [[c/_containing|containing]] the same objects but with source and target reversed for [[a/_all|all]] morphisms.**
 ---
 ### Synonyms
-- [[opposite]], [[double]], [[duplicate]], [[double]], [[twin]]
+- [[o/_opposite|opposite]], [[d/_double|double]], [[d/_duplicate|duplicate]], [[d/_double|double]], [[t/_twin|twin]]
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A short piece of rope spliced to form a [[c/_circle|circle]]**
-- **A loop of rope with a knot at one [[e/_end|end]] to [[c/_catch|catch]] in an [[e/_eye|eye]] at the other [[e/_end|end]]. Used to secure oars etc. at their place.**
+- **A loop of rope with a knot at one [[e/_end|end]] to [[c/_catch|catch]] in an [[e/_eye|eye]] at the other [[e/_end|end]]. Used to secure oars [[e/_etc|etc]]. at their place.**
 - **A loop of thread, typically [[b/_braided|braided]], [[a/_attached|attached]] at [[e/_each|each]] [[e/_end|end]] to a jacket. Used to pass through the [[b/_brooch|brooch]] [[b/_bar|bar]] of medals to [[a/_affix|affix]] them to the jacket without [[d/_damaging|damaging]] it.**
 - **The [[c/_clevis|clevis]] of a pulley [[b/_block|block]].**
 - **An [[e/_eye|eye]] in the [[e/_end|end]] of a rope.**

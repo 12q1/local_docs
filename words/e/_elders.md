@@ -18,7 +18,7 @@
 - **A pagan or Heathen priest or priestess.**
 ---
 ### Synonyms
-- [[eld]], [[mzee]], [[senior]], [[antecessor]], [[forerunner]]
+- [[e/_eld|eld]], [[m/_mzee|mzee]], [[s/_senior|senior]], [[a/_antecessor|antecessor]], [[f/_forerunner|forerunner]]
 #verb
 - **To [[a/_admonish|admonish]] or reprove for improper [[c/_conduct|conduct]] by the [[e/_elders|elders]] of the meeting.**
 	- _Example: I was eldered for directly responding to someone else's message in meeting for worship._
@@ -28,5 +28,5 @@
 - **[[a/_any|Any]] of the other species of the genus Sambucus: small trees, shrubs or herbaceous perennials with red, purple, or white/yellow [[b/_berries|berries]] (some of which are poisonous).**
 ---
 ### Synonyms
-- [[black elder]]
+- 
 ---

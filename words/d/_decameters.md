@@ -6,5 +6,5 @@
 - **A poetic metre in which [[e/_each|each]] line has ten feet.**
 ---
 ### Synonyms
-- [[dam]]
+- [[d/_dam|dam]]
 ---

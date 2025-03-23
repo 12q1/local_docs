@@ -4,5 +4,5 @@
 - **A person who lacks [[c/_courage|courage]].**
 ---
 ### Synonyms
-- [[chicken]], [[scaredy pants]], [[yellowbelly]]
+- [[c/_chicken|chicken]], [[y/_yellowbelly|yellowbelly]]
 ---

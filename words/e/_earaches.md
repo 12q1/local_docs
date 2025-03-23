@@ -4,5 +4,5 @@
 - **A pain in the middle or inner [[e/_ear|ear]].**
 ---
 ### Synonyms
-- [[otalgia]]
+- [[o/_otalgia|otalgia]]
 ---

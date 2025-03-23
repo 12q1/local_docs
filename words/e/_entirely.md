@@ -7,5 +7,5 @@
 	- _Example: This part of the park is used entirely by the workers; everyone else will have to go to the other side._
 ---
 ### Synonyms
-- [[solely]], [[wholly]], [[completely]], [[wholly]]
+- [[s/_solely|solely]], [[w/_wholly|wholly]], [[c/_completely|completely]], [[w/_wholly|wholly]]
 ---

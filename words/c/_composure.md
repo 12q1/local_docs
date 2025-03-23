@@ -8,5 +8,5 @@
 - **A [[c/_combination|combination]]; a union; a [[b/_bond|bond]].**
 ---
 ### Synonyms
-- [[equanimity]]
+- [[e/_equanimity|equanimity]]
 ---

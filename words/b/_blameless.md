@@ -5,5 +5,5 @@
 - **Not meriting [[b/_blame|blame]] or [[c/_censure|censure]]; undeserving of reproof.**
 ---
 ### Synonyms
-- [[guiltless]], [[sackless]]
+- [[g/_guiltless|guiltless]], [[s/_sackless|sackless]]
 ---

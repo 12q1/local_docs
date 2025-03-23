@@ -14,14 +14,14 @@
 - **To [[a/_accept|accept]] or purchase in quantity.**
 ---
 ### Synonyms
-- [[assume]], [[bear]], [[pay for]], [[use up]], [[assimilate]], [[engulf]], [[incorporate]], [[overwhelm]], [[swallow up]], [[engage]], [[engross]], [[immerse]], [[monopolize]], [[occupy]], [[draw]], [[drink in]], [[imbibe]], [[soak up]], [[sop up]], [[steep]], [[suck]], [[suck up]], [[take in]], [[take up]]
+- [[a/_assume|assume]], [[b/_bear|bear]], [[a/_assimilate|assimilate]], [[e/_engulf|engulf]], [[i/_incorporate|incorporate]], [[o/_overwhelm|overwhelm]], [[e/_engage|engage]], [[e/_engross|engross]], [[i/_immerse|immerse]], [[m/_monopolize|monopolize]], [[o/_occupy|occupy]], [[d/_draw|draw]], [[i/_imbibe|imbibe]], [[s/_steep|steep]], [[s/_suck|suck]]
 ### Antonyms
-- [[emit]]
+- [[e/_emit|emit]]
 #adjective
 - **[[e/_engrossing|Engrossing]], that sustains someone's interest.**
 	- _Example: An absorbing pursuit._
 - **(of a state) [[a/_allowing|Allowing]] a process to [[e/_enter|enter]] it, but not to leave it.**
 ---
 ### Synonyms
-- [[engrossing]], [[fascinating]]
+- [[e/_engrossing|engrossing]], [[f/_fascinating|fascinating]]
 ---

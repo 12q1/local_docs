@@ -6,9 +6,9 @@
 - **Making a fine show or [[d/_display|display]].**
 ---
 ### Synonyms
-- [[bold]], [[daring]], [[doughty]], [[orped]], [[resilient]], [[stalwart]]
+- [[b/_bold|bold]], [[d/_daring|daring]], [[d/_doughty|doughty]], [[o/_orped|orped]], [[r/_resilient|resilient]], [[s/_stalwart|stalwart]]
 ### Antonyms
-- [[cowardly]], [[fearful]], [[mean]], [[weak]]
+- [[c/_cowardly|cowardly]], [[f/_fearful|fearful]], [[m/_mean|mean]], [[w/_weak|weak]]
 #noun
 - **One who [[b/_braves|braves]] something.**
 	- _Example: a reckless braver of dangers_

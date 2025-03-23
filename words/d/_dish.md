@@ -6,7 +6,7 @@
 	- _Example: a dish of stew_
 - **(metonym) A specific type of prepared food.**
 	- _Example: a vegetable dish_
-- **(in the plural) Tableware (including [[c/_cutlery|cutlery]], etc, as well as [[c/_crockery|crockery]]) that is to be or is [[b/_being|being]] washed [[a/_after|after]] [[b/_being|being]] used to prepare, serve and [[e/_eat|eat]] a meal.**
+- **(in the plural) Tableware (including [[c/_cutlery|cutlery]], [[e/_etc|etc]], as well as [[c/_crockery|crockery]]) that is to be or is [[b/_being|being]] washed [[a/_after|after]] [[b/_being|being]] used to prepare, serve and [[e/_eat|eat]] a meal.**
 	- _Example: It's your turn to wash the dishes._
 - **A type of [[a/_antenna|antenna]] with a similar shape to a plate or [[b/_bowl|bowl]].**
 	- _Example: radar dish_
@@ -19,7 +19,7 @@
 - **Gossip**
 ---
 ### Synonyms
-- [[dishful]], [[plate]], [[plateful]], [[babe]], [[fox]], [[plate]]
+- [[d/_dishful|dishful]], [[p/_plate|plate]], [[p/_plateful|plateful]], [[b/_babe|babe]], [[f/_fox|fox]], [[p/_plate|plate]]
 #verb
 - **To put in a [[d/_dish|dish]] or [[d/_dishes|dishes]]; serve, usually food.**
 	- _Example: The restaurant dished up a delicious Italian brunch._

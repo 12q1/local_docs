@@ -7,5 +7,5 @@
 - **Having two lobes**
 ---
 ### Synonyms
-- [[bilobed]]
+- [[b/_bilobed|bilobed]]
 ---

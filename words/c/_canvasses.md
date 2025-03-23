@@ -10,7 +10,7 @@
 - **A tent.**
 	- _Example: He spent the night under canvas._
 - **A painting, or a picture on [[c/_canvas|canvas]].**
-- **A rough [[d/_draft|draft]] or model of a song, [[a/_air|air]], or other literary or musical [[c/_composition|composition]]; especially one to show a poet the measure of the verses he is to make.**
+- **A rough [[d/_draft|draft]] or model of a song, [[a/_air|air]], or other literary or musical [[c/_composition|composition]]; [[e/_especially|especially]] one to show a poet the measure of the verses he is to make.**
 - **[[a/_alternative|Alternative]] spelling of [[c/_canvass|canvass]].**
 ---
 ---

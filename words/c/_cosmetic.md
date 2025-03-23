@@ -5,7 +5,7 @@
 - **A feature existing only on the surface.**
 ---
 ### Synonyms
-- [[beauty products]], [[makeup]], [[product]], [[slap]], [[war paint]]
+- [[m/_makeup|makeup]], [[p/_product|product]], [[s/_slap|slap]]
 #adjective
 - **Imparting or improving [[b/_beauty|beauty]], particularly the [[b/_beauty|beauty]] of the [[c/_complexion|complexion]].**
 	- _Example: a cosmetic preparation_

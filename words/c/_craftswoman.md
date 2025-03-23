@@ -4,5 +4,5 @@
 - **A female [[a/_artisan|artisan]].**
 ---
 ### Antonyms
-- [[craftsman]]
+- [[c/_craftsman|craftsman]]
 ---

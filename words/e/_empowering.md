@@ -6,9 +6,9 @@
 	- _Example: John found that starting up his own business empowered him greatly in social situations._
 ---
 ### Synonyms
-- [[inspire]], [[allow]], [[let]], [[permit]]
+- [[i/_inspire|inspire]], [[a/_allow|allow]], [[l/_let|let]], [[p/_permit|permit]]
 ### Antonyms
-- [[disempower]], [[dishearten]], [[disspirit]], [[ban]], [[bar]], [[forbid]], [[prohibit]]
+- [[d/_disempower|disempower]], [[d/_dishearten|dishearten]], [[d/_disspirit|disspirit]], [[b/_ban|ban]], [[b/_bar|bar]], [[f/_forbid|forbid]], [[p/_prohibit|prohibit]]
 #adjective
 - **That [[e/_empowers|empowers]].**
 ---

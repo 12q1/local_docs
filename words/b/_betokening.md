@@ -5,5 +5,5 @@
 - **To foreshow by present signs; indicate something future by that which is seen or known.**
 ---
 ### Synonyms
-- [[forebode]], [[portend]], [[presage]], [[indicate]], [[mark]], [[note]]
+- [[f/_forebode|forebode]], [[p/_portend|portend]], [[p/_presage|presage]], [[i/_indicate|indicate]], [[m/_mark|mark]], [[n/_note|note]]
 ---

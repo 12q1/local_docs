@@ -8,5 +8,5 @@
 	- _Example: a fortification critically situated_
 ---
 ### Antonyms
-- [[uncritically]]
+- [[u/_uncritically|uncritically]]
 ---

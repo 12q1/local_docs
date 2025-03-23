@@ -10,8 +10,8 @@
 - **A [[c/_chipping|chipping]] sparrow.**
 ---
 ### Synonyms
-- [[chipper]]
+- [[c/_chipper|chipper]]
 #verb
-- **To take [[d/_drugs|drugs]] (especially heroin) on an occasional [[b/_basis|basis]], rather than as an [[a/_addict|addict]].**
+- **To take [[d/_drugs|drugs]] ([[e/_especially|especially]] heroin) on an occasional [[b/_basis|basis]], rather than as an [[a/_addict|addict]].**
 ---
 ---

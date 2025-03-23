@@ -11,9 +11,9 @@
 	- _Example: The radical group voted to divorce itself from the main faction and start an independent movement._
 ---
 ### Synonyms
-- [[split up]], [[disassociate]], [[disjoint]], [[dissociate]], [[disunite]], [[separate]]
+- [[d/_disassociate|disassociate]], [[d/_disjoint|disjoint]], [[d/_dissociate|dissociate]], [[d/_disunite|disunite]], [[s/_separate|separate]]
 ### Antonyms
-- [[marry]]
+- [[m/_marry|marry]]
 #adjective
 - **[[c/_cut|Cut]] off, or separated.**
 - **(of a marriage) Legally [[d/_dissolved|dissolved]].**
@@ -22,7 +22,7 @@
 	- _Example: Mark's parents are divorced._
 ---
 ### Synonyms
-- [[split]]
+- [[s/_split|split]]
 ### Antonyms
-- [[connected]], [[engaged]], [[married]]
+- [[c/_connected|connected]], [[e/_engaged|engaged]], [[m/_married|married]]
 ---

@@ -7,5 +7,5 @@
 - **[[b/_boldness|Boldness]]; presumption.**
 ---
 ### Antonyms
-- [[timidity]]
+- [[t/_timidity|timidity]]
 ---

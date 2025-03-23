@@ -4,11 +4,11 @@
 - **An old person.**
 ---
 ### Synonyms
-- [[antique]], [[coffin dodger]], [[wrinkly]]
+- [[a/_antique|antique]], [[w/_wrinkly|wrinkly]]
 #adjective
 - **That [[c/_crinkles|crinkles]].**
 - **Having [[c/_crinkles|crinkles]]; wrinkly.**
 ---
 ### Synonyms
-- [[bewrinkled]], [[rugose]], [[wrinklesome]]
+- [[b/_bewrinkled|bewrinkled]], [[r/_rugose|rugose]], [[w/_wrinklesome|wrinklesome]]
 ---

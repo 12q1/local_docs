@@ -7,5 +7,5 @@
 	- _Example: a carbonyl donor molecule_
 ---
 ### Synonyms
-- [[donater]], [[donator]]
+- [[d/_donater|donater]], [[d/_donator|donator]]
 ---

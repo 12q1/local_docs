@@ -5,5 +5,5 @@
 - **An [[a/_articulated|articulated]] [[b/_bus|bus]].**
 ---
 ### Synonyms
-- [[bendy bus]], [[semi-trailer]]
+- [[s/_semi-trailer|semi-trailer]]
 ---

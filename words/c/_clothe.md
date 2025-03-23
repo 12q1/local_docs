@@ -7,5 +7,5 @@
 	- _Example: to clothe somebody with authority or power_
 ---
 ### Synonyms
-- [[dight]], [[don]], [[put on]]
+- [[d/_dight|dight]], [[d/_don|don]]
 ---

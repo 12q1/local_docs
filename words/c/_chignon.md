@@ -5,5 +5,5 @@
 - **A temporary swelling on a neonate's head [[a/_after|after]] a ventouse-[[a/_assisted|assisted]] [[d/_delivery|delivery]].**
 ---
 ### Synonyms
-- [[bun]], [[cock-up]]
+- [[b/_bun|bun]], [[c/_cock-up|cock-up]]
 ---

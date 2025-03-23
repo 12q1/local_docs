@@ -11,5 +11,5 @@
 	- _Example: Their favorite method was bludgeoning us with the same old arguments in favor of their opinions._
 ---
 ### Synonyms
-- [[harass]], [[pummel]], [[cudgel]]
+- [[h/_harass|harass]], [[p/_pummel|pummel]], [[c/_cudgel|cudgel]]
 ---

@@ -5,5 +5,5 @@
 - **A judge; a [[d/_deemster|deemster]].**
 ---
 ### Synonyms
-- [[doomsayer]], [[pessimist]]
+- [[d/_doomsayer|doomsayer]], [[p/_pessimist|pessimist]]
 ---

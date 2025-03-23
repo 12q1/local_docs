@@ -7,5 +7,5 @@
 	- _Example: an amiable person_
 ---
 ### Synonyms
-- [[likable]]
+- [[l/_likable|likable]]
 ---

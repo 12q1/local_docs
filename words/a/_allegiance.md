@@ -4,5 +4,5 @@
 - **Loyalty to some [[c/_cause|cause]], nation or ruler.**
 ---
 ### Synonyms
-- [[adherence]], [[fidelity]], [[loyalty]]
+- [[a/_adherence|adherence]], [[f/_fidelity|fidelity]], [[l/_loyalty|loyalty]]
 ---

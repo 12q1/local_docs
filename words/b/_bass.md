@@ -13,7 +13,7 @@
 	- _Example: The score had been written without the treble and bass, but it was easy to pick out which was which based on the location of the notes on the staff._
 ---
 ### Synonyms
-- [[F clef]], [[basso]]
+- [[b/_basso|basso]]
 #verb
 - **To sound in a [[d/_deep|deep]] tone.**
 ---

@@ -11,5 +11,5 @@
 - **Relating to a [[c/_cooperative|cooperative]] or [[c/_cooperatives|cooperatives]].**
 ---
 ### Antonyms
-- [[adversarial]], [[competitive]]
+- [[a/_adversarial|adversarial]], [[c/_competitive|competitive]]
 ---

@@ -7,5 +7,5 @@
 - **[[d/_dishonoured|Dishonoured]]; [[d/_disgraced|disgraced]]; [[d/_disfigured|disfigured]].**
 ---
 ### Antonyms
-- [[honest]]
+- [[h/_honest|honest]]
 ---

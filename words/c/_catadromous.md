@@ -5,5 +5,5 @@
 - **Of a fern in which the first veins in a frond segment are produced towards the [[b/_base|base]] of the frond.**
 ---
 ### Antonyms
-- [[anadromous]]
+- [[a/_anadromous|anadromous]]
 ---

@@ -8,5 +8,5 @@
 	- _Example: consensual motions_
 ---
 ### Antonyms
-- [[non-consensual]]
+- [[n/_non-consensual|non-consensual]]
 ---

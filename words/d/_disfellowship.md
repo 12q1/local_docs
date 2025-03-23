@@ -7,5 +7,5 @@
 - **To subject to disfellowshipment.**
 ---
 ### Synonyms
-- [[excommunicate]]
+- [[e/_excommunicate|excommunicate]]
 ---

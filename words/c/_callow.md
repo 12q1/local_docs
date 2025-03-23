@@ -16,5 +16,5 @@
 - **[[b/_bald|Bald]].**
 ---
 ### Antonyms
-- [[experienced]], [[mature]]
+- [[e/_experienced|experienced]], [[m/_mature|mature]]
 ---

@@ -18,9 +18,9 @@
 	- _Example: We completely agree. There's no daylight between us on the issue._
 ---
 ### Synonyms
-- [[dayspring]], [[sunrise]], [[sunlight]], [[sunshine]], [[daytime]]
+- [[d/_dayspring|dayspring]], [[s/_sunrise|sunrise]], [[s/_sunlight|sunlight]], [[s/_sunshine|sunshine]], [[d/_daytime|daytime]]
 ### Antonyms
-- [[darkness]], [[night]]
+- [[d/_darkness|darkness]], [[n/_night|night]]
 #verb
 - **To expose to [[d/_daylight|daylight]]**
 - **To provide sources of natural illumination such as skylights or windows.**

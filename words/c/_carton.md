@@ -10,7 +10,7 @@
 - **A shot that strikes this [[d/_disc|disc]].**
 ---
 ### Synonyms
-- [[cardboard box]], [[container]], [[package]], [[case]], [[pack]]
+- [[c/_container|container]], [[p/_package|package]], [[c/_case|case]], [[p/_pack|pack]]
 #verb
 - **To put in a [[c/_carton|carton]].**
 ---

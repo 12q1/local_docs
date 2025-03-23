@@ -18,7 +18,7 @@
 - **[[d/_distinguished|Distinguished]] [[a/_among|among]] [[e/_entities|entities]] of its kind, so that it [[c/_can|can]] be picked out in a way that [[d/_does|does]] not [[d/_depend|depend]] on [[a/_any|any]] [[a/_arbitrary|arbitrary]] [[c/_choices|choices]].**
 ---
 ### Synonyms
-- [[natural]]
+- [[n/_natural|natural]]
 ### Antonyms
-- [[apocryphal]]
+- [[a/_apocryphal|apocryphal]]
 ---

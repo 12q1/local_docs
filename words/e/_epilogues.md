@@ -7,7 +7,7 @@
 - **A [[c/_component|component]] of a [[c/_computer|computer]] program that prepares the [[c/_computer|computer]] to return from a routine.**
 ---
 ### Synonyms
-- [[afterword]], [[endspeech]], [[endspeech]]
+- [[a/_afterword|afterword]], [[e/_endspeech|endspeech]], [[e/_endspeech|endspeech]]
 ### Antonyms
-- [[prologue]], [[prologue]]
+- [[p/_prologue|prologue]], [[p/_prologue|prologue]]
 ---

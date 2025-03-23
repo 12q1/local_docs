@@ -7,5 +7,5 @@
 - **The most solemn part of the [[d/_divine|Divine]] Liturgy or the Mass [[d/_during|during]] which the offerings of [[b/_bread|bread]] and wine are [[c/_consecrated|consecrated]] as [[b/_body|body]] and [[b/_blood|blood]] of [[c/_christ|Christ]]**
 ---
 ### Antonyms
-- [[epiphora]], [[epistrophe]]
+- [[e/_epiphora|epiphora]], [[e/_epistrophe|epistrophe]]
 ---

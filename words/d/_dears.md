@@ -8,5 +8,5 @@
 	- _Example: Pass me the salt, would you dear?_
 ---
 ### Synonyms
-- [[darling]]
+- [[d/_darling|darling]]
 ---

@@ -6,7 +6,7 @@
 - **(by [[c/_confusion|confusion]] of the similar words) [[e/_egotism|Egotism]].**
 ---
 ### Synonyms
-- [[selfishness]]
+- [[s/_selfishness|selfishness]]
 ### Antonyms
-- [[altruism]]
+- [[a/_altruism|altruism]]
 ---

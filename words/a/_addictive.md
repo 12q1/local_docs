@@ -13,7 +13,7 @@
 	- _Example: He has an addictive personality._
 ---
 ### Synonyms
-- [[habit-forming]]
+- [[h/_habit-forming|habit-forming]]
 ### Antonyms
-- [[nonaddictive]]
+- [[n/_nonaddictive|nonaddictive]]
 ---

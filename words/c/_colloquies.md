@@ -8,5 +8,5 @@
 - **A [[d/_discussion|discussion]] [[d/_during|during]] a trial in which a judge [[e/_ensures|ensures]] that the [[d/_defendant|defendant]] understands what is taking place in the trial and what their rights are.**
 ---
 ### Antonyms
-- [[soliloquy]]
+- [[s/_soliloquy|soliloquy]]
 ---

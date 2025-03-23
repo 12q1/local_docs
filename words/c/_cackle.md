@@ -1,7 +1,7 @@
 # Cackle
 ---
 #noun
-- **The [[c/_cry|cry]] of a hen or goose, especially when laying an [[e/_egg|egg]].**
+- **The [[c/_cry|cry]] of a hen or goose, [[e/_especially|especially]] when laying an [[e/_egg|egg]].**
 - **A laugh resembling the [[c/_cry|cry]] of a hen or goose.**
 - **Futile or excessively noisy talk.**
 - **A group of hyenas.**

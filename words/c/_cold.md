@@ -5,7 +5,7 @@
 	- _Example: A cold wind whistled through the trees._
 - **(of the weather) [[c/_causing|Causing]] the [[a/_air|air]] to be [[c/_cold|cold]].**
 	- _Example: The forecast is that it will be very cold today._
-- **(of a person or [[a/_animal|animal]]) Feeling the sensation of [[c/_coldness|coldness]], especially to the point of [[d/_discomfort|discomfort]].**
+- **(of a person or [[a/_animal|animal]]) Feeling the sensation of [[c/_coldness|coldness]], [[e/_especially|especially]] to the point of [[d/_discomfort|discomfort]].**
 	- _Example: She was so cold she was shivering._
 - **Unfriendly, [[e/_emotionally|emotionally]] [[d/_distant|distant]] or unfeeling.**
 	- _Example: She shot me a cold glance before turning her back._
@@ -32,7 +32,7 @@
 	- _Example: I can't believe she said that...that was cold!_
 ---
 ### Synonyms
-- [[chilled]], [[chilly]], [[cool]], [[freezing]], [[frigid]], [[glacial]], [[icy]], [[brass monkeys]], [[nippy]], [[parky]], [[taters]], [[aloof]], [[distant]], [[hostile]], [[standoffish]], [[unfriendly]], [[unwelcoming]], [[unprepared]], [[unready]]
+- [[c/_chilled|chilled]], [[c/_chilly|chilly]], [[c/_cool|cool]], [[f/_freezing|freezing]], [[f/_frigid|frigid]], [[g/_glacial|glacial]], [[i/_icy|icy]], [[n/_nippy|nippy]], [[p/_parky|parky]], [[t/_taters|taters]], [[a/_aloof|aloof]], [[d/_distant|distant]], [[h/_hostile|hostile]], [[s/_standoffish|standoffish]], [[u/_unfriendly|unfriendly]], [[u/_unwelcoming|unwelcoming]], [[u/_unprepared|unprepared]], [[u/_unready|unready]]
 ### Antonyms
-- [[baking]], [[boiling]], [[heated]], [[hot]], [[scorching]], [[searing]], [[torrid]], [[warm]], [[hot]], [[hot]], [[amiable]], [[friendly]], [[welcoming]], [[prepared]], [[primed]], [[ready]]
+- [[b/_baking|baking]], [[b/_boiling|boiling]], [[h/_heated|heated]], [[h/_hot|hot]], [[s/_scorching|scorching]], [[s/_searing|searing]], [[t/_torrid|torrid]], [[w/_warm|warm]], [[h/_hot|hot]], [[h/_hot|hot]], [[a/_amiable|amiable]], [[f/_friendly|friendly]], [[w/_welcoming|welcoming]], [[p/_prepared|prepared]], [[p/_primed|primed]], [[r/_ready|ready]]
 ---

@@ -6,5 +6,5 @@
 - **Lacking in interest or variety.**
 ---
 ### Synonyms
-- [[drab]], [[dull]], [[clear]], [[waterlike]]
+- [[d/_drab|drab]], [[d/_dull|dull]], [[c/_clear|clear]], [[w/_waterlike|waterlike]]
 ---

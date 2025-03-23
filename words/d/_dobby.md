@@ -7,5 +7,5 @@
 - **A [[d/_dotard|dotard]].**
 ---
 ### Synonyms
-- [[dodipole]], [[mimmerkin]]
+- [[d/_dodipole|dodipole]], [[m/_mimmerkin|mimmerkin]]
 ---

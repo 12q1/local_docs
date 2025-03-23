@@ -5,5 +5,5 @@
 - **An [[a/_artificial|artificial]] fly with [[b/_brown|brown]] mottled wings, [[b/_body|body]] of peacock harl, and [[b/_black|black]] legs.**
 ---
 ### Synonyms
-- [[orl fly]]
+- 
 ---

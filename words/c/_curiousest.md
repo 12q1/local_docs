@@ -10,7 +10,7 @@
 - **[[c/_carefully|Carefully]] or [[a/_artfully|artfully]] [[c/_constructed|constructed]]; made with great [[e/_elegance|elegance]] or skill.**
 ---
 ### Synonyms
-- [[enquiring, inquiring]], [[exquisitive]], [[investigative]], [[peery]]
+- [[e/_exquisitive|exquisitive]], [[i/_investigative|investigative]], [[p/_peery|peery]]
 ### Antonyms
-- [[incurious]], [[noncurious]], [[uncurious]], [[uncurious]]
+- [[i/_incurious|incurious]], [[n/_noncurious|noncurious]], [[u/_uncurious|uncurious]], [[u/_uncurious|uncurious]]
 ---

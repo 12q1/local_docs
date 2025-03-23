@@ -9,5 +9,5 @@
 - **Large in [[a/_amount|amount]].**
 ---
 ### Antonyms
-- [[ignorable]], [[negligible]]
+- [[i/_ignorable|ignorable]], [[n/_negligible|negligible]]
 ---

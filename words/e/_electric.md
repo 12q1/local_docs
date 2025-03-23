@@ -9,12 +9,12 @@
 - **Fencing with the use of a [[b/_body|body]] wire, [[b/_box|box]], and related [[e/_equipment|equipment]] to [[d/_detect|detect]] when a weapon has touched an opponent.**
 ---
 ### Antonyms
-- [[steam]]
+- [[s/_steam|steam]]
 #adjective
 - **Of, relating to, produced by, operated with, or utilising [[e/_electricity|electricity]]; [[e/_electrical|electrical]].**
-- **Of or relating to an [[e/_electronic|electronic]] version of a musical instrument that has an [[a/_acoustic|acoustic]] equivalent.**
+- **Of or relating to an [[e/_electronic|electronic]] version of a musical instrument that has an [[a/_acoustic|acoustic]] [[e/_equivalent|equivalent]].**
 - **[[b/_being|Being]] [[e/_emotionally|emotionally]] thrilling; [[e/_electrifying|electrifying]].**
 ---
 ### Synonyms
-- [[electrical]]
+- [[e/_electrical|electrical]]
 ---

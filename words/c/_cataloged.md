@@ -9,5 +9,5 @@
 - **To [[a/_add|add]] items ([[e/_e|e]].g. [[b/_books|books]]) to an existing [[c/_catalogue|catalogue]].**
 ---
 ### Synonyms
-- [[put down]], [[list]]
+- [[l/_list|list]]
 ---

@@ -7,7 +7,7 @@
 	- _Example: He accidentally exposed the bacteria to mold spores._
 ---
 ### Synonyms
-- [[casually]], [[fortuitously]]
+- [[c/_casually|casually]], [[f/_fortuitously|fortuitously]]
 ### Antonyms
-- [[advisedly]], [[by choice]], [[by design]], [[deliberately]], [[designedly]], [[intentionally]], [[on purpose]], [[purposely]]
+- [[a/_advisedly|advisedly]], [[d/_deliberately|deliberately]], [[d/_designedly|designedly]], [[i/_intentionally|intentionally]], [[p/_purposely|purposely]]
 ---

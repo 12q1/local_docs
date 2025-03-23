@@ -4,7 +4,7 @@
 - **To write a first version, make a preliminary sketch.**
 - **To [[d/_draw|draw]] in outline; to make a [[d/_draught|draught]], sketch, or plan of, as in [[a/_architectural|architectural]] and mechanical [[d/_drawing|drawing]].**
 - **To write a law.**
-- **To [[c/_conscript|conscript]] a person, force a person to serve in some [[c/_capacity|capacity]], especially in the military.**
+- **To [[c/_conscript|conscript]] a person, force a person to serve in some [[c/_capacity|capacity]], [[e/_especially|especially]] in the military.**
 	- _Example: He was drafted during the Vietnam War._
 - **To select someone (or something) for a particular role or purpose.**
 	- _Example: There was a campaign to draft Smith to run for President._

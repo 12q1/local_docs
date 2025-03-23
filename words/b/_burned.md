@@ -37,7 +37,7 @@
 - **To [[a/_accidentally|accidentally]] touch a moving stone.**
 - **In pontoon, to swap a pair of [[c/_cards|cards]] for [[a/_another|another]] pair, or to [[d/_deal|deal]] a [[d/_dead|dead]] [[c/_card|card]].**
 - **To increase the exposure for [[c/_certain|certain]] [[a/_areas|areas]] of a print in order to make them lighter ([[c/_compare|compare]] [[d/_dodge|dodge]]).**
-- **(of an [[e/_element|element]]) To be [[c/_converted|converted]] to [[a/_another|another]] [[e/_element|element]] in a nuclear fusion reaction, especially in a star**
+- **(of an [[e/_element|element]]) To be [[c/_converted|converted]] to [[a/_another|another]] [[e/_element|element]] in a nuclear fusion reaction, [[e/_especially|especially]] in a star**
 - **To [[d/_discard|discard]].**
 - **To shoot someone with a firearm.**
 ---

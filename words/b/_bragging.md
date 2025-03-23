@@ -6,7 +6,7 @@
 - **To [[b/_boast|boast]] of.**
 ---
 ### Synonyms
-- [[boast]]
+- [[b/_boast|boast]]
 #noun
 - **The [[a/_act|act]] of one who [[b/_brags|brags]].**
 ---

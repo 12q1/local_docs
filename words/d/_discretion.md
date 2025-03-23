@@ -8,5 +8,5 @@
 	- _Example: I leave that to your discretion._
 ---
 ### Antonyms
-- [[indiscretion]]
+- [[i/_indiscretion|indiscretion]]
 ---

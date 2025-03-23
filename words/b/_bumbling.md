@@ -8,7 +8,7 @@
 - **To [[b/_boom|boom]], as a [[b/_bittern|bittern]]; to [[b/_buzz|buzz]], as a fly.**
 ---
 #noun
-- **The [[a/_act|act]] of one who [[b/_bumbles|bumbles]]; a mistake or error, especially through [[c/_clumsiness|clumsiness]].**
+- **The [[a/_act|act]] of one who [[b/_bumbles|bumbles]]; a mistake or [[e/_error|error]], [[e/_especially|especially]] through [[c/_clumsiness|clumsiness]].**
 ---
 #adjective
 - **[[a/_acting|Acting]] in a [[c/_confused|confused]] or ineffectual way; incompetent; showing little or no skill.**

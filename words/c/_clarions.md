@@ -6,5 +6,5 @@
 - **A [[d/_different|different]] type of musical instrument resembling an organ.**
 ---
 ### Synonyms
-- [[claro]]
+- [[c/_claro|claro]]
 ---

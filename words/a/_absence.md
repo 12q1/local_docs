@@ -12,7 +12,7 @@
 - **Lack of [[c/_contact|contact]] [[b/_between|between]] [[b/_blades|blades]].**
 ---
 ### Synonyms
-- [[missingness]]
+- [[m/_missingness|missingness]]
 ### Antonyms
-- [[existence]], [[possession]], [[sufficiency]], [[presence]]
+- [[e/_existence|existence]], [[p/_possession|possession]], [[s/_sufficiency|sufficiency]], [[p/_presence|presence]]
 ---

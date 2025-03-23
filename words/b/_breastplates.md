@@ -7,5 +7,5 @@
 - **An [[e/_embroidered|embroidered]] square of linen worn on the [[b/_breast|breast]] of the Jewish high priest, [[b/_bearing|bearing]] twelve precious stones, [[e/_each|each]] inscribed with the name of one of the tribes of Israel.**
 ---
 ### Synonyms
-- [[breastcollar]], [[breastgirth]], [[breaststrap]]
+- [[b/_breastcollar|breastcollar]], [[b/_breastgirth|breastgirth]], [[b/_breaststrap|breaststrap]]
 ---

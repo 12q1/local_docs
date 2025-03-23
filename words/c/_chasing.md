@@ -11,7 +11,7 @@
 	- _Example: The rally chased the starter._
 ---
 ### Synonyms
-- [[pursue]]
+- [[p/_pursue|pursue]]
 #verb
 - **To groove; indent.**
 - **To place piping or wiring in a groove [[e/_encased|encased]] within a wall or floor, or in a hidden space [[e/_encased|encased]] by a wall.**

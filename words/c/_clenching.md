@@ -6,10 +6,10 @@
 	- _Example: He clenched his fist in anger._
 ---
 ### Synonyms
-- [[clasp]], [[clutch]], [[grip]]
+- [[c/_clasp|clasp]], [[c/_clutch|clutch]], [[g/_grip|grip]]
 ### Antonyms
-- [[unclench]]
+- [[u/_unclench|unclench]]
 #noun
-- **The [[a/_act|act]] by which something (a fist, a jaw, etc.) is [[c/_clenched|clenched]].**
+- **The [[a/_act|act]] by which something (a fist, a jaw, [[e/_etc|etc]].) is [[c/_clenched|clenched]].**
 ---
 ---

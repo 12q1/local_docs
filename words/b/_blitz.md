@@ -1,14 +1,14 @@
 # Blitz
 ---
 #noun
-- **A sudden [[a/_attack|attack]], especially an [[a/_air|air]] raid; usually with reference to the [[b/_blitz|Blitz]].**
+- **A sudden [[a/_attack|attack]], [[e/_especially|especially]] an [[a/_air|air]] raid; usually with reference to the [[b/_blitz|Blitz]].**
 - **A swift and overwhelming [[a/_attack|attack]] or [[e/_effort|effort]].**
 	- _Example: We embarked on a publicity blitz, putting posters and flyers all around town._
 - **A play in which [[a/_additional|additional]] [[d/_defenders|defenders]] [[b/_beyond|beyond]] the [[d/_defensive|defensive]] linemen rush the passer.**
 - **[[b/_blitz|Blitz]] [[c/_chess|chess]], a form of [[c/_chess|chess]] with a short time limit for moves.**
 ---
 ### Synonyms
-- [[speed chess]]
+- 
 #verb
 - **To [[a/_attack|attack]] quickly or suddenly, as by an [[a/_air|air]] raid or similar [[a/_action|action]].**
 - **To perform a [[b/_blitz|blitz]].**
@@ -18,5 +18,5 @@
 - **To [[d/_do|do]] something quickly or in one session.**
 ---
 ### Synonyms
-- [[charge]], [[hurry]], [[zoom]], [[zhoosh]]
+- [[c/_charge|charge]], [[h/_hurry|hurry]], [[z/_zoom|zoom]], [[z/_zhoosh|zhoosh]]
 ---

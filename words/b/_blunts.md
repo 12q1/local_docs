@@ -14,5 +14,5 @@
 	- _Example: It blunted my appetite._
 ---
 ### Synonyms
-- [[blunten]]
+- [[b/_blunten|blunten]]
 ---

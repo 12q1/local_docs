@@ -9,7 +9,7 @@
 - **[[a/_authoritative|Authoritative]]**
 ---
 ### Synonyms
-- [[credible]], [[reliable]], [[trustworthy]], [[unfaked]], [[bona fide]], [[bonafide]], [[genuine]], [[real]], [[unfaked]]
+- [[c/_credible|credible]], [[r/_reliable|reliable]], [[t/_trustworthy|trustworthy]], [[u/_unfaked|unfaked]], [[b/_bonafide|bonafide]], [[g/_genuine|genuine]], [[r/_real|real]], [[u/_unfaked|unfaked]]
 ### Antonyms
-- [[fake]], [[ingenuine]], [[phony]]
+- [[f/_fake|fake]], [[i/_ingenuine|ingenuine]], [[p/_phony|phony]]
 ---

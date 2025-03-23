@@ -6,5 +6,5 @@
 - **A [[c/_criminal|criminal]] [[a/_act|act]].**
 ---
 ### Synonyms
-- [[criminalness]]
+- [[c/_criminalness|criminalness]]
 ---

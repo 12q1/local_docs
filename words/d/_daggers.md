@@ -7,7 +7,7 @@
 	- _Example: Curry's last-minute 3-point dagger silenced the criticism for his so-called failure to come up big in big moments._
 ---
 ### Synonyms
-- [[barb]], [[dirk]], [[knife]], [[obelisk]], [[obelus]]
+- [[b/_barb|barb]], [[d/_dirk|dirk]], [[k/_knife|knife]], [[o/_obelisk|obelisk]], [[o/_obelus|obelus]]
 #verb
 - **To pierce with a [[d/_dagger|dagger]]; to stab.**
 ---

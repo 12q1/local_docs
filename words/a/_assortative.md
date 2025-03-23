@@ -4,5 +4,5 @@
 - **[[c/_characterized|Characterized]] by [[a/_assorting|assorting]].**
 ---
 ### Antonyms
-- [[disassortative]]
+- [[d/_disassortative|disassortative]]
 ---

@@ -12,5 +12,5 @@
 - **To try to improve the spot of a [[d/_decision|decision]] on a sports field.**
 ---
 ### Synonyms
-- [[shift]]
+- [[s/_shift|shift]]
 ---

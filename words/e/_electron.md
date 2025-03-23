@@ -5,5 +5,5 @@
 - **[[a/_alloys|Alloys]] of magnesium and other metals, like [[a/_aluminum|aluminum]] or zinc, that were manufactured by the German [[c/_company|company]] Chemische Fabrik Griesheim-Elektron.**
 ---
 ### Synonyms
-- [[negatron]]
+- [[n/_negatron|negatron]]
 ---

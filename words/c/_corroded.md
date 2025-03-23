@@ -7,7 +7,7 @@
 - **To have [[c/_corrosive|corrosive]] [[a/_action|action]]; to be subject to [[c/_corrosion|corrosion]].**
 ---
 ### Synonyms
-- [[canker]], [[gnaw]], [[rust]], [[waste]], [[wear]]
+- [[c/_canker|canker]], [[g/_gnaw|gnaw]], [[r/_rust|rust]], [[w/_waste|waste]], [[w/_wear|wear]]
 #adjective
 - **[[d/_damaged|Damaged]] by [[c/_corrosion|corrosion]].**
 ---

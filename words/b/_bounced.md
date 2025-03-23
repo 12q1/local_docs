@@ -7,7 +7,7 @@
 	- _Example: He bounces nervously on his chair._
 - **To [[c/_cause|cause]] to move quickly up and [[d/_down|down]], or [[b/_back|back]] and forth, once or repeatedly.**
 	- _Example: He bounced the child on his knee._
-- **To suggest or introduce (an idea, etc.) to (off or by) somebody, in order to gain feedback.**
+- **To suggest or introduce (an idea, [[e/_etc|etc]].) to (off or by) somebody, in order to gain feedback.**
 	- _Example: I'm meeting Bob later to bounce some ideas off him about the new product range._
 - **To leap or spring suddenly or unceremoniously; to [[b/_bound|bound]].**
 	- _Example: She bounced happily into the room._
@@ -37,10 +37,10 @@
 - **To [[b/_boast|boast]]; to [[b/_bluster|bluster]].**
 ---
 ### Synonyms
-- [[bounce back]], [[rebound]], [[bang]], [[do it]], [[have sex]], [[bob]]
+- [[r/_rebound|rebound]], [[b/_bang|bang]], [[b/_bob|bob]]
 #adjective
 - **Unsuccessful [[d/_delivery|delivery]] of [[e/_email|email]]**
 ---
 ### Antonyms
-- [[delivered]]
+- [[d/_delivered|delivered]]
 ---

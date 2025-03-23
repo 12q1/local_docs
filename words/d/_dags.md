@@ -5,7 +5,7 @@
 - **A [[d/_dangling|dangling]] lock of sheep’s wool matted with [[d/_dung|dung]].**
 ---
 ### Synonyms
-- [[dagging]], [[daglock]], [[taglock]], [[dung tag]]
+- [[d/_dagging|dagging]], [[d/_daglock|daglock]], [[t/_taglock|taglock]]
 #verb
 - **To shear the hindquarters of a sheep in order to remove [[d/_dags|dags]] or prevent their formation.**
 - **To [[d/_daggle|daggle]] or [[b/_bemire|bemire]].**
@@ -25,7 +25,7 @@
 - **One who [[d/_dresses|dresses]] unfashionably or without [[a/_apparent|apparent]] [[c/_care|care]] [[a/_about|about]] [[a/_appearance|appearance]].**
 ---
 ### Synonyms
-- [[dirtball]], [[scruffbag]], [[slob]]
+- [[d/_dirtball|dirtball]], [[s/_scruffbag|scruffbag]], [[s/_slob|slob]]
 #noun
 - **A [[d/_directed|directed]] [[a/_acyclic|acyclic]] graph; an ordered pair (V, [[e/_e|E]]) such that [[e/_e|E]] is a subset of some partial ordering relation on V.**
 ---
@@ -63,7 +63,7 @@
 - **A flop; a film that performs poorly at the [[b/_box|box]] office.**
 ---
 ### Synonyms
-- [[Canis canis]], [[Canis domesticus]], [[Canis familiaris]], [[canine]], [[domestic dog]], [[hound]], [[sire]], [[stud]], [[bloke]], [[chap]], [[dude]], [[fellow]], [[guy]], [[man]], [[click]], [[detent]], [[pawl]], [[andiron]], [[dogiron]], [[firedog]], [[blackguard]], [[bounder]], [[cad]], [[fool]], [[heel]], [[hound]], [[scoundrel]]
+- [[c/_canine|canine]], [[h/_hound|hound]], [[s/_sire|sire]], [[s/_stud|stud]], [[b/_bloke|bloke]], [[c/_chap|chap]], [[d/_dude|dude]], [[f/_fellow|fellow]], [[g/_guy|guy]], [[m/_man|man]], [[c/_click|click]], [[d/_detent|detent]], [[p/_pawl|pawl]], [[a/_andiron|andiron]], [[d/_dogiron|dogiron]], [[f/_firedog|firedog]], [[b/_blackguard|blackguard]], [[b/_bounder|bounder]], [[c/_cad|cad]], [[f/_fool|fool]], [[h/_heel|heel]], [[h/_hound|hound]], [[s/_scoundrel|scoundrel]]
 #noun
 - **Meat from a [[d/_dog|dog]] [[e/_eaten|eaten]] as food.**
 	- _Example: We visited South Korea this time around, where we ate dog meat for the first time._
@@ -72,5 +72,5 @@
 	- _Example: Did you just step on my blue suede shoes? You're dog meat now!_
 ---
 ### Synonyms
-- [[dog]], [[dog food]], [[fragrant meat]]
+- [[d/_dog|dog]]
 ---

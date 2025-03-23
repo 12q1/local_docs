@@ -2,7 +2,7 @@
 ---
 #noun
 - **Heaven.**
-- **Something, especially a person's name in legal [[d/_documents|documents]], that [[a/_appears|appears]] higher on the same page or on a preceding page.**
+- **Something, [[e/_especially|especially]] a person's name in legal [[d/_documents|documents]], that [[a/_appears|appears]] higher on the same page or on a preceding page.**
 - **Higher [[a/_authority|authority]].**
 - **[[b/_betterment|Betterment]], raised status or [[c/_condition|condition]].**
 ---
@@ -32,7 +32,7 @@
 - **Farther north than.**
 	- _Example: Idaho is above Utah._
 - **Rising; [[a/_appearing|appearing]] out of reach height-wise.**
-- **Higher than; superior to in [[a/_any|any]] respect; surpassing; higher in measure, [[d/_degree|degree]], volume, or pitch, etc. than; out of reach; not exposed to; not likely to be [[a/_affected|affected]] by; incapable of negative [[a/_actions|actions]] or thoughts.**
+- **Higher than; superior to in [[a/_any|any]] respect; surpassing; higher in measure, [[d/_degree|degree]], volume, or pitch, [[e/_etc|etc]]. than; out of reach; not exposed to; not likely to be [[a/_affected|affected]] by; incapable of negative [[a/_actions|actions]] or thoughts.**
 	- _Example: Even the chief of police is not above suspicion._
 - **Higher in rank, status, or position.**
 	- _Example: to stand head and shoulders above the rest_
@@ -47,5 +47,5 @@
 - **Upstage of.**
 ---
 ### Antonyms
-- [[below]], [[beneath]]
+- [[b/_below|below]], [[b/_beneath|beneath]]
 ---

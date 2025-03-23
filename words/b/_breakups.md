@@ -7,5 +7,5 @@
 - **([[a/_alaska|Alaska]] and northern [[c/_canada|Canada]]) The time of year [[d/_during|during]] which winter ice [[c/_covering|covering]] [[b/_bodies|bodies]] of water [[d/_disintegrates|disintegrates]], or more generally Spring.**
 ---
 ### Synonyms
-- [[rupture]], [[split]], [[falling out]]
+- [[r/_rupture|rupture]], [[s/_split|split]]
 ---

@@ -9,7 +9,7 @@
 - **A summary title of the key points [[d/_detailing|detailing]] a tract of land, for ownership; [[a/_abstract|abstract]] of title.**
 ---
 ### Synonyms
-- [[abridgment]], [[compendium]], [[epitome]], [[synopsis]]
+- [[a/_abridgment|abridgment]], [[c/_compendium|compendium]], [[e/_epitome|epitome]], [[s/_synopsis|synopsis]]
 #verb
 - **To separate; to [[d/_disengage|disengage]].**
 - **To remove; to take [[a/_away|away]]; withdraw.**
@@ -27,7 +27,7 @@
 	- _Example: He abstracted out the square root function._
 ---
 ### Synonyms
-- [[abridge]], [[epitomize]], [[summarize]], [[filch]], [[purloin]], [[steal]], [[remove]], [[separate]], [[take away]], [[withdraw]]
+- [[a/_abridge|abridge]], [[e/_epitomize|epitomize]], [[s/_summarize|summarize]], [[f/_filch|filch]], [[p/_purloin|purloin]], [[s/_steal|steal]], [[r/_remove|remove]], [[s/_separate|separate]], [[w/_withdraw|withdraw]]
 #adjective
 - **[[d/_derived|Derived]]; extracted.**
 - **[[d/_drawn|Drawn]] [[a/_away|away]]; removed from; [[a/_apart|apart]] from; separate.**
@@ -43,7 +43,7 @@
 - **Of a [[c/_class|class]] in object-oriented programming, [[b/_being|being]] a partial [[b/_basis|basis]] for subclasses rather than a [[c/_complete|complete]] template for objects.**
 ---
 ### Synonyms
-- [[abstruse]], [[ascriptive]], [[attributive]], [[conceptual]], [[ideal]], [[imaginary]], [[incorporeal]], [[intangible]], [[nonempirical]], [[theoretical]], [[conceptual]], [[theoretical]], [[formal]], [[general]], [[generalized]], [[generic]], [[nonspecific]], [[representational]]
+- [[a/_abstruse|abstruse]], [[a/_ascriptive|ascriptive]], [[a/_attributive|attributive]], [[c/_conceptual|conceptual]], [[i/_ideal|ideal]], [[i/_imaginary|imaginary]], [[i/_incorporeal|incorporeal]], [[i/_intangible|intangible]], [[n/_nonempirical|nonempirical]], [[t/_theoretical|theoretical]], [[c/_conceptual|conceptual]], [[t/_theoretical|theoretical]], [[f/_formal|formal]], [[g/_general|general]], [[g/_generalized|generalized]], [[g/_generic|generic]], [[n/_nonspecific|nonspecific]], [[r/_representational|representational]]
 ### Antonyms
-- [[actual]], [[concrete]], [[corporeal]], [[empirical]], [[applied]], [[practical]], [[discrete]], [[particular]], [[precise]], [[specific]]
+- [[a/_actual|actual]], [[c/_concrete|concrete]], [[c/_corporeal|corporeal]], [[e/_empirical|empirical]], [[a/_applied|applied]], [[p/_practical|practical]], [[d/_discrete|discrete]], [[p/_particular|particular]], [[p/_precise|precise]], [[s/_specific|specific]]
 ---

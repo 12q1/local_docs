@@ -15,10 +15,10 @@
 - **In a [[c/_commission|commission]]-[[b/_based|based]] job, an [[a/_advance|advance]] on future (potential) [[c/_commissions|commissions]] given to an [[e/_employee|employee]] by the [[e/_employer|employer]].**
 - **A situation in which one or more players has four [[c/_cards|cards]] of the same suit or four out of five necessary [[c/_cards|cards]] for a straight and requires a further [[c/_card|card]] to make their flush or straight.**
 - **The [[a/_act|act]] of pulling [[b/_back|back]] the strings in preparation of firing.**
-- **The spin or twist imparted to a [[b/_ball|ball]] etc. by a [[d/_drawing|drawing]] stroke.**
+- **The spin or twist imparted to a [[b/_ball|ball]] [[e/_etc|etc]]. by a [[d/_drawing|drawing]] stroke.**
 ---
 ### Synonyms
-- [[stalemate]], [[dry creek]]
+- [[s/_stalemate|stalemate]]
 #verb
 - **To move or [[d/_develop|develop]] something.**
 - **To exert or experience force.**

@@ -10,7 +10,7 @@
 - **To be stopped or slowed (as if) by [[b/_braking|braking]].**
 ---
 ### Antonyms
-- [[accelerate]], [[floor it]], [[put the pedal to the metal]], [[redline]]
+- [[a/_accelerate|accelerate]], [[r/_redline|redline]]
 #noun
 - **The [[a/_act|act]] of [[a/_applying|applying]] [[b/_brakes|brakes]].**
 	- _Example: the acceleratings and brakings of a vehicle_

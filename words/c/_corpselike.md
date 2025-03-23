@@ -4,5 +4,5 @@
 - **Resembling a [[c/_corpse|corpse]].**
 ---
 ### Synonyms
-- [[cadaverous]], [[deathly]]
+- [[c/_cadaverous|cadaverous]], [[d/_deathly|deathly]]
 ---

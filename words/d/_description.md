@@ -1,7 +1,7 @@
 # Description
 ---
 #noun
-- **A sketch or [[a/_account|account]] of [[a/_anything|anything]] in words; a portraiture or representation in language; an [[e/_enumeration|enumeration]] of the essential qualities of a thing or species.**
+- **A sketch or [[a/_account|account]] of [[a/_anything|anything]] in words; a portraiture or representation in language; an [[e/_enumeration|enumeration]] of the [[e/_essential|essential]] qualities of a thing or species.**
 - **The [[a/_act|act]] of [[d/_describing|describing]]; a [[d/_delineation|delineation]] by marks or signs.**
 - **A set of [[c/_characteristics|characteristics]] by which someone or something [[c/_can|can]] be recognized.**
 	- _Example: The zoo had no lions, tigers, or cats of any description._
@@ -11,5 +11,5 @@
 - **A [[d/_descriptive|descriptive]] linguistic survey.**
 ---
 ### Synonyms
-- [[kind]], [[sort]], [[type]], [[variety]]
+- [[k/_kind|kind]], [[s/_sort|sort]], [[t/_type|type]], [[v/_variety|variety]]
 ---

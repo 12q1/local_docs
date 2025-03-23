@@ -6,7 +6,7 @@
 - **Intense heat.**
 ---
 ### Synonyms
-- [[elan]], [[fire in the belly]], [[passion]], [[zeal]], [[intensity]]
+- [[e/_elan|elan]], [[p/_passion|passion]], [[z/_zeal|zeal]], [[i/_intensity|intensity]]
 ### Antonyms
-- [[apathy]]
+- [[a/_apathy|apathy]]
 ---

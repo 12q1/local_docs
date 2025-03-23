@@ -29,5 +29,5 @@
 	- _Example: The new bed allowed my sleep to deepen._
 ---
 ### Synonyms
-- [[depthen]]
+- [[d/_depthen|depthen]]
 ---

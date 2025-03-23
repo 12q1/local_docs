@@ -5,7 +5,7 @@
 ---
 #noun
 - **A person [[e/_either|either]] [[a/_admitted|admitted]] to a theatrical or musical performance without [[c/_charge|charge]], or paid to [[a/_attend|attend]].**
-- **An [[e/_employee|employee]] of a transportation [[c/_company|company]], especially a pilot, traveling as a passenger for logistical reasons, for example to return home or travel to their next [[a/_assignment|assignment]].**
+- **An [[e/_employee|employee]] of a transportation [[c/_company|company]], [[e/_especially|especially]] a pilot, traveling as a passenger for logistical reasons, for example to return home or travel to their next [[a/_assignment|assignment]].**
 - **[[a/_anyone|Anyone]] traveling for free.**
 - **A train or truck moved [[b/_between|between]] [[c/_cities|cities]] with no passengers or freight, in order to make it [[a/_available|available]] for service.**
 - **A person staying at a lodging, such as a hotel or [[b/_boarding|boarding]] house, without paying rent; freeloader.**

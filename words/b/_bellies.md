@@ -1,7 +1,7 @@
 # Bellies
 ---
 #noun
-- **The [[a/_abdomen|abdomen]], especially a fat one.**
+- **The [[a/_abdomen|abdomen]], [[e/_especially|especially]] a fat one.**
 - **The stomach.**
 - **The womb.**
 - **The lower fuselage of an [[a/_airplane|airplane]].**

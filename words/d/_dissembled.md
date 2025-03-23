@@ -7,5 +7,5 @@
 - **To falsely hide one's opinions or feelings.**
 ---
 ### Synonyms
-- [[disregard]], [[take no notice of]]
+- [[d/_disregard|disregard]]
 ---

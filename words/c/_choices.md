@@ -14,5 +14,5 @@
 - **A sufficient number to [[c/_choose|choose]] [[a/_among|among]].**
 ---
 ### Synonyms
-- [[assortment]], [[range]], [[selection]], [[cream]], [[option]], [[possibility]], [[abundance]], [[profusion]]
+- [[a/_assortment|assortment]], [[r/_range|range]], [[s/_selection|selection]], [[c/_cream|cream]], [[o/_option|option]], [[p/_possibility|possibility]], [[a/_abundance|abundance]], [[p/_profusion|profusion]]
 ---

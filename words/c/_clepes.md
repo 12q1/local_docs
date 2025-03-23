@@ -10,5 +10,5 @@
 - **To report; relate; tell.**
 ---
 ### Synonyms
-- [[blab]], [[designate]], [[dub]], [[name]], [[grass]], [[snitch]]
+- [[b/_blab|blab]], [[d/_designate|designate]], [[d/_dub|dub]], [[n/_name|name]], [[g/_grass|grass]], [[s/_snitch|snitch]]
 ---

@@ -11,7 +11,7 @@
 - **A [[c/_cause|cause]] of [[a/_annoyance|annoyance]]**
 ---
 ### Synonyms
-- [[bleb]]
+- [[b/_bleb|bleb]]
 #verb
 - **To raise [[b/_blisters|blisters]] on.**
 	- _Example: a chemical agent that blisters the skin_
@@ -20,5 +20,5 @@
 - **To [[b/_break|break]] out in [[b/_blisters|blisters]].**
 ---
 ### Synonyms
-- [[vesicate]]
+- [[v/_vesicate|vesicate]]
 ---

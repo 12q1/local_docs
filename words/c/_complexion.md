@@ -6,7 +6,7 @@
 	- _Example: a rugged complexion;  a sunburnt complexion_
 - **The outward [[a/_appearance|appearance]] of something.**
 - **Outlook, [[a/_attitude|attitude]], or point of view.**
-- **(loanword, especially in scientific works translated from German) An [[a/_arrangement|arrangement]].**
+- **(loanword, [[e/_especially|especially]] in scientific works translated from German) An [[a/_arrangement|arrangement]].**
 ---
 #verb
 - **To give a [[c/_colour|colour]] to.**

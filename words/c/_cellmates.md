@@ -4,5 +4,5 @@
 - **A person with whom one shares a prison [[c/_cell|cell]].**
 ---
 ### Synonyms
-- [[celly]]
+- [[c/_celly|celly]]
 ---

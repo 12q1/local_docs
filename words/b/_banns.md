@@ -6,5 +6,5 @@
 	- _Example: The Banes which are reade beefore the beginninge of the playes of Chester, 4 June, 1600._
 ---
 ### Synonyms
-- [[banns of marriage]]
+- 
 ---

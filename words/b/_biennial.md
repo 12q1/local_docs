@@ -9,5 +9,5 @@
 - **Lasting for two years.**
 ---
 ### Synonyms
-- [[biannual]], [[biennary]]
+- [[b/_biannual|biannual]], [[b/_biennary|biennary]]
 ---

@@ -6,7 +6,7 @@
 - **To [[b/_bereave|bereave]].**
 ---
 ### Synonyms
-- [[bereave]], [[impoverish]]
+- [[b/_bereave|bereave]], [[i/_impoverish|impoverish]]
 ### Antonyms
-- [[enrich]]
+- [[e/_enrich|enrich]]
 ---

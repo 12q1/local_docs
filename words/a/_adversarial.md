@@ -4,5 +4,5 @@
 - **[[c/_characteristic|Characteristic]] of, or in the manner of, an [[a/_adversary|adversary]]; [[c/_combative|combative]], hostile, opposed**
 ---
 ### Antonyms
-- [[cooperative]]
+- [[c/_cooperative|cooperative]]
 ---

@@ -11,5 +11,5 @@
 - **Prohibition; a prohibitory ordinance.**
 ---
 ### Antonyms
-- [[offence]], [[offense]]
+- [[o/_offence|offence]], [[o/_offense|offense]]
 ---

@@ -3,7 +3,7 @@
 #verb
 - **To [[c/_create|create]] (a hole) by removing material with a [[d/_drill|drill]] (tool).**
 	- _Example: Drill a small hole to start the screw in the right direction._
-- **To practice, especially in (or as in) a military [[c/_context|context]].**
+- **To practice, [[e/_especially|especially]] in (or as in) a military [[c/_context|context]].**
 	- _Example: They drilled daily to learn the routine exactly._
 - **To [[c/_cause|cause]] to [[d/_drill|drill]] (practice); to train in military [[a/_arts|arts]].**
 	- _Example: The sergeant was up by 6:00 every morning, drilling his troops._
@@ -12,11 +12,11 @@
 - **To investigate or examine something in more [[d/_detail|detail]] or at a [[d/_different|different]] level**
 	- _Example: Drill deeper and you may find the underlying assumptions faulty._
 - **To hit or kick with a lot of power.**
-- **To hit someone with a pitch, especially in an intentional [[c/_context|context]].**
+- **To hit someone with a pitch, [[e/_especially|especially]] in an intentional [[c/_context|context]].**
 - **To have sexual intercourse with; to penetrate.**
 ---
 ### Synonyms
-- [[bore]], [[excavate]], [[gouge]], [[plow]], [[poke]], [[root]], [[shaft]]
+- [[b/_bore|bore]], [[e/_excavate|excavate]], [[g/_gouge|gouge]], [[p/_plow|plow]], [[p/_poke|poke]], [[r/_root|root]], [[s/_shaft|shaft]]
 #verb
 - **To sow (seeds) by [[d/_dribbling|dribbling]] them [[a/_along|along]] a furrow or in a row.**
 ---
@@ -29,7 +29,7 @@
 - **To [[c/_cause|cause]] to slip or waste [[a/_away|away]] by [[d/_degrees|degrees]].**
 ---
 ### Synonyms
-- [[entice]], [[lead on]], [[lure]]
+- [[e/_entice|entice]], [[l/_lure|lure]]
 #noun
 - **[[a/_act|Act]] of [[d/_drilling|drilling]].**
 ---

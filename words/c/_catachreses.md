@@ -5,5 +5,5 @@
 - **A misapplication or overextension of figurative or [[a/_analogical|analogical]] [[d/_description|description]]; a wrongly-[[a/_applied|applied]] metaphor or trope.**
 ---
 ### Synonyms
-- [[abusio]], [[misnomer]], [[malapropism]]
+- [[a/_abusio|abusio]], [[m/_misnomer|misnomer]], [[m/_malapropism|malapropism]]
 ---

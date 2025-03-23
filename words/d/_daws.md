@@ -5,5 +5,5 @@
 - **An idiot, a simpleton; fool.**
 ---
 ### Synonyms
-- [[Eurasian jackdaw]], [[European jackdaw]], [[jackdaw]], [[western jackdaw]]
+- [[j/_jackdaw|jackdaw]]
 ---

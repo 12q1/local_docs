@@ -5,5 +5,5 @@
 - **An extract or tincture obtained from [[a/_aconitum|Aconitum]] napellus, used as a poison and medicinally.**
 ---
 ### Synonyms
-- [[monkshood]], [[wolfsbane]]
+- [[m/_monkshood|monkshood]], [[w/_wolfsbane|wolfsbane]]
 ---

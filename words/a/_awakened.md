@@ -10,9 +10,9 @@
 - **To [[c/_call|call]] to a sense of sin.**
 ---
 ### Synonyms
-- [[awake]], [[stir]], [[animate]], [[energize]], [[knock up]], [[uprouse]]
+- [[a/_awake|awake]], [[s/_stir|stir]], [[a/_animate|animate]], [[e/_energize|energize]], [[u/_uprouse|uprouse]]
 ### Antonyms
-- [[fall asleep]]
+- 
 #adjective
 - **Having [[b/_been|been]] woken up.**
 	- _Example: the awakened baby began to cry_

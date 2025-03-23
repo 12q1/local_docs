@@ -7,5 +7,5 @@
 - **[[c/_competition|Competition]] by parts of a system or its users for a limited resource.**
 ---
 ### Synonyms
-- [[gainstrife]], [[gainstriving]], [[wrangling]]
+- [[g/_gainstrife|gainstrife]], [[g/_gainstriving|gainstriving]], [[w/_wrangling|wrangling]]
 ---

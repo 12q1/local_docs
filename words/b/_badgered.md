@@ -6,5 +6,5 @@
 - **To pass gas; to fart.**
 ---
 ### Synonyms
-- [[flatulate]]
+- [[f/_flatulate|flatulate]]
 ---

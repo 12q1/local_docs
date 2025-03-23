@@ -7,5 +7,5 @@
 - **An old kind of fireship.**
 ---
 ### Synonyms
-- [[twinhull]]
+- [[t/_twinhull|twinhull]]
 ---

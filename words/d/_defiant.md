@@ -8,7 +8,7 @@
 - **[[b/_boldly|Boldly]] resisting opposition.**
 ---
 ### Synonyms
-- [[dareful]], [[rebellious]]
+- [[d/_dareful|dareful]], [[r/_rebellious|rebellious]]
 ### Antonyms
-- [[docile]], [[obedient]], [[submissive]], [[dominant]]
+- [[d/_docile|docile]], [[o/_obedient|obedient]], [[s/_submissive|submissive]], [[d/_dominant|dominant]]
 ---

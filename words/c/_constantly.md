@@ -8,5 +8,5 @@
 - **In an unchangeable or invariable manner; in every [[c/_case|case]].**
 ---
 ### Synonyms
-- [[ceaselessly]], [[incessantly]], [[nonstop]], [[consistently]], [[invariably]], [[uniformly]]
+- [[c/_ceaselessly|ceaselessly]], [[i/_incessantly|incessantly]], [[n/_nonstop|nonstop]], [[c/_consistently|consistently]], [[i/_invariably|invariably]], [[u/_uniformly|uniformly]]
 ---

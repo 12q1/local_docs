@@ -6,5 +6,5 @@
 	- _Example: to make a dicker_
 ---
 ### Synonyms
-- [[daker]]
+- [[d/_daker|daker]]
 ---

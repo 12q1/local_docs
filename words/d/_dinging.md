@@ -3,7 +3,7 @@
 #verb
 - **To hit or strike.**
 - **To [[d/_dash|dash]]; to throw violently.**
-- **To inflict minor [[d/_damage|damage]] upon, especially by hitting or striking.**
+- **To inflict minor [[d/_damage|damage]] upon, [[e/_especially|especially]] by hitting or striking.**
 - **To fire or reject.**
 	- _Example: His top school dinged him last week._
 - **To [[d/_deduct|deduct]], as points, from [[a/_another|another]], in the manner of a penalty; to penalize.**

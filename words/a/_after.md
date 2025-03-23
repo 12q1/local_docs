@@ -32,7 +32,7 @@
 - **[[a/_according|According]] to the [[d/_direction|direction]] and influence of; in proportion to; [[b/_befitting|befitting]].**
 ---
 ### Synonyms
-- [[post]]
+- [[p/_post|post]]
 #conjunction
 - **Signifies that the [[a/_action|action]] of the [[c/_clause|clause]] it starts takes place [[b/_before|before]] the [[a/_action|action]] of the other [[c/_clause|clause]].**
 	- _Example: I went home after we had decided to call it a day._

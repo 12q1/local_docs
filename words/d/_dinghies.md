@@ -5,5 +5,5 @@
 - **An inflatable rubber life raft.**
 ---
 ### Synonyms
-- [[tender]]
+- [[t/_tender|tender]]
 ---

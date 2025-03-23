@@ -6,5 +6,5 @@
 	- _Example: The building, towering over its surroundings with its square concrete frame and reflective walls of gold-tinted glass, was an eyesore visible throughout the city._
 ---
 ### Antonyms
-- [[eye candy]], [[feast for the eyes]]
+- 
 ---

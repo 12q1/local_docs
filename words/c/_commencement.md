@@ -7,5 +7,5 @@
 - **A graduation [[c/_ceremony|ceremony]], from a school, [[c/_college|college]] or university.**
 ---
 ### Synonyms
-- [[beginning]], [[dawn]], [[origin]], [[rise]], [[start]]
+- [[b/_beginning|beginning]], [[d/_dawn|dawn]], [[o/_origin|origin]], [[r/_rise|rise]], [[s/_start|start]]
 ---

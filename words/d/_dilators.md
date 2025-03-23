@@ -6,5 +6,5 @@
 - **An instrument used to [[d/_dilate|dilate]] an orifice or [[c/_cavity|cavity]]**
 ---
 ### Synonyms
-- [[dilatator]], [[dilater]]
+- [[d/_dilatator|dilatator]], [[d/_dilater|dilater]]
 ---

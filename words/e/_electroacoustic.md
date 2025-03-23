@@ -4,5 +4,5 @@
 - **Of or pertaining to [[e/_electroacoustics|electroacoustics]]**
 ---
 ### Synonyms
-- [[acoustoelectric]]
+- [[a/_acoustoelectric|acoustoelectric]]
 ---

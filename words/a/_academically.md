@@ -5,5 +5,5 @@
 	- _Example: Academically, the football team is counter-productive._
 ---
 ### Antonyms
-- [[non-academically]]
+- [[n/_non-academically|non-academically]]
 ---

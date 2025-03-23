@@ -8,5 +8,5 @@
 	- _Example: 6B4 is the duodecimal notation for the decimal number 1000._
 ---
 ### Synonyms
-- [[base]], [[dozenal]]
+- [[b/_base|base]], [[d/_dozenal|dozenal]]
 ---

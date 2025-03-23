@@ -2,13 +2,13 @@
 ---
 #noun
 - **The punctuation mark \.**
-- **Used erroneously in reference to, or in reading out, the ordinary slash, that is, the punctuation mark /.**
+- **Used [[e/_erroneously|erroneously]] in reference to, or in reading out, the ordinary slash, that is, the punctuation mark /.**
 ---
 ### Synonyms
-- [[reverse solidus]], [[slosh]], [[whack]]
+- [[s/_slosh|slosh]], [[w/_whack|whack]]
 ### Antonyms
-- [[slash]]
+- [[s/_slash|slash]]
 #verb
-- **To escape (a metacharacter) by prepending a [[b/_backslash|backslash]] that serves as an escape [[c/_character|character]], thereby forming an escape sequence.**
+- **To [[e/_escape|escape]] (a metacharacter) by prepending a [[b/_backslash|backslash]] that serves as an [[e/_escape|escape]] [[c/_character|character]], thereby forming an [[e/_escape|escape]] sequence.**
 ---
 ---

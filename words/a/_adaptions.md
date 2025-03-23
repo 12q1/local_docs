@@ -9,5 +9,5 @@
 - **([[a/_authorship|authorship]]) An [[a/_artistic|artistic]] work that has [[b/_been|been]] [[a/_adapted|adapted]] from a [[d/_different|different]] medium.**
 ---
 ### Antonyms
-- [[maladaptation]]
+- [[m/_maladaptation|maladaptation]]
 ---

@@ -5,7 +5,7 @@
 - **One who [[a/_advocates|advocates]] for the protection of the [[b/_biosphere|biosphere]] from misuse from human [[a/_activity|activity]] through such measures as [[e/_ecosystem|ecosystem]] protection, waste reduction and pollution prevention**
 ---
 ### Synonyms
-- [[greenie]], [[tree hugger]]
+- [[g/_greenie|greenie]]
 #adjective
 - **Of, or relating to [[e/_environmentalism|environmentalism]].**
 ---

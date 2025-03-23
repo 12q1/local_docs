@@ -7,5 +7,5 @@
 - **In the [[d/_direction|direction]] of rotation opposite from [[c/_clockwise|clockwise]].**
 ---
 ### Synonyms
-- [[anticlockwise]], [[contraclockwise]]
+- [[a/_anticlockwise|anticlockwise]], [[c/_contraclockwise|contraclockwise]]
 ---

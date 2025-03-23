@@ -1,7 +1,7 @@
 # Beauties
 ---
 #noun
-- **The quality of [[b/_being|being]] (especially visually) [[a/_attractive|attractive]], pleasing, fine or good-looking; [[c/_comeliness|comeliness]].**
+- **The quality of [[b/_being|being]] ([[e/_especially|especially]] visually) [[a/_attractive|attractive]], pleasing, fine or good-looking; [[c/_comeliness|comeliness]].**
 	- _Example: 1988, "… beauty and recollection, like danger, glamour, greed, hunger- everything but disappointment and desire- were concepts belonging to other people.” -Second Son, Robert Ferro_
 - **Someone who is [[b/_beautiful|beautiful]].**
 	- _Example: Brigitte Bardot was a renowned beauty._
@@ -16,9 +16,9 @@
 - **(in the plural) [[b/_beautiful|Beautiful]] passages or extracts of poetry.**
 ---
 ### Synonyms
-- [[good-lookingness]], [[gorgeousness]], [[inspiration]], [[loveliness]], [[belle]], [[good looker]], [[looker]], [[gem]], [[jewel]]
+- [[g/_good-lookingness|good-lookingness]], [[g/_gorgeousness|gorgeousness]], [[i/_inspiration|inspiration]], [[l/_loveliness|loveliness]], [[b/_belle|belle]], [[l/_looker|looker]], [[g/_gem|gem]], [[j/_jewel|jewel]]
 ### Antonyms
-- [[homeliness]], [[repulsiveness]], [[ugliness]]
+- [[h/_homeliness|homeliness]], [[r/_repulsiveness|repulsiveness]], [[u/_ugliness|ugliness]]
 #verb
 - **To make [[b/_beautiful|beautiful]].**
 ---

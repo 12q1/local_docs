@@ -6,5 +6,5 @@
 - **A person or thing that is loathsome; a [[d/_detested|detested]] thing.**
 ---
 ### Synonyms
-- [[abhorrition]]
+- [[a/_abhorrition|abhorrition]]
 ---

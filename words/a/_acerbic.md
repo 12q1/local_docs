@@ -5,5 +5,5 @@
 - **Sharp, harsh, [[b/_biting|biting]].**
 ---
 ### Synonyms
-- [[acrid]], [[acrimonious]], [[scathing]], [[acerb]], [[acrid]], [[acrimonious]]
+- [[a/_acrid|acrid]], [[a/_acrimonious|acrimonious]], [[s/_scathing|scathing]], [[a/_acerb|acerb]], [[a/_acrid|acrid]], [[a/_acrimonious|acrimonious]]
 ---

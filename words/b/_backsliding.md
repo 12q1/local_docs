@@ -7,7 +7,7 @@
 	- _Example: Rich countries are backsliding on their commitment to agree to new WTO measures to help people in poor countries gain access to affordable medicines. — Oxfam press release, 24 June 2002_
 ---
 #noun
-- **An occasion on which one [[b/_backslides|backslides]], especially in a moral sense**
+- **An occasion on which one [[b/_backslides|backslides]], [[e/_especially|especially]] in a moral sense**
 ---
 #adjective
 - **Sliding [[b/_back|back]]**

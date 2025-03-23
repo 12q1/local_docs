@@ -9,7 +9,7 @@
 - **The [[d/_department|department]] of a [[b/_business|business]] that [[e/_ensures|ensures]] [[a/_all|all]] government regulations are [[c/_complied|complied]] with.**
 ---
 ### Synonyms
-- [[compliancy]]
+- [[c/_compliancy|compliancy]]
 ### Antonyms
-- [[violation]]
+- [[v/_violation|violation]]
 ---

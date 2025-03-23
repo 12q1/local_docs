@@ -5,7 +5,7 @@
 - **A pirate.**
 ---
 ### Synonyms
-- [[pirate]], [[privateer]]
+- [[p/_pirate|pirate]], [[p/_privateer|privateer]]
 #verb
 - **To [[e/_engage|engage]] in piracy [[a/_against|against]] [[a/_any|any]] but one's own nation's ships.**
 ---

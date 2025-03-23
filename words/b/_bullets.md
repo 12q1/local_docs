@@ -2,7 +2,7 @@
 ---
 #noun
 - **A projectile, usually of metal, shot from a gun at high speed.**
-- **An [[e/_entire|entire]] round of unfired [[a/_ammunition|ammunition]] for a firearm, including the projectile, the [[c/_cartridge|cartridge]] [[c/_casing|casing]], the propellant [[c/_charge|charge]], etc.**
+- **An [[e/_entire|entire]] round of unfired [[a/_ammunition|ammunition]] for a firearm, including the projectile, the [[c/_cartridge|cartridge]] [[c/_casing|casing]], the propellant [[c/_charge|charge]], [[e/_etc|etc]].**
 - **[[a/_ammunition|Ammunition]] for a sling or slingshot which has [[b/_been|been]] manufactured for such use.**
 - **A printed symbol in the form of a solid [[c/_circle|circle]], (•), often used in lieu of numbers for marking items in a list. (see [[a/_also|also]] [[b/_bulleted|bulleted]])**
 - **A large scheduled repayment of the principal of a loan; a [[b/_balloon|balloon]] payment.**
@@ -21,12 +21,12 @@
 - **The fetlock of a horse.**
 ---
 ### Synonyms
-- [[cap]], [[pill]], [[slug]], [[bullet point]]
+- [[c/_cap|cap]], [[p/_pill|pill]], [[s/_slug|slug]]
 #verb
 - **To [[d/_draw|draw]] [[a/_attention|attention]] to (text) by, or as if by, placing a graphic [[b/_bullet|bullet]] in front of it.**
 - **To speed, like a [[b/_bullet|bullet]].**
 	- _Example: Their debut started slow, but bulleted to number six in its fourth week._
-- **To make a shot, especially with great speed.**
+- **To make a shot, [[e/_especially|especially]] with great speed.**
 	- _Example: He bulleted a header for his first score of the season._
 ---
 #noun

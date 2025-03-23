@@ -35,7 +35,7 @@
 - **A period of prosperity, growth, progress, or high market [[a/_activity|activity]].**
 ---
 ### Antonyms
-- [[recession]]
+- [[r/_recession|recession]]
 #verb
 - **To flourish, grow, or progress.**
 	- _Example: Business was booming._
@@ -43,5 +43,5 @@
 	- _Example: to boom railroad or mining shares_
 ---
 ### Synonyms
-- [[flourish]], [[prosper]]
+- [[f/_flourish|flourish]], [[p/_prosper|prosper]]
 ---

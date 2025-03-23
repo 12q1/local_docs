@@ -5,7 +5,7 @@
 - **A person [[a/_able|able]] to foresee the future.**
 ---
 ### Synonyms
-- [[fortune teller]], [[medium]], [[mystic]], [[seer]]
+- [[m/_medium|medium]], [[m/_mystic|mystic]], [[s/_seer|seer]]
 #adjective
 - **Of or relating to [[c/_clairvoyance|clairvoyance]].**
 - **[[a/_able|Able]] to see things that [[c/_cannot|cannot]] be perceived by the normal senses.**

@@ -28,7 +28,7 @@
 - **A young [[a/_apprentice|apprentice]] jockey.**
 ---
 ### Synonyms
-- [[bog]], [[bogey]], [[boggard]], [[boggle]], [[bogle]], [[bugbear]], [[defect]], [[glitch]]
+- [[b/_bog|bog]], [[b/_bogey|bogey]], [[b/_boggard|boggard]], [[b/_boggle|boggle]], [[b/_bogle|bogle]], [[b/_bugbear|bugbear]], [[d/_defect|defect]], [[g/_glitch|glitch]]
 #verb
 - **To [[a/_annoy|annoy]].**
 	- _Example: Don’t bug me, I’m busy!_
@@ -42,5 +42,5 @@
 - **A microfossil, particularly a foraminiferan.**
 ---
 ### Synonyms
-- [[bug]]
+- [[b/_bug|bug]]
 ---

@@ -11,5 +11,5 @@
 	- _Example: The company went into voluntary administration last week._
 ---
 ### Synonyms
-- [[conduct]], [[governing]], [[management]], [[organization]], [[regulation]], [[supervision]]
+- [[c/_conduct|conduct]], [[g/_governing|governing]], [[m/_management|management]], [[o/_organization|organization]], [[r/_regulation|regulation]], [[s/_supervision|supervision]]
 ---

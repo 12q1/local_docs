@@ -6,5 +6,5 @@
 - **An [[e/_eighth|eighth]] of an ounce, or [[a/_approximately|approximately]] 3.5 grams, of marijuana or other [[d/_drugs|drugs]].**
 ---
 ### Synonyms
-- [[henry]], [[⅛]]
+- [[h/_henry|henry]], [[⅛/_⅛|⅛]]
 ---

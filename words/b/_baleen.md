@@ -5,5 +5,5 @@
 - **A [[b/_baleen|baleen]] whale**
 ---
 ### Synonyms
-- [[whalebone]]
+- [[w/_whalebone|whalebone]]
 ---

@@ -4,5 +4,5 @@
 - **To operate an [[a/_aircraft|aircraft]].**
 ---
 ### Synonyms
-- [[fly]], [[pilot]]
+- [[f/_fly|fly]], [[p/_pilot|pilot]]
 ---

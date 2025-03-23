@@ -12,7 +12,7 @@
 - **To punch (a person).**
 ---
 ### Synonyms
-- [[stipple]]
+- [[s/_stipple|stipple]]
 #adjective
 - **(of a line) Made up of a series of [[d/_dots|dots]].**
 	- _Example: Please print your name and address clearly on the dotted line._

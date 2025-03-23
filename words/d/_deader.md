@@ -40,10 +40,10 @@
 - **[[b/_bringing|Bringing]] [[d/_death|death]]; [[d/_deadly|deadly]].**
 - **[[c/_cut|Cut]] off from the rights of a [[c/_citizen|citizen]]; [[d/_deprived|deprived]] of the power of [[e/_enjoying|enjoying]] the rights of property.**
 	- _Example: A person who is banished or who becomes a monk is civilly dead._
-- **(often with "to") Indifferent to, no longer subject to or ruled by (sin, guilt, pleasure, etc).**
+- **(often with "to") Indifferent to, no longer subject to or ruled by (sin, guilt, pleasure, [[e/_etc|etc]]).**
 ---
 ### Antonyms
-- [[alive]], [[living]]
+- [[a/_alive|alive]], [[l/_living|living]]
 #noun
 - **One who is [[d/_deceased|deceased]], or will shortly [[b/_become|become]] so.**
 	- _Example: I could tell he was a deader by the way his eyes were glazed over; there was no life left in those eyes._

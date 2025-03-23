@@ -1,7 +1,7 @@
 # Audiences
 ---
 #noun
-- **A group of people within hearing; specifically, a large gathering of people listening to or watching a performance, speech, etc.**
+- **A group of people within hearing; specifically, a large gathering of people listening to or watching a performance, speech, [[e/_etc|etc]].**
 	- _Example: We joined the audience just as the lights went down._
 - **Hearing; the [[c/_condition|condition]] or state of hearing or listening.**
 - **A widespread or nationwide viewing or listening public, as of a TV or radio network or program.**
@@ -14,5 +14,5 @@
 - **An [[a/_audiencia|audiencia]] (judicial [[c/_court|court]] of the Spanish [[e/_empire|empire]]), or the territory [[a/_administered|administered]] by it.**
 ---
 ### Synonyms
-- [[crowd]], [[spectators]], [[hearership]], [[listenership]]
+- [[c/_crowd|crowd]], [[s/_spectators|spectators]], [[h/_hearership|hearership]], [[l/_listenership|listenership]]
 ---

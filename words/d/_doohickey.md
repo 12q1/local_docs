@@ -5,5 +5,5 @@
 	- _Example: What does this doohickey do?_
 ---
 ### Synonyms
-- [[da kine]], [[dohickey]], [[dojigger]], [[doodad]], [[doodah]], [[gimmick]], [[gismo]], [[gizmo]], [[gubbins]], [[hickey]], [[kajigger]], [[thingamabob]], [[thingmabob]], [[thingumabob]], [[thingummabob]], [[thingamajig]], [[thingmajig]], [[thingumajig]], [[thingummajig]], [[thingummy]], [[thingy]], [[whaddayacallit]], [[whatchamacallit]], [[whatsit]]
+- [[d/_dohickey|dohickey]], [[d/_dojigger|dojigger]], [[d/_doodad|doodad]], [[d/_doodah|doodah]], [[g/_gimmick|gimmick]], [[g/_gismo|gismo]], [[g/_gizmo|gizmo]], [[g/_gubbins|gubbins]], [[h/_hickey|hickey]], [[k/_kajigger|kajigger]], [[t/_thingamabob|thingamabob]], [[t/_thingmabob|thingmabob]], [[t/_thingumabob|thingumabob]], [[t/_thingummabob|thingummabob]], [[t/_thingamajig|thingamajig]], [[t/_thingmajig|thingmajig]], [[t/_thingumajig|thingumajig]], [[t/_thingummajig|thingummajig]], [[t/_thingummy|thingummy]], [[t/_thingy|thingy]], [[w/_whaddayacallit|whaddayacallit]], [[w/_whatchamacallit|whatchamacallit]], [[w/_whatsit|whatsit]]
 ---

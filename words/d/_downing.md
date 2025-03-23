@@ -8,7 +8,7 @@
 - **To [[d/_defeat|defeat]]; to overpower.**
 - **To [[d/_disparage|disparage]], to put [[d/_down|down]].**
 - **To go or [[c/_come|come]] [[d/_down|down]]; to [[d/_descend|descend]].**
-- **To [[d/_drink|drink]] or swallow, especially without stopping [[b/_before|before]] the vessel [[c/_containing|containing]] the liquid is [[e/_empty|empty]].**
+- **To [[d/_drink|drink]] or swallow, [[e/_especially|especially]] without stopping [[b/_before|before]] the vessel [[c/_containing|containing]] the liquid is [[e/_empty|empty]].**
 	- _Example: He downed an ale and ordered another._
 - **To render (the [[b/_ball|ball]]) [[d/_dead|dead]], typically by touching the ground while in possession.**
 	- _Example: He downed it at the seven-yard line._

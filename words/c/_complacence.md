@@ -6,5 +6,5 @@
 - **[[c/_complaisance|Complaisance]]; a willingness to [[c/_comply|comply]] with others' wishes.**
 ---
 ### Synonyms
-- [[self-complacency]], [[self-satisfaction]]
+- [[s/_self-complacency|self-complacency]], [[s/_self-satisfaction|self-satisfaction]]
 ---

@@ -8,7 +8,7 @@
 - **To form [[d/_dimples|dimples]]; to sink into [[d/_depressions|depressions]] or little inequalities.**
 ---
 ### Synonyms
-- [[dent]], [[mar]]
+- [[d/_dent|dent]], [[m/_mar|mar]]
 #adjective
 - **Having [[d/_dimples|dimples]]**
 ---

@@ -5,5 +5,5 @@
 - **A female [[d/_doer|doer]] or "[[a/_actor|actor]]" (in a general sense).**
 ---
 ### Synonyms
-- [[actorine]]
+- [[a/_actorine|actorine]]
 ---

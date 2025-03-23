@@ -15,7 +15,7 @@
 - **To [[a/_await|await]] submissively; [[a/_accept|accept]] without question; submit to.**
 ---
 ### Synonyms
-- [[brook]], [[put up with]], [[hold on]], [[resist]], [[dwell]], [[live]], [[await]], [[wait for]], [[hold on]], [[stay]]
+- [[b/_brook|brook]], [[r/_resist|resist]], [[d/_dwell|dwell]], [[l/_live|live]], [[a/_await|await]], [[s/_stay|stay]]
 #noun
 - **[[a/_act|Act]] of waiting; [[d/_delay|delay]].**
 - **Stay or [[c/_continuance|continuance]] in a place; sojourn.**

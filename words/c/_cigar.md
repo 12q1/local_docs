@@ -5,5 +5,5 @@
 - **Penis**
 ---
 ### Synonyms
-- [[stogie]]
+- [[s/_stogie|stogie]]
 ---

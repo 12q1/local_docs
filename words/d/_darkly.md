@@ -9,5 +9,5 @@
 - **Mysteriously; forebodingly, ominously.**
 ---
 ### Synonyms
-- [[blackly]], [[sably]], [[threateningly]]
+- [[b/_blackly|blackly]], [[s/_sably|sably]], [[t/_threateningly|threateningly]]
 ---

@@ -14,7 +14,7 @@
 - **A [[c/_call|call]] to or use of a principle or quality for purposes of persuasion.**
 ---
 #verb
-- **To [[c/_call|call]] upon [[a/_another|another]] to [[d/_decide|decide]] a question [[c/_controverted|controverted]], to [[c/_corroborate|corroborate]] a statement, to vindicate one's rights, etc.**
+- **To [[c/_call|call]] upon [[a/_another|another]] to [[d/_decide|decide]] a question [[c/_controverted|controverted]], to [[c/_corroborate|corroborate]] a statement, to vindicate one's rights, [[e/_etc|etc]].**
 - **To [[c/_call|call]] on (someone) for [[a/_aid|aid]]**
 	- _Example: I appeal to all of you to help the orphans._
 - **(informal [[e/_elsewhere|elsewhere]]) To [[a/_apply|apply]] for the removal of a [[c/_cause|cause]] from an inferior to a superior judge or [[c/_court|court]] for the purpose of reexamination or for [[d/_decision|decision]].**

@@ -4,7 +4,7 @@
 - **A [[c/_curvature|curvature]] found on the top or [[b/_bottom|bottom]] of [[c/_certain|certain]] [[c/_columns|columns]].**
 ---
 ### Synonyms
-- [[cavetto]], [[conge]], [[congé]]
+- [[c/_cavetto|cavetto]], [[c/_conge|conge]], [[c/_congé|congé]]
 #noun
 - **Leave, formal permission for some [[a/_action|action]], :**
 - **Formal [[d/_dismissal|dismissal]]; [[a/_any|any]] [[d/_dismissal|dismissal]]; (originally & particularly humorously ironic) [[a/_abrupt|abrupt]] [[d/_dismissal|dismissal]] without [[c/_ceremony|ceremony]].**
@@ -15,7 +15,7 @@
 #verb
 - **To give [[c/_congee|congee]], (particularly)**
 - **To take [[c/_congee|congee]]: to leave [[c/_ceremoniously|ceremoniously]].**
-- **To make a [[c/_congee|congee]]: to [[b/_bow|bow]], [[c/_curtsey|curtsey]], etc., (particularly [[d/_dialectal|dialectal]]) while leaving; to make obeissance, show respect, or [[d/_defer|defer]] to someone or something.**
+- **To make a [[c/_congee|congee]]: to [[b/_bow|bow]], [[c/_curtsey|curtsey]], [[e/_etc|etc]]., (particularly [[d/_dialectal|dialectal]]) while leaving; to make obeissance, show respect, or [[d/_defer|defer]] to someone or something.**
 ---
 #noun
 - **An [[a/_ancient|ancient]] Roman unit of volume in liquid measure [[c/_consisting|consisting]] of six sextarii or one-[[e/_eighth|eighth]] [[a/_amphora|amphora]] ([[a/_about|about]] 118 fluid ounces).**

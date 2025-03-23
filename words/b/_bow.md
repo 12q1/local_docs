@@ -9,13 +9,13 @@
 - **[[a/_anything|Anything]] [[b/_bent|bent]] or [[c/_curved|curved]], such as a rainbow.**
 - **The U-shaped piece which goes [[a/_around|around]] the neck of an ox and fastens it to the yoke.**
 - **[[e/_either|Either]] of the [[a/_arms|arms]] of a pair of spectacles, running from the side of the lens to [[b/_behind|behind]] the wearer's [[e/_ear|ear]].**
-- **[[a/_any|Any]] instrument [[c/_consisting|consisting]] of an [[e/_elastic|elastic]] rod, with [[e/_ends|ends]] [[c/_connected|connected]] by a string, [[e/_employed|employed]] for giving reciprocating motion to a [[d/_drill|drill]], or for preparing and [[a/_arranging|arranging]] hair, fur, etc., used by hatters.**
+- **[[a/_any|Any]] instrument [[c/_consisting|consisting]] of an [[e/_elastic|elastic]] rod, with [[e/_ends|ends]] [[c/_connected|connected]] by a string, [[e/_employed|employed]] for giving reciprocating motion to a [[d/_drill|drill]], or for preparing and [[a/_arranging|arranging]] hair, fur, [[e/_etc|etc]]., used by hatters.**
 - **A [[c/_crude|crude]] sort of quadrant formerly used for taking the sun's [[a/_altitude|altitude]] at sea.**
 - **(saddlery) Two pieces of wood which form the [[a/_arched|arched]] forward part of a saddletree.**
 - **The part of a key that is not inserted into the lock and that is used to turn the key.**
 ---
 ### Synonyms
-- [[musical bow]], [[arc]], [[bend]], [[curve]], [[fiddlestick]]
+- [[a/_arc|arc]], [[b/_bend|bend]], [[c/_curve|curve]], [[f/_fiddlestick|fiddlestick]]
 #verb
 - **To play music on (a stringed) instrument using a [[b/_bow|bow]].**
 	- _Example: The musician bowed his violin expertly._

@@ -11,7 +11,7 @@
 - **To wet the [[e/_end|end]] of a marijuana [[c/_cigarette|cigarette]] (spliff).**
 ---
 ### Synonyms
-- [[cadge]]
+- [[c/_cadge|cadge]]
 #verb
 - **To [[d/_depress|depress]]; to make unhappy.**
 ---

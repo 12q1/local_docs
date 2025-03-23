@@ -5,5 +5,5 @@
 - **[[a/_alternative|Alternative]] letter-[[c/_case|case]] form of [[c/_claymore|Claymore]] ([[a/_antipersonnel|antipersonnel]] mine)**
 ---
 ### Synonyms
-- [[claybeg]]
+- [[c/_claybeg|claybeg]]
 ---

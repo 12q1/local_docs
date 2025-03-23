@@ -12,5 +12,5 @@
 - **To [[d/_distribute|distribute]] into parts, groups, or [[c/_classes|classes]]; to mark off; to [[c/_class|class]].**
 ---
 ### Synonyms
-- [[betell]], [[depict]], [[portray]], [[report]], [[bewrite]]
+- [[b/_betell|betell]], [[d/_depict|depict]], [[p/_portray|portray]], [[r/_report|report]], [[b/_bewrite|bewrite]]
 ---

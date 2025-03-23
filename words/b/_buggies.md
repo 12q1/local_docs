@@ -8,5 +8,5 @@
 - **A shopping [[c/_cart|cart]] or trolley.**
 ---
 ### Synonyms
-- [[stroller]]
+- [[s/_stroller|stroller]]
 ---

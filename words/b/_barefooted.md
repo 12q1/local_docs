@@ -4,7 +4,7 @@
 - **Wearing nothing on the feet; [[b/_barefoot|barefoot]].**
 ---
 ### Synonyms
-- [[shoeless]], [[unshod]], [[unshoed]]
+- [[s/_shoeless|shoeless]], [[u/_unshod|unshod]], [[u/_unshoed|unshoed]]
 #adverb
 - **Wearing nothing on the feet; [[b/_barefoot|barefoot]].**
 ---

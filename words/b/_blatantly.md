@@ -5,5 +5,5 @@
 	- _Example: Although he was blatantly on drugs, the crowd still cheered him._
 ---
 ### Synonyms
-- [[glaringly]], [[plainly]]
+- [[g/_glaringly|glaringly]], [[p/_plainly|plainly]]
 ---

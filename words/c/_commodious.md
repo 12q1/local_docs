@@ -8,5 +8,5 @@
 - **[[c/_convenient|Convenient]], useful; serviceable.**
 ---
 ### Synonyms
-- [[advantageous]], [[fit]], [[proper]], [[serviceable]], [[suitable]], [[useful]], [[comfortable]], [[convenient]], [[spacious]]
+- [[a/_advantageous|advantageous]], [[f/_fit|fit]], [[p/_proper|proper]], [[s/_serviceable|serviceable]], [[s/_suitable|suitable]], [[u/_useful|useful]], [[c/_comfortable|comfortable]], [[c/_convenient|convenient]], [[s/_spacious|spacious]]
 ---

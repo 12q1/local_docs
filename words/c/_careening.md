@@ -9,7 +9,7 @@
 - **([[c/_chiefly|chiefly]] US) To move swiftly and in an uncontrolled way.**
 ---
 ### Synonyms
-- [[heel]]
+- [[h/_heel|heel]]
 #noun
 - **The motion of something that [[c/_careens|careens]].**
 ---

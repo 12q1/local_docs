@@ -5,5 +5,5 @@
 - **(by extension) A pole or rod with such a hook at one [[e/_end|end]].**
 ---
 ### Synonyms
-- [[gaff]], [[hitcher]], [[pole-hook]], [[setter]], [[setting-pole]]
+- [[g/_gaff|gaff]], [[h/_hitcher|hitcher]], [[p/_pole-hook|pole-hook]], [[s/_setter|setter]], [[s/_setting-pole|setting-pole]]
 ---

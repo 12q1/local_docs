@@ -15,11 +15,11 @@
 	- _Example: Throw it into the trash barrel._
 - **The ribs and [[b/_belly|belly]] of a horse or pony.**
 - **A jar.**
-- **[[a/_any|Any]] of the [[d/_dark|dark]]-staining regions in the somatosensory [[c/_cortex|cortex]] of rodents, etc., where somatosensory inputs from the [[c/_contralateral|contralateral]] side of the [[b/_body|body]] [[c/_come|come]] in from the thalamus.**
+- **[[a/_any|Any]] of the [[d/_dark|dark]]-staining regions in the somatosensory [[c/_cortex|cortex]] of rodents, [[e/_etc|etc]]., where somatosensory inputs from the [[c/_contralateral|contralateral]] side of the [[b/_body|body]] [[c/_come|come]] in from the thalamus.**
 - **A statistic [[d/_derived|derived]] from launch [[a/_angle|angle]] and exit velocity of a [[b/_ball|ball]] hit in play.**
 ---
 ### Synonyms
-- [[cask]], [[tun]]
+- [[c/_cask|cask]], [[t/_tun|tun]]
 #verb
 - **To put or to pack in a [[b/_barrel|barrel]] or [[b/_barrels|barrels]].**
 - **To move quickly or in an uncontrolled manner.**

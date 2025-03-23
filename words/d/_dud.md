@@ -6,5 +6,5 @@
 - **[[c/_clothes|Clothes]], now [[a/_always|always]] used in plural form [[d/_duds|duds]].**
 ---
 ### Synonyms
-- [[blank]]
+- [[b/_blank|blank]]
 ---

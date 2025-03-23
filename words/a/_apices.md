@@ -4,7 +4,7 @@
 - **[[c/_conical|Conical]] priest [[c/_cap|cap]]**
 - **The highest or the greatest point of something.**
 	- _Example: the apex of the building_
-- **The moment of greatest success, expansion, etc.**
+- **The moment of greatest success, expansion, [[e/_etc|etc]].**
 	- _Example: the apex of civilization_
 - **The topmost vertex of a [[c/_cone|cone]] or pyramid (in their [[c/_conventional|conventional]] orientation).**
 - **The "pointed" fine [[e/_end|end]] of something.**
@@ -18,5 +18,5 @@
 - **The top of the food [[c/_chain|chain]]**
 ---
 ### Synonyms
-- [[peak]], [[summit]], [[top]], [[acme]], [[culmination]], [[height]], [[peak]], [[pinnacle]], [[end]], [[tip]]
+- [[p/_peak|peak]], [[s/_summit|summit]], [[t/_top|top]], [[a/_acme|acme]], [[c/_culmination|culmination]], [[h/_height|height]], [[p/_peak|peak]], [[p/_pinnacle|pinnacle]], [[e/_end|end]], [[t/_tip|tip]]
 ---

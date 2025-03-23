@@ -4,7 +4,7 @@
 - **Reliance on the truth of something said or [[d/_done|done]]; faith; trust.**
 - **Recognition and respect.**
 	- _Example: He arrived five minutes late, but to his credit he did work an extra ten minutes at the end of his shift._
-- **[[a/_acknowledgement|Acknowledgement]] of a [[c/_contribution|contribution]], especially in the performing [[a/_arts|arts]].**
+- **[[a/_acknowledgement|Acknowledgement]] of a [[c/_contribution|contribution]], [[e/_especially|especially]] in the performing [[a/_arts|arts]].**
 	- _Example: She received a singing credit in last year's operetta._
 - **(television/film, usually in the plural) Written titles and other information [[a/_about|about]] the TV program or movie shown at the [[b/_beginning|beginning]] and/or [[e/_end|end]] of the TV program or movie.**
 	- _Example: They kissed, and then the credits rolled._
@@ -27,7 +27,7 @@
 	- _Example: Dude, I just need 3 more credits to graduate – I can take socio-linguistics of Swahili if I want._
 ---
 ### Synonyms
-- [[unit]]
+- [[u/_unit|unit]]
 #verb
 - **To [[b/_believe|believe]]; to put [[c/_credence|credence]] in.**
 	- _Example: Someone said there were over 100,000 people there, but I can't credit that._
@@ -35,10 +35,10 @@
 	- _Example: Credit accounts receivable with the amount of the invoice._
 - **To [[a/_acknowledge|acknowledge]] the [[c/_contribution|contribution]] of.**
 	- _Example: Credit the point guard with another assist._
-- **To [[b/_bring|bring]] honour or repute upon; to [[d/_do|do]] [[c/_credit|credit]] to; to raise the estimation of.**
+- **To [[b/_bring|bring]] honour or repute upon; to [[d/_do|do]] [[c/_credit|credit]] to; to raise the [[e/_estimation|estimation]] of.**
 ---
 ### Synonyms
-- [[accept]], [[believe]]
+- [[a/_accept|accept]], [[b/_believe|believe]]
 ### Antonyms
-- [[debit]]
+- [[d/_debit|debit]]
 ---

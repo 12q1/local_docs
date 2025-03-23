@@ -4,5 +4,5 @@
 - **A stream or small river.**
 ---
 ### Synonyms
-- [[brook]], [[burn]], [[creek]], [[stream]]
+- [[b/_brook|brook]], [[b/_burn|burn]], [[c/_creek|creek]], [[s/_stream|stream]]
 ---

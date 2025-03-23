@@ -5,5 +5,5 @@
 - **The only ketotriose**
 ---
 ### Synonyms
-- [[DHA]]
+- [[D/_DHA|DHA]]
 ---

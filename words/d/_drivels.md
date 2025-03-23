@@ -11,7 +11,7 @@
 - **To be weak or foolish; to [[d/_dote|dote]].**
 ---
 ### Synonyms
-- [[drool]]
+- [[d/_drool|drool]]
 #noun
 - **A servant; a [[d/_drudge|drudge]].**
 ---

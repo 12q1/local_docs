@@ -8,9 +8,9 @@
 - **To [[a/_affect|affect]] or [[c/_change|change]] by liquor; to intoxicate.**
 ---
 ### Synonyms
-- [[camouflage]], [[cloak]], [[hide]], [[mask]]
+- [[c/_camouflage|camouflage]], [[c/_cloak|cloak]], [[h/_hide|hide]], [[m/_mask|mask]]
 #adjective
-- **Wearing a [[d/_disguise|disguise]]; [[d/_dressed|dressed]] in strange or unusual [[c/_clothes|clothes]], especially to [[c/_conceal|conceal]] one's identity.**
+- **Wearing a [[d/_disguise|disguise]]; [[d/_dressed|dressed]] in strange or unusual [[c/_clothes|clothes]], [[e/_especially|especially]] to [[c/_conceal|conceal]] one's identity.**
 - **[[d/_drunk|Drunk]].**
 ---
 ---

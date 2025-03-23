@@ -7,7 +7,7 @@
 - **(in “[[c/_cinnabar|Cinnabar]] Panacea”) The [[e/_elixir|Elixir]] of Life.**
 ---
 ### Synonyms
-- [[cinnabar moth]], [[æthiops mineral]]
+- 
 #adjective
 - **Of a [[b/_bright|bright]] red [[c/_colour|colour]] tinted with orange.**
 ---

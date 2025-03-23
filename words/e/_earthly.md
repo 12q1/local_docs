@@ -2,7 +2,7 @@
 ---
 #noun
 - **([[c/_collective|collective]] or in the plural) That which is of the [[e/_earth|earth]] or [[e/_earthly|earthly]]; a terrestrial [[b/_being|being]].**
-- **A slightest [[c/_chance|chance]] (of success etc.) or idea ([[a/_about|about]] something).**
+- **A slightest [[c/_chance|chance]] (of success [[e/_etc|etc]].) or idea ([[a/_about|about]] something).**
 ---
 #adjective
 - **Relating to the [[e/_earth|earth]] or this world, as opposed to heaven; terrestrial.**

@@ -6,5 +6,5 @@
 	- _Example: A cougar approached Warren at the Palomino Club and asked for a dance._
 ---
 ### Synonyms
-- [[catamount]], [[catamountain]], [[mountain lion]], [[painter]], [[panther]], [[puma]], [[red tiger]]
+- [[c/_catamount|catamount]], [[c/_catamountain|catamountain]], [[p/_painter|painter]], [[p/_panther|panther]], [[p/_puma|puma]]
 ---

@@ -5,5 +5,5 @@
 - **[[a/_affectionate|Affectionate]] term of [[a/_address|address]].**
 ---
 ### Synonyms
-- [[tit]], [[titmouse]]
+- [[t/_tit|tit]], [[t/_titmouse|titmouse]]
 ---

@@ -6,5 +6,5 @@
 - **To offend by an [[a/_act|act]] of unkindness or incivility.**
 ---
 ### Antonyms
-- [[oblige]]
+- [[o/_oblige|oblige]]
 ---

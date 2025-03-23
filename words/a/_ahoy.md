@@ -12,5 +12,5 @@
 - **Warning of something [[a/_approaching|approaching]] or impending.**
 ---
 ### Synonyms
-- [[oi]], [[yo]]
+- [[o/_oi|oi]], [[y/_yo|yo]]
 ---

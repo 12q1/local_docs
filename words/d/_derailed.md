@@ -10,5 +10,5 @@
 	- _Example: The protesting students derailed the professor's lecture._
 ---
 ### Synonyms
-- [[unrail]]
+- [[u/_unrail|unrail]]
 ---

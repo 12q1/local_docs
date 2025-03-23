@@ -5,5 +5,5 @@
 - **(demonym) A native or inhabitant of Dalmatia.**
 ---
 ### Synonyms
-- [[carriage dog]], [[coach dog]]
+- 
 ---

@@ -8,9 +8,9 @@
 - **To [[c/_come|come]] out of a state of inaction or [[d/_dormancy|dormancy]].**
 ---
 ### Synonyms
-- [[awaken]], [[wake up]], [[bring round]], [[cry]], [[wake up]]
+- [[a/_awaken|awaken]], [[c/_cry|cry]]
 ### Antonyms
-- [[fall asleep]], [[put to sleep]]
+- 
 #verb
 - **To [[c/_cause|cause]] to [[b/_become|become]] [[a/_awake|awake]].**
 	- _Example: She awakened him by ringing the bell._
@@ -21,7 +21,7 @@
 - **To [[c/_call|call]] to a sense of sin.**
 ---
 ### Synonyms
-- [[awake]], [[stir]], [[animate]], [[energize]], [[knock up]], [[uprouse]]
+- [[a/_awake|awake]], [[s/_stir|stir]], [[a/_animate|animate]], [[e/_energize|energize]], [[u/_uprouse|uprouse]]
 ### Antonyms
-- [[fall asleep]]
+- 
 ---

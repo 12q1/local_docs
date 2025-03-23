@@ -5,7 +5,7 @@
 - **Relating to a hundred of [[a/_anything|anything]].**
 ---
 ### Synonyms
-- [[centennial]]
+- [[c/_centennial|centennial]]
 #noun
 - **The hundredth [[a/_anniversary|anniversary]] of an event or happening.**
 ---

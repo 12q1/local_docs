@@ -4,5 +4,5 @@
 - **Without [[c/_ceasing|ceasing]].**
 ---
 ### Synonyms
-- [[eternally]], [[nonstop]], [[unendingly]]
+- [[e/_eternally|eternally]], [[n/_nonstop|nonstop]], [[u/_unendingly|unendingly]]
 ---

@@ -4,7 +4,7 @@
 - **In a [[d/_deft|deft]] manner; quickly and neatly in [[a/_action|action]].**
 ---
 ### Synonyms
-- [[skillfully]]
+- [[s/_skillfully|skillfully]]
 ### Antonyms
-- [[unskillfully]]
+- [[u/_unskillfully|unskillfully]]
 ---

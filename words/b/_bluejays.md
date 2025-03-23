@@ -5,5 +5,5 @@
 - **One of the [[b/_blue|blue]]-marked species of the Old World [[b/_bird|bird]] genus [[c/_coracias|Coracias]].**
 ---
 ### Synonyms
-- [[roller]]
+- [[r/_roller|roller]]
 ---

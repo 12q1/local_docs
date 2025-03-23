@@ -9,5 +9,5 @@
 - **A regular Hausdorff space is said to be [[a/_angelic|angelic]] if the [[c/_closure|closure]] of [[e/_each|each]] relatively [[c/_countably|countably]] [[c/_compact|compact]] set A is [[c/_compact|compact]] and the [[c/_closure|closure]] [[c/_consists|consists]] of the limits of sequences in A.**
 ---
 ### Synonyms
-- [[angelical]], [[angellike]], [[angelly]], [[divine]], [[heavenly]]
+- [[a/_angelical|angelical]], [[a/_angellike|angellike]], [[a/_angelly|angelly]], [[d/_divine|divine]], [[h/_heavenly|heavenly]]
 ---

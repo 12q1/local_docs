@@ -8,5 +8,5 @@
 - **To [[a/_acquire|acquire]] rapidly, as money; to make.**
 ---
 ### Synonyms
-- [[invent]], [[originate]], [[manufacture]], [[mint]]
+- [[i/_invent|invent]], [[o/_originate|originate]], [[m/_manufacture|manufacture]], [[m/_mint|mint]]
 ---

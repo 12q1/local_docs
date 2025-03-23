@@ -10,7 +10,7 @@
 	- _Example: an anonymous office block in a soulless industrial estate_
 ---
 ### Synonyms
-- [[on the merits]], [[faceless]], [[nameless]], [[unidentified]], [[unknown]], [[unnamed]]
+- [[f/_faceless|faceless]], [[n/_nameless|nameless]], [[u/_unidentified|unidentified]], [[u/_unknown|unknown]], [[u/_unnamed|unnamed]]
 ### Antonyms
-- [[onymous]]
+- [[o/_onymous|onymous]]
 ---

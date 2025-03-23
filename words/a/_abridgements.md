@@ -10,5 +10,5 @@
 - **The leaving out of [[c/_certain|certain]] portions of a plaintiff's [[d/_demand|demand]], the writ still holding good for the remainder.**
 ---
 ### Synonyms
-- [[abstract]], [[compendium]], [[epitome]], [[précis]], [[synopsis]], [[diminution]], [[lessening]], [[shortening]]
+- [[a/_abstract|abstract]], [[c/_compendium|compendium]], [[e/_epitome|epitome]], [[p/_précis|précis]], [[s/_synopsis|synopsis]], [[d/_diminution|diminution]], [[l/_lessening|lessening]], [[s/_shortening|shortening]]
 ---

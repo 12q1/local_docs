@@ -7,7 +7,7 @@
 - **The [[a/_act|act]] of getting [[a/_away|away]] from one's opponent; the separation of the [[b/_boxers|boxers]] [[a/_after|after]] a spell of infighting.**
 - **A stampede of [[a/_animals|animals]].**
 - **An [[a/_animal|animal]] that [[b/_breaks|breaks]] [[a/_away|away]] from a herd.**
-- **An eroding steep slope on the [[e/_edge|edge]] of a plateau.**
+- **An [[e/_eroding|eroding]] steep slope on the [[e/_edge|edge]] of a plateau.**
 - **A particular yo-yo trick http//yoyo.wikia.[[c/_com|com]]/wiki/[[b/_breakaway|Breakaway]].**
 - **A swing [[d/_dance|dance]] in which the leader occasionally swings the follower out into an open position.**
 ---

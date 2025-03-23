@@ -11,5 +11,5 @@
 	- _Example: Throughout the history of cinema, filmmakers [...] ._
 ---
 ### Synonyms
-- [[movie house]], [[movie theater]], [[movie theatre]], [[pictures]], [[seventh art]]
+- [[p/_pictures|pictures]]
 ---

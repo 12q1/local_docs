@@ -6,6 +6,6 @@
 - **A sharp [[b/_bend|bend]] in a [[c/_canyon|canyon]] or ravine.**
 ---
 #verb
-- **To [[b/_bend|bend]] in the shape of the hind leg of a [[d/_dog|dog]], especially to turn and then turn [[b/_back|back]] in original [[d/_direction|direction]], such as [[d/_down|down]], right, [[d/_down|down]].**
+- **To [[b/_bend|bend]] in the shape of the hind leg of a [[d/_dog|dog]], [[e/_especially|especially]] to turn and then turn [[b/_back|back]] in original [[d/_direction|direction]], such as [[d/_down|down]], right, [[d/_down|down]].**
 ---
 ---

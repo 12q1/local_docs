@@ -14,5 +14,5 @@
 - **Relating to [[e/_epizoa|epizoa]]; [[e/_epizoic|epizoic]].**
 ---
 ### Antonyms
-- [[enzootic]]
+- [[e/_enzootic|enzootic]]
 ---

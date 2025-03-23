@@ -10,5 +10,5 @@
 - **A [[c/_circumstance|circumstance]], such as a [[b/_battle|battle]], where a large [[a/_amount|amount]] of [[b/_blood|blood]] is likely to be spilled through violence.**
 ---
 ### Synonyms
-- [[bleeding]]
+- [[b/_bleeding|bleeding]]
 ---

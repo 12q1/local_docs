@@ -4,5 +4,5 @@
 - **The [[a/_act|act]] of [[b/_betraying|betraying]]**
 ---
 ### Synonyms
-- [[perfidiousness]], [[perfidy]], [[treacherousness]], [[treachery]], [[treason]]
+- [[p/_perfidiousness|perfidiousness]], [[p/_perfidy|perfidy]], [[t/_treacherousness|treacherousness]], [[t/_treachery|treachery]], [[t/_treason|treason]]
 ---

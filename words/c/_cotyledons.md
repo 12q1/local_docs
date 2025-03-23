@@ -5,5 +5,5 @@
 - **The leaf of the [[e/_embryo|embryo]] of a seed-[[b/_bearing|bearing]] plant; [[a/_after|after]] germination it [[b/_becomes|becomes]] the first leaves of the seedling.**
 ---
 ### Synonyms
-- [[seed leaf]]
+- 
 ---

@@ -6,7 +6,7 @@
 - **The [[a/_anus|anus]].**
 ---
 ### Synonyms
-- [[arse]], [[ass]], [[backside]], [[behind]], [[bottom]], [[butt]], [[fanny]], [[heinie]], [[tush]], [[tushie]]
+- [[a/_arse|arse]], [[a/_ass|ass]], [[b/_backside|backside]], [[b/_behind|behind]], [[b/_bottom|bottom]], [[b/_butt|butt]], [[f/_fanny|fanny]], [[h/_heinie|heinie]], [[t/_tush|tush]], [[t/_tushie|tushie]]
 #verb
 - **To sodomize; to [[e/_engage|engage]] in [[a/_anal|anal]] sex.**
 ---

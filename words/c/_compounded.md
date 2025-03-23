@@ -15,5 +15,5 @@
 - **Of a horse: to fail to maintain speed.**
 ---
 ### Synonyms
-- [[settle]], [[augment]], [[increase]], [[agree]], [[form]], [[make up]], [[assemble]], [[blend]], [[combine]], [[join]], [[mix]], [[put together]], [[unite]]
+- [[s/_settle|settle]], [[a/_augment|augment]], [[i/_increase|increase]], [[a/_agree|agree]], [[f/_form|form]], [[a/_assemble|assemble]], [[b/_blend|blend]], [[c/_combine|combine]], [[j/_join|join]], [[m/_mix|mix]], [[u/_unite|unite]]
 ---

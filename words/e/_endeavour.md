@@ -10,5 +10,5 @@
 - **To work with purpose.**
 ---
 ### Synonyms
-- [[strive]]
+- [[s/_strive|strive]]
 ---

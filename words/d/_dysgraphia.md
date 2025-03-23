@@ -4,5 +4,5 @@
 - **A language [[d/_disorder|disorder]] that [[a/_affects|affects]] a person's [[a/_ability|ability]] to write.**
 ---
 ### Synonyms
-- [[agraphia]]
+- [[a/_agraphia|agraphia]]
 ---

@@ -8,5 +8,5 @@
 - **Oxblood (the [[c/_color|color]])**
 ---
 ### Synonyms
-- [[cordwain]]
+- [[c/_cordwain|cordwain]]
 ---

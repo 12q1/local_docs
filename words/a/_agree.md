@@ -16,7 +16,7 @@
 - **To [[c/_consent|consent]] to a [[c/_contract|contract]] or to an [[e/_element|element]] of a [[c/_contract|contract]].**
 ---
 ### Synonyms
-- [[coincide]], [[correspond]], [[match]], [[resemble]], [[bargain]], [[deal]], [[engage]], [[fit]], [[suit]], [[concur]], [[harmonize]], [[accede]], [[come around]], [[give way]], [[approve]], [[set]]
+- [[c/_coincide|coincide]], [[c/_correspond|correspond]], [[m/_match|match]], [[r/_resemble|resemble]], [[b/_bargain|bargain]], [[d/_deal|deal]], [[e/_engage|engage]], [[f/_fit|fit]], [[s/_suit|suit]], [[c/_concur|concur]], [[h/_harmonize|harmonize]], [[a/_accede|accede]], [[a/_approve|approve]], [[s/_set|set]]
 ### Antonyms
-- [[disagree]]
+- [[d/_disagree|disagree]]
 ---

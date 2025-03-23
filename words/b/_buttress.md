@@ -8,7 +8,7 @@
 - **[[a/_anything|Anything]] that supports or strengthens.**
 ---
 ### Synonyms
-- [[brace]], [[counterfort]]
+- [[b/_brace|brace]], [[c/_counterfort|counterfort]]
 #verb
 - **To support something physically with, or as if with, a prop or [[b/_buttress|buttress]].**
 - **(by extension) To support something or someone by supplying evidence; to [[c/_corroborate|corroborate]] or substantiate.**

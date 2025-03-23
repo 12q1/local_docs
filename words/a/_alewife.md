@@ -4,5 +4,5 @@
 - **A woman who keeps an [[a/_alehouse|alehouse]].**
 ---
 ### Synonyms
-- [[brewess]]
+- [[b/_brewess|brewess]]
 ---

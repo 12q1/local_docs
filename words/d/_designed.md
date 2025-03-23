@@ -1,7 +1,7 @@
 # Designed
 ---
 #verb
-- **To plan and [[c/_carry|carry]] out (a picture, work of [[a/_art|art]], [[c/_construction|construction]] etc.).**
+- **To plan and [[c/_carry|carry]] out (a picture, work of [[a/_art|art]], [[c/_construction|construction]] [[e/_etc|etc]].).**
 - **To plan (to [[d/_do|do]] something).**
 	- _Example: The king designed to mount an expedition to the New World._
 - **To [[a/_assign|assign]], [[a/_appoint|appoint]] (something to someone); to [[d/_designate|designate]].**

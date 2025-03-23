@@ -4,5 +4,5 @@
 - **[[c/_caf|Caf]]é, [[c/_cafeteria|cafeteria]].**
 ---
 ### Synonyms
-- [[caf]]
+- [[c/_caf|caf]]
 ---

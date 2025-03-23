@@ -9,7 +9,7 @@
 - **In Conway's Game of Life, an [[a/_arrangement|arrangement]] of three [[c/_cells|cells]] in a row that switches [[b/_between|between]] horizontal and vertical orientations in [[e/_each|each]] generation.**
 ---
 ### Synonyms
-- [[blinder]], [[winker]], [[directional]], [[directional signal]], [[indicator]], [[trafficator]], [[turn indicator]], [[turn signal]]
+- [[b/_blinder|blinder]], [[w/_winker|winker]], [[d/_directional|directional]], [[i/_indicator|indicator]], [[t/_trafficator|trafficator]]
 #verb
 - **To put [[b/_blinkers|blinkers]] on.**
 	- _Example: The farmer stopped to blinker his horse before riding into an area of heavy traffic._

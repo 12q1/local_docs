@@ -11,6 +11,6 @@
 - **To lay out; to [[c/_contrive|contrive]]; to [[d/_design|design]]; to plan.**
 ---
 #adjective
-- **Made by [[c/_carving|carving]], especially when intricately or [[a/_artistically|artistically]] [[d/_done|done]].**
+- **Made by [[c/_carving|carving]], [[e/_especially|especially]] when intricately or [[a/_artistically|artistically]] [[d/_done|done]].**
 ---
 ---

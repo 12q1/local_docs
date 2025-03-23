@@ -4,7 +4,7 @@
 - **[[d/_deserving|Deserving]] [[c/_contempt|contempt]]**
 ---
 ### Synonyms
-- [[despicable]], [[disdainable]], [[hateworthy]]
+- [[d/_despicable|despicable]], [[d/_disdainable|disdainable]], [[h/_hateworthy|hateworthy]]
 ### Antonyms
-- [[respectable]], [[venerable]]
+- [[r/_respectable|respectable]], [[v/_venerable|venerable]]
 ---

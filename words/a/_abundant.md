@@ -8,7 +8,7 @@
 - **[[b/_being|Being]] an [[a/_abundant|abundant]] number, i.[[e/_e|e]]. less than the sum of [[a/_all|all]] of its [[d/_divisors|divisors]] except itself.**
 ---
 ### Synonyms
-- [[ample]], [[bountiful]], [[copious]], [[exuberant]], [[liberal]], [[overflowing]], [[plenteous]], [[plentiful]], [[profuse]], [[rich]], [[teeming]]
+- [[a/_ample|ample]], [[b/_bountiful|bountiful]], [[c/_copious|copious]], [[e/_exuberant|exuberant]], [[l/_liberal|liberal]], [[o/_overflowing|overflowing]], [[p/_plenteous|plenteous]], [[p/_plentiful|plentiful]], [[p/_profuse|profuse]], [[r/_rich|rich]], [[t/_teeming|teeming]]
 ### Antonyms
-- [[deficient]], [[rare]], [[scarce]]
+- [[d/_deficient|deficient]], [[r/_rare|rare]], [[s/_scarce|scarce]]
 ---

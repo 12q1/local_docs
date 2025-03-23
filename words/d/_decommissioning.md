@@ -9,7 +9,7 @@
 	- _Example: The state highway was decommissioned and reverted to local control._
 ---
 ### Antonyms
-- [[commission]]
+- [[c/_commission|commission]]
 #noun
 - **The [[a/_act|act]] by which something is [[d/_decommissioned|decommissioned]].**
 ---

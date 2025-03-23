@@ -8,5 +8,5 @@
 - **The process by which a sound is [[d/_devoiced|devoiced]].**
 ---
 ### Synonyms
-- [[surdization]]
+- [[s/_surdization|surdization]]
 ---

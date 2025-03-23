@@ -6,5 +6,5 @@
 - **A [[b/_binary|binary]] [[c/_compound|compound]] of sulfur and [[a/_another|another]] [[e/_element|element]] in the ratio 2:1 (formula XS2).**
 ---
 ### Synonyms
-- [[bisulfide]]
+- [[b/_bisulfide|bisulfide]]
 ---

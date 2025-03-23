@@ -6,5 +6,5 @@
 - **Something which [[d/_does|does]] not have a sex, or a word which refers to such a thing.**
 ---
 ### Antonyms
-- [[allosexual]]
+- [[a/_allosexual|allosexual]]
 ---

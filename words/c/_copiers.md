@@ -7,5 +7,5 @@
 	- _Example: a file copier; a disk copier_
 ---
 ### Synonyms
-- [[copy machine]], [[duplicator]], [[xerox]], [[xerox machine]], [[xeroxer]], [[copyist]], [[xeroxer]]
+- [[d/_duplicator|duplicator]], [[x/_xerox|xerox]], [[x/_xeroxer|xeroxer]], [[c/_copyist|copyist]], [[x/_xeroxer|xeroxer]]
 ---

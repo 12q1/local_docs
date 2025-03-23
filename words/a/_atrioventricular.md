@@ -5,5 +5,5 @@
 	- _Example: atrioventricular block;  atrioventricular node;  atrioventricular septum;  atrioventricular valve_
 ---
 ### Synonyms
-- [[AV]]
+- [[A/_AV|AV]]
 ---

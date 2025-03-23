@@ -6,5 +6,5 @@
 - **Of or relating to a kitchen.**
 ---
 ### Synonyms
-- [[cooking]], [[magiric]], [[magiristic]], [[magirological]]
+- [[c/_cooking|cooking]], [[m/_magiric|magiric]], [[m/_magiristic|magiristic]], [[m/_magirological|magirological]]
 ---

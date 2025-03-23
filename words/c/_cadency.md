@@ -18,7 +18,7 @@
 - **(horse-riding) Harmony and proportion of movement, as in a well-managed horse.**
 ---
 ### Synonyms
-- [[clausula]]
+- [[c/_clausula|clausula]]
 #noun
 - **[[a/_any|Any]] systematic way of [[d/_distinguishing|distinguishing]] similar [[c/_coats|coats]] of [[a/_arms|arms]] [[b/_belonging|belonging]] to members of the same family.**
 ---

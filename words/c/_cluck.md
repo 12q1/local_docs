@@ -1,7 +1,7 @@
 # Cluck
 ---
 #noun
-- **The sound made by a hen, especially when [[b/_brooding|brooding]], or [[c/_calling|calling]] her [[c/_chicks|chicks]].**
+- **The sound made by a hen, [[e/_especially|especially]] when [[b/_brooding|brooding]], or [[c/_calling|calling]] her [[c/_chicks|chicks]].**
 - **[[a/_any|Any]] sound similar to this.**
 - **A kind of tongue [[c/_click|click]] used to urge on a horse.**
 ---

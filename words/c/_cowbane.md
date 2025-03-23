@@ -5,5 +5,5 @@
 - **[[c/_cicuta|Cicuta]] virosa, the name species of this genus.**
 ---
 ### Synonyms
-- [[northern water hemlock]], [[water hemlock]]
+- 
 ---

@@ -4,5 +4,5 @@
 - **Serving to [[e/_educate|educate]]; [[e/_educational|educational]].**
 ---
 ### Synonyms
-- [[didactic]], [[educational]], [[instructive]]
+- [[d/_didactic|didactic]], [[e/_educational|educational]], [[i/_instructive|instructive]]
 ---

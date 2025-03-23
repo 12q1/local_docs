@@ -5,5 +5,5 @@
 - **A person who [[c/_cooperates|cooperates]] traitorously with an [[e/_enemy|enemy]].**
 ---
 ### Synonyms
-- [[collaborationist]], [[turncoat]], [[team player]]
+- [[c/_collaborationist|collaborationist]], [[t/_turncoat|turncoat]]
 ---

@@ -6,5 +6,5 @@
 - **To take something from; to render imperfect or ineffectual.**
 ---
 ### Synonyms
-- [[emasculate]], [[geld]], [[neuter]], [[spay]], [[sterilize]]
+- [[e/_emasculate|emasculate]], [[g/_geld|geld]], [[n/_neuter|neuter]], [[s/_spay|spay]], [[s/_sterilize|sterilize]]
 ---

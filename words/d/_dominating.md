@@ -7,5 +7,5 @@
 - **To overlook from a height.**
 ---
 ### Antonyms
-- [[obey]], [[submit]], [[obey]], [[submit]]
+- [[o/_obey|obey]], [[s/_submit|submit]], [[o/_obey|obey]], [[s/_submit|submit]]
 ---

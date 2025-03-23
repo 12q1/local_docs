@@ -6,5 +6,5 @@
 - **A glass jar similar to those once used for medicine.**
 ---
 ### Synonyms
-- [[chemist]], [[druggist]], [[pharmacist]], [[apothecary's]], [[apothecary's shop]], [[drugstore]], [[pharmacy]]
+- [[c/_chemist|chemist]], [[d/_druggist|druggist]], [[p/_pharmacist|pharmacist]], [[a/_apothecary's|apothecary's]], [[d/_drugstore|drugstore]], [[p/_pharmacy|pharmacy]]
 ---

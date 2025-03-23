@@ -6,5 +6,5 @@
 - **[[a/_any|Any]] paternal male relative.**
 ---
 ### Antonyms
-- [[enate]]
+- [[e/_enate|enate]]
 ---

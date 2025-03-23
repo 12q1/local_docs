@@ -13,9 +13,9 @@
 ---
 #adjective
 - **Individually or [[c/_custom|custom]] made.**
-- **Relating to someone who makes [[c/_custom|custom]]-made products, especially [[c/_clothing|clothing]] items.**
+- **Relating to someone who makes [[c/_custom|custom]]-made products, [[e/_especially|especially]] [[c/_clothing|clothing]] items.**
 	- _Example: a bespoke tailor_
 ---
 ### Synonyms
-- [[custom]], [[custom made]], [[purpose-built]], [[tailored]]
+- [[c/_custom|custom]], [[p/_purpose-built|purpose-built]], [[t/_tailored|tailored]]
 ---

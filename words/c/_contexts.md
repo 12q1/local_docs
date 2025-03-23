@@ -10,7 +10,7 @@
 - **For a formula: a finite set of variables, which set [[c/_contains|contains]] [[a/_all|all]] the free variables in the given formula.**
 ---
 ### Antonyms
-- [[isolation]]
+- [[i/_isolation|isolation]]
 #verb
 - **To knit or [[b/_bind|bind]] together; to unite [[c/_closely|closely]].**
 ---

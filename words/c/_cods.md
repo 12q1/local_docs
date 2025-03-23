@@ -14,7 +14,7 @@
 - **(usually with qualifiers) Other unrelated fish which resemble the [[a/_atlantic|Atlantic]] [[c/_cod|cod]], as the rock [[c/_cod|cod]] (Lotella rhacina) and [[b/_blue|blue]] [[c/_cod|cod]] (Parapercis [[c/_colias|colias]]).**
 ---
 ### Synonyms
-- [[milwell]], [[ogac]], [[hapuku]], [[haddock]], [[whiting]], [[Lutjanus]], [[Sebastidae]], [[Serranidae]], [[beardie]], [[grouper]], [[red snapper]], [[rock cod]], [[rockcod]], [[thornyhead]]
+- [[m/_milwell|milwell]], [[o/_ogac|ogac]], [[h/_hapuku|hapuku]], [[h/_haddock|haddock]], [[w/_whiting|whiting]], [[L/_Lutjanus|Lutjanus]], [[S/_Sebastidae|Sebastidae]], [[S/_Serranidae|Serranidae]], [[b/_beardie|beardie]], [[g/_grouper|grouper]], [[r/_rockcod|rockcod]], [[t/_thornyhead|thornyhead]]
 #noun
 - **A joke or an imitation.**
 	- _Example: I assume it all could just be a cod._

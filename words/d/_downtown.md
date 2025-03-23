@@ -4,7 +4,7 @@
 - **The main [[b/_business|business]] part of a [[c/_city|city]] or town, usually located at or near its [[c/_center|center]].**
 ---
 ### Synonyms
-- [[CBD]], [[central business district]], [[city]], [[city center]], [[town centre]]
+- [[C/_CBD|CBD]], [[c/_city|city]]
 #adjective
 - **Of, relating to, or situated in the [[c/_central|central]] [[b/_business|business]] [[d/_district|district]]**
 	- _Example: John walked every day to his downtown job._

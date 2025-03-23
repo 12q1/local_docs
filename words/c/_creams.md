@@ -13,7 +13,7 @@
 - **The [[c/_chrism|chrism]] or [[c/_consecrated|consecrated]] oil used in [[a/_anointing|anointing]] [[c/_ceremonies|ceremonies]].**
 ---
 ### Synonyms
-- [[ream]]
+- [[r/_ream|ream]]
 #verb
 - **To puree, to [[b/_blend|blend]] with a liquifying process.**
 	- _Example: Cream the vegetables with the olive oil, flour, salt and water mixture._

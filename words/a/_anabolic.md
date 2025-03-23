@@ -7,5 +7,5 @@
 - **Of or relating to [[a/_anabolism|anabolism]].**
 ---
 ### Antonyms
-- [[catabolic]]
+- [[c/_catabolic|catabolic]]
 ---

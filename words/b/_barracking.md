@@ -9,7 +9,7 @@
 - **To [[c/_cheer|cheer]] for or support a team.**
 ---
 ### Synonyms
-- [[cheer]], [[root for]], [[badger]], [[jeer]], [[make fun of]], [[tease]]
+- [[c/_cheer|cheer]], [[b/_badger|badger]], [[j/_jeer|jeer]], [[t/_tease|tease]]
 #noun
 - **An [[a/_act|act]] of jeering or heckling.**
 - **The [[a/_act|act]] of [[c/_cheering|cheering]] for or supporting a team.**

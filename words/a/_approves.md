@@ -11,6 +11,6 @@
 - **To show to be worthy; to [[d/_demonstrate|demonstrate]] the merits of.**
 ---
 #verb
-- **([[e/_english|English]] law) To make profit of; to [[c/_convert|convert]] to one's own profit — said especially of waste or [[c/_common|common]] land [[a/_appropriated|appropriated]] by the lord of the manor.**
+- **([[e/_english|English]] law) To make profit of; to [[c/_convert|convert]] to one's own profit — said [[e/_especially|especially]] of waste or [[c/_common|common]] land [[a/_appropriated|appropriated]] by the lord of the manor.**
 ---
 ---

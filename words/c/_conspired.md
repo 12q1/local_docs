@@ -7,5 +7,5 @@
 	- _Example: Angry clouds conspire your overthrow._
 ---
 ### Synonyms
-- [[collogue]]
+- [[c/_collogue|collogue]]
 ---

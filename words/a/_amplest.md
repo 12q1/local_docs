@@ -9,5 +9,5 @@
 	- _Example: an ample story_
 ---
 ### Synonyms
-- [[abundant]], [[bountiful]], [[capacious]], [[copious]], [[extensive]], [[full]], [[liberal]], [[munificent]], [[plenteous]], [[plentiful]], [[rich]], [[spacious]], [[wide]]
+- [[a/_abundant|abundant]], [[b/_bountiful|bountiful]], [[c/_capacious|capacious]], [[c/_copious|copious]], [[e/_extensive|extensive]], [[f/_full|full]], [[l/_liberal|liberal]], [[m/_munificent|munificent]], [[p/_plenteous|plenteous]], [[p/_plentiful|plentiful]], [[r/_rich|rich]], [[s/_spacious|spacious]], [[w/_wide|wide]]
 ---

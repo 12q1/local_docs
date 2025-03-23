@@ -6,7 +6,7 @@
 - **One of the major waves of immigration of Jews to Israel.**
 ---
 ### Antonyms
-- [[yerida]]
+- [[y/_yerida|yerida]]
 #verb
 - **To make [[a/_aliyah|aliyah]], to immigrate to Israel.**
 ---

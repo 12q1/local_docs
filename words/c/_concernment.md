@@ -8,5 +8,5 @@
 - **[[e/_emotion|Emotion]] of mind; solicitude; [[a/_anxiety|anxiety]]**
 ---
 ### Synonyms
-- [[concern]]
+- [[c/_concern|concern]]
 ---

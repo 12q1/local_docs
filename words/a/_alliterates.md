@@ -5,5 +5,5 @@
 - **To use (a word or sound) so as to make [[a/_alliteration|alliteration]].**
 ---
 ### Synonyms
-- [[alliterize]]
+- [[a/_alliterize|alliterize]]
 ---

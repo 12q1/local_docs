@@ -10,7 +10,7 @@
 - **(of a polygon) [[a/_able|Able]] to be inscribed in a [[c/_circle|circle]].**
 ---
 ### Synonyms
-- [[periodic]]
+- [[p/_periodic|periodic]]
 ### Antonyms
-- [[acyclic]]
+- [[a/_acyclic|acyclic]]
 ---

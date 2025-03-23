@@ -4,5 +4,5 @@
 - **A woman involved in [[b/_business|business]].**
 ---
 ### Synonyms
-- [[businessperson]]
+- [[b/_businessperson|businessperson]]
 ---

@@ -8,7 +8,7 @@
 - **An [[a/_alternative|alternative]] passage [[c/_created|created]] to [[d/_divert|divert]] a [[b/_bodily|bodily]] fluid [[a/_around|around]] a [[d/_damaged|damaged]] organ; the surgical procedure to [[c/_construct|construct]] such a [[b/_bypass|bypass]]**
 ---
 #verb
-- **To [[a/_avoid|avoid]] an obstacle etc, by [[c/_constructing|constructing]] or using a [[b/_bypass|bypass]]**
+- **To [[a/_avoid|avoid]] an obstacle [[e/_etc|etc]], by [[c/_constructing|constructing]] or using a [[b/_bypass|bypass]]**
 - **To ignore the usual [[c/_channels|channels]] or procedures**
 ---
 ---

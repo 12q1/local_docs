@@ -10,7 +10,7 @@
 - **The sacrifice of pieces in order to expose the [[e/_enemy|enemy]] king.**
 ---
 ### Synonyms
-- [[charm]], [[pull]]
+- [[c/_charm|charm]], [[p/_pull|pull]]
 ### Antonyms
-- [[repulsion]]
+- [[r/_repulsion|repulsion]]
 ---

@@ -11,5 +11,5 @@
 - **To speak [[a/_against|against]]; to forbid.**
 ---
 ### Synonyms
-- [[controvert]], [[deny]], [[disconfirm]], [[dispute]], [[dispute]], [[gainsay]], [[question]], [[refute]]
+- [[c/_controvert|controvert]], [[d/_deny|deny]], [[d/_disconfirm|disconfirm]], [[d/_dispute|dispute]], [[d/_dispute|dispute]], [[g/_gainsay|gainsay]], [[q/_question|question]], [[r/_refute|refute]]
 ---

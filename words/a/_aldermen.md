@@ -6,5 +6,5 @@
 - **A long pipe for smoking.**
 ---
 ### Synonyms
-- [[baillie]]
+- [[b/_baillie|baillie]]
 ---

@@ -4,5 +4,5 @@
 - **Without [[b/_bounds|bounds]], unbounded.**
 ---
 ### Synonyms
-- [[bottomless]], [[limitless]], [[unbottomed]], [[unbounded]]
+- [[b/_bottomless|bottomless]], [[l/_limitless|limitless]], [[u/_unbottomed|unbottomed]], [[u/_unbounded|unbounded]]
 ---

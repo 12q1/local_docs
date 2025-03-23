@@ -6,7 +6,7 @@
 	- _Example: They enjoyed a cheerful room._
 ---
 ### Synonyms
-- [[bright]], [[bubbly]], [[cheerly]], [[ebullient]], [[happy]], [[joyful]], [[merry]], [[optimistic]], [[vivacious]]
+- [[b/_bright|bright]], [[b/_bubbly|bubbly]], [[c/_cheerly|cheerly]], [[e/_ebullient|ebullient]], [[h/_happy|happy]], [[j/_joyful|joyful]], [[m/_merry|merry]], [[o/_optimistic|optimistic]], [[v/_vivacious|vivacious]]
 ### Antonyms
-- [[depressed]], [[miserable]], [[sad]]
+- [[d/_depressed|depressed]], [[m/_miserable|miserable]], [[s/_sad|sad]]
 ---

@@ -4,5 +4,5 @@
 - **Serving to [[c/_congratulate|congratulate]].**
 ---
 ### Synonyms
-- [[congratulational]], [[congratulationary]]
+- [[c/_congratulational|congratulational]], [[c/_congratulationary|congratulationary]]
 ---

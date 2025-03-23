@@ -9,5 +9,5 @@
 	- _Example: Almost all people went there. - Not all but very close to it._
 ---
 ### Synonyms
-- [[close to]], [[near]], [[nearly]], [[next to]], [[nigh]], [[not]], [[not yet]], [[practically]], [[virtually]], [[well-nigh]]
+- [[n/_near|near]], [[n/_nearly|nearly]], [[n/_nigh|nigh]], [[n/_not|not]], [[p/_practically|practically]], [[v/_virtually|virtually]], [[w/_well-nigh|well-nigh]]
 ---

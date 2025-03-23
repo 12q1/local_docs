@@ -5,6 +5,6 @@
 - **A [[d/_dioptric|dioptric]] telescope.**
 ---
 #noun
-- **The study of the refraction of light, especially by lenses**
+- **The study of the refraction of light, [[e/_especially|especially]] by lenses**
 ---
 ---

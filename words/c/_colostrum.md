@@ -5,5 +5,5 @@
 - **A mixture of turpentine and [[e/_egg|egg]] yolk, formerly used as an [[e/_emulsion|emulsion]].**
 ---
 ### Synonyms
-- [[beastings]], [[beest]], [[beestings]], [[beistings]], [[beistyn]], [[biestings]], [[bisnings]], [[first milk]], [[fore-milk]], [[green milk]]
+- [[b/_beastings|beastings]], [[b/_beest|beest]], [[b/_beestings|beestings]], [[b/_beistings|beistings]], [[b/_beistyn|beistyn]], [[b/_biestings|biestings]], [[b/_bisnings|bisnings]], [[f/_fore-milk|fore-milk]]
 ---

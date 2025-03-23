@@ -6,5 +6,5 @@
 - **A fish, the baldchin groper.**
 ---
 ### Synonyms
-- [[baldhead]], [[baldpate]], [[skinhead]], [[slaphead]]
+- [[b/_baldhead|baldhead]], [[b/_baldpate|baldpate]], [[s/_skinhead|skinhead]], [[s/_slaphead|slaphead]]
 ---

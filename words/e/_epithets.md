@@ -8,5 +8,5 @@
 - **A word in the scientific name of a taxon following the name of the genus or species. This [[a/_applies|applies]] only to formal names of plants, fungi and [[b/_bacteria|bacteria]]. In formal names of [[a/_animals|animals]] the [[c/_corresponding|corresponding]] term is the specific name.**
 ---
 ### Synonyms
-- [[cognomen]]
+- [[c/_cognomen|cognomen]]
 ---

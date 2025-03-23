@@ -8,11 +8,11 @@
 - **A minced oath for [[b/_bugger|bugger]].**
 ---
 ### Synonyms
-- [[palliard]], [[pauper]], [[vagabond]], [[mendicant]], [[panhandler]], [[schnorrer]], [[spanger]], [[truant]]
+- [[p/_palliard|palliard]], [[p/_pauper|pauper]], [[v/_vagabond|vagabond]], [[m/_mendicant|mendicant]], [[p/_panhandler|panhandler]], [[s/_schnorrer|schnorrer]], [[s/_spanger|spanger]], [[t/_truant|truant]]
 #verb
 - **To make a [[b/_beggar|beggar]] of someone; impoverish.**
 - **To exhaust the resources of; to outdo.**
 ---
 ### Synonyms
-- [[ruin]]
+- [[r/_ruin|ruin]]
 ---

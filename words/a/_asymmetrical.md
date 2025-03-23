@@ -6,5 +6,5 @@
 	- _Example: Question six is asymmetrical: "Are things going in the right direction or on the wrong track?" (The West Wing, Season 1, Episode 21, Toby)_
 ---
 ### Synonyms
-- [[asymmetric]], [[lopsided]], [[unsymmetrical]]
+- [[a/_asymmetric|asymmetric]], [[l/_lopsided|lopsided]], [[u/_unsymmetrical|unsymmetrical]]
 ---

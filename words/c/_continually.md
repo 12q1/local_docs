@@ -5,5 +5,5 @@
 - **In regular or repeated succession; very often.**
 ---
 ### Synonyms
-- [[ceaselessly]], [[incessantly]], [[nonstop]], [[by degrees]], [[little by little]], [[momently]]
+- [[c/_ceaselessly|ceaselessly]], [[i/_incessantly|incessantly]], [[n/_nonstop|nonstop]], [[m/_momently|momently]]
 ---

@@ -15,5 +15,5 @@
 - **A particular extension of the idea of gluing. See [[d/_descent|Descent]] (mathematics).**
 ---
 ### Antonyms
-- [[ascent]]
+- [[a/_ascent|ascent]]
 ---

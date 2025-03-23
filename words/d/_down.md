@@ -21,7 +21,7 @@
 - **To [[d/_defeat|defeat]]; to overpower.**
 - **To [[d/_disparage|disparage]], to put [[d/_down|down]].**
 - **To go or [[c/_come|come]] [[d/_down|down]]; to [[d/_descend|descend]].**
-- **To [[d/_drink|drink]] or swallow, especially without stopping [[b/_before|before]] the vessel [[c/_containing|containing]] the liquid is [[e/_empty|empty]].**
+- **To [[d/_drink|drink]] or swallow, [[e/_especially|especially]] without stopping [[b/_before|before]] the vessel [[c/_containing|containing]] the liquid is [[e/_empty|empty]].**
 	- _Example: He downed an ale and ordered another._
 - **To render (the [[b/_ball|ball]]) [[d/_dead|dead]], typically by touching the ground while in possession.**
 	- _Example: He downed it at the seven-yard line._
@@ -54,12 +54,12 @@
 - **Thoroughly practiced, learned or memorised; mastered. ([[c/_compare|Compare]] [[d/_down|down]] pat.)**
 	- _Example: It's two weeks until opening night and our lines are still not down yet._
 - **[[d/_downright|Downright]]; [[a/_absolute|absolute]]; positive.**
-- **[[a/_accepted|Accepted]] or respected, especially in the [[b/_black|black]] or thug [[c/_community|community]].**
+- **[[a/_accepted|Accepted]] or respected, [[e/_especially|especially]] in the [[b/_black|black]] or thug [[c/_community|community]].**
 	- _Example: What you mean, 'No'? Man, I thought you was down._
 - **Facing [[d/_downwards|downwards]].**
 ---
 ### Antonyms
-- [[up]], [[up]], [[up]], [[up]]
+- [[u/_up|up]], [[u/_up|up]], [[u/_up|up]], [[u/_up|up]]
 #adverb
 - **From a higher position to a lower one; [[d/_downwards|downwards]].**
 	- _Example: The cat jumped down from the table._
@@ -97,7 +97,7 @@
 	- _Example: He boiled the mixture. / He boiled down the mixture._
 ---
 ### Antonyms
-- [[up]], [[up]], [[up]], [[up]], [[up]], [[across]]
+- [[u/_up|up]], [[u/_up|up]], [[u/_up|up]], [[u/_up|up]], [[u/_up|up]], [[a/_across|across]]
 #preposition
 - **From the higher [[e/_end|end]] to the lower of.**
 	- _Example: The ball rolled down the hill._
@@ -109,5 +109,5 @@
 	- _Example: I'll see you later down the pub._
 ---
 ### Antonyms
-- [[up]]
+- [[u/_up|up]]
 ---

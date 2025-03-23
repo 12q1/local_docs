@@ -1,6 +1,6 @@
 # Dyspareunia
 ---
 #noun
-- **Painful or [[d/_difficult|difficult]] sexual intercourse, especially in women.**
+- **Painful or [[d/_difficult|difficult]] sexual intercourse, [[e/_especially|especially]] in women.**
 ---
 ---

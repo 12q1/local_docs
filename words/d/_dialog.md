@@ -7,7 +7,7 @@
 - **A [[d/_dialog|dialog]] [[b/_box|box]].**
 ---
 ### Antonyms
-- [[introspection]], [[monolog]], [[multilog]]
+- [[i/_introspection|introspection]], [[m/_monolog|monolog]], [[m/_multilog|multilog]]
 #verb
 - **To [[d/_discuss|discuss]] or negotiate so that [[a/_all|all]] parties [[c/_can|can]] reach an understanding.**
 ---

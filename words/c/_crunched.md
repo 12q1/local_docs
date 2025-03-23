@@ -1,7 +1,7 @@
 # Crunched
 ---
 #verb
-- **To [[c/_crush|crush]] something, especially food, with a noisy [[c/_crackling|crackling]] sound.**
+- **To [[c/_crush|crush]] something, [[e/_especially|especially]] food, with a noisy [[c/_crackling|crackling]] sound.**
 	- _Example: When I came home, Susan was watching TV with her feet up on the couch, crunching a piece of celery._
 - **To be [[c/_crushed|crushed]] with a noisy [[c/_crackling|crackling]] sound.**
 	- _Example: Beetles crunched beneath the men's heavy boots as they worked._

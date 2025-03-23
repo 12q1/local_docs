@@ -12,13 +12,13 @@
 - **A word or form in one language that is [[d/_descended|descended]] from a [[c/_counterpart|counterpart]] in an [[a/_ancestor|ancestor]] language.**
 ---
 ### Synonyms
-- [[afterbear]], [[offspring]], [[relative]], [[scion]]
+- [[a/_afterbear|afterbear]], [[o/_offspring|offspring]], [[r/_relative|relative]], [[s/_scion|scion]]
 ### Antonyms
-- [[ancestor]], [[ascendant]], [[forebear]]
+- [[a/_ancestor|ancestor]], [[a/_ascendant|ascendant]], [[f/_forebear|forebear]]
 #adjective
 - **[[d/_descending|Descending]] from a [[b/_biological|biological]] [[a/_ancestor|ancestor]].**
 - **Proceeding from a figurative [[a/_ancestor|ancestor]] or source.**
 ---
 ### Antonyms
-- [[ascendant]], [[ascendent]], [[ascending]]
+- [[a/_ascendant|ascendant]], [[a/_ascendent|ascendent]], [[a/_ascending|ascending]]
 ---

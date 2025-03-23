@@ -8,5 +8,5 @@
 	- _Example: Gradually the truth emerged._
 ---
 ### Synonyms
-- [[come forth]], [[forthcome]], [[heave in sight]]
+- [[f/_forthcome|forthcome]]
 ---

@@ -5,5 +5,5 @@
 - **A [[c/_concave|concave]] structure or surface**
 ---
 ### Antonyms
-- [[convexity]]
+- [[c/_convexity|convexity]]
 ---

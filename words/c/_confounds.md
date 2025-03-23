@@ -4,7 +4,7 @@
 - **A [[c/_confounding|confounding]] variable.**
 ---
 ### Synonyms
-- [[confounder]]
+- [[c/_confounder|confounder]]
 #verb
 - **To perplex or puzzle.**
 - **To fail to see the [[d/_difference|difference]]; to mix up; to [[c/_confuse|confuse]] right and wrong.**
@@ -20,5 +20,5 @@
 - **To stun, [[a/_amaze|amaze]]**
 ---
 ### Synonyms
-- [[confuse]], [[mix up]], [[puzzle]]
+- [[c/_confuse|confuse]], [[p/_puzzle|puzzle]]
 ---

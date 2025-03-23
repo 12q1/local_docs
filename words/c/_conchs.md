@@ -11,5 +11,5 @@
 - **A person who operates such a machine.**
 ---
 ### Synonyms
-- [[conch]], [[conche]]
+- [[c/_conch|conch]], [[c/_conche|conche]]
 ---

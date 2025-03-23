@@ -1,9 +1,9 @@
 # Chapman
 ---
 #noun
-- **A [[d/_dealer|dealer]] or merchant, especially an itinerant one.**
+- **A [[d/_dealer|dealer]] or merchant, [[e/_especially|especially]] an itinerant one.**
 - **A purchaser.**
 ---
 ### Synonyms
-- [[peddler]]
+- [[p/_peddler|peddler]]
 ---

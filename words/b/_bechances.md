@@ -5,5 +5,5 @@
 - **To happen (to); [[b/_befall|befall]] to.**
 ---
 ### Synonyms
-- [[come to pass]], [[occur]], [[transpire]]
+- [[o/_occur|occur]], [[t/_transpire|transpire]]
 ---

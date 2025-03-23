@@ -5,7 +5,7 @@
 - **Of an [[a/_animal|animal]] whose [[b/_body|body]] temperature is regulated by internal factors.**
 ---
 ### Synonyms
-- [[endothermal]], [[homeothermal]], [[homeothermic]], [[homoeothermal]], [[homoeothermic]], [[homoiothermal]], [[warm-blooded]]
+- [[e/_endothermal|endothermal]], [[h/_homeothermal|homeothermal]], [[h/_homeothermic|homeothermic]], [[h/_homoeothermal|homoeothermal]], [[h/_homoeothermic|homoeothermic]], [[h/_homoiothermal|homoiothermal]], [[w/_warm-blooded|warm-blooded]]
 ### Antonyms
-- [[exothermic]]
+- [[e/_exothermic|exothermic]]
 ---

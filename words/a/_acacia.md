@@ -9,5 +9,5 @@
 - **A light to moderate greenish yellow with a hint of red.**
 ---
 ### Synonyms
-- [[gum acacia]], [[gum arabic]], [[wattle]]
+- [[w/_wattle|wattle]]
 ---

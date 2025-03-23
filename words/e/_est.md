@@ -1,0 +1,6 @@
+# Est
+---
+#noun
+- **Grace; favour.**
+---
+---

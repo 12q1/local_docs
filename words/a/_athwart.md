@@ -8,7 +8,7 @@
 - **Wrongly; perplexingly.**
 ---
 ### Synonyms
-- [[overthwart]]
+- [[o/_overthwart|overthwart]]
 #preposition
 - **From one side to the other side of.**
 	- _Example: The stars moved slowly athwart the sky._
@@ -17,5 +17,5 @@
 - **[[a/_across|Across]] the path or [[c/_course|course]] of; opposing.**
 ---
 ### Synonyms
-- [[opposing]], [[overthwart]]
+- [[o/_opposing|opposing]], [[o/_overthwart|overthwart]]
 ---

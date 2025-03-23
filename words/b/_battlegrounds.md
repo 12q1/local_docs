@@ -7,5 +7,5 @@
 	- _Example: Abortion was becoming the season's big political battleground._
 ---
 ### Synonyms
-- [[battlefield]]
+- [[b/_battlefield|battlefield]]
 ---

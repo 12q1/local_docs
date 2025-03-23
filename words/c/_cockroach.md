@@ -6,5 +6,5 @@
 - **(Rwanda) A Tutsi.**
 ---
 ### Synonyms
-- [[roach]]
+- [[r/_roach|roach]]
 ---

@@ -5,5 +5,5 @@
 - **Lying-in, time of giving [[b/_birth|birth]].**
 ---
 ### Synonyms
-- [[birthing]], [[labour]]
+- [[b/_birthing|birthing]], [[l/_labour|labour]]
 ---

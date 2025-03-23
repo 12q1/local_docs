@@ -2,6 +2,6 @@
 ---
 #noun
 - **Toilet paper.**
-- **Useless papers; now especially official [[d/_documents|documents]], standardized forms, sales and marketing print material, etc.**
+- **Useless papers; now [[e/_especially|especially]] official [[d/_documents|documents]], standardized forms, sales and marketing print material, [[e/_etc|etc]].**
 ---
 ---

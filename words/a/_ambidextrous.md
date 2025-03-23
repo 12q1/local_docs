@@ -5,11 +5,11 @@
 - **[[e/_equally|Equally]] usable by left-handed and right-handed people (as a tool or instrument).**
 - **Practising or siding with [[b/_both|both]] parties.**
 - **Of a person, [[b/_bisexual|bisexual]].**
-- **Exceptionally skillful; [[a/_adept|adept]] in more than one medium, genre, style, etc.**
+- **Exceptionally skillful; [[a/_adept|adept]] in more than one medium, genre, style, [[e/_etc|etc]].**
 	- _Example: Michelangelo was a very ambidextrous artist, producing sculptures and frescoes with equal ability._
 ---
 ### Synonyms
-- [[both-handed]], [[either-handed]]
+- [[b/_both-handed|both-handed]], [[e/_either-handed|either-handed]]
 ### Antonyms
-- [[ambilevous]], [[ambisinistrous]]
+- [[a/_ambilevous|ambilevous]], [[a/_ambisinistrous|ambisinistrous]]
 ---

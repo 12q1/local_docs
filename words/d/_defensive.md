@@ -17,5 +17,5 @@
 - **In a state or posture of [[d/_defense|defense]].**
 ---
 ### Antonyms
-- [[offensive]]
+- [[o/_offensive|offensive]]
 ---

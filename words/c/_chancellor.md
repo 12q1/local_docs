@@ -9,8 +9,8 @@
 - **The head of a university, sometimes purely [[c/_ceremonial|ceremonial]].**
 - **Short for [[c/_chancellor|Chancellor]] of the Exchequer.**
 - **The foreman of a jury.**
-- **The [[c/_chief|chief]] judge of a [[c/_court|court]] of [[c/_chancery|chancery]] (that is, one exercising equity jurisdiction).**
+- **The [[c/_chief|chief]] judge of a [[c/_court|court]] of [[c/_chancery|chancery]] (that is, one exercising [[e/_equity|equity]] jurisdiction).**
 ---
 ### Synonyms
-- [[Reichskanzler]]
+- [[R/_Reichskanzler|Reichskanzler]]
 ---

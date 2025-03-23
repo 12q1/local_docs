@@ -5,5 +5,5 @@
 - **Having two [[d/_distinct|distinct]] sexes.**
 ---
 ### Antonyms
-- [[monoecious]], [[synoecious]]
+- [[m/_monoecious|monoecious]], [[s/_synoecious|synoecious]]
 ---

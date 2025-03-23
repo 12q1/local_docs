@@ -5,5 +5,5 @@
 - **Very loud**
 ---
 ### Synonyms
-- [[earthshattering]]
+- [[e/_earthshattering|earthshattering]]
 ---

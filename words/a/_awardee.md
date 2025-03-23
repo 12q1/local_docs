@@ -4,5 +4,5 @@
 - **The recipient of an [[a/_award|award]] or special honor.**
 ---
 ### Synonyms
-- [[honoree]]
+- [[h/_honoree|honoree]]
 ---

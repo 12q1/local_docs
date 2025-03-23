@@ -9,5 +9,5 @@
 - **[[d/_dull|Dull]]; stupid.**
 ---
 ### Synonyms
-- [[dozy]], [[lethargic]]
+- [[d/_dozy|dozy]], [[l/_lethargic|lethargic]]
 ---

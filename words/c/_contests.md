@@ -8,7 +8,7 @@
 	- _Example: The child entered the spelling contest._
 ---
 ### Synonyms
-- [[battle]], [[combat]], [[fight]], [[competition]], [[pageant]], [[controversy]], [[debate]], [[discussion]]
+- [[b/_battle|battle]], [[c/_combat|combat]], [[f/_fight|fight]], [[c/_competition|competition]], [[p/_pageant|pageant]], [[c/_controversy|controversy]], [[d/_debate|debate]], [[d/_discussion|discussion]]
 #verb
 - **To [[c/_contend|contend]].**
 	- _Example: I will contest for the open seat on the board._
@@ -19,7 +19,7 @@
 - **To make a subject of litigation; to [[d/_defend|defend]], as a suit; to [[d/_dispute|dispute]] or resist, as a [[c/_claim|claim]], by [[c/_course|course]] of law.**
 ---
 ### Synonyms
-- [[call into question]], [[oppose]], [[compete]], [[contend]], [[go in for]], [[controvert]]
+- [[o/_oppose|oppose]], [[c/_compete|compete]], [[c/_contend|contend]], [[c/_controvert|controvert]]
 ### Antonyms
-- [[support]]
+- [[s/_support|support]]
 ---

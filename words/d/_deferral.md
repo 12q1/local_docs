@@ -6,5 +6,5 @@
 - **A prepayment.**
 ---
 ### Synonyms
-- [[deferment]]
+- [[d/_deferment|deferment]]
 ---

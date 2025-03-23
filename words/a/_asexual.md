@@ -6,7 +6,7 @@
 - **Something which [[d/_does|does]] not have a sex, or a word which refers to such a thing.**
 ---
 ### Antonyms
-- [[allosexual]]
+- [[a/_allosexual|allosexual]]
 #adjective
 - **Nonsexual in nature, unmarked by sexual [[a/_activity|activity]]. ([[c/_compare|Compare]] Platonic.)**
 - **Not experiencing sexual [[a/_attraction|attraction]]; lacking interest in or [[d/_desire|desire]] for sex.**
@@ -14,7 +14,7 @@
 - **Without sexual [[a/_action|action]]; reproducing by some other method than sex.**
 ---
 ### Synonyms
-- [[ace]], [[asexy]], [[hyposexual]], [[epicene]]
+- [[a/_ace|ace]], [[a/_asexy|asexy]], [[h/_hyposexual|hyposexual]], [[e/_epicene|epicene]]
 ### Antonyms
-- [[allosexual]]
+- [[a/_allosexual|allosexual]]
 ---

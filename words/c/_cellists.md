@@ -4,5 +4,5 @@
 - **Someone who plays the [[c/_cello|cello]].**
 ---
 ### Synonyms
-- [[cello player]], [[celloist]]
+- [[c/_celloist|celloist]]
 ---

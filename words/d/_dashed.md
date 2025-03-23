@@ -25,5 +25,5 @@
 	- _Example: It's a dashed shame that Tarquin failed all his A-levels — we were hoping to get him into Oxford._
 ---
 ### Synonyms
-- [[darned]], [[broken]]
+- [[d/_darned|darned]], [[b/_broken|broken]]
 ---

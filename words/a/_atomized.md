@@ -11,5 +11,5 @@
 	- _Example: In engines with carburetors, the air-fuel mixture containing the atomized fuel is drawn into the intake manifold by the manifold vacuum._
 ---
 ### Synonyms
-- [[aerosolized]], [[nebulized]]
+- [[a/_aerosolized|aerosolized]], [[n/_nebulized|nebulized]]
 ---

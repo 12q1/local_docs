@@ -6,5 +6,5 @@
 - **[[a/_any|Any]] medicine [[c/_chiefly|chiefly]] [[c/_composed|composed]] of the prepared [[b/_bark|bark]] of these plants.**
 ---
 ### Synonyms
-- [[Jesuit's bark]], [[Peruvian bark]], [[cinchona-bark]], [[quinquina]], [[quinquina]]
+- [[c/_cinchona-bark|cinchona-bark]], [[q/_quinquina|quinquina]], [[q/_quinquina|quinquina]]
 ---

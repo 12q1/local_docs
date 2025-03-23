@@ -10,7 +10,7 @@
 	- _Example: They could not adapt to the new climate and so perished._
 ---
 ### Synonyms
-- [[proportion]]
+- [[p/_proportion|proportion]]
 #adjective
 - **Having [[b/_been|been]] subject to an [[a/_alteration|alteration]] or [[c/_change|change]] to fit a [[d/_different|different]] [[c/_circumstance|circumstance]] or medium.**
 	- _Example: That movie was an adapted novel._

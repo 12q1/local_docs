@@ -11,7 +11,7 @@
 - **Prohibition; a prohibitory ordinance.**
 ---
 ### Antonyms
-- [[offence]], [[offense]]
+- [[o/_offence|offence]], [[o/_offense|offense]]
 #verb
 - **To furnish with [[d/_defences|defences]]; to fortify.**
 ---

@@ -4,5 +4,5 @@
 - **A special mark [[a/_added|added]] to a letter to indicate a [[d/_different|different]] pronunciation, stress, tone, or meaning.**
 ---
 ### Synonyms
-- [[accent]], [[diacritical mark]]
+- [[a/_accent|accent]]
 ---

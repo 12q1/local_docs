@@ -13,7 +13,7 @@
 - **Tension; force of [[a/_acting|acting]]; [[e/_energy|energy]]; impetus.**
 ---
 ### Synonyms
-- [[disposition]], [[predilection]], [[proclivity]], [[propensity]]
+- [[d/_disposition|disposition]], [[p/_predilection|predilection]], [[p/_proclivity|proclivity]], [[p/_propensity|propensity]]
 #noun
 - **[[a/_any|Any]] of various stiff or reedy grasses.**
 - **A grassy [[a/_area|area]], grassland.**

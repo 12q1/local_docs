@@ -6,5 +6,5 @@
 	- _Example: an acquiescent policy_
 ---
 ### Synonyms
-- [[complicit]]
+- [[c/_complicit|complicit]]
 ---

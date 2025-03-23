@@ -8,7 +8,7 @@
 - **To be overpowered by light; to be [[c/_confused|confused]] by excess of [[b/_brightness|brightness]].**
 ---
 ### Synonyms
-- [[impress]], [[overpower]]
+- [[i/_impress|impress]], [[o/_overpower|overpower]]
 #adjective
 - **Experiencing [[d/_dazzlement|dazzlement]]; overcome by light or [[b/_brilliance|brilliance]].**
 - **Painted in [[d/_dazzle|dazzle]] [[c/_camouflage|camouflage]].**

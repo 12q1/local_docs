@@ -8,5 +8,5 @@
 - **With [[d/_duplicity|duplicity]]**
 ---
 ### Synonyms
-- [[double]], [[twofold]], [[dually]], [[deceptively]], [[double-handedly]], [[duplicitously]]
+- [[d/_double|double]], [[t/_twofold|twofold]], [[d/_dually|dually]], [[d/_deceptively|deceptively]], [[d/_double-handedly|double-handedly]], [[d/_duplicitously|duplicitously]]
 ---

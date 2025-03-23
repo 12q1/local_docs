@@ -16,9 +16,9 @@
 	- _Example: We'll go to the store directly, but first I need to finish sweeping._
 ---
 ### Synonyms
-- [[accurately]], [[precisely]], [[slap bang]], [[forthwith]], [[now]], [[tout de suite]], [[straightwise]], [[undeviatingly]], [[betimes]], [[presently]], [[shortly]], [[frankly]], [[truthfully]], [[bluntly]], [[clearly]], [[downrightly]], [[unambiguously]]
+- [[a/_accurately|accurately]], [[p/_precisely|precisely]], [[f/_forthwith|forthwith]], [[n/_now|now]], [[s/_straightwise|straightwise]], [[u/_undeviatingly|undeviatingly]], [[b/_betimes|betimes]], [[p/_presently|presently]], [[s/_shortly|shortly]], [[f/_frankly|frankly]], [[t/_truthfully|truthfully]], [[b/_bluntly|bluntly]], [[c/_clearly|clearly]], [[d/_downrightly|downrightly]], [[u/_unambiguously|unambiguously]]
 ### Antonyms
-- [[indirectly]]
+- [[i/_indirectly|indirectly]]
 #conjunction
 - **As soon as; immediately.**
 ---

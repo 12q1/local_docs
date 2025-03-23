@@ -11,5 +11,5 @@
 - **[[c/_cards|Cards]] that have [[b/_been|been]] [[d/_discarded|discarded]].**
 ---
 ### Synonyms
-- [[deadfall]]
+- [[d/_deadfall|deadfall]]
 ---

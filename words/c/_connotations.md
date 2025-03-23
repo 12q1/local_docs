@@ -6,7 +6,7 @@
 	- _Example: The two expressions "the morning star" and "the evening star" have different connotations but the same denotation (i.e. the planet Venus)._
 ---
 ### Synonyms
-- [[intension]]
+- [[i/_intension|intension]]
 ### Antonyms
-- [[denotation]]
+- [[d/_denotation|denotation]]
 ---

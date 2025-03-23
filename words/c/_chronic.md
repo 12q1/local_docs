@@ -22,7 +22,7 @@
 	- _Example: That was cool, chronic in fact._
 ---
 ### Synonyms
-- [[gnarly]], [[splendid]], [[diuturnal]], [[prolonged]], [[abysmal]], [[terrible]]
+- [[g/_gnarly|gnarly]], [[s/_splendid|splendid]], [[d/_diuturnal|diuturnal]], [[p/_prolonged|prolonged]], [[a/_abysmal|abysmal]], [[t/_terrible|terrible]]
 ### Antonyms
-- [[acute]], [[transient]]
+- [[a/_acute|acute]], [[t/_transient|transient]]
 ---

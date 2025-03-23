@@ -6,5 +6,5 @@
 - **A form of self-forced meditation or repetition; [[a/_autosuggestion|autosuggestion]].**
 ---
 ### Synonyms
-- [[assertion]]
+- [[a/_assertion|assertion]]
 ---

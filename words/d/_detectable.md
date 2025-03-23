@@ -5,7 +5,7 @@
 	- _Example: There was a detectable pause before he continued. We all noticed it but no one commented._
 ---
 ### Synonyms
-- [[measurable]]
+- [[m/_measurable|measurable]]
 ### Antonyms
-- [[subdetectable]], [[undetectable]]
+- [[s/_subdetectable|subdetectable]], [[u/_undetectable|undetectable]]
 ---

@@ -4,7 +4,7 @@
 - **Friendly; on, or trying to be on, intimate terms.**
 ---
 ### Synonyms
-- [[familiar]]
+- [[f/_familiar|familiar]]
 ### Antonyms
-- [[mannered]]
+- [[m/_mannered|mannered]]
 ---

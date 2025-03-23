@@ -8,5 +8,5 @@
 	- _Example: The salesman presented me with a dizzying array of choices, and I was hard pressed to choose between them._
 ---
 ### Synonyms
-- [[bewildering]], [[excessive]], [[heady]], [[intoxicating]]
+- [[b/_bewildering|bewildering]], [[e/_excessive|excessive]], [[h/_heady|heady]], [[i/_intoxicating|intoxicating]]
 ---

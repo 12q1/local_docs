@@ -15,5 +15,5 @@
 	- _Example: The game had a crazy ending._
 ---
 ### Synonyms
-- [[deranged]], [[loco]], [[nutso]], [[zany]], [[nutso]], [[off the chain]], [[insane]]
+- [[d/_deranged|deranged]], [[l/_loco|loco]], [[n/_nutso|nutso]], [[z/_zany|zany]], [[n/_nutso|nutso]], [[i/_insane|insane]]
 ---

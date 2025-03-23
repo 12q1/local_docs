@@ -22,15 +22,15 @@
 - **A [[c/_cut|cut]], a proportion of profits; an [[a/_amount|amount]] of money.**
 ---
 ### Synonyms
-- [[mouthful]], [[snack]], [[sting]]
+- [[m/_mouthful|mouthful]], [[s/_snack|snack]], [[s/_sting|sting]]
 #noun
 - **A fish that tends to take [[b/_bait|bait]].**
 - **A stone that [[b/_barely|barely]] touches the outside of the house.**
-- **One who [[c/_copies|copies]] someone [[e/_else|else]]'s work, style or techniques, especially in hip-hop.**
+- **One who [[c/_copies|copies]] someone [[e/_else|else]]'s work, style or techniques, [[e/_especially|especially]] in hip-hop.**
 - **A [[c/_cheat|cheat]] or fraudster.**
 - **A zombie.**
 ---
 #noun
-- **(in [[c/_combination|combination]]) Something (a [[d/_data|data]] unit, machine etc.) with a width of a specified [[a/_amount|amount]] of [[b/_bits|bits]].**
+- **(in [[c/_combination|combination]]) Something (a [[d/_data|data]] unit, machine [[e/_etc|etc]].) with a width of a specified [[a/_amount|amount]] of [[b/_bits|bits]].**
 ---
 ---

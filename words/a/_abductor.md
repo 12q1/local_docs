@@ -4,5 +4,5 @@
 - **One who [[a/_abducts|abducts]]; a kidnapper.**
 ---
 ### Antonyms
-- [[abductee]]
+- [[a/_abductee|abductee]]
 ---

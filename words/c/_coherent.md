@@ -10,5 +10,5 @@
 - **(of a sheaf) [[b/_belonging|Belonging]] to a specific [[c/_class|class]] of sheaves having particularly manageable properties [[c/_closely|closely]] linked to the geometrical properties of the underlying space.**
 ---
 ### Antonyms
-- [[incoherent]]
+- [[i/_incoherent|incoherent]]
 ---

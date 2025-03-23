@@ -9,5 +9,5 @@
 - **Solitude, seclusion**
 ---
 ### Synonyms
-- [[intimacy]], [[nearness]], [[proximity]]
+- [[i/_intimacy|intimacy]], [[n/_nearness|nearness]], [[p/_proximity|proximity]]
 ---

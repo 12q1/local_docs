@@ -6,7 +6,7 @@
 - **[[a/_affection|Affection]] for the home and its material [[c/_comforts|comforts]].**
 ---
 ### Synonyms
-- [[comfort]], [[family]], [[materialism]]
+- [[c/_comfort|comfort]], [[f/_family|family]], [[m/_materialism|materialism]]
 ### Antonyms
-- [[business]], [[society]], [[worldliness]]
+- [[b/_business|business]], [[s/_society|society]], [[w/_worldliness|worldliness]]
 ---

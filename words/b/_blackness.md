@@ -6,5 +6,5 @@
 - **The state of [[b/_being|being]] of [[a/_african|African]] [[d/_descent|descent]].**
 ---
 ### Antonyms
-- [[whiteness]]
+- [[w/_whiteness|whiteness]]
 ---

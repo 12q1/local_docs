@@ -2,7 +2,7 @@
 ---
 #verb
 - **To match unequally; to [[d/_degrade|degrade]] or [[d/_dishonor|dishonor]].**
-- **To [[d/_dishonor|dishonor]] by a [[c/_comparison|comparison]] with what is inferior; to lower in rank or estimation by [[a/_actions|actions]] or words; to speak slightingly of; to [[d/_depreciate|depreciate]]; to undervalue.**
+- **To [[d/_dishonor|dishonor]] by a [[c/_comparison|comparison]] with what is inferior; to lower in rank or [[e/_estimation|estimation]] by [[a/_actions|actions]] or words; to speak slightingly of; to [[d/_depreciate|depreciate]]; to undervalue.**
 - **To ridicule, mock, [[d/_discredit|discredit]].**
 ---
 ---

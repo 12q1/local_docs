@@ -7,7 +7,7 @@
 - **To nullify**
 ---
 ### Synonyms
-- [[beat]], [[overcome]], [[vanquish]]
+- [[b/_beat|beat]], [[o/_overcome|overcome]], [[v/_vanquish|vanquish]]
 #adjective
 - **Subjugated, [[b/_beaten|beaten]], overcome.**
 ---

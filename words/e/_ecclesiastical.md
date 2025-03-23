@@ -5,5 +5,5 @@
 	- _Example: ecclesiastical architecture_
 ---
 ### Synonyms
-- [[churchical]], [[churchlike]], [[churchly]], [[ecclesiastic]]
+- [[c/_churchical|churchical]], [[c/_churchlike|churchlike]], [[c/_churchly|churchly]], [[e/_ecclesiastic|ecclesiastic]]
 ---

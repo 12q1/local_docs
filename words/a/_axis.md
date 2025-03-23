@@ -9,5 +9,5 @@
 - **The main stem or [[c/_central|central]] part [[a/_about|about]] which organs or plant parts such as [[b/_branches|branches]] are [[a/_arranged|arranged]]**
 ---
 ### Synonyms
-- [[epistropheus]]
+- [[e/_epistropheus|epistropheus]]
 ---

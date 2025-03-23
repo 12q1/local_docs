@@ -2,9 +2,9 @@
 ---
 #noun
 - **Pus or exudate (other than [[b/_blood|blood]]) from a wound or orifice, usually [[d/_due|due]] to infection or pathology.**
-- **The [[a/_act|act]] of [[a/_accomplishing|accomplishing]] (an obligation) or repaying a [[d/_debt|debt]] etc.; performance.**
+- **The [[a/_act|act]] of [[a/_accomplishing|accomplishing]] (an obligation) or repaying a [[d/_debt|debt]] [[e/_etc|etc]].; performance.**
 - **The [[a/_act|act]] of expelling or letting go.**
-- **The [[a/_act|act]] of firing a projectile, especially from a firearm.**
+- **The [[a/_act|act]] of firing a projectile, [[e/_especially|especially]] from a firearm.**
 - **The process of unloading something.**
 - **The process of flowing out.**
 - **The [[a/_act|act]] of releasing an [[a/_accumulated|accumulated]] [[c/_charge|charge]].**
@@ -13,10 +13,10 @@
 - **The volume of water transported by a river in a [[c/_certain|certain]] [[a/_amount|amount]] of time, usually in units of m3/s ([[c/_cubic|cubic]] meters per second).**
 ---
 ### Synonyms
-- [[firing]]
+- [[f/_firing|firing]]
 #verb
 - **To [[a/_accomplish|accomplish]] or [[c/_complete|complete]], as an obligation.**
-- **To free of a [[d/_debt|debt]], [[c/_claim|claim]], obligation, responsibility, [[a/_accusation|accusation]], etc.; to [[a/_absolve|absolve]]; to [[a/_acquit|acquit]]; to forgive; to [[c/_clear|clear]].**
+- **To free of a [[d/_debt|debt]], [[c/_claim|claim]], obligation, responsibility, [[a/_accusation|accusation]], [[e/_etc|etc]].; to [[a/_absolve|absolve]]; to [[a/_acquit|acquit]]; to forgive; to [[c/_clear|clear]].**
 - **To send [[a/_away|away]] (a [[c/_creditor|creditor]]) satisfied by payment; to pay one's [[d/_debt|debt]] or obligation to.**
 - **To set [[a/_aside|aside]]; to [[a/_annul|annul]]; to [[d/_dismiss|dismiss]].**
 - **To expel or let go.**
@@ -39,5 +39,5 @@
 - **To prohibit; to forbid.**
 ---
 ### Synonyms
-- [[fire]], [[let go]], [[terminate]]
+- [[f/_fire|fire]], [[t/_terminate|terminate]]
 ---

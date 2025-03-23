@@ -8,7 +8,7 @@
 - **(now rare) A hitter.**
 ---
 ### Synonyms
-- [[batter]], [[hitter]], [[batter]]
+- [[b/_batter|batter]], [[h/_hitter|hitter]], [[b/_batter|batter]]
 ### Antonyms
-- [[batswoman]]
+- [[b/_batswoman|batswoman]]
 ---

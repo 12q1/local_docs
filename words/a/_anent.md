@@ -7,5 +7,5 @@
 - **In a line with; side by side with; on a level with.**
 ---
 ### Synonyms
-- [[apropos]], [[as for]]
+- [[a/_apropos|apropos]]
 ---

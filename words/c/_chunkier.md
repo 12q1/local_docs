@@ -9,5 +9,5 @@
 	- _Example: The British Shorthair has a distinctively chunky body, dense coat and broad face._
 ---
 ### Synonyms
-- [[husky]], [[obese]], [[portly]], [[rotund]]
+- [[h/_husky|husky]], [[o/_obese|obese]], [[p/_portly|portly]], [[r/_rotund|rotund]]
 ---

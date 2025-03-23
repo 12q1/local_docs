@@ -6,10 +6,10 @@
 - **A small slot-like [[c/_cut|cut]] or incision, made for example by an [[a/_accident|accident]] with the scalpel.**
 ---
 ### Synonyms
-- [[boutonniere]]
+- [[b/_boutonniere|boutonniere]]
 #verb
 - **To [[d/_detain|detain]] (a person) in [[c/_conversation|conversation]] [[a/_against|against]] their will.**
 ---
 ### Synonyms
-- [[accost]], [[waylay]]
+- [[a/_accost|accost]], [[w/_waylay|waylay]]
 ---

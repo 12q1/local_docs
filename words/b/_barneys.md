@@ -13,10 +13,10 @@
 - **To [[a/_argue|argue]], to quarrel.**
 ---
 ### Synonyms
-- [[bicker]], [[row]], [[squabble]]
+- [[b/_bicker|bicker]], [[r/_row|row]], [[s/_squabble|squabble]]
 #noun
 - **(pejorative slang) A police officer, usually one perceived as inferior or overzealous.**
 ---
 ### Synonyms
-- [[fed]], [[pig]]
+- [[f/_fed|fed]], [[p/_pig|pig]]
 ---

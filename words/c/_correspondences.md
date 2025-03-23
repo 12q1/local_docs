@@ -2,7 +2,7 @@
 ---
 #noun
 - **Friendly [[d/_discussion|discussion]].**
-- **Reciprocal exchange of [[c/_civilities|civilities]], especially [[c/_conversation|conversation]] [[b/_between|between]] persons by means of letters.**
+- **Reciprocal exchange of [[c/_civilities|civilities]], [[e/_especially|especially]] [[c/_conversation|conversation]] [[b/_between|between]] persons by means of letters.**
 - **An [[a/_agreement|agreement]] of situations or objects with an expected outcome.**
 - **Newspaper or news stories, generally.**
 - **A postal or other written [[c/_communication|communication]].**

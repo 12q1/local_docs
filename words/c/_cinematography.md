@@ -5,5 +5,5 @@
 - **Motion picture photography.**
 ---
 ### Synonyms
-- [[film-craft]], [[filmmaking]]
+- [[f/_film-craft|film-craft]], [[f/_filmmaking|filmmaking]]
 ---

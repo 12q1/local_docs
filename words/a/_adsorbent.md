@@ -7,5 +7,5 @@
 - **Tending to [[a/_adsorb|adsorb]].**
 ---
 ### Antonyms
-- [[nonadsorbent]]
+- [[n/_nonadsorbent|nonadsorbent]]
 ---

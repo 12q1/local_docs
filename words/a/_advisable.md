@@ -5,5 +5,5 @@
 - **(of a person) [[c/_capable|Capable]] of [[b/_being|being]] [[a/_advised|advised]] or willing to be [[a/_advised|advised]].**
 ---
 ### Synonyms
-- [[counselable]], [[prudent]], [[wise]]
+- [[c/_counselable|counselable]], [[p/_prudent|prudent]], [[w/_wise|wise]]
 ---

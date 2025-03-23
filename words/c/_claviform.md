@@ -7,5 +7,5 @@
 - **Larger at the tip than at the [[b/_base|base]]; [[c/_club|club]]-shaped.**
 ---
 ### Synonyms
-- [[clavate]], [[clubbed]]
+- [[c/_clavate|clavate]], [[c/_clubbed|clubbed]]
 ---

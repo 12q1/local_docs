@@ -17,11 +17,11 @@
 - **Grotesque, [[b/_bizarre|bizarre]]**
 ---
 #adjective
-- **Having existed in [[a/_ancient|ancient]] times, [[d/_descended|descended]] from [[a/_antiquity|antiquity]]; used especially in reference to Greece and Rome.**
+- **Having existed in [[a/_ancient|ancient]] times, [[d/_descended|descended]] from [[a/_antiquity|antiquity]]; used [[e/_especially|especially]] in reference to Greece and Rome.**
 - **[[b/_belonging|Belonging]] to former times, not modern, out of [[d/_date|date]], old-fashioned.**
 - **[[d/_designating|Designating]] a style of type.**
 - **[[e/_embossed|Embossed]] without gilt.**
 ---
 ### Synonyms
-- [[antiquated]], [[disused]], [[outdated]]
+- [[a/_antiquated|antiquated]], [[d/_disused|disused]], [[o/_outdated|outdated]]
 ---

@@ -6,5 +6,5 @@
 - **To measure the [[c/_caliber|caliber]] of a tube or gun.**
 ---
 ### Synonyms
-- [[tune]]
+- [[t/_tune|tune]]
 ---

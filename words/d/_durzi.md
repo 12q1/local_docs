@@ -1,6 +1,6 @@
 # Durzi
 ---
 #noun
-- **A tailor, especially a personal one.**
+- **A tailor, [[e/_especially|especially]] a personal one.**
 ---
 ---

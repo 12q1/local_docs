@@ -1,7 +1,7 @@
 # Chores
 ---
 #noun
-- **A task, especially a [[d/_difficult|difficult]], unpleasant, or routine one.**
+- **A task, [[e/_especially|especially]] a [[d/_difficult|difficult]], unpleasant, or routine one.**
 	- _Example: Washing dishes is a chore, but we cannot just stop eating._
 ---
 #verb
@@ -11,7 +11,7 @@
 - **To steal.**
 ---
 ### Synonyms
-- [[steal]], [[thieve]], [[twoc]]
+- [[s/_steal|steal]], [[t/_thieve|thieve]], [[t/_twoc|twoc]]
 #noun
 - **A [[c/_choir|choir]] or [[c/_chorus|chorus]].**
 ---

@@ -5,5 +5,5 @@
 - **(planetary geology) Such a quake specifically occurring on the planet [[e/_earth|Earth]], as opposed to other [[c/_celestial|celestial]] [[b/_bodies|bodies]].**
 ---
 ### Synonyms
-- [[earthdin]], [[quake]], [[seism]], [[temblor]], [[terremote]], [[tremblor]], [[tremor]]
+- [[e/_earthdin|earthdin]], [[q/_quake|quake]], [[s/_seism|seism]], [[t/_temblor|temblor]], [[t/_terremote|terremote]], [[t/_tremblor|tremblor]], [[t/_tremor|tremor]]
 ---

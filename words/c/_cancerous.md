@@ -6,5 +6,5 @@
 - **Extremely unpleasant; [[d/_detestable|detestable]].**
 ---
 ### Antonyms
-- [[noncancerous]]
+- [[n/_noncancerous|noncancerous]]
 ---

@@ -5,12 +5,12 @@
 	- _Example: Whenever I walked by, that donkey brayed at me._
 - **(by extension) To make a harsh, [[d/_discordant|discordant]] sound like a [[d/_donkey|donkey]]'s [[b/_bray|bray]].**
 	- _Example: He threw back his head and brayed with laughter._
-- **To make or utter (a shout, sound, etc.) [[d/_discordantly|discordantly]], loudly, or in a harsh and grating manner.**
+- **To make or utter (a shout, sound, [[e/_etc|etc]].) [[d/_discordantly|discordantly]], loudly, or in a harsh and grating manner.**
 ---
 ### Synonyms
-- [[blore]], [[hee-haw]]
+- [[b/_blore|blore]], [[h/_hee-haw|hee-haw]]
 #verb
-- **To [[c/_crush|crush]] or pound, especially using a pestle and mortar.**
+- **To [[c/_crush|crush]] or pound, [[e/_especially|especially]] using a pestle and mortar.**
 - **(by extension) To hit (someone or something).**
 ---
 #noun

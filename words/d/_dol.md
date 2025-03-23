@@ -4,5 +4,5 @@
 - **The unit of measurement for pain.**
 ---
 ### Synonyms
-- [[dolor]]
+- [[d/_dolor|dolor]]
 ---

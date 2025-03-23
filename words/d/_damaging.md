@@ -13,5 +13,5 @@
 	- _Example: The politician resigned after damaging information was revealed._
 ---
 ### Antonyms
-- [[beneficial]], [[undamaging]]
+- [[b/_beneficial|beneficial]], [[u/_undamaging|undamaging]]
 ---

@@ -9,5 +9,5 @@
 - **(of a [[d/_device|device]] or system) in which the value of a [[d/_data|data]] item (such as time) is represented by a [[c/_continuous|continuous]](ly) variable physical quantity that [[c/_can|can]] be measured (such as the shadow of a sundial)**
 ---
 ### Antonyms
-- [[digital]], [[discrete]]
+- [[d/_digital|digital]], [[d/_discrete|discrete]]
 ---

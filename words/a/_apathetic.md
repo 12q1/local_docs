@@ -5,5 +5,5 @@
 - **Of, or pertaining to apatheism.**
 ---
 ### Synonyms
-- [[impassive]], [[incurious]], [[indifferent]], [[indifferent]], [[passionless]]
+- [[i/_impassive|impassive]], [[i/_incurious|incurious]], [[i/_indifferent|indifferent]], [[i/_indifferent|indifferent]], [[p/_passionless|passionless]]
 ---

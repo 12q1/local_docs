@@ -5,7 +5,7 @@
 - **To make subservient; to [[e/_enslave|enslave]] or subjugate.**
 ---
 ### Synonyms
-- [[awe]], [[bewitch]], [[captivate]], [[charm]], [[transfix]], [[enslave]], [[subjugate]]
+- [[a/_awe|awe]], [[b/_bewitch|bewitch]], [[c/_captivate|captivate]], [[c/_charm|charm]], [[t/_transfix|transfix]], [[e/_enslave|enslave]], [[s/_subjugate|subjugate]]
 #adjective
 - **Fascinated; [[c/_captivated|captivated]].**
 ---

@@ -6,5 +6,5 @@
 	- _Example: halogenated biphenyls_
 ---
 ### Synonyms
-- [[E230]], [[preservative]], [[diphenyl]], [[lemonene]]
+- [[E/_E230|E230]], [[p/_preservative|preservative]], [[d/_diphenyl|diphenyl]], [[l/_lemonene|lemonene]]
 ---

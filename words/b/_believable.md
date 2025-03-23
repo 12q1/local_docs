@@ -4,7 +4,7 @@
 - **[[c/_capable|Capable]] of [[b/_being|being]] [[b/_believed|believed]]; [[c/_credible|credible]].**
 ---
 ### Synonyms
-- [[plausible]]
+- [[p/_plausible|plausible]]
 ### Antonyms
-- [[unbelievable]]
+- [[u/_unbelievable|unbelievable]]
 ---

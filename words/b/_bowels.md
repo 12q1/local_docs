@@ -18,5 +18,5 @@
 - **The [[b/_body|body]] as the source of offspring.**
 ---
 ### Synonyms
-- [[center]], [[centre]], [[core]], [[heart]], [[entrails]], [[gut]], [[intestines]]
+- [[c/_center|center]], [[c/_centre|centre]], [[c/_core|core]], [[h/_heart|heart]], [[e/_entrails|entrails]], [[g/_gut|gut]], [[i/_intestines|intestines]]
 ---

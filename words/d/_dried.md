@@ -8,9 +8,9 @@
 	- _Example: dried lentils_
 ---
 ### Synonyms
-- [[anhydrous]], [[desiccated]], [[dehydrated]]
+- [[a/_anhydrous|anhydrous]], [[d/_desiccated|desiccated]], [[d/_dehydrated|dehydrated]]
 ### Antonyms
-- [[canned]], [[tinned]]
+- [[c/_canned|canned]], [[t/_tinned|tinned]]
 #verb
 - **To lose moisture.**
 	- _Example: The clothes dried on the line._

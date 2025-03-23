@@ -8,7 +8,7 @@
 - **To be overpowered by light; to be [[c/_confused|confused]] by excess of [[b/_brightness|brightness]].**
 ---
 ### Synonyms
-- [[impress]], [[overpower]]
+- [[i/_impress|impress]], [[o/_overpower|overpower]]
 #noun
 - **The [[a/_action|action]] of the verb to [[d/_dazzle|dazzle]]; [[d/_dazzlement|dazzlement]]**
 ---

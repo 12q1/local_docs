@@ -6,5 +6,5 @@
 - **The office or function of a [[b/_bishop|bishop]].**
 ---
 ### Synonyms
-- [[diocese]]
+- [[d/_diocese|diocese]]
 ---

@@ -40,8 +40,8 @@
 - **[[b/_bringing|Bringing]] [[d/_death|death]]; [[d/_deadly|deadly]].**
 - **[[c/_cut|Cut]] off from the rights of a [[c/_citizen|citizen]]; [[d/_deprived|deprived]] of the power of [[e/_enjoying|enjoying]] the rights of property.**
 	- _Example: A person who is banished or who becomes a monk is civilly dead._
-- **(often with "to") Indifferent to, no longer subject to or ruled by (sin, guilt, pleasure, etc).**
+- **(often with "to") Indifferent to, no longer subject to or ruled by (sin, guilt, pleasure, [[e/_etc|etc]]).**
 ---
 ### Antonyms
-- [[alive]], [[living]]
+- [[a/_alive|alive]], [[l/_living|living]]
 ---

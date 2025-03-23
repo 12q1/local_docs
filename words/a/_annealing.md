@@ -9,7 +9,7 @@
 	- _Example: The experience annealed them, strengthening their resolve._
 ---
 ### Synonyms
-- [[indurate]], [[ruggedize]], [[temper]]
+- [[i/_indurate|indurate]], [[r/_ruggedize|ruggedize]], [[t/_temper|temper]]
 #noun
 - **The heating of solid metal or glass to high temperatures and [[c/_cooling|cooling]] it slowly so that its particles [[a/_arrange|arrange]] into a [[d/_defined|defined]] lattice.**
 	- _Example: Without annealing, the quality of our metal products will diminish._

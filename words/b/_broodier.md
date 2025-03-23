@@ -6,5 +6,5 @@
 - **Of [[a/_any|any]] [[c/_creature|creature]] or person: showing an interest in raising young.**
 ---
 ### Synonyms
-- [[clucky]]
+- [[c/_clucky|clucky]]
 ---

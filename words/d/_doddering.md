@@ -1,7 +1,7 @@
 # Doddering
 ---
 #verb
-- **To shake or tremble as one moves, especially as of old [[a/_age|age]] or [[c/_childhood|childhood]]; to totter.**
+- **To shake or tremble as one moves, [[e/_especially|especially]] as of old [[a/_age|age]] or [[c/_childhood|childhood]]; to totter.**
 ---
 #noun
 - **A shaking or trembling movement, as of old [[a/_age|age]].**

@@ -9,12 +9,12 @@
 - **To produce [[d/_distinct|distinct]] organs or to [[a/_achieve|achieve]] specific functions by a process of [[d/_development|development]] [[c/_called|called]] [[d/_differentiation|differentiation]].**
 ---
 ### Synonyms
-- [[change]], [[transform]], [[differentialize]], [[differentialize]]
+- [[c/_change|change]], [[t/_transform|transform]], [[d/_differentialize|differentialize]], [[d/_differentialize|differentialize]]
 ### Antonyms
-- [[leave alone]], [[preserve]], [[mix up]], [[muddle up]], [[equate]]
+- [[p/_preserve|preserve]], [[e/_equate|equate]]
 #adjective
 - **(of a [[c/_cell|cell]] or tissue) That has taken on a specialized form and function**
 ---
 ### Antonyms
-- [[undifferentiated]]
+- [[u/_undifferentiated|undifferentiated]]
 ---

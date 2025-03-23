@@ -7,13 +7,13 @@
 - **A heap of rubbish, [[a/_attle|attle]], or other such refuse.**
 ---
 ### Synonyms
-- [[tumulus]]
+- [[t/_tumulus|tumulus]]
 #noun
 - **A small vehicle used to [[c/_carry|carry]] a load and pulled or pushed by hand.**
 - **(saltworks) A wicker [[c/_case|case]] in which salt is put to [[d/_drain|drain]].**
 ---
 ### Synonyms
-- [[handcart]], [[pushcart]], [[trolley]]
+- [[h/_handcart|handcart]], [[p/_pushcart|pushcart]], [[t/_trolley|trolley]]
 #noun
 - **A [[c/_castrated|castrated]] [[b/_boar|boar]].**
 ---

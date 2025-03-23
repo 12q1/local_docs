@@ -4,5 +4,5 @@
 - **Someone who plays the [[c/_clarinet|clarinet]].**
 ---
 ### Synonyms
-- [[clarinet-player]]
+- [[c/_clarinet-player|clarinet-player]]
 ---

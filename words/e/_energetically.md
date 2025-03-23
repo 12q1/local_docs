@@ -4,5 +4,5 @@
 - **In an [[e/_energetic|energetic]] manner**
 ---
 ### Synonyms
-- [[bustly]]
+- [[b/_bustly|bustly]]
 ---

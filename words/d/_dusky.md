@@ -15,5 +15,5 @@
 	- _Example: The patient was in shock and had a dusky skin tone._
 ---
 ### Synonyms
-- [[black]], [[inky]], [[sable]], [[sooty]], [[swarthy]]
+- [[b/_black|black]], [[i/_inky|inky]], [[s/_sable|sable]], [[s/_sooty|sooty]], [[s/_swarthy|swarthy]]
 ---

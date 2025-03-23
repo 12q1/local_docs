@@ -7,6 +7,6 @@
 - **To [[c/_compile|compile]] the tools that will be used to [[c/_compile|compile]] the rest of the system or program.**
 	- _Example: Bootstrapping means building the GNU C Library, GNU Compiler Collection and several other key system programs.http//www.gentoo.org/doc/en/handbook/handbook-x86.xml?part=1&chap=6_
 - **To [[e/_employ|employ]] a [[b/_bootstrap|bootstrap]] method.**
-- **To expand or [[a/_advance|advance]] an [[a/_activity|activity]] or a [[c/_collection|collection]] [[b/_based|based]] solely on previous [[a/_actions|actions]], work, findings, etc.**
+- **To expand or [[a/_advance|advance]] an [[a/_activity|activity]] or a [[c/_collection|collection]] [[b/_based|based]] solely on previous [[a/_actions|actions]], work, findings, [[e/_etc|etc]].**
 ---
 ---

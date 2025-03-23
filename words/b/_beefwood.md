@@ -5,5 +5,5 @@
 - **The timber of those trees.**
 ---
 ### Synonyms
-- [[belah]]
+- [[b/_belah|belah]]
 ---

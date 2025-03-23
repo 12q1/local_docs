@@ -6,6 +6,6 @@
 - **A seller of fish.**
 ---
 #verb
-- **To make (seafood, etc.) into [[c/_chowder|chowder]].**
+- **To make (seafood, [[e/_etc|etc]].) into [[c/_chowder|chowder]].**
 ---
 ---

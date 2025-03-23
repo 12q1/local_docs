@@ -1,7 +1,7 @@
 # Bedraggled
 ---
 #verb
-- **To make (something) wet and limp, especially by [[d/_dragging|dragging]] it [[a/_along|along]] the ground.**
+- **To make (something) wet and limp, [[e/_especially|especially]] by [[d/_dragging|dragging]] it [[a/_along|along]] the ground.**
 ---
 #adjective
 - **Wet and limp; unkempt.**

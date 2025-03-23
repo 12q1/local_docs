@@ -9,7 +9,7 @@
 - **A large pill, a form in which medicine was given to horses; a [[b/_bolus|bolus]].**
 ---
 ### Synonyms
-- [[chutzpah]], [[guts]], [[nerve]], [[globe]], [[sphere]]
+- [[c/_chutzpah|chutzpah]], [[g/_guts|guts]], [[n/_nerve|nerve]], [[g/_globe|globe]], [[s/_sphere|sphere]]
 #verb
 - **To form or wind into a [[b/_ball|ball]].**
 	- _Example: to ball cotton_
@@ -22,7 +22,7 @@
 - **To punish by [[a/_affixing|affixing]] a [[b/_ball|ball]] and [[c/_chain|chain]]**
 ---
 ### Synonyms
-- [[roll]], [[wad]], [[bonk]], [[fuck]], [[lay]], [[screw]], [[shag]]
+- [[r/_roll|roll]], [[w/_wad|wad]], [[b/_bonk|bonk]], [[f/_fuck|fuck]], [[l/_lay|lay]], [[s/_screw|screw]], [[s/_shag|shag]]
 #interjection
 - **An [[a/_appeal|appeal]] by the [[c/_crowd|crowd]] for holding the [[b/_ball|ball]] [[a/_against|against]] a tackled player. This is heard [[a/_almost|almost]] [[a/_any|any]] time an opposition player is tackled, without regard to whether the rules [[a/_about|about]] "prior opportunity" to [[d/_dispose|dispose]] of the [[b/_ball|ball]] are fulfilled.**
 ---

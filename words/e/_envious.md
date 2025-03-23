@@ -8,5 +8,5 @@
 - **Inspiring [[e/_envy|envy]].**
 ---
 ### Synonyms
-- [[overcautious]]
+- [[o/_overcautious|overcautious]]
 ---

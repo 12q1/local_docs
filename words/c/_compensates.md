@@ -10,5 +10,5 @@
 	- _Example: I don't like driving that old car because it always steers a little to the left so I'm forever compensating for that when I drive it. Trust me, it gets annoying real fast._
 ---
 ### Synonyms
-- [[acclimate]], [[acclimatize]], [[accommodate]], [[accustom]], [[adapt]], [[guerdon]], [[reimburse]], [[accord]], [[amend]], [[appease]], [[atone]], [[equate]], [[expiate]], [[harmonize]], [[indemnify]], [[level]], [[offset]], [[reconcile]], [[rectify]], [[redeem]], [[redress]], [[remedy]], [[remunerate]], [[requite]], [[resolve]], [[restitute]], [[restitution]], [[square]]
+- [[a/_acclimate|acclimate]], [[a/_acclimatize|acclimatize]], [[a/_accommodate|accommodate]], [[a/_accustom|accustom]], [[a/_adapt|adapt]], [[g/_guerdon|guerdon]], [[r/_reimburse|reimburse]], [[a/_accord|accord]], [[a/_amend|amend]], [[a/_appease|appease]], [[a/_atone|atone]], [[e/_equate|equate]], [[e/_expiate|expiate]], [[h/_harmonize|harmonize]], [[i/_indemnify|indemnify]], [[l/_level|level]], [[o/_offset|offset]], [[r/_reconcile|reconcile]], [[r/_rectify|rectify]], [[r/_redeem|redeem]], [[r/_redress|redress]], [[r/_remedy|remedy]], [[r/_remunerate|remunerate]], [[r/_requite|requite]], [[r/_resolve|resolve]], [[r/_restitute|restitute]], [[r/_restitution|restitution]], [[s/_square|square]]
 ---

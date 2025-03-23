@@ -5,7 +5,7 @@
 - **To represent one half of.**
 ---
 ### Synonyms
-- [[halve]]
+- [[h/_halve|halve]]
 #adjective
 - **[[d/_divided|Divided]] into two ([[e/_equal|equal]]) halves**
 - **[[c/_consisting|Consisting]] of only one half of what the normal [[c/_condition|condition]] requires; having the [[a/_appearance|appearance]] of lacking one half.**

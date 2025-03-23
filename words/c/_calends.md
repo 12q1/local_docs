@@ -12,7 +12,7 @@
 - **An [[a/_appointment|appointment]] [[b/_book|book]] (US), [[a/_appointment|appointment]] [[d/_diary|diary]] (UK)**
 ---
 ### Synonyms
-- [[agenda]], [[calends]], [[docket]], [[schedule]]
+- [[a/_agenda|agenda]], [[c/_calends|calends]], [[d/_docket|docket]], [[s/_schedule|schedule]]
 #noun
 - **Often with initial [[c/_capital|capital]]: the first [[d/_day|day]] of a month**
 	- _Example: The third day before the calends of February is 30 January, the third calends of March is 27 or 28 February, and the third of the calends of May is 29 April._
@@ -21,5 +21,5 @@
 - **The first [[d/_day|day]] of something; a [[b/_beginning|beginning]].**
 ---
 ### Synonyms
-- [[Kal.]], [[first calends]]
+- [[K/_Kal.|Kal.]]
 ---

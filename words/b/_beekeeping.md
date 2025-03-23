@@ -4,5 +4,5 @@
 - **The practice or profession of keeping and [[c/_caring|caring]] for [[b/_bees|bees]].**
 ---
 ### Synonyms
-- [[apiculture]]
+- [[a/_apiculture|apiculture]]
 ---

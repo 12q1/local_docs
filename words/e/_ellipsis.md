@@ -7,5 +7,5 @@
 - **An [[e/_ellipse|ellipse]].**
 ---
 ### Synonyms
-- [[dot dot dot]], [[suspension dots]], [[suspension points]]
+- 
 ---

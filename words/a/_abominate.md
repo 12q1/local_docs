@@ -5,7 +5,7 @@
 - **To [[d/_dislike|dislike]] strongly.**
 ---
 ### Synonyms
-- [[abhor]], [[detest]], [[loathe]], [[abhor]]
+- [[a/_abhor|abhor]], [[d/_detest|detest]], [[l/_loathe|loathe]], [[a/_abhor|abhor]]
 #adjective
 - **[[a/_abominable|Abominable]]; [[d/_detested|detested]].**
 ---

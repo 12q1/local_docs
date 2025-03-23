@@ -6,7 +6,7 @@
 - **The name of the symbols Α and α used in science and mathematics, often interchangeable with the symbols when used as a prefix.**
 	- _Example: I will attempt to make an alpha particle ("α-particle") with the Large Hadron Collider._
 - **The return of a given [[a/_asset|asset]] or portfolio [[a/_adjusted|adjusted]] for systematic risk.**
-- **A person, especially a male, who is [[d/_dominant|dominant]], successful and [[a/_attractive|attractive]]; (see [[a/_alpha|alpha]] male).**
+- **A person, [[e/_especially|especially]] a male, who is [[d/_dominant|dominant]], successful and [[a/_attractive|attractive]]; (see [[a/_alpha|alpha]] male).**
 - **([[a/_abbreviation|abbreviation]]) [[a/_alphabet|Alphabet]].**
 - **The first versions of a program, usually only [[a/_available|available]] to the [[d/_developer|developer]], and only tested by the [[d/_developer|developer]].**
 - **The level of translucency of a [[c/_color|color]], as [[d/_determined|determined]] by the [[a/_alpha|alpha]] [[c/_channel|channel]].**

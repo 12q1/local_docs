@@ -4,7 +4,7 @@
 - **A shift (scheduled work period) that takes place [[e/_early|early]] in the [[d/_day|day]].**
 ---
 ### Antonyms
-- [[late]]
+- [[l/_late|late]]
 #adjective
 - **At a time in [[a/_advance|advance]] of the usual or expected event.**
 	- _Example: at eleven, we went for an early lunch;  she began reading at an early age;  his mother suffered an early death_
@@ -17,16 +17,16 @@
 - **Of a star or [[c/_class|class]] of stars, hotter than the sun.**
 ---
 ### Synonyms
-- [[first]], [[premature]]
+- [[f/_first|first]], [[p/_premature|premature]]
 ### Antonyms
-- [[late]], [[late]], [[terminal]]
+- [[l/_late|late]], [[l/_late|late]], [[t/_terminal|terminal]]
 #adverb
 - **At a time [[b/_before|before]] expected; sooner than usual.**
 	- _Example: We finished the project an hour sooner than scheduled, so we left early._
 - **Soon; in good time; seasonably.**
 ---
 ### Synonyms
-- [[prematurely]]
+- [[p/_prematurely|prematurely]]
 ### Antonyms
-- [[late]], [[tardily]]
+- [[l/_late|late]], [[t/_tardily|tardily]]
 ---

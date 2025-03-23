@@ -2,9 +2,9 @@
 ---
 #verb
 - **To [[a/_affect|affect]] with [[d/_drugs|drugs]].**
-- **To treat with [[d/_dope|dope]] (lubricant, etc.).**
+- **To treat with [[d/_dope|dope]] (lubricant, [[e/_etc|etc]].).**
 - **To [[a/_add|add]] a [[d/_dopant|dopant]] such as [[a/_arsenic|arsenic]] to (a pure semiconductor such as silicon).**
-- **To use [[d/_drugs|drugs]]; especially, to use prohibited performance-[[e/_enhancing|enhancing]] [[d/_drugs|drugs]] in sporting [[c/_competitions|competitions]].**
+- **To use [[d/_drugs|drugs]]; [[e/_especially|especially]], to use prohibited performance-[[e/_enhancing|enhancing]] [[d/_drugs|drugs]] in sporting [[c/_competitions|competitions]].**
 - **To judge or guess; to predict the result of.**
 ---
 #adjective

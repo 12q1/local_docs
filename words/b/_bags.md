@@ -1,10 +1,10 @@
 # Bags
 ---
 #noun
-- **A flexible [[c/_container|container]] made of [[c/_cloth|cloth]], paper, plastic, etc.**
+- **A flexible [[c/_container|container]] made of [[c/_cloth|cloth]], paper, plastic, [[e/_etc|etc]].**
 - **A handbag**
 - **A suitcase.**
-- **A schoolbag, especially a [[b/_backpack|backpack]].**
+- **A schoolbag, [[e/_especially|especially]] a [[b/_backpack|backpack]].**
 - **One’s preference.**
 	- _Example: Acid House is not my bag: I prefer the more traditional styles of music._
 - **An ugly woman.**
@@ -21,16 +21,16 @@
 - **The quantity of game [[b/_bagged|bagged]] in a hunt.**
 - **A scrotum.**
 - **A unit of measure of [[c/_cement|cement]] [[e/_equal|equal]] to 94 pounds.**
-- **([[c/_chiefly|chiefly]] in the plural) A [[d/_dark|dark]] [[c/_circle|circle]] under the [[e/_eye|eye]], [[c/_caused|caused]] by lack of sleep, [[d/_drug|drug]] [[a/_addiction|addiction]] etc.**
-- **A small [[e/_envelope|envelope]] that [[c/_contains|contains]] [[d/_drugs|drugs]], especially narcotics.**
+- **([[c/_chiefly|chiefly]] in the plural) A [[d/_dark|dark]] [[c/_circle|circle]] under the [[e/_eye|eye]], [[c/_caused|caused]] by lack of sleep, [[d/_drug|drug]] [[a/_addiction|addiction]] [[e/_etc|etc]].**
+- **A small [[e/_envelope|envelope]] that [[c/_contains|contains]] [[d/_drugs|drugs]], [[e/_especially|especially]] narcotics.**
 - **£1000, a grand.**
 - **A large number or [[a/_amount|amount]].**
 ---
 ### Synonyms
-- [[cup of tea]], [[thing]], [[dog]], [[hag]], [[handbag]], [[purse]], [[multiset]], [[poke]], [[sack]], [[tote]]
+- [[t/_thing|thing]], [[d/_dog|dog]], [[h/_hag|hag]], [[h/_handbag|handbag]], [[p/_purse|purse]], [[m/_multiset|multiset]], [[p/_poke|poke]], [[s/_sack|sack]], [[t/_tote|tote]]
 #verb
 - **To put into a [[b/_bag|bag]].**
-- **To [[c/_catch|catch]] or kill, especially when fishing or hunting.**
+- **To [[c/_catch|catch]] or kill, [[e/_especially|especially]] when fishing or hunting.**
 	- _Example: We bagged three deer yesterday._
 - **To gain possession of something, or to make first [[c/_claim|claim]] on something.**
 - **To furnish or load with a [[b/_bag|bag]].**

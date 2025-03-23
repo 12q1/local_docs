@@ -7,5 +7,5 @@
 	- _Example: The foam cossets your skin._
 ---
 ### Synonyms
-- [[grope]], [[touch up]], [[coddle]], [[posset]]
+- [[g/_grope|grope]], [[c/_coddle|coddle]], [[p/_posset|posset]]
 ---

@@ -10,7 +10,7 @@
 - **Vagina**
 ---
 ### Synonyms
-- [[French roll]], [[hair bun]], [[cake]]
+- [[c/_cake|cake]]
 #noun
 - **A rabbit or sometimes a squirrel.**
 ---
@@ -18,6 +18,6 @@
 - **Marijuana [[c/_cigarette|cigarette]], joint**
 ---
 #noun
-- **A Korean unit of length equivalent to [[a/_about|about]] 0.3 [[c/_cm|cm]].**
+- **A Korean unit of length [[e/_equivalent|equivalent]] to [[a/_about|about]] 0.3 [[c/_cm|cm]].**
 ---
 ---

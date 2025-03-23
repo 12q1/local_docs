@@ -18,10 +18,10 @@
 - **Such a region used as a [[d/_data|data]] storage [[e/_element|element]] in a [[b/_bubble|bubble]] memory.**
 - **([[d/_data|data]] processing) A form of technical metadata that represent the type of a [[d/_data|data]] item, its [[c/_characteristics|characteristics]], name, and usage.**
 - **The highest rank in the [[c/_classification|classification]] of organisms, [[a/_above|above]] kingdom; in the three-[[d/_domain|domain]] system, one of the taxa [[b/_bacteria|Bacteria]], Archaea, or Eukaryota.**
-- **A folded section of a protein molecule that has a [[d/_discrete|discrete]] function; the equivalent section of a [[c/_chromosome|chromosome]]**
+- **A folded section of a protein molecule that has a [[d/_discrete|discrete]] function; the [[e/_equivalent|equivalent]] section of a [[c/_chromosome|chromosome]]**
 ---
 ### Synonyms
-- [[domain name]], [[hostname]], [[demesne]], [[domain of definition]]
+- [[h/_hostname|hostname]], [[d/_demesne|demesne]]
 ### Antonyms
-- [[codomain]], [[range]]
+- [[c/_codomain|codomain]], [[r/_range|range]]
 ---

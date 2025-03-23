@@ -21,12 +21,12 @@
 - **A [[b/_bodily|bodily]] gesture meant to fool an opposing player; a feint.**
 ---
 ### Synonyms
-- [[dumbie]], [[dumbie]], [[juke]], [[mannequin]], [[marionette]]
+- [[d/_dumbie|dumbie]], [[d/_dumbie|dumbie]], [[j/_juke|juke]], [[m/_mannequin|mannequin]], [[m/_marionette|marionette]]
 #verb
 - **To make a mock-up or prototype version of something, without some or [[a/_all|all]] off its intended functionality.**
 	- _Example: The carpenters dummied some props for the rehearsals._
 - **To feint.**
 ---
 ### Synonyms
-- [[juke]]
+- [[j/_juke|juke]]
 ---

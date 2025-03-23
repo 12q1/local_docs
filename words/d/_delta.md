@@ -14,12 +14,12 @@
 	- _Example: ΔV - "delta vee"(change in velocity, used in rocketry and orbital mechanics)_
 - **The [[a/_angle|angle]] subtended at the [[c/_center|center]] of a [[c/_circular|circular]] [[a/_arc|arc]].**
 - **A type of [[c/_cargo|cargo]] [[b/_bike|bike]] that has one wheel in front and two in [[b/_back|back]].**
-- **The [[c/_closed|closed]] figure produced by [[c/_connecting|connecting]] three [[c/_coils|coils]] or [[c/_circuits|circuits]] successively, [[e/_end|end]] for [[e/_end|end]], especially in a three-phase system.**
+- **The [[c/_closed|closed]] figure produced by [[c/_connecting|connecting]] three [[c/_coils|coils]] or [[c/_circuits|circuits]] successively, [[e/_end|end]] for [[e/_end|end]], [[e/_especially|especially]] in a three-phase system.**
 	- _Example: delta winding; delta connection; delta current_
 - **The rate of [[c/_change|change]] in an option value with respect to the underlying [[a/_asset|asset]]'s price.**
 - **A value in [[d/_delta|delta]] notation indicating the relative [[a/_abundances|abundances]] of isotopes.**
-- **(U.S. Space Force) A military unit, nominally headed by a [[c/_colonel|colonel]], equivalent to a USAF operations wing, or an [[a/_army|army]] regiment.**
+- **(U.S. Space Force) A military unit, nominally headed by a [[c/_colonel|colonel]], [[e/_equivalent|equivalent]] to a USAF operations wing, or an [[a/_army|army]] regiment.**
 ---
 ### Synonyms
-- [[garrison]]
+- [[g/_garrison|garrison]]
 ---

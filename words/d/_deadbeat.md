@@ -5,7 +5,7 @@
 - **A person who [[d/_defaults|defaults]] on [[d/_debts|debts]].**
 ---
 ### Synonyms
-- [[shirker]], [[welcher]]
+- [[s/_shirker|shirker]], [[w/_welcher|welcher]]
 #adjective
 - **(of an instrument) having a [[d/_damped|damped]] needle that stops without oscillation**
 - **[[d/_defaulting|Defaulting]] on one's [[d/_debts|debts]]**

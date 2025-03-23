@@ -10,7 +10,7 @@
 - **[[d/_dealing|Dealing]]; transaction.**
 ---
 ### Synonyms
-- [[communication]], [[expression]], [[dissertation]], [[lecture]], [[study]], [[treatise]], [[ratiocination]], [[conversation]], [[debate]], [[discussion]], [[talk]]
+- [[c/_communication|communication]], [[e/_expression|expression]], [[d/_dissertation|dissertation]], [[l/_lecture|lecture]], [[s/_study|study]], [[t/_treatise|treatise]], [[r/_ratiocination|ratiocination]], [[c/_conversation|conversation]], [[d/_debate|debate]], [[d/_discussion|discussion]], [[t/_talk|talk]]
 #verb
 - **To [[e/_engage|engage]] in [[d/_discussion|discussion]] or [[c/_conversation|conversation]]; to [[c/_converse|converse]].**
 - **To write or speak formally and at length.**
@@ -19,5 +19,5 @@
 - **To produce or [[e/_emit|emit]] (musical sounds).**
 ---
 ### Synonyms
-- [[converse]], [[talk]]
+- [[c/_converse|converse]], [[t/_talk|talk]]
 ---

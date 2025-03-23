@@ -4,5 +4,5 @@
 - **To make [[c/_clear|clear]]; to [[c/_clarify|clarify]]; to shed light upon.**
 ---
 ### Synonyms
-- [[explicate]], [[illuminate]]
+- [[e/_explicate|explicate]], [[i/_illuminate|illuminate]]
 ---

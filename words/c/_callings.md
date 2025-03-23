@@ -5,5 +5,5 @@
 - **A job or occupation.**
 ---
 ### Synonyms
-- [[vocation]]
+- [[v/_vocation|vocation]]
 ---

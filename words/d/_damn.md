@@ -28,6 +28,6 @@
 	- _Example: That car was going damn fast!_
 ---
 #interjection
-- **Used to express [[a/_anger|anger]], irritation, [[d/_disappointment|disappointment]], [[a/_annoyance|annoyance]], [[c/_contempt|contempt]] or suprise, etc. See [[a/_also|also]] [[d/_dammit|dammit]].**
+- **Used to express [[a/_anger|anger]], irritation, [[d/_disappointment|disappointment]], [[a/_annoyance|annoyance]], [[c/_contempt|contempt]] or suprise, [[e/_etc|etc]]. See [[a/_also|also]] [[d/_dammit|dammit]].**
 ---
 ---

@@ -6,5 +6,5 @@
 - **To [[a/_acknowledge|acknowledge]] the jurisdiction of (a particular [[c/_court|court]]) over one's [[d/_dispute|dispute]].**
 ---
 ### Synonyms
-- [[traditio brevi manu]]
+- 
 ---

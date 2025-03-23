@@ -2,7 +2,7 @@
 ---
 #noun
 - **A rolling [[d/_down|down]].**
-- **A [[d/_descent|descent]], especially one that passes through a series of revolutions, or by succession**
+- **A [[d/_descent|descent]], [[e/_especially|especially]] one that passes through a series of revolutions, or by succession**
 - **The transference of a right to a successor, or of a power from one [[b/_body|body]] to [[a/_another|another]].**
 - **[[d/_degeneration|Degeneration]] (as opposed to evolution).**
 	- _Example: It is quite disheartening to witness the devolution of our nation's political discourse over the past several years._

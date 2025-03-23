@@ -6,14 +6,14 @@
 - **To grow worse; to be impaired in quality; to [[d/_degenerate|degenerate]].**
 ---
 ### Synonyms
-- [[degenerate]], [[go off]], [[nerf]], [[weaken]], [[worsen]]
+- [[d/_degenerate|degenerate]], [[n/_nerf|nerf]], [[w/_weaken|weaken]], [[w/_worsen|worsen]]
 ### Antonyms
-- [[ameliorate]], [[better]], [[improve]], [[revamp]]
+- [[a/_ameliorate|ameliorate]], [[b/_better|better]], [[i/_improve|improve]], [[r/_revamp|revamp]]
 #adjective
 - **Getting worse**
 ---
 ### Synonyms
-- [[sour]], [[worsen]]
+- [[s/_sour|sour]], [[w/_worsen|worsen]]
 ### Antonyms
-- [[improving]]
+- [[i/_improving|improving]]
 ---

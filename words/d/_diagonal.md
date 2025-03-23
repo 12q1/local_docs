@@ -5,9 +5,9 @@
 - **[[a/_anything|Anything]] forming or resembling such a line, particularly:**
 ---
 ### Synonyms
-- [[bias]], [[slash]]
+- [[b/_bias|bias]], [[s/_slash|slash]]
 ### Antonyms
-- [[backslash]]
+- [[b/_backslash|backslash]]
 #adjective
 - **Joining two nonadjacent vertices (of a polygon or polyhedron).**
 - **Having slanted or oblique lines or markings.**
@@ -15,5 +15,5 @@
 - **Of or related to the [[c/_cater|cater]]-[[c/_corner|corner]] ([[d/_diagonally|diagonally]] opposite) legs of a quadruped, whether the front left and [[b/_back|back]] right or front right and [[b/_back|back]] left.**
 ---
 ### Synonyms
-- [[aslant]], [[aslope]], [[slanted]], [[slanting]], [[sloped]], [[sloping]]
+- [[a/_aslant|aslant]], [[a/_aslope|aslope]], [[s/_slanted|slanted]], [[s/_slanting|slanting]], [[s/_sloped|sloped]], [[s/_sloping|sloping]]
 ---

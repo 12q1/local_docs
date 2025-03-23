@@ -7,5 +7,5 @@
 - **[[d/_dispersed|Dispersed]] as an [[a/_aerosol|aerosol]]; particulate.**
 ---
 ### Synonyms
-- [[atomized]], [[nebulized]]
+- [[a/_atomized|atomized]], [[n/_nebulized|nebulized]]
 ---

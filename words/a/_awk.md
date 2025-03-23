@@ -8,7 +8,7 @@
 - **(of a situation) [[a/_awkward|Awkward]]; uncomfortable.**
 ---
 ### Synonyms
-- [[unhandy]]
+- [[u/_unhandy|unhandy]]
 #adverb
 - **Perversely; in the wrong way.**
 ---

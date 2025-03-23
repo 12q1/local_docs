@@ -7,7 +7,7 @@
 - **[[b/_brief|Brief]], yet including [[a/_all|all]] important information**
 ---
 ### Synonyms
-- [[succinct]], [[terse]]
+- [[s/_succinct|succinct]], [[t/_terse|terse]]
 ### Antonyms
-- [[verbose]]
+- [[v/_verbose|verbose]]
 ---

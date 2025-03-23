@@ -6,5 +6,5 @@
 - **[[c/_cause|Cause]] and [[e/_effect|effect]]; [[c/_causality|causality]].**
 ---
 ### Synonyms
-- [[aetiology]], [[etiology]], [[ætiology]], [[causality]]
+- [[a/_aetiology|aetiology]], [[e/_etiology|etiology]], [[æ/_ætiology|ætiology]], [[c/_causality|causality]]
 ---

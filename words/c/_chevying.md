@@ -7,7 +7,7 @@
 - **To scurry.**
 ---
 ### Synonyms
-- [[scamper]]
+- [[s/_scamper|scamper]]
 #verb
 - **To [[c/_coerce|coerce]] or hurry [[a/_along|along]], as by persistent request.**
 - **To subject to harassment or verbal [[a/_abuse|abuse]].**
@@ -16,5 +16,5 @@
 	- _Example: to chivvy the fox_
 ---
 ### Synonyms
-- [[chase]], [[hunt]]
+- [[c/_chase|chase]], [[h/_hunt|hunt]]
 ---

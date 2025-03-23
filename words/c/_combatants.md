@@ -5,5 +5,5 @@
 	- _Example: Gladiators were combatants who fought to the death to entertain the public._
 ---
 ### Synonyms
-- [[battler]], [[fighter]]
+- [[b/_battler|battler]], [[f/_fighter|fighter]]
 ---

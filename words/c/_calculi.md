@@ -8,8 +8,8 @@
 - **A stony [[c/_concretion|concretion]] that forms in a [[b/_bodily|bodily]] organ.**
 	- _Example: renal calculus ( = kidney stone)_
 - **[[d/_deposits|Deposits]] of [[c/_calcium|calcium]] phosphate salts on teeth.**
-- **A [[d/_decision|decision]]-making method, especially one [[a/_appropriate|appropriate]] for a specialised realm.**
+- **A [[d/_decision|decision]]-making method, [[e/_especially|especially]] one [[a/_appropriate|appropriate]] for a specialised realm.**
 ---
 ### Synonyms
-- [[ciphering]], [[reckoning]], [[infinitesimal calculus]], [[dental calculus]], [[tartar]], [[stone]]
+- [[c/_ciphering|ciphering]], [[r/_reckoning|reckoning]], [[t/_tartar|tartar]], [[s/_stone|stone]]
 ---

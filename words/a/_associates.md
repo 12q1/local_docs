@@ -6,7 +6,7 @@
 - **A [[c/_companion|companion]]; a [[c/_comrade|comrade]].**
 - **One that habitually [[a/_accompanies|accompanies]] or is [[a/_associated|associated]] with [[a/_another|another]]; an [[a/_attendant|attendant]] [[c/_circumstance|circumstance]].**
 - **A member of an institution or society who is granted only partial status or privileges.**
-- **One of a pair of [[e/_elements|elements]] of an integral [[d/_domain|domain]] (or a ring) such that the two [[e/_elements|elements]] are [[d/_divisible|divisible]] by [[e/_each|each]] other (or, equivalently, such that [[e/_each|each]] one [[c/_can|can]] be expressed as the product of the other with a unit).**
+- **One of a pair of [[e/_elements|elements]] of an integral [[d/_domain|domain]] (or a ring) such that the two [[e/_elements|elements]] are [[d/_divisible|divisible]] by [[e/_each|each]] other (or, [[e/_equivalently|equivalently]], such that [[e/_each|each]] one [[c/_can|can]] be expressed as the product of the other with a unit).**
 ---
 #verb
 - **To join in or form a league, union, or [[a/_association|association]].**
@@ -22,7 +22,7 @@
 - **To [[a/_accompany|accompany]]; to be in the [[c/_company|company]] of.**
 ---
 ### Synonyms
-- [[attach]], [[join]], [[put together]], [[unite]]
+- [[a/_attach|attach]], [[j/_join|join]], [[u/_unite|unite]]
 ### Antonyms
-- [[disassociate]]
+- [[d/_disassociate|disassociate]]
 ---

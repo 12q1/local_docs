@@ -8,9 +8,9 @@
 - **Something harmful or threatening to [[a/_another|another]]**
 ---
 ### Synonyms
-- [[adversary]], [[backfriend]], [[foe]], [[nemesis]], [[unfriend]], [[adversary]], [[foe]], [[nemesis]]
+- [[a/_adversary|adversary]], [[b/_backfriend|backfriend]], [[f/_foe|foe]], [[n/_nemesis|nemesis]], [[u/_unfriend|unfriend]], [[a/_adversary|adversary]], [[f/_foe|foe]], [[n/_nemesis|nemesis]]
 ### Antonyms
-- [[ally]], [[friend]], [[ally]], [[friend]]
+- [[a/_ally|ally]], [[f/_friend|friend]], [[a/_ally|ally]], [[f/_friend|friend]]
 #verb
 - **To make an [[e/_enemy|enemy]] of.**
 ---

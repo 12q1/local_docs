@@ -7,5 +7,5 @@
 - **To [[c/_cheat|cheat]]; to [[d/_defraud|defraud]]; to [[d/_deceive|deceive]], usually by small [[a/_arts|arts]], or in a pitiful way.**
 ---
 ### Synonyms
-- [[beguile]]
+- [[b/_beguile|beguile]]
 ---

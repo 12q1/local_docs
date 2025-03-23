@@ -11,7 +11,7 @@
 - **The wicket.**
 ---
 ### Synonyms
-- [[fortress]]
+- [[f/_fortress|fortress]]
 #verb
 - **To house or keep in a [[c/_castle|castle]].**
 - **To protect or separate in a similar way.**
@@ -21,5 +21,5 @@
 - **To [[b/_bowl|bowl]] a [[b/_batsman|batsman]] with a full-length [[b/_ball|ball]] or yorker such that the stumps are knocked over.**
 ---
 ### Synonyms
-- [[castellate]], [[incastellate]], [[fortify]]
+- [[c/_castellate|castellate]], [[i/_incastellate|incastellate]], [[f/_fortify|fortify]]
 ---

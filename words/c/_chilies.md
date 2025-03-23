@@ -6,5 +6,5 @@
 - **(Indian [[c/_chinese|Chinese]] [[c/_cuisine|cuisine]]) a spicy stew of [[c/_chicken|chicken]] or paneer, [[c/_capsicum|capsicum]] and onion, [[e/_eaten|eaten]] as an [[a/_appetizer|appetizer]].**
 ---
 ### Synonyms
-- [[chili pepper]], [[chili powder]]
+- 
 ---

@@ -5,5 +5,5 @@
 - **One who has a large head; a heavy, stupid fellow.**
 ---
 ### Synonyms
-- [[woolhead]]
+- [[w/_woolhead|woolhead]]
 ---

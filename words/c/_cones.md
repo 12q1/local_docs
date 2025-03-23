@@ -21,7 +21,7 @@
 - **A set of formal languages with [[c/_certain|certain]] [[d/_desirable|desirable]] [[c/_closure|closure]] properties, in particular those of the regular languages, the [[c/_context|context]]-free languages and the recursively [[e/_enumerable|enumerable]] languages.**
 ---
 ### Synonyms
-- [[conical surface]], [[cornet]], [[ice cream cone]]
+- [[c/_cornet|cornet]]
 #verb
 - **To fashion into the shape of a [[c/_cone|cone]].**
 - **To form a [[c/_cone|cone]] shape.**

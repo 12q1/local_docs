@@ -8,7 +8,7 @@
 	- _Example: Your brights are on._
 ---
 ### Antonyms
-- [[super]], [[supernaturalist]]
+- [[s/_super|super]], [[s/_supernaturalist|supernaturalist]]
 #adjective
 - **Visually [[d/_dazzling|dazzling]]; luminous, lucent, [[c/_clear|clear]], radiant; not [[d/_dark|dark]].**
 	- _Example: Could you please dim the light? It's far too bright._

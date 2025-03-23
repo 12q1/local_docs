@@ -15,7 +15,7 @@
 - **Initialism of [[a/_autonomous|autonomous]] [[c/_county|county]].**
 ---
 ### Antonyms
-- [[DC]]
+- [[D/_DC|DC]]
 #noun
 - **The maximum [[a/_altitude|altitude]] [[a/_above|above]] sea level that an [[a/_aircraft|aircraft]] or missile [[c/_can|can]] maintain horizontal flight under normal [[c/_conditions|conditions]].**
 ---
@@ -31,7 +31,7 @@
 - **In technology, permitting or [[d/_denying|denying]] the use of a particular resource.**
 ---
 ### Synonyms
-- [[AC]]
+- [[A/_AC|AC]]
 #noun
 - **A regularly updated record of transactions [[b/_between|between]] two parties showing what is owed or [[d/_due|due]] to [[e/_each|each]] party or a statement summarising the position**
 ---
@@ -46,7 +46,7 @@
 - **A [[d/_duel|duel]] fought [[b/_between|between]] individual Scots and [[e/_englishmen|Englishmen]] in the [[b/_borderlands|borderlands]].**
 ---
 ### Synonyms
-- [[morgen]], [[feddan]], [[arpen]], [[arpent]], [[pose]], [[bigha]], [[cawney]], [[cawny]], [[Irish acre]], [[collop]], [[plantation acre]], [[juger]], [[jugerum]], [[Scotch acre]], [[Scots acre]], [[Scottish acre]], [[acair]], [[Welsh acre]], [[cover]], [[cyfair]], [[erw]], [[stang]], [[day's math]], [[demath]]
+- [[m/_morgen|morgen]], [[f/_feddan|feddan]], [[a/_arpen|arpen]], [[a/_arpent|arpent]], [[p/_pose|pose]], [[b/_bigha|bigha]], [[c/_cawney|cawney]], [[c/_cawny|cawny]], [[c/_collop|collop]], [[j/_juger|juger]], [[j/_jugerum|jugerum]], [[a/_acair|acair]], [[c/_cover|cover]], [[c/_cyfair|cyfair]], [[e/_erw|erw]], [[s/_stang|stang]], [[d/_demath|demath]]
 #noun
 - **A [[c/_category|category]] of music including soft rock, [[b/_ballads|ballads]], [[e/_easy|easy]] listening, soul, and rhythm and [[b/_blues|blues]].**
 ---
@@ -60,7 +60,7 @@
 ---
 #noun
 - **An [[e/_electric|electric]] [[c/_current|current]] in which the [[d/_direction|direction]] of flow of the [[e/_electrons|electrons]] reverses periodically, such as sawtooth, sinusoidal or square wave [[c/_current|current]].**
-- **An [[e/_electric|electric]] [[c/_current|current]] in which the [[d/_direction|direction]] of flow of the [[e/_electrons|electrons]] reverses periodically by a sinusoidal law, hence having an [[a/_average|average]] of zero, with positive and negative values (with a frequency of 50 Hz in Europe, 60 Hz in the US, 400 Hz for [[a/_airport|airport]] lighting, and some others); especially such a [[c/_current|current]] produced by a rotating generator or [[a/_alternator|alternator]].**
+- **An [[e/_electric|electric]] [[c/_current|current]] in which the [[d/_direction|direction]] of flow of the [[e/_electrons|electrons]] reverses periodically by a sinusoidal law, hence having an [[a/_average|average]] of zero, with positive and negative values (with a frequency of 50 Hz in Europe, 60 Hz in the US, 400 Hz for [[a/_airport|airport]] lighting, and some others); [[e/_especially|especially]] such a [[c/_current|current]] produced by a rotating generator or [[a/_alternator|alternator]].**
 ---
 #noun
 - **A water-soluble salt of [[a/_ammonia|ammonia]] and hydrochloric [[a/_acid|acid]], having the formula NH4Cl.**
@@ -72,9 +72,9 @@
 - **A prefix [[a/_appended|appended]] to a telephone number indicating the geographical [[a/_area|area]].**
 ---
 #noun
-- **One of the [[a/_axioms|axioms]] of set theory, equivalent to the statement that an [[a/_arbitrary|arbitrary]] [[d/_direct|direct]] product of non-[[e/_empty|empty]] sets is non-[[e/_empty|empty]]; [[a/_any|any]] version of said [[a/_axiom|axiom]], for example specifying the [[c/_cardinality|cardinality]] of the number of sets from which [[c/_choices|choices]] are made.**
+- **One of the [[a/_axioms|axioms]] of set theory, [[e/_equivalent|equivalent]] to the statement that an [[a/_arbitrary|arbitrary]] [[d/_direct|direct]] product of non-[[e/_empty|empty]] sets is non-[[e/_empty|empty]]; [[a/_any|any]] version of said [[a/_axiom|axiom]], for example specifying the [[c/_cardinality|cardinality]] of the number of sets from which [[c/_choices|choices]] are made.**
 	- _Example: The axiom of choice is logically equivalent to the assertion that every vector space has a basis._
 ---
 ### Synonyms
-- [[AC]]
+- [[A/_AC|AC]]
 ---

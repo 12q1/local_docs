@@ -7,7 +7,7 @@
 - **To [[c/_cheer|cheer]], to gladden.**
 ---
 ### Antonyms
-- [[despise]]
+- [[d/_despise|despise]]
 #noun
 - **The [[a/_act|act]] by which somebody or something is [[c/_cherished|cherished]].**
 ---

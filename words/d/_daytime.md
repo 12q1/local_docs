@@ -4,16 +4,16 @@
 - **The time of [[d/_daylight|daylight]]; the time [[b/_between|between]] sunrise and sunset.**
 ---
 ### Synonyms
-- [[day]], [[upsun]]
+- [[d/_day|day]], [[u/_upsun|upsun]]
 ### Antonyms
-- [[night]], [[nighttime]]
+- [[n/_night|night]], [[n/_nighttime|nighttime]]
 #adjective
 - **Pertaining to [[d/_daytime|daytime]]; [[a/_appropriate|appropriate]] to the [[d/_day|day]].**
 - **Happening [[d/_during|during]] the [[d/_day|day]].**
 	- _Example: daytime television_
 ---
 ### Synonyms
-- [[day]], [[day]]
+- [[d/_day|day]], [[d/_day|day]]
 ### Antonyms
-- [[evening]], [[night]], [[nighttime]], [[evening]], [[night]], [[nighttime]]
+- [[e/_evening|evening]], [[n/_night|night]], [[n/_nighttime|nighttime]], [[e/_evening|evening]], [[n/_night|night]], [[n/_nighttime|nighttime]]
 ---

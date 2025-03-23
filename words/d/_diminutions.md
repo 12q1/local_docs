@@ -7,5 +7,5 @@
 - **A [[c/_compositional|compositional]] technique where the [[c/_composer|composer]] shortens the melody by shortening its note values.**
 ---
 ### Synonyms
-- [[diminishment]]
+- [[d/_diminishment|diminishment]]
 ---

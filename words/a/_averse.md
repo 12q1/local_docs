@@ -10,5 +10,5 @@
 - **Turned so as to show the [[b/_back|back]], as of a right hand.**
 ---
 ### Synonyms
-- [[disinclined]], [[disliking]], [[fromward]], [[loath]], [[reluctant]], [[unwilling]]
+- [[d/_disinclined|disinclined]], [[d/_disliking|disliking]], [[f/_fromward|fromward]], [[l/_loath|loath]], [[r/_reluctant|reluctant]], [[u/_unwilling|unwilling]]
 ---

@@ -10,7 +10,7 @@
 - **Hard, icy snow which may be [[d/_dangerous|dangerous]] to ski on.**
 ---
 ### Synonyms
-- [[boilerplate code]]
+- 
 #verb
 - **To store (standard text) so that it [[c/_can|can]] [[e/_easily|easily]] be retrieved for reuse.**
 ---

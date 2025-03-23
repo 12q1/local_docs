@@ -5,5 +5,5 @@
 - **The [[d/_dried|dried]] fruits thereof, used as a spice.**
 ---
 ### Synonyms
-- [[Chinese parsley]], [[dhania]]
+- [[d/_dhania|dhania]]
 ---

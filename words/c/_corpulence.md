@@ -4,5 +4,5 @@
 - **The state or [[c/_characteristic|characteristic]] of [[b/_being|being]] [[c/_corpulent|corpulent]].**
 ---
 ### Synonyms
-- [[corpulentness]], [[obesity]], [[pudginess]]
+- [[c/_corpulentness|corpulentness]], [[o/_obesity|obesity]], [[p/_pudginess|pudginess]]
 ---

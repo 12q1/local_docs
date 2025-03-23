@@ -13,5 +13,5 @@
 - **To [[b/_block|block]] or obstruct with a [[b/_barrier|barrier]].**
 ---
 ### Synonyms
-- [[bar]]
+- [[b/_bar|bar]]
 ---

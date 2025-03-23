@@ -5,5 +5,5 @@
 - **A [[b/_basket|basket]] filled with [[e/_earth|earth]] and set up as a protection from the fire of the [[e/_enemy|enemy]].**
 ---
 ### Synonyms
-- [[pannier]]
+- [[p/_pannier|pannier]]
 ---

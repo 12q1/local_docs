@@ -4,7 +4,7 @@
 - **[[a/_abbreviation|Abbreviation]] of [[d/_declare|declare]].**
 ---
 ### Synonyms
-- [[dec]]
+- [[d/_dec|dec]]
 #adverb
 - **From a higher position to a lower one; [[d/_downwards|downwards]].**
 	- _Example: The cat jumped down from the table._
@@ -42,5 +42,5 @@
 	- _Example: He boiled the mixture. / He boiled down the mixture._
 ---
 ### Antonyms
-- [[up]], [[up]], [[up]], [[up]], [[up]], [[across]]
+- [[u/_up|up]], [[u/_up|up]], [[u/_up|up]], [[u/_up|up]], [[u/_up|up]], [[a/_across|across]]
 ---

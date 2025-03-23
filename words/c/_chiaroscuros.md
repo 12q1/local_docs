@@ -7,5 +7,5 @@
 - **A photographic technique in which one side of, for example, a face is well lit and the other is in shadow.**
 ---
 ### Synonyms
-- [[Rembrandt lighting]]
+- 
 ---

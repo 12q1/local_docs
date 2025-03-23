@@ -6,8 +6,8 @@
 - **(by extension) A policy or situation of segregation [[b/_based|based]] on some specified [[a/_attribute|attribute]].**
 ---
 #verb
-- **To impose a policy of segregation of groups of people, especially one [[b/_based|based]] on race.**
+- **To impose a policy of segregation of groups of people, [[e/_especially|especially]] one [[b/_based|based]] on race.**
 ---
 ### Antonyms
-- [[antiapartheid]]
+- [[a/_antiapartheid|antiapartheid]]
 ---

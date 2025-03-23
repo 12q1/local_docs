@@ -7,9 +7,9 @@
 	- _Example: Arm wrestling is undecided as long as the opponents counterbalance each-other_
 ---
 ### Synonyms
-- [[counteract]], [[counterpoise]], [[counterpoise]], [[counterweight]], [[equiponderate]]
+- [[c/_counteract|counteract]], [[c/_counterpoise|counterpoise]], [[c/_counterpoise|counterpoise]], [[c/_counterweight|counterweight]], [[e/_equiponderate|equiponderate]]
 ### Antonyms
-- [[outweigh]], [[overcome]], [[overpower]]
+- [[o/_outweigh|outweigh]], [[o/_overcome|overcome]], [[o/_overpower|overpower]]
 #noun
 - **The [[a/_act|act]] by which something is [[c/_counterbalanced|counterbalanced]].**
 ---

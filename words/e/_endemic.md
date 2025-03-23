@@ -7,13 +7,13 @@
 #adjective
 - **Native to a particular [[a/_area|area]] or [[c/_culture|culture]]; originating where it occurs.**
 	- _Example: The endemic religion of Easter Island arrived with the Polynesian settlers._
-- **(especially of plants and [[a/_animals|animals]]) Peculiar to a particular [[a/_area|area]] or region; not found in other places.**
+- **([[e/_especially|especially]] of plants and [[a/_animals|animals]]) Peculiar to a particular [[a/_area|area]] or region; not found in other places.**
 	- _Example: Kangaroos are endemic to Australia._
-- **(especially of [[d/_diseases|diseases]]) Prevalent in a particular [[a/_area|area]] or region.**
+- **([[e/_especially|especially]] of [[d/_diseases|diseases]]) Prevalent in a particular [[a/_area|area]] or region.**
 	- _Example: Malaria is endemic to the tropics._
 ---
 ### Synonyms
-- [[native]], [[indigenous]]
+- [[n/_native|native]], [[i/_indigenous|indigenous]]
 ### Antonyms
-- [[systemic]], [[alien]], [[introduced]]
+- [[s/_systemic|systemic]], [[a/_alien|alien]], [[i/_introduced|introduced]]
 ---

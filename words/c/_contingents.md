@@ -6,5 +6,5 @@
 - **A quota of troops.**
 ---
 ### Synonyms
-- [[contingency]], [[proportion]]
+- [[c/_contingency|contingency]], [[p/_proportion|proportion]]
 ---

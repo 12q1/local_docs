@@ -4,5 +4,5 @@
 - **A practitioner of [[a/_allopathy|allopathy]]**
 ---
 ### Synonyms
-- [[allopathist]]
+- [[a/_allopathist|allopathist]]
 ---

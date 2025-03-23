@@ -5,5 +5,5 @@
 - **An 8-inch floppy [[d/_disk|disk]].**
 ---
 ### Synonyms
-- [[disk]], [[floppy]], [[floppy disk]], [[floppy diskette]]
+- [[d/_disk|disk]], [[f/_floppy|floppy]]
 ---

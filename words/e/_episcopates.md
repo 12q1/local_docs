@@ -8,5 +8,5 @@
 - **A [[b/_bishop|bishop]]'s jurisdiction, the extent of his [[d/_diocese|diocese]].**
 ---
 ### Synonyms
-- [[bishopdom]], [[bishophood]], [[bishopric]], [[episcopacy]]
+- [[b/_bishopdom|bishopdom]], [[b/_bishophood|bishophood]], [[b/_bishopric|bishopric]], [[e/_episcopacy|episcopacy]]
 ---

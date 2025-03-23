@@ -8,7 +8,7 @@
 - **Worthy of [[b/_being|being]] [[c/_chosen|chosen]] (for marriage)**
 ---
 ### Synonyms
-- [[qualified]]
+- [[q/_qualified|qualified]]
 ### Antonyms
-- [[ineligible]], [[unqualified]]
+- [[i/_ineligible|ineligible]], [[u/_unqualified|unqualified]]
 ---

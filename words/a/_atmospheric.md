@@ -7,5 +7,5 @@
 	- _Example: a dark atmospheric thriller_
 ---
 ### Synonyms
-- [[atmospherical]]
+- [[a/_atmospherical|atmospherical]]
 ---

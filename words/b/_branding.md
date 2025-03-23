@@ -1,9 +1,9 @@
 # Branding
 ---
 #verb
-- **To [[b/_burn|burn]] the flesh with a hot iron, [[e/_either|either]] as a marker (for [[c/_criminals|criminals]], slaves etc.) or to [[c/_cauterise|cauterise]] a wound.**
+- **To [[b/_burn|burn]] the flesh with a hot iron, [[e/_either|either]] as a marker (for [[c/_criminals|criminals]], slaves [[e/_etc|etc]].) or to [[c/_cauterise|cauterise]] a wound.**
 	- _Example: When they caught him, he was branded and then locked up._
-- **To mark (especially [[c/_cattle|cattle]]) with a [[b/_brand|brand]] as proof of ownership.**
+- **To mark ([[e/_especially|especially]] [[c/_cattle|cattle]]) with a [[b/_brand|brand]] as proof of ownership.**
 	- _Example: The ranch hands had to brand every new calf by lunchtime._
 - **To make an indelible impression on the memory or senses.**
 	- _Example: Her face is branded upon my memory._

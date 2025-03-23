@@ -5,5 +5,5 @@
 - **To take the [[b/_ball|ball]] legally from an opposing player.**
 ---
 ### Synonyms
-- [[burglarize]]
+- [[b/_burglarize|burglarize]]
 ---

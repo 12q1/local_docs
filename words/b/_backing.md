@@ -23,9 +23,9 @@
 	- _Example: to back the oars_
 ---
 ### Antonyms
-- [[veer]]
+- [[v/_veer|veer]]
 #noun
-- **Support, especially financial.**
+- **Support, [[e/_especially|especially]] financial.**
 	- _Example: It's a volunteer organization that works with backing from the city and a few grants._
 - **A liner or other material [[a/_added|added]] [[b/_behind|behind]] or underneath.**
 	- _Example: The cardboard backing gives the notebook a little extra stiffness._

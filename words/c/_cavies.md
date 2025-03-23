@@ -12,5 +12,5 @@
 - **A midshipman in the [[e/_east|East]] India service; (by extension) a low-skilled or non-proficient seaman.**
 ---
 ### Synonyms
-- [[cavy]], [[lab rat]]
+- [[c/_cavy|cavy]]
 ---

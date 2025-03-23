@@ -23,5 +23,5 @@
 	- _Example: He stayed collected throughout the ordeal._
 ---
 ### Synonyms
-- [[calm]], [[composed]], [[cool]]
+- [[c/_calm|calm]], [[c/_composed|composed]], [[c/_cool|cool]]
 ---

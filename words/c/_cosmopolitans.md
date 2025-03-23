@@ -6,5 +6,5 @@
 - **A [[b/_butterfly|butterfly]], Vanessa cardui**
 ---
 ### Synonyms
-- [[cosmopolite]]
+- [[c/_cosmopolite|cosmopolite]]
 ---

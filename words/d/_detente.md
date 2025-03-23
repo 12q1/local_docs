@@ -1,8 +1,8 @@
 # Detente
 ---
 #noun
-- **A relaxing of tension, especially [[b/_between|between]] [[c/_countries|countries]].**
+- **A relaxing of tension, [[e/_especially|especially]] [[b/_between|between]] [[c/_countries|countries]].**
 ---
 ### Antonyms
-- [[containment]], [[regime change]], [[rollback]]
+- [[c/_containment|containment]], [[r/_rollback|rollback]]
 ---

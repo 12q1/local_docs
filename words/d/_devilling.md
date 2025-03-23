@@ -7,7 +7,7 @@
 - **To prepare (food) with spices, making it spicy:**
 ---
 ### Synonyms
-- [[bedevil]]
+- [[b/_bedevil|bedevil]]
 #noun
 - **The pupillage of a prospective [[a/_advocate|advocate]] or [[b/_barrister|barrister]].**
 ---

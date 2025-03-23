@@ -14,7 +14,7 @@
 - **To obtain a payout from a tournament.**
 ---
 #noun
-- **[[a/_any|Any]] of several low-[[d/_denomination|denomination]] [[c/_coins|coins]] of India, [[c/_china|China]], or Vietnam, especially the [[c/_chinese|Chinese]] [[c/_copper|copper]] [[c/_coin|coin]].**
+- **[[a/_any|Any]] of several low-[[d/_denomination|denomination]] [[c/_coins|coins]] of India, [[c/_china|China]], or Vietnam, [[e/_especially|especially]] the [[c/_chinese|Chinese]] [[c/_copper|copper]] [[c/_coin|coin]].**
 ---
 #verb
 - **To [[d/_disband|disband]]. To [[d/_do|do]] [[a/_away|away]] with, kill**

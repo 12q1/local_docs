@@ -6,5 +6,5 @@
 	- _Example: US President Abraham Lincoln was called the Great Emancipator after issuing the Emancipation Proclamation in 1863._
 ---
 ### Synonyms
-- [[manumission]]
+- [[m/_manumission|manumission]]
 ---

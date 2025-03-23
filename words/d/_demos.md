@@ -16,5 +16,5 @@
 - **[[d/_demolition|Demolition]].**
 ---
 ### Synonyms
-- [[demonstration]], [[march]], [[floor model]]
+- [[d/_demonstration|demonstration]], [[m/_march|march]]
 ---

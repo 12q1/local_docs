@@ -7,5 +7,5 @@
 - **The forearm; the [[a/_arm|arm]] from the [[e/_elbow|elbow]] to fingertip, or the [[c/_corresponding|corresponding]] portion of a jointed limb of an [[a/_animal|animal]] that uses the limb for locomotion or grasping.**
 ---
 ### Synonyms
-- [[Cu]]
+- [[C/_Cu|Cu]]
 ---

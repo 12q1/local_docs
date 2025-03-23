@@ -8,7 +8,7 @@
 - **A group of related web sites that link to [[e/_each|each]] other, like a webring but with exclusive membership [[d/_determined|determined]] by the [[c/_clique|clique]] owner.**
 ---
 ### Synonyms
-- [[camp]], [[coterie]], [[ingroup]], [[inner circle]]
+- [[c/_camp|camp]], [[c/_coterie|coterie]], [[i/_ingroup|ingroup]]
 #verb
 - **To [[a/_associate|associate]] together in a [[c/_clannish|clannish]] way; to [[a/_act|act]] with others secretly to gain a [[d/_desired|desired]] [[e/_end|end]]; to plot.**
 ---

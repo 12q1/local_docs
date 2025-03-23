@@ -10,7 +10,7 @@
 - **Modern, of the present [[a/_age|age]].**
 ---
 ### Synonyms
-- [[contemporaneous]], [[current]]
+- [[c/_contemporaneous|contemporaneous]], [[c/_current|current]]
 ### Antonyms
-- [[anachronistic]], [[archaic]], [[coming]]
+- [[a/_anachronistic|anachronistic]], [[a/_archaic|archaic]], [[c/_coming|coming]]
 ---

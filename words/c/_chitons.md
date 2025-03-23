@@ -7,5 +7,5 @@
 - **[[a/_any|Any]] of various rock-[[c/_clinging|clinging]] marine molluscs of the [[c/_class|class]] Polyplacophora, including the genus [[c/_chiton|Chiton]].**
 ---
 ### Synonyms
-- [[coat-of-mail shell]], [[loricate]], [[polyplacophoran]], [[polyplacophore]], [[sea cradle]]
+- [[l/_loricate|loricate]], [[p/_polyplacophoran|polyplacophoran]], [[p/_polyplacophore|polyplacophore]]
 ---

@@ -2,9 +2,9 @@
 ---
 #noun
 - **The [[d/_descriptive|descriptive]] heading or title of a [[d/_document|document]] or part therof**
-- **A title or [[b/_brief|brief]] explanation [[a/_attached|attached]] to an illustration, [[c/_cartoon|cartoon]], user interface [[e/_element|element]], etc.**
+- **A title or [[b/_brief|brief]] explanation [[a/_attached|attached]] to an illustration, [[c/_cartoon|cartoon]], user interface [[e/_element|element]], [[e/_etc|etc]].**
 - **A piece of text [[a/_appearing|appearing]] on screen as subtitle or other part of a film or [[b/_broadcast|broadcast]].**
 - **The section on an official paper that [[d/_describes|describes]] when, where, what was taken, found or executed, and by whom it was [[a/_authorized|authorized]].**
-- **A seizure or [[c/_capture|capture]], especially of tangible property ([[c/_chattel|chattel]]).**
+- **A seizure or [[c/_capture|capture]], [[e/_especially|especially]] of tangible property ([[c/_chattel|chattel]]).**
 ---
 ---

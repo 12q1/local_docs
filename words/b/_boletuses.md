@@ -4,5 +4,5 @@
 - **An [[e/_edible|edible]] mushroom of genus [[b/_boletus|Boletus]].**
 ---
 ### Synonyms
-- [[bolete]], [[cep]], [[porcini]]
+- [[b/_bolete|bolete]], [[c/_cep|cep]], [[p/_porcini|porcini]]
 ---

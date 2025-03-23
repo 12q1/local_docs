@@ -5,5 +5,5 @@
 - **Of or pertaining to the [[a/_appendix|appendix]].**
 ---
 ### Synonyms
-- [[appendiceal]]
+- [[a/_appendiceal|appendiceal]]
 ---

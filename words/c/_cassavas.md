@@ -5,5 +5,5 @@
 - **Tapioca, a starchy pulp made with manioc roots.**
 ---
 ### Synonyms
-- [[yuca]]
+- [[y/_yuca|yuca]]
 ---

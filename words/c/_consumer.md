@@ -9,5 +9,5 @@
 - **An organism (heterotroph) that uses other organisms for food in order to gain [[e/_energy|energy]].**
 ---
 ### Antonyms
-- [[producer]], [[producer]]
+- [[p/_producer|producer]], [[p/_producer|producer]]
 ---

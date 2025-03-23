@@ -9,5 +9,5 @@
 - **To talk much and idly; to [[c/_chatter|chatter]].**
 ---
 ### Synonyms
-- [[bargain]], [[barter]], [[haggle]], [[negotiate]]
+- [[b/_bargain|bargain]], [[b/_barter|barter]], [[h/_haggle|haggle]], [[n/_negotiate|negotiate]]
 ---

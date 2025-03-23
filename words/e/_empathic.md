@@ -5,7 +5,7 @@
 - **Of, pertaining to, or [[b/_being|being]] an empath: of or having the [[c/_capability|capability]] of sensing the [[e/_emotions|emotions]] of others.**
 ---
 ### Synonyms
-- [[empathetic]]
+- [[e/_empathetic|empathetic]]
 ### Antonyms
-- [[apathetic]]
+- [[a/_apathetic|apathetic]]
 ---

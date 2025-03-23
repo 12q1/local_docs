@@ -10,13 +10,13 @@
 	- _Example: That obscure author's fans were a nerdy crowd which hardly ever interacted before the Internet age._
 ---
 ### Synonyms
-- [[audience]], [[group]], [[multitude]], [[public]], [[swarm]], [[throng]], [[aggregation]], [[cluster]], [[group]], [[mass]], [[everyone]], [[general public]], [[masses]], [[mob]], [[rabble]], [[unwashed]]
+- [[a/_audience|audience]], [[g/_group|group]], [[m/_multitude|multitude]], [[p/_public|public]], [[s/_swarm|swarm]], [[t/_throng|throng]], [[a/_aggregation|aggregation]], [[c/_cluster|cluster]], [[g/_group|group]], [[m/_mass|mass]], [[e/_everyone|everyone]], [[m/_masses|masses]], [[m/_mob|mob]], [[r/_rabble|rabble]], [[u/_unwashed|unwashed]]
 #verb
 - **To press forward; to [[a/_advance|advance]] by pushing.**
 	- _Example: The man crowded into the packed room._
 - **To press together or [[c/_collect|collect]] in numbers**
 	- _Example: They crowded through the archway and into the park._
-- **To press or [[d/_drive|drive]] together, especially into a small space; to [[c/_cram|cram]].**
+- **To press or [[d/_drive|drive]] together, [[e/_especially|especially]] into a small space; to [[c/_cram|cram]].**
 	- _Example: He tried to crowd too many cows into the cow-pen._
 - **To fill by pressing or thronging together**
 - **(often used with "out of" or "off") To push, to press, to shove.**
@@ -26,7 +26,7 @@
 - **To press by solicitation; to urge; to [[d/_dun|dun]]; hence, to treat [[d/_discourteously|discourteously]] or unreasonably.**
 ---
 ### Synonyms
-- [[crowd in]], [[swarm]], [[throng]]
+- [[s/_swarm|swarm]], [[t/_throng|throng]]
 #noun
 - **(now [[d/_dialectal|dialectal]]) A fiddle.**
 ---
@@ -37,5 +37,5 @@
 - **An [[a/_archaic|archaic]] stringed instrument [[a/_associated|associated]] particularly with Wales, though once played widely in Europe, and [[c/_characterized|characterized]] by a vaulted [[b/_back|back]] and [[e/_enough|enough]] space for the player to stop [[e/_each|each]] of the six strings on the fingerboard.**
 ---
 ### Synonyms
-- [[rote]]
+- [[r/_rote|rote]]
 ---

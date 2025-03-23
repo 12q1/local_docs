@@ -6,5 +6,5 @@
 - **[[d/_disorder|Disorder]]; irregularity.**
 ---
 ### Synonyms
-- [[ataxy]], [[dystaxia]], [[dystaxia]]
+- [[a/_ataxy|ataxy]], [[d/_dystaxia|dystaxia]], [[d/_dystaxia|dystaxia]]
 ---

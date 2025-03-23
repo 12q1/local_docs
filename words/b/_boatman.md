@@ -4,5 +4,5 @@
 - **A man in [[c/_charge|charge]] of a small [[b/_boat|boat]].**
 ---
 ### Synonyms
-- [[boater]], [[boatsman]]
+- [[b/_boater|boater]], [[b/_boatsman|boatsman]]
 ---

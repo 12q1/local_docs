@@ -5,5 +5,5 @@
 - **A plant or fungus, or part thereof, which is [[b/_bisexual|bisexual]].**
 ---
 ### Synonyms
-- [[bi]]
+- [[b/_bi|bi]]
 ---

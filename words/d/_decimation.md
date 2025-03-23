@@ -7,5 +7,5 @@
 - **The [[c/_creation|creation]] of a new sequence [[c/_comprising|comprising]] only every nth [[e/_element|element]] of a source sequence.**
 ---
 ### Synonyms
-- [[tithing]], [[tithe]]
+- [[t/_tithing|tithing]], [[t/_tithe|tithe]]
 ---

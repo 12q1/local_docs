@@ -11,10 +11,10 @@
 - **(sometimes reflexive) To [[c/_calm|calm]]; to free from [[a/_agitation|agitation]].**
 	- _Example: The defendant couldn't compose herself and was found in contempt._
 - **To [[a/_arrange|arrange]] the [[e/_elements|elements]] of a photograph or other picture.**
-- **To settle (an [[a/_argument|argument]], [[d/_dispute|dispute]] etc.); to [[c/_come|come]] to a settlement.**
+- **To settle (an [[a/_argument|argument]], [[d/_dispute|dispute]] [[e/_etc|etc]].); to [[c/_come|come]] to a settlement.**
 - **To [[a/_arrange|arrange]] in proper form; to reduce to order; to put in proper state or [[c/_condition|condition]].**
 - **To [[a/_arrange|arrange]] (types) in a [[c/_composing|composing]] stick for printing; to typeset.**
 ---
 ### Synonyms
-- [[constitute]], [[form]]
+- [[c/_constitute|constitute]], [[f/_form|form]]
 ---

@@ -6,7 +6,7 @@
 - **A [[c/_combination|combination]]**
 ---
 ### Synonyms
-- [[kombinat]]
+- [[k/_kombinat|kombinat]]
 #verb
 - **To [[b/_bring|bring]] (two or more things or [[a/_activities|activities]]) together; to unite.**
 	- _Example: Combine the milk and the hot water in a large bowl.   I'm combining business and pleasure on this trip._
@@ -18,5 +18,5 @@
 - **To [[b/_bind|bind]]; to hold by a moral tie.**
 ---
 ### Antonyms
-- [[disunite]], [[divide]], [[separate]]
+- [[d/_disunite|disunite]], [[d/_divide|divide]], [[s/_separate|separate]]
 ---

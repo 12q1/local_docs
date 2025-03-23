@@ -9,5 +9,5 @@
 - **Slow or [[d/_deficient|deficient]] in feeling: insensitive.**
 ---
 ### Synonyms
-- [[brusque]], [[curt]], [[harsh]], [[impolite]], [[rude]], [[short]], [[uncivil]], [[obtuse]], [[stupid]], [[coarse]], [[dull]], [[pointless]]
+- [[b/_brusque|brusque]], [[c/_curt|curt]], [[h/_harsh|harsh]], [[i/_impolite|impolite]], [[r/_rude|rude]], [[s/_short|short]], [[u/_uncivil|uncivil]], [[o/_obtuse|obtuse]], [[s/_stupid|stupid]], [[c/_coarse|coarse]], [[d/_dull|dull]], [[p/_pointless|pointless]]
 ---

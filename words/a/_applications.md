@@ -19,5 +19,5 @@
 - **[[c/_compliance|Compliance]].**
 ---
 ### Synonyms
-- [[app]], [[program]], [[software]]
+- [[a/_app|app]], [[p/_program|program]], [[s/_software|software]]
 ---

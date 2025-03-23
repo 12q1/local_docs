@@ -12,5 +12,5 @@
 	- _Example: a beleaguered ego_
 ---
 ### Antonyms
-- [[unbeleaguered]]
+- [[u/_unbeleaguered|unbeleaguered]]
 ---

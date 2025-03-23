@@ -7,6 +7,6 @@
 - **The olecranon.**
 ---
 #noun
-- **An [[a/_altarpiece|altarpiece]], especially one of multiple [[c/_connected|connected]] pictures**
+- **An [[a/_altarpiece|altarpiece]], [[e/_especially|especially]] one of multiple [[c/_connected|connected]] pictures**
 ---
 ---

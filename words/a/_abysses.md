@@ -6,10 +6,10 @@
 - **[[a/_anything|Anything]] infinite, immeasurable, or profound.**
 - **Moral [[d/_depravity|depravity]]; vast intellectual or moral [[d/_depth|depth]].**
 - **An impending [[c/_catastrophic|catastrophic]] happening.**
-- **The [[c/_center|center]] of an escutcheon.**
+- **The [[c/_center|center]] of an [[e/_escutcheon|escutcheon]].**
 - **The [[a/_abyssal|abyssal]] zone.**
-- **A [[d/_difference|difference]], especially a large [[d/_difference|difference]], [[b/_between|between]] groups.**
+- **A [[d/_difference|difference]], [[e/_especially|especially]] a large [[d/_difference|difference]], [[b/_between|between]] groups.**
 ---
 ### Synonyms
-- [[gulf]]
+- [[g/_gulf|gulf]]
 ---

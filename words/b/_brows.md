@@ -12,5 +12,5 @@
 - **The hinged part of a landing [[c/_craft|craft]] or ferry which is lowered to form a landing platform; a ramp.**
 ---
 ### Synonyms
-- [[forehead]]
+- [[f/_forehead|forehead]]
 ---

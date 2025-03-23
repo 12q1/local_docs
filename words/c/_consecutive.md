@@ -10,5 +10,5 @@
 - **Having some logical sequence**
 ---
 ### Antonyms
-- [[nonconsecutive]], [[simultaneously]]
+- [[n/_nonconsecutive|nonconsecutive]], [[s/_simultaneously|simultaneously]]
 ---

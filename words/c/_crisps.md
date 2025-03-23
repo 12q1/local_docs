@@ -7,5 +7,5 @@
 	- _Example: kale crisps_
 ---
 ### Synonyms
-- [[potato chip]], [[potato crisp]], [[crumble]], [[crunch]]
+- [[c/_crumble|crumble]], [[c/_crunch|crunch]]
 ---

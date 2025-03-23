@@ -1,7 +1,7 @@
 # Diplomatic
 ---
 #noun
-- **The science of [[d/_diplomas|diplomas]], or the [[a/_art|art]] of [[d/_deciphering|deciphering]] [[a/_ancient|ancient]] writings and [[d/_determining|determining]] their [[a/_age|age]], [[a/_authenticity|authenticity]], etc.; paleography.**
+- **The science of [[d/_diplomas|diplomas]], or the [[a/_art|art]] of [[d/_deciphering|deciphering]] [[a/_ancient|ancient]] writings and [[d/_determining|determining]] their [[a/_age|age]], [[a/_authenticity|authenticity]], [[e/_etc|etc]].; paleography.**
 ---
 #adjective
 - **[[c/_concerning|Concerning]] the relationships [[b/_between|between]] the governments of [[c/_countries|countries]].**

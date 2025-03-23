@@ -7,7 +7,7 @@
 - **(skydiving) A large, organised skydiving event.**
 ---
 ### Synonyms
-- [[booger]]
+- [[b/_booger|booger]]
 #verb
 - **To [[d/_dance|dance]] a [[b/_boogie|boogie]].**
 - **To move, walk, leave, exit.**

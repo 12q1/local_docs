@@ -7,5 +7,5 @@
 	- _Example: She was able to take analgesia orally._
 ---
 ### Synonyms
-- [[analgia]]
+- [[a/_analgia|analgia]]
 ---

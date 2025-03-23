@@ -6,5 +6,5 @@
 - **To [[b/_become|become]] [[b/_better|better]]; improve.**
 ---
 ### Antonyms
-- [[deteriorate]], [[worsen]]
+- [[d/_deteriorate|deteriorate]], [[w/_worsen|worsen]]
 ---

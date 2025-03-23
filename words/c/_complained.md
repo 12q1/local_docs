@@ -9,5 +9,5 @@
 	- _Example: the complaining bed-springs_
 ---
 ### Synonyms
-- [[beef]], [[bitch]], [[gripe]], [[grouse]], [[grumble]], [[grump]], [[kvetch]], [[moan]], [[whine]], [[whinge]]
+- [[b/_beef|beef]], [[b/_bitch|bitch]], [[g/_gripe|gripe]], [[g/_grouse|grouse]], [[g/_grumble|grumble]], [[g/_grump|grump]], [[k/_kvetch|kvetch]], [[m/_moan|moan]], [[w/_whine|whine]], [[w/_whinge|whinge]]
 ---

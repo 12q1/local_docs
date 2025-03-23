@@ -12,5 +12,5 @@
 	- _Example: Cooee! I'm over here!_
 ---
 ### Synonyms
-- [[ahoy]], [[hey]], [[oi]], [[yoohoo]]
+- [[a/_ahoy|ahoy]], [[h/_hey|hey]], [[o/_oi|oi]], [[y/_yoohoo|yoohoo]]
 ---

@@ -9,11 +9,11 @@
 - **The game of "trap and [[b/_ball|ball]]" ([[a/_also|also]] [[c/_called|called]] "[[c/_cat|cat]] and [[d/_dog|dog]]").**
 - **The pointed piece of wood that is struck in the game of tipcat.**
 - **A vagina, a vulva; the female external genitalia.**
-- **A [[d/_double|double]] tripod (for holding a plate, etc.) with six feet, of which three rest on the ground, in whatever position it is placed.**
+- **A [[d/_double|double]] tripod (for holding a plate, [[e/_etc|etc]].) with six feet, of which three rest on the ground, in whatever position it is placed.**
 - **A wheeled shelter, used in the Middle [[a/_ages|Ages]] as a siege weapon to [[a/_allow|allow]] [[a/_assailants|assailants]] to [[a/_approach|approach]] [[e/_enemy|enemy]] [[d/_defences|defences]].**
 ---
 ### Synonyms
-- [[saber-tooth]], [[saber-toothed cat]], [[feline]], [[feline cat]], [[pantherine]], [[pantherine cat]], [[Caniformia]], [[carnivoran]], [[cat-like]], [[feliform]], [[feloid]], [[jaguar]], [[leopard]], [[lion]], [[panther]], [[tiger]], [[Welsh cat]], [[tortoise]], [[felid]]
+- [[s/_saber-tooth|saber-tooth]], [[f/_feline|feline]], [[p/_pantherine|pantherine]], [[C/_Caniformia|Caniformia]], [[c/_carnivoran|carnivoran]], [[c/_cat-like|cat-like]], [[f/_feliform|feliform]], [[f/_feloid|feloid]], [[j/_jaguar|jaguar]], [[l/_leopard|leopard]], [[l/_lion|lion]], [[p/_panther|panther]], [[t/_tiger|tiger]], [[t/_tortoise|tortoise]], [[f/_felid|felid]]
 #verb
 - **To hoist (the [[a/_anchor|anchor]]) by its ring so that it hangs at the [[c/_cathead|cathead]].**
 - **To flog with a [[c/_cat|cat]]-o'-nine-tails.**
@@ -34,7 +34,7 @@
 ---
 #noun
 - **[[a/_any|Any]] of a variety of [[e/_earth|earth]]-moving machines. (from their manufacturer [[c/_caterpillar|Caterpillar]] Inc.)**
-- **A [[c/_caterpillar|caterpillar]] [[d/_drive|drive]] vehicle (a ground vehicle which uses [[c/_caterpillar|caterpillar]] tracks), especially tractors, trucks, minibuses, and snow groomers.**
+- **A [[c/_caterpillar|caterpillar]] [[d/_drive|drive]] vehicle (a ground vehicle which uses [[c/_caterpillar|caterpillar]] tracks), [[e/_especially|especially]] tractors, trucks, minibuses, and snow groomers.**
 ---
 #noun
 - **A twin-hulled ship or [[b/_boat|boat]].**
@@ -43,7 +43,7 @@
 - **An old kind of fireship.**
 ---
 ### Synonyms
-- [[twinhull]]
+- [[t/_twinhull|twinhull]]
 #noun
 - **A group, often named or numbered, to which items are [[a/_assigned|assigned]] [[b/_based|based]] on similarity or [[d/_defined|defined]] [[c/_criteria|criteria]].**
 	- _Example: I wouldn't put this book in the same category as the author's first novel._
@@ -51,12 +51,12 @@
 	- _Example: Just as a monoid consists of an underlying set with a binary operation "on top of it" which is closed, associative and with an identity, a category consists of an underlying digraph with an arrow composition operation "on top of it" which is transitively closed, associative, and with an identity at each object. In fact, a category's composition operation, when restricted to a single one of its objects, turns that object's set of arrows (which would all be loops) into a monoid._
 ---
 ### Synonyms
-- [[class]], [[family]], [[genus]], [[group]], [[kingdom]], [[order]], [[phylum]], [[race]], [[tribe]], [[type]]
+- [[c/_class|class]], [[f/_family|family]], [[g/_genus|genus]], [[g/_group|group]], [[k/_kingdom|kingdom]], [[o/_order|order]], [[p/_phylum|phylum]], [[r/_race|race]], [[t/_tribe|tribe]], [[t/_type|type]]
 #noun
 - **[[a/_any|Any]] fish of the order Siluriformes, mainly found in fresh water, lacking scales, and having [[b/_barbels|barbels]] like whiskers [[a/_around|around]] the mouth**
 ---
 ### Synonyms
-- [[catlet]], [[sheat]], [[sheatfish]]
+- [[c/_catlet|catlet]], [[s/_sheat|sheat]], [[s/_sheatfish|sheatfish]]
 #noun
 - **Someone who [[c/_creates|creates]] a fake profile on a social media platform in order to [[d/_deceive|deceive]] people.**
 - **Such a fake profile.**

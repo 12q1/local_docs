@@ -8,5 +8,5 @@
 - **Fresh and innocent.**
 ---
 ### Synonyms
-- [[bedewed]], [[rory]]
+- [[b/_bedewed|bedewed]], [[r/_rory|rory]]
 ---

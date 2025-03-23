@@ -12,7 +12,7 @@
 - **A foreign word that has [[b/_become|become]] naturalised in [[a/_another|another]] language.**
 ---
 ### Synonyms
-- [[dweller]], [[inhabitant]], [[native]], [[resident]], [[regular]]
+- [[d/_dweller|dweller]], [[i/_inhabitant|inhabitant]], [[n/_native|native]], [[r/_resident|resident]], [[r/_regular|regular]]
 #verb
 - **To grant rights of [[c/_citizenship|citizenship]] to; to naturalize.**
 	- _Example: He was denizened to Ireland after fleeing his home country._

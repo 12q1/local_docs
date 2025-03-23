@@ -4,5 +4,5 @@
 - **The state of [[b/_being|being]] [[d/_desirable|desirable]].**
 ---
 ### Antonyms
-- [[undesirability]]
+- [[u/_undesirability|undesirability]]
 ---

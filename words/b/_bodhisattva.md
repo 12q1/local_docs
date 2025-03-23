@@ -5,5 +5,5 @@
 - **An [[e/_enlightened|enlightened]] [[b/_being|being]] existing in a form of existence [[b/_beyond|beyond]] the ordinary forms of physical reality understood and [[a/_acknowledged|acknowledged]] by scientific thought, resembling the Western notion of [[a/_angels|angels]], but with a wealth of its own nuances and expectations. These include the [[c/_compassionate|compassionate]] working for [[e/_enlightenment|enlightenment]] of [[a/_all|all]] sentient [[b/_beings|beings]].**
 ---
 ### Synonyms
-- [[mahasattva]]
+- [[m/_mahasattva|mahasattva]]
 ---

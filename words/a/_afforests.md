@@ -5,7 +5,7 @@
 	- _Example: After we leave the quarry, we intend to afforest the land and turn it into a nature reserve._
 ---
 ### Synonyms
-- [[forest]]
+- [[f/_forest|forest]]
 ### Antonyms
-- [[deforest]]
+- [[d/_deforest|deforest]]
 ---

@@ -11,7 +11,7 @@
 - **(grammar) A verb that indicates [[c/_continued|continued]] or progressive [[a/_action|action]] on the part of the subject.**
 ---
 ### Synonyms
-- [[apparatus]], [[course of action]], [[design]], [[effect]], [[function]], [[functioning]], [[implementation]], [[interchange]], [[interplay]], [[mechanism]], [[method]], [[modus operandi]], [[motif]], [[nature]], [[operation]], [[pattern]], [[process]], [[regimen]], [[workings]]
+- [[a/_apparatus|apparatus]], [[d/_design|design]], [[e/_effect|effect]], [[f/_function|function]], [[f/_functioning|functioning]], [[i/_implementation|implementation]], [[i/_interchange|interchange]], [[i/_interplay|interplay]], [[m/_mechanism|mechanism]], [[m/_method|method]], [[m/_motif|motif]], [[n/_nature|nature]], [[o/_operation|operation]], [[p/_pattern|pattern]], [[p/_process|process]], [[r/_regimen|regimen]], [[w/_workings|workings]]
 #adjective
 - **[[c/_changing|Changing]]; [[a/_active|active]]; in motion.**
 	- _Example: The environment is dynamic, changing with the years and the seasons._
@@ -26,7 +26,7 @@
 - **(grammar) Of a verb: not stative, but fientive; indicating [[c/_continued|continued]] or progressive [[a/_action|action]] on the part of the subject.**
 ---
 ### Synonyms
-- [[active]], [[fluid]], [[moving]], [[energetic]], [[powerful]]
+- [[a/_active|active]], [[f/_fluid|fluid]], [[m/_moving|moving]], [[e/_energetic|energetic]], [[p/_powerful|powerful]]
 ### Antonyms
-- [[static]], [[static]]
+- [[s/_static|static]], [[s/_static|static]]
 ---

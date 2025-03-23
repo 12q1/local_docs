@@ -5,5 +5,5 @@
 - **One who [[a/_abuses|abuses]] [[a/_alcohol|alcohol]].**
 ---
 ### Antonyms
-- [[on the wagon]], [[teetotaler]]
+- [[t/_teetotaler|teetotaler]]
 ---

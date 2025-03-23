@@ -7,5 +7,5 @@
 - **A touch-sensitive strip, similar to an [[e/_electronic|electronic]] standard musical keyboard, except that the note steps are 1/100 of a semitone, and so are not separately marked.**
 ---
 ### Synonyms
-- [[ℝ]]
+- [[ℝ/_ℝ|ℝ]]
 ---

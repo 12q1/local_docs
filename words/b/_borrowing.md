@@ -15,9 +15,9 @@
 	- _Example: Can I borrow a sheet of paper?_
 ---
 ### Synonyms
-- [[adopt]], [[use]]
+- [[a/_adopt|adopt]], [[u/_use|use]]
 ### Antonyms
-- [[carry]], [[give back]], [[lend]], [[return]]
+- [[c/_carry|carry]], [[l/_lend|lend]], [[r/_return|return]]
 #noun
 - **An instance of something [[b/_being|being]] [[b/_borrowed|borrowed]].**
 - **A [[b/_borrowed|borrowed]] word, [[a/_adopted|adopted]] from a foreign language; loanword.**

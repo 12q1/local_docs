@@ -5,5 +5,5 @@
 - **An old woman, particularly an ugly one.**
 ---
 ### Synonyms
-- [[crone]], [[hag]], [[harridan]]
+- [[c/_crone|crone]], [[h/_hag|hag]], [[h/_harridan|harridan]]
 ---

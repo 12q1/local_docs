@@ -21,5 +21,5 @@
 	- _Example: We flew on a budget airline._
 ---
 ### Synonyms
-- [[low-cost]]
+- [[l/_low-cost|low-cost]]
 ---

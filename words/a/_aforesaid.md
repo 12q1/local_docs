@@ -4,7 +4,7 @@
 - **Previously stated; said or named [[b/_before|before]].**
 ---
 ### Synonyms
-- [[abovementioned]], [[abovesaid]], [[aforementioned]], [[mentioned]]
+- [[a/_abovementioned|abovementioned]], [[a/_abovesaid|abovesaid]], [[a/_aforementioned|aforementioned]], [[m/_mentioned|mentioned]]
 ### Antonyms
-- [[following]]
+- [[f/_following|following]]
 ---

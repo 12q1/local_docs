@@ -10,5 +10,5 @@
 - **(by extension) A female [[c/_character|character]] of a [[c/_creator|creator]].**
 ---
 ### Antonyms
-- [[father]], [[mother]], [[parent]], [[son]]
+- [[f/_father|father]], [[m/_mother|mother]], [[p/_parent|parent]], [[s/_son|son]]
 ---

@@ -4,7 +4,7 @@
 - **The [[a/_act|act]] or process of (physically or figuratively) [[a/_attaching|attaching]].**
 - **A strong [[b/_bonding|bonding]] with or fondness for someone or something.**
 	- _Example: I have such an attachment towards my fiancé!_
-- **A [[d/_dependence|dependence]], especially a strong one.**
+- **A [[d/_dependence|dependence]], [[e/_especially|especially]] a strong one.**
 - **A [[d/_device|device]] [[a/_attached|attached]] to a piece of [[e/_equipment|equipment]] or a tool.**
 - **The means by which something is physically [[a/_attached|attached]].**
 - **A file sent [[a/_along|along]] with an [[e/_email|email]].**

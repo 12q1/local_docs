@@ -19,7 +19,7 @@
 	- _Example: On the Wagner piece, the orchestra was cooking!_
 ---
 ### Synonyms
-- [[cook off]], [[bake]], [[stew]]
+- [[b/_bake|bake]], [[s/_stew|stew]]
 #verb
 - **To make the noise of the [[c/_cuckoo|cuckoo]].**
 ---
@@ -34,5 +34,5 @@
 - **[[d/_done|Done]] in, [[d/_defeated|defeated]], hopeless.**
 ---
 ### Antonyms
-- [[raw]], [[uncooked]]
+- [[r/_raw|raw]], [[u/_uncooked|uncooked]]
 ---

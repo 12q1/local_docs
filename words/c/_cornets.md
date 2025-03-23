@@ -8,10 +8,10 @@
 - **A kind of organ stop.**
 ---
 ### Synonyms
-- [[cornet-à-piston]], [[cornet-à-pistons]]
+- [[c/_cornet-à-piston|cornet-à-piston]], [[c/_cornet-à-pistons|cornet-à-pistons]]
 #noun
 - **The white headdress worn by the Sisters of [[c/_charity|Charity]].**
 - **The standard flown by a [[c/_cavalry|cavalry]] troop.**
-- **The fifth [[c/_commissioned|commissioned]] officer in a [[c/_cavalry|cavalry]] troop, who [[c/_carried|carried]] the [[c/_colours|colours]] (equivalent to the [[e/_ensign|ensign]] in infantry).**
+- **The fifth [[c/_commissioned|commissioned]] officer in a [[c/_cavalry|cavalry]] troop, who [[c/_carried|carried]] the [[c/_colours|colours]] ([[e/_equivalent|equivalent]] to the [[e/_ensign|ensign]] in infantry).**
 ---
 ---

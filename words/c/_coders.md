@@ -6,5 +6,5 @@
 - **A programmer.**
 ---
 ### Synonyms
-- [[programmer]]
+- [[p/_programmer|programmer]]
 ---

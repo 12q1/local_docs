@@ -8,5 +8,5 @@
 - **To [[c/_come|come]] into existence.**
 ---
 ### Synonyms
-- [[commence]], [[initiate]], [[start]]
+- [[c/_commence|commence]], [[i/_initiate|initiate]], [[s/_start|start]]
 ---

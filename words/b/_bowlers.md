@@ -7,10 +7,10 @@
 - **(1800s) The pitcher.**
 ---
 ### Synonyms
-- [[pitcher]]
+- [[p/_pitcher|pitcher]]
 #noun
 - **A [[b/_bowler|bowler]] hat; a round [[b/_black|black]] hat formerly popular [[a/_among|among]] [[b/_british|British]] [[b/_businessmen|businessmen]].**
 ---
 ### Synonyms
-- [[derby]]
+- [[d/_derby|derby]]
 ---

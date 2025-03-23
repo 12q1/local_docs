@@ -9,5 +9,5 @@
 - **To spread out, to unfurl.**
 ---
 ### Synonyms
-- [[splay]]
+- [[s/_splay|splay]]
 ---

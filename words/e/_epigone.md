@@ -5,5 +5,5 @@
 - **An undistinguished or inferior imitator of a well known [[a/_artist|artist]] or their style.**
 ---
 ### Synonyms
-- [[imitator]]
+- [[i/_imitator|imitator]]
 ---

@@ -7,5 +7,5 @@
 	- _Example: The store provided a veritable cornucopia of modern gadgets._
 ---
 ### Synonyms
-- [[horn of plenty]]
+- 
 ---

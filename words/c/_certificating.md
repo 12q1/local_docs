@@ -1,6 +1,6 @@
 # Certificating
 ---
 #verb
-- **To supply with a [[c/_certificate|certificate]], especially following [[c/_certification|certification]]**
+- **To supply with a [[c/_certificate|certificate]], [[e/_especially|especially]] following [[c/_certification|certification]]**
 ---
 ---

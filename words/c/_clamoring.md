@@ -12,7 +12,7 @@
 - **To silence.**
 ---
 ### Synonyms
-- [[din]]
+- [[d/_din|din]]
 #noun
 - **A sound that [[c/_clamors|clamors]].**
 ---

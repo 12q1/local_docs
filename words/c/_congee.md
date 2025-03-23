@@ -10,6 +10,6 @@
 #verb
 - **To give [[c/_congee|congee]], (particularly)**
 - **To take [[c/_congee|congee]]: to leave [[c/_ceremoniously|ceremoniously]].**
-- **To make a [[c/_congee|congee]]: to [[b/_bow|bow]], [[c/_curtsey|curtsey]], etc., (particularly [[d/_dialectal|dialectal]]) while leaving; to make obeissance, show respect, or [[d/_defer|defer]] to someone or something.**
+- **To make a [[c/_congee|congee]]: to [[b/_bow|bow]], [[c/_curtsey|curtsey]], [[e/_etc|etc]]., (particularly [[d/_dialectal|dialectal]]) while leaving; to make obeissance, show respect, or [[d/_defer|defer]] to someone or something.**
 ---
 ---

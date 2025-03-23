@@ -5,5 +5,5 @@
 - **To have the pressure of one's [[e/_environmental|environmental]] [[a/_atmosphere|atmosphere]] reduced.**
 ---
 ### Synonyms
-- [[decompress]]
+- [[d/_decompress|decompress]]
 ---

@@ -7,5 +7,5 @@
 - **A [[c/_caesarean|Caesarean]] section.**
 ---
 ### Synonyms
-- [[C-section]], [[c-section]]
+- [[C/_C-section|C-section]], [[c/_c-section|c-section]]
 ---

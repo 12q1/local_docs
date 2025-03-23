@@ -9,5 +9,5 @@
 - **(of [[c/_computing|computing]] hardware) Powerful, having a powerful [[a/_appearance|appearance]]**
 ---
 ### Synonyms
-- [[animalian]], [[bestial]], [[brutal]], [[filthy]]
+- [[a/_animalian|animalian]], [[b/_bestial|bestial]], [[b/_brutal|brutal]], [[f/_filthy|filthy]]
 ---

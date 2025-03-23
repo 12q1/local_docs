@@ -5,5 +5,5 @@
 - **The [[a/_anterior|anterior]] part of the pleuron of an insect.**
 ---
 ### Synonyms
-- [[manubrium]], [[presternum]]
+- [[m/_manubrium|manubrium]], [[p/_presternum|presternum]]
 ---

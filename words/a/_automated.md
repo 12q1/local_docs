@@ -5,7 +5,7 @@
 	- _Example: Many offices still need to automate._
 ---
 ### Synonyms
-- [[robotize]]
+- [[r/_robotize|robotize]]
 #adjective
 - **Made [[a/_automatic|automatic]]**
 - **[[d/_done|Done]] by machine.**

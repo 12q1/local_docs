@@ -10,5 +10,5 @@
 - **A flap of a valve of a heart or [[b/_blood|blood]] vessel.**
 ---
 ### Synonyms
-- [[ord]]
+- [[o/_ord|ord]]
 ---

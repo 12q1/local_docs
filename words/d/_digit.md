@@ -1,7 +1,7 @@
 # Digit
 ---
 #noun
-- **A stage of proficiency or qualification in a [[c/_course|course]] of study, now especially an [[a/_award|award]] [[b/_bestowed|bestowed]] by a university or, in some [[c/_countries|countries]], a [[c/_college|college]], as a [[c/_certification|certification]] of [[a/_academic|academic]] [[a/_achievement|achievement]]. (In the United States, [[c/_can|can]] include secondary schools.)**
+- **A stage of proficiency or qualification in a [[c/_course|course]] of study, now [[e/_especially|especially]] an [[a/_award|award]] [[b/_bestowed|bestowed]] by a university or, in some [[c/_countries|countries]], a [[c/_college|college]], as a [[c/_certification|certification]] of [[a/_academic|academic]] [[a/_achievement|achievement]]. (In the United States, [[c/_can|can]] include secondary schools.)**
 	- _Example: She has two bachelor's degrees and is studying towards a master's degree._
 - **A unit of measurement of [[a/_angle|angle]] [[e/_equal|equal]] to 1/360 of a [[c/_circle|circle]]'s [[c/_circumference|circumference]].**
 	- _Example: A right angle is a ninety-degree angle._
@@ -25,7 +25,7 @@
 	- _Example: To what degree do the two accounts of the accident concur?_
 ---
 ### Synonyms
-- [[arcdegree]], [[°]], [[°]], [[°]], [[°]]
+- [[a/_arcdegree|arcdegree]], [[°/_°|°]], [[°/_°|°]], [[°/_°|°]], [[°/_°|°]]
 #noun
 - **The whole numbers from 0 to 9 and the [[a/_arabic|Arabic]] numerals representing them, which are [[c/_combined|combined]] to represent [[b/_base|base]]-ten numbers.**
 	- _Example: The number 123.4 has four digits: the hundreds digit is 1, the tens digit is 2, the units digit is 3, and the tenths digit is 4._
@@ -38,7 +38,7 @@
 - **Similar or similar-looking structures in other [[a/_animals|animals]].**
 ---
 ### Synonyms
-- [[finger]], [[figure]], [[place]], [[finger]], [[fingerbreadth]], [[fingersbreadth]]
+- [[f/_finger|finger]], [[f/_figure|figure]], [[p/_place|place]], [[f/_finger|finger]], [[f/_fingerbreadth|fingerbreadth]], [[f/_fingersbreadth|fingersbreadth]]
 #verb
 - **To point at or point out with the finger.**
 ---

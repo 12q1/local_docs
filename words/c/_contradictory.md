@@ -11,5 +11,5 @@
 - **Tending to [[c/_contradict|contradict]] or oppose, [[c/_contrarious|contrarious]].**
 ---
 ### Synonyms
-- [[incompatible]], [[opposite]]
+- [[i/_incompatible|incompatible]], [[o/_opposite|opposite]]
 ---

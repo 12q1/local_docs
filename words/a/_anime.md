@@ -7,5 +7,5 @@
 - **An [[a/_animated|animated]] work, regardless of the [[c/_country|country]] of origin.**
 ---
 ### Synonyms
-- [[Japanimation]], [[Japanime]]
+- [[J/_Japanimation|Japanimation]], [[J/_Japanime|Japanime]]
 ---

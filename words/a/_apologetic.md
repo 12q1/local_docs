@@ -6,5 +6,5 @@
 - **[[d/_defending|Defending]] by words or [[a/_arguments|arguments]]; said or written in [[d/_defense|defense]].**
 ---
 ### Synonyms
-- [[regretful]], [[remorseful]], [[sorry]]
+- [[r/_regretful|regretful]], [[r/_remorseful|remorseful]], [[s/_sorry|sorry]]
 ---

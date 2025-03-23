@@ -9,5 +9,5 @@
 - **An insect-like [[a/_arthropod|arthropod]] of the order Protura**
 ---
 ### Synonyms
-- [[proturan]]
+- [[p/_proturan|proturan]]
 ---

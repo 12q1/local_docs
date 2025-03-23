@@ -7,7 +7,7 @@
 	- _Example: The foam cossets your skin._
 ---
 ### Synonyms
-- [[grope]], [[touch up]], [[coddle]], [[posset]]
+- [[g/_grope|grope]], [[c/_coddle|coddle]], [[p/_posset|posset]]
 #noun
 - **The [[a/_act|act]] by which somebody is [[c/_cosseted|cosseted]] or pampered.**
 ---

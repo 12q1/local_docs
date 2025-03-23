@@ -7,5 +7,5 @@
 - **Of a reddish-[[b/_brown|brown]] [[c/_colour|colour]].**
 ---
 ### Synonyms
-- [[cupreous]]
+- [[c/_cupreous|cupreous]]
 ---

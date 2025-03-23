@@ -7,5 +7,5 @@
 - **([[d/_degree|degree]]) [[d/_damned|Damned]].**
 ---
 ### Synonyms
-- [[deucedly]]
+- [[d/_deucedly|deucedly]]
 ---

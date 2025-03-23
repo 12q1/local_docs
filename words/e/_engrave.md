@@ -7,5 +7,5 @@
 	- _Example: He engraved his name._
 ---
 ### Synonyms
-- [[carve]], [[etch]], [[inscribe]]
+- [[c/_carve|carve]], [[e/_etch|etch]], [[i/_inscribe|inscribe]]
 ---

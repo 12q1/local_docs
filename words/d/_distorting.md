@@ -7,7 +7,7 @@
 	- _Example: In their articles, journalists sometimes distort the truth._
 ---
 ### Synonyms
-- [[deform]]
+- [[d/_deform|deform]]
 #adjective
 - **That [[d/_distorts|distorts]].**
 ---

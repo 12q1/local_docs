@@ -11,5 +11,5 @@
 	- _Example: Although we don't like your methods, we applaud your motives._
 ---
 ### Synonyms
-- [[beclap]]
+- [[b/_beclap|beclap]]
 ---

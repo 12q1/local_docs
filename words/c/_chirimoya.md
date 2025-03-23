@@ -5,5 +5,5 @@
 - **A [[c/_conical|conical]] fruit with white flesh from that tree.**
 ---
 ### Synonyms
-- [[Jamaican apple]], [[custard apple]]
+- 
 ---

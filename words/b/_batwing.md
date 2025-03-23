@@ -7,7 +7,7 @@
 - **A long sleeve with a [[d/_deep|deep]] [[a/_armhole|armhole]], tapering toward the wrist.**
 ---
 ### Synonyms
-- [[magyar sleeve]]
+- 
 #adjective
 - **Shaped like the wing of a [[b/_bat|bat]].**
 ---

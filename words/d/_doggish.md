@@ -5,5 +5,5 @@
 - **Stylish in a showy way**
 ---
 ### Synonyms
-- [[doggy]]
+- [[d/_doggy|doggy]]
 ---

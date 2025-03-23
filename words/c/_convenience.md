@@ -9,7 +9,7 @@
 - **[[c/_clipping|Clipping]] of public [[c/_convenience|convenience]]: a public lavatory.**
 ---
 ### Synonyms
-- [[amenity]]
+- [[a/_amenity|amenity]]
 #verb
 - **To make [[c/_convenient|convenient]]**
 	- _Example: These are equally viable times and I propose we alternate between the two times in order to convenience as many people as possible._

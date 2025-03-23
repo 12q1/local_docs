@@ -8,5 +8,5 @@
 - **([[a/_among|among]] lumbermen) A rocky shallow in a stream.**
 ---
 ### Synonyms
-- [[disabled]]
+- [[d/_disabled|disabled]]
 ---

@@ -5,5 +5,5 @@
 - **To lose value; to [[d/_depreciate|depreciate]].**
 ---
 ### Synonyms
-- [[devaluate]]
+- [[d/_devaluate|devaluate]]
 ---

@@ -5,8 +5,8 @@
 - **A gallant: a sprightly young [[d/_dashing|dashing]] military man.**
 - **A gentleman of the [[c/_class|class]] of such officers, particularly:**
 - **Someone with an uncircumcised penis.**
-- **A [[d/_defensive|defensive]] work rising from a [[b/_bastion|bastion]], etc., and overlooking the surrounding [[a/_area|area]].**
+- **A [[d/_defensive|defensive]] work rising from a [[b/_bastion|bastion]], [[e/_etc|etc]]., and overlooking the surrounding [[a/_area|area]].**
 ---
 ### Antonyms
-- [[roundhead]]
+- [[r/_roundhead|roundhead]]
 ---

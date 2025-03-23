@@ -5,5 +5,5 @@
 - **A tablet [[c/_containing|containing]] this substance**
 ---
 ### Synonyms
-- [[ASA]], [[acetylsalicylic acid]]
+- [[A/_ASA|ASA]]
 ---

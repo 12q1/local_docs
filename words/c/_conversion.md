@@ -17,5 +17,5 @@
 	- _Example: the conversion of equations; the conversion of proportions_
 ---
 ### Antonyms
-- [[deconversion]]
+- [[d/_deconversion|deconversion]]
 ---

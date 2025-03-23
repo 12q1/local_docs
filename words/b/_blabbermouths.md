@@ -7,5 +7,5 @@
 - **A kind of foam-[[d/_dispensing|dispensing]] nozzle used in firefighting at [[a/_airports|airports]].**
 ---
 ### Synonyms
-- [[chatterbox]]
+- [[c/_chatterbox|chatterbox]]
 ---

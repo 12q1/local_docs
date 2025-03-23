@@ -5,7 +5,7 @@
 - **(of wine) Produced in a [[d/_dependency|dependency]] of the [[b/_british|British]] [[e/_empire|Empire]] or [[c/_commonwealth|Commonwealth]] of Nations.**
 ---
 #noun
-- **A political unit, typically having an extensive territory or [[c/_comprising|comprising]] a number of territories or nations (especially one [[c/_comprising|comprising]] one or more kingdoms) and ruled by a single supreme [[a/_authority|authority]].**
+- **A political unit, typically having an extensive territory or [[c/_comprising|comprising]] a number of territories or nations ([[e/_especially|especially]] one [[c/_comprising|comprising]] one or more kingdoms) and ruled by a single supreme [[a/_authority|authority]].**
 	- _Example: the Russian empire_
 - **A political unit ruled by an [[e/_emperor|emperor]] or [[e/_empress|empress]].**
 	- _Example: The Empire of Vietnam was a short-lived client state of Japan governing Vietnam between March 11 and August 23, 1945._

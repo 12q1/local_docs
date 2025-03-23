@@ -1,7 +1,7 @@
 # Envelopes
 ---
 #noun
-- **A paper or [[c/_cardboard|cardboard]] wrapper used to [[e/_enclose|enclose]] small, flat items, especially letters, for mailing.**
+- **A paper or [[c/_cardboard|cardboard]] wrapper used to [[e/_enclose|enclose]] small, flat items, [[e/_especially|especially]] letters, for mailing.**
 - **Something that [[e/_envelops|envelops]]; a wrapping.**
 - **A [[b/_bag|bag]] [[c/_containing|containing]] the lifting gas of a [[b/_balloon|balloon]] or [[a/_airship|airship]]; fabric that [[e/_encloses|encloses]] the gas-[[b/_bags|bags]] of an [[a/_airship|airship]].**
 - **A mathematical [[c/_curve|curve]], surface, or higher-[[d/_dimensional|dimensional]] object that is the tangent to a given family of lines, [[c/_curves|curves]], surfaces, or higher-[[d/_dimensional|dimensional]] objects.**
@@ -14,5 +14,5 @@
 - **An [[e/_earthwork|earthwork]] in the form of a single parapet or a small rampart, sometimes raised in the [[d/_ditch|ditch]] and sometimes [[b/_beyond|beyond]] it.**
 ---
 ### Synonyms
-- [[gasbag]], [[wrapper]]
+- [[g/_gasbag|gasbag]], [[w/_wrapper|wrapper]]
 ---

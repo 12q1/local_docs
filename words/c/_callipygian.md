@@ -4,5 +4,5 @@
 - **Having [[b/_beautifully|beautifully]] shaped [[b/_buttocks|buttocks]].**
 ---
 ### Synonyms
-- [[bootylicious]], [[bumtastic]], [[callipygous]], [[rumpalicious]]
+- [[b/_bootylicious|bootylicious]], [[b/_bumtastic|bumtastic]], [[c/_callipygous|callipygous]], [[r/_rumpalicious|rumpalicious]]
 ---

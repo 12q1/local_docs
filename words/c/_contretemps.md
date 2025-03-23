@@ -5,5 +5,5 @@
 - **An ill-timed pass.**
 ---
 ### Synonyms
-- [[hitch]], [[mishap]]
+- [[h/_hitch|hitch]], [[m/_mishap|mishap]]
 ---

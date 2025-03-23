@@ -5,7 +5,7 @@
 - **To [[c/_climb|climb]] with the use of [[a/_aids|aids]] such as pitons.**
 ---
 ### Synonyms
-- [[assist]], [[befriend]], [[bestand]], [[cooperate]], [[help]], [[promote]], [[relieve]], [[succor]], [[support]], [[sustain]]
+- [[a/_assist|assist]], [[b/_befriend|befriend]], [[b/_bestand|bestand]], [[c/_cooperate|cooperate]], [[h/_help|help]], [[p/_promote|promote]], [[r/_relieve|relieve]], [[s/_succor|succor]], [[s/_support|support]], [[s/_sustain|sustain]]
 #noun
 - **The [[a/_act|act]] of one who [[a/_aids|aids]] or [[a/_assists|assists]].**
 ---

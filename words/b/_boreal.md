@@ -4,7 +4,7 @@
 - **Of, relating to, or [[c/_coming|coming]] from the north.**
 ---
 ### Synonyms
-- [[northern]], [[septentrional]]
+- [[n/_northern|northern]], [[s/_septentrional|septentrional]]
 ### Antonyms
-- [[austral]], [[meridional]]
+- [[a/_austral|austral]], [[m/_meridional|meridional]]
 ---

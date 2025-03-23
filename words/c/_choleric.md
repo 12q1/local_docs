@@ -11,5 +11,5 @@
 - **[[c/_causing|Causing]] an excess of [[c/_choler|choler]].**
 ---
 ### Synonyms
-- [[ill-tempered]], [[irascible]], [[angry]], [[indignant]], [[irate]], [[vexed]], [[wrathful]]
+- [[i/_ill-tempered|ill-tempered]], [[i/_irascible|irascible]], [[a/_angry|angry]], [[i/_indignant|indignant]], [[i/_irate|irate]], [[v/_vexed|vexed]], [[w/_wrathful|wrathful]]
 ---

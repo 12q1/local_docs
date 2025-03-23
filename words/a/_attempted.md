@@ -10,7 +10,7 @@
 	- _Example: to attempt the enemy's camp_
 ---
 ### Synonyms
-- [[take a run at]], [[take a stab at]]
+- 
 #adjective
 - **Tried, with the [[c/_connotation|connotation]] of failure.**
 	- _Example: An attempted coup._

@@ -7,5 +7,5 @@
 - **In a kind manner.**
 ---
 ### Synonyms
-- [[carelessly]], [[indifferently]], [[gladly]], [[joyfully]], [[merrily]]
+- [[c/_carelessly|carelessly]], [[i/_indifferently|indifferently]], [[g/_gladly|gladly]], [[j/_joyfully|joyfully]], [[m/_merrily|merrily]]
 ---

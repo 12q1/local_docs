@@ -5,5 +5,5 @@
 - **Increased by a semitone.**
 ---
 ### Antonyms
-- [[diminished]]
+- [[d/_diminished|diminished]]
 ---

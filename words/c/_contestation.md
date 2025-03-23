@@ -5,5 +5,5 @@
 - **Proof by witness; [[a/_attestation|attestation]]; testimony.**
 ---
 ### Synonyms
-- [[dispute]], [[rivalry]], [[strife]]
+- [[d/_dispute|dispute]], [[r/_rivalry|rivalry]], [[s/_strife|strife]]
 ---

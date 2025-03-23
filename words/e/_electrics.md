@@ -9,7 +9,7 @@
 - **Fencing with the use of a [[b/_body|body]] wire, [[b/_box|box]], and related [[e/_equipment|equipment]] to [[d/_detect|detect]] when a weapon has touched an opponent.**
 ---
 ### Antonyms
-- [[steam]]
+- [[s/_steam|steam]]
 #noun
 - **[[a/_all|All]] the [[e/_electrical|electrical]] [[c/_components|components]] and wiring of a machine or system.**
 ---

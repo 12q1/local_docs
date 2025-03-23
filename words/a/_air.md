@@ -11,7 +11,7 @@
 - **A sense of poise, graciousness, or quality.**
 - **(usually in the plural) Pretension; snobbishness; pretence that one is [[b/_better|better]] than others.**
 	- _Example: putting on airs_
-- **A song, especially a solo; an [[a/_aria|aria]].**
+- **A song, [[e/_especially|especially]] a solo; an [[a/_aria|aria]].**
 - **Nothing; [[a/_absence|absence]] of [[a/_anything|anything]].**
 - **An [[a/_air|air]] [[c/_conditioner|conditioner]] or the processed [[a/_air|air]] it produces.**
 	- _Example: Could you turn on the air?_
@@ -21,12 +21,12 @@
 - **Publicity.**
 ---
 ### Synonyms
-- [[atmosphere]], [[aura]], [[gas]], [[lift]], [[nimbus]]
+- [[a/_atmosphere|atmosphere]], [[a/_aura|aura]], [[g/_gas|gas]], [[l/_lift|lift]], [[n/_nimbus|nimbus]]
 #verb
 - **To [[b/_bring|bring]] (something) into [[c/_contact|contact]] with the [[a/_air|air]], so as to freshen or [[d/_dry|dry]] it.**
 - **To let fresh [[a/_air|air]] into a room or a [[b/_building|building]], to ventilate.**
 - **To [[d/_discuss|discuss]] varying viewpoints on a given topic.**
-- **To [[b/_broadcast|broadcast]] (a television show etc.).**
+- **To [[b/_broadcast|broadcast]] (a television show [[e/_etc|etc]].).**
 - **To be [[b/_broadcast|broadcast]].**
 	- _Example: This game show first aired in the 1990s and is still going today._
 - **To ignore.**

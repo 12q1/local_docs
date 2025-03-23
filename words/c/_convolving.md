@@ -6,5 +6,5 @@
 - **To [[c/_compute|compute]] the [[c/_convolution|convolution]] function**
 ---
 ### Antonyms
-- [[deconvolve]]
+- [[d/_deconvolve|deconvolve]]
 ---

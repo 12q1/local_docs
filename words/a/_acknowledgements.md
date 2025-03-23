@@ -15,5 +15,5 @@
 - **A formal statement or [[d/_document|document]] recognizing the fulfillment or execution of a legal requirement or procedure.**
 ---
 ### Synonyms
-- [[ACK]], [[admission]], [[avowal]], [[concession]], [[confession]], [[recognition]], [[recognizance]], [[admission]]
+- [[A/_ACK|ACK]], [[a/_admission|admission]], [[a/_avowal|avowal]], [[c/_concession|concession]], [[c/_confession|confession]], [[r/_recognition|recognition]], [[r/_recognizance|recognizance]], [[a/_admission|admission]]
 ---

@@ -7,5 +7,5 @@
 - **Having or involving exactly two variables.**
 ---
 ### Synonyms
-- [[two-way]]
+- [[t/_two-way|two-way]]
 ---

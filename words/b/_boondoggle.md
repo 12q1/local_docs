@@ -6,7 +6,7 @@
 	- _Example: Opponents consider this another billion-dollar government boondoggle._
 ---
 ### Synonyms
-- [[woggle]]
+- [[w/_woggle|woggle]]
 #verb
 - **To waste time on a pointless [[a/_activity|activity]].**
 ---

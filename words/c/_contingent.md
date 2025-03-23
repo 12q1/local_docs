@@ -6,7 +6,7 @@
 - **A quota of troops.**
 ---
 ### Synonyms
-- [[contingency]], [[proportion]]
+- [[c/_contingency|contingency]], [[p/_proportion|proportion]]
 #adjective
 - **Possible or liable, but not [[c/_certain|certain]] to occur.**
 - **(with upon or on) [[d/_dependent|Dependent]] on something that is undetermined or unknown.**
@@ -18,7 +18,7 @@
 	- _Example: contingent labor_
 ---
 ### Synonyms
-- [[casual]], [[incidental]], [[conditional]]
+- [[c/_casual|casual]], [[i/_incidental|incidental]], [[c/_conditional|conditional]]
 ### Antonyms
-- [[certain]], [[impossible]], [[inevitable]], [[necessary]]
+- [[c/_certain|certain]], [[i/_impossible|impossible]], [[i/_inevitable|inevitable]], [[n/_necessary|necessary]]
 ---

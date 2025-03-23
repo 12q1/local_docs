@@ -8,5 +8,5 @@
 	- _Example: He would make a good manager, if he had a little more backbone._
 ---
 ### Synonyms
-- [[spinal column]], [[spine]], [[vertebral column]]
+- [[s/_spine|spine]]
 ---

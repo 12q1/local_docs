@@ -7,5 +7,5 @@
 - **To make (someone) [[d/_dear|dear]] or precious.**
 ---
 ### Synonyms
-- [[bedear]]
+- [[b/_bedear|bedear]]
 ---

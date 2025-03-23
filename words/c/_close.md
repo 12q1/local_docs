@@ -10,9 +10,9 @@
 - **(travel) The time when checkin staff will no longer [[a/_accept|accept]] passengers for a flight.**
 ---
 ### Synonyms
-- [[end]], [[finale]]
+- [[e/_end|end]], [[f/_finale|finale]]
 ### Antonyms
-- [[beginning]], [[start]]
+- [[b/_beginning|beginning]], [[s/_start|start]]
 #verb
 - **(physical) To remove a gap.**
 - **(social) To finish, to terminate.**
@@ -20,7 +20,7 @@
 - **To have a vector sum of 0; that is, to form a [[c/_closed|closed]] polygon.**
 ---
 ### Synonyms
-- [[narrow]], [[shut]], [[close off]], [[close up]], [[cover]], [[shut]], [[shut off]], [[close down]], [[end]], [[finish]], [[terminate]], [[wind up]], [[close out]], [[exit]]
+- [[n/_narrow|narrow]], [[s/_shut|shut]], [[c/_cover|cover]], [[s/_shut|shut]], [[e/_end|end]], [[f/_finish|finish]], [[t/_terminate|terminate]], [[e/_exit|exit]]
 ### Antonyms
-- [[extend]], [[widen]], [[open]], [[open]], [[begin]], [[commence]], [[initiate]], [[start]], [[open]], [[start]]
+- [[e/_extend|extend]], [[w/_widen|widen]], [[o/_open|open]], [[o/_open|open]], [[b/_begin|begin]], [[c/_commence|commence]], [[i/_initiate|initiate]], [[s/_start|start]], [[o/_open|open]], [[s/_start|start]]
 ---

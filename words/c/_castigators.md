@@ -4,5 +4,5 @@
 - **One who [[c/_castigates|castigates]].**
 ---
 ### Synonyms
-- [[censurer]], [[scolder]], [[vituperator]]
+- [[c/_censurer|censurer]], [[s/_scolder|scolder]], [[v/_vituperator|vituperator]]
 ---

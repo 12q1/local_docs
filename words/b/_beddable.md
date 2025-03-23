@@ -4,5 +4,5 @@
 - **Sexually [[a/_attractive|attractive]].**
 ---
 ### Synonyms
-- [[doable]], [[fuckable]], [[shaggable]]
+- [[d/_doable|doable]], [[f/_fuckable|fuckable]], [[s/_shaggable|shaggable]]
 ---

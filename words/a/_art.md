@@ -3,7 +3,7 @@
 #noun
 - **The [[c/_conscious|conscious]] production or [[a/_arrangement|arrangement]] of sounds, [[c/_colours|colours]], forms, movements, or other [[e/_elements|elements]] in a manner that [[a/_affects|affects]] the senses and [[e/_emotions|emotions]], usually specifically the production of the [[b/_beautiful|beautiful]] in a graphic or plastic medium.**
 	- _Example: There is a debate as to whether graffiti is art or vandalism._
-- **The [[c/_creative|creative]] and [[e/_emotional|emotional]] expression of mental imagery, such as visual, [[a/_auditory|auditory]], social, etc.**
+- **The [[c/_creative|creative]] and [[e/_emotional|emotional]] expression of mental imagery, such as visual, [[a/_auditory|auditory]], social, [[e/_etc|etc]].**
 - **Skillful [[c/_creative|creative]] [[a/_activity|activity]], usually with an [[a/_aesthetic|aesthetic]] focus.**
 	- _Example: She's mastered the art of programming._
 - **The study and the product of these processes.**
@@ -19,7 +19,7 @@
 - **[[c/_contrivance|Contrivance]], scheming, manipulation.**
 ---
 ### Synonyms
-- [[craft]]
+- [[c/_craft|craft]]
 ### Antonyms
-- [[mundacity]], [[nature]], [[subsistence]]
+- [[m/_mundacity|mundacity]], [[n/_nature|nature]], [[s/_subsistence|subsistence]]
 ---

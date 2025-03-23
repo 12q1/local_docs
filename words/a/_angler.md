@@ -7,8 +7,8 @@
 	- _Example: The angler lured a smaller fish into reach with the appendage on its head._
 - **Someone who tries to work an [[a/_angle|angle]]; a person who schemes or has an ulterior motive.**
 	- _Example: Jonas was a consummate angler when it came the company's leave policy; he had it figured so he only needed to work six months out of the year._
-- **(thieves' [[c/_cant|cant]]) A thief who uses a hooked stick to steal goods out of shop-windows, grates, etc.**
+- **(thieves' [[c/_cant|cant]]) A thief who uses a hooked stick to steal goods out of shop-windows, grates, [[e/_etc|etc]].**
 ---
 ### Synonyms
-- [[anglerfish]], [[frogfish]], [[fisher]], [[fisherman]], [[conniver]], [[grifter]], [[schemer]], [[swindler]], [[hooker]], [[nuthook]]
+- [[a/_anglerfish|anglerfish]], [[f/_frogfish|frogfish]], [[f/_fisher|fisher]], [[f/_fisherman|fisherman]], [[c/_conniver|conniver]], [[g/_grifter|grifter]], [[s/_schemer|schemer]], [[s/_swindler|swindler]], [[h/_hooker|hooker]], [[n/_nuthook|nuthook]]
 ---

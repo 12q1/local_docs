@@ -4,5 +4,5 @@
 - **In an [[a/_appropriate|appropriate]] manner; properly; suitably.**
 ---
 ### Antonyms
-- [[inappropriately]]
+- [[i/_inappropriately|inappropriately]]
 ---

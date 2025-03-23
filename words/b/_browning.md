@@ -14,8 +14,8 @@
 - **To treat with [[d/_deference|deference]], or respect.**
 ---
 #noun
-- **The [[a/_act|act]] or operation of giving a [[b/_brown|brown]] [[c/_colour|colour]], as to gun [[b/_barrels|barrels]], [[c/_cooked|cooked]] food, etc.**
-- **[[a/_any|Any]] of various preparations used to impart a [[b/_brown|brown]] [[c/_colour|colour]] to gravy, leather, etc.**
+- **The [[a/_act|act]] or operation of giving a [[b/_brown|brown]] [[c/_colour|colour]], as to gun [[b/_barrels|barrels]], [[c/_cooked|cooked]] food, [[e/_etc|etc]].**
+- **[[a/_any|Any]] of various preparations used to impart a [[b/_brown|brown]] [[c/_colour|colour]] to gravy, leather, [[e/_etc|etc]].**
 - **A smooth [[c/_coat|coat]] of [[b/_brown|brown]] mortar, usually the second [[c/_coat|coat]], and the preparation for the finishing [[c/_coat|coat]] of plaster.**
 - **A [[b/_brown|brown]]-skinned person.**
 ---

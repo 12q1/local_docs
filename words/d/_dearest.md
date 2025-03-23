@@ -8,7 +8,7 @@
 	- _Example: Such dear embrace tenderly comforts even in this dear sorrow._
 - **Precious to or greatly valued by someone.**
 	- _Example: The dearer the giver, the dearer the trinket he brings!_
-- **A formal way to start (possibly [[a/_after|after]] my) [[a/_addressing|addressing]] somebody at the [[b/_beginning|beginning]] of a letter, memo etc.**
+- **A formal way to start (possibly [[a/_after|after]] my) [[a/_addressing|addressing]] somebody at the [[b/_beginning|beginning]] of a letter, memo [[e/_etc|etc]].**
 	- _Example: Dear Sir/Madam/Miss, please notice our offices will be closed during the following bank holidays: [...]._
 - **A formal way to start (often [[a/_after|after]] my) [[a/_addressing|addressing]] somebody one likes or regards kindly.**
 	- _Example: My dear friend, I feel better as soon as you come sit beside my sickbed!_
@@ -20,5 +20,5 @@
 - **A [[b/_beloved|beloved]] person; a term of [[e/_endearment|endearment]].**
 ---
 ### Synonyms
-- [[beloved]], [[darling]], [[honey]], [[sweetheart]]
+- [[b/_beloved|beloved]], [[d/_darling|darling]], [[h/_honey|honey]], [[s/_sweetheart|sweetheart]]
 ---

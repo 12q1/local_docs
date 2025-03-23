@@ -5,7 +5,7 @@
 - **Mild; [[b/_benign|benign]].**
 ---
 ### Synonyms
-- [[accessible]], [[civil]], [[complaisant]], [[courteous]], [[friendly]], [[gracious]], [[personable]], [[benign]], [[mild]], [[warm]]
+- [[a/_accessible|accessible]], [[c/_civil|civil]], [[c/_complaisant|complaisant]], [[c/_courteous|courteous]], [[f/_friendly|friendly]], [[g/_gracious|gracious]], [[p/_personable|personable]], [[b/_benign|benign]], [[m/_mild|mild]], [[w/_warm|warm]]
 ### Antonyms
-- [[inaffable]]
+- [[i/_inaffable|inaffable]]
 ---

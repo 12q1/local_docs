@@ -10,7 +10,7 @@
 - **A proposition that is false for [[a/_all|all]] values of its variables.**
 ---
 ### Synonyms
-- [[※]], [[↮]], [[↯]], [[⇒⇐]], [[⊥]], [[oxymoron]]
+- [[※/_※|※]], [[↮/_↮|↮]], [[↯/_↯|↯]], [[⇒/_⇒⇐|⇒⇐]], [[⊥/_⊥|⊥]], [[o/_oxymoron|oxymoron]]
 ### Antonyms
-- [[tautology]]
+- [[t/_tautology|tautology]]
 ---

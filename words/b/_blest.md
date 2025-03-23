@@ -9,7 +9,7 @@
 	- _Example: Not one blessed person offered to help me out._
 ---
 ### Synonyms
-- [[hallowed]], [[holy]], [[sacred]], [[revered]], [[venerated]], [[worshiped]], [[worshipped]]
+- [[h/_hallowed|hallowed]], [[h/_holy|holy]], [[s/_sacred|sacred]], [[r/_revered|revered]], [[v/_venerated|venerated]], [[w/_worshiped|worshiped]], [[w/_worshipped|worshipped]]
 ### Antonyms
-- [[condemned]], [[cursed]], [[damned]], [[profane]], [[unhallowed]], [[unholy]], [[contemned]], [[despised]], [[scorned]]
+- [[c/_condemned|condemned]], [[c/_cursed|cursed]], [[d/_damned|damned]], [[p/_profane|profane]], [[u/_unhallowed|unhallowed]], [[u/_unholy|unholy]], [[c/_contemned|contemned]], [[d/_despised|despised]], [[s/_scorned|scorned]]
 ---

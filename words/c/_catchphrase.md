@@ -5,5 +5,5 @@
 - **A signature phrase of a particular person or group.**
 ---
 ### Synonyms
-- [[catchword]], [[signature phrase]]
+- [[c/_catchword|catchword]]
 ---

@@ -11,7 +11,7 @@
 - **To subdue or overcome by some secret power, or by that which gives pleasure; to [[a/_allay|allay]]; to soothe.**
 ---
 ### Synonyms
-- [[delight]], [[enchant]], [[entrance]], [[bewitch]], [[enchant]], [[ensorcel]], [[enspell]]
+- [[d/_delight|delight]], [[e/_enchant|enchant]], [[e/_entrance|entrance]], [[b/_bewitch|bewitch]], [[e/_enchant|enchant]], [[e/_ensorcel|ensorcel]], [[e/_enspell|enspell]]
 #noun
 - **The [[c/_casting|casting]] of a magical [[c/_charm|charm]].**
 ---
@@ -20,7 +20,7 @@
 - **[[d/_delightful|Delightful]] in a playful way which [[a/_avoids|avoids]] responsibility or seriousness, as if [[a/_attracting|attracting]] through a magical [[c/_charm|charm]].**
 ---
 ### Synonyms
-- [[charismatic]], [[smart]], [[witty]]
+- [[c/_charismatic|charismatic]], [[s/_smart|smart]], [[w/_witty|witty]]
 ### Antonyms
-- [[charmless]], [[dull]], [[charmless]], [[silly]]
+- [[c/_charmless|charmless]], [[d/_dull|dull]], [[c/_charmless|charmless]], [[s/_silly|silly]]
 ---

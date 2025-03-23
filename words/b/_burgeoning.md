@@ -7,7 +7,7 @@
 - **Of plants, to [[b/_bloom|bloom]], [[b/_bud|bud]].**
 ---
 ### Synonyms
-- [[blossom]], [[bud]], [[green]], [[sprout]], [[blossom]], [[expand]], [[grow]], [[sprout]]
+- [[b/_blossom|blossom]], [[b/_bud|bud]], [[g/_green|green]], [[s/_sprout|sprout]], [[b/_blossom|blossom]], [[e/_expand|expand]], [[g/_grow|grow]], [[s/_sprout|sprout]]
 #noun
 - **The [[a/_act|act]] of [[b/_budding|budding]] or sprouting.**
 - **A [[b/_bud|bud]] or [[b/_branch|branch]].**

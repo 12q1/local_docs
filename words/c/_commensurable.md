@@ -7,5 +7,5 @@
 	- _Example: The numbers 12 and 18 are commensurable, as both are divisible by 6, while 12 and 19 are incommensurable._
 ---
 ### Antonyms
-- [[incommensurable]]
+- [[i/_incommensurable|incommensurable]]
 ---

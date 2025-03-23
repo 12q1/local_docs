@@ -10,5 +10,5 @@
 - **A given medium; a space in which something exists or lives; an [[e/_environment|environment]].**
 ---
 ### Antonyms
-- [[cosmos]], [[order]]
+- [[c/_cosmos|cosmos]], [[o/_order|order]]
 ---

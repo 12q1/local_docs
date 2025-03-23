@@ -6,5 +6,5 @@
 - **Lucky; [[b/_bringing|bringing]] good luck**
 ---
 ### Synonyms
-- [[dicey]], [[iffy]]
+- [[d/_dicey|dicey]], [[i/_iffy|iffy]]
 ---

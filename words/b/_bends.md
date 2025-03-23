@@ -46,8 +46,8 @@
 - **The thickest and strongest planks in a wooden ship's side, wales.**
 ---
 #noun
-- **A sometimes fatal [[c/_condition|condition]] resulting from the formation of nitrogen [[b/_bubbles|bubbles]] in the [[b/_blood|blood]] and tissues, [[b/_because|because]] of too rapid [[d/_decompression|decompression]], seen especially in [[d/_deep|deep]]-sea [[d/_divers|divers]] [[a/_ascending|ascending]] rapidly from a [[d/_dive|dive]]. It is [[c/_characterized|characterized]] by severe pains in the joints and [[c/_chest|chest]], skin irritation, [[c/_cramps|cramps]], nausea, and paralysis.**
+- **A sometimes fatal [[c/_condition|condition]] resulting from the formation of nitrogen [[b/_bubbles|bubbles]] in the [[b/_blood|blood]] and tissues, [[b/_because|because]] of too rapid [[d/_decompression|decompression]], seen [[e/_especially|especially]] in [[d/_deep|deep]]-sea [[d/_divers|divers]] [[a/_ascending|ascending]] rapidly from a [[d/_dive|dive]]. It is [[c/_characterized|characterized]] by severe pains in the joints and [[c/_chest|chest]], skin irritation, [[c/_cramps|cramps]], nausea, and paralysis.**
 ---
 ### Synonyms
-- [[aeroembolism]], [[aeroemphysema]], [[caisson disease]], [[the bends]]
+- [[a/_aeroembolism|aeroembolism]], [[a/_aeroemphysema|aeroemphysema]]
 ---

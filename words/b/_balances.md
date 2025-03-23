@@ -7,27 +7,27 @@
 	- _Example: Blair thought he could provide a useful balance to Bush's policies._
 - **A pair of scales.**
 - **[[a/_awareness|Awareness]] of [[b/_both|both]] viewpoints or matters; neutrality; rationality; objectivity.**
-- **The overall result of [[c/_conflicting|conflicting]] forces, opinions etc.; the influence which ultimately "weighs" more than others.**
+- **The overall result of [[c/_conflicting|conflicting]] forces, opinions [[e/_etc|etc]].; the influence which ultimately "weighs" more than others.**
 	- _Example: I think the balance of opinion is that we should get out while we're ahead._
-- **[[a/_apparent|Apparent]] harmony in [[a/_art|art]] ([[b/_between|between]] [[d/_differing|differing]] [[c/_colours|colours]], sounds, etc.).**
+- **[[a/_apparent|Apparent]] harmony in [[a/_art|art]] ([[b/_between|between]] [[d/_differing|differing]] [[c/_colours|colours]], sounds, [[e/_etc|etc]].).**
 - **A list [[a/_accounting|accounting]] for the [[d/_debits|debits]] on one side, and for the [[c/_credits|credits]] on the other.**
 - **The result of such a procedure; the [[d/_difference|difference]] [[b/_between|between]] [[c/_credit|credit]] and [[d/_debit|debit]] of an [[a/_account|account]].**
 	- _Example: I just need to nip to a bank and check my balance._
-- **A [[d/_device|device]] used to regulate the speed of a watch, [[c/_clock|clock]] etc.**
+- **A [[d/_device|device]] used to regulate the speed of a watch, [[c/_clock|clock]] [[e/_etc|etc]].**
 - **The remainder.**
 	- _Example: The balance of the agreement remains in effect._
 - **Libra.**
 ---
 ### Synonyms
-- [[equilibrium]], [[account]], [[scales]], [[weighbridge]], [[weighing machine]], [[disinterest]], [[even-handedness]], [[fairness]], [[impartiality]], [[neutrality]], [[nonpartisanship]]
+- [[e/_equilibrium|equilibrium]], [[a/_account|account]], [[s/_scales|scales]], [[w/_weighbridge|weighbridge]], [[d/_disinterest|disinterest]], [[e/_even-handedness|even-handedness]], [[f/_fairness|fairness]], [[i/_impartiality|impartiality]], [[n/_neutrality|neutrality]], [[n/_nonpartisanship|nonpartisanship]]
 ### Antonyms
-- [[imbalance]], [[nonequilibrium]], [[unbalance]], [[bias]], [[favor]], [[favour]], [[partiality]], [[partisanship]], [[prejudice]], [[unfairness]]
+- [[i/_imbalance|imbalance]], [[n/_nonequilibrium|nonequilibrium]], [[u/_unbalance|unbalance]], [[b/_bias|bias]], [[f/_favor|favor]], [[f/_favour|favour]], [[p/_partiality|partiality]], [[p/_partisanship|partisanship]], [[p/_prejudice|prejudice]], [[u/_unfairness|unfairness]]
 #verb
 - **To [[b/_bring|bring]] (items) to an [[e/_equipoise|equipoise]], as the scales of a [[b/_balance|balance]] by [[a/_adjusting|adjusting]] the weights.**
 - **To make ([[c/_concepts|concepts]]) [[a/_agree|agree]].**
 - **To hold (an object or objects) precariously; to support on a narrow [[b/_base|base]], so as to keep from falling.**
 	- _Example: I balanced my mug of coffee on my knee._
-- **To [[c/_compare|compare]] in relative force, importance, value, etc.; to estimate.**
+- **To [[c/_compare|compare]] in relative force, importance, value, [[e/_etc|etc]].; to [[e/_estimate|estimate]].**
 - **([[d/_dancing|dancing]]) To move toward, and then [[b/_back|back]] from, reciprocally.**
 	- _Example: to balance partners_
 - **To [[c/_contract|contract]], as a sail, into a narrower [[c/_compass|compass]].**

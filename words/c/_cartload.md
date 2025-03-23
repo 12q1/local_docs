@@ -6,5 +6,5 @@
 - **(specifically) A load: various [[e/_english|English]] units of weight or volume [[b/_based|based]] upon standardized [[c/_cartloads|cartloads]] of [[c/_certain|certain]] [[c/_commodities|commodities]].**
 ---
 ### Synonyms
-- [[cartful]], [[load]], [[cart]], [[fodder]], [[fother]], [[wagon]], [[wagonload]]
+- [[c/_cartful|cartful]], [[l/_load|load]], [[c/_cart|cart]], [[f/_fodder|fodder]], [[f/_fother|fother]], [[w/_wagon|wagon]], [[w/_wagonload|wagonload]]
 ---

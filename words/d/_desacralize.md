@@ -4,7 +4,7 @@
 - **To remove the sacredness of.**
 ---
 ### Synonyms
-- [[desanctify]], [[desecrate]]
+- [[d/_desanctify|desanctify]], [[d/_desecrate|desecrate]]
 ### Antonyms
-- [[sacralize]]
+- [[s/_sacralize|sacralize]]
 ---

@@ -6,5 +6,5 @@
 - **In generic programming, a [[d/_description|description]] of supported operations on a type, including their syntax and semantics.**
 ---
 ### Synonyms
-- [[abstraction]], [[conception]], [[notion]]
+- [[a/_abstraction|abstraction]], [[c/_conception|conception]], [[n/_notion|notion]]
 ---

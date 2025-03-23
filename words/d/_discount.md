@@ -8,9 +8,9 @@
 - **(transactional [[a/_analysis|analysis]]) The [[a/_act|act]] of one who [[b/_believes|believes]], or [[a/_act|act]] as though they [[b/_believe|believe]], that their own feelings are more important than the reality of a situation.**
 ---
 ### Synonyms
-- [[rebate]], [[reduction]]
+- [[r/_rebate|rebate]], [[r/_reduction|reduction]]
 ### Antonyms
-- [[surcharge]]
+- [[s/_surcharge|surcharge]]
 #verb
 - **To [[d/_deduct|deduct]] from an [[a/_account|account]], [[d/_debt|debt]], [[c/_charge|charge]], and the like.**
 	- _Example: Merchants sometimes discount five or six per cent for prompt payment of bills._

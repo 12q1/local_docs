@@ -1,15 +1,15 @@
 # Cons
 ---
 #noun
-- **A [[d/_disadvantage|disadvantage]] of something, especially when [[c/_contrasted|contrasted]] with its [[a/_advantages|advantages]] (pros).**
+- **A [[d/_disadvantage|disadvantage]] of something, [[e/_especially|especially]] when [[c/_contrasted|contrasted]] with its [[a/_advantages|advantages]] (pros).**
 	- _Example: pros and cons_
 - **([[a/_abbreviation|abbreviation]]) [[c/_conservative|conservative]]**
 	- _Example: own the cons_
 ---
 ### Synonyms
-- [[disadvantage]]
+- [[d/_disadvantage|disadvantage]]
 ### Antonyms
-- [[pro]]
+- [[p/_pro|pro]]
 #noun
 - **A [[c/_convicted|convicted]] [[c/_criminal|criminal]], a [[c/_convict|convict]].**
 ---

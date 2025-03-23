@@ -7,5 +7,5 @@
 	- _Example: The despotic king dissolved the parliament, and took personal control of the country._
 ---
 ### Synonyms
-- [[domineering]], [[tyrannical]]
+- [[d/_domineering|domineering]], [[t/_tyrannical|tyrannical]]
 ---

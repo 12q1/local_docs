@@ -7,5 +7,5 @@
 - **An spurious signal generated as a technological [[a/_artifact|artifact]].**
 ---
 ### Synonyms
-- [[pseudonym]]
+- [[p/_pseudonym|pseudonym]]
 ---

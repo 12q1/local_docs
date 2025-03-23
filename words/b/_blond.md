@@ -1,7 +1,7 @@
 # Blond
 ---
 #noun
-- **A pale yellowish (golden [[b/_brown|brown]]) [[c/_color|color]], especially said of hair [[c/_color|color]].**
+- **A pale yellowish (golden [[b/_brown|brown]]) [[c/_color|color]], [[e/_especially|especially]] said of hair [[c/_color|color]].**
 - **A person with this hair [[c/_color|color]].**
 ---
 #verb
@@ -13,6 +13,6 @@
 - **(of a person) Having [[b/_blond|blond]] hair.**
 ---
 #adjective
-- **(especially of a woman) Stupid, ignorant, naive.**
+- **([[e/_especially|especially]] of a woman) Stupid, ignorant, naive.**
 ---
 ---

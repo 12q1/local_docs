@@ -6,7 +6,7 @@
 - **An individual person's [[c/_characteristic|characteristic]], [[e/_encoded|encoded]] for the purposes of statistical [[a/_analysis|analysis]].**
 ---
 ### Synonyms
-- [[demo]]
+- [[d/_demo|demo]]
 #adjective
 - **Of or pertaining to [[d/_demography|demography]].**
 ---

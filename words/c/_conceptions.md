@@ -10,5 +10,5 @@
 - **An image, idea, or notion formed in the mind; a [[c/_concept|concept]], plan or [[d/_design|design]].**
 ---
 ### Antonyms
-- [[misconception]]
+- [[m/_misconception|misconception]]
 ---

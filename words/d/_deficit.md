@@ -5,7 +5,7 @@
 - **A situation wherein, or [[a/_amount|amount]] whereby, spending exceeds government revenue.**
 ---
 ### Synonyms
-- [[fiscal deficit]], [[shortfall]]
+- [[s/_shortfall|shortfall]]
 ### Antonyms
-- [[superavit]]
+- [[s/_superavit|superavit]]
 ---

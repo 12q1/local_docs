@@ -9,7 +9,7 @@
 - **To protect or isolate.**
 ---
 ### Synonyms
-- [[enter religion]]
+- 
 #adjective
 - **[[d/_dwelling|Dwelling]] or raised in, or as if in, [[c/_cloisters|cloisters]]; solitary.**
 - **Isolated, protected, hidden [[a/_away|away]] for the sake of maintaining innocence**

@@ -4,7 +4,7 @@
 - **A [[d/_descent|descent]] or [[d/_declivity|declivity]]**
 ---
 ### Antonyms
-- [[upslope]]
+- [[u/_upslope|upslope]]
 #adjective
 - **In a [[d/_direction|direction]] [[d/_down|down]] a slope**
 ---

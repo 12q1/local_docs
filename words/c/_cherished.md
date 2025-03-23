@@ -7,12 +7,12 @@
 - **To [[c/_cheer|cheer]], to gladden.**
 ---
 ### Antonyms
-- [[despise]]
+- [[d/_despise|despise]]
 #adjective
 - **Highly valued, having a high personal value.**
 ---
 ### Synonyms
-- [[treasured]]
+- [[t/_treasured|treasured]]
 ### Antonyms
-- [[despised]]
+- [[d/_despised|despised]]
 ---

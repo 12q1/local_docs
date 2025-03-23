@@ -6,5 +6,5 @@
 - **Inflated, overfilled.**
 ---
 ### Synonyms
-- [[inflated]], [[turgid]]
+- [[i/_inflated|inflated]], [[t/_turgid|turgid]]
 ---

@@ -4,5 +4,5 @@
 - **(genealogy) A relative by marriage, an in-law.**
 ---
 ### Synonyms
-- [[in-law]]
+- [[i/_in-law|in-law]]
 ---

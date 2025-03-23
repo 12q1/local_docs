@@ -5,7 +5,7 @@
 	- _Example: The American Dream suffered a debilitating effect after the subprime crisis._
 ---
 ### Synonyms
-- [[enervate]], [[enfeeble]], [[weaken]]
+- [[e/_enervate|enervate]], [[e/_enfeeble|enfeeble]], [[w/_weaken|weaken]]
 #adjective
 - **Weakened.**
 	- _Example: His debilitated body, the victim of the wasting disease, could no longer support his weight._

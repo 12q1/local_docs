@@ -6,7 +6,7 @@
 	- _Example: Let's charge this to marketing._
 - **To pay on [[a/_account|account]], as by using a [[c/_credit|credit]] [[c/_card|card]]**
 	- _Example: Can I charge my purchase to my credit card?_
-- **To require payment (of) (a price or fee, for goods, services, etc.)**
+- **To require payment (of) (a price or fee, for goods, services, [[e/_etc|etc]].)**
 	- _Example: I won't charge you for the wheat_
 - **(possibly [[a/_archaic|archaic]]) to sell at a given price.**
 	- _Example: to charge coal at $5 per unit_

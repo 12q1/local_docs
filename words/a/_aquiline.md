@@ -5,5 +5,5 @@
 	- _Example: Frank's aquiline nose jutted out from underneath his glasses._
 ---
 ### Synonyms
-- [[eaglelike]]
+- [[e/_eaglelike|eaglelike]]
 ---

@@ -6,5 +6,5 @@
 - **[[a/_aircraft|Aircraft]] or other machinery made partially or wholly of [[a/_aluminium|aluminium]].**
 ---
 ### Synonyms
-- [[E173]], [[food colouring]], [[alumium]]
+- [[E/_E173|E173]], [[a/_alumium|alumium]]
 ---

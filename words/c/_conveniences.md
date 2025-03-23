@@ -9,5 +9,5 @@
 - **[[c/_clipping|Clipping]] of public [[c/_convenience|convenience]]: a public lavatory.**
 ---
 ### Synonyms
-- [[amenity]]
+- [[a/_amenity|amenity]]
 ---

@@ -7,5 +7,5 @@
 - **The state of [[b/_being|being]] struck with [[a/_awe|awe]]; a spirit of solemnity; profound reverence.**
 ---
 ### Synonyms
-- [[dreadfulness]], [[solemnity]]
+- [[d/_dreadfulness|dreadfulness]], [[s/_solemnity|solemnity]]
 ---

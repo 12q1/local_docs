@@ -10,6 +10,6 @@
 ---
 #verb
 - **To [[c/_conquer|conquer]].**
-- **To [[c/_compete|compete]] with an established [[c/_competitor|competitor]] by placing [[a/_advertisements|advertisements]] for one's own products [[a/_adjacent|adjacent]] to [[e/_editorial|editorial]] [[c/_content|content]] relating to the [[c/_competitor|competitor]] or by using terms and keywords for one's own products that are [[c/_currently|currently]] [[a/_associated|associated]] with the [[c/_competitor|competitor]].**
+- **To [[c/_compete|compete]] with an [[e/_established|established]] [[c/_competitor|competitor]] by placing [[a/_advertisements|advertisements]] for one's own products [[a/_adjacent|adjacent]] to [[e/_editorial|editorial]] [[c/_content|content]] relating to the [[c/_competitor|competitor]] or by using terms and keywords for one's own products that are [[c/_currently|currently]] [[a/_associated|associated]] with the [[c/_competitor|competitor]].**
 ---
 ---

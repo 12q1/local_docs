@@ -9,7 +9,7 @@
 - **A hundredth of a semitone or half step.**
 ---
 ### Synonyms
-- [[penny]], [[dollarcent]], [[eurocent]]
+- [[p/_penny|penny]], [[d/_dollarcent|dollarcent]], [[e/_eurocent|eurocent]]
 #noun
 - **The point in the interior of a [[c/_circle|circle]] that is [[e/_equidistant|equidistant]] from [[a/_all|all]] points on the [[c/_circumference|circumference]].**
 - **The point in the interior of a sphere that is [[e/_equidistant|equidistant]] from [[a/_all|all]] points on the [[c/_circumference|circumference]].**
@@ -26,14 +26,14 @@
 - **A pass played into the [[c/_centre|centre]] of the pitch.**
 - **One of the [[b/_backs|backs]] operating in a [[c/_central|central]] [[a/_area|area]] of the pitch, [[e/_either|either]] the inside [[c/_centre|centre]] or outside [[c/_centre|centre]].**
 - **A temporary structure upon which the materials of a vault or [[a/_arch|arch]] are supported in position until the work [[b/_becomes|becomes]] self-supporting.**
-- **One of the two [[c/_conical|conical]] steel pins in a lathe, etc., upon which the work is held, and [[a/_about|about]] which it revolves.**
+- **One of the two [[c/_conical|conical]] steel pins in a lathe, [[e/_etc|etc]]., upon which the work is held, and [[a/_about|about]] which it revolves.**
 - **A [[c/_conical|conical]] recess or indentation in the [[e/_end|end]] of a shaft or other work, to receive the point of a [[c/_center|center]], on which the work [[c/_can|can]] turn, as in a lathe.**
 - **The [[e/_ensemble|ensemble]] of moderate or [[c/_centrist|centrist]] political parties.**
 ---
 ### Synonyms
-- [[middle]], [[midst]], [[center of gravity]], [[center of mass]], [[centroid]], [[midpoint]]
+- [[m/_middle|middle]], [[m/_midst|midst]], [[c/_centroid|centroid]], [[m/_midpoint|midpoint]]
 ### Antonyms
-- [[periphery]]
+- [[p/_periphery|periphery]]
 #noun
 - **A [[c/_centigrade|centigrade]] temperature scale having the freezing point of water [[d/_defined|defined]] as 0° and its [[b/_boiling|boiling]] point [[d/_defined|defined]] as 100° at standard [[a/_atmospheric|atmospheric]] pressure. Known as the [[c/_celsius|Celsius]] scale since 1948.**
 - **A single [[d/_degree|degree]] on this scale.**
@@ -56,5 +56,5 @@
 - **A [[b/_banknote|banknote]] in the [[d/_denomination|denomination]] of one hundred [[d/_dollars|dollars]].**
 ---
 ### Synonyms
-- [[centuria]], [[yearhundred]]
+- [[c/_centuria|centuria]], [[y/_yearhundred|yearhundred]]
 ---

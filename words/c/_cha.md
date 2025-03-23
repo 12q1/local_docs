@@ -5,5 +5,5 @@
 	- _Example: Would you like a cup of cha?_
 ---
 ### Synonyms
-- [[tea]]
+- [[t/_tea|tea]]
 ---

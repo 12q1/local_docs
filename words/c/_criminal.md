@@ -4,7 +4,7 @@
 - **A person who is guilty of a [[c/_crime|crime]], notably [[b/_breaking|breaking]] the law.**
 ---
 ### Synonyms
-- [[lawbreaker]], [[offender]], [[perpetrator]]
+- [[l/_lawbreaker|lawbreaker]], [[o/_offender|offender]], [[p/_perpetrator|perpetrator]]
 #adjective
 - **[[a/_against|Against]] the law; forbidden by law.**
 - **Guilty of [[b/_breaking|breaking]] the law.**
@@ -14,5 +14,5 @@
 	- _Example: Printing such asinine opinions is criminal!_
 ---
 ### Synonyms
-- [[crimeful]], [[delictuous]], [[illegal]]
+- [[c/_crimeful|crimeful]], [[d/_delictuous|delictuous]], [[i/_illegal|illegal]]
 ---

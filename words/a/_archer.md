@@ -5,5 +5,5 @@
 - **The [[b/_bishop|bishop]] in [[c/_chess|chess]].**
 ---
 ### Synonyms
-- [[bowman]], [[crossbowman]], [[marksman]], [[toxophilite]], [[toxotes]]
+- [[b/_bowman|bowman]], [[c/_crossbowman|crossbowman]], [[m/_marksman|marksman]], [[t/_toxophilite|toxophilite]], [[t/_toxotes|toxotes]]
 ---

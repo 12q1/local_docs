@@ -12,7 +12,7 @@
 - **To indurate.**
 ---
 ### Synonyms
-- [[carry on]], [[plug away]], [[go on]], [[hold on]], [[persist]], [[resist]], [[survive]], [[withstand]], [[accept]], [[thole]], [[withstand]], [[bear]], [[take]], [[thole]]
+- [[p/_persist|persist]], [[r/_resist|resist]], [[s/_survive|survive]], [[w/_withstand|withstand]], [[a/_accept|accept]], [[t/_thole|thole]], [[w/_withstand|withstand]], [[b/_bear|bear]], [[t/_take|take]], [[t/_thole|thole]]
 #noun
 - **[[e/_endurance|Endurance]]**
 ---
@@ -21,5 +21,5 @@
 	- _Example: an enduring belief in democracy_
 ---
 ### Synonyms
-- [[diuturnal]], [[prolonged]]
+- [[d/_diuturnal|diuturnal]], [[p/_prolonged|prolonged]]
 ---

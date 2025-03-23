@@ -5,5 +5,5 @@
 - **In insects, the lateral piece [[b/_behind|behind]] the [[e/_episternum|episternum]].**
 ---
 ### Synonyms
-- [[epimerum]]
+- [[e/_epimerum|epimerum]]
 ---

@@ -5,7 +5,7 @@
 - **A style of [[d/_dance|dance]] to this music, popular in the 1960s.**
 - **A piece of music, or an instance of [[d/_dancing|dancing]], in or of this style.**
 - **A type of freestyle, improvisational street [[d/_dance|dance]] incorporating soulful steps and robotic movements, originally [[d/_danced|danced]] to funk and [[d/_disco|disco]], but later more [[c/_commonly|commonly]] to hip-hop.**
-- **A sequel or repetition of events, etc.**
+- **A sequel or repetition of events, [[e/_etc|etc]].**
 - **A hypothetical second [[a/_american|American]] [[c/_civil|Civil]] War, in which far-right or [[a/_antigovernment|antigovernment]] [[a/_activists|activists]] rise up [[a/_against|against]] the government.**
 - **(possibly obsolete) A [[b/_black|black]] person.**
 ---

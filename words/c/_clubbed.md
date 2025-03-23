@@ -21,5 +21,5 @@
 - **Shaped like a [[c/_club|club]]; grasped like, or used as, a [[c/_club|club]].**
 ---
 ### Synonyms
-- [[clavate]], [[claviform]]
+- [[c/_clavate|clavate]], [[c/_claviform|claviform]]
 ---

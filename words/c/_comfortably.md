@@ -6,5 +6,5 @@
 - **[[e/_easily|Easily]]; without [[e/_effort|effort]] or [[d/_difficulty|difficulty]].**
 ---
 ### Antonyms
-- [[uncomfortably]]
+- [[u/_uncomfortably|uncomfortably]]
 ---

@@ -6,5 +6,5 @@
 - **Transitory, [[e/_ephemeral|ephemeral]], not lasting.**
 ---
 ### Antonyms
-- [[evergreen]], [[sempervirent]], [[permanent]], [[persistent]]
+- [[e/_evergreen|evergreen]], [[s/_sempervirent|sempervirent]], [[p/_permanent|permanent]], [[p/_persistent|persistent]]
 ---

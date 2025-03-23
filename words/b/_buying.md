@@ -7,7 +7,7 @@
 	- _Example: I've bought material comfort by foregoing my dreams._
 - **To [[b/_bribe|bribe]].**
 	- _Example: He tried to buy me with gifts, but I wouldn't give up my beliefs._
-- **To be equivalent to in value.**
+- **To be [[e/_equivalent|equivalent]] to in value.**
 	- _Example: The dollar doesn't buy as much as it used to._
 - **To [[a/_accept|accept]] as true; to [[b/_believe|believe]]**
 	- _Example: I'm not going to buy your stupid excuses anymore!_
@@ -17,9 +17,9 @@
 	- _Example: Smith tried to buy the pot on the river with a huge bluff_
 ---
 ### Synonyms
-- [[make a buy]], [[accept]], [[believe]], [[swallow]], [[take on]], [[cheap]], [[purchase]]
+- [[a/_accept|accept]], [[b/_believe|believe]], [[s/_swallow|swallow]], [[c/_cheap|cheap]], [[p/_purchase|purchase]]
 ### Antonyms
-- [[disbelieve]], [[pitch]], [[reject]], [[cheap]], [[sell]], [[vend]]
+- [[d/_disbelieve|disbelieve]], [[p/_pitch|pitch]], [[r/_reject|reject]], [[c/_cheap|cheap]], [[s/_sell|sell]], [[v/_vend|vend]]
 #noun
 - **The [[a/_act|act]] of making a purchase.**
 ---

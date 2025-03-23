@@ -6,5 +6,5 @@
 	- _Example: The Anarchist's Cookbook_
 ---
 ### Synonyms
-- [[cookery book]], [[recipe book]]
+- 
 ---

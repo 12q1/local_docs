@@ -9,7 +9,7 @@
 - **A hip hop [[d/_dance|dance]] move in which the [[d/_dancer|dancer]] simultaneously [[d/_drops|drops]] the head while raising an [[a/_arm|arm]], [[b/_briefly|briefly]] resting their face in the [[e/_elbow|elbow]], as if sneezing into their [[e/_elbow|elbow]].**
 ---
 ### Synonyms
-- [[blob]]
+- [[b/_blob|blob]]
 #verb
 - **To press lightly in a repetitive motion with a soft object without rubbing.**
 	- _Example: I dabbed my face with a towel._
@@ -23,7 +23,7 @@
 - **One skilful or proficient; an expert; an [[a/_adept|adept]].**
 ---
 #noun
-- **A small flatfish of the family Pleuronectidae, especially Limanda limanda; a flounder.**
+- **A small flatfish of the family Pleuronectidae, [[e/_especially|especially]] Limanda limanda; a flounder.**
 - **A sand [[d/_dab|dab]], a small flatfish of genus Citharichthys.**
 ---
 ---

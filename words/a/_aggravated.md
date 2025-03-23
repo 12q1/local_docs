@@ -9,12 +9,12 @@
 - **To exasperate; to provoke or irritate.**
 ---
 ### Synonyms
-- [[exasperate]], [[irritate]], [[provoke]], [[exacerbate]], [[exaggerate]], [[heighten]], [[increase]], [[intensify]], [[magnify]]
+- [[e/_exasperate|exasperate]], [[i/_irritate|irritate]], [[p/_provoke|provoke]], [[e/_exacerbate|exacerbate]], [[e/_exaggerate|exaggerate]], [[h/_heighten|heighten]], [[i/_increase|increase]], [[i/_intensify|intensify]], [[m/_magnify|magnify]]
 ### Antonyms
-- [[alleviate]], [[mitigate]]
+- [[a/_alleviate|alleviate]], [[m/_mitigate|mitigate]]
 #adjective
 - **Having [[b/_been|been]] the subject of [[a/_aggravation|aggravation]]; frustrated and [[a/_angry|angry]].**
 ---
 ### Synonyms
-- [[aggro]]
+- [[a/_aggro|aggro]]
 ---

@@ -16,7 +16,7 @@
 - **(of a [[d/_dye|dye]]) Needing the use of a mordant to be made fast to that which is [[b/_being|being]] [[d/_dyed|dyed]].**
 ---
 ### Synonyms
-- [[adjectival]], [[dependent]], [[derivative]], [[procedural]]
+- [[a/_adjectival|adjectival]], [[d/_dependent|dependent]], [[d/_derivative|derivative]], [[p/_procedural|procedural]]
 ### Antonyms
-- [[substantive]], [[substantive]]
+- [[s/_substantive|substantive]], [[s/_substantive|substantive]]
 ---

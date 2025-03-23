@@ -17,7 +17,7 @@
 - **To invite by [[a/_attractions|attractions]]; to [[a/_allure|allure]]; to [[a/_attract|attract]].**
 ---
 ### Synonyms
-- [[charm]], [[entrance]], [[romance]], [[solicit]]
+- [[c/_charm|charm]], [[e/_entrance|entrance]], [[r/_romance|romance]], [[s/_solicit|solicit]]
 #noun
 - **[[c/_courtship|Courtship]]; [[a/_amorous|amorous]] [[a/_advances|advances]]**
 ---

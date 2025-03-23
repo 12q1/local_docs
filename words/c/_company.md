@@ -11,7 +11,7 @@
 	- _Example: I treasure your company._
 ---
 ### Synonyms
-- [[fellowship]], [[friendship]], [[mateship]], [[association]], [[companionship]], [[fellowship]], [[organization]], [[society]], [[corporation]]
+- [[f/_fellowship|fellowship]], [[f/_friendship|friendship]], [[m/_mateship|mateship]], [[a/_association|association]], [[c/_companionship|companionship]], [[f/_fellowship|fellowship]], [[o/_organization|organization]], [[s/_society|society]], [[c/_corporation|corporation]]
 #verb
 - **To [[a/_accompany|accompany]], keep [[c/_company|company]] with.**
 - **To [[a/_associate|associate]].**
@@ -19,5 +19,5 @@
 - **To have sexual intercourse.**
 ---
 ### Synonyms
-- [[attend]], [[escort]], [[go with]], [[fornicate]], [[have sex]], [[make love]]
+- [[a/_attend|attend]], [[e/_escort|escort]], [[f/_fornicate|fornicate]]
 ---

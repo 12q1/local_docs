@@ -3,7 +3,7 @@
 #verb
 - **To subject to the process of [[a/_acclimation|acclimation]].**
 	- _Example: I became conditioned to the absence of seasons in San Diego._
-- **To subject to [[d/_different|different]] [[c/_conditions|conditions]], especially as an exercise.**
+- **To subject to [[d/_different|different]] [[c/_conditions|conditions]], [[e/_especially|especially]] as an exercise.**
 	- _Example: They were conditioning their shins in their karate class._
 - **To place [[c/_conditions|conditions]] or limitations upon.**
 - **To shape the [[b/_behaviour|behaviour]] of someone to [[d/_do|do]] something.**
@@ -16,7 +16,7 @@
 ---
 #adjective
 - **[[d/_determined|Determined]] or [[d/_dependent|dependent]] on some [[c/_condition|condition]]**
-- **Physically fit, especially as the result of exercise**
+- **Physically fit, [[e/_especially|especially]] as the result of exercise**
 - **Prepared for a specific use**
 - **Exhibiting a [[c/_conditioned|conditioned]] reflex**
 ---

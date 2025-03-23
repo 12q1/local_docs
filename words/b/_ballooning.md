@@ -12,7 +12,7 @@
 - **The [[a/_act|act]] of something that swells or expands.**
 - **The sport or hobby of flying in a [[b/_balloon|balloon]].**
 	- _Example: When he retired, he took up ballooning._
-- **The mechanical kiting used by spiders, mites, [[c/_caterpillars|caterpillars]], etc. to travel through the [[a/_air|air]].**
+- **The mechanical kiting used by spiders, mites, [[c/_caterpillars|caterpillars]], [[e/_etc|etc]]. to travel through the [[a/_air|air]].**
 ---
 #adjective
 - **Growing rapidly as a [[b/_balloon|balloon]].**

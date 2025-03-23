@@ -8,7 +8,7 @@
 - **(rounders) The player who stands immediately [[b/_behind|behind]] the striking [[b/_base|base]].**
 - **The longstop.**
 - **The wicket-keeper.**
-- **Something serving to [[b/_bolster|bolster]] or support a [[c/_cover|cover]] story etc.**
+- **Something serving to [[b/_bolster|bolster]] or support a [[c/_cover|cover]] story [[e/_etc|etc]].**
 ---
 #verb
 - **To serve as [[b/_backstop|backstop]] for.**

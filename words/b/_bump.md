@@ -19,7 +19,7 @@
 - **A [[c/_coarse|coarse]] [[c/_cotton|cotton]] fabric.**
 - **A training match for a fighting [[d/_dog|dog]].**
 - **The jaw of [[e/_either|either]] of the middle pockets.**
-- **Music, especially played over speakers at loud volume with strong [[b/_bass|bass]] frequency response.**
+- **Music, [[e/_especially|especially]] played over speakers at loud volume with strong [[b/_bass|bass]] frequency response.**
 ---
 #verb
 - **To knock [[a/_against|against]] or run into with a jolt.**

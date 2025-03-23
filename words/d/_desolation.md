@@ -6,5 +6,5 @@
 - **A place or [[c/_country|country]] wasted and forsaken.**
 ---
 ### Synonyms
-- [[destitution]], [[gloom]], [[gloominess]], [[ruin]], [[solitariness]]
+- [[d/_destitution|destitution]], [[g/_gloom|gloom]], [[g/_gloominess|gloominess]], [[r/_ruin|ruin]], [[s/_solitariness|solitariness]]
 ---

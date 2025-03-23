@@ -6,7 +6,7 @@
 - **Preserving the sign.**
 ---
 ### Synonyms
-- [[consonant]], [[in keeping with]]
+- [[c/_consonant|consonant]]
 ### Antonyms
-- [[discordant]], [[nonconcordant]]
+- [[d/_discordant|discordant]], [[n/_nonconcordant|nonconcordant]]
 ---

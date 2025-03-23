@@ -5,5 +5,5 @@
 	- _Example: The billionaire’s will established a trust to create a staff of archivists that would chronicle and preserve his rise to prominence._
 ---
 ### Synonyms
-- [[historian]], [[librarian]], [[preservationist]], [[recordkeeper]], [[scribe]]
+- [[h/_historian|historian]], [[l/_librarian|librarian]], [[p/_preservationist|preservationist]], [[r/_recordkeeper|recordkeeper]], [[s/_scribe|scribe]]
 ---

@@ -4,5 +4,5 @@
 - **[[c/_camaraderie|Camaraderie]]**
 ---
 ### Synonyms
-- [[camaraderie]], [[chumminess]], [[comradeliness]], [[comradeship]]
+- [[c/_camaraderie|camaraderie]], [[c/_chumminess|chumminess]], [[c/_comradeliness|comradeliness]], [[c/_comradeship|comradeship]]
 ---

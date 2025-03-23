@@ -1,6 +1,6 @@
 # Alevin
 ---
 #noun
-- **Newly hatched fish, especially salmon.**
+- **Newly hatched fish, [[e/_especially|especially]] salmon.**
 ---
 ---

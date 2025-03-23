@@ -18,5 +18,5 @@
 	- _Example: The project had better get finished by the current deadline._
 ---
 ### Synonyms
-- [[had best]]
+- 
 ---

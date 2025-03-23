@@ -5,7 +5,7 @@
 - **A [[c/_cruel|cruel]] [[a/_act|act]].**
 ---
 ### Synonyms
-- [[barbarism]], [[mercilessness]], [[ruthlessness]]
+- [[b/_barbarism|barbarism]], [[m/_mercilessness|mercilessness]], [[r/_ruthlessness|ruthlessness]]
 ### Antonyms
-- [[mercy]]
+- [[m/_mercy|mercy]]
 ---

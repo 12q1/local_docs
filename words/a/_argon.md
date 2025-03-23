@@ -5,5 +5,5 @@
 - **A single [[a/_atom|atom]] of this [[e/_element|element]].**
 ---
 ### Synonyms
-- [[E938]], [[packaging gas]]
+- [[E/_E938|E938]]
 ---

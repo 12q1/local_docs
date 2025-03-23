@@ -5,7 +5,7 @@
 - **To head or point; to keep a [[c/_course|course]].**
 	- _Example: The ship capes southwest by south._
 - **To skin an [[a/_animal|animal]], particularly a [[d/_deer|deer]].**
-- **To [[d/_defend|defend]] or praise, especially that which is unworthy.**
+- **To [[d/_defend|defend]] or praise, [[e/_especially|especially]] that which is unworthy.**
 ---
 #verb
 - **To look for, search [[a/_after|after]].**

@@ -4,7 +4,7 @@
 - **A [[c/_cause|cause]]; something that [[c/_causes|causes]] an [[e/_effect|effect]]**
 ---
 #adjective
-- **Making good, thorough, or [[c/_careful|careful]] use of resources; not [[c/_consuming|consuming]] extra. Especially, making good use of time or [[e/_energy|energy]]**
+- **Making good, thorough, or [[c/_careful|careful]] use of resources; not [[c/_consuming|consuming]] extra. [[e/_especially|Especially]], making good use of time or [[e/_energy|energy]]**
 	- _Example: An efficient process would automate all the routine work._
 - **Expressing the proportion of [[c/_consumed|consumed]] [[e/_energy|energy]] that was successfully used in a process; the ratio of useful output to total input**
 	- _Example: The motor is only 20% efficient at that temperature._
@@ -13,5 +13,5 @@
 - **(old use) [[e/_effective|effective]]**
 ---
 ### Antonyms
-- [[inefficient]]
+- [[i/_inefficient|inefficient]]
 ---

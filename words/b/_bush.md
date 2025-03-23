@@ -5,11 +5,11 @@
 - **A shrub [[c/_cut|cut]] off, or a shrublike [[b/_branch|branch]] of a tree.**
 	- _Example: bushes to support pea vines_
 - **A shrub or [[b/_branch|branch]], properly, a [[b/_branch|branch]] of ivy (sacred to [[b/_bacchus|Bacchus]]), hung out at vintners' [[d/_doors|doors]], or as a tavern sign; hence, a tavern sign, and symbolically, the tavern itself.**
-- **A person's pubic hair, especially a woman's.**
+- **A person's pubic hair, [[e/_especially|especially]] a woman's.**
 - **The tail, or [[b/_brush|brush]], of a fox.**
 ---
 ### Synonyms
-- [[shrub]]
+- [[s/_shrub|shrub]]
 #verb
 - **To [[b/_branch|branch]] thickly in the manner of a [[b/_bush|bush]].**
 - **To set [[b/_bushes|bushes]] for; to support with [[b/_bushes|bushes]].**

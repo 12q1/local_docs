@@ -1,7 +1,7 @@
 # Corked
 ---
 #verb
-- **To seal or stop up, especially with a [[c/_cork|cork]] stopper.**
+- **To seal or stop up, [[e/_especially|especially]] with a [[c/_cork|cork]] stopper.**
 - **To [[b/_blacken|blacken]] (as) with a [[b/_burnt|burnt]] [[c/_cork|cork]]**
 - **To leave the [[c/_cork|cork]] in a [[b/_bottle|bottle]] [[a/_after|after]] [[a/_attempting|attempting]] to uncork it.**
 - **To fill with [[c/_cork|cork]], as the [[c/_center|center]] of a [[b/_baseball|baseball]] [[b/_bat|bat]].**
@@ -14,7 +14,7 @@
 - **To perform such a maneuver.**
 ---
 #adjective
-- **Of a [[c/_container|container]], especially a [[b/_bottle|bottle]], [[c/_closed|closed]] with a [[c/_cork|cork]].**
+- **Of a [[c/_container|container]], [[e/_especially|especially]] a [[b/_bottle|bottle]], [[c/_closed|closed]] with a [[c/_cork|cork]].**
 - **Of (a [[b/_bottle|bottle]] of) wine, tainted by mould/mold in the [[c/_cork|cork]].**
 	- _Example: Waiter, this wine is corked. Could you bring us another bottle?_
 - **[[b/_blackened|Blackened]] by [[b/_burnt|burnt]] [[c/_cork|cork]].**

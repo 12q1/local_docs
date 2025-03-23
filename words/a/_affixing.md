@@ -9,7 +9,7 @@
 	- _Example: eyes affixed upon the ground_
 ---
 ### Synonyms
-- [[join]], [[put together]], [[unite]]
+- [[j/_join|join]], [[u/_unite|unite]]
 #noun
 - **[[a/_affixation|Affixation]]**
 ---

@@ -8,5 +8,5 @@
 - **A nanodevice [[c/_capable|capable]] of [[a/_assembling|assembling]] nanodevices, possibly including [[c/_copies|copies]] of itself, [[a/_according|according]] to a plan.**
 ---
 ### Synonyms
-- [[assembly]], [[assembly language]]
+- [[a/_assembly|assembly]]
 ---

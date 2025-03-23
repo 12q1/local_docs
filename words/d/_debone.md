@@ -5,5 +5,5 @@
 	- _Example: I am deboning a fish._
 ---
 ### Synonyms
-- [[bone]], [[unbone]]
+- [[b/_bone|bone]], [[u/_unbone|unbone]]
 ---

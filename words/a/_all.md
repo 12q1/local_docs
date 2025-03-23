@@ -20,7 +20,7 @@
 - **Even; just.**
 ---
 ### Synonyms
-- [[completely]]
+- [[c/_completely|completely]]
 #pronoun
 - **Everything.**
 	- _Example: She knows all and sees all._

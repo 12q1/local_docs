@@ -5,5 +5,5 @@
 - **[[b/_baskets|Baskets]] [[c/_collectively|collectively]].**
 ---
 ### Synonyms
-- [[basket weaving]], [[basketmaking]], [[basketwork]]
+- [[b/_basketmaking|basketmaking]], [[b/_basketwork|basketwork]]
 ---

@@ -1,7 +1,7 @@
 # Cock
 ---
 #noun
-- **A male [[b/_bird|bird]], especially:**
+- **A male [[b/_bird|bird]], [[e/_especially|especially]]:**
 - **A valve or tap for [[c/_controlling|controlling]] flow in plumbing.**
 - **The hammer of a firearm trigger mechanism.**
 - **The notch of an [[a/_arrow|arrow]] or [[c/_crossbow|crossbow]].**
@@ -16,19 +16,19 @@
 - **Shuttlecock**
 - **A vane in the shape of a [[c/_cock|cock]]; a weathercock.**
 - **A [[c/_chief|chief]] man; a leader or master.**
-- **The [[c/_crow|crow]] of a [[c/_cock|cock]], especially the first [[c/_crow|crow]] in the morning; [[c/_cockcrow|cockcrow]].**
-- **A male fish, especially a salmon or trout.**
+- **The [[c/_crow|crow]] of a [[c/_cock|cock]], [[e/_especially|especially]] the first [[c/_crow|crow]] in the morning; [[c/_cockcrow|cockcrow]].**
+- **A male fish, [[e/_especially|especially]] a salmon or trout.**
 - **The style or gnomon of a sundial.**
 - **The indicator of a [[b/_balance|balance]].**
 - **The [[b/_bridge|bridge]] piece that [[a/_affords|affords]] a [[b/_bearing|bearing]] for the pivot of a [[b/_balance|balance]] in a [[c/_clock|clock]] or watch.**
 ---
 ### Synonyms
-- [[cockbird]], [[rooster]], [[stopcock]], [[cockfish]]
+- [[c/_cockbird|cockbird]], [[r/_rooster|rooster]], [[s/_stopcock|stopcock]], [[c/_cockfish|cockfish]]
 #verb
 - **To lift the [[c/_cock|cock]] of a firearm or [[c/_crossbow|crossbow]]; to prepare (a gun or [[c/_crossbow|crossbow]]) to be fired.**
 - **To be prepared to be triggered by having the [[c/_cock|cock]] lifted.**
 	- _Example: In the darkness, the gun cocked loudly._
-- **To erect; to turn up.**
+- **To [[e/_erect|erect]]; to turn up.**
 - **To [[c/_copulate|copulate]] with.**
 - **To turn or twist something upwards or to one side; to lift or tilt ([[e/_e|e]].g. headwear) [[b/_boastfully|boastfully]].**
 	- _Example: He cocked his hat jauntily._

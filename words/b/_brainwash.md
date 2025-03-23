@@ -5,6 +5,6 @@
 ---
 #verb
 - **To [[a/_affect|affect]] one's mind by using extreme mental pressure or [[a/_any|any]] other mind-[[a/_affecting|affecting]] process. ([[e/_e|e]].g. hypnosis)**
-- **To take from an [[e/_electronically|electronically]] [[c/_controlled|controlled]] machine its stored-up information; to erase a [[c/_computer|computer]]'s programming. (1960)**
+- **To take from an [[e/_electronically|electronically]] [[c/_controlled|controlled]] machine its stored-up information; to [[e/_erase|erase]] a [[c/_computer|computer]]'s programming. (1960)**
 ---
 ---

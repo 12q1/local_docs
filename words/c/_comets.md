@@ -6,5 +6,5 @@
 - **[[a/_any|Any]] of several species of hummingbird found in the [[a/_andes|Andes]].**
 ---
 ### Synonyms
-- [[faxed star]]
+- 
 ---

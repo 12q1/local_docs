@@ -4,5 +4,5 @@
 - **(in Spanish [[c/_contexts|contexts]]) goodbye**
 ---
 ### Synonyms
-- [[addio]], [[adieu]], [[aloha]], [[arrivederci]], [[au revoir]], [[auf Wiedersehen]], [[ayubowan]], [[bye]], [[bye-bye]], [[cheerio]], [[cheers]], [[ciao]], [[do svidanya]], [[farewell]], [[good day]], [[good-by]], [[good-bye]], [[goodbye]], [[sayonara]], [[shalom]], [[so long]]
+- [[a/_addio|addio]], [[a/_adieu|adieu]], [[a/_aloha|aloha]], [[a/_arrivederci|arrivederci]], [[a/_ayubowan|ayubowan]], [[b/_bye|bye]], [[b/_bye-bye|bye-bye]], [[c/_cheerio|cheerio]], [[c/_cheers|cheers]], [[c/_ciao|ciao]], [[f/_farewell|farewell]], [[g/_good-by|good-by]], [[g/_good-bye|good-bye]], [[g/_goodbye|goodbye]], [[s/_sayonara|sayonara]], [[s/_shalom|shalom]]
 ---

@@ -7,7 +7,7 @@
 	- _Example: Life has thrown him a few curveballs._
 ---
 ### Synonyms
-- [[curve]], [[deuce]], [[yakker]]
+- [[c/_curve|curve]], [[d/_deuce|deuce]], [[y/_yakker|yakker]]
 #verb
 - **To throw a [[c/_curveball|curveball]].**
 ---

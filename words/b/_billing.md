@@ -1,7 +1,7 @@
 # Billing
 ---
 #verb
-- **To [[d/_dig|dig]], [[c/_chop|chop]], etc., with a [[b/_bill|bill]].**
+- **To [[d/_dig|dig]], [[c/_chop|chop]], [[e/_etc|etc]]., with a [[b/_bill|bill]].**
 ---
 #verb
 - **To peck**
@@ -12,7 +12,7 @@
 - **To [[c/_charge|charge]]; to send a [[b/_bill|bill]] to.**
 ---
 ### Synonyms
-- [[charge]], [[placard]]
+- [[c/_charge|charge]], [[p/_placard|placard]]
 #noun
 - **[[a/_amounts|Amounts]] [[b/_billed|billed]].**
 - **[[a/_accounts|Accounts]] receivable.**

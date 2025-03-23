@@ -7,7 +7,7 @@
 - **Not [[d/_direct|direct]] or expressed, but inferred.**
 ---
 ### Synonyms
-- [[productive]]
+- [[p/_productive|productive]]
 ### Antonyms
-- [[destructive]], [[destructive]]
+- [[d/_destructive|destructive]], [[d/_destructive|destructive]]
 ---

@@ -6,5 +6,5 @@
 - **A plant of the genus Ehrendorferia in the family Papaveraceae, native to [[c/_california|California]].**
 ---
 ### Synonyms
-- [[bleeding heart]]
+- 
 ---

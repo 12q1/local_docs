@@ -8,7 +8,7 @@
 	- _Example: a garden appareled with greenery_
 ---
 ### Synonyms
-- [[dight]], [[don]], [[put on]], [[adorn]], [[ornament]], [[kit out]]
+- [[d/_dight|dight]], [[d/_don|don]], [[a/_adorn|adorn]], [[o/_ornament|ornament]]
 #noun
 - **[[c/_clothing|Clothing]]**
 ---

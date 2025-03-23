@@ -17,5 +17,5 @@
 - **To ply with [[d/_drams|drams]] of [[d/_drink|drink]].**
 ---
 ### Synonyms
-- [[nip]], [[shot]], [[slug]], [[snifter]], [[tot]], [[bit]], [[mite]], [[pinch]], [[smidge]], [[smidgeon]]
+- [[n/_nip|nip]], [[s/_shot|shot]], [[s/_slug|slug]], [[s/_snifter|snifter]], [[t/_tot|tot]], [[b/_bit|bit]], [[m/_mite|mite]], [[p/_pinch|pinch]], [[s/_smidge|smidge]], [[s/_smidgeon|smidgeon]]
 ---

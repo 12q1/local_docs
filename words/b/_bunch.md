@@ -18,7 +18,7 @@
 - **A protuberance; a hunch; a knob or lump; a hump.**
 ---
 ### Synonyms
-- [[cluster]], [[group]], [[circle]], [[gang]], [[group]], [[pack]], [[bunch of ore]], [[kidney]], [[nest]], [[nest of ore]], [[ore bunch]], [[ore pocket]], [[pocket]], [[pocket of ore]]
+- [[c/_cluster|cluster]], [[g/_group|group]], [[c/_circle|circle]], [[g/_gang|gang]], [[g/_group|group]], [[p/_pack|pack]], [[k/_kidney|kidney]], [[n/_nest|nest]], [[p/_pocket|pocket]]
 #verb
 - **To gather into a [[b/_bunch|bunch]].**
 - **To gather fabric into folds.**
@@ -27,5 +27,5 @@
 - **To protrude or swell**
 ---
 ### Synonyms
-- [[cluster]], [[group]]
+- [[c/_cluster|cluster]], [[g/_group|group]]
 ---

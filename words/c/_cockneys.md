@@ -6,5 +6,5 @@
 - **An [[e/_effeminate|effeminate]] person; a spoilt [[c/_child|child]].**
 ---
 ### Synonyms
-- [[nancy]], [[pansy]], [[sissy]]
+- [[n/_nancy|nancy]], [[p/_pansy|pansy]], [[s/_sissy|sissy]]
 ---

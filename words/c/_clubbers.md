@@ -5,5 +5,5 @@
 - **One who [[c/_clubs|clubs]], who hits objects with a [[c/_club|club]].**
 ---
 ### Synonyms
-- [[clubgoer]]
+- [[c/_clubgoer|clubgoer]]
 ---

@@ -5,7 +5,7 @@
 	- _Example: If x is the logarithm of y, then y is the antilogarithm of x._
 ---
 ### Synonyms
-- [[antilog]]
+- [[a/_antilog|antilog]]
 ### Antonyms
-- [[logarithm]]
+- [[l/_logarithm|logarithm]]
 ---

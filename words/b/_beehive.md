@@ -13,7 +13,7 @@
 - **In Conway's Game of Life, a particular still life [[c/_configuration|configuration]] with a rounded [[a/_appearance|appearance]].**
 ---
 ### Synonyms
-- [[B-52]], [[hive]], [[skep]], [[hive of activity]]
+- [[B/_B-52|B-52]], [[h/_hive|hive]], [[s/_skep|skep]]
 #verb
 - **To fill (a place) with [[b/_busy|busy]] [[a/_activity|activity]].**
 ---

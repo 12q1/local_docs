@@ -9,10 +9,10 @@
 	- _Example: Burton's famous treatise, "The Anatomy of Melancholy"_
 - **The form of an individual.**
 	- _Example: I went to the Venice beach body-building competition and noticed the competitor from Athens, and let me tell you, that's what I call classic Greek anatomy._
-- **The human [[b/_body|body]], especially in reference to the private parts.**
+- **The human [[b/_body|body]], [[e/_especially|especially]] in reference to the private parts.**
 - **A skeleton, or [[d/_dead|dead]] [[b/_body|body]].**
 - **The physical or functional organization of an organism, or part of it.**
 ---
 ### Synonyms
-- [[analysis]], [[dissection]]
+- [[a/_analysis|analysis]], [[d/_dissection|dissection]]
 ---

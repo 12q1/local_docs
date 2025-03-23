@@ -8,7 +8,7 @@
 	- _Example: Blurring an image is a destructive operation, but rotating an image is not._
 ---
 ### Synonyms
-- [[calamitous]], [[catastrophic]], [[devastating]], [[disastrous]], [[eradicative]], [[harmful]], [[pernicious]], [[ruinous]], [[wrackful]], [[wreckful]]
+- [[c/_calamitous|calamitous]], [[c/_catastrophic|catastrophic]], [[d/_devastating|devastating]], [[d/_disastrous|disastrous]], [[e/_eradicative|eradicative]], [[h/_harmful|harmful]], [[p/_pernicious|pernicious]], [[r/_ruinous|ruinous]], [[w/_wrackful|wrackful]], [[w/_wreckful|wreckful]]
 ### Antonyms
-- [[constructive]], [[nondestructive]], [[productive]]
+- [[c/_constructive|constructive]], [[n/_nondestructive|nondestructive]], [[p/_productive|productive]]
 ---

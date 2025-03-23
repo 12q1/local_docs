@@ -9,9 +9,9 @@
 - **The [[b/_bottom|bottom]] part of a mobile phone, [[b/_below|below]] the screen.**
 ---
 ### Synonyms
-- [[mentum]]
+- [[m/_mentum|mentum]]
 ### Antonyms
-- [[glass jaw]]
+- 
 #verb
 - **To talk.**
 - **To talk to or with (someone).**
@@ -23,5 +23,5 @@
 - **To indicate or point toward (someone or something) with one's [[c/_chin|chin]].**
 ---
 ### Synonyms
-- [[gab]]
+- [[g/_gab|gab]]
 ---

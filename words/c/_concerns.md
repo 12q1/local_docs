@@ -9,7 +9,7 @@
 - **[[a/_any|Any]] set of information that [[a/_affects|affects]] the [[c/_code|code]] of a [[c/_computer|computer]] program.**
 ---
 ### Synonyms
-- [[interest]]
+- [[i/_interest|interest]]
 #verb
 - **To relate or [[b/_belong|belong]] to; to have reference to or [[c/_connection|connection]] with; to [[a/_affect|affect]] the interest of; to be of importance to.**
 - **To [[e/_engage|engage]] by feeling or sentiment; to interest.**

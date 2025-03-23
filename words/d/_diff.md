@@ -30,11 +30,11 @@
 - **(relational [[a/_algebra|algebra]]) the set of [[e/_elements|elements]] that are in one set but not [[a/_another|another]] (\scriptstyle A \overline [[b/_b|B]]).**
 ---
 ### Synonyms
-- [[departure]], [[deviation]], [[disparity]], [[divergence]], [[conflict]], [[difference of opinion]], [[dispute]], [[dissension]], [[remainder]], [[nevermind]]
+- [[d/_departure|departure]], [[d/_deviation|deviation]], [[d/_disparity|disparity]], [[d/_divergence|divergence]], [[c/_conflict|conflict]], [[d/_dispute|dispute]], [[d/_dissension|dissension]], [[r/_remainder|remainder]], [[n/_nevermind|nevermind]]
 ### Antonyms
-- [[identity]], [[sameness]]
+- [[i/_identity|identity]], [[s/_sameness|sameness]]
 #noun
-- **The [[d/_differential|differential]] gear in an [[a/_automobile|automobile]] etc**
+- **The [[d/_differential|differential]] gear in an [[a/_automobile|automobile]] [[e/_etc|etc]]**
 - **A qualitative or quantitative [[d/_difference|difference]] [[b/_between|between]] similar or [[c/_comparable|comparable]] things**
 - **An infinitesimal [[c/_change|change]] in a variable, or the result of [[d/_differentiation|differentiation]]**
 - **One of two [[c/_coils|coils]] of [[c/_conducting|conducting]] wire so related to one [[a/_another|another]] or to a magnet or [[a/_armature|armature]] [[c/_common|common]] to [[b/_both|both]], that one [[c/_coil|coil]] produces polar [[a/_action|action]] [[c/_contrary|contrary]] to that of the other.**

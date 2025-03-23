@@ -8,5 +8,5 @@
 - **(grammar) A modifier that is [[a/_appended|appended]] or prepended to [[a/_another|another]] word to [[c/_coin|coin]] a new word that expresses [[b/_belonging|belonging]].**
 ---
 ### Synonyms
-- [[contenement]]
+- [[c/_contenement|contenement]]
 ---

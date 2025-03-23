@@ -6,5 +6,5 @@
 - **(retail) A sale in which [[a/_all|all]] merchandise is sold, at whatever reduced price is necessary**
 ---
 ### Synonyms
-- [[fire sale]]
+- 
 ---

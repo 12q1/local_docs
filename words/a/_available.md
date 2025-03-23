@@ -12,7 +12,7 @@
 	- _Example: Hi, this is Mark Smith calling. Is your mother available?_
 ---
 ### Synonyms
-- [[effectual]], [[valid]], [[advantageous]], [[profitable]], [[usable]], [[vacant]]
+- [[e/_effectual|effectual]], [[v/_valid|valid]], [[a/_advantageous|advantageous]], [[p/_profitable|profitable]], [[u/_usable|usable]], [[v/_vacant|vacant]]
 ### Antonyms
-- [[unavailable]]
+- [[u/_unavailable|unavailable]]
 ---

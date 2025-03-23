@@ -4,7 +4,7 @@
 - **Having [[a/_accompaniment|accompaniment]]; [[b/_being|being]] part of a group of at least two.**
 ---
 ### Synonyms
-- [[acc.]]
+- [[a/_acc.|acc.]]
 #verb
 - **To go with or [[a/_attend|attend]] as a [[c/_companion|companion]] or [[a/_associate|associate]]; to keep [[c/_company|company]] with; to go [[a/_along|along]] with.**
 	- _Example: Geoffrey accompanied the group on their pilgrimage._

@@ -9,5 +9,5 @@
 - **Related, homologous.**
 ---
 ### Synonyms
-- [[to the point]]
+- 
 ---

@@ -6,7 +6,7 @@
 - **In the [[d/_direction|direction]] opposite that of landing in a traffic pattern**
 ---
 ### Synonyms
-- [[leeward]]
+- [[l/_leeward|leeward]]
 ### Antonyms
-- [[upwind]], [[windward]]
+- [[u/_upwind|upwind]], [[w/_windward|windward]]
 ---

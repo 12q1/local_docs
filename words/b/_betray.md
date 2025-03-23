@@ -8,9 +8,9 @@
 - **To violate the [[c/_confidence|confidence]] of, by [[d/_disclosing|disclosing]] a secret, or that which one is [[b/_bound|bound]] in honor not to make known.**
 - **To [[d/_disclose|disclose]] or indicate, for example something which prudence would [[c/_conceal|conceal]]; to reveal unintentionally.**
 	- _Example: Though he had lived in England for many years, a faint accent betrayed his Swedish origin._
-- **To mislead; to expose to inconvenience not foreseen; to lead into error or sin.**
+- **To mislead; to expose to inconvenience not foreseen; to lead into [[e/_error|error]] or sin.**
 - **To lead [[a/_astray|astray]]; to seduce (as under promise of marriage) and then [[a/_abandon|abandon]].**
 ---
 ### Synonyms
-- [[sell]]
+- [[s/_sell|sell]]
 ---

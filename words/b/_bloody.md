@@ -13,10 +13,10 @@
 - **[[b/_badly|Badly]] [[b/_behaved|behaved]]; unpleasant; [[b/_beastly|beastly]].**
 ---
 ### Synonyms
-- [[bally]], [[blasted]], [[bleeding]], [[blinking]], [[blooming]], [[damn]], [[damned]], [[dang]], [[darned]], [[doggone]], [[flaming]], [[freaking]], [[fricking]], [[frigging]], [[fucking]], [[goddam]], [[goddamn]], [[goddamned]], [[godforsaken]], [[rotten]], [[wretched]], [[bleeding]], [[bloodied]], [[gory]], [[sanguinolent]]
+- [[b/_bally|bally]], [[b/_blasted|blasted]], [[b/_bleeding|bleeding]], [[b/_blinking|blinking]], [[b/_blooming|blooming]], [[d/_damn|damn]], [[d/_damned|damned]], [[d/_dang|dang]], [[d/_darned|darned]], [[d/_doggone|doggone]], [[f/_flaming|flaming]], [[f/_freaking|freaking]], [[f/_fricking|fricking]], [[f/_frigging|frigging]], [[f/_fucking|fucking]], [[g/_goddam|goddam]], [[g/_goddamn|goddamn]], [[g/_goddamned|goddamned]], [[g/_godforsaken|godforsaken]], [[r/_rotten|rotten]], [[w/_wretched|wretched]], [[b/_bleeding|bleeding]], [[b/_bloodied|bloodied]], [[g/_gory|gory]], [[s/_sanguinolent|sanguinolent]]
 #adverb
 - **(intensifier) Used to express [[a/_anger|anger]], [[a/_annoyance|annoyance]], shock, or for [[e/_emphasis|emphasis]].**
 ---
 ### Synonyms
-- [[bally]], [[blasted]], [[bleeding]], [[bloody well]], [[blooming]]
+- [[b/_bally|bally]], [[b/_blasted|blasted]], [[b/_bleeding|bleeding]], [[b/_blooming|blooming]]
 ---

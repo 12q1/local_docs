@@ -2,13 +2,13 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[c/_clearing|clearing]] or something (such as a space) [[c/_cleared|cleared]]**
-- **The [[d/_distance|distance]] [[b/_between|between]] two moving objects, especially [[b/_between|between]] parts of a machine**
+- **The [[d/_distance|distance]] [[b/_between|between]] two moving objects, [[e/_especially|especially]] [[b/_between|between]] parts of a machine**
 - **The height or width of a tunnel, [[b/_bridge|bridge]] or other passage, or the [[d/_distance|distance]] [[b/_between|between]] a vehicle and the walls or roof of such passage; a gap, headroom.**
 - **A permission for a vehicle to proceed, or for a person to travel.**
 	- _Example: He got clearance to travel to America, even though he had previous links to terrorists_
 - **A permission to have [[a/_access|access]] to sensitive or secret [[d/_documents|documents]] or other information.**
 - **A permission to use something, usually intellectual property, that is legally, but not otherwise, protected.**
-- **(retail) A sale of merchandise, especially at significantly reduced prices in order to make room for new merchandise or updated versions of the same merchandise.**
+- **(retail) A sale of merchandise, [[e/_especially|especially]] at significantly reduced prices in order to make room for new merchandise or updated versions of the same merchandise.**
 - **The settlement of transactions involving securities or means of payment such as [[c/_checks|checks]] by means of a [[c/_clearing|clearing]] house.**
 - **The removal of harmful substances from the [[b/_blood|blood]]; renal [[c/_clearance|clearance]].**
 - **The [[a/_act|act]] of potting [[a/_all|all]] the remaining [[b/_balls|balls]] on a table at one visit.**

@@ -1,6 +1,6 @@
 # Broadways
 ---
 #noun
-- **An esplanade.**
+- **An [[e/_esplanade|esplanade]].**
 ---
 ---

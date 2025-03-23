@@ -8,7 +8,7 @@
 - **A traditional [[c/_chinese|Chinese]] [[c/_comedic|comedic]] performance in the form of a [[d/_dialogue|dialogue]].**
 ---
 ### Synonyms
-- [[xiangsheng]]
+- [[x/_xiangsheng|xiangsheng]]
 #verb
 - **To hold an incidental [[c/_conversation|conversation]]**
 ---

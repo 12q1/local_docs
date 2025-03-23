@@ -17,5 +17,5 @@
 - **The formation of a [[b/_band|band]] or [[b/_brigade|brigade]].**
 ---
 ### Synonyms
-- [[ringing]]
+- [[r/_ringing|ringing]]
 ---

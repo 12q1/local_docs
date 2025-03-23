@@ -7,7 +7,7 @@
 	- _Example: The word ‘cafe’ often has an acute over the ‘e’._
 ---
 ### Antonyms
-- [[grave]]
+- [[g/_grave|grave]]
 #verb
 - **To give an [[a/_acute|acute]] sound to.**
 	- _Example: He acutes his rising inflection too much._

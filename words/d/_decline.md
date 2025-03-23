@@ -8,7 +8,7 @@
 - **The [[a/_act|act]] of [[d/_declining|declining]] or refusing something.**
 ---
 ### Antonyms
-- [[incline]]
+- [[i/_incline|incline]]
 #verb
 - **To move [[d/_downwards|downwards]], to fall, to [[d/_drop|drop]].**
 	- _Example: The dollar has declined rapidly since 2001._

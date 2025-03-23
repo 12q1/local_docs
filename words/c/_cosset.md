@@ -1,7 +1,7 @@
 # Cosset
 ---
 #noun
-- **A pet, especially a pet lamb.**
+- **A pet, [[e/_especially|especially]] a pet lamb.**
 - **Someone indulged or [[c/_cosseted|cosseted]].**
 ---
 #verb
@@ -11,5 +11,5 @@
 	- _Example: The foam cossets your skin._
 ---
 ### Synonyms
-- [[grope]], [[touch up]], [[coddle]], [[posset]]
+- [[g/_grope|grope]], [[c/_coddle|coddle]], [[p/_posset|posset]]
 ---

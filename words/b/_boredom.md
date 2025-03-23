@@ -5,5 +5,5 @@
 - **An instance or period of [[b/_being|being]] [[b/_bored|bored]]; A [[b/_bored|bored]] state.**
 ---
 ### Synonyms
-- [[ennui]]
+- [[e/_ennui|ennui]]
 ---

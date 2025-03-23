@@ -4,10 +4,10 @@
 - **To urge on, stimulate (a person to [[d/_do|do]]) something [[d/_desirable|desirable]].**
 - **To incite; to [[a/_assist|assist]] or [[e/_encourage|encourage]] by [[a/_aid|aid]] or [[c/_countenance|countenance]] in [[c/_crime|crime]].**
 - **To support, [[c/_countenance|countenance]], maintain, uphold, or [[a/_aid|aid]] ([[a/_any|any]] good [[c/_cause|cause]], opinion, or [[a/_action|action]]); to maintain.**
-- **To [[b/_back|back]] up one's forecast of a [[d/_doubtful|doubtful]] issue, by staking money, etc., to [[b/_bet|bet]].**
+- **To [[b/_back|back]] up one's forecast of a [[d/_doubtful|doubtful]] issue, by staking money, [[e/_etc|etc]]., to [[b/_bet|bet]].**
 ---
 ### Synonyms
-- [[advocate]], [[aid]], [[assist]], [[back]], [[connive]], [[cooperate]], [[countenance]], [[egg on]], [[embolden]], [[encourage]], [[favor]], [[foment]], [[incite]], [[instigate]], [[promote]], [[sanction]], [[second]], [[set on]], [[support]], [[sustain]], [[uphold]]
+- [[a/_advocate|advocate]], [[a/_aid|aid]], [[a/_assist|assist]], [[b/_back|back]], [[c/_connive|connive]], [[c/_cooperate|cooperate]], [[c/_countenance|countenance]], [[e/_embolden|embolden]], [[e/_encourage|encourage]], [[f/_favor|favor]], [[f/_foment|foment]], [[i/_incite|incite]], [[i/_instigate|instigate]], [[p/_promote|promote]], [[s/_sanction|sanction]], [[s/_second|second]], [[s/_support|support]], [[s/_sustain|sustain]], [[u/_uphold|uphold]]
 ### Antonyms
-- [[baffle]], [[confound]], [[contradict]], [[counteract]], [[denounce]], [[deter]], [[disapprove]], [[disconcert]], [[discourage]], [[dissuade]], [[expose]], [[frustrate]], [[hinder]], [[impede]], [[obstruct]], [[thwart]]
+- [[b/_baffle|baffle]], [[c/_confound|confound]], [[c/_contradict|contradict]], [[c/_counteract|counteract]], [[d/_denounce|denounce]], [[d/_deter|deter]], [[d/_disapprove|disapprove]], [[d/_disconcert|disconcert]], [[d/_discourage|discourage]], [[d/_dissuade|dissuade]], [[e/_expose|expose]], [[f/_frustrate|frustrate]], [[h/_hinder|hinder]], [[i/_impede|impede]], [[o/_obstruct|obstruct]], [[t/_thwart|thwart]]
 ---

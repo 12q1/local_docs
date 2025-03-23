@@ -5,5 +5,5 @@
 - **A person or thing that is exceptional or remarkable.**
 ---
 ### Synonyms
-- [[whopper]]
+- [[w/_whopper|whopper]]
 ---

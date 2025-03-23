@@ -8,5 +8,5 @@
 	- _Example: Would you like it with ice?  Certainly, and with lemon please._
 ---
 ### Synonyms
-- [[damn right]], [[damn straight]], [[fo shizzle]], [[for sure]], [[oh yeah]], [[wye aye]], [[absolutely]], [[beyond doubt]], [[indubitably]], [[sure thing]], [[undoubtedly]], [[wis]], [[without a doubt]], [[definitely]], [[doubtlessly]], [[in fact]], [[indeed]], [[indisputably]], [[indubitably]], [[no doubt]], [[really]], [[sure]], [[surely]], [[truly]], [[undoubtedly]], [[unquestionably]], [[wis]], [[without a doubt]]
+- [[a/_absolutely|absolutely]], [[i/_indubitably|indubitably]], [[u/_undoubtedly|undoubtedly]], [[w/_wis|wis]], [[d/_definitely|definitely]], [[d/_doubtlessly|doubtlessly]], [[i/_indeed|indeed]], [[i/_indisputably|indisputably]], [[i/_indubitably|indubitably]], [[r/_really|really]], [[s/_sure|sure]], [[s/_surely|surely]], [[t/_truly|truly]], [[u/_undoubtedly|undoubtedly]], [[u/_unquestionably|unquestionably]], [[w/_wis|wis]]
 ---

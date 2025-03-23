@@ -6,5 +6,5 @@
 - **To go slower**
 ---
 ### Synonyms
-- [[retard]], [[slow down]]
+- [[r/_retard|retard]]
 ---

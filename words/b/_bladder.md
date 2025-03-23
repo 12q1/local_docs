@@ -9,7 +9,7 @@
 - **[[a/_anything|Anything]] inflated, [[e/_empty|empty]], or unsound.**
 ---
 ### Synonyms
-- [[vesica]]
+- [[v/_vesica|vesica]]
 #verb
 - **To swell out like a [[b/_bladder|bladder]] with [[a/_air|air]]; to inflate.**
 - **To store or put up in [[b/_bladders|bladders]].**

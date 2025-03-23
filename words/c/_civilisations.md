@@ -12,5 +12,5 @@
 - **The [[a/_act|act]] of rendering a [[c/_criminal|criminal]] process [[c/_civil|civil]].**
 ---
 ### Synonyms
-- [[acculturation]], [[education]], [[sphere]], [[culture]], [[order]], [[home]], [[the land of the living]]
+- [[a/_acculturation|acculturation]], [[e/_education|education]], [[s/_sphere|sphere]], [[c/_culture|culture]], [[o/_order|order]], [[h/_home|home]]
 ---

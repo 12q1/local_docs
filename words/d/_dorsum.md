@@ -8,5 +8,5 @@
 - **Theta Capricorni, a star on the [[b/_back|back]] of the Goat**
 ---
 ### Synonyms
-- [[back]]
+- [[b/_back|back]]
 ---

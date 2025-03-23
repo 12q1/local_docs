@@ -10,7 +10,7 @@
 - **A light to medium [[b/_brown|brown]] [[c/_colour|colour]].**
 ---
 ### Synonyms
-- [[chocolate]], [[drinking chocolate]], [[hot chocolate]]
+- [[c/_chocolate|chocolate]]
 #adjective
 - **Of a light to medium [[b/_brown|brown]] [[c/_colour|colour]], like that of [[c/_cocoa|cocoa]] powder.**
 ---

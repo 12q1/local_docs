@@ -5,5 +5,5 @@
 - **Seduction from [[d/_duty|duty]].**
 ---
 ### Synonyms
-- [[licentiousness]]
+- [[l/_licentiousness|licentiousness]]
 ---

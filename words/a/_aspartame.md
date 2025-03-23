@@ -1,8 +1,8 @@
 # Aspartame
 ---
 #noun
-- **An [[a/_artificial|artificial]] sweetener, the methyl ester of a [[d/_dipeptide|dipeptide]] formed from [[a/_aspartic|aspartic]] [[a/_acid|acid]] and phenylalanine, used in many processed foods and [[b/_beverages|beverages]].**
+- **An [[a/_artificial|artificial]] sweetener, the methyl [[e/_ester|ester]] of a [[d/_dipeptide|dipeptide]] formed from [[a/_aspartic|aspartic]] [[a/_acid|acid]] and phenylalanine, used in many processed foods and [[b/_beverages|beverages]].**
 ---
 ### Synonyms
-- [[E951]], [[sweetener]]
+- [[E/_E951|E951]], [[s/_sweetener|sweetener]]
 ---

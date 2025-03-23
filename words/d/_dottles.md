@@ -10,5 +10,5 @@
 - **A [[d/_dotard|dotard]].**
 ---
 ### Synonyms
-- [[dodipole]], [[dotel]]
+- [[d/_dodipole|dodipole]], [[d/_dotel|dotel]]
 ---

@@ -4,7 +4,7 @@
 - **A geometrical figure [[c/_consisting|consisting]] of two straight lines or [[b/_bars|bars]] intersecting [[e/_each|each]] other such that at least one of them is [[b/_bisected|bisected]] by the other.**
 	- _Example: Put a cross for a wrong answer and a tick for a right one._
 - **[[a/_any|Any]] geometric figure having this or a similar shape, such as a [[c/_cross|cross]] of Lorraine or a Maltese [[c/_cross|cross]].**
-- **A wooden post with a perpendicular [[b/_beam|beam]] [[a/_attached|attached]] and used (especially in the Roman [[e/_empire|Empire]]) to execute [[c/_criminals|criminals]] (by [[c/_crucifixion|crucifixion]]).**
+- **A wooden post with a perpendicular [[b/_beam|beam]] [[a/_attached|attached]] and used ([[e/_especially|especially]] in the Roman [[e/_empire|Empire]]) to execute [[c/_criminals|criminals]] (by [[c/_crucifixion|crucifixion]]).**
 	- _Example: Criminals were commonly executed on a wooden cross._
 - **(usually with the) The [[c/_cross|cross]] on which [[c/_christ|Christ]] was [[c/_crucified|crucified]].**
 - **A hand gesture made in imitation of the shape of the [[c/_cross|Cross]].**
@@ -31,7 +31,7 @@
 - **[[c/_crossfire|Crossfire]].**
 ---
 ### Synonyms
-- [[True Cross]], [[hybrid]]
+- [[h/_hybrid|hybrid]]
 #verb
 - **To make or form a [[c/_cross|cross]].**
 - **To move relatively.**
@@ -41,7 +41,7 @@
 - **To stamp or mark (a [[c/_cheque|cheque]]) in such a way as to prevent it [[b/_being|being]] [[c/_cashed|cashed]], thus requiring it to be [[d/_deposited|deposited]] into a [[b/_bank|bank]] [[a/_account|account]].**
 ---
 ### Synonyms
-- [[cross-fertilize]], [[crossbreed]]
+- [[c/_cross-fertilize|cross-fertilize]], [[c/_crossbreed|crossbreed]]
 #adjective
 - **Transverse; lying [[a/_across|across]] the main [[d/_direction|direction]].**
 	- _Example: At the end of each row were cross benches which linked the rows._
@@ -54,7 +54,7 @@
 	- _Example: cross interrogatories_
 ---
 ### Synonyms
-- [[angry]], [[annoyed]], [[irritated]], [[antipodal]], [[contrarily]], [[opposed]], [[reverse]]
+- [[a/_angry|angry]], [[a/_annoyed|annoyed]], [[i/_irritated|irritated]], [[a/_antipodal|antipodal]], [[c/_contrarily|contrarily]], [[o/_opposed|opposed]], [[r/_reverse|reverse]]
 #preposition
 - **[[a/_across|Across]]**
 	- _Example: She walked cross the mountains._

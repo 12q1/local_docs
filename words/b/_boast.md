@@ -15,5 +15,5 @@
 	- _Example: His family boasted a famous name._
 ---
 ### Synonyms
-- [[brag]]
+- [[b/_brag|brag]]
 ---

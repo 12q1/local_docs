@@ -5,5 +5,5 @@
 - **The practice or principle of giving a group priority over [[e/_each|each]] individual in it.**
 ---
 ### Antonyms
-- [[individualism]]
+- [[i/_individualism|individualism]]
 ---

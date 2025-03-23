@@ -8,7 +8,7 @@
 - **Unrelated and unspecialized; heterogeneous.**
 ---
 ### Synonyms
-- [[heterogeneous]]
+- [[h/_heterogeneous|heterogeneous]]
 ### Antonyms
-- [[exclusive]], [[homogeneous]], [[orthodox]], [[standard]], [[uniform]]
+- [[e/_exclusive|exclusive]], [[h/_homogeneous|homogeneous]], [[o/_orthodox|orthodox]], [[s/_standard|standard]], [[u/_uniform|uniform]]
 ---

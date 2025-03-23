@@ -5,5 +5,5 @@
 - **An old woman.**
 ---
 ### Synonyms
-- [[chiropter]], [[chiropteran]], [[flindermouse]], [[flittermouse]], [[fluttermouse]], [[flying-mouse]], [[rearmouse]], [[reremouse]]
+- [[c/_chiropter|chiropter]], [[c/_chiropteran|chiropteran]], [[f/_flindermouse|flindermouse]], [[f/_flittermouse|flittermouse]], [[f/_fluttermouse|fluttermouse]], [[f/_flying-mouse|flying-mouse]], [[r/_rearmouse|rearmouse]], [[r/_reremouse|reremouse]]
 ---

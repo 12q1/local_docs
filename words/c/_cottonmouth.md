@@ -6,5 +6,5 @@
 - **A snake, [[a/_agkistrodon|Agkistrodon]] contortrix mokasen, the northern [[c/_copperhead|copperhead]].**
 ---
 ### Synonyms
-- [[dry mouth]], [[xerostomia]]
+- [[x/_xerostomia|xerostomia]]
 ---

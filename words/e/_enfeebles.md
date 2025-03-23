@@ -4,5 +4,5 @@
 - **To make feeble.**
 ---
 ### Synonyms
-- [[weaken]]
+- [[w/_weaken|weaken]]
 ---

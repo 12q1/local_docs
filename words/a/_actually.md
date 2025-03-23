@@ -6,5 +6,5 @@
 - **[[a/_actively|Actively]].**
 ---
 ### Synonyms
-- [[as a matter of fact]], [[in reality]], [[literally]], [[really]], [[truthfully]]
+- [[l/_literally|literally]], [[r/_really|really]], [[t/_truthfully|truthfully]]
 ---

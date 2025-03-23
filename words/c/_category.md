@@ -7,5 +7,5 @@
 	- _Example: Just as a monoid consists of an underlying set with a binary operation "on top of it" which is closed, associative and with an identity, a category consists of an underlying digraph with an arrow composition operation "on top of it" which is transitively closed, associative, and with an identity at each object. In fact, a category's composition operation, when restricted to a single one of its objects, turns that object's set of arrows (which would all be loops) into a monoid._
 ---
 ### Synonyms
-- [[class]], [[family]], [[genus]], [[group]], [[kingdom]], [[order]], [[phylum]], [[race]], [[tribe]], [[type]]
+- [[c/_class|class]], [[f/_family|family]], [[g/_genus|genus]], [[g/_group|group]], [[k/_kingdom|kingdom]], [[o/_order|order]], [[p/_phylum|phylum]], [[r/_race|race]], [[t/_tribe|tribe]], [[t/_type|type]]
 ---

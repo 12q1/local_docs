@@ -7,5 +7,5 @@
 - **A [[b/_beanie|Beanie]] [[b/_baby|Baby]], a small soft toy filled with [[b/_beans|beans]] or similar stuffing.**
 ---
 ### Synonyms
-- [[knit cap]], [[knit hat]], [[ski cap]], [[skull cap]], [[skullie]], [[skully]], [[snow cap]], [[snow hat]], [[sock cap]], [[stocking cap]], [[toque]], [[watch cap]], [[woolly hat]], [[wooly hat]]
+- [[s/_skullie|skullie]], [[s/_skully|skully]], [[t/_toque|toque]]
 ---

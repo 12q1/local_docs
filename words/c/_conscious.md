@@ -16,5 +16,5 @@
 - **Self-[[c/_conscious|conscious]].**
 ---
 ### Antonyms
-- [[asleep]], [[unaware]], [[unconscious]]
+- [[a/_asleep|asleep]], [[u/_unaware|unaware]], [[u/_unconscious|unconscious]]
 ---

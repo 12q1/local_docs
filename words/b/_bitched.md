@@ -7,5 +7,5 @@
 - **To spoil, to ruin.**
 ---
 ### Synonyms
-- [[badmouth]], [[slag off]], [[snipe]]
+- [[b/_badmouth|badmouth]], [[s/_snipe|snipe]]
 ---

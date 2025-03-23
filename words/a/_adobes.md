@@ -7,5 +7,5 @@
 - **A house made of [[a/_adobe|adobe]] [[b/_brick|brick]].**
 ---
 ### Synonyms
-- [[mudbrick]]
+- [[m/_mudbrick|mudbrick]]
 ---

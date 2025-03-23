@@ -5,5 +5,5 @@
 	- _Example: A good bricklayer should be able to calculate the number of bricks needed to build a wall._
 ---
 ### Synonyms
-- [[mason]]
+- [[m/_mason|mason]]
 ---

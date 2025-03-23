@@ -4,8 +4,8 @@
 - **Someone who tries to [[c/_conform|conform]] to the mainstream.**
 ---
 ### Antonyms
-- [[nonconformist]]
+- [[n/_nonconformist|nonconformist]]
 #adjective
-- **[[c/_conforming|Conforming]] to established [[c/_customs|customs]], etc.**
+- **[[c/_conforming|Conforming]] to [[e/_established|established]] [[c/_customs|customs]], [[e/_etc|etc]].**
 ---
 ---

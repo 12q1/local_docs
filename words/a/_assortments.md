@@ -5,5 +5,5 @@
 	- _Example: This box has an assortment of chocolates. There's a picture on the cover so you know which is which._
 ---
 ### Synonyms
-- [[Whitman's sampler]], [[diversity]]
+- [[d/_diversity|diversity]]
 ---

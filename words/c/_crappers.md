@@ -5,7 +5,7 @@
 - **A lavatory or outhouse.**
 ---
 ### Synonyms
-- [[shitter]]
+- [[s/_shitter|shitter]]
 #noun
 - **A half-glass of whiskey.**
 ---

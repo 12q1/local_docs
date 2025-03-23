@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[c/_confrontation|confrontation]]; a [[d/_dare|dare]].**
-- **A [[d/_difficult|difficult]] task, especially one that the person making the [[a/_attempt|attempt]] finds more [[e/_enjoyable|enjoyable]] [[b/_because|because]] of that [[d/_difficulty|difficulty]].**
+- **A [[d/_difficult|difficult]] task, [[e/_especially|especially]] one that the person making the [[a/_attempt|attempt]] finds more [[e/_enjoyable|enjoyable]] [[b/_because|because]] of that [[d/_difficulty|difficulty]].**
 - **A procedure or [[a/_action|action]].**
 - **The opening and [[c/_crying|crying]] of hounds at first finding the scent of their game.**
 ---
@@ -21,5 +21,5 @@
 - **To take (a final exam) in order to get [[c/_credit|credit]] for a [[c/_course|course]] without taking it.**
 ---
 ### Synonyms
-- [[becall]], [[call out]]
+- [[b/_becall|becall]]
 ---

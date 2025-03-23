@@ -7,7 +7,7 @@
 - **That lives near the [[b/_bottom|bottom]] of a [[b/_body|body]] of water.**
 ---
 ### Synonyms
-- [[benthic]]
+- [[b/_benthic|benthic]]
 ### Antonyms
-- [[planktonic]]
+- [[p/_planktonic|planktonic]]
 ---

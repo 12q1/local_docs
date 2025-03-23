@@ -5,7 +5,7 @@
 	- _Example: It has to be done – no ifs or buts._
 - **The outer room of a small two-room [[c/_cottage|cottage]].**
 - **A limit; a [[b/_boundary|boundary]].**
-- **The [[e/_end|end]]; especially the larger or thicker [[e/_end|end]], or the [[b/_blunt|blunt]], in [[d/_distinction|distinction]] from the sharp, [[e/_end|end]]; the [[b/_butt|butt]].**
+- **The [[e/_end|end]]; [[e/_especially|especially]] the larger or thicker [[e/_end|end]], or the [[b/_blunt|blunt]], in [[d/_distinction|distinction]] from the sharp, [[e/_end|end]]; the [[b/_butt|butt]].**
 ---
 #verb
 - **Use the word "but".**
@@ -20,14 +20,14 @@
 	- _Example: Nobody, but nobody, crosses me and gets away with it._
 ---
 ### Synonyms
-- [[even so]], [[nevertheless]], [[notwithstanding]], [[yet]]
+- [[n/_nevertheless|nevertheless]], [[n/_notwithstanding|notwithstanding]], [[y/_yet|yet]]
 #preposition
 - **[[a/_apart|Apart]] from, except (for), excluding.**
 	- _Example: Everyone but Father left early._
 - **(obsolete outside Scotland) Outside of.**
 ---
 ### Synonyms
-- [[barring]], [[except for]], [[save for]]
+- [[b/_barring|barring]]
 #conjunction
 - **On the [[c/_contrary|contrary]], rather (as a regular [[a/_adversative|adversative]] [[c/_conjunction|conjunction]], introducing a word or [[c/_clause|clause]] in [[c/_contrast|contrast]] or [[c/_contradiction|contradiction]] with the preceding negative [[c/_clause|clause]] or sentence).**
 	- _Example: I am not rich but [I am] poor  not John but Peter went there._
@@ -43,5 +43,5 @@
 - **(following a negated expression of improbability) That.**
 ---
 ### Synonyms
-- [[bar]], [[excepting]], [[excluding]], [[unless]], [[with the exception of]], [[without]], [[ac]], [[although]], [[yet]]
+- [[b/_bar|bar]], [[e/_excepting|excepting]], [[e/_excluding|excluding]], [[u/_unless|unless]], [[w/_without|without]], [[a/_ac|ac]], [[a/_although|although]], [[y/_yet|yet]]
 ---

@@ -7,9 +7,9 @@
 	- _Example: The children were required to dump all of their Halloween candy on the table so that their parents could apportion it among them._
 ---
 ### Synonyms
-- [[allocate]], [[allot]], [[dispense]], [[parcel out]], [[share out]]
+- [[a/_allocate|allocate]], [[a/_allot|allot]], [[d/_dispense|dispense]]
 ### Antonyms
-- [[amass]], [[concentrate]], [[consolidate]], [[gather]], [[reassemble]]
+- [[a/_amass|amass]], [[c/_concentrate|concentrate]], [[c/_consolidate|consolidate]], [[g/_gather|gather]], [[r/_reassemble|reassemble]]
 #noun
 - **[[a/_apportionment|Apportionment]]**
 ---

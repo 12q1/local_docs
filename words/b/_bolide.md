@@ -6,5 +6,5 @@
 - **A fireball.**
 ---
 ### Synonyms
-- [[fireball]]
+- [[f/_fireball|fireball]]
 ---

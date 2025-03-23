@@ -9,5 +9,5 @@
 - **[[a/_any|Any]] of various hesperiid [[b/_butterflies|butterflies]] of the genera Arrhenes and Telicota.**
 ---
 ### Synonyms
-- [[meadowhawk]], [[snakebird]]
+- [[m/_meadowhawk|meadowhawk]], [[s/_snakebird|snakebird]]
 ---

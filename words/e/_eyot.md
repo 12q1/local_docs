@@ -1,8 +1,8 @@
 # Eyot
 ---
 #noun
-- **A little island, especially in a river or lake.**
+- **A little island, [[e/_especially|especially]] in a river or lake.**
 ---
 ### Synonyms
-- [[holm]], [[islet]]
+- [[h/_holm|holm]], [[i/_islet|islet]]
 ---

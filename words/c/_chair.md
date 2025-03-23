@@ -14,15 +14,15 @@
 #verb
 - **To [[a/_act|act]] as [[c/_chairperson|chairperson]] at; to preside over.**
 	- _Example: Bob will chair tomorrow's meeting._
-- **To [[c/_carry|carry]] in a seated position upon one's shoulders, especially in [[c/_celebration|celebration]] or victory.**
+- **To [[c/_carry|carry]] in a seated position upon one's shoulders, [[e/_especially|especially]] in [[c/_celebration|celebration]] or victory.**
 - **To [[a/_award|award]] a [[c/_chair|chair]] to (a winning poet) at a Welsh [[e/_eisteddfod|eisteddfod]].**
 	- _Example: The poet was chaired at the national Eisteddfod._
 ---
 #noun
-- **A [[c/_chairman|chairman]] or [[c/_chairwoman|chairwoman]], someone who presides over a meeting, [[b/_board|board]], etc.**
+- **A [[c/_chairman|chairman]] or [[c/_chairwoman|chairwoman]], someone who presides over a meeting, [[b/_board|board]], [[e/_etc|etc]].**
 ---
 ### Synonyms
-- [[chair]], [[officer]], [[presider]], [[presiding]]
+- [[c/_chair|chair]], [[o/_officer|officer]], [[p/_presider|presider]], [[p/_presiding|presiding]]
 #noun
 - **A [[c/_chair|chair]]-like [[d/_device|device]] used for performing execution by [[e/_electrocution|electrocution]].**
 - **An [[e/_electrically|electrically]] powered wheelchair.**

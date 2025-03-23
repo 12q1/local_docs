@@ -22,9 +22,9 @@
 - **(genetics) The result of gene or [[c/_chromosomal|chromosomal]] [[d/_duplication|duplication]].**
 ---
 ### Synonyms
-- [[duplicate]], [[facsimile]], [[fake]], [[forgery]], [[image]], [[likeness]], [[phony]], [[reduplication]], [[replica]], [[replication]], [[reproduction]], [[sham]], [[simulacrum]]
+- [[d/_duplicate|duplicate]], [[f/_facsimile|facsimile]], [[f/_fake|fake]], [[f/_forgery|forgery]], [[i/_image|image]], [[l/_likeness|likeness]], [[p/_phony|phony]], [[r/_reduplication|reduplication]], [[r/_replica|replica]], [[r/_replication|replication]], [[r/_reproduction|reproduction]], [[s/_sham|sham]], [[s/_simulacrum|simulacrum]]
 ### Antonyms
-- [[original]]
+- [[o/_original|original]]
 #verb
 - **To produce an object identical to a given object.**
 	- _Example: Please copy these reports for me._

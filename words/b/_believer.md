@@ -1,9 +1,9 @@
 # Believer
 ---
 #noun
-- **A person who [[b/_believes|believes]]; especially regarding religion.**
+- **A person who [[b/_believes|believes]]; [[e/_especially|especially]] regarding religion.**
 	- _Example: She's a believer in life after death._
 ---
 ### Antonyms
-- [[infidel]], [[non-believer]], [[nonbeliever]], [[unbeliever]]
+- [[i/_infidel|infidel]], [[n/_non-believer|non-believer]], [[n/_nonbeliever|nonbeliever]], [[u/_unbeliever|unbeliever]]
 ---

@@ -4,5 +4,5 @@
 - **One who offers [[a/_advice|advice]].**
 ---
 ### Synonyms
-- [[consultant]], [[counselor]]
+- [[c/_consultant|consultant]], [[c/_counselor|counselor]]
 ---

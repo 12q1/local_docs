@@ -9,5 +9,5 @@
 - **(usually uncountable) The [[e/_edible|edible]] part of the root of a [[b/_beet|beet]] plant, raw or prepared.**
 ---
 ### Synonyms
-- [[red beet]], [[table beet]]
+- 
 ---

@@ -4,6 +4,6 @@
 - **Something that is [[d/_delectable|delectable]].**
 ---
 #adjective
-- **Highly pleasing; [[d/_delightful|delightful]], especially to [[a/_any|any]] of the senses; [[d/_delicious|delicious]].**
+- **Highly pleasing; [[d/_delightful|delightful]], [[e/_especially|especially]] to [[a/_any|any]] of the senses; [[d/_delicious|delicious]].**
 ---
 ---

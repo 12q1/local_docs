@@ -3,7 +3,7 @@
 #noun
 - **A heavy shoe that [[c/_covers|covers]] part of the leg.**
 - **A [[b/_blow|blow]] with the foot; a kick.**
-- **A flexible [[c/_cover|cover]] of rubber or plastic, which may be preformed to a particular shape and used to protect a shaft, lever, switch, or opening from [[d/_dust|dust]], [[d/_dirt|dirt]], moisture, etc.**
+- **A flexible [[c/_cover|cover]] of rubber or plastic, which may be preformed to a particular shape and used to protect a shaft, lever, switch, or opening from [[d/_dust|dust]], [[d/_dirt|dirt]], moisture, [[e/_etc|etc]].**
 - **(usually preceded by [[d/_definite|definite]] [[a/_article|article]]) A torture [[d/_device|device]] used on the feet or legs, such as a Spanish [[b/_boot|boot]].**
 - **A parking [[e/_enforcement|enforcement]] [[d/_device|device]] used to immobilize a [[c/_car|car]] until it [[c/_can|can]] be towed or a fine is paid; a wheel [[c/_clamp|clamp]].**
 - **A rubber [[b/_bladder|bladder]] on the leading [[e/_edge|edge]] of an [[a/_aircraft|aircraft]]’s wing, which is inflated periodically to remove ice [[b/_buildup|buildup]]. A [[d/_deicing|deicing]] [[b/_boot|boot]].**
@@ -18,21 +18,21 @@
 - **The inflated flag leaf sheath of a wheat plant.**
 ---
 ### Synonyms
-- [[kick]], [[dicky]], [[trunk]], [[wheel clamp]], [[fired]], [[laid off]], [[buskin]], [[mukluk]]
+- [[k/_kick|kick]], [[d/_dicky|dicky]], [[t/_trunk|trunk]], [[f/_fired|fired]], [[b/_buskin|buskin]], [[m/_mukluk|mukluk]]
 #verb
 - **To kick.**
 	- _Example: I booted the ball toward my teammate._
-- **To put [[b/_boots|boots]] on, especially for riding.**
+- **To put [[b/_boots|boots]] on, [[e/_especially|especially]] for riding.**
 - **To [[a/_apply|apply]] [[c/_corporal|corporal]] punishment ([[c/_compare|compare]] slippering).**
 - **To forcibly [[e/_eject|eject]].**
 	- _Example: We need to boot those troublemakers as soon as possible_
-- **To [[d/_disconnect|disconnect]] forcibly; to [[e/_eject|eject]] from an online service, [[c/_conversation|conversation]], etc.**
+- **To [[d/_disconnect|disconnect]] forcibly; to [[e/_eject|eject]] from an online service, [[c/_conversation|conversation]], [[e/_etc|etc]].**
 - **To vomit.**
 	- _Example: Sorry, I didn’t mean to boot all over your couch._
 - **([[c/_criminal|criminal]] slang) To shoot, to kill by gunfire.**
 ---
 ### Synonyms
-- [[kick]], [[hoof]], [[kick]]
+- [[k/_kick|kick]], [[h/_hoof|hoof]], [[k/_kick|kick]]
 #noun
 - **Remedy, [[a/_amends|amends]].**
 - **Profit, plunder.**
@@ -54,13 +54,13 @@
 	- _Example: When arriving at the office, first thing I do is booting my machine._
 ---
 ### Synonyms
-- [[boot up]], [[bootstrap]], [[start]]
+- [[b/_bootstrap|bootstrap]], [[s/_start|start]]
 ### Antonyms
-- [[shut down]], [[stop]], [[turn off]]
+- [[s/_stop|stop]]
 #noun
 - **A [[b/_bootleg|bootleg]] recording.**
 ---
 #noun
-- **A servant at a hotel etc. who [[c/_cleans|cleans]] and [[b/_blacks|blacks]] the [[b/_boots|boots]] and shoes.**
+- **A servant at a hotel [[e/_etc|etc]]. who [[c/_cleans|cleans]] and [[b/_blacks|blacks]] the [[b/_boots|boots]] and shoes.**
 ---
 ---

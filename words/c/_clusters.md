@@ -16,7 +16,7 @@
 - **A significant subset within a population.**
 - **Set of [[b/_bombs|bombs]] or mines.**
 - **A small metal [[d/_design|design]] that indicates that a medal has [[b/_been|been]] [[a/_awarded|awarded]] to the same person [[b/_before|before]].**
-- **Euphemism of clusterfuck.**
+- **[[e/_euphemism|Euphemism]] of clusterfuck.**
 - **An [[e/_ensemble|ensemble]] of [[b/_bound|bound]] [[a/_atoms|atoms]] or molecules, intermediate in size [[b/_between|between]] a molecule and a [[b/_bulk|bulk]] solid.**
 ---
 #verb

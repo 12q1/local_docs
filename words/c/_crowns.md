@@ -2,7 +2,7 @@
 ---
 #noun
 - **A royal, imperial or princely headdress; a [[d/_diadem|diadem]].**
-- **A wreath or [[b/_band|band]] for the head, especially one given as reward of victory or a mark of honor.**
+- **A wreath or [[b/_band|band]] for the head, [[e/_especially|especially]] one given as reward of victory or a mark of honor.**
 - **(by extension) [[a/_any|Any]] reward of victory or mark of honor.**
 	- _Example: the martyr's crown_
 - **Imperial or regal power, or those who wield it.**
@@ -34,10 +34,10 @@
 - **The knurled knob or [[d/_dial|dial]], on the outside of a watch [[c/_case|case]], used to wind it or [[a/_adjust|adjust]] the hands.**
 ---
 ### Synonyms
-- [[award]], [[garland]], [[honor]], [[prize]], [[wreath]], [[bull]], [[caroon]], [[cartwheel]], [[caser]], [[coachwheel]], [[thick-un]], [[tosh]], [[tosheroon]], [[tush]], [[tusheroon]], [[completion]], [[culmination]], [[finish]], [[splendor]], [[corona]], [[coronet]], [[diadem]], [[garland]], [[wreath]], [[monarchy]], [[royalty]]
+- [[a/_award|award]], [[g/_garland|garland]], [[h/_honor|honor]], [[p/_prize|prize]], [[w/_wreath|wreath]], [[b/_bull|bull]], [[c/_caroon|caroon]], [[c/_cartwheel|cartwheel]], [[c/_caser|caser]], [[c/_coachwheel|coachwheel]], [[t/_thick-un|thick-un]], [[t/_tosh|tosh]], [[t/_tosheroon|tosheroon]], [[t/_tush|tush]], [[t/_tusheroon|tusheroon]], [[c/_completion|completion]], [[c/_culmination|culmination]], [[f/_finish|finish]], [[s/_splendor|splendor]], [[c/_corona|corona]], [[c/_coronet|coronet]], [[d/_diadem|diadem]], [[g/_garland|garland]], [[w/_wreath|wreath]], [[m/_monarchy|monarchy]], [[r/_royalty|royalty]]
 #verb
 - **To place a [[c/_crown|crown]] on the head of.**
-- **To formally [[d/_declare|declare]] (someone) a king, queen, [[e/_emperor|emperor]], etc.**
+- **To formally [[d/_declare|declare]] (someone) a king, queen, [[e/_emperor|emperor]], [[e/_etc|etc]].**
 - **To [[b/_bestow|bestow]] something upon as a mark of honour, [[d/_dignity|dignity]], or recompense; to [[a/_adorn|adorn]]; to [[d/_dignify|dignify]].**
 - **To form the topmost or finishing part of; to [[c/_complete|complete]]; to [[c/_consummate|consummate]]; to perfect.**
 - **To [[d/_declare|declare]] (someone) a winner.**

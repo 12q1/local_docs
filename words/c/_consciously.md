@@ -4,5 +4,5 @@
 - **In a [[c/_conscious|conscious]] manner; knowingly, volitionally.**
 ---
 ### Antonyms
-- [[subconsciously]], [[unconsciously]]
+- [[s/_subconsciously|subconsciously]], [[u/_unconsciously|unconsciously]]
 ---

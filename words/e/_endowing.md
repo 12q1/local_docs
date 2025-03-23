@@ -8,5 +8,5 @@
 	- _Example: She was endowed with a beautiful voice._
 ---
 ### Synonyms
-- [[begift]], [[bless]], [[gift]]
+- [[b/_begift|begift]], [[b/_bless|bless]], [[g/_gift|gift]]
 ---

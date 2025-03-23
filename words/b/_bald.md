@@ -15,5 +15,5 @@
 - **(of a statement) Without evidence or support [[b/_being|being]] provided.**
 ---
 ### Antonyms
-- [[faxed]], [[haired]]
+- [[f/_faxed|faxed]], [[h/_haired|haired]]
 ---

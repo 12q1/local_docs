@@ -7,7 +7,7 @@
 	- _Example: a husband attentive to his wife's needs_
 ---
 ### Synonyms
-- [[audient]], [[mindful]], [[reckful]]
+- [[a/_audient|audient]], [[m/_mindful|mindful]], [[r/_reckful|reckful]]
 ### Antonyms
-- [[inattentive]], [[reckless]]
+- [[i/_inattentive|inattentive]], [[r/_reckless|reckless]]
 ---

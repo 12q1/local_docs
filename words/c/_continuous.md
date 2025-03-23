@@ -12,7 +12,7 @@
 - **(grammar) Expressing an ongoing [[a/_action|action]] or state.**
 ---
 ### Synonyms
-- [[connected]], [[continued]], [[extended]], [[protracted]], [[unbroken]], [[constant]], [[continual]], [[continuous]], [[incessant]], [[never-ending]], [[nonstop]], [[ongoing]], [[relentless]], [[unbroken]], [[unceasing]], [[unending]], [[uninterrupted]], [[unremitting]], [[extended]], [[protracted]], [[nonstop]], [[perpetual]]
+- [[c/_connected|connected]], [[c/_continued|continued]], [[e/_extended|extended]], [[p/_protracted|protracted]], [[u/_unbroken|unbroken]], [[c/_constant|constant]], [[c/_continual|continual]], [[c/_continuous|continuous]], [[i/_incessant|incessant]], [[n/_never-ending|never-ending]], [[n/_nonstop|nonstop]], [[o/_ongoing|ongoing]], [[r/_relentless|relentless]], [[u/_unbroken|unbroken]], [[u/_unceasing|unceasing]], [[u/_unending|unending]], [[u/_uninterrupted|uninterrupted]], [[u/_unremitting|unremitting]], [[e/_extended|extended]], [[p/_protracted|protracted]], [[n/_nonstop|nonstop]], [[p/_perpetual|perpetual]]
 ### Antonyms
-- [[broken]], [[disconnected]], [[disjoint]], [[unbroken]], [[broken]], [[discontinuous]], [[discrete]], [[intermittent]], [[interrupted]], [[discontinuous]], [[stepwise]]
+- [[b/_broken|broken]], [[d/_disconnected|disconnected]], [[d/_disjoint|disjoint]], [[u/_unbroken|unbroken]], [[b/_broken|broken]], [[d/_discontinuous|discontinuous]], [[d/_discrete|discrete]], [[i/_intermittent|intermittent]], [[i/_interrupted|interrupted]], [[d/_discontinuous|discontinuous]], [[s/_stepwise|stepwise]]
 ---

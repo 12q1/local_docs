@@ -11,7 +11,7 @@
 - **A short vertical lightweight post, not set into the ground, used to separate wires in a fence.**
 ---
 ### Synonyms
-- [[billy club]], [[nightstick]]
+- [[n/_nightstick|nightstick]]
 #verb
 - **To strike with a [[b/_baton|baton]].**
 ---

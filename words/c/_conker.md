@@ -4,5 +4,5 @@
 - **A horse [[c/_chestnut|chestnut]], used in the game of [[c/_conkers|conkers]].**
 ---
 ### Synonyms
-- [[cheggie]], [[obblyonker]]
+- [[c/_cheggie|cheggie]], [[o/_obblyonker|obblyonker]]
 ---

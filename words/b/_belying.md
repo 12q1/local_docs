@@ -16,5 +16,5 @@
 - **To fill with lies.**
 ---
 ### Synonyms
-- [[calumniate]], [[slander]], [[contradict]], [[give lie to]], [[give the lie to]], [[misrepresent]]
+- [[c/_calumniate|calumniate]], [[s/_slander|slander]], [[c/_contradict|contradict]], [[m/_misrepresent|misrepresent]]
 ---

@@ -6,7 +6,7 @@
 - **[[a/_any|Any]] flexible [[c/_container|container]] or [[e/_enclosure|enclosure]], as one used to [[c/_cover|cover]] a moving joint.**
 - **The lungs.**
 - **Flexible, light-tight [[e/_enclosures|enclosures]] [[c/_connecting|connecting]] the lensboard and the [[c/_camera|camera]] [[b/_back|back]].**
-- **That which fans the fire of hatred, jealousy, etc.**
+- **That which fans the fire of hatred, jealousy, [[e/_etc|etc]].**
 ---
 #verb
 - **To operate a [[b/_bellows|bellows]]; to [[d/_direct|direct]] [[a/_air|air]] at (something) using a [[b/_bellows|bellows]].**

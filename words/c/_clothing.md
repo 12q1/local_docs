@@ -7,7 +7,7 @@
 	- _Example: to clothe somebody with authority or power_
 ---
 ### Synonyms
-- [[dight]], [[don]], [[put on]]
+- [[d/_dight|dight]], [[d/_don|don]]
 #noun
 - **[[a/_any|Any]] of a wide variety of [[a/_articles|articles]], usually made of fabrics, [[a/_animal|animal]] hair, [[a/_animal|animal]] skin, or some [[c/_combination|combination]] thereof, used to [[c/_cover|cover]] the human [[b/_body|body]] for warmth, to preserve modesty, or for fashion.**
 - **An [[a/_act|act]] or instance of putting [[c/_clothes|clothes]] on.**
@@ -16,5 +16,5 @@
 - **A [[c/_covering|covering]] of non-[[c/_conducting|conducting]] material on the outside of a [[b/_boiler|boiler]], or steam [[c/_chamber|chamber]], to prevent radiation of heat.**
 ---
 ### Synonyms
-- [[apparel]], [[attire]], [[clothes]]
+- [[a/_apparel|apparel]], [[a/_attire|attire]], [[c/_clothes|clothes]]
 ---

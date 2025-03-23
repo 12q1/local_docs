@@ -11,14 +11,14 @@
 - **To own as genuine or valid; to [[a/_assent|assent]] to (a legal instrument) to give it validity; to [[a/_avow|avow]] or [[a/_admit|admit]] in legal form.**
 ---
 ### Synonyms
-- [[admit]], [[allow]], [[avow]], [[concede]], [[confess]], [[own]], [[proclaim]], [[recognize]]
+- [[a/_admit|admit]], [[a/_allow|allow]], [[a/_avow|avow]], [[c/_concede|concede]], [[c/_confess|confess]], [[o/_own|own]], [[p/_proclaim|proclaim]], [[r/_recognize|recognize]]
 #noun
 - **The [[a/_act|act]] of [[a/_acknowledging|acknowledging]] something.**
 ---
 ### Synonyms
-- [[acknowledgement]], [[knowledge]]
+- [[a/_acknowledgement|acknowledgement]], [[k/_knowledge|knowledge]]
 #adjective
-- **That [[a/_acknowledges|acknowledges]], in various sense; (especially) that notices or recognises someone or something.**
-- **(specifically) Expressing esteem or gratitude.**
+- **That [[a/_acknowledges|acknowledges]], in various sense; ([[e/_especially|especially]]) that notices or recognises someone or something.**
+- **(specifically) Expressing [[e/_esteem|esteem]] or gratitude.**
 ---
 ---

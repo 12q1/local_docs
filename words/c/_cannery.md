@@ -5,5 +5,5 @@
 	- _Example: Jim had a summer job cleaning and packing salmon at the fish cannery._
 ---
 ### Synonyms
-- [[packing plant]], [[packinghouse]]
+- [[p/_packinghouse|packinghouse]]
 ---

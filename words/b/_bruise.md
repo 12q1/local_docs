@@ -5,7 +5,7 @@
 - **A [[d/_dark|dark]] mark on fruit or vegetables [[c/_caused|caused]] by a [[b/_blow|blow]] to the surface.**
 ---
 ### Synonyms
-- [[contusion]], [[ecchymosis]]
+- [[c/_contusion|contusion]], [[e/_ecchymosis|ecchymosis]]
 #verb
 - **To strike (a person), originally with something flat or heavy, but now specifically in such a way as to [[d/_discolour|discolour]] the skin without [[b/_breaking|breaking]] it.**
 - **To [[d/_damage|damage]] the skin of (fruit or vegetables), in an [[a/_analogous|analogous]] way.**

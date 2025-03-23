@@ -9,5 +9,5 @@
 	- _Example: Joe got downsized and became a plumber._
 ---
 ### Synonyms
-- [[rightsize]]
+- [[r/_rightsize|rightsize]]
 ---

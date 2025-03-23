@@ -11,7 +11,7 @@
 - **(grammar) The most [[a/_agent|agent]]-like [[a/_argument|argument]] of a [[c/_clause|clause]], [[e/_e|e]].g. 'the torpedo' in "The torpedo sank the [[b/_boat|boat]]" and "The torpedo fired".**
 ---
 ### Synonyms
-- [[complainant]], [[plaintiff]], [[role]], [[doer]], [[participant]], [[performer]], [[player]]
+- [[c/_complainant|complainant]], [[p/_plaintiff|plaintiff]], [[r/_role|role]], [[d/_doer|doer]], [[p/_participant|participant]], [[p/_performer|performer]], [[p/_player|player]]
 ### Antonyms
-- [[undergoer]]
+- [[u/_undergoer|undergoer]]
 ---

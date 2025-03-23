@@ -5,5 +5,5 @@
 - **A portable oven for [[b/_baking|baking]].**
 ---
 ### Synonyms
-- [[dougher]]
+- [[d/_dougher|dougher]]
 ---

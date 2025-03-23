@@ -12,7 +12,7 @@
 - **That which is [[c/_committed|committed]] to the [[c/_charge|charge]] of a parish priest or of a [[c/_curate|curate]].**
 ---
 ### Synonyms
-- [[curacy]]
+- [[c/_curacy|curacy]]
 #verb
 - **To restore to health.**
 	- _Example: Unaided nature cured him._
@@ -20,7 +20,7 @@
 	- _Example: Unaided nature cured his ailments._
 - **To [[c/_cause|cause]] to be rid of (a [[d/_defect|defect]]).**
 	- _Example: Experience will cure him of his naïveté._
-- **To prepare or [[a/_alter|alter]] especially by [[c/_chemical|chemical]] or physical processing for keeping or use.**
+- **To prepare or [[a/_alter|alter]] [[e/_especially|especially]] by [[c/_chemical|chemical]] or physical processing for keeping or use.**
 	- _Example: The smoke and heat cures the meat._
 - **To [[b/_bring|bring]] [[a/_about|about]] a [[c/_cure|cure]] of [[a/_any|any]] kind.**
 - **To be undergoing a [[c/_chemical|chemical]] or physical process for preservation or use.**
@@ -32,5 +32,5 @@
 - **To pay heed; to [[c/_care|care]]; to give [[a/_attention|attention]].**
 ---
 ### Synonyms
-- [[heal]]
+- [[h/_heal|heal]]
 ---

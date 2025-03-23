@@ -10,7 +10,7 @@
 - **[[a/_available|Available]] to be used.**
 ---
 ### Synonyms
-- [[single-use]], [[throwaway]]
+- [[s/_single-use|single-use]], [[t/_throwaway|throwaway]]
 ### Antonyms
-- [[indisposable]], [[non-disposable]], [[nondisposable]], [[undisposable]]
+- [[i/_indisposable|indisposable]], [[n/_non-disposable|non-disposable]], [[n/_nondisposable|nondisposable]], [[u/_undisposable|undisposable]]
 ---

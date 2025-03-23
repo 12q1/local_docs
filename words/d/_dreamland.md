@@ -5,5 +5,5 @@
 - **An imagined world that is ideal yet unrealistic; a fantasy.**
 ---
 ### Synonyms
-- [[slumberland]]
+- [[s/_slumberland|slumberland]]
 ---

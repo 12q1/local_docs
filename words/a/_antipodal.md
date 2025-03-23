@@ -8,5 +8,5 @@
 - **[[d/_diametrically|Diametrically]] opposite**
 ---
 ### Synonyms
-- [[diametrical]]
+- [[d/_diametrical|diametrical]]
 ---

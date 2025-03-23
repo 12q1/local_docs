@@ -5,5 +5,5 @@
 	- _Example: Although the antemortem injuries are severe, they are not the cause of death._
 ---
 ### Synonyms
-- [[premortem]]
+- [[p/_premortem|premortem]]
 ---

@@ -18,5 +18,5 @@
 	- _Example: elastic spirits; an elastic constitution_
 ---
 ### Synonyms
-- [[stretchable]], [[stretchy]]
+- [[s/_stretchable|stretchable]], [[s/_stretchy|stretchy]]
 ---

@@ -5,5 +5,5 @@
 - **The fruit of these plants.**
 ---
 ### Synonyms
-- [[aqpik]], [[bakeapple]], [[Rubus chamaemorus]]
+- [[a/_aqpik|aqpik]], [[b/_bakeapple|bakeapple]]
 ---

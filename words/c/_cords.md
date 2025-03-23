@@ -17,15 +17,15 @@
 - **A small flexible [[e/_electrical|electrical]] [[c/_conductor|conductor]] [[c/_composed|composed]] of wires insulated separately or in [[b/_bundles|bundles]] and [[a/_assembled|assembled]] together usually with an outer [[c/_cover|cover]]; the [[e/_electrical|electrical]] [[c/_cord|cord]] of a lamp, sweeper ((US) vacuum [[c/_cleaner|cleaner]]), or other [[a/_appliance|appliance]].**
 - **A unit of measurement for firewood, [[e/_equal|equal]] to 128 [[c/_cubic|cubic]] feet (4 × 4 × 8 feet), [[c/_composed|composed]] of logs and/or split logs four feet long and none over [[e/_eight|eight]] inches [[d/_diameter|diameter]]. It is usually seen as a stack four feet high by [[e/_eight|eight]] feet long.**
 - **[[a/_any|Any]] influence by which persons are [[c/_caught|caught]], held, or [[d/_drawn|drawn]], as if by a [[c/_cord|cord]].**
-- **[[a/_any|Any]] structure having the [[a/_appearance|appearance]] of a [[c/_cord|cord]], especially a tendon or nerve.**
+- **[[a/_any|Any]] structure having the [[a/_appearance|appearance]] of a [[c/_cord|cord]], [[e/_especially|especially]] a tendon or nerve.**
 	- _Example: spermatic cord; spinal cord; umbilical cord; vocal cords_
 ---
 ### Synonyms
-- [[cable]], [[twine]], [[cable]], [[flex]]
+- [[c/_cable|cable]], [[t/_twine|twine]], [[c/_cable|cable]], [[f/_flex|flex]]
 #verb
 - **To furnish with [[c/_cords|cords]]**
 - **To tie or fasten with [[c/_cords|cords]]**
 - **To flatten a [[b/_book|book]] [[d/_during|during]] [[b/_binding|binding]]**
-- **To [[a/_arrange|arrange]] (wood, etc.) in a pile for measurement by the [[c/_cord|cord]].**
+- **To [[a/_arrange|arrange]] (wood, [[e/_etc|etc]].) in a pile for measurement by the [[c/_cord|cord]].**
 ---
 ---

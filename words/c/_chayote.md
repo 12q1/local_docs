@@ -5,5 +5,5 @@
 - **The fruit of this plant.**
 ---
 ### Synonyms
-- [[chocho]], [[choko]], [[christophine]], [[mirliton]], [[pear squash]], [[vegetable pear]]
+- [[c/_chocho|chocho]], [[c/_choko|choko]], [[c/_christophine|christophine]], [[m/_mirliton|mirliton]]
 ---

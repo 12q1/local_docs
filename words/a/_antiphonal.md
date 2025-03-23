@@ -5,7 +5,7 @@
 - **An [[a/_antiphon|antiphon]]; a piece sung or [[c/_chanted|chanted]] in an [[a/_antiphonal|antiphonal]] manner.**
 ---
 ### Synonyms
-- [[antiphonar]], [[antiphonary]], [[antiphoner]]
+- [[a/_antiphonar|antiphonar]], [[a/_antiphonary|antiphonary]], [[a/_antiphoner|antiphoner]]
 #adjective
 - **[[c/_characterized|Characterized]] by antiphones or [[a/_antiphony|antiphony]]; incorporating [[a/_alternate|alternate]], or responsive singing by a [[c/_choir|choir]] split into two parts.**
 	- _Example: The antiphonal hymn was sung regularly at church._

@@ -8,7 +8,7 @@
 - **A mark or [[c/_character|character]] used in writing, in order to indicate the place of the spoken [[a/_accent|accent]], or to indicate the nature or quality of the vowel marked.**
 	- _Example: The name Cézanne is written with an acute accent._
 - **Modulation of the voice in speaking; the manner of speaking or pronouncing; a peculiar or [[c/_characteristic|characteristic]] modification of the voice, expressing [[e/_emotion|emotion]]; tone.**
-- **The [[d/_distinctive|distinctive]] manner of pronouncing a language [[a/_associated|associated]] with a particular region, social group, etc., whether of a native speaker or a foreign speaker; the phonetic and phonological [[a/_aspects|aspects]] of a [[d/_dialect|dialect]].**
+- **The [[d/_distinctive|distinctive]] manner of pronouncing a language [[a/_associated|associated]] with a particular region, social group, [[e/_etc|etc]]., whether of a native speaker or a foreign speaker; the phonetic and phonological [[a/_aspects|aspects]] of a [[d/_dialect|dialect]].**
 	- _Example: a broad Irish accent_
 - **(sign languages) A [[d/_distinctive|distinctive]] manner of producing a sign language, such as someone who [[d/_does|does]] not normally use a [[c/_certain|certain]] sign language might have when using it.**
 	- _Example: 2015 December 3, [./http//www.pri.org/stories/2015-12-03/philadelphia-accent-sign-language There's a distinctly Philadelphia accent in American Sign Language]_
@@ -21,7 +21,7 @@
 - **The expressive [[e/_emphasis|emphasis]] and shading of a passage.**
 - **A mark used to represent specific stress on a note.**
 - **A mark placed at the right hand of a letter, and a little [[a/_above|above]] it, to [[d/_distinguish|distinguish]] magnitudes of a similar kind expressed by the same letter, but [[d/_differing|differing]] in value, as y', y''.**
-- **A mark at the right hand of a number, indicating minutes of a [[d/_degree|degree]], seconds, etc., as in 12' 27'', meaning twelve minutes and twenty-seven seconds.**
+- **A mark at the right hand of a number, indicating minutes of a [[d/_degree|degree]], seconds, [[e/_etc|etc]]., as in 12' 27'', meaning twelve minutes and twenty-seven seconds.**
 - **A mark used to [[d/_denote|denote]] feet and inches, as in 6' 10'', meaning six feet ten inches.**
 - **[[e/_emphasis|Emphasis]] laid on a part of an [[a/_artistic|artistic]] [[d/_design|design]] or [[c/_composition|composition]]; an [[e/_emphasized|emphasized]] [[d/_detail|detail]], in particular a [[d/_detail|detail]] in sharp [[c/_contrast|contrast]] to its surroundings.**
 - **A very small gemstone set into a piece of jewellery.**

@@ -31,5 +31,5 @@
 - **To give a [[c/_compressed|compressed]] or foreshortened [[a/_appearance|appearance]] to.**
 ---
 ### Synonyms
-- [[comminute]]
+- [[c/_comminute|comminute]]
 ---

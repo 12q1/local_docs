@@ -1,7 +1,7 @@
 # Curtail
 ---
 #noun
-- **A scroll termination, as of a step, etc.**
+- **A scroll termination, as of a step, [[e/_etc|etc]].**
 ---
 #verb
 - **To [[c/_cut|cut]] short the tail of an [[a/_animal|animal]]**
@@ -11,5 +11,5 @@
 - **To limit or restrict, keep in [[c/_check|check]].**
 ---
 ### Synonyms
-- [[crop]], [[dock]], [[behedge]], [[control]], [[limit]], [[restrain]], [[abbreviate]], [[shorten]]
+- [[c/_crop|crop]], [[d/_dock|dock]], [[b/_behedge|behedge]], [[c/_control|control]], [[l/_limit|limit]], [[r/_restrain|restrain]], [[a/_abbreviate|abbreviate]], [[s/_shorten|shorten]]
 ---

@@ -5,7 +5,7 @@
 - **[[a/_any|Any]] intermediate object that [[c/_connects|connects]] a smaller part to a larger part, the smaller part typically projecting sideways from the larger part.**
 - **A short [[c/_crooked|crooked]] timber, resembling a knee, used as a support.**
 - **The [[c/_cheek|cheek]] or side of an ordnance [[c/_carriage|carriage]], supporting the trunnions.**
-- **[[a/_any|Any]] of the [[c/_characters|characters]] "(", ")", "[", "]", "{", "}", "<" and ">", used in pairs to [[e/_enclose|enclose]] parenthetic remarks, sections of mathematical expressions, etc.**
+- **[[a/_any|Any]] of the [[c/_characters|characters]] "(", ")", "[", "]", "{", "}", "<" and ">", used in pairs to [[e/_enclose|enclose]] parenthetic remarks, sections of mathematical expressions, [[e/_etc|etc]].**
 - **A printed [[d/_diagram|diagram]] of games in a tournament.**
 - **A prediction of the outcome of games in a tournament, used for [[b/_betting|betting]] purposes.**
 - **One of several ranges of numbers.**
@@ -16,7 +16,7 @@
 - **(land surveying, 19th [[c/_century|century]]) a mark [[c/_cut|cut]] into a stone by land surveyors to secure a [[b/_bench|bench]].**
 ---
 ### Synonyms
-- [[parens]], [[parentheses]], [[benchmark]]
+- [[p/_parens|parens]], [[p/_parentheses|parentheses]], [[b/_benchmark|benchmark]]
 #verb
 - **To support by means of mechanical [[b/_brackets|brackets]].**
 - **To [[e/_enclose|enclose]] in typographical [[b/_brackets|brackets]].**

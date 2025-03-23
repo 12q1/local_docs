@@ -8,5 +8,5 @@
 - **To [[c/_condense|condense]], to [[c/_concentrate|concentrate]].**
 ---
 ### Synonyms
-- [[converge]]
+- [[c/_converge|converge]]
 ---

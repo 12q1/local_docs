@@ -15,5 +15,5 @@
 - **To give a favorable [[a/_appearance|appearance]] to; to whitewash; to whiten;**
 ---
 ### Synonyms
-- [[palliate]]
+- [[p/_palliate|palliate]]
 ---

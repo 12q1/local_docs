@@ -7,5 +7,5 @@
 - **A rider who specializes in riding uphill quickly.**
 ---
 ### Synonyms
-- [[creeper]]
+- [[c/_creeper|creeper]]
 ---

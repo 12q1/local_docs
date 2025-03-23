@@ -1,13 +1,13 @@
 # Doubles
 ---
 #noun
-- **Twice the number, [[a/_amount|amount]], size, etc.**
+- **Twice the number, [[a/_amount|amount]], size, [[e/_etc|etc]].**
 - **A person who resembles and stands in for [[a/_another|another]] person, often for safety purposes**
 	- _Example: Saddam Hussein was rumored to have many doubles._
 - **A [[d/_drink|drink]] with two portions of [[a/_alcohol|alcohol]].**
 	- _Example: On second thought, make that a double._
 - **A ghostly [[a/_apparition|apparition]] of a living person; doppelgänger.**
-- **A sharp turn, especially a return on one's own tracks.**
+- **A sharp turn, [[e/_especially|especially]] a return on one's own tracks.**
 - **A redundant item for which an identical item [[a/_already|already]] exists.**
 	- _Example: Before printing the photos, Liam deleted the doubles._
 - **A two-[[b/_base|base]] hit.**
@@ -60,14 +60,14 @@
 	- _Example: Could you please repeat your last transmission? Another station was doubling with you._
 ---
 ### Synonyms
-- [[redouble]], [[facsimilize]]
+- [[r/_redouble|redouble]], [[f/_facsimilize|facsimilize]]
 ### Antonyms
-- [[halve]]
+- [[h/_halve|halve]]
 #noun
 - **The [[d/_double|double]] time, a marching [[c/_cadence|cadence]] (pace) [[a/_approaching|approaching]] running speed.**
 ---
 ### Synonyms
-- [[double]]
+- [[d/_double|double]]
 #noun
 - **A game [[b/_between|between]] pairs of players**
 	- _Example: Seeing as we've got four people, let's play doubles._

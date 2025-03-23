@@ -5,7 +5,7 @@
 	- _Example: Our merchandise is now buyable online._
 ---
 ### Synonyms
-- [[for sale]], [[purchasable]]
+- [[p/_purchasable|purchasable]]
 ### Antonyms
-- [[unbuyable]]
+- [[u/_unbuyable|unbuyable]]
 ---

@@ -9,7 +9,7 @@
 	- _Example: an adequate definition_
 ---
 ### Synonyms
-- [[acceptable]], [[correspondent]], [[proportionate]], [[satisfactory]], [[sufficient]]
+- [[a/_acceptable|acceptable]], [[c/_correspondent|correspondent]], [[p/_proportionate|proportionate]], [[s/_satisfactory|satisfactory]], [[s/_sufficient|sufficient]]
 ### Antonyms
-- [[inadequate]]
+- [[i/_inadequate|inadequate]]
 ---

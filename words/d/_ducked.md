@@ -12,5 +12,5 @@
 	- _Example: I'm just going to duck into the loo for a minute, can you hold my bag?_
 ---
 ### Synonyms
-- [[dip]], [[dip]], [[dunk]], [[duck down]]
+- [[d/_dip|dip]], [[d/_dip|dip]], [[d/_dunk|dunk]]
 ---

@@ -2,12 +2,12 @@
 ---
 #noun
 - **An unhurried leisurely walk or stroll.**
-- **An [[e/_easy|easy]] gait, especially that of a horse.**
+- **An [[e/_easy|easy]] gait, [[e/_especially|especially]] that of a horse.**
 ---
 #verb
 - **To stroll or walk slowly and leisurely.**
 - **Of a quadruped: to move [[a/_along|along]] by using [[b/_both|both]] legs on one side, and then the other.**
 ---
 ### Synonyms
-- [[saunter]]
+- [[s/_saunter|saunter]]
 ---

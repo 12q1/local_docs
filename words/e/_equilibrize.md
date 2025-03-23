@@ -5,5 +5,5 @@
 - **To [[b/_balance|balance]], to be in a state of [[e/_equilibrium|equilibrium]].**
 ---
 ### Synonyms
-- [[equilibrate]]
+- [[e/_equilibrate|equilibrate]]
 ---

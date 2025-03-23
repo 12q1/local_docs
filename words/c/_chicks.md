@@ -4,10 +4,10 @@
 - **A young [[b/_bird|bird]].**
 - **A young [[c/_chicken|chicken]].**
 - **(term of [[e/_endearment|endearment]]) A young [[c/_child|child]].**
-- **A young, especially [[a/_attractive|attractive]], woman or teenage girl.**
+- **A young, [[e/_especially|especially]] [[a/_attractive|attractive]], woman or teenage girl.**
 ---
 ### Synonyms
-- [[fledgling]]
+- [[f/_fledgling|fledgling]]
 #verb
 - **To sprout, as seed [[d/_does|does]] in the ground; to vegetate.**
 ---
@@ -15,5 +15,5 @@
 - **A screen or [[b/_blind|blind]] made of finely slit [[b/_bamboo|bamboo]] and twine, hung in [[d/_doorways|doorways]] or windows.**
 ---
 ### Synonyms
-- [[chick-blinds]]
+- [[c/_chick-blinds|chick-blinds]]
 ---

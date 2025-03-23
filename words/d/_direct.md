@@ -26,9 +26,9 @@
 - **(travel) having a single flight number.**
 ---
 ### Synonyms
-- [[explicit]], [[patent]], [[univocal]], [[immediate]]
+- [[e/_explicit|explicit]], [[p/_patent|patent]], [[u/_univocal|univocal]], [[i/_immediate|immediate]]
 ### Antonyms
-- [[indirect]]
+- [[i/_indirect|indirect]]
 #adverb
 - **[[d/_directly|Directly]].**
 ---

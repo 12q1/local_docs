@@ -5,5 +5,5 @@
 - **Tending to [[a/_attract|attract]] [[e/_electrons|electrons]] to form a [[c/_chemical|chemical]] [[b/_bond|bond]]**
 ---
 ### Antonyms
-- [[electropositive]]
+- [[e/_electropositive|electropositive]]
 ---

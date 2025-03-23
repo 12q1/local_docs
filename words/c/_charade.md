@@ -8,7 +8,7 @@
 	- _Example: This whole charade is absurd._
 ---
 ### Synonyms
-- [[acted charade]], [[dumb charade]], [[farce]], [[sham]]
+- [[f/_farce|farce]], [[s/_sham|sham]]
 #verb
 - **To [[a/_act|act]] out a [[c/_charade|charade]] (of); to gesture; to pretend.**
 ---

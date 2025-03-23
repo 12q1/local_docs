@@ -21,11 +21,11 @@
 	- _Example: It was to be a collect delivery, but no-one was available to pay._
 ---
 ### Synonyms
-- [[amound]], [[gather]], [[bump into]], [[plough into]], [[run into]], [[group]], [[mass]], [[merge]], [[aggregate]], [[gather up]], [[receive]], [[secure]], [[assume]], [[construe]]
+- [[a/_amound|amound]], [[g/_gather|gather]], [[g/_group|group]], [[m/_mass|mass]], [[m/_merge|merge]], [[a/_aggregate|aggregate]], [[r/_receive|receive]], [[s/_secure|secure]], [[a/_assume|assume]], [[c/_construe|construe]]
 #adverb
 - **With payment [[d/_due|due]] from the recipient.**
 	- _Example: I had to call collect._
 ---
 ### Synonyms
-- [[amound]], [[gather]], [[bump into]], [[plough into]], [[run into]], [[group]], [[mass]], [[merge]], [[aggregate]], [[gather up]], [[receive]], [[secure]], [[assume]], [[construe]]
+- [[a/_amound|amound]], [[g/_gather|gather]], [[g/_group|group]], [[m/_mass|mass]], [[m/_merge|merge]], [[a/_aggregate|aggregate]], [[r/_receive|receive]], [[s/_secure|secure]], [[a/_assume|assume]], [[c/_construe|construe]]
 ---

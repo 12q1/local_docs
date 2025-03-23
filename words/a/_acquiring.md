@@ -8,7 +8,7 @@
 - **To sample signals and [[c/_convert|convert]] them into [[d/_digital|digital]] values.**
 ---
 ### Synonyms
-- [[attain]], [[come by]], [[earn]], [[gain]], [[obtain]], [[procure]], [[secure]], [[win]]
+- [[a/_attain|attain]], [[e/_earn|earn]], [[g/_gain|gain]], [[o/_obtain|obtain]], [[p/_procure|procure]], [[s/_secure|secure]], [[w/_win|win]]
 ### Antonyms
-- [[abandon]], [[lose]]
+- [[a/_abandon|abandon]], [[l/_lose|lose]]
 ---

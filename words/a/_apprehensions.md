@@ -9,7 +9,7 @@
 - **[[a/_anticipation|Anticipation]], mostly of things unfavorable; [[d/_dread|dread]] or fear at the prospect of some future ill.**
 ---
 ### Synonyms
-- [[awareness]], [[sense]], [[alarm]]
+- [[a/_awareness|awareness]], [[s/_sense|sense]], [[a/_alarm|alarm]]
 ### Antonyms
-- [[inapprehension]]
+- [[i/_inapprehension|inapprehension]]
 ---

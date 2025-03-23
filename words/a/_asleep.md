@@ -10,7 +10,7 @@
 - **[[d/_dead|Dead]]**
 ---
 ### Synonyms
-- [[dormant]]
+- [[d/_dormant|dormant]]
 ### Antonyms
-- [[awake]]
+- [[a/_awake|awake]]
 ---

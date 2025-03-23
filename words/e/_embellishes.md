@@ -7,5 +7,5 @@
 	- _Example: to embellish a story, the truth_
 ---
 ### Synonyms
-- [[adorn]], [[beautify]], [[deck]], [[decorate]], [[grace]], [[ornament]], [[prettify]]
+- [[a/_adorn|adorn]], [[b/_beautify|beautify]], [[d/_deck|deck]], [[d/_decorate|decorate]], [[g/_grace|grace]], [[o/_ornament|ornament]], [[p/_prettify|prettify]]
 ---

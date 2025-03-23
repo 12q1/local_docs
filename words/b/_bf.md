@@ -1,13 +1,13 @@
 # Bf
 ---
 #noun
-- **An especially [[c/_close|close]] and trusted friend.**
+- **An [[e/_especially|especially]] [[c/_close|close]] and trusted friend.**
 - **An object or [[c/_concept|concept]] [[c/_considered|considered]] very useful or helpful.**
 ---
 ### Synonyms
-- [[BFF]], [[best bud]], [[best buddy]], [[best mate]], [[best pal]], [[bestie]], [[boon companion]]
+- [[B/_BFF|BFF]], [[b/_bestie|bestie]]
 ### Antonyms
-- [[worst enemy]]
+- 
 #noun
 - **A font that is [[d/_dark|dark]], having a high ratio of ink to white space, written or [[d/_drawn|drawn]] with thick strong lines.**
 ---
@@ -16,5 +16,5 @@
 - **A male friend.**
 ---
 ### Synonyms
-- [[buddy]], [[guyfriend]], [[mate]], [[pal]]
+- [[b/_buddy|buddy]], [[g/_guyfriend|guyfriend]], [[m/_mate|mate]], [[p/_pal|pal]]
 ---

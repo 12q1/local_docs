@@ -1,7 +1,7 @@
 # Economy
 ---
 #noun
-- **[[e/_effective|Effective]] management of a [[c/_community|community]] or system, or especially its resources.**
+- **[[e/_effective|Effective]] management of a [[c/_community|community]] or system, or [[e/_especially|especially]] its resources.**
 - **The study of money, [[c/_currency|currency]] and trade, and the [[e/_efficient|efficient]] use of resources.**
 - **Frugal use of resources.**
 	- _Example: economy of word_

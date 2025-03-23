@@ -7,11 +7,11 @@
 ---
 #adjective
 - **Pertaining to [[a/_addition|addition]]; that [[c/_can|can]] be, or has [[b/_been|been]], [[a/_added|added]].**
-- **(of a function, etc.) That is [[d/_distributive|distributive]] over [[a/_addition|addition]].**
+- **(of a function, [[e/_etc|etc]].) That is [[d/_distributive|distributive]] over [[a/_addition|addition]].**
 	- _Example: Matrix multiplication is additive, in that M\vec v+M\vec w=M(\vec v+\vec w)._
-- **(of a group, semigroup, etc.) Whose operator is identified as [[a/_addition|addition]].**
+- **(of a group, semigroup, [[e/_etc|etc]].) Whose operator is identified as [[a/_addition|addition]].**
 	- _Example: It is natural to look at a finite cyclic group as an additive group._
 - **Pertaining to [[c/_chemical|chemical]] [[a/_addition|addition]].**
-- **Of or pertaining to genes (or the interaction etc. of such genes) which govern the same trait and whose [[e/_effects|effects]] work together on the phenotype.**
+- **Of or pertaining to genes (or the interaction [[e/_etc|etc]]. of such genes) which govern the same trait and whose [[e/_effects|effects]] work together on the phenotype.**
 ---
 ---

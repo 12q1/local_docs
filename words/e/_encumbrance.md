@@ -7,5 +7,5 @@
 	- _Example: a widow without encumbrances, i.e. without children_
 ---
 ### Synonyms
-- [[encumberment]]
+- [[e/_encumberment|encumberment]]
 ---

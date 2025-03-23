@@ -4,7 +4,7 @@
 - **[[b/_before|Before]] noon.**
 ---
 ### Synonyms
-- [[forenoon]]
+- [[f/_forenoon|forenoon]]
 ### Antonyms
-- [[afternoon]], [[p.m.]]
+- [[a/_afternoon|afternoon]], [[p/_p.m.|p.m.]]
 ---

@@ -2,7 +2,7 @@
 ---
 #verb
 - **To put into a [[b/_bag|bag]].**
-- **To [[c/_catch|catch]] or kill, especially when fishing or hunting.**
+- **To [[c/_catch|catch]] or kill, [[e/_especially|especially]] when fishing or hunting.**
 	- _Example: We bagged three deer yesterday._
 - **To gain possession of something, or to make first [[c/_claim|claim]] on something.**
 - **To furnish or load with a [[b/_bag|bag]].**

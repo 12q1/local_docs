@@ -4,5 +4,5 @@
 - **A person whose profession is [[b/_binding|binding]] pages together to form a [[b/_book|book]]**
 ---
 ### Synonyms
-- [[bibliopegist]]
+- [[b/_bibliopegist|bibliopegist]]
 ---

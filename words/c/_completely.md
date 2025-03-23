@@ -7,5 +7,5 @@
 	- _Example: He is completely mad._
 ---
 ### Synonyms
-- [[fully]], [[totally]], [[utterly]], [[fully]], [[totally]], [[utterly]]
+- [[f/_fully|fully]], [[t/_totally|totally]], [[u/_utterly|utterly]], [[f/_fully|fully]], [[t/_totally|totally]], [[u/_utterly|utterly]]
 ---

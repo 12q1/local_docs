@@ -6,5 +6,5 @@
 - **A unit of measurement [[e/_equal|equal]] to the height of the type in use.**
 ---
 ### Synonyms
-- [[em quad]], [[mut]], [[mutton]], [[quad]]
+- [[m/_mut|mut]], [[m/_mutton|mutton]], [[q/_quad|quad]]
 ---

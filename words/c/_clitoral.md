@@ -4,5 +4,5 @@
 - **Of, or relating to the [[c/_clitoris|clitoris]]**
 ---
 ### Synonyms
-- [[clitoric]]
+- [[c/_clitoric|clitoric]]
 ---

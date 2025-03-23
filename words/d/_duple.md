@@ -6,5 +6,5 @@
 - **Having two [[b/_beats|beats]] in [[e/_each|each]] foot.**
 ---
 ### Synonyms
-- [[duplicate]], [[twosome]]
+- [[d/_duplicate|duplicate]], [[t/_twosome|twosome]]
 ---

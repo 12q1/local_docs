@@ -7,7 +7,7 @@
 - **An [[e/_economic|economic]] [[c/_contraction|contraction]].**
 ---
 ### Synonyms
-- [[disinflation]], [[impoverishment]]
+- [[d/_disinflation|disinflation]], [[i/_impoverishment|impoverishment]]
 ### Antonyms
-- [[inflation]]
+- [[i/_inflation|inflation]]
 ---

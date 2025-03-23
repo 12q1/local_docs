@@ -8,7 +8,7 @@
 - **A successful shot that, [[d/_despite|despite]] a foul, is made with a single [[c/_continuous|continuous]] motion [[b/_beginning|beginning]] [[b/_before|before]] the foul, and that is therefore valid in [[c/_certain|certain]] forms of [[b/_basketball|basketball]].**
 ---
 ### Synonyms
-- [[prolongation]], [[propagation]]
+- [[p/_prolongation|prolongation]], [[p/_propagation|propagation]]
 ### Antonyms
-- [[discontinuation]], [[termination]]
+- [[d/_discontinuation|discontinuation]], [[t/_termination|termination]]
 ---

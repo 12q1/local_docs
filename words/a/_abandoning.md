@@ -7,7 +7,7 @@
 	- _Example: Many baby girls have been abandoned on the streets of Beijing._
 - **To subdue; to take [[c/_control|control]] of.**
 - **To [[c/_cast|cast]] out; to [[b/_banish|banish]]; to expel; to reject.**
-- **To no longer exercise a right, title, or interest, especially with no interest of reclaiming it [[a/_again|again]]; to yield; to relinquish.**
+- **To no longer exercise a right, title, or interest, [[e/_especially|especially]] with no interest of reclaiming it [[a/_again|again]]; to yield; to relinquish.**
 - **To surrender to the insurer (an insured item), so as to [[c/_claim|claim]] a total loss.**
 ---
 #noun

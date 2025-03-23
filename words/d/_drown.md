@@ -9,5 +9,5 @@
 	- _Example: The answers intelligence services seek are often drowned in the flood of information they can now gather._
 ---
 ### Synonyms
-- [[flood]], [[inundate]]
+- [[f/_flood|flood]], [[i/_inundate|inundate]]
 ---

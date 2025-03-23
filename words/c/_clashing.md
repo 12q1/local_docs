@@ -19,7 +19,7 @@
 ---
 #adjective
 - **[[c/_conflicting|Conflicting]], [[c/_contrasting|contrasting]], or [[c/_contrary|contrary]]; inconsonant, incompatible, or irreconcilable**
-- **Mismatched, inharmonious, [[d/_discordant|discordant]] or [[d/_dissonant|dissonant]], not fitting well together (especially in regards to [[a/_aesthetics|aesthetics]], [[c/_colors|colors]], [[c/_clothing|clothing]], or sounds)**
+- **Mismatched, inharmonious, [[d/_discordant|discordant]] or [[d/_dissonant|dissonant]], not fitting well together ([[e/_especially|especially]] in regards to [[a/_aesthetics|aesthetics]], [[c/_colors|colors]], [[c/_clothing|clothing]], or sounds)**
 - **[[a/_adverse|Adverse]] or [[a/_antagonistic|antagonistic]]; [[d/_disagreeing|disagreeing]] or opposing**
 ---
 ---

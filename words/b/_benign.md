@@ -8,7 +8,7 @@
 - **Not posing [[a/_any|any]] serious threat to health; not particularly [[a/_aggressive|aggressive]] or recurrent.**
 ---
 ### Synonyms
-- [[non-malignant]]
+- [[n/_non-malignant|non-malignant]]
 ### Antonyms
-- [[malign]], [[malignant]]
+- [[m/_malign|malign]], [[m/_malignant|malignant]]
 ---

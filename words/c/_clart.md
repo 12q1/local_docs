@@ -10,6 +10,6 @@
 	- _Example: I need to get rid of all this clart. (Clearing unwanted items from a table top)_
 ---
 #verb
-- **To [[d/_daub|daub]], smear, or spread, especially with mud, etc.; to [[d/_dirty|dirty]].**
+- **To [[d/_daub|daub]], smear, or spread, [[e/_especially|especially]] with mud, [[e/_etc|etc]].; to [[d/_dirty|dirty]].**
 ---
 ---

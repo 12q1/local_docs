@@ -7,7 +7,7 @@
 	- _Example: There were billions of people at the concert._
 ---
 ### Synonyms
-- [[trillion]], [[milliard]], [[thousand million]]
+- [[t/_trillion|trillion]], [[m/_milliard|milliard]]
 #adjective
 - **Utterly new, as new as possible.**
 ---

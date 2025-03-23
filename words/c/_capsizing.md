@@ -6,8 +6,8 @@
 - **(of knots) To [[d/_deform|deform]] under stress.**
 ---
 ### Synonyms
-- [[keel over]], [[turn turtle]]
+- 
 #noun
-- **An overturning of a [[b/_boat|boat]] etc.**
+- **An overturning of a [[b/_boat|boat]] [[e/_etc|etc]].**
 ---
 ---

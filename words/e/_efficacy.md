@@ -5,5 +5,5 @@
 - **[[d/_degree|Degree]] of [[a/_ability|ability]] to produce a [[d/_desired|desired]] [[e/_effect|effect]].**
 ---
 ### Synonyms
-- [[efficacity]]
+- [[e/_efficacity|efficacity]]
 ---

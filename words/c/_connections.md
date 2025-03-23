@@ -6,7 +6,7 @@
 	- _Example: My headache has no connection with me going out last night._
 - **A feeling of understanding and [[e/_ease|ease]] of [[c/_communication|communication]] [[b/_between|between]] two or more people.**
 	- _Example: As we were the only people in the room to laugh at the joke, I felt a connection between us._
-- **An established [[c/_communications|communications]] or transportation link.**
+- **An [[e/_established|established]] [[c/_communications|communications]] or transportation link.**
 	- _Example: I was talking to him, but there was lightning and we lost the connection._
 - **A transfer from one transportation vehicle to [[a/_another|another]] in scheduled transportation service**
 	- _Example: The bus was late so he missed his connection at Penn Station and had to wait six hours for the next train._

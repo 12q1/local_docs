@@ -10,5 +10,5 @@
 - **([[c/_chiefly|chiefly]] in the plural) An [[a/_agreeable|agreeable]] quality.**
 ---
 ### Synonyms
-- [[settlement]], [[accord]], [[concurrence]], [[congeniality]], [[harmony]], [[amenity]], [[niceness]], [[pleasantness]], [[concord]], [[convention]], [[covenant]], [[meeting of the minds]], [[pact]], [[treaty]], [[concord]], [[concordance]]
+- [[s/_settlement|settlement]], [[a/_accord|accord]], [[c/_concurrence|concurrence]], [[c/_congeniality|congeniality]], [[h/_harmony|harmony]], [[a/_amenity|amenity]], [[n/_niceness|niceness]], [[p/_pleasantness|pleasantness]], [[c/_concord|concord]], [[c/_convention|convention]], [[c/_covenant|covenant]], [[p/_pact|pact]], [[t/_treaty|treaty]], [[c/_concord|concord]], [[c/_concordance|concordance]]
 ---

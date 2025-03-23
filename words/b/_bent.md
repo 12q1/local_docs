@@ -40,7 +40,7 @@
 - **Tension; force of [[a/_acting|acting]]; [[e/_energy|energy]]; impetus.**
 ---
 ### Synonyms
-- [[disposition]], [[predilection]], [[proclivity]], [[propensity]]
+- [[d/_disposition|disposition]], [[p/_predilection|predilection]], [[p/_proclivity|proclivity]], [[p/_propensity|propensity]]
 #adjective
 - **(Of something that is usually straight) folded, [[d/_dented|dented]]**
 - **[[c/_corrupt|Corrupt]], [[d/_dishonest|dishonest]]**
@@ -55,5 +55,5 @@
 	- _Example: Man, I am so bent right now!_
 ---
 ### Synonyms
-- [[crooked]], [[queer]]
+- [[c/_crooked|crooked]], [[q/_queer|queer]]
 ---

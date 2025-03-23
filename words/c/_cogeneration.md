@@ -6,5 +6,5 @@
 - **Joint generation; cocreation.**
 ---
 ### Synonyms
-- [[CHP]]
+- [[C/_CHP|CHP]]
 ---

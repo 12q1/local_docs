@@ -5,5 +5,5 @@
 	- _Example: They landed at the airdrome._
 ---
 ### Synonyms
-- [[aerodrome]], [[airfield]], [[landing field]]
+- [[a/_aerodrome|aerodrome]], [[a/_airfield|airfield]]
 ---

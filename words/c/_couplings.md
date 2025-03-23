@@ -9,7 +9,7 @@
 - **(sexuality) sexual intercourse**
 ---
 ### Synonyms
-- [[dependency]]
+- [[d/_dependency|dependency]]
 ### Antonyms
-- [[cohesion]]
+- [[c/_cohesion|cohesion]]
 ---

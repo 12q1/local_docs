@@ -4,5 +4,5 @@
 - **A fold with strata sloping [[d/_downwards|downwards]] on [[e/_each|each]] side.**
 ---
 ### Synonyms
-- [[upwrap]]
+- [[u/_upwrap|upwrap]]
 ---

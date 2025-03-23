@@ -20,8 +20,8 @@
 	- _Example: He answered my claim upon him._
 - **To render [[a/_account|account]] to or for.**
 - **To [[a/_atone|atone]] for; to be punished for.**
-- **To be or [[a/_act|act]] as an equivalent to, or as [[a/_adequate|adequate]] or sufficient for; to serve for; to repay.**
+- **To be or [[a/_act|act]] as an [[e/_equivalent|equivalent]] to, or as [[a/_adequate|adequate]] or sufficient for; to serve for; to repay.**
 ---
 ### Synonyms
-- [[answer for]]
+- 
 ---

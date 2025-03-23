@@ -9,7 +9,7 @@
 - **A large pill, a form in which medicine was given to horses; a [[b/_bolus|bolus]].**
 ---
 ### Synonyms
-- [[chutzpah]], [[guts]], [[nerve]], [[globe]], [[sphere]]
+- [[c/_chutzpah|chutzpah]], [[g/_guts|guts]], [[n/_nerve|nerve]], [[g/_globe|globe]], [[s/_sphere|sphere]]
 #verb
 - **To form or wind into a [[b/_ball|ball]].**
 	- _Example: to ball cotton_
@@ -22,14 +22,14 @@
 - **To punish by [[a/_affixing|affixing]] a [[b/_ball|ball]] and [[c/_chain|chain]]**
 ---
 ### Synonyms
-- [[roll]], [[wad]], [[bonk]], [[fuck]], [[lay]], [[screw]], [[shag]]
+- [[r/_roll|roll]], [[w/_wad|wad]], [[b/_bonk|bonk]], [[f/_fuck|fuck]], [[l/_lay|lay]], [[s/_screw|screw]], [[s/_shag|shag]]
 #noun
 - **A formal [[d/_dance|dance]].**
 - **A very [[e/_enjoyable|enjoyable]] time.**
 	- _Example: I had a ball at that concert._
 ---
 ### Synonyms
-- [[blast]], [[whale of a time]]
+- [[b/_blast|blast]]
 #verb
 - **Speaking or [[a/_acting|acting]] with [[b/_bravado|bravado]] to [[a/_achieve|achieve]] (something)**
 - **To [[e/_engage|engage]] in sexual intercourse.**

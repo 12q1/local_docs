@@ -13,5 +13,5 @@
 	- _Example: What a dandy little laptop you have._
 ---
 ### Synonyms
-- [[all very well]], [[well and good]]
+- 
 ---

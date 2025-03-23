@@ -7,5 +7,5 @@
 - **Of or relating to [[c/_creationism|creationism]].**
 ---
 ### Synonyms
-- [[creationistic]]
+- [[c/_creationistic|creationistic]]
 ---

@@ -6,5 +6,5 @@
 - **Something overly [[a/_artful|artful]] or [[a/_artificial|artificial]]**
 ---
 ### Synonyms
-- [[contraption]]
+- [[c/_contraption|contraption]]
 ---

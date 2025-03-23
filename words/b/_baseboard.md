@@ -5,5 +5,5 @@
 - **A similar panel at the [[b/_base|base]] of a piece of furniture or [[e/_equipment|equipment]].**
 ---
 ### Synonyms
-- [[skirting board]]
+- 
 ---

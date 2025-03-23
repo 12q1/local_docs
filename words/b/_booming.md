@@ -21,7 +21,7 @@
 	- _Example: to boom railroad or mining shares_
 ---
 ### Synonyms
-- [[flourish]], [[prosper]]
+- [[f/_flourish|flourish]], [[p/_prosper|prosper]]
 #noun
 - **A [[d/_deep|deep]] hollow or roaring sound.**
 ---
@@ -32,5 +32,5 @@
 	- _Example: He was asked to be MC at the function on account of his booming voice._
 ---
 ### Synonyms
-- [[remugient]], [[resounding]]
+- [[r/_remugient|remugient]], [[r/_resounding|resounding]]
 ---

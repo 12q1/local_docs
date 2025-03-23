@@ -6,5 +6,5 @@
 - **A [[d/_device|device]] for [[a/_administering|administering]] such an injection.**
 ---
 ### Synonyms
-- [[clyster]]
+- [[c/_clyster|clyster]]
 ---

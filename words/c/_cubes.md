@@ -10,7 +10,7 @@
 - **A Rubick's [[c/_cube|cube]] style puzzle, not necessarily in the shape of a [[c/_cube|cube]]**
 ---
 ### Synonyms
-- [[regular hexahedron]], [[power]], [[third]], [[block]], [[brick]], [[die]]
+- [[p/_power|power]], [[t/_third|third]], [[b/_block|block]], [[b/_brick|brick]], [[d/_die|die]]
 #verb
 - **To raise to the third power; to [[d/_determine|determine]] the result of multiplying by itself twice.**
 	- _Example: Three cubed can be written as 33, and equals twenty-seven._
@@ -21,9 +21,9 @@
 	- _Example: He likes to cube now and then._
 ---
 ### Synonyms
-- [[dice]]
+- [[d/_dice|dice]]
 #noun
-- **A [[c/_cubicle|cubicle]], especially one of those found in offices.**
+- **A [[c/_cubicle|cubicle]], [[e/_especially|especially]] one of those found in offices.**
 	- _Example: My co-worker annoys me by throwing things over the walls of my cube._
 ---
 ---

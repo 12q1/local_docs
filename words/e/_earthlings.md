@@ -5,7 +5,7 @@
 - **A lesbian woman.**
 ---
 ### Synonyms
-- [[Earthican]], [[Tellurian]], [[Terran]]
+- [[E/_Earthican|Earthican]], [[T/_Tellurian|Tellurian]], [[T/_Terran|Terran]]
 ### Antonyms
-- [[alien]], [[extraterrestrial]]
+- [[a/_alien|alien]], [[e/_extraterrestrial|extraterrestrial]]
 ---

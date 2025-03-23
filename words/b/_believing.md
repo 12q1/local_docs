@@ -10,5 +10,5 @@
 - **To opine, think, reckon**
 ---
 ### Antonyms
-- [[disbelieve]]
+- [[d/_disbelieve|disbelieve]]
 ---

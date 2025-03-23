@@ -5,7 +5,7 @@
 	- _Example: ...approximately 60 beats per minute._
 ---
 ### Synonyms
-- [[around]], [[near]], [[nearly]]
+- [[a/_around|around]], [[n/_near|near]], [[n/_nearly|nearly]]
 ### Antonyms
-- [[accurately]], [[definitely]], [[exactly]], [[precisely]]
+- [[a/_accurately|accurately]], [[d/_definitely|definitely]], [[e/_exactly|exactly]], [[p/_precisely|precisely]]
 ---

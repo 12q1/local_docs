@@ -5,5 +5,5 @@
 - **A [[d/_device|device]] by which two [[c/_contrasting|contrasting]] ideas are juxtaposed in parallel form.**
 ---
 ### Antonyms
-- [[epitome]]
+- [[e/_epitome|epitome]]
 ---

@@ -7,5 +7,5 @@
 - **[[a/_any|Any]] of several smaller, wooden table top games [[d/_developed|developed]] from the original [[b/_bagatelle|bagatelle]] in which the pockets are made of pins; [[a/_also|also]] [[c/_called|called]] pin [[b/_bagatelle|bagatelle]], hit-a-pin [[b/_bagatelle|bagatelle]], jaw [[b/_ball|ball]].**
 ---
 ### Synonyms
-- [[bag of shells]]
+- 
 ---

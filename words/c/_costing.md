@@ -6,10 +6,10 @@
 - **To [[c/_cause|cause]] something to be lost; to [[c/_cause|cause]] the expenditure or relinquishment of.**
 	- _Example: Trying to rescue the man from the burning building cost them their lives._
 - **To require to be [[b/_borne|borne]] or suffered; to [[c/_cause|cause]].**
-- **To [[c/_calculate|calculate]] or estimate a price.**
+- **To [[c/_calculate|calculate]] or [[e/_estimate|estimate]] a price.**
 	- _Example: I'd cost the repair work at a few thousand._
 ---
 #noun
-- **The estimation of the [[c/_cost|cost]] of a process or product.**
+- **The [[e/_estimation|estimation]] of the [[c/_cost|cost]] of a process or product.**
 ---
 ---

@@ -12,7 +12,7 @@
 - **To punch (a person).**
 ---
 ### Synonyms
-- [[stipple]]
+- [[s/_stipple|stipple]]
 #noun
 - **A [[d/_dotted|dotted]] pattern; a speckling.**
 ---

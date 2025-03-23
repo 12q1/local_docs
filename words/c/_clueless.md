@@ -5,5 +5,5 @@
 - **Without [[a/_any|any]] [[c/_clues|clues]] or hints.**
 ---
 ### Antonyms
-- [[clueful]], [[informed]]
+- [[c/_clueful|clueful]], [[i/_informed|informed]]
 ---

@@ -19,7 +19,7 @@
 - **The [[b/_bottom|bottom]] part of a flask or mould, the upper part [[b/_being|being]] the [[c/_cope|cope]].**
 - **A steel instrument for [[c/_completing|completing]] the [[d/_dressing|dressing]] of soft stone.**
 - **The [[d/_difference|difference]] [[b/_between|between]] the speed of a screw steamer under sail and that of the screw when the ship outruns the screw; or [[b/_between|between]] the propulsive [[e/_effects|effects]] of the [[d/_different|different]] floats of a paddle wheel.**
-- **[[a/_anything|Anything]] towed in the water to retard a ship's progress, or to keep her head up to the wind; especially, a [[c/_canvas|canvas]] [[b/_bag|bag]] with a hooped mouth ([[d/_drag|drag]] sail), so used.**
+- **[[a/_anything|Anything]] towed in the water to retard a ship's progress, or to keep her head up to the wind; [[e/_especially|especially]], a [[c/_canvas|canvas]] [[b/_bag|bag]] with a hooped mouth ([[d/_drag|drag]] sail), so used.**
 - **A skid or shoe for retarding the motion of a [[c/_carriage|carriage]] wheel.**
 - **Motion [[a/_affected|affected]] with slowness and [[d/_difficulty|difficulty]], as if [[c/_clogged|clogged]].**
 - **Witch house music.**
@@ -50,7 +50,7 @@
 	- _Example: You just drag him 'cause he's got more money than you._
 ---
 ### Synonyms
-- [[criticize]], [[harrow]]
+- [[c/_criticize|criticize]], [[h/_harrow|harrow]]
 #noun
 - **Women's [[c/_clothing|clothing]] worn by men for the purpose of [[e/_entertainment|entertainment]].**
 	- _Example: He performed in drag._

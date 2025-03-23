@@ -13,5 +13,5 @@
 - **One of the ingredients in an [[a/_alloy|alloy]].**
 ---
 ### Synonyms
-- [[alloy]], [[blend]], [[combo]], [[compound]], [[conglomerate]], [[mixture]]
+- [[a/_alloy|alloy]], [[b/_blend|blend]], [[c/_combo|combo]], [[c/_compound|compound]], [[c/_conglomerate|conglomerate]], [[m/_mixture|mixture]]
 ---

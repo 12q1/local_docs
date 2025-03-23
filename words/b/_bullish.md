@@ -8,5 +8,5 @@
 - **Optimistic; overly or foolishly optimistic or hopeful**
 ---
 ### Antonyms
-- [[bearish]], [[bearish]]
+- [[b/_bearish|bearish]], [[b/_bearish|bearish]]
 ---

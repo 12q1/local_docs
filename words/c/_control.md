@@ -14,14 +14,14 @@
 - **A [[c/_construction|construction]] in which the understood subject of a given predicate is [[d/_determined|determined]] by an expression in [[c/_context|context]]. See [[c/_control|control]].**
 ---
 ### Synonyms
-- [[widget]]
+- [[w/_widget|widget]]
 #verb
 - **To exercise influence over; to suggest or [[d/_dictate|dictate]] the [[b/_behavior|behavior]] of.**
 	- _Example: With a simple remote, he could control the toy truck._
 - **([[c/_construed|construed]] with for) To [[d/_design|design]] (an experiment) so that the [[e/_effects|effects]] of one or more variables are reduced or [[e/_eliminated|eliminated]].**
 ---
 ### Synonyms
-- [[besteer]], [[bewield]], [[manage]], [[puppeteer]], [[rule]], [[ctrl.]]
+- [[b/_besteer|besteer]], [[b/_bewield|bewield]], [[m/_manage|manage]], [[p/_puppeteer|puppeteer]], [[r/_rule|rule]], [[c/_ctrl.|ctrl.]]
 ### Antonyms
-- [[defy]], [[rebel]], [[resist]], [[obey]], [[submit]]
+- [[d/_defy|defy]], [[r/_rebel|rebel]], [[r/_resist|resist]], [[o/_obey|obey]], [[s/_submit|submit]]
 ---

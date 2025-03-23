@@ -5,5 +5,5 @@
 - **[[b/_blessed|Blessed]]; glorified.**
 ---
 ### Synonyms
-- [[ecstatic]], [[elated]], [[euphoric]], [[joyful]], [[on cloud nine]], [[orgasmic]], [[overjoyed]], [[rapturous]]
+- [[e/_ecstatic|ecstatic]], [[e/_elated|elated]], [[e/_euphoric|euphoric]], [[j/_joyful|joyful]], [[o/_orgasmic|orgasmic]], [[o/_overjoyed|overjoyed]], [[r/_rapturous|rapturous]]
 ---

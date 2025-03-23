@@ -9,7 +9,7 @@
 - **Reserved; not [[a/_affable|affable]].**
 ---
 ### Synonyms
-- [[hazardous]], [[perilous]], [[risky]], [[unsafe]]
+- [[h/_hazardous|hazardous]], [[p/_perilous|perilous]], [[r/_risky|risky]], [[u/_unsafe|unsafe]]
 ### Antonyms
-- [[harmless]], [[safe]]
+- [[h/_harmless|harmless]], [[s/_safe|safe]]
 ---

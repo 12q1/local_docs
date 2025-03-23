@@ -7,7 +7,7 @@
 - **Permitting the possession of [[a/_alcoholic|alcoholic]] [[b/_beverages|beverages]], but not their sale.**
 ---
 ### Synonyms
-- [[glum]], [[melancholy]], [[sorrowful]], [[moist]], [[thoan]], [[thone]]
+- [[g/_glum|glum]], [[m/_melancholy|melancholy]], [[s/_sorrowful|sorrowful]], [[m/_moist|moist]], [[t/_thoan|thoan]], [[t/_thone|thone]]
 #noun
 - **Something that [[d/_damps|damps]] or [[c/_checks|checks]]:**
 - **[[b/_bread|Bread]] made from a [[b/_basic|basic]] recipe of flour, water, milk, and salt, but without yeast.**

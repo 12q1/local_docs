@@ -9,5 +9,5 @@
 - **A person [[e/_eligible|eligible]] for a [[c/_concession|concession]] price (see [[a/_above|above]]).**
 ---
 ### Synonyms
-- [[franchise]], [[tithe]]
+- [[f/_franchise|franchise]], [[t/_tithe|tithe]]
 ---

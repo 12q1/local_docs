@@ -6,5 +6,5 @@
 - **Growing with one side [[a/_adherent|adherent]] to a stem; [[a/_applied|applied]] to the lateral zooids of [[c/_corals|corals]] and other [[c/_compound|compound]] [[a/_animals|animals]]. in fish, having the [[e/_eyes|eyes]] fused and unable to rotate independently**
 ---
 ### Antonyms
-- [[connate]]
+- [[c/_connate|connate]]
 ---

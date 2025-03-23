@@ -10,5 +10,5 @@
 - **[[d/_describing|Describing]] rock formed from the skeletons of such [[a/_algae|algae]].**
 ---
 ### Synonyms
-- [[coral]], [[coralloid]], [[coralloidal]]
+- [[c/_coral|coral]], [[c/_coralloid|coralloid]], [[c/_coralloidal|coralloidal]]
 ---

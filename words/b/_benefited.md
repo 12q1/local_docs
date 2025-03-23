@@ -5,7 +5,7 @@
 - **To receive a [[b/_benefit|benefit]] (from); to be a [[b/_beneficiary|beneficiary]].**
 ---
 ### Synonyms
-- [[batten]], [[behoove]], [[help]]
+- [[b/_batten|batten]], [[b/_behoove|behoove]], [[h/_help|help]]
 ### Antonyms
-- [[detriment]], [[malefic]]
+- [[d/_detriment|detriment]], [[m/_malefic|malefic]]
 ---

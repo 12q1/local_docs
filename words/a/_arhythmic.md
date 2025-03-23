@@ -4,5 +4,5 @@
 - **Having no rhythm.**
 ---
 ### Synonyms
-- [[irrhythmic]], [[nonrhythmic]], [[unrhythmic]]
+- [[i/_irrhythmic|irrhythmic]], [[n/_nonrhythmic|nonrhythmic]], [[u/_unrhythmic|unrhythmic]]
 ---

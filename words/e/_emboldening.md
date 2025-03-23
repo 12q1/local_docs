@@ -6,5 +6,5 @@
 - **To format text in [[b/_boldface|boldface]].**
 ---
 ### Synonyms
-- [[boldface]]
+- [[b/_boldface|boldface]]
 ---

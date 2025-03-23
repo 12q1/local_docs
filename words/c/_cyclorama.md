@@ -5,5 +5,5 @@
 - **A large [[c/_curtain|curtain]] or wall, often [[c/_concave|concave]], hung upstage, in a theatre.**
 ---
 ### Synonyms
-- [[diorama]]
+- [[d/_diorama|diorama]]
 ---

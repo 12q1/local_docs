@@ -8,7 +8,7 @@
 - **The last struggle of life; [[d/_death|death]] struggle.**
 ---
 ### Synonyms
-- [[anguish]], [[distress]], [[pang]], [[suffering]], [[throe]], [[torment]]
+- [[a/_anguish|anguish]], [[d/_distress|distress]], [[p/_pang|pang]], [[s/_suffering|suffering]], [[t/_throe|throe]], [[t/_torment|torment]]
 ### Antonyms
-- [[ecstasy]]
+- [[e/_ecstasy|ecstasy]]
 ---

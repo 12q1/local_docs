@@ -14,9 +14,9 @@
 - **To [[a/_arrest|arrest]], seize.**
 ---
 ### Synonyms
-- [[affix]], [[annex]], [[connect]], [[unite]], [[cling]], [[stick]]
+- [[a/_affix|affix]], [[a/_annex|annex]], [[c/_connect|connect]], [[u/_unite|unite]], [[c/_cling|cling]], [[s/_stick|stick]]
 ### Antonyms
-- [[detach]], [[disengage]], [[separate]], [[unfasten]]
+- [[d/_detach|detach]], [[d/_disengage|disengage]], [[s/_separate|separate]], [[u/_unfasten|unfasten]]
 #adjective
 - **[[c/_connected|Connected]]; joined.**
 - **Fond of (used with to).**

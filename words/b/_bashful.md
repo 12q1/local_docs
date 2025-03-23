@@ -6,5 +6,5 @@
 	- _Example: a bashful look_
 ---
 ### Synonyms
-- [[shy]]
+- [[s/_shy|shy]]
 ---

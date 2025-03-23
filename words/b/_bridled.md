@@ -7,7 +7,7 @@
 - **To hold up one's head proudly or [[a/_affectedly|affectedly]].**
 ---
 ### Synonyms
-- [[restrain]]
+- [[r/_restrain|restrain]]
 #adjective
 - **[[e/_equipped|Equipped]] with a [[b/_bridle|bridle]]; [[c/_controlled|controlled]].**
 - **Having [[b/_bridle|bridle]]-shaped marks.**

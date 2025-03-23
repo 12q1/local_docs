@@ -4,5 +4,5 @@
 - **In a [[b/_belated|belated]] manner; tardily**
 ---
 ### Synonyms
-- [[late]]
+- [[l/_late|late]]
 ---

@@ -5,5 +5,5 @@
 - **The fruit of this tree.**
 ---
 ### Synonyms
-- [[Philippine lime]], [[calamandarin]], [[calamansi]]
+- [[c/_calamandarin|calamandarin]], [[c/_calamansi|calamansi]]
 ---

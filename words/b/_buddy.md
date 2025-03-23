@@ -9,7 +9,7 @@
 	- _Example: Hey, buddy, I think you dropped this._
 ---
 ### Synonyms
-- [[bud]], [[mate]], [[companion]], [[partner]], [[fellow]], [[mate]]
+- [[b/_bud|bud]], [[m/_mate|mate]], [[c/_companion|companion]], [[p/_partner|partner]], [[f/_fellow|fellow]], [[m/_mate|mate]]
 #verb
 - **To [[a/_assign|assign]] a [[b/_buddy|buddy]], or partner, to.**
 ---

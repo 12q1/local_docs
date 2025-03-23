@@ -12,5 +12,5 @@
 	- _Example: She comported herself with grace._
 ---
 ### Synonyms
-- [[cohere]], [[bear]], [[carry]]
+- [[c/_cohere|cohere]], [[b/_bear|bear]], [[c/_carry|carry]]
 ---

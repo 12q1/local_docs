@@ -5,5 +5,5 @@
 	- _Example: The officials set to work in regular circumlocutory order. -Chambers's Journal._
 ---
 ### Synonyms
-- [[circumlocuitous]], [[circumlocutional]], [[circumlocutionary]], [[circumlocutious]]
+- [[c/_circumlocuitous|circumlocuitous]], [[c/_circumlocutional|circumlocutional]], [[c/_circumlocutionary|circumlocutionary]], [[c/_circumlocutious|circumlocutious]]
 ---

@@ -5,7 +5,7 @@
 - **(sociobiology) [[a/_action|Action]] or [[b/_behaviour|behaviour]] that [[b/_benefits|benefits]] [[a/_another|another]] or others at some [[c/_cost|cost]] to the performer.**
 ---
 ### Synonyms
-- [[philanthropy]], [[philanthropy]], [[selflessness]]
+- [[p/_philanthropy|philanthropy]], [[p/_philanthropy|philanthropy]], [[s/_selflessness|selflessness]]
 ### Antonyms
-- [[egoism]], [[misanthropy]], [[selfishness]]
+- [[e/_egoism|egoism]], [[m/_misanthropy|misanthropy]], [[s/_selfishness|selfishness]]
 ---

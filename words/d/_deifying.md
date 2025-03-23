@@ -5,5 +5,5 @@
 - **To treat as worthy of worship; to regard as a [[d/_deity|deity]].**
 ---
 ### Synonyms
-- [[apotheosize]], [[exalt]], [[idealize]]
+- [[a/_apotheosize|apotheosize]], [[e/_exalt|exalt]], [[i/_idealize|idealize]]
 ---

@@ -14,9 +14,9 @@
 	- _Example: He's a right awkward chap._
 ---
 ### Synonyms
-- [[clumsy]], [[lubberly]], [[ungraceful]], [[unhandy]], [[maladroit]]
+- [[c/_clumsy|clumsy]], [[l/_lubberly|lubberly]], [[u/_ungraceful|ungraceful]], [[u/_unhandy|unhandy]], [[m/_maladroit|maladroit]]
 ### Antonyms
-- [[amiable]], [[cool]], [[dexterous]], [[gainly]], [[graceful]], [[handy]], [[skillful]]
+- [[a/_amiable|amiable]], [[c/_cool|cool]], [[d/_dexterous|dexterous]], [[g/_gainly|gainly]], [[g/_graceful|graceful]], [[h/_handy|handy]], [[s/_skillful|skillful]]
 #adverb
 - **In a [[b/_backwards|backwards]] [[d/_direction|direction]].**
 ---

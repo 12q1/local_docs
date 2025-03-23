@@ -6,5 +6,5 @@
 	- _Example: Fine carpentry for sale._
 ---
 ### Synonyms
-- [[carpenting]]
+- [[c/_carpenting|carpenting]]
 ---

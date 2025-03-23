@@ -10,5 +10,5 @@
 - **[[d/_describing|Describing]] and seeking to [[c/_classify|classify]], as opposed to normative or prescriptive.**
 ---
 ### Antonyms
-- [[non-descriptive]], [[normative]], [[prescriptive]]
+- [[n/_non-descriptive|non-descriptive]], [[n/_normative|normative]], [[p/_prescriptive|prescriptive]]
 ---

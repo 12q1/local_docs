@@ -7,5 +7,5 @@
 - **One who [[d/_drinks|drinks]] [[d/_drams|drams]]; a tippler.**
 ---
 ### Synonyms
-- [[drafter]]
+- [[d/_drafter|drafter]]
 ---

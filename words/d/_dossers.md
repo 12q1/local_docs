@@ -6,7 +6,7 @@
 - **One who lodges in a [[d/_doss|doss]]-house.**
 ---
 ### Synonyms
-- [[shirker]]
+- [[s/_shirker|shirker]]
 #noun
 - **A pannier or [[b/_basket|basket]].**
 - **A hanging tapestry; a [[d/_dorsal|dorsal]].**

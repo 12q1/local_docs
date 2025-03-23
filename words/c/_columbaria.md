@@ -7,5 +7,5 @@
 - **A niche in such a [[b/_building|building]] for housing urns.**
 ---
 ### Synonyms
-- [[cinerarium]], [[dovecote]]
+- [[c/_cinerarium|cinerarium]], [[d/_dovecote|dovecote]]
 ---

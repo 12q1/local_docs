@@ -21,5 +21,5 @@
 - **Of a mass, service, or rite: involving neither [[c/_consecration|consecration]] nor [[c/_communion|communion]].**
 ---
 ### Antonyms
-- [[wet]], [[wet]]
+- [[w/_wet|wet]], [[w/_wet|wet]]
 ---

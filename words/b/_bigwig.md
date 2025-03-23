@@ -5,5 +5,5 @@
 	- _Example: The company bigwig is gathering his staff together for a meeting today._
 ---
 ### Synonyms
-- [[VIP]], [[big cheese]], [[big enchilada]], [[big kahuna]], [[big wheel]], [[grand poobah]], [[head honcho]], [[kingpin]], [[muckety muck]], [[top banana]], [[top dog]]
+- [[V/_VIP|VIP]], [[k/_kingpin|kingpin]]
 ---

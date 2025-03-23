@@ -6,7 +6,7 @@
 - **A [[c/_chinese|Chinese]] person.**
 ---
 ### Synonyms
-- [[chink]]
+- [[c/_chink|chink]]
 #adjective
 - **Full of [[c/_chinks|chinks]], laden with small [[c/_cracks|cracks]] or openings.**
 - **Possessing [[a/_attributes|attributes]] of, or similar to, a [[c/_chinese|Chinese]] person or [[c/_chinese|Chinese]] style or [[c/_culture|culture]].**

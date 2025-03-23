@@ -6,5 +6,5 @@
 - **Flowery; ornate**
 ---
 ### Synonyms
-- [[motley]], [[multicolored]], [[polychromatic]], [[embellished]], [[flashy]], [[florid]], [[showy]]
+- [[m/_motley|motley]], [[m/_multicolored|multicolored]], [[p/_polychromatic|polychromatic]], [[e/_embellished|embellished]], [[f/_flashy|flashy]], [[f/_florid|florid]], [[s/_showy|showy]]
 ---

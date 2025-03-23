@@ -5,5 +5,5 @@
 - **A [[b/_bald|bald]] person.**
 ---
 ### Synonyms
-- [[baldy]], [[white]]
+- [[b/_baldy|baldy]], [[w/_white|white]]
 ---

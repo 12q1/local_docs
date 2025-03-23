@@ -9,5 +9,5 @@
 	- _Example: The experience annealed them, strengthening their resolve._
 ---
 ### Synonyms
-- [[indurate]], [[ruggedize]], [[temper]]
+- [[i/_indurate|indurate]], [[r/_ruggedize|ruggedize]], [[t/_temper|temper]]
 ---

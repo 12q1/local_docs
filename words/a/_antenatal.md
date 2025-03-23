@@ -4,5 +4,5 @@
 - **Occurring or existing [[b/_before|before]] [[b/_birth|birth]]**
 ---
 ### Synonyms
-- [[prenatal]]
+- [[p/_prenatal|prenatal]]
 ---

@@ -13,7 +13,7 @@
 - **One of the handles [[a/_above|above]] the trunnions by which a gun was lifted.**
 ---
 ### Synonyms
-- [[mereswine]], [[sea goose]], [[sea pig]]
+- [[m/_mereswine|mereswine]]
 #noun
 - **A man-made semi submerged maritime structure, usually installed to provide a fixed structure for temporary mooring, to prevent ships from [[d/_drifting|drifting]] to shallow water or to serve as [[b/_base|base]] for navigational [[a/_aids|aids]].**
 ---

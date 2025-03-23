@@ -12,9 +12,9 @@
 - **Grow; increase.**
 ---
 ### Synonyms
-- [[hasten]], [[quicken]], [[speed up]], [[advance]], [[forward]], [[expedite]], [[further]]
+- [[h/_hasten|hasten]], [[q/_quicken|quicken]], [[a/_advance|advance]], [[f/_forward|forward]], [[e/_expedite|expedite]], [[f/_further|further]]
 ### Antonyms
-- [[decelerate]], [[retard]], [[unaccelerate]]
+- [[d/_decelerate|decelerate]], [[r/_retard|retard]], [[u/_unaccelerate|unaccelerate]]
 #adjective
 - **Moving or progressing faster than is usual.**
 - **Happening sooner than expected.**

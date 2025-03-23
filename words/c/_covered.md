@@ -33,7 +33,7 @@
 - **To [[d/_defend|defend]] a particular player or [[a/_area|area]].**
 ---
 ### Synonyms
-- [[impregnate]]
+- [[i/_impregnate|impregnate]]
 #adjective
 - **Overlaid (with) or [[e/_enclosed|enclosed]] (within something).**
 - **Prepared for, or having [[d/_dealt|dealt]] with, some matter**
@@ -43,5 +43,5 @@
 - **Wearing one's hat.**
 ---
 ### Antonyms
-- [[uncovered]]
+- [[u/_uncovered|uncovered]]
 ---

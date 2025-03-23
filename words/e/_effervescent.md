@@ -5,5 +5,5 @@
 - **Vivacious and [[e/_enthusiastic|enthusiastic]].**
 ---
 ### Synonyms
-- [[bubbly]], [[ebullient]], [[sparkling]]
+- [[b/_bubbly|bubbly]], [[e/_ebullient|ebullient]], [[s/_sparkling|sparkling]]
 ---

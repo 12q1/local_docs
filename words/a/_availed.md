@@ -11,5 +11,5 @@
 - **To provide; to make [[a/_available|available]].**
 ---
 ### Antonyms
-- [[disavail]]
+- [[d/_disavail|disavail]]
 ---

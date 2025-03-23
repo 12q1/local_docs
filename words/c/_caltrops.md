@@ -7,5 +7,5 @@
 - **[[a/_any|Any]] of a number of flowering plants in the family Zygophyllaceae, including several members of the genus Kallstroemia and the species Tribulus terrestris, native to warm temperate and tropical regions.**
 ---
 ### Synonyms
-- [[bindii]], [[burra]], [[puncturevine]], [[knapweed]], [[calthrop]], [[caltrap]], [[cheval trap]], [[crow’s foot]], [[galthrap]], [[galtrap]], [[galtrop]]
+- [[b/_bindii|bindii]], [[b/_burra|burra]], [[p/_puncturevine|puncturevine]], [[k/_knapweed|knapweed]], [[c/_calthrop|calthrop]], [[c/_caltrap|caltrap]], [[g/_galthrap|galthrap]], [[g/_galtrap|galtrap]], [[g/_galtrop|galtrop]]
 ---

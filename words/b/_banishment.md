@@ -7,5 +7,5 @@
 	- _Example: He has been in banishment from his home country for well over four years._
 ---
 ### Synonyms
-- [[exile]]
+- [[e/_exile|exile]]
 ---

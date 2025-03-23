@@ -9,7 +9,7 @@
 	- _Example: You didn't even bother to close the door._
 ---
 ### Synonyms
-- [[annoy]], [[disturb]], [[irritate]], [[put out]], [[vex]], [[care]], [[mind]]
+- [[a/_annoy|annoy]], [[d/_disturb|disturb]], [[i/_irritate|irritate]], [[v/_vex|vex]], [[c/_care|care]], [[m/_mind|mind]]
 #noun
 - **The [[a/_action|action]] of troubling or [[d/_disturbing|disturbing]] someone**
 ---

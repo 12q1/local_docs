@@ -6,7 +6,7 @@
 - **[[a/_appearing|Appearing]] to the [[e/_eye|eye]] or mind ([[d/_distinguished|distinguished]] from, but not necessarily opposed to, true or real); seeming.**
 ---
 ### Synonyms
-- [[clear]], [[distinct]], [[obvious]], [[plain]], [[visible]], [[certain]], [[clear]], [[distinct]], [[evident]], [[indubitable]], [[manifest]], [[notorious]], [[obvious]], [[plain]], [[transparent]], [[illusory]], [[superficial]]
+- [[c/_clear|clear]], [[d/_distinct|distinct]], [[o/_obvious|obvious]], [[p/_plain|plain]], [[v/_visible|visible]], [[c/_certain|certain]], [[c/_clear|clear]], [[d/_distinct|distinct]], [[e/_evident|evident]], [[i/_indubitable|indubitable]], [[m/_manifest|manifest]], [[n/_notorious|notorious]], [[o/_obvious|obvious]], [[p/_plain|plain]], [[t/_transparent|transparent]], [[i/_illusory|illusory]], [[s/_superficial|superficial]]
 ### Antonyms
-- [[ambiguous]], [[obscure]], [[hidden]], [[invisible]]
+- [[a/_ambiguous|ambiguous]], [[o/_obscure|obscure]], [[h/_hidden|hidden]], [[i/_invisible|invisible]]
 ---

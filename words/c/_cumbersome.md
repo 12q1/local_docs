@@ -9,5 +9,5 @@
 - **Inert, lumbering, slow in movement**
 ---
 ### Synonyms
-- [[cumbrous]], [[unwieldy]]
+- [[c/_cumbrous|cumbrous]], [[u/_unwieldy|unwieldy]]
 ---

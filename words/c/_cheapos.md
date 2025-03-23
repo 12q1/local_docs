@@ -5,5 +5,5 @@
 - **A primitive trap, often set in the hope of swindling a win or [[d/_draw|draw]] from a losing position.**
 ---
 ### Synonyms
-- [[cheapie]], [[piker]], [[skinflint]], [[tightwad]]
+- [[c/_cheapie|cheapie]], [[p/_piker|piker]], [[s/_skinflint|skinflint]], [[t/_tightwad|tightwad]]
 ---

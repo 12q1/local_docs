@@ -7,7 +7,7 @@
 - **To reserve a portion of memory for use by a [[c/_computer|computer]] program.**
 ---
 ### Synonyms
-- [[appropriate]], [[earmark]]
+- [[a/_appropriate|appropriate]], [[e/_earmark|earmark]]
 ### Antonyms
-- [[deallocate]], [[free]]
+- [[d/_deallocate|deallocate]], [[f/_free|free]]
 ---

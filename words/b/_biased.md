@@ -13,5 +13,5 @@
 - **Exhibiting a systematic [[d/_distortion|distortion]] of results [[d/_due|due]] to a factor not [[a/_allowed|allowed]] for in its [[d/_derivation|derivation]]; skewed.**
 ---
 ### Synonyms
-- [[partial]], [[prejudiced]], [[tendentious]]
+- [[p/_partial|partial]], [[p/_prejudiced|prejudiced]], [[t/_tendentious|tendentious]]
 ---

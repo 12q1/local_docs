@@ -8,9 +8,9 @@
 - **[[d/_designating|Designating]] the follicle which will survive [[a/_atresia|atresia]] and permit ovulation.**
 ---
 ### Synonyms
-- [[prevalent]], [[imposing]]
+- [[p/_prevalent|prevalent]], [[i/_imposing|imposing]]
 ### Antonyms
-- [[defiant]], [[obedient]], [[rebellious]], [[submissive]]
+- [[d/_defiant|defiant]], [[o/_obedient|obedient]], [[r/_rebellious|rebellious]], [[s/_submissive|submissive]]
 #noun
 - **The late period of the Roman [[e/_empire|Empire]], following the principate, [[d/_during|during]] which the [[e/_emperor|emperor]]'s rule [[b/_became|became]] more explicitly [[a/_autocratic|autocratic]] and remaining vestiges of the Roman Republic were removed from the formal workings of government; the reign of [[a/_any|any]] particular [[e/_emperor|emperor]] [[d/_during|during]] this period.**
 ---
@@ -21,5 +21,5 @@
 - **To overlook from a height.**
 ---
 ### Antonyms
-- [[obey]], [[submit]], [[obey]], [[submit]]
+- [[o/_obey|obey]], [[s/_submit|submit]], [[o/_obey|obey]], [[s/_submit|submit]]
 ---

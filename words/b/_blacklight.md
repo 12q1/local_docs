@@ -5,5 +5,5 @@
 - **Ultraviolet radiation/light**
 ---
 ### Synonyms
-- [[ultraviolet light]]
+- 
 ---

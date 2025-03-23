@@ -9,5 +9,5 @@
 	- _Example: He instructed us in that booming, authoritative voice of his._
 ---
 ### Synonyms
-- [[of record]], [[definitive]], [[precise]], [[proper]]
+- [[d/_definitive|definitive]], [[p/_precise|precise]], [[p/_proper|proper]]
 ---

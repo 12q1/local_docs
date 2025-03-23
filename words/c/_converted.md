@@ -14,7 +14,7 @@
 	- _Example: How do you convert feet into metres?_
 - **To [[a/_appropriate|appropriate]] wrongfully or unlawfully; to [[c/_commit|commit]] the [[c/_common|common]] law tort of [[c/_conversion|conversion]].**
 - **(rugby football) To score extra points [[a/_after|after]] (a try) by [[c/_completing|completing]] a [[c/_conversion|conversion]].**
-- **To score (especially a penalty kick).**
+- **To score ([[e/_especially|especially]] a penalty kick).**
 - **(ten-pin [[b/_bowling|bowling]]) To score a spare.**
 - **To undergo a [[c/_conversion|conversion]] of religion, faith or [[b/_belief|belief]] (see [[a/_also|also]] sense 3).**
 	- _Example: We’ve converted to Methodism._
@@ -23,14 +23,14 @@
 - **To [[c/_cause|cause]] to turn; to turn.**
 - **To [[c/_change|change]] (one proposition) into [[a/_another|another]], so that what was the subject of the first [[b/_becomes|becomes]] the predicate of the second.**
 - **To turn into [[a/_another|another]] language; to translate.**
-- **To increase one's individual score, especially from 50 runs (a fifty) to 100 runs (a [[c/_century|century]]), or from a [[c/_century|century]] to a [[d/_double|double]] or triple [[c/_century|century]].**
+- **To increase one's individual score, [[e/_especially|especially]] from 50 runs (a fifty) to 100 runs (a [[c/_century|century]]), or from a [[c/_century|century]] to a [[d/_double|double]] or triple [[c/_century|century]].**
 - **To perform the [[a/_action|action]] that an online [[a/_advertisement|advertisement]] is intended to induce; to reach the point of [[c/_conversion|conversion]].**
 	- _Example: Each time a user clicks on one of your adverts, you will be charged the bid amount whether the user converts or not._
 ---
 ### Antonyms
-- [[deconvert]]
+- [[d/_deconvert|deconvert]]
 #adjective
-- **[[c/_changed|Changed]] in form or function etc.**
+- **[[c/_changed|Changed]] in form or function [[e/_etc|etc]].**
 	- _Example: He was a converted Jew, living in a converted chapel._
 ---
 ---

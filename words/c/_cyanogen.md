@@ -5,5 +5,5 @@
 - **The radical -CN.**
 ---
 ### Synonyms
-- [[dicyanogen]], [[ethanedinitrile]], [[nitriloacetonitrile]], [[oxalonitrile]]
+- [[d/_dicyanogen|dicyanogen]], [[e/_ethanedinitrile|ethanedinitrile]], [[n/_nitriloacetonitrile|nitriloacetonitrile]], [[o/_oxalonitrile|oxalonitrile]]
 ---

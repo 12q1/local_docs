@@ -5,5 +5,5 @@
 - **Having a propensity to [[a/_amass|amass]]; [[a/_acquisitive|acquisitive]].**
 ---
 ### Synonyms
-- [[additional]], [[cumulative]]
+- [[a/_additional|additional]], [[c/_cumulative|cumulative]]
 ---

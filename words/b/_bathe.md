@@ -1,7 +1,7 @@
 # Bathe
 ---
 #noun
-- **The [[a/_act|act]] of swimming or [[b/_bathing|bathing]], especially in the sea, a lake, or a river; a swimming [[b/_bath|bath]].**
+- **The [[a/_act|act]] of swimming or [[b/_bathing|bathing]], [[e/_especially|especially]] in the sea, a lake, or a river; a swimming [[b/_bath|bath]].**
 	- _Example: I'm going to have a midnight bathe tonight._
 ---
 #verb

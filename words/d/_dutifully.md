@@ -4,5 +4,5 @@
 - **With a regard to [[d/_duty|duty]]; in a [[d/_dutiful|dutiful]] manner.**
 ---
 ### Synonyms
-- [[obediently]], [[respectfully]], [[reverently]], [[submissively]]
+- [[o/_obediently|obediently]], [[r/_respectfully|respectfully]], [[r/_reverently|reverently]], [[s/_submissively|submissively]]
 ---

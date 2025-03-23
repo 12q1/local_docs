@@ -1,7 +1,7 @@
 # Anticipating
 ---
 #verb
-- **To [[a/_act|act]] [[b/_before|before]] (someone), especially to prevent an [[a/_action|action]].**
+- **To [[a/_act|act]] [[b/_before|before]] (someone), [[e/_especially|especially]] to prevent an [[a/_action|action]].**
 - **To take up or introduce (something) prematurely.**
 	- _Example: The advocate plans to anticipate a part of her argument._
 - **To know of (something) [[b/_before|before]] it happens; to expect.**
@@ -10,5 +10,5 @@
 	- _Example: Little Johnny started to anticipate the arrival of Santa Claus a week before Christmas._
 ---
 ### Synonyms
-- [[expect]], [[foresee]], [[foretaste]], [[look forward to]], [[preclude]]
+- [[e/_expect|expect]], [[f/_foresee|foresee]], [[f/_foretaste|foretaste]], [[p/_preclude|preclude]]
 ---

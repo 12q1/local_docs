@@ -5,5 +5,5 @@
 - **The rump [[b/_bone|bone]] itself.**
 ---
 ### Synonyms
-- [[edgebone]]
+- [[e/_edgebone|edgebone]]
 ---

@@ -10,7 +10,7 @@
 - **Fragile.**
 ---
 ### Synonyms
-- [[destructible]]
+- [[d/_destructible|destructible]]
 ### Antonyms
-- [[unbreakable]]
+- [[u/_unbreakable|unbreakable]]
 ---

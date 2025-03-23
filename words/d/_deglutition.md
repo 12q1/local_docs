@@ -4,5 +4,5 @@
 - **The [[a/_act|act]] or process of swallowing.**
 ---
 ### Synonyms
-- [[glutition]]
+- [[g/_glutition|glutition]]
 ---

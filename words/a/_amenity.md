@@ -6,8 +6,8 @@
 - **A thing or [[c/_circumstance|circumstance]] that is welcome and makes life a little [[e/_easier|easier]] or more pleasant.**
 	- _Example: All the little amenities the hotel provided made our stay very enjoyable._
 - **[[c/_convenience|Convenience]].**
-- **A unit pertaining to the infrastructure of a [[c/_community|community]], such as a public toilet, a postbox, a library etc.**
+- **A unit pertaining to the infrastructure of a [[c/_community|community]], such as a public toilet, a postbox, a library [[e/_etc|etc]].**
 ---
 ### Synonyms
-- [[facility]], [[infrastructure]]
+- [[f/_facility|facility]], [[i/_infrastructure|infrastructure]]
 ---

@@ -6,5 +6,5 @@
 - **A physically [[a/_aggressive|aggressive]] player.**
 ---
 ### Synonyms
-- [[obstructer]]
+- [[o/_obstructer|obstructer]]
 ---

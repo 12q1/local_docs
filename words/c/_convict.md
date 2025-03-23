@@ -7,12 +7,12 @@
 - **A [[c/_common|common]] name for the sheepshead (Archosargus probatocephalus), owing to its [[b/_black|black]] and gray stripes.**
 ---
 ### Synonyms
-- [[assigned servant]], [[con]], [[government man]], [[public servant]], [[penal colonist]]
+- [[c/_con|con]]
 #verb
 - **To find guilty**
 	- _Example: His remarks convicted him of a lack of sensitivity._
-- **(esp. religious) to [[c/_convince|convince]], persuade; to [[c/_cause|cause]] (someone) to [[b/_believe|believe]] in (something)**
+- **([[e/_esp|esp]]. religious) to [[c/_convince|convince]], persuade; to [[c/_cause|cause]] (someone) to [[b/_believe|believe]] in (something)**
 ---
 ### Synonyms
-- [[disapprove]], [[sentence]]
+- [[d/_disapprove|disapprove]], [[s/_sentence|sentence]]
 ---

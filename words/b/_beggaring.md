@@ -5,5 +5,5 @@
 - **To exhaust the resources of; to outdo.**
 ---
 ### Synonyms
-- [[ruin]]
+- [[r/_ruin|ruin]]
 ---

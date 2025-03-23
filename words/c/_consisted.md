@@ -8,5 +8,5 @@
 	- _Example: The greeting package consists of some brochures, a pen, and a notepad._
 ---
 ### Synonyms
-- [[be composed of]], [[comprise]]
+- [[c/_comprise|comprise]]
 ---

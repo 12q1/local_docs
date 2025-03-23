@@ -9,9 +9,9 @@
 - **[[a/_authoritative|Authoritative]]**
 ---
 ### Synonyms
-- [[credible]], [[reliable]], [[trustworthy]], [[unfaked]], [[bona fide]], [[bonafide]], [[genuine]], [[real]], [[unfaked]]
+- [[c/_credible|credible]], [[r/_reliable|reliable]], [[t/_trustworthy|trustworthy]], [[u/_unfaked|unfaked]], [[b/_bonafide|bonafide]], [[g/_genuine|genuine]], [[r/_real|real]], [[u/_unfaked|unfaked]]
 ### Antonyms
-- [[fake]], [[ingenuine]], [[phony]]
+- [[f/_fake|fake]], [[i/_ingenuine|ingenuine]], [[p/_phony|phony]]
 #verb
 - **To render [[a/_authentic|authentic]]; to give [[a/_authority|authority]] to, by the proof, [[a/_attestation|attestation]], or formalities required by law, or sufficient to [[e/_entitle|entitle]] to [[c/_credit|credit]].**
 - **To prove [[a/_authentic|authentic]]; to [[d/_determine|determine]] as real and true.**

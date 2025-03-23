@@ -5,5 +5,5 @@
 - **A person who has reached the legal [[a/_age|age]] of majority.**
 ---
 ### Synonyms
-- [[grown up]]
+- 
 ---

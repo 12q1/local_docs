@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[c/_coming|coming]] together of things; union.**
-- **The temporary fusion of organisms, especially as part of sexual reproduction**
+- **The temporary fusion of organisms, [[e/_especially|especially]] as part of sexual reproduction**
 - **Sexual relations within marriage**
 - **(grammar) In some languages, one of several [[c/_classifications|classifications]] of verbs [[a/_according|according]] to what inflections they take.**
 - **(grammar) The [[a/_act|act]] of [[c/_conjugating|conjugating]] a verb.**

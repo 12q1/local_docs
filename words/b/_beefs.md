@@ -7,7 +7,7 @@
 	- _Example: He's got a beef with everyone in the room._
 ---
 ### Synonyms
-- [[cowflesh]], [[oxflesh]]
+- [[c/_cowflesh|cowflesh]], [[o/_oxflesh|oxflesh]]
 #verb
 - **To [[c/_complain|complain]].**
 - **To [[a/_add|add]] weight or strength to; to [[b/_beef|beef]] up.**

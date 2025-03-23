@@ -6,5 +6,5 @@
 - **To render harmless.**
 ---
 ### Synonyms
-- [[declaw]]
+- [[d/_declaw|declaw]]
 ---

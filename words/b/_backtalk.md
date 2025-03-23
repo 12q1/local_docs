@@ -5,11 +5,11 @@
 	- _Example: Don't give me any backtalk; just go clean your room._
 ---
 ### Synonyms
-- [[backchat]], [[derision]], [[lip]], [[rebuttal]], [[sass]]
+- [[b/_backchat|backchat]], [[d/_derision|derision]], [[l/_lip|lip]], [[r/_rebuttal|rebuttal]], [[s/_sass|sass]]
 #verb
 - **To respond to in an [[a/_aggressively|aggressively]] [[d/_disputatious|disputatious]], often sarcastic or insolent manner.**
 	- _Example: Peter was sent to detention for backtalking the teacher._
 ---
 ### Synonyms
-- [[backchat]], [[mouth off]], [[sass]]
+- [[b/_backchat|backchat]], [[s/_sass|sass]]
 ---

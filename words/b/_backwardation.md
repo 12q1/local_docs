@@ -5,5 +5,5 @@
 - **(London Stock Exchange) A fee paid by a seller on settlement [[d/_day|day]] [[e/_either|either]] to the [[b/_buyer|buyer]] or to a third party who lends stock, when the seller wishes to [[d/_defer|defer]] settlement until the next settlement [[d/_day|day]].**
 ---
 ### Antonyms
-- [[contango]], [[forwardation]]
+- [[c/_contango|contango]], [[f/_forwardation|forwardation]]
 ---

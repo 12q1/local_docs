@@ -18,7 +18,7 @@
 	- _Example: continental money_
 ---
 ### Synonyms
-- [[European]], [[mainland]]
+- [[E/_European|European]], [[m/_mainland|mainland]]
 ### Antonyms
-- [[British]], [[English]]
+- [[B/_British|British]], [[E/_English|English]]
 ---

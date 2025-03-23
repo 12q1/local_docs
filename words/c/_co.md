@@ -11,5 +11,5 @@
 	- _Example: I treasure your company._
 ---
 ### Synonyms
-- [[fellowship]], [[friendship]], [[mateship]], [[association]], [[companionship]], [[fellowship]], [[organization]], [[society]], [[corporation]]
+- [[f/_fellowship|fellowship]], [[f/_friendship|friendship]], [[m/_mateship|mateship]], [[a/_association|association]], [[c/_companionship|companionship]], [[f/_fellowship|fellowship]], [[o/_organization|organization]], [[s/_society|society]], [[c/_corporation|corporation]]
 ---

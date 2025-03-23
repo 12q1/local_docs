@@ -4,5 +4,5 @@
 - **In [[a/_any|any]] [[c/_case|case]].**
 ---
 ### Synonyms
-- [[anyway]]
+- [[a/_anyway|anyway]]
 ---

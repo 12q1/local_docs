@@ -5,5 +5,5 @@
 - **The presence of a [[c/_cleft|cleft]] or [[d/_doubled|doubled]] tongue.**
 ---
 ### Synonyms
-- [[bifid tongue]], [[cleft tongue]]
+- 
 ---

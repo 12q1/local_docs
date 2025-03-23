@@ -8,5 +8,5 @@
 - **To [[d/_defile|defile]] by [[a/_adultery|adultery]].**
 ---
 ### Synonyms
-- [[debase]]
+- [[d/_debase|debase]]
 ---

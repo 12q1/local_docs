@@ -4,7 +4,7 @@
 - **[[a/_arousing|Arousing]] [[c/_controversy|controversy]]—a [[d/_debate|debate]] or [[d/_discussion|discussion]] of opposing opinions.**
 ---
 ### Synonyms
-- [[contentious]], [[contested]]
+- [[c/_contentious|contentious]], [[c/_contested|contested]]
 ### Antonyms
-- [[incontrovertible]], [[noncontroversial]], [[uncontroversial]]
+- [[i/_incontrovertible|incontrovertible]], [[n/_noncontroversial|noncontroversial]], [[u/_uncontroversial|uncontroversial]]
 ---

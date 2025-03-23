@@ -14,7 +14,7 @@
 	- _Example: the definite article_
 ---
 ### Synonyms
-- [[unquestionable]]
+- [[u/_unquestionable|unquestionable]]
 ### Antonyms
-- [[indefinite]]
+- [[i/_indefinite|indefinite]]
 ---

@@ -5,5 +5,5 @@
 	- _Example: downwardly mobile_
 ---
 ### Antonyms
-- [[upwardly]]
+- [[u/_upwardly|upwardly]]
 ---

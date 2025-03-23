@@ -4,5 +4,5 @@
 - **A shoeshine [[b/_boy|boy]]; a person who shines shoes as an occupation.**
 ---
 ### Synonyms
-- [[shoeblack]], [[shoeshiner]]
+- [[s/_shoeblack|shoeblack]], [[s/_shoeshiner|shoeshiner]]
 ---

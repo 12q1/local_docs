@@ -5,5 +5,5 @@
 - **The practice or tendency of catastrophizing, regarding [[b/_bad|bad]] things as [[c/_catastrophic|catastrophic]].**
 ---
 ### Antonyms
-- [[uniformitarianism]]
+- [[u/_uniformitarianism|uniformitarianism]]
 ---

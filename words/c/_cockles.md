@@ -18,7 +18,7 @@
 - **[[a/_any|Any]] of several field weeds, such as the [[c/_common|common]] [[c/_corncockle|corncockle]] ([[a/_agrostemma|Agrostemma]] githago) and [[d/_darnel|darnel]] ryegrass (Lolium temulentum).**
 ---
 ### Synonyms
-- [[darnel]]
+- [[d/_darnel|darnel]]
 #noun
 - **A £10 note; a tenner.**
 ---

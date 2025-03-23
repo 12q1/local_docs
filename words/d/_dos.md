@@ -12,10 +12,10 @@
 - **An [[a/_act|act]] of swindling; a fraud or [[d/_deception|deception]].**
 ---
 ### Synonyms
-- [[get-together]], [[to-do]]
+- [[g/_get-together|get-together]], [[t/_to-do|to-do]]
 #noun
 - **A syllable used in solfège to represent the first and [[e/_eighth|eighth]] tonic of a major scale.**
 ---
 ### Synonyms
-- [[ut]]
+- [[u/_ut|ut]]
 ---

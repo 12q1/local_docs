@@ -1,7 +1,7 @@
 # Begums
 ---
 #noun
-- **A high-ranking Muslim woman, especially in India and Pakistan**
+- **A high-ranking Muslim woman, [[e/_especially|especially]] in India and Pakistan**
 - **The form of [[a/_address|address]] for such a woman**
 ---
 ---

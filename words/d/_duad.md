@@ -6,5 +6,5 @@
 - **An unordered pair.**
 ---
 ### Synonyms
-- [[dyad]], [[twosome]]
+- [[d/_dyad|dyad]], [[t/_twosome|twosome]]
 ---

@@ -7,7 +7,7 @@
 - **To [[c/_cease|cease]] to [[b/_believe|believe]].**
 ---
 ### Antonyms
-- [[believe]]
+- [[b/_believe|believe]]
 #adjective
 - **Refusing to [[b/_believe|believe]]; skeptical or incredulous**
 ---

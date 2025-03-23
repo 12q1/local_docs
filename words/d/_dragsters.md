@@ -6,5 +6,5 @@
 - **A [[d/_drag|drag]] queen.**
 ---
 ### Synonyms
-- [[dragger]]
+- [[d/_dragger|dragger]]
 ---

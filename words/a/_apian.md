@@ -7,5 +7,5 @@
 - **Relating to [[b/_bees|bees]].**
 ---
 ### Synonyms
-- [[beelike]], [[beely]]
+- [[b/_beelike|beelike]], [[b/_beely|beely]]
 ---

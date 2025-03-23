@@ -1,7 +1,7 @@
 # Approximate
 ---
 #verb
-- **To estimate.**
+- **To [[e/_estimate|estimate]].**
 - **To [[c/_come|come]] near to; to [[a/_approach|approach]].**
 - **To [[c/_carry|carry]] or [[a/_advance|advance]] near; to [[c/_cause|cause]] to [[a/_approach|approach]].**
 ---
@@ -11,7 +11,7 @@
 	- _Example: NASA's Genesis spacecraft has on board an ion monitor to record the speed, density, temperature and approximate composition of the solar wind ions._
 ---
 ### Synonyms
-- [[close]]
+- [[c/_close|close]]
 ### Antonyms
-- [[exact]], [[precise]]
+- [[e/_exact|exact]], [[p/_precise|precise]]
 ---

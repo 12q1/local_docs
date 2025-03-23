@@ -5,5 +5,5 @@
 - **One who [[d/_dotes|dotes]] on [[a/_another|another]], showing excessive fondness.**
 ---
 ### Synonyms
-- [[mimmerkin]]
+- [[m/_mimmerkin|mimmerkin]]
 ---

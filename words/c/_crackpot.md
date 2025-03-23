@@ -6,11 +6,11 @@
 - **Someone [[a/_addicted|addicted]] to [[c/_crack|crack]] [[c/_cocaine|cocaine]] (i.[[e/_e|e]]. a [[d/_drug|drug]] [[a/_addict|addict]]).**
 ---
 ### Synonyms
-- [[crack whore]], [[crackhead]], [[crank]], [[crazy]], [[kook]], [[live one]], [[nut ball]], [[nutbag]], [[nutbar]], [[nutcase]], [[nutter]]
+- [[c/_crackhead|crackhead]], [[c/_crank|crank]], [[c/_crazy|crazy]], [[k/_kook|kook]], [[n/_nutbag|nutbag]], [[n/_nutbar|nutbar]], [[n/_nutcase|nutcase]], [[n/_nutter|nutter]]
 #adjective
 - **[[e/_eccentric|Eccentric]] or impractical.**
 	- _Example: a crackpot idea_
 ---
 ### Synonyms
-- [[eccentric]], [[impractical]]
+- [[e/_eccentric|eccentric]], [[i/_impractical|impractical]]
 ---

@@ -7,5 +7,5 @@
 - **Having [[b/_been|been]] or happened in the [[d/_distant|distant]] past.**
 ---
 ### Synonyms
-- [[foregone]], [[historical]]
+- [[f/_foregone|foregone]], [[h/_historical|historical]]
 ---

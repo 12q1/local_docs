@@ -5,5 +5,5 @@
 	- _Example: the baldness of an assertion_
 ---
 ### Synonyms
-- [[alopecia]], [[calvities]], [[calvity]], [[hairlessness]]
+- [[a/_alopecia|alopecia]], [[c/_calvities|calvities]], [[c/_calvity|calvity]], [[h/_hairlessness|hairlessness]]
 ---

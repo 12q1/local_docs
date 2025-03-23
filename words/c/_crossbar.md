@@ -6,7 +6,7 @@
 - **The top tube of a [[b/_bicycle|bicycle]] frame.**
 ---
 ### Synonyms
-- [[stock]], [[bar]]
+- [[s/_stock|stock]], [[b/_bar|bar]]
 #verb
 - **To mark with a pattern of transverse [[b/_bars|bars]].**
 ---

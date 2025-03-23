@@ -7,10 +7,10 @@
 - **(1920s) Nonsense, [[b/_balderdash|balderdash]], [[b/_bunk|bunk]], piffle.**
 ---
 ### Synonyms
-- [[codswallop]], [[hooey]], [[malarkey]]
+- [[c/_codswallop|codswallop]], [[h/_hooey|hooey]], [[m/_malarkey|malarkey]]
 #interjection
 - **Nonsense!**
 ---
 ### Synonyms
-- [[fiddlesticks]], [[horsefeathers]], [[pull the other one]]
+- [[f/_fiddlesticks|fiddlesticks]], [[h/_horsefeathers|horsefeathers]]
 ---

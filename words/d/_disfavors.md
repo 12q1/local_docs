@@ -7,7 +7,7 @@
 - **A state of [[b/_being|being]] out of favour.**
 ---
 ### Synonyms
-- [[maltreatment]]
+- [[m/_maltreatment|maltreatment]]
 ### Antonyms
-- [[favour]]
+- [[f/_favour|favour]]
 ---

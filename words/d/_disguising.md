@@ -8,7 +8,7 @@
 - **To [[a/_affect|affect]] or [[c/_change|change]] by liquor; to intoxicate.**
 ---
 ### Synonyms
-- [[camouflage]], [[cloak]], [[hide]], [[mask]]
+- [[c/_camouflage|camouflage]], [[c/_cloak|cloak]], [[h/_hide|hide]], [[m/_mask|mask]]
 #noun
 - **A masque or masquerade.**
 ---

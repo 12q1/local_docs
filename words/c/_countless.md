@@ -5,5 +5,5 @@
 	- _Example: There is a countless number of stars._
 ---
 ### Synonyms
-- [[numberless]]
+- [[n/_numberless|numberless]]
 ---

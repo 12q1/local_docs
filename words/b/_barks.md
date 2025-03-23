@@ -5,14 +5,14 @@
 - **An [[a/_abrupt|abrupt]] loud vocal utterance.**
 ---
 #verb
-- **To make a short, loud, explosive noise with the vocal organs (said of [[a/_animals|animals]], especially [[d/_dogs|dogs]]).**
+- **To make a short, loud, explosive noise with the vocal organs (said of [[a/_animals|animals]], [[e/_especially|especially]] [[d/_dogs|dogs]]).**
 	- _Example: The neighbour's dog is always barking._
 - **To make a [[c/_clamor|clamor]]; to make importunate outcries.**
 - **To speak sharply.**
 	- _Example: The sergeant barked an order._
 ---
 ### Synonyms
-- [[give tongue]], [[latrate]]
+- [[l/_latrate|latrate]]
 #noun
 - **The exterior [[c/_covering|covering]] of the trunk and [[b/_branches|branches]] of a tree.**
 - **Peruvian [[b/_bark|bark]] or Jesuit's [[b/_bark|bark]], the [[b/_bark|bark]] of the [[c/_cinchona|cinchona]] from which quinine is produced.**
@@ -21,7 +21,7 @@
 - **The [[e/_envelopment|envelopment]] or outer [[c/_covering|covering]] of [[a/_anything|anything]].**
 ---
 ### Synonyms
-- [[rind]]
+- [[r/_rind|rind]]
 #verb
 - **To strip the [[b/_bark|bark]] from; to peel.**
 - **To [[a/_abrade|abrade]] or rub off [[a/_any|any]] outer [[c/_covering|covering]] from.**

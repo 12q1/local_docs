@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[e/_edict|edict]] or law.**
-- **The judicial [[d/_decision|decision]] in a litigated [[c/_cause|cause]] rendered by a [[c/_court|court]] of equity.**
+- **The judicial [[d/_decision|decision]] in a litigated [[c/_cause|cause]] rendered by a [[c/_court|court]] of [[e/_equity|equity]].**
 - **The [[d/_determination|determination]] of a [[c/_cause|cause]] in a [[c/_court|court]] of [[a/_admiralty|admiralty]] or [[c/_court|court]] of probate.**
 - **A predetermination made by God; an [[a/_act|act]] of providence.**
 ---

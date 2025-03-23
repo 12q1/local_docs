@@ -6,7 +6,7 @@
 	- _Example: They were awake to the possibility of a decline in sales._
 ---
 ### Synonyms
-- [[conscious]], [[lucid]], [[wide awake]], [[wary]], [[woke]]
+- [[c/_conscious|conscious]], [[l/_lucid|lucid]], [[w/_wary|wary]], [[w/_woke|woke]]
 ### Antonyms
-- [[asleep]], [[unconscious]], [[heedless]], [[oblivious]]
+- [[a/_asleep|asleep]], [[u/_unconscious|unconscious]], [[h/_heedless|heedless]], [[o/_oblivious|oblivious]]
 ---

@@ -5,5 +5,5 @@
 	- _Example: The eigenvalues \lambda of a square transformation matrix \mathrm{M} may be found by solving \det(\mathrm{M} - \lambda\mathrm{I}) = 0._
 ---
 ### Synonyms
-- [[characteristic root]], [[characteristic value]], [[eigenroot]], [[latent value]], [[proper value]]
+- [[e/_eigenroot|eigenroot]]
 ---

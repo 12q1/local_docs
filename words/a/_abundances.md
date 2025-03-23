@@ -8,5 +8,5 @@
 - **A [[b/_bid|bid]] to take nine or more tricks in solo whist.**
 ---
 ### Synonyms
-- [[copiousness]], [[exuberance]], [[overflow]], [[plenteousness]], [[plenty]], [[heap]], [[load]], [[affluence]], [[riches]], [[wealth]]
+- [[c/_copiousness|copiousness]], [[e/_exuberance|exuberance]], [[o/_overflow|overflow]], [[p/_plenteousness|plenteousness]], [[p/_plenty|plenty]], [[h/_heap|heap]], [[l/_load|load]], [[a/_affluence|affluence]], [[r/_riches|riches]], [[w/_wealth|wealth]]
 ---

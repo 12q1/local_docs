@@ -9,5 +9,5 @@
 	- _Example: He was clearly wrong on all points but one._
 ---
 ### Synonyms
-- [[expressly]], [[unambiguously]]
+- [[e/_expressly|expressly]], [[u/_unambiguously|unambiguously]]
 ---

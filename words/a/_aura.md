@@ -7,5 +7,5 @@
 - **Telltale sensation experienced by some people with [[e/_epilepsy|epilepsy]] [[b/_before|before]] a seizure.**
 ---
 ### Synonyms
-- [[air]], [[feeling]], [[mood]], [[spirit]], [[vibe]]
+- [[a/_air|air]], [[f/_feeling|feeling]], [[m/_mood|mood]], [[s/_spirit|spirit]], [[v/_vibe|vibe]]
 ---

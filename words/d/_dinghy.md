@@ -5,7 +5,7 @@
 - **An inflatable rubber life raft.**
 ---
 ### Synonyms
-- [[tender]]
+- [[t/_tender|tender]]
 #verb
 - **To travel by [[d/_dinghy|dinghy]].**
 ---

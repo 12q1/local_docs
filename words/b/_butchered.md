@@ -7,7 +7,7 @@
 	- _Example: The band at that bar really butchered "Hotel California"._
 ---
 ### Synonyms
-- [[carnager]], [[flesher]], [[kill]], [[slaughter]], [[massacre]], [[slay]], [[mayhemist]], [[murder]], [[slayer]]
+- [[c/_carnager|carnager]], [[f/_flesher|flesher]], [[k/_kill|kill]], [[s/_slaughter|slaughter]], [[m/_massacre|massacre]], [[s/_slay|slay]], [[m/_mayhemist|mayhemist]], [[m/_murder|murder]], [[s/_slayer|slayer]]
 #adjective
 - **(of an [[a/_animal|animal]]) Taken [[a/_apart|apart]] professionally, as a [[b/_butcher|butcher]] might.**
 - **(by extension) Taken [[a/_apart|apart]], [[d/_destroyed|destroyed]] or [[d/_distorted|distorted]] [[b/_beyond|beyond]] recognition.**

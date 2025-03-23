@@ -5,5 +5,5 @@
 - **Of, pertaining to, or [[c/_characteristic|characteristic]] of [[d/_donkeys|donkeys]]**
 ---
 ### Synonyms
-- [[donkeyish]], [[foolish]], [[obstinate]]
+- [[d/_donkeyish|donkeyish]], [[f/_foolish|foolish]], [[o/_obstinate|obstinate]]
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[e/_embedded|embedded]] reporter or journalist, such as a war reporter [[a/_assigned|assigned]] to and travelling with a military unit, or a political reporter [[a/_assigned|assigned]] to follow and report on the [[c/_campaign|campaign]] of a [[c/_candidate|candidate]].**
-- **An [[e/_element|element]] of an [[a/_advertisement|advertisement]], etc. serving as a subliminal message.**
+- **An [[e/_element|element]] of an [[a/_advertisement|advertisement]], [[e/_etc|etc]]. serving as a subliminal message.**
 - **An item [[e/_embedded|embedded]] in [[a/_another|another]] [[d/_document|document]].**
 ---
 #verb

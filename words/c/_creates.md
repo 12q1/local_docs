@@ -13,7 +13,7 @@
 - **To make a fuss, [[c/_complain|complain]]; to shout.**
 ---
 ### Synonyms
-- [[generate]]
+- [[g/_generate|generate]]
 ### Antonyms
-- [[annihilate]], [[extinguish]]
+- [[a/_annihilate|annihilate]], [[e/_extinguish|extinguish]]
 ---

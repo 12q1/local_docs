@@ -9,9 +9,9 @@
 	- _Example: The royal family has always encouraged the arts in word and deed_
 ---
 ### Synonyms
-- [[bield]], [[embolden]]
+- [[b/_bield|bield]], [[e/_embolden|embolden]]
 ### Antonyms
-- [[becourage]], [[discourage]]
+- [[b/_becourage|becourage]], [[d/_discourage|discourage]]
 #noun
 - **[[e/_encouragement|Encouragement]]**
 ---

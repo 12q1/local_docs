@@ -19,5 +19,5 @@
 - **A [[d/_distinct|distinct]] stage of wound healing, wherein the wound [[e/_edges|edges]] are gradually pulled together.**
 ---
 ### Antonyms
-- [[dilatation]], [[expansion]]
+- [[d/_dilatation|dilatation]], [[e/_expansion|expansion]]
 ---

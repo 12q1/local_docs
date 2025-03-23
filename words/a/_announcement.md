@@ -9,5 +9,5 @@
 	- _Example: The announcement implied that somebody needed a spare Toshiba charger._
 ---
 ### Synonyms
-- [[proclamation]], [[publication]]
+- [[p/_proclamation|proclamation]], [[p/_publication|publication]]
 ---

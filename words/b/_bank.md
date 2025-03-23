@@ -5,7 +5,7 @@
 - **A [[b/_branch|branch]] office of such an institution.**
 - **An underwriter or [[c/_controller|controller]] of a [[c/_card|card]] game; [[a/_also|also]] [[b/_banque|banque]].**
 - **A fund from [[d/_deposits|deposits]] or [[c/_contributions|contributions]], to be used in transacting [[b/_business|business]]; a joint stock or [[c/_capital|capital]].**
-- **The sum of money etc. which the [[d/_dealer|dealer]] or [[b/_banker|banker]] has as a fund from which to [[d/_draw|draw]] stakes and pay losses.**
+- **The sum of money [[e/_etc|etc]]. which the [[d/_dealer|dealer]] or [[b/_banker|banker]] has as a fund from which to [[d/_draw|draw]] stakes and pay losses.**
 - **Money; profit**
 - **In [[c/_certain|certain]] games, such as [[d/_dominos|dominos]], a fund of pieces from which the players are [[a/_allowed|allowed]] to [[d/_draw|draw]].**
 - **A safe and guaranteed place of storage for and retrieval of important items or goods.**
@@ -14,7 +14,7 @@
 	- _Example: If you want to buy a bicycle, you need to put the money in your piggy bank._
 ---
 ### Synonyms
-- [[banker]]
+- [[b/_banker|banker]]
 #verb
 - **To [[d/_deal|deal]] with a [[b/_bank|bank]] or financial institution, or for an institution to provide financial services to a [[c/_client|client]].**
 	- _Example: He banked with Barclays._

@@ -6,9 +6,9 @@
 - **To raise, be raised.**
 ---
 ### Synonyms
-- [[accelerate]], [[adduce]], [[aggrandize]], [[allege]], [[assign]], [[elevate]], [[exalt]], [[heighten]], [[improve]], [[raise]]
+- [[a/_accelerate|accelerate]], [[a/_adduce|adduce]], [[a/_aggrandize|aggrandize]], [[a/_allege|allege]], [[a/_assign|assign]], [[e/_elevate|elevate]], [[e/_exalt|exalt]], [[h/_heighten|heighten]], [[i/_improve|improve]], [[r/_raise|raise]]
 ### Antonyms
-- [[regress]], [[retract]]
+- [[r/_regress|regress]], [[r/_retract|retract]]
 #noun
 - **The [[a/_act|act]] of proceeding forward; an [[a/_advance|advance]].**
 ---

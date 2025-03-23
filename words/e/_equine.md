@@ -1,12 +1,12 @@
 # Equine
 ---
 #noun
-- **[[a/_any|Any]] horse or horse-like [[a/_animal|animal]], especially one of the genus Equus.**
+- **[[a/_any|Any]] horse or horse-like [[a/_animal|animal]], [[e/_especially|especially]] one of the genus [[e/_equus|Equus]].**
 ---
 #adjective
 - **Of or relating to a horse or horses.**
-- **Of or relating to [[a/_any|any]] member or members of the genus Equus.**
+- **Of or relating to [[a/_any|any]] member or members of the genus [[e/_equus|Equus]].**
 ---
 ### Synonyms
-- [[horsely]], [[horsen]], [[horsey]], [[horsy]]
+- [[h/_horsely|horsely]], [[h/_horsen|horsen]], [[h/_horsey|horsey]], [[h/_horsy|horsy]]
 ---

@@ -5,5 +5,5 @@
 	- _Example: Leonardo Da Vinci is one of the greatest autodidacts._
 ---
 ### Synonyms
-- [[automath]]
+- [[a/_automath|automath]]
 ---

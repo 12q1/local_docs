@@ -4,5 +4,5 @@
 - **The foundation framing or piece, by which the other parts are supported and held in place; the [[b/_bed|bed]].**
 ---
 ### Synonyms
-- [[baseplate]], [[bedpiece]], [[soleplate]]
+- [[b/_baseplate|baseplate]], [[b/_bedpiece|bedpiece]], [[s/_soleplate|soleplate]]
 ---

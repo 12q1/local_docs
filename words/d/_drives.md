@@ -3,8 +3,8 @@
 #noun
 - **Motivation to [[d/_do|do]] or [[a/_achieve|achieve]] something; [[a/_ability|ability]] [[c/_coupled|coupled]] with [[a/_ambition|ambition]].**
 	- _Example: Crassus had wealth and wit, but Pompey had drive and Caesar as much again._
-- **Violent or rapid motion; a rushing onward or [[a/_away|away]]; especially, a forced or hurried [[d/_dispatch|dispatch]] of [[b/_business|business]].**
-- **An [[a/_act|act]] of [[d/_driving|driving]] [[a/_animals|animals]] forward, as to be [[c/_captured|captured]], hunted etc.**
+- **Violent or rapid motion; a rushing onward or [[a/_away|away]]; [[e/_especially|especially]], a forced or hurried [[d/_dispatch|dispatch]] of [[b/_business|business]].**
+- **An [[a/_act|act]] of [[d/_driving|driving]] [[a/_animals|animals]] forward, as to be [[c/_captured|captured]], hunted [[e/_etc|etc]].**
 - **A sustained [[a/_advance|advance]] in the face of the [[e/_enemy|enemy]] to take a strategic objective.**
 	- _Example: Napoleon's drive on Moscow was as determined as it was disastrous._
 - **A mechanism used to power or give motion to a vehicle or other machine or machine part.**
@@ -31,17 +31,17 @@
 - **A [[c/_collection|collection]] of objects that are [[d/_driven|driven]]; a mass of logs to be floated [[d/_down|down]] a river.**
 ---
 ### Synonyms
-- [[line drive]], [[disk drive]], [[approach]], [[driveway]], [[engine]], [[mechanism]], [[motor]], [[desire]], [[impetus]], [[impulse]], [[urge]], [[avenue]], [[boulevard]], [[road]], [[street]], [[ambition]], [[enthusiasm]], [[get-up-and-go]], [[motivation]], [[self-motivation]], [[verve]], [[attack]], [[push]], [[ride]], [[spin]], [[trip]]
+- [[a/_approach|approach]], [[d/_driveway|driveway]], [[e/_engine|engine]], [[m/_mechanism|mechanism]], [[m/_motor|motor]], [[d/_desire|desire]], [[i/_impetus|impetus]], [[i/_impulse|impulse]], [[u/_urge|urge]], [[a/_avenue|avenue]], [[b/_boulevard|boulevard]], [[r/_road|road]], [[s/_street|street]], [[a/_ambition|ambition]], [[e/_enthusiasm|enthusiasm]], [[g/_get-up-and-go|get-up-and-go]], [[m/_motivation|motivation]], [[s/_self-motivation|self-motivation]], [[v/_verve|verve]], [[a/_attack|attack]], [[p/_push|push]], [[r/_ride|ride]], [[s/_spin|spin]], [[t/_trip|trip]]
 ### Antonyms
-- [[inertia]], [[laziness]], [[phlegm]], [[sloth]]
+- [[i/_inertia|inertia]], [[l/_laziness|laziness]], [[p/_phlegm|phlegm]], [[s/_sloth|sloth]]
 #verb
 - **To provide an impetus for motion or other physical [[c/_change|change]], to move an object by means of the provision of force thereto.**
 	- _Example: You drive nails into wood with a hammer._
-- **To provide an impetus for a non-physical [[c/_change|change]], especially a [[c/_change|change]] in one's state of mind.**
+- **To provide an impetus for a non-physical [[c/_change|change]], [[e/_especially|especially]] a [[c/_change|change]] in one's state of mind.**
 	- _Example: My wife's constant harping about the condition of the house threatens to drive me to distraction._
 - **To [[d/_displace|displace]] [[e/_either|either]] physically or non-physically, through the [[a/_application|application]] of force.**
 - **To [[c/_cause|cause]] intrinsic motivation through the [[a/_application|application]] or [[d/_demonstration|demonstration]] of force: to impel or urge onward thusly, to [[c/_compel|compel]] to move on, to [[c/_coerce|coerce]], intimidate or threaten.**
-- **(especially of [[a/_animals|animals]]) To impel or urge onward by force; to push forward; to [[c/_compel|compel]] to move on.**
+- **([[e/_especially|especially]] of [[a/_animals|animals]]) To impel or urge onward by force; to push forward; to [[c/_compel|compel]] to move on.**
 	- _Example: to drive twenty thousand head of cattle from Texas to the Kansas railheads; to drive sheep out of a field_
 - **To [[d/_direct|direct]] a vehicle powered by a horse, ox or similar [[a/_animal|animal]].**
 - **To [[c/_cause|cause]] [[a/_animals|animals]] to flee out of.**
@@ -61,10 +61,10 @@
 - **To hit the [[b/_ball|ball]] with a [[d/_drive|drive]].**
 - **To travel by operating a wheeled motorized vehicle.**
 	- _Example: I drive to work every day._
-- **To [[c/_convey|convey]] (a person, etc) in a wheeled motorized vehicle.**
+- **To [[c/_convey|convey]] (a person, [[e/_etc|etc]]) in a wheeled motorized vehicle.**
 	- _Example: My wife drove me to the airport._
 - **To move forcefully.**
-- **To be moved or propelled forcefully (especially of a ship).**
+- **To be moved or propelled forcefully ([[e/_especially|especially]] of a ship).**
 - **To urge, press, or [[b/_bring|bring]] to a point or state.**
 - **To [[c/_carry|carry]] or to keep in motion; to [[c/_conduct|conduct]]; to prosecute.**
 - **To [[c/_clear|clear]], by forcing [[a/_away|away]] what is [[c/_contained|contained]].**
@@ -75,5 +75,5 @@
 - **To be the [[d/_dominant|dominant]] party in a sex [[a/_act|act]].**
 ---
 ### Synonyms
-- [[move]], [[operate]], [[make]], [[render]], [[send]], [[compel]], [[force]], [[oblige]], [[push]], [[require]], [[take]], [[herd]], [[impel]], [[incentivise]], [[incentivize]], [[motivate]], [[push]], [[urge]], [[force]], [[push]], [[motorvate]]
+- [[m/_move|move]], [[o/_operate|operate]], [[m/_make|make]], [[r/_render|render]], [[s/_send|send]], [[c/_compel|compel]], [[f/_force|force]], [[o/_oblige|oblige]], [[p/_push|push]], [[r/_require|require]], [[t/_take|take]], [[h/_herd|herd]], [[i/_impel|impel]], [[i/_incentivise|incentivise]], [[i/_incentivize|incentivize]], [[m/_motivate|motivate]], [[p/_push|push]], [[u/_urge|urge]], [[f/_force|force]], [[p/_push|push]], [[m/_motorvate|motorvate]]
 ---

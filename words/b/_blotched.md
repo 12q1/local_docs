@@ -8,5 +8,5 @@
 - **[[c/_covered|Covered]] in [[b/_blotches|blotches]].**
 ---
 ### Synonyms
-- [[blotchy]], [[spotted]], [[spotty]]
+- [[b/_blotchy|blotchy]], [[s/_spotted|spotted]], [[s/_spotty|spotty]]
 ---

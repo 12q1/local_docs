@@ -4,5 +4,5 @@
 - **Yielding [[d/_diamonds|diamonds]].**
 ---
 ### Synonyms
-- [[diamondiferous]]
+- [[d/_diamondiferous|diamondiferous]]
 ---

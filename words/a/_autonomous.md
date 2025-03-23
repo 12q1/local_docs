@@ -6,7 +6,7 @@
 - **([[c/_celtic|Celtic]] linguistics, of a verb form) Used with no subject, indicating an unknown or unspecified [[a/_agent|agent]]; used in similar situations as the passive in [[e/_english|English]] (the [[d/_difference|difference]] [[b/_being|being]] that the theme in the [[e/_english|English]] passive [[c/_construction|construction]] is the subject, while in the [[c/_celtic|Celtic]] [[a/_autonomous|autonomous]] [[c/_construction|construction]] the theme is the object and there is no subject).**
 ---
 ### Synonyms
-- [[self-directed]], [[selfstanding]], [[self-governing]], [[sovereign]]
+- [[s/_self-directed|self-directed]], [[s/_selfstanding|selfstanding]], [[s/_self-governing|self-governing]], [[s/_sovereign|sovereign]]
 ### Antonyms
-- [[heteronomous]]
+- [[h/_heteronomous|heteronomous]]
 ---

@@ -5,5 +5,5 @@
 - **A town or [[c/_city|city]] noted for its link to the [[c/_cattle|cattle]] industry.**
 ---
 ### Synonyms
-- [[Woop Woop]], [[hicksville]], [[hicktown]], [[one-horse town]]
+- [[h/_hicksville|hicksville]], [[h/_hicktown|hicktown]]
 ---

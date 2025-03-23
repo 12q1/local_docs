@@ -8,5 +8,5 @@
 - **Near the kidneys.**
 ---
 ### Synonyms
-- [[suprarenal]]
+- [[s/_suprarenal|suprarenal]]
 ---

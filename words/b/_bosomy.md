@@ -5,5 +5,5 @@
 - **Having a large [[b/_bosom|bosom]].**
 ---
 ### Synonyms
-- [[big-breasted]], [[busty]], [[buxom]], [[chesty]]
+- [[b/_big-breasted|big-breasted]], [[b/_busty|busty]], [[b/_buxom|buxom]], [[c/_chesty|chesty]]
 ---

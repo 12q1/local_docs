@@ -5,7 +5,7 @@
 - **A vertical list of items that [[c/_can|can]] be individually expanded and [[c/_collapsed|collapsed]] to reveal their [[c/_contents|contents]].**
 ---
 ### Synonyms
-- [[squeezebox]]
+- [[s/_squeezebox|squeezebox]]
 #verb
 - **To fold up, in the manner of an [[a/_accordion|accordion]]**
 ---

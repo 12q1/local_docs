@@ -8,7 +8,7 @@
 - **A meeting place for homosexual men.**
 ---
 ### Synonyms
-- [[cot]], [[hut]], [[gingerbread office]], [[tea house]], [[tea room]], [[teahouse]], [[tearoom]]
+- [[c/_cot|cot]], [[h/_hut|hut]], [[t/_teahouse|teahouse]], [[t/_tearoom|tearoom]]
 #verb
 - **To stay at a seasonal home, to go cottaging.**
 - **(of men) To have homosexual sex in a public lavatory; to practice cottaging.**

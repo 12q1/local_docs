@@ -7,5 +7,5 @@
 - **The [[c/_crab|crab]]-[[e/_eating|eating]] macaque (Macaca fascicularis)**
 ---
 ### Synonyms
-- [[aigrette]]
+- [[a/_aigrette|aigrette]]
 ---

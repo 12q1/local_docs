@@ -7,5 +7,5 @@
 - **A [[b/_bloodshot|bloodshot]] [[c/_condition|condition]] or [[a/_appearance|appearance]]; an [[e/_effusion|effusion]] of [[b/_blood|blood]] in the [[e/_eye|eye]].**
 ---
 ### Synonyms
-- [[bloodbath]], [[carnage]], [[bloodletting]]
+- [[b/_bloodbath|bloodbath]], [[c/_carnage|carnage]], [[b/_bloodletting|bloodletting]]
 ---

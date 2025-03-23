@@ -5,5 +5,5 @@
 - **[[e/_electricity|Electricity]] and magnetism, [[c/_collectively|collectively]], as a field of study.**
 ---
 ### Synonyms
-- [[electromagnetics]]
+- [[e/_electromagnetics|electromagnetics]]
 ---

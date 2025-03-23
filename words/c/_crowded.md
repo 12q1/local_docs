@@ -5,7 +5,7 @@
 	- _Example: The man crowded into the packed room._
 - **To press together or [[c/_collect|collect]] in numbers**
 	- _Example: They crowded through the archway and into the park._
-- **To press or [[d/_drive|drive]] together, especially into a small space; to [[c/_cram|cram]].**
+- **To press or [[d/_drive|drive]] together, [[e/_especially|especially]] into a small space; to [[c/_cram|cram]].**
 	- _Example: He tried to crowd too many cows into the cow-pen._
 - **To fill by pressing or thronging together**
 - **(often used with "out of" or "off") To push, to press, to shove.**
@@ -15,7 +15,7 @@
 - **To press by solicitation; to urge; to [[d/_dun|dun]]; hence, to treat [[d/_discourteously|discourteously]] or unreasonably.**
 ---
 ### Synonyms
-- [[crowd in]], [[swarm]], [[throng]]
+- [[s/_swarm|swarm]], [[t/_throng|throng]]
 #verb
 - **To play on a [[c/_crowd|crowd]]; to fiddle.**
 ---
@@ -23,5 +23,5 @@
 - **[[c/_containing|Containing]] too many of something; teeming.**
 ---
 ### Synonyms
-- [[dense]], [[packed]]
+- [[d/_dense|dense]], [[p/_packed|packed]]
 ---

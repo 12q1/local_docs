@@ -5,7 +5,7 @@
 - **Inclined to [[a/_argue|argue]] or [[d/_debate|debate]]; provoking [[d/_debate|debate]].**
 ---
 ### Synonyms
-- [[argumentative]], [[contentious]], [[quarrelsome]]
+- [[a/_argumentative|argumentative]], [[c/_contentious|contentious]], [[q/_quarrelsome|quarrelsome]]
 ### Antonyms
-- [[conciliatory]], [[pacific]], [[peaceable]]
+- [[c/_conciliatory|conciliatory]], [[p/_pacific|pacific]], [[p/_peaceable|peaceable]]
 ---

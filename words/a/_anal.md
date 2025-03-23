@@ -14,5 +14,5 @@
 - **(of a vein) Proximate to the thorax.**
 ---
 ### Synonyms
-- [[anal-retentive]], [[fussy]], [[pernickety]], [[picky]]
+- [[a/_anal-retentive|anal-retentive]], [[f/_fussy|fussy]], [[p/_pernickety|pernickety]], [[p/_picky|picky]]
 ---

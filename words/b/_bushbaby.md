@@ -4,5 +4,5 @@
 - **An small, nocturnal, [[a/_african|African]] primate, similar to a lemur.**
 ---
 ### Synonyms
-- [[galago]]
+- [[g/_galago|galago]]
 ---

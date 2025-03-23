@@ -3,14 +3,14 @@
 #noun
 - **That which is [[a/_affixed|affixed]]; an [[a/_appendage|appendage]].**
 - **A [[b/_bound|bound]] morpheme [[a/_added|added]] to the word’s stem's [[e/_end|end]].**
-- **([[b/_broadly|broadly]]) A [[b/_bound|bound]] morpheme [[a/_added|added]] to a word’s stem; a prefix, suffix etc.**
+- **([[b/_broadly|broadly]]) A [[b/_bound|bound]] morpheme [[a/_added|added]] to a word’s stem; a prefix, suffix [[e/_etc|etc]].**
 - **The [[c/_complex|complex]] number a+[[b/_bi|bi]] [[a/_associated|associated]] with the point in the Gauss plane with [[c/_coordinates|coordinates]] (a,[[b/_b|b]]).**
 - **([[d/_decorative|decorative]] [[a/_art|art]]) [[a/_any|Any]] small feature, as a figure, a flower, or the like, [[a/_added|added]] for ornament to a vessel or other utensil, to an [[a/_architectural|architectural]] feature.**
 ---
 ### Synonyms
-- [[addition]], [[supplement]], [[postfix]], [[suffix]]
+- [[a/_addition|addition]], [[s/_supplement|supplement]], [[p/_postfix|postfix]], [[s/_suffix|suffix]]
 ### Antonyms
-- [[nonaffix]]
+- [[n/_nonaffix|nonaffix]]
 #verb
 - **To [[a/_attach|attach]].**
 	- _Example: to affix a stigma to a person_
@@ -20,5 +20,5 @@
 	- _Example: eyes affixed upon the ground_
 ---
 ### Synonyms
-- [[join]], [[put together]], [[unite]]
+- [[j/_join|join]], [[u/_unite|unite]]
 ---

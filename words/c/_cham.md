@@ -1,7 +1,7 @@
 # Cham
 ---
 #noun
-- **An [[a/_autocrat|autocrat]] or [[d/_dominant|dominant]] [[c/_critic|critic]], especially Samuel Johnson.**
+- **An [[a/_autocrat|autocrat]] or [[d/_dominant|dominant]] [[c/_critic|critic]], [[e/_especially|especially]] Samuel Johnson.**
 	- _Example: 1997: "Sitting at a table, drinking Ale, observing the Mist thro’ the Window-Panes, Mason forty-five, the Cham sixty-four." — Thomas Pynchon, Mason & Dixon_
 ---
 #noun

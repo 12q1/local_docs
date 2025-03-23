@@ -6,7 +6,7 @@
 - **Joined-up handwriting.**
 ---
 ### Antonyms
-- [[print]]
+- [[p/_print|print]]
 #adjective
 - **Running; flowing.**
 - **(of writing) Having successive letters joined together.**

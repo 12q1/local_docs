@@ -10,5 +10,5 @@
 - **To [[b/_become|become]] misshapen or [[c/_changed|changed]] in shape.**
 ---
 ### Synonyms
-- [[contort]], [[distort]], [[disfigure]]
+- [[c/_contort|contort]], [[d/_distort|distort]], [[d/_disfigure|disfigure]]
 ---

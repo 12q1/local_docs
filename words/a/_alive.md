@@ -12,16 +12,16 @@
 - **(as an intensifier) out of [[a/_all|all]] living [[c/_creatures|creatures]].**
 ---
 ### Synonyms
-- [[alive and kicking]], [[extant]], [[vital]], [[existing]], [[extant]], [[ever]], [[in the world]], [[frisky]], [[peppy]], [[zestful]]
+- [[e/_extant|extant]], [[v/_vital|vital]], [[e/_existing|existing]], [[e/_extant|extant]], [[e/_ever|ever]], [[f/_frisky|frisky]], [[p/_peppy|peppy]], [[z/_zestful|zestful]]
 ### Antonyms
-- [[dead]]
+- [[d/_dead|dead]]
 #adjective
 - **(only used [[a/_attributively|attributively]]) Having life; that is [[a/_alive|alive]].**
 	- _Example: The post office will not ship live animals._
 - **[[b/_being|Being]] in existence; [[a/_actual|actual]]**
 	- _Example: He is a live example of the consequences of excessive drinking._
 - **Having [[a/_active|active]] properties; [[b/_being|being]] [[e/_energized|energized]].**
-- **Operational; in [[a/_actual|actual]] use rather than in testing etc.**
+- **Operational; in [[a/_actual|actual]] use rather than in testing [[e/_etc|etc]].**
 - **Taken from a living [[a/_animal|animal]].**
 	- _Example: live feathers_
 - **Imparting power; having motion.**
@@ -48,7 +48,7 @@
 - **Vivid; [[b/_bright|bright]].**
 ---
 ### Synonyms
-- [[real]], [[hot]], [[alive]], [[living]], [[in person]], [[in the flesh]]
+- [[r/_real|real]], [[h/_hot|hot]], [[a/_alive|alive]], [[l/_living|living]]
 ### Antonyms
-- [[prerecorded]], [[recorded]], [[blank]], [[dummy]], [[dead]], [[neutral]], [[animated]], [[dead]], [[broadcast]]
+- [[p/_prerecorded|prerecorded]], [[r/_recorded|recorded]], [[b/_blank|blank]], [[d/_dummy|dummy]], [[d/_dead|dead]], [[n/_neutral|neutral]], [[a/_animated|animated]], [[d/_dead|dead]], [[b/_broadcast|broadcast]]
 ---

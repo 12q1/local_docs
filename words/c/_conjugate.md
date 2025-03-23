@@ -21,6 +21,6 @@
 - **In single pairs; [[c/_coupled|coupled]].**
 - **[[c/_containing|Containing]] two or more radicals supposed to [[a/_act|act]] the part of a single one.**
 - **(grammar) [[a/_agreeing|Agreeing]] in [[d/_derivation|derivation]] and radical signification; said of words.**
-- **Presenting themselves simultaneously and having reciprocal properties; said of quantities, points, lines, [[a/_axes|axes]], [[c/_curves|curves]], etc.**
+- **Presenting themselves simultaneously and having reciprocal properties; said of quantities, points, lines, [[a/_axes|axes]], [[c/_curves|curves]], [[e/_etc|etc]].**
 ---
 ---

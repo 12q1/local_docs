@@ -14,6 +14,6 @@
 ---
 #noun
 - **A series or group of [[b/_brackets|brackets]]; [[b/_brackets|brackets]], [[c/_collectively|collectively]].**
-- **The [[a/_act|act]] of [[e/_enclosing|enclosing]] (text, etc.) in [[b/_brackets|brackets]].**
+- **The [[a/_act|act]] of [[e/_enclosing|enclosing]] (text, [[e/_etc|etc]].) in [[b/_brackets|brackets]].**
 ---
 ---

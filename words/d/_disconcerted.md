@@ -7,7 +7,7 @@
 	- _Example: The emperor disconcerted the plans of his enemy._
 ---
 ### Synonyms
-- [[agitate]], [[upset]]
+- [[a/_agitate|agitate]], [[u/_upset|upset]]
 #adjective
 - **Ruffled; upset and [[e/_embarrassed|embarrassed]].**
 - **Self-[[c/_consciously|consciously]] [[d/_distressed|distressed]].**

@@ -6,5 +6,5 @@
 - **[[c/_consisting|Consisting]] of, or like, [[c/_cork|cork]]; [[d/_dry|dry]]; shrivelled.**
 ---
 ### Synonyms
-- [[suberose]], [[suberous]]
+- [[s/_suberose|suberose]], [[s/_suberous|suberous]]
 ---

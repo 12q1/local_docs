@@ -4,5 +4,5 @@
 - **An [[a/_alphanumeric|alphanumeric]] [[c/_character|character]].**
 ---
 ### Synonyms
-- [[alnum]]
+- [[a/_alnum|alnum]]
 ---

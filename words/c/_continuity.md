@@ -9,5 +9,5 @@
 - **The [[a/_announcements|announcements]] and messages inserted by the [[b/_broadcaster|broadcaster]] [[b/_between|between]] programmes.**
 ---
 ### Antonyms
-- [[discontinuity]]
+- [[d/_discontinuity|discontinuity]]
 ---

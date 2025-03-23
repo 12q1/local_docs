@@ -19,5 +19,5 @@
 - **To [[a/_administer|administer]] a [[d/_drug|drug]].**
 ---
 ### Synonyms
-- [[come through]], [[come up with the goods]], [[outbring]], [[utter]], [[free]], [[loose]], [[outbring]], [[rid]], [[free]], [[liberate]], [[release]]
+- [[o/_outbring|outbring]], [[u/_utter|utter]], [[f/_free|free]], [[l/_loose|loose]], [[o/_outbring|outbring]], [[r/_rid|rid]], [[f/_free|free]], [[l/_liberate|liberate]], [[r/_release|release]]
 ---

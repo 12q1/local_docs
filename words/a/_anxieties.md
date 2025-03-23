@@ -6,5 +6,5 @@
 - **A state of restlessness and [[a/_agitation|agitation]], often [[a/_accompanied|accompanied]] by a [[d/_distressing|distressing]] sense of oppression or tightness in the stomach.**
 ---
 ### Synonyms
-- [[apprehension]], [[care]], [[disquiet]], [[disquietude]], [[distress]], [[foreboding]], [[perplexity]], [[restlessness]], [[solicitude]], [[trouble]], [[uneasiness]]
+- [[a/_apprehension|apprehension]], [[c/_care|care]], [[d/_disquiet|disquiet]], [[d/_disquietude|disquietude]], [[d/_distress|distress]], [[f/_foreboding|foreboding]], [[p/_perplexity|perplexity]], [[r/_restlessness|restlessness]], [[s/_solicitude|solicitude]], [[t/_trouble|trouble]], [[u/_uneasiness|uneasiness]]
 ---

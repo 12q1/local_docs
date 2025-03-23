@@ -6,7 +6,7 @@
 ---
 #adjective
 - **Pertaining to a [[d/_diopter|diopter]].**
-- **[[a/_acting|Acting]] as a medium for sight; making use of refraction (of lenses, etc.).**
+- **[[a/_acting|Acting]] as a medium for sight; making use of refraction (of lenses, [[e/_etc|etc]].).**
 - **[[c/_capable|Capable]] of [[b/_being|being]] seen through.**
 ---
 ---

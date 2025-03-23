@@ -5,5 +5,5 @@
 - **The [[e/_edible|edible]] fruit of this marrow/squash.**
 ---
 ### Synonyms
-- [[zucchini]]
+- [[z/_zucchini|zucchini]]
 ---

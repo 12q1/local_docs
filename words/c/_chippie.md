@@ -10,5 +10,5 @@
 - **A [[c/_chipping|chipping]] sparrow.**
 ---
 ### Synonyms
-- [[chipper]]
+- [[c/_chipper|chipper]]
 ---

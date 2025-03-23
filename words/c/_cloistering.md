@@ -9,5 +9,5 @@
 - **To protect or isolate.**
 ---
 ### Synonyms
-- [[enter religion]]
+- 
 ---

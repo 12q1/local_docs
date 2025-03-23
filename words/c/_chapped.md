@@ -10,5 +10,5 @@
 - **(in [[c/_combination|combination]]) Having [[c/_chaps|chaps]], or jaws, of a specified kind.**
 ---
 ### Synonyms
-- [[cracked]], [[rough]]
+- [[c/_cracked|cracked]], [[r/_rough|rough]]
 ---

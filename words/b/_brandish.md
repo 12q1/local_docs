@@ -4,7 +4,7 @@
 - **The [[a/_act|act]] of flourishing or waving.**
 ---
 ### Synonyms
-- [[flourish]]
+- [[f/_flourish|flourish]]
 #verb
 - **To move or swing a weapon [[b/_back|back]] and forth, particularly if [[d/_demonstrating|demonstrating]] [[a/_anger|anger]], threat or skill.**
 	- _Example: He brandished his sword at the pirates._
@@ -12,5 +12,5 @@
 	- _Example: to brandish syllogisms_
 ---
 ### Synonyms
-- [[flourish]], [[wave]]
+- [[f/_flourish|flourish]], [[w/_wave|wave]]
 ---

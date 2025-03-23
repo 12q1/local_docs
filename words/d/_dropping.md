@@ -19,15 +19,15 @@
 - **To mention [[c/_casually|casually]] or incidentally, usually in [[c/_conversation|conversation]].**
 	- _Example: The moderator would drop hints whenever the students struggled._
 - **To part with or spend (money).**
-- **To [[c/_cease|cease]] [[c/_concerning|concerning]] oneself over; to have nothing more to [[d/_do|do]] with (a subject, [[d/_discussion|discussion]] etc.).**
+- **To [[c/_cease|cease]] [[c/_concerning|concerning]] oneself over; to have nothing more to [[d/_do|do]] with (a subject, [[d/_discussion|discussion]] [[e/_etc|etc]].).**
 	- _Example: I'm tired of this subject. Will you just drop it?_
-- **To lessen, [[d/_decrease|decrease]], or [[d/_diminish|diminish]] in value, [[c/_condition|condition]], [[d/_degree|degree]], etc.**
+- **To lessen, [[d/_decrease|decrease]], or [[d/_diminish|diminish]] in value, [[c/_condition|condition]], [[d/_degree|degree]], [[e/_etc|etc]].**
 	- _Example: The stock dropped 1.5% yesterday.   We can take our vacation when the price of fuel drops.   Watch for the temperature to drop sharply, then you'll know the reaction is complete._
-- **To let (a letter etc.) fall into a postbox; to send (a letter or message) in an offhand manner.**
+- **To let (a letter [[e/_etc|etc]].) fall into a postbox; to send (a letter or message) in an offhand manner.**
 	- _Example: Drop me a note when you get to the city._
-- **To make (someone or something) fall to the ground from a [[b/_blow|blow]], gunshot etc.; to [[b/_bring|bring]] [[d/_down|down]], to shoot [[d/_down|down]].**
+- **To make (someone or something) fall to the ground from a [[b/_blow|blow]], gunshot [[e/_etc|etc]].; to [[b/_bring|bring]] [[d/_down|down]], to shoot [[d/_down|down]].**
 	- _Example: Make any sudden movements and I will drop you!_
-- **To fail to write, or (especially) to pronounce (a syllable, letter etc.).**
+- **To fail to write, or ([[e/_especially|especially]]) to pronounce (a syllable, letter [[e/_etc|etc]].).**
 	- _Example: Cockneys drop their aitches._
 - **(of a fielder) To fail to make a [[c/_catch|catch]] from a [[b/_batted|batted]] [[b/_ball|ball]] that would have led to the [[b/_batsman|batsman]] [[b/_being|being]] out.**
 	- _Example: Warne dropped Tendulkar on 99. Tendulkar went on to get a century next ball_
@@ -47,10 +47,10 @@
 	- _Example: I love it when he drops his funky beats._
 - **To [[e/_enter|enter]] public [[d/_distribution|distribution]].**
 	- _Example: "Hip-Hop Xmas" dropped in time for the holidays._
-- **To tune (a guitar string, etc.) to a lower note.**
+- **To tune (a guitar string, [[e/_etc|etc]].) to a lower note.**
 - **To [[c/_cancel|cancel]] or [[e/_end|end]] a scheduled event, project or [[c/_course|course]].**
 	- _Example: I had to drop calculus because it was taking up too much of my time and I couldn't go anymore._
-- **(fast food) To [[c/_cook|cook]], especially by [[d/_deep|deep]]-frying or grilling.**
+- **(fast food) To [[c/_cook|cook]], [[e/_especially|especially]] by [[d/_deep|deep]]-frying or grilling.**
 	- _Example: Drop a basket of fries._
 - **(of a voice) To lower in timbre, often relating to puberty.**
 	- _Example: Billy's voice dropped suddenly when he turned 12._
@@ -64,7 +64,7 @@
 - **(of the testicles) To hang lower and [[b/_begin|begin]] producing sperm [[d/_due|due]] to puberty.**
 ---
 ### Synonyms
-- [[drop off]]
+- 
 #noun
 - **Something [[d/_dropped|dropped]].**
 - **(usually in the plural) A piece of [[a/_animal|animal]] excrement; [[d/_dung|dung]].**

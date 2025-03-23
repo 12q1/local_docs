@@ -11,7 +11,7 @@
 	- _Example: The radical group voted to divorce itself from the main faction and start an independent movement._
 ---
 ### Synonyms
-- [[split up]], [[disassociate]], [[disjoint]], [[dissociate]], [[disunite]], [[separate]]
+- [[d/_disassociate|disassociate]], [[d/_disjoint|disjoint]], [[d/_dissociate|dissociate]], [[d/_disunite|disunite]], [[s/_separate|separate]]
 ### Antonyms
-- [[marry]]
+- [[m/_marry|marry]]
 ---

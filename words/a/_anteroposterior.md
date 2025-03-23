@@ -7,5 +7,5 @@
 	- _Example: the anteroposterior axis_
 ---
 ### Synonyms
-- [[AP]]
+- [[A/_AP|AP]]
 ---

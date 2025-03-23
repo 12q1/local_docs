@@ -6,5 +6,5 @@
 	- _Example: bipedal locomotion_
 ---
 ### Synonyms
-- [[two-footed]], [[two-legged]]
+- [[t/_two-footed|two-footed]], [[t/_two-legged|two-legged]]
 ---

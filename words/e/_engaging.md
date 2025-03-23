@@ -9,15 +9,15 @@
 - **To [[e/_entangle|entangle]].**
 ---
 ### Antonyms
-- [[disengage]]
+- [[d/_disengage|disengage]]
 #adjective
 - **That [[e/_engages|engages]] the [[a/_attention|attention]]; [[e/_engrossing|engrossing]], interesting; [[e/_enthralling|enthralling]].**
 	- _Example: I found the first of the Harry Potter books a very engaging read._
-- **[[c/_charming|Charming]]; [[a/_attractive|attractive]], especially of a manner or [[b/_behaviour|behaviour]].**
+- **[[c/_charming|Charming]]; [[a/_attractive|attractive]], [[e/_especially|especially]] of a manner or [[b/_behaviour|behaviour]].**
 	- _Example: Beauty, of course, and a bright, engaging personality — or at least the ability to fake one — are prerequisites for entering the Miss World competition._
 ---
 ### Synonyms
-- [[appealing]], [[attractive]], [[sweet]], [[absorbing]], [[compelling]], [[engrossing]], [[enthralling]], [[interesting]]
+- [[a/_appealing|appealing]], [[a/_attractive|attractive]], [[s/_sweet|sweet]], [[a/_absorbing|absorbing]], [[c/_compelling|compelling]], [[e/_engrossing|engrossing]], [[e/_enthralling|enthralling]], [[i/_interesting|interesting]]
 ### Antonyms
-- [[boorish]], [[rude]], [[uncivil]], [[uncivilised]], [[boring]], [[dull]], [[unengaging]], [[uninteresting]]
+- [[b/_boorish|boorish]], [[r/_rude|rude]], [[u/_uncivil|uncivil]], [[u/_uncivilised|uncivilised]], [[b/_boring|boring]], [[d/_dull|dull]], [[u/_unengaging|unengaging]], [[u/_uninteresting|uninteresting]]
 ---

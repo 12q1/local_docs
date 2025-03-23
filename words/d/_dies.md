@@ -16,9 +16,9 @@
 	- _Example: When I found out my two favorite musicians would be recording an album together, I literally planned my own funeral arrangements and died._
 - **(of a machine) To stop working, to [[b/_break|break]] [[d/_down|down]].**
 	- _Example: My car died in the middle of the freeway this morning._
-- **(of a [[c/_computer|computer]] program) To [[a/_abort|abort]], to terminate (as an error [[c/_condition|condition]]).**
+- **(of a [[c/_computer|computer]] program) To [[a/_abort|abort]], to terminate (as an [[e/_error|error]] [[c/_condition|condition]]).**
 - **To perish; to [[c/_cease|cease]] to exist; to [[b/_become|become]] lost or extinct.**
-- **To sink; to faint; to pine; to languish, with weakness, [[d/_discouragement|discouragement]], love, etc.**
+- **To sink; to faint; to pine; to languish, with weakness, [[d/_discouragement|discouragement]], love, [[e/_etc|etc]].**
 - **(often with "to") To [[b/_become|become]] indifferent; to [[c/_cease|cease]] to be subject.**
 	- _Example: to die to pleasure or to sin_
 - **To [[d/_disappear|disappear]] gradually in [[a/_another|another]] surface, as where mouldings are lost in a sloped or [[c/_curved|curved]] face.**
@@ -27,7 +27,7 @@
 	- _Example: Then there was that time I died onstage in Montreal..._
 ---
 ### Synonyms
-- [[be no more]], [[bite the big one]], [[bite the dust]], [[buy the farm]], [[cease to be]], [[check out]], [[cross over]], [[cross the river]], [[expire]], [[give up the ghost]], [[go to meet one's maker]], [[hop off the twig]], [[join the choir invisible]], [[kick the bucket]], [[pass]], [[pass away]], [[pass on]], [[push up the daisies]], [[shuffle off this mortal coil]], [[stiff]], [[succumb]]
+- [[e/_expire|expire]], [[p/_pass|pass]], [[s/_stiff|stiff]], [[s/_succumb|succumb]]
 #noun
 - **The [[c/_cubical|cubical]] part of a pedestal; a plinth.**
 - **A [[d/_device|device]] for [[c/_cutting|cutting]] into a specified shape.**
@@ -38,14 +38,14 @@
 - **[[a/_any|Any]] small [[c/_cubical|cubical]] or square [[b/_body|body]].**
 ---
 #noun
-- **A colourant, especially one that has an [[a/_affinity|affinity]] to the substrate to which it is [[a/_applied|applied]].**
+- **A colourant, [[e/_especially|especially]] one that has an [[a/_affinity|affinity]] to the substrate to which it is [[a/_applied|applied]].**
 - **[[a/_any|Any]] hue, [[c/_color|color]], or [[b/_blee|blee]].**
 ---
 ### Synonyms
-- [[colourant]], [[tincture]]
+- [[c/_colourant|colourant]], [[t/_tincture|tincture]]
 #verb
 - **To [[c/_colour|colour]] with [[d/_dye|dye]], or as if with [[d/_dye|dye]].**
 ---
 ### Synonyms
-- [[shade]], [[stain]], [[streak]], [[tint]]
+- [[s/_shade|shade]], [[s/_stain|stain]], [[s/_streak|streak]], [[t/_tint|tint]]
 ---

@@ -5,5 +5,5 @@
 - **Imitative of a sound; onomatopoeic.**
 ---
 ### Antonyms
-- [[anechoic]]
+- [[a/_anechoic|anechoic]]
 ---

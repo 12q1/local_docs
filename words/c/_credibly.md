@@ -6,5 +6,5 @@
 - **Used to report the speaker's [[a/_assessment|assessment]] of the [[c/_credibility|credibility]] of a reported statement**
 ---
 ### Antonyms
-- [[incredibly]]
+- [[i/_incredibly|incredibly]]
 ---

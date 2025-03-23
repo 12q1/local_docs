@@ -13,11 +13,11 @@
 - **To [[e/_embrace|embrace]] sexually.**
 ---
 ### Synonyms
-- [[contract]], [[abridge]], [[condense]], [[shorten]], [[truncate]], [[compact]], [[condense]], [[pack]], [[press]], [[squash]], [[squeeze]]
+- [[c/_contract|contract]], [[a/_abridge|abridge]], [[c/_condense|condense]], [[s/_shorten|shorten]], [[t/_truncate|truncate]], [[c/_compact|compact]], [[c/_condense|condense]], [[p/_pack|pack]], [[p/_press|press]], [[s/_squash|squash]], [[s/_squeeze|squeeze]]
 ### Antonyms
-- [[decontract]], [[expand]], [[expand]], [[lengthen]], [[uncompress]]
+- [[d/_decontract|decontract]], [[e/_expand|expand]], [[e/_expand|expand]], [[l/_lengthen|lengthen]], [[u/_uncompress|uncompress]]
 #noun
-- **A multiply folded piece of [[c/_cloth|cloth]], a pouch of ice etc., used to [[a/_apply|apply]] to a patient's skin, [[c/_cover|cover]] the [[d/_dressing|dressing]] of wounds, and placed with the [[a/_aid|aid]] of a [[b/_bandage|bandage]] to [[a/_apply|apply]] pressure on an injury.**
+- **A multiply folded piece of [[c/_cloth|cloth]], a pouch of ice [[e/_etc|etc]]., used to [[a/_apply|apply]] to a patient's skin, [[c/_cover|cover]] the [[d/_dressing|dressing]] of wounds, and placed with the [[a/_aid|aid]] of a [[b/_bandage|bandage]] to [[a/_apply|apply]] pressure on an injury.**
 	- _Example: He held a cold compress over the sprain._
 - **A machine for [[c/_compressing|compressing]]**
 ---

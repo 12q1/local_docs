@@ -7,5 +7,5 @@
 - **An introduction or prelude.**
 ---
 ### Synonyms
-- [[access]], [[admission]], [[admittance]], [[entry]], [[appetizer]], [[hors d'oeuvre]], [[starter]], [[main]], [[main course]]
+- [[a/_access|access]], [[a/_admission|admission]], [[a/_admittance|admittance]], [[e/_entry|entry]], [[a/_appetizer|appetizer]], [[s/_starter|starter]], [[m/_main|main]]
 ---

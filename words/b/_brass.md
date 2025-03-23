@@ -19,7 +19,7 @@
 - **Made of [[b/_brass|brass]], of or pertaining to [[b/_brass|brass]].**
 - **Of the [[c/_colour|colour]] of [[b/_brass|brass]].**
 - **Impertinent, [[b/_bold|bold]]: [[b/_brazen|brazen]].**
-- **[[b/_bad|Bad]], [[a/_annoying|annoying]]; as wordplay [[a/_applied|applied]] especially to [[b/_brass|brass]] instruments.**
+- **[[b/_bad|Bad]], [[a/_annoying|annoying]]; as wordplay [[a/_applied|applied]] [[e/_especially|especially]] to [[b/_brass|brass]] instruments.**
 - **Of inferior [[c/_composition|composition]].**
 ---
 ---

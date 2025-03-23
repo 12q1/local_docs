@@ -1,7 +1,7 @@
 # Eons
 ---
 #noun
-- **Eternity.**
+- **[[e/_eternity|Eternity]].**
 - **A period of 1,000,000,000 years.**
 - **The longest time period used in geology.**
 - **A long period of time.**

@@ -4,5 +4,5 @@
 - **A [[d/_decrease|decrease]] in scope, extension or severity.**
 ---
 ### Antonyms
-- [[escalation]]
+- [[e/_escalation|escalation]]
 ---

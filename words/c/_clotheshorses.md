@@ -5,5 +5,5 @@
 - **(by extension) A person excessively [[c/_concerned|concerned]] with the [[a/_appearance|appearance]] of their [[c/_clothing|clothing]].**
 ---
 ### Synonyms
-- [[airer]], [[clothes maiden]], [[clothes screen]]
+- [[a/_airer|airer]]
 ---

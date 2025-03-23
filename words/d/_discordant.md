@@ -9,5 +9,5 @@
 - **Of opposite sign**
 ---
 ### Antonyms
-- [[concordant]]
+- [[c/_concordant|concordant]]
 ---

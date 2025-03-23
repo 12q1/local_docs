@@ -17,7 +17,7 @@
 	- _Example: Look around and see what you find._
 - **From one state or [[c/_condition|condition]] to an opposite or very [[d/_different|different]] one; with a metaphorical [[c/_change|change]] in [[d/_direction|direction]]; [[b/_bringing|bringing]] [[a/_about|about]] [[a/_awareness|awareness]] or [[a/_agreement|agreement]].**
 	- _Example: He used to stay up late but his new girlfriend changed that around._
-- **(with turn, spin etc.) So as to partially or [[c/_completely|completely]] rotate; so as to face in the opposite [[d/_direction|direction]].**
+- **(with turn, spin [[e/_etc|etc]].) So as to partially or [[c/_completely|completely]] rotate; so as to face in the opposite [[d/_direction|direction]].**
 	- _Example: She spun around a few times._
 - **Used with verbs to indicate repeated or [[c/_continuous|continuous]] [[a/_action|action]], or in numerous locations or with numerous people.**
 	- _Example: I asked around, and no-one really liked it._

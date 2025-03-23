@@ -11,5 +11,5 @@
 	- _Example: a comic stereotype_
 ---
 ### Synonyms
-- [[comedic]], [[comical]]
+- [[c/_comedic|comedic]], [[c/_comical|comical]]
 ---

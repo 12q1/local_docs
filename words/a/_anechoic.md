@@ -5,5 +5,5 @@
 	- _Example: The bassoonist settled into the anechoic chamber and prepared for another grueling recording session._
 ---
 ### Antonyms
-- [[echoic]]
+- [[e/_echoic|echoic]]
 ---

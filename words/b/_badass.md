@@ -11,5 +11,5 @@
 	- _Example: That tough guy looks badass._
 ---
 ### Synonyms
-- [[awesome]], [[cool]], [[sick]], [[wicked]]
+- [[a/_awesome|awesome]], [[c/_cool|cool]], [[s/_sick|sick]], [[w/_wicked|wicked]]
 ---

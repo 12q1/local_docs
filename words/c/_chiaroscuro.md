@@ -7,7 +7,7 @@
 - **A photographic technique in which one side of, for example, a face is well lit and the other is in shadow.**
 ---
 ### Synonyms
-- [[Rembrandt lighting]]
+- 
 #adjective
 - **Possessing the qualities of a work of [[c/_chiaroscuro|chiaroscuro]].**
 ---

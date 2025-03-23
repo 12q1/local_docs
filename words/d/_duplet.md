@@ -6,5 +6,5 @@
 - **A tuplet of two notes played in the time of three.**
 ---
 ### Synonyms
-- [[super]], [[couple]], [[pair]]
+- [[s/_super|super]], [[c/_couple|couple]], [[p/_pair|pair]]
 ---

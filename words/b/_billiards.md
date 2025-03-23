@@ -5,5 +5,5 @@
 - **(games) The [[c/_collective|collective]] noun for games played on a tabletop, usually with several [[b/_balls|balls]], one or more of which is hit by a [[c/_cue|cue]].**
 ---
 ### Synonyms
-- [[English billiards]]
+- 
 ---

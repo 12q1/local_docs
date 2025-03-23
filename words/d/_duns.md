@@ -16,7 +16,7 @@
 - **A fly made to resemble the mayfly subimago.**
 ---
 #noun
-- **An [[a/_ancient|ancient]] or medieval fortification; especially a hill-fort in Scotland or Ireland.**
+- **An [[a/_ancient|ancient]] or medieval fortification; [[e/_especially|especially]] a hill-fort in Scotland or Ireland.**
 - **A structure in the Orkney or Shetland islands or in Scotland [[c/_consisting|consisting]] of a roundhouse surrounded by a [[c/_circular|circular]] wall; a [[b/_broch|broch]].**
 ---
 #verb

@@ -4,7 +4,7 @@
 - **[[c/_capable|Capable]] of [[b/_being|being]] [[d/_digested|digested]].**
 ---
 ### Synonyms
-- [[bite-sized]]
+- [[b/_bite-sized|bite-sized]]
 ### Antonyms
-- [[indigestible]]
+- [[i/_indigestible|indigestible]]
 ---

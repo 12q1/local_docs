@@ -9,5 +9,5 @@
 - **Expanded**
 ---
 ### Antonyms
-- [[unelaborated]]
+- [[u/_unelaborated|unelaborated]]
 ---

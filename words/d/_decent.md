@@ -12,7 +12,7 @@
 - **[[c/_comely|Comely]]; shapely; well-formed.**
 ---
 ### Synonyms
-- [[adequate]], [[satisfactory]], [[good]], [[moral]]
+- [[a/_adequate|adequate]], [[s/_satisfactory|satisfactory]], [[g/_good|good]], [[m/_moral|moral]]
 ### Antonyms
-- [[bad]], [[immoral]], [[inadequate]], [[poor]], [[unsatisfactory]], [[indecent]], [[underdressed]]
+- [[b/_bad|bad]], [[i/_immoral|immoral]], [[i/_inadequate|inadequate]], [[p/_poor|poor]], [[u/_unsatisfactory|unsatisfactory]], [[i/_indecent|indecent]], [[u/_underdressed|underdressed]]
 ---

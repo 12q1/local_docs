@@ -5,5 +5,5 @@
 - **Sharp and harsh in expressing oneself.**
 ---
 ### Synonyms
-- [[acerbic]], [[acerbic]]
+- [[a/_acerbic|acerbic]], [[a/_acerbic|acerbic]]
 ---

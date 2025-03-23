@@ -8,5 +8,5 @@
 - **Tending to release [[e/_electrons|electrons]] to form a [[c/_chemical|chemical]] [[b/_bond|bond]]**
 ---
 ### Antonyms
-- [[electronegative]]
+- [[e/_electronegative|electronegative]]
 ---

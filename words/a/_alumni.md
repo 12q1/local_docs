@@ -4,7 +4,7 @@
 - **An individual [[a/_alumnus|alumnus]] or [[a/_alumna|alumna]].**
 ---
 ### Synonyms
-- [[alum]], [[alumn]], [[alumnx]]
+- [[a/_alum|alum]], [[a/_alumn|alumn]], [[a/_alumnx|alumnx]]
 #noun
 - **A male pupil or student.**
 - **A male graduate.**

@@ -4,5 +4,5 @@
 - **[[a/_any|Any]] organism that [[c/_can|can]] synthesize its food from inorganic substances, using heat or light as a source of [[e/_energy|energy]].**
 ---
 ### Synonyms
-- [[producer]]
+- [[p/_producer|producer]]
 ---

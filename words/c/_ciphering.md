@@ -12,5 +12,5 @@
 - **A [[c/_cipher|cipher]] (fault in an organ valve which [[c/_causes|causes]] a pipe to sound [[c/_continuously|continuously]] without the key having [[b/_been|been]] pressed).**
 ---
 ### Synonyms
-- [[calculus]], [[reckoning]]
+- [[c/_calculus|calculus]], [[r/_reckoning|reckoning]]
 ---

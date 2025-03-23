@@ -6,8 +6,8 @@
 - **An [[a/_agent|agent]] used for [[e/_effecting|effecting]] [[d/_dilution|dilution]] of the [[b/_blood|blood]]; a weak [[d/_drink|drink]].**
 ---
 ### Synonyms
-- [[dilutant]], [[diluter]], [[thinner]]
+- [[d/_dilutant|dilutant]], [[d/_diluter|diluter]], [[t/_thinner|thinner]]
 #adjective
-- **[[d/_diluting|Diluting]]; making thinner or weaker by [[a/_admixture|admixture]], especially of water.**
+- **[[d/_diluting|Diluting]]; making thinner or weaker by [[a/_admixture|admixture]], [[e/_especially|especially]] of water.**
 ---
 ---

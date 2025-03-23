@@ -5,10 +5,10 @@
 - **One who interprets the [[b/_bible|Bible]] literally.**
 ---
 ### Synonyms
-- [[biblist]]
+- [[b/_biblist|biblist]]
 #adjective
 - **Of, relating, or [[c/_characteristic|characteristic]] of [[b/_biblicism|biblicism]] (or a [[b/_biblicist|biblicist]]).**
 ---
 ### Synonyms
-- [[biblicistic]]
+- [[b/_biblicistic|biblicistic]]
 ---

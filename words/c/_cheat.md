@@ -11,5 +11,5 @@
 	- _Example: He cheated his way into office._
 ---
 ### Synonyms
-- [[belirt]], [[blench]], [[break the rules]], [[lirt]]
+- [[b/_belirt|belirt]], [[b/_blench|blench]], [[l/_lirt|lirt]]
 ---

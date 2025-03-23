@@ -7,9 +7,9 @@
 - **To reserve a portion of memory for use by a [[c/_computer|computer]] program.**
 ---
 ### Synonyms
-- [[appropriate]], [[earmark]]
+- [[a/_appropriate|appropriate]], [[e/_earmark|earmark]]
 ### Antonyms
-- [[deallocate]], [[free]]
+- [[d/_deallocate|deallocate]], [[f/_free|free]]
 #adjective
 - **Having [[b/_been|been]] granted an [[a/_allocation|allocation]]; having received (something) as part of a plan or scheduled [[d/_disbursement|disbursement]]; having [[b/_been|been]] [[a/_assigned|assigned]] (something) that was set [[a/_aside|aside]] for a particular purpose.**
 ---

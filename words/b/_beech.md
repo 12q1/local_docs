@@ -5,5 +5,5 @@
 - **The wood of the [[b/_beech|beech]] tree.**
 ---
 ### Synonyms
-- [[beech tree]]
+- 
 ---

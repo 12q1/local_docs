@@ -8,5 +8,5 @@
 - **(of a [[b/_being|being]]) without a [[b/_body|body]]**
 ---
 ### Synonyms
-- [[bodiless]], [[incorporeal]]
+- [[b/_bodiless|bodiless]], [[i/_incorporeal|incorporeal]]
 ---

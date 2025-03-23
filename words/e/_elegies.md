@@ -5,5 +5,5 @@
 - **A [[c/_composition|composition]] of mournful [[c/_character|character]].**
 ---
 ### Synonyms
-- [[dirge]], [[threnody]]
+- [[d/_dirge|dirge]], [[t/_threnody|threnody]]
 ---

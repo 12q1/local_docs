@@ -8,7 +8,7 @@
 - **[[a/_any|Any]] of various vehicles that have relatively long, low noses in front of a [[c/_cab|cab]] or other, usually windowed, structure.**
 ---
 ### Synonyms
-- [[gator]]
+- [[g/_gator|gator]]
 #verb
 - **(of paint or other [[c/_coatings|coatings]]) To [[c/_crack|crack]] in a pattern resembling an [[a/_alligator|alligator]]'s skin.**
 ---

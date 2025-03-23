@@ -15,7 +15,7 @@
 - **Ordinary; not having [[a/_any|any]] remarkable [[c/_characteristics|characteristics]].**
 ---
 ### Synonyms
-- [[routine]], [[undistinguished]], [[unexceptional]]
+- [[r/_routine|routine]], [[u/_undistinguished|undistinguished]], [[u/_unexceptional|unexceptional]]
 ### Antonyms
-- [[distinguished]], [[inimitable]], [[unique]]
+- [[d/_distinguished|distinguished]], [[i/_inimitable|inimitable]], [[u/_unique|unique]]
 ---

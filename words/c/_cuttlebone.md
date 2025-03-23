@@ -4,5 +4,5 @@
 - **[[c/_cuttlefish|Cuttlefish]] [[b/_bone|bone]]**
 ---
 ### Synonyms
-- [[sepiostaire]], [[sepium]]
+- [[s/_sepiostaire|sepiostaire]], [[s/_sepium|sepium]]
 ---

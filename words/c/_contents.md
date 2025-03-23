@@ -22,7 +22,7 @@
 #noun
 - **(usually in the plural) That which is [[c/_contained|contained]].**
 	- _Example: It is not covered in your homeowner's policy. You need contents insurance._
-- **A table of [[c/_contents|contents]], a list of [[c/_chapters|chapters]], etc. in a [[b/_book|book]], and the page numbers on which they start.**
+- **A table of [[c/_contents|contents]], a list of [[c/_chapters|chapters]], [[e/_etc|etc]]. in a [[b/_book|book]], and the page numbers on which they start.**
 	- _Example: I always start a book by reading the dustjacket and the contents before I really dig in to the content itself._
 ---
 ---

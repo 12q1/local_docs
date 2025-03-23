@@ -8,9 +8,9 @@
 - **A [[d/_decimal|decimal]] point.**
 ---
 ### Synonyms
-- [[decimal number]], [[decimal place]], [[decimal system]]
+- 
 ### Antonyms
-- [[fraction]]
+- [[f/_fraction|fraction]]
 #verb
 - **To represent with numbers [[a/_after|after]] a [[d/_decimal|decimal]] point**
 ---
@@ -18,5 +18,5 @@
 - **[[c/_concerning|Concerning]] numbers expressed in [[d/_decimal|decimal]] or mathematical [[c/_calculations|calculations]] performed using [[d/_decimal|decimal]].**
 ---
 ### Synonyms
-- [[base]], [[denary]]
+- [[b/_base|base]], [[d/_denary|denary]]
 ---

@@ -6,9 +6,9 @@
 - **Of a flower: to [[d/_deprive|deprive]] of the [[a/_anthers|anthers]].**
 ---
 ### Synonyms
-- [[debilitate]], [[demasculate]], [[enervate]], [[enfeeble]], [[unman]], [[unman]]
+- [[d/_debilitate|debilitate]], [[d/_demasculate|demasculate]], [[e/_enervate|enervate]], [[e/_enfeeble|enfeeble]], [[u/_unman|unman]], [[u/_unman|unman]]
 ### Antonyms
-- [[empower]], [[invigorate]], [[masculate]], [[strengthen]]
+- [[e/_empower|empower]], [[i/_invigorate|invigorate]], [[m/_masculate|masculate]], [[s/_strengthen|strengthen]]
 #adjective
 - **[[d/_deprived|Deprived]] of virility or vigor; unmanned, weak.**
 ---

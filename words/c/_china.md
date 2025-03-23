@@ -4,19 +4,19 @@
 - **The plant Smilax [[c/_china|china]], a liana of much of [[e/_eastern|eastern]] [[a/_asia|Asia]].**
 ---
 ### Synonyms
-- [[china]]
+- [[c/_china|china]]
 #noun
 - **A plant or flower of the repeat-[[b/_blooming|blooming]] [[c/_chinese|Chinese]] rose species Rosa chinensis.**
 - **A plant or flower of one of the [[c/_class|class]] of hybrids [[d/_developed|developed]] from Rosa chinensis.**
 - **Synonym of elderflower rose, Rosa cymosa.**
 ---
 ### Synonyms
-- [[china]]
+- [[c/_china|china]]
 #noun
 - **Hibiscus rosa-sinensis, native to [[e/_east|east]] [[a/_asia|Asia]].**
 ---
 ### Synonyms
-- [[China rose]]
+- 
 #noun
 - **[[c/_chinaware|Chinaware]]: porcelain tableware.**
 	- _Example: He set the table with china, cloth napkins, and crystal stemware._
@@ -32,7 +32,7 @@
 - **(by extension) [[a/_any|Any]] gastropod of the family [[c/_cypraeidae|Cypraeidae]]; its shell.**
 ---
 ### Synonyms
-- [[money cowrie]], [[wampum]]
+- [[w/_wampum|wampum]]
 #noun
 - **A person other than a family member, spouse or lover whose [[c/_company|company]] one [[e/_enjoys|enjoys]] and towards whom one feels [[a/_affection|affection]].**
 	- _Example: John and I have been friends ever since we were roommates at college.   Trust is important between friends.   I used to find it hard to make friends when I was shy._
@@ -53,30 +53,30 @@
 	- _Example: Friends agree best at a distance._
 ---
 ### Synonyms
-- [[buddy]], [[buster]], [[mate]], [[pal]], [[sonny]], [[admirer]], [[booster]], [[champion]], [[protagonist]], [[supporter]], [[ally]], [[acquaintance]], [[contact]]
+- [[b/_buddy|buddy]], [[b/_buster|buster]], [[m/_mate|mate]], [[p/_pal|pal]], [[s/_sonny|sonny]], [[a/_admirer|admirer]], [[b/_booster|booster]], [[c/_champion|champion]], [[p/_protagonist|protagonist]], [[s/_supporter|supporter]], [[a/_ally|ally]], [[a/_acquaintance|acquaintance]], [[c/_contact|contact]]
 ### Antonyms
-- [[enemy]], [[foe]], [[stranger]]
+- [[e/_enemy|enemy]], [[f/_foe|foe]], [[s/_stranger|stranger]]
 #noun
-- **A fine [[c/_clay|clay]], rich in kaolinite, used in [[c/_ceramics|ceramics]], paper-making, etc.**
+- **A fine [[c/_clay|clay]], rich in kaolinite, used in [[c/_ceramics|ceramics]], paper-making, [[e/_etc|etc]].**
 ---
 ### Synonyms
-- [[E559]], [[anti-caking agent]], [[china clay]], [[paper clay]]
+- [[E/_E559|E559]]
 #noun
-- **(usually uncountable) A hard white translucent [[c/_ceramic|ceramic]], originally made by firing kaolin, quartz, and feldspar at high temperatures but now [[a/_also|also]] inclusive of similar [[a/_artificial|artificial]] materials; [[a/_also|also]] often such a material as a symbol of the fragility, [[e/_elegance|elegance]], etc. traditionally [[a/_associated|associated]] with porcelain goods.**
+- **(usually uncountable) A hard white translucent [[c/_ceramic|ceramic]], originally made by firing kaolin, quartz, and feldspar at high temperatures but now [[a/_also|also]] inclusive of similar [[a/_artificial|artificial]] materials; [[a/_also|also]] often such a material as a symbol of the fragility, [[e/_elegance|elegance]], [[e/_etc|etc]]. traditionally [[a/_associated|associated]] with porcelain goods.**
 	- _Example: Tableware and toilets are both made of porcelain._
 - **(now usually plural) An object made of porcelain, [[a/_art|art]] objects or items of tableware.**
 	- _Example: The museum has an extensive collection of rare Chinese porcelains._
 - **(often [[c/_capitalized|capitalized]]) A kind of pigeon with [[d/_deep|deep]] [[b/_brown|brown]] and off-white feathers.**
 ---
 ### Synonyms
-- [[china]], [[chinaware]]
+- [[c/_china|china]], [[c/_chinaware|chinaware]]
 #noun
-- **Small [[b/_beads|beads]] made from polished shells, especially white ones, formerly used as money and jewelry by [[c/_certain|certain]] Native [[a/_american|American]] peoples.**
+- **Small [[b/_beads|beads]] made from polished shells, [[e/_especially|especially]] white ones, formerly used as money and jewelry by [[c/_certain|certain]] Native [[a/_american|American]] peoples.**
 - **A string of such [[b/_beads|beads]].**
 - **Money.**
 ---
 ### Synonyms
-- [[peag]], [[porcelain]], [[seawan]]
+- [[p/_peag|peag]], [[p/_porcelain|porcelain]], [[s/_seawan|seawan]]
 ### Antonyms
-- [[suckanhock]]
+- [[s/_suckanhock|suckanhock]]
 ---

@@ -9,7 +9,7 @@
 - **The refugee [[b/_boats|boats]] [[a/_arriving|arriving]] in [[a/_australian|Australian]] waters, and by extension, refugees generally.**
 ---
 ### Synonyms
-- [[craft]], [[ship]], [[vessel]]
+- [[c/_craft|craft]], [[s/_ship|ship]], [[v/_vessel|vessel]]
 #verb
 - **To travel by [[b/_boat|boat]].**
 - **To transport in a [[b/_boat|boat]].**

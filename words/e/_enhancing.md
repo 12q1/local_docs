@@ -9,5 +9,5 @@
 - **(radiology) To take up [[c/_contrast|contrast]] [[a/_agent|agent]] (for an organ, tissue, or lesion).**
 ---
 ### Synonyms
-- [[heighten]]
+- [[h/_heighten|heighten]]
 ---

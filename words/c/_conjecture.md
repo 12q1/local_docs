@@ -9,7 +9,7 @@
 - **Interpretation of signs and omens.**
 ---
 ### Synonyms
-- [[halseny]]
+- [[h/_halseny|halseny]]
 #verb
 - **To guess; to venture an unproven idea.**
 	- _Example: I do not know if it is true; I am simply conjecturing here._

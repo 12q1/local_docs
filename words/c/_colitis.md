@@ -6,5 +6,5 @@
 	- _Example: Crohn's disease and colitis_
 ---
 ### Synonyms
-- [[colonitis]]
+- [[c/_colonitis|colonitis]]
 ---

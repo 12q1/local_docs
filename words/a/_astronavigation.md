@@ -5,5 +5,5 @@
 - **Navigation through space**
 ---
 ### Synonyms
-- [[celestial navigation]], [[astrogation]]
+- [[a/_astrogation|astrogation]]
 ---

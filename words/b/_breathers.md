@@ -9,5 +9,5 @@
 - **An [[a/_air|air]] inlet path to the [[c/_crankcase|crankcase]]**
 ---
 ### Synonyms
-- [[hiatus]], [[moratorium]], [[recess]]
+- [[h/_hiatus|hiatus]], [[m/_moratorium|moratorium]], [[r/_recess|recess]]
 ---

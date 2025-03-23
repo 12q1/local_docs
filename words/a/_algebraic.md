@@ -8,5 +8,5 @@
 - **(of notation) [[d/_describing|Describing]] squares by file (referred to in intrinsic order rather than by the piece starting on that file) and rank, [[b/_both|both]] with reference to a fixed point rather than a player-[[d/_dependent|dependent]] perspective.**
 ---
 ### Antonyms
-- [[transcendental]], [[transcendental]]
+- [[t/_transcendental|transcendental]], [[t/_transcendental|transcendental]]
 ---

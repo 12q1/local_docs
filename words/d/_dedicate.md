@@ -12,7 +12,7 @@
 	- _Example: dedicate a monument._
 ---
 ### Synonyms
-- [[devote]], [[allocate]], [[earmark]], [[behallow]], [[hallow]]
+- [[d/_devote|devote]], [[a/_allocate|allocate]], [[e/_earmark|earmark]], [[b/_behallow|behallow]], [[h/_hallow|hallow]]
 #adjective
 - **[[d/_dedicated|Dedicated]]; set [[a/_apart|apart]]; [[d/_devoted|devoted]]; [[c/_consecrated|consecrated]].**
 ---

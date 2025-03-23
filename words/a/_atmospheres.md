@@ -7,5 +7,5 @@
 - **A unit of measurement for pressure [[e/_equal|equal]] to 101325 Pa (symbol: [[a/_atm|atm]])**
 ---
 ### Synonyms
-- [[air]], [[ambiance]], [[feeling]], [[mood]]
+- [[a/_air|air]], [[a/_ambiance|ambiance]], [[f/_feeling|feeling]], [[m/_mood|mood]]
 ---

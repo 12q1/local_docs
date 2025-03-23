@@ -6,7 +6,7 @@
 - **A [[b/_butterfly|butterfly]], Vanessa cardui**
 ---
 ### Synonyms
-- [[cosmopolite]]
+- [[c/_cosmopolite|cosmopolite]]
 #adjective
 - **Inclusive; [[a/_affecting|affecting]] the whole world.**
 - **(of a place or institution) [[c/_composed|composed]] of people from [[a/_all|all]] over the world.**

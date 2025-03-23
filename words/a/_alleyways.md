@@ -5,5 +5,5 @@
 - **A passage [[b/_between|between]] two rows of [[c/_cabins|cabins]] in a ship.**
 ---
 ### Synonyms
-- [[alley]]
+- [[a/_alley|alley]]
 ---

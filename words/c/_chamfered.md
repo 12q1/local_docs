@@ -5,5 +5,5 @@
 - **To [[c/_cut|cut]] a groove in something.**
 ---
 ### Synonyms
-- [[bevel]], [[flute]]
+- [[b/_bevel|bevel]], [[f/_flute|flute]]
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[d/_document|document]] issued by some [[a/_authority|authority]], [[c/_creating|creating]] a public or private institution, and [[d/_defining|defining]] its purposes and privileges.**
-- **A similar [[d/_document|document]] [[c/_conferring|conferring]] rights and privileges on a person, [[c/_corporation|corporation]] etc.**
+- **A similar [[d/_document|document]] [[c/_conferring|conferring]] rights and privileges on a person, [[c/_corporation|corporation]] [[e/_etc|etc]].**
 - **A [[c/_contract|contract]] for the [[c/_commercial|commercial]] leasing of a vessel, or space on a vessel.**
 - **The temporary hiring or leasing of a vehicle.**
 - **A [[d/_deed|deed]] (legal [[c/_contract|contract]]).**

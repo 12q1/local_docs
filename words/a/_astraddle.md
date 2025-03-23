@@ -7,5 +7,5 @@
 - **In a straddling position on.**
 ---
 ### Synonyms
-- [[astraddle of]]
+- 
 ---

@@ -8,5 +8,5 @@
 - **Irritable or morose.**
 ---
 ### Synonyms
-- [[bad-tempered]], [[bilious]], [[irritable]], [[morose]]
+- [[b/_bad-tempered|bad-tempered]], [[b/_bilious|bilious]], [[i/_irritable|irritable]], [[m/_morose|morose]]
 ---

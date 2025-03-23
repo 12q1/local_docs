@@ -1,7 +1,7 @@
 # Blushed
 ---
 #verb
-- **To [[b/_become|become]] red in the face (and sometimes experience an [[a/_associated|associated]] feeling of warmth), especially [[d/_due|due]] to shyness, shame, excitement, or [[e/_embarrassment|embarrassment]].**
+- **To [[b/_become|become]] red in the face (and sometimes experience an [[a/_associated|associated]] feeling of warmth), [[e/_especially|especially]] [[d/_due|due]] to shyness, shame, excitement, or [[e/_embarrassment|embarrassment]].**
 	- _Example: He wasn't used to this much attention, so he blushed as he saw dozens of pairs of eyes watching him._
 - **To be [[a/_ashamed|ashamed]] or [[e/_embarrassed|embarrassed]] (to [[d/_do|do]] something).**
 - **To [[b/_become|become]] red.**
@@ -15,5 +15,5 @@
 - **To glance with the [[e/_eye|eye]], [[c/_cast|cast]] a glance.**
 ---
 ### Synonyms
-- [[flush]], [[go red]], [[pinken]], [[redden]]
+- [[f/_flush|flush]], [[p/_pinken|pinken]], [[r/_redden|redden]]
 ---

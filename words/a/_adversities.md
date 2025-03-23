@@ -5,5 +5,5 @@
 - **An event that is [[a/_adverse|adverse]]; [[c/_calamity|calamity]].**
 ---
 ### Synonyms
-- [[nakba]]
+- [[n/_nakba|nakba]]
 ---

@@ -8,5 +8,5 @@
 - **To make into or [[b/_become|become]] an [[a/_adverb|adverb]].**
 ---
 ### Synonyms
-- [[adverbialize]]
+- [[a/_adverbialize|adverbialize]]
 ---

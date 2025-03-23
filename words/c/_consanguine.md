@@ -7,7 +7,7 @@
 - **Related by [[b/_birth|birth]] or "by [[b/_blood|blood]]", i.[[e/_e|e]]. having [[c/_close|close]] [[a/_ancestors|ancestors]] in [[c/_common|common]].**
 ---
 ### Synonyms
-- [[consanguineous]]
+- [[c/_consanguineous|consanguineous]]
 ### Antonyms
-- [[affinal]]
+- [[a/_affinal|affinal]]
 ---

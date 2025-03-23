@@ -1,7 +1,7 @@
 # Banging
 ---
 #verb
-- **To make sudden loud noises, and often repeatedly, especially by exploding or hitting something.**
+- **To make sudden loud noises, and often repeatedly, [[e/_especially|especially]] by exploding or hitting something.**
 	- _Example: My head was banging after drinking all night at the concert._
 - **To hit hard.**
 	- _Example: David and Mary banged into each other._
@@ -14,7 +14,7 @@
 	- _Example: Do you smoke meth? No, I bang it._
 ---
 ### Synonyms
-- [[do it]], [[have sex]], [[nail]]
+- [[n/_nail|nail]]
 #noun
 - **The [[a/_action|action]] of the verb to [[b/_bang|bang]].**
 	- _Example: Strange bangings in the old house were ascribed to a poltergeist._

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A strip of material used for strengthening or [[c/_coupling|coupling]].**
-- **A long strip of material, [[c/_color|color]], etc, that is [[d/_different|different]] from the surrounding [[a/_area|area]].**
+- **A long strip of material, [[c/_color|color]], [[e/_etc|etc]], that is [[d/_different|different]] from the surrounding [[a/_area|area]].**
 - **A strip of [[d/_decoration|decoration]].**
 - **That which serves as the means of union or [[c/_connection|connection]] [[b/_between|between]] persons; a tie.**
 - **A linen [[c/_collar|collar]] or ruff worn in the 16th and 17th [[c/_centuries|centuries]].**
@@ -13,7 +13,7 @@
 - **A [[b/_bond|bond]].**
 - **Pledge; security.**
 - **A ring, such as a wedding ring (wedding [[b/_band|band]]), or a ring put on a [[b/_bird|bird]]'s leg to identify it.**
-- **[[a/_any|Any]] [[d/_distinguishing|distinguishing]] line formed by [[c/_chromatography|chromatography]], [[e/_electrophoresis|electrophoresis]] etc**
+- **[[a/_any|Any]] [[d/_distinguishing|distinguishing]] line formed by [[c/_chromatography|chromatography]], [[e/_electrophoresis|electrophoresis]] [[e/_etc|etc]]**
 - **Short for [[b/_band|band]] [[c/_cell|cell]].**
 - **(hiphop, often in the plural) A wad of money totaling $1K, held together by a [[b/_band|band]]; (by extension) money**
 ---

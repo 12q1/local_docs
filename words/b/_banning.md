@@ -9,7 +9,7 @@
 - **To [[c/_curse|curse]]; to utter [[c/_curses|curses]] or maledictions.**
 ---
 ### Synonyms
-- [[disallow]], [[forbid]], [[prohibit]]
+- [[d/_disallow|disallow]], [[f/_forbid|forbid]], [[p/_prohibit|prohibit]]
 #noun
 - **The [[a/_act|act]] by which something is [[b/_banned|banned]]; a prohibition.**
 ---

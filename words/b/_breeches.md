@@ -12,5 +12,5 @@
 - **Trousers; pantaloons.**
 ---
 ### Synonyms
-- [[pants]], [[trousers]]
+- [[p/_pants|pants]], [[t/_trousers|trousers]]
 ---

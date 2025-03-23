@@ -7,7 +7,7 @@
 	- _Example: I'm going to the rock concert on Friday._
 ---
 ### Synonyms
-- [[gig]]
+- [[g/_gig|gig]]
 #verb
 - **To plan together; to settle or [[a/_adjust|adjust]] by [[c/_conference|conference]], [[a/_agreement|agreement]], or [[c/_consultation|consultation]].**
 - **To plan; to [[d/_devise|devise]]; to [[a/_arrange|arrange]].**

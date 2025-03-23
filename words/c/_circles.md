@@ -6,7 +6,7 @@
 - **A two-[[d/_dimensional|dimensional]] geometric figure, a [[d/_disk|disk]], [[c/_consisting|consisting]] of the set of [[a/_all|all]] those points of a plane at a [[d/_distance|distance]] less than or [[e/_equal|equal]] to a fixed [[d/_distance|distance]] (radius) from a given point.**
 - **[[a/_any|Any]] shape, [[c/_curve|curve]] or [[a/_arrangement|arrangement]] of objects that [[a/_approximates|approximates]] to or resembles the geometric figures.**
 	- _Example: Children, please join hands and form a circle._
-- **A specific group of persons; especially one who shares a [[c/_common|common]] interest.**
+- **A specific group of persons; [[e/_especially|especially]] one who shares a [[c/_common|common]] interest.**
 	- _Example: circle of friends_
 - **The orbit of an [[a/_astronomical|astronomical]] [[b/_body|body]].**
 - **A line [[c/_comprising|comprising]] two semicircles of 30 yards radius [[c/_centred|centred]] on the wickets joined by straight lines parallel to the pitch used to [[e/_enforce|enforce]] field restrictions in a one-[[d/_day|day]] match.**
@@ -23,7 +23,7 @@
 	- _Example: After working all night, she had circles under her eyes._
 ---
 ### Synonyms
-- [[bunch]], [[gang]], [[group]], [[coil]], [[loop]], [[ring]], [[disc]], [[disk]], [[round]]
+- [[b/_bunch|bunch]], [[g/_gang|gang]], [[g/_group|group]], [[c/_coil|coil]], [[l/_loop|loop]], [[r/_ring|ring]], [[d/_disc|disc]], [[d/_disk|disk]], [[r/_round|round]]
 #verb
 - **To travel [[a/_around|around]] [[a/_along|along]] a [[c/_curved|curved]] path.**
 	- _Example: The wolves circled the herd of deer._

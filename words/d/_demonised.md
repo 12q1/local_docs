@@ -5,5 +5,5 @@
 - **To [[d/_describe|describe]] or represent as evil or [[d/_diabolic|diabolic]].**
 ---
 ### Synonyms
-- [[vilify]]
+- [[v/_vilify|vilify]]
 ---

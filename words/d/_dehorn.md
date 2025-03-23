@@ -4,5 +4,5 @@
 - **To remove the horns from.**
 ---
 ### Synonyms
-- [[poll]]
+- [[p/_poll|poll]]
 ---

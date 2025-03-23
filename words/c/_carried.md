@@ -12,7 +12,7 @@
 	- _Example: The corner drugstore doesn't carry his favorite brand of aspirin._
 - **To [[a/_adopt|adopt]] (something); take (something) over.**
 	- _Example: I think I can carry Smith's work while she is out._
-- **To [[a/_adopt|adopt]] or resolve on, especially in a [[d/_deliberative|deliberative]] [[a/_assembly|assembly]]**
+- **To [[a/_adopt|adopt]] or resolve on, [[e/_especially|especially]] in a [[d/_deliberative|deliberative]] [[a/_assembly|assembly]]**
 	- _Example: The court carries that motion._
 - **In an [[a/_addition|addition]], to transfer the quantity in excess of what is [[c/_countable|countable]] in the units in a [[c/_column|column]] to the [[c/_column|column]] immediately to the left in order to be [[a/_added|added]] there.**
 	- _Example: Five and nine are fourteen; carry the one to the tens place._
@@ -38,14 +38,14 @@
 - **To get possession of by force; to [[c/_capture|capture]].**
 - **To [[c/_contain|contain]]; to [[c/_comprise|comprise]]; have a particular [[a/_aspect|aspect]]; to show or exhibit**
 - **To [[b/_bear|bear]] (oneself); to [[b/_behave|behave]] or [[c/_conduct|conduct]].**
-- **To [[b/_bear|bear]] the [[c/_charges|charges]] or [[b/_burden|burden]] of holding or having, as stocks, merchandise, etc., from one time to [[a/_another|another]].**
+- **To [[b/_bear|bear]] the [[c/_charges|charges]] or [[b/_burden|burden]] of holding or having, as stocks, merchandise, [[e/_etc|etc]]., from one time to [[a/_another|another]].**
 	- _Example: A merchant is carrying a large stock;  a farm carries a mortgage;  a broker carries stock for a customer;  to carry a life insurance._
 - **To have a weapon on one's person; to be [[a/_armed|armed]].**
 - **To be [[d/_disproportionately|disproportionately]] responsible for a team's success.**
 	- _Example: He absolutely carried the game, to the point of killing the entire enemy team by himself._
 ---
 ### Synonyms
-- [[adopt]], [[take on]], [[take over]], [[bear]], [[move]], [[transport]], [[conduct]], [[impel]], [[have]], [[keep]], [[stock]], [[supply]], [[have]], [[maintain]], [[transmitted]], [[travel]]
+- [[a/_adopt|adopt]], [[b/_bear|bear]], [[m/_move|move]], [[t/_transport|transport]], [[c/_conduct|conduct]], [[i/_impel|impel]], [[h/_have|have]], [[k/_keep|keep]], [[s/_stock|stock]], [[s/_supply|supply]], [[h/_have|have]], [[m/_maintain|maintain]], [[t/_transmitted|transmitted]], [[t/_travel|travel]]
 ### Antonyms
-- [[borrow]]
+- [[b/_borrow|borrow]]
 ---

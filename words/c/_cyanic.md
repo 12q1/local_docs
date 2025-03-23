@@ -6,5 +6,5 @@
 - **(of a flower) [[c/_containing|Containing]] an [[a/_anthocyanin|anthocyanin]]**
 ---
 ### Antonyms
-- [[acyanic]]
+- [[a/_acyanic|acyanic]]
 ---

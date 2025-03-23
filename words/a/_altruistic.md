@@ -5,7 +5,7 @@
 	- _Example: His helping the old woman with her shopping was deemed highly altruistic by everyone, especially since her home was a mile away._
 ---
 ### Synonyms
-- [[beneficent]], [[humane]], [[philanthropic]], [[selfless]], [[unselfish]]
+- [[b/_beneficent|beneficent]], [[h/_humane|humane]], [[p/_philanthropic|philanthropic]], [[s/_selfless|selfless]], [[u/_unselfish|unselfish]]
 ### Antonyms
-- [[egoistic]], [[misanthropic]], [[selfish]]
+- [[e/_egoistic|egoistic]], [[m/_misanthropic|misanthropic]], [[s/_selfish|selfish]]
 ---

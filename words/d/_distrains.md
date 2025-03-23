@@ -8,5 +8,5 @@
 - **To pull off, tear [[a/_apart|apart]].**
 ---
 ### Synonyms
-- [[distress]]
+- [[d/_distress|distress]]
 ---

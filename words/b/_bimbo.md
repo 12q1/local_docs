@@ -5,5 +5,5 @@
 - **A stupid or foolish person.**
 ---
 ### Synonyms
-- [[airhead]], [[bimbette]], [[dumb blonde]], [[floozie]]
+- [[a/_airhead|airhead]], [[b/_bimbette|bimbette]], [[f/_floozie|floozie]]
 ---

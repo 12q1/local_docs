@@ -8,21 +8,21 @@
 	- _Example: A study of the suspect's character and his cast iron alibi ruled him out._
 - **Strength of mind; resolution; independence; individuality; moral strength.**
 	- _Example: "You may not like to eat liver," said Calvin's father, "but it builds character."_
-- **A unique or extraordinary individual; a person [[c/_characterized|characterized]] by peculiar or notable traits, especially [[c/_charisma|charisma]].**
+- **A unique or extraordinary individual; a person [[c/_characterized|characterized]] by peculiar or notable traits, [[e/_especially|especially]] [[c/_charisma|charisma]].**
 	- _Example: Julius Caesar is a great historical character._
 - **A written or printed symbol, or letter.**
 - **Style of writing or printing; handwriting; the particular form of letters used by a person or people.**
 	- _Example: an inscription in the Runic character_
 - **A secret [[c/_cipher|cipher]]; a way of writing in [[c/_code|code]].**
 - **One of the [[b/_basic|basic]] [[e/_elements|elements]] making up a text file or string: a [[c/_code|code]] representing a printing [[c/_character|character]] or a [[c/_control|control]] [[c/_character|character]].**
-- **A person or individual, especially one who is unknown or raises suspicions.**
+- **A person or individual, [[e/_especially|especially]] one who is unknown or raises suspicions.**
 	- _Example: That old guy is a real character._
 - **A [[c/_complex|complex]] number representing an [[e/_element|element]] of a finite [[a/_abelian|Abelian]] group.**
 - **Quality, position, rank, or [[c/_capacity|capacity]]; quality or [[c/_conduct|conduct]] with respect to a [[c/_certain|certain]] office or [[d/_duty|duty]].**
 	- _Example: in his character as a magistrate_
-- **The estimate, individual or general, put upon a person or thing; reputation.**
+- **The [[e/_estimate|estimate]], individual or general, put upon a person or thing; reputation.**
 	- _Example: Her actions give her a bad character._
-- **A reference given to a servant, [[a/_attesting|attesting]] to his/her [[b/_behaviour|behaviour]], [[c/_competence|competence]], etc.**
+- **A reference given to a servant, [[a/_attesting|attesting]] to his/her [[b/_behaviour|behaviour]], [[c/_competence|competence]], [[e/_etc|etc]].**
 - **Personal [[a/_appearance|appearance]].**
 ---
 ---

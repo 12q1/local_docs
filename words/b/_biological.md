@@ -4,10 +4,10 @@
 - **A [[b/_biological|biological]] product.**
 ---
 ### Synonyms
-- [[biologic]]
+- [[b/_biologic|biologic]]
 #adjective
 - **Of or relating to [[b/_biology|biology]].**
-- **Related by [[c/_consanguinity|consanguinity]], especially as to parents and [[c/_children|children]].**
-- **(an error in NNES) Organic (grown without agrochemicals).**
+- **Related by [[c/_consanguinity|consanguinity]], [[e/_especially|especially]] as to parents and [[c/_children|children]].**
+- **(an [[e/_error|error]] in NNES) Organic (grown without agrochemicals).**
 ---
 ---

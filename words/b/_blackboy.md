@@ -5,5 +5,5 @@
 - **[[a/_any|Any]] plant in the genus Xanthorrhoea, native to [[a/_australia|Australia]].**
 ---
 ### Synonyms
-- [[balga]], [[grass tree]], [[grasstree]], [[yacca]], [[yacka]], [[yakka]]
+- [[b/_balga|balga]], [[g/_grasstree|grasstree]], [[y/_yacca|yacca]], [[y/_yacka|yacka]], [[y/_yakka|yakka]]
 ---

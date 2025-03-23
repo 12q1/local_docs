@@ -5,5 +5,5 @@
 - **The state of [[b/_being|being]] a [[c/_citizen|citizen]], in its various senses.**
 ---
 ### Synonyms
-- [[citizenhood]], [[freedom of the city]], [[freemanship]]
+- [[c/_citizenhood|citizenhood]], [[f/_freemanship|freemanship]]
 ---

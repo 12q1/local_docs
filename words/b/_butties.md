@@ -14,5 +14,5 @@
 	- _Example: I've fund one shoe, but canna see the butty no-weer._
 ---
 ### Synonyms
-- [[chum]], [[fam]], [[mate]], [[mucker]], [[colleague]], [[partner]], [[workfellow]], [[workmate]]
+- [[c/_chum|chum]], [[f/_fam|fam]], [[m/_mate|mate]], [[m/_mucker|mucker]], [[c/_colleague|colleague]], [[p/_partner|partner]], [[w/_workfellow|workfellow]], [[w/_workmate|workmate]]
 ---

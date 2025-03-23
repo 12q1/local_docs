@@ -3,7 +3,7 @@
 #verb
 - **To [[c/_consume|consume]] (a liquid) through the mouth.**
 	- _Example: He drank the water I gave him._
-- **(metonymic) To [[c/_consume|consume]] the liquid [[c/_contained|contained]] within (a [[b/_bottle|bottle]], glass, etc.).**
+- **(metonymic) To [[c/_consume|consume]] the liquid [[c/_contained|contained]] within (a [[b/_bottle|bottle]], glass, [[e/_etc|etc]].).**
 	- _Example: Jack drank the whole bottle by himself._
 - **To [[c/_consume|consume]] [[a/_alcoholic|alcoholic]] [[b/_beverages|beverages]].**
 	- _Example: Everyone who is drinking is drinking, but not everyone who is drinking is drinking._
@@ -12,5 +12,5 @@
 - **To smoke, as tobacco.**
 ---
 ### Synonyms
-- [[gulp]], [[imbibe]], [[quaff]], [[sip]], [[alcohol]], [[hit the sauce]]
+- [[g/_gulp|gulp]], [[i/_imbibe|imbibe]], [[q/_quaff|quaff]], [[s/_sip|sip]], [[a/_alcohol|alcohol]]
 ---

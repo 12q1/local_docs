@@ -9,5 +9,5 @@
 	- _Example: Lactose intolerance is common among people of Asian heritage._
 ---
 ### Synonyms
-- [[amid]], [[amidst]], [[amongst]]
+- [[a/_amid|amid]], [[a/_amidst|amidst]], [[a/_amongst|amongst]]
 ---

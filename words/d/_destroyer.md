@@ -5,5 +5,5 @@
 - **A small, fast warship with light [[a/_armament|armament]], smaller than a [[c/_cruiser|cruiser]], but [[b/_bigger|bigger]] than a frigate.**
 ---
 ### Synonyms
-- [[decimator]], [[devastator]]
+- [[d/_decimator|decimator]], [[d/_devastator|devastator]]
 ---

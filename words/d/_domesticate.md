@@ -14,5 +14,5 @@
 - **To [[a/_amend|amend]] the [[e/_elements|elements]] of a text to fit local [[c/_culture|culture]].**
 ---
 ### Antonyms
-- [[foreignize]]
+- [[f/_foreignize|foreignize]]
 ---

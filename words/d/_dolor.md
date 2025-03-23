@@ -5,7 +5,7 @@
 - **A unit of pain used to theoretically weigh people's outcomes.**
 ---
 ### Synonyms
-- [[dol]]
+- [[d/_dol|dol]]
 ### Antonyms
-- [[hedon]]
+- [[h/_hedon|hedon]]
 ---

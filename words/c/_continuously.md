@@ -5,5 +5,5 @@
 	- _Example: The river continuously flows to the sea, it will never pause to let us cross on dry land._
 ---
 ### Synonyms
-- [[ceaselessly]], [[incessantly]], [[nonstop]]
+- [[c/_ceaselessly|ceaselessly]], [[i/_incessantly|incessantly]], [[n/_nonstop|nonstop]]
 ---

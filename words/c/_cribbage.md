@@ -6,5 +6,5 @@
 - **A point scored in this variety of pocket [[b/_billiards|billiards]].**
 ---
 ### Synonyms
-- [[crib]]
+- [[c/_crib|crib]]
 ---

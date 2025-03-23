@@ -7,17 +7,17 @@
 - **A sac inserted into part of the [[b/_body|body]] for therapeutic reasons; such as [[a/_angioplasty|angioplasty]].**
 - **A speech [[b/_bubble|bubble]].**
 - **A type of glass [[c/_cup|cup]], sometimes used for [[b/_brandy|brandy]].**
-- **A [[b/_ball|ball]] or globe on the top of a pillar, [[c/_church|church]], etc.**
+- **A [[b/_ball|ball]] or globe on the top of a pillar, [[c/_church|church]], [[e/_etc|etc]].**
 	- _Example: the balloon of St. Paul's Cathedral in London_
 - **A round vessel, usually with a short neck, to hold or receive whatever is [[d/_distilled|distilled]]; a glass vessel of a spherical form.**
 - **A [[b/_bomb|bomb]] or shell.**
 - **A game played with a large inflated [[b/_ball|ball]].**
 - **([[e/_engraving|engraving]]) The outline [[e/_enclosing|enclosing]] words represented as [[c/_coming|coming]] from the mouth of a pictured figure.**
 - **A woman's [[b/_breast|breast]].**
-- **A small [[c/_container|container]] for illicit [[d/_drugs|drugs]] made from a [[c/_condom|condom]] or the finger of a latex glove, etc.**
+- **A small [[c/_container|container]] for illicit [[d/_drugs|drugs]] made from a [[c/_condom|condom]] or the finger of a latex glove, [[e/_etc|etc]].**
 ---
 ### Synonyms
-- [[fumetto]], [[speech bubble]]
+- [[f/_fumetto|fumetto]]
 #verb
 - **To increase or expand rapidly.**
 	- _Example: His stomach ballooned from eating such a large meal._
@@ -30,5 +30,5 @@
 - **An unusually large payment [[d/_due|due]] at the [[e/_end|end]] of the term of a loan [[a/_agreement|agreement]].**
 ---
 ### Synonyms
-- [[lump sum]]
+- 
 ---

@@ -6,5 +6,5 @@
 - **A tiny [[b/_being|being]]; a very small person.**
 ---
 ### Synonyms
-- [[atom]]
+- [[a/_atom|atom]]
 ---

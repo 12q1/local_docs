@@ -5,5 +5,5 @@
 	- _Example: His creativity is unsurpassed by his fellow students in the art class._
 ---
 ### Synonyms
-- [[creativeness]], [[originality]]
+- [[c/_creativeness|creativeness]], [[o/_originality|originality]]
 ---

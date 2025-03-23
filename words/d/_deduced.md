@@ -7,7 +7,7 @@
 - **(Latinism) To lead forth.**
 ---
 ### Synonyms
-- [[conclude]], [[infer]]
+- [[c/_conclude|conclude]], [[i/_infer|infer]]
 ### Antonyms
-- [[induce]]
+- [[i/_induce|induce]]
 ---

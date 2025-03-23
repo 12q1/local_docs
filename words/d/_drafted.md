@@ -4,7 +4,7 @@
 - **To write a first version, make a preliminary sketch.**
 - **To [[d/_draw|draw]] in outline; to make a [[d/_draught|draught]], sketch, or plan of, as in [[a/_architectural|architectural]] and mechanical [[d/_drawing|drawing]].**
 - **To write a law.**
-- **To [[c/_conscript|conscript]] a person, force a person to serve in some [[c/_capacity|capacity]], especially in the military.**
+- **To [[c/_conscript|conscript]] a person, force a person to serve in some [[c/_capacity|capacity]], [[e/_especially|especially]] in the military.**
 	- _Example: He was drafted during the Vietnam War._
 - **To select someone (or something) for a particular role or purpose.**
 	- _Example: There was a campaign to draft Smith to run for President._
@@ -17,7 +17,7 @@
 - **To [[d/_draw|draw]] fibers out of a [[c/_clump|clump]], for spinning in the production of yarn.**
 ---
 #adjective
-- **Of a [[c/_certain|certain]] [[d/_depth|depth]] required to float (said of a vessel); used [[c/_comparatively|comparatively]] with shallow, [[d/_deep|deep]], etc.**
+- **Of a [[c/_certain|certain]] [[d/_depth|depth]] required to float (said of a vessel); used [[c/_comparatively|comparatively]] with shallow, [[d/_deep|deep]], [[e/_etc|etc]].**
 	- _Example: A johnboat is a shallow drafted boat favored by fishermen._
 - **[[c/_conscripted|Conscripted]]**
 ---

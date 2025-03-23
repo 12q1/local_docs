@@ -7,5 +7,5 @@
 - **An [[a/_assertion|assertion]].**
 ---
 ### Antonyms
-- [[negative]]
+- [[n/_negative|negative]]
 ---

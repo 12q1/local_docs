@@ -6,5 +6,5 @@
 - **[[b/_blood|Blood]].**
 ---
 ### Synonyms
-- [[traditional dry red]]
+- 
 ---

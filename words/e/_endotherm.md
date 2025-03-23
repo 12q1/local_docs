@@ -4,5 +4,5 @@
 - **An [[a/_animal|animal]] that maintains a [[c/_constant|constant]] [[b/_body|body]] temperature**
 ---
 ### Synonyms
-- [[homeotherm]]
+- [[h/_homeotherm|homeotherm]]
 ---

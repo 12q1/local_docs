@@ -5,7 +5,7 @@
 - **[[d/_describing|Describing]] an NMR resonance at a higher frequency to that of a reference signal**
 ---
 ### Antonyms
-- [[upfield]]
+- [[u/_upfield|upfield]]
 #adverb
 - **Towards the lower part of a field**
 	- _Example: "Still, he stole an occasional glance as the mule again worked its way downfield."_

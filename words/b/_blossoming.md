@@ -5,7 +5,7 @@
 - **To [[b/_begin|begin]] to thrive or flourish.**
 ---
 ### Synonyms
-- [[bloom]], [[flourish]], [[grow]], [[prosper]], [[thrive]], [[bloom]], [[flower]]
+- [[b/_bloom|bloom]], [[f/_flourish|flourish]], [[g/_grow|grow]], [[p/_prosper|prosper]], [[t/_thrive|thrive]], [[b/_bloom|bloom]], [[f/_flower|flower]]
 #noun
 - **The [[a/_act|act]] or process by which something [[b/_blossoms|blossoms]].**
 ---

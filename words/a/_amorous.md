@@ -11,5 +11,5 @@
 	- _Example: He had been amorous of her since schooldays._
 ---
 ### Synonyms
-- [[affectionate]], [[fond]], [[loving]], [[concupiscent]], [[lustful]]
+- [[a/_affectionate|affectionate]], [[f/_fond|fond]], [[l/_loving|loving]], [[c/_concupiscent|concupiscent]], [[l/_lustful|lustful]]
 ---

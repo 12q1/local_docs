@@ -6,5 +6,5 @@
 - **A policeman [[a/_assigned|assigned]] to an intersection to [[d/_direct|direct]] the traffic.**
 ---
 ### Synonyms
-- [[corner]]
+- [[c/_corner|corner]]
 ---

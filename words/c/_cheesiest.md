@@ -11,5 +11,5 @@
 - **(of a smile or grin) Exaggerated and likely to be forced or insincere.**
 ---
 ### Synonyms
-- [[cheeseball]], [[corny]], [[tacky]]
+- [[c/_cheeseball|cheeseball]], [[c/_corny|corny]], [[t/_tacky|tacky]]
 ---

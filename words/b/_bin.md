@@ -5,10 +5,10 @@
 	- _Example: a corn bin; a wine bin; a coal bin_
 - **A [[c/_container|container]] for rubbish or waste.**
 	- _Example: a rubbish bin; a wastepaper bin; an ashes bin_
-- **[[a/_any|Any]] of the [[d/_discrete|discrete]] intervals in a histogram, etc**
+- **[[a/_any|Any]] of the [[d/_discrete|discrete]] intervals in a histogram, [[e/_etc|etc]]**
 ---
 ### Synonyms
-- [[container]], [[receptacle]], [[dustbin]], [[garbage can]], [[rubbish bin]], [[trash can]]
+- [[c/_container|container]], [[r/_receptacle|receptacle]], [[d/_dustbin|dustbin]]
 #verb
 - **To [[d/_dispose|dispose]] of (something) by putting it into a [[b/_bin|bin]], or as if putting it into a [[b/_bin|bin]].**
 - **To throw [[a/_away|away]], reject, give up.**
@@ -17,5 +17,5 @@
 	- _Example: to bin wine_
 ---
 ### Synonyms
-- [[chuck]], [[chuck away]], [[chuck out]], [[discard]], [[ditch]], [[dump]], [[junk]], [[scrap]], [[throw away]], [[throw out]], [[toss]], [[trash]]
+- [[c/_chuck|chuck]], [[d/_discard|discard]], [[d/_ditch|ditch]], [[d/_dump|dump]], [[j/_junk|junk]], [[s/_scrap|scrap]], [[t/_toss|toss]], [[t/_trash|trash]]
 ---

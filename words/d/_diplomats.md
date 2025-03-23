@@ -5,5 +5,5 @@
 - **Someone who uses skill and tact in [[d/_dealing|dealing]] with other people**
 ---
 ### Synonyms
-- [[diplomatist]]
+- [[d/_diplomatist|diplomatist]]
 ---

@@ -5,11 +5,11 @@
 	- _Example: I drove an old crap car for ten years before buying a new one._
 ---
 ### Synonyms
-- [[bollocks]], [[lousy]], [[shit]], [[shite]]
+- [[b/_bollocks|bollocks]], [[l/_lousy|lousy]], [[s/_shit|shit]], [[s/_shite|shite]]
 #noun
 - **A [[c/_chamber|chamber]] pot or toilet, particularly a flush toilet by Thomas [[c/_crapper|Crapper]].**
 - **A lavatory or outhouse.**
 ---
 ### Synonyms
-- [[shitter]]
+- [[s/_shitter|shitter]]
 ---

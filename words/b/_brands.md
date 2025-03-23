@@ -6,7 +6,7 @@
 	- _Example: To burn something to brands and ashes._
 - **A torch used for signaling.**
 - **A sword.**
-- **A mark or scar made by [[b/_burning|burning]] with a hot iron, especially to mark [[c/_cattle|cattle]] or to [[c/_classify|classify]] the [[c/_contents|contents]] of a [[c/_cask|cask]].**
+- **A mark or scar made by [[b/_burning|burning]] with a hot iron, [[e/_especially|especially]] to mark [[c/_cattle|cattle]] or to [[c/_classify|classify]] the [[c/_contents|contents]] of a [[c/_cask|cask]].**
 - **A [[b/_branding|branding]] iron.**
 - **The symbolic identity, represented by a name and/or a logo, which indicates a [[c/_certain|certain]] product or service to the public.**
 - **A specific product, service, or provider so [[d/_distinguished|distinguished]].**
@@ -18,11 +18,11 @@
 - **[[a/_any|Any]] minute fungus producing a [[b/_burnt|burnt]] [[a/_appearance|appearance]] in plants.**
 ---
 ### Synonyms
-- [[brand name]], [[logo]], [[marque]], [[proprietary name]], [[trademark]], [[tradename]], [[good name]], [[name]], [[repute]]
+- [[l/_logo|logo]], [[m/_marque|marque]], [[t/_trademark|trademark]], [[t/_tradename|tradename]], [[n/_name|name]], [[r/_repute|repute]]
 #verb
-- **To [[b/_burn|burn]] the flesh with a hot iron, [[e/_either|either]] as a marker (for [[c/_criminals|criminals]], slaves etc.) or to [[c/_cauterise|cauterise]] a wound.**
+- **To [[b/_burn|burn]] the flesh with a hot iron, [[e/_either|either]] as a marker (for [[c/_criminals|criminals]], slaves [[e/_etc|etc]].) or to [[c/_cauterise|cauterise]] a wound.**
 	- _Example: When they caught him, he was branded and then locked up._
-- **To mark (especially [[c/_cattle|cattle]]) with a [[b/_brand|brand]] as proof of ownership.**
+- **To mark ([[e/_especially|especially]] [[c/_cattle|cattle]]) with a [[b/_brand|brand]] as proof of ownership.**
 	- _Example: The ranch hands had to brand every new calf by lunchtime._
 - **To make an indelible impression on the memory or senses.**
 	- _Example: Her face is branded upon my memory._

@@ -5,5 +5,5 @@
 - **The quality of an [[e/_embarrassing|embarrassing]] situation.**
 ---
 ### Synonyms
-- [[clumsiness]], [[clunkiness]], [[discomfiture]], [[inelegance]], [[ineptitude]], [[ineptness]]
+- [[c/_clumsiness|clumsiness]], [[c/_clunkiness|clunkiness]], [[d/_discomfiture|discomfiture]], [[i/_inelegance|inelegance]], [[i/_ineptitude|ineptitude]], [[i/_ineptness|ineptness]]
 ---

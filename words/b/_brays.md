@@ -5,5 +5,5 @@
 - **(by extension) [[a/_any|Any]] [[d/_discordant|discordant]], grating, or harsh sound.**
 ---
 ### Synonyms
-- [[hee-haw]]
+- [[h/_hee-haw|hee-haw]]
 ---

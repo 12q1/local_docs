@@ -11,7 +11,7 @@
 - **Reduction to lower terms, as a fraction.**
 ---
 ### Synonyms
-- [[abbreviature]], [[abridgement]], [[abstract]], [[compend]], [[compression]], [[condensation]], [[contraction]], [[curtailment]], [[epitome]], [[reduction]], [[shortcut]], [[summary]]
+- [[a/_abbreviature|abbreviature]], [[a/_abridgement|abridgement]], [[a/_abstract|abstract]], [[c/_compend|compend]], [[c/_compression|compression]], [[c/_condensation|condensation]], [[c/_contraction|contraction]], [[c/_curtailment|curtailment]], [[e/_epitome|epitome]], [[r/_reduction|reduction]], [[s/_shortcut|shortcut]], [[s/_summary|summary]]
 ### Antonyms
-- [[amplification]], [[dilation]], [[enlargement]], [[expansion]], [[expatiation]], [[extension]], [[production]]
+- [[a/_amplification|amplification]], [[d/_dilation|dilation]], [[e/_enlargement|enlargement]], [[e/_expansion|expansion]], [[e/_expatiation|expatiation]], [[e/_extension|extension]], [[p/_production|production]]
 ---

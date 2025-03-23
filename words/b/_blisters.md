@@ -11,5 +11,5 @@
 - **A [[c/_cause|cause]] of [[a/_annoyance|annoyance]]**
 ---
 ### Synonyms
-- [[bleb]]
+- [[b/_bleb|bleb]]
 ---

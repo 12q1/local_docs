@@ -4,5 +4,5 @@
 - **Someone who interferes with others; one who is nosy, intrusive or meddlesome.**
 ---
 ### Synonyms
-- [[kibitzer]], [[marplot]], [[meddler]], [[nosy parker]]
+- [[k/_kibitzer|kibitzer]], [[m/_marplot|marplot]], [[m/_meddler|meddler]]
 ---

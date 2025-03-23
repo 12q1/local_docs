@@ -5,5 +5,5 @@
 - **The [[a/_act|act]] of prevailing over [[a/_another|another]] by fraud or [[d/_deception|deception]]**
 ---
 ### Synonyms
-- [[deception]], [[delusion]], [[fraud]], [[imposture]]
+- [[d/_deception|deception]], [[d/_delusion|delusion]], [[f/_fraud|fraud]], [[i/_imposture|imposture]]
 ---

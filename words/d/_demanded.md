@@ -12,5 +12,5 @@
 - **To issue a summons to [[c/_court|court]].**
 ---
 ### Synonyms
-- [[frain]], [[call for]], [[insist]]
+- [[f/_frain|frain]], [[i/_insist|insist]]
 ---

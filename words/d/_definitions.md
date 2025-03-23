@@ -3,7 +3,7 @@
 #noun
 - **A statement of the meaning of a word or word group or a sign or symbol ([[d/_dictionary|dictionary]] [[d/_definitions|definitions]]).**
 - **(usually with the [[d/_definite|definite]] [[a/_article|article]] the) A [[c/_clear|clear]] instance [[c/_conforming|conforming]] to the [[d/_dictionary|dictionary]] or textbook [[d/_definition|definition]].**
-- **A statement expressing the essential nature of something; formulation**
+- **A statement expressing the [[e/_essential|essential]] nature of something; formulation**
 - **The [[a/_action|action]] or process of [[d/_defining|defining]].**
 - **The [[a/_act|act]] of [[d/_defining|defining]]; [[d/_determination|determination]] of the limits.**
 - **A product of [[d/_defining|defining]].**
@@ -11,11 +11,11 @@
 	- _Example: Her comic genius is beyond definition._
 - **[[c/_clarity|Clarity]] of visual presentation, [[d/_distinctness|distinctness]] of outline or [[d/_detail|detail]].**
 	- _Example: Improve the definition of an image._
-- **[[c/_clarity|Clarity]], especially of musical sound in reproduction.**
+- **[[c/_clarity|Clarity]], [[e/_especially|especially]] of musical sound in reproduction.**
 - **Sharp [[d/_demarcation|demarcation]] of outlines or limits.**
 	- _Example: A jacket with distinct waist definition._
 - **The [[d/_degree|degree]] to which individual muscles are [[d/_distinct|distinct]] on the [[b/_body|body]].**
 - **A statement which provides a previous [[d/_declaration|declaration]] with a value or [[b/_body|body]] of a subroutine (in the [[c/_case|case]] of function).**
-- **A statement that establishes the referent of a term or notation.**
+- **A statement that [[e/_establishes|establishes]] the referent of a term or notation.**
 ---
 ---

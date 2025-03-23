@@ -5,5 +5,5 @@
 - **To lure (someone), [[e/_either|either]] into a [[d/_dangerous|dangerous]] situation, or into performing an illegal [[a/_act|act]].**
 ---
 ### Synonyms
-- [[betrap]]
+- [[b/_betrap|betrap]]
 ---

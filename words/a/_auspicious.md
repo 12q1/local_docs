@@ -7,7 +7,7 @@
 - **Marked by success; prosperous.**
 ---
 ### Synonyms
-- [[favorable]], [[favourable]], [[fortunate]], [[lucky]], [[promising]], [[propitious]], [[fortunate]], [[lucky]]
+- [[f/_favorable|favorable]], [[f/_favourable|favourable]], [[f/_fortunate|fortunate]], [[l/_lucky|lucky]], [[p/_promising|promising]], [[p/_propitious|propitious]], [[f/_fortunate|fortunate]], [[l/_lucky|lucky]]
 ### Antonyms
-- [[disastrous]], [[inauspicious]], [[ominous]], [[ruinous]]
+- [[d/_disastrous|disastrous]], [[i/_inauspicious|inauspicious]], [[o/_ominous|ominous]], [[r/_ruinous|ruinous]]
 ---

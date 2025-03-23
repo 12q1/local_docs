@@ -7,5 +7,5 @@
 - **Short for share [[d/_dilution|dilution]].**
 ---
 ### Antonyms
-- [[concentration]]
+- [[c/_concentration|concentration]]
 ---

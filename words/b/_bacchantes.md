@@ -9,5 +9,5 @@
 - **A female [[b/_bacchanal|bacchanal]]**
 ---
 ### Synonyms
-- [[maenad]]
+- [[m/_maenad|maenad]]
 ---

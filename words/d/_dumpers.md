@@ -8,5 +8,5 @@
 - **A program that outputs the [[c/_contents|contents]] of storage or a [[d/_data|data]] structure.**
 ---
 ### Synonyms
-- [[break-upper]]
+- [[b/_break-upper|break-upper]]
 ---

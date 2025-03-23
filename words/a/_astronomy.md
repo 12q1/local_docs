@@ -5,5 +5,5 @@
 - **[[a/_astrology|Astrology]].**
 ---
 ### Synonyms
-- [[stargazing]]
+- [[s/_stargazing|stargazing]]
 ---

@@ -31,9 +31,9 @@
 	- _Example: Could you please repeat your last transmission? Another station was doubling with you._
 ---
 ### Synonyms
-- [[redouble]], [[facsimilize]]
+- [[r/_redouble|redouble]], [[f/_facsimilize|facsimilize]]
 ### Antonyms
-- [[halve]]
+- [[h/_halve|halve]]
 #noun
 - **The process or an instance of making something [[d/_double|double]]; a multiplication by two.**
 - **The [[a/_act|act]] of turning [[a/_around|around]], or [[d/_doubling|doubling]] [[b/_back|back]].**

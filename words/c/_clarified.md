@@ -13,5 +13,5 @@
 - **To glorify.**
 ---
 ### Synonyms
-- [[explicitize]], [[get something straight]]
+- [[e/_explicitize|explicitize]]
 ---

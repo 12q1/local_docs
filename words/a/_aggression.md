@@ -6,5 +6,5 @@
 - **Hostile or [[d/_destructive|destructive]] [[b/_behavior|behavior]] or [[a/_actions|actions]].**
 ---
 ### Antonyms
-- [[nonaggression]]
+- [[n/_nonaggression|nonaggression]]
 ---

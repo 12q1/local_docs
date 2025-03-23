@@ -4,7 +4,7 @@
 - **An [[a/_alveolar|alveolar]] [[c/_consonant|consonant]]**
 ---
 ### Synonyms
-- [[gingival]]
+- [[g/_gingival|gingival]]
 #adjective
 - **Of or relating to an [[a/_alveolus|alveolus]].**
 - **Relating to the jaw ridge [[c/_containing|containing]] the tooth sockets.**

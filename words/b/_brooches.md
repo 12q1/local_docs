@@ -5,5 +5,5 @@
 - **A painting [[a/_all|all]] of one [[c/_colour|colour]], such as a sepia painting.**
 ---
 ### Synonyms
-- [[breastpin]]
+- [[b/_breastpin|breastpin]]
 ---

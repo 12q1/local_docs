@@ -5,5 +5,5 @@
 	- _Example: Please don't enter my bedroom without knocking._
 ---
 ### Synonyms
-- [[sleeping pad]], [[sleeping quarters]]
+- 
 ---

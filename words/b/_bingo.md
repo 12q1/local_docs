@@ -7,7 +7,7 @@
 - **(Scrabble) A play where [[a/_all|all]] seven of a player's letter tiles are played.**
 ---
 ### Synonyms
-- [[housey-housey]], [[lotto]]
+- [[h/_housey-housey|housey-housey]], [[l/_lotto|lotto]]
 #verb
 - **To play the game of [[b/_bingo|bingo]].**
 - **To give the winning [[c/_cry|cry]] of "[[b/_bingo|bingo]]!" in a game.**
@@ -23,5 +23,5 @@
 - **Used to [[d/_declare|declare]] "You've just made my point!" or "My point exactly!"**
 ---
 ### Synonyms
-- [[house]], [[aha]], [[eureka]], [[got it]], [[that's it]], [[yes]]
+- [[h/_house|house]], [[a/_aha|aha]], [[e/_eureka|eureka]], [[y/_yes|yes]]
 ---

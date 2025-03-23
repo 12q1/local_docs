@@ -1,7 +1,7 @@
 # Analeptic
 ---
 #noun
-- **A restorative or stimulative medication, especially one used to overcome [[d/_depression|depression]].**
+- **A restorative or stimulative medication, [[e/_especially|especially]] one used to overcome [[d/_depression|depression]].**
 ---
 #adjective
 - **That restores or stimulates health.**

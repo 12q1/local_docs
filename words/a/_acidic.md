@@ -6,7 +6,7 @@
 - **Of or relating to [[a/_acid|acid]]; having the [[c/_character|character]] of an [[a/_acid|acid]].**
 ---
 ### Synonyms
-- [[acid]]
+- [[a/_acid|acid]]
 ### Antonyms
-- [[basic]]
+- [[b/_basic|basic]]
 ---

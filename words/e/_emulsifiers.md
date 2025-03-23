@@ -5,5 +5,5 @@
 	- _Example: The lecithin in egg yolks is often used as an emulsifier._
 ---
 ### Antonyms
-- [[de-emulsifier]]
+- [[d/_de-emulsifier|de-emulsifier]]
 ---

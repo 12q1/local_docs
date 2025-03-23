@@ -6,5 +6,5 @@
 - **(of things) Pertaining to, suited for or exhibiting [[c/_conversation|conversation]].**
 ---
 ### Synonyms
-- [[affable]], [[agreeable]], [[approachable]], [[genial]], [[sociable]], [[conversational]]
+- [[a/_affable|affable]], [[a/_agreeable|agreeable]], [[a/_approachable|approachable]], [[g/_genial|genial]], [[s/_sociable|sociable]], [[c/_conversational|conversational]]
 ---

@@ -12,15 +12,15 @@
 - **To know.**
 ---
 ### Synonyms
-- [[be able to]], [[cognize]], [[grok]], [[ken]], [[may]]
+- [[c/_cognize|cognize]], [[g/_grok|grok]], [[k/_ken|ken]], [[m/_may|may]]
 ### Antonyms
-- [[can't]], [[cannot]], [[can’t]]
+- [[c/_can't|can't]], [[c/_cannot|cannot]], [[c/_can’t|can’t]]
 #verb
 - **To seal in a [[c/_can|can]].**
 	- _Example: They canned air to sell as a novelty to tourists._
 - **To preserve by heating and sealing in a jar or [[c/_can|can]].**
 	- _Example: They spent August canning fruit and vegetables._
-- **To [[d/_discard|discard]], scrap or terminate (an idea, project, etc.).**
+- **To [[d/_discard|discard]], scrap or terminate (an idea, project, [[e/_etc|etc]].).**
 	- _Example: He canned the whole project because he thought it would fail._
 - **To shut up.**
 	- _Example: Can your gob._

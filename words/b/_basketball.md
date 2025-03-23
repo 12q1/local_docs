@@ -5,5 +5,5 @@
 - **The particular kind of [[b/_ball|ball]] used in the sport of [[b/_basketball|basketball]].**
 ---
 ### Synonyms
-- [[hoops]]
+- [[h/_hoops|hoops]]
 ---

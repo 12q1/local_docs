@@ -5,7 +5,7 @@
 	- _Example: He felt disquieted by the lack of interest the child had shown._
 ---
 ### Synonyms
-- [[unquiet]], [[unsettle]]
+- [[u/_unquiet|unquiet]], [[u/_unsettle|unsettle]]
 #noun
 - **The [[a/_act|act]] by which someone or something is [[d/_disquieted|disquieted]].**
 ---

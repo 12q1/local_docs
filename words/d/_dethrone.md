@@ -7,7 +7,7 @@
 - **To remove (something) from a position of power or paramount importance.**
 ---
 ### Synonyms
-- [[bring down]], [[depose]], [[divest]], [[overthrow]], [[depose]], [[discrown]], [[disenthrone]], [[uncrown]], [[unking]], [[unsceptre]], [[unthrone]]
+- [[d/_depose|depose]], [[d/_divest|divest]], [[o/_overthrow|overthrow]], [[d/_depose|depose]], [[d/_discrown|discrown]], [[d/_disenthrone|disenthrone]], [[u/_uncrown|uncrown]], [[u/_unking|unking]], [[u/_unsceptre|unsceptre]], [[u/_unthrone|unthrone]]
 ### Antonyms
-- [[coronate]], [[crown]], [[enthrone]], [[king]], [[empower]], [[install]], [[invest]], [[take office]]
+- [[c/_coronate|coronate]], [[c/_crown|crown]], [[e/_enthrone|enthrone]], [[k/_king|king]], [[e/_empower|empower]], [[i/_install|install]], [[i/_invest|invest]]
 ---

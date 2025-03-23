@@ -10,5 +10,5 @@
 - **To be stopped or slowed (as if) by [[b/_braking|braking]].**
 ---
 ### Antonyms
-- [[accelerate]], [[floor it]], [[put the pedal to the metal]], [[redline]]
+- [[a/_accelerate|accelerate]], [[r/_redline|redline]]
 ---

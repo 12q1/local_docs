@@ -8,7 +8,7 @@
 - **The page that replaces it.**
 ---
 #verb
-- **To [[c/_cross|cross]] out something with lines etc.**
+- **To [[c/_cross|cross]] out something with lines [[e/_etc|etc]].**
 - **To invalidate or [[a/_annul|annul]] something.**
 	- _Example: He cancelled his order on their website._
 - **To mark something (such as a used postage stamp) so that it [[c/_can|can]]'t be reused.**
@@ -23,5 +23,5 @@
 - **To [[c/_cease|cease]] to provide financial or moral support to (someone [[d/_deemed|deemed]] unacceptable). [[c/_compare|Compare]] [[c/_cancel|cancel]] [[c/_culture|culture]].**
 ---
 ### Synonyms
-- [[blacklist]], [[belay]], [[take care of]]
+- [[b/_blacklist|blacklist]], [[b/_belay|belay]]
 ---

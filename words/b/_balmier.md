@@ -7,5 +7,5 @@
 - **Foolish; slightly [[c/_crazy|crazy]] or mad; [[e/_eccentric|eccentric]].**
 ---
 ### Synonyms
-- [[barmy]]
+- [[b/_barmy|barmy]]
 ---

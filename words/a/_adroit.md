@@ -4,5 +4,5 @@
 - **[[d/_deft|Deft]], [[d/_dexterous|dexterous]], or skillful.**
 ---
 ### Antonyms
-- [[clumsy]], [[maladroit]]
+- [[c/_clumsy|clumsy]], [[m/_maladroit|maladroit]]
 ---

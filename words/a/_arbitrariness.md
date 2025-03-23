@@ -4,5 +4,5 @@
 - **The quality or state of [[b/_being|being]] [[a/_arbitrary|arbitrary]].**
 ---
 ### Synonyms
-- [[arbitrarity]]
+- [[a/_arbitrarity|arbitrarity]]
 ---

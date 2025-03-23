@@ -6,9 +6,9 @@
 	- _Example: The fire was devouring the building._
 - **To take in [[a/_avidly|avidly]] with the intellect or with one's gaze.**
 	- _Example: She intended to devour the book._
-- **To [[a/_absorb|absorb]] or [[e/_engross|engross]] the mind fully, especially in a [[d/_destructive|destructive]] manner.**
+- **To [[a/_absorb|absorb]] or [[e/_engross|engross]] the mind fully, [[e/_especially|especially]] in a [[d/_destructive|destructive]] manner.**
 	- _Example: After the death of his wife, he was devoured by grief._
 ---
 ### Synonyms
-- [[consume]], [[devastate]], [[gobble]], [[gorge]], [[overwhelm]], [[wolf]]
+- [[c/_consume|consume]], [[d/_devastate|devastate]], [[g/_gobble|gobble]], [[g/_gorge|gorge]], [[o/_overwhelm|overwhelm]], [[w/_wolf|wolf]]
 ---

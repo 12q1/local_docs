@@ -4,5 +4,5 @@
 - **(somewhat [[d/_derogatory|derogatory]]) A person who is habitually [[d/_drunk|drunk]].**
 ---
 ### Antonyms
-- [[on the wagon]], [[pioneer]], [[teetotaller]]
+- [[p/_pioneer|pioneer]], [[t/_teetotaller|teetotaller]]
 ---

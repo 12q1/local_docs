@@ -5,5 +5,5 @@
 	- _Example: They fear it might disadvantage honest participants to allow automated entries._
 ---
 ### Synonyms
-- [[tell against]]
+- 
 ---

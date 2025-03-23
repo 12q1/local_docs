@@ -1,7 +1,7 @@
 # Chimaera
 ---
 #noun
-- **A [[c/_cartilaginous|cartilaginous]] marine fish in the subclass Holocephali and especially the order Chimaeriformes, with a [[b/_blunt|blunt]] snout, long tail, and a spine [[b/_before|before]] the first [[d/_dorsal|dorsal]] fin**
+- **A [[c/_cartilaginous|cartilaginous]] marine fish in the subclass Holocephali and [[e/_especially|especially]] the order Chimaeriformes, with a [[b/_blunt|blunt]] snout, long tail, and a spine [[b/_before|before]] the first [[d/_dorsal|dorsal]] fin**
 ---
 #noun
 - **[[a/_alternative|Alternative]] letter-[[c/_case|case]] form of [[c/_chimera|Chimera]] (a flame-spewing monster often represented as having two heads, one of a goat and the other of a lion; the [[b/_body|body]] of a goat; and a serpent as a tail).**
@@ -11,10 +11,10 @@
 - **A foolish, incongruous, or vain thought or product of the imagination.**
 - **A grotesque like a gargoyle, but without a spout for rainwater.**
 - **An organism with genetically [[d/_distinct|distinct]] [[c/_cells|cells]] originating from two or more zygotes.**
-- **Usually [[c/_chimaera|chimaera]]: a [[c/_cartilaginous|cartilaginous]] marine fish in the subclass Holocephali and especially the order Chimaeriformes, with a [[b/_blunt|blunt]] snout, long tail, and a spine [[b/_before|before]] the first [[d/_dorsal|dorsal]] fin.**
+- **Usually [[c/_chimaera|chimaera]]: a [[c/_cartilaginous|cartilaginous]] marine fish in the subclass Holocephali and [[e/_especially|especially]] the order Chimaeriformes, with a [[b/_blunt|blunt]] snout, long tail, and a spine [[b/_before|before]] the first [[d/_dorsal|dorsal]] fin.**
 ---
 ### Synonyms
-- [[motley crew]], [[ghost shark]], [[rabbitfish]], [[ratfish]]
+- [[r/_rabbitfish|rabbitfish]], [[r/_ratfish|ratfish]]
 ### Antonyms
-- [[monolith]]
+- [[m/_monolith|monolith]]
 ---

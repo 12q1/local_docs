@@ -9,5 +9,5 @@
 	- _Example: A man or his business is embarrassed when he cannot meet his pecuniary engagements._
 ---
 ### Synonyms
-- [[abash]], [[discomfit]], [[disconcert]], [[humiliate]], [[shame]]
+- [[a/_abash|abash]], [[d/_discomfit|discomfit]], [[d/_disconcert|disconcert]], [[h/_humiliate|humiliate]], [[s/_shame|shame]]
 ---

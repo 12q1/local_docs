@@ -4,7 +4,7 @@
 - **Of or relating to [[a/_atheists|atheists]] or [[a/_atheism|atheism]]**
 ---
 ### Synonyms
-- [[atheistical]], [[atheous]], [[nontheistic]]
+- [[a/_atheistical|atheistical]], [[a/_atheous|atheous]], [[n/_nontheistic|nontheistic]]
 ### Antonyms
-- [[theistic]]
+- [[t/_theistic|theistic]]
 ---

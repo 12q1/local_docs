@@ -5,11 +5,11 @@
 	- _Example: I will give this act my assent._
 ---
 ### Synonyms
-- [[approval]], [[consent]], [[sanction]]
+- [[a/_approval|approval]], [[c/_consent|consent]], [[s/_sanction|sanction]]
 #verb
 - **To [[a/_agree|agree]]; to give [[a/_approval|approval]].**
 - **To [[a/_admit|admit]] a thing as true.**
 ---
 ### Synonyms
-- [[affirm]], [[allow]], [[astipulate]], [[aver]], [[soothe]], [[stipulate]], [[consent]]
+- [[a/_affirm|affirm]], [[a/_allow|allow]], [[a/_astipulate|astipulate]], [[a/_aver|aver]], [[s/_soothe|soothe]], [[s/_stipulate|stipulate]], [[c/_consent|consent]]
 ---

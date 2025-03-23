@@ -7,5 +7,5 @@
 - **A tortoiseshell and white [[d/_domestic|domestic]] [[c/_cat|cat]].**
 ---
 ### Synonyms
-- [[calico]]
+- [[c/_calico|calico]]
 ---

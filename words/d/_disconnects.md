@@ -5,10 +5,10 @@
 - **A switch used to isolate a portion of an [[e/_electrical|electrical]] [[c/_circuit|circuit]].**
 - **A lack of [[c/_connection|connection]] or [[a/_accord|accord]]; a mismatch.**
 	- _Example: There's a disconnect between what they think is happening and what is really going on._
-- **The [[d/_deliberate|deliberate]] severing of ties with family, friends, etc. [[c/_considered|considered]] [[a/_antagonistic|antagonistic]] towards Scientology.**
+- **The [[d/_deliberate|deliberate]] severing of ties with family, friends, [[e/_etc|etc]]. [[c/_considered|considered]] [[a/_antagonistic|antagonistic]] towards Scientology.**
 ---
 ### Synonyms
-- [[disconnector]]
+- [[d/_disconnector|disconnector]]
 ### Antonyms
-- [[connect]]
+- [[c/_connect|connect]]
 ---

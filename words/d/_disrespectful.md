@@ -5,5 +5,5 @@
 - **Irrespective, heedless, regardless**
 ---
 ### Antonyms
-- [[respectful]]
+- [[r/_respectful|respectful]]
 ---

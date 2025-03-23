@@ -6,5 +6,5 @@
 - **Expressing gloom or melancholy; sullenly unhappy.**
 ---
 ### Synonyms
-- [[dejected]], [[gloomy]], [[melancholic]], [[sullen]], [[forbidding]], [[harsh]], [[severe]], [[stern]], [[obstinate]], [[stubborn]], [[unyielding]]
+- [[d/_dejected|dejected]], [[g/_gloomy|gloomy]], [[m/_melancholic|melancholic]], [[s/_sullen|sullen]], [[f/_forbidding|forbidding]], [[h/_harsh|harsh]], [[s/_severe|severe]], [[s/_stern|stern]], [[o/_obstinate|obstinate]], [[s/_stubborn|stubborn]], [[u/_unyielding|unyielding]]
 ---

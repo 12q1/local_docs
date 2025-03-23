@@ -5,5 +5,5 @@
 - **[[c/_crabbed|Crabbed]]; [[d/_difficult|difficult]], or perplexing.**
 ---
 ### Synonyms
-- [[ratty]]
+- [[r/_ratty|ratty]]
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[a/_already|Already]]-produced [[d/_durable|durable]] goods [[a/_available|available]] for use as a factor of production, such as steam shovels ([[e/_equipment|equipment]]) and office [[b/_buildings|buildings]] (structures).**
-- **Money and wealth. The means to [[a/_acquire|acquire]] goods and services, especially in a non-[[b/_barter|barter]] system.**
+- **Money and wealth. The means to [[a/_acquire|acquire]] goods and services, [[e/_especially|especially]] in a non-[[b/_barter|barter]] system.**
 	- _Example: He does not have enough capital to start a business._
 - **A [[c/_city|city]] [[d/_designated|designated]] as a legislative seat by the government or some other [[a/_authority|authority]], often the [[c/_city|city]] in which the government is located; otherwise the most important [[c/_city|city]] within a [[c/_country|country]] or a subdivision of it.**
 	- _Example: The Welsh government claims that Cardiff is Europe’s youngest capital._
@@ -14,9 +14,9 @@
 - **(by extension) The [[c/_chief|chief]] or most important thing.**
 ---
 ### Synonyms
-- [[caps]], [[majuscule]]
+- [[c/_caps|caps]], [[m/_majuscule|majuscule]]
 ### Antonyms
-- [[minuscule]]
+- [[m/_minuscule|minuscule]]
 #adjective
 - **Of prime importance.**
 - **[[c/_chief|Chief]], in a political sense, as [[b/_being|being]] the seat of the general government of a state or nation.**
@@ -29,5 +29,5 @@
 - **Of or relating to the head.**
 ---
 ### Antonyms
-- [[lower-case]]
+- [[l/_lower-case|lower-case]]
 ---

@@ -5,5 +5,5 @@
 - **A [[b/_bookseller|bookseller]]**
 ---
 ### Synonyms
-- [[accountant]]
+- [[a/_accountant|accountant]]
 ---

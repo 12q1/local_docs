@@ -6,5 +6,5 @@
 - **The [[c/_crucifixion|crucifixion]] of Jesus viewed as a [[c/_crime|crime]].**
 ---
 ### Synonyms
-- [[godkiller]]
+- [[g/_godkiller|godkiller]]
 ---

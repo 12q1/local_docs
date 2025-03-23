@@ -9,5 +9,5 @@
 - **Scandalous.**
 ---
 ### Synonyms
-- [[backstair]]
+- [[b/_backstair|backstair]]
 ---

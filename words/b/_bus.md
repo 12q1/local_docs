@@ -6,7 +6,7 @@
 - **(medical industry) An [[a/_ambulance|ambulance]].**
 ---
 ### Synonyms
-- [[busbar]], [[digit trunk]], [[electrical bus]], [[autobus]], [[coach]], [[loser cruiser]], [[motorbus]], [[multibus]], [[omnibus]]
+- [[b/_busbar|busbar]], [[a/_autobus|autobus]], [[c/_coach|coach]], [[m/_motorbus|motorbus]], [[m/_multibus|multibus]], [[o/_omnibus|omnibus]]
 #verb
 - **To transport via a motor [[b/_bus|bus]].**
 - **To transport students to school, often to a more [[d/_distant|distant]] school for the purposes of [[a/_achieving|achieving]] racial integration.**

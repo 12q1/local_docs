@@ -12,9 +12,9 @@
 - **To separate, part.**
 ---
 ### Synonyms
-- [[deviate]], [[digress]], [[diverge]], [[sidetrack]], [[straggle]], [[vary]], [[leave]]
+- [[d/_deviate|deviate]], [[d/_digress|digress]], [[d/_diverge|diverge]], [[s/_sidetrack|sidetrack]], [[s/_straggle|straggle]], [[v/_vary|vary]], [[l/_leave|leave]]
 ### Antonyms
-- [[arrive]], [[come]], [[stay]], [[conform]], [[live]]
+- [[a/_arrive|arrive]], [[c/_come|come]], [[s/_stay|stay]], [[c/_conform|conform]], [[l/_live|live]]
 #noun
 - **The [[a/_act|act]] by which somebody or something [[d/_departs|departs]].**
 ---

@@ -11,5 +11,5 @@
 - **A [[d/_duel|duel]] fought [[b/_between|between]] individual Scots and [[e/_englishmen|Englishmen]] in the [[b/_borderlands|borderlands]].**
 ---
 ### Synonyms
-- [[morgen]], [[feddan]], [[arpen]], [[arpent]], [[pose]], [[bigha]], [[cawney]], [[cawny]], [[Irish acre]], [[collop]], [[plantation acre]], [[juger]], [[jugerum]], [[Scotch acre]], [[Scots acre]], [[Scottish acre]], [[acair]], [[Welsh acre]], [[cover]], [[cyfair]], [[erw]], [[stang]], [[day's math]], [[demath]]
+- [[m/_morgen|morgen]], [[f/_feddan|feddan]], [[a/_arpen|arpen]], [[a/_arpent|arpent]], [[p/_pose|pose]], [[b/_bigha|bigha]], [[c/_cawney|cawney]], [[c/_cawny|cawny]], [[c/_collop|collop]], [[j/_juger|juger]], [[j/_jugerum|jugerum]], [[a/_acair|acair]], [[c/_cover|cover]], [[c/_cyfair|cyfair]], [[e/_erw|erw]], [[s/_stang|stang]], [[d/_demath|demath]]
 ---

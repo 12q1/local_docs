@@ -7,10 +7,10 @@
 - **To [[c/_cease|cease]] to [[b/_believe|believe]].**
 ---
 ### Antonyms
-- [[believe]]
+- [[b/_believe|believe]]
 #adjective
 - **Not [[b/_believed|believed]]; [[d/_discounted|discounted]]; ignored**
 ---
 ### Synonyms
-- [[discredited]]
+- [[d/_discredited|discredited]]
 ---

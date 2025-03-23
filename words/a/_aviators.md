@@ -6,5 +6,5 @@
 - **A flying machine.**
 ---
 ### Synonyms
-- [[flier]], [[flyer]]
+- [[f/_flier|flier]], [[f/_flyer|flyer]]
 ---

@@ -1,6 +1,6 @@
 # Begad
 ---
 #interjection
-- **An expression of surprise, shock etc.**
+- **An expression of surprise, shock [[e/_etc|etc]].**
 ---
 ---

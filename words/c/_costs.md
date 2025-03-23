@@ -6,11 +6,11 @@
 - **To [[c/_cause|cause]] something to be lost; to [[c/_cause|cause]] the expenditure or relinquishment of.**
 	- _Example: Trying to rescue the man from the burning building cost them their lives._
 - **To require to be [[b/_borne|borne]] or suffered; to [[c/_cause|cause]].**
-- **To [[c/_calculate|calculate]] or estimate a price.**
+- **To [[c/_calculate|calculate]] or [[e/_estimate|estimate]] a price.**
 	- _Example: I'd cost the repair work at a few thousand._
 ---
 #noun
-- **[[a/_amount|Amount]] of money, time, etc. that is required or used.**
+- **[[a/_amount|Amount]] of money, time, [[e/_etc|etc]]. that is required or used.**
 	- _Example: The average cost of a new house is twice as much as it was 20 years ago._
 - **A negative [[c/_consequence|consequence]] or loss that occurs or is required to occur.**
 	- _Example: Spending all your time working may earn you a lot of money at the cost of your health._

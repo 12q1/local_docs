@@ -20,7 +20,7 @@
 - **[[a/_any|Any]] intellectual [[c/_construct|construct]] produced through the technique of [[a/_abstraction|abstraction]].**
 ---
 ### Synonyms
-- [[universalization]]
+- [[u/_universalization|universalization]]
 ### Antonyms
-- [[concretization]], [[specialization]]
+- [[c/_concretization|concretization]], [[s/_specialization|specialization]]
 ---

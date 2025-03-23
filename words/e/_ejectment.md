@@ -5,5 +5,5 @@
 - **(generally) A [[c/_casting|casting]] out, an [[e/_ejection|ejection]].**
 ---
 ### Synonyms
-- [[ejection]]
+- [[e/_ejection|ejection]]
 ---

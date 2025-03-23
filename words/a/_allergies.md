@@ -7,5 +7,5 @@
 - **An [[a/_antipathy|antipathy]], as toward a person or [[a/_activity|activity]].**
 ---
 ### Synonyms
-- [[type 1 hypersensitivity]], [[intolerance]]
+- [[i/_intolerance|intolerance]]
 ---

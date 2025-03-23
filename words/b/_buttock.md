@@ -5,5 +5,5 @@
 - **The [[c/_convexity|convexity]] of a ship [[b/_behind|behind]], under the stern.**
 ---
 ### Synonyms
-- [[arsecheek]], [[asscheek]], [[bum-cheek]], [[butt-cheek]], [[cheek]], [[ham]], [[hurdies]], [[mound]]
+- [[a/_arsecheek|arsecheek]], [[a/_asscheek|asscheek]], [[b/_bum-cheek|bum-cheek]], [[b/_butt-cheek|butt-cheek]], [[c/_cheek|cheek]], [[h/_ham|ham]], [[h/_hurdies|hurdies]], [[m/_mound|mound]]
 ---

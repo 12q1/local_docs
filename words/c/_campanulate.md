@@ -4,5 +4,5 @@
 - **Shaped like a [[b/_bell|bell]].**
 ---
 ### Synonyms
-- [[bell-shaped]]
+- [[b/_bell-shaped|bell-shaped]]
 ---

@@ -4,5 +4,5 @@
 - **The steroid hormone hydrocortisone.**
 ---
 ### Synonyms
-- [[hydrocortisone]]
+- [[h/_hydrocortisone|hydrocortisone]]
 ---

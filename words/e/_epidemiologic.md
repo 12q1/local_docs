@@ -4,5 +4,5 @@
 - **Of or pertaining to [[e/_epidemiology|epidemiology]].**
 ---
 ### Synonyms
-- [[epidemiological]]
+- [[e/_epidemiological|epidemiological]]
 ---

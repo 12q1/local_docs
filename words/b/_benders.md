@@ -13,5 +13,5 @@
 - **Something exceptional.**
 ---
 ### Synonyms
-- [[binge]], [[spree]], [[toot]], [[bender tent]]
+- [[b/_binge|binge]], [[s/_spree|spree]], [[t/_toot|toot]]
 ---

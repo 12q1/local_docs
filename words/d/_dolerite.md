@@ -4,5 +4,5 @@
 - **A fine-grained [[b/_basaltic|basaltic]] rock**
 ---
 ### Synonyms
-- [[diabase]]
+- [[d/_diabase|diabase]]
 ---

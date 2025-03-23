@@ -5,5 +5,5 @@
 - **An unusual mannerism.**
 ---
 ### Synonyms
-- [[eccentricity]], [[mannerism]]
+- [[e/_eccentricity|eccentricity]], [[m/_mannerism|mannerism]]
 ---

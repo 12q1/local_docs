@@ -10,7 +10,7 @@
 - **(US [[c/_chicago|Chicago]] Regional) Heroin.**
 ---
 ### Synonyms
-- [[snow]]
+- [[s/_snow|snow]]
 #verb
 - **To produce an [[a/_air|air]] [[c/_current|current]].**
 - **To propel by an [[a/_air|air]] [[c/_current|current]].**
@@ -42,9 +42,9 @@
 	- _Example: I blew $35 thou on a car._
 - **To fellate; to perform oral sex on (usually a man)**
 	- _Example: Who did you have to blow to get those backstage passes?_
-- **To leave, especially suddenly or in a hurry.**
+- **To leave, [[e/_especially|especially]] suddenly or in a hurry.**
 	- _Example: Let's blow this joint._
-- **To make flyblown, to [[d/_defile|defile]], especially with fly [[e/_eggs|eggs]].**
+- **To make flyblown, to [[d/_defile|defile]], [[e/_especially|especially]] with fly [[e/_eggs|eggs]].**
 - **To spread by report; to publish; to [[d/_disclose|disclose]].**
 - **To inflate, as with pride; to puff up.**
 - **To [[b/_breathe|breathe]] hard or quick; to pant; to puff.**
@@ -63,7 +63,7 @@
 	- _Example: A further blow to the group came in 1917 when Thomson died while canoeing in Algonquin Park._
 ---
 ### Synonyms
-- [[bace]], [[hit]], [[punch]], [[strike]], [[calamity]], [[disaster]]
+- [[b/_bace|bace]], [[h/_hit|hit]], [[p/_punch|punch]], [[s/_strike|strike]], [[c/_calamity|calamity]], [[d/_disaster|disaster]]
 #noun
 - **A mass or [[d/_display|display]] of flowers; a yield.**
 - **A [[d/_display|display]] of [[a/_anything|anything]] [[b/_brilliant|brilliant]] or [[b/_bright|bright]].**

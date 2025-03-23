@@ -7,7 +7,7 @@
 - **To [[b/_become|become]] free or untangled.**
 ---
 ### Synonyms
-- [[untangle]]
+- [[u/_untangle|untangle]]
 #noun
 - **A [[d/_disentanglement|disentanglement]].**
 ---

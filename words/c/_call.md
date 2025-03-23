@@ -30,7 +30,7 @@
 - **A pipe or other instrument to [[c/_call|call]] [[b/_birds|birds]] or [[a/_animals|animals]] by imitating their note or [[c/_cry|cry]]. A game [[c/_call|call]].**
 - **An invitation to take [[c/_charge|charge]] of or serve a [[c/_church|church]] as its pastor.**
 - **Vocation; [[e/_employment|employment]]; [[c/_calling|calling]].**
-- **A reference to, or statement of, an object, [[c/_course|course]], [[d/_distance|distance]], or other matter of [[d/_description|description]] in a survey or grant requiring or [[c/_calling|calling]] for a [[c/_corresponding|corresponding]] object, etc., on the land.**
+- **A reference to, or statement of, an object, [[c/_course|course]], [[d/_distance|distance]], or other matter of [[d/_description|description]] in a survey or grant requiring or [[c/_calling|calling]] for a [[c/_corresponding|corresponding]] object, [[e/_etc|etc]]., on the land.**
 - **(prostitution) A meeting with a [[c/_client|client]] for paid sex; hookup; job.**
 ---
 #verb
@@ -46,5 +46,5 @@
 	- _Example: A recursive function is one that calls itself._
 ---
 ### Synonyms
-- [[drop a line]], [[ring]], [[holler]], [[yell]], [[designate]], [[dub]], [[name]], [[augur]], [[foretell]], [[wake up]]
+- [[r/_ring|ring]], [[h/_holler|holler]], [[y/_yell|yell]], [[d/_designate|designate]], [[d/_dub|dub]], [[n/_name|name]], [[a/_augur|augur]], [[f/_foretell|foretell]]
 ---

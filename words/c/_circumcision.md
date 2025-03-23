@@ -6,5 +6,5 @@
 - **(sometimes proscribed) The surgical removal of the [[c/_clitoris|clitoris]]; [[c/_clitoridectomy|clitoridectomy]], usually referred to as female genital mutilation**
 ---
 ### Synonyms
-- [[circ]]
+- [[c/_circ|circ]]
 ---

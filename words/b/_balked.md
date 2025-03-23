@@ -15,7 +15,7 @@
 - **To leave heaped up; to heap up in piles.**
 ---
 ### Synonyms
-- [[avoid]], [[refuse]], [[shirk]], [[shun]], [[baffle]], [[foil]], [[frustrate]], [[thwart]], [[miss]], [[overlook]]
+- [[a/_avoid|avoid]], [[r/_refuse|refuse]], [[s/_shirk|shirk]], [[s/_shun|shun]], [[b/_baffle|baffle]], [[f/_foil|foil]], [[f/_frustrate|frustrate]], [[t/_thwart|thwart]], [[m/_miss|miss]], [[o/_overlook|overlook]]
 #verb
 - **To indicate to fishermen, by shouts or signals from shore, the [[d/_direction|direction]] taken by the shoals of herring.**
 ---

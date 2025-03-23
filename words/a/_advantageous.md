@@ -4,5 +4,5 @@
 - **[[b/_being|Being]] of [[a/_advantage|advantage]], [[b/_beneficial|beneficial]].**
 ---
 ### Synonyms
-- [[behooveful]], [[furthersome]], [[gainful]], [[profitable]], [[useful]]
+- [[b/_behooveful|behooveful]], [[f/_furthersome|furthersome]], [[g/_gainful|gainful]], [[p/_profitable|profitable]], [[u/_useful|useful]]
 ---

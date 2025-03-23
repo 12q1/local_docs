@@ -6,7 +6,7 @@
 - **The vivid red [[c/_color|color]] of this [[d/_dye|dye]].**
 ---
 ### Synonyms
-- [[E120]]
+- [[E/_E120|E120]]
 #adjective
 - **Possessing a vivid red [[c/_color|color]], as produced from [[d/_dying|dying]] with [[c/_cochineal|cochineal]].**
 ---

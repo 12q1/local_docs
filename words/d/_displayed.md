@@ -9,7 +9,7 @@
 - **To spread out, to unfurl.**
 ---
 ### Synonyms
-- [[splay]]
+- [[s/_splay|splay]]
 #adjective
 - **Spread out; unfurled.**
 - **Spread open to view; shown off.**

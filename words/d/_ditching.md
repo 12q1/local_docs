@@ -1,7 +1,7 @@
 # Ditching
 ---
 #verb
-- **To smear, [[d/_daub|daub]], plaster, or impregnate, especially with [[d/_dirt|dirt]] which [[b/_becomes|becomes]] hard and ingrained.**
+- **To smear, [[d/_daub|daub]], plaster, or impregnate, [[e/_especially|especially]] with [[d/_dirt|dirt]] which [[b/_becomes|becomes]] hard and ingrained.**
 ---
 #verb
 - **To [[d/_discard|discard]] or [[a/_abandon|abandon]].**
@@ -18,7 +18,7 @@
 	- _Example: The engine was ditched and turned on its side._
 ---
 ### Synonyms
-- [[abandon]], [[discard]], [[dump]], [[jettison]], [[lose]], [[shed]]
+- [[a/_abandon|abandon]], [[d/_discard|discard]], [[d/_dump|dump]], [[j/_jettison|jettison]], [[l/_lose|lose]], [[s/_shed|shed]]
 #noun
 - **A [[d/_deliberate|deliberate]] [[c/_crash|crash]] landing on the sea.**
 ---

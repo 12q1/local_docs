@@ -12,7 +12,7 @@
 - **A universe or plane of existence.**
 ---
 ### Synonyms
-- [[aspect]], [[attribute]], [[property]], [[magnitude]], [[proportion]], [[scope]], [[size]]
+- [[a/_aspect|aspect]], [[a/_attribute|attribute]], [[p/_property|property]], [[m/_magnitude|magnitude]], [[p/_proportion|proportion]], [[s/_scope|scope]], [[s/_size|size]]
 #verb
 - **To mark, [[c/_cut|cut]] or shape something to specified [[d/_dimensions|dimensions]].**
 ---

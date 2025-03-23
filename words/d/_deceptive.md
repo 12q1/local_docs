@@ -5,5 +5,5 @@
 	- _Example: Appearances can be deceptive._
 ---
 ### Synonyms
-- [[misleading]]
+- [[m/_misleading|misleading]]
 ---

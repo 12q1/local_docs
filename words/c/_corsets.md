@@ -6,7 +6,7 @@
 - **A regulation that limited the growth of [[b/_british|British]] [[b/_banks|banks]]' interest-[[b/_bearing|bearing]] [[d/_deposits|deposits]].**
 ---
 ### Synonyms
-- [[bodice]], [[stays]], [[underbodice]]
+- [[b/_bodice|bodice]], [[s/_stays|stays]], [[u/_underbodice|underbodice]]
 #verb
 - **To [[e/_enclose|enclose]] in a [[c/_corset|corset]]; to wear a [[c/_corset|corset]].**
 	- _Example: Mabel dreaded the upcoming ball and the preliminary corseting it would entail._

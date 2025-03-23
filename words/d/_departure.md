@@ -13,7 +13,7 @@
 - **[[d/_division|Division]]; separation; putting [[a/_away|away]].**
 ---
 ### Synonyms
-- [[leaving]]
+- [[l/_leaving|leaving]]
 ### Antonyms
-- [[arrival]]
+- [[a/_arrival|arrival]]
 ---

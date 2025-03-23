@@ -5,7 +5,7 @@
 - **The owner of a [[c/_considerable|considerable]] [[a/_amount|amount]] of [[c/_capital|capital]]; a wealthy person.**
 ---
 ### Synonyms
-- [[businessman]], [[captain of industry]], [[financier]], [[magnate]], [[tycoon]], [[economic liberal]], [[liberal]]
+- [[b/_businessman|businessman]], [[f/_financier|financier]], [[m/_magnate|magnate]], [[t/_tycoon|tycoon]], [[l/_liberal|liberal]]
 #adjective
 - **Of, or pertaining to, [[c/_capitalism|capitalism]].**
 	- _Example: capitalist countries_
@@ -13,5 +13,5 @@
 	- _Example: capitalist warriors_
 ---
 ### Synonyms
-- [[capitalistic]]
+- [[c/_capitalistic|capitalistic]]
 ---

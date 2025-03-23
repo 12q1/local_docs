@@ -9,5 +9,5 @@
 - **A freshwater fish of [[c/_central|central]] North [[a/_america|America]], the freshwater [[d/_drum|drum]], Aplodinotus grunniens; so [[c/_called|called]] from the noise it makes.**
 ---
 ### Synonyms
-- [[bubbler bong]], [[drinking fountain]], [[water fountain]]
+- 
 ---

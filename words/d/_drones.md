@@ -8,7 +8,7 @@
 	- _Example: One team member launched a camera drone over the Third Pole._
 ---
 ### Synonyms
-- [[UAS]], [[UAV]], [[drudge]]
+- [[U/_UAS|UAS]], [[U/_UAV|UAV]], [[d/_drudge|drudge]]
 #noun
 - **A low-pitched hum or [[b/_buzz|buzz]].**
 - **One of the fixed-pitch pipes on a [[b/_bagpipe|bagpipe]].**

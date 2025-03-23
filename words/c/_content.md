@@ -12,7 +12,7 @@
 - **Satisfied**
 ---
 ### Synonyms
-- [[contented]], [[pleased]], [[satisfied]]
+- [[c/_contented|contented]], [[p/_pleased|pleased]], [[s/_satisfied|satisfied]]
 #interjection
 - **[[a/_alright|Alright]], [[a/_agreed|agreed]]**
 ---

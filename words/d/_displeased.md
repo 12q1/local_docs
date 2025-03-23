@@ -7,9 +7,9 @@
 - **To fail to satisfy; to miss of.**
 ---
 ### Synonyms
-- [[misplease]]
+- [[m/_misplease|misplease]]
 ### Antonyms
-- [[please]]
+- [[p/_please|please]]
 #adjective
 - **Not pleased or happy with something.**
 	- _Example: a displeased customer_

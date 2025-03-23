@@ -4,7 +4,7 @@
 - **To [[d/_deprive|deprive]] someone of a franchise, generally their right to vote**
 ---
 ### Synonyms
-- [[disfranchise]]
+- [[d/_disfranchise|disfranchise]]
 ### Antonyms
-- [[enfranchise]]
+- [[e/_enfranchise|enfranchise]]
 ---

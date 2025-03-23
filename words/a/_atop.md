@@ -9,5 +9,5 @@
 - **On the top, with "of".**
 ---
 ### Synonyms
-- [[on top]], [[ontop]]
+- [[o/_ontop|ontop]]
 ---

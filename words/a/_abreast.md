@@ -18,7 +18,7 @@
 - **At the same time; simultaneously.**
 ---
 ### Synonyms
-- [[apprised]], [[up to date]], [[up-to-date]]
+- [[a/_apprised|apprised]], [[u/_up-to-date|up-to-date]]
 #preposition
 - **[[a/_abreast|Abreast]] of; [[a/_alongside|alongside]].**
 	- _Example: This ship sank abreast the island._

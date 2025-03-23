@@ -11,9 +11,9 @@
 - **An [[a/_adulterous|adulterous]] relationship. (from [[a/_affaire|affaire]] [[d/_de|de]] [[c/_c|c]]œur).**
 - **A romantic relationship with someone who is not one's regular partner ([[b/_boyfriend|boyfriend]], girlfriend).**
 - **A person with whom someone has an [[a/_adulterous|adulterous]] relationship.**
-- **A party or social gathering, especially of a formal nature.**
+- **A party or social gathering, [[e/_especially|especially]] of a formal nature.**
 - **The (male or female) genitals.**
 ---
 ### Synonyms
-- [[concern]], [[matter]]
+- [[c/_concern|concern]], [[m/_matter|matter]]
 ---

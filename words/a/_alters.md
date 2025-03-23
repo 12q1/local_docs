@@ -13,6 +13,6 @@
 - **To [[a/_affect|affect]] mentally, as by psychotropic [[d/_drugs|drugs]] or illness.**
 ---
 #noun
-- **(especially in the plural) An identity or headmate of a person with [[d/_dissociative|dissociative]] identity [[d/_disorder|disorder]] (previously known as multiple personality [[d/_disorder|disorder]]).**
+- **([[e/_especially|especially]] in the plural) An identity or headmate of a person with [[d/_dissociative|dissociative]] identity [[d/_disorder|disorder]] (previously known as multiple personality [[d/_disorder|disorder]]).**
 ---
 ---

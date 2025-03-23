@@ -4,5 +4,5 @@
 - **[[c/_containing|Containing]] a horny substance; horny**
 ---
 ### Synonyms
-- [[horny]]
+- [[h/_horny|horny]]
 ---

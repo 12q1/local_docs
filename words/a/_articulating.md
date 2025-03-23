@@ -8,7 +8,7 @@
 	- _Example: I like this painting, but I can’t articulate why._
 - **To [[b/_bend|bend]] or hinge something at intervals, or to [[a/_allow|allow]] or [[b/_build|build]] something so that it [[c/_can|can]] [[b/_bend|bend]].**
 	- _Example: an articulated bus_
-- **To [[a/_attack|attack]] a note, as by tonguing, slurring, [[b/_bowing|bowing]], etc.**
+- **To [[a/_attack|attack]] a note, as by tonguing, slurring, [[b/_bowing|bowing]], [[e/_etc|etc]].**
 	- _Example: Articulate that passage heavily._
 - **To form a joint or [[c/_connect|connect]] by joints**
 	- _Example: The lower jaw articulates with the skull at the temporomandibular joint._

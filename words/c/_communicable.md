@@ -6,5 +6,5 @@
 - **Talkative or expansive.**
 ---
 ### Antonyms
-- [[incommunicable]]
+- [[i/_incommunicable|incommunicable]]
 ---

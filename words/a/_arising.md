@@ -9,7 +9,7 @@
 	- _Example: A cloud arose and covered the sun._
 ---
 ### Synonyms
-- [[rise]], [[spring]], [[stand up]], [[awaken]], [[come about]], [[come to pass]], [[occur]], [[appear]], [[emerge]], [[originate]], [[pop up]], [[reappear]], [[surface]]
+- [[r/_rise|rise]], [[s/_spring|spring]], [[a/_awaken|awaken]], [[o/_occur|occur]], [[a/_appear|appear]], [[e/_emerge|emerge]], [[o/_originate|originate]], [[r/_reappear|reappear]], [[s/_surface|surface]]
 #noun
 - **The process by which something [[a/_arises|arises]]; origination; occurrence.**
 ---

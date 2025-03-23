@@ -8,5 +8,5 @@
 	- _Example: The electorate of Finchley borders on the electorate of Much-Binding-in-the-Marsh, splitting the new housing estate of Royal Cupolas._
 ---
 ### Synonyms
-- [[constituency]], [[constituency]], [[district]], [[division]], [[electoral district]], [[riding]], [[seat]], [[ward]]
+- [[c/_constituency|constituency]], [[c/_constituency|constituency]], [[d/_district|district]], [[d/_division|division]], [[r/_riding|riding]], [[s/_seat|seat]], [[w/_ward|ward]]
 ---

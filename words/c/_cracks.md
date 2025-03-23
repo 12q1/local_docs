@@ -39,7 +39,7 @@
 	- _Example: I'll be with you in a crack._
 ---
 ### Synonyms
-- [[crackpot]], [[crack cocaine]], [[arse]], [[ass]], [[bum]]
+- [[c/_crackpot|crackpot]], [[a/_arse|arse]], [[a/_ass|ass]], [[b/_bum|bum]]
 #verb
 - **To form [[c/_cracks|cracks]].**
 	- _Example: It's been so dry, the ground is starting to crack._
@@ -47,7 +47,7 @@
 	- _Example: When I tried to stand on the chair, it cracked._
 - **To [[b/_become|become]] [[d/_debilitated|debilitated]] by psychological pressure.**
 	- _Example: Anyone would crack after being hounded like that._
-- **To [[b/_break|break]] [[d/_down|down]] or yield, especially under interrogation or torture.**
+- **To [[b/_break|break]] [[d/_down|down]] or yield, [[e/_especially|especially]] under interrogation or torture.**
 	- _Example: When we showed him the pictures of the murder scene, he cracked._
 - **To make a [[c/_cracking|cracking]] sound.**
 	- _Example: The bat cracked with authority and the ball went for six._
@@ -75,7 +75,7 @@
 	- _Example: to crack a whip_
 - **To tell (a joke).**
 	- _Example: The performance was fine until he cracked that dead baby joke._
-- **To [[b/_break|break]] [[d/_down|down]] (a [[c/_complex|complex]] molecule), especially with the [[a/_application|application]] of heat: to pyrolyse.**
+- **To [[b/_break|break]] [[d/_down|down]] (a [[c/_complex|complex]] molecule), [[e/_especially|especially]] with the [[a/_application|application]] of heat: to pyrolyse.**
 	- _Example: Acetone is cracked to ketene and methane at 700°C._
 - **To [[c/_circumvent|circumvent]] software restrictions such as regional [[c/_coding|coding]] or time limits.**
 	- _Example: That software licence will expire tomorrow unless we can crack it._

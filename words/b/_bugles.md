@@ -7,12 +7,12 @@
 - **[[a/_anything|Anything]] shaped like a [[b/_bugle|bugle]], round or [[c/_conical|conical]] and having a [[b/_bell|bell]] on one [[e/_end|end]].**
 ---
 ### Synonyms
-- [[cone]], [[funnel]], [[bugleweed]], [[carpet bugle]], [[ground pine]]
+- [[c/_cone|cone]], [[f/_funnel|funnel]], [[b/_bugleweed|bugleweed]]
 #verb
 - **To [[a/_announce|announce]], sing, or [[c/_cry|cry]] in the manner of a musical [[b/_bugle|bugle]]**
 ---
 ### Synonyms
-- [[trumpet]]
+- [[t/_trumpet|trumpet]]
 #noun
 - **A tubular glass or plastic [[b/_bead|bead]] sewn onto [[c/_clothes|clothes]] as a [[d/_decorative|decorative]] trim**
 ---

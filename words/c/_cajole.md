@@ -1,8 +1,8 @@
 # Cajole
 ---
 #verb
-- **To persuade someone to [[d/_do|do]] something which they are reluctant to [[d/_do|do]], especially by flattery or promises; to [[c/_coax|coax]].**
+- **To persuade someone to [[d/_do|do]] something which they are reluctant to [[d/_do|do]], [[e/_especially|especially]] by flattery or promises; to [[c/_coax|coax]].**
 ---
 ### Synonyms
-- [[butter up]], [[coax]], [[entice]], [[inveigle]], [[sweet-talk]], [[wheedle]]
+- [[c/_coax|coax]], [[e/_entice|entice]], [[i/_inveigle|inveigle]], [[s/_sweet-talk|sweet-talk]], [[w/_wheedle|wheedle]]
 ---

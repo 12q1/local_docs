@@ -16,5 +16,5 @@
 - **To pile on, to overwhelm in other senses.**
 ---
 ### Synonyms
-- [[bundle]], [[pig pile]], [[pile up]]
+- [[b/_bundle|bundle]]
 ---

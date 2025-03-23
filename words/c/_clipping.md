@@ -8,17 +8,17 @@
 - **To [[c/_collect|collect]] signatures, generally with the use of a [[c/_clipboard|clipboard]].**
 ---
 #verb
-- **To [[c/_cut|cut]], especially with scissors or shears as opposed to a knife etc.**
+- **To [[c/_cut|cut]], [[e/_especially|especially]] with scissors or shears as opposed to a knife [[e/_etc|etc]].**
 	- _Example: Please clip that coupon out of the newspaper._
 - **To [[c/_curtail|curtail]]; to [[c/_cut|cut]] short.**
 - **To strike with the hand.**
 	- _Example: I'll clip ye round the lugs!_
-- **To hit or strike, especially in passing.**
+- **To hit or strike, [[e/_especially|especially]] in passing.**
 	- _Example: The car skidded off the road and clipped a lamppost._
 - **An illegal tackle: Throwing the [[b/_body|body]] [[a/_across|across]] the [[b/_back|back]] of an opponent's leg or hitting him from the [[b/_back|back]] [[b/_below|below]] the waist while moving up from [[b/_behind|behind]] unless the opponent is a runner or the [[a/_action|action]] is in [[c/_close|close]] line play.**
 - **To [[c/_cut|cut]] off a signal level at a [[c/_certain|certain]] maximum value.**
 - **To [[d/_discard|discard]] (an occluded part of a model or scene) rather than waste resources on rendering it.**
-- **(Of a [[c/_camera|camera]], [[c/_character|character]] model, etc.) To move (through or into) (a rendered object or [[b/_barrier|barrier]]).**
+- **(Of a [[c/_camera|camera]], [[c/_character|character]] model, [[e/_etc|etc]].) To move (through or into) (a rendered object or [[b/_barrier|barrier]]).**
 	- _Example: Clipping through walls is integral to the game's speedruns._
 - **To [[c/_cheat|cheat]], swindle, or fleece.**
 - **To grab or take stealthily**
@@ -34,5 +34,5 @@
 - **Falling, rolling, or throwing one's [[b/_body|body]] on the [[b/_back|back]] of an opponent's legs [[a/_after|after]] [[a/_approaching|approaching]] from [[b/_behind|behind]].**
 ---
 ### Synonyms
-- [[cutting]], [[offcut]], [[snippet]], [[short form]]
+- [[c/_cutting|cutting]], [[o/_offcut|offcut]], [[s/_snippet|snippet]]
 ---

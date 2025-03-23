@@ -1,7 +1,7 @@
 # Chicanes
 ---
 #noun
-- **A temporary [[b/_barrier|barrier]], or serpentine [[c/_curve|curve]], on a vehicular path, especially one [[d/_designed|designed]] to reduce speed.**
+- **A temporary [[b/_barrier|barrier]], or serpentine [[c/_curve|curve]], on a vehicular path, [[e/_especially|especially]] one [[d/_designed|designed]] to reduce speed.**
 - **The holding of a hand without trumps, or the hand itself. It [[c/_counts|counts]] as simple honours.**
 - **[[c/_chicanery|Chicanery]].**
 ---

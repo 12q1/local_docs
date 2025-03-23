@@ -7,5 +7,5 @@
 - **[[c/_comprising|Comprising]] two syllables.**
 ---
 ### Synonyms
-- [[bisyllabic]]
+- [[b/_bisyllabic|bisyllabic]]
 ---

@@ -6,5 +6,5 @@
 - **A logbook.**
 ---
 ### Synonyms
-- [[diary]], [[journal]]
+- [[d/_diary|diary]], [[j/_journal|journal]]
 ---

@@ -9,7 +9,7 @@
 #verb
 - **To make a slight sound like that of metal objects touching.**
 	- _Example: The coins were chinking in his pocket._
-- **To [[c/_cause|cause]] to make a sharp metallic sound, as [[c/_coins|coins]], small pieces of metal, etc., by [[b/_bringing|bringing]] them into [[c/_collision|collision]] with [[e/_each|each]] other.**
+- **To [[c/_cause|cause]] to make a sharp metallic sound, as [[c/_coins|coins]], small pieces of metal, [[e/_etc|etc]]., by [[b/_bringing|bringing]] them into [[c/_collision|collision]] with [[e/_each|each]] other.**
 ---
 #verb
 - **To laugh loudly.**

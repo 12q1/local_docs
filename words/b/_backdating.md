@@ -4,7 +4,7 @@
 - **To give or [[a/_assign|assign]] a [[d/_date|date]] to a [[d/_document|document]] that is [[e/_earlier|earlier]] than the [[c/_current|current]] or true [[d/_date|date]].**
 ---
 ### Synonyms
-- [[antedate]]
+- [[a/_antedate|antedate]]
 #noun
 - **The [[a/_act|act]] by which something is [[b/_backdated|backdated]].**
 ---

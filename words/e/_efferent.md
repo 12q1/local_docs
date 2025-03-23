@@ -10,5 +10,5 @@
 	- _Example: Efferent impulses are those conveyed by the motor or efferent nerves from the central nervous organ outwards._
 ---
 ### Antonyms
-- [[afferent]]
+- [[a/_afferent|afferent]]
 ---

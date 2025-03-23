@@ -4,5 +4,5 @@
 - **Hard-working, [[d/_diligent|diligent]] or regular (in [[a/_attendance|attendance]] or work); industrious.**
 ---
 ### Synonyms
-- [[diligent]], [[meticulous]], [[sedulous]]
+- [[d/_diligent|diligent]], [[m/_meticulous|meticulous]], [[s/_sedulous|sedulous]]
 ---

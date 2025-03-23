@@ -5,7 +5,7 @@
 - **An iron [[d/_device|device]] so shaped as to grip the [[b/_bottom|bottom]] and hold a vessel at her [[b/_berth|berth]] by the [[c/_chain|chain]] or rope [[a/_attached|attached]]. (FM 55-501).**
 - **The [[c/_combined|combined]] [[a/_anchoring|anchoring]] gear ([[a/_anchor|anchor]], rode, [[b/_bill|bill]]/peak and fittings such as [[b/_bitts|bitts]], [[c/_cat|cat]], and windlass.)**
 - **Representation of the nautical tool, used as a heraldic [[c/_charge|charge]].**
-- **[[a/_any|Any]] instrument serving a purpose like that of a ship's [[a/_anchor|anchor]], such as an [[a/_arrangement|arrangement]] of timber to hold a [[d/_dam|dam]] fast; a [[d/_device|device]] to hold the [[e/_end|end]] of a [[b/_bridge|bridge]] [[c/_cable|cable]] etc.; or a [[d/_device|device]] used in metalworking to hold the [[c/_core|core]] of a mould in place.**
+- **[[a/_any|Any]] instrument serving a purpose like that of a ship's [[a/_anchor|anchor]], such as an [[a/_arrangement|arrangement]] of timber to hold a [[d/_dam|dam]] fast; a [[d/_device|device]] to hold the [[e/_end|end]] of a [[b/_bridge|bridge]] [[c/_cable|cable]] [[e/_etc|etc]].; or a [[d/_device|device]] used in metalworking to hold the [[c/_core|core]] of a mould in place.**
 - **A marked point in a [[d/_document|document]] that [[c/_can|can]] be the target of a hyperlink.**
 - **An [[a/_anchorman|anchorman]] or anchorwoman.**
 - **The final runner in a relay race.**
@@ -20,5 +20,5 @@
 - **An [[a/_anchorite|anchorite]] or [[a/_anchoress|anchoress]].**
 ---
 ### Synonyms
-- [[anchor tenant]]
+- 
 ---

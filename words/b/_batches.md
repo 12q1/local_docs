@@ -14,7 +14,7 @@
 - **The process of [[b/_baking|baking]].**
 ---
 ### Synonyms
-- [[group]], [[lot]], [[lot]], [[pressing]], [[run]], [[recipe]]
+- [[g/_group|group]], [[l/_lot|lot]], [[l/_lot|lot]], [[p/_pressing|pressing]], [[r/_run|run]], [[r/_recipe|recipe]]
 #verb
 - **To [[a/_aggregate|aggregate]] things together into a [[b/_batch|batch]].**
 	- _Example: The contractor batched the purchase orders for the entire month into one statement._

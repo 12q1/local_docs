@@ -5,5 +5,5 @@
 - **Perceptive; quick to learn; [[c/_capable|capable]] of understanding using one's intellect.**
 ---
 ### Synonyms
-- [[quick on the uptake]]
+- 
 ---

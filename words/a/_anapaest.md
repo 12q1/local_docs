@@ -6,5 +6,5 @@
 - **A fragment, phrase or line of poetry or verse using this meter, [[e/_e|e]].g.**
 ---
 ### Synonyms
-- [[antidactylus]]
+- [[a/_antidactylus|antidactylus]]
 ---

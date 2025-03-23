@@ -4,5 +4,5 @@
 - **To [[d/_digitize|digitize]], to make [[d/_digital|digital]].**
 ---
 ### Synonyms
-- [[digitize]]
+- [[d/_digitize|digitize]]
 ---

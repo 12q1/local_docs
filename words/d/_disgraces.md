@@ -9,5 +9,5 @@
 - **An [[a/_act|act]] of unkindness; a [[d/_disfavor|disfavor]].**
 ---
 ### Synonyms
-- [[dishonor]], [[ignominy]], [[misgrace]]
+- [[d/_dishonor|dishonor]], [[i/_ignominy|ignominy]], [[m/_misgrace|misgrace]]
 ---

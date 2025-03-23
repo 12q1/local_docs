@@ -6,5 +6,5 @@
 - **(by extension) Pessimistic [[a/_about|about]] the future.**
 ---
 ### Antonyms
-- [[bullish]]
+- [[b/_bullish|bullish]]
 ---

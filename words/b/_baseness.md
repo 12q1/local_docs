@@ -5,7 +5,7 @@
 - **The quality of [[b/_being|being]] unworthy to hold virtues or value.**
 ---
 ### Synonyms
-- [[depravity]]
+- [[d/_depravity|depravity]]
 ### Antonyms
-- [[honor]], [[morality]]
+- [[h/_honor|honor]], [[m/_morality|morality]]
 ---

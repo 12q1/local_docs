@@ -10,5 +10,5 @@
 	- _Example: This book has ten chapters — chapter 8 is the antepenultimate one._
 ---
 ### Synonyms
-- [[peripenultimate]], [[propenultimate]], [[third last]], [[third to last]]
+- [[p/_peripenultimate|peripenultimate]], [[p/_propenultimate|propenultimate]]
 ---

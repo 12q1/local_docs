@@ -7,5 +7,5 @@
 	- _Example: I walked into the wrong bathroom like a total aardvark._
 ---
 ### Synonyms
-- [[African anteater]], [[ant bear]], [[ant-bear]], [[antbear]], [[anteater]], [[earth pig]], [[fool]]
+- [[a/_ant-bear|ant-bear]], [[a/_antbear|antbear]], [[a/_anteater|anteater]], [[f/_fool|fool]]
 ---

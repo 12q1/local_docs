@@ -7,7 +7,7 @@
 - **An [[a/_asking|asking]] price.**
 ---
 ### Synonyms
-- [[request]]
+- [[r/_request|request]]
 #verb
 - **To request (information, or an [[a/_answer|answer]] to a question).**
 	- _Example: I asked her age._

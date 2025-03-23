@@ -4,5 +4,5 @@
 - **Someone who tries to [[c/_conform|conform]] to the mainstream.**
 ---
 ### Antonyms
-- [[nonconformist]]
+- [[n/_nonconformist|nonconformist]]
 ---

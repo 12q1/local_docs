@@ -6,5 +6,5 @@
 - **A stock or [[b/_bond|bond]] that is widely [[b/_believed|believed]] to be an indicator of the overall market's [[c/_condition|condition]].**
 ---
 ### Synonyms
-- [[gauge]], [[indicator]], [[sign]]
+- [[g/_gauge|gauge]], [[i/_indicator|indicator]], [[s/_sign|sign]]
 ---

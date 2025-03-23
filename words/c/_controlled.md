@@ -6,9 +6,9 @@
 - **([[c/_construed|construed]] with for) To [[d/_design|design]] (an experiment) so that the [[e/_effects|effects]] of one or more variables are reduced or [[e/_eliminated|eliminated]].**
 ---
 ### Synonyms
-- [[besteer]], [[bewield]], [[manage]], [[puppeteer]], [[rule]], [[ctrl.]]
+- [[b/_besteer|besteer]], [[b/_bewield|bewield]], [[m/_manage|manage]], [[p/_puppeteer|puppeteer]], [[r/_rule|rule]], [[c/_ctrl.|ctrl.]]
 ### Antonyms
-- [[defy]], [[rebel]], [[resist]], [[obey]], [[submit]]
+- [[d/_defy|defy]], [[r/_rebel|rebel]], [[r/_resist|resist]], [[o/_obey|obey]], [[s/_submit|submit]]
 #adjective
 - **Inhibited or restrained in one's words and [[a/_actions|actions]].**
 - **Resulting from a [[c/_comparison|comparison]] with [[c/_control|control]] samples.**

@@ -11,7 +11,7 @@
 	- _Example: Don’t send personal messages to my work email._
 ---
 ### Antonyms
-- [[snail mail]]
+- 
 #verb
 - **To send an [[e/_email|email]] or emails to.**
 	- _Example: She emailed me last week, asking about the status of the project._

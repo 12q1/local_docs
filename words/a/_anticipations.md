@@ -11,5 +11,5 @@
 - **Hasty notion; intuitive preconception.**
 ---
 ### Synonyms
-- [[expectingness]]
+- [[e/_expectingness|expectingness]]
 ---

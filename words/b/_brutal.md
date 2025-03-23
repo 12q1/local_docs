@@ -8,7 +8,7 @@
 - **In extreme metal, to [[d/_describe|describe]] the speed of the music and the [[d/_density|density]] of riffs.**
 ---
 ### Synonyms
-- [[barbaric]], [[cold-blooded]], [[savage]], [[vicious]]
+- [[b/_barbaric|barbaric]], [[c/_cold-blooded|cold-blooded]], [[s/_savage|savage]], [[v/_vicious|vicious]]
 ### Antonyms
-- [[gentle]], [[kind]]
+- [[g/_gentle|gentle]], [[k/_kind|kind]]
 ---

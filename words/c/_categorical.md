@@ -8,7 +8,7 @@
 - **Of, pertaining to, or using a [[c/_category|category]] or [[c/_categories|categories]].**
 ---
 ### Synonyms
-- [[absolute]], [[categoric]], [[unconditional]]
+- [[a/_absolute|absolute]], [[c/_categoric|categoric]], [[u/_unconditional|unconditional]]
 ### Antonyms
-- [[conditional]], [[exceptional]], [[hypothetical]], [[relative]]
+- [[c/_conditional|conditional]], [[e/_exceptional|exceptional]], [[h/_hypothetical|hypothetical]], [[r/_relative|relative]]
 ---

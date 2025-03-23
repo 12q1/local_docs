@@ -16,7 +16,7 @@
 - **To fool; to trick.**
 ---
 ### Antonyms
-- [[interest]]
+- [[i/_interest|interest]]
 #noun
 - **A pit or hole which has [[b/_been|been]] [[b/_bored|bored]].**
 - **Fragments thrown up when something is [[b/_bored|bored]] or [[d/_drilled|drilled]].**
@@ -30,5 +30,5 @@
 - **[[c/_capable|Capable]] of penetrating; piercing.**
 ---
 ### Synonyms
-- [[dull]], [[mind-numbing]], [[tedious]]
+- [[d/_dull|dull]], [[m/_mind-numbing|mind-numbing]], [[t/_tedious|tedious]]
 ---

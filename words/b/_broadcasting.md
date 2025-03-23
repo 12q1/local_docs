@@ -7,9 +7,9 @@
 - **To sow seeds over a wide [[a/_area|area]].**
 ---
 ### Synonyms
-- [[air]], [[transmit]]
+- [[a/_air|air]], [[t/_transmit|transmit]]
 ### Antonyms
-- [[narrowcast]]
+- [[n/_narrowcast|narrowcast]]
 #noun
 - **The [[b/_business|business]] or profession of radio and television.**
 	- _Example: Broadcasting can be a lucrative field, but very few people end up on the air._

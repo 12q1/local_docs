@@ -6,5 +6,5 @@
 - **A ludicrous imitation; a [[c/_caricature|caricature]]; a travesty; a gross perversion.**
 ---
 ### Synonyms
-- [[caricature]], [[imitation]], [[lampoon]], [[travesty]]
+- [[c/_caricature|caricature]], [[i/_imitation|imitation]], [[l/_lampoon|lampoon]], [[t/_travesty|travesty]]
 ---

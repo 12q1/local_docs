@@ -6,7 +6,7 @@
 - **To span as if with a [[b/_bridge|bridge]].**
 	- _Example: The two groups were able to bridge their differences._
 - **To transition from one piece or section of music to [[a/_another|another]] without stopping.**
-- **([[c/_communication|communication]]) To [[c/_connect|connect]] two or more [[c/_computer|computer]] [[b/_buses|buses]], networks etc. with a [[b/_bridge|bridge]].**
+- **([[c/_communication|communication]]) To [[c/_connect|connect]] two or more [[c/_computer|computer]] [[b/_buses|buses]], networks [[e/_etc|etc]]. with a [[b/_bridge|bridge]].**
 - **To go to the [[b/_bridge|bridge]] position.**
 ---
 #adjective

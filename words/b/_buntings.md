@@ -1,7 +1,7 @@
 # Buntings
 ---
 #noun
-- **Strips of material used as festive [[d/_decoration|decoration]], especially in the [[c/_colours|colours]] of the national flag.**
+- **Strips of material used as festive [[d/_decoration|decoration]], [[e/_especially|especially]] in the [[c/_colours|colours]] of the national flag.**
 - **A thin [[c/_cloth|cloth]] of woven wool from which flags are made; it is light [[e/_enough|enough]] to spread in a gentle wind but resistant to fraying in a strong wind.**
 - **Flags [[c/_considered|considered]] as a group.**
 ---
@@ -9,7 +9,7 @@
 - **[[a/_any|Any]] of various songbirds, mostly of the genus [[e/_emberiza|Emberiza]], having short [[b/_bills|bills]] and [[b/_brown|brown]] or gray plumage.**
 ---
 #noun
-- **A warm, hooded infant garment, as outerwear or sleepwear, similar to a sleeper or sleepsack; especially as [[b/_baby|baby]] [[b/_bunting|bunting]] or [[b/_bunting|bunting]] [[b/_bag|bag]].**
+- **A warm, hooded infant garment, as outerwear or sleepwear, similar to a sleeper or sleepsack; [[e/_especially|especially]] as [[b/_baby|baby]] [[b/_bunting|bunting]] or [[b/_bunting|bunting]] [[b/_bag|bag]].**
 ---
 #noun
 - **A pushing [[a/_action|action]].**

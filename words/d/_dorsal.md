@@ -1,7 +1,7 @@
 # Dorsal
 ---
 #noun
-- **A hanging, usually of rich stuff, at the [[b/_back|back]] of a throne, [[a/_altar|altar]], etc.**
+- **A hanging, usually of rich stuff, at the [[b/_back|back]] of a throne, [[a/_altar|altar]], [[e/_etc|etc]].**
 ---
 #adjective
 - **With respect to, or [[c/_concerning|concerning]] the side in which the [[b/_backbone|backbone]] is located, or the [[a/_analogous|analogous]] side of an invertebrate.**
@@ -12,5 +12,5 @@
 - **Relating to the surface naturally superior, as of a [[c/_creeping|creeping]] hepatic moss.**
 ---
 ### Antonyms
-- [[ventral]]
+- [[v/_ventral|ventral]]
 ---

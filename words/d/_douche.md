@@ -17,5 +17,5 @@
 	- _Example: That pocket protector makes you look like a douchebag._
 ---
 ### Synonyms
-- [[douche]]
+- [[d/_douche|douche]]
 ---

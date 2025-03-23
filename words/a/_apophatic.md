@@ -5,5 +5,5 @@
 - **(by extension) That which passively [[d/_defines|defines]] a thing by [[d/_describing|describing]] what it is not [[c/_characteristic|characteristic]] thereof.**
 ---
 ### Antonyms
-- [[cataphatic]]
+- [[c/_cataphatic|cataphatic]]
 ---

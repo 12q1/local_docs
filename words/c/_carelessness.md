@@ -5,7 +5,7 @@
 	- _Example: This accident was caused by carelessness._
 ---
 ### Synonyms
-- [[inattention]], [[negligence]]
+- [[i/_inattention|inattention]], [[n/_negligence|negligence]]
 ### Antonyms
-- [[carefulness]]
+- [[c/_carefulness|carefulness]]
 ---

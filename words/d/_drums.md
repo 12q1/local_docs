@@ -16,6 +16,6 @@
 ---
 #noun
 - **A social gathering or [[a/_assembly|assembly]] held in the evening.**
-- **A person's home; a house or other [[b/_building|building]], especially when insalubrious; a tavern, a [[b/_brothel|brothel]].**
+- **A person's home; a house or other [[b/_building|building]], [[e/_especially|especially]] when insalubrious; a tavern, a [[b/_brothel|brothel]].**
 ---
 ---

@@ -11,10 +11,10 @@
 	- _Example: to calculate a system of laws for the government and protection of a free people_
 ---
 ### Synonyms
-- [[compute]], [[reckon]], [[work out]], [[compute]], [[reckon]]
+- [[c/_compute|compute]], [[r/_reckon|reckon]], [[c/_compute|compute]], [[r/_reckon|reckon]]
 #adjective
 - **Having the [[a/_ability|ability]] to [[c/_calculate|calculate]].**
 	- _Example: an early calculating device_
-- **(especially of a person) Serving one's own interests in an unemotional, [[a/_analytical|analytical]] manner.**
+- **([[e/_especially|especially]] of a person) Serving one's own interests in an unemotional, [[a/_analytical|analytical]] manner.**
 ---
 ---

@@ -6,7 +6,7 @@
 - **The white spot in the [[c/_centre|centre]] of a target; hence the object to which [[a/_anything|anything]] is [[d/_directed|directed]] or [[a/_aimed|aimed]], the range of such [[a/_aim|aim]] .**
 - **A lot by which nothing is gained; a ticket in a lottery on which no prize is indicated .**
 - **An [[e/_empty|empty]] space; a void, for example on a paper .**
-- **(now [[c/_chiefly|chiefly]] U.S.) A [[d/_document|document]], paper, or form with spaces left [[b/_blank|blank]] to be filled up at the pleasure of the person to whom it is given ([[e/_e|e]].g. a [[b/_blank|blank]] [[c/_charter|charter]], [[b/_ballot|ballot]], form, [[c/_contract|contract]], etc.), or as the event may [[d/_determine|determine]]; a [[b/_blank|blank]] form .**
+- **(now [[c/_chiefly|chiefly]] U.S.) A [[d/_document|document]], paper, or form with spaces left [[b/_blank|blank]] to be filled up at the pleasure of the person to whom it is given ([[e/_e|e]].g. a [[b/_blank|blank]] [[c/_charter|charter]], [[b/_ballot|ballot]], form, [[c/_contract|contract]], [[e/_etc|etc]].), or as the event may [[d/_determine|determine]]; a [[b/_blank|blank]] form .**
 - **[[b/_blank|Blank]] verse .**
 - **A piece of metal (such as a [[c/_coin|coin]], screw, nuts), [[c/_cut|cut]] and shaped to the required size of the thing to be made, and ready for the finishing operations; ([[c/_coining|coining]]) the [[d/_disc|disc]] of metal [[b/_before|before]] stamping .**
 - **A vacant space, place, or period; a void .**
@@ -20,9 +20,9 @@
 - **(in the expression ‘shooting [[b/_blanks|blanks]]’) An ineffective [[e/_effort|effort]] which [[a/_achieves|achieves]] nothing .**
 ---
 ### Synonyms
-- [[blank bullet]], [[blank cartridge]]
+- 
 #verb
-- **To make void; to erase.**
+- **To make void; to [[e/_erase|erase]].**
 	- _Example: I blanked out my previous entry._
 - **To ignore (a person) [[d/_deliberately|deliberately]].**
 	- _Example: She blanked me for no reason._

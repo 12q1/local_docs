@@ -12,7 +12,7 @@
 - **To gain or win.**
 ---
 ### Synonyms
-- [[brook]], [[endure]]
+- [[b/_brook|brook]], [[e/_endure|endure]]
 #adjective
 - **Having from [[b/_birth|birth]] (or as if from [[b/_birth|birth]]) a [[c/_certain|certain]] quality or [[c/_character|character]]; innate; inherited.**
 ---

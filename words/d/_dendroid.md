@@ -8,5 +8,5 @@
 - **Resembling a shrub or tree.**
 ---
 ### Synonyms
-- [[branchy]], [[dendroidal]], [[treelike]]
+- [[b/_branchy|branchy]], [[d/_dendroidal|dendroidal]], [[t/_treelike|treelike]]
 ---

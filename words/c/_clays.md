@@ -10,11 +10,11 @@
 - **A [[c/_clay|clay]] pipe for smoking tobacco.**
 - **A [[c/_clay|clay]] pigeon.**
 	- _Example: We went shooting clays at the weekend._
-- **Land or territory of a [[c/_country|country]] or other political region, especially when subject to territorial [[c/_claims|claims]]**
+- **Land or territory of a [[c/_country|country]] or other political region, [[e/_especially|especially]] when subject to territorial [[c/_claims|claims]]**
 	- _Example: Danzig is rightfully German clay._
 ---
 ### Antonyms
-- [[soul]], [[spirit]]
+- [[s/_soul|soul]], [[s/_spirit|spirit]]
 #verb
 - **To [[a/_add|add]] [[c/_clay|clay]] to, to spread [[c/_clay|clay]] onto.**
 - **(of sugar) To purify using [[c/_clay|clay]].**

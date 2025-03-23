@@ -5,5 +5,5 @@
 - **[[b/_bishops|Bishops]] [[c/_collectively|collectively]]; [[e/_episcopate|episcopate]].**
 ---
 ### Synonyms
-- [[bishopdom]], [[bishophood]], [[bishopric]]
+- [[b/_bishopdom|bishopdom]], [[b/_bishophood|bishophood]], [[b/_bishopric|bishopric]]
 ---

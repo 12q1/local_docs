@@ -18,12 +18,12 @@
 - **(relational [[a/_algebra|algebra]]) the set of [[e/_elements|elements]] that are in one set but not [[a/_another|another]] (\scriptstyle A \overline [[b/_b|B]]).**
 ---
 ### Synonyms
-- [[departure]], [[deviation]], [[disparity]], [[divergence]], [[conflict]], [[difference of opinion]], [[dispute]], [[dissension]], [[remainder]], [[nevermind]]
+- [[d/_departure|departure]], [[d/_deviation|deviation]], [[d/_disparity|disparity]], [[d/_divergence|divergence]], [[c/_conflict|conflict]], [[d/_dispute|dispute]], [[d/_dissension|dissension]], [[r/_remainder|remainder]], [[n/_nevermind|nevermind]]
 ### Antonyms
-- [[identity]], [[sameness]]
+- [[i/_identity|identity]], [[s/_sameness|sameness]]
 #verb
 - **To [[d/_distinguish|distinguish]] or [[d/_differentiate|differentiate]].**
 ---
 ### Synonyms
-- [[differentiate]], [[distinguish]]
+- [[d/_differentiate|differentiate]], [[d/_distinguish|distinguish]]
 ---

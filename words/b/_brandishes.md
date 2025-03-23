@@ -7,5 +7,5 @@
 	- _Example: to brandish syllogisms_
 ---
 ### Synonyms
-- [[flourish]], [[wave]]
+- [[f/_flourish|flourish]], [[w/_wave|wave]]
 ---

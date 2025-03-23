@@ -7,7 +7,7 @@
 	- _Example: There is a colorized version of Casablanca._
 ---
 ### Synonyms
-- [[color]], [[color in]], [[colour]], [[colour in]]
+- [[c/_color|color]], [[c/_colour|colour]]
 ### Antonyms
-- [[discolor]], [[discolour]]
+- [[d/_discolor|discolor]], [[d/_discolour|discolour]]
 ---

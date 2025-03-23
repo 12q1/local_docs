@@ -2,7 +2,7 @@
 ---
 #noun
 - **The second letter of the Greek [[a/_alphabet|alphabet]] (Β,  β), preceded by [[a/_alpha|alpha]] (Α,  α) and followed by gamma, (Γ,  γ). In modern Greek it represents the voiced labiodental fricative sound of v found in the [[e/_english|English]] words have and vase.**
-- **Used in marking scheme: α, β, γ or α+, α, α-, β etc.**
+- **Used in marking scheme: α, β, γ or α+, α, α-, β [[e/_etc|etc]].**
 - **[[a/_average|Average]] sensitivity of a security's price to overall securities market prices.**
 - **The phase of [[d/_development|development]] [[a/_after|after]] [[a/_alpha|alpha]] testing and [[b/_before|before]] launch, in which software, while not [[c/_complete|complete]], has [[b/_been|been]] released to potential users for testing.**
 	- _Example: The company is offering a public beta program to test the software._
@@ -25,10 +25,10 @@
 - **(manosphere, pickup [[c/_community|community]]) A man who is less [[c/_competent|competent]] or [[d/_desirable|desirable]] than an [[a/_alpha|alpha]] male.**
 ---
 ### Synonyms
-- [[beta]]
+- [[b/_beta|beta]]
 #noun
-- **[[a/_any|Any]] fish of the genus [[b/_betta|Betta]], especially [[b/_betta|Betta]] splendens (the Siamese fighting fish).**
+- **[[a/_any|Any]] fish of the genus [[b/_betta|Betta]], [[e/_especially|especially]] [[b/_betta|Betta]] splendens (the Siamese fighting fish).**
 ---
 ### Synonyms
-- [[Siamese fighting fish]]
+- 
 ---

@@ -15,5 +15,5 @@
 - **Prepared and poised to [[a/_act|act]], like a snake that has [[c/_coiled|coiled]] its lower [[b/_body|body]] so it [[c/_can|can]] strike.**
 ---
 ### Synonyms
-- [[looped]]
+- [[l/_looped|looped]]
 ---

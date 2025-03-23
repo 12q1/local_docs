@@ -4,5 +4,5 @@
 - **Having no physical [[b/_body|body]] or form.**
 ---
 ### Antonyms
-- [[corporeal]], [[incarnate]], [[tangible]]
+- [[c/_corporeal|corporeal]], [[i/_incarnate|incarnate]], [[t/_tangible|tangible]]
 ---

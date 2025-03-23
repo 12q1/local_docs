@@ -7,5 +7,5 @@
 	- _Example: Everybody who wants to be anybody will come to Jake's party._
 ---
 ### Synonyms
-- [[anyone]]
+- [[a/_anyone|anyone]]
 ---

@@ -5,7 +5,7 @@
 - **(in [[c/_combination|combination]]) Sometimes used in place of the phenyl group.**
 ---
 #noun
-- **An impure [[b/_benzene|benzene]] (mixed with toluene etc), used in the [[a/_arts|arts]] as a solvent, and for various other purposes.**
+- **An impure [[b/_benzene|benzene]] (mixed with toluene [[e/_etc|etc]]), used in the [[a/_arts|arts]] as a solvent, and for various other purposes.**
 - **[[b/_benzyl|Benzyl]] [[a/_alcohol|alcohol]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Brash
 ---
 #noun
-- **A rash or eruption; a sudden or transient fit of sickness.**
+- **A rash or [[e/_eruption|eruption]]; a sudden or transient fit of sickness.**
 - **A sudden [[b/_burst|burst]] of rain.**
 - **An [[a/_attack|attack]] or [[a/_assault|assault]].**
 ---
@@ -16,5 +16,5 @@
 	- _Example: brash colours; a brash perfume_
 ---
 ### Synonyms
-- [[audacious]], [[brassy]], [[brazen]], [[cocky]], [[undiplomatic]], [[flashy]], [[garish]], [[loud]], [[splashy]], [[foolhardy]], [[reckless]]
+- [[a/_audacious|audacious]], [[b/_brassy|brassy]], [[b/_brazen|brazen]], [[c/_cocky|cocky]], [[u/_undiplomatic|undiplomatic]], [[f/_flashy|flashy]], [[g/_garish|garish]], [[l/_loud|loud]], [[s/_splashy|splashy]], [[f/_foolhardy|foolhardy]], [[r/_reckless|reckless]]
 ---

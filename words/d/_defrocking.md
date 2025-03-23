@@ -7,7 +7,7 @@
 - **(by extension) To formally remove the rights and [[a/_authority|authority]] of someone, [[e/_e|e]].g. a government official or a medical practitioner.**
 ---
 ### Synonyms
-- [[disfrock]], [[unfrock]]
+- [[d/_disfrock|disfrock]], [[u/_unfrock|unfrock]]
 #noun
 - **The formal removal of the rights and [[a/_authority|authority]] of a member of the [[c/_clergy|clergy]].**
 ---

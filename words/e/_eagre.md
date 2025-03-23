@@ -10,5 +10,5 @@
 	- _Example: an eager algorithm_
 ---
 ### Synonyms
-- [[raring]]
+- [[r/_raring|raring]]
 ---

@@ -7,5 +7,5 @@
 - **To load up on [[a/_ammunition|ammunition]].**
 ---
 ### Synonyms
-- [[ammo up]]
+- 
 ---

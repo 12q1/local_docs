@@ -4,5 +4,5 @@
 - **Of, pertaining to, or located in an [[a/_acinus|acinus]].**
 ---
 ### Synonyms
-- [[acinary]], [[acinic]]
+- [[a/_acinary|acinary]], [[a/_acinic|acinic]]
 ---

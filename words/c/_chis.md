@@ -4,7 +4,7 @@
 - **The twenty-second letter of the [[c/_classical|Classical]] and Modern Greek [[a/_alphabets|alphabets]].**
 ---
 #noun
-- **A life force in traditional [[c/_chinese|Chinese]] philosophy, [[c/_culture|culture]], medicine, etc, related (but not limited) to [[b/_breath|breath]] and [[c/_circulation|circulation]].**
+- **A life force in traditional [[c/_chinese|Chinese]] philosophy, [[c/_culture|culture]], medicine, [[e/_etc|etc]], related (but not limited) to [[b/_breath|breath]] and [[c/_circulation|circulation]].**
 ---
 #noun
 - **The [[c/_chinese|Chinese]] foot, a traditional [[c/_chinese|Chinese]] unit of length [[b/_based|based]] on the human forearm.**
@@ -13,5 +13,5 @@
 - **(Hong Kong) The chek or Hong Kong foot, a unit of length standardized as 0.371475 meters.**
 ---
 ### Synonyms
-- [[Hong Kong foot]], [[chek]], [[Taiwanese foot]], [[Chinese foot]]
+- [[c/_chek|chek]]
 ---

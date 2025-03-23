@@ -7,5 +7,5 @@
 - **Of or pertaining to these hominids.**
 ---
 ### Synonyms
-- [[australopith]]
+- [[a/_australopith|australopith]]
 ---

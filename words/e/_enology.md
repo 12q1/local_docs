@@ -5,5 +5,5 @@
 	- _Example: Even though I can't drink wine, I can still study oenology and enjoy knowing about the great wines of the world._
 ---
 ### Synonyms
-- [[winelore]]
+- [[w/_winelore|winelore]]
 ---

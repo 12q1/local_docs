@@ -1,8 +1,8 @@
 # Bossy
 ---
 #adjective
-- **Tending to give orders to others, especially when unwarranted; [[d/_domineering|domineering]].**
+- **Tending to give orders to others, [[e/_especially|especially]] when unwarranted; [[d/_domineering|domineering]].**
 ---
 ### Synonyms
-- [[authoritarian]], [[commanding]], [[demanding]], [[dictatorial]], [[inflexible]], [[tyrannical]]
+- [[a/_authoritarian|authoritarian]], [[c/_commanding|commanding]], [[d/_demanding|demanding]], [[d/_dictatorial|dictatorial]], [[i/_inflexible|inflexible]], [[t/_tyrannical|tyrannical]]
 ---

@@ -6,7 +6,7 @@
 	- _Example: I try to avoid the company of gamblers._
 - **To try not to [[d/_do|do]] something or to have something happen**
 - **To make [[e/_empty|empty]]; to [[c/_clear|clear]].**
-- **To make void, to [[a/_annul|annul]]; to refute (especially a [[c/_contract|contract]]).**
+- **To make void, to [[a/_annul|annul]]; to refute ([[e/_especially|especially]] a [[c/_contract|contract]]).**
 - **To [[d/_defeat|defeat]] or evade; to invalidate.**
 - **To [[e/_emit|emit]] or throw out; to void.**
 - **To leave, evacuate; to leave as [[e/_empty|empty]], to withdraw or [[c/_come|come]] [[a/_away|away]] from.**

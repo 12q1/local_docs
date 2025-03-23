@@ -9,5 +9,5 @@
 	- _Example: He's just put salt in his tea instead of sugar. What a comical error!_
 ---
 ### Synonyms
-- [[comedic]], [[comic]]
+- [[c/_comedic|comedic]], [[c/_comic|comic]]
 ---

@@ -12,5 +12,5 @@
 	- _Example: There is no way he has seen that show, the admission is more than he makes in a week._
 ---
 ### Synonyms
-- [[acknowledgment]], [[admittance]], [[allowance]], [[concession]], [[concurrence]]
+- [[a/_acknowledgment|acknowledgment]], [[a/_admittance|admittance]], [[a/_allowance|allowance]], [[c/_concession|concession]], [[c/_concurrence|concurrence]]
 ---

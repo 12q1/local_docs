@@ -6,6 +6,6 @@
 	- _Example: He used his business experience as a bootstrap to win voters._
 - **The process by which the operating system of a [[c/_computer|computer]] is loaded into its memory**
 - **The process necessary to [[c/_compile|compile]] the tools that will be used to [[c/_compile|compile]] the rest of the system or program.**
-- **[[a/_any|Any]] method or instance of estimating properties of an estimator (such as its variance) by measuring those properties when sampling from an [[a/_approximating|approximating]] [[d/_distribution|distribution]].**
+- **[[a/_any|Any]] method or instance of [[e/_estimating|estimating]] properties of an [[e/_estimator|estimator]] (such as its variance) by measuring those properties when sampling from an [[a/_approximating|approximating]] [[d/_distribution|distribution]].**
 ---
 ---

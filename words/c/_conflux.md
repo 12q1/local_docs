@@ -5,5 +5,5 @@
 - **A [[c/_convergence|convergence]] or moving gathering of forces, people, or things.**
 ---
 ### Synonyms
-- [[confluence]]
+- [[c/_confluence|confluence]]
 ---

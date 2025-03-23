@@ -8,7 +8,7 @@
 	- _Example: brash colours; a brash perfume_
 ---
 ### Synonyms
-- [[audacious]], [[brassy]], [[brazen]], [[cocky]], [[undiplomatic]], [[flashy]], [[garish]], [[loud]], [[splashy]], [[foolhardy]], [[reckless]]
+- [[a/_audacious|audacious]], [[b/_brassy|brassy]], [[b/_brazen|brazen]], [[c/_cocky|cocky]], [[u/_undiplomatic|undiplomatic]], [[f/_flashy|flashy]], [[g/_garish|garish]], [[l/_loud|loud]], [[s/_splashy|splashy]], [[f/_foolhardy|foolhardy]], [[r/_reckless|reckless]]
 #adjective
 - **[[b/_brittle|Brittle]] (said [[e/_e|e]].g. of wood or vegetables).**
 ---

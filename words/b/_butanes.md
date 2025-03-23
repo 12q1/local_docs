@@ -5,5 +5,5 @@
 - **The n-[[b/_butane|butane]] isomer only.**
 ---
 ### Synonyms
-- [[E943a]]
+- [[E/_E943a|E943a]]
 ---

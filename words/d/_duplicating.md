@@ -9,5 +9,5 @@
 	- _Example: He found it hard to duplicate the skills of his wife._
 ---
 ### Synonyms
-- [[double]]
+- [[d/_double|double]]
 ---

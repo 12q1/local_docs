@@ -5,15 +5,15 @@
 	- _Example: The judge read a list of prisoners' names. She then indicated that the aforementioned were to be set free._
 ---
 ### Synonyms
-- [[abovementioned]], [[aforesaid]], [[mentioned]]
+- [[a/_abovementioned|abovementioned]], [[a/_aforesaid|aforesaid]], [[m/_mentioned|mentioned]]
 ### Antonyms
-- [[following]], [[undermentioned]]
+- [[f/_following|following]], [[u/_undermentioned|undermentioned]]
 #adjective
 - **Previously mentioned.**
 	- _Example: The PA system broadcast a long list of names in the morning, but it wasn't until later that they requested the aforementioned students report to the health clinic._
 ---
 ### Synonyms
-- [[above-mentioned]], [[abovementioned]], [[aforesaid]], [[mentioned]]
+- [[a/_above-mentioned|above-mentioned]], [[a/_abovementioned|abovementioned]], [[a/_aforesaid|aforesaid]], [[m/_mentioned|mentioned]]
 ### Antonyms
-- [[following]], [[undermentioned]]
+- [[f/_following|following]], [[u/_undermentioned|undermentioned]]
 ---

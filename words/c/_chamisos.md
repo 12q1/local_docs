@@ -5,5 +5,5 @@
 - **An evergreen shrub native to [[c/_california|California]], [[a/_adenostoma|Adenostoma]] fasciculatum.**
 ---
 ### Synonyms
-- [[chamise]]
+- [[c/_chamise|chamise]]
 ---

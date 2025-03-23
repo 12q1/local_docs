@@ -9,7 +9,7 @@
 - **To stamp or mark (a [[c/_cheque|cheque]]) in such a way as to prevent it [[b/_being|being]] [[c/_cashed|cashed]], thus requiring it to be [[d/_deposited|deposited]] into a [[b/_bank|bank]] [[a/_account|account]].**
 ---
 ### Synonyms
-- [[cross-fertilize]], [[crossbreed]]
+- [[c/_cross-fertilize|cross-fertilize]], [[c/_crossbreed|crossbreed]]
 #adjective
 - **Marked by a line [[d/_drawn|drawn]] [[c/_crosswise|crosswise]], often [[d/_denoting|denoting]] [[c/_cancellation|cancellation]].**
 - **Folded.**

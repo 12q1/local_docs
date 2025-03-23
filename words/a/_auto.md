@@ -11,9 +11,9 @@
 	- _Example: It wasn't too bad but we did hire an auto (couldn't imagine changing gears with my right hand)._
 ---
 ### Synonyms
-- [[automobile]], [[car]], [[motor]], [[motorcar]], [[automatic]]
+- [[a/_automobile|automobile]], [[c/_car|car]], [[m/_motor|motor]], [[m/_motorcar|motorcar]], [[a/_automatic|automatic]]
 ### Antonyms
-- [[manual]]
+- [[m/_manual|manual]]
 #verb
 - **To travel by [[a/_automobile|automobile]].**
 ---
@@ -22,7 +22,7 @@
 	- _Example: The automatic clothes washer was a great labor-saving device._
 - **[[d/_done|Done]] out of habit or without [[c/_conscious|conscious]] thought.**
 	- _Example: Absent-minded doodling is a form of automatic art._
-- **Necessary, inevitable, prescribed by logic, law, etc.**
+- **Necessary, inevitable, prescribed by logic, law, [[e/_etc|etc]].**
 	- _Example: Spitting at another player means an automatic red card._
 - **(of a firearm such as a machine gun) Firing [[c/_continuously|continuously]] as long as the trigger is pressed until [[a/_ammunition|ammunition]] is exhausted.**
 	- _Example: Fully automatic weapons cannot be legally owned by private citizens in the US, except in very special circumstances, as by private security companies._
@@ -32,7 +32,7 @@
 - **(of a group) Having one or more finite-state [[a/_automata|automata]]**
 ---
 ### Synonyms
-- [[instinctive]], [[perfunctory]], [[thoughtless]]
+- [[i/_instinctive|instinctive]], [[p/_perfunctory|perfunctory]], [[t/_thoughtless|thoughtless]]
 ### Antonyms
-- [[manual]], [[non-automatic]], [[voluntary]]
+- [[m/_manual|manual]], [[n/_non-automatic|non-automatic]], [[v/_voluntary|voluntary]]
 ---

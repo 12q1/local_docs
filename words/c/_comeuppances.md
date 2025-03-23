@@ -4,5 +4,5 @@
 - **Retribution which is justly [[d/_deserved|deserved]].**
 ---
 ### Synonyms
-- [[just deserts]]
+- 
 ---

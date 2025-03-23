@@ -5,5 +5,5 @@
 - **To [[c/_cause|cause]] to waste [[a/_away|away]] or [[b/_become|become]] [[a/_abortive|abortive]]; to starve or weaken.**
 ---
 ### Antonyms
-- [[hypertrophy]], [[strengthen]]
+- [[h/_hypertrophy|hypertrophy]], [[s/_strengthen|strengthen]]
 ---

@@ -8,7 +8,7 @@
 - **To [[a/_adorn|adorn]].**
 ---
 ### Antonyms
-- [[disdain]], [[disdain]], [[disdain]]
+- [[d/_disdain|disdain]], [[d/_disdain|disdain]], [[d/_disdain|disdain]]
 #noun
 - **[[a/_adoration|Adoration]]**
 ---

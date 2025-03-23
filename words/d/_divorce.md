@@ -8,9 +8,9 @@
 - **That which separates.**
 ---
 ### Synonyms
-- [[divorcement]], [[partition]], [[separation]], [[severance]]
+- [[d/_divorcement|divorcement]], [[p/_partition|partition]], [[s/_separation|separation]], [[s/_severance|severance]]
 ### Antonyms
-- [[marriage]]
+- [[m/_marriage|marriage]]
 #verb
 - **To legally [[d/_dissolve|dissolve]] a marriage [[b/_between|between]] two people.**
 	- _Example: A ship captain can marry couples, but cannot divorce them._
@@ -22,7 +22,7 @@
 	- _Example: The radical group voted to divorce itself from the main faction and start an independent movement._
 ---
 ### Synonyms
-- [[split up]], [[disassociate]], [[disjoint]], [[dissociate]], [[disunite]], [[separate]]
+- [[d/_disassociate|disassociate]], [[d/_disjoint|disjoint]], [[d/_dissociate|dissociate]], [[d/_disunite|disunite]], [[s/_separate|separate]]
 ### Antonyms
-- [[marry]]
+- [[m/_marry|marry]]
 ---

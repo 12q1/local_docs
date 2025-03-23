@@ -1,7 +1,7 @@
 # Archaic
 ---
 #noun
-- **(usually [[c/_capitalized|capitalized]]) A general term for the prehistoric period intermediate [[b/_between|between]] the [[e/_earliest|earliest]] period (‘Paleo-Indian’, ‘Paleo-[[a/_american|American]]’, ‘[[a/_american|American]]‐paleolithic’, &[[c/_c|c]].) of human presence in the Western Hemisphere, and the most recent prehistoric period (‘Woodland’, etc.).**
+- **(usually [[c/_capitalized|capitalized]]) A general term for the prehistoric period intermediate [[b/_between|between]] the [[e/_earliest|earliest]] period (‘Paleo-Indian’, ‘Paleo-[[a/_american|American]]’, ‘[[a/_american|American]]‐paleolithic’, &[[c/_c|c]].) of human presence in the Western Hemisphere, and the most recent prehistoric period (‘Woodland’, [[e/_etc|etc]].).**
 - **(paleoanthropology) (A member of) an [[a/_archaic|archaic]] variety of Homo sapiens.**
 ---
 #adjective
@@ -10,5 +10,5 @@
 - **[[b/_belonging|Belonging]] to the [[a/_archaic|archaic]] period**
 ---
 ### Synonyms
-- [[dated]], [[obsolete]], [[old fashioned]]
+- [[d/_dated|dated]], [[o/_obsolete|obsolete]]
 ---

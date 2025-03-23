@@ -8,5 +8,5 @@
 - **To serve; to treat; to [[b/_benefit|benefit]].**
 ---
 ### Synonyms
-- [[merit]]
+- [[m/_merit|merit]]
 ---

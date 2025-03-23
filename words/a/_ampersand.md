@@ -5,7 +5,7 @@
 	- _Example: The ampersand character in many logics acts as an operator connecting two propositions._
 ---
 ### Synonyms
-- [[epershand]]
+- [[e/_epershand|epershand]]
 #verb
 - **To [[a/_add|add]] an [[a/_ampersand|ampersand]] to.**
 ---

@@ -9,7 +9,7 @@
 - **A summary title of the key points [[d/_detailing|detailing]] a tract of land, for ownership; [[a/_abstract|abstract]] of title.**
 ---
 ### Synonyms
-- [[abridgment]], [[compendium]], [[epitome]], [[synopsis]]
+- [[a/_abridgment|abridgment]], [[c/_compendium|compendium]], [[e/_epitome|epitome]], [[s/_synopsis|synopsis]]
 #verb
 - **To separate; to [[d/_disengage|disengage]].**
 - **To remove; to take [[a/_away|away]]; withdraw.**
@@ -27,5 +27,5 @@
 	- _Example: He abstracted out the square root function._
 ---
 ### Synonyms
-- [[abridge]], [[epitomize]], [[summarize]], [[filch]], [[purloin]], [[steal]], [[remove]], [[separate]], [[take away]], [[withdraw]]
+- [[a/_abridge|abridge]], [[e/_epitomize|epitomize]], [[s/_summarize|summarize]], [[f/_filch|filch]], [[p/_purloin|purloin]], [[s/_steal|steal]], [[r/_remove|remove]], [[s/_separate|separate]], [[w/_withdraw|withdraw]]
 ---

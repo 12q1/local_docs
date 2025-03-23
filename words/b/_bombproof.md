@@ -4,7 +4,7 @@
 - **An [[a/_air|air]]-raid shelter, a structure [[d/_designed|designed]] to give protection [[a/_against|against]] [[a/_air|air]] raids and [[b/_bombs|bombs]].**
 ---
 ### Synonyms
-- [[air-raid shelter]], [[bomb shelter]]
+- 
 #verb
 - **To make resistant to [[b/_bomb|bomb]] [[b/_blasts|blasts]].**
 ---
@@ -13,5 +13,5 @@
 	- _Example: bombproof buildings_
 ---
 ### Synonyms
-- [[shellproof]]
+- [[s/_shellproof|shellproof]]
 ---

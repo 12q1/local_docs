@@ -10,7 +10,7 @@
 - **The number or percentage of people at work**
 ---
 ### Synonyms
-- [[employ]], [[hire]]
+- [[e/_employ|employ]], [[h/_hire|hire]]
 ### Antonyms
-- [[underemployment]], [[unemployment]]
+- [[u/_underemployment|underemployment]], [[u/_unemployment|unemployment]]
 ---

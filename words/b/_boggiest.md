@@ -5,5 +5,5 @@
 	- _Example: The edge of the woods led out onto a noisome, boggy fen, a paradise for mosquitos and small frogs._
 ---
 ### Synonyms
-- [[marshy]], [[swampy]]
+- [[m/_marshy|marshy]], [[s/_swampy|swampy]]
 ---

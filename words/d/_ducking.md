@@ -12,10 +12,10 @@
 	- _Example: I'm just going to duck into the loo for a minute, can you hold my bag?_
 ---
 ### Synonyms
-- [[dip]], [[dip]], [[dunk]], [[duck down]]
+- [[d/_dip|dip]], [[d/_dip|dip]], [[d/_dunk|dunk]]
 #noun
 - **The [[a/_action|action]] of the verb to [[d/_duck|duck]].**
-- **An instance of [[d/_ducking|ducking]] (a person in water, etc).**
+- **An instance of [[d/_ducking|ducking]] (a person in water, [[e/_etc|etc]]).**
 	- _Example: They gave him a ducking in the river as a punishment._
 ---
 ---

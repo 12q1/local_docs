@@ -11,7 +11,7 @@
 - **The [[e/_emblem|emblem]] of an [[e/_eagle|eagle]], a sign of military rank.**
 ---
 ### Synonyms
-- [[cock-a-doodle-doo]], [[crowbar]]
+- [[c/_cock-a-doodle-doo|cock-a-doodle-doo]], [[c/_crowbar|crowbar]]
 #verb
 - **To make the shrill sound [[c/_characteristic|characteristic]] of a rooster; to make a sound in this manner, [[e/_either|either]] in gaiety, joy, pleasure, or [[d/_defiance|defiance]].**
 - **To shout in exultation or [[d/_defiance|defiance]]; to [[b/_brag|brag]].**

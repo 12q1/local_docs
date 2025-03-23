@@ -4,5 +4,5 @@
 - **The [[a/_act|act]] or process of [[d/_demonetizing|demonetizing]].**
 ---
 ### Synonyms
-- [[notebandi]]
+- [[n/_notebandi|notebandi]]
 ---

@@ -5,5 +5,5 @@
 - **(usually plurale tantum) An [[a/_abdominal|abdominal]] muscle.**
 ---
 ### Synonyms
-- [[Cypriniformes]]
+- [[C/_Cypriniformes|Cypriniformes]]
 ---

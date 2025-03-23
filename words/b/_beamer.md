@@ -10,5 +10,5 @@
 - **A gymnast proficient with or specializing in the [[b/_balance|balance]] [[b/_beam|beam]] ("[[b/_beam|beam]]").**
 ---
 ### Synonyms
-- [[BMW]], [[beemer]], [[bimmer]]
+- [[B/_BMW|BMW]], [[b/_beemer|beemer]], [[b/_bimmer|bimmer]]
 ---

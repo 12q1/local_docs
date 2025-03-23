@@ -10,5 +10,5 @@
 	- _Example: The plot of the film was so derisive that the audience began to jeer._
 ---
 ### Synonyms
-- [[ridiculous]], [[disdainful]], [[mocking]], [[ridiculing]], [[scornful]]
+- [[r/_ridiculous|ridiculous]], [[d/_disdainful|disdainful]], [[m/_mocking|mocking]], [[r/_ridiculing|ridiculing]], [[s/_scornful|scornful]]
 ---

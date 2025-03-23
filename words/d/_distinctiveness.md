@@ -5,5 +5,5 @@
 - **Something which [[d/_distinguishes|distinguishes]] something from [[a/_anything|anything]] [[e/_else|else]].**
 ---
 ### Synonyms
-- [[uniqueness]]
+- [[u/_uniqueness|uniqueness]]
 ---

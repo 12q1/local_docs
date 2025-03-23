@@ -11,5 +11,5 @@
 	- _Example: bilingual education_
 ---
 ### Synonyms
-- [[diglot]], [[two-tongued]], [[two-tongued]]
+- [[d/_diglot|diglot]], [[t/_two-tongued|two-tongued]], [[t/_two-tongued|two-tongued]]
 ---

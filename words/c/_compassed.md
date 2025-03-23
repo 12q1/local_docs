@@ -7,7 +7,7 @@
 - **To plot; to scheme ([[a/_against|against]] someone).**
 ---
 ### Synonyms
-- [[accomplish]], [[achieve]], [[attain]], [[gain]], [[get]], [[reach]], [[cover]], [[traverse]], [[conspire]], [[plot]], [[scheme]], [[encircle]], [[environ]], [[surround]]
+- [[a/_accomplish|accomplish]], [[a/_achieve|achieve]], [[a/_attain|attain]], [[g/_gain|gain]], [[g/_get|get]], [[r/_reach|reach]], [[c/_cover|cover]], [[t/_traverse|traverse]], [[c/_conspire|conspire]], [[p/_plot|plot]], [[s/_scheme|scheme]], [[e/_encircle|encircle]], [[e/_environ|environ]], [[s/_surround|surround]]
 #adjective
 - **Rounded; [[a/_arched|arched]]**
 ---

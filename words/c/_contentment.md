@@ -6,5 +6,5 @@
 - **The neurophysiological experience of satisfaction and [[b/_being|being]] at [[e/_ease|ease]] in one's situation, [[b/_body|body]], and/or mind.**
 ---
 ### Antonyms
-- [[discontent]], [[discontentment]], [[dissatisfaction]]
+- [[d/_discontent|discontent]], [[d/_discontentment|discontentment]], [[d/_dissatisfaction|dissatisfaction]]
 ---

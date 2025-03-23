@@ -25,5 +25,5 @@
 - **Food in general; rations.**
 ---
 ### Synonyms
-- [[House of Commons]], [[common house]], [[res communis]]
+- 
 ---

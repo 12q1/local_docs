@@ -7,5 +7,5 @@
 - **Pertaining to a [[c/_convent|convent]] or [[c/_convent|convent]] life; [[c/_cloistered|cloistered]], monastic.**
 ---
 ### Synonyms
-- [[conventical]]
+- [[c/_conventical|conventical]]
 ---

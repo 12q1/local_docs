@@ -12,5 +12,5 @@
 	- _Example: The train station was bustling with commuters._
 ---
 ### Synonyms
-- [[abound]], [[brim]], [[bristle]], [[burst]], [[crawl]], [[swell]], [[teem]], [[flit]], [[hustle]], [[scamper]], [[scurry]]
+- [[a/_abound|abound]], [[b/_brim|brim]], [[b/_bristle|bristle]], [[b/_burst|burst]], [[c/_crawl|crawl]], [[s/_swell|swell]], [[t/_teem|teem]], [[f/_flit|flit]], [[h/_hustle|hustle]], [[s/_scamper|scamper]], [[s/_scurry|scurry]]
 ---

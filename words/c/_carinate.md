@@ -6,5 +6,5 @@
 - **Of a [[b/_bird|bird]], having a keeled [[b/_breastbone|breastbone]] [[a/_allowing|allowing]] the [[a/_attachment|attachment]] of flight muscles.**
 ---
 ### Synonyms
-- [[ridged]]
+- [[r/_ridged|ridged]]
 ---

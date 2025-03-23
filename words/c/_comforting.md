@@ -8,7 +8,7 @@
 - **To [[a/_assist|assist]] or help; to [[a/_aid|aid]].**
 ---
 ### Synonyms
-- [[besoothe]]
+- [[b/_besoothe|besoothe]]
 #noun
 - **The [[a/_act|act]] of giving [[c/_comfort|comfort]].**
 ---

@@ -5,5 +5,5 @@
 	- _Example: Many air conditioners, in addition to reducing the temperature, also dehumidify the air._
 ---
 ### Antonyms
-- [[humidify]]
+- [[h/_humidify|humidify]]
 ---

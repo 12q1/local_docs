@@ -6,5 +6,5 @@
 - **A person who is [[a/_attended|attended]].**
 ---
 ### Synonyms
-- [[audience]], [[participant]], [[attender]], [[audience]]
+- [[a/_audience|audience]], [[p/_participant|participant]], [[a/_attender|attender]], [[a/_audience|audience]]
 ---

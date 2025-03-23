@@ -8,5 +8,5 @@
 - **Frustrated.**
 ---
 ### Antonyms
-- [[gruntled]], [[satisfied]]
+- [[g/_gruntled|gruntled]], [[s/_satisfied|satisfied]]
 ---

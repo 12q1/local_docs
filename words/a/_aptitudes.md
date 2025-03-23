@@ -5,5 +5,5 @@
 - **The [[c/_condition|condition]] of [[b/_being|being]] suitable.**
 ---
 ### Synonyms
-- [[appropriateness]], [[suitability]], [[knack]], [[talent]]
+- [[a/_appropriateness|appropriateness]], [[s/_suitability|suitability]], [[k/_knack|knack]], [[t/_talent|talent]]
 ---

@@ -4,5 +4,5 @@
 - **To [[c/_conceive|conceive]] or see something within one's mind. To imagine.**
 ---
 ### Synonyms
-- [[dream]], [[envisage]], [[imagine]], [[think up]], [[visualize]]
+- [[d/_dream|dream]], [[e/_envisage|envisage]], [[i/_imagine|imagine]], [[v/_visualize|visualize]]
 ---

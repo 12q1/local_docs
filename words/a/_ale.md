@@ -6,5 +6,5 @@
 - **A festival in [[e/_english|English]] [[c/_country|country]] places, so [[c/_called|called]] from the liquor [[d/_drunk|drunk]].**
 ---
 ### Synonyms
-- [[beer]], [[yill]]
+- [[b/_beer|beer]], [[y/_yill|yill]]
 ---

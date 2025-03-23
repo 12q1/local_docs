@@ -10,7 +10,7 @@
 - **A limitation.**
 ---
 ### Synonyms
-- [[if-then]], [[material conditional]]
+- [[i/_if-then|if-then]]
 #adjective
 - **Limited by a [[c/_condition|condition]].**
 	- _Example: I made my son a conditional promise: I would buy him a bike if he kept his room tidy._
@@ -20,7 +20,7 @@
 	- _Example: a conditional word, mode, or tense_
 ---
 ### Synonyms
-- [[hypothetical]], [[conditioned]], [[limited]], [[relative]]
+- [[h/_hypothetical|hypothetical]], [[c/_conditioned|conditioned]], [[l/_limited|limited]], [[r/_relative|relative]]
 ### Antonyms
-- [[absolute]], [[categorical]], [[unconditional]]
+- [[a/_absolute|absolute]], [[c/_categorical|categorical]], [[u/_unconditional|unconditional]]
 ---

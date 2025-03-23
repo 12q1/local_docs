@@ -5,5 +5,5 @@
 - **A person exhibiting over-zealous religious fervour.**
 ---
 ### Synonyms
-- [[addict]], [[aficionado]], [[amateur]], [[fan]], [[fanatic]], [[fancier]], [[fiend]], [[freak]], [[geek]], [[junkie]], [[maniac]], [[partisan]], [[power user]], [[prosumer]], [[rooter]], [[zealot]]
+- [[a/_addict|addict]], [[a/_aficionado|aficionado]], [[a/_amateur|amateur]], [[f/_fan|fan]], [[f/_fanatic|fanatic]], [[f/_fancier|fancier]], [[f/_fiend|fiend]], [[f/_freak|freak]], [[g/_geek|geek]], [[j/_junkie|junkie]], [[m/_maniac|maniac]], [[p/_partisan|partisan]], [[p/_prosumer|prosumer]], [[r/_rooter|rooter]], [[z/_zealot|zealot]]
 ---

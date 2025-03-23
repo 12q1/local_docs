@@ -1,7 +1,7 @@
 # Diver
 ---
 #noun
-- **Someone who [[d/_dives|dives]], especially as a sport.**
+- **Someone who [[d/_dives|dives]], [[e/_especially|especially]] as a sport.**
 - **Someone who works underwater; a frogman.**
 - **The loon ([[b/_bird|bird]]).**
 - **The New Zealand sand [[d/_diver|diver]].**
@@ -11,5 +11,5 @@
 - **A [[c/_competitor|competitor]] in [[c/_certain|certain]] sports who is known to regularly imitate [[b/_being|being]] fouled, with the purpose of getting his/her opponent penalised.**
 ---
 ### Synonyms
-- [[urinator]]
+- [[u/_urinator|urinator]]
 ---

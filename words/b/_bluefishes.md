@@ -9,5 +9,5 @@
 - **Kyphosus vaigiensis.**
 ---
 ### Synonyms
-- [[brassy]], [[golden]], [[tailor]]
+- [[b/_brassy|brassy]], [[g/_golden|golden]], [[t/_tailor|tailor]]
 ---

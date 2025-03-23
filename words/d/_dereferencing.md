@@ -7,7 +7,7 @@
 	- _Example: With the find command, any symbolic links appearing after -follow will be dereferenced._
 ---
 ### Synonyms
-- [[follow]], [[resolve]]
+- [[f/_follow|follow]], [[r/_resolve|resolve]]
 #noun
 - **The [[a/_act|act]] by which something is [[d/_dereferenced|dereferenced]].**
 ---

@@ -7,9 +7,9 @@
 	- _Example: He lived in financial bondage to his cocaine habit; no matter how much he earned, it all seemed to disappear up his nose._
 - **The practice of tying people up for sexual pleasure.**
 	- _Example: Their marriage broke up when she discovered he had been engaging in bondage games with a local dominatrix while he was supposedly working out at the gym._
-- **[[a/_applied|Applied]] to [[c/_clothing|clothing]] with many [[b/_buckles|buckles]], zips, etc., [[a/_associated|associated]] with punk and goth subcultures.**
+- **[[a/_applied|Applied]] to [[c/_clothing|clothing]] with many [[b/_buckles|buckles]], zips, [[e/_etc|etc]]., [[a/_associated|associated]] with punk and goth subcultures.**
 	- _Example: bondage trousers; bondage jeans; bondage pants_
 ---
 ### Antonyms
-- [[freedom]]
+- [[f/_freedom|freedom]]
 ---

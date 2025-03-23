@@ -19,7 +19,7 @@
 	- _Example: This small harpsichord has a 1 x 4' disposition._
 ---
 ### Synonyms
-- [[assignment]], [[conveyance]]
+- [[a/_assignment|assignment]], [[c/_conveyance|conveyance]]
 #verb
 - **To remove or place in a [[d/_different|different]] position.**
 ---

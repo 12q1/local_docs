@@ -1,7 +1,7 @@
 # Cask
 ---
 #noun
-- **A large [[b/_barrel|barrel]] for the storage of liquid, especially of [[a/_alcoholic|alcoholic]] [[d/_drinks|drinks]].**
+- **A large [[b/_barrel|barrel]] for the storage of liquid, [[e/_especially|especially]] of [[a/_alcoholic|alcoholic]] [[d/_drinks|drinks]].**
 - **A [[c/_casket|casket]]; a small [[b/_box|box]] for jewels.**
 ---
 #verb

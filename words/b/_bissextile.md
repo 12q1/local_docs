@@ -8,5 +8,5 @@
 - **(inexact) [[a/_any|Any]] other year featuring intercalation, such as a year in a lunisolar [[c/_calendar|calendar]] with 13 months instead of 12, used to maintain its [[a/_alignment|alignment]] with the seasons of the solar year.**
 ---
 ### Synonyms
-- [[bissext]], [[bissextile]]
+- [[b/_bissext|bissext]], [[b/_bissextile|bissextile]]
 ---

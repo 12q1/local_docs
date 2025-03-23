@@ -10,7 +10,7 @@
 	- _Example: I've been bitter ever since that defeat._
 ---
 ### Synonyms
-- [[jaded]]
+- [[j/_jaded|jaded]]
 ### Antonyms
-- [[optimistic]]
+- [[o/_optimistic|optimistic]]
 ---

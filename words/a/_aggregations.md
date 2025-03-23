@@ -9,5 +9,5 @@
 - **Kind of object [[c/_composition|composition]] which [[d/_does|does]] not imply ownership.**
 ---
 ### Antonyms
-- [[disgregation]]
+- [[d/_disgregation|disgregation]]
 ---

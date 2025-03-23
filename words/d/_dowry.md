@@ -7,7 +7,7 @@
 - **A natural gift or talent.**
 ---
 ### Antonyms
-- [[bride price]], [[dower]]
+- [[d/_dower|dower]]
 #verb
 - **To [[b/_bestow|bestow]] a [[d/_dowry|dowry]] upon.**
 	- _Example: 1999, Judith Everard, Michael C. E. Jones, Charters Duchess Constance Br, Page xvi_

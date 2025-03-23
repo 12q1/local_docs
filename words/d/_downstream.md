@@ -11,11 +11,11 @@
 - **(metaphoric) Influenced by something; [[b/_being|being]] a [[c/_consequence|consequence]] of something.**
 ---
 ### Antonyms
-- [[upstream]]
+- [[u/_upstream|upstream]]
 #adverb
 - **Following the path of a river or stream**
 	- _Example: We spent the day paddling downstream in our canoes._
 ---
 ### Antonyms
-- [[upstream]]
+- [[u/_upstream|upstream]]
 ---

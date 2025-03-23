@@ -8,7 +8,7 @@
 - **A nadir, a low point particularly in one's [[c/_career|career]].**
 ---
 ### Synonyms
-- [[anticlimax]], [[banality]], [[triteness]], [[chewing the scenery,]], [[hamminess]], [[cheesiness]], [[sappiness]], [[treacliness]], [[tweeness]], [[callowness]], [[immaturity]]
+- [[a/_anticlimax|anticlimax]], [[b/_banality|banality]], [[t/_triteness|triteness]], [[h/_hamminess|hamminess]], [[c/_cheesiness|cheesiness]], [[s/_sappiness|sappiness]], [[t/_treacliness|treacliness]], [[t/_tweeness|tweeness]], [[c/_callowness|callowness]], [[i/_immaturity|immaturity]]
 ### Antonyms
-- [[pathos]], [[depth]], [[nadir]]
+- [[p/_pathos|pathos]], [[d/_depth|depth]], [[n/_nadir|nadir]]
 ---

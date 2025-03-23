@@ -6,7 +6,7 @@
 - **Of, or relating to [[c/_conductivity|conductivity]] of a material.**
 ---
 ### Synonyms
-- [[conductant]]
+- [[c/_conductant|conductant]]
 ### Antonyms
-- [[nonconductive]]
+- [[n/_nonconductive|nonconductive]]
 ---

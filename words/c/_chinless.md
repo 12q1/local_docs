@@ -5,5 +5,5 @@
 - **Having a weak or indecisive [[c/_character|character]]; ineffectual or [[d/_dim|dim]]-witted.**
 ---
 ### Synonyms
-- [[gormless]]
+- [[g/_gormless|gormless]]
 ---

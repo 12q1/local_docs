@@ -7,7 +7,7 @@
 - **Sure, positive, not [[d/_doubting|doubting]].**
 	- _Example: I was certain of my decision._
 - **[[d/_determined|Determined]]; resolved.**
-- **Not to be [[d/_doubted|doubted]] or [[d/_denied|denied]]; established as a fact.**
+- **Not to be [[d/_doubted|doubted]] or [[d/_denied|denied]]; [[e/_established|established]] as a fact.**
 - **[[a/_actually|Actually]] existing; sure to happen; inevitable.**
 	- _Example: Bankruptcy is the certain outcome of your constant gambling and lending._
 - **Unfailing; infallible.**
@@ -16,13 +16,13 @@
 - **Known but not specifically named; indeterminate; indefinite; one or some; sometimes used independently as a noun, and meaning [[c/_certain|certain]] persons; see [[a/_also|also]] "one".**
 ---
 ### Synonyms
-- [[unavoidable]]
+- [[u/_unavoidable|unavoidable]]
 ### Antonyms
-- [[particular]], [[specific]], [[uncertain]], [[impossible]], [[incidental]]
+- [[p/_particular|particular]], [[s/_specific|specific]], [[u/_uncertain|uncertain]], [[i/_impossible|impossible]], [[i/_incidental|incidental]]
 #pronoun
 - **(with of) Unnamed or undescribed members (of).**
 	- _Example: There were serious objections to certain of the proposals._
 ---
 ### Synonyms
-- [[some]]
+- [[s/_some|some]]
 ---

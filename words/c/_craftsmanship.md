@@ -6,5 +6,5 @@
 	- _Example: The craftsmanship on the antique chair was exquisite._
 ---
 ### Synonyms
-- [[craftwork]], [[workmanship]]
+- [[c/_craftwork|craftwork]], [[w/_workmanship|workmanship]]
 ---

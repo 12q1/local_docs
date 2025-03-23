@@ -9,7 +9,7 @@
 - **A hip hop [[d/_dance|dance]] move in which the [[d/_dancer|dancer]] simultaneously [[d/_drops|drops]] the head while raising an [[a/_arm|arm]], [[b/_briefly|briefly]] resting their face in the [[e/_elbow|elbow]], as if sneezing into their [[e/_elbow|elbow]].**
 ---
 ### Synonyms
-- [[blob]]
+- [[b/_blob|blob]]
 #verb
 - **To press lightly in a repetitive motion with a soft object without rubbing.**
 	- _Example: I dabbed my face with a towel._

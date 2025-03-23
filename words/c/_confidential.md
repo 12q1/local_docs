@@ -9,7 +9,7 @@
 	- _Example: a confidential agent; a confidential servant; a confidential whisper_
 ---
 ### Synonyms
-- [[classified]], [[dern]], [[off the record]], [[private]], [[privileged]], [[secret]]
+- [[c/_classified|classified]], [[d/_dern|dern]], [[p/_private|private]], [[p/_privileged|privileged]], [[s/_secret|secret]]
 ### Antonyms
-- [[on the record]], [[public]]
+- [[p/_public|public]]
 ---

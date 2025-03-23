@@ -7,5 +7,5 @@
 - **In morphology, a [[b/_basic|basic]] operation ([[d/_denoted|denoted]] ⊕) that usually uses a structuring [[e/_element|element]] for probing and expanding the shapes [[c/_contained|contained]] in the input image.**
 ---
 ### Synonyms
-- [[cunctation]], [[hold-up]], [[dilatation]], [[expansion]]
+- [[c/_cunctation|cunctation]], [[h/_hold-up|hold-up]], [[d/_dilatation|dilatation]], [[e/_expansion|expansion]]
 ---

@@ -4,5 +4,5 @@
 - **An [[a/_agreement|agreement]] or [[c/_contract|contract]].**
 ---
 ### Synonyms
-- [[agreement]], [[contract]], [[pact]], [[treaty]]
+- [[a/_agreement|agreement]], [[c/_contract|contract]], [[p/_pact|pact]], [[t/_treaty|treaty]]
 ---

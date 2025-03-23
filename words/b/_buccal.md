@@ -6,7 +6,7 @@
 - **(of a [[d/_drug|drug]]) [[a/_administered|Administered]] in the mouth, not by swallowing but by [[a/_absorption|absorption]] through the skin of the [[c/_cheek|cheek]]; often by placing [[b/_between|between]] the top gum and the inside of the lip.**
 ---
 ### Synonyms
-- [[genal]]
+- [[g/_genal|genal]]
 ### Antonyms
-- [[lingual]]
+- [[l/_lingual|lingual]]
 ---

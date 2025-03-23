@@ -15,6 +15,6 @@
 ---
 #adjective
 - **Having a [[b/_bell|bell]] [[a/_attached|attached]].**
-- **Having [[b/_bells|bells]] (especially [[a/_around|around]] the neck of an [[a/_animal|animal]]).**
+- **Having [[b/_bells|bells]] ([[e/_especially|especially]] [[a/_around|around]] the neck of an [[a/_animal|animal]]).**
 ---
 ---

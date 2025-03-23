@@ -5,7 +5,7 @@
 - **Wide open.**
 ---
 ### Synonyms
-- [[dumbstruck]], [[open-mouthed]], [[wide-eyed]], [[agog]]
+- [[d/_dumbstruck|dumbstruck]], [[o/_open-mouthed|open-mouthed]], [[w/_wide-eyed|wide-eyed]], [[a/_agog|agog]]
 #adverb
 - **In a state of [[a/_astonishment|astonishment]], wonder, expectation, or [[e/_eager|eager]] [[a/_attention|attention]].**
 - **Open wide.**

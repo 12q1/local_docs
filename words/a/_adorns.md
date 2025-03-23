@@ -5,5 +5,5 @@
 	- _Example: a character adorned with every Christian grace_
 ---
 ### Synonyms
-- [[beautify]], [[bedeck]], [[deck]], [[decorate]], [[grace]], [[ornament]], [[prettify]]
+- [[b/_beautify|beautify]], [[b/_bedeck|bedeck]], [[d/_deck|deck]], [[d/_decorate|decorate]], [[g/_grace|grace]], [[o/_ornament|ornament]], [[p/_prettify|prettify]]
 ---

@@ -5,5 +5,5 @@
 	- _Example: The crystal has an anisotropic structure, as it is stronger along its length than laterally._
 ---
 ### Antonyms
-- [[isotropic]]
+- [[i/_isotropic|isotropic]]
 ---

@@ -8,5 +8,5 @@
 - **To [[c/_come|come]] [[d/_down|down]].**
 ---
 ### Synonyms
-- [[descend]], [[acquiesce]], [[deign]], [[stoop]], [[vouchsafe]], [[yield]], [[belittle]], [[patronize]], [[put on airs]]
+- [[d/_descend|descend]], [[a/_acquiesce|acquiesce]], [[d/_deign|deign]], [[s/_stoop|stoop]], [[v/_vouchsafe|vouchsafe]], [[y/_yield|yield]], [[b/_belittle|belittle]], [[p/_patronize|patronize]]
 ---

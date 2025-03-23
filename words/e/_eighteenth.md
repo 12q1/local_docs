@@ -6,7 +6,7 @@
 - **A party to [[c/_celebrate|celebrate]] an [[e/_eighteenth|eighteenth]] [[b/_birthday|birthday]].**
 ---
 ### Synonyms
-- [[18th]], [[XVIIIth]]
+- [[1/_18th|18th]], [[X/_XVIIIth|XVIIIth]]
 #adjective
 - **The ordinal form of the number [[e/_eighteen|eighteen]].**
 ---

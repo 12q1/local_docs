@@ -1,7 +1,7 @@
 # Analyses
 ---
 #noun
-- **[[d/_decomposition|Decomposition]] into [[c/_components|components]] in order to study (a [[c/_complex|complex]] thing, [[c/_concept|concept]], theory etc.).**
+- **[[d/_decomposition|Decomposition]] into [[c/_components|components]] in order to study (a [[c/_complex|complex]] thing, [[c/_concept|concept]], theory [[e/_etc|etc]].).**
 - **The result of such a process.**
 - **The mathematical study of functions, sequences, series, limits, [[d/_derivatives|derivatives]] and integrals.**
 - **Proof by [[d/_deduction|deduction]] from known truths.**
@@ -10,5 +10,5 @@
 - **Psychoanalysis.**
 ---
 ### Antonyms
-- [[synthesis]]
+- [[s/_synthesis|synthesis]]
 ---

@@ -7,5 +7,5 @@
 - **To [[b/_bulldoze|bulldoze]].**
 ---
 ### Synonyms
-- [[slumber]]
+- [[s/_slumber|slumber]]
 ---

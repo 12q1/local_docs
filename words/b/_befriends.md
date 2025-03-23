@@ -6,5 +6,5 @@
 - **To favor.**
 ---
 ### Antonyms
-- [[befoe]], [[defriend]], [[unfriend]]
+- [[b/_befoe|befoe]], [[d/_defriend|defriend]], [[u/_unfriend|unfriend]]
 ---

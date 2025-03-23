@@ -6,5 +6,5 @@
 - **A larva that feeds on [[a/_aphids|aphids]].**
 ---
 ### Synonyms
-- [[French Water Dog]]
+- 
 ---

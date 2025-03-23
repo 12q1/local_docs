@@ -8,5 +8,5 @@
 - **Fond of [[d/_drunken|drunken]] revelry; wine-loving; reveling; [[c/_carousing|carousing]].**
 ---
 ### Synonyms
-- [[bacchanalian]]
+- [[b/_bacchanalian|bacchanalian]]
 ---

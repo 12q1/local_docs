@@ -5,5 +5,5 @@
 - **A risk-[[a/_averse|averse]] [[a/_attitude|attitude]] or [[a/_approach|approach]].**
 ---
 ### Synonyms
-- [[conservativism]]
+- [[c/_conservativism|conservativism]]
 ---

@@ -4,5 +4,5 @@
 - **Radiant, resplendent, shining.**
 ---
 ### Synonyms
-- [[profulgent]]
+- [[p/_profulgent|profulgent]]
 ---

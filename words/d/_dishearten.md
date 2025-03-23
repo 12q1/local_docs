@@ -4,7 +4,7 @@
 - **To [[d/_discourage|discourage]] someone by removing their [[e/_enthusiasm|enthusiasm]] or [[c/_courage|courage]].**
 ---
 ### Synonyms
-- [[discourage]]
+- [[d/_discourage|discourage]]
 ### Antonyms
-- [[encourage]], [[hearten]]
+- [[e/_encourage|encourage]], [[h/_hearten|hearten]]
 ---

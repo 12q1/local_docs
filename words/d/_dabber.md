@@ -6,5 +6,5 @@
 - **A type of thick marker pen used to mark a [[b/_bingo|bingo]] [[c/_card|card]].**
 ---
 ### Synonyms
-- [[dauber]], [[dobber]]
+- [[d/_dauber|dauber]], [[d/_dobber|dobber]]
 ---

@@ -3,7 +3,7 @@
 #verb
 - **To speak with the jargon of a [[c/_class|class]] or subgroup.**
 - **To speak in set phrases.**
-- **To preach in a singsong fashion, especially in a false or [[e/_empty|empty]] manner.**
+- **To preach in a singsong fashion, [[e/_especially|especially]] in a false or [[e/_empty|empty]] manner.**
 - **Of a [[b/_blazon|blazon]], to make a pun that references the [[b/_bearer|bearer]] of a [[c/_coat|coat]] of [[a/_arms|arms]].**
 - **To sell by [[a/_auction|auction]], or [[b/_bid|bid]] at an [[a/_auction|auction]].**
 ---

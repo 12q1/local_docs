@@ -8,5 +8,5 @@
 - **Lacking order or organisation; [[c/_confused|confused]]; [[c/_chaotic|chaotic]].**
 ---
 ### Synonyms
-- [[shambolic]]
+- [[s/_shambolic|shambolic]]
 ---

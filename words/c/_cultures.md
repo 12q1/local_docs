@@ -14,7 +14,7 @@
 - **A recurring [[a/_assemblage|assemblage]] of [[a/_artifacts|artifacts]] from a specific time and place that may [[c/_constitute|constitute]] the material [[c/_culture|culture]] remains of a particular past human society.**
 ---
 #verb
-- **To maintain in an [[e/_environment|environment]] suitable for growth (especially of [[b/_bacteria|bacteria]]) ([[c/_compare|compare]] [[c/_cultivate|cultivate]])**
+- **To maintain in an [[e/_environment|environment]] suitable for growth ([[e/_especially|especially]] of [[b/_bacteria|bacteria]]) ([[c/_compare|compare]] [[c/_cultivate|cultivate]])**
 - **To increase the [[a/_artistic|artistic]] or scientific interest (in something) ([[c/_compare|compare]] [[c/_cultivate|cultivate]])**
 ---
 ---

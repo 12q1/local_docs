@@ -7,5 +7,5 @@
 - **[[c/_court|Court]] policy; the [[c/_character|character]] of a [[c/_courtier|courtier]]; [[a/_artifice|artifice]] of a [[c/_court|court]]; [[c/_court|court]]-[[c/_craft|craft]]; finesse.**
 ---
 ### Synonyms
-- [[wooing]]
+- [[w/_wooing|wooing]]
 ---

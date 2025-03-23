@@ -5,5 +5,5 @@
 	- _Example: Their contravention of the treaty increased international tensions._
 ---
 ### Synonyms
-- [[obstruction]], [[opposition]], [[transgression]], [[violation]]
+- [[o/_obstruction|obstruction]], [[o/_opposition|opposition]], [[t/_transgression|transgression]], [[v/_violation|violation]]
 ---

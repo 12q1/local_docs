@@ -5,5 +5,5 @@
 - **To sap hostile mining.**
 ---
 ### Synonyms
-- [[counterplot]]
+- [[c/_counterplot|counterplot]]
 ---

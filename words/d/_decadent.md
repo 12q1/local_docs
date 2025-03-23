@@ -8,5 +8,5 @@
 - **Luxuriously self-indulgent.**
 ---
 ### Synonyms
-- [[sinful]]
+- [[s/_sinful|sinful]]
 ---

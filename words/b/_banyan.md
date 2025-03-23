@@ -8,5 +8,5 @@
 - **(Naval slang) A [[c/_camping|camping]] excursion on shore, to give a ship's [[c/_crew|crew]] a [[b/_break|break]] from shipboard routine.**
 ---
 ### Synonyms
-- [[banyan tree]]
+- 
 ---

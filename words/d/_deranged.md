@@ -6,7 +6,7 @@
 - **To [[d/_disrupt|disrupt]] somebody's plans, to inconvenience someone; [[d/_derail|derail]].**
 ---
 #adjective
-- **[[d/_disturbed|Disturbed]] or upset, especially mentally**
+- **[[d/_disturbed|Disturbed]] or upset, [[e/_especially|especially]] mentally**
 - **Insane**
 ---
 ---

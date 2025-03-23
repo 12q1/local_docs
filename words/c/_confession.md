@@ -1,7 +1,7 @@
 # Confession
 ---
 #noun
-- **The open [[a/_admittance|admittance]] of having [[d/_done|done]] something (especially something [[b/_bad|bad]]).**
+- **The open [[a/_admittance|admittance]] of having [[d/_done|done]] something ([[e/_especially|especially]] something [[b/_bad|bad]]).**
 	- _Example: Without the real murderer's confession, an innocent person will go to jail._
 - **A formal [[d/_document|document]] providing such an [[a/_admission|admission]].**
 	- _Example: He forced me to sign a confession!_

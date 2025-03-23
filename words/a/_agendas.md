@@ -8,5 +8,5 @@
 - **A ritual.**
 ---
 ### Synonyms
-- [[docket]], [[schedule]], [[worklist]]
+- [[d/_docket|docket]], [[s/_schedule|schedule]], [[w/_worklist|worklist]]
 ---

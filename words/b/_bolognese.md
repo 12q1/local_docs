@@ -5,5 +5,5 @@
 - **A [[d/_dish|dish]] served with [[b/_bolognese|bolognese]].**
 ---
 ### Synonyms
-- [[Bolognese sauce]], [[bol]]
+- [[b/_bol|bol]]
 ---

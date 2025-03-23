@@ -9,5 +9,5 @@
 	- _Example: Drat! I forgot to post these letters._
 ---
 ### Synonyms
-- [[crap]], [[damn]], [[fuck]], [[goddammit]], [[shit]]
+- [[c/_crap|crap]], [[d/_damn|damn]], [[f/_fuck|fuck]], [[g/_goddammit|goddammit]], [[s/_shit|shit]]
 ---

@@ -6,7 +6,7 @@
 - **To [[b/_become|become]] [[b/_better|better]]; improve.**
 ---
 ### Antonyms
-- [[deteriorate]], [[worsen]]
+- [[d/_deteriorate|deteriorate]], [[w/_worsen|worsen]]
 #adjective
 - **Having had problem(s) improved upon; having [[b/_been|been]] the subject of [[a/_amelioration|amelioration]].**
 ---

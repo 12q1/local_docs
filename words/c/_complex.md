@@ -23,7 +23,7 @@
 - **A [[c/_curve|curve]], polygon or other figure that [[c/_crosses|crosses]] or intersects itself.**
 ---
 ### Synonyms
-- [[complicated]], [[detailed]], [[difficult]], [[hard]], [[intricate]], [[involved]], [[tough]]
+- [[c/_complicated|complicated]], [[d/_detailed|detailed]], [[d/_difficult|difficult]], [[h/_hard|hard]], [[i/_intricate|intricate]], [[i/_involved|involved]], [[t/_tough|tough]]
 ### Antonyms
-- [[basic]], [[easy]], [[simple]], [[simplex]], [[straightforward]]
+- [[b/_basic|basic]], [[e/_easy|easy]], [[s/_simple|simple]], [[s/_simplex|simplex]], [[s/_straightforward|straightforward]]
 ---

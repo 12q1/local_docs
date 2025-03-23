@@ -5,5 +5,5 @@
 	- _Example: The Soviet regime was draconian._
 ---
 ### Synonyms
-- [[Orwellian]], [[cruel]], [[hard]], [[harsh]], [[rigid]], [[strict]], [[stringent]]
+- [[O/_Orwellian|Orwellian]], [[c/_cruel|cruel]], [[h/_hard|hard]], [[h/_harsh|harsh]], [[r/_rigid|rigid]], [[s/_strict|strict]], [[s/_stringent|stringent]]
 ---

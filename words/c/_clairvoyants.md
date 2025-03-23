@@ -5,5 +5,5 @@
 - **A person [[a/_able|able]] to foresee the future.**
 ---
 ### Synonyms
-- [[fortune teller]], [[medium]], [[mystic]], [[seer]]
+- [[m/_medium|medium]], [[m/_mystic|mystic]], [[s/_seer|seer]]
 ---

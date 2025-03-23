@@ -7,7 +7,7 @@
 - **A software tool that provides [[a/_assistance|assistance]] in some task, a wizard program.**
 ---
 ### Synonyms
-- [[wizard]]
+- [[w/_wizard|wizard]]
 #adjective
 - **Having a subordinate or [[a/_auxiliary|auxiliary]] position.**
 	- _Example: an assistant surgeon_

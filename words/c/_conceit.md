@@ -6,10 +6,10 @@
 	- _Example: a man of quick conceit_
 - **Quickness of [[a/_apprehension|apprehension]]; [[a/_active|active]] imagination; lively fancy.**
 - **Opinion, (neutral) judgment.**
-- **Esteem, favourable opinion.**
+- **[[e/_esteem|Esteem]], favourable opinion.**
 - **A novel or fanciful idea; a whim.**
-- **An ingenious expression or metaphorical idea, especially in extended form or used as a literary or rhetorical [[d/_device|device]].**
-- **Overly high self-esteem; vain pride; hubris.**
+- **An ingenious expression or metaphorical idea, [[e/_especially|especially]] in extended form or used as a literary or rhetorical [[d/_device|device]].**
+- **Overly high self-[[e/_esteem|esteem]]; vain pride; hubris.**
 - **[[d/_design|Design]]; pattern.**
 ---
 #verb

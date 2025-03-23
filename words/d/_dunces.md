@@ -4,5 +4,5 @@
 - **An unintelligent person.**
 ---
 ### Synonyms
-- [[idiot]]
+- [[i/_idiot|idiot]]
 ---

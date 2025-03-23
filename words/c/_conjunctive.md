@@ -14,7 +14,7 @@
 - **[[c/_closely|Closely]] united.**
 ---
 ### Synonyms
-- [[subjunctive]]
+- [[s/_subjunctive|subjunctive]]
 ### Antonyms
-- [[disjunctive]], [[disjunctive]]
+- [[d/_disjunctive|disjunctive]], [[d/_disjunctive|disjunctive]]
 ---

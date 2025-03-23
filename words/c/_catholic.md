@@ -8,8 +8,8 @@
 ---
 #adjective
 - **Universal; [[a/_all|all]]-[[e/_encompassing|encompassing]].**
-- **Pertaining to [[a/_all|all]] kinds of people and their range of tastes, proclivities etc.; liberal.**
+- **Pertaining to [[a/_all|all]] kinds of people and their range of tastes, proclivities [[e/_etc|etc]].; liberal.**
 ---
 ### Synonyms
-- [[eclectic]], [[universal]]
+- [[e/_eclectic|eclectic]], [[u/_universal|universal]]
 ---

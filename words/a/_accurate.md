@@ -8,7 +8,7 @@
 - **Precisely fixed; executed with [[c/_care|care]]; [[c/_careful|careful]].**
 ---
 ### Synonyms
-- [[correct]], [[exact]], [[just]], [[nice]], [[particular]]
+- [[c/_correct|correct]], [[e/_exact|exact]], [[j/_just|just]], [[n/_nice|nice]], [[p/_particular|particular]]
 ### Antonyms
-- [[inaccurate]]
+- [[i/_inaccurate|inaccurate]]
 ---

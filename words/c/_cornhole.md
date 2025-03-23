@@ -6,10 +6,10 @@
 - **[[a/_anus|Anus]]. (From the old-fashioned practice of using [[d/_dried|dried]] [[c/_corncobs|corncobs]] instead of toilet paper in outdoor privies)**
 ---
 ### Synonyms
-- [[baggo]], [[corn toss]]
+- [[b/_baggo|baggo]]
 #verb
 - **To have [[a/_anal|anal]] intercourse with; to penetrate [[a/_anally|anally]].**
 ---
 ### Synonyms
-- [[sodomize]]
+- [[s/_sodomize|sodomize]]
 ---

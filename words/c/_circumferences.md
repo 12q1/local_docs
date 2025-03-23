@@ -7,5 +7,5 @@
 - **The length of the longest [[c/_cycle|cycle]] of a graph**
 ---
 ### Synonyms
-- [[perimeter]], [[umstroke]], [[girth]], [[lap]]
+- [[p/_perimeter|perimeter]], [[u/_umstroke|umstroke]], [[g/_girth|girth]], [[l/_lap|lap]]
 ---

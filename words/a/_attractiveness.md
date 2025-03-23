@@ -5,5 +5,5 @@
 - **The result of [[b/_being|being]] [[a/_attractive|attractive]].**
 ---
 ### Synonyms
-- [[attraction]], [[attractivity]]
+- [[a/_attraction|attraction]], [[a/_attractivity|attractivity]]
 ---

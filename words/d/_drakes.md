@@ -11,5 +11,5 @@
 - **A [[b/_beaked|beaked]] galley, or Viking warship.**
 ---
 ### Synonyms
-- [[drake fly]]
+- 
 ---

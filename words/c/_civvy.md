@@ -4,5 +4,5 @@
 - **A [[c/_civilian|civilian]]; someone who is not in the military.**
 ---
 ### Synonyms
-- [[civvie]]
+- [[c/_civvie|civvie]]
 ---

@@ -7,7 +7,7 @@
 - **The process of [[c/_combining|combining]] [[c/_charge|charge]] from [[a/_adjacent|adjacent]] pixels in a CCD image sensor [[d/_during|during]] readout.**
 ---
 ### Synonyms
-- [[product binning]], [[bucketing]], [[data binning]], [[discrete binning]], [[statistical data binning]]
+- [[b/_bucketing|bucketing]]
 #verb
 - **To place inside a [[b/_bucket|bucket]].**
 - **To [[d/_draw|draw]] or lift in, or as if in, [[b/_buckets|buckets]].**
@@ -21,5 +21,5 @@
 - **To make, or [[c/_cause|cause]] to make (the recovery), with a [[c/_certain|certain]] hurried or unskillful forward swing of the [[b/_body|body]].**
 ---
 ### Synonyms
-- [[chuck it down]], [[piss down]], [[rain cats and dogs]], [[book it]], [[hurtle]], [[rocket]], [[shoot]], [[speed]], [[whizz]]
+- [[h/_hurtle|hurtle]], [[r/_rocket|rocket]], [[s/_shoot|shoot]], [[s/_speed|speed]], [[w/_whizz|whizz]]
 ---

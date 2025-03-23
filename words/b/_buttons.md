@@ -1,7 +1,7 @@
 # Buttons
 ---
 #noun
-- **One who [[a/_adjusts|adjusts]], especially for the insurance industry's [[e/_employment|employment]] title "loss [[a/_adjuster|adjuster]]" (or "[[c/_claims|claims]] [[a/_adjuster|adjuster]]" in the United States).**
+- **One who [[a/_adjusts|adjusts]], [[e/_especially|especially]] for the insurance industry's [[e/_employment|employment]] title "loss [[a/_adjuster|adjuster]]" (or "[[c/_claims|claims]] [[a/_adjuster|adjuster]]" in the United States).**
 ---
 #noun
 - **A knob or [[d/_disc|disc]] that is passed through a loop or ([[b/_buttonhole|buttonhole]]), serving as a fastener.**
@@ -50,5 +50,5 @@
 - **In a violin-family instrument, the [[c/_carved|carved]] wooden plug which sits in the [[b/_bottom|bottom]] [[b/_block|block]] of the instrument.**
 ---
 ### Synonyms
-- [[button]], [[endpin]]
+- [[b/_button|button]], [[e/_endpin|endpin]]
 ---

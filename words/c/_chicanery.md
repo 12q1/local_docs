@@ -5,5 +5,5 @@
 - **A slick performance by a lawyer.**
 ---
 ### Synonyms
-- [[dishonesty]], [[fraud]], [[subterfuge]], [[trickery]]
+- [[d/_dishonesty|dishonesty]], [[f/_fraud|fraud]], [[s/_subterfuge|subterfuge]], [[t/_trickery|trickery]]
 ---

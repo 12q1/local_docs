@@ -8,5 +8,5 @@
 - **Subordinate; secondary; [[a/_auxiliary|auxiliary]]**
 ---
 ### Synonyms
-- [[accessory]]
+- [[a/_accessory|accessory]]
 ---

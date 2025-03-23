@@ -6,5 +6,5 @@
 - **An outer garment made of the [[a/_above|above]], very simple in form, worn by the [[a/_arabs|Arabs]] of the [[d/_desert|desert]]. The illustration shows such an [[a/_aba|aba]], made of two [[b/_breadths|breadths]] of stuff sewed together to make an oblong [[a/_about|about]] four by nine feet.**
 ---
 ### Synonyms
-- [[abaya]]
+- [[a/_abaya|abaya]]
 ---

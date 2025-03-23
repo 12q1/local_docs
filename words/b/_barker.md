@@ -12,5 +12,5 @@
 - **The spotted redshank.**
 ---
 ### Synonyms
-- [[barking iron]], [[spruik]], [[tout]]
+- [[s/_spruik|spruik]], [[t/_tout|tout]]
 ---

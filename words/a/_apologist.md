@@ -5,5 +5,5 @@
 - **One who speaks or writes in [[d/_defense|defense]] of a faith, a [[c/_cause|cause]], or an institution.**
 ---
 ### Synonyms
-- [[apologiser]], [[apologizer]]
+- [[a/_apologiser|apologiser]], [[a/_apologizer|apologizer]]
 ---

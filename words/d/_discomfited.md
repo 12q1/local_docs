@@ -7,5 +7,5 @@
 	- _Example: Don't worry. Your joke did not really discomfit me._
 ---
 ### Synonyms
-- [[abash]], [[disconcert]], [[foil]], [[thwart]], [[overthrow]], [[vanquish]]
+- [[a/_abash|abash]], [[d/_disconcert|disconcert]], [[f/_foil|foil]], [[t/_thwart|thwart]], [[o/_overthrow|overthrow]], [[v/_vanquish|vanquish]]
 ---

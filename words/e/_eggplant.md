@@ -8,5 +8,5 @@
 - **A 180 [[b/_backside|backside]] rotated invert in which the front hand is planted on the lip of the halfpipe wall**
 ---
 ### Synonyms
-- [[melongene]], [[aubergine]], [[baingan]], [[brinjal]], [[brown jolly]]
+- [[m/_melongene|melongene]], [[a/_aubergine|aubergine]], [[b/_baingan|baingan]], [[b/_brinjal|brinjal]]
 ---

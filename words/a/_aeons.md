@@ -5,7 +5,7 @@
 - **([[c/_cosmology|Cosmology]]) [[e/_each|Each]] universe in a series of universes, [[a/_according|according]] to [[c/_conformal|conformal]] [[c/_cyclic|cyclic]] [[c/_cosmology|cosmology]].**
 ---
 #noun
-- **Eternity.**
+- **[[e/_eternity|Eternity]].**
 - **A period of 1,000,000,000 years.**
 - **The longest time period used in geology.**
 - **A long period of time.**

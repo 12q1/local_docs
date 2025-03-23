@@ -9,5 +9,5 @@
 - **To unite in a [[b/_body|body]] or mass.**
 ---
 ### Synonyms
-- [[embrace]], [[encompass]], [[enfold]], [[actualize]], [[concretize]], [[effigiate]], [[materialize]], [[objectify]], [[realize]], [[reify]], [[thingify]], [[fuse]], [[integrate]], [[merge]]
+- [[e/_embrace|embrace]], [[e/_encompass|encompass]], [[e/_enfold|enfold]], [[a/_actualize|actualize]], [[c/_concretize|concretize]], [[e/_effigiate|effigiate]], [[m/_materialize|materialize]], [[o/_objectify|objectify]], [[r/_realize|realize]], [[r/_reify|reify]], [[t/_thingify|thingify]], [[f/_fuse|fuse]], [[i/_integrate|integrate]], [[m/_merge|merge]]
 ---

@@ -7,5 +7,5 @@
 - **The taking of a small [[a/_amount|amount]] of a [[b/_beverage|beverage]] such as tea or [[c/_coffee|coffee]] into the mouth in order to taste it; a session where this is [[d/_done|done]].**
 ---
 ### Synonyms
-- [[MFD]], [[myofascial decompression]]
+- [[M/_MFD|MFD]]
 ---

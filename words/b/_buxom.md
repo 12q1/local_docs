@@ -9,8 +9,8 @@
 - **[[b/_blithe|Blithe]], gladsome, [[b/_bright|bright]], lively, gay ([[a/_attested|attested]] [[a/_after|after]] 1).**
 - **(of a man or woman) [[c/_cheerful|Cheerful]], happy (possibly as subsense of 6).**
 - **([[c/_chiefly|chiefly]] of women) Full of health, vigour, and good temper; well-favoured, plump and [[c/_comely|comely]], 'jolly', [[c/_comfortable|comfortable]]-looking (in person). ([[a/_arising|arising]] from sense 6).**
-- **(of a woman) Having a full, voluptuous figure, especially possessing large [[b/_breasts|breasts]] (as subsense of 8).**
+- **(of a woman) Having a full, voluptuous figure, [[e/_especially|especially]] possessing large [[b/_breasts|breasts]] (as subsense of 8).**
 ---
 ### Synonyms
-- [[big-breasted]], [[bosomy]], [[busty]], [[chesty]], [[curvaceous]], [[curvy]], [[full-throated]], [[round]], [[shapely]]
+- [[b/_big-breasted|big-breasted]], [[b/_bosomy|bosomy]], [[b/_busty|busty]], [[c/_chesty|chesty]], [[c/_curvaceous|curvaceous]], [[c/_curvy|curvy]], [[f/_full-throated|full-throated]], [[r/_round|round]], [[s/_shapely|shapely]]
 ---

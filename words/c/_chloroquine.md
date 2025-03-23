@@ -4,5 +4,5 @@
 - **A 4-[[a/_aminoquinoline|aminoquinoline]] [[d/_drug|drug]] used to treat and prevent malaria, having the [[c/_chemical|chemical]] formula C18H26ClN3**
 ---
 ### Synonyms
-- [[CQ]]
+- [[C/_CQ|CQ]]
 ---

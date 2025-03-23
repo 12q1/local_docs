@@ -4,5 +4,5 @@
 - **A form of hammerhead shark, Sphyrna tiburo**
 ---
 ### Synonyms
-- [[shovelhead]]
+- [[s/_shovelhead|shovelhead]]
 ---

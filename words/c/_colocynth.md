@@ -5,5 +5,5 @@
 - **The powdered pulp of this fruit, a powerful hepatic stimulant and hydragogue [[c/_cathartic|cathartic]] used as a strong laxative.**
 ---
 ### Synonyms
-- [[bitter apple]], [[bitter cucumber]], [[egusi]]
+- [[e/_egusi|egusi]]
 ---

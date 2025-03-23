@@ -1,6 +1,6 @@
 # Antrum
 ---
 #noun
-- **A [[b/_bodily|bodily]] [[c/_cavity|cavity]], especially one having [[b/_bony|bony]] walls, especially one in the sinuses.**
+- **A [[b/_bodily|bodily]] [[c/_cavity|cavity]], [[e/_especially|especially]] one having [[b/_bony|bony]] walls, [[e/_especially|especially]] one in the sinuses.**
 ---
 ---

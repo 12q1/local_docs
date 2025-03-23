@@ -6,5 +6,5 @@
 - **(tiddlywinks) A shot that strikes a squopped wink and sends it flying far [[a/_away|away]].**
 ---
 ### Synonyms
-- [[backwater]], [[backwoods]], [[boonies]], [[middle of nowhere]], [[the sticks]]
+- [[b/_backwater|backwater]], [[b/_backwoods|backwoods]], [[b/_boonies|boonies]]
 ---

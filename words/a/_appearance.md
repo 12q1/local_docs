@@ -8,7 +8,7 @@
 - **The way something looks; personal presence**
 - **[[a/_apparent|Apparent]] likeness; the way which something or someone [[a/_appears|appears]] to others.**
 	- _Example: Some people say I'm shallow because I care so much about my appearance._
-- **That which is not substance, essence, hypostasis; the outward reality as opposed to the underlying reality**
+- **That which is not substance, [[e/_essence|essence]], hypostasis; the outward reality as opposed to the underlying reality**
 	- _Example: Catholicism teaches that the Eucharist, while remaining under the physical appearance of bread and wine, becomes really and truly the body and the blood of Christ._
 - **The [[a/_act|act]] of [[a/_appearing|appearing]] in a particular place, or in society, a [[c/_company|company]], or [[a/_any|any]] proceedings; a [[c/_coming|coming]] [[b/_before|before]] the public in a particular [[c/_character|character]].**
 	- _Example: A person makes his appearance as an historian, an artist, or an orator._
@@ -17,7 +17,7 @@
 	- _Example: The patient had a small bowel obstruction and there was no appearance until after the obstruction resolved._
 ---
 ### Synonyms
-- [[apparition]], [[phenomenon]], [[presence]], [[spectacle]], [[debut]], [[arrival]], [[manifestation]], [[air]], [[aspect]], [[figure]], [[look]], [[manner]], [[mien]], [[facade]], [[façade]], [[pretense]], [[semblance]], [[show]], [[aspect]], [[mien]]
+- [[a/_apparition|apparition]], [[p/_phenomenon|phenomenon]], [[p/_presence|presence]], [[s/_spectacle|spectacle]], [[d/_debut|debut]], [[a/_arrival|arrival]], [[m/_manifestation|manifestation]], [[a/_air|air]], [[a/_aspect|aspect]], [[f/_figure|figure]], [[l/_look|look]], [[m/_manner|manner]], [[m/_mien|mien]], [[f/_facade|facade]], [[f/_façade|façade]], [[p/_pretense|pretense]], [[s/_semblance|semblance]], [[s/_show|show]], [[a/_aspect|aspect]], [[m/_mien|mien]]
 ### Antonyms
-- [[non-appearance]], [[nonappearance]]
+- [[n/_non-appearance|non-appearance]], [[n/_nonappearance|nonappearance]]
 ---

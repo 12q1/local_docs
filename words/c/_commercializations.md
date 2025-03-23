@@ -4,5 +4,5 @@
 - **The [[a/_act|act]] of [[c/_commercializing|commercializing]].**
 ---
 ### Synonyms
-- [[commodification]]
+- [[c/_commodification|commodification]]
 ---

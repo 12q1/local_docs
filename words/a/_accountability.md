@@ -5,5 +5,5 @@
 - **The obligation imposed by law or lawful order or regulation on an officer or other person for keeping [[a/_accurate|accurate]] record of property, [[d/_documents|documents]], or funds. The person having this obligation may or may not have [[a/_actual|actual]] possession of the property, [[d/_documents|documents]], or funds. [[a/_accountability|Accountability]] is [[c/_concerned|concerned]] primarily with records, while responsibility is [[c/_concerned|concerned]] primarily with [[c/_custody|custody]], [[c/_care|care]], and safekeeping.**
 ---
 ### Synonyms
-- [[accountableness]]
+- [[a/_accountableness|accountableness]]
 ---

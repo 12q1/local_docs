@@ -6,6 +6,6 @@
 	- _Example: I wrecked my car after a deer ran across the road._
 - **The meat of such an [[a/_animal|animal]]; venison.**
 	- _Example: Oh, I've never had deer before._
-- **(except in the phrase "small [[d/_deer|deer]]") an [[a/_animal|animal]], especially a quadrupedal mammal, as opposed to a [[b/_bird|bird]], fish, etc.**
+- **(except in the phrase "small [[d/_deer|deer]]") an [[a/_animal|animal]], [[e/_especially|especially]] a quadrupedal mammal, as opposed to a [[b/_bird|bird]], fish, [[e/_etc|etc]].**
 ---
 ---

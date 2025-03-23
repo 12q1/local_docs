@@ -5,5 +5,5 @@
 - **A returnee who frequently flies [[b/_back|back]] and forth [[b/_between|between]] Hong Kong and his/her [[a/_adopted|adopted]] home [[c/_country|country]].**
 ---
 ### Synonyms
-- [[cosmonaut]]
+- [[c/_cosmonaut|cosmonaut]]
 ---

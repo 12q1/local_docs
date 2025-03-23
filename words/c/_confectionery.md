@@ -6,5 +6,5 @@
 - **A store where [[c/_confectionery|confectionery]] is sold; a [[c/_confectioner|confectioner]]'s shop.**
 ---
 ### Synonyms
-- [[manufacture]], [[candy store]], [[confectioner's]], [[sweet shop]], [[candy]], [[sweets]]
+- [[m/_manufacture|manufacture]], [[c/_confectioner's|confectioner's]], [[c/_candy|candy]], [[s/_sweets|sweets]]
 ---

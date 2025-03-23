@@ -4,7 +4,7 @@
 - **To fasten something with a [[c/_chain|chain]].**
 - **To link multiple items together.**
 - **To secure someone with fetters.**
-- **To obstruct the mouth of a river etc with a [[c/_chain|chain]].**
+- **To obstruct the mouth of a river [[e/_etc|etc]] with a [[c/_chain|chain]].**
 - **To obligate.**
 - **To relate [[d/_data|data]] items with a [[c/_chain|chain]] of pointers.**
 - **To be [[c/_chained|chained]] to [[a/_another|another]] [[d/_data|data]] item.**

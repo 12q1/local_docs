@@ -10,5 +10,5 @@
 - **A type of shoe having an insert lift to make the wearer [[a/_appear|appear]] taller.**
 ---
 ### Synonyms
-- [[lift]]
+- [[l/_lift|lift]]
 ---

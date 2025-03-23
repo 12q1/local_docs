@@ -8,6 +8,6 @@
 - **To furnish with [[c/_credentials|credentials]]**
 ---
 #noun
-- **[[d/_documentary|Documentary]] evidence of someone's right to [[c/_credit|credit]] or [[a/_authority|authority]], especially such a [[d/_document|document]] given to an [[a/_ambassador|ambassador]] by a [[c/_country|country]].**
+- **[[d/_documentary|Documentary]] evidence of someone's right to [[c/_credit|credit]] or [[a/_authority|authority]], [[e/_especially|especially]] such a [[d/_document|document]] given to an [[a/_ambassador|ambassador]] by a [[c/_country|country]].**
 ---
 ---

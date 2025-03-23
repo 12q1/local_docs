@@ -7,7 +7,7 @@
 	- _Example: They have an antigovernment philosophy._
 ---
 ### Synonyms
-- [[opposition]], [[anarchist]]
+- [[o/_opposition|opposition]], [[a/_anarchist|anarchist]]
 ### Antonyms
-- [[pro-government]], [[progovernment]], [[pro-government]], [[progovernment]]
+- [[p/_pro-government|pro-government]], [[p/_progovernment|progovernment]], [[p/_pro-government|pro-government]], [[p/_progovernment|progovernment]]
 ---

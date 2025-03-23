@@ -5,5 +5,5 @@
 - **Subject to legal [[d/_discovery|discovery]]; [[a/_able|able]] to be requested by an opposing party through a legal process such as a subpoena.**
 ---
 ### Synonyms
-- [[discernable]], [[discernible]], [[findable]], [[reperible]], [[repertible]]
+- [[d/_discernable|discernable]], [[d/_discernible|discernible]], [[f/_findable|findable]], [[r/_reperible|reperible]], [[r/_repertible|repertible]]
 ---

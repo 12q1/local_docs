@@ -4,5 +4,5 @@
 - **An [[a/_alveolar|alveolar]] [[c/_consonant|consonant]]**
 ---
 ### Synonyms
-- [[gingival]]
+- [[g/_gingival|gingival]]
 ---

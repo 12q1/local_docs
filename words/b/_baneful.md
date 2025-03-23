@@ -5,7 +5,7 @@
 - **Harmful, injurious.**
 ---
 ### Synonyms
-- [[fatal]], [[mortal]]
+- [[f/_fatal|fatal]], [[m/_mortal|mortal]]
 ### Antonyms
-- [[helpful]], [[productive]]
+- [[h/_helpful|helpful]], [[p/_productive|productive]]
 ---

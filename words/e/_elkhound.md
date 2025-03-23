@@ -6,5 +6,5 @@
 	- _Example: Hällefors Elkhound_
 ---
 ### Synonyms
-- [[Norwegian Elkhound]]
+- 
 ---

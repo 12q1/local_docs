@@ -4,7 +4,7 @@
 - **A favorable planet**
 ---
 ### Antonyms
-- [[malefic]]
+- [[m/_malefic|malefic]]
 #adjective
 - **Favorable; [[b/_beneficent|beneficent]].**
 ---

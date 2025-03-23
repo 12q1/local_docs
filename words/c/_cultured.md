@@ -1,7 +1,7 @@
 # Cultured
 ---
 #verb
-- **To maintain in an [[e/_environment|environment]] suitable for growth (especially of [[b/_bacteria|bacteria]]) ([[c/_compare|compare]] [[c/_cultivate|cultivate]])**
+- **To maintain in an [[e/_environment|environment]] suitable for growth ([[e/_especially|especially]] of [[b/_bacteria|bacteria]]) ([[c/_compare|compare]] [[c/_cultivate|cultivate]])**
 - **To increase the [[a/_artistic|artistic]] or scientific interest (in something) ([[c/_compare|compare]] [[c/_cultivate|cultivate]])**
 ---
 #adjective
@@ -10,7 +10,7 @@
 	- _Example: cultured plant_
 ---
 ### Synonyms
-- [[cultivated]]
+- [[c/_cultivated|cultivated]]
 ### Antonyms
-- [[uncultured]]
+- [[u/_uncultured|uncultured]]
 ---

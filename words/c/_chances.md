@@ -10,7 +10,7 @@
 - **What [[b/_befalls|befalls]] or happens to a person; their lot or fate.**
 ---
 ### Synonyms
-- [[fortune]], [[hap]]
+- [[f/_fortune|fortune]], [[h/_hap|hap]]
 #verb
 - **To happen by [[c/_chance|chance]], to occur.**
 	- _Example: It chanced that I found a solution the very next day._
@@ -23,5 +23,5 @@
 	- _Example: The car broke down a week after I bought it. I was chanced by that fast-talking salesman._
 ---
 ### Synonyms
-- [[come across]], [[come on]], [[come upon]], [[encounter]], [[stumble upon]], [[come to pass]], [[occur]], [[transpire]], [[deceive]], [[fool]], [[trick]], [[test]]
+- [[e/_encounter|encounter]], [[o/_occur|occur]], [[t/_transpire|transpire]], [[d/_deceive|deceive]], [[f/_fool|fool]], [[t/_trick|trick]], [[t/_test|test]]
 ---

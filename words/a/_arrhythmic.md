@@ -5,5 +5,5 @@
 - **Suffering from [[c/_cardiac|cardiac]] [[a/_arrhythmia|arrhythmia]].**
 ---
 ### Synonyms
-- [[arhythmic]], [[irrhythmic]], [[nonrhythmic]], [[unrhythmic]]
+- [[a/_arhythmic|arhythmic]], [[i/_irrhythmic|irrhythmic]], [[n/_nonrhythmic|nonrhythmic]], [[u/_unrhythmic|unrhythmic]]
 ---

@@ -5,5 +5,5 @@
 - **Shrewd or [[c/_crafty|crafty]].**
 ---
 ### Synonyms
-- [[crafty]], [[shrewd]], [[wily]]
+- [[c/_crafty|crafty]], [[s/_shrewd|shrewd]], [[w/_wily|wily]]
 ---

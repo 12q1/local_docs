@@ -5,5 +5,5 @@
 - **To reduce the [[a/_authority|authority]] of a governing [[b/_body|body]] by [[d/_distributing|distributing]] that [[a/_authority|authority]] [[a/_among|among]] several [[b/_bodies|bodies]].**
 ---
 ### Antonyms
-- [[recentralize]]
+- [[r/_recentralize|recentralize]]
 ---

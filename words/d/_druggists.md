@@ -5,5 +5,5 @@
 	- _Example: For sale by all druggists_
 ---
 ### Synonyms
-- [[apothecary]], [[chemist]], [[pharmacist]]
+- [[a/_apothecary|apothecary]], [[c/_chemist|chemist]], [[p/_pharmacist|pharmacist]]
 ---

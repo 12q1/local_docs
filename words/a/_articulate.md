@@ -15,5 +15,5 @@
 - **(of sound) Related to human speech, as [[d/_distinct|distinct]] from the vocalisation of [[a/_animals|animals]].**
 ---
 ### Synonyms
-- [[eloquent]], [[well-spoken]]
+- [[e/_eloquent|eloquent]], [[w/_well-spoken|well-spoken]]
 ---

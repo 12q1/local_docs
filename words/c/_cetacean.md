@@ -11,5 +11,5 @@
 	- _Example: The obese woman, ungainly on land, moved with a kind of cetacean grace in the water._
 ---
 ### Synonyms
-- [[cetaceous]]
+- [[c/_cetaceous|cetaceous]]
 ---

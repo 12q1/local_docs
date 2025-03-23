@@ -5,5 +5,5 @@
 - **[[a/_authentic|Authentic]] or [[c/_convincing|convincing]].**
 ---
 ### Antonyms
-- [[incredible]]
+- [[i/_incredible|incredible]]
 ---

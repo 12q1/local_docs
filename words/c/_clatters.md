@@ -6,7 +6,7 @@
 - **Noisy talk or [[c/_chatter|chatter]].**
 ---
 ### Synonyms
-- [[commotion]], [[racket]]
+- [[c/_commotion|commotion]], [[r/_racket|racket]]
 #verb
 - **To make a rattling sound.**
 - **To [[c/_cause|cause]] to make a rattling noise.**

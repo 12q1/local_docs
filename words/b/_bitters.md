@@ -6,7 +6,7 @@
 - **A turn of a [[c/_cable|cable]] [[a/_about|about]] the [[b/_bitts|bitts]].**
 ---
 ### Synonyms
-- [[EPA]], [[English pale ale]]
+- [[E/_EPA|EPA]]
 #verb
 - **To make [[b/_bitter|bitter]].**
 ---

@@ -11,7 +11,7 @@
 - **To trick somebody.**
 ---
 ### Synonyms
-- [[duck]], [[evade]], [[fudge]], [[shun]], [[skirt]]
+- [[d/_duck|duck]], [[e/_evade|evade]], [[f/_fudge|fudge]], [[s/_shun|shun]], [[s/_skirt|skirt]]
 #noun
 - **The [[a/_act|act]] of [[d/_dodging|dodging]]; a [[d/_dodge|dodge]].**
 	- _Example: twistings and dodgings_

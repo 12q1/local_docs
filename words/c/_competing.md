@@ -6,7 +6,7 @@
 - **To take part in a [[c/_contest|contest]], game or similar event**
 ---
 ### Antonyms
-- [[cooperate]]
+- [[c/_cooperate|cooperate]]
 #adjective
 - **[[b/_being|Being]] in the state of [[c/_competition|competition]] (often unintentionally).**
 ---

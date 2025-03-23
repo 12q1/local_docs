@@ -11,5 +11,5 @@
 	- _Example: "I resign my life, but not my honour" is a discrete proposition._
 ---
 ### Antonyms
-- [[multiplexed]], [[integrated]], [[continuous]]
+- [[m/_multiplexed|multiplexed]], [[i/_integrated|integrated]], [[c/_continuous|continuous]]
 ---

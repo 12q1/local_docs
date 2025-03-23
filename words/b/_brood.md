@@ -1,9 +1,9 @@
 # Brood
 ---
 #noun
-- **The young of [[c/_certain|certain]] [[a/_animals|animals]], especially a group of young [[b/_birds|birds]] or fowl hatched at one time by the same mother.**
-- **The young of [[a/_any|any]] [[e/_egg|egg]]-laying [[c/_creature|creature]], especially if produced at the same time.**
-- **The [[e/_eggs|eggs]] and larvae of social insects such as [[b/_bees|bees]], [[a/_ants|ants]] and some wasps, especially when gathered together in special [[b/_brood|brood]] [[c/_chambers|chambers]] or [[c/_combs|combs]] within the [[c/_colony|colony]].**
+- **The young of [[c/_certain|certain]] [[a/_animals|animals]], [[e/_especially|especially]] a group of young [[b/_birds|birds]] or fowl hatched at one time by the same mother.**
+- **The young of [[a/_any|any]] [[e/_egg|egg]]-laying [[c/_creature|creature]], [[e/_especially|especially]] if produced at the same time.**
+- **The [[e/_eggs|eggs]] and larvae of social insects such as [[b/_bees|bees]], [[a/_ants|ants]] and some wasps, [[e/_especially|especially]] when gathered together in special [[b/_brood|brood]] [[c/_chambers|chambers]] or [[c/_combs|combs]] within the [[c/_colony|colony]].**
 - **The [[c/_children|children]] in one family; offspring.**
 - **That which is [[b/_bred|bred]] or produced; [[b/_breed|breed]]; species.**
 - **Parentage.**

@@ -4,7 +4,7 @@
 - **Having [[b/_both|both]] sides [[c/_convex|convex]].**
 ---
 ### Synonyms
-- [[convex]], [[convexoconvex]]
+- [[c/_convex|convex]], [[c/_convexoconvex|convexoconvex]]
 ### Antonyms
-- [[biconcave]]
+- [[b/_biconcave|biconcave]]
 ---

@@ -4,5 +4,5 @@
 - **Wide tubes of pasta filled with a savoury stuffing and [[b/_baked|baked]] in the oven.**
 ---
 ### Synonyms
-- [[manicotti]]
+- [[m/_manicotti|manicotti]]
 ---

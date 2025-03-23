@@ -4,7 +4,7 @@
 - **Feces**
 ---
 ### Synonyms
-- [[BM]], [[doo-doo]], [[doody]], [[poo]], [[poo-poo]], [[poop]]
+- [[B/_BM|BM]], [[d/_doo-doo|doo-doo]], [[d/_doody|doody]], [[p/_poo|poo]], [[p/_poo-poo|poo-poo]], [[p/_poop|poop]]
 #interjection
 - **Used as a scat word in song lyrics.**
 ---

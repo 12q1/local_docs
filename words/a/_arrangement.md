@@ -10,5 +10,5 @@
 - **An [[a/_adaptation|adaptation]] of a piece of music for other instruments, or in [[a/_another|another]] style.**
 ---
 ### Synonyms
-- [[configuration]], [[constitution]]
+- [[c/_configuration|configuration]], [[c/_constitution|constitution]]
 ---

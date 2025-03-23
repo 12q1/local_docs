@@ -4,7 +4,7 @@
 - **A fish-[[e/_eating|eating]] [[b/_bird|bird]] ([[a/_anhinga|Anhinga]] [[a/_anhinga|anhinga]]) of North [[a/_america|America]] with a thin, pointed [[b/_bill|bill]] and a long, thin neck.**
 ---
 ### Synonyms
-- [[American darter]], [[American snakebird]], [[water turkey]]
+- 
 #noun
 - **One who [[d/_darts|darts]], or who throws [[d/_darts|darts]]; that which [[d/_darts|darts]].**
 - **[[a/_any|Any]] member of the family Anhingidae, waterbirds with long necks.**
@@ -14,5 +14,5 @@
 - **[[a/_any|Any]] of various hesperiid [[b/_butterflies|butterflies]] of the genera Arrhenes and Telicota.**
 ---
 ### Synonyms
-- [[meadowhawk]], [[snakebird]]
+- [[m/_meadowhawk|meadowhawk]], [[s/_snakebird|snakebird]]
 ---

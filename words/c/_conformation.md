@@ -6,5 +6,5 @@
 - **The spatial [[a/_arrangement|arrangement]] of a group of [[a/_atoms|atoms]] in a molecule as a result of rotation [[a/_about|about]] a [[c/_covalent|covalent]] [[b/_bond|bond]] which remains unbroken.**
 ---
 ### Synonyms
-- [[conformance]]
+- [[c/_conformance|conformance]]
 ---

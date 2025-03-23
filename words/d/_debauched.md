@@ -9,5 +9,5 @@
 - **Indulging in or [[c/_characterised|characterised]] by sensual pleasures to a [[d/_degree|degree]] perceived to be morally harmful; [[c/_corrupted|corrupted]]; immoral; self-indulgent.**
 ---
 ### Synonyms
-- [[degenerate]], [[degraded]], [[dissipated]], [[dissolute]], [[fast]], [[libertine]], [[licentious]], [[profligate]], [[riotous]]
+- [[d/_degenerate|degenerate]], [[d/_degraded|degraded]], [[d/_dissipated|dissipated]], [[d/_dissolute|dissolute]], [[f/_fast|fast]], [[l/_libertine|libertine]], [[l/_licentious|licentious]], [[p/_profligate|profligate]], [[r/_riotous|riotous]]
 ---

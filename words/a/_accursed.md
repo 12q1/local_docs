@@ -8,5 +8,5 @@
 - **[[d/_doomed|Doomed]] to [[d/_destruction|destruction]] or misery; [[c/_cursed|cursed]]; [[a/_anathematized|anathematized]].**
 ---
 ### Synonyms
-- [[damnable]], [[execrable]]
+- [[d/_damnable|damnable]], [[e/_execrable|execrable]]
 ---

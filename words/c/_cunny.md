@@ -1,7 +1,7 @@
 # Cunny
 ---
 #noun
-- **A rabbit, especially the European rabbit, Oryctolagus [[c/_cuniculus|cuniculus]] (formerly known as Lepus [[c/_cuniculus|cuniculus]]).**
+- **A rabbit, [[e/_especially|especially]] the European rabbit, Oryctolagus [[c/_cuniculus|cuniculus]] (formerly known as Lepus [[c/_cuniculus|cuniculus]]).**
 - **Rabbit fur.**
 - **Locally for other rabbit-like or hyrax-like [[a/_animals|animals]], such as the [[c/_cape|Cape]] hyrax ([[d/_das|das]], [[d/_dassie|dassie]]) or the pika (Ochotona princeps, formerly Lagomys princeps).**
 - **A simpleton; one who may be taken in by a [[c/_cony|cony]]-[[c/_catcher|catcher]].**
@@ -11,5 +11,5 @@
 - **A woman; a sweetheart.**
 ---
 ### Synonyms
-- [[bunny]], [[hare]], [[coney]]
+- [[b/_bunny|bunny]], [[h/_hare|hare]], [[c/_coney|coney]]
 ---

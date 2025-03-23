@@ -6,5 +6,5 @@
 - **A type of form-fitting trousers with highly tapered legs.**
 ---
 ### Synonyms
-- [[culvert]], [[storm drain]], [[waste pipe]], [[skinny jeans]], [[stovepipe]], [[downpipe]], [[downspout]], [[leader]]
+- [[c/_culvert|culvert]], [[s/_stovepipe|stovepipe]], [[d/_downpipe|downpipe]], [[d/_downspout|downspout]], [[l/_leader|leader]]
 ---

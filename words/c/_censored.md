@@ -5,13 +5,13 @@
 	- _Example: Occupying powers typically censor anything reeking of resistance_
 ---
 ### Synonyms
-- [[bowdlerize]], [[expunge]], [[expurgate]], [[redact]]
+- [[b/_bowdlerize|bowdlerize]], [[e/_expunge|expunge]], [[e/_expurgate|expurgate]], [[r/_redact|redact]]
 ### Antonyms
-- [[decensor]]
+- [[d/_decensor|decensor]]
 #adjective
 - **Having had objectionable [[c/_content|content]] removed.**
 	- _Example: Gory violence is usually censored._
 ---
 ### Antonyms
-- [[uncensored]]
+- [[u/_uncensored|uncensored]]
 ---

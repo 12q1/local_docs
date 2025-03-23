@@ -13,5 +13,5 @@
 - **A [[c/_child|child]].**
 ---
 ### Synonyms
-- [[bairn]]
+- [[b/_bairn|bairn]]
 ---

@@ -8,5 +8,5 @@
 - **Unusual or irregular.**
 ---
 ### Antonyms
-- [[typical]]
+- [[t/_typical|typical]]
 ---

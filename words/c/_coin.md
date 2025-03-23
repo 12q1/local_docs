@@ -2,7 +2,7 @@
 ---
 #noun
 - **(money) A piece of [[c/_currency|currency]], usually metallic and in the shape of a [[d/_disc|disc]], but sometimes polygonal, or with a hole in the middle.**
-- **A token used in a special establishment like a [[c/_casino|casino]].**
+- **A token used in a special [[e/_establishment|establishment]] like a [[c/_casino|casino]].**
 - **That which serves for payment or recompense.**
 - **Money in general, not limited to [[c/_coins|coins]].**
 	- _Example: She spent some serious coin on that car!_
@@ -13,7 +13,7 @@
 	- _Example: What's the best coin to buy right now?_
 ---
 ### Synonyms
-- [[chip]], [[money]], [[quoin]], [[wedge]]
+- [[c/_chip|chip]], [[m/_money|money]], [[q/_quoin|quoin]], [[w/_wedge|wedge]]
 #verb
 - **To make of a [[d/_definite|definite]] fineness, and [[c/_convert|convert]] into [[c/_coins|coins]], as a mass of metal.**
 	- _Example: to coin a medal_
@@ -22,5 +22,5 @@
 - **To [[a/_acquire|acquire]] rapidly, as money; to make.**
 ---
 ### Synonyms
-- [[invent]], [[originate]], [[manufacture]], [[mint]]
+- [[i/_invent|invent]], [[o/_originate|originate]], [[m/_manufacture|manufacture]], [[m/_mint|mint]]
 ---

@@ -5,5 +5,5 @@
 - **The fracture of a [[b/_bone|bone]] site in multiple pieces (technically, at least three); [[c/_crumbling|crumbling]].**
 ---
 ### Synonyms
-- [[crushing]], [[pulverization]]
+- [[c/_crushing|crushing]], [[p/_pulverization|pulverization]]
 ---

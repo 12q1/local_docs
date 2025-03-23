@@ -5,5 +5,5 @@
 - **The [[c/_communist|Communist]] political ideology [[a/_adopted|adopted]] by the Russian Soviet Federative Socialist Republic and the Union of Soviet Socialist Republics; Marxism-Leninism.**
 ---
 ### Antonyms
-- [[antibolshevism]]
+- [[a/_antibolshevism|antibolshevism]]
 ---

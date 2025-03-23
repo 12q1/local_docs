@@ -12,5 +12,5 @@
 - **Of or related to a [[d/_disjunction|disjunction]].**
 ---
 ### Antonyms
-- [[conjunctive]]
+- [[c/_conjunctive|conjunctive]]
 ---

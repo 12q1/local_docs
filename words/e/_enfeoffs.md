@@ -5,5 +5,5 @@
 - **To give up [[c/_completely|completely]]; to surrender, to yield.**
 ---
 ### Synonyms
-- [[cede]], [[feoff]]
+- [[c/_cede|cede]], [[f/_feoff|feoff]]
 ---

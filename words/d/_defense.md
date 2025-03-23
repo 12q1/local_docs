@@ -9,5 +9,5 @@
 - **A prohibition; a prohibitory ordinance.**
 ---
 ### Antonyms
-- [[offense]]
+- [[o/_offense|offense]]
 ---

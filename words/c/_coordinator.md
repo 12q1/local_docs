@@ -6,5 +6,5 @@
 - **(grammar) A member of a lexical [[c/_class|class]] of words that joins words, phrases, and [[c/_clauses|clauses]] at the same syntactic level.**
 ---
 ### Synonyms
-- [[coordinating conjunction]]
+- 
 ---

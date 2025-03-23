@@ -9,9 +9,9 @@
 	- _Example: Ooh, I was that happy I nearly kissed her._
 ---
 ### Synonyms
-- [[so]]
+- [[s/_so|so]]
 #pronoun
-- **([[d/_demonstrative|demonstrative]]) The thing, person, idea, quality, event, [[a/_action|action]] or time indicated or understood from [[c/_context|context]], especially if more remote geographically, temporally or mentally than one [[d/_designated|designated]] as "this", or if expressing [[d/_distinction|distinction]].**
+- **([[d/_demonstrative|demonstrative]]) The thing, person, idea, quality, event, [[a/_action|action]] or time indicated or understood from [[c/_context|context]], [[e/_especially|especially]] if more remote geographically, temporally or mentally than one [[d/_designated|designated]] as "this", or if expressing [[d/_distinction|distinction]].**
 	- _Example: He went home, and after that I never saw him again._
 - **The known (thing); used to refer to something just said.**
 	- _Example: They're getting divorced. What do you think about that?_
@@ -23,14 +23,14 @@
 	- _Example: the last time that [= when] I went to Europe_
 ---
 ### Antonyms
-- [[here]], [[there]], [[this]], [[yon]], [[yonder]]
+- [[h/_here|here]], [[t/_there|there]], [[t/_this|this]], [[y/_yon|yon]], [[y/_yonder|yonder]]
 #conjunction
 - **Introducing a [[c/_clause|clause]] which is the subject or object of a verb (such as one involving reported speech), or which is a [[c/_complement|complement]] to a previous statement.**
 	- _Example: He told me that the book is a good read._
 - **Introducing a subordinate [[c/_clause|clause]] expressing a reason or [[c/_cause|cause]]: [[b/_because|because]], in that.**
 	- _Example: Be glad that you have enough to eat._
 - **Introducing a subordinate [[c/_clause|clause]] that expresses an [[a/_aim|aim]], purpose or goal ("final"), and usually [[c/_contains|contains]] the [[a/_auxiliaries|auxiliaries]] may, might or should: so, so that.**
-- **Introducing — especially, but not exclusively, with an [[a/_antecedent|antecedent]] like so or such — a subordinate [[c/_clause|clause]] expressing a result, [[c/_consequence|consequence]] or [[e/_effect|effect]].**
+- **Introducing — [[e/_especially|especially]], but not exclusively, with an [[a/_antecedent|antecedent]] like so or such — a subordinate [[c/_clause|clause]] expressing a result, [[c/_consequence|consequence]] or [[e/_effect|effect]].**
 	- _Example: The noise was so loud that she woke up._
 - **Introducing a premise or supposition for [[c/_consideration|consideration]]: seeing as; inasmuch as; given that; as would [[a/_appear|appear]] from the fact that.**
 - **Introducing a subordinate [[c/_clause|clause]] modifying an [[a/_adverb|adverb]].**

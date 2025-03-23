@@ -7,5 +7,5 @@
 - **[[a/_able|Able]] to be [[c/_controlled|controlled]]; subject to regulation or [[c/_command|command]].**
 ---
 ### Antonyms
-- [[uncontrollable]]
+- [[u/_uncontrollable|uncontrollable]]
 ---

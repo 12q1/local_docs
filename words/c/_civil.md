@@ -10,5 +10,5 @@
 - **Secular.**
 ---
 ### Antonyms
-- [[anti-civil]], [[impolite]], [[inconsiderate]], [[noncivil]], [[rude]]
+- [[a/_anti-civil|anti-civil]], [[i/_impolite|impolite]], [[i/_inconsiderate|inconsiderate]], [[n/_noncivil|noncivil]], [[r/_rude|rude]]
 ---

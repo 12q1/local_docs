@@ -4,5 +4,5 @@
 - **To [[c/_condemn|condemn]] openly.**
 ---
 ### Synonyms
-- [[denounce]]
+- [[d/_denounce|denounce]]
 ---

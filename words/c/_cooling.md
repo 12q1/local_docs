@@ -18,7 +18,7 @@
 - **([[a/_asian|Asian]] [[e/_english|English]]). Of food or medicine, [[a/_according|according]] to traditional [[c/_chinese|Chinese]] medicine: serving to [[c/_cool|cool]] or [[c/_calm|calm]] the [[b/_body|body]].**
 ---
 ### Synonyms
-- [[frigorific]]
+- [[f/_frigorific|frigorific]]
 ### Antonyms
-- [[heaty]]
+- [[h/_heaty|heaty]]
 ---

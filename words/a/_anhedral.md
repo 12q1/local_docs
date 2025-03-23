@@ -4,10 +4,10 @@
 - **The [[d/_downward|downward]] slope of an [[a/_aircraft|aircraft]]’s wing**
 ---
 ### Antonyms
-- [[dihedral]]
+- [[d/_dihedral|dihedral]]
 #adjective
 - **Lacking sharp, recognisable [[c/_crystal|crystal]] faces.**
 ---
 ### Antonyms
-- [[euhedral]]
+- [[e/_euhedral|euhedral]]
 ---

@@ -5,5 +5,5 @@
 - **Torn skin near a toenail or fingernail.**
 ---
 ### Synonyms
-- [[hangnail]]
+- [[h/_hangnail|hangnail]]
 ---

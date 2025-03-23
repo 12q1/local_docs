@@ -8,7 +8,7 @@
 - **[[e/_entanglement|Entanglement]]; perplexity.**
 ---
 ### Synonyms
-- [[inductor]]
+- [[i/_inductor|inductor]]
 #verb
 - **To wind or reel [[e/_e|e]].g. a wire or rope into regular rings, often [[a/_around|around]] a [[c/_centerpiece|centerpiece]].**
 	- _Example: A simple transformer can be made by coiling two pieces of insulated copper wire around an iron heart._

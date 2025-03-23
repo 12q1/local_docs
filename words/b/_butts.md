@@ -20,7 +20,7 @@
 	- _Example: Rams butt at other males during mating season._
 ---
 #noun
-- **([[e/_english|English]] units) An [[e/_english|English]] measure of [[c/_capacity|capacity]] for liquids, [[c/_containing|containing]] 126 wine gallons which is one-half tun; equivalent to the pipe.**
+- **([[e/_english|English]] units) An [[e/_english|English]] measure of [[c/_capacity|capacity]] for liquids, [[c/_containing|containing]] 126 wine gallons which is one-half tun; [[e/_equivalent|equivalent]] to the pipe.**
 - **A wooden [[c/_cask|cask]] for storing wine, usually [[c/_containing|containing]] 126 gallons.**
 ---
 #noun

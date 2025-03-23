@@ -4,5 +4,5 @@
 - **[[d/_dextrorotatory|Dextrorotatory]].**
 ---
 ### Antonyms
-- [[levo]]
+- [[l/_levo|levo]]
 ---

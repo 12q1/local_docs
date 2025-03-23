@@ -5,5 +5,5 @@
 - **One of the two spiral [[b/_bands|bands]] which [[a/_attach|attach]] the yolk of an [[e/_egg|egg]] to the [[e/_eggshell|eggshell]], suspending it in the white.**
 ---
 ### Synonyms
-- [[cicatricula]], [[kenning]], [[tread]], [[treadle]]
+- [[c/_cicatricula|cicatricula]], [[k/_kenning|kenning]], [[t/_tread|tread]], [[t/_treadle|treadle]]
 ---

@@ -7,7 +7,7 @@
 	- _Example: Bermuda is a crown colony of Great Britain._
 - **An [[a/_apartment|apartment]] [[c/_complex|complex]] or neighborhood.**
 	- _Example: Our colony is quite small, but each apartment is large._
-- **A group of people with the same interests or ethnic origin [[c/_concentrated|concentrated]] in a particular geographic [[a/_area|area]]**
+- **A group of people with the same interests or [[e/_ethnic|ethnic]] origin [[c/_concentrated|concentrated]] in a particular geographic [[a/_area|area]]**
 	- _Example: The Amana Colonies in Iowa were settled by people from Germany._
 - **A group of organisms of same or [[d/_different|different]] species living together in [[c/_close|close]] [[a/_association|association]].**
 	- _Example: a colony of specialized polyps and medusoids_

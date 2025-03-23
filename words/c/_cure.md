@@ -12,5 +12,5 @@
 - **That which is [[c/_committed|committed]] to the [[c/_charge|charge]] of a parish priest or of a [[c/_curate|curate]].**
 ---
 ### Synonyms
-- [[curacy]]
+- [[c/_curacy|curacy]]
 ---

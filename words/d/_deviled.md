@@ -7,7 +7,7 @@
 - **To prepare (food) with spices, making it spicy:**
 ---
 ### Synonyms
-- [[bedevil]]
+- [[b/_bedevil|bedevil]]
 #adjective
 - **Possessed by the [[d/_devil|Devil]]**
 - **Grilled with a piquant sauce**

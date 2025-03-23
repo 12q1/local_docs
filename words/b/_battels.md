@@ -7,7 +7,7 @@
 #noun
 - **(Oxford University, [[c/_chiefly|chiefly]] in the plural) Fees [[c/_charged|charged]] by a [[c/_college|college]] for [[a/_accommodation|accommodation]] and living expenses.**
 - **(Oxford University, [[c/_chiefly|chiefly]] in the plural) Provisions ordered from the kitchen and [[b/_buttery|buttery]].**
-- **(Eton [[c/_college|College]]) A small [[a/_allowance|allowance]] of food [[c/_collegers|collegers]] receive from their [[d/_dames|dames]] (matrons) in [[a/_addition|addition]] to their [[c/_college|college]] [[a/_allowance|allowance]]**
+- **([[e/_eton|Eton]] [[c/_college|College]]) A small [[a/_allowance|allowance]] of food [[c/_collegers|collegers]] receive from their [[d/_dames|dames]] (matrons) in [[a/_addition|addition]] to their [[c/_college|college]] [[a/_allowance|allowance]]**
 ---
 #noun
 - **A [[c/_contest|contest]], a struggle.**

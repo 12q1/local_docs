@@ -12,7 +12,7 @@
 - **Womanly; tender, [[a/_affectionate|affectionate]], [[c/_caring|caring]].**
 ---
 ### Synonyms
-- [[camp]], [[effete]], [[epicene]], [[swish]], [[unmanly]]
+- [[c/_camp|camp]], [[e/_effete|effete]], [[e/_epicene|epicene]], [[s/_swish|swish]], [[u/_unmanly|unmanly]]
 ### Antonyms
-- [[non-effeminate]], [[noneffeminate]], [[uneffeminate]]
+- [[n/_non-effeminate|non-effeminate]], [[n/_noneffeminate|noneffeminate]], [[u/_uneffeminate|uneffeminate]]
 ---

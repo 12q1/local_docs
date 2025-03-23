@@ -4,7 +4,7 @@
 - **A person who has [[a/_autism|autism]].**
 ---
 ### Synonyms
-- [[autist]]
+- [[a/_autist|autist]]
 #adjective
 - **Having [[a/_autism|autism]], or pertaining to [[a/_autism|autism]].**
 - **(and medically obsolete) Socially inept, self-[[a/_absorbed|absorbed]], or stupid.**
@@ -13,5 +13,5 @@
 	- _Example: imagine being this autistic over a fictional character_
 ---
 ### Synonyms
-- [[on the spectrum]]
+- 
 ---

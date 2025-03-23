@@ -7,7 +7,7 @@
 - **[[a/_absolutely|Absolutely]], by [[a/_all|all]] means; truly**
 ---
 ### Synonyms
-- [[definitively]], [[unconditionally]]
+- [[d/_definitively|definitively]], [[u/_unconditionally|unconditionally]]
 ### Antonyms
-- [[conditionally]], [[exceptionally]]
+- [[c/_conditionally|conditionally]], [[e/_exceptionally|exceptionally]]
 ---

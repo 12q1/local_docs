@@ -6,7 +6,7 @@
 - **A general trend for future [[a/_action|action]].**
 - **Guidance, instruction.**
 	- _Example: The trombonist looked to the bandleader for direction._
-- **The work of the [[d/_director|director]] in [[c/_cinema|cinema]] or theater; the skill of [[d/_directing|directing]] a film, play etc.**
+- **The work of the [[d/_director|director]] in [[c/_cinema|cinema]] or theater; the skill of [[d/_directing|directing]] a film, play [[e/_etc|etc]].**
 	- _Example: The screenplay was good, but the direction was weak._
 - **The [[b/_body|body]] of persons who guide or manage a matter; the [[d/_directorate|directorate]].**
 - **A person's [[a/_address|address]].**

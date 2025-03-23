@@ -1,6 +1,6 @@
 # Clachans
 ---
 #noun
-- **A small village or hamlet, especially in the Highlands or Western Scotland.**
+- **A small village or hamlet, [[e/_especially|especially]] in the Highlands or Western Scotland.**
 ---
 ---

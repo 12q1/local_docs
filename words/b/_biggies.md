@@ -7,6 +7,6 @@
 	- _Example: Here's the biggy: she's only getting divorced!_
 - **([[c/_chiefly|chiefly]] in the negative) [[b/_big|Big]] [[d/_deal|deal]].**
 	- _Example: - Dude, I forgot to return your book!_
-- **(originally US) A person of importance or power, especially in the [[e/_entertainment|entertainment]] industry.**
+- **(originally US) A person of importance or power, [[e/_especially|especially]] in the [[e/_entertainment|entertainment]] industry.**
 ---
 ---

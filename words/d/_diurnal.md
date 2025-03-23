@@ -15,7 +15,7 @@
 - **Published [[d/_daily|daily]].**
 ---
 ### Synonyms
-- [[circadian]]
+- [[c/_circadian|circadian]]
 ### Antonyms
-- [[nocturnal]], [[nightly]], [[nocturnal]]
+- [[n/_nocturnal|nocturnal]], [[n/_nightly|nightly]], [[n/_nocturnal|nocturnal]]
 ---

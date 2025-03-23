@@ -4,5 +4,5 @@
 - **The state of [[b/_being|being]] [[c/_competitive|competitive]].**
 ---
 ### Synonyms
-- [[competitivity]]
+- [[c/_competitivity|competitivity]]
 ---

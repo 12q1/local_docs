@@ -6,5 +6,5 @@
 - **(of knots) To [[d/_deform|deform]] under stress.**
 ---
 ### Synonyms
-- [[keel over]], [[turn turtle]]
+- 
 ---

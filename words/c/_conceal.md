@@ -5,7 +5,7 @@
 	- _Example: He tried to conceal the truth about his health._
 ---
 ### Synonyms
-- [[hide]], [[obfuscate]], [[secrete]]
+- [[h/_hide|hide]], [[o/_obfuscate|obfuscate]], [[s/_secrete|secrete]]
 ### Antonyms
-- [[admit]], [[reveal]], [[uncover]]
+- [[a/_admit|admit]], [[r/_reveal|reveal]], [[u/_uncover|uncover]]
 ---

@@ -10,9 +10,9 @@
 - **To [[c/_call|call]] to a sense of sin.**
 ---
 ### Synonyms
-- [[awake]], [[stir]], [[animate]], [[energize]], [[knock up]], [[uprouse]]
+- [[a/_awake|awake]], [[s/_stir|stir]], [[a/_animate|animate]], [[e/_energize|energize]], [[u/_uprouse|uprouse]]
 ### Antonyms
-- [[fall asleep]]
+- 
 #noun
 - **The [[a/_act|act]] of [[a/_awaking|awaking]], or [[c/_ceasing|ceasing]] to sleep.**
 - **A revival of religion, or more general [[a/_attention|attention]] to religious matters than usual.**

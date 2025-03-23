@@ -9,5 +9,5 @@
 - **To fondle; to indulge or pamper.**
 ---
 ### Synonyms
-- [[grope]], [[pet]], [[touch up]], [[coddle]], [[posset]]
+- [[g/_grope|grope]], [[p/_pet|pet]], [[c/_coddle|coddle]], [[p/_posset|posset]]
 ---

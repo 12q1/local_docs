@@ -5,5 +5,5 @@
 	- _Example: For a young man, he has the most babyish voice I've heard._
 ---
 ### Synonyms
-- [[puerile]], [[simple]]
+- [[p/_puerile|puerile]], [[s/_simple|simple]]
 ---

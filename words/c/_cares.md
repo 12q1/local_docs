@@ -8,7 +8,7 @@
 	- _Example: I don't have a care in the world._
 - **Maintenance, upkeep.**
 	- _Example: dental care_
-- **The treatment of those in need (especially as a profession).**
+- **The treatment of those in need ([[e/_especially|especially]] as a profession).**
 - **The state of [[b/_being|being]] [[c/_cared|cared]] for by others.**
 	- _Example: in care_
 - **The object of watchful [[a/_attention|attention]] or [[a/_anxiety|anxiety]].**

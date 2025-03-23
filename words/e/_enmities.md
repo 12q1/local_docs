@@ -5,5 +5,5 @@
 - **A state or feeling of opposition, hostility, hatred or [[a/_animosity|animosity]].**
 ---
 ### Antonyms
-- [[amity]]
+- [[a/_amity|amity]]
 ---

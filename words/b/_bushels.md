@@ -9,5 +9,5 @@
 - **The iron lining in the nave of a wheel.**
 ---
 ### Synonyms
-- [[box]]
+- [[b/_box|box]]
 ---

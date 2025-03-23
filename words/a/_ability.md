@@ -12,7 +12,7 @@
 	- _Example: She has an uncanny ability to defuse conflict._
 ---
 ### Synonyms
-- [[aptitude]], [[cleverness]], [[dexterity]], [[talent]], [[capability]], [[capacity]], [[faculty]], [[aptitude]], [[aptness]], [[capability]], [[capacity]], [[faculty]]
+- [[a/_aptitude|aptitude]], [[c/_cleverness|cleverness]], [[d/_dexterity|dexterity]], [[t/_talent|talent]], [[c/_capability|capability]], [[c/_capacity|capacity]], [[f/_faculty|faculty]], [[a/_aptitude|aptitude]], [[a/_aptness|aptness]], [[c/_capability|capability]], [[c/_capacity|capacity]], [[f/_faculty|faculty]]
 ### Antonyms
-- [[disability]], [[inability]], [[unability]]
+- [[d/_disability|disability]], [[i/_inability|inability]], [[u/_unability|unability]]
 ---

@@ -4,5 +4,5 @@
 - **A [[b/_blessing|blessing]]; [[b/_benediction|benediction]].**
 ---
 ### Antonyms
-- [[malison]]
+- [[m/_malison|malison]]
 ---

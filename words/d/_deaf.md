@@ -18,5 +18,5 @@
 	- _Example: a deaf nut; deaf corn_
 ---
 ### Synonyms
-- [[hard of hearing]], [[hearing-impaired]]
+- [[h/_hearing-impaired|hearing-impaired]]
 ---

@@ -17,5 +17,5 @@
 - **In [[a/_aspect|aspect]]-oriented programming, the [[c/_code|code]] whose execution is triggered when a join point is reached.**
 ---
 ### Synonyms
-- [[admonition]], [[counsel]], [[exhortation]], [[information]], [[notice]], [[recommendation]], [[rede]], [[suggestion]], [[tip]]
+- [[a/_admonition|admonition]], [[c/_counsel|counsel]], [[e/_exhortation|exhortation]], [[i/_information|information]], [[n/_notice|notice]], [[r/_recommendation|recommendation]], [[r/_rede|rede]], [[s/_suggestion|suggestion]], [[t/_tip|tip]]
 ---

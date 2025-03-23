@@ -8,5 +8,5 @@
 - **Great size; [[e/_enormousness|enormousness]], hugeness, immenseness.**
 ---
 ### Synonyms
-- [[desecration]], [[violation]], [[atrociousness]], [[depravity]], [[immorality]], [[anomalousness]], [[oddness]], [[weirdness]], [[immensity]], [[prodigiousness]]
+- [[d/_desecration|desecration]], [[v/_violation|violation]], [[a/_atrociousness|atrociousness]], [[d/_depravity|depravity]], [[i/_immorality|immorality]], [[a/_anomalousness|anomalousness]], [[o/_oddness|oddness]], [[w/_weirdness|weirdness]], [[i/_immensity|immensity]], [[p/_prodigiousness|prodigiousness]]
 ---

@@ -9,13 +9,13 @@
 - **To be exposed to great heat.**
 ---
 ### Synonyms
-- [[grill]]
+- [[g/_grill|grill]]
 #noun
 - **A [[b/_brawl|brawl]]; a rowdy [[d/_disturbance|disturbance]].**
 	- _Example: come to broils_
 ---
 ### Synonyms
-- [[skirmish]]
+- [[s/_skirmish|skirmish]]
 #verb
 - **To [[c/_cause|cause]] a rowdy [[d/_disturbance|disturbance]]; [[e/_embroil|embroil]].**
 - **To [[b/_brawl|brawl]].**

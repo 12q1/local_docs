@@ -7,14 +7,14 @@
 - **To make an [[a/_accusation|accusation]] [[a/_against|against]] someone**
 ---
 ### Synonyms
-- [[arraign]], [[charge]], [[impeach]], [[indict]], [[blame]], [[censure]], [[criminate]], [[reproach]]
+- [[a/_arraign|arraign]], [[c/_charge|charge]], [[i/_impeach|impeach]], [[i/_indict|indict]], [[b/_blame|blame]], [[c/_censure|censure]], [[c/_criminate|criminate]], [[r/_reproach|reproach]]
 #noun
 - **The person [[c/_charged|charged]] with an offense; the [[d/_defendant|defendant]] in a [[c/_criminal|criminal]] [[c/_case|case]].**
 ---
 ### Synonyms
-- [[accusee]]
+- [[a/_accusee|accusee]]
 ### Antonyms
-- [[accuser]]
+- [[a/_accuser|accuser]]
 #adjective
 - **Having [[b/_been|been]] [[a/_accused|accused]]; [[b/_being|being]] the target of [[a/_accusations|accusations]].**
 ---

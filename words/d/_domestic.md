@@ -14,7 +14,7 @@
 - **Tending to stay at home; not outgoing.**
 ---
 ### Synonyms
-- [[domesticated]], [[bourgeois]], [[civilized]], [[comfortable]]
+- [[d/_domesticated|domesticated]], [[b/_bourgeois|bourgeois]], [[c/_civilized|civilized]], [[c/_comfortable|comfortable]]
 ### Antonyms
-- [[feral]], [[wild]], [[foreign]], [[global]], [[adventurous]], [[social]]
+- [[f/_feral|feral]], [[w/_wild|wild]], [[f/_foreign|foreign]], [[g/_global|global]], [[a/_adventurous|adventurous]], [[s/_social|social]]
 ---

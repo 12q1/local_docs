@@ -8,7 +8,7 @@
 - **The process of sampling signals that measure real world physical [[c/_conditions|conditions]] and [[c/_converting|converting]] these signals into [[d/_digital|digital]] numeric values that [[c/_can|can]] be manipulated by a [[c/_computer|computer]].**
 ---
 ### Synonyms
-- [[accession]], [[acquirement]], [[accession]], [[procurement]]
+- [[a/_accession|accession]], [[a/_acquirement|acquirement]], [[a/_accession|accession]], [[p/_procurement|procurement]]
 ### Antonyms
-- [[abandonment]]
+- [[a/_abandonment|abandonment]]
 ---

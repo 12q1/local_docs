@@ -14,7 +14,7 @@
 - **[[b/_buckshot|Buckshot]], projectile from a "[[d/_dotty|dotty]]" or shotgun**
 ---
 ### Synonyms
-- [[tittle]], [[full stop]], [[period]], [[point]], [[dit]], [[decimal point]], [[speck]], [[spot]]
+- [[t/_tittle|tittle]], [[p/_period|period]], [[p/_point|point]], [[d/_dit|dit]], [[s/_speck|speck]], [[s/_spot|spot]]
 #verb
 - **To [[c/_cover|cover]] with small spots (of some liquid).**
 	- _Example: His jacket was dotted with splashes of paint._
@@ -27,7 +27,7 @@
 - **To punch (a person).**
 ---
 ### Synonyms
-- [[stipple]]
+- [[s/_stipple|stipple]]
 #noun
 - **A [[d/_dowry|dowry]].**
 ---

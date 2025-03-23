@@ -3,7 +3,7 @@
 #noun
 - **A moderate, but uncomfortable and penetrating [[c/_coldness|coldness]].**
 	- _Example: There was a chill in the air._
-- **A sudden penetrating sense of [[c/_cold|cold]], especially one that [[c/_causes|causes]] a [[b/_brief|brief]] trembling nerve response through the [[b/_body|body]]; the trembling response itself; often [[a/_associated|associated]] with illness: fevers and [[c/_chills|chills]], or susceptibility to illness.**
+- **A sudden penetrating sense of [[c/_cold|cold]], [[e/_especially|especially]] one that [[c/_causes|causes]] a [[b/_brief|brief]] trembling nerve response through the [[b/_body|body]]; the trembling response itself; often [[a/_associated|associated]] with illness: fevers and [[c/_chills|chills]], or susceptibility to illness.**
 	- _Example: Close the window or you'll catch a chill.   I felt a chill when the wind picked up._
 - **An uncomfortable and numbing sense of fear, [[d/_dread|dread]], [[a/_anxiety|anxiety]], or [[a/_alarm|alarm]], often one that is sudden and usually [[a/_accompanied|accompanied]] by a trembling nerve response resembling the [[b/_body|body]]'s response to [[b/_biting|biting]] [[c/_cold|cold]].**
 	- _Example: Despite the heat, he felt a chill as he entered the crime scene.   The actor's eerie portrayal sent chills through the audience.   His menacing presence cast a chill over everyone._

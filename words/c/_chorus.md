@@ -16,7 +16,7 @@
 - **An [[a/_actor|actor]] who reads the opening and [[c/_closing|closing]] lines of a play.**
 ---
 ### Synonyms
-- [[refrain]]
+- [[r/_refrain|refrain]]
 #verb
 - **To sing or recite in [[c/_chorus|chorus]].**
 - **To say in unison; to express in unison.**
@@ -27,5 +27,5 @@
 - **(of [[a/_animals|animals]]) To make their [[c/_cry|cry]] together.**
 ---
 ### Synonyms
-- [[duet]]
+- [[d/_duet|duet]]
 ---

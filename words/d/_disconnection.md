@@ -9,5 +9,5 @@
 	- _Example: There was a hopeless disconnection between the weary, old teacher and the spirited, young students._
 ---
 ### Synonyms
-- [[disconnect]]
+- [[d/_disconnect|disconnect]]
 ---

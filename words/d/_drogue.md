@@ -8,5 +8,5 @@
 - **A wind [[c/_cone|cone]].**
 ---
 ### Synonyms
-- [[drag chute]], [[drag parachute]], [[drogue chute]], [[drogue parachute]]
+- 
 ---

@@ -17,7 +17,7 @@
 - **To give a [[c/_compressed|compressed]] or foreshortened [[a/_appearance|appearance]] to.**
 ---
 ### Synonyms
-- [[comminute]]
+- [[c/_comminute|comminute]]
 #noun
 - **The [[a/_action|action]] of the verb to [[c/_crush|crush]].**
 - **A former method of execution by placing heavy weights on the victim.**
@@ -31,5 +31,5 @@
 	- _Example: Oh, your dog has leukemia? That’s crushing._
 ---
 ### Synonyms
-- [[gutting]]
+- [[g/_gutting|gutting]]
 ---

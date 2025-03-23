@@ -6,10 +6,10 @@
 - **A [[d/_double|double]] [[e/_eagle|eagle]], or three under par on [[a/_any|any]] one hole, except a par 3 hole.**
 ---
 ### Synonyms
-- [[gooney]], [[gooney bird]], [[goonie]]
+- [[g/_gooney|gooney]], [[g/_goonie|goonie]]
 #noun
 - **A long-term impediment, [[b/_burden|burden]], or [[c/_curse|curse]].**
 ---
 ### Synonyms
-- [[albatross around one's neck]]
+- 
 ---

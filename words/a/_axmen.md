@@ -5,5 +5,5 @@
 - **A musician who plays a guitar or saxophone.**
 ---
 ### Synonyms
-- [[saxophonist]]
+- [[s/_saxophonist|saxophonist]]
 ---

@@ -6,5 +6,5 @@
 - **A [[c/_cheerful|cheerful]] remark.**
 ---
 ### Synonyms
-- [[affability]], [[friendliness]], [[geniality]], [[conviviality]], [[warmth]]
+- [[a/_affability|affability]], [[f/_friendliness|friendliness]], [[g/_geniality|geniality]], [[c/_conviviality|conviviality]], [[w/_warmth|warmth]]
 ---

@@ -8,5 +8,5 @@
 - **A semantic relationship [[b/_between|between]] [[d/_different|different]] parts of the same text.**
 ---
 ### Antonyms
-- [[incoherence]]
+- [[i/_incoherence|incoherence]]
 ---

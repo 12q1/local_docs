@@ -15,7 +15,7 @@
 - **To [[d/_dwell|dwell]] in a [[c/_cave|cave]].**
 ---
 ### Synonyms
-- [[spelunk]]
+- [[s/_spelunk|spelunk]]
 #noun
 - **The recreational sport of exploring [[c/_caves|caves]].**
 - **An [[a/_act|act]] of [[c/_collapsing|collapsing]] or [[c/_caving|caving]] in.**

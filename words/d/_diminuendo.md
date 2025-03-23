@@ -9,7 +9,7 @@
 - **[[d/_describing|Describing]] a passage having this mark**
 ---
 ### Antonyms
-- [[crescendo]]
+- [[c/_crescendo|crescendo]]
 #adverb
 - **Played in this style**
 ---

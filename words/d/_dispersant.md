@@ -4,5 +4,5 @@
 - **[[a/_any|Any]] substance that is used to prevent settling or [[c/_clumping|clumping]] of particles suspended in a liquid.**
 ---
 ### Synonyms
-- [[disperser]], [[dispersing agent]]
+- [[d/_disperser|disperser]]
 ---

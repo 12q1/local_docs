@@ -7,17 +7,17 @@
 - **Former [[a/_ages|ages]], [[a/_antiquity|antiquity]], olden times.**
 ---
 ### Synonyms
-- [[days of yore]], [[yonks]], [[elderliness]], [[geriatric]], [[oldster]], [[senior citizen]]
+- [[y/_yonks|yonks]], [[e/_elderliness|elderliness]], [[g/_geriatric|geriatric]], [[o/_oldster|oldster]]
 #verb
 - **To [[a/_age|age]], [[b/_become|become]] or grow old.**
 - **To [[d/_delay|delay]]; linger.**
 - **To make old, [[a/_age|age]].**
 ---
 ### Synonyms
-- [[elden]], [[abide]], [[mature]]
+- [[e/_elden|elden]], [[a/_abide|abide]], [[m/_mature|mature]]
 #adjective
 - **Old.**
 ---
 ### Synonyms
-- [[aged]], [[venerable]]
+- [[a/_aged|aged]], [[v/_venerable|venerable]]
 ---

@@ -7,5 +7,5 @@
 - **A speech sound which [[b/_behaves|behaves]] as a single segment, but which makes an internal transition from one quality, place, or manner to [[a/_another|another]].**
 ---
 ### Synonyms
-- [[contour line]]
+- 
 ---

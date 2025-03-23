@@ -8,5 +8,5 @@
 - **Overly [[e/_eager|eager]] to please or obey.**
 ---
 ### Synonyms
-- [[dignified]], [[genteel]], [[refined]], [[well-mannered]], [[flattering]], [[obsequious]], [[servile]]
+- [[d/_dignified|dignified]], [[g/_genteel|genteel]], [[r/_refined|refined]], [[w/_well-mannered|well-mannered]], [[f/_flattering|flattering]], [[o/_obsequious|obsequious]], [[s/_servile|servile]]
 ---

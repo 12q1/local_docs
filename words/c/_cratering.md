@@ -7,7 +7,7 @@
 	- _Example: He cratered into that snow bank about five seconds after his first lesson._
 ---
 ### Synonyms
-- [[hollow out]], [[implode]]
+- [[i/_implode|implode]]
 #noun
 - **The [[c/_creation|creation]] of a [[c/_crater|crater]] on a surface.**
 ---

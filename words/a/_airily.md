@@ -5,5 +5,5 @@
 - **Lightly**
 ---
 ### Synonyms
-- [[flippantly]], [[gaily]], [[jauntily]]
+- [[f/_flippantly|flippantly]], [[g/_gaily|gaily]], [[j/_jauntily|jauntily]]
 ---

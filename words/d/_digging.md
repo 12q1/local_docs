@@ -1,7 +1,7 @@
 # Digging
 ---
 #verb
-- **To move hard-packed [[e/_earth|earth]] out of the way, especially [[d/_downward|downward]] to make a hole with a shovel. Or to [[d/_drill|drill]], or the like, through rocks, roads, or the like. More generally, to make [[a/_any|any]] similar hole by moving material out of the way.**
+- **To move hard-packed [[e/_earth|earth]] out of the way, [[e/_especially|especially]] [[d/_downward|downward]] to make a hole with a shovel. Or to [[d/_drill|drill]], or the like, through rocks, roads, or the like. More generally, to make [[a/_any|any]] similar hole by moving material out of the way.**
 	- _Example: If the plane can't pull out of the dive it is in, it'll dig a hole in the ground._
 - **To get by [[d/_digging|digging]]; to take from the ground; often with up.**
 	- _Example: to dig potatoes_
@@ -21,7 +21,7 @@
 ---
 #noun
 - **The [[a/_action|action]] performed by a person or thing that [[d/_digs|digs]].**
-- **A place where ore is [[d/_dug|dug]], especially [[c/_certain|certain]] localities in [[c/_california|California]], [[a/_australia|Australia]], etc. where gold is obtained.**
+- **A place where ore is [[d/_dug|dug]], [[e/_especially|especially]] [[c/_certain|certain]] localities in [[c/_california|California]], [[a/_australia|Australia]], [[e/_etc|etc]]. where gold is obtained.**
 - **Region; locality**
 ---
 ---

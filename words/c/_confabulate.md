@@ -6,5 +6,5 @@
 - **To fabricate memories in order to fill gaps in one's memory.**
 ---
 ### Synonyms
-- [[confab]]
+- [[c/_confab|confab]]
 ---

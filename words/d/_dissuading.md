@@ -5,7 +5,7 @@
 	- _Example: Jane dissuaded Martha from committing suicide._
 ---
 ### Antonyms
-- [[persuade]]
+- [[p/_persuade|persuade]]
 #noun
 - **A [[d/_dissuasion|dissuasion]].**
 ---

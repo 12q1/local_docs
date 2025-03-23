@@ -17,5 +17,5 @@
 - **A gun.**
 ---
 ### Synonyms
-- [[ring]]
+- [[r/_ring|ring]]
 ---

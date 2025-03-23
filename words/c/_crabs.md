@@ -25,13 +25,13 @@
 - **The [[c/_crab|crab]] [[a/_apple|apple]] or wild [[a/_apple|apple]].**
 - **The tree [[b/_bearing|bearing]] [[c/_crab|crab]] [[a/_apples|apples]], which has a [[d/_dogbane|dogbane]]-like [[b/_bitter|bitter]] [[b/_bark|bark]] with medical use.**
 - **A [[c/_cudgel|cudgel]] made of the wood of the [[c/_crab|crab]] tree; a [[c/_crabstick|crabstick]].**
-- **A movable winch or windlass with powerful gearing, used with [[d/_derricks|derricks]], etc.**
-- **A form of windlass, or geared [[c/_capstan|capstan]], for hauling ships into [[d/_dock|dock]], etc.**
+- **A movable winch or windlass with powerful gearing, used with [[d/_derricks|derricks]], [[e/_etc|etc]].**
+- **A form of windlass, or geared [[c/_capstan|capstan]], for hauling ships into [[d/_dock|dock]], [[e/_etc|etc]].**
 - **A machine used in ropewalks to stretch the yarn.**
 - **A [[c/_claw|claw]] for [[a/_anchoring|anchoring]] a portable machine.**
 ---
 ### Synonyms
-- [[crab apple]], [[crab apple]]
+- 
 #verb
 - **(obsolete) To irritate, make surly or sour**
 - **To be ill-tempered; to [[c/_complain|complain]] or find fault.**

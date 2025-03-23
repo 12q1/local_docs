@@ -4,5 +4,5 @@
 - **To make [[d/_divine|divine]]; to make godlike.**
 ---
 ### Synonyms
-- [[deify]]
+- [[d/_deify|deify]]
 ---

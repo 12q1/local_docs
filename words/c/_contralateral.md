@@ -1,13 +1,13 @@
 # Contralateral
 ---
 #noun
-- **(especially in plural) The opposite side of the [[b/_body|body]]**
+- **([[e/_especially|especially]] in plural) The opposite side of the [[b/_body|body]]**
 ---
 #adjective
 - **On the opposite side of the [[b/_body|body]].**
 ---
 ### Synonyms
-- [[heterolateral]]
+- [[h/_heterolateral|heterolateral]]
 ### Antonyms
-- [[ipsilateral]]
+- [[i/_ipsilateral|ipsilateral]]
 ---

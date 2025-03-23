@@ -7,5 +7,5 @@
 	- _Example: She said she dumped him. Now — bam! — they're back together._
 ---
 ### Synonyms
-- [[bang]], [[blam]], [[pow]], [[wham]]
+- [[b/_bang|bang]], [[b/_blam|blam]], [[p/_pow|pow]], [[w/_wham|wham]]
 ---

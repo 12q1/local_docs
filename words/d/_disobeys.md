@@ -5,5 +5,5 @@
 - **To refuse or (intentionally) fail to obey.**
 ---
 ### Antonyms
-- [[obey]]
+- [[o/_obey|obey]]
 ---

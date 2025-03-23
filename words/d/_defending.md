@@ -12,5 +12,5 @@
 - **To prohibit, forbid.**
 ---
 ### Antonyms
-- [[attack]]
+- [[a/_attack|attack]]
 ---

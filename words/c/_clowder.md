@@ -4,5 +4,5 @@
 - **A group of [[c/_cats|cats]] or other small felines.**
 ---
 ### Synonyms
-- [[glaring]]
+- [[g/_glaring|glaring]]
 ---

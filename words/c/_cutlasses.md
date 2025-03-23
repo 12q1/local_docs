@@ -5,5 +5,5 @@
 - **A similarly shaped tool; a machete.**
 ---
 ### Synonyms
-- [[cuttoe]], [[hanger]], [[short sabre]]
+- [[c/_cuttoe|cuttoe]], [[h/_hanger|hanger]]
 ---

@@ -7,5 +7,5 @@
 	- _Example: a courageous deed_
 ---
 ### Synonyms
-- [[bold]], [[brave]], [[hardy]], [[valorous]], [[bold]], [[brave]], [[heroic]]
+- [[b/_bold|bold]], [[b/_brave|brave]], [[h/_hardy|hardy]], [[v/_valorous|valorous]], [[b/_bold|bold]], [[b/_brave|brave]], [[h/_heroic|heroic]]
 ---

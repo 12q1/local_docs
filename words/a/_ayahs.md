@@ -7,5 +7,5 @@
 - **A verse in the Quran.**
 ---
 ### Synonyms
-- [[ayat]]
+- [[a/_ayat|ayat]]
 ---

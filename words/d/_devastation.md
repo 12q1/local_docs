@@ -5,5 +5,5 @@
 - **Waste or misapplication of the [[a/_assets|assets]] of a [[d/_deceased|deceased]] person by an executor or [[a/_administrator|administrator]]; [[d/_devastavit|devastavit]].**
 ---
 ### Synonyms
-- [[devastavit]]
+- [[d/_devastavit|devastavit]]
 ---

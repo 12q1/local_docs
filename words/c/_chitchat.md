@@ -5,7 +5,7 @@
 - **Gossip.**
 ---
 ### Synonyms
-- [[chinwag]], [[claver]]
+- [[c/_chinwag|chinwag]], [[c/_claver|claver]]
 #verb
 - **To [[e/_engage|engage]] in small talk, to [[d/_discuss|discuss]] unimportant matters.**
 ---

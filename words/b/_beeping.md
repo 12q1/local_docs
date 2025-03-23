@@ -11,7 +11,7 @@
 	- _Example: Susan beeped Jessica, and then Jessica called her back, because Susan didn't have enough credit on her phone to make the call._
 ---
 ### Synonyms
-- [[honk]], [[hoot]], [[sound]], [[toot]], [[flash]], [[fuck]], [[sleep with]]
+- [[h/_honk|honk]], [[h/_hoot|hoot]], [[s/_sound|sound]], [[t/_toot|toot]], [[f/_flash|flash]], [[f/_fuck|fuck]]
 #noun
 - **An instance of [[b/_beeping|beeping]]; a sound that [[b/_beeps|beeps]].**
 ---

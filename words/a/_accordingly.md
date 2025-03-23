@@ -5,5 +5,5 @@
 - **In natural sequence; [[c/_consequently|consequently]]; so.**
 ---
 ### Synonyms
-- [[consequently]], [[hence]], [[so]], [[therefore]], [[wherefore]]
+- [[c/_consequently|consequently]], [[h/_hence|hence]], [[s/_so|so]], [[t/_therefore|therefore]], [[w/_wherefore|wherefore]]
 ---

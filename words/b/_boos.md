@@ -10,7 +10,7 @@
 	- _Example: The protesters loudly booed the visiting senator._
 ---
 ### Antonyms
-- [[cheer]]
+- [[c/_cheer|cheer]]
 #noun
 - **A [[c/_close|close]] [[a/_acquaintance|acquaintance]] or significant other.**
 ---

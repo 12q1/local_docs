@@ -12,7 +12,7 @@
 - **To gain or win.**
 ---
 ### Synonyms
-- [[brook]], [[endure]]
+- [[b/_brook|brook]], [[e/_endure|endure]]
 #adjective
 - **[[c/_carried|Carried]], supported.**
 ---

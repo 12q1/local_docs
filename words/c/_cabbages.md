@@ -13,7 +13,7 @@
 - **The [[c/_cabbage|cabbage]] palmetto (Sabal palmetto), a palm of the southeastern US [[c/_coasts|coasts]] and nearby islands.**
 ---
 ### Synonyms
-- [[cole]], [[greens]], [[vegetable]], [[cole]]
+- [[c/_cole|cole]], [[g/_greens|greens]], [[v/_vegetable|vegetable]], [[c/_cole|cole]]
 #verb
 - **To form a head like that of the [[c/_cabbage|cabbage]].**
 	- _Example: to make lettuce cabbage_
@@ -23,5 +23,5 @@
 - **To purloin or [[e/_embezzle|embezzle]]; to pilfer, to steal.**
 ---
 ### Synonyms
-- [[embezzle]], [[pilfer]], [[purloin]], [[steal]]
+- [[e/_embezzle|embezzle]], [[p/_pilfer|pilfer]], [[p/_purloin|purloin]], [[s/_steal|steal]]
 ---

@@ -16,7 +16,7 @@
 	- _Example: Can you dupe this photo for me?_
 ---
 ### Synonyms
-- [[double]]
+- [[d/_double|double]]
 ### Antonyms
-- [[dedupe]], [[halve]]
+- [[d/_dedupe|dedupe]], [[h/_halve|halve]]
 ---

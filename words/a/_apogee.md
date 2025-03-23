@@ -7,7 +7,7 @@
 - **The highest point.**
 ---
 ### Synonyms
-- [[acme]], [[climax]], [[culmination]], [[pinnacle]], [[zenith]], [[apoapsis]], [[apocenter]], [[apsis]]
+- [[a/_acme|acme]], [[c/_climax|climax]], [[c/_culmination|culmination]], [[p/_pinnacle|pinnacle]], [[z/_zenith|zenith]], [[a/_apoapsis|apoapsis]], [[a/_apocenter|apocenter]], [[a/_apsis|apsis]]
 ### Antonyms
-- [[periapsis]], [[perigee]], [[nadir]], [[perigee]]
+- [[p/_periapsis|periapsis]], [[p/_perigee|perigee]], [[n/_nadir|nadir]], [[p/_perigee|perigee]]
 ---

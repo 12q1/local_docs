@@ -7,6 +7,6 @@
 - **To serve as a golf [[c/_caddie|caddie]].**
 ---
 #noun
-- **A Scottish errand [[b/_boy|boy]], porter, or messenger.**
+- **A Scottish [[e/_errand|errand]] [[b/_boy|boy]], porter, or messenger.**
 ---
 ---

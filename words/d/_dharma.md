@@ -7,5 +7,5 @@
 - **The teachings of the [[b/_buddha|Buddha]] as a practice to be promulgated and taught.**
 ---
 ### Antonyms
-- [[adharma]]
+- [[a/_adharma|adharma]]
 ---

@@ -7,11 +7,11 @@
 	- _Example: Don't stop here. Just move along._
 ---
 ### Synonyms
-- [[alongst]]
+- [[a/_alongst|alongst]]
 #preposition
 - **By the length of; in a line with the length of; lengthwise next to.**
 - **In a line with, with a progressive motion on; onward on; forward on.**
 ---
 ### Synonyms
-- [[alongst]], [[endlong]]
+- [[a/_alongst|alongst]], [[e/_endlong|endlong]]
 ---

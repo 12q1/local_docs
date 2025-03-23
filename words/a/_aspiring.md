@@ -7,7 +7,7 @@
 - **To move upward; to be very tall.**
 ---
 ### Synonyms
-- [[ascend]], [[mount]], [[ascend]], [[rise]], [[soar]], [[tower]]
+- [[a/_ascend|ascend]], [[m/_mount|mount]], [[a/_ascend|ascend]], [[r/_rise|rise]], [[s/_soar|soar]], [[t/_tower|tower]]
 #noun
 - **[[a/_aspiration|Aspiration]].**
 ---
@@ -16,5 +16,5 @@
 	- _Example: Aspiring pop stars lined up for hours just to audition._
 ---
 ### Synonyms
-- [[ambitious]], [[wannabe]], [[would-be]]
+- [[a/_ambitious|ambitious]], [[w/_wannabe|wannabe]], [[w/_would-be|would-be]]
 ---

@@ -6,5 +6,5 @@
 - **Of a fern in which the first veins in a frond segment are produced towards the [[a/_apex|apex]] of the frond.**
 ---
 ### Antonyms
-- [[catadromous]]
+- [[c/_catadromous|catadromous]]
 ---

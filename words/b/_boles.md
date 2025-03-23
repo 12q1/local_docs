@@ -4,7 +4,7 @@
 - **The trunk or stem of a tree.**
 ---
 #noun
-- **[[a/_any|Any]] of several varieties of friable [[e/_earthy|earthy]] [[c/_clay|clay]], usually [[c/_coloured|coloured]] red by iron oxide, and [[c/_composed|composed]] essentially of hydrous silicates of [[a/_alumina|alumina]], or more rarely of magnesia.**
+- **[[a/_any|Any]] of several varieties of friable [[e/_earthy|earthy]] [[c/_clay|clay]], usually [[c/_coloured|coloured]] red by iron oxide, and [[c/_composed|composed]] [[e/_essentially|essentially]] of hydrous silicates of [[a/_alumina|alumina]], or more rarely of magnesia.**
 - **([[c/_colour|colour]]) The shade of reddish [[b/_brown|brown]] which resembles this [[c/_clay|clay]].**
 - **A [[b/_bolus|bolus]]; a [[d/_dose|dose]].**
 ---

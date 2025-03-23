@@ -1,7 +1,7 @@
 # Busynesses
 ---
 #noun
-- **A specific [[c/_commercial|commercial]] [[e/_enterprise|enterprise]] or establishment.**
+- **A specific [[c/_commercial|commercial]] [[e/_enterprise|enterprise]] or [[e/_establishment|establishment]].**
 	- _Example: I was left my father's business._
 - **A person's occupation, work, or trade.**
 	- _Example: He is in the motor and insurance businesses._
@@ -17,7 +17,7 @@
 	- _Example: I studied business at Harvard._
 - **A particular situation or [[a/_activity|activity]].**
 	- _Example: This UFO stuff is a mighty strange business._
-- **[[a/_any|Any]] [[a/_activity|activity]] or objective needing to be [[d/_dealt|dealt]] with; especially, one of a financial or legal matter.**
+- **[[a/_any|Any]] [[a/_activity|activity]] or objective needing to be [[d/_dealt|dealt]] with; [[e/_especially|especially]], one of a financial or legal matter.**
 	- _Example: Let's get down to business._
 - **Something involving one personally.**
 	- _Example: That's none of your business._

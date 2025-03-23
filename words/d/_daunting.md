@@ -14,7 +14,7 @@
 	- _Example: It was a daunting task, but it was accomplished with some forward planning._
 ---
 ### Synonyms
-- [[disconcerting]], [[dismaying]], [[formidable]], [[frightening]], [[unnerving]], [[unsettling]], [[formidable]], [[intimidating]], [[intimidating]]
+- [[d/_disconcerting|disconcerting]], [[d/_dismaying|dismaying]], [[f/_formidable|formidable]], [[f/_frightening|frightening]], [[u/_unnerving|unnerving]], [[u/_unsettling|unsettling]], [[f/_formidable|formidable]], [[i/_intimidating|intimidating]], [[i/_intimidating|intimidating]]
 ### Antonyms
-- [[undaunting]], [[undaunting]], [[undaunting]]
+- [[u/_undaunting|undaunting]], [[u/_undaunting|undaunting]], [[u/_undaunting|undaunting]]
 ---

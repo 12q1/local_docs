@@ -4,9 +4,9 @@
 - **A person suffering from [[a/_amnesia|amnesia]]**
 ---
 ### Synonyms
-- [[amnesiac]]
+- [[a/_amnesiac|amnesiac]]
 ### Antonyms
-- [[nonamnesic]]
+- [[n/_nonamnesic|nonamnesic]]
 #adjective
 - **Of, pertaining to, or suffering from [[a/_amnesia|amnesia]]**
 ---

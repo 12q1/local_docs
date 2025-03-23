@@ -1,7 +1,7 @@
 # Convincing
 ---
 #verb
-- **To make someone [[b/_believe|believe]], or feel sure [[a/_about|about]] something, especially by using logic, [[a/_argument|argument]] or evidence.**
+- **To make someone [[b/_believe|believe]], or feel sure [[a/_about|about]] something, [[e/_especially|especially]] by using logic, [[a/_argument|argument]] or evidence.**
 	- _Example: I wouldn't have or do something, unless I'm convinced that it's good._
 - **To persuade.**
 - **To overcome, [[c/_conquer|conquer]], vanquish.**
@@ -9,7 +9,7 @@
 - **To prove guilty; to [[c/_convict|convict]].**
 ---
 ### Synonyms
-- [[assure]], [[convert]], [[persuade]], [[satisfy]], [[win over]]
+- [[a/_assure|assure]], [[c/_convert|convert]], [[p/_persuade|persuade]], [[s/_satisfy|satisfy]]
 #noun
 - **The process by which somebody is [[c/_convinced|convinced]].**
 ---

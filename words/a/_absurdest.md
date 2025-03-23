@@ -7,5 +7,5 @@
 - **[[d/_dealing|Dealing]] with [[a/_absurdism|absurdism]].**
 ---
 ### Synonyms
-- [[foolish]], [[incongruous]], [[inconsistent]], [[irrational]], [[ludicrous]], [[preposterous]], [[ridiculous]]
+- [[f/_foolish|foolish]], [[i/_incongruous|incongruous]], [[i/_inconsistent|inconsistent]], [[i/_irrational|irrational]], [[l/_ludicrous|ludicrous]], [[p/_preposterous|preposterous]], [[r/_ridiculous|ridiculous]]
 ---

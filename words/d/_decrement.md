@@ -4,10 +4,10 @@
 - **A small quantity removed or lost. One of a series of regular subtractions.**
 ---
 ### Antonyms
-- [[increment]]
+- [[i/_increment|increment]]
 #verb
 - **To [[d/_decrease|decrease]] a value by a [[b/_basic|basic]] quantity unit.**
 ---
 ### Antonyms
-- [[increment]]
+- [[i/_increment|increment]]
 ---

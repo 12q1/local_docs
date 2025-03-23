@@ -9,7 +9,7 @@
 - **The thing stipulated or purchased.**
 ---
 ### Synonyms
-- [[contract]], [[engagement]], [[stipulation]], [[purchase]], [[rip-off]], [[steal]]
+- [[c/_contract|contract]], [[e/_engagement|engagement]], [[s/_stipulation|stipulation]], [[p/_purchase|purchase]], [[r/_rip-off|rip-off]], [[s/_steal|steal]]
 #verb
 - **To make a [[b/_bargain|bargain]]; to make a [[d/_deal|deal]] or [[c/_contract|contract]] for the exchange of property or services; to negotiate**
 	- _Example: They had to bargain for a few minutes to get a decent price for the rug._

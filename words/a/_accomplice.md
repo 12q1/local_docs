@@ -5,5 +5,5 @@
 - **A [[c/_cooperator|cooperator]].**
 ---
 ### Synonyms
-- [[abettor]], [[accessory]], [[ally]], [[assistant]], [[associate]], [[coadjutor]], [[confederate]], [[promoter]]
+- [[a/_abettor|abettor]], [[a/_accessory|accessory]], [[a/_ally|ally]], [[a/_assistant|assistant]], [[a/_associate|associate]], [[c/_coadjutor|coadjutor]], [[c/_confederate|confederate]], [[p/_promoter|promoter]]
 ---

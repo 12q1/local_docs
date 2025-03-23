@@ -4,5 +4,5 @@
 - **A tooth with two [[c/_cusps|cusps]]; a premolar tooth.**
 ---
 ### Synonyms
-- [[premolar]]
+- [[p/_premolar|premolar]]
 ---

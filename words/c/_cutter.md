@@ -19,5 +19,5 @@
 - **A light sleigh [[d/_drawn|drawn]] by one horse.**
 ---
 ### Synonyms
-- [[slasher]]
+- [[s/_slasher|slasher]]
 ---

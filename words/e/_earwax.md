@@ -4,5 +4,5 @@
 - **A waxy substance secreted by the [[e/_ear|ear]].**
 ---
 ### Synonyms
-- [[cerumen]], [[wax]]
+- [[c/_cerumen|cerumen]], [[w/_wax|wax]]
 ---

@@ -7,5 +7,5 @@
 - **[[d/_difficult|Difficult]] or exhausting to traverse.**
 ---
 ### Synonyms
-- [[burdensome]], [[demanding]], [[exhausting]], [[fatiguing]], [[laborious]], [[onerous]], [[strenuous]], [[strugglesome]], [[wearisome]]
+- [[b/_burdensome|burdensome]], [[d/_demanding|demanding]], [[e/_exhausting|exhausting]], [[f/_fatiguing|fatiguing]], [[l/_laborious|laborious]], [[o/_onerous|onerous]], [[s/_strenuous|strenuous]], [[s/_strugglesome|strugglesome]], [[w/_wearisome|wearisome]]
 ---

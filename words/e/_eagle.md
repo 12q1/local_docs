@@ -7,7 +7,7 @@
 - **A score of two under par for a hole.**
 ---
 ### Synonyms
-- [[broadwing]], [[erne]]
+- [[b/_broadwing|broadwing]], [[e/_erne|erne]]
 #verb
 - **To score an [[e/_eagle|eagle]].**
 ---

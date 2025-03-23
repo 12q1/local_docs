@@ -6,5 +6,5 @@
 - **To [[b/_become|become]] [[a/_accustomed|accustomed]] to a new [[c/_climate|climate]] or [[e/_environment|environment]].**
 ---
 ### Synonyms
-- [[acclimatise]], [[acclimatize]], [[accommodate]], [[acculture]], [[accustom]], [[adjust]], [[climatize]], [[conform]], [[get used to]], [[habituate]], [[harden]], [[season]], [[toughen]]
+- [[a/_acclimatise|acclimatise]], [[a/_acclimatize|acclimatize]], [[a/_accommodate|accommodate]], [[a/_acculture|acculture]], [[a/_accustom|accustom]], [[a/_adjust|adjust]], [[c/_climatize|climatize]], [[c/_conform|conform]], [[h/_habituate|habituate]], [[h/_harden|harden]], [[s/_season|season]], [[t/_toughen|toughen]]
 ---

@@ -5,5 +5,5 @@
 - **(by extension) [[a/_any|Any]] member of a fascist party.**
 ---
 ### Synonyms
-- [[fascist]], [[squadrista]]
+- [[f/_fascist|fascist]], [[s/_squadrista|squadrista]]
 ---

@@ -7,7 +7,7 @@
 - **[[c/_clockwise|Clockwise]].**
 ---
 ### Synonyms
-- [[clockwise]], [[right-handed]], [[sunways]]
+- [[c/_clockwise|clockwise]], [[r/_right-handed|right-handed]], [[s/_sunways|sunways]]
 ### Antonyms
-- [[anticlockwise]], [[counter-clockwise]], [[left-handed]], [[widdershins]]
+- [[a/_anticlockwise|anticlockwise]], [[c/_counter-clockwise|counter-clockwise]], [[l/_left-handed|left-handed]], [[w/_widdershins|widdershins]]
 ---

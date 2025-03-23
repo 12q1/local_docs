@@ -5,5 +5,5 @@
 - **A [[d/_dark|dark]] grey [[c/_colour|colour]].**
 ---
 ### Synonyms
-- [[hard coal]]
+- 
 ---

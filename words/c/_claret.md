@@ -6,7 +6,7 @@
 - **[[b/_blood|Blood]].**
 ---
 ### Synonyms
-- [[traditional dry red]]
+- 
 #verb
 - **To [[d/_drink|drink]] [[c/_claret|claret]].**
 ---

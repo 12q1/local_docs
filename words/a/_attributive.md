@@ -11,5 +11,5 @@
 - **Serving to express an [[a/_attribute|attribute]] of an object.**
 ---
 ### Antonyms
-- [[predicative]]
+- [[p/_predicative|predicative]]
 ---

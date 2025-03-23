@@ -5,5 +5,5 @@
 - **[[a/_acuteness|Acuteness]]; [[c/_cunning|cunning]]**
 ---
 ### Synonyms
-- [[cutesiness]], [[kawaiiness]]
+- [[c/_cutesiness|cutesiness]], [[k/_kawaiiness|kawaiiness]]
 ---

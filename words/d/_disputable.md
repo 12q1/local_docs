@@ -4,5 +4,5 @@
 - **Of opinions, propositions or questions, subject to [[d/_dispute|dispute]]; not settled.**
 ---
 ### Synonyms
-- [[controvertible]]
+- [[c/_controvertible|controvertible]]
 ---

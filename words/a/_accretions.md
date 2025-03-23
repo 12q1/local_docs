@@ -1,7 +1,7 @@
 # Accretions
 ---
 #noun
-- **The [[a/_act|act]] of increasing by natural growth; especially the increase of organic [[b/_bodies|bodies]] by the internal [[a/_accession|accession]] of parts; organic growth.**
+- **The [[a/_act|act]] of increasing by natural growth; [[e/_especially|especially]] the increase of organic [[b/_bodies|bodies]] by the internal [[a/_accession|accession]] of parts; organic growth.**
 - **The [[a/_act|act]] of increasing, or the matter [[a/_added|added]], by an [[a/_accession|accession]] of parts externally; an extraneous [[a/_addition|addition]]**
 	- _Example: A mineral ... augments not by growth, but by accretion._
 - **Something [[a/_added|added]] externally to promote growth the external growth of an item.**
@@ -13,7 +13,7 @@
 - **Gain to an heir or legatee; failure of a [[c/_coheir|coheir]] to the same succession, or a [[c/_co|co]]-legatee of the same thing, to take his share percentage.**
 ---
 ### Synonyms
-- [[growth]]
+- [[g/_growth|growth]]
 ### Antonyms
-- [[attrition]], [[decay]], [[erosion]]
+- [[a/_attrition|attrition]], [[d/_decay|decay]], [[e/_erosion|erosion]]
 ---

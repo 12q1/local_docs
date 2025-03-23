@@ -6,7 +6,7 @@
 - **A petrolhead.**
 ---
 ### Synonyms
-- [[bevan]], [[booner]], [[westie]], [[westy]], [[white trash]], [[NED]], [[chav]], [[dag]], [[redneck]]
+- [[b/_bevan|bevan]], [[b/_booner|booner]], [[w/_westie|westie]], [[w/_westy|westy]], [[N/_NED|NED]], [[c/_chav|chav]], [[d/_dag|dag]], [[r/_redneck|redneck]]
 #verb
 - **To [[a/_act|act]] like a [[b/_bogan|bogan]].**
 ---

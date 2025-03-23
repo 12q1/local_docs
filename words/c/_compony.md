@@ -4,5 +4,5 @@
 - **[[d/_divided|Divided]] into a line of squares of [[a/_alternating|alternating]] tinctures**
 ---
 ### Synonyms
-- [[gobony]]
+- [[g/_gobony|gobony]]
 ---

@@ -4,7 +4,7 @@
 - **Not showing, and not [[a/_affected|affected]] by, [[e/_emotion|emotion]], [[b/_bias|bias]], or prejudice**
 ---
 ### Synonyms
-- [[nonpassionate]], [[unpassionate]]
+- [[n/_nonpassionate|nonpassionate]], [[u/_unpassionate|unpassionate]]
 ### Antonyms
-- [[passionate]]
+- [[p/_passionate|passionate]]
 ---

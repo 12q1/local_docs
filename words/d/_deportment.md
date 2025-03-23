@@ -11,5 +11,5 @@
 	- _Example: The nun's deportment reflected her vocation._
 ---
 ### Synonyms
-- [[bearing]], [[comportment]], [[posture]], [[behavior]], [[conduct]]
+- [[b/_bearing|bearing]], [[c/_comportment|comportment]], [[p/_posture|posture]], [[b/_behavior|behavior]], [[c/_conduct|conduct]]
 ---

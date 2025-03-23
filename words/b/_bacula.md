@@ -5,5 +5,5 @@
 - **A small rod-like structure found in spores and pollen**
 ---
 ### Synonyms
-- [[os penis]], [[penile bone]], [[penis bone]]
+- 
 ---

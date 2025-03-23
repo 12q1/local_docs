@@ -7,7 +7,7 @@
 - **To [[c/_cheat|cheat]]; to [[d/_defraud|defraud]]; to [[d/_deceive|deceive]], usually by small [[a/_arts|arts]], or in a pitiful way.**
 ---
 ### Synonyms
-- [[beguile]]
+- [[b/_beguile|beguile]]
 #noun
 - **Fraud; [[d/_deception|deception]]; the [[a/_acts|acts]] of one who [[c/_cozens|cozens]]**
 ---

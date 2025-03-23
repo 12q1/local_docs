@@ -8,7 +8,7 @@
 - **To be [[a/_accumulated|accumulated]].**
 ---
 ### Synonyms
-- [[amass]], [[heap up]]
+- [[a/_amass|amass]]
 #adjective
 - **[[a/_accumulated|Accumulated]], [[a/_agglomerated|agglomerated]], [[a/_amassed|amassed]]**
 ---

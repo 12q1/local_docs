@@ -16,7 +16,7 @@
 - **A probability [[d/_distribution|distribution]]; the set of relative likelihoods that a variable will have a value in a given interval.**
 - **A subset of the tangent [[b/_bundle|bundle]] of a manifold that satisfies [[c/_certain|certain]] properties; used to [[c/_construct|construct]] the notions of integrability and foliation of a manifold.**
 - **A set of [[b/_bundled|bundled]] software [[c/_components|components]]; distro.**
-- **The process or result of the sale of securities, especially their placement [[a/_among|among]] investors with long-term investment strategies.**
+- **The process or result of the sale of securities, [[e/_especially|especially]] their placement [[a/_among|among]] investors with long-term investment strategies.**
 - **The resolution of a whole into its parts.**
 - **The process of sorting the types and placing them in their proper [[b/_boxes|boxes]] in the [[c/_cases|cases]].**
 - **(steam [[e/_engines|engines]]) The steps or operations by which steam is supplied to and withdrawn from the [[c/_cylinder|cylinder]] at [[e/_each|each]] stroke of the piston: [[a/_admission|admission]], suppression or [[c/_cutting|cutting]] off, release or exhaust, and [[c/_compression|compression]] of exhaust steam prior to the next [[a/_admission|admission]].**

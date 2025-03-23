@@ -5,5 +5,5 @@
 - **In medieval Europe, a round or square structure of stone or wood, free-standing or [[b/_built|built]] into a tower, in which pigeons were kept.**
 ---
 ### Synonyms
-- [[columbarium]], [[doocot]], [[dovehouse]]
+- [[c/_columbarium|columbarium]], [[d/_doocot|doocot]], [[d/_dovehouse|dovehouse]]
 ---

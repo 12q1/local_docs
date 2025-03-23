@@ -6,5 +6,5 @@
 - **Similar solidification of other materials ([[e/_e|e]].g. of tofu).**
 ---
 ### Antonyms
-- [[declumping]], [[dissolution]], [[peptization]]
+- [[d/_declumping|declumping]], [[d/_dissolution|dissolution]], [[p/_peptization|peptization]]
 ---

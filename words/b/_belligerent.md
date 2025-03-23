@@ -13,5 +13,5 @@
 - **Uncooperative.**
 ---
 ### Synonyms
-- [[aggressive]], [[antagonistic]], [[bellicose]], [[combative]], [[contentious]], [[pugnacious]], [[quarrelsome]], [[truculent]]
+- [[a/_aggressive|aggressive]], [[a/_antagonistic|antagonistic]], [[b/_bellicose|bellicose]], [[c/_combative|combative]], [[c/_contentious|contentious]], [[p/_pugnacious|pugnacious]], [[q/_quarrelsome|quarrelsome]], [[t/_truculent|truculent]]
 ---

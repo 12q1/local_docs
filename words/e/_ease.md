@@ -8,9 +8,9 @@
 - **A relief; an [[e/_easement|easement]].**
 ---
 ### Synonyms
-- [[ability]], [[dexterity]], [[facility]], [[skill]], [[comfort]], [[peace]], [[free time]], [[leisure]], [[relaxation]], [[rest]], [[peace of mind]]
+- [[a/_ability|ability]], [[d/_dexterity|dexterity]], [[f/_facility|facility]], [[s/_skill|skill]], [[c/_comfort|comfort]], [[p/_peace|peace]], [[l/_leisure|leisure]], [[r/_relaxation|relaxation]], [[r/_rest|rest]]
 #verb
-- **To free (something) from pain, worry, [[a/_agitation|agitation]], etc.**
+- **To free (something) from pain, worry, [[a/_agitation|agitation]], [[e/_etc|etc]].**
 	- _Example: He eased his conscience by confessing._
 - **To [[a/_alleviate|alleviate]], [[a/_assuage|assuage]] or lessen (pain).**
 	- _Example: He loosened his shoe to ease the pain._
@@ -28,5 +28,5 @@
 	- _Example: The car eased onto the motorway._
 ---
 ### Synonyms
-- [[allay]], [[alleviate]], [[assuage]], [[lessen]], [[reduce]], [[assuage]], [[salve]], [[give someone a break]], [[lay off]], [[lessen]], [[reduce]], [[loosen]], [[relax]], [[slacken]], [[cruise]], [[facilitate]], [[simplify]]
+- [[a/_allay|allay]], [[a/_alleviate|alleviate]], [[a/_assuage|assuage]], [[l/_lessen|lessen]], [[r/_reduce|reduce]], [[a/_assuage|assuage]], [[s/_salve|salve]], [[l/_lessen|lessen]], [[r/_reduce|reduce]], [[l/_loosen|loosen]], [[r/_relax|relax]], [[s/_slacken|slacken]], [[c/_cruise|cruise]], [[f/_facilitate|facilitate]], [[s/_simplify|simplify]]
 ---

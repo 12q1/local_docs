@@ -7,5 +7,5 @@
 - **A trader who sells fruit and vegetables from a [[c/_cart|cart]] or [[b/_barrow|barrow]] in the street.**
 ---
 ### Synonyms
-- [[fruiterer]], [[fruitmonger]], [[fruitseller]]
+- [[f/_fruiterer|fruiterer]], [[f/_fruitmonger|fruitmonger]], [[f/_fruitseller|fruitseller]]
 ---

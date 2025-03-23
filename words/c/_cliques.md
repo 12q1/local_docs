@@ -8,5 +8,5 @@
 - **A group of related web sites that link to [[e/_each|each]] other, like a webring but with exclusive membership [[d/_determined|determined]] by the [[c/_clique|clique]] owner.**
 ---
 ### Synonyms
-- [[camp]], [[coterie]], [[ingroup]], [[inner circle]]
+- [[c/_camp|camp]], [[c/_coterie|coterie]], [[i/_ingroup|ingroup]]
 ---

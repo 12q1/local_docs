@@ -7,5 +7,5 @@
 - **Increment.**
 ---
 ### Synonyms
-- [[coalescence]]
+- [[c/_coalescence|coalescence]]
 ---

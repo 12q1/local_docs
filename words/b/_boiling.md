@@ -21,9 +21,9 @@
 	- _Example: His blood boils with anger._
 ---
 ### Synonyms
-- [[plaw]], [[seethe]], [[well]], [[be baking]], [[be seething]], [[be stewing]], [[be baking]], [[be scorching]], [[be sweltering]]
+- [[p/_plaw|plaw]], [[s/_seethe|seethe]], [[w/_well|well]]
 ### Antonyms
-- [[condense]], [[be freezing]], [[be freezing]]
+- [[c/_condense|condense]]
 #noun
 - **The process of [[c/_changing|changing]] the state of a substance from liquid to gas by heating it to its [[b/_boiling|boiling]] point.**
 - **An [[a/_animation|animation]] style with [[c/_constantly|constantly]] [[c/_changing|changing]] wavy outlines, giving a shimmering or wobbling [[a/_appearance|appearance]].**

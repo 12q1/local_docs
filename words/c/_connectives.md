@@ -8,5 +8,5 @@
 - **A [[c/_connective|connective]] tissue.**
 ---
 ### Synonyms
-- [[connexive]]
+- [[c/_connexive|connexive]]
 ---

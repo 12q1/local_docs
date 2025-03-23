@@ -8,7 +8,7 @@
 - **The process of a particle and its [[c/_corresponding|corresponding]] [[a/_antiparticle|antiparticle]] [[c/_combining|combining]] to produce [[e/_energy|energy]].**
 ---
 ### Synonyms
-- [[eradication]], [[extinction]], [[extinction]]
+- [[e/_eradication|eradication]], [[e/_extinction|extinction]], [[e/_extinction|extinction]]
 ### Antonyms
-- [[creation]], [[generation]], [[generation]]
+- [[c/_creation|creation]], [[g/_generation|generation]], [[g/_generation|generation]]
 ---

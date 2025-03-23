@@ -14,9 +14,9 @@
 - **A [[d/_drink|drink]] made by pouring water into a [[c/_cask|cask]] that previously held liquor.**
 ---
 ### Synonyms
-- [[bro]], [[cat]], [[dude]], [[guy]], [[cop]], [[copper]], [[pig]], [[rozzer]]
+- [[b/_bro|bro]], [[c/_cat|cat]], [[d/_dude|dude]], [[g/_guy|guy]], [[c/_cop|cop]], [[c/_copper|copper]], [[p/_pig|pig]], [[r/_rozzer|rozzer]]
 ### Antonyms
-- [[bear]]
+- [[b/_bear|bear]]
 #adjective
 - **Large and strong, like a [[b/_bull|bull]].**
 - **(of large mammals) [[a/_adult|adult]] male**
@@ -25,9 +25,9 @@
 - **Stupid**
 ---
 ### Synonyms
-- [[beefy]], [[hunky]], [[robust]], [[male]], [[stupid]]
+- [[b/_beefy|beefy]], [[h/_hunky|hunky]], [[r/_robust|robust]], [[m/_male|male]], [[s/_stupid|stupid]]
 ### Antonyms
-- [[bear]], [[feeble]], [[puny]], [[weak]], [[female]]
+- [[b/_bear|bear]], [[f/_feeble|feeble]], [[p/_puny|puny]], [[w/_weak|weak]], [[f/_female|female]]
 #noun
 - **The [[c/_centre|centre]] of a target, inside the inner and magpie.**
 - **A shot which hits the [[c/_centre|centre]] of a target.**
@@ -52,5 +52,5 @@
 - **Statements made without [[a/_any|any]] particular reference to their truth value.**
 ---
 ### Synonyms
-- [[BS]], [[I doubt it]], [[cheat]], [[BS]], [[bull]], [[bulldada]], [[bullpucky]], [[bushwah]], [[malarkey]]
+- [[B/_BS|BS]], [[c/_cheat|cheat]], [[B/_BS|BS]], [[b/_bull|bull]], [[b/_bulldada|bulldada]], [[b/_bullpucky|bullpucky]], [[b/_bushwah|bushwah]], [[m/_malarkey|malarkey]]
 ---

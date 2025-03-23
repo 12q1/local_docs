@@ -5,5 +5,5 @@
 - **The [[b/_berry|berry]] of this shrub.**
 ---
 ### Synonyms
-- [[foxberry]], [[lingonberry]], [[mountain cranberry]], [[partridgeberry]]
+- [[f/_foxberry|foxberry]], [[l/_lingonberry|lingonberry]], [[p/_partridgeberry|partridgeberry]]
 ---

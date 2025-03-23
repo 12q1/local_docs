@@ -6,7 +6,7 @@
 - **(London Stock Exchange) Fee paid by a [[b/_buyer|buyer]] to the seller on settlement [[d/_day|day]] when the [[b/_buyer|buyer]] wishes to [[d/_defer|defer]] settlement until the next settlement [[d/_day|day]].**
 ---
 ### Synonyms
-- [[forwardation]]
+- [[f/_forwardation|forwardation]]
 ### Antonyms
-- [[backwardation]]
+- [[b/_backwardation|backwardation]]
 ---

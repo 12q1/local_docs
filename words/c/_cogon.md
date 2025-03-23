@@ -1,8 +1,8 @@
 # Cogon
 ---
 #noun
-- **[[a/_any|Any]] of several perennial rhizomatous grasses of genus Imperata, especially Imperata cylindrica.**
+- **[[a/_any|Any]] of several perennial rhizomatous grasses of genus Imperata, [[e/_especially|especially]] Imperata cylindrica.**
 ---
 ### Synonyms
-- [[cogon grass]], [[cogongrass]], [[speargrass]]
+- [[c/_cogongrass|cogongrass]], [[s/_speargrass|speargrass]]
 ---

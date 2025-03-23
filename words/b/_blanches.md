@@ -15,7 +15,7 @@
 - **To give a favorable [[a/_appearance|appearance]] to; to whitewash; to whiten;**
 ---
 ### Synonyms
-- [[palliate]]
+- [[p/_palliate|palliate]]
 #verb
 - **To [[a/_avoid|avoid]], as from fear; to evade; to leave unnoticed.**
 - **To [[c/_cause|cause]] to turn [[a/_aside|aside]] or [[b/_back|back]].**

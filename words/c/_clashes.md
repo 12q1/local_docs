@@ -6,9 +6,9 @@
 - **A skirmish, a hostile [[e/_encounter|encounter]].**
 - **A match; a game [[b/_between|between]] two sides.**
 - **An [[a/_angry|angry]] [[a/_argument|argument]]**
-- **Opposition; [[c/_contradiction|contradiction]]; such as [[b/_between|between]] [[d/_differing|differing]] or [[c/_contending|contending]] interests, views, purposes etc.**
+- **Opposition; [[c/_contradiction|contradiction]]; such as [[b/_between|between]] [[d/_differing|differing]] or [[c/_contending|contending]] interests, views, purposes [[e/_etc|etc]].**
 	- _Example: a clash of beliefs_
-- **A [[c/_combination|combination]] of garments that [[d/_do|do]] not look good together, especially [[b/_because|because]] of [[c/_conflicting|conflicting]] [[c/_colours|colours]].**
+- **A [[c/_combination|combination]] of garments that [[d/_do|do]] not look good together, [[e/_especially|especially]] [[b/_because|because]] of [[c/_conflicting|conflicting]] [[c/_colours|colours]].**
 	- _Example: She was wearing a horrible clash of red and orange._
 - **An instance of restarting the game [[a/_after|after]] a "[[d/_dead|dead]] [[b/_ball|ball]]", where it is [[d/_dropped|dropped]] [[b/_between|between]] two opposing players, who [[c/_can|can]] fight for possession.**
 - **[[c/_chatter|Chatter]]; gossip; idle talk.**

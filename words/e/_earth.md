@@ -5,7 +5,7 @@
 - **The personification of the [[e/_earth|Earth]] or [[e/_earth|earth]], as a fertile woman or goddess.**
 ---
 ### Synonyms
-- [[Mother Earth]], [[Sol III]], [[Terra]], [[globe]], [[world]], [[Middle Earth]], [[Midgard]]
+- [[T/_Terra|Terra]], [[g/_globe|globe]], [[w/_world|world]], [[M/_Midgard|Midgard]]
 #noun
 - **Soil.**
 	- _Example: This is good earth for growing potatoes._
@@ -30,5 +30,5 @@
 - **To [[b/_burrow|burrow]].**
 ---
 ### Synonyms
-- [[ground]]
+- [[g/_ground|ground]]
 ---

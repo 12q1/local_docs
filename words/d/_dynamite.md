@@ -6,7 +6,7 @@
 - **[[a/_anything|Anything]] exceptionally [[d/_dangerous|dangerous]], exciting or wonderful.**
 ---
 ### Synonyms
-- [[nitro]]
+- [[n/_nitro|nitro]]
 #verb
 - **To [[b/_blow|blow]] up with [[d/_dynamite|dynamite]] or other high explosive.**
 ---

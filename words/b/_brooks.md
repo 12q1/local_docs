@@ -7,12 +7,12 @@
 	- _Example: I will not brook any disobedience.   I will brook no refusal.   I will brook no impertinence._
 ---
 ### Synonyms
-- [[apply]], [[employ]], [[utilize]]
+- [[a/_apply|apply]], [[e/_employ|employ]], [[u/_utilize|utilize]]
 #noun
 - **A [[b/_body|body]] of running water smaller than a river; a small stream.**
 - **A water meadow.**
 - **(in the plural) Low, marshy ground.**
 ---
 ### Synonyms
-- [[beck]], [[burn]], [[coulee]], [[creek]], [[stream]]
+- [[b/_beck|beck]], [[b/_burn|burn]], [[c/_coulee|coulee]], [[c/_creek|creek]], [[s/_stream|stream]]
 ---

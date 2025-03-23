@@ -5,5 +5,5 @@
 - **[[a/_any|Any]] relatives of the [[a/_above|above]] that share the same habitat.**
 ---
 ### Synonyms
-- [[bush antelope]], [[marsh buck]], [[Cape bushbuck]], [[imbabala]]
+- [[i/_imbabala|imbabala]]
 ---

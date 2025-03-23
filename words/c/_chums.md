@@ -3,7 +3,7 @@
 #noun
 - **A friend; a pal.**
 	- _Example: I ran into an old chum from school the other day._
-- **A roommate, especially in a [[c/_college|college]] or university.**
+- **A roommate, [[e/_especially|especially]] in a [[c/_college|college]] or university.**
 ---
 #verb
 - **To share rooms with someone; to live together.**

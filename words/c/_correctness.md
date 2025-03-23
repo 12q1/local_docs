@@ -1,11 +1,11 @@
 # Correctness
 ---
 #noun
-- **Freedom from error**
+- **Freedom from [[e/_error|error]]**
 - **[[c/_conformity|Conformity]] to the truth or to fact**
 - **[[c/_conformity|Conformity]] to recognized standards**
 - **The state of an [[a/_algorithm|algorithm]] that [[c/_correctly|correctly]] mirrors its specification.**
 ---
 ### Antonyms
-- [[incorrectness]]
+- [[i/_incorrectness|incorrectness]]
 ---

@@ -5,5 +5,5 @@
 	- _Example: The dassie is the closest living relative to the elephant._
 ---
 ### Synonyms
-- [[hyrax]]
+- [[h/_hyrax|hyrax]]
 ---

@@ -1,6 +1,6 @@
 # Airbus
 ---
 #noun
-- **A subsonic jet [[a/_airliner|airliner]], especially a wide-[[b/_bodied|bodied]] one.**
+- **A subsonic jet [[a/_airliner|airliner]], [[e/_especially|especially]] a wide-[[b/_bodied|bodied]] one.**
 ---
 ---

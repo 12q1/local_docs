@@ -10,5 +10,5 @@
 - **(of a [[b/_bowler|bowler]]) to have runs scored off of one's [[b/_bowling|bowling]].**
 ---
 ### Synonyms
-- [[let in]], [[capitulate]], [[give up]], [[accede]], [[come around]], [[give way]]
+- [[c/_capitulate|capitulate]], [[a/_accede|accede]]
 ---

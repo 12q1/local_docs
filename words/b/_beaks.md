@@ -6,7 +6,7 @@
 - **[[c/_colloquial|Colloquial]] uses.**
 ---
 ### Synonyms
-- [[honker]], [[schnozzle]], [[bill]]
+- [[h/_honker|honker]], [[s/_schnozzle|schnozzle]], [[b/_bill|bill]]
 #verb
 - **Strike with the [[b/_beak|beak]].**
 - **Seize with the [[b/_beak|beak]].**

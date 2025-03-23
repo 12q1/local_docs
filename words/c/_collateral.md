@@ -10,7 +10,7 @@
 - **A [[c/_contemporary|contemporary]] or rival.**
 ---
 ### Synonyms
-- [[pledge]]
+- [[p/_pledge|pledge]]
 #adjective
 - **Parallel, [[a/_along|along]] the same vein, side by side.**
 - **[[c/_corresponding|Corresponding]]; [[a/_accompanying|accompanying]], [[c/_concomitant|concomitant]].**
@@ -26,5 +26,5 @@
 - **(of a vascular [[b/_bundle|bundle]]) Having the phloem and xylem [[a/_adjacent|adjacent]].**
 ---
 ### Synonyms
-- [[ancillary]], [[subordinate]], [[tangential]]
+- [[a/_ancillary|ancillary]], [[s/_subordinate|subordinate]], [[t/_tangential|tangential]]
 ---

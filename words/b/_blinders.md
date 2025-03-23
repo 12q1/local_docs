@@ -9,5 +9,5 @@
 - **A [[b/_bout|bout]] of heavy [[d/_drinking|drinking]], a [[b/_bender|bender]].**
 ---
 ### Synonyms
-- [[cracker]], [[blinker]], [[winker]]
+- [[c/_cracker|cracker]], [[b/_blinker|blinker]], [[w/_winker|winker]]
 ---

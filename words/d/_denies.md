@@ -9,11 +9,11 @@
 	- _Example: My father denied me a good education._
 - **To take something [[a/_away|away]] from someone; to [[d/_deprive|deprive]] of.**
 - **To prevent from scoring.**
-- **To [[d/_disclaim|disclaim]] [[c/_connection|connection]] with, responsibility for, etc.; to refuse to [[a/_acknowledge|acknowledge]]; to [[d/_disown|disown]]; to [[a/_abjure|abjure]]; to [[d/_disavow|disavow]].**
+- **To [[d/_disclaim|disclaim]] [[c/_connection|connection]] with, responsibility for, [[e/_etc|etc]].; to refuse to [[a/_acknowledge|acknowledge]]; to [[d/_disown|disown]]; to [[a/_abjure|abjure]]; to [[d/_disavow|disavow]].**
 - **To refuse (to [[d/_do|do]] or [[a/_accept|accept]] something).**
 ---
 ### Synonyms
-- [[contradict]], [[disclaim]], [[gainsay]], [[refute]], [[withsay]]
+- [[c/_contradict|contradict]], [[d/_disclaim|disclaim]], [[g/_gainsay|gainsay]], [[r/_refute|refute]], [[w/_withsay|withsay]]
 ### Antonyms
-- [[affirm]], [[confirm]], [[allow]]
+- [[a/_affirm|affirm]], [[c/_confirm|confirm]], [[a/_allow|allow]]
 ---

@@ -6,7 +6,7 @@
 - **A state of shame or [[e/_embarrassment|embarrassment]].**
 ---
 ### Synonyms
-- [[discombobulation]], [[bewilderment]], [[disarray]]
+- [[d/_discombobulation|discombobulation]], [[b/_bewilderment|bewilderment]], [[d/_disarray|disarray]]
 ### Antonyms
-- [[clarity]], [[distinction]]
+- [[c/_clarity|clarity]], [[d/_distinction|distinction]]
 ---

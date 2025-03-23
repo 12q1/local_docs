@@ -5,7 +5,7 @@
 	- _Example: “rich” is an antonym of “poor”; “full” is an antonym of “empty”_
 ---
 ### Synonyms
-- [[opposite]]
+- [[o/_opposite|opposite]]
 ### Antonyms
-- [[synonym]]
+- [[s/_synonym|synonym]]
 ---

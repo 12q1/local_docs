@@ -19,14 +19,14 @@
 - **To shut out of sight; to evade; to shirk.**
 	- _Example: to blink the question_
 - **To trick; to [[d/_deceive|deceive]].**
-- **To turn slightly sour, or [[b/_blinky|blinky]], as [[b/_beer|beer]], milk, etc.**
+- **To turn slightly sour, or [[b/_blinky|blinky]], as [[b/_beer|beer]], milk, [[e/_etc|etc]].**
 - **To teleport, mostly for short [[d/_distances|distances]].**
 ---
 ### Synonyms
-- [[nictitate]]
+- [[n/_nictitate|nictitate]]
 #noun
 - **Montia fontana, a herbaceous [[a/_annual|annual]] plant in the family Montiaceae, formerly included in the purslane family (Portulacaceae).**
 ---
 ### Synonyms
-- [[water blinks]]
+- 
 ---

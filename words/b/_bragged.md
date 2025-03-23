@@ -6,5 +6,5 @@
 - **To [[b/_boast|boast]] of.**
 ---
 ### Synonyms
-- [[boast]]
+- [[b/_boast|boast]]
 ---

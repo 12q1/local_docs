@@ -6,7 +6,7 @@
 - **An [[a/_act|act]] of [[d/_drinking|drinking]].**
 - **The quantity of liquid (such as water, [[a/_alcohol|alcohol]], or medicine) [[d/_drunk|drunk]] in one swallow.**
 	- _Example: She took a deep draft from the bottle of water._
-- **A [[d/_dose|dose]] (of medicine, [[a/_alcohol|alcohol]], etc.)**
+- **A [[d/_dose|dose]] (of medicine, [[a/_alcohol|alcohol]], [[e/_etc|etc]].)**
 - **[[b/_beer|Beer]] [[d/_drawn|drawn]] from a [[c/_cask|cask]] or keg rather than a [[b/_bottle|bottle]] or [[c/_can|can]].**
 - **[[d/_depth|Depth]] of water needed to float a ship; [[d/_depth|depth]] [[b/_below|below]] the water line to the [[b/_bottom|bottom]] of a vessel's hull; [[d/_depth|depth]] of water [[d/_drawn|drawn]] by a vessel.**
 - **An [[e/_early|early]] version of a written work (such as a [[b/_book|book]] or [[e/_e|e]]-mail) or [[d/_drawing|drawing]].**
@@ -19,7 +19,7 @@
 - **A system of [[a/_assigning|assigning]] rookie players to professional sports teams.**
 - **The pulling force (tension) on [[c/_couplers|couplers]] and [[d/_draft|draft]] gear [[d/_during|during]] a slack stretched [[c/_condition|condition]].**
 - **The [[b/_bevel|bevel]] given to the pattern for a [[c/_casting|casting]], so that it [[c/_can|can]] be [[d/_drawn|drawn]] from the sand without [[d/_damaging|damaging]] the mould.**
-- **(possibly obsolete) The [[a/_action|action]] or an [[a/_act|act]] (especially of a [[b/_beast|beast]] of [[b/_burden|burden]] or vehicle) of pulling something [[a/_along|along]] or [[b/_back|back]].**
+- **(possibly obsolete) The [[a/_action|action]] or an [[a/_act|act]] ([[e/_especially|especially]] of a [[b/_beast|beast]] of [[b/_burden|burden]] or vehicle) of pulling something [[a/_along|along]] or [[b/_back|back]].**
 	- _Example: using oxen for draft   shot forth an arrow with a mighty draft_
 - **(possibly obsolete) The [[a/_act|act]] of [[d/_drawing|drawing]] in a net for fish.**
 - **(possibly obsolete) That which is [[d/_drawn|drawn]] in; a [[c/_catch|catch]], a haul.**
@@ -27,12 +27,12 @@
 - **A quantity that is requisitioned or [[d/_drawn|drawn]] out from a larger population.**
 ---
 ### Synonyms
-- [[swig]]
+- [[s/_swig|swig]]
 #verb
 - **To write a first version, make a preliminary sketch.**
 - **To [[d/_draw|draw]] in outline; to make a [[d/_draught|draught]], sketch, or plan of, as in [[a/_architectural|architectural]] and mechanical [[d/_drawing|drawing]].**
 - **To write a law.**
-- **To [[c/_conscript|conscript]] a person, force a person to serve in some [[c/_capacity|capacity]], especially in the military.**
+- **To [[c/_conscript|conscript]] a person, force a person to serve in some [[c/_capacity|capacity]], [[e/_especially|especially]] in the military.**
 	- _Example: He was drafted during the Vietnam War._
 - **To select someone (or something) for a particular role or purpose.**
 	- _Example: There was a campaign to draft Smith to run for President._
@@ -53,11 +53,11 @@
 - **A sudden [[a/_attack|attack]] upon an [[e/_enemy|enemy]].**
 ---
 ### Synonyms
-- [[checker]], [[checkers]], [[draught-house]]
+- [[c/_checker|checker]], [[c/_checkers|checkers]], [[d/_draught-house|draught-house]]
 #noun
 - **A [[b/_board|board]] game for two players in which the players [[e/_each|each]] have a set number of pieces (typically 12 or 20, [[d/_depending|depending]] on the rule set), known as men, and the object is to [[c/_capture|capture]] [[e/_each|each]] of the opponent's pieces by jumping one's own pieces over the opponent's pieces.**
 - **A mild vesicatory.**
 ---
 ### Synonyms
-- [[checkers]]
+- [[c/_checkers|checkers]]
 ---

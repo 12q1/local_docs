@@ -11,7 +11,7 @@
 	- _Example: to calculate a system of laws for the government and protection of a free people_
 ---
 ### Synonyms
-- [[compute]], [[reckon]], [[work out]], [[compute]], [[reckon]]
+- [[c/_compute|compute]], [[r/_reckon|reckon]], [[c/_compute|compute]], [[r/_reckon|reckon]]
 #adjective
 - **[[a/_arrived|Arrived]] at or [[d/_determined|determined]] by mathematical [[c/_calculation|calculation]]; [[a/_ascertained|ascertained]] mathematically.**
 	- _Example: The calculated total appeared to be wrong._

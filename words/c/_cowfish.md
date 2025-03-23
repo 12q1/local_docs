@@ -8,5 +8,5 @@
 - **A [[c/_common|common]] galaxias (Galaxias maculatus)**
 ---
 ### Synonyms
-- [[cuckold]], [[trunkfish]]
+- [[c/_cuckold|cuckold]], [[t/_trunkfish|trunkfish]]
 ---

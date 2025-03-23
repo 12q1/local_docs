@@ -8,7 +8,7 @@
 	- _Example: to bin wine_
 ---
 ### Synonyms
-- [[chuck]], [[chuck away]], [[chuck out]], [[discard]], [[ditch]], [[dump]], [[junk]], [[scrap]], [[throw away]], [[throw out]], [[toss]], [[trash]]
+- [[c/_chuck|chuck]], [[d/_discard|discard]], [[d/_ditch|ditch]], [[d/_dump|dump]], [[j/_junk|junk]], [[s/_scrap|scrap]], [[t/_toss|toss]], [[t/_trash|trash]]
 #noun
 - **A [[d/_data|data]] pre-processing technique in which original [[d/_data|data]] values fall into a small interval ("[[b/_bin|bin]]") and are replaced by a value representative of that interval, often the [[c/_central|central]] value. Wp**
 - **The process of grouping reads or contigs and [[a/_assigning|assigning]] them to operational taxonomic units. Wp**
@@ -16,5 +16,5 @@
 - **The process of [[c/_combining|combining]] [[c/_charge|charge]] from [[a/_adjacent|adjacent]] pixels in a CCD image sensor [[d/_during|during]] readout.**
 ---
 ### Synonyms
-- [[product binning]], [[bucketing]], [[data binning]], [[discrete binning]], [[statistical data binning]]
+- [[b/_bucketing|bucketing]]
 ---

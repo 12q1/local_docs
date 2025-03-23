@@ -12,5 +12,5 @@
 	- _Example: bogus laws_
 ---
 ### Synonyms
-- [[illegal]], [[phony]]
+- [[i/_illegal|illegal]], [[p/_phony|phony]]
 ---

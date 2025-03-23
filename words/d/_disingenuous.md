@@ -6,5 +6,5 @@
 - **[[a/_assuming|Assuming]] a pose of naïveté to make a point or for [[d/_deception|deception]].**
 ---
 ### Synonyms
-- [[uncandid]]
+- [[u/_uncandid|uncandid]]
 ---

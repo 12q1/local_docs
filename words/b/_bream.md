@@ -7,5 +7,5 @@
 - **A marine sparoid fish of the genus Pagellus, and [[a/_allied|allied]] genera.**
 ---
 ### Synonyms
-- [[carp bream]]
+- 
 ---

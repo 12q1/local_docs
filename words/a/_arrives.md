@@ -12,5 +12,5 @@
 - **To [[b/_bring|bring]] to shore.**
 ---
 ### Antonyms
-- [[depart]]
+- [[d/_depart|depart]]
 ---

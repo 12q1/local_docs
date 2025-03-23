@@ -1,0 +1,6 @@
+# Eternized
+---
+#adjective
+- **Immortalized.**
+---
+---

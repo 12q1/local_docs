@@ -4,7 +4,7 @@
 - **A [[c/_cubic|cubic]] [[c/_curve|curve]].**
 ---
 ### Synonyms
-- [[cubic curve]]
+- 
 #adjective
 - **Used in the names of units of volume formed by multiplying a unit of length by itself twice.**
 	- _Example: cubic foot_
@@ -13,5 +13,5 @@
 	- _Example: cubic cleavage_
 ---
 ### Synonyms
-- [[isometric]], [[monometric]]
+- [[i/_isometric|isometric]], [[m/_monometric|monometric]]
 ---

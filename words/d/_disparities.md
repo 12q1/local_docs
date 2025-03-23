@@ -5,5 +5,5 @@
 - **Incongruity.**
 ---
 ### Synonyms
-- [[unalikeness]]
+- [[u/_unalikeness|unalikeness]]
 ---

@@ -10,5 +10,5 @@
 - **To have sexual intercourse with.**
 ---
 ### Synonyms
-- [[coitize]], [[go to bed with]], [[sleep with]], [[appreciate]], [[delight in]], [[rejoice]], [[relish]]
+- [[c/_coitize|coitize]], [[a/_appreciate|appreciate]], [[r/_rejoice|rejoice]], [[r/_relish|relish]]
 ---

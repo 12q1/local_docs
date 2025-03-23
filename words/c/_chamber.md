@@ -27,7 +27,7 @@
 - **To be lascivious.**
 ---
 ### Synonyms
-- [[blissom]], [[lust]]
+- [[b/_blissom|blissom]], [[l/_lust|lust]]
 #noun
 - **A [[c/_container|container]] used for urination and [[d/_defecation|defecation]], particularly those used in [[e/_early|early]] modern towns [[b/_before|before]] the [[a/_advent|advent]] of the flush toilet.**
 ---

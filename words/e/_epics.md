@@ -8,5 +8,5 @@
 - **In software [[d/_development|development]], a large or extended user story.**
 ---
 ### Synonyms
-- [[epos]], [[épopée]]
+- [[e/_epos|epos]], [[é/_épopée|épopée]]
 ---

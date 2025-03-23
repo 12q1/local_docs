@@ -6,5 +6,5 @@
 - **A [[b/_bourbon|Bourbon]] [[b/_biscuit|biscuit]].**
 ---
 ### Synonyms
-- [[Bourbon whiskey]], [[bourbon whiskey]]
+- 
 ---

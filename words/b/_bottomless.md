@@ -9,5 +9,5 @@
 - **Not wearing [[c/_clothes|clothes]] [[b/_below|below]] the waist; particularly not wearing [[c/_clothes|clothes]] that would [[c/_cover|cover]] the genitalia.**
 ---
 ### Synonyms
-- [[boundless]], [[limitless]], [[unbottomed]], [[unbounded]]
+- [[b/_boundless|boundless]], [[l/_limitless|limitless]], [[u/_unbottomed|unbottomed]], [[u/_unbounded|unbounded]]
 ---

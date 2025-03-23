@@ -5,7 +5,7 @@
 - **([[c/_chiefly|chiefly]] of [[e/_eyes|eyes]]) Wide open.**
 ---
 ### Synonyms
-- [[all a-gog]], [[all agog]]
+- 
 #adverb
 - **In a state of high [[a/_anticipation|anticipation]], excitement, or interest.**
 ---

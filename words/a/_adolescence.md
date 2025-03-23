@@ -5,5 +5,5 @@
 	- _Example: During adolescence, the body and mind go through many complex changes, some of which are difficult to deal with._
 ---
 ### Synonyms
-- [[teendom]], [[teenhood]]
+- [[t/_teendom|teendom]], [[t/_teenhood|teenhood]]
 ---

@@ -1,6 +1,6 @@
 # Afforced
 ---
 #verb
-- **To reinforce (a team etc.) with extra people**
+- **To reinforce (a team [[e/_etc|etc]].) with extra people**
 ---
 ---

@@ -7,7 +7,7 @@
 - **To partially or [[c/_completely|completely]] remove a nerve.**
 ---
 ### Synonyms
-- [[debilitate]], [[weaken]]
+- [[d/_debilitate|debilitate]], [[w/_weaken|weaken]]
 ### Antonyms
-- [[bolster]], [[revive]], [[strengthen]]
+- [[b/_bolster|bolster]], [[r/_revive|revive]], [[s/_strengthen|strengthen]]
 ---

@@ -10,5 +10,5 @@
 - **Not posed or rehearsed.**
 ---
 ### Synonyms
-- [[frank]], [[open]], [[parrhesiastic]], [[sincere]], [[unreserved]]
+- [[f/_frank|frank]], [[o/_open|open]], [[p/_parrhesiastic|parrhesiastic]], [[s/_sincere|sincere]], [[u/_unreserved|unreserved]]
 ---

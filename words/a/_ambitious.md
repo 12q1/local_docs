@@ -9,7 +9,7 @@
 - **Hard to [[a/_achieve|achieve]].**
 ---
 ### Synonyms
-- [[aspiring]], [[showy]]
+- [[a/_aspiring|aspiring]], [[s/_showy|showy]]
 ### Antonyms
-- [[nonambitious]], [[unambitious]]
+- [[n/_nonambitious|nonambitious]], [[u/_unambitious|unambitious]]
 ---

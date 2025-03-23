@@ -10,5 +10,5 @@
 - **([[d/_dismissal|dismissal]], 4chan) Expression of [[a/_anger|anger]] and [[c/_contempt|contempt]], specifically at transgender women.**
 ---
 ### Antonyms
-- [[contract]]
+- [[c/_contract|contract]]
 ---

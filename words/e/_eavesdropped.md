@@ -6,5 +6,5 @@
 - **To listen for [[a/_another|another]] organism's [[c/_calls|calls]], so as to exploit them.**
 ---
 ### Synonyms
-- [[overhear]]
+- [[o/_overhear|overhear]]
 ---

@@ -10,7 +10,7 @@
 	- _Example: For weeks after the death of her cat she was disconsolate._
 ---
 ### Synonyms
-- [[bleak]], [[downcast]], [[dreary]], [[dejected]], [[inconsolable]], [[unconsolable]]
+- [[b/_bleak|bleak]], [[d/_downcast|downcast]], [[d/_dreary|dreary]], [[d/_dejected|dejected]], [[i/_inconsolable|inconsolable]], [[u/_unconsolable|unconsolable]]
 ### Antonyms
-- [[consolable]]
+- [[c/_consolable|consolable]]
 ---

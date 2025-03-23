@@ -5,9 +5,9 @@
 - **To [[b/_become|become]] [[b/_beautiful|beautiful]].**
 ---
 ### Synonyms
-- [[adorn]], [[decorate]], [[ornament]], [[prettify]]
+- [[a/_adorn|adorn]], [[d/_decorate|decorate]], [[o/_ornament|ornament]], [[p/_prettify|prettify]]
 ### Antonyms
-- [[uglify]]
+- [[u/_uglify|uglify]]
 #noun
 - **The [[a/_action|action]] of the verb to [[b/_beautify|beautify]]; [[b/_beautification|beautification]].**
 ---

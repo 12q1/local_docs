@@ -2,7 +2,7 @@
 ---
 #verb
 - **To place a [[c/_crown|crown]] on the head of.**
-- **To formally [[d/_declare|declare]] (someone) a king, queen, [[e/_emperor|emperor]], etc.**
+- **To formally [[d/_declare|declare]] (someone) a king, queen, [[e/_emperor|emperor]], [[e/_etc|etc]].**
 - **To [[b/_bestow|bestow]] something upon as a mark of honour, [[d/_dignity|dignity]], or recompense; to [[a/_adorn|adorn]]; to [[d/_dignify|dignify]].**
 - **To form the topmost or finishing part of; to [[c/_complete|complete]]; to [[c/_consummate|consummate]]; to perfect.**
 - **To [[d/_declare|declare]] (someone) a winner.**

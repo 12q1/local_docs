@@ -4,5 +4,5 @@
 - **An [[e/_edible|edible]] mushroom ([[b/_boletus|Boletus]] edulis).**
 ---
 ### Synonyms
-- [[penny bun]], [[porcini]]
+- [[p/_porcini|porcini]]
 ---

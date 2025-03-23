@@ -9,5 +9,5 @@
 	- _Example: It is easier to paddle downriver._
 ---
 ### Synonyms
-- [[downstream]]
+- [[d/_downstream|downstream]]
 ---

@@ -5,5 +5,5 @@
 - **[[b/_biosynthesis|Biosynthesis]].**
 ---
 ### Antonyms
-- [[abiogenesis]]
+- [[a/_abiogenesis|abiogenesis]]
 ---

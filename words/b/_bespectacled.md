@@ -4,7 +4,7 @@
 - **Wearing spectacles (glasses).**
 ---
 ### Synonyms
-- [[four-eyed]], [[spectacled]]
+- [[f/_four-eyed|four-eyed]], [[s/_spectacled|spectacled]]
 ### Antonyms
-- [[unbespectacled]], [[unspectacled]]
+- [[u/_unbespectacled|unbespectacled]], [[u/_unspectacled|unspectacled]]
 ---

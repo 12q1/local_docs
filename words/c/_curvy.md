@@ -6,5 +6,5 @@
 	- _Example: I love this woman and her curvy body._
 ---
 ### Synonyms
-- [[Rubenesque]], [[zaftig]], [[curved]], [[sinuous]], [[tortuous]], [[wavy]]
+- [[R/_Rubenesque|Rubenesque]], [[z/_zaftig|zaftig]], [[c/_curved|curved]], [[s/_sinuous|sinuous]], [[t/_tortuous|tortuous]], [[w/_wavy|wavy]]
 ---

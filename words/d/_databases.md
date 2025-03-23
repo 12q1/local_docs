@@ -10,7 +10,7 @@
 - **A [[c/_combination|combination]] of (1) and (2).**
 ---
 ### Synonyms
-- [[databank]], [[database management system]]
+- [[d/_databank|databank]]
 #verb
 - **To [[e/_enter|enter]] [[d/_data|data]] into a [[d/_database|database]].**
 ---

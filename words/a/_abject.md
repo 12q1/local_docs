@@ -10,5 +10,5 @@
 - **Rejected; [[c/_cast|cast]] [[a/_aside|aside]].**
 ---
 ### Synonyms
-- [[beggarly]], [[contemptible]], [[cringing]], [[degraded]], [[groveling]], [[ignoble]], [[mean]], [[mean-spirited]], [[slavish]], [[vile]], [[worthless]]
+- [[b/_beggarly|beggarly]], [[c/_contemptible|contemptible]], [[c/_cringing|cringing]], [[d/_degraded|degraded]], [[g/_groveling|groveling]], [[i/_ignoble|ignoble]], [[m/_mean|mean]], [[m/_mean-spirited|mean-spirited]], [[s/_slavish|slavish]], [[v/_vile|vile]], [[w/_worthless|worthless]]
 ---

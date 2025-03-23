@@ -5,5 +5,5 @@
 - **A [[d/_dress|dress]] made from felt or karakul (the short [[c/_curly|curly]] fur of young lambs of the [[b/_breed|breed]] of that name), traditionally worn by men of the [[c/_caucasus|Caucasus]] region.**
 ---
 ### Synonyms
-- [[chadri]], [[paranja]]
+- [[c/_chadri|chadri]], [[p/_paranja|paranja]]
 ---

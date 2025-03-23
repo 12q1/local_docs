@@ -8,5 +8,5 @@
 - **Of or relating to an [[e/_egg|egg]] or [[e/_eggs|eggs]].**
 ---
 ### Synonyms
-- [[egglike]]
+- [[e/_egglike|egglike]]
 ---

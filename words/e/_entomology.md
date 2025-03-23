@@ -5,5 +5,5 @@
 	- _Example: Entomology is an important field of study within biology._
 ---
 ### Synonyms
-- [[insectology]]
+- [[i/_insectology|insectology]]
 ---

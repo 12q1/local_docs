@@ -13,7 +13,7 @@
 	- _Example: I have too much on my brain today._
 ---
 ### Synonyms
-- [[harns]]
+- [[h/_harns|harns]]
 #verb
 - **To [[d/_dash|dash]] out the [[b/_brains|brains]] of; to kill by smashing the skull.**
 - **To strike (someone) on the head.**

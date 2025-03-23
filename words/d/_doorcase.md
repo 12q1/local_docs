@@ -4,5 +4,5 @@
 - **The surrounding frame into which a [[d/_door|door]] shuts.**
 ---
 ### Synonyms
-- [[doorframe]]
+- [[d/_doorframe|doorframe]]
 ---

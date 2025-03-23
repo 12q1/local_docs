@@ -4,10 +4,10 @@
 - **Nonsense.**
 ---
 ### Synonyms
-- [[blatherskite]], [[hogwash]], [[malarkey]]
+- [[b/_blatherskite|blatherskite]], [[h/_hogwash|hogwash]], [[m/_malarkey|malarkey]]
 #interjection
 - **An expression of [[d/_disbelief|disbelief]] or [[a/_annoyance|annoyance]].**
 ---
 ### Synonyms
-- [[fiddlesticks]], [[horsefeathers]], [[pull the other one]]
+- [[f/_fiddlesticks|fiddlesticks]], [[h/_horsefeathers|horsefeathers]]
 ---

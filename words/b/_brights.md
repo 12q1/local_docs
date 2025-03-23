@@ -8,5 +8,5 @@
 	- _Example: Your brights are on._
 ---
 ### Antonyms
-- [[super]], [[supernaturalist]]
+- [[s/_super|super]], [[s/_supernaturalist|supernaturalist]]
 ---

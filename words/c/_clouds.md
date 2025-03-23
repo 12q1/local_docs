@@ -7,7 +7,7 @@
 - **[[a/_anything|Anything]] which makes things foggy or gloomy.**
 - **[[a/_anything|Anything]] unsubstantial.**
 - **A [[d/_dark|dark]] spot on a lighter material or [[b/_background|background]].**
-- **A group or swarm, especially suspended [[a/_above|above]] the ground or flying.**
+- **A group or swarm, [[e/_especially|especially]] suspended [[a/_above|above]] the ground or flying.**
 	- _Example: He opened the door and was greeted by a cloud of bats._
 - **An [[e/_elliptical|elliptical]] shape or symbol whose outline is a series of semicircles, supposed to resemble a [[c/_cloud|cloud]].**
 	- _Example: The comic-book character's thoughts appeared in a cloud above his head._

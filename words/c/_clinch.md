@@ -21,5 +21,5 @@
 	- _Example: to clinch the teeth or the fist_
 ---
 ### Synonyms
-- [[attach]], [[join]], [[put together]], [[clasp]], [[grasp]], [[grip]]
+- [[a/_attach|attach]], [[j/_join|join]], [[c/_clasp|clasp]], [[g/_grasp|grasp]], [[g/_grip|grip]]
 ---

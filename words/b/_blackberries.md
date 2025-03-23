@@ -6,7 +6,7 @@
 - **The [[b/_blackcurrant|blackcurrant]].**
 ---
 ### Synonyms
-- [[bramble]], [[brambleberry]], [[bramble]], [[brambleberry]]
+- [[b/_bramble|bramble]], [[b/_brambleberry|brambleberry]], [[b/_bramble|bramble]], [[b/_brambleberry|brambleberry]]
 #verb
 - **To gather or forage for [[b/_blackberries|blackberries]].**
 ---

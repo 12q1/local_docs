@@ -5,5 +5,5 @@
 - **A person [[a/_addicted|addicted]] to excessive indulgence in sensual pleasures.**
 ---
 ### Synonyms
-- [[debaucher]], [[libertine]]
+- [[d/_debaucher|debaucher]], [[l/_libertine|libertine]]
 ---

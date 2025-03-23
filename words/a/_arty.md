@@ -4,5 +4,5 @@
 - **Pretending to [[a/_artistic|artistic]] worth; high-flown.**
 ---
 ### Synonyms
-- [[artsy]]
+- [[a/_artsy|artsy]]
 ---

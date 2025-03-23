@@ -5,7 +5,7 @@
 - **(bellringing) The pull on the tail of the rope that swings the [[b/_bell|bell]] through a full [[c/_circle|circle]] ([[c/_compare|compare]] handstroke)**
 ---
 ### Synonyms
-- [[back crawl]]
+- 
 #verb
 - **To swim the [[b/_backstroke|backstroke]].**
 ---

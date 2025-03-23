@@ -2,7 +2,7 @@
 ---
 #noun
 - **A fool, a simpleton, a mindless person.**
-- **A small mindless sketch, etc.**
+- **A small mindless sketch, [[e/_etc|etc]].**
 - **(sometimes [[c/_childish|childish]]) Penis.**
 ---
 #verb

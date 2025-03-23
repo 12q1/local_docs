@@ -6,7 +6,7 @@
 - **The sled used in the sport of [[b/_bobsleigh|bobsleigh]]**
 ---
 ### Synonyms
-- [[bob]], [[bobsled]]
+- [[b/_bob|bob]], [[b/_bobsled|bobsled]]
 #verb
 - **To ride a [[b/_bobsleigh|bobsleigh]].**
 ---

@@ -6,7 +6,7 @@
 - **A [[c/_continued|continued]] public expression, often of [[d/_dissatisfaction|dissatisfaction]] or [[d/_discontent|discontent]]; a popular outcry.**
 ---
 ### Synonyms
-- [[outcry]], [[tumult]]
+- [[o/_outcry|outcry]], [[t/_tumult|tumult]]
 #verb
 - **To [[c/_cry|cry]] out and/or [[d/_demand|demand]].**
 	- _Example: Anyone who tastes our food seems to clamor for more._
@@ -19,5 +19,5 @@
 - **To silence.**
 ---
 ### Synonyms
-- [[din]]
+- [[d/_din|din]]
 ---

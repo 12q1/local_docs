@@ -8,7 +8,7 @@
 - **(of persons) Hesitant; uncertain; not taking sides.**
 ---
 ### Synonyms
-- [[equivocal]]
+- [[e/_equivocal|equivocal]]
 ### Antonyms
-- [[clear]], [[precise]], [[unambiguous]], [[unambiguous]]
+- [[c/_clear|clear]], [[p/_precise|precise]], [[u/_unambiguous|unambiguous]], [[u/_unambiguous|unambiguous]]
 ---

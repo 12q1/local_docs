@@ -15,7 +15,7 @@
 - **To stun, [[a/_amaze|amaze]]**
 ---
 ### Synonyms
-- [[confuse]], [[mix up]], [[puzzle]]
+- [[c/_confuse|confuse]], [[p/_puzzle|puzzle]]
 #adjective
 - **[[c/_confused|Confused]], [[a/_astonished|astonished]]**
 - **[[d/_defeated|Defeated]], thwarted**

@@ -5,5 +5,5 @@
 - **A [[c/_condition|condition]] that [[a/_affects|affects]] the muscles of horses, ranging from stiffness and mild [[c/_cramps|cramps]] to the horse [[b/_becoming|becoming]] unable to stand, with [[d/_discoloured|discoloured]] urine**
 ---
 ### Synonyms
-- [[equine rhabdomyelosis]]
+- 
 ---

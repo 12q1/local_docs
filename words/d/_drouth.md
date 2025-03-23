@@ -5,7 +5,7 @@
 - **(by extension) A longer than expected term without success, particularly in sport.**
 ---
 ### Synonyms
-- [[losing streak]]
+- 
 ### Antonyms
-- [[winning streak]]
+- 
 ---

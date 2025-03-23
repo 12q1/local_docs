@@ -1,7 +1,7 @@
 # Chickens
 ---
 #noun
-- **A [[d/_domestic|domestic]] fowl, Gallus gallus, especially when young.**
+- **A [[d/_domestic|domestic]] fowl, Gallus gallus, [[e/_especially|especially]] when young.**
 - **The meat from this [[b/_bird|bird]] [[e/_eaten|eaten]] as food.**
 - **The young of [[a/_any|any]] [[b/_bird|bird]]; a [[c/_chick|chick]].**
 - **A [[c/_coward|coward]].**
@@ -11,7 +11,7 @@
 - **A simple [[d/_dance|dance]] in which the movements of a [[c/_chicken|chicken]] are imitated.**
 ---
 ### Synonyms
-- [[biddy]], [[chook]], [[spring chicken]], [[twink]]
+- [[b/_biddy|biddy]], [[c/_chook|chook]], [[t/_twink|twink]]
 #verb
 - **To [[a/_avoid|avoid]] a situation one is [[a/_afraid|afraid]] of.**
 ---

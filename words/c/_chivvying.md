@@ -8,7 +8,7 @@
 	- _Example: to chivvy the fox_
 ---
 ### Synonyms
-- [[chase]], [[hunt]]
+- [[c/_chase|chase]], [[h/_hunt|hunt]]
 #noun
 - **The [[a/_act|act]] of one who [[c/_chivvies|chivvies]], or hurries somebody [[a/_along|along]]; an urging.**
 ---

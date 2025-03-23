@@ -5,5 +5,5 @@
 - **(A gift of) [[d/_drink|drink]] money.**
 ---
 ### Synonyms
-- [[drink]]
+- [[d/_drink|drink]]
 ---

@@ -22,7 +22,7 @@
 - **A [[c/_cut|cut]], a proportion of profits; an [[a/_amount|amount]] of money.**
 ---
 ### Synonyms
-- [[mouthful]], [[snack]], [[sting]]
+- [[m/_mouthful|mouthful]], [[s/_snack|snack]], [[s/_sting|sting]]
 #verb
 - **To [[c/_cut|cut]] into something by [[c/_clamping|clamping]] the teeth.**
 	- _Example: As soon as you bite that sandwich, you'll know how good it is._
@@ -31,7 +31,7 @@
 	- _Example: That dog is about to bite!_
 - **To [[b/_behave|behave]] [[a/_aggressively|aggressively]]; to reject [[a/_advances|advances]].**
 	- _Example: If you see me, come and say hello. I don't bite._
-- **To take hold; to establish firm [[c/_contact|contact]] with.**
+- **To take hold; to [[e/_establish|establish]] firm [[c/_contact|contact]] with.**
 	- _Example: I needed snow chains to make the tires bite._
 - **To have significant [[e/_effect|effect]], often negative.**
 	- _Example: For homeowners with adjustable rate mortgages, rising interest will really bite._

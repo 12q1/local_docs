@@ -4,5 +4,5 @@
 - **Of or pertaining to the right side**
 ---
 ### Antonyms
-- [[sinistral]]
+- [[s/_sinistral|sinistral]]
 ---

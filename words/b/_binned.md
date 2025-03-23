@@ -8,5 +8,5 @@
 	- _Example: to bin wine_
 ---
 ### Synonyms
-- [[chuck]], [[chuck away]], [[chuck out]], [[discard]], [[ditch]], [[dump]], [[junk]], [[scrap]], [[throw away]], [[throw out]], [[toss]], [[trash]]
+- [[c/_chuck|chuck]], [[d/_discard|discard]], [[d/_ditch|ditch]], [[d/_dump|dump]], [[j/_junk|junk]], [[s/_scrap|scrap]], [[t/_toss|toss]], [[t/_trash|trash]]
 ---

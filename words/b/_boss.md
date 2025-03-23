@@ -15,12 +15,12 @@
 	- _Example: There's no olive oil; will sunflower oil do? — I'll have to run that by the boss._
 ---
 ### Synonyms
-- [[employer]], [[gov]], [[guv]], [[guvnor]], [[mate]], [[head]], [[leader]], [[leader]], [[line manager]], [[manager]], [[supervisor]]
+- [[e/_employer|employer]], [[g/_gov|gov]], [[g/_guv|guv]], [[g/_guvnor|guvnor]], [[m/_mate|mate]], [[h/_head|head]], [[l/_leader|leader]], [[l/_leader|leader]], [[m/_manager|manager]], [[s/_supervisor|supervisor]]
 #verb
 - **To exercise [[a/_authoritative|authoritative]] [[c/_control|control]] over; to tell (someone) what to [[d/_do|do]], often repeatedly.**
 ---
 ### Synonyms
-- [[boss around]], [[lord over]]
+- 
 #adjective
 - **Of excellent quality, first-rate.**
 	- _Example: That is a boss Zefron poster._

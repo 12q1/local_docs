@@ -37,5 +37,5 @@
 - **A psychic or medium who temporarily takes on the personality of somebody [[e/_else|else]].**
 ---
 ### Synonyms
-- [[groove]], [[gutter]], [[passage]], [[sound]], [[strait]], [[side]], [[station]]
+- [[g/_groove|groove]], [[g/_gutter|gutter]], [[p/_passage|passage]], [[s/_sound|sound]], [[s/_strait|strait]], [[s/_side|side]], [[s/_station|station]]
 ---

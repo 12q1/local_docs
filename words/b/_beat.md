@@ -9,7 +9,7 @@
 - **The interference [[b/_between|between]] two tones of [[a/_almost|almost]] [[e/_equal|equal]] frequency**
 - **([[a/_authorship|authorship]]) A short pause in a play, screenplay, or teleplay, for [[d/_dramatic|dramatic]] or [[c/_comedic|comedic]] [[e/_effect|effect]]; a plot point or story [[d/_development|development]].**
 - **The route patrolled by a police officer or a guard.**
-- **(by extension) An [[a/_area|area]] of a person's responsibility, especially**
+- **(by extension) An [[a/_area|area]] of a person's responsibility, [[e/_especially|especially]]**
 - **An [[a/_act|act]] of reporting news or scientific results [[b/_before|before]] a rival; a scoop.**
 - **That which [[b/_beats|beats]], or surpasses, [[a/_another|another]] or others.**
 	- _Example: the beat of him_
@@ -31,7 +31,7 @@
 - **To win [[a/_against|against]]; to [[d/_defeat|defeat]] or overcome; to [[d/_do|do]] [[b/_better|better]] than, outdo, or excel (someone) in a particular, [[c/_competitive|competitive]] event.**
 	- _Example: I just can't seem to beat the last level of this video game._
 - **To sail to windward using a series of [[a/_alternate|alternate]] tacks [[a/_across|across]] the wind.**
-- **To strike (water, foliage etc.) in order to [[d/_drive|drive]] out game; to travel through (a forest etc.) for hunting.**
+- **To strike (water, foliage [[e/_etc|etc]].) in order to [[d/_drive|drive]] out game; to travel through (a forest [[e/_etc|etc]].) for hunting.**
 - **To mix food in a rapid fashion. [[c/_compare|Compare]] whip.**
 	- _Example: Beat the eggs and whip the cream._
 - **(In haggling for a price) of a [[b/_buyer|buyer]], to persuade the seller to reduce a price**
@@ -54,7 +54,7 @@
 	- _Example: He beat me out of 12 bucks last night._
 ---
 ### Synonyms
-- [[do it]], [[get it on]], [[have sex]], [[shag]], [[hammer]], [[knock]], [[pound]], [[strike]], [[whack]], [[negotiate]]
+- [[s/_shag|shag]], [[h/_hammer|hammer]], [[k/_knock|knock]], [[p/_pound|pound]], [[s/_strike|strike]], [[w/_whack|whack]], [[n/_negotiate|negotiate]]
 #adjective
 - **Exhausted**
 	- _Example: After the long day, she was feeling completely beat._
@@ -66,5 +66,5 @@
 - **(of a person) ugly**
 ---
 ### Synonyms
-- [[fantabulosa]]
+- [[f/_fantabulosa|fantabulosa]]
 ---

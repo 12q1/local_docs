@@ -10,5 +10,5 @@
 	- _Example: A flexor, which bends a part, is the antagonist of an extensor, which extends it._
 ---
 ### Antonyms
-- [[agonist]], [[protagonist]]
+- [[a/_agonist|agonist]], [[p/_protagonist|protagonist]]
 ---

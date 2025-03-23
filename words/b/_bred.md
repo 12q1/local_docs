@@ -20,5 +20,5 @@
 - **To [[e/_ejaculate|ejaculate]] inside someone's [[a/_ass|ass]]**
 ---
 ### Synonyms
-- [[bring up]], [[raise]], [[rear]]
+- [[r/_raise|raise]], [[r/_rear|rear]]
 ---

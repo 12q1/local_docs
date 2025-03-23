@@ -4,7 +4,7 @@
 - **A quiet laugh.**
 ---
 ### Synonyms
-- [[chortle]], [[giggle]], [[snigger]], [[titter]]
+- [[c/_chortle|chortle]], [[g/_giggle|giggle]], [[s/_snigger|snigger]], [[t/_titter|titter]]
 #verb
 - **To laugh quietly or inwardly.**
 - **To [[c/_communicate|communicate]] through [[c/_chuckling|chuckling]].**
@@ -14,5 +14,5 @@
 - **To fondle; to indulge or pamper.**
 ---
 ### Synonyms
-- [[grope]], [[pet]], [[touch up]], [[coddle]], [[posset]]
+- [[g/_grope|grope]], [[p/_pet|pet]], [[c/_coddle|coddle]], [[p/_posset|posset]]
 ---

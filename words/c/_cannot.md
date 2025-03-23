@@ -11,5 +11,5 @@
 	- _Example: You cannot enter the hall without a ticket._
 ---
 ### Synonyms
-- [[can't]]
+- [[c/_can't|can't]]
 ---

@@ -20,7 +20,7 @@
 	- _Example: to put on an act_
 ---
 ### Synonyms
-- [[pretense]], [[statute]], [[deed]]
+- [[p/_pretense|pretense]], [[s/_statute|statute]], [[d/_deed|deed]]
 #verb
 - **To [[d/_do|do]] something.**
 	- _Example: If you don't act soon, you will be in trouble._

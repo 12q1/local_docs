@@ -10,5 +10,5 @@
 - **At or toward the rear of a vessel.**
 ---
 ### Antonyms
-- [[ahead]]
+- [[a/_ahead|ahead]]
 ---

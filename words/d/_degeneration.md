@@ -8,5 +8,5 @@
 - **A thing that has [[d/_degenerated|degenerated]].**
 ---
 ### Synonyms
-- [[nerf]], [[debasement]], [[decline]], [[degeneracy]], [[degradation]], [[deterioration]]
+- [[n/_nerf|nerf]], [[d/_debasement|debasement]], [[d/_decline|decline]], [[d/_degeneracy|degeneracy]], [[d/_degradation|degradation]], [[d/_deterioration|deterioration]]
 ---

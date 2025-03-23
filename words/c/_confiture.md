@@ -4,5 +4,5 @@
 - **A preserve or jelly/jam of [[c/_candied|candied]] fruit**
 ---
 ### Synonyms
-- [[comfit]], [[comfiture]], [[preserve]]
+- [[c/_comfit|comfit]], [[c/_comfiture|comfiture]], [[p/_preserve|preserve]]
 ---

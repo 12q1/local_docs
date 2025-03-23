@@ -10,5 +10,5 @@
 - **To hinder from growing to the natural size; to make or keep small; to stunt.**
 ---
 ### Synonyms
-- [[eclipse]], [[outdo]], [[outmatch]], [[outshadow]], [[outshine]], [[outstrip]], [[overshadow]], [[put to shame]], [[surpass]], [[upstage]], [[miniaturize]], [[shrink]], [[shrink]]
+- [[e/_eclipse|eclipse]], [[o/_outdo|outdo]], [[o/_outmatch|outmatch]], [[o/_outshadow|outshadow]], [[o/_outshine|outshine]], [[o/_outstrip|outstrip]], [[o/_overshadow|overshadow]], [[s/_surpass|surpass]], [[u/_upstage|upstage]], [[m/_miniaturize|miniaturize]], [[s/_shrink|shrink]], [[s/_shrink|shrink]]
 ---

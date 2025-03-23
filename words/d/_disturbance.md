@@ -9,5 +9,5 @@
 - **A serious mental imbalance or illness.**
 ---
 ### Antonyms
-- [[calmness]]
+- [[c/_calmness|calmness]]
 ---

@@ -10,7 +10,7 @@
 - **The tendency of a system that is left to itself to [[d/_descend|descend]] into [[c/_chaos|chaos]].**
 ---
 ### Synonyms
-- [[anergy]], [[bound entropy]], [[disgregation]]
+- [[a/_anergy|anergy]], [[d/_disgregation|disgregation]]
 ### Antonyms
-- [[aggregation]], [[exergy]], [[free entropy]], [[negentropy]]
+- [[a/_aggregation|aggregation]], [[e/_exergy|exergy]], [[n/_negentropy|negentropy]]
 ---

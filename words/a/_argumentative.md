@@ -5,7 +5,7 @@
 - **Prone to [[a/_argue|argue]] or [[d/_dispute|dispute]].**
 ---
 ### Synonyms
-- [[argumentary]], [[discursory]]
+- [[a/_argumentary|argumentary]], [[d/_discursory|discursory]]
 ### Antonyms
-- [[nonargumentative]], [[unargumentative]]
+- [[n/_nonargumentative|nonargumentative]], [[u/_unargumentative|unargumentative]]
 ---

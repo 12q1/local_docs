@@ -5,5 +5,5 @@
 - **(by extension) Kind, genial, [[b/_benevolent|benevolent]], or tolerant.**
 ---
 ### Synonyms
-- [[benevolent]], [[kind]], [[uncley]], [[unclish]]
+- [[b/_benevolent|benevolent]], [[k/_kind|kind]], [[u/_uncley|uncley]], [[u/_unclish|unclish]]
 ---

@@ -6,5 +6,5 @@
 - **To lower the value of (a [[c/_currency|currency]]) by reducing the [[a/_amount|amount]] of valuable metal in the [[c/_coins|coins]].**
 ---
 ### Synonyms
-- [[abase]], [[adulterate]], [[degrade]], [[demean]]
+- [[a/_abase|abase]], [[a/_adulterate|adulterate]], [[d/_degrade|degrade]], [[d/_demean|demean]]
 ---

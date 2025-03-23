@@ -14,7 +14,7 @@
 	- _Example: Have you clocked that game yet?_
 ---
 ### Synonyms
-- [[check out]], [[scope out]], [[slug]], [[smack]], [[thump]], [[whack]], [[time]], [[turn back (the vehicle's) clock]], [[wind back (the vehicle's) clock]]
+- [[s/_slug|slug]], [[s/_smack|smack]], [[t/_thump|thump]], [[w/_whack|whack]], [[t/_time|time]]
 #verb
 - **To ornament ([[e/_e|e]].g. the side of a stocking) with figured work.**
 ---

@@ -13,7 +13,7 @@
 - **(term of [[e/_endearment|endearment]]) A pretty young girl.**
 ---
 ### Synonyms
-- [[budset]], [[marijuana]], [[nug]]
+- [[b/_budset|budset]], [[m/_marijuana|marijuana]], [[n/_nug|nug]]
 #verb
 - **To form [[b/_buds|buds]].**
 	- _Example: The trees are finally starting to bud._

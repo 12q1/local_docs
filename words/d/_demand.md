@@ -14,7 +14,7 @@
 - **([[e/_electricity|electricity]] supply) More precisely peak [[d/_demand|demand]] or peak load, a measure of the maximum power load of a utility's [[c/_customer|customer]] over a short period of time; the power load integrated over a specified time interval.**
 ---
 ### Synonyms
-- [[imposition]]
+- [[i/_imposition|imposition]]
 #verb
 - **To request forcefully.**
 	- _Example: I demand to see the manager._
@@ -27,5 +27,5 @@
 - **To issue a summons to [[c/_court|court]].**
 ---
 ### Synonyms
-- [[frain]], [[call for]], [[insist]]
+- [[f/_frain|frain]], [[i/_insist|insist]]
 ---

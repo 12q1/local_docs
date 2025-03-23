@@ -5,5 +5,5 @@
 	- _Example: In "I will be coming if this weather holds up", "I will be coming" is the apodosis._
 ---
 ### Antonyms
-- [[protasis]]
+- [[p/_protasis|protasis]]
 ---

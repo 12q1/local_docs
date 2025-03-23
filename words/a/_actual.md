@@ -11,7 +11,7 @@
 - **Used as intensifier to [[e/_emphasise|emphasise]] a following noun; exact, very.**
 ---
 ### Synonyms
-- [[positive]], [[present]], [[real]]
+- [[p/_positive|positive]], [[p/_present|present]], [[r/_real|real]]
 ### Antonyms
-- [[conceivable]], [[estimated]], [[hypothetical]], [[nominal]], [[possible]], [[potential]], [[speculative]], [[theoretical]], [[virtual]], [[future]], [[past]]
+- [[c/_conceivable|conceivable]], [[e/_estimated|estimated]], [[h/_hypothetical|hypothetical]], [[n/_nominal|nominal]], [[p/_possible|possible]], [[p/_potential|potential]], [[s/_speculative|speculative]], [[t/_theoretical|theoretical]], [[v/_virtual|virtual]], [[f/_future|future]], [[p/_past|past]]
 ---

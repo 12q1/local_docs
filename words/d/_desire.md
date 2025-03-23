@@ -10,7 +10,7 @@
 - **Motivation.**
 ---
 ### Synonyms
-- [[wanna]], [[want-to]], [[wanna]], [[want-to]]
+- [[w/_wanna|wanna]], [[w/_want-to|want-to]], [[w/_wanna|wanna]], [[w/_want-to|want-to]]
 #verb
 - **To want; to wish for [[e/_earnestly|earnestly]].**
 	- _Example: I desire to speak with you._

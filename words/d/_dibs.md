@@ -5,12 +5,12 @@
 	- _Example: Dibs means I get the hammock._
 ---
 ### Synonyms
-- [[bags]]
+- [[b/_bags|bags]]
 #verb
 - **To [[c/_claim|claim]] a temporary right to (something); to reserve.**
 ---
 ### Synonyms
-- [[bags]], [[bagsy]]
+- [[b/_bags|bags]], [[b/_bagsy|bagsy]]
 #interjection
 - **Used to [[c/_claim|claim]] this right**
 ---

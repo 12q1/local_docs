@@ -1,7 +1,7 @@
 # Apprentices
 ---
 #noun
-- **A trainee, especially in a skilled trade.**
+- **A trainee, [[e/_especially|especially]] in a skilled trade.**
 - **One who is [[b/_bound|bound]] by indentures or by legal [[a/_agreement|agreement]] to serve a tradesperson, or other person, for a [[c/_certain|certain]] time, with a view to learn the [[a/_art|art]], or trade, in which his master is [[b/_bound|bound]] to instruct him.**
 - **One not well versed in a subject; a tyro or newbie.**
 ---

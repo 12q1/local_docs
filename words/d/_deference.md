@@ -7,5 +7,5 @@
 	- _Example: By tidying his room, he showed deference to his mother._
 ---
 ### Synonyms
-- [[honor]], [[respect]]
+- [[h/_honor|honor]], [[r/_respect|respect]]
 ---

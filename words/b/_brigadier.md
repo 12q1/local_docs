@@ -5,5 +5,5 @@
 - **The highest field officer grade, [[b/_below|below]] general officers, NATO grade O7**
 ---
 ### Synonyms
-- [[brigadier general]], [[senior colonel]]
+- 
 ---

@@ -7,5 +7,5 @@
 	- _Example: Which cereal would you like for breakfast?_
 ---
 ### Synonyms
-- [[foodgrain]]
+- [[f/_foodgrain|foodgrain]]
 ---

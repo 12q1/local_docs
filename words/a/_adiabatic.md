@@ -5,5 +5,5 @@
 - **(of a process) That involves the slow [[c/_change|change]] of the Hamiltonian of a system from its initial value to a final value.**
 ---
 ### Antonyms
-- [[nonadiabatic]], [[diabatic]]
+- [[n/_nonadiabatic|nonadiabatic]], [[d/_diabatic|diabatic]]
 ---

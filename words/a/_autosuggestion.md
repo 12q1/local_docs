@@ -6,5 +6,5 @@
 - **An [[a/_autosuggest|autosuggest]] feature.**
 ---
 ### Synonyms
-- [[self-suggestion]]
+- [[s/_self-suggestion|self-suggestion]]
 ---

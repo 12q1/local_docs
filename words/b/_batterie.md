@@ -5,5 +5,5 @@
 - **The percussion section of an orchestra or [[b/_band|band]], the [[b/_battery|battery]]; marching instruments in a [[d/_drumline|drumline]], as opposed to the pit.**
 ---
 ### Synonyms
-- [[battu]]
+- [[b/_battu|battu]]
 ---

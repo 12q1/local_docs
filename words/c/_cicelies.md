@@ -5,5 +5,5 @@
 - **Sweetroot, [[a/_any|any]] of several plants in the genus Osmorhiza**
 ---
 ### Synonyms
-- [[myrrh]]
+- [[m/_myrrh|myrrh]]
 ---

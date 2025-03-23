@@ -1,7 +1,7 @@
 # Crawl
 ---
 #noun
-- **The [[a/_act|act]] of moving slowly on hands and knees etc, or with frequent stops.**
+- **The [[a/_act|act]] of moving slowly on hands and knees [[e/_etc|etc]], or with frequent stops.**
 - **A rapid swimming stroke with [[a/_alternate|alternate]] overarm strokes and a fluttering kick.**
 - **A very slow pace.**
 	- _Example: My computer has slowed down to a crawl since I installed that software package._

@@ -5,5 +5,5 @@
 	- _Example: Her kiss sent me into a dreamlike state of bliss, and while we must have spent the next several hours wandering the fairground together, I can hardly remember any of it._
 ---
 ### Synonyms
-- [[dreamish]], [[dreamy]], [[oneiric]]
+- [[d/_dreamish|dreamish]], [[d/_dreamy|dreamy]], [[o/_oneiric|oneiric]]
 ---

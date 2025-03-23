@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[a/_alignment|alignment]] of [[a/_astronomical|astronomical]] objects whereby one object [[c/_comes|comes]] [[b/_between|between]] the observer (or notional observer) and [[a/_another|another]] object, thus obscuring the latter.**
-- **Especially, an [[a/_alignment|alignment]] whereby a planetary object (for example, the Moon) [[c/_comes|comes]] [[b/_between|between]] the Sun and [[a/_another|another]] planetary object (for example, the [[e/_earth|Earth]]), resulting in a shadow [[b/_being|being]] [[c/_cast|cast]] by the middle planetary object onto the other planetary object.**
+- **[[e/_especially|Especially]], an [[a/_alignment|alignment]] whereby a planetary object (for example, the Moon) [[c/_comes|comes]] [[b/_between|between]] the Sun and [[a/_another|another]] planetary object (for example, the [[e/_earth|Earth]]), resulting in a shadow [[b/_being|being]] [[c/_cast|cast]] by the middle planetary object onto the other planetary object.**
 - **A seasonal state of plumage in some [[b/_birds|birds]], notably [[d/_ducks|ducks]], [[a/_adopted|adopted]] temporarily [[a/_after|after]] the [[b/_breeding|breeding]] season and [[c/_characterised|characterised]] by a [[d/_dull|dull]] and scruffy [[a/_appearance|appearance]].**
 - **Obscurity, [[d/_decline|decline]], [[d/_downfall|downfall]]**
 ---

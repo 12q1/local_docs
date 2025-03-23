@@ -6,8 +6,8 @@
 - **A [[b/_bishop|bishop]].**
 ---
 #noun
-- **An overseer of [[c/_congregations|congregations]]: [[e/_either|either]] [[a/_any|any]] such overseer, generally speaking, or (in [[e/_eastern|Eastern]] Orthodoxy, [[c/_catholicism|Catholicism]], [[a/_anglicanism|Anglicanism]], etc.) an official in the [[c/_church|church]] hierarchy ([[a/_actively|actively]] or nominally) governing a [[d/_diocese|diocese]], supervising the [[c/_church|church]]'s priests, [[d/_deacons|deacons]], and property in its territory.**
-- **The holder of the Greek or Roman position of episcopus, supervisor over the public [[d/_dole|dole]] of grain, etc.**
+- **An overseer of [[c/_congregations|congregations]]: [[e/_either|either]] [[a/_any|any]] such overseer, generally speaking, or (in [[e/_eastern|Eastern]] Orthodoxy, [[c/_catholicism|Catholicism]], [[a/_anglicanism|Anglicanism]], [[e/_etc|etc]].) an official in the [[c/_church|church]] hierarchy ([[a/_actively|actively]] or nominally) governing a [[d/_diocese|diocese]], supervising the [[c/_church|church]]'s priests, [[d/_deacons|deacons]], and property in its territory.**
+- **The holder of the Greek or Roman position of episcopus, supervisor over the public [[d/_dole|dole]] of grain, [[e/_etc|etc]].**
 - **[[a/_any|Any]] watchman, inspector, or overlooker.**
 - **A [[c/_chief|chief]] of the Festival of Fools or St. Nicholas [[d/_day|Day]].**
 - **The [[c/_chess|chess]] piece [[d/_denoted|denoted]] ♗ or ♝ which moves [[a/_along|along]] [[d/_diagonal|diagonal]] lines and [[d/_developed|developed]] from the shatranj alfil ("[[e/_elephant|elephant]]") and was originally known as the aufil or [[a/_archer|archer]] in [[e/_english|English]].**
@@ -18,5 +18,5 @@
 - **A [[c/_children|children]]'s smock or pinafore.**
 ---
 ### Synonyms
-- [[consecrator]], [[diocesan bishop]], [[suffragan bishop]], [[hierarch]], [[ordinary]]
+- [[c/_consecrator|consecrator]], [[h/_hierarch|hierarch]], [[o/_ordinary|ordinary]]
 ---

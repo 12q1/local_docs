@@ -4,5 +4,5 @@
 - **[[a/_able|Able]] to be [[a/_addressed|addressed]].**
 ---
 ### Antonyms
-- [[unaddressable]]
+- [[u/_unaddressable|unaddressable]]
 ---

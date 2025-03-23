@@ -5,7 +5,7 @@
 - **To [[b/_bring|bring]] out, as from a grave or hiding place; to [[b/_bring|bring]] from obscurity into view.**
 ---
 ### Synonyms
-- [[dig up]], [[exhume]], [[unbury]]
+- [[e/_exhume|exhume]], [[u/_unbury|unbury]]
 ### Antonyms
-- [[inter]]
+- [[i/_inter|inter]]
 ---

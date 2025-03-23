@@ -13,5 +13,5 @@
 	- _Example: This course will cover several major fields of computing._
 ---
 ### Synonyms
-- [[computation]], [[reckoning]]
+- [[c/_computation|computation]], [[r/_reckoning|reckoning]]
 ---

@@ -4,7 +4,7 @@
 - **To make into an [[e/_emulsion|emulsion]].**
 ---
 ### Synonyms
-- [[emulsionize]]
+- [[e/_emulsionize|emulsionize]]
 ### Antonyms
-- [[de-emulsify]]
+- [[d/_de-emulsify|de-emulsify]]
 ---

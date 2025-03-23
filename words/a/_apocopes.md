@@ -5,5 +5,5 @@
 - **The loss or omission of a sound or syllable from the [[e/_end|end]] of a word.**
 ---
 ### Antonyms
-- [[procope]]
+- [[p/_procope|procope]]
 ---

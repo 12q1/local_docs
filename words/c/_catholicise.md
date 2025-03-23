@@ -5,5 +5,5 @@
 - **To [[b/_become|become]] [[c/_catholic|Catholic]]; to [[c/_convert|convert]] to [[c/_catholicism|Catholicism]].**
 ---
 ### Antonyms
-- [[de-Catholicize]], [[un-Catholicize]]
+- [[d/_de-Catholicize|de-Catholicize]], [[u/_un-Catholicize|un-Catholicize]]
 ---

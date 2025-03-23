@@ -7,5 +7,5 @@
 	- _Example: appetite for reading_
 ---
 ### Synonyms
-- [[appetency]], [[craving]], [[desire]], [[longing]], [[passion]]
+- [[a/_appetency|appetency]], [[c/_craving|craving]], [[d/_desire|desire]], [[l/_longing|longing]], [[p/_passion|passion]]
 ---

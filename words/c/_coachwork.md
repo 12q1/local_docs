@@ -4,5 +4,5 @@
 - **The [[b/_body|body]] of a motor vehicle (as opposed to the [[c/_chassis|chassis]]).**
 ---
 ### Synonyms
-- [[carrossery]]
+- [[c/_carrossery|carrossery]]
 ---

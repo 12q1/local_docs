@@ -9,5 +9,5 @@
 - **[[a/_attaching|Attaching]] or pressing [[a/_against|against]] a [[d/_different|different]] organ.**
 ---
 ### Synonyms
-- [[adhering]]
+- [[a/_adhering|adhering]]
 ---

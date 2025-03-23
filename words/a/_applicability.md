@@ -4,5 +4,5 @@
 - **The [[d/_degree|degree]] to which a thing is [[a/_applicable|applicable]]; relevancy.**
 ---
 ### Antonyms
-- [[inapplicability]]
+- [[i/_inapplicability|inapplicability]]
 ---

@@ -3,7 +3,7 @@
 #noun
 - **The [[a/_act|act]] of seizing or [[c/_capturing|capturing]].**
 	- _Example: The catch of the perpetrator was the product of a year of police work._
-- **The [[a/_act|act]] of [[c/_catching|catching]] an object in motion, especially a [[b/_ball|ball]].**
+- **The [[a/_act|act]] of [[c/_catching|catching]] an object in motion, [[e/_especially|especially]] a [[b/_ball|ball]].**
 	- _Example: Nice catch!_
 - **The [[a/_act|act]] of noticing, understanding or hearing.**
 	- _Example: Good catch. I never would have remembered that._
@@ -13,11 +13,11 @@
 	- _Example: The catch amounted to five tons of swordfish._
 - **(by extension) A find, in particular a [[b/_boyfriend|boyfriend]] or girlfriend or prospective spouse.**
 	- _Example: Did you see his latest catch?_
-- **A stopping mechanism, especially a [[c/_clasp|clasp]] which stops something from opening.**
+- **A stopping mechanism, [[e/_especially|especially]] a [[c/_clasp|clasp]] which stops something from opening.**
 	- _Example: She installed a sturdy catch to keep her cabinets closed tight._
 - **A hesitation in voice, [[c/_caused|caused]] by strong [[e/_emotion|emotion]].**
 	- _Example: There was a catch in his voice when he spoke his father's name._
-- **(sometimes noun [[a/_adjunct|adjunct]]) A [[c/_concealed|concealed]] [[d/_difficulty|difficulty]], especially in a [[d/_deal|deal]] or negotiation.**
+- **(sometimes noun [[a/_adjunct|adjunct]]) A [[c/_concealed|concealed]] [[d/_difficulty|difficulty]], [[e/_especially|especially]] in a [[d/_deal|deal]] or negotiation.**
 	- _Example: Be careful, that's a catch question._
 - **A [[c/_crick|crick]]; a sudden muscle pain [[d/_during|during]] unaccustomed positioning when the muscle is in use.**
 	- _Example: I bent over to see under the table and got a catch in my side._
@@ -35,7 +35,7 @@
 - **A slight remembrance; a trace.**
 ---
 ### Synonyms
-- [[beau]], [[conquest]], [[find]], [[prize]], [[capture]], [[collar]], [[seizure]], [[snatch]], [[observation]], [[bit]], [[fragment]], [[snatch]], [[snippet]], [[gimmick]], [[hitch]], [[problem]], [[snag]], [[trick]], [[haul]], [[take]], [[burden]], [[chorus]], [[refrain]], [[chock]], [[clasp]], [[hasp]], [[latch]], [[stop]], [[grasp]], [[snatch]]
+- [[b/_beau|beau]], [[c/_conquest|conquest]], [[f/_find|find]], [[p/_prize|prize]], [[c/_capture|capture]], [[c/_collar|collar]], [[s/_seizure|seizure]], [[s/_snatch|snatch]], [[o/_observation|observation]], [[b/_bit|bit]], [[f/_fragment|fragment]], [[s/_snatch|snatch]], [[s/_snippet|snippet]], [[g/_gimmick|gimmick]], [[h/_hitch|hitch]], [[p/_problem|problem]], [[s/_snag|snag]], [[t/_trick|trick]], [[h/_haul|haul]], [[t/_take|take]], [[b/_burden|burden]], [[c/_chorus|chorus]], [[r/_refrain|refrain]], [[c/_chock|chock]], [[c/_clasp|clasp]], [[h/_hasp|hasp]], [[l/_latch|latch]], [[s/_stop|stop]], [[g/_grasp|grasp]], [[s/_snatch|snatch]]
 #verb
 - **(heading) To [[c/_capture|capture]], overtake.**
 - **(heading) To seize hold of.**
@@ -46,7 +46,7 @@
 - **(heading) To obtain or experience**
 ---
 ### Synonyms
-- [[get]], [[take]], [[capture]], [[hook]], [[snare]], [[take]], [[fang]], [[grab]], [[snatch]]
+- [[g/_get|get]], [[t/_take|take]], [[c/_capture|capture]], [[h/_hook|hook]], [[s/_snare|snare]], [[t/_take|take]], [[f/_fang|fang]], [[g/_grab|grab]], [[s/_snatch|snatch]]
 ### Antonyms
-- [[drop]], [[release]]
+- [[d/_drop|drop]], [[r/_release|release]]
 ---

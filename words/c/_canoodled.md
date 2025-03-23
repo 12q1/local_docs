@@ -6,5 +6,5 @@
 - **To [[c/_cajole|cajole]] or persuade.**
 ---
 ### Synonyms
-- [[coax]], [[inveigle]], [[sweet-talk]], [[wheedle]], [[grope]], [[touch up]]
+- [[c/_coax|coax]], [[i/_inveigle|inveigle]], [[s/_sweet-talk|sweet-talk]], [[w/_wheedle|wheedle]], [[g/_grope|grope]]
 ---

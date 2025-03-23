@@ -7,5 +7,5 @@
 - **A [[c/_class|class]] of Protestant landowners and professionals that [[d/_dominated|dominated]] political and social life in Ireland up to the [[e/_early|early]] 20th [[c/_century|century]]**
 ---
 ### Synonyms
-- [[superiority]]
+- [[s/_superiority|superiority]]
 ---

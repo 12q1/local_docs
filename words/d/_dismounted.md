@@ -8,9 +8,9 @@
 - **To throw ([[c/_cannon|cannon]]) off their [[c/_carriages|carriages]].**
 ---
 ### Synonyms
-- [[umount]], [[unmount]]
+- [[u/_umount|umount]], [[u/_unmount|unmount]]
 ### Antonyms
-- [[mount]], [[get on]]
+- [[m/_mount|mount]]
 #adjective
 - **Having gotten off one's horse, or [[b/_been|been]] removed from its usual mounting, as with a statue off its pedestal, a framed picture from a wall, or a [[c/_chandelier|chandelier]] hanging from a [[c/_ceiling|ceiling]].**
 ---

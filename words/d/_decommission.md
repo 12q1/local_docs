@@ -9,5 +9,5 @@
 	- _Example: The state highway was decommissioned and reverted to local control._
 ---
 ### Antonyms
-- [[commission]]
+- [[c/_commission|commission]]
 ---

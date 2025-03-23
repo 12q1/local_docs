@@ -16,5 +16,5 @@
 - **A [[d/_defensive|defensive]] formation with six [[d/_defensive|defensive]] [[b/_backs|backs]], one of whom is a dimeback.**
 ---
 ### Synonyms
-- [[ten cent piece]], [[grand]]
+- [[g/_grand|grand]]
 ---

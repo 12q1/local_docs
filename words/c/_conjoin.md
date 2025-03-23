@@ -10,5 +10,5 @@
 - **To unite, to join, to league.**
 ---
 ### Synonyms
-- [[affix]], [[attach]], [[join]], [[put together]], [[bewed]], [[wed]]
+- [[a/_affix|affix]], [[a/_attach|attach]], [[j/_join|join]], [[b/_bewed|bewed]], [[w/_wed|wed]]
 ---

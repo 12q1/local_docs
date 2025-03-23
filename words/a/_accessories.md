@@ -8,5 +8,5 @@
 - **Something in a work of [[a/_art|art]] without [[b/_being|being]] indispensably necessary, for example solely ornamental parts.**
 ---
 ### Synonyms
-- [[abettor]], [[accessary]], [[accomplice]], [[ally]], [[coadjutor]], [[accompaniment]], [[addition]], [[attachment]], [[supplement]]
+- [[a/_abettor|abettor]], [[a/_accessary|accessary]], [[a/_accomplice|accomplice]], [[a/_ally|ally]], [[c/_coadjutor|coadjutor]], [[a/_accompaniment|accompaniment]], [[a/_addition|addition]], [[a/_attachment|attachment]], [[s/_supplement|supplement]]
 ---

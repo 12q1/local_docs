@@ -7,5 +7,5 @@
 - **One hundredth of one percentage point.**
 ---
 ### Synonyms
-- [[permyriad]], [[‱]]
+- [[p/_permyriad|permyriad]], [[‱/_‱|‱]]
 ---

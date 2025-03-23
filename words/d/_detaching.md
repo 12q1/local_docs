@@ -9,7 +9,7 @@
 	- _Example: Now that the zipper has detached, my winter coat won't keep me very warm._
 ---
 ### Synonyms
-- [[fall off]], [[allocate]], [[earmark]], [[disengage]], [[unfasten]]
+- [[a/_allocate|allocate]], [[e/_earmark|earmark]], [[d/_disengage|disengage]], [[u/_unfasten|unfasten]]
 ### Antonyms
-- [[attach]]
+- [[a/_attach|attach]]
 ---

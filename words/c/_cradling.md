@@ -13,7 +13,7 @@
 - **To put ribs [[a/_across|across]] the [[b/_back|back]] of (a picture), to prevent the panels from warping.**
 ---
 #noun
-- **The [[a/_act|act]] by which one [[c/_cradles|cradles]] a [[c/_child|child]] etc.**
+- **The [[a/_act|act]] by which one [[c/_cradles|cradles]] a [[c/_child|child]] [[e/_etc|etc]].**
 - **The [[a/_act|act]] of using a [[c/_cradle|cradle]] (the tool).**
 - **([[c/_coopering|coopering]]) The [[c/_cutting|cutting]] of a [[c/_cask|cask]] into two pieces lengthwise, to [[e/_enable|enable]] it to pass a narrow place, the two parts [[b/_being|being]] [[a/_afterwards|afterwards]] united and rehooped.**
 - **The framework in [[a/_arched|arched]] or [[c/_coved|coved]] [[c/_ceilings|ceilings]] to which the laths are nailed.**

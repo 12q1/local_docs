@@ -11,7 +11,7 @@
 - **A [[c/_cpu|CPU]] [[c/_clock|clock]] [[c/_cycle|cycle]], or T-state.**
 ---
 ### Synonyms
-- [[timepiece]], [[odometer]]
+- [[t/_timepiece|timepiece]], [[o/_odometer|odometer]]
 #verb
 - **To measure the [[d/_duration|duration]] of.**
 - **To measure the speed of.**
@@ -26,5 +26,5 @@
 	- _Example: Have you clocked that game yet?_
 ---
 ### Synonyms
-- [[check out]], [[scope out]], [[slug]], [[smack]], [[thump]], [[whack]], [[time]], [[turn back (the vehicle's) clock]], [[wind back (the vehicle's) clock]]
+- [[s/_slug|slug]], [[s/_smack|smack]], [[t/_thump|thump]], [[w/_whack|whack]], [[t/_time|time]]
 ---

@@ -5,5 +5,5 @@
 - **Under the influence of [[b/_beer|beer]].**
 ---
 ### Synonyms
-- [[beerish]], [[beerlike]]
+- [[b/_beerish|beerish]], [[b/_beerlike|beerlike]]
 ---

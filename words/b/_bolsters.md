@@ -13,7 +13,7 @@
 - **A [[b/_block|block]] of wood on the [[c/_carriage|carriage]] of a siege gun, upon which the [[b/_breech|breech]] of the gun rests when [[a/_arranged|arranged]] for transportation.**
 ---
 ### Synonyms
-- [[Dutch wife]], [[cross-head]], [[pillow]]
+- [[c/_cross-head|cross-head]], [[p/_pillow|pillow]]
 #verb
 - **To [[b/_brace|brace]], reinforce, secure, or support.**
 ---

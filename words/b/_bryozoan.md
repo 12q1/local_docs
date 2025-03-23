@@ -4,10 +4,10 @@
 - **A member of the phylum [[b/_bryozoa|Bryozoa]] of [[a/_aquatic|aquatic]], usually [[c/_colonial|colonial]] invertebrates.**
 ---
 ### Synonyms
-- [[ectoproct]], [[moss animal]], [[polyzoan]]
+- [[e/_ectoproct|ectoproct]], [[p/_polyzoan|polyzoan]]
 #adjective
 - **Pertaining to the [[b/_bryozoa|Bryozoa]].**
 ---
 ### Synonyms
-- [[polyzoan]], [[polyzoic]]
+- [[p/_polyzoan|polyzoan]], [[p/_polyzoic|polyzoic]]
 ---

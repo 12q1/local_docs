@@ -15,5 +15,5 @@
 - **(following a negated expression of improbability) That.**
 ---
 ### Synonyms
-- [[bar]], [[excepting]], [[excluding]], [[unless]], [[with the exception of]], [[without]], [[ac]], [[although]], [[yet]]
+- [[b/_bar|bar]], [[e/_excepting|excepting]], [[e/_excluding|excluding]], [[u/_unless|unless]], [[w/_without|without]], [[a/_ac|ac]], [[a/_although|although]], [[y/_yet|yet]]
 ---

@@ -15,7 +15,7 @@
 - **Serviceable; helpful.**
 ---
 ### Synonyms
-- [[comforting]], [[comfy]], [[cozy]], [[cushy]], [[eathful]], [[restful]], [[snug]], [[safe]]
+- [[c/_comforting|comforting]], [[c/_comfy|comfy]], [[c/_cozy|cozy]], [[c/_cushy|cushy]], [[e/_eathful|eathful]], [[r/_restful|restful]], [[s/_snug|snug]], [[s/_safe|safe]]
 ### Antonyms
-- [[comfortless]], [[uncomfortable]]
+- [[c/_comfortless|comfortless]], [[u/_uncomfortable|uncomfortable]]
 ---

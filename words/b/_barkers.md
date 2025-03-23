@@ -12,7 +12,7 @@
 - **The spotted redshank.**
 ---
 ### Synonyms
-- [[barking iron]], [[spruik]], [[tout]]
+- [[s/_spruik|spruik]], [[t/_tout|tout]]
 #noun
 - **A person who removes needed or valuable tree [[b/_bark|bark]], as on a [[c/_cinnamon|cinnamon]] or [[c/_cinchona|cinchona]] plantation.**
 	- _Example: The professor of barker has been made largely obsolete by the realization that in most cases saplings can be cultivated far more profitably._

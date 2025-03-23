@@ -6,5 +6,5 @@
 - **Of the [[c/_characteristic|characteristic]] feature of a proposition that is necessary (or impossible): perfectly [[c/_certain|certain]] (or inconceivable) or incontrovertibly true (or false); self-evident.**
 ---
 ### Antonyms
-- [[anapodeictic]]
+- [[a/_anapodeictic|anapodeictic]]
 ---

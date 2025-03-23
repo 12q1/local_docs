@@ -7,5 +7,5 @@
 - **A vehicle used in [[d/_drag|drag]] racing.**
 ---
 ### Synonyms
-- [[dragster]], [[dragster]]
+- [[d/_dragster|dragster]], [[d/_dragster|dragster]]
 ---

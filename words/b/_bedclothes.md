@@ -5,5 +5,5 @@
 	- _Example: She pulled her bedclothes over her neck to stay warm._
 ---
 ### Synonyms
-- [[bedclothing]], [[bedding]], [[bedlinen]], [[covers]]
+- [[b/_bedclothing|bedclothing]], [[b/_bedding|bedding]], [[b/_bedlinen|bedlinen]], [[c/_covers|covers]]
 ---

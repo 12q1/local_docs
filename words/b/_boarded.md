@@ -12,11 +12,11 @@
 - **To [[c/_cover|cover]] with [[b/_boards|boards]] or [[b/_boarding|boarding]].**
 	- _Example: to board a house_
 - **To hit (someone) with a wooden [[b/_board|board]].**
-- **To write something on a [[b/_board|board]], especially a [[b/_blackboard|blackboard]] or whiteboard.**
+- **To write something on a [[b/_board|board]], [[e/_especially|especially]] a [[b/_blackboard|blackboard]] or whiteboard.**
 ---
 ### Antonyms
-- [[alight]], [[disembark]]
+- [[a/_alight|alight]], [[d/_disembark|disembark]]
 #adjective
-- **(of a structure, such as a roof, window, etc.) wooden, [[b/_built|built]] with pieces of wood**
+- **(of a structure, such as a roof, window, [[e/_etc|etc]].) wooden, [[b/_built|built]] with pieces of wood**
 ---
 ---

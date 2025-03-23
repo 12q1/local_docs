@@ -23,7 +23,7 @@
 	- _Example: The last letter of ‘café’ is ‘e’ acute._
 ---
 ### Synonyms
-- [[acute-angled]], [[emergent]], [[pressing]], [[sudden]], [[fast]], [[rapid]], [[keen]], [[powerful]], [[strong]]
+- [[a/_acute-angled|acute-angled]], [[e/_emergent|emergent]], [[p/_pressing|pressing]], [[s/_sudden|sudden]], [[f/_fast|fast]], [[r/_rapid|rapid]], [[k/_keen|keen]], [[p/_powerful|powerful]], [[s/_strong|strong]]
 ### Antonyms
-- [[chronic]], [[dull]], [[obtuse]], [[slow]], [[witless]], [[grave]], [[leisurely]], [[slow]], [[obtuse]], [[obtuse]], [[obtuse]], [[obtuse-angled]]
+- [[c/_chronic|chronic]], [[d/_dull|dull]], [[o/_obtuse|obtuse]], [[s/_slow|slow]], [[w/_witless|witless]], [[g/_grave|grave]], [[l/_leisurely|leisurely]], [[s/_slow|slow]], [[o/_obtuse|obtuse]], [[o/_obtuse|obtuse]], [[o/_obtuse|obtuse]], [[o/_obtuse-angled|obtuse-angled]]
 ---

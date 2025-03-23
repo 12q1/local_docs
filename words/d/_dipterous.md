@@ -5,5 +5,5 @@
 - **Having two wings.**
 ---
 ### Synonyms
-- [[bialate]], [[bipterous]]
+- [[b/_bialate|bialate]], [[b/_bipterous|bipterous]]
 ---

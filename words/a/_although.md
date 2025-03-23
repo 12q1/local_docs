@@ -7,5 +7,5 @@
 	- _Example: It was difficult, although not as difficult as we had expected._
 ---
 ### Synonyms
-- [[albeit]], [[even if]], [[even though]], [[notwithstanding]]
+- [[a/_albeit|albeit]], [[n/_notwithstanding|notwithstanding]]
 ---

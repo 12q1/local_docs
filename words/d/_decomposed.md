@@ -5,5 +5,5 @@
 - **To rot, [[d/_decay|decay]] or putrefy**
 ---
 ### Antonyms
-- [[assemble]]
+- [[a/_assemble|assemble]]
 ---

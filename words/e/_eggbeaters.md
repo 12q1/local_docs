@@ -7,5 +7,5 @@
 - **An outboard motor.**
 ---
 ### Synonyms
-- [[eggwhisk]]
+- [[e/_eggwhisk|eggwhisk]]
 ---

@@ -8,5 +8,5 @@
 - **A flatterer or sycophant.**
 ---
 ### Synonyms
-- [[malus]]
+- [[m/_malus|malus]]
 ---

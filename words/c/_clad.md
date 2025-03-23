@@ -10,7 +10,7 @@
 - **(in [[c/_compounds|compounds]]) [[c/_covered|Covered]], [[e/_enveloped|enveloped]] in or surrounded by a specified material or substance.**
 ---
 ### Synonyms
-- [[dressed]], [[raimented]]
+- [[d/_dressed|dressed]], [[r/_raimented|raimented]]
 #verb
 - **To [[a/_adorn|adorn]] or [[c/_cover|cover]] with [[c/_clothing|clothing]]; to [[d/_dress|dress]]; to supply [[c/_clothes|clothes]] or [[c/_clothing|clothing]].**
 	- _Example: to feed and clothe a family; to clothe oneself extravagantly_
@@ -18,5 +18,5 @@
 	- _Example: to clothe somebody with authority or power_
 ---
 ### Synonyms
-- [[dight]], [[don]], [[put on]]
+- [[d/_dight|dight]], [[d/_don|don]]
 ---

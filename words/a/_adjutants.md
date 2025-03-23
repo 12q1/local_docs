@@ -6,5 +6,5 @@
 - **[[a/_any|Any]] [[b/_bird|bird]] of the genus Leptoptilos, a [[b/_branch|branch]] of the stork family ([[c/_ciconiidae|Ciconiidae]]) native to India and Southeast [[a/_asia|Asia]].**
 ---
 ### Synonyms
-- [[bird]]
+- [[b/_bird|bird]]
 ---

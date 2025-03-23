@@ -7,7 +7,7 @@
 	- _Example: kale crisps_
 ---
 ### Synonyms
-- [[potato chip]], [[potato crisp]], [[crumble]], [[crunch]]
+- [[c/_crumble|crumble]], [[c/_crunch|crunch]]
 #verb
 - **To make [[c/_crisp|crisp]].**
 	- _Example: to crisp bacon by frying it_
@@ -24,16 +24,16 @@
 - **To [[c/_colour|colour]] (something with highlights); to [[a/_add|add]] small [[a/_amounts|amounts]] of [[c/_colour|colour]] to (something).**
 ---
 ### Synonyms
-- [[crackle]], [[creak]], [[crunch]], [[rustle]], [[crispen]], [[crispen]], [[tinge]]
+- [[c/_crackle|crackle]], [[c/_creak|creak]], [[c/_crunch|crunch]], [[r/_rustle|rustle]], [[c/_crispen|crispen]], [[c/_crispen|crispen]], [[t/_tinge|tinge]]
 #adjective
 - **(of something seen or heard) Sharp, [[c/_clearly|clearly]] [[d/_defined|defined]].**
 	- _Example: This new television set has a very crisp image._
 - **[[b/_brittle|Brittle]]; friable; in a [[c/_condition|condition]] to [[b/_break|break]] with a short, sharp fracture.**
 	- _Example: The crisp snow crunched underfoot._
 - **Possessing a [[c/_certain|certain]] [[d/_degree|degree]] of firmness and freshness.**
-- **(of weather, [[a/_air|air]] etc.) [[d/_dry|Dry]] and [[c/_cold|cold]].**
-- **(of movement, [[a/_action|action]] etc.) Quick and [[a/_accurate|accurate]].**
-- **(of talk, text, etc.) [[b/_brief|Brief]] and to the point.**
+- **(of weather, [[a/_air|air]] [[e/_etc|etc]].) [[d/_dry|Dry]] and [[c/_cold|cold]].**
+- **(of movement, [[a/_action|action]] [[e/_etc|etc]].) Quick and [[a/_accurate|accurate]].**
+- **(of talk, text, [[e/_etc|etc]].) [[b/_brief|Brief]] and to the point.**
 	- _Example: An expert, given a certain query, will often come up with a crisp answer: “yes” or “no”._
 - **(of wine) having a refreshing [[a/_amount|amount]] of [[a/_acidity|acidity]]; having less [[a/_acidity|acidity]] than green wine, but more than a flabby one.**
 - **Lively; sparking; [[e/_effervescing|effervescing]].**

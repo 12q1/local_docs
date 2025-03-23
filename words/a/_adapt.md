@@ -10,7 +10,7 @@
 	- _Example: They could not adapt to the new climate and so perished._
 ---
 ### Synonyms
-- [[proportion]]
+- [[p/_proportion|proportion]]
 #adjective
 - **[[a/_adapted|Adapted]]; fit; suited; suitable.**
 ---

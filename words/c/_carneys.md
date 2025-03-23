@@ -6,7 +6,7 @@
 - **A [[c/_carnival|carnival]].**
 ---
 ### Synonyms
-- [[showie]]
+- [[s/_showie|showie]]
 #noun
 - **Flattery.**
 ---

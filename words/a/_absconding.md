@@ -10,7 +10,7 @@
 - **To hide, to be in hiding or [[c/_concealment|concealment]].**
 ---
 ### Synonyms
-- [[conceal]], [[flee]], [[run away]], [[steal away]]
+- [[c/_conceal|conceal]], [[f/_flee|flee]]
 #noun
 - **An instance in which someone [[a/_absconds|absconds]].**
 ---

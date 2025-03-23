@@ -4,5 +4,5 @@
 - **[[d/_dandyish|Dandyish]]; like a [[d/_dandy|dandy]].**
 ---
 ### Synonyms
-- [[dandyish]]
+- [[d/_dandyish|dandyish]]
 ---

@@ -8,7 +8,7 @@
 - **The hand towards the [[b/_back|back]] of the [[b/_board|board]].**
 ---
 ### Antonyms
-- [[forehand]], [[palm]]
+- [[f/_forehand|forehand]], [[p/_palm|palm]]
 #verb
 - **To execute a [[b/_backhand|backhand]] stroke or throw**
 - **To slap with the [[b/_back|back]] of one's hand**

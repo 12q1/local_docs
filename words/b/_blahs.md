@@ -2,8 +2,8 @@
 ---
 #noun
 - **Nonsense; [[d/_drivel|drivel]]; idle, meaningless talk.**
-- **(in plural, the [[b/_blahs|blahs]]) A general or [[a/_ambiguous|ambiguous]] feeling of [[d/_discomfort|discomfort]], [[d/_dissatisfaction|dissatisfaction]], uneasiness, [[b/_boredom|boredom]], mild [[d/_depression|depression]], etc.**
+- **(in plural, the [[b/_blahs|blahs]]) A general or [[a/_ambiguous|ambiguous]] feeling of [[d/_discomfort|discomfort]], [[d/_dissatisfaction|dissatisfaction]], uneasiness, [[b/_boredom|boredom]], mild [[d/_depression|depression]], [[e/_etc|etc]].**
 ---
 ### Synonyms
-- [[malaise]], [[bombast]], [[bosh]], [[bunkum]], [[claptrap]], [[eyewash]], [[fustian]], [[hooey]], [[humbug]], [[rant]], [[rubbish]], [[twaddle]]
+- [[m/_malaise|malaise]], [[b/_bombast|bombast]], [[b/_bosh|bosh]], [[b/_bunkum|bunkum]], [[c/_claptrap|claptrap]], [[e/_eyewash|eyewash]], [[f/_fustian|fustian]], [[h/_hooey|hooey]], [[h/_humbug|humbug]], [[r/_rant|rant]], [[r/_rubbish|rubbish]], [[t/_twaddle|twaddle]]
 ---

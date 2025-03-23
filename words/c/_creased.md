@@ -12,7 +12,7 @@
 - **Wrinkly**
 ---
 ### Synonyms
-- [[bewrinkled]], [[rugose]], [[wrinklesome]]
+- [[b/_bewrinkled|bewrinkled]], [[r/_rugose|rugose]], [[w/_wrinklesome|wrinklesome]]
 #verb
 - **To stab with a kris.**
 ---

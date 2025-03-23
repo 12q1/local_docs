@@ -7,7 +7,7 @@
 - **The ideology of [[a/_adhering|adhering]] to one standard or social uniformity.**
 ---
 ### Synonyms
-- [[compliance]], [[conformance]], [[homogeneity]], [[uniformity]]
+- [[c/_compliance|compliance]], [[c/_conformance|conformance]], [[h/_homogeneity|homogeneity]], [[u/_uniformity|uniformity]]
 ### Antonyms
-- [[nonconformity]]
+- [[n/_nonconformity|nonconformity]]
 ---

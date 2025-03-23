@@ -9,12 +9,12 @@
 - **To occupy or [[e/_engage|engage]] the [[a/_attention|attention]] of; to lose in [[d/_deep|deep]] thought; to [[a/_absorb|absorb]]; [[a/_also|also]], to [[d/_distract|distract]]; to [[b/_bewilder|bewilder]].**
 ---
 ### Synonyms
-- [[beguile]], [[divert]], [[entertain]], [[exhilarate]], [[gratify]], [[please]]
+- [[b/_beguile|beguile]], [[d/_divert|divert]], [[e/_entertain|entertain]], [[e/_exhilarate|exhilarate]], [[g/_gratify|gratify]], [[p/_please|please]]
 #adjective
 - **[[e/_entertaining|Entertaining]].**
 	- _Example: The film has some amusing moments, but it is unlikely to make you laugh out loud._
 - **Funny, hilarious.**
 ---
 ### Antonyms
-- [[unamusing]]
+- [[u/_unamusing|unamusing]]
 ---

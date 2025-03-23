@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[e/_enter|enter]] on a list; to [[e/_enroll|enroll]]; to register.**
-- **To join a [[c/_cause|cause]] or organization, especially military service.**
+- **To join a [[c/_cause|cause]] or organization, [[e/_especially|especially]] military service.**
 	- _Example: The army wants potential soldiers to enlist._
 - **To recruit the [[a/_aid|aid]] or membership of others.**
 	- _Example: We enlisted fifty new members._
@@ -10,7 +10,7 @@
 	- _Example: They enlisted the government's support._
 ---
 ### Synonyms
-- [[enscroll]]
+- [[e/_enscroll|enscroll]]
 #noun
 - **Those individuals who have [[e/_enlisted|enlisted]] in the military and who are not [[c/_commissioned|commissioned]] officers.**
 ---

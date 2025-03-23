@@ -1,10 +1,10 @@
 # Ditches
 ---
 #noun
-- **[[d/_dirt|Dirt]] ingrained on the hands, or in [[c/_cracks|cracks]], [[c/_crevices|crevices]], etc.**
+- **[[d/_dirt|Dirt]] ingrained on the hands, or in [[c/_cracks|cracks]], [[c/_crevices|crevices]], [[e/_etc|etc]].**
 ---
 #verb
-- **To smear, [[d/_daub|daub]], plaster, or impregnate, especially with [[d/_dirt|dirt]] which [[b/_becomes|becomes]] hard and ingrained.**
+- **To smear, [[d/_daub|daub]], plaster, or impregnate, [[e/_especially|especially]] with [[d/_dirt|dirt]] which [[b/_becomes|becomes]] hard and ingrained.**
 ---
 #noun
 - **A trench; a long, shallow indentation, as for irrigation or [[d/_drainage|drainage]].**
@@ -25,5 +25,5 @@
 	- _Example: The engine was ditched and turned on its side._
 ---
 ### Synonyms
-- [[abandon]], [[discard]], [[dump]], [[jettison]], [[lose]], [[shed]]
+- [[a/_abandon|abandon]], [[d/_discard|discard]], [[d/_dump|dump]], [[j/_jettison|jettison]], [[l/_lose|lose]], [[s/_shed|shed]]
 ---

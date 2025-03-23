@@ -5,5 +5,5 @@
 - **Organised on a [[c/_capitalist|capitalist]] [[b/_basis|basis]].**
 ---
 ### Synonyms
-- [[capitalist]]
+- [[c/_capitalist|capitalist]]
 ---

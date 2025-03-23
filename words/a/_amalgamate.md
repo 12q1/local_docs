@@ -7,9 +7,9 @@
 - **To [[c/_combine|combine]] (free groups) by identifying respective isomorphic subgroups.**
 ---
 ### Synonyms
-- [[mix]]
+- [[m/_mix|mix]]
 ### Antonyms
-- [[separate]]
+- [[s/_separate|separate]]
 #adjective
 - **[[c/_coalesced|Coalesced]]; united; [[c/_combined|combined]].**
 ---

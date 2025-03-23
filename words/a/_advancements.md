@@ -8,5 +8,5 @@
 - **Property given, usually by a parent to a [[c/_child|child]], in [[a/_advance|advance]] of a future [[d/_distribution|distribution]].**
 ---
 ### Synonyms
-- [[furtherance]], [[improvement]], [[progression]]
+- [[f/_furtherance|furtherance]], [[i/_improvement|improvement]], [[p/_progression|progression]]
 ---

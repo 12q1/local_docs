@@ -6,5 +6,5 @@
 - **A [[c/_chess|chess]]-playing team [[c/_comprising|comprising]] a human player and a [[c/_computer|computer]] who work together.**
 ---
 ### Synonyms
-- [[hippocentaur]]
+- [[h/_hippocentaur|hippocentaur]]
 ---

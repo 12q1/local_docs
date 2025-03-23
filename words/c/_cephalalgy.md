@@ -4,5 +4,5 @@
 - **A pain in the head; headache.**
 ---
 ### Synonyms
-- [[headache]]
+- [[h/_headache|headache]]
 ---

@@ -7,7 +7,7 @@
 - **A speech sound which [[b/_behaves|behaves]] as a single segment, but which makes an internal transition from one quality, place, or manner to [[a/_another|another]].**
 ---
 ### Synonyms
-- [[contour line]]
+- 
 #verb
 - **To form a more or less [[c/_curved|curved]] [[b/_boundary|boundary]] or [[b/_border|border]] upon.**
 - **To mark with [[c/_contour|contour]] lines.**

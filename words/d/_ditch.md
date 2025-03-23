@@ -19,5 +19,5 @@
 	- _Example: The engine was ditched and turned on its side._
 ---
 ### Synonyms
-- [[abandon]], [[discard]], [[dump]], [[jettison]], [[lose]], [[shed]]
+- [[a/_abandon|abandon]], [[d/_discard|discard]], [[d/_dump|dump]], [[j/_jettison|jettison]], [[l/_lose|lose]], [[s/_shed|shed]]
 ---

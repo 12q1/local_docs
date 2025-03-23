@@ -6,7 +6,7 @@
 	- _Example: to make a dicker_
 ---
 ### Synonyms
-- [[daker]]
+- [[d/_daker|daker]]
 #verb
 - **To [[b/_bargain|bargain]], haggle or negotiate over a sale.**
 - **To [[b/_barter|barter]].**

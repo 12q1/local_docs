@@ -5,5 +5,5 @@
 - **A person who [[d/_defaults|defaults]] on [[d/_debts|debts]].**
 ---
 ### Synonyms
-- [[shirker]], [[welcher]]
+- [[s/_shirker|shirker]], [[w/_welcher|welcher]]
 ---

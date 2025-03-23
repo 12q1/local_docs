@@ -7,5 +7,5 @@
 - **A lavatory, now particularly a small secondary lavatory or a men's room.**
 ---
 ### Synonyms
-- [[cloaks]], [[baggage room]], [[left-luggage office]], [[lost and found]], [[checkroom]], [[coat check]], [[coatroom]], [[half bath]], [[half bathroom]], [[toilet]]
+- [[c/_cloaks|cloaks]], [[c/_checkroom|checkroom]], [[c/_coatroom|coatroom]], [[t/_toilet|toilet]]
 ---

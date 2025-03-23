@@ -4,12 +4,12 @@
 - **A lesbian who [[a/_appears|appears]] masculine or [[a/_acts|acts]] in a masculine manner.**
 ---
 ### Synonyms
-- [[bull dyke]], [[dyke]]
+- [[d/_dyke|dyke]]
 ### Antonyms
-- [[femme]]
+- [[f/_femme|femme]]
 #adjective
 - **(originally Polari) Very masculine, with a masculine [[a/_appearance|appearance]] or [[a/_attitude|attitude]].**
 ---
 ### Synonyms
-- [[macho]], [[manly]], [[mannish]], [[masc]], [[unfeminine]]
+- [[m/_macho|macho]], [[m/_manly|manly]], [[m/_mannish|mannish]], [[m/_masc|masc]], [[u/_unfeminine|unfeminine]]
 ---

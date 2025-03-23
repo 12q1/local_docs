@@ -7,7 +7,7 @@
 - **The state of a [[b/_body|body]] at rest or in uniform motion in which the resultant of [[a/_all|all]] forces on it is zero.**
 ---
 ### Synonyms
-- [[balance]], [[stability]], [[sanity]]
+- [[b/_balance|balance]], [[s/_stability|stability]], [[s/_sanity|sanity]]
 ### Antonyms
-- [[disequilibrium]], [[imbalance]], [[instability]], [[disequilibrium]], [[non-equilibrium]], [[insanity]], [[instability]], [[madness]]
+- [[d/_disequilibrium|disequilibrium]], [[i/_imbalance|imbalance]], [[i/_instability|instability]], [[d/_disequilibrium|disequilibrium]], [[n/_non-equilibrium|non-equilibrium]], [[i/_insanity|insanity]], [[i/_instability|instability]], [[m/_madness|madness]]
 ---

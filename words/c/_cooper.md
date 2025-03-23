@@ -5,6 +5,6 @@
 - **A [[d/_drink|drink]] of half stout and half porter.**
 ---
 #verb
-- **To make and repair [[b/_barrels|barrels]] etc.**
+- **To make and repair [[b/_barrels|barrels]] [[e/_etc|etc]].**
 ---
 ---

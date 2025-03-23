@@ -5,5 +5,5 @@
 - **More generally, [[a/_any|any]] megalithic tomb, including passage graves and wedge tombs.**
 ---
 ### Synonyms
-- [[cromlech]], [[portal tomb]]
+- [[c/_cromlech|cromlech]]
 ---

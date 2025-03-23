@@ -7,5 +7,5 @@
 	- _Example: The cenotaph commemorates the fallen._
 ---
 ### Synonyms
-- [[memorialize]]
+- [[m/_memorialize|memorialize]]
 ---

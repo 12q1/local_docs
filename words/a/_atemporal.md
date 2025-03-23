@@ -5,5 +5,5 @@
 	- _Example: The greatest music is atemporal._
 ---
 ### Synonyms
-- [[eternal]], [[timeless]]
+- [[e/_eternal|eternal]], [[t/_timeless|timeless]]
 ---

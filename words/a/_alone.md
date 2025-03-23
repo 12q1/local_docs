@@ -18,5 +18,5 @@
 	- _Example: The responsibility is theirs alone._
 ---
 ### Synonyms
-- [[by one's lonesome]], [[by oneself]], [[on one's lonesome]], [[singlehanded]], [[singlehandedly]], [[by one's lonesome]], [[lonelily]], [[on one's lonesome]], [[singlely]], [[solitarily]], [[solo]], [[entirely]], [[solely]]
+- [[s/_singlehanded|singlehanded]], [[s/_singlehandedly|singlehandedly]], [[l/_lonelily|lonelily]], [[s/_singlely|singlely]], [[s/_solitarily|solitarily]], [[s/_solo|solo]], [[e/_entirely|entirely]], [[s/_solely|solely]]
 ---

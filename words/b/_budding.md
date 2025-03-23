@@ -14,7 +14,7 @@
 - **The practice of uniting a single scion [[b/_bud|bud]] with rootstock or [[b/_bark|bark]]; the result of this practice.**
 ---
 ### Synonyms
-- [[bud grafting]]
+- 
 #adjective
 - **[[b/_beginning|Beginning]] to [[d/_develop|develop]].**
 ---

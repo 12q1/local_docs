@@ -6,5 +6,5 @@
 	- _Example: He has an ambivalent relationship towards his parents._
 ---
 ### Synonyms
-- [[fluctuating]], [[vacillating]], [[wavering]], [[conflicted]], [[uncertain]], [[undecided]], [[unresolved]]
+- [[f/_fluctuating|fluctuating]], [[v/_vacillating|vacillating]], [[w/_wavering|wavering]], [[c/_conflicted|conflicted]], [[u/_uncertain|uncertain]], [[u/_undecided|undecided]], [[u/_unresolved|unresolved]]
 ---

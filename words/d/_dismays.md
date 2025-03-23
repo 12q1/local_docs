@@ -6,5 +6,5 @@
 - **To take [[d/_dismay|dismay]] or fright; to be filled with [[d/_dismay|dismay]].**
 ---
 ### Synonyms
-- [[appall]], [[daunt]], [[terrify]]
+- [[a/_appall|appall]], [[d/_daunt|daunt]], [[t/_terrify|terrify]]
 ---

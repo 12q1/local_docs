@@ -17,5 +17,5 @@
 - **In [[b/_blazon|blazon]], of the [[c/_colour|colour]] [[b/_blue|blue]].**
 ---
 ### Synonyms
-- [[cerulean]]
+- [[c/_cerulean|cerulean]]
 ---

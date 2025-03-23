@@ -5,12 +5,12 @@
 	- _Example: The dolphins became entangled in a fishing net._
 - **To involve in such [[c/_complications|complications]] as to render extrication [[d/_difficult|difficult]]**
 - **, to [[e/_ensnare|ensnare]]**
-- **To involve in [[d/_difficulties|difficulties]] or [[e/_embarrassments|embarrassments]]; to [[e/_embarrass|embarrass]], puzzle, or [[d/_distract|distract]] by [[a/_adverse|adverse]] or perplexing [[c/_circumstances|circumstances]], interests, [[d/_demands|demands]], etc.; to hamper; to [[b/_bewilder|bewilder]].**
+- **To involve in [[d/_difficulties|difficulties]] or [[e/_embarrassments|embarrassments]]; to [[e/_embarrass|embarrass]], puzzle, or [[d/_distract|distract]] by [[a/_adverse|adverse]] or perplexing [[c/_circumstances|circumstances]], interests, [[d/_demands|demands]], [[e/_etc|etc]].; to hamper; to [[b/_bewilder|bewilder]].**
 ---
 ### Synonyms
-- [[bewilder]], [[perplex]], [[puzzle]]
+- [[b/_bewilder|bewilder]], [[p/_perplex|perplex]], [[p/_puzzle|puzzle]]
 ### Antonyms
-- [[disentangle]]
+- [[d/_disentangle|disentangle]]
 #adjective
 - **Tangled or twisted together**
 - **[[c/_confused|Confused]] or [[c/_complicated|complicated]]**

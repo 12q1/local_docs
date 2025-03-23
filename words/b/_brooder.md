@@ -5,5 +5,5 @@
 - **A heated [[b/_box|box]] used for [[c/_chicks|chicks]] or premature [[b/_babies|babies]]**
 ---
 ### Synonyms
-- [[incubator]]
+- [[i/_incubator|incubator]]
 ---

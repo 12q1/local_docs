@@ -8,10 +8,10 @@
 	- _Example: This whole charade is absurd._
 ---
 ### Synonyms
-- [[acted charade]], [[dumb charade]], [[farce]], [[sham]]
+- [[f/_farce|farce]], [[s/_sham|sham]]
 #noun
 - **A game in which [[e/_each|each]] player [[a/_acts|acts]] out a word or phrase, usually [[b/_based|based]] on puns of [[e/_each|each]] syllable and without speaking, for the others to guess.**
 ---
 ### Synonyms
-- [[acting charades]], [[dumb charades]]
+- 
 ---

@@ -5,5 +5,5 @@
 	- _Example: alabastrine limbs_
 ---
 ### Synonyms
-- [[alabastrian]]
+- [[a/_alabastrian|alabastrian]]
 ---

@@ -7,7 +7,7 @@
 - **Something (or someone) that [[c/_completes|completes]]; the [[c/_consummation|consummation]].**
 - **The [[a/_act|act]] of [[c/_completing|completing]] something, or the fact of [[b/_being|being]] [[c/_complete|complete]]; [[c/_completion|completion]], [[c/_completeness|completeness]], fulfilment.**
 - **The totality, the full [[a/_amount|amount]] or number which [[c/_completes|completes]] something.**
-- **Something which [[c/_completes|completes]] one's [[e/_equipment|equipment]], [[d/_dress|dress]] etc.; an [[a/_accessory|accessory]].**
+- **Something which [[c/_completes|completes]] one's [[e/_equipment|equipment]], [[d/_dress|dress]] [[e/_etc|etc]].; an [[a/_accessory|accessory]].**
 - **The whole working force of a vessel.**
 - **Fullness (of the moon).**
 - **An [[a/_angle|angle]] which, together with a given [[a/_angle|angle]], makes a right [[a/_angle|angle]].**
@@ -37,7 +37,7 @@
 	- _Example: We believe your addition will complement the team._
 - **To provide what the partner lacks and lack what the partner provides, thus forming part of a whole.**
 	- _Example: I believe our talents really complement each other._
-- **To [[c/_change|change]] a voltage, number, [[c/_color|color]], etc. to its [[c/_complement|complement]].**
+- **To [[c/_change|change]] a voltage, number, [[c/_color|color]], [[e/_etc|etc]]. to its [[c/_complement|complement]].**
 - **Old form of [[c/_compliment|compliment]]**
 ---
 #noun

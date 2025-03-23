@@ -4,5 +4,5 @@
 - **[[d/_divination|Divination]] performed by examining the lines in the palms.**
 ---
 ### Synonyms
-- [[palmistry]]
+- [[p/_palmistry|palmistry]]
 ---

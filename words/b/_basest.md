@@ -17,9 +17,9 @@
 	- _Example: A base estate is one held by services not honourable, or held by villenage. Such a tenure is called base, or low, and the tenant is a base tenant._
 ---
 ### Synonyms
-- [[little]], [[petite]], [[short]], [[low-lying]], [[lowland]], [[common]], [[low-born]], [[lowly]], [[plebeian]], [[vulgar]]
+- [[l/_little|little]], [[p/_petite|petite]], [[s/_short|short]], [[l/_low-lying|low-lying]], [[l/_lowland|lowland]], [[c/_common|common]], [[l/_low-born|low-born]], [[l/_lowly|lowly]], [[p/_plebeian|plebeian]], [[v/_vulgar|vulgar]]
 ### Antonyms
-- [[admirable]], [[desirable]], [[likeable]], [[noble]]
+- [[a/_admirable|admirable]], [[d/_desirable|desirable]], [[l/_likeable|likeable]], [[n/_noble|noble]]
 #adjective
 - **Of sound, a voice or an instrument, low in pitch or frequency.**
 	- _Example: The giant spoke in a deep, bass, rumbling voice that shook me to my boots._

@@ -12,9 +12,9 @@
 - **A textural pattern [[a/_achieved|achieved]] by passing groups of stitches over one [[a/_another|another]].**
 ---
 ### Synonyms
-- [[cable length]], [[cablegram]], [[cord]], [[wire rope]]
+- [[c/_cablegram|cablegram]], [[c/_cord|cord]]
 ### Antonyms
-- [[hawser]]
+- [[h/_hawser|hawser]]
 #verb
 - **To provide with [[c/_cable|cable]](s)**
 - **To fasten (as if) with [[c/_cable|cable]](s)**

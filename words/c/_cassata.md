@@ -7,5 +7,5 @@
 - **A rich [[c/_cake|cake]], typical of Sicily, [[c/_containing|containing]] liqueur layered with ricotta, [[c/_candied|candied]] fruit and [[c/_chocolate|chocolate]].**
 ---
 ### Synonyms
-- [[cassata]]
+- [[c/_cassata|cassata]]
 ---

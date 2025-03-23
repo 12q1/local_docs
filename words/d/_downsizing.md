@@ -9,7 +9,7 @@
 	- _Example: Joe got downsized and became a plumber._
 ---
 ### Synonyms
-- [[rightsize]]
+- [[r/_rightsize|rightsize]]
 #noun
 - **An [[a/_act|act]] in which a [[c/_company|company]] [[d/_downsizes|downsizes]] or is [[d/_downsized|downsized]]**
 	- _Example: He lost his job in the last downsizing._

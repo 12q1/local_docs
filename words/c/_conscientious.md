@@ -7,5 +7,5 @@
 	- _Example: The advice of wise and conscientious women._
 ---
 ### Antonyms
-- [[capricious]], [[impulsive]]
+- [[c/_capricious|capricious]], [[i/_impulsive|impulsive]]
 ---

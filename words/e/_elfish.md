@@ -5,5 +5,5 @@
 - **Mischievous.**
 ---
 ### Synonyms
-- [[elven]]
+- [[e/_elven|elven]]
 ---

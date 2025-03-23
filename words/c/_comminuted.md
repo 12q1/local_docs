@@ -9,5 +9,5 @@
 - **Reduced to small particles or to powder, as by [[c/_crushing|crushing]] or pulverizing.**
 ---
 ### Synonyms
-- [[triturated]]
+- [[t/_triturated|triturated]]
 ---

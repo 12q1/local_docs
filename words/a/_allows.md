@@ -5,7 +5,7 @@
 	- _Example: to allow a servant his liberty;  to allow a free passage;  to allow one day for rest_
 - **To [[a/_acknowledge|acknowledge]]; to [[a/_accept|accept]] as true; to [[c/_concede|concede]]; to [[a/_accede|accede]] to an opinion.**
 	- _Example: to allow a right;  to allow a claim;  to allow the truth of a proposition_
-- **To grant (something) as a [[d/_deduction|deduction]] or an [[a/_addition|addition]]; especially to [[a/_abate|abate]] or [[d/_deduct|deduct]].**
+- **To grant (something) as a [[d/_deduction|deduction]] or an [[a/_addition|addition]]; [[e/_especially|especially]] to [[a/_abate|abate]] or [[d/_deduct|deduct]].**
 	- _Example: To allow a sum for leakage._
 - **To grant license to; to permit; to [[c/_consent|consent]] to.**
 	- _Example: Smoking allowed only in designated areas._
@@ -20,5 +20,5 @@
 - **To like; to be suited or pleased with.**
 ---
 ### Synonyms
-- [[admit]], [[allot]], [[assign]], [[bestow]], [[concede]], [[let]], [[permit]], [[suffer]], [[tolerate]]
+- [[a/_admit|admit]], [[a/_allot|allot]], [[a/_assign|assign]], [[b/_bestow|bestow]], [[c/_concede|concede]], [[l/_let|let]], [[p/_permit|permit]], [[s/_suffer|suffer]], [[t/_tolerate|tolerate]]
 ---

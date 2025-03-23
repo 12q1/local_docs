@@ -7,7 +7,7 @@
 - **(grammar, of a noun) Freely usable with the indefinite [[a/_article|article]] and with numbers, and therefore having a plural form.**
 ---
 ### Synonyms
-- [[denumerable]]
+- [[d/_denumerable|denumerable]]
 ### Antonyms
-- [[non-denumerable]], [[uncountable]], [[uncountable]], [[uncountable]], [[uncountable]]
+- [[n/_non-denumerable|non-denumerable]], [[u/_uncountable|uncountable]], [[u/_uncountable|uncountable]], [[u/_uncountable|uncountable]], [[u/_uncountable|uncountable]]
 ---

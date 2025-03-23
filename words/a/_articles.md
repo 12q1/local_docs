@@ -1,11 +1,11 @@
 # Articles
 ---
 #noun
-- **A piece of nonfictional writing such as a story, report, opinion piece, or [[e/_entry|entry]] in a newspaper, magazine, journal, [[d/_dictionary|dictionary]], [[e/_encyclopedia|encyclopedia]], etc.**
+- **A piece of nonfictional writing such as a story, report, opinion piece, or [[e/_entry|entry]] in a newspaper, magazine, journal, [[d/_dictionary|dictionary]], [[e/_encyclopedia|encyclopedia]], [[e/_etc|etc]].**
 - **An object, a member of a group or [[c/_class|class]].**
 	- _Example: a sales article_
 - **(grammar) A part of speech that indicates, specifies and limits a noun (a, an, or the in [[e/_english|English]]). In some languages the [[a/_article|article]] may [[a/_appear|appear]] as an [[e/_ending|ending]] ([[e/_e|e]].g. [[d/_definite|definite]] [[a/_article|article]] in Swedish) or there may be none ([[e/_e|e]].g. Russian, Pashto).**
-- **A section of a legal [[d/_document|document]], [[b/_bylaws|bylaws]], etc. or, in the plural, the [[e/_entire|entire]] [[d/_document|document]] seen as a [[c/_collection|collection]] of these.**
+- **A section of a legal [[d/_document|document]], [[b/_bylaws|bylaws]], [[e/_etc|etc]]. or, in the plural, the [[e/_entire|entire]] [[d/_document|document]] seen as a [[c/_collection|collection]] of these.**
 	- _Example: The Articles of War are a set of regulations [...] to govern the conduct of [...] military [...] forces_
 - **A genuine [[a/_article|article]].**
 - **A part or segment of something joined to other parts, or, in [[c/_combination|combination]], forming a structured set.**

@@ -25,5 +25,5 @@
 - **(possibly obsolete) Than.**
 ---
 ### Synonyms
-- [[while]], [[whilst]], [[given that]], [[seeing that]], [[albeit]], [[although]]
+- [[w/_while|while]], [[w/_whilst|whilst]], [[a/_albeit|albeit]], [[a/_although|although]]
 ---

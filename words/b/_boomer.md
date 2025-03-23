@@ -4,7 +4,7 @@
 - **A person [[b/_born|born]] in the postwar years (generally [[c/_considered|considered]] in the United States and other [[a/_allied|Allied]] [[c/_countries|countries]] as [[b/_between|between]] 1946 and the [[e/_early|early]] 1960s), when there was a marked increase in [[b/_birthrates|birthrates]] throughout the Western world following the return of servicemen at the [[e/_end|end]] of World War II.**
 ---
 ### Synonyms
-- [[boomer]]
+- [[b/_boomer|boomer]]
 #noun
 - **An [[a/_adult|adult]] male kangaroo.**
 - **(by extension) A person who [[d/_does|does]] not know how to utilize new technologies well.**
@@ -18,5 +18,5 @@
 - **A mountain [[b/_beaver|beaver]] ([[a/_aplodontia|Aplodontia]] rufa).**
 ---
 ### Synonyms
-- [[sewellel]], [[sewellel beaver]]
+- [[s/_sewellel|sewellel]]
 ---

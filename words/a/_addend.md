@@ -5,7 +5,7 @@
 - **A moiety [[a/_added|added]] to [[a/_another|another]] molecule.**
 ---
 ### Synonyms
-- [[summand]]
+- [[s/_summand|summand]]
 #verb
 - **To furnish with an [[a/_addendum|addendum]].**
 - **To furnish with an [[a/_addend|addend]].**

@@ -5,5 +5,5 @@
 - **The property of [[b/_being|being]] [[a/_aromatic|aromatic]], i.[[e/_e|e]]. having at least one [[c/_conjugated|conjugated]] ring.**
 ---
 ### Synonyms
-- [[aromaticness]]
+- [[a/_aromaticness|aromaticness]]
 ---

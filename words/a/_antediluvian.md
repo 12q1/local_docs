@@ -11,5 +11,5 @@
 - **Pertaining or [[b/_belonging|belonging]] to the time prior to Noah's Flood.**
 ---
 ### Synonyms
-- [[antediluvial]], [[antediluvial]], [[old]], [[prehistoric]], [[dated]], [[old-fashioned]], [[preflood]]
+- [[a/_antediluvial|antediluvial]], [[a/_antediluvial|antediluvial]], [[o/_old|old]], [[p/_prehistoric|prehistoric]], [[d/_dated|dated]], [[o/_old-fashioned|old-fashioned]], [[p/_preflood|preflood]]
 ---

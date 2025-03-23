@@ -5,5 +5,5 @@
 - **Stalactites and stalagmites [[c/_collectively|collectively]].**
 ---
 ### Synonyms
-- [[drip]], [[headmold]], [[hoodmold]], [[throating]]
+- [[d/_drip|drip]], [[h/_headmold|headmold]], [[h/_hoodmold|hoodmold]], [[t/_throating|throating]]
 ---

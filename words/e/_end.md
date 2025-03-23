@@ -7,7 +7,7 @@
 	- _Example: Is there no end to this madness?_
 - **(by extension) [[d/_death|Death]].**
 	- _Example: He met a terrible end in the jungle._
-- **The most extreme point of an object, especially one that is longer than it is wide.**
+- **The most extreme point of an object, [[e/_especially|especially]] one that is longer than it is wide.**
 	- _Example: Hold the string at both ends._
 - **Result.**
 - **A purpose, goal, or [[a/_aim|aim]].**
@@ -23,9 +23,9 @@
 	- _Example: Don't give them your ends. You jack that shit!_
 ---
 ### Synonyms
-- [[conclusion]], [[limit]], [[termination]], [[terminus]]
+- [[c/_conclusion|conclusion]], [[l/_limit|limit]], [[t/_termination|termination]], [[t/_terminus|terminus]]
 ### Antonyms
-- [[beginning]], [[start]]
+- [[b/_beginning|beginning]], [[s/_start|start]]
 #verb
 - **To [[c/_come|come]] to an [[e/_end|end]]**
 	- _Example: Is this movie never going to end?_

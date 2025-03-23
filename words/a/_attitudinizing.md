@@ -6,7 +6,7 @@
 - **To give the [[a/_appearance|appearance]] of, make a show of by posing.**
 ---
 ### Synonyms
-- [[posturize]]
+- [[p/_posturize|posturize]]
 #noun
 - **The [[a/_act|act]] of one who [[a/_attitudinizes|attitudinizes]]; [[a/_affected|affected]] posturing.**
 ---

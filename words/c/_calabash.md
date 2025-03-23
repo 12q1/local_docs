@@ -8,5 +8,5 @@
 - **A musical instrument, most [[c/_commonly|commonly]] a [[d/_drum|drum]] or rattle, made from a [[c/_calabash|calabash]] fruit.**
 ---
 ### Synonyms
-- [[dudhi]], [[lauki]]
+- [[d/_dudhi|dudhi]], [[l/_lauki|lauki]]
 ---

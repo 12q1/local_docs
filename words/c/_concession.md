@@ -9,7 +9,7 @@
 - **A person [[e/_eligible|eligible]] for a [[c/_concession|concession]] price (see [[a/_above|above]]).**
 ---
 ### Synonyms
-- [[franchise]], [[tithe]]
+- [[f/_franchise|franchise]], [[t/_tithe|tithe]]
 #verb
 - **To grant or [[a/_approve|approve]] by means of a [[c/_concession|concession]] [[a/_agreement|agreement]].**
 ---

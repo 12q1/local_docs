@@ -14,5 +14,5 @@
 - **A request for law [[e/_enforcement|enforcement]] officers to be on the lookout for a suspect.**
 ---
 ### Synonyms
-- [[APB]], [[all-points bulletin]]
+- [[A/_APB|APB]]
 ---

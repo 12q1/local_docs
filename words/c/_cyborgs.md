@@ -6,5 +6,5 @@
 - **A human with [[e/_electronic|electronic]] or [[b/_bionic|bionic]] prostheses.**
 ---
 ### Synonyms
-- [[bion]], [[cyberman]], [[cybernetic organism]]
+- [[b/_bion|bion]], [[c/_cyberman|cyberman]]
 ---

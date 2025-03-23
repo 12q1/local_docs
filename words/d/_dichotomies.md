@@ -9,5 +9,5 @@
 - **[[d/_division|Division]] and subdivision; [[b/_bifurcation|bifurcation]], as of a stem of a plant or a vein of the [[b/_body|body]] into two parts as it proceeds from its origin; often successive.**
 ---
 ### Synonyms
-- [[partition]], [[trichotomy]]
+- [[p/_partition|partition]], [[t/_trichotomy|trichotomy]]
 ---

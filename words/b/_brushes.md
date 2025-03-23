@@ -9,19 +9,19 @@
 - **Wild vegetation, generally larger than grass but smaller than trees.**
 - **A short and sometimes occasional [[e/_encounter|encounter]] or experience.**
 	- _Example: He has had brushes with communism from time to time._
-- **The furry tail of an [[a/_animal|animal]], especially of a fox.**
+- **The furry tail of an [[a/_animal|animal]], [[e/_especially|especially]] of a fox.**
 - **A tuft of hair on the mandibles.**
 - **A short [[c/_contest|contest]], or trial, of speed.**
 - **An instrument, resembling a [[b/_brush|brush]], used to produce a soft sound from [[d/_drums|drums]] or [[c/_cymbals|cymbals]].**
 - **An on-screen tool for "painting" a particular [[c/_colour|colour]] or texture.**
 - **A set of [[d/_defined|defined]] [[d/_design|design]] and parameters that produce [[d/_drawn|drawn]] strokes of a [[c/_certain|certain]] texture and quality.**
 	- _Example: donwloading brushes for Photoshop_
-- **In 3D video games, a [[c/_convex|convex]] polyhedron, especially one that [[d/_defines|defines]] structure of the play [[a/_area|area]].**
+- **In 3D video games, a [[c/_convex|convex]] polyhedron, [[e/_especially|especially]] one that [[d/_defines|defines]] structure of the play [[a/_area|area]].**
 - **The floorperson of a poker room, usually in a [[c/_casino|casino]].**
-- **(North Wisconsin) Evergreen [[b/_boughs|boughs]], especially [[b/_balsam|balsam]], locally [[c/_cut|cut]] and [[b/_baled|baled]] for export, usually for use in making wreaths.**
+- **(North Wisconsin) Evergreen [[b/_boughs|boughs]], [[e/_especially|especially]] [[b/_balsam|balsam]], locally [[c/_cut|cut]] and [[b/_baled|baled]] for export, usually for use in making wreaths.**
 ---
 ### Synonyms
-- [[corposant]]
+- [[c/_corposant|corposant]]
 #verb
 - **To [[c/_clean|clean]] with a [[b/_brush|brush]].**
 	- _Example: Brush your teeth._

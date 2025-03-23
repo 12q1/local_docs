@@ -6,7 +6,7 @@
 - **A short run, flight.**
 - **A rushing or violent onset.**
 - **Violent strike; a whack.**
-- **A small quantity of a liquid substance etc.; less than 1/8 of a teaspoon.**
+- **A small quantity of a liquid substance [[e/_etc|etc]].; less than 1/8 of a teaspoon.**
 	- _Example: Add a dash of vinegar._
 - **(by extension) A slight [[a/_admixture|admixture]].**
 	- _Example: There is a dash of craziness in his personality._

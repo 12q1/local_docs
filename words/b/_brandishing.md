@@ -7,7 +7,7 @@
 	- _Example: to brandish syllogisms_
 ---
 ### Synonyms
-- [[flourish]], [[wave]]
+- [[f/_flourish|flourish]], [[w/_wave|wave]]
 #noun
 - **The [[a/_action|action]] of the verb to [[b/_brandish|brandish]].**
 ---

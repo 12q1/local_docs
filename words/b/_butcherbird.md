@@ -6,5 +6,5 @@
 - **[[a/_any|Any]] of the magpie-like [[b/_birds|birds]] in the genus Cracticus.**
 ---
 ### Synonyms
-- [[Jacky Hanger]], [[Jacky Hangman]], [[red-backed shrike]]
+- 
 ---

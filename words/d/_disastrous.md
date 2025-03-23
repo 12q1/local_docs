@@ -5,7 +5,7 @@
 - **Foreboding [[d/_disaster|disaster]]; ill-omened.**
 ---
 ### Synonyms
-- [[cataclysmic]], [[catastrophic]], [[ill-boding]], [[inauspicious]], [[sinister]]
+- [[c/_cataclysmic|cataclysmic]], [[c/_catastrophic|catastrophic]], [[i/_ill-boding|ill-boding]], [[i/_inauspicious|inauspicious]], [[s/_sinister|sinister]]
 ### Antonyms
-- [[auspicious]], [[fortunate]]
+- [[a/_auspicious|auspicious]], [[f/_fortunate|fortunate]]
 ---

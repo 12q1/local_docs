@@ -9,7 +9,7 @@
 - **A void space left in tillage.**
 ---
 ### Synonyms
-- [[pancrack]], [[pogey]]
+- [[p/_pancrack|pancrack]], [[p/_pogey|pogey]]
 #verb
 - **To [[d/_distribute|distribute]] in small [[a/_amounts|amounts]]; to share out small portions of a meager resource.**
 ---

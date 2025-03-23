@@ -6,5 +6,5 @@
 - **Of a flower, having its parts inserted spirally on the receptacle.**
 ---
 ### Antonyms
-- [[cyclic]]
+- [[c/_cyclic|cyclic]]
 ---

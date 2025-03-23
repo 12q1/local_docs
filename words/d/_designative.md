@@ -4,5 +4,5 @@
 - **Serving to [[d/_designate|designate]].**
 ---
 ### Synonyms
-- [[designatory]]
+- [[d/_designatory|designatory]]
 ---

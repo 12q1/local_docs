@@ -15,7 +15,7 @@
 	- _Example: The ending of this book is rather dark._
 ---
 ### Synonyms
-- [[hopeless]], [[negative]], [[pessimistic]], [[unenlightened]], [[deep]], [[dim]], [[gloomy]], [[hidden]], [[secret]], [[sinister]], [[malign]], [[sinister]]
+- [[h/_hopeless|hopeless]], [[n/_negative|negative]], [[p/_pessimistic|pessimistic]], [[u/_unenlightened|unenlightened]], [[d/_deep|deep]], [[d/_dim|dim]], [[g/_gloomy|gloomy]], [[h/_hidden|hidden]], [[s/_secret|secret]], [[s/_sinister|sinister]], [[m/_malign|malign]], [[s/_sinister|sinister]]
 ### Antonyms
-- [[bright]], [[light]], [[pale]], [[bright]], [[light]], [[lit]]
+- [[b/_bright|bright]], [[l/_light|light]], [[p/_pale|pale]], [[b/_bright|bright]], [[l/_light|light]], [[l/_lit|lit]]
 ---

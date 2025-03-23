@@ -5,6 +5,6 @@
 - **The plant life of a geographical [[a/_area|area]]; flora.**
 	- _Example: the botany of Greenland_
 - **The properties and life phenomena exhibited by a plant, plant type, or plant group.**
-- **A [[b/_botanical|botanical]] treatise or study, especially of a particular system of [[b/_botany|botany]] or that of a particular place.**
+- **A [[b/_botanical|botanical]] treatise or study, [[e/_especially|especially]] of a particular system of [[b/_botany|botany]] or that of a particular place.**
 ---
 ---

@@ -8,7 +8,7 @@
 - **A pub.**
 ---
 ### Synonyms
-- [[alcoholic]], [[souse]], [[suck-pint]], [[boozer]], [[local]], [[watering hole]]
+- [[a/_alcoholic|alcoholic]], [[s/_souse|souse]], [[s/_suck-pint|suck-pint]], [[b/_boozer|boozer]], [[l/_local|local]]
 ### Antonyms
-- [[nondrinker]], [[teetotaler]]
+- [[n/_nondrinker|nondrinker]], [[t/_teetotaler|teetotaler]]
 ---

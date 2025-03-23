@@ -5,7 +5,7 @@
 - **To make ([[c/_concepts|concepts]]) [[a/_agree|agree]].**
 - **To hold (an object or objects) precariously; to support on a narrow [[b/_base|base]], so as to keep from falling.**
 	- _Example: I balanced my mug of coffee on my knee._
-- **To [[c/_compare|compare]] in relative force, importance, value, etc.; to estimate.**
+- **To [[c/_compare|compare]] in relative force, importance, value, [[e/_etc|etc]].; to [[e/_estimate|estimate]].**
 - **([[d/_dancing|dancing]]) To move toward, and then [[b/_back|back]] from, reciprocally.**
 	- _Example: to balance partners_
 - **To [[c/_contract|contract]], as a sail, into a narrower [[c/_compass|compass]].**

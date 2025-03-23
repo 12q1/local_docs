@@ -6,8 +6,8 @@
 #adjective
 - **(grammar) Of or relating to or functioning as an [[a/_adjective|adjective]].**
 	- _Example: adjectival noun_
-- **Of or relating to procedure, especially to technicalities thereof.**
+- **Of or relating to procedure, [[e/_especially|especially]] to technicalities thereof.**
 ---
 ### Synonyms
-- [[adjective]]
+- [[a/_adjective|adjective]]
 ---

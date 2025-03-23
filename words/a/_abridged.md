@@ -10,7 +10,7 @@
 	- _Example: He had his rights abridged by the crooked sheriff._
 ---
 #adjective
-- **[[c/_cut|Cut]] or shortened, especially of a literary work.**
+- **[[c/_cut|Cut]] or shortened, [[e/_especially|especially]] of a literary work.**
 	- _Example: The novel was abridged by the author to make the audio recording a more manageable length._
 ---
 ---

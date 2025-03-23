@@ -3,13 +3,13 @@
 #noun
 - **A [[c/_close|close]]-fitting hat, [[e/_either|either]] [[b/_brimless|brimless]] or peaked.**
 	- _Example: The children were all wearing caps to protect them from the sun._
-- **A special hat to indicate rank, occupation, etc.**
+- **A special hat to indicate rank, occupation, [[e/_etc|etc]].**
 - **An [[a/_academic|academic]] mortarboard.**
 - **A protective [[c/_cover|cover]] or seal.**
 	- _Example: He took the cap off the bottle and splashed himself with some cologne._
 - **A [[c/_crown|crown]] for [[c/_covering|covering]] a tooth.**
 	- _Example: He had golden caps on his teeth._
-- **The summit of a mountain, etc.**
+- **The summit of a mountain, [[e/_etc|etc]].**
 	- _Example: There was snow on the cap of the mountain._
 - **An [[a/_artificial|artificial]] upper limit or [[c/_ceiling|ceiling]].**
 	- _Example: We should put a cap on the salaries, to keep them under control._
@@ -35,7 +35,7 @@
 	- _Example: no cap_
 ---
 ### Antonyms
-- [[floor]]
+- [[f/_floor|floor]]
 #verb
 - **To [[c/_cover|cover]] or seal with a [[c/_cap|cap]].**
 - **To [[a/_award|award]] a [[c/_cap|cap]] as a mark of [[d/_distinction|distinction]].**

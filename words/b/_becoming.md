@@ -7,11 +7,11 @@
 - **[[b/_begin|Begin]] to be; turn into.**
 	- _Example: She became a doctor when she was 25._
 - **To be proper for; to [[b/_beseem|beseem]].**
-- **Of an [[a/_adornment|adornment]], piece of [[c/_clothing|clothing]] etc.: to look [[a/_attractive|attractive]] on (someone).**
+- **Of an [[a/_adornment|adornment]], piece of [[c/_clothing|clothing]] [[e/_etc|etc]].: to look [[a/_attractive|attractive]] on (someone).**
 	- _Example: That dress really becomes you._
 ---
 ### Synonyms
-- [[befit]], [[suit]], [[get]], [[go]], [[turn]]
+- [[b/_befit|befit]], [[s/_suit|suit]], [[g/_get|get]], [[g/_go|go]], [[t/_turn|turn]]
 #noun
 - **The [[a/_act|act]] or process by which something [[b/_becomes|becomes]].**
 ---
@@ -20,5 +20,5 @@
 - **[[d/_decent|Decent]], respectable**
 ---
 ### Antonyms
-- [[unbecoming]]
+- [[u/_unbecoming|unbecoming]]
 ---

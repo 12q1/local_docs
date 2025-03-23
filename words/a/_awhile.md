@@ -7,5 +7,5 @@
 	- _Example: Can I get you a drink awhile?_
 ---
 ### Synonyms
-- [[for a minute]], [[momentarily]], [[for the moment]], [[meanwhile]], [[meanwhilst]], [[the while]]
+- [[m/_momentarily|momentarily]], [[m/_meanwhile|meanwhile]], [[m/_meanwhilst|meanwhilst]]
 ---

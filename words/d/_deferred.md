@@ -21,7 +21,7 @@
 - **Whose value is not realized until a future [[d/_date|date]]: [[e/_e|e]].g. [[a/_annuities|annuities]], [[c/_charges|charges]], taxes and income, [[e/_either|either]] as an [[a/_asset|asset]] or liability.**
 ---
 ### Synonyms
-- [[delayed]], [[postponed]]
+- [[d/_delayed|delayed]], [[p/_postponed|postponed]]
 #noun
 - **An oath or [[a/_affirmation|affirmation]]; a vow**
 	- _Example: if I make a promise, I always stick to it;  he broke his promise_
@@ -32,5 +32,5 @@
 - **[[b/_bestowal|Bestowal]] or fulfillment of what is promised**
 ---
 ### Synonyms
-- [[deferred]], [[delay]], [[future]]
+- [[d/_deferred|deferred]], [[d/_delay|delay]], [[f/_future|future]]
 ---

@@ -32,5 +32,5 @@
 	- _Example: Don't come the innocent victim. We all know who's to blame here._
 ---
 ### Antonyms
-- [[depart]], [[exit]], [[flee]], [[go]], [[leave]], [[retreat]], [[withdraw]]
+- [[d/_depart|depart]], [[e/_exit|exit]], [[f/_flee|flee]], [[g/_go|go]], [[l/_leave|leave]], [[r/_retreat|retreat]], [[w/_withdraw|withdraw]]
 ---

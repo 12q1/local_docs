@@ -10,5 +10,5 @@
 - **The knot at the [[b/_bottom|bottom]] of an [[a/_antler|antler]].**
 ---
 ### Synonyms
-- [[bur]], [[sticker]]
+- [[b/_bur|bur]], [[s/_sticker|sticker]]
 ---

@@ -6,10 +6,10 @@
 - **A kitchen or [[c/_cooking|cooking]] [[d/_department|department]].**
 ---
 ### Synonyms
-- [[culinary art]], [[kitchen]]
+- [[k/_kitchen|kitchen]]
 #noun
 - **The [[a/_art|art]] of [[c/_cooking|cooking]], generally.**
 ---
 ### Synonyms
-- [[cookery]], [[cooking]], [[cuisine]], [[culinary arts]], [[magirics]], [[magirology]]
+- [[c/_cookery|cookery]], [[c/_cooking|cooking]], [[c/_cuisine|cuisine]], [[m/_magirics|magirics]], [[m/_magirology|magirology]]
 ---

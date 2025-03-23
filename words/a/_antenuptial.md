@@ -4,7 +4,7 @@
 - **Occurring [[b/_before|before]] marriage; prenuptial.**
 ---
 ### Synonyms
-- [[prenuptial]]
+- [[p/_prenuptial|prenuptial]]
 ### Antonyms
-- [[postnuptial]]
+- [[p/_postnuptial|postnuptial]]
 ---

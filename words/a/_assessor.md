@@ -8,5 +8,5 @@
 - **(Oxford University) An official responsible for student welfare.**
 ---
 ### Synonyms
-- [[tax assessor]]
+- 
 ---

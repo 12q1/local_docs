@@ -11,5 +11,5 @@
 - **The latent [[e/_entity|entity]] that mediates [[b/_between|between]] a person's psyche and their thoughts. The id, [[e/_ego|ego]] and superego in Freudian Psychology are examples of this.**
 ---
 ### Synonyms
-- [[apex]], [[climax]], [[culmination]], [[peak]], [[pinnacle]], [[apex]], [[paragon]], [[death]], [[deification]], [[exaltation]], [[glorification]]
+- [[a/_apex|apex]], [[c/_climax|climax]], [[c/_culmination|culmination]], [[p/_peak|peak]], [[p/_pinnacle|pinnacle]], [[a/_apex|apex]], [[p/_paragon|paragon]], [[d/_death|death]], [[d/_deification|deification]], [[e/_exaltation|exaltation]], [[g/_glorification|glorification]]
 ---

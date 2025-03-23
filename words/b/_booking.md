@@ -17,7 +17,7 @@
 	- _Example: He was here earlier, but he booked._
 ---
 ### Synonyms
-- [[bomb]], [[hurtle]], [[rocket]], [[shoot]], [[speed]], [[whiz]], [[make a note of]], [[note down]], [[record]], [[write down]], [[reserve]]
+- [[b/_bomb|bomb]], [[h/_hurtle|hurtle]], [[r/_rocket|rocket]], [[s/_shoot|shoot]], [[s/_speed|speed]], [[w/_whiz|whiz]], [[r/_record|record]], [[r/_reserve|reserve]]
 #noun
 - **The [[a/_act|act]] or process of writing something [[d/_down|down]] in a [[b/_book|book]] or [[b/_books|books]], [[e/_e|e]].g. in [[a/_accounting|accounting]].**
 - **A reservation for a service, such as [[a/_accommodation|accommodation]] in an hotel.**

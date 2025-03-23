@@ -7,5 +7,5 @@
 - **(1800s) The pitcher.**
 ---
 ### Synonyms
-- [[pitcher]]
+- [[p/_pitcher|pitcher]]
 ---

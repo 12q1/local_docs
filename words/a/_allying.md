@@ -5,5 +5,5 @@
 - **To [[c/_connect|connect]] or form a relation [[b/_between|between]] by similitude, resemblance, friendship, or love.**
 ---
 ### Synonyms
-- [[make common cause]]
+- 
 ---

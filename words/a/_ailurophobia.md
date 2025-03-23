@@ -4,7 +4,7 @@
 - **An irrational fear or hatred of [[c/_cats|cats]] or other felines.**
 ---
 ### Synonyms
-- [[galeophobia]]
+- [[g/_galeophobia|galeophobia]]
 ### Antonyms
-- [[ailurophilia]]
+- [[a/_ailurophilia|ailurophilia]]
 ---

@@ -5,5 +5,5 @@
 - **A [[c/_cooling|cooling]] summer [[d/_drink|drink]] made with [[c/_claret|claret]], sugar and soda water.**
 ---
 ### Synonyms
-- [[badders]]
+- [[b/_badders|badders]]
 ---

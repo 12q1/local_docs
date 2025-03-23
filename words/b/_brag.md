@@ -11,7 +11,7 @@
 - **To [[b/_boast|boast]] of.**
 ---
 ### Synonyms
-- [[boast]]
+- [[b/_boast|boast]]
 #adjective
 - **Excellent; first-rate.**
 - **[[b/_brisk|Brisk]]; full of spirits; [[b/_boasting|boasting]]; pretentious; [[c/_conceited|conceited]].**

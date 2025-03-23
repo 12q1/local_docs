@@ -6,9 +6,9 @@
 - **[[b/_brittle|Brittle]]; friable; in a [[c/_condition|condition]] to [[b/_break|break]] with a short, sharp fracture.**
 	- _Example: The crisp snow crunched underfoot._
 - **Possessing a [[c/_certain|certain]] [[d/_degree|degree]] of firmness and freshness.**
-- **(of weather, [[a/_air|air]] etc.) [[d/_dry|Dry]] and [[c/_cold|cold]].**
-- **(of movement, [[a/_action|action]] etc.) Quick and [[a/_accurate|accurate]].**
-- **(of talk, text, etc.) [[b/_brief|Brief]] and to the point.**
+- **(of weather, [[a/_air|air]] [[e/_etc|etc]].) [[d/_dry|Dry]] and [[c/_cold|cold]].**
+- **(of movement, [[a/_action|action]] [[e/_etc|etc]].) Quick and [[a/_accurate|accurate]].**
+- **(of talk, text, [[e/_etc|etc]].) [[b/_brief|Brief]] and to the point.**
 	- _Example: An expert, given a certain query, will often come up with a crisp answer: “yes” or “no”._
 - **(of wine) having a refreshing [[a/_amount|amount]] of [[a/_acidity|acidity]]; having less [[a/_acidity|acidity]] than green wine, but more than a flabby one.**
 - **Lively; sparking; [[e/_effervescing|effervescing]].**

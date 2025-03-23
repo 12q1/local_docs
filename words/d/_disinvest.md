@@ -4,5 +4,5 @@
 - **To reduce investment, or [[c/_cease|cease]] to invest.**
 ---
 ### Antonyms
-- [[invest]]
+- [[i/_invest|invest]]
 ---

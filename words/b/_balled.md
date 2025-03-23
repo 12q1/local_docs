@@ -12,7 +12,7 @@
 - **To punish by [[a/_affixing|affixing]] a [[b/_ball|ball]] and [[c/_chain|chain]]**
 ---
 ### Synonyms
-- [[roll]], [[wad]], [[bonk]], [[fuck]], [[lay]], [[screw]], [[shag]]
+- [[r/_roll|roll]], [[w/_wad|wad]], [[b/_bonk|bonk]], [[f/_fuck|fuck]], [[l/_lay|lay]], [[s/_screw|screw]], [[s/_shag|shag]]
 #adjective
 - **(in [[c/_combination|combination]]) Having a specified kind or number of [[b/_balls|balls]].**
 ---

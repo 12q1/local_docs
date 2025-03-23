@@ -4,7 +4,7 @@
 - **To surprise greatly.**
 ---
 ### Synonyms
-- [[astound]], [[flabbergast]], [[surprise]]
+- [[a/_astound|astound]], [[f/_flabbergast|flabbergast]], [[s/_surprise|surprise]]
 #adjective
 - **[[c/_causing|Causing]] [[a/_astonishment|astonishment]].**
 ---

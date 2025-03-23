@@ -9,5 +9,5 @@
 - **No longer in use.**
 ---
 ### Synonyms
-- [[antiquated]], [[defunct]], [[outdated]]
+- [[a/_antiquated|antiquated]], [[d/_defunct|defunct]], [[o/_outdated|outdated]]
 ---

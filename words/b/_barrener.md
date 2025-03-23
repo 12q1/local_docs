@@ -9,9 +9,9 @@
 - **Mentally [[d/_dull|dull]]; stupid.**
 ---
 ### Synonyms
-- [[sterile]]
+- [[s/_sterile|sterile]]
 ### Antonyms
-- [[fertile]], [[fruitful]]
+- [[f/_fertile|fertile]], [[f/_fruitful|fruitful]]
 #noun
 - **A [[b/_barren|barren]] [[a/_animal|animal]], one that [[c/_cannot|cannot]] [[b/_bear|bear]] young.**
 ---

@@ -12,7 +12,7 @@
 #adjective
 - **Poured out freely; profuse.**
 - **[[d/_disposed|Disposed]] to pour out freely; prodigal.**
-- **Spreading loosely, especially on one side.**
+- **Spreading loosely, [[e/_especially|especially]] on one side.**
 	- _Example: an effuse inflorescence_
 - **Having the lips, or [[e/_edges|edges]], of the [[a/_aperture|aperture]] [[a/_abruptly|abruptly]] spreading, as in [[c/_certain|certain]] shells.**
 ---

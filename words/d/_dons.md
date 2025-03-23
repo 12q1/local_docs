@@ -14,7 +14,7 @@
 	- _Example: To don one's clothes._
 ---
 ### Synonyms
-- [[clothe]], [[dight]], [[enrobe]]
+- [[c/_clothe|clothe]], [[d/_dight|dight]], [[e/_enrobe|enrobe]]
 ### Antonyms
-- [[doff]]
+- [[d/_doff|doff]]
 ---

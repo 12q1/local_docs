@@ -8,5 +8,5 @@
 - **Stupidity; [[d/_denseness|denseness]].**
 ---
 ### Synonyms
-- [[mass density]], [[number density]], [[probability density]]
+- 
 ---

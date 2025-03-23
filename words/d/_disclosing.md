@@ -6,7 +6,7 @@
 - **To expose to the knowledge of others; to make known, state openly, reveal.**
 ---
 ### Synonyms
-- [[bring to light]], [[expose]], [[reveal]], [[impart]], [[make known]], [[publish]], [[divulge]], [[impart]], [[publish]], [[reveal]], [[unveil]], [[reveal]], [[unveil]]
+- [[e/_expose|expose]], [[r/_reveal|reveal]], [[i/_impart|impart]], [[p/_publish|publish]], [[d/_divulge|divulge]], [[i/_impart|impart]], [[p/_publish|publish]], [[r/_reveal|reveal]], [[u/_unveil|unveil]], [[r/_reveal|reveal]], [[u/_unveil|unveil]]
 ### Antonyms
-- [[cover up]], [[withhold]]
+- [[w/_withhold|withhold]]
 ---

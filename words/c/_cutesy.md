@@ -5,5 +5,5 @@
 	- _Example: The couple called each other cutesy pet names that disgusted everyone else._
 ---
 ### Synonyms
-- [[cutesy-wootsy]], [[precious]], [[saccharine]], [[syrupy]], [[twee]]
+- [[c/_cutesy-wootsy|cutesy-wootsy]], [[p/_precious|precious]], [[s/_saccharine|saccharine]], [[s/_syrupy|syrupy]], [[t/_twee|twee]]
 ---

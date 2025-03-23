@@ -6,7 +6,7 @@
 - **[[a/_any|Any]] turn or winding.**
 ---
 ### Synonyms
-- [[bayou]], [[branch]], [[brook]], [[run]], [[beck]], [[brook]], [[burn]], [[stream]]
+- [[b/_bayou|bayou]], [[b/_branch|branch]], [[b/_brook|brook]], [[r/_run|run]], [[b/_beck|beck]], [[b/_brook|brook]], [[b/_burn|burn]], [[s/_stream|stream]]
 #noun
 - **A painful muscular [[c/_cramp|cramp]] or spasm of some part of the [[b/_body|body]], as of the neck or [[b/_back|back]], making it [[d/_difficult|difficult]] to move the part [[a/_affected|affected]]. ([[c/_compare|Compare]] [[c/_catch|catch]].)**
 - **A small jackscrew.**

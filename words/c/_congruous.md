@@ -5,7 +5,7 @@
 - **Harmonious.**
 ---
 ### Synonyms
-- [[congruent]]
+- [[c/_congruent|congruent]]
 ### Antonyms
-- [[incongruous]]
+- [[i/_incongruous|incongruous]]
 ---

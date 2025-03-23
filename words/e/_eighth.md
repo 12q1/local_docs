@@ -6,7 +6,7 @@
 - **An [[e/_eighth|eighth]] of an ounce, or [[a/_approximately|approximately]] 3.5 grams, of marijuana or other [[d/_drugs|drugs]].**
 ---
 ### Synonyms
-- [[henry]], [[⅛]]
+- [[h/_henry|henry]], [[⅛/_⅛|⅛]]
 #verb
 - **To [[d/_divide|divide]] by [[e/_eight|eight]]**
 ---
@@ -14,5 +14,5 @@
 - **The ordinal form of the number [[e/_eight|eight]].**
 ---
 ### Synonyms
-- [[8th]], [[VIII]], [[VIIIth]]
+- [[8/_8th|8th]], [[V/_VIII|VIII]], [[V/_VIIIth|VIIIth]]
 ---

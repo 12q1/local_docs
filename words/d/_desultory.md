@@ -9,5 +9,5 @@
 - **Leaping, skipping or flitting [[a/_about|about]], generally in a random or unsteady manner.**
 ---
 ### Synonyms
-- [[aimless]], [[disconnected]], [[quodlibetic]], [[quodlibetical]], [[unmethodical]]
+- [[a/_aimless|aimless]], [[d/_disconnected|disconnected]], [[q/_quodlibetic|quodlibetic]], [[q/_quodlibetical|quodlibetical]], [[u/_unmethodical|unmethodical]]
 ---

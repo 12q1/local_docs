@@ -6,5 +6,5 @@
 - **A light jacket with sleeves.**
 ---
 ### Synonyms
-- [[negligee]], [[underbodice]]
+- [[n/_negligee|negligee]], [[u/_underbodice|underbodice]]
 ---

@@ -5,5 +5,5 @@
 - **Not harmful to the [[e/_environment|environment]].**
 ---
 ### Synonyms
-- [[ecologically friendly]], [[environmentally friendly]]
+- 
 ---

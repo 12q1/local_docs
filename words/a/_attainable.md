@@ -7,5 +7,5 @@
 - **[[a/_able|Able]] to be [[a/_accomplished|accomplished]], [[a/_achieved|achieved]], or obtained.**
 ---
 ### Antonyms
-- [[unaccomplishable]], [[unachievable]], [[unattainable]], [[unobtainable]]
+- [[u/_unaccomplishable|unaccomplishable]], [[u/_unachievable|unachievable]], [[u/_unattainable|unattainable]], [[u/_unobtainable|unobtainable]]
 ---

@@ -5,7 +5,7 @@
 - **One who [[a/_abuses|abuses]] [[a/_alcohol|alcohol]].**
 ---
 ### Antonyms
-- [[on the wagon]], [[teetotaler]]
+- [[t/_teetotaler|teetotaler]]
 #adjective
 - **Of or pertaining to [[a/_alcohol|alcohol]].**
 - **Having more than a trace [[a/_amount|amount]] of [[a/_alcohol|alcohol]] in its [[c/_contents|contents]].**
@@ -13,5 +13,5 @@
 - **Of, pertaining to, or [[a/_affected|affected]] by [[a/_alcoholism|alcoholism]].**
 ---
 ### Antonyms
-- [[nonalcoholic]]
+- [[n/_nonalcoholic|nonalcoholic]]
 ---

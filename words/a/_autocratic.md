@@ -7,5 +7,5 @@
 	- _Example: Despite his lack of actual authority, his autocratic demeanour annoyed many of his colleagues._
 ---
 ### Synonyms
-- [[despotic]], [[dictatorial]]
+- [[d/_despotic|despotic]], [[d/_dictatorial|dictatorial]]
 ---

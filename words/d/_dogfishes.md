@@ -5,5 +5,5 @@
 - **The [[b/_bowfin|bowfin]], [[a/_amia|Amia]] calva.**
 ---
 ### Synonyms
-- [[seadog]]
+- [[s/_seadog|seadog]]
 ---

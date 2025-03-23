@@ -5,7 +5,7 @@
 - **The [[e/_ear|ear]].**
 ---
 ### Synonyms
-- [[ear finger]], [[fourth finger]], [[little finger]], [[mercurial finger]], [[pinkie]]
+- [[p/_pinkie|pinkie]]
 #adjective
 - **Of or pertaining to the [[e/_ear|ear]].**
 - **Of or pertaining to the sense of hearing.**
@@ -18,5 +18,5 @@
 - **Pertaining to the [[a/_auricles|auricles]] of the heart.**
 ---
 ### Synonyms
-- [[auditory]], [[aural]], [[otic]]
+- [[a/_auditory|auditory]], [[a/_aural|aural]], [[o/_otic|otic]]
 ---

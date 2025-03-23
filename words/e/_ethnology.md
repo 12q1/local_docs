@@ -1,0 +1,6 @@
+# Ethnology
+---
+#noun
+- **The [[b/_branch|branch]] of [[a/_anthropology|anthropology]] that studies and [[c/_compares|compares]] the [[d/_different|different]] human [[c/_cultures|cultures]].**
+---
+---

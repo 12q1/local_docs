@@ -6,9 +6,9 @@
 - **That which one merits or [[d/_deserves|deserves]], [[e/_either|either]] of good or ill; [[d/_desert|desert]].**
 ---
 ### Synonyms
-- [[discredit]]
+- [[d/_discredit|discredit]]
 ### Antonyms
-- [[merit]]
+- [[m/_merit|merit]]
 #verb
 - **To [[d/_deserve|deserve]].**
 - **To [[d/_depreciate|depreciate]] or [[c/_cry|cry]] [[d/_down|down]].**

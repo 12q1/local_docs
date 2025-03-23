@@ -9,7 +9,7 @@
 	- _Example: Bulimia is an eating disorder._
 ---
 ### Synonyms
-- [[chaos]], [[entropy]]
+- [[c/_chaos|chaos]], [[e/_entropy|entropy]]
 #verb
 - **To throw into a state of [[d/_disorder|disorder]].**
 - **To knock out of order or sequence.**

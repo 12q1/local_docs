@@ -17,5 +17,5 @@
 - **So that, in order that.**
 ---
 ### Synonyms
-- [[as]], [[for]], [[for sake]], [[for that]], [[forthy]], [[forwhy]], [[inasmuch as]], [[since]], [[sith]], [[therefore]], [[∵]]
+- [[a/_as|as]], [[f/_for|for]], [[f/_forthy|forthy]], [[f/_forwhy|forwhy]], [[s/_since|since]], [[s/_sith|sith]], [[t/_therefore|therefore]], [[∵/_∵|∵]]
 ---

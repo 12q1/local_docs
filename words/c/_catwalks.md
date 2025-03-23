@@ -7,5 +7,5 @@
 - **(by extension, "the [[c/_catwalk|catwalk]]") The [[b/_business|business]] of making [[c/_clothes|clothes]] for fashion shows.**
 ---
 ### Synonyms
-- [[runway]]
+- [[r/_runway|runway]]
 ---

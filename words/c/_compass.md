@@ -12,5 +12,5 @@
 - **A passing round; [[c/_circuit|circuit]]; [[c/_circuitous|circuitous]] [[c/_course|course]].**
 ---
 ### Synonyms
-- [[pair of compasses]], [[magnetic compass]]
+- 
 ---

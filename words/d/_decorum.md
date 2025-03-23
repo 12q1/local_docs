@@ -5,5 +5,5 @@
 - **A [[c/_convention|convention]] of social [[b/_behavior|behavior]].**
 ---
 ### Synonyms
-- [[courtesy]], [[decency]], [[etiquette]], [[propriety]]
+- [[c/_courtesy|courtesy]], [[d/_decency|decency]], [[e/_etiquette|etiquette]], [[p/_propriety|propriety]]
 ---

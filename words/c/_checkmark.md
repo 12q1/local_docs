@@ -6,7 +6,7 @@
 - **In long jump, javelin and similar events, little mark [[a/_alongside|alongside]] the runway which helps the [[a/_athlete|athlete]] to set their steps just right for their performance.**
 ---
 ### Synonyms
-- [[tick]]
+- [[t/_tick|tick]]
 #verb
 - **To mark with a ✓ symbol; to tick.**
 ---

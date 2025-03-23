@@ -5,5 +5,5 @@
 	- _Example: There is a discernible performance difference between a Porsche and a Civic._
 ---
 ### Synonyms
-- [[discoverable]]
+- [[d/_discoverable|discoverable]]
 ---

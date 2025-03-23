@@ -9,5 +9,5 @@
 - **To install and finish [[d/_drywall|drywall]].**
 ---
 ### Synonyms
-- [[sheetrock]]
+- [[s/_sheetrock|sheetrock]]
 ---

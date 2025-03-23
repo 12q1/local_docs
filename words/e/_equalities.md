@@ -6,7 +6,7 @@
 - **The [[e/_equal|equal]] treatment of people irrespective of social or [[c/_cultural|cultural]] [[d/_differences|differences]].**
 ---
 ### Synonyms
-- [[equivalence]]
+- [[e/_equivalence|equivalence]]
 ### Antonyms
-- [[difference]], [[inequality]], [[nonequivilence]], [[discrimination]], [[inequality]]
+- [[d/_difference|difference]], [[i/_inequality|inequality]], [[n/_nonequivilence|nonequivilence]], [[d/_discrimination|discrimination]], [[i/_inequality|inequality]]
 ---

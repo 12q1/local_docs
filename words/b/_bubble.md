@@ -1,7 +1,7 @@
 # Bubble
 ---
 #noun
-- **A spherically [[c/_contained|contained]] volume of [[a/_air|air]] or other gas, especially one made from soapy liquid.**
+- **A spherically [[c/_contained|contained]] volume of [[a/_air|air]] or other gas, [[e/_especially|especially]] one made from soapy liquid.**
 - **A small spherical [[c/_cavity|cavity]] in a solid material.**
 	- _Example: bubbles in window glass, or in a lens_
 - **(by extension) [[a/_anything|Anything]] resembling a hollow sphere.**
@@ -22,9 +22,9 @@
 - **A group of people who are in quarantine together.**
 ---
 ### Synonyms
-- [[ambience]], [[circumstances]], [[bubble and squeak]], [[bubble bath]], [[giraffe]]
+- [[a/_ambience|ambience]], [[c/_circumstances|circumstances]], [[g/_giraffe|giraffe]]
 ### Antonyms
-- [[antibubble]]
+- [[a/_antibubble|antibubble]]
 #verb
 - **To produce [[b/_bubbles|bubbles]], to rise up in [[b/_bubbles|bubbles]] (such as in foods [[c/_cooking|cooking]] or liquids [[b/_boiling|boiling]]).**
 - **To [[c/_churn|churn]] or foment, as if wishing to rise to the surface.**

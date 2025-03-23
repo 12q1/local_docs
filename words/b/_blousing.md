@@ -5,5 +5,5 @@
 - **To tuck one's pants/trousers (into one's [[b/_boots|boots]]).**
 ---
 ### Antonyms
-- [[unblouse]]
+- [[u/_unblouse|unblouse]]
 ---

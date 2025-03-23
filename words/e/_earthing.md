@@ -7,5 +7,5 @@
 - **To [[b/_burrow|burrow]].**
 ---
 ### Synonyms
-- [[ground]]
+- [[g/_ground|ground]]
 ---

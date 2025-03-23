@@ -18,8 +18,8 @@
 - **To gash the flesh, [[e/_e|e]].g. of a raw fish, to make it [[c/_crisper|crisper]] when [[c/_cooked|cooked]].**
 ---
 #noun
-- **An [[a/_agent|agent]] who procures seamen, soldier, etc., especially by [[d/_decoying|decoying]], [[e/_entrapping|entrapping]], impressing, or seducing them.**
-- **(specifically) One who infringes sub-section 1 of the Merchant Shipping [[a/_act|Act]] of 1854, [[a/_applied|applied]] to a person other than the owner, master, etc., who [[e/_engages|engages]] seamen without a license from the [[b/_board|Board]] of Trade.**
+- **An [[a/_agent|agent]] who procures seamen, soldier, [[e/_etc|etc]]., [[e/_especially|especially]] by [[d/_decoying|decoying]], [[e/_entrapping|entrapping]], impressing, or seducing them.**
+- **(specifically) One who infringes sub-section 1 of the Merchant Shipping [[a/_act|Act]] of 1854, [[a/_applied|applied]] to a person other than the owner, master, [[e/_etc|etc]]., who [[e/_engages|engages]] seamen without a license from the [[b/_board|Board]] of Trade.**
 - **A keeper of a low lodging house where sailors and [[e/_emigrants|emigrants]] are [[e/_entrapped|entrapped]] and fleeced.**
 ---
 #verb

@@ -12,9 +12,9 @@
 	- _Example: The technical details are correct, but much of the English is not very clear._
 - **A size of type [[b/_between|between]] pica (12 point) and great primer (18 point), standardized as 14-point.**
 - **Plain or readily understandable [[e/_english|English]] language.**
-- **Spin or sidespin given to a [[b/_ball|ball]], especially in pool or [[b/_billiards|billiards]].**
+- **Spin or sidespin given to a [[b/_ball|ball]], [[e/_especially|especially]] in pool or [[b/_billiards|billiards]].**
 	- _Example: You are trying to put too much English on the ball._
 ---
 ### Synonyms
-- [[Augustin]], [[Mittel]]
+- [[A/_Augustin|Augustin]], [[M/_Mittel|Mittel]]
 ---

@@ -12,7 +12,7 @@
 - **To pay for; to [[a/_atone|atone]] for.**
 ---
 ### Synonyms
-- [[absolve]], [[clear]], [[exculpate]], [[exonerate]]
+- [[a/_absolve|absolve]], [[c/_clear|clear]], [[e/_exculpate|exculpate]], [[e/_exonerate|exonerate]]
 ### Antonyms
-- [[condemn]], [[convict]]
+- [[c/_condemn|condemn]], [[c/_convict|convict]]
 ---

@@ -6,5 +6,5 @@
 - **An unusual or unexpected interpretation of a text or idea, a spin, a nuance.**
 ---
 ### Synonyms
-- [[side]], [[sidespin]], [[spin]]
+- [[s/_side|side]], [[s/_sidespin|sidespin]], [[s/_spin|spin]]
 ---

@@ -12,5 +12,5 @@
 - **A light van to take mails [[b/_between|between]] a post office and a railway station.**
 ---
 ### Synonyms
-- [[atom smasher]], [[gas]], [[gas pedal]], [[go pedal]], [[particle accelerator]], [[throttle]]
+- [[g/_gas|gas]], [[t/_throttle|throttle]]
 ---

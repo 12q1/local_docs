@@ -1,9 +1,9 @@
 # Billfolds
 ---
 #noun
-- **A small, folding sleeve or [[c/_case|case]] [[d/_designed|designed]] to hold paper [[c/_currency|currency]], as well as [[c/_credit|credit]] [[c/_cards|cards]], pictures, etc.**
+- **A small, folding sleeve or [[c/_case|case]] [[d/_designed|designed]] to hold paper [[c/_currency|currency]], as well as [[c/_credit|credit]] [[c/_cards|cards]], pictures, [[e/_etc|etc]].**
 	- _Example: Bill had so many pictures of his family stuffed into his billfold that it barely fit into his pocket._
 ---
 ### Synonyms
-- [[pocketbook]], [[wallet]]
+- [[p/_pocketbook|pocketbook]], [[w/_wallet|wallet]]
 ---

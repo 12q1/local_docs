@@ -1,7 +1,7 @@
 # Critical
 ---
 #noun
-- **A [[c/_critical|critical]] value, factor, etc.**
+- **A [[c/_critical|critical]] value, factor, [[e/_etc|etc]].**
 - **In breakdancing, a kind of airflare move in which the [[d/_dancer|dancer]] hops from one hand to the other.**
 ---
 #adjective
@@ -17,10 +17,10 @@
 	- _Example: The patient's condition is critical._
 - **Likely to go out of [[c/_control|control]] if [[d/_disturbed|disturbed]], that is, opposite of stable.**
 	- _Example: The political situation was so critical that the government declared the state of siege._
-- **Of the point (in temperature, reagent [[c/_concentration|concentration]] etc.) where a nuclear or [[c/_chemical|chemical]] reaction [[b/_becomes|becomes]] self-sustaining.**
+- **Of the point (in temperature, reagent [[c/_concentration|concentration]] [[e/_etc|etc]].) where a nuclear or [[c/_chemical|chemical]] reaction [[b/_becomes|becomes]] self-sustaining.**
 	- _Example: The reaction was about to become critical._
 - **(physics) Of a temperature that is [[e/_equal|equal]] to the temperature of the [[c/_critical|critical]] point of a substance, i.[[e/_e|e]]. the temperature [[a/_above|above]] which the substance [[c/_cannot|cannot]] be liquefied.**
 ---
 ### Synonyms
-- [[captious]], [[censorious]], [[exacting]], [[fastidious]]
+- [[c/_captious|captious]], [[c/_censorious|censorious]], [[e/_exacting|exacting]], [[f/_fastidious|fastidious]]
 ---

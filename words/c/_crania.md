@@ -6,5 +6,5 @@
 - **The skull.**
 ---
 ### Synonyms
-- [[braincase]], [[neurocranium]], [[skull]]
+- [[b/_braincase|braincase]], [[n/_neurocranium|neurocranium]], [[s/_skull|skull]]
 ---

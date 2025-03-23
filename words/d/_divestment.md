@@ -5,7 +5,7 @@
 	- _Example: The fossil fuel divestment movement is calling on institutions to divest from the companies causing climate change._
 ---
 ### Synonyms
-- [[divestiture]]
+- [[d/_divestiture|divestiture]]
 ### Antonyms
-- [[investment]]
+- [[i/_investment|investment]]
 ---

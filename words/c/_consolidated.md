@@ -10,5 +10,5 @@
 - **Including financial [[d/_data|data]] of the parent and [[a/_all|all]] subsidiary [[c/_companies|companies]].**
 ---
 ### Antonyms
-- [[nonconsolidated]]
+- [[n/_nonconsolidated|nonconsolidated]]
 ---

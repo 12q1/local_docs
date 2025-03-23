@@ -9,5 +9,5 @@
 - **Of or pertaining to a [[c/_conversation|conversation]]; [[c/_conversational|conversational]] or [[c/_chatty|chatty]].**
 ---
 ### Synonyms
-- [[coll.]], [[colloq.]]
+- [[c/_coll.|coll.]], [[c/_colloq.|colloq.]]
 ---

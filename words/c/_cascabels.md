@@ -6,5 +6,5 @@
 - **A [[b/_bell|bell]] [[a/_attached|attached]] to a sleigh or sleigh harness.**
 ---
 ### Synonyms
-- [[jingle bell]], [[coban]]
+- [[c/_coban|coban]]
 ---

@@ -6,5 +6,5 @@
 - **A rogue or [[d/_debauchee|debauchee]], like those who haunted [[a/_alsatia|Alsatia]] in London.**
 ---
 ### Synonyms
-- [[Alsatian shepherd]], [[German Shepherd]], [[Elsassian]], [[Elsatian]]
+- [[E/_Elsassian|Elsassian]], [[E/_Elsatian|Elsatian]]
 ---

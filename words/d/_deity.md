@@ -10,5 +10,5 @@
 - **A type of [[c/_confectionery|confectionery]] made with [[e/_egg|egg]] whites, [[c/_corn|corn]] syrup, and white sugar.**
 ---
 ### Synonyms
-- [[deity]], [[godhead]], [[godhood]], [[godliness]], [[godship]], [[godlore]], [[theology]]
+- [[d/_deity|deity]], [[g/_godhead|godhead]], [[g/_godhood|godhood]], [[g/_godliness|godliness]], [[g/_godship|godship]], [[g/_godlore|godlore]], [[t/_theology|theology]]
 ---

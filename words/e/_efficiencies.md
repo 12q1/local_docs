@@ -10,7 +10,7 @@
 	- _Example: I have an efficiency available June through July._
 ---
 ### Synonyms
-- [[bedsit]], [[efficiency apartment]]
+- [[b/_bedsit|bedsit]]
 ### Antonyms
-- [[inefficiency]], [[wastefulness]], [[inefficiency]], [[wastefulness]]
+- [[i/_inefficiency|inefficiency]], [[w/_wastefulness|wastefulness]], [[i/_inefficiency|inefficiency]], [[w/_wastefulness|wastefulness]]
 ---

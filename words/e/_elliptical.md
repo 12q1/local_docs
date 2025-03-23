@@ -11,5 +11,5 @@
 - **[[e/_elliptic|Elliptic]].**
 ---
 ### Synonyms
-- [[elliptic]]
+- [[e/_elliptic|elliptic]]
 ---

@@ -5,5 +5,5 @@
 	- _Example: Have you thought of a job as a carer for disabled people?_
 ---
 ### Synonyms
-- [[caregiver]]
+- [[c/_caregiver|caregiver]]
 ---

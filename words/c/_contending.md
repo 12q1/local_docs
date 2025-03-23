@@ -8,7 +8,7 @@
 	- _Example: In this paper the author contends that no useful results can be obtained if this method is used._
 ---
 ### Synonyms
-- [[assert]], [[aver]], [[combat]], [[fight]], [[oppose]], [[vie]], [[contest]], [[debate]], [[dispute]], [[litigate]], [[emulate]], [[strive]], [[struggle]]
+- [[a/_assert|assert]], [[a/_aver|aver]], [[c/_combat|combat]], [[f/_fight|fight]], [[o/_oppose|oppose]], [[v/_vie|vie]], [[c/_contest|contest]], [[d/_debate|debate]], [[d/_dispute|dispute]], [[l/_litigate|litigate]], [[e/_emulate|emulate]], [[s/_strive|strive]], [[s/_struggle|struggle]]
 #noun
 - **[[c/_contention|Contention]]**
 ---

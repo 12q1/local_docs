@@ -8,5 +8,5 @@
 - **Slightly overweight; [[c/_chubby|chubby]].**
 ---
 ### Synonyms
-- [[fatty]], [[chubby]], [[chunky]], [[overweight]], [[plump]], [[podgy]], [[tubby]]
+- [[f/_fatty|fatty]], [[c/_chubby|chubby]], [[c/_chunky|chunky]], [[o/_overweight|overweight]], [[p/_plump|plump]], [[p/_podgy|podgy]], [[t/_tubby|tubby]]
 ---

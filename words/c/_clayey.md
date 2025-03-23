@@ -4,5 +4,5 @@
 - **Resembling or [[c/_containing|containing]] [[c/_clay|clay]].**
 ---
 ### Synonyms
-- [[argillaceous]], [[clayish]]
+- [[a/_argillaceous|argillaceous]], [[c/_clayish|clayish]]
 ---

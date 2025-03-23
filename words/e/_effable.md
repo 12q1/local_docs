@@ -4,5 +4,5 @@
 - **[[a/_able|Able]] to be spoken of; [[a/_able|able]] to be expressed.**
 ---
 ### Antonyms
-- [[ineffable]]
+- [[i/_ineffable|ineffable]]
 ---

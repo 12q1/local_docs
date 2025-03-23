@@ -7,5 +7,5 @@
 - **A small [[e/_edible|edible]] [[b/_ball|ball]] made primarily from tapioca starch; used in [[b/_bubble|bubble]] tea.**
 ---
 ### Synonyms
-- [[ball]], [[boba]], [[pearl tapioca]], [[tapioca]]
+- [[b/_ball|ball]], [[b/_boba|boba]], [[t/_tapioca|tapioca]]
 ---

@@ -4,5 +4,5 @@
 - **To [[c/_cancel|cancel]] an invitation to (someone).**
 ---
 ### Synonyms
-- [[uninvite]]
+- [[u/_uninvite|uninvite]]
 ---

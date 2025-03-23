@@ -6,10 +6,10 @@
 - **A fireball.**
 ---
 ### Synonyms
-- [[fireball]]
+- [[f/_fireball|fireball]]
 #noun
-- **A meteor or [[b/_brilliant|brilliant]] shooting star, followed by a train of light or sparks; especially one which explodes.**
+- **A meteor or [[b/_brilliant|brilliant]] shooting star, followed by a train of light or sparks; [[e/_especially|especially]] one which explodes.**
 ---
 ### Synonyms
-- [[bolide]], [[fireball]]
+- [[b/_bolide|bolide]], [[f/_fireball|fireball]]
 ---

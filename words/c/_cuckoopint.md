@@ -5,5 +5,5 @@
 - **The related plant [[a/_arum|Arum]] italicum.**
 ---
 ### Synonyms
-- [[Jack in the pulpit]], [[lords and ladies]], [[rampe]], [[starchwort]]
+- [[r/_rampe|rampe]], [[s/_starchwort|starchwort]]
 ---

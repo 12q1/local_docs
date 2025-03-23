@@ -5,5 +5,5 @@
 - **A [[d/_discouraging|discouraging]] event or remark.**
 ---
 ### Synonyms
-- [[buzzkill]], [[killjoy]], [[party pooper]], [[spoilsport]]
+- [[b/_buzzkill|buzzkill]], [[k/_killjoy|killjoy]], [[s/_spoilsport|spoilsport]]
 ---

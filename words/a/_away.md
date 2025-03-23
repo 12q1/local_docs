@@ -39,7 +39,7 @@
 	- _Example: I saw her whaling away at her detractors._
 ---
 ### Synonyms
-- [[at bay]], [[off]]
+- [[o/_off|off]]
 #interjection
 - **[[c/_come|Come]] on!; go on!**
 ---

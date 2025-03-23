@@ -10,7 +10,7 @@
 - **A [[b/_bouncer|bouncer]].**
 - **A side wall of a pool table.**
 - **A short [[d/_ditty|ditty]] or jingle used to separate a show from the [[a/_advertisements|advertisements]].**
-- **A [[c/_covered|covered]] house at a theatre, etc., in honour of some favourite performer.**
+- **A [[c/_covered|covered]] house at a theatre, [[e/_etc|etc]]., in honour of some favourite performer.**
 - **A woman's posterior, particularly one that is [[c/_considered|considered]] full and [[d/_desirable|desirable]].**
 - **An extra musician (not notated in the score) who [[a/_assists|assists]] the principal French horn by playing less-exposed passages, so that the principal [[c/_can|can]] save their 'lip' for [[d/_difficult|difficult]] solos. [[a/_also|Also]] [[a/_applied|applied]] to other sections of the orchestra.**
 - **An object on a playfield that [[a/_applies|applies]] force to the pinball when hit, often giving a minor increase in score.**

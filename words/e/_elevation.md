@@ -1,7 +1,7 @@
 # Elevation
 ---
 #noun
-- **The [[a/_act|act]] of raising from a lower place, [[c/_condition|condition]], or quality to a higher; said of material things, persons, the mind, the voice, etc.**
+- **The [[a/_act|act]] of raising from a lower place, [[c/_condition|condition]], or quality to a higher; said of material things, persons, the mind, the voice, [[e/_etc|etc]].**
 	- _Example: the elevation of grain; elevation to a throne; elevation to sainthood; elevation of mind, thoughts, or character_
 - **The [[c/_condition|condition]] of [[b/_being|being]] or feeling [[e/_elevated|elevated]]; heightened; exaltation.**
 - **That which is raised up or [[e/_elevated|elevated]]; an [[e/_elevated|elevated]] place or station.**
@@ -15,5 +15,5 @@
 - **The raising of the host—representing [[c/_christ|Christ]]’s [[b/_body|body]]—in a mass or Holy [[c/_communion|Communion]] service.**
 ---
 ### Antonyms
-- [[demotion]], [[depression]], [[diminishment]], [[disgust]], [[reduction]]
+- [[d/_demotion|demotion]], [[d/_depression|depression]], [[d/_diminishment|diminishment]], [[d/_disgust|disgust]], [[r/_reduction|reduction]]
 ---

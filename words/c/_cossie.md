@@ -4,5 +4,5 @@
 - **A swimming [[c/_costume|costume]].**
 ---
 ### Synonyms
-- [[bathers]]
+- [[b/_bathers|bathers]]
 ---

@@ -5,7 +5,7 @@
 - **[[a/_any|Any]] similar [[d/_double|double]] sulphate in which [[e/_either|either]] or [[b/_both|both]] of the potassium and [[a/_aluminium|aluminium]] is wholly or partly replaced by other univalent or tervalent [[c/_cations|cations]].**
 ---
 ### Synonyms
-- [[potash alum]]
+- 
 #verb
 - **To steep in, or otherwise impregnate with, a solution of [[a/_alum|alum]]; to treat with [[a/_alum|alum]].**
 ---

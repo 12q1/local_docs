@@ -5,7 +5,7 @@
 - **Of, pertaining to or [[c/_concerned|concerned]] with [[c/_changes|changes]] that occur over time.**
 ---
 ### Synonyms
-- [[diachronical]]
+- [[d/_diachronical|diachronical]]
 ### Antonyms
-- [[synchronic]], [[synchronic]]
+- [[s/_synchronic|synchronic]], [[s/_synchronic|synchronic]]
 ---

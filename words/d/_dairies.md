@@ -8,5 +8,5 @@
 - **([[c/_chiefly|chiefly]] in the plural) A woman's [[b/_breast|breast]].**
 ---
 ### Synonyms
-- [[milkery]], [[milkhouse]]
+- [[m/_milkery|milkery]], [[m/_milkhouse|milkhouse]]
 ---

@@ -5,5 +5,5 @@
 - **A root thus [[a/_affected|affected]].**
 ---
 ### Synonyms
-- [[finger-and-toe]]
+- [[f/_finger-and-toe|finger-and-toe]]
 ---

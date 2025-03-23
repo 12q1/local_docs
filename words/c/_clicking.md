@@ -1,7 +1,7 @@
 # Clicking
 ---
 #verb
-- **To [[c/_cause|cause]] to make a [[c/_click|click]]; to operate (a switch, etc) so that it makes a [[c/_click|click]].**
+- **To [[c/_cause|cause]] to make a [[c/_click|click]]; to operate (a switch, [[e/_etc|etc]]) so that it makes a [[c/_click|click]].**
 - **To press and release (a [[b/_button|button]] on a [[c/_computer|computer]] mouse).**
 - **To select a software item using, usually, but not [[a/_always|always]], the pressing of a mouse [[b/_button|button]].**
 - **To visit a web site.**

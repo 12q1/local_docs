@@ -5,5 +5,5 @@
 - **A [[d/_drumhead|drumhead]] [[c/_cabbage|cabbage]].**
 ---
 ### Synonyms
-- [[drum-skin]], [[skin]]
+- [[d/_drum-skin|drum-skin]], [[s/_skin|skin]]
 ---

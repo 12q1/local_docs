@@ -11,7 +11,7 @@
 	- _Example: to celebrate a marriage_
 ---
 ### Synonyms
-- [[fete]], [[keep]], [[observe]], [[solemnize]]
+- [[f/_fete|fete]], [[k/_keep|keep]], [[o/_observe|observe]], [[s/_solemnize|solemnize]]
 #adjective
 - **Famous or widely praised**
 	- _Example: She became a celebrated actress, but never won any major awards._

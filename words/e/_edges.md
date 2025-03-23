@@ -5,7 +5,7 @@
 - **A one-[[d/_dimensional|dimensional]] face of a polytope. In particular, the joining line [[b/_between|between]] two vertices of a polygon; the place where two faces of a polyhedron meet.**
 - **An [[a/_advantage|advantage]].**
 	- _Example: I have the edge on him._
-- **The thin [[c/_cutting|cutting]] side of the [[b/_blade|blade]] of an instrument, such as an [[a/_ax|ax]], knife, sword, or scythe; that which [[c/_cuts|cuts]] as an [[e/_edge|edge]] [[d/_does|does]], or wounds [[d/_deeply|deeply]], etc.**
+- **The thin [[c/_cutting|cutting]] side of the [[b/_blade|blade]] of an instrument, such as an [[a/_ax|ax]], knife, sword, or scythe; that which [[c/_cuts|cuts]] as an [[e/_edge|edge]] [[d/_does|does]], or wounds [[d/_deeply|deeply]], [[e/_etc|etc]].**
 - **A sharp terminating [[b/_border|border]]; a margin; a [[b/_brink|brink]]; an extreme verge.**
 	- _Example: He is standing on the edge of a precipice._
 - **Sharpness; readiness or fitness to [[c/_cut|cut]]; keenness; intenseness of [[d/_desire|desire]].**
@@ -16,7 +16,7 @@
 - **In male masturbation, a level of sexual [[a/_arousal|arousal]] that is maintained just short of reaching the point of inevitability, or [[c/_climax|climax]]; see [[a/_also|also]] [[e/_edging|edging]].**
 ---
 ### Synonyms
-- [[advantage]], [[gain]], [[line]], [[boundary]], [[brink]], [[lip]], [[margin]], [[rim]]
+- [[a/_advantage|advantage]], [[g/_gain|gain]], [[l/_line|line]], [[b/_boundary|boundary]], [[b/_brink|brink]], [[l/_lip|lip]], [[m/_margin|margin]], [[r/_rim|rim]]
 #verb
 - **To move an object slowly and [[c/_carefully|carefully]] in a particular [[d/_direction|direction]].**
 	- _Example: He edged the book across the table._

@@ -5,5 +5,5 @@
 	- _Example: The empty set is not denumerable because it is finite; the rational numbers are, surprisingly, denumerable because every possible fraction can be assigned a natural number and vice versa._
 ---
 ### Synonyms
-- [[countable]], [[countably infinite]]
+- [[c/_countable|countable]]
 ---

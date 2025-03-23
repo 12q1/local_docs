@@ -6,7 +6,7 @@
 - **A small nameplate, identifying the wearer, and often giving [[a/_additional|additional]] information.**
 - **A [[c/_card|card]], sometimes with a barcode or magnetic strip, granting [[a/_access|access]] to a [[c/_certain|certain]] [[a/_area|area]].**
 - **Something [[c/_characteristic|characteristic]]; a mark; a token.**
-- **(thieves' [[c/_cant|cant]]) A [[b/_brand|brand]] on the hand of a thief, etc.**
+- **(thieves' [[c/_cant|cant]]) A [[b/_brand|brand]] on the hand of a thief, [[e/_etc|etc]].**
 	- _Example: He has got his badge, and piked: He was burned in the hand, and is at liberty._
 - **A [[c/_carved|carved]] ornament on the stern of a vessel, [[c/_containing|containing]] a window or the representation of one.**
 - **A [[d/_distinctive|distinctive]] mark worn by servants, retainers, and followers of royalty or nobility, who, [[b/_being|being]] [[b/_beneath|beneath]] the rank of gentlemen, have no right to [[a/_armorial|armorial]] [[b/_bearings|bearings]].**

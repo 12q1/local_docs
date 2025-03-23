@@ -6,7 +6,7 @@
 - **A package wrapped or tied up for [[c/_carrying|carrying]].**
 - **A group of products or services sold together as a unit.**
 	- _Example: This software bundle includes a wordprocessor, a spreadsheet, and two games._
-- **A large [[a/_amount|amount]], especially of money.**
+- **A large [[a/_amount|amount]], [[e/_especially|especially]] of money.**
 	- _Example: The inventor of that gizmo must have made a bundle._
 - **A [[c/_cluster|cluster]] of [[c/_closely|closely]] [[b/_bound|bound]] muscle or nerve fibres.**
 - **A sequence of two or more words that occur in language with high frequency but are not idiomatic; a [[c/_chunk|chunk]], [[c/_cluster|cluster]], or lexical [[b/_bundle|bundle]].**
@@ -32,5 +32,5 @@
 - **To pile on, to overwhelm in other senses.**
 ---
 ### Synonyms
-- [[bundle]], [[pig pile]], [[pile up]]
+- [[b/_bundle|bundle]]
 ---

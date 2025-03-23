@@ -7,5 +7,5 @@
 - **To join in sexual intercourse; to [[c/_copulate|copulate]].**
 ---
 ### Synonyms
-- [[have sex]], [[make love]], [[bewed]], [[espouse]], [[affix]], [[attach]], [[put together]]
+- [[b/_bewed|bewed]], [[e/_espouse|espouse]], [[a/_affix|affix]], [[a/_attach|attach]]
 ---

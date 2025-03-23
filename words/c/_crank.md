@@ -20,7 +20,7 @@
 - **A penis.**
 ---
 ### Synonyms
-- [[cock]], [[dick]], [[crackpot]], [[kook]], [[odd duck]], [[weirdo]]
+- [[c/_cock|cock]], [[d/_dick|dick]], [[c/_crackpot|crackpot]], [[k/_kook|kook]], [[w/_weirdo|weirdo]]
 #verb
 - **To turn by means of a [[c/_crank|crank]].**
 	- _Example: Motorists had to crank their engine by hand._
@@ -30,7 +30,7 @@
 	- _Example: He's been cranking all day and yet it refuses to crank._
 - **To [[c/_cause|cause]] to spin via other means, as though turned by a [[c/_crank|crank]].**
 	- _Example: Crank it up!_
-- **To [[a/_act|act]] in a [[c/_cranky|cranky]] manner; to [[b/_behave|behave]] unreasonably and irritably, especially through [[c/_complaining|complaining]].**
+- **To [[a/_act|act]] in a [[c/_cranky|cranky]] manner; to [[b/_behave|behave]] unreasonably and irritably, [[e/_especially|especially]] through [[c/_complaining|complaining]].**
 	- _Example: Quit cranking about your spilt milk!_
 - **To be running at a high level of output or [[e/_effort|effort]].**
 	- _Example: By one hour into the shift, the boys were really cranking._
@@ -43,10 +43,10 @@
 - **Full of spirit; [[b/_brisk|brisk]]; lively; sprightly; overconfident; opinionated.**
 ---
 ### Synonyms
-- [[infirm]]
+- [[i/_infirm|infirm]]
 #noun
 - **A highly [[a/_addictive|addictive]] phenethylamine stimulant [[d/_drug|drug]], similar to [[c/_cocaine|cocaine]]. Its systematic (IUPAC) name is (S)-N-methyl-1-phenylpropan-2-[[a/_amine|amine]].**
 ---
 ### Synonyms
-- [[crystal]], [[crystal meth]], [[glass]], [[ice]], [[meth]], [[methamphetamines]], [[methylamphetamine]], [[speed]], [[tina]], [[tweak]]
+- [[c/_crystal|crystal]], [[g/_glass|glass]], [[i/_ice|ice]], [[m/_meth|meth]], [[m/_methamphetamines|methamphetamines]], [[m/_methylamphetamine|methylamphetamine]], [[s/_speed|speed]], [[t/_tina|tina]], [[t/_tweak|tweak]]
 ---

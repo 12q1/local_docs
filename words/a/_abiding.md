@@ -15,11 +15,11 @@
 - **To [[a/_await|await]] submissively; [[a/_accept|accept]] without question; submit to.**
 ---
 ### Synonyms
-- [[brook]], [[put up with]], [[hold on]], [[resist]], [[dwell]], [[live]], [[await]], [[wait for]], [[hold on]], [[stay]]
+- [[b/_brook|brook]], [[r/_resist|resist]], [[d/_dwell|dwell]], [[l/_live|live]], [[a/_await|await]], [[s/_stay|stay]]
 #adjective
 - **[[c/_continuing|Continuing]] or persisting in the same state: lasting, [[e/_enduring|enduring]]; steadfast.**
 	- _Example: a deep and abiding hatred of wealth_
 ---
 ### Synonyms
-- [[diuturnal]], [[prolonged]]
+- [[d/_diuturnal|diuturnal]], [[p/_prolonged|prolonged]]
 ---

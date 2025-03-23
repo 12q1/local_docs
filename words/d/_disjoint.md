@@ -12,5 +12,5 @@
 - **Of two or more sets, having no members in [[c/_common|common]]; having an intersection [[e/_equal|equal]] to the [[e/_empty|empty]] set.**
 ---
 ### Antonyms
-- [[non-disjoint]], [[overlapping]]
+- [[n/_non-disjoint|non-disjoint]], [[o/_overlapping|overlapping]]
 ---

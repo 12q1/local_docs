@@ -8,5 +8,5 @@
 - **(vexillology) A symbol [[a/_added|added]] to a flag or [[c/_coat|coat]] of [[a/_arms|arms]] to [[c/_change|change]] it or make it [[d/_different|different]] from [[a/_another|another]].**
 ---
 ### Synonyms
-- [[cancellation]], [[devaluation]], [[disfiguration]], [[graffiti]], [[obliteration]], [[vandalism]]
+- [[c/_cancellation|cancellation]], [[d/_devaluation|devaluation]], [[d/_disfiguration|disfiguration]], [[g/_graffiti|graffiti]], [[o/_obliteration|obliteration]], [[v/_vandalism|vandalism]]
 ---

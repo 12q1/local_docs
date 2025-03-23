@@ -8,5 +8,5 @@
 - **Things stored in a [[c/_cupboard|cupboard]]; particularly food.**
 ---
 ### Synonyms
-- [[sideboard]], [[larder]], [[pantry]]
+- [[s/_sideboard|sideboard]], [[l/_larder|larder]], [[p/_pantry|pantry]]
 ---

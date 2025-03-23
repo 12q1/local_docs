@@ -14,5 +14,5 @@
 - **[[b/_broken|Broken]] (of a thing)**
 ---
 ### Synonyms
-- [[busted]], [[inoperative]], [[knackered]], [[hurt]], [[imbrued]], [[injured]]
+- [[b/_busted|busted]], [[i/_inoperative|inoperative]], [[k/_knackered|knackered]], [[h/_hurt|hurt]], [[i/_imbrued|imbrued]], [[i/_injured|injured]]
 ---

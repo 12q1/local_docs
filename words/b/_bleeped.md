@@ -6,5 +6,5 @@
 - **To [[e/_edit|edit]] out inappropriate spoken language in a [[b/_broadcast|broadcast]] by replacing offending words with [[b/_bleeps|bleeps]].**
 ---
 ### Synonyms
-- [[blip]]
+- [[b/_blip|blip]]
 ---

@@ -6,5 +6,5 @@
 - **A [[c/_cooking|cooking]] [[a/_apple|apple]].**
 ---
 ### Synonyms
-- [[stove]]
+- [[s/_stove|stove]]
 ---

@@ -5,5 +5,5 @@
 - **An [[a/_area|area]] where a [[c/_camp|camp]] meeting (a retreat) (trail ride and party) is held.**
 ---
 ### Synonyms
-- [[camping ground]]
+- 
 ---

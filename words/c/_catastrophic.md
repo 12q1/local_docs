@@ -5,7 +5,7 @@
 - **[[d/_disastrous|Disastrous]]; ruinous.**
 ---
 ### Synonyms
-- [[catastrophal]]
+- [[c/_catastrophal|catastrophal]]
 ### Antonyms
-- [[anastrophic]]
+- [[a/_anastrophic|anastrophic]]
 ---

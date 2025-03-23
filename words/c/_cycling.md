@@ -9,12 +9,12 @@
 	- _Example: They have their cycling game going tonight._
 ---
 #noun
-- **The sport of riding and racing [[c/_cycles|cycles]], especially [[b/_bicycles|bicycles]].**
+- **The sport of riding and racing [[c/_cycles|cycles]], [[e/_especially|especially]] [[b/_bicycles|bicycles]].**
 	- _Example: In all my years as a cycling fan, I've never seen a breakaway like this._
 - **[[a/_any|Any]] [[c/_cyclic|cyclic]] [[a/_action|action]] or process**
 ---
 ### Synonyms
-- [[biking]], [[cyclism]]
+- [[b/_biking|biking]], [[c/_cyclism|cyclism]]
 #adjective
 - **That undergoes a [[c/_cyclic|cyclic]] motion or process**
 ---

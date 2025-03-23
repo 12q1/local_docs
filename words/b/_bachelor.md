@@ -1,7 +1,7 @@
 # Bachelor
 ---
 #noun
-- **A person, especially a man, who is socially regarded as [[a/_able|able]] to marry, but has not yet.**
+- **A person, [[e/_especially|especially]] a man, who is socially regarded as [[a/_able|able]] to marry, but has not yet.**
 - **The first or lowest [[a/_academical|academical]] [[d/_degree|degree]] [[c/_conferred|conferred]] by universities and [[c/_colleges|colleges]]; a [[b/_bachelor|bachelor]]'s [[d/_degree|degree]].**
 - **Someone who has [[a/_achieved|achieved]] a [[b/_bachelor|bachelor]]'s [[d/_degree|degree]].**
 - **A [[b/_bachelor|bachelor]] [[a/_apartment|apartment]].**
@@ -11,7 +11,7 @@
 - **A kind of [[b/_bass|bass]], an [[e/_edible|edible]] freshwater fish (Pomoxis annularis) of the southern United States.**
 ---
 ### Synonyms
-- [[baccalaureate]]
+- [[b/_baccalaureate|baccalaureate]]
 ### Antonyms
-- [[bachelorette]], [[wedder]]
+- [[b/_bachelorette|bachelorette]], [[w/_wedder|wedder]]
 ---

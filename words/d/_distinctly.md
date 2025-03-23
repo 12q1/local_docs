@@ -4,5 +4,5 @@
 - **In a [[d/_distinct|distinct]] manner.**
 ---
 ### Antonyms
-- [[indistinctly]]
+- [[i/_indistinctly|indistinctly]]
 ---

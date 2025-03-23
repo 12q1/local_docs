@@ -7,10 +7,10 @@
 - **A [[b/_blockhead|blockhead]]; a [[d/_dunce|dunce]].**
 ---
 ### Synonyms
-- [[broadwing]], [[buteo]], [[turkey vulture]], [[vulture]]
+- [[b/_broadwing|broadwing]], [[b/_buteo|buteo]], [[v/_vulture|vulture]]
 #noun
 - **A score of two over par (for one hole)**
 ---
 ### Synonyms
-- [[buzzard]]
+- [[b/_buzzard|buzzard]]
 ---

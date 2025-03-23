@@ -5,5 +5,5 @@
 - **The state of [[b/_being|being]] impermanent or transitory.**
 ---
 ### Synonyms
-- [[ephemerality]], [[impermanence]], [[transiency]]
+- [[e/_ephemerality|ephemerality]], [[i/_impermanence|impermanence]], [[t/_transiency|transiency]]
 ---

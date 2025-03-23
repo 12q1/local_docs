@@ -5,7 +5,7 @@
 - **A [[c/_charge|charge]] made to students and [[b/_barristers|barristers]] for incidental repairs of the rooms they occupy.**
 ---
 ### Synonyms
-- [[damage]], [[expense]], [[harm]], [[hurt]], [[illfare]]
+- [[d/_damage|damage]], [[e/_expense|expense]], [[h/_harm|harm]], [[h/_hurt|hurt]], [[i/_illfare|illfare]]
 ### Antonyms
-- [[benefit]]
+- [[b/_benefit|benefit]]
 ---

@@ -6,9 +6,9 @@
 - **[[a/_advice|Advice]]; [[c/_counsel|counsel]].**
 ---
 ### Synonyms
-- [[agreement]], [[approval]], [[assent]], [[consensualness]], [[permission]], [[willingness]], [[yes]]
+- [[a/_agreement|agreement]], [[a/_approval|approval]], [[a/_assent|assent]], [[c/_consensualness|consensualness]], [[p/_permission|permission]], [[w/_willingness|willingness]], [[y/_yes|yes]]
 ### Antonyms
-- [[disagreement]], [[dissent]], [[opposition]], [[refusal]]
+- [[d/_disagreement|disagreement]], [[d/_dissent|dissent]], [[o/_opposition|opposition]], [[r/_refusal|refusal]]
 #verb
 - **To express willingness, to give permission.**
 	- _Example: After reflecting a little bit, I've consented._
@@ -17,7 +17,7 @@
 - **To [[a/_agree|agree]] in opinion or sentiment; to be of the same mind; to [[a/_accord|accord]]; to [[c/_concur|concur]].**
 ---
 ### Synonyms
-- [[acquiesce]], [[agree]], [[approve]], [[assent]], [[concur]], [[yes]]
+- [[a/_acquiesce|acquiesce]], [[a/_agree|agree]], [[a/_approve|approve]], [[a/_assent|assent]], [[c/_concur|concur]], [[y/_yes|yes]]
 ### Antonyms
-- [[disagree]], [[object]], [[oppose]]
+- [[d/_disagree|disagree]], [[o/_object|object]], [[o/_oppose|oppose]]
 ---

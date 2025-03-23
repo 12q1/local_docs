@@ -5,5 +5,5 @@
 - **The [[a/_act|act]] or fact of [[a/_acquiring|acquiring]] something; [[a/_acquisition|acquisition]].**
 ---
 ### Synonyms
-- [[acquisition]]
+- [[a/_acquisition|acquisition]]
 ---

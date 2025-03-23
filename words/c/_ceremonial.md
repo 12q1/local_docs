@@ -8,5 +8,5 @@
 - **Observant of [[c/_ceremony|ceremony]], ritual, or social forms.**
 ---
 ### Synonyms
-- [[ceremonious]], [[formal]], [[ritual]], [[ritualistic]]
+- [[c/_ceremonious|ceremonious]], [[f/_formal|formal]], [[r/_ritual|ritual]], [[r/_ritualistic|ritualistic]]
 ---

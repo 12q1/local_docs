@@ -1,7 +1,7 @@
 # Confronted
 ---
 #verb
-- **To stand or meet facing, especially in [[c/_competition|competition]], hostility or [[d/_defiance|defiance]]; to [[c/_come|come]] face to face with**
+- **To stand or meet facing, [[e/_especially|especially]] in [[c/_competition|competition]], hostility or [[d/_defiance|defiance]]; to [[c/_come|come]] face to face with**
 	- _Example: We should confront him about the missing money._
 - **To [[d/_deal|deal]] with.**
 - **To something [[b/_bring|bring]] face to face with.**
@@ -11,5 +11,5 @@
 - **To put a thing facing to; to set in [[c/_contrast|contrast]] to.**
 ---
 ### Synonyms
-- [[challenge]], [[oppose]]
+- [[c/_challenge|challenge]], [[o/_oppose|oppose]]
 ---

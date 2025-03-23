@@ -7,11 +7,11 @@
 - **Omasum, the third [[c/_compartment|compartment]] of the stomach of ruminants**
 ---
 ### Synonyms
-- [[fardel]], [[manyplies]], [[omasum]], [[psalterium]]
+- [[f/_fardel|fardel]], [[m/_manyplies|manyplies]], [[o/_omasum|omasum]], [[p/_psalterium|psalterium]]
 #noun
 - **A piece of soft sandstone used for scouring the wooden [[d/_decks|decks]] of ships, usually with sand and seawater.**
 - **A stone with a naturally-formed hole, used by Yorkshiremen for good luck.**
 ---
 ### Synonyms
-- [[lucky stone]], [[bible]]
+- [[b/_bible|bible]]
 ---

@@ -5,5 +5,5 @@
 	- _Example: Did you seriously think that was gonna work? You magnificent chowderhead! I saw that coming miles away!_
 ---
 ### Synonyms
-- [[dumbo]], [[dunce]], [[numskull]], [[pea brain]]
+- [[d/_dumbo|dumbo]], [[d/_dunce|dunce]], [[n/_numskull|numskull]]
 ---

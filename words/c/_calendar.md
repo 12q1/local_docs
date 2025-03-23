@@ -12,7 +12,7 @@
 - **An [[a/_appointment|appointment]] [[b/_book|book]] (US), [[a/_appointment|appointment]] [[d/_diary|diary]] (UK)**
 ---
 ### Synonyms
-- [[agenda]], [[calends]], [[docket]], [[schedule]]
+- [[a/_agenda|agenda]], [[c/_calends|calends]], [[d/_docket|docket]], [[s/_schedule|schedule]]
 #verb
 - **To set a [[d/_date|date]] for a proceeding in [[c/_court|court]], usually [[d/_done|done]] by a judge at a [[c/_calendar|calendar]] [[c/_call|call]].**
 	- _Example: The judge agreed to calendar a hearing for pretrial motions for the week of May 15, but did not agree to calendar the trial itself on a specific date._

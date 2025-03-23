@@ -5,5 +5,5 @@
 - **Someone who takes [[c/_care|care]] of a person; a parent, [[c/_carer|carer]] or other guardian.**
 ---
 ### Synonyms
-- [[concierge]], [[janitor]]
+- [[c/_concierge|concierge]], [[j/_janitor|janitor]]
 ---

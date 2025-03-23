@@ -1,7 +1,7 @@
 # Encomia
 ---
 #noun
-- **Warm praise, especially a formal expression of such praise; a tribute.**
+- **Warm praise, [[e/_especially|especially]] a formal expression of such praise; a tribute.**
 - **A general [[c/_category|category]] of oratory.**
 - **A method within rhetorical pedagogy.**
 - **The [[e/_eighth|eighth]] exercise in the progymnasmata series.**

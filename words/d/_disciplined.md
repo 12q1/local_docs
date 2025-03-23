@@ -7,7 +7,7 @@
 - **To impose order on someone.**
 ---
 ### Synonyms
-- [[drill]]
+- [[d/_drill|drill]]
 #adjective
 - **Possessing mental [[d/_discipline|discipline]].**
 - **Punished for [[d/_disobedience|disobedience]].**

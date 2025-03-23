@@ -8,7 +8,7 @@
 - **(of a hand) Having higher, or superior [[c/_cards|cards]].**
 ---
 #adjective
-- **Of an object, [[c/_concept|concept]], relationship, etc., having existed for a relatively long period of time.**
+- **Of an object, [[c/_concept|concept]], relationship, [[e/_etc|etc]]., having existed for a relatively long period of time.**
 	- _Example: an old abandoned building;  an old friend_
 - **Having [[b/_been|been]] used and thus no longer new or unused.**
 	- _Example: I find that an old toothbrush is good to clean the keyboard with._
@@ -23,7 +23,7 @@
 - **Excessive, [[a/_abundant|abundant]].**
 ---
 ### Synonyms
-- [[erstwhile]], [[ex-]], [[former]], [[one-time]], [[past]], [[ancient]], [[long in the tooth]], [[aged]], [[of age]], [[aged]], [[ageing]], [[aging]], [[elderly]], [[long in the tooth]], [[on in years]], [[antiquated]], [[obsolete]], [[outdated]]
+- [[e/_erstwhile|erstwhile]], [[e/_ex-|ex-]], [[f/_former|former]], [[o/_one-time|one-time]], [[p/_past|past]], [[a/_ancient|ancient]], [[a/_aged|aged]], [[a/_aged|aged]], [[a/_ageing|ageing]], [[a/_aging|aging]], [[e/_elderly|elderly]], [[a/_antiquated|antiquated]], [[o/_obsolete|obsolete]], [[o/_outdated|outdated]]
 ### Antonyms
-- [[current]], [[latest]], [[new]], [[brand new]], [[fresh]], [[new]], [[young]]
+- [[c/_current|current]], [[l/_latest|latest]], [[n/_new|new]], [[f/_fresh|fresh]], [[n/_new|new]], [[y/_young|young]]
 ---

@@ -13,7 +13,7 @@
 	- _Example: to earn a spot in the top 20_
 ---
 ### Synonyms
-- [[generate]], [[make]], [[render]], [[yield]], [[deserve]], [[garner]], [[merit]], [[win]]
+- [[g/_generate|generate]], [[m/_make|make]], [[r/_render|render]], [[y/_yield|yield]], [[d/_deserve|deserve]], [[g/_garner|garner]], [[m/_merit|merit]], [[w/_win|win]]
 #verb
 - **To [[c/_curdle|curdle]], as milk.**
 ---

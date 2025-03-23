@@ -6,5 +6,5 @@
 - **(usually uncountable) A patronizing [[a/_attitude|attitude]] or [[b/_behavior|behavior]].**
 ---
 ### Synonyms
-- [[condescendence]]
+- [[c/_condescendence|condescendence]]
 ---

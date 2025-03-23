@@ -20,17 +20,17 @@
 - **Not insured.**
 ---
 ### Synonyms
-- [[empty]], [[plain]], [[unadorned]], [[undecorated]], [[empty]], [[unfurnished]], [[unstocked]], [[unsupplied]], [[mere]], [[minimal]], [[exposed]], [[naked]], [[nude]], [[uncovered]], [[undressed]], [[despoiled]], [[stripped]], [[uncovered]]
+- [[e/_empty|empty]], [[p/_plain|plain]], [[u/_unadorned|unadorned]], [[u/_undecorated|undecorated]], [[e/_empty|empty]], [[u/_unfurnished|unfurnished]], [[u/_unstocked|unstocked]], [[u/_unsupplied|unsupplied]], [[m/_mere|mere]], [[m/_minimal|minimal]], [[e/_exposed|exposed]], [[n/_naked|naked]], [[n/_nude|nude]], [[u/_uncovered|uncovered]], [[u/_undressed|undressed]], [[d/_despoiled|despoiled]], [[s/_stripped|stripped]], [[u/_uncovered|uncovered]]
 ### Antonyms
-- [[covered]], [[adorn]], [[decorated]], [[ornate]], [[full]], [[furnished]], [[stocked]], [[supplied]], [[well-stocked]], [[ample]], [[plentiful]], [[sufficient]], [[covered]], [[dressed]], [[unexposed]]
+- [[c/_covered|covered]], [[a/_adorn|adorn]], [[d/_decorated|decorated]], [[o/_ornate|ornate]], [[f/_full|full]], [[f/_furnished|furnished]], [[s/_stocked|stocked]], [[s/_supplied|supplied]], [[w/_well-stocked|well-stocked]], [[a/_ample|ample]], [[p/_plentiful|plentiful]], [[s/_sufficient|sufficient]], [[c/_covered|covered]], [[d/_dressed|dressed]], [[u/_unexposed|unexposed]]
 #verb
 - **To uncover; to reveal.**
 	- _Example: She bared her teeth at him._
 ---
 ### Synonyms
-- [[expose]], [[lay bare]], [[reveal]], [[show]], [[uncover]]
+- [[e/_expose|expose]], [[r/_reveal|reveal]], [[s/_show|show]], [[u/_uncover|uncover]]
 ### Antonyms
-- [[cover]], [[cover up]], [[hide]]
+- [[c/_cover|cover]], [[h/_hide|hide]]
 #verb
 - **To [[e/_endeavour|endeavour]] to [[d/_depress|depress]] the price of, or prices in.**
 	- _Example: to bear a railroad stock_
@@ -47,5 +47,5 @@
 - **To gain or win.**
 ---
 ### Synonyms
-- [[brook]], [[endure]]
+- [[b/_brook|brook]], [[e/_endure|endure]]
 ---

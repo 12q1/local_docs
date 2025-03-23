@@ -6,11 +6,11 @@
 - **A similar sounding vocalisation of various [[b/_birds|birds]].**
 ---
 ### Synonyms
-- [[chuckle]]
+- [[c/_chuckle|chuckle]]
 #verb
 - **To laugh with a [[c/_chortle|chortle]] or [[c/_chortles|chortles]].**
 	- _Example: The old fellow chortled as he recalled his youthful adventures._
 ---
 ### Synonyms
-- [[chuckle]]
+- [[c/_chuckle|chuckle]]
 ---

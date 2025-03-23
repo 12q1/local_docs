@@ -5,5 +5,5 @@
 	- _Example: He argued with the judge contemptuously, showing no respect or remorse for his actions._
 ---
 ### Synonyms
-- [[condescendingly]], [[disdainfully]], [[disrespectfully]]
+- [[c/_condescendingly|condescendingly]], [[d/_disdainfully|disdainfully]], [[d/_disrespectfully|disrespectfully]]
 ---

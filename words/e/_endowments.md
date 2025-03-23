@@ -7,5 +7,5 @@
 - **A [[c/_ceremony|ceremony]] [[d/_designed|designed]] to prepare participants for their role in the [[a/_afterlife|afterlife]].**
 ---
 ### Synonyms
-- [[gift]]
+- [[g/_gift|gift]]
 ---

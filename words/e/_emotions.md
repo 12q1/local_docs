@@ -5,5 +5,5 @@
 - **A reaction by a non-human organism with [[b/_behavioral|behavioral]] and physiological [[e/_elements|elements]] similar to a person's response.**
 ---
 ### Synonyms
-- [[affect]], [[feeling]]
+- [[a/_affect|affect]], [[f/_feeling|feeling]]
 ---

@@ -8,7 +8,7 @@
 - **(usually in [[c/_compounds|compounds]] specifying a [[c/_context|context]]) a slut; a promiscuous woman**
 ---
 ### Synonyms
-- [[bike]], [[pushbike]], [[velocipede]]
+- [[b/_bike|bike]], [[p/_pushbike|pushbike]], [[v/_velocipede|velocipede]]
 #verb
 - **To ride a [[b/_bike|bike]].**
 	- _Example: I biked so much yesterday that I'm very sore today._
@@ -24,5 +24,5 @@
 - **A local woman who is sexually promiscuous.**
 ---
 ### Synonyms
-- [[town bicycle]], [[town bike]], [[village bicycle]]
+- 
 ---

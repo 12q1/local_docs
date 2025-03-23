@@ -5,5 +5,5 @@
 - **An [[a/_act|act]] or occurrence of [[d/_desiccating|desiccating]]**
 ---
 ### Synonyms
-- [[demoisturisation]], [[demoisturization]]
+- [[d/_demoisturisation|demoisturisation]], [[d/_demoisturization|demoisturization]]
 ---

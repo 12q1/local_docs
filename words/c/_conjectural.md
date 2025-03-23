@@ -7,5 +7,5 @@
 - **In the nature of a [[c/_conjecture|conjecture]], or [[b/_based|based]] on a [[c/_conjecture|conjecture]].**
 ---
 ### Synonyms
-- [[hypothetical]]
+- [[h/_hypothetical|hypothetical]]
 ---

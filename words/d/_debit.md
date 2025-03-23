@@ -15,5 +15,5 @@
 - **Of or relating to the [[d/_debit|debit]] [[c/_card|card]] function of a [[d/_debit|debit]] [[c/_card|card]] rather than its often [[a/_available|available]] [[c/_credit|credit]] [[c/_card|card]] function**
 ---
 ### Antonyms
-- [[credit]]
+- [[c/_credit|credit]]
 ---

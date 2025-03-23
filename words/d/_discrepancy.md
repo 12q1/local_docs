@@ -6,5 +6,5 @@
 - **The state or quality of [[b/_being|being]] [[d/_discrepant|discrepant]].**
 ---
 ### Synonyms
-- [[anomalous]], [[discordance]], [[anomaly]], [[conflict]], [[contrariety]], [[deviation]], [[difference]], [[disagreement]], [[disparity]], [[dissimilarity]], [[divergence]], [[incompatibility]], [[inconsistency]], [[mismatch]], [[variance]], [[variation]]
+- [[a/_anomalous|anomalous]], [[d/_discordance|discordance]], [[a/_anomaly|anomaly]], [[c/_conflict|conflict]], [[c/_contrariety|contrariety]], [[d/_deviation|deviation]], [[d/_difference|difference]], [[d/_disagreement|disagreement]], [[d/_disparity|disparity]], [[d/_dissimilarity|dissimilarity]], [[d/_divergence|divergence]], [[i/_incompatibility|incompatibility]], [[i/_inconsistency|inconsistency]], [[m/_mismatch|mismatch]], [[v/_variance|variance]], [[v/_variation|variation]]
 ---

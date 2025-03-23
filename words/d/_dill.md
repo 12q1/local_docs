@@ -6,7 +6,7 @@
 - **A fool.**
 ---
 ### Synonyms
-- [[anet]], [[dillseed]], [[dill pickle]], [[dill pickle]]
+- [[a/_anet|anet]], [[d/_dillseed|dillseed]]
 #verb
 - **To [[c/_cook|cook]] or flavor with [[d/_dill|dill]]**
 ---

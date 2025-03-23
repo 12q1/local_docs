@@ -3,7 +3,7 @@
 #noun
 - **The main [[c/_cereal|cereal]] plant grown for its grain in a given region, such as oats in parts of Scotland and Ireland, and wheat or [[b/_barley|barley]] in [[e/_england|England]] and Wales.**
 - **Maize, a grain [[c/_crop|crop]] of the species Zea mays.**
-- **A grain or seed, especially of a [[c/_cereal|cereal]] [[c/_crop|crop]].**
+- **A grain or seed, [[e/_especially|especially]] of a [[c/_cereal|cereal]] [[c/_crop|crop]].**
 	- _Example: He paid her the nominal fee of two corns of barley._
 - **A small, hard particle.**
 ---
@@ -20,5 +20,5 @@
 - **A type of [[c/_callus|callus]], usually on the feet or hands.**
 ---
 ### Synonyms
-- [[clavus]]
+- [[c/_clavus|clavus]]
 ---

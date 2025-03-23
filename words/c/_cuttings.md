@@ -13,7 +13,7 @@
 - **The [[a/_act|act]] of [[c/_cutting|cutting]] one's own skin as a symptom of a mental [[d/_disorder|disorder]]; self-harm.**
 ---
 ### Synonyms
-- [[cut]]
+- [[c/_cut|cut]]
 ### Antonyms
-- [[embankment]]
+- [[e/_embankment|embankment]]
 ---

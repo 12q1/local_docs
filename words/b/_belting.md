@@ -20,7 +20,7 @@
 	- _Example: He was really belting along._
 ---
 ### Synonyms
-- [[gulp]], [[pound]], [[slurp]], [[circle]], [[girdle]], [[surround]], [[buckle]], [[fasten]], [[strap]], [[bash]], [[clobber]], [[smack]], [[wallop]], [[strap]], [[whip]], [[book]], [[speed]], [[whiz]], [[zoom]]
+- [[g/_gulp|gulp]], [[p/_pound|pound]], [[s/_slurp|slurp]], [[c/_circle|circle]], [[g/_girdle|girdle]], [[s/_surround|surround]], [[b/_buckle|buckle]], [[f/_fasten|fasten]], [[s/_strap|strap]], [[b/_bash|bash]], [[c/_clobber|clobber]], [[s/_smack|smack]], [[w/_wallop|wallop]], [[s/_strap|strap]], [[w/_whip|whip]], [[b/_book|book]], [[s/_speed|speed]], [[w/_whiz|whiz]], [[z/_zoom|zoom]]
 #noun
 - **A [[b/_beating|beating]] with a [[b/_belt|belt]].**
 - **A thorough [[d/_defeat|defeat]]; a thrashing.**

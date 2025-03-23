@@ -5,5 +5,5 @@
 - **[[e/_enormous|Enormous]], huge, far larger than is [[c/_customary|customary]] for such a thing.**
 ---
 ### Antonyms
-- [[lilliputian]]
+- [[l/_lilliputian|lilliputian]]
 ---

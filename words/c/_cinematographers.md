@@ -5,5 +5,5 @@
 - **One who exhibits motion pictures; a projectionist.**
 ---
 ### Synonyms
-- [[DOP]], [[DP]], [[director of photography]], [[cinematographist]]
+- [[D/_DOP|DOP]], [[D/_DP|DP]], [[c/_cinematographist|cinematographist]]
 ---

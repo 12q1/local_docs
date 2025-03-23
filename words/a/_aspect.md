@@ -19,7 +19,7 @@
 - **The visual indication of a [[c/_colour|colour]] light (or mechanical) signal as [[d/_displayed|displayed]] to the [[d/_driver|driver]]. With [[c/_colour|colour]] light signals this would be red, yellow or green.**
 ---
 ### Synonyms
-- [[appearance]], [[blee]], [[look]], [[facet]]
+- [[a/_appearance|appearance]], [[b/_blee|blee]], [[l/_look|look]], [[f/_facet|facet]]
 #verb
 - **(of a planet) To have a particular [[a/_aspect|aspect]] or type of [[a/_aspect|aspect]].**
 - **To [[c/_channel|channel]] a [[d/_divine|divine]] [[b/_being|being]].**

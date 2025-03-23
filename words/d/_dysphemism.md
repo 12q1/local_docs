@@ -5,5 +5,5 @@
 - **A word or phrase that is used to replace [[a/_another|another]] in this way.**
 ---
 ### Antonyms
-- [[euphemism]]
+- [[e/_euphemism|euphemism]]
 ---

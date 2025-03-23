@@ -5,5 +5,5 @@
 	- _Example: Cyprus is currently the easternmost country in the European Union._
 ---
 ### Synonyms
-- [[eastmost]]
+- [[e/_eastmost|eastmost]]
 ---

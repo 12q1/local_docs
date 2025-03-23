@@ -7,5 +7,5 @@
 - **([[b/_biblical|Biblical]] studies) [[a/_absolute|Absolute]] and without explanation, as in a [[c/_command|command]] from God like "Thou shalt not kill!"**
 ---
 ### Antonyms
-- [[assertorical]], [[problematic]]
+- [[a/_assertorical|assertorical]], [[p/_problematic|problematic]]
 ---

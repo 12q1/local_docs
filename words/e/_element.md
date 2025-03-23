@@ -1,7 +1,7 @@
 # Element
 ---
 #noun
-- **One of the simplest or essential parts or principles of which [[a/_anything|anything]] [[c/_consists|consists]], or upon which the [[c/_constitution|constitution]] or fundamental powers of [[a/_anything|anything]] are [[b/_based|based]].**
+- **One of the simplest or [[e/_essential|essential]] parts or principles of which [[a/_anything|anything]] [[c/_consists|consists]], or upon which the [[c/_constitution|constitution]] or fundamental powers of [[a/_anything|anything]] are [[b/_based|based]].**
 	- _Example: Letters are the elements of written language._
 - **A small part of the whole.**
 	- _Example: an element of doubt;  an element of the picture_
@@ -18,7 +18,7 @@
 - **One of the [[c/_conceptual|conceptual]] objects in a markup language, usually represented in text by tags.**
 ---
 ### Synonyms
-- [[chemical element]], [[firststuff]], [[member]]
+- [[f/_firststuff|firststuff]], [[m/_member|member]]
 #verb
 - **To [[c/_compound|compound]] of [[e/_elements|elements]].**
 - **To [[c/_constitute|constitute]] and be the [[e/_elements|elements]] of.**

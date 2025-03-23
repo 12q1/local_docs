@@ -11,7 +11,7 @@
 - **Strife, [[d/_discord|discord]].**
 ---
 #verb
-- **To participate in a [[d/_debate|debate]]; to [[d/_dispute|dispute]], [[a/_argue|argue]], especially in a public [[a/_arena|arena]].**
+- **To participate in a [[d/_debate|debate]]; to [[d/_dispute|dispute]], [[a/_argue|argue]], [[e/_especially|especially]] in a public [[a/_arena|arena]].**
 	- _Example: "Debate me, coward!" snarled the completely normal intellectual._
 - **To fight.**
 - **To [[e/_engage|engage]] in [[c/_combat|combat]] for; to strive for.**

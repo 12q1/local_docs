@@ -4,5 +4,5 @@
 - **Relating to [[a/_anthropology|anthropology]].**
 ---
 ### Synonyms
-- [[anthropologic]]
+- [[a/_anthropologic|anthropologic]]
 ---

@@ -5,5 +5,5 @@
 - **To predate or [[a/_antedate|antedate]].**
 ---
 ### Synonyms
-- [[forego]]
+- [[f/_forego|forego]]
 ---

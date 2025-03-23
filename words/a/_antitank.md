@@ -5,5 +5,5 @@
 	- _Example: A TOW missile is an antitank weapon capable of killing everyone in a tank from great distance._
 ---
 ### Synonyms
-- [[AT]], [[anti-armor]], [[anti-armour]]
+- [[A/_AT|AT]], [[a/_anti-armor|anti-armor]], [[a/_anti-armour|anti-armour]]
 ---

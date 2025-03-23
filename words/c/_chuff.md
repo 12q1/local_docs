@@ -8,5 +8,5 @@
 - **Stupid; [[c/_churlish|churlish]]**
 ---
 ### Synonyms
-- [[chuffy]]
+- [[c/_chuffy|chuffy]]
 ---

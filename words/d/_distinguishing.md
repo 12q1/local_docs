@@ -8,9 +8,9 @@
 - **To make to [[d/_differ|differ]].**
 ---
 ### Synonyms
-- [[differentiate]], [[discriminate]]
+- [[d/_differentiate|differentiate]], [[d/_discriminate|discriminate]]
 ### Antonyms
-- [[confuse]]
+- [[c/_confuse|confuse]]
 #noun
 - **The [[a/_act|act]] by which something is [[d/_distinguished|distinguished]] or told [[a/_apart|apart]].**
 ---

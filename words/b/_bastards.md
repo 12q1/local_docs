@@ -20,10 +20,10 @@
 - **An inferior quality of soft [[b/_brown|brown]] sugar, obtained from syrups that have [[b/_been|been]] [[b/_boiled|boiled]] several times.**
 - **A large mould for straining sugar.**
 - **A writing paper of a particular size.**
-- **A Eurosceptic [[c/_conservative|Conservative]] MP, especially in the government of John Major.**
+- **A Eurosceptic [[c/_conservative|Conservative]] MP, [[e/_especially|especially]] in the government of John Major.**
 ---
 ### Synonyms
-- [[arsehole]], [[asshole]], [[son of a bitch]], [[born in the vestry]], [[illegitimate]], [[love-child]]
+- [[a/_arsehole|arsehole]], [[a/_asshole|asshole]], [[i/_illegitimate|illegitimate]], [[l/_love-child|love-child]]
 ### Antonyms
-- [[legitimate]]
+- [[l/_legitimate|legitimate]]
 ---

@@ -5,5 +5,5 @@
 - **A [[c/_charwoman|charwoman]]**
 ---
 ### Antonyms
-- [[chairman]]
+- [[c/_chairman|chairman]]
 ---

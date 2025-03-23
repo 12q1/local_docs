@@ -6,5 +6,5 @@
 - **A long formal [[d/_dress|dress]]-like garment or robe worn by [[a/_asian|Asian]] men.**
 ---
 ### Synonyms
-- [[changshan]], [[qipao]]
+- [[c/_changshan|changshan]], [[q/_qipao|qipao]]
 ---

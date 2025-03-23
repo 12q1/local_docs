@@ -8,7 +8,7 @@
 - **A European [[b/_bunting|bunting]], the [[c/_corn|corn]] [[b/_bunting|bunting]] ([[e/_emberiza|Emberiza]] [[c/_calandra|calandra]], syns. [[e/_emberiza|Emberiza]] miliaria, Milaria [[c/_calandra|calandra]]).**
 ---
 ### Antonyms
-- [[flood]], [[flow]]
+- [[f/_flood|flood]], [[f/_flow|flow]]
 #verb
 - **To flow [[b/_back|back]] or recede**
 	- _Example: The tides ebbed at noon._

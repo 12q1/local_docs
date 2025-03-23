@@ -5,5 +5,5 @@
 - **[[a/_artichoke|Artichoke]] leaves and shoots, [[b/_blanched|blanched]] to [[e/_eat|eat]].**
 ---
 ### Synonyms
-- [[Swiss chard]], [[mangold]], [[silverbeet]]
+- [[m/_mangold|mangold]], [[s/_silverbeet|silverbeet]]
 ---

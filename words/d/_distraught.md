@@ -6,5 +6,5 @@
 - **Mad; insane.**
 ---
 ### Synonyms
-- [[distressed]], [[pained]]
+- [[d/_distressed|distressed]], [[p/_pained|pained]]
 ---

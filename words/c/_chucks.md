@@ -25,11 +25,11 @@
 - **A [[c/_casual|casual]] throw.**
 - **A throw, an incorrect [[b/_bowling|bowling]] [[a/_action|action]].**
 - **An [[a/_act|act]] or instance of vomiting.**
-- **On rhythm guitar or mandolin etc., the muting of a [[c/_chord|chord]] by lifting the fretting fingers immediately [[a/_after|after]] strumming, producing a percussive [[e/_effect|effect]].**
+- **On rhythm guitar or mandolin [[e/_etc|etc]]., the muting of a [[c/_chord|chord]] by lifting the fretting fingers immediately [[a/_after|after]] strumming, producing a percussive [[e/_effect|effect]].**
 ---
 #verb
 - **To touch or tap gently.**
-- **To throw, especially in a [[c/_careless|careless]] or inaccurate manner.**
+- **To throw, [[e/_especially|especially]] in a [[c/_careless|careless]] or inaccurate manner.**
 	- _Example: Chuck that magazine to me, would you?_
 - **To throw; to [[b/_bowl|bowl]] with an incorrect [[a/_action|action]].**
 - **To [[d/_discard|discard]], to throw [[a/_away|away]].**
@@ -40,17 +40,17 @@
 - **To leave; to [[d/_depart|depart]]; to [[b/_bounce|bounce]].**
 	- _Example: Let's chuck._
 - **To [[c/_chuckle|chuckle]]; to laugh.**
-- **On rhythm guitar or mandolin etc.: to mute a [[c/_chord|chord]] by lifting the fretting fingers immediately [[a/_after|after]] strumming, producing a percussive [[e/_effect|effect]].**
+- **On rhythm guitar or mandolin [[e/_etc|etc]].: to mute a [[c/_chord|chord]] by lifting the fretting fingers immediately [[a/_after|after]] strumming, producing a percussive [[e/_effect|effect]].**
 ---
 #noun
 - **A small pebble.**
 - **(in the plural) Money.**
 ---
 ### Synonyms
-- [[chuckie]], [[chucky]], [[chuckiestone]], [[chuckstone]]
+- [[c/_chuckie|chuckie]], [[c/_chucky|chucky]], [[c/_chuckiestone|chuckiestone]], [[c/_chuckstone|chuckstone]]
 #noun
 - **A rodent of the family Sciuridae, [[b/_belonging|belonging]] to the group of large ground squirrels known as marmots, Marmota monax.**
 ---
 ### Synonyms
-- [[groundhog]], [[land-beaver]], [[moonack]], [[whistle pig]]
+- [[g/_groundhog|groundhog]], [[l/_land-beaver|land-beaver]], [[m/_moonack|moonack]]
 ---

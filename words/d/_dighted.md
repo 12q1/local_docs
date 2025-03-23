@@ -11,5 +11,5 @@
 - **To make ready, prepare.**
 ---
 ### Synonyms
-- [[clothe]], [[don]], [[put on]], [[apparel]], [[fit out]], [[kit out]], [[bed]], [[feague]], [[lie with]]
+- [[c/_clothe|clothe]], [[d/_don|don]], [[a/_apparel|apparel]], [[b/_bed|bed]], [[f/_feague|feague]]
 ---

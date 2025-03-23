@@ -19,6 +19,6 @@
 	- _Example: to cramp boot legs_
 ---
 #noun
-- **A [[c/_cramping|cramping]] of muscles, especially in the [[a/_abdomen|abdomen]] or uterus.**
+- **A [[c/_cramping|cramping]] of muscles, [[e/_especially|especially]] in the [[a/_abdomen|abdomen]] or uterus.**
 ---
 ---

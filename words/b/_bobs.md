@@ -17,13 +17,13 @@
 ---
 #noun
 - **A [[b/_bob|bob]] haircut.**
-- **[[a/_any|Any]] round object [[a/_attached|attached]] loosely to a flexible line, a rod, a [[b/_body|body]] part etc., so that it may swing when hanging from it**
+- **[[a/_any|Any]] round object [[a/_attached|attached]] loosely to a flexible line, a rod, a [[b/_body|body]] part [[e/_etc|etc]]., so that it may swing when hanging from it**
 - **The [[d/_dangling|dangling]] mass of a pendulum or plumb line.**
 - **The [[d/_docked|docked]] tail of a horse.**
 - **A short line [[e/_ending|ending]] a stanza of a poem.**
 - **The short runner of a sled.**
 - **A [[b/_bobsleigh|bobsleigh]].**
-- **A small wheel, made of leather, with rounded [[e/_edges|edges]], used in polishing spoons, etc.**
+- **A small wheel, made of leather, with rounded [[e/_edges|edges]], used in polishing spoons, [[e/_etc|etc]].**
 - **A working [[b/_beam|beam]] in a steam [[e/_engine|engine]].**
 - **A particular style of ringing [[c/_changes|changes]] on [[b/_bells|bells]].**
 - **A [[b/_blow|blow]]; a shake or jog; a rap, as with the fist.**

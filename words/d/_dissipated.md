@@ -11,5 +11,5 @@
 - **Wasteful of health or possessions in the pursuit of pleasure.**
 ---
 ### Synonyms
-- [[dissolute]], [[intemperate]]
+- [[d/_dissolute|dissolute]], [[i/_intemperate|intemperate]]
 ---

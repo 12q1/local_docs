@@ -8,5 +8,5 @@
 - **A thin skin formed on the surface of a liquid.**
 ---
 ### Synonyms
-- [[cuticula]]
+- [[c/_cuticula|cuticula]]
 ---

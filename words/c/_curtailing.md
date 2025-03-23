@@ -8,7 +8,7 @@
 - **To limit or restrict, keep in [[c/_check|check]].**
 ---
 ### Synonyms
-- [[crop]], [[dock]], [[behedge]], [[control]], [[limit]], [[restrain]], [[abbreviate]], [[shorten]]
+- [[c/_crop|crop]], [[d/_dock|dock]], [[b/_behedge|behedge]], [[c/_control|control]], [[l/_limit|limit]], [[r/_restrain|restrain]], [[a/_abbreviate|abbreviate]], [[s/_shorten|shorten]]
 #noun
 - **A [[c/_cutting|cutting]] short; truncation.**
 ---

@@ -5,7 +5,7 @@
 	- _Example: blackberry and apple crumble_
 ---
 ### Synonyms
-- [[crisp]], [[crunch]]
+- [[c/_crisp|crisp]], [[c/_crunch|crunch]]
 #verb
 - **To fall [[a/_apart|apart]]; to [[d/_disintegrate|disintegrate]].**
 	- _Example: The empire crumbled when the ruler's indiscretions came to light._

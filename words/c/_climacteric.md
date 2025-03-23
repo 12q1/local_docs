@@ -8,7 +8,7 @@
 #adjective
 - **Pertaining to [[a/_any|any]] of several supposedly [[c/_critical|critical]] years of a person's life.**
 - **[[c/_critical|Critical]] or [[c/_crucial|crucial]]; [[d/_decisive|decisive]].**
-- **Relating to a period of physiological [[c/_change|change]] [[d/_during|during]] middle [[a/_age|age]]; especially, menopausal.**
+- **Relating to a period of physiological [[c/_change|change]] [[d/_during|during]] middle [[a/_age|age]]; [[e/_especially|especially]], menopausal.**
 - **[[c/_climactic|Climactic]].**
 ---
 ---

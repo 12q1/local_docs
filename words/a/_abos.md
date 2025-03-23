@@ -4,5 +4,5 @@
 - **An [[a/_aborigine|aborigine]]; [[a/_aboriginal|aboriginal]].**
 ---
 ### Synonyms
-- [[Jacky]], [[Mary]], [[boong]], [[gin]], [[lubra]]
+- [[J/_Jacky|Jacky]], [[M/_Mary|Mary]], [[b/_boong|boong]], [[g/_gin|gin]], [[l/_lubra|lubra]]
 ---

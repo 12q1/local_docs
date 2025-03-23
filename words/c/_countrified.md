@@ -4,10 +4,10 @@
 - **Rural, rustic; unsophisticated.**
 ---
 ### Antonyms
-- [[citified]]
+- [[c/_citified|citified]]
 #verb
 - **To make rural or rustic.**
 ---
 ### Antonyms
-- [[citify]]
+- [[c/_citify|citify]]
 ---

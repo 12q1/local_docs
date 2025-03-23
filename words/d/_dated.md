@@ -10,12 +10,12 @@
 - **(by extension) To have a steady relationship with; to be romantically involved with.**
 - **(by extension) To have a steady relationship with [[e/_each|each]] other; to be romantically involved with [[e/_each|each]] other.**
 	- _Example: They met a couple of years ago, but have been dating for about five months._
-- **To make or [[b/_become|become]] old, especially in such a way as to fall out of fashion, [[b/_become|become]] less [[a/_appealing|appealing]] or [[a/_attractive|attractive]], etc.**
+- **To make or [[b/_become|become]] old, [[e/_especially|especially]] in such a way as to fall out of fashion, [[b/_become|become]] less [[a/_appealing|appealing]] or [[a/_attractive|attractive]], [[e/_etc|etc]].**
 	- _Example: The comedian dated himself by making quips about bands from the 1960s._
 - **(with from) To have [[b/_beginning|beginning]]; to [[b/_begin|begin]]; to be [[d/_dated|dated]] or reckoned.**
 ---
 ### Synonyms
-- [[age]], [[elden]], [[obsolesce]], [[go out]], [[see]]
+- [[a/_age|age]], [[e/_elden|elden]], [[o/_obsolesce|obsolesce]], [[s/_see|see]]
 #adjective
 - **Marked with a [[d/_date|date]].**
 	- _Example: The first dated entry in the diary was from October 1922._
@@ -27,7 +27,7 @@
 	- _Example: Slang can become dated very quickly._
 ---
 ### Synonyms
-- [[anachronous]], [[démodé]], [[old hat]], [[old-fashioned]], [[outdated]], [[retro]]
+- [[a/_anachronous|anachronous]], [[d/_démodé|démodé]], [[o/_old-fashioned|old-fashioned]], [[o/_outdated|outdated]], [[r/_retro|retro]]
 ### Antonyms
-- [[undated]], [[a la mode]], [[trendy]], [[current]], [[up-to-date]]
+- [[u/_undated|undated]], [[t/_trendy|trendy]], [[c/_current|current]], [[u/_up-to-date|up-to-date]]
 ---

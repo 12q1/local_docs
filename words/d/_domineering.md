@@ -10,7 +10,7 @@
 - **Overbearing, [[d/_dictatorial|dictatorial]] or [[a/_authoritarian|authoritarian]]**
 ---
 ### Synonyms
-- [[arbitrary]], [[assertive]], [[bossy]], [[commanding]], [[dominant]], [[forceful]], [[oppressive]], [[pushy]], [[regnant]], [[strong-willed]]
+- [[a/_arbitrary|arbitrary]], [[a/_assertive|assertive]], [[b/_bossy|bossy]], [[c/_commanding|commanding]], [[d/_dominant|dominant]], [[f/_forceful|forceful]], [[o/_oppressive|oppressive]], [[p/_pushy|pushy]], [[r/_regnant|regnant]], [[s/_strong-willed|strong-willed]]
 ### Antonyms
-- [[submissive]]
+- [[s/_submissive|submissive]]
 ---

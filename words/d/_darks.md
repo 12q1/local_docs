@@ -7,7 +7,7 @@
 	- _Example: The lawyer was left in the dark as to why the jury was dismissed._
 - **Nightfall.**
 	- _Example: It was after dark before we got to playing baseball._
-- **A [[d/_dark|dark]] shade or [[d/_dark|dark]] passage in a painting, [[e/_engraving|engraving]], etc.**
+- **A [[d/_dark|dark]] shade or [[d/_dark|dark]] passage in a painting, [[e/_engraving|engraving]], [[e/_etc|etc]].**
 ---
 #verb
 - **To grow or [[b/_become|become]] [[d/_dark|dark]], [[d/_darken|darken]].**

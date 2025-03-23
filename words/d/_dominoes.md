@@ -10,7 +10,7 @@
 - **A mistake in performing.**
 ---
 ### Synonyms
-- [[2-omino]], [[domino costume]], [[domino mask]], [[eyemask]], [[half mask]]
+- [[2/_2-omino|2-omino]], [[e/_eyemask|eyemask]]
 #noun
 - **[[a/_any|Any]] of several games played by [[a/_arranging|arranging]] [[d/_domino|domino]] tiles on a flat surface.**
 ---

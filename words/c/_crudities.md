@@ -6,5 +6,5 @@
 - **Indigestion; undigested food in the stomach; [[b/_badly|badly]]-[[c/_concocted|concocted]] humours.**
 ---
 ### Synonyms
-- [[crudeness]]
+- [[c/_crudeness|crudeness]]
 ---

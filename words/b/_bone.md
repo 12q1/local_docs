@@ -12,13 +12,13 @@
 - **An off-white [[c/_colour|colour]], like the [[c/_colour|colour]] of [[b/_bone|bone]].**
 - **A [[d/_dollar|dollar]].**
 - **The wishbone formation.**
-- **An erect penis; a [[b/_boner|boner]].**
+- **An [[e/_erect|erect]] penis; a [[b/_boner|boner]].**
 - **([[c/_chiefly|chiefly]] in the plural) A [[d/_domino|domino]] or [[d/_dice|dice]].**
 ---
 ### Synonyms
-- [[rib]], [[stay]]
+- [[r/_rib|rib]], [[s/_stay|stay]]
 #verb
-- **To prepare (meat, etc) by removing the [[b/_bone|bone]] or [[b/_bones|bones]] from.**
+- **To prepare (meat, [[e/_etc|etc]]) by removing the [[b/_bone|bone]] or [[b/_bones|bones]] from.**
 - **To fertilize with [[b/_bone|bone]].**
 - **To put whalebone into.**
 	- _Example: to bone stays_
@@ -31,7 +31,7 @@
 - **To polish [[b/_boots|boots]] to a shiny finish.**
 ---
 ### Synonyms
-- [[debone]], [[unbone]], [[bonk]], [[bury the bone]], [[fuck]], [[screw]], [[shag]]
+- [[d/_debone|debone]], [[u/_unbone|unbone]], [[b/_bonk|bonk]], [[f/_fuck|fuck]], [[s/_screw|screw]], [[s/_shag|shag]]
 #adjective
 - **Of an off-white [[c/_colour|colour]], like the [[c/_colour|colour]] of [[b/_bone|bone]].**
 ---

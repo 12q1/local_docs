@@ -7,5 +7,5 @@
 	- _Example: The chocolate was flavoured artificially._
 ---
 ### Antonyms
-- [[naturally]]
+- [[n/_naturally|naturally]]
 ---

@@ -8,7 +8,7 @@
 - **In a [[c/_curve|curve]] or twist [[c/_corresponding|corresponding]] to the movement of the hands of a [[c/_clock|clock]].**
 ---
 ### Synonyms
-- [[CW]], [[deasil]], [[dextrorotatory]], [[sunwise]]
+- [[C/_CW|CW]], [[d/_deasil|deasil]], [[d/_dextrorotatory|dextrorotatory]], [[s/_sunwise|sunwise]]
 ### Antonyms
-- [[ACW]], [[anticlockwise]], [[CCW]], [[counter-clockwise]], [[counterclockwise]], [[widdershins]], [[withershins]]
+- [[A/_ACW|ACW]], [[a/_anticlockwise|anticlockwise]], [[C/_CCW|CCW]], [[c/_counter-clockwise|counter-clockwise]], [[c/_counterclockwise|counterclockwise]], [[w/_widdershins|widdershins]], [[w/_withershins|withershins]]
 ---

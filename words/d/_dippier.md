@@ -7,5 +7,5 @@
 - **Involving or suited to [[d/_dipping|dipping]].**
 ---
 ### Synonyms
-- [[dotty]]
+- [[d/_dotty|dotty]]
 ---

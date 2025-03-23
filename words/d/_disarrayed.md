@@ -5,5 +5,5 @@
 - **To take off the [[d/_dress|dress]] of; to unrobe.**
 ---
 ### Antonyms
-- [[array]]
+- [[a/_array|array]]
 ---

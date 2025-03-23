@@ -6,5 +6,5 @@
 - **Having an intense [[a/_admiration|admiration]] or fandom**
 ---
 ### Synonyms
-- [[cultlike]]
+- [[c/_cultlike|cultlike]]
 ---

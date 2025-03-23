@@ -6,5 +6,5 @@
 - **A minor related mention, an [[a/_afterthought|afterthought]].**
 ---
 ### Synonyms
-- [[side note]], [[sidebar]]
+- [[s/_sidebar|sidebar]]
 ---

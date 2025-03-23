@@ -4,7 +4,7 @@
 - **A person suffering from [[a/_amnesia|amnesia]]**
 ---
 ### Synonyms
-- [[amnesiac]]
+- [[a/_amnesiac|amnesiac]]
 ### Antonyms
-- [[nonamnesic]]
+- [[n/_nonamnesic|nonamnesic]]
 ---

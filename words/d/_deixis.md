@@ -5,7 +5,7 @@
 	- _Example: Deixis allows for economy of speech but introduces ambiguity when that speech is recorded._
 ---
 ### Synonyms
-- [[indexicality]]
+- [[i/_indexicality|indexicality]]
 ### Antonyms
-- [[homophora]]
+- [[h/_homophora|homophora]]
 ---

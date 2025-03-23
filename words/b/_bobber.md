@@ -7,5 +7,5 @@
 - **A person who rides a [[b/_bobsleigh|bobsleigh]]; a bobsleigher.**
 ---
 ### Synonyms
-- [[cork]], [[float]]
+- [[c/_cork|cork]], [[f/_float|float]]
 ---

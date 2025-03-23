@@ -6,5 +6,5 @@
 - **The game in which the stick is used.**
 ---
 ### Synonyms
-- [[singlestick]]
+- [[s/_singlestick|singlestick]]
 ---

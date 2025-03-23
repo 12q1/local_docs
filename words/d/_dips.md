@@ -39,7 +39,7 @@
 - **To plunge or [[e/_engage|engage]] thoroughly in [[a/_any|any]] [[a/_affair|affair]].**
 - **To take out, by [[d/_dipping|dipping]] a [[d/_dipper|dipper]], ladle, or other receptacle, into a fluid and removing a part; often with out.**
 	- _Example: to dip water from a boiler; to dip out water_
-- **To perform the [[a/_action|action]] of plunging a [[d/_dipper|dipper]], ladle. etc. into a liquid or soft substance and removing a part.**
+- **To perform the [[a/_action|action]] of plunging a [[d/_dipper|dipper]], ladle. [[e/_etc|etc]]. into a liquid or soft substance and removing a part.**
 - **To [[e/_engage|engage]] as a pledge; to mortgage.**
 - **To perform (a [[b/_bow|bow]] or [[c/_curtsey|curtsey]]) by inclining the [[b/_body|body]].**
 - **To incline [[d/_downward|downward]] from the plane of the horizon.**

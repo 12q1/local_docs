@@ -7,5 +7,5 @@
 - **[[c/_capable|Capable]] of [[b/_being|being]] [[e/_educated|educated]].**
 ---
 ### Synonyms
-- [[educatable]]
+- [[e/_educatable|educatable]]
 ---

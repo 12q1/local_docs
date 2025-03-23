@@ -6,5 +6,5 @@
 - **(to a [[b/_book|book]]) an [[a/_appendix|appendix]].**
 ---
 ### Synonyms
-- [[annex]], [[aftertale]], [[afterward]], [[afterscript]]
+- [[a/_annex|annex]], [[a/_aftertale|aftertale]], [[a/_afterward|afterward]], [[a/_afterscript|afterscript]]
 ---

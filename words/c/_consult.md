@@ -8,7 +8,7 @@
 - **A visit, [[e/_e|e]].g. to a [[d/_doctor|doctor]]; a [[c/_consultation|consultation]].**
 ---
 ### Synonyms
-- [[consultation]]
+- [[c/_consultation|consultation]]
 #verb
 - **To seek the opinion or [[a/_advice|advice]] of [[a/_another|another]]; to take [[c/_counsel|counsel]]; to [[d/_deliberate|deliberate]] together; to [[c/_confer|confer]].**
 - **To [[a/_advise|advise]] or offer expertise.**

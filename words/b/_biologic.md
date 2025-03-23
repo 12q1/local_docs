@@ -7,5 +7,5 @@
 - **[[b/_biological|Biological]]; pertaining to [[b/_biology|biology]] or to a living organism.**
 ---
 ### Synonyms
-- [[biological]]
+- [[b/_biological|biological]]
 ---

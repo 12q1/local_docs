@@ -10,7 +10,7 @@
 	- _Example: He gave a convoluted explanation that amounted to little more than a weak excuse for his absence._
 ---
 ### Synonyms
-- [[meandrine]], [[obvolute]], [[torquated]], [[tortuous]]
+- [[m/_meandrine|meandrine]], [[o/_obvolute|obvolute]], [[t/_torquated|torquated]], [[t/_tortuous|tortuous]]
 ### Antonyms
-- [[unconvoluted]], [[unconvoluted]]
+- [[u/_unconvoluted|unconvoluted]], [[u/_unconvoluted|unconvoluted]]
 ---

@@ -9,7 +9,7 @@
 - **An [[a/_assignment|assignment]] of a [[c/_color|color]] to [[e/_each|each]] vertex of a graph such that no two vertices [[c/_connected|connected]] by an [[e/_edge|edge]] are given the same [[c/_color|color]].**
 ---
 ### Synonyms
-- [[coloration]], [[pigment]]
+- [[c/_coloration|coloration]], [[p/_pigment|pigment]]
 ### Antonyms
-- [[bleach]], [[neutral]], [[shade]]
+- [[b/_bleach|bleach]], [[n/_neutral|neutral]], [[s/_shade|shade]]
 ---

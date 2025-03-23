@@ -14,13 +14,13 @@
 - **To [[b/_bind|bind]]; to hold by a moral tie.**
 ---
 ### Antonyms
-- [[disunite]], [[divide]], [[separate]]
+- [[d/_disunite|disunite]], [[d/_divide|divide]], [[s/_separate|separate]]
 #adjective
-- **Resulting from the [[a/_addition|addition]] of several sources, parts, [[e/_elements|elements]], [[a/_aspects|aspects]], etc. [[a/_able|able]] to be united together, to [[c/_converge|converge]].**
+- **Resulting from the [[a/_addition|addition]] of several sources, parts, [[e/_elements|elements]], [[a/_aspects|aspects]], [[e/_etc|etc]]. [[a/_able|able]] to be united together, to [[c/_converge|converge]].**
 	- _Example: The combined efforts of the emergency workers kept the river from going over its banks, barely._
 ---
 ### Antonyms
-- [[divided]], [[separated]], [[uncombined]]
+- [[d/_divided|divided]], [[s/_separated|separated]], [[u/_uncombined|uncombined]]
 #noun
 - **An event which [[c/_combines|combines]] runs on a [[c/_cross|cross]]-[[c/_country|country]] skiing [[c/_course|course]] and a ski jumping hill, for individual skiers.**
 ---

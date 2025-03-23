@@ -13,5 +13,5 @@
 - **Of or relating to [[c/_consonants|consonants]]; made up of, or [[c/_containing|containing]] many, [[c/_consonants|consonants]].**
 ---
 ### Antonyms
-- [[disconsonant]], [[discordant]], [[dissonant]]
+- [[d/_disconsonant|disconsonant]], [[d/_discordant|discordant]], [[d/_dissonant|dissonant]]
 ---

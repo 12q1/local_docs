@@ -5,5 +5,5 @@
 - **(by extension) To [[e/_entangle|entangle]].**
 ---
 ### Synonyms
-- [[encircle]], [[enfold]], [[lace]]
+- [[e/_encircle|encircle]], [[e/_enfold|enfold]], [[l/_lace|lace]]
 ---

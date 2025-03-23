@@ -16,5 +16,5 @@
 - **To [[c/_colour|colour]] (something with highlights); to [[a/_add|add]] small [[a/_amounts|amounts]] of [[c/_colour|colour]] to (something).**
 ---
 ### Synonyms
-- [[crackle]], [[creak]], [[crunch]], [[rustle]], [[crispen]], [[crispen]], [[tinge]]
+- [[c/_crackle|crackle]], [[c/_creak|creak]], [[c/_crunch|crunch]], [[r/_rustle|rustle]], [[c/_crispen|crispen]], [[c/_crispen|crispen]], [[t/_tinge|tinge]]
 ---

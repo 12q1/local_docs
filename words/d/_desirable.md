@@ -9,5 +9,5 @@
 	- _Example: This applicant has almost all desirable properties._
 ---
 ### Antonyms
-- [[undesirable]]
+- [[u/_undesirable|undesirable]]
 ---

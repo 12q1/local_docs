@@ -5,7 +5,7 @@
 - **Suitable for [[d/_dating|dating]] (romantic outings).**
 ---
 ### Synonyms
-- [[attractive]]
+- [[a/_attractive|attractive]]
 ### Antonyms
-- [[undateable]]
+- [[u/_undateable|undateable]]
 ---

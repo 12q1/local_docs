@@ -16,5 +16,5 @@
 	- _Example: Digital payment systems are replacing cash transactions._
 ---
 ### Antonyms
-- [[analog]], [[analogue]], [[continuous]], [[nondigital]], [[undigital]]
+- [[a/_analog|analog]], [[a/_analogue|analogue]], [[c/_continuous|continuous]], [[n/_nondigital|nondigital]], [[u/_undigital|undigital]]
 ---

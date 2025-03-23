@@ -27,7 +27,7 @@
 - **Initialism of [[a/_absolute|absolute]] value function.**
 ---
 ### Synonyms
-- [[abdominal]], [[abdominal muscle]]
+- [[a/_abdominal|abdominal]]
 #noun
 - **Thermodynamic temperature; temperature measured on an [[a/_absolute|absolute]] scale such as the Kelvin scale.**
 ---
@@ -46,7 +46,7 @@
 - **Of a [[c/_class|class]] in object-oriented programming, [[b/_being|being]] a partial [[b/_basis|basis]] for subclasses rather than a [[c/_complete|complete]] template for objects.**
 ---
 ### Synonyms
-- [[abstruse]], [[ascriptive]], [[attributive]], [[conceptual]], [[ideal]], [[imaginary]], [[incorporeal]], [[intangible]], [[nonempirical]], [[theoretical]], [[conceptual]], [[theoretical]], [[formal]], [[general]], [[generalized]], [[generic]], [[nonspecific]], [[representational]]
+- [[a/_abstruse|abstruse]], [[a/_ascriptive|ascriptive]], [[a/_attributive|attributive]], [[c/_conceptual|conceptual]], [[i/_ideal|ideal]], [[i/_imaginary|imaginary]], [[i/_incorporeal|incorporeal]], [[i/_intangible|intangible]], [[n/_nonempirical|nonempirical]], [[t/_theoretical|theoretical]], [[c/_conceptual|conceptual]], [[t/_theoretical|theoretical]], [[f/_formal|formal]], [[g/_general|general]], [[g/_generalized|generalized]], [[g/_generic|generic]], [[n/_nonspecific|nonspecific]], [[r/_representational|representational]]
 ### Antonyms
-- [[actual]], [[concrete]], [[corporeal]], [[empirical]], [[applied]], [[practical]], [[discrete]], [[particular]], [[precise]], [[specific]]
+- [[a/_actual|actual]], [[c/_concrete|concrete]], [[c/_corporeal|corporeal]], [[e/_empirical|empirical]], [[a/_applied|applied]], [[p/_practical|practical]], [[d/_discrete|discrete]], [[p/_particular|particular]], [[p/_precise|precise]], [[s/_specific|specific]]
 ---

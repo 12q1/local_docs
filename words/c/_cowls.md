@@ -18,6 +18,6 @@
 - **A vessel [[c/_carried|carried]] on a pole, a soe.**
 ---
 #noun
-- **A [[c/_caul|caul]] (the [[a/_amnion|amnion]] which [[e/_encloses|encloses]] the foetus [[b/_before|before]] [[b/_birth|birth]], especially that part of it which sometimes shrouds a [[b/_baby|baby]]’s head at [[b/_birth|birth]]).**
+- **A [[c/_caul|caul]] (the [[a/_amnion|amnion]] which [[e/_encloses|encloses]] the foetus [[b/_before|before]] [[b/_birth|birth]], [[e/_especially|especially]] that part of it which sometimes shrouds a [[b/_baby|baby]]’s head at [[b/_birth|birth]]).**
 ---
 ---

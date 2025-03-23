@@ -10,5 +10,5 @@
 	- _Example: Don't come too close; I've got this nasty complaint._
 ---
 ### Synonyms
-- [[(criminal) charges]], [[(penal) charge]], [[complaint of an offence/offense]], [[criminal complaint]], [[criminal information]], [[informing the police/authorities]], [[notification of the police/authorities]], [[reporting an offence/offense to the police/authorities]]
+- 
 ---

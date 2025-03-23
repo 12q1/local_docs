@@ -5,5 +5,5 @@
 	- _Example: Being aware of the danger of upsetting her audience, she was somewhat circumspect in her comments._
 ---
 ### Synonyms
-- [[cautious]], [[chary]], [[prudent]], [[thoughtful]], [[vigilant]], [[wary]]
+- [[c/_cautious|cautious]], [[c/_chary|chary]], [[p/_prudent|prudent]], [[t/_thoughtful|thoughtful]], [[v/_vigilant|vigilant]], [[w/_wary|wary]]
 ---

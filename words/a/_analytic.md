@@ -11,5 +11,5 @@
 - **Of a language, having a grammar principally [[d/_dependent|dependent]] on the [[a/_arrangement|arrangement]] of uninflected words within sentences to indicate meaning. [[c/_compare|Compare]] synthetic.**
 ---
 ### Antonyms
-- [[contingent]]
+- [[c/_contingent|contingent]]
 ---

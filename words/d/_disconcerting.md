@@ -5,5 +5,5 @@
 	- _Example: Even with a safety harness, losing one's grip that high up is disconcerting._
 ---
 ### Synonyms
-- [[troubling]], [[unsettling]], [[upsetting]]
+- [[t/_troubling|troubling]], [[u/_unsettling|unsettling]], [[u/_upsetting|upsetting]]
 ---

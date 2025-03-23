@@ -12,7 +12,7 @@
 - **The oil of the [[b/_ben|ben]] seed.**
 ---
 ### Synonyms
-- [[drumstick tree]], [[horseradish tree]], [[moringa]]
+- [[m/_moringa|moringa]]
 #noun
 - **A Scottish or Irish mountain or high peak.**
 ---

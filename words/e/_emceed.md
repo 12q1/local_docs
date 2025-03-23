@@ -5,5 +5,5 @@
 - **To rap as part of a hip-hop performance.**
 ---
 ### Synonyms
-- [[compere]], [[rap]]
+- [[c/_compere|compere]], [[r/_rap|rap]]
 ---

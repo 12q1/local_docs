@@ -11,7 +11,7 @@
 	- _Example: He cheated his way into office._
 ---
 ### Synonyms
-- [[belirt]], [[blench]], [[break the rules]], [[lirt]]
+- [[b/_belirt|belirt]], [[b/_blench|blench]], [[l/_lirt|lirt]]
 #noun
 - **An [[a/_act|act]] of [[d/_deception|deception]], fraud, trickery, imposture, imposition or infidelity.**
 - **The [[a/_arrangement|arrangement]] of people or items in a film so as to give the (false) impression that shots are taken from [[d/_different|different]] [[a/_angles|angles]] in the same location.**

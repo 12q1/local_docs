@@ -5,5 +5,5 @@
 - **A [[d/_delicacy|delicacy]] popular in Japan, [[c/_consisting|consisting]] of the fish served raw as sushi or perhaps fried. It may, if improperly prepared, [[c/_contain|contain]] [[c/_considerably|considerably]] [[d/_deadly|deadly]] levels of neurotoxins.**
 ---
 ### Synonyms
-- [[balloonfish]], [[globefish]], [[puffer]], [[pufferfish]], [[swellfish]], [[fugu]]
+- [[b/_balloonfish|balloonfish]], [[g/_globefish|globefish]], [[p/_puffer|puffer]], [[p/_pufferfish|pufferfish]], [[s/_swellfish|swellfish]], [[f/_fugu|fugu]]
 ---

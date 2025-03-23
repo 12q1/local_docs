@@ -8,7 +8,7 @@
 - **To make [[b/_busy|busy]].**
 ---
 ### Synonyms
-- [[hire]], [[apply]], [[use]], [[utilize]]
+- [[h/_hire|hire]], [[a/_apply|apply]], [[u/_use|use]], [[u/_utilize|utilize]]
 #adjective
 - **In a job; working.**
 - **Used; in use.**

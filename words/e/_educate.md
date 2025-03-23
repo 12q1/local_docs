@@ -5,7 +5,7 @@
 	- _Example: Wang said such changes to the Baishui glacier provide the chance to educate visitors about global warming._
 ---
 ### Synonyms
-- [[instruct]], [[teach]]
+- [[i/_instruct|instruct]], [[t/_teach|teach]]
 ### Antonyms
-- [[ignorize]]
+- [[i/_ignorize|ignorize]]
 ---

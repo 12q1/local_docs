@@ -15,7 +15,7 @@
 - **To [[b/_boil|boil]] or seethe; to [[c/_cook|cook]].**
 ---
 ### Synonyms
-- [[contrive]], [[hatch]], [[plot]]
+- [[c/_contrive|contrive]], [[h/_hatch|hatch]], [[p/_plot|plot]]
 #noun
 - **A hill or overhanging [[c/_cliff|cliff]].**
 ---

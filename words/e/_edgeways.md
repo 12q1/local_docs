@@ -10,5 +10,5 @@
 - **With the [[e/_edge|edge]] uppermost.**
 ---
 ### Synonyms
-- [[edgewise]]
+- [[e/_edgewise|edgewise]]
 ---

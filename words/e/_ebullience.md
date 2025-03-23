@@ -5,5 +5,5 @@
 - **The quality of [[e/_enthusiastic|enthusiastic]] or lively expression of feelings and thoughts.**
 ---
 ### Synonyms
-- [[exuberance]]
+- [[e/_exuberance|exuberance]]
 ---

@@ -9,11 +9,11 @@
 - **Occurring twice a week (but see the Usage notes).**
 ---
 ### Synonyms
-- [[fortnightly]], [[twi-weekly]], [[semiweekly]], [[twice-weekly]]
+- [[f/_fortnightly|fortnightly]], [[t/_twi-weekly|twi-weekly]], [[s/_semiweekly|semiweekly]], [[t/_twice-weekly|twice-weekly]]
 #adverb
 - **Every two weeks.**
 - **Twice a week (but see the Usage notes).**
 ---
 ### Synonyms
-- [[fortnightly]], [[semi-weekly]], [[twice]], [[weekly]]
+- [[f/_fortnightly|fortnightly]], [[s/_semi-weekly|semi-weekly]], [[t/_twice|twice]], [[w/_weekly|weekly]]
 ---

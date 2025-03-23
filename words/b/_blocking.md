@@ -13,11 +13,11 @@
 	- _Example: It was very difficult to block this scene convincingly._
 - **To hit with a [[b/_block|block]].**
 - **To play a [[b/_block|block]] shot.**
-- **To [[d/_disable|disable]] [[c/_communication|communication]] via telephone, instant messaging, etc., with an undesirable someone.**
+- **To [[d/_disable|disable]] [[c/_communication|communication]] via telephone, instant messaging, [[e/_etc|etc]]., with an undesirable someone.**
 	- _Example: I tried to send you a message, but you've blocked me!_
 - **To wait.**
 	- _Example: When the condition expression is false, the thread blocks on the condition variable._
-- **To stretch or mould (a knitted item, a hat, etc.) into the [[d/_desired|desired]] shape.**
+- **To stretch or mould (a knitted item, a hat, [[e/_etc|etc]].) into the [[d/_desired|desired]] shape.**
 	- _Example: I blocked the mittens by wetting them and pinning them to a shaped piece of cardboard._
 - **To shape or sketch out roughly.**
 ---
@@ -25,7 +25,7 @@
 - **The [[a/_act|act]] by which something is [[b/_blocked|blocked]]; an obstruction.**
 	- _Example: blocking of major opposition sites_
 - **The precise movement and positioning of [[a/_actors|actors]] on a stage in order to facilitate the performance of a play, [[b/_ballet|ballet]], film or opera (originally planned using miniature [[b/_blocks|blocks]]).**
-- **[[b/_blocks|Blocks]] used to support (a [[b/_building|building]], etc.) temporarily.**
+- **[[b/_blocks|Blocks]] used to support (a [[b/_building|building]], [[e/_etc|etc]].) temporarily.**
 - **A feature that prevents a keyboard from registering multiple simultaneous keypresses that would [[c/_cause|cause]] ghosting.**
 ---
 ---

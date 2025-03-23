@@ -6,5 +6,5 @@
 	- _Example: The word “hello” fits into five bytes of ASCII code._
 ---
 ### Synonyms
-- [[B]], [[octet]]
+- [[B/_B|B]], [[o/_octet|octet]]
 ---

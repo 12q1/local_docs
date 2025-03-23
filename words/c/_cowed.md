@@ -8,5 +8,5 @@
 - **Frightened into submission.**
 ---
 ### Synonyms
-- [[intimidated]]
+- [[i/_intimidated|intimidated]]
 ---

@@ -10,10 +10,10 @@
 #adjective
 - **In a [[d/_depraved|depraved]] state; [[d/_debased|debased]]; perverted; morally [[d/_degenerate|degenerate]]; weak in morals.**
 	- _Example: The government here is corrupt, so we'll emigrate to escape them._
-- **[[a/_abounding|Abounding]] in errors; not genuine or [[c/_correct|correct]]; in an invalid state.**
+- **[[a/_abounding|Abounding]] in [[e/_errors|errors]]; not genuine or [[c/_correct|correct]]; in an invalid state.**
 	- _Example: It turned out that the program was corrupt - that's why it wouldn't open._
 - **In a putrid state; spoiled; tainted; vitiated; unsound.**
 ---
 ### Synonyms
-- [[corrupted]]
+- [[c/_corrupted|corrupted]]
 ---

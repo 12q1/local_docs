@@ -8,6 +8,6 @@
 - **A [[b/_boundary|boundary]] [[a/_around|around]] a prison, prisoners [[c/_crossing|crossing]] which would be shot.**
 ---
 #verb
-- **To render an item non-mission-[[c/_capable|capable]]; to ground an [[a/_aircraft|aircraft]], etc.**
+- **To render an item non-mission-[[c/_capable|capable]]; to ground an [[a/_aircraft|aircraft]], [[e/_etc|etc]].**
 ---
 ---

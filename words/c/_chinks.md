@@ -1,10 +1,10 @@
 # Chinks
 ---
 #noun
-- **A person of perceived [[c/_chinese|Chinese]] ethnicity.**
+- **A person of perceived [[c/_chinese|Chinese]] [[e/_ethnicity|ethnicity]].**
 ---
 ### Synonyms
-- [[Chinaman]], [[gook]]
+- [[C/_Chinaman|Chinaman]], [[g/_gook|gook]]
 #noun
 - **A narrow opening such as a fissure or [[c/_crack|crack]].**
 - **A [[c/_chip|chip]] or [[d/_dent|dent]] in something metallic.**
@@ -20,12 +20,12 @@
 ---
 #noun
 - **A slight sound as of metal objects touching [[e/_each|each]] other; a [[c/_clink|clink]].**
-- **Ready money, especially in the form of [[c/_coins|coins]].**
+- **Ready money, [[e/_especially|especially]] in the form of [[c/_coins|coins]].**
 ---
 #verb
 - **To make a slight sound like that of metal objects touching.**
 	- _Example: The coins were chinking in his pocket._
-- **To [[c/_cause|cause]] to make a sharp metallic sound, as [[c/_coins|coins]], small pieces of metal, etc., by [[b/_bringing|bringing]] them into [[c/_collision|collision]] with [[e/_each|each]] other.**
+- **To [[c/_cause|cause]] to make a sharp metallic sound, as [[c/_coins|coins]], small pieces of metal, [[e/_etc|etc]]., by [[b/_bringing|bringing]] them into [[c/_collision|collision]] with [[e/_each|each]] other.**
 ---
 #noun
 - **A [[c/_convulsive|convulsive]] fit of [[c/_coughing|coughing]] or laughter; a sonorous indraft of [[b/_breath|breath]]; a whoop; a gasp of [[b/_breath|breath]] [[c/_caused|caused]] by laughing, [[c/_coughing|coughing]], or [[c/_crying|crying]].**

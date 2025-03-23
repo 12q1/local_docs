@@ -4,7 +4,7 @@
 - **A house of prostitution.**
 ---
 ### Synonyms
-- [[academy]], [[bawdy-house]], [[bordello]], [[cathouse]], [[crib]], [[disorderly house]], [[house of ill fame]], [[house of ill reputation]], [[house of ill repute]], [[knocking shop]], [[leaping house]], [[lupanar]], [[massage parlour]], [[nunnery]], [[pushing school]], [[red house]], [[sauna]], [[sporting house]], [[vaulting school]], [[whorehouse]]
+- [[a/_academy|academy]], [[b/_bawdy-house|bawdy-house]], [[b/_bordello|bordello]], [[c/_cathouse|cathouse]], [[c/_crib|crib]], [[l/_lupanar|lupanar]], [[n/_nunnery|nunnery]], [[s/_sauna|sauna]], [[w/_whorehouse|whorehouse]]
 #noun
 - **A wretch; a [[d/_depraved|depraved]] or lewd person.**
 ---

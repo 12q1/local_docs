@@ -11,7 +11,7 @@
 	- _Example: The value of his portfolio appreciated by 80% over eight years._
 ---
 ### Synonyms
-- [[esteem]], [[esteem]], [[grasp]]
+- [[e/_esteem|esteem]], [[e/_esteem|esteem]], [[g/_grasp|grasp]]
 ### Antonyms
-- [[depreciate]]
+- [[d/_depreciate|depreciate]]
 ---

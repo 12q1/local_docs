@@ -10,7 +10,7 @@
 - **Explicitly [[a/_allowed|allowed]].**
 ---
 ### Synonyms
-- [[allowed]], [[permitted]]
+- [[a/_allowed|allowed]], [[p/_permitted|permitted]]
 ### Antonyms
-- [[unauthorized]]
+- [[u/_unauthorized|unauthorized]]
 ---

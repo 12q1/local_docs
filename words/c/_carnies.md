@@ -9,7 +9,7 @@
 - **A [[c/_carnival|carnival]].**
 ---
 ### Synonyms
-- [[showie]]
+- [[s/_showie|showie]]
 #verb
 - **To [[c/_cajole|cajole]], wheedle, or [[c/_coax|coax]].**
 ---

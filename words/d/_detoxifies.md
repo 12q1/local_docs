@@ -4,5 +4,5 @@
 - **To remove foreign and harmful substances from something.**
 ---
 ### Synonyms
-- [[detoxicate]]
+- [[d/_detoxicate|detoxicate]]
 ---

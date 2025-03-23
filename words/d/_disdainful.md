@@ -5,7 +5,7 @@
 	- _Example: He was disdainful of those he thought of as the little people. He openly sneered at them. They mocked him behind his back._
 ---
 ### Synonyms
-- [[contemptuous]], [[despising]], [[scornful]]
+- [[c/_contemptuous|contemptuous]], [[d/_despising|despising]], [[s/_scornful|scornful]]
 ### Antonyms
-- [[respectful]]
+- [[r/_respectful|respectful]]
 ---

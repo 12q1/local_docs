@@ -7,5 +7,5 @@
 	- _Example: Amid the seemingly endless destruction, a single flower bloomed._
 ---
 ### Antonyms
-- [[construction]]
+- [[c/_construction|construction]]
 ---

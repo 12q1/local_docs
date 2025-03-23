@@ -5,5 +5,5 @@
 - **A place where [[d/_deposits|deposits]] are kept**
 ---
 ### Synonyms
-- [[trustee]], [[depository]]
+- [[t/_trustee|trustee]], [[d/_depository|depository]]
 ---

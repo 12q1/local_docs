@@ -6,5 +6,5 @@
 - **Lack of immunity to an [[a/_antigen|antigen]].**
 ---
 ### Antonyms
-- [[exergy]], [[free energy]], [[synergy]]
+- [[e/_exergy|exergy]], [[s/_synergy|synergy]]
 ---

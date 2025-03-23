@@ -7,7 +7,7 @@
 - **To join in sexual intercourse; to [[c/_copulate|copulate]].**
 ---
 ### Synonyms
-- [[have sex]], [[make love]], [[bewed]], [[espouse]], [[affix]], [[attach]], [[put together]]
+- [[b/_bewed|bewed]], [[e/_espouse|espouse]], [[a/_affix|affix]], [[a/_attach|attach]]
 #noun
 - **[[a/_act|Act]] of joining together to form a [[c/_couple|couple]]**
 - **A [[d/_device|device]] that [[c/_couples|couples]] two things together**
@@ -17,7 +17,7 @@
 - **(sexuality) sexual intercourse**
 ---
 ### Synonyms
-- [[dependency]]
+- [[d/_dependency|dependency]]
 ### Antonyms
-- [[cohesion]]
+- [[c/_cohesion|cohesion]]
 ---

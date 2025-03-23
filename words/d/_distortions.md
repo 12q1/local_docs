@@ -11,5 +11,5 @@
 - **(optics) an [[a/_aberration|aberration]] that [[c/_causes|causes]] magnification to [[c/_change|change]] over the field of view.**
 ---
 ### Synonyms
-- [[deformation]], [[disfigurement]]
+- [[d/_deformation|deformation]], [[d/_disfigurement|disfigurement]]
 ---

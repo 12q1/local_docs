@@ -6,7 +6,7 @@
 - **That [[c/_can|can]] be [[a/_assigned|assigned]]; [[a/_assignable|assignable]].**
 ---
 ### Synonyms
-- [[believable]], [[credible]], [[commendable]], [[respectable]], [[assignable]]
+- [[b/_believable|believable]], [[c/_credible|credible]], [[c/_commendable|commendable]], [[r/_respectable|respectable]], [[a/_assignable|assignable]]
 ### Antonyms
-- [[incredible]], [[increditable]], [[unbelievable]]
+- [[i/_incredible|incredible]], [[i/_increditable|increditable]], [[u/_unbelievable|unbelievable]]
 ---

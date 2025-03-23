@@ -6,7 +6,7 @@
 - **The heart or inner part of a physical thing**
 - **The [[c/_center|center]] or inner part of a space or [[a/_area|area]]**
 	- _Example: the core of a square_
-- **The most important part of a thing; the essence.**
+- **The most important part of a thing; the [[e/_essence|essence]].**
 	- _Example: the core of a subject_
 - **The portion of a mold that [[c/_creates|creates]] an internal [[c/_cavity|cavity]] within a [[c/_casting|casting]] or that makes a hole in or through a [[c/_casting|casting]].**
 - **The [[b/_bony|bony]] process which forms the [[c/_central|central]] [[a/_axis|axis]] of the horns in many [[a/_animals|animals]].**
@@ -30,5 +30,5 @@
 - **To extract a sample with a [[d/_drill|drill]].**
 ---
 ### Synonyms
-- [[crux]], [[gist]]
+- [[c/_crux|crux]], [[g/_gist|gist]]
 ---

@@ -12,5 +12,5 @@
 - **Those who are [[e/_elected|elected]].**
 ---
 ### Synonyms
-- [[chosenness]]
+- [[c/_chosenness|chosenness]]
 ---

@@ -6,5 +6,5 @@
 - **[[b/_boredom|Boredom]].**
 ---
 ### Synonyms
-- [[accedie]], [[ennui]], [[weltschmerz]], [[apathy]], [[indifference]]
+- [[a/_accedie|accedie]], [[e/_ennui|ennui]], [[w/_weltschmerz|weltschmerz]], [[a/_apathy|apathy]], [[i/_indifference|indifference]]
 ---

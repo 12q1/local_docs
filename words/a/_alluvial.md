@@ -8,5 +8,5 @@
 - **Pertaining to the soil [[d/_deposited|deposited]] by a stream.**
 ---
 ### Synonyms
-- [[fluvial]]
+- [[f/_fluvial|fluvial]]
 ---

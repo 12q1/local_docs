@@ -7,5 +7,5 @@
 	- _Example: In his epistemology, Plato maintains that our knowledge of universal concepts is a kind of recollection._
 ---
 ### Synonyms
-- [[epistemics]]
+- [[e/_epistemics|epistemics]]
 ---

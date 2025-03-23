@@ -18,12 +18,12 @@
 	- _Example: The crowd cheered in support of the athletes._
 ---
 ### Antonyms
-- [[boo]]
+- [[b/_boo|boo]]
 #interjection
 - **A [[c/_common|common]] toast used when [[d/_drinking|drinking]] in [[c/_company|company]].**
-- **Goodbye, especially as a sign-off in an [[e/_email|email]] or [[a/_after|after]] writing a [[c/_comment|comment]].**
+- **Goodbye, [[e/_especially|especially]] as a sign-off in an [[e/_email|email]] or [[a/_after|after]] writing a [[c/_comment|comment]].**
 - **Thank you**
 ---
 ### Synonyms
-- [[bottoms up]], [[chin chin]], [[down the hatch]], [[here’s mud in your eye]], [[skoal]], [[bye]], [[catch you later]], [[cheerio]], [[laters]], [[see you]], [[see you after]], [[see you later]], [[see you later alligator]], [[so long]], [[ta-ta]], [[ta]], [[thanks]]
+- [[s/_skoal|skoal]], [[b/_bye|bye]], [[c/_cheerio|cheerio]], [[l/_laters|laters]], [[t/_ta-ta|ta-ta]], [[t/_ta|ta]], [[t/_thanks|thanks]]
 ---

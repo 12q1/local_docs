@@ -7,7 +7,7 @@
 - **To strike gently or playfully.**
 ---
 ### Synonyms
-- [[bip]], [[boop]]
+- [[b/_bip|bip]], [[b/_boop|boop]]
 #noun
 - **A style of improvised jazz from the 1940s.**
 - **(Oxbridge slang) A party.**
@@ -18,5 +18,5 @@
 - **To have sex.**
 ---
 ### Synonyms
-- [[bang]], [[do it]], [[get it on]]
+- [[b/_bang|bang]]
 ---

@@ -6,5 +6,5 @@
 - **A [[b/_book|book]] having pages of that size.**
 ---
 ### Synonyms
-- [[12mo]], [[12º]], [[D]], [[twelvemo]], [[12mo]], [[12º]], [[twelvemo]]
+- [[1/_12mo|12mo]], [[1/_12º|12º]], [[D/_D|D]], [[t/_twelvemo|twelvemo]], [[1/_12mo|12mo]], [[1/_12º|12º]], [[t/_twelvemo|twelvemo]]
 ---

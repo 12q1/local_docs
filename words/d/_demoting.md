@@ -5,5 +5,5 @@
 - **To relegate.**
 ---
 ### Antonyms
-- [[promote]]
+- [[p/_promote|promote]]
 ---

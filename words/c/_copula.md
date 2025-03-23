@@ -7,5 +7,5 @@
 - **The [[a/_act|act]] of [[c/_copulation|copulation]]; mating.**
 ---
 ### Synonyms
-- [[copular]], [[copular verb]], [[linking verb]]
+- [[c/_copular|copular]]
 ---

@@ -5,7 +5,7 @@
 - **A [[b/_branch|branch]] office of such an institution.**
 - **An underwriter or [[c/_controller|controller]] of a [[c/_card|card]] game; [[a/_also|also]] [[b/_banque|banque]].**
 - **A fund from [[d/_deposits|deposits]] or [[c/_contributions|contributions]], to be used in transacting [[b/_business|business]]; a joint stock or [[c/_capital|capital]].**
-- **The sum of money etc. which the [[d/_dealer|dealer]] or [[b/_banker|banker]] has as a fund from which to [[d/_draw|draw]] stakes and pay losses.**
+- **The sum of money [[e/_etc|etc]]. which the [[d/_dealer|dealer]] or [[b/_banker|banker]] has as a fund from which to [[d/_draw|draw]] stakes and pay losses.**
 - **Money; profit**
 - **In [[c/_certain|certain]] games, such as [[d/_dominos|dominos]], a fund of pieces from which the players are [[a/_allowed|allowed]] to [[d/_draw|draw]].**
 - **A safe and guaranteed place of storage for and retrieval of important items or goods.**
@@ -14,7 +14,7 @@
 	- _Example: If you want to buy a bicycle, you need to put the money in your piggy bank._
 ---
 ### Synonyms
-- [[banker]]
+- [[b/_banker|banker]]
 #verb
 - **To [[d/_deal|deal]] with a [[b/_bank|bank]] or financial institution, or for an institution to provide financial services to a [[c/_client|client]].**
 	- _Example: He banked with Barclays._
@@ -27,8 +27,8 @@
 - **An [[e/_edge|edge]] of river, lake, or other watercourse.**
 - **An [[e/_elevation|elevation]], or rising ground, under the sea; a shallow [[a/_area|area]] of shifting sand, gravel, mud, and so forth (for example, a sandbank or mudbank).**
 	- _Example: the banks of Newfoundland_
-- **A slope of [[e/_earth|earth]], sand, etc.; an [[e/_embankment|embankment]].**
-- **The incline of an [[a/_aircraft|aircraft]], especially [[d/_during|during]] a turn.**
+- **A slope of [[e/_earth|earth]], sand, [[e/_etc|etc]].; an [[e/_embankment|embankment]].**
+- **The incline of an [[a/_aircraft|aircraft]], [[e/_especially|especially]] [[d/_during|during]] a turn.**
 - **An incline, a hill.**
 - **A mass noun for a quantity of [[c/_clouds|clouds]].**
 	- _Example: The bank of clouds on the horizon announced the arrival of the predicted storm front._
@@ -50,12 +50,12 @@
 #noun
 - **A row or panel of items stored or grouped together.**
 	- _Example: a bank of pay phones_
-- **A row of keys on a musical keyboard or the equivalent on a typewriter keyboard.**
+- **A row of keys on a musical keyboard or the [[e/_equivalent|equivalent]] on a typewriter keyboard.**
 - **A [[c/_contiguous|contiguous]] [[b/_block|block]] of memory that is of fixed, hardware-[[d/_dependent|dependent]] size, but often larger than a page and partitioning the memory such that two [[d/_distinct|distinct]] [[b/_banks|banks]] [[d/_do|do]] not overlap.**
 - **A set of multiple [[a/_adjacent|adjacent]] [[d/_drop|drop]] targets.**
 ---
 ### Synonyms
-- [[block]], [[grid]], [[line]], [[panel]], [[rank]], [[tier]]
+- [[b/_block|block]], [[g/_grid|grid]], [[l/_line|line]], [[p/_panel|panel]], [[r/_rank|rank]], [[t/_tier|tier]]
 #verb
 - **(order and [[a/_arrangement|arrangement]]) To [[a/_arrange|arrange]] or order in a row.**
 ---

@@ -5,7 +5,7 @@
 	- _Example: He was already buffing the car's hubs._
 - **To make a [[c/_character|character]] or an item stronger.**
 	- _Example: I noticed that the pistols were buffed in the update._
-- **To modify a medical [[c/_chart|chart]], especially in a [[d/_dishonest|dishonest]] manner.**
+- **To modify a medical [[c/_chart|chart]], [[e/_especially|especially]] in a [[d/_dishonest|dishonest]] manner.**
 ---
 #verb
 - **To strike.**

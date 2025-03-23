@@ -6,5 +6,5 @@
 - **An orange-red [[d/_dye|dye]] obtained from this seed.**
 ---
 ### Synonyms
-- [[E160b]], [[annatto]]
+- [[E/_E160b|E160b]], [[a/_annatto|annatto]]
 ---

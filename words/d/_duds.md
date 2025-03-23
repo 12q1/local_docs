@@ -6,8 +6,8 @@
 - **[[c/_clothes|Clothes]], now [[a/_always|always]] used in plural form [[d/_duds|duds]].**
 ---
 ### Synonyms
-- [[blank]]
+- [[b/_blank|blank]]
 #noun
-- **[[c/_clothing|Clothing]], especially for work or of rough [[a/_appearance|appearance]].**
+- **[[c/_clothing|Clothing]], [[e/_especially|especially]] for work or of rough [[a/_appearance|appearance]].**
 ---
 ---

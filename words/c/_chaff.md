@@ -9,7 +9,7 @@
 - **Loose material, [[e/_e|e]].g. small strips of [[a/_aluminum|aluminum]] foil [[d/_dropped|dropped]] from [[a/_aircraft|aircraft]], intended to interfere with radar [[d/_detection|detection]].**
 ---
 ### Synonyms
-- [[window]]
+- [[w/_window|window]]
 #verb
 - **To use light, idle language by way of fun or ridicule; to [[b/_banter|banter]].**
 - **To make fun of; to turn into ridicule by [[a/_addressing|addressing]] in ironical or [[b/_bantering|bantering]] language; to quiz.**

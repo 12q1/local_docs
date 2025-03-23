@@ -6,5 +6,5 @@
 - **A sweet [[c/_chocolate|chocolate]]-like [[c/_confection|confection]] made with the pulp of the fruit.**
 ---
 ### Synonyms
-- [[St. John's bread]], [[locust bean]]
+- 
 ---

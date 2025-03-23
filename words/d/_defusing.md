@@ -1,7 +1,7 @@
 # Defusing
 ---
 #verb
-- **To remove the fuse from (a [[b/_bomb|bomb]], etc.).**
+- **To remove the fuse from (a [[b/_bomb|bomb]], [[e/_etc|etc]].).**
 - **To make less [[d/_dangerous|dangerous]], tense, or hostile.**
 	- _Example: to defuse a hostage situation_
 ---

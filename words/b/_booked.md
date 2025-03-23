@@ -17,5 +17,5 @@
 	- _Example: He was here earlier, but he booked._
 ---
 ### Synonyms
-- [[bomb]], [[hurtle]], [[rocket]], [[shoot]], [[speed]], [[whiz]], [[make a note of]], [[note down]], [[record]], [[write down]], [[reserve]]
+- [[b/_bomb|bomb]], [[h/_hurtle|hurtle]], [[r/_rocket|rocket]], [[s/_shoot|shoot]], [[s/_speed|speed]], [[w/_whiz|whiz]], [[r/_record|record]], [[r/_reserve|reserve]]
 ---

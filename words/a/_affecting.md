@@ -12,7 +12,7 @@
 - **To [[a/_assign|assign]]; to [[a/_appoint|appoint]].**
 ---
 ### Synonyms
-- [[alter]], [[change]], [[have an effect on]], [[have an impact on]], [[influence]], [[attack]], [[harm]], [[infect]], [[move]], [[touch]]
+- [[a/_alter|alter]], [[c/_change|change]], [[i/_influence|influence]], [[a/_attack|attack]], [[h/_harm|harm]], [[i/_infect|infect]], [[m/_move|move]], [[t/_touch|touch]]
 #verb
 - **To make a show of; to put on a pretense of; to feign; to [[a/_assume|assume]]. To make a false [[d/_display|display]] of.**
 	- _Example: He managed to affect a smile despite feeling quite miserable._
@@ -21,7 +21,7 @@
 - **To show a fondness for (something); to [[c/_choose|choose]].**
 ---
 ### Synonyms
-- [[fake]], [[feign]], [[simulate]]
+- [[f/_fake|fake]], [[f/_feign|feign]], [[s/_simulate|simulate]]
 #adjective
 - **Producing or [[c/_causing|causing]] strong feelings and [[e/_emotions|emotions]].**
 ---

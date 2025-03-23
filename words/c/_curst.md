@@ -8,9 +8,9 @@
 - **To [[b/_bring|bring]] great evil upon; to be the [[c/_cause|cause]] of serious harm or unhappiness to; to furnish with that which will be a [[c/_cause|cause]] of [[d/_deep|deep]] trouble; to [[a/_afflict|afflict]] or injure grievously; to harass or torment.**
 ---
 ### Synonyms
-- [[swear]]
+- [[s/_swear|swear]]
 ### Antonyms
-- [[bless]]
+- [[b/_bless|bless]]
 #adjective
 - **[[a/_archaic|Archaic]] spelling of [[c/_cursed|cursed]].**
 ---

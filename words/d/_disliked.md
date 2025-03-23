@@ -7,7 +7,7 @@
 	- _Example: Rebecca Black's "Friday" video has gained notoriety for being one of the most disliked videos in YouTube history._
 ---
 ### Synonyms
-- [[disrecommend]], [[hate]], [[mislike]]
+- [[d/_disrecommend|disrecommend]], [[h/_hate|hate]], [[m/_mislike|mislike]]
 ### Antonyms
-- [[like]]
+- [[l/_like|like]]
 ---

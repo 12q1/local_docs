@@ -7,7 +7,7 @@
 - **To [[e/_equip|equip]] oneself with (an item).**
 ---
 ### Synonyms
-- [[apparel]], [[dight]], [[fit out]], [[kit out]], [[don]], [[dress]], [[put on]]
+- [[a/_apparel|apparel]], [[d/_dight|dight]], [[d/_don|don]], [[d/_dress|dress]]
 #noun
 - **[[e/_equipment|Equipment]]**
 ---

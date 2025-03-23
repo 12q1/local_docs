@@ -5,7 +5,7 @@
 - **A group of [[b/_buildings|buildings]] situated [[c/_close|close]] together, [[e/_e|e]].g. for a school or [[b/_block|block]] of offices**
 ---
 ### Synonyms
-- [[gaol]], [[jail]], [[pen]], [[pound]], [[prison]]
+- [[g/_gaol|gaol]], [[j/_jail|jail]], [[p/_pen|pen]], [[p/_pound|pound]], [[p/_prison|prison]]
 #noun
 - **[[a/_anything|Anything]] made by [[c/_combining|combining]] several things.**
 - **A substance made from [[a/_any|any]] [[c/_combination|combination]] [[e/_elements|elements]].**
@@ -14,7 +14,7 @@
 - **A [[c/_compound|compound]] locomotive, a steam locomotive with [[b/_both|both]] high-pressure and low-pressure [[c/_cylinders|cylinders]].**
 ---
 ### Synonyms
-- [[amalgam]], [[blend]], [[combination]], [[composite]], [[mix]], [[mixture]], [[compound word]]
+- [[a/_amalgam|amalgam]], [[b/_blend|blend]], [[c/_combination|combination]], [[c/_composite|composite]], [[m/_mix|mix]], [[m/_mixture|mixture]]
 #verb
 - **To form (a resulting mixture) by [[c/_combining|combining]] [[d/_different|different]] [[e/_elements|elements]], ingredients, or parts.**
 	- _Example: to compound a medicine_
@@ -30,5 +30,5 @@
 - **Of a horse: to fail to maintain speed.**
 ---
 ### Synonyms
-- [[settle]], [[augment]], [[increase]], [[agree]], [[form]], [[make up]], [[assemble]], [[blend]], [[combine]], [[join]], [[mix]], [[put together]], [[unite]]
+- [[s/_settle|settle]], [[a/_augment|augment]], [[i/_increase|increase]], [[a/_agree|agree]], [[f/_form|form]], [[a/_assemble|assemble]], [[b/_blend|blend]], [[c/_combine|combine]], [[j/_join|join]], [[m/_mix|mix]], [[u/_unite|unite]]
 ---

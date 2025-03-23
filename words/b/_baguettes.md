@@ -9,5 +9,5 @@
 - **(mildly offensive) A French person, or a person of French [[d/_descent|descent]].**
 ---
 ### Synonyms
-- [[French bread]], [[French stick]], [[frog]]
+- [[f/_frog|frog]]
 ---

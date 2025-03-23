@@ -13,9 +13,9 @@
 - **Risk; [[d/_danger|danger]]; peril.**
 ---
 ### Synonyms
-- [[hazard]], [[jeopardy]], [[fortune]], [[hazard]], [[luck]]
+- [[h/_hazard|hazard]], [[j/_jeopardy|jeopardy]], [[f/_fortune|fortune]], [[h/_hazard|hazard]], [[l/_luck|luck]]
 ### Antonyms
-- [[abstention]], [[peradventure]], [[unadventurous]]
+- [[a/_abstention|abstention]], [[p/_peradventure|peradventure]], [[u/_unadventurous|unadventurous]]
 #verb
 - **To risk or hazard; jeopard; venture.**
 - **To venture upon; to run the risk of; to [[d/_dare|dare]].**

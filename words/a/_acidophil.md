@@ -5,5 +5,5 @@
 - **One of the [[e/_endocrine|endocrine]] [[a/_acidophilic|acidophilic]] [[c/_cells|cells]] of the [[a/_adenohypophysis|adenohypophysis]], including somatotrophs and lactotrophs.**
 ---
 ### Synonyms
-- [[alpha cell]]
+- 
 ---

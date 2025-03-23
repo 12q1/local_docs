@@ -7,5 +7,5 @@
 - **A [[b/_ballet|ballet]] flat shoe**
 ---
 ### Synonyms
-- [[ballerino]]
+- [[b/_ballerino|ballerino]]
 ---

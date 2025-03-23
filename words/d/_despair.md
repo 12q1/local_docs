@@ -7,9 +7,9 @@
 - **That which is [[d/_despaired|despaired]] of.**
 ---
 ### Synonyms
-- [[desperation]], [[despondency]], [[hopelessness]]
+- [[d/_desperation|desperation]], [[d/_despondency|despondency]], [[h/_hopelessness|hopelessness]]
 ### Antonyms
-- [[hope]]
+- [[h/_hope|hope]]
 #verb
 - **To give up as [[b/_beyond|beyond]] hope or expectation; to [[d/_despair|despair]] of.**
 - **To [[c/_cause|cause]] to [[d/_despair|despair]].**

@@ -9,9 +9,9 @@
 	- _Example: an amber codon, an amber mutation, an amber suppressor_
 ---
 ### Synonyms
-- [[yellow]], [[ambergris]]
+- [[y/_yellow|yellow]], [[a/_ambergris|ambergris]]
 ### Antonyms
-- [[green]], [[red]]
+- [[g/_green|green]], [[r/_red|red]]
 #verb
 - **To perfume or flavour with [[a/_ambergris|ambergris]].**
 	- _Example: ambered wine, an ambered room_

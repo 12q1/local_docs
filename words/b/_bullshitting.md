@@ -9,5 +9,5 @@
 	- _Example: We just went on stage and bullshitted the whole concert because we didn't know any songs._
 ---
 ### Synonyms
-- [[crap]]
+- [[c/_crap|crap]]
 ---

@@ -7,5 +7,5 @@
 - **Merely.**
 ---
 ### Synonyms
-- [[hardly]], [[just]], [[only just]], [[scarcely]], [[hardly]], [[scarcely]]
+- [[h/_hardly|hardly]], [[j/_just|just]], [[s/_scarcely|scarcely]], [[h/_hardly|hardly]], [[s/_scarcely|scarcely]]
 ---

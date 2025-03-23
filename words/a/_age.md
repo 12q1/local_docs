@@ -2,7 +2,7 @@
 ---
 #noun
 - **The whole [[d/_duration|duration]] of a [[b/_being|being]], whether [[a/_animal|animal]], plant, or other kind, [[b/_being|being]] [[a/_alive|alive]].**
-- **The number of full years, months, [[d/_days|days]], hours, etc., that someone, or something, has [[b/_been|been]] [[a/_alive|alive]].**
+- **The number of full years, months, [[d/_days|days]], hours, [[e/_etc|etc]]., that someone, or something, has [[b/_been|been]] [[a/_alive|alive]].**
 - **One of the stages of life.**
 	- _Example: the age of infancy_
 - **The time of life at which some particular power or [[c/_capacity|capacity]] is understood to [[b/_become|become]] vested.**
@@ -21,13 +21,13 @@
 - **The right of the player to the left of the [[d/_dealer|dealer]] to pass the first round in [[b/_betting|betting]], and then to [[c/_come|come]] in last or stay out; [[a/_also|also]], the player holding this position; the [[e/_eldest|eldest]] hand.**
 - **That part of the [[d/_duration|duration]] of a [[b/_being|being]] or a thing which is [[b/_between|between]] its [[b/_beginning|beginning]] and [[a/_any|any]] given time; specifically the size of that part.**
 	- _Example: What is the present age of a man, or of the earth?_
-- **Mature [[a/_age|age]]; especially, the time of life at which one [[a/_attains|attains]] full personal rights and [[c/_capacities|capacities]].**
+- **Mature [[a/_age|age]]; [[e/_especially|especially]], the time of life at which one [[a/_attains|attains]] full personal rights and [[c/_capacities|capacities]].**
 	- _Example: to come of age; she is now of age_
 - **An [[a/_advanced|advanced]] period of life; the latter part of life; the state of [[b/_being|being]] old; [[e/_eld|eld]], seniority.**
 	- _Example: Wisdom doesn't necessarily come with age, sometimes age just shows up all by itself._
 ---
 ### Synonyms
-- [[lifespan]], [[lifetime]], [[dotage]], [[eld]], [[old age]], [[eternity]], [[yonks]], [[epoch]], [[time]], [[eld]], [[centennium]], [[yearhundred]]
+- [[l/_lifespan|lifespan]], [[l/_lifetime|lifetime]], [[d/_dotage|dotage]], [[e/_eld|eld]], [[e/_eternity|eternity]], [[y/_yonks|yonks]], [[e/_epoch|epoch]], [[t/_time|time]], [[e/_eld|eld]], [[c/_centennium|centennium]], [[y/_yearhundred|yearhundred]]
 #verb
 - **To [[c/_cause|cause]] to grow old; to impart the [[c/_characteristics|characteristics]] of [[a/_age|age]] to.**
 	- _Example: Grief ages us._
@@ -39,5 +39,5 @@
 	- _Example: He grew fat as he aged._
 ---
 ### Synonyms
-- [[mature]], [[elden]]
+- [[m/_mature|mature]], [[e/_elden|elden]]
 ---

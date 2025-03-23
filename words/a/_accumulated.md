@@ -7,5 +7,5 @@
 - **To take a higher [[d/_degree|degree]] at the same time with a lower [[d/_degree|degree]], or at a shorter interval than usual.**
 ---
 ### Synonyms
-- [[aggregate]], [[amound]], [[collect]], [[gather]], [[amass]], [[heap]], [[hoard]], [[store]]
+- [[a/_aggregate|aggregate]], [[a/_amound|amound]], [[c/_collect|collect]], [[g/_gather|gather]], [[a/_amass|amass]], [[h/_heap|heap]], [[h/_hoard|hoard]], [[s/_store|store]]
 ---

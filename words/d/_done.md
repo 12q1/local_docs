@@ -22,13 +22,13 @@
 - **To travel in, to tour, to make a [[c/_circuit|circuit]] of.**
 	- _Example: Let’s do New York also._
 - **To treat in a [[c/_certain|certain]] way.**
-- **To work for or on, by way of [[c/_caring|caring]] for, looking [[a/_after|after]], preparing, [[c/_cleaning|cleaning]], keeping in order, etc.**
+- **To work for or on, by way of [[c/_caring|caring]] for, looking [[a/_after|after]], preparing, [[c/_cleaning|cleaning]], keeping in order, [[e/_etc|etc]].**
 - **To [[a/_act|act]] or [[b/_behave|behave]] in a [[c/_certain|certain]] manner; to [[c/_conduct|conduct]] oneself.**
 - **To spend (time) in jail. (See [[a/_also|also]] [[d/_do|do]] time)**
 	- _Example: I did five years for armed robbery._
 - **To impersonate or [[d/_depict|depict]].**
 	- _Example: They really laughed when he did Clinton, with a perfect accent and a leer._
-- **(with 'a' and the name of a person, place, event, etc.) To [[c/_copy|copy]] or [[e/_emulate|emulate]] the [[a/_actions|actions]] or [[b/_behaviour|behaviour]] that is [[a/_associated|associated]] with the person or thing mentioned.**
+- **(with 'a' and the name of a person, place, event, [[e/_etc|etc]].) To [[c/_copy|copy]] or [[e/_emulate|emulate]] the [[a/_actions|actions]] or [[b/_behaviour|behaviour]] that is [[a/_associated|associated]] with the person or thing mentioned.**
 	- _Example: He did a Henry VIII and got married six times._
 - **To kill.**
 - **To [[d/_deal|deal]] with for good and [[a/_all|all]]; to finish up; to undo; to ruin; to [[d/_do|do]] for.**
@@ -37,7 +37,7 @@
 - **To have sex with. (See [[a/_also|also]] [[d/_do|do]] it)**
 - **To [[c/_cheat|cheat]] or swindle.**
 	- _Example: That guy just did me out of two hundred bucks!_
-- **To [[c/_convert|convert]] into a [[c/_certain|certain]] form; especially, to translate.**
+- **To [[c/_convert|convert]] into a [[c/_certain|certain]] form; [[e/_especially|especially]], to translate.**
 	- _Example: the novel has just been done into English;  I'm going to do this play into a movie_
 - **To finish.**
 - **To work as a [[d/_domestic|domestic]] servant (with for).**
@@ -52,9 +52,9 @@
 	- _Example: What's that car doing in our swimming pool?_
 ---
 ### Synonyms
-- [[accomplish]], [[carry out]], [[functionate]], [[attend]], [[serve]], [[wait on]], [[defraud]], [[diddle]], [[mug off]], [[rip off]], [[scam]], [[do in]], [[murder]], [[off]], [[rub out]], [[furnish]], [[give]], [[supply]], [[go to bed with]], [[sleep with]], [[imitate]], [[personate]], [[take off]], [[serve]]
+- [[a/_accomplish|accomplish]], [[f/_functionate|functionate]], [[a/_attend|attend]], [[s/_serve|serve]], [[d/_defraud|defraud]], [[d/_diddle|diddle]], [[s/_scam|scam]], [[m/_murder|murder]], [[o/_off|off]], [[f/_furnish|furnish]], [[g/_give|give]], [[s/_supply|supply]], [[i/_imitate|imitate]], [[p/_personate|personate]], [[s/_serve|serve]]
 ### Antonyms
-- [[don't]]
+- [[d/_don't|don't]]
 #adjective
 - **(of food) Ready, fully [[c/_cooked|cooked]].**
 	- _Example: As soon as the potatoes are done we can sit down and eat._
@@ -68,5 +68,5 @@
 	- _Example: I can't believe he just walked up and spoke to her like that, those kind of things just aren't done!_
 ---
 ### Synonyms
-- [[completed]], [[concluded]], [[finished]], [[in the books]]
+- [[c/_completed|completed]], [[c/_concluded|concluded]], [[f/_finished|finished]]
 ---

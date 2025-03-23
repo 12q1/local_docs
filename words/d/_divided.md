@@ -20,9 +20,9 @@
 - **To play or sing in a florid style, or with variations.**
 ---
 ### Synonyms
-- [[separate]], [[shear]], [[split]], [[split up]], [[divide up]], [[divvy up]], [[share]], [[share out]], [[cut up]], [[disunite]], [[partition]], [[split]], [[split up]]
+- [[s/_separate|separate]], [[s/_shear|shear]], [[s/_split|split]], [[s/_share|share]], [[d/_disunite|disunite]], [[p/_partition|partition]], [[s/_split|split]]
 ### Antonyms
-- [[multiply]], [[combine]], [[merge]], [[unify]], [[unite]]
+- [[m/_multiply|multiply]], [[c/_combine|combine]], [[m/_merge|merge]], [[u/_unify|unify]], [[u/_unite|unite]]
 #adjective
 - **Separated or split into pieces**
 - **Having [[c/_conflicting|conflicting]] interests or [[e/_emotions|emotions]]**
@@ -30,5 +30,5 @@
 - **(of a road) separated into lanes, that move in opposite [[d/_directions|directions]], by a median**
 ---
 ### Antonyms
-- [[combined]], [[undivided]], [[unified]]
+- [[c/_combined|combined]], [[u/_undivided|undivided]], [[u/_unified|unified]]
 ---

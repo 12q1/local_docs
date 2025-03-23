@@ -4,5 +4,5 @@
 - **Hypnosis of oneself.**
 ---
 ### Synonyms
-- [[self-hypnosis]]
+- [[s/_self-hypnosis|self-hypnosis]]
 ---

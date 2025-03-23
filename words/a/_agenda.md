@@ -8,7 +8,7 @@
 - **A ritual.**
 ---
 ### Synonyms
-- [[docket]], [[schedule]], [[worklist]]
+- [[d/_docket|docket]], [[s/_schedule|schedule]], [[w/_worklist|worklist]]
 #noun
 - **A task which ought to be [[d/_done|done]].**
 ---

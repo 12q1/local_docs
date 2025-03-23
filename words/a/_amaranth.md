@@ -8,5 +8,5 @@
 - **The seed of these plants, used as a [[c/_cereal|cereal]].**
 ---
 ### Synonyms
-- [[E123]], [[amaranthus]], [[pigweed]]
+- [[E/_E123|E123]], [[a/_amaranthus|amaranthus]], [[p/_pigweed|pigweed]]
 ---

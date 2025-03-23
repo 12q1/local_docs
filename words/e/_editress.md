@@ -4,5 +4,5 @@
 - **A female [[e/_editor|editor]].**
 ---
 ### Synonyms
-- [[editrix]]
+- [[e/_editrix|editrix]]
 ---

@@ -5,5 +5,5 @@
 	- _Example: He divides dyspepsias into accidental, temporary (indigestions) and habitual._
 ---
 ### Synonyms
-- [[indigestion]]
+- [[i/_indigestion|indigestion]]
 ---

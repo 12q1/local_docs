@@ -5,5 +5,5 @@
 - **A [[c/_cloth|cloth]] used to [[d/_dry|dry]] [[d/_dishes|dishes]].**
 ---
 ### Synonyms
-- [[dishtowel]], [[tea cloth]], [[tea towel]]
+- [[d/_dishtowel|dishtowel]]
 ---

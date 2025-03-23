@@ -13,7 +13,7 @@
 - **The [[c/_curved|curved]] underside of an axehead, extending from the lower [[e/_end|end]] of the [[c/_cutting|cutting]] [[e/_edge|edge]] to the axehandle.**
 - **That part of the underside of a horse's lower jaw which is [[a/_above|above]] the [[c/_chin|chin]], and [[b/_bears|bears]] the [[c/_curb|curb]] of a [[b/_bridle|bridle]].**
 - **That part of a type which is [[b/_between|between]] the shoulder of the shank and the face.**
-- **A fake [[c/_customer|customer]] or [[c/_companion|companion]], especially a woman who [[a/_accompanies|accompanies]] a gay man in order to give the impression that he is heterosexual.**
+- **A fake [[c/_customer|customer]] or [[c/_companion|companion]], [[e/_especially|especially]] a woman who [[a/_accompanies|accompanies]] a gay man in order to give the impression that he is heterosexual.**
 ---
 #verb
 - **To grow hair on the [[c/_chin|chin]] and jaw.**

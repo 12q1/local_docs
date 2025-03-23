@@ -10,5 +10,5 @@
 - **Resembling [[c/_crystal|crystal]] in [[b/_being|being]] [[c/_clear|clear]] and transparent.**
 ---
 ### Antonyms
-- [[amorphous]]
+- [[a/_amorphous|amorphous]]
 ---

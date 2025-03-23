@@ -5,5 +5,5 @@
 - **A [[b/_bromine|bromine]] [[a/_atom|atom]] in a molecule**
 ---
 ### Synonyms
-- [[muride]]
+- [[m/_muride|muride]]
 ---

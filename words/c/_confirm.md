@@ -6,5 +6,5 @@
 - **To [[a/_assure|assure]] the [[a/_accuracy|accuracy]] of previous statements.**
 ---
 ### Antonyms
-- [[contradict]], [[deny]], [[disconfirm]], [[dispute]], [[infirm]], [[question]]
+- [[c/_contradict|contradict]], [[d/_deny|deny]], [[d/_disconfirm|disconfirm]], [[d/_dispute|dispute]], [[i/_infirm|infirm]], [[q/_question|question]]
 ---

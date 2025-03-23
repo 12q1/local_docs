@@ -10,7 +10,7 @@
 - **[[b/_becoming|Becoming]] quieter gradually.**
 ---
 ### Synonyms
-- [[diminuendo]]
+- [[d/_diminuendo|diminuendo]]
 ### Antonyms
-- [[crescendo]]
+- [[c/_crescendo|crescendo]]
 ---

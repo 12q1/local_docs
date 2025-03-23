@@ -7,5 +7,5 @@
 - **Sourness and harshness to the taste.**
 ---
 ### Antonyms
-- [[comfort]]
+- [[c/_comfort|comfort]]
 ---

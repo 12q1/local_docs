@@ -11,5 +11,5 @@
 - **That which is [[b/_born|born]].**
 ---
 ### Antonyms
-- [[death]]
+- [[d/_death|death]]
 ---

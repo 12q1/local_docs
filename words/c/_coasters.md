@@ -11,8 +11,8 @@
 - **A worthless [[c/_compact|compact]] [[d/_disc|disc]] or DVD, such as one that was [[b/_burned|burned]] incorrectly.**
 - **A rollercoaster.**
 - **(Lake Superior) A [[c/_coaster|coaster]] trout ([[b/_brook|brook]] trout, Salvelinus fontinalis)**
-- **A prostitute, especially a white woman, plying her trade in [[c/_chinese|Chinese]] port towns.**
+- **A prostitute, [[e/_especially|especially]] a white woman, plying her trade in [[c/_chinese|Chinese]] port towns.**
 ---
 ### Synonyms
-- [[beer mat]], [[beermat]]
+- [[b/_beermat|beermat]]
 ---

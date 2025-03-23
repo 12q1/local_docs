@@ -9,5 +9,5 @@
 - **A kind of mahogany obtained from [[c/_campeche|Campeche]] in Mexico.**
 ---
 ### Synonyms
-- [[laurel]], [[Grecian laurel]], [[bay laurel]], [[bay tree]], [[laurel]], [[sweet bay]], [[true laurel]]
+- [[l/_laurel|laurel]], [[l/_laurel|laurel]]
 ---

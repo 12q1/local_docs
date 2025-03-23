@@ -13,5 +13,5 @@
 - **Having steps; said of a [[c/_cross|cross]] whose extremities [[e/_end|end]] in steps growing larger as they leave the [[c/_centre|centre]]; on [[d/_degrees|degrees]].**
 ---
 ### Synonyms
-- [[humiliated]]
+- [[h/_humiliated|humiliated]]
 ---

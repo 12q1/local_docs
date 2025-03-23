@@ -13,5 +13,5 @@
 	- _Example: A recursive function is one that calls itself._
 ---
 ### Synonyms
-- [[drop a line]], [[ring]], [[holler]], [[yell]], [[designate]], [[dub]], [[name]], [[augur]], [[foretell]], [[wake up]]
+- [[r/_ring|ring]], [[h/_holler|holler]], [[y/_yell|yell]], [[d/_designate|designate]], [[d/_dub|dub]], [[n/_name|name]], [[a/_augur|augur]], [[f/_foretell|foretell]]
 ---

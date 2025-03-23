@@ -2,11 +2,11 @@
 ---
 #noun
 - **Something that surrounds; [[e/_encompassing|encompassing]] material, substance or shape.**
-- **The [[a/_atmosphere|atmosphere]]; the surrounding [[a/_air|air]] or sky; [[a/_atmospheric|atmospheric]] [[c/_components|components]] [[c/_collectively|collectively]] such as [[a/_air|air]], [[c/_clouds|clouds]], water vapour, hail, etc.**
+- **The [[a/_atmosphere|atmosphere]]; the surrounding [[a/_air|air]] or sky; [[a/_atmospheric|atmospheric]] [[c/_components|components]] [[c/_collectively|collectively]] such as [[a/_air|air]], [[c/_clouds|clouds]], water vapour, hail, [[e/_etc|etc]].**
 - **A type of modern music that [[c/_creates|creates]] a relaxing and peaceful [[a/_atmosphere|atmosphere]].**
 ---
 ### Synonyms
-- [[chillout]]
+- [[c/_chillout|chillout]]
 #adjective
 - **[[e/_encompassing|Encompassing]] on [[a/_all|all]] sides; surrounding; [[e/_encircling|encircling]]; [[e/_enveloping|enveloping]].**
 	- _Example: A cup of tea eventually cools to the ambient temperature._

@@ -6,5 +6,5 @@
 - **A roll or twist of hair worn at the nape of the neck; a [[b/_bun|bun]].**
 ---
 ### Synonyms
-- [[bun]], [[chignon]], [[balls-up]], [[foul-up]], [[fuck-up]], [[screw-up]]
+- [[b/_bun|bun]], [[c/_chignon|chignon]], [[b/_balls-up|balls-up]], [[f/_foul-up|foul-up]], [[f/_fuck-up|fuck-up]], [[s/_screw-up|screw-up]]
 ---

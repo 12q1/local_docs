@@ -9,7 +9,7 @@
 	- _Example: agile methods_
 ---
 ### Synonyms
-- [[active]], [[alert]], [[brisk]], [[lively]], [[nimble]], [[quick]], [[nimble]]
+- [[a/_active|active]], [[a/_alert|alert]], [[b/_brisk|brisk]], [[l/_lively|lively]], [[n/_nimble|nimble]], [[q/_quick|quick]], [[n/_nimble|nimble]]
 ### Antonyms
-- [[unagile]]
+- [[u/_unagile|unagile]]
 ---

@@ -4,12 +4,12 @@
 - **To [[d/_discourage|discourage]] someone by removing their [[e/_enthusiasm|enthusiasm]] or [[c/_courage|courage]].**
 ---
 ### Synonyms
-- [[discourage]]
+- [[d/_discourage|discourage]]
 ### Antonyms
-- [[encourage]], [[hearten]]
+- [[e/_encourage|encourage]], [[h/_hearten|hearten]]
 #adjective
 - **[[d/_discouraged|Discouraged]], [[d/_despairing|despairing]].**
 ---
 ### Synonyms
-- [[dejected]], [[dispirited]], [[down in the dumps]], [[down in the mouth]], [[sad]]
+- [[d/_dejected|dejected]], [[d/_dispirited|dispirited]], [[s/_sad|sad]]
 ---

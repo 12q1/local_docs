@@ -7,5 +7,5 @@
 - **To outline or mark out.**
 ---
 ### Synonyms
-- [[delimit]], [[demarcate]], [[demark]]
+- [[d/_delimit|delimit]], [[d/_demarcate|demarcate]], [[d/_demark|demark]]
 ---

@@ -4,5 +4,5 @@
 - **Impolite; lacking [[c/_consideration|consideration]] for others**
 ---
 ### Antonyms
-- [[courteous]]
+- [[c/_courteous|courteous]]
 ---

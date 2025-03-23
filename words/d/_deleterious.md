@@ -6,5 +6,5 @@
 - **Having lower fitness.**
 ---
 ### Synonyms
-- [[destructive]], [[harmful]], [[hurtful]], [[injurious]], [[noxious]], [[pernicious]]
+- [[d/_destructive|destructive]], [[h/_harmful|harmful]], [[h/_hurtful|hurtful]], [[i/_injurious|injurious]], [[n/_noxious|noxious]], [[p/_pernicious|pernicious]]
 ---

@@ -5,6 +5,6 @@
 - **An unpleasant stimulus intended to induce a [[c/_change|change]] in [[b/_behaviour|behaviour]]**
 ---
 #adjective
-- **Tending to repel, [[c/_causing|causing]] [[a/_avoidance|avoidance]] (of a situation, a [[b/_behaviour|behaviour]], an item, etc.)**
+- **Tending to repel, [[c/_causing|causing]] [[a/_avoidance|avoidance]] (of a situation, a [[b/_behaviour|behaviour]], an item, [[e/_etc|etc]].)**
 ---
 ---

@@ -1,7 +1,7 @@
 # Drifting
 ---
 #verb
-- **To move slowly, especially pushed by [[c/_currents|currents]] of water, [[a/_air|air]], etc.**
+- **To move slowly, [[e/_especially|especially]] pushed by [[c/_currents|currents]] of water, [[a/_air|air]], [[e/_etc|etc]].**
 	- _Example: The balloon was drifting in the breeze._
 - **To move haphazardly without [[a/_any|any]] [[d/_destination|destination]].**
 	- _Example: He drifted from town to town, never settling down._

@@ -22,7 +22,7 @@
 - **The [[d/_dark|dark]] spot on a [[b/_black|black]]-[[e/_eyed|eyed]] pea.**
 - **A reproductive [[b/_bud|bud]] in a potato.**
 - **The [[d/_dark|dark]] [[b/_brown|brown]] [[c/_center|center]] of a [[b/_black|black]]-[[e/_eyed|eyed]] Susan flower.**
-- **A loop forming part of [[a/_anything|anything]], or a hole through [[a/_anything|anything]], to receive a rope, hook, pin, shaft, etc. — [[e/_e|e]].g. at the [[e/_end|end]] of a tie [[b/_bar|bar]] in a [[b/_bridge|bridge]] truss; through a [[c/_crank|crank]]; at the [[e/_end|end]] of a rope; or through a millstone.**
+- **A loop forming part of [[a/_anything|anything]], or a hole through [[a/_anything|anything]], to receive a rope, hook, pin, shaft, [[e/_etc|etc]]. — [[e/_e|e]].g. at the [[e/_end|end]] of a tie [[b/_bar|bar]] in a [[b/_bridge|bridge]] truss; through a [[c/_crank|crank]]; at the [[e/_end|end]] of a rope; or through a millstone.**
 - **That which resembles the [[e/_eye|eye]] in relative importance or [[b/_beauty|beauty]].**
 - **Tinge; shade of [[c/_colour|colour]].**
 - **One of the holes in [[c/_certain|certain]] kinds of [[c/_cheese|cheese]].**
@@ -33,7 +33,7 @@
 	- _Example: This victory will make us great in the eyes of the world._
 ---
 ### Synonyms
-- [[eyelet]], [[perceptiveness]]
+- [[e/_eyelet|eyelet]], [[p/_perceptiveness|perceptiveness]]
 #noun
 - **A [[b/_brood|brood]].**
 	- _Example: an eye of pheasants_

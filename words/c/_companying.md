@@ -7,5 +7,5 @@
 - **To have sexual intercourse.**
 ---
 ### Synonyms
-- [[attend]], [[escort]], [[go with]], [[fornicate]], [[have sex]], [[make love]]
+- [[a/_attend|attend]], [[e/_escort|escort]], [[f/_fornicate|fornicate]]
 ---

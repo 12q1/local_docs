@@ -6,7 +6,7 @@
 #verb
 - **To perform magic tricks.**
 	- _Example: He started conjuring at the age of 15, and is now a famous stage magician._
-- **To summon (a [[d/_devil|devil]], etc.) using supernatural power.**
+- **To summon (a [[d/_devil|devil]], [[e/_etc|etc]].) using supernatural power.**
 - **To practice [[b/_black|black]] magic.**
 - **To [[e/_enchant|enchant]] or [[b/_bewitch|bewitch]].**
 - **To evoke.**
@@ -15,5 +15,5 @@
 - **To [[c/_conspire|conspire]] or plot.**
 ---
 ### Synonyms
-- [[envisage]], [[imagine]], [[picture]], [[visualize]]
+- [[e/_envisage|envisage]], [[i/_imagine|imagine]], [[p/_picture|picture]], [[v/_visualize|visualize]]
 ---

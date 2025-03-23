@@ -5,5 +5,5 @@
 - **Very large.**
 ---
 ### Synonyms
-- [[elephantic]], [[elephantlike]]
+- [[e/_elephantic|elephantic]], [[e/_elephantlike|elephantlike]]
 ---

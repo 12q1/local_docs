@@ -7,7 +7,7 @@
 - **A sweetheart; a prostitute or a mistress.**
 ---
 ### Synonyms
-- [[paramour]]
+- [[p/_paramour|paramour]]
 #noun
 - **A [[d/_defined|defined]] opinion.**
 ---

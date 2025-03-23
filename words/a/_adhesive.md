@@ -8,5 +8,5 @@
 - **[[a/_apt|Apt]] or tending to [[a/_adhere|adhere]]; [[c/_clinging|clinging]]**
 ---
 ### Synonyms
-- [[claggy]], [[tenacious]]
+- [[c/_claggy|claggy]], [[t/_tenacious|tenacious]]
 ---

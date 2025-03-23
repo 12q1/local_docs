@@ -9,12 +9,12 @@
 - **To lose flavour or [[b/_become|become]] stale.**
 ---
 ### Synonyms
-- [[affright]], [[daunt]], [[depress]], [[dismay]], [[frighten]], [[scare]], [[terrify]]
+- [[a/_affright|affright]], [[d/_daunt|daunt]], [[d/_depress|depress]], [[d/_dismay|dismay]], [[f/_frighten|frighten]], [[s/_scare|scare]], [[t/_terrify|terrify]]
 #adjective
 - **Horrifying and [[a/_astonishing|astonishing]].**
 	- _Example: That was an appalling waste of money._
 - **Extremely [[b/_bad|bad]]; terrible**
 ---
 ### Synonyms
-- [[awful]], [[grotesque]], [[hideous]], [[horrid]], [[terrible]]
+- [[a/_awful|awful]], [[g/_grotesque|grotesque]], [[h/_hideous|hideous]], [[h/_horrid|horrid]], [[t/_terrible|terrible]]
 ---

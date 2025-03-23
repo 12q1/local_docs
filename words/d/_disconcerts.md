@@ -7,5 +7,5 @@
 	- _Example: The emperor disconcerted the plans of his enemy._
 ---
 ### Synonyms
-- [[agitate]], [[upset]]
+- [[a/_agitate|agitate]], [[u/_upset|upset]]
 ---

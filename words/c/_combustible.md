@@ -9,5 +9,5 @@
 - **[[e/_easily|Easily]] kindled or excited; quick; fiery; irascible.**
 ---
 ### Antonyms
-- [[incombustible]]
+- [[i/_incombustible|incombustible]]
 ---

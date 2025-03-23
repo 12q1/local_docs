@@ -9,11 +9,11 @@
 - **A junior [[c/_commissioned|commissioned]] officer in the 18th and 19th [[c/_centuries|centuries]] whose [[d/_duty|duty]] was to [[c/_carry|carry]] the unit's [[e/_ensign|ensign]].**
 ---
 ### Synonyms
-- [[ancient]], [[coronet]], [[second lieutenant]]
+- [[a/_ancient|ancient]], [[c/_coronet|coronet]]
 #verb
 - **To [[d/_designate|designate]] as by an [[e/_ensign|ensign]].**
 - **To [[d/_distinguish|distinguish]] by a mark or ornament.**
-- **To [[d/_distinguish|distinguish]] by an ornament, especially by a [[c/_crown|crown]].**
+- **To [[d/_distinguish|distinguish]] by an ornament, [[e/_especially|especially]] by a [[c/_crown|crown]].**
 	- _Example: Any charge which has a crown immediately above or upon it, is said to be ensigned._
 ---
 ---

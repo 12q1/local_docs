@@ -5,5 +5,5 @@
 - **The [[c/_crop|crop]] of a [[b/_bird|bird]].**
 ---
 ### Synonyms
-- [[crop]], [[gullet]]
+- [[c/_crop|crop]], [[g/_gullet|gullet]]
 ---

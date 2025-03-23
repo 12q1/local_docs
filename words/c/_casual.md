@@ -23,7 +23,7 @@
 - **[[d/_designed|Designed]] for informal or everyday use.**
 ---
 ### Synonyms
-- [[accidental]], [[fortuitous]], [[incidental]], [[occasional]], [[random]], [[unexpected]], [[informal]]
+- [[a/_accidental|accidental]], [[f/_fortuitous|fortuitous]], [[i/_incidental|incidental]], [[o/_occasional|occasional]], [[r/_random|random]], [[u/_unexpected|unexpected]], [[i/_informal|informal]]
 ### Antonyms
-- [[inevitable]], [[necessary]], [[expected]], [[scheduled]], [[ceremonial]], [[formal]]
+- [[i/_inevitable|inevitable]], [[n/_necessary|necessary]], [[e/_expected|expected]], [[s/_scheduled|scheduled]], [[c/_ceremonial|ceremonial]], [[f/_formal|formal]]
 ---

@@ -10,5 +10,5 @@
 - **[[a/_any|Any]] user interface [[c/_component|component]] that [[c/_can|can]] hold further ([[c/_child|child]]) [[c/_components|components]].**
 ---
 ### Synonyms
-- [[cargo container]]
+- 
 ---

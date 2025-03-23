@@ -7,5 +7,5 @@
 - **To make an [[a/_accusation|accusation]] [[a/_against|against]] someone**
 ---
 ### Synonyms
-- [[arraign]], [[charge]], [[impeach]], [[indict]], [[blame]], [[censure]], [[criminate]], [[reproach]]
+- [[a/_arraign|arraign]], [[c/_charge|charge]], [[i/_impeach|impeach]], [[i/_indict|indict]], [[b/_blame|blame]], [[c/_censure|censure]], [[c/_criminate|criminate]], [[r/_reproach|reproach]]
 ---

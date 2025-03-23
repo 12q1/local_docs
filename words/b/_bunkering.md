@@ -11,5 +11,5 @@
 - **The illicit removal of oil from a pipeline or other [[d/_distribution|distribution]] system**
 ---
 ### Synonyms
-- [[coaling]]
+- [[c/_coaling|coaling]]
 ---

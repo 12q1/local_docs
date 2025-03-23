@@ -5,7 +5,7 @@
 - **To [[d/_do|do]] something for one's own [[b/_benefit|benefit]]; to take [[a/_advantage|advantage]] of**
 ---
 ### Synonyms
-- [[benefit]], [[favor]], [[favorise]]
+- [[b/_benefit|benefit]], [[f/_favor|favor]], [[f/_favorise|favorise]]
 #adjective
 - **Having [[b/_been|been]] given an [[a/_advantage|advantage]], such as by [[b/_biased|biased]] referees in a [[c/_competition|competition]].**
 - **(of a person) Financially secure; [[e/_elite|elite]] and [[e/_economically|economically]] successful.**

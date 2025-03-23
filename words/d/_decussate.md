@@ -11,5 +11,5 @@
 	- _Example: a decussated period_
 ---
 ### Synonyms
-- [[decussant]]
+- [[d/_decussant|decussant]]
 ---

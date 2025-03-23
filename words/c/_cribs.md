@@ -5,10 +5,10 @@
 - **A [[b/_bed|bed]] for a [[c/_child|child]] older than a [[b/_baby|baby]].**
 - **A small sleeping [[b/_berth|berth]] in a packet ship or other small vessel**
 - **A wicker [[b/_basket|basket]]; [[c/_compare|compare]] Moses [[b/_basket|basket]].**
-- **A manger, a feeding trough for [[a/_animals|animals]] [[e/_elevated|elevated]] off the [[e/_earth|earth]] or floor, especially one for fodder such as hay.**
+- **A manger, a feeding trough for [[a/_animals|animals]] [[e/_elevated|elevated]] off the [[e/_earth|earth]] or floor, [[e/_especially|especially]] one for fodder such as hay.**
 - **The [[b/_baby|baby]] Jesus and the manger in a [[c/_creche|creche]] or nativity scene, [[c/_consisting|consisting]] of statues of Mary, Joseph and various other [[c/_characters|characters]] such as the magi.**
 - **A [[b/_bin|bin]] for [[d/_drying|drying]] or storing grain, as with a [[c/_corn|corn]] [[c/_crib|crib]].**
-- **A small room or [[c/_covered|covered]] structure, especially one of rough [[c/_construction|construction]], used for storage or penning [[a/_animals|animals]].**
+- **A small room or [[c/_covered|covered]] structure, [[e/_especially|especially]] one of rough [[c/_construction|construction]], used for storage or penning [[a/_animals|animals]].**
 - **A [[c/_confined|confined]] space, as with a [[c/_cage|cage]] or office-[[c/_cubicle|cubicle]]**
 - **A job, a position; ([[b/_british|British]]), an [[a/_appointment|appointment]].**
 - **A hovel, a roughly [[c/_constructed|constructed]] [[b/_building|building]] [[b/_best|best]] suited to the shelter of [[a/_animals|animals]] but used for human habitation.**
@@ -26,7 +26,7 @@
 - **A [[c/_cheat|cheat]] sheet or past test used by students; [[c/_crib|crib]] sheet.**
 ---
 ### Synonyms
-- [[bach]], [[cot]]
+- [[b/_bach|bach]], [[c/_cot|cot]]
 #verb
 - **To place or [[c/_confine|confine]] in a [[c/_crib|crib]].**
 - **To shut up or [[c/_confine|confine]] in a narrow habitation; to [[c/_cage|cage]]; to [[c/_cramp|cramp]].**

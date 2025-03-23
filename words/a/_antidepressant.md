@@ -4,7 +4,7 @@
 - **An [[a/_agent|agent]] that prevents or [[c/_counteracts|counteracts]] [[d/_depression|depression]].**
 ---
 ### Antonyms
-- [[depressogenic]]
+- [[d/_depressogenic|depressogenic]]
 #adjective
 - **(pharmaceutical [[e/_effect|effect]]) Preventing or [[c/_counteracting|counteracting]] [[d/_depression|depression]].**
 ---

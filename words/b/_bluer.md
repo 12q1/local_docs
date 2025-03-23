@@ -18,5 +18,5 @@
 	- _Example: His material is too blue for prime-time_
 ---
 ### Antonyms
-- [[nonblue]], [[unblue]], [[antiblue]]
+- [[n/_nonblue|nonblue]], [[u/_unblue|unblue]], [[a/_antiblue|antiblue]]
 ---

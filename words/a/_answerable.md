@@ -8,5 +8,5 @@
 - **(of an [[a/_argument|argument]]) [[c/_capable|Capable]] of [[b/_being|being]] [[a/_answered|answered]] or refuted; [[a/_admitting|admitting]] a satisfactory [[a/_answer|answer]].**
 ---
 ### Antonyms
-- [[unanswerable]]
+- [[u/_unanswerable|unanswerable]]
 ---

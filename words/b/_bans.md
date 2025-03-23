@@ -18,12 +18,12 @@
 - **To [[c/_curse|curse]]; to utter [[c/_curses|curses]] or maledictions.**
 ---
 ### Synonyms
-- [[disallow]], [[forbid]], [[prohibit]]
+- [[d/_disallow|disallow]], [[f/_forbid|forbid]], [[p/_prohibit|prohibit]]
 #noun
 - **A unit measuring information or [[e/_entropy|entropy]] [[b/_based|based]] on [[b/_base|base]]-ten logarithms, rather than the [[b/_base|base]]-two logarithms that [[d/_define|define]] the [[b/_bit|bit]].**
 ---
 ### Synonyms
-- [[dit]], [[hartley]]
+- [[d/_dit|dit]], [[h/_hartley|hartley]]
 #noun
 - **A title used in several states in [[c/_central|central]] and south-[[e/_eastern|eastern]] Europe [[b/_between|between]] the 7th [[c/_century|century]] and the 20th [[c/_century|century]].**
 ---

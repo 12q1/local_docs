@@ -6,5 +6,5 @@
 - **The [[a/_act|act]] of turning a [[c/_criminal|criminal]] into a non-[[c/_criminal|criminal]] by making their [[a/_activities|activities]] legal.**
 ---
 ### Antonyms
-- [[criminalization]]
+- [[c/_criminalization|criminalization]]
 ---

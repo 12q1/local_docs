@@ -6,14 +6,14 @@
 - **A meeting of predominantly females.**
 ---
 ### Synonyms
-- [[hotbox]], [[taco fest]]
+- [[h/_hotbox|hotbox]]
 #verb
 - **To smoke marijuana in an [[e/_enclosed|enclosed]] space such as a [[c/_car|car]] with the windows up.**
 - **To [[e/_enclose|enclose]] something and fill it with smoke by smoking (usually marijuana) inside it.**
 	- _Example: We clambaked the car last night!_
 ---
 ### Synonyms
-- [[hotbox]]
+- [[h/_hotbox|hotbox]]
 #adjective
 - **Informal, makeshift, sloppy.**
 ---

@@ -5,5 +5,5 @@
 	- _Example: Every gentleman needs at least one pair of cufflinks._
 ---
 ### Synonyms
-- [[sleeve-button]], [[sleeve-link]]
+- [[s/_sleeve-button|sleeve-button]], [[s/_sleeve-link|sleeve-link]]
 ---

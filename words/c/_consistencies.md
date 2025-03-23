@@ -11,5 +11,5 @@
 - **Firmness of [[c/_constitution|constitution]] or [[c/_character|character]]; substantiality; [[d/_durability|durability]]; persistency.**
 ---
 ### Antonyms
-- [[inconsistency]]
+- [[i/_inconsistency|inconsistency]]
 ---

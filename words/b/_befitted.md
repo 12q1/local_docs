@@ -5,5 +5,5 @@
 	- _Example: His conduct was not befitting an officer of his station._
 ---
 ### Synonyms
-- [[behoove]]
+- [[b/_behoove|behoove]]
 ---

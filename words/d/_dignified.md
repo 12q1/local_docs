@@ -11,7 +11,7 @@
 	- _Example: I will not dignify that comment with a response._
 ---
 ### Synonyms
-- [[adorn]], [[advance]], [[elevate]], [[ennoble]], [[exalt]], [[honor]], [[illustrate]], [[prefer]]
+- [[a/_adorn|adorn]], [[a/_advance|advance]], [[e/_elevate|elevate]], [[e/_ennoble|ennoble]], [[e/_exalt|exalt]], [[h/_honor|honor]], [[i/_illustrate|illustrate]], [[p/_prefer|prefer]]
 ### Antonyms
-- [[demean]], [[humiliate]], [[mortify]], [[shame]]
+- [[d/_demean|demean]], [[h/_humiliate|humiliate]], [[m/_mortify|mortify]], [[s/_shame|shame]]
 ---

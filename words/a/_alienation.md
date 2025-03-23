@@ -7,5 +7,5 @@
 - **Verfremdungseffekt.**
 ---
 ### Synonyms
-- [[estrangement]]
+- [[e/_estrangement|estrangement]]
 ---

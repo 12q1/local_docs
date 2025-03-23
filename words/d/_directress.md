@@ -4,5 +4,5 @@
 - **A female [[d/_director|director]].**
 ---
 ### Synonyms
-- [[directrix]]
+- [[d/_directrix|directrix]]
 ---

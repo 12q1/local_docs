@@ -9,7 +9,7 @@
 - **An influx.**
 ---
 ### Synonyms
-- [[richdom]]
+- [[r/_richdom|richdom]]
 ### Antonyms
-- [[indigence]]
+- [[i/_indigence|indigence]]
 ---

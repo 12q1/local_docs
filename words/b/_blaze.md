@@ -1,7 +1,7 @@
 # Blaze
 ---
 #noun
-- **A fire, especially a fast-[[b/_burning|burning]] fire producing a lot of flames and light.**
+- **A fire, [[e/_especially|especially]] a fast-[[b/_burning|burning]] fire producing a lot of flames and light.**
 - **Intense, [[d/_direct|direct]] light [[a/_accompanied|accompanied]] with heat.**
 	- _Example: to seek shelter from the blaze of the sun_
 - **The white or lighter-[[c/_coloured|coloured]] markings on a horse's face.**

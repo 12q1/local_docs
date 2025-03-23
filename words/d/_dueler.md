@@ -4,5 +4,5 @@
 - **A person who fights a [[d/_duel|duel]]**
 ---
 ### Synonyms
-- [[duelist]]
+- [[d/_duelist|duelist]]
 ---

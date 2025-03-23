@@ -6,5 +6,5 @@
 - **[[b/_banded|Banded]] or marked with [[c/_circles|circles]].**
 ---
 ### Synonyms
-- [[ring-shaped]]
+- [[r/_ring-shaped|ring-shaped]]
 ---

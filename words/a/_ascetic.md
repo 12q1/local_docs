@@ -8,5 +8,5 @@
 - **[[c/_characterized|Characterized]] by rigorous self-[[d/_denial|denial]] or self-[[d/_discipline|discipline]]; [[a/_austere|austere]]; [[a/_abstinent|abstinent]]; involving a withholding of physical pleasure.**
 ---
 ### Synonyms
-- [[abstinent]], [[ascetical]], [[ascetical]]
+- [[a/_abstinent|abstinent]], [[a/_ascetical|ascetical]], [[a/_ascetical|ascetical]]
 ---

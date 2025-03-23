@@ -5,5 +5,5 @@
 - **(of people) Not [[b/_believing|believing]] in or [[c/_caring|caring]] for morality and immorality.**
 ---
 ### Synonyms
-- [[non-moral]]
+- [[n/_non-moral|non-moral]]
 ---

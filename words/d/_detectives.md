@@ -5,5 +5,5 @@
 - **A person [[e/_employed|employed]] to find information not otherwise [[a/_available|available]] to the public.**
 ---
 ### Synonyms
-- [[DT]], [[Det]], [[dick]], [[private dick]], [[private detective]], [[private investigator]], [[sleuth]]
+- [[D/_DT|DT]], [[D/_Det|Det]], [[d/_dick|dick]], [[s/_sleuth|sleuth]]
 ---

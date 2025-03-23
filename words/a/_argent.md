@@ -10,5 +10,5 @@
 - **: of white or silver tincture on a [[c/_coat|coat]] of [[a/_arms|arms]].**
 ---
 ### Synonyms
-- [[blanc]], [[silver]]
+- [[b/_blanc|blanc]], [[s/_silver|silver]]
 ---

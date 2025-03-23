@@ -7,5 +7,5 @@
 	- _Example: Through the Internet, we have access to an unprecedented amassment of information._
 ---
 ### Synonyms
-- [[accumulation]], [[collection]]
+- [[a/_accumulation|accumulation]], [[c/_collection|collection]]
 ---

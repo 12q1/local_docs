@@ -14,7 +14,7 @@
 - **An [[a/_artifice|artifice]]; a trick; a [[c/_contrivance|contrivance]].**
 - **A person who steals, lies, [[c/_cheats|cheats]] or [[d/_does|does]] other [[d/_dishonest|dishonest]] or illegal things; a [[c/_criminal|criminal]].**
 - **A pothook.**
-- **A small tube, usually [[c/_curved|curved]], [[a/_applied|applied]] to a trumpet, horn, etc., to [[c/_change|change]] its pitch or key.**
+- **A small tube, usually [[c/_curved|curved]], [[a/_applied|applied]] to a trumpet, horn, [[e/_etc|etc]]., to [[c/_change|change]] its pitch or key.**
 ---
 #verb
 - **To [[b/_bend|bend]], or form into a hook.**

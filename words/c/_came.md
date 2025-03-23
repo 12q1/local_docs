@@ -4,7 +4,7 @@
 - **Used to indicate that the following event, period, or [[c/_change|change]] in state occurred in the past, [[a/_after|after]] a time of waiting, [[e/_enduring|enduring]], or [[a/_anticipation|anticipation]]**
 ---
 ### Synonyms
-- [[arrived]], [[by]], [[came]], [[when]]
+- [[a/_arrived|arrived]], [[b/_by|by]], [[c/_came|came]], [[w/_when|when]]
 #verb
 - **To move from further [[a/_away|away]] to nearer to.**
 	- _Example: She’ll be coming ’round the mountain when she comes [...]_
@@ -37,7 +37,7 @@
 	- _Example: Don't come the innocent victim. We all know who's to blame here._
 ---
 ### Antonyms
-- [[depart]], [[exit]], [[flee]], [[go]], [[leave]], [[retreat]], [[withdraw]]
+- [[d/_depart|depart]], [[e/_exit|exit]], [[f/_flee|flee]], [[g/_go|go]], [[l/_leave|leave]], [[r/_retreat|retreat]], [[w/_withdraw|withdraw]]
 #verb
 - **To have an orgasm, to feel the sensation of an orgasm.**
 - **To [[e/_ejaculate|ejaculate]].**

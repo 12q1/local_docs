@@ -16,16 +16,16 @@
 	- _Example: He saw some action in the Korean War._
 - **A [[c/_charge|charge]] or other process in a law [[c/_court|court]] ([[a/_also|also]] [[c/_called|called]] lawsuit and actio).**
 - **A mapping from a pairing of mathematical objects to one of them, respecting their individual structures. The pairing is typically a [[c/_cartesian|Cartesian]] product or a tensor product. The object that is not part of the output is said to [[a/_act|act]] on the other object. In [[a/_any|any]] given [[c/_context|context]], [[a/_action|action]] is used as an [[a/_abbreviation|abbreviation]] for a more fully named notion, like group [[a/_action|action]] or left group [[a/_action|action]].**
-- **The product of [[e/_energy|energy]] and time, especially the product of the Lagrangian and time.**
+- **The product of [[e/_energy|energy]] and time, [[e/_especially|especially]] the product of the Lagrangian and time.**
 - **The event or [[c/_connected|connected]] series of events, [[e/_either|either]] real or imaginary, forming the subject of a play, poem, or other [[c/_composition|composition]]; the unfolding of the [[d/_drama|drama]] of events.**
 - **(painting and sculpture) The [[a/_attitude|attitude]] or position of the several parts of the [[b/_body|body]] as expressive of the sentiment or passion [[d/_depicted|depicted]].**
 - **Spin put on the [[b/_bowling|bowling]] [[b/_ball|ball]].**
 - **A share in the [[c/_capital|capital]] stock of a joint-stock [[c/_company|company]], or in the public funds.**
 ---
 ### Synonyms
-- [[deed]]
+- [[d/_deed|deed]]
 #verb
-- **To [[a/_act|act]] on a request etc, in order to put it into [[e/_effect|effect]].**
+- **To [[a/_act|act]] on a request [[e/_etc|etc]], in order to put it into [[e/_effect|effect]].**
 - **To initiate a legal [[a/_action|action]] [[a/_against|against]] someone.**
 ---
 #interjection

@@ -4,5 +4,5 @@
 - **A megaphone which [[e/_electronically|electronically]] [[a/_amplifies|amplifies]] a person’s natural voice.**
 ---
 ### Synonyms
-- [[blowhorn]], [[loudhailer]]
+- [[b/_blowhorn|blowhorn]], [[l/_loudhailer|loudhailer]]
 ---

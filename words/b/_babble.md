@@ -6,7 +6,7 @@
 - **A sound like that of water gently flowing [[a/_around|around]] obstructions.**
 ---
 ### Synonyms
-- [[gabble]], [[twaddle]]
+- [[g/_gabble|gabble]], [[t/_twaddle|twaddle]]
 #verb
 - **To utter words indistinctly or unintelligibly; to utter inarticulate sounds**
 	- _Example: The men were babbling, so we couldn't make sense of anything._

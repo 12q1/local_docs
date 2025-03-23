@@ -6,5 +6,5 @@
 - **A receptacle for rags or shreds.**
 ---
 ### Synonyms
-- [[cheffonier]]
+- [[c/_cheffonier|cheffonier]]
 ---

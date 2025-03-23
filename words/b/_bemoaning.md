@@ -6,7 +6,7 @@
 - **To be [[d/_dismayed|dismayed]] or worried [[a/_about|about]] (someone), particularly [[b/_because|because]] of their situation or what has happened to them.**
 ---
 ### Synonyms
-- [[bewail]], [[lament]], [[mourn]]
+- [[b/_bewail|bewail]], [[l/_lament|lament]], [[m/_mourn|mourn]]
 #noun
 - **The [[a/_act|act]] of one who [[b/_bemoans|bemoans]] something.**
 ---

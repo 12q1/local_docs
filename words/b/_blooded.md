@@ -11,6 +11,6 @@
 - **[[d/_descended|Descended]] from.**
 	- _Example: He's a full-blooded Apache._
 - **[[b/_bloody|Bloody]], [[b/_bleeding|bleeding]].**
-- **(of horses, [[c/_cattle|cattle]], etc.) [[d/_derived|derived]] from [[a/_ancestors|ancestors]] of good [[b/_blood|blood]]; having a good pedigree.**
+- **(of horses, [[c/_cattle|cattle]], [[e/_etc|etc]].) [[d/_derived|derived]] from [[a/_ancestors|ancestors]] of good [[b/_blood|blood]]; having a good pedigree.**
 ---
 ---

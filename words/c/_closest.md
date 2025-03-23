@@ -7,9 +7,9 @@
 - **To have a vector sum of 0; that is, to form a [[c/_closed|closed]] polygon.**
 ---
 ### Synonyms
-- [[narrow]], [[shut]], [[close off]], [[close up]], [[cover]], [[shut]], [[shut off]], [[close down]], [[end]], [[finish]], [[terminate]], [[wind up]], [[close out]], [[exit]]
+- [[n/_narrow|narrow]], [[s/_shut|shut]], [[c/_cover|cover]], [[s/_shut|shut]], [[e/_end|end]], [[f/_finish|finish]], [[t/_terminate|terminate]], [[e/_exit|exit]]
 ### Antonyms
-- [[extend]], [[widen]], [[open]], [[open]], [[begin]], [[commence]], [[initiate]], [[start]], [[open]], [[start]]
+- [[e/_extend|extend]], [[w/_widen|widen]], [[o/_open|open]], [[o/_open|open]], [[b/_begin|begin]], [[c/_commence|commence]], [[i/_initiate|initiate]], [[s/_start|start]], [[o/_open|open]], [[s/_start|start]]
 #adjective
 - **[[c/_closed|Closed]], shut.**
 - **Narrow; [[c/_confined|confined]].**
@@ -41,7 +41,7 @@
 - **Marked, evident.**
 ---
 ### Synonyms
-- [[high]], [[close by]], [[near]], [[nearby]], [[muggy]], [[oppressive]], [[intimate]]
+- [[h/_high|high]], [[n/_near|near]], [[n/_nearby|nearby]], [[m/_muggy|muggy]], [[o/_oppressive|oppressive]], [[i/_intimate|intimate]]
 ### Antonyms
-- [[open]], [[distant]], [[far]], [[far off]], [[faraway]], [[remote]], [[aloof]], [[cool]], [[distant]]
+- [[o/_open|open]], [[d/_distant|distant]], [[f/_far|far]], [[f/_faraway|faraway]], [[r/_remote|remote]], [[a/_aloof|aloof]], [[c/_cool|cool]], [[d/_distant|distant]]
 ---

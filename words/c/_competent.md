@@ -10,5 +10,5 @@
 - **Resistant to [[d/_deformation|deformation]] or flow.**
 ---
 ### Antonyms
-- [[incompetent]]
+- [[i/_incompetent|incompetent]]
 ---

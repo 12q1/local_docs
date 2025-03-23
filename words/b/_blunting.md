@@ -6,7 +6,7 @@
 	- _Example: It blunted my appetite._
 ---
 ### Synonyms
-- [[blunten]]
+- [[b/_blunten|blunten]]
 #noun
 - **The process by which something is made [[b/_blunt|blunt]].**
 ---

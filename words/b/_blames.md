@@ -7,5 +7,5 @@
 	- _Example: The arsonist was blamed for the fire._
 ---
 ### Synonyms
-- [[reproach]], [[shend]], [[take to task]], [[upbraid]], [[hold to account]]
+- [[r/_reproach|reproach]], [[s/_shend|shend]], [[u/_upbraid|upbraid]]
 ---

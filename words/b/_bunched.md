@@ -8,5 +8,5 @@
 - **To protrude or swell**
 ---
 ### Synonyms
-- [[cluster]], [[group]]
+- [[c/_cluster|cluster]], [[g/_group|group]]
 ---

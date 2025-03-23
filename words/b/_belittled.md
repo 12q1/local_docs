@@ -1,11 +1,11 @@
 # Belittled
 ---
 #verb
-- **To knowingly say that something is smaller or less important than it [[a/_actually|actually]] is, especially as a way of showing [[c/_contempt|contempt]] or [[d/_deprecation|deprecation]].**
+- **To knowingly say that something is smaller or less important than it [[a/_actually|actually]] is, [[e/_especially|especially]] as a way of showing [[c/_contempt|contempt]] or [[d/_deprecation|deprecation]].**
 	- _Example: Don't belittle your colleagues._
 ---
 ### Synonyms
-- [[bagatellize]], [[degrade]], [[denigrate]], [[deprecate]], [[disparage]], [[downplay]], [[make light of]], [[play down]], [[trivialize]], [[understate]]
+- [[b/_bagatellize|bagatellize]], [[d/_degrade|degrade]], [[d/_denigrate|denigrate]], [[d/_deprecate|deprecate]], [[d/_disparage|disparage]], [[d/_downplay|downplay]], [[t/_trivialize|trivialize]], [[u/_understate|understate]]
 ### Antonyms
-- [[exaggerate]]
+- [[e/_exaggerate|exaggerate]]
 ---

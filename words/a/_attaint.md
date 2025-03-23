@@ -1,7 +1,7 @@
 # Attaint
 ---
 #noun
-- **A [[b/_blow|blow]] or strike, especially in jousting.**
+- **A [[b/_blow|blow]] or strike, [[e/_especially|especially]] in jousting.**
 - **A wound on the leg of a horse [[c/_caused|caused]] by a [[b/_blow|blow]]**
 - **The giving of a false verdict by a jury; the [[c/_conviction|conviction]] of such a jury, and the reversal of the verdict**
 ---

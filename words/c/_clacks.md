@@ -1,7 +1,7 @@
 # Clacks
 ---
 #noun
-- **An [[a/_abrupt|abrupt]], sharp sound, especially one made by two hard objects [[c/_colliding|colliding]] repetitively; a sound midway [[b/_between|between]] a [[c/_click|click]] and a [[c/_clunk|clunk]].**
+- **An [[a/_abrupt|abrupt]], sharp sound, [[e/_especially|especially]] one made by two hard objects [[c/_colliding|colliding]] repetitively; a sound midway [[b/_between|between]] a [[c/_click|click]] and a [[c/_clunk|clunk]].**
 - **[[a/_anything|Anything]] that [[c/_causes|causes]] a [[c/_clacking|clacking]] noise, such as the [[c/_clapper|clapper]] of a mill, or a [[c/_clack|clack]] valve.**
 - **[[c/_chatter|Chatter]]; prattle.**
 - **The tongue.**

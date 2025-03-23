@@ -12,5 +12,5 @@
 - **Flowing to; flowing [[a/_abundantly|abundantly]].**
 ---
 ### Antonyms
-- [[indigent]]
+- [[i/_indigent|indigent]]
 ---

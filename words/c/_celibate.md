@@ -1,11 +1,11 @@
 # Celibate
 ---
 #noun
-- **One who is not married, especially one who has taken a religious vow not to get married, usually [[b/_because|because]] of [[b/_being|being]] a member of a religious [[c/_community|community]].**
+- **One who is not married, [[e/_especially|especially]] one who has taken a religious vow not to get married, usually [[b/_because|because]] of [[b/_being|being]] a member of a religious [[c/_community|community]].**
 - **A [[c/_celibate|celibate]] state; [[c/_celibacy|celibacy]].**
 ---
 ### Synonyms
-- [[cel]], [[volcel]]
+- [[c/_cel|cel]], [[v/_volcel|volcel]]
 #verb
 - **To practice [[c/_celibacy|celibacy]]**
 ---
@@ -15,5 +15,5 @@
 	- _Example: Members of religious communities sometimes take vows to remain celibate._
 ---
 ### Synonyms
-- [[abstinent]], [[chaste]], [[pure]], [[single]], [[unmarried]]
+- [[a/_abstinent|abstinent]], [[c/_chaste|chaste]], [[p/_pure|pure]], [[s/_single|single]], [[u/_unmarried|unmarried]]
 ---

@@ -4,5 +4,5 @@
 - **Toothless.**
 ---
 ### Antonyms
-- [[dentulous]]
+- [[d/_dentulous|dentulous]]
 ---

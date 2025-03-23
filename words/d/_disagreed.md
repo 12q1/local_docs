@@ -7,5 +7,5 @@
 	- _Example: My results in the laboratory consistently disagree with yours._
 ---
 ### Synonyms
-- [[beg to differ]]
+- 
 ---

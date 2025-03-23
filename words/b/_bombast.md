@@ -6,7 +6,7 @@
 - **High-sounding words; language [[a/_above|above]] the [[d/_dignity|dignity]] of the occasion; a pompous or ostentatious manner of writing or speaking.**
 ---
 ### Synonyms
-- [[fustian]], [[aureation]], [[bombard phrase]], [[fustian]], [[grandiloquence]], [[purple prose]]
+- [[f/_fustian|fustian]], [[a/_aureation|aureation]], [[f/_fustian|fustian]], [[g/_grandiloquence|grandiloquence]]
 #verb
 - **To swell or fill out; to inflate, to pad.**
 - **To use high-sounding words; to speak or write in a pompous or ostentatious manner.**
@@ -15,5 +15,5 @@
 - **[[b/_big|Big]] without meaning, or high-sounding; [[b/_bombastic|bombastic]], inflated; magniloquent.**
 ---
 ### Synonyms
-- [[aureate]], [[highfalutin]]
+- [[a/_aureate|aureate]], [[h/_highfalutin|highfalutin]]
 ---

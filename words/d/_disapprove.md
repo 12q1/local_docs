@@ -7,5 +7,5 @@
 - **To have or express an unfavorable opinion.**
 ---
 ### Antonyms
-- [[approve]]
+- [[a/_approve|approve]]
 ---

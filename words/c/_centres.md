@@ -16,14 +16,14 @@
 - **A pass played into the [[c/_centre|centre]] of the pitch.**
 - **One of the [[b/_backs|backs]] operating in a [[c/_central|central]] [[a/_area|area]] of the pitch, [[e/_either|either]] the inside [[c/_centre|centre]] or outside [[c/_centre|centre]].**
 - **A temporary structure upon which the materials of a vault or [[a/_arch|arch]] are supported in position until the work [[b/_becomes|becomes]] self-supporting.**
-- **One of the two [[c/_conical|conical]] steel pins in a lathe, etc., upon which the work is held, and [[a/_about|about]] which it revolves.**
+- **One of the two [[c/_conical|conical]] steel pins in a lathe, [[e/_etc|etc]]., upon which the work is held, and [[a/_about|about]] which it revolves.**
 - **A [[c/_conical|conical]] recess or indentation in the [[e/_end|end]] of a shaft or other work, to receive the point of a [[c/_center|center]], on which the work [[c/_can|can]] turn, as in a lathe.**
 - **The [[e/_ensemble|ensemble]] of moderate or [[c/_centrist|centrist]] political parties.**
 ---
 ### Synonyms
-- [[middle]], [[midst]], [[center of gravity]], [[center of mass]], [[centroid]], [[midpoint]]
+- [[m/_middle|middle]], [[m/_midst|midst]], [[c/_centroid|centroid]], [[m/_midpoint|midpoint]]
 ### Antonyms
-- [[periphery]]
+- [[p/_periphery|periphery]]
 #verb
 - **To [[c/_cause|cause]] (an object) to occupy the [[c/_center|center]] of an [[a/_area|area]].**
 	- _Example: He centered the heading of the document._

@@ -4,5 +4,5 @@
 - **A valley, often in an otherwise hilly [[a/_area|area]].**
 ---
 ### Synonyms
-- [[dell]], [[dells]], [[vale]]
+- [[d/_dell|dell]], [[d/_dells|dells]], [[v/_vale|vale]]
 ---

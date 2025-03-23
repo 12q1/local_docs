@@ -14,9 +14,9 @@
 - **To [[a/_accompany|accompany]]; to be in the [[c/_company|company]] of.**
 ---
 ### Synonyms
-- [[attach]], [[join]], [[put together]], [[unite]]
+- [[a/_attach|attach]], [[j/_join|join]], [[u/_unite|unite]]
 ### Antonyms
-- [[disassociate]]
+- [[d/_disassociate|disassociate]]
 #adjective
 - **(of a person or thing) [[c/_connected|connected]] with something or [[a/_another|another]] person.**
 	- _Example: an associated member_

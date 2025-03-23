@@ -1,6 +1,6 @@
 # Cashiering
 ---
 #noun
-- **A [[d/_dismissal|dismissal]] of an individual from service, especially in the military.**
+- **A [[d/_dismissal|dismissal]] of an individual from service, [[e/_especially|especially]] in the military.**
 ---
 ---

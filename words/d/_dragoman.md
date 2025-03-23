@@ -1,6 +1,6 @@
 # Dragoman
 ---
 #noun
-- **An interpreter, especially for the [[a/_arabic|Arabic]] and Turkish languages.**
+- **An interpreter, [[e/_especially|especially]] for the [[a/_arabic|Arabic]] and Turkish languages.**
 ---
 ---

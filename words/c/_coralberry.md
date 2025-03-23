@@ -7,5 +7,5 @@
 - **[[a/_ardisia|Ardisia]] crenata of [[e/_east|east]] [[a/_asia|Asia]].**
 ---
 ### Synonyms
-- [[Michigan holly]], [[Virginian winterberry]], [[black alder]], [[black alder winterberry]], [[brook alder]], [[deciduous holly]], [[deciduous winterberry]], [[false alder]], [[fever bush]], [[inkberry]], [[possumhaw]], [[striped alder]], [[swamp holly]], [[white alder]], [[winterberry]], [[winterberry holly]], [[Christmas berry]], [[spiceberry]], [[buckbrush]]
+- [[i/_inkberry|inkberry]], [[p/_possumhaw|possumhaw]], [[w/_winterberry|winterberry]], [[s/_spiceberry|spiceberry]], [[b/_buckbrush|buckbrush]]
 ---

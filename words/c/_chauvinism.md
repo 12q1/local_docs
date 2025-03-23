@@ -6,5 +6,5 @@
 	- _Example: Feminists say that male chauvinism is still prevalent in cultures worldwide._
 ---
 ### Synonyms
-- [[jingoism]]
+- [[j/_jingoism|jingoism]]
 ---

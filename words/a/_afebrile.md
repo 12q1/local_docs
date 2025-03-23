@@ -4,5 +4,5 @@
 - **Having no fever, without a fever.**
 ---
 ### Synonyms
-- [[apyretic]]
+- [[a/_apyretic|apyretic]]
 ---

@@ -10,7 +10,7 @@
 - **A flap of a valve of a heart or [[b/_blood|blood]] vessel.**
 ---
 ### Synonyms
-- [[ord]]
+- [[o/_ord|ord]]
 #verb
 - **To [[b/_behave|behave]] in a reckless or [[d/_dangerous|dangerous]] manner.**
 ---

@@ -4,5 +4,5 @@
 - **Very intellectually [[c/_capable|capable]].**
 ---
 ### Synonyms
-- [[clever]], [[smart]]
+- [[c/_clever|clever]], [[s/_smart|smart]]
 ---

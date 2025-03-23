@@ -10,5 +10,5 @@
 	- _Example: Bagpipes are traditionally played in most Celtic regions and many former parts of the British Empire._
 ---
 ### Synonyms
-- [[bagpipe]], [[pipes]]
+- [[b/_bagpipe|bagpipe]], [[p/_pipes|pipes]]
 ---

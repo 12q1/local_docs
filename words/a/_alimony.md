@@ -5,5 +5,5 @@
 - **The means to support life.**
 ---
 ### Synonyms
-- [[maintenance]]
+- [[m/_maintenance|maintenance]]
 ---

@@ -7,7 +7,7 @@
 - **To sow seeds over a wide [[a/_area|area]].**
 ---
 ### Synonyms
-- [[air]], [[transmit]]
+- [[a/_air|air]], [[t/_transmit|transmit]]
 ### Antonyms
-- [[narrowcast]]
+- [[n/_narrowcast|narrowcast]]
 ---

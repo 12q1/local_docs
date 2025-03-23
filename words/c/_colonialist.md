@@ -7,5 +7,5 @@
 - **Of or pertaining to [[c/_colonialism|colonialism]].**
 ---
 ### Synonyms
-- [[colonialistic]]
+- [[c/_colonialistic|colonialistic]]
 ---

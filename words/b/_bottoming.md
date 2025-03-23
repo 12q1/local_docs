@@ -3,8 +3,8 @@
 #verb
 - **To furnish (something) with a [[b/_bottom|bottom]].**
 	- _Example: to bottom a chair_
-- **To wind (like a [[b/_ball|ball]] of thread etc.).**
-- **To establish or found (something) on or upon.**
+- **To wind (like a [[b/_ball|ball]] of thread [[e/_etc|etc]].).**
+- **To [[e/_establish|establish]] or found (something) on or upon.**
 - **([[c/_chiefly|chiefly]] in passive) To lie on the [[b/_bottom|bottom]] of; to underlie, to lie [[b/_beneath|beneath]].**
 - **To be [[b/_based|based]] or grounded.**
 - **To reach or strike [[a/_against|against]] the [[b/_bottom|bottom]] of something, so as to impede free [[a/_action|action]].**

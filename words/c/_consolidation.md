@@ -6,5 +6,5 @@
 - **A solidification into a firm [[d/_dense|dense]] mass. It is usually [[a/_applied|applied]] to induration (swelling or hardening of normally soft tissue) of a normally [[a/_aerated|aerated]] lung.**
 ---
 ### Synonyms
-- [[combination]], [[solidification]]
+- [[c/_combination|combination]], [[s/_solidification|solidification]]
 ---

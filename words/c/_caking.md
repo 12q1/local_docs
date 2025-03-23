@@ -6,7 +6,7 @@
 - **To form into a [[c/_cake|cake]], or mass.**
 ---
 ### Synonyms
-- [[crust]], [[encrust]]
+- [[c/_crust|crust]], [[e/_encrust|encrust]]
 #verb
 - **To [[c/_cackle|cackle]] like a goose.**
 ---

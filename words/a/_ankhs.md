@@ -5,5 +5,5 @@
 - **Tau [[c/_cross|cross]]**
 ---
 ### Synonyms
-- [[Egyptian cross]], [[ansate cross]], [[crux ansata]]
+- 
 ---

@@ -11,5 +11,5 @@
 - **Falling, rolling, or throwing one's [[b/_body|body]] on the [[b/_back|back]] of an opponent's legs [[a/_after|after]] [[a/_approaching|approaching]] from [[b/_behind|behind]].**
 ---
 ### Synonyms
-- [[cutting]], [[offcut]], [[snippet]], [[short form]]
+- [[c/_cutting|cutting]], [[o/_offcut|offcut]], [[s/_snippet|snippet]]
 ---

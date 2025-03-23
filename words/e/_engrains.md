@@ -6,5 +6,5 @@
 	- _Example: The dirt was deeply ingrained in the carpet._
 ---
 ### Synonyms
-- [[breed in the bone]], [[embed]], [[infix]], [[instill]], [[radicate]]
+- [[e/_embed|embed]], [[i/_infix|infix]], [[i/_instill|instill]], [[r/_radicate|radicate]]
 ---

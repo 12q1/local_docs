@@ -7,7 +7,7 @@
 - **A [[c/_communist|communist]]; a person with [[c/_communist|communist]] sympathies; a supposed [[c/_communist|communist]] infiltrator.**
 ---
 ### Synonyms
-- [[commo]]
+- [[c/_commo|commo]]
 #noun
 - **A Holden [[c/_commodore|Commodore]].**
 ---

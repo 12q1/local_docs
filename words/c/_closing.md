@@ -7,16 +7,16 @@
 - **To have a vector sum of 0; that is, to form a [[c/_closed|closed]] polygon.**
 ---
 ### Synonyms
-- [[narrow]], [[shut]], [[close off]], [[close up]], [[cover]], [[shut]], [[shut off]], [[close down]], [[end]], [[finish]], [[terminate]], [[wind up]], [[close out]], [[exit]]
+- [[n/_narrow|narrow]], [[s/_shut|shut]], [[c/_cover|cover]], [[s/_shut|shut]], [[e/_end|end]], [[f/_finish|finish]], [[t/_terminate|terminate]], [[e/_exit|exit]]
 ### Antonyms
-- [[extend]], [[widen]], [[open]], [[open]], [[begin]], [[commence]], [[initiate]], [[start]], [[open]], [[start]]
+- [[e/_extend|extend]], [[w/_widen|widen]], [[o/_open|open]], [[o/_open|open]], [[b/_begin|begin]], [[c/_commence|commence]], [[i/_initiate|initiate]], [[s/_start|start]], [[o/_open|open]], [[s/_start|start]]
 #noun
 - **The [[a/_act|act]] by which something is [[c/_closed|closed]].**
 	- _Example: openings and closings of doors_
 - **The [[e/_end|end]] or [[c/_conclusion|conclusion]] of something.**
 	- _Example: the closing of a popular play_
 - **The final procedure in a house sale, when [[d/_documents|documents]] are signed and recorded.**
-- **In morphology, the erosion of the [[d/_dilation|dilation]] of a set.**
+- **In morphology, the [[e/_erosion|erosion]] of the [[d/_dilation|dilation]] of a set.**
 ---
 #adjective
 - **Pertaining to the finish or [[e/_ending|ending]] of a series of events; occurring at the [[e/_end|end]] or [[a/_after|after]] [[a/_all|all]] others.**

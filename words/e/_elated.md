@@ -5,11 +5,11 @@
 - **To lift up; raise; [[e/_elevate|elevate]].**
 ---
 #adjective
-- **Extremely happy and excited; [[d/_delighted|delighted]]; pleased, euphoric.**
+- **Extremely happy and excited; [[d/_delighted|delighted]]; pleased, [[e/_euphoric|euphoric]].**
 	- _Example: She was elated with her new car._
 ---
 ### Synonyms
-- [[ecstatic]], [[euphoric]], [[exultant]], [[joyful]], [[jubilant]], [[overjoyed]]
+- [[e/_ecstatic|ecstatic]], [[e/_euphoric|euphoric]], [[e/_exultant|exultant]], [[j/_joyful|joyful]], [[j/_jubilant|jubilant]], [[o/_overjoyed|overjoyed]]
 ### Antonyms
-- [[displeased]], [[dissatisfied]]
+- [[d/_displeased|displeased]], [[d/_dissatisfied|dissatisfied]]
 ---

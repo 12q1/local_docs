@@ -4,7 +4,7 @@
 - **[[c/_capable|Capable]] of [[b/_being|being]] [[d/_doubted|doubted]]; susceptible of [[b/_being|being]] questioned.**
 ---
 ### Synonyms
-- [[doubtable]], [[doubtful]], [[uncertain]]
+- [[d/_doubtable|doubtable]], [[d/_doubtful|doubtful]], [[u/_uncertain|uncertain]]
 ### Antonyms
-- [[indubitable]]
+- [[i/_indubitable|indubitable]]
 ---

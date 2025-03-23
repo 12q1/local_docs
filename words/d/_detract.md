@@ -5,5 +5,5 @@
 - **To take [[c/_credit|credit]] or reputation from; to [[d/_defame|defame]] or [[d/_decry|decry]].**
 ---
 ### Synonyms
-- [[decry]], [[defame]]
+- [[d/_decry|decry]], [[d/_defame|defame]]
 ---

@@ -16,9 +16,9 @@
 - **To transfer the input focus [[a/_away|away]] from.**
 ---
 ### Synonyms
-- [[pixelate]], [[smooth]], [[unfocus]]
+- [[p/_pixelate|pixelate]], [[s/_smooth|smooth]], [[u/_unfocus|unfocus]]
 ### Antonyms
-- [[sharpen]]
+- [[s/_sharpen|sharpen]]
 #adjective
 - **In a state of [[d/_doubt|doubt]] or [[c/_confusion|confusion]].**
 ---

@@ -6,7 +6,7 @@
 	- _Example: The wind lifted up her skirt and I caught a glimpse of her downstairs._
 ---
 ### Antonyms
-- [[upstairs]]
+- [[u/_upstairs|upstairs]]
 #adjective
 - **A floor lower than the [[c/_current|current]] one.**
 	- _Example: The kids sleep in the downstairs bedroom, we sleep in the upstairs one._

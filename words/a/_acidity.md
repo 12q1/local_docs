@@ -7,5 +7,5 @@
 - **Excessive [[a/_acid|acid]] quality, as in gastric secretions.**
 ---
 ### Antonyms
-- [[alkalinity]]
+- [[a/_alkalinity|alkalinity]]
 ---

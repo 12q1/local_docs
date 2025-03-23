@@ -6,5 +6,5 @@
 - **Profoundly.**
 ---
 ### Synonyms
-- [[deep]]
+- [[d/_deep|deep]]
 ---

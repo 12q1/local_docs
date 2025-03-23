@@ -4,7 +4,7 @@
 - **(temporal location) At a later or succeeding time.**
 ---
 ### Synonyms
-- [[afterhand]], [[afterward]]
+- [[a/_afterhand|afterhand]], [[a/_afterward|afterward]]
 ### Antonyms
-- [[beforehand]]
+- [[b/_beforehand|beforehand]]
 ---

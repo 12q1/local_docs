@@ -4,5 +4,5 @@
 - **Good-natured; full of [[b/_bonhomie|bonhomie]].**
 ---
 ### Synonyms
-- [[friendly]], [[genial]]
+- [[f/_friendly|friendly]], [[g/_genial|genial]]
 ---

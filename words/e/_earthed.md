@@ -7,7 +7,7 @@
 - **To [[b/_burrow|burrow]].**
 ---
 ### Synonyms
-- [[ground]]
+- [[g/_ground|ground]]
 #adjective
 - **Grounded, [[c/_connected|connected]] [[e/_electrically|electrically]] to the ground.**
 ---

@@ -7,7 +7,7 @@
 - **To [[d/_die|die]].**
 - **To kill someone or something.**
 	- _Example: He'd seen my face, so I had to croak him._
-- **To [[c/_complain|complain]]; especially, to grumble; to forebode evil; to utter [[c/_complaints|complaints]] or forebodings habitually.**
+- **To [[c/_complain|complain]]; [[e/_especially|especially]], to grumble; to forebode evil; to utter [[c/_complaints|complaints]] or forebodings habitually.**
 ---
 #noun
 - **The sound of something that [[c/_croaks|croaks]].**

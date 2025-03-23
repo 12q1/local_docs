@@ -8,5 +8,5 @@
 - **The spar to which a lateen sail is [[a/_attached|attached]], which is then hoisted up the mast.**
 ---
 ### Synonyms
-- [[aerial]], [[feeler]]
+- [[a/_aerial|aerial]], [[f/_feeler|feeler]]
 ---

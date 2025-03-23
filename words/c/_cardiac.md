@@ -12,5 +12,5 @@
 - **Exciting [[a/_action|action]] in the heart, through the medium of the stomach; [[c/_cordial|cordial]]; stimulant.**
 ---
 ### Antonyms
-- [[noncardiac]]
+- [[n/_noncardiac|noncardiac]]
 ---

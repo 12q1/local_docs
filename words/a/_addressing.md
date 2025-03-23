@@ -8,9 +8,9 @@
 - **To prepare oneself; to [[a/_apply|apply]] one's skill or [[e/_energies|energies]] (to some object); to [[b/_betake|betake]].**
 - **To [[d/_direct|direct]] one’s remarks (to someone).**
 - **To [[c/_clothe|clothe]] or [[a/_array|array]]; to [[d/_dress|dress]].**
-- **To [[d/_direct|direct]], as words (to [[a/_anyone|anyone]] or [[a/_anything|anything]]); to make, as a speech, petition, etc. (to [[a/_any|any]] [[a/_audience|audience]]).**
+- **To [[d/_direct|direct]], as words (to [[a/_anyone|anyone]] or [[a/_anything|anything]]); to make, as a speech, petition, [[e/_etc|etc]]. (to [[a/_any|any]] [[a/_audience|audience]]).**
 	- _Example: He addressed some portions of his remarks to his supporters, some to his opponents._
-- **To [[d/_direct|direct]] speech to; to make a [[c/_communication|communication]] to, whether spoken or written; to [[a/_apply|apply]] to by words, as by a speech, petition, etc., to speak to.**
+- **To [[d/_direct|direct]] speech to; to make a [[c/_communication|communication]] to, whether spoken or written; to [[a/_apply|apply]] to by words, as by a speech, petition, [[e/_etc|etc]]., to speak to.**
 - **To [[d/_direct|direct]] in writing, as a letter; to superscribe, or to [[d/_direct|direct]] and transmit.**
 	- _Example: He addressed a letter._
 - **To make suit to as a lover; to [[c/_court|court]]; to woo.**
@@ -22,7 +22,7 @@
 - **To get ready to hit (the [[b/_ball|ball]] on the tee).**
 ---
 ### Synonyms
-- [[beclothe]], [[dight]], [[put on]], [[put the moves on]], [[romance]]
+- [[b/_beclothe|beclothe]], [[d/_dight|dight]], [[r/_romance|romance]]
 #noun
 - **A process of putting a person's name and [[a/_address|address]] on an item of mail**
 - **[[a/_any|Any]] of several methods of locating and [[a/_accessing|accessing]] information within storage**

@@ -9,7 +9,7 @@
 - **Mentally [[d/_dull|dull]]; stupid.**
 ---
 ### Synonyms
-- [[sterile]]
+- [[s/_sterile|sterile]]
 ### Antonyms
-- [[fertile]], [[fruitful]]
+- [[f/_fertile|fertile]], [[f/_fruitful|fruitful]]
 ---

@@ -11,5 +11,5 @@
 - **Having such a [[c/_colouration|colouration]]; [[b/_brindled|brindled]]**
 ---
 ### Synonyms
-- [[tabby]]
+- [[t/_tabby|tabby]]
 ---

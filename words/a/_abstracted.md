@@ -17,7 +17,7 @@
 	- _Example: He abstracted out the square root function._
 ---
 ### Synonyms
-- [[abridge]], [[epitomize]], [[summarize]], [[filch]], [[purloin]], [[steal]], [[remove]], [[separate]], [[take away]], [[withdraw]]
+- [[a/_abridge|abridge]], [[e/_epitomize|epitomize]], [[s/_summarize|summarize]], [[f/_filch|filch]], [[p/_purloin|purloin]], [[s/_steal|steal]], [[r/_remove|remove]], [[s/_separate|separate]], [[w/_withdraw|withdraw]]
 #adjective
 - **Separated or [[d/_disconnected|disconnected]]; withdrawn; removed; [[a/_apart|apart]].**
 - **Separated from matter; [[a/_abstract|abstract]]; ideal, not [[c/_concrete|concrete]].**

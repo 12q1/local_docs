@@ -7,5 +7,5 @@
 - **[[a/_any|Any]] residual irregularity following processing**
 ---
 ### Synonyms
-- [[arando]], [[bearberry]], [[dag]], [[dags]], [[idiot]], [[moron]]
+- [[a/_arando|arando]], [[b/_bearberry|bearberry]], [[d/_dag|dag]], [[d/_dags|dags]], [[i/_idiot|idiot]], [[m/_moron|moron]]
 ---

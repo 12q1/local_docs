@@ -10,7 +10,7 @@
 	- _Example: Most immigrants adjust quickly to a new community.   She waited for her eyes to adjust to the darkness._
 ---
 ### Synonyms
-- [[change]], [[edit]], [[modify]], [[set]]
+- [[c/_change|change]], [[e/_edit|edit]], [[m/_modify|modify]], [[s/_set|set]]
 #adjective
 - **Which has [[b/_been|been]] [[c/_compensated|compensated]] in order to [[a/_avoid|avoid]] [[b/_bias|bias]].**
 ---

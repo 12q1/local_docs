@@ -12,13 +12,13 @@
 - **To know.**
 ---
 ### Synonyms
-- [[be able to]], [[cognize]], [[grok]], [[ken]], [[may]]
+- [[c/_cognize|cognize]], [[g/_grok|grok]], [[k/_ken|ken]], [[m/_may|may]]
 ### Antonyms
-- [[can't]], [[cannot]], [[can’t]]
+- [[c/_can't|can't]], [[c/_cannot|cannot]], [[c/_can’t|can’t]]
 #adjective
 - **Familiar, known; well-known, renowned.**
 - **Variant of [[c/_couthie|couthie]].**
 ---
 ### Antonyms
-- [[uncouth]]
+- [[u/_uncouth|uncouth]]
 ---

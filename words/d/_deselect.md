@@ -7,5 +7,5 @@
 	- _Example: Make sure you deselect any files you wish to keep before proceeding with the deletion._
 ---
 ### Antonyms
-- [[select]]
+- [[s/_select|select]]
 ---

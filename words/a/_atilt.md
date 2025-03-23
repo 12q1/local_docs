@@ -5,7 +5,7 @@
 	- _Example: The child listened, her head atilt._
 ---
 ### Synonyms
-- [[tilted]]
+- [[t/_tilted|tilted]]
 #adverb
 - **At an [[a/_angle|angle]] from the vertical or horizontal; at the point of falling over.**
 	- _Example: He wore his hat rakishly atilt._
@@ -16,5 +16,5 @@
 - **[[d/_diagonally|Diagonally]] over or [[a/_across|across]].**
 ---
 ### Synonyms
-- [[aslant]]
+- [[a/_aslant|aslant]]
 ---

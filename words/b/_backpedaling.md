@@ -8,8 +8,8 @@
 	- _Example: Though initially adopting a hard-line stance, the politician soon started to backpedal._
 ---
 ### Synonyms
-- [[climb down]]
+- 
 #noun
-- **The [[a/_act|act]] of [[d/_distancing|distancing]] oneself from a previously supported idea, [[a/_action|action]], [[b/_behaviour|behaviour]], etc.; a U-turn or flip-flop.**
+- **The [[a/_act|act]] of [[d/_distancing|distancing]] oneself from a previously supported idea, [[a/_action|action]], [[b/_behaviour|behaviour]], [[e/_etc|etc]].; a U-turn or flip-flop.**
 ---
 ---

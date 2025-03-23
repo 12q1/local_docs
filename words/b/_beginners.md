@@ -7,5 +7,5 @@
 	- _Example: The beginner of the games lit the ceremonial torch._
 ---
 ### Synonyms
-- [[amateur]], [[newbie]]
+- [[a/_amateur|amateur]], [[n/_newbie|newbie]]
 ---

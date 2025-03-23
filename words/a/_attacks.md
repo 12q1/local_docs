@@ -19,13 +19,13 @@
 - **([[a/_audio|audio]]) The [[a/_amount|amount]] of time it takes for the volume of an [[a/_audio|audio]] signal to go from zero to maximum level ([[e/_e|e]].g. an [[a/_audio|audio]] waveform representing a snare [[d/_drum|drum]] hit would feature a very fast [[a/_attack|attack]], whereas that of a wave washing to shore would feature a slow [[a/_attack|attack]]).**
 ---
 ### Synonyms
-- [[hit]], [[spike]]
+- [[h/_hit|hit]], [[s/_spike|spike]]
 ### Antonyms
-- [[decay]], [[release]]
+- [[d/_decay|decay]], [[r/_release|release]]
 #verb
 - **To [[a/_apply|apply]] violent force to someone or something.**
 	- _Example: This species of snake will only attack humans if it feels threatened._
-- **To [[a/_aggressively|aggressively]] [[c/_challenge|challenge]] a person, idea, etc., with words (particularly in newspaper headlines, [[b/_because|because]] it typesets into less space than "[[c/_criticize|criticize]]" or similar).**
+- **To [[a/_aggressively|aggressively]] [[c/_challenge|challenge]] a person, idea, [[e/_etc|etc]]., with words (particularly in newspaper headlines, [[b/_because|because]] it typesets into less space than "[[c/_criticize|criticize]]" or similar).**
 	- _Example: She published an article attacking the recent pay cuts._
 - **To [[b/_begin|begin]] to [[a/_affect|affect]]; to [[a/_act|act]] upon injuriously or [[d/_destructively|destructively]]; to [[b/_begin|begin]] to [[d/_decompose|decompose]] or waste.**
 - **To [[d/_deal|deal]] with something in a [[d/_direct|direct]] way; to set to work upon.**

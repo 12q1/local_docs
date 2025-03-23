@@ -4,5 +4,5 @@
 - **Not in the [[c/_correct|correct]] [[d/_date|date]] order. [[c/_chronologically|Chronologically]] incorrect.**
 ---
 ### Synonyms
-- [[anachronical]]
+- [[a/_anachronical|anachronical]]
 ---

@@ -5,5 +5,5 @@
 - **To [[b/_beat|beat]] in a [[c/_contest|contest]]**
 ---
 ### Antonyms
-- [[worst]]
+- [[w/_worst|worst]]
 ---

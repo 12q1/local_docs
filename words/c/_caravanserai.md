@@ -6,5 +6,5 @@
 - **A home or shelter for [[c/_caravans|caravans]].**
 ---
 ### Synonyms
-- [[khan]], [[sarai]], [[serai]]
+- [[k/_khan|khan]], [[s/_sarai|sarai]], [[s/_serai|serai]]
 ---

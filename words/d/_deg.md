@@ -1,7 +1,7 @@
 # Deg
 ---
 #noun
-- **A stage of proficiency or qualification in a [[c/_course|course]] of study, now especially an [[a/_award|award]] [[b/_bestowed|bestowed]] by a university or, in some [[c/_countries|countries]], a [[c/_college|college]], as a [[c/_certification|certification]] of [[a/_academic|academic]] [[a/_achievement|achievement]]. (In the United States, [[c/_can|can]] include secondary schools.)**
+- **A stage of proficiency or qualification in a [[c/_course|course]] of study, now [[e/_especially|especially]] an [[a/_award|award]] [[b/_bestowed|bestowed]] by a university or, in some [[c/_countries|countries]], a [[c/_college|college]], as a [[c/_certification|certification]] of [[a/_academic|academic]] [[a/_achievement|achievement]]. (In the United States, [[c/_can|can]] include secondary schools.)**
 	- _Example: She has two bachelor's degrees and is studying towards a master's degree._
 - **A unit of measurement of [[a/_angle|angle]] [[e/_equal|equal]] to 1/360 of a [[c/_circle|circle]]'s [[c/_circumference|circumference]].**
 	- _Example: A right angle is a ninety-degree angle._
@@ -25,5 +25,5 @@
 	- _Example: To what degree do the two accounts of the accident concur?_
 ---
 ### Synonyms
-- [[arcdegree]], [[°]], [[°]], [[°]], [[°]]
+- [[a/_arcdegree|arcdegree]], [[°/_°|°]], [[°/_°|°]], [[°/_°|°]], [[°/_°|°]]
 ---

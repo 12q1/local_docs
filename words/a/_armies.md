@@ -13,5 +13,5 @@
 	- _Example: There was an army of construction cranes working on building the skyscraper._
 ---
 ### Synonyms
-- [[ferd]], [[here]], [[host]]
+- [[f/_ferd|ferd]], [[h/_here|here]], [[h/_host|host]]
 ---

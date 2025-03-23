@@ -7,5 +7,5 @@
 	- _Example: the emission of heat from a fire_
 ---
 ### Synonyms
-- [[issuance]]
+- [[i/_issuance|issuance]]
 ---

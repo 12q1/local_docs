@@ -15,5 +15,5 @@
 - **To quieten or reduce (a negative feeling, such as [[a/_anger|anger]] or grief)**
 ---
 ### Synonyms
-- [[arrange]], [[sort]], [[sort out]], [[sort out]]
+- [[a/_arrange|arrange]], [[s/_sort|sort]]
 ---

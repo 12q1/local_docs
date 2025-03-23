@@ -7,7 +7,7 @@
 	- _Example: The sour mash was abubble._
 ---
 ### Synonyms
-- [[bubblesome]], [[bubbly]], [[ebullient]]
+- [[b/_bubblesome|bubblesome]], [[b/_bubbly|bubbly]], [[e/_ebullient|ebullient]]
 #adverb
 - **[[b/_bubbling|Bubbling]] over with excitement.**
 ---

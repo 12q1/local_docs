@@ -10,5 +10,5 @@
 - **Evilness, lack of understanding or [[c/_compassion|compassion]], reference to [[d/_death|death]] or suffering.**
 ---
 ### Antonyms
-- [[light]], [[lightness]]
+- [[l/_light|light]], [[l/_lightness|lightness]]
 ---

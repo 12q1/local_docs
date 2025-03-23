@@ -4,13 +4,13 @@
 - **Frequent repetition of the same [[b/_behavior|behavior]]; way of [[b/_behavior|behavior]] [[c/_common|common]] to many; ordinary manner; habitual practice; method of [[d/_doing|doing]], living or [[b/_behaving|behaving]].**
 - **Traditional [[b/_beliefs|beliefs]] or rituals**
 	- _Example: The Ancient Egyptian culture had many distinctive and interesting beliefs and customs._
-- **Habitual [[b/_buying|buying]] of goods; practice of frequenting, as a shop, factory, etc., for making purchases or giving orders; [[b/_business|business]] support.**
-- **Long-established practice, [[c/_considered|considered]] as unwritten law, and resting for [[a/_authority|authority]] on long [[c/_consent|consent]]; usage. See Usage, and Prescription.**
+- **Habitual [[b/_buying|buying]] of goods; practice of frequenting, as a shop, factory, [[e/_etc|etc]]., for making purchases or giving orders; [[b/_business|business]] support.**
+- **Long-[[e/_established|established]] practice, [[c/_considered|considered]] as unwritten law, and resting for [[a/_authority|authority]] on long [[c/_consent|consent]]; usage. See Usage, and Prescription.**
 - **Familiar [[a/_acquaintance|acquaintance]]; familiarity.**
 - **Toll, tax, or tribute.**
 ---
 ### Synonyms
-- [[fashion]], [[habit]], [[practice]], [[usage]], [[wone]], [[wont]]
+- [[f/_fashion|fashion]], [[h/_habit|habit]], [[p/_practice|practice]], [[u/_usage|usage]], [[w/_wone|wone]], [[w/_wont|wont]]
 #verb
 - **To make familiar; to [[a/_accustom|accustom]].**
 - **To supply with [[c/_customers|customers]].**

@@ -13,13 +13,13 @@
 	- _Example: The score had been written without the treble and bass, but it was easy to pick out which was which based on the location of the notes on the staff._
 ---
 ### Synonyms
-- [[F clef]], [[basso]]
+- [[b/_basso|basso]]
 #noun
 - **The perch; [[a/_any|any]] of various marine and freshwater fish resembling the perch, [[a/_all|all]] within the order of Perciformes.**
 ---
 #noun
 - **The fibrous inner [[b/_bark|bark]] of the linden or lime tree, used for making mats.**
-- **Fibers from other plants, especially palm trees**
+- **Fibers from other plants, [[e/_especially|especially]] palm trees**
 - **[[a/_anything|Anything]] made from such fibers, such as a hassock, [[b/_basket|basket]] or thick mat.**
 ---
 ---

@@ -18,5 +18,5 @@
 - **Having the properties of a [[d/_directed|directed]] set.**
 ---
 ### Antonyms
-- [[undirected]]
+- [[u/_undirected|undirected]]
 ---

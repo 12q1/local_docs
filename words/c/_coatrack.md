@@ -5,5 +5,5 @@
 	- _Example: She put her coat and her hat on the coat rack when she entered her friend's apartment._
 ---
 ### Synonyms
-- [[clothes tree]], [[coat tree]], [[coatstand]], [[hat tree]], [[hatrack]], [[hatstand]]
+- [[c/_coatstand|coatstand]], [[h/_hatrack|hatrack]], [[h/_hatstand|hatstand]]
 ---

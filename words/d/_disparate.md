@@ -6,8 +6,8 @@
 #adjective
 - **[[c/_composed|Composed]] of inherently [[d/_different|different]] or [[d/_distinct|distinct]] [[e/_elements|elements]]; incongruous.**
 	- _Example: The board of the company was decidedly disparate, with no two members from the same social or economic background._
-- **Essentially [[d/_different|different]]; of [[d/_different|different]] species, unlike but not opposed in pairs; [[a/_also|also]], less properly, utterly unlike; incapable of [[b/_being|being]] [[c/_compared|compared]]; having no [[c/_common|common]] genus.**
+- **[[e/_essentially|Essentially]] [[d/_different|different]]; of [[d/_different|different]] species, unlike but not opposed in pairs; [[a/_also|also]], less properly, utterly unlike; incapable of [[b/_being|being]] [[c/_compared|compared]]; having no [[c/_common|common]] genus.**
 ---
 ### Synonyms
-- [[incongruous]], [[mismatched]], [[uncoordinated]], [[incommensurable]], [[different]], [[dissimilar]], [[unalike]]
+- [[i/_incongruous|incongruous]], [[m/_mismatched|mismatched]], [[u/_uncoordinated|uncoordinated]], [[i/_incommensurable|incommensurable]], [[d/_different|different]], [[d/_dissimilar|dissimilar]], [[u/_unalike|unalike]]
 ---

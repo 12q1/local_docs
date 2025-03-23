@@ -7,5 +7,5 @@
 - **Inhibiting the [[d/_development|development]] of a tumor.**
 ---
 ### Synonyms
-- [[antineoplastic]]
+- [[a/_antineoplastic|antineoplastic]]
 ---

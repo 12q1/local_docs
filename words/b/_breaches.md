@@ -9,11 +9,11 @@
 - **A [[b/_bruise|bruise]]; a wound.**
 - **A hernia; a rupture.**
 - **A [[b/_breaking|breaking]] or infraction of a law, or of [[a/_any|any]] obligation or tie; violation; non-fulfillment**
-- **A [[d/_difference|difference]] in opinions, social [[c/_class|class]] etc.**
+- **A [[d/_difference|difference]] in opinions, social [[c/_class|class]] [[e/_etc|etc]].**
 - **The [[a/_act|act]] of [[b/_breaking|breaking]], in a figurative sense.**
 ---
 ### Synonyms
-- [[break]], [[break]], [[fissure]], [[rupture]], [[gap]], [[rift]], [[rupture]], [[surf]], [[surge]]
+- [[b/_break|break]], [[b/_break|break]], [[f/_fissure|fissure]], [[r/_rupture|rupture]], [[g/_gap|gap]], [[r/_rift|rift]], [[r/_rupture|rupture]], [[s/_surf|surf]], [[s/_surge|surge]]
 #verb
 - **To make a [[b/_breach|breach]] in.**
 	- _Example: They breached the outer wall, but not the main one._

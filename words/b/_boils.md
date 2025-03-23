@@ -4,11 +4,11 @@
 - **A localized [[a/_accumulation|accumulation]] of pus in the skin, resulting from infection.**
 ---
 ### Synonyms
-- [[abscess]], [[carbuncle]], [[cyst]], [[furuncle]], [[pimple]], [[pustule]]
+- [[a/_abscess|abscess]], [[c/_carbuncle|carbuncle]], [[c/_cyst|cyst]], [[f/_furuncle|furuncle]], [[p/_pimple|pimple]], [[p/_pustule|pustule]]
 #noun
 - **The point at which fluid [[b/_begins|begins]] to [[c/_change|change]] to a vapour.**
 	- _Example: Add the noodles when the water comes to the boil._
-- **A [[d/_dish|dish]] of [[b/_boiled|boiled]] food, especially [[b/_based|based]] on seafood.**
+- **A [[d/_dish|dish]] of [[b/_boiled|boiled]] food, [[e/_especially|especially]] [[b/_based|based]] on seafood.**
 - **The [[c/_collective|collective]] noun for a group of hawks.**
 ---
 #verb
@@ -32,7 +32,7 @@
 	- _Example: His blood boils with anger._
 ---
 ### Synonyms
-- [[plaw]], [[seethe]], [[well]], [[be baking]], [[be seething]], [[be stewing]], [[be baking]], [[be scorching]], [[be sweltering]]
+- [[p/_plaw|plaw]], [[s/_seethe|seethe]], [[w/_well|well]]
 ### Antonyms
-- [[condense]], [[be freezing]], [[be freezing]]
+- [[c/_condense|condense]]
 ---

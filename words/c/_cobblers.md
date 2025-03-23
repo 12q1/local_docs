@@ -10,5 +10,5 @@
 - **A [[c/_clumsy|clumsy]] workman**
 ---
 ### Synonyms
-- [[cordwainer]], [[repairer]], [[shoe]], [[shoemaker]], [[shoemender]]
+- [[c/_cordwainer|cordwainer]], [[r/_repairer|repairer]], [[s/_shoe|shoe]], [[s/_shoemaker|shoemaker]], [[s/_shoemender|shoemender]]
 ---

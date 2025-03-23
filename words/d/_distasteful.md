@@ -8,5 +8,5 @@
 	- _Example: distasteful language_
 ---
 ### Antonyms
-- [[pleasant]], [[pleasing]]
+- [[p/_pleasant|pleasant]], [[p/_pleasing|pleasing]]
 ---

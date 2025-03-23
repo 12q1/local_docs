@@ -8,5 +8,5 @@
 - **Thrombosis of a [[c/_coronary|coronary]] [[a/_artery|artery]], that is, a [[b/_blockage|blockage]], [[c/_caused|caused]] by a [[b/_blood|blood]] [[c/_clot|clot]], of the [[b/_blood|blood]] flow in a [[c/_coronary|coronary]] [[a/_artery|artery]] of the heart, leading to myocardial infarction.**
 ---
 ### Synonyms
-- [[coronary]], [[heart attack]]
+- [[c/_coronary|coronary]]
 ---

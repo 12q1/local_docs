@@ -7,7 +7,7 @@
 - **The [[b/_ball|ball]] marked with the number 1 in pool and related games.**
 - **A very small quantity or [[d/_degree|degree]]; a particle; an [[a/_atom|atom]]; a jot.**
 - **A serve won without the opponent hitting the [[b/_ball|ball]].**
-- **A single point won by a stroke, as in handball, rackets, etc.**
+- **A single point won by a stroke, as in handball, rackets, [[e/_etc|etc]].**
 - **The [[b/_best|best]] pitcher on the team.**
 - **(19th [[c/_century|century]]) A run.**
 - **A hole in one.**
@@ -18,17 +18,17 @@
 - **A quark.**
 ---
 ### Synonyms
-- [[pip]]
+- [[p/_pip|pip]]
 #verb
-- **(US) To pass (a test, interviews etc.) perfectly.**
+- **(US) To pass (a test, interviews [[e/_etc|etc]].) perfectly.**
 - **To win a point by an [[a/_ace|ace]].**
 - **To make an [[a/_ace|ace]] (hole in one).**
 ---
 ### Synonyms
-- [[pass with flying colours]]
+- 
 #adjective
 - **Excellent.**
 ---
 ### Synonyms
-- [[excellent]], [[first-rate]], [[outstanding]]
+- [[e/_excellent|excellent]], [[f/_first-rate|first-rate]], [[o/_outstanding|outstanding]]
 ---

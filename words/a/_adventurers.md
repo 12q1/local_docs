@@ -8,5 +8,5 @@
 - **A player of [[a/_adventure|adventure]] games or text [[a/_adventures|adventures]].**
 ---
 ### Synonyms
-- [[man of action]]
+- 
 ---

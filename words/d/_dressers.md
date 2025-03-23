@@ -8,8 +8,8 @@
 - **One who [[d/_dresses|dresses]] in a particular way.**
 	- _Example: He's a very snappy dresser._
 - **A wardrobe [[a/_assistant|assistant]] (who helps [[a/_actors|actors]] put on their [[c/_costume|costume]]).**
-- **A servant to royalty etc. who helps them with tasks such as [[d/_dressing|dressing]].**
-- **A surgeon's [[a/_assistant|assistant]] who helps to [[d/_dress|dress]] wounds etc.**
+- **A servant to royalty [[e/_etc|etc]]. who helps them with tasks such as [[d/_dressing|dressing]].**
+- **A surgeon's [[a/_assistant|assistant]] who helps to [[d/_dress|dress]] wounds [[e/_etc|etc]].**
 - **A football hooligan who wears [[d/_designer|designer]] [[c/_clothing|clothing]]; a [[c/_casual|casual]].**
 - **A mechanical [[d/_device|device]] used in grain mills for [[b/_bolting|bolting]].**
 - **A table or [[b/_bench|bench]] on which meat and other things are [[d/_dressed|dressed]], or prepared for use.**

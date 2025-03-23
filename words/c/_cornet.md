@@ -8,5 +8,5 @@
 - **A kind of organ stop.**
 ---
 ### Synonyms
-- [[cornet-à-piston]], [[cornet-à-pistons]]
+- [[c/_cornet-à-piston|cornet-à-piston]], [[c/_cornet-à-pistons|cornet-à-pistons]]
 ---

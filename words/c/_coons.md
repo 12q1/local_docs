@@ -11,7 +11,7 @@
 #verb
 - **To hunt raccoons.**
 - **To traverse by [[c/_crawling|crawling]], as a ledge.**
-- **To [[c/_crawl|crawl]] while straddling, especially in [[c/_crossing|crossing]] a [[c/_creek|creek]].**
+- **To [[c/_crawl|crawl]] while straddling, [[e/_especially|especially]] in [[c/_crossing|crossing]] a [[c/_creek|creek]].**
 - **(Georgia (US)) To fish by noodling, by feeling for large fish in underwater holes.**
 - **(of an [[a/_african|African]] [[a/_american|American]]) To play the [[d/_dated|dated]] stereotype of a [[b/_black|black]] fool for an [[a/_audience|audience]], particularly including [[c/_caucasians|Caucasians]].**
 - **To steal.**

@@ -7,7 +7,7 @@
 	- _Example: Rennet coagulates milk; heat coagulates the white of an egg._
 ---
 ### Antonyms
-- [[dissolve]], [[melt]]
+- [[d/_dissolve|dissolve]], [[m/_melt|melt]]
 #adjective
 - **[[c/_coagulated|Coagulated]].**
 ---

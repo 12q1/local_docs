@@ -5,5 +5,5 @@
 	- _Example: The snow was extremely hard and there was a well defined path all the way up to the bergshrund._
 ---
 ### Synonyms
-- [[rimaye]]
+- [[r/_rimaye|rimaye]]
 ---

@@ -6,7 +6,7 @@
 - **Isorefractive, having an identical refractive index.**
 ---
 ### Synonyms
-- [[translucent]], [[transparent]], [[delicate]], [[insubstantial]]
+- [[t/_translucent|translucent]], [[t/_transparent|transparent]], [[d/_delicate|delicate]], [[i/_insubstantial|insubstantial]]
 ### Antonyms
-- [[concrete]], [[solid]], [[opaque]]
+- [[c/_concrete|concrete]], [[s/_solid|solid]], [[o/_opaque|opaque]]
 ---

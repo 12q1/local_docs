@@ -7,6 +7,6 @@
 - **A [[c/_cigarette|cigarette]] lighter.**
 ---
 #verb
-- **To form ([[c/_coal|coal]], etc.) into small [[b/_bricks|bricks]].**
+- **To form ([[c/_coal|coal]], [[e/_etc|etc]].) into small [[b/_bricks|bricks]].**
 ---
 ---

@@ -5,7 +5,7 @@
 - **Food, such as a stew, [[c/_cooked|cooked]] in such a [[d/_dish|dish]].**
 ---
 ### Synonyms
-- [[hotdish]], [[hotpot]], [[stew]], [[casserole dish]]
+- [[h/_hotdish|hotdish]], [[h/_hotpot|hotpot]], [[s/_stew|stew]]
 #verb
 - **To [[c/_cook|cook]] like, or as, a [[c/_casserole|casserole]]; to stew.**
 ---

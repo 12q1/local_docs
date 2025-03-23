@@ -20,7 +20,7 @@
 - **To make or repair [[b/_barrels|barrels]], [[c/_casks|casks]] and other wooden vessels; to work upon in the manner of a [[c/_cooper|cooper]].**
 ---
 #noun
-- **A [[c/_cart|cart]] with sides and [[e/_ends|ends]] made from [[b/_boards|boards]], [[e/_enabling|enabling]] it to [[c/_carry|carry]] manure, etc.**
+- **A [[c/_cart|cart]] with sides and [[e/_ends|ends]] made from [[b/_boards|boards]], [[e/_enabling|enabling]] it to [[c/_carry|carry]] manure, [[e/_etc|etc]].**
 - **A [[c/_cart|cart]] which opens at the [[b/_back|back]] to release its load; a tumbril.**
 ---
 #noun

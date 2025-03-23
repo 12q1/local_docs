@@ -9,5 +9,5 @@
 - **[[a/_acting|Acting]] rapidly or violently.**
 ---
 ### Synonyms
-- [[draconian]]
+- [[d/_draconian|draconian]]
 ---

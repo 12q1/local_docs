@@ -8,7 +8,7 @@
 - **To [[a/_assign|assign]] to a particular task**
 ---
 ### Synonyms
-- [[detach]], [[specify]]
+- [[d/_detach|detach]], [[s/_specify|specify]]
 #adjective
 - **[[c/_characterized|Characterized]] by [[a/_attention|attention]] to [[d/_detail|detail]] and thoroughness of treatment.**
 ---

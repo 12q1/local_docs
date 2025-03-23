@@ -10,5 +10,5 @@
 	- _Example: He was awarded the Nobel Prize for Literature._
 ---
 ### Synonyms
-- [[crown]], [[bestow]]
+- [[c/_crown|crown]], [[b/_bestow|bestow]]
 ---

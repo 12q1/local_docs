@@ -5,5 +5,5 @@
 - **(by extension) A private [[c/_chamber|chamber]]; a sanctum.**
 ---
 ### Synonyms
-- [[adyt]], [[adyton]]
+- [[a/_adyt|adyt]], [[a/_adyton|adyton]]
 ---

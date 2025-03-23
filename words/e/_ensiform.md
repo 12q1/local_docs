@@ -4,5 +4,5 @@
 - **Shaped like a sword [[b/_blade|blade]]**
 ---
 ### Synonyms
-- [[sword-shaped]], [[swordlike]]
+- [[s/_sword-shaped|sword-shaped]], [[s/_swordlike|swordlike]]
 ---

@@ -5,7 +5,7 @@
 	- _Example: Dexibuprofen is the active dextrorotatory enantiomer of ibuprofen._
 ---
 ### Synonyms
-- [[d-]], [[dex-]], [[dextro]], [[dextro-]], [[dextrogyrate]], [[dextrogyre]]
+- [[d/_d-|d-]], [[d/_dex-|dex-]], [[d/_dextro|dextro]], [[d/_dextro-|dextro-]], [[d/_dextrogyrate|dextrogyrate]], [[d/_dextrogyre|dextrogyre]]
 ### Antonyms
-- [[levorotatory]]
+- [[l/_levorotatory|levorotatory]]
 ---

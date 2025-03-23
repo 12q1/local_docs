@@ -1,7 +1,7 @@
 # Dukes
 ---
 #noun
-- **The male ruler of a [[d/_duchy|duchy]] (female equivalent: [[d/_duchess|duchess]]).**
+- **The male ruler of a [[d/_duchy|duchy]] (female [[e/_equivalent|equivalent]]: [[d/_duchess|duchess]]).**
 - **The sovereign of a small state.**
 - **A high title of nobility; the male holder of a [[d/_dukedom|dukedom]].**
 - **A grand [[d/_duke|duke]].**
@@ -15,5 +15,5 @@
 	- _Example: I duked him twenty dollars._
 ---
 ### Synonyms
-- [[tip]]
+- [[t/_tip|tip]]
 ---

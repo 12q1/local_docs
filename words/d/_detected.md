@@ -8,5 +8,5 @@
 	- _Example: The detected submarine was tracked by sonar, it was easy once they knew where to look._
 ---
 ### Antonyms
-- [[non-detected]], [[undetected]]
+- [[n/_non-detected|non-detected]], [[u/_undetected|undetected]]
 ---

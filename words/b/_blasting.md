@@ -8,7 +8,7 @@
 	- _Example: Blast right through it._
 - **To [[c/_curse|curse]]; to [[d/_damn|damn]].**
 	- _Example: Blast it! Foiled again._
-- **(sci-fi) To shoot, especially with an [[e/_energy|energy]] weapon (as opposed to one which fires projectiles).**
+- **(sci-fi) To shoot, [[e/_especially|especially]] with an [[e/_energy|energy]] weapon (as opposed to one which fires projectiles).**
 	- _Example: Chewbacca blasted the Stormtroopers with his laser rifle._
 - **To shoot; kick the [[b/_ball|ball]] in hope of scoring a goal.**
 - **To [[c/_criticize|criticize]] or reprimand severely; to verbally [[d/_discipline|discipline]] or punish.**

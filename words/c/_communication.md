@@ -5,7 +5,7 @@
 	- _Example: communication of a secret_
 - **The [[c/_concept|concept]] or state of exchanging [[d/_data|data]] or information [[b/_between|between]] [[e/_entities|entities]].**
 	- _Example: Some say that communication is a necessary prerequisite for sentience; others say that it is a result thereof._
-- **A message; the essential [[d/_data|data]] transferred in an [[a/_act|act]] of [[c/_communication|communication]].**
+- **A message; the [[e/_essential|essential]] [[d/_data|data]] transferred in an [[a/_act|act]] of [[c/_communication|communication]].**
 	- _Example: Surveillance was accomplished by means of intercepting the spies' communications._
 - **The [[b/_body|body]] of [[a/_all|all]] [[d/_data|data]] transferred to one or [[b/_both|both]] parties [[d/_during|during]] an [[a/_act|act]] of [[c/_communication|communication]].**
 	- _Example: The subpoena required that the company document their communication with the plaintiff._
@@ -19,5 +19,5 @@
 - **A trope by which a speaker [[a/_assumes|assumes]] that his hearer is a partner in his sentiments, and says "we" instead of "I" or "you".**
 ---
 ### Antonyms
-- [[anticommunication]]
+- [[a/_anticommunication|anticommunication]]
 ---

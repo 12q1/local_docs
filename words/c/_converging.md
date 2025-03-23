@@ -6,7 +6,7 @@
 - **Of an iterative process, to reach a stable [[e/_end|end]] point.**
 ---
 ### Antonyms
-- [[diverge]]
+- [[d/_diverge|diverge]]
 #noun
 - **[[c/_convergence|Convergence]]**
 ---

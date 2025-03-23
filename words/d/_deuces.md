@@ -19,7 +19,7 @@
 - **A pair of twos.**
 ---
 ### Synonyms
-- [[ducks]], [[twos]]
+- [[d/_ducks|ducks]], [[t/_twos|twos]]
 #interjection
 - **Peace; goodbye ([[b/_because|because]] of the [[a/_associated|associated]] gesture holding up two fingers)**
 ---

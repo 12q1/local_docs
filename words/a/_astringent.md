@@ -10,5 +10,5 @@
 - **Having the [[e/_effect|effect]] of [[d/_drawing|drawing]] tissue together; styptic.**
 ---
 ### Synonyms
-- [[smectic]]
+- [[s/_smectic|smectic]]
 ---

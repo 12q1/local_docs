@@ -6,5 +6,5 @@
 - **Sly and spiteful; marked by malice**
 ---
 ### Synonyms
-- [[catty]]
+- [[c/_catty|catty]]
 ---

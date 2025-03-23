@@ -6,5 +6,5 @@
 	- _Example: Altogether, I'm sorry it happened._
 ---
 ### Synonyms
-- [[all in all]], [[completely]], [[wholly]]
+- [[c/_completely|completely]], [[w/_wholly|wholly]]
 ---

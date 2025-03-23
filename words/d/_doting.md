@@ -6,7 +6,7 @@
 - **To [[a/_act|act]] in a foolish manner; to be senile.**
 ---
 ### Synonyms
-- [[adore]], [[love]]
+- [[a/_adore|adore]], [[l/_love|love]]
 #noun
 - **Excessive fondness; reverence.**
 ---

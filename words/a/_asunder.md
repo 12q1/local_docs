@@ -5,5 +5,5 @@
 	- _Example: Lest anyone find her treasure, she tore the map asunder and cast its pieces into the wind._
 ---
 ### Synonyms
-- [[apart]], [[in twain]]
+- [[a/_apart|apart]]
 ---

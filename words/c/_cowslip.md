@@ -6,5 +6,5 @@
 - **Short for [[c/_cowslip|cowslip]] tea: a kind of green tea; an herbal tea made with [[c/_cowslip|cowslip]] flowers.**
 ---
 ### Synonyms
-- [[horse blob]], [[kingcup]], [[marsh marigold]], [[mayflower]], [[mollyblobs]], [[pollyblobs]], [[herb Peter]], [[paigle]]
+- [[k/_kingcup|kingcup]], [[m/_mayflower|mayflower]], [[m/_mollyblobs|mollyblobs]], [[p/_pollyblobs|pollyblobs]], [[p/_paigle|paigle]]
 ---

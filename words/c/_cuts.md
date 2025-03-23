@@ -13,7 +13,7 @@
 	- _Example: The lawyer took a cut of the profits._
 - **A [[b/_batsman|batsman]]'s shot played with a swinging motion of the [[b/_bat|bat]], to hit the [[b/_ball|ball]] [[b/_backward|backward]] of point.**
 - **Sideways movement of the [[b/_ball|ball]] through the [[a/_air|air]] [[c/_caused|caused]] by a fast [[b/_bowler|bowler]] imparting spin to the [[b/_ball|ball]].**
-- **In lawn tennis, etc., a slanting stroke [[c/_causing|causing]] the [[b/_ball|ball]] to spin and [[b/_bound|bound]] irregularly; [[a/_also|also]], the spin thus given to the [[b/_ball|ball]].**
+- **In lawn tennis, [[e/_etc|etc]]., a slanting stroke [[c/_causing|causing]] the [[b/_ball|ball]] to spin and [[b/_bound|bound]] irregularly; [[a/_also|also]], the spin thus given to the [[b/_ball|ball]].**
 - **In a strokeplay [[c/_competition|competition]], the [[e/_early|early]] [[e/_elimination|elimination]] of those players who have not then [[a/_attained|attained]] a preannounced score, so that the rest of the [[c/_competition|competition]] is less pressed for time and more [[e/_entertaining|entertaining]] for spectators.**
 - **A passage omitted or to be omitted from a play.**
 	- _Example: The director asked the cast to note down the following cuts._
@@ -21,14 +21,14 @@
 - **The [[a/_act|act]] or right of [[d/_dividing|dividing]] a [[d/_deck|deck]] of playing [[c/_cards|cards]].**
 	- _Example: The player next to the dealer makes a cut by placing the bottom half on top._
 - **The [[c/_card|card]] obtained by [[d/_dividing|dividing]] the pack.**
-- **The manner or style a garment etc. is fashioned in.**
+- **The manner or style a garment [[e/_etc|etc]]. is fashioned in.**
 	- _Example: I like the cut of that suit._
-- **A slab, especially of meat.**
+- **A slab, [[e/_especially|especially]] of meat.**
 	- _Example: That’s our finest cut of meat._
 - **An [[a/_attack|attack]] made with a [[c/_chopping|chopping]] motion of the [[b/_blade|blade]], landing with its [[e/_edge|edge]] or point.**
 - **A [[d/_deliberate|deliberate]] snub, typically a refusal to return a [[b/_bow|bow]] or other [[a/_acknowledgement|acknowledgement]] of [[a/_acquaintance|acquaintance]].**
 - **An unkind [[a/_act|act]]; a [[c/_cruelty|cruelty]].**
-- **A [[d/_definable|definable]] part, such as an individual song, of a recording, particularly of [[c/_commercial|commercial]] records, [[a/_audio|audio]] tapes, CDs, etc.**
+- **A [[d/_definable|definable]] part, such as an individual song, of a recording, particularly of [[c/_commercial|commercial]] records, [[a/_audio|audio]] tapes, CDs, [[e/_etc|etc]].**
 	- _Example: The drummer on the last cut of their CD is not identified._
 - **A truncation, a [[c/_context|context]] that represents a moment in time when other [[a/_archaeological|archaeological]] [[d/_deposits|deposits]] were removed for the [[c/_creation|creation]] of some feature such as a [[d/_ditch|ditch]] or pit.**
 - **A haircut.**
@@ -68,14 +68,14 @@
 	- _Example: If you cut then I'll deal._
 - **To write.**
 	- _Example: cut orders;  cut a check_
-- **To [[d/_dilute|dilute]] or [[a/_adulterate|adulterate]] something, especially a recreational [[d/_drug|drug]].**
+- **To [[d/_dilute|dilute]] or [[a/_adulterate|adulterate]] something, [[e/_especially|especially]] a recreational [[d/_drug|drug]].**
 	- _Example: Drug dealers sometimes cut cocaine with lidocaine._
 - **To exhibit (a quality).**
 - **To stop or [[d/_disengage|disengage]].**
 	- _Example: Cut the engines when the plane comes to a halt!_
 - **To [[d/_drive|drive]] (a [[b/_ball|ball]]) to one side, as by (in [[b/_billiards|billiards]] or [[c/_croquet|croquet]]) hitting it fine with [[a/_another|another]] [[b/_ball|ball]], or (in tennis) striking it with the racket inclined.**
 - **To lose [[b/_body|body]] mass [[a/_after|after]] [[b/_bulking|bulking]], [[a/_aiming|aiming]] to keep the [[a/_additional|additional]] muscle but lose the fat.**
-- **To perform (a [[d/_dancing|dancing]] movement etc.).**
+- **To perform (a [[d/_dancing|dancing]] movement [[e/_etc|etc]].).**
 ---
 #noun
 - **(with "the") [[c/_corporal|Corporal]] punishment at school.**

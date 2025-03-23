@@ -5,7 +5,7 @@
 - **A restraint; a [[c/_curb|curb]]; a [[c/_check|check]].**
 - **A length of line or [[c/_cable|cable]] [[a/_attached|attached]] to two parts of something to spread the force of a pull, as the rigging on a kite for [[a/_attaching|attaching]] line.**
 - **A mooring hawser.**
-- **A piece in the interior of a gunlock which holds in place the tumbler, sear, etc.**
+- **A piece in the interior of a gunlock which holds in place the tumbler, sear, [[e/_etc|etc]].**
 - **A gesture expressing pride or vanity.**
 ---
 #verb
@@ -15,5 +15,5 @@
 - **To hold up one's head proudly or [[a/_affectedly|affectedly]].**
 ---
 ### Synonyms
-- [[restrain]]
+- [[r/_restrain|restrain]]
 ---

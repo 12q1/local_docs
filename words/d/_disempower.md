@@ -4,7 +4,7 @@
 - **To remove [[c/_confidence|confidence]] from (someone) to [[d/_do|do]] something.**
 ---
 ### Synonyms
-- [[demoralize]], [[dishearten]], [[dispirit]]
+- [[d/_demoralize|demoralize]], [[d/_dishearten|dishearten]], [[d/_dispirit|dispirit]]
 ### Antonyms
-- [[empower]], [[inspire]]
+- [[e/_empower|empower]], [[i/_inspire|inspire]]
 ---

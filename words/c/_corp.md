@@ -6,7 +6,7 @@
 - **A worker in [[c/_charge|charge]] of the wagonway, reporting to the [[d/_deputy|deputy]].**
 ---
 #noun
-- **The white linen [[c/_cloth|cloth]] on which the [[e/_elements|elements]] of the Eucharist are placed; a [[c/_communion|communion]] [[c/_cloth|cloth]].**
+- **The white linen [[c/_cloth|cloth]] on which the [[e/_elements|elements]] of the [[e/_eucharist|Eucharist]] are placed; a [[c/_communion|communion]] [[c/_cloth|cloth]].**
 ---
 #noun
 - **A [[b/_body|body]] [[c/_corporate|corporate]], [[c/_created|created]] by law or under [[a/_authority|authority]] of law, having a [[c/_continuous|continuous]] existence independent of the existences of its members, and powers and liabilities [[d/_distinct|distinct]] from those of its members.**
@@ -15,5 +15,5 @@
 - **A protruding [[b/_belly|belly]]; a paunch.**
 ---
 ### Synonyms
-- [[public limited company]]
+- 
 ---

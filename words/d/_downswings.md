@@ -5,5 +5,5 @@
 	- _Example: Hold your head steady and keep your eye on the golf ball during your downswing._
 ---
 ### Antonyms
-- [[upswing]]
+- [[u/_upswing|upswing]]
 ---

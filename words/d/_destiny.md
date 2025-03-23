@@ -6,5 +6,5 @@
 - **The fixed order of things; invincible necessity; an irresistible power or [[a/_agency|agency]] [[c/_conceived|conceived]] of as [[d/_determining|determining]] the future, whether in general or of an individual.**
 ---
 ### Synonyms
-- [[fate]], [[fate]], [[fate]], [[lot]], [[orlay]]
+- [[f/_fate|fate]], [[f/_fate|fate]], [[f/_fate|fate]], [[l/_lot|lot]], [[o/_orlay|orlay]]
 ---

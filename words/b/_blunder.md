@@ -5,7 +5,7 @@
 - **A very [[b/_bad|bad]] move, usually [[c/_caused|caused]] by some tactical oversight.**
 ---
 ### Synonyms
-- [[blooper]], [[boo-boo]], [[error]], [[faux pas]], [[flub]], [[fluff]], [[fumble]], [[gaffe]], [[goof]], [[lapse]], [[mistake]], [[slip]], [[stumble]], [[thinko]]
+- [[b/_blooper|blooper]], [[b/_boo-boo|boo-boo]], [[e/_error|error]], [[f/_flub|flub]], [[f/_fluff|fluff]], [[f/_fumble|fumble]], [[g/_gaffe|gaffe]], [[g/_goof|goof]], [[l/_lapse|lapse]], [[m/_mistake|mistake]], [[s/_slip|slip]], [[s/_stumble|stumble]], [[t/_thinko|thinko]]
 #verb
 - **To make a [[c/_clumsy|clumsy]] or stupid mistake.**
 	- _Example: to blunder in preparing a medical prescription_

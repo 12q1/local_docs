@@ -14,5 +14,5 @@
 - **To [[d/_divide|divide]] (a watch) with a [[c/_comrade|comrade]].**
 ---
 ### Synonyms
-- [[chase]], [[chase after]], [[go after]], [[pursue]], [[tag]], [[tail]], [[track]], [[trail]], [[goldbrick]], [[soldier]]
+- [[c/_chase|chase]], [[p/_pursue|pursue]], [[t/_tag|tag]], [[t/_tail|tail]], [[t/_track|track]], [[t/_trail|trail]], [[g/_goldbrick|goldbrick]], [[s/_soldier|soldier]]
 ---

@@ -20,5 +20,5 @@
 	- _Example: Physically, everything is perfect, but concerning your mental state, you have some problems._
 ---
 ### Synonyms
-- [[apropos]], [[as for]]
+- [[a/_apropos|apropos]]
 ---

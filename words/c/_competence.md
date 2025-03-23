@@ -10,7 +10,7 @@
 - **The [[d/_degree|degree]] to which a rock is resistant to [[d/_deformation|deformation]] or flow.**
 ---
 ### Synonyms
-- [[ability]], [[aptitude]], [[competency]], [[knack]], [[nous]], [[savoir-faire]]
+- [[a/_ability|ability]], [[a/_aptitude|aptitude]], [[c/_competency|competency]], [[k/_knack|knack]], [[n/_nous|nous]], [[s/_savoir-faire|savoir-faire]]
 ### Antonyms
-- [[inability]], [[incompetence]], [[ineptitude]]
+- [[i/_inability|inability]], [[i/_incompetence|incompetence]], [[i/_ineptitude|ineptitude]]
 ---

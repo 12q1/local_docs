@@ -9,5 +9,5 @@
 - **A form of industrial [[a/_action|action]] in which workers [[d/_down|down]] tools and refuse to work.**
 ---
 ### Synonyms
-- [[buzzkill]], [[killjoy]], [[spoilsport]]
+- [[b/_buzzkill|buzzkill]], [[k/_killjoy|killjoy]], [[s/_spoilsport|spoilsport]]
 ---

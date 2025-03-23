@@ -5,5 +5,5 @@
 - **A proponent of [[a/_aristocracy|aristocracy]]; an [[a/_advocate|advocate]] of [[a/_aristocratic|aristocratic]] government.**
 ---
 ### Antonyms
-- [[commoner]], [[plebeian]]
+- [[c/_commoner|commoner]], [[p/_plebeian|plebeian]]
 ---

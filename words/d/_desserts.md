@@ -4,5 +4,5 @@
 - **A sweet [[c/_confection|confection]] served as the last [[c/_course|course]] of a meal**
 ---
 ### Synonyms
-- [[afters]], [[pudding]], [[sweet]]
+- [[a/_afters|afters]], [[p/_pudding|pudding]], [[s/_sweet|sweet]]
 ---

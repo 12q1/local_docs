@@ -1,9 +1,9 @@
 # Assuaging
 ---
 #verb
-- **To lessen the intensity of, to mitigate or relieve (hunger, [[e/_emotion|emotion]], pain etc.).**
+- **To lessen the intensity of, to mitigate or relieve (hunger, [[e/_emotion|emotion]], pain [[e/_etc|etc]].).**
 - **To pacify or soothe (someone).**
-- **To [[c/_calm|calm]] [[d/_down|down]], [[b/_become|become]] less violent (of passion, hunger etc.); to subside, to [[a/_abate|abate]].**
+- **To [[c/_calm|calm]] [[d/_down|down]], [[b/_become|become]] less violent (of passion, hunger [[e/_etc|etc]].); to subside, to [[a/_abate|abate]].**
 ---
 #noun
 - **The [[a/_act|act]] of one who [[a/_assuages|assuages]].**

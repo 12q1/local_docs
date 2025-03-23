@@ -5,5 +5,5 @@
 - **Suitable; [[c/_compliant|compliant]].**
 ---
 ### Synonyms
-- [[alike]], [[corresponding]], [[similar]], [[suitable]]
+- [[a/_alike|alike]], [[c/_corresponding|corresponding]], [[s/_similar|similar]], [[s/_suitable|suitable]]
 ---

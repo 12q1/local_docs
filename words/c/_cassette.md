@@ -9,5 +9,5 @@
 - **A saggar ([[c/_ceramic|ceramic]] [[c/_container|container]] used in a kiln)**
 ---
 ### Synonyms
-- [[tape]]
+- [[t/_tape|tape]]
 ---

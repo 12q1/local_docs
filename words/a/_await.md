@@ -15,5 +15,5 @@
 - **To wait; to stay in waiting.**
 ---
 ### Synonyms
-- [[attend to]], [[service]], [[anticipate]], [[listen]], [[wait for]]
+- [[s/_service|service]], [[a/_anticipate|anticipate]], [[l/_listen|listen]]
 ---

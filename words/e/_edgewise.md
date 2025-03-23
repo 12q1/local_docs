@@ -9,5 +9,5 @@
 	- _Example: Once his boss got started, Jim just couldn’t get a word in edgewise._
 ---
 ### Synonyms
-- [[edgeways]]
+- [[e/_edgeways|edgeways]]
 ---

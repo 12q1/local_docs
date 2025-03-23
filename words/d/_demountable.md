@@ -1,12 +1,12 @@
 # Demountable
 ---
 #noun
-- **A temporary and portable [[b/_building|building]], especially a portable [[c/_classroom|classroom]] in a school.**
+- **A temporary and portable [[b/_building|building]], [[e/_especially|especially]] a portable [[c/_classroom|classroom]] in a school.**
 ---
 #adjective
 - **[[a/_able|Able]] to be removed from its mount; [[d/_designed|designed]] to be [[d/_dismantled|dismantled]]**
 - **(of a hard [[d/_drive|drive]]) [[d/_designed|Designed]] to be removed from the read mechanism.**
 ---
 ### Synonyms
-- [[detachable]]
+- [[d/_detachable|detachable]]
 ---

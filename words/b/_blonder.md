@@ -6,6 +6,6 @@
 - **(of a person) Having [[b/_blond|blond]] hair.**
 ---
 #adjective
-- **(especially of a woman) Stupid, ignorant, naive.**
+- **([[e/_especially|especially]] of a woman) Stupid, ignorant, naive.**
 ---
 ---
