@@ -1,6 +1,0 @@
-# Carbo
----
-#noun
-- **Carbohydrate**
----
----

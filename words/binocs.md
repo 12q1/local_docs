@@ -1,6 +1,0 @@
-# Binocs
----
-#noun
-- **Binoculars**
----
----

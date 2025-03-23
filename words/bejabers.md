@@ -1,6 +1,0 @@
-# Bejabers
----
-#noun
-- **Bejesus**
----
----

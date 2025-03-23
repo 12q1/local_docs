@@ -1,6 +1,0 @@
-# Bliss
----
-#noun
-- **Perfect happiness**
----
----

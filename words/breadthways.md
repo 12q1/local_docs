@@ -1,6 +1,0 @@
-# Breadthways
----
-#adverb
-- **Breadthwise**
----
----

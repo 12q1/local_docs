@@ -1,7 +1,0 @@
-# Awls
----
-#noun
-- **A pointed instrument for piercing small holes, as in leather or wood; used by shoemakers, saddlers, [[cabinetmakers]], etc. The [[blade]] is differently shaped and pointed for different uses, as in the [[brad]] [[awl]], saddler's [[awl]], shoemaker's [[awl]], etc.**
-- **Any of various hesperiid [[butterflies]].**
----
----

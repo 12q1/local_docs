@@ -1,6 +1,0 @@
-# Decurved
----
-#adjective
-- **Curved downward**
----
----

@@ -1,6 +1,0 @@
-# Cwt
----
-#noun
-- **Hundredweight.**
----
----

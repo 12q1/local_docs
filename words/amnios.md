@@ -1,6 +1,0 @@
-# Amnios
----
-#noun
-- **Amnion**
----
----

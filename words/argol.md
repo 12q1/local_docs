@@ -1,6 +1,0 @@
-# Argol
----
-#noun
-- **Potassium tartrate**
----
----

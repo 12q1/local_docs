@@ -1,6 +1,0 @@
-# Coggly
----
-#adjective
-- **Shaky; unsteady**
----
----

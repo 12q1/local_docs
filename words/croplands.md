@@ -1,6 +1,0 @@
-# Croplands
----
-#noun
-- **Cropland**
----
----

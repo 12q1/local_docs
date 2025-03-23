@@ -1,6 +1,0 @@
-# Carpentering
----
-#noun
-- **Carpentry**
----
----

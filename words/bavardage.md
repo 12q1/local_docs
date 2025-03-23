@@ -1,6 +1,0 @@
-# Bavardage
----
-#noun
-- **Chatter, [[banter]]**
----
----

@@ -1,6 +1,0 @@
-# Augural
----
-#adjective
-- **Prophetic**
----
----

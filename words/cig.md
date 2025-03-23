@@ -1,6 +1,0 @@
-# Cig
----
-#noun
-- **Cigarette**
----
----

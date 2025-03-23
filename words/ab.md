@@ -1,6 +1,0 @@
-# Ab
----
-#noun
-- **Abdominal muscle.**
----
----

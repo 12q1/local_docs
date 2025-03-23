@@ -1,6 +1,0 @@
-# Besprinkled
----
-#adjective
-- **Sprinkled.**
----
----

@@ -1,6 +1,0 @@
-# Compressive
----
-#adjective
-- **That [[compresses]]**
----
----

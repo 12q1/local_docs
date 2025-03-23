@@ -1,6 +1,0 @@
-# Ardently
----
-#adverb
-- **Fervently**
----
----

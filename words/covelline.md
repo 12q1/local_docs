@@ -1,6 +1,0 @@
-# Covelline
----
-#noun
-- **Covellite**
----
----

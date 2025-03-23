@@ -1,6 +1,0 @@
-# Cauterise
----
-#verb
-- **To [[burn]], sear, or freeze tissue using a hot iron, electric [[current]] or a [[caustic]] [[agent]].**
----
----

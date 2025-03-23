@@ -1,6 +1,0 @@
-# Copestone
----
-#noun
-- **Capstone**
----
----

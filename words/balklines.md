@@ -1,6 +1,0 @@
-# Balklines
----
-#noun
-- **Baulk line**
----
----

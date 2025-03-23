@@ -1,6 +1,0 @@
-# Calabrese
----
-#noun
-- **A particular type of sprouting [[broccoli]].**
----
----

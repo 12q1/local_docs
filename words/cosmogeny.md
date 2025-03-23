@@ -1,6 +1,0 @@
-# Cosmogeny
----
-#noun
-- **Cosmogony**
----
----

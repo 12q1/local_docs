@@ -1,6 +1,0 @@
-# Adduce
----
-#verb
-- **To [[bring]] forward or offer, as an [[argument]], passage, or [[consideration]] which [[bears]] on a statement or [[case]]; to [[cite]]; to [[allege]].**
----
----

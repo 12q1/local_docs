@@ -1,6 +1,0 @@
-# Arolla
----
-#noun
-- **Stone pine**
----
----

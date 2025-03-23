@@ -1,6 +1,0 @@
-# Crossways
----
-#adverb
-- **Transversely; [[crosswise]]**
----
----

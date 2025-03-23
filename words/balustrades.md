@@ -1,6 +1,0 @@
-# Balustrades
----
-#noun
-- **A row of [[balusters]] topped by a rail, serving as an open parapet, as [[along]] the edge of a [[balcony]], terrace, [[bridge]], staircase, or the eaves of a [[building]].**
----
----

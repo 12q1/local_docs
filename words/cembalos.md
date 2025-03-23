@@ -1,6 +1,0 @@
-# Cembalos
----
-#noun
-- **A harpsichord.**
----
----

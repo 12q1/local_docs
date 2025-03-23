@@ -1,6 +1,0 @@
-# Cachexy
----
-#noun
-- **Cachexia.**
----
----

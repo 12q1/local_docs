@@ -1,6 +1,0 @@
-# Arvos
----
-#noun
-- **Afternoon.**
----
----

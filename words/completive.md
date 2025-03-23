@@ -1,6 +1,0 @@
-# Completive
----
-#adjective
-- **Making [[complete]].**
----
----

@@ -1,6 +1,0 @@
-# Choom
----
-#noun
-- **An Englishman.**
----
----

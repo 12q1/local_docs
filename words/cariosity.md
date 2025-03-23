@@ -1,6 +1,0 @@
-# Cariosity
----
-#noun
-- **Caries**
----
----

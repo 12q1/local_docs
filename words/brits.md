@@ -1,6 +1,0 @@
-# Brits
----
-#noun
-- **Brit milah**
----
----

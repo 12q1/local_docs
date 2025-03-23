@@ -1,6 +1,0 @@
-# Consuetude
----
-#noun
-- **Custom, familiarity.**
----
----

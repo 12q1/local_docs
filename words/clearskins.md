@@ -1,6 +1,0 @@
-# Clearskins
----
-#noun
-- **Cleanskin**
----
----

@@ -1,6 +1,0 @@
-# Calloused
----
-#adjective
-- **Having [[calluses]].**
----
----

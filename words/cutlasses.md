@@ -1,9 +1,0 @@
-# Cutlasses
----
-#noun
-- **A short sword with a [[curved]] [[blade]], and a [[convex]] edge; once used by sailors when [[boarding]] an enemy ship.**
-- **A similarly shaped tool; a machete.**
----
-### Synonyms
-- [[cuttoe]], [[hanger]], [[short sabre]]
----

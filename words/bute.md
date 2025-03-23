@@ -1,6 +1,0 @@
-# Bute
----
-#noun
-- **Phenylbutazone.**
----
----

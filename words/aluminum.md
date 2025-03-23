@@ -1,8 +1,0 @@
-# Aluminum
----
-#noun
-- **A metallic [[chemical]] element (symbol Al) with an [[atomic]] number of 13.**
-- **A single [[atom]] of this element.**
-- **Aircraft or other machinery made partially or wholly of [[aluminum]].**
----
----

@@ -1,6 +1,0 @@
-# Apomorphine
----
-#noun
-- **A particular narcotic used in the treatment of Parkinson's disease.**
----
----

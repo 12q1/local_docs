@@ -1,6 +1,0 @@
-# Crevette
----
-#noun
-- **A shrimp.**
----
----

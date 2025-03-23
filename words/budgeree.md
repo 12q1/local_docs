@@ -1,7 +1,0 @@
-# Budgeree
----
-#adjective
-- **Pretty**
-- **Good**
----
----

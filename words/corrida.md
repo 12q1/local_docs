@@ -1,6 +1,0 @@
-# Corrida
----
-#noun
-- **A [[bullfight]]**
----
----

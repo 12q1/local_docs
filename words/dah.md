@@ -1,6 +1,0 @@
-# Dah
----
-#noun
-- **The spoken representation of a [[dash]] in radio and telegraph Morse [[code]].**
----
----

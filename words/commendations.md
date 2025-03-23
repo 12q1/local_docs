@@ -1,9 +1,0 @@
-# Commendations
----
-#noun
-- **The [[act]] of [[commending]]; praise; favorable representation in words; recommendation.**
-- **That which is the ground of [[approbation]] or praise.**
-- **A message of [[affection]] or respect; [[compliments]]; greeting.**
-- **An [[award]] or recognition for performance; a medal.**
----
----

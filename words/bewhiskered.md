@@ -1,6 +1,0 @@
-# Bewhiskered
----
-#adjective
-- **Having whiskers**
----
----

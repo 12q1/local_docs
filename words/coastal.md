@@ -1,6 +1,0 @@
-# Coastal
----
-#adjective
-- **Relating to the [[coast]]; on or near the [[coast]], as a [[coastal]] town, a [[coastal]] [[breeze]]**
----
----

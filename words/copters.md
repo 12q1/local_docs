@@ -1,6 +1,0 @@
-# Copters
----
-#noun
-- **A helicopter.**
----
----

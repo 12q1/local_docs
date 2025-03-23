@@ -1,8 +1,0 @@
-# Crepitation
----
-#noun
-- **The [[act]] of [[crepitating]] or [[crackling]].**
-- **A grating or [[crackling]] sensation or sound, as that produced by rubbing two fragments of a [[broken]] [[bone]] together, or by pressing upon [[cellular]] tissue [[containing]] [[air]].**
-- **A [[crepitant]] rale.**
----
----

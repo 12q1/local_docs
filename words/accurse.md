@@ -1,6 +1,0 @@
-# Accurse
----
-#verb
-- **To devote to destruction; to imprecate misery or evil upon; to [[curse]]; to execrate; to [[anathematize]].**
----
----

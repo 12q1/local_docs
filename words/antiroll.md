@@ -1,6 +1,0 @@
-# Antiroll
----
-#adjective
-- **Antisway**
----
----

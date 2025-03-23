@@ -1,6 +1,0 @@
-# Arvo
----
-#noun
-- **Afternoon.**
----
----

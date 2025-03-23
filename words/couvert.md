@@ -1,6 +1,0 @@
-# Couvert
----
-#noun
-- **Cover [[charge]]**
----
----

@@ -1,6 +1,0 @@
-# Covariation
----
-#noun
-- **Covariance**
----
----

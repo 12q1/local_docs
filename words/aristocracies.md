@@ -1,8 +1,0 @@
-# Aristocracies
----
-#noun
-- **The nobility, or the hereditary ruling [[class]].**
-- **Government by such a [[class]], or a state with such a government**
-- **A [[class]] of people [[considered]] (not normally universally) superior to others**
----
----

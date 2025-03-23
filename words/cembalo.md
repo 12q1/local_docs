@@ -1,6 +1,0 @@
-# Cembalo
----
-#noun
-- **A harpsichord.**
----
----

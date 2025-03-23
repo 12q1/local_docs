@@ -1,6 +1,0 @@
-# Deener
----
-#noun
-- **A shilling.**
----
----

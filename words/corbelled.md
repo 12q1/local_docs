@@ -1,6 +1,0 @@
-# Corbelled
----
-#adjective
-- **Having [[corbels]].**
----
----

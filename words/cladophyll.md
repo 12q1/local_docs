@@ -1,6 +1,0 @@
-# Cladophyll
----
-#noun
-- **A phyllode**
----
----

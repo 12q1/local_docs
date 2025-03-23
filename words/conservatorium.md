@@ -1,6 +1,0 @@
-# Conservatorium
----
-#noun
-- **Conservatory**
----
----

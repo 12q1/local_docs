@@ -1,6 +1,0 @@
-# Bronchocele
----
-#noun
-- **Goitre.**
----
----

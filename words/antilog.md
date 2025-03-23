@@ -1,6 +1,0 @@
-# Antilog
----
-#noun
-- **An [[antilogarithm]].**
----
----

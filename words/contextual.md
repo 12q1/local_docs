@@ -1,6 +1,0 @@
-# Contextual
----
-#adjective
-- **Of, pertaining to, or depending on the [[context]] of information; relating to the situation or location in which the information was found.**
----
----

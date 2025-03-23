@@ -1,6 +1,0 @@
-# Boonies
----
-#noun
-- **Boondocks**
----
----

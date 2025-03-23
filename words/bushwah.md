@@ -1,6 +1,0 @@
-# Bushwah
----
-#noun
-- **Nonsense.**
----
----

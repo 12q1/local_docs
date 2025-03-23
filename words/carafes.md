@@ -1,7 +1,0 @@
-# Carafes
----
-#noun
-- **A [[bottle]], usually glass and with a flared lip, used for serving water, wine, or other [[beverages]].**
-- **A glass pot with a spout for pouring, used for [[both]] serving [[coffee]] and as a receptacle during the [[brewing]] process.**
----
----

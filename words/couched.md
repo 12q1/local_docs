@@ -1,6 +1,0 @@
-# Couched
----
-#adjective
-- **Couché.**
----
----

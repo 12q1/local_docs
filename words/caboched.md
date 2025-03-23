@@ -1,6 +1,0 @@
-# Caboched
----
-#adjective
-- **Showing the full face, but nothing of the neck; said of the head of a [[beast]] in [[armorial]] [[bearing]].**
----
----

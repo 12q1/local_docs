@@ -1,6 +1,0 @@
-# Cabernet
----
-#noun
-- **Cabernet Sauvignon**
----
----

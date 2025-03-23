@@ -1,6 +1,0 @@
-# Crackbrained
----
-#adjective
-- **Idiotic.**
----
----

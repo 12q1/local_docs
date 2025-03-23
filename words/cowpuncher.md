@@ -1,6 +1,0 @@
-# Cowpuncher
----
-#noun
-- **A [[cowboy]]**
----
----

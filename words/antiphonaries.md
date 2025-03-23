@@ -1,6 +1,0 @@
-# Antiphonaries
----
-#noun
-- **An [[antiphonal]].**
----
----

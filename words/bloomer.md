@@ -1,6 +1,0 @@
-# Bloomer
----
-#noun
-- **An ironworker.**
----
----

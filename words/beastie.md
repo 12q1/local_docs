@@ -1,6 +1,0 @@
-# Beastie
----
-#noun
-- **Beast, [[animal]].**
----
----

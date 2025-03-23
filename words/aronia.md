@@ -1,6 +1,0 @@
-# Aronia
----
-#noun
-- **Chokeberry**
----
----

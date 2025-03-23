@@ -1,6 +1,0 @@
-# Cropland
----
-#noun
-- **Arable land**
----
----

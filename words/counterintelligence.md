@@ -1,6 +1,0 @@
-# Counterintelligence
----
-#noun
-- **Counterespionage**
----
----

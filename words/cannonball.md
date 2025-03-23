@@ -1,6 +1,0 @@
-# Cannonball
----
-#noun
-- **([[artillery]])**
----
----

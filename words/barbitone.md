@@ -1,6 +1,0 @@
-# Barbitone
----
-#noun
-- **Barbital**
----
----

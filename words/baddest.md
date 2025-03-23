@@ -1,6 +1,0 @@
-# Baddest
----
-#adjective
-- **Fantastic.**
----
----

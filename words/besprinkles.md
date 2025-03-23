@@ -1,6 +1,0 @@
-# Besprinkles
----
-#verb
-- **To sprinkle.**
----
----

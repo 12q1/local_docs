@@ -1,8 +1,0 @@
-# Contempts
----
-#noun
-- **The state or [[act]] of [[contemning]]; the feeling or [[attitude]] of regarding someone or something as inferior, [[base]], or worthless; scorn, disdain.**
-- **The state of [[being]] despised or dishonored; disgrace.**
-- **Open disrespect or willful disobedience of the [[authority]] of a [[court]] of law or legislative [[body]].**
----
----

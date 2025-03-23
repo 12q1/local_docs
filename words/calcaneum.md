@@ -1,6 +1,0 @@
-# Calcaneum
----
-#noun
-- **The [[calcaneus]].**
----
----

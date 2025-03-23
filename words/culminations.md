@@ -1,7 +1,0 @@
-# Culminations
----
-#noun
-- **The [[attainment]] of the highest point of [[altitude]] reached by a heavenly [[body]]; passage [[across]] the meridian; transit.**
-- **Attainment or [[arrival]] at the highest pitch of glory, power, etc.**
----
----

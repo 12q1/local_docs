@@ -1,6 +1,0 @@
-# Bootless
----
-#adjective
-- **Without [[boots]].**
----
----

@@ -1,6 +1,0 @@
-# Admeasurement
----
-#noun
-- **Apportionment.**
----
----

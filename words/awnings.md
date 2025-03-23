@@ -1,7 +1,0 @@
-# Awnings
----
-#noun
-- **A rooflike [[cover]], usually of [[canvas]], extended over or [[before]] [[any]] place as a shelter from the sun, rain, or wind.**
-- **That part of the poop [[deck]] which is [[continued]] forward [[beyond]] the [[bulkhead]] of the [[cabin]].**
----
----

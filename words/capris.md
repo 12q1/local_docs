@@ -1,6 +1,0 @@
-# Capris
----
-#noun
-- **Capri pants**
----
----

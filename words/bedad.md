@@ -1,6 +1,0 @@
-# Bedad
----
-#interjection
-- **By God**
----
----

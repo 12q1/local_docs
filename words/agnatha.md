@@ -1,6 +1,0 @@
-# Agnatha
----
-#noun
-- **An agnathan.**
----
----

@@ -1,6 +1,0 @@
-# Cress
----
-#noun
-- **(plants) A plant of various species, [[chiefly]] [[cruciferous]]. The leaves have a moderately pungent taste, and are used as a salad and [[antiscorbutic]].**
----
----

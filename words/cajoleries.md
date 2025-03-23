@@ -1,6 +1,0 @@
-# Cajoleries
----
-#noun
-- **Cajolement**
----
----

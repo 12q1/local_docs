@@ -1,8 +1,0 @@
-# Absurdities
----
-#noun
-- **That which is [[absurd]]; an [[absurd]] [[action]]; a logical [[contradiction]].**
-- **The quality of [[being]] [[absurd]] or inconsistent with obvious truth, reason, or sound judgment.**
-- **Dissonance.**
----
----

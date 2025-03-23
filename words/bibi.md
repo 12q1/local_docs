@@ -1,6 +1,0 @@
-# Bibi
----
-#noun
-- **Grandmother**
----
----

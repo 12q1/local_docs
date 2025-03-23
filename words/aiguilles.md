@@ -1,7 +1,0 @@
-# Aiguilles
----
-#noun
-- **A needle-shaped peak.**
-- **An instrument for [[boring]] holes, used in [[blasting]].**
----
----

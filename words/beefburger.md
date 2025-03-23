@@ -1,6 +1,0 @@
-# Beefburger
----
-#noun
-- **A hamburger.**
----
----

@@ -1,6 +1,0 @@
-# Corticotropin
----
-#noun
-- **Adrenocorticotropic hormone.**
----
----

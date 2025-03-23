@@ -1,9 +1,0 @@
-# Cuvettes
----
-#noun
-- **A pot, [[bucket]], or [[basin]], in which molten plate glass is [[carried]] from the melting pot to the [[casting]] table**
-- **A [[cunette]]**
-- **A small vessel with at least two flat and transparent sides, used to hold a liquid sample to be [[analysed]] in the light path of a spectrometer**
-- **An inner lid of a timepiece**
----
----

@@ -1,6 +1,0 @@
-# Deceasing
----
-#verb
-- **To die.**
----
----

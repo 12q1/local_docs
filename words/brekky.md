@@ -1,6 +1,0 @@
-# Brekky
----
-#noun
-- **Breakfast.**
----
----

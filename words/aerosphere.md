@@ -1,6 +1,0 @@
-# Aerosphere
----
-#noun
-- **Atmosphere**
----
----

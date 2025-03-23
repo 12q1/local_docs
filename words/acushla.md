@@ -1,6 +1,0 @@
-# Acushla
----
-#noun
-- **Darling**
----
----

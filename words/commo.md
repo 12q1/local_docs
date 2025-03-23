@@ -1,6 +1,0 @@
-# Commo
----
-#noun
-- **A [[communist]].**
----
----

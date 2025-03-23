@@ -1,6 +1,0 @@
-# Begob
----
-#interjection
-- **By God**
----
----

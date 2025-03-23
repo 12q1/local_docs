@@ -1,6 +1,0 @@
-# Besprinkling
----
-#verb
-- **To sprinkle.**
----
----

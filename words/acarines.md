@@ -1,6 +1,0 @@
-# Acarines
----
-#noun
-- **A mite.**
----
----

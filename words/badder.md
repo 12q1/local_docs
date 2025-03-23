@@ -1,6 +1,0 @@
-# Badder
----
-#adjective
-- **Fantastic.**
----
----

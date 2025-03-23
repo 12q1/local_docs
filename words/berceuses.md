@@ -1,6 +1,0 @@
-# Berceuses
----
-#noun
-- **A lullaby.**
----
----

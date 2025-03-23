@@ -1,6 +1,0 @@
-# Berg
----
-#noun
-- **An iceberg.**
----
----

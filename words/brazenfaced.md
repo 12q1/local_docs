@@ -1,6 +1,0 @@
-# Brazenfaced
----
-#adjective
-- **Impudent; shameless**
----
----

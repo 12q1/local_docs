@@ -1,9 +1,0 @@
-# Conative
----
-#adjective
-- **Of or pertaining to a striving [[action]].**
-	- _Example: The conative, as opposed to the cognitive or affective, relates to purposeful, but not necessarily ultimately rational, action._
----
-### Synonyms
-- [[conational]]
----

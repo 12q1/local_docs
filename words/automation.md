@@ -1,8 +1,0 @@
-# Automation
----
-#noun
-- **The [[act]] or process of [[converting]] the [[controlling]] of a machine or device to a more [[automatic]] system, such as [[computer]] or electronic [[controls]].**
----
-### Synonyms
-- [[automatisation]], [[automatization]]
----

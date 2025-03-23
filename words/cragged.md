@@ -1,6 +1,0 @@
-# Cragged
----
-#adjective
-- **Having [[crags]]**
----
----

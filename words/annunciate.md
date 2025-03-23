@@ -1,6 +1,0 @@
-# Annunciate
----
-#verb
-- **To [[announce]].**
----
----

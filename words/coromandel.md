@@ -1,6 +1,0 @@
-# Coromandel
----
-#noun
-- **Calamander.**
----
----

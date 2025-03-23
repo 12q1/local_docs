@@ -1,6 +1,0 @@
-# Chaparejos
----
-#noun
-- **Chaps (trousers)**
----
----

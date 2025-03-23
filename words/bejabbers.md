@@ -1,6 +1,0 @@
-# Bejabbers
----
-#noun
-- **Bejesus**
----
----

@@ -1,6 +1,0 @@
-# Acanth
----
-#noun
-- **Acanthus.**
----
----

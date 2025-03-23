@@ -1,6 +1,0 @@
-# Caseous
----
-#adjective
-- **Resembling [[cheese]].**
----
----

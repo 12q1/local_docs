@@ -1,6 +1,0 @@
-# Bedchamber
----
-#noun
-- **A [[bedroom]].**
----
----

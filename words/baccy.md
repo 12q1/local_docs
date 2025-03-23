@@ -1,6 +1,0 @@
-# Baccy
----
-#noun
-- **Tobacco.**
----
----
