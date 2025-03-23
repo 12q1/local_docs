@@ -30,7 +30,7 @@ function interlinkText(text) {
     });
 }
 
-function capitalize(str){
+function capitalize(str) {
     return str.charAt(0).toUpperCase() + str.slice(1);
 }
 
@@ -45,7 +45,7 @@ function formatMarkdown(word, data) {
         data.meanings.forEach(({ partOfSpeech, definitions, synonyms, antonyms }) => {
             const tag = `#${partOfSpeech.replace(/\s+/g, '').toLowerCase()}`;
             md += `${tag}\n`;
-            
+
             definitions.forEach(def => {
                 md += `- **${interlinkText(def.definition)}**\n`;
                 if (def.example) {
@@ -56,11 +56,17 @@ function formatMarkdown(word, data) {
             md += `---\n`;
 
             if (synonyms && synonyms.length > 0) {
-                md += `### Synonyms\n- ${synonyms.map(s => `[[${s}]]`).join(', ')}\n`;
+                md += `### Synonyms\n- ${synonyms
+                    .filter(s => !s.includes(' ')) // Discard multi-word synonyms
+                    .map(s => `[[${s[0]}/_${s}|${s}]]`)
+                    .join(', ')}\n`;
             }
 
             if (antonyms && antonyms.length > 0) {
-                md += `### Antonyms\n- ${antonyms.map(a => `[[${a}]]`).join(', ')}\n`;
+                md += `### Antonyms\n- ${antonyms
+                    .filter(a => !a.includes(' ')) // Discard multi-word antonyms
+                    .map(a => `[[${a[0]}/_${a}|${a}]]`)
+                    .join(', ')}\n`;
             }
 
         });
