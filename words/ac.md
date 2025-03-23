@@ -48,7 +48,7 @@
 ### Synonyms
 - [[morgen]], [[feddan]], [[arpen]], [[arpent]], [[pose]], [[bigha]], [[cawney]], [[cawny]], [[Irish acre]], [[collop]], [[plantation acre]], [[juger]], [[jugerum]], [[Scotch acre]], [[Scots acre]], [[Scottish acre]], [[acair]], [[Welsh acre]], [[cover]], [[cyfair]], [[erw]], [[stang]], [[day's math]], [[demath]]
 #noun
-- **A category of music including soft rock, ballads, easy listening, soul, and rhythm and blues.**
+- **A category of music including soft rock, [[ballads]], easy listening, soul, and rhythm and blues.**
 ---
 #noun
 - **The state of temperature and humidity produced by an [[air]] conditioner.**

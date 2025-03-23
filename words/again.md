@@ -9,7 +9,7 @@
 	- _Example: Bring us word again._
 - **Back (to a former place or state).**
 	- _Example: The South will rise again._
-- **In return, as a reciprocal [[action]]; back.**
+- **In return, as a reciprocal [[action]]; [[back]].**
 - **In [[any]] other place.**
 - **On the other hand.**
 - **Moreover; besides; further.**

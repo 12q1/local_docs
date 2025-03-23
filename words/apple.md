@@ -7,7 +7,7 @@
 - **A tree of the genus Malus, especially one cultivated for its edible fruit; the [[apple]] tree.**
 - **The wood of the [[apple]] tree.**
 - **(in the plural) Short for [[apples]] and pears, slang for stairs.**
-- **The ball in baseball.**
+- **The [[ball]] in baseball.**
 - **When smiling, the round, fleshy part of the cheeks between the eyes and the corners of the mouth.**
 - **A Native American or red-skinned person who [[acts]] and/or thinks like a white (Caucasian) person.**
 - **(ice hockey slang) An [[assist]].**

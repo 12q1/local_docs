@@ -19,7 +19,7 @@
 - **The product of energy and time, especially the product of the Lagrangian and time.**
 - **The event or connected series of events, either real or imaginary, forming the subject of a play, poem, or other composition; the unfolding of the drama of events.**
 - **(painting and sculpture) The [[attitude]] or position of the several parts of the body as expressive of the sentiment or passion depicted.**
-- **Spin put on the bowling ball.**
+- **Spin put on the bowling [[ball]].**
 - **A share in the capital stock of a joint-stock company, or in the public funds.**
 ---
 ### Synonyms

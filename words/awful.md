@@ -1,7 +1,7 @@
 # Awful
 ---
 #adjective
-- **Very bad.**
+- **Very [[bad]].**
 	- _Example: My socks smell awful._
 - **Exceedingly great; usually [[applied]] intensively.**
 	- _Example: I have learnt an awful amount today._

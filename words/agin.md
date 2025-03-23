@@ -9,7 +9,7 @@
 	- _Example: Bring us word again._
 - **Back (to a former place or state).**
 	- _Example: The South will rise again._
-- **In return, as a reciprocal [[action]]; back.**
+- **In return, as a reciprocal [[action]]; [[back]].**
 - **In [[any]] other place.**
 - **On the other hand.**
 - **Moreover; besides; further.**
@@ -23,7 +23,7 @@
 	- _Example: The kennel was put against the back wall._
 - **Close to, [[alongside]].**
 	- _Example: A row of trees stood against a fence._
-- **In front of; before (a background).**
+- **In front of; before (a [[background]]).**
 	- _Example: The giant was silhouetted against the door._
 - **In contrast or comparison with.**
 	- _Example: He stands out against his classmates._

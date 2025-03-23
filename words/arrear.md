@@ -6,7 +6,7 @@
 - **That which is in the rear or behind.**
 ---
 #adverb
-- **Towards the rear, backwards.**
+- **Towards the rear, [[backwards]].**
 - **Behind time; overdue.**
 ---
 ---

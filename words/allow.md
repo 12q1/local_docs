@@ -9,7 +9,7 @@
 	- _Example: To allow a sum for leakage._
 - **To grant license to; to permit; to consent to.**
 	- _Example: Smoking allowed only in designated areas._
-- **To not bar or obstruct.**
+- **To not [[bar]] or obstruct.**
 	- _Example: Although I don't consent to their holding such meetings, I will allow them for the time being._
 - **To [[acknowledge]] or concede.**
 - **To take into [[account]] by making an [[allowance]].**

@@ -18,6 +18,6 @@
 ### Antonyms
 - [[amiable]], [[cool]], [[dexterous]], [[gainly]], [[graceful]], [[handy]], [[skillful]]
 #adverb
-- **In a backwards direction.**
+- **In a [[backwards]] direction.**
 ---
 ---

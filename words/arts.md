@@ -12,7 +12,7 @@
 	- _Example: Her photographs are nice, but there's no art in them._
 - **Artwork.**
 	- _Example: Sotheby's regularly auctions art for millions._
-- **A field or category of [[art]], such as painting, sculpture, music, ballet, or literature.**
+- **A field or category of [[art]], such as painting, sculpture, music, [[ballet]], or literature.**
 	- _Example: I'm a great supporter of the arts._
 - **A nonscientific branch of learning; one of the liberal [[arts]].**
 - **Skill that is [[attained]] by study, practice, or observation.**

@@ -8,7 +8,7 @@
 - **A device to physically [[arrest]] motion.**
 - **The judicial detention of a ship to secure a financial claim [[against]] its operators.**
 - **Any seizure by power, physical or otherwise.**
-- **A scurfiness of the back part of the hind leg of a horse.**
+- **A scurfiness of the [[back]] part of the hind leg of a horse.**
 ---
 #verb
 - **To stop the motion of (a person or [[animal]]).**

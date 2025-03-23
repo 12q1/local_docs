@@ -27,7 +27,7 @@
 - **To do (something); to perform.**
 - **To perform a theatrical role.**
 	- _Example: I started acting at the age of eleven in my local theatre._
-- **Of a play: to be [[acted]] out (well or badly).**
+- **Of a play: to be [[acted]] out (well or [[badly]]).**
 - **To behave in a certain manner for an indefinite length of time.**
 	- _Example: A dog which acts aggressively is likely to bite._
 - **To convey an [[appearance]] of being.**

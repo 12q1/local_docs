@@ -2,7 +2,7 @@
 ---
 #noun
 - **A registry of pecuniary transactions; a written or printed statement of business dealings or debts and credits, and [[also]] of other things subjected to a reckoning or review.**
-- **A sum of money deposited at a bank and subject to withdrawal.**
+- **A sum of money deposited at a [[bank]] and subject to withdrawal.**
 	- _Example: to keep one's account at the bank._
 - **A statement in general of reasons, causes, grounds, etc., explanatory of some event; a reason of an [[action]] to be done.**
 	- _Example: No satisfactory account has been given of these phenomena._

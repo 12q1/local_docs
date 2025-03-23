@@ -6,7 +6,7 @@
 - **The [[area]] between the outfielders.**
 	- _Example: He hit one deep into the alley._
 - **An establishment where bowling is played.**
-- **An elongated wooden strip of floor [[along]] which a bowling ball is rolled.**
+- **An elongated wooden strip of floor [[along]] which a bowling [[ball]] is rolled.**
 - **The extra [[area]] between the sidelines or tramlines on a tennis court that is used for doubles matches.**
 - **A walk or passage in a garden or park, bordered by rows of trees or bushes.**
 - **A passageway between rows of pews in a church.**
