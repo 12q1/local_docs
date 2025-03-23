@@ -1,15 +1,15 @@
 # Adorn
 ---
 #noun
-- **[[a/_adornment|Adornment]]**
+- **Adornment**
 ---
 #verb
-- **To make more [[b/_beautiful|beautiful]] and [[a/_attractive|attractive]]; to [[d/_decorate|decorate]].**
+- **To make more beautiful and attractive; to decorate.**
 	- _Example: a character adorned with every Christian grace_
 ---
 ### Synonyms
-- [[beautify]], [[bedeck]], [[deck]], [[decorate]], [[grace]], [[ornament]], [[prettify]]
+- [[[[b/_beautify|beautify]]]], [[[[b/_bedeck|bedeck]]]], [[[[d/_deck|deck]]]], [[[[d/_decorate|decorate]]]], [[grace]], [[ornament]], [[prettify]]
 #adjective
-- **[[a/_adorned|Adorned]]; ornate**
+- **Adorned; ornate**
 ---
 ---

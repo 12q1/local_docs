@@ -1,10 +1,10 @@
 # Bakeries
 ---
 #noun
-- **A shop in which [[b/_bread|bread]] (and often other [[b/_baked|baked]] goods such as [[c/_cakes|cakes]]) is [[b/_baked|baked]] and/or sold.**
-- **The trade of a [[b/_baker|baker]].**
-- **The [[a/_actual|actual]] goods produced in a [[b/_bakery|bakery]] such as doughnuts, long johns, bismarcks, sugar and glazed twisters, [[c/_cinnamon|cinnamon]] rolls, eclairs, etc.**
+- **A shop in which bread (and often other baked goods such as cakes) is baked and/or sold.**
+- **The trade of a baker.**
+- **The actual goods produced in a bakery such as doughnuts, long johns, bismarcks, sugar and glazed twisters, cinnamon rolls, eclairs, etc.**
 ---
 ### Synonyms
-- [[bakehouse]]
+- [[[[b/_bakehouse|bakehouse]]]]
 ---

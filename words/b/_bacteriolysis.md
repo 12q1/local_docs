@@ -1,6 +1,6 @@
 # Bacteriolysis
 ---
 #noun
-- **The [[d/_destruction|destruction]] of [[b/_bacteria|bacteria]] by lysis**
+- **The destruction of bacteria by lysis**
 ---
 ---

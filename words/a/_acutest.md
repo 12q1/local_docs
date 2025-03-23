@@ -1,7 +1,7 @@
 # Acutest
 ---
 #adjective
-- **[[b/_brief|Brief]], quick, short.**
+- **Brief, quick, short.**
 	- _Example: It was an acute event._
 - **High or shrill.**
 	- _Example: an acute accent or tone_
@@ -9,21 +9,21 @@
 	- _Example: She had an acute sense of honour.  Eagles have very acute vision._
 - **Urgent.**
 	- _Example: His need for medical attention was acute._
-- **With the sides meeting directly to form an [[a/_acute|acute]] [[a/_angle|angle]] (at an [[a/_apex|apex]] or [[b/_base|base]]).**
-- **Of an [[a/_angle|angle]]: less than 90 [[d/_degrees|degrees]].**
+- **With the sides meeting directly to form an acute angle (at an apex or base).**
+- **Of an angle: less than 90 degrees.**
 	- _Example: The teacher pointed out the acute angle._
-- **Of a triangle: having [[a/_all|all]] three interior [[a/_angles|angles]] measuring less than 90 [[d/_degrees|degrees]].**
+- **Of a triangle: having all three interior angles measuring less than 90 degrees.**
 	- _Example: an acute triangle_
-- **Of an [[a/_accent|accent]] or tone: generally higher than others.**
-- **Of an [[a/_abnormal|abnormal]] [[c/_condition|condition]] of recent or sudden onset, in [[c/_contrast|contrast]] to [[d/_delayed|delayed]] onset; this sense does not imply severity, unlike the [[c/_common|common]] usage.**
+- **Of an accent or tone: generally higher than others.**
+- **Of an abnormal condition of recent or sudden onset, in contrast to delayed onset; this sense does not imply severity, unlike the common usage.**
 	- _Example: He dropped dead of an acute illness._
-- **Of a short-lived [[c/_condition|condition]], in [[c/_contrast|contrast]] to a [[c/_chronic|chronic]] [[c/_condition|condition]]; this sense [[a/_also|also]] does not imply severity.**
+- **Of a short-lived condition, in contrast to a chronic condition; this sense also does not imply severity.**
 	- _Example: The acute symptoms resolved promptly._
-- **[[a/_after|After]] a letter of the [[a/_alphabet|alphabet]]: having an [[a/_acute|acute]] [[a/_accent|accent]].**
+- **After a letter of the alphabet: having an acute accent.**
 	- _Example: The last letter of ‘café’ is ‘e’ acute._
 ---
 ### Synonyms
-- [[acute-angled]], [[emergent]], [[pressing]], [[sudden]], [[fast]], [[rapid]], [[keen]], [[powerful]], [[strong]]
+- [[[[a/_acute|acute]]-[[a/_angled|angled]]]], [[emergent]], [[pressing]], [[sudden]], [[fast]], [[rapid]], [[keen]], [[powerful]], [[strong]]
 ### Antonyms
-- [[chronic]], [[dull]], [[obtuse]], [[slow]], [[witless]], [[grave]], [[leisurely]], [[slow]], [[obtuse]], [[obtuse]], [[obtuse]], [[obtuse-angled]]
+- [[[[c/_chronic|chronic]]]], [[[[d/_dull|dull]]]], [[obtuse]], [[slow]], [[witless]], [[grave]], [[leisurely]], [[slow]], [[obtuse]], [[obtuse]], [[obtuse]], [[obtuse-[[a/_angled|angled]]]]
 ---

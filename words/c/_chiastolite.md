@@ -1,7 +1,7 @@
 # Chiastolite
 ---
 #noun
-- **An [[a/_aluminosilicate|aluminosilicate]] mineral having [[c/_carbon|carbon]] inclusions, a variety of [[a/_andalusite|andalusite]].**
+- **An aluminosilicate mineral having carbon inclusions, a variety of andalusite.**
 ---
 ### Synonyms
 - [[macle]]

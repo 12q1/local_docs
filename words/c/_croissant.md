@@ -1,8 +1,8 @@
 # Croissant
 ---
 #noun
-- **A flaky roll or pastry in a form of a [[c/_crescent|crescent]].**
+- **A flaky roll or pastry in a form of a crescent.**
 ---
 ### Synonyms
-- [[crescent]], [[crescent roll]], [[kipfel]]
+- [[[[c/_crescent|crescent]]]], [[[[c/_crescent|crescent]] roll]], [[kipfel]]
 ---

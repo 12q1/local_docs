@@ -1,9 +1,9 @@
 # Confessionals
 ---
 #noun
-- **(Roman [[c/_catholic|Catholic]] [[c/_church|church]]) A small room where [[c/_confession|confession]]—the sacrament of reconciliation—is performed by a priest.**
-- **A [[c/_confession|confession]].**
+- **(Roman Catholic church) A small room where confession—the sacrament of reconciliation—is performed by a priest.**
+- **A confession.**
 ---
 ### Synonyms
-- [[confession booth]]
+- [[[[c/_confession|confession]] [[b/_booth|booth]]]]
 ---

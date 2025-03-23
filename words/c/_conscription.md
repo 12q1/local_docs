@@ -1,9 +1,9 @@
 # Conscription
 ---
 #noun
-- **Involuntary labor, especially military service, [[d/_demanded|demanded]] by some established [[a/_authority|authority]].**
+- **Involuntary labor, especially military service, demanded by some established authority.**
 - **An enrolling or registering.**
 ---
 ### Synonyms
-- [[draft]]
+- [[[[d/_draft|draft]]]]
 ---

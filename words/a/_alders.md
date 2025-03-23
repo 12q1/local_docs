@@ -1,9 +1,9 @@
 # Alders
 ---
 #noun
-- **[[a/_any|Any]] of several trees or shrubs of the genus [[a/_alnus|Alnus]], [[b/_belonging|belonging]] to the [[b/_birch|birch]] family.**
+- **Any of several trees or shrubs of the genus Alnus, belonging to the birch family.**
 ---
 #noun
-- **An [[a/_alderman|alderman]] or [[a/_alderwoman|alderwoman]].**
+- **An alderman or alderwoman.**
 ---
 ---

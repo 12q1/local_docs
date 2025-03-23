@@ -1,25 +1,25 @@
 # Bucketing
 ---
 #noun
-- **A [[d/_data|data]] pre-processing technique in which original [[d/_data|data]] values fall into a small interval ("[[b/_bin|bin]]") and are replaced by a value representative of that interval, often the [[c/_central|central]] value. Wp**
-- **The process of grouping reads or contigs and [[a/_assigning|assigning]] them to operational taxonomic units. Wp**
-- **The [[c/_categorization|categorization]] of finished products [[b/_based|based]] on their [[c/_characteristics|characteristics]]. Wp**
-- **The process of [[c/_combining|combining]] [[c/_charge|charge]] from [[a/_adjacent|adjacent]] pixels in a CCD image sensor during readout.**
+- **A data pre-processing technique in which original data values fall into a small interval ("bin") and are replaced by a value representative of that interval, often the central value. Wp**
+- **The process of grouping reads or contigs and assigning them to operational taxonomic units. Wp**
+- **The categorization of finished products based on their characteristics. Wp**
+- **The process of combining charge from adjacent pixels in a CCD image sensor during readout.**
 ---
 ### Synonyms
-- [[product binning]], [[bucketing]], [[data binning]], [[discrete binning]], [[statistical data binning]]
+- [[product [[b/_binning|binning]]]], [[[[b/_bucketing|bucketing]]]], [[[[d/_data|data]] [[b/_binning|binning]]]], [[[[d/_discrete|discrete]] [[b/_binning|binning]]]], [[statistical [[d/_data|data]] [[b/_binning|binning]]]]
 #verb
-- **To place inside a [[b/_bucket|bucket]].**
-- **To draw or lift in, or as if in, [[b/_buckets|buckets]].**
+- **To place inside a bucket.**
+- **To draw or lift in, or as if in, buckets.**
 	- _Example: to bucket water_
 - **To rain heavily.**
 	- _Example: It’s really bucketing down out there._
 - **To travel very quickly.**
 	- _Example: The boat is bucketing along._
-- **To [[c/_categorize|categorize]] ([[d/_data|data]]) by splitting it into [[b/_buckets|buckets]], or groups of related items.**
+- **To categorize (data) by splitting it into buckets, or groups of related items.**
 - **To ride (a horse) hard or mercilessly.**
-- **To make, or [[c/_cause|cause]] to make (the recovery), with a [[c/_certain|certain]] hurried or unskillful forward swing of the [[b/_body|body]].**
+- **To make, or cause to make (the recovery), with a certain hurried or unskillful forward swing of the body.**
 ---
 ### Synonyms
-- [[chuck it down]], [[piss down]], [[rain cats and dogs]], [[book it]], [[hurtle]], [[rocket]], [[shoot]], [[speed]], [[whizz]]
+- [[[[c/_chuck|chuck]] it [[d/_down|down]]]], [[piss [[d/_down|down]]]], [[rain [[c/_cats|cats]] and [[d/_dogs|dogs]]]], [[[[b/_book|book]] it]], [[hurtle]], [[rocket]], [[shoot]], [[speed]], [[whizz]]
 ---

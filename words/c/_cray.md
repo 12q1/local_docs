@@ -1,6 +1,6 @@
 # Cray
 ---
 #noun
-- **A [[c/_crayfish|crayfish]] or lobster.**
+- **A crayfish or lobster.**
 ---
 ---

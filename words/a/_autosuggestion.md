@@ -1,9 +1,9 @@
 # Autosuggestion
 ---
 #noun
-- **The practice of suggesting thoughts to oneself, as in [[a/_autohypnosis|autohypnosis]].**
+- **The practice of suggesting thoughts to oneself, as in autohypnosis.**
 - **An instance of suggesting a thought to oneself.**
-- **An [[a/_autosuggest|autosuggest]] feature.**
+- **An autosuggest feature.**
 ---
 ### Synonyms
 - [[self-suggestion]]

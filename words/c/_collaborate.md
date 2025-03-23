@@ -1,9 +1,9 @@
 # Collaborate
 ---
 #verb
-- **To work together with others to [[a/_achieve|achieve]] a [[c/_common|common]] goal.**
+- **To work together with others to achieve a common goal.**
 	- _Example: Let's collaborate on this project, and get it finished faster._
-- **To voluntarily [[c/_cooperate|cooperate]] treasonably, as with an enemy occupation force in one's [[c/_country|country]].**
+- **To voluntarily cooperate treasonably, as with an enemy occupation force in one's country.**
 	- _Example: If you collaborate with the occupying forces, you will be shot._
 ---
 ---

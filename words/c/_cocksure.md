@@ -1,6 +1,6 @@
 # Cocksure
 ---
 #adjective
-- **Too [[c/_confident|confident]]; overconfident**
+- **Too confident; overconfident**
 ---
 ---

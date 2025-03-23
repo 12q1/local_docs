@@ -4,9 +4,9 @@
 - **To engage in sexual intercourse.**
 ---
 ### Synonyms
-- [[bang]], [[boff]], [[fuck]], [[have sex]], [[make love]], [[screw]], [[sleep together]], [[swive]]
+- [[[[b/_bang|bang]]]], [[[[b/_boff|boff]]]], [[fuck]], [[have sex]], [[make love]], [[screw]], [[sleep together]], [[swive]]
 #adjective
-- **Joined; [[a/_associated|associated]]; [[c/_coupled|coupled]].**
-- **(grammar) Joining subject and predicate; [[c/_copulative|copulative]].**
+- **Joined; associated; coupled.**
+- **(grammar) Joining subject and predicate; copulative.**
 ---
 ---

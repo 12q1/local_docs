@@ -1,6 +1,6 @@
 # Curetting
 ---
 #verb
-- **To scrape with a [[c/_curette|curette]].**
+- **To scrape with a curette.**
 ---
 ---

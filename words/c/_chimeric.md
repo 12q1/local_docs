@@ -1,8 +1,8 @@
 # Chimeric
 ---
 #adjective
-- **Like a [[c/_chimera|chimera]].**
+- **Like a chimera.**
 - **Imaginary, fanciful.**
-- **Pertaining to a genetic [[c/_chimera|chimera]].**
+- **Pertaining to a genetic chimera.**
 ---
 ---

@@ -1,24 +1,24 @@
 # Capacity
 ---
 #noun
-- **The [[a/_ability|ability]] to hold, receive or [[a/_absorb|absorb]]**
-- **A measure of such [[a/_ability|ability]]; volume**
-- **The maximum [[a/_amount|amount]] that [[c/_can|can]] be held**
+- **The ability to hold, receive or absorb**
+- **A measure of such ability; volume**
+- **The maximum amount that can be held**
 	- _Example: It was hauling a capacity load._
-- **[[c/_capability|Capability]]; the [[a/_ability|ability]] to perform some task**
-- **The maximum that [[c/_can|can]] be produced.**
-- **Mental [[a/_ability|ability]]; the power to learn**
+- **Capability; the ability to perform some task**
+- **The maximum that can be produced.**
+- **Mental ability; the power to learn**
 - **A faculty; the potential for growth and development**
 - **A role; the position in which one functions**
-- **Legal [[a/_authority|authority]] (to make an [[a/_arrest|arrest]] for example)**
-- **Electrical [[c/_capacitance|capacitance]].**
-- **(operations) The maximum that [[c/_can|can]] be produced on a machine or in a facility or group.**
+- **Legal authority (to make an arrest for example)**
+- **Electrical capacitance.**
+- **(operations) The maximum that can be produced on a machine or in a facility or group.**
 	- _Example: Its capacity rating was 150 tons per hour, but its actual maximum capacity was 200 tons per hour._
 ---
 ### Synonyms
 - [[throughput]]
 #adjective
-- **Filling the [[a/_allotted|allotted]] space.**
+- **Filling the allotted space.**
 	- _Example: There will be a capacity crowd at Busch stadium for the sixth game._
 ---
 ---

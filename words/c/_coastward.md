@@ -1,9 +1,9 @@
 # Coastward
 ---
 #adjective
-- **Towards the [[c/_coast|coast]]**
+- **Towards the coast**
 ---
 #adverb
-- **Towards the [[c/_coast|coast]]**
+- **Towards the coast**
 ---
 ---

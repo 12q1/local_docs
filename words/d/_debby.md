@@ -1,6 +1,6 @@
 # Debby
 ---
 #adjective
-- **Like a [[d/_debutante|debutante]].**
+- **Like a debutante.**
 ---
 ---

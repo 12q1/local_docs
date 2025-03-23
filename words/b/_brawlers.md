@@ -1,8 +1,8 @@
 # Brawlers
 ---
 #noun
-- **One who [[b/_brawls|brawls]], engages in noisy, unseemly fights.**
-- **A [[b/_beat|beat]] 'em up game.**
+- **One who brawls, engages in noisy, unseemly fights.**
+- **A beat 'em up game.**
 ---
 ### Synonyms
 - [[rooster]]

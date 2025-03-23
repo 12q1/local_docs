@@ -1,6 +1,6 @@
 # Alburnum
 ---
 #noun
-- **Sapwood; the soft, newer wood in the trunk of a tree found [[b/_between|between]] the [[b/_bark|bark]] and the hardened heartwood.**
+- **Sapwood; the soft, newer wood in the trunk of a tree found between the bark and the hardened heartwood.**
 ---
 ---

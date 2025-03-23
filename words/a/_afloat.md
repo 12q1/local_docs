@@ -3,7 +3,7 @@
 #adverb
 - **Floating**
 	- _Example: A rubber duck and other toys were afloat in the bath._
-- **[[c/_covered|Covered]] with water [[b/_bearing|bearing]] floating [[a/_articles|articles]]; flooded.**
+- **Covered with water bearing floating articles; flooded.**
 	- _Example: The decks are afloat._
 - **Out at sea.**
 - **Making successful progress under one's own steam.**

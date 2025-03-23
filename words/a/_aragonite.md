@@ -1,6 +1,6 @@
 # Aragonite
 ---
 #noun
-- **A saline evaporite [[c/_consisting|consisting]] of [[a/_anhydrous|anhydrous]] [[c/_calcium|calcium]] [[c/_carbonate|carbonate]] with the [[c/_chemical|chemical]] formula CaCO3; it is dimorphous with [[c/_calcite|calcite]].**
+- **A saline evaporite consisting of anhydrous calcium carbonate with the chemical formula CaCO3; it is dimorphous with calcite.**
 ---
 ---

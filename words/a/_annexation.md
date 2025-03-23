@@ -1,11 +1,11 @@
 # Annexation
 ---
 #noun
-- **[[a/_addition|Addition]] or incorporation of something, or territories that have [[b/_been|been]] [[a/_annexed|annexed]].**
-- **A legal merging of a territory into [[a/_another|another]] [[b/_body|body]].**
+- **Addition or incorporation of something, or territories that have been annexed.**
+- **A legal merging of a territory into another body.**
 ---
 ### Synonyms
-- [[annexion]]
+- [[[[a/_annexion|annexion]]]]
 ### Antonyms
 - [[separation]]
 ---

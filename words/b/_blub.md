@@ -1,13 +1,13 @@
 # Blub
 ---
 #noun
-- **The [[a/_act|act]] of [[b/_blubbing|blubbing]].**
+- **The act of blubbing.**
 ---
 #verb
-- **To [[c/_cry|cry]], whine or [[b/_blubber|blubber]] (usually [[c/_carries|carries]] a [[c/_connotation|connotation]] of disapproval).**
+- **To cry, whine or blubber (usually carries a connotation of disapproval).**
 - **To swell; to puff out, as with weeping.**
 ---
 #adjective
-- **([[a/_attributively|attributively]]) Swollen, puffed, protruding.**
+- **(attributively) Swollen, puffed, protruding.**
 ---
 ---

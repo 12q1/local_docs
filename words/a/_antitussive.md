@@ -1,9 +1,9 @@
 # Antitussive
 ---
 #noun
-- **A [[c/_cough|cough]] suppressant or a drug that inhibits [[c/_coughing|coughing]].**
+- **A cough suppressant or a drug that inhibits coughing.**
 ---
 #adjective
-- **(pharmaceutical effect) Having [[c/_cough|cough]] suppressant [[a/_abilities|abilities]].**
+- **(pharmaceutical effect) Having cough suppressant abilities.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Borosilicate
 ---
 #noun
-- **[[a/_any|Any]] of various minerals whose structure is formally that of a dual salt of [[b/_boric|boric]] and silicic [[a/_acids|acids]].**
+- **Any of various minerals whose structure is formally that of a dual salt of boric and silicic acids.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Dedicator
 ---
 #noun
-- **One who [[d/_dedicates|dedicates]].**
+- **One who dedicates.**
 ---
 ---

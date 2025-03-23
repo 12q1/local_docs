@@ -1,6 +1,6 @@
 # Chugalugs
 ---
 #verb
-- **To swallow (a [[c/_container|container]] of [[b/_beer|beer]] etc.) without pausing.**
+- **To swallow (a container of beer etc.) without pausing.**
 ---
 ---

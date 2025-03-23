@@ -1,19 +1,19 @@
 # Acknowledged
 ---
 #verb
-- **To [[a/_admit|admit]] the knowledge of; to recognize as a fact or truth; to [[d/_declare|declare]] one's [[b/_belief|belief]] in**
+- **To admit the knowledge of; to recognize as a fact or truth; to declare one's belief in**
 	- _Example: to acknowledge the being of a god_
-- **To own or recognize in a particular quality, [[c/_character|character]] or relationship; to [[a/_admit|admit]] the [[c/_claims|claims]] or [[a/_authority|authority]] of; to give recognition to.**
-- **To be grateful of (e.g. a [[b/_benefit|benefit]] or a favour)**
+- **To own or recognize in a particular quality, character or relationship; to admit the claims or authority of; to give recognition to.**
+- **To be grateful of (e.g. a benefit or a favour)**
 	- _Example: to acknowledge a favor_
 - **To report (the receipt of a message to its sender).**
 	- _Example: This is to acknowledge your kind invitation to participate in the upcoming debate._
-- **To own as genuine or valid; to [[a/_assent|assent]] to (a legal instrument) to give it validity; to [[a/_avow|avow]] or [[a/_admit|admit]] in legal form.**
+- **To own as genuine or valid; to assent to (a legal instrument) to give it validity; to avow or admit in legal form.**
 ---
 ### Synonyms
-- [[admit]], [[allow]], [[avow]], [[concede]], [[confess]], [[own]], [[proclaim]], [[recognize]]
+- [[[[a/_admit|admit]]]], [[[[a/_allow|allow]]]], [[[[a/_avow|avow]]]], [[[[c/_concede|concede]]]], [[[[c/_confess|confess]]]], [[own]], [[proclaim]], [[recognize]]
 #adjective
-- **Generally [[a/_accepted|accepted]], recognized or [[a/_admitted|admitted]].**
+- **Generally accepted, recognized or admitted.**
 ---
 ### Antonyms
 - [[unacknowledged]]

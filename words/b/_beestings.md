@@ -1,8 +1,8 @@
 # Beestings
 ---
 #noun
-- **The first milk drawn from an [[a/_animal|animal]] (especially a [[c/_cow|cow]]) [[a/_after|after]] it has given [[b/_birth|birth]].**
+- **The first milk drawn from an animal (especially a cow) after it has given birth.**
 ---
 ### Synonyms
-- [[beest]], [[colostrum]]
+- [[[[b/_beest|beest]]]], [[[[c/_colostrum|colostrum]]]]
 ---

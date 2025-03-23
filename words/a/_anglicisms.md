@@ -1,8 +1,8 @@
 # Anglicisms
 ---
 #noun
-- **A word or other feature originating in the English language that has [[b/_been|been]] [[b/_borrowed|borrowed]] by [[a/_another|another]] language.**
-- **A [[b/_briticism|Briticism]].**
-- **A [[c/_cultural|cultural]] [[a/_aspect|aspect]] typical of the English people.**
+- **A word or other feature originating in the English language that has been borrowed by another language.**
+- **A Briticism.**
+- **A cultural aspect typical of the English people.**
 ---
 ---

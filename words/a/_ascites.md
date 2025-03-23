@@ -1,8 +1,8 @@
 # Ascites
 ---
 #noun
-- **An [[a/_accumulation|accumulation]] of fluid in the peritoneal [[c/_cavity|cavity]], frequently symptomatic of liver disease.**
+- **An accumulation of fluid in the peritoneal cavity, frequently symptomatic of liver disease.**
 ---
 ### Synonyms
-- [[abdominal]], [[dropsy]], [[hydroperitoneum]], [[seroperitoneum]]
+- [[[[a/_abdominal|abdominal]]]], [[[[d/_dropsy|dropsy]]]], [[hydroperitoneum]], [[seroperitoneum]]
 ---

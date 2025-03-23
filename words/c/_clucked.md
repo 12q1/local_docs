@@ -2,9 +2,9 @@
 ---
 #verb
 - **To make such a sound.**
-- **To [[c/_cause|cause]] (the tongue) to make a [[c/_clicking|clicking]] sound.**
+- **To cause (the tongue) to make a clicking sound.**
 	- _Example: My mother clucked her tongue in disapproval._
-- **To [[c/_call|call]] together, or [[c/_call|call]] to follow, as a hen does her [[c/_chickens|chickens]].**
+- **To call together, or call to follow, as a hen does her chickens.**
 - **To suffer withdrawal from heroin.**
 ---
 ---

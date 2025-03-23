@@ -1,8 +1,8 @@
 # Archegonium
 ---
 #noun
-- **A multicellular reproductive structure that [[c/_contains|contains]] a large, non-motile gamete (egg [[c/_cell|cell]]), and within which an embryo will develop.**
+- **A multicellular reproductive structure that contains a large, non-motile gamete (egg cell), and within which an embryo will develop.**
 ---
 ### Antonyms
-- [[antheridium]]
+- [[[[a/_antheridium|antheridium]]]]
 ---

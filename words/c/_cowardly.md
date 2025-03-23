@@ -1,9 +1,9 @@
 # Cowardly
 ---
 #adjective
-- **Showing [[c/_cowardice|cowardice]]; lacking in [[c/_courage|courage]]; weakly fearful.**
+- **Showing cowardice; lacking in courage; weakly fearful.**
 ---
 #adverb
-- **In the manner of a [[c/_coward|coward]], cowardlily.**
+- **In the manner of a coward, cowardlily.**
 ---
 ---

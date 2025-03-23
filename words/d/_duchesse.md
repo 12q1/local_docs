@@ -1,0 +1,6 @@
+# Duchesse
+---
+#noun
+- **Duchesse lace**
+---
+---

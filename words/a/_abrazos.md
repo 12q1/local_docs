@@ -1,6 +1,6 @@
 # Abrazos
 ---
 #noun
-- **A Latin [[a/_american|American]] embrace.**
+- **A Latin American embrace.**
 ---
 ---

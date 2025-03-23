@@ -1,9 +1,9 @@
 # Craziness
 ---
 #noun
-- **The state of [[b/_being|being]] [[c/_crazy|crazy]]; madness; [[d/_derangement|derangement]]**
-- **The state of [[b/_being|being]] [[b/_broken|broken]] down or weakened**
+- **The state of being crazy; madness; derangement**
+- **The state of being broken down or weakened**
 	- _Example: the craziness of a ship, or of the limbs_
-- **The result or product of [[b/_being|being]] [[c/_crazy|crazy]].**
+- **The result or product of being crazy.**
 ---
 ---

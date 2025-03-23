@@ -1,6 +1,6 @@
 # Craniology
 ---
 #noun
-- **The study of the physical [[c/_characteristics|characteristics]] of the human skull.**
+- **The study of the physical characteristics of the human skull.**
 ---
 ---

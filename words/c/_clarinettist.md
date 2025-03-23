@@ -1,8 +1,8 @@
 # Clarinettist
 ---
 #noun
-- **Someone who plays the [[c/_clarinet|clarinet]].**
+- **Someone who plays the clarinet.**
 ---
 ### Synonyms
-- [[clarinet-player]]
+- [[[[c/_clarinet|clarinet]]-player]]
 ---

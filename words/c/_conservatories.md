@@ -10,5 +10,5 @@
 - **A school of music or drama**
 ---
 ### Synonyms
-- [[Florida room]], [[solarium]], [[sunroom]], [[conservatoire]], [[greenhouse]], [[hothouse]], [[orangery]], [[planthouse]]
+- [[Florida room]], [[solarium]], [[sunroom]], [[[[c/_conservatoire|conservatoire]]]], [[greenhouse]], [[hothouse]], [[orangery]], [[planthouse]]
 ---

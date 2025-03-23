@@ -1,8 +1,8 @@
 # Denunciated
 ---
 #verb
-- **To [[c/_condemn|condemn]] openly.**
+- **To condemn openly.**
 ---
 ### Synonyms
-- [[denounce]]
+- [[[[d/_denounce|denounce]]]]
 ---

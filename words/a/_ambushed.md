@@ -1,11 +1,11 @@
 # Ambushed
 ---
 #verb
-- **To station in [[a/_ambush|ambush]] with a view to surprise an enemy.**
-- **To [[a/_attack|attack]] by [[a/_ambush|ambush]]; to waylay.**
+- **To station in ambush with a view to surprise an enemy.**
+- **To attack by ambush; to waylay.**
 ---
 #adjective
-- **Having [[b/_been|been]] the target of an [[a/_ambush|ambush]].**
-- **Having [[b/_been|been]] subjected to a shock for which one is unprepared.**
+- **Having been the target of an ambush.**
+- **Having been subjected to a shock for which one is unprepared.**
 ---
 ---

@@ -4,22 +4,22 @@
 - **The hypothetical medium of heat.**
 ---
 #adjective
-- **Relating to [[c/_calories|calories]].**
+- **Relating to calories.**
 	- _Example: caloric intake_
-- **[[c/_containing|Containing]] [[c/_calories|calories]].**
+- **Containing calories.**
 	- _Example: Milk is a caloric beverage._
 ---
 ### Synonyms
-- [[calorific]]
+- [[[[c/_calorific|calorific]]]]
 ### Antonyms
 - [[noncaloric]]
 #adjective
-- **Relating to [[c/_calories|calories]].**
+- **Relating to calories.**
 - **Relating to or producing heat or other energy.**
-- **(of food) High in [[c/_calories|calories]] and thus likely fattening.**
+- **(of food) High in calories and thus likely fattening.**
 ---
 ### Synonyms
-- [[caloric]]
+- [[[[c/_caloric|caloric]]]]
 ### Antonyms
 - [[frigorific]]
 ---

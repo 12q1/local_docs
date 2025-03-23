@@ -1,6 +1,6 @@
 # Corynebacteria
 ---
 #noun
-- **[[a/_any|Any]] [[b/_bacterium|bacterium]], of the genus [[c/_corynebacterium|Corynebacterium]], many of which are pathogenic or parasitic.**
+- **Any bacterium, of the genus Corynebacterium, many of which are pathogenic or parasitic.**
 ---
 ---

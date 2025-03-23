@@ -1,8 +1,8 @@
 # Boletuses
 ---
 #noun
-- **An edible mushroom of genus [[b/_boletus|Boletus]].**
+- **An edible mushroom of genus Boletus.**
 ---
 ### Synonyms
-- [[bolete]], [[cep]], [[porcini]]
+- [[[[b/_bolete|bolete]]]], [[[[c/_cep|cep]]]], [[porcini]]
 ---

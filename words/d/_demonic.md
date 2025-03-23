@@ -1,10 +1,10 @@
 # Demonic
 ---
 #adjective
-- **Pertaining to [[d/_demons|demons]] or evil spirits; [[d/_demoniac|demoniac]].**
+- **Pertaining to demons or evil spirits; demoniac.**
 	- _Example: Convinced that his uncle was a warlock, he rifled through his attic, looking for demonic artifacts._
-- **Pertaining to [[d/_d|d]]æmons in [[a/_ancient|ancient]] Greek thought; [[c/_concerning|concerning]] supernatural ‘genius’.**
+- **Pertaining to dæmons in ancient Greek thought; concerning supernatural ‘genius’.**
 ---
 ### Synonyms
-- [[demonish]], [[demonlike]], [[demonly]]
+- [[[[d/_demonish|demonish]]]], [[[[d/_demonlike|demonlike]]]], [[demonly]]
 ---

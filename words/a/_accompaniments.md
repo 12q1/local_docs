@@ -1,9 +1,9 @@
 # Accompaniments
 ---
 #noun
-- **A part, usually performed by instruments, that gives support or [[a/_adds|adds]] to the [[b/_background|background]] in music, or [[a/_adds|adds]] for ornamentation; [[a/_also|also]], the harmony of a figured [[b/_bass|bass]].**
-- **That which [[a/_accompanies|accompanies]]; something that [[a/_attends|attends]] as a [[c/_circumstance|circumstance]], or which is [[a/_added|added]] to give greater [[c/_completeness|completeness]] to the principal thing, or by way of ornament, or for the sake of symmetry.**
+- **A part, usually performed by instruments, that gives support or adds to the background in music, or adds for ornamentation; also, the harmony of a figured bass.**
+- **That which accompanies; something that attends as a circumstance, or which is added to give greater completeness to the principal thing, or by way of ornament, or for the sake of symmetry.**
 ---
 ### Synonyms
-- [[attachment]], [[supplement]]
+- [[[[a/_attachment|attachment]]]], [[supplement]]
 ---

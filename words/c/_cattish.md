@@ -1,10 +1,10 @@
 # Cattish
 ---
 #adjective
-- **[[c/_catlike|Catlike]]; in the manner of a [[c/_cat|cat]]**
+- **Catlike; in the manner of a cat**
 - **Stealthy**
 - **Sly and spiteful; marked by malice**
 ---
 ### Synonyms
-- [[catty]]
+- [[[[c/_catty|catty]]]]
 ---

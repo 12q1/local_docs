@@ -4,5 +4,5 @@
 - **Having two heads.**
 ---
 ### Synonyms
-- [[bicephalic]]
+- [[[[b/_bicephalic|bicephalic]]]]
 ---

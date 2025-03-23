@@ -1,6 +1,6 @@
 # Copywriter
 ---
 #noun
-- **A person who writes [[a/_advertising|advertising]] [[c/_copy|copy]] (the text used in [[a/_advertisements|advertisements]]).**
+- **A person who writes advertising copy (the text used in advertisements).**
 ---
 ---

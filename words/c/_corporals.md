@@ -1,11 +1,11 @@
 # Corporals
 ---
 #noun
-- **A non-[[c/_commissioned|commissioned]] officer [[a/_army|army]] rank with NATO [[c/_code|code]] OR-4. The rank [[b/_below|below]] a sergeant but [[a/_above|above]] a lance [[c/_corporal|corporal]] and private.**
-- **A non-[[c/_commissioned|commissioned]] officer rank in the police force, [[b/_below|below]] a sergeant but [[a/_above|above]] a private or patrolman.**
-- **A worker in [[c/_charge|charge]] of the wagonway, reporting to the [[d/_deputy|deputy]].**
+- **A non-commissioned officer army rank with NATO code OR-4. The rank below a sergeant but above a lance corporal and private.**
+- **A non-commissioned officer rank in the police force, below a sergeant but above a private or patrolman.**
+- **A worker in charge of the wagonway, reporting to the deputy.**
 ---
 #noun
-- **The white linen [[c/_cloth|cloth]] on which the elements of the Eucharist are placed; a [[c/_communion|communion]] [[c/_cloth|cloth]].**
+- **The white linen cloth on which the elements of the Eucharist are placed; a communion cloth.**
 ---
 ---

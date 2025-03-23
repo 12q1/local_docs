@@ -1,6 +1,6 @@
 # Cycloalkane
 ---
 #noun
-- **[[a/_any|Any]] saturated [[a/_alicyclic|alicyclic]] hydrocarbon.**
+- **Any saturated alicyclic hydrocarbon.**
 ---
 ---

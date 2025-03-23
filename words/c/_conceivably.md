@@ -1,6 +1,6 @@
 # Conceivably
 ---
 #adverb
-- **In a [[c/_conceivable|conceivable]] manner; possibly.**
+- **In a conceivable manner; possibly.**
 ---
 ---

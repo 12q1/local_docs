@@ -1,6 +1,6 @@
 # Coatees
 ---
 #noun
-- **A [[c/_coat|coat]] with short flaps.**
+- **A coat with short flaps.**
 ---
 ---

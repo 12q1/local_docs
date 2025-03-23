@@ -1,11 +1,11 @@
 # Dejection
 ---
 #noun
-- **A state of melancholy or [[d/_depression|depression]]; low spirits, the [[b/_blues|blues]].**
-- **The [[a/_act|act]] of humbling or [[a/_abasing|abasing]] oneself.**
-- **A low [[c/_condition|condition]]; weakness; inability.**
-- **[[d/_defecation|Defecation]] or feces.**
+- **A state of melancholy or depression; low spirits, the blues.**
+- **The act of humbling or abasing oneself.**
+- **A low condition; weakness; inability.**
+- **Defecation or feces.**
 ---
 ### Synonyms
-- [[bowel movement]], [[excrement]], [[crestfallenness]], [[despondency]], [[downheartedness]]
+- [[[[b/_bowel|bowel]] movement]], [[excrement]], [[[[c/_crestfallenness|crestfallenness]]]], [[[[d/_despondency|despondency]]]], [[[[d/_downheartedness|downheartedness]]]]
 ---

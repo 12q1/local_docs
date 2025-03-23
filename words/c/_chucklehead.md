@@ -1,7 +1,7 @@
 # Chucklehead
 ---
 #noun
-- **A stupid or [[c/_clumsy|clumsy]] person.**
-- **A [[c/_coastal|coastal]] rockfish of [[c/_california|California]], Sebastes chlorostictus.**
+- **A stupid or clumsy person.**
+- **A coastal rockfish of California, Sebastes chlorostictus.**
 ---
 ---

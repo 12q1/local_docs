@@ -1,6 +1,6 @@
 # Albacore
 ---
 #noun
-- **A large marine fish Thunnus [[a/_alalunga|alalunga]] of warm seas, having edible flesh.**
+- **A large marine fish Thunnus alalunga of warm seas, having edible flesh.**
 ---
 ---

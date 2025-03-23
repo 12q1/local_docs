@@ -1,8 +1,8 @@
 # Adnominal
 ---
 #adjective
-- **(grammar) Of or pertaining to an [[a/_adnoun|adnoun]].**
+- **(grammar) Of or pertaining to an adnoun.**
 ---
 ### Synonyms
-- [[adjectival]], [[adjective]]
+- [[[[a/_adjectival|adjectival]]]], [[[[a/_adjective|adjective]]]]
 ---

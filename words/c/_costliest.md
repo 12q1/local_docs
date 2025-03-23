@@ -1,9 +1,9 @@
 # Costliest
 ---
 #adjective
-- **Of high [[c/_cost|cost]]; expensive.**
+- **Of high cost; expensive.**
 	- _Example: a costly activity_
 ---
 ### Antonyms
-- [[costlessly]]
+- [[[[c/_costlessly|costlessly]]]]
 ---

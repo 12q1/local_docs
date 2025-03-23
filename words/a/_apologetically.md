@@ -1,7 +1,7 @@
 # Apologetically
 ---
 #adverb
-- **In an [[a/_apologetic|apologetic]] manner; by way of [[d/_defense|defense]], [[a/_apology|apology]] or excuse.**
+- **In an apologetic manner; by way of defense, apology or excuse.**
 ---
 ### Synonyms
 - [[apologizingly]]

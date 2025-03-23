@@ -1,12 +1,12 @@
 # Adverts
 ---
 #noun
-- **An [[a/_advertisement|advertisement]], an [[a/_ad|ad]].**
+- **An advertisement, an ad.**
 ---
 #verb
-- **To take notice, to pay [[a/_attention|attention]] (to).**
-- **To turn [[a/_attention|attention]] to, to take notice of (something).**
-- **To [[c/_call|call]] [[a/_attention|attention]], refer (to).**
+- **To take notice, to pay attention (to).**
+- **To turn attention to, to take notice of (something).**
+- **To call attention, refer (to).**
 ---
 ### Synonyms
 - [[refer]]

@@ -2,10 +2,10 @@
 ---
 #adjective
 - **Material; tangible; physical.**
-- **Pertaining to the [[b/_body|body]]; [[b/_bodily|bodily]]; [[c/_corporal|corporal]].**
+- **Pertaining to the body; bodily; corporal.**
 ---
 ### Synonyms
-- [[bodily]], [[corporal]]
+- [[[[b/_bodily|bodily]]]], [[[[c/_corporal|corporal]]]]
 ### Antonyms
 - [[ethereal]], [[incorporeal]], [[insubstantial]], [[intangible]], [[spiritual]]
 ---

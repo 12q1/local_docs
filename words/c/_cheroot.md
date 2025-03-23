@@ -1,6 +1,6 @@
 # Cheroot
 ---
 #noun
-- **A [[c/_cigar|cigar]] with square-[[c/_cut|cut]] ends.**
+- **A cigar with square-cut ends.**
 ---
 ---

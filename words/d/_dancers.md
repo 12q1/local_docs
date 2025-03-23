@@ -1,9 +1,9 @@
 # Dancers
 ---
 #noun
-- **A person who [[d/_dances|dances]], usually as a job or profession.**
+- **A person who dances, usually as a job or profession.**
 - **A stripper.**
 ---
 ### Synonyms
-- [[exotic dancer]], [[stepper]]
+- [[exotic [[d/_dancer|dancer]]]], [[stepper]]
 ---

@@ -6,9 +6,9 @@
 - **A thing; especially a problematic or difficult thing.**
 ---
 ### Synonyms
-- [[bogey]], [[bogie]], [[snot]], [[bugger]]
+- [[[[b/_bogey|bogey]]]], [[[[b/_bogie|bogie]]]], [[snot]], [[[[b/_bugger|bugger]]]]
 #noun
-- **(mildly [[d/_derogatory|derogatory]]) A bodyboarder.**
+- **(mildly derogatory) A bodyboarder.**
 	- _Example: Watch the local boogers charge it!_
 ---
 ---

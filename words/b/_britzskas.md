@@ -1,8 +1,8 @@
 # Britzskas
 ---
 #noun
-- **A type of horse-drawn [[c/_carriage|carriage]], with a foldable roof [[c/_covering|covering]].**
+- **A type of horse-drawn carriage, with a foldable roof covering.**
 ---
 ### Synonyms
-- [[brisky]]
+- [[[[b/_brisky|brisky]]]]
 ---

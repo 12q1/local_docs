@@ -1,9 +1,9 @@
 # Colonnade
 ---
 #noun
-- **A series of [[c/_columns|columns]] at regular intervals.**
+- **A series of columns at regular intervals.**
 - **A peristyle.**
 - **A portico or stoa.**
-- **A regular row of [[a/_anything|anything]], such as trees.**
+- **A regular row of anything, such as trees.**
 ---
 ---

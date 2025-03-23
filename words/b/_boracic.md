@@ -1,9 +1,9 @@
 # Boracic
 ---
 #adjective
-- **Relating to, or impregnated with [[b/_borax|borax]].**
+- **Relating to, or impregnated with borax.**
 ---
 #adjective
-- **Of, pertaining to, or [[c/_containing|containing]] the element [[b/_boron|boron]].**
+- **Of, pertaining to, or containing the element boron.**
 ---
 ---

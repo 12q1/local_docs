@@ -1,7 +1,7 @@
 # Airedale
 ---
 #noun
-- **An [[a/_airedale|Airedale]] terrier.**
-- **A member of [[a/_aviation|aviation]] personnel.**
+- **An Airedale terrier.**
+- **A member of aviation personnel.**
 ---
 ---

@@ -2,11 +2,11 @@
 ---
 #verb
 - **(originally intransitive) To prance, said of mounts**
-- **To move [[a/_about|about]] [[c/_carelessly|carelessly]], playfully or [[b/_boisterously|boisterously]].**
+- **To move about carelessly, playfully or boisterously.**
 ---
 ### Synonyms
-- [[caper]], [[frolic]], [[prance]], [[romp]]
+- [[[[c/_caper|caper]]]], [[frolic]], [[prance]], [[romp]]
 #noun
-- **The [[a/_action|action]] of the verb to [[c/_cavort|cavort]]**
+- **The action of the verb to cavort**
 ---
 ---

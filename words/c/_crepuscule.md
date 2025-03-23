@@ -4,5 +4,5 @@
 - **Twilight.**
 ---
 ### Synonyms
-- [[blue hour]], [[gloaming]]
+- [[[[b/_blue|blue]] hour]], [[gloaming]]
 ---

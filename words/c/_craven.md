@@ -1,12 +1,12 @@
 # Craven
 ---
 #noun
-- **A [[c/_coward|coward]].**
+- **A coward.**
 ---
 #verb
-- **To make [[c/_craven|craven]].**
+- **To make craven.**
 ---
 #adjective
-- **Unwilling to fight; lacking even the rudiments of [[c/_courage|courage]]; extremely [[c/_cowardly|cowardly]].**
+- **Unwilling to fight; lacking even the rudiments of courage; extremely cowardly.**
 ---
 ---

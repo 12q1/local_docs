@@ -1,6 +1,6 @@
 # Ciliates
 ---
 #noun
-- **[[a/_any|Any]] of many protozoa, of the phylum [[c/_ciliophora|Ciliophora]], that have many [[c/_cilia|cilia]].**
+- **Any of many protozoa, of the phylum Ciliophora, that have many cilia.**
 ---
 ---

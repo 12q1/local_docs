@@ -1,20 +1,20 @@
 # Belying
 ---
 #verb
-- **To lie [[a/_around|around]]; encompass.**
-- **(of an [[a/_army|army]]) To surround; [[b/_beleaguer|beleaguer]].**
+- **To lie around; encompass.**
+- **(of an army) To surround; beleaguer.**
 ---
 #verb
-- **To tell lies [[a/_about|about]].**
+- **To tell lies about.**
 - **To give a false representation of.**
-- **To [[c/_contradict|contradict]], to show (something) to be false.**
+- **To contradict, to show (something) to be false.**
 	- _Example: Her obvious nervousness belied what she said._
-- **To [[c/_conceal|conceal]] the [[c/_contradictory|contradictory]] or ironic presence of (something).**
+- **To conceal the contradictory or ironic presence of (something).**
 	- _Example: His calm demeanor belied his inner sense of guilt._
-- **To show, evince, [[d/_demonstrate|demonstrate]]: to show (something) to be present, particularly something [[d/_deemed|deemed]] [[c/_contradictory|contradictory]] or ironic.**
-- **To mimic; to [[c/_counterfeit|counterfeit]].**
+- **To show, evince, demonstrate: to show (something) to be present, particularly something deemed contradictory or ironic.**
+- **To mimic; to counterfeit.**
 - **To fill with lies.**
 ---
 ### Synonyms
-- [[calumniate]], [[slander]], [[contradict]], [[give lie to]], [[give the lie to]], [[misrepresent]]
+- [[[[c/_calumniate|calumniate]]]], [[slander]], [[[[c/_contradict|contradict]]]], [[give lie to]], [[give the lie to]], [[misrepresent]]
 ---

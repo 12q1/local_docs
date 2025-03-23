@@ -1,7 +1,7 @@
 # Brachial
 ---
 #adjective
-- **Pertaining or [[b/_belonging|belonging]] to the [[a/_arm|arm]].**
-- **Of the nature of an [[a/_arm|arm]].**
+- **Pertaining or belonging to the arm.**
+- **Of the nature of an arm.**
 ---
 ---

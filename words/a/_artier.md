@@ -1,8 +1,8 @@
 # Artier
 ---
 #adjective
-- **Pretending to [[a/_artistic|artistic]] worth; high-flown.**
+- **Pretending to artistic worth; high-flown.**
 ---
 ### Synonyms
-- [[artsy]]
+- [[[[a/_artsy|artsy]]]]
 ---

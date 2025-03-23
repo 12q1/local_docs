@@ -1,6 +1,6 @@
 # Bytownite
 ---
 #noun
-- **A plagioclase feldspar, the fifth member of the [[a/_albite|Albite]]-[[a/_anorthite|Anorthite]] solid solution series. [[b/_bytownite|Bytownite]] is rare, and normally occurs in small grains in lime-rich igneous rocks. [[c/_clear|Clear]] pale yellow [[c/_crystals|crystals]] have [[c/_come|come]] from Mexico and Oregon.**
+- **A plagioclase feldspar, the fifth member of the Albite-Anorthite solid solution series. Bytownite is rare, and normally occurs in small grains in lime-rich igneous rocks. Clear pale yellow crystals have come from Mexico and Oregon.**
 ---
 ---

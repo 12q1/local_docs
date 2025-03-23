@@ -2,6 +2,6 @@
 ---
 #verb
 - **To make something unstable.**
-- **To [[b/_become|become]] unstable.**
+- **To become unstable.**
 ---
 ---

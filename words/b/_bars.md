@@ -1,74 +1,74 @@
 # Bars
 ---
 #noun
-- **A solid, more or less rigid object of metal or wood with a uniform [[c/_cross|cross]]-section smaller than its length.**
+- **A solid, more or less rigid object of metal or wood with a uniform cross-section smaller than its length.**
 	- _Example: The window was protected by steel bars._
-- **A solid metal object with uniform (round, square, hexagonal, octagonal or rectangular) [[c/_cross|cross]]-section; in the US its smallest dimension is 1/4 inch or greater, a piece of thinner material [[b/_being|being]] [[c/_called|called]] a strip.**
+- **A solid metal object with uniform (round, square, hexagonal, octagonal or rectangular) cross-section; in the US its smallest dimension is 1/4 inch or greater, a piece of thinner material being called a strip.**
 	- _Example: Ancient Sparta used iron bars instead of handy coins in more valuable alloy, to physically discourage the use of money._
-- **A [[c/_cuboid|cuboid]] piece of [[a/_any|any]] solid [[c/_commodity|commodity]].**
+- **A cuboid piece of any solid commodity.**
 	- _Example: bar of chocolate_
-- **A [[b/_broad|broad]] shaft, or [[b/_band|band]], or stripe.**
+- **A broad shaft, or band, or stripe.**
 	- _Example: a bar of colour_
-- **A long, narrow drawn or printed rectangle, [[c/_cuboid|cuboid]] or [[c/_cylinder|cylinder]], especially as used in a [[b/_bar|bar]] [[c/_code|code]] or a [[b/_bar|bar]] [[c/_chart|chart]].**
-- **[[a/_any|Any]] of various lines used as punctuation or diacritics, such as the pipe ⟨|⟩, fraction [[b/_bar|bar]] (as in 12), and strikethrough (as in Ⱥ), formerly including oblique marks such as the slash.**
-- **The sign indicating that the [[c/_characteristic|characteristic]] of a logarithm is negative, [[c/_conventionally|conventionally]] placed [[a/_above|above]] the digit(s) to show that it [[a/_applies|applies]] to the [[c/_characteristic|characteristic]] only and not to the mantissa.**
-- **A similar sign indicating that the [[c/_charge|charge]] on a particle is negative (and that [[c/_consequently|consequently]] the particle is in fact an [[a/_antiparticle|antiparticle]]).**
-- **A [[b/_business|business]] licensed to sell [[a/_alcoholic|alcoholic]] drinks for [[c/_consumption|consumption]] on the premises, or the premises themselves; public house.**
+- **A long, narrow drawn or printed rectangle, cuboid or cylinder, especially as used in a bar code or a bar chart.**
+- **Any of various lines used as punctuation or diacritics, such as the pipe ⟨|⟩, fraction bar (as in 12), and strikethrough (as in Ⱥ), formerly including oblique marks such as the slash.**
+- **The sign indicating that the characteristic of a logarithm is negative, conventionally placed above the digit(s) to show that it applies to the characteristic only and not to the mantissa.**
+- **A similar sign indicating that the charge on a particle is negative (and that consequently the particle is in fact an antiparticle).**
+- **A business licensed to sell alcoholic drinks for consumption on the premises, or the premises themselves; public house.**
 	- _Example: The street was lined with all-night bars._
-- **The [[c/_counter|counter]] of such premises.**
+- **The counter of such premises.**
 	- _Example: Step up to the bar and order a drink._
-- **A [[c/_counter|counter]], or simply a [[c/_cabinet|cabinet]], from which [[a/_alcoholic|alcoholic]] drinks are served in a private house or a hotel room.**
-- **(by extension, in [[c/_combinations|combinations]] such as [[c/_coffee|coffee]] [[b/_bar|bar]], juice [[b/_bar|bar]] etc.) Premises or a [[c/_counter|counter]] serving [[a/_any|any]] type of [[b/_beverage|beverage]].**
-- **An establishment where [[a/_alcohol|alcohol]] and sometimes other refreshments are served.**
-- **An informal establishment selling food to be [[c/_consumed|consumed]] on the premises.**
+- **A counter, or simply a cabinet, from which alcoholic drinks are served in a private house or a hotel room.**
+- **(by extension, in combinations such as coffee bar, juice bar etc.) Premises or a counter serving any type of beverage.**
+- **An establishment where alcohol and sometimes other refreshments are served.**
+- **An informal establishment selling food to be consumed on the premises.**
 	- _Example: a burger bar_
-- **An establishment offering [[c/_cosmetic|cosmetic]] services.**
+- **An establishment offering cosmetic services.**
 	- _Example: a nail bar; a brow bar_
-- **An official order or pronouncement that prohibits some [[a/_activity|activity]].**
+- **An official order or pronouncement that prohibits some activity.**
 	- _Example: The club has lifted its bar on women members._
-- **[[a/_anything|Anything]] that obstructs, hinders, or prevents; an obstruction; a [[b/_barrier|barrier]].**
-- **(whimsical, [[d/_derived|derived]] from fubar) A metasyntactic variable representing an unspecified entity, often the second in a series, following foo.**
+- **Anything that obstructs, hinders, or prevents; an obstruction; a barrier.**
+- **(whimsical, derived from fubar) A metasyntactic variable representing an unspecified entity, often the second in a series, following foo.**
 	- _Example: Suppose we have two objects, foo and bar._
-- **(Parliament) A dividing line (physical or notional) in the [[c/_chamber|chamber]] of a legislature [[b/_beyond|beyond]] which only members and officials may pass.**
-- **The railing surrounding the part of a [[c/_courtroom|courtroom]] in which the judges, lawyers, [[d/_defendants|defendants]] and witnesses stay**
-- **"the [[b/_bar|Bar]]" or "the [[b/_bar|bar]]" The [[b/_bar|bar]] exam, the legal licensing exam.**
+- **(Parliament) A dividing line (physical or notional) in the chamber of a legislature beyond which only members and officials may pass.**
+- **The railing surrounding the part of a courtroom in which the judges, lawyers, defendants and witnesses stay**
+- **"the Bar" or "the bar" The bar exam, the legal licensing exam.**
 	- _Example: He's studying hard to pass the Bar this time; he's failed it twice before._
-- **(metonym, "the [[b/_bar|Bar]]", "the [[b/_bar|bar]]") [[c/_collectively|Collectively]], lawyers or the legal profession; specifically [[a/_applied|applied]] to [[b/_barristers|barristers]] in some [[c/_countries|countries]] but including [[a/_all|all]] lawyers in others.**
+- **(metonym, "the Bar", "the bar") Collectively, lawyers or the legal profession; specifically applied to barristers in some countries but including all lawyers in others.**
 	- _Example: He was called to the bar, he became a barrister._
-- **One of an [[a/_array|array]] of [[b/_bar|bar]]-shaped symbols that display the level of something, such as wireless signal strength or [[b/_battery|battery]] life remaining.**
+- **One of an array of bar-shaped symbols that display the level of something, such as wireless signal strength or battery life remaining.**
 	- _Example: I don't have any bars in the middle of this desert._
-- **A vertical line [[a/_across|across]] a musical staff dividing written music into sections, typically of equal durational value.**
+- **A vertical line across a musical staff dividing written music into sections, typically of equal durational value.**
 - **One of those musical sections.**
-- **A horizontal pole that must be [[c/_crossed|crossed]] in high jump and pole vault**
-- **[[a/_any|Any]] level of [[a/_achievement|achievement]] regarded as a [[c/_challenge|challenge]] to be overcome.**
-- **(most [[c/_codes|codes]]) The [[c/_crossbar|crossbar]].**
-- **The [[c/_central|central]] divider [[b/_between|between]] the inner and outer table of a [[b/_backgammon|backgammon]] [[b/_board|board]], where stones are placed if they are hit.**
-- **An [[a/_addition|addition]] to a military medal, on [[a/_account|account]] of a subsequent [[a/_act|act]]**
-- **A linear shoaling landform feature within a [[b/_body|body]] of water.**
-- **A ridge or succession of ridges of sand or other substance, especially a formation extending [[a/_across|across]] the mouth of a river or harbor or off a [[b/_beach|beach]], and which may obstruct navigation. (FM 55-501).**
+- **A horizontal pole that must be crossed in high jump and pole vault**
+- **Any level of achievement regarded as a challenge to be overcome.**
+- **(most codes) The crossbar.**
+- **The central divider between the inner and outer table of a backgammon board, where stones are placed if they are hit.**
+- **An addition to a military medal, on account of a subsequent act**
+- **A linear shoaling landform feature within a body of water.**
+- **A ridge or succession of ridges of sand or other substance, especially a formation extending across the mouth of a river or harbor or off a beach, and which may obstruct navigation. (FM 55-501).**
 - **One of the ordinaries in heraldry; a fess.**
-- **A [[c/_city|city]] gate, in some [[b/_british|British]] place names.**
+- **A city gate, in some British place names.**
 	- _Example: Potter's Bar_
 - **A drilling or tamping rod.**
-- **A vein or dike [[c/_crossing|crossing]] a lode.**
-- **A gatehouse of a [[c/_castle|castle]] or fortified town.**
-- **The part of the [[c/_crust|crust]] of a horse's hoof which is [[b/_bent|bent]] inwards towards the frog at the heel on each side, and extends into the [[c/_centre|centre]] of the sole.**
-- **(in the plural) The space [[b/_between|between]] the tusks and grinders in the upper jaw of a horse, in which the [[b/_bit|bit]] is placed.**
+- **A vein or dike crossing a lode.**
+- **A gatehouse of a castle or fortified town.**
+- **The part of the crust of a horse's hoof which is bent inwards towards the frog at the heel on each side, and extends into the centre of the sole.**
+- **(in the plural) The space between the tusks and grinders in the upper jaw of a horse, in which the bit is placed.**
 ---
 ### Synonyms
-- [[ban]], [[prohibition]], [[barroom]], [[ginshop]], [[pub]], [[public house]], [[tavern]], [[measure]]
+- [[[[b/_ban|ban]]]], [[prohibition]], [[[[b/_barroom|barroom]]]], [[ginshop]], [[pub]], [[public house]], [[tavern]], [[measure]]
 #verb
 - **To obstruct the passage of (someone or something).**
 	- _Example: Our way was barred by a huge rockfall._
 - **To prohibit.**
 	- _Example: I couldn't get into the nightclub because I had been barred._
-- **To lock or [[b/_bolt|bolt]] with a [[b/_bar|bar]].**
+- **To lock or bolt with a bar.**
 	- _Example: bar the door_
-- **To imprint or paint with [[b/_bars|bars]], to stripe.**
+- **To imprint or paint with bars, to stripe.**
 ---
 ### Synonyms
-- [[block]], [[hinder]], [[obstruct]], [[ban]], [[interdict]], [[prohibit]]
+- [[[[b/_block|block]]]], [[hinder]], [[obstruct]], [[[[b/_ban|ban]]]], [[interdict]], [[prohibit]]
 #noun
-- **A non-SI unit of pressure equal to 100,000 pascals, [[a/_approximately|approximately]] equal to [[a/_atmospheric|atmospheric]] pressure at sea level.**
+- **A non-SI unit of pressure equal to 100,000 pascals, approximately equal to atmospheric pressure at sea level.**
 ---
 ---

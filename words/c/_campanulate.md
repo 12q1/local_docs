@@ -1,8 +1,8 @@
 # Campanulate
 ---
 #adjective
-- **Shaped like a [[b/_bell|bell]].**
+- **Shaped like a bell.**
 ---
 ### Synonyms
-- [[bell-shaped]]
+- [[[[b/_bell|bell]]-shaped]]
 ---

@@ -1,8 +1,8 @@
 # Collaboratively
 ---
 #adverb
-- **[[c/_characterized|Characterized]] or done by [[c/_collaboration|collaboration]].**
+- **Characterized or done by collaboration.**
 ---
 ### Synonyms
-- [[collectively]], [[jointly]], [[together]]
+- [[[[c/_collectively|collectively]]]], [[jointly]], [[together]]
 ---

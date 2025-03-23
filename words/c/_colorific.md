@@ -1,8 +1,8 @@
 # Colorific
 ---
 #adjective
-- **That produces [[c/_coloured|coloured]] precipitates**
-- **[[c/_colourful|Colourful]]**
+- **That produces coloured precipitates**
+- **Colourful**
 - **Flowery; ornate**
 ---
 ### Synonyms

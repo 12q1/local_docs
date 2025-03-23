@@ -2,8 +2,8 @@
 ---
 #noun
 - **A small European plum (Prunus domestica subsp. insititia).**
-- **The [[b/_bully|bully]] tree.**
+- **The bully tree.**
 ---
 ### Synonyms
-- [[damson]]
+- [[[[d/_damson|damson]]]]
 ---

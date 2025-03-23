@@ -1,10 +1,10 @@
 # Crestfallen
 ---
 #adjective
-- **Sad [[b/_because|because]] of a recent disappointment.**
-- **[[d/_depressed|Depressed]].**
-- **(of a horse) Having the [[c/_crest|crest]], or upper part of the neck, hanging to one side.**
+- **Sad because of a recent disappointment.**
+- **Depressed.**
+- **(of a horse) Having the crest, or upper part of the neck, hanging to one side.**
 ---
 ### Synonyms
-- [[blue]], [[dejected]], [[depressed]], [[despondent]], [[down in the dumps]], [[downcast]], [[sorrowful]], [[disappointed]], [[disillusioned]]
+- [[[[b/_blue|blue]]]], [[[[d/_dejected|dejected]]]], [[[[d/_depressed|depressed]]]], [[[[d/_despondent|despondent]]]], [[[[d/_down|down]] in the [[d/_dumps|dumps]]]], [[[[d/_downcast|downcast]]]], [[sorrowful]], [[[[d/_disappointed|disappointed]]]], [[[[d/_disillusioned|disillusioned]]]]
 ---

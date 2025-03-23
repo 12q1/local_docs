@@ -1,0 +1,6 @@
+# Diamantine
+---
+#adjective
+- **Adamantine**
+---
+---

@@ -1,13 +1,13 @@
 # Corrigible
 ---
 #adjective
-- **[[a/_able|Able]] to be [[c/_corrected|corrected]] or set right.**
-- **Submissive to [[c/_correction|correction]]**
-- **[[d/_deserving|Deserving]] [[c/_chastisement|chastisement]].**
-- **Having power to [[c/_correct|correct]].**
+- **Able to be corrected or set right.**
+- **Submissive to correction**
+- **Deserving chastisement.**
+- **Having power to correct.**
 ---
 ### Synonyms
-- [[correctable]], [[corrective]], [[docile]], [[punishable]]
+- [[[[c/_correctable|correctable]]]], [[[[c/_corrective|corrective]]]], [[[[d/_docile|docile]]]], [[punishable]]
 ### Antonyms
 - [[incorrigible]]
 ---

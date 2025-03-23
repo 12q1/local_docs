@@ -1,8 +1,8 @@
 # Deodar
 ---
 #noun
-- **[[c/_cedrus|Cedrus]] [[d/_deodara|deodara]], a type of [[c/_cedar|cedar]] tree native to the western Himalayas.**
+- **Cedrus deodara, a type of cedar tree native to the western Himalayas.**
 ---
 ### Synonyms
-- [[deodar cedar]]
+- [[[[d/_deodar|deodar]] [[c/_cedar|cedar]]]]
 ---

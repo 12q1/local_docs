@@ -1,14 +1,14 @@
 # Burbling
 ---
 #verb
-- **To [[b/_bubble|bubble]]; to gurgle.**
-- **To [[b/_babble|babble]]; to speak in an excited rush.**
+- **To bubble; to gurgle.**
+- **To babble; to speak in an excited rush.**
 	- _Example: She burbled on, as if I cared to listen._
 ---
 #verb
-- **To trouble or [[c/_confuse|confuse]].**
+- **To trouble or confuse.**
 ---
 #noun
-- **A [[b/_burble|burble]], the sounds of a [[b/_burble|burble]].**
+- **A burble, the sounds of a burble.**
 ---
 ---

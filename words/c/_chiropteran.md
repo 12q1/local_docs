@@ -1,8 +1,8 @@
 # Chiropteran
 ---
 #noun
-- **[[a/_any|Any]] mammal, of the order [[c/_chiroptera|Chiroptera]], that has forelimbs modified to form wings**
+- **Any mammal, of the order Chiroptera, that has forelimbs modified to form wings**
 ---
 ### Synonyms
-- [[bat]]
+- [[[[b/_bat|bat]]]]
 ---

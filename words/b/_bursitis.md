@@ -1,6 +1,6 @@
 # Bursitis
 ---
 #noun
-- **An inflammation of a [[b/_bursa|bursa]], most [[c/_common|common]] in the shoulder, elbow or knee**
+- **An inflammation of a bursa, most common in the shoulder, elbow or knee**
 ---
 ---

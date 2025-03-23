@@ -1,7 +1,7 @@
 # Boobook
 ---
 #noun
-- **[[a/_any|Any]] of various owls of [[a/_asia|Asia]] and Australasia of the genus Ninox.**
+- **Any of various owls of Asia and Australasia of the genus Ninox.**
 ---
 ### Synonyms
 - [[hawk owl]]

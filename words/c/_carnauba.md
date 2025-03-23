@@ -1,9 +1,9 @@
 # Carnauba
 ---
 #noun
-- **A [[b/_brazilian|Brazilian]] palm tree having waxy, fan-shaped leaves and toothed leafstalks, [[c/_copernicia|Copernicia]] prunifera.**
+- **A Brazilian palm tree having waxy, fan-shaped leaves and toothed leafstalks, Copernicia prunifera.**
 - **The hard wax obtained from the leaves of this plant and used especially in polishes.**
 ---
 ### Synonyms
-- [[carnauba wax]]
+- [[[[c/_carnauba|carnauba]] wax]]
 ---

@@ -1,7 +1,7 @@
 # Backie
 ---
 #noun
-- **A ride on the [[b/_back|back]] of a [[b/_bicycle|bicycle]] or motorbike.**
+- **A ride on the back of a bicycle or motorbike.**
 ---
 ### Synonyms
 - [[seatie]]

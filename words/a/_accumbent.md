@@ -1,10 +1,10 @@
 # Accumbent
 ---
 #noun
-- **One who rests in an [[a/_accumbent|accumbent]] position, especially at table.**
+- **One who rests in an accumbent position, especially at table.**
 ---
 #adjective
-- **Leaning or reclining, as the [[a/_ancients|ancients]] did at their meals.**
-- **Lying [[a/_against|against]] [[a/_anything|anything]], as one part of a leaf [[a/_against|against]] [[a/_another|another]] leaf**
+- **Leaning or reclining, as the ancients did at their meals.**
+- **Lying against anything, as one part of a leaf against another leaf**
 ---
 ---

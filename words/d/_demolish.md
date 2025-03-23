@@ -1,8 +1,8 @@
 # Demolish
 ---
 #verb
-- **To [[d/_destroy|destroy]].**
+- **To destroy.**
 	- _Example: They demolished the old mill and put up four townhouses._
-- **To [[d/_defeat|defeat]] or [[c/_consume|consume]] utterly (as a theory, [[b/_belief|belief]] or opponent).**
+- **To defeat or consume utterly (as a theory, belief or opponent).**
 ---
 ---

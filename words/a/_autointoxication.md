@@ -1,8 +1,8 @@
 # Autointoxication
 ---
 #noun
-- **Poisoning due to the faulty [[a/_absorption|absorption]] of the waste products of metabolism or of the products of [[d/_decomposition|decomposition]] within the intestines.**
+- **Poisoning due to the faulty absorption of the waste products of metabolism or of the products of decomposition within the intestines.**
 ---
 ### Synonyms
-- [[autotoxication]], [[autotoxicosis]]
+- [[[[a/_autotoxication|autotoxication]]]], [[[[a/_autotoxicosis|autotoxicosis]]]]
 ---

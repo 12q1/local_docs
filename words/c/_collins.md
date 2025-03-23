@@ -1,8 +1,8 @@
 # Collins
 ---
 #noun
-- **[[a/_any|Any]] of various [[a/_alcoholic|alcoholic]] drinks made with lemon juice, sugar, and [[c/_carbonated|carbonated]] water.**
+- **Any of various alcoholic drinks made with lemon juice, sugar, and carbonated water.**
 ---
 ### Synonyms
-- [[Collins]], [[Tom Collins]]
+- [[[[c/_collins|Collins]]]], [[Tom [[c/_collins|Collins]]]]
 ---

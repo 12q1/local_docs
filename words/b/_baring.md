@@ -5,10 +5,10 @@
 	- _Example: She bared her teeth at him._
 ---
 ### Synonyms
-- [[expose]], [[lay bare]], [[reveal]], [[show]], [[uncover]]
+- [[expose]], [[lay [[b/_bare|bare]]]], [[reveal]], [[show]], [[uncover]]
 ### Antonyms
-- [[cover]], [[cover up]], [[hide]]
+- [[[[c/_cover|cover]]]], [[[[c/_cover|cover]] up]], [[hide]]
 #noun
-- **The [[a/_act|act]] by which something is laid [[b/_bare|bare]].**
+- **The act by which something is laid bare.**
 ---
 ---

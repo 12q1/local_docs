@@ -1,7 +1,7 @@
 # Anthurium
 ---
 #noun
-- **[[a/_any|Any]] of several tropical [[a/_american|American]] evergreen plants, of the genus [[a/_anthurium|Anthurium]], grown for their ornamental leaves and spathes**
+- **Any of several tropical American evergreen plants, of the genus Anthurium, grown for their ornamental leaves and spathes**
 ---
 ### Synonyms
 - [[flamingo flower]], [[pigtail]], [[tailflower]]

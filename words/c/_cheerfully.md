@@ -1,6 +1,6 @@
 # Cheerfully
 ---
 #adverb
-- **In a [[c/_cheerful|cheerful]] manner.**
+- **In a cheerful manner.**
 ---
 ---

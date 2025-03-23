@@ -1,9 +1,9 @@
 # Antiscorbutic
 ---
 #noun
-- **A medicine that prevents or [[c/_cures|cures]] scurvy.**
+- **A medicine that prevents or cures scurvy.**
 ---
 #adjective
-- **(pharmaceutical effect) preventing or [[c/_curing|curing]] scurvy**
+- **(pharmaceutical effect) preventing or curing scurvy**
 ---
 ---

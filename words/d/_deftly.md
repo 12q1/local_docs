@@ -1,7 +1,7 @@
 # Deftly
 ---
 #adverb
-- **In a [[d/_deft|deft]] manner; quickly and neatly in [[a/_action|action]].**
+- **In a deft manner; quickly and neatly in action.**
 ---
 ### Synonyms
 - [[skillfully]]

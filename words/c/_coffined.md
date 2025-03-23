@@ -1,7 +1,7 @@
 # Coffined
 ---
 #verb
-- **To place in a [[c/_coffin|coffin]].**
+- **To place in a coffin.**
 ---
 ### Synonyms
 - [[encoffin]]

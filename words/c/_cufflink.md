@@ -1,9 +1,9 @@
 # Cufflink
 ---
 #noun
-- **A [[b/_button|button]] or stud used to hold a sleeve [[c/_cuff|cuff]] together.**
+- **A button or stud used to hold a sleeve cuff together.**
 	- _Example: Every gentleman needs at least one pair of cufflinks._
 ---
 ### Synonyms
-- [[sleeve-button]], [[sleeve-link]]
+- [[sleeve-[[b/_button|button]]]], [[sleeve-link]]
 ---

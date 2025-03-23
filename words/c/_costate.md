@@ -1,7 +1,7 @@
 # Costate
 ---
 #adjective
-- **Having ribs, or the [[a/_appearance|appearance]] of ribs**
+- **Having ribs, or the appearance of ribs**
 - **Having one or more longitudinal ribs**
 ---
 ---

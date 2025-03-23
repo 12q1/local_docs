@@ -1,36 +1,36 @@
 # Covering
 ---
 #verb
-- **To place something over or upon, as to [[c/_conceal|conceal]] or protect.**
+- **To place something over or upon, as to conceal or protect.**
 	- _Example: He covered the baby with a blanket._
-- **To be over or upon, as to [[c/_conceal|conceal]] or protect.**
+- **To be over or upon, as to conceal or protect.**
 	- _Example: The blanket covered the baby._
-- **To be upon [[a/_all|all]] of, so as to [[c/_completely|completely]] [[c/_conceal|conceal]].**
+- **To be upon all of, so as to completely conceal.**
 	- _Example: Regular hexagons can cover the plane._
-- **To set upon [[a/_all|all]] of, so as to [[c/_completely|completely]] [[c/_conceal|conceal]].**
+- **To set upon all of, so as to completely conceal.**
 	- _Example: You can cover the plane with regular hexagons._
 - **To put on one's hat.**
-- **To invest (oneself with something); to [[b/_bring|bring]] upon (oneself).**
+- **To invest (oneself with something); to bring upon (oneself).**
 	- _Example: The heroic soldier covered himself with glory._
-- **(of a publication) To discuss thoroughly; to provide [[c/_coverage|coverage]] of.**
+- **(of a publication) To discuss thoroughly; to provide coverage of.**
 	- _Example: The magazine covers such diverse topics as politics, news from the world of science, and the economy._
-- **To [[d/_deal|deal]] with or include someone or something.**
+- **To deal with or include someone or something.**
 - **To be enough money for.**
 	- _Example: Ten dollars should cover lunch._
-- **To [[a/_act|act]] as a replacement.**
+- **To act as a replacement.**
 	- _Example: I need to take off Tuesday. Can you cover for me?_
-- **To have as an [[a/_assignment|assignment]] or responsibility.**
+- **To have as an assignment or responsibility.**
 	- _Example: Can you cover the morning shift tomorrow? I'll give you off next Monday instead._
-- **To make a [[c/_cover|cover]] version of (a song that was originally recorded by [[a/_another|another]] [[a/_artist|artist]]).**
-- **(law enforcement) To protect using an [[a/_aimed|aimed]] firearm and the threat of firing; or to protect using [[c/_continuous|continuous]], heaving fire at or in the direction of the enemy so as to force the enemy to remain in [[c/_cover|cover]]; or to threaten using an [[a/_aimed|aimed]] firearm.**
-- **To provide insurance [[c/_coverage|coverage]] for.**
+- **To make a cover version of (a song that was originally recorded by another artist).**
+- **(law enforcement) To protect using an aimed firearm and the threat of firing; or to protect using continuous, heaving fire at or in the direction of the enemy so as to force the enemy to remain in cover; or to threaten using an aimed firearm.**
+- **To provide insurance coverage for.**
 	- _Example: Does my policy cover accidental loss?_
-- **To [[c/_copulate|copulate]] with (said of [[c/_certain|certain]] male [[a/_animals|animals]] such as dogs and horses).**
+- **To copulate with (said of certain male animals such as dogs and horses).**
 	- _Example: I would like to have my bitch covered next spring._
-- **To protect or [[c/_control|control]] (a piece or square).**
+- **To protect or control (a piece or square).**
 	- _Example: In order to checkmate a king on the side of the board, the five squares adjacent to the king must all be covered._
-- **To extend over a given period of time or range, to occupy, to stretch over a given [[a/_area|area]].**
-- **To [[d/_defend|defend]] a particular player or [[a/_area|area]].**
+- **To extend over a given period of time or range, to occupy, to stretch over a given area.**
+- **To defend a particular player or area.**
 ---
 ### Synonyms
 - [[impregnate]]

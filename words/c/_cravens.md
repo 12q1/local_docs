@@ -1,9 +1,9 @@
 # Cravens
 ---
 #noun
-- **A [[c/_coward|coward]].**
+- **A coward.**
 ---
 #verb
-- **To make [[c/_craven|craven]].**
+- **To make craven.**
 ---
 ---

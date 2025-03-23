@@ -1,8 +1,8 @@
 # Catabolize
 ---
 #verb
-- **To undergo [[c/_catabolism|catabolism]].**
-- **To [[c/_cause|cause]] (a substance) to undergo [[c/_catabolism|catabolism]].**
-- **To produce (a substance) by [[c/_catabolism|catabolism]].**
+- **To undergo catabolism.**
+- **To cause (a substance) to undergo catabolism.**
+- **To produce (a substance) by catabolism.**
 ---
 ---

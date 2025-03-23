@@ -1,6 +1,6 @@
 # Cragged
 ---
 #adjective
-- **Having [[c/_crags|crags]]**
+- **Having crags**
 ---
 ---

@@ -1,13 +1,13 @@
 # Declaratives
 ---
 #noun
-- **A written or oral indication of a fact, opinion, or [[b/_belief|belief]].**
-- **A list of items for various legal purposes, e.g. [[c/_customs|customs]] [[d/_declaration|declaration]].**
-- **The [[a/_act|act]] or process of [[d/_declaring|declaring]].**
-- **The [[a/_act|act]], by the [[c/_captain|captain]] of a [[b/_batting|batting]] side, of [[d/_declaring|declaring]] an innings [[c/_closed|closed]].**
-- **In [[c/_common|common]] law, the formal document specifying plaintiff's [[c/_cause|cause]] of [[a/_action|action]], including the facts necessary to sustain a proper [[c/_cause|cause]] of [[a/_action|action]], and to [[a/_advise|advise]] the [[d/_defendant|defendant]] of the grounds upon which he is [[b/_being|being]] sued.**
-- **The specification of an object, such as a variable or function, establishing its existence but not necessarily [[d/_describing|describing]] its [[c/_contents|contents]].**
+- **A written or oral indication of a fact, opinion, or belief.**
+- **A list of items for various legal purposes, e.g. customs declaration.**
+- **The act or process of declaring.**
+- **The act, by the captain of a batting side, of declaring an innings closed.**
+- **In common law, the formal document specifying plaintiff's cause of action, including the facts necessary to sustain a proper cause of action, and to advise the defendant of the grounds upon which he is being sued.**
+- **The specification of an object, such as a variable or function, establishing its existence but not necessarily describing its contents.**
 ---
 ### Synonyms
-- [[notice]], [[notice]], [[statement]], [[avowal]], [[notice]], [[statement]]
+- [[notice]], [[notice]], [[statement]], [[[[a/_avowal|avowal]]]], [[notice]], [[statement]]
 ---

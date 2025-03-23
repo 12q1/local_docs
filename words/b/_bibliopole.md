@@ -1,8 +1,8 @@
 # Bibliopole
 ---
 #noun
-- **A [[b/_bookseller|bookseller]], especially of secondhand or rare [[b/_books|books]]**
+- **A bookseller, especially of secondhand or rare books**
 ---
 ### Synonyms
-- [[bibliopolist]]
+- [[[[b/_bibliopolist|bibliopolist]]]]
 ---

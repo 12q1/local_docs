@@ -1,6 +1,6 @@
 # Coevolve
 ---
 #verb
-- **To evolve, [[a/_along|along]] with [[a/_another|another]] organism, via [[c/_coevolution|coevolution]].**
+- **To evolve, along with another organism, via coevolution.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Bonhomie
 ---
 #noun
-- **A pleasant, friendly, good-natured manner; an [[a/_affable|affable]] and [[a/_approachable|approachable]] disposition; good-heartedness.**
-- **Friendly [[a/_atmosphere|atmosphere]]; an [[a/_atmosphere|atmosphere]] of good [[c/_cheer|cheer]].**
-- **A [[c/_cheerful|cheerful]] remark.**
+- **A pleasant, friendly, good-natured manner; an affable and approachable disposition; good-heartedness.**
+- **Friendly atmosphere; an atmosphere of good cheer.**
+- **A cheerful remark.**
 ---
 ### Synonyms
-- [[affability]], [[friendliness]], [[geniality]], [[conviviality]], [[warmth]]
+- [[[[a/_affability|affability]]]], [[friendliness]], [[geniality]], [[[[c/_conviviality|conviviality]]]], [[warmth]]
 ---

@@ -1,7 +1,7 @@
 # Decorators
 ---
 #noun
-- **Someone who [[d/_decorates|decorates]].**
-- **Painter and wallpaperer of [[b/_buildings|buildings]]**
+- **Someone who decorates.**
+- **Painter and wallpaperer of buildings**
 ---
 ---

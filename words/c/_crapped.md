@@ -1,13 +1,13 @@
 # Crapped
 ---
 #verb
-- **To [[d/_defecate|defecate]].**
+- **To defecate.**
 	- _Example: That soup tasted funny, and now I need to crap._
-- **To [[d/_defecate|defecate]] in or on ([[c/_clothing|clothing]] etc.).**
+- **To defecate in or on (clothing etc.).**
 	- _Example: He almost crapped his pants from fright._
-- **To [[b/_bullshit|bullshit]].**
+- **To bullshit.**
 	- _Example: Don't try to crap me, I know you're lying._
 ---
 ### Synonyms
-- [[bullshit]]
+- [[[[b/_bullshit|bullshit]]]]
 ---

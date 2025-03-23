@@ -1,7 +1,7 @@
 # Comfortably
 ---
 #adverb
-- **In a [[c/_comfortable|comfortable]] manner.**
+- **In a comfortable manner.**
 	- _Example: I snuggled comfortably into the blankets._
 - **Easily; without effort or difficulty.**
 ---

@@ -1,7 +1,7 @@
 # Buzzier
 ---
 #adjective
-- **Having a [[b/_buzzing|buzzing]] sound.**
-- **[[b/_being|Being]] the subject of [[c/_cultural|cultural]] [[b/_buzz|buzz]].**
+- **Having a buzzing sound.**
+- **Being the subject of cultural buzz.**
 ---
 ---

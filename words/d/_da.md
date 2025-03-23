@@ -4,5 +4,5 @@
 - **Father.**
 ---
 ### Synonyms
-- [[Pa]], [[pa]], [[daddy]]
+- [[Pa]], [[pa]], [[[[d/_daddy|daddy]]]]
 ---

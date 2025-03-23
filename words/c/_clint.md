@@ -1,6 +1,6 @@
 # Clint
 ---
 #noun
-- **The relatively flat part of a limestone pavement [[b/_between|between]] the grikes**
+- **The relatively flat part of a limestone pavement between the grikes**
 ---
 ---

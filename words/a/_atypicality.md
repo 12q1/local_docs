@@ -1,8 +1,8 @@
 # Atypicality
 ---
 #noun
-- **The [[c/_condition|condition]] of [[b/_being|being]] [[a/_atypical|atypical]]**
+- **The condition of being atypical**
 ---
 ### Synonyms
-- [[abnormality]], [[unusualness]], [[weirdness]]
+- [[[[a/_abnormality|abnormality]]]], [[unusualness]], [[weirdness]]
 ---

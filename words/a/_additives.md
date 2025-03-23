@@ -1,8 +1,8 @@
 # Additives
 ---
 #noun
-- **A substance [[a/_added|added]] to [[a/_another|another]] substance or product to produce specific properties in the [[c/_combined|combined]] substance.**
+- **A substance added to another substance or product to produce specific properties in the combined substance.**
 	- _Example: Oil may be used as an additive in gasoline to improve the lubrication of a small engine._
-- **(grammar) A word or phrase that [[a/_adds|adds]] something, such as [[a/_also|also]], even, or nor.**
+- **(grammar) A word or phrase that adds something, such as also, even, or nor.**
 ---
 ---

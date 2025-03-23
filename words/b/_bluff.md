@@ -1,20 +1,20 @@
 # Bluff
 ---
 #noun
-- **An [[a/_act|act]] of [[b/_bluffing|bluffing]]; a false expression of the strength of one's position in order to intimidate; [[b/_braggadocio|braggadocio]].**
+- **An act of bluffing; a false expression of the strength of one's position in order to intimidate; braggadocio.**
 	- _Example: That is only bluff, or a bluff._
-- **An [[a/_attempt|attempt]] to represent oneself as holding a stronger hand than one [[a/_actually|actually]] does.**
+- **An attempt to represent oneself as holding a stronger hand than one actually does.**
 	- _Example: John's bet was a bluff: he bet without even so much as a pair._
-- **The [[c/_card|card]] game poker.**
-- **One who [[b/_bluffs|bluffs]]; a [[b/_bluffer|bluffer]].**
+- **The card game poker.**
+- **One who bluffs; a bluffer.**
 - **An excuse.**
 ---
 #verb
-- **To make a [[b/_bluff|bluff]]; to give the impression that one's hand is stronger than it is.**
+- **To make a bluff; to give the impression that one's hand is stronger than it is.**
 	- _Example: John bluffed by betting without even a pair._
-- **(by [[a/_analogy|analogy]]) To frighten or [[d/_deter|deter]] with a false show of strength or [[c/_confidence|confidence]]; to give a false impression of strength or temerity in order to intimidate and gain some [[a/_advantage|advantage]].**
+- **(by analogy) To frighten or deter with a false show of strength or confidence; to give a false impression of strength or temerity in order to intimidate and gain some advantage.**
 	- _Example: The government claims it will call an election if this bill does not pass. Is it truly ready to do so, or is it bluffing?_
-- **To take [[a/_advantage|advantage]] by [[b/_bluffing|bluffing]].**
+- **To take advantage by bluffing.**
 	- _Example: We bluffed our way past the guards._
 ---
 ---

@@ -1,26 +1,26 @@
 # Crusts
 ---
 #noun
-- **A more solid, [[d/_dense|dense]] or hard layer on a surface or [[b/_boundary|boundary]].**
-- **The external, hardened layer of [[c/_certain|certain]] foodstuffs, including most types of [[b/_bread|bread]], fried meat, etc.**
-- **An outer layer [[c/_composed|composed]] of pastry**
-- **The [[b/_bread|bread]]-like [[b/_base|base]] of a pizza.**
+- **A more solid, dense or hard layer on a surface or boundary.**
+- **The external, hardened layer of certain foodstuffs, including most types of bread, fried meat, etc.**
+- **An outer layer composed of pastry**
+- **The bread-like base of a pizza.**
 - **The outermost layer of the lithosphere of the Earth.**
-- **The shell of [[c/_crabs|crabs]], lobsters, etc.**
+- **The shell of crabs, lobsters, etc.**
 - **Nerve, gall.**
 	- _Example: You've got a lot of crust standing there saying that._
 - **A living.**
 	- _Example: to earn one's crust_
 ---
 ### Synonyms
-- [[daily bread]], [[income]], [[livelihood]]
+- [[[[d/_daily|daily]] [[b/_bread|bread]]]], [[income]], [[livelihood]]
 #verb
-- **To [[c/_cover|cover]] with a [[c/_crust|crust]].**
-- **To form a [[c/_crust|crust]].**
+- **To cover with a crust.**
+- **To form a crust.**
 ---
 #noun
-- **A subgenre of punk rock, [[d/_derived|derived]] from hardcore punk with extreme metal elements, often with pessimistic lyrics [[a/_about|about]] political and social ills.**
+- **A subgenre of punk rock, derived from hardcore punk with extreme metal elements, often with pessimistic lyrics about political and social ills.**
 ---
 ### Synonyms
-- [[crust]], [[crustcore]], [[stenchcore]]
+- [[[[c/_crust|crust]]]], [[crustcore]], [[stenchcore]]
 ---

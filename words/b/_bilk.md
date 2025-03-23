@@ -1,13 +1,13 @@
 # Bilk
 ---
 #noun
-- **The spoiling of someone's score in the [[c/_crib|crib]].**
-- **A [[d/_deception|deception]], a hoax.**
-- **A [[c/_cheat|cheat]] or swindler.**
+- **The spoiling of someone's score in the crib.**
+- **A deception, a hoax.**
+- **A cheat or swindler.**
 ---
 #verb
-- **To spoil the score of (someone) in [[c/_cribbage|cribbage]].**
-- **To do someone out of their due; to [[d/_deceive|deceive]] or [[d/_defraud|defraud]], to [[c/_cheat|cheat]] (someone).**
+- **To spoil the score of (someone) in cribbage.**
+- **To do someone out of their due; to deceive or defraud, to cheat (someone).**
 - **To evade, elude.**
 ---
 ---

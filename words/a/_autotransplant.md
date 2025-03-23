@@ -1,9 +1,9 @@
 # Autotransplant
 ---
 #noun
-- **[[a/_autotransplantation|Autotransplantation]]**
+- **Autotransplantation**
 ---
 #verb
-- **To transplant from one part of the [[b/_body|body]] to [[a/_another|another]].**
+- **To transplant from one part of the body to another.**
 ---
 ---

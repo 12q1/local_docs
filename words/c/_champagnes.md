@@ -1,12 +1,12 @@
 # Champagnes
 ---
 #noun
-- **A sparkling white wine made from a [[b/_blend|blend]] of grapes, especially Chardonnay and pinot, produced in [[c/_champagne|Champagne]], France, by the méthode champenoise.**
-- **[[a/_any|Any]] sparkling wine made by the méthode champenoise.**
-- **[[a/_any|Any]] sparkling white wine.**
-- **A glass of [[c/_champagne|champagne]].**
-- **A very pale [[b/_brownish|brownish]]-gold [[c/_colour|colour]], similar to that of [[c/_champagne|champagne]].**
+- **A sparkling white wine made from a blend of grapes, especially Chardonnay and pinot, produced in Champagne, France, by the méthode champenoise.**
+- **Any sparkling wine made by the méthode champenoise.**
+- **Any sparkling white wine.**
+- **A glass of champagne.**
+- **A very pale brownish-gold colour, similar to that of champagne.**
 ---
 ### Synonyms
-- [[bubbly]], [[champ]], [[champers]], [[fizz]], [[shampoo]]
+- [[[[b/_bubbly|bubbly]]]], [[[[c/_champ|champ]]]], [[[[c/_champers|champers]]]], [[fizz]], [[shampoo]]
 ---

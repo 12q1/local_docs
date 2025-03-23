@@ -1,10 +1,10 @@
 # Atheistic
 ---
 #adjective
-- **Of or relating to [[a/_atheists|atheists]] or [[a/_atheism|atheism]]**
+- **Of or relating to atheists or atheism**
 ---
 ### Synonyms
-- [[atheistical]], [[atheous]], [[nontheistic]]
+- [[[[a/_atheistical|atheistical]]]], [[[[a/_atheous|atheous]]]], [[nontheistic]]
 ### Antonyms
 - [[theistic]]
 ---

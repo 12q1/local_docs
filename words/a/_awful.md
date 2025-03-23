@@ -1,18 +1,18 @@
 # Awful
 ---
 #adjective
-- **Very [[b/_bad|bad]].**
+- **Very bad.**
 	- _Example: My socks smell awful._
-- **Exceedingly great; usually [[a/_applied|applied]] intensively.**
+- **Exceedingly great; usually applied intensively.**
 	- _Example: I have learnt an awful amount today._
-- **[[c/_causing|Causing]] fear or horror; [[a/_appalling|appalling]], terrible.**
-- **Inspiring [[a/_awe|awe]]; filling with profound reverence or respect; profoundly impressive.**
-- **Struck or filled with [[a/_awe|awe]].**
+- **Causing fear or horror; appalling, terrible.**
+- **Inspiring awe; filling with profound reverence or respect; profoundly impressive.**
+- **Struck or filled with awe.**
 - **Terror-stricken.**
-- **Worshipful; reverential; law-[[a/_abiding|abiding]].**
+- **Worshipful; reverential; law-abiding.**
 ---
 #adverb
-- **[[a/_awfully|Awfully]]; dreadfully; terribly.**
+- **Awfully; dreadfully; terribly.**
 - **Very, extremely.**
 	- _Example: He was blubbering away something awful._
 ---

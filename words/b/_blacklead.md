@@ -6,14 +6,14 @@
 ### Antonyms
 - [[white lead]]
 #verb
-- **To [[c/_cover|cover]], treat or polish with graphite**
+- **To cover, treat or polish with graphite**
 ---
 #noun
-- **An [[a/_allotrope|allotrope]] of [[c/_carbon|carbon]], [[c/_consisting|consisting]] of planes of [[c/_carbon|carbon]] [[a/_atoms|atoms]] [[a/_arranged|arranged]] in hexagonal [[a/_arrays|arrays]] with the planes stacked loosely, that is used as a dry lubricant and in "lead" pencils.**
-- **Short for graphite-reinforced plastic, a [[c/_composite|composite]] plastic made with graphite fibers noted for light weight strength and stiffness.**
+- **An allotrope of carbon, consisting of planes of carbon atoms arranged in hexagonal arrays with the planes stacked loosely, that is used as a dry lubricant and in "lead" pencils.**
+- **Short for graphite-reinforced plastic, a composite plastic made with graphite fibers noted for light weight strength and stiffness.**
 	- _Example: Modern tennis racquets are made of graphite, fibreglass and other man-made materials._
-- **A grey [[c/_colour|colour]].**
+- **A grey colour.**
 ---
 ### Synonyms
-- [[black lead]], [[plumbago]], [[CFRP]], [[CRP]], [[carbon fiber]], [[composite]], [[plastic]], [[polymer]], [[reinforced]]
+- [[[[b/_black|black]] lead]], [[plumbago]], [[CFRP]], [[CRP]], [[[[c/_carbon|carbon]] fiber]], [[[[c/_composite|composite]]]], [[plastic]], [[polymer]], [[reinforced]]
 ---

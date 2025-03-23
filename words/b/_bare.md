@@ -1,8 +1,8 @@
 # Bare
 ---
 #noun
-- **(‘the [[b/_bare|bare]]’) The surface, the ([[b/_bare|bare]]) skin.**
-- **Surface; [[b/_body|body]]; substance.**
+- **(‘the bare’) The surface, the (bare) skin.**
+- **Surface; body; substance.**
 - **That part of a roofing slate, shingle, tile, or metal plate, which is exposed to the weather.**
 ---
 #adjective
@@ -12,26 +12,26 @@
 	- _Example: I do wonder why keeping my little breasts bare can be lewd even as none tells my brother anything for being bare-chested._
 - **Having no supplies.**
 	- _Example: The cupboard was bare._
-- **Having no [[d/_decoration|decoration]].**
+- **Having no decoration.**
 	- _Example: The walls of this room are bare — why not hang some paintings on them?_
-- **Having had what usually [[c/_covers|covers]] (something) removed.**
+- **Having had what usually covers (something) removed.**
 	- _Example: The trees were left bare after the swarm of locusts devoured all the leaves._
 - **(Toronto) A lot or lots of.**
 	- _Example: It's bare money to get in the club each time, man._
-- **With head uncovered; [[b/_bareheaded|bareheaded]].**
-- **Without [[a/_anything|anything]] to [[c/_cover|cover]] up or [[c/_conceal|conceal]] one's thoughts or [[a/_actions|actions]]; open to view; exposed.**
+- **With head uncovered; bareheaded.**
+- **Without anything to cover up or conceal one's thoughts or actions; open to view; exposed.**
 - **Mere; without embellishment.**
 - **Threadbare, very worn.**
 - **Not insured.**
 ---
 ### Synonyms
-- [[empty]], [[plain]], [[unadorned]], [[undecorated]], [[empty]], [[unfurnished]], [[unstocked]], [[unsupplied]], [[mere]], [[minimal]], [[exposed]], [[naked]], [[nude]], [[uncovered]], [[undressed]], [[despoiled]], [[stripped]], [[uncovered]]
+- [[empty]], [[plain]], [[unadorned]], [[undecorated]], [[empty]], [[unfurnished]], [[unstocked]], [[unsupplied]], [[mere]], [[minimal]], [[exposed]], [[naked]], [[nude]], [[uncovered]], [[undressed]], [[[[d/_despoiled|despoiled]]]], [[stripped]], [[uncovered]]
 ### Antonyms
-- [[covered]], [[adorn]], [[decorated]], [[ornate]], [[full]], [[furnished]], [[stocked]], [[supplied]], [[well-stocked]], [[ample]], [[plentiful]], [[sufficient]], [[covered]], [[dressed]], [[unexposed]]
+- [[[[c/_covered|covered]]]], [[[[a/_adorn|adorn]]]], [[[[d/_decorated|decorated]]]], [[ornate]], [[full]], [[furnished]], [[stocked]], [[supplied]], [[well-stocked]], [[[[a/_ample|ample]]]], [[plentiful]], [[sufficient]], [[[[c/_covered|covered]]]], [[[[d/_dressed|dressed]]]], [[unexposed]]
 #adverb
 - **Very; significantly.**
 	- _Example: It's taking bare time._
-- **[[b/_barely|Barely]].**
-- **Without a [[c/_condom|condom]].**
+- **Barely.**
+- **Without a condom.**
 ---
 ---

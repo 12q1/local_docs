@@ -5,10 +5,10 @@
 	- _Example: to blur a photograph by moving the camera while taking it_
 - **To smear, stain or smudge.**
 	- _Example: to blur a manuscript by handling it while damp_
-- **To [[b/_become|become]] indistinct.**
-- **To [[c/_cause|cause]] imperfection of vision in; to dim; to [[d/_darken|darken]].**
-- **To sully; to stain; to [[b/_blemish|blemish]], as reputation.**
-- **To transfer the input focus [[a/_away|away]] from.**
+- **To become indistinct.**
+- **To cause imperfection of vision in; to dim; to darken.**
+- **To sully; to stain; to blemish, as reputation.**
+- **To transfer the input focus away from.**
 ---
 ### Synonyms
 - [[pixelate]], [[smooth]], [[unfocus]]

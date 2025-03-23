@@ -1,8 +1,8 @@
 # Bandura
 ---
 #noun
-- **A Ukrainian plucked stringed instrument with a tear-shaped [[b/_body|body]], like an [[a/_asymmetrical|asymmetrical]] lute or a vertical zither, which is played with [[b/_both|both]] hands while held upright on the lap.**
+- **A Ukrainian plucked stringed instrument with a tear-shaped body, like an asymmetrical lute or a vertical zither, which is played with both hands while held upright on the lap.**
 ---
 ### Synonyms
-- [[bandore]], [[kobza]], [[pandore]]
+- [[[[b/_bandore|bandore]]]], [[kobza]], [[pandore]]
 ---

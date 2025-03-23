@@ -1,10 +1,10 @@
 # Arrowheads
 ---
 #noun
-- **The pointed part of an [[a/_arrow|arrow]].**
-- **(symbol) The pointed part of an [[a/_arrow|arrow]].**
-- **[[a/_any|Any]] plant in the genus Sagittaria.**
+- **The pointed part of an arrow.**
+- **(symbol) The pointed part of an arrow.**
+- **Any plant in the genus Sagittaria.**
 ---
 ### Synonyms
-- [[duck potato]], [[wapato]]
+- [[[[d/_duck|duck]] potato]], [[wapato]]
 ---

@@ -1,10 +1,10 @@
 # Consumerist
 ---
 #noun
-- **A proponent of [[c/_consumerism|consumerism]].**
+- **A proponent of consumerism.**
 ---
 #adjective
-- **Of or pertaining to [[c/_consumerism|consumerism]]; consumeristic.**
+- **Of or pertaining to consumerism; consumeristic.**
 	- _Example: consumerist society_
 ---
 ---

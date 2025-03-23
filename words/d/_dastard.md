@@ -1,12 +1,12 @@
 # Dastard
 ---
 #noun
-- **A malicious [[c/_coward|coward]]; a dishonorable sneak.**
+- **A malicious coward; a dishonorable sneak.**
 ---
 #verb
-- **To [[d/_dastardize|dastardize]].**
+- **To dastardize.**
 ---
 #adjective
-- **Meanly shrinking from [[d/_danger|danger]], [[c/_cowardly|cowardly]], [[d/_dastardly|dastardly]].**
+- **Meanly shrinking from danger, cowardly, dastardly.**
 ---
 ---

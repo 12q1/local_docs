@@ -1,7 +1,7 @@
 # Ankyloses
 ---
 #verb
-- **To [[c/_cause|cause]] [[b/_bony|bony]] structures to fuse or stiffen as a result of [[a/_ankylosis|ankylosis]].**
-- **To suffer from [[a/_ankylosis|ankylosis]].**
+- **To cause bony structures to fuse or stiffen as a result of ankylosis.**
+- **To suffer from ankylosis.**
 ---
 ---

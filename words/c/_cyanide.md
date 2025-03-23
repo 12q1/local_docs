@@ -1,11 +1,11 @@
 # Cyanide
 ---
 #noun
-- **[[a/_any|Any]] [[c/_compound|compound]] [[c/_containing|containing]] the -[[c/_c|C]]≡N radical or the [[c/_c|C]]≡N-1 [[a/_anion|anion]].**
-- **Potassium [[c/_cyanide|cyanide]] - a water soluble poison**
-- **Hydrogen [[c/_cyanide|cyanide]], or [[c/_cyanide|cyanide]] gas - a poisonous gas**
+- **Any compound containing the -C≡N radical or the C≡N-1 anion.**
+- **Potassium cyanide - a water soluble poison**
+- **Hydrogen cyanide, or cyanide gas - a poisonous gas**
 ---
 #verb
-- **To treat or poison with [[c/_cyanide|cyanide]].**
+- **To treat or poison with cyanide.**
 ---
 ---

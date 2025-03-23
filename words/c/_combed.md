@@ -1,15 +1,15 @@
 # Combed
 ---
 #verb
-- **(especially of hair or fur) To groom with a toothed implement; [[c/_chiefly|chiefly]] with a [[c/_comb|comb]].**
+- **(especially of hair or fur) To groom with a toothed implement; chiefly with a comb.**
 	- _Example: I need to comb my hair before we leave the house_
-- **To separate [[c/_choice|choice]] [[c/_cotton|cotton]] fibers from worsted [[c/_cloth|cloth]] fibers.**
-- **To search thoroughly as if raking over an [[a/_area|area]] with a [[c/_comb|comb]].**
+- **To separate choice cotton fibers from worsted cloth fibers.**
+- **To search thoroughly as if raking over an area with a comb.**
 	- _Example: Police combed the field for evidence after the assault_
-- **To roll over, as the top or [[c/_crest|crest]] of a wave; to [[b/_break|break]] with a white foam, as waves.**
+- **To roll over, as the top or crest of a wave; to break with a white foam, as waves.**
 ---
 #adjective
-- **[[a/_arranged|Arranged]] or groomed with a [[c/_comb|comb]]**
+- **Arranged or groomed with a comb**
 	- _Example: combed hair_
 ---
 ---

@@ -1,6 +1,6 @@
 # Butleries
 ---
 #noun
-- **[[b/_butler|Butler]]'s pantry; serving pantry**
+- **Butler's pantry; serving pantry**
 ---
 ---

@@ -1,9 +1,9 @@
 # Decriminalization
 ---
 #noun
-- **The [[a/_act|act]] of making a previously [[c/_criminal|criminal]] [[a/_activity|activity]] no longer treatable as a [[c/_criminal|criminal]] offence.**
+- **The act of making a previously criminal activity no longer treatable as a criminal offence.**
 	- _Example: the decriminalization of all plant-based psychedelics_
-- **The [[a/_act|act]] of turning a [[c/_criminal|criminal]] into a non-[[c/_criminal|criminal]] by making their [[a/_activities|activities]] legal.**
+- **The act of turning a criminal into a non-criminal by making their activities legal.**
 ---
 ### Antonyms
 - [[criminalization]]

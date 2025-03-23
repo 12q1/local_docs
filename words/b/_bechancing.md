@@ -1,9 +1,9 @@
 # Bechancing
 ---
 #verb
-- **To happen; [[c/_chance|chance]].**
-- **To happen (to); [[b/_befall|befall]] to.**
+- **To happen; chance.**
+- **To happen (to); befall to.**
 ---
 ### Synonyms
-- [[come to pass]], [[occur]], [[transpire]]
+- [[[[c/_come|come]] to pass]], [[occur]], [[transpire]]
 ---

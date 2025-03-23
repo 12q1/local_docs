@@ -1,14 +1,14 @@
 # Bridling
 ---
 #verb
-- **To put a [[b/_bridle|bridle]] on.**
-- **To [[c/_check|check]], restrain, or [[c/_control|control]] with, or as if with, a [[b/_bridle|bridle]]; as in [[b/_bridle|bridle]] your tongue.**
+- **To put a bridle on.**
+- **To check, restrain, or control with, or as if with, a bridle; as in bridle your tongue.**
 - **To show hostility or resentment.**
-- **To hold up one's head proudly or [[a/_affectedly|affectedly]].**
+- **To hold up one's head proudly or affectedly.**
 ---
 ### Synonyms
 - [[restrain]]
 #noun
-- **The [[a/_act|act]] of one who [[b/_bridles|bridles]].**
+- **The act of one who bridles.**
 ---
 ---

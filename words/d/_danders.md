@@ -1,12 +1,12 @@
 # Danders
 ---
 #noun
-- **[[d/_dandruff|Dandruff]]—scaly white [[d/_dead|dead]] skin flakes from the human scalp.**
-- **Hair follicles and [[d/_dead|dead]] skin shed from mammals.**
-- **[[a/_allergen|Allergen]] particles that [[a/_accumulate|accumulate]] on and may be shed from the skin and fur of domestic [[a/_animals|animals]], especially from household pets such as [[c/_cats|cats]] and dogs.**
+- **Dandruff—scaly white dead skin flakes from the human scalp.**
+- **Hair follicles and dead skin shed from mammals.**
+- **Allergen particles that accumulate on and may be shed from the skin and fur of domestic animals, especially from household pets such as cats and dogs.**
 ---
 #verb
-- **To wander [[a/_about|about]].**
+- **To wander about.**
 - **To maunder, to talk incoherently.**
 ---
 ---

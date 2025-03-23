@@ -1,7 +1,7 @@
 # Batties
 ---
 #noun
-- **(West Indian slang) The [[b/_buttocks|buttocks]] or [[a/_anus|anus]].**
+- **(West Indian slang) The buttocks or anus.**
 - **A homosexual man.**
 ---
 ---

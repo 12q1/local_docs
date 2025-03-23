@@ -1,7 +1,7 @@
 # Bronchogenic
 ---
 #adjective
-- **Originating in the [[b/_bronchus|bronchus]].**
+- **Originating in the bronchus.**
 	- _Example: Smoking is believed to be a leading cause of bronchogenic cancer._
 ---
 ---

@@ -1,7 +1,7 @@
 # Dawn
 ---
 #noun
-- **The morning twilight period immediately [[b/_before|before]] sunrise.**
+- **The morning twilight period immediately before sunrise.**
 - **The rising of the sun.**
 - **The time when the sun rises.**
 	- _Example: She rose before dawn to meet the train._
@@ -9,14 +9,14 @@
 	- _Example: the dawn of civilization_
 ---
 ### Synonyms
-- [[beginning]], [[onset]], [[start]], [[break of dawn]], [[break of day]], [[crack of dawn]], [[day-dawn]], [[daybreak]], [[dayspring]], [[sunrise]], [[sunup]], [[break of dawn]], [[break of day]], [[day-dawn]], [[dayspring]], [[sunrise]]
+- [[[[b/_beginning|beginning]]]], [[onset]], [[start]], [[[[b/_break|break]] of [[d/_dawn|dawn]]]], [[[[b/_break|break]] of [[d/_day|day]]]], [[[[c/_crack|crack]] of [[d/_dawn|dawn]]]], [[[[d/_day|day]]-[[d/_dawn|dawn]]]], [[[[d/_daybreak|daybreak]]]], [[[[d/_dayspring|dayspring]]]], [[sunrise]], [[sunup]], [[[[b/_break|break]] of [[d/_dawn|dawn]]]], [[[[b/_break|break]] of [[d/_day|day]]]], [[[[d/_day|day]]-[[d/_dawn|dawn]]]], [[[[d/_dayspring|dayspring]]]], [[sunrise]]
 ### Antonyms
-- [[dusk]]
+- [[[[d/_dusk|dusk]]]]
 #verb
-- **To [[b/_begin|begin]] to [[b/_brighten|brighten]] with [[d/_daylight|daylight]].**
+- **To begin to brighten with daylight.**
 	- _Example: A new day dawns._
-- **To start to [[a/_appear|appear]] or be realized.**
+- **To start to appear or be realized.**
 	- _Example: I don’t want to be there when the truth dawns on him._
-- **To [[b/_begin|begin]] to give promise; to [[b/_begin|begin]] to [[a/_appear|appear]] or to expand.**
+- **To begin to give promise; to begin to appear or to expand.**
 ---
 ---

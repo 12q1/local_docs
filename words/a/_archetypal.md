@@ -1,8 +1,8 @@
 # Archetypal
 ---
 #adjective
-- **Of or pertaining to an [[a/_archetype|archetype]].**
+- **Of or pertaining to an archetype.**
 ---
 ### Synonyms
-- [[archetypic]], [[archetypical]]
+- [[[[a/_archetypic|archetypic]]]], [[[[a/_archetypical|archetypical]]]]
 ---

@@ -1,12 +1,12 @@
 # Cricketing
 ---
 #verb
-- **To play the game of [[c/_cricket|cricket]].**
+- **To play the game of cricket.**
 ---
 #noun
-- **A game of [[c/_cricket|cricket]].**
+- **A game of cricket.**
 ---
 #adjective
-- **That plays [[c/_cricket|cricket]].**
+- **That plays cricket.**
 ---
 ---

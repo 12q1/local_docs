@@ -1,16 +1,16 @@
 # Assimilated
 ---
 #verb
-- **To incorporate nutrients into the [[b/_body|body]], especially [[a/_after|after]] digestion.**
+- **To incorporate nutrients into the body, especially after digestion.**
 	- _Example: Food is assimilated and converted into organic tissue._
-- **To incorporate or [[a/_absorb|absorb]] (knowledge) into the mind.**
+- **To incorporate or absorb (knowledge) into the mind.**
 	- _Example: The teacher paused in her lecture to allow the students to assimilate what she had said._
-- **To [[a/_absorb|absorb]] (a person or people) into a [[c/_community|community]] or [[c/_culture|culture]].**
+- **To absorb (a person or people) into a community or culture.**
 	- _Example: The aliens in the science-fiction film wanted to assimilate human beings into their own race._
-- **To [[c/_compare|compare]] to something similar.**
-- **To [[b/_bring|bring]] to a likeness or to [[c/_conformity|conformity]]; to [[c/_cause|cause]] a resemblance [[b/_between|between]].**
-- **To [[b/_become|become]] similar.**
-- **To be incorporated or [[a/_absorbed|absorbed]] into something.**
+- **To compare to something similar.**
+- **To bring to a likeness or to conformity; to cause a resemblance between.**
+- **To become similar.**
+- **To be incorporated or absorbed into something.**
 ---
 ### Synonyms
 - [[integrate]], [[process]]

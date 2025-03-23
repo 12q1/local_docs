@@ -1,11 +1,11 @@
 # Cornelian
 ---
 #noun
-- **A hard, reddish [[b/_brown|brown]] [[c/_chalcedony|chalcedony]]; used in jewelery,**
+- **A hard, reddish brown chalcedony; used in jewelery,**
 ---
 ### Synonyms
-- [[cornelian]]
+- [[[[c/_cornelian|cornelian]]]]
 #noun
-- **[[a/_any|Any]] of various lycaenid [[b/_butterflies|butterflies]] of the genus Deudorix.**
+- **Any of various lycaenid butterflies of the genus Deudorix.**
 ---
 ---

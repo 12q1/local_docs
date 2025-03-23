@@ -1,8 +1,8 @@
 # Artilleryman
 ---
 #noun
-- **A soldier enlisted in an [[a/_artillery|artillery]] unit or who uses [[a/_artillery|artillery]].**
+- **A soldier enlisted in an artillery unit or who uses artillery.**
 ---
 ### Synonyms
-- [[artillerist]]
+- [[[[a/_artillerist|artillerist]]]]
 ---

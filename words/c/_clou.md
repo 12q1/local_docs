@@ -1,6 +1,6 @@
 # Clou
 ---
 #noun
-- **Something which holds the greatest [[a/_attention|attention]]; the [[c/_chief|chief]] point of interest.**
+- **Something which holds the greatest attention; the chief point of interest.**
 ---
 ---

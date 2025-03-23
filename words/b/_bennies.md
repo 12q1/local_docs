@@ -1,22 +1,22 @@
 # Bennies
 ---
 #noun
-- **An [[a/_amphetamine|amphetamine]] tablet.**
-- **A tantrum; a fit of furious or erratic [[b/_behaviour|behaviour]].**
+- **An amphetamine tablet.**
+- **A tantrum; a fit of furious or erratic behaviour.**
 ---
 #verb
-- **(usually with "up") To take [[a/_amphetamines|amphetamines]].**
+- **(usually with "up") To take amphetamines.**
 ---
 #noun
-- **A [[b/_benefit|benefit]].**
+- **A benefit.**
 ---
 #noun
 - **An overcoat.**
 - **A straw hat.**
 ---
 #noun
-- **(originally United States) A dish [[c/_consisting|consisting]] of slices of English muffins with poached eggs, ham or [[b/_bacon|bacon]] and hollandaise sauce.**
+- **(originally United States) A dish consisting of slices of English muffins with poached eggs, ham or bacon and hollandaise sauce.**
 ---
 ### Synonyms
-- [[benny / Benny]], [[eggs benny / eggs Benny]]
+- [[[[b/_benny|benny]] / [[b/_benny|Benny]]]], [[eggs [[b/_benny|benny]] / eggs [[b/_benny|Benny]]]]
 ---

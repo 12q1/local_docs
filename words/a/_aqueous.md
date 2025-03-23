@@ -1,6 +1,6 @@
 # Aqueous
 ---
 #adjective
-- **[[c/_consisting|Consisting]] mostly of water.**
+- **Consisting mostly of water.**
 ---
 ---

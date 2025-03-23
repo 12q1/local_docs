@@ -1,11 +1,11 @@
 # Colluding
 ---
 #verb
-- **To [[a/_act|act]] in [[c/_concert|concert]] with; to [[c/_conspire|conspire]]**
+- **To act in concert with; to conspire**
 ---
 ### Synonyms
-- [[cahoots]], [[conspire]], [[plot]], [[scheme]]
+- [[[[c/_cahoots|cahoots]]]], [[[[c/_conspire|conspire]]]], [[plot]], [[scheme]]
 #adjective
-- **That [[c/_collude|collude]]**
+- **That collude**
 ---
 ---

@@ -1,19 +1,19 @@
 # According
 ---
 #verb
-- **To make to [[a/_agree|agree]] or [[c/_correspond|correspond]]; to suit one thing to [[a/_another|another]]; to [[a/_adjust|adjust]].**
-- **To [[b/_bring|bring]] (people) to an [[a/_agreement|agreement]]; to reconcile, settle, [[a/_adjust|adjust]] or harmonize.**
-- **To [[a/_agree|agree]] or [[c/_correspond|correspond]]; to be in harmony; to be [[c/_concordant|concordant]].**
-- **To [[a/_agree|agree]] in pitch and tone.**
-- **To grant as suitable or proper; to [[c/_concede|concede]] or [[a/_award|award]].**
-- **To give [[c/_consent|consent]].**
-- **To [[a/_arrive|arrive]] at an [[a/_agreement|agreement]].**
+- **To make to agree or correspond; to suit one thing to another; to adjust.**
+- **To bring (people) to an agreement; to reconcile, settle, adjust or harmonize.**
+- **To agree or correspond; to be in harmony; to be concordant.**
+- **To agree in pitch and tone.**
+- **To grant as suitable or proper; to concede or award.**
+- **To give consent.**
+- **To arrive at an agreement.**
 ---
 #adjective
-- **[[a/_agreeing|Agreeing]]; in [[a/_agreement|agreement]] or harmony; harmonious.**
+- **Agreeing; in agreement or harmony; harmonious.**
 	- _Example: This according voice of national wisdom._
 ---
 #adverb
-- **[[a/_accordingly|Accordingly]]; [[c/_correspondingly|correspondingly]].**
+- **Accordingly; correspondingly.**
 ---
 ---

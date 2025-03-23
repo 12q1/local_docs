@@ -1,6 +1,6 @@
 # Compadres
 ---
 #noun
-- **A friend or [[c/_companion|companion]].**
+- **A friend or companion.**
 ---
 ---

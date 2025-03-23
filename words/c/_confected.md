@@ -1,8 +1,8 @@
 # Confected
 ---
 #verb
-- **To make up, prepare, or [[c/_compound|compound]]; to produce by [[c/_combining|combining]] ingredients or materials; to [[c/_concoct|concoct]].**
+- **To make up, prepare, or compound; to produce by combining ingredients or materials; to concoct.**
 	- _Example: The woman confected a home remedy for the traveler's illness._
-- **To make into a [[c/_confection|confection]]; to prepare as a [[c/_candy|candy]], sweetmeat, preserve, or the like.**
+- **To make into a confection; to prepare as a candy, sweetmeat, preserve, or the like.**
 ---
 ---

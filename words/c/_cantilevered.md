@@ -1,9 +1,9 @@
 # Cantilevered
 ---
 #verb
-- **To project (something) in the manner of or by means of a [[c/_cantilever|cantilever]].**
+- **To project (something) in the manner of or by means of a cantilever.**
 ---
 #adjective
-- **Fitted with a [[c/_cantilever|cantilever]].**
+- **Fitted with a cantilever.**
 ---
 ---

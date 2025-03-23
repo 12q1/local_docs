@@ -1,9 +1,9 @@
 # Blackboards
 ---
 #noun
-- **A large flat surface, finished with [[b/_black|black]] slate or a similar material, that [[c/_can|can]] be written upon with [[c/_chalk|chalk]] and subsequently erased; a [[c/_chalkboard|chalkboard]].**
+- **A large flat surface, finished with black slate or a similar material, that can be written upon with chalk and subsequently erased; a chalkboard.**
 ---
 #verb
-- **To use a [[b/_blackboard|blackboard]] to [[a/_assist|assist]] in an informal discussion.**
+- **To use a blackboard to assist in an informal discussion.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Abnegations
 ---
 #noun
-- **A [[d/_denial|denial]]; a renunciation; [[d/_denial|denial]] of [[d/_desire|desire]] or self-interest.**
+- **A denial; a renunciation; denial of desire or self-interest.**
 ---
 ### Synonyms
-- [[denial]], [[self-]], [[renunciation]], [[repudiation]]
+- [[[[d/_denial|denial]]]], [[self-]], [[renunciation]], [[repudiation]]
 ---

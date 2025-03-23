@@ -1,8 +1,8 @@
 # Cossie
 ---
 #noun
-- **A swimming [[c/_costume|costume]].**
+- **A swimming costume.**
 ---
 ### Synonyms
-- [[bathers]]
+- [[[[b/_bathers|bathers]]]]
 ---

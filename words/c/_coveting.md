@@ -1,11 +1,11 @@
 # Coveting
 ---
 #verb
-- **To wish for with eagerness; to [[d/_desire|desire]] possession of, often enviously.**
-- **To long for inordinately or unlawfully; to hanker [[a/_after|after]] (something forbidden).**
-- **To yearn; to have or indulge an inordinate [[d/_desire|desire]], especially for [[a/_another|another]]'s possession.**
+- **To wish for with eagerness; to desire possession of, often enviously.**
+- **To long for inordinately or unlawfully; to hanker after (something forbidden).**
+- **To yearn; to have or indulge an inordinate desire, especially for another's possession.**
 ---
 #noun
-- **The [[a/_act|act]] of one who [[c/_covets|covets]].**
+- **The act of one who covets.**
 ---
 ---

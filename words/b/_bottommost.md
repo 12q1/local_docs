@@ -1,7 +1,7 @@
 # Bottommost
 ---
 #adjective
-- **Lowest, [[c/_closest|closest]] to the [[b/_bottom|bottom]].**
+- **Lowest, closest to the bottom.**
 ---
 ### Antonyms
 - [[top-most]], [[topmost]]

@@ -1,13 +1,13 @@
 # Customary
 ---
 #noun
-- **A [[b/_book|book]] [[c/_containing|containing]] laws and usages, or [[c/_customs|customs]]; a [[c/_custumal|custumal]].**
+- **A book containing laws and usages, or customs; a custumal.**
 ---
 #adjective
-- **In [[a/_accordance|accordance]] with, or established by, [[c/_custom|custom]] or [[c/_common|common]] usage**
-- **Holding or held by [[c/_custom|custom]]**
+- **In accordance with, or established by, custom or common usage**
+- **Holding or held by custom**
 	- _Example: customary tenants_
 ---
 ### Synonyms
-- [[conventional]], [[habitual]], [[wont]]
+- [[[[c/_conventional|conventional]]]], [[habitual]], [[wont]]
 ---

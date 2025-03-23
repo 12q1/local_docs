@@ -1,8 +1,8 @@
 # Chondral
 ---
 #adjective
-- **Of or pertaining to [[c/_cartilage|cartilage]]**
+- **Of or pertaining to cartilage**
 ---
 ### Synonyms
-- [[cartilaginous]]
+- [[[[c/_cartilaginous|cartilaginous]]]]
 ---

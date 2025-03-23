@@ -1,15 +1,15 @@
 # Charade
 ---
 #noun
-- **A genre of riddles where the [[c/_clues|clues]] to the [[a/_answer|answer]] are [[d/_descriptions|descriptions]] or puns on its syllables, with a final [[c/_clue|clue]] to the whole.**
-- **A single round of the game [[c/_charades|charades]], an [[a/_acted|acted]] form of the earlier riddles.**
-- **A play resembling the game [[c/_charades|charades]], particularly due to poor [[a/_acting|acting]].**
-- **A [[d/_deception|deception]] or pretense, originally an [[a/_absurdly|absurdly]] obvious one but now in general use.**
+- **A genre of riddles where the clues to the answer are descriptions or puns on its syllables, with a final clue to the whole.**
+- **A single round of the game charades, an acted form of the earlier riddles.**
+- **A play resembling the game charades, particularly due to poor acting.**
+- **A deception or pretense, originally an absurdly obvious one but now in general use.**
 	- _Example: This whole charade is absurd._
 ---
 ### Synonyms
-- [[acted charade]], [[dumb charade]], [[farce]], [[sham]]
+- [[[[a/_acted|acted]] [[c/_charade|charade]]]], [[[[d/_dumb|dumb]] [[c/_charade|charade]]]], [[farce]], [[sham]]
 #verb
-- **To [[a/_act|act]] out a [[c/_charade|charade]] (of); to gesture; to pretend.**
+- **To act out a charade (of); to gesture; to pretend.**
 ---
 ---

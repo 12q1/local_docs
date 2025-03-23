@@ -1,22 +1,22 @@
 # Blankest
 ---
 #adjective
-- **White or pale; without [[c/_colour|colour]].**
+- **White or pale; without colour.**
 - **Free from writing, printing, or marks; having an empty space to be filled in**
 	- _Example: a blank ballot_
-- **Scoreless; without [[a/_any|any]] goals or points.**
-- **Lacking [[c/_characteristics|characteristics]] which give variety; uniform.**
+- **Scoreless; without any goals or points.**
+- **Lacking characteristics which give variety; uniform.**
 	- _Example: a blank desert; a blank wall; blank unconsciousness_
-- **[[a/_absolute|Absolute]]; downright; sheer.**
+- **Absolute; downright; sheer.**
 	- _Example: There was a look of blank terror on his face._
 - **Without expression.**
 	- _Example: Failing to understand the question, he gave me a blank stare._
-- **Utterly [[c/_confounded|confounded]] or discomfited.**
+- **Utterly confounded or discomfited.**
 - **Empty; void; without result; fruitless.**
 	- _Example: a blank day_
 - **Devoid of thoughts, memory, or inspiration.**
 	- _Example: The shock left his memory blank._
-- **Of [[a/_ammunition|ammunition]]: having propellant but no [[b/_bullets|bullets]]; unbulleted.**
+- **Of ammunition: having propellant but no bullets; unbulleted.**
 	- _Example: The recruits were issued with blank rounds for a training exercise._
 ---
 ---

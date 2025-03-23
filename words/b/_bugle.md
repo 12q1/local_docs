@@ -2,14 +2,14 @@
 ---
 #noun
 - **A horn used by hunters.**
-- **A simple [[b/_brass|brass]] instrument [[c/_consisting|consisting]] of a horn with no valves, playing only pitches in its harmonic series**
-- **A plant in the family Lamiaceae grown as a ground [[c/_cover|cover]], [[a/_ajuga|Ajuga]] reptans, and other plants in the genus [[a/_ajuga|Ajuga]].**
-- **[[a/_anything|Anything]] shaped like a [[b/_bugle|bugle]], round or [[c/_conical|conical]] and having a [[b/_bell|bell]] on one end.**
+- **A simple brass instrument consisting of a horn with no valves, playing only pitches in its harmonic series**
+- **A plant in the family Lamiaceae grown as a ground cover, Ajuga reptans, and other plants in the genus Ajuga.**
+- **Anything shaped like a bugle, round or conical and having a bell on one end.**
 ---
 ### Synonyms
-- [[cone]], [[funnel]], [[bugleweed]], [[carpet bugle]], [[ground pine]]
+- [[[[c/_cone|cone]]]], [[funnel]], [[[[b/_bugleweed|bugleweed]]]], [[[[c/_carpet|carpet]] [[b/_bugle|bugle]]]], [[ground pine]]
 #verb
-- **To [[a/_announce|announce]], sing, or [[c/_cry|cry]] in the manner of a musical [[b/_bugle|bugle]]**
+- **To announce, sing, or cry in the manner of a musical bugle**
 ---
 ### Synonyms
 - [[trumpet]]

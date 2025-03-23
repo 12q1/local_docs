@@ -1,8 +1,8 @@
 # Collapsar
 ---
 #noun
-- **The [[b/_black|black]] hole thought to form following the gravitational [[c/_collapse|collapse]] of a massive star.**
+- **The black hole thought to form following the gravitational collapse of a massive star.**
 ---
 ### Synonyms
-- [[SBH]], [[stellar black hole]]
+- [[SBH]], [[stellar [[b/_black|black]] hole]]
 ---

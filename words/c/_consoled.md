@@ -1,8 +1,8 @@
 # Consoled
 ---
 #verb
-- **To [[c/_comfort|comfort]] (someone) in a time of grief, disappointment, etc.**
+- **To comfort (someone) in a time of grief, disappointment, etc.**
 ---
 ### Synonyms
-- [[comfort]], [[solace]]
+- [[[[c/_comfort|comfort]]]], [[solace]]
 ---

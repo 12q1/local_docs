@@ -1,6 +1,6 @@
 # Commendably
 ---
 #adverb
-- **In a [[c/_commendable|commendable]] manner.**
+- **In a commendable manner.**
 ---
 ---

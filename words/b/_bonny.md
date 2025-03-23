@@ -2,10 +2,10 @@
 ---
 #adjective
 - **Merry; happy.**
-- **[[b/_beautiful|Beautiful]]; pretty; [[a/_attractive|attractive]].**
+- **Beautiful; pretty; attractive.**
 - **Fine, good (often used ironically).**
 	- _Example: My bonnie friend, come over here._
 ---
 ### Synonyms
-- [[blithe]], [[cheerful]], [[frolicsome]], [[gay]]
+- [[[[b/_blithe|blithe]]]], [[[[c/_cheerful|cheerful]]]], [[frolicsome]], [[gay]]
 ---

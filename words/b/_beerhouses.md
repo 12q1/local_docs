@@ -1,8 +1,8 @@
 # Beerhouses
 ---
 #noun
-- **A tavern that sells [[b/_beer|beer]].**
+- **A tavern that sells beer.**
 ---
 ### Synonyms
-- [[alehouse]]
+- [[[[a/_alehouse|alehouse]]]]
 ---

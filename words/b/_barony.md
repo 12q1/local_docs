@@ -1,10 +1,10 @@
 # Barony
 ---
 #noun
-- **The domain of a [[b/_baron|baron]] or [[b/_baroness|baroness]], usually as part of a larger kingdom or empire.**
-- **The [[b/_baronage|baronage]]: the [[b/_body|body]] of [[b/_barons|barons]] in a realm.**
-- **[[b/_baronship|Baronship]], the rank or position of a [[b/_baron|baron]].**
-- **The legal tenure of a [[b/_baron|baron]]'s land; military tenure.**
+- **The domain of a baron or baroness, usually as part of a larger kingdom or empire.**
+- **The baronage: the body of barons in a realm.**
+- **Baronship, the rank or position of a baron.**
+- **The legal tenure of a baron's land; military tenure.**
 ---
 ### Synonyms
 - [[hundred]]

@@ -1,6 +1,6 @@
 # Colemouse
 ---
 #noun
-- **A species of small titmouse with a [[b/_black|black]] head; the coaltit, Parus ater.**
+- **A species of small titmouse with a black head; the coaltit, Parus ater.**
 ---
 ---

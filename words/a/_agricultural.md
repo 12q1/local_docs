@@ -1,10 +1,10 @@
 # Agricultural
 ---
 #noun
-- **A product or [[c/_commodity|commodity]] from [[a/_agriculture|agriculture]].**
+- **A product or commodity from agriculture.**
 ---
 #adjective
-- **Of or pertaining to [[a/_agriculture|agriculture]]**
+- **Of or pertaining to agriculture**
 	- _Example: An agricultural tool_
 - **As if played with a scythe**
 ---

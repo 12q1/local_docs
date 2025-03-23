@@ -1,12 +1,12 @@
 # Astringent
 ---
 #noun
-- **A substance which draws tissue together, thus restricting the flow of [[b/_blood|blood]].**
+- **A substance which draws tissue together, thus restricting the flow of blood.**
 ---
 #adjective
-- **Extremely sour, [[b/_bitter|bitter]].**
-- **Sharp, [[c/_caustic|caustic]], severe.**
-- **[[c/_causing|Causing]] a dry or puckering mouthfeel; [[c/_characteristic|characteristic]] of foods with high tannin [[c/_content|content]], such as [[c/_certain|certain]] kinds of [[b/_berries|berries]] and [[c/_citrus|citrus]] fruits.**
+- **Extremely sour, bitter.**
+- **Sharp, caustic, severe.**
+- **Causing a dry or puckering mouthfeel; characteristic of foods with high tannin content, such as certain kinds of berries and citrus fruits.**
 - **Having the effect of drawing tissue together; styptic.**
 ---
 ### Synonyms

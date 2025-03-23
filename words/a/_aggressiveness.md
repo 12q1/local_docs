@@ -1,9 +1,9 @@
 # Aggressiveness
 ---
 #noun
-- **The state or quality of [[b/_being|being]] [[a/_aggressive|aggressive]].**
-- **The propensity of a soil or water to dissolve metal or [[c/_cement|cement]] structures.**
+- **The state or quality of being aggressive.**
+- **The propensity of a soil or water to dissolve metal or cement structures.**
 	- _Example: The aggressiveness of various sulfate salts towards concrete is partly related to solubility._
-- **The result or product of [[b/_being|being]] [[a/_aggressive|aggressive]].**
+- **The result or product of being aggressive.**
 ---
 ---

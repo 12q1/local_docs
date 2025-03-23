@@ -1,6 +1,6 @@
 # Decollate
 ---
 #verb
-- **To [[b/_behead|behead]].**
+- **To behead.**
 ---
 ---

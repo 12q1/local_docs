@@ -1,6 +1,6 @@
 # Bambino
 ---
 #noun
-- **A [[c/_child|child]] or [[b/_baby|baby]], especially a representation in [[a/_art|art]] of the infant [[c/_christ|Christ]] wrapped in swaddling [[c/_clothes|clothes]].**
+- **A child or baby, especially a representation in art of the infant Christ wrapped in swaddling clothes.**
 ---
 ---

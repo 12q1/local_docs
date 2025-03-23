@@ -2,14 +2,14 @@
 ---
 #verb
 - **To grip or hold fast.**
-- **To [[c/_close|close]] tightly.**
+- **To close tightly.**
 	- _Example: He clenched his fist in anger._
 ---
 ### Synonyms
-- [[clasp]], [[clutch]], [[grip]]
+- [[[[c/_clasp|clasp]]]], [[[[c/_clutch|clutch]]]], [[grip]]
 ### Antonyms
 - [[unclench]]
 #noun
-- **The [[a/_act|act]] by which something (a fist, a jaw, etc.) is [[c/_clenched|clenched]].**
+- **The act by which something (a fist, a jaw, etc.) is clenched.**
 ---
 ---

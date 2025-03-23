@@ -1,10 +1,10 @@
 # Cornflowers
 ---
 #noun
-- **A small [[a/_annual|annual]] plant in the family [[a/_asteraceae|Asteraceae]], [[c/_centaurea|Centaurea]] [[c/_cyanus|cyanus]], usually with [[b/_bushy|bushy]] [[b/_blue|blue]] flowers which grows natively in European [[c/_cornfields|cornfields]] (i.e. wheatfields).**
-- **A plant of the species [[c/_cichorium|Cichorium]] intybus.**
-- **[[c/_cornflower|Cornflower]] [[b/_blue|blue]].**
+- **A small annual plant in the family Asteraceae, Centaurea cyanus, usually with bushy blue flowers which grows natively in European cornfields (i.e. wheatfields).**
+- **A plant of the species Cichorium intybus.**
+- **Cornflower blue.**
 ---
 ### Synonyms
-- [[bachelor's button]], [[bluebottle]], [[chicory button]], [[common chicory]], [[horseweed]], [[ragged sailor]], [[succory]]
+- [[[[b/_bachelor|bachelor]]'s [[b/_button|button]]]], [[[[b/_bluebottle|bluebottle]]]], [[[[c/_chicory|chicory]] [[b/_button|button]]]], [[[[c/_common|common]] [[c/_chicory|chicory]]]], [[horseweed]], [[ragged sailor]], [[succory]]
 ---

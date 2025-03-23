@@ -1,9 +1,9 @@
 # Centrist
 ---
 #noun
-- **A person who [[a/_advocates|advocates]] [[c/_centrism|centrism]].**
+- **A person who advocates centrism.**
 ---
 #adjective
-- **Of, pertaining to, or [[a/_advocating|advocating]] [[c/_centrism|centrism]].**
+- **Of, pertaining to, or advocating centrism.**
 ---
 ---

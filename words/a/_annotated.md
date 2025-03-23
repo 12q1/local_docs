@@ -1,9 +1,9 @@
 # Annotated
 ---
 #verb
-- **To [[a/_add|add]] [[a/_annotation|annotation]] to.**
+- **To add annotation to.**
 ---
 #adjective
-- **[[c/_contains|Contains]] or is [[a/_accompanied|accompanied]] by [[a/_annotations|annotations]] or labelled notes.**
+- **Contains or is accompanied by annotations or labelled notes.**
 ---
 ---

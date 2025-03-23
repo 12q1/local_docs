@@ -2,11 +2,11 @@
 ---
 #noun
 - **A wooden disk having holes through which the lanyard is passed, used for tightening shrouds.**
-- **A very [[a/_accurate|accurate]] marksman.**
+- **A very accurate marksman.**
 - **A penchant for noticing a particular thing, or a person who has such a penchant.**
 ---
 #adjective
-- **Very [[a/_accurate|accurate]] in shooting or throwing.**
-- **([[c/_concerning|concerning]] a stare) [[c/_cold|Cold]]; unfriendly.**
+- **Very accurate in shooting or throwing.**
+- **(concerning a stare) Cold; unfriendly.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Conker
 ---
 #noun
-- **A horse [[c/_chestnut|chestnut]], used in the game of [[c/_conkers|conkers]].**
+- **A horse chestnut, used in the game of conkers.**
 ---
 ### Synonyms
 - [[cheggie]], [[obblyonker]]

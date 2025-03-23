@@ -1,13 +1,13 @@
 # Bowers
 ---
 #noun
-- **A [[b/_bedroom|bedroom]] or private [[a/_apartments|apartments]], especially for a woman in a medieval [[c/_castle|castle]].**
-- **A dwelling; a picturesque [[c/_country|country]] [[c/_cottage|cottage]], especially one that is used as a retreat.**
+- **A bedroom or private apartments, especially for a woman in a medieval castle.**
+- **A dwelling; a picturesque country cottage, especially one that is used as a retreat.**
 - **A shady, leafy shelter or recess in a garden or woods.**
-- **A large structure made of grass and [[b/_bright|bright]] objects, used by the [[b/_bower|bower]] [[b/_bird|bird]] during [[c/_courtship|courtship]] displays.**
+- **A large structure made of grass and bright objects, used by the bower bird during courtship displays.**
 ---
 ### Synonyms
-- [[boudoir]]
+- [[[[b/_boudoir|boudoir]]]]
 #noun
 - **A peasant; a farmer.**
 ---
@@ -15,16 +15,16 @@
 - **Either of the two highest trumps in euchre.**
 ---
 #noun
-- **A type of ship's [[a/_anchor|anchor]], [[c/_carried|carried]] at the [[b/_bow|bow]].**
+- **A type of ship's anchor, carried at the bow.**
 ---
 #noun
-- **One who [[b/_bows|bows]] or [[b/_bends|bends]].**
-- **A muscle that [[b/_bends|bends]] a limb, especially the [[a/_arm|arm]].**
+- **One who bows or bends.**
+- **A muscle that bends a limb, especially the arm.**
 ---
 #noun
-- **One who plays [[a/_any|any]] of several [[b/_bow|bow]] instruments, such as the musical [[b/_bow|bow]] or diddley [[b/_bow|bow]].**
+- **One who plays any of several bow instruments, such as the musical bow or diddley bow.**
 ---
 #noun
-- **A young hawk, when it [[b/_begins|begins]] to leave the nest.**
+- **A young hawk, when it begins to leave the nest.**
 ---
 ---

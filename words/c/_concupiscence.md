@@ -1,6 +1,6 @@
 # Concupiscence
 ---
 #noun
-- **An [[a/_ardent|ardent]] [[d/_desire|desire]], especially sexual [[d/_desire|desire]]; lust.**
+- **An ardent desire, especially sexual desire; lust.**
 ---
 ---

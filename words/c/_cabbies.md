@@ -1,6 +1,6 @@
 # Cabbies
 ---
 #noun
-- **A [[c/_cabdriver|cabdriver]]; someone who drives a taxi.**
+- **A cabdriver; someone who drives a taxi.**
 ---
 ---

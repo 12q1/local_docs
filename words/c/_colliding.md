@@ -3,12 +3,12 @@
 #verb
 - **To impact directly, especially if violent.**
 	- _Example: When a body collides with another, then momentum is conserved._
-- **To [[c/_come|come]] into [[c/_conflict|conflict]], or be incompatible.**
+- **To come into conflict, or be incompatible.**
 	- _Example: China collided with the modern world._
 ---
 ### Synonyms
-- [[clash]]
+- [[[[c/_clash|clash]]]]
 #noun
-- **A [[c/_collision|collision]].**
+- **A collision.**
 ---
 ---

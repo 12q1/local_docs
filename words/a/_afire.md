@@ -4,7 +4,7 @@
 - **On fire (often metaphorically).**
 ---
 ### Synonyms
-- [[ablaze]], [[aflame]]
+- [[[[a/_ablaze|ablaze]]]], [[[[a/_aflame|aflame]]]]
 #adverb
 - **On fire (often metaphorically).**
 ---

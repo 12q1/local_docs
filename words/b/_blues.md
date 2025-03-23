@@ -1,26 +1,26 @@
 # Blues
 ---
 #noun
-- **The [[c/_colour|colour]] of the [[c/_clear|clear]] sky or the [[d/_deep|deep]] sea, [[b/_between|between]] green and violet in the visible spectrum, and one of the primary [[a/_additive|additive]] [[c/_colours|colours]] for transmitted light; the [[c/_colour|colour]] obtained by subtracting red and green from white light using magenta and [[c/_cyan|cyan]] filters; or [[a/_any|any]] [[c/_colour|colour]] resembling this.**
-- **A [[b/_blue|blue]] dye or pigment.**
-- **[[a/_any|Any]] of several processes to protect metal [[a/_against|against]] rust.**
-- **[[b/_blue|Blue]] [[c/_clothing|clothing]]**
+- **The colour of the clear sky or the deep sea, between green and violet in the visible spectrum, and one of the primary additive colours for transmitted light; the colour obtained by subtracting red and green from white light using magenta and cyan filters; or any colour resembling this.**
+- **A blue dye or pigment.**
+- **Any of several processes to protect metal against rust.**
+- **Blue clothing**
 	- _Example: The boys in blue marched to the pipers._
-- **(in the plural) A [[b/_blue|blue]] uniform. See [[b/_blues|blues]].**
+- **(in the plural) A blue uniform. See blues.**
 - **A member of law enforcement**
 - **The sky, literally or figuratively.**
 	- _Example: His request for leave came out of the blue._
-- **The ocean; [[d/_deep|deep]] waters.**
+- **The ocean; deep waters.**
 - **The far distance; a remote or distant place.**
-- **[[a/_anything|Anything]] [[b/_blue|blue]], especially to distinguish it from similar objects differing only in [[c/_color|color]].**
-- **A dog or [[c/_cat|cat]] with a slaty gray [[c/_coat|coat]].**
-- **One of the [[c/_colour|colour]] [[b/_balls|balls]] used in snooker, with a value of five points.**
-- **[[a/_any|Any]] of the [[b/_butterflies|butterflies]] of the subfamily Polyommatinae in the family Lycaenidae, most of which have [[b/_blue|blue]] on their wings.**
-- **A [[b/_bluefish|bluefish]].**
-- **An [[a/_argument|argument]].**
-- **A liquid with an intense [[b/_blue|blue]] [[c/_colour|colour]], [[a/_added|added]] to a laundry wash to prevent yellowing of white [[c/_clothes|clothes]].**
+- **Anything blue, especially to distinguish it from similar objects differing only in color.**
+- **A dog or cat with a slaty gray coat.**
+- **One of the colour balls used in snooker, with a value of five points.**
+- **Any of the butterflies of the subfamily Polyommatinae in the family Lycaenidae, most of which have blue on their wings.**
+- **A bluefish.**
+- **An argument.**
+- **A liquid with an intense blue colour, added to a laundry wash to prevent yellowing of white clothes.**
 - **A type of firecracker.**
-- **A [[b/_bluestocking|bluestocking]].**
-- **One of the three [[c/_color|color]] [[c/_charges|charges]] for quarks.**
+- **A bluestocking.**
+- **One of the three color charges for quarks.**
 ---
 ---

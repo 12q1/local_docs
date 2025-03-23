@@ -1,8 +1,8 @@
 # Crusader
 ---
 #noun
-- **A fighter in the medieval [[c/_crusades|Crusades]].**
+- **A fighter in the medieval Crusades.**
 	- _Example: the crusaders of the Middle Ages_
-- **A person engaged in a [[c/_crusade|crusade]].**
+- **A person engaged in a crusade.**
 ---
 ---

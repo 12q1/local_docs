@@ -1,10 +1,10 @@
 # Correlates
 ---
 #noun
-- **Either of a pair of things related by a [[c/_correlation|correlation]]; a [[c/_correlative|correlative]].**
+- **Either of a pair of things related by a correlation; a correlative.**
 ---
 #verb
-- **To [[c/_compare|compare]] things and [[b/_bring|bring]] them into a relation having [[c/_corresponding|corresponding]] [[c/_characteristics|characteristics]]**
-- **To be related by a [[c/_correlation|correlation]]**
+- **To compare things and bring them into a relation having corresponding characteristics**
+- **To be related by a correlation**
 ---
 ---

@@ -1,10 +1,10 @@
 # Communicators
 ---
 #noun
-- **Someone who, or something that [[c/_communicates|communicates]].**
+- **Someone who, or something that communicates.**
 	- _Example: We'll let Nick give the presentation next week: he's a good communicator._
-- **[[a/_any|Any]] of several electronic devices that [[a/_allow|allow]] people with various disabilities to [[c/_communicate|communicate]] via displays or [[a/_artificial|artificial]] speech.**
-- **A usually portable [[c/_communications|communications]] device.**
+- **Any of several electronic devices that allow people with various disabilities to communicate via displays or artificial speech.**
+- **A usually portable communications device.**
 ---
 ### Synonyms
 - [[commlink]]

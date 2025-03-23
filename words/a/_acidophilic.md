@@ -1,9 +1,9 @@
 # Acidophilic
 ---
 #adjective
-- **Thriving under [[a/_acidic|acidic]] [[c/_conditions|conditions]]; relating to or [[b/_being|being]] an [[a/_acidophile|acidophile]].**
-- **Easily stained with [[a/_acidic|acidic]] dyes, such as eosin.**
+- **Thriving under acidic conditions; relating to or being an acidophile.**
+- **Easily stained with acidic dyes, such as eosin.**
 ---
 ### Synonyms
-- [[acidophilous]]
+- [[[[a/_acidophilous|acidophilous]]]]
 ---

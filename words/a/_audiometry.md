@@ -1,6 +1,6 @@
 # Audiometry
 ---
 #noun
-- **The quantitative [[a/_assessment|assessment]] of a person's hearing [[a/_ability|ability]], especially by means of an [[a/_audiometer|audiometer]].**
+- **The quantitative assessment of a person's hearing ability, especially by means of an audiometer.**
 ---
 ---

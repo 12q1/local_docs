@@ -1,15 +1,15 @@
 # Curtailing
 ---
 #verb
-- **To [[c/_cut|cut]] short the tail of an [[a/_animal|animal]]**
+- **To cut short the tail of an animal**
 	- _Example: Curtailing horses procured long horse-hair._
-- **To shorten or [[a/_abridge|abridge]] the duration of something; to truncate.**
+- **To shorten or abridge the duration of something; to truncate.**
 	- _Example: When the audience grew restless, the speaker curtailed her speech._
-- **To limit or restrict, keep in [[c/_check|check]].**
+- **To limit or restrict, keep in check.**
 ---
 ### Synonyms
-- [[crop]], [[dock]], [[behedge]], [[control]], [[limit]], [[restrain]], [[abbreviate]], [[shorten]]
+- [[[[c/_crop|crop]]]], [[[[d/_dock|dock]]]], [[[[b/_behedge|behedge]]]], [[[[c/_control|control]]]], [[limit]], [[restrain]], [[[[a/_abbreviate|abbreviate]]]], [[shorten]]
 #noun
-- **A [[c/_cutting|cutting]] short; truncation.**
+- **A cutting short; truncation.**
 ---
 ---

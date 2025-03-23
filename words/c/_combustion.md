@@ -1,11 +1,11 @@
 # Combustion
 ---
 #noun
-- **The [[a/_act|act]] or process of [[b/_burning|burning]].**
-- **A process where two [[c/_chemicals|chemicals]] are [[c/_combined|combined]] to produce heat.**
-- **A process wherein a fuel is [[c/_combined|combined]] with oxygen, usually at high temperature, releasing heat.**
-- **Violent [[a/_agitation|agitation]], tumult.**
+- **The act or process of burning.**
+- **A process where two chemicals are combined to produce heat.**
+- **A process wherein a fuel is combined with oxygen, usually at high temperature, releasing heat.**
+- **Violent agitation, tumult.**
 ---
 ### Synonyms
-- [[cremation]], [[incineration]]
+- [[[[c/_cremation|cremation]]]], [[incineration]]
 ---

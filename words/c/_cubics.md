@@ -1,8 +1,8 @@
 # Cubics
 ---
 #noun
-- **A [[c/_cubic|cubic]] [[c/_curve|curve]].**
+- **A cubic curve.**
 ---
 ### Synonyms
-- [[cubic curve]]
+- [[[[c/_cubic|cubic]] [[c/_curve|curve]]]]
 ---

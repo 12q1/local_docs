@@ -1,9 +1,9 @@
 # Consonances
 ---
 #noun
-- **The repetition of [[c/_consonant|consonant]] sounds, but not vowels as in [[a/_assonance|assonance]].**
-- **Harmony; [[a/_agreement|agreement]]; lack of discordance.**
+- **The repetition of consonant sounds, but not vowels as in assonance.**
+- **Harmony; agreement; lack of discordance.**
 ---
 ### Antonyms
-- [[discordance]], [[dissonance]]
+- [[[[d/_discordance|discordance]]]], [[[[d/_dissonance|dissonance]]]]
 ---

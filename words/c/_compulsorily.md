@@ -1,7 +1,7 @@
 # Compulsorily
 ---
 #adverb
-- **In a [[c/_compulsory|compulsory]] manner.**
+- **In a compulsory manner.**
 	- _Example: Soldiers were drafted compulsorily._
 ---
 ---

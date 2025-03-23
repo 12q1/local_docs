@@ -1,9 +1,9 @@
 # Abominating
 ---
 #verb
-- **To feel disgust towards; to loathe or detest thoroughly; to hate in the highest [[d/_degree|degree]], as if with religious dread.**
+- **To feel disgust towards; to loathe or detest thoroughly; to hate in the highest degree, as if with religious dread.**
 - **To dislike strongly.**
 ---
 ### Synonyms
-- [[abhor]], [[detest]], [[loathe]], [[abhor]]
+- [[[[a/_abhor|abhor]]]], [[[[d/_detest|detest]]]], [[loathe]], [[[[a/_abhor|abhor]]]]
 ---

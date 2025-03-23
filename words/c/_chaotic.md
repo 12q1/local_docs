@@ -1,13 +1,13 @@
 # Chaotic
 ---
 #noun
-- **A [[c/_character|character]] having a [[c/_chaotic|chaotic]] [[a/_alignment|alignment]].**
+- **A character having a chaotic alignment.**
 ---
 #adjective
-- **Filled with [[c/_chaos|chaos]].**
+- **Filled with chaos.**
 - **Extremely disorganized or in disarray.**
-- **Highly sensitive to starting [[c/_conditions|conditions]], so that a small [[c/_change|change]] to them may yield a very different outcome.**
-- **[[a/_aligned|Aligned]] [[a/_against|against]] following or upholding laws and principles.**
+- **Highly sensitive to starting conditions, so that a small change to them may yield a very different outcome.**
+- **Aligned against following or upholding laws and principles.**
 ---
 ### Synonyms
 - [[shambolic]]

@@ -8,6 +8,6 @@
 	- _Example: If you dawdle on your daily walk, you won't get as much exercise._
 ---
 #noun
-- **The [[a/_act|act]] of one who [[d/_dawdles|dawdles]].**
+- **The act of one who dawdles.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Catnap
 ---
 #noun
-- **A [[b/_brief|brief]], light sleep.**
+- **A brief, light sleep.**
 ---
 #verb
-- **To take a [[c/_catnap|catnap]], to take a short sleep or nap.**
+- **To take a catnap, to take a short sleep or nap.**
 ---
 ---

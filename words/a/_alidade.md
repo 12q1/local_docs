@@ -1,8 +1,8 @@
 # Alidade
 ---
 #noun
-- **A sighting device used for measuring [[a/_angles|angles]].**
+- **A sighting device used for measuring angles.**
 ---
 ### Synonyms
-- [[diopter]], [[turning board]]
+- [[[[d/_diopter|diopter]]]], [[turning [[b/_board|board]]]]
 ---

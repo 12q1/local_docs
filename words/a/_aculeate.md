@@ -1,7 +1,7 @@
 # Aculeate
 ---
 #noun
-- **[[a/_any|Any]] insect of the infraorder [[a/_aculeata|Aculeata]], which have ovipositors modified into stingers.**
+- **Any insect of the infraorder Aculeata, which have ovipositors modified into stingers.**
 ---
 #adjective
 - **Having a sting; sharp like a prickle.**

@@ -1,6 +1,6 @@
 # Dayrooms
 ---
 #noun
-- **A [[c/_common|common]] room in a [[b/_barracks|barracks]] or dormitory where the inhabitants [[c/_can|can]] mingle and socialize.**
+- **A common room in a barracks or dormitory where the inhabitants can mingle and socialize.**
 ---
 ---

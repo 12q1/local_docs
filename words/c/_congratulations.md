@@ -1,9 +1,9 @@
 # Congratulations
 ---
 #noun
-- **The [[a/_act|act]] of [[c/_congratulating|congratulating]].**
+- **The act of congratulating.**
 ---
 #interjection
-- **Expressing praise and [[a/_approval|approval]], expressing [[a/_approbation|approbation]].**
+- **Expressing praise and approval, expressing approbation.**
 ---
 ---

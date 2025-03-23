@@ -1,9 +1,9 @@
 # Biomedical
 ---
 #noun
-- **A product of the [[b/_biomedicine|biomedicine]] industry.**
+- **A product of the biomedicine industry.**
 ---
 #adjective
-- **Of or pertaining to [[b/_biomedicine|biomedicine]].**
+- **Of or pertaining to biomedicine.**
 ---
 ---

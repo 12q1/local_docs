@@ -1,9 +1,9 @@
 # Depressurize
 ---
 #verb
-- **To reduce the [[a/_air|air]] pressure within a [[c/_chamber|chamber]].**
-- **To have the pressure of one's environmental [[a/_atmosphere|atmosphere]] reduced.**
+- **To reduce the air pressure within a chamber.**
+- **To have the pressure of one's environmental atmosphere reduced.**
 ---
 ### Synonyms
-- [[decompress]]
+- [[[[d/_decompress|decompress]]]]
 ---

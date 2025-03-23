@@ -1,8 +1,8 @@
 # Costard
 ---
 #noun
-- **A large [[c/_cooking|cooking]] [[a/_apple|apple]].**
-- **The tree on which large [[c/_cooking|cooking]] [[a/_apples|apples]] grow.**
+- **A large cooking apple.**
+- **The tree on which large cooking apples grow.**
 - **The human head.**
 ---
 ---

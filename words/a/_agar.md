@@ -1,9 +1,9 @@
 # Agar
 ---
 #noun
-- **A gelatinous material obtained from red [[a/_algae|algae]], especially Gracilaria species, used as a [[b/_bacterial|bacterial]] [[c/_culture|culture]] medium, in electrophoresis and as a food [[a/_additive|additive]].**
-- **A [[c/_culture|culture]] medium [[b/_based|based]] on this material.**
+- **A gelatinous material obtained from red algae, especially Gracilaria species, used as a bacterial culture medium, in electrophoresis and as a food additive.**
+- **A culture medium based on this material.**
 ---
 ### Synonyms
-- [[E406]], [[agal-agal]], [[agar-agar]]
+- [[E406]], [[[[a/_agal|agal]]-[[a/_agal|agal]]]], [[[[a/_agar|agar]]-[[a/_agar|agar]]]]
 ---

@@ -1,13 +1,13 @@
 # Ample
 ---
 #adjective
-- **Large; great in size, extent, [[c/_capacity|capacity]], or [[b/_bulk|bulk]]; for example spacious, roomy or widely extended.**
+- **Large; great in size, extent, capacity, or bulk; for example spacious, roomy or widely extended.**
 	- _Example: an ample house_
-- **Fully sufficient; [[a/_abundant|abundant]]; plenty**
+- **Fully sufficient; abundant; plenty**
 	- _Example: ample material_
-- **Not [[c/_contracted|contracted]] or [[b/_brief|brief]]; not [[c/_concise|concise]]; extended; diffusive**
+- **Not contracted or brief; not concise; extended; diffusive**
 	- _Example: an ample story_
 ---
 ### Synonyms
-- [[abundant]], [[bountiful]], [[capacious]], [[copious]], [[extensive]], [[full]], [[liberal]], [[munificent]], [[plenteous]], [[plentiful]], [[rich]], [[spacious]], [[wide]]
+- [[[[a/_abundant|abundant]]]], [[[[b/_bountiful|bountiful]]]], [[[[c/_capacious|capacious]]]], [[[[c/_copious|copious]]]], [[extensive]], [[full]], [[liberal]], [[munificent]], [[plenteous]], [[plentiful]], [[rich]], [[spacious]], [[wide]]
 ---

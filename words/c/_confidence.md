@@ -1,10 +1,10 @@
 # Confidence
 ---
 #noun
-- **Self-[[a/_assurance|assurance]].**
-- **A feeling of [[c/_certainty|certainty]]; firm trust or [[b/_belief|belief]]; faith.**
+- **Self-assurance.**
+- **A feeling of certainty; firm trust or belief; faith.**
 - **Information held in secret.**
-- **[[b/_boldness|Boldness]]; presumption.**
+- **Boldness; presumption.**
 ---
 ### Antonyms
 - [[timidity]]

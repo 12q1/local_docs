@@ -1,7 +1,7 @@
 # Balti
 ---
 #noun
-- **A style of Pakistani [[c/_cooking|cooking]] in which the food is [[c/_cooked|cooked]] in an iron pan having two handles.**
-- **A dish [[c/_cooked|cooked]] in this style.**
+- **A style of Pakistani cooking in which the food is cooked in an iron pan having two handles.**
+- **A dish cooked in this style.**
 ---
 ---

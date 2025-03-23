@@ -1,6 +1,6 @@
 # Boxy
 ---
 #adjective
-- **[[b/_box|Box]]-like or [[b/_box|box]]-shaped.**
+- **Box-like or box-shaped.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Crumbly
 ---
 #noun
-- **A [[d/_decrepit|decrepit]] old person.**
+- **A decrepit old person.**
 ---
 #adjective
-- **Easy to [[b/_break|break]] into small fragments; [[b/_brittle|brittle]] or friable.**
+- **Easy to break into small fragments; brittle or friable.**
 ---
 ---

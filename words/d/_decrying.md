@@ -1,10 +1,10 @@
 # Decrying
 ---
 #verb
-- **To [[d/_denounce|denounce]] as harmful.**
-- **To [[b/_blame|blame]] for ills.**
+- **To denounce as harmful.**
+- **To blame for ills.**
 ---
 #noun
-- **A [[d/_decrial|decrial]].**
+- **A decrial.**
 ---
 ---

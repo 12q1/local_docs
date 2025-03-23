@@ -1,9 +1,9 @@
 # Clit
 ---
 #noun
-- **The [[c/_clitoris|clitoris]].**
+- **The clitoris.**
 ---
 #verb
-- **(often with "off") To stimulate the [[c/_clitoris|clitoris]].**
+- **(often with "off") To stimulate the clitoris.**
 ---
 ---

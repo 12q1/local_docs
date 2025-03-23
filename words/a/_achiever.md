@@ -1,7 +1,7 @@
 # Achiever
 ---
 #noun
-- **One who [[a/_achieves|achieves]] something.**
+- **One who achieves something.**
 - **One who tends to succeed; a winner.**
 ---
 ---

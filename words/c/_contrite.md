@@ -1,14 +1,14 @@
 # Contrite
 ---
 #noun
-- **A [[c/_contrite|contrite]] person; a penitent.**
+- **A contrite person; a penitent.**
 ---
 #adjective
-- **Sincerely penitent or feeling regret or sorrow, especially for one’s own [[a/_actions|actions]]; [[a/_apologetic|apologetic]].**
-- **Thoroughly [[b/_bruised|bruised]] or [[b/_broken|broken]].**
+- **Sincerely penitent or feeling regret or sorrow, especially for one’s own actions; apologetic.**
+- **Thoroughly bruised or broken.**
 ---
 ### Synonyms
-- [[apologetic]]
+- [[[[a/_apologetic|apologetic]]]]
 ### Antonyms
-- [[attrite]]
+- [[[[a/_attrite|attrite]]]]
 ---

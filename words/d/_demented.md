@@ -1,12 +1,12 @@
 # Demented
 ---
 #verb
-- **To drive mad; to [[c/_craze|craze]]**
+- **To drive mad; to craze**
 ---
 #adjective
 - **Insane or mentally ill.**
-- **Suffering from [[d/_dementia|dementia]].**
-- **[[c/_crazy|Crazy]]; ridiculous.**
+- **Suffering from dementia.**
+- **Crazy; ridiculous.**
 	- _Example: a demented idea_
 ---
 ---

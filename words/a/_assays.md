@@ -1,20 +1,20 @@
 # Assays
 ---
 #noun
-- **Trial, [[a/_attempt|attempt]].**
-- **Examination and [[d/_determination|determination]]; test.**
-- **The qualitative or quantitative [[c/_chemical|chemical]] [[a/_analysis|analysis]] of something.**
-- **Trial by [[d/_danger|danger]] or by [[a/_affliction|affliction]]; [[a/_adventure|adventure]]; risk; hardship; state of [[b/_being|being]] tried.**
+- **Trial, attempt.**
+- **Examination and determination; test.**
+- **The qualitative or quantitative chemical analysis of something.**
+- **Trial by danger or by affliction; adventure; risk; hardship; state of being tried.**
 - **Tested purity or value.**
-- **The [[a/_act|act]] or process of [[a/_ascertaining|ascertaining]] the proportion of a particular metal in an ore or [[a/_alloy|alloy]]; especially, the [[d/_determination|determination]] of the proportion of gold or silver in [[b/_bullion|bullion]] or [[c/_coin|coin]].**
-- **The [[a/_alloy|alloy]] or metal to be [[a/_assayed|assayed]].**
+- **The act or process of ascertaining the proportion of a particular metal in an ore or alloy; especially, the determination of the proportion of gold or silver in bullion or coin.**
+- **The alloy or metal to be assayed.**
 ---
 #verb
-- **To [[a/_attempt|attempt]] (something).**
-- **To try, [[a/_attempt|attempt]] (to do something).**
-- **To [[a/_analyze|analyze]] or estimate the [[c/_composition|composition]] or value of (a metal, ore etc.).**
-- **To test the [[a/_abilities|abilities]] of (someone) in [[c/_combat|combat]]; to fight.**
-- **To [[a/_affect|affect]].**
+- **To attempt (something).**
+- **To try, attempt (to do something).**
+- **To analyze or estimate the composition or value of (a metal, ore etc.).**
+- **To test the abilities of (someone) in combat; to fight.**
+- **To affect.**
 - **To try tasting, as food or drink.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Bonhomous
 ---
 #adjective
-- **Good-natured; full of [[b/_bonhomie|bonhomie]].**
+- **Good-natured; full of bonhomie.**
 ---
 ### Synonyms
 - [[friendly]], [[genial]]

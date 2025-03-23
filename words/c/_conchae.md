@@ -1,9 +1,9 @@
 # Conchae
 ---
 #noun
-- **[[a/_any|Any]] shell-shaped structure.**
-- **The [[d/_deepest|deepest]] indentation of the [[c/_cartilage|cartilage]] of the human ear, [[a/_attaching|attaching]] to the mastoid [[b/_bone|bone]].**
-- **[[a/_any|Any]] of the nasal [[c/_conchae|conchae]].**
-- **An [[a/_apse|apse]], or the plain semidome of an [[a/_apse|apse]].**
+- **Any shell-shaped structure.**
+- **The deepest indentation of the cartilage of the human ear, attaching to the mastoid bone.**
+- **Any of the nasal conchae.**
+- **An apse, or the plain semidome of an apse.**
 ---
 ---

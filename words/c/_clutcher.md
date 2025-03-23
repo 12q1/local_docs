@@ -1,6 +1,6 @@
 # Clutcher
 ---
 #noun
-- **One who [[c/_clutches|clutches]].**
+- **One who clutches.**
 ---
 ---

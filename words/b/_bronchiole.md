@@ -1,8 +1,8 @@
 # Bronchiole
 ---
 #noun
-- **[[a/_any|Any]] of the small [[c/_cartilage|cartilage]]-less [[b/_branches|branches]] of a [[b/_bronchus|bronchus]].**
+- **Any of the small cartilage-less branches of a bronchus.**
 ---
 ### Synonyms
-- [[bronchiolus]]
+- [[[[b/_bronchiolus|bronchiolus]]]]
 ---

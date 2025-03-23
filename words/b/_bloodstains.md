@@ -1,6 +1,6 @@
 # Bloodstains
 ---
 #noun
-- **A spot or [[a/_area|area]] that has [[b/_been|been]] discolored by having [[a/_absorbed|absorbed]] [[b/_blood|blood]].**
+- **A spot or area that has been discolored by having absorbed blood.**
 ---
 ---

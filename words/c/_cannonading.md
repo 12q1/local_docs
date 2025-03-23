@@ -1,9 +1,9 @@
 # Cannonading
 ---
 #verb
-- **To discharge [[a/_artillery|artillery]] fire upon.**
+- **To discharge artillery fire upon.**
 ---
 #noun
-- **A discharge of [[a/_artillery|artillery]] fire.**
+- **A discharge of artillery fire.**
 ---
 ---

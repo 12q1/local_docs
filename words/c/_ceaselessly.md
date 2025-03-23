@@ -1,7 +1,7 @@
 # Ceaselessly
 ---
 #adverb
-- **Without [[c/_ceasing|ceasing]].**
+- **Without ceasing.**
 ---
 ### Synonyms
 - [[eternally]], [[nonstop]], [[unendingly]]

@@ -1,8 +1,8 @@
 # Cursive
 ---
 #noun
-- **A [[c/_cursive|cursive]] [[c/_character|character]], letter or font.**
-- **A manuscript written in [[c/_cursive|cursive]] [[c/_characters|characters]].**
+- **A cursive character, letter or font.**
+- **A manuscript written in cursive characters.**
 - **Joined-up handwriting.**
 ---
 ### Antonyms
@@ -10,6 +10,6 @@
 #adjective
 - **Running; flowing.**
 - **(of writing) Having successive letters joined together.**
-- **(grammar) Of or relating to a grammatical [[a/_aspect|aspect]] relating to an [[a/_action|action]] that occurs in a straight line (in space or time).**
+- **(grammar) Of or relating to a grammatical aspect relating to an action that occurs in a straight line (in space or time).**
 ---
 ---

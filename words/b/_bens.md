@@ -4,15 +4,15 @@
 - **A prayer; a petition.**
 ---
 #noun
-- **[[b/_ben|Ben]]-room: The inner room of a two-room hut or shack (as opposed to the but).**
+- **Ben-room: The inner room of a two-room hut or shack (as opposed to the but).**
 ---
 #noun
-- **A tree, Moringa oleifera or horseradish tree of [[a/_arabia|Arabia]] and India, which produces oil of [[b/_ben|ben]].**
-- **The winged seed of the [[b/_ben|ben]] tree.**
-- **The oil of the [[b/_ben|ben]] seed.**
+- **A tree, Moringa oleifera or horseradish tree of Arabia and India, which produces oil of ben.**
+- **The winged seed of the ben tree.**
+- **The oil of the ben seed.**
 ---
 ### Synonyms
-- [[drumstick tree]], [[horseradish tree]], [[moringa]]
+- [[[[d/_drumstick|drumstick]] tree]], [[horseradish tree]], [[moringa]]
 #noun
 - **A Scottish or Irish mountain or high peak.**
 ---

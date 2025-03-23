@@ -1,7 +1,7 @@
 # Dehumanising
 ---
 #verb
-- **To take [[a/_away|away]] humanity; to remove or [[d/_deny|deny]] human qualities, [[c/_characteristics|characteristics]], or [[a/_attributes|attributes]]; to impersonalize.**
+- **To take away humanity; to remove or deny human qualities, characteristics, or attributes; to impersonalize.**
 ---
 ### Antonyms
 - [[humanize]]

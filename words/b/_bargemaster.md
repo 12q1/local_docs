@@ -1,7 +1,7 @@
 # Bargemaster
 ---
 #noun
-- **The person in [[c/_charge|charge]] of transport on a [[b/_barge|barge]] or [[b/_barges|barges]].**
+- **The person in charge of transport on a barge or barges.**
 	- _Example: In Tudor days, the royal bargemaster was a notable courtier, responsible for taking the king’s party to many places along the Thames_
 ---
 ---

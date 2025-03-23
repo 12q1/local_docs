@@ -1,0 +1,6 @@
+# Dhurra
+---
+#noun
+- **A kind of millet, a variety of sorghum; Indian millet (Sorghum bicolor).**
+---
+---

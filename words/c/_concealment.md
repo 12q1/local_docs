@@ -2,7 +2,7 @@
 ---
 #noun
 - **The practice of keeping secrets.**
-- **The [[c/_condition|condition]] of [[b/_being|being]] hidden or [[c/_concealed|concealed]].**
+- **The condition of being hidden or concealed.**
 - **Protection from observation or surveillance.**
 ---
 ---

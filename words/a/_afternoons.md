@@ -1,10 +1,10 @@
 # Afternoons
 ---
 #noun
-- **The part of the [[d/_day|day]] from noon or lunchtime until sunset, evening, or suppertime or 6pm.**
-- **The later part of [[a/_anything|anything]], often with implications of [[d/_decline|decline]].**
-- **A party or social event held in the [[a/_afternoon|afternoon]].**
+- **The part of the day from noon or lunchtime until sunset, evening, or suppertime or 6pm.**
+- **The later part of anything, often with implications of decline.**
+- **A party or social event held in the afternoon.**
 ---
 ### Synonyms
-- [[aft]], [[arvo]], [[undern]]
+- [[[[a/_aft|aft]]]], [[[[a/_arvo|arvo]]]], [[undern]]
 ---

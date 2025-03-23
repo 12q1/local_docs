@@ -1,7 +1,7 @@
 # Boilerhouse
 ---
 #noun
-- **A [[b/_building|building]] [[c/_containing|containing]] a [[b/_boiler|boiler]].**
-- **The [[d/_deckhouse|deckhouse]] [[a/_above|above]] a ship's [[b/_boiler|boiler]] and engine room.**
+- **A building containing a boiler.**
+- **The deckhouse above a ship's boiler and engine room.**
 ---
 ---

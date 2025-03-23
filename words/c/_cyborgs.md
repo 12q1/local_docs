@@ -3,8 +3,8 @@
 #noun
 - **A person who is part machine, a robot who is part organic.**
 - **A robot who has an organic past.**
-- **A human with electronic or [[b/_bionic|bionic]] prostheses.**
+- **A human with electronic or bionic prostheses.**
 ---
 ### Synonyms
-- [[bion]], [[cyberman]], [[cybernetic organism]]
+- [[[[b/_bion|bion]]]], [[cyberman]], [[[[c/_cybernetic|cybernetic]] organism]]
 ---

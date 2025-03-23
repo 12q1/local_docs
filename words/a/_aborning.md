@@ -1,10 +1,10 @@
 # Aborning
 ---
 #adjective
-- **While [[b/_being|being]] [[b/_born|born]] or produced.**
+- **While being born or produced.**
 	- _Example: This festival is an excellent chance to see new talent aborning._
 ---
 #adverb
-- **That is in the process of [[b/_being|being]] [[b/_born|born]]; [[c/_coming|coming]] into existence; [[b/_before|before]] [[c/_coming|coming]] to [[c/_completion|completion]].**
+- **That is in the process of being born; coming into existence; before coming to completion.**
 ---
 ---

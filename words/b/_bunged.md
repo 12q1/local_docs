@@ -1,9 +1,9 @@
 # Bunged
 ---
 #verb
-- **To plug, as with a [[b/_bung|bung]].**
-- **To put or throw somewhere without [[c/_care|care]]; to [[c/_chuck|chuck]].**
-- **To [[b/_batter|batter]], [[b/_bruise|bruise]]; to [[c/_cause|cause]] to [[b/_bulge|bulge]] or swell.**
-- **To pass a [[b/_bribe|bribe]].**
+- **To plug, as with a bung.**
+- **To put or throw somewhere without care; to chuck.**
+- **To batter, bruise; to cause to bulge or swell.**
+- **To pass a bribe.**
 ---
 ---

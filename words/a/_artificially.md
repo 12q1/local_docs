@@ -1,9 +1,9 @@
 # Artificially
 ---
 #adverb
-- **In an [[a/_artificial|artificial]] manner.**
+- **In an artificial manner.**
 	- _Example: The actor spoke his lines artificially, with too much intonation._
-- **By or [[b/_because|because]] of human effort.**
+- **By or because of human effort.**
 	- _Example: The chocolate was flavoured artificially._
 ---
 ### Antonyms

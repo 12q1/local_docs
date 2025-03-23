@@ -1,8 +1,8 @@
 # Advisors
 ---
 #noun
-- **One who offers [[a/_advice|advice]].**
+- **One who offers advice.**
 ---
 ### Synonyms
-- [[consultant]], [[counselor]]
+- [[[[c/_consultant|consultant]]]], [[[[c/_counselor|counselor]]]]
 ---

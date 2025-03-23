@@ -1,7 +1,7 @@
 # Computerization
 ---
 #noun
-- **The [[a/_act|act]] of [[c/_computerizing|computerizing]] something, or something [[c/_computerized|computerized]].**
+- **The act of computerizing something, or something computerized.**
 ---
 ### Synonyms
 - [[informatisation]]

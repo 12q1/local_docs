@@ -1,11 +1,11 @@
 # Abnormalities
 ---
 #noun
-- **The state or quality of [[b/_being|being]] [[a/_abnormal|abnormal]]; variation; irregularity.**
-- **Something [[a/_abnormal|abnormal]]; an [[a/_aberration|aberration]]; an [[a/_abnormal|abnormal]] occurrence or feature.**
+- **The state or quality of being abnormal; variation; irregularity.**
+- **Something abnormal; an aberration; an abnormal occurrence or feature.**
 ---
 ### Synonyms
-- [[aberrant]], [[deviant]], [[outlier]], [[abnormalcy]], [[anomalousness]], [[enormity]], [[weirdness]]
+- [[[[a/_aberrant|aberrant]]]], [[[[d/_deviant|deviant]]]], [[outlier]], [[[[a/_abnormalcy|abnormalcy]]]], [[[[a/_anomalousness|anomalousness]]]], [[enormity]], [[weirdness]]
 ### Antonyms
 - [[normality]]
 ---

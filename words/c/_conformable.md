@@ -2,8 +2,8 @@
 ---
 #adjective
 - **Having the same shape or form; very similar.**
-- **Suitable; [[c/_compliant|compliant]].**
+- **Suitable; compliant.**
 ---
 ### Synonyms
-- [[alike]], [[corresponding]], [[similar]], [[suitable]]
+- [[[[a/_alike|alike]]]], [[[[c/_corresponding|corresponding]]]], [[similar]], [[suitable]]
 ---

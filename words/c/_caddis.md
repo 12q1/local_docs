@@ -1,8 +1,8 @@
 # Caddis
 ---
 #noun
-- **The larva of a [[c/_caddis|caddis]] fly. They generally live in [[c/_cylindrical|cylindrical]] [[c/_cases|cases]], open at each end, and [[c/_covered|covered]] externally with [[d/_debris|debris]].**
-- **A rough woolen [[c/_cloth|cloth]]; [[c/_caddice|caddice]].**
+- **The larva of a caddis fly. They generally live in cylindrical cases, open at each end, and covered externally with debris.**
+- **A rough woolen cloth; caddice.**
 - **A kind of worsted lace or ribbon.**
 ---
 ---

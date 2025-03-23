@@ -1,9 +1,9 @@
 # Canoeing
 ---
 #verb
-- **To ride or paddle a [[c/_canoe|canoe]].**
+- **To ride or paddle a canoe.**
 ---
 #noun
-- **A water sport involving travelling or racing in [[c/_canoes|canoes]] or kayaks.**
+- **A water sport involving travelling or racing in canoes or kayaks.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Countrymen
 ---
 #noun
-- **Somebody from a [[c/_certain|certain]] [[c/_country|country]].**
-- **Somebody from one's own [[c/_country|country]]; a fellow [[c/_countryman|countryman]]; [[c/_compatriot|compatriot]].**
-- **A [[c/_country|country]] dweller, especially a follower of [[c/_country|country]] pursuits.**
+- **Somebody from a certain country.**
+- **Somebody from one's own country; a fellow countryman; compatriot.**
+- **A country dweller, especially a follower of country pursuits.**
 - **(traveller) A settled person, as opposed to a traveller.**
 ---
 ---

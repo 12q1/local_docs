@@ -1,8 +1,8 @@
 # Bologna
 ---
 #noun
-- **A seasoned Italian sausage made from [[b/_beef|beef]], pork or veal.**
+- **A seasoned Italian sausage made from beef, pork or veal.**
 ---
 ### Synonyms
-- [[Bologna sausage]], [[mortadella]]
+- [[[[b/_bologna|Bologna]] sausage]], [[mortadella]]
 ---

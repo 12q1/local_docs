@@ -1,14 +1,14 @@
 # Chirring
 ---
 #verb
-- **To make the prolonged trilling sound of an insect (e.g. a grasshopper, a [[c/_cicada|cicada]]).**
+- **To make the prolonged trilling sound of an insect (e.g. a grasshopper, a cicada).**
 ---
 ### Synonyms
-- [[chirp]], [[stridulate]]
+- [[[[c/_chirp|chirp]]]], [[stridulate]]
 #verb
-- **To [[c/_coo|coo]] like a pigeon.**
+- **To coo like a pigeon.**
 ---
 #noun
-- **The sound of a [[c/_chirr|chirr]].**
+- **The sound of a chirr.**
 ---
 ---

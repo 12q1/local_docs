@@ -1,9 +1,9 @@
 # Craftspeople
 ---
 #noun
-- **Someone who is highly skilled at their trade; an [[a/_artificer|artificer]].**
-- **A person who produces [[a/_arts|arts]] and [[c/_crafts|crafts]].**
+- **Someone who is highly skilled at their trade; an artificer.**
+- **A person who produces arts and crafts.**
 ---
 ### Synonyms
-- [[artificer]], [[artisan]], [[artist]]
+- [[[[a/_artificer|artificer]]]], [[[[a/_artisan|artisan]]]], [[[[a/_artist|artist]]]]
 ---

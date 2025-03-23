@@ -1,7 +1,7 @@
 # Boastful
 ---
 #adjective
-- **Tending to [[b/_boast|boast]] or [[b/_brag|brag]].**
+- **Tending to boast or brag.**
 	- _Example: He wrote a boastful autobiography, recording all his great deeds._
 ---
 ---

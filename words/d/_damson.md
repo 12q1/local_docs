@@ -5,6 +5,6 @@
 - **The edible fruit of this tree.**
 ---
 #adjective
-- **The [[c/_color|color]] of the fruit of this tree, a very [[d/_deep|deep]] purple.**
+- **The color of the fruit of this tree, a very deep purple.**
 ---
 ---

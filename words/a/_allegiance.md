@@ -1,8 +1,8 @@
 # Allegiance
 ---
 #noun
-- **Loyalty to some [[c/_cause|cause]], nation or ruler.**
+- **Loyalty to some cause, nation or ruler.**
 ---
 ### Synonyms
-- [[adherence]], [[fidelity]], [[loyalty]]
+- [[[[a/_adherence|adherence]]]], [[fidelity]], [[loyalty]]
 ---

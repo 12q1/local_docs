@@ -1,8 +1,8 @@
 # Amiability
 ---
 #noun
-- **Friendliness, especially easy [[a/_approachability|approachability]] owing to a [[c/_cheerful|cheerful]] and pleasant disposition.**
+- **Friendliness, especially easy approachability owing to a cheerful and pleasant disposition.**
 ---
 ### Synonyms
-- [[affability]], [[amicability]], [[approachability]], [[cordiality]], [[douceur]], [[friendliness]]
+- [[[[a/_affability|affability]]]], [[[[a/_amicability|amicability]]]], [[[[a/_approachability|approachability]]]], [[[[c/_cordiality|cordiality]]]], [[[[d/_douceur|douceur]]]], [[friendliness]]
 ---

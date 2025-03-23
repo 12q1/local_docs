@@ -1,10 +1,10 @@
 # Am
 ---
 #adverb
-- **[[b/_before|Before]] noon.**
+- **Before noon.**
 ---
 ### Synonyms
 - [[forenoon]]
 ### Antonyms
-- [[afternoon]], [[p.m.]]
+- [[[[a/_afternoon|afternoon]]]], [[p.m.]]
 ---

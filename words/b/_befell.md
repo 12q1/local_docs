@@ -1,7 +1,7 @@
 # Befell
 ---
 #verb
-- **To fall upon; fall [[a/_all|all]] over; overtake**
+- **To fall upon; fall all over; overtake**
 	- _Example: At dusk an unusual calm befalls the wetlands._
 - **To happen.**
 - **To happen to.**
@@ -9,5 +9,5 @@
 - **To fall.**
 ---
 ### Synonyms
-- [[come to pass]], [[occur]], [[transpire]]
+- [[[[c/_come|come]] to pass]], [[occur]], [[transpire]]
 ---

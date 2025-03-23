@@ -1,14 +1,14 @@
 # Abridgement
 ---
 #noun
-- **The [[a/_act|act]] of [[a/_abridging|abridging]]; reduction or [[d/_deprivation|deprivation]]**
+- **The act of abridging; reduction or deprivation**
 	- _Example: an abridgment of pleasures or of expenses_
-- **The state of [[b/_being|being]] [[a/_abridged|abridged]] or lessened.**
-- **An epitome or [[c/_compend|compend]], as of a [[b/_book|book]]; a shortened or [[a/_abridged|abridged]] form; an [[a/_abbreviation|abbreviation]].**
-- **That which [[a/_abridges|abridges]] or [[c/_cuts|cuts]] short; hence, an entertainment that makes the time pass quickly**
-- **[[a/_any|Any]] of various [[b/_brief|brief]] statements of [[c/_case|case]] law made [[b/_before|before]] modern reporting of legal [[c/_cases|cases]].**
-- **The leaving out of [[c/_certain|certain]] portions of a plaintiff's [[d/_demand|demand]], the writ still holding good for the remainder.**
+- **The state of being abridged or lessened.**
+- **An epitome or compend, as of a book; a shortened or abridged form; an abbreviation.**
+- **That which abridges or cuts short; hence, an entertainment that makes the time pass quickly**
+- **Any of various brief statements of case law made before modern reporting of legal cases.**
+- **The leaving out of certain portions of a plaintiff's demand, the writ still holding good for the remainder.**
 ---
 ### Synonyms
-- [[abstract]], [[compendium]], [[epitome]], [[précis]], [[synopsis]], [[diminution]], [[lessening]], [[shortening]]
+- [[[[a/_abstract|abstract]]]], [[[[c/_compendium|compendium]]]], [[epitome]], [[pré[[c/_cis|cis]]]], [[synopsis]], [[[[d/_diminution|diminution]]]], [[lessening]], [[shortening]]
 ---

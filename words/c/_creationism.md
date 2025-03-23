@@ -1,9 +1,9 @@
 # Creationism
 ---
 #noun
-- **The [[a/_abrahamic|Abrahamic]] doctrine that each individual human soul is [[c/_created|created]] by God, as opposed to traducianism.**
-- **[[a/_any|Any]] [[c/_creationary|creationary]] [[b/_belief|belief]], especially a [[b/_belief|belief]] that the origin of things is due to an event or process of [[c/_creation|creation]] [[b/_brought|brought]] [[a/_about|about]] by the [[d/_deliberate|deliberate]] [[a/_act|act]] of [[a/_any|any]] divine [[a/_agency|agency]], such as a [[c/_creator|Creator]] God ([[c/_creator|creator]] god).**
-- **The [[b/_belief|belief]] that a [[d/_deity|deity]] [[c/_created|created]] the world, especially as [[d/_described|described]] in a particular religious text, such as the Quran or the [[b/_book|Book]] of Genesis.**
+- **The Abrahamic doctrine that each individual human soul is created by God, as opposed to traducianism.**
+- **Any creationary belief, especially a belief that the origin of things is due to an event or process of creation brought about by the deliberate act of any divine agency, such as a Creator God (creator god).**
+- **The belief that a deity created the world, especially as described in a particular religious text, such as the Quran or the Book of Genesis.**
 	- _Example: 2008, Thomas Dixon, Science and Religion: A Very Short Introduction, link_
 ---
 ---

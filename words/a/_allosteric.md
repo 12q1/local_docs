@@ -1,9 +1,9 @@
 # Allosteric
 ---
 #noun
-- **An [[a/_allosteric|allosteric]] modulator**
+- **An allosteric modulator**
 ---
 #adjective
-- **(of an enzyme) That [[b/_binds|binds]] a [[c/_compound|compound]] on an inactive site and thus [[c/_changes|changes]] [[c/_conformation|conformation]] in order to [[b/_become|become]] either [[a/_active|active]] or inactive**
+- **(of an enzyme) That binds a compound on an inactive site and thus changes conformation in order to become either active or inactive**
 ---
 ---

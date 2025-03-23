@@ -1,6 +1,6 @@
 # Daggerboard
 ---
 #noun
-- **A retractable [[c/_centreboard|centreboard]] that slides out to [[a/_act|act]] as a keel.**
+- **A retractable centreboard that slides out to act as a keel.**
 ---
 ---

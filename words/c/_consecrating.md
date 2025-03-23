@@ -1,11 +1,11 @@
 # Consecrating
 ---
 #verb
-- **To [[d/_declare|declare]] something holy, or make it holy by some procedure.**
-- **(specifically) To ordain as a [[b/_bishop|bishop]].**
+- **To declare something holy, or make it holy by some procedure.**
+- **(specifically) To ordain as a bishop.**
 ---
 ### Synonyms
-- [[behallow]], [[hallow]]
+- [[[[b/_behallow|behallow]]]], [[hallow]]
 ### Antonyms
-- [[defile]], [[desecrate]]
+- [[[[d/_defile|defile]]]], [[[[d/_desecrate|desecrate]]]]
 ---

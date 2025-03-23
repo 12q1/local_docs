@@ -1,11 +1,11 @@
 # Dales
 ---
 #noun
-- **A valley, often in an otherwise hilly [[a/_area|area]].**
+- **A valley, often in an otherwise hilly area.**
 ---
 ### Synonyms
-- [[dell]], [[dells]], [[vale]]
+- [[[[d/_dell|dell]]]], [[[[d/_dells|dells]]]], [[vale]]
 #noun
-- **A trough or spout to [[c/_carry|carry]] off water, as from a pump.**
+- **A trough or spout to carry off water, as from a pump.**
 ---
 ---

@@ -1,11 +1,11 @@
 # Bong
 ---
 #noun
-- **The [[c/_clang|clang]] of a large [[b/_bell|bell]].**
-- **Doorbell [[c/_chimes|chimes]].**
+- **The clang of a large bell.**
+- **Doorbell chimes.**
 ---
 #verb
-- **To pull a [[b/_bell|bell]].**
+- **To pull a bell.**
 - **To ring a doorbell.**
 ---
 ---

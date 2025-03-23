@@ -1,10 +1,10 @@
 # Abiogenesis
 ---
 #noun
-- **The origination of living organisms from lifeless matter; such genesis as does not involve the [[a/_action|action]] of living parents.**
+- **The origination of living organisms from lifeless matter; such genesis as does not involve the action of living parents.**
 ---
 ### Synonyms
-- [[abiogeny]], [[biopoiesis]]
+- [[[[a/_abiogeny|abiogeny]]]], [[[[b/_biopoiesis|biopoiesis]]]]
 ### Antonyms
-- [[biogenesis]], [[transformism]]
+- [[[[b/_biogenesis|biogenesis]]]], [[transformism]]
 ---

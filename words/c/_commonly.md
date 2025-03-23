@@ -2,8 +2,8 @@
 ---
 #adverb
 - **As a rule; frequently; usually**
-- **In [[c/_common|common]]; familiarly**
+- **In common; familiarly**
 ---
 ### Synonyms
-- [[commonly]], [[most of the time]], [[affinitatively]], [[friendly]], [[homly]], [[intimately]], [[nearly]]
+- [[[[c/_commonly|commonly]]]], [[most of the time]], [[[[a/_affinitatively|affinitatively]]]], [[friendly]], [[homly]], [[intimately]], [[nearly]]
 ---

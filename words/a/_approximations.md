@@ -1,8 +1,8 @@
 # Approximations
 ---
 #noun
-- **The [[a/_act|act]], process or result of [[a/_approximating|approximating]].**
-- **An imprecise solution or result that is [[a/_adequate|adequate]] for a [[d/_defined|defined]] purpose.**
-- **The [[a/_act|act]] of [[b/_bringing|bringing]] together the edges of tissue to be sutured.**
+- **The act, process or result of approximating.**
+- **An imprecise solution or result that is adequate for a defined purpose.**
+- **The act of bringing together the edges of tissue to be sutured.**
 ---
 ---

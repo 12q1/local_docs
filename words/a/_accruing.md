@@ -2,15 +2,15 @@
 ---
 #verb
 - **To increase, to rise**
-- **To reach or [[c/_come|come]] to by way of increase; to [[a/_arise|arise]] or spring up [[b/_because|because]] of growth or result, especially as the produce of money lent.**
+- **To reach or come to by way of increase; to arise or spring up because of growth or result, especially as the produce of money lent.**
 - **To be incurred as a result of the passage of time.**
 	- _Example: The monthly financial statements show all the actual but only some of the accrued expenses._
-- **To [[a/_accumulate|accumulate]]**
+- **To accumulate**
 	- _Example: He has accrued nine sick days._
-- **To [[b/_become|become]] an enforceable and permanent right.**
+- **To become an enforceable and permanent right.**
 ---
 ### Synonyms
-- [[add up]], [[rise]]
+- [[[[a/_add|add]] up]], [[rise]]
 ### Antonyms
-- [[amortize]], [[defer]], [[prepay]]
+- [[[[a/_amortize|amortize]]]], [[[[d/_defer|defer]]]], [[prepay]]
 ---

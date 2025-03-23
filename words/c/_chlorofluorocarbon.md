@@ -1,6 +1,6 @@
 # Chlorofluorocarbon
 ---
 #noun
-- **[[a/_any|Any]] of a [[c/_class|class]] of organic [[c/_compounds|compounds]] in which the hydrogen [[a/_atoms|atoms]] of a hydrocarbon are replaced with those of [[c/_chlorine|chlorine]] and fluorine; formerly used as refrigerants and [[a/_aerosol|aerosol]] [[c/_can|can]] propellants but withdrawn due to [[c/_causing|causing]] [[d/_damage|damage]] to the ozone layer.**
+- **Any of a class of organic compounds in which the hydrogen atoms of a hydrocarbon are replaced with those of chlorine and fluorine; formerly used as refrigerants and aerosol can propellants but withdrawn due to causing damage to the ozone layer.**
 ---
 ---

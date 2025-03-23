@@ -4,17 +4,17 @@
 - **To be full to overflowing.**
 - **To be wealthy.**
 - **To be highly productive.**
-- **To be present or [[a/_available|available]] in large numbers; to be plentiful.**
+- **To be present or available in large numbers; to be plentiful.**
 	- _Example: Wild animals abound wherever man does not stake his claim._
 - **To revel in.**
-- **To be [[c/_copiously|copiously]] supplied**
+- **To be copiously supplied**
 	- _Example: The wilderness abounds in traps._
 ---
 #noun
-- **An [[a/_abundance|abundance]].**
+- **An abundance.**
 ---
 #adjective
-- **[[a/_ample|Ample]], plenty, [[a/_abundant|abundant]].**
+- **Ample, plenty, abundant.**
 	- _Example: abounding food_
 ---
 ---

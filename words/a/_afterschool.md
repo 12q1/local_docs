@@ -1,7 +1,7 @@
 # Afterschool
 ---
 #adjective
-- **Taking place immediately [[a/_after|after]] school [[c/_classes|classes]].**
-- **Of or pertaining to a program intended to [[c/_care|care]] for and educate [[c/_children|children]] in the time immediately [[a/_after|after]] school [[c/_classes|classes]].**
+- **Taking place immediately after school classes.**
+- **Of or pertaining to a program intended to care for and educate children in the time immediately after school classes.**
 ---
 ---

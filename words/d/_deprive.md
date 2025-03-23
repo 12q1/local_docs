@@ -1,12 +1,12 @@
 # Deprive
 ---
 #verb
-- **To take something [[a/_away|away]] from (someone) and keep it [[a/_away|away]]; to [[d/_deny|deny]] someone something.**
-- **To [[d/_degrade|degrade]] (a [[c/_clergyman|clergyman]]) from office.**
-- **To [[b/_bereave|bereave]].**
+- **To take something away from (someone) and keep it away; to deny someone something.**
+- **To degrade (a clergyman) from office.**
+- **To bereave.**
 ---
 ### Synonyms
-- [[bereave]], [[impoverish]]
+- [[[[b/_bereave|bereave]]]], [[impoverish]]
 ### Antonyms
 - [[enrich]]
 ---

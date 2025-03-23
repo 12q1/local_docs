@@ -1,8 +1,8 @@
 # Derma
 ---
 #noun
-- **The inner layer of the skin; the [[d/_dermis|dermis]]**
+- **The inner layer of the skin; the dermis**
 ---
 ### Synonyms
-- [[dermis]]
+- [[[[d/_dermis|dermis]]]]
 ---

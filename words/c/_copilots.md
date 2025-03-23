@@ -1,7 +1,7 @@
 # Copilots
 ---
 #noun
-- **A [[b/_backup|backup]] or [[a/_assistant|assistant]] pilot of an [[a/_aircraft|aircraft]].**
+- **A backup or assistant pilot of an aircraft.**
 ---
 ### Synonyms
 - [[number two]], [[second pilot]]

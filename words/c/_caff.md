@@ -1,8 +1,8 @@
 # Caff
 ---
 #noun
-- **[[c/_caf|Caf]]é, [[c/_cafeteria|cafeteria]].**
+- **Café, cafeteria.**
 ---
 ### Synonyms
-- [[caf]]
+- [[[[c/_caf|caf]]]]
 ---

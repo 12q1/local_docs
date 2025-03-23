@@ -1,9 +1,9 @@
 # Carbuncles
 ---
 #noun
-- **A [[d/_deep|deep]]-red or fiery [[c/_colored|colored]] garnet or other [[d/_dark|dark]] red precious stone, especially when [[c/_cut|cut]] [[c/_cabochon|cabochon]].**
-- **A [[c/_charge|charge]] or [[b/_bearing|bearing]] supposed to represent the precious stone, with eight sceptres or staves radiating from a [[c/_common|common]] [[c/_centre|centre]]; an escarbuncle.**
-- **An [[a/_abscess|abscess]] larger than a [[b/_boil|boil]], usually with one or more openings draining pus onto the skin. It is usually [[c/_caused|caused]] by [[b/_bacterial|bacterial]] infection.**
-- **An unpopular or ugly [[b/_building|building]]; an eyesore.**
+- **A deep-red or fiery colored garnet or other dark red precious stone, especially when cut cabochon.**
+- **A charge or bearing supposed to represent the precious stone, with eight sceptres or staves radiating from a common centre; an escarbuncle.**
+- **An abscess larger than a boil, usually with one or more openings draining pus onto the skin. It is usually caused by bacterial infection.**
+- **An unpopular or ugly building; an eyesore.**
 ---
 ---

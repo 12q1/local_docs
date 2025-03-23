@@ -9,6 +9,6 @@
 - **Someone who is loved; something that is loved.**
 ---
 #adjective
-- **Much loved, [[d/_dearly|dearly]] loved.**
+- **Much loved, dearly loved.**
 ---
 ---

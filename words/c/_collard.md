@@ -1,8 +1,8 @@
 # Collard
 ---
 #noun
-- **A Mediterranean variety of kale, [[b/_brassica|Brassica]] oleracea var. [[a/_acephala|acephala]].**
+- **A Mediterranean variety of kale, Brassica oleracea var. acephala.**
 ---
 ### Synonyms
-- [[collard greens]]
+- [[[[c/_collard|collard]] greens]]
 ---

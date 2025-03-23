@@ -1,7 +1,7 @@
 # Anaphylactic
 ---
 #adjective
-- **Pertaining to [[a/_anaphylaxis|anaphylaxis]].**
+- **Pertaining to anaphylaxis.**
 ---
 ### Synonyms
 - [[anaphylaxic]]

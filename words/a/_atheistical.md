@@ -1,10 +1,10 @@
 # Atheistical
 ---
 #adjective
-- **Of or relating to [[a/_atheism|atheism]]; [[a/_atheistic|atheistic]].**
+- **Of or relating to atheism; atheistic.**
 ---
 ### Synonyms
-- [[atheistic]]
+- [[[[a/_atheistic|atheistic]]]]
 ### Antonyms
 - [[theistical]]
 ---

@@ -1,6 +1,6 @@
 # Bitmapped
 ---
 #adjective
-- **Represented by a [[b/_bitmap|bitmap]].**
+- **Represented by a bitmap.**
 ---
 ---

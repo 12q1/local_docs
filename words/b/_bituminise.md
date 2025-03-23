@@ -1,6 +1,6 @@
 # Bituminise
 ---
 #verb
-- **To treat with [[b/_bitumen|bitumen]]**
+- **To treat with bitumen**
 ---
 ---

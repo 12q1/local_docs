@@ -1,6 +1,6 @@
 # Convenance
 ---
 #noun
-- **[[c/_conventional|Conventional]] propriety**
+- **Conventional propriety**
 ---
 ---

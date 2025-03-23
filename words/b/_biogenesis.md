@@ -2,8 +2,8 @@
 ---
 #noun
 - **The principle that living organisms are produced only from other living organisms.**
-- **[[b/_biosynthesis|Biosynthesis]].**
+- **Biosynthesis.**
 ---
 ### Antonyms
-- [[abiogenesis]]
+- [[[[a/_abiogenesis|abiogenesis]]]]
 ---

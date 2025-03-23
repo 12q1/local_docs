@@ -1,8 +1,8 @@
 # Concentration
 ---
 #noun
-- **The [[a/_act|act]], process or [[a/_ability|ability]] of [[c/_concentrating|concentrating]]; the process of [[b/_becoming|becoming]] [[c/_concentrated|concentrated]], or the state of [[b/_being|being]] [[c/_concentrated|concentrated]].**
-- **A field or [[c/_course|course]] of study on which one focuses, especially as a student in a [[c/_college|college]] or university.**
+- **The act, process or ability of concentrating; the process of becoming concentrated, or the state of being concentrated.**
+- **A field or course of study on which one focuses, especially as a student in a college or university.**
 - **The proportion of a substance in a whole.**
 - **The matching game pelmanism.**
 ---

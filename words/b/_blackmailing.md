@@ -1,11 +1,11 @@
 # Blackmailing
 ---
 #verb
-- **To extort money or favors from (a person) by exciting fears of injury other than [[b/_bodily|bodily]] harm, such as injury to reputation, distress of mind, false [[a/_accusation|accusation]], etc.**
+- **To extort money or favors from (a person) by exciting fears of injury other than bodily harm, such as injury to reputation, distress of mind, false accusation, etc.**
 	- _Example: He blackmailed a businesswoman by threatening to expose an alleged fraud._
-- **(Kenya) To speak ill of someone; to [[d/_defame|defame]] someone.**
+- **(Kenya) To speak ill of someone; to defame someone.**
 ---
 #noun
-- **The [[a/_act|act]] of one who [[b/_blackmails|blackmails]].**
+- **The act of one who blackmails.**
 ---
 ---

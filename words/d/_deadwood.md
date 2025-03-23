@@ -1,15 +1,15 @@
 # Deadwood
 ---
 #noun
-- **[[c/_coarse|Coarse]] woody [[d/_debris|debris]].**
+- **Coarse woody debris.**
 - **People or things judged to be superfluous to an organization or project.**
 - **Money not realized by exiting a winning pump trade too early.**
-- **Pins that have fallen and have not [[b/_been|been]] [[c/_cleared|cleared]] from the [[a/_alley|alley]].**
-- **Vertical planks [[b/_between|between]] the keel and the sternpost that [[a/_act|act]] as reinforcement.**
-- **(by extension) Structural material on a load-[[c/_carrying|carrying]] vehicle that reduces the [[a/_available|available]] [[c/_cargo|cargo]] space.**
-- **(rummy) [[c/_cards|Cards]] in a hand that do not [[c/_contribute|contribute]] to sets and which are usually [[c/_counted|counted]] as points [[a/_against|against]] the player holding the hand.**
-- **[[c/_cards|Cards]] that have [[b/_been|been]] discarded.**
+- **Pins that have fallen and have not been cleared from the alley.**
+- **Vertical planks between the keel and the sternpost that act as reinforcement.**
+- **(by extension) Structural material on a load-carrying vehicle that reduces the available cargo space.**
+- **(rummy) Cards in a hand that do not contribute to sets and which are usually counted as points against the player holding the hand.**
+- **Cards that have been discarded.**
 ---
 ### Synonyms
-- [[deadfall]]
+- [[[[d/_deadfall|deadfall]]]]
 ---

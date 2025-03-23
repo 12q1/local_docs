@@ -1,16 +1,16 @@
 # Beholding
 ---
 #verb
-- **To see or look at, esp. [[a/_appreciatively|appreciatively]]; to [[d/_descry|descry]], look upon.**
+- **To see or look at, esp. appreciatively; to descry, look upon.**
 - **To look.**
-- **To [[c/_contemplate|contemplate]].**
+- **To contemplate.**
 ---
 #adjective
-- **Obligated to provide, display, or do something for [[a/_another|another]]; indebted, obliged.**
+- **Obligated to provide, display, or do something for another; indebted, obliged.**
 	- _Example: From an early age, I had decided I wanted to be beholden to no one._
-- **[[b/_bound|Bound]] by external expectations, such as fashion or morality.**
+- **Bound by external expectations, such as fashion or morality.**
 ---
 #noun
-- **The [[a/_act|act]] by which something is [[b/_beheld|beheld]]; regard; [[c/_contemplation|contemplation]].**
+- **The act by which something is beheld; regard; contemplation.**
 ---
 ---

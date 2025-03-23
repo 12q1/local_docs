@@ -1,14 +1,14 @@
 # Abject
 ---
 #noun
-- **A person in the lowest and most [[d/_despicable|despicable]] [[c/_condition|condition]]; a [[c/_castaway|castaway]]; outcast.**
+- **A person in the lowest and most despicable condition; a castaway; outcast.**
 ---
 #adjective
-- **Sunk to or existing in a low [[c/_condition|condition]], state, or position.**
-- **[[c/_cast|Cast]] down in spirit or hope; [[d/_degraded|degraded]]; servile; grovelling; [[d/_despicable|despicable]]; lacking [[c/_courage|courage]]; offered in a humble and often ingratiating spirit.**
+- **Sunk to or existing in a low condition, state, or position.**
+- **Cast down in spirit or hope; degraded; servile; grovelling; despicable; lacking courage; offered in a humble and often ingratiating spirit.**
 - **Showing utter hopelessness, helplessness; showing resignation; wretched.**
-- **Rejected; [[c/_cast|cast]] [[a/_aside|aside]].**
+- **Rejected; cast aside.**
 ---
 ### Synonyms
-- [[beggarly]], [[contemptible]], [[cringing]], [[degraded]], [[groveling]], [[ignoble]], [[mean]], [[mean-spirited]], [[slavish]], [[vile]], [[worthless]]
+- [[[[b/_beggarly|beggarly]]]], [[[[c/_contemptible|contemptible]]]], [[[[c/_cringing|cringing]]]], [[[[d/_degraded|degraded]]]], [[groveling]], [[ignoble]], [[mean]], [[mean-spirited]], [[slavish]], [[vile]], [[worthless]]
 ---

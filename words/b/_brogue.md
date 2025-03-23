@@ -1,16 +1,16 @@
 # Brogue
 ---
 #noun
-- **A strong dialectal [[a/_accent|accent]]. In Ireland it used to be a term for Irish spoken with a strong English [[a/_accent|accent]], but gradually [[c/_changed|changed]] to mean English spoken with a strong Irish [[a/_accent|accent]] as English [[c/_control|control]] of Ireland gradually increased and Irish waned as the standard language.**
+- **A strong dialectal accent. In Ireland it used to be a term for Irish spoken with a strong English accent, but gradually changed to mean English spoken with a strong Irish accent as English control of Ireland gradually increased and Irish waned as the standard language.**
 - **A strong Oxford shoe, with ornamental perforations and wing tips.**
 - **A heavy shoe of untanned leather.**
 ---
 ### Synonyms
-- [[brogan]]
+- [[[[b/_brogan|brogan]]]]
 #verb
-- **To speak with a [[b/_brogue|brogue]] ([[a/_accent|accent]]).**
+- **To speak with a brogue (accent).**
 - **To walk.**
 - **To kick.**
-- **To punch a hole in, as with an [[a/_awl|awl]].**
+- **To punch a hole in, as with an awl.**
 ---
 ---

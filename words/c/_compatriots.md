@@ -1,8 +1,8 @@
 # Compatriots
 ---
 #noun
-- **Somebody from one's own [[c/_country|country]].**
+- **Somebody from one's own country.**
 ---
 ### Synonyms
-- [[citizen]], [[fellow]], [[countryman]], [[countrywoman]], [[fellow]]
+- [[[[c/_citizen|citizen]]]], [[fellow]], [[[[c/_countryman|countryman]]]], [[[[c/_countrywoman|countrywoman]]]], [[fellow]]
 ---

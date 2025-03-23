@@ -6,5 +6,5 @@
 - **To distract someone from something.**
 ---
 ### Synonyms
-- [[dissuade]]
+- [[[[d/_dissuade|dissuade]]]]
 ---

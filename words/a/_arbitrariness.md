@@ -1,7 +1,7 @@
 # Arbitrariness
 ---
 #noun
-- **The quality or state of [[b/_being|being]] [[a/_arbitrary|arbitrary]].**
+- **The quality or state of being arbitrary.**
 ---
 ### Synonyms
 - [[arbitrarity]]

@@ -7,7 +7,7 @@
 ### Synonyms
 - [[robotize]]
 #adjective
-- **Made [[a/_automatic|automatic]]**
+- **Made automatic**
 - **Done by machine.**
 ---
 ---

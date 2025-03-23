@@ -1,13 +1,13 @@
 # Capitular
 ---
 #noun
-- **An [[a/_act|act]] passed in a [[c/_chapter|chapter]]**
-- **A member of a [[c/_chapter|chapter]]**
+- **An act passed in a chapter**
+- **A member of a chapter**
 - **The head or prominent part**
 ---
 #adjective
-- **Pertaining to a [[c/_capitulum|capitulum]]**
+- **Pertaining to a capitulum**
 	- _Example: the capitular process of a vertebra_
-- **Pertaining to an ecclesiastical [[c/_chapter|chapter]].**
+- **Pertaining to an ecclesiastical chapter.**
 ---
 ---

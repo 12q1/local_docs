@@ -1,16 +1,16 @@
 # Blond
 ---
 #noun
-- **A pale yellowish (golden [[b/_brown|brown]]) [[c/_color|color]], especially said of hair [[c/_color|color]].**
-- **A person with this hair [[c/_color|color]].**
+- **A pale yellowish (golden brown) color, especially said of hair color.**
+- **A person with this hair color.**
 ---
 #verb
-- **To [[c/_color|color]] or dye [[b/_blond|blond]]**
+- **To color or dye blond**
 ---
 #adjective
-- **Of a [[b/_bleached|bleached]] or pale golden (light yellowish) [[c/_colour|colour]].**
+- **Of a bleached or pale golden (light yellowish) colour.**
 	- _Example: blond ale_
-- **(of a person) Having [[b/_blond|blond]] hair.**
+- **(of a person) Having blond hair.**
 ---
 #adjective
 - **(especially of a woman) Stupid, ignorant, naive.**

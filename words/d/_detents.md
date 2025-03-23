@@ -1,6 +1,6 @@
 # Detents
 ---
 #noun
-- **That which locks or unlocks a movement; a [[c/_catch|catch]], pawl, or dog; especially, in [[c/_clockwork|clockwork]], the [[c/_catch|catch]] which locks and unlocks the wheelwork in striking.**
+- **That which locks or unlocks a movement; a catch, pawl, or dog; especially, in clockwork, the catch which locks and unlocks the wheelwork in striking.**
 ---
 ---

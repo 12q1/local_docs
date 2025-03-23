@@ -1,7 +1,7 @@
 # Deescalation
 ---
 #noun
-- **A [[d/_decrease|decrease]] in scope, extension or severity.**
+- **A decrease in scope, extension or severity.**
 ---
 ### Antonyms
 - [[escalation]]

@@ -1,7 +1,7 @@
 # Caprylate
 ---
 #noun
-- **[[a/_any|Any]] salt or ester of [[c/_caprylic|caprylic]] [[a/_acid|acid]]**
+- **Any salt or ester of caprylic acid**
 ---
 ### Synonyms
 - [[octanoate]]

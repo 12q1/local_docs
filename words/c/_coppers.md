@@ -1,16 +1,16 @@
 # Coppers
 ---
 #noun
-- **A reddish-[[b/_brown|brown]], malleable, ductile metallic element with high electrical and thermal [[c/_conductivity|conductivity]], symbol [[c/_cu|Cu]], and [[a/_atomic|atomic]] number 29.**
-- **The reddish-[[b/_brown|brown]] [[c/_colour|colour]]/[[c/_color|color]] of [[c/_copper|copper]].**
-- **[[a/_any|Any]] of various specialized items that are made of [[c/_copper|copper]], where the use of [[c/_copper|copper]] is either traditional or vital to the function of the item.**
-- **[[a/_any|Any]] of various lycaenid [[b/_butterflies|butterflies]] with [[c/_copper|copper]]-[[c/_coloured|coloured]] upperwings, especially those of the genera Lycaena and Paralucia.**
+- **A reddish-brown, malleable, ductile metallic element with high electrical and thermal conductivity, symbol Cu, and atomic number 29.**
+- **The reddish-brown colour/color of copper.**
+- **Any of various specialized items that are made of copper, where the use of copper is either traditional or vital to the function of the item.**
+- **Any of various lycaenid butterflies with copper-coloured upperwings, especially those of the genera Lycaena and Paralucia.**
 ---
 ### Synonyms
-- [[chestnut]], [[russet]]
+- [[[[c/_chestnut|chestnut]]]], [[russet]]
 #noun
 - **(law enforcement) A police officer.**
 ---
 ### Synonyms
-- [[constable]], [[cop]], [[police officer]]
+- [[[[c/_constable|constable]]]], [[[[c/_cop|cop]]]], [[police officer]]
 ---

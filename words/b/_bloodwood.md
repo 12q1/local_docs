@@ -1,7 +1,7 @@
 # Bloodwood
 ---
 #noun
-- **[[a/_any|Any]] of various trees having red wood:**
+- **Any of various trees having red wood:**
 - **The wood of such trees.**
 ---
 ---

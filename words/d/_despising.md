@@ -1,14 +1,14 @@
 # Despising
 ---
 #verb
-- **To regard with [[c/_contempt|contempt]] or scorn.**
+- **To regard with contempt or scorn.**
 - **To disregard or ignore.**
 ---
 ### Synonyms
-- [[contemn]], [[disdain]], [[scorn]]
+- [[[[c/_contemn|contemn]]]], [[[[d/_disdain|disdain]]]], [[scorn]]
 ### Antonyms
-- [[admire]], [[cherish]], [[honor]], [[respect]], [[treasure]]
+- [[[[a/_admire|admire]]]], [[[[c/_cherish|cherish]]]], [[honor]], [[respect]], [[treasure]]
 #noun
-- **An [[a/_act|act]] of [[d/_despising|despising]].**
+- **An act of despising.**
 ---
 ---

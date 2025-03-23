@@ -1,8 +1,8 @@
 # Cutis
 ---
 #noun
-- **The true skin or [[d/_dermis|dermis]], underlying the epidermis.**
+- **The true skin or dermis, underlying the epidermis.**
 ---
 ### Synonyms
-- [[corium]]
+- [[[[c/_corium|corium]]]]
 ---

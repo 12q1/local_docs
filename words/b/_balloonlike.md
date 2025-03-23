@@ -1,7 +1,7 @@
 # Balloonlike
 ---
 #adjective
-- **Resembling a [[b/_balloon|balloon]] in form**
+- **Resembling a balloon in form**
 	- _Example: The balloonlike object moved across the sky._
 ---
 ---

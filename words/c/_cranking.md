@@ -1,21 +1,21 @@
 # Cranking
 ---
 #verb
-- **To turn by means of a [[c/_crank|crank]].**
+- **To turn by means of a crank.**
 	- _Example: Motorists had to crank their engine by hand._
-- **To turn a [[c/_crank|crank]].**
+- **To turn a crank.**
 	- _Example: He's been cranking all day and yet it refuses to crank._
-- **(of a [[c/_crank|crank]] or similar) To turn.**
+- **(of a crank or similar) To turn.**
 	- _Example: He's been cranking all day and yet it refuses to crank._
-- **To [[c/_cause|cause]] to spin via other means, as though turned by a [[c/_crank|crank]].**
+- **To cause to spin via other means, as though turned by a crank.**
 	- _Example: Crank it up!_
-- **To [[a/_act|act]] in a [[c/_cranky|cranky]] manner; to [[b/_behave|behave]] unreasonably and irritably, especially through [[c/_complaining|complaining]].**
+- **To act in a cranky manner; to behave unreasonably and irritably, especially through complaining.**
 	- _Example: Quit cranking about your spilt milk!_
 - **To be running at a high level of output or effort.**
 	- _Example: By one hour into the shift, the boys were really cranking._
-- **To run with a winding [[c/_course|course]]; to double; to [[c/_crook|crook]]; to wind and turn.**
+- **To run with a winding course; to double; to crook; to wind and turn.**
 ---
 #noun
-- **The [[a/_act|act]] by which something is [[c/_cranked|cranked]].**
+- **The act by which something is cranked.**
 ---
 ---

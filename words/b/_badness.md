@@ -1,6 +1,6 @@
 # Badness
 ---
 #noun
-- **The quality or [[d/_degree|degree]] of [[b/_being|being]] [[b/_bad|bad]].**
+- **The quality or degree of being bad.**
 ---
 ---

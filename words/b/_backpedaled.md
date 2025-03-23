@@ -1,12 +1,12 @@
 # Backpedaled
 ---
 #verb
-- **To pedal [[b/_backwards|backwards]] on a [[b/_bicycle|bicycle]].**
-- **To step [[b/_backwards|backwards]].**
+- **To pedal backwards on a bicycle.**
+- **To step backwards.**
 	- _Example: The player had to backpedal before catching the ball._
-- **To distance oneself from an earlier [[c/_claim|claim]] or statement; [[b/_back|back]] off from an idea.**
+- **To distance oneself from an earlier claim or statement; back off from an idea.**
 	- _Example: Though initially adopting a hard-line stance, the politician soon started to backpedal._
 ---
 ### Synonyms
-- [[climb down]]
+- [[[[c/_climb|climb]] [[d/_down|down]]]]
 ---

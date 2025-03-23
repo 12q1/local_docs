@@ -1,8 +1,8 @@
 # Angiogram
 ---
 #noun
-- **An X-ray image of the [[b/_blood|blood]] vessels gained [[a/_after|after]] the injection of a radiopaque [[c/_contrast|contrast]] medium.**
+- **An X-ray image of the blood vessels gained after the injection of a radiopaque contrast medium.**
 ---
 ### Synonyms
-- [[angiograph]]
+- [[[[a/_angiograph|angiograph]]]]
 ---

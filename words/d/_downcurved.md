@@ -1,0 +1,6 @@
+# Downcurved
+---
+#adjective
+- **Curved downwards**
+---
+---

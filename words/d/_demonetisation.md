@@ -1,7 +1,7 @@
 # Demonetisation
 ---
 #noun
-- **The [[a/_act|act]] or process of [[d/_demonetizing|demonetizing]].**
+- **The act or process of demonetizing.**
 ---
 ### Synonyms
 - [[notebandi]]

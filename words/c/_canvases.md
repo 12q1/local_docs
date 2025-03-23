@@ -1,20 +1,20 @@
 # Canvases
 ---
 #noun
-- **A type of [[c/_coarse|coarse]] [[c/_cloth|cloth]], woven from hemp, useful for making sails and tents or as a surface for paintings.**
-- **A piece of [[c/_canvas|canvas]] [[c/_cloth|cloth]] stretched [[a/_across|across]] a frame on which one may paint.**
-- **A [[b/_basis|basis]] for [[c/_creative|creative]] work.**
+- **A type of coarse cloth, woven from hemp, useful for making sails and tents or as a surface for paintings.**
+- **A piece of canvas cloth stretched across a frame on which one may paint.**
+- **A basis for creative work.**
 	- _Example: The author takes rural midwestern life as a canvas for a series of tightly woven character studies._
-- **A region on which graphics [[c/_can|can]] be rendered.**
+- **A region on which graphics can be rendered.**
 - **Sails in general.**
 - **A tent.**
 	- _Example: He spent the night under canvas._
-- **A painting, or a picture on [[c/_canvas|canvas]].**
-- **A rough draft or model of a song, [[a/_air|air]], or other literary or musical [[c/_composition|composition]]; especially one to show a poet the measure of the verses he is to make.**
-- **[[a/_alternative|Alternative]] spelling of [[c/_canvass|canvass]].**
+- **A painting, or a picture on canvas.**
+- **A rough draft or model of a song, air, or other literary or musical composition; especially one to show a poet the measure of the verses he is to make.**
+- **Alternative spelling of canvass.**
 ---
 #verb
-- **To [[c/_cover|cover]] an [[a/_area|area]] or object with [[c/_canvas|canvas]].**
-- **[[a/_alternative|Alternative]] spelling of [[c/_canvass|canvass]].**
+- **To cover an area or object with canvas.**
+- **Alternative spelling of canvass.**
 ---
 ---

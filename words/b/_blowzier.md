@@ -1,8 +1,8 @@
 # Blowzier
 ---
 #adjective
-- **Having a reddish, [[c/_coarse|coarse]] [[c/_complexion|complexion]], especially with a pudgy face.**
-- **([[c/_chiefly|chiefly]] of a woman's hair or dress) Slovenly or unkempt, in the manner of a [[b/_beggar|beggar]] or slattern.**
-- **Unrefined, [[c/_countrified|countrified]].**
+- **Having a reddish, coarse complexion, especially with a pudgy face.**
+- **(chiefly of a woman's hair or dress) Slovenly or unkempt, in the manner of a beggar or slattern.**
+- **Unrefined, countrified.**
 ---
 ---

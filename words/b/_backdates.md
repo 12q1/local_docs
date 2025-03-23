@@ -1,11 +1,11 @@
 # Backdates
 ---
 #noun
-- **An [[a/_assigned|assigned]] [[d/_date|date]] that is earlier than the [[c/_current|current]] or true [[d/_date|date]].**
+- **An assigned date that is earlier than the current or true date.**
 ---
 #verb
-- **To give or [[a/_assign|assign]] a [[d/_date|date]] to a document that is earlier than the [[c/_current|current]] or true [[d/_date|date]].**
+- **To give or assign a date to a document that is earlier than the current or true date.**
 ---
 ### Synonyms
-- [[antedate]]
+- [[[[a/_antedate|antedate]]]]
 ---

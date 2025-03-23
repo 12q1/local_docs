@@ -2,10 +2,10 @@
 ---
 #verb
 - **To pour off (a liquid) gently, so as not to disturb the sediment.**
-- **To pour from one vessel into [[a/_another|another]].**
+- **To pour from one vessel into another.**
 	- _Example: to decant wine_
 - **To flow.**
-- **To remove a [[c/_clone|clone]] from its [[c/_chamber|chamber]], vat, or [[a/_artificial|artificial]] womb.**
-- **To rehouse people while their [[b/_buildings|buildings]] are [[b/_being|being]] refurbished or rebuilt.**
+- **To remove a clone from its chamber, vat, or artificial womb.**
+- **To rehouse people while their buildings are being refurbished or rebuilt.**
 ---
 ---

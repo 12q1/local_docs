@@ -1,11 +1,11 @@
 # Bedevilling
 ---
 #verb
-- **To harass or [[c/_cause|cause]] trouble for; to plague.**
+- **To harass or cause trouble for; to plague.**
 	- _Example: Guerrilla attacks continued to bedevil the larger army's supply routes._
-- **To perplex or [[b/_bewilder|bewilder]].**
+- **To perplex or bewilder.**
 ---
 #noun
-- **An [[a/_act|act]] by which somebody is [[b/_bedevilled|bedevilled]]; [[c/_causing|causing]] of trouble; harassment.**
+- **An act by which somebody is bedevilled; causing of trouble; harassment.**
 ---
 ---

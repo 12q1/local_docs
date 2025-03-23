@@ -1,6 +1,6 @@
 # Bowie
 ---
 #noun
-- **A [[b/_bowie|Bowie]] knife**
+- **A Bowie knife**
 ---
 ---

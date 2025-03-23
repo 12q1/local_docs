@@ -1,7 +1,7 @@
 # Blatters
 ---
 #verb
-- **To [[b/_blather|blather]].**
+- **To blather.**
 - **To hurry or rush noisily.**
 ---
 ---

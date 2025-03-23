@@ -1,15 +1,15 @@
 # Arbitrary
 ---
 #noun
-- **[[a/_anything|Anything]] [[a/_arbitrary|arbitrary]], such as an [[a/_arithmetical|arithmetical]] value or a fee.**
+- **Anything arbitrary, such as an arithmetical value or a fee.**
 ---
 #adjective
-- **(usually of a [[d/_decision|decision]]) [[b/_based|Based]] on individual discretion or judgment; not [[b/_based|based]] on [[a/_any|any]] objective distinction, perhaps even made at random.**
+- **(usually of a decision) Based on individual discretion or judgment; not based on any objective distinction, perhaps even made at random.**
 	- _Example: Benjamin Franklin's designation of "positive" and "negative" to different charges was arbitrary._
-- **[[d/_determined|Determined]] by impulse rather than reason; heavy-handed.**
-- **[[a/_any|Any]], out of [[a/_all|all]] that are possible.**
+- **Determined by impulse rather than reason; heavy-handed.**
+- **Any, out of all that are possible.**
 	- _Example: The equation is true for an arbitrary value of x._
-- **[[d/_determined|Determined]] by independent [[a/_arbiter|arbiter]].**
+- **Determined by independent arbiter.**
 - **Not representative or symbolic; not iconic.**
 ---
 ---

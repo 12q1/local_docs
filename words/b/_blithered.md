@@ -1,6 +1,6 @@
 # Blithered
 ---
 #verb
-- **To talk foolishly; to [[b/_blather|blather]]**
+- **To talk foolishly; to blather**
 ---
 ---

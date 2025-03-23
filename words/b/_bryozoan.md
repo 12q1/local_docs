@@ -1,12 +1,12 @@
 # Bryozoan
 ---
 #noun
-- **A member of the phylum [[b/_bryozoa|Bryozoa]] of [[a/_aquatic|aquatic]], usually [[c/_colonial|colonial]] invertebrates.**
+- **A member of the phylum Bryozoa of aquatic, usually colonial invertebrates.**
 ---
 ### Synonyms
-- [[ectoproct]], [[moss animal]], [[polyzoan]]
+- [[ectoproct]], [[moss [[a/_animal|animal]]]], [[polyzoan]]
 #adjective
-- **Pertaining to the [[b/_bryozoa|Bryozoa]].**
+- **Pertaining to the Bryozoa.**
 ---
 ### Synonyms
 - [[polyzoan]], [[polyzoic]]

@@ -3,23 +3,23 @@
 #noun
 - **A sudden percussive noise.**
 	- _Example: When he struck it with a hammer, there was a loud bang._
-- **A strike upon an object [[c/_causing|causing]] such a noise.**
+- **A strike upon an object causing such a noise.**
 - **An explosion.**
 - **The symbol !, known as an exclamation point.**
 	- _Example: An e-mail address with an ! is called a bang path._
-- **A factorial, in mathematics, [[b/_because|because]] the factorial of n is often written as n!**
-- **An [[a/_act|act]] of sexual intercourse.**
+- **A factorial, in mathematics, because the factorial of n is often written as n!**
+- **An act of sexual intercourse.**
 - **An offbeat figure typical of reggae songs and played on guitar and piano.**
 - **An explosive product.**
 	- _Example: Load the bang into the hole._
 - **An injection, a shot (of a narcotic drug).**
-- **([[b/_boston|Boston]] [[a/_area|area]]) An [[a/_abrupt|abrupt]] left turn.**
+- **(Boston area) An abrupt left turn.**
 - **Strong smell (of)**
 	- _Example: There was a bang of onions off his breath._
 - **A thrill.**
 ---
 ### Synonyms
-- [[exclamation mark]], [[exclamation point]], [[blow]], [[strike]], [[explosion]]
+- [[exclamation mark]], [[exclamation point]], [[[[b/_blow|blow]]]], [[strike]], [[explosion]]
 ### Antonyms
 - [[hang]]
 #verb
@@ -29,21 +29,21 @@
 	- _Example: David and Mary banged into each other._
 - **To engage in sexual intercourse.**
 	- _Example: We can hear the couple banging upstairs._
-- **(with "in") To hammer or to hit [[a/_anything|anything]] hard.**
+- **(with "in") To hammer or to hit anything hard.**
 	- _Example: Hold the picture while I bang in this nail._
-- **To [[c/_cut|cut]] squarely [[a/_across|across]], as the tail of a horse, or a person's forelock; to [[c/_cut|cut]] (the hair).**
+- **To cut squarely across, as the tail of a horse, or a person's forelock; to cut (the hair).**
 - **To inject intravenously.**
 	- _Example: Do you smoke meth? No, I bang it._
 ---
 ### Synonyms
-- [[do it]], [[have sex]], [[nail]]
+- [[[[d/_do|do]] it]], [[have sex]], [[nail]]
 #noun
 - **Hair hanging over the forehead.**
-- **A hairstyle including such hair, especially [[c/_cut|cut]] straight [[a/_across|across]] the forehead.**
+- **A hairstyle including such hair, especially cut straight across the forehead.**
 ---
 ### Synonyms
-- [[bang]], [[forelocks]], [[fringe]], [[bang]], [[fringe]]
+- [[[[b/_bang|bang]]]], [[forelocks]], [[fringe]], [[[[b/_bang|bang]]]], [[fringe]]
 #noun
-- **[[b/_brucellosis|Brucellosis]], a [[b/_bacterial|bacterial]] disease.**
+- **Brucellosis, a bacterial disease.**
 ---
 ---

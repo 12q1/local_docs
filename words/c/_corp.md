@@ -1,19 +1,19 @@
 # Corp
 ---
 #noun
-- **A non-[[c/_commissioned|commissioned]] officer [[a/_army|army]] rank with NATO [[c/_code|code]] OR-4. The rank [[b/_below|below]] a sergeant but [[a/_above|above]] a lance [[c/_corporal|corporal]] and private.**
-- **A non-[[c/_commissioned|commissioned]] officer rank in the police force, [[b/_below|below]] a sergeant but [[a/_above|above]] a private or patrolman.**
-- **A worker in [[c/_charge|charge]] of the wagonway, reporting to the [[d/_deputy|deputy]].**
+- **A non-commissioned officer army rank with NATO code OR-4. The rank below a sergeant but above a lance corporal and private.**
+- **A non-commissioned officer rank in the police force, below a sergeant but above a private or patrolman.**
+- **A worker in charge of the wagonway, reporting to the deputy.**
 ---
 #noun
-- **The white linen [[c/_cloth|cloth]] on which the elements of the Eucharist are placed; a [[c/_communion|communion]] [[c/_cloth|cloth]].**
+- **The white linen cloth on which the elements of the Eucharist are placed; a communion cloth.**
 ---
 #noun
-- **A [[b/_body|body]] [[c/_corporate|corporate]], [[c/_created|created]] by law or under [[a/_authority|authority]] of law, having a [[c/_continuous|continuous]] existence independent of the existences of its members, and powers and liabilities distinct from those of its members.**
-- **The municipal governing [[b/_body|body]] of a [[b/_borough|borough]] or [[c/_city|city]].**
-- **In Fascist Italy, a joint [[a/_association|association]] of employers' and workers' representatives.**
-- **A protruding [[b/_belly|belly]]; a paunch.**
+- **A body corporate, created by law or under authority of law, having a continuous existence independent of the existences of its members, and powers and liabilities distinct from those of its members.**
+- **The municipal governing body of a borough or city.**
+- **In Fascist Italy, a joint association of employers' and workers' representatives.**
+- **A protruding belly; a paunch.**
 ---
 ### Synonyms
-- [[public limited company]]
+- [[public limited [[c/_company|company]]]]
 ---

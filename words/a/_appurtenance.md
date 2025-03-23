@@ -1,12 +1,12 @@
 # Appurtenance
 ---
 #noun
-- **An [[a/_appendage|appendage]] to something else; an [[a/_addition|addition]].**
+- **An appendage to something else; an addition.**
 - **(in the plural) Equipment used for some specific task; gear.**
-- **The thing to which [[a/_another|another]] pertains.**
+- **The thing to which another pertains.**
 - **Minor property, such as an outhouse, that passes with the main property when it is sold.**
-- **(grammar) A modifier that is [[a/_appended|appended]] or prepended to [[a/_another|another]] word to [[c/_coin|coin]] a new word that expresses [[b/_belonging|belonging]].**
+- **(grammar) A modifier that is appended or prepended to another word to coin a new word that expresses belonging.**
 ---
 ### Synonyms
-- [[contenement]]
+- [[[[c/_contenement|contenement]]]]
 ---

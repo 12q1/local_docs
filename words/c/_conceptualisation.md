@@ -1,6 +1,6 @@
 # Conceptualisation
 ---
 #noun
-- **The [[a/_act|act]] of [[c/_conceptualising|conceptualising]], or something [[c/_conceptualised|conceptualised]].**
+- **The act of conceptualising, or something conceptualised.**
 ---
 ---

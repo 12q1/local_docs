@@ -1,12 +1,12 @@
 # Cowered
 ---
 #verb
-- **To [[c/_crouch|crouch]] or [[c/_cringe|cringe]], or to [[a/_avoid|avoid]] or shy [[a/_away|away]] from something, in fear.**
+- **To crouch or cringe, or to avoid or shy away from something, in fear.**
 	- _Example: He'd be useless in war. He'd just cower in his bunker until the enemy came in and shot him, or until the war was over._
-- **To [[c/_crouch|crouch]] in general.**
-- **To [[c/_cause|cause]] to [[c/_cower|cower]]; to frighten into submission.**
+- **To crouch in general.**
+- **To cause to cower; to frighten into submission.**
 ---
 #verb
-- **To [[c/_cherish|cherish]] with [[c/_care|care]].**
+- **To cherish with care.**
 ---
 ---

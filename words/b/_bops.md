@@ -1,7 +1,7 @@
 # Bops
 ---
 #noun
-- **A very light smack, [[b/_blow|blow]] or punch.**
+- **A very light smack, blow or punch.**
 ---
 #verb
 - **To strike gently or playfully.**
@@ -14,9 +14,9 @@
 - **A good song.**
 ---
 #verb
-- **To [[d/_dance|dance]] to this music, or [[a/_any|any]] sort of popular music with a strong [[b/_beat|beat]].**
+- **To dance to this music, or any sort of popular music with a strong beat.**
 - **To have sex.**
 ---
 ### Synonyms
-- [[bang]], [[do it]], [[get it on]]
+- [[[[b/_bang|bang]]]], [[[[d/_do|do]] it]], [[get it on]]
 ---

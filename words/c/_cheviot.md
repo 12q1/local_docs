@@ -1,6 +1,6 @@
 # Cheviot
 ---
 #noun
-- **A [[c/_coarse|coarse]] woolen fabric made from the wool of [[c/_cheviot|Cheviot]] sheep.**
+- **A coarse woolen fabric made from the wool of Cheviot sheep.**
 ---
 ---

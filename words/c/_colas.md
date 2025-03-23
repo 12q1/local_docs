@@ -1,10 +1,10 @@
 # Colas
 ---
 #noun
-- **The kola plant, genus [[c/_cola|Cola]], famous for its nut, or one of these nuts.**
-- **A [[b/_beverage|beverage]] or a drink made with kola nut flavoring, [[c/_caramel|caramel]] and [[c/_carbonated|carbonated]] water.**
+- **The kola plant, genus Cola, famous for its nut, or one of these nuts.**
+- **A beverage or a drink made with kola nut flavoring, caramel and carbonated water.**
 ---
 #noun
-- **A [[c/_cluster|cluster]] of [[b/_buds|buds]] on a [[c/_cannabis|cannabis]] plant.**
+- **A cluster of buds on a cannabis plant.**
 ---
 ---

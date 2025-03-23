@@ -1,6 +1,6 @@
 # Cotoneaster
 ---
 #noun
-- **[[a/_any|Any]] of several erect or [[c/_creeping|creeping]] shrubs, of the genus [[c/_cotoneaster|Cotoneaster]], that have pinkish flowers and red [[b/_berries|berries]].**
+- **Any of several erect or creeping shrubs, of the genus Cotoneaster, that have pinkish flowers and red berries.**
 ---
 ---

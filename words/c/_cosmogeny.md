@@ -1,6 +1,6 @@
 # Cosmogeny
 ---
 #noun
-- **[[c/_cosmogony|Cosmogony]]**
+- **Cosmogony**
 ---
 ---

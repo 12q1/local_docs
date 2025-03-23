@@ -4,19 +4,19 @@
 - **To leave.**
 - **To set out on a journey.**
 - **To die.**
-- **To disappear, vanish; to [[c/_cease|cease]] to exist.**
-- **To deviate (from), be different (from), fail to [[c/_conform|conform]].**
+- **To disappear, vanish; to cease to exist.**
+- **To deviate (from), be different (from), fail to conform.**
 	- _Example: His latest statements seemed to depart from party policy somewhat._
-- **To go [[a/_away|away]] from; to leave.**
+- **To go away from; to leave.**
 - **To divide up; to distribute, share.**
 - **To separate, part.**
 ---
 ### Synonyms
-- [[deviate]], [[digress]], [[diverge]], [[sidetrack]], [[straggle]], [[vary]], [[leave]]
+- [[[[d/_deviate|deviate]]]], [[[[d/_digress|digress]]]], [[[[d/_diverge|diverge]]]], [[sidetrack]], [[straggle]], [[vary]], [[leave]]
 ### Antonyms
-- [[arrive]], [[come]], [[stay]], [[conform]], [[live]]
+- [[[[a/_arrive|arrive]]]], [[[[c/_come|come]]]], [[stay]], [[[[c/_conform|conform]]]], [[live]]
 #noun
-- **The [[a/_act|act]] by which somebody or something [[d/_departs|departs]].**
+- **The act by which somebody or something departs.**
 ---
 #adjective
 - **That is leaving**

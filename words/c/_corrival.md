@@ -1,13 +1,13 @@
 # Corrival
 ---
 #noun
-- **A fellow rival; a [[c/_competitor|competitor]]; a rival.**
-- **A [[c/_companion|companion]].**
+- **A fellow rival; a competitor; a rival.**
+- **A companion.**
 ---
 #verb
-- **To [[c/_compete|compete]] with; to rival**
+- **To compete with; to rival**
 ---
 #adjective
-- **Having rivaling [[c/_claims|claims]]; emulous; in rivalry.**
+- **Having rivaling claims; emulous; in rivalry.**
 ---
 ---

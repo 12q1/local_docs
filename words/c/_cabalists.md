@@ -1,7 +1,7 @@
 # Cabalists
 ---
 #noun
-- **A member of a [[c/_cabal|cabal]].**
+- **A member of a cabal.**
 - **A person skilled in esoteric matters.**
 - **A student of the Jewish Kaballah.**
 ---

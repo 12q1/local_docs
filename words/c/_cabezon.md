@@ -1,6 +1,6 @@
 # Cabezon
 ---
 #noun
-- **A [[c/_california|California]] fish (Scorpaenichthys marmoratus), [[a/_allied|allied]] to the sculpin.**
+- **A California fish (Scorpaenichthys marmoratus), allied to the sculpin.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Andragogy
 ---
 #noun
-- **The methods or techniques used to teach [[a/_adults|adults]]; [[a/_adult|adult]] education.**
+- **The methods or techniques used to teach adults; adult education.**
 ---
 ---

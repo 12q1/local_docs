@@ -1,11 +1,11 @@
 # Bach
 ---
 #noun
-- **(northern) A holiday home, usually small and near the [[b/_beach|beach]], often with only one or two rooms and of simple [[c/_construction|construction]].**
+- **(northern) A holiday home, usually small and near the beach, often with only one or two rooms and of simple construction.**
 ---
 ### Synonyms
-- [[crib]]
+- [[[[c/_crib|crib]]]]
 #verb
-- **To live [[a/_apart|apart]] from women, as during the period when a divorce is in progress. ([[c/_compare|Compare]] [[b/_bachelor|bachelor]] pad.)**
+- **To live apart from women, as during the period when a divorce is in progress. (Compare bachelor pad.)**
 ---
 ---

@@ -1,8 +1,8 @@
 # Corgi
 ---
 #noun
-- **A dog of a [[b/_breed|breed]] having a small [[b/_body|body]], short legs and fox-like features.**
+- **A dog of a breed having a small body, short legs and fox-like features.**
 ---
 ### Synonyms
-- [[Welsh corgi]]
+- [[Welsh [[c/_corgi|corgi]]]]
 ---

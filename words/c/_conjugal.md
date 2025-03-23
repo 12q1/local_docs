@@ -1,8 +1,8 @@
 # Conjugal
 ---
 #adjective
-- **Of or relating to marriage, or the relationship of spouses; [[c/_connubial|connubial]].**
+- **Of or relating to marriage, or the relationship of spouses; connubial.**
 ---
 ### Synonyms
-- [[connubial]]
+- [[[[c/_connubial|connubial]]]]
 ---

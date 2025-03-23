@@ -1,6 +1,6 @@
 # Agelong
 ---
 #adjective
-- **Lasting throughout [[a/_all|all]] time; eternal**
+- **Lasting throughout all time; eternal**
 ---
 ---

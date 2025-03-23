@@ -1,9 +1,9 @@
 # Decorative
 ---
 #noun
-- **A plant, tile, etc. intended for use as [[d/_decoration|decoration]].**
+- **A plant, tile, etc. intended for use as decoration.**
 ---
 #adjective
-- **That serves to [[d/_decorate|decorate]]**
+- **That serves to decorate**
 ---
 ---

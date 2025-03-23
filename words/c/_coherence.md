@@ -1,11 +1,11 @@
 # Coherence
 ---
 #noun
-- **The quality of [[c/_cohering|cohering]], or [[b/_being|being]] [[c/_coherent|coherent]]; internal [[c/_consistency|consistency]].**
+- **The quality of cohering, or being coherent; internal consistency.**
 	- _Example: His arguments lacked coherence._
-- **A logical [[a/_arrangement|arrangement]] of parts, as in writing.**
+- **A logical arrangement of parts, as in writing.**
 - **(of waves) The property of having the same wavelength and phase.**
-- **A semantic relationship [[b/_between|between]] different parts of the same text.**
+- **A semantic relationship between different parts of the same text.**
 ---
 ### Antonyms
 - [[incoherence]]

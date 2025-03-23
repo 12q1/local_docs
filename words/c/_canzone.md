@@ -1,7 +1,7 @@
 # Canzone
 ---
 #noun
-- **An Italian or Provenç[[a/_al|al]] song or [[b/_ballad|ballad]].**
-- **A [[c/_canzona|canzona]] (mediaeval Italian instrumental [[c/_composition|composition]]).**
+- **An Italian or Provençal song or ballad.**
+- **A canzona (mediaeval Italian instrumental composition).**
 ---
 ---

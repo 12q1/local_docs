@@ -1,6 +1,6 @@
 # Canthus
 ---
 #noun
-- **Either [[c/_corner|corner]] of the eye, where the eyelids meet.**
+- **Either corner of the eye, where the eyelids meet.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Birdhouses
 ---
 #noun
-- **A small house for [[b/_birds|birds]].**
-- **An [[a/_aviary|aviary]].**
+- **A small house for birds.**
+- **An aviary.**
 ---
 ### Synonyms
-- [[nest box]], [[nesting box]]
+- [[nest [[b/_box|box]]]], [[nesting [[b/_box|box]]]]
 ---

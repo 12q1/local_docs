@@ -1,52 +1,52 @@
 # Charge
 ---
 #noun
-- **The [[a/_amount|amount]] of money levied for a service.**
+- **The amount of money levied for a service.**
 	- _Example: There will be a charge of five dollars._
-- **A ground [[a/_attack|attack]] [[a/_against|against]] a prepared enemy.**
+- **A ground attack against a prepared enemy.**
 	- _Example: Pickett did not die leading his famous charge._
 - **A forceful forward movement.**
-- **An [[a/_accusation|accusation]].**
+- **An accusation.**
 	- _Example: That's a slanderous charge of abuse of trust._
-- **An electric [[c/_charge|charge]].**
+- **An electric charge.**
 - **The scope of someone's responsibility.**
 	- _Example: The child was in the nanny's charge._
-- **Someone or something entrusted to one's [[c/_care|care]], such as a [[c/_child|child]] to a [[b/_babysitter|babysitter]] or a student to a teacher.**
+- **Someone or something entrusted to one's care, such as a child to a babysitter or a student to a teacher.**
 	- _Example: The child was a charge of the nanny._
-- **A load or [[b/_burden|burden]]; [[c/_cargo|cargo]].**
+- **A load or burden; cargo.**
 	- _Example: The ship had a charge of colonists and their belongings._
 - **An instruction.**
 	- _Example: I gave him the charge to get the deal closed by the end of the month._
-- **An offensive foul in which the player with the [[b/_ball|ball]] moves into a stationary [[d/_defender|defender]].**
-- **A measured [[a/_amount|amount]] of powder and/or shot in a firearm [[c/_cartridge|cartridge]].**
+- **An offensive foul in which the player with the ball moves into a stationary defender.**
+- **A measured amount of powder and/or shot in a firearm cartridge.**
 - **An image displayed on an escutcheon.**
-- **A position (of a weapon) fitted for [[a/_attack|attack]].**
+- **A position (of a weapon) fitted for attack.**
 	- _Example: to bring a weapon to the charge_
 - **A sort of plaster or ointment.**
 - **Weight; import; value.**
-- **A measure of thirty-six pigs of lead, each pig weighing [[a/_about|about]] seventy pounds; a [[c/_charre|charre]].**
-- **An [[a/_address|address]] given at a [[c/_church|church]] service [[c/_concluding|concluding]] a visitation.**
+- **A measure of thirty-six pigs of lead, each pig weighing about seventy pounds; a charre.**
+- **An address given at a church service concluding a visitation.**
 ---
 ### Synonyms
-- [[count]]
+- [[[[c/_count|count]]]]
 #verb
-- **To [[a/_assign|assign]] a duty or responsibility to**
-- **To [[a/_assign|assign]] (a [[d/_debit|debit]]) to an [[a/_account|account]]**
+- **To assign a duty or responsibility to**
+- **To assign (a debit) to an account**
 	- _Example: Let's charge this to marketing._
-- **To pay on [[a/_account|account]], as by using a [[c/_credit|credit]] [[c/_card|card]]**
+- **To pay on account, as by using a credit card**
 	- _Example: Can I charge my purchase to my credit card?_
 - **To require payment (of) (a price or fee, for goods, services, etc.)**
 	- _Example: I won't charge you for the wheat_
-- **(possibly [[a/_archaic|archaic]]) to sell at a given price.**
+- **(possibly archaic) to sell at a given price.**
 	- _Example: to charge coal at $5 per unit_
-- **To formally [[a/_accuse|accuse]] (a person) of a [[c/_crime|crime]].**
+- **To formally accuse (a person) of a crime.**
 	- _Example: I'm charging you with assault and battery._
-- **To impute or [[a/_ascribe|ascribe]]**
-- **To [[c/_call|call]] to [[a/_account|account]]; to [[c/_challenge|challenge]]**
-- **To place a [[b/_burden|burden]] or load on or in**
-- **To load equipment with material required for its use, as a firearm with powder, a fire hose with water, a [[c/_chemical|chemical]] reactor with raw materials**
+- **To impute or ascribe**
+- **To call to account; to challenge**
+- **To place a burden or load on or in**
+- **To load equipment with material required for its use, as a firearm with powder, a fire hose with water, a chemical reactor with raw materials**
 	- _Example: Charge your weapons; we're moving up._
-- **To move forward quickly and forcefully, particularly in [[c/_combat|combat]] and/or on horseback**
-- **(of a hunting dog) to lie on the [[b/_belly|belly]] and be still (A [[c/_command|command]] given by a hunter to a dog)**
+- **To move forward quickly and forcefully, particularly in combat and/or on horseback**
+- **(of a hunting dog) to lie on the belly and be still (A command given by a hunter to a dog)**
 ---
 ---

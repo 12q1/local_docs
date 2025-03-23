@@ -1,8 +1,8 @@
 # Congratulatory
 ---
 #adjective
-- **Serving to [[c/_congratulate|congratulate]].**
+- **Serving to congratulate.**
 ---
 ### Synonyms
-- [[congratulational]], [[congratulationary]]
+- [[[[c/_congratulational|congratulational]]]], [[congratulationary]]
 ---

@@ -2,14 +2,14 @@
 ---
 #verb
 - **To inspire fear and reverence in.**
-- **To [[c/_control|control]] by inspiring dread.**
+- **To control by inspiring dread.**
 ---
 ### Synonyms
 - [[enthral]], [[enthrall]], [[overwhelm]]
 #adjective
-- **Filled with [[a/_awe|awe]].**
-- **Having or showing [[a/_awe|awe]].**
+- **Filled with awe.**
+- **Having or showing awe.**
 ---
 ### Synonyms
-- [[awestricken]], [[awestruck]], [[thunderstruck]]
+- [[[[a/_awestricken|awestricken]]]], [[[[a/_awestruck|awestruck]]]], [[thunderstruck]]
 ---

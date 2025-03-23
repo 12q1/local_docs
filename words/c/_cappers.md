@@ -1,13 +1,13 @@
 # Cappers
 ---
 #noun
-- **One who [[c/_caps|caps]].**
-- **A device or person that [[a/_applies|applies]] [[c/_caps|caps]], as to [[b/_bullets|bullets]] or [[b/_bottles|bottles]].**
-- **A person that makes or sells [[c/_caps|caps]].**
+- **One who caps.**
+- **A device or person that applies caps, as to bullets or bottles.**
+- **A person that makes or sells caps.**
 - **A finale.**
-- **A by-[[b/_bidder|bidder]]; a [[d/_decoy|decoy]] for gamblers.**
+- **A by-bidder; a decoy for gamblers.**
 ---
 #noun
-- **A person who records a television [[b/_broadcast|broadcast]] to their [[c/_computer|computer]].**
+- **A person who records a television broadcast to their computer.**
 ---
 ---

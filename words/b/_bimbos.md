@@ -1,9 +1,9 @@
 # Bimbos
 ---
 #noun
-- **A physically [[a/_attractive|attractive]] woman who lacks intelligence.**
+- **A physically attractive woman who lacks intelligence.**
 - **A stupid or foolish person.**
 ---
 ### Synonyms
-- [[airhead]], [[bimbette]], [[dumb blonde]], [[floozie]]
+- [[[[a/_airhead|airhead]]]], [[bimbette]], [[[[d/_dumb|dumb]] [[b/_blonde|blonde]]]], [[floozie]]
 ---

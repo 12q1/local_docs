@@ -1,7 +1,7 @@
 # Crowstepped
 ---
 #adjective
-- **Having a [[c/_crowstep|crowstep]].**
+- **Having a crowstep.**
 	- _Example: a crowstepped gable_
 ---
 ---

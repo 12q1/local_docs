@@ -1,6 +1,6 @@
 # Comsat
 ---
 #noun
-- **A [[c/_communications|communications]] satellite.**
+- **A communications satellite.**
 ---
 ---

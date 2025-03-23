@@ -1,25 +1,25 @@
 # Clashing
 ---
 #verb
-- **To make a [[c/_clashing|clashing]] sound.**
+- **To make a clashing sound.**
 	- _Example: The cymbals clashed._
-- **To [[c/_cause|cause]] to make a [[c/_clashing|clashing]] sound.**
-- **To [[c/_come|come]] into violent [[c/_conflict|conflict]].**
+- **To cause to make a clashing sound.**
+- **To come into violent conflict.**
 	- _Example: Fans from opposing teams clashed on the streets after the game._
-- **To [[a/_argue|argue]] [[a/_angrily|angrily]].**
+- **To argue angrily.**
 - **(in games or sports) To face each other in an important game.**
-- **(of [[c/_clothes|clothes]], [[d/_decor|decor]], [[c/_colours|colours]]) To fail to look good together; to [[c/_contrast|contrast]] unattractively; to fail to harmonize.**
+- **(of clothes, decor, colours) To fail to look good together; to contrast unattractively; to fail to harmonize.**
 	- _Example: The hotel room was ugly, and the wallpaper clashed with the carpet._
-- **(of events) To [[c/_coincide|coincide]], to happen at the same time, thereby rendering it impossible to [[a/_attend|attend]] [[a/_all|all]].**
+- **(of events) To coincide, to happen at the same time, thereby rendering it impossible to attend all.**
 	- _Example: I can't come to your wedding because it clashes with a friend's funeral._
-- **To [[c/_chatter|chatter]] or gossip.**
+- **To chatter or gossip.**
 ---
 #noun
-- **A [[c/_clash|clash]]; the sound or [[a/_action|action]] of [[c/_clashing|clashing]]; violent [[c/_collision|collision]].**
+- **A clash; the sound or action of clashing; violent collision.**
 ---
 #adjective
-- **[[c/_conflicting|Conflicting]], [[c/_contrasting|contrasting]], or [[c/_contrary|contrary]]; inconsonant, incompatible, or irreconcilable**
-- **Mismatched, inharmonious, discordant or dissonant, not fitting well together (especially in regards to [[a/_aesthetics|aesthetics]], [[c/_colors|colors]], [[c/_clothing|clothing]], or sounds)**
-- **[[a/_adverse|Adverse]] or [[a/_antagonistic|antagonistic]]; disagreeing or opposing**
+- **Conflicting, contrasting, or contrary; inconsonant, incompatible, or irreconcilable**
+- **Mismatched, inharmonious, discordant or dissonant, not fitting well together (especially in regards to aesthetics, colors, clothing, or sounds)**
+- **Adverse or antagonistic; disagreeing or opposing**
 ---
 ---

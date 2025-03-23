@@ -1,6 +1,6 @@
 # Altercate
 ---
 #verb
-- **To [[a/_argue|argue]], quarrel or wrangle.**
+- **To argue, quarrel or wrangle.**
 ---
 ---

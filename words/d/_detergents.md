@@ -1,6 +1,6 @@
 # Detergents
 ---
 #noun
-- **[[a/_any|Any]] non-soap [[c/_cleaning|cleaning]] [[a/_agent|agent]], especially a synthetic surfactant.**
+- **Any non-soap cleaning agent, especially a synthetic surfactant.**
 ---
 ---

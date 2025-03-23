@@ -1,6 +1,6 @@
 # Autoimmune
 ---
 #adjective
-- **Of or pertaining to [[a/_autoimmunity|autoimmunity]].**
+- **Of or pertaining to autoimmunity.**
 ---
 ---

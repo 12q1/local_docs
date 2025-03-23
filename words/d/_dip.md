@@ -1,0 +1,53 @@
+# Dip
+---
+#noun
+- **A lower section of a road or geological feature.**
+	- _Example: There is a dip in the road ahead._
+- **Inclination downward; direction below a horizontal line; slope; pitch.**
+- **The action of dipping or plunging for a moment into a liquid.**
+- **A tank or trough where cattle or sheep are immersed in chemicals to kill parasites.**
+- **A dip stick.**
+- **A swim, usually a short swim to refresh.**
+	- _Example: I'm going for a dip before breakfast._
+- **A pickpocket.**
+- **A sauce for dipping.**
+	- _Example: This onion dip is just scrumptious._
+- **The angle from horizontal of a planar geologic surface, such as a fault line.**
+- **A dipped candle.**
+- **A move in many different styles of partner dances, often performed at the end of a dance, in which the follower leans far to the side and is supported by the leader**
+- **A gymnastic exercise on the parallel bars in which the performer, resting on his hands, lets his arms bend and his body sink until his chin is level with the bars, and then raises himself by straightening his arms.**
+- **In the turpentine industry, the viscid exudation that is dipped out from incisions in the trees. Virgin dip is the runnings of the first year, yellow dip the runnings of subsequent years.**
+- **A sudden drop followed by a climb, usually to avoid obstacles or as the result of getting into an airhole.**
+- **The moist form of snuff tobacco.**
+- **The act of missing out on seeing a sought after bird.**
+---
+#verb
+- **To lower into a liquid.**
+	- _Example: Dip your biscuit into your tea._
+- **To immerse oneself; to become plunged in a liquid; to sink.**
+- **(of a value or rate) To decrease slightly.**
+- **To lower a light's beam.**
+	- _Example: Dip your lights as you meet an oncoming car._
+- **To lower (a flag), particularly a national ensign, to a partially hoisted position in order to render or to return a salute. While lowered, the flag is said to be “at the dip.” A flag being carried on a staff may be dipped by leaning it forward at an approximate angle of 45 degrees.**
+	- _Example: “The sailor rushed to the flag hoist to dip the flag in return.”_
+- **To treat cattle or sheep by immersion in chemical solution.**
+	- _Example: The farmer is going to dip the cattle today._
+- **To use a dip stick to check oil level in an engine.**
+- **To consume snuff by placing a pinch behind the lip or under the tongue so that the active chemical constituents of the snuff may be absorbed into the system for their narcotic effect.**
+- **To immerse for baptism.**
+- **To wet, as if by immersing; to moisten.**
+- **To plunge or engage thoroughly in any affair.**
+- **To take out, by dipping a dipper, ladle, or other receptacle, into a fluid and removing a part; often with out.**
+	- _Example: to dip water from a boiler; to dip out water_
+- **To perform the action of plunging a dipper, ladle. etc. into a liquid or soft substance and removing a part.**
+- **To engage as a pledge; to mortgage.**
+- **To perform (a bow or curtsey) by inclining the body.**
+- **To incline downward from the plane of the horizon.**
+	- _Example: Strata of rock dip._
+- **To perform a dip dance move (often phrased with the leader as the subject noun and the follower as the subject noun being dipped)**
+- **To lower the body by bending the knees while keeping the body in an upright position, as in movement to the rhythm of music.**
+- **To leave.**
+	- _Example: He dipped out of the room so fast._
+- **To miss out on seeing a sought after bird.**
+---
+---

@@ -1,8 +1,8 @@
 # Bromism
 ---
 #noun
-- **Poisoning by [[b/_bromine|bromine]] or [[b/_bromides|bromides]]**
+- **Poisoning by bromine or bromides**
 ---
 ### Synonyms
-- [[bromidism]], [[brominism]]
+- [[bromidism]], [[[[b/_brominism|brominism]]]]
 ---

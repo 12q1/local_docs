@@ -1,12 +1,12 @@
 # Adverbs
 ---
 #noun
-- **(grammar) A word that modifies a verb, [[a/_adjective|adjective]], other [[a/_adverbs|adverbs]], or various other types of words, phrases, or [[c/_clauses|clauses]].**
+- **(grammar) A word that modifies a verb, adjective, other adverbs, or various other types of words, phrases, or clauses.**
 	- _Example: I often went outside hiking during my stay in Japan._
 ---
 #verb
-- **To make into or [[b/_become|become]] an [[a/_adverb|adverb]].**
+- **To make into or become an adverb.**
 ---
 ### Synonyms
-- [[adverbialize]]
+- [[[[a/_adverbialize|adverbialize]]]]
 ---

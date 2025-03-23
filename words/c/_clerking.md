@@ -1,7 +1,7 @@
 # Clerking
 ---
 #verb
-- **To [[a/_act|act]] as a [[c/_clerk|clerk]], to perform the duties or functions of a [[c/_clerk|clerk]]**
+- **To act as a clerk, to perform the duties or functions of a clerk**
 	- _Example: The law school graduate clerked for the supreme court judge for the summer._
 ---
 ---

@@ -1,28 +1,28 @@
 # Barking
 ---
 #verb
-- **To make a short, loud, explosive noise with the vocal organs (said of [[a/_animals|animals]], especially dogs).**
+- **To make a short, loud, explosive noise with the vocal organs (said of animals, especially dogs).**
 	- _Example: The neighbour's dog is always barking._
-- **To make a [[c/_clamor|clamor]]; to make importunate outcries.**
+- **To make a clamor; to make importunate outcries.**
 - **To speak sharply.**
 	- _Example: The sergeant barked an order._
 ---
 ### Synonyms
 - [[give tongue]], [[latrate]]
 #verb
-- **To strip the [[b/_bark|bark]] from; to peel.**
-- **To [[a/_abrade|abrade]] or rub off [[a/_any|any]] outer [[c/_covering|covering]] from.**
+- **To strip the bark from; to peel.**
+- **To abrade or rub off any outer covering from.**
 	- _Example: to bark one’s heel_
 - **To girdle.**
-- **To [[c/_cover|cover]] or inclose with [[b/_bark|bark]], or as with [[b/_bark|bark]].**
+- **To cover or inclose with bark, or as with bark.**
 	- _Example: bark the roof of a hut_
 ---
 #adjective
-- **Who or that [[b/_barks|barks]] or [[b/_bark|bark]].**
+- **Who or that barks or bark.**
 	- _Example: a barking dog_
 ---
 #adjective
-- **[[c/_completely|Completely]] insane.**
+- **Completely insane.**
 ---
 ### Synonyms
 - [[three stops short of Dagenham]]

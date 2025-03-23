@@ -1,8 +1,8 @@
 # Alcoholics
 ---
 #noun
-- **A person [[a/_addicted|addicted]] to [[a/_alcohol|alcohol]].**
-- **One who [[a/_abuses|abuses]] [[a/_alcohol|alcohol]].**
+- **A person addicted to alcohol.**
+- **One who abuses alcohol.**
 ---
 ### Antonyms
 - [[on the wagon]], [[teetotaler]]

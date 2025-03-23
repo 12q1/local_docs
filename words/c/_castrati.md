@@ -1,7 +1,7 @@
 # Castrati
 ---
 #noun
-- **A male who has [[b/_been|been]] [[c/_castrated|castrated]], especially a male whose testicles have [[b/_been|been]] removed [[b/_before|before]] puberty in order to retain his [[b/_boyish|boyish]] voice.**
-- **A male soprano or [[a/_alto|alto]] voice produced by [[c/_castration|castration]] of the treble singer [[b/_before|before]] puberty, intended to [[c/_conserve|conserve]] his voice; the singer.**
+- **A male who has been castrated, especially a male whose testicles have been removed before puberty in order to retain his boyish voice.**
+- **A male soprano or alto voice produced by castration of the treble singer before puberty, intended to conserve his voice; the singer.**
 ---
 ---

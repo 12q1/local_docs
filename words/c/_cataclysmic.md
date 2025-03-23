@@ -1,7 +1,7 @@
 # Cataclysmic
 ---
 #adjective
-- **Of or pertaining to a [[c/_cataclysm|cataclysm]]; [[c/_causing|causing]] great [[d/_destruction|destruction]] or upheaval; [[c/_catastrophic|catastrophic]].**
+- **Of or pertaining to a cataclysm; causing great destruction or upheaval; catastrophic.**
 	- _Example: It is believed that a cataclysmic impact caused the extinction of the dinosaurs._
 ---
 ---

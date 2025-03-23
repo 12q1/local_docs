@@ -1,15 +1,15 @@
 # Assents
 ---
 #noun
-- **[[a/_agreement|Agreement]]; [[a/_act|act]] of [[a/_agreeing|agreeing]]**
+- **Agreement; act of agreeing**
 	- _Example: I will give this act my assent._
 ---
 ### Synonyms
-- [[approval]], [[consent]], [[sanction]]
+- [[[[a/_approval|approval]]]], [[[[c/_consent|consent]]]], [[sanction]]
 #verb
-- **To [[a/_agree|agree]]; to give [[a/_approval|approval]].**
-- **To [[a/_admit|admit]] a thing as true.**
+- **To agree; to give approval.**
+- **To admit a thing as true.**
 ---
 ### Synonyms
-- [[affirm]], [[allow]], [[astipulate]], [[aver]], [[soothe]], [[stipulate]], [[consent]]
+- [[[[a/_affirm|affirm]]]], [[[[a/_allow|allow]]]], [[[[a/_astipulate|astipulate]]]], [[[[a/_aver|aver]]]], [[soothe]], [[stipulate]], [[[[c/_consent|consent]]]]
 ---

@@ -1,22 +1,22 @@
 # Chequer
 ---
 #noun
-- **One who [[c/_checks|checks]] or verifies something.**
-- **One who makes a [[c/_check|check]] mark.**
-- **The [[c/_clerk|clerk]] who tallies [[c/_cost|cost]] of purchases and [[a/_accepts|accepts]] payment.**
+- **One who checks or verifies something.**
+- **One who makes a check mark.**
+- **The clerk who tallies cost of purchases and accepts payment.**
 	- _Example: There was a long line at the grocery store because the checker was so slow._
 - **One who hinders or stops something.**
 ---
 #noun
-- **A playing piece in the game of [[c/_checkers|checkers]] ([[b/_british|British]]: draughts).**
-- **A pattern of [[a/_alternating|alternating]] [[c/_colours|colours]] as on a [[c/_chessboard|chessboard]].**
+- **A playing piece in the game of checkers (British: draughts).**
+- **A pattern of alternating colours as on a chessboard.**
 ---
 #verb
-- **To mark in a pattern of [[a/_alternating|alternating]] light and [[d/_dark|dark]] positions, like a [[c/_checkerboard|checkerboard]].**
-- **To develop markings in a pattern of [[a/_alternating|alternating]] light and [[d/_dark|dark]] positions, like a [[c/_checkerboard|checkerboard]].**
+- **To mark in a pattern of alternating light and dark positions, like a checkerboard.**
+- **To develop markings in a pattern of alternating light and dark positions, like a checkerboard.**
 ---
 #noun
-- **The fruit of the wild service tree or [[c/_chequer|chequer]] tree, Photinia villosa, syn. Sorbus terminalis**
+- **The fruit of the wild service tree or chequer tree, Photinia villosa, syn. Sorbus terminalis**
 ---
 #noun
 - **The edible fruit of the wild service tree, Sorbus torminalis.**

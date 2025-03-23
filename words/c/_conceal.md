@@ -7,5 +7,5 @@
 ### Synonyms
 - [[hide]], [[obfuscate]], [[secrete]]
 ### Antonyms
-- [[admit]], [[reveal]], [[uncover]]
+- [[[[a/_admit|admit]]]], [[reveal]], [[uncover]]
 ---

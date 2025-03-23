@@ -1,12 +1,12 @@
 # Aerated
 ---
 #verb
-- **To supply with oxygen or [[a/_air|air]].**
+- **To supply with oxygen or air.**
 ---
 #adjective
-- **Supplied or infused with [[a/_air|air]] or oxygen.**
-- **[[a/_annoyed|Annoyed]] or [[a/_agitated|agitated]].**
+- **Supplied or infused with air or oxygen.**
+- **Annoyed or agitated.**
 ---
 ### Synonyms
-- [[agitated]], [[annoyed]], [[bothered]], [[frustrated]], [[pissed off]]
+- [[[[a/_agitated|agitated]]]], [[[[a/_annoyed|annoyed]]]], [[[[b/_bothered|bothered]]]], [[frustrated]], [[pissed off]]
 ---

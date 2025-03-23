@@ -1,6 +1,6 @@
 # Agrarians
 ---
 #noun
-- **A person who [[a/_advocates|advocates]] the political interests of working farmers**
+- **A person who advocates the political interests of working farmers**
 ---
 ---

@@ -8,6 +8,6 @@
 #adjective
 - **Obscured.**
 - **Foreshadowed.**
-- **[[d/_depicted|Depicted]] on a shield as an outline instead of a solid figure.**
+- **Depicted on a shield as an outline instead of a solid figure.**
 ---
 ---

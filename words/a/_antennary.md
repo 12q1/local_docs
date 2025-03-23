@@ -1,7 +1,7 @@
 # Antennary
 ---
 #adjective
-- **Relating to [[a/_antennae|antennae]] or feelers**
-- **[[b/_branching|Branching]]**
+- **Relating to antennae or feelers**
+- **Branching**
 ---
 ---

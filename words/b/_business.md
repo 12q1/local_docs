@@ -1,40 +1,40 @@
 # Business
 ---
 #noun
-- **A specific [[c/_commercial|commercial]] enterprise or establishment.**
+- **A specific commercial enterprise or establishment.**
 	- _Example: I was left my father's business._
 - **A person's occupation, work, or trade.**
 	- _Example: He is in the motor and insurance businesses._
-- **[[c/_commercial|Commercial]], industrial, or professional [[a/_activity|activity]].**
+- **Commercial, industrial, or professional activity.**
 	- _Example: He's such a poor cook, I can't believe he's still in business!_
-- **The volume or [[a/_amount|amount]] of [[c/_commercial|commercial]] trade.**
+- **The volume or amount of commercial trade.**
 	- _Example: Business has been slow lately._
-- **One's [[d/_dealings|dealings]]; patronage.**
+- **One's dealings; patronage.**
 	- _Example: I shall take my business elsewhere._
-- **Private [[c/_commercial|commercial]] interests taken [[c/_collectively|collectively]].**
+- **Private commercial interests taken collectively.**
 	- _Example: This proposal will satisfy both business and labor._
-- **The management of [[c/_commercial|commercial]] enterprises, or the study of such management.**
+- **The management of commercial enterprises, or the study of such management.**
 	- _Example: I studied business at Harvard._
-- **A particular situation or [[a/_activity|activity]].**
+- **A particular situation or activity.**
 	- _Example: This UFO stuff is a mighty strange business._
-- **[[a/_any|Any]] [[a/_activity|activity]] or objective needing to be [[d/_dealt|dealt]] with; especially, one of a financial or legal matter.**
+- **Any activity or objective needing to be dealt with; especially, one of a financial or legal matter.**
 	- _Example: Let's get down to business._
 - **Something involving one personally.**
 	- _Example: That's none of your business._
-- **(parliamentary procedure) Matters that [[c/_come|come]] [[b/_before|before]] a [[b/_body|body]] for [[d/_deliberation|deliberation]] or [[a/_action|action]].**
+- **(parliamentary procedure) Matters that come before a body for deliberation or action.**
 	- _Example: If that concludes the announcements, we'll move on to new business._
-- **(travel) [[b/_business|Business]] [[c/_class|class]], the [[c/_class|class]] of seating provided by [[a/_airlines|airlines]] [[b/_between|between]] first [[c/_class|class]] and [[c/_coach|coach]].**
-- **[[a/_action|Action]] [[c/_carried|carried]] out with a prop or piece of [[c/_clothing|clothing]], usually [[a/_away|away]] from the focus of the scene.**
-- **The [[c/_collective|collective]] noun for a group of ferrets.**
-- **Something very good; top quality. (possibly from "the [[b/_bee|bee]]'s knees")**
+- **(travel) Business class, the class of seating provided by airlines between first class and coach.**
+- **Action carried out with a prop or piece of clothing, usually away from the focus of the scene.**
+- **The collective noun for a group of ferrets.**
+- **Something very good; top quality. (possibly from "the bee's knees")**
 	- _Example: These new phones are the business!_
-- **Excrement, particularly that of a non-human [[a/_animal|animal]].**
+- **Excrement, particularly that of a non-human animal.**
 	- _Example: As the cart went by, its horse lifted its tail and did its business._
 ---
 #adjective
-- **Of, to, pertaining to or utilized for purposes of [[c/_conducting|conducting]] trade, [[c/_commerce|commerce]], governance, [[a/_advocacy|advocacy]] or other professional purposes.**
+- **Of, to, pertaining to or utilized for purposes of conducting trade, commerce, governance, advocacy or other professional purposes.**
 	- _Example: Please do not use this phone for personal calls; it is a business phone._
-- **Professional, [[b/_businesslike|businesslike]], having [[c/_concern|concern]] for good [[b/_business|business]] practice.**
-- **Supporting [[b/_business|business]], [[c/_conducive|conducive]] to the [[c/_conduct|conduct]] of [[b/_business|business]].**
+- **Professional, businesslike, having concern for good business practice.**
+- **Supporting business, conducive to the conduct of business.**
 ---
 ---

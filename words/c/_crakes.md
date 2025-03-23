@@ -1,9 +1,9 @@
 # Crakes
 ---
 #noun
-- **[[a/_any|Any]] of several [[b/_birds|birds]] of the family Rallidae that have short [[b/_bills|bills]].**
+- **Any of several birds of the family Rallidae that have short bills.**
 ---
 #noun
-- **A [[c/_crack|crack]]; a [[b/_boast|boast]].**
+- **A crack; a boast.**
 ---
 ---

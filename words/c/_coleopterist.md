@@ -1,6 +1,6 @@
 # Coleopterist
 ---
 #noun
-- **One who studies [[b/_beetles|beetles]].**
+- **One who studies beetles.**
 ---
 ---

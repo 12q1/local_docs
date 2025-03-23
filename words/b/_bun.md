@@ -1,14 +1,14 @@
 # Bun
 ---
 #noun
-- **A small [[b/_bread|bread]] roll, often sweetened or spiced.**
-- **A tight roll of hair worn at the [[b/_back|back]] of the head.**
-- **A [[c/_cupcake|cupcake]].**
+- **A small bread roll, often sweetened or spiced.**
+- **A tight roll of hair worn at the back of the head.**
+- **A cupcake.**
 - **A drunken spree.**
 - **A newbie.**
-- **([[c/_chiefly|chiefly]] in the plural) A [[b/_buttock|buttock]].**
+- **(chiefly in the plural) A buttock.**
 - **Vagina**
 ---
 ### Synonyms
-- [[French roll]], [[hair bun]], [[cake]]
+- [[French roll]], [[hair [[b/_bun|bun]]]], [[[[c/_cake|cake]]]]
 ---

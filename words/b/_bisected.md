@@ -1,10 +1,10 @@
 # Bisected
 ---
 #verb
-- **To [[c/_cut|cut]] or divide into two parts.**
+- **To cut or divide into two parts.**
 ---
 ### Synonyms
-- [[dichotomize]], [[dimidiate]]
+- [[[[d/_dichotomize|dichotomize]]]], [[[[d/_dimidiate|dimidiate]]]]
 #adjective
 - **Divided into two equal pieces.**
 	- _Example: One half of the bisected line is the same as the other._

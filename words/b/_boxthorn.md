@@ -1,8 +1,8 @@
 # Boxthorn
 ---
 #noun
-- **[[a/_any|Any]] plant of the genus Lycium.**
+- **Any plant of the genus Lycium.**
 ---
 ### Synonyms
-- [[Christmas berry]], [[Duke of Argyll's tea tree]], [[desert-thorn]], [[goji]], [[matrimony vine]], [[wolfberry]]
+- [[[[c/_christmas|Christmas]] [[b/_berry|berry]]]], [[[[d/_duke|Duke]] of [[a/_argyll|Argyll]]'s tea tree]], [[[[d/_desert|desert]]-thorn]], [[goji]], [[matrimony vine]], [[wolfberry]]
 ---

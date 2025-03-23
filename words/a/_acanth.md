@@ -1,6 +1,6 @@
 # Acanth
 ---
 #noun
-- **[[a/_acanthus|Acanthus]].**
+- **Acanthus.**
 ---
 ---

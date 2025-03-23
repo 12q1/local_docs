@@ -1,12 +1,12 @@
 # Buccaneer
 ---
 #noun
-- **[[a/_any|Any]] of a group of seamen who [[c/_cruised|cruised]] on their own [[a/_account|account]] on the Spanish Main and in the Pacific in the 17th [[c/_century|century]], who were similar to pirates but did not prey on ships of their own nation.**
+- **Any of a group of seamen who cruised on their own account on the Spanish Main and in the Pacific in the 17th century, who were similar to pirates but did not prey on ships of their own nation.**
 - **A pirate.**
 ---
 ### Synonyms
 - [[pirate]], [[privateer]]
 #verb
-- **To engage in piracy [[a/_against|against]] [[a/_any|any]] but one's own nation's ships.**
+- **To engage in piracy against any but one's own nation's ships.**
 ---
 ---

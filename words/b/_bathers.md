@@ -1,7 +1,7 @@
 # Bathers
 ---
 #noun
-- **One who [[b/_bathes|bathes]] or swims.**
-- **One who gives a [[b/_bath|bath]] to [[a/_another|another]].**
+- **One who bathes or swims.**
+- **One who gives a bath to another.**
 ---
 ---

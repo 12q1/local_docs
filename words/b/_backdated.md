@@ -1,8 +1,8 @@
 # Backdated
 ---
 #verb
-- **To give or [[a/_assign|assign]] a [[d/_date|date]] to a document that is earlier than the [[c/_current|current]] or true [[d/_date|date]].**
+- **To give or assign a date to a document that is earlier than the current or true date.**
 ---
 ### Synonyms
-- [[antedate]]
+- [[[[a/_antedate|antedate]]]]
 ---

@@ -1,18 +1,18 @@
 # Bangers
 ---
 #noun
-- **A thing or person which [[b/_bangs|bangs]], in [[a/_any|any]] sense.**
-- **: A firework that makes a [[b/_bang|bang]].**
-- **A woman's [[b/_breast|breast]].**
+- **A thing or person which bangs, in any sense.**
+- **: A firework that makes a bang.**
+- **A woman's breast.**
 - **A sausage.**
-- **An old, worn-out [[c/_car|car]].**
-- **A [[c/_cylinder|cylinder]] in a [[c/_car|car]].**
+- **An old, worn-out car.**
+- **A cylinder in a car.**
 	- _Example: He drives a little four-banger to work._
-- **A powerfully energetic piece of music, especially [[d/_dance|dance]] music.**
-- **(by extension) [[a/_any|Any]] particularly good or pleasing thing.**
+- **A powerfully energetic piece of music, especially dance music.**
+- **(by extension) Any particularly good or pleasing thing.**
 ---
 ### Synonyms
-- [[beater]], [[bucket]], [[crock]], [[hooptie]], [[jalopy]], [[shitbox]], [[wreck]], [[snag]]
+- [[[[b/_beater|beater]]]], [[[[b/_bucket|bucket]]]], [[[[c/_crock|crock]]]], [[hooptie]], [[jalopy]], [[shitbox]], [[wreck]], [[snag]]
 #noun
 - **Someone who indulges in group sex -- see gangbang.**
 - **A member of a violent gang.**

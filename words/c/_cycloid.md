@@ -1,11 +1,11 @@
 # Cycloid
 ---
 #noun
-- **The locus of a point on the [[c/_circumference|circumference]] of a [[c/_circle|circle]] that rolls without slipping on a fixed straight line.**
-- **A fish having [[c/_cycloid|cycloid]] scales.**
+- **The locus of a point on the circumference of a circle that rolls without slipping on a fixed straight line.**
+- **A fish having cycloid scales.**
 ---
 #adjective
-- **Resembling a [[c/_circle|circle]]; [[c/_cycloidal|cycloidal]].**
+- **Resembling a circle; cycloidal.**
 - **(of fish scales) Thin and rounded, with smooth edges.**
 ---
 ---

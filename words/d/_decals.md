@@ -1,7 +1,7 @@
 # Decals
 ---
 #noun
-- **A [[d/_design|design]] or picture produced in order to be transferred to [[a/_another|another]] surface either permanently or temporarily.**
-- **A [[d/_decorative|decorative]] sticker.**
+- **A design or picture produced in order to be transferred to another surface either permanently or temporarily.**
+- **A decorative sticker.**
 ---
 ---

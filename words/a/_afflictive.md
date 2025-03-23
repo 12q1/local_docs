@@ -1,6 +1,6 @@
 # Afflictive
 ---
 #adjective
-- **That [[c/_causes|causes]] physical or mental pain.**
+- **That causes physical or mental pain.**
 ---
 ---

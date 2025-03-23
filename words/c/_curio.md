@@ -1,6 +1,6 @@
 # Curio
 ---
 #noun
-- **A strange and interesting object; something that evokes [[c/_curiosity|curiosity]].**
+- **A strange and interesting object; something that evokes curiosity.**
 ---
 ---

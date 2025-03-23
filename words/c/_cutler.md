@@ -1,7 +1,7 @@
 # Cutler
 ---
 #noun
-- **One whose [[b/_business|business]] is making or [[d/_dealing|dealing]] in [[c/_cutlery|cutlery]].**
+- **One whose business is making or dealing in cutlery.**
 ---
 ### Synonyms
 - [[knifesmith]]

@@ -1,15 +1,15 @@
 # Decimating
 ---
 #verb
-- **To kill one-tenth of a group, (specifically) as a military punishment in the Roman [[a/_army|army]] selected by lot, usually [[c/_carried|carried]] out by the surviving soldiers.**
-- **To [[d/_destroy|destroy]] or remove one-tenth of [[a/_anything|anything]].**
-- **To devastate: to reduce or [[d/_destroy|destroy]] significantly but not [[c/_completely|completely]].**
+- **To kill one-tenth of a group, (specifically) as a military punishment in the Roman army selected by lot, usually carried out by the surviving soldiers.**
+- **To destroy or remove one-tenth of anything.**
+- **To devastate: to reduce or destroy significantly but not completely.**
 - **To exact a tithe or other 10% tax**
 - **To tithe: to pay a 10% tax.**
-- **To [[d/_decimalize|decimalize]]: to divide into tenths, hundredths etc.**
-- **To reduce to one-tenth: to [[d/_destroy|destroy]] or remove nine-tenths of [[a/_anything|anything]].**
-- **To replace a high-resolution model with [[a/_another|another]] of lower but [[a/_acceptable|acceptable]] quality.**
+- **To decimalize: to divide into tenths, hundredths etc.**
+- **To reduce to one-tenth: to destroy or remove nine-tenths of anything.**
+- **To replace a high-resolution model with another of lower but acceptable quality.**
 ---
 ### Synonyms
-- [[decimalize]], [[tithe]], [[tithe]], [[devastate]], [[tithe]]
+- [[[[d/_decimalize|decimalize]]]], [[tithe]], [[tithe]], [[[[d/_devastate|devastate]]]], [[tithe]]
 ---

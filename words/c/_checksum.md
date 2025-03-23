@@ -1,9 +1,9 @@
 # Checksum
 ---
 #noun
-- **A number, [[d/_derived|derived]] by [[a/_applying|applying]] a suitable [[a/_algorithm|algorithm]] to some [[d/_data|data]], used to [[c/_check|check]] whether errors have occurred in transmission, storage or [[d/_data|data]] entry.**
+- **A number, derived by applying a suitable algorithm to some data, used to check whether errors have occurred in transmission, storage or data entry.**
 ---
 #verb
-- **To [[c/_compute|compute]] a [[c/_checksum|checksum]].**
+- **To compute a checksum.**
 ---
 ---

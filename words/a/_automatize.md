@@ -1,9 +1,9 @@
 # Automatize
 ---
 #verb
-- **To make or [[b/_become|become]] [[a/_automatic|automatic]].**
+- **To make or become automatic.**
 	- _Example: Student responses are gradually automatized through repetition._
-- **To [[c/_cause|cause]] to be [[a/_automated|automated]]; to [[a/_automate|automate]].**
+- **To cause to be automated; to automate.**
 	- _Example: We need to automatize our production facility._
 ---
 ---

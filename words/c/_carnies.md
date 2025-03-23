@@ -1,16 +1,16 @@
 # Carnies
 ---
 #noun
-- **A proponent of carnism; one who supports the practice of eating meat and using other [[a/_animal|animal]] products.**
+- **A proponent of carnism; one who supports the practice of eating meat and using other animal products.**
 ---
 #noun
-- **A person who works in a [[c/_carnival|carnival]] (often one who uses exaggerated showmanship or fraud).**
-- **The jargon used by [[c/_carnival|carnival]] workers.**
-- **A [[c/_carnival|carnival]].**
+- **A person who works in a carnival (often one who uses exaggerated showmanship or fraud).**
+- **The jargon used by carnival workers.**
+- **A carnival.**
 ---
 ### Synonyms
 - [[showie]]
 #verb
-- **To [[c/_cajole|cajole]], wheedle, or [[c/_coax|coax]].**
+- **To cajole, wheedle, or coax.**
 ---
 ---

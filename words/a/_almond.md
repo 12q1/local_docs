@@ -2,13 +2,13 @@
 ---
 #noun
 - **A type of tree nut.**
-- **A small [[d/_deciduous|deciduous]] tree in family Rosaceae, Prunus dulcis, that produces predominantly sweet [[a/_almonds|almonds]].**
-- **Other plants that produce [[a/_almond|almond]]-like nuts:**
-- **The [[c/_colour|colour]] of the kernel of an [[a/_almond|almond]] without its shell and thin seed [[c/_coat|coat]], a [[c/_creamy|creamy]] off-white [[c/_colour|colour]].**
-- **The [[c/_color|color]] of an [[a/_almond|almond]] still [[c/_covered|covered]] by its skin, a shade of [[b/_brown|brown]].**
-- **[[a/_anything|Anything]] shaped like an [[a/_almond|almond]]; specifically, a tonsil.**
+- **A small deciduous tree in family Rosaceae, Prunus dulcis, that produces predominantly sweet almonds.**
+- **Other plants that produce almond-like nuts:**
+- **The colour of the kernel of an almond without its shell and thin seed coat, a creamy off-white colour.**
+- **The color of an almond still covered by its skin, a shade of brown.**
+- **Anything shaped like an almond; specifically, a tonsil.**
 ---
 #adjective
-- **[[b/_brownish|Brownish]], resembling the [[c/_colour|colour]] of an [[a/_almond|almond]] nut.**
+- **Brownish, resembling the colour of an almond nut.**
 ---
 ---

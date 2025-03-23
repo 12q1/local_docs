@@ -1,27 +1,27 @@
 # Berries
 ---
 #noun
-- **A small succulent fruit, of [[a/_any|any]] one of many varieties.**
-- **A soft fruit which develops from a single ovary and [[c/_contains|contains]] seeds not encased in pits.**
-- **A [[c/_coffee|coffee]] [[b/_bean|bean]].**
+- **A small succulent fruit, of any one of many varieties.**
+- **A soft fruit which develops from a single ovary and contains seeds not encased in pits.**
+- **A coffee bean.**
 - **One of the ova or eggs of a fish.**
-- **([[a/_african|African]] [[a/_american|American]]) A police [[c/_car|car]].**
+- **(African American) A police car.**
 - **A dollar.**
 ---
 #verb
-- **To pick [[b/_berries|berries]].**
+- **To pick berries.**
 	- _Example: On summer days Grandma used to take us berrying, whether we wanted to go or not._
-- **To [[b/_bear|bear]] or produce [[b/_berries|berries]].**
+- **To bear or produce berries.**
 ---
 #noun
-- **A mound; a [[b/_barrow|barrow]].**
+- **A mound; a barrow.**
 ---
 #noun
-- **A [[b/_burrow|burrow]], especially a rabbit's [[b/_burrow|burrow]].**
+- **A burrow, especially a rabbit's burrow.**
 - **An excavation; a military mine.**
 ---
 #verb
-- **To [[b/_beat|beat]]; give a [[b/_beating|beating]] to; thrash.**
+- **To beat; give a beating to; thrash.**
 - **To thresh (grain).**
 ---
 ---

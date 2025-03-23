@@ -1,9 +1,9 @@
 # Clapstick
 ---
 #noun
-- **A kind of drumstick used by striking one [[a/_against|against]] [[a/_another|another]], to maintain rhythm in [[a/_aboriginal|Aboriginal]] voice [[c/_chants|chants]].**
-- **A [[c/_clapperboard|clapperboard]].**
+- **A kind of drumstick used by striking one against another, to maintain rhythm in Aboriginal voice chants.**
+- **A clapperboard.**
 ---
 ### Synonyms
-- [[clapper]], [[musicstick]]
+- [[[[c/_clapper|clapper]]]], [[musicstick]]
 ---

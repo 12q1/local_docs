@@ -1,9 +1,9 @@
 # Caustics
 ---
 #noun
-- **[[a/_any|Any]] substance or means which, [[a/_applied|applied]] to [[a/_animal|animal]] or other organic tissue, [[b/_burns|burns]], [[c/_corrodes|corrodes]], or [[d/_destroys|destroys]] it by [[c/_chemical|chemical]] [[a/_action|action]]; an escharotic.**
+- **Any substance or means which, applied to animal or other organic tissue, burns, corrodes, or destroys it by chemical action; an escharotic.**
 - **The envelope of reflected or refracted rays of light for a given surface or object.**
-- **The envelope of reflected or refracted rays for a given [[c/_curve|curve]].**
-- **[[c/_caustic|Caustic]] soda.**
+- **The envelope of reflected or refracted rays for a given curve.**
+- **Caustic soda.**
 ---
 ---

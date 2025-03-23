@@ -1,10 +1,10 @@
 # Cheeps
 ---
 #noun
-- **A short, high-pitched sound made by a small [[b/_bird|bird]].**
+- **A short, high-pitched sound made by a small bird.**
 ---
 #verb
-- **Of a small [[b/_bird|bird]], to make short, high-pitched sounds sounding like "[[c/_cheep|cheep]]".**
-- **To express in a [[c/_chirping|chirping]] tone.**
+- **Of a small bird, to make short, high-pitched sounds sounding like "cheep".**
+- **To express in a chirping tone.**
 ---
 ---

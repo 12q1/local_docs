@@ -1,6 +1,6 @@
 # Bioscience
 ---
 #noun
-- **[[a/_any|Any]] of several sciences that [[d/_deal|deal]] with living organisms**
+- **Any of several sciences that deal with living organisms**
 ---
 ---

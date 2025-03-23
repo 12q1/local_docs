@@ -1,12 +1,12 @@
 # Ancillary
 ---
 #noun
-- **Something that serves an [[a/_ancillary|ancillary]] function, such as an easel for a painter.**
-- **An [[a/_auxiliary|auxiliary]].**
+- **Something that serves an ancillary function, such as an easel for a painter.**
+- **An auxiliary.**
 ---
 #adjective
-- **Subordinate; secondary; [[a/_auxiliary|auxiliary]]**
+- **Subordinate; secondary; auxiliary**
 ---
 ### Synonyms
-- [[accessory]]
+- [[[[a/_accessory|accessory]]]]
 ---

@@ -1,13 +1,13 @@
 # Amnesic
 ---
 #noun
-- **A person suffering from [[a/_amnesia|amnesia]]**
+- **A person suffering from amnesia**
 ---
 ### Synonyms
-- [[amnesiac]]
+- [[[[a/_amnesiac|amnesiac]]]]
 ### Antonyms
 - [[nonamnesic]]
 #adjective
-- **Of, pertaining to, or suffering from [[a/_amnesia|amnesia]]**
+- **Of, pertaining to, or suffering from amnesia**
 ---
 ---

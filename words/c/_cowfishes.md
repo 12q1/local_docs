@@ -1,12 +1,12 @@
 # Cowfishes
 ---
 #noun
-- **[[a/_any|Any]] of genera Acanthostracion and Lactoria, of the [[b/_boxfish|boxfish]] family Ostraciidae.**
+- **Any of genera Acanthostracion and Lactoria, of the boxfish family Ostraciidae.**
 - **The grampus, Grampus griseus, Risso's dolphin.**
-- **A [[c/_common|common]] [[b/_bottlenose|bottlenose]] dolphin of [[c/_california|California]], Tursiops truncatus gillii.**
-- **A marine plectognath fish, Acanthostracion quadricornis and [[a/_allied|allied]] species, having two projections, like horns, in front.**
-- **A [[c/_common|common]] galaxias (Galaxias maculatus)**
+- **A common bottlenose dolphin of California, Tursiops truncatus gillii.**
+- **A marine plectognath fish, Acanthostracion quadricornis and allied species, having two projections, like horns, in front.**
+- **A common galaxias (Galaxias maculatus)**
 ---
 ### Synonyms
-- [[cuckold]], [[trunkfish]]
+- [[[[c/_cuckold|cuckold]]]], [[trunkfish]]
 ---

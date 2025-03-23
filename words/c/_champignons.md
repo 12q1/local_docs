@@ -1,8 +1,8 @@
 # Champignons
 ---
 #noun
-- **[[a/_agaricus|Agaricus]] bisporus, a species of mushroom [[c/_commonly|commonly]] used in [[c/_cooking|cooking]]**
+- **Agaricus bisporus, a species of mushroom commonly used in cooking**
 ---
 ### Synonyms
-- [[button mushroom]], [[cremini]], [[crimini]], [[cultivated mushroom]], [[portobello mushroom]], [[table mushroom]]
+- [[[[b/_button|button]] mushroom]], [[cremini]], [[[[c/_crimini|crimini]]]], [[[[c/_cultivated|cultivated]] mushroom]], [[portobello mushroom]], [[table mushroom]]
 ---

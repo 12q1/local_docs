@@ -1,10 +1,10 @@
 # Backchat
 ---
 #noun
-- **[[c/_cheeky|Cheeky]] or impertinent responses, especially to [[c/_criticism|criticism]].**
+- **Cheeky or impertinent responses, especially to criticism.**
 ---
 ### Synonyms
-- [[backtalk]]
+- [[[[b/_backtalk|backtalk]]]]
 #verb
 - **To respond in a disputative, often sarcastic manner.**
 	- _Example: Peter was sent to detention for backchatting the teacher._

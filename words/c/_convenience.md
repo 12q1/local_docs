@@ -1,17 +1,17 @@
 # Convenience
 ---
 #noun
-- **The quality of [[b/_being|being]] [[c/_convenient|convenient]].**
+- **The quality of being convenient.**
 	- _Example: Fast food is popular because of its cost and convenience._
-- **[[a/_any|Any]] object that makes life more [[c/_convenient|convenient]]; a helpful item.**
-- **A [[c/_convenient|convenient]] time.**
+- **Any object that makes life more convenient; a helpful item.**
+- **A convenient time.**
 	- _Example: We will come over and begin the work at your convenience._
-- **[[c/_clipping|Clipping]] of public [[c/_convenience|convenience]]: a public lavatory.**
+- **Clipping of public convenience: a public lavatory.**
 ---
 ### Synonyms
-- [[amenity]]
+- [[[[a/_amenity|amenity]]]]
 #verb
-- **To make [[c/_convenient|convenient]]**
+- **To make convenient**
 	- _Example: These are equally viable times and I propose we alternate between the two times in order to convenience as many people as possible._
 ---
 ---

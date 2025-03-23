@@ -1,0 +1,6 @@
+# Doorpost
+---
+#noun
+- **Doorjamb**
+---
+---

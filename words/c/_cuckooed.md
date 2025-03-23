@@ -1,7 +1,7 @@
 # Cuckooed
 ---
 #verb
-- **To make the [[c/_call|call]] of a [[c/_cuckoo|cuckoo]].**
+- **To make the call of a cuckoo.**
 - **To repeat something incessantly.**
 ---
 ---

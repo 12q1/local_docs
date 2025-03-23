@@ -1,12 +1,12 @@
 # Anhedral
 ---
 #noun
-- **The downward slope of an [[a/_aircraft|aircraft]]’s wing**
+- **The downward slope of an aircraft’s wing**
 ---
 ### Antonyms
-- [[dihedral]]
+- [[[[d/_dihedral|dihedral]]]]
 #adjective
-- **Lacking sharp, recognisable [[c/_crystal|crystal]] faces.**
+- **Lacking sharp, recognisable crystal faces.**
 ---
 ### Antonyms
 - [[euhedral]]

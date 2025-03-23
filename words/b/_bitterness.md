@@ -1,9 +1,9 @@
 # Bitterness
 ---
 #noun
-- **The quality of having a [[b/_bitter|bitter]] taste.**
-- **The quality of feeling [[b/_bitter|bitter]]; [[a/_acrimony|acrimony]], resentment.**
+- **The quality of having a bitter taste.**
+- **The quality of feeling bitter; acrimony, resentment.**
 ---
 ### Synonyms
-- [[acerbicness]], [[acridity]], [[acridness]], [[acrimony]], [[gall]], [[rancor]], [[rancour]], [[resentment]]
+- [[acerbicness]], [[[[a/_acridity|acridity]]]], [[[[a/_acridness|acridness]]]], [[[[a/_acrimony|acrimony]]]], [[gall]], [[rancor]], [[rancour]], [[resentment]]
 ---

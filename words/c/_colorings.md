@@ -1,15 +1,15 @@
 # Colorings
 ---
 #noun
-- **An [[a/_act|act]] or process which [[a/_applies|applies]] [[c/_color|color]].**
-- **[[a/_any|Any]] substance used to give [[c/_color|color]].**
+- **An act or process which applies color.**
+- **Any substance used to give color.**
 	- _Example: Our cookies contain no artificial flavorings or colorings._
-- **The [[a/_appearance|appearance]] as to [[c/_color|color]].**
+- **The appearance as to color.**
 - **A disguise or discoloration.**
-- **An [[a/_assignment|assignment]] of a [[c/_color|color]] to each vertex of a graph such that no two vertices [[c/_connected|connected]] by an edge are given the same [[c/_color|color]].**
+- **An assignment of a color to each vertex of a graph such that no two vertices connected by an edge are given the same color.**
 ---
 ### Synonyms
-- [[coloration]], [[pigment]]
+- [[[[c/_coloration|coloration]]]], [[pigment]]
 ### Antonyms
-- [[bleach]], [[neutral]], [[shade]]
+- [[[[b/_bleach|bleach]]]], [[neutral]], [[shade]]
 ---

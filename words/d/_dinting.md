@@ -1,0 +1,6 @@
+# Dinting
+---
+#verb
+- **To dent.**
+---
+---

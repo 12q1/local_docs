@@ -1,11 +1,11 @@
 # Dandified
 ---
 #adjective
-- **[[c/_characteristic|Characteristic]] (in dress and habits) of a [[d/_dandy|dandy]]**
+- **Characteristic (in dress and habits) of a dandy**
 ---
 #verb
-- **To dress as, or to [[a/_adopt|adopt]] the style of, a [[d/_dandy|dandy]].**
+- **To dress as, or to adopt the style of, a dandy.**
 ---
 ### Synonyms
-- [[dandyize]]
+- [[[[d/_dandyize|dandyize]]]]
 ---

@@ -1,6 +1,6 @@
 # Amphoteric
 ---
 #adjective
-- **Having the [[c/_characteristics|characteristics]] of [[b/_both|both]] an [[a/_acid|acid]] and a [[b/_base|base]], and [[c/_capable|capable]] of reacting as either; [[a/_amphiprotic|amphiprotic]].**
+- **Having the characteristics of both an acid and a base, and capable of reacting as either; amphiprotic.**
 ---
 ---

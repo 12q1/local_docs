@@ -1,7 +1,7 @@
 # Betrayal
 ---
 #noun
-- **The [[a/_act|act]] of [[b/_betraying|betraying]]**
+- **The act of betraying**
 ---
 ### Synonyms
 - [[perfidiousness]], [[perfidy]], [[treacherousness]], [[treachery]], [[treason]]

@@ -1,8 +1,8 @@
 # Barman
 ---
 #noun
-- **A man who works in a [[b/_bar|bar]].**
+- **A man who works in a bar.**
 ---
 ### Synonyms
-- [[barkeep]], [[bartender]]
+- [[[[b/_barkeep|barkeep]]]], [[[[b/_bartender|bartender]]]]
 ---

@@ -1,7 +1,7 @@
 # Beardy
 ---
 #adjective
-- **[[b/_bearded|Bearded]].**
+- **Bearded.**
 - **Manly, masculine.**
 ---
 ---

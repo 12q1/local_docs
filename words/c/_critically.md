@@ -1,10 +1,10 @@
 # Critically
 ---
 #adverb
-- **In a [[c/_critical|critical]] manner; with, or in terms of, [[c/_criticism|criticism]].**
+- **In a critical manner; with, or in terms of, criticism.**
 	- _Example: I looked critically at the frayed carpet of the hotel room._
-- **With [[c/_close|close]] discernment; [[a/_accurately|accurately]]; exactly.**
-- **At a [[c/_crisis|crisis]] or [[c/_critical|critical]] time; in a situation, place, or [[c/_condition|condition]] of [[d/_decisive|decisive]] [[c/_consequence|consequence]].**
+- **With close discernment; accurately; exactly.**
+- **At a crisis or critical time; in a situation, place, or condition of decisive consequence.**
 	- _Example: a fortification critically situated_
 ---
 ### Antonyms

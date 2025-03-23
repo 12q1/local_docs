@@ -1,10 +1,10 @@
 # Deeply
 ---
 #adverb
-- **At [[d/_depth|depth]], in a [[d/_deep|deep]] way.**
-- **To a [[d/_deep|deep]] extent.**
+- **At depth, in a deep way.**
+- **To a deep extent.**
 - **Profoundly.**
 ---
 ### Synonyms
-- [[deep]]
+- [[[[d/_deep|deep]]]]
 ---

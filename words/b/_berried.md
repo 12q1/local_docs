@@ -1,17 +1,17 @@
 # Berried
 ---
 #adjective
-- **[[b/_bearing|Bearing]] [[b/_berries|berries]].**
-- **[[c/_consisting|Consisting]] of a [[b/_berry|berry]]; [[b/_baccate|baccate]].**
+- **Bearing berries.**
+- **Consisting of a berry; baccate.**
 	- _Example: a berried shrub_
 ---
 #verb
-- **To pick [[b/_berries|berries]].**
+- **To pick berries.**
 	- _Example: On summer days Grandma used to take us berrying, whether we wanted to go or not._
-- **To [[b/_bear|bear]] or produce [[b/_berries|berries]].**
+- **To bear or produce berries.**
 ---
 #verb
-- **To [[b/_beat|beat]]; give a [[b/_beating|beating]] to; thrash.**
+- **To beat; give a beating to; thrash.**
 - **To thresh (grain).**
 ---
 ---

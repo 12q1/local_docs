@@ -1,8 +1,8 @@
 # Damnation
 ---
 #noun
-- **The state of [[b/_being|being]] [[d/_damned|damned]]; [[c/_condemnation|condemnation]]; openly expressed disapprobation.**
-- **[[c/_condemnation|Condemnation]] to everlasting punishment in the future state, or the punishment itself.**
+- **The state of being damned; condemnation; openly expressed disapprobation.**
+- **Condemnation to everlasting punishment in the future state, or the punishment itself.**
 ---
 ### Synonyms
 - [[tarnation]]

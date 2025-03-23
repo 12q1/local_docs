@@ -1,11 +1,11 @@
 # Arcing
 ---
 #verb
-- **To move following a [[c/_curved|curved]] path.**
-- **To shape into an [[a/_arc|arc]]; to hold in the form of an [[a/_arc|arc]].**
-- **To form an electrical [[a/_arc|arc]].**
+- **To move following a curved path.**
+- **To shape into an arc; to hold in the form of an arc.**
+- **To form an electrical arc.**
 ---
 #noun
-- **The shape or motion of something that [[a/_arcs|arcs]].**
+- **The shape or motion of something that arcs.**
 ---
 ---

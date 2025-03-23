@@ -1,8 +1,8 @@
 # Capping
 ---
 #verb
-- **To [[c/_cover|cover]] or seal with a [[c/_cap|cap]].**
-- **To [[a/_award|award]] a [[c/_cap|cap]] as a mark of distinction.**
+- **To cover or seal with a cap.**
+- **To award a cap as a mark of distinction.**
 - **To lie over or on top of something.**
 - **To surpass or outdo.**
 - **To set an upper limit on something.**
@@ -15,21 +15,21 @@
 - **To select to play for the national team.**
 	- _Example: Peter Shilton is the most capped English footballer._
 - **To salute by uncovering the head respectfully.**
-- **To [[d/_deprive|deprive]] of a [[c/_cap|cap]].**
+- **To deprive of a cap.**
 - **To tell a lie.**
 ---
 #verb
-- **To [[c/_convert|convert]] text to uppercase.**
+- **To convert text to uppercase.**
 ---
 #verb
-- **To take a screenshot or to record a [[c/_copy|copy]] of a video.**
+- **To take a screenshot or to record a copy of a video.**
 ---
 #noun
-- **The [[a/_act|act]] of removing one's hat as a token of respect.**
-- **The leached upper part of a [[b/_body|body]] or rock that still [[c/_contains|contains]] disseminated sulphide mineral [[d/_deposit|deposit]].**
-- **The process of [[c/_covering|covering]] a [[b/_borehole|borehole]] in order to seal an oil well.**
-- **The selling of a security etc. [[c/_close|close]] to an expiry [[d/_date|date]].**
-- **The [[c/_conversion|conversion]] of a polyhedron into a stellated polyhedron by raising a pyramid on each face.**
-- **The recording of a television [[b/_broadcast|broadcast]] to one's [[c/_computer|computer]].**
+- **The act of removing one's hat as a token of respect.**
+- **The leached upper part of a body or rock that still contains disseminated sulphide mineral deposit.**
+- **The process of covering a borehole in order to seal an oil well.**
+- **The selling of a security etc. close to an expiry date.**
+- **The conversion of a polyhedron into a stellated polyhedron by raising a pyramid on each face.**
+- **The recording of a television broadcast to one's computer.**
 ---
 ---

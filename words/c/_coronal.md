@@ -1,16 +1,16 @@
 # Coronal
 ---
 #noun
-- **A [[c/_crown|crown]] or [[c/_coronet|coronet]].**
+- **A crown or coronet.**
 - **A wreath or garland of flowers.**
-- **The frontal [[b/_bone|bone]], over which the [[a/_ancients|ancients]] wore their [[c/_coronae|coronae]] or garlands.**
-- **A [[c/_consonant|consonant]] produced with the tip or [[b/_blade|blade]] of the tongue.**
+- **The frontal bone, over which the ancients wore their coronae or garlands.**
+- **A consonant produced with the tip or blade of the tongue.**
 ---
 #adjective
-- **Relating to a [[c/_crown|crown]] or [[c/_coronation|coronation]].**
-- **Relating to the [[c/_corona|corona]] of a star.**
-- **Relating to the [[c/_corona|corona]] of a flower.**
-- **Relating to a sound made with the tip or [[b/_blade|blade]] of the tongue.**
-- **Relating to the [[c/_coronal|coronal]] plane that divides a [[b/_body|body]] into dorsal ([[b/_back|back]]) and ventral (front).**
+- **Relating to a crown or coronation.**
+- **Relating to the corona of a star.**
+- **Relating to the corona of a flower.**
+- **Relating to a sound made with the tip or blade of the tongue.**
+- **Relating to the coronal plane that divides a body into dorsal (back) and ventral (front).**
 ---
 ---

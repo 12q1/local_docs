@@ -1,7 +1,7 @@
 # Conciliatory
 ---
 #adjective
-- **Willing to [[c/_conciliate|conciliate]], or to make [[c/_concessions|concessions]].**
+- **Willing to conciliate, or to make concessions.**
 ---
 ### Antonyms
 - [[unconciliatory]]

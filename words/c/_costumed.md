@@ -1,9 +1,9 @@
 # Costumed
 ---
 #verb
-- **To dress or [[a/_adorn|adorn]] with a [[c/_costume|costume]] or [[a/_appropriate|appropriate]] garb.**
+- **To dress or adorn with a costume or appropriate garb.**
 ---
 #adjective
-- **Wearing a [[c/_costume|costume]]; disguised.**
+- **Wearing a costume; disguised.**
 ---
 ---

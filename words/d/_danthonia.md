@@ -1,6 +1,6 @@
 # Danthonia
 ---
 #noun
-- **[[a/_any|Any]] of the genus [[d/_danthonia|Danthonia]] of Eurasian, North [[a/_african|African]], and [[a/_american|American]] grasses.**
+- **Any of the genus Danthonia of Eurasian, North African, and American grasses.**
 ---
 ---

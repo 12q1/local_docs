@@ -5,7 +5,7 @@
 - **A passage having this mark**
 ---
 #adjective
-- **[[d/_describing|Describing]] a passage having this mark; singable, lyrical**
+- **Describing a passage having this mark; singable, lyrical**
 ---
 #adverb
 - **Played in this style; singingly, lyrically**

@@ -1,0 +1,6 @@
+# Doge
+---
+#noun
+- **The chief magistrate in the republics of Venice and Genoa.**
+---
+---

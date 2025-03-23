@@ -1,9 +1,9 @@
 # Chirped
 ---
 #verb
-- **To make a short, sharp, [[c/_cheerful|cheerful]] note, as of small [[b/_birds|birds]] or [[c/_crickets|crickets]]**
+- **To make a short, sharp, cheerful note, as of small birds or crickets**
 - **To speak in a high-pitched staccato**
-- **(radar, sonar, radio telescopy etc.) To modify (a pulse of signal) so that it sweeps through a [[b/_band|band]] of frequencies throughout its duration.**
-- **To [[c/_cheer|cheer]] up; to make (someone) happier.**
+- **(radar, sonar, radio telescopy etc.) To modify (a pulse of signal) so that it sweeps through a band of frequencies throughout its duration.**
+- **To cheer up; to make (someone) happier.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Beriberi
 ---
 #noun
-- **An [[a/_ailment|ailment]] [[c/_caused|caused]] by a [[d/_deficiency|deficiency]] of thiamine (vitamin B1), leading to lethargy and organ [[c/_complications|complications]].**
+- **An ailment caused by a deficiency of thiamine (vitamin B1), leading to lethargy and organ complications.**
 ---
 ### Synonyms
 - [[endemic neuritis]], [[kakke]]

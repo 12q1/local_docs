@@ -1,7 +1,7 @@
 # Belated
 ---
 #verb
-- **To retard; [[c/_cause|cause]] something to be late; [[d/_delay|delay]]; [[b/_benight|benight]].**
+- **To retard; cause something to be late; delay; benight.**
 ---
 #adjective
 - **Later in relation to the proper time something should have happened.**

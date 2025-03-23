@@ -1,8 +1,8 @@
 # Colleagues
 ---
 #noun
-- **A fellow member of a profession, staff, [[a/_academic|academic]] faculty or other organization; an [[a/_associate|associate]].**
+- **A fellow member of a profession, staff, academic faculty or other organization; an associate.**
 ---
 ### Synonyms
-- [[coworker]], [[workmate]]
+- [[[[c/_coworker|coworker]]]], [[workmate]]
 ---

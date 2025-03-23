@@ -1,9 +1,9 @@
 # Convoy
 ---
 #noun
-- **One or more merchant ships sailing in [[c/_company|company]] to the same general [[d/_destination|destination]] under the protection of naval vessels.**
+- **One or more merchant ships sailing in company to the same general destination under the protection of naval vessels.**
 - **A group of vehicles travelling together for safety, especially one with an escort.**
-- **The [[a/_act|act]] of [[c/_convoying|convoying]]; protection.**
+- **The act of convoying; protection.**
 ---
 #verb
 - **To escort a group of vehicles, and provide protection.**

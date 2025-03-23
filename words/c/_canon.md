@@ -1,28 +1,28 @@
 # Canon
 ---
 #noun
-- **A generally [[a/_accepted|accepted]] principle; a rule.**
+- **A generally accepted principle; a rule.**
 	- _Example: The trial must proceed according to the canons of law._
-- **A group of literary works that are generally [[a/_accepted|accepted]] as representing a field.**
-- **The works of a writer that have [[b/_been|been]] [[a/_accepted|accepted]] as [[a/_authentic|authentic]].**
+- **A group of literary works that are generally accepted as representing a field.**
+- **The works of a writer that have been accepted as authentic.**
 	- _Example: the entire Shakespeare canon_
-- **A eucharistic prayer, particularly the Roman [[c/_canon|Canon]].**
-- **A religious law or [[b/_body|body]] of law [[d/_decreed|decreed]] by the [[c/_church|church]].**
+- **A eucharistic prayer, particularly the Roman Canon.**
+- **A religious law or body of law decreed by the church.**
 	- _Example: We must proceed according to canon law._
-- **A [[c/_catalogue|catalogue]] of saints [[a/_acknowledged|acknowledged]] and [[c/_canonized|canonized]] in the Roman [[c/_catholic|Catholic]] [[c/_church|Church]].**
-- **In monasteries, a [[b/_book|book]] [[c/_containing|containing]] the rules of a religious order.**
-- **A member of a [[c/_cathedral|cathedral]] [[c/_chapter|chapter]]; one who possesses a prebend in a [[c/_cathedral|cathedral]] or [[c/_collegiate|collegiate]] [[c/_church|church]].**
-- **A piece of music in which the same melody is played by different voices, but [[b/_beginning|beginning]] at different times; a round.**
+- **A catalogue of saints acknowledged and canonized in the Roman Catholic Church.**
+- **In monasteries, a book containing the rules of a religious order.**
+- **A member of a cathedral chapter; one who possesses a prebend in a cathedral or collegiate church.**
+- **A piece of music in which the same melody is played by different voices, but beginning at different times; a round.**
 	- _Example: Pachelbel’s Canon has become very popular._
-- **(Roman law) A rent or stipend payable at some regular time, generally [[a/_annual|annual]], e.g., [[c/_canon|canon]] frumentarius**
-- **Those sources, especially including literary works, which are [[c/_considered|considered]] part of the main [[c/_continuity|continuity]] regarding a given fictional universe.**
+- **(Roman law) A rent or stipend payable at some regular time, generally annual, e.g., canon frumentarius**
+- **Those sources, especially including literary works, which are considered part of the main continuity regarding a given fictional universe.**
 	- _Example: A spin-off book series revealed the aliens to be originally from Earth, but it's not canon._
-- **A rolled and filleted loin of meat; [[a/_also|also]] [[c/_called|called]] [[c/_cannon|cannon]].**
+- **A rolled and filleted loin of meat; also called cannon.**
 	- _Example: a canon of beef or lamb_
-- **A large size of type formerly used for printing the [[c/_church|church]] [[c/_canons|canons]], standardized as 48-point.**
-- **The part of a [[b/_bell|bell]] by which it is suspended; the ear or shank of a [[b/_bell|bell]].**
-- **A [[c/_carom|carom]].**
+- **A large size of type formerly used for printing the church canons, standardized as 48-point.**
+- **The part of a bell by which it is suspended; the ear or shank of a bell.**
+- **A carom.**
 ---
 ### Synonyms
-- [[French canon]]
+- [[French [[c/_canon|canon]]]]
 ---

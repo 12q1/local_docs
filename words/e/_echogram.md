@@ -1,0 +1,6 @@
+# Echogram
+---
+#noun
+- **Sonogram**
+---
+---

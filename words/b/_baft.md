@@ -1,11 +1,11 @@
 # Baft
 ---
 #adverb
-- **On the [[a/_aft|aft]] side; in the stern.**
+- **On the aft side; in the stern.**
 	- _Example: The mate sleeps abaft._
-- **[[b/_backwards|Backwards]].**
+- **Backwards.**
 ---
 #preposition
-- **[[b/_behind|Behind]]; toward the stern relative to some other object or position; [[a/_aft|aft]] of.**
+- **Behind; toward the stern relative to some other object or position; aft of.**
 ---
 ---

@@ -1,0 +1,6 @@
+# Dino
+---
+#noun
+- **Dinosaur.**
+---
+---

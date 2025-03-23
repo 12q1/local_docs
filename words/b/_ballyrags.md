@@ -1,6 +1,6 @@
 # Ballyrags
 ---
 #verb
-- **To harass, [[b/_badger|badger]], taunt, or [[a/_abuse|abuse]] verbally.**
+- **To harass, badger, taunt, or abuse verbally.**
 ---
 ---

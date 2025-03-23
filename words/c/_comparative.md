@@ -1,19 +1,19 @@
 # Comparative
 ---
 #noun
-- **(grammar) A [[c/_construction|construction]] showing a relative quality, in English usually formed by [[a/_adding|adding]] more or [[a/_appending|appending]] -er. For example, the [[c/_comparative|comparative]] of green is greener; of evil, more evil.**
-- **(grammar) A word in the [[c/_comparative|comparative]] form.**
-- **([[c/_chiefly|chiefly]] in the plural) [[d/_data|Data]] used to make a [[c/_comparison|comparison]].**
-- **An equal; a rival; a [[c/_compeer|compeer]].**
-- **One who makes [[c/_comparisons|comparisons]]; one who [[a/_affects|affects]] wit.**
+- **(grammar) A construction showing a relative quality, in English usually formed by adding more or appending -er. For example, the comparative of green is greener; of evil, more evil.**
+- **(grammar) A word in the comparative form.**
+- **(chiefly in the plural) Data used to make a comparison.**
+- **An equal; a rival; a compeer.**
+- **One who makes comparisons; one who affects wit.**
 ---
 ### Synonyms
-- [[comparative degree]]
+- [[[[c/_comparative|comparative]] [[d/_degree|degree]]]]
 #adjective
-- **Of or relating to [[c/_comparison|comparison]].**
-- **Using [[c/_comparison|comparison]] as a method of study, or founded on something using it.**
+- **Of or relating to comparison.**
+- **Using comparison as a method of study, or founded on something using it.**
 	- _Example: comparative anatomy_
-- **[[a/_approximated|Approximated]] by [[c/_comparison|comparison]]; relative.**
-- **[[c/_comparable|Comparable]]; [[b/_bearing|bearing]] [[c/_comparison|comparison]].**
+- **Approximated by comparison; relative.**
+- **Comparable; bearing comparison.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Cunctation
 ---
 #noun
-- **[[d/_delay|Delay]], hesitation, procrastination.**
+- **Delay, hesitation, procrastination.**
 ---
 ### Synonyms
-- [[dilation]], [[hold-up]]
+- [[[[d/_dilation|dilation]]]], [[hold-up]]
 ---

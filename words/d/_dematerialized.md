@@ -1,10 +1,10 @@
 # Dematerialized
 ---
 #verb
-- **To disappear by [[b/_becoming|becoming]] immaterial.**
-- **To [[c/_cause|cause]] something to disappear by [[b/_becoming|becoming]] immaterial.**
+- **To disappear by becoming immaterial.**
+- **To cause something to disappear by becoming immaterial.**
 - **To remove the physical materials from (a process, etc.)**
 ---
 ### Synonyms
-- [[disappear]], [[disintegrate]], [[dissolve]], [[vanish]]
+- [[[[d/_disappear|disappear]]]], [[[[d/_disintegrate|disintegrate]]]], [[[[d/_dissolve|dissolve]]]], [[vanish]]
 ---

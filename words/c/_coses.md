@@ -1,9 +1,9 @@
 # Coses
 ---
 #noun
-- **A variety of lettuce with long, [[c/_crisp|crisp]] leaves.**
+- **A variety of lettuce with long, crisp leaves.**
 ---
 #verb
-- **To make oneself [[c/_cosy|cosy]]; to be snug.**
+- **To make oneself cosy; to be snug.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Aneroid
 ---
 #noun
-- **An [[a/_aneroid|aneroid]] [[b/_barometer|barometer]]**
+- **An aneroid barometer**
 ---
 #adjective
-- **Not using or [[c/_containing|containing]] fluid**
+- **Not using or containing fluid**
 	- _Example: An evacuated bellows and mechanical linkage operates an aneroid barometer._
 ---
 ---

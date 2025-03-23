@@ -1,0 +1,7 @@
+# Dissymmetry
+---
+#noun
+- **Asymmetry**
+- **Chirality**
+---
+---

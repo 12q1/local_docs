@@ -1,7 +1,7 @@
 # Crabstick
 ---
 #noun
-- **A [[c/_cudgel|cudgel]], originally made of the wood of a [[c/_crabapple|crabapple]] tree, hence [[a/_any|any]] similar [[c/_club|club]].**
-- **A [[c/_crabby|crabby]], ill-tempered person.**
+- **A cudgel, originally made of the wood of a crabapple tree, hence any similar club.**
+- **A crabby, ill-tempered person.**
 ---
 ---

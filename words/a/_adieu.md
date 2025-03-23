@@ -8,5 +8,5 @@
 - **Said to wish a final farewell; goodbye.**
 ---
 ### Synonyms
-- [[addio]], [[adios]], [[aloha]], [[arrivederci]], [[au revoir]], [[auf Wiedersehen]], [[bye]], [[bye-bye]], [[cheerio]], [[cheers]], [[ciao]], [[farewell]], [[good day]], [[good-by]], [[good-bye]], [[goodbye]], [[sayonara]], [[shalom]], [[so long]]
+- [[[[a/_addio|addio]]]], [[[[a/_adios|adios]]]], [[[[a/_aloha|aloha]]]], [[[[a/_arrivederci|arrivederci]]]], [[au revoir]], [[[[a/_auf|auf]] Wiedersehen]], [[[[b/_bye|bye]]]], [[[[b/_bye|bye]]-[[b/_bye|bye]]]], [[[[c/_cheerio|cheerio]]]], [[[[c/_cheers|cheers]]]], [[[[c/_ciao|ciao]]]], [[farewell]], [[good [[d/_day|day]]]], [[good-by]], [[good-[[b/_bye|bye]]]], [[goodbye]], [[sayonara]], [[shalom]], [[so long]]
 ---

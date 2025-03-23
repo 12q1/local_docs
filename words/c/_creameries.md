@@ -1,7 +1,7 @@
 # Creameries
 ---
 #noun
-- **A place where [[d/_dairy|dairy]] products are prepared or sold.**
-- **An ice [[c/_cream|cream]] parlour.**
+- **A place where dairy products are prepared or sold.**
+- **An ice cream parlour.**
 ---
 ---

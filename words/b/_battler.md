@@ -1,8 +1,8 @@
 # Battler
 ---
 #noun
-- **One who wages [[b/_battle|battle]] [[a/_against|against]] an enemy; a soldier; a general.**
+- **One who wages battle against an enemy; a soldier; a general.**
 - **An itinerant worker or unemployed person.**
-- **One who who works hard in the face of [[a/_adversity|adversity]].**
+- **One who who works hard in the face of adversity.**
 ---
 ---

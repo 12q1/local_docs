@@ -1,8 +1,8 @@
 # Chloroquine
 ---
 #noun
-- **A 4-[[a/_aminoquinoline|aminoquinoline]] drug used to treat and prevent malaria, having the [[c/_chemical|chemical]] formula C18H26ClN3**
+- **A 4-aminoquinoline drug used to treat and prevent malaria, having the chemical formula C18H26ClN3**
 ---
 ### Synonyms
-- [[CQ]]
+- [[[[c/_cq|CQ]]]]
 ---

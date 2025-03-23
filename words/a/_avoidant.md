@@ -1,9 +1,9 @@
 # Avoidant
 ---
 #noun
-- **A person who exhibits [[a/_avoidance|avoidance]].**
+- **A person who exhibits avoidance.**
 ---
 #adjective
-- **Exhibiting [[a/_avoidance|avoidance]]; [[a/_avoiding|avoiding]] something.**
+- **Exhibiting avoidance; avoiding something.**
 ---
 ---

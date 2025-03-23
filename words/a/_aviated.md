@@ -1,7 +1,7 @@
 # Aviated
 ---
 #verb
-- **To operate an [[a/_aircraft|aircraft]].**
+- **To operate an aircraft.**
 ---
 ### Synonyms
 - [[fly]], [[pilot]]

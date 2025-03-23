@@ -1,6 +1,6 @@
 # Copra
 ---
 #noun
-- **The dried kernel of the [[c/_coconut|coconut]], from which [[c/_coconut|coconut]] oil is extruded.**
+- **The dried kernel of the coconut, from which coconut oil is extruded.**
 ---
 ---

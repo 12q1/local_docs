@@ -1,9 +1,9 @@
 # Childlike
 ---
 #adjective
-- **Innocent and trustful; [[c/_credulous|credulous]]; [[a/_artless|artless]].**
-- **Of, like, or suitable for a [[c/_child|child]].**
+- **Innocent and trustful; credulous; artless.**
+- **Of, like, or suitable for a child.**
 ---
 ### Synonyms
-- [[childish]], [[childly]], [[credulous]], [[unworldly]]
+- [[[[c/_childish|childish]]]], [[[[c/_childly|childly]]]], [[[[c/_credulous|credulous]]]], [[unworldly]]
 ---

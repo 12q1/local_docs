@@ -1,29 +1,29 @@
 # Clams
 ---
 #noun
-- **[[a/_acronym|Acronym]] of [[c/_clip|Clip]]-on Load [[a/_adjusting|Adjusting]] Mechanism. A device that [[c/_can|can]] be fitted onto an oar to [[a/_adjust|adjust]] set.**
+- **Acronym of Clip-on Load Adjusting Mechanism. A device that can be fitted onto an oar to adjust set.**
 ---
 #noun
-- **A [[b/_bivalve|bivalve]] mollusk of many kinds, especially those that are edible; for example the soft-shell [[c/_clam|clam]] (Mya [[a/_arenaria|arenaria]]), the hard [[c/_clam|clam]] (Mercenaria mercenaria), the sea [[c/_clam|clam]] or hen [[c/_clam|clam]] (Spisula solidissima), and other species. The name is said to have [[b/_been|been]] given originally to the Tridacna gigas, a huge East Indian [[b/_bivalve|bivalve]].**
+- **A bivalve mollusk of many kinds, especially those that are edible; for example the soft-shell clam (Mya arenaria), the hard clam (Mercenaria mercenaria), the sea clam or hen clam (Spisula solidissima), and other species. The name is said to have been given originally to the Tridacna gigas, a huge East Indian bivalve.**
 - **Strong pincers or forceps.**
 - **A kind of vise, usually of wood.**
 - **A dollar (usually used in the plural).**
 	- _Example: Those sneakers cost me fifty clams!_
 - **A Scientologist.**
 - **A vagina.**
-- **One who [[c/_clams|clams]] up; a taciturn person, one who refuses to speak.**
+- **One who clams up; a taciturn person, one who refuses to speak.**
 ---
 #verb
-- **To dig for [[c/_clams|clams]].**
+- **To dig for clams.**
 ---
 #noun
-- **A [[c/_crash|crash]] or [[c/_clangor|clangor]] made by ringing [[a/_all|all]] the [[b/_bells|bells]] of a [[c/_chime|chime]] at once.**
+- **A crash or clangor made by ringing all the bells of a chime at once.**
 ---
 #verb
-- **To produce, in bellringing, a [[c/_clam|clam]] or [[c/_clangor|clangor]]; to [[c/_cause|cause]] to [[c/_clang|clang]].**
+- **To produce, in bellringing, a clam or clangor; to cause to clang.**
 ---
 #verb
-- **To be moist or glutinous; to stick; to [[a/_adhere|adhere]].**
-- **To [[c/_clog|clog]], as with glutinous or viscous matter.**
+- **To be moist or glutinous; to stick; to adhere.**
+- **To clog, as with glutinous or viscous matter.**
 ---
 ---

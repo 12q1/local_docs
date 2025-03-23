@@ -1,9 +1,9 @@
 # Abscissa
 ---
 #noun
-- **The first of the two terms by which a point is referred to, in a system of fixed rectilinear [[c/_coordinate|coordinate]] ([[c/_cartesian|Cartesian]] [[c/_coordinate|coordinate]]) [[a/_axes|axes]].**
-- **The horizontal line representing an [[a/_axis|axis]] of a [[c/_cartesian|Cartesian]] [[c/_coordinate|coordinate]] system, on which the [[a/_abscissa|abscissa]] (sense [[a/_above|above]]) is shown.**
+- **The first of the two terms by which a point is referred to, in a system of fixed rectilinear coordinate (Cartesian coordinate) axes.**
+- **The horizontal line representing an axis of a Cartesian coordinate system, on which the abscissa (sense above) is shown.**
 ---
 ### Synonyms
-- [[absciss]]
+- [[[[a/_absciss|absciss]]]]
 ---

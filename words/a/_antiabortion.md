@@ -1,7 +1,7 @@
 # Antiabortion
 ---
 #adjective
-- **Opposed to the practice or legalization of [[a/_abortion|abortion]].**
+- **Opposed to the practice or legalization of abortion.**
 ---
 ### Synonyms
 - [[antichoice]], [[pro-life]]

@@ -1,8 +1,8 @@
 # Broadbill
 ---
 #noun
-- **[[a/_any|Any]] of several ducks having a [[b/_broad|broad]] [[b/_bill|bill]], including the shoveler**
-- **[[a/_any|Any]] of several small passerine [[b/_birds|birds]] of the family Eurylaimidae.**
+- **Any of several ducks having a broad bill, including the shoveler**
+- **Any of several small passerine birds of the family Eurylaimidae.**
 - **A swordfish**
 ---
 ---

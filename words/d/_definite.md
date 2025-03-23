@@ -1,16 +1,16 @@
 # Definite
 ---
 #noun
-- **(grammar) A word or phrase that [[d/_designates|designates]] a specified or identified person or entity.**
-- **[[a/_anything|Anything]] that is [[d/_defined|defined]] or [[d/_determined|determined]].**
+- **(grammar) A word or phrase that designates a specified or identified person or entity.**
+- **Anything that is defined or determined.**
 ---
 #adjective
 - **Having distinct limits.**
 	- _Example: definite dimensions; a definite measure; a definite period or interval_
-- **Free from [[a/_any|any]] doubt.**
+- **Free from any doubt.**
 	- _Example: definite knowledge_
-- **[[d/_determined|Determined]]; resolved; [[d/_decided|decided]].**
-- **[[d/_designating|Designating]] an identified or immediately identifiable person or thing, or group of persons or things**
+- **Determined; resolved; decided.**
+- **Designating an identified or immediately identifiable person or thing, or group of persons or things**
 	- _Example: the definite article_
 ---
 ### Synonyms

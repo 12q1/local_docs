@@ -1,6 +1,6 @@
 # Covelline
 ---
 #noun
-- **[[c/_covellite|Covellite]]**
+- **Covellite**
 ---
 ---

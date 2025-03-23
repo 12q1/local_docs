@@ -1,9 +1,9 @@
 # Deckhand
 ---
 #noun
-- **A member of the [[c/_crew|crew]] of a merchant ship who performs manual labour.**
+- **A member of the crew of a merchant ship who performs manual labour.**
 ---
 #verb
-- **To work on a [[b/_boat|boat]] as a [[d/_deckhand|deckhand]]; [[c/_crew|crew]].**
+- **To work on a boat as a deckhand; crew.**
 ---
 ---

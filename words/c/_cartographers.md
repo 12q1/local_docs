@@ -1,7 +1,7 @@
 # Cartographers
 ---
 #noun
-- **One who makes maps or [[c/_charts|charts]].**
+- **One who makes maps or charts.**
 ---
 ### Synonyms
 - [[cartographist]], [[mapmaker]]

@@ -3,7 +3,7 @@
 #noun
 - **Food.**
 - **Nourishment, sustenance.**
-- **An [[a/_allowance|allowance]] for maintenance; [[a/_alimony|alimony]].**
+- **An allowance for maintenance; alimony.**
 ---
 #verb
 - **To feed, nourish.**

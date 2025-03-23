@@ -1,7 +1,7 @@
 # Corrector
 ---
 #noun
-- **One who [[c/_corrects|corrects]].**
+- **One who corrects.**
 - **A proofreader.**
 - **A director or governor.**
 ---

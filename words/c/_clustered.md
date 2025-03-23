@@ -1,14 +1,14 @@
 # Clustered
 ---
 #verb
-- **To form a [[c/_cluster|cluster]] or group.**
+- **To form a cluster or group.**
 	- _Example: The children clustered around the puppy._
-- **To [[c/_collect|collect]] into [[c/_clusters|clusters]].**
-- **To [[c/_cover|cover]] with [[c/_clusters|clusters]].**
+- **To collect into clusters.**
+- **To cover with clusters.**
 ---
 #adjective
-- **Grouped into a [[c/_cluster|cluster]].**
-- **(of a primary key) Used as the [[c/_clustering|clustering]] key of a [[c/_clustered|clustered]] index.**
+- **Grouped into a cluster.**
+- **(of a primary key) Used as the clustering key of a clustered index.**
 ---
 ### Antonyms
 - [[nonclustered]]

@@ -1,10 +1,10 @@
 # Clathrate
 ---
 #noun
-- **A [[c/_clathrate|clathrate]] [[c/_compound|compound]].**
+- **A clathrate compound.**
 ---
 #adjective
 - **Having a lattice-like structure.**
-- **Of an inclusion [[c/_complex|complex]]: in which molecules of one [[c/_compound|compound]] are enclosed within the [[c/_crystal|crystal]] structure of [[a/_another|another]].**
+- **Of an inclusion complex: in which molecules of one compound are enclosed within the crystal structure of another.**
 ---
 ---

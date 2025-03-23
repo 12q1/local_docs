@@ -5,5 +5,5 @@
 	- _Example: a courteous gentleman   a courteous gesture_
 ---
 ### Antonyms
-- [[discourteous]], [[uncourteous]]
+- [[[[d/_discourteous|discourteous]]]], [[uncourteous]]
 ---

@@ -5,5 +5,5 @@
 - **The difficulty in finding the right word.**
 ---
 ### Synonyms
-- [[dysnomia]], [[nominal aphasia]]
+- [[dysnomia]], [[nominal [[a/_aphasia|aphasia]]]]
 ---

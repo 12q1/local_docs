@@ -1,10 +1,10 @@
 # Catalogued
 ---
 #verb
-- **To put into a [[c/_catalogue|catalogue]].**
-- **To make a [[c/_catalogue|catalogue]] of.**
-- **To [[a/_add|add]] items (e.g. [[b/_books|books]]) to an existing [[c/_catalogue|catalogue]].**
+- **To put into a catalogue.**
+- **To make a catalogue of.**
+- **To add items (e.g. books) to an existing catalogue.**
 ---
 ### Synonyms
-- [[put down]], [[list]]
+- [[put [[d/_down|down]]]], [[list]]
 ---

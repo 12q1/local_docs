@@ -1,14 +1,14 @@
 # Cadging
 ---
 #verb
-- **To [[b/_beg|beg]].**
+- **To beg.**
 	- _Example: "Are ye gannin te cadge a lift of yoer fatha?"_
-- **To obtain something by wit or guile; to [[c/_convince|convince]] people to do something they might not normally do.**
-- **To [[c/_carry|carry]] hawks and other [[b/_birds|birds]] of prey.**
-- **To [[c/_carry|carry]], as a [[b/_burden|burden]].**
+- **To obtain something by wit or guile; to convince people to do something they might not normally do.**
+- **To carry hawks and other birds of prey.**
+- **To carry, as a burden.**
 - **To hawk or peddle, as fish, poultry, etc.**
-- **To intrude or live on [[a/_another|another]] meanly; to [[b/_beg|beg]].**
+- **To intrude or live on another meanly; to beg.**
 ---
 ### Synonyms
-- [[bum]], [[scrounge]]
+- [[[[b/_bum|bum]]]], [[scrounge]]
 ---

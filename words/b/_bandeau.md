@@ -1,9 +1,9 @@
 # Bandeau
 ---
 #noun
-- **A [[b/_band|band]] for the hair.**
+- **A band for the hair.**
 	- _Example: She wore a bandeau in her hair._
-- **A [[b/_band|band]].**
-- **A narrow, tight [[b/_bra|bra]], especially when strapless; hence, [[a/_any|any]] women's top made from a similar [[b/_band|band]] of fabric.**
+- **A band.**
+- **A narrow, tight bra, especially when strapless; hence, any women's top made from a similar band of fabric.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Defloration
 ---
 #noun
-- **The [[a/_act|act]] of [[d/_deflowering|deflowering]]**
+- **The act of deflowering**
 ---
 ### Synonyms
-- [[deflowerment]]
+- [[[[d/_deflowerment|deflowerment]]]]
 ---

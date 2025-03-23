@@ -1,9 +1,9 @@
 # Aromaticity
 ---
 #noun
-- **The property of having an [[a/_aroma|aroma]].**
-- **The property of [[b/_being|being]] [[a/_aromatic|aromatic]], i.e. having at least one [[c/_conjugated|conjugated]] ring.**
+- **The property of having an aroma.**
+- **The property of being aromatic, i.e. having at least one conjugated ring.**
 ---
 ### Synonyms
-- [[aromaticness]]
+- [[[[a/_aromaticness|aromaticness]]]]
 ---

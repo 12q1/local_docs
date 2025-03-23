@@ -1,9 +1,9 @@
 # Chlorinated
 ---
 #verb
-- **To [[a/_add|add]] [[c/_chlorine|chlorine]] to (something, especially water, to purify it; or an [[a/_auriferous|auriferous]] substance, to extract gold from it).**
+- **To add chlorine to (something, especially water, to purify it; or an auriferous substance, to extract gold from it).**
 ---
 #adjective
-- **Of water, that has had [[c/_chlorine|chlorine]] [[a/_added|added]] to it to purify it.**
+- **Of water, that has had chlorine added to it to purify it.**
 ---
 ---

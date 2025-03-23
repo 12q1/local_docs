@@ -1,10 +1,10 @@
 # Bewitches
 ---
 #verb
-- **To [[c/_cast|cast]] a spell upon.**
-- **To fascinate or [[c/_charm|charm]].**
+- **To cast a spell upon.**
+- **To fascinate or charm.**
 	- _Example: I was bewitched by the sight of the girl dancing in the forest._
-- **To [[a/_astonish|astonish]], [[a/_amaze|amaze]].**
+- **To astonish, amaze.**
 ---
 ### Synonyms
 - [[forspeak]]

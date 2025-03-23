@@ -1,8 +1,8 @@
 # Champers
 ---
 #noun
-- **[[c/_champagne|Champagne]] (wine).**
+- **Champagne (wine).**
 ---
 ### Synonyms
-- [[bubbly]], [[fizz]], [[shampoo]]
+- [[[[b/_bubbly|bubbly]]]], [[fizz]], [[shampoo]]
 ---

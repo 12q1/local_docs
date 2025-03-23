@@ -1,10 +1,10 @@
 # Bigoted
 ---
 #adjective
-- **Having the [[c/_characteristics|characteristics]] of a [[b/_bigot|bigot]]; strongly prejudiced; forming opinions without just [[c/_cause|cause]]**
+- **Having the characteristics of a bigot; strongly prejudiced; forming opinions without just cause**
 ---
 ### Synonyms
-- [[biased]], [[intolerant]]
+- [[[[b/_biased|biased]]]], [[intolerant]]
 ### Antonyms
 - [[tolerant]]
 ---

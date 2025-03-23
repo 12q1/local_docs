@@ -1,9 +1,9 @@
 # Birchwood
 ---
 #noun
-- **A wood largely populated with [[b/_birch|birch]] trees ([[b/_betula|Betula]] spp.).**
-- **The wood from a [[b/_birch|birch]] tree.**
+- **A wood largely populated with birch trees (Betula spp.).**
+- **The wood from a birch tree.**
 ---
 ### Synonyms
-- [[birch]]
+- [[[[b/_birch|birch]]]]
 ---

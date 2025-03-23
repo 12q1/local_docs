@@ -1,8 +1,8 @@
 # Bespattered
 ---
 #verb
-- **To spatter or [[c/_cover|cover]] with something; sprinkle with [[a/_anything|anything]] liquid, or with [[a/_any|any]] wet or [[a/_adhesive|adhesive]] substance.**
+- **To spatter or cover with something; sprinkle with anything liquid, or with any wet or adhesive substance.**
 - **To soil by spattering.**
-- **To [[a/_asperse|asperse]] with [[c/_calumny|calumny]] or reproach; shend.**
+- **To asperse with calumny or reproach; shend.**
 ---
 ---

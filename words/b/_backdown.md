@@ -1,6 +1,6 @@
 # Backdown
 ---
 #noun
-- **An [[a/_act|act]] of [[b/_backing|backing]] down; a retraction or withdrawal.**
+- **An act of backing down; a retraction or withdrawal.**
 ---
 ---

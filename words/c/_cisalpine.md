@@ -1,6 +1,6 @@
 # Cisalpine
 ---
 #adjective
-- **On this side of the [[a/_alps|Alps]] (with respect to Rome, therefore the south side).**
+- **On this side of the Alps (with respect to Rome, therefore the south side).**
 ---
 ---

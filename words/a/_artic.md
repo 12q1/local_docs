@@ -1,9 +1,9 @@
 # Artic
 ---
 #noun
-- **An [[a/_articulated|articulated]] lorry.**
-- **An [[a/_articulated|articulated]] [[b/_bus|bus]].**
+- **An articulated lorry.**
+- **An articulated bus.**
 ---
 ### Synonyms
-- [[bendy bus]], [[semi-trailer]]
+- [[[[b/_bendy|bendy]] [[b/_bus|bus]]]], [[semi-trailer]]
 ---

@@ -1,7 +1,7 @@
 # Culminant
 ---
 #adjective
-- **[[b/_being|Being]] vertical, or at the highest point of [[a/_altitude|altitude]]**
+- **Being vertical, or at the highest point of altitude**
 - **(by extension) predominant**
 ---
 ---

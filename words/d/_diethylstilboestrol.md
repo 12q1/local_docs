@@ -1,0 +1,6 @@
+# Diethylstilboestrol
+---
+#noun
+- **Diethylstilbestrol**
+---
+---

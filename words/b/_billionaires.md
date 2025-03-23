@@ -1,7 +1,7 @@
 # Billionaires
 ---
 #noun
-- **Somebody whose wealth is greater than one [[b/_billion|billion]] (109) dollars, or other [[c/_currency|currency]].**
+- **Somebody whose wealth is greater than one billion (109) dollars, or other currency.**
 ---
 ### Synonyms
 - [[milliardaire]]

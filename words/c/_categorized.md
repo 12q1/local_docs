@@ -1,11 +1,11 @@
 # Categorized
 ---
 #verb
-- **To [[a/_assign|assign]] a [[c/_category|category]]; to divide into [[c/_classes|classes]].**
+- **To assign a category; to divide into classes.**
 	- _Example: First, categorize incoming messages according to the needed actions._
 ---
 #adjective
-- **The [[c/_characteristic|characteristic]] of having [[b/_been|been]] placed or sorted in a [[c/_category|category]] or [[c/_categories|categories]].**
+- **The characteristic of having been placed or sorted in a category or categories.**
 	- _Example: All of my records are categorized._
 ---
 ### Antonyms

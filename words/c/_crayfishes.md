@@ -1,10 +1,10 @@
 # Crayfishes
 ---
 #noun
-- **[[a/_any|Any]] of numerous freshwater [[d/_decapod|decapod]] [[c/_crustaceans|crustaceans]] in superfamilies Astacoidea and Parastacoidea, resembling the related lobster but usually much smaller.**
+- **Any of numerous freshwater decapod crustaceans in superfamilies Astacoidea and Parastacoidea, resembling the related lobster but usually much smaller.**
 - **A rock lobster (family Palinuridae).**
 - **The species Thenus orientalis of the slipper lobster family.**
 ---
 ### Synonyms
-- [[crawdad]], [[crawfish]], [[crawldad]], [[crawlfish]], [[mudbug]], [[yabby]]
+- [[[[c/_crawdad|crawdad]]]], [[[[c/_crawfish|crawfish]]]], [[crawldad]], [[crawlfish]], [[mudbug]], [[yabby]]
 ---

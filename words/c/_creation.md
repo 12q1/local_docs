@@ -1,11 +1,11 @@
 # Creation
 ---
 #noun
-- **Something [[c/_created|created]] such as an invention or [[a/_artwork|artwork]].**
+- **Something created such as an invention or artwork.**
 	- _Example: I think the manufacturer was so ashamed of its creation that it didn't put its name on it!_
-- **The [[a/_act|act]] of [[c/_creating|creating]] something.**
+- **The act of creating something.**
 	- _Example: The restructure resulted in the creation of a number of shared services._
-- **[[a/_all|All]] which exists.**
+- **All which exists.**
 	- _Example: Let us pray to Christ, the King of all creation._
 ---
 ---

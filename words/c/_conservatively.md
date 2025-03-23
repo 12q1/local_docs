@@ -1,6 +1,6 @@
 # Conservatively
 ---
 #adverb
-- **In a [[c/_conservative|conservative]] manner**
+- **In a conservative manner**
 ---
 ---

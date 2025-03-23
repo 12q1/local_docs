@@ -1,8 +1,8 @@
 # Autocue
 ---
 #noun
-- **[[a/_any|Any]] of several devices that display words for a person to read [[a/_aloud|aloud]]**
+- **Any of several devices that display words for a person to read aloud**
 ---
 ### Synonyms
-- [[idiot board]], [[teleprompter]]
+- [[idiot [[b/_board|board]]]], [[teleprompter]]
 ---

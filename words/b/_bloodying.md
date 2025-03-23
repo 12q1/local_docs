@@ -1,7 +1,7 @@
 # Bloodying
 ---
 #verb
-- **To draw [[b/_blood|blood]] from one's opponent in a fight.**
-- **To [[d/_demonstrably|demonstrably]] harm the [[c/_cause|cause]] of an opponent.**
+- **To draw blood from one's opponent in a fight.**
+- **To demonstrably harm the cause of an opponent.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Decider
 ---
 #noun
-- **(of a [[c/_controversy|controversy]], question, etc) A person, divinity, or [[a/_authoritative|authoritative]] text which [[d/_decides|decides]].**
-- **An event or [[a/_action|action]] which [[d/_decides|decides]] the outcome of a [[c/_contested|contested]] matter.**
+- **(of a controversy, question, etc) A person, divinity, or authoritative text which decides.**
+- **An event or action which decides the outcome of a contested matter.**
 - **A Turing machine that halts regardless of its input.**
 ---
 ---

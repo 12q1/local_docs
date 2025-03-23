@@ -1,7 +1,7 @@
 # Brachiopod
 ---
 #noun
-- **[[a/_any|Any]] of many marine invertebrates, of the phylum [[b/_brachiopoda|Brachiopoda]], that have [[b/_bivalve|bivalve]] dorsal and ventral shells with two tentacle-[[b/_bearing|bearing]] [[a/_arms|arms]] that [[c/_capture|capture]] food**
+- **Any of many marine invertebrates, of the phylum Brachiopoda, that have bivalve dorsal and ventral shells with two tentacle-bearing arms that capture food**
 ---
 ### Synonyms
 - [[lampshell]]

@@ -1,6 +1,6 @@
 # Arrestees
 ---
 #noun
-- **A person who is under [[a/_arrest|arrest]].**
+- **A person who is under arrest.**
 ---
 ---

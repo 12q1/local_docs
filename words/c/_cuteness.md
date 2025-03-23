@@ -1,8 +1,8 @@
 # Cuteness
 ---
 #noun
-- **The state of [[b/_being|being]] [[c/_cute|cute]] (endearingly [[a/_attractive|attractive]]).**
-- **[[a/_acuteness|Acuteness]]; [[c/_cunning|cunning]]**
+- **The state of being cute (endearingly attractive).**
+- **Acuteness; cunning**
 ---
 ### Synonyms
 - [[cutesiness]], [[kawaiiness]]

@@ -1,22 +1,22 @@
 # Bursting
 ---
 #verb
-- **To [[b/_break|break]] from internal pressure.**
+- **To break from internal pressure.**
 	- _Example: I blew the balloon up too much, and it burst._
-- **To [[c/_cause|cause]] to [[b/_break|break]] from internal pressure.**
+- **To cause to break from internal pressure.**
 	- _Example: I burst the balloon when I blew it up too much._
-- **To [[c/_cause|cause]] to [[b/_break|break]] by [[a/_any|any]] means.**
+- **To cause to break by any means.**
 - **To separate (printer paper) at perforation lines.**
 	- _Example: I printed the report on form-feed paper, then burst the sheets._
 - **To enter or exit hurriedly and unexpectedly.**
-- **To erupt; to [[c/_change|change]] state suddenly as if [[b/_bursting|bursting]].**
+- **To erupt; to change state suddenly as if bursting.**
 	- _Example: The flowers burst into bloom on the first day of spring._
-- **To produce as an effect of [[b/_bursting|bursting]].**
+- **To produce as an effect of bursting.**
 	- _Example: to burst a hole through the wall_
 - **To interrupt suddenly in a violent or explosive manner; to shatter.**
 ---
 #noun
-- **The [[a/_act|act]] by which something [[b/_bursts|bursts]].**
+- **The act by which something bursts.**
 	- _Example: the burstings of balloons_
 ---
 #adjective
@@ -26,5 +26,5 @@
 	- _Example: Can you tell me where the toilets are? I'm bursting._
 ---
 ### Synonyms
-- [[busting]]
+- [[[[b/_busting|busting]]]]
 ---

@@ -1,11 +1,11 @@
 # Bucklers
 ---
 #noun
-- **One who [[b/_buckles|buckles]] something.**
-- **A kind of shield, of various shapes and sizes, held with a hand (usually the left) for protecting the front of the [[b/_body|body]]. In the sword and [[b/_buckler|buckler]] play of the Middle [[a/_ages|Ages]] in England, the [[b/_buckler|buckler]] was a small shield, used, not to [[c/_cover|cover]] the [[b/_body|body]], but to stop or parry [[b/_blows|blows]].**
+- **One who buckles something.**
+- **A kind of shield, of various shapes and sizes, held with a hand (usually the left) for protecting the front of the body. In the sword and buckler play of the Middle Ages in England, the buckler was a small shield, used, not to cover the body, but to stop or parry blows.**
 - **A shield resembling the Roman scutum. In modern usage, a smaller variety of shield is usually implied by this term.**
-- **One of the large, [[b/_bony|bony]], external plates found on many ganoid fishes.**
-- **The [[a/_anterior|anterior]] segment of the shell of a trilobites.**
-- **A [[b/_block|block]] of wood or plate of iron made to fit a hawse hole, or the [[c/_circular|circular]] opening in a half-port, to prevent water from entering when the vessel pitches.**
+- **One of the large, bony, external plates found on many ganoid fishes.**
+- **The anterior segment of the shell of a trilobites.**
+- **A block of wood or plate of iron made to fit a hawse hole, or the circular opening in a half-port, to prevent water from entering when the vessel pitches.**
 ---
 ---

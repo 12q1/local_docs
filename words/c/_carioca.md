@@ -1,9 +1,9 @@
 # Carioca
 ---
 #noun
-- **An inhabitant of Rio [[d/_de|de]] Janeiro.**
+- **An inhabitant of Rio de Janeiro.**
 ---
 #noun
-- **A sideways step in which one leg [[c/_crosses|crosses]] over the other.**
+- **A sideways step in which one leg crosses over the other.**
 ---
 ---

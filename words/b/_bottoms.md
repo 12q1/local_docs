@@ -1,46 +1,46 @@
 # Bottoms
 ---
 #noun
-- **The lowest part of [[a/_anything|anything]].**
+- **The lowest part of anything.**
 	- _Example: Footers appear at the bottoms of pages._
-- **[[c/_character|Character]], reliability, staying power, dignity, integrity or sound judgment.**
+- **Character, reliability, staying power, dignity, integrity or sound judgment.**
 	- _Example: lack bottom_
 - **Low-lying land; a valley or hollow.**
 	- _Example: Where shall we go for a walk? How about Ashcombe Bottom?_
-- **The [[b/_buttocks|buttocks]] or [[a/_anus|anus]].**
-- **A [[c/_cargo|cargo]] vessel, a ship.**
-- **[[c/_certain|Certain]] parts of a vessel, particularly the [[c/_cargo|cargo]] hold or the portion of the ship that is [[a/_always|always]] underwater.**
-- **The second half of an inning, the home team's turn at [[b/_bat|bat]].**
-- **(BDSM) A submissive in sadomasochistic sexual [[a/_activity|activity]].**
-- **A person with a preference for [[b/_being|being]] penetrated during sexual intercourse.**
-- **A [[b/_bottom|bottom]] quark.**
-- **The lowest part of a [[c/_container|container]].**
-- **A [[b/_ball|ball]] or skein of thread; a [[c/_cocoon|cocoon]].**
-- **The [[b/_bed|bed]] of a [[b/_body|body]] of water, as of a river, lake, or sea.**
-- **An [[a/_abyss|abyss]].**
+- **The buttocks or anus.**
+- **A cargo vessel, a ship.**
+- **Certain parts of a vessel, particularly the cargo hold or the portion of the ship that is always underwater.**
+- **The second half of an inning, the home team's turn at bat.**
+- **(BDSM) A submissive in sadomasochistic sexual activity.**
+- **A person with a preference for being penetrated during sexual intercourse.**
+- **A bottom quark.**
+- **The lowest part of a container.**
+- **A ball or skein of thread; a cocoon.**
+- **The bed of a body of water, as of a river, lake, or sea.**
+- **An abyss.**
 - **Power of endurance.**
 	- _Example: a horse of a good bottom_
 - **Dregs or grounds; lees; sediment.**
-- **(usually: [[b/_bottoms|bottoms]] or [[b/_bottomland|bottomland]]) Low-lying land near a river with [[a/_alluvial|alluvial]] soil.**
+- **(usually: bottoms or bottomland) Low-lying land near a river with alluvial soil.**
 ---
 ### Synonyms
-- [[catcher]], [[derriere]], [[sit upon]], [[🍑]], [[base]]
+- [[[[c/_catcher|catcher]]]], [[[[d/_derriere|derriere]]]], [[sit upon]], [[🍑]], [[[[b/_base|base]]]]
 ### Antonyms
 - [[top]], [[top]]
 #verb
-- **To furnish (something) with a [[b/_bottom|bottom]].**
+- **To furnish (something) with a bottom.**
 	- _Example: to bottom a chair_
-- **To wind (like a [[b/_ball|ball]] of thread etc.).**
+- **To wind (like a ball of thread etc.).**
 - **To establish or found (something) on or upon.**
-- **([[c/_chiefly|chiefly]] in passive) To lie on the [[b/_bottom|bottom]] of; to underlie, to lie [[b/_beneath|beneath]].**
-- **To be [[b/_based|based]] or grounded.**
-- **To reach or strike [[a/_against|against]] the [[b/_bottom|bottom]] of something, so as to impede free [[a/_action|action]].**
-- **To reach the [[b/_bottom|bottom]] of something.**
+- **(chiefly in passive) To lie on the bottom of; to underlie, to lie beneath.**
+- **To be based or grounded.**
+- **To reach or strike against the bottom of something, so as to impede free action.**
+- **To reach the bottom of something.**
 - **To fall to the lowest point.**
-- **To be the more passive or receiving partner in a sexual [[a/_act|act]] or relationship; to be submissive in a BDSM relationship; to be [[a/_anally|anally]] penetrated in gay sex.**
+- **To be the more passive or receiving partner in a sexual act or relationship; to be submissive in a BDSM relationship; to be anally penetrated in gay sex.**
 	- _Example: I've never bottomed in my life._
 ---
 #noun
-- **The [[b/_bottom|bottom]] (trouser) part of [[c/_clothing|clothing]], as in pyjama [[b/_bottoms|bottoms]], tracksuit [[b/_bottoms|bottoms]].**
+- **The bottom (trouser) part of clothing, as in pyjama bottoms, tracksuit bottoms.**
 ---
 ---

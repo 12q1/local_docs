@@ -1,9 +1,9 @@
 # Bison
 ---
 #noun
-- **A wild ox, [[b/_bison|Bison]] [[b/_bonasus|bonasus]].**
-- **A similar North [[a/_american|American]] [[a/_animal|animal]], [[b/_bison|Bison]] [[b/_bison|bison]].**
+- **A wild ox, Bison bonasus.**
+- **A similar North American animal, Bison bison.**
 ---
 ### Synonyms
-- [[American bison]], [[American buffalo]], [[buffalo]], [[European bison]], [[wisent]]
+- [[[[a/_american|American]] [[b/_bison|bison]]]], [[[[a/_american|American]] [[b/_buffalo|buffalo]]]], [[[[b/_buffalo|buffalo]]]], [[European [[b/_bison|bison]]]], [[wisent]]
 ---

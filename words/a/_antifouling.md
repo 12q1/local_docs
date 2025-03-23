@@ -1,9 +1,9 @@
 # Antifouling
 ---
 #noun
-- **[[a/_any|Any]] substance that prevents or [[c/_counteracts|counteracts]] the [[b/_buildup|buildup]] of [[b/_barnacles|barnacles]] and other [[d/_deposits|deposits]] on undersea surfaces such as those of [[b/_boats|boats]].**
+- **Any substance that prevents or counteracts the buildup of barnacles and other deposits on undersea surfaces such as those of boats.**
 ---
 #adjective
-- **That prevents or [[c/_counteracts|counteracts]] the [[b/_buildup|buildup]] of [[b/_barnacles|barnacles]] and other [[d/_deposits|deposits]] on undersea surfaces such as those of [[b/_boats|boats]].**
+- **That prevents or counteracts the buildup of barnacles and other deposits on undersea surfaces such as those of boats.**
 ---
 ---

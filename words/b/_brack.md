@@ -1,6 +1,6 @@
 # Brack
 ---
 #noun
-- **Salty or [[b/_brackish|brackish]] water.**
+- **Salty or brackish water.**
 ---
 ---

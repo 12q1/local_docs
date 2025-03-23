@@ -1,7 +1,7 @@
 # Decorticated
 ---
 #adjective
-- **Having had the outer [[c/_covering|covering]] removed**
+- **Having had the outer covering removed**
 	- _Example: An ingredient of animal feed is decorticated soybean._
 ---
 ---

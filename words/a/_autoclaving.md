@@ -1,9 +1,9 @@
 # Autoclaving
 ---
 #verb
-- **To sterilize laboratory equipment in an [[a/_autoclave|autoclave]].**
+- **To sterilize laboratory equipment in an autoclave.**
 ---
 #noun
-- **Sterilization in an [[a/_autoclave|autoclave]]**
+- **Sterilization in an autoclave**
 ---
 ---

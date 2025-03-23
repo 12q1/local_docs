@@ -1,8 +1,8 @@
 # Dandiacal
 ---
 #adjective
-- **[[d/_dandyish|Dandyish]]; like a [[d/_dandy|dandy]].**
+- **Dandyish; like a dandy.**
 ---
 ### Synonyms
-- [[dandyish]]
+- [[[[d/_dandyish|dandyish]]]]
 ---

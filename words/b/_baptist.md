@@ -1,6 +1,6 @@
 # Baptist
 ---
 #noun
-- **A person who [[b/_baptizes|baptizes]]**
+- **A person who baptizes**
 ---
 ---

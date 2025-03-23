@@ -1,8 +1,8 @@
 # Circumjacent
 ---
 #adjective
-- **Lying or located in the [[a/_area|area]] [[a/_around|around]] something.**
+- **Lying or located in the area around something.**
 ---
 ### Synonyms
-- [[circumambient]], [[surrounding]]
+- [[[[c/_circumambient|circumambient]]]], [[surrounding]]
 ---

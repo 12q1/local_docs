@@ -1,6 +1,6 @@
 # Bairns
 ---
 #noun
-- **A [[c/_child|child]] or [[b/_baby|baby]].**
+- **A child or baby.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Dermatosis
 ---
 #noun
-- **[[a/_any|Any]] disease of the skin.**
+- **Any disease of the skin.**
 ---
 ---

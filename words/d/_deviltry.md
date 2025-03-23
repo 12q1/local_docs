@@ -1,0 +1,6 @@
+# Deviltry
+---
+#noun
+- **Devilry.**
+---
+---

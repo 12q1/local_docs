@@ -1,33 +1,33 @@
 # Considering
 ---
 #verb
-- **To think [[a/_about|about]] seriously.**
+- **To think about seriously.**
 	- _Example: Consider that we’ve had three major events and the year has hardly begun._
-- **To think [[a/_about|about]] something seriously or [[c/_carefully|carefully]]: to [[d/_deliberate|deliberate]].**
+- **To think about something seriously or carefully: to deliberate.**
 - **To think of doing.**
 	- _Example: I’m considering going to the beach tomorrow._
-- **(ditransitive) To [[a/_assign|assign]] some quality to.**
+- **(ditransitive) To assign some quality to.**
 	- _Example: Consider yourself lucky, but consider your opponent skillful._
-- **To look at [[a/_attentively|attentively]].**
+- **To look at attentively.**
 	- _Example: She sat there for a moment, considering him._
 - **To take up as an example.**
 	- _Example: Consider a triangle having three equal sides._
-- **(parliamentary procedure) To [[d/_debate|debate]] (or dispose of) a motion.**
+- **(parliamentary procedure) To debate (or dispose of) a motion.**
 	- _Example: This body will now consider the proposed amendments to Section 453 of the zoning code._
-- **To have regard to; to take into view or [[a/_account|account]]; to pay due [[a/_attention|attention]] to; to respect.**
+- **To have regard to; to take into view or account; to pay due attention to; to respect.**
 	- _Example: He never seems to consider the feelings of others._
 ---
 ### Synonyms
-- [[bethink]], [[deliberate]], [[bethink]], [[reflect]], [[bethink]], [[think of]], [[deem]], [[regard]], [[think of]], [[observe]], [[regard]], [[take into account]]
+- [[[[b/_bethink|bethink]]]], [[[[d/_deliberate|deliberate]]]], [[[[b/_bethink|bethink]]]], [[reflect]], [[[[b/_bethink|bethink]]]], [[think of]], [[[[d/_deem|deem]]]], [[regard]], [[think of]], [[observe]], [[regard]], [[take into [[a/_account|account]]]]
 #noun
-- **[[c/_consideration|Consideration]].**
+- **Consideration.**
 ---
 #adverb
-- **Given the [[c/_circumstances|circumstances]].**
+- **Given the circumstances.**
 	- _Example: Your wound doesn't look that bad, considering._
 ---
 #preposition
-- **Taking into [[a/_account|account]].**
+- **Taking into account.**
 	- _Example: Considering the extent of his crimes, he was given a surprisingly short sentence._
 ---
 ### Synonyms

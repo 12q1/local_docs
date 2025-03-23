@@ -1,7 +1,7 @@
 # Carburized
 ---
 #verb
-- **To treat or react with [[c/_carbon|carbon]]**
-- **To [[c/_carbonize|carbonize]]**
+- **To treat or react with carbon**
+- **To carbonize**
 ---
 ---

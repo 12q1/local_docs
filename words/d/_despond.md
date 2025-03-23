@@ -1,11 +1,11 @@
 # Despond
 ---
 #noun
-- **[[d/_despondency|Despondency]].**
+- **Despondency.**
 ---
 ### Synonyms
-- [[despair]]
+- [[[[d/_despair|despair]]]]
 #verb
-- **To give up the will, [[c/_courage|courage]], or spirit; to [[b/_become|become]] [[d/_dejected|dejected]], lose heart.**
+- **To give up the will, courage, or spirit; to become dejected, lose heart.**
 ---
 ---

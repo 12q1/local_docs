@@ -7,7 +7,7 @@
 	- _Example: If I survive this headache, I promise no more carousing at Brian's._
 ---
 #noun
-- **[[c/_carousal|Carousal]]**
+- **Carousal**
 	- _Example: the wild carousings of drunken revellers_
 ---
 ---

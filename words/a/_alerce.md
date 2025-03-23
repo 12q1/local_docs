@@ -2,6 +2,6 @@
 ---
 #noun
 - **The wood of the sandarac tree (Tetraclinis).**
-- **The [[c/_chilean|Chilean]] [[a/_arbor|arbor]] vitae (Austrocedrus chilensis).**
+- **The Chilean arbor vitae (Austrocedrus chilensis).**
 ---
 ---

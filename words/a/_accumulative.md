@@ -1,9 +1,9 @@
 # Accumulative
 ---
 #adjective
-- **[[c/_characterized|Characterized]] by [[a/_accumulation|accumulation]]; serving to [[c/_collect|collect]] or [[a/_amass|amass]]**
-- **Having a propensity to [[a/_amass|amass]]; [[a/_acquisitive|acquisitive]].**
+- **Characterized by accumulation; serving to collect or amass**
+- **Having a propensity to amass; acquisitive.**
 ---
 ### Synonyms
-- [[additional]], [[cumulative]]
+- [[[[a/_additional|additional]]]], [[[[c/_cumulative|cumulative]]]]
 ---

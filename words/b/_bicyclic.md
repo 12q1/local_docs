@@ -1,10 +1,10 @@
 # Bicyclic
 ---
 #noun
-- **A [[b/_bicyclic|bicyclic]] [[c/_compound|compound]].**
+- **A bicyclic compound.**
 ---
 #adjective
-- **Having two [[c/_cycles|cycles]].**
-- **Having two rings of [[a/_atoms|atoms]] in the molecule; the rings may be fused, as in naphthalene, or separate, as in [[b/_biphenyl|biphenyl]].**
+- **Having two cycles.**
+- **Having two rings of atoms in the molecule; the rings may be fused, as in naphthalene, or separate, as in biphenyl.**
 ---
 ---

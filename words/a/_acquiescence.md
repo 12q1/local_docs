@@ -1,8 +1,8 @@
 # Acquiescence
 ---
 #noun
-- **A silent or passive [[a/_assent|assent]] or submission, or a submission with [[a/_apparent|apparent]] [[c/_content|content]], distinguished from [[a/_avowed|avowed]] [[c/_consent|consent]] on the one hand, and on the other, from opposition or open discontent; quiet satisfaction.**
-- **Inaction, passivity, or neglect to take legal [[a/_action|action]] when it is [[c/_called|called]] for in order to [[a/_assert|assert]], preserve, or safeguard a right, and which inaction implies the [[a/_abandonment|abandonment]] of said right.**
+- **A silent or passive assent or submission, or a submission with apparent content, distinguished from avowed consent on the one hand, and on the other, from opposition or open discontent; quiet satisfaction.**
+- **Inaction, passivity, or neglect to take legal action when it is called for in order to assert, preserve, or safeguard a right, and which inaction implies the abandonment of said right.**
 ---
 ### Synonyms
 - [[sufferance]]

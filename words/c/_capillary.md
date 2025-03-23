@@ -2,11 +2,11 @@
 ---
 #noun
 - **A narrow tube.**
-- **[[a/_any|Any]] of the small [[b/_blood|blood]] vessels that [[c/_connect|connect]] [[a/_arteries|arteries]] to veins.**
+- **Any of the small blood vessels that connect arteries to veins.**
 ---
 #adjective
 - **Of or pertaining to hair.**
 - **Pertaining to a narrow tube.**
-- **Of, relating to, or [[c/_caused|caused]] by surface tension.**
+- **Of, relating to, or caused by surface tension.**
 ---
 ---

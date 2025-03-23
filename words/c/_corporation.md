@@ -1,11 +1,11 @@
 # Corporation
 ---
 #noun
-- **A [[b/_body|body]] [[c/_corporate|corporate]], [[c/_created|created]] by law or under [[a/_authority|authority]] of law, having a [[c/_continuous|continuous]] existence independent of the existences of its members, and powers and liabilities distinct from those of its members.**
-- **The municipal governing [[b/_body|body]] of a [[b/_borough|borough]] or [[c/_city|city]].**
-- **In Fascist Italy, a joint [[a/_association|association]] of employers' and workers' representatives.**
-- **A protruding [[b/_belly|belly]]; a paunch.**
+- **A body corporate, created by law or under authority of law, having a continuous existence independent of the existences of its members, and powers and liabilities distinct from those of its members.**
+- **The municipal governing body of a borough or city.**
+- **In Fascist Italy, a joint association of employers' and workers' representatives.**
+- **A protruding belly; a paunch.**
 ---
 ### Synonyms
-- [[public limited company]]
+- [[public limited [[c/_company|company]]]]
 ---

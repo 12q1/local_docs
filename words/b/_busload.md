@@ -1,6 +1,6 @@
 # Busload
 ---
 #noun
-- **The [[a/_amount|amount]] that [[c/_can|can]] fit on a [[b/_bus|bus]].**
+- **The amount that can fit on a bus.**
 ---
 ---

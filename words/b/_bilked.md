@@ -1,8 +1,8 @@
 # Bilked
 ---
 #verb
-- **To spoil the score of (someone) in [[c/_cribbage|cribbage]].**
-- **To do someone out of their due; to [[d/_deceive|deceive]] or [[d/_defraud|defraud]], to [[c/_cheat|cheat]] (someone).**
+- **To spoil the score of (someone) in cribbage.**
+- **To do someone out of their due; to deceive or defraud, to cheat (someone).**
 - **To evade, elude.**
 ---
 ---

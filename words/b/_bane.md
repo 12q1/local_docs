@@ -1,19 +1,19 @@
 # Bane
 ---
 #noun
-- **A [[c/_cause|cause]] of misery or [[d/_death|death]].**
+- **A cause of misery or death.**
 	- _Example: the bane of one's existence_
-- **Poison, especially [[a/_any|any]] of several poisonous plants.**
+- **Poison, especially any of several poisonous plants.**
 - **A killer, murderer, slayer.**
-- **[[d/_destruction|Destruction]]; [[d/_death|death]].**
+- **Destruction; death.**
 - **A disease of sheep.**
 ---
 ### Synonyms
-- [[affliction]], [[curse]], [[rot]]
+- [[[[a/_affliction|affliction]]]], [[[[c/_curse|curse]]]], [[rot]]
 ### Antonyms
-- [[boon]]
+- [[[[b/_boon|boon]]]]
 #verb
 - **To kill, especially by poison; to be the poison of.**
-- **To be the [[b/_bane|bane]] of.**
+- **To be the bane of.**
 ---
 ---

@@ -1,0 +1,7 @@
+# Discolorations
+---
+#noun
+- **The act of discoloring, or the state of being discolored; alteration of hue or appearance.**
+- **A discolored spot; a stain.**
+---
+---

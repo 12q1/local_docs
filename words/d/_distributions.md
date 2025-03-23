@@ -1,0 +1,25 @@
+# Distributions
+---
+#noun
+- **An act of distributing or state of being distributed.**
+- **An apportionment by law (of funds, property).**
+- **The process by which goods get to final consumers over a geographical market, including storing, selling, shipping and advertising.**
+- **Anything distributed; portion; share.**
+- **The result of distributing; arrangement.**
+- **The total number of something sold or delivered to the clients.**
+	- _Example: The distribution of my little rock magazine is about 3,000._
+- **The frequency of occurrence or extent of existence.**
+- **The apportionment of income or wealth in a population.**
+	- _Example: The wealth distribution became extremely skewed in the kleptocracy._
+- **The way in which a player's hand is divided in suits, or in which a particular suit is divided between the players.**
+	- _Example: The declarer had 3-6-2-2 distribution._
+- **A probability distribution; the set of relative likelihoods that a variable will have a value in a given interval.**
+- **A subset of the tangent bundle of a manifold that satisfies certain properties; used to construct the notions of integrability and foliation of a manifold.**
+- **A set of bundled software components; distro.**
+- **The process or result of the sale of securities, especially their placement among investors with long-term investment strategies.**
+- **The resolution of a whole into its parts.**
+- **The process of sorting the types and placing them in their proper boxes in the cases.**
+- **(steam engines) The steps or operations by which steam is supplied to and withdrawn from the cylinder at each stroke of the piston: admission, suppression or cutting off, release or exhaust, and compression of exhaust steam prior to the next admission.**
+- **A rhetorical technique in which a subject is divided into multiple cases based on some property or properties, and each case is addressed individually.**
+---
+---

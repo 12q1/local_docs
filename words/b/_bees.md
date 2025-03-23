@@ -1,24 +1,24 @@
 # Bees
 ---
 #noun
-- **A flying insect, of the [[c/_clade|clade]] [[a/_anthophila|Anthophila]] within the hymenopteran superfamily [[a/_apoidea|Apoidea]], known for its organised societies (though only a minority have them), for [[c/_collecting|collecting]] pollen and (in some species) producing wax and honey.**
+- **A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.**
 ---
 ### Synonyms
 - [[king of insects]]
 #noun
-- **A [[c/_contest|contest]], especially for spelling; see spelling [[b/_bee|bee]].**
+- **A contest, especially for spelling; see spelling bee.**
 	- _Example: geography bee_
-- **A [[c/_community|community]] gathering to share labour, e.g. a sewing [[b/_bee|bee]] or a quilting [[b/_bee|bee]].**
+- **A community gathering to share labour, e.g. a sewing bee or a quilting bee.**
 ---
 #noun
-- **A ring or torque; a [[b/_bracelet|bracelet]].**
+- **A ring or torque; a bracelet.**
 ---
 #noun
-- **The name of the Latin-script letter [[b/_b|B]].**
+- **The name of the Latin-script letter B.**
 ---
 #noun
-- **(usually in the plural) [[a/_any|Any]] of the pieces of hard wood [[b/_bolted|bolted]] to the sides of the [[b/_bowsprit|bowsprit]], to reeve the fore-topmast stays through.**
+- **(usually in the plural) Any of the pieces of hard wood bolted to the sides of the bowsprit, to reeve the fore-topmast stays through.**
 ---
 ### Synonyms
-- [[bee block]]
+- [[[[b/_bee|bee]] [[b/_block|block]]]]
 ---

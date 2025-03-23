@@ -1,6 +1,6 @@
 # Danio
 ---
 #noun
-- **([[c/_chiefly|chiefly]] in [[c/_combination|combination]]) [[a/_any|Any]] of various fish of the genera [[d/_danio|Danio]] and Devario.**
+- **(chiefly in combination) Any of various fish of the genera Danio and Devario.**
 ---
 ---

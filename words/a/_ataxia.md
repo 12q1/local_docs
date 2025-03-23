@@ -1,10 +1,10 @@
 # Ataxia
 ---
 #noun
-- **Lack of [[c/_coordination|coordination]] while performing voluntary movements, which may [[a/_appear|appear]] to be [[c/_clumsiness|clumsiness]], inaccuracy, or instability.**
-- **The [[c/_condition|condition]] of a polymer in which the orientation of the subunits is random**
+- **Lack of coordination while performing voluntary movements, which may appear to be clumsiness, inaccuracy, or instability.**
+- **The condition of a polymer in which the orientation of the subunits is random**
 - **Disorder; irregularity.**
 ---
 ### Synonyms
-- [[ataxy]], [[dystaxia]], [[dystaxia]]
+- [[[[a/_ataxy|ataxy]]]], [[[[d/_dystaxia|dystaxia]]]], [[[[d/_dystaxia|dystaxia]]]]
 ---

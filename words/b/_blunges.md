@@ -1,6 +1,6 @@
 # Blunges
 ---
 #verb
-- **To mix [[c/_clay|clay]] and water.**
+- **To mix clay and water.**
 ---
 ---

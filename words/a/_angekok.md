@@ -4,5 +4,5 @@
 - **An Eskimo/Inuit sorcerer or shaman.**
 ---
 ### Synonyms
-- [[angakkuq]], [[angakok]], [[angatkuq]], [[angekkok]], [[angekut]]
+- [[angakkuq]], [[[[a/_angakok|angakok]]]], [[angatkuq]], [[[[a/_angekkok|angekkok]]]], [[[[a/_angekut|angekut]]]]
 ---

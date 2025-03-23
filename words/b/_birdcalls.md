@@ -1,11 +1,11 @@
 # Birdcalls
 ---
 #noun
-- **[[a/_any|Any]] vocalisation of a [[b/_bird|bird]].**
-- **An imitation of this [[c/_cry|cry]].**
-- **A device used to imitate this [[c/_cry|cry]], so as to lure and [[c/_catch|catch]] [[b/_birds|birds]].**
+- **Any vocalisation of a bird.**
+- **An imitation of this cry.**
+- **A device used to imitate this cry, so as to lure and catch birds.**
 ---
 #verb
-- **To imitate the [[c/_cry|cry]] of a [[b/_bird|bird]].**
+- **To imitate the cry of a bird.**
 ---
 ---

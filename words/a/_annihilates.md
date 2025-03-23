@@ -1,14 +1,14 @@
 # Annihilates
 ---
 #verb
-- **To reduce to nothing, to [[d/_destroy|destroy]], to eradicate.**
+- **To reduce to nothing, to destroy, to eradicate.**
 	- _Example: An atom bomb can annihilate a whole city._
-- **To react with [[a/_antimatter|antimatter]], producing gamma radiation.**
+- **To react with antimatter, producing gamma radiation.**
 - **To treat as worthless, to vilify.**
-- **To render null and void; to [[a/_abrogate|abrogate]].**
+- **To render null and void; to abrogate.**
 ---
 ### Synonyms
-- [[benothing]], [[destroy]], [[eradicate]], [[extinguish]]
+- [[benothing]], [[[[d/_destroy|destroy]]]], [[eradicate]], [[extinguish]]
 ### Antonyms
-- [[create]], [[generate]]
+- [[[[c/_create|create]]]], [[generate]]
 ---

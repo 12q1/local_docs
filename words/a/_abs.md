@@ -1,52 +1,52 @@
 # Abs
 ---
 #noun
-- **[[a/_abdominal|Abdominal]] muscle.**
+- **Abdominal muscle.**
 ---
 #noun
-- **An [[a/_abscess|abscess]] [[c/_caused|caused]] by injecting an illegal drug, usually heroin.**
+- **An abscess caused by injecting an illegal drug, usually heroin.**
 ---
 #verb
-- **To [[a/_abseil|abseil]].**
+- **To abseil.**
 ---
 #noun
-- **The early stages of; the [[b/_beginning|beginning]] process; the start.**
+- **The early stages of; the beginning process; the start.**
 ---
 #verb
-- **(now rare outside medicine) To miscarry; to [[b/_bring|bring]] forth (non-living) offspring prematurely.**
-- **To [[c/_cause|cause]] a premature termination of (a fetus); to end a pregnancy [[b/_before|before]] term.**
-- **To end prematurely; to stop in the preliminary stages; to turn [[b/_back|back]].**
+- **(now rare outside medicine) To miscarry; to bring forth (non-living) offspring prematurely.**
+- **To cause a premature termination of (a fetus); to end a pregnancy before term.**
+- **To end prematurely; to stop in the preliminary stages; to turn back.**
 - **To stop or fail at something in the preliminary stages.**
-- **To [[b/_become|become]] [[c/_checked|checked]] in normal development, so as either to remain rudimentary or shrink [[a/_away|away]] wholly; to [[c/_cease|cease]] organic growth [[b/_before|before]] maturation; to [[b/_become|become]] sterile.**
-- **To [[c/_cause|cause]] an organism to develop minimally; to [[c/_cause|cause]] rudimentary development to happen; to prevent maturation.**
-- **To [[a/_abandon|abandon]] a mission at [[a/_any|any]] point [[a/_after|after]] the [[b/_beginning|beginning]] of the mission and prior to its [[c/_completion|completion]].**
-- **To terminate a mission involving a missile or rocket; to [[d/_destroy|destroy]] a missile or rocket prematurely.**
-- **To terminate a process prior to [[c/_completion|completion]].**
+- **To become checked in normal development, so as either to remain rudimentary or shrink away wholly; to cease organic growth before maturation; to become sterile.**
+- **To cause an organism to develop minimally; to cause rudimentary development to happen; to prevent maturation.**
+- **To abandon a mission at any point after the beginning of the mission and prior to its completion.**
+- **To terminate a mission involving a missile or rocket; to destroy a missile or rocket prematurely.**
+- **To terminate a process prior to completion.**
 ---
 #noun
-- **Initialism of [[a/_absolute|absolute]] value function.**
+- **Initialism of absolute value function.**
 ---
 ### Synonyms
-- [[abdominal]], [[abdominal muscle]]
+- [[[[a/_abdominal|abdominal]]]], [[[[a/_abdominal|abdominal]] muscle]]
 #noun
-- **Thermodynamic temperature; temperature measured on an [[a/_absolute|absolute]] scale such as the Kelvin scale.**
+- **Thermodynamic temperature; temperature measured on an absolute scale such as the Kelvin scale.**
 ---
 #adjective
-- **[[d/_derived|Derived]]; extracted.**
-- **Drawn [[a/_away|away]]; removed from; [[a/_apart|apart]] from; separate.**
-- **Not [[c/_concrete|concrete]]: [[c/_conceptual|conceptual]], ideal.**
-- **Difficult to understand; [[a/_abstruse|abstruse]]; hard to [[c/_conceptualize|conceptualize]].**
-- **Separately expressing a property or [[a/_attribute|attribute]] of an object that is [[c/_considered|considered]] to be inherent to that object: [[a/_attributive|attributive]], [[a/_ascriptive|ascriptive]].**
-- **Pertaining [[c/_comprehensively|comprehensively]] to, or representing, a [[c/_class|class]] or group of objects, as opposed to [[a/_any|any]] specific object; [[c/_considered|considered]] [[a/_apart|apart]] from [[a/_any|any]] [[a/_application|application]] to a particular object: general, generic, nonspecific; representational.**
-- **[[a/_absent|Absent]]-minded.**
-- **Pertaining to the formal [[a/_aspect|aspect]] of [[a/_art|art]], such as the lines, [[c/_colors|colors]], shapes, and the relationships [[a/_among|among]] them.**
+- **Derived; extracted.**
+- **Drawn away; removed from; apart from; separate.**
+- **Not concrete: conceptual, ideal.**
+- **Difficult to understand; abstruse; hard to conceptualize.**
+- **Separately expressing a property or attribute of an object that is considered to be inherent to that object: attributive, ascriptive.**
+- **Pertaining comprehensively to, or representing, a class or group of objects, as opposed to any specific object; considered apart from any application to a particular object: general, generic, nonspecific; representational.**
+- **Absent-minded.**
+- **Pertaining to the formal aspect of art, such as the lines, colors, shapes, and the relationships among them.**
 - **Insufficiently factual.**
-- **[[a/_apart|Apart]] from practice or reality; vague; theoretical; impersonal; not [[a/_applied|applied]].**
-- **(grammar) As a noun, [[d/_denoting|denoting]] an intangible as opposed to an object, place, or person.**
-- **Of a [[c/_class|class]] in object-oriented programming, [[b/_being|being]] a partial [[b/_basis|basis]] for subclasses rather than a [[c/_complete|complete]] template for objects.**
+- **Apart from practice or reality; vague; theoretical; impersonal; not applied.**
+- **(grammar) As a noun, denoting an intangible as opposed to an object, place, or person.**
+- **Of a class in object-oriented programming, being a partial basis for subclasses rather than a complete template for objects.**
 ---
 ### Synonyms
-- [[abstruse]], [[ascriptive]], [[attributive]], [[conceptual]], [[ideal]], [[imaginary]], [[incorporeal]], [[intangible]], [[nonempirical]], [[theoretical]], [[conceptual]], [[theoretical]], [[formal]], [[general]], [[generalized]], [[generic]], [[nonspecific]], [[representational]]
+- [[[[a/_abstruse|abstruse]]]], [[[[a/_ascriptive|ascriptive]]]], [[[[a/_attributive|attributive]]]], [[[[c/_conceptual|conceptual]]]], [[ideal]], [[imaginary]], [[incorporeal]], [[intangible]], [[nonempirical]], [[theoretical]], [[[[c/_conceptual|conceptual]]]], [[theoretical]], [[formal]], [[general]], [[generalized]], [[generic]], [[nonspecific]], [[representational]]
 ### Antonyms
-- [[actual]], [[concrete]], [[corporeal]], [[empirical]], [[applied]], [[practical]], [[discrete]], [[particular]], [[precise]], [[specific]]
+- [[[[a/_actual|actual]]]], [[[[c/_concrete|concrete]]]], [[[[c/_corporeal|corporeal]]]], [[empirical]], [[[[a/_applied|applied]]]], [[practical]], [[[[d/_discrete|discrete]]]], [[particular]], [[precise]], [[specific]]
 ---

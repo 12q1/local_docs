@@ -1,18 +1,18 @@
 # Adapted
 ---
 #verb
-- **To make suitable; to make to [[c/_correspond|correspond]]; to fit or suit**
-- **To fit by [[a/_alteration|alteration]]; to modify or remodel for a different purpose; to [[a/_adjust|adjust]]**
+- **To make suitable; to make to correspond; to fit or suit**
+- **To fit by alteration; to modify or remodel for a different purpose; to adjust**
 	- _Example: to adapt a story for the stage_
-- **To make by [[a/_altering|altering]] or fitting something else; to produce by [[c/_change|change]] of form or [[c/_character|character]]**
+- **To make by altering or fitting something else; to produce by change of form or character**
 	- _Example: a word of an adapted form_
-- **To make oneself [[c/_comfortable|comfortable]] to a new thing.**
+- **To make oneself comfortable to a new thing.**
 	- _Example: They could not adapt to the new climate and so perished._
 ---
 ### Synonyms
 - [[proportion]]
 #adjective
-- **Having [[b/_been|been]] subject to an [[a/_alteration|alteration]] or [[c/_change|change]] to fit a different [[c/_circumstance|circumstance]] or medium.**
+- **Having been subject to an alteration or change to fit a different circumstance or medium.**
 	- _Example: That movie was an adapted novel._
 ---
 ---

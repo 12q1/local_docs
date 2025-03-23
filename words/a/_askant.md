@@ -1,9 +1,9 @@
 # Askant
 ---
 #adjective
-- **[[a/_aslant|Aslant]], or sloping.**
+- **Aslant, or sloping.**
 ---
 #adverb
-- **[[a/_aslant|Aslant]], or [[a/_askance|askance]], or sideways**
+- **Aslant, or askance, or sideways**
 ---
 ---

@@ -1,10 +1,10 @@
 # Artless
 ---
 #adjective
-- **Having or displaying no guile, [[c/_cunning|cunning]], or [[d/_deceit|deceit]].**
-- **Free of [[a/_artificiality|artificiality]]; natural.**
+- **Having or displaying no guile, cunning, or deceit.**
+- **Free of artificiality; natural.**
 	- _Example: This pendant has artless charm._
-- **Lacking [[a/_art|art]], knowledge, or skill; uncultured and ignorant.**
-- **Poorly made or done; [[c/_crude|crude]].**
+- **Lacking art, knowledge, or skill; uncultured and ignorant.**
+- **Poorly made or done; crude.**
 ---
 ---

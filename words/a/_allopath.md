@@ -1,8 +1,8 @@
 # Allopath
 ---
 #noun
-- **A practitioner of [[a/_allopathy|allopathy]]**
+- **A practitioner of allopathy**
 ---
 ### Synonyms
-- [[allopathist]]
+- [[[[a/_allopathist|allopathist]]]]
 ---

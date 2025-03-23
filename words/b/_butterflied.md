@@ -1,8 +1,8 @@
 # Butterflied
 ---
 #verb
-- **To [[c/_cut|cut]] (food) [[a/_almost|almost]] entirely in half and spread the halves [[a/_apart|apart]], in a shape suggesting the wings of a [[b/_butterfly|butterfly]].**
+- **To cut (food) almost entirely in half and spread the halves apart, in a shape suggesting the wings of a butterfly.**
 	- _Example: Butterfly the chicken before you grill it._
-- **To [[c/_cut|cut]] strips of surgical tape or plasters into thin strips, and place [[a/_across|across]] (a gaping wound) to [[c/_close|close]] it.**
+- **To cut strips of surgical tape or plasters into thin strips, and place across (a gaping wound) to close it.**
 ---
 ---

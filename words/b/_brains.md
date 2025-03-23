@@ -1,12 +1,12 @@
 # Brains
 ---
 #noun
-- **The [[c/_control|control]] [[c/_center|center]] of the [[c/_central|central]] nervous system of an [[a/_animal|animal]] located in the skull which is responsible for perception, [[c/_cognition|cognition]], [[a/_attention|attention]], memory, emotion, and [[a/_action|action]].**
+- **The control center of the central nervous system of an animal located in the skull which is responsible for perception, cognition, attention, memory, emotion, and action.**
 - **An intelligent person.**
 	- _Example: She was a total brain._
 - **(in the plural) Intellect.**
 	- _Example: She has a lot of brains._
-- **By [[a/_analogy|analogy]] with a human [[b/_brain|brain]], the part of a machine or [[c/_computer|computer]] that performs [[c/_calculations|calculations]].**
+- **By analogy with a human brain, the part of a machine or computer that performs calculations.**
 	- _Example: The computer's brain is capable of millions of calculations a second._
 - **Oral sex.**
 - **Mind.**
@@ -15,16 +15,16 @@
 ### Synonyms
 - [[harns]]
 #verb
-- **To [[d/_dash|dash]] out the [[b/_brains|brains]] of; to kill by smashing the skull.**
+- **To dash out the brains of; to kill by smashing the skull.**
 - **To strike (someone) on the head.**
-- **To [[d/_destroy|destroy]]; to put an end to.**
-- **To [[c/_conceive|conceive]] in the mind; to understand.**
+- **To destroy; to put an end to.**
+- **To conceive in the mind; to understand.**
 ---
 #noun
-- **The substance of a [[b/_brain|brain]] as a material or foodstuff.**
-- **The figurative substance of a [[b/_brain|brain]]: mental [[a/_ability|ability]], intelligence.**
+- **The substance of a brain as a material or foodstuff.**
+- **The figurative substance of a brain: mental ability, intelligence.**
 	- _Example: Sadly, I got my brains from my mom and my looks from the mailman._
-- **(with 'the') The intelligent person or people in a group: the director, planner, [[a/_administrator|administrator]], &[[c/_c|c]].**
+- **(with 'the') The intelligent person or people in a group: the director, planner, administrator, &c.**
 	- _Example: Who's the brains behind this operation?_
 ---
 ---

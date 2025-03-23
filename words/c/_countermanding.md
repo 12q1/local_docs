@@ -1,12 +1,12 @@
 # Countermanding
 ---
 #verb
-- **To revoke (a former [[c/_command|command]]); to [[c/_cancel|cancel]] or rescind by giving an order [[c/_contrary|contrary]] to one previously given.**
+- **To revoke (a former command); to cancel or rescind by giving an order contrary to one previously given.**
 	- _Example: to countermand an order for goods_
 - **To recall a person or unit with such an order.**
 - **To prohibit.**
-- **To oppose; to revoke the [[c/_command|command]] of.**
+- **To oppose; to revoke the command of.**
 ---
 ### Synonyms
-- [[cancel]], [[rescind]], [[forbid]], [[prohibit]]
+- [[[[c/_cancel|cancel]]]], [[rescind]], [[forbid]], [[prohibit]]
 ---

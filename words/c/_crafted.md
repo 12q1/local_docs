@@ -2,9 +2,9 @@
 ---
 #verb
 - **To make by hand and with much skill.**
-- **To [[c/_construct|construct]], develop something (like a skilled [[c/_craftsman|craftsman]]).**
+- **To construct, develop something (like a skilled craftsman).**
 	- _Example: state crafting; the process of crafting global policing_
-- **To [[c/_combine|combine]] multiple items to form a new item, such as [[a/_armour|armour]] or medicine.**
+- **To combine multiple items to form a new item, such as armour or medicine.**
 ---
 #adjective
 - **Manufactured**

@@ -1,8 +1,8 @@
 # Advantageous
 ---
 #adjective
-- **[[b/_being|Being]] of [[a/_advantage|advantage]], [[b/_beneficial|beneficial]].**
+- **Being of advantage, beneficial.**
 ---
 ### Synonyms
-- [[behooveful]], [[furthersome]], [[gainful]], [[profitable]], [[useful]]
+- [[[[b/_behooveful|behooveful]]]], [[furthersome]], [[gainful]], [[profitable]], [[useful]]
 ---

@@ -1,10 +1,10 @@
 # Bungling
 ---
 #verb
-- **To [[b/_botch|botch]] up, [[b/_bumble|bumble]] or incompetently perform a task; to make or mend [[c/_clumsily|clumsily]]; to manage [[a/_awkwardly|awkwardly]].**
+- **To botch up, bumble or incompetently perform a task; to make or mend clumsily; to manage awkwardly.**
 ---
 #noun
-- **An [[a/_act|act]] of incompetence or ineptitude.**
+- **An act of incompetence or ineptitude.**
 	- _Example: Your bungling nearly cost us our jobs._
 ---
 #adjective

@@ -1,9 +1,9 @@
 # Deliberately
 ---
 #adverb
-- **Intentionally, or [[a/_after|after]] [[d/_deliberation|deliberation]]; not [[a/_accidentally|accidentally]].**
+- **Intentionally, or after deliberation; not accidentally.**
 	- _Example: He deliberately broke that, didn't he?_
-- **Taking one's time, slowly and [[c/_carefully|carefully]].**
+- **Taking one's time, slowly and carefully.**
 	- _Example: After being called upon, he strode deliberately up to the blackboard._
 ---
 ---

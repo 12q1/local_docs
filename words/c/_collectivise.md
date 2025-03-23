@@ -1,6 +1,6 @@
 # Collectivise
 ---
 #verb
-- **To organize a farm or industrial enterprise on the [[b/_basis|basis]] of [[c/_collective|collective]] [[c/_control|control]]**
+- **To organize a farm or industrial enterprise on the basis of collective control**
 ---
 ---

@@ -2,14 +2,14 @@
 ---
 #verb
 - **To make a rattling sound.**
-- **To [[c/_cause|cause]] to make a rattling noise.**
-- **To [[c/_chatter|chatter]] noisily or rapidly.**
+- **To cause to make a rattling noise.**
+- **To chatter noisily or rapidly.**
 - **To hit; to smack.**
 ---
 #noun
-- **A noise that [[c/_clatters|clatters]].**
+- **A noise that clatters.**
 ---
 #adjective
-- **In a state or process of [[b/_being|being]] [[c/_clattered|clattered]].**
+- **In a state or process of being clattered.**
 ---
 ---

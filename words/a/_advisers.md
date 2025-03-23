@@ -1,6 +1,6 @@
 # Advisers
 ---
 #noun
-- **One who [[a/_advises|advises]]**
+- **One who advises**
 ---
 ---

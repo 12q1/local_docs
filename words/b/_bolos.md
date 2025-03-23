@@ -5,7 +5,7 @@
 - **A type of punch; an uppercut.**
 ---
 #noun
-- **A soldier not [[c/_capable|capable]] of the minimum standards of marksmanship.**
+- **A soldier not capable of the minimum standards of marksmanship.**
 ---
 #noun
 - **A string or leather necktie secured with an ornamental slide.**
@@ -14,5 +14,5 @@
 - **A request for law enforcement officers to be on the lookout for a suspect.**
 ---
 ### Synonyms
-- [[APB]], [[all-points bulletin]]
+- [[APB]], [[[[a/_all|all]]-points [[b/_bulletin|bulletin]]]]
 ---

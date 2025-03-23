@@ -1,6 +1,6 @@
 # Blandly
 ---
 #adverb
-- **In a [[b/_bland|bland]] manner.**
+- **In a bland manner.**
 ---
 ---

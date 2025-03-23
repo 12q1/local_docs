@@ -2,11 +2,11 @@
 ---
 #verb
 - **To preordain**
-- **To [[a/_assign|assign]] something (especially finance) for a particular use**
-- **To have a particular [[d/_destination|destination]]**
+- **To assign something (especially finance) for a particular use**
+- **To have a particular destination**
 ---
 #adjective
-- **[[c/_confined|Confined]] to a predetermined fate or [[d/_destiny|destiny]]; [[c/_certain|certain]].**
+- **Confined to a predetermined fate or destiny; certain.**
 	- _Example: He is sure he is destined for fame._
 ---
 ---

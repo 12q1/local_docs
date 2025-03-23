@@ -1,11 +1,11 @@
 # Canter
 ---
 #noun
-- **A gait of a horse [[b/_between|between]] a trot and a gallop, [[c/_consisting|consisting]] of three [[b/_beats|beats]] and a "suspension" phase, where there are no feet on the ground. [[a/_also|Also]] [[d/_describing|describing]] this gait on other four legged [[a/_animals|animals]].**
+- **A gait of a horse between a trot and a gallop, consisting of three beats and a "suspension" phase, where there are no feet on the ground. Also describing this gait on other four legged animals.**
 - **A ride on a horse at such speed.**
 ---
 #verb
 - **To move at such pace.**
-- **To [[c/_cause|cause]] to move at a [[c/_canter|canter]]; to ride (a horse) at a [[c/_canter|canter]].**
+- **To cause to move at a canter; to ride (a horse) at a canter.**
 ---
 ---

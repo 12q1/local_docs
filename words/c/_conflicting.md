@@ -6,8 +6,8 @@
 	- _Example: It appears that our schedules conflict._
 ---
 #adjective
-- **Fighting; [[c/_contending|contending]]; in [[c/_conflict|conflict]]**
-- **[[b/_being|Being]] in opposition; [[c/_contrary|contrary]]; [[c/_contradictory|contradictory]].**
+- **Fighting; contending; in conflict**
+- **Being in opposition; contrary; contradictory.**
 	- _Example: in the absence of all conflicting evidence_
 ---
 ---

@@ -1,15 +1,15 @@
 # Beaks
 ---
 #noun
-- **[[a/_anatomical|Anatomical]] uses.**
+- **Anatomical uses.**
 - **Figurative uses.**
-- **[[c/_colloquial|Colloquial]] uses.**
+- **Colloquial uses.**
 ---
 ### Synonyms
-- [[honker]], [[schnozzle]], [[bill]]
+- [[honker]], [[schnozzle]], [[[[b/_bill|bill]]]]
 #verb
-- **Strike with the [[b/_beak|beak]].**
-- **Seize with the [[b/_beak|beak]].**
+- **Strike with the beak.**
+- **Seize with the beak.**
 - **To play truant.**
 ---
 ---

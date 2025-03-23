@@ -1,9 +1,9 @@
 # Counterchanging
 ---
 #verb
-- **To give and receive; [[c/_c|C]]; to exchange.**
-- **To [[c/_checker|checker]]; to diversify, as in heraldic [[c/_counterchanging|counterchanging]].**
+- **To give and receive; C; to exchange.**
+- **To checker; to diversify, as in heraldic counterchanging.**
 ---
 ### Synonyms
-- [[interchange]], [[swap]], [[checker]], [[freck]]
+- [[interchange]], [[swap]], [[[[c/_checker|checker]]]], [[freck]]
 ---

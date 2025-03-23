@@ -1,10 +1,10 @@
 # Attendee
 ---
 #noun
-- **A person who is in [[a/_attendance|attendance]] or in the [[a/_audience|audience]] of an event.**
+- **A person who is in attendance or in the audience of an event.**
 - **A visitor or participant of an event.**
-- **A person who is [[a/_attended|attended]].**
+- **A person who is attended.**
 ---
 ### Synonyms
-- [[audience]], [[participant]], [[attender]], [[audience]]
+- [[[[a/_audience|audience]]]], [[participant]], [[[[a/_attender|attender]]]], [[[[a/_audience|audience]]]]
 ---

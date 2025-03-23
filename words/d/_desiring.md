@@ -7,7 +7,7 @@
 - **To want emotionally or sexually.**
 	- _Example: She has desired him since they first met._
 - **To express a wish for; to entreat; to request.**
-- **To require; to [[d/_demand|demand]]; to [[c/_claim|claim]].**
+- **To require; to demand; to claim.**
 - **To miss; to regret.**
 ---
 #noun

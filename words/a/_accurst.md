@@ -1,12 +1,12 @@
 # Accurst
 ---
 #verb
-- **To devote to [[d/_destruction|destruction]]; to imprecate misery or evil upon; to [[c/_curse|curse]]; to execrate; to [[a/_anathematize|anathematize]].**
+- **To devote to destruction; to imprecate misery or evil upon; to curse; to execrate; to anathematize.**
 ---
 #adjective
 - **(prenominal) Hateful; detestable, loathsome.**
-- **Doomed to [[d/_destruction|destruction]] or misery; [[c/_cursed|cursed]]; [[a/_anathematized|anathematized]].**
+- **Doomed to destruction or misery; cursed; anathematized.**
 ---
 ### Synonyms
-- [[damnable]], [[execrable]]
+- [[[[d/_damnable|damnable]]]], [[execrable]]
 ---

@@ -1,8 +1,8 @@
 # Cloudless
 ---
 #adjective
-- **Without [[a/_any|any]] [[c/_clouds|clouds]].**
+- **Without any clouds.**
 ---
 ### Antonyms
-- [[cloudy]]
+- [[[[c/_cloudy|cloudy]]]]
 ---

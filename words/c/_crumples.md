@@ -1,6 +1,6 @@
 # Crumples
 ---
 #noun
-- **A [[c/_crease|crease]], wrinkle, or irregular fold.**
+- **A crease, wrinkle, or irregular fold.**
 ---
 ---

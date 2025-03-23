@@ -1,11 +1,11 @@
 # Biyearly
 ---
 #adjective
-- **Occurring every two years; [[b/_biennial|biennial]]**
-- **Occurring twice per year; [[b/_biannual|biannual]]**
+- **Occurring every two years; biennial**
+- **Occurring twice per year; biannual**
 ---
 #adverb
-- **Every two years; [[b/_biennially|biennially]]**
-- **Twice per year; [[b/_biannually|biannually]]**
+- **Every two years; biennially**
+- **Twice per year; biannually**
 ---
 ---

@@ -1,8 +1,8 @@
 # Carrageenan
 ---
 #noun
-- **A food [[a/_additive|additive]] made from a purified extract of red seaweed, [[c/_commonly|commonly]] used as a thickening [[a/_agent|agent]].**
+- **A food additive made from a purified extract of red seaweed, commonly used as a thickening agent.**
 ---
 ### Synonyms
-- [[E407]], [[emulsifier]], [[gelling agent]], [[stabiliser]], [[thickener]]
+- [[E407]], [[emulsifier]], [[gelling [[a/_agent|agent]]]], [[stabiliser]], [[thickener]]
 ---

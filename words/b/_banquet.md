@@ -1,14 +1,14 @@
 # Banquet
 ---
 #noun
-- **A large [[c/_celebratory|celebratory]] meal; a feast.**
-- **A [[d/_dessert|dessert]]; a [[c/_course|course]] of sweetmeats.**
+- **A large celebratory meal; a feast.**
+- **A dessert; a course of sweetmeats.**
 ---
 ### Synonyms
 - [[feast]], [[reception]]
 #verb
-- **To participate in a [[b/_banquet|banquet]]; to feast.**
-- **To have [[d/_dessert|dessert]] [[a/_after|after]] a feast.**
-- **To treat with a [[b/_banquet|banquet]] or sumptuous entertainment of food; to feast.**
+- **To participate in a banquet; to feast.**
+- **To have dessert after a feast.**
+- **To treat with a banquet or sumptuous entertainment of food; to feast.**
 ---
 ---

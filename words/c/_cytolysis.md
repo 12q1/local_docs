@@ -1,6 +1,6 @@
 # Cytolysis
 ---
 #noun
-- **The pathological [[b/_breakdown|breakdown]] of a [[c/_cell|cell]] due to the [[b/_bursting|bursting]] of the [[c/_cell|cell]] membrane [[c/_caused|caused]] by osmosis**
+- **The pathological breakdown of a cell due to the bursting of the cell membrane caused by osmosis**
 ---
 ---

@@ -1,7 +1,7 @@
 # Bolstered
 ---
 #verb
-- **To [[b/_brace|brace]], reinforce, secure, or support.**
+- **To brace, reinforce, secure, or support.**
 ---
 #adjective
 - **Padded**

@@ -1,8 +1,8 @@
 # Chalcolithic
 ---
 #adjective
-- **[[d/_describing|Describing]] the [[a/_age|age]] [[b/_between|between]] the Neolithic and the [[b/_bronze|Bronze]] [[a/_age|Age]].**
+- **Describing the age between the Neolithic and the Bronze Age.**
 ---
 ### Synonyms
-- [[chalcolithic]]
+- [[[[c/_chalcolithic|chalcolithic]]]]
 ---

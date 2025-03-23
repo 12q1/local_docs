@@ -1,17 +1,17 @@
 # Anticlockwise
 ---
 #adjective
-- **(South [[a/_africa|Africa]], AU, of movement) in a [[c/_circular|circular]] fashion so as to be moving to the left at the top of the [[c/_circle|circle]] and to the right at the [[b/_bottom|bottom]] (when viewed from the front), in the opposite direction to the way the hands of an [[a/_analogue|analogue]] [[c/_clock|clock]] move.**
+- **(South Africa, AU, of movement) in a circular fashion so as to be moving to the left at the top of the circle and to the right at the bottom (when viewed from the front), in the opposite direction to the way the hands of an analogue clock move.**
 ---
 ### Synonyms
-- [[counter-clockwise]], [[counterclockwise]], [[laevorotatory]], [[levorotatory]], [[positive]]
+- [[[[c/_counter|counter]]-[[c/_clockwise|clockwise]]]], [[[[c/_counterclockwise|counterclockwise]]]], [[laevorotatory]], [[levorotatory]], [[positive]]
 ### Antonyms
-- [[clockwise]]
+- [[[[c/_clockwise|clockwise]]]]
 #adverb
-- **In an [[a/_anticlockwise|anticlockwise]] fashion.**
+- **In an anticlockwise fashion.**
 ---
 ### Synonyms
-- [[counter-clockwise]], [[counterclockwise]], [[widdershins]], [[withershins]], [[in a counterclockwise direction]], [[in an anticlockwise direction]]
+- [[[[c/_counter|counter]]-[[c/_clockwise|clockwise]]]], [[[[c/_counterclockwise|counterclockwise]]]], [[widdershins]], [[withershins]], [[in a [[c/_counterclockwise|counterclockwise]] [[d/_direction|direction]]]], [[in an [[a/_anticlockwise|anticlockwise]] [[d/_direction|direction]]]]
 ### Antonyms
-- [[clockwise]]
+- [[[[c/_clockwise|clockwise]]]]
 ---

@@ -1,8 +1,8 @@
 # Bicolors
 ---
 #noun
-- **([[c/_commonwealth|Commonwealth]] spelling) A flower, [[c/_cat|cat]] etc., that has two [[c/_colours|colours]].**
-- **([[c/_commonwealth|Commonwealth]] spelling) A flag with such [[c/_colours|colours]], [[c/_consisting|consisting]] of two stripes that are either vertical or horizontal.**
+- **(Commonwealth spelling) A flower, cat etc., that has two colours.**
+- **(Commonwealth spelling) A flag with such colours, consisting of two stripes that are either vertical or horizontal.**
 	- _Example: The national flags of Algeria, Bahrain, Indonesia, Malta, Monaco, Poland, Portugal, Ukraine and the Vatican City are all bicolours._
 ---
 ---

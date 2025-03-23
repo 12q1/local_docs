@@ -4,5 +4,5 @@
 - **An expression of sorrow or mourning.**
 ---
 ### Synonyms
-- [[alackaday]], [[alas]]
+- [[[[a/_alackaday|alackaday]]]], [[[[a/_alas|alas]]]]
 ---

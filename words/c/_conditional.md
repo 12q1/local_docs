@@ -1,26 +1,26 @@
 # Conditional
 ---
 #noun
-- **(grammar) A [[c/_conditional|conditional]] sentence; a statement that [[d/_depends|depends]] on a [[c/_condition|condition]] [[b/_being|being]] true or false.**
-- **(grammar) The [[c/_conditional|conditional]] mood.**
-- **A statement that one sentence is true if [[a/_another|another]] is.**
+- **(grammar) A conditional sentence; a statement that depends on a condition being true or false.**
+- **(grammar) The conditional mood.**
+- **A statement that one sentence is true if another is.**
 	- _Example: "A implies B" is a conditional._
-- **An instruction that [[b/_branches|branches]] [[d/_depending|depending]] on the truth of a [[c/_condition|condition]] at that point.**
+- **An instruction that branches depending on the truth of a condition at that point.**
 	- _Example: if and while are conditionals in some programming languages._
 - **A limitation.**
 ---
 ### Synonyms
-- [[if-then]], [[material conditional]]
+- [[if-then]], [[material [[c/_conditional|conditional]]]]
 #adjective
-- **Limited by a [[c/_condition|condition]].**
+- **Limited by a condition.**
 	- _Example: I made my son a conditional promise: I would buy him a bike if he kept his room tidy._
-- **Stating that one sentence is true if [[a/_another|another]] is.**
+- **Stating that one sentence is true if another is.**
 	- _Example: "A implies B" is a conditional statement._
-- **(grammar) Expressing a [[c/_condition|condition]] or supposition.**
+- **(grammar) Expressing a condition or supposition.**
 	- _Example: a conditional word, mode, or tense_
 ---
 ### Synonyms
-- [[hypothetical]], [[conditioned]], [[limited]], [[relative]]
+- [[hypothetical]], [[[[c/_conditioned|conditioned]]]], [[limited]], [[relative]]
 ### Antonyms
-- [[absolute]], [[categorical]], [[unconditional]]
+- [[[[a/_absolute|absolute]]]], [[[[c/_categorical|categorical]]]], [[unconditional]]
 ---

@@ -1,7 +1,7 @@
 # Blinkering
 ---
 #verb
-- **To put [[b/_blinkers|blinkers]] on.**
+- **To put blinkers on.**
 	- _Example: The farmer stopped to blinker his horse before riding into an area of heavy traffic._
 ---
 ---

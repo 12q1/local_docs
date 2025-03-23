@@ -1,8 +1,8 @@
 # Bantling
 ---
 #noun
-- **An infant or young [[c/_child|child]].**
+- **An infant or young child.**
 ---
 ### Synonyms
-- [[babe]], [[infant]]
+- [[[[b/_babe|babe]]]], [[infant]]
 ---

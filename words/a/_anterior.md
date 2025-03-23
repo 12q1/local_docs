@@ -1,9 +1,9 @@
 # Anterior
 ---
 #adjective
-- **[[b/_before|Before]] in place.**
-- **[[b/_before|Before]] or earlier in time; prior to; preceding.**
-- **Nearer the forward end; nearer the head of an [[a/_animal|animal]] or the front of a human.**
+- **Before in place.**
+- **Before or earlier in time; prior to; preceding.**
+- **Nearer the forward end; nearer the head of an animal or the front of a human.**
 ---
 ### Antonyms
 - [[posterior]], [[posterior]]

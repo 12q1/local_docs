@@ -3,14 +3,14 @@
 #verb
 - **To grant (someone) the permission or power necessary to do (something).**
 	- _Example: The General Assembly authorized the Council to take up the matter._
-- **To permit (something), to sanction or [[c/_consent|consent]] to (something).**
+- **To permit (something), to sanction or consent to (something).**
 	- _Example: The judge authorized the wiretapping._
 ---
 #adjective
-- **Explicitly [[a/_allowed|allowed]].**
+- **Explicitly allowed.**
 ---
 ### Synonyms
-- [[allowed]], [[permitted]]
+- [[[[a/_allowed|allowed]]]], [[permitted]]
 ### Antonyms
 - [[unauthorized]]
 ---

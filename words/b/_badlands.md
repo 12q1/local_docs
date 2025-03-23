@@ -1,8 +1,8 @@
 # Badlands
 ---
 #noun
-- **An [[a/_arid|arid]] terrain [[c/_characterized|characterized]] by severe erosion of sedimentary rocks.**
+- **An arid terrain characterized by severe erosion of sedimentary rocks.**
 ---
 ### Synonyms
-- [[desert]], [[malpaís]], [[moonscape]]
+- [[[[d/_desert|desert]]]], [[malpaís]], [[moonscape]]
 ---

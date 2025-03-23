@@ -1,8 +1,8 @@
 # Dale
 ---
 #noun
-- **A valley, often in an otherwise hilly [[a/_area|area]].**
+- **A valley, often in an otherwise hilly area.**
 ---
 ### Synonyms
-- [[dell]], [[dells]], [[vale]]
+- [[[[d/_dell|dell]]]], [[[[d/_dells|dells]]]], [[vale]]
 ---

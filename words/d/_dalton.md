@@ -1,6 +1,6 @@
 # Dalton
 ---
 #noun
-- **The [[a/_atomic|atomic]] mass unit**
+- **The atomic mass unit**
 ---
 ---

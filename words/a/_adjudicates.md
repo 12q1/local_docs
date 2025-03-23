@@ -1,9 +1,9 @@
 # Adjudicates
 ---
 #verb
-- **To settle a legal [[c/_case|case]] or other dispute.**
-- **To [[a/_act|act]] as a judge.**
+- **To settle a legal case or other dispute.**
+- **To act as a judge.**
 ---
 ### Synonyms
-- [[arbitrate]], [[decide]], [[resolve]], [[settle]], [[try]]
+- [[[[a/_arbitrate|arbitrate]]]], [[[[d/_decide|decide]]]], [[resolve]], [[settle]], [[try]]
 ---

@@ -1,6 +1,6 @@
 # Arithmetician
 ---
 #noun
-- **One with expertise in [[a/_arithmetic|arithmetic]]; a mathematician.**
+- **One with expertise in arithmetic; a mathematician.**
 ---
 ---

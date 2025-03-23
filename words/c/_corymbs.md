@@ -1,6 +1,6 @@
 # Corymbs
 ---
 #noun
-- **A [[c/_cluster|cluster]] of flowers with a flat or [[c/_convex|convex]] top.**
+- **A cluster of flowers with a flat or convex top.**
 ---
 ---

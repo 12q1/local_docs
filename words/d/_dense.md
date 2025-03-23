@@ -4,16 +4,16 @@
 - **A thicket.**
 ---
 #adjective
-- **Having relatively high [[d/_density|density]].**
-- **[[c/_compact|Compact]]; [[c/_crowded|crowded]] together.**
+- **Having relatively high density.**
+- **Compact; crowded together.**
 - **Thick; difficult to penetrate.**
-- **Opaque; [[a/_allowing|allowing]] little light to pass through.**
+- **Opaque; allowing little light to pass through.**
 - **Obscure, or difficult to understand.**
-- **[[b/_being|Being]] a subset of a topological space that [[a/_approximates|approximates]] the space well. See Wikipedia [[a/_article|article]] on [[d/_dense|dense]] sets for mathematical [[d/_definition|definition]].**
-- **(of a person) Slow to [[c/_comprehend|comprehend]]; of low intelligence.**
+- **Being a subset of a topological space that approximates the space well. See Wikipedia article on dense sets for mathematical definition.**
+- **(of a person) Slow to comprehend; of low intelligence.**
 ---
 ### Synonyms
-- [[abstruse]], [[difficult]], [[hard]], [[incomprehensible]], [[obscure]], [[tough]], [[cloudy]], [[opaque]], [[compact]], [[crowded]], [[packed]], [[dumb]], [[slow]], [[stupid]], [[thick]], [[solid]], [[solid]], [[thick]]
+- [[[[a/_abstruse|abstruse]]]], [[[[d/_difficult|difficult]]]], [[hard]], [[incomprehensible]], [[obscure]], [[tough]], [[[[c/_cloudy|cloudy]]]], [[opaque]], [[[[c/_compact|compact]]]], [[[[c/_crowded|crowded]]]], [[packed]], [[[[d/_dumb|dumb]]]], [[slow]], [[stupid]], [[thick]], [[solid]], [[solid]], [[thick]]
 ### Antonyms
-- [[diffuse]], [[few and far between]], [[rarefied]], [[scattered]], [[sparse]], [[bright]], [[canny]], [[intelligent]], [[quick]], [[quick-witted]], [[smart]], [[clear]], [[comprehensible]], [[easy]], [[simple]], [[straightforward]], [[understandable]], [[clear]], [[diaphanous]], [[see-through]], [[translucent]], [[transparent]], [[diffuse]], [[meager]], [[thin]]
+- [[[[d/_diffuse|diffuse]]]], [[few and far [[b/_between|between]]]], [[rarefied]], [[scattered]], [[sparse]], [[[[b/_bright|bright]]]], [[[[c/_canny|canny]]]], [[intelligent]], [[quick]], [[quick-witted]], [[smart]], [[[[c/_clear|clear]]]], [[[[c/_comprehensible|comprehensible]]]], [[[[e/_easy|easy]]]], [[simple]], [[straightforward]], [[understandable]], [[[[c/_clear|clear]]]], [[[[d/_diaphanous|diaphanous]]]], [[see-through]], [[translucent]], [[transparent]], [[[[d/_diffuse|diffuse]]]], [[meager]], [[thin]]
 ---

@@ -1,14 +1,14 @@
 # Busked
 ---
 #verb
-- **To prepare; to make ready; to [[a/_array|array]]; to dress.**
-- **To go; to direct one's [[c/_course|course]].**
+- **To prepare; to make ready; to array; to dress.**
+- **To go; to direct one's course.**
 ---
 #verb
 - **To solicit money by entertaining the public in the street or in public transport**
-- **To tack, [[c/_cruise|cruise]] [[a/_about|about]].**
+- **To tack, cruise about.**
 ---
 #adjective
-- **Wearing a [[b/_busk|busk]].**
+- **Wearing a busk.**
 ---
 ---

@@ -1,12 +1,12 @@
 # Accountable
 ---
 #adjective
-- **Obliged, when [[c/_called|called]] upon, to [[a/_answer|answer]] (for one’s [[d/_deeds|deeds]]); [[a/_answerable|answerable]].**
+- **Obliged, when called upon, to answer (for one’s deeds); answerable.**
 	- _Example: Every man is accountable to God for his conduct._
-- **Obliged to keep [[a/_accurate|accurate]] records (of property or funds).**
-- **Liable to be [[c/_called|called]] on to render an [[a/_account|account]].**
-- **[[c/_capable|Capable]] of [[b/_being|being]] [[a/_accounted|accounted]] for; explicable; explainable.**
+- **Obliged to keep accurate records (of property or funds).**
+- **Liable to be called on to render an account.**
+- **Capable of being accounted for; explicable; explainable.**
 ---
 ### Synonyms
-- [[amenable]], [[answerable]], [[liable]], [[responsible]]
+- [[[[a/_amenable|amenable]]]], [[[[a/_answerable|answerable]]]], [[liable]], [[responsible]]
 ---

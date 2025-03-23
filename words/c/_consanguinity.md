@@ -1,8 +1,8 @@
 # Consanguinity
 ---
 #noun
-- **A [[c/_consanguineous|consanguineous]] or family relationship through parentage or [[d/_descent|descent]]. A [[b/_blood|blood]] relationship.**
+- **A consanguineous or family relationship through parentage or descent. A blood relationship.**
 ---
 ### Synonyms
-- [[same-bloodedness]]
+- [[same-[[b/_bloodedness|bloodedness]]]]
 ---

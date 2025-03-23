@@ -1,6 +1,6 @@
 # Absolutize
 ---
 #verb
-- **To make [[a/_absolute|absolute]].**
+- **To make absolute.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Dacoit
 ---
 #noun
-- **A [[b/_bandit|bandit]] or [[a/_armed|armed]] robber, especially in India, Pakistan, Myanmar, and the surrounding region.**
+- **A bandit or armed robber, especially in India, Pakistan, Myanmar, and the surrounding region.**
 ---
 #verb
-- **To [[c/_commit|commit]] [[a/_armed|armed]] robbery.**
+- **To commit armed robbery.**
 ---
 ---

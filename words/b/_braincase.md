@@ -1,8 +1,8 @@
 # Braincase
 ---
 #noun
-- **The part of the skull that [[c/_contains|contains]] the [[b/_brain|brain]]; the neurocranium.**
+- **The part of the skull that contains the brain; the neurocranium.**
 ---
 ### Synonyms
-- [[cranium]], [[neurocranium]]
+- [[[[c/_cranium|cranium]]]], [[neurocranium]]
 ---

@@ -1,7 +1,7 @@
 # Breastbone
 ---
 #noun
-- **The [[c/_central|central]] narrow [[b/_bone|bone]] in the front of the [[c/_chest|chest]], [[c/_connecting|connecting]] the [[c/_collarbone|collarbone]] and the top ribs.**
+- **The central narrow bone in the front of the chest, connecting the collarbone and the top ribs.**
 ---
 ### Synonyms
 - [[sternum]]

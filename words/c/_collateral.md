@@ -1,30 +1,30 @@
 # Collateral
 ---
 #noun
-- **A security or guarantee (usually an [[a/_asset|asset]]) pledged for the repayment of a loan if one [[c/_cannot|cannot]] procure enough funds to repay.**
-- **(genealogy) A [[c/_collateral|collateral]] (not linear) family member.**
-- **A [[b/_branch|branch]] of a [[b/_bodily|bodily]] part or system of organs.**
+- **A security or guarantee (usually an asset) pledged for the repayment of a loan if one cannot procure enough funds to repay.**
+- **(genealogy) A collateral (not linear) family member.**
+- **A branch of a bodily part or system of organs.**
 	- _Example: Besides the arteries blood streams through numerous veins we call collaterals._
-- **Printed materials or [[c/_content|content]] of electronic media used to enhance sales of products (short form of [[c/_collateral|collateral]] material).**
-- **A thinner [[b/_blood|blood]] vessel providing an [[a/_alternate|alternate]] route to [[b/_blood|blood]] flow in [[c/_case|case]] the main vessel [[b/_becomes|becomes]] occluded.**
-- **A [[c/_contemporary|contemporary]] or rival.**
+- **Printed materials or content of electronic media used to enhance sales of products (short form of collateral material).**
+- **A thinner blood vessel providing an alternate route to blood flow in case the main vessel becomes occluded.**
+- **A contemporary or rival.**
 ---
 ### Synonyms
 - [[pledge]]
 #adjective
-- **Parallel, [[a/_along|along]] the same vein, side by side.**
-- **[[c/_corresponding|Corresponding]]; [[a/_accompanying|accompanying]], [[c/_concomitant|concomitant]].**
-- **[[b/_being|Being]] [[a/_aside|aside]] from the main subject, target, or goal.**
+- **Parallel, along the same vein, side by side.**
+- **Corresponding; accompanying, concomitant.**
+- **Being aside from the main subject, target, or goal.**
 	- _Example: Although not a direct cause, the border skirmish was certainly a collateral incitement for the war._
-- **(genealogy) Of an indirect [[a/_ancestral|ancestral]] relationship, as opposed to lineal descendency.**
+- **(genealogy) Of an indirect ancestral relationship, as opposed to lineal descendency.**
 	- _Example: Uncles, aunts, cousins, nephews and nieces are collateral relatives._
-- **Relating to a [[c/_collateral|collateral]] in the sense of an obligation or security.**
-- **Expensive to the extent of [[b/_being|being]] paid through a loan.**
-- **[[c/_coming|Coming]] or directed [[a/_along|along]] the side.**
+- **Relating to a collateral in the sense of an obligation or security.**
+- **Expensive to the extent of being paid through a loan.**
+- **Coming or directed along the side.**
 	- _Example: collateral pressure_
-- **[[a/_acting|Acting]] in an indirect way.**
-- **(of a vascular [[b/_bundle|bundle]]) Having the phloem and xylem [[a/_adjacent|adjacent]].**
+- **Acting in an indirect way.**
+- **(of a vascular bundle) Having the phloem and xylem adjacent.**
 ---
 ### Synonyms
-- [[ancillary]], [[subordinate]], [[tangential]]
+- [[[[a/_ancillary|ancillary]]]], [[subordinate]], [[tangential]]
 ---

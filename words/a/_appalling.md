@@ -3,18 +3,18 @@
 #verb
 - **To fill with horror; to dismay.**
 	- _Example: The evidence put forth at the court appalled most of the jury._
-- **To make pale; to [[b/_blanch|blanch]].**
+- **To make pale; to blanch.**
 - **To weaken; to reduce in strength**
-- **To grow faint; to [[b/_become|become]] weak; to [[b/_become|become]] dismayed or discouraged.**
-- **To lose flavour or [[b/_become|become]] stale.**
+- **To grow faint; to become weak; to become dismayed or discouraged.**
+- **To lose flavour or become stale.**
 ---
 ### Synonyms
-- [[affright]], [[daunt]], [[depress]], [[dismay]], [[frighten]], [[scare]], [[terrify]]
+- [[[[a/_affright|affright]]]], [[[[d/_daunt|daunt]]]], [[[[d/_depress|depress]]]], [[[[d/_dismay|dismay]]]], [[frighten]], [[scare]], [[terrify]]
 #adjective
-- **Horrifying and [[a/_astonishing|astonishing]].**
+- **Horrifying and astonishing.**
 	- _Example: That was an appalling waste of money._
-- **Extremely [[b/_bad|bad]]; terrible**
+- **Extremely bad; terrible**
 ---
 ### Synonyms
-- [[awful]], [[grotesque]], [[hideous]], [[horrid]], [[terrible]]
+- [[[[a/_awful|awful]]]], [[grotesque]], [[hideous]], [[horrid]], [[terrible]]
 ---

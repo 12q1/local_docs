@@ -1,7 +1,7 @@
 # Clubman
 ---
 #noun
-- **A man who [[a/_attends|attends]] a social [[c/_club|club]].**
-- **A warrior who uses a [[c/_club|club]] as a weapon.**
+- **A man who attends a social club.**
+- **A warrior who uses a club as a weapon.**
 ---
 ---

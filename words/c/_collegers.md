@@ -1,7 +1,7 @@
 # Collegers
 ---
 #noun
-- **A member of a [[c/_college|college]] (in [[a/_any|any]] sense)**
-- **One of the 70 foundationers at Eton [[c/_college|College]].**
+- **A member of a college (in any sense)**
+- **One of the 70 foundationers at Eton College.**
 ---
 ---

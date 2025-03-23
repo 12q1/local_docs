@@ -1,6 +1,6 @@
 # Candytuft
 ---
 #noun
-- **An [[a/_annual|annual]] plant of the genus Iberis.**
+- **An annual plant of the genus Iberis.**
 ---
 ---

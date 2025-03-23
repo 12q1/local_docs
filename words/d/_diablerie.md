@@ -1,0 +1,6 @@
+# Diablerie
+---
+#noun
+- **Witchcraft, sorcery**
+---
+---

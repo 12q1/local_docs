@@ -1,9 +1,9 @@
 # Brindled
 ---
 #verb
-- **To form streaks of a different [[c/_color|color]].**
+- **To form streaks of a different color.**
 ---
 #adjective
-- **Of a [[b/_brownish|brownish]], tawny or gray [[c/_colour|colour]], with streaks or spots; streaky, spotted**
+- **Of a brownish, tawny or gray colour, with streaks or spots; streaky, spotted**
 ---
 ---

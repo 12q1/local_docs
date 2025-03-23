@@ -1,8 +1,8 @@
 # Comeuppances
 ---
 #noun
-- **Retribution which is justly [[d/_deserved|deserved]].**
+- **Retribution which is justly deserved.**
 ---
 ### Synonyms
-- [[just deserts]]
+- [[just [[d/_deserts|deserts]]]]
 ---

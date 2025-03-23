@@ -1,12 +1,12 @@
 # Antiseptic
 ---
 #noun
-- **[[a/_any|Any]] substance that inhibits the growth and reproduction of microorganisms. Generally includes only those that are used on living objects (as opposed to disinfectants) and [[a/_aren|aren]]'t transported by the lymphatic system to [[d/_destroy|destroy]] [[b/_bacteria|bacteria]] in the [[b/_body|body]] (as opposed to [[a/_antibiotics|antibiotics]]).**
+- **Any substance that inhibits the growth and reproduction of microorganisms. Generally includes only those that are used on living objects (as opposed to disinfectants) and aren't transported by the lymphatic system to destroy bacteria in the body (as opposed to antibiotics).**
 ---
 #adjective
-- **Of, or relating to [[a/_antisepsis|antisepsis]], or the use of [[a/_antiseptics|antiseptics]].**
-- **(pharmaceutical effect) [[c/_capable|Capable]] of preventing microbial infection.**
-- **Very [[c/_clean|clean]]; [[a/_aseptic|aseptic]].**
-- **Free of unpleasantness; prim, sanitized or [[b/_bowdlerized|bowdlerized]].**
+- **Of, or relating to antisepsis, or the use of antiseptics.**
+- **(pharmaceutical effect) Capable of preventing microbial infection.**
+- **Very clean; aseptic.**
+- **Free of unpleasantness; prim, sanitized or bowdlerized.**
 ---
 ---

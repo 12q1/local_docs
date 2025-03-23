@@ -1,6 +1,6 @@
 # Clanswomen
 ---
 #noun
-- **A female member of a [[c/_clan|clan]].**
+- **A female member of a clan.**
 ---
 ---

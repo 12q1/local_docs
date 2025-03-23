@@ -1,8 +1,8 @@
 # Accordant
 ---
 #adjective
-- **In [[a/_agreement|agreement]]; [[a/_agreeing|agreeing]].**
+- **In agreement; agreeing.**
 ---
 ### Synonyms
-- [[conformable]], [[conforming]], [[consonant]], [[corresponding]], [[harmonious]]
+- [[[[c/_conformable|conformable]]]], [[[[c/_conforming|conforming]]]], [[[[c/_consonant|consonant]]]], [[[[c/_corresponding|corresponding]]]], [[harmonious]]
 ---

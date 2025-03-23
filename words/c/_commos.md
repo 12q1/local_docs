@@ -1,6 +1,6 @@
 # Commos
 ---
 #noun
-- **A [[c/_communist|communist]].**
+- **A communist.**
 ---
 ---

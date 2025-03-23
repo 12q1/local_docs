@@ -1,8 +1,8 @@
 # Butterbur
 ---
 #noun
-- **[[a/_any|Any]] of several Eurasian herbs, of the genus Petasites, having [[d/_dense|dense]] [[c/_clusters|clusters]] of often purple flowers.**
+- **Any of several Eurasian herbs, of the genus Petasites, having dense clusters of often purple flowers.**
 ---
 ### Synonyms
-- [[butterdock]], [[sweet coltsfoot]]
+- [[butterdock]], [[sweet [[c/_coltsfoot|coltsfoot]]]]
 ---

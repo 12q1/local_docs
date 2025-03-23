@@ -1,10 +1,10 @@
 # Cruciform
 ---
 #noun
-- **A [[c/_cross|cross]] shape in DNA; a Holliday junction.**
-- **[[a/_any|Any]] emblem in the shape of a [[c/_cross|cross]].**
+- **A cross shape in DNA; a Holliday junction.**
+- **Any emblem in the shape of a cross.**
 ---
 #adjective
-- **Having the shape of a [[c/_cross|cross]].**
+- **Having the shape of a cross.**
 ---
 ---

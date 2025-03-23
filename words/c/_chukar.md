@@ -1,8 +1,8 @@
 # Chukar
 ---
 #noun
-- **A species of partridge native to [[c/_central|central]] [[a/_asia|Asia]] ([[a/_alectoris|Alectoris]] [[c/_chukar|chukar]]).**
+- **A species of partridge native to central Asia (Alectoris chukar).**
 ---
 ### Synonyms
-- [[chukar partridge]]
+- [[[[c/_chukar|chukar]] partridge]]
 ---

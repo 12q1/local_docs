@@ -1,10 +1,10 @@
 # Companionship
 ---
 #noun
-- **The state of having or [[b/_being|being]] a [[c/_companion|companion]].**
-- **An [[a/_association|association]], a fellowship.**
+- **The state of having or being a companion.**
+- **An association, a fellowship.**
 	- _Example: a companionship of printers_
-- **The state of [[b/_being|being]] a journeyman.**
+- **The state of being a journeyman.**
 - **An organized group of people.**
 ---
 ---

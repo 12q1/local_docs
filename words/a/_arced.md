@@ -1,11 +1,11 @@
 # Arced
 ---
 #verb
-- **To move following a [[c/_curved|curved]] path.**
-- **To shape into an [[a/_arc|arc]]; to hold in the form of an [[a/_arc|arc]].**
-- **To form an electrical [[a/_arc|arc]].**
+- **To move following a curved path.**
+- **To shape into an arc; to hold in the form of an arc.**
+- **To form an electrical arc.**
 ---
 #adjective
-- **Having the form of an [[a/_arc|arc]]; [[a/_arched|arched]].**
+- **Having the form of an arc; arched.**
 ---
 ---

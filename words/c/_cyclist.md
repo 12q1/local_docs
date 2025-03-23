@@ -1,9 +1,9 @@
 # Cyclist
 ---
 #noun
-- **A person who rides a [[c/_cycle|cycle]], especially a [[b/_bicycle|bicycle]], or who habitually engages in [[c/_cycling|cycling]].**
-- **A user of the software language [[c/_cycl|CycL]].**
+- **A person who rides a cycle, especially a bicycle, or who habitually engages in cycling.**
+- **A user of the software language CycL.**
 ---
 ### Synonyms
-- [[bicyclist]], [[biker]], [[cycler]], [[wheelman]]
+- [[[[b/_bicyclist|bicyclist]]]], [[[[b/_biker|biker]]]], [[[[c/_cycler|cycler]]]], [[wheelman]]
 ---

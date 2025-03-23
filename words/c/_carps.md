@@ -1,11 +1,11 @@
 # Carps
 ---
 #noun
-- **[[a/_any|Any]] of various freshwater fish of the family [[c/_cyprinidae|Cyprinidae]], especially the [[c/_common|common]] [[c/_carp|carp]], [[c/_cyprinus|Cyprinus]] carpio.**
+- **Any of various freshwater fish of the family Cyprinidae, especially the common carp, Cyprinus carpio.**
 ---
 #verb
-- **To [[c/_complain|complain]] [[a/_about|about]] a fault; to harp on.**
+- **To complain about a fault; to harp on.**
 - **To say; to tell.**
-- **To find fault with; to [[c/_censure|censure]].**
+- **To find fault with; to censure.**
 ---
 ---

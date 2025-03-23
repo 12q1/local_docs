@@ -1,19 +1,19 @@
 # Besides
 ---
 #adverb
-- **[[a/_also|Also]]; in [[a/_addition|addition]].**
-- **Used to emphasize an [[a/_additional|additional]] point, especially an important or stronger reason; Moreover; furthermore.**
+- **Also; in addition.**
+- **Used to emphasize an additional point, especially an important or stronger reason; Moreover; furthermore.**
 	- _Example: I don't feel like going out tonight. Besides, I have to work tomorrow morning anyway._
 - **Otherwise; else.**
 	- _Example: I have been to Spain but nowhere besides._
 - **On one side.**
 ---
 #preposition
-- **In [[a/_addition|addition]], in [[a/_addition|addition]] to.**
+- **In addition, in addition to.**
 - **Other than; except for; instead of.**
 	- _Example: I don't want to go anywhere besides India._
-- **[[b/_beside|Beside]].**
+- **Beside.**
 ---
 ### Synonyms
-- [[beyond]], [[on top of]], [[barring]], [[besides]], [[save for]]
+- [[[[b/_beyond|beyond]]]], [[on top of]], [[[[b/_barring|barring]]]], [[[[b/_besides|besides]]]], [[save for]]
 ---

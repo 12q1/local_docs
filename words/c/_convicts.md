@@ -1,18 +1,18 @@
 # Convicts
 ---
 #noun
-- **A person [[c/_convicted|convicted]] of a [[c/_crime|crime]] by a judicial [[b/_body|body]].**
-- **A person [[d/_deported|deported]] to a penal [[c/_colony|colony]].**
-- **The [[c/_convict|convict]] [[c/_cichlid|cichlid]] (Amatitlania nigrofasciata), [[a/_also|also]] known as the zebra [[c/_cichlid|cichlid]], a popular [[a/_aquarium|aquarium]] fish, with stripes that resemble a prison uniform.**
-- **A [[c/_common|common]] name for the sheepshead (Archosargus probatocephalus), owing to its [[b/_black|black]] and gray stripes.**
+- **A person convicted of a crime by a judicial body.**
+- **A person deported to a penal colony.**
+- **The convict cichlid (Amatitlania nigrofasciata), also known as the zebra cichlid, a popular aquarium fish, with stripes that resemble a prison uniform.**
+- **A common name for the sheepshead (Archosargus probatocephalus), owing to its black and gray stripes.**
 ---
 ### Synonyms
-- [[assigned servant]], [[con]], [[government man]], [[public servant]], [[penal colonist]]
+- [[[[a/_assigned|assigned]] servant]], [[[[c/_con|con]]]], [[government man]], [[public servant]], [[penal [[c/_colonist|colonist]]]]
 #verb
 - **To find guilty**
 	- _Example: His remarks convicted him of a lack of sensitivity._
-- **(esp. religious) to [[c/_convince|convince]], persuade; to [[c/_cause|cause]] (someone) to [[b/_believe|believe]] in (something)**
+- **(esp. religious) to convince, persuade; to cause (someone) to believe in (something)**
 ---
 ### Synonyms
-- [[disapprove]], [[sentence]]
+- [[[[d/_disapprove|disapprove]]]], [[sentence]]
 ---

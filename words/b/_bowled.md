@@ -1,13 +1,13 @@
 # Bowled
 ---
 #verb
-- **To roll or throw (a [[b/_ball|ball]]) in the [[c/_correct|correct]] manner in [[c/_cricket|cricket]] and similar games and sports.**
-- **To throw the [[b/_ball|ball]] (in [[c/_cricket|cricket]] and similar games and sports).**
-- **To roll or [[c/_carry|carry]] smoothly on, or as on, wheels.**
+- **To roll or throw (a ball) in the correct manner in cricket and similar games and sports.**
+- **To throw the ball (in cricket and similar games and sports).**
+- **To roll or carry smoothly on, or as on, wheels.**
 	- _Example: We were bowled rapidly along the road._
-- **To pelt or strike with [[a/_anything|anything]] rolled.**
+- **To pelt or strike with anything rolled.**
 ---
 #adverb
-- **(Dismissed) by the [[b/_bowled|bowled]] [[b/_ball|ball]] hitting and [[b/_breaking|breaking]] the [[b/_batsman|batsman]]'s wicket.**
+- **(Dismissed) by the bowled ball hitting and breaking the batsman's wicket.**
 ---
 ---

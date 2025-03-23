@@ -1,6 +1,6 @@
 # Decongesting
 ---
 #verb
-- **To free from [[c/_congestion|congestion]]**
+- **To free from congestion**
 ---
 ---

@@ -1,12 +1,12 @@
 # Chiselling
 ---
 #verb
-- **To use a [[c/_chisel|chisel]].**
-- **To work something with a [[c/_chisel|chisel]].**
+- **To use a chisel.**
+- **To work something with a chisel.**
 	- _Example: She chiselled a sculpture out of the block of wood._
-- **To [[c/_cheat|cheat]], to get something by [[c/_cheating|cheating]].**
+- **To cheat, to get something by cheating.**
 ---
 #noun
-- **A piece of work produced using a [[c/_chisel|chisel]].**
+- **A piece of work produced using a chisel.**
 ---
 ---

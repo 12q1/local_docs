@@ -1,6 +1,6 @@
 # Archaeologists
 ---
 #noun
-- **Someone who studies or practises [[a/_archaeology|archaeology]].**
+- **Someone who studies or practises archaeology.**
 ---
 ---

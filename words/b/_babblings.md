@@ -1,9 +1,9 @@
 # Babblings
 ---
 #noun
-- **A stage in [[c/_child|child]] language [[a/_acquisition|acquisition]], during which an infant [[a/_appears|appears]] to be experimenting with uttering sounds of language, but not yet producing [[a/_any|any]] recognizable words**
-- **Sounds produced by infant during the [[b/_babbling|babbling]] period**
+- **A stage in child language acquisition, during which an infant appears to be experimenting with uttering sounds of language, but not yet producing any recognizable words**
+- **Sounds produced by infant during the babbling period**
 - **Idle senseless talk; prattle.**
-- **A [[c/_confused|confused]] murmur, as of a stream.**
+- **A confused murmur, as of a stream.**
 ---
 ---

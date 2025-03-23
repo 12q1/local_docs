@@ -1,10 +1,10 @@
 # Dendritic
 ---
 #noun
-- **A [[d/_dendritic|dendritic]] [[c/_cell|cell]]**
+- **A dendritic cell**
 ---
 #adjective
-- **Having a [[b/_branching|branching]] structure similar to a tree**
-- **Of, pertaining to or possessing [[d/_dendrites|dendrites]]**
+- **Having a branching structure similar to a tree**
+- **Of, pertaining to or possessing dendrites**
 ---
 ---

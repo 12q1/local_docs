@@ -1,8 +1,8 @@
 # Decrepit
 ---
 #adjective
-- **Weakened or worn out from [[a/_age|age]] or wear.**
+- **Weakened or worn out from age or wear.**
 ---
 ### Synonyms
-- [[aged]], [[timeworn]], [[withered]]
+- [[[[a/_aged|aged]]]], [[timeworn]], [[withered]]
 ---

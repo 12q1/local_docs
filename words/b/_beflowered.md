@@ -1,6 +1,6 @@
 # Beflowered
 ---
 #verb
-- **To [[c/_cover|cover]] with flowers.**
+- **To cover with flowers.**
 ---
 ---

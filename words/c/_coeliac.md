@@ -1,10 +1,10 @@
 # Coeliac
 ---
 #noun
-- **Someone who has [[c/_coeliac|coeliac]] disease.**
+- **Someone who has coeliac disease.**
 ---
 #adjective
-- **Relating to the [[a/_abdomen|abdomen]], or to the [[c/_cavity|cavity]] of the [[a/_abdomen|abdomen]].**
-- **[[a/_abbreviation|Abbreviation]] of [[c/_coeliac|coeliac]] disease; used [[a/_attributively|attributively]].**
+- **Relating to the abdomen, or to the cavity of the abdomen.**
+- **Abbreviation of coeliac disease; used attributively.**
 ---
 ---

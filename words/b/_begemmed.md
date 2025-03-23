@@ -1,9 +1,9 @@
 # Begemmed
 ---
 #verb
-- **To [[a/_adorn|adorn]] (as if) with gems.**
+- **To adorn (as if) with gems.**
 ---
 #adjective
-- **[[a/_adorned|Adorned]] (as if) with gems.**
+- **Adorned (as if) with gems.**
 ---
 ---

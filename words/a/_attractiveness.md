@@ -1,9 +1,9 @@
 # Attractiveness
 ---
 #noun
-- **The state of [[b/_being|being]] [[a/_attractive|attractive]] or engaging.**
-- **The result of [[b/_being|being]] [[a/_attractive|attractive]].**
+- **The state of being attractive or engaging.**
+- **The result of being attractive.**
 ---
 ### Synonyms
-- [[attraction]], [[attractivity]]
+- [[[[a/_attraction|attraction]]]], [[[[a/_attractivity|attractivity]]]]
 ---

@@ -2,12 +2,12 @@
 ---
 #adjective
 - **Following as a result.**
-- **Having significant [[c/_consequences|consequences]]; of importance.**
+- **Having significant consequences; of importance.**
 - **Important or significant.**
 - **(of a person) Self-important.**
 ---
 ### Synonyms
-- [[considerable]], [[important]]
+- [[[[c/_considerable|considerable]]]], [[important]]
 ### Antonyms
 - [[inconsequential]]
 ---

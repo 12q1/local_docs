@@ -1,13 +1,13 @@
 # Bloodier
 ---
 #adjective
-- **[[c/_covered|Covered]] in [[b/_blood|blood]].**
+- **Covered in blood.**
 	- _Example: All that remained of his right hand after the accident was a bloody stump._
-- **[[c/_characterised|Characterised]] by [[b/_bloodshed|bloodshed]].**
+- **Characterised by bloodshed.**
 	- _Example: There have been bloody battles between the two tribes._
 - **Used as an intensifier.**
-- **[[b/_badly|Badly]] [[b/_behaved|behaved]]; unpleasant; [[b/_beastly|beastly]].**
+- **Badly behaved; unpleasant; beastly.**
 ---
 ### Synonyms
-- [[bally]], [[blasted]], [[bleeding]], [[blinking]], [[blooming]], [[damn]], [[damned]], [[dang]], [[darned]], [[doggone]], [[flaming]], [[freaking]], [[fricking]], [[frigging]], [[fucking]], [[goddam]], [[goddamn]], [[goddamned]], [[godforsaken]], [[rotten]], [[wretched]], [[bleeding]], [[bloodied]], [[gory]], [[sanguinolent]]
+- [[[[b/_bally|bally]]]], [[[[b/_blasted|blasted]]]], [[[[b/_bleeding|bleeding]]]], [[[[b/_blinking|blinking]]]], [[[[b/_blooming|blooming]]]], [[[[d/_damn|damn]]]], [[[[d/_damned|damned]]]], [[[[d/_dang|dang]]]], [[[[d/_darned|darned]]]], [[[[d/_doggone|doggone]]]], [[flaming]], [[freaking]], [[fricking]], [[frigging]], [[fucking]], [[goddam]], [[goddamn]], [[goddamned]], [[godforsaken]], [[rotten]], [[wretched]], [[[[b/_bleeding|bleeding]]]], [[[[b/_bloodied|bloodied]]]], [[gory]], [[sanguinolent]]
 ---

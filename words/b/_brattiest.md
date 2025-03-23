@@ -1,6 +1,6 @@
 # Brattiest
 ---
 #adjective
-- **[[c/_characteristic|Characteristic]] of a [[b/_brat|brat]]; unruly and impolite.**
+- **Characteristic of a brat; unruly and impolite.**
 ---
 ---

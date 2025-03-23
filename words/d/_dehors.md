@@ -1,9 +1,9 @@
 # Dehors
 ---
 #noun
-- **[[a/_all|All]] sorts of outworks in general, at a distance from the main works; [[a/_any|any]] [[a/_advanced|advanced]] works for protection or [[c/_cover|cover]].**
+- **All sorts of outworks in general, at a distance from the main works; any advanced works for protection or cover.**
 ---
 #preposition
-- **Out of; without; foreign to; out of the [[a/_agreement|agreement]], record, will, or other instrument.**
+- **Out of; without; foreign to; out of the agreement, record, will, or other instrument.**
 ---
 ---

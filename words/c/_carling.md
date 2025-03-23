@@ -4,11 +4,11 @@
 - **An old woman.**
 ---
 ### Synonyms
-- [[crone]], [[hag]]
+- [[[[c/_crone|crone]]]], [[hag]]
 #noun
-- **A piece of squared timber fitted fore-and-[[a/_aft|aft]] [[b/_between|between]] the [[d/_deck|deck]] [[b/_beams|beams]] of a wooden ship to provide support for the [[d/_deck|deck]] planking.**
+- **A piece of squared timber fitted fore-and-aft between the deck beams of a wooden ship to provide support for the deck planking.**
 ---
 #noun
-- **A [[c/_cultivar|cultivar]] of field pea or maple pea, dried, soaked, [[b/_boiled|boiled]], then fried.**
+- **A cultivar of field pea or maple pea, dried, soaked, boiled, then fried.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bandaged
 ---
 #verb
-- **To [[a/_apply|apply]] a [[b/_bandage|bandage]] to something.**
+- **To apply a bandage to something.**
 ---
 ---

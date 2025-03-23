@@ -1,6 +1,6 @@
 # Clansman
 ---
 #noun
-- **A male member of a [[c/_clan|clan]].**
+- **A male member of a clan.**
 ---
 ---

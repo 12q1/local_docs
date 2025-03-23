@@ -1,7 +1,7 @@
 # Ballrooms
 ---
 #noun
-- **A large room used for [[d/_dancing|dancing]] and [[b/_banquets|banquets]].**
-- **A type of elegant [[d/_dance|dance]].**
+- **A large room used for dancing and banquets.**
+- **A type of elegant dance.**
 ---
 ---

@@ -2,20 +2,20 @@
 ---
 #noun
 - **A sour substance.**
-- **[[a/_any|Any]] of several [[c/_classes|classes]] of [[c/_compound|compound]] having the following properties:**
-- **Lysergic [[a/_acid|acid]] diethylamide (LSD)**
+- **Any of several classes of compound having the following properties:**
+- **Lysergic acid diethylamide (LSD)**
 ---
 ### Antonyms
-- [[alkali]], [[base]]
+- [[[[a/_alkali|alkali]]]], [[[[b/_base|base]]]]
 #adjective
-- **Sour, sharp, or [[b/_biting|biting]] to the taste; tart; having the taste of vinegar.**
+- **Sour, sharp, or biting to the taste; tart; having the taste of vinegar.**
 	- _Example: acid fruits or liquors_
 - **Sour-tempered.**
-- **Of or pertaining to an [[a/_acid|acid]]; [[a/_acidic|acidic]].**
-- **[[d/_denoting|Denoting]] a musical genre that is a distortion (as if hallucinogenic) of an existing genre, as in [[a/_acid|acid]] house, [[a/_acid|acid]] jazz, [[a/_acid|acid]] rock.**
+- **Of or pertaining to an acid; acidic.**
+- **Denoting a musical genre that is a distortion (as if hallucinogenic) of an existing genre, as in acid house, acid jazz, acid rock.**
 ---
 ### Synonyms
-- [[acidic]]
+- [[[[a/_acidic|acidic]]]]
 ### Antonyms
-- [[alkaline]], [[base]]
+- [[[[a/_alkaline|alkaline]]]], [[[[b/_base|base]]]]
 ---

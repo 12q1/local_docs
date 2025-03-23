@@ -1,7 +1,7 @@
 # Climaxing
 ---
 #verb
-- **To reach or [[b/_bring|bring]] to a [[c/_climax|climax]].**
+- **To reach or bring to a climax.**
 - **To orgasm; to reach orgasm.**
 ---
 ---

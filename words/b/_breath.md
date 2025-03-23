@@ -1,17 +1,17 @@
 # Breath
 ---
 #noun
-- **The [[a/_act|act]] or process of [[b/_breathing|breathing]].**
+- **The act or process of breathing.**
 	- _Example: I could hear the breath of the runner behind me._
-- **A single [[a/_act|act]] of [[b/_breathing|breathing]] in or out; a [[b/_breathing|breathing]] of [[a/_air|air]].**
+- **A single act of breathing in or out; a breathing of air.**
 	- _Example: I took a deep breath and started the test._
-- **[[a/_air|Air]] expelled from the lungs.**
+- **Air expelled from the lungs.**
 	- _Example: I could feel the runner's breath on my shoulder._
 - **A rest or pause.**
 	- _Example: Let's stop for a breath when we get to the top of the hill._
-- **A small [[a/_amount|amount]] of something, such as wind, or [[c/_common|common]] sense.**
+- **A small amount of something, such as wind, or common sense.**
 	- _Example: Even with all the windows open, there is hardly a breath of air in here._
 - **Fragrance; exhalation; odor; perfume.**
-- **Gentle exercise, [[c/_causing|causing]] a quicker respiration.**
+- **Gentle exercise, causing a quicker respiration.**
 ---
 ---

@@ -1,12 +1,12 @@
 # Assessors
 ---
 #noun
-- **One who [[a/_assesses|assesses]] a property for tax or insurance evaluation.**
-- **A specialist who [[a/_assists|assists]] the [[c/_court|court]] in [[d/_determining|determining]] a matter.**
-- **A [[c/_civil|civil]] servant entrusted with [[c/_checking|checking]] the veracity of [[d/_data|data]] and [[c/_criteria|criteria]] used by a taxpayer to [[c/_complete|complete]] a tax return.**
-- **One who [[a/_assesses|assesses]] a project for [[c/_cost|cost]] evaluation.**
+- **One who assesses a property for tax or insurance evaluation.**
+- **A specialist who assists the court in determining a matter.**
+- **A civil servant entrusted with checking the veracity of data and criteria used by a taxpayer to complete a tax return.**
+- **One who assesses a project for cost evaluation.**
 - **(Oxford University) An official responsible for student welfare.**
 ---
 ### Synonyms
-- [[tax assessor]]
+- [[tax [[a/_assessor|assessor]]]]
 ---

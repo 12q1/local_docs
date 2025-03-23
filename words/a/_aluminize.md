@@ -1,7 +1,7 @@
 # Aluminize
 ---
 #verb
-- **To [[c/_coat|coat]] with a layer of [[a/_aluminium|aluminium]].**
+- **To coat with a layer of aluminium.**
 	- _Example: They would aluminise the glass in order to provide electrical conductivity._
 ---
 ---

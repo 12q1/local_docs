@@ -1,6 +1,6 @@
 # Chaparajos
 ---
 #noun
-- **[[c/_chaps|Chaps]] (item of [[c/_clothing|clothing]])**
+- **Chaps (item of clothing)**
 ---
 ---

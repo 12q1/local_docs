@@ -1,6 +1,6 @@
 # Dedendum
 ---
 #noun
-- **The difference [[b/_between|between]] the radius of the pitch [[c/_circle|circle]] of a gear and its root [[c/_circle|circle]]**
+- **The difference between the radius of the pitch circle of a gear and its root circle**
 ---
 ---

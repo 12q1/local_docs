@@ -1,6 +1,6 @@
 # Cladogenesis
 ---
 #noun
-- **An evolutionary splitting event in which each [[b/_branch|branch]] and its smaller [[b/_branches|branches]] forms a [[c/_clade|clade]]**
+- **An evolutionary splitting event in which each branch and its smaller branches forms a clade**
 ---
 ---

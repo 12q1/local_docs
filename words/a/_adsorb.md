@@ -1,6 +1,6 @@
 # Adsorb
 ---
 #verb
-- **To [[a/_accumulate|accumulate]] on a surface, by [[a/_adsorption|adsorption]]**
+- **To accumulate on a surface, by adsorption**
 ---
 ---

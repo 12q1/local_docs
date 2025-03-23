@@ -1,6 +1,6 @@
 # Chromatogram
 ---
 #noun
-- **The visual output from a [[c/_chromatograph|chromatograph]]. Usually a graphical display or histogram.**
+- **The visual output from a chromatograph. Usually a graphical display or histogram.**
 ---
 ---

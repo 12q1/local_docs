@@ -1,8 +1,8 @@
 # Choirmaster
 ---
 #noun
-- **The musical director of a [[c/_choir|choir]], who [[c/_conducts|conducts]] performances and supervises rehearsal**
+- **The musical director of a choir, who conducts performances and supervises rehearsal**
 ---
 ### Synonyms
-- [[choir conductor]], [[choir leader]], [[chorister]], [[chorusmaster]], [[leader of the choir]]
+- [[[[c/_choir|choir]] [[c/_conductor|conductor]]]], [[[[c/_choir|choir]] leader]], [[[[c/_chorister|chorister]]]], [[[[c/_chorusmaster|chorusmaster]]]], [[leader of the [[c/_choir|choir]]]]
 ---

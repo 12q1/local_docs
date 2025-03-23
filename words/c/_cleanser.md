@@ -1,6 +1,6 @@
 # Cleanser
 ---
 #noun
-- **Something that [[c/_cleanses|cleanses]], such as a [[d/_detergent|detergent]].**
+- **Something that cleanses, such as a detergent.**
 ---
 ---

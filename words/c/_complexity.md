@@ -1,11 +1,11 @@
 # Complexity
 ---
 #noun
-- **The state of [[b/_being|being]] [[c/_complex|complex]]; intricacy; entanglement.**
-- **That which is and renders [[c/_complex|complex]]; intricacy; [[c/_complication|complication]].**
+- **The state of being complex; intricacy; entanglement.**
+- **That which is and renders complex; intricacy; complication.**
 ---
 ### Synonyms
-- [[complicacy]]
+- [[[[c/_complicacy|complicacy]]]]
 ### Antonyms
 - [[simplicity]]
 ---

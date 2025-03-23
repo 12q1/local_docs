@@ -1,9 +1,9 @@
 # Chromolithograph
 ---
 #noun
-- **A print made by [[c/_chromolithography|chromolithography]].**
+- **A print made by chromolithography.**
 ---
 #verb
-- **To [[c/_create|create]] a print using [[c/_chromolithography|chromolithography]].**
+- **To create a print using chromolithography.**
 ---
 ---

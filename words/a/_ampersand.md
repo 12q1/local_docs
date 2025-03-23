@@ -7,6 +7,6 @@
 ### Synonyms
 - [[epershand]]
 #verb
-- **To [[a/_add|add]] an [[a/_ampersand|ampersand]] to.**
+- **To add an ampersand to.**
 ---
 ---

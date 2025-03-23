@@ -1,0 +1,6 @@
+# Earthshattering
+---
+#adjective
+- **Earthshaking**
+---
+---

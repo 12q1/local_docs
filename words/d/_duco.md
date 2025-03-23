@@ -1,0 +1,6 @@
+# Duco
+---
+#noun
+- **Automotive paint**
+---
+---

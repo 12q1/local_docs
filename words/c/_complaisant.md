@@ -1,7 +1,7 @@
 # Complaisant
 ---
 #adjective
-- **[[c/_compliant|Compliant]].**
+- **Compliant.**
 - **Willing to do what pleases others; obliging.**
 - **Polite; showing respect.**
 ---

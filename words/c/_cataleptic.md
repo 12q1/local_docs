@@ -1,9 +1,9 @@
 # Cataleptic
 ---
 #noun
-- **A person experiencing [[c/_catalepsy|catalepsy]].**
+- **A person experiencing catalepsy.**
 ---
 #adjective
-- **Pertaining to, or [[a/_affected|affected]] by, [[c/_catalepsy|catalepsy]].**
+- **Pertaining to, or affected by, catalepsy.**
 ---
 ---

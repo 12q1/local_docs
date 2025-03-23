@@ -1,8 +1,8 @@
 # Cuspid
 ---
 #noun
-- **A tooth with a single [[c/_cusp|cusp]]; a [[c/_canine|canine]].**
+- **A tooth with a single cusp; a canine.**
 ---
 ### Synonyms
-- [[canine tooth]], [[dogtooth]], [[eyetooth]]
+- [[[[c/_canine|canine]] tooth]], [[[[d/_dogtooth|dogtooth]]]], [[eyetooth]]
 ---

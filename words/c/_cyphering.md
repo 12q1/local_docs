@@ -1,13 +1,13 @@
 # Cyphering
 ---
 #verb
-- **To [[c/_calculate|calculate]].**
+- **To calculate.**
 	- _Example: I never learned much more than how to read and cipher._
-- **To write in [[c/_code|code]] or [[c/_cipher|cipher]].**
+- **To write in code or cipher.**
 - **Of an organ pipe: to sound independent of the organ.**
-- **To [[d/_decipher|decipher]].**
+- **To decipher.**
 ---
 #noun
-- **Skill in [[a/_arithmetic|arithmetic]].**
+- **Skill in arithmetic.**
 ---
 ---

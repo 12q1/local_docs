@@ -1,7 +1,7 @@
 # Carbureted
 ---
 #verb
-- **To react with [[c/_carbon|carbon]].**
-- **To mix ([[a/_air|air]]) with hydrocarbons, especially with petroleum, as in an internal [[c/_combustion|combustion]] engine.**
+- **To react with carbon.**
+- **To mix (air) with hydrocarbons, especially with petroleum, as in an internal combustion engine.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Agglomerated
 ---
 #verb
-- **To wind or [[c/_collect|collect]] into a [[b/_ball|ball]]; hence, to gather into a mass or [[a/_anything|anything]] like a mass.**
+- **To wind or collect into a ball; hence, to gather into a mass or anything like a mass.**
 ---
 ### Synonyms
-- [[ball]], [[ball up]], [[bundle up]], [[clew]], [[conglobate]], [[conglobe]], [[globe]], [[orb]], [[wind]], [[amass]], [[gather]], [[gather up]], [[merge]], [[pile up]]
+- [[[[b/_ball|ball]]]], [[[[b/_ball|ball]] up]], [[[[b/_bundle|bundle]] up]], [[[[c/_clew|clew]]]], [[[[c/_conglobate|conglobate]]]], [[[[c/_conglobe|conglobe]]]], [[globe]], [[orb]], [[wind]], [[[[a/_amass|amass]]]], [[gather]], [[gather up]], [[merge]], [[pile up]]
 ---

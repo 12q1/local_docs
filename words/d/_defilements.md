@@ -1,9 +1,9 @@
 # Defilements
 ---
 #noun
-- **The [[a/_act|act]] of [[d/_defiling|defiling]].**
-- **The state of [[b/_being|being]] [[d/_defiled|defiled]].**
-- **The protection of the interior walls of a fortification from enfilading fire, as by [[c/_covering|covering]] them, or by a high parapet on the exposed side.**
+- **The act of defiling.**
+- **The state of being defiled.**
+- **The protection of the interior walls of a fortification from enfilading fire, as by covering them, or by a high parapet on the exposed side.**
 ---
 ### Synonyms
 - [[pollution]]

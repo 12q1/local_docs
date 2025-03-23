@@ -1,7 +1,7 @@
 # Birdsong
 ---
 #noun
-- **A vocalisation made by a [[b/_bird|bird]] for the purposes of [[c/_courtship|courtship]].**
-- **Vocalisations made by [[b/_birds|birds]], [[c/_considered|considered]] [[c/_collectively|collectively]].**
+- **A vocalisation made by a bird for the purposes of courtship.**
+- **Vocalisations made by birds, considered collectively.**
 ---
 ---

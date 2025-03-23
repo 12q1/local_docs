@@ -1,6 +1,6 @@
 # Colorants
 ---
 #noun
-- **A pigment, dye etc [[a/_added|added]] to something to [[c/_change|change]] its [[c/_colour|colour]] or hue**
+- **A pigment, dye etc added to something to change its colour or hue**
 ---
 ---

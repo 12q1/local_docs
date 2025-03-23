@@ -1,6 +1,6 @@
 # Centimos
 ---
 #noun
-- **A [[c/_cent|cent]], i.e. 1/100, of [[c/_certain|certain]] (mainly historic) Iberian and Latin [[a/_american|American]] [[c/_currencies|currencies]], and presently of the Euro ([[c/_coinage|coinage]] version in Spanish), as a [[c/_coin|coin]] or theoretic value**
+- **A cent, i.e. 1/100, of certain (mainly historic) Iberian and Latin American currencies, and presently of the Euro (coinage version in Spanish), as a coin or theoretic value**
 ---
 ---

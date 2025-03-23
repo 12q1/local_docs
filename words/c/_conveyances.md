@@ -1,8 +1,8 @@
 # Conveyances
 ---
 #noun
-- **An [[a/_act|act]] or instance of [[c/_conveying|conveying]].**
+- **An act or instance of conveying.**
 - **A means of transporting, especially a vehicle.**
-- **An instrument transferring title of an object from one person or group of persons to [[a/_another|another]].**
+- **An instrument transferring title of an object from one person or group of persons to another.**
 ---
 ---

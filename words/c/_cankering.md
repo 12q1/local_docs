@@ -1,9 +1,9 @@
 # Cankering
 ---
 #verb
-- **To [[a/_affect|affect]] as a [[c/_canker|canker]]; to eat [[a/_away|away]]; to [[c/_corrode|corrode]]; to [[c/_consume|consume]].**
-- **To infect or pollute; to [[c/_corrupt|corrupt]].**
-- **To waste [[a/_away|away]], grow rusty, or be oxidized, as a mineral.**
-- **To be or [[b/_become|become]] diseased, or as if diseased, with [[c/_canker|canker]]; to grow [[c/_corrupt|corrupt]]; to [[b/_become|become]] venomous.**
+- **To affect as a canker; to eat away; to corrode; to consume.**
+- **To infect or pollute; to corrupt.**
+- **To waste away, grow rusty, or be oxidized, as a mineral.**
+- **To be or become diseased, or as if diseased, with canker; to grow corrupt; to become venomous.**
 ---
 ---

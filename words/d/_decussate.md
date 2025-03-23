@@ -1,13 +1,13 @@
 # Decussate
 ---
 #verb
-- **To form an X or to [[c/_cross|cross]] or intersect.**
+- **To form an X or to cross or intersect.**
 ---
 #adjective
-- **[[c/_crossed|Crossed]]; intersected; resembling a letter X.**
-- **Having [[a/_anatomical|anatomical]] structures or markings [[c/_crossing|crossing]] each other, typically in an X shape or at right [[a/_angles|angles]].**
-- **Having opposite leaves [[a/_arranged|arranged]] [[a/_alternately|alternately]] at right [[a/_angles|angles]].**
-- **[[c/_consisting|Consisting]] of two rising and two falling [[c/_clauses|clauses]], placed in [[a/_alternate|alternate]] opposition to each other.**
+- **Crossed; intersected; resembling a letter X.**
+- **Having anatomical structures or markings crossing each other, typically in an X shape or at right angles.**
+- **Having opposite leaves arranged alternately at right angles.**
+- **Consisting of two rising and two falling clauses, placed in alternate opposition to each other.**
 	- _Example: a decussated period_
 ---
 ### Synonyms

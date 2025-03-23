@@ -4,5 +4,5 @@
 - **A thicket of small trees or shrubs.**
 ---
 ### Synonyms
-- [[coppice]]
+- [[[[c/_coppice|coppice]]]]
 ---

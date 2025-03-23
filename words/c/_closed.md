@@ -3,25 +3,25 @@
 #verb
 - **(physical) To remove a gap.**
 - **(social) To finish, to terminate.**
-- **To [[c/_come|come]] or gather [[a/_around|around]]; to enclose; to encompass; to [[c/_confine|confine]].**
-- **To have a vector sum of 0; that is, to form a [[c/_closed|closed]] polygon.**
+- **To come or gather around; to enclose; to encompass; to confine.**
+- **To have a vector sum of 0; that is, to form a closed polygon.**
 ---
 ### Synonyms
-- [[narrow]], [[shut]], [[close off]], [[close up]], [[cover]], [[shut]], [[shut off]], [[close down]], [[end]], [[finish]], [[terminate]], [[wind up]], [[close out]], [[exit]]
+- [[narrow]], [[shut]], [[[[c/_close|close]] off]], [[[[c/_close|close]] up]], [[[[c/_cover|cover]]]], [[shut]], [[shut off]], [[[[c/_close|close]] [[d/_down|down]]]], [[end]], [[finish]], [[terminate]], [[wind up]], [[[[c/_close|close]] out]], [[exit]]
 ### Antonyms
-- [[extend]], [[widen]], [[open]], [[open]], [[begin]], [[commence]], [[initiate]], [[start]], [[open]], [[start]]
+- [[extend]], [[widen]], [[open]], [[open]], [[[[b/_begin|begin]]]], [[[[c/_commence|commence]]]], [[initiate]], [[start]], [[open]], [[start]]
 #adjective
 - **Sealed, made inaccessible or impassable; not open.**
-- **(of a store or [[b/_business|business]]) Not operating or [[c/_conducting|conducting]] trade.**
+- **(of a store or business) Not operating or conducting trade.**
 - **Not public.**
 	- _Example: closed source  a closed committee_
-- **(of a set) Having an open [[c/_complement|complement]].**
-- **(of a set) Such that its image under the specified operation is [[c/_contained|contained]] in it.**
+- **(of a set) Having an open complement.**
+- **(of a set) Such that its image under the specified operation is contained in it.**
 	- _Example: The set of integers is closed under addition: \forall x,y\in\mathbb{Z}\,x+y\in\mathbb{Z}._
 - **(of a formula) Lacking a free variable.**
-- **(of a walk) Whose first and last vertices are the same, forming a [[c/_closed|closed]] loop.**
-- **Formed by [[c/_closing|closing]] the mouth and nose passages [[c/_completely|completely]], like the [[c/_consonants|consonants]] /t/, /[[d/_d|d]]/ and /p/.**
-- **Having the sound [[c/_cut|cut]] off sharply by a following [[c/_consonant|consonant]], like the /ɪ/ in pin.**
+- **(of a walk) Whose first and last vertices are the same, forming a closed loop.**
+- **Formed by closing the mouth and nose passages completely, like the consonants /t/, /d/ and /p/.**
+- **Having the sound cut off sharply by a following consonant, like the /ɪ/ in pin.**
 ---
 ### Synonyms
 - [[shut]]

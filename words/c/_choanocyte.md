@@ -1,6 +1,6 @@
 # Choanocyte
 ---
 #noun
-- **[[a/_any|Any]] of the [[c/_cells|cells]] in sponges that [[c/_contain|contain]] a flagellum, and are used to [[c/_control|control]] the movement of water**
+- **Any of the cells in sponges that contain a flagellum, and are used to control the movement of water**
 ---
 ---

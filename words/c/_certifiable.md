@@ -1,11 +1,11 @@
 # Certifiable
 ---
 #noun
-- **A [[c/_crazy|crazy]] person.**
+- **A crazy person.**
 ---
 #adjective
-- **(of a document) That [[c/_can|can]], or that must be [[c/_certified|certified]].**
-- **(of a person) Mentally ill to such an extent that involuntary institutionalization is [[a/_appropriate|appropriate]]; [[c/_crazy|crazy]].**
+- **(of a document) That can, or that must be certified.**
+- **(of a person) Mentally ill to such an extent that involuntary institutionalization is appropriate; crazy.**
 ---
 ### Synonyms
 - [[insane]], [[mad]], [[nuts]]

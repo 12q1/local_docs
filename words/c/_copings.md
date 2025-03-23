@@ -1,8 +1,8 @@
 # Copings
 ---
 #noun
-- **The top layer of a [[b/_brick|brick]] wall, especially one that slopes in order to throw off water.**
-- **The process of managing taxing [[c/_circumstances|circumstances]], expending effort to solve personal and interpersonal problems, and seeking to master, minimize, reduce or tolerate stress or [[c/_conflict|conflict]].**
-- **[[c/_clipping|Clipping]] the [[b/_beak|beak]] or talons of a [[b/_bird|bird]].**
+- **The top layer of a brick wall, especially one that slopes in order to throw off water.**
+- **The process of managing taxing circumstances, expending effort to solve personal and interpersonal problems, and seeking to master, minimize, reduce or tolerate stress or conflict.**
+- **Clipping the beak or talons of a bird.**
 ---
 ---

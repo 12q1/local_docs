@@ -1,15 +1,15 @@
 # Crusty
 ---
 #noun
-- **A tramp or homeless young person with poor [[c/_cleanliness|cleanliness]].**
+- **A tramp or homeless young person with poor cleanliness.**
 - **Dried eye mucus.**
-- **A member of an urban subculture with roots in punk and grebo, [[c/_characterized|characterized]] by [[a/_antiestablishment|antiestablishment]] [[a/_attitudes|attitudes]] and an unkempt [[a/_appearance|appearance]].**
+- **A member of an urban subculture with roots in punk and grebo, characterized by antiestablishment attitudes and an unkempt appearance.**
 ---
 ### Synonyms
-- [[gound]], [[sleep]], [[sleepy dust]]
+- [[gound]], [[sleep]], [[sleepy [[d/_dust|dust]]]]
 #adjective
-- **Having a [[c/_crust|crust]], especially a thick one.**
-- **(of a person or [[b/_behavior|behavior]]) Short-tempered and gruff but, sometimes, with a harmless or [[b/_benign|benign]] inner nature.**
+- **Having a crust, especially a thick one.**
+- **(of a person or behavior) Short-tempered and gruff but, sometimes, with a harmless or benign inner nature.**
 - **Of very low quality.**
 ---
 ### Synonyms

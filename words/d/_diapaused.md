@@ -1,0 +1,6 @@
+# Diapaused
+---
+#adjective
+- **Undergoing diapause**
+---
+---

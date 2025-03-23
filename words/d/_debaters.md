@@ -1,7 +1,7 @@
 # Debaters
 ---
 #noun
-- **One who [[d/_debates|debates]] or participates in a [[d/_debate|debate]]; one who [[a/_argues|argues]].**
+- **One who debates or participates in a debate; one who argues.**
 	- _Example: William is a great debater._
 ---
 ---

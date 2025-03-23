@@ -2,15 +2,15 @@
 ---
 #verb
 - **To surround or hem in.**
-- **(sometimes figurative) To [[a/_attack|attack]] or [[a/_assail|assail]], especially from [[a/_all|all]] sides.**
-- **To [[d/_decorate|decorate]] something with jewels etc.**
+- **(sometimes figurative) To attack or assail, especially from all sides.**
+- **To decorate something with jewels etc.**
 - **Of a ship, to get trapped by ice.**
 ---
 #noun
-- **The [[a/_act|act]] of one who [[b/_besets|besets]] or [[a/_attacks|attacks]].**
+- **The act of one who besets or attacks.**
 ---
 #adjective
-- **[[d/_deeply|Deeply]] rooted; persistent.**
+- **Deeply rooted; persistent.**
 - **Obsessive**
 ---
 ---

@@ -1,7 +1,7 @@
 # Affliction
 ---
 #noun
-- **A state of pain, suffering, distress or [[a/_agony|agony]].**
-- **Something which [[c/_causes|causes]] pain, suffering, distress or [[a/_agony|agony]].**
+- **A state of pain, suffering, distress or agony.**
+- **Something which causes pain, suffering, distress or agony.**
 ---
 ---

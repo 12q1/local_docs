@@ -1,9 +1,9 @@
 # Bevelled
 ---
 #verb
-- **To give a [[c/_canted|canted]] edge to a surface; to [[c/_chamfer|chamfer]].**
+- **To give a canted edge to a surface; to chamfer.**
 ---
 #adjective
-- **Having a [[b/_bevel|bevel]], especially at an edge**
+- **Having a bevel, especially at an edge**
 ---
 ---

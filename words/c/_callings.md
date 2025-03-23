@@ -1,7 +1,7 @@
 # Callings
 ---
 #noun
-- **A strong urge to [[b/_become|become]] religious.**
+- **A strong urge to become religious.**
 - **A job or occupation.**
 ---
 ### Synonyms

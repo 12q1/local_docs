@@ -1,14 +1,14 @@
 # Avoidable
 ---
 #noun
-- **Something that [[c/_can|can]] or should be [[a/_avoided|avoided]].**
+- **Something that can or should be avoided.**
 ---
 #adjective
-- **[[c/_capable|Capable]] of [[b/_being|being]] vacated; liable to be [[a/_annulled|annulled]] or made invalid; voidable.**
-- **[[c/_capable|Capable]] of [[b/_being|being]] [[a/_avoided|avoided]], shunned, or escaped.**
+- **Capable of being vacated; liable to be annulled or made invalid; voidable.**
+- **Capable of being avoided, shunned, or escaped.**
 ---
 ### Synonyms
-- [[evitable]], [[annullable]], [[voidable]]
+- [[evitable]], [[[[a/_annullable|annullable]]]], [[voidable]]
 ### Antonyms
 - [[inavoidable]], [[unavoidable]], [[inevitable]], [[inviolable]], [[unbreachable]], [[unbreakable]]
 ---

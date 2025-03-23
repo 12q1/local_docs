@@ -1,11 +1,11 @@
 # Anticoagulant
 ---
 #noun
-- **A substance that prevents [[c/_coagulation|coagulation]]; that is, it stops [[b/_blood|blood]] from [[c/_clotting|clotting]].**
+- **A substance that prevents coagulation; that is, it stops blood from clotting.**
 ---
 ### Antonyms
-- [[coagulant]]
+- [[[[c/_coagulant|coagulant]]]]
 #adjective
-- **[[a/_acting|Acting]] as an [[a/_anticoagulant|anticoagulant]].**
+- **Acting as an anticoagulant.**
 ---
 ---

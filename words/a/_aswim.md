@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Swimming or immersed (in or with something).**
-- **[[b/_brimming|Brimming]] with liquid.**
+- **Brimming with liquid.**
 	- _Example: eyes aswim with tears_
 ---
 ---

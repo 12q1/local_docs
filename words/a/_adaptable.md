@@ -1,10 +1,10 @@
 # Adaptable
 ---
 #adjective
-- **[[c/_capable|Capable]] of [[a/_adapting|adapting]] or of [[b/_being|being]] [[a/_adapted|adapted]].**
+- **Capable of adapting or of being adapted.**
 ---
 ### Synonyms
-- [[adaptive]]
+- [[[[a/_adaptive|adaptive]]]]
 ### Antonyms
 - [[inadaptable]], [[unadaptable]]
 ---

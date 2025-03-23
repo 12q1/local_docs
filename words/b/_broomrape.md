@@ -1,6 +1,6 @@
 # Broomrape
 ---
 #noun
-- **[[a/_any|Any]] of various plants, of the genus Orobanche, that are parasitic on the roots of other plants.**
+- **Any of various plants, of the genus Orobanche, that are parasitic on the roots of other plants.**
 ---
 ---

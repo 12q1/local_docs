@@ -1,7 +1,7 @@
 # Actuarial
 ---
 #adjective
-- **Of or pertaining to [[a/_actuaries|actuaries]].**
-- **Relating to statistical [[c/_calculation|calculation]], especially pertaining to insurance.**
+- **Of or pertaining to actuaries.**
+- **Relating to statistical calculation, especially pertaining to insurance.**
 ---
 ---

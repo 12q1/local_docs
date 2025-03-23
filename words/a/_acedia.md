@@ -2,9 +2,9 @@
 ---
 #noun
 - **Spiritual or mental sloth.**
-- **[[a/_apathy|Apathy]]; a lack of [[c/_care|care]] or interest; indifference.**
-- **[[b/_boredom|Boredom]].**
+- **Apathy; a lack of care or interest; indifference.**
+- **Boredom.**
 ---
 ### Synonyms
-- [[accedie]], [[ennui]], [[weltschmerz]], [[apathy]], [[indifference]]
+- [[accedie]], [[ennui]], [[weltschmerz]], [[[[a/_apathy|apathy]]]], [[indifference]]
 ---

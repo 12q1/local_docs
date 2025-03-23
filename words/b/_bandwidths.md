@@ -1,10 +1,10 @@
 # Bandwidths
 ---
 #noun
-- **The width, usually measured in hertz, of a frequency [[b/_band|band]].**
-- **Of a signal, the width of the smallest frequency [[b/_band|band]] within which the signal [[c/_can|can]] fit.**
-- **The rate of [[d/_data|data]] flow in digital networks typically measured in [[b/_bits|bits]] per second; the bitrate.**
-- **The [[c/_capacity|capacity]], energy or time required.**
+- **The width, usually measured in hertz, of a frequency band.**
+- **Of a signal, the width of the smallest frequency band within which the signal can fit.**
+- **The rate of data flow in digital networks typically measured in bits per second; the bitrate.**
+- **The capacity, energy or time required.**
 	- _Example: I think it's a worthy project, but I just don't have the bandwidth right now._
 ---
 ---

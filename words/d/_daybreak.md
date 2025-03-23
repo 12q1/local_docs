@@ -1,10 +1,10 @@
 # Daybreak
 ---
 #noun
-- **[[d/_dawn|Dawn]].**
+- **Dawn.**
 ---
 ### Synonyms
-- [[break of dawn]], [[break of day]], [[crack of dawn]], [[sunrise]]
+- [[[[b/_break|break]] of [[d/_dawn|dawn]]]], [[[[b/_break|break]] of [[d/_day|day]]]], [[[[c/_crack|crack]] of [[d/_dawn|dawn]]]], [[sunrise]]
 ### Antonyms
-- [[dusk]], [[nightfall]]
+- [[[[d/_dusk|dusk]]]], [[nightfall]]
 ---

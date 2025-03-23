@@ -1,6 +1,6 @@
 # Astylar
 ---
 #adjective
-- **Lacking [[c/_columns|columns]] or pilasters**
+- **Lacking columns or pilasters**
 ---
 ---

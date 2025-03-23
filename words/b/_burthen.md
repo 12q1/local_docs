@@ -3,22 +3,22 @@
 #noun
 - **A heavy load.**
 - **A responsibility, onus.**
-- **A [[c/_cause|cause]] of worry; that which is grievous, wearisome, or oppressive.**
-- **The [[c/_capacity|capacity]] of a vessel, or the weight of [[c/_cargo|cargo]] that she will [[c/_carry|carry]].**
+- **A cause of worry; that which is grievous, wearisome, or oppressive.**
+- **The capacity of a vessel, or the weight of cargo that she will carry.**
 	- _Example: a ship of a hundred tons burden_
 - **The tops or heads of stream-work which lie over the stream of tin.**
-- **The proportion of ore and flux to fuel, in the [[c/_charge|charge]] of a [[b/_blast|blast]] furnace.**
-- **A fixed quantity of [[c/_certain|certain]] [[c/_commodities|commodities]].**
+- **The proportion of ore and flux to fuel, in the charge of a blast furnace.**
+- **A fixed quantity of certain commodities.**
 	- _Example: A burden of gad steel is 120 pounds._
-- **A [[b/_birth|birth]].**
-- **The total [[a/_amount|amount]] of toxins, parasites, [[c/_cancer|cancer]] [[c/_cells|cells]], plaque or similar present in an organism.**
+- **A birth.**
+- **The total amount of toxins, parasites, cancer cells, plaque or similar present in an organism.**
 ---
 #verb
-- **To encumber with a literal or figurative [[b/_burden|burden]].**
+- **To encumber with a literal or figurative burden.**
 	- _Example: to burden a nation with taxes_
-- **To impose, as a load or [[b/_burden|burden]]; to lay or place as a [[b/_burden|burden]] (something heavy or objectionable).**
+- **To impose, as a load or burden; to lay or place as a burden (something heavy or objectionable).**
 ---
 #noun
-- **The tonnage of a ship [[b/_based|based]] on the number of tuns of wine that it [[c/_could|could]] [[c/_carry|carry]] in its holds.**
+- **The tonnage of a ship based on the number of tuns of wine that it could carry in its holds.**
 ---
 ---

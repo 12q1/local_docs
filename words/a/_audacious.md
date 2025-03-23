@@ -1,11 +1,11 @@
 # Audacious
 ---
 #adjective
-- **Showing willingness to take [[b/_bold|bold]] risks; recklessly [[d/_daring|daring]].**
+- **Showing willingness to take bold risks; recklessly daring.**
 - **Impudent.**
 ---
 ### Synonyms
-- [[bold]], [[daring]], [[temerarious]], [[temeritous]]
+- [[[[b/_bold|bold]]]], [[[[d/_daring|daring]]]], [[temerarious]], [[temeritous]]
 ### Antonyms
-- [[cautious]], [[prudent]], [[shy]]
+- [[[[c/_cautious|cautious]]]], [[prudent]], [[shy]]
 ---

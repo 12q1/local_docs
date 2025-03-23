@@ -12,7 +12,7 @@
 - **(provincial) Lees; dregs.**
 ---
 #verb
-- **To make [[a/_addle|addle]]; to grow [[a/_addle|addle]]; to muddle**
-- **To [[c/_cause|cause]] fertilised eggs to lose viability, by killing the developing embryo within through shaking, piercing, freezing or oiling, without [[b/_breaking|breaking]] the shell.**
+- **To make addle; to grow addle; to muddle**
+- **To cause fertilised eggs to lose viability, by killing the developing embryo within through shaking, piercing, freezing or oiling, without breaking the shell.**
 ---
 ---

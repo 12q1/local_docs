@@ -1,6 +1,6 @@
 # Conciliar
 ---
 #adjective
-- **Pertaining to a [[c/_council|council]], especially an ecclesiastical [[c/_council|council]].**
+- **Pertaining to a council, especially an ecclesiastical council.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Combinatorial
 ---
 #adjective
-- **Of, pertaining to, or involving [[c/_combinations|combinations]]**
-- **Of or pertaining to the [[c/_combination|combination]] and [[a/_arrangement|arrangement]] of elements in sets**
+- **Of, pertaining to, or involving combinations**
+- **Of or pertaining to the combination and arrangement of elements in sets**
 ---
 ---

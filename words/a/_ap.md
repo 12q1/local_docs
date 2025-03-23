@@ -1,7 +1,7 @@
 # Ap
 ---
 #adjective
-- **[[a/_abbreviation|Abbreviation]] of [[a/_apothecaries|apothecaries]]' system.**
+- **Abbreviation of apothecaries' system.**
 	- _Example: ap oz_
 ---
 ---

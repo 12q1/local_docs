@@ -1,6 +1,6 @@
 # Breechcloths
 ---
 #noun
-- **An [[a/_apron|apron]]-like garment held on by a [[b/_belt|belt]] tied [[a/_around|around]] the waist to [[c/_cover|cover]] the loins; a loincloth.**
+- **An apron-like garment held on by a belt tied around the waist to cover the loins; a loincloth.**
 ---
 ---

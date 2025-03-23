@@ -1,8 +1,8 @@
 # Brilliance
 ---
 #noun
-- **The quality of [[b/_being|being]] exceptionally effulgent (giving off light).**
-- **The quality of having extraordinary mental [[c/_capacity|capacity]].**
+- **The quality of being exceptionally effulgent (giving off light).**
+- **The quality of having extraordinary mental capacity.**
 - **Magnificence; resplendence.**
 ---
 ---

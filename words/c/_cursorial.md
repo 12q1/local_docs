@@ -1,10 +1,10 @@
 # Cursorial
 ---
 #noun
-- **Such an [[a/_animal|animal]]**
+- **Such an animal**
 ---
 #adjective
-- **[[a/_adapted|Adapted]] for running.**
+- **Adapted for running.**
 	- _Example: The limbs of the horse are cursorial._
 - **Having legs fitted for running.**
 	- _Example: The ostrich is a cursorial bird._

@@ -1,6 +1,6 @@
 # Buckeen
 ---
 #noun
-- **A poor young man of the lower [[a/_anglo|Anglo]]-Irish gentry who [[a/_aspires|aspires]] to the habits and dress of the wealthy.**
+- **A poor young man of the lower Anglo-Irish gentry who aspires to the habits and dress of the wealthy.**
 ---
 ---

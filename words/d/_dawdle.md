@@ -1,9 +1,9 @@
 # Dawdle
 ---
 #noun
-- **A [[d/_dawdler|dawdler]].**
+- **A dawdler.**
 - **A slow walk, journey.**
-- **An easily [[a/_accomplished|accomplished]] task; a doddle.**
+- **An easily accomplished task; a doddle.**
 ---
 #verb
 - **To spend time idly and unfruitfully, to waste time.**

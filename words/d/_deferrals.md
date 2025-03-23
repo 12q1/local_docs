@@ -1,10 +1,10 @@
 # Deferrals
 ---
 #noun
-- **An [[a/_act|act]] of [[d/_deferring|deferring]], a [[d/_deferment|deferment]].**
-- **An [[a/_accrual|accrual]].**
+- **An act of deferring, a deferment.**
+- **An accrual.**
 - **A prepayment.**
 ---
 ### Synonyms
-- [[deferment]]
+- [[[[d/_deferment|deferment]]]]
 ---

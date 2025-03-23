@@ -1,7 +1,7 @@
 # Bittier
 ---
 #adjective
-- **[[c/_containing|Containing]] [[b/_bits|bits]]; fragmented.**
+- **Containing bits; fragmented.**
 - **Very small.**
 ---
 ---

@@ -1,16 +1,16 @@
 # Desolate
 ---
 #verb
-- **To [[d/_deprive|deprive]] of inhabitants.**
+- **To deprive of inhabitants.**
 - **To devastate or lay waste somewhere.**
-- **To [[a/_abandon|abandon]] or forsake something.**
+- **To abandon or forsake something.**
 - **To make someone sad, forlorn and hopeless.**
 ---
 #adjective
-- **[[d/_deserted|Deserted]] and devoid of inhabitants.**
+- **Deserted and devoid of inhabitants.**
 	- _Example: a desolate isle; a desolate wilderness; a desolate house_
-- **[[b/_barren|Barren]] and lifeless.**
-- **Made unfit for habitation or use [[b/_because|because]] of neglect, [[d/_destruction|destruction]] etc.**
+- **Barren and lifeless.**
+- **Made unfit for habitation or use because of neglect, destruction etc.**
 	- _Example: desolate altars_
 - **Dismal or dreary.**
 - **Sad, forlorn and hopeless.**

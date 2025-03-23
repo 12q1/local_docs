@@ -1,17 +1,17 @@
 # Darn
 ---
 #verb
-- **Euphemism of [[d/_damn|damn]].**
+- **Euphemism of damn.**
 ---
 ### Synonyms
-- [[damn]], [[dang]]
+- [[[[d/_damn|damn]]]], [[[[d/_dang|dang]]]]
 #adjective
-- **[[d/_damn|Damn]].**
+- **Damn.**
 ---
 #adverb
-- **([[d/_degree|degree]]) [[d/_damned|Damned]].**
+- **(degree) Damned.**
 ---
 #interjection
-- **[[d/_damn|Damn]].**
+- **Damn.**
 ---
 ---

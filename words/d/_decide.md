@@ -1,13 +1,13 @@
 # Decide
 ---
 #verb
-- **To resolve (a [[c/_contest|contest]], problem, dispute, etc.); to [[c/_choose|choose]], [[d/_determine|determine]], or settle**
+- **To resolve (a contest, problem, dispute, etc.); to choose, determine, or settle**
 	- _Example: Her last-minute goal decided the game._
-- **To make a judgment, especially [[a/_after|after]] [[d/_deliberation|deliberation]]**
+- **To make a judgment, especially after deliberation**
 	- _Example: I have decided that it is healthier to walk to work._
-- **To [[c/_cause|cause]] someone to [[c/_come|come]] to a [[d/_decision|decision]]**
-- **To [[c/_cut|cut]] off; to separate**
+- **To cause someone to come to a decision**
+- **To cut off; to separate**
 ---
 ### Synonyms
-- [[choose]], [[determine]], [[make up one's mind]], [[pick]]
+- [[[[c/_choose|choose]]]], [[[[d/_determine|determine]]]], [[make up one's mind]], [[pick]]
 ---

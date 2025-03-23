@@ -1,10 +1,10 @@
 # Arbitrated
 ---
 #verb
-- **To make a judgment (on a dispute) as an [[a/_arbitrator|arbitrator]] or [[a/_arbiter|arbiter]]**
+- **To make a judgment (on a dispute) as an arbitrator or arbiter**
 	- _Example: to arbitrate a disputed case_
 - **To submit (a dispute) to such judgment**
-- **To [[a/_assign|assign]] an [[a/_arbitrary|arbitrary]] value to, or otherwise [[d/_determine|determine]] [[a/_arbitrarily|arbitrarily]].**
+- **To assign an arbitrary value to, or otherwise determine arbitrarily.**
 	- _Example: We wish to show f is continuous. Arbitrate epsilon greater than zero..._
 ---
 ---

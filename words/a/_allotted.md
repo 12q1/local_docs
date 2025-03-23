@@ -1,7 +1,7 @@
 # Allotted
 ---
 #verb
-- **To distribute or [[a/_apportion|apportion]] by (or as if by) lot.**
-- **To [[a/_assign|assign]] or [[d/_designate|designate]] as a task or for a purpose.**
+- **To distribute or apportion by (or as if by) lot.**
+- **To assign or designate as a task or for a purpose.**
 ---
 ---

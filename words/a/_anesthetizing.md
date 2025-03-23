@@ -1,7 +1,7 @@
 # Anesthetizing
 ---
 #verb
-- **To [[a/_administer|administer]] [[a/_anesthesia|anesthesia]] to: to render unfeeling or unconscious through the use of narcotic substances, usually either [[a/_alcohol|alcohol]] or pharmaceutical drugs.**
+- **To administer anesthesia to: to render unfeeling or unconscious through the use of narcotic substances, usually either alcohol or pharmaceutical drugs.**
 	- _Example: Just prior to surgery the doctor will anesthetize him and he will sleep for four hours._
 ---
 ---

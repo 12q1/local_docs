@@ -9,12 +9,12 @@
 	- _Example: 1996, Beruga (line translated by Dan Owsen), Terranigma. Nintendo of America._
 ---
 ### Synonyms
-- [[sex up]], [[turn on]], [[animate]], [[energize]], [[inspire]], [[rouse]], [[wake up]]
+- [[sex up]], [[turn on]], [[[[a/_animate|animate]]]], [[energize]], [[inspire]], [[rouse]], [[wake up]]
 #noun
-- **An [[a/_act|act]] or occurrence in which something is [[a/_aroused|aroused]]**
+- **An act or occurrence in which something is aroused**
 ---
 #adjective
-- **[[c/_causing|Causing]] [[a/_arousal|arousal]].**
+- **Causing arousal.**
 	- _Example: I am having very arousing thoughts._
 ---
 ---

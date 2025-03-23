@@ -1,12 +1,12 @@
 # Anvils
 ---
 #noun
-- **A heavy iron [[b/_block|block]] used in the [[b/_blacksmithing|blacksmithing]] trade as a surface upon which metal [[c/_can|can]] be struck and shaped.**
-- **An incus [[b/_bone|bone]] in the middle ear.**
-- **A stone or other hard surface used by a [[b/_bird|bird]] for [[b/_breaking|breaking]] the shells of snails.**
-- **The non-moving surface of a micrometer [[a/_against|against]] which the item to be measured is placed.**
+- **A heavy iron block used in the blacksmithing trade as a surface upon which metal can be struck and shaped.**
+- **An incus bone in the middle ear.**
+- **A stone or other hard surface used by a bird for breaking the shells of snails.**
+- **The non-moving surface of a micrometer against which the item to be measured is placed.**
 ---
 #verb
-- **To fashion on an [[a/_anvil|anvil]] (often used figuratively).**
+- **To fashion on an anvil (often used figuratively).**
 ---
 ---

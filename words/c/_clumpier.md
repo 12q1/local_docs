@@ -1,8 +1,8 @@
 # Clumpier
 ---
 #adjective
-- **Forming or tending to form [[c/_clumps|clumps]].**
-- **Resembling a [[c/_clump|clump]].**
+- **Forming or tending to form clumps.**
+- **Resembling a clump.**
 - **Clompy; with heavy footfalls.**
 ---
 ---

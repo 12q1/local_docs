@@ -1,6 +1,6 @@
 # Childishly
 ---
 #adverb
-- **In a [[c/_childish|childish]] manner.**
+- **In a childish manner.**
 ---
 ---

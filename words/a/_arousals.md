@@ -1,14 +1,14 @@
 # Arousals
 ---
 #noun
-- **The [[a/_act|act]] of [[a/_arousing|arousing]] or the state of [[b/_being|being]] [[a/_aroused|aroused]].**
+- **The act of arousing or the state of being aroused.**
 	- _Example: bodily arousal_
-- **Sexual [[a/_arousal|arousal]].**
+- **Sexual arousal.**
 	- _Example: Some people get sexual arousal from the depiction of feet._
-- **A physiological and psychological state of [[b/_being|being]] [[a/_awake|awake]] or reactive to stimuli, including elevated heart rate and [[b/_blood|blood]] pressure and a [[c/_condition|condition]] of sensory [[a/_alertness|alertness]], mobility and readiness to respond.**
-- **[[a/_arousal|Arousal]] from sleep or hibernation.**
+- **A physiological and psychological state of being awake or reactive to stimuli, including elevated heart rate and blood pressure and a condition of sensory alertness, mobility and readiness to respond.**
+- **Arousal from sleep or hibernation.**
 	- _Example: the animal undergoes regular spells of arousal_
 ---
 ### Synonyms
-- [[wakefulness]], [[horniness]], [[alertness]]
+- [[wakefulness]], [[horniness]], [[[[a/_alertness|alertness]]]]
 ---

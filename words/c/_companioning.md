@@ -1,7 +1,7 @@
 # Companioning
 ---
 #verb
-- **To be a [[c/_companion|companion]] to; to [[a/_attend|attend]] on; to [[a/_accompany|accompany]].**
-- **To qualify as a [[c/_companion|companion]]; to make equal.**
+- **To be a companion to; to attend on; to accompany.**
+- **To qualify as a companion; to make equal.**
 ---
 ---

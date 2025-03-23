@@ -1,6 +1,6 @@
 # Curtailments
 ---
 #noun
-- **The [[a/_act|act]] of [[c/_curtailing|curtailing]]**
+- **The act of curtailing**
 ---
 ---

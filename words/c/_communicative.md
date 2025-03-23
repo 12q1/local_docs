@@ -1,6 +1,6 @@
 # Communicative
 ---
 #adjective
-- **Eager to [[c/_communicate|communicate]]; talkative.**
+- **Eager to communicate; talkative.**
 ---
 ---

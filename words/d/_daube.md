@@ -1,6 +1,6 @@
 # Daube
 ---
 #noun
-- **A stew of [[b/_braised|braised]] meat, usually [[b/_beef|beef]].**
+- **A stew of braised meat, usually beef.**
 ---
 ---

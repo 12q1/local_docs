@@ -1,7 +1,7 @@
 # Competitiveness
 ---
 #noun
-- **The state of [[b/_being|being]] [[c/_competitive|competitive]].**
+- **The state of being competitive.**
 ---
 ### Synonyms
 - [[competitivity]]

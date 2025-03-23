@@ -1,13 +1,13 @@
 # Cloverleaf
 ---
 #noun
-- **(with plural [[c/_cloverleaves|cloverleaves]]) The leaf of a [[c/_clover|clover]] plant**
-- **(with plural [[c/_cloverleafs|cloverleafs]] or [[c/_cloverleaves|cloverleaves]]) A [[c/_cloverleaf|cloverleaf]] interchange.**
+- **(with plural cloverleaves) The leaf of a clover plant**
+- **(with plural cloverleafs or cloverleaves) A cloverleaf interchange.**
 ---
 #verb
-- **To turn by following a [[c/_cloverleaf|cloverleaf]], or as if by following one.**
+- **To turn by following a cloverleaf, or as if by following one.**
 ---
 #adjective
-- **In the form of the leaf of a [[c/_clover|clover]] plant; cloverleafed.**
+- **In the form of the leaf of a clover plant; cloverleafed.**
 ---
 ---

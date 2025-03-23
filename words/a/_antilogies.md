@@ -1,6 +1,6 @@
 # Antilogies
 ---
 #noun
-- **A [[c/_contradiction|contradiction]] in related terms or ideas. Usually an inconsistency in syllogisms, of a person or group supposedly of one set of ideals.**
+- **A contradiction in related terms or ideas. Usually an inconsistency in syllogisms, of a person or group supposedly of one set of ideals.**
 ---
 ---

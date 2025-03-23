@@ -1,13 +1,13 @@
 # Centrifugal
 ---
 #noun
-- **A rotating machine used to separate massecuite into sugar [[c/_crystals|crystals]] and molasses.**
+- **A rotating machine used to separate massecuite into sugar crystals and molasses.**
 ---
 #adjective
-- **Tending, or [[c/_causing|causing]], to recede from the [[c/_center|center]].**
-- **Expanding first at the summit, and later at the [[b/_base|base]], as a flower [[c/_cluster|cluster]].**
+- **Tending, or causing, to recede from the center.**
+- **Expanding first at the summit, and later at the base, as a flower cluster.**
 - **Having the radicle turned toward the sides of the fruit, as some embryos.**
 ---
 ### Antonyms
-- [[centripetal]]
+- [[[[c/_centripetal|centripetal]]]]
 ---

@@ -1,6 +1,6 @@
 # Cubiform
 ---
 #adjective
-- **Having the shape of a [[c/_cube|cube]]**
+- **Having the shape of a cube**
 ---
 ---

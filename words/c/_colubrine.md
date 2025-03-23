@@ -1,7 +1,7 @@
 # Colubrine
 ---
 #noun
-- **[[a/_any|Any]] snake of the subfamily [[c/_colubrinae|Colubrinae]]**
+- **Any snake of the subfamily Colubrinae**
 ---
 #adjective
 - **Snake-like.**

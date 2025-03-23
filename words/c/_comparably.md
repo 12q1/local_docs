@@ -1,6 +1,6 @@
 # Comparably
 ---
 #adverb
-- **In a [[c/_comparable|comparable]] manner.**
+- **In a comparable manner.**
 ---
 ---

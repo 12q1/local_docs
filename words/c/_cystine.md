@@ -1,8 +1,8 @@
 # Cystine
 ---
 #noun
-- **A nonessential [[a/_amino|amino]] [[a/_acid|acid]] formed by the oxidation of [[c/_cysteine|cysteine]]; it [[c/_contains|contains]] two [[c/_cysteine|cysteine]] residues linked by a disulfide [[b/_bond|bond]].**
+- **A nonessential amino acid formed by the oxidation of cysteine; it contains two cysteine residues linked by a disulfide bond.**
 ---
 ### Synonyms
-- [[E921]], [[improving agent]]
+- [[E921]], [[improving [[a/_agent|agent]]]]
 ---

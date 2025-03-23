@@ -1,10 +1,10 @@
 # Decaffeinated
 ---
 #adjective
-- **From which [[c/_caffeine|caffeine]] has [[b/_been|been]] removed (e.g. [[d/_decaffeinated|decaffeinated]] [[c/_coffee|coffee]]).**
+- **From which caffeine has been removed (e.g. decaffeinated coffee).**
 ---
 ### Synonyms
-- [[caffeine-free]], [[decaf]], [[unleaded]]
+- [[[[c/_caffeine|caffeine]]-free]], [[decaf]], [[unleaded]]
 ### Antonyms
 - [[caffeinated]]
 ---

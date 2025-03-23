@@ -1,7 +1,7 @@
 # Commingled
 ---
 #verb
-- **To mix, to [[b/_blend|blend]].**
-- **To [[b/_become|become]] mixed or [[b/_blended|blended]].**
+- **To mix, to blend.**
+- **To become mixed or blended.**
 ---
 ---

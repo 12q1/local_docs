@@ -1,11 +1,11 @@
 # Antagonizes
 ---
 #verb
-- **To work [[a/_against|against]]; to oppose (especially to incite reaction)**
+- **To work against; to oppose (especially to incite reaction)**
 	- _Example: The other children constantly antagonized Joe to the point of tears._
 ---
 ### Synonyms
 - [[harass]], [[oppose]], [[pester]]
 ### Antonyms
-- [[appease]], [[quell]]
+- [[[[a/_appease|appease]]]], [[quell]]
 ---

@@ -1,12 +1,12 @@
 # Bodkins
 ---
 #noun
-- **A small sharp pointed tool for making holes in [[c/_cloth|cloth]] or leather.**
-- **A [[b/_blunt|blunt]] needle used for threading ribbon or [[c/_cord|cord]] through a hem or [[c/_casing|casing]].**
+- **A small sharp pointed tool for making holes in cloth or leather.**
+- **A blunt needle used for threading ribbon or cord through a hem or casing.**
 - **A hairpin.**
-- **A [[d/_dagger|dagger]].**
-- **A type of long thin [[a/_arrowhead|arrowhead]].**
-- **A sharp tool, like an [[a/_awl|awl]], formerly used for pressing down individual type [[c/_characters|characters]] letters from a [[c/_column|column]] or page in making [[c/_corrections|corrections]].**
-- **A multifunctional tool for pinning [[c/_cloaks|cloaks]] at the nape of the neck used [[a/_also|also]] as a [[d/_decorative|decorative]] hairpin or as a sewing instrument.**
+- **A dagger.**
+- **A type of long thin arrowhead.**
+- **A sharp tool, like an awl, formerly used for pressing down individual type characters letters from a column or page in making corrections.**
+- **A multifunctional tool for pinning cloaks at the nape of the neck used also as a decorative hairpin or as a sewing instrument.**
 ---
 ---

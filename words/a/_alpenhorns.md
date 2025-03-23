@@ -1,8 +1,8 @@
 # Alpenhorns
 ---
 #noun
-- **A long, [[c/_curved|curved]], wooden horn used by mountain-dwelling herders in the [[a/_alps|Alps]], originally to [[c/_call|call]] [[c/_cattle|cattle]] but now only as musical instrument in [[c/_classical|classical]] and folk tunes.**
+- **A long, curved, wooden horn used by mountain-dwelling herders in the Alps, originally to call cattle but now only as musical instrument in classical and folk tunes.**
 ---
 ### Synonyms
-- [[Alpine horn]]
+- [[[[a/_alpine|Alpine]] horn]]
 ---

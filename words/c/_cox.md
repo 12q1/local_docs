@@ -1,10 +1,10 @@
 # Cox
 ---
 #noun
-- **A [[c/_coxswain|coxswain]] of a [[b/_boat|boat]], especially of a racing [[c/_crew|crew]].**
+- **A coxswain of a boat, especially of a racing crew.**
 ---
 #verb
-- **To [[a/_act|act]] as [[c/_coxswain|coxswain]] for.**
+- **To act as coxswain for.**
 	- _Example: I coxed the lightweight 4+ yesterday._
 ---
 ---

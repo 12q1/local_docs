@@ -1,9 +1,9 @@
 # Deforestation
 ---
 #noun
-- **The process of [[d/_destroying|destroying]] a forest and replacing it with something else, especially with an [[a/_agricultural|agricultural]] system.**
-- **A transformation to eliminate intermediate [[d/_data|data]] structures within a program.**
+- **The process of destroying a forest and replacing it with something else, especially with an agricultural system.**
+- **A transformation to eliminate intermediate data structures within a program.**
 ---
 ### Antonyms
-- [[afforestation]], [[reforestation]]
+- [[[[a/_afforestation|afforestation]]]], [[reforestation]]
 ---

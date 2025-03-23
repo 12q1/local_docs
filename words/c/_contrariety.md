@@ -1,6 +1,6 @@
 # Contrariety
 ---
 #noun
-- **Opposition or [[c/_contrariness|contrariness]]; [[c/_cross|cross]]-purposes, marked [[c/_contrast|contrast]].**
+- **Opposition or contrariness; cross-purposes, marked contrast.**
 ---
 ---

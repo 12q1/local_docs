@@ -1,21 +1,21 @@
 # Deliberate
 ---
 #verb
-- **To [[c/_consider|consider]] [[c/_carefully|carefully]]; to weigh well in the mind.**
+- **To consider carefully; to weigh well in the mind.**
 	- _Example: It is now time for the jury to deliberate the guilt of the defendant._
-- **To [[c/_consider|consider]] the reasons for and [[a/_against|against]] [[a/_anything|anything]]; to reflect.**
+- **To consider the reasons for and against anything; to reflect.**
 ---
 #adjective
 - **Done on purpose; intentional.**
 	- _Example: Tripping me was deliberate action._
-- **Of a person, weighing facts and [[a/_arguments|arguments]] with a view to a [[c/_choice|choice]] or [[d/_decision|decision]]; [[c/_carefully|carefully]] [[c/_considering|considering]] the probable [[c/_consequences|consequences]] of a step; slow in [[d/_determining|determining]].**
+- **Of a person, weighing facts and arguments with a view to a choice or decision; carefully considering the probable consequences of a step; slow in determining.**
 	- _Example: The jury took eight hours to come to its deliberate verdict._
-- **Formed with [[d/_deliberation|deliberation]]; [[c/_carefully|carefully]] [[c/_considered|considered]]; not sudden or rash.**
+- **Formed with deliberation; carefully considered; not sudden or rash.**
 	- _Example: a deliberate opinion; a deliberate measure or result_
 - **Not hasty or sudden; slow.**
 ---
 ### Synonyms
-- [[careful]], [[cautious]], [[well-advised]], [[circumspect]], [[thoughtful]], [[purposeful]], [[volitional]]
+- [[[[c/_careful|careful]]]], [[[[c/_cautious|cautious]]]], [[well-[[a/_advised|advised]]]], [[[[c/_circumspect|circumspect]]]], [[thoughtful]], [[purposeful]], [[volitional]]
 ### Antonyms
 - [[unintentional]], [[unwitting]]
 ---

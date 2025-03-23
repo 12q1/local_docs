@@ -1,16 +1,16 @@
 # Breaker
 ---
 #noun
-- **Something that [[b/_breaks|breaks]].**
-- **A machine for [[b/_breaking|breaking]] rocks, or for [[b/_breaking|breaking]] [[c/_coal|coal]] at the mines**
-- **The [[b/_building|building]] in which such a machine is placed.**
-- **A person who specializes in [[b/_breaking|breaking]] things.**
-- **([[c/_chiefly|chiefly]] in the plural) A wave [[b/_breaking|breaking]] into foam [[a/_against|against]] the shore, or [[a/_against|against]] a sandbank, or a rock or reef near the surface, [[c/_considered|considered]] a useful warning to ships of an underwater hazard**
+- **Something that breaks.**
+- **A machine for breaking rocks, or for breaking coal at the mines**
+- **The building in which such a machine is placed.**
+- **A person who specializes in breaking things.**
+- **(chiefly in the plural) A wave breaking into foam against the shore, or against a sandbank, or a rock or reef near the surface, considered a useful warning to ships of an underwater hazard**
 - **A breakdancer.**
-- **A user of [[c/_cb|CB]] radio.**
+- **A user of CB radio.**
 ---
 ### Synonyms
-- [[B-boy]], [[B-girl]], [[breakdancer]], [[destroyer]], [[wrecker]]
+- [[[[b/_b|B]]-[[b/_boy|boy]]]], [[[[b/_b|B]]-girl]], [[breakdancer]], [[[[d/_destroyer|destroyer]]]], [[wrecker]]
 #noun
 - **One who works in shipbreaking.**
 ---

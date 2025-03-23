@@ -1,6 +1,6 @@
 # Bolivianos
 ---
 #noun
-- **The unit of [[c/_currency|currency]] in [[b/_bolivia|Bolivia]], divided into 100 [[c/_centavos|centavos]]**
+- **The unit of currency in Bolivia, divided into 100 centavos**
 ---
 ---

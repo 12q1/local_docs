@@ -1,7 +1,7 @@
 # Bemas
 ---
 #noun
-- **A platform from which speakers [[a/_addressed|addressed]] an [[a/_assembly|assembly]].**
-- **Raised [[a/_area|area]] of worship in a synagogue upon which rests the Holy [[a/_ark|Ark]] [[c/_containing|containing]] Scrolls of Torah.**
+- **A platform from which speakers addressed an assembly.**
+- **Raised area of worship in a synagogue upon which rests the Holy Ark containing Scrolls of Torah.**
 ---
 ---

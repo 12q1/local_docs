@@ -1,14 +1,14 @@
 # Clarion
 ---
 #noun
-- **A medieval [[b/_brass|brass]] instrument, related to the trumpet, or its sound.**
+- **A medieval brass instrument, related to the trumpet, or its sound.**
 	- _Example: The clarion's call to action has been heard._
 - **A different type of musical instrument resembling an organ.**
 ---
 ### Synonyms
-- [[claro]]
+- [[[[c/_claro|claro]]]]
 #verb
-- **To sound a [[c/_clarion|clarion]] (trumpet-like instrument).**
+- **To sound a clarion (trumpet-like instrument).**
 - **To make a similar sound to the instrument.**
 ---
 ---

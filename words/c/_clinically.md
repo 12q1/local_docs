@@ -1,10 +1,10 @@
 # Clinically
 ---
 #adverb
-- **In a [[c/_clinical|clinical]] manner; dispassionately or [[a/_analytically|analytically]].**
-- **In the setting of a medical [[c/_clinic|clinic]]; in a [[c/_clinical|clinical]] setting.**
+- **In a clinical manner; dispassionately or analytically.**
+- **In the setting of a medical clinic; in a clinical setting.**
 	- _Example: Clinically, some signs of disease are less apparent than they would be in the normal home or work environment._
-- **At a person's [[b/_bedside|bedside]].**
+- **At a person's bedside.**
 	- _Example: a person baptised clinically_
 ---
 ---

@@ -1,14 +1,14 @@
 # Dawning
 ---
 #verb
-- **To [[b/_begin|begin]] to [[b/_brighten|brighten]] with [[d/_daylight|daylight]].**
+- **To begin to brighten with daylight.**
 	- _Example: A new day dawns._
-- **To start to [[a/_appear|appear]] or be realized.**
+- **To start to appear or be realized.**
 	- _Example: I don’t want to be there when the truth dawns on him._
-- **To [[b/_begin|begin]] to give promise; to [[b/_begin|begin]] to [[a/_appear|appear]] or to expand.**
+- **To begin to give promise; to begin to appear or to expand.**
 ---
 #noun
-- **[[d/_dawn|Dawn]].**
-- **The first [[b/_beginnings|beginnings]] of something.**
+- **Dawn.**
+- **The first beginnings of something.**
 ---
 ---

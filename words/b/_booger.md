@@ -6,5 +6,5 @@
 - **A thing; especially a problematic or difficult thing.**
 ---
 ### Synonyms
-- [[bogey]], [[bogie]], [[snot]], [[bugger]]
+- [[[[b/_bogey|bogey]]]], [[[[b/_bogie|bogie]]]], [[snot]], [[[[b/_bugger|bugger]]]]
 ---

@@ -1,6 +1,6 @@
 # Canoed
 ---
 #verb
-- **To ride or paddle a [[c/_canoe|canoe]].**
+- **To ride or paddle a canoe.**
 ---
 ---

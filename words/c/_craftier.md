@@ -1,10 +1,10 @@
 # Craftier
 ---
 #adjective
-- **Relating to, or [[c/_characterized|characterized]] by, [[c/_craft|craft]] or skill; dexterous.**
+- **Relating to, or characterized by, craft or skill; dexterous.**
 - **Possessing dexterity; skilled; skillful.**
-- **Skillful at [[d/_deceiving|deceiving]] others; [[c/_characterized|characterized]] by [[c/_craft|craft]]**
+- **Skillful at deceiving others; characterized by craft**
 ---
 ### Synonyms
-- [[cunning]], [[wily]]
+- [[[[c/_cunning|cunning]]]], [[wily]]
 ---

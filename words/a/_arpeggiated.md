@@ -1,7 +1,7 @@
 # Arpeggiated
 ---
 #verb
-- **To play (a [[c/_chord|chord]]) as an [[a/_arpeggio|arpeggio]].**
-- **(of the notes of a [[c/_chord|chord]]) To represent separately on a score.**
+- **To play (a chord) as an arpeggio.**
+- **(of the notes of a chord) To represent separately on a score.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Cosigned
 ---
 #verb
-- **To sign a document jointly with [[a/_another|another]] person, sometimes as an endorsement.**
-- **To [[a/_agree|agree]] with or endorse**
+- **To sign a document jointly with another person, sometimes as an endorsement.**
+- **To agree with or endorse**
 ---
 ---

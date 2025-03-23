@@ -1,19 +1,19 @@
 # Caught
 ---
 #verb
-- **(heading) To [[c/_capture|capture]], overtake.**
+- **(heading) To capture, overtake.**
 - **(heading) To seize hold of.**
 - **(heading) To intercept.**
-- **(heading) To receive (by [[b/_being|being]] in the way).**
+- **(heading) To receive (by being in the way).**
 - **(heading) To take in with one's senses or intellect.**
-- **(heading) To seize [[a/_attention|attention]], interest.**
+- **(heading) To seize attention, interest.**
 - **(heading) To obtain or experience**
 ---
 ### Synonyms
-- [[get]], [[take]], [[capture]], [[hook]], [[snare]], [[take]], [[fang]], [[grab]], [[snatch]]
+- [[get]], [[take]], [[[[c/_capture|capture]]]], [[hook]], [[snare]], [[take]], [[fang]], [[grab]], [[snatch]]
 ### Antonyms
-- [[drop]], [[release]]
+- [[[[d/_drop|drop]]]], [[release]]
 #adjective
-- **Of the method of [[b/_being|being]] out in which the striker hits the [[b/_ball|ball]] and a fielder [[c/_catches|catches]] it.**
+- **Of the method of being out in which the striker hits the ball and a fielder catches it.**
 ---
 ---

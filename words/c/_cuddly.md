@@ -1,9 +1,9 @@
 # Cuddly
 ---
 #adjective
-- **Suitable for [[c/_cuddling|cuddling]]; [[d/_designed|designed]] to be [[c/_cuddled|cuddled]].**
-- **Fond of, or prone to [[c/_cuddling|cuddling]]**
+- **Suitable for cuddling; designed to be cuddled.**
+- **Fond of, or prone to cuddling**
 ---
 ### Synonyms
-- [[cuddlesome]]
+- [[[[c/_cuddlesome|cuddlesome]]]]
 ---

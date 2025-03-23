@@ -1,65 +1,65 @@
 # Bogs
 ---
 #noun
-- **An [[a/_area|area]] of [[d/_decayed|decayed]] vegetation (particularly sphagnum moss) which forms a wet spongy ground too soft for walking; a marsh or swamp.**
-- **[[c/_confusion|Confusion]], difficulty, or [[a/_any|any]] other thing or place that impedes progress in the manner of such [[a/_areas|areas]].**
-- **The [[a/_acidic|acidic]] soil of such [[a/_areas|areas]], principally [[c/_composed|composed]] of peat; marshland, swampland.**
-- **A place to [[d/_defecate|defecate]]: originally specifically a latrine or outhouse but now used for [[a/_any|any]] toilet.**
-- **An [[a/_act|act]] or instance of [[d/_defecation|defecation]].**
-- **A little elevated spot or [[c/_clump|clump]] of earth, roots, and grass, in a marsh or swamp.**
+- **An area of decayed vegetation (particularly sphagnum moss) which forms a wet spongy ground too soft for walking; a marsh or swamp.**
+- **Confusion, difficulty, or any other thing or place that impedes progress in the manner of such areas.**
+- **The acidic soil of such areas, principally composed of peat; marshland, swampland.**
+- **A place to defecate: originally specifically a latrine or outhouse but now used for any toilet.**
+- **An act or instance of defecation.**
+- **A little elevated spot or clump of earth, roots, and grass, in a marsh or swamp.**
 ---
 ### Synonyms
-- [[mire]], [[quagmire]], [[bogland]], [[bogmire]], [[fen]], [[marsh]], [[marshland]], [[mire]], [[morass]], [[moss]], [[muskeg]], [[pakihi]], [[peat bog]], [[quagmire]], [[slough]], [[swamp]], [[swampland]], [[wetlands]]
+- [[mire]], [[quagmire]], [[[[b/_bogland|bogland]]]], [[[[b/_bogmire|bogmire]]]], [[fen]], [[marsh]], [[marshland]], [[mire]], [[morass]], [[moss]], [[muskeg]], [[pakihi]], [[peat [[b/_bog|bog]]]], [[quagmire]], [[slough]], [[swamp]], [[swampland]], [[wetlands]]
 #verb
-- **(now often with "down") To sink or submerge someone or something into [[b/_bogland|bogland]].**
+- **(now often with "down") To sink or submerge someone or something into bogland.**
 - **To prevent or slow someone or something from making progress.**
-- **(now often with "down") To sink and stick in [[b/_bogland|bogland]].**
-- **To be prevented or impeded from making progress, to [[b/_become|become]] stuck.**
-- **(originally vulgar [[b/_britain|Britain]]) To [[d/_defecate|defecate]], to void one's [[b/_bowels|bowels]].**
-- **(originally vulgar [[b/_britain|Britain]]) To [[c/_cover|cover]] or spray with excrement.**
+- **(now often with "down") To sink and stick in bogland.**
+- **To be prevented or impeded from making progress, to become stuck.**
+- **(originally vulgar Britain) To defecate, to void one's bowels.**
+- **(originally vulgar Britain) To cover or spray with excrement.**
 - **To make a mess of something.**
 ---
 #noun
-- **Puffery, [[b/_boastfulness|boastfulness]].**
+- **Puffery, boastfulness.**
 ---
 #verb
-- **To provoke, to [[b/_bug|bug]].**
+- **To provoke, to bug.**
 ---
 #verb
-- **(usually with "off") To go [[a/_away|away]].**
+- **(usually with "off") To go away.**
 ---
 #noun
-- **An insect of the order Hemiptera (the “true [[b/_bugs|bugs]]”).**
-- **[[a/_any|Any]] of various species of marine or freshwater [[c/_crustaceans|crustaceans]]; e.g. a Morton [[b/_bay|Bay]] [[b/_bug|bug]], mudbug.**
-- **[[a/_any|Any]] insect, [[a/_arachnid|arachnid]], or other terrestrial [[a/_arthropod|arthropod]] that is a pest.**
+- **An insect of the order Hemiptera (the “true bugs”).**
+- **Any of various species of marine or freshwater crustaceans; e.g. a Morton Bay bug, mudbug.**
+- **Any insect, arachnid, or other terrestrial arthropod that is a pest.**
 	- _Example: These flies are a bother. I’ll get some bug spray and kill them._
-- **[[a/_any|Any]] insect, [[a/_arachnid|arachnid]], myriapod or entognath.**
-- **([[c/_chiefly|chiefly]] [[c/_computing|computing]] and engineering jargon) A problem that needs fixing.**
+- **Any insect, arachnid, myriapod or entognath.**
+- **(chiefly computing and engineering jargon) A problem that needs fixing.**
 	- _Example: The software bug led the computer to calculate 2 plus 2 as 3._
-- **A [[c/_contagious|contagious]] illness; a [[b/_bacterium|bacterium]] or virus [[c/_causing|causing]] it**
+- **A contagious illness; a bacterium or virus causing it**
 	- _Example: He’s got the flu bug._
 - **An enthusiasm for something; an obsession**
 	- _Example: I caught the skiing bug while staying in the Alps._
 - **A keen enthusiast or hobbyist.**
-- **A [[c/_concealed|concealed]] electronic eavesdropping or intercept device**
+- **A concealed electronic eavesdropping or intercept device**
 	- _Example: We installed a bug in her telephone._
 - **A small and usually invisible file (traditionally a single-pixel image) on a World Wide Web page, primarily used to track users.**
 	- _Example: He suspected the image was a Web bug used for determining who was visiting the site._
-- **A small, usually transparent or translucent image placed in a [[c/_corner|corner]] of a television program to indicate what network or [[c/_cable|cable]] [[c/_channel|channel]] is televising it**
+- **A small, usually transparent or translucent image placed in a corner of a television program to indicate what network or cable channel is televising it**
 	- _Example: Channel 4's bug distracted Jim from his favorite show._
 - **A manually positioned marker in flight instruments.**
-- **A semi-[[a/_automated|automated]] telegraph key.**
-- **Hobgoblin, scarecrow; [[a/_anything|anything]] that terrifies.**
-- **("the [[b/_bug|bug]]") HIV.**
-- **A limited form of wild [[c/_card|card]] in some variants of poker.**
+- **A semi-automated telegraph key.**
+- **Hobgoblin, scarecrow; anything that terrifies.**
+- **("the bug") HIV.**
+- **A limited form of wild card in some variants of poker.**
 - **A trilobite.**
-- **A young [[a/_apprentice|apprentice]] jockey.**
+- **A young apprentice jockey.**
 ---
 ### Synonyms
-- [[bog]], [[bogey]], [[boggard]], [[boggle]], [[bogle]], [[bugbear]], [[defect]], [[glitch]]
+- [[[[b/_bog|bog]]]], [[[[b/_bogey|bogey]]]], [[[[b/_boggard|boggard]]]], [[[[b/_boggle|boggle]]]], [[[[b/_bogle|bogle]]]], [[[[b/_bugbear|bugbear]]]], [[[[d/_defect|defect]]]], [[glitch]]
 #noun
 - **A microfossil, particularly a foraminiferan.**
 ---
 ### Synonyms
-- [[bug]]
+- [[[[b/_bug|bug]]]]
 ---

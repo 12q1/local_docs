@@ -1,12 +1,12 @@
 # Canal
 ---
 #noun
-- **An [[a/_artificial|artificial]] waterway or [[a/_artificially|artificially]] improved river used for travel, shipping, or irrigation.**
-- **A tubular [[c/_channel|channel]] within the [[b/_body|body]].**
+- **An artificial waterway or artificially improved river used for travel, shipping, or irrigation.**
+- **A tubular channel within the body.**
 - **One of the faint, hazy markings resembling straight lines on early telescopic images of the surface of Mars.**
 ---
 #verb
-- **To dig an [[a/_artificial|artificial]] waterway in or to (a place), especially for drainage**
-- **To travel [[a/_along|along]] a [[c/_canal|canal]] by [[b/_boat|boat]]**
+- **To dig an artificial waterway in or to (a place), especially for drainage**
+- **To travel along a canal by boat**
 ---
 ---

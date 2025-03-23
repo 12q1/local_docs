@@ -1,6 +1,6 @@
 # Cervelat
 ---
 #noun
-- **A Swiss smoked sausage made with pork or [[b/_beef|beef]].**
+- **A Swiss smoked sausage made with pork or beef.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Clarkia
 ---
 #noun
-- **[[a/_any|Any]] of several [[a/_annual|annual]] flowering plants, of the genus [[c/_clarkia|Clarkia]], native to the [[a/_americas|Americas]].**
+- **Any of several annual flowering plants, of the genus Clarkia, native to the Americas.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Conjuncts
 ---
 #noun
-- **Either term of a [[c/_conjunction|conjunction]].**
-- **An [[a/_adjunct|adjunct]] that supplements a sentence with information, [[c/_connecting|connecting]] the sentence with previous parts of the discourse. Not [[c/_considered|considered]] to be an essential part of the propositional [[c/_content|content]].**
+- **Either term of a conjunction.**
+- **An adjunct that supplements a sentence with information, connecting the sentence with previous parts of the discourse. Not considered to be an essential part of the propositional content.**
 ---
 ---

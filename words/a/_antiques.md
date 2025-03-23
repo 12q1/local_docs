@@ -2,22 +2,22 @@
 ---
 #noun
 - **A grotesque representation of a figure; a gargoyle.**
-- **A [[c/_caricature|caricature]].**
-- **(often in plural) A ludicrous gesture or [[a/_act|act]]; ridiculous [[b/_behaviour|behaviour]]; [[c/_caper|caper]].**
-- **A grotesque performer or [[c/_clown|clown]], [[b/_buffoon|buffoon]].**
+- **A caricature.**
+- **(often in plural) A ludicrous gesture or act; ridiculous behaviour; caper.**
+- **A grotesque performer or clown, buffoon.**
 ---
 #noun
-- **A pose, often exaggerated, in [[a/_anticipation|anticipation]] of an [[a/_action|action]]; for example, a [[b/_brief|brief]] squat [[b/_before|before]] jumping**
+- **A pose, often exaggerated, in anticipation of an action; for example, a brief squat before jumping**
 ---
 #noun
-- **In general, [[a/_anything|anything]] very old; specifically:**
-- **A style of type of thick and [[b/_bold|bold]] face in which [[a/_all|all]] lines are of equal or nearly equal thickness.**
+- **In general, anything very old; specifically:**
+- **A style of type of thick and bold face in which all lines are of equal or nearly equal thickness.**
 ---
 ### Synonyms
-- [[ancient]], [[coffin dodger]], [[geriatric]], [[oldster]]
+- [[[[a/_ancient|ancient]]]], [[[[c/_coffin|coffin]] [[d/_dodger|dodger]]]], [[geriatric]], [[oldster]]
 #verb
-- **To search or shop for [[a/_antiques|antiques]].**
-- **To make an object [[a/_appear|appear]] to be an [[a/_antique|antique]] in some way.**
+- **To search or shop for antiques.**
+- **To make an object appear to be an antique in some way.**
 - **To emboss without gilding.**
 ---
 ---

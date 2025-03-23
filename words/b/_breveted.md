@@ -1,6 +1,6 @@
 # Breveted
 ---
 #verb
-- **To promote by [[b/_brevet|brevet]].**
+- **To promote by brevet.**
 ---
 ---

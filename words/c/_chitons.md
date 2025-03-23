@@ -1,11 +1,11 @@
 # Chitons
 ---
 #noun
-- **A loose woolen tunic worn by men and women in [[a/_ancient|Ancient]] Greece.**
+- **A loose woolen tunic worn by men and women in Ancient Greece.**
 ---
 #noun
-- **[[a/_any|Any]] of various rock-[[c/_clinging|clinging]] marine molluscs of the [[c/_class|class]] Polyplacophora, including the genus [[c/_chiton|Chiton]].**
+- **Any of various rock-clinging marine molluscs of the class Polyplacophora, including the genus Chiton.**
 ---
 ### Synonyms
-- [[coat-of-mail shell]], [[loricate]], [[polyplacophoran]], [[polyplacophore]], [[sea cradle]]
+- [[[[c/_coat|coat]]-of-mail shell]], [[loricate]], [[polyplacophoran]], [[polyplacophore]], [[sea [[c/_cradle|cradle]]]]
 ---

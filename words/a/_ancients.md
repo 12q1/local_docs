@@ -2,17 +2,17 @@
 ---
 #noun
 - **A person who is very old.**
-- **A person who lived in [[a/_ancient|ancient]] times.**
-- **One of the senior members of the Inns of [[c/_court|Court]] or of [[c/_chancery|Chancery]].**
+- **A person who lived in ancient times.**
+- **One of the senior members of the Inns of Court or of Chancery.**
 - **A senior; an elder; a predecessor.**
 ---
 ### Synonyms
-- [[geriatric]], [[oldster]], [[senior citizen]], [[antique]], [[antecessor]], [[forerunner]], [[aged]], [[eldern]], [[hoary]]
+- [[geriatric]], [[oldster]], [[senior [[c/_citizen|citizen]]]], [[[[a/_antique|antique]]]], [[[[a/_antecessor|antecessor]]]], [[forerunner]], [[[[a/_aged|aged]]]], [[eldern]], [[hoary]]
 #noun
-- **A flag, [[b/_banner|banner]], standard or ensign.**
-- **The [[b/_bearer|bearer]] of a flag; ensign**
+- **A flag, banner, standard or ensign.**
+- **The bearer of a flag; ensign**
 ---
 #noun
-- **The people of [[c/_classical|classical]] [[a/_antiquity|antiquity]], especially such writers and philosophers.**
+- **The people of classical antiquity, especially such writers and philosophers.**
 ---
 ---

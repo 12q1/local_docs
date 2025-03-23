@@ -1,7 +1,7 @@
 # Aspectual
 ---
 #adjective
-- **Of or pertaining to an [[a/_aspect|aspect]].**
-- **(grammar) Of or pertaining to grammatical [[a/_aspect|aspect]].**
+- **Of or pertaining to an aspect.**
+- **(grammar) Of or pertaining to grammatical aspect.**
 ---
 ---

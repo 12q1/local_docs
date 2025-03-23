@@ -5,8 +5,8 @@
 	- _Example: He's never badly._
 ---
 #adverb
-- **In a [[b/_bad|bad]] manner.**
-- **Very much; to a great [[d/_degree|degree]].**
+- **In a bad manner.**
+- **Very much; to a great degree.**
 	- _Example: I want it so badly._
 ---
 ---

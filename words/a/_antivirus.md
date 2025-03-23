@@ -1,6 +1,6 @@
 # Antivirus
 ---
 #noun
-- **A piece of software that is used to [[d/_detect|detect]], [[d/_delete|delete]] and or neutralize [[c/_computer|computer]]-[[b/_based|based]] viruses.**
+- **A piece of software that is used to detect, delete and or neutralize computer-based viruses.**
 ---
 ---

@@ -1,21 +1,21 @@
 # Bin
 ---
 #noun
-- **A [[b/_box|box]], frame, [[c/_crib|crib]], or enclosed place, used as a storage [[c/_container|container]].**
+- **A box, frame, crib, or enclosed place, used as a storage container.**
 	- _Example: a corn bin; a wine bin; a coal bin_
-- **A [[c/_container|container]] for rubbish or waste.**
+- **A container for rubbish or waste.**
 	- _Example: a rubbish bin; a wastepaper bin; an ashes bin_
-- **[[a/_any|Any]] of the discrete intervals in a histogram, etc**
+- **Any of the discrete intervals in a histogram, etc**
 ---
 ### Synonyms
-- [[container]], [[receptacle]], [[dustbin]], [[garbage can]], [[rubbish bin]], [[trash can]]
+- [[[[c/_container|container]]]], [[receptacle]], [[[[d/_dustbin|dustbin]]]], [[garbage [[c/_can|can]]]], [[rubbish [[b/_bin|bin]]]], [[trash [[c/_can|can]]]]
 #verb
-- **To dispose of (something) by putting it into a [[b/_bin|bin]], or as if putting it into a [[b/_bin|bin]].**
-- **To throw [[a/_away|away]], reject, give up.**
-- **To [[c/_convert|convert]] [[c/_continuous|continuous]] [[d/_data|data]] into discrete groups.**
-- **To place into a [[b/_bin|bin]] for storage.**
+- **To dispose of (something) by putting it into a bin, or as if putting it into a bin.**
+- **To throw away, reject, give up.**
+- **To convert continuous data into discrete groups.**
+- **To place into a bin for storage.**
 	- _Example: to bin wine_
 ---
 ### Synonyms
-- [[chuck]], [[chuck away]], [[chuck out]], [[discard]], [[ditch]], [[dump]], [[junk]], [[scrap]], [[throw away]], [[throw out]], [[toss]], [[trash]]
+- [[[[c/_chuck|chuck]]]], [[[[c/_chuck|chuck]] [[a/_away|away]]]], [[[[c/_chuck|chuck]] out]], [[[[d/_discard|discard]]]], [[[[d/_ditch|ditch]]]], [[[[d/_dump|dump]]]], [[junk]], [[scrap]], [[throw [[a/_away|away]]]], [[throw out]], [[toss]], [[trash]]
 ---

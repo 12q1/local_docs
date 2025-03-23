@@ -1,11 +1,11 @@
 # Deficit
 ---
 #noun
-- **[[d/_deficiency|Deficiency]] in [[a/_amount|amount]] or quality; a falling short; lack.**
-- **A situation wherein, or [[a/_amount|amount]] whereby, spending exceeds government revenue.**
+- **Deficiency in amount or quality; a falling short; lack.**
+- **A situation wherein, or amount whereby, spending exceeds government revenue.**
 ---
 ### Synonyms
-- [[fiscal deficit]], [[shortfall]]
+- [[fiscal [[d/_deficit|deficit]]]], [[shortfall]]
 ### Antonyms
 - [[superavit]]
 ---

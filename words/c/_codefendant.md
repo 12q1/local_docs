@@ -1,6 +1,6 @@
 # Codefendant
 ---
 #noun
-- **[[a/_any|Any]] of several [[d/_defendants|defendants]] [[a/_answering|answering]] the same [[c/_charge|charge]].**
+- **Any of several defendants answering the same charge.**
 ---
 ---

@@ -1,19 +1,19 @@
 # Alien
 ---
 #noun
-- **[[a/_any|Any]] life form of extraterrestrial or extradimensional origin.**
-- **A person, [[a/_animal|animal]], plant, or other thing which is from outside the family, group, organization, or territory under [[c/_consideration|consideration]].**
-- **A foreigner residing in a [[c/_country|country]].**
-- **One excluded from [[c/_certain|certain]] privileges; one [[a/_alienated|alienated]] or estranged.**
+- **Any life form of extraterrestrial or extradimensional origin.**
+- **A person, animal, plant, or other thing which is from outside the family, group, organization, or territory under consideration.**
+- **A foreigner residing in a country.**
+- **One excluded from certain privileges; one alienated or estranged.**
 ---
 ### Synonyms
 - [[outlander]], [[fremd]], [[guest]], [[stranger]]
 #verb
-- **To estrange; to [[a/_alienate|alienate]].**
+- **To estrange; to alienate.**
 - **To transfer the ownership of something.**
 ---
 #adjective
-- **Not [[b/_belonging|belonging]] to the same [[c/_country|country]], land, or government, or to the [[c/_citizens|citizens]] or subjects thereof; foreign.**
+- **Not belonging to the same country, land, or government, or to the citizens or subjects thereof; foreign.**
 	- _Example: alien subjects, enemies, property, or shores_
 - **Very unfamiliar, strange, or removed.**
 	- _Example: principles alien to our religion_

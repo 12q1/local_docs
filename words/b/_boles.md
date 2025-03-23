@@ -4,16 +4,16 @@
 - **The trunk or stem of a tree.**
 ---
 #noun
-- **[[a/_any|Any]] of several varieties of friable earthy [[c/_clay|clay]], usually [[c/_coloured|coloured]] red by iron oxide, and [[c/_composed|composed]] essentially of hydrous silicates of [[a/_alumina|alumina]], or more rarely of magnesia.**
-- **([[c/_colour|colour]]) The shade of reddish [[b/_brown|brown]] which resembles this [[c/_clay|clay]].**
-- **A [[b/_bolus|bolus]]; a dose.**
+- **Any of several varieties of friable earthy clay, usually coloured red by iron oxide, and composed essentially of hydrous silicates of alumina, or more rarely of magnesia.**
+- **(colour) The shade of reddish brown which resembles this clay.**
+- **A bolus; a dose.**
 ---
 #noun
-- **An [[a/_aperture|aperture]] with a shutter in the wall of a house, to [[a/_admit|admit]] [[a/_air|air]] or light.**
-- **A small [[c/_closet|closet]].**
+- **An aperture with a shutter in the wall of a house, to admit air or light.**
+- **A small closet.**
 ---
 #noun
-- **The rounded seed-[[b/_bearing|bearing]] [[c/_capsule|capsule]] of a [[c/_cotton|cotton]] or flax plant.**
-- **An old dry measure equal to six [[b/_bushels|bushels]].**
+- **The rounded seed-bearing capsule of a cotton or flax plant.**
+- **An old dry measure equal to six bushels.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bankruptcies
 ---
 #noun
-- **A legally [[d/_declared|declared]] or recognized [[c/_condition|condition]] of insolvency of a person or organization.**
+- **A legally declared or recognized condition of insolvency of a person or organization.**
 ---
 ---

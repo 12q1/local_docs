@@ -1,6 +1,6 @@
 # Confirmatory
 ---
 #adjective
-- **Serving to [[c/_confirm|confirm]] something.**
+- **Serving to confirm something.**
 ---
 ---

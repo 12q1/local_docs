@@ -1,17 +1,17 @@
 # Armors
 ---
 #noun
-- **A protective layer over a [[b/_body|body]], vehicle, or other object intended to [[d/_deflect|deflect]] or diffuse [[d/_damaging|damaging]] forces.**
-- **A natural form of this kind of protection on an [[a/_animal|animal]]'s [[b/_body|body]].**
-- **Metal plate, protecting a ship, military vehicle, or [[a/_aircraft|aircraft]].**
-- **A tank, or other heavy mobile [[a/_assault|assault]] vehicle.**
-- **A military formation [[c/_consisting|consisting]] primarily of tanks or other [[a/_armoured|armoured]] fighting vehicles, [[c/_collectively|collectively]].**
-- **The naturally occurring surface of pebbles, rocks or [[b/_boulders|boulders]] that line the [[b/_bed|bed]] of a waterway or [[b/_beach|beach]] and provide protection [[a/_against|against]] erosion.**
+- **A protective layer over a body, vehicle, or other object intended to deflect or diffuse damaging forces.**
+- **A natural form of this kind of protection on an animal's body.**
+- **Metal plate, protecting a ship, military vehicle, or aircraft.**
+- **A tank, or other heavy mobile assault vehicle.**
+- **A military formation consisting primarily of tanks or other armoured fighting vehicles, collectively.**
+- **The naturally occurring surface of pebbles, rocks or boulders that line the bed of a waterway or beach and provide protection against erosion.**
 ---
 ### Synonyms
-- [[carapace]], [[chitin]], [[horn]], [[body armor]], [[body armour]], [[chain mail]], [[mail]], [[plate]], [[suit of armor]], [[suit of armour]], [[armor plate]], [[armour plate]], [[cavalry]], [[mechanized]]
+- [[[[c/_carapace|carapace]]]], [[[[c/_chitin|chitin]]]], [[horn]], [[[[b/_body|body]] [[a/_armor|armor]]]], [[[[b/_body|body]] [[a/_armour|armour]]]], [[[[c/_chain|chain]] mail]], [[mail]], [[plate]], [[suit of [[a/_armor|armor]]]], [[suit of [[a/_armour|armour]]]], [[[[a/_armor|armor]] plate]], [[[[a/_armour|armour]] plate]], [[[[c/_cavalry|cavalry]]]], [[mechanized]]
 #verb
-- **To equip something with [[a/_armor|armor]] or a protective [[c/_coating|coating]] or hardening.**
-- **To provide something with an [[a/_analogous|analogous]] form of protection.**
+- **To equip something with armor or a protective coating or hardening.**
+- **To provide something with an analogous form of protection.**
 ---
 ---

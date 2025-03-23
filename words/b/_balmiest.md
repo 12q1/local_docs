@@ -1,11 +1,11 @@
 # Balmiest
 ---
 #adjective
-- **Producing [[b/_balm|balm]].**
+- **Producing balm.**
 - **Soothing or fragrant.**
 - **Mild and pleasant.**
-- **Foolish; slightly [[c/_crazy|crazy]] or mad; eccentric.**
+- **Foolish; slightly crazy or mad; eccentric.**
 ---
 ### Synonyms
-- [[barmy]]
+- [[[[b/_barmy|barmy]]]]
 ---

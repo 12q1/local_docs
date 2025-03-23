@@ -1,6 +1,6 @@
 # Corvine
 ---
 #adjective
-- **Of, pertaining to, or [[c/_characteristic|characteristic]] of [[c/_crows|crows]] or ravens.**
+- **Of, pertaining to, or characteristic of crows or ravens.**
 ---
 ---

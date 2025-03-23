@@ -1,6 +1,6 @@
 # Barfly
 ---
 #noun
-- **A person who spends much time in a [[b/_bar|bar]] or similar drinking establishment**
+- **A person who spends much time in a bar or similar drinking establishment**
 ---
 ---

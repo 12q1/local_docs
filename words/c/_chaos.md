@@ -1,14 +1,14 @@
 # Chaos
 ---
 #noun
-- **The unordered state of matter in [[c/_classical|classical]] [[a/_accounts|accounts]] of [[c/_cosmogony|cosmogony]].**
-- **[[a/_any|Any]] state of disorder; a [[c/_confused|confused]] or [[a/_amorphous|amorphous]] mixture or [[c/_conglomeration|conglomeration]].**
+- **The unordered state of matter in classical accounts of cosmogony.**
+- **Any state of disorder; a confused or amorphous mixture or conglomeration.**
 	- _Example: After the earthquake, the local hospital was in chaos_
-- **A [[b/_behaviour|behaviour]] of iterative non-linear systems in which [[a/_arbitrarily|arbitrarily]] small variations in initial [[c/_conditions|conditions]] [[b/_become|become]] magnified over time.**
+- **A behaviour of iterative non-linear systems in which arbitrarily small variations in initial conditions become magnified over time.**
 - **One of the two metaphysical forces of the world in some fantasy settings, as opposed to law.**
-- **A vast [[c/_chasm|chasm]] or [[a/_abyss|abyss]].**
+- **A vast chasm or abyss.**
 - **A given medium; a space in which something exists or lives; an environment.**
 ---
 ### Antonyms
-- [[cosmos]], [[order]]
+- [[[[c/_cosmos|cosmos]]]], [[order]]
 ---

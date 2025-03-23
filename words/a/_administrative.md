@@ -1,8 +1,8 @@
 # Administrative
 ---
 #adjective
-- **Of or relating to [[a/_administering|administering]] or [[a/_administration|administration]].**
+- **Of or relating to administering or administration.**
 ---
 ### Antonyms
-- [[non-administrative]], [[nonadministrative]]
+- [[non-[[a/_administrative|administrative]]]], [[nonadministrative]]
 ---

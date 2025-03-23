@@ -1,8 +1,8 @@
 # Chartering
 ---
 #verb
-- **To grant or establish a [[c/_charter|charter]].**
-- **To lease or hire something by [[c/_charter|charter]].**
-- **(of a peace officer) To inform (an [[a/_arrestee|arrestee]]) of their [[c/_constitutional|constitutional]] rights under the [[c/_canadian|Canadian]] [[c/_charter|Charter]] of Rights and Freedoms upon [[a/_arrest|arrest]].**
+- **To grant or establish a charter.**
+- **To lease or hire something by charter.**
+- **(of a peace officer) To inform (an arrestee) of their constitutional rights under the Canadian Charter of Rights and Freedoms upon arrest.**
 ---
 ---

@@ -2,13 +2,13 @@
 ---
 #noun
 - **Something happening or existing at the same time.**
-- **An invariant homogeneous polynomial in the [[c/_coefficients|coefficients]] of a form, a [[c/_covariant|covariant]] variable, and a [[c/_contravariant|contravariant]] variable.**
+- **An invariant homogeneous polynomial in the coefficients of a form, a covariant variable, and a contravariant variable.**
 ---
 ### Synonyms
-- [[accompaniment]], [[co-occurrence]]
+- [[[[a/_accompaniment|accompaniment]]]], [[[[c/_co|co]]-occurrence]]
 #adjective
-- **[[a/_accompanying|Accompanying]]; [[c/_conjoining|conjoining]]; [[a/_attending|attending]]; [[c/_concurrent|concurrent]].**
+- **Accompanying; conjoining; attending; concurrent.**
 ---
 ### Synonyms
-- [[accompanying]], [[adjoining]], [[attendant]], [[incidental]]
+- [[[[a/_accompanying|accompanying]]]], [[[[a/_adjoining|adjoining]]]], [[[[a/_attendant|attendant]]]], [[incidental]]
 ---

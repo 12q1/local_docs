@@ -2,26 +2,26 @@
 ---
 #noun
 - **A playful leap or jump.**
-- **A jump while [[d/_dancing|dancing]].**
+- **A jump while dancing.**
 - **A prank or practical joke.**
-- **(usually in plural) Playful [[b/_behaviour|behaviour]].**
-- **(figuratively) A [[c/_crime|crime]], especially an elaborate heist, or a narrative [[a/_about|about]] such a [[c/_crime|crime]].**
+- **(usually in plural) Playful behaviour.**
+- **(figuratively) A crime, especially an elaborate heist, or a narrative about such a crime.**
 ---
 #verb
-- **To leap or jump [[a/_about|about]] in a sprightly or playful manner.**
-- **To jump as part of a [[d/_dance|dance]].**
-- **To engage in playful [[b/_behaviour|behaviour]].**
+- **To leap or jump about in a sprightly or playful manner.**
+- **To jump as part of a dance.**
+- **To engage in playful behaviour.**
 ---
 #noun
 - **A vessel formerly used by the Dutch; privateer.**
 ---
 #noun
-- **The pungent grayish green flower [[b/_bud|bud]] of the European and Oriental [[c/_caper|caper]] ([[c/_capparis|Capparis]] spinosa), which is pickled and eaten.**
-- **A plant of the genus [[c/_capparis|Capparis]].**
+- **The pungent grayish green flower bud of the European and Oriental caper (Capparis spinosa), which is pickled and eaten.**
+- **A plant of the genus Capparis.**
 ---
 ### Synonyms
-- [[caper bush]], [[caper tree]], [[caperberry]]
+- [[[[c/_caper|caper]] [[b/_bush|bush]]]], [[[[c/_caper|caper]] tree]], [[caperberry]]
 #noun
-- **The [[c/_capercaillie|capercaillie]].**
+- **The capercaillie.**
 ---
 ---

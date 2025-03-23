@@ -1,6 +1,6 @@
 # Backbeat
 ---
 #noun
-- **The sharp [[a/_accent|accent]] on the second and fourth [[b/_beats|beats]] of rock music in 4/4 time.**
+- **The sharp accent on the second and fourth beats of rock music in 4/4 time.**
 ---
 ---

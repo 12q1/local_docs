@@ -1,7 +1,7 @@
 # Awardees
 ---
 #noun
-- **The recipient of an [[a/_award|award]] or special honor.**
+- **The recipient of an award or special honor.**
 ---
 ### Synonyms
 - [[honoree]]

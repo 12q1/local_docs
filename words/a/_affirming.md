@@ -1,18 +1,18 @@
 # Affirming
 ---
 #verb
-- **To [[a/_agree|agree]], verify or [[c/_concur|concur]]; to [[a/_answer|answer]] positively.**
+- **To agree, verify or concur; to answer positively.**
 	- _Example: She affirmed that she would go when I asked her._
-- **To [[a/_assert|assert]] positively; to tell with [[c/_confidence|confidence]]; to [[a/_aver|aver]]; to maintain as true.**
+- **To assert positively; to tell with confidence; to aver; to maintain as true.**
 - **To support or encourage.**
 	- _Example: They did everything they could to affirm the children's self-confidence._
-- **To make firm; to [[c/_confirm|confirm]], or ratify; especially to [[a/_assert|assert]] or [[c/_confirm|confirm]], as a judgment, [[d/_decree|decree]], or order, [[b/_brought|brought]] [[b/_before|before]] an [[a/_appellate|appellate]] [[c/_court|court]] for review.**
+- **To make firm; to confirm, or ratify; especially to assert or confirm, as a judgment, decree, or order, brought before an appellate court for review.**
 ---
 ### Synonyms
 - [[validate]]
 ### Antonyms
-- [[deny]], [[disaffirm]], [[invalidate]], [[repudiate]]
+- [[[[d/_deny|deny]]]], [[[[d/_disaffirm|disaffirm]]]], [[invalidate]], [[repudiate]]
 #noun
-- **The [[a/_act|act]] of one who [[a/_affirms|affirms]] something; an [[a/_affirmation|affirmation]].**
+- **The act of one who affirms something; an affirmation.**
 ---
 ---

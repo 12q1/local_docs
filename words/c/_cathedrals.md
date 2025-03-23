@@ -1,8 +1,8 @@
 # Cathedrals
 ---
 #noun
-- **A [[b/_big|big]] [[c/_church|church]] [[b/_building|building]], [[c/_central|central]] place for some [[a/_area|area]].**
-- **The principal [[c/_church|church]] of an [[a/_archbishop|archbishop]]'s/[[b/_bishop|bishop]]'s [[a/_archdiocese|archdiocese]]/diocese which [[c/_contains|contains]] an episcopal throne.**
-- **A large [[b/_buttressed|buttressed]] structure [[b/_built|built]] by [[c/_certain|certain]] termites.**
+- **A big church building, central place for some area.**
+- **The principal church of an archbishop's/bishop's archdiocese/diocese which contains an episcopal throne.**
+- **A large buttressed structure built by certain termites.**
 ---
 ---

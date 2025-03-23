@@ -1,8 +1,8 @@
 # Damascenes
 ---
 #verb
-- **To [[d/_decorate|decorate]] (metalwork) with a peculiar marking or water produced in the process of manufacture, or with [[d/_designs|designs]] produced by inlaying or encrusting with [[a/_another|another]] metal, such as silver or gold, or by etching, etc.; to [[d/_damask|damask]].**
+- **To decorate (metalwork) with a peculiar marking or water produced in the process of manufacture, or with designs produced by inlaying or encrusting with another metal, such as silver or gold, or by etching, etc.; to damask.**
 ---
 ### Synonyms
-- [[damaskeen]], [[damasken]]
+- [[[[d/_damaskeen|damaskeen]]]], [[damasken]]
 ---

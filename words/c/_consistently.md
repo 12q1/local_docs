@@ -1,9 +1,9 @@
 # Consistently
 ---
 #adverb
-- **(manner) In a [[c/_consistent|consistent]] manner.**
-- **(frequency) [[c/_constantly|constantly]]; [[a/_always|always]].**
+- **(manner) In a consistent manner.**
+- **(frequency) constantly; always.**
 ---
 ### Synonyms
-- [[continually]], [[incessantly]], [[invariably]], [[uniformly]]
+- [[[[c/_continually|continually]]]], [[incessantly]], [[invariably]], [[uniformly]]
 ---

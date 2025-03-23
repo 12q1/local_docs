@@ -1,10 +1,10 @@
 # Decrypts
 ---
 #noun
-- **A [[d/_decoded|decoded]] [[c/_communication|communication]].**
+- **A decoded communication.**
 ---
 #verb
-- **To [[c/_convert|convert]] (an encrypted or [[c/_coded|coded]] message) [[b/_back|back]] into plain text.**
+- **To convert (an encrypted or coded message) back into plain text.**
 ---
 ### Antonyms
 - [[encrypt]]

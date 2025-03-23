@@ -1,6 +1,6 @@
 # Bub
 ---
 #noun
-- **An [[a/_alcoholic|alcoholic]] malt liquor, especially [[b/_beer|beer]].**
+- **An alcoholic malt liquor, especially beer.**
 ---
 ---

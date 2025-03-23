@@ -1,9 +1,9 @@
 # Bogeyed
 ---
 #verb
-- **To make a [[b/_bogey|bogey]].**
+- **To make a bogey.**
 ---
 #verb
-- **To swim; to [[b/_bathe|bathe]].**
+- **To swim; to bathe.**
 ---
 ---

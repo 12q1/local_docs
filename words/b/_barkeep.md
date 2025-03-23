@@ -1,8 +1,8 @@
 # Barkeep
 ---
 #noun
-- **A [[b/_bartender|bartender]]**
+- **A bartender**
 ---
 ### Synonyms
-- [[bar-keeper]], [[barkeeper]]
+- [[[[b/_bar|bar]]-keeper]], [[[[b/_barkeeper|barkeeper]]]]
 ---

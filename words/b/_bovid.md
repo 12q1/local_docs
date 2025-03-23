@@ -1,6 +1,6 @@
 # Bovid
 ---
 #noun
-- **An [[a/_animal|animal]] of the family [[b/_bovidae|Bovidae]] (such as the [[a/_antelope|antelope]], gazelle, goat, and sheep).**
+- **An animal of the family Bovidae (such as the antelope, gazelle, goat, and sheep).**
 ---
 ---

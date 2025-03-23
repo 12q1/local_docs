@@ -6,9 +6,9 @@
 ### Synonyms
 - [[bip]], [[boop]]
 #verb
-- **To [[d/_dance|dance]] to this music, or [[a/_any|any]] sort of popular music with a strong [[b/_beat|beat]].**
+- **To dance to this music, or any sort of popular music with a strong beat.**
 - **To have sex.**
 ---
 ### Synonyms
-- [[bang]], [[do it]], [[get it on]]
+- [[[[b/_bang|bang]]]], [[[[d/_do|do]] it]], [[get it on]]
 ---

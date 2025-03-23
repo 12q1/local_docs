@@ -1,6 +1,6 @@
 # Deterrents
 ---
 #noun
-- **Something that [[d/_deters|deters]].**
+- **Something that deters.**
 ---
 ---

@@ -1,38 +1,38 @@
 # Bitten
 ---
 #verb
-- **To [[c/_cut|cut]] into something by [[c/_clamping|clamping]] the teeth.**
+- **To cut into something by clamping the teeth.**
 	- _Example: As soon as you bite that sandwich, you'll know how good it is._
-- **To hold something by [[c/_clamping|clamping]] one's teeth.**
-- **To [[a/_attack|attack]] with the teeth.**
+- **To hold something by clamping one's teeth.**
+- **To attack with the teeth.**
 	- _Example: That dog is about to bite!_
-- **To [[b/_behave|behave]] [[a/_aggressively|aggressively]]; to reject [[a/_advances|advances]].**
+- **To behave aggressively; to reject advances.**
 	- _Example: If you see me, come and say hello. I don't bite._
-- **To take hold; to establish firm [[c/_contact|contact]] with.**
+- **To take hold; to establish firm contact with.**
 	- _Example: I needed snow chains to make the tires bite._
 - **To have significant effect, often negative.**
 	- _Example: For homeowners with adjustable rate mortgages, rising interest will really bite._
-- **(of a fish) To [[b/_bite|bite]] a [[b/_baited|baited]] hook or other lure and thus be [[c/_caught|caught]].**
+- **(of a fish) To bite a baited hook or other lure and thus be caught.**
 	- _Example: Are the fish biting today?_
-- **To [[a/_accept|accept]] something offered, often secretly or [[d/_deceptively|deceptively]], to [[c/_cause|cause]] some [[a/_action|action]] by the [[a/_acceptor|acceptor]].**
+- **To accept something offered, often secretly or deceptively, to cause some action by the acceptor.**
 	- _Example: I've planted the story. Do you think they'll bite?_
 - **(of an insect) To sting.**
 	- _Example: These mosquitoes are really biting today!_
-- **To [[c/_cause|cause]] a smarting sensation; to have a property which [[c/_causes|causes]] such a sensation; to be pungent.**
+- **To cause a smarting sensation; to have a property which causes such a sensation; to be pungent.**
 	- _Example: It bites like pepper or mustard._
-- **(sometimes figurative) To [[c/_cause|cause]] sharp pain or [[d/_damage|damage]] to; to hurt or injure.**
+- **(sometimes figurative) To cause sharp pain or damage to; to hurt or injure.**
 	- _Example: Pepper bites the mouth._
-- **To [[c/_cause|cause]] sharp pain; to produce [[a/_anguish|anguish]]; to hurt or injure; to have the property of so doing.**
+- **To cause sharp pain; to produce anguish; to hurt or injure; to have the property of so doing.**
 - **To take or keep a firm hold.**
 	- _Example: The anchor bites._
-- **To take hold of; to hold fast; to [[a/_adhere|adhere]] to.**
+- **To take hold of; to hold fast; to adhere to.**
 	- _Example: The anchor bites the ground._
-- **To lack quality; to be worthy of [[d/_derision|derision]]; to suck.**
+- **To lack quality; to be worthy of derision; to suck.**
 	- _Example: This music really bites._
 - **To perform oral sex on. Used in invective.**
 	- _Example: You don't like that I sat on your car? Bite me._
 - **To plagiarize, to imitate.**
 	- _Example: He always be biting my moves._
-- **To [[d/_deceive|deceive]] or [[d/_defraud|defraud]]; to take in.**
+- **To deceive or defraud; to take in.**
 ---
 ---

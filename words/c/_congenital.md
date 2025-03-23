@@ -1,10 +1,10 @@
 # Congenital
 ---
 #adjective
-- **(of a trait or a disease) Present since [[b/_birth|birth]].**
+- **(of a trait or a disease) Present since birth.**
 ---
 ### Synonyms
-- [[congenite]], [[genetous]]
+- [[[[c/_congenite|congenite]]]], [[genetous]]
 ### Antonyms
-- [[acquired]]
+- [[[[a/_acquired|acquired]]]]
 ---

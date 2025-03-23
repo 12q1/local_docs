@@ -1,9 +1,9 @@
 # Catholicised
 ---
 #verb
-- **To make [[c/_catholic|Catholic]]; to [[c/_convert|convert]] to [[c/_catholicism|Catholicism]].**
-- **To [[b/_become|become]] [[c/_catholic|Catholic]]; to [[c/_convert|convert]] to [[c/_catholicism|Catholicism]].**
+- **To make Catholic; to convert to Catholicism.**
+- **To become Catholic; to convert to Catholicism.**
 ---
 ### Antonyms
-- [[de-Catholicize]], [[un-Catholicize]]
+- [[[[d/_de|de]]-[[c/_catholicize|Catholicize]]]], [[un-[[c/_catholicize|Catholicize]]]]
 ---

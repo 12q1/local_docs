@@ -1,6 +1,6 @@
 # Colostomy
 ---
 #noun
-- **An incision into the [[c/_colon|colon]] to [[a/_allow|allow]] for drainage; the opening produced in such incision.**
+- **An incision into the colon to allow for drainage; the opening produced in such incision.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Accoucheur
 ---
 #noun
-- **A person who [[d/_delivers|delivers]] a [[b/_baby|baby]] (in [[c/_childbirth|childbirth]]).**
+- **A person who delivers a baby (in childbirth).**
 ---
 ### Synonyms
 - [[male]], [[man-midwife]], [[midwife]]

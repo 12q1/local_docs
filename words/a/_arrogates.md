@@ -1,10 +1,10 @@
 # Arrogates
 ---
 #verb
-- **To [[a/_appropriate|appropriate]] or lay [[c/_claim|claim]] to something for oneself without right.**
+- **To appropriate or lay claim to something for oneself without right.**
 ---
 ### Synonyms
-- [[commandeer]], [[expropriate]], [[usurp]]
+- [[[[c/_commandeer|commandeer]]]], [[expropriate]], [[usurp]]
 ### Antonyms
-- [[abandon]], [[abdicate]], [[relinquish]], [[renounce]]
+- [[[[a/_abandon|abandon]]]], [[[[a/_abdicate|abdicate]]]], [[relinquish]], [[renounce]]
 ---

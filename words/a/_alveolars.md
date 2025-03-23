@@ -1,7 +1,7 @@
 # Alveolars
 ---
 #noun
-- **An [[a/_alveolar|alveolar]] [[c/_consonant|consonant]]**
+- **An alveolar consonant**
 ---
 ### Synonyms
 - [[gingival]]

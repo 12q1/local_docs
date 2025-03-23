@@ -1,9 +1,9 @@
 # Asphalting
 ---
 #verb
-- **To pave with [[a/_asphalt|asphalt]].**
+- **To pave with asphalt.**
 ---
 #noun
-- **An [[a/_application|application]] of [[a/_asphalt|asphalt]].**
+- **An application of asphalt.**
 ---
 ---

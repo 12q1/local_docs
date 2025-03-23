@@ -1,8 +1,8 @@
 # Afflicts
 ---
 #verb
-- **To [[c/_cause|cause]] (someone) pain, suffering or distress.**
-- **To strike or [[c/_cast|cast]] down; to overthrow.**
+- **To cause (someone) pain, suffering or distress.**
+- **To strike or cast down; to overthrow.**
 - **To make low or humble.**
 ---
 ---

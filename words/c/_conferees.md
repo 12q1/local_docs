@@ -1,9 +1,9 @@
 # Conferees
 ---
 #noun
-- **A person who participates in a [[c/_conference|conference]].**
-- **A person on whom something is [[c/_conferred|conferred]] or [[b/_bestowed|bestowed]].**
+- **A person who participates in a conference.**
+- **A person on whom something is conferred or bestowed.**
 ---
 ### Synonyms
-- [[conference delegate]], [[conference member]], [[conference participant]]
+- [[[[c/_conference|conference]] [[d/_delegate|delegate]]]], [[[[c/_conference|conference]] member]], [[[[c/_conference|conference]] participant]]
 ---

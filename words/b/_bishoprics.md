@@ -1,10 +1,10 @@
 # Bishoprics
 ---
 #noun
-- **A diocese or region of a [[c/_church|church]] which a [[b/_bishop|bishop]] governs.**
+- **A diocese or region of a church which a bishop governs.**
 	- _Example: Later that year, he was appointed to the bishopric of Lindesmeere._
-- **The office or function of a [[b/_bishop|bishop]].**
+- **The office or function of a bishop.**
 ---
 ### Synonyms
-- [[diocese]]
+- [[[[d/_diocese|diocese]]]]
 ---

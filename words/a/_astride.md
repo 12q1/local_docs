@@ -9,5 +9,5 @@
 	- _Example: The boy sat astride his father’s knee._
 ---
 ### Synonyms
-- [[agee]], [[astraddle]]
+- [[[[a/_agee|agee]]]], [[[[a/_astraddle|astraddle]]]]
 ---

@@ -1,7 +1,7 @@
 # Arapaimas
 ---
 #noun
-- **A large [[c/_carnivorous|carnivorous]] predatory South [[a/_american|American]] tropical freshwater fish, [[a/_arapaima|Arapaima]] gigas.**
+- **A large carnivorous predatory South American tropical freshwater fish, Arapaima gigas.**
 ---
 ### Synonyms
 - [[paiche]], [[pirarucu]]

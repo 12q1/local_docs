@@ -1,7 +1,7 @@
 # Bacteriophage
 ---
 #noun
-- **A virus that specifically infects [[b/_bacteria|bacteria]].**
+- **A virus that specifically infects bacteria.**
 ---
 ### Synonyms
 - [[phage]]

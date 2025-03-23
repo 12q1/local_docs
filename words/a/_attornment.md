@@ -1,8 +1,8 @@
 # Attornment
 ---
 #noun
-- **The [[c/_consent|consent]] of a tenant to the transfer of his relationship to his landlord to [[a/_another|another]] person.**
+- **The consent of a tenant to the transfer of his relationship to his landlord to another person.**
 ---
 ### Synonyms
-- [[traditio brevi manu]]
+- [[traditio [[b/_brevi|brevi]] manu]]
 ---

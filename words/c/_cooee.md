@@ -1,16 +1,16 @@
 # Cooee
 ---
 #noun
-- **A long, loud [[c/_call|call]] used to [[a/_attract|attract]] [[a/_attention|attention]] when at a distance, mainly done in the [[a/_australian|Australian]] [[b/_bush|bush]].**
+- **A long, loud call used to attract attention when at a distance, mainly done in the Australian bush.**
 - **(with "within") A short distance; hailing distance.**
 ---
 #verb
-- **To make such a [[c/_call|call]].**
+- **To make such a call.**
 ---
 #interjection
-- **Used to [[a/_attract|attract]] someone's [[a/_attention|attention]].**
+- **Used to attract someone's attention.**
 	- _Example: Cooee! I'm over here!_
 ---
 ### Synonyms
-- [[ahoy]], [[hey]], [[oi]], [[yoohoo]]
+- [[[[a/_ahoy|ahoy]]]], [[hey]], [[oi]], [[yoohoo]]
 ---

@@ -1,7 +1,7 @@
 # Coccus
 ---
 #noun
-- **[[a/_any|Any]] [[a/_approximately|approximately]] spherical [[b/_bacterium|bacterium]].**
-- **One of the [[c/_carpels|carpels]] or seed-vessels of a dry fruit.**
+- **Any approximately spherical bacterium.**
+- **One of the carpels or seed-vessels of a dry fruit.**
 ---
 ---

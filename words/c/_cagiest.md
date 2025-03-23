@@ -1,7 +1,7 @@
 # Cagiest
 ---
 #adjective
-- **Wary, [[c/_careful|careful]], shrewd.**
+- **Wary, careful, shrewd.**
 - **Uncommunicative; unwilling or hesitant to give information.**
 ---
 ### Synonyms

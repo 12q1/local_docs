@@ -1,50 +1,50 @@
 # Bags
 ---
 #noun
-- **A flexible [[c/_container|container]] made of [[c/_cloth|cloth]], paper, plastic, etc.**
+- **A flexible container made of cloth, paper, plastic, etc.**
 - **A handbag**
 - **A suitcase.**
-- **A schoolbag, especially a [[b/_backpack|backpack]].**
+- **A schoolbag, especially a backpack.**
 - **One’s preference.**
 	- _Example: Acid House is not my bag: I prefer the more traditional styles of music._
 - **An ugly woman.**
-- **The [[c/_cloth|cloth]]-[[c/_covered|covered]] pillow used for first, second, and third [[b/_base|base]].**
+- **The cloth-covered pillow used for first, second, and third base.**
 	- _Example: The grounder hit the bag and bounced over the fielder’s head._
-- **First, second, or third [[b/_base|base]].**
+- **First, second, or third base.**
 	- _Example: He headed back to the bag._
-- **(preceded by "the") A breathalyzer, so named [[b/_because|because]] it formerly had a plastic [[b/_bag|bag]] over the end to measure a set [[a/_amount|amount]] of [[b/_breath|breath]].**
-- **A [[c/_collection|collection]] of objects, disregarding order, but (unlike a set) in which elements may be repeated.**
+- **(preceded by "the") A breathalyzer, so named because it formerly had a plastic bag over the end to measure a set amount of breath.**
+- **A collection of objects, disregarding order, but (unlike a set) in which elements may be repeated.**
 	- _Example: If one has a bag of three apples and the letter 'a' is taken to denote 'apple', then such bag could be represented symbolically as {a,a,a}. Note that in an ordinary context, when talking about a bag of apples, one does not care about identifying the individual apples, although one might be interested in distinguishing apples by species, for example, letting 'r' denote 'red apple' and 'g' denote 'green apple', then a bag of three red apples and two green apples could be denoted as {r,r,r,g,g}._
-- **A sac in [[a/_animal|animal]] [[b/_bodies|bodies]], [[c/_containing|containing]] some fluid or other substance.**
+- **A sac in animal bodies, containing some fluid or other substance.**
 	- _Example: the bag of a cow_
-- **A pouch tied [[b/_behind|behind]] a man's head to hold the [[b/_back|back]]-hair of a wig; a [[b/_bag|bag]] wig.**
-- **The quantity of game [[b/_bagged|bagged]] in a hunt.**
+- **A pouch tied behind a man's head to hold the back-hair of a wig; a bag wig.**
+- **The quantity of game bagged in a hunt.**
 - **A scrotum.**
-- **A unit of measure of [[c/_cement|cement]] equal to 94 pounds.**
-- **([[c/_chiefly|chiefly]] in the plural) A [[d/_dark|dark]] [[c/_circle|circle]] under the eye, [[c/_caused|caused]] by lack of sleep, drug [[a/_addiction|addiction]] etc.**
-- **A small envelope that [[c/_contains|contains]] drugs, especially narcotics.**
+- **A unit of measure of cement equal to 94 pounds.**
+- **(chiefly in the plural) A dark circle under the eye, caused by lack of sleep, drug addiction etc.**
+- **A small envelope that contains drugs, especially narcotics.**
 - **£1000, a grand.**
-- **A large number or [[a/_amount|amount]].**
+- **A large number or amount.**
 ---
 ### Synonyms
-- [[cup of tea]], [[thing]], [[dog]], [[hag]], [[handbag]], [[purse]], [[multiset]], [[poke]], [[sack]], [[tote]]
+- [[[[c/_cup|cup]] of tea]], [[thing]], [[[[d/_dog|dog]]]], [[hag]], [[handbag]], [[purse]], [[multiset]], [[poke]], [[sack]], [[tote]]
 #verb
-- **To put into a [[b/_bag|bag]].**
-- **To [[c/_catch|catch]] or kill, especially when fishing or hunting.**
+- **To put into a bag.**
+- **To catch or kill, especially when fishing or hunting.**
 	- _Example: We bagged three deer yesterday._
-- **To gain possession of something, or to make first [[c/_claim|claim]] on something.**
-- **To furnish or load with a [[b/_bag|bag]].**
-- **([[a/_african|African]] [[a/_american|American]] Vernacular) To [[b/_bring|bring]] a woman one met on the street with one.**
-- **([[a/_african|African]] [[a/_american|American]] Vernacular) To laugh uncontrollably.**
-- **To [[c/_criticise|criticise]] sarcastically.**
-- **To provide with [[a/_artificial|artificial]] ventilation via a [[b/_bag|bag]] valve mask (BVM) resuscitator.**
-- **To fit with a [[b/_bag|bag]] to [[c/_collect|collect]] urine.**
-- **To ([[c/_cause|cause]] to) swell or hang down like a full [[b/_bag|bag]].**
+- **To gain possession of something, or to make first claim on something.**
+- **To furnish or load with a bag.**
+- **(African American Vernacular) To bring a woman one met on the street with one.**
+- **(African American Vernacular) To laugh uncontrollably.**
+- **To criticise sarcastically.**
+- **To provide with artificial ventilation via a bag valve mask (BVM) resuscitator.**
+- **To fit with a bag to collect urine.**
+- **To (cause to) swell or hang down like a full bag.**
 	- _Example: The brisk wind bagged the sails._
-- **To hang like an empty [[b/_bag|bag]].**
+- **To hang like an empty bag.**
 	- _Example: His trousers bag at the knees._
-- **To drop [[a/_away|away]] from the [[c/_correct|correct]] [[c/_course|course]].**
-- **To swell with [[a/_arrogance|arrogance]].**
-- **To [[b/_become|become]] pregnant.**
+- **To drop away from the correct course.**
+- **To swell with arrogance.**
+- **To become pregnant.**
 ---
 ---

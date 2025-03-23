@@ -1,12 +1,12 @@
 # Catnapping
 ---
 #verb
-- **To take a [[c/_catnap|catnap]], to take a short sleep or nap.**
+- **To take a catnap, to take a short sleep or nap.**
 ---
 #verb
-- **To kidnap a [[c/_cat|cat]].**
+- **To kidnap a cat.**
 ---
 #noun
-- **The kidnapping or theft of a [[c/_cat|cat]].**
+- **The kidnapping or theft of a cat.**
 ---
 ---

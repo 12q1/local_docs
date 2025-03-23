@@ -1,7 +1,7 @@
 # Arcuate
 ---
 #adjective
-- **[[c/_curved|Curved]] into the shape of a [[b/_bow|bow]]**
+- **Curved into the shape of a bow**
 	- _Example: arcuate stalks_
 ---
 ---

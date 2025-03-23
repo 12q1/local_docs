@@ -1,13 +1,13 @@
 # Compliant
 ---
 #adjective
-- **Willing to [[c/_comply|comply]]; submissive; willing to do what someone wants.**
+- **Willing to comply; submissive; willing to do what someone wants.**
 	- _Example: Tendon is compliant compared to bone._
-- **[[c/_compatible|Compatible]] with or following guidelines, specifications, rules, or laws.**
+- **Compatible with or following guidelines, specifications, rules, or laws.**
 	- _Example: The browser is standards-compliant._
 ---
 ### Synonyms
-- [[bending]], [[pliant]], [[yielding]], [[conformant]]
+- [[[[b/_bending|bending]]]], [[pliant]], [[yielding]], [[[[c/_conformant|conformant]]]]
 ### Antonyms
-- [[non-compliant]], [[noncompliant]]
+- [[non-[[c/_compliant|compliant]]]], [[noncompliant]]
 ---

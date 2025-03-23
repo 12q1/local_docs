@@ -1,10 +1,10 @@
 # Coverts
 ---
 #noun
-- **A [[c/_covering|covering]].**
+- **A covering.**
 - **A disguise.**
 - **A hiding place.**
-- **[[a/_area|Area]] of thick undergrowth where [[a/_animals|animals]] hide.**
-- **A feather that [[c/_covers|covers]] the [[b/_bases|bases]] of flight feathers.**
+- **Area of thick undergrowth where animals hide.**
+- **A feather that covers the bases of flight feathers.**
 ---
 ---

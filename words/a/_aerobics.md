@@ -1,6 +1,6 @@
 # Aerobics
 ---
 #noun
-- **A form of exercise, [[d/_designed|designed]] to enhance one's [[c/_cardiovascular|cardiovascular]] fitness, normally performed to music.**
+- **A form of exercise, designed to enhance one's cardiovascular fitness, normally performed to music.**
 ---
 ---

@@ -1,14 +1,14 @@
 # Chirruping
 ---
 #verb
-- **To make a series of [[c/_chirps|chirps]], [[c/_clicks|clicks]] or [[c/_clucks|clucks]].**
-- **To express by [[c/_chirping|chirping]].**
+- **To make a series of chirps, clicks or clucks.**
+- **To express by chirping.**
 	- _Example: The crickets chirruped their song._
-- **To quicken or [[a/_animate|animate]] by [[c/_chirping|chirping]].**
+- **To quicken or animate by chirping.**
 	- _Example: to chirrup a horse_
 ---
 #noun
-- **The [[a/_act|act]] of producing a [[c/_chirrup|chirrup]] sound.**
+- **The act of producing a chirrup sound.**
 	- _Example: the chirrupings of birds_
 ---
 ---

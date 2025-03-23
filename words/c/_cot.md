@@ -1,10 +1,10 @@
 # Cot
 ---
 #noun
-- **A simple [[b/_bed|bed]], especially one for portable or temporary purposes.**
-- **A [[b/_bed|bed]] for infants or small [[c/_children|children]], with high, often slatted, often moveable sides.**
-- **A wooden [[b/_bed|bed]] frame, slung by its [[c/_corners|corners]] from a [[b/_beam|beam]], in which officers slept [[b/_before|before]] the introduction of [[b/_bunks|bunks]].**
+- **A simple bed, especially one for portable or temporary purposes.**
+- **A bed for infants or small children, with high, often slatted, often moveable sides.**
+- **A wooden bed frame, slung by its corners from a beam, in which officers slept before the introduction of bunks.**
 ---
 ### Synonyms
-- [[camp bed]], [[crib]]
+- [[[[c/_camp|camp]] [[b/_bed|bed]]]], [[[[c/_crib|crib]]]]
 ---

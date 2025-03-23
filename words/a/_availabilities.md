@@ -1,13 +1,13 @@
 # Availabilities
 ---
 #noun
-- **The quality of [[b/_being|being]] [[a/_available|available]].**
+- **The quality of being available.**
 	- _Example: What is your availability this week?_
-- **That which is [[a/_available|available]].**
+- **That which is available.**
 	- _Example: We have several availabilities._
 ---
 ### Synonyms
-- [[accessibility]], [[availableness]]
+- [[[[a/_accessibility|accessibility]]]], [[[[a/_availableness|availableness]]]]
 ### Antonyms
-- [[non-availability]], [[nonavailability]], [[unavailability]]
+- [[non-[[a/_availability|availability]]]], [[nonavailability]], [[unavailability]]
 ---

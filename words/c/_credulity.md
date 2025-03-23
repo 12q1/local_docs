@@ -1,7 +1,7 @@
 # Credulity
 ---
 #noun
-- **A willingness to [[b/_believe|believe]] in someone or something in the [[a/_absence|absence]] of reasonable proof; [[c/_credulousness|credulousness]].**
+- **A willingness to believe in someone or something in the absence of reasonable proof; credulousness.**
 ---
 ### Synonyms
 - [[gullibility]]

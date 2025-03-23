@@ -1,18 +1,18 @@
 # Crocked
 ---
 #verb
-- **To [[b/_break|break]] something or injure someone.**
-- **(leatherworking) To transfer [[c/_coloring|coloring]] through [[a/_abrasion|abrasion]] from one item to [[a/_another|another]].**
-- **To [[c/_cover|cover]] the drain holes of a planter with stones or similar material, in order to ensure proper drainage.**
-- **To put or store (something) in a [[c/_crock|crock]] or pot.**
+- **To break something or injure someone.**
+- **(leatherworking) To transfer coloring through abrasion from one item to another.**
+- **To cover the drain holes of a planter with stones or similar material, in order to ensure proper drainage.**
+- **To put or store (something) in a crock or pot.**
 ---
 #verb
-- **To give off [[c/_crock|crock]] or smut.**
+- **To give off crock or smut.**
 ---
 #adjective
 - **Injured (of a person)**
-- **[[b/_broken|Broken]] (of a thing)**
+- **Broken (of a thing)**
 ---
 ### Synonyms
-- [[busted]], [[inoperative]], [[knackered]], [[hurt]], [[imbrued]], [[injured]]
+- [[[[b/_busted|busted]]]], [[inoperative]], [[knackered]], [[hurt]], [[imbrued]], [[injured]]
 ---

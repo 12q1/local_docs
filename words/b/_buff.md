@@ -1,34 +1,34 @@
 # Buff
 ---
 #noun
-- **Undyed leather from the skin of [[b/_buffalo|buffalo]] or similar [[a/_animals|animals]].**
-- **A tool, often one [[c/_covered|covered]] with [[b/_buff|buff]] leather, used for polishing.**
-- **A [[b/_brownish|brownish]] yellow [[c/_colour|colour]].**
-- **A military [[c/_coat|coat]] made of [[b/_buff|buff]] leather.**
+- **Undyed leather from the skin of buffalo or similar animals.**
+- **A tool, often one covered with buff leather, used for polishing.**
+- **A brownish yellow colour.**
+- **A military coat made of buff leather.**
 - **A person who is very interested in a particular subject; an enthusiast.**
-- **An effect that makes a [[c/_character|character]] or item stronger.**
+- **An effect that makes a character or item stronger.**
 	- _Example: I just picked up an epic damage buff! Let's go gank the other team!_
-- **[[c/_compressive|Compressive]] [[c/_coupler|coupler]] force that occurs during a slack [[b/_bunched|bunched]] [[c/_condition|condition]].**
-- **The [[b/_bare|bare]] skin.**
+- **Compressive coupler force that occurs during a slack bunched condition.**
+- **The bare skin.**
 	- _Example: to strip to the buff_
-- **The greyish viscid substance [[c/_constituting|constituting]] the [[b/_buffy|buffy]] [[c/_coat|coat]].**
+- **The greyish viscid substance constituting the buffy coat.**
 - **A substance used to dilute (street) drugs in order to increase profits.**
 ---
 ### Synonyms
-- [[aficionado]], [[revamp]]
+- [[[[a/_aficionado|aficionado]]]], [[revamp]]
 ### Antonyms
 - [[debuff]], [[nerf]]
 #verb
 - **To polish and make shiny by rubbing.**
 	- _Example: He was already buffing the car's hubs._
-- **To make a [[c/_character|character]] or an item stronger.**
+- **To make a character or an item stronger.**
 	- _Example: I noticed that the pistols were buffed in the update._
-- **To modify a medical [[c/_chart|chart]], especially in a dishonest manner.**
+- **To modify a medical chart, especially in a dishonest manner.**
 ---
 #adjective
-- **Of the [[c/_color|color]] of [[b/_buff|buff]] leather, a [[b/_brownish|brownish]] yellow.**
-- **Unusually muscular. ([[a/_also|also]] [[b/_buffed|buffed]] or [[b/_buffed|buffed]] out)**
+- **Of the color of buff leather, a brownish yellow.**
+- **Unusually muscular. (also buffed or buffed out)**
 	- _Example: The bouncer was a big, buff dude with tattoos, a shaved head, and a serious scowl._
-- **Physically [[a/_attractive|attractive]].**
+- **Physically attractive.**
 ---
 ---

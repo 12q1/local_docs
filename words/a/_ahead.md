@@ -1,7 +1,7 @@
 # Ahead
 ---
 #adverb
-- **In or to the front; in [[a/_advance|advance]]; onward.**
+- **In or to the front; in advance; onward.**
 - **In the direction one is facing or moving.**
 	- _Example: Just ahead you can see the cliffs._
 - **In or for the future.**
@@ -12,5 +12,5 @@
 	- _Example: In all of his classes Jack was ahead._
 ---
 ### Antonyms
-- [[astern]], [[behind]]
+- [[[[a/_astern|astern]]]], [[[[b/_behind|behind]]]]
 ---

@@ -1,6 +1,6 @@
 # Aerates
 ---
 #verb
-- **To supply with oxygen or [[a/_air|air]].**
+- **To supply with oxygen or air.**
 ---
 ---

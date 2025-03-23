@@ -1,15 +1,15 @@
 # Breading
 ---
 #verb
-- **To [[c/_coat|coat]] with breadcrumbs**
+- **To coat with breadcrumbs**
 ---
 #verb
-- **To make [[b/_broad|broad]]; spread.**
+- **To make broad; spread.**
 ---
 #verb
 - **To form in meshes; net.**
 ---
 #noun
-- **The [[c/_coating|coating]] of a thin slice of meat in flour, egg and breadcrumbs prior to frying**
+- **The coating of a thin slice of meat in flour, egg and breadcrumbs prior to frying**
 ---
 ---

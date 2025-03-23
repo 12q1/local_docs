@@ -1,10 +1,10 @@
 # Carnage
 ---
 #noun
-- **[[d/_death|Death]] and [[d/_destruction|destruction]].**
-- **The [[c/_corpses|corpses]], gore, etc. that remain [[a/_after|after]] a massacre.**
-- **[[a/_any|Any]] [[c/_chaotic|chaotic]] situation.**
+- **Death and destruction.**
+- **The corpses, gore, etc. that remain after a massacre.**
+- **Any chaotic situation.**
 ---
 ### Synonyms
-- [[bloodbath]], [[massacre]], [[insurrectionism]]
+- [[[[b/_bloodbath|bloodbath]]]], [[massacre]], [[insurrectionism]]
 ---

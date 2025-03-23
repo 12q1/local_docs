@@ -1,16 +1,16 @@
 # Alpinist
 ---
 #noun
-- **A skier who specializes in [[a/_alpine|alpine]] skiing (the disciplines of super-G, giant slalom, slalom, downhill)**
+- **A skier who specializes in alpine skiing (the disciplines of super-G, giant slalom, slalom, downhill)**
 ---
 ### Synonyms
-- [[alpinist]]
+- [[[[a/_alpinist|alpinist]]]]
 #noun
-- **(sometimes [[c/_capitalized|capitalized]]) A mountain [[c/_climber|climber]], especially in the European [[a/_alps|Alps]] or in ranges of similar ruggedness and elevation.**
-- **(sometimes [[c/_capitalized|capitalized]]) A downhill skier who practises the sport on high mountains.**
+- **(sometimes capitalized) A mountain climber, especially in the European Alps or in ranges of similar ruggedness and elevation.**
+- **(sometimes capitalized) A downhill skier who practises the sport on high mountains.**
 ---
 #adjective
-- **Of or pertaining to [[a/_alpinism|alpinism]].**
-- **Pertaining to [[a/_alpine|alpine]] skiing or downhill skiing.**
+- **Of or pertaining to alpinism.**
+- **Pertaining to alpine skiing or downhill skiing.**
 ---
 ---

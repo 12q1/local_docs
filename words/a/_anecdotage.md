@@ -1,6 +1,6 @@
 # Anecdotage
 ---
 #noun
-- **[[a/_anecdotes|Anecdotes]] [[c/_considered|considered]] as a group**
+- **Anecdotes considered as a group**
 ---
 ---

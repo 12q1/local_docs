@@ -1,12 +1,12 @@
 # Bootstrapped
 ---
 #verb
-- **To help (oneself) without the [[a/_aid|aid]] of others.**
+- **To help (oneself) without the aid of others.**
 	- _Example: Sam spent years bootstrapping himself through college._
-- **To load the operating system into the memory of a [[c/_computer|computer]]. Usually shortened to [[b/_boot|boot]].**
-- **To [[c/_compile|compile]] the tools that will be used to [[c/_compile|compile]] the rest of the system or program.**
+- **To load the operating system into the memory of a computer. Usually shortened to boot.**
+- **To compile the tools that will be used to compile the rest of the system or program.**
 	- _Example: Bootstrapping means building the GNU C Library, GNU Compiler Collection and several other key system programs.http//www.gentoo.org/doc/en/handbook/handbook-x86.xml?part=1&chap=6_
-- **To employ a [[b/_bootstrap|bootstrap]] method.**
-- **To expand or [[a/_advance|advance]] an [[a/_activity|activity]] or a [[c/_collection|collection]] [[b/_based|based]] solely on previous [[a/_actions|actions]], work, findings, etc.**
+- **To employ a bootstrap method.**
+- **To expand or advance an activity or a collection based solely on previous actions, work, findings, etc.**
 ---
 ---

@@ -1,36 +1,36 @@
 # Bums
 ---
 #noun
-- **The [[b/_buttocks|buttocks]].**
+- **The buttocks.**
 	- _Example: Okay, everyone sit on your bum and try and touch your toes._
-- **The [[a/_anus|anus]].**
+- **The anus.**
 ---
 ### Synonyms
-- [[arse]], [[ass]], [[backside]], [[behind]], [[bottom]], [[butt]], [[fanny]], [[heinie]], [[tush]], [[tushie]]
+- [[[[a/_arse|arse]]]], [[[[a/_ass|ass]]]], [[[[b/_backside|backside]]]], [[[[b/_behind|behind]]]], [[[[b/_bottom|bottom]]]], [[[[b/_butt|butt]]]], [[fanny]], [[heinie]], [[tush]], [[tushie]]
 #verb
-- **To sodomize; to engage in [[a/_anal|anal]] sex.**
+- **To sodomize; to engage in anal sex.**
 ---
 #noun
-- **(sometimes [[d/_derogatory|derogatory]]) A homeless person, usually a man.**
-- **A lazy, incompetent, or [[a/_annoying|annoying]] person, usually a man.**
+- **(sometimes derogatory) A homeless person, usually a man.**
+- **A lazy, incompetent, or annoying person, usually a man.**
 	- _Example: Fred is becoming a bum - he's not even bothering to work more than once a month._
 - **A player or racer who often performs poorly.**
 	- _Example: Trade him to another team, he's a bum!_
 - **A drinking spree.**
 ---
 ### Synonyms
-- [[bender]], [[binge]], [[hobo]], [[homeless]], [[tramp]], [[vagabond]], [[vagrant]], [[wanderer]], [[bumpkin]], [[footler]], [[idler]], [[layabout]], [[loafer]], [[lout]], [[yob]], [[yobbo]]
+- [[[[b/_bender|bender]]]], [[[[b/_binge|binge]]]], [[hobo]], [[homeless]], [[tramp]], [[vagabond]], [[vagrant]], [[wanderer]], [[[[b/_bumpkin|bumpkin]]]], [[footler]], [[idler]], [[layabout]], [[loafer]], [[lout]], [[yob]], [[yobbo]]
 #verb
-- **To [[a/_ask|ask]] someone to give one (something) for free; to [[b/_beg|beg]] for something.**
+- **To ask someone to give one (something) for free; to beg for something.**
 	- _Example: Can I bum a cigarette off you?_
 - **To stay idle and unproductive, like a hobo or vagabond; to loiter.**
 	- _Example: I think I'll just bum around downtown for awhile until dinner._
-- **To wet the end of a marijuana [[c/_cigarette|cigarette]] (spliff).**
+- **To wet the end of a marijuana cigarette (spliff).**
 ---
 ### Synonyms
-- [[cadge]]
+- [[[[c/_cadge|cadge]]]]
 #verb
-- **To [[d/_depress|depress]]; to make unhappy.**
+- **To depress; to make unhappy.**
 ---
 #noun
 - **A humming noise.**
@@ -39,6 +39,6 @@
 - **To make a murmuring or humming sound.**
 ---
 #noun
-- **A [[b/_bumbailiff|bumbailiff]].**
+- **A bumbailiff.**
 ---
 ---

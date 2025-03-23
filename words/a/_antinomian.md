@@ -1,10 +1,10 @@
 # Antinomian
 ---
 #noun
-- **One who embraces [[a/_antinomianism|antinomianism]].**
+- **One who embraces antinomianism.**
 ---
 #adjective
-- **Of or pertaining to [[a/_antinomianism|antinomianism]].**
-- **Rejecting moral [[a/_authority|authority]].**
+- **Of or pertaining to antinomianism.**
+- **Rejecting moral authority.**
 ---
 ---

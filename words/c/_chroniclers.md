@@ -1,8 +1,8 @@
 # Chroniclers
 ---
 #noun
-- **A person who writes a [[c/_chronicle|chronicle]] or [[c/_chronicles|chronicles]].**
+- **A person who writes a chronicle or chronicles.**
 ---
 ### Synonyms
-- [[chronist]]
+- [[[[c/_chronist|chronist]]]]
 ---

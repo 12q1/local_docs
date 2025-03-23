@@ -1,7 +1,7 @@
 # Choreographer
 ---
 #noun
-- **A person who [[c/_choreographs|choreographs]].**
+- **A person who choreographs.**
 ---
 ### Synonyms
 - [[choreographist]]

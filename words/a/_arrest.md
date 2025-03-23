@@ -1,24 +1,24 @@
 # Arrest
 ---
 #noun
-- **A [[c/_check|check]], stop, an [[a/_act|act]] or instance of [[a/_arresting|arresting]] something.**
-- **The [[c/_condition|condition]] of [[b/_being|being]] stopped, standstill.**
-- **The process of [[a/_arresting|arresting]] a [[c/_criminal|criminal]], suspect etc.**
-- **A [[c/_confinement|confinement]], [[d/_detention|detention]], as [[a/_after|after]] an [[a/_arrest|arrest]].**
-- **A device to physically [[a/_arrest|arrest]] motion.**
-- **The judicial [[d/_detention|detention]] of a ship to secure a financial [[c/_claim|claim]] [[a/_against|against]] its operators.**
-- **[[a/_any|Any]] seizure by power, physical or otherwise.**
-- **A scurfiness of the [[b/_back|back]] part of the hind leg of a horse.**
+- **A check, stop, an act or instance of arresting something.**
+- **The condition of being stopped, standstill.**
+- **The process of arresting a criminal, suspect etc.**
+- **A confinement, detention, as after an arrest.**
+- **A device to physically arrest motion.**
+- **The judicial detention of a ship to secure a financial claim against its operators.**
+- **Any seizure by power, physical or otherwise.**
+- **A scurfiness of the back part of the hind leg of a horse.**
 ---
 #verb
-- **To stop the motion of (a person or [[a/_animal|animal]]).**
+- **To stop the motion of (a person or animal).**
 - **To stay, remain.**
-- **To stop or slow (a process, [[c/_course|course]] etc.).**
-- **To seize (someone) with the [[a/_authority|authority]] of the law; to take into legal [[c/_custody|custody]].**
+- **To stop or slow (a process, course etc.).**
+- **To seize (someone) with the authority of the law; to take into legal custody.**
 	- _Example: The police have arrested a suspect in the murder inquiry._
-- **To [[c/_catch|catch]] the [[a/_attention|attention]] of.**
-- **To undergo [[c/_cardiac|cardiac]] [[a/_arrest|arrest]].**
+- **To catch the attention of.**
+- **To undergo cardiac arrest.**
 ---
 ### Synonyms
-- [[attract]], [[dazzle]], [[engage]], [[entice]], [[apprehend]], [[seize]], [[cease]], [[discontinue]], [[freeze]], [[halt]]
+- [[[[a/_attract|attract]]]], [[[[d/_dazzle|dazzle]]]], [[engage]], [[entice]], [[[[a/_apprehend|apprehend]]]], [[seize]], [[[[c/_cease|cease]]]], [[[[d/_discontinue|discontinue]]]], [[freeze]], [[halt]]
 ---

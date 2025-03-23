@@ -1,9 +1,9 @@
 # Contraption
 ---
 #noun
-- **A machine that is [[c/_complicated|complicated]] and precarious.**
-- **[[a/_any|Any]] object.**
+- **A machine that is complicated and precarious.**
+- **Any object.**
 ---
 ### Synonyms
-- [[construction]], [[contrivance]], [[device]], [[fandango]], [[gadget]], [[mechanism]]
+- [[[[c/_construction|construction]]]], [[[[c/_contrivance|contrivance]]]], [[[[d/_device|device]]]], [[fandango]], [[gadget]], [[mechanism]]
 ---

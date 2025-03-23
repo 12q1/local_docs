@@ -1,12 +1,12 @@
 # Craw
 ---
 #noun
-- **The stomach of an [[a/_animal|animal]].**
-- **The [[c/_crop|crop]] of a [[b/_bird|bird]].**
+- **The stomach of an animal.**
+- **The crop of a bird.**
 ---
 ### Synonyms
-- [[crop]], [[gullet]]
+- [[[[c/_crop|crop]]]], [[gullet]]
 #verb
-- **To [[c/_caw|caw]], [[c/_crow|crow]].**
+- **To caw, crow.**
 ---
 ---

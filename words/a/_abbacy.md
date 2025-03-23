@@ -1,8 +1,8 @@
 # Abbacy
 ---
 #noun
-- **The dignity, estate, term, or jurisdiction of an [[a/_abbot|abbot]] or [[a/_abbess|abbess]].**
+- **The dignity, estate, term, or jurisdiction of an abbot or abbess.**
 ---
 ### Synonyms
-- [[abbotric (obsolete)]], [[abbotrick (obsolete)]]
+- [[[[a/_abbotric|abbotric]] (obsolete)]], [[abbotrick (obsolete)]]
 ---

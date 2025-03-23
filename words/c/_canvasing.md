@@ -1,10 +1,10 @@
 # Canvasing
 ---
 #verb
-- **To [[c/_cover|cover]] an [[a/_area|area]] or object with [[c/_canvas|canvas]].**
-- **[[a/_alternative|Alternative]] spelling of [[c/_canvass|canvass]].**
+- **To cover an area or object with canvas.**
+- **Alternative spelling of canvass.**
 ---
 #noun
-- **The [[a/_act|act]] of one who [[c/_canvases|canvases]] or solicits.**
+- **The act of one who canvases or solicits.**
 ---
 ---

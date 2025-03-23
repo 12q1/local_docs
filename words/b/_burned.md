@@ -1,43 +1,43 @@
 # Burned
 ---
 #verb
-- **To [[c/_cause|cause]] to be [[c/_consumed|consumed]] by fire.**
+- **To cause to be consumed by fire.**
 	- _Example: He burned his manuscript in the fireplace._
-- **To be [[c/_consumed|consumed]] by fire, or in flames.**
+- **To be consumed by fire, or in flames.**
 	- _Example: He watched the house burn._
 - **To overheat so as to make unusable.**
 	- _Example: He burned the toast. The blacksmith burned the steel._
-- **To [[b/_become|become]] overheated to the point of [[b/_being|being]] unusable.**
+- **To become overheated to the point of being unusable.**
 	- _Example: The grill was too hot and the steak burned._
-- **To make or produce by the [[a/_application|application]] of fire or [[b/_burning|burning]] heat.**
+- **To make or produce by the application of fire or burning heat.**
 	- _Example: to burn a hole;  to burn letters into a block_
-- **To injure (a person or [[a/_animal|animal]]) with heat or [[c/_chemicals|chemicals]] that produce similar [[d/_damage|damage]].**
+- **To injure (a person or animal) with heat or chemicals that produce similar damage.**
 	- _Example: She burned the child with an iron, and was jailed for ten years._
-- **To [[c/_cauterize|cauterize]].**
+- **To cauterize.**
 - **To sunburn.**
 	- _Example: She forgot to put on sunscreen and burned._
-- **To [[c/_consume|consume]], injure, or [[c/_change|change]] the [[c/_condition|condition]] of, as if by [[a/_action|action]] of fire or heat; to [[a/_affect|affect]] as fire or heat does.**
+- **To consume, injure, or change the condition of, as if by action of fire or heat; to affect as fire or heat does.**
 	- _Example: to burn the mouth with pepper_
 - **To be hot, e.g. due to embarrassment.**
 	- _Example: The child's forehead was burning with fever.  Her cheeks burned with shame._
-- **To [[c/_cause|cause]] to [[c/_combine|combine]] with oxygen or other [[a/_active|active]] [[a/_agent|agent]], with evolution of heat; to [[c/_consume|consume]]; to oxidize.**
+- **To cause to combine with oxygen or other active agent, with evolution of heat; to consume; to oxidize.**
 	- _Example: A human being burns a certain amount of carbon at each respiration.  to burn iron in oxygen_
-- **To [[c/_combine|combine]] energetically, with evolution of heat.**
+- **To combine energetically, with evolution of heat.**
 	- _Example: Copper burns in chlorine._
-- **To write [[d/_data|data]] to a permanent storage medium like a [[c/_compact|compact]] disc or a ROM [[c/_chip|chip]].**
+- **To write data to a permanent storage medium like a compact disc or a ROM chip.**
 	- _Example: We’ll burn this program onto an EEPROM one hour before the demo begins._
-- **To [[b/_betray|betray]].**
+- **To betray.**
 	- _Example: The informant burned him._
-- **To insult or [[d/_defeat|defeat]].**
+- **To insult or defeat.**
 	- _Example: I just burned you again._
 - **To waste (time); to waste money or other resources.**
 	- _Example: The company has burned more than a million dollars a month this year._
-- **In [[c/_certain|certain]] games, to [[a/_approach|approach]] near to a [[c/_concealed|concealed]] object which is sought.**
+- **In certain games, to approach near to a concealed object which is sought.**
 	- _Example: You're cold... warm... hot... you're burning!_
-- **To [[a/_accidentally|accidentally]] touch a moving stone.**
-- **In pontoon, to swap a pair of [[c/_cards|cards]] for [[a/_another|another]] pair, or to [[d/_deal|deal]] a [[d/_dead|dead]] [[c/_card|card]].**
-- **To increase the exposure for [[c/_certain|certain]] [[a/_areas|areas]] of a print in order to make them lighter ([[c/_compare|compare]] dodge).**
-- **(of an element) To be [[c/_converted|converted]] to [[a/_another|another]] element in a nuclear fusion reaction, especially in a star**
+- **To accidentally touch a moving stone.**
+- **In pontoon, to swap a pair of cards for another pair, or to deal a dead card.**
+- **To increase the exposure for certain areas of a print in order to make them lighter (compare dodge).**
+- **(of an element) To be converted to another element in a nuclear fusion reaction, especially in a star**
 - **To discard.**
 - **To shoot someone with a firearm.**
 ---

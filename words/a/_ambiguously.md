@@ -1,6 +1,6 @@
 # Ambiguously
 ---
 #adverb
-- **In an [[a/_ambiguous|ambiguous]] manner.**
+- **In an ambiguous manner.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Calmative
 ---
 #noun
-- **A drug with [[c/_calming|calming]] effects.**
+- **A drug with calming effects.**
 ---
 #adjective
-- **[[c/_calming|Calming]].**
+- **Calming.**
 ---
 ---

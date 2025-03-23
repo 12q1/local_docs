@@ -1,7 +1,7 @@
 # Curriculums
 ---
 #noun
-- **The set of [[c/_courses|courses]], coursework, and their [[c/_content|content]], offered at a school or university.**
+- **The set of courses, coursework, and their content, offered at a school or university.**
 - **A racecourse; a place for running.**
 ---
 ---

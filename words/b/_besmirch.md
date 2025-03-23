@@ -6,5 +6,5 @@
 	- _Example: The newspaper was on a campaign to besmirch the actor._
 ---
 ### Synonyms
-- [[debase]], [[slander]], [[smear]], [[soil]]
+- [[[[d/_debase|debase]]]], [[slander]], [[smear]], [[soil]]
 ---

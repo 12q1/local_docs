@@ -5,7 +5,7 @@
 	- _Example: Washing dishes is a chore, but we cannot just stop eating._
 ---
 #verb
-- **To do [[c/_chores|chores]].**
+- **To do chores.**
 ---
 #verb
 - **To steal.**
@@ -13,6 +13,6 @@
 ### Synonyms
 - [[steal]], [[thieve]], [[twoc]]
 #noun
-- **A [[c/_choir|choir]] or [[c/_chorus|chorus]].**
+- **A choir or chorus.**
 ---
 ---

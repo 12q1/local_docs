@@ -1,9 +1,9 @@
 # Approbate
 ---
 #verb
-- **To give official sanction, [[c/_consent|consent]] or [[a/_authorization|authorization]] to.**
+- **To give official sanction, consent or authorization to.**
 ---
 #adjective
-- **[[a/_approved|Approved]]**
+- **Approved**
 ---
 ---

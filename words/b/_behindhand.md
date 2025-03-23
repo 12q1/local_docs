@@ -1,16 +1,16 @@
 # Behindhand
 ---
 #adjective
-- **(of a person) Late, tardy, overdue, [[b/_behind|behind]] (in [[a/_accomplishing|accomplishing]] a task, etc.).**
-- **(of a task or the object of a task) Not at the expected point of [[c/_completion|completion]].**
-- **[[b/_behind|Behind]] (someone or something moving, a trend, etc.), lagging [[b/_behind|behind]], not keeping up.**
-- **[[b/_behind|Behind]] in paying a [[d/_debt|debt]]; in [[a/_arrears|arrears]].**
+- **(of a person) Late, tardy, overdue, behind (in accomplishing a task, etc.).**
+- **(of a task or the object of a task) Not at the expected point of completion.**
+- **Behind (someone or something moving, a trend, etc.), lagging behind, not keeping up.**
+- **Behind in paying a debt; in arrears.**
 - **Not having enough of, lacking (in something).**
-- **Inferior, less [[a/_advanced|advanced]] ([[c/_compared|compared]] with someone in something).**
+- **Inferior, less advanced (compared with someone in something).**
 ---
 #adverb
-- **[[b/_belatedly|Belatedly]], tardily.**
-- **In [[d/_debt|debt]], or in [[a/_arrears|arrears]].**
+- **Belatedly, tardily.**
+- **In debt, or in arrears.**
 ---
 ### Synonyms
 - [[late]]

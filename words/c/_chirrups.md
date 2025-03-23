@@ -1,6 +1,6 @@
 # Chirrups
 ---
 #noun
-- **A series of [[c/_chirps|chirps]], [[c/_clicks|clicks]] or [[c/_clucks|clucks]].**
+- **A series of chirps, clicks or clucks.**
 ---
 ---

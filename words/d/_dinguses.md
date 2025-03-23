@@ -1,0 +1,11 @@
+# Dinguses
+---
+#noun
+- **A gadget, device, or object whose name is either unknown, forgotten, or omitted for the purpose of humor.**
+- **A fool or incompetent person.**
+	- _Example: I just lost my keys again. Now I feel like a dingus._
+- **Penis**
+---
+### Synonyms
+- [[[[d/_dink|dink]]]], [[doofus]], [[thingamajig]]
+---

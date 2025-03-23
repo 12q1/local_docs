@@ -1,6 +1,6 @@
 # Capris
 ---
 #noun
-- **[[c/_capri|Capri]] pants**
+- **Capri pants**
 ---
 ---

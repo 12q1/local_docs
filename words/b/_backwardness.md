@@ -1,7 +1,7 @@
 # Backwardness
 ---
 #noun
-- **The state of [[b/_being|being]] [[b/_backward|backward]].**
+- **The state of being backward.**
 - **Reluctance.**
 ---
 ---

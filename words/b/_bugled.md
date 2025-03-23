@@ -1,12 +1,12 @@
 # Bugled
 ---
 #verb
-- **To [[a/_announce|announce]], sing, or [[c/_cry|cry]] in the manner of a musical [[b/_bugle|bugle]]**
+- **To announce, sing, or cry in the manner of a musical bugle**
 ---
 ### Synonyms
 - [[trumpet]]
 #adjective
-- **Ornamented with [[b/_bugles|bugles]].**
-- **Played by a [[b/_bugle|bugle]].**
+- **Ornamented with bugles.**
+- **Played by a bugle.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Bedrolls
 ---
 #noun
-- **A roll of [[b/_bedding|bedding]] that [[c/_can|can]] be [[c/_carried|carried]] when hiking or [[c/_camping|camping]] etc.**
+- **A roll of bedding that can be carried when hiking or camping etc.**
 ---
 ### Synonyms
-- [[sleeping bag]]
+- [[sleeping [[b/_bag|bag]]]]
 ---

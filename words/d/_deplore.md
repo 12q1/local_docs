@@ -1,12 +1,12 @@
 # Deplore
 ---
 #verb
-- **To [[b/_bewail|bewail]]; to weep [[b/_bitterly|bitterly]] over; to feel sorrow for.**
+- **To bewail; to weep bitterly over; to feel sorrow for.**
 	- _Example: I deplore my neighbour for having lost his job._
-- **To [[c/_condemn|condemn]]; to express strong disapproval of.**
+- **To condemn; to express strong disapproval of.**
 	- _Example: I deplore how you treated him at the party._
 - **To regard as hopeless; to give up.**
 ---
 ### Synonyms
-- [[bewail]], [[condemn]]
+- [[[[b/_bewail|bewail]]]], [[[[c/_condemn|condemn]]]]
 ---

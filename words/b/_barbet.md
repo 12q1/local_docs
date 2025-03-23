@@ -1,10 +1,10 @@
 # Barbet
 ---
 #noun
-- **[[a/_any|Any]] of numerous [[a/_arboreal|arboreal]] [[b/_birds|birds]] of the families [[c/_capitonidae|Capitonidae]], Lybiidae, and Megalaimidae, within the order Piciformes.**
-- **A dog of a small-[[b/_bodied|bodied]] [[b/_breed|breed]] with long [[c/_curly|curly]] hair.**
-- **A larva that feeds on [[a/_aphids|aphids]].**
+- **Any of numerous arboreal birds of the families Capitonidae, Lybiidae, and Megalaimidae, within the order Piciformes.**
+- **A dog of a small-bodied breed with long curly hair.**
+- **A larva that feeds on aphids.**
 ---
 ### Synonyms
-- [[French Water Dog]]
+- [[French Water [[d/_dog|Dog]]]]
 ---

@@ -1,11 +1,11 @@
 # Backbites
 ---
 #noun
-- **One who engages in [[b/_backbiting|backbiting]]; a [[b/_backbiter|backbiter]].**
+- **One who engages in backbiting; a backbiter.**
 ---
 #verb
-- **To make spiteful slanderous or [[d/_defamatory|defamatory]] statements [[a/_about|about]] someone.**
-- **To [[a/_attack|attack]] from [[b/_behind|behind]] or when out of earshot with spiteful or [[d/_defamatory|defamatory]] remarks.**
-- **To speak [[b/_badly|badly]] of an [[a/_absent|absent]] individual.**
+- **To make spiteful slanderous or defamatory statements about someone.**
+- **To attack from behind or when out of earshot with spiteful or defamatory remarks.**
+- **To speak badly of an absent individual.**
 ---
 ---

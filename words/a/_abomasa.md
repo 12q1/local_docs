@@ -1,8 +1,8 @@
 # Abomasa
 ---
 #noun
-- **The fourth or digestive [[c/_compartment|compartment]] of the stomach of a [[c/_cow|cow]] or other ruminant, [[a/_after|after]] the omasum.**
+- **The fourth or digestive compartment of the stomach of a cow or other ruminant, after the omasum.**
 ---
 ### Synonyms
-- [[rennet bag]], [[rennet stomach]]
+- [[rennet [[b/_bag|bag]]]], [[rennet stomach]]
 ---

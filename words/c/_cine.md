@@ -1,7 +1,7 @@
 # Cine
 ---
 #noun
-- **[[c/_cinefilm|Cinefilm]]**
+- **Cinefilm**
 	- _Example: a cine camera_
 - **Images of the heart taken by fluoroscopy.**
 ---

@@ -1,17 +1,17 @@
 # Cherries
 ---
 #noun
-- **([[b/_british|British]]) A rail-gap indicator**
+- **(British) A rail-gap indicator**
 ---
 #noun
-- **A small fruit, usually red, [[b/_black|black]] or yellow, with a smooth hard seed and a short hard stem.**
-- **Prunus subg. [[c/_cerasus|Cerasus]], trees or shrubs that [[b/_bear|bear]] [[c/_cherries|cherries]].**
-- **The wood of a [[c/_cherry|cherry]] tree.**
-- **([[c/_color|color]]) [[c/_cherry|Cherry]] red.**
+- **A small fruit, usually red, black or yellow, with a smooth hard seed and a short hard stem.**
+- **Prunus subg. Cerasus, trees or shrubs that bear cherries.**
+- **The wood of a cherry tree.**
+- **(color) Cherry red.**
 - **Virginity, especially female virginity as embodied by a hymen.**
-- **A subtree [[c/_consisting|consisting]] of a node with exactly two leaves.**
-- **A [[c/_cricket|cricket]] [[b/_ball|ball]].**
+- **A subtree consisting of a node with exactly two leaves.**
+- **A cricket ball.**
 - **Cherrytop.**
-- **[[b/_burning|Burning]] tip of a [[c/_cigarette|cigarette]].**
+- **Burning tip of a cigarette.**
 ---
 ---

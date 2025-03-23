@@ -1,11 +1,11 @@
 # Bestial
 ---
 #noun
-- **[[c/_cattle|Cattle]].**
+- **Cattle.**
 ---
 #adjective
-- **[[b/_beast|Beast]]-like**
+- **Beast-like**
 ---
 ### Synonyms
-- [[animalian]], [[beastly]]
+- [[[[a/_animalian|animalian]]]], [[[[b/_beastly|beastly]]]]
 ---

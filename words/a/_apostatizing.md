@@ -1,6 +1,6 @@
 # Apostatizing
 ---
 #verb
-- **To give up or renounce one's position or [[b/_belief|belief]].**
+- **To give up or renounce one's position or belief.**
 ---
 ---

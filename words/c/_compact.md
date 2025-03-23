@@ -1,8 +1,8 @@
 # Compact
 ---
 #noun
-- **An [[a/_agreement|agreement]] or [[c/_contract|contract]].**
+- **An agreement or contract.**
 ---
 ### Synonyms
-- [[agreement]], [[contract]], [[pact]], [[treaty]]
+- [[[[a/_agreement|agreement]]]], [[[[c/_contract|contract]]]], [[pact]], [[treaty]]
 ---

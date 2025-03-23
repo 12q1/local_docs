@@ -1,11 +1,11 @@
 # Copier
 ---
 #noun
-- **A machine that [[c/_copies|copies]] graphical material; a duplicator.**
-- **A person who [[c/_copies|copies]] documents.**
-- **A program or process that [[c/_copies|copies]].**
+- **A machine that copies graphical material; a duplicator.**
+- **A person who copies documents.**
+- **A program or process that copies.**
 	- _Example: a file copier; a disk copier_
 ---
 ### Synonyms
-- [[copy machine]], [[duplicator]], [[xerox]], [[xerox machine]], [[xeroxer]], [[copyist]], [[xeroxer]]
+- [[[[c/_copy|copy]] machine]], [[[[d/_duplicator|duplicator]]]], [[xerox]], [[xerox machine]], [[xeroxer]], [[[[c/_copyist|copyist]]]], [[xeroxer]]
 ---

@@ -1,9 +1,9 @@
 # Artifactual
 ---
 #adjective
-- **Of or pertaining to [[a/_artifact|artifact]].**
-- **Resembling an [[a/_artifact|artifact]].**
+- **Of or pertaining to artifact.**
+- **Resembling an artifact.**
 ---
 ### Synonyms
-- [[artifactitious]]
+- [[[[a/_artifactitious|artifactitious]]]]
 ---

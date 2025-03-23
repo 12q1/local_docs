@@ -1,6 +1,6 @@
 # Desegregation
 ---
 #noun
-- **The [[a/_act|act]] or process of eliminating segregation.**
+- **The act or process of eliminating segregation.**
 ---
 ---

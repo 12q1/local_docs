@@ -1,0 +1,6 @@
+# Disseminations
+---
+#noun
+- **The act of disseminating, or the state of being disseminated; diffusion for propagation and permanence; a scattering or spreading abroad, as of ideas, beliefs, etc.**
+---
+---

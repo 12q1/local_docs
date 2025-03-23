@@ -1,23 +1,23 @@
 # Buns
 ---
 #noun
-- **A small [[b/_bread|bread]] roll, often sweetened or spiced.**
-- **A tight roll of hair worn at the [[b/_back|back]] of the head.**
-- **A [[c/_cupcake|cupcake]].**
+- **A small bread roll, often sweetened or spiced.**
+- **A tight roll of hair worn at the back of the head.**
+- **A cupcake.**
 - **A drunken spree.**
 - **A newbie.**
-- **([[c/_chiefly|chiefly]] in the plural) A [[b/_buttock|buttock]].**
+- **(chiefly in the plural) A buttock.**
 - **Vagina**
 ---
 ### Synonyms
-- [[French roll]], [[hair bun]], [[cake]]
+- [[French roll]], [[hair [[b/_bun|bun]]]], [[[[c/_cake|cake]]]]
 #noun
 - **A rabbit or sometimes a squirrel.**
 ---
 #noun
-- **Marijuana [[c/_cigarette|cigarette]], joint**
+- **Marijuana cigarette, joint**
 ---
 #noun
-- **A Korean unit of length equivalent to [[a/_about|about]] 0.3 [[c/_cm|cm]].**
+- **A Korean unit of length equivalent to about 0.3 cm.**
 ---
 ---

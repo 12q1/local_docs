@@ -1,6 +1,6 @@
 # Cheekily
 ---
 #adverb
-- **In a [[c/_cheeky|cheeky]] or impudent manner.**
+- **In a cheeky or impudent manner.**
 ---
 ---

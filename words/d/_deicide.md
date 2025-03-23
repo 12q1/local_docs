@@ -3,7 +3,7 @@
 #noun
 - **The killing of a god or goddess; godslaughter.**
 - **The killer of a god or goddess.**
-- **The [[c/_crucifixion|crucifixion]] of Jesus viewed as a [[c/_crime|crime]].**
+- **The crucifixion of Jesus viewed as a crime.**
 ---
 ### Synonyms
 - [[godkiller]]

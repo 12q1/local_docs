@@ -1,9 +1,9 @@
 # Bookkeepers
 ---
 #noun
-- **A person responsible for keeping records or documents, such as of a [[b/_business|business]].**
-- **A [[b/_bookseller|bookseller]]**
+- **A person responsible for keeping records or documents, such as of a business.**
+- **A bookseller**
 ---
 ### Synonyms
-- [[accountant]]
+- [[[[a/_accountant|accountant]]]]
 ---

@@ -1,8 +1,8 @@
 # Cheerless
 ---
 #adjective
-- **Devoid of [[c/_cheer|cheer]]; gloomy.**
+- **Devoid of cheer; gloomy.**
 ---
 ### Antonyms
-- [[cheerful]]
+- [[[[c/_cheerful|cheerful]]]]
 ---

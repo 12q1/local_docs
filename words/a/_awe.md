@@ -2,12 +2,12 @@
 ---
 #noun
 - **A feeling of fear and reverence.**
-- **A feeling of [[a/_amazement|amazement]].**
-- **Power to inspire [[a/_awe|awe]].**
+- **A feeling of amazement.**
+- **Power to inspire awe.**
 ---
 #verb
 - **To inspire fear and reverence in.**
-- **To [[c/_control|control]] by inspiring dread.**
+- **To control by inspiring dread.**
 ---
 ### Synonyms
 - [[enthral]], [[enthrall]], [[overwhelm]]

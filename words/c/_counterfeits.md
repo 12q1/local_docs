@@ -1,17 +1,17 @@
 # Counterfeits
 ---
 #noun
-- **A non-genuine [[a/_article|article]]; a fake.**
-- **One who [[c/_counterfeits|counterfeits]]; a [[c/_counterfeiter|counterfeiter]].**
-- **That which resembles [[a/_another|another]] thing; a likeness; a portrait; a [[c/_counterpart|counterpart]].**
-- **An impostor; a [[c/_cheat|cheat]].**
+- **A non-genuine article; a fake.**
+- **One who counterfeits; a counterfeiter.**
+- **That which resembles another thing; a likeness; a portrait; a counterpart.**
+- **An impostor; a cheat.**
 ---
 #verb
-- **To falsely produce what [[a/_appears|appears]] to be official or valid; to produce a forged [[c/_copy|copy]] of.**
+- **To falsely produce what appears to be official or valid; to produce a forged copy of.**
 	- _Example: to counterfeit the signature of another, coins, notes, etc._
-- **To produce a faithful [[c/_copy|copy]] of.**
+- **To produce a faithful copy of.**
 - **To feign; to mimic.**
 	- _Example: to counterfeit the voice of another person_
-- **(usually "be [[c/_counterfeited|counterfeited]]") Of a turn or river [[c/_card|card]], to invalidate a player's hand by making a [[b/_better|better]] hand on the [[b/_board|board]].**
+- **(usually "be counterfeited") Of a turn or river card, to invalidate a player's hand by making a better hand on the board.**
 ---
 ---

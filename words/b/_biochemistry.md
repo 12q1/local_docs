@@ -1,10 +1,10 @@
 # Biochemistry
 ---
 #noun
-- **The [[c/_chemistry|chemistry]] of those [[c/_compounds|compounds]] that occur in living organisms, and the processes that occur in their metabolism and [[c/_catabolism|catabolism]]**
-- **The [[c/_chemical|chemical]] [[c/_characteristics|characteristics]] of a particular living organism**
+- **The chemistry of those compounds that occur in living organisms, and the processes that occur in their metabolism and catabolism**
+- **The chemical characteristics of a particular living organism**
 	- _Example: The biochemistries of fungal and bacterial cells are quite distinct._
-- **The [[b/_biochemical|biochemical]] [[a/_activity|activity]] [[a/_associated|associated]] with a particular [[c/_chemical|chemical]] or [[c/_condition|condition]]**
+- **The biochemical activity associated with a particular chemical or condition**
 	- _Example: Our study compared the biochemistries of epilepsy and Parkinson's._
 ---
 ---

@@ -1,12 +1,12 @@
 # Agog
 ---
 #adjective
-- **In eager [[d/_desire|desire]], eager, [[a/_astir|astir]].**
-- **([[c/_chiefly|chiefly]] of eyes) Wide open.**
+- **In eager desire, eager, astir.**
+- **(chiefly of eyes) Wide open.**
 ---
 ### Synonyms
-- [[all a-gog]], [[all agog]]
+- [[[[a/_all|all]] a-gog]], [[[[a/_all|all]] [[a/_agog|agog]]]]
 #adverb
-- **In a state of high [[a/_anticipation|anticipation]], excitement, or interest.**
+- **In a state of high anticipation, excitement, or interest.**
 ---
 ---

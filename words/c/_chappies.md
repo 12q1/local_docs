@@ -1,6 +1,6 @@
 # Chappies
 ---
 #noun
-- **A [[c/_chap|chap]]; a fellow.**
+- **A chap; a fellow.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Cytochalasin
 ---
 #noun
-- **[[a/_any|Any]] of several related fungal metabolites that have an effect on [[c/_cytokinesis|cytokinesis]] while not [[a/_affecting|affecting]] karyokinesis**
+- **Any of several related fungal metabolites that have an effect on cytokinesis while not affecting karyokinesis**
 ---
 ---

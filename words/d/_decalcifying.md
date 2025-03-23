@@ -1,9 +1,9 @@
 # Decalcifying
 ---
 #verb
-- **To [[d/_deprive|deprive]] of [[c/_calcareous|calcareous]] matter.**
+- **To deprive of calcareous matter.**
 ---
 #adjective
-- **That is used to [[d/_decalcify|decalcify]]**
+- **That is used to decalcify**
 ---
 ---

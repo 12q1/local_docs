@@ -1,7 +1,7 @@
 # Admittedly
 ---
 #adverb
-- **As is [[a/_acknowledged|acknowledged]] to be true; by general [[a/_admission|admission]]; [[c/_confessedly|confessedly]].**
+- **As is acknowledged to be true; by general admission; confessedly.**
 	- _Example: Admittedly, vandalism is a bit of a problem._
 ---
 ### Synonyms

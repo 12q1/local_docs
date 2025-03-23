@@ -2,7 +2,7 @@
 ---
 #noun
 - **A freshwater turtle of the eastern United States of the genus Pseudemus.**
-- **The [[b/_box|box]] turtle.**
+- **The box turtle.**
 - **A redneck.**
 ---
 ---

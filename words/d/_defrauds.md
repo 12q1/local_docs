@@ -2,6 +2,6 @@
 ---
 #verb
 - **To obtain money or property from (a person) by fraud; to swindle.**
-- **To [[d/_deprive|deprive]].**
+- **To deprive.**
 ---
 ---

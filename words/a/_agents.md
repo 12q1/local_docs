@@ -1,17 +1,17 @@
 # Agents
 ---
 #noun
-- **One who exerts power, or has the power to [[a/_act|act]]**
-- **One who [[a/_acts|acts]] for, or in the place of, [[a/_another|another]] (the principal), by [[a/_authority|authority]] from him/her; someone entrusted to do the [[b/_business|business]] of [[a/_another|another]]**
-- **A person who looks for work for [[a/_another|another]] person**
-- **Someone who works for an intelligence [[a/_agency|agency]]**
-- **An [[a/_active|active]] power or [[c/_cause|cause]] or substance; something which has the power to produce an effect**
-- **In the [[c/_client|client]]-server model, the part of the system that performs information preparation and exchange on [[b/_behalf|behalf]] of a [[c/_client|client]] or server. Especially in the phrase “intelligent [[a/_agent|agent]]” it implies some kind of [[a/_autonomous|autonomous]] process which [[c/_can|can]] [[c/_communicate|communicate]] with other [[a/_agents|agents]] to perform some [[c/_collective|collective]] task on [[b/_behalf|behalf]] of one or more humans.**
-- **(grammar) The participant of a situation that [[c/_carries|carries]] out the [[a/_action|action]] in this situation, e.g. "the [[b/_boy|boy]]" in the sentences "The [[b/_boy|boy]] kicked the [[b/_ball|ball]]" and "The [[b/_ball|ball]] was kicked by the [[b/_boy|boy]]".**
-- **A [[c/_cheat|cheat]] who is [[a/_assisted|assisted]] by dishonest [[c/_casino|casino]] staff.**
+- **One who exerts power, or has the power to act**
+- **One who acts for, or in the place of, another (the principal), by authority from him/her; someone entrusted to do the business of another**
+- **A person who looks for work for another person**
+- **Someone who works for an intelligence agency**
+- **An active power or cause or substance; something which has the power to produce an effect**
+- **In the client-server model, the part of the system that performs information preparation and exchange on behalf of a client or server. Especially in the phrase “intelligent agent” it implies some kind of autonomous process which can communicate with other agents to perform some collective task on behalf of one or more humans.**
+- **(grammar) The participant of a situation that carries out the action in this situation, e.g. "the boy" in the sentences "The boy kicked the ball" and "The ball was kicked by the boy".**
+- **A cheat who is assisted by dishonest casino staff.**
 ---
 ### Synonyms
-- [[actor]], [[performer]], [[manager]], [[rep]], [[representative]]
+- [[[[a/_actor|actor]]]], [[performer]], [[manager]], [[rep]], [[representative]]
 ### Antonyms
 - [[patient]], [[recipient]], [[undergoer]]
 ---

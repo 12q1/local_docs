@@ -1,6 +1,6 @@
 # Delftware
 ---
 #noun
-- **Pottery made in [[d/_delft|Delft]], Holland; especially a [[b/_blue|blue]] and white tin-glazed earthenware**
+- **Pottery made in Delft, Holland; especially a blue and white tin-glazed earthenware**
 ---
 ---

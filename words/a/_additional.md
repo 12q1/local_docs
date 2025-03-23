@@ -1,9 +1,9 @@
 # Additional
 ---
 #noun
-- **Something [[a/_added|added]].**
+- **Something added.**
 ---
 #adjective
-- **Supplemental or [[a/_added|added]] to something.**
+- **Supplemental or added to something.**
 ---
 ---

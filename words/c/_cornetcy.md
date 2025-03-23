@@ -1,6 +1,6 @@
 # Cornetcy
 ---
 #noun
-- **The rank, role, or position of a [[c/_cornet|cornet]].**
+- **The rank, role, or position of a cornet.**
 ---
 ---

@@ -1,0 +1,6 @@
+# Dinted
+---
+#verb
+- **To dent.**
+---
+---

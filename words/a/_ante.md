@@ -1,11 +1,11 @@
 # Ante
 ---
 #noun
-- **A price or [[c/_cost|cost]], as in up the [[a/_ante|ante]].**
-- **In poker and other games, the [[c/_contribution|contribution]] made by [[a/_all|all]] players to the pot [[b/_before|before]] [[d/_dealing|dealing]] the [[c/_cards|cards]].**
+- **A price or cost, as in up the ante.**
+- **In poker and other games, the contribution made by all players to the pot before dealing the cards.**
 ---
 #verb
-- **To pay the [[a/_ante|ante]] in poker. Often used as [[a/_ante|ante]] up.**
-- **To make an investment in money, effort, or time [[b/_before|before]] knowing one's [[c/_chances|chances]].**
+- **To pay the ante in poker. Often used as ante up.**
+- **To make an investment in money, effort, or time before knowing one's chances.**
 ---
 ---

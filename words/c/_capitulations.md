@@ -1,9 +1,9 @@
 # Capitulations
 ---
 #noun
-- **A reducing to heads or [[a/_articles|articles]]; a formal [[a/_agreement|agreement]].**
-- **The [[a/_act|act]] of [[c/_capitulating|capitulating]] or surrendering to an enemy upon stipulated terms; the [[a/_act|act]] of [[c/_ceasing|ceasing]] to resist an opponent or an unwelcome [[d/_demand|demand]].**
-- **The instrument [[c/_containing|containing]] the terms of an [[a/_agreement|agreement]] or surrender.**
+- **A reducing to heads or articles; a formal agreement.**
+- **The act of capitulating or surrendering to an enemy upon stipulated terms; the act of ceasing to resist an opponent or an unwelcome demand.**
+- **The instrument containing the terms of an agreement or surrender.**
 - **An enumeration of the main parts of a subject.**
 ---
 ---

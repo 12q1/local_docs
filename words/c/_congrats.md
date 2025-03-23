@@ -1,6 +1,6 @@
 # Congrats
 ---
 #interjection
-- **Expressing praise and [[a/_approval|approval]], expressing [[a/_approbation|approbation]].**
+- **Expressing praise and approval, expressing approbation.**
 ---
 ---

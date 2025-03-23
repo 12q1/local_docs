@@ -1,13 +1,13 @@
 # Danged
 ---
 #verb
-- **[[d/_damn|Damn]].**
+- **Damn.**
 ---
 #verb
-- **To [[d/_dash|dash]].**
+- **To dash.**
 ---
 #adjective
-- **[[d/_damned|Damned]]; [[a/_accursed|accursed]]; objectionable**
+- **Damned; accursed; objectionable**
 	- _Example: Those danged mosquitoes won't leave me alone!_
 ---
 ---

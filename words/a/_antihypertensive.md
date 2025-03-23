@@ -1,9 +1,9 @@
 # Antihypertensive
 ---
 #noun
-- **(pharmaceutical effect) an [[a/_agent|agent]] that prevents or [[c/_counteracts|counteracts]] hypertension**
+- **(pharmaceutical effect) an agent that prevents or counteracts hypertension**
 ---
 #adjective
-- **(pharmaceutical effect) preventing or [[c/_counteracting|counteracting]] hypertension**
+- **(pharmaceutical effect) preventing or counteracting hypertension**
 ---
 ---

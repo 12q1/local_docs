@@ -1,11 +1,11 @@
 # Counterclockwise
 ---
 #adjective
-- **Moving or located in the direction of rotation opposite from [[c/_clockwise|clockwise]].**
+- **Moving or located in the direction of rotation opposite from clockwise.**
 ---
 #adverb
-- **In the direction of rotation opposite from [[c/_clockwise|clockwise]].**
+- **In the direction of rotation opposite from clockwise.**
 ---
 ### Synonyms
-- [[anticlockwise]], [[contraclockwise]]
+- [[[[a/_anticlockwise|anticlockwise]]]], [[[[c/_contraclockwise|contraclockwise]]]]
 ---

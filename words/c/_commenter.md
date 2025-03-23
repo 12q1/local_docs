@@ -1,8 +1,8 @@
 # Commenter
 ---
 #noun
-- **One who [[c/_comments|comments]].**
+- **One who comments.**
 ---
 ### Synonyms
-- [[commentator]]
+- [[[[c/_commentator|commentator]]]]
 ---

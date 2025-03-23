@@ -1,9 +1,9 @@
 # Backboard
 ---
 #noun
-- **The flat vertical surface to which the [[b/_basket|basket]] is [[a/_attached|attached]].**
-- **A flat vertical wall with the image of a tennis net drawn or painted on it. [[d/_designed|Designed]] to practice hitting [[a/_against|against]] such that the [[b/_ball|ball]] [[b/_bounces|bounces]] [[b/_back|back]].**
-- **(first [[a/_aid|aid]]) A spine [[b/_board|board]].**
-- **A [[b/_board|board]] placed at the [[b/_back|back]] of a [[c/_cart|cart]], [[b/_boat|boat]], etc.**
+- **The flat vertical surface to which the basket is attached.**
+- **A flat vertical wall with the image of a tennis net drawn or painted on it. Designed to practice hitting against such that the ball bounces back.**
+- **(first aid) A spine board.**
+- **A board placed at the back of a cart, boat, etc.**
 ---
 ---

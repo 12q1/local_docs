@@ -1,7 +1,7 @@
 # Archimedean
 ---
 #adjective
-- **Of or pertaining to [[a/_archimedes|Archimedes]].**
+- **Of or pertaining to Archimedes.**
 - **Having no infinitely large or infinitely small elements.**
 ---
 ---

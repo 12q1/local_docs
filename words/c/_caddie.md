@@ -1,12 +1,12 @@
 # Caddie
 ---
 #noun
-- **A golfer's [[a/_assistant|assistant]] and [[a/_adviser|adviser]].**
+- **A golfer's assistant and adviser.**
 ---
 #verb
-- **To serve as a golf [[c/_caddie|caddie]].**
+- **To serve as a golf caddie.**
 ---
 #noun
-- **A Scottish errand [[b/_boy|boy]], porter, or messenger.**
+- **A Scottish errand boy, porter, or messenger.**
 ---
 ---

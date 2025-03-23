@@ -1,8 +1,8 @@
 # Corpulence
 ---
 #noun
-- **The state or [[c/_characteristic|characteristic]] of [[b/_being|being]] [[c/_corpulent|corpulent]].**
+- **The state or characteristic of being corpulent.**
 ---
 ### Synonyms
-- [[corpulentness]], [[obesity]], [[pudginess]]
+- [[[[c/_corpulentness|corpulentness]]]], [[obesity]], [[pudginess]]
 ---

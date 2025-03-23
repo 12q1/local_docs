@@ -1,7 +1,7 @@
 # Cloned
 ---
 #verb
-- **To [[c/_create|create]] a [[c/_clone|clone]] of.**
+- **To create a clone of.**
 	- _Example: The scientists were able to clone a sheep._
 ---
 ---

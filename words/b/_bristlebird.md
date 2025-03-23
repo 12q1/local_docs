@@ -1,6 +1,6 @@
 # Bristlebird
 ---
 #noun
-- **[[a/_any|Any]] of three species of passerine [[b/_birds|birds]] in the genus Dasyornis endemic to [[a/_australia|Australia]].**
+- **Any of three species of passerine birds in the genus Dasyornis endemic to Australia.**
 ---
 ---

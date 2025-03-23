@@ -1,9 +1,9 @@
 # Brachiating
 ---
 #verb
-- **To move like a [[b/_brachiator|brachiator]]; to swing from [[b/_branch|branch]] to [[b/_branch|branch]], [[a/_advance|advance]] by [[b/_brachiation|brachiation]].**
+- **To move like a brachiator; to swing from branch to branch, advance by brachiation.**
 ---
 #adjective
-- **That moves by the use of limbs; especially by swinging through the trees using the [[a/_arms|arms]]**
+- **That moves by the use of limbs; especially by swinging through the trees using the arms**
 ---
 ---

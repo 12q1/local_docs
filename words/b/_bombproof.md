@@ -1,15 +1,15 @@
 # Bombproof
 ---
 #noun
-- **An [[a/_air|air]]-raid shelter, a structure [[d/_designed|designed]] to give protection [[a/_against|against]] [[a/_air|air]] raids and [[b/_bombs|bombs]].**
+- **An air-raid shelter, a structure designed to give protection against air raids and bombs.**
 ---
 ### Synonyms
-- [[air-raid shelter]], [[bomb shelter]]
+- [[[[a/_air|air]]-raid shelter]], [[[[b/_bomb|bomb]] shelter]]
 #verb
-- **To make resistant to [[b/_bomb|bomb]] [[b/_blasts|blasts]].**
+- **To make resistant to bomb blasts.**
 ---
 #adjective
-- **Sufficiently strong to resist the effects of a [[b/_blast|blast]] from a [[b/_bomb|bomb]].**
+- **Sufficiently strong to resist the effects of a blast from a bomb.**
 	- _Example: bombproof buildings_
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Debussed
 ---
 #verb
-- **To get off a [[b/_bus|bus]].**
+- **To get off a bus.**
 ---
 ### Antonyms
 - [[embus]]

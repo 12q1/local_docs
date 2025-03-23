@@ -1,9 +1,9 @@
 # Brachycephalic
 ---
 #noun
-- **A [[b/_brachycephalic|brachycephalic]] person or [[c/_creature|creature]].**
+- **A brachycephalic person or creature.**
 ---
 #adjective
-- **(of a person or [[a/_animal|animal]]) Having a head that is short from front to [[b/_back|back]] (relative to its width from left to right).**
+- **(of a person or animal) Having a head that is short from front to back (relative to its width from left to right).**
 ---
 ---

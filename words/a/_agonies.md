@@ -2,13 +2,13 @@
 ---
 #noun
 - **Extreme pain.**
-- **The sufferings of Jesus [[c/_christ|Christ]] in the garden of Gethsemane.**
-- **Violent [[c/_contest|contest]] or striving.**
+- **The sufferings of Jesus Christ in the garden of Gethsemane.**
+- **Violent contest or striving.**
 - **Paroxysm of joy; keen emotion.**
-- **The last struggle of life; [[d/_death|death]] struggle.**
+- **The last struggle of life; death struggle.**
 ---
 ### Synonyms
-- [[anguish]], [[distress]], [[pang]], [[suffering]], [[throe]], [[torment]]
+- [[[[a/_anguish|anguish]]]], [[[[d/_distress|distress]]]], [[pang]], [[suffering]], [[throe]], [[torment]]
 ### Antonyms
-- [[ecstasy]]
+- [[[[e/_ecstasy|ecstasy]]]]
 ---

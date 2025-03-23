@@ -1,7 +1,7 @@
 # Cardiomyopathy
 ---
 #noun
-- **The [[d/_deterioration|deterioration]] of the myocardium.**
+- **The deterioration of the myocardium.**
 ---
 ### Synonyms
 - [[myocardiopathy]]

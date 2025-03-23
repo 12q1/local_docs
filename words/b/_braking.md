@@ -1,18 +1,18 @@
 # Braking
 ---
 #verb
-- **To [[b/_bruise|bruise]] and [[c/_crush|crush]]; to knead**
+- **To bruise and crush; to knead**
 	- _Example: The farmer's son brakes the flax while mother brakes the bread dough_
 - **To pulverise with a harrow**
 ---
 #verb
-- **To operate (a) [[b/_brake|brake]](s).**
-- **To be stopped or slowed (as if) by [[b/_braking|braking]].**
+- **To operate (a) brake(s).**
+- **To be stopped or slowed (as if) by braking.**
 ---
 ### Antonyms
-- [[accelerate]], [[floor it]], [[put the pedal to the metal]], [[redline]]
+- [[[[a/_accelerate|accelerate]]]], [[floor it]], [[put the pedal to the metal]], [[redline]]
 #noun
-- **The [[a/_act|act]] of [[a/_applying|applying]] [[b/_brakes|brakes]].**
+- **The act of applying brakes.**
 	- _Example: the acceleratings and brakings of a vehicle_
 ---
 ---

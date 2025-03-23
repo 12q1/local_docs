@@ -1,8 +1,8 @@
 # Chronometers
 ---
 #noun
-- **A device for measuring time, such as a watch or [[c/_clock|clock]].**
+- **A device for measuring time, such as a watch or clock.**
 ---
 ### Synonyms
-- [[chronoscope]]
+- [[[[c/_chronoscope|chronoscope]]]]
 ---

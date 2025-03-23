@@ -1,18 +1,18 @@
 # Bruise
 ---
 #noun
-- **A purplish mark on the skin due to leakage of [[b/_blood|blood]] from [[c/_capillaries|capillaries]] under the surface that have [[b/_been|been]] [[d/_damaged|damaged]] by a [[b/_blow|blow]].**
-- **A [[d/_dark|dark]] mark on fruit or vegetables [[c/_caused|caused]] by a [[b/_blow|blow]] to the surface.**
+- **A purplish mark on the skin due to leakage of blood from capillaries under the surface that have been damaged by a blow.**
+- **A dark mark on fruit or vegetables caused by a blow to the surface.**
 ---
 ### Synonyms
-- [[contusion]], [[ecchymosis]]
+- [[[[c/_contusion|contusion]]]], [[[[e/_ecchymosis|ecchymosis]]]]
 #verb
-- **To strike (a person), originally with something flat or heavy, but now specifically in such a way as to discolour the skin without [[b/_breaking|breaking]] it.**
-- **To [[d/_damage|damage]] the skin of (fruit or vegetables), in an [[a/_analogous|analogous]] way.**
-- **Of fruit or vegetables, to gain [[b/_bruises|bruises]] through [[b/_being|being]] handled roughly.**
+- **To strike (a person), originally with something flat or heavy, but now specifically in such a way as to discolour the skin without breaking it.**
+- **To damage the skin of (fruit or vegetables), in an analogous way.**
+- **Of fruit or vegetables, to gain bruises through being handled roughly.**
 	- _Example: Bananas bruise easily._
-- **To [[b/_become|become]] [[b/_bruised|bruised]].**
+- **To become bruised.**
 	- _Example: I bruise easily._
-- **To fight with the fists; to [[b/_box|box]].**
+- **To fight with the fists; to box.**
 ---
 ---

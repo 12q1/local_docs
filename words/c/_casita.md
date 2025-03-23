@@ -1,8 +1,8 @@
 # Casita
 ---
 #noun
-- **A small, [[a/_attached|attached]] but self-[[c/_contained|contained]] house or [[a/_apartment|apartment]]**
+- **A small, attached but self-contained house or apartment**
 ---
 ### Synonyms
-- [[granny annexe]], [[mother-in-law apartment]]
+- [[granny [[a/_annexe|annexe]]]], [[mother-in-law [[a/_apartment|apartment]]]]
 ---

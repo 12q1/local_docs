@@ -1,10 +1,10 @@
 # Cavernous
 ---
 #adjective
-- **Resembling a [[c/_cavern|cavern]]; vast**
-- **Having many [[c/_caverns|caverns]]**
-- **Having [[c/_cavities|cavities]]**
+- **Resembling a cavern; vast**
+- **Having many caverns**
+- **Having cavities**
 ---
 ### Synonyms
-- [[cavelike]]
+- [[[[c/_cavelike|cavelike]]]]
 ---

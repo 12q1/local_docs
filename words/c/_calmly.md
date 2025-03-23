@@ -1,6 +1,6 @@
 # Calmly
 ---
 #adverb
-- **In a [[c/_calm|calm]] manner.**
+- **In a calm manner.**
 ---
 ---

@@ -3,8 +3,8 @@
 #noun
 - **An epilogue.**
 - **(of a letter) a postscript.**
-- **(to a [[b/_book|book]]) an [[a/_appendix|appendix]].**
+- **(to a book) an appendix.**
 ---
 ### Synonyms
-- [[annex]], [[aftertale]], [[afterward]], [[afterscript]]
+- [[[[a/_annex|annex]]]], [[aftertale]], [[[[a/_afterward|afterward]]]], [[afterscript]]
 ---

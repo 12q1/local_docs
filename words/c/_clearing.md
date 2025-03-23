@@ -5,31 +5,31 @@
 	- _Example: If you clear the table, I'll wash up._
 - **To remove (items or material) so as to leave something unobstructed or open.**
 	- _Example: Please clear all this stuff off the table._
-- **To [[b/_become|become]] free from obstruction or obscurement; to [[b/_become|become]] transparent.**
+- **To become free from obstruction or obscurement; to become transparent.**
 	- _Example: After a heavy rain, the sky cleared nicely for the evening._
-- **To eliminate [[a/_ambiguity|ambiguity]] or doubt from (a matter); to [[c/_clarify|clarify]] or resolve; to [[c/_clear|clear]] up.**
+- **To eliminate ambiguity or doubt from (a matter); to clarify or resolve; to clear up.**
 	- _Example: We need to clear this issue once and for all._
-- **To remove from suspicion, especially of having [[c/_committed|committed]] a [[c/_crime|crime]].**
+- **To remove from suspicion, especially of having committed a crime.**
 	- _Example: The court cleared the man of murder._
 - **To pass without interference; to miss.**
 	- _Example: The door just barely clears the table as it closes._
-- **([[a/_activities|activities]] such as jumping or throwing) To exceed a stated mark.**
+- **(activities such as jumping or throwing) To exceed a stated mark.**
 	- _Example: She was the first female high jumper to clear two metres._
-- **To finish or [[c/_complete|complete]] (a stage, [[c/_challenge|challenge]], or game).**
+- **To finish or complete (a stage, challenge, or game).**
 	- _Example: I cleared the first level in 36 seconds._
-- **Of a [[c/_check|check]] or financial transaction, to go through as payment; to be processed so that the money is transferred.**
+- **Of a check or financial transaction, to go through as payment; to be processed so that the money is transferred.**
 	- _Example: The check might not clear for a couple of days._
 - **To earn a profit of; to net.**
 	- _Example: He's been clearing seven thousand a week._
-- **To [[a/_approve|approve]] or [[a/_authorise|authorise]] for a particular purpose or [[a/_action|action]]; to give [[c/_clearance|clearance]] to.**
+- **To approve or authorise for a particular purpose or action; to give clearance to.**
 	- _Example: Air traffic control cleared the plane to land._
-- **To obtain [[a/_approval|approval]] or [[a/_authorisation|authorisation]] in respect of.**
+- **To obtain approval or authorisation in respect of.**
 	- _Example: I've cleared the press release with the marketing department, so go ahead and publish it._
-- **To obtain a [[c/_clearance|clearance]].**
+- **To obtain a clearance.**
 	- _Example: The steamer cleared for Liverpool today._
-- **To obtain permission to use (a sample of [[c/_copyrighted|copyrighted]] [[a/_audio|audio]]) in [[a/_another|another]] track.**
-- **To disengage oneself from incumbrances, distress, or entanglements; to [[b/_become|become]] free.**
-- **To hit, kick, head, punch etc. (a [[b/_ball|ball]], puck) [[a/_away|away]] in order to [[d/_defend|defend]] one's goal.**
+- **To obtain permission to use (a sample of copyrighted audio) in another track.**
+- **To disengage oneself from incumbrances, distress, or entanglements; to become free.**
+- **To hit, kick, head, punch etc. (a ball, puck) away in order to defend one's goal.**
 	- _Example: A low cross came in, and Smith cleared._
 - **To reset or unset; to return to an empty state or to zero.**
 	- _Example: to clear an array;  to clear a single bit (binary digit) in a value_
@@ -38,13 +38,13 @@
 ### Synonyms
 - [[stub]]
 #noun
-- **The [[a/_act|act]] or process of making or [[b/_becoming|becoming]] [[c/_clear|clear]].**
-- **An [[a/_area|area]] of land within a wood or forest devoid of trees.**
+- **The act or process of making or becoming clear.**
+- **An area of land within a wood or forest devoid of trees.**
 - **An open space in the fog etc.**
-- **A process of exchanging transaction information and [[a/_authorisation|authorisation]] through a [[c/_central|central]] institution or system to [[c/_complete|complete]] and settle those transactions.**
-- **A sequence of events used to disconnect a [[c/_call|call]], and return to the ready state.**
-- **The period in which remaining university places are [[a/_allocated|allocated]] to remaining students.**
-- **The [[a/_act|act]] of removing the [[b/_ball|ball]] from one's own goal [[a/_area|area]] by kicking it.**
+- **A process of exchanging transaction information and authorisation through a central institution or system to complete and settle those transactions.**
+- **A sequence of events used to disconnect a call, and return to the ready state.**
+- **The period in which remaining university places are allocated to remaining students.**
+- **The act of removing the ball from one's own goal area by kicking it.**
 ---
 ### Synonyms
 - [[glade]]

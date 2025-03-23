@@ -1,8 +1,8 @@
 # Determinism
 ---
 #noun
-- **The doctrine that [[a/_all|all]] [[a/_actions|actions]] are [[d/_determined|determined]] by the [[c/_current|current]] state and immutable laws of the universe, with no possibility of [[c/_choice|choice]].**
-- **The property of having [[b/_behavior|behavior]] [[d/_determined|determined]] only by initial state and input.**
+- **The doctrine that all actions are determined by the current state and immutable laws of the universe, with no possibility of choice.**
+- **The property of having behavior determined only by initial state and input.**
 ---
 ### Synonyms
 - [[fatalism]]

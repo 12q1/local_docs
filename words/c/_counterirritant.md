@@ -1,6 +1,6 @@
 # Counterirritant
 ---
 #noun
-- **[[a/_any|Any]] substance used to [[c/_cause|cause]] inflammation in one part of the [[b/_body|body]] with the goal of lessening inflammation elsewhere.**
+- **Any substance used to cause inflammation in one part of the body with the goal of lessening inflammation elsewhere.**
 ---
 ---

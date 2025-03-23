@@ -1,6 +1,6 @@
 # Choirman
 ---
 #noun
-- **A male [[c/_chorister|chorister]] (in a [[c/_church|church]] [[c/_choir|choir]])**
+- **A male chorister (in a church choir)**
 ---
 ---

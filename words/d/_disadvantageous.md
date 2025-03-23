@@ -1,0 +1,6 @@
+# Disadvantageous
+---
+#adjective
+- **Not advantageous.**
+---
+---

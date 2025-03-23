@@ -1,9 +1,9 @@
 # Aptitude
 ---
 #noun
-- **Natural [[a/_ability|ability]] to [[a/_acquire|acquire]] knowledge or skill.**
-- **The [[c/_condition|condition]] of [[b/_being|being]] suitable.**
+- **Natural ability to acquire knowledge or skill.**
+- **The condition of being suitable.**
 ---
 ### Synonyms
-- [[appropriateness]], [[suitability]], [[knack]], [[talent]]
+- [[[[a/_appropriateness|appropriateness]]]], [[suitability]], [[knack]], [[talent]]
 ---

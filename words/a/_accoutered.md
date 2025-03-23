@@ -4,5 +4,5 @@
 - **To furnish with dress or equipments, especially those for military service**
 ---
 ### Synonyms
-- [[array]], [[attire]], [[equip]]
+- [[[[a/_array|array]]]], [[[[a/_attire|attire]]]], [[equip]]
 ---

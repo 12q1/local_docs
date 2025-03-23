@@ -1,6 +1,6 @@
 # Biodegrading
 ---
 #verb
-- **To [[d/_decompose|decompose]] as a result of [[b/_biological|biological]] [[a/_action|action]], especially by microorganisms**
+- **To decompose as a result of biological action, especially by microorganisms**
 ---
 ---

@@ -1,8 +1,8 @@
 # Bacchante
 ---
 #noun
-- **A priestess of [[b/_bacchus|Bacchus]]**
-- **A female [[b/_bacchanal|bacchanal]]**
+- **A priestess of Bacchus**
+- **A female bacchanal**
 ---
 ### Synonyms
 - [[maenad]]

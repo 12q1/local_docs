@@ -4,5 +4,5 @@
 - **Extreme greed, especially for wealth.**
 ---
 ### Synonyms
-- [[avarice]], [[covetousness]]
+- [[[[a/_avarice|avarice]]]], [[[[c/_covetousness|covetousness]]]]
 ---

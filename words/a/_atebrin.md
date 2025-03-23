@@ -1,6 +1,6 @@
 # Atebrin
 ---
 #noun
-- **A preparation of the drug quinacrine, formerly used as an [[a/_antimalarial|antimalarial]].**
+- **A preparation of the drug quinacrine, formerly used as an antimalarial.**
 ---
 ---

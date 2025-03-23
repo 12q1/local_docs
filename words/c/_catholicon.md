@@ -4,5 +4,5 @@
 - **A supposed universal remedy.**
 ---
 ### Synonyms
-- [[cure-all]], [[panacea]]
+- [[[[c/_cure|cure]]-[[a/_all|all]]]], [[panacea]]
 ---

@@ -1,6 +1,6 @@
 # Beware
 ---
 #verb
-- **([[d/_defective|defective]]) To use [[c/_caution|caution]], pay [[a/_attention|attention]] to (used [[b/_both|both]] with and without of).**
+- **(defective) To use caution, pay attention to (used both with and without of).**
 ---
 ---

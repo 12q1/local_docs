@@ -1,10 +1,10 @@
 # Curvy
 ---
 #adjective
-- **Having [[c/_curves|curves]].**
-- **[[b/_buxom|Buxom]] or [[c/_curvaceous|curvaceous]].**
+- **Having curves.**
+- **Buxom or curvaceous.**
 	- _Example: I love this woman and her curvy body._
 ---
 ### Synonyms
-- [[Rubenesque]], [[zaftig]], [[curved]], [[sinuous]], [[tortuous]], [[wavy]]
+- [[Rubenesque]], [[zaftig]], [[[[c/_curved|curved]]]], [[sinuous]], [[tortuous]], [[wavy]]
 ---

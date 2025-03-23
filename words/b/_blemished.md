@@ -1,10 +1,10 @@
 # Blemished
 ---
 #verb
-- **To spoil the [[a/_appearance|appearance]] of.**
-- **To tarnish (reputation, [[c/_character|character]], etc.); to [[d/_defame|defame]].**
+- **To spoil the appearance of.**
+- **To tarnish (reputation, character, etc.); to defame.**
 ---
 #adjective
-- **Having [[b/_blemishes|blemishes]]; flawed.**
+- **Having blemishes; flawed.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Citizenry
 ---
 #noun
-- **The group of [[a/_all|all]] [[c/_citizens|citizens]].**
+- **The group of all citizens.**
 ---
 ---

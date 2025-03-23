@@ -1,7 +1,7 @@
 # Conventioneers
 ---
 #noun
-- **A person [[a/_attending|attending]] a [[c/_convention|convention]]**
+- **A person attending a convention**
 ---
 ### Synonyms
 - [[conventiongoer]]

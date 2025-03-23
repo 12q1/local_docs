@@ -1,11 +1,11 @@
 # Composure
 ---
 #noun
-- **[[c/_calmness|Calmness]] of mind or matter, self-possession.**
-- **The [[a/_act|act]] of [[c/_composing|composing]], or that which is [[c/_composed|composed]]; a [[c/_composition|composition]].**
-- **Orderly [[a/_adjustment|adjustment]]; disposition.**
+- **Calmness of mind or matter, self-possession.**
+- **The act of composing, or that which is composed; a composition.**
+- **Orderly adjustment; disposition.**
 - **Frame; make; temperament.**
-- **A [[c/_combination|combination]]; a union; a [[b/_bond|bond]].**
+- **A combination; a union; a bond.**
 ---
 ### Synonyms
 - [[equanimity]]

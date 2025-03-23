@@ -1,17 +1,17 @@
 # Conferring
 ---
 #verb
-- **To grant as a possession; to [[b/_bestow|bestow]].**
+- **To grant as a possession; to bestow.**
 	- _Example: The college has conferred an honorary degree upon the visiting Prime Minister._
-- **To talk together, to [[c/_consult|consult]], discuss; to [[d/_deliberate|deliberate]].**
+- **To talk together, to consult, discuss; to deliberate.**
 	- _Example: They were in a huddle, conferring about something._
-- **To [[c/_compare|compare]].**
-- **To [[b/_bring|bring]] together; to [[c/_collect|collect]], gather.**
-- **To [[c/_contribute|contribute]]; to [[c/_conduce|conduce]].**
+- **To compare.**
+- **To bring together; to collect, gather.**
+- **To contribute; to conduce.**
 ---
 ### Synonyms
-- [[afford]]
+- [[[[a/_afford|afford]]]]
 #noun
-- **The [[a/_act|act]] of one who [[c/_confers|confers]].**
+- **The act of one who confers.**
 ---
 ---

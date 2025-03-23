@@ -1,7 +1,7 @@
 # Chamise
 ---
 #noun
-- **An evergreen shrub native to [[c/_california|California]], [[a/_adenostoma|Adenostoma]] fasciculatum in the [[b/_botanical|botanical]] family Rosaceae**
+- **An evergreen shrub native to California, Adenostoma fasciculatum in the botanical family Rosaceae**
 ---
 ### Synonyms
 - [[greasewood]]

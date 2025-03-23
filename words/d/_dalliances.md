@@ -1,10 +1,10 @@
 # Dalliances
 ---
 #noun
-- **Playful flirtation; [[a/_amorous|amorous]] play.**
+- **Playful flirtation; amorous play.**
 - **A wasting of time in idleness or trifles.**
 - **A sexual relationship, not serious but often illicit.**
 ---
 ### Synonyms
-- [[affair]], [[dawdling]], [[idling]], [[trifling]], [[flirtation]]
+- [[[[a/_affair|affair]]]], [[[[d/_dawdling|dawdling]]]], [[idling]], [[trifling]], [[flirtation]]
 ---

@@ -1,10 +1,10 @@
 # Buffets
 ---
 #verb
-- **To strike with a [[b/_buffet|buffet]]; to [[c/_cuff|cuff]]; to slap.**
-- **To [[a/_aggressively|aggressively]] [[c/_challenge|challenge]], [[d/_denounce|denounce]], or [[c/_criticise|criticise]].**
-- **To [[a/_affect|affect]] as with [[b/_blows|blows]]; to strike repeatedly; to strive with or [[c/_contend|contend]] [[a/_against|against]].**
+- **To strike with a buffet; to cuff; to slap.**
+- **To aggressively challenge, denounce, or criticise.**
+- **To affect as with blows; to strike repeatedly; to strive with or contend against.**
 	- _Example: to buffet the billows_
-- **To [[d/_deaden|deaden]] the sound of ([[b/_bells|bells]]) by muffling the [[c/_clapper|clapper]].**
+- **To deaden the sound of (bells) by muffling the clapper.**
 ---
 ---

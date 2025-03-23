@@ -5,6 +5,6 @@
 - **To dissolve (a marital union) on the grounds that it is not valid.**
 ---
 #noun
-- **An [[a/_annulment|annulment]].**
+- **An annulment.**
 ---
 ---

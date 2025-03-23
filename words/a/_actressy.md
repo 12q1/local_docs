@@ -1,7 +1,7 @@
 # Actressy
 ---
 #adjective
-- **[[c/_characteristic|Characteristic]] of an [[a/_actress|actress]]**
+- **Characteristic of an actress**
 - **Histrionic or theatrical**
 ---
 ---

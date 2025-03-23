@@ -1,8 +1,8 @@
 # Bookstores
 ---
 #noun
-- **A store where [[b/_books|books]] are [[b/_bought|bought]] and sold.**
+- **A store where books are bought and sold.**
 ---
 ### Synonyms
-- [[bookshop]]
+- [[[[b/_bookshop|bookshop]]]]
 ---

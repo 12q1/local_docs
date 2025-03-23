@@ -1,6 +1,6 @@
 # Countermovement
 ---
 #noun
-- **A movement in opposition, or retaliation to [[a/_another|another]].**
+- **A movement in opposition, or retaliation to another.**
 ---
 ---

@@ -1,14 +1,14 @@
 # Avian
 ---
 #noun
-- **A [[b/_bird|bird]].**
-- **A [[b/_bird|bird]]-like or flying [[c/_creature|creature]].**
-- **(furry fandom) Someone who roleplays or [[d/_describes|describes]] themselves as [[b/_being|being]] a [[b/_bird|bird]] or [[b/_bird|bird]]-like [[a/_animal|animal]] [[c/_character|character]] with human [[c/_characteristics|characteristics]].**
+- **A bird.**
+- **A bird-like or flying creature.**
+- **(furry fandom) Someone who roleplays or describes themselves as being a bird or bird-like animal character with human characteristics.**
 ---
 ### Synonyms
 - [[feathery]]
 #adjective
-- **[[c/_characteristic|Characteristic]] of or pertaining to [[b/_birds|birds]], or to [[b/_bird|bird]]-like or flying [[c/_creatures|creatures]].**
+- **Characteristic of or pertaining to birds, or to bird-like or flying creatures.**
 ---
 ### Synonyms
 - [[birdly]], [[feathered]], [[plumed]], [[winged]]

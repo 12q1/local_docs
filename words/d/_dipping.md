@@ -1,0 +1,40 @@
+# Dipping
+---
+#verb
+- **To lower into a liquid.**
+	- _Example: Dip your biscuit into your tea._
+- **To immerse oneself; to become plunged in a liquid; to sink.**
+- **(of a value or rate) To decrease slightly.**
+- **To lower a light's beam.**
+	- _Example: Dip your lights as you meet an oncoming car._
+- **To lower (a flag), particularly a national ensign, to a partially hoisted position in order to render or to return a salute. While lowered, the flag is said to be “at the dip.” A flag being carried on a staff may be dipped by leaning it forward at an approximate angle of 45 degrees.**
+	- _Example: “The sailor rushed to the flag hoist to dip the flag in return.”_
+- **To treat cattle or sheep by immersion in chemical solution.**
+	- _Example: The farmer is going to dip the cattle today._
+- **To use a dip stick to check oil level in an engine.**
+- **To consume snuff by placing a pinch behind the lip or under the tongue so that the active chemical constituents of the snuff may be absorbed into the system for their narcotic effect.**
+- **To immerse for baptism.**
+- **To wet, as if by immersing; to moisten.**
+- **To plunge or engage thoroughly in any affair.**
+- **To take out, by dipping a dipper, ladle, or other receptacle, into a fluid and removing a part; often with out.**
+	- _Example: to dip water from a boiler; to dip out water_
+- **To perform the action of plunging a dipper, ladle. etc. into a liquid or soft substance and removing a part.**
+- **To engage as a pledge; to mortgage.**
+- **To perform (a bow or curtsey) by inclining the body.**
+- **To incline downward from the plane of the horizon.**
+	- _Example: Strata of rock dip._
+- **To perform a dip dance move (often phrased with the leader as the subject noun and the follower as the subject noun being dipped)**
+- **To lower the body by bending the knees while keeping the body in an upright position, as in movement to the rhythm of music.**
+- **To leave.**
+	- _Example: He dipped out of the room so fast._
+- **To miss out on seeing a sought after bird.**
+---
+#noun
+- **An act or process of immersing.**
+- **The act of inclining downward.**
+- **The act of lifting or moving a liquid with a dipper, ladle, or the like.**
+- **The process of cleaning or brightening sheet metal or metalware, especially brass, by dipping it in acids, etc.**
+- **The use of dipping tobacco (moist snuff) in the mouth, usually between the lip and gum or cheek and gum in the lower or upper part of the mouth.**
+- **The act or fact of missing out on seeing a bird.**
+---
+---

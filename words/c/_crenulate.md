@@ -1,6 +1,6 @@
 # Crenulate
 ---
 #adjective
-- **Minutely [[c/_crenate|crenate]] or scalloped.**
+- **Minutely crenate or scalloped.**
 ---
 ---

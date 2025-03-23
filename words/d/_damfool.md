@@ -1,6 +1,6 @@
 # Damfool
 ---
 #adjective
-- **[[c/_contemptibly|Contemptibly]] foolish.**
+- **Contemptibly foolish.**
 ---
 ---

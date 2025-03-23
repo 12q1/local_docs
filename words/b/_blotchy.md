@@ -1,8 +1,8 @@
 # Blotchy
 ---
 #adjective
-- **[[c/_covered|Covered]] in [[b/_blotches|blotches]].**
+- **Covered in blotches.**
 ---
 ### Synonyms
-- [[blotched]], [[spotted]], [[spotty]]
+- [[[[b/_blotched|blotched]]]], [[spotted]], [[spotty]]
 ---

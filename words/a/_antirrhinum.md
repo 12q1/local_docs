@@ -1,6 +1,6 @@
 # Antirrhinum
 ---
 #noun
-- **[[a/_any|Any]] plant of the genus [[a/_antirrhinum|Antirrhinum]] of snapdragons.**
+- **Any plant of the genus Antirrhinum of snapdragons.**
 ---
 ---

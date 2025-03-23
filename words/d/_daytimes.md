@@ -1,10 +1,10 @@
 # Daytimes
 ---
 #noun
-- **The time of [[d/_daylight|daylight]]; the time [[b/_between|between]] sunrise and sunset.**
+- **The time of daylight; the time between sunrise and sunset.**
 ---
 ### Synonyms
-- [[day]], [[upsun]]
+- [[[[d/_day|day]]]], [[upsun]]
 ### Antonyms
 - [[night]], [[nighttime]]
 ---

@@ -4,13 +4,13 @@
 - **A deviation from a rule or from what is regarded as normal; an outlier.**
 - **Something or someone that is strange or unusual.**
 	- _Example: He is an anomaly among his friends in that he's the only one who's unmarried._
-- **[[a/_any|Any]] event or measurement that is out of the ordinary regardless of whether it is exceptional or not.**
+- **Any event or measurement that is out of the ordinary regardless of whether it is exceptional or not.**
 	- _Example: She disregarded some of the anamolies in the experiment, putting them down to miscalculation._
-- **[[a/_any|Any]] of various [[a/_angular|angular]] distances.**
-- **A [[d/_defect|defect]] or malformation.**
-- **A failure of a [[c/_classical|classical]] symmetry due to quantum [[c/_corrections|corrections]].**
+- **Any of various angular distances.**
+- **A defect or malformation.**
+- **A failure of a classical symmetry due to quantum corrections.**
 - **An irregularity or disproportion.**
 ---
 ### Synonyms
-- [[abnormality]], [[deviance]], [[deviation]], [[exception]], [[inconsistency]], [[irregularity]], [[phenomenon]]
+- [[[[a/_abnormality|abnormality]]]], [[[[d/_deviance|deviance]]]], [[[[d/_deviation|deviation]]]], [[exception]], [[inconsistency]], [[irregularity]], [[phenomenon]]
 ---

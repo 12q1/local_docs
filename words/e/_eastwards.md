@@ -1,0 +1,6 @@
+# Eastwards
+---
+#adverb
+- **Eastward.**
+---
+---

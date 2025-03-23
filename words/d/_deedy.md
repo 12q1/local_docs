@@ -1,7 +1,7 @@
 # Deedy
 ---
 #adjective
-- **Industrious; [[a/_active|active]].**
+- **Industrious; active.**
 - **Earnest; serious.**
 ---
 ---

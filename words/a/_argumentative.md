@@ -1,11 +1,11 @@
 # Argumentative
 ---
 #adjective
-- **Of or relating to [[a/_argumentation|argumentation]]; specifically, presenting a logical [[a/_argument|argument]] or line of reasoning; [[a/_argumentive|argumentive]], discursive.**
-- **Prone to [[a/_argue|argue]] or dispute.**
+- **Of or relating to argumentation; specifically, presenting a logical argument or line of reasoning; argumentive, discursive.**
+- **Prone to argue or dispute.**
 ---
 ### Synonyms
-- [[argumentary]], [[discursory]]
+- [[argumentary]], [[[[d/_discursory|discursory]]]]
 ### Antonyms
 - [[nonargumentative]], [[unargumentative]]
 ---

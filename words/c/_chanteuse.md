@@ -1,8 +1,8 @@
 # Chanteuse
 ---
 #noun
-- **A female singer; often specifically a popular or [[c/_cabaret|cabaret]] singer.**
+- **A female singer; often specifically a popular or cabaret singer.**
 ---
 ### Synonyms
-- [[chantress]]
+- [[[[c/_chantress|chantress]]]]
 ---

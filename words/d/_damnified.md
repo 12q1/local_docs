@@ -1,7 +1,7 @@
 # Damnified
 ---
 #verb
-- **To [[d/_damage|damage]] physically; to injure.**
-- **To [[c/_cause|cause]] injuries or loss to.**
+- **To damage physically; to injure.**
+- **To cause injuries or loss to.**
 ---
 ---

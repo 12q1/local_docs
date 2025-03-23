@@ -1,6 +1,6 @@
 # Barbastelle
 ---
 #noun
-- **A relatively rare European [[b/_bat|bat]], Barbastella barbastellus.**
+- **A relatively rare European bat, Barbastella barbastellus.**
 ---
 ---

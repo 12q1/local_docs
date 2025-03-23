@@ -1,9 +1,9 @@
 # Decolourized
 ---
 #verb
-- **To drain of [[c/_colour|colour]], to remove the [[c/_colour|colour]] from.**
+- **To drain of colour, to remove the colour from.**
 ---
 #adjective
-- **From which pigment has [[b/_been|been]] removed**
+- **From which pigment has been removed**
 ---
 ---

@@ -1,9 +1,9 @@
 # Amphetamines
 ---
 #noun
-- **(proper) The racemic freebase of 1-phenylpropan-2-[[a/_amine|amine]]; an equal parts mixture of levoamphetamine and dextroamphetamine in their pure [[a/_amine|amine]] forms.**
-- **[[a/_any|Any]] mixture of the two [[a/_amphetamine|amphetamine]] enantiomers, dextroamphetamine and levoamphetamine.**
-- **Referring to a substituted [[a/_amphetamine|amphetamine]]; a member of the [[a/_amphetamine|amphetamine]] [[c/_class|class]] of [[c/_chemicals|chemicals]].**
-- **A potent [[c/_central|central]] nervous system stimulant of the phenethylamine [[c/_chemical|chemical]] [[c/_class|class]] that is used to treat ADHD, narcolepsy, and obesity.**
+- **(proper) The racemic freebase of 1-phenylpropan-2-amine; an equal parts mixture of levoamphetamine and dextroamphetamine in their pure amine forms.**
+- **Any mixture of the two amphetamine enantiomers, dextroamphetamine and levoamphetamine.**
+- **Referring to a substituted amphetamine; a member of the amphetamine class of chemicals.**
+- **A potent central nervous system stimulant of the phenethylamine chemical class that is used to treat ADHD, narcolepsy, and obesity.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Accidentals
 ---
 #noun
-- **A property which is not essential; a nonessential; [[a/_anything|anything]] happening [[a/_accidentally|accidentally]].**
-- **Those fortuitous effects produced by luminous rays falling on [[c/_certain|certain]] objects so that some parts stand forth in [[a/_abnormal|abnormal]] [[b/_brightness|brightness]] and other parts are [[c/_cast|cast]] into a [[d/_deep|deep]] shadow.**
-- **A sharp, flat, or natural, occurring not at the [[c/_commencement|commencement]] of a piece of music as the signature, but [[b/_before|before]] a particular note.**
-- **Part of a text that has a mainly structural purpose, such as spelling, punctuation or [[c/_capitalization|capitalization]].**
+- **A property which is not essential; a nonessential; anything happening accidentally.**
+- **Those fortuitous effects produced by luminous rays falling on certain objects so that some parts stand forth in abnormal brightness and other parts are cast into a deep shadow.**
+- **A sharp, flat, or natural, occurring not at the commencement of a piece of music as the signature, but before a particular note.**
+- **Part of a text that has a mainly structural purpose, such as spelling, punctuation or capitalization.**
 ---
 ---

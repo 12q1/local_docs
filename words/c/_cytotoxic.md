@@ -1,10 +1,10 @@
 # Cytotoxic
 ---
 #noun
-- **[[a/_any|Any]] [[c/_cytotoxic|cytotoxic]] substance; a [[c/_cytotoxin|cytotoxin]].**
+- **Any cytotoxic substance; a cytotoxin.**
 ---
 #adjective
-- **Of, relating to, or [[b/_being|being]] a [[c/_cytotoxin|cytotoxin]].**
-- **Of or relating to [[c/_cytotoxicity|cytotoxicity]].**
+- **Of, relating to, or being a cytotoxin.**
+- **Of or relating to cytotoxicity.**
 ---
 ---

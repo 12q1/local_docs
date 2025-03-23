@@ -1,8 +1,8 @@
 # Acinar
 ---
 #adjective
-- **Of, pertaining to, or located in an [[a/_acinus|acinus]].**
+- **Of, pertaining to, or located in an acinus.**
 ---
 ### Synonyms
-- [[acinary]], [[acinic]]
+- [[[[a/_acinary|acinary]]]], [[[[a/_acinic|acinic]]]]
 ---

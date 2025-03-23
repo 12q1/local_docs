@@ -1,11 +1,11 @@
 # Antifeminist
 ---
 #noun
-- **A person who is [[a/_antagonistic|antagonistic]] to feminism.**
-- **An [[a/_advocate|advocate]] of [[a/_antifeminism|antifeminism]].**
+- **A person who is antagonistic to feminism.**
+- **An advocate of antifeminism.**
 ---
 #adjective
-- **[[a/_antagonistic|Antagonistic]] to feminism**
-- **[[a/_advocating|Advocating]] [[a/_antifeminism|antifeminism]]**
+- **Antagonistic to feminism**
+- **Advocating antifeminism**
 ---
 ---

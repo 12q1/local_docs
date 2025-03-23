@@ -1,6 +1,6 @@
 # Delightful
 ---
 #adjective
-- **Pleasant; pleasing, [[b/_bringing|bringing]] enjoyment, satisfaction, or pleasure.**
+- **Pleasant; pleasing, bringing enjoyment, satisfaction, or pleasure.**
 ---
 ---

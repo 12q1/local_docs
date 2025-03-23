@@ -1,6 +1,6 @@
 # Congregationalism
 ---
 #noun
-- **[[a/_any|Any]] of several forms of [[c/_church|church]] organization in which each [[c/_congregation|congregation]] is responsible for its own government.**
+- **Any of several forms of church organization in which each congregation is responsible for its own government.**
 ---
 ---

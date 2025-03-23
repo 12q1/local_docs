@@ -1,36 +1,36 @@
 # Bump
 ---
 #noun
-- **A light [[b/_blow|blow]] or jolting [[c/_collision|collision]].**
-- **The sound of such a [[c/_collision|collision]].**
+- **A light blow or jolting collision.**
+- **The sound of such a collision.**
 - **A protuberance on a level surface.**
-- **A swelling on the skin [[c/_caused|caused]] by illness or injury.**
-- **One of the protuberances on the [[c/_cranium|cranium]] which, in phrenology, are [[a/_associated|associated]] with distinct faculties or [[a/_affections|affections]] of the mind. [[a/_also|Also]] (metonymically) the faculty itself**
+- **A swelling on the skin caused by illness or injury.**
+- **One of the protuberances on the cranium which, in phrenology, are associated with distinct faculties or affections of the mind. Also (metonymically) the faculty itself**
 	- _Example: the bump of veneration; the bump of acquisitiveness_
-- **The point, in a race in which [[b/_boats|boats]] are spaced [[a/_apart|apart]] at the start, at which a [[b/_boat|boat]] [[b/_begins|begins]] to overtake the [[b/_boat|boat]] [[a/_ahead|ahead]].**
-- **The swollen [[a/_abdomen|abdomen]] of a pregnant woman.**
-- **A post in an Internet forum thread made in order to raise the thread's profile by returning it to the top of the list of [[a/_active|active]] threads.**
+- **The point, in a race in which boats are spaced apart at the start, at which a boat begins to overtake the boat ahead.**
+- **The swollen abdomen of a pregnant woman.**
+- **A post in an Internet forum thread made in order to raise the thread's profile by returning it to the top of the list of active threads.**
 - **A temporary increase in a quantity, as shown in a graph.**
 	- _Example: US presidential nominees get a post-convention bump in survey ratings._
-- **A dose of a drug such as ketamine or [[c/_cocaine|cocaine]], when snorted recreationally.**
-- **The noise made by the [[b/_bittern|bittern]]; a [[b/_boom|boom]].**
-- **(preceded by [[d/_definite|definite]] [[a/_article|article]]) A disco [[d/_dance|dance]] in which partners rhythmically [[b/_bump|bump]] each other's hips together.**
-- **In skipping, a single jump over two [[c/_consecutive|consecutive]] turns of the rope.**
-- **A [[c/_coarse|coarse]] [[c/_cotton|cotton]] fabric.**
+- **A dose of a drug such as ketamine or cocaine, when snorted recreationally.**
+- **The noise made by the bittern; a boom.**
+- **(preceded by definite article) A disco dance in which partners rhythmically bump each other's hips together.**
+- **In skipping, a single jump over two consecutive turns of the rope.**
+- **A coarse cotton fabric.**
 - **A training match for a fighting dog.**
 - **The jaw of either of the middle pockets.**
-- **Music, especially played over speakers at loud volume with strong [[b/_bass|bass]] frequency response.**
+- **Music, especially played over speakers at loud volume with strong bass frequency response.**
 ---
 #verb
-- **To knock [[a/_against|against]] or run into with a jolt.**
+- **To knock against or run into with a jolt.**
 - **To move up or down by a step; displace.**
 	- _Example: I bumped the font size up to make my document easier to read._
-- **To post in an Internet forum thread in order to raise the thread's profile by returning it to the top of the list of [[a/_active|active]] threads.**
-- **(of a superheated liquid) To suddenly [[b/_boil|boil]], [[c/_causing|causing]] movement of the vessel and loss of liquid.**
-- **To move (a [[b/_booked|booked]] passenger) to a later flight [[b/_because|because]] of earlier [[d/_delays|delays]] or [[c/_cancellations|cancellations]].**
+- **To post in an Internet forum thread in order to raise the thread's profile by returning it to the top of the list of active threads.**
+- **(of a superheated liquid) To suddenly boil, causing movement of the vessel and loss of liquid.**
+- **To move (a booked passenger) to a later flight because of earlier delays or cancellations.**
 - **To move the time of (a scheduled event).**
 - **To pick (a lock) with a repeated striking motion that dislodges the pins.**
-- **To make a loud, heavy, or hollow noise; to [[b/_boom|boom]].**
-- **To spread out material so as to fill [[a/_any|any]] [[d/_desired|desired]] number of pages.**
+- **To make a loud, heavy, or hollow noise; to boom.**
+- **To spread out material so as to fill any desired number of pages.**
 ---
 ---

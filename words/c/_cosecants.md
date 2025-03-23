@@ -1,6 +1,6 @@
 # Cosecants
 ---
 #noun
-- **In a right triangle, the reciprocal of the sine of an [[a/_angle|angle]]. Symbols: [[c/_cosec|cosec]], [[c/_csc|csc]]**
+- **In a right triangle, the reciprocal of the sine of an angle. Symbols: cosec, csc**
 ---
 ---

@@ -1,10 +1,10 @@
 # Cascabel
 ---
 #noun
-- **A small, round, hot variety of [[c/_chili|chili]] pepper, [[c/_capsicum|Capsicum]] annuum, which rattles when dry.**
-- **A knob at the end of a [[c/_cannon|cannon]], [[c/_cast|cast]] onto the gun [[b/_barrel|barrel]], to which ropes are [[a/_attached|attached]] in order to [[c/_control|control]] recoil.**
-- **A [[b/_bell|bell]] [[a/_attached|attached]] to a sleigh or sleigh harness.**
+- **A small, round, hot variety of chili pepper, Capsicum annuum, which rattles when dry.**
+- **A knob at the end of a cannon, cast onto the gun barrel, to which ropes are attached in order to control recoil.**
+- **A bell attached to a sleigh or sleigh harness.**
 ---
 ### Synonyms
-- [[jingle bell]], [[coban]]
+- [[jingle [[b/_bell|bell]]]], [[coban]]
 ---

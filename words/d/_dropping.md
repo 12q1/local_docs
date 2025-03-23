@@ -1,0 +1,74 @@
+# Dropping
+---
+#verb
+- **To fall in droplets (of a liquid).**
+- **To drip (a liquid).**
+	- _Example: The equipment shows how much the glacier has moved and the amount it dropped in height over the summer._
+- **Generally, to fall (straight down).**
+	- _Example: A single shot was fired and the bird dropped from the sky._
+- **To let fall; to allow to fall (either by releasing hold of, or losing one's grip on).**
+	- _Example: Don't drop that plate!   The police ordered the men to drop their weapons._
+- **To let drops fall; to discharge itself in drops.**
+- **To lower; to move to a lower position.**
+- **To set down from a vehicle; to deliver or deposit by stopping.**
+	- _Example: Could you drop me at the airport on your way to work tomorrow?_
+- **To sink quickly to the ground.**
+	- _Example: Drop and give me thirty push-ups, private!_
+- **To fall dead, or to fall in death.**
+- **To come to an end (by not being kept up); to stop.**
+- **To mention casually or incidentally, usually in conversation.**
+	- _Example: The moderator would drop hints whenever the students struggled._
+- **To part with or spend (money).**
+- **To cease concerning oneself over; to have nothing more to do with (a subject, discussion etc.).**
+	- _Example: I'm tired of this subject. Will you just drop it?_
+- **To lessen, decrease, or diminish in value, condition, degree, etc.**
+	- _Example: The stock dropped 1.5% yesterday.   We can take our vacation when the price of fuel drops.   Watch for the temperature to drop sharply, then you'll know the reaction is complete._
+- **To let (a letter etc.) fall into a postbox; to send (a letter or message) in an offhand manner.**
+	- _Example: Drop me a note when you get to the city._
+- **To make (someone or something) fall to the ground from a blow, gunshot etc.; to bring down, to shoot down.**
+	- _Example: Make any sudden movements and I will drop you!_
+- **To fail to write, or (especially) to pronounce (a syllable, letter etc.).**
+	- _Example: Cockneys drop their aitches._
+- **(of a fielder) To fail to make a catch from a batted ball that would have led to the batsman being out.**
+	- _Example: Warne dropped Tendulkar on 99. Tendulkar went on to get a century next ball_
+- **To swallow (a drug), particularly LSD.**
+	- _Example: They had never dropped acid._
+- **To dispose (of); get rid of; to remove; to lose.**
+	- _Example: I dropped ten pounds and an obnoxious fiancée._
+- **To eject; to dismiss; to cease to include, as if on a list.**
+	- _Example: I've been dropped from the football team._
+- **To drop out of the betting.**
+- **(rugby football) To score (a goal) by means of a drop kick.**
+- **To impart.**
+	- _Example: I drop knowledge wherever I go._
+- **To release to the public.**
+	- _Example: That hacker has been threatening to drop my docs [i.e. publish my personal information]._
+- **To play a portion of music in the manner of a disc jockey.**
+	- _Example: I love it when he drops his funky beats._
+- **To enter public distribution.**
+	- _Example: "Hip-Hop Xmas" dropped in time for the holidays._
+- **To tune (a guitar string, etc.) to a lower note.**
+- **To cancel or end a scheduled event, project or course.**
+	- _Example: I had to drop calculus because it was taking up too much of my time and I couldn't go anymore._
+- **(fast food) To cook, especially by deep-frying or grilling.**
+	- _Example: Drop a basket of fries._
+- **(of a voice) To lower in timbre, often relating to puberty.**
+	- _Example: Billy's voice dropped suddenly when he turned 12._
+- **(of a sound or song) To lower in pitch, tempo, key, or other quality.**
+	- _Example: My synthesizer makes the notes sound funny when they drop below C2._
+- **(of people) To visit informally; used with in or by.**
+	- _Example: Do drop by soon and I'll lend you that book._
+- **To give birth to.**
+	- _Example: to drop a lamb_
+- **To cover with drops; to variegate; to bedrop.**
+- **(of the testicles) To hang lower and begin producing sperm due to puberty.**
+---
+### Synonyms
+- [[[[d/_drop|drop]] off]]
+#noun
+- **Something dropped.**
+- **(usually in the plural) A piece of animal excrement; dung.**
+	- _Example: a rabbit dropping_
+- **The act of something that drops or falls.**
+---
+---

@@ -1,0 +1,6 @@
+# Duramen
+---
+#noun
+- **Heartwood**
+---
+---

@@ -1,11 +1,11 @@
 # Bossed
 ---
 #verb
-- **To exercise [[a/_authoritative|authoritative]] [[c/_control|control]] over; to tell (someone) what to do, often repeatedly.**
+- **To exercise authoritative control over; to tell (someone) what to do, often repeatedly.**
 ---
 ### Synonyms
-- [[boss around]], [[lord over]]
+- [[[[b/_boss|boss]] [[a/_around|around]]]], [[lord over]]
 #verb
-- **To [[d/_decorate|decorate]] with [[b/_bosses|bosses]]; to emboss.**
+- **To decorate with bosses; to emboss.**
 ---
 ---

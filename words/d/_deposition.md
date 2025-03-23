@@ -2,15 +2,15 @@
 ---
 #noun
 - **The removal of someone from office.**
-- **The [[a/_act|act]] of [[d/_depositing|depositing]] material, especially by a natural process; the resultant [[d/_deposit|deposit]].**
+- **The act of depositing material, especially by a natural process; the resultant deposit.**
 - **The production of a thin film of material onto an existing surface.**
-- **The process of taking sworn testimony out of [[c/_court|court]]; the testimony so taken.**
+- **The process of taking sworn testimony out of court; the testimony so taken.**
 - **The formation of snow or frost directly from water vapor.**
 - **The transformation of a gas into a solid without an intermediate liquid phase (reverse of sublimation)**
-- **The formal placement of relics in a [[c/_church|church]] or shrine, and the feast [[d/_day|day]] [[c/_commemorating|commemorating]] it.**
+- **The formal placement of relics in a church or shrine, and the feast day commemorating it.**
 ---
 ### Synonyms
 - [[desublimation]]
 ### Antonyms
-- [[corrosion]], [[erosion]], [[sublimation]]
+- [[[[c/_corrosion|corrosion]]]], [[erosion]], [[sublimation]]
 ---

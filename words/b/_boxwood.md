@@ -1,10 +1,10 @@
 # Boxwood
 ---
 #noun
-- **The [[b/_box|box]] tree, [[b/_buxus|Buxus]] sempervirens.**
-- **The hard, [[c/_close|close]]-grained wood of this tree, used in [[d/_delicate|delicate]] woodwork and in making inlays.**
-- **[[a/_any|Any]] tree of genus [[b/_buxus|Buxus]].**
+- **The box tree, Buxus sempervirens.**
+- **The hard, close-grained wood of this tree, used in delicate woodwork and in making inlays.**
+- **Any tree of genus Buxus.**
 ---
 ### Synonyms
-- [[common box]]
+- [[[[c/_common|common]] [[b/_box|box]]]]
 ---

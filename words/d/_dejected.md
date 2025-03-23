@@ -2,13 +2,13 @@
 ---
 #verb
 - **Make sad or dispirited.**
-- **To [[c/_cast|cast]] down.**
+- **To cast down.**
 ---
 #adjective
 - **Sad and dispirited.**
 ---
 ### Synonyms
-- [[despondent]], [[disheartened]], [[down in the mouth]]
+- [[[[d/_despondent|despondent]]]], [[[[d/_disheartened|disheartened]]]], [[[[d/_down|down]] in the mouth]]
 ### Antonyms
 - [[hopeful]]
 ---

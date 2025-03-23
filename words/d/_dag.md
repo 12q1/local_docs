@@ -1,13 +1,13 @@
 # Dag
 ---
 #noun
-- **A hanging end or shred, in particular a long pointed strip of [[c/_cloth|cloth]] at the edge of a piece of [[c/_clothing|clothing]], or one of a row of [[d/_decorative|decorative]] strips of [[c/_cloth|cloth]] that may ornament a tent, [[b/_booth|booth]] or fairground.**
-- **A [[d/_dangling|dangling]] lock of sheep’s wool matted with dung.**
+- **A hanging end or shred, in particular a long pointed strip of cloth at the edge of a piece of clothing, or one of a row of decorative strips of cloth that may ornament a tent, booth or fairground.**
+- **A dangling lock of sheep’s wool matted with dung.**
 ---
 ### Synonyms
-- [[dagging]], [[daglock]], [[taglock]], [[dung tag]]
+- [[[[d/_dagging|dagging]]]], [[[[d/_daglock|daglock]]]], [[taglock]], [[[[d/_dung|dung]] tag]]
 #verb
-- **To shear the hindquarters of a sheep in order to remove [[d/_dags|dags]] or prevent their formation.**
-- **To [[d/_daggle|daggle]] or [[b/_bemire|bemire]].**
+- **To shear the hindquarters of a sheep in order to remove dags or prevent their formation.**
+- **To daggle or bemire.**
 ---
 ---

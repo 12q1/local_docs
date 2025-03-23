@@ -1,11 +1,11 @@
 # Curbs
 ---
 #noun
-- **A [[c/_concrete|concrete]] margin [[a/_along|along]] the edge of a road; a kerb (UK, [[a/_australia|Australia]], New Zealand)**
-- **A raised margin [[a/_along|along]] the edge of something, such as a well or the eye of a dome, as a strengthening.**
-- **Something that [[c/_checks|checks]] or restrains; a restraint.**
-- **A riding or driving [[b/_bit|bit]] for a horse that has rein [[a/_action|action]] which [[a/_amplifies|amplifies]] the pressure in the mouth by leverage [[a/_advantage|advantage]] placing pressure on the poll via the [[c/_crown|crown]] piece of the [[b/_bridle|bridle]] and [[c/_chin|chin]] groove via a [[c/_curb|curb]] [[c/_chain|chain]].**
-- **A sidewalk, [[c/_covered|covered]] or partially enclosed, [[b/_bordering|bordering]] the [[a/_airport|airport]] terminal road system with [[a/_adjacent|adjacent]] paved [[a/_areas|areas]] to permit vehicles to off-load or load passengers.**
-- **A swelling on the [[b/_back|back]] part of the hind leg of a horse, just [[b/_behind|behind]] the lowest part of the hock joint, generally [[c/_causing|causing]] lameness.**
+- **A concrete margin along the edge of a road; a kerb (UK, Australia, New Zealand)**
+- **A raised margin along the edge of something, such as a well or the eye of a dome, as a strengthening.**
+- **Something that checks or restrains; a restraint.**
+- **A riding or driving bit for a horse that has rein action which amplifies the pressure in the mouth by leverage advantage placing pressure on the poll via the crown piece of the bridle and chin groove via a curb chain.**
+- **A sidewalk, covered or partially enclosed, bordering the airport terminal road system with adjacent paved areas to permit vehicles to off-load or load passengers.**
+- **A swelling on the back part of the hind leg of a horse, just behind the lowest part of the hock joint, generally causing lameness.**
 ---
 ---

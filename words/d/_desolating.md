@@ -1,9 +1,9 @@
 # Desolating
 ---
 #verb
-- **To [[d/_deprive|deprive]] of inhabitants.**
+- **To deprive of inhabitants.**
 - **To devastate or lay waste somewhere.**
-- **To [[a/_abandon|abandon]] or forsake something.**
+- **To abandon or forsake something.**
 - **To make someone sad, forlorn and hopeless.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Confusingly
 ---
 #adverb
-- **In a [[c/_confusing|confusing]] manner**
+- **In a confusing manner**
 ---
 ---

@@ -1,9 +1,9 @@
 # Crayoning
 ---
 #verb
-- **To draw with a [[c/_crayon|crayon]].**
+- **To draw with a crayon.**
 ---
 #noun
-- **A drawing done in [[c/_crayon|crayon]].**
+- **A drawing done in crayon.**
 ---
 ---

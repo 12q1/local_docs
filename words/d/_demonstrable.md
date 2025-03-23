@@ -1,10 +1,10 @@
 # Demonstrable
 ---
 #noun
-- **Something that [[c/_can|can]] be [[d/_demonstrated|demonstrated]].**
+- **Something that can be demonstrated.**
 ---
 #adjective
-- **[[a/_able|Able]] to be [[d/_demonstrated|demonstrated]].**
+- **Able to be demonstrated.**
 	- _Example: It is easily demonstrable that water extinguishes fire._
 ---
 ### Antonyms

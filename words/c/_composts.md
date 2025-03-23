@@ -1,7 +1,7 @@
 # Composts
 ---
 #verb
-- **To produce [[c/_compost|compost]], let organic matter [[d/_decay|decay]] into fertilizer.**
+- **To produce compost, let organic matter decay into fertilizer.**
 	- _Example: If you compost your grass clippings, you can improve your soil._
 ---
 ---

@@ -1,19 +1,19 @@
 # Authoritarian
 ---
 #noun
-- **One who [[c/_commands|commands]] [[a/_absolute|absolute]] obedience to his or her [[a/_authority|authority]].**
+- **One who commands absolute obedience to his or her authority.**
 	- _Example: The dictator was an authoritarian._
-- **One who follows and is excessively obedient to [[a/_authority|authority]].**
+- **One who follows and is excessively obedient to authority.**
 	- _Example: 2006, Robert Altemeyer, The Authoritarians_
 ---
 #adjective
-- **Of, or relating to, or exhibiting strict obedience to an [[a/_authority|authority]]; favoring [[a/_authoritarianism|authoritarianism]] over [[c/_civic|civic]] and individual liberties.**
-- **[[d/_demanding|Demanding]] obedience to [[a/_authority|authority]]; marked by [[a/_authoritarianism|authoritarianism]]; dictatorial, tyrannical.**
+- **Of, or relating to, or exhibiting strict obedience to an authority; favoring authoritarianism over civic and individual liberties.**
+- **Demanding obedience to authority; marked by authoritarianism; dictatorial, tyrannical.**
 	- _Example: The authoritarian government was demanding stricter laws for low-wage peasants._
-- **Tending to impose one's [[d/_demands|demands]] upon others as if one were an [[a/_authority|authority]].**
+- **Tending to impose one's demands upon others as if one were an authority.**
 ---
 ### Synonyms
-- [[illiberal]], [[oppressive]], [[arrogant]], [[commanding]], [[haughty]], [[imperious]]
+- [[illiberal]], [[oppressive]], [[[[a/_arrogant|arrogant]]]], [[[[c/_commanding|commanding]]]], [[haughty]], [[imperious]]
 ### Antonyms
 - [[liberal]], [[humble]], [[modest]], [[servile]]
 ---

@@ -1,10 +1,10 @@
 # Cuss
 ---
 #noun
-- **A [[c/_curse|curse]].**
-- **A [[c/_curse|curse]] word.**
+- **A curse.**
+- **A curse word.**
 ---
 #verb
-- **To use [[c/_cursing|cursing]], to use [[b/_bad|bad]] language, to speak profanely.**
+- **To use cursing, to use bad language, to speak profanely.**
 ---
 ---

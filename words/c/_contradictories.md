@@ -1,6 +1,6 @@
 # Contradictories
 ---
 #noun
-- **Either of a pair of propositions, that [[c/_cannot|cannot]] [[b/_both|both]] be true or [[b/_both|both]] be false.**
+- **Either of a pair of propositions, that cannot both be true or both be false.**
 ---
 ---

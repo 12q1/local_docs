@@ -4,5 +4,5 @@
 - **Earwax**
 ---
 ### Synonyms
-- [[earwax]], [[wax]]
+- [[[[e/_earwax|earwax]]]], [[wax]]
 ---

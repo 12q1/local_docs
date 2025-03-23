@@ -1,11 +1,11 @@
 # Baseness
 ---
 #noun
-- **The quality or [[c/_condition|condition]] of [[b/_being|being]] [[b/_base|base]].**
-- **The quality of [[b/_being|being]] unworthy to hold virtues or value.**
+- **The quality or condition of being base.**
+- **The quality of being unworthy to hold virtues or value.**
 ---
 ### Synonyms
-- [[depravity]]
+- [[[[d/_depravity|depravity]]]]
 ### Antonyms
 - [[honor]], [[morality]]
 ---

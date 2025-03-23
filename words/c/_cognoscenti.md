@@ -1,6 +1,6 @@
 # Cognoscenti
 ---
 #noun
-- **Someone possessing superior or specialized knowledge in a particular field; a [[c/_connoisseur|connoisseur]].**
+- **Someone possessing superior or specialized knowledge in a particular field; a connoisseur.**
 ---
 ---

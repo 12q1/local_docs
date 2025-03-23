@@ -1,10 +1,10 @@
 # Ceratopsian
 ---
 #noun
-- **[[a/_any|Any]] member of this suborder**
+- **Any member of this suborder**
 ---
 #adjective
-- **Of or [[b/_belonging|belonging]] to the [[c/_ceratopsia|Ceratopsia]] suborder of dinosaurs.**
+- **Of or belonging to the Ceratopsia suborder of dinosaurs.**
 	- _Example: One common ceratopsian feature is a frill extending from the back of the skull._
 ---
 ---

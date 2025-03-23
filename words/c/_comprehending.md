@@ -1,7 +1,7 @@
 # Comprehending
 ---
 #verb
-- **To include, [[c/_comprise|comprise]]; to [[c/_contain|contain]].**
+- **To include, comprise; to contain.**
 - **To understand or grasp fully and thoroughly.**
 ---
 ---

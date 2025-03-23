@@ -1,9 +1,9 @@
 # Cultish
 ---
 #adjective
-- **Resembling a [[c/_cult|cult]]**
+- **Resembling a cult**
 	- _Example: a cultish movement_
-- **Having an intense [[a/_admiration|admiration]] or fandom**
+- **Having an intense admiration or fandom**
 ---
 ### Synonyms
 - [[cultlike]]

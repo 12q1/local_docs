@@ -1,0 +1,6 @@
+# Dissentients
+---
+#noun
+- **A dissenter.**
+---
+---

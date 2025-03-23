@@ -1,6 +1,6 @@
 # Clangorous
 ---
 #adjective
-- **Making a [[c/_clangor|clangor]].**
+- **Making a clangor.**
 ---
 ---

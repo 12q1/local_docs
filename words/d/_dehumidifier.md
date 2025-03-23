@@ -1,7 +1,7 @@
 # Dehumidifier
 ---
 #noun
-- **A device for removing the moisture [[c/_content|content]] from [[a/_air|air]]**
+- **A device for removing the moisture content from air**
 ---
 ### Antonyms
 - [[humidifier]]

@@ -1,0 +1,6 @@
+# Discretional
+---
+#adjective
+- **Discretionary**
+---
+---

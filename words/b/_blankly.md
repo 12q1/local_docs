@@ -1,6 +1,6 @@
 # Blankly
 ---
 #adverb
-- **In a [[b/_blank|blank]] manner, especially showing no emotion or expression.**
+- **In a blank manner, especially showing no emotion or expression.**
 ---
 ---

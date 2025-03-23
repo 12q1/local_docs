@@ -1,6 +1,6 @@
 # Chinos
 ---
 #noun
-- **Trousers made from [[c/_chino|chino]]**
+- **Trousers made from chino**
 ---
 ---

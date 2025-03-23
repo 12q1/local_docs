@@ -1,80 +1,80 @@
 # Ac
 ---
 #noun
-- **Initialism of adenylyl [[c/_cyclase|cyclase]].**
-- **Initialism of [[a/_adjuvant|adjuvant]] [[c/_chemotherapy|chemotherapy]].**
-- **Initialism of [[a/_air|air]] [[c/_corps|corps]].**
-- **Initialism of [[a/_army|army]] [[c/_corps|corps]].**
-- **Initialism of [[a/_athletic|athletic]] [[c/_club|club]].**
-- **Initialism of [[a/_audible|audible]] [[c/_chuckle|chuckle]].**
-- **Initialism of [[a/_author|author]]'s [[c/_correction|correction]].**
-- **Initialism of [[a/_automobile|automobile]] [[c/_club|club]].**
-- **Initialism of [[a/_auxiliary|Auxiliary]] [[c/_collier|Collier]], (a naval [[c/_coal|coal]] transport that travels with the fleet to provide [[c/_coal|coal]] for [[c/_coal|coal]] powered warships)**
-- **[[c/_companion|Companion]] of the Order of [[a/_australia|Australia]].**
-- **Initialism of [[a/_aviation|aviation]] [[c/_cadet|cadet]].**
-- **Initialism of [[a/_autonomous|autonomous]] [[c/_county|county]].**
+- **Initialism of adenylyl cyclase.**
+- **Initialism of adjuvant chemotherapy.**
+- **Initialism of air corps.**
+- **Initialism of army corps.**
+- **Initialism of athletic club.**
+- **Initialism of audible chuckle.**
+- **Initialism of author's correction.**
+- **Initialism of automobile club.**
+- **Initialism of Auxiliary Collier, (a naval coal transport that travels with the fleet to provide coal for coal powered warships)**
+- **Companion of the Order of Australia.**
+- **Initialism of aviation cadet.**
+- **Initialism of autonomous county.**
 ---
 ### Antonyms
-- [[DC]]
+- [[[[d/_dc|DC]]]]
 #noun
-- **The maximum [[a/_altitude|altitude]] [[a/_above|above]] sea level that an [[a/_aircraft|aircraft]] or missile [[c/_can|can]] maintain horizontal flight under normal [[c/_conditions|conditions]].**
+- **The maximum altitude above sea level that an aircraft or missile can maintain horizontal flight under normal conditions.**
 ---
 #noun
-- **[[a/_account|Account]]; money of [[a/_account|account]]**
-- **[[a/_alicyclic|Alicyclic]]**
+- **Account; money of account**
+- **Alicyclic**
 ---
 #adjective
-- **[[a/_ante|Ante]] cibum, [[b/_before|before]] meals**
+- **Ante cibum, before meals**
 ---
 #noun
-- **The practice of restricting entrance to a property, a [[b/_building|building]], or a room to [[a/_authorized|authorized]] persons.**
-- **In technology, permitting or [[d/_denying|denying]] the use of a particular resource.**
+- **The practice of restricting entrance to a property, a building, or a room to authorized persons.**
+- **In technology, permitting or denying the use of a particular resource.**
 ---
 ### Synonyms
-- [[AC]]
+- [[[[a/_ac|AC]]]]
 #noun
-- **A regularly updated record of transactions [[b/_between|between]] two parties showing what is owed or due to each party or a statement summarising the position**
+- **A regularly updated record of transactions between two parties showing what is owed or due to each party or a statement summarising the position**
 ---
 #noun
-- **An English unit of land [[a/_area|area]] (symbol: a. or [[a/_ac|ac]].) originally [[d/_denoting|denoting]] a [[d/_day|day]]'s plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.**
-- **[[a/_any|Any]] of various similar units of [[a/_area|area]] in other systems.**
+- **An English unit of land area (symbol: a. or ac.) originally denoting a day's plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.**
+- **Any of various similar units of area in other systems.**
 - **(usually in the plural) A wide expanse.**
 	- _Example: I like my new house - there’s acres of space!_
 - **(usually in the plural) A large quantity.**
 - **A field.**
-- **The [[a/_acre|acre]]'s [[b/_breadth|breadth]] by the length, English units of length equal to the statute dimensions of the [[a/_acre|acre]]: 22 yds (≈20 m) by 220 yds (≈200 m).**
-- **A duel fought [[b/_between|between]] individual Scots and Englishmen in the [[b/_borderlands|borderlands]].**
+- **The acre's breadth by the length, English units of length equal to the statute dimensions of the acre: 22 yds (≈20 m) by 220 yds (≈200 m).**
+- **A duel fought between individual Scots and Englishmen in the borderlands.**
 ---
 ### Synonyms
-- [[morgen]], [[feddan]], [[arpen]], [[arpent]], [[pose]], [[bigha]], [[cawney]], [[cawny]], [[Irish acre]], [[collop]], [[plantation acre]], [[juger]], [[jugerum]], [[Scotch acre]], [[Scots acre]], [[Scottish acre]], [[acair]], [[Welsh acre]], [[cover]], [[cyfair]], [[erw]], [[stang]], [[day's math]], [[demath]]
+- [[morgen]], [[feddan]], [[[[a/_arpen|arpen]]]], [[[[a/_arpent|arpent]]]], [[pose]], [[[[b/_bigha|bigha]]]], [[[[c/_cawney|cawney]]]], [[[[c/_cawny|cawny]]]], [[Irish [[a/_acre|acre]]]], [[[[c/_collop|collop]]]], [[plantation [[a/_acre|acre]]]], [[juger]], [[jugerum]], [[Scotch [[a/_acre|acre]]]], [[Scots [[a/_acre|acre]]]], [[Scottish [[a/_acre|acre]]]], [[acair]], [[Welsh [[a/_acre|acre]]]], [[[[c/_cover|cover]]]], [[cyfair]], [[erw]], [[stang]], [[[[d/_day|day]]'s math]], [[demath]]
 #noun
-- **A [[c/_category|category]] of music including soft rock, [[b/_ballads|ballads]], easy listening, soul, and rhythm and [[b/_blues|blues]].**
+- **A category of music including soft rock, ballads, easy listening, soul, and rhythm and blues.**
 ---
 #noun
-- **The state of temperature and humidity produced by an [[a/_air|air]] [[c/_conditioner|conditioner]].**
-- **An [[a/_air|air]] [[c/_conditioner|conditioner]] or system of [[a/_air|air]] [[c/_conditioners|conditioners]].**
+- **The state of temperature and humidity produced by an air conditioner.**
+- **An air conditioner or system of air conditioners.**
 	- _Example: This car has air conditioning._
 ---
 #noun
-- **A member of the lowest rank in the Royal [[a/_air|Air]] Force or the [[a/_air|air]] forces of various other [[c/_commonwealth|Commonwealth]] [[c/_countries|countries]].**
+- **A member of the lowest rank in the Royal Air Force or the air forces of various other Commonwealth countries.**
 ---
 #noun
-- **An electric [[c/_current|current]] in which the direction of flow of the electrons reverses periodically, such as sawtooth, sinusoidal or square wave [[c/_current|current]].**
-- **An electric [[c/_current|current]] in which the direction of flow of the electrons reverses periodically by a sinusoidal law, hence having an [[a/_average|average]] of zero, with positive and negative values (with a frequency of 50 Hz in Europe, 60 Hz in the US, 400 Hz for [[a/_airport|airport]] lighting, and some others); especially such a [[c/_current|current]] produced by a rotating generator or [[a/_alternator|alternator]].**
+- **An electric current in which the direction of flow of the electrons reverses periodically, such as sawtooth, sinusoidal or square wave current.**
+- **An electric current in which the direction of flow of the electrons reverses periodically by a sinusoidal law, hence having an average of zero, with positive and negative values (with a frequency of 50 Hz in Europe, 60 Hz in the US, 400 Hz for airport lighting, and some others); especially such a current produced by a rotating generator or alternator.**
 ---
 #noun
-- **A water-soluble salt of [[a/_ammonia|ammonia]] and hydrochloric [[a/_acid|acid]], having the formula NH4Cl.**
+- **A water-soluble salt of ammonia and hydrochloric acid, having the formula NH4Cl.**
 ---
 #noun
-- **A space inside the eye [[b/_between|between]] the [[c/_cornea|cornea]] and the iris, filled with [[a/_aqueous|aqueous]] humour.**
+- **A space inside the eye between the cornea and the iris, filled with aqueous humour.**
 ---
 #noun
-- **A prefix [[a/_appended|appended]] to a telephone number indicating the geographical [[a/_area|area]].**
+- **A prefix appended to a telephone number indicating the geographical area.**
 ---
 #noun
-- **One of the [[a/_axioms|axioms]] of set theory, equivalent to the statement that an [[a/_arbitrary|arbitrary]] direct product of non-empty sets is non-empty; [[a/_any|any]] version of said [[a/_axiom|axiom]], for example specifying the [[c/_cardinality|cardinality]] of the number of sets from which [[c/_choices|choices]] are made.**
+- **One of the axioms of set theory, equivalent to the statement that an arbitrary direct product of non-empty sets is non-empty; any version of said axiom, for example specifying the cardinality of the number of sets from which choices are made.**
 	- _Example: The axiom of choice is logically equivalent to the assertion that every vector space has a basis._
 ---
 ### Synonyms
-- [[AC]]
+- [[[[a/_ac|AC]]]]
 ---

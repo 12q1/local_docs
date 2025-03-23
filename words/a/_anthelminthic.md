@@ -4,6 +4,6 @@
 - **Such a material; an anthelminth**
 ---
 #adjective
-- **Of use [[a/_against|against]] intestinal worms**
+- **Of use against intestinal worms**
 ---
 ---

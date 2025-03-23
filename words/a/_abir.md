@@ -1,6 +1,6 @@
 # Abir
 ---
 #noun
-- **An [[a/_aromatic|aromatic]] red powder that is used during the Holi festival.**
+- **An aromatic red powder that is used during the Holi festival.**
 ---
 ---

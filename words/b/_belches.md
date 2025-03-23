@@ -1,7 +1,7 @@
 # Belches
 ---
 #noun
-- **The sound one makes when [[b/_belching|belching]].**
+- **The sound one makes when belching.**
 - **Malt liquor.**
 ---
 #verb
@@ -12,5 +12,5 @@
 - **To be ejected or emitted (from something) with spasmodic force or noise.**
 ---
 ### Synonyms
-- [[burp]]
+- [[[[b/_burp|burp]]]]
 ---

@@ -1,6 +1,6 @@
 # Corticated
 ---
 #adjective
-- **[[c/_corticate|Corticate]]**
+- **Corticate**
 ---
 ---

@@ -1,6 +1,6 @@
 # Baas
 ---
 #noun
-- **An employer, a [[b/_boss|boss]]. Frequently as a form of [[a/_address|address]].**
+- **An employer, a boss. Frequently as a form of address.**
 ---
 ---

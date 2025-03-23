@@ -1,11 +1,11 @@
 # Auburn
 ---
 #noun
-- **A [[d/_dark|dark]] reddish-[[b/_brown|brown]] [[c/_colour|colour]], often used to [[d/_describe|describe]] hair [[c/_colour|colour]].**
+- **A dark reddish-brown colour, often used to describe hair colour.**
 ---
 #adjective
-- **Of a reddish-[[b/_brown|brown]] [[c/_colour|colour]].**
+- **Of a reddish-brown colour.**
 ---
 ### Synonyms
-- [[cupreous]]
+- [[[[c/_cupreous|cupreous]]]]
 ---

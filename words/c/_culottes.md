@@ -4,5 +4,5 @@
 - **A type of loose shorts which look like a skirt; a divided skirt.**
 ---
 ### Synonyms
-- [[culotte]]
+- [[[[c/_culotte|culotte]]]]
 ---

@@ -47,7 +47,7 @@ function formatMarkdown(word, data) {
             md += `${tag}\n`;
             
             definitions.forEach(def => {
-                md += `- **${interlinkText(def.definition)}**\n`;
+                md += `- **${def.definition}**\n`;
                 if (def.example) {
                     md += `	- _Example: ${def.example}_\n`;
                 }
@@ -56,11 +56,11 @@ function formatMarkdown(word, data) {
             md += `---\n`;
 
             if (synonyms && synonyms.length > 0) {
-                md += `### Synonyms\n- ${synonyms.map(s => `[[${s}]]`).join(', ')}\n`;
+                md += `### Synonyms\n- ${synonyms.map(s => `[[${interlinkText(s)}]]`).join(', ')}\n`;
             }
 
             if (antonyms && antonyms.length > 0) {
-                md += `### Antonyms\n- ${antonyms.map(a => `[[${a}]]`).join(', ')}\n`;
+                md += `### Antonyms\n- ${antonyms.map(a => `[[${interlinkText(a)}]]`).join(', ')}\n`;
             }
 
         });

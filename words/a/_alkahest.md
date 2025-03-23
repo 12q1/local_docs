@@ -1,6 +1,6 @@
 # Alkahest
 ---
 #noun
-- **A universal solvent sought by the [[a/_alchemists|alchemists]].**
+- **A universal solvent sought by the alchemists.**
 ---
 ---

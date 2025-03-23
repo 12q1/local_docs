@@ -1,10 +1,10 @@
 # Despondent
 ---
 #adjective
-- **In low spirits from loss of hope or [[c/_courage|courage]].**
+- **In low spirits from loss of hope or courage.**
 ---
 ### Synonyms
-- [[crestfallen]], [[dejected]], [[despairing]], [[disconsolate]], [[disheartened]], [[downcast]], [[gloomy]], [[heartsick]], [[hopeless]], [[miserable]], [[sad]]
+- [[[[c/_crestfallen|crestfallen]]]], [[[[d/_dejected|dejected]]]], [[[[d/_despairing|despairing]]]], [[[[d/_disconsolate|disconsolate]]]], [[[[d/_disheartened|disheartened]]]], [[[[d/_downcast|downcast]]]], [[gloomy]], [[heartsick]], [[hopeless]], [[miserable]], [[sad]]
 ### Antonyms
-- [[cheerful]], [[hopeful]]
+- [[[[c/_cheerful|cheerful]]]], [[hopeful]]
 ---

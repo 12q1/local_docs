@@ -1,20 +1,20 @@
 # Bubbly
 ---
 #noun
-- **[[c/_champagne|Champagne]].**
+- **Champagne.**
 	- _Example: We're getting married–this calls for a bottle of bubbly!_
 ---
 ### Synonyms
-- [[champers]], [[fizz]], [[shampoo]]
+- [[[[c/_champers|champers]]]], [[fizz]], [[shampoo]]
 #adjective
-- **Full of [[b/_bubbles|bubbles]].**
+- **Full of bubbles.**
 	- _Example: Whip the egg white into a bubbly froth._
-- **[[c/_cheerful|Cheerful]], lively.**
+- **Cheerful, lively.**
 	- _Example: She has a bubbly personality._
-- **Having the [[c/_characteristics|characteristics]] of [[b/_bubbles|bubbles]].**
+- **Having the characteristics of bubbles.**
 	- _Example: The architecture of the conservatory was bubbly._
-- **Having the [[c/_characteristics|characteristics]] of economic [[b/_bubbles|bubbles]].**
+- **Having the characteristics of economic bubbles.**
 ---
 ### Synonyms
-- [[bubbly]], [[fizzy]], [[sparkling]], [[ebullient]], [[perky]]
+- [[[[b/_bubbly|bubbly]]]], [[fizzy]], [[sparkling]], [[[[e/_ebullient|ebullient]]]], [[perky]]
 ---

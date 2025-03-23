@@ -1,15 +1,15 @@
 # Cumulate
 ---
 #noun
-- **An igneous rock formed by the [[a/_accumulation|accumulation]] of [[c/_crystals|crystals]] from a magma either by settling or floating.**
+- **An igneous rock formed by the accumulation of crystals from a magma either by settling or floating.**
 ---
 #verb
-- **To [[a/_accumulate|accumulate]]; to [[a/_amass|amass]].**
-- **To be [[a/_accumulated|accumulated]].**
+- **To accumulate; to amass.**
+- **To be accumulated.**
 ---
 ### Synonyms
-- [[amass]], [[heap up]]
+- [[[[a/_amass|amass]]]], [[heap up]]
 #adjective
-- **[[a/_accumulated|Accumulated]], [[a/_agglomerated|agglomerated]], [[a/_amassed|amassed]]**
+- **Accumulated, agglomerated, amassed**
 ---
 ---

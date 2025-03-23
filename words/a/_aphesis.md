@@ -7,5 +7,5 @@
 ### Synonyms
 - [[procope]]
 ### Antonyms
-- [[apocope]], [[prothesis]]
+- [[[[a/_apocope|apocope]]]], [[prothesis]]
 ---

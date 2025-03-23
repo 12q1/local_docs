@@ -1,8 +1,8 @@
 # Ancones
 ---
 #noun
-- **The [[c/_corner|corner]] of a wall or rafter.**
-- **A [[c/_console|console]] that [[a/_appears|appears]] to support a [[c/_cornice|cornice]].**
+- **The corner of a wall or rafter.**
+- **A console that appears to support a cornice.**
 - **The elbow.**
 - **The olecranon.**
 ---

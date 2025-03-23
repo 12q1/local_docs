@@ -1,6 +1,6 @@
 # Cruiskeen
 ---
 #noun
-- **A small [[b/_bottle|bottle]].**
+- **A small bottle.**
 ---
 ---

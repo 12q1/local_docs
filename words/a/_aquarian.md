@@ -1,8 +1,8 @@
 # Aquarian
 ---
 #adjective
-- **Of or relating to an [[a/_aquarium|aquarium]].**
+- **Of or relating to an aquarium.**
 ---
 ### Synonyms
-- [[aquarial]]
+- [[[[a/_aquarial|aquarial]]]]
 ---

@@ -1,8 +1,8 @@
 # Corkage
 ---
 #noun
-- **A fee [[c/_charged|charged]] by a restaurant to serve wine that a diner has provided.**
+- **A fee charged by a restaurant to serve wine that a diner has provided.**
 ---
 ### Synonyms
-- [[corking fee]], [[opening fee]]
+- [[[[c/_corking|corking]] fee]], [[opening fee]]
 ---

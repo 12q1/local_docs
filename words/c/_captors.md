@@ -1,9 +1,9 @@
 # Captors
 ---
 #noun
-- **One who is holding a [[c/_captive|captive]] or [[c/_captives|captives]].**
-- **One who [[c/_catches|catches]] or has [[c/_caught|caught]] or [[c/_captured|captured]] something or someone.**
+- **One who is holding a captive or captives.**
+- **One who catches or has caught or captured something or someone.**
 ---
 ### Synonyms
-- [[arrester]], [[nabber]], [[guard]], [[jailer]], [[kidnapper]]
+- [[[[a/_arrester|arrester]]]], [[nabber]], [[guard]], [[jailer]], [[kidnapper]]
 ---

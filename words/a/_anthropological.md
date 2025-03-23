@@ -1,8 +1,8 @@
 # Anthropological
 ---
 #adjective
-- **Relating to [[a/_anthropology|anthropology]].**
+- **Relating to anthropology.**
 ---
 ### Synonyms
-- [[anthropologic]]
+- [[[[a/_anthropologic|anthropologic]]]]
 ---

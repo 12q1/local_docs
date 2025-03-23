@@ -1,8 +1,8 @@
 # Conservatoires
 ---
 #noun
-- **A music [[a/_academy|academy]].**
+- **A music academy.**
 ---
 ### Synonyms
-- [[college of music]], [[conservatory]], [[conservatory of music]], [[music conservatory]], [[music school]], [[musical school]], [[school of music]]
+- [[[[c/_college|college]] of music]], [[[[c/_conservatory|conservatory]]]], [[[[c/_conservatory|conservatory]] of music]], [[music [[c/_conservatory|conservatory]]]], [[music school]], [[musical school]], [[school of music]]
 ---

@@ -7,5 +7,5 @@
 - **(of soil) Difficult to till, lacking pliancy; unmanageable.**
 ---
 ### Synonyms
-- [[cross-grained]], [[rude]], [[surly]], [[ungracious]], [[grudging]], [[illiberal]], [[miserly]], [[niggardly]], [[stingy]], [[rustic]]
+- [[[[c/_cross|cross]]-grained]], [[rude]], [[surly]], [[ungracious]], [[grudging]], [[illiberal]], [[miserly]], [[niggardly]], [[stingy]], [[rustic]]
 ---

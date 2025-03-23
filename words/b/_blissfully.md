@@ -1,6 +1,6 @@
 # Blissfully
 ---
 #adverb
-- **In a [[b/_blissful|blissful]], happy or joyful manner.**
+- **In a blissful, happy or joyful manner.**
 ---
 ---

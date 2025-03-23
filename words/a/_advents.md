@@ -1,8 +1,8 @@
 # Advents
 ---
 #noun
-- **[[a/_arrival|Arrival]]; onset; a time when something first [[c/_comes|comes]] or [[a/_appears|appears]]**
+- **Arrival; onset; a time when something first comes or appears**
 ---
 ### Synonyms
-- [[approach]], [[arrival]], [[oncome]], [[onset]]
+- [[[[a/_approach|approach]]]], [[[[a/_arrival|arrival]]]], [[oncome]], [[onset]]
 ---

@@ -1,7 +1,7 @@
 # Coveralls
 ---
 #noun
-- **A [[c/_coverall|coverall]].**
+- **A coverall.**
 ---
 ### Synonyms
 - [[overalls]]

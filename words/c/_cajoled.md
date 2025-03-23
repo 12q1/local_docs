@@ -1,8 +1,8 @@
 # Cajoled
 ---
 #verb
-- **To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to [[c/_coax|coax]].**
+- **To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.**
 ---
 ### Synonyms
-- [[butter up]], [[coax]], [[entice]], [[inveigle]], [[sweet-talk]], [[wheedle]]
+- [[[[b/_butter|butter]] up]], [[[[c/_coax|coax]]]], [[entice]], [[inveigle]], [[sweet-talk]], [[wheedle]]
 ---

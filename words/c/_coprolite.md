@@ -1,6 +1,6 @@
 # Coprolite
 ---
 #noun
-- **A fossil [[c/_consisting|consisting]] of petrified dung.**
+- **A fossil consisting of petrified dung.**
 ---
 ---

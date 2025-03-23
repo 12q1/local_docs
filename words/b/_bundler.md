@@ -1,8 +1,8 @@
 # Bundler
 ---
 #noun
-- **A machine that [[b/_bundles|bundles]].**
-- **An employee who [[b/_bundles|bundles]] things together, such as [[b/_boards|boards]] for trimming and stacking.**
-- **One who [[b/_bundles|bundles]] software, etc. with [[a/_another|another]] product.**
+- **A machine that bundles.**
+- **An employee who bundles things together, such as boards for trimming and stacking.**
+- **One who bundles software, etc. with another product.**
 ---
 ---

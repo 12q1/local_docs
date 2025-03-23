@@ -1,6 +1,6 @@
 # Bundu
 ---
 #noun
-- **A wilderness region, [[a/_away|away]] from [[c/_cities|cities]].**
+- **A wilderness region, away from cities.**
 ---
 ---

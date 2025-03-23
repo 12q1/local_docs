@@ -1,8 +1,8 @@
 # Crevasses
 ---
 #noun
-- **A [[c/_crack|crack]] or fissure in a glacier or snowfield; a [[c/_chasm|chasm]].**
-- **A [[b/_breach|breach]] in a [[c/_canal|canal]] or river [[b/_bank|bank]].**
-- **A discontinuity or “gap” [[b/_between|between]] the [[a/_accounted|accounted]] variables and an observed outcome.**
+- **A crack or fissure in a glacier or snowfield; a chasm.**
+- **A breach in a canal or river bank.**
+- **A discontinuity or “gap” between the accounted variables and an observed outcome.**
 ---
 ---

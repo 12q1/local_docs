@@ -1,9 +1,9 @@
 # Bracer
 ---
 #noun
-- **That which [[b/_braces|braces]], [[b/_binds|binds]], or makes firm; a [[b/_band|band]] or [[b/_bandage|bandage]].**
-- **A [[c/_covering|covering]] to protect the [[a/_arm|arm]] of the [[b/_bowman|bowman]] from the vibration of the string.**
-- **[[a/_armor|Armor]] for the forearm; a [[b/_brassard|brassard]].**
-- **A medicine, as an [[a/_astringent|astringent]] or a tonic, which gives tension or tone to [[a/_any|any]] part of the [[b/_body|body]].**
+- **That which braces, binds, or makes firm; a band or bandage.**
+- **A covering to protect the arm of the bowman from the vibration of the string.**
+- **Armor for the forearm; a brassard.**
+- **A medicine, as an astringent or a tonic, which gives tension or tone to any part of the body.**
 ---
 ---

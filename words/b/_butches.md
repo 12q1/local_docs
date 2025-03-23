@@ -1,10 +1,10 @@
 # Butches
 ---
 #noun
-- **A lesbian who [[a/_appears|appears]] masculine or [[a/_acts|acts]] in a masculine manner.**
+- **A lesbian who appears masculine or acts in a masculine manner.**
 ---
 ### Synonyms
-- [[bull dyke]], [[dyke]]
+- [[[[b/_bull|bull]] [[d/_dyke|dyke]]]], [[[[d/_dyke|dyke]]]]
 ### Antonyms
 - [[femme]]
 ---

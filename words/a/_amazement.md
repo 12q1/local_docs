@@ -1,9 +1,9 @@
 # Amazement
 ---
 #noun
-- **The [[c/_condition|condition]] of [[b/_being|being]] [[a/_amazed|amazed]]; overwhelming wonder, as from surprise, sudden fear, horror, or [[a/_admiration|admiration]]; [[a/_astonishment|astonishment]].**
+- **The condition of being amazed; overwhelming wonder, as from surprise, sudden fear, horror, or admiration; astonishment.**
 - **A particular feeling of wonder, surprise, fear, or horror.**
-- **Something which [[a/_amazes|amazes]].**
+- **Something which amazes.**
 - **Madness, frenzy.**
 ---
 ---

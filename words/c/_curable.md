@@ -1,7 +1,7 @@
 # Curable
 ---
 #adjective
-- **[[c/_capable|Capable]] of [[b/_being|being]] [[c/_cured|cured]].**
+- **Capable of being cured.**
 ---
 ### Antonyms
 - [[incurable]]

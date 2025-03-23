@@ -1,10 +1,10 @@
 # Angulate
 ---
 #verb
-- **To make, or to [[b/_become|become]], [[a/_angular|angular]].**
+- **To make, or to become, angular.**
 ---
 #adjective
-- **Shaped with [[c/_corners|corners]] or [[a/_angles|angles]].**
+- **Shaped with corners or angles.**
 	- _Example: angulate leaves_
 ---
 ---

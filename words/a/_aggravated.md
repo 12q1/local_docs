@@ -11,10 +11,10 @@
 ### Synonyms
 - [[exasperate]], [[irritate]], [[provoke]], [[exacerbate]], [[exaggerate]], [[heighten]], [[increase]], [[intensify]], [[magnify]]
 ### Antonyms
-- [[alleviate]], [[mitigate]]
+- [[[[a/_alleviate|alleviate]]]], [[mitigate]]
 #adjective
-- **Having [[b/_been|been]] the subject of [[a/_aggravation|aggravation]]; frustrated and [[a/_angry|angry]].**
+- **Having been the subject of aggravation; frustrated and angry.**
 ---
 ### Synonyms
-- [[aggro]]
+- [[[[a/_aggro|aggro]]]]
 ---

@@ -1,0 +1,6 @@
+# Dopiest
+---
+#adjective
+- **Stupid, silly.**
+---
+---

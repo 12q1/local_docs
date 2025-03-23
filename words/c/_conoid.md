@@ -1,12 +1,12 @@
 # Conoid
 ---
 #noun
-- **[[a/_anything|Anything]] shaped like a [[c/_cone|cone]].**
-- **A [[c/_catalan|Catalan]] surface [[a/_all|all]] of whose rulings intersect some fixed line.**
-- **A solid formed by the revolution of a [[c/_conic|conic]] section [[a/_about|about]] its [[a/_axis|axis]].**
+- **Anything shaped like a cone.**
+- **A Catalan surface all of whose rulings intersect some fixed line.**
+- **A solid formed by the revolution of a conic section about its axis.**
 	- _Example: A parabolic conoid is a paraboloid; an elliptic conoid is an ellipsoid._
 ---
 #adjective
-- **Shaped like a [[c/_cone|cone]]; [[c/_conical|conical]]**
+- **Shaped like a cone; conical**
 ---
 ---

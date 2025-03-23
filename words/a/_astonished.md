@@ -4,10 +4,10 @@
 - **To surprise greatly.**
 ---
 ### Synonyms
-- [[astound]], [[flabbergast]], [[surprise]]
+- [[[[a/_astound|astound]]]], [[flabbergast]], [[surprise]]
 #adjective
-- **[[a/_amazed|Amazed]]; surprised.**
+- **Amazed; surprised.**
 ---
 ### Synonyms
-- [[agape]], [[amazed]], [[bewildered]], [[shocked]], [[speechless]]
+- [[[[a/_agape|agape]]]], [[[[a/_amazed|amazed]]]], [[[[b/_bewildered|bewildered]]]], [[shocked]], [[speechless]]
 ---

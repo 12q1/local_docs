@@ -7,5 +7,5 @@
 - **Pertaining to a frog or toad.**
 ---
 ### Synonyms
-- [[anuran]]
+- [[[[a/_anuran|anuran]]]]
 ---

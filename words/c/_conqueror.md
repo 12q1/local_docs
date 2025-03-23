@@ -1,7 +1,7 @@
 # Conqueror
 ---
 #noun
-- **Someone who [[c/_conquers|conquers]]**
+- **Someone who conquers**
 ---
 ### Synonyms
 - [[subjugator]], [[vanquisher]], [[victor]]

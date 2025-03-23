@@ -1,10 +1,10 @@
 # Chinwag
 ---
 #noun
-- **An informal [[c/_conversation|conversation]], usually [[a/_about|about]] everyday matters; a [[c/_chat|chat]], a gossip.**
+- **An informal conversation, usually about everyday matters; a chat, a gossip.**
 ---
 #verb
-- **To [[c/_chat|chat]], to gossip.**
+- **To chat, to gossip.**
 	- _Example: I saw the pair of them chinwagging by the water-cooler._
 ---
 ---

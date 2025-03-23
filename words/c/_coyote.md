@@ -1,8 +1,8 @@
 # Coyote
 ---
 #noun
-- **[[c/_canis|Canis]] latrans, a species of [[c/_canine|canine]] native to North [[a/_america|America]].**
-- **A smuggler of undocumented immigrants [[a/_across|across]] the land [[b/_border|border]] from Latin [[a/_america|America]] into the United States of [[a/_america|America]].**
+- **Canis latrans, a species of canine native to North America.**
+- **A smuggler of undocumented immigrants across the land border from Latin America into the United States of America.**
 ---
 ### Synonyms
 - [[prairie wolf]]

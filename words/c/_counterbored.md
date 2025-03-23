@@ -1,6 +1,6 @@
 # Counterbored
 ---
 #verb
-- **To [[c/_create|create]] such a [[c/_cylindrical|cylindrical]] recess.**
+- **To create such a cylindrical recess.**
 ---
 ---

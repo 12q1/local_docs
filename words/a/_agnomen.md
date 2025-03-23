@@ -1,8 +1,8 @@
 # Agnomen
 ---
 #noun
-- **An [[a/_additional|additional]] [[c/_cognomen|cognomen]] given, as an honour, to a Roman [[c/_citizen|citizen]].**
+- **An additional cognomen given, as an honour, to a Roman citizen.**
 ---
 ### Synonyms
-- [[agname]]
+- [[[[a/_agname|agname]]]]
 ---

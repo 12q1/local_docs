@@ -1,9 +1,9 @@
 # Cicerone
 ---
 #noun
-- **A guide who shows people [[a/_around|around]] tourist sights.**
+- **A guide who shows people around tourist sights.**
 ---
 #verb
-- **To show (somebody) the sights, [[a/_acting|acting]] as a tourist guide.**
+- **To show (somebody) the sights, acting as a tourist guide.**
 ---
 ---

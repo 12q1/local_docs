@@ -1,10 +1,10 @@
 # Applicable
 ---
 #adjective
-- **Suitable for [[a/_application|application]], relevant**
+- **Suitable for application, relevant**
 ---
 ### Synonyms
-- [[appropriate]]
+- [[[[a/_appropriate|appropriate]]]]
 ### Antonyms
 - [[inapplicable]]
 ---

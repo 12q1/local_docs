@@ -1,9 +1,9 @@
 # Debutante
 ---
 #noun
-- **A young woman who makes her first formal [[a/_appearance|appearance]] in society.**
-- **A female [[d/_debutant|debutant]], especially in sport and entertainment.**
+- **A young woman who makes her first formal appearance in society.**
+- **A female debutant, especially in sport and entertainment.**
 ---
 ### Synonyms
-- [[deb]]
+- [[[[d/_deb|deb]]]]
 ---

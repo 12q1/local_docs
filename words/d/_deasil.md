@@ -1,13 +1,13 @@
 # Deasil
 ---
 #noun
-- **[[c/_clockwise|Clockwise]] motion.**
+- **Clockwise motion.**
 ---
 #adverb
-- **[[c/_clockwise|Clockwise]].**
+- **Clockwise.**
 ---
 ### Synonyms
-- [[clockwise]], [[right-handed]], [[sunways]]
+- [[[[c/_clockwise|clockwise]]]], [[right-handed]], [[sunways]]
 ### Antonyms
-- [[anticlockwise]], [[counter-clockwise]], [[left-handed]], [[widdershins]]
+- [[[[a/_anticlockwise|anticlockwise]]]], [[[[c/_counter|counter]]-[[c/_clockwise|clockwise]]]], [[left-handed]], [[widdershins]]
 ---

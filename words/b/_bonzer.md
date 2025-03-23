@@ -4,7 +4,7 @@
 - **An excellent person or thing.**
 ---
 ### Synonyms
-- [[bottler]], [[ripper]]
+- [[[[b/_bottler|bottler]]]], [[ripper]]
 #adjective
 - **Remarkable; wonderful; excellent; terrific.**
 ---

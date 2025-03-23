@@ -1,9 +1,9 @@
 # Dentistry
 ---
 #noun
-- **The field of medicine [[c/_concerned|concerned]] with the study, diagnosis and treatment of [[c/_conditions|conditions]] of the teeth and oral [[c/_cavity|cavity]].**
-- **Operations performed on teeth and [[a/_adjoining|adjoining]] [[a/_areas|areas]] such as drilling, filling [[c/_cavities|cavities]] and placing [[c/_crowns|crowns]] and [[b/_bridges|bridges]].**
-- **A [[d/_dental|dental]] surgery, an operation on the teeth.**
-- **A place where [[d/_dental|dental]] operations are performed. (Not as [[c/_common|common]] as "[[d/_dentist|dentist]]'s office". [[c/_compare|Compare]] surgery.)**
+- **The field of medicine concerned with the study, diagnosis and treatment of conditions of the teeth and oral cavity.**
+- **Operations performed on teeth and adjoining areas such as drilling, filling cavities and placing crowns and bridges.**
+- **A dental surgery, an operation on the teeth.**
+- **A place where dental operations are performed. (Not as common as "dentist's office". Compare surgery.)**
 ---
 ---

@@ -2,11 +2,11 @@
 ---
 #adjective
 - **Noticeably happy and optimistic.**
-- **[[b/_bright|Bright]] and pleasant.**
+- **Bright and pleasant.**
 	- _Example: They enjoyed a cheerful room._
 ---
 ### Synonyms
-- [[bright]], [[bubbly]], [[cheerly]], [[ebullient]], [[happy]], [[joyful]], [[merry]], [[optimistic]], [[vivacious]]
+- [[[[b/_bright|bright]]]], [[[[b/_bubbly|bubbly]]]], [[[[c/_cheerly|cheerly]]]], [[[[e/_ebullient|ebullient]]]], [[happy]], [[joyful]], [[merry]], [[optimistic]], [[vivacious]]
 ### Antonyms
-- [[depressed]], [[miserable]], [[sad]]
+- [[[[d/_depressed|depressed]]]], [[miserable]], [[sad]]
 ---

@@ -1,9 +1,9 @@
 # Afterthoughts
 ---
 #noun
-- **A reflection [[a/_after|after]] an [[a/_act|act]]; a later or subsequent thought, [[a/_action|action]], or expedient.**
+- **A reflection after an act; a later or subsequent thought, action, or expedient.**
 	- _Example: She packed her sandals only as an afterthought, but she was glad she did._
-- **Something [[a/_additional|additional]] to the original plan or [[c/_concept|concept]].**
+- **Something additional to the original plan or concept.**
 	- _Example: This whole remodeling was an afterthought; we were only going to paint and call it good._
 ---
 ---

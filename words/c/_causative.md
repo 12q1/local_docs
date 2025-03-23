@@ -1,11 +1,11 @@
 # Causative
 ---
 #noun
-- **An expression of an [[a/_agent|agent]] [[c/_causing|causing]] or forcing a patient to perform an [[a/_action|action]] (or to be in a [[c/_certain|certain]] [[c/_condition|condition]]).**
+- **An expression of an agent causing or forcing a patient to perform an action (or to be in a certain condition).**
 ---
 #adjective
-- **[[a/_acting|Acting]] as a [[c/_cause|cause]]**
-- **Expressing a [[c/_cause|cause]] or [[c/_causation|causation]]**
+- **Acting as a cause**
+- **Expressing a cause or causation**
 	- _Example: The ablative is a causative case._
 ---
 ---

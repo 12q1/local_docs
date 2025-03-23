@@ -1,13 +1,13 @@
 # Alphabetized
 ---
 #adjective
-- **[[a/_arranged|Arranged]] in [[a/_alphabetical|alphabetical]] order.**
+- **Arranged in alphabetical order.**
 ---
 #verb
-- **To [[a/_arrange|arrange]] words or items in order of the first (and then subsequent) letters as they occur in the [[a/_alphabet|alphabet]].**
+- **To arrange words or items in order of the first (and then subsequent) letters as they occur in the alphabet.**
 	- _Example: It was almost impossible to locate specific books in the library until we had alphabetized them by the authors' surnames._
 ---
 #adjective
-- **[[a/_arranged|Arranged]] in [[a/_alphabetical|alphabetical]] order.**
+- **Arranged in alphabetical order.**
 ---
 ---

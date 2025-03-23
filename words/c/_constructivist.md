@@ -1,9 +1,9 @@
 # Constructivist
 ---
 #noun
-- **An [[a/_advocate|advocate]] of [[c/_constructivism|constructivism]].**
+- **An advocate of constructivism.**
 ---
 #adjective
-- **Of or relating to [[c/_constructivism|constructivism]].**
+- **Of or relating to constructivism.**
 ---
 ---

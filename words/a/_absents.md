@@ -1,10 +1,10 @@
 # Absents
 ---
 #verb
-- **To keep (oneself) [[a/_away|away]].**
+- **To keep (oneself) away.**
 	- _Example: Most of the men are retired, jobless, or have otherwise temporarily absented themselves from the workplace._
-- **To keep (someone) [[a/_away|away]].**
-- **Stay [[a/_away|away]]; withdraw.**
+- **To keep (someone) away.**
+- **Stay away; withdraw.**
 - **Leave.**
 ---
 ---

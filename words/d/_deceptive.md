@@ -1,7 +1,7 @@
 # Deceptive
 ---
 #adjective
-- **Likely or [[a/_attempting|attempting]] to [[d/_deceive|deceive]].**
+- **Likely or attempting to deceive.**
 	- _Example: Appearances can be deceptive._
 ---
 ### Synonyms

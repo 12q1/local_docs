@@ -1,7 +1,7 @@
 # Depilated
 ---
 #verb
-- **To remove hair from the [[b/_body|body]].**
+- **To remove hair from the body.**
 ---
 ### Synonyms
 - [[epilate]]

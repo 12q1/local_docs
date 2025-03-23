@@ -1,6 +1,6 @@
 # Bulgiest
 ---
 #adjective
-- **Having one or more [[b/_bulges|bulges]]; [[b/_bulging|bulging]]**
+- **Having one or more bulges; bulging**
 ---
 ---

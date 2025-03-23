@@ -1,9 +1,9 @@
 # Beeriest
 ---
 #adjective
-- **Smelling or tasting of [[b/_beer|beer]].**
-- **Under the influence of [[b/_beer|beer]].**
+- **Smelling or tasting of beer.**
+- **Under the influence of beer.**
 ---
 ### Synonyms
-- [[beerish]], [[beerlike]]
+- [[[[b/_beerish|beerish]]]], [[beerlike]]
 ---

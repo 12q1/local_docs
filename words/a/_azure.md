@@ -1,21 +1,21 @@
 # Azure
 ---
 #noun
-- **A [[b/_blue|blue]] [[c/_colour|colour]] on a [[c/_coat|coat]] of [[a/_arms|arms]], represented in engraving by horizontal parallel lines.**
-- **The [[c/_clear|clear]] [[b/_blue|blue]] [[c/_colour|colour]] of the sky; [[a/_also|also]], a pigment or dye of this [[c/_colour|colour]].**
-- **The unclouded sky; the [[b/_blue|blue]] vault [[a/_above|above]].**
-- **[[a/_any|Any]] of various widely distributed lycaenid [[b/_butterflies|butterflies]] of the genus Celastrina.**
-- **[[a/_any|Any]] of various [[a/_australasian|Australasian]] lycaenid [[b/_butterflies|butterflies]] of the genus Ogyris.**
+- **A blue colour on a coat of arms, represented in engraving by horizontal parallel lines.**
+- **The clear blue colour of the sky; also, a pigment or dye of this colour.**
+- **The unclouded sky; the blue vault above.**
+- **Any of various widely distributed lycaenid butterflies of the genus Celastrina.**
+- **Any of various Australasian lycaenid butterflies of the genus Ogyris.**
 - **Lapis lazuli.**
 ---
 #verb
-- **To [[c/_colour|colour]] [[b/_blue|blue]].**
+- **To colour blue.**
 ---
 #adjective
-- **Sky [[b/_blue|blue]]; resembling the [[c/_clear|clear]] [[b/_blue|blue]] [[c/_colour|colour]] of the unclouded sky**
-- **[[c/_cloudless|Cloudless]]**
-- **In [[b/_blazon|blazon]], of the [[c/_colour|colour]] [[b/_blue|blue]].**
+- **Sky blue; resembling the clear blue colour of the unclouded sky**
+- **Cloudless**
+- **In blazon, of the colour blue.**
 ---
 ### Synonyms
-- [[cerulean]]
+- [[[[c/_cerulean|cerulean]]]]
 ---

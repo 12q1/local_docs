@@ -1,8 +1,8 @@
 # Applause
 ---
 #noun
-- **The [[a/_act|act]] of [[a/_applauding|applauding]]; [[a/_approbation|approbation]] and praise publicly expressed by the [[c/_clapping|clapping]] of hands, stamping or tapping of the feet, [[a/_acclamation|acclamation]], huzzas, or other means; marked [[c/_commendation|commendation]].**
+- **The act of applauding; approbation and praise publicly expressed by the clapping of hands, stamping or tapping of the feet, acclamation, huzzas, or other means; marked commendation.**
 ---
 ### Synonyms
-- [[acclaim]], [[acclamation]], [[approbation]], [[approval]], [[commendation]], [[plaudit]]
+- [[[[a/_acclaim|acclaim]]]], [[[[a/_acclamation|acclamation]]]], [[[[a/_approbation|approbation]]]], [[[[a/_approval|approval]]]], [[[[c/_commendation|commendation]]]], [[plaudit]]
 ---

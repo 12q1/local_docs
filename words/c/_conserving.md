@@ -7,6 +7,6 @@
 - **To remain unchanged during a process**
 ---
 #adjective
-- **[[a/_accompanied|Accompanied]] by [[c/_conservation|conservation]].**
+- **Accompanied by conservation.**
 ---
 ---

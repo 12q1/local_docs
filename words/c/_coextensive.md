@@ -1,9 +1,9 @@
 # Coextensive
 ---
 #adjective
-- **Having the same spatial limits or [[b/_boundaries|boundaries]]; sharing the same [[a/_area|area]].**
+- **Having the same spatial limits or boundaries; sharing the same area.**
 	- _Example: The city and county of San Francisco are coextensive._
-- **Occurring over the same period of time; [[c/_contemporaneous|contemporaneous]].**
+- **Occurring over the same period of time; contemporaneous.**
 - **Having the same extension—the object or set of objects to which a term refers.**
 ---
 ---

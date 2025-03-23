@@ -4,7 +4,7 @@
 - **Of, pertaining to, or produced by life or living organisms**
 ---
 ### Synonyms
-- [[biologic]], [[living]], [[organic]]
+- [[[[b/_biologic|biologic]]]], [[living]], [[organic]]
 ### Antonyms
-- [[abiotic]]
+- [[[[a/_abiotic|abiotic]]]]
 ---

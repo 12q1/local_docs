@@ -1,11 +1,11 @@
 # Consoling
 ---
 #verb
-- **To [[c/_comfort|comfort]] (someone) in a time of grief, disappointment, etc.**
+- **To comfort (someone) in a time of grief, disappointment, etc.**
 ---
 ### Synonyms
-- [[comfort]], [[solace]]
+- [[[[c/_comfort|comfort]]]], [[solace]]
 #noun
-- **The [[a/_act|act]] by which somebody is [[c/_consoled|consoled]].**
+- **The act by which somebody is consoled.**
 ---
 ---

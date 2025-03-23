@@ -1,9 +1,9 @@
 # Aggression
 ---
 #noun
-- **The [[a/_act|act]] of initiating hostilities or invasion.**
-- **The practice or habit of launching [[a/_attacks|attacks]].**
-- **Hostile or [[d/_destructive|destructive]] [[b/_behavior|behavior]] or [[a/_actions|actions]].**
+- **The act of initiating hostilities or invasion.**
+- **The practice or habit of launching attacks.**
+- **Hostile or destructive behavior or actions.**
 ---
 ### Antonyms
 - [[nonaggression]]

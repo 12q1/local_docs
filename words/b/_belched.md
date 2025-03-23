@@ -8,5 +8,5 @@
 - **To be ejected or emitted (from something) with spasmodic force or noise.**
 ---
 ### Synonyms
-- [[burp]]
+- [[[[b/_burp|burp]]]]
 ---

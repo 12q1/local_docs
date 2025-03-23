@@ -1,8 +1,8 @@
 # Bronco
 ---
 #noun
-- **A horse of western North [[a/_america|America]] that is wild or not fully [[b/_broken|broken]].**
+- **A horse of western North America that is wild or not fully broken.**
 ---
 ### Synonyms
-- [[bronc]], [[broncho]]
+- [[[[b/_bronc|bronc]]]], [[[[b/_broncho|broncho]]]]
 ---

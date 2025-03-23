@@ -1,20 +1,20 @@
 # Decrease
 ---
 #noun
-- **An [[a/_amount|amount]] by which a quantity is [[d/_decreased|decreased]].**
+- **An amount by which a quantity is decreased.**
 	- _Example: One research team has recorded Baishui’s decrease at about 27 meters per year over the last 10 years._
-- **A reduction in the number of stitches, usually [[a/_accomplished|accomplished]] by suspending the stitch to be [[d/_decreased|decreased]] from [[a/_another|another]] existing stitch or by knitting it together with [[a/_another|another]] stitch. See [[d/_decrease|Decrease]] (knitting).**
+- **A reduction in the number of stitches, usually accomplished by suspending the stitch to be decreased from another existing stitch or by knitting it together with another stitch. See Decrease (knitting).**
 ---
 ### Synonyms
-- [[cut]], [[decrement]], [[drop]], [[fall]], [[loss]], [[lowering]], [[reduction]], [[shrinkage]]
+- [[[[c/_cut|cut]]]], [[[[d/_decrement|decrement]]]], [[[[d/_drop|drop]]]], [[fall]], [[loss]], [[lowering]], [[reduction]], [[shrinkage]]
 ### Antonyms
 - [[gain]], [[increase]], [[increment]], [[raise]], [[rise]]
 #verb
-- **Of a quantity, to [[b/_become|become]] smaller.**
+- **Of a quantity, to become smaller.**
 - **To make (a quantity) smaller.**
 ---
 ### Synonyms
-- [[drop]], [[fall]], [[go down]], [[plummet]], [[plunge]], [[reduce]], [[shrink]], [[sink]], [[abate]], [[cut]], [[decrement]], [[lower]], [[reduce]]
+- [[[[d/_drop|drop]]]], [[fall]], [[go [[d/_down|down]]]], [[plummet]], [[plunge]], [[reduce]], [[shrink]], [[sink]], [[[[a/_abate|abate]]]], [[[[c/_cut|cut]]]], [[[[d/_decrement|decrement]]]], [[lower]], [[reduce]]
 ### Antonyms
 - [[go up]], [[grow]], [[increase]], [[rise]], [[shoot up]], [[soar]], [[increase]], [[increment]], [[raise]], [[up]]
 ---

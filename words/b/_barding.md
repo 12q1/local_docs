@@ -1,10 +1,10 @@
 # Barding
 ---
 #verb
-- **To [[c/_cover|cover]] a horse in [[d/_defensive|defensive]] [[a/_armor|armor]].**
-- **To [[c/_cover|cover]] (meat or game) with a thin slice of fat [[b/_bacon|bacon]].**
+- **To cover a horse in defensive armor.**
+- **To cover (meat or game) with a thin slice of fat bacon.**
 ---
 #noun
-- **[[a/_armour|Armour]] for a warhorse.**
+- **Armour for a warhorse.**
 ---
 ---

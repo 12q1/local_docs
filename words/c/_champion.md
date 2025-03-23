@@ -1,25 +1,25 @@
 # Champion
 ---
 #noun
-- **An ongoing winner in a game or [[c/_contest|contest]].**
+- **An ongoing winner in a game or contest.**
 	- _Example: The defending champion is expected to defeat his challenger._
-- **Someone who is [[c/_chosen|chosen]] to represent a group of people in a [[c/_contest|contest]].**
+- **Someone who is chosen to represent a group of people in a contest.**
 	- _Example: Barcelona is eligible to play in FIFA Club World Cup as the champion of Europe._
-- **Someone who fights for a [[c/_cause|cause]] or status.**
+- **Someone who fights for a cause or status.**
 	- _Example: champion of women's suffrage_
-- **Someone who fights on [[a/_another|another]]'s [[b/_behalf|behalf]].**
+- **Someone who fights on another's behalf.**
 	- _Example: champion of the poor_
 ---
 ### Synonyms
 - [[paladin]]
 #verb
-- **To promote, [[a/_advocate|advocate]], or [[a/_act|act]] as a [[c/_champion|champion]] for (a [[c/_cause|cause]], etc.).**
-- **To [[c/_challenge|challenge]].**
+- **To promote, advocate, or act as a champion for (a cause, etc.).**
+- **To challenge.**
 ---
 #adjective
-- **[[a/_acting|Acting]] as a [[c/_champion|champion]]; that has [[d/_defeated|defeated]] [[a/_all|all]] one's [[c/_competitors|competitors]].**
-- **Excellent; [[b/_beyond|beyond]] [[c/_compare|compare]].**
-- **(predicative) Excellent; [[b/_brilliant|brilliant]]; superb; [[d/_deserving|deserving]] of high praise.**
+- **Acting as a champion; that has defeated all one's competitors.**
+- **Excellent; beyond compare.**
+- **(predicative) Excellent; brilliant; superb; deserving of high praise.**
 	- _Example: "That rollercoaster was champion," laughed Vinny._
 ---
 ---

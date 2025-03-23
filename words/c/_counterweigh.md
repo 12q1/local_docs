@@ -1,7 +1,7 @@
 # Counterweigh
 ---
 #verb
-- **To [[a/_act|act]] as [[c/_counterbalance|counterbalance]] ([[a/_against|against]] something).**
-- **To [[c/_counterbalance|counterbalance]]; to [[b/_balance|balance]] out.**
+- **To act as counterbalance (against something).**
+- **To counterbalance; to balance out.**
 ---
 ---

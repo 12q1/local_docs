@@ -1,9 +1,9 @@
 # Appliques
 ---
 #noun
-- **A [[d/_decorative|decorative]] [[d/_design|design]] made by [[c/_cutting|cutting]] pieces of material and [[a/_applying|applying]] them to the surface of [[a/_another|another]] for [[d/_decoration|decoration]].**
+- **A decorative design made by cutting pieces of material and applying them to the surface of another for decoration.**
 ---
 #verb
-- **To [[d/_decorate|decorate]] something in this way**
+- **To decorate something in this way**
 ---
 ---

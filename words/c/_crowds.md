@@ -1,40 +1,40 @@
 # Crowds
 ---
 #noun
-- **A group of people [[c/_congregated|congregated]] or [[c/_collected|collected]] into a [[c/_close|close]] [[b/_body|body]] without order.**
+- **A group of people congregated or collected into a close body without order.**
 	- _Example: After the movie let out, a crowd of people pushed through the exit doors._
-- **Several things [[c/_collected|collected]] or [[c/_closely|closely]] pressed together; [[a/_also|also]], some things [[a/_adjacent|adjacent]] to each other.**
+- **Several things collected or closely pressed together; also, some things adjacent to each other.**
 	- _Example: There was a crowd of toys pushed beneath the couch where the children were playing._
-- **(with [[d/_definite|definite]] [[a/_article|article]]) The so-[[c/_called|called]] lower orders of people; the populace, vulgar.**
-- **A group of people united or at least [[c/_characterised|characterised]] by a [[c/_common|common]] interest.**
+- **(with definite article) The so-called lower orders of people; the populace, vulgar.**
+- **A group of people united or at least characterised by a common interest.**
 	- _Example: That obscure author's fans were a nerdy crowd which hardly ever interacted before the Internet age._
 ---
 ### Synonyms
-- [[audience]], [[group]], [[multitude]], [[public]], [[swarm]], [[throng]], [[aggregation]], [[cluster]], [[group]], [[mass]], [[everyone]], [[general public]], [[masses]], [[mob]], [[rabble]], [[unwashed]]
+- [[[[a/_audience|audience]]]], [[group]], [[multitude]], [[public]], [[swarm]], [[throng]], [[[[a/_aggregation|aggregation]]]], [[[[c/_cluster|cluster]]]], [[group]], [[mass]], [[everyone]], [[general public]], [[masses]], [[mob]], [[rabble]], [[unwashed]]
 #verb
-- **To press forward; to [[a/_advance|advance]] by pushing.**
+- **To press forward; to advance by pushing.**
 	- _Example: The man crowded into the packed room._
-- **To press together or [[c/_collect|collect]] in numbers**
+- **To press together or collect in numbers**
 	- _Example: They crowded through the archway and into the park._
-- **To press or drive together, especially into a small space; to [[c/_cram|cram]].**
+- **To press or drive together, especially into a small space; to cram.**
 	- _Example: He tried to crowd too many cows into the cow-pen._
 - **To fill by pressing or thronging together**
 - **(often used with "out of" or "off") To push, to press, to shove.**
 	- _Example: They tried to crowd her off the sidewalk._
-- **To [[a/_approach|approach]] [[a/_another|another]] ship too [[c/_closely|closely]] when it has right of way.**
-- **(of a square-rigged ship) To [[c/_carry|carry]] excessive sail in the hope of moving faster.**
+- **To approach another ship too closely when it has right of way.**
+- **(of a square-rigged ship) To carry excessive sail in the hope of moving faster.**
 - **To press by solicitation; to urge; to dun; hence, to treat discourteously or unreasonably.**
 ---
 ### Synonyms
-- [[crowd in]], [[swarm]], [[throng]]
+- [[[[c/_crowd|crowd]] in]], [[swarm]], [[throng]]
 #noun
 - **(now dialectal) A fiddle.**
 ---
 #verb
-- **To play on a [[c/_crowd|crowd]]; to fiddle.**
+- **To play on a crowd; to fiddle.**
 ---
 #noun
-- **An [[a/_archaic|archaic]] stringed instrument [[a/_associated|associated]] particularly with Wales, though once played widely in Europe, and [[c/_characterized|characterized]] by a vaulted [[b/_back|back]] and enough space for the player to stop each of the six strings on the fingerboard.**
+- **An archaic stringed instrument associated particularly with Wales, though once played widely in Europe, and characterized by a vaulted back and enough space for the player to stop each of the six strings on the fingerboard.**
 ---
 ### Synonyms
 - [[rote]]

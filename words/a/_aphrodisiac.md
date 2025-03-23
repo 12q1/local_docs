@@ -4,8 +4,8 @@
 - **Something, generally a food or drug, having such an effect.**
 ---
 #adjective
-- **[[a/_arousing|Arousing]] or intensifying sexual [[d/_desire|desire]].**
+- **Arousing or intensifying sexual desire.**
 ---
 ### Antonyms
-- [[antaphrodisiac]]
+- [[[[a/_antaphrodisiac|antaphrodisiac]]]]
 ---

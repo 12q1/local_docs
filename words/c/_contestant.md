@@ -1,9 +1,9 @@
 # Contestant
 ---
 #noun
-- **A participant in a [[c/_contest|contest]]; specifically, a person who plays a game, as on a TV game show.**
-- **One who [[b/_brings|brings]] a legal [[c/_challenge|challenge]].**
+- **A participant in a contest; specifically, a person who plays a game, as on a TV game show.**
+- **One who brings a legal challenge.**
 ---
 ### Synonyms
-- [[competitor]]
+- [[[[c/_competitor|competitor]]]]
 ---

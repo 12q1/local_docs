@@ -1,11 +1,11 @@
 # Benefitted
 ---
 #verb
-- **To be or to provide a [[b/_benefit|benefit]] to.**
-- **To receive a [[b/_benefit|benefit]] (from); to be a [[b/_beneficiary|beneficiary]].**
+- **To be or to provide a benefit to.**
+- **To receive a benefit (from); to be a beneficiary.**
 ---
 ### Synonyms
-- [[batten]], [[behoove]], [[help]]
+- [[[[b/_batten|batten]]]], [[[[b/_behoove|behoove]]]], [[help]]
 ### Antonyms
-- [[detriment]], [[malefic]]
+- [[[[d/_detriment|detriment]]]], [[malefic]]
 ---

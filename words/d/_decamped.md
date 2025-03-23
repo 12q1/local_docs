@@ -1,9 +1,9 @@
 # Decamped
 ---
 #verb
-- **To [[b/_break|break]] up [[c/_camp|camp]] and move on.**
+- **To break up camp and move on.**
 - **To disappear suddenly and secretly.**
 ---
 ### Synonyms
-- [[abscond]], [[absquatulate]]
+- [[[[a/_abscond|abscond]]]], [[[[a/_absquatulate|absquatulate]]]]
 ---

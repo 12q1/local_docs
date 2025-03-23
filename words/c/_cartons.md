@@ -1,17 +1,17 @@
 # Cartons
 ---
 #noun
-- **An inexpensive, disposable [[b/_box|box]]-like [[c/_container|container]] fashioned from either paper, paper with wax-[[c/_covering|covering]] (wax paper), or other lightweight material.**
+- **An inexpensive, disposable box-like container fashioned from either paper, paper with wax-covering (wax paper), or other lightweight material.**
 	- _Example: a carton of milk_
-- **A pack of [[c/_cigarettes|cigarettes]], usually ten, wrapped in [[c/_cellophane|cellophane]] or packed in a light [[c/_cardboard|cardboard]] [[b/_box|box]].**
-- **A [[c/_cardboard|cardboard]] [[b/_box|box]] that holds (usually 24) [[b/_beer|beer]] [[b/_bottles|bottles]] or [[c/_cans|cans]].**
+- **A pack of cigarettes, usually ten, wrapped in cellophane or packed in a light cardboard box.**
+- **A cardboard box that holds (usually 24) beer bottles or cans.**
 - **A kind of thin pasteboard.**
-- **A small disc within the [[b/_bullseye|bullseye]] of a target.**
+- **A small disc within the bullseye of a target.**
 - **A shot that strikes this disc.**
 ---
 ### Synonyms
-- [[cardboard box]], [[container]], [[package]], [[case]], [[pack]]
+- [[[[c/_cardboard|cardboard]] [[b/_box|box]]]], [[[[c/_container|container]]]], [[package]], [[[[c/_case|case]]]], [[pack]]
 #verb
-- **To put in a [[c/_carton|carton]].**
+- **To put in a carton.**
 ---
 ---

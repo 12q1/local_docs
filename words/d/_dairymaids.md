@@ -1,8 +1,8 @@
 # Dairymaids
 ---
 #noun
-- **A woman who works in a [[d/_dairy|dairy]].**
+- **A woman who works in a dairy.**
 ---
 ### Synonyms
-- [[dairywoman]], [[dey]], [[milkmaid]]
+- [[[[d/_dairywoman|dairywoman]]]], [[[[d/_dey|dey]]]], [[milkmaid]]
 ---

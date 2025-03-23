@@ -4,8 +4,8 @@
 - **A person suffering from pulmonary tuberculosis.**
 ---
 #adjective
-- **Having a tendency to [[c/_consume|consume]]; dissipating; [[d/_destructive|destructive]]; wasteful.**
-- **Of, or relating to [[c/_consumption|consumption]].**
+- **Having a tendency to consume; dissipating; destructive; wasteful.**
+- **Of, or relating to consumption.**
 - **Relating to pulmonary tuberculosis.**
 	- _Example: consumptive cough_
 ---

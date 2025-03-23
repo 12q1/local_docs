@@ -1,12 +1,12 @@
 # Chimney
 ---
 #noun
-- **A vertical tube or hollow [[c/_column|column]] used to emit environmentally polluting gaseous and solid matter (including but not limited to by-products of [[b/_burning|burning]] [[c/_carbon|carbon]] or hydrocarbon [[b/_based|based]] fuels); a flue.**
+- **A vertical tube or hollow column used to emit environmentally polluting gaseous and solid matter (including but not limited to by-products of burning carbon or hydrocarbon based fuels); a flue.**
 - **The glass flue surrounding the flame of an oil lamp.**
 - **The smokestack of a steam locomotive.**
-- **A narrow [[c/_cleft|cleft]] in a rock face; a narrow vertical [[c/_cave|cave]] passage.**
+- **A narrow cleft in a rock face; a narrow vertical cave passage.**
 ---
 #verb
-- **To negotiate a [[c/_chimney|chimney]] (narrow vertical [[c/_cave|cave]] passage) by pushing [[a/_against|against]] the sides with [[b/_back|back]], feet, hands, etc.**
+- **To negotiate a chimney (narrow vertical cave passage) by pushing against the sides with back, feet, hands, etc.**
 ---
 ---

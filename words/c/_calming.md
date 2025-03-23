@@ -1,12 +1,12 @@
 # Calming
 ---
 #verb
-- **To make [[c/_calm|calm]].**
+- **To make calm.**
 	- _Example: to calm a crying baby_
-- **To [[b/_become|become]] [[c/_calm|calm]].**
+- **To become calm.**
 ---
 ### Synonyms
-- [[allay]], [[appease]], [[calm down]], [[cool off]], [[ease]], [[pacify]], [[quieten]], [[soothe]], [[subdue]]
+- [[[[a/_allay|allay]]]], [[[[a/_appease|appease]]]], [[[[c/_calm|calm]] [[d/_down|down]]]], [[[[c/_cool|cool]] off]], [[[[e/_ease|ease]]]], [[pacify]], [[quieten]], [[soothe]], [[subdue]]
 ### Antonyms
-- [[agitate]], [[excite]]
+- [[[[a/_agitate|agitate]]]], [[excite]]
 ---

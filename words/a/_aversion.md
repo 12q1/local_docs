@@ -5,8 +5,8 @@
 	- _Example: Due to her aversion to the outdoors she complained throughout the entire camping trip._
 - **An object of dislike or repugnance.**
 	- _Example: Pushy salespeople are a major aversion of mine._
-- **The [[a/_act|act]] of turning [[a/_away|away]] from an object.**
+- **The act of turning away from an object.**
 ---
 ### Synonyms
-- [[abomination]], [[antipathy]], [[disinclination]], [[reluctance]]
+- [[[[a/_abomination|abomination]]]], [[[[a/_antipathy|antipathy]]]], [[[[d/_disinclination|disinclination]]]], [[reluctance]]
 ---

@@ -1,6 +1,6 @@
 # Bedimmed
 ---
 #verb
-- **To make dim; to obscure or [[d/_darken|darken]].**
+- **To make dim; to obscure or darken.**
 ---
 ---

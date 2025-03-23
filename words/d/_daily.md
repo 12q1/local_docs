@@ -1,16 +1,16 @@
 # Daily
 ---
 #noun
-- **Something that is produced, [[c/_consumed|consumed]], used, or done every [[d/_day|day]].**
+- **Something that is produced, consumed, used, or done every day.**
 ---
 ### Synonyms
-- [[help]], [[maid]], [[daily paper]]
+- [[help]], [[maid]], [[[[d/_daily|daily]] paper]]
 #verb
-- **To drive an [[a/_automobile|automobile]] frequently, on a [[d/_daily|daily]] [[b/_basis|basis]], for regular and mundane tasks.**
+- **To drive an automobile frequently, on a daily basis, for regular and mundane tasks.**
 ---
 #adjective
-- **That occurs every [[d/_day|day]], or at least every working [[d/_day|day]]**
-- **Diurnal, by [[d/_daylight|daylight]], as opposed to nightly**
+- **That occurs every day, or at least every working day**
+- **Diurnal, by daylight, as opposed to nightly**
 ---
 ### Synonyms
 - [[quotidian]]

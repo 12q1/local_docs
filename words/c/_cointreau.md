@@ -1,6 +1,6 @@
 # Cointreau
 ---
 #noun
-- **A single serving of [[c/_cointreau|Cointreau]]**
+- **A single serving of Cointreau**
 ---
 ---

@@ -1,14 +1,14 @@
 # Bludgeoning
 ---
 #verb
-- **To strike or hit with something hard, usually on the head; to [[c/_club|club]].**
+- **To strike or hit with something hard, usually on the head; to club.**
 	- _Example: The apprehended rioter was bludgeoned to death._
-- **To [[c/_coerce|coerce]] someone, as if with a [[b/_bludgeon|bludgeon]].**
+- **To coerce someone, as if with a bludgeon.**
 	- _Example: Their favorite method was bludgeoning us with the same old arguments in favor of their opinions._
 ---
 ### Synonyms
-- [[harass]], [[pummel]], [[cudgel]]
+- [[harass]], [[pummel]], [[[[c/_cudgel|cudgel]]]]
 #noun
-- **An [[a/_assault|assault]] with a [[c/_club|club]] or similar weapon.**
+- **An assault with a club or similar weapon.**
 ---
 ---

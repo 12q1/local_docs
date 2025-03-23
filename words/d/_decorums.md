@@ -1,9 +1,9 @@
 # Decorums
 ---
 #noun
-- **[[a/_appropriate|Appropriate]] social [[b/_behavior|behavior]].**
-- **A [[c/_convention|convention]] of social [[b/_behavior|behavior]].**
+- **Appropriate social behavior.**
+- **A convention of social behavior.**
 ---
 ### Synonyms
-- [[courtesy]], [[decency]], [[etiquette]], [[propriety]]
+- [[[[c/_courtesy|courtesy]]]], [[[[d/_decency|decency]]]], [[etiquette]], [[propriety]]
 ---

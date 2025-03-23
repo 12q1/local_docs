@@ -1,7 +1,7 @@
 # Antiproton
 ---
 #noun
-- **The [[a/_antiparticle|antiparticle]] of the proton, having a negative electric [[c/_charge|charge]].**
+- **The antiparticle of the proton, having a negative electric charge.**
 ---
 ### Synonyms
 - [[pbar]]

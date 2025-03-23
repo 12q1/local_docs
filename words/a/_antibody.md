@@ -1,7 +1,7 @@
 # Antibody
 ---
 #noun
-- **A protein produced by [[b/_b|B]]-lymphocytes that [[b/_binds|binds]] to a specific [[a/_antigen|antigen]].**
+- **A protein produced by B-lymphocytes that binds to a specific antigen.**
 ---
 ### Synonyms
 - [[immunoglobulin]]

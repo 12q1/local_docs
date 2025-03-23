@@ -1,6 +1,6 @@
 # Bwanas
 ---
 #noun
-- **[[b/_big|Big]] [[b/_boss|boss]], important person.**
+- **Big boss, important person.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Cannabis
 ---
 #noun
-- **A tall [[a/_annual|annual]] dioecious plant ([[c/_cannabis|Cannabis]], especially [[c/_cannabis|Cannabis]] sativa), native to [[c/_central|central]] [[a/_asia|Asia]] and having [[a/_alternate|alternate]], palmately divided leaves and tough [[b/_bast|bast]] fibers.**
+- **A tall annual dioecious plant (Cannabis, especially Cannabis sativa), native to central Asia and having alternate, palmately divided leaves and tough bast fibers.**
 - **A mildly euphoriant or sedating, intoxicating hallucinogenic drug prepared from various parts of this plant.**
-- **The purified and [[d/_decarboxylated|decarboxylated]] resin of the [[c/_cannabis|cannabis]] plant used for medicinal purposes rather than for [[a/_any|any]] intoxicating effects.**
+- **The purified and decarboxylated resin of the cannabis plant used for medicinal purposes rather than for any intoxicating effects.**
 ---
 ### Synonyms
-- [[THC]], [[bhang]], [[dope]], [[ganja]], [[grass]], [[marijuana]], [[string]], [[weed]], [[hemp]], [[marijuana]]
+- [[THC]], [[[[b/_bhang|bhang]]]], [[[[d/_dope|dope]]]], [[ganja]], [[grass]], [[marijuana]], [[string]], [[weed]], [[hemp]], [[marijuana]]
 ---

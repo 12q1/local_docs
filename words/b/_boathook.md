@@ -1,7 +1,7 @@
 # Boathook
 ---
 #noun
-- **A hook [[a/_attached|attached]] to a pole used for pulling or pushing [[b/_boats|boats]], rafts, logs or other objects to or from the side of a [[b/_boat|boat]].**
+- **A hook attached to a pole used for pulling or pushing boats, rafts, logs or other objects to or from the side of a boat.**
 - **(by extension) A pole or rod with such a hook at one end.**
 ---
 ### Synonyms

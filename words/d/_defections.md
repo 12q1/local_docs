@@ -1,6 +1,6 @@
 # Defections
 ---
 #noun
-- **An [[a/_act|act]] or incidence of [[d/_defecting|defecting]].**
+- **An act or incidence of defecting.**
 ---
 ---

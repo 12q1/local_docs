@@ -5,13 +5,13 @@
 	- _Example: The blossom has come early this year._
 - **The state or season of producing such flowers.**
 	- _Example: The orchard is in blossom._
-- **A [[b/_blooming|blooming]] period or stage of development; something lovely that gives rich promise.**
-- **The [[c/_colour|colour]] of a horse that has white hairs intermixed with sorrel and [[b/_bay|bay]] hairs.**
+- **A blooming period or stage of development; something lovely that gives rich promise.**
+- **The colour of a horse that has white hairs intermixed with sorrel and bay hairs.**
 ---
 #verb
-- **To have, or open into, [[b/_blossoms|blossoms]]; to [[b/_bloom|bloom]].**
-- **To [[b/_begin|begin]] to thrive or flourish.**
+- **To have, or open into, blossoms; to bloom.**
+- **To begin to thrive or flourish.**
 ---
 ### Synonyms
-- [[bloom]], [[flourish]], [[grow]], [[prosper]], [[thrive]], [[bloom]], [[flower]]
+- [[[[b/_bloom|bloom]]]], [[flourish]], [[grow]], [[prosper]], [[thrive]], [[[[b/_bloom|bloom]]]], [[flower]]
 ---

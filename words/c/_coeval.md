@@ -3,12 +3,12 @@
 #noun
 - **Something of the same era.**
 	- _Example: The telephone and television are coevals in that film._
-- **Somebody of the same [[a/_age|age]].**
+- **Somebody of the same age.**
 ---
 #adjective
-- **Of the same [[a/_age|age]]; [[c/_contemporary|contemporary]].**
+- **Of the same age; contemporary.**
 	- _Example: Anything coeval with that clock will fetch a hefty price!_
 ---
 ### Synonyms
-- [[contemporaneous]]
+- [[[[c/_contemporaneous|contemporaneous]]]]
 ---

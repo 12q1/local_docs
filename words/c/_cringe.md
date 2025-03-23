@@ -4,16 +4,16 @@
 - **A posture or gesture of shrinking or recoiling.**
 	- _Example: He glanced with a cringe at the mess on his desk._
 - **A servile obeisance.**
-- **A [[c/_crick|crick]].**
-- **An embarrassing event or situation which [[c/_causes|causes]] an onlooker to [[c/_cringe|cringe]].**
+- **A crick.**
+- **An embarrassing event or situation which causes an onlooker to cringe.**
 	- _Example: There was so much cringe in that episode!_
 - **Someone or something that is cringy.**
 	- _Example: That video was full of cringe._
 ---
 #verb
-- **To shrink, [[c/_cower|cower]], tense or recoil, as in fear, disgust or embarrassment.**
+- **To shrink, cower, tense or recoil, as in fear, disgust or embarrassment.**
 	- _Example: He cringed as the bird collided with the window._
-- **To [[b/_bow|bow]] or [[c/_crouch|crouch]] in servility.**
-- **To [[c/_contract|contract]]; to draw together; to [[c/_cause|cause]] to shrink or wrinkle; to distort.**
+- **To bow or crouch in servility.**
+- **To contract; to draw together; to cause to shrink or wrinkle; to distort.**
 ---
 ---

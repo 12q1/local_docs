@@ -1,6 +1,6 @@
 # Automatically
 ---
 #adverb
-- **In an [[a/_automatic|automatic]] manner.**
+- **In an automatic manner.**
 ---
 ---

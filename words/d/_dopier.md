@@ -1,0 +1,6 @@
+# Dopier
+---
+#adjective
+- **Stupid, silly.**
+---
+---

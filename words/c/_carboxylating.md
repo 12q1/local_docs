@@ -1,7 +1,7 @@
 # Carboxylating
 ---
 #verb
-- **To form a [[c/_carboxyl|carboxyl]] group by introduction of [[c/_carbon|carbon]] dioxide**
-- **To react with a [[c/_carboxylic|carboxylic]] [[a/_acid|acid]]**
+- **To form a carboxyl group by introduction of carbon dioxide**
+- **To react with a carboxylic acid**
 ---
 ---

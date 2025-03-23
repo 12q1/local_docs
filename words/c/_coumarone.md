@@ -1,6 +1,6 @@
 # Coumarone
 ---
 #noun
-- **The [[b/_bicyclic|bicyclic]] heterocycle [[b/_benzofuran|benzofuran]].**
+- **The bicyclic heterocycle benzofuran.**
 ---
 ---

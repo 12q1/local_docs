@@ -1,12 +1,12 @@
 # Ameliorations
 ---
 #noun
-- **The [[a/_act|act]] of making [[b/_better|better]].**
+- **The act of making better.**
 - **An improvement.**
-- **The process by which a term gains a more positive [[c/_connotation|connotation]] over time.**
+- **The process by which a term gains a more positive connotation over time.**
 ---
 ### Synonyms
 - [[revamp]]
 ### Antonyms
-- [[deterioration]], [[nerf]], [[pejoration]]
+- [[[[d/_deterioration|deterioration]]]], [[nerf]], [[pejoration]]
 ---

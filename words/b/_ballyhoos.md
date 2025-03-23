@@ -1,14 +1,14 @@
 # Ballyhoos
 ---
 #noun
-- **Sensational or [[c/_clamorous|clamorous]] [[a/_advertising|advertising]] or publicity.**
+- **Sensational or clamorous advertising or publicity.**
 - **Noisy shouting or uproar.**
 ---
 #verb
-- **To sensationalise or make grand [[c/_claims|claims]].**
+- **To sensationalise or make grand claims.**
 ---
 #noun
-- **[[c/_certain|Certain]] species in family Hemiramphidae, inshore, surface-dwelling needlefish forming sizeable schools.**
+- **Certain species in family Hemiramphidae, inshore, surface-dwelling needlefish forming sizeable schools.**
 ---
 #noun
 - **An unseaworthy or slovenly ship.**

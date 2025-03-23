@@ -1,11 +1,11 @@
 # Cudgeling
 ---
 #verb
-- **To strike with a [[c/_cudgel|cudgel]].**
+- **To strike with a cudgel.**
 	- _Example: The officer was violently cudgeled down in the midst of the rioters._
-- **To exercise (one's wits or [[b/_brains|brains]]).**
+- **To exercise (one's wits or brains).**
 ---
 #noun
-- **A [[b/_beating|beating]] with a [[c/_cudgel|cudgel]].**
+- **A beating with a cudgel.**
 ---
 ---

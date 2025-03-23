@@ -1,6 +1,6 @@
 # Barm
 ---
 #noun
-- **(obsolete outside dialectal) [[b/_bosom|Bosom]], lap.**
+- **(obsolete outside dialectal) Bosom, lap.**
 ---
 ---

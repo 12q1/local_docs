@@ -1,9 +1,9 @@
 # Dearths
 ---
 #noun
-- **A period or [[c/_condition|condition]] when food is rare and hence expensive; famine.**
+- **A period or condition when food is rare and hence expensive; famine.**
 - **(by extension) Scarcity; a lack or short supply.**
-- **[[d/_dearness|Dearness]]; the quality of [[b/_being|being]] rare or [[c/_costly|costly]].**
+- **Dearness; the quality of being rare or costly.**
 ---
 ### Synonyms
 - [[famine]], [[shortage]], [[lack]], [[paucity]], [[scarcity]]

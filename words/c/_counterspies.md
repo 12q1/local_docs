@@ -1,6 +1,6 @@
 # Counterspies
 ---
 #noun
-- **A spy working in [[c/_counterintelligence|counterintelligence]].**
+- **A spy working in counterintelligence.**
 ---
 ---

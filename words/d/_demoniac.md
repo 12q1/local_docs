@@ -1,10 +1,10 @@
 # Demoniac
 ---
 #noun
-- **Someone who is possessed by a [[d/_demon|demon]].**
+- **Someone who is possessed by a demon.**
 ---
 #adjective
-- **Possessed or [[c/_controlled|controlled]] by a [[d/_demon|demon]].**
-- **Of or pertaining to [[d/_demons|demons]]; [[d/_demonic|demonic]].**
+- **Possessed or controlled by a demon.**
+- **Of or pertaining to demons; demonic.**
 ---
 ---

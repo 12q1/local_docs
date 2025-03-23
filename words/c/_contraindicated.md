@@ -1,6 +1,6 @@
 # Contraindicated
 ---
 #verb
-- **To make inadvisable; to warn [[a/_against|against]] a specific medicine or treatment.**
+- **To make inadvisable; to warn against a specific medicine or treatment.**
 ---
 ---

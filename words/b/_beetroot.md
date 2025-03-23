@@ -1,16 +1,16 @@
 # Beetroot
 ---
 #noun
-- **[[b/_beta|Beta]] vulgaris, a plant with a swollen root which is eaten or used to make sugar.**
+- **Beta vulgaris, a plant with a swollen root which is eaten or used to make sugar.**
 	- _Example: The beet is a hardy species._
-- **A [[b/_beetroot|beetroot]], a swollen root of such a plant.**
+- **A beetroot, a swollen root of such a plant.**
 ---
 #noun
-- **(usually uncountable) The edible part of the root of a [[b/_beet|beet]] plant, raw or prepared.**
+- **(usually uncountable) The edible part of the root of a beet plant, raw or prepared.**
 ---
 ### Synonyms
-- [[red beet]], [[table beet]]
+- [[red [[b/_beet|beet]]]], [[table [[b/_beet|beet]]]]
 #verb
-- **To turn a [[b/_bright|bright]] red or purple [[c/_colour|colour]].**
+- **To turn a bright red or purple colour.**
 ---
 ---

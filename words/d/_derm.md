@@ -1,11 +1,11 @@
 # Derm
 ---
 #noun
-- **The integument of [[a/_animal|animal]]; the skin.**
+- **The integument of animal; the skin.**
 ---
 #noun
 - **The tissue of the skin underlying the epidermis.**
 ---
 ### Synonyms
-- [[corium]], [[cutis]], [[cutis vera]], [[derm]], [[derma]], [[true skin]]
+- [[[[c/_corium|corium]]]], [[[[c/_cutis|cutis]]]], [[[[c/_cutis|cutis]] vera]], [[[[d/_derm|derm]]]], [[[[d/_derma|derma]]]], [[true skin]]
 ---

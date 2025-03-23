@@ -1,9 +1,9 @@
 # Attitudinizes
 ---
 #verb
-- **To [[a/_assume|assume]] an [[a/_affected|affected]], unnatural exaggerated [[a/_attitude|attitude]] or pose.**
-- **To [[c/_cause|cause]] to [[a/_assume|assume]] a pose.**
-- **To give the [[a/_appearance|appearance]] of, make a show of by posing.**
+- **To assume an affected, unnatural exaggerated attitude or pose.**
+- **To cause to assume a pose.**
+- **To give the appearance of, make a show of by posing.**
 ---
 ### Synonyms
 - [[posturize]]

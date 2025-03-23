@@ -1,6 +1,6 @@
 # Cerebrations
 ---
 #noun
-- **The [[a/_act|act]] of [[c/_cerebrating|cerebrating]]; thinking, reflection, thought.**
+- **The act of cerebrating; thinking, reflection, thought.**
 ---
 ---

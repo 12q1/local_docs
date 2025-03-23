@@ -1,6 +1,6 @@
 # Cockloft
 ---
 #noun
-- **A small [[a/_attic|attic]] or garret**
+- **A small attic or garret**
 ---
 ---

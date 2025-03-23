@@ -1,6 +1,6 @@
 # Chookies
 ---
 #noun
-- **A small or young domestic fowl; a [[c/_chick|chick]].**
+- **A small or young domestic fowl; a chick.**
 ---
 ---

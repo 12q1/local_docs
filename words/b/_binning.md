@@ -1,20 +1,20 @@
 # Binning
 ---
 #verb
-- **To dispose of (something) by putting it into a [[b/_bin|bin]], or as if putting it into a [[b/_bin|bin]].**
-- **To throw [[a/_away|away]], reject, give up.**
-- **To [[c/_convert|convert]] [[c/_continuous|continuous]] [[d/_data|data]] into discrete groups.**
-- **To place into a [[b/_bin|bin]] for storage.**
+- **To dispose of (something) by putting it into a bin, or as if putting it into a bin.**
+- **To throw away, reject, give up.**
+- **To convert continuous data into discrete groups.**
+- **To place into a bin for storage.**
 	- _Example: to bin wine_
 ---
 ### Synonyms
-- [[chuck]], [[chuck away]], [[chuck out]], [[discard]], [[ditch]], [[dump]], [[junk]], [[scrap]], [[throw away]], [[throw out]], [[toss]], [[trash]]
+- [[[[c/_chuck|chuck]]]], [[[[c/_chuck|chuck]] [[a/_away|away]]]], [[[[c/_chuck|chuck]] out]], [[[[d/_discard|discard]]]], [[[[d/_ditch|ditch]]]], [[[[d/_dump|dump]]]], [[junk]], [[scrap]], [[throw [[a/_away|away]]]], [[throw out]], [[toss]], [[trash]]
 #noun
-- **A [[d/_data|data]] pre-processing technique in which original [[d/_data|data]] values fall into a small interval ("[[b/_bin|bin]]") and are replaced by a value representative of that interval, often the [[c/_central|central]] value. Wp**
-- **The process of grouping reads or contigs and [[a/_assigning|assigning]] them to operational taxonomic units. Wp**
-- **The [[c/_categorization|categorization]] of finished products [[b/_based|based]] on their [[c/_characteristics|characteristics]]. Wp**
-- **The process of [[c/_combining|combining]] [[c/_charge|charge]] from [[a/_adjacent|adjacent]] pixels in a CCD image sensor during readout.**
+- **A data pre-processing technique in which original data values fall into a small interval ("bin") and are replaced by a value representative of that interval, often the central value. Wp**
+- **The process of grouping reads or contigs and assigning them to operational taxonomic units. Wp**
+- **The categorization of finished products based on their characteristics. Wp**
+- **The process of combining charge from adjacent pixels in a CCD image sensor during readout.**
 ---
 ### Synonyms
-- [[product binning]], [[bucketing]], [[data binning]], [[discrete binning]], [[statistical data binning]]
+- [[product [[b/_binning|binning]]]], [[[[b/_bucketing|bucketing]]]], [[[[d/_data|data]] [[b/_binning|binning]]]], [[[[d/_discrete|discrete]] [[b/_binning|binning]]]], [[statistical [[d/_data|data]] [[b/_binning|binning]]]]
 ---

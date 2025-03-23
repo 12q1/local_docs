@@ -1,15 +1,15 @@
 # Assertion
 ---
 #noun
-- **The [[a/_act|act]] of [[a/_asserting|asserting]]; positive [[d/_declaration|declaration]] or [[a/_averment|averment]].**
-- **Something which is [[a/_asserted|asserted]]; a [[d/_declaration|declaration]]; a statement [[a/_asserted|asserted]].**
+- **The act of asserting; positive declaration or averment.**
+- **Something which is asserted; a declaration; a statement asserted.**
 	- _Example: You're a man of strong assertions!_
-- **A statement or [[d/_declaration|declaration]] which lacks support or evidence.**
+- **A statement or declaration which lacks support or evidence.**
 	- _Example: That's just a bare assertion._
 - **Maintenance; vindication**
 	- _Example: the assertion of one's rights or prerogatives_
-- **A statement in a program [[a/_asserting|asserting]] a [[c/_condition|condition]] expected to be true at a particular point, used in [[d/_debugging|debugging]].**
+- **A statement in a program asserting a condition expected to be true at a particular point, used in debugging.**
 ---
 ### Synonyms
-- [[accusation]], [[allegation]], [[censure]], [[charge]], [[crimination]], [[impeachment]]
+- [[[[a/_accusation|accusation]]]], [[[[a/_allegation|allegation]]]], [[[[c/_censure|censure]]]], [[[[c/_charge|charge]]]], [[[[c/_crimination|crimination]]]], [[impeachment]]
 ---

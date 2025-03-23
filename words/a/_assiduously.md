@@ -1,6 +1,6 @@
 # Assiduously
 ---
 #adverb
-- **In an [[a/_assiduous|assiduous]] manner; diligently, industriously.**
+- **In an assiduous manner; diligently, industriously.**
 ---
 ---

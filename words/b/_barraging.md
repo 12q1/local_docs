@@ -1,8 +1,8 @@
 # Barraging
 ---
 #verb
-- **To direct a [[b/_barrage|barrage]] at.**
+- **To direct a barrage at.**
 ---
 ### Synonyms
-- [[bombard]]
+- [[[[b/_bombard|bombard]]]]
 ---

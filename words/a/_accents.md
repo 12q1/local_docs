@@ -1,36 +1,36 @@
 # Accents
 ---
 #noun
-- **A higher-pitched or stronger [[a/_articulation|articulation]] of a particular syllable of a word or phrase in order to distinguish it from the others or to emphasize it.**
+- **A higher-pitched or stronger articulation of a particular syllable of a word or phrase in order to distinguish it from the others or to emphasize it.**
 	- _Example: In the word "careful", the accent is placed on the first syllable._
 - **Emphasis or importance in general.**
 	- _Example: At this hotel, the accent is on luxury._
-- **A mark or [[c/_character|character]] used in writing, in order to indicate the place of the spoken [[a/_accent|accent]], or to indicate the nature or quality of the vowel marked.**
+- **A mark or character used in writing, in order to indicate the place of the spoken accent, or to indicate the nature or quality of the vowel marked.**
 	- _Example: The name Cézanne is written with an acute accent._
-- **Modulation of the voice in speaking; the manner of speaking or pronouncing; a peculiar or [[c/_characteristic|characteristic]] modification of the voice, expressing emotion; tone.**
-- **The distinctive manner of pronouncing a language [[a/_associated|associated]] with a particular region, social group, etc., whether of a native speaker or a foreign speaker; the phonetic and phonological [[a/_aspects|aspects]] of a dialect.**
+- **Modulation of the voice in speaking; the manner of speaking or pronouncing; a peculiar or characteristic modification of the voice, expressing emotion; tone.**
+- **The distinctive manner of pronouncing a language associated with a particular region, social group, etc., whether of a native speaker or a foreign speaker; the phonetic and phonological aspects of a dialect.**
 	- _Example: a broad Irish accent_
-- **(sign languages) A distinctive manner of producing a sign language, such as someone who does not normally use a [[c/_certain|certain]] sign language might have when using it.**
+- **(sign languages) A distinctive manner of producing a sign language, such as someone who does not normally use a certain sign language might have when using it.**
 	- _Example: 2015 December 3, [./http//www.pri.org/stories/2015-12-03/philadelphia-accent-sign-language There's a distinctly Philadelphia accent in American Sign Language]_
 - **A word; a significant tone or sound.**
 - **(usually plurale tantum) Expressions in general; speech.**
-- **Stress laid on [[c/_certain|certain]] syllables of a verse.**
-- **A regularly recurring stress upon the tone to mark the [[b/_beginning|beginning]], and, more feebly, the third part of the measure.**
+- **Stress laid on certain syllables of a verse.**
+- **A regularly recurring stress upon the tone to mark the beginning, and, more feebly, the third part of the measure.**
 - **A special emphasis of a tone, even in the weaker part of the measure.**
-- **The rhythmical [[a/_accent|accent]], which marks phrases and sections of a period.**
+- **The rhythmical accent, which marks phrases and sections of a period.**
 - **The expressive emphasis and shading of a passage.**
 - **A mark used to represent specific stress on a note.**
-- **A mark placed at the right hand of a letter, and a little [[a/_above|above]] it, to distinguish magnitudes of a similar kind expressed by the same letter, but differing in value, as y', y''.**
-- **A mark at the right hand of a number, indicating minutes of a [[d/_degree|degree]], seconds, etc., as in 12' 27'', meaning twelve minutes and twenty-seven seconds.**
-- **A mark used to [[d/_denote|denote]] feet and inches, as in 6' 10'', meaning six feet ten inches.**
-- **Emphasis laid on a part of an [[a/_artistic|artistic]] [[d/_design|design]] or [[c/_composition|composition]]; an emphasized [[d/_detail|detail]], in particular a [[d/_detail|detail]] in sharp [[c/_contrast|contrast]] to its surroundings.**
+- **A mark placed at the right hand of a letter, and a little above it, to distinguish magnitudes of a similar kind expressed by the same letter, but differing in value, as y', y''.**
+- **A mark at the right hand of a number, indicating minutes of a degree, seconds, etc., as in 12' 27'', meaning twelve minutes and twenty-seven seconds.**
+- **A mark used to denote feet and inches, as in 6' 10'', meaning six feet ten inches.**
+- **Emphasis laid on a part of an artistic design or composition; an emphasized detail, in particular a detail in sharp contrast to its surroundings.**
 - **A very small gemstone set into a piece of jewellery.**
 - **A distinctive feature or quality.**
 - **Utterance.**
 ---
 #verb
-- **To express the [[a/_accent|accent]] of vocally; to utter with [[a/_accent|accent]].**
-- **To mark emphatically; to emphasize; to [[a/_accentuate|accentuate]]; to make prominent.**
-- **To mark with written [[a/_accents|accents]].**
+- **To express the accent of vocally; to utter with accent.**
+- **To mark emphatically; to emphasize; to accentuate; to make prominent.**
+- **To mark with written accents.**
 ---
 ---

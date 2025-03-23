@@ -1,11 +1,11 @@
 # Ammo
 ---
 #noun
-- **[[a/_ammunition|Ammunition]].**
+- **Ammunition.**
 ---
 #verb
-- **To load up on [[a/_ammunition|ammunition]].**
+- **To load up on ammunition.**
 ---
 ### Synonyms
-- [[ammo up]]
+- [[[[a/_ammo|ammo]] up]]
 ---

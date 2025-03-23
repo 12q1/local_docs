@@ -1,13 +1,13 @@
 # Complies
 ---
 #verb
-- **To yield [[a/_assent|assent]]; to [[a/_accord|accord]]; to [[a/_acquiesce|acquiesce]], [[a/_agree|agree]], [[c/_consent|consent]]; to [[a/_adapt|adapt]] oneself, to [[c/_conform|conform]].**
-- **To [[a/_accomplish|accomplish]], to fulfil.**
-- **To be [[c/_ceremoniously|ceremoniously]] [[c/_courteous|courteous]]; to make one's [[c/_compliments|compliments]].**
+- **To yield assent; to accord; to acquiesce, agree, consent; to adapt oneself, to conform.**
+- **To accomplish, to fulfil.**
+- **To be ceremoniously courteous; to make one's compliments.**
 - **To enfold; to embrace.**
 ---
 ### Synonyms
-- [[carry out]], [[consummate]], [[give way]]
+- [[[[c/_carry|carry]] out]], [[[[c/_consummate|consummate]]]], [[give way]]
 ### Antonyms
 - [[violate]]
 ---

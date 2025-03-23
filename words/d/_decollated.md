@@ -1,12 +1,12 @@
 # Decollated
 ---
 #verb
-- **To [[b/_behead|behead]].**
+- **To behead.**
 ---
 #verb
-- **To separate the [[c/_copies|copies]] of multipart [[c/_computer|computer]] printout.**
+- **To separate the copies of multipart computer printout.**
 ---
 #adjective
-- **Rounded off, as the [[a/_apex|apex]] of a shell.**
+- **Rounded off, as the apex of a shell.**
 ---
 ---

@@ -5,5 +5,5 @@
 - **A supreme and most powerful enemy.**
 ---
 ### Synonyms
-- [[archfoe]]
+- [[[[a/_archfoe|archfoe]]]]
 ---

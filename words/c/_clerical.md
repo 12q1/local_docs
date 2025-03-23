@@ -1,10 +1,10 @@
 # Clerical
 ---
 #noun
-- **A member of the [[c/_clergy|clergy]].**
+- **A member of the clergy.**
 ---
 #adjective
-- **Of or relating to [[c/_clerks|clerks]] or their work.**
-- **Of or relating to the [[c/_clergy|clergy]].**
+- **Of or relating to clerks or their work.**
+- **Of or relating to the clergy.**
 ---
 ---

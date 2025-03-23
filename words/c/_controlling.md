@@ -1,21 +1,21 @@
 # Controlling
 ---
 #verb
-- **To exercise influence over; to suggest or dictate the [[b/_behavior|behavior]] of.**
+- **To exercise influence over; to suggest or dictate the behavior of.**
 	- _Example: With a simple remote, he could control the toy truck._
-- **([[c/_construed|construed]] with for) To [[d/_design|design]] (an experiment) so that the effects of one or more variables are reduced or eliminated.**
+- **(construed with for) To design (an experiment) so that the effects of one or more variables are reduced or eliminated.**
 ---
 ### Synonyms
-- [[besteer]], [[bewield]], [[manage]], [[puppeteer]], [[rule]], [[ctrl.]]
+- [[[[b/_besteer|besteer]]]], [[[[b/_bewield|bewield]]]], [[manage]], [[puppeteer]], [[rule]], [[[[c/_ctrl|ctrl]].]]
 ### Antonyms
-- [[defy]], [[rebel]], [[resist]], [[obey]], [[submit]]
+- [[[[d/_defy|defy]]]], [[rebel]], [[resist]], [[obey]], [[submit]]
 #noun
-- **The [[a/_act|act]] of exerting [[c/_control|control]].**
+- **The act of exerting control.**
 ---
 #adjective
-- **Exerting [[c/_control|control]] over a person or thing.**
+- **Exerting control over a person or thing.**
 	- _Example: His mother is very controlling._
 ---
 ### Synonyms
-- [[dominant]], [[domineering]], [[manipulative]]
+- [[[[d/_dominant|dominant]]]], [[[[d/_domineering|domineering]]]], [[manipulative]]
 ---

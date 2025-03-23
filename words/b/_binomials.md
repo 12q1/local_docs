@@ -6,5 +6,5 @@
 - **A scientific name at the rank of species, with two terms: a generic name and a specific name.**
 ---
 ### Synonyms
-- [[binome]], [[binomen]], [[binomial name]], [[binominal]], [[binominal name]], [[species name]]
+- [[binome]], [[[[b/_binomen|binomen]]]], [[[[b/_binomial|binomial]] name]], [[[[b/_binominal|binominal]]]], [[[[b/_binominal|binominal]] name]], [[species name]]
 ---

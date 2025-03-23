@@ -1,8 +1,8 @@
 # Cafetiere
 ---
 #noun
-- **A [[c/_cylindrical|cylindrical]] glass or metal jug, fitted with a filter on a rod, used to make [[c/_coffee|coffee]].**
+- **A cylindrical glass or metal jug, fitted with a filter on a rod, used to make coffee.**
 ---
 ### Synonyms
-- [[French press]], [[coffee plunger]], [[press pot]]
+- [[French press]], [[[[c/_coffee|coffee]] plunger]], [[press pot]]
 ---

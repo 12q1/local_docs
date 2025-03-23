@@ -1,10 +1,10 @@
 # Biconvex
 ---
 #adjective
-- **Having [[b/_both|both]] sides [[c/_convex|convex]].**
+- **Having both sides convex.**
 ---
 ### Synonyms
-- [[convex]], [[convexoconvex]]
+- [[[[c/_convex|convex]]]], [[convexoconvex]]
 ### Antonyms
-- [[biconcave]]
+- [[[[b/_biconcave|biconcave]]]]
 ---

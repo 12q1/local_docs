@@ -1,7 +1,7 @@
 # Cladocerans
 ---
 #noun
-- **[[a/_any|Any]] of the small [[c/_crustaceans|crustaceans]] of the order [[c/_cladocera|Cladocera]]**
+- **Any of the small crustaceans of the order Cladocera**
 ---
 ### Synonyms
 - [[water flea]]

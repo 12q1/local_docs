@@ -1,7 +1,7 @@
 # Abnegating
 ---
 #verb
-- **To [[d/_deny|deny]] (oneself something); to renounce or give up (a right, a power, a [[c/_claim|claim]], a privilege, a [[c/_convenience|convenience]]).**
-- **To relinquish; to surrender; to [[a/_abjure|abjure]].**
+- **To deny (oneself something); to renounce or give up (a right, a power, a claim, a privilege, a convenience).**
+- **To relinquish; to surrender; to abjure.**
 ---
 ---

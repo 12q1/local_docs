@@ -1,13 +1,13 @@
 # Canoodle
 ---
 #noun
-- **A [[c/_cuddle|cuddle]], hug, or [[c/_caress|caress]]**
+- **A cuddle, hug, or caress**
 ---
 #verb
-- **To [[c/_caress|caress]], pet, feel up, or make love.**
+- **To caress, pet, feel up, or make love.**
 	- _Example: He’s got a big smile on his face; who’s he been canoodling recently?_
-- **To [[c/_cajole|cajole]] or persuade.**
+- **To cajole or persuade.**
 ---
 ### Synonyms
-- [[coax]], [[inveigle]], [[sweet-talk]], [[wheedle]], [[grope]], [[touch up]]
+- [[[[c/_coax|coax]]]], [[inveigle]], [[sweet-talk]], [[wheedle]], [[grope]], [[touch up]]
 ---

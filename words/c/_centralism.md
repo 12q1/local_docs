@@ -1,6 +1,6 @@
 # Centralism
 ---
 #noun
-- **A system that [[c/_centralizes|centralizes]], especially an [[a/_administration|administration]] of some kind.**
+- **A system that centralizes, especially an administration of some kind.**
 ---
 ---

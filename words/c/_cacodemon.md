@@ -2,8 +2,8 @@
 ---
 #noun
 - **An evil or malevolent spirit.**
-- **The twelfth [[a/_astrological|astrological]] House, from which only evil prognostics are [[a/_alleged|alleged]] to proceed.**
+- **The twelfth astrological House, from which only evil prognostics are alleged to proceed.**
 ---
 ### Antonyms
-- [[agathodemon]]
+- [[[[a/_agathodemon|agathodemon]]]]
 ---

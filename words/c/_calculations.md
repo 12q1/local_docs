@@ -1,12 +1,12 @@
 # Calculations
 ---
 #noun
-- **The [[a/_act|act]] or process of [[c/_calculating|calculating]].**
-- **The result of [[c/_calculating|calculating]].**
+- **The act or process of calculating.**
+- **The result of calculating.**
 - **Reckoning, estimate.**
 	- _Example: By my calculation, we should be there by midnight._
-- **An expectation [[b/_based|based]] on [[c/_circumstances|circumstances]].**
+- **An expectation based on circumstances.**
 ---
 ### Synonyms
-- [[sum]], [[computation]], [[evaluation]], [[reckoning]], [[estimate]], [[guess]], [[measurement]], [[reckoning]]
+- [[sum]], [[[[c/_computation|computation]]]], [[evaluation]], [[reckoning]], [[estimate]], [[guess]], [[measurement]], [[reckoning]]
 ---

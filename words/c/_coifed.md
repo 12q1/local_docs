@@ -1,6 +1,6 @@
 # Coifed
 ---
 #verb
-- **To style or [[a/_arrange|arrange]] hair.**
+- **To style or arrange hair.**
 ---
 ---

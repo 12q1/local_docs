@@ -1,6 +1,6 @@
 # Complines
 ---
 #noun
-- **The last of the [[c/_canonical|canonical]] hours, sung just [[b/_before|before]] retiring**
+- **The last of the canonical hours, sung just before retiring**
 ---
 ---

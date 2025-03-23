@@ -5,12 +5,12 @@
 - **(provincial) To thrive or grow; to ripen.**
 ---
 #verb
-- **To make [[a/_addle|addle]]; to grow [[a/_addle|addle]]; to muddle**
-- **To [[c/_cause|cause]] fertilised eggs to lose viability, by killing the developing embryo within through shaking, piercing, freezing or oiling, without [[b/_breaking|breaking]] the shell.**
+- **To make addle; to grow addle; to muddle**
+- **To cause fertilised eggs to lose viability, by killing the developing embryo within through shaking, piercing, freezing or oiling, without breaking the shell.**
 ---
 #adjective
-- **(of eggs) [[b/_bad|Bad]], rotten; inviable, [[c/_containing|containing]] a [[d/_dead|dead]] embryo.**
-- **[[c/_confused|Confused]]; mixed up.**
-- **Morbid, [[c/_corrupt|corrupt]], putrid, or [[b/_barren|barren]].**
+- **(of eggs) Bad, rotten; inviable, containing a dead embryo.**
+- **Confused; mixed up.**
+- **Morbid, corrupt, putrid, or barren.**
 ---
 ---

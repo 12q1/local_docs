@@ -2,10 +2,10 @@
 ---
 #noun
 - **An electronic message posted to multiple newsgroups simultaneously.**
-- **An [[a/_act|act]] of crossposting.**
+- **An act of crossposting.**
 ---
 #verb
 - **To post (a message) to multiple newsgroups simultaneously.**
-- **To make a [[c/_crosspost|crosspost]].**
+- **To make a crosspost.**
 ---
 ---

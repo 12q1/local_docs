@@ -1,9 +1,9 @@
 # Consorted
 ---
 #verb
-- **To [[a/_associate|associate]] or keep [[c/_company|company]] (with).**
-- **To be in [[a/_agreement|agreement]].**
+- **To associate or keep company (with).**
+- **To be in agreement.**
 ---
 ### Synonyms
-- [[hang out]], [[associate]], [[hang out]], [[agree]], [[concur]]
+- [[hang out]], [[[[a/_associate|associate]]]], [[hang out]], [[[[a/_agree|agree]]]], [[[[c/_concur|concur]]]]
 ---

@@ -1,11 +1,11 @@
 # Annulate
 ---
 #noun
-- **One of the [[a/_annulata|Annulata]].**
+- **One of the Annulata.**
 ---
 #adjective
-- **Having an [[a/_annular|annular]] form or shape.**
-- **[[d/_describes|Describes]] a fern sporangium that has an [[a/_annulus|annulus]].**
-- **[[d/_describes|Describes]] a mushroom with an [[a/_annulus|annulus]] on the stipe.**
+- **Having an annular form or shape.**
+- **Describes a fern sporangium that has an annulus.**
+- **Describes a mushroom with an annulus on the stipe.**
 ---
 ---

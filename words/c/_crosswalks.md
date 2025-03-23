@@ -1,9 +1,9 @@
 # Crosswalks
 ---
 #noun
-- **Place where pedestrians [[c/_can|can]] [[c/_cross|cross]] a street.**
-- **A mapping [[b/_between|between]] equivalent elements (fields) in different [[d/_database|database]] schemas.**
+- **Place where pedestrians can cross a street.**
+- **A mapping between equivalent elements (fields) in different database schemas.**
 ---
 ### Synonyms
-- [[crossing]], [[pedestrian crossing]]
+- [[[[c/_crossing|crossing]]]], [[pedestrian [[c/_crossing|crossing]]]]
 ---

@@ -1,6 +1,6 @@
 # Cadis
 ---
 #noun
-- **A [[c/_civil|civil]] judge in [[c/_certain|certain]] Islamic [[c/_countries|countries]].**
+- **A civil judge in certain Islamic countries.**
 ---
 ---

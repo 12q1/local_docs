@@ -8,8 +8,8 @@
 - **To be ejected or emitted (from something) with spasmodic force or noise.**
 ---
 ### Synonyms
-- [[burp]]
+- [[[[b/_burp|burp]]]]
 #noun
-- **The [[a/_act|act]] of producing a [[b/_belch|belch]].**
+- **The act of producing a belch.**
 ---
 ---

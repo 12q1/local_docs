@@ -1,8 +1,8 @@
 # Adroit
 ---
 #adjective
-- **[[d/_deft|Deft]], dexterous, or skillful.**
+- **Deft, dexterous, or skillful.**
 ---
 ### Antonyms
-- [[clumsy]], [[maladroit]]
+- [[[[c/_clumsy|clumsy]]]], [[maladroit]]
 ---

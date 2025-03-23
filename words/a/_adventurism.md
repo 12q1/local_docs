@@ -1,7 +1,7 @@
 # Adventurism
 ---
 #noun
-- **The [[b/_behaviour|behaviour]] of an [[a/_adventurer|adventurer]]; risk-taking.**
-- **The taking of excessive risks by a government in their political, economic or foreign [[a/_affairs|affairs]].**
+- **The behaviour of an adventurer; risk-taking.**
+- **The taking of excessive risks by a government in their political, economic or foreign affairs.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Corpselike
 ---
 #adjective
-- **Resembling a [[c/_corpse|corpse]].**
+- **Resembling a corpse.**
 ---
 ### Synonyms
-- [[cadaverous]], [[deathly]]
+- [[[[c/_cadaverous|cadaverous]]]], [[[[d/_deathly|deathly]]]]
 ---

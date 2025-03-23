@@ -1,13 +1,13 @@
 # Condominiums
 ---
 #noun
-- **Joint sovereignty over a territory by two or more [[c/_countries|countries]].**
+- **Joint sovereignty over a territory by two or more countries.**
 - **A region or territory under such rule.**
-- **A [[b/_building|building]] in which each unit is owned by an individual but the grounds, structure etc are owned jointly.**
-- **The system of ownership by which such [[c/_condominiums|condominiums]] operate**
-- **A unit or [[a/_apartment|apartment]] in such a [[c/_complex|complex]].**
+- **A building in which each unit is owned by an individual but the grounds, structure etc are owned jointly.**
+- **The system of ownership by which such condominiums operate**
+- **A unit or apartment in such a complex.**
 - **The legal tenure involved.**
 ---
 ### Synonyms
-- [[condo building]], [[strata]], [[condo]]
+- [[[[c/_condo|condo]] [[b/_building|building]]]], [[strata]], [[[[c/_condo|condo]]]]
 ---

@@ -1,8 +1,8 @@
 # Absonant
 ---
 #adjective
-- **Discordant; harsh; [[c/_contrary|contrary]]; unreasonable.**
+- **Discordant; harsh; contrary; unreasonable.**
 ---
 ### Antonyms
-- [[consonant]]
+- [[[[c/_consonant|consonant]]]]
 ---

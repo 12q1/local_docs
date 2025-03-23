@@ -1,12 +1,12 @@
 # Autolysis
 ---
 #noun
-- **The [[d/_destruction|destruction]] of an organism's [[c/_cells|cells]] by enzymes produced by the organism itself.**
-- **The [[a/_autodigestion|autodigestion]] of the tissues of an organism.**
-- **The [[a/_autocytolysis|autocytolysis]] of [[b/_blood|blood]] [[c/_cells|cells]].**
-- **The [[d/_decomposition|decomposition]] of [[d/_dead|dead]] yeast [[c/_cells|cells]] in wine [[a/_after|after]] fermentation.**
-- **A two-stage mixing process where water and flour are [[c/_combined|combined]] first [[b/_before|before]] [[a/_adding|adding]] leavening and salt.**
+- **The destruction of an organism's cells by enzymes produced by the organism itself.**
+- **The autodigestion of the tissues of an organism.**
+- **The autocytolysis of blood cells.**
+- **The decomposition of dead yeast cells in wine after fermentation.**
+- **A two-stage mixing process where water and flour are combined first before adding leavening and salt.**
 ---
 ### Synonyms
-- [[autodigestion]]
+- [[[[a/_autodigestion|autodigestion]]]]
 ---

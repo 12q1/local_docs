@@ -1,18 +1,18 @@
 # Alligator
 ---
 #noun
-- **Either of two species of large [[a/_amphibious|amphibious]] reptile, [[a/_alligator|Alligator]] mississippiensis or [[a/_alligator|Alligator]] sinensis, in the genus [[a/_alligator|Alligator]] within order [[c/_crocodilia|Crocodilia]], which have sharp teeth and very strong jaws and are native to the [[a/_americas|Americas]] and [[c/_china|China]], respectively.**
+- **Either of two species of large amphibious reptile, Alligator mississippiensis or Alligator sinensis, in the genus Alligator within order Crocodilia, which have sharp teeth and very strong jaws and are native to the Americas and China, respectively.**
 	- _Example: All you could see of the alligator were its two eyes above the water, and suddenly it snatched up and caught the poor bird with its strong jaws full of sharp teeth._
-- **Dwarf [[c/_crocodile|crocodile]] (Osteolaemus tetraspis)**
-- **[[a/_any|Any]] of various machines with strong jaws, one of which opens like the movable jaw of an [[a/_alligator|alligator]].**
-- **[[a/_any|Any]] of various vehicles that have relatively long, low noses in front of a [[c/_cab|cab]] or other, usually windowed, structure.**
+- **Dwarf crocodile (Osteolaemus tetraspis)**
+- **Any of various machines with strong jaws, one of which opens like the movable jaw of an alligator.**
+- **Any of various vehicles that have relatively long, low noses in front of a cab or other, usually windowed, structure.**
 ---
 ### Synonyms
 - [[gator]]
 #verb
-- **(of paint or other [[c/_coatings|coatings]]) To [[c/_crack|crack]] in a pattern resembling an [[a/_alligator|alligator]]'s skin.**
+- **(of paint or other coatings) To crack in a pattern resembling an alligator's skin.**
 ---
 #interjection
-- **Used in a [[c/_common|common]] [[c/_chronometric|chronometric]] [[c/_counting|counting]] scheme, in which each iteration is sequentially numbered and supposed to be [[a/_approximately|approximately]] one second in length.**
+- **Used in a common chronometric counting scheme, in which each iteration is sequentially numbered and supposed to be approximately one second in length.**
 ---
 ---

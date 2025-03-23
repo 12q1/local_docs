@@ -1,7 +1,7 @@
 # Debark
 ---
 #verb
-- **To unload goods from an [[a/_aircraft|aircraft]] or ship.**
+- **To unload goods from an aircraft or ship.**
 - **To disembark.**
 ---
 ---

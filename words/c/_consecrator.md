@@ -1,6 +1,6 @@
 # Consecrator
 ---
 #noun
-- **A person who [[c/_consecrates|consecrates]]**
+- **A person who consecrates**
 ---
 ---

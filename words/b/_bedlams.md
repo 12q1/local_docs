@@ -1,8 +1,8 @@
 # Bedlams
 ---
 #noun
-- **A place or situation of [[c/_chaotic|chaotic]] uproar, and where [[c/_confusion|confusion]] prevails.**
+- **A place or situation of chaotic uproar, and where confusion prevails.**
 - **An insane person; a lunatic; a madman.**
-- **A lunatic [[a/_asylum|asylum]]; a madhouse.**
+- **A lunatic asylum; a madhouse.**
 ---
 ---

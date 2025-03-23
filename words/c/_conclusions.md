@@ -1,17 +1,17 @@
 # Conclusions
 ---
 #noun
-- **The end, finish, [[c/_close|close]] or last part of something.**
-- **The outcome or result of a process or [[a/_act|act]].**
-- **A [[d/_decision|decision]] reached [[a/_after|after]] [[c/_careful|careful]] thought.**
+- **The end, finish, close or last part of something.**
+- **The outcome or result of a process or act.**
+- **A decision reached after careful thought.**
 	- _Example: The board has come to the conclusion that the proposed takeover would not be in the interest of our shareholders._
-- **In an [[a/_argument|argument]] or syllogism, the proposition that follows as a necessary [[c/_consequence|consequence]] of the premises.**
-- **An experiment, or something from which a [[c/_conclusion|conclusion]] may be drawn.**
-- **The end or [[c/_close|close]] of a pleading, e.g. the formal ending of an indictment, "[[a/_against|against]] the peace", etc.**
-- **An estoppel or [[b/_bar|bar]] by which a person is held to a particular position.**
+- **In an argument or syllogism, the proposition that follows as a necessary consequence of the premises.**
+- **An experiment, or something from which a conclusion may be drawn.**
+- **The end or close of a pleading, e.g. the formal ending of an indictment, "against the peace", etc.**
+- **An estoppel or bar by which a person is held to a particular position.**
 ---
 ### Synonyms
 - [[endpoint]], [[terminus]], [[epilogue]], [[postamble]]
 ### Antonyms
-- [[beginning]], [[initiation]], [[start]]
+- [[[[b/_beginning|beginning]]]], [[initiation]], [[start]]
 ---

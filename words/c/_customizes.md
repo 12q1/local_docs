@@ -1,6 +1,6 @@
 # Customizes
 ---
 #verb
-- **To [[b/_build|build]] or [[a/_alter|alter]] [[a/_according|according]] to personal preferences or specifications.**
+- **To build or alter according to personal preferences or specifications.**
 ---
 ---

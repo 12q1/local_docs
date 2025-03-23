@@ -2,8 +2,8 @@
 ---
 #adjective
 - **Without rhythm.**
-- **Suffering from [[c/_cardiac|cardiac]] [[a/_arrhythmia|arrhythmia]].**
+- **Suffering from cardiac arrhythmia.**
 ---
 ### Synonyms
-- [[arhythmic]], [[irrhythmic]], [[nonrhythmic]], [[unrhythmic]]
+- [[[[a/_arhythmic|arhythmic]]]], [[irrhythmic]], [[nonrhythmic]], [[unrhythmic]]
 ---

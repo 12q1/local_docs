@@ -1,6 +1,6 @@
 # Cementite
 ---
 #noun
-- **A form of iron [[c/_carbide|carbide]], Fe3C, that is a [[c/_component|component]] of steel.**
+- **A form of iron carbide, Fe3C, that is a component of steel.**
 ---
 ---

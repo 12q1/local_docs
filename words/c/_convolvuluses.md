@@ -1,9 +1,9 @@
 # Convolvuluses
 ---
 #noun
-- **[[a/_any|Any]] of several plants, of the genus [[c/_convolvulus|Convolvulus]], found in temperate [[c/_climates|climates]], having small trumpet-shaped flowers.**
-- **A species of hawkmoth, Agrius [[c/_convolvuli|convolvuli]].**
+- **Any of several plants, of the genus Convolvulus, found in temperate climates, having small trumpet-shaped flowers.**
+- **A species of hawkmoth, Agrius convolvuli.**
 ---
 ### Synonyms
-- [[bindweed]], [[morning glory]]
+- [[[[b/_bindweed|bindweed]]]], [[morning glory]]
 ---

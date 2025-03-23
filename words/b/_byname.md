@@ -3,12 +3,12 @@
 #noun
 - **A secondary name for a person or thing; a person's surname.**
 - **A nickname.**
-- **A pseudonym; nom-[[d/_de|de]]-plume.**
+- **A pseudonym; nom-de-plume.**
 - **A ritual title for a god or goddess used in Heathenry.**
 ---
 ### Synonyms
-- [[cognomen]], [[sobriquet]], [[to-name]]
+- [[[[c/_cognomen|cognomen]]]], [[sobriquet]], [[to-name]]
 #verb
-- **To [[a/_assign|assign]] a [[b/_byname|byname]] to.**
+- **To assign a byname to.**
 ---
 ---

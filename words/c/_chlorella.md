@@ -1,6 +1,6 @@
 # Chlorella
 ---
 #noun
-- **[[a/_any|Any]] single-[[c/_celled|celled]] green [[a/_alga|alga]], of the genus [[c/_chlorella|Chlorella]], found especially in stagnant water; now produced [[c/_commercially|commercially]] as a food supplement.**
+- **Any single-celled green alga, of the genus Chlorella, found especially in stagnant water; now produced commercially as a food supplement.**
 ---
 ---

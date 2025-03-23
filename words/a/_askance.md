@@ -8,7 +8,7 @@
 - **Turned to the side, especially of the eyes.**
 ---
 ### Synonyms
-- [[askew]], [[oblique]], [[sideways]]
+- [[[[a/_askew|askew]]]], [[oblique]], [[sideways]]
 #adverb
 - **(of a look or glance) With disapproval, skepticism, or suspicion.**
 	- _Example: The beggar asked for change, but the haughty woman only looked at him askance._

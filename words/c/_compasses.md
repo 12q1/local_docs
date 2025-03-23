@@ -1,16 +1,16 @@
 # Compasses
 ---
 #noun
-- **A magnetic or electronic device used to [[d/_determine|determine]] the [[c/_cardinal|cardinal]] directions (usually magnetic or true north).**
-- **A pair of [[c/_compasses|compasses]] (a device used to draw an [[a/_arc|arc]] or [[c/_circle|circle]]).**
+- **A magnetic or electronic device used to determine the cardinal directions (usually magnetic or true north).**
+- **A pair of compasses (a device used to draw an arc or circle).**
 - **The range of notes of a musical instrument or voice.**
-- **A space within limits; an [[a/_area|area]].**
-- **An enclosing limit; a [[b/_boundary|boundary]], a [[c/_circumference|circumference]].**
+- **A space within limits; an area.**
+- **An enclosing limit; a boundary, a circumference.**
 	- _Example: within the compass of an encircling wall_
-- **Moderate [[b/_bounds|bounds]], limits of truth; moderation; due limits; used with within.**
+- **Moderate bounds, limits of truth; moderation; due limits; used with within.**
 - **Scope.**
-- **A passing round; [[c/_circuit|circuit]]; [[c/_circuitous|circuitous]] [[c/_course|course]].**
+- **A passing round; circuit; circuitous course.**
 ---
 ### Synonyms
-- [[pair of compasses]], [[magnetic compass]]
+- [[pair of [[c/_compasses|compasses]]]], [[magnetic [[c/_compass|compass]]]]
 ---

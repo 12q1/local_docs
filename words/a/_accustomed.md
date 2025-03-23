@@ -1,9 +1,9 @@
 # Accustomed
 ---
 #adjective
-- **(of a person) Familiar with something through repeated experience; [[a/_adapted|adapted]] to existing [[c/_conditions|conditions]].**
+- **(of a person) Familiar with something through repeated experience; adapted to existing conditions.**
 	- _Example: accustomed to cold_
-- **(of a thing, [[c/_condition|condition]], [[a/_activity|activity]], etc.) Familiar through use; usual; [[c/_customary|customary]].**
-- **Frequented by [[c/_customers|customers]].**
+- **(of a thing, condition, activity, etc.) Familiar through use; usual; customary.**
+- **Frequented by customers.**
 ---
 ---

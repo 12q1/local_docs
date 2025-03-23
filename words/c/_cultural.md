@@ -1,6 +1,6 @@
 # Cultural
 ---
 #adjective
-- **Pertaining to [[c/_culture|culture]].**
+- **Pertaining to culture.**
 ---
 ---

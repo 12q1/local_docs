@@ -1,6 +1,6 @@
 # Buffos
 ---
 #noun
-- **A [[c/_comic|comic]] singer, particularly in [[c/_comic|comic]] opera**
+- **A comic singer, particularly in comic opera**
 ---
 ---

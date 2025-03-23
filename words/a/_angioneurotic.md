@@ -1,6 +1,6 @@
 # Angioneurotic
 ---
 #adjective
-- **Of, pertaining to, or [[a/_affecting|affecting]] [[b/_blood|blood]] vessels and nerves**
+- **Of, pertaining to, or affecting blood vessels and nerves**
 ---
 ---

@@ -1,7 +1,7 @@
 # Beefaloes
 ---
 #noun
-- **A [[c/_cross|cross]] [[b/_between|between]] a domestic [[c/_cow|cow]] and an [[a/_american|American]] [[b/_buffalo|buffalo]] or [[b/_bison|bison]].**
+- **A cross between a domestic cow and an American buffalo or bison.**
 - **The meat of such a hybrid.**
 ---
 ---

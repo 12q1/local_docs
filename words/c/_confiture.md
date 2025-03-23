@@ -1,8 +1,8 @@
 # Confiture
 ---
 #noun
-- **A preserve or jelly/jam of [[c/_candied|candied]] fruit**
+- **A preserve or jelly/jam of candied fruit**
 ---
 ### Synonyms
-- [[comfit]], [[comfiture]], [[preserve]]
+- [[[[c/_comfit|comfit]]]], [[[[c/_comfiture|comfiture]]]], [[preserve]]
 ---

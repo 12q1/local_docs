@@ -1,6 +1,6 @@
 # Caretaking
 ---
 #noun
-- **The [[a/_act|act]] of taking [[c/_care|care]] or taking [[c/_charge|charge]] of something.**
+- **The act of taking care or taking charge of something.**
 ---
 ---

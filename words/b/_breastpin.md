@@ -1,8 +1,8 @@
 # Breastpin
 ---
 #noun
-- **An ornamental pin [[a/_attached|attached]] to [[c/_clothing|clothing]] in a person's upper [[c/_chest|chest]] [[a/_area|area]]; a [[b/_brooch|brooch]].**
+- **An ornamental pin attached to clothing in a person's upper chest area; a brooch.**
 ---
 ### Synonyms
-- [[broach]], [[brooch]]
+- [[[[b/_broach|broach]]]], [[[[b/_brooch|brooch]]]]
 ---

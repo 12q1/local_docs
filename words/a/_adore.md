@@ -2,11 +2,11 @@
 ---
 #verb
 - **To worship.**
-- **To love with one's entire heart and soul; regard with [[d/_deep|deep]] respect and [[a/_affection|affection]].**
+- **To love with one's entire heart and soul; regard with deep respect and affection.**
 	- _Example: It is obvious to everyone that Gerry adores Heather._
 - **To be very fond of.**
-- **To [[a/_adorn|adorn]].**
+- **To adorn.**
 ---
 ### Antonyms
-- [[disdain]], [[disdain]], [[disdain]]
+- [[[[d/_disdain|disdain]]]], [[[[d/_disdain|disdain]]]], [[[[d/_disdain|disdain]]]]
 ---

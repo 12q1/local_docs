@@ -1,9 +1,9 @@
 # Bilabial
 ---
 #noun
-- **A speech sound [[a/_articulated|articulated]] with [[b/_both|both]] lips.**
+- **A speech sound articulated with both lips.**
 ---
 #adjective
-- **[[a/_articulated|Articulated]] with [[b/_both|both]] lips.**
+- **Articulated with both lips.**
 ---
 ---

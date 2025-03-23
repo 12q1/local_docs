@@ -1,6 +1,6 @@
 # Anatomization
 ---
 #noun
-- **A process or [[a/_act|act]] of [[a/_anatomizing|anatomizing]].**
+- **A process or act of anatomizing.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Consolidation
 ---
 #noun
-- **The [[a/_act|act]] or process of [[c/_consolidating|consolidating]], making firm, or uniting; the state of [[b/_being|being]] [[c/_consolidated|consolidated]]**
-- **The [[c/_combination|combination]] of several [[a/_actions|actions]] into one.**
-- **A solidification into a firm [[d/_dense|dense]] mass. It is usually [[a/_applied|applied]] to induration (swelling or hardening of normally soft tissue) of a normally [[a/_aerated|aerated]] lung.**
+- **The act or process of consolidating, making firm, or uniting; the state of being consolidated**
+- **The combination of several actions into one.**
+- **A solidification into a firm dense mass. It is usually applied to induration (swelling or hardening of normally soft tissue) of a normally aerated lung.**
 ---
 ### Synonyms
-- [[combination]], [[solidification]]
+- [[[[c/_combination|combination]]]], [[solidification]]
 ---

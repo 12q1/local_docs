@@ -1,7 +1,7 @@
 # Anguilliform
 ---
 #noun
-- **[[a/_any|Any]] eel of the order Anguilliformes**
+- **Any eel of the order Anguilliformes**
 ---
 #adjective
 - **Shaped like an eel.**

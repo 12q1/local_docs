@@ -6,7 +6,7 @@
 #verb
 - **To inhabit; occupy**
 - **To locate oneself**
-- **To [[b/_build|build]]; erect; fashion**
+- **To build; erect; fashion**
 - **To dwell; have a dwelling**
 ---
 ---

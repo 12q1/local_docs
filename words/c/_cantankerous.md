@@ -1,8 +1,8 @@
 # Cantankerous
 ---
 #adjective
-- **Given to or marked by an ill-tempered nature; ill-tempered, [[c/_cranky|cranky]], surly, [[c/_crabby|crabby]].**
+- **Given to or marked by an ill-tempered nature; ill-tempered, cranky, surly, crabby.**
 ---
 ### Synonyms
-- [[cranky]], [[grouchy]], [[grumpy]], [[ornery]], [[surly]], [[truculent]]
+- [[[[c/_cranky|cranky]]]], [[grouchy]], [[grumpy]], [[ornery]], [[surly]], [[truculent]]
 ---

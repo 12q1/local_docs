@@ -1,7 +1,7 @@
 # Amahs
 ---
 #noun
-- **In South [[a/_asia|Asia]], a woman employed to look [[a/_after|after]] [[c/_children|children]]; (formerly) a wet nurse.**
-- **In [[c/_china|China]] and Southeast [[a/_asia|Asia]], a female domestic helper.**
+- **In South Asia, a woman employed to look after children; (formerly) a wet nurse.**
+- **In China and Southeast Asia, a female domestic helper.**
 ---
 ---

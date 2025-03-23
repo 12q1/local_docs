@@ -2,6 +2,6 @@
 ---
 #verb
 - **To endow with human qualities.**
-- **To [[a/_attribute|attribute]] human-like [[c/_characteristics|characteristics]] to (something that is non-human).**
+- **To attribute human-like characteristics to (something that is non-human).**
 ---
 ---

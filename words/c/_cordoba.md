@@ -1,8 +1,8 @@
 # Cordoba
 ---
 #noun
-- **The [[c/_currency|currency]] of Nicaragua, divided into 100 [[c/_centavos|centavos]].**
+- **The currency of Nicaragua, divided into 100 centavos.**
 ---
 ### Synonyms
-- [[C$]]
+- [[[[c/_c|C]]$]]
 ---

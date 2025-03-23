@@ -1,11 +1,11 @@
 # Chowder
 ---
 #noun
-- **A thick, [[c/_creamy|creamy]] soup or stew.**
+- **A thick, creamy soup or stew.**
 - **A stew, particularly fish or seafood, not necessarily thickened.**
 - **A seller of fish.**
 ---
 #verb
-- **To make (seafood, etc.) into [[c/_chowder|chowder]].**
+- **To make (seafood, etc.) into chowder.**
 ---
 ---

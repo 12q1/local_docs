@@ -1,11 +1,11 @@
 # Cassata
 ---
 #noun
-- **A type of tutti-frutti or Neapolitan ice [[c/_cream|cream]] with nuts and [[c/_candied|candied]] fruits.**
+- **A type of tutti-frutti or Neapolitan ice cream with nuts and candied fruits.**
 ---
 #noun
-- **A rich [[c/_cake|cake]], typical of Sicily, [[c/_containing|containing]] liqueur layered with ricotta, [[c/_candied|candied]] fruit and [[c/_chocolate|chocolate]].**
+- **A rich cake, typical of Sicily, containing liqueur layered with ricotta, candied fruit and chocolate.**
 ---
 ### Synonyms
-- [[cassata]]
+- [[[[c/_cassata|cassata]]]]
 ---

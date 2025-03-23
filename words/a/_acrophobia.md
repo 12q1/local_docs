@@ -6,5 +6,5 @@
 ### Synonyms
 - [[altophobia]], [[height-fear]]
 ### Antonyms
-- [[bathophobia]]
+- [[[[b/_bathophobia|bathophobia]]]]
 ---

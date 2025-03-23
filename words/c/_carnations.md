@@ -1,12 +1,12 @@
 # Carnations
 ---
 #noun
-- **([[b/_botany|botany]]) A type of Eurasian plant widely [[c/_cultivated|cultivated]] for its flowers.**
-- **The type of flower they [[b/_bear|bear]], originally flesh-[[c/_coloured|coloured]], but since hybridizing found in a variety of [[c/_colours|colours]].**
-- **A rosy pink [[c/_colour|colour]]**
-- **The pinkish [[c/_colors|colors]] used in [[a/_art|art]] to render human face and flesh**
-- **A scarlet [[c/_colour|colour]].**
+- **(botany) A type of Eurasian plant widely cultivated for its flowers.**
+- **The type of flower they bear, originally flesh-coloured, but since hybridizing found in a variety of colours.**
+- **A rosy pink colour**
+- **The pinkish colors used in art to render human face and flesh**
+- **A scarlet colour.**
 ---
 ### Synonyms
-- [[Dianthus caryophyllus]], [[clove pink]], [[gillyflower]]
+- [[[[d/_dianthus|Dianthus]] [[c/_caryophyllus|caryophyllus]]]], [[[[c/_clove|clove]] pink]], [[gillyflower]]
 ---

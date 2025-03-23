@@ -1,9 +1,9 @@
 # Countermining
 ---
 #verb
-- **To plot opposition; to frustrate the initiatives of [[a/_another|another]].**
+- **To plot opposition; to frustrate the initiatives of another.**
 - **To sap hostile mining.**
 ---
 ### Synonyms
-- [[counterplot]]
+- [[[[c/_counterplot|counterplot]]]]
 ---

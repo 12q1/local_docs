@@ -1,13 +1,13 @@
 # Blights
 ---
 #noun
-- **[[a/_any|Any]] of many plant diseases [[c/_causing|causing]] [[d/_damage|damage]] to, or the [[d/_death|death]] of, leaves, fruit or other parts.**
-- **The [[b/_bacterium|bacterium]], virus or fungus that [[c/_causes|causes]] such a [[c/_condition|condition]].**
-- **(by extension) [[a/_anything|Anything]] that impedes growth or development or spoils [[a/_any|any]] other [[a/_aspect|aspect]] of life.**
+- **Any of many plant diseases causing damage to, or the death of, leaves, fruit or other parts.**
+- **The bacterium, virus or fungus that causes such a condition.**
+- **(by extension) Anything that impedes growth or development or spoils any other aspect of life.**
 ---
 #verb
-- **To [[a/_affect|affect]] with [[b/_blight|blight]]; to [[b/_blast|blast]]; to prevent the growth and fertility of.**
-- **To suffer [[b/_blight|blight]].**
+- **To affect with blight; to blast; to prevent the growth and fertility of.**
+- **To suffer blight.**
 	- _Example: This vine never blights._
 - **To spoil or ruin (something).**
 	- _Example: Those obscene tattoos are going to blight your job prospects._

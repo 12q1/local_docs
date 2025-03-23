@@ -1,7 +1,7 @@
 # Concurrence
 ---
 #noun
-- **[[a/_agreement|Agreement]]; [[c/_concurring|concurring]].**
+- **Agreement; concurring.**
 - **An instance of simultaneous occurrence.**
 ---
 ---

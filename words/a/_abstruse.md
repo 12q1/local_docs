@@ -1,9 +1,9 @@
 # Abstruse
 ---
 #adjective
-- **Difficult to [[c/_comprehend|comprehend]] or understand.**
-- **[[c/_concealed|Concealed]] or hidden out of the way; secret.**
+- **Difficult to comprehend or understand.**
+- **Concealed or hidden out of the way; secret.**
 ---
 ### Synonyms
-- [[clandestine]], [[secret]], [[surreptitious]], [[esoteric]], [[obscure]], [[recondite]], [[esoteric]], [[obscure]], [[recondite]]
+- [[[[c/_clandestine|clandestine]]]], [[secret]], [[surreptitious]], [[esoteric]], [[obscure]], [[recondite]], [[esoteric]], [[obscure]], [[recondite]]
 ---

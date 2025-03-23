@@ -1,12 +1,12 @@
 # Binge
 ---
 #noun
-- **A short period of excessive [[c/_consumption|consumption]], especially of food, [[a/_alcohol|alcohol]], narcotics, etc.**
-- **(by extension) A short period of an [[a/_activity|activity]] done in excess, such as watching a television show.**
+- **A short period of excessive consumption, especially of food, alcohol, narcotics, etc.**
+- **(by extension) A short period of an activity done in excess, such as watching a television show.**
 ---
 ### Synonyms
-- [[bender]], [[debauch]], [[jag]], [[spree]], [[toot]]
+- [[[[b/_bender|bender]]]], [[[[d/_debauch|debauch]]]], [[jag]], [[spree]], [[toot]]
 #verb
-- **To engage in a short period of excessive [[c/_consumption|consumption]], especially of excessive [[a/_alcohol|alcohol]] [[c/_consumption|consumption]].**
+- **To engage in a short period of excessive consumption, especially of excessive alcohol consumption.**
 ---
 ---

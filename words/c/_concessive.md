@@ -1,9 +1,9 @@
 # Concessive
 ---
 #noun
-- **(grammar) A phrase or [[c/_clause|clause]] that [[a/_acts|acts]] as a [[c/_concession|concession]], such as "even if" or "[[a/_although|although]]".**
+- **(grammar) A phrase or clause that acts as a concession, such as "even if" or "although".**
 ---
 #adjective
-- **Of, pertaining to, or [[b/_being|being]] a [[c/_concession|concession]]; [[c/_conceding|conceding]]**
+- **Of, pertaining to, or being a concession; conceding**
 ---
 ---

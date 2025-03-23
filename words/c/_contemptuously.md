@@ -1,9 +1,9 @@
 # Contemptuously
 ---
 #adverb
-- **In a disrespectful or discourteous manner; [[c/_condescendingly|condescendingly]].**
+- **In a disrespectful or discourteous manner; condescendingly.**
 	- _Example: He argued with the judge contemptuously, showing no respect or remorse for his actions._
 ---
 ### Synonyms
-- [[condescendingly]], [[disdainfully]], [[disrespectfully]]
+- [[[[c/_condescendingly|condescendingly]]]], [[[[d/_disdainfully|disdainfully]]]], [[[[d/_disrespectfully|disrespectfully]]]]
 ---

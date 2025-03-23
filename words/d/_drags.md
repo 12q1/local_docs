@@ -1,0 +1,64 @@
+# Drags
+---
+#noun
+- **Resistance of the air (or some other fluid) to something moving through it.**
+	- _Example: When designing cars, manufacturers have to take drag into consideration._
+- **(foundry) The bottom part of a sand casting mold.**
+- **A device dragged along the bottom of a body of water in search of something, e.g. a dead body, or in fishing.**
+- **A puff on a cigarette or joint.**
+- **Someone or something that is annoying or frustrating, or disappointing; an obstacle to progress or enjoyment.**
+	- _Example: Travelling to work in the rush hour is a real drag._
+- **A long open horse-drawn carriage with transverse or side seats.**
+- **Street, as in 'main drag'.**
+- **The scent-path left by dragging a fox, or some other substance such as aniseed, for training hounds to follow scents.**
+	- _Example: to run a drag_
+- **A large amount of backspin on the cue ball, causing the cue ball to slow down.**
+- **A heavy harrow for breaking up ground.**
+- **A kind of sledge for conveying heavy objects; also, a kind of low car or handcart.**
+	- _Example: a stone drag_
+- **The bottom part of a flask or mould, the upper part being the cope.**
+- **A steel instrument for completing the dressing of soft stone.**
+- **The difference between the speed of a screw steamer under sail and that of the screw when the ship outruns the screw; or between the propulsive effects of the different floats of a paddle wheel.**
+- **Anything towed in the water to retard a ship's progress, or to keep her head up to the wind; especially, a canvas bag with a hooped mouth (drag sail), so used.**
+- **A skid or shoe for retarding the motion of a carriage wheel.**
+- **Motion affected with slowness and difficulty, as if clogged.**
+- **Witch house music.**
+- **The last position in a line of hikers.**
+- **(aerodynamics) The act of suppressing wind flow to slow an aircraft in flight, as by use of flaps when landing.**
+- **A push somewhat under the centre of the cue ball, causing it to follow the object ball a short way.**
+- **A device for guiding wood to the saw.**
+- **A mailcoach.**
+---
+#verb
+- **To pull along a surface or through a medium, sometimes with difficulty.**
+	- _Example: Let's drag this load of wood over to the shed._
+- **To move onward heavily, laboriously, or slowly; to advance with weary effort; to go on lingeringly.**
+	- _Example: Time seems to drag when you’re waiting for a bus._
+- **To act or proceed slowly or without enthusiasm; to be reluctant.**
+- **To draw along (something burdensome); hence, to pass in pain or with difficulty.**
+- **To serve as a clog or hindrance; to hold back.**
+- **To move (an item) on the computer display by means of a mouse or other input device.**
+	- _Example: Drag the file into the window to open it._
+- **(chiefly of a vehicle) To unintentionally rub or scrape on a surface.**
+	- _Example: The car was so low to the ground that its muffler was dragging on a speed bump._
+- **To hit or kick off target.**
+- **To fish with a dragnet.**
+- **To search for something, as a lost object or body, by dragging something along the bottom of a body of water.**
+- **To break (land) by drawing a drag or harrow over it; to harrow.**
+- **To search exhaustively, as if with a dragnet.**
+- **To roast, say negative things about, or call attention to the flaws of (someone).**
+	- _Example: You just drag him 'cause he's got more money than you._
+---
+### Synonyms
+- [[[[c/_criticize|criticize]]]], [[harrow]]
+#noun
+- **Women's clothing worn by men for the purpose of entertainment.**
+	- _Example: He performed in drag._
+- **A men's party attended in women's clothing.**
+- **Any type of clothing or costume associated with a particular occupation or subculture.**
+	- _Example: corporate drag_
+---
+#verb
+- **To perform as a drag queen or drag king.**
+---
+---

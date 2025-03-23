@@ -1,17 +1,17 @@
 # Bury
 ---
 #noun
-- **A [[b/_burrow|burrow]].**
+- **A burrow.**
 ---
 #verb
 - **To ritualistically inter in a grave or tomb.**
 - **To place in the ground.**
 	- _Example: bury a bone;  bury the embers_
-- **To hide or [[c/_conceal|conceal]] as if by [[c/_covering|covering]] with earth or [[a/_another|another]] substance.**
+- **To hide or conceal as if by covering with earth or another substance.**
 	- _Example: she buried her face in the pillow;  they buried us in paperwork_
-- **To suppress and hide [[a/_away|away]] in one's mind.**
+- **To suppress and hide away in one's mind.**
 	- _Example: secrets kept buried; she buried her shame and put on a smiling face._
-- **To put an end to; to [[a/_abandon|abandon]].**
+- **To put an end to; to abandon.**
 	- _Example: They buried their argument and shook hands._
 - **To score a goal.**
 - **To kill or murder.**

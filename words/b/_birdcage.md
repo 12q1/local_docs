@@ -1,7 +1,7 @@
 # Birdcage
 ---
 #noun
-- **A [[c/_cage|cage]] to keep pet or zoological specimen [[b/_birds|birds]] in.**
-- **A game of [[c/_chance|chance]] played with dice; [[c/_chuck|chuck]]-a-luck.**
+- **A cage to keep pet or zoological specimen birds in.**
+- **A game of chance played with dice; chuck-a-luck.**
 ---
 ---

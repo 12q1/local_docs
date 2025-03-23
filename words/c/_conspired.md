@@ -1,11 +1,11 @@
 # Conspired
 ---
 #verb
-- **To secretly plot or make plans together, often with the intention to [[b/_bring|bring]] [[b/_bad|bad]] or illegal results.**
-- **To [[a/_agree|agree]], to [[c/_concur|concur]] to one end.**
-- **To try to [[b/_bring|bring]] [[a/_about|about]].**
+- **To secretly plot or make plans together, often with the intention to bring bad or illegal results.**
+- **To agree, to concur to one end.**
+- **To try to bring about.**
 	- _Example: Angry clouds conspire your overthrow._
 ---
 ### Synonyms
-- [[collogue]]
+- [[[[c/_collogue|collogue]]]]
 ---

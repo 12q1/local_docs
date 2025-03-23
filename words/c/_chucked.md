@@ -1,26 +1,26 @@
 # Chucked
 ---
 #verb
-- **To place in a [[c/_chuck|chuck]], or hold by means of a [[c/_chuck|chuck]], as in turning.**
-- **To [[b/_bore|bore]] or turn (a hole) in a revolving piece held in a [[c/_chuck|chuck]].**
+- **To place in a chuck, or hold by means of a chuck, as in turning.**
+- **To bore or turn (a hole) in a revolving piece held in a chuck.**
 ---
 #verb
-- **To make a [[c/_clucking|clucking]] sound.**
-- **To [[c/_call|call]], as a hen her [[c/_chickens|chickens]].**
+- **To make a clucking sound.**
+- **To call, as a hen her chickens.**
 ---
 #verb
 - **To touch or tap gently.**
-- **To throw, especially in a [[c/_careless|careless]] or inaccurate manner.**
+- **To throw, especially in a careless or inaccurate manner.**
 	- _Example: Chuck that magazine to me, would you?_
-- **To throw; to [[b/_bowl|bowl]] with an incorrect [[a/_action|action]].**
-- **To discard, to throw [[a/_away|away]].**
+- **To throw; to bowl with an incorrect action.**
+- **To discard, to throw away.**
 	- _Example: This food's gone off - you'd better chuck it._
 - **To jilt; to dump.**
 	- _Example: She's chucked me for another man!_
 - **To vomit.**
-- **To leave; to [[d/_depart|depart]]; to [[b/_bounce|bounce]].**
+- **To leave; to depart; to bounce.**
 	- _Example: Let's chuck._
-- **To [[c/_chuckle|chuckle]]; to laugh.**
-- **On rhythm guitar or mandolin etc.: to mute a [[c/_chord|chord]] by lifting the fretting fingers immediately [[a/_after|after]] strumming, producing a percussive effect.**
+- **To chuckle; to laugh.**
+- **On rhythm guitar or mandolin etc.: to mute a chord by lifting the fretting fingers immediately after strumming, producing a percussive effect.**
 ---
 ---

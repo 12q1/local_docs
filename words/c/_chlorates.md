@@ -1,7 +1,7 @@
 # Chlorates
 ---
 #noun
-- **[[a/_any|Any]] salt of [[c/_chloric|chloric]] [[a/_acid|acid]].**
+- **Any salt of chloric acid.**
 	- _Example: Chlorates are powerful oxidizing agents._
 ---
 ---

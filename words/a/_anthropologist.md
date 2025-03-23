@@ -1,6 +1,6 @@
 # Anthropologist
 ---
 #noun
-- **One who is versed in [[a/_anthropology|anthropology]].**
+- **One who is versed in anthropology.**
 ---
 ---

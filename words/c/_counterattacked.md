@@ -1,6 +1,6 @@
 # Counterattacked
 ---
 #verb
-- **To [[a/_attack|attack]] in response to an [[a/_attack|attack]] by opponents**
+- **To attack in response to an attack by opponents**
 ---
 ---

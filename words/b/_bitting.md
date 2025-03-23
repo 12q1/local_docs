@@ -1,15 +1,15 @@
 # Bitting
 ---
 #verb
-- **To put a [[b/_bridle|bridle]] upon; to put the [[b/_bit|bit]] in the mouth of (a horse).**
+- **To put a bridle upon; to put the bit in the mouth of (a horse).**
 ---
 #verb
-- **To put round the [[b/_bitts|bitts]].**
+- **To put round the bitts.**
 	- _Example: to bitt the cable, in order to fasten it or to slacken it gradually, which is called veering away_
 ---
 #noun
-- **The part of a key that engages the tumblers to [[a/_activate|activate]] the lock**
+- **The part of a key that engages the tumblers to activate the lock**
 ---
 ### Synonyms
-- [[key bit]]
+- [[key [[b/_bit|bit]]]]
 ---

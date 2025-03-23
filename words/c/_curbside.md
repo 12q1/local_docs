@@ -1,12 +1,12 @@
 # Curbside
 ---
 #noun
-- **A location next to the [[c/_curb|curb]]**
+- **A location next to the curb**
 ---
 ### Synonyms
 - [[kerbside]]
 #adjective
-- **[[a/_adjacent|Adjacent]] to the [[c/_curb|curb]].**
+- **Adjacent to the curb.**
 	- _Example: Airlines now often limit curbside check-in to select passengers._
 ---
 ---

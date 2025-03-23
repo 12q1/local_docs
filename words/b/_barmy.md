@@ -1,8 +1,8 @@
 # Barmy
 ---
 #adjective
-- **Odd, strange, or [[c/_crazy|crazy]].**
+- **Odd, strange, or crazy.**
 ---
 ### Synonyms
-- [[balmy]], [[dotty]], [[goofy]], [[wacko]]
+- [[[[b/_balmy|balmy]]]], [[[[d/_dotty|dotty]]]], [[goofy]], [[wacko]]
 ---

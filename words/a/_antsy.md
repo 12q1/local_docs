@@ -1,6 +1,6 @@
 # Antsy
 ---
 #adjective
-- **Restless, [[a/_apprehensive|apprehensive]] and fidgety**
+- **Restless, apprehensive and fidgety**
 ---
 ---

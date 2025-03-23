@@ -1,15 +1,15 @@
 # Backstage
 ---
 #noun
-- **The [[a/_area|area]] [[b/_behind|behind]] a stage out of view of the [[a/_audience|audience]] where performers wait to give their show; especially that of the dressing rooms.**
-- **The private portion of the space used by a [[b/_business|business]] or enterprise.**
+- **The area behind a stage out of view of the audience where performers wait to give their show; especially that of the dressing rooms.**
+- **The private portion of the space used by a business or enterprise.**
 ---
 #adjective
-- **Relating to, or situated in the [[a/_area|area]] [[b/_behind|behind]] a stage.**
-- **Secret, [[c/_concealed|concealed]] from the public.**
+- **Relating to, or situated in the area behind a stage.**
+- **Secret, concealed from the public.**
 ---
 #adverb
-- **Towards the [[a/_area|area]] [[b/_behind|behind]] the stage.**
+- **Towards the area behind the stage.**
 - **Out of view of the public.**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **The trachea.**
-- **A flight path used by [[a/_aeroplanes|aeroplanes]].**
+- **A flight path used by aeroplanes.**
 ---
 ### Synonyms
 - [[trachea]], [[windpipe]]

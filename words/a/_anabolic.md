@@ -1,11 +1,11 @@
 # Anabolic
 ---
 #noun
-- **An [[a/_anabolic|anabolic]] steroid.**
+- **An anabolic steroid.**
 ---
 #adjective
-- **Of or relating to [[a/_anabolism|anabolism]].**
+- **Of or relating to anabolism.**
 ---
 ### Antonyms
-- [[catabolic]]
+- [[[[c/_catabolic|catabolic]]]]
 ---

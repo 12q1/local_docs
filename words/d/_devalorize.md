@@ -1,0 +1,6 @@
+# Devalorize
+---
+#verb
+- **To devalue.**
+---
+---

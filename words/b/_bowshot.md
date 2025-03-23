@@ -1,7 +1,7 @@
 # Bowshot
 ---
 #noun
-- **The [[a/_act|act]] of firing an [[a/_arrow|arrow]] from a [[b/_bow|bow]].**
-- **The distance that the [[a/_arrow|arrow]] of an [[a/_average|average]] [[a/_archer|archer]] [[c/_can|can]] effectively travel.**
+- **The act of firing an arrow from a bow.**
+- **The distance that the arrow of an average archer can effectively travel.**
 ---
 ---

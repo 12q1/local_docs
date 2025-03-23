@@ -1,8 +1,8 @@
 # Apish
 ---
 #adjective
-- **Resembling or [[c/_characteristic|characteristic]] of an [[a/_ape|ape]]**
+- **Resembling or characteristic of an ape**
 ---
 ### Synonyms
-- [[apelike]], [[apely]], [[simian]]
+- [[[[a/_apelike|apelike]]]], [[apely]], [[simian]]
 ---

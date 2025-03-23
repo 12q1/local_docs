@@ -1,8 +1,8 @@
 # Azoic
 ---
 #adjective
-- **[[d/_destitute|Destitute]] of [[a/_any|any]] vestige of organic life, or at least of [[a/_animal|animal]] life**
-- **[[a/_anterior|Anterior]] to the existence of [[a/_animal|animal]] life**
-- **Formed when there was no [[a/_animal|animal]] life on the globe**
+- **Destitute of any vestige of organic life, or at least of animal life**
+- **Anterior to the existence of animal life**
+- **Formed when there was no animal life on the globe**
 ---
 ---

@@ -1,6 +1,6 @@
 # Campesinos
 ---
 #noun
-- **An [[a/_agricultural|agricultural]] worker in Latin [[a/_america|America]].**
+- **An agricultural worker in Latin America.**
 ---
 ---

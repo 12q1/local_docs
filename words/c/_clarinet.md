@@ -1,8 +1,8 @@
 # Clarinet
 ---
 #noun
-- **A woodwind musical instrument that has a distinctive liquid tone whose [[c/_characteristics|characteristics]] vary [[a/_among|among]] its three registers: [[c/_chalumeau|chalumeau]] (low), [[c/_clarion|clarion]] (medium), and [[a/_altissimo|altissimo]] (high).**
+- **A woodwind musical instrument that has a distinctive liquid tone whose characteristics vary among its three registers: chalumeau (low), clarion (medium), and altissimo (high).**
 ---
 ### Synonyms
-- [[agony-pipe]]
+- [[[[a/_agony|agony]]-pipe]]
 ---

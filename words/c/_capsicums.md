@@ -1,7 +1,7 @@
 # Capsicums
 ---
 #noun
-- **[[a/_any|Any]] of several tropical [[a/_american|American]] plants, of the genus [[c/_capsicum|Capsicum]], principally the species [[c/_capsicum|Capsicum]] annuum and [[c/_capsicum|Capsicum]] frutescens, that are [[c/_cultivated|cultivated]] as edible peppers.**
-- **The spicy fruit of the [[a/_above|above]] plants, the [[b/_bell|bell]] peppers.**
+- **Any of several tropical American plants, of the genus Capsicum, principally the species Capsicum annuum and Capsicum frutescens, that are cultivated as edible peppers.**
+- **The spicy fruit of the above plants, the bell peppers.**
 ---
 ---

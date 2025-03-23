@@ -1,6 +1,6 @@
 # Antilogs
 ---
 #noun
-- **An [[a/_antilogarithm|antilogarithm]].**
+- **An antilogarithm.**
 ---
 ---

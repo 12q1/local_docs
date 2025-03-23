@@ -1,6 +1,6 @@
 # Arent
 ---
 #noun
-- **A kind of [[a/_anthropogenic|anthropogenic]] soil, with [[d/_deep|deep]] mixing due to ploughing, digging, etc.**
+- **A kind of anthropogenic soil, with deep mixing due to ploughing, digging, etc.**
 ---
 ---

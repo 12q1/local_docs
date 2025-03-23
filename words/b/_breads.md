@@ -1,24 +1,24 @@
 # Breads
 ---
 #noun
-- **A foodstuff made by [[b/_baking|baking]] dough made from [[c/_cereals|cereals]].**
-- **[[a/_any|Any]] variety of [[b/_bread|bread]].**
+- **A foodstuff made by baking dough made from cereals.**
+- **Any variety of bread.**
 - **Money.**
 - **Food; sustenance; support of life, in general.**
 ---
 ### Synonyms
-- [[dough]], [[folding stuff]], [[lolly]], [[paper]], [[spondulicks]], [[wonga]]
+- [[[[d/_dough|dough]]]], [[folding stuff]], [[lolly]], [[paper]], [[spondulicks]], [[wonga]]
 #verb
-- **To [[c/_coat|coat]] with breadcrumbs**
+- **To coat with breadcrumbs**
 ---
 #noun
-- **[[b/_breadth|Breadth]].**
+- **Breadth.**
 ---
 #verb
-- **To make [[b/_broad|broad]]; spread.**
+- **To make broad; spread.**
 ---
 #noun
-- **A piece of embroidery; a [[b/_braid|braid]].**
+- **A piece of embroidery; a braid.**
 ---
 #verb
 - **To form in meshes; net.**

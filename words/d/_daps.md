@@ -5,8 +5,8 @@
 - **A fistbump.**
 ---
 ### Synonyms
-- [[dab]]
+- [[[[d/_dab|dab]]]]
 #verb
-- **To greet with a [[d/_dap|dap]].**
+- **To greet with a dap.**
 ---
 ---

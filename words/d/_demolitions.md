@@ -1,6 +1,6 @@
 # Demolitions
 ---
 #noun
-- **The process of [[d/_demolishing|demolishing]] or [[d/_destroying|destroying]] [[b/_buildings|buildings]] or other structures.**
+- **The process of demolishing or destroying buildings or other structures.**
 ---
 ---

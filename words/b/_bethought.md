@@ -1,13 +1,13 @@
 # Bethought
 ---
 #verb
-- **To think [[a/_about|about]], to recollect.**
-- **To think of (something or somebody) or that (followed by [[c/_clause|clause]]); to remind oneself, to [[c/_consider|consider]], to reflect upon.**
-- **To meditate, ponder; to [[c/_consider|consider]].**
-- **To [[d/_determine|determine]], resolve.**
+- **To think about, to recollect.**
+- **To think of (something or somebody) or that (followed by clause); to remind oneself, to consider, to reflect upon.**
+- **To meditate, ponder; to consider.**
+- **To determine, resolve.**
 ---
 #adjective
-- **(of a thing) Intended; purposed; [[c/_contrived|contrived]].**
+- **(of a thing) Intended; purposed; contrived.**
 - **(of a person) Minded; disposed.**
 ---
 ---

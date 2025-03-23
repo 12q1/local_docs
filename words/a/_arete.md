@@ -1,7 +1,7 @@
 # Arete
 ---
 #noun
-- **([[c/_classical|Classical]] philosophy) Virtue, excellence.**
-- **([[c/_classical|Classical]] philosophy) The proper state or [[c/_condition|condition]] for a human.**
+- **(Classical philosophy) Virtue, excellence.**
+- **(Classical philosophy) The proper state or condition for a human.**
 ---
 ---

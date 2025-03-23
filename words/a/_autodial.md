@@ -1,9 +1,9 @@
 # Autodial
 ---
 #noun
-- **A feature in [[c/_computer|computer]] software, etc. that dials a telephone number [[a/_automatically|automatically]].**
+- **A feature in computer software, etc. that dials a telephone number automatically.**
 ---
 #verb
-- **To dial [[a/_automatically|automatically]].**
+- **To dial automatically.**
 ---
 ---

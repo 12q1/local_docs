@@ -1,12 +1,12 @@
 # Blasphemies
 ---
 #noun
-- **An [[a/_act|act]] of irreverence or [[c/_contempt|contempt]] toward a god or toward something [[c/_considered|considered]] sacred; an impious [[a/_act|act]], utterance, view, etc.**
+- **An act of irreverence or contempt toward a god or toward something considered sacred; an impious act, utterance, view, etc.**
 	- _Example: That imam said that drawing the prophet Muhammad is a form of blasphemy._
-- **(by extension) An [[a/_act|act]] of irreverence towards [[a/_anything|anything]] [[c/_considered|considered]] inviolable; the [[a/_act|act]] of disregarding a [[c/_convention|convention]].**
+- **(by extension) An act of irreverence towards anything considered inviolable; the act of disregarding a convention.**
 ---
 ### Synonyms
-- [[cursing]], [[cussing]], [[execration]], [[imprecation]], [[profanity]], [[swearing]], [[desecration]], [[profanation]], [[sacrilege]], [[violation]]
+- [[[[c/_cursing|cursing]]]], [[[[c/_cussing|cussing]]]], [[execration]], [[imprecation]], [[profanity]], [[swearing]], [[[[d/_desecration|desecration]]]], [[profanation]], [[sacrilege]], [[violation]]
 ### Antonyms
-- [[adoration]], [[reverence]], [[veneration]], [[worship]]
+- [[[[a/_adoration|adoration]]]], [[reverence]], [[veneration]], [[worship]]
 ---

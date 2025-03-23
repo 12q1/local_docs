@@ -1,7 +1,7 @@
 # Delirious
 ---
 #adjective
-- **[[b/_being|Being]] in the state of [[d/_delirium|delirium]].**
+- **Being in the state of delirium.**
 - **Having uncontrolled excitement; ecstatic.**
 ---
 ---

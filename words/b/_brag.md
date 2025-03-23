@@ -1,23 +1,23 @@
 # Brag
 ---
 #noun
-- **A [[b/_boast|boast]] or [[b/_boasting|boasting]]; [[b/_bragging|bragging]]; ostentatious pretence or self-glorification.**
-- **The thing which is [[b/_boasted|boasted]] of.**
-- **(by ellipsis) The [[c/_card|card]] game three [[c/_card|card]] [[b/_brag|brag]].**
+- **A boast or boasting; bragging; ostentatious pretence or self-glorification.**
+- **The thing which is boasted of.**
+- **(by ellipsis) The card game three card brag.**
 ---
 #verb
-- **To [[b/_boast|boast]]; to talk with excessive pride [[a/_about|about]] what one has, is [[a/_able|able]] to do, or has done; often as an [[a/_attempt|attempt]] to popularize oneself.**
+- **To boast; to talk with excessive pride about what one has, is able to do, or has done; often as an attempt to popularize oneself.**
 	- _Example: to brag of one's exploits, courage, or money_
-- **To [[b/_boast|boast]] of.**
+- **To boast of.**
 ---
 ### Synonyms
-- [[boast]]
+- [[[[b/_boast|boast]]]]
 #adjective
 - **Excellent; first-rate.**
-- **[[b/_brisk|Brisk]]; full of spirits; [[b/_boasting|boasting]]; pretentious; [[c/_conceited|conceited]].**
+- **Brisk; full of spirits; boasting; pretentious; conceited.**
 	- _Example: a woundy, brag young fellow_
 ---
 #adverb
-- **Proudly; [[b/_boastfully|boastfully]]**
+- **Proudly; boastfully**
 ---
 ---

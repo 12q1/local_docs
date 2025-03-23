@@ -1,56 +1,56 @@
 # Chucks
 ---
 #noun
-- **Meat from the shoulder of a [[c/_cow|cow]] or other [[a/_animal|animal]].**
+- **Meat from the shoulder of a cow or other animal.**
 - **Food.**
-- **A mechanical device that holds an object firmly in place, for example holding a drill [[b/_bit|bit]] in a high-speed rotating drill or grinder.**
+- **A mechanical device that holds an object firmly in place, for example holding a drill bit in a high-speed rotating drill or grinder.**
 ---
 #verb
-- **To place in a [[c/_chuck|chuck]], or hold by means of a [[c/_chuck|chuck]], as in turning.**
-- **To [[b/_bore|bore]] or turn (a hole) in a revolving piece held in a [[c/_chuck|chuck]].**
+- **To place in a chuck, or hold by means of a chuck, as in turning.**
+- **To bore or turn (a hole) in a revolving piece held in a chuck.**
 ---
 #noun
-- **A [[c/_chicken|chicken]], a hen.**
-- **A [[c/_clucking|clucking]] sound.**
-- **A friend or [[c/_close|close]] [[a/_acquaintance|acquaintance]]; term of endearment.**
+- **A chicken, a hen.**
+- **A clucking sound.**
+- **A friend or close acquaintance; term of endearment.**
 	- _Example: Are you all right, chuck?_
 ---
 #verb
-- **To make a [[c/_clucking|clucking]] sound.**
-- **To [[c/_call|call]], as a hen her [[c/_chickens|chickens]].**
+- **To make a clucking sound.**
+- **To call, as a hen her chickens.**
 ---
 #noun
 - **A gentle touch or tap.**
 	- _Example: She gave him an affectionate chuck under the chin._
-- **A [[c/_casual|casual]] throw.**
-- **A throw, an incorrect [[b/_bowling|bowling]] [[a/_action|action]].**
-- **An [[a/_act|act]] or instance of vomiting.**
-- **On rhythm guitar or mandolin etc., the muting of a [[c/_chord|chord]] by lifting the fretting fingers immediately [[a/_after|after]] strumming, producing a percussive effect.**
+- **A casual throw.**
+- **A throw, an incorrect bowling action.**
+- **An act or instance of vomiting.**
+- **On rhythm guitar or mandolin etc., the muting of a chord by lifting the fretting fingers immediately after strumming, producing a percussive effect.**
 ---
 #verb
 - **To touch or tap gently.**
-- **To throw, especially in a [[c/_careless|careless]] or inaccurate manner.**
+- **To throw, especially in a careless or inaccurate manner.**
 	- _Example: Chuck that magazine to me, would you?_
-- **To throw; to [[b/_bowl|bowl]] with an incorrect [[a/_action|action]].**
-- **To discard, to throw [[a/_away|away]].**
+- **To throw; to bowl with an incorrect action.**
+- **To discard, to throw away.**
 	- _Example: This food's gone off - you'd better chuck it._
 - **To jilt; to dump.**
 	- _Example: She's chucked me for another man!_
 - **To vomit.**
-- **To leave; to [[d/_depart|depart]]; to [[b/_bounce|bounce]].**
+- **To leave; to depart; to bounce.**
 	- _Example: Let's chuck._
-- **To [[c/_chuckle|chuckle]]; to laugh.**
-- **On rhythm guitar or mandolin etc.: to mute a [[c/_chord|chord]] by lifting the fretting fingers immediately [[a/_after|after]] strumming, producing a percussive effect.**
+- **To chuckle; to laugh.**
+- **On rhythm guitar or mandolin etc.: to mute a chord by lifting the fretting fingers immediately after strumming, producing a percussive effect.**
 ---
 #noun
 - **A small pebble.**
 - **(in the plural) Money.**
 ---
 ### Synonyms
-- [[chuckie]], [[chucky]], [[chuckiestone]], [[chuckstone]]
+- [[[[c/_chuckie|chuckie]]]], [[[[c/_chucky|chucky]]]], [[chuckiestone]], [[[[c/_chuckstone|chuckstone]]]]
 #noun
-- **A rodent of the family Sciuridae, [[b/_belonging|belonging]] to the group of large ground squirrels known as marmots, Marmota monax.**
+- **A rodent of the family Sciuridae, belonging to the group of large ground squirrels known as marmots, Marmota monax.**
 ---
 ### Synonyms
-- [[groundhog]], [[land-beaver]], [[moonack]], [[whistle pig]]
+- [[groundhog]], [[land-[[b/_beaver|beaver]]]], [[moonack]], [[whistle pig]]
 ---

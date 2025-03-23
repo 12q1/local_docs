@@ -1,7 +1,7 @@
 # Choric
 ---
 #adjective
-- **Including or involving a Greek [[c/_chorus|chorus]]**
-- **Intended to be sung by a [[c/_choir|choir]] or [[c/_chorus|chorus]] (e.g. a hymn)**
+- **Including or involving a Greek chorus**
+- **Intended to be sung by a choir or chorus (e.g. a hymn)**
 ---
 ---

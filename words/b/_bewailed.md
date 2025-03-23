@@ -1,8 +1,8 @@
 # Bewailed
 ---
 #verb
-- **To wail over; to feel or express [[d/_deep|deep]] sorrow for**
+- **To wail over; to feel or express deep sorrow for**
 ---
 ### Synonyms
-- [[bemoan]], [[grieve]], [[lament]]
+- [[[[b/_bemoan|bemoan]]]], [[grieve]], [[lament]]
 ---

@@ -1,8 +1,8 @@
 # Civilize
 ---
 #verb
-- **To educate or enlighten a person or people to a perceived higher standard of [[b/_behaviour|behaviour]].**
-- **To introduce or impose the standards of one [[c/_civilisation|civilisation]] upon [[a/_another|another]] [[c/_civilization|civilization]], group or person, [[a/_arguably|arguably]] with the intent of [[a/_achieving|achieving]] a perceived higher standard of [[b/_behavior|behavior]].**
-- **To [[b/_bring|bring]] from a state of savagery to an educated or refined state.**
+- **To educate or enlighten a person or people to a perceived higher standard of behaviour.**
+- **To introduce or impose the standards of one civilisation upon another civilization, group or person, arguably with the intent of achieving a perceived higher standard of behavior.**
+- **To bring from a state of savagery to an educated or refined state.**
 ---
 ---

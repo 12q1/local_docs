@@ -1,6 +1,6 @@
 # Chapati
 ---
 #noun
-- **A flat, unleavened [[b/_bread|bread]] from northern India and Pakistan.**
+- **A flat, unleavened bread from northern India and Pakistan.**
 ---
 ---

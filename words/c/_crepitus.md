@@ -1,8 +1,8 @@
 # Crepitus
 ---
 #noun
-- **Grating, [[c/_crackling|crackling]] or popping sounds and sensations experienced under the skin and joints.**
+- **Grating, crackling or popping sounds and sensations experienced under the skin and joints.**
 ---
 ### Synonyms
-- [[crepitation]]
+- [[[[c/_crepitation|crepitation]]]]
 ---

@@ -1,8 +1,8 @@
 # Aboriginality
 ---
 #noun
-- **The quality of [[b/_being|being]] [[a/_aboriginal|aboriginal]].**
-- **The distinctive [[c/_culture|culture]] of [[a/_aboriginal|aboriginal]] peoples**
-- **The spiritual [[b/_bonds|bonds]] [[b/_between|between]] the [[a/_aboriginal|aboriginal]] people and their place of heritage.**
+- **The quality of being aboriginal.**
+- **The distinctive culture of aboriginal peoples**
+- **The spiritual bonds between the aboriginal people and their place of heritage.**
 ---
 ---

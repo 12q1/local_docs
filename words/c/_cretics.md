@@ -4,5 +4,5 @@
 - **A verse of this kind.**
 ---
 ### Synonyms
-- [[amphimacer]]
+- [[[[a/_amphimacer|amphimacer]]]]
 ---

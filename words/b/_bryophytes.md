@@ -1,6 +1,6 @@
 # Bryophytes
 ---
 #noun
-- **[[a/_any|Any]] plant of the division [[b/_bryophyta|Bryophyta]], [[d/_defined|defined]] sensu lato to [[c/_comprise|comprise]] the mosses, liverworts and hornworts and [[c/_corresponding|corresponding]] to [[a/_all|all]] embryophytes that are not vascular plants.**
+- **Any plant of the division Bryophyta, defined sensu lato to comprise the mosses, liverworts and hornworts and corresponding to all embryophytes that are not vascular plants.**
 ---
 ---

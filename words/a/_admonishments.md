@@ -1,6 +1,6 @@
 # Admonishments
 ---
 #noun
-- **The [[a/_act|act]] of [[a/_admonishing|admonishing]]; a reprimand or rebuke.**
+- **The act of admonishing; a reprimand or rebuke.**
 ---
 ---

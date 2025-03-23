@@ -1,9 +1,9 @@
 # Basilar
 ---
 #adjective
-- **Of, pertaining to, or located at a [[b/_base|base]], but especially at the [[b/_base|base]] of the skull or a lung.**
-- **Lower; inferior; [[b/_base|base]].**
+- **Of, pertaining to, or located at a base, but especially at the base of the skull or a lung.**
+- **Lower; inferior; base.**
 ---
 ### Synonyms
-- [[basal]]
+- [[[[b/_basal|basal]]]]
 ---

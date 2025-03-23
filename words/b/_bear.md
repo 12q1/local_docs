@@ -3,23 +3,23 @@
 #noun
 - **A large omnivorous mammal, related to the dog and raccoon, having shaggy hair, a very small tail, and flat feet; a member of family Ursidae.**
 - **A rough, unmannerly, uncouth person.**
-- **An investor who sells [[c/_commodities|commodities]], securities or futures in [[a/_anticipation|anticipation]] of a fall in prices.**
-- **A state policeman (short for smokey [[b/_bear|bear]]).**
+- **An investor who sells commodities, securities or futures in anticipation of a fall in prices.**
+- **A state policeman (short for smokey bear).**
 - **A large, hairy man, especially one who is homosexual.**
 - **A portable punching machine.**
-- **A [[b/_block|block]] [[c/_covered|covered]] with [[c/_coarse|coarse]] matting, used to scour the [[d/_deck|deck]].**
-- **The fifteenth Lenormand [[c/_card|card]].**
-- **Something difficult or tiresome; a [[b/_burden|burden]] or [[c/_chore|chore]].**
+- **A block covered with coarse matting, used to scour the deck.**
+- **The fifteenth Lenormand card.**
+- **Something difficult or tiresome; a burden or chore.**
 	- _Example: That window can be a bear to open._
 ---
 ### Antonyms
-- [[bull]], [[twink]]
+- [[[[b/_bull|bull]]]], [[twink]]
 #verb
-- **To endeavour to [[d/_depress|depress]] the price of, or prices in.**
+- **To endeavour to depress the price of, or prices in.**
 	- _Example: to bear a railroad stock_
 ---
 #adjective
-- **(investments) [[c/_characterized|Characterized]] by [[d/_declining|declining]] prices in securities markets or by [[b/_belief|belief]] that the prices will fall.**
+- **(investments) Characterized by declining prices in securities markets or by belief that the prices will fall.**
 	- _Example: The great bear market starting in 1929 scared a whole generation of investors._
 ---
 ---

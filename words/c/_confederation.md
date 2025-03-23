@@ -1,9 +1,9 @@
 # Confederation
 ---
 #noun
-- **A union or [[a/_alliance|alliance]] of states or political organizations.**
-- **The [[a/_act|act]] of forming an [[a/_alliance|alliance]].**
+- **A union or alliance of states or political organizations.**
+- **The act of forming an alliance.**
 ---
 ### Synonyms
-- [[alliance]], [[confederacy]], [[federation]], [[league]]
+- [[[[a/_alliance|alliance]]]], [[[[c/_confederacy|confederacy]]]], [[federation]], [[league]]
 ---

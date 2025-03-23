@@ -3,8 +3,8 @@
 #noun
 - **Quickness of perception or discernment; penetration of mind; the faculty of nice discrimination.**
 - **A sharp, tapering point extending from a plant.**
-- **A [[b/_bony|bony]], often sharp, protuberance, especially that of the ischium.**
+- **A bony, often sharp, protuberance, especially that of the ischium.**
 ---
 ### Synonyms
-- [[acuity]], [[acuteness]], [[canniness]], [[foxiness]], [[intelligence]], [[keenness]], [[penetration]], [[sharpness]], [[shrewdness]], [[wit]]
+- [[[[a/_acuity|acuity]]]], [[[[a/_acuteness|acuteness]]]], [[[[c/_canniness|canniness]]]], [[foxiness]], [[intelligence]], [[keenness]], [[penetration]], [[sharpness]], [[shrewdness]], [[wit]]
 ---

@@ -1,9 +1,9 @@
 # Bloodstained
 ---
 #adjective
-- **Stained, spotted or otherwise discolored with [[b/_blood|blood]].**
-- **Having the [[c/_color|color]] of something which has [[b/_been|been]] stained with [[b/_blood|blood]].**
-- **Responsible for the [[d/_deaths|deaths]] of others; guilty of murder.**
+- **Stained, spotted or otherwise discolored with blood.**
+- **Having the color of something which has been stained with blood.**
+- **Responsible for the deaths of others; guilty of murder.**
 - **(by extension) Guilty of wrongdoing.**
 ---
 ---

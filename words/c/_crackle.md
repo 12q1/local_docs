@@ -2,8 +2,8 @@
 ---
 #noun
 - **A fizzing, popping sound.**
-- **A style of glaze giving the impression of many small [[c/_cracks|cracks]].**
-- **The fifth [[d/_derivative|derivative]] of the position vector with respect to time ([[a/_after|after]] velocity, [[a/_acceleration|acceleration]], jerk, and jounce), i.e. the rate of [[c/_change|change]] of jounce.**
+- **A style of glaze giving the impression of many small cracks.**
+- **The fifth derivative of the position vector with respect to time (after velocity, acceleration, jerk, and jounce), i.e. the rate of change of jounce.**
 ---
 #verb
 - **To make a fizzing, popping sound.**

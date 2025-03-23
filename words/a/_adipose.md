@@ -1,12 +1,12 @@
 # Adipose
 ---
 #noun
-- **[[a/_animal|Animal]] fat stored in the tissue of the [[b/_body|body]].**
+- **Animal fat stored in the tissue of the body.**
 ---
 #adjective
-- **[[c/_containing|Containing]], [[c/_composed|composed]] of, or [[c/_consisting|consisting]] of fat; fatty.**
-- **Slightly overweight; [[c/_chubby|chubby]].**
+- **Containing, composed of, or consisting of fat; fatty.**
+- **Slightly overweight; chubby.**
 ---
 ### Synonyms
-- [[fatty]], [[chubby]], [[chunky]], [[overweight]], [[plump]], [[podgy]], [[tubby]]
+- [[fatty]], [[[[c/_chubby|chubby]]]], [[[[c/_chunky|chunky]]]], [[overweight]], [[plump]], [[podgy]], [[tubby]]
 ---

@@ -2,20 +2,20 @@
 ---
 #verb
 - **To receive (something) from somebody temporarily, expecting to return it.**
-- **To take money from a [[b/_bank|bank]] under the [[a/_agreement|agreement]] that the [[b/_bank|bank]] will be paid over the [[c/_course|course]] of time.**
-- **To [[a/_adopt|adopt]] (an idea) as one's own.**
+- **To take money from a bank under the agreement that the bank will be paid over the course of time.**
+- **To adopt (an idea) as one's own.**
 	- _Example: to borrow the style, manner, or opinions of another_
-- **To [[a/_adopt|adopt]] a word from [[a/_another|another]] language.**
-- **In a subtraction, to [[d/_deduct|deduct]] (one) from a digit of the minuend and [[a/_add|add]] ten to the following digit, in order that the subtraction of a larger digit in the subtrahend from the digit in the minuend to which ten is [[a/_added|added]] gives a positive result.**
+- **To adopt a word from another language.**
+- **In a subtraction, to deduct (one) from a digit of the minuend and add ten to the following digit, in order that the subtraction of a larger digit in the subtrahend from the digit in the minuend to which ten is added gives a positive result.**
 - **(Upper Midwestern United States) To lend.**
 - **To temporarily obtain (something) for (someone).**
-- **To feign or [[c/_counterfeit|counterfeit]].**
-- **(obsolete except in [[b/_ballads|ballads]]) To secure the release of (someone) from prison.**
+- **To feign or counterfeit.**
+- **(obsolete except in ballads) To secure the release of (someone) from prison.**
 - **To receive (something) from somebody, with little possibility of returning it.**
 	- _Example: Can I borrow a sheet of paper?_
 ---
 ### Synonyms
-- [[adopt]], [[use]]
+- [[[[a/_adopt|adopt]]]], [[use]]
 ### Antonyms
-- [[carry]], [[give back]], [[lend]], [[return]]
+- [[[[c/_carry|carry]]]], [[give [[b/_back|back]]]], [[lend]], [[return]]
 ---

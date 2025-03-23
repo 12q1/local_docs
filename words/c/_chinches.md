@@ -1,6 +1,6 @@
 # Chinches
 ---
 #noun
-- **The [[b/_bedbug|bedbug]] ([[c/_cimex|Cimex]] lectularius).**
+- **The bedbug (Cimex lectularius).**
 ---
 ---

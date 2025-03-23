@@ -1,15 +1,15 @@
 # Boosting
 ---
 #verb
-- **To lift or push from [[b/_behind|behind]] (one who is endeavoring to [[c/_climb|climb]]); to push up.**
-- **(by extension) To help or encourage (something) to increase or improve; to [[a/_assist|assist]] in overcoming obstacles.**
+- **To lift or push from behind (one who is endeavoring to climb); to push up.**
+- **(by extension) To help or encourage (something) to increase or improve; to assist in overcoming obstacles.**
 	- _Example: This campaign will boost your chances of winning the election._
 - **To steal.**
-- **To jump-start a vehicle by using [[c/_cables|cables]] to [[c/_connect|connect]] the [[b/_battery|battery]] in a running vehicle to the [[b/_battery|battery]] in a vehicle that won't start.**
-- **To give a [[b/_booster|booster]] shot to.**
-- **To [[a/_amplify|amplify]]; to signal [[b/_boost|boost]].**
+- **To jump-start a vehicle by using cables to connect the battery in a running vehicle to the battery in a vehicle that won't start.**
+- **To give a booster shot to.**
+- **To amplify; to signal boost.**
 ---
 #noun
-- **The [[a/_act|act]] or process by which something is [[b/_boosted|boosted]].**
+- **The act or process by which something is boosted.**
 ---
 ---

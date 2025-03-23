@@ -1,18 +1,18 @@
 # Cookie
 ---
 #noun
-- **A small, flat, [[b/_baked|baked]] good which is either [[c/_crisp|crisp]] or soft but firm.**
-- **A sweet [[b/_baked|baked]] good (as in the previous sense) usually having [[c/_chocolate|chocolate]] [[c/_chips|chips]], fruit, nuts etc. [[b/_baked|baked]] into it.**
-- **A [[b/_bun|bun]].**
-- **An HTTP [[c/_cookie|cookie]].**
-- **A magic [[c/_cookie|cookie]].**
-- **An [[a/_attractive|attractive]] young woman.**
+- **A small, flat, baked good which is either crisp or soft but firm.**
+- **A sweet baked good (as in the previous sense) usually having chocolate chips, fruit, nuts etc. baked into it.**
+- **A bun.**
+- **An HTTP cookie.**
+- **A magic cookie.**
+- **An attractive young woman.**
 - **The female genitalia.**
-- **A piece of [[c/_crack|crack]] [[c/_cocaine|cocaine]], larger than a rock, and often in the shape of a [[c/_cookie|cookie]].**
+- **A piece of crack cocaine, larger than a rock, and often in the shape of a cookie.**
 ---
 ### Synonyms
-- [[bickie]], [[biscuit]]
+- [[bickie]], [[[[b/_biscuit|biscuit]]]]
 #verb
-- **To send a [[c/_cookie|cookie]] to (a user, [[c/_computer|computer]], etc.).**
+- **To send a cookie to (a user, computer, etc.).**
 ---
 ---

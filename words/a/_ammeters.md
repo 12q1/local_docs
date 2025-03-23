@@ -1,8 +1,8 @@
 # Ammeters
 ---
 #noun
-- **A device that measures the magnitude of an electric [[c/_current|current]], especially one [[c/_calibrated|calibrated]] in [[a/_amperes|amperes]].**
+- **A device that measures the magnitude of an electric current, especially one calibrated in amperes.**
 ---
 ### Synonyms
-- [[amperemeter]], [[amperometer]]
+- [[[[a/_amperemeter|amperemeter]]]], [[[[a/_amperometer|amperometer]]]]
 ---

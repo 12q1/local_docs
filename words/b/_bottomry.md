@@ -1,6 +1,6 @@
 # Bottomry
 ---
 #noun
-- **An early form of maritime [[c/_contract|contract]] in which owner of a ship [[c/_could|could]] [[b/_borrow|borrow]] money using the ship as [[c/_collateral|collateral]].**
+- **An early form of maritime contract in which owner of a ship could borrow money using the ship as collateral.**
 ---
 ---

@@ -1,14 +1,14 @@
 # Corroding
 ---
 #verb
-- **To eat [[a/_away|away]] [[b/_bit|bit]] by [[b/_bit|bit]]; to wear [[a/_away|away]] or diminish by gradually separating or [[d/_destroying|destroying]] small particles of, as by [[a/_action|action]] of a strong [[a/_acid|acid]] or a [[c/_caustic|caustic]] [[a/_alkali|alkali]].**
-- **To [[c/_consume|consume]]; to wear [[a/_away|away]]; to prey upon; to impair.**
+- **To eat away bit by bit; to wear away or diminish by gradually separating or destroying small particles of, as by action of a strong acid or a caustic alkali.**
+- **To consume; to wear away; to prey upon; to impair.**
 	- _Example: My morale is being corroded day by day._
-- **To have [[c/_corrosive|corrosive]] [[a/_action|action]]; to be subject to [[c/_corrosion|corrosion]].**
+- **To have corrosive action; to be subject to corrosion.**
 ---
 ### Synonyms
-- [[canker]], [[gnaw]], [[rust]], [[waste]], [[wear]]
+- [[[[c/_canker|canker]]]], [[gnaw]], [[rust]], [[waste]], [[wear]]
 #noun
-- **[[c/_corrosion|Corrosion]]**
+- **Corrosion**
 ---
 ---

@@ -1,9 +1,9 @@
 # Aristocratic
 ---
 #adjective
-- **Of, pertaining to, or favouring, an [[a/_aristocracy|aristocracy]]**
+- **Of, pertaining to, or favouring, an aristocracy**
 	- _Example: An aristocratic constitution._
-- **Similar to the [[a/_aristocracy|aristocracy]]; [[c/_characteristic|characteristic]] of, the [[a/_aristocracy|aristocracy]].**
+- **Similar to the aristocracy; characteristic of, the aristocracy.**
 	- _Example: An aristocratic measure._
 ---
 ---

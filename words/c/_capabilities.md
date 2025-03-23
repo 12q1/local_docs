@@ -1,6 +1,6 @@
 # Capabilities
 ---
 #noun
-- **The power or [[a/_ability|ability]] to generate an outcome**
+- **The power or ability to generate an outcome**
 ---
 ---

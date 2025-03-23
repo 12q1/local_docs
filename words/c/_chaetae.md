@@ -1,7 +1,7 @@
 # Chaetae
 ---
 #noun
-- **A [[c/_chitinous|chitinous]] [[b/_bristle|bristle]] of an [[a/_annelid|annelid]] worm**
+- **A chitinous bristle of an annelid worm**
 ---
 ### Synonyms
 - [[seta]]

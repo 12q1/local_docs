@@ -1,9 +1,9 @@
 # Credal
 ---
 #adjective
-- **[[d/_describes|Describes]] a probability [[b/_based|based]] on [[b/_belief|belief]].**
+- **Describes a probability based on belief.**
 ---
 #adjective
-- **Of or pertaining to a [[c/_creed|creed]].**
+- **Of or pertaining to a creed.**
 ---
 ---

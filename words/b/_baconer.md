@@ -1,6 +1,6 @@
 # Baconer
 ---
 #noun
-- **A pig raised to produce [[b/_bacon|bacon]].**
+- **A pig raised to produce bacon.**
 ---
 ---

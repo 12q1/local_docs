@@ -1,8 +1,8 @@
 # Anteceding
 ---
 #verb
-- **To go [[b/_before|before]]; to precede.**
-- **To predate or [[a/_antedate|antedate]].**
+- **To go before; to precede.**
+- **To predate or antedate.**
 ---
 ### Synonyms
 - [[forego]]

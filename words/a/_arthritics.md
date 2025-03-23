@@ -1,6 +1,6 @@
 # Arthritics
 ---
 #noun
-- **A person with [[a/_arthritis|arthritis]].**
+- **A person with arthritis.**
 ---
 ---

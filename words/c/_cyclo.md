@@ -2,6 +2,6 @@
 ---
 #noun
 - **A tuk-tuk.**
-- **A [[c/_cycle|cycle]] rickshaw**
+- **A cycle rickshaw**
 ---
 ---

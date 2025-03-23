@@ -1,16 +1,16 @@
 # Deferring
 ---
 #verb
-- **To [[d/_delay|delay]] or postpone**
+- **To delay or postpone**
 	- _Example: We're going to defer the decision until we have all the facts._
-- **[[a/_after|After]] winning the opening [[c/_coin|coin]] toss, to postpone until the start of the second half a team's [[c/_choice|choice]] of whether to kick off or receive (and to [[a/_allow|allow]] the opposing team to make this [[c/_choice|choice]] at the start of the first half).**
-- **To [[d/_delay|delay]], to wait.**
+- **After winning the opening coin toss, to postpone until the start of the second half a team's choice of whether to kick off or receive (and to allow the opposing team to make this choice at the start of the first half).**
+- **To delay, to wait.**
 ---
 #verb
-- **To submit to the opinion or [[d/_desire|desire]] of [[a/_another|another]] in respect to their judgment or [[a/_authority|authority]].**
+- **To submit to the opinion or desire of another in respect to their judgment or authority.**
 - **To render, to offer.**
 ---
 #noun
-- **[[d/_deferral|Deferral]]**
+- **Deferral**
 ---
 ---

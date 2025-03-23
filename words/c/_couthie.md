@@ -1,6 +1,6 @@
 # Couthie
 ---
 #adjective
-- **Friendly, [[a/_agreeable|agreeable]], pleasant.**
+- **Friendly, agreeable, pleasant.**
 ---
 ---

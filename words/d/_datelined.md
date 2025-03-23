@@ -1,6 +1,6 @@
 # Datelined
 ---
 #verb
-- **To [[a/_attach|attach]] a [[d/_dateline|dateline]] to a particular document**
+- **To attach a dateline to a particular document**
 ---
 ---

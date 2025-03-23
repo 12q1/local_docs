@@ -1,12 +1,12 @@
 # Barbecued
 ---
 #verb
-- **To [[c/_cook|cook]] food on a [[b/_barbecue|barbecue]]; to smoke it over indirect heat from high-smoke fuels.**
+- **To cook food on a barbecue; to smoke it over indirect heat from high-smoke fuels.**
 - **To grill.**
 ---
 ### Synonyms
 - [[braai]]
 #adjective
-- **[[c/_cooked|Cooked]] on a [[b/_barbecue|barbecue]].**
+- **Cooked on a barbecue.**
 ---
 ---

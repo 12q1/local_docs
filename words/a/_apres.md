@@ -1,11 +1,11 @@
 # Apres
 ---
 #preposition
-- **[[a/_after|After]]**
+- **After**
 ---
 #noun
-- **Such [[a/_activities|activities]] or events that occur [[a/_after|after]] skiing.**
+- **Such activities or events that occur after skiing.**
 ---
 ### Synonyms
-- [[apres]], [[après]], [[après-skiing]]
+- [[[[a/_apres|apres]]]], [[[[a/_apr|apr]]ès]], [[[[a/_apr|apr]]ès-skiing]]
 ---

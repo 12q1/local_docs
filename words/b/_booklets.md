@@ -1,6 +1,6 @@
 # Booklets
 ---
 #noun
-- **A small or thin [[b/_book|book]].**
+- **A small or thin book.**
 ---
 ---

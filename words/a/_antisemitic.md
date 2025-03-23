@@ -1,6 +1,6 @@
 # Antisemitic
 ---
 #adjective
-- **Relating to or exhibiting [[a/_anti|anti]]-Semitism.**
+- **Relating to or exhibiting anti-Semitism.**
 ---
 ---

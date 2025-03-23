@@ -1,8 +1,8 @@
 # Bodiless
 ---
 #adjective
-- **Lacking a [[b/_body|body]]; incorporeal.**
+- **Lacking a body; incorporeal.**
 ---
 ### Synonyms
-- [[disincarnate]]
+- [[[[d/_disincarnate|disincarnate]]]]
 ---

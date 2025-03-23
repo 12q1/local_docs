@@ -1,10 +1,10 @@
 # Carboxylate
 ---
 #noun
-- **[[a/_any|Any]] salt or ester of a [[c/_carboxylic|carboxylic]] [[a/_acid|acid]].**
+- **Any salt or ester of a carboxylic acid.**
 ---
 #verb
-- **To form a [[c/_carboxyl|carboxyl]] group by introduction of [[c/_carbon|carbon]] dioxide**
-- **To react with a [[c/_carboxylic|carboxylic]] [[a/_acid|acid]]**
+- **To form a carboxyl group by introduction of carbon dioxide**
+- **To react with a carboxylic acid**
 ---
 ---

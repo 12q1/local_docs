@@ -1,9 +1,9 @@
 # Caudal
 ---
 #noun
-- **A [[c/_caudal|caudal]] vertebra.**
+- **A caudal vertebra.**
 ---
 #adjective
-- **Pertaining to the tail or posterior or hind part of a [[b/_body|body]].**
+- **Pertaining to the tail or posterior or hind part of a body.**
 ---
 ---

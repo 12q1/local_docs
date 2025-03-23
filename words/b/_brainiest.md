@@ -1,8 +1,8 @@
 # Brainiest
 ---
 #adjective
-- **Very intellectually [[c/_capable|capable]].**
+- **Very intellectually capable.**
 ---
 ### Synonyms
-- [[clever]], [[smart]]
+- [[[[c/_clever|clever]]]], [[smart]]
 ---

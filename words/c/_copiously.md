@@ -1,6 +1,6 @@
 # Copiously
 ---
 #adverb
-- **In a [[c/_copious|copious]] manner; plentifully.**
+- **In a copious manner; plentifully.**
 ---
 ---

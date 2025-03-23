@@ -1,6 +1,6 @@
 # Carices
 ---
 #noun
-- **[[a/_any|Any]] member of the genus [[c/_carex|Carex]] of sedges.**
+- **Any member of the genus Carex of sedges.**
 ---
 ---

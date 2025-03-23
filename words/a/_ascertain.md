@@ -1,12 +1,12 @@
 # Ascertain
 ---
 #verb
-- **To find out [[d/_definitely|definitely]]; to discover or establish.**
+- **To find out definitely; to discover or establish.**
 	- _Example: As soon as we ascertain what the situation is, we can plan how to proceed._
-- **To make (someone) [[c/_certain|certain]] or [[c/_confident|confident]] [[a/_about|about]] something; to inform.**
+- **To make (someone) certain or confident about something; to inform.**
 - **To establish, to prove.**
 - **To ensure or effect.**
 ---
 ### Synonyms
-- [[determine]], [[discover]], [[establish]], [[find out]], [[learn]], [[work out]]
+- [[[[d/_determine|determine]]]], [[[[d/_discover|discover]]]], [[establish]], [[find out]], [[learn]], [[work out]]
 ---

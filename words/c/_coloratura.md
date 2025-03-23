@@ -5,7 +5,7 @@
 - **A singer of such passages, especially a soprano.**
 ---
 #adjective
-- **Pertaining to [[c/_coloratura|coloratura]].**
+- **Pertaining to coloratura.**
 	- _Example: She has a lighter and more coloratura voice._
 ---
 ---

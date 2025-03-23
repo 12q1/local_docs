@@ -1,9 +1,9 @@
 # Contravenes
 ---
 #verb
-- **To [[a/_act|act]] [[c/_contrary|contrary]] to an order; to fail to [[c/_conform|conform]] to a regulation or obligation.**
-- **To [[d/_deny|deny]] the truth of something.**
+- **To act contrary to an order; to fail to conform to a regulation or obligation.**
+- **To deny the truth of something.**
 ---
 ### Synonyms
-- [[breach]], [[break]], [[infringe]], [[violate]], [[contradict]], [[controvert]], [[dispute]], [[gainsay]]
+- [[[[b/_breach|breach]]]], [[[[b/_break|break]]]], [[infringe]], [[violate]], [[[[c/_contradict|contradict]]]], [[[[c/_controvert|controvert]]]], [[[[d/_dispute|dispute]]]], [[gainsay]]
 ---

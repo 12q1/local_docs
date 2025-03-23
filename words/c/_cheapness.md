@@ -1,7 +1,7 @@
 # Cheapness
 ---
 #noun
-- **The state of [[b/_being|being]] [[c/_cheap|cheap]]**
+- **The state of being cheap**
 ---
 ### Synonyms
 - [[frugality]], [[parsimony]], [[thriftiness]]

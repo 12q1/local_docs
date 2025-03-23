@@ -1,6 +1,6 @@
 # Amply
 ---
 #adverb
-- **In an [[a/_ample|ample]] manner.**
+- **In an ample manner.**
 ---
 ---

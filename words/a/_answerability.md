@@ -1,7 +1,7 @@
 # Answerability
 ---
 #noun
-- **The state of [[b/_being|being]] [[a/_answerable|answerable]].**
+- **The state of being answerable.**
 ---
 ### Antonyms
 - [[unanswerability]]

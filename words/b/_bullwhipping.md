@@ -1,9 +1,9 @@
 # Bullwhipping
 ---
 #verb
-- **To [[b/_beat|beat]] with a [[b/_bullwhip|bullwhip]].**
+- **To beat with a bullwhip.**
 ---
 #noun
-- **A [[b/_beating|beating]] with a [[b/_bullwhip|bullwhip]].**
+- **A beating with a bullwhip.**
 ---
 ---

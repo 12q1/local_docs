@@ -1,12 +1,12 @@
 # Adjoints
 ---
 #noun
-- **The transpose of the [[c/_cofactor|cofactor]] matrix of a given square matrix.**
-- **(of a matrix) Transpose [[c/_conjugate|conjugate]].**
-- **(of an operator) Hermitian [[c/_conjugate|conjugate]].**
-- **A functor related to [[a/_another|another]] functor by an [[a/_adjunction|adjunction]].**
-- **A [[c/_curve|curve]] A such that [[a/_any|any]] point of a given [[c/_curve|curve]] [[c/_c|C]] of multiplicity r has multiplicity at least r–1 on A. Sometimes the multiple points of [[c/_c|C]] are required to be ordinary, and if this [[c/_condition|condition]] is not satisfied the term sub-[[a/_adjoint|adjoint]] is used.**
-- **An [[a/_assistant|assistant]] to someone who holds a position in the military or [[c/_civil|civil]] service.**
-- **An [[a/_assistant|assistant]] mayor of a French [[c/_commune|commune]].**
+- **The transpose of the cofactor matrix of a given square matrix.**
+- **(of a matrix) Transpose conjugate.**
+- **(of an operator) Hermitian conjugate.**
+- **A functor related to another functor by an adjunction.**
+- **A curve A such that any point of a given curve C of multiplicity r has multiplicity at least r–1 on A. Sometimes the multiple points of C are required to be ordinary, and if this condition is not satisfied the term sub-adjoint is used.**
+- **An assistant to someone who holds a position in the military or civil service.**
+- **An assistant mayor of a French commune.**
 ---
 ---

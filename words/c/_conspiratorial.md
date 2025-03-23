@@ -1,9 +1,9 @@
 # Conspiratorial
 ---
 #adjective
-- **Pertaining to [[c/_conspiracy|conspiracy]] or [[c/_conspirators|conspirators]].**
+- **Pertaining to conspiracy or conspirators.**
 	- _Example: His conspiratorial whispers were soft, but that just attracted more attention._
 ---
 ### Synonyms
-- [[conspiratory]]
+- [[[[c/_conspiratory|conspiratory]]]]
 ---

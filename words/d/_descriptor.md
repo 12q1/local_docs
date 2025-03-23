@@ -1,7 +1,7 @@
 # Descriptor
 ---
 #noun
-- **That which [[d/_describes|describes]]; a word, phrase, etc. serving as a [[d/_description|description]].**
+- **That which describes; a word, phrase, etc. serving as a description.**
 ---
 ### Synonyms
 - [[index term]]

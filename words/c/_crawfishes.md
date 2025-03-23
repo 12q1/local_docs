@@ -1,10 +1,10 @@
 # Crawfishes
 ---
 #noun
-- **(Midwest US and Western US) Various freshwater [[c/_crustaceans|crustaceans]], [[c/_crayfish|crayfish]].**
-- **Various marine [[c/_crustaceans|crustaceans]], rock lobster; especially Jasus lalandii, the [[c/_cape|Cape]] [[c/_crawfish|crawfish]].**
-- **A slur [[a/_against|against]] [[a/_anglo|Anglo]]-[[c/_canadians|Canadians]] used in some [[c/_corners|corners]] of Quebec (including the Gaspé).**
+- **(Midwest US and Western US) Various freshwater crustaceans, crayfish.**
+- **Various marine crustaceans, rock lobster; especially Jasus lalandii, the Cape crawfish.**
+- **A slur against Anglo-Canadians used in some corners of Quebec (including the Gaspé).**
 ---
 ### Synonyms
-- [[crawdad]], [[crawldad]], [[crawlfish]], [[crayfish]], [[mudbug]], [[yabby]]
+- [[[[c/_crawdad|crawdad]]]], [[crawldad]], [[crawlfish]], [[[[c/_crayfish|crayfish]]]], [[mudbug]], [[yabby]]
 ---

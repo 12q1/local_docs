@@ -1,7 +1,7 @@
 # Antemortem
 ---
 #adjective
-- **Having [[b/_been|been]] inflicted or having occurred [[b/_before|before]] [[d/_death|death]].**
+- **Having been inflicted or having occurred before death.**
 	- _Example: Although the antemortem injuries are severe, they are not the cause of death._
 ---
 ### Synonyms

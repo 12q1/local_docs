@@ -1,9 +1,9 @@
 # Assailants
 ---
 #noun
-- **Someone who [[a/_attacks|attacks]] or [[a/_assails|assails]] [[a/_another|another]] violently, or [[c/_criminally|criminally]].**
-- **(by extension) A hostile [[c/_critic|critic]] or opponent.**
+- **Someone who attacks or assails another violently, or criminally.**
+- **(by extension) A hostile critic or opponent.**
 ---
 ### Synonyms
-- [[attacker]]
+- [[[[a/_attacker|attacker]]]]
 ---

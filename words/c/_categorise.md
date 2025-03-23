@@ -1,7 +1,7 @@
 # Categorise
 ---
 #verb
-- **To [[a/_assign|assign]] a [[c/_category|category]]; to divide into [[c/_classes|classes]].**
+- **To assign a category; to divide into classes.**
 	- _Example: First, categorize incoming messages according to the needed actions._
 ---
 ---

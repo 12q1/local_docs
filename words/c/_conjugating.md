@@ -5,9 +5,9 @@
 	- _Example: In English, the verb 'to be' is conjugated as follows: 'I am', 'you are', 'he/she/it is', 'we are', 'you are', 'they are'._
 - **To multiply on the left by one element and on the right by its inverse.**
 - **To join together, unite; to juxtapose.**
-- **(of [[b/_bacteria|bacteria]] and [[a/_algae|algae]]) To temporarily fuse, exchanging or transferring DNA.**
+- **(of bacteria and algae) To temporarily fuse, exchanging or transferring DNA.**
 ---
 #noun
-- **[[c/_conjugation|Conjugation]]**
+- **Conjugation**
 ---
 ---

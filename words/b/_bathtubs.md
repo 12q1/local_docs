@@ -1,8 +1,8 @@
 # Bathtubs
 ---
 #noun
-- **A large [[c/_container|container]] for holding water in which a person may [[b/_bathe|bathe]] (take a [[b/_bath|bath]]).**
+- **A large container for holding water in which a person may bathe (take a bath).**
 ---
 ### Synonyms
-- [[bath]], [[lavatory]]
+- [[[[b/_bath|bath]]]], [[lavatory]]
 ---

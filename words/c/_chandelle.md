@@ -1,9 +1,9 @@
 # Chandelle
 ---
 #noun
-- **An [[a/_aerobatic|aerobatic]] maneuver in which a 180° turn is [[c/_combined|combined]] with a [[c/_climb|climb]].**
+- **An aerobatic maneuver in which a 180° turn is combined with a climb.**
 ---
 #verb
-- **To perform an [[a/_aerobatic|aerobatic]] maneuver in which a 180° turn is [[c/_combined|combined]] with a [[c/_climb|climb]].**
+- **To perform an aerobatic maneuver in which a 180° turn is combined with a climb.**
 ---
 ---

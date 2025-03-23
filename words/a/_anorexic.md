@@ -1,15 +1,15 @@
 # Anorexic
 ---
 #noun
-- **Somebody suffering from [[a/_anorexia|anorexia]] nervosa.**
-- **A medicine which suppresses [[a/_appetite|appetite]].**
+- **Somebody suffering from anorexia nervosa.**
+- **A medicine which suppresses appetite.**
 ---
 ### Synonyms
-- [[anorectic]]
+- [[[[a/_anorectic|anorectic]]]]
 #adjective
-- **Pertaining to, or suffering from [[a/_anorexia|anorexia]] nervosa.**
+- **Pertaining to, or suffering from anorexia nervosa.**
 - **(by extension) Thin, skinny.**
 ---
 ### Synonyms
-- [[anorectic]]
+- [[[[a/_anorectic|anorectic]]]]
 ---

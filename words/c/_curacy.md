@@ -1,6 +1,6 @@
 # Curacy
 ---
 #noun
-- **The office or position of a [[c/_curate|curate]]**
+- **The office or position of a curate**
 ---
 ---

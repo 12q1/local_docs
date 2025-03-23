@@ -1,7 +1,7 @@
 # Cuttlebone
 ---
 #noun
-- **[[c/_cuttlefish|Cuttlefish]] [[b/_bone|bone]]**
+- **Cuttlefish bone**
 ---
 ### Synonyms
 - [[sepiostaire]], [[sepium]]

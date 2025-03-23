@@ -1,10 +1,10 @@
 # Anticlimax
 ---
 #noun
-- **A failed or reverse [[c/_climax|climax]], particularly:**
+- **A failed or reverse climax, particularly:**
 ---
 ### Synonyms
-- [[bathos]]
+- [[[[b/_bathos|bathos]]]]
 ### Antonyms
-- [[cliffhanger]], [[auxesis]], [[climax]]
+- [[[[c/_cliffhanger|cliffhanger]]]], [[[[a/_auxesis|auxesis]]]], [[[[c/_climax|climax]]]]
 ---

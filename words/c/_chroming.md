@@ -1,12 +1,12 @@
 # Chroming
 ---
 #verb
-- **To plate with [[c/_chrome|chrome]].**
-- **To treat with a solution of potassium [[b/_bichromate|bichromate]], as in dyeing.**
+- **To plate with chrome.**
+- **To treat with a solution of potassium bichromate, as in dyeing.**
 ---
 ### Synonyms
-- [[chromium-plate]]
+- [[[[c/_chromium|chromium]]-plate]]
 #noun
-- **The [[a/_act|act]] of inhaling the fumes of substances such as glue or paint, usually by sniffing them from a paper [[b/_bag|bag]] or [[b/_bottle|bottle]], with the [[a/_aim|aim]] of getting intoxicated.**
+- **The act of inhaling the fumes of substances such as glue or paint, usually by sniffing them from a paper bag or bottle, with the aim of getting intoxicated.**
 ---
 ---

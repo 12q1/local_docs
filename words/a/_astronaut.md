@@ -1,9 +1,9 @@
 # Astronaut
 ---
 #noun
-- **A member of the [[c/_crew|crew]] of a spaceship or other spacecraft that travels [[b/_beyond|beyond]] Earth's [[a/_atmosphere|atmosphere]], or someone trained to serve that purpose.**
-- **A returnee who frequently flies [[b/_back|back]] and forth [[b/_between|between]] Hong Kong and his/her [[a/_adopted|adopted]] home [[c/_country|country]].**
+- **A member of the crew of a spaceship or other spacecraft that travels beyond Earth's atmosphere, or someone trained to serve that purpose.**
+- **A returnee who frequently flies back and forth between Hong Kong and his/her adopted home country.**
 ---
 ### Synonyms
-- [[cosmonaut]]
+- [[[[c/_cosmonaut|cosmonaut]]]]
 ---

@@ -1,6 +1,6 @@
 # Chauvinists
 ---
 #noun
-- **A [[c/_chauvinistic|chauvinistic]] person.**
+- **A chauvinistic person.**
 ---
 ---

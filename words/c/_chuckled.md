@@ -2,12 +2,12 @@
 ---
 #verb
 - **To laugh quietly or inwardly.**
-- **To [[c/_communicate|communicate]] through [[c/_chuckling|chuckling]].**
+- **To communicate through chuckling.**
 	- _Example: She chuckled her assent to my offer as she got in the car._
-- **To make the sound of a [[c/_chicken|chicken]]; to [[c/_cluck|cluck]].**
-- **To [[c/_call|call]] together, or [[c/_call|call]] to follow, as a hen [[c/_calls|calls]] her [[c/_chickens|chickens]]; to [[c/_cluck|cluck]].**
+- **To make the sound of a chicken; to cluck.**
+- **To call together, or call to follow, as a hen calls her chickens; to cluck.**
 - **To fondle; to indulge or pamper.**
 ---
 ### Synonyms
-- [[grope]], [[pet]], [[touch up]], [[coddle]], [[posset]]
+- [[grope]], [[pet]], [[touch up]], [[[[c/_coddle|coddle]]]], [[posset]]
 ---

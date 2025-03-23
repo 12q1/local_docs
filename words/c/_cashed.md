@@ -1,11 +1,11 @@
 # Cashed
 ---
 #verb
-- **To exchange (a [[c/_check|check]]/[[c/_cheque|cheque]]) for money in the form of notes/[[b/_bills|bills]].**
+- **To exchange (a check/cheque) for money in the form of notes/bills.**
 - **To obtain a payout from a tournament.**
 ---
 #verb
-- **To disband. To do [[a/_away|away]] with, kill**
+- **To disband. To do away with, kill**
 ---
 #adjective
 - **Exhausted or used up; finished, empty.**

@@ -1,6 +1,6 @@
 # Antinomians
 ---
 #noun
-- **One who embraces [[a/_antinomianism|antinomianism]].**
+- **One who embraces antinomianism.**
 ---
 ---

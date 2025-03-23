@@ -1,0 +1,6 @@
+# Duellos
+---
+#noun
+- **A duel.**
+---
+---

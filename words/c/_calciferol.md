@@ -4,5 +4,5 @@
 - **Vitamin D3 (C27H44O)**
 ---
 ### Synonyms
-- [[cholecalciferol]]
+- [[[[c/_cholecalciferol|cholecalciferol]]]]
 ---

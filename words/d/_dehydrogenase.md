@@ -1,8 +1,8 @@
 # Dehydrogenase
 ---
 #noun
-- **[[a/_any|Any]] of several enzymes that [[c/_catalyze|catalyze]] the removal of hydrogen (a proton) from [[b/_biological|biological]] [[c/_compounds|compounds]].**
+- **Any of several enzymes that catalyze the removal of hydrogen (a proton) from biological compounds.**
 ---
 ### Synonyms
-- [[dehydrase]]
+- [[[[d/_dehydrase|dehydrase]]]]
 ---

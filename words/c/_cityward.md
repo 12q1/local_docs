@@ -1,12 +1,12 @@
 # Cityward
 ---
 #adjective
-- **Directed toward [[c/_cities|cities]]**
+- **Directed toward cities**
 	- _Example: cityward migrants_
 ---
 #adverb
-- **Toward a [[c/_city|city]] or [[c/_cities|cities]]**
+- **Toward a city or cities**
 ---
 ### Synonyms
-- [[citywards]]
+- [[[[c/_citywards|citywards]]]]
 ---

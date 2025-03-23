@@ -1,6 +1,6 @@
 # Badmouthing
 ---
 #verb
-- **To [[c/_criticize|criticize]] or malign, especially unfairly or spitefully.**
+- **To criticize or malign, especially unfairly or spitefully.**
 ---
 ---

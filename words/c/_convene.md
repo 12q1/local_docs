@@ -1,11 +1,11 @@
 # Convene
 ---
 #verb
-- **To [[c/_come|come]] together; to meet; to unite.**
-- **To [[c/_come|come]] together, as in one [[b/_body|body]] or for a public purpose; to meet; to [[a/_assemble|assemble]].**
-- **To [[c/_cause|cause]] to [[a/_assemble|assemble]]; to [[c/_call|call]] together; to [[c/_convoke|convoke]].**
-- **To summon judicially to meet or [[a/_appear|appear]].**
+- **To come together; to meet; to unite.**
+- **To come together, as in one body or for a public purpose; to meet; to assemble.**
+- **To cause to assemble; to call together; to convoke.**
+- **To summon judicially to meet or appear.**
 ---
 ### Synonyms
-- [[assemble]], [[collect]], [[congregate]], [[convoke]], [[meet]], [[summon]], [[unite]]
+- [[[[a/_assemble|assemble]]]], [[[[c/_collect|collect]]]], [[[[c/_congregate|congregate]]]], [[[[c/_convoke|convoke]]]], [[meet]], [[summon]], [[unite]]
 ---

@@ -1,18 +1,18 @@
 # Despair
 ---
 #noun
-- **Loss of hope; utter hopelessness; [[c/_complete|complete]] [[d/_despondency|despondency]].**
+- **Loss of hope; utter hopelessness; complete despondency.**
 	- _Example: He turned around in despair, aware that he was not going to survive_
-- **That which [[c/_causes|causes]] [[d/_despair|despair]].**
-- **That which is [[d/_despaired|despaired]] of.**
+- **That which causes despair.**
+- **That which is despaired of.**
 ---
 ### Synonyms
-- [[desperation]], [[despondency]], [[hopelessness]]
+- [[[[d/_desperation|desperation]]]], [[[[d/_despondency|despondency]]]], [[hopelessness]]
 ### Antonyms
 - [[hope]]
 #verb
-- **To give up as [[b/_beyond|beyond]] hope or expectation; to [[d/_despair|despair]] of.**
-- **To [[c/_cause|cause]] to [[d/_despair|despair]].**
-- **(often with “of”) To be hopeless; to have no hope; to give up [[a/_all|all]] hope or expectation.**
+- **To give up as beyond hope or expectation; to despair of.**
+- **To cause to despair.**
+- **(often with “of”) To be hopeless; to have no hope; to give up all hope or expectation.**
 ---
 ---

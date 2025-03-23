@@ -1,6 +1,6 @@
 # Cellulase
 ---
 #noun
-- **An enzyme that [[c/_catalyze|catalyze]] the cellulolysis (or hydrolysis) of [[c/_cellulose|cellulose]].**
+- **An enzyme that catalyze the cellulolysis (or hydrolysis) of cellulose.**
 ---
 ---

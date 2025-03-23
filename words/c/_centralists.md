@@ -1,6 +1,6 @@
 # Centralists
 ---
 #noun
-- **A proponent of [[c/_centralism|centralism]]**
+- **A proponent of centralism**
 ---
 ---

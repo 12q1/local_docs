@@ -1,9 +1,9 @@
 # Crosswise
 ---
 #adjective
-- **[[c/_crossing|Crossing]]; lying [[a/_across|across]]**
+- **Crossing; lying across**
 ---
 #adverb
-- **Transversely; so as to lie [[a/_across|across]]**
+- **Transversely; so as to lie across**
 ---
 ---

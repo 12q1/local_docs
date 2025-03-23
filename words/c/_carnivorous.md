@@ -1,8 +1,8 @@
 # Carnivorous
 ---
 #adjective
-- **Of, or relating to [[c/_carnivores|carnivores]], or the taxonomic order [[c/_carnivora|Carnivora]].**
+- **Of, or relating to carnivores, or the taxonomic order Carnivora.**
 - **Predatory or flesh eating.**
-- **Insectivorous: [[c/_capable|capable]] of trapping insects and [[a/_absorbing|absorbing]] nutrient from them.**
+- **Insectivorous: capable of trapping insects and absorbing nutrient from them.**
 ---
 ---

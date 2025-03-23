@@ -1,11 +1,11 @@
 # Appetizing
 ---
 #verb
-- **To whet the [[a/_appetite|appetite]].**
+- **To whet the appetite.**
 ---
 #adjective
-- **That [[a/_appeals|appeals]] to, or stimulates the [[a/_appetite|appetite]].**
+- **That appeals to, or stimulates the appetite.**
 	- _Example: This food looks so appetizing._
-- **(by extension) [[a/_appealing|Appealing]] or enticing.**
+- **(by extension) Appealing or enticing.**
 ---
 ---

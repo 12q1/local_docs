@@ -1,6 +1,6 @@
 # Delicense
 ---
 #verb
-- **To [[d/_deprive|deprive]] of a license.**
+- **To deprive of a license.**
 ---
 ---

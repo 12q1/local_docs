@@ -1,6 +1,6 @@
 # Clomiphene
 ---
 #noun
-- **A drug used to stimulate ovulation in [[c/_cases|cases]] of female infertility**
+- **A drug used to stimulate ovulation in cases of female infertility**
 ---
 ---

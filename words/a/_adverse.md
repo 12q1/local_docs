@@ -1,11 +1,11 @@
 # Adverse
 ---
 #adjective
-- **Unfavorable; [[a/_antagonistic|antagonistic]] in purpose or effect; hostile; [[a/_actively|actively]] opposing one's interests or wishes; [[c/_contrary|contrary]] to one's welfare; [[a/_acting|acting]] [[a/_against|against]]; working in an opposing direction.**
+- **Unfavorable; antagonistic in purpose or effect; hostile; actively opposing one's interests or wishes; contrary to one's welfare; acting against; working in an opposing direction.**
 	- _Example: adverse criticism_
-- **Opposed; [[c/_contrary|contrary]]; opposing one's interests or [[d/_desire|desire]].**
+- **Opposed; contrary; opposing one's interests or desire.**
 	- _Example: adverse circumstances_
-- **Opposite; [[c/_confronting|confronting]].**
+- **Opposite; confronting.**
 	- _Example: the adverse page_
 ---
 ---

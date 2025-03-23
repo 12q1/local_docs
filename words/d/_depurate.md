@@ -5,6 +5,6 @@
 - **To make impure.**
 ---
 #adjective
-- **[[d/_depurated|Depurated]]; [[c/_cleansed|cleansed]]; freed from impurities.**
+- **Depurated; cleansed; freed from impurities.**
 ---
 ---

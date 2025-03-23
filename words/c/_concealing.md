@@ -7,9 +7,9 @@
 ### Synonyms
 - [[hide]], [[obfuscate]], [[secrete]]
 ### Antonyms
-- [[admit]], [[reveal]], [[uncover]]
+- [[[[a/_admit|admit]]]], [[reveal]], [[uncover]]
 #noun
-- **An [[a/_act|act]] of [[c/_concealment|concealment]].**
-- **Material, etc. that [[c/_conceals|conceals]] something.**
+- **An act of concealment.**
+- **Material, etc. that conceals something.**
 ---
 ---

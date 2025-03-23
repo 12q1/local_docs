@@ -1,16 +1,16 @@
 # Cloak
 ---
 #noun
-- **A long outer garment worn over the shoulders [[c/_covering|covering]] the [[b/_back|back]]; a [[c/_cape|cape]], often with a hood.**
-- **A [[b/_blanket|blanket]]-like [[c/_covering|covering]], often metaphorical.**
+- **A long outer garment worn over the shoulders covering the back; a cape, often with a hood.**
+- **A blanket-like covering, often metaphorical.**
 	- _Example: Night hid her movements with its cloak of darkness._
-- **That which [[c/_conceals|conceals]]; a disguise or pretext.**
-- **A text replacement for an IRC user's hostname or IP [[a/_address|address]], making the user less identifiable.**
+- **That which conceals; a disguise or pretext.**
+- **A text replacement for an IRC user's hostname or IP address, making the user less identifiable.**
 ---
 #verb
-- **To [[c/_cover|cover]] as with a [[c/_cloak|cloak]].**
-- **To hide or [[c/_conceal|conceal]].**
-- **To render or [[b/_become|become]] invisible via futuristic technology.**
+- **To cover as with a cloak.**
+- **To hide or conceal.**
+- **To render or become invisible via futuristic technology.**
 	- _Example: The ship cloaked before entering the enemy sector of space._
 ---
 ---

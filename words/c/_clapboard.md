@@ -1,14 +1,14 @@
 # Clapboard
 ---
 #noun
-- **A narrow [[b/_board|board]], usually thicker at one edge than the other, used as siding for houses and similar structures of frame [[c/_construction|construction]].**
-- **Such [[b/_boards|boards]], [[a/_arranged|arranged]] horizontally and overlapping with thick edge down, [[c/_collectively|collectively]], as siding.**
-- **An oak [[b/_board|board]] of a size used for [[b/_barrel|barrel]] staves.**
+- **A narrow board, usually thicker at one edge than the other, used as siding for houses and similar structures of frame construction.**
+- **Such boards, arranged horizontally and overlapping with thick edge down, collectively, as siding.**
+- **An oak board of a size used for barrel staves.**
 ---
 ### Synonyms
 - [[weatherboard]]
 #verb
-- **To [[c/_cover|cover]] with [[c/_clapboards|clapboards]].**
+- **To cover with clapboards.**
 	- _Example: to clapboard the sides of a house_
 ---
 ---

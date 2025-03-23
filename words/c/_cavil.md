@@ -1,10 +1,10 @@
 # Cavil
 ---
 #noun
-- **A petty or trivial objection or [[c/_criticism|criticism]].**
+- **A petty or trivial objection or criticism.**
 ---
 #verb
-- **To [[c/_criticise|criticise]] for petty or frivolous reasons.**
+- **To criticise for petty or frivolous reasons.**
 ---
 ### Synonyms
 - [[be hypercritical]], [[nitpick]], [[pettifog]], [[split hairs]]

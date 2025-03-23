@@ -1,7 +1,7 @@
 # Chaplaincies
 ---
 #noun
-- **The role or position of a [[c/_chaplain|chaplain]].**
-- **A [[b/_building|building]], for example on a university [[c/_campus|campus]], [[c/_catering|catering]] to people's religious needs.**
+- **The role or position of a chaplain.**
+- **A building, for example on a university campus, catering to people's religious needs.**
 ---
 ---

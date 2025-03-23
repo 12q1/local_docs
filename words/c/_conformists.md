@@ -1,7 +1,7 @@
 # Conformists
 ---
 #noun
-- **Someone who tries to [[c/_conform|conform]] to the mainstream.**
+- **Someone who tries to conform to the mainstream.**
 ---
 ### Antonyms
 - [[nonconformist]]

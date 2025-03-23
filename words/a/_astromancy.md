@@ -1,8 +1,8 @@
 # Astromancy
 ---
 #noun
-- **Divination by the stars; [[a/_astrology|astrology]] in its modern prophetic [[a/_aspect|aspect]].**
+- **Divination by the stars; astrology in its modern prophetic aspect.**
 ---
 ### Synonyms
-- [[astrology]], [[astrosophy]], [[starcraft]]
+- [[[[a/_astrology|astrology]]]], [[astrosophy]], [[starcraft]]
 ---

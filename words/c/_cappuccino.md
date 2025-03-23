@@ -1,9 +1,9 @@
 # Cappuccino
 ---
 #noun
-- **An Italian [[c/_coffee|coffee]]-[[b/_based|based]] [[b/_beverage|beverage]] made from espresso and milk that has [[b/_been|been]] steamed and/or frothed.**
-- **A [[c/_cup|cup]] of this [[b/_beverage|beverage]].**
-- **[[a/_any|Any]] of various similar drinks.**
-- **[[c/_capuchin|Capuchin]] or the [[c/_color|color]], especially [[c/_cappuccino|cappuccino]] [[b/_brown|brown]].**
+- **An Italian coffee-based beverage made from espresso and milk that has been steamed and/or frothed.**
+- **A cup of this beverage.**
+- **Any of various similar drinks.**
+- **Capuchin or the color, especially cappuccino brown.**
 ---
 ---

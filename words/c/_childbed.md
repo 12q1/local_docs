@@ -1,7 +1,7 @@
 # Childbed
 ---
 #noun
-- **The final stage of pregnancy; [[c/_confinement|confinement]]**
-- **The [[b/_bed|bed]] in which a [[b/_baby|baby]] is [[b/_born|born]]**
+- **The final stage of pregnancy; confinement**
+- **The bed in which a baby is born**
 ---
 ---

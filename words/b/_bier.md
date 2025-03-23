@@ -1,8 +1,8 @@
 # Bier
 ---
 #noun
-- **A litter to transport the [[c/_corpse|corpse]] of a [[d/_dead|dead]] person.**
-- **A platform or stand where a [[b/_body|body]] or [[c/_coffin|coffin]] is placed.**
-- **A [[c/_count|count]] of forty threads in the warp or [[c/_chain|chain]] of woollen [[c/_cloth|cloth]].**
+- **A litter to transport the corpse of a dead person.**
+- **A platform or stand where a body or coffin is placed.**
+- **A count of forty threads in the warp or chain of woollen cloth.**
 ---
 ---

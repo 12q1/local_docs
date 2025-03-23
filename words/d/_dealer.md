@@ -1,11 +1,11 @@
 # Dealer
 ---
 #noun
-- **One who [[d/_deals|deals]] in goods, especially [[a/_automobiles|automobiles]]; a middleman.**
+- **One who deals in goods, especially automobiles; a middleman.**
 	- _Example: That used car dealer gave me a great deal on my 1962 rusted-out Volkswagen bug!_
-- **A drug [[d/_dealer|dealer]], one who peddles illicit drugs.**
-- **A particular type of stock [[b/_broker|broker]] or trader.**
-- **The person who [[d/_deals|deals]] the [[c/_cards|cards]] in a [[c/_card|card]] game.**
+- **A drug dealer, one who peddles illicit drugs.**
+- **A particular type of stock broker or trader.**
+- **The person who deals the cards in a card game.**
 ---
 ### Synonyms
 - [[peddler]], [[peddler]], [[salesman]]

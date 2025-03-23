@@ -5,5 +5,5 @@
 - **(by extension) A filthy place.**
 ---
 ### Synonyms
-- [[cesspit]], [[gongpit]], [[septic tank]]
+- [[[[c/_cesspit|cesspit]]]], [[gongpit]], [[septic tank]]
 ---

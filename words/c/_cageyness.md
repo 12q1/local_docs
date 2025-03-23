@@ -1,6 +1,6 @@
 # Cageyness
 ---
 #noun
-- **The quality of [[b/_being|being]] [[c/_cagey|cagey]].**
+- **The quality of being cagey.**
 ---
 ---

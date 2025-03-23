@@ -1,9 +1,9 @@
 # Appendicular
 ---
 #adjective
-- **Of or pertaining to a limb or [[a/_appendage|appendage]].**
-- **Of or pertaining to the [[a/_appendix|appendix]].**
+- **Of or pertaining to a limb or appendage.**
+- **Of or pertaining to the appendix.**
 ---
 ### Synonyms
-- [[appendiceal]]
+- [[[[a/_appendiceal|appendiceal]]]]
 ---

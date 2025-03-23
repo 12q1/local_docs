@@ -1,10 +1,10 @@
 # Anaemic
 ---
 #noun
-- **An individual who has [[a/_anemia|anemia]].**
+- **An individual who has anemia.**
 ---
 #adjective
-- **Of, pertaining to, or suffering from [[a/_anemia|anemia]].**
-- **(by extension) Weak; listless; lacking power, vigor, vitality, or [[c/_colorfulness|colorfulness]].**
+- **Of, pertaining to, or suffering from anemia.**
+- **(by extension) Weak; listless; lacking power, vigor, vitality, or colorfulness.**
 ---
 ---

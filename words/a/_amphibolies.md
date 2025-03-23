@@ -1,6 +1,6 @@
 # Amphibolies
 ---
 #noun
-- **(grammar) An [[a/_ambiguous|ambiguous]] grammatical [[c/_construction|construction]].**
+- **(grammar) An ambiguous grammatical construction.**
 ---
 ---

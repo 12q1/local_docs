@@ -1,11 +1,11 @@
 # Debated
 ---
 #verb
-- **To participate in a [[d/_debate|debate]]; to dispute, [[a/_argue|argue]], especially in a public [[a/_arena|arena]].**
+- **To participate in a debate; to dispute, argue, especially in a public arena.**
 	- _Example: "Debate me, coward!" snarled the completely normal intellectual._
 - **To fight.**
-- **To engage in [[c/_combat|combat]] for; to strive for.**
-- **To [[c/_consider|consider]] (to oneself), to think over, to [[a/_attempt|attempt]] to [[d/_decide|decide]]**
+- **To engage in combat for; to strive for.**
+- **To consider (to oneself), to think over, to attempt to decide**
 	- _Example: He was debating where he'd spend his holiday._
 ---
 #adjective

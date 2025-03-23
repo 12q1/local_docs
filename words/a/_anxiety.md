@@ -1,10 +1,10 @@
 # Anxiety
 ---
 #noun
-- **An unpleasant state of mental uneasiness, nervousness, [[a/_apprehension|apprehension]] and obsession or [[c/_concern|concern]] [[a/_about|about]] some uncertain event.**
-- **An uneasy or distressing [[d/_desire|desire]] (for something).**
-- **A state of restlessness and [[a/_agitation|agitation]], often [[a/_accompanied|accompanied]] by a distressing sense of oppression or tightness in the stomach.**
+- **An unpleasant state of mental uneasiness, nervousness, apprehension and obsession or concern about some uncertain event.**
+- **An uneasy or distressing desire (for something).**
+- **A state of restlessness and agitation, often accompanied by a distressing sense of oppression or tightness in the stomach.**
 ---
 ### Synonyms
-- [[apprehension]], [[care]], [[disquiet]], [[disquietude]], [[distress]], [[foreboding]], [[perplexity]], [[restlessness]], [[solicitude]], [[trouble]], [[uneasiness]]
+- [[[[a/_apprehension|apprehension]]]], [[[[c/_care|care]]]], [[[[d/_disquiet|disquiet]]]], [[[[d/_disquietude|disquietude]]]], [[[[d/_distress|distress]]]], [[foreboding]], [[perplexity]], [[restlessness]], [[solicitude]], [[trouble]], [[uneasiness]]
 ---

@@ -1,8 +1,8 @@
 # Bis
 ---
 #noun
-- **A [[b/_bisexual|bisexual]] person.**
+- **A bisexual person.**
 ---
 ### Synonyms
-- [[bisexual]]
+- [[[[b/_bisexual|bisexual]]]]
 ---

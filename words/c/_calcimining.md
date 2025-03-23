@@ -1,6 +1,6 @@
 # Calcimining
 ---
 #verb
-- **To [[c/_coat|coat]] with this substance.**
+- **To coat with this substance.**
 ---
 ---

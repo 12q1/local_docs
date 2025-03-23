@@ -1,11 +1,11 @@
 # Contemn
 ---
 #verb
-- **To disdain; to value at little or nothing; to treat or regard with [[c/_contempt|contempt]].**
-- **To [[c/_commit|commit]] an offence of [[c/_contempt|contempt]], such as [[c/_contempt|contempt]] of [[c/_court|court]]; to unlawfully flout (e.g. a ruling).**
+- **To disdain; to value at little or nothing; to treat or regard with contempt.**
+- **To commit an offence of contempt, such as contempt of court; to unlawfully flout (e.g. a ruling).**
 ---
 ### Synonyms
-- [[despise]], [[scorn]]
+- [[[[d/_despise|despise]]]], [[scorn]]
 ### Antonyms
 - [[honor]], [[respect]], [[revere]], [[venerate]]
 ---

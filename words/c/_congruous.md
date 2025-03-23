@@ -1,11 +1,11 @@
 # Congruous
 ---
 #adjective
-- **[[c/_corresponding|Corresponding]] in [[c/_character|character]].**
+- **Corresponding in character.**
 - **Harmonious.**
 ---
 ### Synonyms
-- [[congruent]]
+- [[[[c/_congruent|congruent]]]]
 ### Antonyms
 - [[incongruous]]
 ---

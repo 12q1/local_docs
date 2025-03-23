@@ -6,8 +6,8 @@
 - **Obscene language or writing.**
 ---
 ### Synonyms
-- [[bunk]], [[drivel]], [[piffle]], [[poppycock]], [[rubbish]], [[twaddle]]
+- [[[[b/_bunk|bunk]]]], [[[[d/_drivel|drivel]]]], [[piffle]], [[poppycock]], [[rubbish]], [[twaddle]]
 #verb
-- **To mix or [[a/_adulterate|adulterate]].**
+- **To mix or adulterate.**
 ---
 ---

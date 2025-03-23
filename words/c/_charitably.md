@@ -1,6 +1,6 @@
 # Charitably
 ---
 #adverb
-- **In a [[c/_charitable|charitable]] manner.**
+- **In a charitable manner.**
 ---
 ---

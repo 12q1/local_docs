@@ -1,9 +1,9 @@
 # Biogeochemical
 ---
 #noun
-- **A geochemical of [[b/_biological|biological]] origin**
+- **A geochemical of biological origin**
 ---
 #adjective
-- **Of or pertaining to [[b/_biogeochemistry|biogeochemistry]]**
+- **Of or pertaining to biogeochemistry**
 ---
 ---

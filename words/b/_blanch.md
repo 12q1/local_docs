@@ -1,18 +1,18 @@
 # Blanch
 ---
 #verb
-- **To grow or [[b/_become|become]] white**
+- **To grow or become white**
 	- _Example: His cheek blanched with fear._
-- **To take the [[c/_color|color]] out of, and make white; to [[b/_bleach|bleach]]**
+- **To take the color out of, and make white; to bleach**
 	- _Example: Age has blanched his hair._
-- **To [[c/_cook|cook]] by dipping [[b/_briefly|briefly]] into [[b/_boiling|boiling]] water, then directly into [[c/_cold|cold]] water.**
-- **To whiten, for example the surface of meat, by plunging into [[b/_boiling|boiling]] water and [[a/_afterwards|afterwards]] into [[c/_cold|cold]], so as to harden the surface and retain the juices**
-- **To [[b/_bleach|bleach]] by excluding the light, for example the stalks or leaves of plants, by earthing them up or tying them together**
+- **To cook by dipping briefly into boiling water, then directly into cold water.**
+- **To whiten, for example the surface of meat, by plunging into boiling water and afterwards into cold, so as to harden the surface and retain the juices**
+- **To bleach by excluding the light, for example the stalks or leaves of plants, by earthing them up or tying them together**
 - **To make white by removing the skin of, for example by scalding**
 	- _Example: to blanch almonds_
-- **To give a white lustre to (silver, [[b/_before|before]] stamping, in the process of [[c/_coining|coining]])**
-- **(tntransitive) To [[c/_cover|cover]] (sheet iron) with a [[c/_coating|coating]] of tin.**
-- **To give a favorable [[a/_appearance|appearance]] to; to whitewash; to whiten;**
+- **To give a white lustre to (silver, before stamping, in the process of coining)**
+- **(tntransitive) To cover (sheet iron) with a coating of tin.**
+- **To give a favorable appearance to; to whitewash; to whiten;**
 ---
 ### Synonyms
 - [[palliate]]

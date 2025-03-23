@@ -1,19 +1,19 @@
 # Consummate
 ---
 #verb
-- **To [[b/_bring|bring]] (a task, project, goal etc.) to [[c/_completion|completion]]; to [[a/_accomplish|accomplish]].**
-- **To make perfect, [[a/_achieve|achieve]], give the finishing touch.**
-- **To make (a marriage) [[c/_complete|complete]] by engaging in first sexual intercourse.**
+- **To bring (a task, project, goal etc.) to completion; to accomplish.**
+- **To make perfect, achieve, give the finishing touch.**
+- **To make (a marriage) complete by engaging in first sexual intercourse.**
 	- _Example: After the reception, he escorted her to the honeymoon suite to consummate their marriage._
-- **To [[b/_become|become]] perfected, receive the finishing touch.**
+- **To become perfected, receive the finishing touch.**
 ---
 ### Synonyms
-- [[come to a head]], [[mature]], [[ripe]], [[complete]], [[finish]], [[round off]], [[complete]], [[perfect]], [[top off]]
+- [[[[c/_come|come]] to a head]], [[mature]], [[ripe]], [[[[c/_complete|complete]]]], [[finish]], [[round off]], [[[[c/_complete|complete]]]], [[perfect]], [[top off]]
 #adjective
-- **[[c/_complete|Complete]] in every [[d/_detail|detail]], perfect, [[a/_absolute|absolute]].**
+- **Complete in every detail, perfect, absolute.**
 - **Highly skilled and experienced; fully qualified.**
 	- _Example: a consummate sergeant_
 ---
 ### Synonyms
-- [[absolute]], [[complete]], [[perfect]], [[sheer]], [[total]], [[utter]]
+- [[[[a/_absolute|absolute]]]], [[[[c/_complete|complete]]]], [[perfect]], [[sheer]], [[total]], [[utter]]
 ---

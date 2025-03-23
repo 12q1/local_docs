@@ -1,12 +1,12 @@
 # Befuddled
 ---
 #verb
-- **To perplex, [[c/_confuse|confuse]] (someone).**
+- **To perplex, confuse (someone).**
 	- _Example: The explanation left him completely befuddled._
-- **To stupefy (someone), especially with [[a/_alcohol|alcohol]].**
+- **To stupefy (someone), especially with alcohol.**
 ---
 #adjective
-- **[[c/_confused|Confused]] or perplexed**
+- **Confused or perplexed**
 - **Drunk**
 ---
 ---

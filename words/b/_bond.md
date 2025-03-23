@@ -1,42 +1,42 @@
 # Bond
 ---
 #noun
-- **Evidence of a long-term [[d/_debt|debt]], by which the [[b/_bond|bond]] issuer (the [[b/_borrower|borrower]]) is obliged to pay interest when due, and repay the principal at maturity, as specified on the face of the [[b/_bond|bond]] [[c/_certificate|certificate]]. The rights of the holder are specified in the [[b/_bond|bond]] indenture, which [[c/_contains|contains]] the legal terms and [[c/_conditions|conditions]] under which the [[b/_bond|bond]] was issued. [[b/_bonds|Bonds]] are [[a/_available|available]] in two forms: registered [[b/_bonds|bonds]], and [[b/_bearer|bearer]] [[b/_bonds|bonds]].**
-- **A documentary obligation to pay a sum or to perform a [[c/_contract|contract]]; a [[d/_debenture|debenture]].**
+- **Evidence of a long-term debt, by which the bond issuer (the borrower) is obliged to pay interest when due, and repay the principal at maturity, as specified on the face of the bond certificate. The rights of the holder are specified in the bond indenture, which contains the legal terms and conditions under which the bond was issued. Bonds are available in two forms: registered bonds, and bearer bonds.**
+- **A documentary obligation to pay a sum or to perform a contract; a debenture.**
 	- _Example: Investors face a quandary. Cash offers a return of virtually zero in many developed countries; government-bond yields may have risen in recent weeks but they are still unattractive. Equities have suffered two big bear markets since 2000 and are wobbling again. It is hardly surprising that pension funds, insurers and endowments are searching for new sources of return._
-- **A partial payment made to show a provider that the [[c/_customer|customer]] is sincere [[a/_about|about]] [[b/_buying|buying]] a product or a service. If the product or service is not purchased the [[c/_customer|customer]] then forfeits the [[b/_bond|bond]].**
-- **(often in the plural) A physical [[c/_connection|connection]] which [[b/_binds|binds]], a [[b/_band|band]].**
+- **A partial payment made to show a provider that the customer is sincere about buying a product or a service. If the product or service is not purchased the customer then forfeits the bond.**
+- **(often in the plural) A physical connection which binds, a band.**
 	- _Example: The prisoner was brought before the tribunal in iron bonds._
-- **An emotional link, [[c/_connection|connection]] or union; that which holds two or more people together, as in a friendship; a tie.**
+- **An emotional link, connection or union; that which holds two or more people together, as in a friendship; a tie.**
 	- _Example: They had grown up as friends and neighbors, and not even vastly differing political views could break the bond of their friendship._
 - **Moral or political duty or obligation.**
-- **A link or force [[b/_between|between]] neighbouring [[a/_atoms|atoms]] in a molecule.**
+- **A link or force between neighbouring atoms in a molecule.**
 	- _Example: Organic chemistry primarily consists of the study of carbon bonds, in their many variations._
-- **A [[b/_binding|binding]] [[a/_agreement|agreement]], a [[c/_covenant|covenant]].**
+- **A binding agreement, a covenant.**
 	- _Example: Herbert resented his wife for subjecting him to the bonds of matrimony; he claimed they had gotten married while drunk._
-- **A [[b/_bail|bail]] [[b/_bond|bond]].**
+- **A bail bond.**
 	- _Example: The bailiff released the prisoner as soon as the bond was posted._
-- **[[a/_any|Any]] [[c/_constraining|constraining]] or [[c/_cementing|cementing]] force or material.**
+- **Any constraining or cementing force or material.**
 	- _Example: A bond of superglue adhered the teacups to the ceiling, much to the consternation of the cafe owners._
-- **In [[b/_building|building]], a specific pattern of [[b/_bricklaying|bricklaying]].**
+- **In building, a specific pattern of bricklaying.**
 - **In Scotland, a mortgage.**
-- **A heavy [[c/_copper|copper]] wire or rod [[c/_connecting|connecting]] [[a/_adjacent|adjacent]] rails of an electric railway track when used as a part of the electric [[c/_circuit|circuit]].**
+- **A heavy copper wire or rod connecting adjacent rails of an electric railway track when used as a part of the electric circuit.**
 ---
 #verb
-- **To [[c/_connect|connect]], secure or tie with a [[b/_bond|bond]]; to [[b/_bind|bind]].**
+- **To connect, secure or tie with a bond; to bind.**
 	- _Example: The gargantuan ape was bonded in iron chains and carted onto the stage._
-- **To [[c/_cause|cause]] to [[a/_adhere|adhere]] (one material with [[a/_another|another]]).**
+- **To cause to adhere (one material with another).**
 	- _Example: The children bonded their snapshots to the scrapbook pages with mucilage._
-- **To form a [[c/_chemical|chemical]] [[c/_compound|compound]] with.**
+- **To form a chemical compound with.**
 	- _Example: Under unusual conditions, even gold can be made to bond with other elements._
 - **To guarantee or secure a financial risk.**
 	- _Example: The contractor was bonded with a local underwriter._
-- **To form a friendship or emotional [[c/_connection|connection]].**
+- **To form a friendship or emotional connection.**
 	- _Example: The men had bonded while serving together in Vietnam._
-- **To put in a [[b/_bonded|bonded]] warehouse; to secure (goods) until the [[a/_associated|associated]] duties are paid.**
-- **To lay [[b/_bricks|bricks]] in a specific pattern.**
-- **To make a reliable electrical [[c/_connection|connection]] [[b/_between|between]] two [[c/_conductors|conductors]] (or [[a/_any|any]] pieces of metal that may potentially [[b/_become|become]] [[c/_conductors|conductors]]).**
+- **To put in a bonded warehouse; to secure (goods) until the associated duties are paid.**
+- **To lay bricks in a specific pattern.**
+- **To make a reliable electrical connection between two conductors (or any pieces of metal that may potentially become conductors).**
 	- _Example: A house's distribution panel should always be bonded to the grounding rods via a panel bond._
-- **To [[b/_bail|bail]] out by means of a [[b/_bail|bail]] [[b/_bond|bond]].**
+- **To bail out by means of a bail bond.**
 ---
 ---

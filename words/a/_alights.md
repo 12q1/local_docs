@@ -1,15 +1,15 @@
 # Alights
 ---
 #verb
-- **(with from) To get off or exit a vehicle or [[a/_animal|animal]]; to [[d/_descend|descend]]; to dismount.**
+- **(with from) To get off or exit a vehicle or animal; to descend; to dismount.**
 	- _Example: He alighted from his horse._
-- **(with on or at) To [[d/_descend|descend]] and settle, lodge, rest, or stop.**
+- **(with on or at) To descend and settle, lodge, rest, or stop.**
 	- _Example: A flying bird alights on a tree._
-- **(followed by upon) To find by [[a/_accident|accident]]; to [[c/_come|come]] upon.**
-- **To [[b/_befall|befall]] or [[b/_betide|betide]].**
+- **(followed by upon) To find by accident; to come upon.**
+- **To befall or betide.**
 ---
 #verb
-- **To make light or less heavy; lighten; [[a/_alleviate|alleviate]].**
+- **To make light or less heavy; lighten; alleviate.**
 ---
 #verb
 - **To light; light up; illuminate.**

@@ -2,8 +2,8 @@
 ---
 #adjective
 - **Of or relating to the head; headlike.**
-- **Of, or pertaining to, the [[c/_cephalon|cephalon]].**
+- **Of, or pertaining to, the cephalon.**
 ---
 ### Antonyms
-- [[caudal]]
+- [[[[c/_caudal|caudal]]]]
 ---

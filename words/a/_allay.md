@@ -1,18 +1,18 @@
 # Allay
 ---
 #noun
-- **[[a/_alleviation|Alleviation]]; [[a/_abatement|abatement]]; [[c/_check|check]].**
-- **An [[a/_alloy|alloy]].**
+- **Alleviation; abatement; check.**
+- **An alloy.**
 ---
 #verb
-- **To make quiet or put at rest; to pacify or [[a/_appease|appease]]; to quell; to [[c/_calm|calm]].**
+- **To make quiet or put at rest; to pacify or appease; to quell; to calm.**
 	- _Example: to allay popular excitement_
-- **To [[a/_alleviate|alleviate]]; to [[a/_abate|abate]]; to mitigate.**
+- **To alleviate; to abate; to mitigate.**
 	- _Example: to allay the severity of affliction or the bitterness of adversity_
-- **To subside, [[a/_abate|abate]], [[b/_become|become]] peaceful.**
-- **To mix (metals); to mix with a [[b/_baser|baser]] metal; to [[a/_alloy|alloy]]; to [[d/_deteriorate|deteriorate]].**
+- **To subside, abate, become peaceful.**
+- **To mix (metals); to mix with a baser metal; to alloy; to deteriorate.**
 - **(by extension) To make worse by the introduction of inferior elements.**
 ---
 ### Synonyms
-- [[abate]], [[alleviate]], [[appease]], [[assuage]], [[calm]], [[compose]], [[quiet]], [[soothe]]
+- [[[[a/_abate|abate]]]], [[[[a/_alleviate|alleviate]]]], [[[[a/_appease|appease]]]], [[[[a/_assuage|assuage]]]], [[[[c/_calm|calm]]]], [[[[c/_compose|compose]]]], [[quiet]], [[soothe]]
 ---

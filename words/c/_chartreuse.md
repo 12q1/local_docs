@@ -1,11 +1,11 @@
 # Chartreuse
 ---
 #noun
-- **A yellow or green liqueur made by [[c/_carthusian|Carthusian]] monks.**
-- **A greenish-yellow [[c/_colour|colour]].**
+- **A yellow or green liqueur made by Carthusian monks.**
+- **A greenish-yellow colour.**
 - **A kind of enamelled pottery.**
 ---
 #adjective
-- **Of a [[b/_bright|bright]] yellowish-green [[c/_colour|colour]].**
+- **Of a bright yellowish-green colour.**
 ---
 ---

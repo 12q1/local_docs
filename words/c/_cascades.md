@@ -2,17 +2,17 @@
 ---
 #noun
 - **A waterfall or series of small waterfalls.**
-- **A stream or sequence of a thing or things occurring as if falling like a [[c/_cascade|cascade]].**
-- **A series of electrical (or other types of) [[c/_components|components]], the output of [[a/_any|any]] one [[b/_being|being]] [[c/_connected|connected]] to the input of the next; See [[a/_also|also]] [[d/_daisy|daisy]] [[c/_chain|chain]]**
-- **A pattern typically performed with an odd number of props, where each prop is [[c/_caught|caught]] by the opposite hand.**
-- **A sequence of [[a/_absurd|absurd]] short messages posted to a newsgroup by different [[a/_authors|authors]], each one responding to the most recent message and quoting the entire sequence to that point (with ever-increasing indentation).**
-- **A hairpiece for women [[c/_consisting|consisting]] of [[c/_curled|curled]] locks or a [[b/_bun|bun]] [[a/_attached|attached]] to a firm [[b/_base|base]], used to [[c/_create|create]] the illusion of fuller hair.**
-- **A series of reactions in which the product of one [[b/_becomes|becomes]] a reactant in the next**
+- **A stream or sequence of a thing or things occurring as if falling like a cascade.**
+- **A series of electrical (or other types of) components, the output of any one being connected to the input of the next; See also daisy chain**
+- **A pattern typically performed with an odd number of props, where each prop is caught by the opposite hand.**
+- **A sequence of absurd short messages posted to a newsgroup by different authors, each one responding to the most recent message and quoting the entire sequence to that point (with ever-increasing indentation).**
+- **A hairpiece for women consisting of curled locks or a bun attached to a firm base, used to create the illusion of fuller hair.**
+- **A series of reactions in which the product of one becomes a reactant in the next**
 ---
 #verb
 - **To fall as a waterfall or series of small waterfalls.**
-- **To [[a/_arrange|arrange]] in a stepped series like a waterfall.**
-- **To occur as a [[c/_causal|causal]] sequence.**
+- **To arrange in a stepped series like a waterfall.**
+- **To occur as a causal sequence.**
 - **To vomit.**
 ---
 ---

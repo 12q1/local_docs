@@ -1,6 +1,6 @@
 # Becard
 ---
 #noun
-- **A South [[a/_american|American]] flycatcher of the genus Pachyramphus**
+- **A South American flycatcher of the genus Pachyramphus**
 ---
 ---

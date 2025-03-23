@@ -5,6 +5,6 @@
 - **To fold into parallel folds, grooves or ridges.**
 ---
 #adjective
-- **[[c/_corrugated|Corrugated]]; wrinkled; [[c/_crumpled|crumpled]]; furrowed**
+- **Corrugated; wrinkled; crumpled; furrowed**
 ---
 ---

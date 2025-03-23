@@ -1,7 +1,7 @@
 # Asphodels
 ---
 #noun
-- **Flowering plants of the family [[a/_asphodelaceae|Asphodelaceae]], especially [[a/_asphodelus|Asphodelus]] ramosus and [[a/_asphodelus|Asphodelus]] [[a/_albus|albus]]; the flowers of these plants.**
-- **The flower said to [[c/_carpet|carpet]] Hades, and a favorite food of the [[d/_dead|dead]].**
+- **Flowering plants of the family Asphodelaceae, especially Asphodelus ramosus and Asphodelus albus; the flowers of these plants.**
+- **The flower said to carpet Hades, and a favorite food of the dead.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Correctitude
 ---
 #noun
-- **The quality of [[b/_being|being]] [[c/_correct|correct]]**
+- **The quality of being correct**
 ---
 ### Synonyms
-- [[correctness]]
+- [[[[c/_correctness|correctness]]]]
 ---

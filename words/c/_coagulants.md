@@ -1,8 +1,8 @@
 # Coagulants
 ---
 #noun
-- **A substance that [[c/_causes|causes]] [[c/_coagulation|coagulation]]**
+- **A substance that causes coagulation**
 ---
 ### Antonyms
-- [[anticoagulant]]
+- [[[[a/_anticoagulant|anticoagulant]]]]
 ---

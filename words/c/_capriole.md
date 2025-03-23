@@ -1,11 +1,11 @@
 # Capriole
 ---
 #noun
-- **A leap that a horse makes with [[a/_all|all]] fours, upwards only, without [[a/_advancing|advancing]], but with a kick or jerk of the hind legs when at the height of the leap.**
-- **A leap or [[c/_caper|caper]], as in [[d/_dancing|dancing]].**
+- **A leap that a horse makes with all fours, upwards only, without advancing, but with a kick or jerk of the hind legs when at the height of the leap.**
+- **A leap or caper, as in dancing.**
 ---
 #verb
-- **To leap; to [[c/_caper|caper]].**
-- **To [[c/_cause|cause]] (one's mounted horse) to perform a [[c/_capriole|capriole]].**
+- **To leap; to caper.**
+- **To cause (one's mounted horse) to perform a capriole.**
 ---
 ---

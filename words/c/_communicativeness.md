@@ -1,6 +1,6 @@
 # Communicativeness
 ---
 #noun
-- **The state or quality of [[b/_being|being]] [[c/_communicative|communicative]].**
+- **The state or quality of being communicative.**
 ---
 ---

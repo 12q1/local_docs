@@ -1,10 +1,10 @@
 # Bearish
 ---
 #adjective
-- **Resembling or likened to a [[b/_bear|bear]], typically in [[b/_being|being]] rough, surly, or [[c/_clumsy|clumsy]].**
-- **(of the price of financial instruments) [[c/_characterized|Characterized]] by falling prices.**
-- **(by extension) Pessimistic [[a/_about|about]] the future.**
+- **Resembling or likened to a bear, typically in being rough, surly, or clumsy.**
+- **(of the price of financial instruments) Characterized by falling prices.**
+- **(by extension) Pessimistic about the future.**
 ---
 ### Antonyms
-- [[bullish]]
+- [[[[b/_bullish|bullish]]]]
 ---

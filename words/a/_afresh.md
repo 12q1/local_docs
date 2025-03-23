@@ -1,7 +1,7 @@
 # Afresh
 ---
 #adverb
-- **[[a/_anew|Anew]]; [[a/_again|again]]; once more**
+- **Anew; again; once more**
 ---
 ### Synonyms
 - [[newly]]

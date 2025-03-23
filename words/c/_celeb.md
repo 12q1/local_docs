@@ -1,6 +1,6 @@
 # Celeb
 ---
 #noun
-- **A [[c/_celebrity|celebrity]]; a famous person.**
+- **A celebrity; a famous person.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Ciao
 ---
 #noun
-- **A greeting or farewell using the word "[[c/_ciao|ciao]]".**
+- **A greeting or farewell using the word "ciao".**
 ---
 #interjection
 - **Hello, hi.**
-- **[[b/_bye|Bye]], goodbye.**
+- **Bye, goodbye.**
 ---
 ---

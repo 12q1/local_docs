@@ -1,6 +1,6 @@
 # Caponize
 ---
 #verb
-- **To [[c/_castrate|castrate]] (a [[c/_cockerel|cockerel]]) in order to fatten it for table use.**
+- **To castrate (a cockerel) in order to fatten it for table use.**
 ---
 ---

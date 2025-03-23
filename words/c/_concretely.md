@@ -1,6 +1,6 @@
 # Concretely
 ---
 #adverb
-- **In a [[c/_concrete|concrete]] manner, physically, [[d/_definitely|definitely]]**
+- **In a concrete manner, physically, definitely**
 ---
 ---

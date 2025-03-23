@@ -1,13 +1,13 @@
 # Biological
 ---
 #noun
-- **A [[b/_biological|biological]] product.**
+- **A biological product.**
 ---
 ### Synonyms
-- [[biologic]]
+- [[[[b/_biologic|biologic]]]]
 #adjective
-- **Of or relating to [[b/_biology|biology]].**
-- **Related by [[c/_consanguinity|consanguinity]], especially as to parents and [[c/_children|children]].**
+- **Of or relating to biology.**
+- **Related by consanguinity, especially as to parents and children.**
 - **(an error in NNES) Organic (grown without agrochemicals).**
 ---
 ---

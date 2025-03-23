@@ -1,9 +1,9 @@
 # Cantilevering
 ---
 #verb
-- **To project (something) in the manner of or by means of a [[c/_cantilever|cantilever]].**
+- **To project (something) in the manner of or by means of a cantilever.**
 ---
 #noun
-- **The motion or use of a [[c/_cantilever|cantilever]].**
+- **The motion or use of a cantilever.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Anastigmat
 ---
 #noun
-- **An [[a/_anastigmatic|anastigmatic]] lens.**
+- **An anastigmatic lens.**
 ---
 ---

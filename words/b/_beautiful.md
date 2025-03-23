@@ -1,19 +1,19 @@
 # Beautiful
 ---
 #noun
-- **Someone who is [[b/_beautiful|beautiful]]. [[c/_can|Can]] be used as a term of [[a/_address|address]].**
+- **Someone who is beautiful. Can be used as a term of address.**
 	- _Example: Hey, beautiful!_
 ---
 #adjective
-- **[[a/_attractive|Attractive]] and possessing [[b/_beauty|beauty]].**
+- **Attractive and possessing beauty.**
 	- _Example: Anyone who has ever met her thought she was absolutely beautiful._
-- **(of the weather) Pleasant; [[c/_clear|clear]].**
+- **(of the weather) Pleasant; clear.**
 	- _Example: It's beautiful outside, let's go for a walk._
 - **Well executed.**
 	- _Example: The skater performed a beautiful axel._
 ---
 ### Synonyms
-- [[bloody]], [[damned]], [[great]], [[intensifier]], [[just]], [[marvellous]], [[marvelous]], [[nice]], [[wonderful]], [[clear]], [[fine]], [[nice]], [[pleasant]], [[sunny]], [[attractive]], [[beauteous]], [[cute]], [[fair]], [[fit]], [[good-looking]], [[gorgeous]], [[handsome]], [[hot]], [[lovely]], [[nice-looking]], [[pretty]], [[shapely]], [[sheen]], [[excellent]], [[exceptional]], [[good]], [[great]], [[marvellous]], [[marvelous]], [[perfect]], [[stylish]], [[wonderful]]
+- [[[[b/_bloody|bloody]]]], [[[[d/_damned|damned]]]], [[great]], [[intensifier]], [[just]], [[marvellous]], [[marvelous]], [[nice]], [[wonderful]], [[[[c/_clear|clear]]]], [[fine]], [[nice]], [[pleasant]], [[sunny]], [[[[a/_attractive|attractive]]]], [[[[b/_beauteous|beauteous]]]], [[[[c/_cute|cute]]]], [[fair]], [[fit]], [[good-looking]], [[gorgeous]], [[handsome]], [[hot]], [[lovely]], [[nice-looking]], [[pretty]], [[shapely]], [[sheen]], [[excellent]], [[exceptional]], [[good]], [[great]], [[marvellous]], [[marvelous]], [[perfect]], [[stylish]], [[wonderful]]
 ### Antonyms
-- [[bad]], [[cloudy]], [[dull]], [[miserable]], [[overcast]], [[rainy]], [[wet]], [[grotesque]], [[hideous]], [[homely]], [[misshapen]], [[plain]], [[repulsive]], [[ugly]], [[unbeautiful]], [[average]], [[bad]], [[mediocre]], [[poor]], [[shoddy]], [[substandard]], [[terrible]], [[weak]]
+- [[[[b/_bad|bad]]]], [[[[c/_cloudy|cloudy]]]], [[[[d/_dull|dull]]]], [[miserable]], [[overcast]], [[rainy]], [[wet]], [[grotesque]], [[hideous]], [[homely]], [[misshapen]], [[plain]], [[repulsive]], [[ugly]], [[unbeautiful]], [[[[a/_average|average]]]], [[[[b/_bad|bad]]]], [[mediocre]], [[poor]], [[shoddy]], [[substandard]], [[terrible]], [[weak]]
 ---

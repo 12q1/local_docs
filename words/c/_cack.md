@@ -1,14 +1,14 @@
 # Cack
 ---
 #noun
-- **An [[a/_act|act]] of [[d/_defecation|defecation]].**
+- **An act of defecation.**
 - **Excrement.**
 - **Rubbish.**
 ---
 ### Synonyms
-- [[caca]]
+- [[[[c/_caca|caca]]]]
 #verb
-- **To [[d/_defecate|defecate]].**
+- **To defecate.**
 - **To kill.**
 	- _Example: “He tried to shoot me, so I cacked him.”_
 ---

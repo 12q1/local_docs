@@ -1,11 +1,11 @@
 # Cinematic
 ---
 #noun
-- **A [[c/_cut|cut]] scene.**
+- **A cut scene.**
 	- _Example: Is there a way to skip this long cinematic?_
 ---
 #adjective
-- **Of or relating to the [[c/_cinema|cinema]].**
+- **Of or relating to the cinema.**
 - **Relating to kinematics; kinematic.**
 ---
 ---

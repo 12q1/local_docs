@@ -1,7 +1,7 @@
 # Bollixed
 ---
 #verb
-- **To [[c/_confuse|confuse]].**
-- **To [[b/_botch|botch]] or [[b/_bungle|bungle]].**
+- **To confuse.**
+- **To botch or bungle.**
 ---
 ---

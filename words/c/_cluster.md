@@ -1,28 +1,28 @@
 # Cluster
 ---
 #noun
-- **A group or [[b/_bunch|bunch]] of several discrete items that are [[c/_close|close]] to each other.**
+- **A group or bunch of several discrete items that are close to each other.**
 	- _Example: A cluster of flowers grew in the pot._
-- **A number of individuals grouped together or [[c/_collected|collected]] in one place; a [[c/_crowd|crowd]]; a mob.**
-- **A group of galaxies or stars that [[a/_appear|appear]] near each other.**
+- **A number of individuals grouped together or collected in one place; a crowd; a mob.**
+- **A group of galaxies or stars that appear near each other.**
 	- _Example: The Pleiades cluster contains seven bright stars._
-- **A sequence of two or more words that occur in language with high frequency but are not idiomatic; a [[c/_chunk|chunk]], [[b/_bundle|bundle]], or lexical [[b/_bundle|bundle]].**
+- **A sequence of two or more words that occur in language with high frequency but are not idiomatic; a chunk, bundle, or lexical bundle.**
 	- _Example: examples of clusters would include "in accordance with", "the results of" and "so far"_
-- **A secundal [[c/_chord|chord]] of three or more notes.**
-- **A group of [[c/_consonants|consonants]].**
+- **A secundal chord of three or more notes.**
+- **A group of consonants.**
 	- _Example: The word "scrub" begins with a cluster of three consonants._
-- **A group of [[c/_computers|computers]] that work together.**
-- **A logical [[d/_data|data]] storage unit [[c/_containing|containing]] one or more physical sectors (see [[b/_block|block]]).**
+- **A group of computers that work together.**
+- **A logical data storage unit containing one or more physical sectors (see block).**
 - **A significant subset within a population.**
-- **Set of [[b/_bombs|bombs]] or mines.**
-- **A small metal [[d/_design|design]] that indicates that a medal has [[b/_been|been]] [[a/_awarded|awarded]] to the same person [[b/_before|before]].**
+- **Set of bombs or mines.**
+- **A small metal design that indicates that a medal has been awarded to the same person before.**
 - **Euphemism of clusterfuck.**
-- **An ensemble of [[b/_bound|bound]] [[a/_atoms|atoms]] or molecules, intermediate in size [[b/_between|between]] a molecule and a [[b/_bulk|bulk]] solid.**
+- **An ensemble of bound atoms or molecules, intermediate in size between a molecule and a bulk solid.**
 ---
 #verb
-- **To form a [[c/_cluster|cluster]] or group.**
+- **To form a cluster or group.**
 	- _Example: The children clustered around the puppy._
-- **To [[c/_collect|collect]] into [[c/_clusters|clusters]].**
-- **To [[c/_cover|cover]] with [[c/_clusters|clusters]].**
+- **To collect into clusters.**
+- **To cover with clusters.**
 ---
 ---

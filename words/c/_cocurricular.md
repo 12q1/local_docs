@@ -1,7 +1,7 @@
 # Cocurricular
 ---
 #adjective
-- **[[a/_accompanying|Accompanying]] an educational [[c/_curriculum|curriculum]].**
+- **Accompanying an educational curriculum.**
 	- _Example: Scouting is a cocurricular activity._
 ---
 ---

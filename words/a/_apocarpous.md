@@ -1,6 +1,6 @@
 # Apocarpous
 ---
 #adjective
-- **Having [[c/_carpels|carpels]] that are not joined**
+- **Having carpels that are not joined**
 ---
 ---

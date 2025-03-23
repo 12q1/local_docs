@@ -1,10 +1,10 @@
 # Blindfolding
 ---
 #verb
-- **To [[c/_cover|cover]] the eyes, in order to make someone unable to see.**
-- **To obscure understanding or [[c/_comprehension|comprehension]].**
+- **To cover the eyes, in order to make someone unable to see.**
+- **To obscure understanding or comprehension.**
 ---
 #noun
-- **The [[a/_act|act]] of [[c/_covering|covering]] with a [[b/_blindfold|blindfold]].**
+- **The act of covering with a blindfold.**
 ---
 ---

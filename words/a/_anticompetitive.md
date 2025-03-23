@@ -1,6 +1,6 @@
 # Anticompetitive
 ---
 #adjective
-- **[[a/_acting|Acting]] to hinder or obstruct [[c/_competition|competition]].**
+- **Acting to hinder or obstruct competition.**
 ---
 ---

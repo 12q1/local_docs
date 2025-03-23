@@ -5,10 +5,10 @@
 - **Refrain from (something or doing something); keep from doing, especially an indulgence.**
 	- _Example: In order to improve his health, Rob decided to abstain from smoking._
 - **Fast (not eat for a period).**
-- **[[d/_deliberately|Deliberately]] refrain from [[c/_casting|casting]] one's vote at a meeting where one is present.**
+- **Deliberately refrain from casting one's vote at a meeting where one is present.**
 	- _Example: I abstain from this vote, as I have no particular preference._
-- **Hinder; keep [[b/_back|back]]; withhold.**
+- **Hinder; keep back; withhold.**
 ---
 ### Synonyms
-- [[deny]], [[forbear]], [[forgo]], [[give up]], [[refrain]], [[relinquish]], [[withhold]]
+- [[[[d/_deny|deny]]]], [[forbear]], [[forgo]], [[give up]], [[refrain]], [[relinquish]], [[withhold]]
 ---

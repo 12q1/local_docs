@@ -1,6 +1,6 @@
 # Addressograph
 ---
 #noun
-- **A device for making mailing labels, used for much of the 20th [[c/_century|century]].**
+- **A device for making mailing labels, used for much of the 20th century.**
 ---
 ---

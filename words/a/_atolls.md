@@ -1,6 +1,6 @@
 # Atolls
 ---
 #noun
-- **A type of island [[c/_consisting|consisting]] of a ribbon reef that nearly or entirely surrounds a lagoon and supports, in most [[c/_cases|cases]], one to many islets on the reef platform. [[a/_atolls|Atolls]] have a unique geology, so not [[a/_all|all]] islands with a reef and a lagoon are [[a/_atolls|atolls]]**
+- **A type of island consisting of a ribbon reef that nearly or entirely surrounds a lagoon and supports, in most cases, one to many islets on the reef platform. Atolls have a unique geology, so not all islands with a reef and a lagoon are atolls**
 ---
 ---

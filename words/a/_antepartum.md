@@ -1,10 +1,10 @@
 # Antepartum
 ---
 #adjective
-- **[[d/_describing|Describing]] the period [[b/_before|before]] [[c/_childbirth|childbirth]]; [[a/_antenatal|antenatal]]**
+- **Describing the period before childbirth; antenatal**
 ---
 ### Synonyms
-- [[antenatal]], [[prenatal]]
+- [[[[a/_antenatal|antenatal]]]], [[prenatal]]
 ### Antonyms
-- [[antenatal]], [[postpartum]], [[prenatal]]
+- [[[[a/_antenatal|antenatal]]]], [[postpartum]], [[prenatal]]
 ---

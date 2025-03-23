@@ -1,8 +1,8 @@
 # Bisecting
 ---
 #verb
-- **To [[c/_cut|cut]] or divide into two parts.**
+- **To cut or divide into two parts.**
 ---
 ### Synonyms
-- [[dichotomize]], [[dimidiate]]
+- [[[[d/_dichotomize|dichotomize]]]], [[[[d/_dimidiate|dimidiate]]]]
 ---

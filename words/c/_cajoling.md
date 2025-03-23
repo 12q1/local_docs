@@ -1,12 +1,12 @@
 # Cajoling
 ---
 #verb
-- **To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to [[c/_coax|coax]].**
+- **To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.**
 ---
 ### Synonyms
-- [[butter up]], [[coax]], [[entice]], [[inveigle]], [[sweet-talk]], [[wheedle]]
+- [[[[b/_butter|butter]] up]], [[[[c/_coax|coax]]]], [[entice]], [[inveigle]], [[sweet-talk]], [[wheedle]]
 #noun
-- **The [[a/_act|act]] of one who [[c/_cajoles|cajoles]]**
+- **The act of one who cajoles**
 	- _Example: Threats and cajolings failed to convince her._
 ---
 ---

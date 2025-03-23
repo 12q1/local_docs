@@ -1,8 +1,8 @@
 # Bradoon
 ---
 #noun
-- **A type of snaffle [[b/_bit|bit]], with small rings, usually used on a double [[b/_bridle|bridle]] in [[c/_conjunction|conjunction]] with a [[c/_curb|curb]] [[b/_bit|bit]].**
+- **A type of snaffle bit, with small rings, usually used on a double bridle in conjunction with a curb bit.**
 ---
 ### Synonyms
-- [[bradoon bit]], [[bridoon]]
+- [[[[b/_bradoon|bradoon]] [[b/_bit|bit]]]], [[[[b/_bridoon|bridoon]]]]
 ---

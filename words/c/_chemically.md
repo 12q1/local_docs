@@ -1,7 +1,7 @@
 # Chemically
 ---
 #adverb
-- **Using a [[c/_chemical|chemical]] reaction, process or operation.**
-- **[[a/_according|According]] to the principles of [[c/_chemistry|chemistry]].**
+- **Using a chemical reaction, process or operation.**
+- **According to the principles of chemistry.**
 ---
 ---

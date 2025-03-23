@@ -1,7 +1,7 @@
 # Boke
 ---
 #verb
-- **To thrust or push out; [[b/_butt|butt]]; poke.**
+- **To thrust or push out; butt; poke.**
 - **To retch or vomit.**
 ---
 ---

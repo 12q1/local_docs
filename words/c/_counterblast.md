@@ -1,6 +1,6 @@
 # Counterblast
 ---
 #noun
-- **A work that strongly refutes or [[c/_criticises|criticises]] [[a/_another|another]].**
+- **A work that strongly refutes or criticises another.**
 ---
 ---

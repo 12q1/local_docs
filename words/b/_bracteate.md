@@ -1,10 +1,10 @@
 # Bracteate
 ---
 #noun
-- **A [[b/_bracteate|bracteate]] [[c/_coin|coin]] or other object.**
+- **A bracteate coin or other object.**
 ---
 #adjective
-- **Having [[b/_bracts|bracts]].**
-- **Made of thin, [[b/_beaten|beaten]] metal (of [[c/_coins|coins]], ornaments etc. with a hollow underside).**
+- **Having bracts.**
+- **Made of thin, beaten metal (of coins, ornaments etc. with a hollow underside).**
 ---
 ---

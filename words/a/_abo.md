@@ -1,8 +1,8 @@
 # Abo
 ---
 #noun
-- **An [[a/_aborigine|aborigine]]; [[a/_aboriginal|aboriginal]].**
+- **An aborigine; aboriginal.**
 ---
 ### Synonyms
-- [[Jacky]], [[Mary]], [[boong]], [[gin]], [[lubra]]
+- [[Jacky]], [[Mary]], [[[[b/_boong|boong]]]], [[gin]], [[lubra]]
 ---

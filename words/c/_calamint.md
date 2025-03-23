@@ -1,6 +1,6 @@
 # Calamint
 ---
 #noun
-- **[[a/_any|Any]] species of [[a/_aromatic|aromatic]] garden herb of the genus [[c/_calamintha|Calamintha]].**
+- **Any species of aromatic garden herb of the genus Calamintha.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Adversative
 ---
 #noun
-- **Something, particularly a [[c/_clause|clause]] or [[c/_conjunction|conjunction]], which is [[a/_adversative|adversative]].**
+- **Something, particularly a clause or conjunction, which is adversative.**
 ---
 #adjective
 - **Expressing opposition or difference.**
-- **Expressing [[a/_adverse|adverse]] effect.**
+- **Expressing adverse effect.**
 ---
 ---

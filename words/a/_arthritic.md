@@ -1,9 +1,9 @@
 # Arthritic
 ---
 #noun
-- **A person with [[a/_arthritis|arthritis]].**
+- **A person with arthritis.**
 ---
 #adjective
-- **Of, or [[a/_affected|affected]] by [[a/_arthritis|arthritis]].**
+- **Of, or affected by arthritis.**
 ---
 ---

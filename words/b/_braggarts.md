@@ -1,8 +1,8 @@
 # Braggarts
 ---
 #noun
-- **Someone who [[c/_constantly|constantly]] [[b/_brags|brags]] or [[b/_boasts|boasts]].**
+- **Someone who constantly brags or boasts.**
 ---
 ### Synonyms
-- [[braggard]], [[bragger]]
+- [[braggard]], [[[[b/_bragger|bragger]]]]
 ---

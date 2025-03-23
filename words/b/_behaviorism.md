@@ -1,8 +1,8 @@
 # Behaviorism
 ---
 #noun
-- **An [[a/_approach|approach]] to psychology focusing on observable [[b/_behavior|behavior]], [[d/_denying|denying]] [[a/_any|any]] independent significance for mind, and usually [[a/_assuming|assuming]] that [[b/_behavior|behavior]] is [[d/_determined|determined]] by the environment.**
+- **An approach to psychology focusing on observable behavior, denying any independent significance for mind, and usually assuming that behavior is determined by the environment.**
 ---
 ### Synonyms
-- [[behavioral psychology]]
+- [[[[b/_behavioral|behavioral]] psychology]]
 ---

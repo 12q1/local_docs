@@ -1,6 +1,6 @@
 # Archiepiscopal
 ---
 #adjective
-- **Of or relating to an [[a/_archbishop|archbishop]] or an [[a/_archbishopric|archbishopric]].**
+- **Of or relating to an archbishop or an archbishopric.**
 ---
 ---

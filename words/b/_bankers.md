@@ -1,19 +1,19 @@
 # Bankers
 ---
 #noun
-- **One who [[c/_conducts|conducts]] the [[b/_business|business]] of [[b/_banking|banking]]; one who, individually, or as a member of a [[c/_company|company]], keeps an establishment for the [[d/_deposit|deposit]] or loan of money, or for traffic in money, [[b/_bills|bills]] of exchange, etc.**
-- **A money [[c/_changer|changer]].**
-- **The [[d/_dealer|dealer]], or one who keeps the [[b/_bank|bank]] in a gambling house.**
-- **The stone [[b/_bench|bench]] on which a mason [[c/_cuts|cuts]] or squares his work.**
+- **One who conducts the business of banking; one who, individually, or as a member of a company, keeps an establishment for the deposit or loan of money, or for traffic in money, bills of exchange, etc.**
+- **A money changer.**
+- **The dealer, or one who keeps the bank in a gambling house.**
+- **The stone bench on which a mason cuts or squares his work.**
 ---
 #noun
-- **A vessel employed in the [[c/_cod|cod]] fishery on the [[b/_banks|banks]] of Newfoundland.**
+- **A vessel employed in the cod fishery on the banks of Newfoundland.**
 - **A ditcher; a drain digger.**
-- **A [[b/_banksman|banksman]].**
+- **A banksman.**
 ---
 #noun
-- **A railway locomotive that [[c/_can|can]] be [[a/_attached|attached]] to the rear of a train to [[a/_assist|assist]] it in [[c/_climbing|climbing]] an incline.**
+- **A railway locomotive that can be attached to the rear of a train to assist it in climbing an incline.**
 ---
 ### Synonyms
-- [[bank engine]], [[helper]], [[helper engine]]
+- [[[[b/_bank|bank]] engine]], [[helper]], [[helper engine]]
 ---

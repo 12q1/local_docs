@@ -1,7 +1,7 @@
 # Antherozoid
 ---
 #noun
-- **One of the mobile male reproductive [[b/_bodies|bodies]] in the [[a/_antheridia|antheridia]] of cryptogams.**
+- **One of the mobile male reproductive bodies in the antheridia of cryptogams.**
 ---
 ### Synonyms
 - [[sperm]]

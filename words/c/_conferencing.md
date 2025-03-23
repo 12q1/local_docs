@@ -1,6 +1,6 @@
 # Conferencing
 ---
 #verb
-- **To [[a/_assess|assess]] (a student) by one-on-one [[c/_conversation|conversation]], rather than an examination.**
+- **To assess (a student) by one-on-one conversation, rather than an examination.**
 ---
 ---

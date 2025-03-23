@@ -1,8 +1,8 @@
 # Bilharziasis
 ---
 #noun
-- **[[a/_any|Any]] of various diseases of humans [[c/_caused|caused]] by parasitic [[b/_blood|blood]] flukes of the genus Schistosoma.**
+- **Any of various diseases of humans caused by parasitic blood flukes of the genus Schistosoma.**
 ---
 ### Synonyms
-- [[bilharzia]], [[bilharziasis]], [[bilharziosis]], [[snail fever]]
+- [[[[b/_bilharzia|bilharzia]]]], [[[[b/_bilharziasis|bilharziasis]]]], [[[[b/_bilharziosis|bilharziosis]]]], [[snail fever]]
 ---

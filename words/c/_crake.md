@@ -1,9 +1,9 @@
 # Crake
 ---
 #noun
-- **[[a/_any|Any]] of several [[b/_birds|birds]] of the family Rallidae that have short [[b/_bills|bills]].**
+- **Any of several birds of the family Rallidae that have short bills.**
 ---
 #verb
-- **To [[c/_cry|cry]] out harshly and loudly, like a [[c/_crake|crake]].**
+- **To cry out harshly and loudly, like a crake.**
 ---
 ---

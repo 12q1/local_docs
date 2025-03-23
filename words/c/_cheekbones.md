@@ -1,8 +1,8 @@
 # Cheekbones
 ---
 #noun
-- **The small prominent [[b/_bone|bone]] of the [[c/_cheek|cheek]].**
+- **The small prominent bone of the cheek.**
 ---
 ### Synonyms
-- [[malar bone]], [[zygoma]], [[zygomatic bone]]
+- [[malar [[b/_bone|bone]]]], [[zygoma]], [[zygomatic [[b/_bone|bone]]]]
 ---

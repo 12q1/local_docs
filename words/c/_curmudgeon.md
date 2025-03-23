@@ -6,5 +6,5 @@
 	- _Example: John Doe's old age and stubborn aversion to new ideas make him a curmudgeon of a candidate._
 ---
 ### Synonyms
-- [[crank]]
+- [[[[c/_crank|crank]]]]
 ---

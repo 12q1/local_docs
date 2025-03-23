@@ -1,7 +1,7 @@
 # Coolie
 ---
 #noun
-- **An unskilled [[a/_asian|Asian]] worker, usually of [[c/_chinese|Chinese]] or Indian [[d/_descent|descent]]; a labourer; a porter. [[c/_coolies|Coolies]] were frequently transported to other [[c/_countries|countries]] in the 19th and early 20th [[c/_centuries|centuries]] as indentured labourers.**
-- **(Trinidad) An Indian or a person of Indian [[d/_descent|descent]].**
+- **An unskilled Asian worker, usually of Chinese or Indian descent; a labourer; a porter. Coolies were frequently transported to other countries in the 19th and early 20th centuries as indentured labourers.**
+- **(Trinidad) An Indian or a person of Indian descent.**
 ---
 ---

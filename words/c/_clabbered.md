@@ -1,10 +1,10 @@
 # Clabbered
 ---
 #verb
-- **To sour or [[c/_curdle|curdle]].**
+- **To sour or curdle.**
 ---
 #adjective
-- **Thickened or [[c/_curdled|curdled]].**
+- **Thickened or curdled.**
 	- _Example: The milk became clabbered._
 ---
 ---

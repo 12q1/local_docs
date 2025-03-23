@@ -1,7 +1,7 @@
 # Contractual
 ---
 #adjective
-- **Of, relating to, or enforced by a [[c/_contract|contract]].**
+- **Of, relating to, or enforced by a contract.**
 	- _Example: our contractual obligations_
 ---
 ---

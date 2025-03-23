@@ -1,10 +1,10 @@
 # Alarmist
 ---
 #noun
-- **One who [[c/_causes|causes]] others to [[b/_become|become]] [[a/_alarmed|alarmed]] without [[c/_cause|cause]].**
+- **One who causes others to become alarmed without cause.**
 	- _Example: I don't mean to be an alarmist, but I do think you should prepare yourself for the worst._
 ---
 #adjective
-- **Of or relating to [[c/_causing|causing]] others to [[b/_become|become]] [[a/_alarmed|alarmed]] without [[c/_cause|cause]].**
+- **Of or relating to causing others to become alarmed without cause.**
 ---
 ---

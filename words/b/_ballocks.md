@@ -2,12 +2,12 @@
 ---
 #noun
 - **The testicles (sometimes used in the singular)**
-- **Nonsense or information [[d/_deliberately|deliberately]] intended to mislead.**
+- **Nonsense or information deliberately intended to mislead.**
 - **(used as singular) An idiot, an ignorant or disagreeable person.**
-- **A [[c/_contraction|contraction]] of the dog's [[b/_bollocks|bollocks]].**
+- **A contraction of the dog's bollocks.**
 ---
 #verb
-- **(taboo) To [[b/_break|break]].**
-- **(taboo) ([[a/_also|also]] [[b/_bollocks|bollocks]] up) To fail (a task); to make a mess of.**
+- **(taboo) To break.**
+- **(taboo) (also bollocks up) To fail (a task); to make a mess of.**
 ---
 ---

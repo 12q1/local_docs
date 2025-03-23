@@ -1,8 +1,8 @@
 # Benefices
 ---
 #noun
-- **Land granted to a priest in a [[c/_church|church]] that has a source of income [[a/_attached|attached]] to it.**
-- **A favour or [[b/_benefit|benefit]].**
+- **Land granted to a priest in a church that has a source of income attached to it.**
+- **A favour or benefit.**
 - **(feudal law) An estate in lands; a fief.**
 ---
 ---

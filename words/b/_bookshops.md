@@ -1,8 +1,8 @@
 # Bookshops
 ---
 #noun
-- **A shop that sells [[b/_books|books]].**
+- **A shop that sells books.**
 ---
 ### Synonyms
-- [[bookstore]]
+- [[[[b/_bookstore|bookstore]]]]
 ---

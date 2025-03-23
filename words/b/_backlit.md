@@ -1,10 +1,10 @@
 # Backlit
 ---
 #verb
-- **To illuminate something from [[b/_behind|behind]].**
+- **To illuminate something from behind.**
 ---
 #adjective
-- **Lit or illuminated from [[b/_behind|behind]].**
+- **Lit or illuminated from behind.**
 	- _Example: a backlit computer keyboard_
 ---
 ### Antonyms

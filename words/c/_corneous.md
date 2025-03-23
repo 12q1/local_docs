@@ -1,7 +1,7 @@
 # Corneous
 ---
 #adjective
-- **[[c/_containing|Containing]] a horny substance; horny**
+- **Containing a horny substance; horny**
 ---
 ### Synonyms
 - [[horny]]

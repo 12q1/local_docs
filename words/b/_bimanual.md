@@ -1,6 +1,6 @@
 # Bimanual
 ---
 #adjective
-- **Involving or using [[b/_both|both]] hands**
+- **Involving or using both hands**
 ---
 ---

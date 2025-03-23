@@ -1,9 +1,9 @@
 # Belugas
 ---
 #noun
-- **A [[c/_cetacean|cetacean]], [[d/_delphinapterus|Delphinapterus]] leucas, found in the [[a/_arctic|Arctic]] Ocean.**
-- **A fish, Huso huso, found in the [[c/_caspian|Caspian]] Sea and the [[b/_black|Black]] Sea, that is a source of [[c/_caviar|caviar]].**
+- **A cetacean, Delphinapterus leucas, found in the Arctic Ocean.**
+- **A fish, Huso huso, found in the Caspian Sea and the Black Sea, that is a source of caviar.**
 ---
 ### Synonyms
-- [[beluga whale]], [[sea canary]], [[white whale]]
+- [[[[b/_beluga|beluga]] whale]], [[sea [[c/_canary|canary]]]], [[white whale]]
 ---

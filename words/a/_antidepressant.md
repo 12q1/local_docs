@@ -1,11 +1,11 @@
 # Antidepressant
 ---
 #noun
-- **An [[a/_agent|agent]] that prevents or [[c/_counteracts|counteracts]] [[d/_depression|depression]].**
+- **An agent that prevents or counteracts depression.**
 ---
 ### Antonyms
 - [[depressogenic]]
 #adjective
-- **(pharmaceutical effect) Preventing or [[c/_counteracting|counteracting]] [[d/_depression|depression]].**
+- **(pharmaceutical effect) Preventing or counteracting depression.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Bonged
 ---
 #verb
-- **To pull a [[b/_bell|bell]].**
+- **To pull a bell.**
 - **To ring a doorbell.**
 ---
 ---

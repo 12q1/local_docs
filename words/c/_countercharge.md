@@ -1,10 +1,10 @@
 # Countercharge
 ---
 #noun
-- **An [[a/_accusation|accusation]] [[a/_against|against]] an opponent in an [[a/_argument|argument]] in response to the opponent's [[a/_accusations|accusations]].**
-- **An thrust or [[c/_charge|charge]] [[a/_against|against]] an enemy in response to their previous [[a/_attack|attack]].**
+- **An accusation against an opponent in an argument in response to the opponent's accusations.**
+- **An thrust or charge against an enemy in response to their previous attack.**
 ---
 #verb
-- **To reverse the [[c/_colors|colors]].**
+- **To reverse the colors.**
 ---
 ---

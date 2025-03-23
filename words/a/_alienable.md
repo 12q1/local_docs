@@ -1,7 +1,7 @@
 # Alienable
 ---
 #adjective
-- **[[c/_capable|Capable]] of [[b/_being|being]] [[a/_alienated|alienated]], sold, or transferred to [[a/_another|another]]**
+- **Capable of being alienated, sold, or transferred to another**
 	- _Example: Land is alienable according to the laws of the state._
 ---
 ### Antonyms

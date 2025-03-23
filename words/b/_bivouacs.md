@@ -1,16 +1,16 @@
 # Bivouacs
 ---
 #noun
-- **An encampment for the night, usually without tents or [[c/_covering|covering]].**
-- **[[a/_any|Any]] temporary encampment.**
-- **A temporary shelter [[c/_constructed|constructed]] generally for a few nights.**
-- **The watch of a whole [[a/_army|army]] by night, when in [[d/_danger|danger]] of surprise or [[a/_attack|attack]].**
-- **A structure formed by migratory [[a/_ants|ants]] out of their own [[b/_bodies|bodies]] to protect the queen and larvae.**
+- **An encampment for the night, usually without tents or covering.**
+- **Any temporary encampment.**
+- **A temporary shelter constructed generally for a few nights.**
+- **The watch of a whole army by night, when in danger of surprise or attack.**
+- **A structure formed by migratory ants out of their own bodies to protect the queen and larvae.**
 ---
 #verb
-- **To set up [[c/_camp|camp]].**
+- **To set up camp.**
 	- _Example: We'll bivouac here tonight._
-- **To watch at night or be on guard, as a whole [[a/_army|army]].**
-- **To encamp for the night without tents or [[c/_covering|covering]].**
+- **To watch at night or be on guard, as a whole army.**
+- **To encamp for the night without tents or covering.**
 ---
 ---

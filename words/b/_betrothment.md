@@ -1,8 +1,8 @@
 # Betrothment
 ---
 #noun
-- **The [[a/_act|act]] of [[b/_betrothing|betrothing]], or the state of [[b/_being|being]] [[b/_betrothed|betrothed]].**
+- **The act of betrothing, or the state of being betrothed.**
 ---
 ### Synonyms
-- [[betrothal]]
+- [[[[b/_betrothal|betrothal]]]]
 ---

@@ -1,8 +1,8 @@
 # Bibcocks
 ---
 #noun
-- **An [[a/_appliance|appliance]] [[a/_allowing|allowing]] the provision of hose [[c/_connections|connections]] outside of [[b/_buildings|buildings]].**
+- **An appliance allowing the provision of hose connections outside of buildings.**
 ---
 ### Synonyms
-- [[bibb]], [[sillcock]]
+- [[[[b/_bibb|bibb]]]], [[sillcock]]
 ---

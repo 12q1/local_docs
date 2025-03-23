@@ -1,16 +1,16 @@
 # Antecedents
 ---
 #noun
-- **[[a/_any|Any]] thing that precedes [[a/_another|another]] thing, especially the [[c/_cause|cause]] of the second thing.**
-- **An [[a/_ancestor|ancestor]].**
-- **(grammar) A word, phrase or [[c/_clause|clause]] referred to by a pronoun.**
-- **The [[c/_conditional|conditional]] part of a hypothetical proposition, i.e. p \rightarrow q, where p is the [[a/_antecedent|antecedent]], and q is the [[c/_consequent|consequent]].**
-- **The first of two subsets of a sequent, [[c/_consisting|consisting]] of [[a/_all|all]] the sequent's formulae which are valuated as true.**
-- **The first term of a ratio, i.e. the term a in the ratio a:[[b/_b|b]], the other [[b/_being|being]] the [[c/_consequent|consequent]].**
-- **([[c/_chiefly|chiefly]] in the plural) Previous principles, [[c/_conduct|conduct]], history, etc.**
+- **Any thing that precedes another thing, especially the cause of the second thing.**
+- **An ancestor.**
+- **(grammar) A word, phrase or clause referred to by a pronoun.**
+- **The conditional part of a hypothetical proposition, i.e. p \rightarrow q, where p is the antecedent, and q is the consequent.**
+- **The first of two subsets of a sequent, consisting of all the sequent's formulae which are valuated as true.**
+- **The first term of a ratio, i.e. the term a in the ratio a:b, the other being the consequent.**
+- **(chiefly in the plural) Previous principles, conduct, history, etc.**
 ---
 ### Synonyms
-- [[ascendant]], [[ascendent]], [[forebear]], [[forefather]], [[forerunner]], [[predecessor]], [[progenitor]], [[precedent]], [[precursor]]
+- [[[[a/_ascendant|ascendant]]]], [[[[a/_ascendent|ascendent]]]], [[forebear]], [[forefather]], [[forerunner]], [[predecessor]], [[progenitor]], [[precedent]], [[precursor]]
 ### Antonyms
-- [[anaphor]], [[consequent]], [[succedent]]
+- [[anaphor]], [[[[c/_consequent|consequent]]]], [[succedent]]
 ---

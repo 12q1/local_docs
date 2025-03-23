@@ -5,8 +5,8 @@
 	- _Example: "Did you want this one or that one?" — "Give me both."_
 ---
 #conjunction
-- **Including [[b/_both|both]] of (used with and).**
+- **Including both of (used with and).**
 	- _Example: Both you and I are students._
-- **Including [[a/_all|all]] of (used with and).**
+- **Including all of (used with and).**
 ---
 ---

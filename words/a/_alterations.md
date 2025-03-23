@@ -1,7 +1,7 @@
 # Alterations
 ---
 #noun
-- **The [[a/_act|act]] of [[a/_altering|altering]] or making different.**
-- **The state of [[b/_being|being]] [[a/_altered|altered]]; a [[c/_change|change]] made in the form or nature of a thing; [[c/_changed|changed]] [[c/_condition|condition]].**
+- **The act of altering or making different.**
+- **The state of being altered; a change made in the form or nature of a thing; changed condition.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Caracoling
 ---
 #verb
-- **To execute a [[c/_caracole|caracole]].**
+- **To execute a caracole.**
 ---
 #noun
-- **A [[c/_caracole|caracole]], or half-turn.**
+- **A caracole, or half-turn.**
 ---
 ---

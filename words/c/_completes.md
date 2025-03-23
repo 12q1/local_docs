@@ -1,15 +1,15 @@
 # Completes
 ---
 #noun
-- **A [[c/_completed|completed]] survey.**
+- **A completed survey.**
 ---
 #verb
 - **To finish; to make done; to reach the end.**
 	- _Example: He completed the assignment on time._
 - **To make whole or entire.**
 	- _Example: The last chapter completes the book nicely._
-- **To [[c/_call|call]] from the small [[b/_blind|blind]] in an unraised pot.**
+- **To call from the small blind in an unraised pot.**
 ---
 ### Synonyms
-- [[accomplish]], [[finish]], [[consummate]], [[perfect]], [[top off]]
+- [[[[a/_accomplish|accomplish]]]], [[finish]], [[[[c/_consummate|consummate]]]], [[perfect]], [[top off]]
 ---

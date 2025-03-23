@@ -1,11 +1,11 @@
 # Brutalizing
 ---
 #verb
-- **To inflict [[b/_brutal|brutal]] violence on.**
-- **To make [[b/_brutal|brutal]], [[c/_cruel|cruel]] or harsh.**
-- **To live or [[b/_behave|behave]] like a [[b/_brute|brute]].**
+- **To inflict brutal violence on.**
+- **To make brutal, cruel or harsh.**
+- **To live or behave like a brute.**
 ---
 #adjective
-- **[[c/_cruel|Cruel]], harsh, or otherwise insensitive.**
+- **Cruel, harsh, or otherwise insensitive.**
 ---
 ---

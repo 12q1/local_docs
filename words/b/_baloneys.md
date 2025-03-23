@@ -1,8 +1,8 @@
 # Baloneys
 ---
 #noun
-- **A type of sausage; [[b/_bologna|bologna]].**
+- **A type of sausage; bologna.**
 ---
 ### Synonyms
-- [[bologna]]
+- [[[[b/_bologna|bologna]]]]
 ---

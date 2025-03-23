@@ -1,8 +1,8 @@
 # Coniine
 ---
 #noun
-- **A poisonous [[a/_alkaloid|alkaloid]] found in poison hemlock and the yellow pitcher plant; it is a neurotoxin which disrupts the peripheral nervous system.**
+- **A poisonous alkaloid found in poison hemlock and the yellow pitcher plant; it is a neurotoxin which disrupts the peripheral nervous system.**
 ---
 ### Synonyms
-- [[coneine]], [[conia]], [[conicine]], [[conine]]
+- [[[[c/_coneine|coneine]]]], [[[[c/_conia|conia]]]], [[[[c/_conicine|conicine]]]], [[[[c/_conine|conine]]]]
 ---

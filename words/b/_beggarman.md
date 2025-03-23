@@ -1,6 +1,6 @@
 # Beggarman
 ---
 #noun
-- **A male [[b/_beggar|beggar]].**
+- **A male beggar.**
 ---
 ---

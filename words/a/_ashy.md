@@ -1,7 +1,7 @@
 # Ashy
 ---
 #adjective
-- **Having the [[c/_color|color]] of [[a/_ashes|ashes]].**
-- **Having dry or [[d/_dead|dead]] skin (therefore discolored).**
+- **Having the color of ashes.**
+- **Having dry or dead skin (therefore discolored).**
 ---
 ---

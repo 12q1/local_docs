@@ -1,8 +1,8 @@
 # Bluestone
 ---
 #noun
-- **[[a/_any|Any]] of several [[b/_bluish|bluish]] grey varieties of stone used for [[c/_construction|construction]]:**
-- **Either of two related [[c/_copper|copper]]- and sulfur-[[b/_based|based]] [[b/_bright|bright]] [[b/_blue|blue]] stones:**
-- **Lapis lazuli, or its [[c/_core|core]] [[c/_constituent|constituent]], lazurite.**
+- **Any of several bluish grey varieties of stone used for construction:**
+- **Either of two related copper- and sulfur-based bright blue stones:**
+- **Lapis lazuli, or its core constituent, lazurite.**
 ---
 ---

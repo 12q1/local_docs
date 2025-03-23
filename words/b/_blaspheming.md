@@ -1,11 +1,11 @@
 # Blaspheming
 ---
 #verb
-- **To [[c/_commit|commit]] [[b/_blasphemy|blasphemy]]; to speak [[a/_against|against]] God or religious doctrine.**
-- **To speak of, or [[a/_address|address]], with impious irreverence; to revile impiously ([[a/_anything|anything]] sacred).**
-- **To [[c/_calumniate|calumniate]]; to revile; to [[a/_abuse|abuse]].**
+- **To commit blasphemy; to speak against God or religious doctrine.**
+- **To speak of, or address, with impious irreverence; to revile impiously (anything sacred).**
+- **To calumniate; to revile; to abuse.**
 ---
 #noun
-- **An [[a/_act|act]] of [[b/_blasphemy|blasphemy]].**
+- **An act of blasphemy.**
 ---
 ---

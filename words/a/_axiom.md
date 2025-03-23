@@ -1,9 +1,9 @@
 # Axiom
 ---
 #noun
-- **A seemingly self-evident or necessary truth which is [[b/_based|based]] on [[a/_assumption|assumption]]; a principle or proposition which [[c/_cannot|cannot]] [[a/_actually|actually]] be proved or disproved.**
-- **(proof theory) A fundamental [[a/_assumption|assumption]] that serves as a [[b/_basis|basis]] for [[d/_deduction|deduction]] of theorems; a postulate (sometimes distinguished from postulates as [[b/_being|being]] universally [[a/_applicable|applicable]], whereas postulates are particular to a [[c/_certain|certain]] science or [[c/_context|context]]).**
-- **An established principle in some [[a/_artistic|artistic]] practice or science that is universally received.**
+- **A seemingly self-evident or necessary truth which is based on assumption; a principle or proposition which cannot actually be proved or disproved.**
+- **(proof theory) A fundamental assumption that serves as a basis for deduction of theorems; a postulate (sometimes distinguished from postulates as being universally applicable, whereas postulates are particular to a certain science or context).**
+- **An established principle in some artistic practice or science that is universally received.**
 	- _Example: The axioms of political economy cannot be considered absolute truths._
 ---
 ### Synonyms

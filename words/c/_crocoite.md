@@ -1,6 +1,6 @@
 # Crocoite
 ---
 #noun
-- **A rare red mineral; lead [[c/_chromate|chromate]], PbCrO4.**
+- **A rare red mineral; lead chromate, PbCrO4.**
 ---
 ---

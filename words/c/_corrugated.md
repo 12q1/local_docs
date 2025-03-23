@@ -6,6 +6,6 @@
 ---
 #adjective
 - **Marked with parallel folds, ridges or furrows.**
-- **[[b/_bent|Bent]] into regular [[c/_curved|curved]] folds or grooves.**
+- **Bent into regular curved folds or grooves.**
 ---
 ---

@@ -1,12 +1,12 @@
 # Bestiality
 ---
 #noun
-- **A status of lower [[a/_animal|animal]].**
-- **An [[a/_animal|animal]]-like instinct or [[b/_behaviour|behaviour]].**
-- **A mark, trait, or emblem of a [[b/_beast|beast]].**
+- **A status of lower animal.**
+- **An animal-like instinct or behaviour.**
+- **A mark, trait, or emblem of a beast.**
 	- _Example: "What's your bestiality?" (What's your mark?)_
-- **Sexual [[a/_activity|activity]] [[b/_between|between]] a human and [[a/_another|another]] [[a/_animal|animal]] species.**
-- **[[b/_bestial|Bestial]] nature, savagery, inhumanity, like (or [[a/_akin|akin]] to) an [[a/_animal|animal]]'s.**
-- **[[a/_any|Any]] [[a/_abstract|abstract]] entity similar to a [[b/_beast|beast]].**
+- **Sexual activity between a human and another animal species.**
+- **Bestial nature, savagery, inhumanity, like (or akin to) an animal's.**
+- **Any abstract entity similar to a beast.**
 ---
 ---

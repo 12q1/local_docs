@@ -1,10 +1,10 @@
 # Cheddar
 ---
 #noun
-- **A [[c/_cheese|cheese]] styled [[a/_after|after]] the [[c/_cheddar|Cheddar]] [[c/_cheese|cheese]] made in [[c/_cheddar|Cheddar]].**
-- **Money, [[c/_cash|cash]], [[c/_currency|currency]].**
+- **A cheese styled after the Cheddar cheese made in Cheddar.**
+- **Money, cash, currency.**
 ---
 #verb
-- **([[c/_cheese|cheese]] making) To [[c/_cut|cut]] and press [[c/_cheese|cheese]] so as to remove the whey and leave drier [[c/_curds|curds]].**
+- **(cheese making) To cut and press cheese so as to remove the whey and leave drier curds.**
 ---
 ---

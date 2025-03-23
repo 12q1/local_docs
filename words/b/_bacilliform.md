@@ -1,6 +1,6 @@
 # Bacilliform
 ---
 #adjective
-- **Shaped like a [[b/_bacillus|bacillus]]; rod-shaped**
+- **Shaped like a bacillus; rod-shaped**
 ---
 ---

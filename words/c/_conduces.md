@@ -1,6 +1,6 @@
 # Conduces
 ---
 #verb
-- **To [[c/_contribute|contribute]] or lead to a specific result.**
+- **To contribute or lead to a specific result.**
 ---
 ---

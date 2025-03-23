@@ -1,8 +1,8 @@
 # Chemistries
 ---
 #noun
-- **The [[b/_branch|branch]] of natural science that [[d/_deals|deals]] with the [[c/_composition|composition]] and [[c/_constitution|constitution]] of substances and the [[c/_changes|changes]] that they undergo as a [[c/_consequence|consequence]] of [[a/_alterations|alterations]] in the [[c/_constitution|constitution]] of their molecules.**
-- **An [[a/_application|application]] of [[c/_chemical|chemical]] theory and method to a particular substance.**
-- **The mutual [[a/_attraction|attraction]] [[b/_between|between]] two people; rapport.**
+- **The branch of natural science that deals with the composition and constitution of substances and the changes that they undergo as a consequence of alterations in the constitution of their molecules.**
+- **An application of chemical theory and method to a particular substance.**
+- **The mutual attraction between two people; rapport.**
 ---
 ---

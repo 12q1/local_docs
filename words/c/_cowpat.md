@@ -1,7 +1,7 @@
 # Cowpat
 ---
 #noun
-- **A dropping of [[c/_cow|cow]] dung.**
+- **A dropping of cow dung.**
 ---
 ### Synonyms
 - [[cowpie]]

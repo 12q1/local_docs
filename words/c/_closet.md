@@ -1,24 +1,24 @@
 # Closet
 ---
 #noun
-- **[[a/_any|Any]] private [[a/_area|area]], (particularly) [[b/_bowers|bowers]] in the open [[a/_air|air]].**
-- **[[a/_any|Any]] private or inner room, (particularly):**
-- **A pew or side-[[c/_chapel|chapel]] reserved for a monarch or other feudal lord.**
-- **A private [[c/_cabinet|cabinet]], (particularly):**
-- **[[a/_any|Any]] small room or side-room, (particularly):**
-- **An ordinary similar to a [[b/_bar|bar]] but half as [[b/_broad|broad]].**
+- **Any private area, (particularly) bowers in the open air.**
+- **Any private or inner room, (particularly):**
+- **A pew or side-chapel reserved for a monarch or other feudal lord.**
+- **A private cabinet, (particularly):**
+- **Any small room or side-room, (particularly):**
+- **An ordinary similar to a bar but half as broad.**
 - **A sewer.**
 ---
 ### Synonyms
-- [[cabinet]], [[armchair]]
+- [[[[c/_cabinet|cabinet]]]], [[[[a/_armchair|armchair]]]]
 #verb
-- **To shut [[a/_away|away]] for private discussion.**
+- **To shut away for private discussion.**
 	- _Example: The ambassador has been closeted with the prime minister all afternoon. We're all worried what will be announced when they exit._
 - **To put into a private place for a secret interview or interrogation.**
-- **To shut up in, or as in, a [[c/_closet|closet]] for [[c/_concealment|concealment]] or [[c/_confinement|confinement]].**
+- **To shut up in, or as in, a closet for concealment or confinement.**
 ---
 #adjective
 - **Private.**
-- **Secret, (especially) with reference to gay people who are in the [[c/_closet|closet]]; [[c/_closeted|closeted]].**
+- **Secret, (especially) with reference to gay people who are in the closet; closeted.**
 ---
 ---

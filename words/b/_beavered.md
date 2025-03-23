@@ -1,7 +1,7 @@
 # Beavered
 ---
 #adjective
-- **[[c/_covered|Covered]] with, or wearing, a [[b/_beaver|beaver]] or hat.**
-- **Having or wearing a [[b/_beaver|beaver]] (part of a helmet [[c/_covering|covering]] the lower face)**
+- **Covered with, or wearing, a beaver or hat.**
+- **Having or wearing a beaver (part of a helmet covering the lower face)**
 ---
 ---

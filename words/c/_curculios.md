@@ -1,6 +1,6 @@
 # Curculios
 ---
 #noun
-- **[[a/_any|Any]] of the genus [[c/_curculio|Curculio]] of weevils.**
+- **Any of the genus Curculio of weevils.**
 ---
 ---

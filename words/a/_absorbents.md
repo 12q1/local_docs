@@ -1,9 +1,9 @@
 # Absorbents
 ---
 #noun
-- **[[a/_anything|Anything]] which [[a/_absorbs|absorbs]].**
-- **(pluralized) The vessels by which the processes of [[a/_absorption|absorption]] are [[c/_carried|carried]] on, as the lymphatics in [[a/_animals|animals]], the extremities of the roots in plants.**
-- **[[a/_any|Any]] substance which [[a/_absorbs|absorbs]] and neutralizes [[a/_acid|acid]] fluid in the stomach and [[b/_bowels|bowels]], as magnesia, [[c/_chalk|chalk]], etc.; [[a/_also|also]] a substance, e.g., iodine, which [[a/_acts|acts]] on the [[a/_absorbent|absorbent]] vessels so as to reduce enlarged and indurated parts.**
+- **Anything which absorbs.**
+- **(pluralized) The vessels by which the processes of absorption are carried on, as the lymphatics in animals, the extremities of the roots in plants.**
+- **Any substance which absorbs and neutralizes acid fluid in the stomach and bowels, as magnesia, chalk, etc.; also a substance, e.g., iodine, which acts on the absorbent vessels so as to reduce enlarged and indurated parts.**
 - **A liquid used in the process of separating gases or volatile liquids, in oil refining.**
 ---
 ---

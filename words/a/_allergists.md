@@ -1,7 +1,7 @@
 # Allergists
 ---
 #noun
-- **A doctor who specializes in the treatment of [[a/_allergies|allergies]].**
+- **A doctor who specializes in the treatment of allergies.**
 ---
 ### Synonyms
 - [[allergologist]]

@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Having no polarity**
-- **Orthogonal under the polar pairing [[b/_between|between]] the symmetric [[a/_algebra|algebra]] of a vector space and its dual.**
+- **Orthogonal under the polar pairing between the symmetric algebra of a vector space and its dual.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Barstools
 ---
 #noun
-- **A stool used for sitting, often taller than a [[c/_chair|chair]] and usually having a foot rest, [[c/_commonly|commonly]] placed in [[b/_bars|bars]] and in front of kitchen [[c/_counters|counters]].**
+- **A stool used for sitting, often taller than a chair and usually having a foot rest, commonly placed in bars and in front of kitchen counters.**
 ---
 ### Synonyms
-- [[bar chair]]
+- [[[[b/_bar|bar]] [[c/_chair|chair]]]]
 ---

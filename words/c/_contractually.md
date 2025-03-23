@@ -1,6 +1,6 @@
 # Contractually
 ---
 #adverb
-- **By means of a [[c/_contract|contract]]**
+- **By means of a contract**
 ---
 ---

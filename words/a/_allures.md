@@ -1,8 +1,8 @@
 # Allures
 ---
 #verb
-- **To entice; to [[a/_attract|attract]].**
+- **To entice; to attract.**
 ---
 ### Synonyms
-- [[attract]], [[decoy]], [[entice]], [[seduce]], [[tempt]]
+- [[[[a/_attract|attract]]]], [[[[d/_decoy|decoy]]]], [[entice]], [[seduce]], [[tempt]]
 ---

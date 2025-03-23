@@ -3,22 +3,22 @@
 #verb
 - **To make smaller; to press or squeeze together, or to make something occupy a smaller space or volume.**
 	- _Example: The force required to compress a spring varies linearly with the displacement._
-- **To be pressed together or folded by [[c/_compression|compression]] into a more economic, easier format.**
+- **To be pressed together or folded by compression into a more economic, easier format.**
 	- _Example: Our new model compresses easily, ideal for storage and travel_
-- **To [[c/_condense|condense]] into a more economic, easier format.**
+- **To condense into a more economic, easier format.**
 	- _Example: This chart compresses the entire audit report into a few lines on a single diagram._
-- **To [[a/_abridge|abridge]].**
+- **To abridge.**
 	- _Example: If you try to compress the entire book into a three-sentence summary, you will lose a lot of information._
-- **To make digital information smaller by encoding it using fewer [[b/_bits|bits]].**
+- **To make digital information smaller by encoding it using fewer bits.**
 - **To embrace sexually.**
 ---
 ### Synonyms
-- [[contract]], [[abridge]], [[condense]], [[shorten]], [[truncate]], [[compact]], [[condense]], [[pack]], [[press]], [[squash]], [[squeeze]]
+- [[[[c/_contract|contract]]]], [[[[a/_abridge|abridge]]]], [[[[c/_condense|condense]]]], [[shorten]], [[truncate]], [[[[c/_compact|compact]]]], [[[[c/_condense|condense]]]], [[pack]], [[press]], [[squash]], [[squeeze]]
 ### Antonyms
 - [[decontract]], [[expand]], [[expand]], [[lengthen]], [[uncompress]]
 #noun
-- **A multiply folded piece of [[c/_cloth|cloth]], a pouch of ice etc., used to [[a/_apply|apply]] to a patient's skin, [[c/_cover|cover]] the dressing of wounds, and placed with the [[a/_aid|aid]] of a [[b/_bandage|bandage]] to [[a/_apply|apply]] pressure on an injury.**
+- **A multiply folded piece of cloth, a pouch of ice etc., used to apply to a patient's skin, cover the dressing of wounds, and placed with the aid of a bandage to apply pressure on an injury.**
 	- _Example: He held a cold compress over the sprain._
-- **A machine for [[c/_compressing|compressing]]**
+- **A machine for compressing**
 ---
 ---

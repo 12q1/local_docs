@@ -2,17 +2,17 @@
 ---
 #verb
 - **To surround; to encircle; to environ; to stretch round.**
-- **To go [[a/_about|about]] or round entirely; to traverse.**
-- **To [[a/_accomplish|accomplish]]; to reach; to [[a/_achieve|achieve]]; to obtain.**
-- **To plot; to scheme ([[a/_against|against]] someone).**
+- **To go about or round entirely; to traverse.**
+- **To accomplish; to reach; to achieve; to obtain.**
+- **To plot; to scheme (against someone).**
 ---
 ### Synonyms
-- [[accomplish]], [[achieve]], [[attain]], [[gain]], [[get]], [[reach]], [[cover]], [[traverse]], [[conspire]], [[plot]], [[scheme]], [[encircle]], [[environ]], [[surround]]
+- [[[[a/_accomplish|accomplish]]]], [[[[a/_achieve|achieve]]]], [[[[a/_attain|attain]]]], [[gain]], [[get]], [[reach]], [[[[c/_cover|cover]]]], [[traverse]], [[[[c/_conspire|conspire]]]], [[plot]], [[scheme]], [[encircle]], [[environ]], [[surround]]
 #noun
 - **The forming of plots or schemes; machination.**
 ---
 #adjective
-- **[[c/_curved|Curved]]; [[b/_bent|bent]]**
+- **Curved; bent**
 	- _Example: compassing timbers_
 ---
 ---

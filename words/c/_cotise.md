@@ -1,9 +1,9 @@
 # Cotise
 ---
 #noun
-- **A diminutive of the [[b/_bendlet|bendlet]], [[c/_containing|containing]] one half its [[a/_area|area]] or one quarter the [[a/_area|area]] of the [[b/_bend|bend]].**
+- **A diminutive of the bendlet, containing one half its area or one quarter the area of the bend.**
 ---
 #verb
-- **To [[b/_border|border]] a [[b/_bend|bend]], etc., with cottises, barrulets, etc.**
+- **To border a bend, etc., with cottises, barrulets, etc.**
 ---
 ---

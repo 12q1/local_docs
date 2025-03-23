@@ -1,7 +1,7 @@
 # Cispontine
 ---
 #adjective
-- **On this side of the [[b/_bridge|bridge]] (or [[b/_bridges|bridges]]).**
+- **On this side of the bridge (or bridges).**
 ---
 ### Antonyms
 - [[transpontine]]

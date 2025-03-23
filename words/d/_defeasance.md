@@ -1,10 +1,10 @@
 # Defeasance
 ---
 #noun
-- **[[d/_destruction|Destruction]], [[d/_defeat|defeat]], overthrow.**
-- **The rendering void of a [[c/_contract|contract]] or [[d/_deed|deed]]; an [[a/_annulment|annulment]] or [[a/_abrogation|abrogation]].**
+- **Destruction, defeat, overthrow.**
+- **The rendering void of a contract or deed; an annulment or abrogation.**
 ---
 #verb
-- **To void; to [[a/_annul|annul]].**
+- **To void; to annul.**
 ---
 ---

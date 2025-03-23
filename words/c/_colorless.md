@@ -1,10 +1,10 @@
 # Colorless
 ---
 #adjective
-- **Having little or no [[c/_colour|colour]].**
+- **Having little or no colour.**
 - **(of a liquid) Water white.**
 - **Lacking in interest or variety.**
 ---
 ### Synonyms
-- [[drab]], [[dull]], [[clear]], [[waterlike]]
+- [[[[d/_drab|drab]]]], [[[[d/_dull|dull]]]], [[[[c/_clear|clear]]]], [[waterlike]]
 ---

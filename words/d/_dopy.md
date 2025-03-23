@@ -1,0 +1,6 @@
+# Dopy
+---
+#adjective
+- **Stupid, silly.**
+---
+---

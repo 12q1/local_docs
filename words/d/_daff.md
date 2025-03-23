@@ -1,6 +1,6 @@
 # Daff
 ---
 #noun
-- **A fool; an idiot; a [[b/_blockhead|blockhead]].**
+- **A fool; an idiot; a blockhead.**
 ---
 ---

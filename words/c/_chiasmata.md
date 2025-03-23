@@ -1,7 +1,7 @@
 # Chiasmata
 ---
 #noun
-- **A [[c/_crossing|crossing]] of two nerves, ligaments etc.**
-- **The [[c/_contact|contact]] point [[b/_between|between]] the two chromatids of a [[c/_chromosome|chromosome]] during meiosis.**
+- **A crossing of two nerves, ligaments etc.**
+- **The contact point between the two chromatids of a chromosome during meiosis.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Confusable
 ---
 #noun
-- **A word or phrase that is easily [[c/_confused|confused]] with [[a/_another|another]]**
+- **A word or phrase that is easily confused with another**
 ---
 #adjective
-- **[[a/_able|Able]] to be [[c/_confused|confused]].**
+- **Able to be confused.**
 ---
 ---

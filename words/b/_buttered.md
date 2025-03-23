@@ -1,13 +1,13 @@
 # Buttered
 ---
 #verb
-- **To spread [[b/_butter|butter]] on.**
+- **To spread butter on.**
 	- _Example: Butter the toast._
-- **To move one's weight [[b/_backwards|backwards]] or forwards onto the tips or tails of one's skis or snowboard so only the tip or tail is in [[c/_contact|contact]] with the snow.**
+- **To move one's weight backwards or forwards onto the tips or tails of one's skis or snowboard so only the tip or tail is in contact with the snow.**
 - **To increase (stakes) at every throw of dice, or every game.**
 ---
 #adjective
-- **Spread with [[b/_butter|butter]].**
+- **Spread with butter.**
 	- _Example: hot buttered toast_
 ---
 ---

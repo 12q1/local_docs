@@ -2,8 +2,8 @@
 ---
 #noun
 - **An Italian sauce made of ground meat and tomato.**
-- **A dish served with [[b/_bolognese|bolognese]].**
+- **A dish served with bolognese.**
 ---
 ### Synonyms
-- [[Bolognese sauce]], [[bol]]
+- [[[[b/_bolognese|Bolognese]] sauce]], [[[[b/_bol|bol]]]]
 ---

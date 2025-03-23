@@ -1,10 +1,10 @@
 # Charisma
 ---
 #noun
-- **Personal [[c/_charm|charm]] or magnetism**
+- **Personal charm or magnetism**
 - **An extraordinary power granted by the Holy Spirit**
-- **The [[a/_ability|ability]] to influence without the use of logic.**
+- **The ability to influence without the use of logic.**
 ---
 ### Synonyms
-- [[charm]], [[spell]]
+- [[[[c/_charm|charm]]]], [[spell]]
 ---

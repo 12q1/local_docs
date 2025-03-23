@@ -1,6 +1,6 @@
 # Codgers
 ---
 #noun
-- **An [[a/_amusingly|amusingly]] eccentric or grumpy and usually elderly man.**
+- **An amusingly eccentric or grumpy and usually elderly man.**
 ---
 ---

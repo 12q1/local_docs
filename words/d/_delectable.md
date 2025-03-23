@@ -1,9 +1,9 @@
 # Delectable
 ---
 #noun
-- **Something that is [[d/_delectable|delectable]].**
+- **Something that is delectable.**
 ---
 #adjective
-- **Highly pleasing; [[d/_delightful|delightful]], especially to [[a/_any|any]] of the senses; [[d/_delicious|delicious]].**
+- **Highly pleasing; delightful, especially to any of the senses; delicious.**
 ---
 ---

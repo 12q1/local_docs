@@ -1,9 +1,9 @@
 # Appositional
 ---
 #noun
-- **A [[c/_compound|compound]] or [[c/_construction|construction]] with [[a/_apposed|apposed]] elements.**
+- **A compound or construction with apposed elements.**
 ---
 #adjective
-- **Relating to [[a/_apposition|apposition]].**
+- **Relating to apposition.**
 ---
 ---

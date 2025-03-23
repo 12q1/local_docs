@@ -1,8 +1,8 @@
 # Counteroffensives
 ---
 #noun
-- **An [[a/_attack|attack]] made in response to a previous offensive, and intended to stop it.**
+- **An attack made in response to a previous offensive, and intended to stop it.**
 ---
 ### Synonyms
-- [[counter-attack]]
+- [[[[c/_counter|counter]]-[[a/_attack|attack]]]]
 ---

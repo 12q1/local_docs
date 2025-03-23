@@ -1,11 +1,11 @@
 # Bubbies
 ---
 #noun
-- **A woman's [[b/_breast|breast]].**
+- **A woman's breast.**
 ---
 ### Synonyms
-- [[bub]]
+- [[[[b/_bub|bub]]]]
 #noun
-- **Familiar term of [[a/_address|address]] for a [[b/_boy|boy]]; [[b/_bub|bub]]; [[b/_bubba|bubba]].**
+- **Familiar term of address for a boy; bub; bubba.**
 ---
 ---

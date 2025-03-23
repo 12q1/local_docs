@@ -1,6 +1,6 @@
 # Bowsprits
 ---
 #noun
-- **A spar projecting over the prow of a sailing vessel to provide the means of [[a/_adding|adding]] sail surface.**
+- **A spar projecting over the prow of a sailing vessel to provide the means of adding sail surface.**
 ---
 ---

@@ -1,13 +1,13 @@
 # Bewildering
 ---
 #verb
-- **To [[c/_confuse|confuse]], disorientate, or puzzle someone, especially with many different [[c/_choices|choices]].**
+- **To confuse, disorientate, or puzzle someone, especially with many different choices.**
 	- _Example: All the different possible options may bewilder us._
 ---
 ### Synonyms
-- [[befuddle]]
+- [[[[b/_befuddle|befuddle]]]]
 #adjective
-- **Very [[c/_confusing|confusing]], perplexing, or [[b/_baffling|baffling]], often due to a very large [[c/_choice|choice]] [[b/_being|being]] [[a/_available|available]].**
+- **Very confusing, perplexing, or baffling, often due to a very large choice being available.**
 	- _Example: There was a bewildering collection of curiosities filling the room._
 ---
 ---

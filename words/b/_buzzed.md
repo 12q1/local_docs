@@ -1,14 +1,14 @@
 # Buzzed
 ---
 #verb
-- **To make a low, [[c/_continuous|continuous]], humming or sibilant sound, like that made by [[b/_bees|bees]] with their wings.**
-- **To show a high level of [[a/_activity|activity]] and haste ([[a/_alluding|alluding]] to the [[c/_common|common]] simile "[[b/_busy|busy]] as a [[b/_bee|bee]]"). Often in the [[c/_colloquial|colloquial]] imperative "[[b/_buzz|Buzz]] off!"**
-- **To whisper; to [[c/_communicate|communicate]], as tales, in an undertone; to spread, as a report, by whispers or secretly.**
-- **To talk to incessantly or [[c/_confidentially|confidentially]] in a low humming voice.**
-- **To fly at high speed and at a very low [[a/_altitude|altitude]] over a specified [[a/_area|area]], as to make a surprise pass.**
-- **To [[c/_cut|cut]] the hair in a [[c/_close|close]]-[[c/_cropped|cropped]] military style, or buzzcut.**
-- **To drink to the [[b/_bottom|bottom]].**
-- **To [[c/_communicate|communicate]] with (a person) by means of a [[b/_buzzer|buzzer]].**
+- **To make a low, continuous, humming or sibilant sound, like that made by bees with their wings.**
+- **To show a high level of activity and haste (alluding to the common simile "busy as a bee"). Often in the colloquial imperative "Buzz off!"**
+- **To whisper; to communicate, as tales, in an undertone; to spread, as a report, by whispers or secretly.**
+- **To talk to incessantly or confidentially in a low humming voice.**
+- **To fly at high speed and at a very low altitude over a specified area, as to make a surprise pass.**
+- **To cut the hair in a close-cropped military style, or buzzcut.**
+- **To drink to the bottom.**
+- **To communicate with (a person) by means of a buzzer.**
 ---
 #adjective
 - **Slightly intoxicated.**

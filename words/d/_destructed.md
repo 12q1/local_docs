@@ -1,9 +1,9 @@
 # Destructed
 ---
 #verb
-- **To intentionally [[c/_cause|cause]] the [[d/_destruction|destruction]] of.**
-- **To self-[[d/_destruct|destruct]].**
+- **To intentionally cause the destruction of.**
+- **To self-destruct.**
 ---
 ### Synonyms
-- [[destroy]]
+- [[[[d/_destroy|destroy]]]]
 ---

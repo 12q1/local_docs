@@ -1,7 +1,7 @@
 # Aesthetician
 ---
 #noun
-- **One who studies [[a/_aesthetics|aesthetics]]; a student of [[a/_art|art]] or [[b/_beauty|beauty]].**
-- **A [[b/_beautician|beautician]]; somebody employed to provide [[b/_beauty|beauty]] treatments such as manicures and facials.**
+- **One who studies aesthetics; a student of art or beauty.**
+- **A beautician; somebody employed to provide beauty treatments such as manicures and facials.**
 ---
 ---

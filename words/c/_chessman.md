@@ -1,6 +1,6 @@
 # Chessman
 ---
 #noun
-- **A [[c/_chess|chess]] piece.**
+- **A chess piece.**
 ---
 ---

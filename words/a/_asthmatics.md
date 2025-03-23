@@ -1,6 +1,6 @@
 # Asthmatics
 ---
 #noun
-- **A person who suffers from [[a/_asthma|asthma]].**
+- **A person who suffers from asthma.**
 ---
 ---

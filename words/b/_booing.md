@@ -1,14 +1,14 @@
 # Booing
 ---
 #verb
-- **To shout extended [[b/_boos|boos]] [[d/_derisively|derisively]].**
+- **To shout extended boos derisively.**
 	- _Example: When he took the podium, the crowd booed._
-- **To shout extended [[b/_boos|boos]] at, as a form of [[d/_derision|derision]].**
+- **To shout extended boos at, as a form of derision.**
 	- _Example: The protesters loudly booed the visiting senator._
 ---
 ### Antonyms
-- [[cheer]]
+- [[[[c/_cheer|cheer]]]]
 #noun
-- **A disapproving exclamation by a member of an [[a/_audience|audience]].**
+- **A disapproving exclamation by a member of an audience.**
 ---
 ---

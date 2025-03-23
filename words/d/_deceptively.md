@@ -1,6 +1,6 @@
 # Deceptively
 ---
 #adverb
-- **In a [[d/_deceptive|deceptive]] manner.**
+- **In a deceptive manner.**
 ---
 ---

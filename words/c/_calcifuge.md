@@ -1,8 +1,8 @@
 # Calcifuge
 ---
 #noun
-- **[[a/_any|Any]] plant that does not thrive in a soil rich in lime or [[c/_chalk|chalk]]**
+- **Any plant that does not thrive in a soil rich in lime or chalk**
 ---
 ### Antonyms
-- [[calcicole]], [[calciphyte]]
+- [[[[c/_calcicole|calcicole]]]], [[calciphyte]]
 ---

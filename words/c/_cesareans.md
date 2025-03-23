@@ -1,11 +1,11 @@
 # Cesareans
 ---
 #noun
-- **An inhabitant/[[c/_citizen|citizen]] of Caesarea.**
+- **An inhabitant/citizen of Caesarea.**
 ---
 #noun
-- **A [[c/_caesarean|Caesarean]] section.**
+- **A Caesarean section.**
 ---
 ### Synonyms
-- [[C-section]], [[c-section]]
+- [[[[c/_c|C]]-section]], [[[[c/_c|c]]-section]]
 ---

@@ -6,5 +6,5 @@
 ### Synonyms
 - [[retrogression]]
 ### Antonyms
-- [[amelioration]]
+- [[[[a/_amelioration|amelioration]]]]
 ---

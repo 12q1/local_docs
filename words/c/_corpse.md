@@ -1,11 +1,11 @@
 # Corpse
 ---
 #noun
-- **A [[d/_dead|dead]] [[b/_body|body]].**
+- **A dead body.**
 	- _Example: Drive over the [expletive] corpses! Or we're not letting you in!_
-- **(sometimes [[d/_derogatory|derogatory]]) A human [[b/_body|body]] in general, whether living or [[d/_dead|dead]].**
+- **(sometimes derogatory) A human body in general, whether living or dead.**
 ---
 #verb
-- **(of an [[a/_actor|actor]]) To lose [[c/_control|control]] during a performance and laugh uncontrollably.**
+- **(of an actor) To lose control during a performance and laugh uncontrollably.**
 ---
 ---

@@ -9,23 +9,23 @@
 	- _Example: His plan to take over the business was blocked by the boss._
 - **To impede an opponent.**
 	- _Example: He blocked the basketball player's shot._
-- **To specify the positions and movements of the [[a/_actors|actors]].**
+- **To specify the positions and movements of the actors.**
 	- _Example: It was very difficult to block this scene convincingly._
-- **To hit with a [[b/_block|block]].**
-- **To play a [[b/_block|block]] shot.**
-- **To disable [[c/_communication|communication]] via telephone, instant messaging, etc., with an undesirable someone.**
+- **To hit with a block.**
+- **To play a block shot.**
+- **To disable communication via telephone, instant messaging, etc., with an undesirable someone.**
 	- _Example: I tried to send you a message, but you've blocked me!_
 - **To wait.**
 	- _Example: When the condition expression is false, the thread blocks on the condition variable._
-- **To stretch or mould (a knitted item, a hat, etc.) into the [[d/_desired|desired]] shape.**
+- **To stretch or mould (a knitted item, a hat, etc.) into the desired shape.**
 	- _Example: I blocked the mittens by wetting them and pinning them to a shaped piece of cardboard._
 - **To shape or sketch out roughly.**
 ---
 #noun
-- **The [[a/_act|act]] by which something is [[b/_blocked|blocked]]; an obstruction.**
+- **The act by which something is blocked; an obstruction.**
 	- _Example: blocking of major opposition sites_
-- **The precise movement and positioning of [[a/_actors|actors]] on a stage in order to facilitate the performance of a play, [[b/_ballet|ballet]], film or opera (originally planned using miniature [[b/_blocks|blocks]]).**
-- **[[b/_blocks|Blocks]] used to support (a [[b/_building|building]], etc.) temporarily.**
-- **A feature that prevents a keyboard from registering multiple simultaneous keypresses that would [[c/_cause|cause]] ghosting.**
+- **The precise movement and positioning of actors on a stage in order to facilitate the performance of a play, ballet, film or opera (originally planned using miniature blocks).**
+- **Blocks used to support (a building, etc.) temporarily.**
+- **A feature that prevents a keyboard from registering multiple simultaneous keypresses that would cause ghosting.**
 ---
 ---

@@ -1,48 +1,48 @@
 # Bills
 ---
 #noun
-- **[[a/_any|Any]] of various [[b/_bladed|bladed]] or pointed hand weapons, originally [[d/_designating|designating]] an [[a/_anglo|Anglo]]-Saxon sword, and later a weapon of infantry, especially in the 14th and 15th [[c/_centuries|centuries]], [[c/_commonly|commonly]] [[c/_consisting|consisting]] of a [[b/_broad|broad]], heavy, double-edged, hook-shaped [[b/_blade|blade]], with a short pike at the [[b/_back|back]] and [[a/_another|another]] at the top, [[a/_attached|attached]] to the end of a long staff.**
-- **A [[c/_cutting|cutting]] instrument, with hook-shaped point, and fitted with a handle, used in pruning, etc.; a [[b/_billhook|billhook]].**
-- **Somebody [[a/_armed|armed]] with a [[b/_bill|bill]]; a [[b/_billman|billman]].**
+- **Any of various bladed or pointed hand weapons, originally designating an Anglo-Saxon sword, and later a weapon of infantry, especially in the 14th and 15th centuries, commonly consisting of a broad, heavy, double-edged, hook-shaped blade, with a short pike at the back and another at the top, attached to the end of a long staff.**
+- **A cutting instrument, with hook-shaped point, and fitted with a handle, used in pruning, etc.; a billhook.**
+- **Somebody armed with a bill; a billman.**
 - **A pickaxe, or mattock.**
-- **The extremity of the [[a/_arm|arm]] of an [[a/_anchor|anchor]]; the point of or [[b/_beyond|beyond]] the fluke ([[a/_also|also]] [[c/_called|called]] the peak).**
+- **The extremity of the arm of an anchor; the point of or beyond the fluke (also called the peak).**
 ---
 ### Synonyms
-- [[billhook]], [[hand bill]], [[hedge bill]], [[billman]], [[polearm]]
+- [[[[b/_billhook|billhook]]]], [[hand [[b/_bill|bill]]]], [[hedge [[b/_bill|bill]]]], [[[[b/_billman|billman]]]], [[polearm]]
 #verb
-- **To dig, [[c/_chop|chop]], etc., with a [[b/_bill|bill]].**
+- **To dig, chop, etc., with a bill.**
 ---
 #noun
-- **The [[b/_beak|beak]] of a [[b/_bird|bird]], especially when small or flattish; sometimes [[a/_also|also]] used with reference to a platypus, turtle, or other [[a/_animal|animal]].**
-- **A [[b/_beak|beak]]-like projection, especially a promontory.**
-- **Of a [[c/_cap|cap]] or hat: the [[b/_brim|brim]] or peak, serving as a shade to keep sun off the face and out of the eyes.**
+- **The beak of a bird, especially when small or flattish; sometimes also used with reference to a platypus, turtle, or other animal.**
+- **A beak-like projection, especially a promontory.**
+- **Of a cap or hat: the brim or peak, serving as a shade to keep sun off the face and out of the eyes.**
 ---
 ### Synonyms
-- [[beak]], [[neb]], [[nib]], [[pecker]]
+- [[[[b/_beak|beak]]]], [[neb]], [[nib]], [[pecker]]
 #verb
 - **To peck**
-- **To stroke [[b/_bill|bill]] [[a/_against|against]] [[b/_bill|bill]], with reference to doves; to [[c/_caress|caress]] in fondness**
+- **To stroke bill against bill, with reference to doves; to caress in fondness**
 ---
 #noun
-- **A written list or inventory. (Now obsolete except in specific senses or set phrases; [[b/_bill|bill]] of lading, [[b/_bill|bill]] of goods, etc.)**
-- **A document, originally sealed; a formal statement or official memorandum. (Now obsolete except with [[c/_certain|certain]] qualifying words; [[b/_bill|bill]] of health, [[b/_bill|bill]] of sale etc.)**
+- **A written list or inventory. (Now obsolete except in specific senses or set phrases; bill of lading, bill of goods, etc.)**
+- **A document, originally sealed; a formal statement or official memorandum. (Now obsolete except with certain qualifying words; bill of health, bill of sale etc.)**
 - **A draft of a law, presented to a legislature for enactment; a proposed or projected law.**
-- **A [[d/_declaration|declaration]] made in writing, stating some wrong the [[c/_complainant|complainant]] has suffered from the [[d/_defendant|defendant]], or a fault [[c/_committed|committed]] by some person [[a/_against|against]] a law.**
-- **A piece of paper money; a [[b/_banknote|banknote]].**
-- **A written note of goods sold, services rendered, or work done, with the price or [[c/_charge|charge]]; an invoice.**
-- **A paper, written or printed, and posted up or given [[a/_away|away]], to [[a/_advertise|advertise]] something, as a lecture, a play, or the sale of goods**
-- **A writing [[b/_binding|binding]] the signer or signers to pay a [[c/_certain|certain]] sum at a future [[d/_day|day]] or on [[d/_demand|demand]], with or without interest, as may be stated in the document; a [[b/_bill|bill]] of exchange. In the United States, it is usually [[c/_called|called]] a note, a note of hand, or a promissory note.**
+- **A declaration made in writing, stating some wrong the complainant has suffered from the defendant, or a fault committed by some person against a law.**
+- **A piece of paper money; a banknote.**
+- **A written note of goods sold, services rendered, or work done, with the price or charge; an invoice.**
+- **A paper, written or printed, and posted up or given away, to advertise something, as a lecture, a play, or the sale of goods**
+- **A writing binding the signer or signers to pay a certain sum at a future day or on demand, with or without interest, as may be stated in the document; a bill of exchange. In the United States, it is usually called a note, a note of hand, or a promissory note.**
 - **A set of items presented together.**
 ---
 ### Synonyms
-- [[notice]], [[placard]], [[broadsheet]], [[broadside]], [[card]], [[circular]], [[flier]], [[flyer]], [[handbill]], [[poster]], [[posting]], [[throwaway]], [[Federal Reserve note]], [[bank bill]], [[bank note]], [[banker's bill]], [[banknote]], [[government note]], [[greenback]], [[note]], [[account]], [[invoice]], [[measure]]
+- [[notice]], [[placard]], [[[[b/_broadsheet|broadsheet]]]], [[[[b/_broadside|broadside]]]], [[[[c/_card|card]]]], [[[[c/_circular|circular]]]], [[flier]], [[flyer]], [[handbill]], [[poster]], [[posting]], [[throwaway]], [[Federal Reserve note]], [[[[b/_bank|bank]] [[b/_bill|bill]]]], [[[[b/_bank|bank]] note]], [[[[b/_banker|banker]]'s [[b/_bill|bill]]]], [[[[b/_banknote|banknote]]]], [[government note]], [[greenback]], [[note]], [[[[a/_account|account]]]], [[invoice]], [[measure]]
 #verb
-- **To [[a/_advertise|advertise]] by a [[b/_bill|bill]] or public notice.**
-- **To [[c/_charge|charge]]; to send a [[b/_bill|bill]] to.**
+- **To advertise by a bill or public notice.**
+- **To charge; to send a bill to.**
 ---
 ### Synonyms
-- [[charge]], [[placard]]
+- [[[[c/_charge|charge]]]], [[placard]]
 #noun
-- **The [[b/_bell|bell]], or [[b/_boom|boom]], of the [[b/_bittern|bittern]].**
+- **The bell, or boom, of the bittern.**
 ---
 ---

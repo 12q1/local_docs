@@ -1,6 +1,6 @@
 # Bejewels
 ---
 #verb
-- **To [[d/_decorate|decorate]] or [[b/_bedeck|bedeck]] with jewels or gems.**
+- **To decorate or bedeck with jewels or gems.**
 ---
 ---

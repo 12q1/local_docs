@@ -1,10 +1,10 @@
 # Cellared
 ---
 #verb
-- **To store in a [[c/_cellar|cellar]].**
+- **To store in a cellar.**
 ---
 #adjective
-- **Provided with a [[c/_cellar|cellar]].**
+- **Provided with a cellar.**
 	- _Example: a cellared building_
 ---
 ---

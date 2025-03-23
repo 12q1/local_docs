@@ -1,10 +1,10 @@
 # Collaborative
 ---
 #noun
-- **An organized group of people or entities who [[c/_collaborate|collaborate]] towards a particular goal**
+- **An organized group of people or entities who collaborate towards a particular goal**
 ---
 #adjective
-- **Of, relating to, or done by [[c/_collaboration|collaboration]].**
+- **Of, relating to, or done by collaboration.**
 	- _Example: No need to thank me - it was a collaborative effort._
 ---
 ---

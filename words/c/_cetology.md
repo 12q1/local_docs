@@ -1,6 +1,6 @@
 # Cetology
 ---
 #noun
-- **The [[b/_branch|branch]] of zoology [[c/_concerned|concerned]] with the order [[c/_cetacea|Cetacea]], which includes whales, dolphins, and porpoises.**
+- **The branch of zoology concerned with the order Cetacea, which includes whales, dolphins, and porpoises.**
 ---
 ---

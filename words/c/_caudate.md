@@ -1,12 +1,12 @@
 # Caudate
 ---
 #noun
-- **[[a/_any|Any]] member of the [[c/_caudata|Caudata]] order of [[a/_amphibians|amphibians]].**
+- **Any member of the Caudata order of amphibians.**
 ---
 #adjective
-- **Tapering into a long, tail-like extension at the [[a/_apex|apex]].**
+- **Tapering into a long, tail-like extension at the apex.**
 - **Having a tail.**
-- **Of or pertaining to the [[c/_caudata|Caudata]] order of [[a/_amphibians|amphibians]].**
-- **Indicates an [[a/_anatomical|anatomical]] structure with a tail-like extension, such as the [[c/_caudate|Caudate]] nucleus.**
+- **Of or pertaining to the Caudata order of amphibians.**
+- **Indicates an anatomical structure with a tail-like extension, such as the Caudate nucleus.**
 ---
 ---

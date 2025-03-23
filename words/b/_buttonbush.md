@@ -1,7 +1,7 @@
 # Buttonbush
 ---
 #noun
-- **[[a/_any|Any]] of the genus [[c/_cephalanthus|Cephalanthus]] of flowering plants in the madder family.**
-- **[[a/_any|Any]] of the genus [[c/_conocarpus|Conocarpus]] of two species of tropical flowering plants; a mangrove.**
+- **Any of the genus Cephalanthus of flowering plants in the madder family.**
+- **Any of the genus Conocarpus of two species of tropical flowering plants; a mangrove.**
 ---
 ---

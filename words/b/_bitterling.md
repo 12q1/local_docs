@@ -1,9 +1,9 @@
 # Bitterling
 ---
 #noun
-- **[[a/_any|Any]] of various species of small [[c/_cyprinid|cyprinid]] fish in the genus Rhodeus.**
-- **Specifically Rhodeus amarus, formerly [[c/_called|called]] Rhodeus sericeus.**
+- **Any of various species of small cyprinid fish in the genus Rhodeus.**
+- **Specifically Rhodeus amarus, formerly called Rhodeus sericeus.**
 ---
 ### Synonyms
-- [[European bitterling]]
+- [[European [[b/_bitterling|bitterling]]]]
 ---

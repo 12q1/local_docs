@@ -1,14 +1,14 @@
 # Blazoning
 ---
 #verb
-- **To [[d/_describe|describe]] a [[c/_coat|coat]] of [[a/_arms|arms]].**
+- **To describe a coat of arms.**
 - **To make widely or generally known, to proclaim.**
-- **To display [[c/_conspicuously|conspicuously]] or publicly.**
-- **To shine; to be [[c/_conspicuous|conspicuous]].**
-- **To [[d/_deck|deck]]; to embellish; to [[a/_adorn|adorn]].**
+- **To display conspicuously or publicly.**
+- **To shine; to be conspicuous.**
+- **To deck; to embellish; to adorn.**
 ---
 #noun
-- **The [[a/_action|action]] of the verb to [[b/_blazon|blazon]]; the [[a/_activity|activity]] of [[d/_describing|describing]] heraldic [[c/_coats|coats]] of [[a/_arms|arms]].**
+- **The action of the verb to blazon; the activity of describing heraldic coats of arms.**
 	- _Example: The blazoning of the knights' shields was done by heralds._
 ---
 ---

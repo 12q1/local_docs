@@ -1,6 +1,6 @@
 # Caesium
 ---
 #noun
-- **The [[c/_chemical|chemical]] element (symbol [[c/_cs|Cs]]) with an [[a/_atomic|atomic]] number of 55. It is a soft, gold-[[c/_colored|colored]], highly reactive [[a/_alkali|alkali]] metal.**
+- **The chemical element (symbol Cs) with an atomic number of 55. It is a soft, gold-colored, highly reactive alkali metal.**
 ---
 ---

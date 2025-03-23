@@ -1,7 +1,7 @@
 # Colugos
 ---
 #noun
-- **An [[a/_arboreal|arboreal]] gliding mammal of the family Cynocephalidae native to South-east [[a/_asia|Asia]].**
+- **An arboreal gliding mammal of the family Cynocephalidae native to South-east Asia.**
 ---
 ### Synonyms
 - [[flying lemur]]

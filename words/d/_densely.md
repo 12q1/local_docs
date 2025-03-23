@@ -1,7 +1,7 @@
 # Densely
 ---
 #adverb
-- **In a [[d/_dense|dense]] manner.**
+- **In a dense manner.**
 	- _Example: The forest was densely populated with trees._
 ---
 ---

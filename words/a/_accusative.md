@@ -1,14 +1,14 @@
 # Accusative
 ---
 #noun
-- **(grammar) The [[a/_accusative|accusative]] [[c/_case|case]].**
+- **(grammar) The accusative case.**
 ---
 ### Synonyms
-- [[A.]], [[acc.]]
+- [[A.]], [[[[a/_acc|acc]].]]
 #adjective
-- **Producing [[a/_accusations|accusations]]; in a manner that reflects a finding of fault or [[b/_blame|blame]]**
-- **(grammar) [[a/_applied|Applied]] to the [[c/_case|case]] (as the fourth [[c/_case|case]] of Latin, Lithuanian and Greek nouns) which expresses the immediate object on which the [[a/_action|action]] or influence of a transitive verb has its limited influence. Other parts of speech, including secondary or predicate direct objects, will [[a/_also|also]] influence a sentence’s [[c/_construction|construction]]. In German the [[c/_case|case]] used for direct objects.**
+- **Producing accusations; in a manner that reflects a finding of fault or blame**
+- **(grammar) Applied to the case (as the fourth case of Latin, Lithuanian and Greek nouns) which expresses the immediate object on which the action or influence of a transitive verb has its limited influence. Other parts of speech, including secondary or predicate direct objects, will also influence a sentence’s construction. In German the case used for direct objects.**
 ---
 ### Synonyms
-- [[accusatorial]], [[accusatory]]
+- [[[[a/_accusatorial|accusatorial]]]], [[[[a/_accusatory|accusatory]]]]
 ---

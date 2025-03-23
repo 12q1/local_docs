@@ -1,9 +1,9 @@
 # Desi
 ---
 #noun
-- **A member of the South [[a/_asian|Asian]] diaspora.**
+- **A member of the South Asian diaspora.**
 ---
 #adjective
-- **Of or pertaining to the [[c/_culture|culture]], people, or products of India; Indian.**
+- **Of or pertaining to the culture, people, or products of India; Indian.**
 ---
 ---

@@ -1,12 +1,12 @@
 # Ambiguities
 ---
 #noun
-- **Something, particularly words and sentences, that is open to more than one interpretation, explanation or meaning, if that meaning etc [[c/_cannot|cannot]] be [[d/_determined|determined]] from its [[c/_context|context]].**
+- **Something, particularly words and sentences, that is open to more than one interpretation, explanation or meaning, if that meaning etc cannot be determined from its context.**
 	- _Example: His speech was made with such great ambiguity that neither supporter nor opponent could be certain of his true position._
-- **The state of [[b/_being|being]] [[a/_ambiguous|ambiguous]].**
+- **The state of being ambiguous.**
 ---
 ### Synonyms
-- [[ambiguousness]], [[imprecision]], [[polysemy]], [[weasel word]]
+- [[[[a/_ambiguousness|ambiguousness]]]], [[imprecision]], [[polysemy]], [[weasel word]]
 ### Antonyms
 - [[unambiguity]]
 ---

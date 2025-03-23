@@ -1,10 +1,10 @@
 # Crackpots
 ---
 #noun
-- **An eccentric, [[c/_crazy|crazy]] or foolish person. A kook.**
+- **An eccentric, crazy or foolish person. A kook.**
 	- _Example: Time will tell whether he is a crackpot or a genius for promoting that sort of idea._
-- **Someone [[a/_addicted|addicted]] to [[c/_crack|crack]] [[c/_cocaine|cocaine]] (i.e. a drug [[a/_addict|addict]]).**
+- **Someone addicted to crack cocaine (i.e. a drug addict).**
 ---
 ### Synonyms
-- [[crack whore]], [[crackhead]], [[crank]], [[crazy]], [[kook]], [[live one]], [[nut ball]], [[nutbag]], [[nutbar]], [[nutcase]], [[nutter]]
+- [[[[c/_crack|crack]] whore]], [[crackhead]], [[[[c/_crank|crank]]]], [[[[c/_crazy|crazy]]]], [[kook]], [[live one]], [[nut [[b/_ball|ball]]]], [[nutbag]], [[nutbar]], [[nutcase]], [[nutter]]
 ---

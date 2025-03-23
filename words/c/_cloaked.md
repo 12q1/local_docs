@@ -1,14 +1,14 @@
 # Cloaked
 ---
 #verb
-- **To [[c/_cover|cover]] as with a [[c/_cloak|cloak]].**
-- **To hide or [[c/_conceal|conceal]].**
-- **To render or [[b/_become|become]] invisible via futuristic technology.**
+- **To cover as with a cloak.**
+- **To hide or conceal.**
+- **To render or become invisible via futuristic technology.**
 	- _Example: The ship cloaked before entering the enemy sector of space._
 ---
 #adjective
-- **Wearing a [[c/_cloak|cloak]].**
-- **[[c/_covered|Covered]], hidden, disguised.**
+- **Wearing a cloak.**
+- **Covered, hidden, disguised.**
 	- _Example: He was a tall dark man, cloaked in mystery._
 ---
 ---

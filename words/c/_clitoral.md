@@ -1,8 +1,8 @@
 # Clitoral
 ---
 #adjective
-- **Of, or relating to the [[c/_clitoris|clitoris]]**
+- **Of, or relating to the clitoris**
 ---
 ### Synonyms
-- [[clitoric]]
+- [[[[c/_clitoric|clitoric]]]]
 ---

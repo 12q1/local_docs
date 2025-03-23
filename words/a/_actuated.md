@@ -1,7 +1,7 @@
 # Actuated
 ---
 #verb
-- **To [[a/_activate|activate]], or to put into motion; to [[a/_animate|animate]].**
-- **To incite to [[a/_action|action]]; to motivate.**
+- **To activate, or to put into motion; to animate.**
+- **To incite to action; to motivate.**
 ---
 ---

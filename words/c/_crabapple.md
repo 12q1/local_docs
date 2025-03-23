@@ -1,10 +1,10 @@
 # Crabapple
 ---
 #noun
-- **[[a/_any|Any]] of the wild species of [[a/_apple|apple]] tree, genus Malus, which generally yield small, [[b/_bitter|bitter]] fruit (in [[c/_comparison|comparison]] to domestic [[a/_apples|apples]], Malus domestica).**
+- **Any of the wild species of apple tree, genus Malus, which generally yield small, bitter fruit (in comparison to domestic apples, Malus domestica).**
 - **The fruit of this tree.**
-- **An unpleasant person; a person who is [[c/_crabby|crabby]].**
+- **An unpleasant person; a person who is crabby.**
 ---
 ### Synonyms
-- [[grouch]], [[grump]], [[misery]], [[moaner]], [[crab]], [[crab]], [[crab tree]]
+- [[grouch]], [[grump]], [[misery]], [[moaner]], [[[[c/_crab|crab]]]], [[[[c/_crab|crab]]]], [[[[c/_crab|crab]] tree]]
 ---

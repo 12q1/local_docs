@@ -1,8 +1,8 @@
 # Boatman
 ---
 #noun
-- **A man in [[c/_charge|charge]] of a small [[b/_boat|boat]].**
+- **A man in charge of a small boat.**
 ---
 ### Synonyms
-- [[boater]], [[boatsman]]
+- [[[[b/_boater|boater]]]], [[[[b/_boatsman|boatsman]]]]
 ---

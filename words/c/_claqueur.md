@@ -1,6 +1,6 @@
 # Claqueur
 ---
 #noun
-- **One of the [[c/_claque|claque]] employed to [[a/_applaud|applaud]] at a theatre.**
+- **One of the claque employed to applaud at a theatre.**
 ---
 ---

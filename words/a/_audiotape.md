@@ -1,10 +1,10 @@
 # Audiotape
 ---
 #noun
-- **A magnetic tape that stores [[a/_analog|analog]] sound for later playback on a tape player.**
-- **[[a/_any|Any]] of a [[c/_cassette|cassette]] tape, eight-track tape, reel-to-reel tape, [[d/_dat|DAT]], etc.**
+- **A magnetic tape that stores analog sound for later playback on a tape player.**
+- **Any of a cassette tape, eight-track tape, reel-to-reel tape, DAT, etc.**
 ---
 #verb
-- **To record onto [[a/_audiotape|audiotape]].**
+- **To record onto audiotape.**
 ---
 ---

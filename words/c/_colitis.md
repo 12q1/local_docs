@@ -1,10 +1,10 @@
 # Colitis
 ---
 #noun
-- **Inflammation of the [[c/_colon|colon]].**
-- **Short for ulcerative [[c/_colitis|colitis]].**
+- **Inflammation of the colon.**
+- **Short for ulcerative colitis.**
 	- _Example: Crohn's disease and colitis_
 ---
 ### Synonyms
-- [[colonitis]]
+- [[[[c/_colonitis|colonitis]]]]
 ---

@@ -1,15 +1,15 @@
 # Airborne
 ---
 #noun
-- **Military infantry intended to be transported by [[a/_air|air]] and [[d/_delivered|delivered]] to the [[b/_battlefield|battlefield]] by parachute or helicopter.**
+- **Military infantry intended to be transported by air and delivered to the battlefield by parachute or helicopter.**
 ---
 #adjective
-- **In or [[c/_carried|carried]] by the [[a/_air|air]].**
+- **In or carried by the air.**
 	- _Example: Airborne pollen can aggravate allergies._
 - **In flight.**
-- **Fitted to an [[a/_aircraft|aircraft]].**
+- **Fitted to an aircraft.**
 	- _Example: airborne radar_
-- **Transported by [[a/_air|air]] in an [[a/_aircraft|aircraft]].**
+- **Transported by air in an aircraft.**
 	- _Example: airborne troops_
 ---
 ---

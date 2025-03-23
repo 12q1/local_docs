@@ -1,6 +1,6 @@
 # Allanite
 ---
 #noun
-- **[[a/_any|Any]] of a group of silicate minerals that are a source of rare earth metals.**
+- **Any of a group of silicate minerals that are a source of rare earth metals.**
 ---
 ---

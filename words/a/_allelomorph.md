@@ -1,8 +1,8 @@
 # Allelomorph
 ---
 #noun
-- **One of a number of [[a/_alternative|alternative]] forms of the same gene occupying a given position, or locus, on a [[c/_chromosome|chromosome]].**
+- **One of a number of alternative forms of the same gene occupying a given position, or locus, on a chromosome.**
 ---
 ### Synonyms
-- [[allelomorph]]
+- [[[[a/_allelomorph|allelomorph]]]]
 ---

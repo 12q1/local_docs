@@ -1,7 +1,7 @@
 # Airwaves
 ---
 #noun
-- **Radio-frequency electromagnetic waves, usually used in the [[c/_context|context]] of wireless [[c/_communication|communication]]; radio waves.**
-- **Radio or television [[b/_broadcasts|broadcasts]].**
+- **Radio-frequency electromagnetic waves, usually used in the context of wireless communication; radio waves.**
+- **Radio or television broadcasts.**
 ---
 ---

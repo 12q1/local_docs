@@ -1,7 +1,7 @@
 # Adequate
 ---
 #verb
-- **To equalize; to make [[a/_adequate|adequate]].**
+- **To equalize; to make adequate.**
 - **To equal.**
 ---
 #adjective
@@ -9,7 +9,7 @@
 	- _Example: an adequate definition_
 ---
 ### Synonyms
-- [[acceptable]], [[correspondent]], [[proportionate]], [[satisfactory]], [[sufficient]]
+- [[[[a/_acceptable|acceptable]]]], [[[[c/_correspondent|correspondent]]]], [[proportionate]], [[satisfactory]], [[sufficient]]
 ### Antonyms
 - [[inadequate]]
 ---

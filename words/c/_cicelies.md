@@ -1,8 +1,8 @@
 # Cicelies
 ---
 #noun
-- **Myrrhis odorata, a plant in the genus Myrrhis, in the family [[a/_apiaceae|Apiaceae]].**
-- **Sweetroot, [[a/_any|any]] of several plants in the genus Osmorhiza**
+- **Myrrhis odorata, a plant in the genus Myrrhis, in the family Apiaceae.**
+- **Sweetroot, any of several plants in the genus Osmorhiza**
 ---
 ### Synonyms
 - [[myrrh]]

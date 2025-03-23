@@ -1,0 +1,6 @@
+# Downfold
+---
+#noun
+- **A syncline.**
+---
+---

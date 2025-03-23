@@ -1,7 +1,7 @@
 # Corposant
 ---
 #noun
-- **An electrical discharge [[a/_accompanied|accompanied]] by a [[c/_corona|corona]] of ionization in the surrounding [[a/_atmosphere|atmosphere]]**
+- **An electrical discharge accompanied by a corona of ionization in the surrounding atmosphere**
 ---
 ### Synonyms
 - [[Saint Elmo's fire]], [[St. Elmo's fire]]

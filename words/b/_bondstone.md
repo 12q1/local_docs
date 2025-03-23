@@ -1,6 +1,6 @@
 # Bondstone
 ---
 #noun
-- **A stone for [[b/_bonding|bonding]] masonry to a similar [[b/_backing|backing]]; a stone that reaches a [[c/_considerable|considerable]] distance into, or entirely through a wall, for the purpose of [[b/_binding|binding]] it together.**
+- **A stone for bonding masonry to a similar backing; a stone that reaches a considerable distance into, or entirely through a wall, for the purpose of binding it together.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Apiculture
 ---
 #noun
-- **The keeping and maintenance of [[b/_bees|bees]] for [[c/_commercial|commercial]] reasons.**
+- **The keeping and maintenance of bees for commercial reasons.**
 ---
 ### Synonyms
-- [[beekeeping]]
+- [[[[b/_beekeeping|beekeeping]]]]
 ---

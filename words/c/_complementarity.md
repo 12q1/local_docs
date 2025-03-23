@@ -1,7 +1,7 @@
 # Complementarity
 ---
 #noun
-- **The state or [[c/_characteristic|characteristic]] of [[b/_being|being]] [[c/_complementary|complementary]].**
-- **A semantic relationship [[b/_between|between]] two words wherein negative use of one entails the [[a/_affirmative|affirmative]] of the other with no gradability; the relation of [[b/_binary|binary]] [[a/_antonyms|antonyms]].**
+- **The state or characteristic of being complementary.**
+- **A semantic relationship between two words wherein negative use of one entails the affirmative of the other with no gradability; the relation of binary antonyms.**
 ---
 ---

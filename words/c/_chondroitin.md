@@ -1,6 +1,6 @@
 # Chondroitin
 ---
 #noun
-- **[[a/_any|Any]] of a range of mucopolysaccharides, [[d/_derived|derived]] from galactosamine and glucuronic [[a/_acid|acid]], that occur in [[c/_cartilage|cartilage]] and [[b/_bone|bone]].**
+- **Any of a range of mucopolysaccharides, derived from galactosamine and glucuronic acid, that occur in cartilage and bone.**
 ---
 ---

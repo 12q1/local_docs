@@ -1,8 +1,8 @@
 # Antiquated
 ---
 #adjective
-- **Old-fashioned, out of [[d/_date|date]]**
+- **Old-fashioned, out of date**
 ---
 ### Synonyms
-- [[backward]], [[disused]], [[outdated]]
+- [[[[b/_backward|backward]]]], [[[[d/_disused|disused]]]], [[outdated]]
 ---

@@ -1,7 +1,7 @@
 # Cedes
 ---
 #verb
-- **To give up; yield to [[a/_another|another]].**
+- **To give up; yield to another.**
 	- _Example: Edward decided to cede the province._
 - **To give way.**
 ---

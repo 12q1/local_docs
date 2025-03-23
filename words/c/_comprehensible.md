@@ -1,10 +1,10 @@
 # Comprehensible
 ---
 #adjective
-- **[[a/_able|Able]] to be [[c/_comprehended|comprehended]].**
+- **Able to be comprehended.**
 ---
 ### Synonyms
-- [[apprehensible]], [[clear]], [[intelligible]], [[understandable]]
+- [[[[a/_apprehensible|apprehensible]]]], [[[[c/_clear|clear]]]], [[intelligible]], [[understandable]]
 ### Antonyms
 - [[incomprehensible]]
 ---

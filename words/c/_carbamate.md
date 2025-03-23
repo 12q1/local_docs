@@ -1,7 +1,7 @@
 # Carbamate
 ---
 #noun
-- **[[a/_any|Any]] salt or ester of [[c/_carbamic|carbamic]] [[a/_acid|acid]].**
+- **Any salt or ester of carbamic acid.**
 ---
 ### Synonyms
 - [[aminoformate]]

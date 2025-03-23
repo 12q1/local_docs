@@ -1,8 +1,8 @@
 # Arf
 ---
 #interjection
-- **Representing the sound of a dog's [[b/_bark|bark]].**
+- **Representing the sound of a dog's bark.**
 ---
 ### Synonyms
-- [[bow-wow]], [[woof]]
+- [[[[b/_bow|bow]]-wow]], [[woof]]
 ---

@@ -1,15 +1,15 @@
 # Cockie
 ---
 #adjective
-- **Overly [[c/_confident|confident]]; [[a/_arrogant|arrogant]] and [[b/_boastful|boastful]].**
+- **Overly confident; arrogant and boastful.**
 ---
 #noun
 - **Used as a term of endearment, originally for a person of either sex, but later primarily for a man.**
 ---
 #noun
-- **A (familiar name for a) [[c/_cockatoo|cockatoo]].**
-- **Short for [[c/_cockatoo|cockatoo]] farmer; (by extension) [[a/_any|any]] farmer or owner of rural land.**
+- **A (familiar name for a) cockatoo.**
+- **Short for cockatoo farmer; (by extension) any farmer or owner of rural land.**
 ---
 ### Synonyms
-- [[cockatoo]], [[crofter]]
+- [[[[c/_cockatoo|cockatoo]]]], [[[[c/_crofter|crofter]]]]
 ---

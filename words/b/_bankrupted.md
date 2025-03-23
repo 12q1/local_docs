@@ -1,6 +1,6 @@
 # Bankrupted
 ---
 #verb
-- **To force into [[b/_bankruptcy|bankruptcy]].**
+- **To force into bankruptcy.**
 ---
 ---

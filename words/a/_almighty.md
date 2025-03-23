@@ -1,7 +1,7 @@
 # Almighty
 ---
 #adjective
-- **(sometimes postpositive) Unlimited in might; omnipotent; [[a/_all|all]]-powerful**
+- **(sometimes postpositive) Unlimited in might; omnipotent; all-powerful**
 	- _Example: God almighty_
 - **Great; extreme; terrible.**
 	- _Example: I heard an almighty crash and ran into the kitchen to see what had happened._
@@ -9,7 +9,7 @@
 	- _Example: The almighty press condemned him without trial._
 ---
 ### Synonyms
-- [[all-powerful]], [[omnipotent]]
+- [[[[a/_all|all]]-powerful]], [[omnipotent]]
 #adverb
 - **Extremely; thoroughly.**
 ---

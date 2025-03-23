@@ -1,19 +1,19 @@
 # Billed
 ---
 #verb
-- **To dig, [[c/_chop|chop]], etc., with a [[b/_bill|bill]].**
+- **To dig, chop, etc., with a bill.**
 ---
 #verb
 - **To peck**
-- **To stroke [[b/_bill|bill]] [[a/_against|against]] [[b/_bill|bill]], with reference to doves; to [[c/_caress|caress]] in fondness**
+- **To stroke bill against bill, with reference to doves; to caress in fondness**
 ---
 #verb
-- **To [[a/_advertise|advertise]] by a [[b/_bill|bill]] or public notice.**
-- **To [[c/_charge|charge]]; to send a [[b/_bill|bill]] to.**
+- **To advertise by a bill or public notice.**
+- **To charge; to send a bill to.**
 ---
 ### Synonyms
-- [[charge]], [[placard]]
+- [[[[c/_charge|charge]]]], [[placard]]
 #adjective
-- **Having a specified kind of [[b/_bill|bill]] ([[b/_beak|beak]] or [[b/_beak|beak]]-like projection).**
+- **Having a specified kind of bill (beak or beak-like projection).**
 ---
 ---

@@ -1,13 +1,13 @@
 # Abductors
 ---
 #noun
-- **One who [[a/_abducts|abducts]]; a kidnapper.**
+- **One who abducts; a kidnapper.**
 ---
 ### Antonyms
 - [[abductee]]
 #noun
-- **A muscle which serves to draw a part out, or from the median line of the [[b/_body|body]]**
+- **A muscle which serves to draw a part out, or from the median line of the body**
 ---
 ### Antonyms
-- [[abductee]], [[adductor]]
+- [[abductee]], [[[[a/_adductor|adductor]]]]
 ---

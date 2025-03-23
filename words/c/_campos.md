@@ -1,9 +1,9 @@
 # Campos
 ---
 #noun
-- **A police officer [[a/_assigned|assigned]] to a university [[c/_campus|campus]].**
+- **A police officer assigned to a university campus.**
 ---
 #noun
-- **A field or plain in a Spanish- or Portuguese-speaking [[a/_area|area]].**
+- **A field or plain in a Spanish- or Portuguese-speaking area.**
 ---
 ---

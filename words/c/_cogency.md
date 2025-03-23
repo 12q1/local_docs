@@ -1,6 +1,6 @@
 # Cogency
 ---
 #noun
-- **The state of [[b/_being|being]] [[c/_cogent|cogent]]; the [[c/_characteristic|characteristic]] or quality of [[b/_being|being]] reasonable and persuasive.**
+- **The state of being cogent; the characteristic or quality of being reasonable and persuasive.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Astrology
 ---
 #noun
-- **Divination [[a/_about|about]] human [[a/_affairs|affairs]] or natural phenomena from the relative positions of [[c/_celestial|celestial]] [[b/_bodies|bodies]].**
+- **Divination about human affairs or natural phenomena from the relative positions of celestial bodies.**
 ---
 ### Synonyms
-- [[astromancy]], [[astrosophy]], [[starcraft]]
+- [[[[a/_astromancy|astromancy]]]], [[astrosophy]], [[starcraft]]
 ---

@@ -1,9 +1,9 @@
 # Coprecipitate
 ---
 #noun
-- **A substance involved in [[c/_coprecipitation|coprecipitation]].**
+- **A substance involved in coprecipitation.**
 ---
 #verb
-- **To [[c/_cause|cause]], or to undergo, [[c/_coprecipitation|coprecipitation]].**
+- **To cause, or to undergo, coprecipitation.**
 ---
 ---

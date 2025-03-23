@@ -1,6 +1,6 @@
 # Dactylics
 ---
 #noun
-- **A [[d/_dactylic|dactylic]] verse.**
+- **A dactylic verse.**
 ---
 ---

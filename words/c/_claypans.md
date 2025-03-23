@@ -1,6 +1,6 @@
 # Claypans
 ---
 #noun
-- **A [[c/_compact|compact]] stratum of partially permeable material rich in [[c/_clay|clay]].**
+- **A compact stratum of partially permeable material rich in clay.**
 ---
 ---

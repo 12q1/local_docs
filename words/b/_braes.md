@@ -1,7 +1,7 @@
 # Braes
 ---
 #noun
-- **The sloping [[b/_bank|bank]] of a river valley.**
-- **[[a/_any|Any]] hillside or slope.**
+- **The sloping bank of a river valley.**
+- **Any hillside or slope.**
 ---
 ---

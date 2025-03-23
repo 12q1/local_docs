@@ -2,6 +2,6 @@
 ---
 #noun
 - **A warrior, especially a Mongol.**
-- **A Mughal honorific [[c/_connoting|connoting]] martial [[c/_courage|courage]] and valor, suffixed to name or title, which it raises by half a [[d/_degree|degree]]. [[c/_commonly|Commonly]] [[b/_bestowed|bestowed]] upon loyal princes and victorious military [[c/_commanders|commanders]] by Mughal emperors, and later by their [[b/_british|British]] successors.**
+- **A Mughal honorific connoting martial courage and valor, suffixed to name or title, which it raises by half a degree. Commonly bestowed upon loyal princes and victorious military commanders by Mughal emperors, and later by their British successors.**
 ---
 ---

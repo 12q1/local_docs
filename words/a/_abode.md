@@ -1,24 +1,24 @@
 # Abode
 ---
 #verb
-- **To endure without yielding; to withstand; [[a/_await|await]] [[d/_defiantly|defiantly]]; to encounter; to persevere.**
+- **To endure without yielding; to withstand; await defiantly; to encounter; to persevere.**
 	- _Example: The old oak tree abides the wind endlessly._
-- **To [[b/_bear|bear]] patiently; to tolerate; to put up with; stand.**
-- **To pay for; to stand the [[c/_consequences|consequences]] of; to [[a/_answer|answer]] for; to suffer for; to [[a/_atone|atone]] for.**
+- **To bear patiently; to tolerate; to put up with; stand.**
+- **To pay for; to stand the consequences of; to answer for; to suffer for; to atone for.**
 - **To wait in expectation.**
-- **To pause; to [[d/_delay|delay]].**
-- **To stay; to [[c/_continue|continue]] in a place; to remain stable or fixed in some state or [[c/_condition|condition]]; to be left.**
-- **To have one's [[a/_abode|abode]]; to dwell; to reside; to sojourn.**
+- **To pause; to delay.**
+- **To stay; to continue in a place; to remain stable or fixed in some state or condition; to be left.**
+- **To have one's abode; to dwell; to reside; to sojourn.**
 - **To endure; to remain; to last.**
-- **To stand ready for; to [[a/_await|await]] for someone; watch for.**
+- **To stand ready for; to await for someone; watch for.**
 - **To endure or undergo a hard trial or a task; to stand up under.**
-- **To [[a/_await|await]] submissively; [[a/_accept|accept]] without question; submit to.**
+- **To await submissively; accept without question; submit to.**
 ---
 ### Synonyms
-- [[brook]], [[put up with]], [[hold on]], [[resist]], [[dwell]], [[live]], [[await]], [[wait for]], [[hold on]], [[stay]]
+- [[[[b/_brook|brook]]]], [[put up with]], [[hold on]], [[resist]], [[[[d/_dwell|dwell]]]], [[live]], [[[[a/_await|await]]]], [[wait for]], [[hold on]], [[stay]]
 #noun
-- **[[a/_act|Act]] of waiting; [[d/_delay|delay]].**
-- **Stay or [[c/_continuance|continuance]] in a place; sojourn.**
+- **Act of waiting; delay.**
+- **Stay or continuance in a place; sojourn.**
 - **A residence, dwelling or habitation.**
 	- _Example: of no fixed abode_
 ---

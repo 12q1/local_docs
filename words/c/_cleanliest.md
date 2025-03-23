@@ -1,10 +1,10 @@
 # Cleanliest
 ---
 #adjective
-- **[[b/_being|Being]] habitually [[c/_clean|clean]], practising good hygiene.**
-- **[[c/_cleansing|Cleansing]]; fitted to remove moisture; dirt, etc.**
-- **[[a/_adroit|Adroit]]; dexterous; [[a/_artful|artful]].**
+- **Being habitually clean, practising good hygiene.**
+- **Cleansing; fitted to remove moisture; dirt, etc.**
+- **Adroit; dexterous; artful.**
 ---
 ### Antonyms
-- [[dirty]], [[uncleanly]]
+- [[[[d/_dirty|dirty]]]], [[uncleanly]]
 ---

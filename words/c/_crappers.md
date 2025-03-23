@@ -1,7 +1,7 @@
 # Crappers
 ---
 #noun
-- **A [[c/_chamber|chamber]] pot or toilet, particularly a flush toilet by Thomas [[c/_crapper|Crapper]].**
+- **A chamber pot or toilet, particularly a flush toilet by Thomas Crapper.**
 - **A lavatory or outhouse.**
 ---
 ### Synonyms

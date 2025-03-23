@@ -1,6 +1,6 @@
 # Anarchism
 ---
 #noun
-- **The [[b/_belief|belief]] that proposes the [[a/_absence|absence]] and [[a/_abolition|abolition]] of hierarchy and [[a/_authority|authority]] in most forms.**
+- **The belief that proposes the absence and abolition of hierarchy and authority in most forms.**
 ---
 ---

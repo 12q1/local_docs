@@ -1,6 +1,6 @@
 # Coastwards
 ---
 #adverb
-- **Towards the [[c/_coast|coast]].**
+- **Towards the coast.**
 ---
 ---

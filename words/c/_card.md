@@ -1,39 +1,39 @@
 # Card
 ---
 #noun
-- **A playing [[c/_card|card]].**
-- **(in the plural) [[a/_any|Any]] game using playing [[c/_cards|cards]]; a [[c/_card|card]] game.**
+- **A playing card.**
+- **(in the plural) Any game using playing cards; a card game.**
 	- _Example: He played cards with his friends._
-- **A resource or an [[a/_argument|argument]], used to [[a/_achieve|achieve]] a purpose.**
+- **A resource or an argument, used to achieve a purpose.**
 	- _Example: He accused them of playing the race card._
-- **[[a/_any|Any]] flat, normally rectangular piece of stiff paper, plastic etc.**
-- **A map or [[c/_chart|chart]].**
-- **An [[a/_amusing|amusing]] or entertaining person, often slightly eccentrically so.**
-- **A list of scheduled events or of performers or [[c/_contestants|contestants]].**
+- **Any flat, normally rectangular piece of stiff paper, plastic etc.**
+- **A map or chart.**
+- **An amusing or entertaining person, often slightly eccentrically so.**
+- **A list of scheduled events or of performers or contestants.**
 	- _Example: What’s on the card for tonight?_
-- **A tabular presentation of the key statistics of an innings or match: [[b/_batsmen|batsmen]]’s scores and how they were dismissed, extras, total score and [[b/_bowling|bowling]] figures.**
-- **A removable electronic device that may be inserted into a powered electronic device to provide [[a/_additional|additional]] [[c/_capability|capability]].**
+- **A tabular presentation of the key statistics of an innings or match: batsmen’s scores and how they were dismissed, extras, total score and bowling figures.**
+- **A removable electronic device that may be inserted into a powered electronic device to provide additional capability.**
 	- _Example: He needed to replace the card his computer used to connect to the internet._
-- **A greeting [[c/_card|card]].**
+- **A greeting card.**
 	- _Example: She gave her neighbors a card congratulating them on their new baby._
-- **A [[b/_business|business]] [[c/_card|card]].**
+- **A business card.**
 	- _Example: The realtor gave me her card so I could call if I had any questions about buying a house._
-- **Title [[c/_card|card]] / Intertitle: A piece of filmed, printed text edited into the midst of the photographed [[a/_action|action]] at various points, generally to [[c/_convey|convey]] [[c/_character|character]] dialogue or [[d/_descriptive|descriptive]] narrative material related to the plot.**
-- **A test [[c/_card|card]].**
-- **A published note, [[c/_containing|containing]] a [[b/_brief|brief]] statement, explanation, request, expression of thanks, etc.**
+- **Title card / Intertitle: A piece of filmed, printed text edited into the midst of the photographed action at various points, generally to convey character dialogue or descriptive narrative material related to the plot.**
+- **A test card.**
+- **A published note, containing a brief statement, explanation, request, expression of thanks, etc.**
 	- _Example: to put a card in the newspapers_
 - **A printed programme.**
-- **(by extension) An [[a/_attraction|attraction]] or inducement.**
+- **(by extension) An attraction or inducement.**
 	- _Example: This will be a good card for the last day of the fair._
-- **A paper on which the points of the [[c/_compass|compass]] are marked; the dial or face of the mariner's [[c/_compass|compass]].**
-- **A perforated pasteboard or sheet-metal plate for warp threads, making part of the Jacquard [[a/_apparatus|apparatus]] of a loom.**
-- **An indicator [[c/_card|card]].**
+- **A paper on which the points of the compass are marked; the dial or face of the mariner's compass.**
+- **A perforated pasteboard or sheet-metal plate for warp threads, making part of the Jacquard apparatus of a loom.**
+- **An indicator card.**
 ---
 #verb
-- **To [[c/_check|check]] IDs, especially [[a/_against|against]] a minimum [[a/_age|age]] requirement.**
+- **To check IDs, especially against a minimum age requirement.**
 	- _Example: I heard you don't get carded at the other liquor store._
-- **To play [[c/_cards|cards]].**
-- **To make (a stated score), as recorded on a scoring [[c/_card|card]].**
+- **To play cards.**
+- **To make (a stated score), as recorded on a scoring card.**
 	- _Example: McIlroy carded a stellar nine-under-par 61 in the final round._
 ---
 ---

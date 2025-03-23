@@ -1,6 +1,6 @@
 # Bluesy
 ---
 #adjective
-- **[[c/_characteristic|Characteristic]] of, or similar to, the [[b/_blues|blues]] (a genre of music).**
+- **Characteristic of, or similar to, the blues (a genre of music).**
 ---
 ---

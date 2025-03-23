@@ -1,9 +1,9 @@
 # Currish
 ---
 #adjective
-- **Pertaining to a [[c/_cur|cur]] or mongrel.**
+- **Pertaining to a cur or mongrel.**
 - **Ignoble, mean-spirited.**
 ---
 ### Synonyms
-- [[doggish]]
+- [[[[d/_doggish|doggish]]]]
 ---

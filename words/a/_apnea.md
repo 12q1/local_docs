@@ -1,8 +1,8 @@
 # Apnea
 ---
 #noun
-- **The [[c/_cessation|cessation]] of [[b/_breathing|breathing]].**
+- **The cessation of breathing.**
 ---
 ### Synonyms
-- [[asphyxia]]
+- [[[[a/_asphyxia|asphyxia]]]]
 ---

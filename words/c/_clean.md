@@ -3,46 +3,46 @@
 #noun
 - **Removal of dirt.**
 	- _Example: This place needs a clean._
-- **The first part of the event [[c/_clean|clean]] and jerk in which the weight is [[b/_brought|brought]] from the ground to the shoulders.**
+- **The first part of the event clean and jerk in which the weight is brought from the ground to the shoulders.**
 ---
 #verb
 - **To remove dirt from a place or object.**
 	- _Example: Can you clean the windows today?_
 - **To tidy up, make a place neat.**
 	- _Example: Clean your room right now!_
-- **To remove equipment from a [[c/_climbing|climbing]] route [[a/_after|after]] it was previously lead [[c/_climbed|climbed]].**
-- **To make things [[c/_clean|clean]] in general.**
+- **To remove equipment from a climbing route after it was previously lead climbed.**
+- **To make things clean in general.**
 	- _Example: She just likes to clean. That’s why I married her._
 - **To remove unnecessary files, etc. from (a directory, etc.).**
-- **To [[b/_brush|brush]] the ice lightly in front of a moving rock to remove [[a/_any|any]] [[d/_debris|debris]] and ensure a [[c/_correct|correct]] line; less vigorous than a sweep.**
-- **To purge a raw of [[a/_any|any]] [[b/_blemishes|blemishes]] [[c/_caused|caused]] by the scanning process such as [[b/_brown|brown]] tinting and poor [[c/_color|color]] [[c/_contrast|contrast]].**
-- **To remove guts and/or scales of a [[b/_butchered|butchered]] [[a/_animal|animal]].**
+- **To brush the ice lightly in front of a moving rock to remove any debris and ensure a correct line; less vigorous than a sweep.**
+- **To purge a raw of any blemishes caused by the scanning process such as brown tinting and poor color contrast.**
+- **To remove guts and/or scales of a butchered animal.**
 ---
 #adjective
 - **(heading, physical) Free of dirt or impurities or protruberances.**
-- **(heading, [[b/_behavioural|behavioural]]) Free of immorality or [[c/_criminality|criminality]].**
+- **(heading, behavioural) Free of immorality or criminality.**
 - **Smooth, exact, and performed well**
 	- _Example: I’ll need a sharper knife to make clean cuts.  a clean leap over a fence_
-- **Total; utter. (still in "[[c/_clean|clean]] sweep")**
-- **[[c/_cool|Cool]] or neat.**
+- **Total; utter. (still in "clean sweep")**
+- **Cool or neat.**
 	- _Example: Wow, Dude, those are some clean shoes ya got there!_
-- **(health) [[b/_being|Being]] free of sexually transmitted diseases (STDs).**
+- **(health) Being free of sexually transmitted diseases (STDs).**
 	- _Example: I want to make sure my fiancé is clean before we are married._
-- **That does not [[d/_damage|damage]] the environment.**
+- **That does not damage the environment.**
 	- _Example: clean energy;  clean coal_
-- **Free from that which is useless or injurious; without [[d/_defects|defects]].**
+- **Free from that which is useless or injurious; without defects.**
 	- _Example: clean land;  clean timber_
-- **Free from restraint or neglect; [[c/_complete|complete]]; entire.**
+- **Free from restraint or neglect; complete; entire.**
 - **Well-proportioned; shapely.**
 	- _Example: clean limbs_
-- **(of a route) [[a/_ascended|Ascended]] without falling.**
+- **(of a route) Ascended without falling.**
 ---
 ### Synonyms
-- [[clean]]
+- [[[[c/_clean|clean]]]]
 ### Antonyms
-- [[dirty]], [[unclean]]
+- [[[[d/_dirty|dirty]]]], [[unclean]]
 #adverb
-- **Fully and [[c/_completely|completely]].**
+- **Fully and completely.**
 	- _Example: He was stabbed clean through._
 ---
 ---

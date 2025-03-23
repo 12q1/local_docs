@@ -1,11 +1,11 @@
 # Approximately
 ---
 #adverb
-- **Imprecise but [[c/_close|close]] to in quantity or [[a/_amount|amount]].**
+- **Imprecise but close to in quantity or amount.**
 	- _Example: ...approximately 60 beats per minute._
 ---
 ### Synonyms
-- [[around]], [[near]], [[nearly]]
+- [[[[a/_around|around]]]], [[near]], [[nearly]]
 ### Antonyms
-- [[accurately]], [[definitely]], [[exactly]], [[precisely]]
+- [[[[a/_accurately|accurately]]]], [[[[d/_definitely|definitely]]]], [[exactly]], [[precisely]]
 ---

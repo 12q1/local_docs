@@ -1,11 +1,11 @@
 # Cushioning
 ---
 #verb
-- **To furnish with [[c/_cushions|cushions]].**
+- **To furnish with cushions.**
 	- _Example: to cushion a sofa_
-- **To seat or place on, or as on a [[c/_cushion|cushion]].**
-- **To [[a/_absorb|absorb]] or [[d/_deaden|deaden]] the impact of.**
+- **To seat or place on, or as on a cushion.**
+- **To absorb or deaden the impact of.**
 	- _Example: to cushion a blow_
-- **To [[c/_conceal|conceal]] or [[c/_cover|cover]] up, as under a [[c/_cushion|cushion]].**
+- **To conceal or cover up, as under a cushion.**
 ---
 ---

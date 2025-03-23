@@ -1,6 +1,6 @@
 # Competently
 ---
 #adverb
-- **In a [[c/_competent|competent]] manner.**
+- **In a competent manner.**
 ---
 ---

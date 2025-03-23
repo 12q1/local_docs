@@ -1,9 +1,9 @@
 # Badinage
 ---
 #noun
-- **Playful raillery; [[b/_banter|banter]].**
+- **Playful raillery; banter.**
 ---
 #verb
-- **To engage in [[b/_badinage|badinage]] or playful [[b/_banter|banter]].**
+- **To engage in badinage or playful banter.**
 ---
 ---

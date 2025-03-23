@@ -2,30 +2,30 @@
 ---
 #noun
 - **A marine gastropod of the family Strombidae which lives in its own spiral shell.**
-- **The shell of this sea [[a/_animal|animal]].**
+- **The shell of this sea animal.**
 - **A musical instrument made from a large spiral seashell, somewhat like a trumpet.**
-- **The semidome of an [[a/_apse|apse]], or the [[a/_apse|apse]] itself.**
+- **The semidome of an apse, or the apse itself.**
 ---
 #noun
-- **A machine (rather like a rotating pestle and mortar) used to refine the flavour and texture of [[c/_chocolate|chocolate]] by warming and grinding.**
+- **A machine (rather like a rotating pestle and mortar) used to refine the flavour and texture of chocolate by warming and grinding.**
 - **A person who operates such a machine.**
 ---
 ### Synonyms
-- [[conch]], [[conche]]
+- [[[[c/_conch|conch]]]], [[[[c/_conche|conche]]]]
 #noun
-- **The shelf- or [[b/_bracket|bracket]]-shaped fruiting [[b/_body|body]] of a [[b/_bracket|bracket]] fungus ([[a/_also|also]] [[c/_called|called]] a shelf fungus), i.e. a mushroom growing off a tree trunk.**
+- **The shelf- or bracket-shaped fruiting body of a bracket fungus (also called a shelf fungus), i.e. a mushroom growing off a tree trunk.**
 - **A nose, especially a large one.**
 ---
 #verb
 - **To hit, especially on the head.**
 ---
 #noun
-- **A hairstyle involving the [[c/_chemical|chemical]] straightening and styling of kinky hair.**
+- **A hairstyle involving the chemical straightening and styling of kinky hair.**
 ---
 #verb
-- **To [[c/_chemically|chemically]] straighten tightly [[c/_curled|curled]] hair.**
+- **To chemically straighten tightly curled hair.**
 ---
 #verb
-- **(often with out) To fail or show signs of failing, [[c/_cease|cease]] operating, [[b/_break|break]] down, [[b/_become|become]] unconscious.**
+- **(often with out) To fail or show signs of failing, cease operating, break down, become unconscious.**
 ---
 ---

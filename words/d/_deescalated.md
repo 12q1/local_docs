@@ -1,6 +1,6 @@
 # Deescalated
 ---
 #verb
-- **To [[d/_decrease|decrease]] in intensity or magnitude.**
+- **To decrease in intensity or magnitude.**
 ---
 ---

@@ -1,14 +1,14 @@
 # Abducted
 ---
 #verb
-- **To take [[a/_away|away]] by force; to [[c/_carry|carry]] [[a/_away|away]] (a human [[b/_being|being]]) wrongfully and usually with violence or [[d/_deception|deception]]; to kidnap.**
-- **To draw [[a/_away|away]], as a limb or other part, from the median [[a/_axis|axis]] of the [[b/_body|body]].**
+- **To take away by force; to carry away (a human being) wrongfully and usually with violence or deception; to kidnap.**
+- **To draw away, as a limb or other part, from the median axis of the body.**
 ---
 ### Synonyms
-- [[carry off]], [[drag away]], [[kidnap]], [[run away with]], [[seize]], [[spirit away]], [[stretch]], [[take away]]
+- [[[[c/_carry|carry]] off]], [[[[d/_drag|drag]] [[a/_away|away]]]], [[kidnap]], [[run [[a/_away|away]] with]], [[seize]], [[spirit [[a/_away|away]]]], [[stretch]], [[take [[a/_away|away]]]]
 ### Antonyms
-- [[adduct]], [[reinstate]], [[restore]]
+- [[[[a/_adduct|adduct]]]], [[reinstate]], [[restore]]
 #adjective
-- **Having [[b/_been|been]] kidnapped; having [[b/_become|become]] the victim of an [[a/_abduction|abduction]]**
+- **Having been kidnapped; having become the victim of an abduction**
 ---
 ---

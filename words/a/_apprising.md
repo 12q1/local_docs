@@ -1,11 +1,11 @@
 # Apprising
 ---
 #verb
-- **To notify, or to make [[a/_aware|aware]]; to inform.**
+- **To notify, or to make aware; to inform.**
 ---
 ### Synonyms
-- [[abreast]], [[up to date]], [[up-to-date]]
+- [[[[a/_abreast|abreast]]]], [[up to [[d/_date|date]]]], [[up-to-[[d/_date|date]]]]
 #noun
-- **The [[a/_appraisal|appraisal]] of the value of goods, land, etc., often in order to pay the [[d/_debts|debts]] of a [[d/_deceased|deceased]] person.**
+- **The appraisal of the value of goods, land, etc., often in order to pay the debts of a deceased person.**
 ---
 ---

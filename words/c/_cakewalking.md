@@ -1,6 +1,6 @@
 # Cakewalking
 ---
 #verb
-- **To perform the [[c/_cakewalk|cakewalk]] [[d/_dance|dance]].**
+- **To perform the cakewalk dance.**
 ---
 ---

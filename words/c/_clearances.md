@@ -1,21 +1,21 @@
 # Clearances
 ---
 #noun
-- **The [[a/_act|act]] of [[c/_clearing|clearing]] or something (such as a space) [[c/_cleared|cleared]]**
-- **The distance [[b/_between|between]] two moving objects, especially [[b/_between|between]] parts of a machine**
-- **The height or width of a tunnel, [[b/_bridge|bridge]] or other passage, or the distance [[b/_between|between]] a vehicle and the walls or roof of such passage; a gap, headroom.**
+- **The act of clearing or something (such as a space) cleared**
+- **The distance between two moving objects, especially between parts of a machine**
+- **The height or width of a tunnel, bridge or other passage, or the distance between a vehicle and the walls or roof of such passage; a gap, headroom.**
 - **A permission for a vehicle to proceed, or for a person to travel.**
 	- _Example: He got clearance to travel to America, even though he had previous links to terrorists_
-- **A permission to have [[a/_access|access]] to sensitive or secret documents or other information.**
+- **A permission to have access to sensitive or secret documents or other information.**
 - **A permission to use something, usually intellectual property, that is legally, but not otherwise, protected.**
 - **(retail) A sale of merchandise, especially at significantly reduced prices in order to make room for new merchandise or updated versions of the same merchandise.**
-- **The settlement of transactions involving securities or means of payment such as [[c/_checks|checks]] by means of a [[c/_clearing|clearing]] house.**
-- **The removal of harmful substances from the [[b/_blood|blood]]; renal [[c/_clearance|clearance]].**
-- **The [[a/_act|act]] of potting [[a/_all|all]] the remaining [[b/_balls|balls]] on a table at one visit.**
-- **The [[a/_act|act]] of kicking a [[b/_ball|ball]] [[a/_away|away]] from the goal one is [[d/_defending|defending]].**
-- **Removal of pieces from a rank, file or diagonal so that a [[b/_bishop|bishop]], rook or queen is free to move [[a/_along|along]] it.**
-- **[[c/_clear|Clear]] or net profit.**
-- **The first disposal in a [[c/_chain|chain]] that leaves the [[a/_area|area]] of a stoppage, or a disposal that leaves the [[a/_area|area]] of a stoppage itself.**
-- **The [[a/_act|act]] of leaving the [[a/_area|area]] of a stoppage.**
+- **The settlement of transactions involving securities or means of payment such as checks by means of a clearing house.**
+- **The removal of harmful substances from the blood; renal clearance.**
+- **The act of potting all the remaining balls on a table at one visit.**
+- **The act of kicking a ball away from the goal one is defending.**
+- **Removal of pieces from a rank, file or diagonal so that a bishop, rook or queen is free to move along it.**
+- **Clear or net profit.**
+- **The first disposal in a chain that leaves the area of a stoppage, or a disposal that leaves the area of a stoppage itself.**
+- **The act of leaving the area of a stoppage.**
 ---
 ---

@@ -1,14 +1,14 @@
 # Crosscut
 ---
 #noun
-- **A [[c/_crosswise|crosswise]] [[c/_cut|cut]].**
+- **A crosswise cut.**
 - **A shortcut.**
-- **An instance of filmic [[c/_crosscutting|crosscutting]].**
-- **A [[c/_crosscut|crosscut]] saw.**
-- **A level driven [[a/_across|across]] the [[c/_course|course]] of a vein, or [[a/_across|across]] the main workings, as from one gangway to [[a/_another|another]].**
+- **An instance of filmic crosscutting.**
+- **A crosscut saw.**
+- **A level driven across the course of a vein, or across the main workings, as from one gangway to another.**
 ---
 #verb
-- **To [[c/_cut|cut]] [[a/_across|across]] something.**
-- **To [[c/_cut|cut]] repeatedly [[b/_between|between]] two [[c/_concurrent|concurrent]] scenes.**
+- **To cut across something.**
+- **To cut repeatedly between two concurrent scenes.**
 ---
 ---

@@ -1,0 +1,11 @@
+# Disobedience
+---
+#noun
+- **Refusal to obey.**
+	- _Example: The teacher complained of the child's disobedience._
+---
+### Synonyms
+- [[[[c/_contumacy|contumacy]]]], [[rebellion]]
+### Antonyms
+- [[obedience]]
+---

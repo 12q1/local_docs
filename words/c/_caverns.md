@@ -1,7 +1,7 @@
 # Caverns
 ---
 #noun
-- **A large [[c/_cave|cave]].**
-- **An underground [[c/_chamber|chamber]].**
+- **A large cave.**
+- **An underground chamber.**
 ---
 ---

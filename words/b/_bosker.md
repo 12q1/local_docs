@@ -4,6 +4,6 @@
 - **Someone or something impressive and wonderful.**
 ---
 #adjective
-- **Excellent; wonderful; [[b/_bonzer|bonzer]].**
+- **Excellent; wonderful; bonzer.**
 ---
 ---

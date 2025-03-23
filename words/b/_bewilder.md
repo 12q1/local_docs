@@ -1,9 +1,9 @@
 # Bewilder
 ---
 #verb
-- **To [[c/_confuse|confuse]], disorientate, or puzzle someone, especially with many different [[c/_choices|choices]].**
+- **To confuse, disorientate, or puzzle someone, especially with many different choices.**
 	- _Example: All the different possible options may bewilder us._
 ---
 ### Synonyms
-- [[befuddle]]
+- [[[[b/_befuddle|befuddle]]]]
 ---

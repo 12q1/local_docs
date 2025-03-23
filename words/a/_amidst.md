@@ -1,8 +1,8 @@
 # Amidst
 ---
 #preposition
-- **In the midst or middle of; surrounded or encompassed by; [[a/_among|among]].**
+- **In the midst or middle of; surrounded or encompassed by; among.**
 ---
 ### Synonyms
-- [[amid]], [[among]], [[amongst]]
+- [[[[a/_amid|amid]]]], [[[[a/_among|among]]]], [[[[a/_amongst|amongst]]]]
 ---

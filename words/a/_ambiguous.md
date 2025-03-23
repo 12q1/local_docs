@@ -10,5 +10,5 @@
 ### Synonyms
 - [[equivocal]]
 ### Antonyms
-- [[clear]], [[precise]], [[unambiguous]], [[unambiguous]]
+- [[[[c/_clear|clear]]]], [[precise]], [[unambiguous]], [[unambiguous]]
 ---

@@ -1,14 +1,14 @@
 # Concertina
 ---
 #noun
-- **A musical instrument, like the various [[a/_accordions|accordions]], that is a member of the free-reed family of musical instruments, typically having [[b/_buttons|buttons]] on [[b/_both|both]] ends.**
-- **Something resembling a [[c/_concertina|concertina]], such as a folded [[b/_book|book]], a [[b/_bus|bus]] door or a set of picture frames that are folded together.**
-- **[[c/_coiled|Coiled]] [[b/_barbed|barbed]] wire for use as an obstacle.**
-- **A type of [[b/_booklet|booklet]] label, [[c/_consisting|consisting]] of up to 32 pages of [[b/_booklet|booklet]] as an insert.**
+- **A musical instrument, like the various accordions, that is a member of the free-reed family of musical instruments, typically having buttons on both ends.**
+- **Something resembling a concertina, such as a folded book, a bus door or a set of picture frames that are folded together.**
+- **Coiled barbed wire for use as an obstacle.**
+- **A type of booklet label, consisting of up to 32 pages of booklet as an insert.**
 ---
 #verb
-- **To [[b/_become|become]] [[c/_compressed|compressed]] into a shape reminiscent of a [[c/_concertina|concertina]]**
+- **To become compressed into a shape reminiscent of a concertina**
 	- _Example: The car concertinaed into the wall._
-- **To be drawn [[c/_closer|closer]] and farther [[a/_apart|apart]] repeatedly, or up and down, as if situated on a working [[c/_concertina|concertina]]'s folds**
+- **To be drawn closer and farther apart repeatedly, or up and down, as if situated on a working concertina's folds**
 ---
 ---

@@ -1,8 +1,8 @@
 # Antitrades
 ---
 #noun
-- **The wind that [[b/_blows|blows]] from west to east [[a/_above|above]] the trade wind**
+- **The wind that blows from west to east above the trade wind**
 ---
 ### Synonyms
-- [[antitrade wind]]
+- [[[[a/_antitrade|antitrade]] wind]]
 ---

@@ -1,8 +1,8 @@
 # Certes
 ---
 #adverb
-- **[[c/_certainly|Certainly]], indeed.**
+- **Certainly, indeed.**
 ---
 ### Synonyms
-- [[of course]], [[truly]], [[verily]]
+- [[of [[c/_course|course]]]], [[truly]], [[verily]]
 ---

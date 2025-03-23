@@ -1,8 +1,8 @@
 # Barytons
 ---
 #noun
-- **A viol-like stringed instrument ([[c/_chordophone|chordophone]]) mainly played with a [[b/_bow|bow]] but with a set of plucked strings as well, originating in European music prior to the 1800s.**
+- **A viol-like stringed instrument (chordophone) mainly played with a bow but with a set of plucked strings as well, originating in European music prior to the 1800s.**
 ---
 ### Synonyms
-- [[paradon]], [[viola di bordone]], [[viola paradon]]
+- [[paradon]], [[viola [[d/_di|di]] bordone]], [[viola paradon]]
 ---

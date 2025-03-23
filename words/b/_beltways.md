@@ -1,7 +1,7 @@
 # Beltways
 ---
 #noun
-- **A freeway that encircles a [[c/_city|city]].**
+- **A freeway that encircles a city.**
 ---
 ### Synonyms
 - [[ring road]]

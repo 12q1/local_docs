@@ -1,6 +1,6 @@
 # Conditionally
 ---
 #adverb
-- **Under specified [[c/_conditions|conditions]]**
+- **Under specified conditions**
 ---
 ---

@@ -1,14 +1,14 @@
 # Broody
 ---
 #noun
-- **A female [[b/_bird|bird]] in the [[c/_condition|condition]] to incubate eggs; a [[b/_broody|broody]] hen, duck, etc.**
+- **A female bird in the condition to incubate eggs; a broody hen, duck, etc.**
 	- _Example: There are six broodies in that coop._
 ---
 #adjective
-- **Of [[b/_birds|birds]]: sitting persistently and protectively on a nest, in order to hatch eggs.**
+- **Of birds: sitting persistently and protectively on a nest, in order to hatch eggs.**
 	- _Example: a broody hen_
-- **Of [[a/_any|any]] [[c/_creature|creature]] or person: showing an interest in raising young.**
+- **Of any creature or person: showing an interest in raising young.**
 ---
 ### Synonyms
-- [[clucky]]
+- [[[[c/_clucky|clucky]]]]
 ---

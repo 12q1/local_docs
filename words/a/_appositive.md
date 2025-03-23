@@ -1,9 +1,9 @@
 # Appositive
 ---
 #noun
-- **(grammar) a word or phrase that is in [[a/_apposition|apposition]]**
+- **(grammar) a word or phrase that is in apposition**
 ---
 #adjective
-- **Of or [[b/_being|being]] in [[a/_apposition|apposition]]**
+- **Of or being in apposition**
 ---
 ---

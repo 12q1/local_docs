@@ -1,7 +1,7 @@
 # Corrosives
 ---
 #noun
-- **That which has the quality of eating or wearing [[a/_away|away]] gradually.**
-- **[[a/_any|Any]] solid, liquid or gas [[c/_capable|capable]] of irreparably harming living tissues or [[d/_damaging|damaging]] material on [[c/_contact|contact]].**
+- **That which has the quality of eating or wearing away gradually.**
+- **Any solid, liquid or gas capable of irreparably harming living tissues or damaging material on contact.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Aestivation
 ---
 #noun
-- **A state of inactivity and metabolic [[d/_depression|depression]] during summer: the summer version of hibernation.**
-- **The [[a/_arrangement|arrangement]] (vernation) of the parts of a flower inside a [[b/_bud|bud]]; prefloration.**
+- **A state of inactivity and metabolic depression during summer: the summer version of hibernation.**
+- **The arrangement (vernation) of the parts of a flower inside a bud; prefloration.**
 - **The spending or passing of a summer.**
 ---
 ---

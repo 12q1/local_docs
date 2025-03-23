@@ -1,10 +1,10 @@
 # Argumentation
 ---
 #noun
-- **Inference [[b/_based|based]] on reasoning from given propositions.**
+- **Inference based on reasoning from given propositions.**
 	- _Example: His chain of argumentation is flawed._
-- **An exchange of [[a/_arguments|arguments]]**
+- **An exchange of arguments**
 	- _Example: Their argumentation continued long into the night._
-- **The [[a/_addition|addition]] of [[a/_arguments|arguments]] to a model; parameterization.**
+- **The addition of arguments to a model; parameterization.**
 ---
 ---

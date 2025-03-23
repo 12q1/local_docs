@@ -1,11 +1,11 @@
 # Capacitated
 ---
 #verb
-- **To make [[c/_capable|capable]] of functioning in a given [[c/_capacity|capacity]].**
-- **To [[a/_alter|alter]] sperm to [[a/_allow|allow]] it to fertilize eggs.**
-- **To reach maximum throughput on at least part of a [[c/_constrained|constrained]] network.**
+- **To make capable of functioning in a given capacity.**
+- **To alter sperm to allow it to fertilize eggs.**
+- **To reach maximum throughput on at least part of a constrained network.**
 ---
 #adjective
-- **[[c/_constrained|Constrained]] by maximum throughput, often [[a/_applied|applied]] to physical networks transporting flows.**
+- **Constrained by maximum throughput, often applied to physical networks transporting flows.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bowstrung
 ---
 #verb
-- **To strangle with a [[b/_bowstring|bowstring]].**
+- **To strangle with a bowstring.**
 ---
 ---

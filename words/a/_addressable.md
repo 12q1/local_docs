@@ -1,7 +1,7 @@
 # Addressable
 ---
 #adjective
-- **[[a/_able|Able]] to be [[a/_addressed|addressed]].**
+- **Able to be addressed.**
 ---
 ### Antonyms
 - [[unaddressable]]

@@ -1,9 +1,9 @@
 # Billable
 ---
 #noun
-- **Something that is [[b/_billed|billed]] for.**
+- **Something that is billed for.**
 ---
 #adjective
-- **[[c/_capable|Capable]] of [[b/_being|being]] [[b/_billed|billed]] for.**
+- **Capable of being billed for.**
 ---
 ---

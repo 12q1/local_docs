@@ -1,6 +1,6 @@
 # Crofters
 ---
 #noun
-- **One who has the tenure of a [[c/_croft|croft]], usually [[a/_also|also]] the occupant and user.**
+- **One who has the tenure of a croft, usually also the occupant and user.**
 ---
 ---

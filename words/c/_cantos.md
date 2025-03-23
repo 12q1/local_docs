@@ -1,7 +1,7 @@
 # Cantos
 ---
 #noun
-- **One of the [[c/_chief|chief]] divisions of a long poem; a [[b/_book|book]].**
+- **One of the chief divisions of a long poem; a book.**
 - **The treble or leading melody.**
 ---
 ---

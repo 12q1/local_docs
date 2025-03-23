@@ -1,17 +1,17 @@
 # Blimp
 ---
 #noun
-- **An [[a/_airship|airship]] [[c/_constructed|constructed]] with a non-rigid lifting [[a/_agent|agent]] [[c/_container|container]].**
-- **(by extension) [[a/_any|Any]] large [[a/_airborne|airborne]] inflatable.**
+- **An airship constructed with a non-rigid lifting agent container.**
+- **(by extension) Any large airborne inflatable.**
 - **An obese person.**
-- **A person similar to the [[c/_cartoon|cartoon]] [[c/_character|character]] [[c/_colonel|Colonel]] [[b/_blimp|Blimp]]; a pompous, reactionary [[b/_british|British]] man.**
+- **A person similar to the cartoon character Colonel Blimp; a pompous, reactionary British man.**
 ---
 ### Synonyms
-- [[Gossage]], [[barrage balloon]]
+- [[Gossage]], [[[[b/_barrage|barrage]] [[b/_balloon|balloon]]]]
 #verb
-- **To expand like a [[b/_blimp|blimp]] or [[b/_balloon|balloon]]; to [[b/_become|become]] fat.**
+- **To expand like a blimp or balloon; to become fat.**
 	- _Example: After college, she started blimping and could no longer wear her favorite little black dress._
 ---
 ### Synonyms
-- [[blimp out]], [[blimp up]]
+- [[[[b/_blimp|blimp]] out]], [[[[b/_blimp|blimp]] up]]
 ---

@@ -1,8 +1,8 @@
 # Chigoes
 ---
 #noun
-- **A small tropical flea, Tunga penetrans, whose females [[b/_burrow|burrow]] under the skin of [[a/_animals|animals]], including humans, and lay their eggs, [[c/_causing|causing]] strong irritation and sores.**
+- **A small tropical flea, Tunga penetrans, whose females burrow under the skin of animals, including humans, and lay their eggs, causing strong irritation and sores.**
 ---
 ### Synonyms
-- [[chegoe]], [[chegre]], [[chigger]], [[chigre]], [[chique]], [[jigger]]
+- [[[[c/_chegoe|chegoe]]]], [[[[c/_chegre|chegre]]]], [[[[c/_chigger|chigger]]]], [[chigre]], [[chique]], [[jigger]]
 ---

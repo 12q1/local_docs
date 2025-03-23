@@ -1,7 +1,7 @@
 # Aggressing
 ---
 #verb
-- **To set upon; to [[a/_attack|attack]].**
-- **([[c/_construed|construed]] with on) To [[c/_commit|commit]] the first [[a/_act|act]] of hostility or offense [[a/_against|against]]; to [[b/_begin|begin]] a quarrel or [[c/_controversy|controversy]] with someone; to make an [[a/_attack|attack]] [[a/_against|against]] someone.**
+- **To set upon; to attack.**
+- **(construed with on) To commit the first act of hostility or offense against; to begin a quarrel or controversy with someone; to make an attack against someone.**
 ---
 ---

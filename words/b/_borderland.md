@@ -1,7 +1,7 @@
 # Borderland
 ---
 #noun
-- **Land near a [[b/_border|border]]; marches**
+- **Land near a border; marches**
 ---
 ### Synonyms
 - [[marchland]]

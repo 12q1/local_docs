@@ -1,6 +1,6 @@
 # Copywriting
 ---
 #verb
-- **To write the [[c/_copy|copy]] (or text) of an [[a/_advertisement|advertisement]]; to have a job as a [[c/_copywriter|copywriter]].**
+- **To write the copy (or text) of an advertisement; to have a job as a copywriter.**
 ---
 ---

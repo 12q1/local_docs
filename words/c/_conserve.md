@@ -3,8 +3,8 @@
 #noun
 - **Wilderness where human development is prohibited.**
 - **A jam or thick syrup made from fruit.**
-- **A medicinal [[c/_confection|confection]] made of freshly gathered vegetable substances mixed with finely powdered refined sugar.**
-- **A [[c/_conservatory|conservatory]].**
+- **A medicinal confection made of freshly gathered vegetable substances mixed with finely powdered refined sugar.**
+- **A conservatory.**
 ---
 #verb
 - **To save for later use, sometimes by the use of a preservative.**

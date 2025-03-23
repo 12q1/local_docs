@@ -1,14 +1,14 @@
 # Clod
 ---
 #noun
-- **A lump of something, especially of earth or [[c/_clay|clay]].**
+- **A lump of something, especially of earth or clay.**
 - **The ground; the earth; a spot of earth or turf.**
 - **A stupid person; a dolt.**
-- **Part of a shoulder of [[b/_beef|beef]], or of the neck piece near the shoulder.**
+- **Part of a shoulder of beef, or of the neck piece near the shoulder.**
 ---
 #verb
-- **To pelt with [[c/_clods|clods]].**
+- **To pelt with clods.**
 - **To throw violently; to hurl.**
-- **To [[c/_collect|collect]] into [[c/_clods|clods]], or into a thick mass; to [[c/_coagulate|coagulate]]; to [[c/_clot|clot]].**
+- **To collect into clods, or into a thick mass; to coagulate; to clot.**
 ---
 ---

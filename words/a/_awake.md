@@ -1,12 +1,12 @@
 # Awake
 ---
 #adjective
-- **Not [[a/_asleep|asleep]]; [[c/_conscious|conscious]].**
-- **(by extension) [[a/_alert|Alert]], [[a/_aware|aware]].**
+- **Not asleep; conscious.**
+- **(by extension) Alert, aware.**
 	- _Example: They were awake to the possibility of a decline in sales._
 ---
 ### Synonyms
-- [[conscious]], [[lucid]], [[wide awake]], [[wary]], [[woke]]
+- [[[[c/_conscious|conscious]]]], [[lucid]], [[wide [[a/_awake|awake]]]], [[wary]], [[woke]]
 ### Antonyms
-- [[asleep]], [[unconscious]], [[heedless]], [[oblivious]]
+- [[[[a/_asleep|asleep]]]], [[unconscious]], [[heedless]], [[oblivious]]
 ---

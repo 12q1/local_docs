@@ -1,14 +1,14 @@
 # Callower
 ---
 #adjective
-- **Unfledged (of a young [[b/_bird|bird]]).**
+- **Unfledged (of a young bird).**
 - **(by extension) Immature, lacking in life experience.**
 	- _Example: Those three young men are particularly callow youths._
-- **Lacking [[c/_color|color]] or firmness (of some kinds of insects or other [[a/_arthropods|arthropods]], such as spiders, just [[a/_after|after]] ecdysis); teneral.**
+- **Lacking color or firmness (of some kinds of insects or other arthropods, such as spiders, just after ecdysis); teneral.**
 - **Shallow or weak-willed.**
-- **(of a [[b/_brick|brick]]) Unburnt.**
+- **(of a brick) Unburnt.**
 - **Of land: low-lying and liable to be submerged.**
-- **[[b/_bald|Bald]].**
+- **Bald.**
 ---
 ### Antonyms
 - [[experienced]], [[mature]]

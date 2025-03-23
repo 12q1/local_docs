@@ -1,9 +1,9 @@
 # Decerebrate
 ---
 #verb
-- **To remove the [[c/_cerebrum|cerebrum]] in order to eliminate [[b/_brain|brain]] function.**
+- **To remove the cerebrum in order to eliminate brain function.**
 ---
 #adjective
-- **Having the [[c/_cerebrum|cerebrum]] removed.**
+- **Having the cerebrum removed.**
 ---
 ---

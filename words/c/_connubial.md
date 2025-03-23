@@ -1,8 +1,8 @@
 # Connubial
 ---
 #adjective
-- **Of or relating to the state of [[b/_being|being]] married.**
+- **Of or relating to the state of being married.**
 ---
 ### Synonyms
-- [[conjugal]]
+- [[[[c/_conjugal|conjugal]]]]
 ---

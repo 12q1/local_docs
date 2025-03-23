@@ -4,9 +4,9 @@
 - **To make such a sound**
 ---
 #noun
-- **A sound that [[c/_clunks|clunks]].**
+- **A sound that clunks.**
 ---
 #adjective
-- **Clunky; [[a/_awkward|awkward]]**
+- **Clunky; awkward**
 ---
 ---

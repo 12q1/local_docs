@@ -1,8 +1,8 @@
 # Chatelain
 ---
 #noun
-- **A [[c/_castle|castle]]-keeper, [[c/_castellan|castellan]].**
+- **A castle-keeper, castellan.**
 ---
 ### Synonyms
-- [[castellan]]
+- [[[[c/_castellan|castellan]]]]
 ---

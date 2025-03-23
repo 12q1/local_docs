@@ -1,8 +1,8 @@
 # Breathable
 ---
 #adjective
-- **(of [[a/_air|air]]) suitable for [[b/_breathing|breathing]]**
-- **(of a fabric, etc.) Letting [[a/_air|air]] seep through.**
+- **(of air) suitable for breathing**
+- **(of a fabric, etc.) Letting air seep through.**
 	- _Example: breathable paint_
 ---
 ### Antonyms

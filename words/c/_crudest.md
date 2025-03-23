@@ -3,9 +3,9 @@
 #adjective
 - **In a natural, untreated state.**
 	- _Example: crude oil_
-- **[[c/_characterized|Characterized]] by simplicity, especially something not [[c/_carefully|carefully]] or expertly made.**
+- **Characterized by simplicity, especially something not carefully or expertly made.**
 	- _Example: a crude shelter_
-- **Lacking [[c/_concealing|concealing]] elements.**
+- **Lacking concealing elements.**
 	- _Example: a crude truth_
 - **Lacking tact or taste.**
 	- _Example: a crude remark_
@@ -13,7 +13,7 @@
 - **(grammar) Pertaining to the uninflected stem of a word.**
 ---
 ### Synonyms
-- [[raw]], [[blunt]], [[immature]], [[unripe]], [[obvious]], [[primitive]], [[raw]]
+- [[raw]], [[[[b/_blunt|blunt]]]], [[immature]], [[unripe]], [[obvious]], [[primitive]], [[raw]]
 ### Antonyms
 - [[processed]], [[refined]]
 ---

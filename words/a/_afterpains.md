@@ -1,6 +1,6 @@
 # Afterpains
 ---
 #noun
-- **(often in the plural) pain of uterine [[c/_contractions|contractions]] experienced [[a/_after|after]] [[c/_childbirth|childbirth]] (especially [[a/_after|after]] passage of the placenta)**
+- **(often in the plural) pain of uterine contractions experienced after childbirth (especially after passage of the placenta)**
 ---
 ---

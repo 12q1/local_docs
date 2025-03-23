@@ -1,6 +1,6 @@
 # Canvassing
 ---
 #noun
-- **The [[a/_act|act]] of one who [[c/_canvasses|canvasses]] or solicits.**
+- **The act of one who canvasses or solicits.**
 ---
 ---

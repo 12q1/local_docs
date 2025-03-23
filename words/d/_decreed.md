@@ -1,7 +1,7 @@
 # Decreed
 ---
 #verb
-- **To [[c/_command|command]] by a [[d/_decree|decree]].**
+- **To command by a decree.**
 	- _Example: A court decrees a restoration of property._
 ---
 ---

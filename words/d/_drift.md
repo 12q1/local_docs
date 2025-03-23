@@ -1,0 +1,35 @@
+# Drift
+---
+#noun
+- **(physical) Movement; that which moves or is moved.**
+- **The act or motion of drifting; the force which impels or drives; an overpowering influence or impulse.**
+- **A place (a ford) along a river where the water is shallow enough to permit crossing to the opposite side.**
+- **The tendency of an act, argument, course of conduct, or the like; object aimed at or intended; intention; hence, also, import or meaning of a sentence or discourse; aim.**
+- **The horizontal thrust or pressure of an arch or vault upon the abutments.**
+- **(handiwork) A tool.**
+- **A deviation from the line of fire, peculiar to oblong projectiles.**
+- **Minor deviation of audio or video playback from its correct speed.**
+- **The situation where a performer gradually and unintentionally moves from their proper location within the scene.**
+- **A passage driven or cut between shaft and shaft; a driftway; a small subterranean gallery; an adit or tunnel.**
+- **Movement.**
+- **A sideways movement of the ball through the air, when bowled by a spin bowler.**
+- **Slow, cumulative change.**
+	- _Example: genetic drift_
+---
+#verb
+- **To move slowly, especially pushed by currents of water, air, etc.**
+	- _Example: The balloon was drifting in the breeze._
+- **To move haphazardly without any destination.**
+	- _Example: He drifted from town to town, never settling down._
+- **To deviate gently from the intended direction of travel.**
+	- _Example: This car tends to drift left at high speeds._
+- **To drive or carry, as currents do a floating body.**
+- **To drive into heaps.**
+	- _Example: A current of wind drifts snow or sand_
+- **To accumulate in heaps by the force of wind; to be driven into heaps.**
+	- _Example: Snow or sand drifts._
+- **To make a drift; to examine a vein or ledge for the purpose of ascertaining the presence of metals or ores; to follow a vein; to prospect.**
+- **To enlarge or shape, as a hole, with a drift.**
+- **To oversteer a vehicle, causing loss of traction, while maintaining control from entry to exit of a corner. See Drifting (motorsport).**
+---
+---

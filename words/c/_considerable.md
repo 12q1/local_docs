@@ -1,12 +1,12 @@
 # Considerable
 ---
 #noun
-- **A thing to be [[c/_considered|considered]], [[c/_consideration|consideration]].**
+- **A thing to be considered, consideration.**
 ---
 #adjective
-- **Significant; worth [[c/_considering|considering]].**
+- **Significant; worth considering.**
 	- _Example: I've spent a considerable amount of time on this._
-- **Large in [[a/_amount|amount]].**
+- **Large in amount.**
 ---
 ### Antonyms
 - [[ignorable]], [[negligible]]

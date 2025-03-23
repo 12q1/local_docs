@@ -1,7 +1,7 @@
 # Contortion
 ---
 #noun
-- **The [[a/_act|act]] of [[c/_contorting|contorting]], twisting or [[d/_deforming|deforming]] something, especially oneself.**
-- **A form of [[a/_acrobatic|acrobatic]] display which involves the dramatic [[b/_bending|bending]] and flexing of the human [[b/_body|body]].**
+- **The act of contorting, twisting or deforming something, especially oneself.**
+- **A form of acrobatic display which involves the dramatic bending and flexing of the human body.**
 ---
 ---

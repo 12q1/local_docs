@@ -1,53 +1,53 @@
 # Cracking
 ---
 #verb
-- **To form [[c/_cracks|cracks]].**
+- **To form cracks.**
 	- _Example: It's been so dry, the ground is starting to crack._
-- **To [[b/_break|break]] [[a/_apart|apart]] under pressure.**
+- **To break apart under pressure.**
 	- _Example: When I tried to stand on the chair, it cracked._
-- **To [[b/_become|become]] [[d/_debilitated|debilitated]] by psychological pressure.**
+- **To become debilitated by psychological pressure.**
 	- _Example: Anyone would crack after being hounded like that._
-- **To [[b/_break|break]] down or yield, especially under interrogation or torture.**
+- **To break down or yield, especially under interrogation or torture.**
 	- _Example: When we showed him the pictures of the murder scene, he cracked._
-- **To make a [[c/_cracking|cracking]] sound.**
+- **To make a cracking sound.**
 	- _Example: The bat cracked with authority and the ball went for six._
-- **(of a voice) To [[c/_change|change]] rapidly in register.**
+- **(of a voice) To change rapidly in register.**
 	- _Example: His voice cracked with emotion._
-- **(of a pubescent [[b/_boy|boy]]'s voice) To [[a/_alternate|alternate]] [[b/_between|between]] high and low register in the process of eventually lowering.**
+- **(of a pubescent boy's voice) To alternate between high and low register in the process of eventually lowering.**
 	- _Example: His voice finally cracked when he was fourteen._
-- **To make a sharply humorous [[c/_comment|comment]].**
+- **To make a sharply humorous comment.**
 	- _Example: "I would too, with a face like that," she cracked._
-- **To make a [[c/_crack|crack]] or [[c/_cracks|cracks]] in.**
+- **To make a crack or cracks in.**
 	- _Example: The ball cracked the window._
-- **To [[b/_break|break]] open or [[c/_crush|crush]] to small pieces by impact or stress.**
+- **To break open or crush to small pieces by impact or stress.**
 	- _Example: You'll need a hammer to crack a black walnut._
 - **To strike forcefully.**
 	- _Example: She cracked him over the head with her handbag._
 - **To open slightly.**
 	- _Example: Could you please crack the window?_
-- **To [[c/_cause|cause]] to yield under interrogation or other pressure. (Figurative)**
+- **To cause to yield under interrogation or other pressure. (Figurative)**
 	- _Example: They managed to crack him on the third day._
-- **To solve a difficult problem. (Figurative, from [[c/_cracking|cracking]] a nut.)**
+- **To solve a difficult problem. (Figurative, from cracking a nut.)**
 	- _Example: I've finally cracked it, and of course the answer is obvious in hindsight._
-- **To overcome a security system or a [[c/_component|component]].**
+- **To overcome a security system or a component.**
 	- _Example: It took a minute to crack the lock, three minutes to crack the security system, and about twenty minutes to crack the safe._
-- **To [[c/_cause|cause]] to make a sharp sound.**
+- **To cause to make a sharp sound.**
 	- _Example: to crack a whip_
 - **To tell (a joke).**
 	- _Example: The performance was fine until he cracked that dead baby joke._
-- **To [[b/_break|break]] down (a [[c/_complex|complex]] molecule), especially with the [[a/_application|application]] of heat: to pyrolyse.**
+- **To break down (a complex molecule), especially with the application of heat: to pyrolyse.**
 	- _Example: Acetone is cracked to ketene and methane at 700°C._
-- **To [[c/_circumvent|circumvent]] software restrictions such as regional [[c/_coding|coding]] or time limits.**
+- **To circumvent software restrictions such as regional coding or time limits.**
 	- _Example: That software licence will expire tomorrow unless we can crack it._
-- **To open a [[c/_canned|canned]] [[b/_beverage|beverage]], or [[a/_any|any]] packaged drink or food.**
+- **To open a canned beverage, or any packaged drink or food.**
 	- _Example: I'd love to crack open a beer._
-- **To [[b/_brag|brag]], [[b/_boast|boast]].**
+- **To brag, boast.**
 - **To be ruined or impaired; to fail.**
 ---
 #noun
-- **The thermal [[d/_decomposition|decomposition]] of a substance, especially that of [[c/_crude|crude]] petroleum in order to produce petrol / gasoline.**
-- **The formation of [[c/_cracks|cracks]] on a surface.**
-- **The production of a [[c/_crack|crack]] sound.**
+- **The thermal decomposition of a substance, especially that of crude petroleum in order to produce petrol / gasoline.**
+- **The formation of cracks on a surface.**
+- **The production of a crack sound.**
 	- _Example: the crackings of whips_
 ---
 #adjective
@@ -57,7 +57,7 @@
 	- _Example: We had a cracking time._
 ---
 #adverb
-- **Very, usually [[a/_associated|associated]] with praise.**
+- **Very, usually associated with praise.**
 	- _Example: It was a cracking good show._
 ---
 ---

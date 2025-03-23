@@ -1,9 +1,9 @@
 # Countered
 ---
 #verb
-- **To [[c/_contradict|contradict]], oppose.**
-- **To return a [[b/_blow|blow]] while receiving one, as in [[b/_boxing|boxing]].**
-- **To take [[a/_action|action]] in response to; to respond.**
+- **To contradict, oppose.**
+- **To return a blow while receiving one, as in boxing.**
+- **To take action in response to; to respond.**
 - **To encounter.**
 ---
 ---

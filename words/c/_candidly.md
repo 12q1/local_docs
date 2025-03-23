@@ -1,6 +1,6 @@
 # Candidly
 ---
 #adverb
-- **In a [[c/_candid|candid]] manner; frankly**
+- **In a candid manner; frankly**
 ---
 ---

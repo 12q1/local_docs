@@ -1,17 +1,17 @@
 # Crepe
 ---
 #noun
-- **A flat round pancake-like pastry from Lower [[b/_brittany|Brittany]], made with wheat.**
-- **A soft thin light fabric with a [[c/_crinkled|crinkled]] surface.**
-- **[[c/_crepe|Crepe]] paper; thin, [[c/_crinkled|crinkled]] tissue paper.**
+- **A flat round pancake-like pastry from Lower Brittany, made with wheat.**
+- **A soft thin light fabric with a crinkled surface.**
+- **Crepe paper; thin, crinkled tissue paper.**
 - **Rubber in sheets, used especially for shoe soles.**
 	- _Example: The policeman wore crepe-soled shoes._
-- **A [[d/_death|death]] notice printed on white [[c/_card|card]] with a [[b/_background|background]] of [[b/_black|black]] [[c/_crepe|crepe]] paper or [[c/_cloth|cloth]], placed on the door of a residence or [[b/_business|business]].**
+- **A death notice printed on white card with a background of black crepe paper or cloth, placed on the door of a residence or business.**
 ---
 ### Synonyms
-- [[crape]], [[crepe rubber]], [[French pancake]]
+- [[[[c/_crape|crape]]]], [[[[c/_crepe|crepe]] rubber]], [[French pancake]]
 #verb
-- **To [[c/_crease|crease]] (paper) in such a way to make it look like [[c/_crepe|crepe]] paper**
+- **To crease (paper) in such a way to make it look like crepe paper**
 - **To frizz (the hair).**
 ---
 ---

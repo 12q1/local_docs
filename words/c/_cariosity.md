@@ -1,6 +1,6 @@
 # Cariosity
 ---
 #noun
-- **[[c/_caries|Caries]]**
+- **Caries**
 ---
 ---

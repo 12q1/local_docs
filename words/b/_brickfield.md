@@ -1,6 +1,6 @@
 # Brickfield
 ---
 #noun
-- **A place where [[b/_bricks|bricks]] are made; a [[b/_brickyard|brickyard]].**
+- **A place where bricks are made; a brickyard.**
 ---
 ---

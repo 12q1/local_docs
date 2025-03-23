@@ -1,6 +1,6 @@
 # Anagrammatise
 ---
 #verb
-- **To produce an [[a/_anagram|anagram]] of; to transpose the letters of.**
+- **To produce an anagram of; to transpose the letters of.**
 ---
 ---

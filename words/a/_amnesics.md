@@ -1,10 +1,10 @@
 # Amnesics
 ---
 #noun
-- **A person suffering from [[a/_amnesia|amnesia]]**
+- **A person suffering from amnesia**
 ---
 ### Synonyms
-- [[amnesiac]]
+- [[[[a/_amnesiac|amnesiac]]]]
 ### Antonyms
 - [[nonamnesic]]
 ---

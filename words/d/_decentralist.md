@@ -1,6 +1,6 @@
 # Decentralist
 ---
 #noun
-- **A supporter of [[d/_decentralism|decentralism]].**
+- **A supporter of decentralism.**
 ---
 ---

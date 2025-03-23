@@ -2,8 +2,8 @@
 ---
 #adjective
 - **Self-evident or unquestionable.**
-- **Relating to or [[c/_containing|containing]] [[a/_axioms|axioms]].**
+- **Relating to or containing axioms.**
 ---
 ### Synonyms
-- [[axiomatical]], [[self-evident]]
+- [[[[a/_axiomatical|axiomatical]]]], [[self-evident]]
 ---

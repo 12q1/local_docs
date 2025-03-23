@@ -1,8 +1,8 @@
 # Decimalizes
 ---
 #verb
-- **: To [[c/_convert|convert]] to the [[d/_decimal|decimal]] system.**
+- **: To convert to the decimal system.**
 ---
 ### Synonyms
-- [[decimate]]
+- [[[[d/_decimate|decimate]]]]
 ---

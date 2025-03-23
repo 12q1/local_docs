@@ -1,9 +1,9 @@
 # Astragalus
 ---
 #noun
-- **The [[a/_anklebone|anklebone]].**
-- **A herb of the genus [[a/_astragalus|Astragalus]].**
+- **The anklebone.**
+- **A herb of the genus Astragalus.**
 ---
 ### Synonyms
-- [[anklebone]], [[astragal]], [[talus]], [[astragal]], [[locoweed]]
+- [[[[a/_anklebone|anklebone]]]], [[[[a/_astragal|astragal]]]], [[talus]], [[[[a/_astragal|astragal]]]], [[locoweed]]
 ---

@@ -1,7 +1,7 @@
 # Clannish
 ---
 #adjective
-- **Of or related to a [[c/_clan|clan]].**
+- **Of or related to a clan.**
 - **Socially exclusive.**
 ---
 ### Synonyms

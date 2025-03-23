@@ -1,6 +1,6 @@
 # Conchies
 ---
 #noun
-- **A [[c/_conscientious|conscientious]] objector.**
+- **A conscientious objector.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Belter
 ---
 #noun
-- **[[a/_anything|Anything]] that is particularly good of its [[c/_class|class]].**
+- **Anything that is particularly good of its class.**
 - **A very good-looking person.**
 ---
 ---

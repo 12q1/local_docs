@@ -7,11 +7,11 @@
 	- _Example: The foam cossets your skin._
 ---
 ### Synonyms
-- [[grope]], [[touch up]], [[coddle]], [[posset]]
+- [[grope]], [[touch up]], [[[[c/_coddle|coddle]]]], [[posset]]
 #adjective
 - **Pampered.**
 	- _Example: a cosseted childhood_
 ---
 ### Synonyms
-- [[coddled]], [[spoiled]]
+- [[[[c/_coddled|coddled]]]], [[spoiled]]
 ---

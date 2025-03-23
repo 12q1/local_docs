@@ -1,8 +1,8 @@
 # Cellists
 ---
 #noun
-- **Someone who plays the [[c/_cello|cello]].**
+- **Someone who plays the cello.**
 ---
 ### Synonyms
-- [[cello player]], [[celloist]]
+- [[[[c/_cello|cello]] player]], [[[[c/_celloist|celloist]]]]
 ---

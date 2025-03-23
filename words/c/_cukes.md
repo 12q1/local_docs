@@ -1,7 +1,7 @@
 # Cukes
 ---
 #noun
-- **A [[c/_cucumber|cucumber]].**
+- **A cucumber.**
 ---
 #noun
 - **A cucoloris.**

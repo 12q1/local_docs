@@ -1,9 +1,9 @@
 # Championship
 ---
 #noun
-- **A [[c/_competition|competition]] to [[d/_determine|determine]] a [[c/_champion|champion]], especially the final of a series of [[c/_competitions|competitions]].**
-- **The position of [[c/_champion|champion]], or winner.**
-- **[[d/_defense|Defense]] or support of some [[c/_cause|cause]].**
+- **A competition to determine a champion, especially the final of a series of competitions.**
+- **The position of champion, or winner.**
+- **Defense or support of some cause.**
 	- _Example: His championship of civil rights eventually bore fruit._
 ---
 ---

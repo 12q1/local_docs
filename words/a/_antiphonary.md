@@ -1,9 +1,9 @@
 # Antiphonary
 ---
 #noun
-- **An [[a/_antiphonal|antiphonal]].**
+- **An antiphonal.**
 ---
 #adjective
-- **Pertaining to an [[a/_antiphon|antiphon]] or [[a/_antiphony|antiphony]].**
+- **Pertaining to an antiphon or antiphony.**
 ---
 ---

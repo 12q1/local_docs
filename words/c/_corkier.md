@@ -1,9 +1,9 @@
 # Corkier
 ---
 #adjective
-- **Of wine, [[c/_contaminated|contaminated]] by a faulty or tainted [[c/_cork|cork]].**
+- **Of wine, contaminated by a faulty or tainted cork.**
 	- _Example: This wine smells a bit corky; get me another bottle._
-- **[[c/_consisting|Consisting]] of, or like, [[c/_cork|cork]]; dry; shrivelled.**
+- **Consisting of, or like, cork; dry; shrivelled.**
 ---
 ### Synonyms
 - [[suberose]], [[suberous]]

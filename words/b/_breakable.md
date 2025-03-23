@@ -1,16 +1,16 @@
 # Breakable
 ---
 #noun
-- **Something that is (easily) [[b/_breakable|breakable]].**
+- **Something that is (easily) breakable.**
 	- _Example: We had to wrap all the breakables before the movers arrived._
-- **(usually in the plural) A set of [[c/_customized|customized]] hardware that is part of a drum kit. [[b/_breakables|Breakables]] typically [[c/_consist|consist]] of: the drummer's [[c/_cymbals|cymbals]] including high-hats, the snare drum, the kick pedal and the drummer's stool.**
+- **(usually in the plural) A set of customized hardware that is part of a drum kit. Breakables typically consist of: the drummer's cymbals including high-hats, the snare drum, the kick pedal and the drummer's stool.**
 ---
 #adjective
-- **[[a/_able|Able]] to [[b/_break|break]] or be [[b/_broken|broken]].**
+- **Able to break or be broken.**
 - **Fragile.**
 ---
 ### Synonyms
-- [[destructible]]
+- [[[[d/_destructible|destructible]]]]
 ### Antonyms
 - [[unbreakable]]
 ---

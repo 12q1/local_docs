@@ -1,6 +1,6 @@
 # Barramundis
 ---
 #noun
-- **A species of diadromous fish, Lates calcarifer, of the [[c/_centropomidae|Centropomidae]] family, order Perciformes.**
+- **A species of diadromous fish, Lates calcarifer, of the Centropomidae family, order Perciformes.**
 ---
 ---

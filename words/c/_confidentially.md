@@ -1,7 +1,7 @@
 # Confidentially
 ---
 #adverb
-- **In a [[c/_confidential|confidential]] manner.**
+- **In a confidential manner.**
 - **Spoken of in a private manner.**
 ---
 ---

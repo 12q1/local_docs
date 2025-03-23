@@ -1,11 +1,11 @@
 # Bombers
 ---
 #noun
-- **A military [[a/_aircraft|aircraft]] [[d/_designed|designed]] to [[c/_carry|carry]] and drop [[b/_bombs|bombs]].**
-- **A person who sets [[b/_bombs|bombs]], especially as an [[a/_act|act]] of terrorism.**
-- **A [[b/_bomber|bomber]] jacket.**
-- **A 22-ounce [[b/_beer|beer]] [[b/_bottle|bottle]].**
-- **A graffiti [[b/_bomber|bomber]].**
-- **A large [[c/_cannabis|cannabis]] [[c/_cigarette|cigarette]].**
+- **A military aircraft designed to carry and drop bombs.**
+- **A person who sets bombs, especially as an act of terrorism.**
+- **A bomber jacket.**
+- **A 22-ounce beer bottle.**
+- **A graffiti bomber.**
+- **A large cannabis cigarette.**
 ---
 ---
