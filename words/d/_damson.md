@@ -1,0 +1,10 @@
+# Damson
+---
+#noun
+- **A subspecies of plum tree, Prunus domestica subsp. insititia, native to Eurasia.**
+- **The edible fruit of this tree.**
+---
+#adjective
+- **The [[color]] of the fruit of this tree, a very [[deep]] purple.**
+---
+---

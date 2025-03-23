@@ -1,0 +1,6 @@
+# Allod
+---
+#noun
+- **Allodium**
+---
+---

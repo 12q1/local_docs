@@ -1,0 +1,6 @@
+# Cycloparaffin
+---
+#noun
+- **A [[cycloalkane]].**
+---
+---

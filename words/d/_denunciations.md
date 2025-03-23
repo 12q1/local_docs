@@ -1,0 +1,8 @@
+# Denunciations
+---
+#noun
+- **Proclamation; [[announcement]]; a publishing.**
+- **The [[act]] of [[denouncing]]; public menace or [[accusation]]; the [[act]] of inveighing [[against]], stigmatizing, or publicly [[arraigning]]; [[arraignment]].**
+- **That by which [[anything]] is [[denounced]]; threat of evil; public menace or [[accusation]]; [[arraignment]].**
+---
+---

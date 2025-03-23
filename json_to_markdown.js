@@ -3,7 +3,7 @@ const path = require('path');
 
 const INPUT_FILE = 'dictionary.json';
 const OUTPUT_DIR = 'words';
-const INDEX_FILE = path.join(OUTPUT_DIR, '_index.md');
+const INDEX_FILE = path.join(OUTPUT_DIR, '__index.md');
 
 // Ensure output directory exists
 if (!fs.existsSync(OUTPUT_DIR)) {
@@ -70,7 +70,16 @@ let indexContent = `# Dictionary Index\n\n`;
 Object.entries(dictionary).forEach(([word, data]) => {
     if (!word) return; // Skip null/empty words
 
-    const filePath = path.join(OUTPUT_DIR, `${word}.md`);
+    const firstLetter = word[0].toLowerCase();
+    const folderPath = path.join(OUTPUT_DIR, firstLetter);
+
+    // Ensure letter folder exists
+    if (!fs.existsSync(folderPath)) {
+        fs.mkdirSync(folderPath);
+    }
+
+    // Add underscore prefix to the filename
+    const filePath = path.join(folderPath, `_${word}.md`);
     const markdownContent = formatMarkdown(word, data);
 
     if (markdownContent) {

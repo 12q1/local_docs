@@ -1,0 +1,22 @@
+# Deliveries
+---
+#noun
+- **The [[act]] of [[conveying]] something.**
+	- _Example: The delivery was completed by four._
+- **The item which has [[been]] [[conveyed]].**
+	- _Example: Your delivery is on the table._
+- **The [[act]] of giving [[birth]]**
+	- _Example: The delivery was painful._
+- **A pitching motion.**
+	- _Example: His delivery has a catch in it._
+- **A thrown pitch.**
+	- _Example: Here is the delivery; ... strike three!_
+- **The manner of speaking.**
+	- _Example: The actor's delivery was flawless._
+- **The [[administration]] of a drug.**
+	- _Example: Drug delivery system._
+- **A [[ball]] [[bowled]].**
+- **The process of throwing a stone.**
+- **Process of introducing foreign DNA into host [[cells]].**
+---
+---

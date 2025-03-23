@@ -1,0 +1,7 @@
+# Canonisation
+---
+#noun
+- **The final process or [[decree]] (following [[beatification]]) by which the name of a [[deceased]] person is placed in the [[catalogue]] ([[canon]]) of saints and [[commended]] to perpetual veneration and invocation.**
+- **The state of [[being]] [[canonized]] or sainted.**
+---
+---

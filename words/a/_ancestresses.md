@@ -1,0 +1,6 @@
+# Ancestresses
+---
+#noun
+- **Female [[ancestor]]**
+---
+---

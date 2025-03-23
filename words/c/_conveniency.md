@@ -1,0 +1,6 @@
+# Conveniency
+---
+#noun
+- **Convenience.**
+---
+---

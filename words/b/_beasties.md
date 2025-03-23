@@ -1,0 +1,6 @@
+# Beasties
+---
+#noun
+- **Beast, [[animal]].**
+---
+---

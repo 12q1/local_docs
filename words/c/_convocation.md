@@ -1,0 +1,9 @@
+# Convocation
+---
+#noun
+- **The [[act]] of [[calling]] or [[assembling]] by summons.**
+- **An [[assembly]] or meeting.**
+- **An [[assembly]] of the [[clergy]], by their representatives, to [[consult]] on ecclesiastical [[affairs]].**
+- **An [[academic]] [[assembly]], in which the [[business]] of the university is transacted.**
+---
+---

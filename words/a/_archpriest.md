@@ -1,0 +1,7 @@
+# Archpriest
+---
+#noun
+- **(Eastern Orthodox Church) The highest rank given to a married priest.**
+- **(Roman Catholic Church) An honorific title [[applied]] to a priest who has a specific function.**
+---
+---

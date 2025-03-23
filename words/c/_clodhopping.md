@@ -1,0 +1,6 @@
+# Clodhopping
+---
+#adjective
+- **Boorish; rude**
+---
+---

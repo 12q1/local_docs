@@ -1,0 +1,6 @@
+# Acclivity
+---
+#noun
+- **A slope or inclination of the earth, as the side of a hill, [[considered]] as [[ascending]], in opposition to [[declivity]], or [[descending]]; an upward slope; [[ascent]].**
+---
+---

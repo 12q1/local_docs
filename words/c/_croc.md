@@ -1,0 +1,6 @@
+# Croc
+---
+#noun
+- **A [[crocodile]].**
+---
+---

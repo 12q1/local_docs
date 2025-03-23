@@ -1,0 +1,6 @@
+# Calcitonin
+---
+#noun
+- **Thyrocalcitonin**
+---
+---

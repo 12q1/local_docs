@@ -1,0 +1,6 @@
+# Corticated
+---
+#adjective
+- **Corticate**
+---
+---

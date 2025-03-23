@@ -1,0 +1,6 @@
+# Analecta
+---
+#noun
+- **Analects**
+---
+---

@@ -1,0 +1,6 @@
+# Cafard
+---
+#noun
+- **Depression; melancholy.**
+---
+---

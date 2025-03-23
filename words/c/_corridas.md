@@ -1,0 +1,6 @@
+# Corridas
+---
+#noun
+- **A [[bullfight]]**
+---
+---

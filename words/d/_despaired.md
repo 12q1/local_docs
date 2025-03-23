@@ -1,0 +1,8 @@
+# Despaired
+---
+#verb
+- **To give up as [[beyond]] hope or expectation; to [[despair]] of.**
+- **To [[cause]] to [[despair]].**
+- **(often with “of”) To be hopeless; to have no hope; to give up [[all]] hope or expectation.**
+---
+---

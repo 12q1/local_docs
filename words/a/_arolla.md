@@ -1,0 +1,6 @@
+# Arolla
+---
+#noun
+- **Stone pine**
+---
+---

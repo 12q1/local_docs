@@ -1,0 +1,6 @@
+# Bibliographical
+---
+#adjective
+- **Bibliographic**
+---
+---

@@ -1,0 +1,6 @@
+# Accusals
+---
+#noun
+- **Accusation**
+---
+---

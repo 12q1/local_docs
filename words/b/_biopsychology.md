@@ -1,0 +1,6 @@
+# Biopsychology
+---
+#noun
+- **Biological psychology**
+---
+---

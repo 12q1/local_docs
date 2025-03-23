@@ -1,0 +1,6 @@
+# Biophysics
+---
+#noun
+- **The interdisciplinary science that [[applies]] theories and methods of the physical sciences to questions of [[biology]].**
+---
+---

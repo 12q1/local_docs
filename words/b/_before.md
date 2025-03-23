@@ -1,0 +1,39 @@
+# Before
+---
+#adverb
+- **At an earlier time.**
+	- _Example: I've never done this before._
+- **In [[advance]].**
+- **At the front end.**
+---
+### Synonyms
+- [[previously]], [[in front]], [[ahead]]
+### Antonyms
+- [[after]], [[behind]]
+#preposition
+- **Earlier than (in time).**
+	- _Example: I want this done before Monday._
+- **In front of in space.**
+	- _Example: He stood before me._
+- **In the presence of.**
+	- _Example: He performed before the troops in North Africa._
+- **Under [[consideration]], judgment, [[authority]] of (someone).**
+	- _Example: The case laid before the panel aroused nothing but ridicule._
+- **In store for, in the future of (someone).**
+- **In front of, [[according]] to a formal system of ordering items.**
+	- _Example: In alphabetical order, "cat" comes before "dog", "canine" before feline"._
+- **At a higher or greater position than, in a ranking.**
+	- _Example: An entrepreneur puts market share and profit before quality, an amateur intrinsic qualities before economical considerations._
+---
+### Synonyms
+- [[by]], [[ere]], [[no later than]], [[previous to]], [[prior to]], [[ahead of]], [[ahead of]], [[in front of]]
+### Antonyms
+- [[after]], [[later]], [[after]], [[behind]]
+#conjunction
+- **In [[advance]] of the time when.**
+- **Rather or sooner than.**
+	- _Example: I'll die before I'll tell you anything about it._
+---
+### Synonyms
+- [[lest]]
+---

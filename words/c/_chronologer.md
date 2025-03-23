@@ -1,0 +1,6 @@
+# Chronologer
+---
+#noun
+- **A [[chronologist]].**
+---
+---

@@ -1,0 +1,6 @@
+# Aye
+---
+#adverb
+- **Ever, [[always]]**
+---
+---

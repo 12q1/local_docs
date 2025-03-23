@@ -1,0 +1,6 @@
+# Dadas
+---
+#noun
+- **Father, [[dad]].**
+---
+---

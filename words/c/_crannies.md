@@ -1,0 +1,7 @@
+# Crannies
+---
+#noun
+- **A small, narrow opening, fissure, [[crevice]], or [[chink]], as in a wall, or other substance.**
+- **A tool for forming the necks of [[bottles]], etc.**
+---
+---

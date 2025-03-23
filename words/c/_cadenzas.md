@@ -1,0 +1,6 @@
+# Cadenzas
+---
+#noun
+- **A part of a piece of music, such as a [[concerto]], that is very [[decorative]] and is played by a single musician.**
+---
+---

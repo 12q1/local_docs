@@ -1,0 +1,6 @@
+# Caproate
+---
+#noun
+- **A hexanoate.**
+---
+---

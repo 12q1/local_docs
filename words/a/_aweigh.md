@@ -1,0 +1,6 @@
+# Aweigh
+---
+#adjective
+- **Just drawn out of the ground, and hanging perpendicularly; [[atrip]]; said of the [[anchor]].**
+---
+---

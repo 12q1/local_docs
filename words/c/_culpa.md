@@ -1,0 +1,6 @@
+# Culpa
+---
+#noun
+- **Negligence or fault, as distinguishable from dolus ([[deceit]], fraud), which implies intent, [[culpa]] [[being]] imputable to [[defect]] of intellect, dolus to [[defect]] of heart.**
+---
+---

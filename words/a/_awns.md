@@ -1,0 +1,6 @@
+# Awns
+---
+#noun
+- **The [[bristle]] or [[beard]] of [[barley]], oats, grasses, etc., or [[any]] similar [[bristlelike]] [[appendage]]; [[arista]].**
+---
+---

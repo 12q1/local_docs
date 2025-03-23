@@ -1,0 +1,6 @@
+# Decarburizing
+---
+#verb
+- **To [[decarbonize]].**
+---
+---

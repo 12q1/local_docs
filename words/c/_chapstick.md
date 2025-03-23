@@ -1,0 +1,6 @@
+# Chapstick
+---
+#noun
+- **Lip [[balm]]**
+---
+---

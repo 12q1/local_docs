@@ -1,0 +1,7 @@
+# Descanted
+---
+#verb
+- **To discuss at length.**
+- **To sing or play a [[descant]].**
+---
+---

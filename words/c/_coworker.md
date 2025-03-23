@@ -1,0 +1,9 @@
+# Coworker
+---
+#noun
+- **Somebody with whom one works.**
+	- _Example: He heard from a coworker that the company planned to merge those departments._
+---
+### Synonyms
+- [[colleague]], [[workmate]]
+---

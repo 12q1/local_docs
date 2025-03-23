@@ -1,0 +1,6 @@
+# Bathymeter
+---
+#noun
+- **A [[bathometer]].**
+---
+---

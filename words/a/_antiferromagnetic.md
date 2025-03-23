@@ -1,0 +1,6 @@
+# Antiferromagnetic
+---
+#adjective
+- **Exhibiting [[antiferromagnetism]]**
+---
+---

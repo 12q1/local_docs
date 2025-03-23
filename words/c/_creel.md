@@ -1,0 +1,10 @@
+# Creel
+---
+#noun
+- **An osier [[basket]], such as [[anglers]] use to hold fish.**
+- **A [[bar]] or set of [[bars]] with skewers for holding paying-off [[bobbins]], as in the roving machine, throstle, and mule.**
+---
+#verb
+- **To place (fish) in a [[creel]].**
+---
+---

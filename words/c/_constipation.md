@@ -1,0 +1,7 @@
+# Constipation
+---
+#noun
+- **Act of [[crowding]] [[anything]] into a lesser [[compass]], or the state of [[being]] [[crowded]] or pressed together; [[condensation]].**
+- **A state of the [[bowels]] in which the evacuations are infrequent and difficult, or the intestines [[become]] filled with hardened faeces; [[costiveness]].**
+---
+---

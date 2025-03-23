@@ -1,0 +1,6 @@
+# Clavichord
+---
+#noun
+- **An early keyboard instrument producing a soft sound by means of metal [[blades]] ([[called]] tangents) [[attached]] to the inner ends of the keys gently striking the strings.**
+---
+---

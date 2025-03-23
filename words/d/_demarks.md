@@ -1,0 +1,6 @@
+# Demarks
+---
+#verb
+- **To [[demarcate]].**
+---
+---

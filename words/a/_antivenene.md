@@ -1,0 +1,6 @@
+# Antivenene
+---
+#noun
+- **Antivenom, [[antivenin]].**
+---
+---

@@ -1,0 +1,8 @@
+# Coleworts
+---
+#noun
+- **A plant of the genus Brassica; now specifically, a Brassica plant without a head used for food, such as kale.**
+---
+### Synonyms
+- [[cole]]
+---

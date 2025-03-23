@@ -1,0 +1,9 @@
+# Defatted
+---
+#verb
+- **To remove fat from a material, especially by the use of solvents**
+---
+#adjective
+- **From which fat has [[been]] removed (often by use of solvents)**
+---
+---

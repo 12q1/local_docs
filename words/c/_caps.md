@@ -1,0 +1,86 @@
+# Caps
+---
+#noun
+- **A [[close]]-fitting hat, either [[brimless]] or peaked.**
+	- _Example: The children were all wearing caps to protect them from the sun._
+- **A special hat to indicate rank, occupation, etc.**
+- **An [[academic]] mortarboard.**
+- **A protective [[cover]] or seal.**
+	- _Example: He took the cap off the bottle and splashed himself with some cologne._
+- **A [[crown]] for [[covering]] a tooth.**
+	- _Example: He had golden caps on his teeth._
+- **The summit of a mountain, etc.**
+	- _Example: There was snow on the cap of the mountain._
+- **An [[artificial]] upper limit or [[ceiling]].**
+	- _Example: We should put a cap on the salaries, to keep them under control._
+- **The top part of a mushroom.**
+- **(toy) A small [[amount]] of percussive explosive in a paper strip or plastic [[cup]] for use in a toy gun.**
+	- _Example: Billy spent all morning firing caps with his friends, re-enacting storming the beach at Normandy._
+- **A small explosive device used to detonate a larger [[charge]] of explosives.**
+	- _Example: He wired the cap to the bundle of dynamite, then detonated it remotely._
+- **A [[bullet]] used to shoot someone.**
+- **An international [[appearance]].**
+	- _Example: Rio Ferdinand won his 50th cap for England in a game against Sweden._
+- **The top, or uppermost part; the [[chief]].**
+- **A respectful uncovering of the head.**
+- **The whole top of the head of a [[bird]] from the [[base]] of the [[bill]] to the nape of the neck.**
+- **The uppermost of [[any]] [[assemblage]] of parts.**
+	- _Example: the cap of column, door, etc.; a capital, coping, cornice, lintel, or plate_
+- **Something [[covering]] the top or end of a thing for protection or ornament.**
+- **A [[collar]] of iron or wood used in joining spars, as the mast and the topmast, the [[bowsprit]] and the jib [[boom]]; [[also]], a [[covering]] of tarred [[canvas]] at the end of a rope.**
+- **A portion of a spherical or other [[convex]] surface.**
+- **A large size of writing paper.**
+	- _Example: flat cap; foolscap; legal cap_
+- **A lie or exaggeration.**
+	- _Example: no cap_
+---
+### Antonyms
+- [[floor]]
+#verb
+- **To [[cover]] or seal with a [[cap]].**
+- **To [[award]] a [[cap]] as a mark of distinction.**
+- **To lie over or on top of something.**
+- **To surpass or outdo.**
+- **To set an upper limit on something.**
+	- _Example: cap wages._
+- **To make something even more wonderful at the end.**
+	- _Example: That really capped my day._
+- **To select a player to play for a specified side.**
+- **To shoot (someone) with a firearm.**
+	- _Example: In a school shooting, where some kid caps a bunch of other kids, where did he get the weapon? From a family member, probably their gun cabinet._
+- **To select to play for the national team.**
+	- _Example: Peter Shilton is the most capped English footballer._
+- **To salute by uncovering the head respectfully.**
+- **To [[deprive]] of a [[cap]].**
+- **To tell a lie.**
+---
+#noun
+- **Capitalization.**
+---
+#noun
+- **An uppercase letter.**
+---
+#verb
+- **To [[convert]] text to uppercase.**
+---
+#noun
+- **Capacitor**
+	- _Example: Parasitic caps._
+---
+#noun
+- **A recording or screenshot.**
+	- _Example: Anyone have a cap of the games last night?_
+---
+#verb
+- **To take a screenshot or to record a [[copy]] of a video.**
+---
+#noun
+- **A [[capsule]] of a drug.**
+---
+#noun
+- **A wooden drinking-[[bowl]] with two handles.**
+---
+#noun
+- **Capital letters; [[capitals]].**
+---
+---

@@ -1,0 +1,6 @@
+# Componentry
+---
+#noun
+- **Components generally**
+---
+---

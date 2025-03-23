@@ -1,0 +1,10 @@
+# Calibrate
+---
+#verb
+- **To [[check]] or [[adjust]] by [[comparison]] with a standard.**
+- **To mark the scale of a measuring instrument.**
+- **To measure the [[caliber]] of a tube or gun.**
+---
+### Synonyms
+- [[tune]]
+---

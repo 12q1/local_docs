@@ -1,0 +1,6 @@
+# Damfool
+---
+#adjective
+- **Contemptibly foolish.**
+---
+---

@@ -1,0 +1,6 @@
+# Chimneypiece
+---
+#noun
+- **A mantelpiece.**
+---
+---

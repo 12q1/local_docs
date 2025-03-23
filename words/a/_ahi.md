@@ -1,0 +1,6 @@
+# Ahi
+---
+#noun
+- **Yellowfin tuna**
+---
+---

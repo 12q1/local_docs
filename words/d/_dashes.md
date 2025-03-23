@@ -1,0 +1,38 @@
+# Dashes
+---
+#noun
+- **Any of the following symbols: ‒ (figure [[dash]]), – (en [[dash]]), — (em [[dash]]), or ― (horizontal [[bar]]).**
+- **(by extension) The longer of the two symbols of Morse [[code]].**
+- **A short run, flight.**
+- **A rushing or violent onset.**
+- **Violent strike; a whack.**
+- **A small quantity of a liquid substance etc.; less than 1/8 of a teaspoon.**
+	- _Example: Add a dash of vinegar._
+- **(by extension) A slight [[admixture]].**
+	- _Example: There is a dash of craziness in his personality._
+- **Ostentatious vigor.**
+	- _Example: Aren't we full of dash this morning?_
+- **A [[dashboard]].**
+- **(Liberia) A [[bribe]] or gratuity; a gift.**
+- **A stand-in for a [[censored]] word, like "Devil" or "[[damn]]". (Compare deuce.)**
+---
+#verb
+- **To run quickly or for a short distance.**
+	- _Example: He dashed across the field._
+- **To leave or [[depart]].**
+	- _Example: I have to dash now. See you soon._
+- **To [[destroy]] by striking ([[against]]).**
+	- _Example: He dashed the bottle against the bar and turned about to fight._
+- **To throw violently.**
+	- _Example: The man was dashed from the vehicle during the accident._
+- **(sometimes figurative) To sprinkle; to splatter.**
+- **To mix, reduce, or [[adulterate]], by throwing in something of an inferior quality.**
+	- _Example: to dash wine with water_
+- **(of hopes or dreams) To ruin; to [[destroy]].**
+	- _Example: Her hopes were dashed when she saw the damage._
+- **To dishearten; to sadden.**
+- **To [[complete]] hastily, usually with down or off.**
+	- _Example: He dashed down his eggs, she dashed off her homework_
+- **To draw quickly; jot.**
+---
+---

@@ -1,0 +1,6 @@
+# Degenerescence
+---
+#noun
+- **Degeneration**
+---
+---

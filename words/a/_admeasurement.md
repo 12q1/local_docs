@@ -1,0 +1,6 @@
+# Admeasurement
+---
+#noun
+- **Apportionment.**
+---
+---

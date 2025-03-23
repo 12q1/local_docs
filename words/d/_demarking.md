@@ -1,0 +1,6 @@
+# Demarking
+---
+#verb
+- **To [[demarcate]].**
+---
+---

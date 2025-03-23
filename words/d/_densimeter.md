@@ -1,0 +1,6 @@
+# Densimeter
+---
+#noun
+- **A [[densitometer]].**
+---
+---
