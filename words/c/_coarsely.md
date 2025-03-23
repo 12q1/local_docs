@@ -1,6 +1,6 @@
 # Coarsely
 ---
 #adverb
-- **In a [[coarse]] manner**
+- **In a [[c/_coarse|coarse]] manner**
 ---
 ---

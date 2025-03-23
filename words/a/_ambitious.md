@@ -1,12 +1,12 @@
 # Ambitious
 ---
 #adjective
-- **(of a person or their [[character]]) Having or showing [[ambition]]; wanting a lot of power, honor, respect, superiority, or other distinction.**
+- **(of a person or their [[c/_character|character]]) Having or showing [[a/_ambition|ambition]]; wanting a lot of power, honor, respect, superiority, or other distinction.**
 	- _Example: an ambitious person_
-- **(followed by "of" or the infinitive) Very [[desirous]]**
-- **Resulting from, [[characterized]] by, or indicating, [[ambition]]**
+- **(followed by "of" or the infinitive) Very [[d/_desirous|desirous]]**
+- **Resulting from, [[c/_characterized|characterized]] by, or indicating, [[a/_ambition|ambition]]**
 	- _Example: an ambitious attempt to take power_
-- **Hard to [[achieve]].**
+- **Hard to [[a/_achieve|achieve]].**
 ---
 ### Synonyms
 - [[aspiring]], [[showy]]

@@ -1,6 +1,6 @@
 # Defervescence
 ---
 #noun
-- **The [[departure]] or subsiding of a fever.**
+- **The [[d/_departure|departure]] or subsiding of a fever.**
 ---
 ---

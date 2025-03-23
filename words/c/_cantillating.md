@@ -1,6 +1,6 @@
 # Cantillating
 ---
 #verb
-- **To [[chant]], or to recite musically (especially in a synagogue).**
+- **To [[c/_chant|chant]], or to recite musically (especially in a synagogue).**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bristols
 ---
 #noun
-- **Breasts.**
+- **[[b/_breasts|Breasts]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Binocs
 ---
 #noun
-- **Binoculars**
+- **[[b/_binoculars|Binoculars]]**
 ---
 ---

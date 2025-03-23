@@ -1,18 +1,18 @@
 # Consequences
 ---
 #noun
-- **That which follows something on which it [[depends]]; that which is produced by a [[cause]].**
-- **A result of [[actions]], especially if such a result is unwanted or unpleasant.**
+- **That which follows something on which it [[d/_depends|depends]]; that which is produced by a [[c/_cause|cause]].**
+- **A result of [[a/_actions|actions]], especially if such a result is unwanted or unpleasant.**
 	- _Example: I'm warning you. If you don't get me the report on time, there will be consequences._
-- **A proposition [[collected]] from the [[agreement]] of other previous propositions; [[any]] [[conclusion]] which results from reason or [[argument]]; inference.**
-- **Chain of [[causes]] and effects; [[consecution]].**
-- **Importance with respect to what [[comes]] [[after]].**
+- **A proposition [[c/_collected|collected]] from the [[a/_agreement|agreement]] of other previous propositions; [[a/_any|any]] [[c/_conclusion|conclusion]] which results from reason or [[a/_argument|argument]]; inference.**
+- **[[c/_chain|Chain]] of [[c/_causes|causes]] and effects; [[c/_consecution|consecution]].**
+- **Importance with respect to what [[c/_comes|comes]] [[a/_after|after]].**
 - **The power to influence or produce an effect.**
 - **(especially when preceded by "of") Importance, value, or influence.**
 ---
 ### Synonyms
 - [[aftercome]], [[distinction]], [[implication]], [[moment]], [[rank]], [[repercussion]], [[value]]
 #noun
-- **An old-fashioned parlour game [[describing]] the meeting of a lady and gentleman and the ensuing events, each player in turn writing a part of the story, not knowing what the others have written.**
+- **An old-fashioned parlour game [[d/_describing|describing]] the meeting of a lady and gentleman and the ensuing events, each player in turn writing a part of the story, not knowing what the others have written.**
 ---
 ---

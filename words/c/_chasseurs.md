@@ -1,10 +1,10 @@
 # Chasseurs
 ---
 #noun
-- **A soldier equipped for rapid movement; [[also]], [[any]] of several light infantry regiments, especially in France.**
-- **A servant or [[attendant]].**
+- **A soldier equipped for rapid movement; [[a/_also|also]], [[a/_any|any]] of several light infantry regiments, especially in France.**
+- **A servant or [[a/_attendant|attendant]].**
 - **A hotel messenger, especially in France.**
 - **A hunter or huntsman.**
-- **A dish of meat [[cooked]] in a sauce [[containing]] mushrooms, shallots and white wine.**
+- **A dish of meat [[c/_cooked|cooked]] in a sauce [[c/_containing|containing]] mushrooms, shallots and white wine.**
 ---
 ---

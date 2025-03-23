@@ -1,11 +1,11 @@
 # Closeness
 ---
 #noun
-- **The state of [[being]] [[close]] ([[all]] senses)**
-- **The state of [[being]] friends**
-- **The state of [[being]] mean or stingy**
-- **The state of [[being]] secretive**
-- **The shortest path [[between]] two vertices in a graph**
+- **The state of [[b/_being|being]] [[c/_close|close]] ([[a/_all|all]] senses)**
+- **The state of [[b/_being|being]] friends**
+- **The state of [[b/_being|being]] mean or stingy**
+- **The state of [[b/_being|being]] secretive**
+- **The shortest path [[b/_between|between]] two vertices in a graph**
 - **Solitude, seclusion**
 ---
 ### Synonyms

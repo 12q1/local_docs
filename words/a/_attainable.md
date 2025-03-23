@@ -1,10 +1,10 @@
 # Attainable
 ---
 #noun
-- **Something that [[can]] be [[attained]].**
+- **Something that [[c/_can|can]] be [[a/_attained|attained]].**
 ---
 #adjective
-- **Able to be [[accomplished]], [[achieved]], or obtained.**
+- **[[a/_able|Able]] to be [[a/_accomplished|accomplished]], [[a/_achieved|achieved]], or obtained.**
 ---
 ### Antonyms
 - [[unaccomplishable]], [[unachievable]], [[unattainable]], [[unobtainable]]

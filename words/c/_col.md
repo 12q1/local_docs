@@ -1,7 +1,7 @@
 # Col
 ---
 #noun
-- **A dip on a mountain ridge [[between]] two peaks.**
-- **A pressure region [[between]] two [[anticyclones]] and two low-pressure regions.**
+- **A dip on a mountain ridge [[b/_between|between]] two peaks.**
+- **A pressure region [[b/_between|between]] two [[a/_anticyclones|anticyclones]] and two low-pressure regions.**
 ---
 ---

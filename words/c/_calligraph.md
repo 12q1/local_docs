@@ -1,6 +1,6 @@
 # Calligraph
 ---
 #verb
-- **To write using [[calligraphy]].**
+- **To write using [[c/_calligraphy|calligraphy]].**
 ---
 ---

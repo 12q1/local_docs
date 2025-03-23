@@ -1,9 +1,9 @@
 # Associative
 ---
 #adjective
-- **Pertaining to, resulting from, or [[characterised]] by [[association]]; [[capable]] of [[associating]]; tending to [[associate]] or unite.**
-- **(of a [[binary]] operator *) Such that, for [[any]] operands a, [[b]] and [[c]], (a * [[b]]) * [[c]] = a * ([[b]] * [[c]]); (of a ring, etc.) whose multiplication operation is [[associative]].**
-- **Addressable by a key more [[complex]] than an integer index.**
+- **Pertaining to, resulting from, or [[c/_characterised|characterised]] by [[a/_association|association]]; [[c/_capable|capable]] of [[a/_associating|associating]]; tending to [[a/_associate|associate]] or unite.**
+- **(of a [[b/_binary|binary]] operator *) Such that, for [[a/_any|any]] operands a, [[b/_b|b]] and [[c/_c|c]], (a * [[b/_b|b]]) * [[c/_c|c]] = a * ([[b/_b|b]] * [[c/_c|c]]); (of a ring, etc.) whose multiplication operation is [[a/_associative|associative]].**
+- **[[a/_addressable|Addressable]] by a key more [[c/_complex|complex]] than an integer index.**
 	- _Example: AWK's associative arrays may be indexed by strings._
 ---
 ### Antonyms

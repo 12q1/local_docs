@@ -1,6 +1,6 @@
 # Catenated
 ---
 #verb
-- **To [[connect]] things together, especially to form a [[chain]].**
+- **To [[c/_connect|connect]] things together, especially to form a [[c/_chain|chain]].**
 ---
 ---

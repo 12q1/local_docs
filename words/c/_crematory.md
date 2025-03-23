@@ -1,9 +1,9 @@
 # Crematory
 ---
 #noun
-- **The establishment or furnace that [[cremates]] [[bodies]].**
+- **The establishment or furnace that [[c/_cremates|cremates]] [[b/_bodies|bodies]].**
 ---
 #adjective
-- **Pertaining to the [[act]] of [[cremating]] [[bodies]].**
+- **Pertaining to the [[a/_act|act]] of [[c/_cremating|cremating]] [[b/_bodies|bodies]].**
 ---
 ---

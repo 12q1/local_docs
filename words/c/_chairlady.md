@@ -1,6 +1,6 @@
 # Chairlady
 ---
 #noun
-- **Chairwoman**
+- **[[c/_chairwoman|Chairwoman]]**
 ---
 ---

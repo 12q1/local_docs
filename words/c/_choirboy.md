@@ -1,7 +1,7 @@
 # Choirboy
 ---
 #noun
-- **A [[boy]] [[chorister]].**
+- **A [[b/_boy|boy]] [[c/_chorister|chorister]].**
 - **A piously innocent person.**
 ---
 ---

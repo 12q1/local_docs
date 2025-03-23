@@ -1,6 +1,6 @@
 # Astrogation
 ---
 #noun
-- **Astronavigation (navigation through space).**
+- **[[a/_astronavigation|Astronavigation]] (navigation through space).**
 ---
 ---

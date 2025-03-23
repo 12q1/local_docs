@@ -1,6 +1,6 @@
 # Cowpeas
 ---
 #noun
-- **Any of the plants in the species Vigna unguiculata, including the [[black]]-eyed pea.**
+- **[[a/_any|Any]] of the plants in the species Vigna unguiculata, including the [[b/_black|black]]-eyed pea.**
 ---
 ---

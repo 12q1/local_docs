@@ -1,24 +1,24 @@
 # Buckling
 ---
 #verb
-- **To distort or [[collapse]] under physical pressure; especially, of a slender structure in [[compression]].**
-- **To make [[bend]]; to [[cause]] to [[become]] distorted.**
-- **To give in; to react suddenly or [[adversely]] to stress or pressure (of a person).**
+- **To distort or [[c/_collapse|collapse]] under physical pressure; especially, of a slender structure in [[c/_compression|compression]].**
+- **To make [[b/_bend|bend]]; to [[c/_cause|cause]] to [[b/_become|become]] distorted.**
+- **To give in; to react suddenly or [[a/_adversely|adversely]] to stress or pressure (of a person).**
 	- _Example: It is amazing that he has never buckled after so many years of doing such urgent work._
-- **To yield; to give way; to [[cease]] opposing.**
-- **To enter upon some labour or [[contest]]; to join in [[close]] fight; to [[contend]].**
-- **To [[buckle]] down; to [[apply]] oneself.**
+- **To yield; to give way; to [[c/_cease|cease]] opposing.**
+- **To enter upon some labour or [[c/_contest|contest]]; to join in [[c/_close|close]] fight; to [[c/_contend|contend]].**
+- **To [[b/_buckle|buckle]] down; to [[a/_apply|apply]] oneself.**
 ---
 #verb
-- **To fasten using a [[buckle]].**
+- **To fasten using a [[b/_buckle|buckle]].**
 - **To unite in marriage.**
 ---
 #noun
-- **The [[act]] of fastening a [[buckle]].**
+- **The [[a/_act|act]] of fastening a [[b/_buckle|buckle]].**
 - **A folding into hills and valleys.**
-- **The [[action]] of [[collapsing]] under pressure or stress.**
+- **The [[a/_action|action]] of [[c/_collapsing|collapsing]] under pressure or stress.**
 ---
 #adjective
-- **Wavy; [[curly]], as hair.**
+- **Wavy; [[c/_curly|curly]], as hair.**
 ---
 ---

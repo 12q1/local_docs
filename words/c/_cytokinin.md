@@ -1,6 +1,6 @@
 # Cytokinin
 ---
 #noun
-- **Any of a [[class]] of plant hormones involved in [[cell]] growth and division**
+- **[[a/_any|Any]] of a [[c/_class|class]] of plant hormones involved in [[c/_cell|cell]] growth and division**
 ---
 ---

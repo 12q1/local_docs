@@ -1,6 +1,6 @@
 # Arterialised
 ---
 #verb
-- **To [[convert]] venous [[blood]] into [[arterial]] [[blood]] (by the [[absorption]] of oxygen in the lungs)**
+- **To [[c/_convert|convert]] venous [[b/_blood|blood]] into [[a/_arterial|arterial]] [[b/_blood|blood]] (by the [[a/_absorption|absorption]] of oxygen in the lungs)**
 ---
 ---

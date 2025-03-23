@@ -1,6 +1,6 @@
 # Blurriness
 ---
 #noun
-- **The [[characteristic]] of [[being]] [[blurry]].**
+- **The [[c/_characteristic|characteristic]] of [[b/_being|being]] [[b/_blurry|blurry]].**
 ---
 ---

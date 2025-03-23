@@ -1,10 +1,10 @@
 # Apparently
 ---
 #adverb
-- **Plainly; [[clearly]]; manifestly; evidently.**
-- **Seemingly; in [[appearance]] only.**
+- **Plainly; [[c/_clearly|clearly]]; manifestly; evidently.**
+- **Seemingly; in [[a/_appearance|appearance]] only.**
 	- _Example: A man may be apparently friendly, yet malicious in heart._
-- **According to what the speaker has read or heard.**
+- **[[a/_according|According]] to what the speaker has read or heard.**
 	- _Example: Apparently you are quite a good dancer._
 ---
 ### Synonyms

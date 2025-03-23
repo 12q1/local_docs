@@ -1,8 +1,8 @@
 # Consecrates
 ---
 #verb
-- **To [[declare]] something holy, or make it holy by some procedure.**
-- **(specifically) To ordain as a [[bishop]].**
+- **To [[d/_declare|declare]] something holy, or make it holy by some procedure.**
+- **(specifically) To ordain as a [[b/_bishop|bishop]].**
 ---
 ### Synonyms
 - [[behallow]], [[hallow]]

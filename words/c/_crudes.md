@@ -1,7 +1,7 @@
 # Crudes
 ---
 #noun
-- **Any substance in its natural state.**
-- **Crude oil.**
+- **[[a/_any|Any]] substance in its natural state.**
+- **[[c/_crude|Crude]] oil.**
 ---
 ---

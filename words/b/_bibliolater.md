@@ -1,7 +1,7 @@
 # Bibliolater
 ---
 #noun
-- **A worshipper of [[books]], especially the Bible.**
+- **A worshipper of [[b/_books|books]], especially the [[b/_bible|Bible]].**
 ---
 ### Synonyms
 - [[bibliolatrist]]

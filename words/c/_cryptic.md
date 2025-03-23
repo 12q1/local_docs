@@ -1,20 +1,20 @@
 # Cryptic
 ---
 #noun
-- **A [[cryptic]] [[crossword]].**
+- **A [[c/_cryptic|cryptic]] [[c/_crossword|crossword]].**
 ---
 #adjective
 - **Having hidden meaning.**
 - **Mystified or of an obscure nature.**
-- **Involving use of a [[code]] or [[cipher]].**
-- **Of a [[crossword]], or a [[clue]] in such a [[crossword]], using, in [[addition]] to [[definitions]], wordplay such as [[anagrams]], homophones and hidden words to indicate solutions.**
-- **Well [[camouflaged]]; having good [[camouflage]].**
+- **Involving use of a [[c/_code|code]] or [[c/_cipher|cipher]].**
+- **Of a [[c/_crossword|crossword]], or a [[c/_clue|clue]] in such a [[c/_crossword|crossword]], using, in [[a/_addition|addition]] to [[d/_definitions|definitions]], wordplay such as [[a/_anagrams|anagrams]], homophones and hidden words to indicate solutions.**
+- **Well [[c/_camouflaged|camouflaged]]; having good [[c/_camouflage|camouflage]].**
 	- _Example: Lonomia caterpillars are extremely cryptic._
-- **Serving as [[camouflage]].**
+- **Serving as [[c/_camouflage|camouflage]].**
 	- _Example: cryptic colouring_
-- **Apparently identical, but [[actually]] genetically distinct.**
+- **[[a/_apparently|Apparently]] identical, but [[a/_actually|actually]] genetically distinct.**
 	- _Example: cryptic species_
-- **Living in a [[cavity]] or small [[cave]].**
+- **Living in a [[c/_cavity|cavity]] or small [[c/_cave|cave]].**
 ---
 ### Synonyms
 - [[cryptozoic]]

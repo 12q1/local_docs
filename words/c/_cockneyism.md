@@ -1,7 +1,7 @@
 # Cockneyism
 ---
 #noun
-- **The [[characteristics]], manners, or dialect of a Cockney.**
-- **A Cockney phrase or idiom.**
+- **The [[c/_characteristics|characteristics]], manners, or dialect of a [[c/_cockney|Cockney]].**
+- **A [[c/_cockney|Cockney]] phrase or idiom.**
 ---
 ---

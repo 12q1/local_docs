@@ -4,10 +4,10 @@
 - **An instruction to play gradually more softly.**
 ---
 #verb
-- **To gradually [[become]] quieter**
+- **To gradually [[b/_become|become]] quieter**
 ---
 #adjective
-- **Becoming quieter gradually.**
+- **[[b/_becoming|Becoming]] quieter gradually.**
 ---
 ### Synonyms
 - [[diminuendo]]

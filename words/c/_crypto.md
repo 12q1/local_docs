@@ -2,12 +2,12 @@
 ---
 #noun
 - **A secret supporter or follower.**
-- **Cryptography.**
+- **[[c/_cryptography|Cryptography]].**
 - **Cryptocurrency.**
-- **Cryptococcus.**
+- **[[c/_cryptococcus|Cryptococcus]].**
 - **Cryptosporidiosis.**
 ---
 #adjective
-- **Secret or [[covert]]**
+- **Secret or [[c/_covert|covert]]**
 ---
 ---

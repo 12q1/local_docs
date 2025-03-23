@@ -1,12 +1,12 @@
 # Ancona
 ---
 #noun
-- **The [[corner]] of a wall or rafter.**
-- **A [[console]] that [[appears]] to support a [[cornice]].**
+- **The [[c/_corner|corner]] of a wall or rafter.**
+- **A [[c/_console|console]] that [[a/_appears|appears]] to support a [[c/_cornice|cornice]].**
 - **The elbow.**
 - **The olecranon.**
 ---
 #noun
-- **An [[altarpiece]], especially one of multiple [[connected]] pictures**
+- **An [[a/_altarpiece|altarpiece]], especially one of multiple [[c/_connected|connected]] pictures**
 ---
 ---

@@ -1,10 +1,10 @@
 # Chads
 ---
 #noun
-- **(pickup [[community]]) A very handsome, usually tall, man whom women find sexually [[attractive]]; at times seen as an [[alpha]] male of a group.**
+- **(pickup [[c/_community|community]]) A very handsome, usually tall, man whom women find sexually [[a/_attractive|attractive]]; at times seen as an [[a/_alpha|alpha]] male of a group.**
 ---
 #noun
-- **Small pieces of paper punched out from the edges of [[continuous]] stationery, or from [[ballot]] papers, paper tape, punched [[cards]], etc.**
+- **Small pieces of paper punched out from the edges of [[c/_continuous|continuous]] stationery, or from [[b/_ballot|ballot]] papers, paper tape, punched [[c/_cards|cards]], etc.**
 - **One of these pieces of paper.**
 ---
 ---

@@ -1,19 +1,19 @@
 # Beefing
 ---
 #verb
-- **To [[complain]].**
-- **To [[add]] weight or strength to; to [[beef]] up.**
-- **To fart; [[break]] wind.**
+- **To [[c/_complain|complain]].**
+- **To [[a/_add|add]] weight or strength to; to [[b/_beef|beef]] up.**
+- **To fart; [[b/_break|break]] wind.**
 	- _Example: Ugh, who just beefed in here?_
-- **To feud or hold a grudge [[against]].**
+- **To feud or hold a grudge [[a/_against|against]].**
 	- _Example: Those two are beefing right now - best you stay out of it for now._
-- **To [[cry]]**
+- **To [[c/_cry|cry]]**
 	- _Example: David was beefing last night after Ruth told him off_
 - **To fail or mess up.**
 	- _Example: I beefed my presentation hard yesterday._
 ---
 #noun
-- **A [[deep]]-red [[cooking]] [[apple]] native to Britain.**
-- **Such an [[apple]] [[baked]] and flattened as a snack, popular in Norfolk.**
+- **A [[d/_deep|deep]]-red [[c/_cooking|cooking]] [[a/_apple|apple]] native to [[b/_britain|Britain]].**
+- **Such an [[a/_apple|apple]] [[b/_baked|baked]] and flattened as a snack, popular in Norfolk.**
 ---
 ---

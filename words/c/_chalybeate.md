@@ -1,10 +1,10 @@
 # Chalybeate
 ---
 #noun
-- **A mineral water [[containing]] iron, a voguish general remedy during the 17th-19th [[century]].**
+- **A mineral water [[c/_containing|containing]] iron, a voguish general remedy during the 17th-19th [[c/_century|century]].**
 ---
 #adjective
-- **Containing dissolved salts of iron.**
+- **[[c/_containing|Containing]] dissolved salts of iron.**
 - **Tasting of iron, said of mineral water.**
 ---
 ---

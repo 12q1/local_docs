@@ -1,7 +1,7 @@
 # Antagonised
 ---
 #verb
-- **To work [[against]]; to oppose (especially to incite reaction)**
+- **To work [[a/_against|against]]; to oppose (especially to incite reaction)**
 	- _Example: The other children constantly antagonized Joe to the point of tears._
 ---
 ### Synonyms
@@ -9,7 +9,7 @@
 ### Antonyms
 - [[appease]], [[quell]]
 #adjective
-- **(especially [[describing]] a muscle) Having [[been]] [[acted]] on by [[antagonistic]] forces.**
-- **(of a person or group) Having [[been]] [[aggravated]] or made into an enemy.**
+- **(especially [[d/_describing|describing]] a muscle) Having [[b/_been|been]] [[a/_acted|acted]] on by [[a/_antagonistic|antagonistic]] forces.**
+- **(of a person or group) Having [[b/_been|been]] [[a/_aggravated|aggravated]] or made into an enemy.**
 ---
 ---

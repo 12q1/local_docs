@@ -1,6 +1,6 @@
 # Arbitress
 ---
 #noun
-- **A female [[arbiter]].**
+- **A female [[a/_arbiter|arbiter]].**
 ---
 ---

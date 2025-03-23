@@ -2,6 +2,6 @@
 ---
 #verb
 - **To speak in a soft, indistinct manner, mutter.**
-- **To grumble, [[complain]].**
+- **To grumble, [[c/_complain|complain]].**
 ---
 ---

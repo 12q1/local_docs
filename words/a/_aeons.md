@@ -1,8 +1,8 @@
 # Aeons
 ---
 #noun
-- **(preferred spelling, with æon) A spirit [[being]] emanating from the Godhead.**
-- **(Cosmology) Each universe in a series of universes, [[according]] to [[conformal]] [[cyclic]] [[cosmology]].**
+- **(preferred spelling, with æon) A spirit [[b/_being|being]] emanating from the Godhead.**
+- **([[c/_cosmology|Cosmology]]) Each universe in a series of universes, [[a/_according|according]] to [[c/_conformal|conformal]] [[c/_cyclic|cyclic]] [[c/_cosmology|cosmology]].**
 ---
 #noun
 - **Eternity.**
@@ -10,6 +10,6 @@
 - **The longest time period used in geology.**
 - **A long period of time.**
 	- _Example: It's been eons since we last saw each other._
-- **(usually spelled [[aeon]] or æon) A spirit [[being]] emanating from the Godhead.**
+- **(usually spelled [[a/_aeon|aeon]] or æon) A spirit [[b/_being|being]] emanating from the Godhead.**
 ---
 ---

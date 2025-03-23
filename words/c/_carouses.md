@@ -2,7 +2,7 @@
 ---
 #noun
 - **A large draught of liquor.**
-- **A drinking match; a [[carousal]].**
+- **A drinking match; a [[c/_carousal|carousal]].**
 ---
 #verb
 - **To engage in a noisy or drunken social gathering.**

@@ -1,9 +1,9 @@
 # Cinders
 ---
 #noun
-- **Partially or mostly [[burnt]] material that results from incomplete [[combustion]] of [[coal]] or wood etc.**
+- **Partially or mostly [[b/_burnt|burnt]] material that results from incomplete [[c/_combustion|combustion]] of [[c/_coal|coal]] or wood etc.**
 - **An ember.**
 - **Slag from a metal furnace.**
-- **Any strong stimulant [[added]] to tea, soda water, etc.**
+- **[[a/_any|Any]] strong stimulant [[a/_added|added]] to tea, soda water, etc.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Abases
 ---
 #verb
-- **To lower, as in [[condition]] in life, office, rank, etc., so as to [[cause]] pain or hurt feelings; to [[degrade]], to [[depress]], to humble, to humiliate.**
-- **To lower physically; to [[depress]]; to [[cast]] or throw down; to stoop.**
+- **To lower, as in [[c/_condition|condition]] in life, office, rank, etc., so as to [[c/_cause|cause]] pain or hurt feelings; to [[d/_degrade|degrade]], to [[d/_depress|depress]], to humble, to humiliate.**
+- **To lower physically; to [[d/_depress|depress]]; to [[c/_cast|cast]] or throw down; to stoop.**
 	- _Example: to abase the eye_
-- **To lower in value, in particular by [[altering]] the [[content]] of [[alloys]] in [[coins]]; to [[debase]].**
+- **To lower in value, in particular by [[a/_altering|altering]] the [[c/_content|content]] of [[a/_alloys|alloys]] in [[c/_coins|coins]]; to [[d/_debase|debase]].**
 ---
 ### Synonyms
 - [[downgrade]], [[bring down]], [[lower]], [[reduce]], [[degrade]], [[demean]], [[depress]], [[discredit]], [[disgrace]], [[dishonor]], [[humble]], [[humiliate]], [[sink]]

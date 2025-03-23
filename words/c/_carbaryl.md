@@ -1,6 +1,6 @@
 # Carbaryl
 ---
 #noun
-- **A white [[crystalline]] solid of the [[carbamate]] family, a [[cholinesterase]] inhibitor used [[chiefly]] as an insecticide.**
+- **A white [[c/_crystalline|crystalline]] solid of the [[c/_carbamate|carbamate]] family, a [[c/_cholinesterase|cholinesterase]] inhibitor used [[c/_chiefly|chiefly]] as an insecticide.**
 ---
 ---

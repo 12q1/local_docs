@@ -1,6 +1,6 @@
 # Compactness
 ---
 #noun
-- **The state of [[being]] [[compact]]**
+- **The state of [[b/_being|being]] [[c/_compact|compact]]**
 ---
 ---

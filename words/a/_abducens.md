@@ -1,7 +1,7 @@
 # Abducens
 ---
 #noun
-- **The [[abducens]] nerve: the nerve in humans and most [[animals]] that governs the motion of the lateral rectus muscle of the eye.**
+- **The [[a/_abducens|abducens]] nerve: the nerve in humans and most [[a/_animals|animals]] that governs the motion of the lateral rectus muscle of the eye.**
 ---
 ### Synonyms
 - [[sixth nerve]]

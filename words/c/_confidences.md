@@ -1,10 +1,10 @@
 # Confidences
 ---
 #noun
-- **Self-[[assurance]].**
-- **A feeling of [[certainty]]; firm trust or [[belief]]; faith.**
+- **Self-[[a/_assurance|assurance]].**
+- **A feeling of [[c/_certainty|certainty]]; firm trust or [[b/_belief|belief]]; faith.**
 - **Information held in secret.**
-- **Boldness; presumption.**
+- **[[b/_boldness|Boldness]]; presumption.**
 ---
 ### Antonyms
 - [[timidity]]

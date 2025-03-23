@@ -1,6 +1,6 @@
 # Alternator
 ---
 #noun
-- **An electric generator which produces [[alternating]] [[current]] through mechanical means.**
+- **An electric generator which produces [[a/_alternating|alternating]] [[c/_current|current]] through mechanical means.**
 ---
 ---

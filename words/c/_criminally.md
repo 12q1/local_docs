@@ -1,6 +1,6 @@
 # Criminally
 ---
 #adverb
-- **In a [[criminal]] manner.**
+- **In a [[c/_criminal|criminal]] manner.**
 ---
 ---

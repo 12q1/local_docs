@@ -1,6 +1,6 @@
 # Datives
 ---
 #noun
-- **(grammar) The [[dative]] [[case]].**
+- **(grammar) The [[d/_dative|dative]] [[c/_case|case]].**
 ---
 ---

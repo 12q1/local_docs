@@ -1,8 +1,8 @@
 # Arcadian
 ---
 #adjective
-- **Pertaining to an [[arcade]].**
-- **Furnished with [[arcades]].**
+- **Pertaining to an [[a/_arcade|arcade]].**
+- **Furnished with [[a/_arcades|arcades]].**
 - **Ideally rustic or pastoral.**
 ---
 ---

@@ -6,7 +6,7 @@
 ### Synonyms
 - [[array]], [[attire]]
 #adjective
-- **Supplied with essential equipments for a [[certain]] intention, particularly military.**
-- **Provided with vital supplies for a precise [[aim]], more specifically for the [[armed]] forces.**
+- **Supplied with essential equipments for a [[c/_certain|certain]] intention, particularly military.**
+- **Provided with vital supplies for a precise [[a/_aim|aim]], more specifically for the [[a/_armed|armed]] forces.**
 ---
 ---

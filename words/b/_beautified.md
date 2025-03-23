@@ -1,11 +1,11 @@
 # Beautified
 ---
 #adjective
-- **Having [[been]] made [[beautiful]].**
+- **Having [[b/_been|been]] made [[b/_beautiful|beautiful]].**
 ---
 #verb
-- **To make [[beautiful]], or to increase the [[beauty]] of.**
-- **To [[become]] [[beautiful]].**
+- **To make [[b/_beautiful|beautiful]], or to increase the [[b/_beauty|beauty]] of.**
+- **To [[b/_become|become]] [[b/_beautiful|beautiful]].**
 ---
 ### Synonyms
 - [[adorn]], [[decorate]], [[ornament]], [[prettify]]

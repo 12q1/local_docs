@@ -1,6 +1,6 @@
 # Biologics
 ---
 #noun
-- **An extremely [[complex]] drug, vaccine or [[antitoxin]] that is made from a living organism, or from products of a living organism.**
+- **An extremely [[c/_complex|complex]] drug, vaccine or [[a/_antitoxin|antitoxin]] that is made from a living organism, or from products of a living organism.**
 ---
 ---

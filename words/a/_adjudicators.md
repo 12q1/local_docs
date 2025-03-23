@@ -1,6 +1,6 @@
 # Adjudicators
 ---
 #noun
-- **One who [[adjudicates]].**
+- **One who [[a/_adjudicates|adjudicates]].**
 ---
 ---

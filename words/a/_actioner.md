@@ -1,6 +1,6 @@
 # Actioner
 ---
 #noun
-- **An [[action]] movie.**
+- **An [[a/_action|action]] movie.**
 ---
 ---

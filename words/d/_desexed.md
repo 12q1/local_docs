@@ -1,6 +1,6 @@
 # Desexed
 ---
 #verb
-- **To remove [[another]]'s sexual [[characteristics]] or functions, often physical sterilization.**
+- **To remove [[a/_another|another]]'s sexual [[c/_characteristics|characteristics]] or functions, often physical sterilization.**
 ---
 ---

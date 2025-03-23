@@ -1,6 +1,6 @@
 # Cumquat
 ---
 #noun
-- **A small, orange [[citrus]]-like fruit which is native to Asia (Citrus japonica, syn. Fortunella japonica).**
+- **A small, orange [[c/_citrus|citrus]]-like fruit which is native to [[a/_asia|Asia]] ([[c/_citrus|Citrus]] japonica, syn. Fortunella japonica).**
 ---
 ---

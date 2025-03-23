@@ -1,7 +1,7 @@
 # Counterpointing
 ---
 #verb
-- **To [[compose]] or [[arrange]] such music.**
-- **To serve as an opposing point [[against]].**
+- **To [[c/_compose|compose]] or [[a/_arrange|arrange]] such music.**
+- **To serve as an opposing point [[a/_against|against]].**
 ---
 ---

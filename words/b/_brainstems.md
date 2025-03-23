@@ -1,6 +1,6 @@
 # Brainstems
 ---
 #noun
-- **The part of the [[brain]] that [[connects]] the spinal [[cord]] to the forebrain and [[cerebrum]].**
+- **The part of the [[b/_brain|brain]] that [[c/_connects|connects]] the spinal [[c/_cord|cord]] to the forebrain and [[c/_cerebrum|cerebrum]].**
 ---
 ---

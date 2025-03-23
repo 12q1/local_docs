@@ -1,14 +1,14 @@
 # Avaunt
 ---
 #noun
-- **A vaunt; a [[boast]].**
+- **A vaunt; a [[b/_boast|boast]].**
 ---
 #verb
-- **To [[advance]]; to move forward; to elevate.**
-- **To [[depart]]; to move [[away]].**
-- **To vaunt; to [[boast]].**
+- **To [[a/_advance|advance]]; to move forward; to elevate.**
+- **To [[d/_depart|depart]]; to move [[a/_away|away]].**
+- **To vaunt; to [[b/_boast|boast]].**
 ---
 #interjection
-- **Begone; [[depart]]; used in [[contempt]] or [[abhorrence]].**
+- **[[b/_begone|Begone]]; [[d/_depart|depart]]; used in [[c/_contempt|contempt]] or [[a/_abhorrence|abhorrence]].**
 ---
 ---

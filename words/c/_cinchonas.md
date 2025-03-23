@@ -1,9 +1,9 @@
 # Cinchonas
 ---
 #noun
-- **A tree or shrub of the genus Cinchona, native to the Andes in South America but since widely [[cultivated]] in Indonesia and India as well for its medicinal [[bark]].**
-- **The [[bark]] of these plants, which yield quinine and other [[alkaloids]] useful in reducing fevers and particularly in [[combatting]] malaria.**
-- **Any medicine [[chiefly]] [[composed]] of the prepared [[bark]] of these plants.**
+- **A tree or shrub of the genus [[c/_cinchona|Cinchona]], native to the [[a/_andes|Andes]] in South [[a/_america|America]] but since widely [[c/_cultivated|cultivated]] in Indonesia and India as well for its medicinal [[b/_bark|bark]].**
+- **The [[b/_bark|bark]] of these plants, which yield quinine and other [[a/_alkaloids|alkaloids]] useful in reducing fevers and particularly in [[c/_combatting|combatting]] malaria.**
+- **[[a/_any|Any]] medicine [[c/_chiefly|chiefly]] [[c/_composed|composed]] of the prepared [[b/_bark|bark]] of these plants.**
 ---
 ### Synonyms
 - [[Jesuit's bark]], [[Peruvian bark]], [[cinchona-bark]], [[quinquina]], [[quinquina]]

@@ -1,6 +1,6 @@
 # Anorthite
 ---
 #noun
-- **A variety of plagioclase feldspar, the [[calcium]] endmember of that series.**
+- **A variety of plagioclase feldspar, the [[c/_calcium|calcium]] endmember of that series.**
 ---
 ---

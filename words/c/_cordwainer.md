@@ -2,9 +2,9 @@
 ---
 #noun
 - **A shoemaker.**
-- **A worker in [[cordwain]].**
-- **A leather from Córdoba.**
-- **A member of the Worshipful Company of Cordwainers, a livery [[company]].**
+- **A worker in [[c/_cordwain|cordwain]].**
+- **A leather from [[c/_c|C]]órdoba.**
+- **A member of the Worshipful [[c/_company|Company]] of Cordwainers, a livery [[c/_company|company]].**
 ---
 ### Synonyms
 - [[shoemaker]]

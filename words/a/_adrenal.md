@@ -1,10 +1,10 @@
 # Adrenal
 ---
 #noun
-- **An [[adrenal]] gland.**
+- **An [[a/_adrenal|adrenal]] gland.**
 ---
 #adjective
-- **Pertaining to the [[adrenal]] glands or their secretions.**
+- **Pertaining to the [[a/_adrenal|adrenal]] glands or their secretions.**
 - **Near the kidneys.**
 ---
 ### Synonyms

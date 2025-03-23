@@ -1,6 +1,6 @@
 # Cyclize
 ---
 #verb
-- **To undergo, or [[cause]] to undergo, a reaction resulting in the formation of an [[aromatic]] or ring structure.**
+- **To undergo, or [[c/_cause|cause]] to undergo, a reaction resulting in the formation of an [[a/_aromatic|aromatic]] or ring structure.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Denis
 ---
 #noun
-- **A subdivision of [[currency]], equal to 0.01 Macedonian [[denar]].**
+- **A subdivision of [[c/_currency|currency]], equal to 0.01 Macedonian [[d/_denar|denar]].**
 ---
 ---

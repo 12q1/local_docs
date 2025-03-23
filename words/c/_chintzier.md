@@ -1,8 +1,8 @@
 # Chintzier
 ---
 #adjective
-- **Of or [[decorated]] with [[chintz]].**
-- **Tastelessly showy; [[cheap]], gaudy, or tacky.**
+- **Of or [[d/_decorated|decorated]] with [[c/_chintz|chintz]].**
+- **Tastelessly showy; [[c/_cheap|cheap]], gaudy, or tacky.**
 ---
 #adjective
 - **Excessively reluctant to spend; miserly, stingy.**

@@ -1,6 +1,6 @@
 # Afeard
 ---
 #adjective
-- **Afraid**
+- **[[a/_afraid|Afraid]]**
 ---
 ---

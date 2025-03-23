@@ -1,8 +1,8 @@
 # Counterbalances
 ---
 #noun
-- **A weight that is put in opposition to an equal weight so it keeps that in [[balance]].**
-- **A force or influence that [[balances]], [[checks]] or limits an opposite one.**
+- **A weight that is put in opposition to an equal weight so it keeps that in [[b/_balance|balance]].**
+- **A force or influence that [[b/_balances|balances]], [[c/_checks|checks]] or limits an opposite one.**
 ---
 ### Synonyms
 - [[counterpoise]], [[counterweight]]

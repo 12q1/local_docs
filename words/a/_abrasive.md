@@ -1,12 +1,12 @@
 # Abrasive
 ---
 #noun
-- **A substance or material such as sandpaper, pumice, or emery, used for [[cleaning]], smoothing, or polishing.**
-- **Rock fragments, sand grains, mineral particles, used by water, wind, and ice to [[abrade]] a land surface.**
+- **A substance or material such as sandpaper, pumice, or emery, used for [[c/_cleaning|cleaning]], smoothing, or polishing.**
+- **Rock fragments, sand grains, mineral particles, used by water, wind, and ice to [[a/_abrade|abrade]] a land surface.**
 ---
 #adjective
-- **Producing [[abrasion]]; rough enough to wear [[away]] the outer surface.**
-- **Being rough and [[coarse]] in manner or disposition; [[causing]] irritation.**
+- **Producing [[a/_abrasion|abrasion]]; rough enough to wear [[a/_away|away]] the outer surface.**
+- **[[b/_being|Being]] rough and [[c/_coarse|coarse]] in manner or disposition; [[c/_causing|causing]] irritation.**
 	- _Example: An abrasive person can grate on one's sensibilities._
 ---
 ---

@@ -1,8 +1,8 @@
 # Coarse
 ---
 #adjective
-- **Composed of large parts or particles; of inferior quality or [[appearance]]; not fine in material or [[close]] in texture.**
-- **Lacking refinement, taste or [[delicacy]].**
+- **[[c/_composed|Composed]] of large parts or particles; of inferior quality or [[a/_appearance|appearance]]; not fine in material or [[c/_close|close]] in texture.**
+- **Lacking refinement, taste or [[d/_delicacy|delicacy]].**
 	- _Example: coarse language_
 ---
 ### Synonyms

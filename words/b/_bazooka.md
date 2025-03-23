@@ -2,8 +2,8 @@
 ---
 #noun
 - **A primitive trombone having wide tubes.**
-- **A shoulder-held rocket launcher used as an [[antitank]] weapon, developed by America during World War II and so-[[called]] from its resemblance to the [[bazooka]] musical instrument.**
-- **(by extension) Any shoulder-fired rocket grenade launcher.**
-- **(sexuality) A woman's [[breast]].**
+- **A shoulder-held rocket launcher used as an [[a/_antitank|antitank]] weapon, developed by [[a/_america|America]] during World War II and so-[[c/_called|called]] from its resemblance to the [[b/_bazooka|bazooka]] musical instrument.**
+- **(by extension) [[a/_any|Any]] shoulder-fired rocket grenade launcher.**
+- **(sexuality) A woman's [[b/_breast|breast]].**
 ---
 ---

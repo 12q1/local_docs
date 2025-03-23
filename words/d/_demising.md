@@ -2,12 +2,12 @@
 ---
 #verb
 - **To give.**
-- **To [[convey]], as by will or lease.**
+- **To [[c/_convey|convey]], as by will or lease.**
 - **To transmit by inheritance.**
 - **To pass by inheritance.**
 - **To die.**
 ---
 #adjective
-- **(of a wall or partition) Serving to separate tenants from one [[another]] or from [[common]] [[areas]].**
+- **(of a wall or partition) Serving to separate tenants from one [[a/_another|another]] or from [[c/_common|common]] [[a/_areas|areas]].**
 ---
 ---

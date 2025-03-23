@@ -1,7 +1,7 @@
 # Deskbound
 ---
 #adjective
-- **(of an employee) Whose work [[confines]] him or her to a [[desk]].**
+- **(of an employee) Whose work [[c/_confines|confines]] him or her to a [[d/_desk|desk]].**
 	- _Example: The deskbound police officer had no opportunity to deal with street crime._
 ---
 ---

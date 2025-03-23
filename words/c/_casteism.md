@@ -1,6 +1,6 @@
 # Casteism
 ---
 #noun
-- **Discrimination [[based]] on a person's [[caste]]**
+- **Discrimination [[b/_based|based]] on a person's [[c/_caste|caste]]**
 ---
 ---

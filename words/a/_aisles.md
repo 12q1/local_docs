@@ -1,13 +1,13 @@
 # Aisles
 ---
 #noun
-- **A wing of a [[building]], notably in a [[church]] separated from the nave proper by piers.**
-- **A [[clear]] path through rows of seating.**
-- **A [[clear]] [[corridor]] in a supermarket with shelves on [[both]] sides [[containing]] goods for sale.**
-- **Any path through an otherwise obstructed space.**
-- **Seat in public transport, such as a plane, train or [[bus]], that's [[beside]] the [[aisle]].**
+- **A wing of a [[b/_building|building]], notably in a [[c/_church|church]] separated from the nave proper by piers.**
+- **A [[c/_clear|clear]] path through rows of seating.**
+- **A [[c/_clear|clear]] [[c/_corridor|corridor]] in a supermarket with shelves on [[b/_both|both]] sides [[c/_containing|containing]] goods for sale.**
+- **[[a/_any|Any]] path through an otherwise obstructed space.**
+- **Seat in public transport, such as a plane, train or [[b/_bus|bus]], that's [[b/_beside|beside]] the [[a/_aisle|aisle]].**
 	- _Example: Do you want to seat window or aisle?_
-- **An idiomatic divide [[between]] the Republican Party and the Democratic Party, who are said to be on two sides of the [[aisle]].**
+- **An idiomatic divide [[b/_between|between]] the Republican Party and the [[d/_democratic|Democratic]] Party, who are said to be on two sides of the [[a/_aisle|aisle]].**
 ---
 ### Synonyms
 - [[isle]], [[aisle seat]]

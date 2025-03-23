@@ -1,7 +1,7 @@
 # Deadpan
 ---
 #noun
-- **A style of [[comedic]] [[delivery]] in which something humorous is said or done while not exhibiting a [[change]] in emotion or facial expression.**
+- **A style of [[c/_comedic|comedic]] [[d/_delivery|delivery]] in which something humorous is said or done while not exhibiting a [[c/_change|change]] in emotion or facial expression.**
 ---
 ### Synonyms
 - [[deadpan comedy]], [[deadpan humour]]
@@ -9,7 +9,7 @@
 - **To express (oneself) in an impassive or expressionless manner.**
 ---
 #adjective
-- **Deliberately impassive or expressionless.**
+- **[[d/_deliberately|Deliberately]] impassive or expressionless.**
 - **Having such a face or look.**
 	- _Example: The comedian remained deadpan._
 - **Impassive.**
@@ -17,6 +17,6 @@
 ### Synonyms
 - [[poker-faced]]
 #adverb
-- **In a [[deadpan]] manner.**
+- **In a [[d/_deadpan|deadpan]] manner.**
 ---
 ---

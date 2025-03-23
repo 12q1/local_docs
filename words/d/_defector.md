@@ -1,6 +1,6 @@
 # Defector
 ---
 #noun
-- **One who [[defects]].**
+- **One who [[d/_defects|defects]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Broncobuster
 ---
 #noun
-- **A person who [[breaks]] horses so that they [[can]] be ridden with a saddle.**
+- **A person who [[b/_breaks|breaks]] horses so that they [[c/_can|can]] be ridden with a saddle.**
 ---
 ---

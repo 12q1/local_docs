@@ -1,8 +1,8 @@
 # Caf
 ---
 #noun
-- **A [[caf]]é.**
-- **A [[cafeteria]].**
-- **A caffeinated [[coffee]].**
+- **A [[c/_caf|caf]]é.**
+- **A [[c/_cafeteria|cafeteria]].**
+- **A caffeinated [[c/_coffee|coffee]].**
 ---
 ---

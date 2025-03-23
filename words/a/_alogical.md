@@ -1,7 +1,7 @@
 # Alogical
 ---
 #adjective
-- **Not [[based]] upon logic or reasoned [[argument]].**
+- **Not [[b/_based|based]] upon logic or reasoned [[a/_argument|argument]].**
 - **Opposed to logic.**
 ---
 ### Antonyms

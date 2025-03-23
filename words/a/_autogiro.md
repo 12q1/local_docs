@@ -1,6 +1,6 @@
 # Autogiro
 ---
 #noun
-- **An [[aircraft]] in which lift is provided by unpowered rotating wings and thrust is provided by a [[conventional]] propeller.**
+- **An [[a/_aircraft|aircraft]] in which lift is provided by unpowered rotating wings and thrust is provided by a [[c/_conventional|conventional]] propeller.**
 ---
 ---

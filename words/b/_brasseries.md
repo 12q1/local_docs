@@ -1,6 +1,6 @@
 # Brasseries
 ---
 #noun
-- **A small, informal restaurant that serves [[beer]] and wine as well as simple food**
+- **A small, informal restaurant that serves [[b/_beer|beer]] and wine as well as simple food**
 ---
 ---

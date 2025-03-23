@@ -1,6 +1,6 @@
 # Argentiferous
 ---
 #adjective
-- **Containing or producing silver.**
+- **[[c/_containing|Containing]] or producing silver.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Culturally
 ---
 #adverb
-- **In a [[cultural]] way.**
+- **In a [[c/_cultural|cultural]] way.**
 ---
 ---

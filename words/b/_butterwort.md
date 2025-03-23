@@ -1,6 +1,6 @@
 # Butterwort
 ---
 #noun
-- **Any plant of the insectivorous genus Pinguicula.**
+- **[[a/_any|Any]] plant of the insectivorous genus Pinguicula.**
 ---
 ---

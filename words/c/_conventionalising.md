@@ -1,6 +1,6 @@
 # Conventionalising
 ---
 #verb
-- **To make something [[conventional]].**
+- **To make something [[c/_conventional|conventional]].**
 ---
 ---

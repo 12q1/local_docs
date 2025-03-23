@@ -1,7 +1,7 @@
 # Compony
 ---
 #adjective
-- **Divided into a line of squares of [[alternating]] tinctures**
+- **Divided into a line of squares of [[a/_alternating|alternating]] tinctures**
 ---
 ### Synonyms
 - [[gobony]]

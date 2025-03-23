@@ -4,11 +4,11 @@
 - **To provide, particularly:**
 ---
 #verb
-- **To place, set, move, or [[cut]] diagonally or rhomboidally.**
+- **To place, set, move, or [[c/_cut|cut]] diagonally or rhomboidally.**
 ---
 #noun
-- **The [[business]] of providing food and related services; foodservice.**
-- **The [[business]] of providing such services for special occasions.**
-- **The [[act]] of one who [[caters]] (to something).**
+- **The [[b/_business|business]] of providing food and related services; foodservice.**
+- **The [[b/_business|business]] of providing such services for special occasions.**
+- **The [[a/_act|act]] of one who [[c/_caters|caters]] (to something).**
 ---
 ---

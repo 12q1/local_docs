@@ -1,6 +1,6 @@
 # Altimeter
 ---
 #noun
-- **An [[apparatus]] for measuring [[altitude]].**
+- **An [[a/_apparatus|apparatus]] for measuring [[a/_altitude|altitude]].**
 ---
 ---

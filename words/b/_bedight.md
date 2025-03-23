@@ -1,9 +1,9 @@
 # Bedight
 ---
 #verb
-- **To equip or [[bedeck]].**
+- **To equip or [[b/_bedeck|bedeck]].**
 ---
 #adjective
-- **That has [[been]] equipped or [[bedecked]].**
+- **That has [[b/_been|been]] equipped or [[b/_bedecked|bedecked]].**
 ---
 ---

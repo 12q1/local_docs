@@ -1,6 +1,6 @@
 # Chica
 ---
 #noun
-- **A Latin-American girl; a Latina.**
+- **A Latin-[[a/_american|American]] girl; a Latina.**
 ---
 ---

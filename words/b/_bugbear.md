@@ -1,13 +1,13 @@
 # Bugbear
 ---
 #noun
-- **An ongoing problem; a recurring obstacle or [[adversity]].**
+- **An ongoing problem; a recurring obstacle or [[a/_adversity|adversity]].**
 - **A source of dread; resentment; or irritation.**
-- **An imaginary [[creature]] meant to inspire fear in [[children]].**
+- **An imaginary [[c/_creature|creature]] meant to inspire fear in [[c/_children|children]].**
 ---
 ### Synonyms
 - [[goblin]], [[pet peeve]]
 #verb
-- **To [[alarm]] with idle phantoms.**
+- **To [[a/_alarm|alarm]] with idle phantoms.**
 ---
 ---

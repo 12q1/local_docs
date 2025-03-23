@@ -1,10 +1,10 @@
 # Crisscrossed
 ---
 #verb
-- **To move [[back]] and forth over (something).**
-- **To mark (something) with [[crossed]] lines.**
+- **To move [[b/_back|back]] and forth over (something).**
+- **To mark (something) with [[c/_crossed|crossed]] lines.**
 ---
 #adjective
-- **Marked by lines [[crossing]] in two or more directions.**
+- **Marked by lines [[c/_crossing|crossing]] in two or more directions.**
 ---
 ---

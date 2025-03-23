@@ -1,6 +1,6 @@
 # Contumacy
 ---
 #noun
-- **Disobedience, resistance to [[authority]].**
+- **Disobedience, resistance to [[a/_authority|authority]].**
 ---
 ---

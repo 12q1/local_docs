@@ -1,6 +1,6 @@
 # Carcinomas
 ---
 #noun
-- **An invasive malignant tumor [[derived]] from epithelial tissue that tends to metastasize to other [[areas]] of the [[body]].**
+- **An invasive malignant tumor [[d/_derived|derived]] from epithelial tissue that tends to metastasize to other [[a/_areas|areas]] of the [[b/_body|body]].**
 ---
 ---

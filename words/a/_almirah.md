@@ -1,6 +1,6 @@
 # Almirah
 ---
 #noun
-- **Cupboard, [[cabinet]] or [[chest]] of drawers.**
+- **[[c/_cupboard|Cupboard]], [[c/_cabinet|cabinet]] or [[c/_chest|chest]] of drawers.**
 ---
 ---

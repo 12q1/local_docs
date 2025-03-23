@@ -1,6 +1,6 @@
 # Democratically
 ---
 #adverb
-- **In a [[democratic]] way.**
+- **In a [[d/_democratic|democratic]] way.**
 ---
 ---

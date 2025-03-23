@@ -1,6 +1,6 @@
 # Cameleer
 ---
 #noun
-- **Camel driver or [[camel]] rider, one who travels by [[camel]].**
+- **[[c/_camel|Camel]] driver or [[c/_camel|camel]] rider, one who travels by [[c/_camel|camel]].**
 ---
 ---

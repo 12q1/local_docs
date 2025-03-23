@@ -1,10 +1,10 @@
 # Backstair
 ---
 #noun
-- **The [[backstairs]] (stairs at the rear of a [[building]]).**
+- **The [[b/_backstairs|backstairs]] (stairs at the rear of a [[b/_building|building]]).**
 ---
 #adjective
-- **Clandestine, secret or furtive**
+- **[[c/_clandestine|Clandestine]], secret or furtive**
 ---
 ### Synonyms
 - [[backstairs]]

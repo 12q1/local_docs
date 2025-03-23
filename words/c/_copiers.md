@@ -1,9 +1,9 @@
 # Copiers
 ---
 #noun
-- **A machine that [[copies]] graphical material; a duplicator.**
-- **A person who [[copies]] documents.**
-- **A program or process that [[copies]].**
+- **A machine that [[c/_copies|copies]] graphical material; a duplicator.**
+- **A person who [[c/_copies|copies]] documents.**
+- **A program or process that [[c/_copies|copies]].**
 	- _Example: a file copier; a disk copier_
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Blessedness
 ---
 #noun
-- **The state or [[condition]] of [[being]] [[blessed]], holy.**
+- **The state or [[c/_condition|condition]] of [[b/_being|being]] [[b/_blessed|blessed]], holy.**
 ---
 ---

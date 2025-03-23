@@ -1,6 +1,6 @@
 # Botrytis
 ---
 #noun
-- **Any fungus of the genus Botrytis, especially Botrytis [[cinerea]] which is responsible for the formation of noble rot on grapes.**
+- **[[a/_any|Any]] fungus of the genus [[b/_botrytis|Botrytis]], especially [[b/_botrytis|Botrytis]] [[c/_cinerea|cinerea]] which is responsible for the formation of noble rot on grapes.**
 ---
 ---

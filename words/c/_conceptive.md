@@ -1,6 +1,6 @@
 # Conceptive
 ---
 #adjective
-- **Relating to [[conception]] (in [[all]] senses)**
+- **Relating to [[c/_conception|conception]] (in [[a/_all|all]] senses)**
 ---
 ---

@@ -5,12 +5,12 @@
 - **To overwhelm.**
 ---
 #noun
-- **Present participle of [[daunt]].**
+- **Present participle of [[d/_daunt|daunt]].**
 ---
 #adjective
 - **Discouraging; inspiring fear.**
-- **Intimidatingly impressive; [[awe]]-inspiring, overwhelming.**
-- **Appearing to be difficult; [[challenging]].**
+- **Intimidatingly impressive; [[a/_awe|awe]]-inspiring, overwhelming.**
+- **[[a/_appearing|Appearing]] to be difficult; [[c/_challenging|challenging]].**
 	- _Example: It was a daunting task, but it was accomplished with some forward planning._
 ---
 ### Synonyms

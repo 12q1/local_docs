@@ -1,9 +1,9 @@
 # Cud
 ---
 #noun
-- **The portion of food which is [[brought]] [[back]] into the mouth by ruminating [[animals]] from their first stomach, to be [[chewed]] a second time.**
+- **The portion of food which is [[b/_brought|brought]] [[b/_back|back]] into the mouth by ruminating [[a/_animals|animals]] from their first stomach, to be [[c/_chewed|chewed]] a second time.**
 ---
 #verb
-- **To [[bring]] [[back]] into the mouth and [[chew]] a second time.**
+- **To [[b/_bring|bring]] [[b/_back|back]] into the mouth and [[c/_chew|chew]] a second time.**
 ---
 ---

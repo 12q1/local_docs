@@ -1,8 +1,8 @@
 # Breadboards
 ---
 #noun
-- **A [[cutting]] [[board]], especially for [[cutting]] [[bread]].**
-- **A pull-out [[cutting]] [[board]] underneath a [[counter]], found in many kitchens.**
-- **A reusable solderless device used to [[build]] a (usually temporary) prototype of an electronic [[circuit]] and for experimenting with [[circuit]] [[designs]].**
+- **A [[c/_cutting|cutting]] [[b/_board|board]], especially for [[c/_cutting|cutting]] [[b/_bread|bread]].**
+- **A pull-out [[c/_cutting|cutting]] [[b/_board|board]] underneath a [[c/_counter|counter]], found in many kitchens.**
+- **A reusable solderless device used to [[b/_build|build]] a (usually temporary) prototype of an electronic [[c/_circuit|circuit]] and for experimenting with [[c/_circuit|circuit]] [[d/_designs|designs]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Casseroled
 ---
 #adjective
-- **Cooked in a [[casserole]].**
+- **[[c/_cooked|Cooked]] in a [[c/_casserole|casserole]].**
 ---
 ---

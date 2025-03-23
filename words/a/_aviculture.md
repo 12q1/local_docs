@@ -1,6 +1,6 @@
 # Aviculture
 ---
 #noun
-- **The rearing and [[care]] of [[birds]] (especially poultry)**
+- **The rearing and [[c/_care|care]] of [[b/_birds|birds]] (especially poultry)**
 ---
 ---

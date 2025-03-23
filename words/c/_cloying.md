@@ -1,8 +1,8 @@
 # Cloying
 ---
 #verb
-- **To fill up or [[choke]] up; to stop up.**
-- **To [[clog]], to glut, or satisfy, as the [[appetite]]; to satiate.**
+- **To fill up or [[c/_choke|choke]] up; to stop up.**
+- **To [[c/_clog|clog]], to glut, or satisfy, as the [[a/_appetite|appetite]]; to satiate.**
 - **To fill to loathing; to surfeit.**
 ---
 ### Synonyms

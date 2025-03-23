@@ -1,6 +1,6 @@
 # Carnivalesque
 ---
 #adjective
-- **Resembling or [[characteristic]] of a [[carnival]].**
+- **Resembling or [[c/_characteristic|characteristic]] of a [[c/_carnival|carnival]].**
 ---
 ---

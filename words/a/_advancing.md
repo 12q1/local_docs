@@ -1,7 +1,7 @@
 # Advancing
 ---
 #verb
-- **To promote or [[advantage]].**
+- **To promote or [[a/_advantage|advantage]].**
 - **To move forward in space or time.**
 - **To raise, be raised.**
 ---
@@ -10,6 +10,6 @@
 ### Antonyms
 - [[regress]], [[retract]]
 #noun
-- **The [[act]] of proceeding forward; an [[advance]].**
+- **The [[a/_act|act]] of proceeding forward; an [[a/_advance|advance]].**
 ---
 ---

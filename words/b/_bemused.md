@@ -1,11 +1,11 @@
 # Bemused
 ---
 #verb
-- **To [[confuse]] or [[bewilder]].**
+- **To [[c/_confuse|confuse]] or [[b/_bewilder|bewilder]].**
 - **To devote to the Muses.**
 ---
 #adjective
-- **Deeply thoughtful; preoccupied**
-- **Perplexed and [[bewildered]]**
+- **[[d/_deeply|Deeply]] thoughtful; preoccupied**
+- **Perplexed and [[b/_bewildered|bewildered]]**
 ---
 ---

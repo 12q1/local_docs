@@ -1,7 +1,7 @@
 # Capacitors
 ---
 #noun
-- **An electronic [[component]] [[capable]] of storing electrical energy in an electric field; especially one [[consisting]] of two [[conductors]] separated by a dielectric.**
+- **An electronic [[c/_component|component]] [[c/_capable|capable]] of storing electrical energy in an electric field; especially one [[c/_consisting|consisting]] of two [[c/_conductors|conductors]] separated by a dielectric.**
 ---
 ### Synonyms
 - [[condenser]]

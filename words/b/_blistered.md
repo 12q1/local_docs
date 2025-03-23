@@ -1,15 +1,15 @@
 # Blistered
 ---
 #verb
-- **To raise [[blisters]] on.**
+- **To raise [[b/_blisters|blisters]] on.**
 	- _Example: a chemical agent that blisters the skin_
-- **To have a [[blister]] form.**
-- **To [[criticise]] severely.**
-- **To [[break]] out in [[blisters]].**
+- **To have a [[b/_blister|blister]] form.**
+- **To [[c/_criticise|criticise]] severely.**
+- **To [[b/_break|break]] out in [[b/_blisters|blisters]].**
 ---
 ### Synonyms
 - [[vesicate]]
 #adjective
-- **Having one or more [[blisters]]**
+- **Having one or more [[b/_blisters|blisters]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Decontrolling
 ---
 #verb
-- **To remove [[controls]].**
+- **To remove [[c/_controls|controls]].**
 ---
 ---

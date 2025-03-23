@@ -1,9 +1,9 @@
 # Bookplate
 ---
 #noun
-- **A printed piece of paper pasted on one of the pages of a [[book]], most often on the inside front [[cover]], showing ownership and thus deterring theft.**
+- **A printed piece of paper pasted on one of the pages of a [[b/_book|book]], most often on the inside front [[c/_cover|cover]], showing ownership and thus [[d/_deterring|deterring]] theft.**
 ---
 #verb
-- **To [[affix]] a [[bookplate]] to (a [[book]]).**
+- **To [[a/_affix|affix]] a [[b/_bookplate|bookplate]] to (a [[b/_book|book]]).**
 ---
 ---

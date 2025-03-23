@@ -2,31 +2,31 @@
 ---
 #noun
 - **A sculptural portrayal of a person's head and shoulders.**
-- **The [[breasts]] and upper thorax of a woman.**
-- **The downward portion of a [[boom]] and [[bust]] [[cycle]]; a recession.**
-- **A police raid or takedown of a [[criminal]] enterprise.**
+- **The [[b/_breasts|breasts]] and upper thorax of a woman.**
+- **The downward portion of a [[b/_boom|boom]] and [[b/_bust|bust]] [[c/_cycle|cycle]]; a recession.**
+- **A police raid or takedown of a [[c/_criminal|criminal]] enterprise.**
 - **A disappointment.**
 ---
 #noun
-- **The [[act]] of [[arresting]] someone for a [[crime]], or raiding a suspected [[criminal]] operation.**
+- **The [[a/_act|act]] of [[a/_arresting|arresting]] someone for a [[c/_crime|crime]], or raiding a suspected [[c/_criminal|criminal]] operation.**
 	- _Example: a narcotics bust_
-- **A failed enterprise; a [[bomb]].**
-- **A refutation of an opening, or of a previously published [[analysis]].**
+- **A failed enterprise; a [[b/_bomb|bomb]].**
+- **A refutation of an opening, or of a previously published [[a/_analysis|analysis]].**
 - **A player who fails to meet expectations.**
 ---
 #verb
-- **To [[break]].**
+- **To [[b/_break|break]].**
 	- _Example: I busted my cooker while trying to fix it._
-- **To [[arrest]] (someone) for a [[crime]].**
-- **To [[catch]] (someone) in the [[act]] of doing something wrong, socially and morally inappropriate, or illegal, especially when [[being]] done in a sneaky or secretive state.**
+- **To [[a/_arrest|arrest]] (someone) for a [[c/_crime|crime]].**
+- **To [[c/_catch|catch]] (someone) in the [[a/_act|act]] of doing something wrong, socially and morally inappropriate, or illegal, especially when [[b/_being|being]] done in a sneaky or secretive state.**
 - **An emphatic synonym of do or get.**
 	- _Example: He busted huge air off that jump!_
 - **To reduce in rank.**
 	- _Example: He busted him down to patrolman for insubordination._
-- **To undo a trade, generally an error trade, that has [[already]] [[been]] executed.**
-- **To lose [[all]] of one's [[chips]].**
+- **To undo a trade, generally an error trade, that has [[a/_already|already]] [[b/_been|been]] executed.**
+- **To lose [[a/_all|all]] of one's [[c/_chips|chips]].**
 - **To exceed a score of 21.**
-- **To [[break]] in (an [[animal]]).**
+- **To [[b/_break|break]] in (an [[a/_animal|animal]]).**
 - **To ejaculate; to eject semen.**
 ---
 ### Synonyms

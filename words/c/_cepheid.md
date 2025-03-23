@@ -1,9 +1,9 @@
 # Cepheid
 ---
 #noun
-- **A [[cepheid]] variable.**
+- **A [[c/_cepheid|cepheid]] variable.**
 ---
 #adjective
-- **Relating to [[cepheid]] variables.**
+- **Relating to [[c/_cepheid|cepheid]] variables.**
 ---
 ---

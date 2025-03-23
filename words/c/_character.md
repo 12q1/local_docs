@@ -1,31 +1,31 @@
 # Character
 ---
 #noun
-- **A [[being]] involved in the [[action]] of a story.**
-- **A distinguishing feature; [[characteristic]]; trait; phene.**
+- **A [[b/_being|being]] involved in the [[a/_action|action]] of a story.**
+- **A distinguishing feature; [[c/_characteristic|characteristic]]; trait; phene.**
 	- _Example: A single locus governing the petal colour character was detected on the linkage group A2._
-- **A [[complex]] of traits marking a person, group, [[breed]], or type.**
+- **A [[c/_complex|complex]] of traits marking a person, group, [[b/_breed|breed]], or type.**
 	- _Example: A study of the suspect's character and his cast iron alibi ruled him out._
 - **Strength of mind; resolution; independence; individuality; moral strength.**
 	- _Example: "You may not like to eat liver," said Calvin's father, "but it builds character."_
-- **A unique or extraordinary individual; a person [[characterized]] by peculiar or notable traits, especially [[charisma]].**
+- **A unique or extraordinary individual; a person [[c/_characterized|characterized]] by peculiar or notable traits, especially [[c/_charisma|charisma]].**
 	- _Example: Julius Caesar is a great historical character._
 - **A written or printed symbol, or letter.**
 - **Style of writing or printing; handwriting; the particular form of letters used by a person or people.**
 	- _Example: an inscription in the Runic character_
-- **A secret [[cipher]]; a way of writing in [[code]].**
-- **One of the [[basic]] elements making up a text file or string: a [[code]] representing a printing [[character]] or a [[control]] [[character]].**
+- **A secret [[c/_cipher|cipher]]; a way of writing in [[c/_code|code]].**
+- **One of the [[b/_basic|basic]] elements making up a text file or string: a [[c/_code|code]] representing a printing [[c/_character|character]] or a [[c/_control|control]] [[c/_character|character]].**
 - **A person or individual, especially one who is unknown or raises suspicions.**
 	- _Example: That old guy is a real character._
-- **A [[complex]] number representing an element of a finite Abelian group.**
-- **Quality, position, rank, or [[capacity]]; quality or [[conduct]] with respect to a [[certain]] office or duty.**
+- **A [[c/_complex|complex]] number representing an element of a finite [[a/_abelian|Abelian]] group.**
+- **Quality, position, rank, or [[c/_capacity|capacity]]; quality or [[c/_conduct|conduct]] with respect to a [[c/_certain|certain]] office or duty.**
 	- _Example: in his character as a magistrate_
 - **The estimate, individual or general, put upon a person or thing; reputation.**
 	- _Example: Her actions give her a bad character._
-- **A reference given to a servant, [[attesting]] to his/her [[behaviour]], [[competence]], etc.**
-- **Personal [[appearance]].**
+- **A reference given to a servant, [[a/_attesting|attesting]] to his/her [[b/_behaviour|behaviour]], [[c/_competence|competence]], etc.**
+- **Personal [[a/_appearance|appearance]].**
 ---
 #verb
-- **To write (using [[characters]]); to [[describe]].**
+- **To write (using [[c/_characters|characters]]); to [[d/_describe|describe]].**
 ---
 ---

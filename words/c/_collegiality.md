@@ -1,7 +1,7 @@
 # Collegiality
 ---
 #noun
-- **Collegial [[atmosphere]]; working with [[colleagues]] in an effective and [[cooperative]] manner**
-- **Power and [[authority]] that is shared [[among]] peers, especially the sharing of [[collegiate]] power [[among]] Roman Catholic [[bishops]].**
+- **[[c/_collegial|Collegial]] [[a/_atmosphere|atmosphere]]; working with [[c/_colleagues|colleagues]] in an effective and [[c/_cooperative|cooperative]] manner**
+- **Power and [[a/_authority|authority]] that is shared [[a/_among|among]] peers, especially the sharing of [[c/_collegiate|collegiate]] power [[a/_among|among]] Roman [[c/_catholic|Catholic]] [[b/_bishops|bishops]].**
 ---
 ---

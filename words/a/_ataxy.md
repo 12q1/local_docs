@@ -1,7 +1,7 @@
 # Ataxy
 ---
 #noun
-- **Ataxia**
+- **[[a/_ataxia|Ataxia]]**
 - **Disorder; irregularity**
 ---
 ---

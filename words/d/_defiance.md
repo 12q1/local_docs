@@ -1,8 +1,8 @@
 # Defiance
 ---
 #noun
-- **The feeling, or spirit of [[being]] [[defiant]].**
-- **Open or [[bold]] resistance to or disregard for [[authority]], opposition, or power.**
-- **A [[challenging]] [[attitude]] or [[behaviour]]; [[challenge]].**
+- **The feeling, or spirit of [[b/_being|being]] [[d/_defiant|defiant]].**
+- **Open or [[b/_bold|bold]] resistance to or disregard for [[a/_authority|authority]], opposition, or power.**
+- **A [[c/_challenging|challenging]] [[a/_attitude|attitude]] or [[b/_behaviour|behaviour]]; [[c/_challenge|challenge]].**
 ---
 ---

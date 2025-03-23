@@ -1,10 +1,10 @@
 # Calliper
 ---
 #noun
-- **(usually plurale tantum) Uncommon variant of [[calipers]].**
-- **The part of a disc [[brake]] that holds the [[brake]] pads.**
+- **(usually plurale tantum) Uncommon variant of [[c/_calipers|calipers]].**
+- **The part of a disc [[b/_brake|brake]] that holds the [[b/_brake|brake]] pads.**
 ---
 #verb
-- **Alternative spelling of [[caliper]]**
+- **[[a/_alternative|Alternative]] spelling of [[c/_caliper|caliper]]**
 ---
 ---

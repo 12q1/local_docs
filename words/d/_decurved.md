@@ -1,6 +1,6 @@
 # Decurved
 ---
 #adjective
-- **Curved downward**
+- **[[c/_curved|Curved]] downward**
 ---
 ---

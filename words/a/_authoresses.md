@@ -1,6 +1,6 @@
 # Authoresses
 ---
 #noun
-- **A female [[author]].**
+- **A female [[a/_author|author]].**
 ---
 ---

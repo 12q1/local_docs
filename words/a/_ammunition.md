@@ -1,14 +1,14 @@
 # Ammunition
 ---
 #noun
-- **Articles used in [[charging]] firearms and ordnance of [[all]] kinds; as powder, [[balls]], shot, shells, percussion [[caps]], rockets, etc.**
-- **Military stores, or provisions of [[all]] kinds for [[attack]] or [[defense]].**
+- **[[a/_articles|Articles]] used in [[c/_charging|charging]] firearms and ordnance of [[a/_all|all]] kinds; as powder, [[b/_balls|balls]], shot, shells, percussion [[c/_caps|caps]], rockets, etc.**
+- **Military stores, or provisions of [[a/_all|all]] kinds for [[a/_attack|attack]] or [[d/_defense|defense]].**
 	- _Example: ammunition bread; ammunition shoes_
-- **Arguments and information that [[can]] be used [[against]] the other party in a [[conflict]]**
+- **[[a/_arguments|Arguments]] and information that [[c/_can|can]] be used [[a/_against|against]] the other party in a [[c/_conflict|conflict]]**
 ---
 ### Synonyms
 - [[ammo]]
 #verb
-- **To supply with [[ammunition]].**
+- **To supply with [[a/_ammunition|ammunition]].**
 ---
 ---

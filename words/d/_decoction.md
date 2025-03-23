@@ -1,7 +1,7 @@
 # Decoction
 ---
 #noun
-- **An extraction or essence of something, obtained by [[boiling]] it down.**
-- **The process of [[boiling]] something down in this way.**
+- **An extraction or essence of something, obtained by [[b/_boiling|boiling]] it down.**
+- **The process of [[b/_boiling|boiling]] something down in this way.**
 ---
 ---

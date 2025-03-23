@@ -1,13 +1,13 @@
 # Acclimated
 ---
 #verb
-- **To habituate to a [[climate]] not native; to [[acclimatize]].**
-- **To [[adjust]] to a new environment; not necessarily a wild, natural, earthy one.**
-- **To [[become]] [[accustomed]] to a new [[climate]] or environment.**
+- **To habituate to a [[c/_climate|climate]] not native; to [[a/_acclimatize|acclimatize]].**
+- **To [[a/_adjust|adjust]] to a new environment; not necessarily a wild, natural, earthy one.**
+- **To [[b/_become|become]] [[a/_accustomed|accustomed]] to a new [[c/_climate|climate]] or environment.**
 ---
 ### Synonyms
 - [[acclimatise]], [[acclimatize]], [[accommodate]], [[acculture]], [[accustom]], [[adjust]], [[climatize]], [[conform]], [[get used to]], [[habituate]], [[harden]], [[season]], [[toughen]]
 #adjective
-- **Accustomed, [[adapted]] or hardened to some environment**
+- **[[a/_accustomed|Accustomed]], [[a/_adapted|adapted]] or hardened to some environment**
 ---
 ---

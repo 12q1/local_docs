@@ -1,6 +1,6 @@
 # Bedchamber
 ---
 #noun
-- **A [[bedroom]].**
+- **A [[b/_bedroom|bedroom]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Butcherbird
 ---
 #noun
-- **Any of the shrikes in the genus Lanius.**
+- **[[a/_any|Any]] of the shrikes in the genus Lanius.**
 - **The fiscal shrike, Lanius collaris.**
-- **Any of the magpie-like [[birds]] in the genus Cracticus.**
+- **[[a/_any|Any]] of the magpie-like [[b/_birds|birds]] in the genus Cracticus.**
 ---
 ### Synonyms
 - [[Jacky Hanger]], [[Jacky Hangman]], [[red-backed shrike]]

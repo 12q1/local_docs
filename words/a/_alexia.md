@@ -1,6 +1,6 @@
 # Alexia
 ---
 #noun
-- **Word [[blindness]], the inability, due to a [[cerebral]] disorder, to [[comprehend]] or understand writing.**
+- **Word [[b/_blindness|blindness]], the inability, due to a [[c/_cerebral|cerebral]] disorder, to [[c/_comprehend|comprehend]] or understand writing.**
 ---
 ---

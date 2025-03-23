@@ -1,10 +1,10 @@
 # Bleak
 ---
 #adjective
-- **Without [[color]]; pale; pallid.**
-- **Desolate and exposed; swept by [[cold]] winds.**
+- **Without [[c/_color|color]]; pale; pallid.**
+- **[[d/_desolate|Desolate]] and exposed; swept by [[c/_cold|cold]] winds.**
 	- _Example: A bleak and bare rock._
-- **Unhappy; [[cheerless]]; miserable; emotionally [[desolate]].**
+- **Unhappy; [[c/_cheerless|cheerless]]; miserable; emotionally [[d/_desolate|desolate]].**
 	- _Example: A bleak future is in store for you._
 ---
 ---

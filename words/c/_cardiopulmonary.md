@@ -1,6 +1,6 @@
 # Cardiopulmonary
 ---
 #adjective
-- **Of or pertaining to [[both]] the heart and the lungs.**
+- **Of or pertaining to [[b/_both|both]] the heart and the lungs.**
 ---
 ---

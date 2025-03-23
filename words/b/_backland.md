@@ -1,6 +1,6 @@
 # Backland
 ---
 #noun
-- **Land that lies [[behind]] or [[beyond]] some primary settlement or development.**
+- **Land that lies [[b/_behind|behind]] or [[b/_beyond|beyond]] some primary settlement or development.**
 ---
 ---

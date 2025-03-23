@@ -1,13 +1,13 @@
 # Browner
 ---
 #adjective
-- **Having a [[brown]] [[colour]].**
+- **Having a [[b/_brown|brown]] [[c/_colour|colour]].**
 - **Gloomy.**
-- **(sometimes [[capitalized]]) Of or relating to [[any]] of various ethnic groups having [[dark]] pigmentation of the skin.**
+- **(sometimes [[c/_capitalized|capitalized]]) Of or relating to [[a/_any|any]] of various ethnic groups having [[d/_dark|dark]] pigmentation of the skin.**
 ---
 ### Antonyms
 - [[nonbrown]]
 #noun
-- **A special dish for [[cooking]] food in a microwave oven so that it [[browns]] on the outside.**
+- **A special dish for [[c/_cooking|cooking]] food in a microwave oven so that it [[b/_browns|browns]] on the outside.**
 ---
 ---

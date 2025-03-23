@@ -1,95 +1,95 @@
 # Cut
 ---
 #noun
-- **The [[act]] of [[cutting]].**
+- **The [[a/_act|act]] of [[c/_cutting|cutting]].**
 	- _Example: He made a fine cut with his sword._
-- **The result of [[cutting]].**
+- **The result of [[c/_cutting|cutting]].**
 	- _Example: a smooth or clear cut_
-- **An opening resulting from [[cutting]]; an incision or wound.**
+- **An opening resulting from [[c/_cutting|cutting]]; an incision or wound.**
 	- _Example: Look at this cut on my finger!_
-- **A notch, passage, or [[channel]] made by [[cutting]] or digging; a furrow; a groove.**
+- **A notch, passage, or [[c/_channel|channel]] made by [[c/_cutting|cutting]] or digging; a furrow; a groove.**
 	- _Example: a cut for a railroad_
 - **A share or portion.**
 	- _Example: The lawyer took a cut of the profits._
-- **A [[batsman]]'s shot played with a swinging motion of the [[bat]], to hit the [[ball]] [[backward]] of point.**
-- **Sideways movement of the [[ball]] through the [[air]] [[caused]] by a fast [[bowler]] imparting spin to the [[ball]].**
-- **In lawn tennis, etc., a slanting stroke [[causing]] the [[ball]] to spin and [[bound]] irregularly; [[also]], the spin thus given to the [[ball]].**
-- **In a strokeplay [[competition]], the early elimination of those players who have not then [[attained]] a preannounced score, so that the rest of the [[competition]] is less pressed for time and more entertaining for spectators.**
+- **A [[b/_batsman|batsman]]'s shot played with a swinging motion of the [[b/_bat|bat]], to hit the [[b/_ball|ball]] [[b/_backward|backward]] of point.**
+- **Sideways movement of the [[b/_ball|ball]] through the [[a/_air|air]] [[c/_caused|caused]] by a fast [[b/_bowler|bowler]] imparting spin to the [[b/_ball|ball]].**
+- **In lawn tennis, etc., a slanting stroke [[c/_causing|causing]] the [[b/_ball|ball]] to spin and [[b/_bound|bound]] irregularly; [[a/_also|also]], the spin thus given to the [[b/_ball|ball]].**
+- **In a strokeplay [[c/_competition|competition]], the early elimination of those players who have not then [[a/_attained|attained]] a preannounced score, so that the rest of the [[c/_competition|competition]] is less pressed for time and more entertaining for spectators.**
 - **A passage omitted or to be omitted from a play.**
 	- _Example: The director asked the cast to note down the following cuts._
 - **A particular version or edit of a film.**
-- **The [[act]] or right of dividing a [[deck]] of playing [[cards]].**
+- **The [[a/_act|act]] or right of dividing a [[d/_deck|deck]] of playing [[c/_cards|cards]].**
 	- _Example: The player next to the dealer makes a cut by placing the bottom half on top._
-- **The [[card]] obtained by dividing the pack.**
+- **The [[c/_card|card]] obtained by dividing the pack.**
 - **The manner or style a garment etc. is fashioned in.**
 	- _Example: I like the cut of that suit._
 - **A slab, especially of meat.**
 	- _Example: That’s our finest cut of meat._
-- **An [[attack]] made with a [[chopping]] motion of the [[blade]], landing with its edge or point.**
-- **A [[deliberate]] snub, typically a refusal to return a [[bow]] or other [[acknowledgement]] of [[acquaintance]].**
-- **An unkind [[act]]; a [[cruelty]].**
-- **A [[definable]] part, such as an individual song, of a recording, particularly of [[commercial]] records, [[audio]] tapes, CDs, etc.**
+- **An [[a/_attack|attack]] made with a [[c/_chopping|chopping]] motion of the [[b/_blade|blade]], landing with its edge or point.**
+- **A [[d/_deliberate|deliberate]] snub, typically a refusal to return a [[b/_bow|bow]] or other [[a/_acknowledgement|acknowledgement]] of [[a/_acquaintance|acquaintance]].**
+- **An unkind [[a/_act|act]]; a [[c/_cruelty|cruelty]].**
+- **A [[d/_definable|definable]] part, such as an individual song, of a recording, particularly of [[c/_commercial|commercial]] records, [[a/_audio|audio]] tapes, CDs, etc.**
 	- _Example: The drummer on the last cut of their CD is not identified._
-- **A truncation, a [[context]] that represents a moment in time when other [[archaeological]] [[deposits]] were removed for the [[creation]] of some feature such as a ditch or pit.**
+- **A truncation, a [[c/_context|context]] that represents a moment in time when other [[a/_archaeological|archaeological]] [[d/_deposits|deposits]] were removed for the [[c/_creation|creation]] of some feature such as a ditch or pit.**
 - **A haircut.**
 - **The partition of a graph’s vertices into two subgroups.**
-- **A string of railway [[cars]] [[coupled]] together.**
-- **An engraved [[block]] or plate; the impression from such an engraving.**
+- **A string of railway [[c/_cars|cars]] [[c/_coupled|coupled]] together.**
+- **An engraved [[b/_block|block]] or plate; the impression from such an engraving.**
 	- _Example: a book illustrated with fine cuts_
-- **A [[common]] workhorse; a gelding.**
-- **The failure of a [[college]] officer or student to be present at [[any]] [[appointed]] exercise.**
+- **A [[c/_common|common]] workhorse; a gelding.**
+- **The failure of a [[c/_college|college]] officer or student to be present at [[a/_any|any]] [[a/_appointed|appointed]] exercise.**
 - **A skein of yarn.**
-- **That which is used to dilute or [[adulterate]] a recreational drug.**
+- **That which is used to dilute or [[a/_adulterate|adulterate]] a recreational drug.**
 	- _Example: Don't buy his coke: it's full of cut._
 - **A notch shaved into an eyebrow.**
 - **A time period when one tries to lose fat while retaining muscle mass.**
 - **A hidden or secure place.**
 ---
 #verb
-- **(heading) To incise, to [[cut]] into the surface of something.**
-- **To [[admit]] of incision or severance; to yield to a [[cutting]] instrument.**
+- **(heading) To incise, to [[c/_cut|cut]] into the surface of something.**
+- **To [[a/_admit|admit]] of incision or severance; to yield to a [[c/_cutting|cutting]] instrument.**
 - **(heading, social) To separate, remove, reject or reduce.**
-- **([[audio]], usually as imperative) To [[cease]] recording [[activities]].**
+- **([[a/_audio|audio]], usually as imperative) To [[c/_cease|cease]] recording [[a/_activities|activities]].**
 	- _Example: After the actors read their lines, the director yelled, "Cut!"_
-- **To make an [[abrupt]] transition from one scene or image to [[another]].**
+- **To make an [[a/_abrupt|abrupt]] transition from one scene or image to [[a/_another|another]].**
 	- _Example: The camera then cut to the woman on the front row who was clearly overcome and crying tears of joy._
 - **To edit a film by selecting takes from original footage.**
 - **To remove and place in memory for later use.**
 	- _Example: Select the text, cut it, and then paste it in the other application._
 - **To enter a queue in the wrong place.**
 	- _Example: One student kept trying to cut in front of the line._
-- **To intersect or [[cross]] in such a way as to divide in half or nearly so.**
+- **To intersect or [[c/_cross|cross]] in such a way as to divide in half or nearly so.**
 	- _Example: This road cuts right through downtown._
-- **To make the [[ball]] spin sideways by running one's fingers down the side of the [[ball]] while [[bowling]] it.**
-- **To [[deflect]] (a [[bowled]] [[ball]]) to the off, with a [[chopping]] movement of the [[bat]].**
-- **To [[change]] direction suddenly.**
+- **To make the [[b/_ball|ball]] spin sideways by running one's fingers down the side of the [[b/_ball|ball]] while [[b/_bowling|bowling]] it.**
+- **To [[d/_deflect|deflect]] (a [[b/_bowled|bowled]] [[b/_ball|ball]]) to the off, with a [[c/_chopping|chopping]] movement of the [[b/_bat|bat]].**
+- **To [[c/_change|change]] direction suddenly.**
 	- _Example: The football player cut to his left to evade a tackle._
-- **To divide a pack of playing [[cards]] into two.**
+- **To divide a pack of playing [[c/_cards|cards]] into two.**
 	- _Example: If you cut then I'll deal._
 - **To write.**
 	- _Example: cut orders;  cut a check_
-- **To dilute or [[adulterate]] something, especially a recreational drug.**
+- **To dilute or [[a/_adulterate|adulterate]] something, especially a recreational drug.**
 	- _Example: Drug dealers sometimes cut cocaine with lidocaine._
 - **To exhibit (a quality).**
 - **To stop or disengage.**
 	- _Example: Cut the engines when the plane comes to a halt!_
-- **To drive (a [[ball]]) to one side, as by (in [[billiards]] or [[croquet]]) hitting it fine with [[another]] [[ball]], or (in tennis) striking it with the racket inclined.**
-- **To lose [[body]] mass [[after]] [[bulking]], [[aiming]] to keep the [[additional]] muscle but lose the fat.**
-- **To perform (a [[dancing]] movement etc.).**
+- **To drive (a [[b/_ball|ball]]) to one side, as by (in [[b/_billiards|billiards]] or [[c/_croquet|croquet]]) hitting it fine with [[a/_another|another]] [[b/_ball|ball]], or (in tennis) striking it with the racket inclined.**
+- **To lose [[b/_body|body]] mass [[a/_after|after]] [[b/_bulking|bulking]], [[a/_aiming|aiming]] to keep the [[a/_additional|additional]] muscle but lose the fat.**
+- **To perform (a [[d/_dancing|dancing]] movement etc.).**
 ---
 #adjective
-- **(participial [[adjective]]) Having [[been]] [[cut]].**
+- **(participial [[a/_adjective|adjective]]) Having [[b/_been|been]] [[c/_cut|cut]].**
 - **Reduced.**
 	- _Example: Cut brandy is a liquor made of brandy and hard grain liquor._
 - **Omitted from a literary, musical or other work.**
 	- _Example: My favourite song had been cut from the show._
-- **(of a gem) Carved into a shape; not raw.**
-- **(of a shot) Played with a horizontal [[bat]] to hit the [[ball]] [[backward]] of point.**
-- **Having muscular [[definition]] in which individual groups of muscle fibers stand out [[among]] larger muscles.**
-- **Circumcised or having [[been]] the subject of female genital mutilation**
+- **(of a gem) [[c/_carved|Carved]] into a shape; not raw.**
+- **(of a shot) Played with a horizontal [[b/_bat|bat]] to hit the [[b/_ball|ball]] [[b/_backward|backward]] of point.**
+- **Having muscular [[d/_definition|definition]] in which individual groups of muscle fibers stand out [[a/_among|among]] larger muscles.**
+- **[[c/_circumcised|Circumcised]] or having [[b/_been|been]] the subject of female genital mutilation**
 - **Emotionally hurt.**
-- **Eliminated from [[consideration]] during a recruitment drive.**
+- **Eliminated from [[c/_consideration|consideration]] during a recruitment drive.**
 - **Removed from a team roster.**
-- **Intoxicated as a result of drugs or [[alcohol]].**
+- **Intoxicated as a result of drugs or [[a/_alcohol|alcohol]].**
 ---
 ---

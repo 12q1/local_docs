@@ -1,12 +1,12 @@
 # Antipsychotic
 ---
 #noun
-- **Any of a group of drugs used to treat psychosis.**
+- **[[a/_any|Any]] of a group of drugs used to treat psychosis.**
 ---
 ### Synonyms
 - [[neuroleptic]]
 #adjective
-- **(pharmaceutical effect) Preventing or [[counteracting]] psychosis.**
+- **(pharmaceutical effect) Preventing or [[c/_counteracting|counteracting]] psychosis.**
 ---
 ### Synonyms
 - [[neuroleptic]]

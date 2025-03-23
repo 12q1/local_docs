@@ -1,6 +1,6 @@
 # Caracoled
 ---
 #verb
-- **To execute a [[caracole]].**
+- **To execute a [[c/_caracole|caracole]].**
 ---
 ---

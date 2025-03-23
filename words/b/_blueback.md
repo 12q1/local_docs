@@ -1,6 +1,6 @@
 # Blueback
 ---
 #noun
-- **Any of several fish**
+- **[[a/_any|Any]] of several fish**
 ---
 ---

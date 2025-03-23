@@ -1,12 +1,12 @@
 # Attainted
 ---
 #verb
-- **To subject to [[attainder]]; to [[condemn]] (someone) to [[death]] and extinction of [[all]] [[civil]] rights.**
-- **To subject to [[calumny]]; to [[accuse]] of a [[crime]] or dishonour.**
-- **To taint; to [[corrupt]], sully.**
+- **To subject to [[a/_attainder|attainder]]; to [[c/_condemn|condemn]] (someone) to [[d/_death|death]] and extinction of [[a/_all|all]] [[c/_civil|civil]] rights.**
+- **To subject to [[c/_calumny|calumny]]; to [[a/_accuse|accuse]] of a [[c/_crime|crime]] or dishonour.**
+- **To taint; to [[c/_corrupt|corrupt]], sully.**
 ---
 #adjective
-- **Subject to [[attainder]]; [[condemned]] to [[death]] or outlawry, hence stripped of one's titles, hereditary rights, or possessions.**
-- **Tainted, [[corrupted]].**
+- **Subject to [[a/_attainder|attainder]]; [[c/_condemned|condemned]] to [[d/_death|death]] or outlawry, hence stripped of one's titles, hereditary rights, or possessions.**
+- **Tainted, [[c/_corrupted|corrupted]].**
 ---
 ---

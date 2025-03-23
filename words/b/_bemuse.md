@@ -1,7 +1,7 @@
 # Bemuse
 ---
 #verb
-- **To [[confuse]] or [[bewilder]].**
+- **To [[c/_confuse|confuse]] or [[b/_bewilder|bewilder]].**
 - **To devote to the Muses.**
 ---
 ---

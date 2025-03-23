@@ -1,6 +1,6 @@
 # Anorectal
 ---
 #adjective
-- **Of or pertaining to the [[anus]] and the rectum.**
+- **Of or pertaining to the [[a/_anus|anus]] and the rectum.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Corruptibility
 ---
 #noun
-- **The state of [[being]] [[corruptible]]**
+- **The state of [[b/_being|being]] [[c/_corruptible|corruptible]]**
 ---
 ---

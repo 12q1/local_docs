@@ -1,10 +1,10 @@
 # Aggravations
 ---
 #noun
-- **The [[act]] of [[aggravating]], or making worse; used of evils, natural or moral; the [[act]] of increasing in severity or heinousness; something [[additional]] to a [[crime]] or wrong and enhancing its guilt or injurious [[consequences]].**
+- **The [[a/_act|act]] of [[a/_aggravating|aggravating]], or making worse; used of evils, natural or moral; the [[a/_act|act]] of increasing in severity or heinousness; something [[a/_additional|additional]] to a [[c/_crime|crime]] or wrong and enhancing its guilt or injurious [[c/_consequences|consequences]].**
 - **Exaggerated representation.**
-- **An extrinsic [[circumstance]] or [[accident]] which increases the guilt of a [[crime]] or the misery of a [[calamity]].**
-- **Provocation, irritation, [[annoyance]].**
+- **An extrinsic [[c/_circumstance|circumstance]] or [[a/_accident|accident]] which increases the guilt of a [[c/_crime|crime]] or the misery of a [[c/_calamity|calamity]].**
+- **Provocation, irritation, [[a/_annoyance|annoyance]].**
 ---
 ### Synonyms
 - [[exacerbation]]

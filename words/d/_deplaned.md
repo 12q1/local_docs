@@ -1,6 +1,6 @@
 # Deplaned
 ---
 #verb
-- **To disembark from an [[airplane]].**
+- **To disembark from an [[a/_airplane|airplane]].**
 ---
 ---

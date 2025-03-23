@@ -1,11 +1,11 @@
 # Bellyaching
 ---
 #verb
-- **To unnecessarily [[complain]] or whine, often [[about]] simple matters.**
+- **To unnecessarily [[c/_complain|complain]] or whine, often [[a/_about|about]] simple matters.**
 	- _Example: Quit bellyaching about the problem and help us fix it._
 ---
 #noun
-- **Whining and [[complaining]], often [[contrived]] to evoke pity or shirk responsibility.**
+- **Whining and [[c/_complaining|complaining]], often [[c/_contrived|contrived]] to evoke pity or shirk responsibility.**
 	- _Example: Quit your bellyaching and get back to work!_
 ---
 ---

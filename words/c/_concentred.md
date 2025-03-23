@@ -1,11 +1,11 @@
 # Concentred
 ---
 #verb
-- **To [[come]] together at a [[common]] [[centre]].**
-- **To [[coincide]].**
-- **To [[bring]] together at a [[common]] [[centre]].**
+- **To [[c/_come|come]] together at a [[c/_common|common]] [[c/_centre|centre]].**
+- **To [[c/_coincide|coincide]].**
+- **To [[b/_bring|bring]] together at a [[c/_common|common]] [[c/_centre|centre]].**
 - **To focus.**
-- **To [[condense]], to [[concentrate]].**
+- **To [[c/_condense|condense]], to [[c/_concentrate|concentrate]].**
 ---
 ### Synonyms
 - [[converge]]

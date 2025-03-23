@@ -1,6 +1,6 @@
 # Corncribs
 ---
 #noun
-- **A slatted [[bin]] for drying [[corn]] (maize).**
+- **A slatted [[b/_bin|bin]] for drying [[c/_corn|corn]] (maize).**
 ---
 ---

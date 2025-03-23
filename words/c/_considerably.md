@@ -1,7 +1,7 @@
 # Considerably
 ---
 #adverb
-- **Significantly; to a [[degree]] worth [[considering]].**
+- **Significantly; to a [[d/_degree|degree]] worth [[c/_considering|considering]].**
 	- _Example: The situation has improved considerably._
 ---
 ---

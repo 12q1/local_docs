@@ -2,14 +2,14 @@
 ---
 #verb
 - **To express sympathetic sorrow; to lament in sympathy (with someone on something).**
-- **To [[condole]] with (someone).**
+- **To [[c/_condole|condole]] with (someone).**
 - **To say in an expression of sympathy.**
-- **To lament, grieve, [[bemoan]] (something).**
+- **To lament, grieve, [[b/_bemoan|bemoan]] (something).**
 ---
 #noun
-- **Condolence.**
+- **[[c/_condolence|Condolence]].**
 ---
 #adjective
-- **Expressing [[condolence]]; sympathetic.**
+- **Expressing [[c/_condolence|condolence]]; sympathetic.**
 ---
 ---

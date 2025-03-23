@@ -1,7 +1,7 @@
 # Businesswomen
 ---
 #noun
-- **A woman involved in [[business]].**
+- **A woman involved in [[b/_business|business]].**
 ---
 ### Synonyms
 - [[businessperson]]

@@ -1,6 +1,6 @@
 # Cabby
 ---
 #noun
-- **A [[cabdriver]]; someone who drives a taxi.**
+- **A [[c/_cabdriver|cabdriver]]; someone who drives a taxi.**
 ---
 ---

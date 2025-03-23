@@ -1,6 +1,6 @@
 # Bronchiectasis
 ---
 #noun
-- **Abnormal permanent dilation of the [[bronchial]] tubes.**
+- **[[a/_abnormal|Abnormal]] permanent dilation of the [[b/_bronchial|bronchial]] tubes.**
 ---
 ---

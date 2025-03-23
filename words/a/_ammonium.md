@@ -1,7 +1,7 @@
 # Ammonium
 ---
 #noun
-- **The univalent NH4+ [[cation]], [[derived]] by the protonation of [[ammonia]]**
-- **(especially in [[combination]]) Any similar [[cation]] formed by replacing one or more hydrogen [[atoms]] with [[alkyl]] or [[aryl]] radicals**
+- **The univalent NH4+ [[c/_cation|cation]], [[d/_derived|derived]] by the protonation of [[a/_ammonia|ammonia]]**
+- **(especially in [[c/_combination|combination]]) [[a/_any|Any]] similar [[c/_cation|cation]] formed by replacing one or more hydrogen [[a/_atoms|atoms]] with [[a/_alkyl|alkyl]] or [[a/_aryl|aryl]] radicals**
 ---
 ---

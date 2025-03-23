@@ -1,6 +1,6 @@
 # Calciferous
 ---
 #adjective
-- **Yielding or [[containing]] [[calcium]], [[calcium]] [[carbonate]] or [[calcite]].**
+- **Yielding or [[c/_containing|containing]] [[c/_calcium|calcium]], [[c/_calcium|calcium]] [[c/_carbonate|carbonate]] or [[c/_calcite|calcite]].**
 ---
 ---

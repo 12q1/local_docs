@@ -1,7 +1,7 @@
 # Denunciating
 ---
 #verb
-- **To [[condemn]] openly.**
+- **To [[c/_condemn|condemn]] openly.**
 ---
 ### Synonyms
 - [[denounce]]

@@ -1,10 +1,10 @@
 # Coattail
 ---
 #noun
-- **The flap at the [[back]] of a [[coat]] that hangs down, sometimes [[below]] the waist.**
-- **(usually in the plural) Success of a figure, organization or movement that transfers to those who [[associate]] with it.**
+- **The flap at the [[b/_back|back]] of a [[c/_coat|coat]] that hangs down, sometimes [[b/_below|below]] the waist.**
+- **(usually in the plural) Success of a figure, organization or movement that transfers to those who [[a/_associate|associate]] with it.**
 ---
 #verb
-- **To ride the [[coattails]] of.**
+- **To ride the [[c/_coattails|coattails]] of.**
 ---
 ---

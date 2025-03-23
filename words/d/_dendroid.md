@@ -1,7 +1,7 @@
 # Dendroid
 ---
 #noun
-- **An arcwise [[connected]], hereditarily unicoherent [[continuum]].**
+- **An arcwise [[c/_connected|connected]], hereditarily unicoherent [[c/_continuum|continuum]].**
 	- _Example: smooth dendroids without ordinary points_
 ---
 #adjective

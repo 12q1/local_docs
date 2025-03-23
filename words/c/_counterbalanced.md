@@ -1,9 +1,9 @@
 # Counterbalanced
 ---
 #verb
-- **To [[apply]] weight in order to [[balance]] an opposing weight.**
+- **To [[a/_apply|apply]] weight in order to [[b/_balance|balance]] an opposing weight.**
 	- _Example: Big brother counterbalances his two siblings to the pound._
-- **To match or equal in effect when [[applying]] opposing force**
+- **To match or equal in effect when [[a/_applying|applying]] opposing force**
 	- _Example: Arm wrestling is undecided as long as the opponents counterbalance each-other_
 ---
 ### Synonyms
@@ -11,6 +11,6 @@
 ### Antonyms
 - [[outweigh]], [[overcome]], [[overpower]]
 #adjective
-- **Having a [[counterbalance]]**
+- **Having a [[c/_counterbalance|counterbalance]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Ceps
 ---
 #noun
-- **An edible mushroom (Boletus edulis).**
+- **An edible mushroom ([[b/_boletus|Boletus]] edulis).**
 ---
 ### Synonyms
 - [[penny bun]], [[porcini]]

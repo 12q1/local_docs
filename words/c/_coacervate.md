@@ -1,9 +1,9 @@
 # Coacervate
 ---
 #noun
-- **The microsphere droplet that results from [[coacervation]].**
+- **The microsphere droplet that results from [[c/_coacervation|coacervation]].**
 ---
 #adjective
-- **Clumped together, [[clustered]].**
+- **[[c/_clumped|Clumped]] together, [[c/_clustered|clustered]].**
 ---
 ---

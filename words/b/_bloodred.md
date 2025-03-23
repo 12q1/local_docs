@@ -1,6 +1,6 @@
 # Bloodred
 ---
 #noun
-- **Alternative form of [[blood]]-red**
+- **[[a/_alternative|Alternative]] form of [[b/_blood|blood]]-red**
 ---
 ---

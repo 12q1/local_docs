@@ -1,6 +1,6 @@
 # Camporee
 ---
 #noun
-- **A gathering of Scouts in which [[accommodation]] is in tents**
+- **A gathering of Scouts in which [[a/_accommodation|accommodation]] is in tents**
 ---
 ---

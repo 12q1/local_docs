@@ -1,6 +1,6 @@
 # Bivalents
 ---
 #noun
-- **Any [[bivalent]] [[chromosome]].**
+- **[[a/_any|Any]] [[b/_bivalent|bivalent]] [[c/_chromosome|chromosome]].**
 ---
 ---

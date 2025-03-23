@@ -1,6 +1,6 @@
 # Chaology
 ---
 #noun
-- **The study of [[chaos]] and [[chaotic]] systems**
+- **The study of [[c/_chaos|chaos]] and [[c/_chaotic|chaotic]] systems**
 ---
 ---

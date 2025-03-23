@@ -2,7 +2,7 @@
 ---
 #verb
 - **To preordain**
-- **To [[assign]] something (especially finance) for a particular use**
-- **To have a particular [[destination]]**
+- **To [[a/_assign|assign]] something (especially finance) for a particular use**
+- **To have a particular [[d/_destination|destination]]**
 ---
 ---

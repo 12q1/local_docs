@@ -1,7 +1,7 @@
 # Catholicism
 ---
 #noun
-- **The state or quality of [[being]] [[catholic]] or universal; [[catholicity]].**
-- **Liberality of sentiment; [[breadth]] of view.**
+- **The state or quality of [[b/_being|being]] [[c/_catholic|catholic]] or universal; [[c/_catholicity|catholicity]].**
+- **Liberality of sentiment; [[b/_breadth|breadth]] of view.**
 ---
 ---

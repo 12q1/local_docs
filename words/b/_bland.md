@@ -5,7 +5,7 @@
 	- _Example: a bland diet_
 - **Lacking in taste, flavor, or vigor.**
 	- _Example: The coffee was bland._
-- **Lacking interest; [[boring]]; dull.**
-- **Mild; soft, gentle, [[balmy]]; smooth in manner; suave.**
+- **Lacking interest; [[b/_boring|boring]]; dull.**
+- **Mild; soft, gentle, [[b/_balmy|balmy]]; smooth in manner; suave.**
 ---
 ---

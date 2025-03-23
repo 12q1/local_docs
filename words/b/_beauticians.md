@@ -1,7 +1,7 @@
 # Beauticians
 ---
 #noun
-- **One who does hair styling, manicures, and other [[beauty]] treatments.**
+- **One who does hair styling, manicures, and other [[b/_beauty|beauty]] treatments.**
 ---
 ### Synonyms
 - [[beauty specialist]]

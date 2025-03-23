@@ -1,7 +1,7 @@
 # Baggie
 ---
 #noun
-- **A small [[bag]], especially a small, [[clear]], plastic [[bag]].**
+- **A small [[b/_bag|bag]], especially a small, [[c/_clear|clear]], plastic [[b/_bag|bag]].**
 ---
 ### Synonyms
 - [[sandwich bag]], [[ziploc]]

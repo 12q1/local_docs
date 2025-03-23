@@ -1,8 +1,8 @@
 # Clockers
 ---
 #noun
-- **A person who [[clocks]] (illegally winds [[back]] the milometer of) a motor [[car]]**
-- **A low-level drug [[dealer]] who operates on the streets.**
-- **A [[clucking]] hen.**
+- **A person who [[c/_clocks|clocks]] (illegally winds [[b/_back|back]] the milometer of) a motor [[c/_car|car]]**
+- **A low-level drug [[d/_dealer|dealer]] who operates on the streets.**
+- **A [[c/_clucking|clucking]] hen.**
 ---
 ---

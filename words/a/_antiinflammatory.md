@@ -1,9 +1,9 @@
 # Antiinflammatory
 ---
 #noun
-- **An [[agent]] that prevents or [[counteracts]] inflammation.**
+- **An [[a/_agent|agent]] that prevents or [[c/_counteracts|counteracts]] inflammation.**
 ---
 #adjective
-- **(pharmaceutical effect) Preventing or [[counteracting]] inflammation.**
+- **(pharmaceutical effect) Preventing or [[c/_counteracting|counteracting]] inflammation.**
 ---
 ---

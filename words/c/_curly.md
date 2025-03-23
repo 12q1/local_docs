@@ -1,11 +1,11 @@
 # Curly
 ---
 #noun
-- **A person or [[animal]] with [[curly]] hair.**
+- **A person or [[a/_animal|animal]] with [[c/_curly|curly]] hair.**
 ---
 #adjective
-- **Having [[curls]].**
-- **Curling in a direction, as opposed to straight (quotation marks or [[apostrophes]])**
-- **Complicated and difficult; knotty.**
+- **Having [[c/_curls|curls]].**
+- **[[c/_curling|Curling]] in a direction, as opposed to straight (quotation marks or [[a/_apostrophes|apostrophes]])**
+- **[[c/_complicated|Complicated]] and difficult; knotty.**
 ---
 ---

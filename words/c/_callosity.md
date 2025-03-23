@@ -1,7 +1,7 @@
 # Callosity
 ---
 #noun
-- **A [[callus]]**
-- **A [[callous]] [[demeanour]]; insensitivity or hardheartedness**
+- **A [[c/_callus|callus]]**
+- **A [[c/_callous|callous]] [[d/_demeanour|demeanour]]; insensitivity or hardheartedness**
 ---
 ---

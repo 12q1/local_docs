@@ -1,9 +1,9 @@
 # Afeared
 ---
 #verb
-- **To imbue with fear; to [[affright]], to terrify.**
+- **To imbue with fear; to [[a/_affright|affright]], to terrify.**
 ---
 #adjective
-- **Afraid.**
+- **[[a/_afraid|Afraid]].**
 ---
 ---

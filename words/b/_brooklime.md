@@ -1,6 +1,6 @@
 # Brooklime
 ---
 #noun
-- **Certain plants of genus Veronica, with usually [[blue]] flowers in [[axillary]] racemes:**
+- **[[c/_certain|Certain]] plants of genus Veronica, with usually [[b/_blue|blue]] flowers in [[a/_axillary|axillary]] racemes:**
 ---
 ---

@@ -1,42 +1,42 @@
 # Cribs
 ---
 #noun
-- **A [[baby]]’s [[bed]] with high, often slatted, often moveable sides, suitable for a [[child]] who has outgrown a [[cradle]] or [[bassinet]].**
-- **A [[bed]] for a [[child]] older than a [[baby]].**
-- **A small sleeping [[berth]] in a packet ship or other small vessel**
-- **A wicker [[basket]]; [[compare]] Moses [[basket]].**
-- **A manger, a feeding trough for [[animals]] elevated off the earth or floor, especially one for fodder such as hay.**
-- **The [[baby]] Jesus and the manger in a [[creche]] or nativity scene, [[consisting]] of statues of Mary, Joseph and various other [[characters]] such as the magi.**
-- **A [[bin]] for drying or storing grain, as with a [[corn]] [[crib]].**
-- **A small room or [[covered]] structure, especially one of rough [[construction]], used for storage or penning [[animals]].**
-- **A [[confined]] space, as with a [[cage]] or office-[[cubicle]]**
-- **A job, a position; (British), an [[appointment]].**
-- **A hovel, a roughly [[constructed]] [[building]] [[best]] suited to the shelter of [[animals]] but used for human habitation.**
+- **A [[b/_baby|baby]]’s [[b/_bed|bed]] with high, often slatted, often moveable sides, suitable for a [[c/_child|child]] who has outgrown a [[c/_cradle|cradle]] or [[b/_bassinet|bassinet]].**
+- **A [[b/_bed|bed]] for a [[c/_child|child]] older than a [[b/_baby|baby]].**
+- **A small sleeping [[b/_berth|berth]] in a packet ship or other small vessel**
+- **A wicker [[b/_basket|basket]]; [[c/_compare|compare]] Moses [[b/_basket|basket]].**
+- **A manger, a feeding trough for [[a/_animals|animals]] elevated off the earth or floor, especially one for fodder such as hay.**
+- **The [[b/_baby|baby]] Jesus and the manger in a [[c/_creche|creche]] or nativity scene, [[c/_consisting|consisting]] of statues of Mary, Joseph and various other [[c/_characters|characters]] such as the magi.**
+- **A [[b/_bin|bin]] for drying or storing grain, as with a [[c/_corn|corn]] [[c/_crib|crib]].**
+- **A small room or [[c/_covered|covered]] structure, especially one of rough [[c/_construction|construction]], used for storage or penning [[a/_animals|animals]].**
+- **A [[c/_confined|confined]] space, as with a [[c/_cage|cage]] or office-[[c/_cubicle|cubicle]]**
+- **A job, a position; ([[b/_british|British]]), an [[a/_appointment|appointment]].**
+- **A hovel, a roughly [[c/_constructed|constructed]] [[b/_building|building]] [[b/_best|best]] suited to the shelter of [[a/_animals|animals]] but used for human habitation.**
 - **One’s residence, or where one normally hangs out. A house or dwelling place.**
-- **A [[boxy]] structure traditionally [[built]] of heavy wooden timbers, to support an existing structure from [[below]], as with a mineshaft or a [[building]] [[being]] raised off its foundation in preparation for [[being]] moved; see [[cribbing]].**
-- **(usually in the plural) A [[collection]] of quotes or references for use in speaking, for [[assembling]] a written document, or as an [[aid]] to a project of some sort; a [[crib]] sheet.**
-- **A minor theft, extortion or embezzlement, with or without [[criminal]] intent.**
-- **The [[card]] game [[cribbage]].**
-- **The [[cards]] discarded by players and used by the [[dealer]].**
-- **A known piece of information [[corresponding]] to a section of encrypted text, that is then used to work out the remaining sections.**
-- **A small holiday home, often near a [[beach]] and of simple [[construction]].**
+- **A [[b/_boxy|boxy]] structure traditionally [[b/_built|built]] of heavy wooden timbers, to support an existing structure from [[b/_below|below]], as with a mineshaft or a [[b/_building|building]] [[b/_being|being]] raised off its foundation in preparation for [[b/_being|being]] moved; see [[c/_cribbing|cribbing]].**
+- **(usually in the plural) A [[c/_collection|collection]] of quotes or references for use in speaking, for [[a/_assembling|assembling]] a written document, or as an [[a/_aid|aid]] to a project of some sort; a [[c/_crib|crib]] sheet.**
+- **A minor theft, extortion or embezzlement, with or without [[c/_criminal|criminal]] intent.**
+- **The [[c/_card|card]] game [[c/_cribbage|cribbage]].**
+- **The [[c/_cards|cards]] discarded by players and used by the [[d/_dealer|dealer]].**
+- **A known piece of information [[c/_corresponding|corresponding]] to a section of encrypted text, that is then used to work out the remaining sections.**
+- **A small holiday home, often near a [[b/_beach|beach]] and of simple [[c/_construction|construction]].**
 - **A packed lunch taken to work.**
 - **A small raft made of timber.**
-- **(thieves' [[cant]]) The stomach.**
-- **A [[cheat]] sheet or past test used by students; [[crib]] sheet.**
+- **(thieves' [[c/_cant|cant]]) The stomach.**
+- **A [[c/_cheat|cheat]] sheet or past test used by students; [[c/_crib|crib]] sheet.**
 ---
 ### Synonyms
 - [[bach]], [[cot]]
 #verb
-- **To place or [[confine]] in a [[crib]].**
-- **To shut up or [[confine]] in a narrow habitation; to [[cage]]; to [[cramp]].**
-- **To [[collect]] one or more passages and/or references for use in a speech, written document or as an [[aid]] for some task; to [[create]] a [[crib]] sheet.**
+- **To place or [[c/_confine|confine]] in a [[c/_crib|crib]].**
+- **To shut up or [[c/_confine|confine]] in a narrow habitation; to [[c/_cage|cage]]; to [[c/_cramp|cramp]].**
+- **To [[c/_collect|collect]] one or more passages and/or references for use in a speech, written document or as an [[a/_aid|aid]] for some task; to [[c/_create|create]] a [[c/_crib|crib]] sheet.**
 	- _Example: I cribbed the recipe from the Food Network site, but made a few changes of my own._
-- **To plagiarize; to [[copy]]; to [[cheat]].**
-- **To install timber supports, as with [[cribbing]].**
-- **To steal or embezzle, to [[cheat]] out of.**
-- **(Indian English) To [[complain]], to grumble**
-- **To [[crowd]] together, or to be [[confined]], as if in a [[crib]] or in narrow [[accommodations]].**
+- **To plagiarize; to [[c/_copy|copy]]; to [[c/_cheat|cheat]].**
+- **To install timber supports, as with [[c/_cribbing|cribbing]].**
+- **To steal or embezzle, to [[c/_cheat|cheat]] out of.**
+- **(Indian English) To [[c/_complain|complain]], to grumble**
+- **To [[c/_crowd|crowd]] together, or to be [[c/_confined|confined]], as if in a [[c/_crib|crib]] or in narrow [[a/_accommodations|accommodations]].**
 - **(of a horse) To seize the manger or other solid object with the teeth and draw in wind.**
 ---
 ---

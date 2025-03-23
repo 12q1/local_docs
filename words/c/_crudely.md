@@ -1,6 +1,6 @@
 # Crudely
 ---
 #adverb
-- **In a [[crude]] manner.**
+- **In a [[c/_crude|crude]] manner.**
 ---
 ---

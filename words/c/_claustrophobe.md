@@ -1,6 +1,6 @@
 # Claustrophobe
 ---
 #noun
-- **One who suffers from [[claustrophobia]].**
+- **One who suffers from [[c/_claustrophobia|claustrophobia]].**
 ---
 ---

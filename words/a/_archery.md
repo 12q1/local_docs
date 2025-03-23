@@ -1,7 +1,7 @@
 # Archery
 ---
 #noun
-- **The practice or sport of shooting [[arrows]] with a [[bow]].**
-- **A group of [[archers]].**
+- **The practice or sport of shooting [[a/_arrows|arrows]] with a [[b/_bow|bow]].**
+- **A group of [[a/_archers|archers]].**
 ---
 ---

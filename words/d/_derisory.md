@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Laughably small or inadequate.**
-- **Derisive; laughable; ridiculous**
+- **[[d/_derisive|Derisive]]; laughable; ridiculous**
 ---
 ---

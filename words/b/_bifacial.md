@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Having two faces or opposing surfaces.**
-- **(of a flint tool) Having two sharp [[cutting]] edges.**
+- **(of a flint tool) Having two sharp [[c/_cutting|cutting]] edges.**
 ---
 ---

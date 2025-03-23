@@ -1,7 +1,7 @@
 # Borage
 ---
 #noun
-- **Borago officinalis, a Mediterranean plant with rough, [[cucumber]]-flavored leaves, used in salads.**
+- **[[b/_borago|Borago]] officinalis, a Mediterranean plant with rough, [[c/_cucumber|cucumber]]-flavored leaves, used in salads.**
 ---
 ### Synonyms
 - [[beebread]], [[starflower]], [[talewort]]

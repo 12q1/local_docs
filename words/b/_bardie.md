@@ -1,6 +1,6 @@
 # Bardie
 ---
 #adjective
-- **Rude and insolent; [[bolshie]].**
+- **Rude and insolent; [[b/_bolshie|bolshie]].**
 ---
 ---

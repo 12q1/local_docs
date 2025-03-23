@@ -1,9 +1,9 @@
 # Beachfront
 ---
 #noun
-- **The portion of land or property that runs [[alongside]] and facing a [[beach]].**
+- **The portion of land or property that runs [[a/_alongside|alongside]] and facing a [[b/_beach|beach]].**
 ---
 #adjective
-- **Of property (real estate): located on a [[beach]].**
+- **Of property (real estate): located on a [[b/_beach|beach]].**
 ---
 ---

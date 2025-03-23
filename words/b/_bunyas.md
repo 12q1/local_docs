@@ -1,9 +1,9 @@
 # Bunyas
 ---
 #noun
-- **The [[bunya]] pine, Araucaria bidwillii, native to Queensland.**
+- **The [[b/_bunya|bunya]] pine, [[a/_araucaria|Araucaria]] bidwillii, native to Queensland.**
 ---
 #noun
-- **A [[banyan]], a member of a specific Hindu [[caste]].**
+- **A [[b/_banyan|banyan]], a member of a specific Hindu [[c/_caste|caste]].**
 ---
 ---

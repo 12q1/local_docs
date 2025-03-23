@@ -1,6 +1,6 @@
 # Cierge
 ---
 #noun
-- **A wax [[candle]] used in religious rites.**
+- **A wax [[c/_candle|candle]] used in religious rites.**
 ---
 ---

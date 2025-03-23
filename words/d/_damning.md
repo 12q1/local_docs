@@ -1,22 +1,22 @@
 # Damning
 ---
 #verb
-- **To [[condemn]] to hell.**
+- **To [[c/_condemn|condemn]] to hell.**
 	- _Example: I damn you eternally, fiend!_
-- **To [[condemn]]; to [[declare]] guilty; to doom; to [[adjudge]] to punishment.**
+- **To [[c/_condemn|condemn]]; to [[d/_declare|declare]] guilty; to doom; to [[a/_adjudge|adjudge]] to punishment.**
 - **To put out of favor; to ruin; to label negatively.**
 	- _Example: I’m afraid that if I speak out on this, I’ll be damned as a troublemaker._
-- **To [[condemn]] as unfit, harmful, invalid, immoral or illegal.**
-- **To [[curse]]; put a [[curse]] upon.**
+- **To [[c/_condemn|condemn]] as unfit, harmful, invalid, immoral or illegal.**
+- **To [[c/_curse|curse]]; put a [[c/_curse|curse]] upon.**
 	- _Example: That man stole my wallet. Damn him!_
-- **To invoke [[damnation]]; to [[curse]].**
+- **To invoke [[d/_damnation|damnation]]; to [[c/_curse|curse]].**
 ---
 #noun
-- **A [[condemnation]].**
-- **An [[act]] of swearing with the word "[[damn]]".**
+- **A [[c/_condemnation|condemnation]].**
+- **An [[a/_act|act]] of swearing with the word "[[d/_damn|damn]]".**
 ---
 #adjective
-- **Condemning.**
+- **[[c/_condemning|Condemning]].**
 	- _Example: damning evidence was clear for all to see_
 ---
 ---

@@ -1,8 +1,8 @@
 # Anorexics
 ---
 #noun
-- **Somebody suffering from [[anorexia]] nervosa.**
-- **A medicine which suppresses [[appetite]].**
+- **Somebody suffering from [[a/_anorexia|anorexia]] nervosa.**
+- **A medicine which suppresses [[a/_appetite|appetite]].**
 ---
 ### Synonyms
 - [[anorectic]]

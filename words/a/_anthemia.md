@@ -1,6 +1,6 @@
 # Anthemia
 ---
 #noun
-- **An ornamental [[design]] [[consisting]] of palmettes or lotus flowers.**
+- **An ornamental [[d/_design|design]] [[c/_consisting|consisting]] of palmettes or lotus flowers.**
 ---
 ---

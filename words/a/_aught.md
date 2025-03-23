@@ -1,6 +1,6 @@
 # Aught
 ---
 #pronoun
-- **Anything whatsoever, [[any]] part.**
+- **[[a/_anything|Anything]] whatsoever, [[a/_any|any]] part.**
 ---
 ---

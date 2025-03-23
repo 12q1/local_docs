@@ -1,7 +1,7 @@
 # Bah
 ---
 #interjection
-- **(sometimes humorous) Expressing [[contempt]], disgust, or [[bad]] temper.**
+- **(sometimes humorous) Expressing [[c/_contempt|contempt]], disgust, or [[b/_bad|bad]] temper.**
 ---
 ### Synonyms
 - [[feh]], [[meh]], [[pht]], [[pish]], [[poh]], [[pooh]], [[pshaw]], [[bleh]], [[ick]], [[ych a fi]]

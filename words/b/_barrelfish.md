@@ -1,6 +1,6 @@
 # Barrelfish
 ---
 #noun
-- **The [[black]] rudderfish, Hyperoglyphe perciformis**
+- **The [[b/_black|black]] rudderfish, Hyperoglyphe perciformis**
 ---
 ---

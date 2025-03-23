@@ -1,6 +1,6 @@
 # Chelae
 ---
 #noun
-- **A pincer-like [[claw]] of a [[crustacean]] or [[arachnid]].**
+- **A pincer-like [[c/_claw|claw]] of a [[c/_crustacean|crustacean]] or [[a/_arachnid|arachnid]].**
 ---
 ---

@@ -1,11 +1,11 @@
 # Bisulfate
 ---
 #noun
-- **The univalent [[anion]] HSO4-.**
-- **Any salt [[containing]] this [[anion]].**
+- **The univalent [[a/_anion|anion]] HSO4-.**
+- **[[a/_any|Any]] salt [[c/_containing|containing]] this [[a/_anion|anion]].**
 ---
 #verb
-- **To react with a [[bisulfate]]**
+- **To react with a [[b/_bisulfate|bisulfate]]**
 - **To sulfate with two sulfate groups**
 ---
 ---

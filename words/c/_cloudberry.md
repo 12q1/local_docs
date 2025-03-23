@@ -1,7 +1,7 @@
 # Cloudberry
 ---
 #noun
-- **A species of slow-growing [[bramble]].**
+- **A species of slow-growing [[b/_bramble|bramble]].**
 - **The fruit of these plants.**
 ---
 ### Synonyms

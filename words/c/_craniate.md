@@ -1,6 +1,6 @@
 # Craniate
 ---
 #noun
-- **Any member of the [[clade]] Craniata, having [[bony]] skulls.**
+- **[[a/_any|Any]] member of the [[c/_clade|clade]] [[c/_craniata|Craniata]], having [[b/_bony|bony]] skulls.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Autarchies
 ---
 #noun
-- **A [[condition]] of [[absolute]] power.**
-- **Autocracy: [[absolute]] rule by a single person.**
+- **A [[c/_condition|condition]] of [[a/_absolute|absolute]] power.**
+- **[[a/_autocracy|Autocracy]]: [[a/_absolute|absolute]] rule by a single person.**
 - **Sovereignty: national political independence.**
-- **Autarky: national economic self-reliance.**
+- **[[a/_autarky|Autarky]]: national economic self-reliance.**
 ---
 ### Synonyms
 - [[sovereignty]]

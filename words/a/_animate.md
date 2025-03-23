@@ -1,7 +1,7 @@
 # Animate
 ---
 #verb
-- **To impart motion or the [[appearance]] of motion to.**
+- **To impart motion or the [[a/_appearance|appearance]] of motion to.**
 	- _Example: If we animate the model, we can see the complexity of the action._
 - **To give spirit or vigour to; to stimulate or enliven; to inspirit.**
 ---
@@ -9,12 +9,12 @@
 - [[enliven]], [[vitalise]]
 #adjective
 - **That which lives.**
-- **Possessing the quality or [[ability]] of motion.**
+- **Possessing the quality or [[a/_ability|ability]] of motion.**
 - **Dynamic, energetic.**
 	- _Example: She is an engaging and animate speaker._
-- **(grammar, of a noun or pronoun) Having a referent that includes a human, [[animal]], plant or other entity which is [[considered]] [[alive]].**
+- **(grammar, of a noun or pronoun) Having a referent that includes a human, [[a/_animal|animal]], plant or other entity which is [[c/_considered|considered]] [[a/_alive|alive]].**
 	- _Example: Nouns can be singular or plural, and one of two genders, animate or inanimate._
-- **(grammar) Inflected to [[agree]] with an [[animate]] noun or pronoun.**
+- **(grammar) Inflected to [[a/_agree|agree]] with an [[a/_animate|animate]] noun or pronoun.**
 ---
 ### Synonyms
 - [[active]], [[dynamic]], [[energetic]], [[lively]], [[perky]], [[vivacious]], [[astir]], [[dynamic]], [[kinetic]], [[motile]], [[alive]], [[live]], [[living]], [[alive]], [[living]], [[vital]]

@@ -1,16 +1,16 @@
 # Bearer
 ---
 #noun
-- **One who, or that which, [[bears]], sustains, or [[carries]].**
-- **Someone who helps [[carry]] the [[coffin]] or a [[dead]] [[body]] during a funeral procession.**
-- **One who possesses a [[cheque]], [[bond]], or other notes promising payment.**
+- **One who, or that which, [[b/_bears|bears]], sustains, or [[c/_carries|carries]].**
+- **Someone who helps [[c/_carry|carry]] the [[c/_coffin|coffin]] or a [[d/_dead|dead]] [[b/_body|body]] during a funeral procession.**
+- **One who possesses a [[c/_cheque|cheque]], [[b/_bond|bond]], or other notes promising payment.**
 	- _Example: I promise to pay the bearer on demand._
-- **A domestic servant or palanquin [[carrier]].**
+- **A domestic servant or palanquin [[c/_carrier|carrier]].**
 - **A tree or plant yielding fruit.**
 	- _Example: a good bearer_
-- **Someone who [[delivers]] a letter or message on [[behalf]] of [[another]] (especially as referred to in the letter or message).**
-- **A strip of reglet or other furniture to [[bear]] off the impression from a [[blank]] page.**
-- **A type or type-high piece of metal interspersed in [[blank]] parts to support the plate when it is shaved.**
+- **Someone who [[d/_delivers|delivers]] a letter or message on [[b/_behalf|behalf]] of [[a/_another|another]] (especially as referred to in the letter or message).**
+- **A strip of reglet or other furniture to [[b/_bear|bear]] off the impression from a [[b/_blank|blank]] page.**
+- **A type or type-high piece of metal interspersed in [[b/_blank|blank]] parts to support the plate when it is shaved.**
 ---
 ### Synonyms
 - [[pallbearer]]

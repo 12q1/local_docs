@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Pertaining to a rib.**
-- **Pertaining to a [[costa]]**
+- **Pertaining to a [[c/_costa|costa]]**
 ---
 ---

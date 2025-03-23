@@ -1,13 +1,13 @@
 # Counterattacks
 ---
 #noun
-- **An [[attack]] made in response to an [[attack]] by the opponents**
+- **An [[a/_attack|attack]] made in response to an [[a/_attack|attack]] by the opponents**
 ---
 ### Synonyms
 - [[counter-offensive]]
 ### Antonyms
 - [[counter-time]]
 #verb
-- **To [[attack]] in response to an [[attack]] by opponents**
+- **To [[a/_attack|attack]] in response to an [[a/_attack|attack]] by opponents**
 ---
 ---

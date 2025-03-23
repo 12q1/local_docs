@@ -2,8 +2,8 @@
 ---
 #noun
 - **A sour substance.**
-- **Any of several [[classes]] of [[compound]] having the following properties:**
-- **Lysergic [[acid]] diethylamide (LSD)**
+- **[[a/_any|Any]] of several [[c/_classes|classes]] of [[c/_compound|compound]] having the following properties:**
+- **Lysergic [[a/_acid|acid]] diethylamide (LSD)**
 ---
 ### Antonyms
 - [[alkali]], [[base]]

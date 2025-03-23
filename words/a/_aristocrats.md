@@ -1,8 +1,8 @@
 # Aristocrats
 ---
 #noun
-- **One of the [[aristocracy]], nobility, or people of rank in a [[community]]; one of a ruling [[class]]; a noble (originally in Revolutionary France).**
-- **A proponent of [[aristocracy]]; an [[advocate]] of [[aristocratic]] government.**
+- **One of the [[a/_aristocracy|aristocracy]], nobility, or people of rank in a [[c/_community|community]]; one of a ruling [[c/_class|class]]; a noble (originally in Revolutionary France).**
+- **A proponent of [[a/_aristocracy|aristocracy]]; an [[a/_advocate|advocate]] of [[a/_aristocratic|aristocratic]] government.**
 ---
 ### Antonyms
 - [[commoner]], [[plebeian]]

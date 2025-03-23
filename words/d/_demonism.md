@@ -1,8 +1,8 @@
 # Demonism
 ---
 #noun
-- **Belief in, or worship of [[demons]] or devils.**
-- **The quality of [[being]] [[demonic]] (often figuratively).**
-- **An [[act]] or event [[attributed]] to [[demons]] or devils; an evil [[act]].**
+- **[[b/_belief|Belief]] in, or worship of [[d/_demons|demons]] or devils.**
+- **The quality of [[b/_being|being]] [[d/_demonic|demonic]] (often figuratively).**
+- **An [[a/_act|act]] or event [[a/_attributed|attributed]] to [[d/_demons|demons]] or devils; an evil [[a/_act|act]].**
 ---
 ---

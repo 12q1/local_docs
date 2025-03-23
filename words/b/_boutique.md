@@ -1,12 +1,12 @@
 # Boutique
 ---
 #noun
-- **A small shop, especially one that sells fashionable [[clothes]], jewelry and the like.**
+- **A small shop, especially one that sells fashionable [[c/_clothes|clothes]], jewelry and the like.**
 - **A small shop located within a larger one.**
-- **A film production [[company]] making only a few movies per year.**
+- **A film production [[c/_company|company]] making only a few movies per year.**
 ---
 #adjective
-- **Specialized in [[bespoke]] or [[custom]]-made products or services for [[clientele]] in a niche market.**
+- **Specialized in [[b/_bespoke|bespoke]] or [[c/_custom|custom]]-made products or services for [[c/_clientele|clientele]] in a niche market.**
 	- _Example: a boutique law firm_
 ---
 ---

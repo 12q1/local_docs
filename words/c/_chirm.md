@@ -1,9 +1,9 @@
 # Chirm
 ---
 #noun
-- **A din or [[confused]] noise, as of many voices, [[birdsong]], etc.**
+- **A din or [[c/_confused|confused]] noise, as of many voices, [[b/_birdsong|birdsong]], etc.**
 ---
 #verb
-- **To [[chirp]] or to make a mournful [[cry]], as a [[bird]] does.**
+- **To [[c/_chirp|chirp]] or to make a mournful [[c/_cry|cry]], as a [[b/_bird|bird]] does.**
 ---
 ---

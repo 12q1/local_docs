@@ -1,6 +1,6 @@
 # Brachiate
 ---
 #adjective
-- **Having [[decussate]] [[branches]].**
+- **Having [[d/_decussate|decussate]] [[b/_branches|branches]].**
 ---
 ---

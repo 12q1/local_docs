@@ -1,7 +1,7 @@
 # Affectations
 ---
 #noun
-- **An [[attempt]] to [[assume]] or exhibit what is not natural or real; false display; [[artificial]] show.**
+- **An [[a/_attempt|attempt]] to [[a/_assume|assume]] or exhibit what is not natural or real; false display; [[a/_artificial|artificial]] show.**
 - **An unusual mannerism.**
 ---
 ### Synonyms

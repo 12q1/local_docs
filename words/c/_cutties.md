@@ -1,10 +1,10 @@
 # Cutties
 ---
 #noun
-- **A [[cutback]].**
+- **A [[c/_cutback|cutback]].**
 - **A T-shirt that has had the sleeves removed.**
 - **A hare.**
-- **The Black Guillemot.**
+- **The [[b/_black|Black]] Guillemot.**
 ---
 #noun
 - **A short spoon.**

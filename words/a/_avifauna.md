@@ -1,6 +1,6 @@
 # Avifauna
 ---
 #noun
-- **The [[birds]], or [[all]] the kinds of [[birds]], inhabiting a region.**
+- **The [[b/_birds|birds]], or [[a/_all|all]] the kinds of [[b/_birds|birds]], inhabiting a region.**
 ---
 ---

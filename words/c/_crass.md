@@ -1,10 +1,10 @@
 # Crass
 ---
 #adjective
-- **Coarse; [[crude]]; unrefined or insensitive; lacking discrimination**
+- **[[c/_coarse|Coarse]]; [[c/_crude|crude]]; unrefined or insensitive; lacking discrimination**
 - **Materialistic**
-- **Dense**
-- **Lacking finesse; [[crude]] and obvious.**
+- **[[d/_dense|Dense]]**
+- **Lacking finesse; [[c/_crude|crude]] and obvious.**
 ---
 ### Antonyms
 - [[delicate]], [[refined]], [[sensitive]]

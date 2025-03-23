@@ -1,8 +1,8 @@
 # Affectedly
 ---
 #adverb
-- **In an [[affected]] manner; hypocritically; with more show than reality.**
-- **Lovingly; with tender [[care]].**
-- **With intention, intentionally, [[deliberately]].**
+- **In an [[a/_affected|affected]] manner; hypocritically; with more show than reality.**
+- **Lovingly; with tender [[c/_care|care]].**
+- **With intention, intentionally, [[d/_deliberately|deliberately]].**
 ---
 ---

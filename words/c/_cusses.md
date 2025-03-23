@@ -1,11 +1,11 @@
 # Cusses
 ---
 #noun
-- **A [[curse]].**
-- **A [[curse]] word.**
+- **A [[c/_curse|curse]].**
+- **A [[c/_curse|curse]] word.**
 ---
 #verb
-- **To use [[cursing]], to use [[bad]] language, to speak profanely.**
+- **To use [[c/_cursing|cursing]], to use [[b/_bad|bad]] language, to speak profanely.**
 ---
 #noun
 - **A fellow, person.**

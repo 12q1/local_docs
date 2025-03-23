@@ -1,12 +1,12 @@
 # Defective
 ---
 #noun
-- **A person or thing [[considered]] to be [[defective]].**
+- **A person or thing [[c/_considered|considered]] to be [[d/_defective|defective]].**
 ---
 #adjective
-- **Having one or more [[defects]].**
-- **(grammar, of a lexeme, especially a verb) Lacking some forms; e.g., having only one tense or [[being]] usable only in the third person.**
-- **(Arabic grammar, of a verb) Having a root whose final [[consonant]] is weak (ي, و, or ء).**
+- **Having one or more [[d/_defects|defects]].**
+- **(grammar, of a lexeme, especially a verb) Lacking some forms; e.g., having only one tense or [[b/_being|being]] usable only in the third person.**
+- **([[a/_arabic|Arabic]] grammar, of a verb) Having a root whose final [[c/_consonant|consonant]] is weak (ي, و, or ء).**
 ---
 ### Synonyms
 - [[faulty]]

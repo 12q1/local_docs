@@ -1,9 +1,9 @@
 # Coalescent
 ---
 #noun
-- **Any [[agent]] that [[causes]] [[coalescence]].**
+- **[[a/_any|Any]] [[a/_agent|agent]] that [[c/_causes|causes]] [[c/_coalescence|coalescence]].**
 ---
 #adjective
-- **Causing [[coalescence]].**
+- **[[c/_causing|Causing]] [[c/_coalescence|coalescence]].**
 ---
 ---

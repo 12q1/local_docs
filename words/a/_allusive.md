@@ -1,7 +1,7 @@
 # Allusive
 ---
 #adjective
-- **That [[contains]] or makes use of [[allusions]] (indirect references or hints)**
+- **That [[c/_contains|contains]] or makes use of [[a/_allusions|allusions]] (indirect references or hints)**
 ---
 ### Synonyms
 - [[suggestive]]

@@ -1,6 +1,6 @@
 # Countryfolk
 ---
 #noun
-- **One who lives in the [[country]]; a rural dweller.**
+- **One who lives in the [[c/_country|country]]; a rural dweller.**
 ---
 ---

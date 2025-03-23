@@ -1,6 +1,6 @@
 # Decompile
 ---
 #verb
-- **To recreate the original source [[code]] from a [[compiled]] executable.**
+- **To recreate the original source [[c/_code|code]] from a [[c/_compiled|compiled]] executable.**
 ---
 ---

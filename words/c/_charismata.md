@@ -1,12 +1,12 @@
 # Charismata
 ---
 #noun
-- **A power or [[authority]], generally of a spiritual nature, [[believed]] to be a freely given gift by the grace of God.**
+- **A power or [[a/_authority|authority]], generally of a spiritual nature, [[b/_believed|believed]] to be a freely given gift by the grace of God.**
 ---
 #noun
-- **Personal [[charm]] or magnetism**
+- **Personal [[c/_charm|charm]] or magnetism**
 - **An extraordinary power granted by the Holy Spirit**
-- **The [[ability]] to influence without the use of logic.**
+- **The [[a/_ability|ability]] to influence without the use of logic.**
 ---
 ### Synonyms
 - [[charm]], [[spell]]

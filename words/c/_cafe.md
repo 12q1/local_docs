@@ -1,11 +1,11 @@
 # Cafe
 ---
 #noun
-- **A [[convenience]] store, originally one that sold [[coffee]] and similar [[basic]] items.**
+- **A [[c/_convenience|convenience]] store, originally one that sold [[c/_coffee|coffee]] and similar [[b/_basic|basic]] items.**
 ---
 #noun
-- **A [[coffee]] shop; an establishment selling [[coffee]] and sometimes other non-[[alcoholic]] [[beverages]], simple meals or snacks, with a facility to [[consume]] them on the premises.**
-- **A small restaurant of [[any]] genre.**
+- **A [[c/_coffee|coffee]] shop; an establishment selling [[c/_coffee|coffee]] and sometimes other non-[[a/_alcoholic|alcoholic]] [[b/_beverages|beverages]], simple meals or snacks, with a facility to [[c/_consume|consume]] them on the premises.**
+- **A small restaurant of [[a/_any|any]] genre.**
 	- _Example: 1982, Joni Mitchell, Chinese Café / Unchained Melody (song)_
 ---
 ### Synonyms

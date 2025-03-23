@@ -1,7 +1,7 @@
 # Colorblind
 ---
 #adjective
-- **(of a person or [[animal]]) Unable to distinguish [[between]] two or more primary [[colors]] (usually red and green).**
-- **(of a person or process) Holding no prejudice [[based]] on skin [[color]] or race; not paying [[attention]] to skin [[color]].**
+- **(of a person or [[a/_animal|animal]]) Unable to distinguish [[b/_between|between]] two or more primary [[c/_colors|colors]] (usually red and green).**
+- **(of a person or process) Holding no prejudice [[b/_based|based]] on skin [[c/_color|color]] or race; not paying [[a/_attention|attention]] to skin [[c/_color|color]].**
 ---
 ---

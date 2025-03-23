@@ -1,12 +1,12 @@
 # Cools
 ---
 #verb
-- **To lose heat, to get [[colder]].**
+- **To lose heat, to get [[c/_colder|colder]].**
 	- _Example: I like to let my tea cool before drinking it so I don't burn my tongue._
-- **To make [[cooler]], less warm.**
-- **To [[become]] less intense, e.g. less [[amicable]] or passionate.**
+- **To make [[c/_cooler|cooler]], less warm.**
+- **To [[b/_become|become]] less intense, e.g. less [[a/_amicable|amicable]] or passionate.**
 	- _Example: Relations cooled between the USA and the USSR after 1980._
-- **To make less intense, e.g. less [[amicable]] or passionate.**
+- **To make less intense, e.g. less [[a/_amicable|amicable]] or passionate.**
 - **To kill.**
 ---
 ---

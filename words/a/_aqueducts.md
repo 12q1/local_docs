@@ -1,7 +1,7 @@
 # Aqueducts
 ---
 #noun
-- **An [[artificial]] [[channel]] that is [[constructed]] to [[convey]] water from one location to [[another]].**
-- **A structure [[carrying]] water over a river or [[depression]], especially in regards to [[ancient]] [[aqueducts]].**
+- **An [[a/_artificial|artificial]] [[c/_channel|channel]] that is [[c/_constructed|constructed]] to [[c/_convey|convey]] water from one location to [[a/_another|another]].**
+- **A structure [[c/_carrying|carrying]] water over a river or [[d/_depression|depression]], especially in regards to [[a/_ancient|ancient]] [[a/_aqueducts|aqueducts]].**
 ---
 ---

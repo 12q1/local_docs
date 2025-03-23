@@ -8,7 +8,7 @@
 ### Synonyms
 - [[binome]], [[binomen]], [[binomial name]], [[binominal]], [[binominal name]], [[species name]]
 #adjective
-- **Consisting of two terms, or parts.**
-- **Of or relating to the [[binomial]] distribution.**
+- **[[c/_consisting|Consisting]] of two terms, or parts.**
+- **Of or relating to the [[b/_binomial|binomial]] distribution.**
 ---
 ---

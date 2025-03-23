@@ -1,6 +1,6 @@
 # Coccidiosis
 ---
 #noun
-- **The disease [[caused]] by [[coccidian]] infection.**
+- **The disease [[c/_caused|caused]] by [[c/_coccidian|coccidian]] infection.**
 ---
 ---

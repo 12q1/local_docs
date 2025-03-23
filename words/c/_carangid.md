@@ -1,6 +1,6 @@
 # Carangid
 ---
 #noun
-- **Any fish [[belonging]] to the family Carangidae.**
+- **[[a/_any|Any]] fish [[b/_belonging|belonging]] to the family [[c/_carangidae|Carangidae]].**
 ---
 ---

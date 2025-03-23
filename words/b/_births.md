@@ -1,14 +1,14 @@
 # Births
 ---
 #noun
-- **The process of [[childbearing]]; the [[beginning]] of life.**
-- **An instance of [[childbirth]].**
+- **The process of [[c/_childbearing|childbearing]]; the [[b/_beginning|beginning]] of life.**
+- **An instance of [[c/_childbirth|childbirth]].**
 	- _Example: Intersex babies account for roughly one per cent of all births._
-- **A [[beginning]] or start; a point of origin.**
+- **A [[b/_beginning|beginning]] or start; a point of origin.**
 	- _Example: the birth of an empire_
-- **The [[circumstances]] of one's [[background]], [[ancestry]], or upbringing.**
+- **The [[c/_circumstances|circumstances]] of one's [[b/_background|background]], [[a/_ancestry|ancestry]], or upbringing.**
 	- _Example: He was of noble birth, but fortune had not favored him._
-- **That which is [[born]].**
+- **That which is [[b/_born|born]].**
 ---
 ### Antonyms
 - [[death]]

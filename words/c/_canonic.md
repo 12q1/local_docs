@@ -1,6 +1,6 @@
 # Canonic
 ---
 #adjective
-- **Canonical**
+- **[[c/_canonical|Canonical]]**
 ---
 ---

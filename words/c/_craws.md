@@ -1,8 +1,8 @@
 # Craws
 ---
 #noun
-- **The stomach of an [[animal]].**
-- **The [[crop]] of a [[bird]].**
+- **The stomach of an [[a/_animal|animal]].**
+- **The [[c/_crop|crop]] of a [[b/_bird|bird]].**
 ---
 ### Synonyms
 - [[crop]], [[gullet]]

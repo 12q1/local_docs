@@ -1,7 +1,7 @@
 # Blueblood
 ---
 #noun
-- **Noble or [[aristocratic]] [[ancestry]].**
-- **An [[aristocrat]].**
+- **Noble or [[a/_aristocratic|aristocratic]] [[a/_ancestry|ancestry]].**
+- **An [[a/_aristocrat|aristocrat]].**
 ---
 ---

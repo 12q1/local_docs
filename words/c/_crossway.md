@@ -1,6 +1,6 @@
 # Crossway
 ---
 #noun
-- **A [[crossroad]].**
+- **A [[c/_crossroad|crossroad]].**
 ---
 ---

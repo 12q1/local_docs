@@ -1,7 +1,7 @@
 # Demagogy
 ---
 #noun
-- **Demagogism**
+- **[[d/_demagogism|Demagogism]]**
 ---
 ### Synonyms
 - [[demagogism]], [[demagoguery]]

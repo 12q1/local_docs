@@ -1,7 +1,7 @@
 # Defeated
 ---
 #verb
-- **To overcome in [[battle]] or [[contest]].**
+- **To overcome in [[b/_battle|battle]] or [[c/_contest|contest]].**
 	- _Example: Wellington defeated Napoleon at Waterloo._
 - **To reduce, to nothing, the strength of.**
 - **To nullify**
@@ -9,6 +9,6 @@
 ### Synonyms
 - [[beat]], [[overcome]], [[vanquish]]
 #adjective
-- **Subjugated, [[beaten]], overcome.**
+- **Subjugated, [[b/_beaten|beaten]], overcome.**
 ---
 ---

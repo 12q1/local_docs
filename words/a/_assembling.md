@@ -5,12 +5,12 @@
 	- _Example: He assembled the model ship._
 - **To gather as a group.**
 	- _Example: The parents assembled in the school hall._
-- **To translate from [[assembly]] language to machine [[code]]**
+- **To translate from [[a/_assembly|assembly]] language to machine [[c/_code|code]]**
 ---
 ### Synonyms
 - [[begather]], [[collect]], [[build]], [[construct]], [[produce]], [[put together]]
 #noun
-- **A gathering or [[assembly]].**
+- **A gathering or [[a/_assembly|assembly]].**
 ---
 ### Synonyms
 - [[assemblage]]

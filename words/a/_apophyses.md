@@ -1,6 +1,6 @@
 # Apophyses
 ---
 #noun
-- **Apophysis**
+- **[[a/_apophysis|Apophysis]]**
 ---
 ---

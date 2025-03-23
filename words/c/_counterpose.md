@@ -1,9 +1,9 @@
 # Counterpose
 ---
 #noun
-- **A pose taken in opposition to [[another]].**
+- **A pose taken in opposition to [[a/_another|another]].**
 ---
 #verb
-- **To [[act]] as a [[counterweight]]; to [[counterbalance]].**
+- **To [[a/_act|act]] as a [[c/_counterweight|counterweight]]; to [[c/_counterbalance|counterbalance]].**
 ---
 ---

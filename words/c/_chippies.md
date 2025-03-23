@@ -1,17 +1,17 @@
 # Chippies
 ---
 #noun
-- **A fish-and-[[chip]] shop.**
-- **A [[carpenter]].**
-- **The youngest member of a team or group, normally someone whose voice has not yet [[deepened]], talking like a [[chipmunk]].**
-- **A potato [[chip]].**
+- **A fish-and-[[c/_chip|chip]] shop.**
+- **A [[c/_carpenter|carpenter]].**
+- **The youngest member of a team or group, normally someone whose voice has not yet [[d/_deepened|deepened]], talking like a [[c/_chipmunk|chipmunk]].**
+- **A potato [[c/_chip|chip]].**
 - **A prostitute or promiscuous woman.**
 - **A chiptune.**
-- **A [[chipping]] sparrow.**
+- **A [[c/_chipping|chipping]] sparrow.**
 ---
 ### Synonyms
 - [[chipper]]
 #verb
-- **To take drugs (especially heroin) on an occasional [[basis]], rather than as an [[addict]].**
+- **To take drugs (especially heroin) on an occasional [[b/_basis|basis]], rather than as an [[a/_addict|addict]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Departmentalise
 ---
 #verb
-- **To organize something into [[departments]]**
+- **To organize something into [[d/_departments|departments]]**
 ---
 ---

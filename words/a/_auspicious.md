@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Of good omen; indicating future success.**
-- **Conducive to success.**
+- **[[c/_conducive|Conducive]] to success.**
 	- _Example: This is an auspicious day._
 - **Marked by success; prosperous.**
 ---

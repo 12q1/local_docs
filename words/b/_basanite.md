@@ -1,7 +1,7 @@
 # Basanite
 ---
 #noun
-- **A [[basaltic]] extrusive rock, similar to [[chert]].**
+- **A [[b/_basaltic|basaltic]] extrusive rock, similar to [[c/_chert|chert]].**
 ---
 ### Synonyms
 - [[lydite]]

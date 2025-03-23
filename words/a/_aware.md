@@ -1,9 +1,9 @@
 # Aware
 ---
 #adjective
-- **Vigilant or on one's guard [[against]] [[danger]] or difficulty.**
+- **Vigilant or on one's guard [[a/_against|against]] [[d/_danger|danger]] or difficulty.**
 	- _Example: Stay aware! Don't let your guard down._
-- **Conscious or having knowledge of something.**
+- **[[c/_conscious|Conscious]] or having knowledge of something.**
 	- _Example: Are you aware of what is being said about you?_
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Bertha
 ---
 #noun
-- **A lace [[collar]] that [[covers]] the shoulders of a dress**
+- **A lace [[c/_collar|collar]] that [[c/_covers|covers]] the shoulders of a dress**
 ---
 ---

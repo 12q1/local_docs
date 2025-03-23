@@ -1,14 +1,14 @@
 # Angers
 ---
 #noun
-- **A strong feeling of displeasure, hostility or [[antagonism]] towards someone or something, usually [[combined]] with an urge to harm.**
+- **A strong feeling of displeasure, hostility or [[a/_antagonism|antagonism]] towards someone or something, usually [[c/_combined|combined]] with an urge to harm.**
 	- _Example: You need to control your anger._
 - **Pain or stinging.**
 ---
 #verb
-- **To [[cause]] such a feeling of [[antagonism]] in.**
+- **To [[c/_cause|cause]] such a feeling of [[a/_antagonism|antagonism]] in.**
 	- _Example: He who angers you conquers you._
-- **To [[become]] [[angry]].**
+- **To [[b/_become|become]] [[a/_angry|angry]].**
 	- _Example: You anger too easily._
 ---
 ### Synonyms

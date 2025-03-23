@@ -1,7 +1,7 @@
 # Crenellate
 ---
 #verb
-- **To furnish with [[crenelles]].**
+- **To furnish with [[c/_crenelles|crenelles]].**
 - **To indent; to notch.**
 ---
 ---

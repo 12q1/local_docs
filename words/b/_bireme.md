@@ -1,6 +1,6 @@
 # Bireme
 ---
 #noun
-- **(history) an [[ancient]] galley having two [[banks]] of oars, one [[above]] the other.**
+- **(history) an [[a/_ancient|ancient]] galley having two [[b/_banks|banks]] of oars, one [[a/_above|above]] the other.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Blusher
 ---
 #noun
-- **Agent noun of [[blush]]; one who [[blushes]].**
-- **Face makeup that makes the [[cheeks]] rosier.**
-- **Any of several [[closely]] related, edible species of the genus Amanita, including Amanita rubescens and Amanita novinupta.**
+- **[[a/_agent|Agent]] noun of [[b/_blush|blush]]; one who [[b/_blushes|blushes]].**
+- **Face makeup that makes the [[c/_cheeks|cheeks]] rosier.**
+- **[[a/_any|Any]] of several [[c/_closely|closely]] related, edible species of the genus [[a/_amanita|Amanita]], including [[a/_amanita|Amanita]] rubescens and [[a/_amanita|Amanita]] novinupta.**
 ---
 ### Synonyms
 - [[blush]], [[rouge]]

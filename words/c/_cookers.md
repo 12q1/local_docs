@@ -2,8 +2,8 @@
 ---
 #noun
 - **A device for heating food, a stove.**
-- **(except in [[compounds]]) An [[appliance]] or utensil for [[cooking]] food.**
-- **A [[cooking]] [[apple]].**
+- **(except in [[c/_compounds|compounds]]) An [[a/_appliance|appliance]] or utensil for [[c/_cooking|cooking]] food.**
+- **A [[c/_cooking|cooking]] [[a/_apple|apple]].**
 ---
 ### Synonyms
 - [[stove]]

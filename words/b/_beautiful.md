@@ -1,13 +1,13 @@
 # Beautiful
 ---
 #noun
-- **Someone who is [[beautiful]]. Can be used as a term of [[address]].**
+- **Someone who is [[b/_beautiful|beautiful]]. [[c/_can|Can]] be used as a term of [[a/_address|address]].**
 	- _Example: Hey, beautiful!_
 ---
 #adjective
-- **Attractive and possessing [[beauty]].**
+- **[[a/_attractive|Attractive]] and possessing [[b/_beauty|beauty]].**
 	- _Example: Anyone who has ever met her thought she was absolutely beautiful._
-- **(of the weather) Pleasant; [[clear]].**
+- **(of the weather) Pleasant; [[c/_clear|clear]].**
 	- _Example: It's beautiful outside, let's go for a walk._
 - **Well executed.**
 	- _Example: The skater performed a beautiful axel._

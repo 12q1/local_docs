@@ -1,6 +1,6 @@
 # Anywheres
 ---
 #adverb
-- **Anywhere**
+- **[[a/_anywhere|Anywhere]]**
 ---
 ---

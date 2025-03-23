@@ -1,10 +1,10 @@
 # Aversive
 ---
 #noun
-- **(grammar) a grammatical [[case]] indicating that something is [[avoided]] or feared; the evitative [[case]]**
-- **An unpleasant stimulus intended to induce a [[change]] in [[behaviour]]**
+- **(grammar) a grammatical [[c/_case|case]] indicating that something is [[a/_avoided|avoided]] or feared; the evitative [[c/_case|case]]**
+- **An unpleasant stimulus intended to induce a [[c/_change|change]] in [[b/_behaviour|behaviour]]**
 ---
 #adjective
-- **Tending to repel, [[causing]] [[avoidance]] (of a situation, a [[behaviour]], an item, etc.)**
+- **Tending to repel, [[c/_causing|causing]] [[a/_avoidance|avoidance]] (of a situation, a [[b/_behaviour|behaviour]], an item, etc.)**
 ---
 ---

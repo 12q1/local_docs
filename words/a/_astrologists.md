@@ -1,6 +1,6 @@
 # Astrologists
 ---
 #noun
-- **One who practices [[astrology]]; an [[astrologer]].**
+- **One who practices [[a/_astrology|astrology]]; an [[a/_astrologer|astrologer]].**
 ---
 ---

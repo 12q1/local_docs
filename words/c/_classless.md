@@ -3,8 +3,8 @@
 #adjective
 - **Not divided into societal or economic groups.**
 	- _Example: We lived in a classless state, where all were equal._
-- **Without [[class]] or [[classes]].**
+- **Without [[c/_class|class]] or [[c/_classes|classes]].**
 	- _Example: I arranged my timetable so that Friday would be a classless day._
-- **Lacking in "[[class]]", style, [[aplomb]], etc.**
+- **Lacking in "[[c/_class|class]]", style, [[a/_aplomb|aplomb]], etc.**
 ---
 ---

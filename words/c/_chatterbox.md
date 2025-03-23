@@ -1,13 +1,13 @@
 # Chatterbox
 ---
 #noun
-- **An [[artificial]] intelligence program intended to simulate interactive [[conversation]] with [[another]] person**
+- **An [[a/_artificial|artificial]] intelligence program intended to simulate interactive [[c/_conversation|conversation]] with [[a/_another|another]] person**
 ---
 ### Synonyms
 - [[chatbot]], [[chatterbox]]
 #noun
-- **One who [[chats]] or talks to excess.**
-- **A [[cootie]] [[catcher]] ([[children]]'s fortune-telling device).**
+- **One who [[c/_chats|chats]] or talks to excess.**
+- **A [[c/_cootie|cootie]] [[c/_catcher|catcher]] ([[c/_children|children]]'s fortune-telling device).**
 ---
 ### Synonyms
 - [[babbler]], [[chatterer]], [[jabberer]], [[yakker]]

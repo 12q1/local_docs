@@ -1,6 +1,6 @@
 # Badderlocks
 ---
 #noun
-- **The edible seaweed Alaria esculenta**
+- **The edible seaweed [[a/_alaria|Alaria]] esculenta**
 ---
 ---

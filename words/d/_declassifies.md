@@ -1,6 +1,6 @@
 # Declassifies
 ---
 #verb
-- **To remove the [[classification]] from; to lift the restrictions on**
+- **To remove the [[c/_classification|classification]] from; to lift the restrictions on**
 ---
 ---

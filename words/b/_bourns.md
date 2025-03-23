@@ -1,10 +1,10 @@
 # Bourns
 ---
 #noun
-- **A small stream or [[brook]].**
+- **A small stream or [[b/_brook|brook]].**
 ---
 #noun
-- **Destination.**
+- **[[d/_destination|Destination]].**
 - **Limit.**
 ---
 ---

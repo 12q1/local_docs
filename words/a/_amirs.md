@@ -1,7 +1,7 @@
 # Amirs
 ---
 #noun
-- **A prince, [[commander]] or other leader or ruler in an Islamic nation.**
-- **A [[descendant]] of the prophet Muhammad.**
+- **A prince, [[c/_commander|commander]] or other leader or ruler in an Islamic nation.**
+- **A [[d/_descendant|descendant]] of the prophet Muhammad.**
 ---
 ---

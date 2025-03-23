@@ -1,13 +1,13 @@
 # Coryphees
 ---
 #noun
-- **The [[conductor]] or leader of the [[chorus]] of a drama.**
-- **(by extension) The [[chief]] or leader of an interest or party.**
-- **The leader of an opera [[chorus]] or [[another]] ensemble of singers.**
+- **The [[c/_conductor|conductor]] or leader of the [[c/_chorus|chorus]] of a drama.**
+- **(by extension) The [[c/_chief|chief]] or leader of an interest or party.**
+- **The leader of an opera [[c/_chorus|chorus]] or [[a/_another|another]] ensemble of singers.**
 ---
 ### Synonyms
 - [[coryphe]], [[coryphée]], [[coryphée]]
 #noun
-- **A [[ballet]] [[dancer]] ranking [[above]] a member of the [[corps]] [[de]] [[ballet]] and [[below]] a soloist.**
+- **A [[b/_ballet|ballet]] [[d/_dancer|dancer]] ranking [[a/_above|above]] a member of the [[c/_corps|corps]] [[d/_de|de]] [[b/_ballet|ballet]] and [[b/_below|below]] a soloist.**
 ---
 ---

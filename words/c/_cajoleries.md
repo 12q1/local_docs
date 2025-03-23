@@ -1,6 +1,6 @@
 # Cajoleries
 ---
 #noun
-- **Cajolement**
+- **[[c/_cajolement|Cajolement]]**
 ---
 ---

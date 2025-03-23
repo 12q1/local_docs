@@ -1,6 +1,6 @@
 # Barmbrack
 ---
 #noun
-- **An Irish yeasted [[bread]] with sultanas and raisins.**
+- **An Irish yeasted [[b/_bread|bread]] with sultanas and raisins.**
 ---
 ---

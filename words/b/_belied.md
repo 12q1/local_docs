@@ -1,14 +1,14 @@
 # Belied
 ---
 #verb
-- **To tell lies [[about]].**
+- **To tell lies [[a/_about|about]].**
 - **To give a false representation of.**
-- **To [[contradict]], to show (something) to be false.**
+- **To [[c/_contradict|contradict]], to show (something) to be false.**
 	- _Example: Her obvious nervousness belied what she said._
-- **To [[conceal]] the [[contradictory]] or ironic presence of (something).**
+- **To [[c/_conceal|conceal]] the [[c/_contradictory|contradictory]] or ironic presence of (something).**
 	- _Example: His calm demeanor belied his inner sense of guilt._
-- **To show, evince, [[demonstrate]]: to show (something) to be present, particularly something [[deemed]] [[contradictory]] or ironic.**
-- **To mimic; to [[counterfeit]].**
+- **To show, evince, [[d/_demonstrate|demonstrate]]: to show (something) to be present, particularly something [[d/_deemed|deemed]] [[c/_contradictory|contradictory]] or ironic.**
+- **To mimic; to [[c/_counterfeit|counterfeit]].**
 - **To fill with lies.**
 ---
 ### Synonyms

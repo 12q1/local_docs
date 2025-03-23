@@ -1,6 +1,6 @@
 # Cabernet
 ---
 #noun
-- **Cabernet Sauvignon**
+- **[[c/_cabernet|Cabernet]] Sauvignon**
 ---
 ---

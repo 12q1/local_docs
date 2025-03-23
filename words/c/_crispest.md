@@ -1,20 +1,20 @@
 # Crispest
 ---
 #adjective
-- **(of something seen or heard) Sharp, [[clearly]] [[defined]].**
+- **(of something seen or heard) Sharp, [[c/_clearly|clearly]] [[d/_defined|defined]].**
 	- _Example: This new television set has a very crisp image._
-- **Brittle; friable; in a [[condition]] to [[break]] with a short, sharp fracture.**
+- **[[b/_brittle|Brittle]]; friable; in a [[c/_condition|condition]] to [[b/_break|break]] with a short, sharp fracture.**
 	- _Example: The crisp snow crunched underfoot._
-- **Possessing a [[certain]] [[degree]] of firmness and freshness.**
-- **(of weather, [[air]] etc.) Dry and [[cold]].**
-- **(of movement, [[action]] etc.) Quick and [[accurate]].**
-- **(of talk, text, etc.) Brief and to the point.**
+- **Possessing a [[c/_certain|certain]] [[d/_degree|degree]] of firmness and freshness.**
+- **(of weather, [[a/_air|air]] etc.) Dry and [[c/_cold|cold]].**
+- **(of movement, [[a/_action|action]] etc.) Quick and [[a/_accurate|accurate]].**
+- **(of talk, text, etc.) [[b/_brief|Brief]] and to the point.**
 	- _Example: An expert, given a certain query, will often come up with a crisp answer: “yes” or “no”._
-- **(of wine) having a refreshing [[amount]] of [[acidity]]; having less [[acidity]] than green wine, but more than a flabby one.**
+- **(of wine) having a refreshing [[a/_amount|amount]] of [[a/_acidity|acidity]]; having less [[a/_acidity|acidity]] than green wine, but more than a flabby one.**
 - **Lively; sparking; effervescing.**
-- **Curling in stiff [[curls]] or ringlets.**
+- **[[c/_curling|Curling]] in stiff [[c/_curls|curls]] or ringlets.**
 	- _Example: crisp hair_
-- **Curled by the ripple of water.**
-- **Not using fuzzy logic; [[based]] on a [[binary]] distinction [[between]] true and false.**
+- **[[c/_curled|Curled]] by the ripple of water.**
+- **Not using fuzzy logic; [[b/_based|based]] on a [[b/_binary|binary]] distinction [[b/_between|between]] true and false.**
 ---
 ---

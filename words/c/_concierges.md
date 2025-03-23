@@ -1,8 +1,8 @@
 # Concierges
 ---
 #noun
-- **One who [[attends]] to the wishes of hotel guests.**
-- **One who [[attends]] to the maintenance of a [[building]] and provides services to its tenants and visitors.**
+- **One who [[a/_attends|attends]] to the wishes of hotel guests.**
+- **One who [[a/_attends|attends]] to the maintenance of a [[b/_building|building]] and provides services to its tenants and visitors.**
 ---
 ### Synonyms
 - [[caretaker]], [[custodian]], [[janitor]]

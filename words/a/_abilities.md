@@ -2,13 +2,13 @@
 ---
 #noun
 - **Suitableness.**
-- **The quality or state of [[being]] [[able]]; [[capacity]] to do or of doing something; having the necessary power.**
+- **The quality or state of [[b/_being|being]] [[a/_able|able]]; [[c/_capacity|capacity]] to do or of doing something; having the necessary power.**
 	- _Example: This phone has the ability to have its software upgraded wirelessly._
-- **The legal wherewithal to [[act]].**
+- **The legal wherewithal to [[a/_act|act]].**
 - **Physical power.**
-- **Financial [[ability]].**
+- **Financial [[a/_ability|ability]].**
 - **A unique power of the mind; a faculty.**
-- **A skill or [[competence]] in doing; mental power; talent; [[aptitude]].**
+- **A skill or [[c/_competence|competence]] in doing; mental power; talent; [[a/_aptitude|aptitude]].**
 	- _Example: She has an uncanny ability to defuse conflict._
 ---
 ### Synonyms

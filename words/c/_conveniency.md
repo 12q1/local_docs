@@ -1,6 +1,6 @@
 # Conveniency
 ---
 #noun
-- **Convenience.**
+- **[[c/_convenience|Convenience]].**
 ---
 ---

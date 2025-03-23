@@ -10,6 +10,6 @@
 ### Synonyms
 - [[camarilla]], [[conspiracy]]
 #verb
-- **To engage in the [[activities]] of a [[cabal]].**
+- **To engage in the [[a/_activities|activities]] of a [[c/_cabal|cabal]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Contemptible
 ---
 #adjective
-- **Deserving [[contempt]]**
+- **[[d/_deserving|Deserving]] [[c/_contempt|contempt]]**
 ---
 ### Synonyms
 - [[despicable]], [[disdainable]], [[hateworthy]]

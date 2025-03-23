@@ -1,6 +1,6 @@
 # Couched
 ---
 #adjective
-- **Couché.**
+- **[[c/_couch|Couch]]é.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Degenerative
 ---
 #adjective
-- **Characterized by or [[causing]] [[degeneration]].**
+- **[[c/_characterized|Characterized]] by or [[c/_causing|causing]] [[d/_degeneration|degeneration]].**
 ---
 ---

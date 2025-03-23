@@ -1,6 +1,6 @@
 # Continuator
 ---
 #noun
-- **A person who [[continues]] the work of [[another]]**
+- **A person who [[c/_continues|continues]] the work of [[a/_another|another]]**
 ---
 ---

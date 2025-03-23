@@ -1,7 +1,7 @@
 # Castellation
 ---
 #noun
-- **The [[act]] of making a [[building]] into a [[castle]]**
-- **The [[addition]] of [[battlements]] to a [[building]]**
+- **The [[a/_act|act]] of making a [[b/_building|building]] into a [[c/_castle|castle]]**
+- **The [[a/_addition|addition]] of [[b/_battlements|battlements]] to a [[b/_building|building]]**
 ---
 ---

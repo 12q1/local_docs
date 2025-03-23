@@ -1,6 +1,6 @@
 # Concertante
 ---
 #noun
-- **A [[concert]] for two or more principal instruments, with orchestral [[accompaniment]].**
+- **A [[c/_concert|concert]] for two or more principal instruments, with orchestral [[a/_accompaniment|accompaniment]].**
 ---
 ---

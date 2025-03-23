@@ -1,23 +1,23 @@
 # Cots
 ---
 #noun
-- **A simple [[bed]], especially one for portable or temporary purposes.**
-- **A [[bed]] for infants or small [[children]], with high, often slatted, often moveable sides.**
-- **A wooden [[bed]] frame, slung by its [[corners]] from a [[beam]], in which officers slept [[before]] the introduction of [[bunks]].**
+- **A simple [[b/_bed|bed]], especially one for portable or temporary purposes.**
+- **A [[b/_bed|bed]] for infants or small [[c/_children|children]], with high, often slatted, often moveable sides.**
+- **A wooden [[b/_bed|bed]] frame, slung by its [[c/_corners|corners]] from a [[b/_beam|beam]], in which officers slept [[b/_before|before]] the introduction of [[b/_bunks|bunks]].**
 ---
 ### Synonyms
 - [[camp bed]], [[crib]]
 #noun
-- **A [[cottage]] or small homestead.**
-- **A pen, [[coop]], or similar shelter for small domestic [[animals]], such as sheep or pigeons.**
+- **A [[c/_cottage|cottage]] or small homestead.**
+- **A pen, [[c/_coop|coop]], or similar shelter for small domestic [[a/_animals|animals]], such as sheep or pigeons.**
 ---
 ### Synonyms
 - [[cote]]
 #noun
-- **A small, [[crudely]]-formed [[boat]].**
+- **A small, [[c/_crudely|crudely]]-formed [[b/_boat|boat]].**
 ---
 #noun
-- **A [[cover]] or sheath; a fingerstall.**
+- **A [[c/_cover|cover]] or sheath; a fingerstall.**
 	- _Example: a cot for a sore finger_
 ---
 ---

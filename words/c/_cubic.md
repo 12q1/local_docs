@@ -1,15 +1,15 @@
 # Cubic
 ---
 #noun
-- **A [[cubic]] [[curve]].**
+- **A [[c/_cubic|cubic]] [[c/_curve|curve]].**
 ---
 ### Synonyms
 - [[cubic curve]]
 #adjective
 - **Used in the names of units of volume formed by multiplying a unit of length by itself twice.**
 	- _Example: cubic foot_
-- **Of a [[class]] of polynomial of the form [[ax]]^3 + [[bx]]^2 + cx + [[d]]**
-- **Having three equal [[axes]] and [[all]] [[angles]] 90°.**
+- **Of a [[c/_class|class]] of polynomial of the form [[a/_ax|ax]]^3 + [[b/_bx|bx]]^2 + cx + [[d/_d|d]]**
+- **Having three equal [[a/_axes|axes]] and [[a/_all|all]] [[a/_angles|angles]] 90°.**
 	- _Example: cubic cleavage_
 ---
 ### Synonyms

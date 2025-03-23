@@ -1,6 +1,6 @@
 # Chameleonlike
 ---
 #adjective
-- **Having the [[characteristics]] of a [[chameleon]].**
+- **Having the [[c/_characteristics|characteristics]] of a [[c/_chameleon|chameleon]].**
 ---
 ---

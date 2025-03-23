@@ -1,6 +1,6 @@
 # Claustrophobia
 ---
 #noun
-- **The fear of [[closed]], tight places.**
+- **The fear of [[c/_closed|closed]], tight places.**
 ---
 ---

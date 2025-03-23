@@ -1,10 +1,10 @@
 # Botanical
 ---
 #noun
-- **Something [[derived]] from a [[botanical]], especially herbal, source**
+- **Something [[d/_derived|derived]] from a [[b/_botanical|botanical]], especially herbal, source**
 ---
 #adjective
-- **Of or pertaining to [[botany]]; relating to the study of plants**
+- **Of or pertaining to [[b/_botany|botany]]; relating to the study of plants**
 	- _Example: a botanical system_
 ---
 ---

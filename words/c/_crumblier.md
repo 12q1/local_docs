@@ -1,6 +1,6 @@
 # Crumblier
 ---
 #adjective
-- **Easy to [[break]] into small fragments; [[brittle]] or friable.**
+- **Easy to [[b/_break|break]] into small fragments; [[b/_brittle|brittle]] or friable.**
 ---
 ---

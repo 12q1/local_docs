@@ -1,6 +1,6 @@
 # Agama
 ---
 #noun
-- **Any of the various small, long-tailed lizards of the subfamily Agaminae of family Agamidae, especially in genera Acanthocercus, Agama, Dendragama, Laudakia, Phrynocephalus, Trapelus and Xenagama.**
+- **[[a/_any|Any]] of the various small, long-tailed lizards of the subfamily Agaminae of family [[a/_agamidae|Agamidae]], especially in genera Acanthocercus, [[a/_agama|Agama]], Dendragama, Laudakia, Phrynocephalus, Trapelus and Xenagama.**
 ---
 ---

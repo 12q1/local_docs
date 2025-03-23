@@ -1,9 +1,9 @@
 # Annex
 ---
 #noun
-- **An [[addition]], an extension.**
-- **An [[appendix]] to a [[book]] or document.**
-- **An [[addition]] or extension to a [[building]].**
-- **An [[addition]] to the territory of a [[country]] or state, from a neighbouring [[country]] or state, normally by military force.**
+- **An [[a/_addition|addition]], an extension.**
+- **An [[a/_appendix|appendix]] to a [[b/_book|book]] or document.**
+- **An [[a/_addition|addition]] or extension to a [[b/_building|building]].**
+- **An [[a/_addition|addition]] to the territory of a [[c/_country|country]] or state, from a neighbouring [[c/_country|country]] or state, normally by military force.**
 ---
 ---

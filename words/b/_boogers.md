@@ -8,7 +8,7 @@
 ### Synonyms
 - [[bogey]], [[bogie]], [[snot]], [[bugger]]
 #noun
-- **(mildly [[derogatory]]) A bodyboarder.**
+- **(mildly [[d/_derogatory|derogatory]]) A bodyboarder.**
 	- _Example: Watch the local boogers charge it!_
 ---
 ---

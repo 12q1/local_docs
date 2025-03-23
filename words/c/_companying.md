@@ -1,9 +1,9 @@
 # Companying
 ---
 #verb
-- **To [[accompany]], keep [[company]] with.**
-- **To [[associate]].**
-- **To be a lively, [[cheerful]] [[companion]].**
+- **To [[a/_accompany|accompany]], keep [[c/_company|company]] with.**
+- **To [[a/_associate|associate]].**
+- **To be a lively, [[c/_cheerful|cheerful]] [[c/_companion|companion]].**
 - **To have sexual intercourse.**
 ---
 ### Synonyms

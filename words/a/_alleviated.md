@@ -9,7 +9,7 @@
 ### Antonyms
 - [[aggravate]]
 #adjective
-- **Made more [[bearable]].**
+- **Made more [[b/_bearable|bearable]].**
 	- _Example: My alleviated sorrow no longer crushes me._
 ---
 ---

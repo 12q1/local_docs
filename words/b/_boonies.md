@@ -1,6 +1,6 @@
 # Boonies
 ---
 #noun
-- **Boondocks**
+- **[[b/_boondocks|Boondocks]]**
 ---
 ---

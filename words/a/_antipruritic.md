@@ -1,6 +1,6 @@
 # Antipruritic
 ---
 #noun
-- **A medical [[agent]] that stops itching.**
+- **A medical [[a/_agent|agent]] that stops itching.**
 ---
 ---

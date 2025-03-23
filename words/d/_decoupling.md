@@ -1,10 +1,10 @@
 # Decoupling
 ---
 #verb
-- **To unlink; to take or [[come]] [[apart]].**
+- **To unlink; to take or [[c/_come|come]] [[a/_apart|apart]].**
 	- _Example: radiation decoupled from matter_
 ---
 #noun
-- **The [[act]] or process by which something is [[decoupled]].**
+- **The [[a/_act|act]] or process by which something is [[d/_decoupled|decoupled]].**
 ---
 ---

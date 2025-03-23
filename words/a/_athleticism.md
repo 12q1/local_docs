@@ -1,7 +1,7 @@
 # Athleticism
 ---
 #noun
-- **The state of [[being]] an [[athlete]], or of taking part in [[athletic]] events.**
-- **A show of [[athletic]] prowess.**
+- **The state of [[b/_being|being]] an [[a/_athlete|athlete]], or of taking part in [[a/_athletic|athletic]] events.**
+- **A show of [[a/_athletic|athletic]] prowess.**
 ---
 ---

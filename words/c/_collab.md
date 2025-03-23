@@ -1,9 +1,9 @@
 # Collab
 ---
 #noun
-- **A [[collaboration]], especially a work produced by several musicians who do not usually work together.**
+- **A [[c/_collaboration|collaboration]], especially a work produced by several musicians who do not usually work together.**
 ---
 #verb
-- **To [[collaborate]].**
+- **To [[c/_collaborate|collaborate]].**
 ---
 ---

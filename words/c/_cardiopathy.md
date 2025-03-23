@@ -1,6 +1,6 @@
 # Cardiopathy
 ---
 #noun
-- **Any disease or disorder of the heart**
+- **[[a/_any|Any]] disease or disorder of the heart**
 ---
 ---

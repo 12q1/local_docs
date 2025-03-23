@@ -1,6 +1,6 @@
 # Comprehensives
 ---
 #noun
-- **A [[comprehensive]] school.**
+- **A [[c/_comprehensive|comprehensive]] school.**
 ---
 ---

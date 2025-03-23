@@ -1,10 +1,10 @@
 # Astounding
 ---
 #verb
-- **To [[astonish]], [[bewilder]] or [[dazzle]].**
+- **To [[a/_astonish|astonish]], [[b/_bewilder|bewilder]] or [[d/_dazzle|dazzle]].**
 ---
 #adjective
-- **That [[astounds]] or [[astound]].**
+- **That [[a/_astounds|astounds]] or [[a/_astound|astound]].**
 	- _Example: astounding success; an astounding spectacle_
 ---
 ### Synonyms

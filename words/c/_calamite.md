@@ -1,6 +1,6 @@
 # Calamite
 ---
 #noun
-- **An extinct genus of treelike horsetails, Calamites.**
+- **An extinct genus of treelike horsetails, [[c/_calamites|Calamites]].**
 ---
 ---

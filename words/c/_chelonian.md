@@ -1,9 +1,9 @@
 # Chelonian
 ---
 #noun
-- **A reptile of the order Chelonia (Testudines).**
+- **A reptile of the order [[c/_chelonia|Chelonia]] (Testudines).**
 ---
 #adjective
-- **Of, relating to, or [[belonging]] to the order Chelonia (Testudines), which includes the turtles and tortoises.**
+- **Of, relating to, or [[b/_belonging|belonging]] to the order [[c/_chelonia|Chelonia]] (Testudines), which includes the turtles and tortoises.**
 ---
 ---

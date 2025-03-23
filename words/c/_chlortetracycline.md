@@ -1,7 +1,7 @@
 # Chlortetracycline
 ---
 #noun
-- **A particular tetracycline [[antibiotic]].**
+- **A particular tetracycline [[a/_antibiotic|antibiotic]].**
 ---
 ### Synonyms
 - [[aureomycin]]

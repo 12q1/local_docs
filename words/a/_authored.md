@@ -1,6 +1,6 @@
 # Authored
 ---
 #verb
-- **(sometimes proscribed) To [[create]] a work as its [[author]].**
+- **(sometimes proscribed) To [[c/_create|create]] a work as its [[a/_author|author]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Aviatrices
 ---
 #noun
-- **A female [[aviator]].**
+- **A female [[a/_aviator|aviator]].**
 ---
 ### Synonyms
 - [[aviatress]], [[aviatrice]], [[pilotess]]

@@ -1,10 +1,10 @@
 # Citrine
 ---
 #noun
-- **A goldish-yellow [[colour]], like that of a lemon.**
-- **A [[brownish]]-yellow quartz.**
+- **A goldish-yellow [[c/_colour|colour]], like that of a lemon.**
+- **A [[b/_brownish|brownish]]-yellow quartz.**
 ---
 #adjective
-- **Of a goldish-yellow [[colour]].**
+- **Of a goldish-yellow [[c/_colour|colour]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Bumblebees
 ---
 #noun
-- **Any of several species of large [[bee]] in the genus Bombus**
+- **[[a/_any|Any]] of several species of large [[b/_bee|bee]] in the genus [[b/_bombus|Bombus]]**
 ---
 ### Synonyms
 - [[dumbledore]]

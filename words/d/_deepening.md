@@ -1,11 +1,11 @@
 # Deepening
 ---
 #verb
-- **To make [[deep]] or [[deeper]]**
+- **To make [[d/_deep|deep]] or [[d/_deeper|deeper]]**
 	- _Example: They deepened the well by 200 feet._
-- **To make [[darker]] or more intense; to [[darken]]**
+- **To make [[d/_darker|darker]] or more intense; to [[d/_darken|darken]]**
 	- _Example: The event deepened the prevailing gloom._
-- **To make more poignant or [[affecting]]; to increase in [[degree]]**
+- **To make more poignant or [[a/_affecting|affecting]]; to increase in [[d/_degree|degree]]**
 	- _Example: News of her death deepened my sorrow._
 - **To make lower in tone**
 	- _Example: The tuner deepened the tone of the organ._
@@ -15,22 +15,22 @@
 	- _Example: The shared experiences deepened our relationship._
 - **To make more sound or heavy.**
 	- _Example: The hypnotist then proceeded to deepen his trance._
-- **To [[become]] [[deeper]]**
+- **To [[b/_become|become]] [[d/_deeper|deeper]]**
 	- _Example: The water deepens as you go toward the middle of the channel._
-- **To [[become]] [[darker]] or more intense**
+- **To [[b/_become|become]] [[d/_darker|darker]] or more intense**
 	- _Example: The crisis deepened in the following weeks._
-- **To [[become]] lower in tone**
+- **To [[b/_become|become]] lower in tone**
 	- _Example: His voice deepened with age._
-- **To [[become]] more thorough or extensive.**
+- **To [[b/_become|become]] more thorough or extensive.**
 	- _Example: His skill in deciphering the texts deepened with practice._
-- **To [[become]] more intimate.**
+- **To [[b/_become|become]] more intimate.**
 	- _Example: The conversation deepened and they began to truly share._
-- **To [[become]] more sound or heavy.**
+- **To [[b/_become|become]] more sound or heavy.**
 	- _Example: The new bed allowed my sleep to deepen._
 ---
 ### Synonyms
 - [[depthen]]
 #noun
-- **The [[act]] of [[becoming]] [[deeper]].**
+- **The [[a/_act|act]] of [[b/_becoming|becoming]] [[d/_deeper|deeper]].**
 ---
 ---

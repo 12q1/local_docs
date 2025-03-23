@@ -1,9 +1,9 @@
 # Blowtorch
 ---
 #noun
-- **A tool which projects a [[controlled]] stream of a highly flammable gas over a spark in order to produce a [[controlled]] flame.**
+- **A tool which projects a [[c/_controlled|controlled]] stream of a highly flammable gas over a spark in order to produce a [[c/_controlled|controlled]] flame.**
 ---
 #verb
-- **To [[apply]] a [[blowtorch]] to something.**
+- **To [[a/_apply|apply]] a [[b/_blowtorch|blowtorch]] to something.**
 ---
 ---

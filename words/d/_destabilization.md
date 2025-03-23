@@ -1,6 +1,6 @@
 # Destabilization
 ---
 #noun
-- **The [[act]] or process of [[destabilizing]].**
+- **The [[a/_act|act]] or process of [[d/_destabilizing|destabilizing]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Bellmen
 ---
 #noun
-- **A town [[crier]]**
-- **A [[bellhop]] or [[bellboy]]**
+- **A town [[c/_crier|crier]]**
+- **A [[b/_bellhop|bellhop]] or [[b/_bellboy|bellboy]]**
 ---
 ---

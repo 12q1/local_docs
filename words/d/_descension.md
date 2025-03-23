@@ -1,8 +1,8 @@
 # Descension
 ---
 #noun
-- **Descent; the [[act]] of [[descending]].**
+- **[[d/_descent|Descent]]; the [[a/_act|act]] of [[d/_descending|descending]].**
 	- _Example: Death is followed by either ascension into a higher plane or descension into a lower plane._
-- **The [[descent]] [[below]] the horizon of a [[celestial]] [[body]].**
+- **The [[d/_descent|descent]] [[b/_below|below]] the horizon of a [[c/_celestial|celestial]] [[b/_body|body]].**
 ---
 ---

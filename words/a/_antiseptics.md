@@ -1,6 +1,6 @@
 # Antiseptics
 ---
 #noun
-- **Any substance that inhibits the growth and reproduction of microorganisms. Generally includes only those that are used on living objects (as opposed to disinfectants) and [[aren]]'t transported by the lymphatic system to [[destroy]] [[bacteria]] in the [[body]] (as opposed to [[antibiotics]]).**
+- **[[a/_any|Any]] substance that inhibits the growth and reproduction of microorganisms. Generally includes only those that are used on living objects (as opposed to disinfectants) and [[a/_aren|aren]]'t transported by the lymphatic system to [[d/_destroy|destroy]] [[b/_bacteria|bacteria]] in the [[b/_body|body]] (as opposed to [[a/_antibiotics|antibiotics]]).**
 ---
 ---

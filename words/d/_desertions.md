@@ -1,6 +1,6 @@
 # Desertions
 ---
 #noun
-- **The [[act]] of [[deserting]].**
+- **The [[a/_act|act]] of [[d/_deserting|deserting]].**
 ---
 ---

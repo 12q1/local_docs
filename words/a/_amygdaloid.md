@@ -1,12 +1,12 @@
 # Amygdaloid
 ---
 #noun
-- **A variety of trap or [[basaltic]] rock, [[containing]] small [[cavities]], occupied, wholly or in part, by nodules or geodes of different minerals, especially [[agates]], quartz, [[calcite]], and the zeolites. When the imbedded minerals are [[detached]] or removed by [[decomposition]], it is porous, like lava.**
+- **A variety of trap or [[b/_basaltic|basaltic]] rock, [[c/_containing|containing]] small [[c/_cavities|cavities]], occupied, wholly or in part, by nodules or geodes of different minerals, especially [[a/_agates|agates]], quartz, [[c/_calcite|calcite]], and the zeolites. When the imbedded minerals are [[d/_detached|detached]] or removed by [[d/_decomposition|decomposition]], it is porous, like lava.**
 ---
 ### Synonyms
 - [[mandlestone]]
 #adjective
-- **Shaped like an [[almond]]**
-- **Relating to the [[amygdala]]**
+- **Shaped like an [[a/_almond|almond]]**
+- **Relating to the [[a/_amygdala|amygdala]]**
 ---
 ---

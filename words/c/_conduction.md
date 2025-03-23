@@ -1,8 +1,8 @@
 # Conduction
 ---
 #noun
-- **The [[conveying]] of heat or electricity through material.**
-- **The [[act]] of leading or guiding.**
-- **The [[act]] of training up.**
+- **The [[c/_conveying|conveying]] of heat or electricity through material.**
+- **The [[a/_act|act]] of leading or guiding.**
+- **The [[a/_act|act]] of training up.**
 ---
 ---

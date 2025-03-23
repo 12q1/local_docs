@@ -1,7 +1,7 @@
 # Advertisers
 ---
 #noun
-- **One who [[advertises]].**
-- **A periodical in which [[advertisements]] [[can]] be published by individuals.**
+- **One who [[a/_advertises|advertises]].**
+- **A periodical in which [[a/_advertisements|advertisements]] [[c/_can|can]] be published by individuals.**
 ---
 ---

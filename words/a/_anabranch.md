@@ -1,6 +1,6 @@
 # Anabranch
 ---
 #noun
-- **(of a water [[channel]]) A diverging [[branch]] of a river, [[creek]], or stream which re-enters the main stream.**
+- **(of a water [[c/_channel|channel]]) A diverging [[b/_branch|branch]] of a river, [[c/_creek|creek]], or stream which re-enters the main stream.**
 ---
 ---

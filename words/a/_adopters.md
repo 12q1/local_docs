@@ -1,6 +1,6 @@
 # Adopters
 ---
 #noun
-- **One who [[adopts]]**
+- **One who [[a/_adopts|adopts]]**
 ---
 ---

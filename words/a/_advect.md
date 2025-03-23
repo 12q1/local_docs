@@ -1,6 +1,6 @@
 # Advect
 ---
 #verb
-- **To transport (something) by [[advection]].**
+- **To transport (something) by [[a/_advection|advection]].**
 ---
 ---

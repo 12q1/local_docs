@@ -1,7 +1,7 @@
 # Awestricken
 ---
 #adjective
-- **Filled with [[awe]].**
+- **Filled with [[a/_awe|awe]].**
 ---
 ### Synonyms
 - [[awed]], [[awestruck]]

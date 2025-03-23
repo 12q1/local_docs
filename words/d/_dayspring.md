@@ -1,7 +1,7 @@
 # Dayspring
 ---
 #noun
-- **The [[beginning]] of the [[day]], or first [[appearance]] of light; the [[dawn]]; [[daybreak]].**
+- **The [[b/_beginning|beginning]] of the [[d/_day|day]], or first [[a/_appearance|appearance]] of light; the [[d/_dawn|dawn]]; [[d/_daybreak|daybreak]].**
 ---
 ### Synonyms
 - [[break of day]], [[daybreak]], [[sunup]]

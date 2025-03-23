@@ -1,7 +1,7 @@
 # Bimbos
 ---
 #noun
-- **A physically [[attractive]] woman who lacks intelligence.**
+- **A physically [[a/_attractive|attractive]] woman who lacks intelligence.**
 - **A stupid or foolish person.**
 ---
 ### Synonyms

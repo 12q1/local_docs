@@ -1,19 +1,19 @@
 # Bungs
 ---
 #noun
-- **A stopper, [[alternative]] to a [[cork]], often made of rubber used to prevent fluid passing through the neck of a [[bottle]], vat, a hole in a vessel etc.**
-- **A [[cecum]] or [[anus]], especially of a slaughter [[animal]].**
-- **A [[bribe]].**
-- **The orifice in the [[bilge]] of a [[cask]] through which it is filled; [[bunghole]].**
+- **A stopper, [[a/_alternative|alternative]] to a [[c/_cork|cork]], often made of rubber used to prevent fluid passing through the neck of a [[b/_bottle|bottle]], vat, a hole in a vessel etc.**
+- **A [[c/_cecum|cecum]] or [[a/_anus|anus]], especially of a slaughter [[a/_animal|animal]].**
+- **A [[b/_bribe|bribe]].**
+- **The orifice in the [[b/_bilge|bilge]] of a [[c/_cask|cask]] through which it is filled; [[b/_bunghole|bunghole]].**
 - **A sharper or pickpocket.**
 ---
 #verb
-- **To plug, as with a [[bung]].**
-- **To put or throw somewhere without [[care]]; to [[chuck]].**
-- **To [[batter]], [[bruise]]; to [[cause]] to [[bulge]] or swell.**
-- **To pass a [[bribe]].**
+- **To plug, as with a [[b/_bung|bung]].**
+- **To put or throw somewhere without [[c/_care|care]]; to [[c/_chuck|chuck]].**
+- **To [[b/_batter|batter]], [[b/_bruise|bruise]]; to [[c/_cause|cause]] to [[b/_bulge|bulge]] or swell.**
+- **To pass a [[b/_bribe|bribe]].**
 ---
 #noun
-- **(thieves' [[cant]]) A purse.**
+- **(thieves' [[c/_cant|cant]]) A purse.**
 ---
 ---

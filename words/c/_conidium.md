@@ -1,6 +1,6 @@
 # Conidium
 ---
 #noun
-- **A fungal spore produced [[asexually]] in a [[conidiophore]].**
+- **A fungal spore produced [[a/_asexually|asexually]] in a [[c/_conidiophore|conidiophore]].**
 ---
 ---

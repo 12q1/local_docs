@@ -1,6 +1,6 @@
 # Curtailment
 ---
 #noun
-- **The [[act]] of [[curtailing]]**
+- **The [[a/_act|act]] of [[c/_curtailing|curtailing]]**
 ---
 ---

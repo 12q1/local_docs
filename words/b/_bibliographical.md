@@ -1,6 +1,6 @@
 # Bibliographical
 ---
 #adjective
-- **Bibliographic**
+- **[[b/_bibliographic|Bibliographic]]**
 ---
 ---

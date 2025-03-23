@@ -1,7 +1,7 @@
 # Advisor
 ---
 #noun
-- **One who offers [[advice]].**
+- **One who offers [[a/_advice|advice]].**
 ---
 ### Synonyms
 - [[consultant]], [[counselor]]

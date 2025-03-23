@@ -1,11 +1,11 @@
 # Cordovan
 ---
 #noun
-- **A leather from Córdoba originally of tanned goatskin later of horsehide.**
-- **A shoe made from [[cordovan]] leather**
+- **A leather from [[c/_c|C]]órdoba originally of tanned goatskin later of horsehide.**
+- **A shoe made from [[c/_cordovan|cordovan]] leather**
 ---
 #adjective
-- **Oxblood (the [[color]])**
+- **Oxblood (the [[c/_color|color]])**
 ---
 ### Synonyms
 - [[cordwain]]

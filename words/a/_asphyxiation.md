@@ -1,7 +1,7 @@
 # Asphyxiation
 ---
 #noun
-- **Death due to lack of oxygen.**
-- **An [[acute]] lack of oxygen.**
+- **[[d/_death|Death]] due to lack of oxygen.**
+- **An [[a/_acute|acute]] lack of oxygen.**
 ---
 ---

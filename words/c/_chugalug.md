@@ -4,9 +4,9 @@
 - **A glugging sound, especially one made by a person drinking in large gulps**
 ---
 #verb
-- **To swallow (a [[container]] of [[beer]] etc.) without pausing.**
+- **To swallow (a [[c/_container|container]] of [[b/_beer|beer]] etc.) without pausing.**
 ---
 #adverb
-- **In [[continuous]] gulps**
+- **In [[c/_continuous|continuous]] gulps**
 ---
 ---

@@ -1,7 +1,7 @@
 # Acrasia
 ---
 #noun
-- **Lack of self-[[control]]; excess; intemperance**
+- **Lack of self-[[c/_control|control]]; excess; intemperance**
 ---
 ### Synonyms
 - [[acrasy]]

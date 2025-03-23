@@ -1,7 +1,7 @@
 # Basophils
 ---
 #noun
-- **Any [[cell]] that has granules stained by [[basic]] stains.**
+- **[[a/_any|Any]] [[c/_cell|cell]] that has granules stained by [[b/_basic|basic]] stains.**
 ---
 ### Synonyms
 - [[beta cell]]

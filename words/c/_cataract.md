@@ -7,6 +7,6 @@
 - **A flood of water**
 - **An overwhelming downpour or rush**
 	- _Example: His cataract of eloquence_
-- **A [[clouding]] of the lens in the eye leading to a [[decrease]] in vision.**
+- **A [[c/_clouding|clouding]] of the lens in the eye leading to a [[d/_decrease|decrease]] in vision.**
 ---
 ---

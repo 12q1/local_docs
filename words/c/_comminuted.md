@@ -2,11 +2,11 @@
 ---
 #verb
 - **To pulverize; to smash.**
-- **To [[cause]] fragmentation (of [[bone]]).**
-- **To [[break]] into smaller portions.**
+- **To [[c/_cause|cause]] fragmentation (of [[b/_bone|bone]]).**
+- **To [[b/_break|break]] into smaller portions.**
 ---
 #adjective
-- **Reduced to small particles or to powder, as by [[crushing]] or pulverizing.**
+- **Reduced to small particles or to powder, as by [[c/_crushing|crushing]] or pulverizing.**
 ---
 ### Synonyms
 - [[triturated]]

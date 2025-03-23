@@ -1,6 +1,6 @@
 # Biocides
 ---
 #noun
-- **Any [[action]] or substance that [[can]] [[destroy]] living organisms.**
+- **[[a/_any|Any]] [[a/_action|action]] or substance that [[c/_can|can]] [[d/_destroy|destroy]] living organisms.**
 ---
 ---

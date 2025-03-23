@@ -4,6 +4,6 @@
 - **To form such hardened tissue.**
 ---
 #adjective
-- **Having [[calluses]].**
+- **Having [[c/_calluses|calluses]].**
 ---
 ---

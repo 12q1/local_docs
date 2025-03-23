@@ -1,10 +1,10 @@
 # Biplane
 ---
 #noun
-- **An [[airplane]] that has two main wings, one [[above]] the other and supported by struts**
+- **An [[a/_airplane|airplane]] that has two main wings, one [[a/_above|above]] the other and supported by struts**
 ---
 #adjective
-- **Having, or [[consisting]] of, two superposed planes, aerocurves, etc.**
+- **Having, or [[c/_consisting|consisting]] of, two superposed planes, aerocurves, etc.**
 	- _Example: a biplane rudder_
 ---
 ---

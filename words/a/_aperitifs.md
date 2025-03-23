@@ -1,7 +1,7 @@
 # Aperitifs
 ---
 #noun
-- **An [[alcoholic]] drink served [[before]] a meal as an [[appetiser]].**
+- **An [[a/_alcoholic|alcoholic]] drink served [[b/_before|before]] a meal as an [[a/_appetiser|appetiser]].**
 ---
 ### Antonyms
 - [[digestif]]

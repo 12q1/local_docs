@@ -1,9 +1,9 @@
 # Classed
 ---
 #verb
-- **To [[assign]] to a [[class]]; to [[classify]].**
+- **To [[a/_assign|assign]] to a [[c/_class|class]]; to [[c/_classify|classify]].**
 	- _Example: I would class this with most of the other mediocre works of the period._
-- **To be grouped or [[classed]].**
-- **To divide into [[classes]], as students; to form into, or place in, a [[class]] or [[classes]].**
+- **To be grouped or [[c/_classed|classed]].**
+- **To divide into [[c/_classes|classes]], as students; to form into, or place in, a [[c/_class|class]] or [[c/_classes|classes]].**
 ---
 ---

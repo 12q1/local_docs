@@ -1,6 +1,6 @@
 # Candlepower
 ---
 #noun
-- **Unit of luminous intensity of a light source, equal to 0.981 [[candelas]]**
+- **Unit of luminous intensity of a light source, equal to 0.981 [[c/_candelas|candelas]]**
 ---
 ---

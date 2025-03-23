@@ -1,9 +1,9 @@
 # Cerise
 ---
 #noun
-- **A [[deep]], [[bright]] red [[colour]] tinted with pink.**
+- **A [[d/_deep|deep]], [[b/_bright|bright]] red [[c/_colour|colour]] tinted with pink.**
 ---
 #adjective
-- **Cherry-[[colored]]; a light [[bright]] red; -- [[applied]] to textile fabrics, especially silk.**
+- **[[c/_cherry|Cherry]]-[[c/_colored|colored]]; a light [[b/_bright|bright]] red; -- [[a/_applied|applied]] to textile fabrics, especially silk.**
 ---
 ---

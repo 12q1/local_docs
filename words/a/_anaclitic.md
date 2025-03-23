@@ -1,7 +1,7 @@
 # Anaclitic
 ---
 #adjective
-- **Denoting a person whose [[choice]] of love-interest [[arises]] from the [[dependence]] of the libido on [[another]] instinct (e.g. hunger).**
-- **Pertaining to an [[acute]] emotional [[dependence]] on [[another]] person or persons.**
+- **[[d/_denoting|Denoting]] a person whose [[c/_choice|choice]] of love-interest [[a/_arises|arises]] from the [[d/_dependence|dependence]] of the libido on [[a/_another|another]] instinct (e.g. hunger).**
+- **Pertaining to an [[a/_acute|acute]] emotional [[d/_dependence|dependence]] on [[a/_another|another]] person or persons.**
 ---
 ---

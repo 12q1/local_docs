@@ -1,8 +1,8 @@
 # Commissure
 ---
 #noun
-- **The joint [[between]] two [[bones]].**
-- **A [[band]] of nerve tissue [[connecting]] the hemispheres of the [[brain]], the two sides of the spinal [[cord]], etc.**
+- **The joint [[b/_between|between]] two [[b/_bones|bones]].**
+- **A [[b/_band|band]] of nerve tissue [[c/_connecting|connecting]] the hemispheres of the [[b/_brain|brain]], the two sides of the spinal [[c/_cord|cord]], etc.**
 - **The line where the upper and lower lips or eyelids meet.**
 ---
 ---

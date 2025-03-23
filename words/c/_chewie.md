@@ -1,6 +1,6 @@
 # Chewie
 ---
 #noun
-- **Chewing gum.**
+- **[[c/_chewing|Chewing]] gum.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bonteboks
 ---
 #noun
-- **A South African [[antelope]] of genus Damaliscus**
+- **A South [[a/_african|African]] [[a/_antelope|antelope]] of genus Damaliscus**
 ---
 ---

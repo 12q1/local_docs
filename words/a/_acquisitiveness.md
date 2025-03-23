@@ -1,7 +1,7 @@
 # Acquisitiveness
 ---
 #noun
-- **The quality of [[being]] [[acquisitive]]; propensity to [[acquire]] property; [[desire]] of possession.**
-- **The faculty to which the phrenologists [[attribute]] the [[desire]] of [[acquiring]] and possessing.**
+- **The quality of [[b/_being|being]] [[a/_acquisitive|acquisitive]]; propensity to [[a/_acquire|acquire]] property; [[d/_desire|desire]] of possession.**
+- **The faculty to which the phrenologists [[a/_attribute|attribute]] the [[d/_desire|desire]] of [[a/_acquiring|acquiring]] and possessing.**
 ---
 ---

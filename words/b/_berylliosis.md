@@ -1,6 +1,6 @@
 # Berylliosis
 ---
 #noun
-- **A [[chronic]] disease of the lungs, [[caused]] by inhalation of [[beryllium]] [[compounds]].**
+- **A [[c/_chronic|chronic]] disease of the lungs, [[c/_caused|caused]] by inhalation of [[b/_beryllium|beryllium]] [[c/_compounds|compounds]].**
 ---
 ---

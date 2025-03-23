@@ -1,6 +1,6 @@
 # Crepitating
 ---
 #verb
-- **To [[crackle]], to make a [[crackling]] sound.**
+- **To [[c/_crackle|crackle]], to make a [[c/_crackling|crackling]] sound.**
 ---
 ---

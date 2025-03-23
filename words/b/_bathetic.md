@@ -1,6 +1,6 @@
 # Bathetic
 ---
 #adjective
-- **Characterized by or pertaining to [[bathos]].**
+- **[[c/_characterized|Characterized]] by or pertaining to [[b/_bathos|bathos]].**
 ---
 ---

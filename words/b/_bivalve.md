@@ -1,7 +1,7 @@
 # Bivalve
 ---
 #noun
-- **Any mollusc [[belonging]] to the taxonomic [[class]] Bivalvia, [[characterized]] by a shell [[consisting]] of two hinged sections, such as a scallop, [[clam]], mussel or oyster.**
-- **A pericarp in which the seed [[case]] opens or splits into two parts or valves.**
+- **[[a/_any|Any]] mollusc [[b/_belonging|belonging]] to the taxonomic [[c/_class|class]] [[b/_bivalvia|Bivalvia]], [[c/_characterized|characterized]] by a shell [[c/_consisting|consisting]] of two hinged sections, such as a scallop, [[c/_clam|clam]], mussel or oyster.**
+- **A pericarp in which the seed [[c/_case|case]] opens or splits into two parts or valves.**
 ---
 ---

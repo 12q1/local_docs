@@ -1,6 +1,6 @@
 # Asphalted
 ---
 #verb
-- **To pave with [[asphalt]].**
+- **To pave with [[a/_asphalt|asphalt]].**
 ---
 ---

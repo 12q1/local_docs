@@ -1,10 +1,10 @@
 # Clamshells
 ---
 #noun
-- **The shell of a [[clam]].**
-- **A dredging [[bucket]] with hinges like the shell of a [[clam]].**
-- **In food service, the [[closing]] [[box]] (usually styrofoam but sometimes [[cardboard]]) given to [[consumers]] with take-out food.**
-- **Any object that has a hinge on one edge and two surfaces that [[close]] together.**
-- **An [[amphitheater]], especially an outdoor [[amphitheater]]; the semi-[[circular]] [[acoustic]] [[backdrop]] [[behind]] and [[above]] the performers.**
+- **The shell of a [[c/_clam|clam]].**
+- **A dredging [[b/_bucket|bucket]] with hinges like the shell of a [[c/_clam|clam]].**
+- **In food service, the [[c/_closing|closing]] [[b/_box|box]] (usually styrofoam but sometimes [[c/_cardboard|cardboard]]) given to [[c/_consumers|consumers]] with take-out food.**
+- **[[a/_any|Any]] object that has a hinge on one edge and two surfaces that [[c/_close|close]] together.**
+- **An [[a/_amphitheater|amphitheater]], especially an outdoor [[a/_amphitheater|amphitheater]]; the semi-[[c/_circular|circular]] [[a/_acoustic|acoustic]] [[b/_backdrop|backdrop]] [[b/_behind|behind]] and [[a/_above|above]] the performers.**
 ---
 ---

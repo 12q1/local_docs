@@ -1,6 +1,6 @@
 # Asthenic
 ---
 #adjective
-- **Characterized by, or pertaining to, [[debility]]; weak; [[debilitating]].**
+- **[[c/_characterized|Characterized]] by, or pertaining to, [[d/_debility|debility]]; weak; [[d/_debilitating|debilitating]].**
 ---
 ---

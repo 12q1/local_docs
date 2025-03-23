@@ -1,6 +1,6 @@
 # Blackpoll
 ---
 #noun
-- **A North American warbler, Dendroica striata, the male of which has a [[black]] patch on its head**
+- **A North [[a/_american|American]] warbler, [[d/_dendroica|Dendroica]] striata, the male of which has a [[b/_black|black]] patch on its head**
 ---
 ---

@@ -1,6 +1,6 @@
 # Cystotomies
 ---
 #noun
-- **A surgical operation which [[consists]] of making an incision into the urinary [[bladder]].**
+- **A surgical operation which [[c/_consists|consists]] of making an incision into the urinary [[b/_bladder|bladder]].**
 ---
 ---

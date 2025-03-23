@@ -1,8 +1,8 @@
 # Cerements
 ---
 #noun
-- **A [[burial]] shroud or garment.**
-- **Cerecloth.**
+- **A [[b/_burial|burial]] shroud or garment.**
+- **[[c/_cerecloth|Cerecloth]].**
 ---
 ### Synonyms
 - [[pall]], [[winding clothes]], [[winding sheet]]

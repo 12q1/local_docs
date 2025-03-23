@@ -1,10 +1,10 @@
 # Burlesquing
 ---
 #verb
-- **To make a [[burlesque]] parody of.**
-- **To ridicule, or to make ludicrous by grotesque representation in [[action]] or in language.**
+- **To make a [[b/_burlesque|burlesque]] parody of.**
+- **To ridicule, or to make ludicrous by grotesque representation in [[a/_action|action]] or in language.**
 ---
 #noun
-- **An instance of [[burlesque]].**
+- **An instance of [[b/_burlesque|burlesque]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Decolorise
 ---
 #verb
-- **To remove the [[color]] from.**
-- **To lose one’s [[color]].**
+- **To remove the [[c/_color|color]] from.**
+- **To lose one’s [[c/_color|color]].**
 ---
 ---

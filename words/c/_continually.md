@@ -1,7 +1,7 @@
 # Continually
 ---
 #adverb
-- **In a [[continual]] manner; non-stop.**
+- **In a [[c/_continual|continual]] manner; non-stop.**
 - **In regular or repeated succession; very often.**
 ---
 ### Synonyms

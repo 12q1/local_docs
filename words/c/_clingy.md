@@ -1,9 +1,9 @@
 # Clingy
 ---
 #adjective
-- **Having a tendency to [[cling]].**
+- **Having a tendency to [[c/_cling|cling]].**
 	- _Example: a clingy minidress_
-- **(usually [[derogatory]]) Pathetically [[attached]] to, or possessive of someone, usually a significant other.**
+- **(usually [[d/_derogatory|derogatory]]) Pathetically [[a/_attached|attached]] to, or possessive of someone, usually a significant other.**
 	- _Example: a clingy ex-girlfriend who won't stop calling_
 ---
 ### Synonyms

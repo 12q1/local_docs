@@ -1,6 +1,6 @@
 # Consentient
 ---
 #adjective
-- **Agreeing; in [[accord]]**
+- **[[a/_agreeing|Agreeing]]; in [[a/_accord|accord]]**
 ---
 ---

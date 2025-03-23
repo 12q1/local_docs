@@ -2,19 +2,19 @@
 ---
 #noun
 - **Influence or effectiveness, especially political.**
-- **A [[blow]] with the hand.**
+- **A [[b/_blow|blow]] with the hand.**
 - **A home run.**
-- **The [[center]] of the [[butt]] at which [[archers]] shoot; probably once a piece of white [[cloth]] or a nail head.**
-- **A swaddling [[cloth]].**
-- **A [[cloth]]; a piece of [[cloth]] or leather; a patch; a rag.**
-- **An iron plate on an [[axletree]] or other wood to keep it from wearing; a washer.**
+- **The [[c/_center|center]] of the [[b/_butt|butt]] at which [[a/_archers|archers]] shoot; probably once a piece of white [[c/_cloth|cloth]] or a nail head.**
+- **A swaddling [[c/_cloth|cloth]].**
+- **A [[c/_cloth|cloth]]; a piece of [[c/_cloth|cloth]] or leather; a patch; a rag.**
+- **An iron plate on an [[a/_axletree|axletree]] or other wood to keep it from wearing; a washer.**
 - **A piece; a fragment.**
 ---
 #verb
 - **To hit, especially with the fist.**
-- **To [[cover]] with [[cloth]], leather, or other material; to [[bandage]], patch, or mend with a [[clout]].**
-- **To stud with nails, as a timber, or a [[boot]] sole.**
-- **To guard with an iron plate, as an [[axletree]].**
-- **To join or patch [[clumsily]].**
+- **To [[c/_cover|cover]] with [[c/_cloth|cloth]], leather, or other material; to [[b/_bandage|bandage]], patch, or mend with a [[c/_clout|clout]].**
+- **To stud with nails, as a timber, or a [[b/_boot|boot]] sole.**
+- **To guard with an iron plate, as an [[a/_axletree|axletree]].**
+- **To join or patch [[c/_clumsily|clumsily]].**
 ---
 ---

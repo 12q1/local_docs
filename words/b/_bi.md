@@ -1,12 +1,12 @@
 # Bi
 ---
 #noun
-- **A [[bisexual]] person.**
+- **A [[b/_bisexual|bisexual]] person.**
 ---
 ### Synonyms
 - [[bisexual]]
 #adjective
-- **Bisexual.**
+- **[[b/_bisexual|Bisexual]].**
 	- _Example: I'm straight, but my oldest sister is bi._
 ---
 ---

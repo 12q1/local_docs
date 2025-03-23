@@ -1,12 +1,12 @@
 # Circulatory
 ---
 #noun
-- **A vessel with two portions unequally exposed to heat, and with [[connecting]] pipes or passages, through which the fluid rises from the overheated portion, and [[descends]] from the relatively [[colder]], maintaining a [[circulation]].**
+- **A vessel with two portions unequally exposed to heat, and with [[c/_connecting|connecting]] pipes or passages, through which the fluid rises from the overheated portion, and [[d/_descends|descends]] from the relatively [[c/_colder|colder]], maintaining a [[c/_circulation|circulation]].**
 ---
 #adjective
-- **Of or pertaining to a [[circulation]], especially to the [[circulatory]] system.**
+- **Of or pertaining to a [[c/_circulation|circulation]], especially to the [[c/_circulatory|circulatory]] system.**
 	- _Example: circulatory diseases_
-- **Circular; going round.**
+- **[[c/_circular|Circular]]; going round.**
 	- _Example: a circulatory letter_
 ---
 ---

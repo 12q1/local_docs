@@ -1,7 +1,7 @@
 # Chemotherapy
 ---
 #noun
-- **Any [[chemical]] treatment intended to be therapeutic with respect to a disease state.**
-- **(most [[common]] usage) [[chemical]] treatment to kill or halt the replication and/or spread of [[cancerous]] [[cells]] in a patient.**
+- **[[a/_any|Any]] [[c/_chemical|chemical]] treatment intended to be therapeutic with respect to a disease state.**
+- **(most [[c/_common|common]] usage) [[c/_chemical|chemical]] treatment to kill or halt the replication and/or spread of [[c/_cancerous|cancerous]] [[c/_cells|cells]] in a patient.**
 ---
 ---

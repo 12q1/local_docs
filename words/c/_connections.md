@@ -1,21 +1,21 @@
 # Connections
 ---
 #noun
-- **The [[act]] of [[connecting]].**
-- **The point at which two or more things are [[connected]].**
+- **The [[a/_act|act]] of [[c/_connecting|connecting]].**
+- **The point at which two or more things are [[c/_connected|connected]].**
 	- _Example: My headache has no connection with me going out last night._
-- **A feeling of understanding and ease of [[communication]] [[between]] two or more people.**
+- **A feeling of understanding and ease of [[c/_communication|communication]] [[b/_between|between]] two or more people.**
 	- _Example: As we were the only people in the room to laugh at the joke, I felt a connection between us._
-- **An established [[communications]] or transportation link.**
+- **An established [[c/_communications|communications]] or transportation link.**
 	- _Example: I was talking to him, but there was lightning and we lost the connection._
-- **A transfer from one transportation vehicle to [[another]] in scheduled transportation service**
+- **A transfer from one transportation vehicle to [[a/_another|another]] in scheduled transportation service**
 	- _Example: The bus was late so he missed his connection at Penn Station and had to wait six hours for the next train._
-- **A kinship relationship [[between]] people.**
-- **An individual who is related to oneself, through either family or [[business]].**
+- **A kinship relationship [[b/_between|between]] people.**
+- **An individual who is related to oneself, through either family or [[b/_business|business]].**
 	- _Example: I have some connections in Lancashire._
-- **A set of sets that [[contains]] the empty set, [[all]] one-element sets for [[any]] element that is included in [[any]] of the sets, and the union of [[any]] group of sets that are elements where the intersections of those sets is non-empty.**
-- **Coherence; lack of disjointedness**
-- **The [[description]] for a Methodist [[denomination]] as a whole, as opposed to its [[constituent]] [[churches]], [[circuits]], districts and [[conferences]].**
+- **A set of sets that [[c/_contains|contains]] the empty set, [[a/_all|all]] one-element sets for [[a/_any|any]] element that is included in [[a/_any|any]] of the sets, and the union of [[a/_any|any]] group of sets that are elements where the intersections of those sets is non-empty.**
+- **[[c/_coherence|Coherence]]; lack of disjointedness**
+- **The [[d/_description|description]] for a Methodist [[d/_denomination|denomination]] as a whole, as opposed to its [[c/_constituent|constituent]] [[c/_churches|churches]], [[c/_circuits|circuits]], districts and [[c/_conferences|conferences]].**
 - **Sexual intercourse**
 ---
 ---

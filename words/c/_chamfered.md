@@ -1,8 +1,8 @@
 # Chamfered
 ---
 #verb
-- **To [[cut]] off the edge or [[corner]] of something.**
-- **To [[cut]] a groove in something.**
+- **To [[c/_cut|cut]] off the edge or [[c/_corner|corner]] of something.**
+- **To [[c/_cut|cut]] a groove in something.**
 ---
 ### Synonyms
 - [[bevel]], [[flute]]

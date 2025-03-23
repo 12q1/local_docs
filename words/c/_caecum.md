@@ -1,7 +1,7 @@
 # Caecum
 ---
 #noun
-- **A [[blind]] pouch [[connected]] to the large intestine [[between]] the ileum and the [[colon]].**
+- **A [[b/_blind|blind]] pouch [[c/_connected|connected]] to the large intestine [[b/_between|between]] the ileum and the [[c/_colon|colon]].**
 ---
 ### Synonyms
 - [[blind gut]]

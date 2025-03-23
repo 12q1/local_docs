@@ -1,6 +1,6 @@
 # Angiomas
 ---
 #noun
-- **A [[benign]] tumor made up of small [[blood]] vessels or lymph vessels.**
+- **A [[b/_benign|benign]] tumor made up of small [[b/_blood|blood]] vessels or lymph vessels.**
 ---
 ---

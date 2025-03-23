@@ -1,7 +1,7 @@
 # Axolotls
 ---
 #noun
-- **A [[critically]] endangered salamander found in the elevated lakes of Mexico, Ambystoma mexicanum.**
+- **A [[c/_critically|critically]] endangered salamander found in the elevated lakes of Mexico, [[a/_ambystoma|Ambystoma]] mexicanum.**
 ---
 ### Synonyms
 - [[Mexican walking fish]]

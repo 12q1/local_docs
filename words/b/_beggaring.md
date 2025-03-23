@@ -1,7 +1,7 @@
 # Beggaring
 ---
 #verb
-- **To make a [[beggar]] of someone; impoverish.**
+- **To make a [[b/_beggar|beggar]] of someone; impoverish.**
 - **To exhaust the resources of; to outdo.**
 ---
 ### Synonyms

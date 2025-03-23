@@ -1,13 +1,13 @@
 # Acoustic
 ---
 #noun
-- **A medicine or other [[agent]] to [[assist]] hearing.**
+- **A medicine or other [[a/_agent|agent]] to [[a/_assist|assist]] hearing.**
 ---
 #adjective
-- **Pertaining to the sense of hearing, the organs of hearing, or the science of sounds; [[auditory]].**
-- **Naturally producing or produced by an instrument without electrical [[amplification]], as an [[acoustic]] guitar or [[acoustic]] piano.**
+- **Pertaining to the sense of hearing, the organs of hearing, or the science of sounds; [[a/_auditory|auditory]].**
+- **Naturally producing or produced by an instrument without electrical [[a/_amplification|amplification]], as an [[a/_acoustic|acoustic]] guitar or [[a/_acoustic|acoustic]] piano.**
 ---
 #noun
-- **(retronym) A hollow-[[body]] guitar of the older variety, in [[contradistinction]] to an electric guitar.**
+- **(retronym) A hollow-[[b/_body|body]] guitar of the older variety, in [[c/_contradistinction|contradistinction]] to an electric guitar.**
 ---
 ---

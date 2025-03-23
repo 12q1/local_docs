@@ -1,7 +1,7 @@
 # Birchbark
 ---
 #noun
-- **The [[bark]] of the [[birch]] tree, especially the white [[bark]] of the paper [[birch]], Betula papyrifera.**
-- **A piece of this [[bark]], formerly used for writing on.**
+- **The [[b/_bark|bark]] of the [[b/_birch|birch]] tree, especially the white [[b/_bark|bark]] of the paper [[b/_birch|birch]], [[b/_betula|Betula]] papyrifera.**
+- **A piece of this [[b/_bark|bark]], formerly used for writing on.**
 ---
 ---

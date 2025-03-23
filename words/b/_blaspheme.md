@@ -1,14 +1,14 @@
 # Blaspheme
 ---
 #verb
-- **To [[commit]] [[blasphemy]]; to speak [[against]] God or religious doctrine.**
-- **To speak of, or [[address]], with impious irreverence; to revile impiously ([[anything]] sacred).**
-- **To [[calumniate]]; to revile; to [[abuse]].**
+- **To [[c/_commit|commit]] [[b/_blasphemy|blasphemy]]; to speak [[a/_against|against]] God or religious doctrine.**
+- **To speak of, or [[a/_address|address]], with impious irreverence; to revile impiously ([[a/_anything|anything]] sacred).**
+- **To [[c/_calumniate|calumniate]]; to revile; to [[a/_abuse|abuse]].**
 ---
 #noun
-- **An [[act]] of irreverence or [[contempt]] toward a god or toward something [[considered]] sacred; an impious [[act]], utterance, view, etc.**
+- **An [[a/_act|act]] of irreverence or [[c/_contempt|contempt]] toward a god or toward something [[c/_considered|considered]] sacred; an impious [[a/_act|act]], utterance, view, etc.**
 	- _Example: That imam said that drawing the prophet Muhammad is a form of blasphemy._
-- **(by extension) An [[act]] of irreverence towards [[anything]] [[considered]] inviolable; the [[act]] of disregarding a [[convention]].**
+- **(by extension) An [[a/_act|act]] of irreverence towards [[a/_anything|anything]] [[c/_considered|considered]] inviolable; the [[a/_act|act]] of disregarding a [[c/_convention|convention]].**
 ---
 ### Synonyms
 - [[cursing]], [[cussing]], [[execration]], [[imprecation]], [[profanity]], [[swearing]], [[desecration]], [[profanation]], [[sacrilege]], [[violation]]

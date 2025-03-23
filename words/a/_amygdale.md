@@ -1,6 +1,6 @@
 # Amygdale
 ---
 #noun
-- **An [[almond]]-shaped inclusion in igneous rock or lava**
+- **An [[a/_almond|almond]]-shaped inclusion in igneous rock or lava**
 ---
 ---

@@ -2,6 +2,6 @@
 ---
 #noun
 - **Good wishes, love.**
-- **An utterance of [[aloha]] (see Interjection, [[below]]).**
+- **An utterance of [[a/_aloha|aloha]] (see Interjection, [[b/_below|below]]).**
 ---
 ---

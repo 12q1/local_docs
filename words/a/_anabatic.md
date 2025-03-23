@@ -1,8 +1,8 @@
 # Anabatic
 ---
 #adjective
-- **(of a warm [[air]] [[current]]) rising (up a slope)**
-- **Of or pertaining to [[anabasis]]**
+- **(of a warm [[a/_air|air]] [[c/_current|current]]) rising (up a slope)**
+- **Of or pertaining to [[a/_anabasis|anabasis]]**
 ---
 ### Antonyms
 - [[katabatic]]

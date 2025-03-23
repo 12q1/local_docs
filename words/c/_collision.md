@@ -1,9 +1,9 @@
 # Collision
 ---
 #noun
-- **An instance of [[colliding]].**
+- **An instance of [[c/_colliding|colliding]].**
 ---
 #noun
-- **An error [[caused]] by two source [[code]] elements (such as variables or functions) having the same name as each other.**
+- **An error [[c/_caused|caused]] by two source [[c/_code|code]] elements (such as variables or functions) having the same name as each other.**
 ---
 ---

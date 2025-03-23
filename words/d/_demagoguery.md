@@ -1,7 +1,7 @@
 # Demagoguery
 ---
 #noun
-- **The [[actions]] of a [[demagogue]].**
-- **Rhetoric that [[appeals]] to the prejudices of the people.**
+- **The [[a/_actions|actions]] of a [[d/_demagogue|demagogue]].**
+- **Rhetoric that [[a/_appeals|appeals]] to the prejudices of the people.**
 ---
 ---

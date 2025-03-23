@@ -1,7 +1,7 @@
 # Anamnestic
 ---
 #adjective
-- **That [[aids]] memory; mnemonic**
-- **Of or pertaining to [[anamnesis]]**
+- **That [[a/_aids|aids]] memory; mnemonic**
+- **Of or pertaining to [[a/_anamnesis|anamnesis]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Boletus
 ---
 #noun
-- **An edible mushroom of genus Boletus.**
+- **An edible mushroom of genus [[b/_boletus|Boletus]].**
 ---
 ### Synonyms
 - [[bolete]], [[cep]], [[porcini]]

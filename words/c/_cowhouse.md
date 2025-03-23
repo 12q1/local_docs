@@ -1,7 +1,7 @@
 # Cowhouse
 ---
 #noun
-- **A house or [[barn]] for keeping [[cows]].**
+- **A house or [[b/_barn|barn]] for keeping [[c/_cows|cows]].**
 ---
 ### Synonyms
 - [[cowshed]]

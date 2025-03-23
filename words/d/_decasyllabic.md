@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Having ten syllables.**
-- **Composed of [[decasyllables]].**
+- **[[c/_composed|Composed]] of [[d/_decasyllables|decasyllables]].**
 ---
 ---

@@ -1,10 +1,10 @@
 # Claustrophobic
 ---
 #noun
-- **Someone with [[claustrophobia]]**
+- **Someone with [[c/_claustrophobia|claustrophobia]]**
 ---
 #adjective
-- **Suffering from [[claustrophobia]]; [[being]] scared of [[being]] enclosed in a [[confined]] space.**
-- **Cramped and [[confined]], so as to induce [[claustrophobia]].**
+- **Suffering from [[c/_claustrophobia|claustrophobia]]; [[b/_being|being]] scared of [[b/_being|being]] enclosed in a [[c/_confined|confined]] space.**
+- **[[c/_cramped|Cramped]] and [[c/_confined|confined]], so as to induce [[c/_claustrophobia|claustrophobia]].**
 ---
 ---

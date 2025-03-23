@@ -1,7 +1,7 @@
 # Bullhorns
 ---
 #noun
-- **A megaphone which electronically [[amplifies]] a person’s natural voice.**
+- **A megaphone which electronically [[a/_amplifies|amplifies]] a person’s natural voice.**
 ---
 ### Synonyms
 - [[blowhorn]], [[loudhailer]]

@@ -1,6 +1,6 @@
 # Componentry
 ---
 #noun
-- **Components generally**
+- **[[c/_components|Components]] generally**
 ---
 ---

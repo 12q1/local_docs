@@ -1,34 +1,34 @@
 # Cloud
 ---
 #noun
-- **A rock; [[boulder]]; a hill.**
-- **A visible mass of water droplets suspended in the [[air]].**
-- **Any mass of dust, steam or smoke resembling such a mass.**
-- **Anything which makes things foggy or gloomy.**
-- **Anything unsubstantial.**
-- **A [[dark]] spot on a lighter material or [[background]].**
-- **A group or swarm, especially suspended [[above]] the ground or flying.**
+- **A rock; [[b/_boulder|boulder]]; a hill.**
+- **A visible mass of water droplets suspended in the [[a/_air|air]].**
+- **[[a/_any|Any]] mass of dust, steam or smoke resembling such a mass.**
+- **[[a/_anything|Anything]] which makes things foggy or gloomy.**
+- **[[a/_anything|Anything]] unsubstantial.**
+- **A [[d/_dark|dark]] spot on a lighter material or [[b/_background|background]].**
+- **A group or swarm, especially suspended [[a/_above|above]] the ground or flying.**
 	- _Example: He opened the door and was greeted by a cloud of bats._
-- **An elliptical shape or symbol whose outline is a series of semicircles, supposed to resemble a [[cloud]].**
+- **An elliptical shape or symbol whose outline is a series of semicircles, supposed to resemble a [[c/_cloud|cloud]].**
 	- _Example: The comic-book character's thoughts appeared in a cloud above his head._
-- **(with "the") The Internet, regarded as an [[abstract]] [[amorphous]] omnipresent space for processing and storage, the focus of [[cloud]] [[computing]].**
-- **A negative or foreboding [[aspect]] of something positive: see every [[cloud]] has a silver lining or every silver lining has a [[cloud]].**
-- **Crystal methamphetamine.**
+- **(with "the") The Internet, regarded as an [[a/_abstract|abstract]] [[a/_amorphous|amorphous]] omnipresent space for processing and storage, the focus of [[c/_cloud|cloud]] [[c/_computing|computing]].**
+- **A negative or foreboding [[a/_aspect|aspect]] of something positive: see every [[c/_cloud|cloud]] has a silver lining or every silver lining has a [[c/_cloud|cloud]].**
+- **[[c/_crystal|Crystal]] methamphetamine.**
 - **A large, loosely-knitted headscarf worn by women.**
 ---
 #verb
-- **To [[become]] foggy or gloomy, or obscured from sight.**
+- **To [[b/_become|become]] foggy or gloomy, or obscured from sight.**
 	- _Example: The glass clouds when you breathe on it._
-- **To overspread or hide with a [[cloud]] or [[clouds]].**
+- **To overspread or hide with a [[c/_cloud|cloud]] or [[c/_clouds|clouds]].**
 	- _Example: The sky is clouded._
 - **To make obscure.**
 	- _Example: All this talk about human rights is clouding the real issue._
-- **To make less [[acute]] or perceptive.**
+- **To make less [[a/_acute|acute]] or perceptive.**
 	- _Example: The tears began to well up and cloud my vision._
 - **To make gloomy or sullen.**
-- **To [[blacken]]; to sully; to stain; to tarnish (reputation or [[character]]).**
-- **To mark with, or [[darken]] in, veins or sports; to variegate with [[colors]].**
+- **To [[b/_blacken|blacken]]; to sully; to stain; to tarnish (reputation or [[c/_character|character]]).**
+- **To mark with, or [[d/_darken|darken]] in, veins or sports; to variegate with [[c/_colors|colors]].**
 	- _Example: to cloud yarn_
-- **To [[become]] marked, [[darkened]] or variegated in this way.**
+- **To [[b/_become|become]] marked, [[d/_darkened|darkened]] or variegated in this way.**
 ---
 ---

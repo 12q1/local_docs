@@ -1,6 +1,6 @@
 # Bluegrass
 ---
 #noun
-- **Kentucky [[bluegrass]], Poa pratensis.**
+- **Kentucky [[b/_bluegrass|bluegrass]], Poa pratensis.**
 ---
 ---

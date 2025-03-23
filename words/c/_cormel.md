@@ -1,6 +1,6 @@
 # Cormel
 ---
 #noun
-- **A small [[corm]] that develops at the [[base]] of an existing [[corm]].**
+- **A small [[c/_corm|corm]] that develops at the [[b/_base|base]] of an existing [[c/_corm|corm]].**
 ---
 ---

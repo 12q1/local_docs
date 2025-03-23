@@ -1,6 +1,6 @@
 # Artistically
 ---
 #adverb
-- **In an [[artistic]] manner.**
+- **In an [[a/_artistic|artistic]] manner.**
 ---
 ---

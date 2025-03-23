@@ -1,6 +1,6 @@
 # Dearie
 ---
 #noun
-- **([[chiefly]] as a term of [[address]]) A person who is [[dear]]; sweetie.**
+- **([[c/_chiefly|chiefly]] as a term of [[a/_address|address]]) A person who is [[d/_dear|dear]]; sweetie.**
 ---
 ---

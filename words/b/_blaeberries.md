@@ -1,6 +1,6 @@
 # Blaeberries
 ---
 #noun
-- **The [[bilberry]], Vaccinium myrtillus.**
+- **The [[b/_bilberry|bilberry]], Vaccinium myrtillus.**
 ---
 ---

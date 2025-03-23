@@ -1,16 +1,16 @@
 # Consummate
 ---
 #verb
-- **To [[bring]] (a task, project, goal etc.) to [[completion]]; to [[accomplish]].**
-- **To make perfect, [[achieve]], give the finishing touch.**
-- **To make (a marriage) [[complete]] by engaging in first sexual intercourse.**
+- **To [[b/_bring|bring]] (a task, project, goal etc.) to [[c/_completion|completion]]; to [[a/_accomplish|accomplish]].**
+- **To make perfect, [[a/_achieve|achieve]], give the finishing touch.**
+- **To make (a marriage) [[c/_complete|complete]] by engaging in first sexual intercourse.**
 	- _Example: After the reception, he escorted her to the honeymoon suite to consummate their marriage._
-- **To [[become]] perfected, receive the finishing touch.**
+- **To [[b/_become|become]] perfected, receive the finishing touch.**
 ---
 ### Synonyms
 - [[come to a head]], [[mature]], [[ripe]], [[complete]], [[finish]], [[round off]], [[complete]], [[perfect]], [[top off]]
 #adjective
-- **Complete in every [[detail]], perfect, [[absolute]].**
+- **[[c/_complete|Complete]] in every [[d/_detail|detail]], perfect, [[a/_absolute|absolute]].**
 - **Highly skilled and experienced; fully qualified.**
 	- _Example: a consummate sergeant_
 ---

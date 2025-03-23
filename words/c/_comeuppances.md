@@ -1,7 +1,7 @@
 # Comeuppances
 ---
 #noun
-- **Retribution which is justly [[deserved]].**
+- **Retribution which is justly [[d/_deserved|deserved]].**
 ---
 ### Synonyms
 - [[just deserts]]

@@ -1,8 +1,8 @@
 # Chunked
 ---
 #verb
-- **To [[break]] into large pieces or [[chunks]].**
-- **To [[break]] down (language, etc.) into [[conceptual]] pieces of manageable size.**
+- **To [[b/_break|break]] into large pieces or [[c/_chunks|chunks]].**
+- **To [[b/_break|break]] down (language, etc.) into [[c/_conceptual|conceptual]] pieces of manageable size.**
 - **To throw.**
 ---
 ---

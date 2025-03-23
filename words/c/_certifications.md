@@ -1,8 +1,8 @@
 # Certifications
 ---
 #noun
-- **The [[act]] of [[certifying]].**
-- **The granting of a [[certificate]].**
-- **A professional qualification that [[certifies]] a person's [[ability]].**
+- **The [[a/_act|act]] of [[c/_certifying|certifying]].**
+- **The granting of a [[c/_certificate|certificate]].**
+- **A professional qualification that [[c/_certifies|certifies]] a person's [[a/_ability|ability]].**
 ---
 ---

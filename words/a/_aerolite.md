@@ -1,6 +1,6 @@
 # Aerolite
 ---
 #noun
-- **A meteorite [[consisting]] of silicate minerals**
+- **A meteorite [[c/_consisting|consisting]] of silicate minerals**
 ---
 ---

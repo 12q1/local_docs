@@ -1,7 +1,7 @@
 # Apollonian
 ---
 #adjective
-- **Clear, harmonious, and restrained.**
+- **[[c/_clear|Clear]], harmonious, and restrained.**
 ---
 ### Antonyms
 - [[dionysian]]

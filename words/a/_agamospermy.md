@@ -1,7 +1,7 @@
 # Agamospermy
 ---
 #noun
-- **The [[asexual]] production of embryos and seeds.**
+- **The [[a/_asexual|asexual]] production of embryos and seeds.**
 ---
 ### Synonyms
 - [[apomixis]]

@@ -1,6 +1,6 @@
 # Curmudgeonly
 ---
 #adjective
-- **Characteristic of a [[curmudgeon]]; [[churlish]]**
+- **[[c/_characteristic|Characteristic]] of a [[c/_curmudgeon|curmudgeon]]; [[c/_churlish|churlish]]**
 ---
 ---

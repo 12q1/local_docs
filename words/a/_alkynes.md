@@ -1,6 +1,6 @@
 # Alkynes
 ---
 #noun
-- **A hydrocarbon [[containing]] at least one [[carbon]]–[[carbon]] triple [[bond]].**
+- **A hydrocarbon [[c/_containing|containing]] at least one [[c/_carbon|carbon]]–[[c/_carbon|carbon]] triple [[b/_bond|bond]].**
 ---
 ---

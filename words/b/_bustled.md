@@ -1,15 +1,15 @@
 # Bustled
 ---
 #verb
-- **To move [[busily]] and energetically with fussiness (often followed by [[about]]).**
+- **To move [[b/_busily|busily]] and energetically with fussiness (often followed by [[a/_about|about]]).**
 	- _Example: The commuters bustled about inside the train station._
-- **To teem or [[abound]] (usually followed by with); to exhibit an energetic and [[active]] [[abundance]] (of a thing).**
+- **To teem or [[a/_abound|abound]] (usually followed by with); to exhibit an energetic and [[a/_active|active]] [[a/_abundance|abundance]] (of a thing).**
 	- _Example: The train station was bustling with commuters._
 ---
 ### Synonyms
 - [[abound]], [[brim]], [[bristle]], [[burst]], [[crawl]], [[swell]], [[teem]], [[flit]], [[hustle]], [[scamper]], [[scurry]]
 #adjective
-- **Having a [[bustle]], as [[clothing]].**
+- **Having a [[b/_bustle|bustle]], as [[c/_clothing|clothing]].**
 	- _Example: a bustled dress_
 ---
 ---

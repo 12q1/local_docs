@@ -1,7 +1,7 @@
 # Darky
 ---
 #noun
-- **A person with [[dark]] skin.**
-- **A [[dark]] lantern.**
+- **A person with [[d/_dark|dark]] skin.**
+- **A [[d/_dark|dark]] lantern.**
 ---
 ---

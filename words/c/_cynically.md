@@ -1,6 +1,6 @@
 # Cynically
 ---
 #adverb
-- **In a [[cynical]] manner**
+- **In a [[c/_cynical|cynical]] manner**
 ---
 ---

@@ -1,7 +1,7 @@
 # Bittiest
 ---
 #adjective
-- **Containing [[bits]]; fragmented.**
+- **[[c/_containing|Containing]] [[b/_bits|bits]]; fragmented.**
 - **Very small.**
 ---
 ---

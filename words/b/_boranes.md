@@ -1,6 +1,6 @@
 # Boranes
 ---
 #noun
-- **Any [[binary]] [[compound]] of [[boron]] and hydrogen.**
+- **[[a/_any|Any]] [[b/_binary|binary]] [[c/_compound|compound]] of [[b/_boron|boron]] and hydrogen.**
 ---
 ---

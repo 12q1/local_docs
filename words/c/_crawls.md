@@ -1,27 +1,27 @@
 # Crawls
 ---
 #noun
-- **The [[act]] of moving slowly on hands and knees etc, or with frequent stops.**
-- **A rapid swimming stroke with [[alternate]] overarm strokes and a fluttering kick.**
+- **The [[a/_act|act]] of moving slowly on hands and knees etc, or with frequent stops.**
+- **A rapid swimming stroke with [[a/_alternate|alternate]] overarm strokes and a fluttering kick.**
 - **A very slow pace.**
 	- _Example: My computer has slowed down to a crawl since I installed that software package._
 - **A piece of horizontally or vertically scrolling text overlaid on the main image.**
 ---
 #verb
-- **To [[creep]]; to move slowly on hands and knees, or by dragging the [[body]] [[along]] the ground.**
+- **To [[c/_creep|creep]]; to move slowly on hands and knees, or by dragging the [[b/_body|body]] [[a/_along|along]] the ground.**
 	- _Example: Clutching my wounded side, I crawled back to the trench._
 - **To move forward slowly, with frequent stops.**
 	- _Example: The rush-hour traffic crawled around the bypass._
-- **To [[act]] in a servile manner.**
+- **To [[a/_act|act]] in a servile manner.**
 	- _Example: Don't come crawling to me with your useless apologies!_
-- **(with "with") See [[crawl]] with.**
+- **(with "with") See [[c/_crawl|crawl]] with.**
 - **To feel a swarming sensation.**
 	- _Example: The horrible sight made my skin crawl._
-- **To swim using the [[crawl]] stroke.**
+- **To swim using the [[c/_crawl|crawl]] stroke.**
 	- _Example: I think I'll crawl the next hundred metres._
-- **To move over an [[area]] on hands and knees.**
+- **To move over an [[a/_area|area]] on hands and knees.**
 	- _Example: The baby crawled the entire second floor._
-- **To visit while [[becoming]] inebriated.**
+- **To visit while [[b/_becoming|becoming]] inebriated.**
 	- _Example: They crawled the downtown bars._
 - **To visit files or web sites in order to index them for searching.**
 	- _Example: Yahoo Search has updated its Slurp Crawler to crawl web sites faster and more efficiently._

@@ -1,6 +1,6 @@
 # Blockaded
 ---
 #verb
-- **To [[create]] a [[blockade]] [[against]].**
+- **To [[c/_create|create]] a [[b/_blockade|blockade]] [[a/_against|against]].**
 ---
 ---

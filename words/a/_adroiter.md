@@ -1,7 +1,7 @@
 # Adroiter
 ---
 #adjective
-- **Deft, dexterous, or skillful.**
+- **[[d/_deft|Deft]], dexterous, or skillful.**
 ---
 ### Antonyms
 - [[clumsy]], [[maladroit]]

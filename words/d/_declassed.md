@@ -1,7 +1,7 @@
 # Declassed
 ---
 #verb
-- **To lower the [[class]] or social standing of.**
-- **To remove from a [[class]].**
+- **To lower the [[c/_class|class]] or social standing of.**
+- **To remove from a [[c/_class|class]].**
 ---
 ---

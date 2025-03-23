@@ -1,7 +1,7 @@
 # Bagasse
 ---
 #noun
-- **The residue from processing sugar [[cane]] [[after]] the juice is extracted.**
+- **The residue from processing sugar [[c/_cane|cane]] [[a/_after|after]] the juice is extracted.**
 ---
 ### Synonyms
 - [[megass]], [[megasse]]

@@ -7,6 +7,6 @@
 ### Synonyms
 - [[guffaw]]
 #adjective
-- **Cackling, laughing.**
+- **[[c/_cackling|Cackling]], laughing.**
 ---
 ---

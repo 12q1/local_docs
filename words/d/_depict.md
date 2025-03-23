@@ -6,6 +6,6 @@
 ### Synonyms
 - [[depicture]], [[describe]], [[draw]], [[exhibit]], [[express]], [[portray]], [[register]], [[render]], [[show]], [[visualise]]
 #adjective
-- **Depicted.**
+- **[[d/_depicted|Depicted]].**
 ---
 ---

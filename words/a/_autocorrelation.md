@@ -1,6 +1,6 @@
 # Autocorrelation
 ---
 #noun
-- **The [[cross]]-[[correlation]] of a signal with itself: the [[correlation]] [[between]] values of a signal in successive time periods.**
+- **The [[c/_cross|cross]]-[[c/_correlation|correlation]] of a signal with itself: the [[c/_correlation|correlation]] [[b/_between|between]] values of a signal in successive time periods.**
 ---
 ---

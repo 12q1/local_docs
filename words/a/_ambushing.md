@@ -1,10 +1,10 @@
 # Ambushing
 ---
 #verb
-- **To station in [[ambush]] with a view to surprise an enemy.**
-- **To [[attack]] by [[ambush]]; to waylay.**
+- **To station in [[a/_ambush|ambush]] with a view to surprise an enemy.**
+- **To [[a/_attack|attack]] by [[a/_ambush|ambush]]; to waylay.**
 ---
 #noun
-- **An [[ambush]].**
+- **An [[a/_ambush|ambush]].**
 ---
 ---

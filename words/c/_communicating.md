@@ -5,7 +5,7 @@
 - **To share**
 ---
 #adjective
-- **Allowing people to pass directly [[between]] two rooms.**
+- **[[a/_allowing|Allowing]] people to pass directly [[b/_between|between]] two rooms.**
 	- _Example: Our rooms are connected by a secret communicating passage._
 ---
 ---

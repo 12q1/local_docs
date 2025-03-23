@@ -1,11 +1,11 @@
 # Crimes
 ---
 #noun
-- **A specific [[act]] [[committed]] in violation of the law.**
-- **Any great sin or wickedness; iniquity.**
-- **That which occasions [[crime]].**
-- **Criminal [[acts]] [[collectively]].**
-- **The habit or practice of [[committing]] [[crimes]].**
+- **A specific [[a/_act|act]] [[c/_committed|committed]] in violation of the law.**
+- **[[a/_any|Any]] great sin or wickedness; iniquity.**
+- **That which occasions [[c/_crime|crime]].**
+- **[[c/_criminal|Criminal]] [[a/_acts|acts]] [[c/_collectively|collectively]].**
+- **The habit or practice of [[c/_committing|committing]] [[c/_crimes|crimes]].**
 	- _Example: Crime doesn’t pay._
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Carbonizes
 ---
 #verb
-- **To turn something to [[carbon]], especially by heating it; to scorch or [[blacken]].**
-- **To react something with [[carbon]].**
+- **To turn something to [[c/_carbon|carbon]], especially by heating it; to scorch or [[b/_blacken|blacken]].**
+- **To react something with [[c/_carbon|carbon]].**
 ---
 ---

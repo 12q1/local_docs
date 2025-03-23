@@ -1,11 +1,11 @@
 # Crinite
 ---
 #noun
-- **A fossil [[crinoid]].**
+- **A fossil [[c/_crinoid|crinoid]].**
 ---
 #adjective
-- **Having the [[appearance]] of a tuft of hair.**
+- **Having the [[a/_appearance|appearance]] of a tuft of hair.**
 - **Having a hair-like tail or train.**
-- **Bearded or tufted with hairs.**
+- **[[b/_bearded|Bearded]] or tufted with hairs.**
 ---
 ---

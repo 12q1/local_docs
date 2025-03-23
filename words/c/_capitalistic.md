@@ -1,8 +1,8 @@
 # Capitalistic
 ---
 #adjective
-- **Of or pertaining to [[capitalism]] or to [[capitalists]].**
-- **Organised on a [[capitalist]] [[basis]].**
+- **Of or pertaining to [[c/_capitalism|capitalism]] or to [[c/_capitalists|capitalists]].**
+- **Organised on a [[c/_capitalist|capitalist]] [[b/_basis|basis]].**
 ---
 ### Synonyms
 - [[capitalist]]

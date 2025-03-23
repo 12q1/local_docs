@@ -1,7 +1,7 @@
 # Cultigen
 ---
 #noun
-- **A plant that has [[been]] [[deliberately]] [[altered]] or selected by humans, that is it has resulted from [[artificial]] rather than natural selection.**
+- **A plant that has [[b/_been|been]] [[d/_deliberately|deliberately]] [[a/_altered|altered]] or selected by humans, that is it has resulted from [[a/_artificial|artificial]] rather than natural selection.**
 ---
 ### Synonyms
 - [[anthropogenic plant]]

@@ -1,6 +1,6 @@
 # Demineralized
 ---
 #adjective
-- **From which [[all]] minerals have [[been]] removed.**
+- **From which [[a/_all|all]] minerals have [[b/_been|been]] removed.**
 ---
 ---

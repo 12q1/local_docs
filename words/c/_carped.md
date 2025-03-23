@@ -1,8 +1,8 @@
 # Carped
 ---
 #verb
-- **To [[complain]] [[about]] a fault; to harp on.**
+- **To [[c/_complain|complain]] [[a/_about|about]] a fault; to harp on.**
 - **To say; to tell.**
-- **To find fault with; to [[censure]].**
+- **To find fault with; to [[c/_censure|censure]].**
 ---
 ---

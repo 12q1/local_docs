@@ -1,6 +1,6 @@
 # Biriani
 ---
 #noun
-- **A spiced dish of rice, [[blended]] with meat and/or vegetables.**
+- **A spiced dish of rice, [[b/_blended|blended]] with meat and/or vegetables.**
 ---
 ---

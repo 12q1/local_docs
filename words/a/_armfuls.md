@@ -1,6 +1,6 @@
 # Armfuls
 ---
 #noun
-- **The [[amount]] an [[arm]] or [[arms]] [[can]] hold.**
+- **The [[a/_amount|amount]] an [[a/_arm|arm]] or [[a/_arms|arms]] [[c/_can|can]] hold.**
 ---
 ---

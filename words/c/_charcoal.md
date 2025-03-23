@@ -1,17 +1,17 @@
 # Charcoal
 ---
 #noun
-- **Impure [[carbon]] obtained by [[destructive]] distillation of wood or other organic matter, that is to say, heating it in the [[absence]] of oxygen.**
-- **A stick of [[black]] [[carbon]] material used for drawing.**
-- **A drawing made with [[charcoal]].**
-- **A very [[dark]] gray [[colour]].**
+- **Impure [[c/_carbon|carbon]] obtained by [[d/_destructive|destructive]] distillation of wood or other organic matter, that is to say, heating it in the [[a/_absence|absence]] of oxygen.**
+- **A stick of [[b/_black|black]] [[c/_carbon|carbon]] material used for drawing.**
+- **A drawing made with [[c/_charcoal|charcoal]].**
+- **A very [[d/_dark|dark]] gray [[c/_colour|colour]].**
 ---
 #verb
-- **To draw with [[charcoal]].**
-- **To [[cook]] over [[charcoal]].**
+- **To draw with [[c/_charcoal|charcoal]].**
+- **To [[c/_cook|cook]] over [[c/_charcoal|charcoal]].**
 ---
 #adjective
-- **Of a [[dark]] gray [[colour]].**
-- **Made of [[charcoal]].**
+- **Of a [[d/_dark|dark]] gray [[c/_colour|colour]].**
+- **Made of [[c/_charcoal|charcoal]].**
 ---
 ---

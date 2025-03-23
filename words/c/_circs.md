@@ -1,15 +1,15 @@
 # Circs
 ---
 #noun
-- **An [[amphitheatrical]] [[circle]] for sports; a [[circus]].**
+- **An [[a/_amphitheatrical|amphitheatrical]] [[c/_circle|circle]] for sports; a [[c/_circus|circus]].**
 ---
 #noun
-- **Circumcision.**
+- **[[c/_circumcision|Circumcision]].**
 ---
 #verb
-- **To [[circumcise]].**
+- **To [[c/_circumcise|circumcise]].**
 ---
 #noun
-- **Circumstances.**
+- **[[c/_circumstances|Circumstances]].**
 ---
 ---

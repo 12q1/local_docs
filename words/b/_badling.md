@@ -2,6 +2,6 @@
 ---
 #noun
 - **An effeminate or womanish man.**
-- **One who is [[bad]]; a worthless person.**
+- **One who is [[b/_bad|bad]]; a worthless person.**
 ---
 ---

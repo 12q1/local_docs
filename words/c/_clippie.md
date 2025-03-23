@@ -1,6 +1,6 @@
 # Clippie
 ---
 #noun
-- **A female [[bus]] [[conductor]].**
+- **A female [[b/_bus|bus]] [[c/_conductor|conductor]].**
 ---
 ---

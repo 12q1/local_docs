@@ -1,6 +1,6 @@
 # Customizable
 ---
 #adjective
-- **Able to be [[customized]].**
+- **[[a/_able|Able]] to be [[c/_customized|customized]].**
 ---
 ---

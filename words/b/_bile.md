@@ -1,9 +1,9 @@
 # Bile
 ---
 #noun
-- **A [[bitter]] [[brownish]]-yellow or greenish-yellow secretion produced by the liver, stored in the gall [[bladder]], and discharged into the duodenum where it [[aids]] the process of digestion.**
-- **Bitterness of temper; ill humour; irascibility.**
-- **Two of the four humours, [[black]] [[bile]] or yellow [[bile]], in [[ancient]] and medieval physiology.**
+- **A [[b/_bitter|bitter]] [[b/_brownish|brownish]]-yellow or greenish-yellow secretion produced by the liver, stored in the gall [[b/_bladder|bladder]], and discharged into the duodenum where it [[a/_aids|aids]] the process of digestion.**
+- **[[b/_bitterness|Bitterness]] of temper; ill humour; irascibility.**
+- **Two of the four humours, [[b/_black|black]] [[b/_bile|bile]] or yellow [[b/_bile|bile]], in [[a/_ancient|ancient]] and medieval physiology.**
 ---
 ### Synonyms
 - [[gall]]

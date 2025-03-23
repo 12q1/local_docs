@@ -1,10 +1,10 @@
 # Admittance
 ---
 #noun
-- **The [[act]] of [[admitting]].**
+- **The [[a/_act|act]] of [[a/_admitting|admitting]].**
 - **Permission to enter, the power or right of entrance.**
-- **Actual entrance, reception.**
-- **The [[act]] of giving possession of a [[copyhold]] estate.**
+- **[[a/_actual|Actual]] entrance, reception.**
+- **The [[a/_act|act]] of giving possession of a [[c/_copyhold|copyhold]] estate.**
 - **The reciprocal of impedance**
 ---
 ### Synonyms

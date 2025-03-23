@@ -1,9 +1,9 @@
 # Bushier
 ---
 #adjective
-- **Like a [[bush]] in having many widely spread [[branches]].**
+- **Like a [[b/_bush|bush]] in having many widely spread [[b/_branches|branches]].**
 	- _Example: the bushy tail of a squirrel_
 - **Growing thickly.**
-- **(Racial slur) Derogatory word used to refer to Afro-textured Hair.**
+- **(Racial slur) [[d/_derogatory|Derogatory]] word used to refer to [[a/_afro|Afro]]-textured Hair.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Concordant
 ---
 #adjective
-- **Agreeing or harmonious; [[consistent]] (with).**
-- **Intruding parallel to the [[bedding]].**
+- **[[a/_agreeing|Agreeing]] or harmonious; [[c/_consistent|consistent]] (with).**
+- **Intruding parallel to the [[b/_bedding|bedding]].**
 - **Preserving the sign.**
 ---
 ### Synonyms

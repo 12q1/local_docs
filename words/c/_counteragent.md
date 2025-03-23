@@ -1,6 +1,6 @@
 # Counteragent
 ---
 #noun
-- **An [[agent]] having the opposite effect; an [[antidote]].**
+- **An [[a/_agent|agent]] having the opposite effect; an [[a/_antidote|antidote]].**
 ---
 ---

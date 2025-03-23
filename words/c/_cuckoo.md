@@ -1,22 +1,22 @@
 # Cuckoo
 ---
 #noun
-- **The two-note sound made by the [[cuckoo]].**
-- **A Barbadian food made from mashed okra and [[cornmeal]].**
+- **The two-note sound made by the [[c/_cuckoo|cuckoo]].**
+- **A [[b/_barbadian|Barbadian]] food made from mashed okra and [[c/_cornmeal|cornmeal]].**
 ---
 #noun
-- **Any of various [[birds]], of the family Cuculidae, famous for laying its eggs in the nests of other species; but especially the [[common]] [[cuckoo]], Cuculus canorus, that has a [[characteristic]] two-note [[call]].**
-- **The sound of that particular [[bird]].**
-- **The [[bird]]-shaped figure found in [[cuckoo]] [[clocks]].**
-- **The [[cuckoo]] [[clock]] itself.**
-- **A person who inveigles themselves into a place where they should not be (used especially in the phrase a [[cuckoo]] in the nest).**
-- **Someone who is [[crazy]].**
+- **[[a/_any|Any]] of various [[b/_birds|birds]], of the family [[c/_cuculidae|Cuculidae]], famous for laying its eggs in the nests of other species; but especially the [[c/_common|common]] [[c/_cuckoo|cuckoo]], [[c/_cuculus|Cuculus]] canorus, that has a [[c/_characteristic|characteristic]] two-note [[c/_call|call]].**
+- **The sound of that particular [[b/_bird|bird]].**
+- **The [[b/_bird|bird]]-shaped figure found in [[c/_cuckoo|cuckoo]] [[c/_clocks|clocks]].**
+- **The [[c/_cuckoo|cuckoo]] [[c/_clock|clock]] itself.**
+- **A person who inveigles themselves into a place where they should not be (used especially in the phrase a [[c/_cuckoo|cuckoo]] in the nest).**
+- **Someone who is [[c/_crazy|crazy]].**
 ---
 #verb
-- **To make the [[call]] of a [[cuckoo]].**
+- **To make the [[c/_call|call]] of a [[c/_cuckoo|cuckoo]].**
 - **To repeat something incessantly.**
 ---
 #adjective
-- **Crazy; not sane.**
+- **[[c/_crazy|Crazy]]; not sane.**
 ---
 ---

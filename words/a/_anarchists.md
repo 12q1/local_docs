@@ -1,9 +1,9 @@
 # Anarchists
 ---
 #noun
-- **One who [[believes]] in or [[advocates]] the [[absence]] of hierarchy and [[authority]] in most forms ([[compare]] [[anarchism]]), especially one who works toward the realization of such.**
-- **One who disregards laws and social norms as a form of rebellion [[against]] [[authority]].**
-- **(by extension) One who promotes [[chaos]] and lawlessness; a nihilist.**
-- **One who resents outside [[control]] or influence on his or her life, in particular a government, and therefore [[desires]] the [[absence]] of political [[control]].**
+- **One who [[b/_believes|believes]] in or [[a/_advocates|advocates]] the [[a/_absence|absence]] of hierarchy and [[a/_authority|authority]] in most forms ([[c/_compare|compare]] [[a/_anarchism|anarchism]]), especially one who works toward the realization of such.**
+- **One who disregards laws and social norms as a form of rebellion [[a/_against|against]] [[a/_authority|authority]].**
+- **(by extension) One who promotes [[c/_chaos|chaos]] and lawlessness; a nihilist.**
+- **One who resents outside [[c/_control|control]] or influence on his or her life, in particular a government, and therefore [[d/_desires|desires]] the [[a/_absence|absence]] of political [[c/_control|control]].**
 ---
 ---

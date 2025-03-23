@@ -1,12 +1,12 @@
 # Avos
 ---
 #noun
-- **A subdivision of [[currency]], equal to one hundredth of a Macanese pataca.**
+- **A subdivision of [[c/_currency|currency]], equal to one hundredth of a Macanese pataca.**
 ---
 #noun
-- **The large, usually yellowish-green or [[black]], pulpy fruit of the [[avocado]] tree.**
-- **The [[avocado]] tree, Persea [[americana]], of the laurel family.**
-- **A [[dark]] [[chartreuse]] [[colour]], like the [[colour]] of the skin of an [[avocado]].**
+- **The large, usually yellowish-green or [[b/_black|black]], pulpy fruit of the [[a/_avocado|avocado]] tree.**
+- **The [[a/_avocado|avocado]] tree, Persea [[a/_americana|americana]], of the laurel family.**
+- **A [[d/_dark|dark]] [[c/_chartreuse|chartreuse]] [[c/_colour|colour]], like the [[c/_colour|colour]] of the skin of an [[a/_avocado|avocado]].**
 ---
 ### Synonyms
 - [[abacate]], [[alligator pear]], [[avocado pear]], [[butter pear]], [[alligator pear]], [[avocado pear]], [[butter fruit]], [[butter pear]]

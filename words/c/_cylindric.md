@@ -1,7 +1,7 @@
 # Cylindric
 ---
 #adjective
-- **Of or relating to [[cylinders]]; shaped like a [[cylinder]].**
+- **Of or relating to [[c/_cylinders|cylinders]]; shaped like a [[c/_cylinder|cylinder]].**
 ---
 ### Synonyms
 - [[cylindrical]]

@@ -2,7 +2,7 @@
 ---
 #noun
 - **Dotage or senility.**
-- **The state of [[being]] impermanent or transitory.**
+- **The state of [[b/_being|being]] impermanent or transitory.**
 ---
 ### Synonyms
 - [[ephemerality]], [[impermanence]], [[transiency]]

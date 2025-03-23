@@ -1,10 +1,10 @@
 # Antiquary
 ---
 #noun
-- **A person who is knowledgeable of, or who [[collects]] [[antiques]]; an [[antiquarian]].**
-- **An [[aficionado]] or student of [[antiquities]], [[ancient]] [[artifacts]], historic sites, [[ancient]] writings, or things of the past.**
+- **A person who is knowledgeable of, or who [[c/_collects|collects]] [[a/_antiques|antiques]]; an [[a/_antiquarian|antiquarian]].**
+- **An [[a/_aficionado|aficionado]] or student of [[a/_antiquities|antiquities]], [[a/_ancient|ancient]] [[a/_artifacts|artifacts]], historic sites, [[a/_ancient|ancient]] writings, or things of the past.**
 ---
 #adjective
-- **Relating to [[antiquity]].**
+- **Relating to [[a/_antiquity|antiquity]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Almucantar
 ---
 #noun
-- **A small [[circle]] on the [[celestial]] sphere, parallel to the horizon, that is used in [[astronomy]] and navigation to show [[altitude]] of a star or [[any]] other heavenly [[body]].**
-- **An instrument for observing the heavenly [[bodies]] as they [[cross]] such a [[circle]].**
+- **A small [[c/_circle|circle]] on the [[c/_celestial|celestial]] sphere, parallel to the horizon, that is used in [[a/_astronomy|astronomy]] and navigation to show [[a/_altitude|altitude]] of a star or [[a/_any|any]] other heavenly [[b/_body|body]].**
+- **An instrument for observing the heavenly [[b/_bodies|bodies]] as they [[c/_cross|cross]] such a [[c/_circle|circle]].**
 ---
 ---

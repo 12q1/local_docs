@@ -1,6 +1,6 @@
 # Chloromelanite
 ---
 #noun
-- **A [[dark]] green to [[black]] variety of the mineral jadeite.**
+- **A [[d/_dark|dark]] green to [[b/_black|black]] variety of the mineral jadeite.**
 ---
 ---

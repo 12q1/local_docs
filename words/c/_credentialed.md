@@ -1,6 +1,6 @@
 # Credentialed
 ---
 #verb
-- **To furnish with [[credentials]]**
+- **To furnish with [[c/_credentials|credentials]]**
 ---
 ---

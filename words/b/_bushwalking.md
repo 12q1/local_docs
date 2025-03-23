@@ -1,9 +1,9 @@
 # Bushwalking
 ---
 #verb
-- **To undertake an off-road walk in the [[countryside]].**
+- **To undertake an off-road walk in the [[c/_countryside|countryside]].**
 ---
 #noun
-- **The [[activity]] of hiking or [[backpacking]].**
+- **The [[a/_activity|activity]] of hiking or [[b/_backpacking|backpacking]].**
 ---
 ---

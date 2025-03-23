@@ -1,7 +1,7 @@
 # Decennial
 ---
 #noun
-- **The tenth [[anniversary]] of an event or happening.**
+- **The tenth [[a/_anniversary|anniversary]] of an event or happening.**
 ---
 ### Synonyms
 - [[decaversary]], [[tin anniversary]]

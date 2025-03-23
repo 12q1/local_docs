@@ -1,6 +1,6 @@
 # Cornua
 ---
 #noun
-- **A horn, or [[anything]] shaped like or resembling a horn.**
+- **A horn, or [[a/_anything|anything]] shaped like or resembling a horn.**
 ---
 ---

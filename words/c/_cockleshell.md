@@ -1,7 +1,7 @@
 # Cockleshell
 ---
 #noun
-- **The shell of a [[cockle]] (or similar shell).**
-- **A small, flimsy [[boat]].**
+- **The shell of a [[c/_cockle|cockle]] (or similar shell).**
+- **A small, flimsy [[b/_boat|boat]].**
 ---
 ---

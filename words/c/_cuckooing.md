@@ -1,10 +1,10 @@
 # Cuckooing
 ---
 #verb
-- **To make the [[call]] of a [[cuckoo]].**
+- **To make the [[c/_call|call]] of a [[c/_cuckoo|cuckoo]].**
 - **To repeat something incessantly.**
 ---
 #noun
-- **The [[call]] of a [[cuckoo]].**
+- **The [[c/_call|call]] of a [[c/_cuckoo|cuckoo]].**
 ---
 ---

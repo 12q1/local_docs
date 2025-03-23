@@ -1,14 +1,14 @@
 # Clerk
 ---
 #noun
-- **One who occupationally works with records, [[accounts]], letters, etc.; an office worker.**
-- **A facilitator of a Quaker meeting for [[business]] [[affairs]].**
-- **In the Church of England, the layman that [[assists]] in the [[church]] service, especially in reading the responses ([[also]] [[called]] parish [[clerk]]).**
-- **A [[cleric]] or [[clergyman]] (the legal title for [[clergy]] of the Church of England is "Clerk in Holy Orders", still used in legal documents and [[cherished]] by some of their number).**
+- **One who occupationally works with records, [[a/_accounts|accounts]], letters, etc.; an office worker.**
+- **A facilitator of a Quaker meeting for [[b/_business|business]] [[a/_affairs|affairs]].**
+- **In the [[c/_church|Church]] of England, the layman that [[a/_assists|assists]] in the [[c/_church|church]] service, especially in reading the responses ([[a/_also|also]] [[c/_called|called]] parish [[c/_clerk|clerk]]).**
+- **A [[c/_cleric|cleric]] or [[c/_clergyman|clergyman]] (the legal title for [[c/_clergy|clergy]] of the [[c/_church|Church]] of England is "[[c/_clerk|Clerk]] in Holy Orders", still used in legal documents and [[c/_cherished|cherished]] by some of their number).**
 - **A scholar.**
 ---
 #verb
-- **To [[act]] as a [[clerk]], to perform the duties or functions of a [[clerk]]**
+- **To [[a/_act|act]] as a [[c/_clerk|clerk]], to perform the duties or functions of a [[c/_clerk|clerk]]**
 	- _Example: The law school graduate clerked for the supreme court judge for the summer._
 ---
 ---

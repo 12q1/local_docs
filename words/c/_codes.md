@@ -3,13 +3,13 @@
 #noun
 - **A short symbol, often with little relation to the item it represents.**
 	- _Example: This flavour of soup has been assigned the code WRT-9._
-- **A [[body]] of law, sanctioned by legislation, in which the rules of law to be specifically [[applied]] by the [[courts]] are set forth in systematic form; a [[compilation]] of laws by public [[authority]]; a digest.**
-- **Any system of principles, rules or regulations relating to one subject.**
+- **A [[b/_body|body]] of law, sanctioned by legislation, in which the rules of law to be specifically [[a/_applied|applied]] by the [[c/_courts|courts]] are set forth in systematic form; a [[c/_compilation|compilation]] of laws by public [[a/_authority|authority]]; a digest.**
+- **[[a/_any|Any]] system of principles, rules or regulations relating to one subject.**
 	- _Example: The medical code is a system of rules for the regulation of the professional conduct of physicians._
-- **A set of rules for [[converting]] information into [[another]] form or representation.**
-- **A message represented by rules intended to [[conceal]] its meaning.**
-- **A [[cryptographic]] system using a [[codebook]] that [[converts]] words or phrases into [[codewords]].**
-- **Instructions for a [[computer]], written in a programming language; the input of a translator, an interpreter or a [[browser]], namely: source [[code]], machine [[code]], bytecode.**
+- **A set of rules for [[c/_converting|converting]] information into [[a/_another|another]] form or representation.**
+- **A message represented by rules intended to [[c/_conceal|conceal]] its meaning.**
+- **A [[c/_cryptographic|cryptographic]] system using a [[c/_codebook|codebook]] that [[c/_converts|converts]] words or phrases into [[c/_codewords|codewords]].**
+- **Instructions for a [[c/_computer|computer]], written in a programming language; the input of a translator, an interpreter or a [[b/_browser|browser]], namely: source [[c/_code|code]], machine [[c/_code|code]], bytecode.**
 	- _Example: I wrote some code to reformat text documents._
 - **(scientific programming) A program.**
 - **A particular lect or language variety.**
@@ -18,15 +18,15 @@
 #verb
 - **To write software programs.**
 	- _Example: I learned to code on an early home computer in the 1980s._
-- **To [[add]] [[codes]] to a [[dataset]].**
-- **To [[categorise]] by [[assigning]] identifiers from a schedule, for example CPT [[coding]] for medical insurance purposes.**
+- **To [[a/_add|add]] [[c/_codes|codes]] to a [[d/_dataset|dataset]].**
+- **To [[c/_categorise|categorise]] by [[a/_assigning|assigning]] identifiers from a schedule, for example [[c/_cpt|CPT]] [[c/_coding|coding]] for medical insurance purposes.**
 - **To encode.**
 	- _Example: We should code the messages we send out on Usenet._
 - **To encode a protein.**
-- **To [[call]] a hospital emergency [[code]].**
+- **To [[c/_call|call]] a hospital emergency [[c/_code|code]].**
 	- _Example: coding in the CT scanner_
 ---
 #verb
-- **Of a patient, to suffer a sudden medical emergency (a [[code]] [[blue]]) such as [[cardiac]] [[arrest]].**
+- **Of a patient, to suffer a sudden medical emergency (a [[c/_code|code]] [[b/_blue|blue]]) such as [[c/_cardiac|cardiac]] [[a/_arrest|arrest]].**
 ---
 ---

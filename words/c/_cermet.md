@@ -1,6 +1,6 @@
 # Cermet
 ---
 #noun
-- **A [[composite]] material [[composed]] of [[ceramic]] and metal materials, used in such [[applications]] as industrial saws and turbine [[blades]].**
+- **A [[c/_composite|composite]] material [[c/_composed|composed]] of [[c/_ceramic|ceramic]] and metal materials, used in such [[a/_applications|applications]] as industrial saws and turbine [[b/_blades|blades]].**
 ---
 ---

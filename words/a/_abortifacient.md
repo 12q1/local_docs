@@ -1,7 +1,7 @@
 # Abortifacient
 ---
 #noun
-- **A drug or an [[agent]] that induces an [[abortion]].**
+- **A drug or an [[a/_agent|agent]] that induces an [[a/_abortion|abortion]].**
 ---
 ### Synonyms
 - [[abortificant]]

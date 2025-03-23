@@ -1,7 +1,7 @@
 # Autotroph
 ---
 #noun
-- **Any organism that [[can]] synthesize its food from inorganic substances, using heat or light as a source of energy.**
+- **[[a/_any|Any]] organism that [[c/_can|can]] synthesize its food from inorganic substances, using heat or light as a source of energy.**
 ---
 ### Synonyms
 - [[producer]]

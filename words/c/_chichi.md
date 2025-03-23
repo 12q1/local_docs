@@ -1,7 +1,7 @@
 # Chichi
 ---
 #adjective
-- **Affectedly trendy; [[chic]] and stylish**
+- **[[a/_affectedly|Affectedly]] trendy; [[c/_chic|chic]] and stylish**
 ---
 ### Synonyms
 - [[bougie]], [[bourgie]]

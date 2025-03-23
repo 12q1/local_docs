@@ -1,7 +1,7 @@
 # Chocolatier
 ---
 #adjective
-- **Containing [[chocolate]].**
-- **Having some [[characteristics]] of [[chocolate]].**
+- **[[c/_containing|Containing]] [[c/_chocolate|chocolate]].**
+- **Having some [[c/_characteristics|characteristics]] of [[c/_chocolate|chocolate]].**
 ---
 ---

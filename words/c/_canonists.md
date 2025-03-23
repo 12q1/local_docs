@@ -1,6 +1,6 @@
 # Canonists
 ---
 #noun
-- **An expert in [[canon]] law; [[canon]] lawyer**
+- **An expert in [[c/_canon|canon]] law; [[c/_canon|canon]] lawyer**
 ---
 ---

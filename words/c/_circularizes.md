@@ -1,9 +1,9 @@
 # Circularizes
 ---
 #verb
-- **To publicize something by publishing and distributing [[circulars]].**
-- **To distribute a [[circular]] or [[circulars]] to.**
-- **To [[canvass]] opinion by using a questionnaire.**
-- **To make (something) [[circular]] in shape.**
+- **To publicize something by publishing and distributing [[c/_circulars|circulars]].**
+- **To distribute a [[c/_circular|circular]] or [[c/_circulars|circulars]] to.**
+- **To [[c/_canvass|canvass]] opinion by using a questionnaire.**
+- **To make (something) [[c/_circular|circular]] in shape.**
 ---
 ---

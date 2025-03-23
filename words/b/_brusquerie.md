@@ -1,6 +1,6 @@
 # Brusquerie
 ---
 #noun
-- **The [[act]] or situation of [[being]] [[brusque]]; an [[abrupt]] or [[blunt]] quality.**
+- **The [[a/_act|act]] or situation of [[b/_being|being]] [[b/_brusque|brusque]]; an [[a/_abrupt|abrupt]] or [[b/_blunt|blunt]] quality.**
 ---
 ---

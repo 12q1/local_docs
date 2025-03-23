@@ -2,7 +2,7 @@
 ---
 #noun
 - **A small house.**
-- **A seasonal home of [[any]] size or stature, a recreational home or a home in a remote location.**
+- **A seasonal home of [[a/_any|any]] size or stature, a recreational home or a home in a remote location.**
 	- _Example: Most cottages in the area were larger and more elaborate than my home._
 - **A public lavatory.**
 - **A meeting place for homosexual men.**

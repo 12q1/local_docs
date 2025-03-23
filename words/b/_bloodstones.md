@@ -1,7 +1,7 @@
 # Bloodstones
 ---
 #noun
-- **A green [[chalcedony]] that has [[been]] sprinkled with red spots (which resemble [[blood]], hence the name).**
+- **A green [[c/_chalcedony|chalcedony]] that has [[b/_been|been]] sprinkled with red spots (which resemble [[b/_blood|blood]], hence the name).**
 - **Hematite.**
 ---
 ---

@@ -1,15 +1,15 @@
 # Autistic
 ---
 #noun
-- **A person who has [[autism]].**
+- **A person who has [[a/_autism|autism]].**
 ---
 ### Synonyms
 - [[autist]]
 #adjective
-- **Having [[autism]], or pertaining to [[autism]].**
-- **(and medically obsolete) Socially inept, self-[[absorbed]], or stupid.**
+- **Having [[a/_autism|autism]], or pertaining to [[a/_autism|autism]].**
+- **(and medically obsolete) Socially inept, self-[[a/_absorbed|absorbed]], or stupid.**
 - **Used to express dislike: lame, uncool, stupid.**
-- **(4chan) Characterized by [[abnormal]] and unhealthy focus or persistence, and unhealthy hatred of opposition or [[criticism]].**
+- **(4chan) [[c/_characterized|Characterized]] by [[a/_abnormal|abnormal]] and unhealthy focus or persistence, and unhealthy hatred of opposition or [[c/_criticism|criticism]].**
 	- _Example: imagine being this autistic over a fictional character_
 ---
 ### Synonyms

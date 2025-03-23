@@ -1,7 +1,7 @@
 # Counterintuitive
 ---
 #adjective
-- **Contrary to intuition or [[common]] sense.**
+- **[[c/_contrary|Contrary]] to intuition or [[c/_common|common]] sense.**
 ---
 ### Antonyms
 - [[intuitive]]

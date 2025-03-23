@@ -1,6 +1,6 @@
 # Contestably
 ---
 #adverb
-- **Such that it [[can]] be [[contested]] or [[challenged]].**
+- **Such that it [[c/_can|can]] be [[c/_contested|contested]] or [[c/_challenged|challenged]].**
 ---
 ---

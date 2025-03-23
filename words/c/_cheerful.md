@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Noticeably happy and optimistic.**
-- **Bright and pleasant.**
+- **[[b/_bright|Bright]] and pleasant.**
 	- _Example: They enjoyed a cheerful room._
 ---
 ### Synonyms

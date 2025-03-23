@@ -1,6 +1,6 @@
 # Administratively
 ---
 #adverb
-- **In an [[administrative]] manner.**
+- **In an [[a/_administrative|administrative]] manner.**
 ---
 ---

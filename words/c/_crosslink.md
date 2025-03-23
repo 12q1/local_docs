@@ -1,11 +1,11 @@
 # Crosslink
 ---
 #noun
-- **A [[covalent]] [[bond]] (or series of [[bonds]]) [[between]] [[adjacent]] [[chains]] of a polymer**
-- **A similar [[bond]] [[between]] strands of nucleic [[acid]]**
+- **A [[c/_covalent|covalent]] [[b/_bond|bond]] (or series of [[b/_bonds|bonds]]) [[b/_between|between]] [[a/_adjacent|adjacent]] [[c/_chains|chains]] of a polymer**
+- **A similar [[b/_bond|bond]] [[b/_between|between]] strands of nucleic [[a/_acid|acid]]**
 ---
 #verb
-- **To join polymer [[chains]] together to form one single molecule. An object made from a crosslinked material [[contains]] only one supergiant molecule. Crosslinking may take place through [[covalent]] [[bonds]] or ionic [[bonds]]**
-- **To [[bolster]] up the references of [[databases]] or elements in a [[database]] to each other, to deorphan sensu lato**
+- **To join polymer [[c/_chains|chains]] together to form one single molecule. An object made from a crosslinked material [[c/_contains|contains]] only one supergiant molecule. Crosslinking may take place through [[c/_covalent|covalent]] [[b/_bonds|bonds]] or ionic [[b/_bonds|bonds]]**
+- **To [[b/_bolster|bolster]] up the references of [[d/_databases|databases]] or elements in a [[d/_database|database]] to each other, to deorphan sensu lato**
 ---
 ---

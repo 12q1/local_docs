@@ -1,6 +1,6 @@
 # Copyist
 ---
 #noun
-- **A person who makes manual [[copies]] of works such as manuscripts or paintings.**
+- **A person who makes manual [[c/_copies|copies]] of works such as manuscripts or paintings.**
 ---
 ---

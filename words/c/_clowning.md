@@ -1,10 +1,10 @@
 # Clowning
 ---
 #verb
-- **To [[act]] in a silly or playful fashion.**
+- **To [[a/_act|act]] in a silly or playful fashion.**
 - **To ridicule.**
 ---
 #noun
-- **Clownish [[behaviour]].**
+- **[[c/_clownish|Clownish]] [[b/_behaviour|behaviour]].**
 ---
 ---

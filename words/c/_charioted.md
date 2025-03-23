@@ -1,6 +1,6 @@
 # Charioted
 ---
 #adjective
-- **Furnished with, or located in, a [[chariot]].**
+- **Furnished with, or located in, a [[c/_chariot|chariot]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Cordierite
 ---
 #noun
-- **A magnesium iron [[aluminium]] [[cyclosilicate]].**
+- **A magnesium iron [[a/_aluminium|aluminium]] [[c/_cyclosilicate|cyclosilicate]].**
 ---
 ---

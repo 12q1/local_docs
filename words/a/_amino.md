@@ -1,9 +1,9 @@
 # Amino
 ---
 #noun
-- **The [[amine]] functional group.**
+- **The [[a/_amine|amine]] functional group.**
 ---
 #adjective
-- **Relating to an [[amine]].**
+- **Relating to an [[a/_amine|amine]].**
 ---
 ---

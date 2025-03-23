@@ -1,9 +1,9 @@
 # Chromatograph
 ---
 #noun
-- **A machine that performs [[chromatography]] by gas or liquid separation.**
+- **A machine that performs [[c/_chromatography|chromatography]] by gas or liquid separation.**
 ---
 #verb
-- **To [[analyze]] or separate mixtures using [[chromatography]]**
+- **To [[a/_analyze|analyze]] or separate mixtures using [[c/_chromatography|chromatography]]**
 ---
 ---

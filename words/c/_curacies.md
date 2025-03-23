@@ -1,6 +1,6 @@
 # Curacies
 ---
 #noun
-- **The office or position of a [[curate]]**
+- **The office or position of a [[c/_curate|curate]]**
 ---
 ---

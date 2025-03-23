@@ -1,7 +1,7 @@
 # Degust
 ---
 #verb
-- **To taste [[carefully]] to fully [[appreciate]] it.**
+- **To taste [[c/_carefully|carefully]] to fully [[a/_appreciate|appreciate]] it.**
 - **To savour**
 ---
 ---

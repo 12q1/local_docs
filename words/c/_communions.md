@@ -2,8 +2,8 @@
 ---
 #noun
 - **A joining together of minds or spirits.**
-- **Holy Communion**
-- **A form of ecclesiastical unity [[between]] the Roman Church and [[another]], so that the latter is [[considered]] part of the former.**
+- **Holy [[c/_communion|Communion]]**
+- **A form of ecclesiastical unity [[b/_between|between]] the Roman [[c/_church|Church]] and [[a/_another|another]], so that the latter is [[c/_considered|considered]] part of the former.**
 ---
 ### Synonyms
 - [[sacrament]]

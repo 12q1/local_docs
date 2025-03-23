@@ -1,7 +1,7 @@
 # Avenge
 ---
 #noun
-- **An [[act]] of vengeance; a revenge.**
+- **An [[a/_act|act]] of vengeance; a revenge.**
 ---
 #verb
 - **To take vengeance (for); to exact satisfaction for by punishing the injuring party; to vindicate by inflicting pain or evil on a wrongdoer.**

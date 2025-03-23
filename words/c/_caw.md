@@ -1,12 +1,12 @@
 # Caw
 ---
 #noun
-- **The harsh [[cry]] of a [[crow]].**
+- **The harsh [[c/_cry|cry]] of a [[c/_crow|crow]].**
 ---
 #verb
-- **To make the harsh [[cry]] of a [[crow]], rook, or raven.**
+- **To make the harsh [[c/_cry|cry]] of a [[c/_crow|crow]], rook, or raven.**
 ---
 #interjection
-- **Cry of a [[crow]].**
+- **[[c/_cry|Cry]] of a [[c/_crow|crow]].**
 ---
 ---

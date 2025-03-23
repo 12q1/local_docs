@@ -1,6 +1,6 @@
 # Blain
 ---
 #noun
-- **A skin swelling or sore; a [[blister]]; a [[blotch]].**
+- **A skin swelling or sore; a [[b/_blister|blister]]; a [[b/_blotch|blotch]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Bespangle
 ---
 #verb
-- **To [[cover]] something with spangles.**
+- **To [[c/_cover|cover]] something with spangles.**
 ---
 ---

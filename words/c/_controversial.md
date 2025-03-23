@@ -1,7 +1,7 @@
 # Controversial
 ---
 #adjective
-- **Arousing [[controversy]]—a [[debate]] or discussion of opposing opinions.**
+- **[[a/_arousing|Arousing]] [[c/_controversy|controversy]]—a [[d/_debate|debate]] or discussion of opposing opinions.**
 ---
 ### Synonyms
 - [[contentious]], [[contested]]

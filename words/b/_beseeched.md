@@ -1,7 +1,7 @@
 # Beseeched
 ---
 #verb
-- **To [[beg]] or implore (a person)**
-- **To request or [[beg]] for**
+- **To [[b/_beg|beg]] or implore (a person)**
+- **To request or [[b/_beg|beg]] for**
 ---
 ---

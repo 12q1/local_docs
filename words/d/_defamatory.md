@@ -1,6 +1,6 @@
 # Defamatory
 ---
 #adjective
-- **Damaging to someone's reputation, especially if untrue**
+- **[[d/_damaging|Damaging]] to someone's reputation, especially if untrue**
 ---
 ---

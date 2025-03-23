@@ -1,6 +1,6 @@
 # Bamboozlement
 ---
 #noun
-- **The [[act]] or process of [[bamboozling]] or [[being]] [[bamboozled]].**
+- **The [[a/_act|act]] or process of [[b/_bamboozling|bamboozling]] or [[b/_being|being]] [[b/_bamboozled|bamboozled]].**
 ---
 ---

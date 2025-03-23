@@ -1,14 +1,14 @@
 # Clogged
 ---
 #verb
-- **To [[block]] or slow passage through (often with 'up').**
+- **To [[b/_block|block]] or slow passage through (often with 'up').**
 	- _Example: Hair is clogging the drainpipe._
 - **To encumber or load, especially with something that impedes motion; to hamper.**
-- **To [[burden]]; to trammel; to embarrass; to perplex.**
-- **To enforce a mortgage lender right that prevents a [[borrower]] from exercising a right to redeem.**
-- **To perform a [[clog]] [[dance]].**
+- **To [[b/_burden|burden]]; to trammel; to embarrass; to perplex.**
+- **To enforce a mortgage lender right that prevents a [[b/_borrower|borrower]] from exercising a right to redeem.**
+- **To perform a [[c/_clog|clog]] [[d/_dance|dance]].**
 ---
 #adjective
-- **Having an obstructed flow; [[blocked]].**
+- **Having an obstructed flow; [[b/_blocked|blocked]].**
 ---
 ---

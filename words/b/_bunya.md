@@ -1,6 +1,6 @@
 # Bunya
 ---
 #noun
-- **The [[bunya]] pine, Araucaria bidwillii, native to Queensland.**
+- **The [[b/_bunya|bunya]] pine, [[a/_araucaria|Araucaria]] bidwillii, native to Queensland.**
 ---
 ---

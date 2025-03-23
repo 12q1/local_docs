@@ -1,6 +1,6 @@
 # Coz
 ---
 #noun
-- **Cousin (usually as a term of [[address]])**
+- **[[c/_cousin|Cousin]] (usually as a term of [[a/_address|address]])**
 ---
 ---

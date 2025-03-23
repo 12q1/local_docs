@@ -1,6 +1,6 @@
 # Cryptomeria
 ---
 #noun
-- **A Japanese [[cedar]], Cryptomeria japonica**
+- **A Japanese [[c/_cedar|cedar]], [[c/_cryptomeria|Cryptomeria]] japonica**
 ---
 ---

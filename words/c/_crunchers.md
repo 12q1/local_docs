@@ -1,6 +1,6 @@
 # Crunchers
 ---
 #noun
-- **A person or thing that [[crunches]].**
+- **A person or thing that [[c/_crunches|crunches]].**
 ---
 ---

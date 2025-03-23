@@ -1,7 +1,7 @@
 # Caucused
 ---
 #verb
-- **To meet and participate in [[caucus]].**
-- **To [[bring]] into or treat in [[caucus]].**
+- **To meet and participate in [[c/_caucus|caucus]].**
+- **To [[b/_bring|bring]] into or treat in [[c/_caucus|caucus]].**
 ---
 ---

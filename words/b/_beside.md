@@ -8,6 +8,6 @@
 	- _Example: A small table beside the bed_
 - **Not relevant to.**
 	- _Example: That is beside the point_
-- **Besides; in [[addition]] to.**
+- **[[b/_besides|Besides]]; in [[a/_addition|addition]] to.**
 ---
 ---

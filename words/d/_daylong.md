@@ -1,9 +1,9 @@
 # Daylong
 ---
 #adjective
-- **Which lasts a [[day]], or [[approximately]] so.**
+- **Which lasts a [[d/_day|day]], or [[a/_approximately|approximately]] so.**
 ---
 #adverb
-- **Throughout the [[day]].**
+- **Throughout the [[d/_day|day]].**
 ---
 ---

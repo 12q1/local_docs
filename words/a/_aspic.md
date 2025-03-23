@@ -1,11 +1,11 @@
 # Aspic
 ---
 #noun
-- **A dish in which ingredients are set into a gelatine, jelly-like substance made from a meat stock or [[consomm]]é.**
-- **An [[asp]], a small venomous snake of Egypt.**
-- **A piece of ordnance [[carrying]] a 12-pound shot.**
+- **A dish in which ingredients are set into a gelatine, jelly-like substance made from a meat stock or [[c/_consomm|consomm]]é.**
+- **An [[a/_asp|asp]], a small venomous snake of Egypt.**
+- **A piece of ordnance [[c/_carrying|carrying]] a 12-pound shot.**
 ---
 #adjective
-- **Aspish; relating to an [[asp]], a small venomous snake of Egypt.**
+- **[[a/_aspish|Aspish]]; relating to an [[a/_asp|asp]], a small venomous snake of Egypt.**
 ---
 ---

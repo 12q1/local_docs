@@ -1,9 +1,9 @@
 # Biostatistics
 ---
 #noun
-- **A [[biological]] statistic**
+- **A [[b/_biological|biological]] statistic**
 ---
 #noun
-- **The [[application]] of statistics to the study and [[analysis]] of [[biological]] and medical [[data]]**
+- **The [[a/_application|application]] of statistics to the study and [[a/_analysis|analysis]] of [[b/_biological|biological]] and medical [[d/_data|data]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Brigalow
 ---
 #noun
-- **An Australian tree, Acacia harpophylla**
+- **An [[a/_australian|Australian]] tree, [[a/_acacia|Acacia]] harpophylla**
 ---
 ---

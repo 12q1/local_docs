@@ -1,9 +1,9 @@
 # Complot
 ---
 #noun
-- **A plot (involving more than one person), [[conspiracy]]**
+- **A plot (involving more than one person), [[c/_conspiracy|conspiracy]]**
 ---
 #verb
-- **To plot together; [[conspire]].**
+- **To plot together; [[c/_conspire|conspire]].**
 ---
 ---

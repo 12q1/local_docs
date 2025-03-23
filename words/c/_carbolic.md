@@ -1,9 +1,9 @@
 # Carbolic
 ---
 #noun
-- **Carbolic [[acid]] or similar disinfectant**
+- **[[c/_carbolic|Carbolic]] [[a/_acid|acid]] or similar disinfectant**
 ---
 #adjective
-- **Of, relating to or [[containing]] [[carbolic]] [[acid]]**
+- **Of, relating to or [[c/_containing|containing]] [[c/_carbolic|carbolic]] [[a/_acid|acid]]**
 ---
 ---

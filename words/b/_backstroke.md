@@ -1,12 +1,12 @@
 # Backstroke
 ---
 #noun
-- **A swimming stroke swum lying on one's [[back]], while rotating [[both]] [[arms]] through the water as to propel the swimmer [[backwards]].**
-- **(bellringing) The pull on the tail of the rope that swings the [[bell]] through a full [[circle]] ([[compare]] handstroke)**
+- **A swimming stroke swum lying on one's [[b/_back|back]], while rotating [[b/_both|both]] [[a/_arms|arms]] through the water as to propel the swimmer [[b/_backwards|backwards]].**
+- **(bellringing) The pull on the tail of the rope that swings the [[b/_bell|bell]] through a full [[c/_circle|circle]] ([[c/_compare|compare]] handstroke)**
 ---
 ### Synonyms
 - [[back crawl]]
 #verb
-- **To swim the [[backstroke]].**
+- **To swim the [[b/_backstroke|backstroke]].**
 ---
 ---

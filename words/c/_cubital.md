@@ -1,12 +1,12 @@
 # Cubital
 ---
 #noun
-- **A sleeve [[covering]] the [[arm]] from the elbow to the hand.**
+- **A sleeve [[c/_covering|covering]] the [[a/_arm|arm]] from the elbow to the hand.**
 ---
 #adjective
-- **Of or pertaining to the [[cubit]] or ulna.**
-- **Of or pertaining to the [[cubitus]] and/or the [[areas]] of the wing next to it.**
-- **Measured in [[cubits]].**
-- **Of the length of a [[cubit]].**
+- **Of or pertaining to the [[c/_cubit|cubit]] or ulna.**
+- **Of or pertaining to the [[c/_cubitus|cubitus]] and/or the [[a/_areas|areas]] of the wing next to it.**
+- **Measured in [[c/_cubits|cubits]].**
+- **Of the length of a [[c/_cubit|cubit]].**
 ---
 ---

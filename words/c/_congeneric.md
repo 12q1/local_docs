@@ -1,14 +1,14 @@
 # Congeneric
 ---
 #noun
-- **A plant or [[animal]] of the same taxonomic genus as [[another]].**
-- **A person or thing similar in [[behavior]] or nature to [[another]].**
-- **Any of a group of structurally-related [[compounds]].**
-- **Any of several [[alcohols]], other than ethanol, that are found in fermented and distilled [[alcoholic]] drinks, and are partially responsible for their flavour and [[character]].**
+- **A plant or [[a/_animal|animal]] of the same taxonomic genus as [[a/_another|another]].**
+- **A person or thing similar in [[b/_behavior|behavior]] or nature to [[a/_another|another]].**
+- **[[a/_any|Any]] of a group of structurally-related [[c/_compounds|compounds]].**
+- **[[a/_any|Any]] of several [[a/_alcohols|alcohols]], other than ethanol, that are found in fermented and distilled [[a/_alcoholic|alcoholic]] drinks, and are partially responsible for their flavour and [[c/_character|character]].**
 ---
 ### Synonyms
 - [[cogener]]
 #adjective
-- **Of or pertaining to [[congeners]] (organisms of the same genus)**
+- **Of or pertaining to [[c/_congeners|congeners]] (organisms of the same genus)**
 ---
 ---

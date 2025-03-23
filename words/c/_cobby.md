@@ -4,6 +4,6 @@
 - **Stocky**
 - **Stout; hearty; lively**
 - **Obstinate; headstrong**
-- **Arrogant**
+- **[[a/_arrogant|Arrogant]]**
 ---
 ---

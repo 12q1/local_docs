@@ -1,7 +1,7 @@
 # Biconcave
 ---
 #adjective
-- **Having [[both]] sides [[concave]]**
+- **Having [[b/_both|both]] sides [[c/_concave|concave]]**
 ---
 ### Synonyms
 - [[concave]], [[concavoconcave]]

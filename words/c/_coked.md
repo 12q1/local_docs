@@ -1,11 +1,11 @@
 # Coked
 ---
 #verb
-- **To produce [[coke]] from [[coal]].**
-- **To turn into [[coke]].**
-- **To [[add]] [[deleterious]] [[carbon]] [[deposits]] as a [[byproduct]] of [[combustion]].**
+- **To produce [[c/_coke|coke]] from [[c/_coal|coal]].**
+- **To turn into [[c/_coke|coke]].**
+- **To [[a/_add|add]] [[d/_deleterious|deleterious]] [[c/_carbon|carbon]] [[d/_deposits|deposits]] as a [[b/_byproduct|byproduct]] of [[c/_combustion|combustion]].**
 ---
 #adjective
-- **Intoxicated with [[cocaine]].**
+- **Intoxicated with [[c/_cocaine|cocaine]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Culverts
 ---
 #noun
-- **A transverse [[channel]] under a road or railway for the draining of water.**
+- **A transverse [[c/_channel|channel]] under a road or railway for the draining of water.**
 ---
 ---

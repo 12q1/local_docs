@@ -1,11 +1,11 @@
 # Congruent
 ---
 #adjective
-- **Corresponding in [[character]]; [[congruous]]**
+- **[[c/_corresponding|Corresponding]] in [[c/_character|character]]; [[c/_congruous|congruous]]**
 - **Harmonious.**
 - **Having a difference divisible by a modulus.**
-- **Coinciding exactly when superimposed.**
-- **Satisfying a [[congruence]] relation.**
+- **[[c/_coinciding|Coinciding]] exactly when superimposed.**
+- **Satisfying a [[c/_congruence|congruence]] relation.**
 ---
 ### Synonyms
 - [[congruous]]

@@ -7,14 +7,14 @@
 ### Synonyms
 - [[computer]], [[machine]], [[TV]], [[telly]], [[tube]], [[boxful]], [[loge]], [[case]], [[package]], [[box seat]], [[text box]], [[cup]], [[shelter]]
 #verb
-- **To place inside a [[box]]; to pack in one or more [[boxes]].**
-- **Usually followed by in: to surround and enclose in a way that restricts movement; to [[corner]], to hem in.**
-- **To mix two [[containers]] of paint of similar [[colour]] to ensure that the [[color]] is identical.**
+- **To place inside a [[b/_box|box]]; to pack in one or more [[b/_boxes|boxes]].**
+- **Usually followed by in: to surround and enclose in a way that restricts movement; to [[c/_corner|corner]], to hem in.**
+- **To mix two [[c/_containers|containers]] of paint of similar [[c/_colour|colour]] to ensure that the [[c/_color|color]] is identical.**
 - **To make an incision or hole in (a tree) for the purpose of procuring the sap.**
-- **To enclose with [[boarding]], lathing, etc., so as to [[conceal]] (for example, pipes) or to [[bring]] to a required form.**
-- **To furnish (for example, the [[axle]] of a wheel) with a [[box]].**
-- **To enclose (images, text, etc.) in a [[box]].**
-- **To place a value of a primitive type into a [[corresponding]] object.**
+- **To enclose with [[b/_boarding|boarding]], lathing, etc., so as to [[c/_conceal|conceal]] (for example, pipes) or to [[b/_bring|bring]] to a required form.**
+- **To furnish (for example, the [[a/_axle|axle]] of a wheel) with a [[b/_box|box]].**
+- **To enclose (images, text, etc.) in a [[b/_box|box]].**
+- **To place a value of a primitive type into a [[c/_corresponding|corresponding]] object.**
 ---
 ### Synonyms
 - [[box up]], [[case]], [[embox]], [[encase]], [[pack]], [[pack up]], [[package]]

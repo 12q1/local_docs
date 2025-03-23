@@ -1,6 +1,6 @@
 # Bandfish
 ---
 #noun
-- **Any of many perciform fish of the family Cepolidae**
+- **[[a/_any|Any]] of many perciform fish of the family [[c/_cepolidae|Cepolidae]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Bradycardia
 ---
 #noun
-- **The [[condition]] of having a slow heartbeat, [[defined]] as under 60 [[beats]] per minute for an [[adult]].**
+- **The [[c/_condition|condition]] of having a slow heartbeat, [[d/_defined|defined]] as under 60 [[b/_beats|beats]] per minute for an [[a/_adult|adult]].**
 ---
 ### Synonyms
 - [[brachycardia]]

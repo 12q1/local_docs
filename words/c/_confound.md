@@ -1,23 +1,23 @@
 # Confound
 ---
 #noun
-- **A [[confounding]] variable.**
+- **A [[c/_confounding|confounding]] variable.**
 ---
 ### Synonyms
 - [[confounder]]
 #verb
 - **To perplex or puzzle.**
-- **To fail to see the difference; to mix up; to [[confuse]] right and wrong.**
+- **To fail to see the difference; to mix up; to [[c/_confuse|confuse]] right and wrong.**
 - **To make something worse.**
 	- _Example: Don't confound the situation by yelling._
-- **To [[combine]] in a [[confused]] fashion; to mingle so as to make the parts indistinguishable.**
-- **To [[cause]] to be [[ashamed]]; to [[abash]].**
+- **To [[c/_combine|combine]] in a [[c/_confused|confused]] fashion; to mingle so as to make the parts indistinguishable.**
+- **To [[c/_cause|cause]] to be [[a/_ashamed|ashamed]]; to [[a/_abash|abash]].**
 	- _Example: His actions confounded the skeptics._
-- **To [[defeat]], to frustrate, to thwart.**
-- **To [[damn]] (a mild oath).**
+- **To [[d/_defeat|defeat]], to frustrate, to thwart.**
+- **To [[d/_damn|damn]] (a mild oath).**
 	- _Example: Confound the lady!_
-- **To [[bring]] to ruination.**
-- **To stun, [[amaze]]**
+- **To [[b/_bring|bring]] to ruination.**
+- **To stun, [[a/_amaze|amaze]]**
 ---
 ### Synonyms
 - [[confuse]], [[mix up]], [[puzzle]]

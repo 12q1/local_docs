@@ -1,11 +1,11 @@
 # Decoying
 ---
 #verb
-- **To lead into [[danger]] by [[artifice]]; to lure into a net or snare; to entrap.**
+- **To lead into [[d/_danger|danger]] by [[a/_artifice|artifice]]; to lure into a net or snare; to entrap.**
 	- _Example: to decoy troops into an ambush; to decoy ducks into a net_
-- **To [[act]] as, or use, a [[decoy]].**
+- **To [[a/_act|act]] as, or use, a [[d/_decoy|decoy]].**
 ---
 #noun
-- **The [[act]] of one who [[decoys]].**
+- **The [[a/_act|act]] of one who [[d/_decoys|decoys]].**
 ---
 ---

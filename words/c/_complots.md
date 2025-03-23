@@ -1,6 +1,6 @@
 # Complots
 ---
 #verb
-- **To plot together; [[conspire]].**
+- **To plot together; [[c/_conspire|conspire]].**
 ---
 ---

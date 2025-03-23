@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Self-evident or unquestionable.**
-- **Relating to or [[containing]] [[axioms]].**
+- **Relating to or [[c/_containing|containing]] [[a/_axioms|axioms]].**
 ---
 ### Synonyms
 - [[axiomatical]], [[self-evident]]

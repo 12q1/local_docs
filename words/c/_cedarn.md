@@ -1,6 +1,6 @@
 # Cedarn
 ---
 #adjective
-- **Constituted of or [[covered]] with [[cedar]] trees; made of [[cedar]] wood.**
+- **[[c/_constituted|Constituted]] of or [[c/_covered|covered]] with [[c/_cedar|cedar]] trees; made of [[c/_cedar|cedar]] wood.**
 ---
 ---

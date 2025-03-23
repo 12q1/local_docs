@@ -1,9 +1,9 @@
 # Armament
 ---
 #noun
-- **A [[body]] of forces equipped for war.**
-- **All the [[cannon]] and small [[arms]] [[collectively]], with their equipments, [[belonging]] to a ship or a fortification.**
-- **Any equipment for resistance.**
-- **The process of [[building]] up military [[capacity]].**
+- **A [[b/_body|body]] of forces equipped for war.**
+- **[[a/_all|All]] the [[c/_cannon|cannon]] and small [[a/_arms|arms]] [[c/_collectively|collectively]], with their equipments, [[b/_belonging|belonging]] to a ship or a fortification.**
+- **[[a/_any|Any]] equipment for resistance.**
+- **The process of [[b/_building|building]] up military [[c/_capacity|capacity]].**
 ---
 ---

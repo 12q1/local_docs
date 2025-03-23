@@ -1,6 +1,6 @@
 # Cowsheds
 ---
 #noun
-- **A small [[barn]] for keeping [[cows]].**
+- **A small [[b/_barn|barn]] for keeping [[c/_cows|cows]].**
 ---
 ---

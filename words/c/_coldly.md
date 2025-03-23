@@ -1,6 +1,6 @@
 # Coldly
 ---
 #adverb
-- **In a [[cold]] or uncaring manner; indifferently.**
+- **In a [[c/_cold|cold]] or uncaring manner; indifferently.**
 ---
 ---

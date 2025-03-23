@@ -1,9 +1,9 @@
 # Cyclopean
 ---
 #adjective
-- **Suggestive of a [[cyclops]].**
+- **Suggestive of a [[c/_cyclops|cyclops]].**
 - **Fitted together of huge irregular stones.**
 - **Massive in stature.**
-- **(image) Created by [[combining]] two images**
+- **(image) [[c/_created|Created]] by [[c/_combining|combining]] two images**
 ---
 ---

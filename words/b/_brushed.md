@@ -1,17 +1,17 @@
 # Brushed
 ---
 #verb
-- **To [[clean]] with a [[brush]].**
+- **To [[c/_clean|clean]] with a [[b/_brush|brush]].**
 	- _Example: Brush your teeth._
-- **To untangle or [[arrange]] with a [[brush]].**
+- **To untangle or [[a/_arrange|arrange]] with a [[b/_brush|brush]].**
 	- _Example: Brush your hair._
-- **To [[apply]] with a [[brush]].**
+- **To [[a/_apply|apply]] with a [[b/_brush|brush]].**
 	- _Example: Brush the paint onto the walls._
 - **To remove with a sweeping motion.**
 	- _Example: Brush the flour off your clothes._
 - **To touch with a sweeping motion, or lightly in passing.**
 	- _Example: Her scarf brushed his skin._
-- **To [[clean]] one's teeth by [[brushing]] them.**
+- **To [[c/_clean|clean]] one's teeth by [[b/_brushing|brushing]] them.**
 ---
 #adjective
 - **Rubbed, especially as a finish.**

@@ -1,6 +1,6 @@
 # Charas
 ---
 #noun
-- **Cannabis resin, used as an intoxicant in India.**
+- **[[c/_cannabis|Cannabis]] resin, used as an intoxicant in India.**
 ---
 ---

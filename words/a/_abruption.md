@@ -2,6 +2,6 @@
 ---
 #noun
 - **A sudden termination or interruption.**
-- **A sudden [[breaking]] off; a violent separation of [[bodies]].**
+- **A sudden [[b/_breaking|breaking]] off; a violent separation of [[b/_bodies|bodies]].**
 ---
 ---

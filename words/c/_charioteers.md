@@ -1,10 +1,10 @@
 # Charioteers
 ---
 #noun
-- **A person who drives a [[chariot]].**
+- **A person who drives a [[c/_chariot|chariot]].**
 ---
 #verb
-- **To drive a [[chariot]].**
-- **To drive someone in a [[chariot]].**
+- **To drive a [[c/_chariot|chariot]].**
+- **To drive someone in a [[c/_chariot|chariot]].**
 ---
 ---

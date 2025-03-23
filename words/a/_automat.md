@@ -2,6 +2,6 @@
 ---
 #noun
 - **A vending machine for food.**
-- **A [[cafeteria]] [[consisting]] of vending machines.**
+- **A [[c/_cafeteria|cafeteria]] [[c/_consisting|consisting]] of vending machines.**
 ---
 ---

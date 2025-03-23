@@ -1,6 +1,6 @@
 # Couloir
 ---
 #noun
-- **A steep gorge [[along]] a mountainside.**
+- **A steep gorge [[a/_along|along]] a mountainside.**
 ---
 ---

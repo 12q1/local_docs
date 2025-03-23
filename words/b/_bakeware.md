@@ -1,6 +1,6 @@
 # Bakeware
 ---
 #noun
-- **Cooking equipment intended for use inside an oven.**
+- **[[c/_cooking|Cooking]] equipment intended for use inside an oven.**
 ---
 ---

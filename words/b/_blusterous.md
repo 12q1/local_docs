@@ -1,6 +1,6 @@
 # Blusterous
 ---
 #adjective
-- **Tending to [[bluster]].**
+- **Tending to [[b/_bluster|bluster]].**
 ---
 ---

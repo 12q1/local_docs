@@ -1,8 +1,8 @@
 # Avarice
 ---
 #noun
-- **Excessive or inordinate [[desire]] of gain; greed for wealth**
-- **Inordinate [[desire]] for some supposed good.**
+- **Excessive or inordinate [[d/_desire|desire]] of gain; greed for wealth**
+- **Inordinate [[d/_desire|desire]] for some supposed good.**
 ---
 ### Synonyms
 - [[avariciousness]], [[covetousness]], [[cupidity]]

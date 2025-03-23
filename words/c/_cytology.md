@@ -1,7 +1,7 @@
 # Cytology
 ---
 #noun
-- **The study of [[cells]].**
-- **Cytopathology.**
+- **The study of [[c/_cells|cells]].**
+- **[[c/_cytopathology|Cytopathology]].**
 ---
 ---

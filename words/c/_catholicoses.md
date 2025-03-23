@@ -1,6 +1,6 @@
 # Catholicoses
 ---
 #noun
-- **A high-ranking [[bishop]] or patriarch in [[certain]] Eastern Christian traditions.**
+- **A high-ranking [[b/_bishop|bishop]] or patriarch in [[c/_certain|certain]] Eastern [[c/_christian|Christian]] traditions.**
 ---
 ---

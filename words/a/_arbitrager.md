@@ -1,6 +1,6 @@
 # Arbitrager
 ---
 #noun
-- **One who participates in [[arbitrage]].**
+- **One who participates in [[a/_arbitrage|arbitrage]].**
 ---
 ---

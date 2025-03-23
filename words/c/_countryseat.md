@@ -1,6 +1,6 @@
 # Countryseat
 ---
 #noun
-- **An estate in the [[country]]; gentleman's [[country]] residence**
+- **An estate in the [[c/_country|country]]; gentleman's [[c/_country|country]] residence**
 ---
 ---

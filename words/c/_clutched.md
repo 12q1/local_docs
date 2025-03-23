@@ -1,7 +1,7 @@
 # Clutched
 ---
 #verb
-- **To seize, as though with [[claws]].**
+- **To seize, as though with [[c/_claws|claws]].**
 	- _Example: to clutch power_
 - **To grip or grasp tightly.**
 	- _Example: She clutched her purse tightly and walked nervously into the building._

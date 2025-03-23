@@ -1,14 +1,14 @@
 # Agonizing
 ---
 #verb
-- **To writhe with [[agony]]; to suffer violent [[anguish]].**
-- **To struggle; to wrestle; to strive [[desperately]], whether mentally or physically.**
+- **To writhe with [[a/_agony|agony]]; to suffer violent [[a/_anguish|anguish]].**
+- **To struggle; to wrestle; to strive [[d/_desperately|desperately]], whether mentally or physically.**
 ---
 #noun
-- **The [[act]] of one who [[agonizes]].**
+- **The [[a/_act|act]] of one who [[a/_agonizes|agonizes]].**
 ---
 #adjective
-- **Causing physical or mental [[agony]].**
+- **[[c/_causing|Causing]] physical or mental [[a/_agony|agony]].**
 	- _Example: It was an agonizing twenty-minute wait for the results._
 ---
 ---

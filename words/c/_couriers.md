@@ -1,16 +1,16 @@
 # Couriers
 ---
 #noun
-- **A person who looks [[after]] and guides tourists**
-- **A person who [[delivers]] messages**
-- **A [[company]] that [[delivers]] messages**
-- **A [[company]] that transports goods**
-- **A user who earns [[access]] to a topsite by uploading warez**
+- **A person who looks [[a/_after|after]] and guides tourists**
+- **A person who [[d/_delivers|delivers]] messages**
+- **A [[c/_company|company]] that [[d/_delivers|delivers]] messages**
+- **A [[c/_company|company]] that transports goods**
+- **A user who earns [[a/_access|access]] to a topsite by uploading warez**
 ---
 ### Synonyms
 - [[guide]], [[rep]], [[tourist guide]], [[messenger]]
 #verb
-- **To [[deliver]] by [[courier]].**
+- **To [[d/_deliver|deliver]] by [[c/_courier|courier]].**
 	- _Example: We'll have the contract couriered to you._
 ---
 ---

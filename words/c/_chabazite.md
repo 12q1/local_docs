@@ -1,6 +1,6 @@
 # Chabazite
 ---
 #noun
-- **Any of several zeolite minerals that occur in [[basaltic]] rocks.**
+- **[[a/_any|Any]] of several zeolite minerals that occur in [[b/_basaltic|basaltic]] rocks.**
 ---
 ---

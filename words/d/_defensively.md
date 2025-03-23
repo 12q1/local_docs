@@ -1,6 +1,6 @@
 # Defensively
 ---
 #adverb
-- **In a [[defensive]] manner.**
+- **In a [[d/_defensive|defensive]] manner.**
 ---
 ---

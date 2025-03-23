@@ -1,21 +1,21 @@
 # Abrupt
 ---
 #noun
-- **Something which is [[abrupt]]; an [[abyss]].**
+- **Something which is [[a/_abrupt|abrupt]]; an [[a/_abyss|abyss]].**
 ---
 #verb
-- **To tear off or [[asunder]].**
+- **To tear off or [[a/_asunder|asunder]].**
 - **To interrupt suddenly.**
 ---
 #adjective
-- **Broken [[away]] (from restraint).**
+- **[[b/_broken|Broken]] [[a/_away|away]] (from restraint).**
 - **Without notice to prepare the mind for the event; sudden; hasty; unceremonious.**
 	- _Example: The party came to an abrupt end when the parents of our host arrived._
-- **Curt in manner.**
-- **Having sudden transitions from one subject or state to [[another]]; unconnected; disjointed.**
-- **Broken off.**
-- **Extremely steep or [[craggy]] as if [[broken]] up; precipitous.**
-- **Suddenly terminating, as if [[cut]] off; truncate.**
+- **[[c/_curt|Curt]] in manner.**
+- **Having sudden transitions from one subject or state to [[a/_another|another]]; unconnected; disjointed.**
+- **[[b/_broken|Broken]] off.**
+- **Extremely steep or [[c/_craggy|craggy]] as if [[b/_broken|broken]] up; precipitous.**
+- **Suddenly terminating, as if [[c/_cut|cut]] off; truncate.**
 ---
 ### Synonyms
 - [[broken]], [[rough]], [[rugged]], [[blunt]], [[brusque]], [[sudden]], [[disconnected]], [[unexpected]], [[brusque]], [[impolite]], [[rude]], [[uncivil]]

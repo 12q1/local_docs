@@ -1,6 +1,6 @@
 # Bendlet
 ---
 #noun
-- **A diminutive of the [[bend]], of the same shape, but only half the width of the [[bend]].**
+- **A diminutive of the [[b/_bend|bend]], of the same shape, but only half the width of the [[b/_bend|bend]].**
 ---
 ---

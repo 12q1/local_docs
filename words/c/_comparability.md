@@ -1,6 +1,6 @@
 # Comparability
 ---
 #noun
-- **The quality of [[being]] [[comparable]].**
+- **The quality of [[b/_being|being]] [[c/_comparable|comparable]].**
 ---
 ---

@@ -3,35 +3,35 @@
 #noun
 - **An order to do something.**
 	- _Example: I was given a command to cease shooting._
-- **The right or [[authority]] to order, [[control]] or dispose of; the right to be obeyed or to [[compel]] obedience.**
+- **The right or [[a/_authority|authority]] to order, [[c/_control|control]] or dispose of; the right to be obeyed or to [[c/_compel|compel]] obedience.**
 	- _Example: to have command of an army_
-- **Power of [[control]], direction or disposal; mastery.**
+- **Power of [[c/_control|control]], direction or disposal; mastery.**
 	- _Example: England has long held command of the sea_
-- **A position of [[chief]] [[authority]]; a position involving the right or power to order or [[control]].**
+- **A position of [[c/_chief|chief]] [[a/_authority|authority]]; a position involving the right or power to order or [[c/_control|control]].**
 	- _Example: General Smith was placed in command._
-- **The [[act]] of [[commanding]]; exercise or [[authority]] of influence.**
-- **A [[body]] or troops, or [[any]] naval or military force, under the [[control]] of a particular officer; by extension, [[any]] object or [[body]] in someone's [[charge]].**
-- **Dominating situation; range or [[control]] or oversight; extent of view or outlook.**
-- **A directive to a [[computer]] program [[acting]] as an interpreter of some kind, in order to perform a specific task.**
-- **The [[degree]] of [[control]] a pitcher has over his pitches.**
+- **The [[a/_act|act]] of [[c/_commanding|commanding]]; exercise or [[a/_authority|authority]] of influence.**
+- **A [[b/_body|body]] or troops, or [[a/_any|any]] naval or military force, under the [[c/_control|control]] of a particular officer; by extension, [[a/_any|any]] object or [[b/_body|body]] in someone's [[c/_charge|charge]].**
+- **Dominating situation; range or [[c/_control|control]] or oversight; extent of view or outlook.**
+- **A directive to a [[c/_computer|computer]] program [[a/_acting|acting]] as an interpreter of some kind, in order to perform a specific task.**
+- **The [[d/_degree|degree]] of [[c/_control|control]] a pitcher has over his pitches.**
 	- _Example: He's got good command tonight._
-- **A [[command]] performance.**
+- **A [[c/_command|command]] performance.**
 ---
 #verb
-- **To order, give orders; to [[compel]] or direct with [[authority]].**
+- **To order, give orders; to [[c/_compel|compel]] or direct with [[a/_authority|authority]].**
 	- _Example: The king commanded his servant to bring him dinner._
-- **To have or exercise supreme power, [[control]] or [[authority]] over, especially military; to have under direction or [[control]].**
+- **To have or exercise supreme power, [[c/_control|control]] or [[a/_authority|authority]] over, especially military; to have under direction or [[c/_control|control]].**
 	- _Example: to command an army or a ship_
-- **To require with [[authority]]; to [[demand]], order, enjoin.**
+- **To require with [[a/_authority|authority]]; to [[d/_demand|demand]], order, enjoin.**
 	- _Example: he commanded silence_
-- **To dominate through [[ability]], resources, position etc.; to overlook.**
+- **To dominate through [[a/_ability|ability]], resources, position etc.; to overlook.**
 	- _Example: Bridges commanded by a fortified house. (Motley.)_
-- **To exact, [[compel]] or secure by influence; to [[deserve]], [[claim]].**
+- **To exact, [[c/_compel|compel]] or secure by influence; to [[d/_deserve|deserve]], [[c/_claim|claim]].**
 	- _Example: A good magistrate commands the respect and affections of the people._
-- **To hold, to [[control]] the use of.**
+- **To hold, to [[c/_control|control]] the use of.**
 	- _Example: The fort commanded the bay._
 - **To have a view, as from a superior position.**
-- **To direct to [[come]]; to [[bestow]].**
+- **To direct to [[c/_come|come]]; to [[b/_bestow|bestow]].**
 ---
 ### Synonyms
 - [[decree]], [[order]]

@@ -1,6 +1,6 @@
 # Chromaffin
 ---
 #adjective
-- **Having an [[affinity]] for (and thus [[being]] stained [[brownish]] yellow) by [[chromium]] salts.**
+- **Having an [[a/_affinity|affinity]] for (and thus [[b/_being|being]] stained [[b/_brownish|brownish]] yellow) by [[c/_chromium|chromium]] salts.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Bowlegged
 ---
 #adjective
-- **Having a [[bowleg]]**
+- **Having a [[b/_bowleg|bowleg]]**
 ---
 ### Synonyms
 - [[couldn't stop a pig in a passage]]

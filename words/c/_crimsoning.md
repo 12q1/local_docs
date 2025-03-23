@@ -1,7 +1,7 @@
 # Crimsoning
 ---
 #verb
-- **To [[become]] [[crimson]] or [[deep]] red; to [[blush]].**
-- **To dye with [[crimson]] or [[deep]] red; to redden.**
+- **To [[b/_become|become]] [[c/_crimson|crimson]] or [[d/_deep|deep]] red; to [[b/_blush|blush]].**
+- **To dye with [[c/_crimson|crimson]] or [[d/_deep|deep]] red; to redden.**
 ---
 ---

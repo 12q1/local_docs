@@ -1,10 +1,10 @@
 # Demonstrative
 ---
 #noun
-- **(grammar) A [[demonstrative]] word**
+- **(grammar) A [[d/_demonstrative|demonstrative]] word**
 ---
 #adjective
-- **That serves to [[demonstrate]], show or prove**
+- **That serves to [[d/_demonstrate|demonstrate]], show or prove**
 - **Given to open displays of emotion**
 - **(grammar) that specifies the thing or person referred to**
 ---

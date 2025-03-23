@@ -1,6 +1,6 @@
 # Depreciative
 ---
 #adjective
-- **Tending to [[depreciate]] (in value etc.)**
+- **Tending to [[d/_depreciate|depreciate]] (in value etc.)**
 ---
 ---

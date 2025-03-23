@@ -1,6 +1,6 @@
 # Depressingly
 ---
 #adverb
-- **In a [[depressing]] manner.**
+- **In a [[d/_depressing|depressing]] manner.**
 ---
 ---

@@ -1,20 +1,20 @@
 # Beamed
 ---
 #verb
-- **To emit [[beams]] of light; shine; radiate.**
+- **To emit [[b/_beams|beams]] of light; shine; radiate.**
 	- _Example: to beam forth light_
-- **To smile [[broadly]] or especially [[cheerfully]].**
-- **To furnish or supply with [[beams]]**
-- **To give the [[appearance]] of [[beams]] to.**
+- **To smile [[b/_broadly|broadly]] or especially [[c/_cheerfully|cheerfully]].**
+- **To furnish or supply with [[b/_beams|beams]]**
+- **To give the [[a/_appearance|appearance]] of [[b/_beams|beams]] to.**
 - **To transmit matter or information via a high-tech wireless mechanism.**
 	- _Example: Beam me up, Scotty; there's no intelligent life down here._
-- **([[currying]]) To stretch something (for example an [[animal]] hide) on a [[beam]].**
-- **To put (something) on a [[beam]]**
-- **To [[connect]] (musical notes) with a [[beam]], or thick line, in music notation.**
+- **([[c/_currying|currying]]) To stretch something (for example an [[a/_animal|animal]] hide) on a [[b/_beam|beam]].**
+- **To put (something) on a [[b/_beam|beam]]**
+- **To [[c/_connect|connect]] (musical notes) with a [[b/_beam|beam]], or thick line, in music notation.**
 ---
 #adjective
-- **Furnished with [[beams]] or timbers.**
+- **Furnished with [[b/_beams|beams]] or timbers.**
 	- _Example: a beamed ceiling_
-- **Furnished with [[beams]], as the head of a stag.**
+- **Furnished with [[b/_beams|beams]], as the head of a stag.**
 ---
 ---

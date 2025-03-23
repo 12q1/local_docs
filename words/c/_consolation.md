@@ -1,8 +1,8 @@
 # Consolation
 ---
 #noun
-- **The [[act]] of [[consoling]].**
-- **The prize or [[benefit]] for the loser.**
-- **A [[consolation]] goal.**
+- **The [[a/_act|act]] of [[c/_consoling|consoling]].**
+- **The prize or [[b/_benefit|benefit]] for the loser.**
+- **A [[c/_consolation|consolation]] goal.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Deasil
 ---
 #noun
-- **Clockwise motion.**
+- **[[c/_clockwise|Clockwise]] motion.**
 ---
 #adverb
-- **Clockwise.**
+- **[[c/_clockwise|Clockwise]].**
 ---
 ### Synonyms
 - [[clockwise]], [[right-handed]], [[sunways]]

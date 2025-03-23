@@ -1,6 +1,6 @@
 # Cribworks
 ---
 #noun
-- **Cribbing (structural members)**
+- **[[c/_cribbing|Cribbing]] (structural members)**
 ---
 ---

@@ -1,7 +1,7 @@
 # Chitarrone
 ---
 #noun
-- **A [[baroque]], double-necked lute having an extra set of open [[bass]] strings.**
+- **A [[b/_baroque|baroque]], double-necked lute having an extra set of open [[b/_bass|bass]] strings.**
 ---
 ### Synonyms
 - [[chitarrone]]

@@ -1,7 +1,7 @@
 # Castigators
 ---
 #noun
-- **One who [[castigates]].**
+- **One who [[c/_castigates|castigates]].**
 ---
 ### Synonyms
 - [[censurer]], [[scolder]], [[vituperator]]

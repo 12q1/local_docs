@@ -1,8 +1,8 @@
 # Boredom
 ---
 #noun
-- **The state of [[being]] [[bored]].**
-- **An instance or period of [[being]] [[bored]]; A [[bored]] state.**
+- **The state of [[b/_being|being]] [[b/_bored|bored]].**
+- **An instance or period of [[b/_being|being]] [[b/_bored|bored]]; A [[b/_bored|bored]] state.**
 ---
 ### Synonyms
 - [[ennui]]

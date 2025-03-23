@@ -1,12 +1,12 @@
 # Debatable
 ---
 #noun
-- **A topic that is open to [[debate]].**
+- **A topic that is open to [[d/_debate|debate]].**
 ---
 #adjective
-- **Open to [[debate]]; not fully proved or [[confirmed]].**
+- **Open to [[d/_debate|debate]]; not fully proved or [[c/_confirmed|confirmed]].**
 	- _Example: It's debatable whether he is the best candidate for the position._
-- **Able to be [[debated]]; up for discussion.**
+- **[[a/_able|Able]] to be [[d/_debated|debated]]; up for discussion.**
 	- _Example: The lack of bonuses this year is not debatable._
 ---
 ---

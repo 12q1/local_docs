@@ -1,7 +1,7 @@
 # Brainpower
 ---
 #noun
-- **Mental [[ability]]; intelligence.**
-- **Intelligent people [[considered]] as a group.**
+- **Mental [[a/_ability|ability]]; intelligence.**
+- **Intelligent people [[c/_considered|considered]] as a group.**
 ---
 ---

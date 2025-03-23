@@ -1,8 +1,8 @@
 # Bevy
 ---
 #noun
-- **([[collective]]) A group of [[animals]], in particular quail.**
-- **([[collective]]) A group of women.**
-- **([[collective]]) A large group or [[collection]].**
+- **([[c/_collective|collective]]) A group of [[a/_animals|animals]], in particular quail.**
+- **([[c/_collective|collective]]) A group of women.**
+- **([[c/_collective|collective]]) A large group or [[c/_collection|collection]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Calibrates
 ---
 #verb
-- **To [[check]] or [[adjust]] by [[comparison]] with a standard.**
+- **To [[c/_check|check]] or [[a/_adjust|adjust]] by [[c/_comparison|comparison]] with a standard.**
 - **To mark the scale of a measuring instrument.**
-- **To measure the [[caliber]] of a tube or gun.**
+- **To measure the [[c/_caliber|caliber]] of a tube or gun.**
 ---
 ### Synonyms
 - [[tune]]

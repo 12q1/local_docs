@@ -4,6 +4,6 @@
 - **To lose or reverse differentiation**
 ---
 #adjective
-- **That has undergone [[dedifferentiation]]**
+- **That has undergone [[d/_dedifferentiation|dedifferentiation]]**
 ---
 ---

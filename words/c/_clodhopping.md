@@ -1,6 +1,6 @@
 # Clodhopping
 ---
 #adjective
-- **Boorish; rude**
+- **[[b/_boorish|Boorish]]; rude**
 ---
 ---

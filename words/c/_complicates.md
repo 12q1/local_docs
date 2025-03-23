@@ -1,8 +1,8 @@
 # Complicates
 ---
 #verb
-- **To make [[complex]]; to modify so as to make something intricate or difficult.**
-- **To involve in a [[convoluted]] matter.**
+- **To make [[c/_complex|complex]]; to modify so as to make something intricate or difficult.**
+- **To involve in a [[c/_convoluted|convoluted]] matter.**
 	- _Example: Don't complicate yourself in issues that are beyond the scope of your understanding._
 ---
 ### Synonyms

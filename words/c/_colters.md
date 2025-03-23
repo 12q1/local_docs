@@ -1,7 +1,7 @@
 # Colters
 ---
 #noun
-- **A knife or [[cutter]] [[attached]] to the [[beam]] of a plow to [[cut]] the sward, in [[advance]] of the plowshare and moldboard.**
+- **A knife or [[c/_cutter|cutter]] [[a/_attached|attached]] to the [[b/_beam|beam]] of a plow to [[c/_cut|cut]] the sward, in [[a/_advance|advance]] of the plowshare and moldboard.**
 - **The part of a seed drill that makes the furrow for the seed.**
 ---
 ---

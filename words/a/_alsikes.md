@@ -1,6 +1,6 @@
 # Alsikes
 ---
 #noun
-- **Trifolium hybridum, a species of [[clover]] with pinkish or white flowers.**
+- **Trifolium hybridum, a species of [[c/_clover|clover]] with pinkish or white flowers.**
 ---
 ---

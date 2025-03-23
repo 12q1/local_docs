@@ -1,6 +1,6 @@
 # Coccidia
 ---
 #noun
-- **Any protozoan of the subclass Coccidia**
+- **[[a/_any|Any]] protozoan of the subclass [[c/_coccidia|Coccidia]]**
 ---
 ---

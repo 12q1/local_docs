@@ -9,7 +9,7 @@
 ### Antonyms
 - [[admit]], [[reveal]], [[uncover]]
 #noun
-- **An [[act]] of [[concealment]].**
-- **Material, etc. that [[conceals]] something.**
+- **An [[a/_act|act]] of [[c/_concealment|concealment]].**
+- **Material, etc. that [[c/_conceals|conceals]] something.**
 ---
 ---

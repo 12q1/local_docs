@@ -1,6 +1,6 @@
 # Cattleya
 ---
 #noun
-- **Any plant of the genus Cattleya, a species of orchid.**
+- **[[a/_any|Any]] plant of the genus [[c/_cattleya|Cattleya]], a species of orchid.**
 ---
 ---

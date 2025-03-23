@@ -1,7 +1,7 @@
 # Calefacient
 ---
 #noun
-- **A medical [[agent]] or substance which produces a feeling of warmth when [[applied]] to the [[body]].**
+- **A medical [[a/_agent|agent]] or substance which produces a feeling of warmth when [[a/_applied|applied]] to the [[b/_body|body]].**
 ---
 #adjective
 - **Having heating or warming effects**

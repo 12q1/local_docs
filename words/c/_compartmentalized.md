@@ -1,9 +1,9 @@
 # Compartmentalized
 ---
 #verb
-- **To separate something into different [[categories]] or [[compartments]].**
+- **To separate something into different [[c/_categories|categories]] or [[c/_compartments|compartments]].**
 ---
 #adjective
-- **Divided into [[compartments]]**
+- **Divided into [[c/_compartments|compartments]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Defenceless
 ---
 #adjective
-- **Without [[defence]]; undefended.**
+- **Without [[d/_defence|defence]]; undefended.**
 ---
 ---

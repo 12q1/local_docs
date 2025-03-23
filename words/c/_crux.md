@@ -1,12 +1,12 @@
 # Crux
 ---
 #noun
-- **The [[basic]], [[central]], or essential point or feature.**
+- **The [[b/_basic|basic]], [[c/_central|central]], or essential point or feature.**
 	- _Example: The crux of her argument was that the roadways needed repair before anything else could be accomplished._
-- **The [[critical]] or transitional moment or issue, a turning point.**
+- **The [[c/_critical|critical]] or transitional moment or issue, a turning point.**
 - **A puzzle or difficulty.**
-- **The hardest point of a [[climb]].**
-- **A [[cross]] on a [[coat]] of [[arms]].**
+- **The hardest point of a [[c/_climb|climb]].**
+- **A [[c/_cross|cross]] on a [[c/_coat|coat]] of [[a/_arms|arms]].**
 ---
 ### Synonyms
 - [[core]], [[gist]]

@@ -1,10 +1,10 @@
 # Creationist
 ---
 #noun
-- **A proponent or supporter of [[creationism]].**
+- **A proponent or supporter of [[c/_creationism|creationism]].**
 ---
 #adjective
-- **Of or relating to [[creationism]].**
+- **Of or relating to [[c/_creationism|creationism]].**
 ---
 ### Synonyms
 - [[creationistic]]

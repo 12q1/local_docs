@@ -1,6 +1,6 @@
 # Bitchery
 ---
 #noun
-- **Behavior [[considered]] typical of a [[bitch]]**
+- **[[b/_behavior|Behavior]] [[c/_considered|considered]] typical of a [[b/_bitch|bitch]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Curium
 ---
 #noun
-- **A transuranic [[chemical]] element (symbol Cm) with an [[atomic]] number of 96.**
+- **A transuranic [[c/_chemical|chemical]] element (symbol [[c/_cm|Cm]]) with an [[a/_atomic|atomic]] number of 96.**
 ---
 ---

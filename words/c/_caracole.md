@@ -2,10 +2,10 @@
 ---
 #noun
 - **A half-turn performed by a horse and rider in dressage.**
-- **([[cavalry]]) A [[combat]] maneuver where riders of the same squadron turn simultaneously to their left or to their right.**
+- **([[c/_cavalry|cavalry]]) A [[c/_combat|combat]] maneuver where riders of the same squadron turn simultaneously to their left or to their right.**
 - **A spiral staircase.**
 ---
 #verb
-- **To execute a [[caracole]].**
+- **To execute a [[c/_caracole|caracole]].**
 ---
 ---

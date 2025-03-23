@@ -1,11 +1,11 @@
 # Defiant
 ---
 #noun
-- **One who [[defies]] opposition.**
+- **One who [[d/_defies|defies]] opposition.**
 ---
 #adjective
-- **Defying.**
-- **Boldly resisting opposition.**
+- **[[d/_defying|Defying]].**
+- **[[b/_boldly|Boldly]] resisting opposition.**
 ---
 ### Synonyms
 - [[dareful]], [[rebellious]]

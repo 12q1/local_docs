@@ -1,9 +1,9 @@
 # Chandlery
 ---
 #noun
-- **The [[art]] or trade of [[candlemaking]].**
-- **A [[business]], shop or warehouse used in [[candlemaking]].**
-- **An operation (usually, a [[business]]) which provides supplies.**
-- **The merchandise of a [[chandler]].**
+- **The [[a/_art|art]] or trade of [[c/_candlemaking|candlemaking]].**
+- **A [[b/_business|business]], shop or warehouse used in [[c/_candlemaking|candlemaking]].**
+- **An operation (usually, a [[b/_business|business]]) which provides supplies.**
+- **The merchandise of a [[c/_chandler|chandler]].**
 ---
 ---

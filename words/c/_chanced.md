@@ -1,14 +1,14 @@
 # Chanced
 ---
 #verb
-- **To happen by [[chance]], to occur.**
+- **To happen by [[c/_chance|chance]], to occur.**
 	- _Example: It chanced that I found a solution the very next day._
-- **To [[befall]]; to happen to.**
+- **To [[b/_befall|befall]]; to happen to.**
 - **To try or risk.**
 	- _Example: Shall we carry the umbrella, or chance a rainstorm?_
-- **To discover something by [[chance]].**
+- **To discover something by [[c/_chance|chance]].**
 	- _Example: He chanced upon a kindly stranger who showed him the way._
-- **(Belize) To rob, [[cheat]] or swindle someone.**
+- **(Belize) To rob, [[c/_cheat|cheat]] or swindle someone.**
 	- _Example: The car broke down a week after I bought it. I was chanced by that fast-talking salesman._
 ---
 ### Synonyms

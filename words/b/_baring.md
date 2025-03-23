@@ -9,6 +9,6 @@
 ### Antonyms
 - [[cover]], [[cover up]], [[hide]]
 #noun
-- **The [[act]] by which something is laid [[bare]].**
+- **The [[a/_act|act]] by which something is laid [[b/_bare|bare]].**
 ---
 ---

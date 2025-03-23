@@ -1,6 +1,6 @@
 # Cementum
 ---
 #noun
-- **A [[bony]] substance that [[covers]] the root of a tooth; [[cement]].**
+- **A [[b/_bony|bony]] substance that [[c/_covers|covers]] the root of a tooth; [[c/_cement|cement]].**
 ---
 ---

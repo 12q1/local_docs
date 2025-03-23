@@ -1,26 +1,26 @@
 # Boarding
 ---
 #verb
-- **To step or [[climb]] onto or otherwise enter a ship, [[aircraft]], train or other [[conveyance]].**
+- **To step or [[c/_climb|climb]] onto or otherwise enter a ship, [[a/_aircraft|aircraft]], train or other [[c/_conveyance|conveyance]].**
 	- _Example: It is time to board the aircraft._
 - **To provide someone with meals and lodging, usually in exchange for money.**
 	- _Example: to board one's horse at a livery stable_
 - **To receive meals and lodging in exchange for money.**
-- **To [[capture]] an enemy ship by going [[alongside]] and grappling her, then invading her with a [[boarding]] party**
-- **To obtain meals, or meals and lodgings, statedly for [[compensation]]**
-- **To [[approach]] (someone); to make [[advances]] to, [[accost]].**
-- **To [[cover]] with [[boards]] or [[boarding]].**
+- **To [[c/_capture|capture]] an enemy ship by going [[a/_alongside|alongside]] and grappling her, then invading her with a [[b/_boarding|boarding]] party**
+- **To obtain meals, or meals and lodgings, statedly for [[c/_compensation|compensation]]**
+- **To [[a/_approach|approach]] (someone); to make [[a/_advances|advances]] to, [[a/_accost|accost]].**
+- **To [[c/_cover|cover]] with [[b/_boards|boards]] or [[b/_boarding|boarding]].**
 	- _Example: to board a house_
-- **To hit (someone) with a wooden [[board]].**
-- **To write something on a [[board]], especially a [[blackboard]] or whiteboard.**
+- **To hit (someone) with a wooden [[b/_board|board]].**
+- **To write something on a [[b/_board|board]], especially a [[b/_blackboard|blackboard]] or whiteboard.**
 ---
 ### Antonyms
 - [[alight]], [[disembark]]
 #noun
-- **The [[act]] of people getting [[aboard]] a ship [[aircraft]], train, [[bus]] etc.; embarkation**
-- **The [[act]] of a sailor or [[boarding]] party [[attacking]] an enemy ship by [[boarding]] it**
-- **A structure made of [[boards]]**
+- **The [[a/_act|act]] of people getting [[a/_aboard|aboard]] a ship [[a/_aircraft|aircraft]], train, [[b/_bus|bus]] etc.; embarkation**
+- **The [[a/_act|act]] of a sailor or [[b/_boarding|boarding]] party [[a/_attacking|attacking]] an enemy ship by [[b/_boarding|boarding]] it**
+- **A structure made of [[b/_boards|boards]]**
 - **Riding a skateboard**
-- **A penalty [[called]] for pushing into the [[boards]]**
+- **A penalty [[c/_called|called]] for pushing into the [[b/_boards|boards]]**
 ---
 ---

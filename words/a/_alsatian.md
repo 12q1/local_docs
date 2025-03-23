@@ -2,8 +2,8 @@
 ---
 #noun
 - **A native or inhabitant of Alsace.**
-- **([[dated]] US) A German shepherd dog.**
-- **A rogue or [[debauchee]], like those who haunted Alsatia in London.**
+- **([[d/_dated|dated]] US) A German shepherd dog.**
+- **A rogue or [[d/_debauchee|debauchee]], like those who haunted [[a/_alsatia|Alsatia]] in London.**
 ---
 ### Synonyms
 - [[Alsatian shepherd]], [[German Shepherd]], [[Elsassian]], [[Elsatian]]

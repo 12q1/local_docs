@@ -1,8 +1,8 @@
 # Cuckoopint
 ---
 #noun
-- **The flowering plant Arum maculatum that has [[arrow]]-shaped leaves and a [[cluster]] of scarlet [[berries]].**
-- **The related plant Arum italicum.**
+- **The flowering plant [[a/_arum|Arum]] maculatum that has [[a/_arrow|arrow]]-shaped leaves and a [[c/_cluster|cluster]] of scarlet [[b/_berries|berries]].**
+- **The related plant [[a/_arum|Arum]] italicum.**
 ---
 ### Synonyms
 - [[Jack in the pulpit]], [[lords and ladies]], [[rampe]], [[starchwort]]

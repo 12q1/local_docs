@@ -1,6 +1,6 @@
 # Allowedly
 ---
 #adverb
-- **Admittedly**
+- **[[a/_admittedly|Admittedly]]**
 ---
 ---

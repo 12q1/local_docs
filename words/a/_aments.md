@@ -1,9 +1,9 @@
 # Aments
 ---
 #noun
-- **A [[catkin]] or [[amentum]].**
+- **A [[c/_catkin|catkin]] or [[a/_amentum|amentum]].**
 ---
 #noun
-- **A [[congenital]] idiot.**
+- **A [[c/_congenital|congenital]] idiot.**
 ---
 ---

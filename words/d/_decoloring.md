@@ -1,6 +1,6 @@
 # Decoloring
 ---
 #verb
-- **To [[deprive]] of [[colour]]; to [[bleach]].**
+- **To [[d/_deprive|deprive]] of [[c/_colour|colour]]; to [[b/_bleach|bleach]].**
 ---
 ---

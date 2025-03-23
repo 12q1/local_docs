@@ -1,6 +1,6 @@
 # Bluegills
 ---
 #noun
-- **A North American sunfish; Lepomis macrochirus.**
+- **A North [[a/_american|American]] sunfish; Lepomis macrochirus.**
 ---
 ---

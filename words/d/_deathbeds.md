@@ -1,7 +1,7 @@
 # Deathbeds
 ---
 #noun
-- **The [[bed]] on which someone dies.**
-- **The last hours [[before]] [[death]].**
+- **The [[b/_bed|bed]] on which someone dies.**
+- **The last hours [[b/_before|before]] [[d/_death|death]].**
 ---
 ---

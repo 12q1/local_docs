@@ -1,17 +1,17 @@
 # Anhingas
 ---
 #noun
-- **A fish-eating [[bird]] (Anhinga [[anhinga]]) of North America with a thin, pointed [[bill]] and a long, thin neck.**
+- **A fish-eating [[b/_bird|bird]] ([[a/_anhinga|Anhinga]] [[a/_anhinga|anhinga]]) of North [[a/_america|America]] with a thin, pointed [[b/_bill|bill]] and a long, thin neck.**
 ---
 ### Synonyms
 - [[American darter]], [[American snakebird]], [[water turkey]]
 #noun
-- **One who [[darts]], or who throws [[darts]]; that which [[darts]].**
-- **Any member of the family Anhingidae, waterbirds with long necks.**
-- **Any of various [[darting]] freshwater fish of the family Percidae, that are usually small and [[brightly]] [[coloured]] and are native to North America.**
-- **Any of the similar South American (and Panamanian) freshwater fish in the [[characin]] family Crenuchidae**
-- **Any of the dragonflies in the genus Sympetrum**
-- **Any of various hesperiid [[butterflies]] of the genera Arrhenes and Telicota.**
+- **One who [[d/_darts|darts]], or who throws [[d/_darts|darts]]; that which [[d/_darts|darts]].**
+- **[[a/_any|Any]] member of the family Anhingidae, waterbirds with long necks.**
+- **[[a/_any|Any]] of various [[d/_darting|darting]] freshwater fish of the family Percidae, that are usually small and [[b/_brightly|brightly]] [[c/_coloured|coloured]] and are native to North [[a/_america|America]].**
+- **[[a/_any|Any]] of the similar South [[a/_american|American]] (and Panamanian) freshwater fish in the [[c/_characin|characin]] family Crenuchidae**
+- **[[a/_any|Any]] of the dragonflies in the genus Sympetrum**
+- **[[a/_any|Any]] of various hesperiid [[b/_butterflies|butterflies]] of the genera Arrhenes and Telicota.**
 ---
 ### Synonyms
 - [[meadowhawk]], [[snakebird]]

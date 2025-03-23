@@ -1,17 +1,17 @@
 # Bowl
 ---
 #noun
-- **A roughly hemispherical [[container]] used to hold, mix or present food, such as salad, fruit or soup, or other items.**
-- **As much as is held by a [[bowl]].**
+- **A roughly hemispherical [[c/_container|container]] used to hold, mix or present food, such as salad, fruit or soup, or other items.**
+- **As much as is held by a [[b/_bowl|bowl]].**
 	- _Example: You can’t have any more soup – you’ve had three bowls already._
-- **A dish [[comprising]] a mix of different foods, not [[all]] of which need be [[cooked]], served in a [[bowl]].**
+- **A dish [[c/_comprising|comprising]] a mix of different foods, not [[a/_all|all]] of which need be [[c/_cooked|cooked]], served in a [[b/_bowl|bowl]].**
 	- _Example: This restaurant offers a number of different bowls._
-- **A haircut in which straight hair is [[cut]] at an even height [[around]] the edges, forming a [[bowl]] shape.**
-- **The round hollow part of [[anything]].**
+- **A haircut in which straight hair is [[c/_cut|cut]] at an even height [[a/_around|around]] the edges, forming a [[b/_bowl|bowl]] shape.**
+- **The round hollow part of [[a/_anything|anything]].**
 	- _Example: Direct the cleaning fluid around the toilet bowl and under the rim._
-- **A round [[crater]] (or similar) in the ground.**
-- **An elliptical-shaped stadium or [[amphitheater]] resembling a [[bowl]].**
-- **A postseason football [[competition]], a [[bowl]] game (i.e. Rose Bowl, Super Bowl)**
+- **A round [[c/_crater|crater]] (or similar) in the ground.**
+- **An elliptical-shaped stadium or [[a/_amphitheater|amphitheater]] resembling a [[b/_bowl|bowl]].**
+- **A postseason football [[c/_competition|competition]], a [[b/_bowl|bowl]] game (i.e. Rose [[b/_bowl|Bowl]], Super [[b/_bowl|Bowl]])**
 ---
 ### Synonyms
 - [[bowlful]], [[crater]], [[hollow]], [[bowl cut]], [[pudding bowl]]

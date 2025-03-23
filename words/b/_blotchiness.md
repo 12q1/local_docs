@@ -1,6 +1,6 @@
 # Blotchiness
 ---
 #noun
-- **The state or [[condition]] of [[being]] [[blotchy]].**
+- **The state or [[c/_condition|condition]] of [[b/_being|being]] [[b/_blotchy|blotchy]].**
 ---
 ---

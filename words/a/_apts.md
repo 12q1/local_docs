@@ -1,6 +1,6 @@
 # Apts
 ---
 #noun
-- **An [[apartment]]; a flat.**
+- **An [[a/_apartment|apartment]]; a flat.**
 ---
 ---

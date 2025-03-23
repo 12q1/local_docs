@@ -1,6 +1,6 @@
 # Anagrammatic
 ---
 #adjective
-- **Being or relating to an [[anagram]].**
+- **[[b/_being|Being]] or relating to an [[a/_anagram|anagram]].**
 ---
 ---

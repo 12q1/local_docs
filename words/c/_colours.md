@@ -1,43 +1,43 @@
 # Colours
 ---
 #noun
-- **The spectral [[composition]] of visible light**
+- **The spectral [[c/_composition|composition]] of visible light**
 	- _Example: Humans and birds can perceive color._
 - **A subset thereof:**
 - **A paint.**
 	- _Example: The artist took out her colors and began work on a landscape._
 - **Human skin tone, especially as an indicator of race or ethnicity.**
 	- _Example: Color has been a sensitive issue in many societies._
-- **Skin [[color]], noted as normal, jaundiced, [[cyanotic]], flush, mottled, pale, or [[ashen]] as part of the skin signs [[assessment]].**
-- **A flushed [[appearance]] of [[blood]] in the face; redness of [[complexion]].**
-- **Richness of expression; [[detail]] or flavour that is likely to generate interest or enjoyment.**
+- **Skin [[c/_color|color]], noted as normal, jaundiced, [[c/_cyanotic|cyanotic]], flush, mottled, pale, or [[a/_ashen|ashen]] as part of the skin signs [[a/_assessment|assessment]].**
+- **A flushed [[a/_appearance|appearance]] of [[b/_blood|blood]] in the face; redness of [[c/_complexion|complexion]].**
+- **Richness of expression; [[d/_detail|detail]] or flavour that is likely to generate interest or enjoyment.**
 	- _Example: Could you give me some color with regards to which products made up the mix of revenue for this quarter?_
 - **A standard, flag, or insignia:**
-- **(in the plural) An [[award]] for sporting [[achievement]], particularly within a school or university.**
+- **(in the plural) An [[a/_award|award]] for sporting [[a/_achievement|achievement]], particularly within a school or university.**
 	- _Example: He was awarded colors for his football._
-- **(in the plural) The morning [[ceremony]] of raising the flag.**
-- **A property of quarks, with three values [[called]] red, green, and [[blue]], which they [[can]] exchange by passing gluons.**
-- **A third-order measure of [[derivative]] price sensitivity, expressed as the rate of [[change]] of gamma with respect to time, or equivalently the rate of [[change]] of [[charm]] with respect to [[changes]] in the underlying [[asset]] price.**
-- **The relative lightness or [[darkness]] of a mass of written or printed text on a page. (See type [[color]].)**
-- **Any of the [[colored]] [[balls]] excluding the reds.**
-- **A front or facade; an ostensible truth [[actually]] false; pretext.**
-- **An [[appearance]] of right or [[authority]]; [[color]] of law.**
+- **(in the plural) The morning [[c/_ceremony|ceremony]] of raising the flag.**
+- **A property of quarks, with three values [[c/_called|called]] red, green, and [[b/_blue|blue]], which they [[c/_can|can]] exchange by passing gluons.**
+- **A third-order measure of [[d/_derivative|derivative]] price sensitivity, expressed as the rate of [[c/_change|change]] of gamma with respect to time, or equivalently the rate of [[c/_change|change]] of [[c/_charm|charm]] with respect to [[c/_changes|changes]] in the underlying [[a/_asset|asset]] price.**
+- **The relative lightness or [[d/_darkness|darkness]] of a mass of written or printed text on a page. (See type [[c/_color|color]].)**
+- **[[a/_any|Any]] of the [[c/_colored|colored]] [[b/_balls|balls]] excluding the reds.**
+- **A front or facade; an ostensible truth [[a/_actually|actually]] false; pretext.**
+- **An [[a/_appearance|appearance]] of right or [[a/_authority|authority]]; [[c/_color|color]] of law.**
 	- _Example: Under color of law, he managed to bilk taxpayers of millions of dollars._
 ---
 ### Synonyms
 - [[DgammaDtime]], [[colour]], [[gamma decay]], [[blee]], [[complexion]], [[ethnicity]], [[race]]
 #verb
-- **To give something [[color]].**
+- **To give something [[c/_color|color]].**
 	- _Example: We could color the walls red._
-- **To [[apply]] [[colors]] to the [[areas]] within the [[boundaries]] of a line drawing using [[colored]] markers or [[crayons]].**
+- **To [[a/_apply|apply]] [[c/_colors|colors]] to the [[a/_areas|areas]] within the [[b/_boundaries|boundaries]] of a line drawing using [[c/_colored|colored]] markers or [[c/_crayons|crayons]].**
 	- _Example: My kindergartener loves to color._
-- **(of a person or their face) To [[become]] red through increased [[blood]] flow.**
+- **(of a person or their face) To [[b/_become|become]] red through increased [[b/_blood|blood]] flow.**
 	- _Example: Her face colored as she realized her mistake._
-- **To [[affect]] without [[completely]] [[changing]].**
+- **To [[a/_affect|affect]] without [[c/_completely|completely]] [[c/_changing|changing]].**
 	- _Example: That interpretation certainly colors my perception of the book._
-- **To [[attribute]] a quality to; to portray (as).**
+- **To [[a/_attribute|attribute]] a quality to; to portray (as).**
 	- _Example: Color me confused._
-- **To [[assign]] [[colors]] to the vertices of a graph (or the regions of a map) so that no two vertices [[connected]] by an edge (regions sharing a [[border]]) have the same [[color]].**
+- **To [[a/_assign|assign]] [[c/_colors|colors]] to the vertices of a graph (or the regions of a map) so that no two vertices [[c/_connected|connected]] by an edge (regions sharing a [[b/_border|border]]) have the same [[c/_color|color]].**
 	- _Example: Can this graph be 2-colored?_
 ---
 ### Synonyms
@@ -45,6 +45,6 @@
 ### Antonyms
 - [[decolor]]
 #noun
-- **Flag [[denoting]] the nationality of a vessel, flown from the stern.**
+- **Flag [[d/_denoting|denoting]] the nationality of a vessel, flown from the stern.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Coppering
 ---
 #verb
-- **To sheathe or [[coat]] with [[copper]].**
+- **To sheathe or [[c/_coat|coat]] with [[c/_copper|copper]].**
 ---
 #noun
-- **The [[act]] of [[covering]] with [[copper]].**
-- **An envelope or [[covering]] of [[copper]].**
+- **The [[a/_act|act]] of [[c/_covering|covering]] with [[c/_copper|copper]].**
+- **An envelope or [[c/_covering|covering]] of [[c/_copper|copper]].**
 ---
 ---

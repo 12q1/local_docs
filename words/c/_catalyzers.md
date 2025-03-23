@@ -1,7 +1,7 @@
 # Catalyzers
 ---
 #noun
-- **That which [[catalyzes]].**
-- **A [[catalytic]] [[converter]].**
+- **That which [[c/_catalyzes|catalyzes]].**
+- **A [[c/_catalytic|catalytic]] [[c/_converter|converter]].**
 ---
 ---

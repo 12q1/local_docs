@@ -1,8 +1,8 @@
 # Animadverted
 ---
 #verb
-- **To [[criticise]], to [[censure]].**
-- **To [[consider]].**
-- **To turn judicial [[attention]] (to); to [[criticise]] or punish.**
+- **To [[c/_criticise|criticise]], to [[c/_censure|censure]].**
+- **To [[c/_consider|consider]].**
+- **To turn judicial [[a/_attention|attention]] (to); to [[c/_criticise|criticise]] or punish.**
 ---
 ---

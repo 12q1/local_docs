@@ -1,9 +1,9 @@
 # Caprices
 ---
 #noun
-- **An impulsive, seemingly unmotivated [[action]], [[change]] of mind, or notion.**
-- **An unpredictable or sudden [[condition]], [[change]], or series of [[changes]].**
+- **An impulsive, seemingly unmotivated [[a/_action|action]], [[c/_change|change]] of mind, or notion.**
+- **An unpredictable or sudden [[c/_condition|condition]], [[c/_change|change]], or series of [[c/_changes|changes]].**
 - **A disposition to be impulsive.**
-- **A [[capriccio]].**
+- **A [[c/_capriccio|capriccio]].**
 ---
 ---

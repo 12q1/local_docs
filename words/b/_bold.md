@@ -1,6 +1,6 @@
 # Bold
 ---
 #noun
-- **A dwelling; habitation; [[building]].**
+- **A dwelling; habitation; [[b/_building|building]].**
 ---
 ---

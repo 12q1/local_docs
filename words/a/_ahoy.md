@@ -5,11 +5,11 @@
 	- _Example: There were many ahoys heard from the approaching ship._
 ---
 #verb
-- **To hail with a [[cry]] of "[[ahoy]]".**
+- **To hail with a [[c/_cry|cry]] of "[[a/_ahoy|ahoy]]".**
 ---
 #interjection
-- **Used to hail a ship, a [[boat]] or a person, or to [[attract]] [[attention]].**
-- **Warning of something [[approaching]] or impending.**
+- **Used to hail a ship, a [[b/_boat|boat]] or a person, or to [[a/_attract|attract]] [[a/_attention|attention]].**
+- **Warning of something [[a/_approaching|approaching]] or impending.**
 ---
 ### Synonyms
 - [[oi]], [[yo]]

@@ -1,6 +1,6 @@
 # Antheridium
 ---
 #noun
-- **An organ producing male gametes [[called]] antherozoids, found in some [[algae]], ferns, and [[bryophytes]].**
+- **An organ producing male gametes [[c/_called|called]] antherozoids, found in some [[a/_algae|algae]], ferns, and [[b/_bryophytes|bryophytes]].**
 ---
 ---

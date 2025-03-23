@@ -9,6 +9,6 @@
 ### Synonyms
 - [[bewreak]], [[get back at]], [[retaliate]], [[take revenge]], [[spite]]
 #noun
-- **The [[act]] by which somebody is [[avenged]].**
+- **The [[a/_act|act]] by which somebody is [[a/_avenged|avenged]].**
 ---
 ---

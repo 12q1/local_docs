@@ -1,7 +1,7 @@
 # Burglarize
 ---
 #verb
-- **To [[commit]] [[burglary]].**
+- **To [[c/_commit|commit]] [[b/_burglary|burglary]].**
 ---
 ### Synonyms
 - [[burgle]]

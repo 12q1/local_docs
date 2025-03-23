@@ -1,6 +1,6 @@
 # Cowpunchers
 ---
 #noun
-- **A [[cowboy]]**
+- **A [[c/_cowboy|cowboy]]**
 ---
 ---

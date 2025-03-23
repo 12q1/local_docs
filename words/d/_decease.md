@@ -1,7 +1,7 @@
 # Decease
 ---
 #noun
-- **Death, [[departure]] from life.**
+- **[[d/_death|Death]], [[d/_departure|departure]] from life.**
 ---
 #verb
 - **To die.**

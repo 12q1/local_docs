@@ -1,7 +1,7 @@
 # Alabastrine
 ---
 #adjective
-- **Of, pertaining to, or like, [[alabaster]].**
+- **Of, pertaining to, or like, [[a/_alabaster|alabaster]].**
 	- _Example: alabastrine limbs_
 ---
 ### Synonyms

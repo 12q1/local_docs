@@ -1,7 +1,7 @@
 # Classicist
 ---
 #noun
-- **A [[classical]] scholar, especially one who studies [[ancient]] Greek and Latin language and [[culture]].**
-- **A follower of [[classicism]].**
+- **A [[c/_classical|classical]] scholar, especially one who studies [[a/_ancient|ancient]] Greek and Latin language and [[c/_culture|culture]].**
+- **A follower of [[c/_classicism|classicism]].**
 ---
 ---

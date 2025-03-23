@@ -1,17 +1,17 @@
 # Companions
 ---
 #noun
-- **A friend, [[acquaintance]], or partner; someone with whom one spends time or keeps [[company]]**
+- **A friend, [[a/_acquaintance|acquaintance]], or partner; someone with whom one spends time or keeps [[c/_company|company]]**
 	- _Example: His dog has been his trusted companion for the last five years._
-- **A person employed to [[accompany]] or travel with [[another]].**
-- **The framework on the quarterdeck of a sailing ship through which [[daylight]] entered the [[cabins]] [[below]].**
-- **The [[covering]] of a hatchway on an upper [[deck]] which leads to the [[companionway]]; the stairs themselves.**
-- **A knot in whose neighborhood [[another]], specified knot meets every meridian disk.**
-- **A thing or phenomenon that is [[closely]] [[associated]] with [[another]] thing, phenomenon, or person.**
-- **An [[appended]] source of media or information, [[designed]] to be used in [[conjunction]] with and to enhance the main material.**
+- **A person employed to [[a/_accompany|accompany]] or travel with [[a/_another|another]].**
+- **The framework on the quarterdeck of a sailing ship through which [[d/_daylight|daylight]] entered the [[c/_cabins|cabins]] [[b/_below|below]].**
+- **The [[c/_covering|covering]] of a hatchway on an upper [[d/_deck|deck]] which leads to the [[c/_companionway|companionway]]; the stairs themselves.**
+- **A knot in whose neighborhood [[a/_another|another]], specified knot meets every meridian disk.**
+- **A thing or phenomenon that is [[c/_closely|closely]] [[a/_associated|associated]] with [[a/_another|another]] thing, phenomenon, or person.**
+- **An [[a/_appended|appended]] source of media or information, [[d/_designed|designed]] to be used in [[c/_conjunction|conjunction]] with and to enhance the main material.**
 	- _Example: The companion guide gives an in-depth analysis of this particular translation._
-- **A [[celestial]] object that is [[associated]] with [[another]].**
-- **A knight of the lowest rank in [[certain]] orders.**
+- **A [[c/_celestial|celestial]] object that is [[a/_associated|associated]] with [[a/_another|another]].**
+- **A knight of the lowest rank in [[c/_certain|certain]] orders.**
 	- _Example: a companion of the Bath_
 - **A fellow; a rogue.**
 ---

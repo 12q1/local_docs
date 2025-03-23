@@ -1,6 +1,6 @@
 # Buckbrush
 ---
 #noun
-- **Any of various North American shrubs that [[deer]] feed on:**
+- **[[a/_any|Any]] of various North [[a/_american|American]] shrubs that [[d/_deer|deer]] feed on:**
 ---
 ---

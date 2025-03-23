@@ -1,6 +1,6 @@
 # Cnidaria
 ---
 #noun
-- **Cnidarian**
+- **[[c/_cnidarian|Cnidarian]]**
 ---
 ---

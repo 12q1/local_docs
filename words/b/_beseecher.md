@@ -1,6 +1,6 @@
 # Beseecher
 ---
 #noun
-- **A person who [[beseeches]].**
+- **A person who [[b/_beseeches|beseeches]].**
 ---
 ---

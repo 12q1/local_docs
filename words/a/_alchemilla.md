@@ -1,7 +1,7 @@
 # Alchemilla
 ---
 #noun
-- **Any of the genus Alchemilla of herbaceous perennial plants.**
+- **[[a/_any|Any]] of the genus [[a/_alchemilla|Alchemilla]] of herbaceous perennial plants.**
 ---
 ### Synonyms
 - [[lady's mantle]]

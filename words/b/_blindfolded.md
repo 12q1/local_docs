@@ -1,10 +1,10 @@
 # Blindfolded
 ---
 #verb
-- **To [[cover]] the eyes, in order to make someone unable to see.**
-- **To obscure understanding or [[comprehension]].**
+- **To [[c/_cover|cover]] the eyes, in order to make someone unable to see.**
+- **To obscure understanding or [[c/_comprehension|comprehension]].**
 ---
 #adjective
-- **Wearing a [[blindfold]]**
+- **Wearing a [[b/_blindfold|blindfold]]**
 ---
 ---

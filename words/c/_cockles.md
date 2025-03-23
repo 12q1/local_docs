@@ -1,21 +1,21 @@
 # Cockles
 ---
 #noun
-- **Any of various edible European [[bivalve]] mollusks, of the family Cardiidae, having heart-shaped shells.**
+- **[[a/_any|Any]] of various edible European [[b/_bivalve|bivalve]] mollusks, of the family [[c/_cardiidae|Cardiidae]], having heart-shaped shells.**
 - **The shell of such a mollusk.**
-- **(in the plural) One’s innermost feelings (only in the expression “the [[cockles]] of one’s heart”).**
-- **(directly from French [[coquille]]) A wrinkle, pucker**
-- **(by extension) A [[defect]] in sheepskin; firm [[dark]] nodules [[caused]] by the [[bites]] of keds on live sheep**
-- **The mineral [[black]] tourmaline or schorl.**
-- **The fire [[chamber]] of a furnace.**
+- **(in the plural) One’s innermost feelings (only in the expression “the [[c/_cockles|cockles]] of one’s heart”).**
+- **(directly from French [[c/_coquille|coquille]]) A wrinkle, pucker**
+- **(by extension) A [[d/_defect|defect]] in sheepskin; firm [[d/_dark|dark]] nodules [[c/_caused|caused]] by the [[b/_bites|bites]] of keds on live sheep**
+- **The mineral [[b/_black|black]] tourmaline or schorl.**
+- **The fire [[c/_chamber|chamber]] of a furnace.**
 - **A kiln for drying hops; an oast.**
 - **The dome of a heating furnace.**
 ---
 #verb
-- **To [[cause]] to [[contract]] into wrinkles or ridges, as some kinds of [[cloth]] [[after]] a wetting; to pucker.**
+- **To [[c/_cause|cause]] to [[c/_contract|contract]] into wrinkles or ridges, as some kinds of [[c/_cloth|cloth]] [[a/_after|after]] a wetting; to pucker.**
 ---
 #noun
-- **Any of several field weeds, such as the [[common]] [[corncockle]] (Agrostemma githago) and [[darnel]] ryegrass (Lolium temulentum).**
+- **[[a/_any|Any]] of several field weeds, such as the [[c/_common|common]] [[c/_corncockle|corncockle]] ([[a/_agrostemma|Agrostemma]] githago) and [[d/_darnel|darnel]] ryegrass (Lolium temulentum).**
 ---
 ### Synonyms
 - [[darnel]]

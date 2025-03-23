@@ -1,7 +1,7 @@
 # Coypu
 ---
 #noun
-- **A large, [[crepuscular]], semiaquatic rodent (Myocastor [[coypus]]) resembling a large rat, having [[bright]] orange-yellow incisors, native to South America and introduced to Europe, Asia and North America, valued for its fur in eastern Europe and [[central]] Asia and [[considered]] a pest elsewhere.**
+- **A large, [[c/_crepuscular|crepuscular]], semiaquatic rodent (Myocastor [[c/_coypus|coypus]]) resembling a large rat, having [[b/_bright|bright]] orange-yellow incisors, native to South [[a/_america|America]] and introduced to Europe, [[a/_asia|Asia]] and North [[a/_america|America]], valued for its fur in eastern Europe and [[c/_central|central]] [[a/_asia|Asia]] and [[c/_considered|considered]] a pest elsewhere.**
 ---
 ### Synonyms
 - [[nutria]]

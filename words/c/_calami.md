@@ -1,13 +1,13 @@
 # Calami
 ---
 #noun
-- **The sweet flag, Acorus [[calamus]].**
+- **The sweet flag, [[a/_acorus|Acorus]] [[c/_calamus|calamus]].**
 - **A quill; the hard, horny, hollow, and more or less transparent part of the stem or scape of a feather.**
 ---
 #noun
-- **An [[abnormal]] [[connection]] or passageway [[between]] organs or vessels that normally do not [[connect]].**
+- **An [[a/_abnormal|abnormal]] [[c/_connection|connection]] or passageway [[b/_between|between]] organs or vessels that normally do not [[c/_connect|connect]].**
 - **A tube, a pipe, or a hole.**
-- **The tube through which the wine of the Eucharist was once sucked from the [[chalice]].**
+- **The tube through which the wine of the Eucharist was once sucked from the [[c/_chalice|chalice]].**
 ---
 ### Synonyms
 - [[pipe]], [[tube]], [[calamus]]

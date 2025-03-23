@@ -1,6 +1,6 @@
 # Carboxy
 ---
 #noun
-- **The [[carboxyl]] group.**
+- **The [[c/_carboxyl|carboxyl]] group.**
 ---
 ---

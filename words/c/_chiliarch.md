@@ -1,6 +1,6 @@
 # Chiliarch
 ---
 #noun
-- **A [[commander]] of a thousand troops in Hellenistic Greece.**
+- **A [[c/_commander|commander]] of a thousand troops in Hellenistic Greece.**
 ---
 ---

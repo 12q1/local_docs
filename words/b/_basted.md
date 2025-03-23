@@ -4,14 +4,14 @@
 - **To sew with long or loose stitches, as for temporary use, or in preparation for gathering the fabric.**
 ---
 #verb
-- **To sprinkle flour and salt and drip [[butter]] or fat on, as on meat in roasting.**
-- **(by extension) To [[coat]] over something.**
+- **To sprinkle flour and salt and drip [[b/_butter|butter]] or fat on, as on meat in roasting.**
+- **(by extension) To [[c/_coat|coat]] over something.**
 - **To mark (sheep, etc.) with tar.**
 ---
 #verb
-- **To [[beat]] with a stick; to [[cudgel]].**
+- **To [[b/_beat|beat]] with a stick; to [[c/_cudgel|cudgel]].**
 ---
 #adjective
-- **Having [[been]] [[cooked]] by [[basting]].**
+- **Having [[b/_been|been]] [[c/_cooked|cooked]] by [[b/_basting|basting]].**
 ---
 ---

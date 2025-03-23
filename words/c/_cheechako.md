@@ -1,7 +1,7 @@
 # Cheechako
 ---
 #noun
-- **Someone new to Alaska or the Yukon; originally, a gold rush newcomer.**
+- **Someone new to [[a/_alaska|Alaska]] or the Yukon; originally, a gold rush newcomer.**
 ---
 ### Synonyms
 - [[greenhorn]], [[tenderfoot]]

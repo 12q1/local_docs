@@ -1,6 +1,6 @@
 # Cheeseboard
 ---
 #noun
-- **A [[board]] used for serving [[cheeses]].**
+- **A [[b/_board|board]] used for serving [[c/_cheeses|cheeses]].**
 ---
 ---

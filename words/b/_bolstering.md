@@ -1,9 +1,9 @@
 # Bolstering
 ---
 #verb
-- **To [[brace]], reinforce, secure, or support.**
+- **To [[b/_brace|brace]], reinforce, secure, or support.**
 ---
 #noun
-- **The [[act]] by which something is [[bolstered]]; support.**
+- **The [[a/_act|act]] by which something is [[b/_bolstered|bolstered]]; support.**
 ---
 ---

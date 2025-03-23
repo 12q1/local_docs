@@ -1,6 +1,6 @@
 # Arvos
 ---
 #noun
-- **Afternoon.**
+- **[[a/_afternoon|Afternoon]].**
 ---
 ---

@@ -1,20 +1,20 @@
 # Brawls
 ---
 #noun
-- **A [[dance]] of French origin [[dating]] from the 16th [[century]], performed by [[couples]] in a [[circle]] or a line; the music for this [[dance]].**
+- **A [[d/_dance|dance]] of French origin [[d/_dating|dating]] from the 16th [[c/_century|century]], performed by [[c/_couples|couples]] in a [[c/_circle|circle]] or a line; the music for this [[d/_dance|dance]].**
 ---
 ### Synonyms
 - [[brangle]], [[bransle]], [[brantle]]
 #noun
-- **A disorderly [[argument]] or fight, usually with a large number of people involved.**
+- **A disorderly [[a/_argument|argument]] or fight, usually with a large number of people involved.**
 ---
 ### Synonyms
 - [[row]], [[scuffle]], [[squabble]]
 #verb
-- **To engage in a [[brawl]]; to fight or quarrel.**
-- **To [[create]] a disturbance; to [[complain]] loudly.**
-- **Especially of a rapid stream running over stones: to make a loud, [[confused]] noise.**
-- **To pour [[abuse]] on; to scold.**
+- **To engage in a [[b/_brawl|brawl]]; to fight or quarrel.**
+- **To [[c/_create|create]] a disturbance; to [[c/_complain|complain]] loudly.**
+- **Especially of a rapid stream running over stones: to make a loud, [[c/_confused|confused]] noise.**
+- **To pour [[a/_abuse|abuse]] on; to scold.**
 ---
 ### Synonyms
 - [[squabble]], [[wrangle]]
@@ -24,6 +24,6 @@
 ### Synonyms
 - [[vibrate]], [[waver]]
 #noun
-- **A type of [[dance]] move or step.**
+- **A type of [[d/_dance|dance]] move or step.**
 ---
 ---

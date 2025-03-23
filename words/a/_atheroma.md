@@ -1,8 +1,8 @@
 # Atheroma
 ---
 #noun
-- **An [[abnormal]] fatty [[deposit]] which develops within the walls of [[arteries]].**
-- **A kind of [[cyst]] on the scalp.**
+- **An [[a/_abnormal|abnormal]] fatty [[d/_deposit|deposit]] which develops within the walls of [[a/_arteries|arteries]].**
+- **A kind of [[c/_cyst|cyst]] on the scalp.**
 ---
 ### Synonyms
 - [[atherosis]], [[plaque]]

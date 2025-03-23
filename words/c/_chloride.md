@@ -1,7 +1,7 @@
 # Chloride
 ---
 #noun
-- **Any salt of hydrochloric [[acid]], such as sodium [[chloride]], or [[any]] [[binary]] [[compound]] of [[chlorine]] and [[another]] element or radical**
+- **[[a/_any|Any]] salt of hydrochloric [[a/_acid|acid]], such as sodium [[c/_chloride|chloride]], or [[a/_any|any]] [[b/_binary|binary]] [[c/_compound|compound]] of [[c/_chlorine|chlorine]] and [[a/_another|another]] element or radical**
 ---
 ### Synonyms
 - [[muriate]]

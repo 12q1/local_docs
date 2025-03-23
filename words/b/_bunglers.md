@@ -1,7 +1,7 @@
 # Bunglers
 ---
 #noun
-- **Someone who makes mistakes [[because]] of incompetence.**
+- **Someone who makes mistakes [[b/_because|because]] of incompetence.**
 ---
 ### Synonyms
 - [[blunderer]], [[fuckup]], [[schlemiel]]

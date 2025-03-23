@@ -1,6 +1,6 @@
 # Aerosphere
 ---
 #noun
-- **Atmosphere**
+- **[[a/_atmosphere|Atmosphere]]**
 ---
 ---

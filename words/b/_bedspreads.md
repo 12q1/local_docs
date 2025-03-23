@@ -1,8 +1,8 @@
 # Bedspreads
 ---
 #noun
-- **The topmost [[covering]] of a [[bed]], often functioning as a [[blanket]].**
-- **A [[coverlet]].**
+- **The topmost [[c/_covering|covering]] of a [[b/_bed|bed]], often functioning as a [[b/_blanket|blanket]].**
+- **A [[c/_coverlet|coverlet]].**
 ---
 ### Synonyms
 - [[bedcover]], [[counterpane]]

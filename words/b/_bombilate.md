@@ -1,6 +1,6 @@
 # Bombilate
 ---
 #verb
-- **To hum or [[buzz]].**
+- **To hum or [[b/_buzz|buzz]].**
 ---
 ---

@@ -4,6 +4,6 @@
 - **To travel by taxicab.**
 ---
 #noun
-- **The profession of a [[cabbie]], especially one who drives a [[black]] [[cab]].**
+- **The profession of a [[c/_cabbie|cabbie]], especially one who drives a [[b/_black|black]] [[c/_cab|cab]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Confidant
 ---
 #noun
-- **A person in whom one [[can]] [[confide]] or share one's secrets: a friend.**
+- **A person in whom one [[c/_can|can]] [[c/_confide|confide]] or share one's secrets: a friend.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Amide
 ---
 #noun
-- **Any [[derivative]] of an oxoacid in which the hydroxyl group has [[been]] replaced with an [[amino]] or substituted [[amino]] group; especially such [[derivatives]] of a [[carboxylic]] [[acid]], the carboxamides or [[acid]] [[amides]]**
-- **Any ionic [[derivative]] of [[ammonia]] in which a hydrogen [[atom]] has [[been]] replaced with a metal [[cation]] (R-NH- or R2N-)**
+- **[[a/_any|Any]] [[d/_derivative|derivative]] of an oxoacid in which the hydroxyl group has [[b/_been|been]] replaced with an [[a/_amino|amino]] or substituted [[a/_amino|amino]] group; especially such [[d/_derivatives|derivatives]] of a [[c/_carboxylic|carboxylic]] [[a/_acid|acid]], the carboxamides or [[a/_acid|acid]] [[a/_amides|amides]]**
+- **[[a/_any|Any]] ionic [[d/_derivative|derivative]] of [[a/_ammonia|ammonia]] in which a hydrogen [[a/_atom|atom]] has [[b/_been|been]] replaced with a metal [[c/_cation|cation]] (R-NH- or R2N-)**
 ---
 ---

@@ -2,6 +2,6 @@
 ---
 #noun
 - **Entertainment.**
-- **An [[activity]] that is entertaining or [[amusing]], such as [[dancing]], gunning, or fishing.**
+- **An [[a/_activity|activity]] that is entertaining or [[a/_amusing|amusing]], such as [[d/_dancing|dancing]], gunning, or fishing.**
 ---
 ---

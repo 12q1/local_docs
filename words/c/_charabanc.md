@@ -6,6 +6,6 @@
 ### Synonyms
 - [[chara]]
 #verb
-- **To travel or [[convey]] by [[charabanc]].**
+- **To travel or [[c/_convey|convey]] by [[c/_charabanc|charabanc]].**
 ---
 ---

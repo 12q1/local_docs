@@ -1,6 +1,6 @@
 # Backcloth
 ---
 #noun
-- **The painted scenery at the [[back]] of a stage; the [[backdrop]].**
+- **The painted scenery at the [[b/_back|back]] of a stage; the [[b/_backdrop|backdrop]].**
 ---
 ---

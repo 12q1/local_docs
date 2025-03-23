@@ -1,6 +1,6 @@
 # Alginates
 ---
 #noun
-- **Any salt or ester of [[alginic]] [[acid]].**
+- **[[a/_any|Any]] salt or ester of [[a/_alginic|alginic]] [[a/_acid|acid]].**
 ---
 ---

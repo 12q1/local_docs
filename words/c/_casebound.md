@@ -1,6 +1,6 @@
 # Casebound
 ---
 #adjective
-- **(of a [[book]]) hardcover ([[attributive]])**
+- **(of a [[b/_book|book]]) hardcover ([[a/_attributive|attributive]])**
 ---
 ---

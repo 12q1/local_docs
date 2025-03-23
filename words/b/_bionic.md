@@ -1,8 +1,8 @@
 # Bionic
 ---
 #adjective
-- **Related to [[bionics]].**
-- **Of a [[biological]] organism, having [[been]] enhanced by electronic or mechanical parts; [[cyborg]].**
+- **Related to [[b/_bionics|bionics]].**
+- **Of a [[b/_biological|biological]] organism, having [[b/_been|been]] enhanced by electronic or mechanical parts; [[c/_cyborg|cyborg]].**
 - **Superhuman**
 ---
 ---

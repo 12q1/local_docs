@@ -1,7 +1,7 @@
 # Concelebrated
 ---
 #verb
-- **To [[celebrate]] [[along]] with others**
-- **(of a newly ordained priest) To [[celebrate]] a mass [[along]] with the [[bishop]] who ordained him**
+- **To [[c/_celebrate|celebrate]] [[a/_along|along]] with others**
+- **(of a newly ordained priest) To [[c/_celebrate|celebrate]] a mass [[a/_along|along]] with the [[b/_bishop|bishop]] who ordained him**
 ---
 ---

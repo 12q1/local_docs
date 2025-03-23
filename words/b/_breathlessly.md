@@ -1,6 +1,6 @@
 # Breathlessly
 ---
 #adverb
-- **In a [[breathless]] manner, usually due to excitement, exertion, etc.**
+- **In a [[b/_breathless|breathless]] manner, usually due to excitement, exertion, etc.**
 ---
 ---

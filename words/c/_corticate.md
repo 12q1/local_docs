@@ -1,6 +1,6 @@
 # Corticate
 ---
 #adjective
-- **Sheathed in [[bark]] or in a [[cortex]]**
+- **Sheathed in [[b/_bark|bark]] or in a [[c/_cortex|cortex]]**
 ---
 ---

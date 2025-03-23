@@ -1,11 +1,11 @@
 # Cognitive
 ---
 #noun
-- **Cognate.**
+- **[[c/_cognate|Cognate]].**
 ---
 #adjective
-- **Relating to the part of mental functions that [[deals]] with logic, as opposed to [[affective]] which [[deals]] with emotions.**
+- **Relating to the part of mental functions that [[d/_deals|deals]] with logic, as opposed to [[a/_affective|affective]] which [[d/_deals|deals]] with emotions.**
 - **Intellectual.**
-- **Cognate; which is to be recognized as [[cognate]].**
+- **[[c/_cognate|Cognate]]; which is to be recognized as [[c/_cognate|cognate]].**
 ---
 ---

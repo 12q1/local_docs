@@ -7,7 +7,7 @@
 - **At a slant**
 ---
 #preposition
-- **Diagonally over or [[across]]**
+- **Diagonally over or [[a/_across|across]]**
 	- _Example: Lay the gun aslant your lap._
 ---
 ---

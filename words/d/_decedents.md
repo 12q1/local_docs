@@ -1,6 +1,6 @@
 # Decedents
 ---
 #noun
-- **A [[dead]] person.**
+- **A [[d/_dead|dead]] person.**
 ---
 ---

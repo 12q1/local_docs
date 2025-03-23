@@ -1,7 +1,7 @@
 # Decreased
 ---
 #verb
-- **Of a quantity, to [[become]] smaller.**
+- **Of a quantity, to [[b/_become|become]] smaller.**
 - **To make (a quantity) smaller.**
 ---
 ### Synonyms

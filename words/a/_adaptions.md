@@ -1,12 +1,12 @@
 # Adaptions
 ---
 #noun
-- **The process of [[adapting]] something or [[becoming]] [[adapted]] to a situation; [[adjustment]], modification.**
-- **A [[change]] that is made or undergone to suit a [[condition]] or environment.**
-- **The process of [[change]] that an organism undergoes to be [[better]] suited to its environment.**
-- **An instance of an organism undergoing [[change]], or the structure or [[behavior]] that is [[changed]].**
-- **The process of [[adapting]] an [[artistic]] work from a different medium.**
-- **([[authorship]]) An [[artistic]] work that has [[been]] [[adapted]] from a different medium.**
+- **The process of [[a/_adapting|adapting]] something or [[b/_becoming|becoming]] [[a/_adapted|adapted]] to a situation; [[a/_adjustment|adjustment]], modification.**
+- **A [[c/_change|change]] that is made or undergone to suit a [[c/_condition|condition]] or environment.**
+- **The process of [[c/_change|change]] that an organism undergoes to be [[b/_better|better]] suited to its environment.**
+- **An instance of an organism undergoing [[c/_change|change]], or the structure or [[b/_behavior|behavior]] that is [[c/_changed|changed]].**
+- **The process of [[a/_adapting|adapting]] an [[a/_artistic|artistic]] work from a different medium.**
+- **([[a/_authorship|authorship]]) An [[a/_artistic|artistic]] work that has [[b/_been|been]] [[a/_adapted|adapted]] from a different medium.**
 ---
 ### Antonyms
 - [[maladaptation]]

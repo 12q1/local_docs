@@ -1,6 +1,6 @@
 # Coleseed
 ---
 #noun
-- **The [[common]] rape or [[cole]].**
+- **The [[c/_common|common]] rape or [[c/_cole|cole]].**
 ---
 ---

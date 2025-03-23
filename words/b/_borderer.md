@@ -1,8 +1,8 @@
 # Borderer
 ---
 #noun
-- **A person who resides near a [[border]].**
-- **A soldier of a [[border]] regiment in the British Army (Border Regiment, South Wales Borderers, King's Own Scottish Borderers).**
+- **A person who resides near a [[b/_border|border]].**
+- **A soldier of a [[b/_border|border]] regiment in the [[b/_british|British]] [[a/_army|Army]] ([[b/_border|Border]] Regiment, South Wales [[b/_borderers|Borderers]], King's Own Scottish [[b/_borderers|Borderers]]).**
 ---
 ### Synonyms
 - [[frontiersman]]

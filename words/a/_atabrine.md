@@ -1,7 +1,7 @@
 # Atabrine
 ---
 #noun
-- **A drug with various [[applications]], including as an [[antimalarial]], having the [[chemical]] formula C23H30ClN3O**
+- **A drug with various [[a/_applications|applications]], including as an [[a/_antimalarial|antimalarial]], having the [[c/_chemical|chemical]] formula C23H30ClN3O**
 ---
 ### Synonyms
 - [[atabrine]], [[atebrine]], [[mepacrine]]

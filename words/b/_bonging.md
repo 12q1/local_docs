@@ -1,7 +1,7 @@
 # Bonging
 ---
 #verb
-- **To pull a [[bell]].**
+- **To pull a [[b/_bell|bell]].**
 - **To ring a doorbell.**
 ---
 ---

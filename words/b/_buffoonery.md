@@ -1,6 +1,6 @@
 # Buffoonery
 ---
 #noun
-- **The [[behaviour]] expected of a [[buffoon]]; foolishness, silliness.**
+- **The [[b/_behaviour|behaviour]] expected of a [[b/_buffoon|buffoon]]; foolishness, silliness.**
 ---
 ---

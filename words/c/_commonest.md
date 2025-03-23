@@ -8,9 +8,9 @@
 - **Found in large numbers or in a large quantity; usual.**
 	- _Example: It differs from the common blackbird in the size of its beak._
 - **Simple, ordinary or vulgar.**
-- **(grammar) In some languages, particularly Germanic languages, of the gender originating from the [[coalescence]] of the masculine and feminine [[categories]] of nouns.**
-- **(grammar) Of or pertaining to [[common]] nouns as opposed to proper nouns.**
-- **Vernacular, referring to the name of a kind of plant or [[animal]], i.e., [[common]] name vs. scientific name.**
+- **(grammar) In some languages, particularly Germanic languages, of the gender originating from the [[c/_coalescence|coalescence]] of the masculine and feminine [[c/_categories|categories]] of nouns.**
+- **(grammar) Of or pertaining to [[c/_common|common]] nouns as opposed to proper nouns.**
+- **Vernacular, referring to the name of a kind of plant or [[a/_animal|animal]], i.e., [[c/_common|common]] name vs. scientific name.**
 - **Profane; polluted.**
 - **Given to lewd habits; prostitute.**
 ---

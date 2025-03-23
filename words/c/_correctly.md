@@ -1,7 +1,7 @@
 # Correctly
 ---
 #adverb
-- **In a [[correct]] manner.**
+- **In a [[c/_correct|correct]] manner.**
 ---
 ### Synonyms
 - [[accurately]], [[exactly]], [[precisely]]

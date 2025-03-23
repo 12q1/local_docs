@@ -1,6 +1,6 @@
 # Causally
 ---
 #adverb
-- **In a [[causal]] manner.**
+- **In a [[c/_causal|causal]] manner.**
 ---
 ---

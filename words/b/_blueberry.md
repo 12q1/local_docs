@@ -1,14 +1,14 @@
 # Blueberry
 ---
 #noun
-- **An edible round [[berry]], [[belonging]] to the [[cowberry]] group (Vaccinium sect. Cyanococcus), with flared [[crowns]] at the end, that turns [[blue]] on ripening.**
-- **The shrub of the [[above]]-mentioned [[berry]].**
-- **A [[dark]] [[blue]] [[colour]].**
+- **An edible round [[b/_berry|berry]], [[b/_belonging|belonging]] to the [[c/_cowberry|cowberry]] group (Vaccinium sect. Cyanococcus), with flared [[c/_crowns|crowns]] at the end, that turns [[b/_blue|blue]] on ripening.**
+- **The shrub of the [[a/_above|above]]-mentioned [[b/_berry|berry]].**
+- **A [[d/_dark|dark]] [[b/_blue|blue]] [[c/_colour|colour]].**
 ---
 #verb
-- **To gather or forage for [[blueberries]].**
+- **To gather or forage for [[b/_blueberries|blueberries]].**
 ---
 #adjective
-- **Of a [[dark]] [[blue]] [[colour]].**
+- **Of a [[d/_dark|dark]] [[b/_blue|blue]] [[c/_colour|colour]].**
 ---
 ---

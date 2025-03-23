@@ -1,26 +1,26 @@
 # Cans
 ---
 #noun
-- **A more or less [[cylindrical]] vessel for liquids, usually of steel or [[aluminium]], but sometimes of plastic, and with a [[carrying]] handle over the top.**
-- **A [[container]] used to [[carry]] and dispense water for plants (a watering [[can]]).**
-- **A tin-plate [[canister]], often [[cylindrical]], for preserved foods such as fruit, meat, or fish.**
-- **A [[chamber]] pot, now a toilet or lavatory.**
+- **A more or less [[c/_cylindrical|cylindrical]] vessel for liquids, usually of steel or [[a/_aluminium|aluminium]], but sometimes of plastic, and with a [[c/_carrying|carrying]] handle over the top.**
+- **A [[c/_container|container]] used to [[c/_carry|carry]] and dispense water for plants (a watering [[c/_can|can]]).**
+- **A tin-plate [[c/_canister|canister]], often [[c/_cylindrical|cylindrical]], for preserved foods such as fruit, meat, or fish.**
+- **A [[c/_chamber|chamber]] pot, now a toilet or lavatory.**
 	- _Example: Bob's in the can. You can wait a few minutes or just leave it with me._
-- **Buttocks.**
+- **[[b/_buttocks|Buttocks]].**
 - **Jail or prison.**
 	- _Example: Bob's in the can. He won't be back for a few years._
 - **(in the plural) Headphones.**
-- **A drinking [[cup]].**
-- **A [[cube]]-shaped [[buoy]] or marker used to [[denote]] a port-side lateral mark**
-- **A [[chimney]] pot.**
-- **(in the plural) an E-meter used in Scientology [[auditing]].**
+- **A drinking [[c/_cup|cup]].**
+- **A [[c/_cube|cube]]-shaped [[b/_buoy|buoy]] or marker used to [[d/_denote|denote]] a port-side lateral mark**
+- **A [[c/_chimney|chimney]] pot.**
+- **(in the plural) an E-meter used in Scientology [[a/_auditing|auditing]].**
 ---
 ### Synonyms
 - [[tin]]
 #verb
-- **To seal in a [[can]].**
+- **To seal in a [[c/_can|can]].**
 	- _Example: They canned air to sell as a novelty to tourists._
-- **To preserve by heating and sealing in a jar or [[can]].**
+- **To preserve by heating and sealing in a jar or [[c/_can|can]].**
 	- _Example: They spent August canning fruit and vegetables._
 - **To discard, scrap or terminate (an idea, project, etc.).**
 	- _Example: He canned the whole project because he thought it would fail._
@@ -28,6 +28,6 @@
 	- _Example: Can your gob._
 - **To fire or dismiss an employee.**
 	- _Example: The boss canned him for speaking out._
-- **To hole the [[ball]].**
+- **To hole the [[b/_ball|ball]].**
 ---
 ---

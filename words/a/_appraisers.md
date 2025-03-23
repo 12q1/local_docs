@@ -1,6 +1,6 @@
 # Appraisers
 ---
 #noun
-- **One who performs [[appraisals]].**
+- **One who performs [[a/_appraisals|appraisals]].**
 ---
 ---

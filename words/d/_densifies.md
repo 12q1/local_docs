@@ -1,7 +1,7 @@
 # Densifies
 ---
 #verb
-- **To make [[dense]].**
-- **To [[become]] [[dense]].**
+- **To make [[d/_dense|dense]].**
+- **To [[b/_become|become]] [[d/_dense|dense]].**
 ---
 ---

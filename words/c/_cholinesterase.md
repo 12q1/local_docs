@@ -1,6 +1,6 @@
 # Cholinesterase
 ---
 #noun
-- **An enzyme that [[catalyzes]] the hydrolysis of [[choline]]-[[based]] esters ([[acetylcholine]] or butyrylcholine).**
+- **An enzyme that [[c/_catalyzes|catalyzes]] the hydrolysis of [[c/_choline|choline]]-[[b/_based|based]] esters ([[a/_acetylcholine|acetylcholine]] or butyrylcholine).**
 ---
 ---

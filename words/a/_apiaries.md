@@ -1,6 +1,6 @@
 # Apiaries
 ---
 #noun
-- **A place where [[bees]] and their hives are kept.**
+- **A place where [[b/_bees|bees]] and their hives are kept.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Deles
 ---
 #noun
-- **A sign signifying [[deletion]]**
+- **A sign signifying [[d/_deletion|deletion]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Alongside
 ---
 #adverb
-- **Along the side; by the side; side by side with.**
+- **[[a/_along|Along]] the side; by the side; side by side with.**
 	- _Example: Ahoy! Bring your boat alongside mine._
 ---
 #preposition

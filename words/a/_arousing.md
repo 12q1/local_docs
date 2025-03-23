@@ -11,10 +11,10 @@
 ### Synonyms
 - [[sex up]], [[turn on]], [[animate]], [[energize]], [[inspire]], [[rouse]], [[wake up]]
 #noun
-- **An [[act]] or occurrence in which something is [[aroused]]**
+- **An [[a/_act|act]] or occurrence in which something is [[a/_aroused|aroused]]**
 ---
 #adjective
-- **Causing [[arousal]].**
+- **[[c/_causing|Causing]] [[a/_arousal|arousal]].**
 	- _Example: I am having very arousing thoughts._
 ---
 ---

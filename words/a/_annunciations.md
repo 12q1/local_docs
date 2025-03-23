@@ -1,6 +1,6 @@
 # Annunciations
 ---
 #noun
-- **The [[act]] of [[annunciating]].**
+- **The [[a/_act|act]] of [[a/_annunciating|annunciating]].**
 ---
 ---

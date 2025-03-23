@@ -1,15 +1,15 @@
 # Cannonballs
 ---
 #noun
-- **([[artillery]])**
+- **([[a/_artillery|artillery]])**
 ---
 #noun
-- **The [[act]] of running and jumping in a flexed position into a swimming pool to [[create]] a large splash, mimicking the flight and shape of a [[cannonball]].**
+- **The [[a/_act|act]] of running and jumping in a flexed position into a swimming pool to [[c/_create|create]] a large splash, mimicking the flight and shape of a [[c/_cannonball|cannonball]].**
 	- _Example: The New Yorker, 30 August 2004, p.40_
 ---
 #verb
-- **To jump/dive into water doing a [[cannonball]] landing.**
+- **To jump/dive into water doing a [[c/_cannonball|cannonball]] landing.**
 	- _Example: He cannonballed into the pool, drenching us all._
-- **To [[careen]]; to move rapidly**
+- **To [[c/_careen|careen]]; to move rapidly**
 ---
 ---

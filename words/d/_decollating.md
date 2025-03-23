@@ -1,9 +1,9 @@
 # Decollating
 ---
 #verb
-- **To [[behead]].**
+- **To [[b/_behead|behead]].**
 ---
 #verb
-- **To separate the [[copies]] of multipart [[computer]] printout.**
+- **To separate the [[c/_copies|copies]] of multipart [[c/_computer|computer]] printout.**
 ---
 ---

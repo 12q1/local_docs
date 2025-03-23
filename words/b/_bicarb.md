@@ -1,6 +1,6 @@
 # Bicarb
 ---
 #noun
-- **Bicarbonate.**
+- **[[b/_bicarbonate|Bicarbonate]].**
 ---
 ---

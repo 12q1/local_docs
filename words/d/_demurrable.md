@@ -1,6 +1,6 @@
 # Demurrable
 ---
 #adjective
-- **That may be [[demurred]] to.**
+- **That may be [[d/_demurred|demurred]] to.**
 ---
 ---

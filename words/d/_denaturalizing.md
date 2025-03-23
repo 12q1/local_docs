@@ -1,8 +1,8 @@
 # Denaturalizing
 ---
 #verb
-- **To revoke or [[deny]] the [[citizenship]] of.**
+- **To revoke or [[d/_deny|deny]] the [[c/_citizenship|citizenship]] of.**
 	- _Example: After the regime fell, the leader was executed and the prinicipal party members were denaturalized and deported._
-- **To make less natural; to [[cause]] to deviate from its nature.**
+- **To make less natural; to [[c/_cause|cause]] to deviate from its nature.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Campanology
 ---
 #noun
-- **The study of [[bells]] and their [[casting]], tuning, and ringing.**
+- **The study of [[b/_bells|bells]] and their [[c/_casting|casting]], tuning, and ringing.**
 ---
 ---

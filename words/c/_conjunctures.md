@@ -1,7 +1,7 @@
 # Conjunctures
 ---
 #noun
-- **A [[combination]] of events or [[circumstances]]; a [[conjunction]]; a union.**
-- **A set of [[circumstances]] [[causing]] a [[crisis]]; a juncture.**
+- **A [[c/_combination|combination]] of events or [[c/_circumstances|circumstances]]; a [[c/_conjunction|conjunction]]; a union.**
+- **A set of [[c/_circumstances|circumstances]] [[c/_causing|causing]] a [[c/_crisis|crisis]]; a juncture.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Anther
 ---
 #noun
-- **The pollen-[[bearing]] part of the stamen of a flower.**
+- **The pollen-[[b/_bearing|bearing]] part of the stamen of a flower.**
 ---
 ---

@@ -1,8 +1,8 @@
 # Benignity
 ---
 #noun
-- **The state of [[being]] [[benign]].**
-- **A [[benign]] [[act]].**
+- **The state of [[b/_being|being]] [[b/_benign|benign]].**
+- **A [[b/_benign|benign]] [[a/_act|act]].**
 ---
 ### Synonyms
 - [[benignancy]], [[benignness]]

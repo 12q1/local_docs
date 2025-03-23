@@ -1,6 +1,6 @@
 # Blanketweed
 ---
 #noun
-- **A filamentous [[alga]] often found in ponds**
+- **A filamentous [[a/_alga|alga]] often found in ponds**
 ---
 ---
