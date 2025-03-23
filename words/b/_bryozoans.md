@@ -4,5 +4,5 @@
 - **A member of the phylum Bryozoa of aquatic, usually colonial invertebrates.**
 ---
 ### Synonyms
-- [[ectoproct]], [[moss [[a/_animal|animal]]]], [[polyzoan]]
+- [[[[e/_ectoproct|ectoproct]]]], [[moss [[a/_animal|animal]]]], [[polyzoan]]
 ---

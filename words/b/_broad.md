@@ -21,5 +21,5 @@
 - **(Gaelic languages) Velarized, i.e. not palatalized.**
 ---
 ### Antonyms
-- [[[[a/_all|all]]-encompassing]], [[slender]], [[skinny]], [[narrow]], [[thin]]
+- [[[[a/_all|all]]-[[e/_encompassing|encompassing]]]], [[slender]], [[skinny]], [[narrow]], [[thin]]
 ---

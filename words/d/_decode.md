@@ -11,5 +11,5 @@
 ### Synonyms
 - [[[[d/_decipher|decipher]]]]
 ### Antonyms
-- [[encode]]
+- [[[[e/_encode|encode]]]]
 ---

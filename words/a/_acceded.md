@@ -8,7 +8,7 @@
 - **To become a party to an agreement or a treaty.**
 ---
 ### Synonyms
-- [[[[c/_come|come]] [[a/_around|around]]]], [[[[c/_concede|concede]]]], [[[[b/_band|band]] together]], [[enroll]], [[[[a/_acquiesce|acquiesce]]]], [[[[a/_agree|agree]]]], [[[[a/_assent|assent]]]], [[[[a/_astipulate|astipulate]]]], [[[[c/_comply|comply]]]], [[[[c/_comprobate|comprobate]]]], [[[[c/_concur|concur]]]], [[[[c/_consent|consent]]]]
+- [[[[c/_come|come]] [[a/_around|around]]]], [[[[c/_concede|concede]]]], [[[[b/_band|band]] together]], [[[[e/_enroll|enroll]]]], [[[[a/_acquiesce|acquiesce]]]], [[[[a/_agree|agree]]]], [[[[a/_assent|assent]]]], [[[[a/_astipulate|astipulate]]]], [[[[c/_comply|comply]]]], [[[[c/_comprobate|comprobate]]]], [[[[c/_concur|concur]]]], [[[[c/_consent|consent]]]]
 ### Antonyms
 - [[leave]], [[secede]], [[split off]]
 ---

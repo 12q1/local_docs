@@ -8,7 +8,7 @@
 ### Synonyms
 - [[becourage]], [[[[d/_deter|deter]]]], [[[[d/_dissuade|dissuade]]]]
 ### Antonyms
-- [[encourage]]
+- [[[[e/_encourage|encourage]]]]
 #noun
 - **Discouragement**
 ---

@@ -25,5 +25,5 @@
 - **Thank you**
 ---
 ### Synonyms
-- [[[[b/_bottoms|bottoms]] up]], [[[[c/_chin|chin]] [[c/_chin|chin]]]], [[[[d/_down|down]] the hatch]], [[here’s mud in your eye]], [[skoal]], [[[[b/_bye|bye]]]], [[[[c/_catch|catch]] you later]], [[[[c/_cheerio|cheerio]]]], [[laters]], [[see you]], [[see you [[a/_after|after]]]], [[see you later]], [[see you later [[a/_alligator|alligator]]]], [[so long]], [[ta-ta]], [[ta]], [[thanks]]
+- [[[[b/_bottoms|bottoms]] up]], [[[[c/_chin|chin]] [[c/_chin|chin]]]], [[[[d/_down|down]] the hatch]], [[here’s mud in your [[e/_eye|eye]]]], [[skoal]], [[[[b/_bye|bye]]]], [[[[c/_catch|catch]] you later]], [[[[c/_cheerio|cheerio]]]], [[laters]], [[see you]], [[see you [[a/_after|after]]]], [[see you later]], [[see you later [[a/_alligator|alligator]]]], [[so long]], [[ta-ta]], [[ta]], [[thanks]]
 ---

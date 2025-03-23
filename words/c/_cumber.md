@@ -4,5 +4,5 @@
 - **To slow down; to hinder; to burden; to encumber.**
 ---
 ### Synonyms
-- [[encumber]]
+- [[[[e/_encumber|encumber]]]]
 ---

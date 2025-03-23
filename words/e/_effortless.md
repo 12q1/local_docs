@@ -1,0 +1,6 @@
+# Effortless
+---
+#adjective
+- **Without effort.**
+---
+---

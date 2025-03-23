@@ -13,7 +13,7 @@
 ### Synonyms
 - [[Twinkie]], [[jook-sing]]
 ### Antonyms
-- [[egg]]
+- [[[[e/_egg|egg]]]]
 #adjective
 - **Curved like a banana, especially of a ball in flight.**
 ---

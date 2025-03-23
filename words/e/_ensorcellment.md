@@ -1,0 +1,6 @@
+# Ensorcellment
+---
+#noun
+- **Enchantment, bewitchment**
+---
+---

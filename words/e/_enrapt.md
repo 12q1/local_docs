@@ -1,0 +1,6 @@
+# Enrapt
+---
+#adjective
+- **Fascinated, enraptured**
+---
+---

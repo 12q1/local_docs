@@ -7,5 +7,5 @@
 ### Synonyms
 - [[[[b/_beneficent|beneficent]]]], [[humane]], [[philanthropic]], [[selfless]], [[unselfish]]
 ### Antonyms
-- [[egoistic]], [[misanthropic]], [[selfish]]
+- [[[[e/_egoistic|egoistic]]]], [[misanthropic]], [[selfish]]
 ---

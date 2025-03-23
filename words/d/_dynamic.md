@@ -11,7 +11,7 @@
 - **(grammar) A verb that indicates continued or progressive action on the part of the subject.**
 ---
 ### Synonyms
-- [[[[a/_apparatus|apparatus]]]], [[[[c/_course|course]] of [[a/_action|action]]]], [[[[d/_design|design]]]], [[effect]], [[function]], [[functioning]], [[implementation]], [[interchange]], [[interplay]], [[mechanism]], [[method]], [[modus operandi]], [[motif]], [[nature]], [[operation]], [[pattern]], [[process]], [[regimen]], [[workings]]
+- [[[[a/_apparatus|apparatus]]]], [[[[c/_course|course]] of [[a/_action|action]]]], [[[[d/_design|design]]]], [[[[e/_effect|effect]]]], [[function]], [[functioning]], [[implementation]], [[interchange]], [[interplay]], [[mechanism]], [[method]], [[modus operandi]], [[motif]], [[nature]], [[operation]], [[pattern]], [[process]], [[regimen]], [[workings]]
 #adjective
 - **Changing; active; in motion.**
 	- _Example: The environment is dynamic, changing with the years and the seasons._
@@ -26,7 +26,7 @@
 - **(grammar) Of a verb: not stative, but fientive; indicating continued or progressive action on the part of the subject.**
 ---
 ### Synonyms
-- [[[[a/_active|active]]]], [[fluid]], [[moving]], [[energetic]], [[powerful]]
+- [[[[a/_active|active]]]], [[fluid]], [[moving]], [[[[e/_energetic|energetic]]]], [[powerful]]
 ### Antonyms
 - [[static]], [[static]]
 ---

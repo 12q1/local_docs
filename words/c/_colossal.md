@@ -5,5 +5,5 @@
 	- _Example: A single puppy can make a colossal mess._
 ---
 ### Synonyms
-- [[enormous]], [[giant]], [[gigantic]], [[immense]], [[prodigious]], [[vast]]
+- [[[[e/_enormous|enormous]]]], [[giant]], [[gigantic]], [[immense]], [[prodigious]], [[vast]]
 ---

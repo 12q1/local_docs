@@ -6,7 +6,7 @@
 ### Synonyms
 - [[[[d/_discourage|discourage]]]]
 ### Antonyms
-- [[encourage]], [[hearten]]
+- [[[[e/_encourage|encourage]]]], [[hearten]]
 #adjective
 - **Causing a person to lose heart; making despondent or gloomy.**
 ---

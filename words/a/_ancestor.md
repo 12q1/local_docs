@@ -9,7 +9,7 @@
 - **A word or phrase which serves as the origin of a term in another language.**
 ---
 ### Synonyms
-- [[origin]], [[reflex]], [[source]], [[fore-elder]], [[forebear]], [[forefather]], [[predecessor]]
+- [[origin]], [[reflex]], [[source]], [[fore-[[e/_elder|elder]]]], [[forebear]], [[forefather]], [[predecessor]]
 ### Antonyms
 - [[afterbear]], [[[[d/_descendant|descendant]]]]
 #verb

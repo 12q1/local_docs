@@ -7,7 +7,7 @@
 	- _Example: You anger too easily._
 ---
 ### Synonyms
-- [[[[a/_angry|angry]]]], [[get]], [[[[a/_aggravate|aggravate]]]], [[[[a/_annoy|annoy]]]], [[[[d/_displease|displease]]]], [[enrage]], [[grill]], [[infuriate]], [[irritate]], [[vex]]
+- [[[[a/_angry|angry]]]], [[get]], [[[[a/_aggravate|aggravate]]]], [[[[a/_annoy|annoy]]]], [[[[d/_displease|displease]]]], [[[[e/_enrage|enrage]]]], [[grill]], [[infuriate]], [[irritate]], [[vex]]
 #adjective
 - **Having been made angry.**
 ---

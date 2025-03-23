@@ -11,7 +11,7 @@
 - **Interest of money; increase; overplus (as the thirteenth in the baker's dozen).**
 ---
 ### Synonyms
-- [[[[b/_benefit|benefit]]]], [[edge]], [[foredeal]], [[value]], [[vantage]]
+- [[[[b/_benefit|benefit]]]], [[[[e/_edge|edge]]]], [[foredeal]], [[value]], [[vantage]]
 ### Antonyms
 - [[[[d/_disadvantage|disadvantage]]]], [[[[d/_drawback|drawback]]]]
 #verb

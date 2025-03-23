@@ -10,5 +10,5 @@
 - **Teaching from textbooks rather than laboratory demonstration and clinical application.**
 ---
 ### Synonyms
-- [[educative]], [[instructive]]
+- [[[[e/_educative|educative]]]], [[instructive]]
 ---

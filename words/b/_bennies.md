@@ -18,5 +18,5 @@
 - **(originally United States) A dish consisting of slices of English muffins with poached eggs, ham or bacon and hollandaise sauce.**
 ---
 ### Synonyms
-- [[[[b/_benny|benny]] / [[b/_benny|Benny]]]], [[eggs [[b/_benny|benny]] / eggs [[b/_benny|Benny]]]]
+- [[[[b/_benny|benny]] / [[b/_benny|Benny]]]], [[[[e/_eggs|eggs]] [[b/_benny|benny]] / [[e/_eggs|eggs]] [[b/_benny|Benny]]]]
 ---

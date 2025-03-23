@@ -48,5 +48,5 @@
 ### Synonyms
 - [[[[a/_abstruse|abstruse]]]], [[[[a/_ascriptive|ascriptive]]]], [[[[a/_attributive|attributive]]]], [[[[c/_conceptual|conceptual]]]], [[ideal]], [[imaginary]], [[incorporeal]], [[intangible]], [[nonempirical]], [[theoretical]], [[[[c/_conceptual|conceptual]]]], [[theoretical]], [[formal]], [[general]], [[generalized]], [[generic]], [[nonspecific]], [[representational]]
 ### Antonyms
-- [[[[a/_actual|actual]]]], [[[[c/_concrete|concrete]]]], [[[[c/_corporeal|corporeal]]]], [[empirical]], [[[[a/_applied|applied]]]], [[practical]], [[[[d/_discrete|discrete]]]], [[particular]], [[precise]], [[specific]]
+- [[[[a/_actual|actual]]]], [[[[c/_concrete|concrete]]]], [[[[c/_corporeal|corporeal]]]], [[[[e/_empirical|empirical]]]], [[[[a/_applied|applied]]]], [[practical]], [[[[d/_discrete|discrete]]]], [[particular]], [[precise]], [[specific]]
 ---

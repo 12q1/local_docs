@@ -55,7 +55,7 @@
 ### Synonyms
 - [[[[b/_buddy|buddy]]]], [[[[b/_buster|buster]]]], [[mate]], [[pal]], [[sonny]], [[[[a/_admirer|admirer]]]], [[[[b/_booster|booster]]]], [[[[c/_champion|champion]]]], [[protagonist]], [[supporter]], [[[[a/_ally|ally]]]], [[[[a/_acquaintance|acquaintance]]]], [[[[c/_contact|contact]]]]
 ### Antonyms
-- [[enemy]], [[foe]], [[stranger]]
+- [[[[e/_enemy|enemy]]]], [[foe]], [[stranger]]
 #noun
 - **A fine clay, rich in kaolinite, used in ceramics, paper-making, etc.**
 ---

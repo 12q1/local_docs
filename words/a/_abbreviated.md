@@ -10,7 +10,7 @@
 ### Synonyms
 - [[[[a/_abridge|abridge]]]], [[[[c/_compress|compress]]]], [[[[c/_condense|condense]]]], [[[[c/_contract|contract]]]], [[[[c/_curtail|curtail]]]], [[epitomize]], [[reduce]], [[shorten]]
 ### Antonyms
-- [[[[a/_amplify|amplify]]]], [[[[d/_dilate|dilate]]]], [[elongate]], [[enlarge]], [[expand]], [[expatiate]], [[extend]], [[lengthen]], [[produce]], [[prolong]], [[stretch]]
+- [[[[a/_amplify|amplify]]]], [[[[d/_dilate|dilate]]]], [[[[e/_elongate|elongate]]]], [[[[e/_enlarge|enlarge]]]], [[expand]], [[expatiate]], [[extend]], [[lengthen]], [[produce]], [[prolong]], [[stretch]]
 #adjective
 - **Shortened; made briefer.**
 	- _Example: The abbreviated lesson only took fifteen minutes as opposed to an hour and a half._

@@ -9,5 +9,5 @@
 - **Suitable to be eaten; edible.**
 ---
 ### Synonyms
-- [[[[e/_eatable|eatable]]]], [[edible]], [[esculent]]
+- [[[[e/_eatable|eatable]]]], [[[[e/_edible|edible]]]], [[esculent]]
 ---

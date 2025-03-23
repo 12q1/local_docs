@@ -1,0 +1,6 @@
+# Emotionless
+---
+#adjective
+- **Lacking emotion.**
+---
+---

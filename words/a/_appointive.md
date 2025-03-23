@@ -4,5 +4,5 @@
 - **Of, pertaining to, or filled by appointment.**
 ---
 ### Antonyms
-- [[elective]]
+- [[[[e/_elective|elective]]]]
 ---

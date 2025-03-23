@@ -9,5 +9,5 @@
 - **A software developer; a person or company who creates or modifies computer software.**
 ---
 ### Synonyms
-- [[[[d/_designer|designer]]]], [[programmer]], [[software engineer]]
+- [[[[d/_designer|designer]]]], [[programmer]], [[software [[e/_engineer|engineer]]]]
 ---

@@ -24,5 +24,5 @@
 ### Synonyms
 - [[split]]
 ### Antonyms
-- [[[[c/_connected|connected]]]], [[engaged]], [[married]]
+- [[[[c/_connected|connected]]]], [[[[e/_engaged|engaged]]]], [[married]]
 ---

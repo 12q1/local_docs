@@ -9,7 +9,7 @@
 ### Synonyms
 - [[[[b/_bring|bring]] [[d/_down|down]]]], [[[[d/_depose|depose]]]], [[[[d/_divest|divest]]]], [[overthrow]], [[[[d/_depose|depose]]]], [[[[d/_discrown|discrown]]]], [[[[d/_disenthrone|disenthrone]]]], [[uncrown]], [[unking]], [[unsceptre]], [[unthrone]]
 ### Antonyms
-- [[[[c/_coronate|coronate]]]], [[[[c/_crown|crown]]]], [[enthrone]], [[king]], [[empower]], [[install]], [[invest]], [[take office]]
+- [[[[c/_coronate|coronate]]]], [[[[c/_crown|crown]]]], [[enthrone]], [[king]], [[[[e/_empower|empower]]]], [[install]], [[invest]], [[take office]]
 #noun
 - **The removal of a ruler from the throne.**
 ---

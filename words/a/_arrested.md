@@ -10,7 +10,7 @@
 - **To undergo cardiac arrest.**
 ---
 ### Synonyms
-- [[[[a/_attract|attract]]]], [[[[d/_dazzle|dazzle]]]], [[engage]], [[entice]], [[[[a/_apprehend|apprehend]]]], [[seize]], [[[[c/_cease|cease]]]], [[[[d/_discontinue|discontinue]]]], [[freeze]], [[halt]]
+- [[[[a/_attract|attract]]]], [[[[d/_dazzle|dazzle]]]], [[[[e/_engage|engage]]]], [[entice]], [[[[a/_apprehend|apprehend]]]], [[seize]], [[[[c/_cease|cease]]]], [[[[d/_discontinue|discontinue]]]], [[freeze]], [[halt]]
 #adjective
 - **Having been stopped or prevented from developing; terminated prematurely.**
 - **Having been placed under arrest, or having been charged with a crime.**

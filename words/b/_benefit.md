@@ -10,7 +10,7 @@
 ### Synonyms
 - [[[[a/_advantage|advantage]]]], [[[[a/_aid|aid]]]], [[[[a/_assistance|assistance]]]], [[[[b/_boon|boon]]]], [[foredeal]], [[help]], [[subsidy]]
 ### Antonyms
-- [[[[d/_detriment|detriment]]]], [[[[d/_disadvantage|disadvantage]]]], [[encumbrance]], [[harm]], [[hindrance]], [[nuisance]], [[obstacle]]
+- [[[[d/_detriment|detriment]]]], [[[[d/_disadvantage|disadvantage]]]], [[[[e/_encumbrance|encumbrance]]]], [[harm]], [[hindrance]], [[nuisance]], [[obstacle]]
 #verb
 - **To be or to provide a benefit to.**
 - **To receive a benefit (from); to be a beneficiary.**

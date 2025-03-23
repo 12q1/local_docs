@@ -5,5 +5,5 @@
 - **A similar excrescence near the hilum of some seeds.**
 ---
 ### Synonyms
-- [[elaiosome]]
+- [[[[e/_elaiosome|elaiosome]]]]
 ---

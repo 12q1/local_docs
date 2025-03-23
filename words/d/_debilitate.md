@@ -5,5 +5,5 @@
 	- _Example: The American Dream suffered a debilitating effect after the subprime crisis._
 ---
 ### Synonyms
-- [[enervate]], [[enfeeble]], [[weaken]]
+- [[[[e/_enervate|enervate]]]], [[[[e/_enfeeble|enfeeble]]]], [[weaken]]
 ---

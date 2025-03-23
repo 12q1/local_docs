@@ -1,0 +1,6 @@
+# Endochondral
+---
+#adjective
+- **Within cartilage.**
+---
+---

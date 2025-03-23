@@ -6,7 +6,7 @@
 	- _Example: Don't complicate yourself in issues that are beyond the scope of your understanding._
 ---
 ### Synonyms
-- [[embroil]], [[entangle]], [[intricate]], [[mire]], [[mix up]]
+- [[[[e/_embroil|embroil]]]], [[[[e/_entangle|entangle]]]], [[intricate]], [[mire]], [[mix up]]
 #adjective
 - **Intertwined.**
 - **Complex, complicated.**

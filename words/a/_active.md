@@ -27,7 +27,7 @@
 - **(gay sexual slang) (of a homosexual man) enjoying a role in anal sex in which he penetrates, rather than being penetrated by his partner.**
 ---
 ### Synonyms
-- [[[[a/_acting|acting]]]], [[[[a/_agile|agile]]]], [[nimble]], [[[[b/_busy|busy]]]], [[[[d/_deedful|deedful]]]], [[[[d/_diligent|diligent]]]], [[energetic]], [[in [[a/_action|action]]]], [[in force]], [[working]], [[operative]], [[top]]
+- [[[[a/_acting|acting]]]], [[[[a/_agile|agile]]]], [[nimble]], [[[[b/_busy|busy]]]], [[[[d/_deedful|deedful]]]], [[[[d/_diligent|diligent]]]], [[[[e/_energetic|energetic]]]], [[in [[a/_action|action]]]], [[in force]], [[working]], [[operative]], [[top]]
 ### Antonyms
 - [[[[b/_bottom|bottom]]]], [[passive]], [[[[d/_dormant|dormant]]]], [[extinct]], [[quiescent]], [[[[d/_dull|dull]]]], [[indolent]], [[inert]], [[sluggish]], [[indolent]], [[passive]], [[still]], [[passive]], [[passive]], [[sedentary]], [[tranquil]], [[passive]], [[slow]], [[speculative]], [[theoretical]]
 ---

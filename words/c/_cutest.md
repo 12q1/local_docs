@@ -11,5 +11,5 @@
 	- _Example: Cute trick, but can you do it consistently?_
 ---
 ### Synonyms
-- [[pretty]], [[endearing]], [[[[c/_clever|clever]]]], [[shrewd]]
+- [[pretty]], [[[[e/_endearing|endearing]]]], [[[[c/_clever|clever]]]], [[shrewd]]
 ---

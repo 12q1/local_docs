@@ -1,0 +1,8 @@
+# Ejaculations
+---
+#noun
+- **The act of throwing or darting out with a sudden force and rapid flight.**
+- **The uttering of a short, sudden exclamation or prayer, or the exclamation or prayer uttered.**
+- **The act of ejecting or suddenly throwing, as a fluid from a duct or other body structure.**
+---
+---

@@ -4,5 +4,5 @@
 - **Old**
 ---
 ### Synonyms
-- [[[[a/_aged|aged]]]], [[eldern]], [[hoary]]
+- [[[[a/_aged|aged]]]], [[[[e/_eldern|eldern]]]], [[hoary]]
 ---

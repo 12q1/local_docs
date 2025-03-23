@@ -25,7 +25,7 @@
 - **Not insured.**
 ---
 ### Synonyms
-- [[empty]], [[plain]], [[unadorned]], [[undecorated]], [[empty]], [[unfurnished]], [[unstocked]], [[unsupplied]], [[mere]], [[minimal]], [[exposed]], [[naked]], [[nude]], [[uncovered]], [[undressed]], [[[[d/_despoiled|despoiled]]]], [[stripped]], [[uncovered]]
+- [[[[e/_empty|empty]]]], [[plain]], [[unadorned]], [[undecorated]], [[[[e/_empty|empty]]]], [[unfurnished]], [[unstocked]], [[unsupplied]], [[mere]], [[minimal]], [[exposed]], [[naked]], [[nude]], [[uncovered]], [[undressed]], [[[[d/_despoiled|despoiled]]]], [[stripped]], [[uncovered]]
 ### Antonyms
 - [[[[c/_covered|covered]]]], [[[[a/_adorn|adorn]]]], [[[[d/_decorated|decorated]]]], [[ornate]], [[full]], [[furnished]], [[stocked]], [[supplied]], [[well-stocked]], [[[[a/_ample|ample]]]], [[plentiful]], [[sufficient]], [[[[c/_covered|covered]]]], [[[[d/_dressed|dressed]]]], [[unexposed]]
 #adverb

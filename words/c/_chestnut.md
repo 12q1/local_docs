@@ -11,7 +11,7 @@
 - **The horse-chestnut.**
 ---
 ### Synonyms
-- [[[[c/_chestnut|chestnut]] tree]], [[night eye]]
+- [[[[c/_chestnut|chestnut]] tree]], [[night [[e/_eye|eye]]]]
 #adjective
 - **Of a deep reddish-brown colour, like that of a chestnut.**
 ---

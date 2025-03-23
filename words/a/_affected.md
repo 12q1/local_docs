@@ -12,7 +12,7 @@
 - **To assign; to appoint.**
 ---
 ### Synonyms
-- [[[[a/_alter|alter]]]], [[[[c/_change|change]]]], [[have an effect on]], [[have an impact on]], [[influence]], [[[[a/_attack|attack]]]], [[harm]], [[infect]], [[move]], [[touch]]
+- [[[[a/_alter|alter]]]], [[[[c/_change|change]]]], [[have an [[e/_effect|effect]] on]], [[have an impact on]], [[influence]], [[[[a/_attack|attack]]]], [[harm]], [[infect]], [[move]], [[touch]]
 #verb
 - **To make a show of; to put on a pretense of; to feign; to assume. To make a false display of.**
 	- _Example: He managed to affect a smile despite feeling quite miserable._

@@ -13,5 +13,5 @@
 - **Inviting or asking for pity.**
 ---
 ### Synonyms
-- [[empathetic]], [[ruthful]], [[sympathetic]], [[pitiable]]
+- [[[[e/_empathetic|empathetic]]]], [[ruthful]], [[sympathetic]], [[pitiable]]
 ---

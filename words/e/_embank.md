@@ -1,0 +1,6 @@
+# Embank
+---
+#verb
+- **To throw up a bank so as to confine or to defend; to protect by a bank of earth or stone**
+---
+---

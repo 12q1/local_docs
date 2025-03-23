@@ -7,7 +7,7 @@
 	- _Example: 1584 No man can charge us of any attempt against the realm. (Allen's Defence Of English Catholics, cited after Edinburgh review 1883, p. 378)_
 ---
 ### Synonyms
-- [[effort]], [[try]]
+- [[[[e/_effort|effort]]]], [[try]]
 #verb
 - **To try.**
 	- _Example: A group of 80 budding mountaineers attempted Kilimanjaro, but 30 of them didn't make it to the top._

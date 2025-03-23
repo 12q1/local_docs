@@ -9,7 +9,7 @@
 	- _Example: Michelangelo was a very ambidextrous artist, producing sculptures and frescoes with equal ability._
 ---
 ### Synonyms
-- [[[[b/_both|both]]-handed]], [[either-handed]]
+- [[[[b/_both|both]]-handed]], [[[[e/_either|either]]-handed]]
 ### Antonyms
 - [[[[a/_ambilevous|ambilevous]]]], [[[[a/_ambisinistrous|ambisinistrous]]]]
 ---

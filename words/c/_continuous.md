@@ -12,7 +12,7 @@
 - **(grammar) Expressing an ongoing action or state.**
 ---
 ### Synonyms
-- [[[[c/_connected|connected]]]], [[[[c/_continued|continued]]]], [[extended]], [[protracted]], [[unbroken]], [[[[c/_constant|constant]]]], [[[[c/_continual|continual]]]], [[[[c/_continuous|continuous]]]], [[incessant]], [[never-ending]], [[nonstop]], [[ongoing]], [[relentless]], [[unbroken]], [[unceasing]], [[unending]], [[uninterrupted]], [[unremitting]], [[extended]], [[protracted]], [[nonstop]], [[perpetual]]
+- [[[[c/_connected|connected]]]], [[[[c/_continued|continued]]]], [[extended]], [[protracted]], [[unbroken]], [[[[c/_constant|constant]]]], [[[[c/_continual|continual]]]], [[[[c/_continuous|continuous]]]], [[incessant]], [[never-[[e/_ending|ending]]]], [[nonstop]], [[ongoing]], [[relentless]], [[unbroken]], [[unceasing]], [[unending]], [[uninterrupted]], [[unremitting]], [[extended]], [[protracted]], [[nonstop]], [[perpetual]]
 ### Antonyms
 - [[[[b/_broken|broken]]]], [[[[d/_disconnected|disconnected]]]], [[[[d/_disjoint|disjoint]]]], [[unbroken]], [[[[b/_broken|broken]]]], [[[[d/_discontinuous|discontinuous]]]], [[[[d/_discrete|discrete]]]], [[intermittent]], [[interrupted]], [[[[d/_discontinuous|discontinuous]]]], [[stepwise]]
 ---

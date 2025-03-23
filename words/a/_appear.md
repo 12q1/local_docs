@@ -11,7 +11,7 @@
 - **To bring into view.**
 ---
 ### Synonyms
-- [[look]], [[emerge]]
+- [[look]], [[[[e/_emerge|emerge]]]]
 ### Antonyms
 - [[[[d/_disappear|disappear]]]], [[vanish]]
 ---

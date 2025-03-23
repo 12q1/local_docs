@@ -13,5 +13,5 @@
 ### Synonyms
 - [[[[a/_abbreviature|abbreviature]]]], [[[[a/_abridgement|abridgement]]]], [[[[a/_abstract|abstract]]]], [[[[c/_compend|compend]]]], [[[[c/_compression|compression]]]], [[[[c/_condensation|condensation]]]], [[[[c/_contraction|contraction]]]], [[[[c/_curtailment|curtailment]]]], [[epitome]], [[reduction]], [[shortcut]], [[summary]]
 ### Antonyms
-- [[[[a/_amplification|amplification]]]], [[[[d/_dilation|dilation]]]], [[enlargement]], [[expansion]], [[expatiation]], [[extension]], [[production]]
+- [[[[a/_amplification|amplification]]]], [[[[d/_dilation|dilation]]]], [[[[e/_enlargement|enlargement]]]], [[expansion]], [[expatiation]], [[extension]], [[production]]
 ---

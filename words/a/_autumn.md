@@ -6,7 +6,7 @@
 - **A person with relatively dark hair and a warm skin tone, seen as best suited to certain colours in clothing.**
 ---
 ### Synonyms
-- [[[[b/_back|back]] end]], [[fall]], [[harvest]], [[[[d/_decline|decline]]]]
+- [[[[b/_back|back]] [[e/_end|end]]]], [[fall]], [[harvest]], [[[[d/_decline|decline]]]]
 #adjective
 - **Of or relating to autumn; autumnal**
 	- _Example: autumn leaves_

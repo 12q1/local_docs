@@ -5,7 +5,7 @@
 - **(of an act or product) Full of hazard; attended with risk; exposing to danger; requiring courage; rash.**
 ---
 ### Synonyms
-- [[foolhardy]], [[hazardous]], [[presumptuous]], [[rash]], [[venturesome]], [[[[d/_dareful|dareful]]]], [[[[d/_daring|daring]]]], [[enterprising]], [[on the go]], [[restless]], [[venturesome]]
+- [[foolhardy]], [[hazardous]], [[presumptuous]], [[rash]], [[venturesome]], [[[[d/_dareful|dareful]]]], [[[[d/_daring|daring]]]], [[[[e/_enterprising|enterprising]]]], [[on the go]], [[restless]], [[venturesome]]
 ### Antonyms
 - [[safe]], [[nervous]]
 ---

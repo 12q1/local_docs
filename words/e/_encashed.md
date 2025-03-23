@@ -1,0 +1,6 @@
+# Encashed
+---
+#verb
+- **To convert a financial instrument or funding source into cash.**
+---
+---

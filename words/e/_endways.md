@@ -1,0 +1,6 @@
+# Endways
+---
+#adverb
+- **Endwise**
+---
+---

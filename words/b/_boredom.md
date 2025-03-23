@@ -5,5 +5,5 @@
 - **An instance or period of being bored; A bored state.**
 ---
 ### Synonyms
-- [[ennui]]
+- [[[[e/_ennui|ennui]]]]
 ---

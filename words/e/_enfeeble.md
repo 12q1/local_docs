@@ -1,0 +1,8 @@
+# Enfeeble
+---
+#verb
+- **To make feeble.**
+---
+### Synonyms
+- [[weaken]]
+---

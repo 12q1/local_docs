@@ -7,7 +7,7 @@
 ### Synonyms
 - [[BFF]], [[[[b/_best|best]] [[b/_bud|bud]]]], [[[[b/_best|best]] [[b/_buddy|buddy]]]], [[[[b/_best|best]] mate]], [[[[b/_best|best]] pal]], [[bestie]], [[[[b/_boon|boon]] [[c/_companion|companion]]]]
 ### Antonyms
-- [[worst enemy]]
+- [[worst [[e/_enemy|enemy]]]]
 #noun
 - **A font that is dark, having a high ratio of ink to white space, written or drawn with thick strong lines.**
 ---

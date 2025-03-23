@@ -6,5 +6,5 @@
 ### Synonyms
 - [[[[d/_demoralize|demoralize]]]], [[[[d/_dishearten|dishearten]]]], [[[[d/_dispirit|dispirit]]]]
 ### Antonyms
-- [[empower]], [[inspire]]
+- [[[[e/_empower|empower]]]], [[inspire]]
 ---

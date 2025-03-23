@@ -22,5 +22,5 @@
 - **Having undergone the improving effects of time; matured.**
 ---
 ### Synonyms
-- [[old]], [[year]], [[eldern]], [[hoary]], [[matured]]
+- [[old]], [[year]], [[[[e/_eldern|eldern]]]], [[hoary]], [[matured]]
 ---

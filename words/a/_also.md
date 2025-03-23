@@ -6,5 +6,5 @@
 - **To the same degree or extent; so, as.**
 ---
 ### Synonyms
-- [[as well]], [[eke]], [[too]]
+- [[as well]], [[[[e/_eke|eke]]]], [[too]]
 ---

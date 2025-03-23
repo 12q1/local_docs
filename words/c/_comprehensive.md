@@ -8,5 +8,5 @@
 	- _Example: When there are diametrically opposing views on a big issue that concerns millions of people, doing comprehensive research just makes sense._
 ---
 ### Synonyms
-- [[[[a/_all|all]]-encompassing]], [[exhaustive]], [[thorough]]
+- [[[[a/_all|all]]-[[e/_encompassing|encompassing]]]], [[exhaustive]], [[thorough]]
 ---

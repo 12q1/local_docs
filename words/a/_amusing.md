@@ -9,7 +9,7 @@
 - **To occupy or engage the attention of; to lose in deep thought; to absorb; also, to distract; to bewilder.**
 ---
 ### Synonyms
-- [[[[b/_beguile|beguile]]]], [[[[d/_divert|divert]]]], [[entertain]], [[exhilarate]], [[gratify]], [[please]]
+- [[[[b/_beguile|beguile]]]], [[[[d/_divert|divert]]]], [[[[e/_entertain|entertain]]]], [[exhilarate]], [[gratify]], [[please]]
 #adjective
 - **Entertaining.**
 	- _Example: The film has some amusing moments, but it is unlikely to make you laugh out loud._

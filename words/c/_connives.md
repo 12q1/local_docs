@@ -7,5 +7,5 @@
 - **To open and close the eyes rapidly; to wink.**
 ---
 ### Synonyms
-- [[[[d/_dissimulate|dissimulate]]]], [[look the other way]], [[shut one's eyes]], [[turn a [[b/_blind|blind]] eye]], [[wink]]
+- [[[[d/_dissimulate|dissimulate]]]], [[look the other way]], [[shut one's [[e/_eyes|eyes]]]], [[turn a [[b/_blind|blind]] [[e/_eye|eye]]]], [[wink]]
 ---

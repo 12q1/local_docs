@@ -6,7 +6,7 @@
 - **To dismiss from employment, confidence, or favour; to discharge.**
 ---
 ### Synonyms
-- [[fire]], [[let go]], [[sack]], [[[[c/_cast|cast]] [[a/_away|away]]]], [[[[d/_dismiss|dismiss]]]], [[[[d/_dispose|dispose]]]], [[eliminate]], [[get rid of]], [[throw [[a/_away|away]]]]
+- [[fire]], [[let go]], [[sack]], [[[[c/_cast|cast]] [[a/_away|away]]]], [[[[d/_dismiss|dismiss]]]], [[[[d/_dispose|dispose]]]], [[[[e/_eliminate|eliminate]]]], [[get rid of]], [[throw [[a/_away|away]]]]
 #noun
 - **The act by which something is discarded; a throwing away.**
 - **(in the plural) Discarded material.**

@@ -5,5 +5,5 @@
 - **The ulna.**
 ---
 ### Synonyms
-- [[ulna]], [[Russian [[c/_cubit|cubit]]]], [[[[a/_arshin|arshin]]]], [[dira]], [[ell]]
+- [[ulna]], [[Russian [[c/_cubit|cubit]]]], [[[[a/_arshin|arshin]]]], [[dira]], [[[[e/_ell|ell]]]]
 ---

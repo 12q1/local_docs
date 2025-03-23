@@ -16,7 +16,7 @@
 - **To raise, be raised.**
 ---
 ### Synonyms
-- [[[[a/_accelerate|accelerate]]]], [[[[a/_adduce|adduce]]]], [[[[a/_aggrandize|aggrandize]]]], [[[[a/_allege|allege]]]], [[[[a/_assign|assign]]]], [[elevate]], [[exalt]], [[heighten]], [[improve]], [[raise]]
+- [[[[a/_accelerate|accelerate]]]], [[[[a/_adduce|adduce]]]], [[[[a/_aggrandize|aggrandize]]]], [[[[a/_allege|allege]]]], [[[[a/_assign|assign]]]], [[[[e/_elevate|elevate]]]], [[exalt]], [[heighten]], [[improve]], [[raise]]
 ### Antonyms
 - [[regress]], [[retract]]
 ---

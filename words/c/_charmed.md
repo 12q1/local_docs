@@ -11,7 +11,7 @@
 - **To subdue or overcome by some secret power, or by that which gives pleasure; to allay; to soothe.**
 ---
 ### Synonyms
-- [[[[d/_delight|delight]]]], [[enchant]], [[entrance]], [[[[b/_bewitch|bewitch]]]], [[enchant]], [[ensorcel]], [[enspell]]
+- [[[[d/_delight|delight]]]], [[[[e/_enchant|enchant]]]], [[entrance]], [[[[b/_bewitch|bewitch]]]], [[[[e/_enchant|enchant]]]], [[[[e/_ensorcel|ensorcel]]]], [[[[e/_enspell|enspell]]]]
 #adjective
 - **Under a magic spell (cast by a charm); bewitched.**
 - **Impressed by the pleasantness of something.**

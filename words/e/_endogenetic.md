@@ -1,0 +1,6 @@
+# Endogenetic
+---
+#adjective
+- **Endogenous**
+---
+---

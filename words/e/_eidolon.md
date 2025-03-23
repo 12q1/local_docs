@@ -1,0 +1,7 @@
+# Eidolon
+---
+#noun
+- **An image or representation of an idea; a representation of an ideal form; an apparition of some actual or imaginary entity, or of some aspect of reality.**
+- **A phantom, a ghost or elusive entity.**
+---
+---

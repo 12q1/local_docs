@@ -20,7 +20,7 @@
 	- _Example: Let X be a topological space with a distinguished point p._
 ---
 ### Synonyms
-- [[eminent]], [[exceptional]], [[remarkable]], [[grand]], [[imposing]]
+- [[[[e/_eminent|eminent]]]], [[exceptional]], [[remarkable]], [[grand]], [[imposing]]
 ### Antonyms
 - [[mediocre]]
 ---

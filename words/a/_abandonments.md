@@ -16,5 +16,5 @@
 ### Synonyms
 - [[[[a/_abandoning|abandoning]]]], [[[[a/_abdication|abdication]]]], [[[[a/_abjuration|abjuration]]]], [[[[a/_abnegation|abnegation]]]], [[[[a/_abrogation|abrogation]]]], [[[[c/_cession|cession]]]], [[[[d/_defection|defection]]]], [[[[d/_demission|demission]]]], [[[[d/_dereliction|dereliction]]]], [[[[d/_desertion|desertion]]]], [[rejection]], [[relinquishment]], [[renunciation]], [[resignation]], [[surrender]]
 ### Antonyms
-- [[[[a/_acquisition|acquisition]]]], [[[[a/_arrogation|arrogation]]]], [[[[c/_care|care]]]], [[[[c/_completion|completion]]]], [[[[c/_conviviality|conviviality]]]], [[[[c/_correction|correction]]]], [[[[c/_custody|custody]]]], [[entertainment]], [[heed]], [[help]], [[hospitality]], [[maintenance]], [[reception]], [[reclamation]], [[retention]], [[solicitude]], [[support]], [[tenacity]], [[vigilance]], [[watchfulness]], [[welcome]]
+- [[[[a/_acquisition|acquisition]]]], [[[[a/_arrogation|arrogation]]]], [[[[c/_care|care]]]], [[[[c/_completion|completion]]]], [[[[c/_conviviality|conviviality]]]], [[[[c/_correction|correction]]]], [[[[c/_custody|custody]]]], [[[[e/_entertainment|entertainment]]]], [[heed]], [[help]], [[hospitality]], [[maintenance]], [[reception]], [[reclamation]], [[retention]], [[solicitude]], [[support]], [[tenacity]], [[vigilance]], [[watchfulness]], [[welcome]]
 ---

@@ -1,0 +1,6 @@
+# Enervative
+---
+#adjective
+- **Causing enervation.**
+---
+---

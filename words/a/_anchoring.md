@@ -10,7 +10,7 @@
 - **To be stuck; to be unable to move away from a position.**
 ---
 ### Synonyms
-- [[[[b/_bog|bog]] [[d/_down|down]]]], [[embog]], [[enmire]], [[[[d/_drop|drop]] [[a/_anchor|anchor]]]], [[[[a/_affix|affix]]]], [[fix]], [[host]], [[present]], [[support]], [[[[c/_cease|cease]]]], [[hold]]
+- [[[[b/_bog|bog]] [[d/_down|down]]]], [[[[e/_embog|embog]]]], [[enmire]], [[[[d/_drop|drop]] [[a/_anchor|anchor]]]], [[[[a/_affix|affix]]]], [[fix]], [[host]], [[present]], [[support]], [[[[c/_cease|cease]]]], [[hold]]
 #noun
 - **The act or means by which something is anchored or made firm.**
 - **The tendency of people to place subsequently refined answers to a given question close to the initially estimated answer, giving unduly weight to the initial answer, such as adjusting the initial estimate of "20%" to "30%" when "90%" would be more appropriate.**

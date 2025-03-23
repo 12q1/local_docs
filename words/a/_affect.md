@@ -12,5 +12,5 @@
 - **To assign; to appoint.**
 ---
 ### Synonyms
-- [[[[a/_alter|alter]]]], [[[[c/_change|change]]]], [[have an effect on]], [[have an impact on]], [[influence]], [[[[a/_attack|attack]]]], [[harm]], [[infect]], [[move]], [[touch]]
+- [[[[a/_alter|alter]]]], [[[[c/_change|change]]]], [[have an [[e/_effect|effect]] on]], [[have an impact on]], [[influence]], [[[[a/_attack|attack]]]], [[harm]], [[infect]], [[move]], [[touch]]
 ---

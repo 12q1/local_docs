@@ -9,5 +9,5 @@
 	- _Example: Angry clouds raced across the sky._
 ---
 ### Synonyms
-- [[[[a/_annoyed|annoyed]]]], [[[[a/_apoplectic|apoplectic]]]], [[[[c/_cheesed|cheesed]] off]], [[enraged]], [[furious]], [[irritated]], [[mad]], [[pissed off]], [[psyched up]], [[vexed]], [[worked up]], [[wrathful]]
+- [[[[a/_annoyed|annoyed]]]], [[[[a/_apoplectic|apoplectic]]]], [[[[c/_cheesed|cheesed]] off]], [[[[e/_enraged|enraged]]]], [[furious]], [[irritated]], [[mad]], [[pissed off]], [[psyched up]], [[vexed]], [[worked up]], [[wrathful]]
 ---

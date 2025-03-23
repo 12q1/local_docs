@@ -16,7 +16,7 @@
 - **To consent to a contract or to an element of a contract.**
 ---
 ### Synonyms
-- [[[[c/_coincide|coincide]]]], [[[[c/_correspond|correspond]]]], [[match]], [[resemble]], [[[[b/_bargain|bargain]]]], [[[[d/_deal|deal]]]], [[engage]], [[fit]], [[suit]], [[[[c/_concur|concur]]]], [[harmonize]], [[[[a/_accede|accede]]]], [[[[c/_come|come]] [[a/_around|around]]]], [[give way]], [[[[a/_approve|approve]]]], [[set]]
+- [[[[c/_coincide|coincide]]]], [[[[c/_correspond|correspond]]]], [[match]], [[resemble]], [[[[b/_bargain|bargain]]]], [[[[d/_deal|deal]]]], [[[[e/_engage|engage]]]], [[fit]], [[suit]], [[[[c/_concur|concur]]]], [[harmonize]], [[[[a/_accede|accede]]]], [[[[c/_come|come]] [[a/_around|around]]]], [[give way]], [[[[a/_approve|approve]]]], [[set]]
 ### Antonyms
 - [[[[d/_disagree|disagree]]]]
 #adjective

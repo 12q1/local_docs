@@ -16,5 +16,5 @@
 - **Living in a land before colonization by the Europeans.**
 ---
 ### Synonyms
-- [[[[a/_ancient|ancient]]]], [[[[a/_autochthonous|autochthonous]]]], [[[[e/_earliest|earliest]]]], [[endemic]], [[first]], [[indigenous]], [[native]], [[original]], [[primeval]], [[primitive]], [[primordial]]
+- [[[[a/_ancient|ancient]]]], [[[[a/_autochthonous|autochthonous]]]], [[[[e/_earliest|earliest]]]], [[[[e/_endemic|endemic]]]], [[first]], [[indigenous]], [[native]], [[original]], [[primeval]], [[primitive]], [[primordial]]
 ---

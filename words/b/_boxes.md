@@ -17,7 +17,7 @@
 - **To place a value of a primitive type into a corresponding object.**
 ---
 ### Synonyms
-- [[[[b/_box|box]] up]], [[[[c/_case|case]]]], [[embox]], [[encase]], [[pack]], [[pack up]], [[package]]
+- [[[[b/_box|box]] up]], [[[[c/_case|case]]]], [[[[e/_embox|embox]]]], [[[[e/_encase|encase]]]], [[pack]], [[pack up]], [[package]]
 ### Antonyms
 - [[unbox]], [[uncase]], [[unpack]]
 #noun

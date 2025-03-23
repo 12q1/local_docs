@@ -1,0 +1,7 @@
+# Embrocation
+---
+#noun
+- **The act of moistening and rubbing a diseased part with spirit, oil, etc.**
+- **The liquid or lotion with which an affected part is rubbed.**
+---
+---

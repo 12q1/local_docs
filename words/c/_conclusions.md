@@ -11,7 +11,7 @@
 - **An estoppel or bar by which a person is held to a particular position.**
 ---
 ### Synonyms
-- [[endpoint]], [[terminus]], [[epilogue]], [[postamble]]
+- [[[[e/_endpoint|endpoint]]]], [[terminus]], [[epilogue]], [[postamble]]
 ### Antonyms
 - [[[[b/_beginning|beginning]]]], [[initiation]], [[start]]
 ---

@@ -5,5 +5,5 @@
 - **The wife of an ambassador.**
 ---
 ### Synonyms
-- [[ambassadrice]], [[ambassadrix]], [[ambassatrice]], [[ambassatrix]], [[embassadress]]
+- [[ambassadrice]], [[ambassadrix]], [[ambassatrice]], [[ambassatrix]], [[[[e/_embassadress|embassadress]]]]
 ---

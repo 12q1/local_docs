@@ -9,5 +9,5 @@
 	- _Example: A cloud arose and covered the sun._
 ---
 ### Synonyms
-- [[rise]], [[spring]], [[stand up]], [[[[a/_awaken|awaken]]]], [[[[c/_come|come]] [[a/_about|about]]]], [[[[c/_come|come]] to pass]], [[occur]], [[[[a/_appear|appear]]]], [[emerge]], [[originate]], [[pop up]], [[reappear]], [[surface]]
+- [[rise]], [[spring]], [[stand up]], [[[[a/_awaken|awaken]]]], [[[[c/_come|come]] [[a/_about|about]]]], [[[[c/_come|come]] to pass]], [[occur]], [[[[a/_appear|appear]]]], [[[[e/_emerge|emerge]]]], [[originate]], [[pop up]], [[reappear]], [[surface]]
 ---

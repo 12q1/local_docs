@@ -5,7 +5,7 @@
 - **A Web spider.**
 ---
 ### Synonyms
-- [[emmet]], [[pismire]]
+- [[[[e/_emmet|emmet]]]], [[pismire]]
 #verb
 - **To rub insects, especially ants, on one's body, perhaps to control parasites or clean feathers.**
 ---

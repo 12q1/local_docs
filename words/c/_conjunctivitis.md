@@ -4,5 +4,5 @@
 - **An inflammation of the conjunctiva, often due to infection.**
 ---
 ### Synonyms
-- [[Madras eye]], [[pink-eye]], [[pinkeye]]
+- [[Madras [[e/_eye|eye]]]], [[pink-[[e/_eye|eye]]]], [[pinkeye]]
 ---

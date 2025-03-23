@@ -10,5 +10,5 @@
 - **A bulldog edition.**
 ---
 ### Synonyms
-- [[English [[b/_bulldog|bulldog]]]]
+- [[[[e/_english|English]] [[b/_bulldog|bulldog]]]]
 ---

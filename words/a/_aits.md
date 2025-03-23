@@ -4,7 +4,7 @@
 - **An island in a river, especially the River Thames in England.**
 ---
 ### Synonyms
-- [[eyot]]
+- [[[[e/_eyot|eyot]]]]
 #noun
 - **An oat.**
 ---

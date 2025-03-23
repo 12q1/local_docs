@@ -7,7 +7,7 @@
 - **A tendency or a course of events**
 ---
 ### Synonyms
-- [[electric [[c/_current|current]]]], [[flow]], [[stream]], [[flow]], [[stream]], [[tendency]]
+- [[[[e/_electric|electric]] [[c/_current|current]]]], [[flow]], [[stream]], [[flow]], [[stream]], [[tendency]]
 #adjective
 - **Existing or occurring at the moment**
 	- _Example: current events;  current leaders;  current negotiations_

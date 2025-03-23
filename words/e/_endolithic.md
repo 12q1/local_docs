@@ -1,0 +1,6 @@
+# Endolithic
+---
+#adjective
+- **Within rock.**
+---
+---

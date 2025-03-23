@@ -1,0 +1,6 @@
+# Embrocated
+---
+#verb
+- **To moisten and rub (a diseased part) with a liquid substance, as with spirit, oil, etc., by means of a cloth or sponge.**
+---
+---

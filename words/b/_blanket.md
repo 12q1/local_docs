@@ -23,5 +23,5 @@
 	- _Example: They sought to create a blanket solution for all situations._
 ---
 ### Synonyms
-- [[[[a/_all|all]]-encompassing]], [[exhaustive]]
+- [[[[a/_all|all]]-[[e/_encompassing|encompassing]]]], [[exhaustive]]
 ---

@@ -10,7 +10,7 @@
 ### Synonyms
 - [[[[d/_deactivate|deactivate]]]], [[non-standard]], [[unable]]
 ### Antonyms
-- [[enable]]
+- [[[[e/_enable|enable]]]]
 #noun
 - **One who is disabled. (often used collectively as the disabled, but sometimes also singular)**
 ---
@@ -22,5 +22,5 @@
 ### Synonyms
 - [[incapacitated]], [[indisposed]], [[invalid]]
 ### Antonyms
-- [[enabled]]
+- [[[[e/_enabled|enabled]]]]
 ---

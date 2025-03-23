@@ -6,7 +6,7 @@
 - **A turn of a cable about the bitts.**
 ---
 ### Synonyms
-- [[EPA]], [[English pale [[a/_ale|ale]]]]
+- [[EPA]], [[[[e/_english|English]] pale [[a/_ale|ale]]]]
 #verb
 - **To make bitter.**
 ---

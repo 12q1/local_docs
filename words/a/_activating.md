@@ -13,7 +13,7 @@
 - **To bring a player back after an injury.**
 ---
 ### Synonyms
-- [[[[a/_actuate|actuate]]]], [[enable]], [[get going]], [[set going]], [[set in motion]], [[set off]], [[spur]], [[start]], [[stimulate]], [[trigger]], [[turn on]]
+- [[[[a/_actuate|actuate]]]], [[[[e/_enable|enable]]]], [[get going]], [[set going]], [[set in motion]], [[set off]], [[spur]], [[start]], [[stimulate]], [[trigger]], [[turn on]]
 ### Antonyms
 - [[[[d/_deactivate|deactivate]]]], [[inactivate]]
 ---

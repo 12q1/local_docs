@@ -16,5 +16,5 @@
 - **Having the light and aerial tints true to nature.**
 ---
 ### Synonyms
-- [[aereous]], [[flippant]], [[sprightly]], [[superficial]], [[empty]], [[trifling]], [[visionary]], [[ethereal]], [[aereous]], [[empty]], [[trifling]], [[visionary]], [[flippant]], [[sprightly]], [[superficial]]
+- [[aereous]], [[flippant]], [[sprightly]], [[superficial]], [[[[e/_empty|empty]]]], [[trifling]], [[visionary]], [[ethereal]], [[aereous]], [[[[e/_empty|empty]]]], [[trifling]], [[visionary]], [[flippant]], [[sprightly]], [[superficial]]
 ---

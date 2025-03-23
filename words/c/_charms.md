@@ -25,7 +25,7 @@
 - **To subdue or overcome by some secret power, or by that which gives pleasure; to allay; to soothe.**
 ---
 ### Synonyms
-- [[[[d/_delight|delight]]]], [[enchant]], [[entrance]], [[[[b/_bewitch|bewitch]]]], [[enchant]], [[ensorcel]], [[enspell]]
+- [[[[d/_delight|delight]]]], [[[[e/_enchant|enchant]]]], [[entrance]], [[[[b/_bewitch|bewitch]]]], [[[[e/_enchant|enchant]]]], [[[[e/_ensorcel|ensorcel]]]], [[[[e/_enspell|enspell]]]]
 #noun
 - **The mixed sound of many voices, especially of birds or children.**
 - **A flock, group (especially of finches).**

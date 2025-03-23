@@ -10,7 +10,7 @@
 - **Carefully or artfully constructed; made with great elegance or skill.**
 ---
 ### Synonyms
-- [[enquiring, inquiring]], [[exquisitive]], [[investigative]], [[peery]]
+- [[[[e/_enquiring|enquiring]], inquiring]], [[exquisitive]], [[investigative]], [[peery]]
 ### Antonyms
 - [[incurious]], [[noncurious]], [[uncurious]], [[uncurious]]
 ---

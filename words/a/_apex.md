@@ -18,5 +18,5 @@
 - **The top of the food chain**
 ---
 ### Synonyms
-- [[peak]], [[summit]], [[top]], [[[[a/_acme|acme]]]], [[[[c/_culmination|culmination]]]], [[height]], [[peak]], [[pinnacle]], [[end]], [[tip]]
+- [[peak]], [[summit]], [[top]], [[[[a/_acme|acme]]]], [[[[c/_culmination|culmination]]]], [[height]], [[peak]], [[pinnacle]], [[[[e/_end|end]]]], [[tip]]
 ---

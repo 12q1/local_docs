@@ -5,7 +5,7 @@
 - **A polysaccharide containing many glucose units in parallel chains.**
 ---
 ### Synonyms
-- [[E460]], [[emulsifier]]
+- [[E460]], [[[[e/_emulsifier|emulsifier]]]]
 #adjective
 - **Consisting of, or containing, cells.**
 ---

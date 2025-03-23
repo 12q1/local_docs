@@ -13,7 +13,7 @@
 - **An arclight.**
 ---
 ### Synonyms
-- [[[[c/_circle|circle]] segment]], [[[[c/_circular|circular]] [[a/_arc|arc]]]], [[[[c/_curve|curve]]]], [[swoop]], [[[[a/_arrow|arrow]]]], [[[[d/_directed|directed]] edge]]
+- [[[[c/_circle|circle]] segment]], [[[[c/_circular|circular]] [[a/_arc|arc]]]], [[[[c/_curve|curve]]]], [[swoop]], [[[[a/_arrow|arrow]]]], [[[[d/_directed|directed]] [[e/_edge|edge]]]]
 #verb
 - **To move following a curved path.**
 - **To shape into an arc; to hold in the form of an arc.**

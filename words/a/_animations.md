@@ -9,5 +9,5 @@
 - **Conversion from the inanimate to animate grammatical category**
 ---
 ### Synonyms
-- [[enlivenment]], [[vitalization]], [[vivification]], [[life]], [[[[a/_airiness|airiness]]]], [[[[a/_ardor|ardor]]]], [[[[b/_buoyancy|buoyancy]]]], [[[[e/_earnestness|earnestness]]]], [[energy]], [[enthusiasm]], [[liveliness]], [[promptitude]], [[spirit]], [[sprightliness]], [[vivacity]]
+- [[[[e/_enlivenment|enlivenment]]]], [[vitalization]], [[vivification]], [[life]], [[[[a/_airiness|airiness]]]], [[[[a/_ardor|ardor]]]], [[[[b/_buoyancy|buoyancy]]]], [[[[e/_earnestness|earnestness]]]], [[[[e/_energy|energy]]]], [[enthusiasm]], [[liveliness]], [[promptitude]], [[spirit]], [[sprightliness]], [[vivacity]]
 ---

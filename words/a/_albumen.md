@@ -4,5 +4,5 @@
 - **The white part of an egg; being mostly the protein albumin and water.**
 ---
 ### Synonyms
-- [[egg white]]
+- [[[[e/_egg|egg]] white]]
 ---

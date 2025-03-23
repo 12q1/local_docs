@@ -5,5 +5,5 @@
 - **To dirty; cover with dirt.**
 ---
 ### Synonyms
-- [[embellish]]
+- [[[[e/_embellish|embellish]]]]
 ---

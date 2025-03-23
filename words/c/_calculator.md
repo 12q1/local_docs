@@ -7,5 +7,5 @@
 - **A set of mathematical tables.**
 ---
 ### Synonyms
-- [[electronic [[c/_calculator|calculator]]]], [[pocket [[c/_calculator|calculator]]]], [[ready reckoner]], [[table]], [[[[a/_adding|adding]] machine]], [[[[c/_computer|computer]]]], [[plotter]], [[schemer]]
+- [[[[e/_electronic|electronic]] [[c/_calculator|calculator]]]], [[pocket [[c/_calculator|calculator]]]], [[ready reckoner]], [[table]], [[[[a/_adding|adding]] machine]], [[[[c/_computer|computer]]]], [[plotter]], [[schemer]]
 ---

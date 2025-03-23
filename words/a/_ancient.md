@@ -7,7 +7,7 @@
 - **A senior; an elder; a predecessor.**
 ---
 ### Synonyms
-- [[geriatric]], [[oldster]], [[senior [[c/_citizen|citizen]]]], [[[[a/_antique|antique]]]], [[[[a/_antecessor|antecessor]]]], [[forerunner]], [[[[a/_aged|aged]]]], [[eldern]], [[hoary]]
+- [[geriatric]], [[oldster]], [[senior [[c/_citizen|citizen]]]], [[[[a/_antique|antique]]]], [[[[a/_antecessor|antecessor]]]], [[forerunner]], [[[[a/_aged|aged]]]], [[[[e/_eldern|eldern]]]], [[hoary]]
 #adjective
 - **Having lasted from a remote period; having been of long duration; of great age, very old.**
 	- _Example: an ancient city  an ancient forest_

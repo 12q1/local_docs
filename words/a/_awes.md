@@ -5,5 +5,5 @@
 - **To control by inspiring dread.**
 ---
 ### Synonyms
-- [[enthral]], [[enthrall]], [[overwhelm]]
+- [[[[e/_enthral|enthral]]]], [[[[e/_enthrall|enthrall]]]], [[overwhelm]]
 ---

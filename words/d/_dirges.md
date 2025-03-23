@@ -5,5 +5,5 @@
 - **A song or piece of music that is considered too slow, bland or boring.**
 ---
 ### Synonyms
-- [[[[c/_coronach|coronach]]]], [[elegy]], [[lament]], [[requiem]], [[threnody]]
+- [[[[c/_coronach|coronach]]]], [[[[e/_elegy|elegy]]]], [[lament]], [[requiem]], [[threnody]]
 ---

@@ -7,5 +7,5 @@
 ### Synonyms
 - [[philanthropy]], [[philanthropy]], [[selflessness]]
 ### Antonyms
-- [[egoism]], [[misanthropy]], [[selfishness]]
+- [[[[e/_egoism|egoism]]]], [[misanthropy]], [[selfishness]]
 ---

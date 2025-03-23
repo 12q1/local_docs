@@ -10,7 +10,7 @@
 - **To restrain desire; to live in continence or chastity.**
 ---
 ### Synonyms
-- [[enclose]], [[inhold]], [[[[c/_comprise|comprise]]]], [[embody]], [[incorporate]], [[inhold]], [[[[c/_control|control]]]], [[[[c/_curb|curb]]]], [[repress]], [[restrain]], [[restrict]], [[stifle]]
+- [[[[e/_enclose|enclose]]]], [[inhold]], [[[[c/_comprise|comprise]]]], [[[[e/_embody|embody]]]], [[incorporate]], [[inhold]], [[[[c/_control|control]]]], [[[[c/_curb|curb]]]], [[repress]], [[restrain]], [[restrict]], [[stifle]]
 ### Antonyms
 - [[exclude]], [[omit]], [[release]], [[vent]]
 #noun

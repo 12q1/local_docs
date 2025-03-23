@@ -5,5 +5,5 @@
 - **Tau cross**
 ---
 ### Synonyms
-- [[Egyptian [[c/_cross|cross]]]], [[[[a/_ansate|ansate]] [[c/_cross|cross]]]], [[[[c/_crux|crux]] ansata]]
+- [[[[e/_egyptian|Egyptian]] [[c/_cross|cross]]]], [[[[a/_ansate|ansate]] [[c/_cross|cross]]]], [[[[c/_crux|crux]] ansata]]
 ---

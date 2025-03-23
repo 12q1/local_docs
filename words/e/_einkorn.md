@@ -1,0 +1,6 @@
+# Einkorn
+---
+#noun
+- **Einkorn wheat.**
+---
+---

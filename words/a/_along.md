@@ -13,5 +13,5 @@
 - **In a line with, with a progressive motion on; onward on; forward on.**
 ---
 ### Synonyms
-- [[[[a/_alongst|alongst]]]], [[endlong]]
+- [[[[a/_alongst|alongst]]]], [[[[e/_endlong|endlong]]]]
 ---

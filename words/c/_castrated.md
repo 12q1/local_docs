@@ -6,7 +6,7 @@
 - **To take something from; to render imperfect or ineffectual.**
 ---
 ### Synonyms
-- [[emasculate]], [[geld]], [[neuter]], [[spay]], [[sterilize]]
+- [[[[e/_emasculate|emasculate]]]], [[geld]], [[neuter]], [[spay]], [[sterilize]]
 #adjective
 - **Having had the reproductive organs removed (testicles in males, ovaries in females).**
 ---

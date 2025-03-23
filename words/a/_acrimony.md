@@ -5,7 +5,7 @@
 	- _Example: Her acrimony for her neighbors manifests itself with shouting and stomping._
 ---
 ### Synonyms
-- [[[[a/_animosity|animosity]]]], [[[[b/_bitterness|bitterness]]]], [[enmity]], [[hatred]], [[opposition]]
+- [[[[a/_animosity|animosity]]]], [[[[b/_bitterness|bitterness]]]], [[[[e/_enmity|enmity]]]], [[hatred]], [[opposition]]
 ### Antonyms
 - [[friendship]], [[peace]]
 ---

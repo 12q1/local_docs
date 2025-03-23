@@ -9,5 +9,5 @@
 - **To require as a logical predicate to consequence.**
 ---
 ### Synonyms
-- [[entail]], [[imply]], [[entail]], [[imply]], [[predicate]]
+- [[[[e/_entail|entail]]]], [[imply]], [[[[e/_entail|entail]]]], [[imply]], [[predicate]]
 ---

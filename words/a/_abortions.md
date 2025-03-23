@@ -9,5 +9,5 @@
 - **The cessation of an illness or disease at a very early stage.**
 ---
 ### Synonyms
-- [[[[a/_aborticide|aborticide]]]], [[embryoctony]], [[feticide]], [[foeticide]], [[pregnancy]], [[termination]], [[[[a/_aborticide|aborticide]]]], [[feticide]], [[foeticide]], [[pregnancy]], [[termination]], [[misbirth]], [[miscarriage]]
+- [[[[a/_aborticide|aborticide]]]], [[[[e/_embryoctony|embryoctony]]]], [[feticide]], [[foeticide]], [[pregnancy]], [[termination]], [[[[a/_aborticide|aborticide]]]], [[feticide]], [[foeticide]], [[pregnancy]], [[termination]], [[misbirth]], [[miscarriage]]
 ---

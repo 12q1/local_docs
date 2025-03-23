@@ -11,7 +11,7 @@
 	- _Example: demotic Greek_
 ---
 ### Synonyms
-- [[[[c/_colloquial|colloquial]]]], [[informal]], [[popular]], [[vernacular]], [[enchorial]]
+- [[[[c/_colloquial|colloquial]]]], [[informal]], [[popular]], [[vernacular]], [[[[e/_enchorial|enchorial]]]]
 ### Antonyms
 - [[formal]]
 ---

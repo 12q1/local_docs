@@ -7,5 +7,5 @@
 ### Synonyms
 - [[friendliness]], [[friendship]]
 ### Antonyms
-- [[enemyship]], [[enmity]], [[hostility]]
+- [[[[e/_enemyship|enemyship]]]], [[[[e/_enmity|enmity]]]], [[hostility]]
 ---

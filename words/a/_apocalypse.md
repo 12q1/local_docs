@@ -8,5 +8,5 @@
 - **A disaster; a cataclysmic event.**
 ---
 ### Synonyms
-- [[Ragnarok]], [[[[a/_armageddon|armageddon]]]], [[[[d/_doomsday|doomsday]]]], [[end times]], [[eschaton]]
+- [[Ragnarok]], [[[[a/_armageddon|armageddon]]]], [[[[d/_doomsday|doomsday]]]], [[[[e/_end|end]] times]], [[eschaton]]
 ---

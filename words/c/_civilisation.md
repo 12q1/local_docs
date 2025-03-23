@@ -12,5 +12,5 @@
 - **The act of rendering a criminal process civil.**
 ---
 ### Synonyms
-- [[[[a/_acculturation|acculturation]]]], [[education]], [[sphere]], [[[[c/_culture|culture]]]], [[order]], [[home]], [[the land of the living]]
+- [[[[a/_acculturation|acculturation]]]], [[[[e/_education|education]]]], [[sphere]], [[[[c/_culture|culture]]]], [[order]], [[home]], [[the land of the living]]
 ---

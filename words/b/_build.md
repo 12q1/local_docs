@@ -20,7 +20,7 @@
 	- _Example: This code won't build any more. Have you made any changes?_
 ---
 ### Synonyms
-- [[[[c/_create|create]]]], [[[[b/_base|base]]]], [[found]], [[ground]], [[[[c/_construct|construct]]]], [[erect]], [[[[b/_build|build]] up]], [[enlarge]], [[increase]], [[strengthen]]
+- [[[[c/_create|create]]]], [[[[b/_base|base]]]], [[found]], [[ground]], [[[[c/_construct|construct]]]], [[erect]], [[[[b/_build|build]] up]], [[[[e/_enlarge|enlarge]]]], [[increase]], [[strengthen]]
 ### Antonyms
 - [[[[d/_demolish|demolish]]]], [[[[d/_destroy|destroy]]]], [[ruin]], [[wreck]], [[[[d/_decrease|decrease]]]], [[[[d/_dissipate|dissipate]]]], [[weaken]]
 ---

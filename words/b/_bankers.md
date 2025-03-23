@@ -15,5 +15,5 @@
 - **A railway locomotive that can be attached to the rear of a train to assist it in climbing an incline.**
 ---
 ### Synonyms
-- [[[[b/_bank|bank]] engine]], [[helper]], [[helper engine]]
+- [[[[b/_bank|bank]] [[e/_engine|engine]]]], [[helper]], [[helper [[e/_engine|engine]]]]
 ---

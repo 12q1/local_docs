@@ -1,0 +1,7 @@
+# Emaciation
+---
+#noun
+- **The act of making very lean.**
+- **The state of being emaciated or reduced to excessive leanness; an excessively lean condition.**
+---
+---

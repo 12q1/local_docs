@@ -8,7 +8,7 @@
 ### Synonyms
 - [[[[a/_alight|alight]]]], [[[[d/_debark|debark]]]], [[get off]], [[get out]], [[[[d/_debark|debark]]]], [[land]]
 ### Antonyms
-- [[embark]]
+- [[[[e/_embark|embark]]]]
 #noun
 - **A disembarkation.**
 ---

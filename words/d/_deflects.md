@@ -9,5 +9,5 @@
 - **To divert (attention, etc.).**
 ---
 ### Synonyms
-- [[elude]]
+- [[[[e/_elude|elude]]]]
 ---

@@ -9,7 +9,7 @@
 - **A state in which sensibility, voluntary motion, and (largely) mental power are suspended; the body is erect and inflexible; but the pulse and breathing are not affected.**
 ---
 ### Synonyms
-- [[[[e/_e|E]]]], [[MDMA]], [[X]], [[XTC]], [[eckie]], [[ecky]], [[empathy]], [[molly]], [[thizz]]
+- [[[[e/_e|E]]]], [[MDMA]], [[X]], [[XTC]], [[eckie]], [[ecky]], [[[[e/_empathy|empathy]]]], [[molly]], [[thizz]]
 ### Antonyms
 - [[[[a/_agony|agony]]]]
 #verb

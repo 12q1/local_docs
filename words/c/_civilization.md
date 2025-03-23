@@ -12,7 +12,7 @@
 - **The act of rendering a criminal process civil.**
 ---
 ### Synonyms
-- [[[[a/_acculturation|acculturation]]]], [[education]], [[sphere]], [[[[c/_culture|culture]]]], [[order]], [[home]], [[the land of the living]]
+- [[[[a/_acculturation|acculturation]]]], [[[[e/_education|education]]]], [[sphere]], [[[[c/_culture|culture]]]], [[order]], [[home]], [[the land of the living]]
 #propernoun
 - **Collectively, those people of the world considered to have a high standard of behavior and / or a high level of development. Commonly subjectively used by people of one society to exclusively refer to their society, or their elite sub-group, or a few associated societies, implying all others, in time or geography or status, as something less than civilised, as savages or barbarians. cf refinement, elitism, civilised society, the Civilised World**
 ---

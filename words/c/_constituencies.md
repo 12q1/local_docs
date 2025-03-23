@@ -9,5 +9,5 @@
 - **An interest group or fan base.**
 ---
 ### Synonyms
-- [[electoral [[d/_district|district]]]], [[precinct]], [[riding]], [[electorate]]
+- [[[[e/_electoral|electoral]] [[d/_district|district]]]], [[precinct]], [[riding]], [[[[e/_electorate|electorate]]]]
 ---

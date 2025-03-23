@@ -15,5 +15,5 @@
 ### Synonyms
 - [[[[c/_cut|cut]]]]
 ### Antonyms
-- [[embankment]]
+- [[[[e/_embankment|embankment]]]]
 ---

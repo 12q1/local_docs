@@ -7,7 +7,7 @@
 - **To have a vector sum of 0; that is, to form a closed polygon.**
 ---
 ### Synonyms
-- [[narrow]], [[shut]], [[[[c/_close|close]] off]], [[[[c/_close|close]] up]], [[[[c/_cover|cover]]]], [[shut]], [[shut off]], [[[[c/_close|close]] [[d/_down|down]]]], [[end]], [[finish]], [[terminate]], [[wind up]], [[[[c/_close|close]] out]], [[exit]]
+- [[narrow]], [[shut]], [[[[c/_close|close]] off]], [[[[c/_close|close]] up]], [[[[c/_cover|cover]]]], [[shut]], [[shut off]], [[[[c/_close|close]] [[d/_down|down]]]], [[[[e/_end|end]]]], [[finish]], [[terminate]], [[wind up]], [[[[c/_close|close]] out]], [[exit]]
 ### Antonyms
 - [[extend]], [[widen]], [[open]], [[open]], [[[[b/_begin|begin]]]], [[[[c/_commence|commence]]]], [[initiate]], [[start]], [[open]], [[start]]
 #noun

@@ -10,5 +10,5 @@
 - **Examination or consideration of a subject in controversy, or of a plan proposed for adoption; earnest discussion; debate.**
 ---
 ### Synonyms
-- [[[[c/_commotion|commotion]]]], [[emotion]], [[excitement]], [[perturbation]], [[tremor]], [[trepidation]]
+- [[[[c/_commotion|commotion]]]], [[[[e/_emotion|emotion]]]], [[excitement]], [[perturbation]], [[tremor]], [[trepidation]]
 ---

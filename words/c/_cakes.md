@@ -22,7 +22,7 @@
 - **To form into a cake, or mass.**
 ---
 ### Synonyms
-- [[[[c/_crust|crust]]]], [[encrust]]
+- [[[[c/_crust|crust]]]], [[[[e/_encrust|encrust]]]]
 #verb
 - **To cackle like a goose.**
 ---

@@ -8,7 +8,7 @@
 - **Feeling shame or guilt.**
 ---
 ### Synonyms
-- [[embarrassed]]
+- [[[[e/_embarrassed|embarrassed]]]]
 ### Antonyms
 - [[proud]]
 ---

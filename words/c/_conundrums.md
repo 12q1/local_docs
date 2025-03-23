@@ -5,5 +5,5 @@
 - **A difficult choice or decision that must be made.**
 ---
 ### Synonyms
-- [[[[b/_brain|brain]]-teaser]], [[enigma]], [[puzzle]], [[riddle]], [[[[d/_dilemma|dilemma]]]]
+- [[[[b/_brain|brain]]-teaser]], [[[[e/_enigma|enigma]]]], [[puzzle]], [[riddle]], [[[[d/_dilemma|dilemma]]]]
 ---

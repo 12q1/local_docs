@@ -10,5 +10,5 @@
 	- _Example: Show all the spoils by valiant kings achieved._
 ---
 ### Synonyms
-- [[[[a/_accomplish|accomplish]]]], [[[[c/_complete|complete]]]], [[effect]], [[execute]], [[fulfil]], [[fulfill]], [[obtain]], [[perform]], [[realize]]
+- [[[[a/_accomplish|accomplish]]]], [[[[c/_complete|complete]]]], [[[[e/_effect|effect]]]], [[execute]], [[fulfil]], [[fulfill]], [[obtain]], [[perform]], [[realize]]
 ---

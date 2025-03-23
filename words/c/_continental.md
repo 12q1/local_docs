@@ -20,5 +20,5 @@
 ### Synonyms
 - [[European]], [[mainland]]
 ### Antonyms
-- [[[[b/_british|British]]]], [[English]]
+- [[[[b/_british|British]]]], [[[[e/_english|English]]]]
 ---

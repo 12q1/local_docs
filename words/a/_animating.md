@@ -6,5 +6,5 @@
 - **To give spirit or vigour to; to stimulate or enliven; to inspirit.**
 ---
 ### Synonyms
-- [[enliven]], [[vitalise]]
+- [[[[e/_enliven|enliven]]]], [[vitalise]]
 ---

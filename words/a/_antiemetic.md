@@ -4,10 +4,10 @@
 - **A drug that combats nausea and vomiting**
 ---
 ### Antonyms
-- [[emetic]]
+- [[[[e/_emetic|emetic]]]]
 #adjective
 - **That combats nausea and vomiting**
 ---
 ### Antonyms
-- [[emetic]]
+- [[[[e/_emetic|emetic]]]]
 ---

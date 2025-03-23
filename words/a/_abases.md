@@ -9,5 +9,5 @@
 ### Synonyms
 - [[[[d/_downgrade|downgrade]]]], [[[[b/_bring|bring]] [[d/_down|down]]]], [[lower]], [[reduce]], [[[[d/_degrade|degrade]]]], [[[[d/_demean|demean]]]], [[[[d/_depress|depress]]]], [[[[d/_discredit|discredit]]]], [[[[d/_disgrace|disgrace]]]], [[[[d/_dishonor|dishonor]]]], [[humble]], [[humiliate]], [[sink]]
 ### Antonyms
-- [[[[a/_aggrandise|aggrandise]]]], [[[[d/_dignify|dignify]]]], [[elevate]], [[exalt]], [[extol]], [[honor]], [[promote]], [[raise]], [[uplift]]
+- [[[[a/_aggrandise|aggrandise]]]], [[[[d/_dignify|dignify]]]], [[[[e/_elevate|elevate]]]], [[exalt]], [[extol]], [[honor]], [[promote]], [[raise]], [[uplift]]
 ---

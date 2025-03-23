@@ -6,5 +6,5 @@
 ### Synonyms
 - [[indifference]], [[neutrality]]
 ### Antonyms
-- [[empathy]], [[sympathy]]
+- [[[[e/_empathy|empathy]]]], [[sympathy]]
 ---

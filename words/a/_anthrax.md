@@ -5,5 +5,5 @@
 - **The human disease that can occur in humans through contact with infected herbivores, tissue from infected animals, or high concentrations of anthrax spores, but is not usually spread between humans, with symptoms including lesions on the skin or in the lungs, often fatal.**
 ---
 ### Synonyms
-- [[[[c/_cumberland|Cumberland]] [[d/_disease|disease]]]], [[Siberian plague]], [[[[c/_charbon|charbon]]]], [[malignant edema]], [[splenic fever]], [[woolsorter's [[d/_disease|disease]]]]
+- [[[[c/_cumberland|Cumberland]] [[d/_disease|disease]]]], [[Siberian plague]], [[[[c/_charbon|charbon]]]], [[malignant [[e/_edema|edema]]]], [[splenic fever]], [[woolsorter's [[d/_disease|disease]]]]
 ---

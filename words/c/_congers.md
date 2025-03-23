@@ -5,5 +5,5 @@
 - **A chain of booksellers.**
 ---
 ### Synonyms
-- [[[[c/_conger|conger]] eel]]
+- [[[[c/_conger|conger]] [[e/_eel|eel]]]]
 ---

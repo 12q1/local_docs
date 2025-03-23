@@ -10,5 +10,5 @@
 ### Synonyms
 - [[[[d/_deactivate|deactivate]]]], [[non-standard]], [[unable]]
 ### Antonyms
-- [[enable]]
+- [[[[e/_enable|enable]]]]
 ---

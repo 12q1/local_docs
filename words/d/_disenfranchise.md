@@ -6,5 +6,5 @@
 ### Synonyms
 - [[[[d/_disfranchise|disfranchise]]]]
 ### Antonyms
-- [[enfranchise]]
+- [[[[e/_enfranchise|enfranchise]]]]
 ---

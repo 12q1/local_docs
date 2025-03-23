@@ -31,7 +31,7 @@
 - **To be stuck; to be unable to move away from a position.**
 ---
 ### Synonyms
-- [[[[b/_bog|bog]] [[d/_down|down]]]], [[embog]], [[enmire]], [[[[d/_drop|drop]] [[a/_anchor|anchor]]]], [[[[a/_affix|affix]]]], [[fix]], [[host]], [[present]], [[support]], [[[[c/_cease|cease]]]], [[hold]]
+- [[[[b/_bog|bog]] [[d/_down|down]]]], [[[[e/_embog|embog]]]], [[enmire]], [[[[d/_drop|drop]] [[a/_anchor|anchor]]]], [[[[a/_affix|affix]]]], [[fix]], [[host]], [[present]], [[support]], [[[[c/_cease|cease]]]], [[hold]]
 #noun
 - **A measure of wine or spirit equal to 10 gallons; a barrel of this capacity.**
 ---

@@ -16,7 +16,7 @@
 - **To gain or win.**
 ---
 ### Synonyms
-- [[[[b/_brook|brook]]]], [[endure]]
+- [[[[b/_brook|brook]]]], [[[[e/_endure|endure]]]]
 #adjective
 - **(in combination) That bears (some specified thing).**
 	- _Example: a gift-bearing visitor_

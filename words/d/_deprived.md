@@ -8,7 +8,7 @@
 ### Synonyms
 - [[[[b/_bereave|bereave]]]], [[impoverish]]
 ### Antonyms
-- [[enrich]]
+- [[[[e/_enrich|enrich]]]]
 #adjective
 - **Subject to deprivation; poor.**
 ---

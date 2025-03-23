@@ -10,7 +10,7 @@
 - **To call to a sense of sin.**
 ---
 ### Synonyms
-- [[[[a/_awake|awake]]]], [[stir]], [[[[a/_animate|animate]]]], [[energize]], [[knock up]], [[uprouse]]
+- [[[[a/_awake|awake]]]], [[stir]], [[[[a/_animate|animate]]]], [[[[e/_energize|energize]]]], [[knock up]], [[uprouse]]
 ### Antonyms
 - [[fall [[a/_asleep|asleep]]]]
 #noun

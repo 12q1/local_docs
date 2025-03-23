@@ -6,7 +6,7 @@
 - **Any paternal male relative.**
 ---
 ### Antonyms
-- [[enate]]
+- [[[[e/_enate|enate]]]]
 #adjective
 - **Related to someone by male connections or on the paternal side of the family.**
 - **Allied; akin**

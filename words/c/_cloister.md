@@ -14,5 +14,5 @@
 - **To protect or isolate.**
 ---
 ### Synonyms
-- [[enter religion]]
+- [[[[e/_enter|enter]] religion]]
 ---

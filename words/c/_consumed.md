@@ -16,7 +16,7 @@
 	- _Example: The Internet has changed the way we consume news._
 ---
 ### Synonyms
-- [[[[a/_annihilate|annihilate]]]], [[[[d/_destroy|destroy]]]], [[[[d/_devastate|devastate]]]], [[eliminate]], [[obliterate]], [[raze]], [[wipe out]], [[[[d/_devour|devour]]]], [[[[e/_eat|eat]]]], [[swallow]], [[occupy]], [[overcome]], [[take over]], [[[[b/_burn|burn]]]], [[use]], [[use up]]
+- [[[[a/_annihilate|annihilate]]]], [[[[d/_destroy|destroy]]]], [[[[d/_devastate|devastate]]]], [[[[e/_eliminate|eliminate]]]], [[obliterate]], [[raze]], [[wipe out]], [[[[d/_devour|devour]]]], [[[[e/_eat|eat]]]], [[swallow]], [[occupy]], [[overcome]], [[take over]], [[[[b/_burn|burn]]]], [[use]], [[use up]]
 #adjective
 - **Construed with with Full of, exuding (also figuratively).**
 	- _Example: She was consumed with hatred._

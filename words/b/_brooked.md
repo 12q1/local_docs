@@ -7,5 +7,5 @@
 	- _Example: I will not brook any disobedience.   I will brook no refusal.   I will brook no impertinence._
 ---
 ### Synonyms
-- [[[[a/_apply|apply]]]], [[employ]], [[utilize]]
+- [[[[a/_apply|apply]]]], [[[[e/_employ|employ]]]], [[utilize]]
 ---

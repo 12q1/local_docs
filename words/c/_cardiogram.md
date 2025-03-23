@@ -4,5 +4,5 @@
 - **The visual output an electrocardiograph produces**
 ---
 ### Synonyms
-- [[electrocardiogram]]
+- [[[[e/_electrocardiogram|electrocardiogram]]]]
 ---

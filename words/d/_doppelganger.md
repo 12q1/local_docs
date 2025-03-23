@@ -7,5 +7,5 @@
 - **A monster that takes the forms of people, usually after killing them.**
 ---
 ### Synonyms
-- [[[[a/_alter|alter]] ego]], [[[[d/_double|double]]]], [[[[d/_doubleganger|doubleganger]]]], [[evil twin]], [[lookalike]]
+- [[[[a/_alter|alter]] [[e/_ego|ego]]]], [[[[d/_double|double]]]], [[[[d/_doubleganger|doubleganger]]]], [[evil twin]], [[lookalike]]
 ---

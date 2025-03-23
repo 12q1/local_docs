@@ -9,5 +9,5 @@
 - **To appoint, depute, or elect to an office; to make and empower.**
 ---
 ### Synonyms
-- [[[[c/_compose|compose]]]], [[form]], [[make up]], [[enact]], [[establish]]
+- [[[[c/_compose|compose]]]], [[form]], [[make up]], [[[[e/_enact|enact]]]], [[establish]]
 ---

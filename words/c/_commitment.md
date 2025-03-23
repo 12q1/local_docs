@@ -10,5 +10,5 @@
 - **The act of being locked away, such as in an institution for the mentally ill or in jail.**
 ---
 ### Synonyms
-- [[[[a/_allegiance|allegiance]]]], [[[[c/_charge|charge]]]], [[[[c/_committal|committal]]]], [[[[c/_consignment|consignment]]]], [[[[d/_dedication|dedication]]]], [[[[d/_devoir|devoir]]]], [[[[d/_duty|duty]]]], [[engagement]], [[guarantee]], [[liability]], [[loyalty]], [[must]], [[need]], [[oath]], [[obligation]], [[ought]], [[pledge]], [[promise]], [[responsibility]], [[undertaking]], [[vow]], [[word]]
+- [[[[a/_allegiance|allegiance]]]], [[[[c/_charge|charge]]]], [[[[c/_committal|committal]]]], [[[[c/_consignment|consignment]]]], [[[[d/_dedication|dedication]]]], [[[[d/_devoir|devoir]]]], [[[[d/_duty|duty]]]], [[[[e/_engagement|engagement]]]], [[guarantee]], [[liability]], [[loyalty]], [[must]], [[need]], [[oath]], [[obligation]], [[ought]], [[pledge]], [[promise]], [[responsibility]], [[undertaking]], [[vow]], [[word]]
 ---

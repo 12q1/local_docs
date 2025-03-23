@@ -9,7 +9,7 @@
 - **The inflorescence or tassel of a mature sugar cane plant.**
 ---
 ### Synonyms
-- [[[[a/_arc|arc]]]], [[[[d/_directed|directed]] edge]], [[streal]]
+- [[[[a/_arc|arc]]]], [[[[d/_directed|directed]] [[e/_edge|edge]]]], [[streal]]
 #verb
 - **To move swiftly and directly (like an arrow)**
 - **To let fly swiftly and directly**

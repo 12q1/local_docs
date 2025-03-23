@@ -14,14 +14,14 @@
 - **To accept or purchase in quantity.**
 ---
 ### Synonyms
-- [[[[a/_assume|assume]]]], [[[[b/_bear|bear]]]], [[pay for]], [[use up]], [[[[a/_assimilate|assimilate]]]], [[engulf]], [[incorporate]], [[overwhelm]], [[swallow up]], [[engage]], [[engross]], [[immerse]], [[monopolize]], [[occupy]], [[[[d/_draw|draw]]]], [[[[d/_drink|drink]] in]], [[imbibe]], [[soak up]], [[sop up]], [[steep]], [[suck]], [[suck up]], [[take in]], [[take up]]
+- [[[[a/_assume|assume]]]], [[[[b/_bear|bear]]]], [[pay for]], [[use up]], [[[[a/_assimilate|assimilate]]]], [[[[e/_engulf|engulf]]]], [[incorporate]], [[overwhelm]], [[swallow up]], [[[[e/_engage|engage]]]], [[[[e/_engross|engross]]]], [[immerse]], [[monopolize]], [[occupy]], [[[[d/_draw|draw]]]], [[[[d/_drink|drink]] in]], [[imbibe]], [[soak up]], [[sop up]], [[steep]], [[suck]], [[suck up]], [[take in]], [[take up]]
 ### Antonyms
-- [[emit]]
+- [[[[e/_emit|emit]]]]
 #adjective
 - **Engrossing, that sustains someone's interest.**
 	- _Example: An absorbing pursuit._
 - **(of a state) Allowing a process to enter it, but not to leave it.**
 ---
 ### Synonyms
-- [[engrossing]], [[fascinating]]
+- [[[[e/_engrossing|engrossing]]]], [[fascinating]]
 ---

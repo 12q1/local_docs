@@ -47,7 +47,7 @@
 ### Synonyms
 - [[[[c/_cut|cut]]]]
 ### Antonyms
-- [[embankment]]
+- [[[[e/_embankment|embankment]]]]
 #adjective
 - **That is used for cutting.**
 	- _Example: I need some sort of cutting utensil to get through this shrink wrap._

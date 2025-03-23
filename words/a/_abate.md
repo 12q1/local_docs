@@ -29,5 +29,5 @@
 ### Synonyms
 - [[[[c/_contract|contract]]]], [[[[c/_cut|cut]] short]], [[[[d/_decrease|decrease]]]], [[[[d/_diminish|diminish]]]], [[lessen]], [[lower]], [[moderate]], [[remit]], [[remove]], [[slacken]], [[suppress]], [[terminate]], [[[[a/_appease|appease]]]], [[[[d/_depress|depress]]]], [[humble]], [[pacify]], [[soften]], [[soothe]], [[tranquilize]], [[fail]], [[fall through]], [[[[a/_alleviate|alleviate]]]], [[[[a/_assuage|assuage]]]], [[[[d/_decline|decline]]]], [[[[d/_diminish|diminish]]]], [[[[e/_ebb|ebb]]]], [[mitigate]], [[relax]], [[subside]], [[temper]], [[wane]]
 ### Antonyms
-- [[[[a/_accelerate|accelerate]]]], [[[[a/_aggravate|aggravate]]]], [[[[a/_amplify|amplify]]]], [[[[a/_augment|augment]]]], [[[[c/_continue|continue]]]], [[[[d/_develop|develop]]]], [[enhance]], [[enlarge]], [[extend]], [[foment]], [[increase]], [[intensify]], [[magnify]], [[prolong]], [[raise]], [[revive]], [[rise]]
+- [[[[a/_accelerate|accelerate]]]], [[[[a/_aggravate|aggravate]]]], [[[[a/_amplify|amplify]]]], [[[[a/_augment|augment]]]], [[[[c/_continue|continue]]]], [[[[d/_develop|develop]]]], [[[[e/_enhance|enhance]]]], [[[[e/_enlarge|enlarge]]]], [[extend]], [[foment]], [[increase]], [[intensify]], [[magnify]], [[prolong]], [[raise]], [[revive]], [[rise]]
 ---

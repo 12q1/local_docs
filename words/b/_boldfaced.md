@@ -5,7 +5,7 @@
 	- _Example: Boldface the due date so they are sure to see it._
 ---
 ### Synonyms
-- [[embolden]]
+- [[[[e/_embolden|embolden]]]]
 #adjective
 - **Impudent, brazen.**
 	- _Example: He had the bold-faced effrontery to ask for a raise._

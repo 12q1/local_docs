@@ -27,7 +27,7 @@
 	- _Example: Wisdom doesn't necessarily come with age, sometimes age just shows up all by itself._
 ---
 ### Synonyms
-- [[lifespan]], [[lifetime]], [[[[d/_dotage|dotage]]]], [[eld]], [[old [[a/_age|age]]]], [[eternity]], [[yonks]], [[epoch]], [[time]], [[eld]], [[[[c/_centennium|centennium]]]], [[yearhundred]]
+- [[lifespan]], [[lifetime]], [[[[d/_dotage|dotage]]]], [[[[e/_eld|eld]]]], [[old [[a/_age|age]]]], [[eternity]], [[yonks]], [[epoch]], [[time]], [[[[e/_eld|eld]]]], [[[[c/_centennium|centennium]]]], [[yearhundred]]
 #verb
 - **To cause to grow old; to impart the characteristics of age to.**
 	- _Example: Grief ages us._

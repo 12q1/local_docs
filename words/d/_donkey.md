@@ -8,5 +8,5 @@
 - **A bad poker player**
 ---
 ### Synonyms
-- [[[[d/_donkey|donkey]] engine]]
+- [[[[d/_donkey|donkey]] [[e/_engine|engine]]]]
 ---

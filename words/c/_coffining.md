@@ -4,5 +4,5 @@
 - **To place in a coffin.**
 ---
 ### Synonyms
-- [[encoffin]]
+- [[[[e/_encoffin|encoffin]]]]
 ---

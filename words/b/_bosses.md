@@ -15,7 +15,7 @@
 	- _Example: There's no olive oil; will sunflower oil do? — I'll have to run that by the boss._
 ---
 ### Synonyms
-- [[employer]], [[gov]], [[guv]], [[guvnor]], [[mate]], [[head]], [[leader]], [[leader]], [[line manager]], [[manager]], [[supervisor]]
+- [[[[e/_employer|employer]]]], [[gov]], [[guv]], [[guvnor]], [[mate]], [[head]], [[leader]], [[leader]], [[line manager]], [[manager]], [[supervisor]]
 #verb
 - **To exercise authoritative control over; to tell (someone) what to do, often repeatedly.**
 ---

@@ -23,5 +23,5 @@
 - **To purloin or embezzle; to pilfer, to steal.**
 ---
 ### Synonyms
-- [[embezzle]], [[pilfer]], [[purloin]], [[steal]]
+- [[[[e/_embezzle|embezzle]]]], [[pilfer]], [[purloin]], [[steal]]
 ---
