@@ -1,7 +1,7 @@
 # Bicyclic
 ---
 #noun
-- **A [[bicyclic]] compound.**
+- **A [[bicyclic]] [[compound]].**
 ---
 #adjective
 - **Having two [[cycles]].**

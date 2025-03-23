@@ -4,6 +4,6 @@
 - **Opposition to racism**
 ---
 #adjective
-- **Acting to combat or prevent racism**
+- **Acting to [[combat]] or prevent racism**
 ---
 ---

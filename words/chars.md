@@ -7,7 +7,7 @@
 - [[charcoal]]
 #verb
 - **To [[burn]] something to [[charcoal]].**
-- **To [[burn]] slightly or superficially so as to [[affect]] colour.**
+- **To [[burn]] slightly or superficially so as to [[affect]] [[colour]].**
 ---
 ### Synonyms
 - [[blacken]], [[scorch]], [[sear]], [[singe]], [[coal]]
@@ -19,14 +19,14 @@
 - **A time; a turn or occasion.**
 - **A turn of work; a labour or item of [[business]].**
 - **An odd job, a [[chore]] or piece of housework.**
-- **A [[charlady]], a woman employed to do housework; cleaning lady.**
+- **A [[charlady]], a woman employed to do housework; [[cleaning]] lady.**
 	- _Example: I had to scrub the kitchen today, because the char couldn't come._
 ---
 ### Synonyms
 - [[charlady]], [[charwoman]], [[cleaning]], [[lady]], [[cleaning]], [[woman]]
 #verb
 - **To turn, especially [[away]] or [[aside]].**
-- **To work, especially to do housework; to work by the day, without [[being]] a regularly hired servant.**
+- **To work, especially to do housework; to work by the [[day]], without [[being]] a regularly hired servant.**
 - **To perform; to do; to finish.**
 - **To work or hew (stone, etc.).**
 ---

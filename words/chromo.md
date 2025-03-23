@@ -1,6 +1,6 @@
 # Chromo
 ---
 #noun
-- **A color print produced by [[chromolithography]].**
+- **A [[color]] print produced by [[chromolithography]].**
 ---
 ---

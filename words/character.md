@@ -4,7 +4,7 @@
 - **A [[being]] involved in the [[action]] of a story.**
 - **A distinguishing feature; [[characteristic]]; trait; phene.**
 	- _Example: A single locus governing the petal colour character was detected on the linkage group A2._
-- **A complex of traits marking a person, group, [[breed]], or type.**
+- **A [[complex]] of traits marking a person, group, [[breed]], or type.**
 	- _Example: A study of the suspect's character and his cast iron alibi ruled him out._
 - **Strength of mind; resolution; independence; individuality; moral strength.**
 	- _Example: "You may not like to eat liver," said Calvin's father, "but it builds character."_
@@ -13,16 +13,16 @@
 - **A written or printed symbol, or letter.**
 - **Style of writing or printing; handwriting; the particular form of letters used by a person or people.**
 	- _Example: an inscription in the Runic character_
-- **A secret [[cipher]]; a way of writing in code.**
-- **One of the [[basic]] elements making up a text file or string: a code representing a printing [[character]] or a control [[character]].**
+- **A secret [[cipher]]; a way of writing in [[code]].**
+- **One of the [[basic]] elements making up a text file or string: a [[code]] representing a printing [[character]] or a [[control]] [[character]].**
 - **A person or individual, especially one who is unknown or raises suspicions.**
 	- _Example: That old guy is a real character._
-- **A complex number representing an element of a finite Abelian group.**
-- **Quality, position, rank, or [[capacity]]; quality or conduct with respect to a [[certain]] office or duty.**
+- **A [[complex]] number representing an element of a finite Abelian group.**
+- **Quality, position, rank, or [[capacity]]; quality or [[conduct]] with respect to a [[certain]] office or duty.**
 	- _Example: in his character as a magistrate_
 - **The estimate, individual or general, put upon a person or thing; reputation.**
 	- _Example: Her actions give her a bad character._
-- **A reference given to a servant, [[attesting]] to his/her [[behaviour]], competence, etc.**
+- **A reference given to a servant, [[attesting]] to his/her [[behaviour]], [[competence]], etc.**
 - **Personal [[appearance]].**
 ---
 #verb

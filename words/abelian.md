@@ -1,6 +1,6 @@
 # Abelian
 ---
 #adjective
-- **Having a commutative defining operation.**
+- **Having a [[commutative]] [[defining]] operation.**
 ---
 ---

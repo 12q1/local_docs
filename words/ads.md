@@ -8,7 +8,7 @@
 - [[advert]]
 #noun
 - **Advantage**
-- **(debating) [[advantage]]**
+- **([[debating]]) [[advantage]]**
 	- _Example: ads and disads_
 ---
 ---

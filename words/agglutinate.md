@@ -6,7 +6,7 @@
 ---
 #adjective
 - **United with glue or as with glue; [[cemented]] together.**
-- **Consisting of root words combined but not materially [[altered]] as to form or meaning**
+- **Consisting of root words [[combined]] but not materially [[altered]] as to form or meaning**
 	- _Example: an agglutinate family of languages_
 ---
 ---

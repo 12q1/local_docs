@@ -7,6 +7,6 @@
 - [[bool]], [[flag]]
 #adjective
 - **Of or pertaining to the work of George Boole.**
-- **Pertaining to data items that [[can]] have “true” and “false” (or, equivalently, 1 and 0 respectively) as their only possible values and to operations on such values.**
+- **Pertaining to [[data]] items that [[can]] have “true” and “false” (or, equivalently, 1 and 0 respectively) as their only possible values and to operations on such values.**
 ---
 ---

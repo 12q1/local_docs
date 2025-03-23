@@ -7,7 +7,7 @@
 - **To ritualistically inter in a grave or tomb.**
 - **To place in the ground.**
 	- _Example: bury a bone;  bury the embers_
-- **To hide or conceal as if by covering with earth or [[another]] substance.**
+- **To hide or [[conceal]] as if by [[covering]] with earth or [[another]] substance.**
 	- _Example: she buried her face in the pillow;  they buried us in paperwork_
 - **To suppress and hide [[away]] in one's mind.**
 	- _Example: secrets kept buried; she buried her shame and put on a smiling face._

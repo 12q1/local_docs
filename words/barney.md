@@ -2,7 +2,7 @@
 ---
 #noun
 - **A lark, a romp, some fun.**
-- **A hoax, a humbug, something that is not genuine, a rigged or unfair sporting contest.**
+- **A hoax, a humbug, something that is not genuine, a rigged or unfair sporting [[contest]].**
 - **(Harvard University slang) A poor recitation.**
 - **A noisy [[argument]].**
 - **A minor physical fight.**
@@ -15,7 +15,7 @@
 ### Synonyms
 - [[bicker]], [[row]], [[squabble]]
 #adjective
-- **Insane crazy, loony.**
+- **Insane [[crazy]], loony.**
 ---
 ### Synonyms
 - [[fisticuffs]], [[scuffle]], [[quarrel]], [[row]]

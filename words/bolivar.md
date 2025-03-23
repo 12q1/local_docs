@@ -1,6 +1,6 @@
 # Bolivar
 ---
 #noun
-- **The currency of Venezuela, divided into 100 [[c]]éntimos.**
+- **The [[currency]] of Venezuela, divided into 100 [[c]]éntimos.**
 ---
 ---

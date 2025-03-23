@@ -2,7 +2,7 @@
 ---
 #noun
 - **The univalent [[anion]] HSO4-.**
-- **Any salt containing this [[anion]].**
+- **Any salt [[containing]] this [[anion]].**
 ---
 #verb
 - **To react with a [[bisulfate]]**

@@ -6,11 +6,11 @@
 - **To be [[ashamed]] or embarrassed (to do something).**
 - **To [[become]] red.**
 - **To suffuse with a [[blush]]; to redden; to make rosy.**
-- **To [[change]] skin color in the face (to a particular shade).**
+- **To [[change]] skin [[color]] in the face (to a particular shade).**
 	- _Example: I wasn't surprised, but it was embarrassing enough that I blushed a little pink._
 - **To express or make known by [[blushing]].**
 	- _Example: Looking at me with a knowing glare, she blushed her discomfort with the situation._
-- **To have a warm and delicate colour, like some roses and other flowers.**
+- **To have a warm and delicate [[colour]], like some roses and other flowers.**
 	- _Example: The garden was full of blossoms that blushed in myriad shades to form a beautiful carpet of color._
 - **To glance with the eye, [[cast]] a glance.**
 ---

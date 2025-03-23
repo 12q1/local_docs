@@ -5,6 +5,6 @@
 - **The zinc silicate mineral hemimorphite.**
 ---
 #verb
-- **To coat or treat with [[calamine]].**
+- **To [[coat]] or treat with [[calamine]].**
 ---
 ---

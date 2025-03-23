@@ -4,7 +4,7 @@
 - **Heaven.**
 - **Something, especially a person's name in legal documents, that [[appears]] higher on the same page or on a preceding page.**
 - **Higher [[authority]].**
-- **Betterment, raised status or condition.**
+- **Betterment, raised status or [[condition]].**
 ---
 #adjective
 - **Of heaven; heavenly.**
@@ -26,13 +26,13 @@
 	- _Example: The sparrow I saw was rufous above and off-white below._
 ---
 #preposition
-- **Physically over; on top of; worn on top of, said of clothing.**
+- **Physically over; on top of; worn on top of, said of [[clothing]].**
 	- _Example: He always put his coat on above his sweater._
 - **In or to a higher place; higher than; on or over the upper surface.**
 - **Farther north than.**
 	- _Example: Idaho is above Utah._
 - **Rising; [[appearing]] out of reach height-wise.**
-- **Higher than; superior to in [[any]] respect; surpassing; higher in measure, degree, volume, or pitch, etc. than; out of reach; not exposed to; not likely to be [[affected]] by; incapable of negative [[actions]] or thoughts.**
+- **Higher than; superior to in [[any]] respect; surpassing; higher in measure, [[degree]], volume, or pitch, etc. than; out of reach; not exposed to; not likely to be [[affected]] by; incapable of negative [[actions]] or thoughts.**
 	- _Example: Even the chief of police is not above suspicion._
 - **Higher in rank, status, or position.**
 	- _Example: to stand head and shoulders above the rest_

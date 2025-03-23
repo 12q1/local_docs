@@ -1,7 +1,7 @@
 # Caveman
 ---
 #noun
-- **An early human or closely related species, popularly held to reside in [[caves]].**
+- **An early human or [[closely]] related species, popularly held to reside in [[caves]].**
 	- _Example: The political cartoon showed the politician as a caveman, clubbing the budget depicted as a mammoth._
 - **A [[brutish]] or savage person.**
 	- _Example: The football squad was made up of cavemen who were responsible for trashing many a locker room._

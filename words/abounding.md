@@ -7,7 +7,7 @@
 - **To be present or [[available]] in large numbers; to be plentiful.**
 	- _Example: Wild animals abound wherever man does not stake his claim._
 - **To revel in.**
-- **To be copiously supplied**
+- **To be [[copiously]] supplied**
 	- _Example: The wilderness abounds in traps._
 ---
 #noun

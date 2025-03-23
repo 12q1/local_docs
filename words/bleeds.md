@@ -2,9 +2,9 @@
 ---
 #noun
 - **An incident of [[bleeding]], as in haemophilia.**
-- **A narrow edge [[around]] a page layout, to be printed but cut off [[afterwards]] ([[added]] to [[allow]] for slight misalignment, especially with pictures that should run to the edge of the finished sheet).**
+- **A narrow edge [[around]] a page layout, to be printed but [[cut]] off [[afterwards]] ([[added]] to [[allow]] for slight misalignment, especially with pictures that should run to the edge of the finished sheet).**
 - **(sound recording) The situation where sound is picked up by a microphone from a source other than that which is intended.**
-- **The removal of [[air]] [[bubbles]] from a pipe containing other fluids.**
+- **The removal of [[air]] [[bubbles]] from a pipe [[containing]] other fluids.**
 ---
 #verb
 - **(of a person or [[animal]]) To lose [[blood]] through an injured [[blood]] vessel.**
@@ -13,11 +13,11 @@
 - **To take large [[amounts]] of money from.**
 - **To steadily lose (something vital).**
 	- _Example: The company was bleeding talent._
-- **(of an ink or dye) To spread from the intended location and stain the surrounding cloth or paper.**
+- **(of an ink or dye) To spread from the intended location and stain the surrounding [[cloth]] or paper.**
 	- _Example: Ink traps counteract bleeding._
-- **To remove [[air]] [[bubbles]] from a pipe containing other fluids.**
+- **To remove [[air]] [[bubbles]] from a pipe [[containing]] other fluids.**
 - **To [[bleed]] on; to make [[bloody]].**
-- **To show one's group loyalty by showing (its [[associated]] color) in one's [[blood]].**
+- **To show one's group loyalty by showing (its [[associated]] [[color]]) in one's [[blood]].**
 	- _Example: He was a devoted Vikings fan: he bled purple._
 - **To lose sap, gum, or juice.**
 	- _Example: A tree or a vine bleeds when tapped or wounded._

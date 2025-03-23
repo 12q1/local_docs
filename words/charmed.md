@@ -3,7 +3,7 @@
 #verb
 - **To seduce, persuade or fascinate someone or something.**
 	- _Example: He charmed her with his dashing tales of his days as a sailor._
-- **To use a magical [[charm]] upon; to subdue, control, or summon by incantation or supernatural influence.**
+- **To use a magical [[charm]] upon; to subdue, [[control]], or summon by incantation or supernatural influence.**
 	- _Example: After winning three games while wearing the chain, Dan began to think it had been charmed._
 - **To protect with, or make invulnerable by, spells, [[charms]], or supernatural influences.**
 	- _Example: She led a charmed life._

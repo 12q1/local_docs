@@ -20,7 +20,7 @@
 - **To take [[care]] of in infancy and through [[childhood]]; to [[bring]] up.**
 - **To yield or result in.**
 	- _Example: disaster breeds famine;  familiarity breeds contempt_
-- **To be formed in the parent or dam; to be generated, or to grow, like young [[before]] [[birth]].**
+- **To be formed in the parent or [[dam]]; to be generated, or to grow, like young [[before]] [[birth]].**
 - **(sometimes as [[breed]] up) To educate; to instruct; to [[bring]] up**
 - **To produce or obtain by [[any]] natural process.**
 - **To have [[birth]]; to be produced, developed or multiplied.**

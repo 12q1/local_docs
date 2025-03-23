@@ -1,6 +1,6 @@
 # Ado
 ---
 #noun
-- **Trouble; troublesome [[business]]; fuss, commotion**
+- **Trouble; troublesome [[business]]; fuss, [[commotion]]**
 ---
 ---

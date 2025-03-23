@@ -1,7 +1,7 @@
 # Adulteress
 ---
 #noun
-- **A female [[adulterer]], a married woman or wife who commits [[adultery]].**
+- **A female [[adulterer]], a married woman or wife who [[commits]] [[adultery]].**
 ---
 ### Synonyms
 - [[adulterer]], [[advoutress]]

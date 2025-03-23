@@ -8,9 +8,9 @@
 - **That which is predicated or [[affirmed]] of a subject; a predicate; an [[accident]].**
 - **An option or setting [[belonging]] to some object.**
 	- _Example: A file with the read-only attribute set cannot be overwritten._
-- **A semantic item with which a method or other code element may be decorated.**
+- **A semantic item with which a method or other [[code]] element may be [[decorated]].**
 	- _Example: Properties can be marked as obsolete with an attribute, which will cause the compiler to generate a warning if they are used._
-- **A numeric value representing the colours of part of the screen display.**
+- **A numeric value representing the [[colours]] of part of the screen display.**
 ---
 #verb
 - **To [[ascribe]] (something) to a given [[cause]], reason etc.**

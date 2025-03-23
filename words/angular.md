@@ -5,8 +5,8 @@
 ---
 #adjective
 - **Relating or pertaining to an [[angle]] or [[angles]].**
-- **Having an [[angle]] or [[angles]]; forming an [[angle]] or corner**
-- **Sharp-cornered; pointed.**
+- **Having an [[angle]] or [[angles]]; forming an [[angle]] or [[corner]]**
+- **Sharp-[[cornered]]; pointed.**
 	- _Example: an angular figure_
 - **Measured by an [[angle]].**
 	- _Example: angular distance_

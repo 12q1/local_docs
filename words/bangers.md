@@ -8,7 +8,7 @@
 - **An old, worn-out [[car]].**
 - **A [[cylinder]] in a [[car]].**
 	- _Example: He drives a little four-banger to work._
-- **A powerfully energetic piece of music, especially dance music.**
+- **A powerfully energetic piece of music, especially [[dance]] music.**
 - **(by extension) Any particularly good or pleasing thing.**
 ---
 ### Synonyms

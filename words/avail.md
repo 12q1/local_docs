@@ -1,7 +1,7 @@
 # Avail
 ---
 #noun
-- **Effect in [[achieving]] a goal or [[aim]]; purpose, use (now usually in negative constructions).**
+- **Effect in [[achieving]] a goal or [[aim]]; purpose, use (now usually in negative [[constructions]]).**
 	- _Example: I tried fixing it, to no avail.  Labor, without economy, is of little avail._
 - **Proceeds; profits from [[business]] transactions.**
 - **An [[advertising]] slot or package.**

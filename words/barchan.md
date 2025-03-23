@@ -1,6 +1,6 @@
 # Barchan
 ---
 #noun
-- **An [[arc]]-shaped sand ridge comprising well-sorted sand.**
+- **An [[arc]]-shaped sand ridge [[comprising]] well-sorted sand.**
 ---
 ---

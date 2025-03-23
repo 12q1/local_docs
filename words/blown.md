@@ -1,15 +1,15 @@
 # Blown
 ---
 #verb
-- **To produce an [[air]] current.**
-- **To propel by an [[air]] current.**
+- **To produce an [[air]] [[current]].**
+- **To propel by an [[air]] [[current]].**
 	- _Example: Blow the dust off that book and open it up._
-- **To be propelled by an [[air]] current.**
+- **To be propelled by an [[air]] [[current]].**
 	- _Example: The leaves blow through the streets in the fall._
-- **To create or shape by [[blowing]]; as in to [[blow]] [[bubbles]], to [[blow]] glass.**
-- **To force a current of [[air]] upon with the mouth, or by other means.**
+- **To [[create]] or shape by [[blowing]]; as in to [[blow]] [[bubbles]], to [[blow]] glass.**
+- **To force a [[current]] of [[air]] upon with the mouth, or by other means.**
 	- _Example: to blow the fire_
-- **To clear of contents by forcing [[air]] through.**
+- **To [[clear]] of [[contents]] by forcing [[air]] through.**
 	- _Example: to blow an egg_
 - **To [[cause]] to make sound by [[blowing]], as a musical instrument.**
 - **To make a sound as the result of [[being]] [[blown]].**
@@ -33,7 +33,7 @@
 	- _Example: Who did you have to blow to get those backstage passes?_
 - **To leave, especially suddenly or in a hurry.**
 	- _Example: Let's blow this joint._
-- **To make flyblown, to defile, especially with fly eggs.**
+- **To make flyblown, to [[defile]], especially with fly eggs.**
 - **To spread by report; to publish; to disclose.**
 - **To inflate, as with pride; to puff up.**
 - **To [[breathe]] hard or quick; to pant; to puff.**

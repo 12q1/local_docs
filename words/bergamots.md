@@ -9,6 +9,6 @@
 - **A variety of pear.**
 ---
 #noun
-- **A coarse tapestry, manufactured from flock of cotton or hemp, mixed with ox's or goat's hair.**
+- **A [[coarse]] tapestry, manufactured from flock of [[cotton]] or hemp, mixed with ox's or goat's hair.**
 ---
 ---

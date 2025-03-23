@@ -14,6 +14,6 @@
 - **An individual message or document in the Google Wave software framework.**
 ---
 #verb
-- **To [[change]] state [[abruptly]], such as [[between]] off and on or dark and light, sometimes implying motion.**
+- **To [[change]] state [[abruptly]], such as [[between]] off and on or [[dark]] and light, sometimes implying motion.**
 ---
 ---

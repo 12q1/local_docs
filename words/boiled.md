@@ -3,11 +3,11 @@
 #verb
 - **(of liquids) To heat to the point where it [[begins]] to turn into a gas.**
 	- _Example: Boil some water in a pan._
-- **To cook in [[boiling]] water.**
+- **To [[cook]] in [[boiling]] water.**
 	- _Example: Boil the eggs for three minutes._
 - **(of liquids) To [[begin]] to turn into a gas, seethe.**
 	- _Example: Pure water boils at 100 degrees Celsius._
-- **To [[bring]] to a [[boil]], to heat so as to [[cause]] the contents to [[boil]].**
+- **To [[bring]] to a [[boil]], to heat so as to [[cause]] the [[contents]] to [[boil]].**
 - **(used only in progressive tenses, of weather) To be uncomfortably hot.**
 	- _Example: It’s boiling outside!_
 - **(used only in progressive tenses) To feel uncomfortably hot.**

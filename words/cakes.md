@@ -1,7 +1,7 @@
 # Cakes
 ---
 #noun
-- **A rich, sweet dessert food, typically made of flour, sugar and eggs and [[baked]] in an oven, and often covered in icing.**
+- **A rich, sweet dessert food, typically made of flour, sugar and eggs and [[baked]] in an oven, and often [[covered]] in icing.**
 - **A small mass of [[baked]] dough, especially a thin loaf from unleavened dough.**
 	- _Example: a johnnycake_
 - **A thin wafer-shaped mass of fried [[batter]]; a griddlecake or pancake.**
@@ -17,7 +17,7 @@
 ### Synonyms
 - [[block]], [[gâteau]], [[piece of cake]]
 #verb
-- **Coat (something) with a crust of solid material.**
+- **Coat (something) with a [[crust]] of solid material.**
 	- _Example: His shoes are caked with mud._
 - **To form into a [[cake]], or mass.**
 ---

@@ -1,7 +1,7 @@
 # Cacked
 ---
 #verb
-- **To defecate.**
+- **To [[defecate]].**
 - **To kill.**
 	- _Example: “He tried to shoot me, so I cacked him.”_
 ---

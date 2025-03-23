@@ -1,8 +1,8 @@
 # Astragals
 ---
 #noun
-- **A semicircular molding separating the [[architrave]] at the top or [[bottom]] of a column.**
-- **A tool used to mold such features; similar tools used for connecting panes of glass in a window.**
+- **A semicircular molding separating the [[architrave]] at the top or [[bottom]] of a [[column]].**
+- **A tool used to mold such features; similar tools used for [[connecting]] panes of glass in a window.**
 - **A [[circular]] molding near the mouth of a [[cannon]].**
 - **A molding [[attached]] to double doors to prevent drafts.**
 - **(roof plumbing) A [[bracket]] used to fix downpipes to the wall of a [[building]].**

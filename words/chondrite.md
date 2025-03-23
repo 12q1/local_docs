@@ -1,6 +1,6 @@
 # Chondrite
 ---
 #noun
-- **A meteorite consisting of rock containing [[chondrules]].**
+- **A meteorite [[consisting]] of rock [[containing]] [[chondrules]].**
 ---
 ---

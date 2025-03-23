@@ -3,21 +3,21 @@
 #noun
 - **Initialism of adenylyl [[cyclase]].**
 - **Initialism of [[adjuvant]] [[chemotherapy]].**
-- **Initialism of [[air]] corps.**
-- **Initialism of [[army]] corps.**
-- **Initialism of [[athletic]] club.**
+- **Initialism of [[air]] [[corps]].**
+- **Initialism of [[army]] [[corps]].**
+- **Initialism of [[athletic]] [[club]].**
 - **Initialism of [[audible]] [[chuckle]].**
-- **Initialism of [[author]]'s correction.**
-- **Initialism of [[automobile]] club.**
-- **Initialism of Auxiliary Collier, (a naval coal transport that travels with the fleet to provide coal for coal powered warships)**
+- **Initialism of [[author]]'s [[correction]].**
+- **Initialism of [[automobile]] [[club]].**
+- **Initialism of Auxiliary Collier, (a naval [[coal]] transport that travels with the fleet to provide [[coal]] for [[coal]] powered warships)**
 - **Companion of the Order of Australia.**
 - **Initialism of [[aviation]] [[cadet]].**
-- **Initialism of [[autonomous]] county.**
+- **Initialism of [[autonomous]] [[county]].**
 ---
 ### Antonyms
 - [[DC]]
 #noun
-- **The maximum [[altitude]] [[above]] sea level that an [[aircraft]] or missile [[can]] maintain horizontal flight under normal conditions.**
+- **The maximum [[altitude]] [[above]] sea level that an [[aircraft]] or missile [[can]] maintain horizontal flight under normal [[conditions]].**
 ---
 #noun
 - **Account; money of [[account]]**
@@ -36,7 +36,7 @@
 - **A regularly updated record of transactions [[between]] two parties showing what is owed or due to each party or a statement summarising the position**
 ---
 #noun
-- **An English unit of land [[area]] (symbol: a. or [[ac]].) originally denoting a day's plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.**
+- **An English unit of land [[area]] (symbol: a. or [[ac]].) originally denoting a [[day]]'s plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.**
 - **Any of various similar units of [[area]] in other systems.**
 - **(usually in the plural) A wide expanse.**
 	- _Example: I like my new house - there’s acres of space!_
@@ -51,22 +51,22 @@
 - **A [[category]] of music including soft rock, [[ballads]], easy listening, soul, and rhythm and [[blues]].**
 ---
 #noun
-- **The state of temperature and humidity produced by an [[air]] conditioner.**
-- **An [[air]] conditioner or system of [[air]] conditioners.**
+- **The state of temperature and humidity produced by an [[air]] [[conditioner]].**
+- **An [[air]] [[conditioner]] or system of [[air]] [[conditioners]].**
 	- _Example: This car has air conditioning._
 ---
 #noun
-- **A member of the lowest rank in the Royal Air Force or the [[air]] forces of various other Commonwealth countries.**
+- **A member of the lowest rank in the Royal Air Force or the [[air]] forces of various other Commonwealth [[countries]].**
 ---
 #noun
-- **An electric current in which the direction of flow of the electrons reverses periodically, such as sawtooth, sinusoidal or square wave current.**
-- **An electric current in which the direction of flow of the electrons reverses periodically by a sinusoidal law, hence having an [[average]] of zero, with positive and negative values (with a frequency of 50 Hz in Europe, 60 Hz in the US, 400 Hz for [[airport]] lighting, and some others); especially such a current produced by a rotating generator or [[alternator]].**
+- **An electric [[current]] in which the direction of flow of the electrons reverses periodically, such as sawtooth, sinusoidal or square wave [[current]].**
+- **An electric [[current]] in which the direction of flow of the electrons reverses periodically by a sinusoidal law, hence having an [[average]] of zero, with positive and negative values (with a frequency of 50 Hz in Europe, 60 Hz in the US, 400 Hz for [[airport]] lighting, and some others); especially such a [[current]] produced by a rotating generator or [[alternator]].**
 ---
 #noun
 - **A water-soluble salt of [[ammonia]] and hydrochloric [[acid]], having the formula NH4Cl.**
 ---
 #noun
-- **A space inside the eye [[between]] the cornea and the iris, filled with [[aqueous]] humour.**
+- **A space inside the eye [[between]] the [[cornea]] and the iris, filled with [[aqueous]] humour.**
 ---
 #noun
 - **A prefix [[appended]] to a telephone number indicating the geographical [[area]].**

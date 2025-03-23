@@ -1,7 +1,7 @@
 # Calenders
 ---
 #noun
-- **A machine, used for the purpose of giving cloth, paper etc., a smooth, even, and glossy or glazed surface, by cold or hot pressure, or for watering them and giving them a wavy [[appearance]]; it consists of two or more [[cylinders]] revolving nearly in contact, with the necessary [[apparatus]] for moving and regulating.**
+- **A machine, used for the purpose of giving [[cloth]], paper etc., a smooth, even, and glossy or glazed surface, by [[cold]] or hot pressure, or for watering them and giving them a wavy [[appearance]]; it [[consists]] of two or more [[cylinders]] revolving nearly in [[contact]], with the necessary [[apparatus]] for moving and regulating.**
 - **One who pursues the [[business]] of [[calendering]].**
 ---
 ### Synonyms

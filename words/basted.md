@@ -5,13 +5,13 @@
 ---
 #verb
 - **To sprinkle flour and salt and drip [[butter]] or fat on, as on meat in roasting.**
-- **(by extension) To coat over something.**
+- **(by extension) To [[coat]] over something.**
 - **To mark (sheep, etc.) with tar.**
 ---
 #verb
-- **To [[beat]] with a stick; to cudgel.**
+- **To [[beat]] with a stick; to [[cudgel]].**
 ---
 #adjective
-- **Having [[been]] cooked by [[basting]].**
+- **Having [[been]] [[cooked]] by [[basting]].**
 ---
 ---

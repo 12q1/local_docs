@@ -11,7 +11,7 @@
 - **To travel very fast.**
 	- _Example: He was really booking, until he passed the speed trap._
 - **To record [[bets]] as [[bookmaker]].**
-- **(law student slang) To receive the highest grade in a class.**
+- **(law student slang) To receive the highest grade in a [[class]].**
 	- _Example: The top three students had a bet on which one was going to book their intellectual property class._
 - **To leave.**
 	- _Example: He was here earlier, but he booked._
@@ -23,6 +23,6 @@
 - **A reservation for a service, such as [[accommodation]] in an hotel.**
 - **The engagement of a performer for a particular performance.**
 - **The issuing of a [[caution]] which is usually written down in a [[book]], and results in a yellow [[card]] or ([[after]] two [[bookings]]) a red [[card]], that is to say, the player is sent from the field of play.**
-- **The process of photographing, fingerprinting and recording the identifying data of a suspect following [[arrest]].**
+- **The process of photographing, fingerprinting and recording the identifying [[data]] of a suspect following [[arrest]].**
 ---
 ---

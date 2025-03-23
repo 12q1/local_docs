@@ -5,7 +5,7 @@
 - **An outlaw.**
 - **One who [[cheats]] others.**
 - **An enemy [[aircraft]].**
-- **A runner who covertly joins a race without having registered as a participant.**
+- **A runner who [[covertly]] joins a race without having registered as a participant.**
 ---
 ### Synonyms
 - [[cheater]], [[criminal]], [[fugitive]], [[outlaw]]
@@ -13,10 +13,10 @@
 - **An obnoxious, selfish and overbearing person; an [[attention]] hog.**
 ---
 #noun
-- **(often [[capitalized]], usually with definite [[article]]) The Devil.**
-- **A ghost, goblin, or other hostile supernatural creature.**
+- **(often [[capitalized]], usually with [[definite]] [[article]]) The Devil.**
+- **A ghost, goblin, or other hostile supernatural [[creature]].**
 - **A [[bugbear]]: [[any]] terrifying thing.**
-- **A standard of performance set up as a mark to be [[aimed]] at in competition.**
+- **A standard of performance set up as a mark to be [[aimed]] at in [[competition]].**
 - **An unidentified [[aircraft]], especially as observed as a spot on a radar screen and suspected to be hostile.**
 - **A score of one over par on a hole.**
 ---
@@ -36,8 +36,8 @@
 ---
 #noun
 - **One of two sets of wheels under a locomotive or railcar; the structure with [[axles]] and wheels under a locomotive, railcar, or semi.**
-- **(Indian English, dated in UK) A railway [[carriage]].**
-- **A toy similar to a violin [[bow]], consisting of a wooden stick with notches [[along]] one or more sides or edges to produce a rattly noise when stroked [[against]] a hard edge, eg, the lip of container.**
+- **(Indian English, [[dated]] in UK) A railway [[carriage]].**
+- **A toy similar to a violin [[bow]], [[consisting]] of a wooden stick with notches [[along]] one or more sides or edges to produce a rattly noise when stroked [[against]] a hard edge, eg, the lip of [[container]].**
 ---
 ### Synonyms
 - [[goblin]], [[railroad truck]]

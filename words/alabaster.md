@@ -3,7 +3,7 @@
 #noun
 - **A fine-grained white or lightly-tinted variety of gypsum, used ornamentally.**
 - **A variety of [[calcite]], translucent and sometimes [[banded]].**
-- **An off-white colour, like that of [[alabaster]].**
+- **An off-white [[colour]], like that of [[alabaster]].**
 ---
 #adjective
 - **Made of [[alabaster]]**

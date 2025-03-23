@@ -7,6 +7,6 @@
 - **To spend (money) extravagantly; to [[blow]].**
 ---
 #noun
-- **An indigo material used as a laundry [[aid]] to counteract yellowing**
+- **An indigo material used as a laundry [[aid]] to [[counteract]] yellowing**
 ---
 ---

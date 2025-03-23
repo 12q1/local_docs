@@ -1,0 +1,10 @@
+# Cloy
+---
+#verb
+- **To fill up or [[choke]] up; to stop up.**
+- **To [[clog]], to glut, or satisfy, as the [[appetite]]; to satiate.**
+- **To fill to loathing; to surfeit.**
+---
+### Synonyms
+- [[block]], [[block up]], [[choke]], [[fill]], [[fill up]], [[stop up]], [[stuff]], [[stuff up]], [[jade]], [[nauseate]], [[pall]], [[sicken]], [[surfeit]], [[fill up]], [[glut]], [[gorge]], [[sate]], [[satiate]], [[satisfy]], [[stodge]], [[stuff]], [[stuff up]]
+---

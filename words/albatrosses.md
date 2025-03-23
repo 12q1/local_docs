@@ -8,7 +8,7 @@
 ### Synonyms
 - [[gooney]], [[gooney bird]], [[goonie]]
 #noun
-- **A long-term impediment, [[burden]], or curse.**
+- **A long-term impediment, [[burden]], or [[curse]].**
 ---
 ### Synonyms
 - [[albatross around one's neck]]

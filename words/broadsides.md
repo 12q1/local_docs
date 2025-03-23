@@ -7,6 +7,6 @@
 - **The printed lyrics of a folk song or [[ballad]]; a [[broadsheet]].**
 ---
 #verb
-- **To collide with something sideways on**
+- **To [[collide]] with something sideways on**
 ---
 ---

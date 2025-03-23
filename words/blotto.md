@@ -2,7 +2,7 @@
 ---
 #noun
 - **A person who is (very) drunk or intoxicated.**
-- **An [[artwork]] created using [[blots]] of ink or paint.**
+- **An [[artwork]] [[created]] using [[blots]] of ink or paint.**
 ---
 #verb
 - **To [[become]] or [[cause]] to [[become]] (very) drunk or intoxicated.**

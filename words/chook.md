@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[chicken]], especially a hen.**
-- **A cooked [[chicken]]; a [[chicken]] dressed for cooking.**
+- **A [[cooked]] [[chicken]]; a [[chicken]] dressed for [[cooking]].**
 - **A fool.**
 ---
 #interjection

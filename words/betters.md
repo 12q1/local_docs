@@ -1,7 +1,7 @@
 # Betters
 ---
 #noun
-- **An entity, usually [[animate]], deemed superior to [[another]]; one who has a claim to precedence; a superior.**
+- **An entity, usually [[animate]], [[deemed]] superior to [[another]]; one who has a [[claim]] to precedence; a superior.**
 	- _Example: He quickly found Ali his better in the ring._
 ---
 #verb

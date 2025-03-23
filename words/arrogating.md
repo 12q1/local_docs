@@ -1,7 +1,7 @@
 # Arrogating
 ---
 #verb
-- **To [[appropriate]] or lay claim to something for oneself without right.**
+- **To [[appropriate]] or lay [[claim]] to something for oneself without right.**
 ---
 ### Synonyms
 - [[commandeer]], [[expropriate]], [[usurp]]

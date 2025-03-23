@@ -3,7 +3,7 @@
 #noun
 - **A holder with a socket or spike for a [[candle]].**
 - **A gymnastics move in which the legs are pointed vertically upward.**
-- **(investing) A color-coded [[bar]] showing the open and closing price of a stock on a Japanese [[candlestick]] [[chart]].**
+- **(investing) A [[color]]-[[coded]] [[bar]] showing the open and [[closing]] price of a stock on a Japanese [[candlestick]] [[chart]].**
 ---
 ### Synonyms
 - [[candle holder]]

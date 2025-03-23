@@ -12,7 +12,7 @@
 - **Possessing the quality or [[ability]] of motion.**
 - **Dynamic, energetic.**
 	- _Example: She is an engaging and animate speaker._
-- **(grammar, of a noun or pronoun) Having a referent that includes a human, [[animal]], plant or other entity which is considered [[alive]].**
+- **(grammar, of a noun or pronoun) Having a referent that includes a human, [[animal]], plant or other entity which is [[considered]] [[alive]].**
 	- _Example: Nouns can be singular or plural, and one of two genders, animate or inanimate._
 - **(grammar) Inflected to [[agree]] with an [[animate]] noun or pronoun.**
 ---

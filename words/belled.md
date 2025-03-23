@@ -6,7 +6,7 @@
 - **To shape so that it flares out like a [[bell]].**
 	- _Example: to bell a tube_
 - **To telephone.**
-- **To develop [[bells]] or corollas; to take the form of a [[bell]]; to [[blossom]].**
+- **To develop [[bells]] or [[corollas]]; to take the form of a [[bell]]; to [[blossom]].**
 	- _Example: Hops bell._
 ---
 #verb

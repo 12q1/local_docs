@@ -7,7 +7,7 @@
 #adjective
 - **Attractive and possessing [[beauty]].**
 	- _Example: Anyone who has ever met her thought she was absolutely beautiful._
-- **(of the weather) Pleasant; clear.**
+- **(of the weather) Pleasant; [[clear]].**
 	- _Example: It's beautiful outside, let's go for a walk._
 - **Well executed.**
 	- _Example: The skater performed a beautiful axel._

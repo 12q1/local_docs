@@ -4,7 +4,7 @@
 - **In a lower place.**
 - **On a lower storey.**
 - **Further down.**
-- **On a lower deck.**
+- **On a lower [[deck]].**
 	- _Example: the landlubbers lying down below_
 - **(of a temperature) Below zero.**
 ---
@@ -17,7 +17,7 @@
 	- _Example: The treasure is buried two meters below the surface._
 - **Within the writing of a given document which follows a particular [[appearance]] of the word "[[below]]".**
 	- _Example: "By their execution hereof, the Parties incur a legal obligation to pass consideration under this Loan Contract as is set forth below."_
-- **Lower in value, price, rank or concentration than.**
+- **Lower in value, price, rank or [[concentration]] than.**
 	- _Example: The temperature is below zero._
 - **Downstream of.**
 - **South of.**

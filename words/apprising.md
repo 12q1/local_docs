@@ -6,6 +6,6 @@
 ### Synonyms
 - [[abreast]], [[up to date]], [[up-to-date]]
 #noun
-- **The [[appraisal]] of the value of goods, land, etc., often in order to pay the debts of a deceased person.**
+- **The [[appraisal]] of the value of goods, land, etc., often in order to pay the [[debts]] of a [[deceased]] person.**
 ---
 ---

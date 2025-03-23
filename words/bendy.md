@@ -1,7 +1,7 @@
 # Bendy
 ---
 #noun
-- **A field divided diagonally into several [[bends]], varying in metal and colour.**
+- **A field divided diagonally into several [[bends]], varying in metal and [[colour]].**
 - **A [[bendy]] [[bus]].**
 ---
 #adjective
@@ -11,7 +11,7 @@
 - **Containing many [[bends]] and twists.**
 	- _Example: a bendy road_
 - **Of a vehicle, [[articulated]].**
-- **Divided into diagonal [[bands]] of colour**
+- **Divided into diagonal [[bands]] of [[colour]]**
 ---
 ### Synonyms
 - [[articulated]], [[jointed]], [[sinuous]], [[tortuous]], [[twisted]], [[twisty]], [[winding]], [[windy]], [[flexible]], [[pliable]], [[supple]], [[flexible]], [[limber]], [[lissom]], [[lissome]], [[lithe]], [[supple]]

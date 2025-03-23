@@ -22,23 +22,23 @@
 #verb
 - **To exit quickly.**
 	- _Example: With his engine in flames, the pilot had no choice but to bail._
-- **To fail to meet a commitment.**
+- **To fail to meet a [[commitment]].**
 ---
 #noun
 - **A hoop, ring or handle (especially of a kettle or [[bucket]]).**
-- **A stall for a cow (or other [[animal]]) (usually tethered with a semi-[[circular]] hoop).**
+- **A stall for a [[cow]] (or other [[animal]]) (usually tethered with a semi-[[circular]] hoop).**
 - **A hinged [[bar]] as a restraint for [[animals]], or on a typewriter.**
-- **A frame to restrain a cow during milking or feeding.**
-- **A hoop, ring, or other object used to connect a pendant to a necklace.**
-- **One of the two wooden crosspieces that rest on top of the stumps to form a wicket.**
-- **(furniture) Normally curved handle suspended [[between]] sockets as a drawer pull. This may [[also]] be on a kettle or pail.**
+- **A frame to restrain a [[cow]] during milking or feeding.**
+- **A hoop, ring, or other object used to [[connect]] a pendant to a necklace.**
+- **One of the two wooden [[crosspieces]] that rest on top of the stumps to form a wicket.**
+- **(furniture) Normally [[curved]] handle suspended [[between]] sockets as a drawer pull. This may [[also]] be on a kettle or pail.**
 ---
 #verb
-- **To secure the head of a cow during milking.**
+- **To secure the head of a [[cow]] during milking.**
 ---
 #verb
-- **To confine.**
-- **To secure (a cow) by placing its head in a [[bail]] for milking.**
-- **To keep (a traveller) detained in order to rob them; to corner (a wild [[animal]]); loosely, to detain, hold up. (Usually with up.)**
+- **To [[confine]].**
+- **To secure (a [[cow]]) by placing its head in a [[bail]] for milking.**
+- **To keep (a traveller) detained in order to rob them; to [[corner]] (a wild [[animal]]); loosely, to detain, hold up. (Usually with up.)**
 ---
 ---

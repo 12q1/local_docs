@@ -7,7 +7,7 @@
 	- _Example: He danced hypnotically while she beat the atabaque._
 - **To strike repeatedly; to inflict repeated [[blows]]; to knock vigorously or loudly.**
 - **To move with pulsation or throbbing.**
-- **To win [[against]]; to defeat or overcome; to do [[better]] than, outdo, or excel (someone) in a particular, competitive event.**
+- **To win [[against]]; to [[defeat]] or overcome; to do [[better]] than, outdo, or excel (someone) in a particular, [[competitive]] event.**
 	- _Example: I just can't seem to beat the last level of this video game._
 - **To sail to windward using a series of [[alternate]] tacks [[across]] the wind.**
 - **To strike (water, foliage etc.) in order to drive out game; to travel through (a forest etc.) for hunting.**
@@ -37,7 +37,7 @@
 #noun
 - **The [[action]] by which someone or something is [[beaten]].**
 	- _Example: secret beatings of prisoners_
-- **A heavy defeat or setback.**
+- **A heavy [[defeat]] or setback.**
 - **The pulsation of the heart.**
 ---
 ---

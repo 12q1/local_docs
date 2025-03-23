@@ -1,7 +1,7 @@
 # Chinwag
 ---
 #noun
-- **An informal conversation, usually [[about]] everyday matters; a [[chat]], a gossip.**
+- **An informal [[conversation]], usually [[about]] everyday matters; a [[chat]], a gossip.**
 ---
 #verb
 - **To [[chat]], to gossip.**

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A fall that [[breaks]] the neck.**
-- **A dangerous steep place from which one could fall.**
+- **A [[dangerous]] steep place from which one [[could]] fall.**
 ---
 #adjective
 - **Dangerously fast; hell-for-leather.**

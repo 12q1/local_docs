@@ -3,7 +3,7 @@
 #noun
 - **A small [[bread]] roll, often sweetened or spiced.**
 - **A tight roll of hair worn at the [[back]] of the head.**
-- **A cupcake.**
+- **A [[cupcake]].**
 - **A drunken spree.**
 - **A newbie.**
 - **([[chiefly]] in the plural) A [[buttock]].**

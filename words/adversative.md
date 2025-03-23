@@ -1,7 +1,7 @@
 # Adversative
 ---
 #noun
-- **Something, particularly a clause or conjunction, which is [[adversative]].**
+- **Something, particularly a [[clause]] or [[conjunction]], which is [[adversative]].**
 ---
 #adjective
 - **Expressing opposition or difference.**

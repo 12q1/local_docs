@@ -1,6 +1,6 @@
 # Applaudable
 ---
 #adjective
-- **Worthy of [[being]] [[applauded]]; praiseworthy; commendable.**
+- **Worthy of [[being]] [[applauded]]; praiseworthy; [[commendable]].**
 ---
 ---

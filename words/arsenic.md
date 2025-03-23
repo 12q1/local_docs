@@ -6,6 +6,6 @@
 - **Arsenic trioxide.**
 ---
 #adjective
-- **Of or containing [[arsenic]] with a valence of 5.**
+- **Of or [[containing]] [[arsenic]] with a valence of 5.**
 ---
 ---

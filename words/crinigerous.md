@@ -1,0 +1,6 @@
+# Crinigerous
+---
+#adjective
+- **Hairy**
+---
+---

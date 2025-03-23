@@ -1,7 +1,7 @@
 # Braked
 ---
 #verb
-- **To [[bruise]] and crush; to knead**
+- **To [[bruise]] and [[crush]]; to knead**
 	- _Example: The farmer's son brakes the flax while mother brakes the bread dough_
 - **To pulverise with a harrow**
 ---

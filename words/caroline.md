@@ -1,6 +1,6 @@
 # Caroline
 ---
 #noun
-- **An old silver coin of Italy.**
+- **An old silver [[coin]] of Italy.**
 ---
 ---

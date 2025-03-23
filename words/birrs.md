@@ -13,7 +13,7 @@
 - **To lurch or set to spinning.**
 ---
 #noun
-- **The currency of Ethiopia, divided into 100 santims.**
+- **The [[currency]] of Ethiopia, divided into 100 santims.**
 ---
 ### Synonyms
 - [[ETB]]

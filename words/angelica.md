@@ -2,7 +2,7 @@
 ---
 #noun
 - **A tall plant, with hollow stems, genus Angelica, especially the garden [[angelica]] (Angelica [[archangelica]]).**
-- **Candied stems of the plant, used to decorate cookies.**
+- **Candied stems of the plant, used to [[decorate]] [[cookies]].**
 - **Species of Aralia.**
 ---
 ### Synonyms

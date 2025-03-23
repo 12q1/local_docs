@@ -1,7 +1,7 @@
 # Agricultural
 ---
 #noun
-- **A product or commodity from [[agriculture]].**
+- **A product or [[commodity]] from [[agriculture]].**
 ---
 #adjective
 - **Of or pertaining to [[agriculture]]**

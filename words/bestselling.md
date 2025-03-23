@@ -1,6 +1,6 @@
 # Bestselling
 ---
 #adjective
-- **Highly popular with consumers purchasing goods within a specific class.**
+- **Highly popular with [[consumers]] purchasing goods within a specific [[class]].**
 ---
 ---

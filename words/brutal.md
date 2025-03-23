@@ -1,7 +1,7 @@
 # Brutal
 ---
 #adjective
-- **Savagely violent, vicious, ruthless, or cruel**
+- **Savagely violent, vicious, ruthless, or [[cruel]]**
 - **Crude or unfeeling in manner or speech.**
 - **Harsh; unrelenting**
 - **Disagreeably precise or penetrating**

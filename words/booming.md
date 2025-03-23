@@ -12,7 +12,7 @@
 #verb
 - **To extend, or push, with a [[boom]] or pole.**
 	- _Example: to boom off a boat_
-- **(usually with "up" or "down") To raise or lower with a crane [[boom]].**
+- **(usually with "up" or "down") To raise or lower with a [[crane]] [[boom]].**
 ---
 #verb
 - **To flourish, grow, or progress.**
@@ -23,7 +23,7 @@
 ### Synonyms
 - [[flourish]], [[prosper]]
 #noun
-- **A deep hollow or roaring sound.**
+- **A [[deep]] hollow or roaring sound.**
 ---
 #adjective
 - **Experiencing a period of prosperity, or rapid economic growth.**

@@ -6,11 +6,11 @@
 - **The major part of something.**
 	- _Example: I understood the bulk of what you were saying, just one of two points I need to hear again._
 - **Dietary fibre.**
-- **Unpackaged goods when transported in large volumes, e.g. coal, ore or grain.**
-- **A [[cargo]] or [[any]] items moved or communicated in the manner of [[cargo]].**
+- **Unpackaged goods when transported in large volumes, e.g. [[coal]], ore or grain.**
+- **A [[cargo]] or [[any]] items moved or [[communicated]] in the manner of [[cargo]].**
 - **Excess [[body]] mass, especially muscle.**
 - **A period where one tries to gain muscle.**
-- **(brane cosmology) A hypothetical higher-dimensional space within which our own four-dimensional universe may exist.**
+- **(brane [[cosmology]]) A hypothetical higher-dimensional space within which our own four-dimensional universe may exist.**
 - **The [[body]].**
 ---
 #verb

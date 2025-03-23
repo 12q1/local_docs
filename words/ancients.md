@@ -13,6 +13,6 @@
 - **The [[bearer]] of a flag; ensign**
 ---
 #noun
-- **The people of classical [[antiquity]], especially such writers and philosophers.**
+- **The people of [[classical]] [[antiquity]], especially such writers and philosophers.**
 ---
 ---

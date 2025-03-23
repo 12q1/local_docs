@@ -1,7 +1,7 @@
 # Brassiere
 ---
 #noun
-- **An item of underwear worn to support the [[breasts]]; now commonly shortened to [[bra]].**
+- **An item of underwear worn to support the [[breasts]]; now [[commonly]] shortened to [[bra]].**
 ---
 ### Synonyms
 - [[bra]]

@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Sinuous, twisty, winding.**
-- **Craggy, rugged, coarse, rough, uneven.**
+- **Craggy, rugged, [[coarse]], rough, uneven.**
 ---
 ---

@@ -11,7 +11,7 @@
 - **To travel very fast.**
 	- _Example: He was really booking, until he passed the speed trap._
 - **To record [[bets]] as [[bookmaker]].**
-- **(law student slang) To receive the highest grade in a class.**
+- **(law student slang) To receive the highest grade in a [[class]].**
 	- _Example: The top three students had a bet on which one was going to book their intellectual property class._
 - **To leave.**
 	- _Example: He was here earlier, but he booked._

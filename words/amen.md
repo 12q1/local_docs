@@ -10,9 +10,9 @@
 ---
 #adverb
 - **At the end of religious prayers: so be it.**
-- **In many Abrahamic religious texts and creeds: truly, verily.**
+- **In many Abrahamic religious texts and [[creeds]]: truly, verily.**
 ---
 #interjection
-- **An expression of strong [[agreement]]. Often, though dated, in the phrase "Amen to that".**
+- **An expression of strong [[agreement]]. Often, though [[dated]], in the phrase "Amen to that".**
 ---
 ---

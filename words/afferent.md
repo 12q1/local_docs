@@ -1,7 +1,7 @@
 # Afferent
 ---
 #noun
-- **An [[afferent]] structure or connection**
+- **An [[afferent]] structure or [[connection]]**
 ---
 #adjective
 - **Carrying towards.**

@@ -5,7 +5,7 @@
 	- _Example: Calculate the square root of 3 to 10 decimal places._
 - **To determine values or solutions by a mathematical process; reckon.**
 - **To plan; to expect; to think.**
-- **To [[ascertain]] or predict by mathematical or [[astrological]] computations the time, [[circumstances]], or other conditions of; to forecast or compute the [[character]] or consequences of.**
+- **To [[ascertain]] or predict by mathematical or [[astrological]] [[computations]] the time, [[circumstances]], or other [[conditions]] of; to forecast or [[compute]] the [[character]] or [[consequences]] of.**
 	- _Example: to calculate or cast one's nativity_
 - **To [[adjust]] for purpose; to [[adapt]] by forethought or [[calculation]]; to fit or prepare by the [[adaptation]] of means to an end.**
 	- _Example: to calculate a system of laws for the government and protection of a free people_

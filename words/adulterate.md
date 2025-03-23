@@ -1,16 +1,16 @@
 # Adulterate
 ---
 #verb
-- **To corrupt.**
+- **To [[corrupt]].**
 - **To spoil by [[adding]] impurities.**
 	- _Example: to adulterate food, drink, drugs, coins, etc._
-- **To commit [[adultery]].**
-- **To defile by [[adultery]].**
+- **To [[commit]] [[adultery]].**
+- **To [[defile]] by [[adultery]].**
 ---
 ### Synonyms
 - [[debase]]
 #adjective
-- **Tending to commit [[adultery]].**
+- **Tending to [[commit]] [[adultery]].**
 - **Corrupted; impure; [[adulterated]].**
 ---
 ---

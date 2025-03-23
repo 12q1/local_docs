@@ -5,7 +5,7 @@
 - **Any sparkling wine made by the méthode champenoise.**
 - **Any sparkling white wine.**
 - **A glass of [[champagne]].**
-- **A very pale [[brownish]]-gold colour, similar to that of [[champagne]].**
+- **A very pale [[brownish]]-gold [[colour]], similar to that of [[champagne]].**
 ---
 ### Synonyms
 - [[bubbly]], [[champ]], [[champers]], [[fizz]], [[shampoo]]
@@ -14,6 +14,6 @@
 - **To drink [[champagne]].**
 ---
 #adjective
-- **Of a very pale [[brownish]]-gold colour, similar to that of [[champagne]].**
+- **Of a very pale [[brownish]]-gold [[colour]], similar to that of [[champagne]].**
 ---
 ---

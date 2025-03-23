@@ -3,15 +3,15 @@
 #verb
 - **To reduce the force of something; to [[abate]].**
 - **To restrain, usually with the sense of [[being]] in [[anticipation]]**
-- **(sometimes figurative) To cut off, remove, take [[away]].**
+- **(sometimes figurative) To [[cut]] off, remove, take [[away]].**
 - **To leave out, except, [[bar]].**
 - **To waste [[away]].**
 - **To deprive of.**
-- **To lessen by retrenching, deducting, or reducing; to [[abate]]; to [[beat]] down; to lower.**
-- **To [[allow]] by way of [[abatement]] or deduction.**
+- **To lessen by retrenching, [[deducting]], or reducing; to [[abate]]; to [[beat]] down; to lower.**
+- **To [[allow]] by way of [[abatement]] or [[deduction]].**
 ---
 #verb
-- **To contend or strive with [[blows]] or [[arguments]].**
+- **To [[contend]] or strive with [[blows]] or [[arguments]].**
 - **Of a falcon: To flap the wings vigorously; to [[bait]].**
 ---
 #verb

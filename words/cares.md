@@ -2,7 +2,7 @@
 ---
 #noun
 - **Grief, sorrow.**
-- **Close [[attention]]; concern; responsibility.**
+- **Close [[attention]]; [[concern]]; responsibility.**
 	- _Example: Care should be taken when holding babies._
 - **Worry.**
 	- _Example: I don't have a care in the world._
@@ -14,7 +14,7 @@
 - **The object of watchful [[attention]] or [[anxiety]].**
 ---
 #verb
-- **To be concerned ([[about]]), to have an interest (in); to feel concern ([[about]]).**
+- **To be [[concerned]] ([[about]]), to have an interest (in); to feel [[concern]] ([[about]]).**
 	- _Example: "She doesn't care what you think." "I don't care, I'm still going."_
 - **(polite) To want, to desire; to like; to be inclined towards.**
 	- _Example: I don't care to hear your opinion._

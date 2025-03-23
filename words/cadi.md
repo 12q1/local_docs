@@ -1,6 +1,6 @@
 # Cadi
 ---
 #noun
-- **A civil judge in [[certain]] Islamic countries.**
+- **A [[civil]] judge in [[certain]] Islamic [[countries]].**
 ---
 ---

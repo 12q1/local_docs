@@ -7,7 +7,7 @@
 #verb
 - **To set dogs on (an [[animal]] etc.) to [[bite]] or worry; to [[attack]] with dogs, especially for sport.**
 	- _Example: to bait a bear with dogs;  to bait a bull_
-- **To intentionally [[annoy]], torment, or threaten by constant rebukes or threats; to harass.**
+- **To intentionally [[annoy]], torment, or threaten by [[constant]] rebukes or threats; to harass.**
 - **To feed and water (a horse or other [[animal]]), especially during a journey.**
 - **(of a horse or other [[animal]]) To take food, especially during a journey.**
 - **(of a person) To stop to take a portion of food and drink for refreshment during a journey.**

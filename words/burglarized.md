@@ -1,7 +1,7 @@
 # Burglarized
 ---
 #verb
-- **To commit [[burglary]].**
+- **To [[commit]] [[burglary]].**
 ---
 ### Synonyms
 - [[burgle]]

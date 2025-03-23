@@ -7,6 +7,6 @@
 - **To provide with musical [[chords]] or strings; to string; to tune.**
 ---
 #adjective
-- **(of a computer keyboard) Through which input is supplied by pressing a relatively small number of keys in combinations, as though playing [[chords]].**
+- **(of a [[computer]] keyboard) Through which input is supplied by pressing a relatively small number of keys in [[combinations]], as though playing [[chords]].**
 ---
 ---

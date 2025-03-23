@@ -7,7 +7,7 @@
 - **To spend (money) extravagantly; to [[blow]].**
 ---
 #noun
-- **A substance used in laundry to whiten clothes; [[blue]]**
+- **A substance used in laundry to whiten [[clothes]]; [[blue]]**
 - **Any of several processes to protect steel [[against]] rust**
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Boomers
 ---
 #noun
-- **A person [[born]] in the postwar years (generally considered in the United States and other Allied countries as [[between]] 1946 and the early 1960s), when there was a marked increase in [[birthrates]] throughout the Western world following the return of servicemen at the end of World War II.**
+- **A person [[born]] in the postwar years (generally [[considered]] in the United States and other Allied [[countries]] as [[between]] 1946 and the early 1960s), when there was a marked increase in [[birthrates]] throughout the Western world following the return of servicemen at the end of World War II.**
 ---
 ### Synonyms
 - [[boomer]]

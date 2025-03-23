@@ -11,7 +11,7 @@
 - **A prostitute.**
 ---
 #noun
-- **A prostitute; a courtesan.**
+- **A prostitute; a [[courtesan]].**
 ---
 ### Synonyms
 - [[blowen]]

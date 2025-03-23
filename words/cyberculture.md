@@ -1,6 +1,6 @@
 # Cyberculture
 ---
 #noun
-- **Internet culture; [[attitudes]] and [[behaviours]] in cyberspace.**
+- **Internet [[culture]]; [[attitudes]] and [[behaviours]] in cyberspace.**
 ---
 ---

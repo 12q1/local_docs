@@ -1,9 +1,9 @@
 # Beanies
 ---
 #noun
-- **A [[cap]] that fits the head closely, usually knitted from wool.**
+- **A [[cap]] that fits the head [[closely]], usually knitted from wool.**
 	- _Example: Enrique Iglesias is often seen wearing a beanie._
-- **A head-hugging [[brimless]] [[cap]], with or without a visor, made from triangular sections of cloth, leather, or silk joined by a [[button]] at the crown and seamed together [[around]] the sides.**
+- **A head-hugging [[brimless]] [[cap]], with or without a visor, made from triangular sections of [[cloth]], leather, or silk joined by a [[button]] at the [[crown]] and seamed together [[around]] the sides.**
 - **A Beanie Baby, a small soft toy filled with [[beans]] or similar stuffing.**
 ---
 ### Synonyms

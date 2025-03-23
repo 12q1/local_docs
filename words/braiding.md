@@ -8,6 +8,6 @@
 - **To reproach; to upbraid.**
 ---
 #noun
-- **A [[braided]] trimming used as decoration on clothes or curtains.**
+- **A [[braided]] trimming used as [[decoration]] on [[clothes]] or [[curtains]].**
 ---
 ---

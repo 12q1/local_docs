@@ -1,7 +1,7 @@
 # Affricate
 ---
 #noun
-- **A sound produced using a combination of a plosive and a fricative.**
+- **A sound produced using a [[combination]] of a plosive and a fricative.**
 ---
 ### Synonyms
 - [[affricative]]

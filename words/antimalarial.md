@@ -1,9 +1,9 @@
 # Antimalarial
 ---
 #noun
-- **An [[agent]] that prevents or counteracts malaria.**
+- **An [[agent]] that prevents or [[counteracts]] malaria.**
 ---
 #adjective
-- **Preventing or counteracting malaria.**
+- **Preventing or [[counteracting]] malaria.**
 ---
 ---

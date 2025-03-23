@@ -2,7 +2,7 @@
 ---
 #noun
 - **Short for [[circular]] letter.**
-- **A sleeveless cloak cut from a [[circular]] pattern.**
+- **A sleeveless [[cloak]] [[cut]] from a [[circular]] pattern.**
 - **A shuttle [[bus]] with a [[circular]] route.**
 ---
 #verb
@@ -13,10 +13,10 @@
 - **Of or relating to a [[circle]].**
 - **In the shape of, or moving in a [[circle]].**
 - **Circuitous or roundabout.**
-- **Referring [[back]] to itself, so as to prevent computation or comprehension; infinitely recursive.**
+- **Referring [[back]] to itself, so as to prevent [[computation]] or [[comprehension]]; infinitely recursive.**
 	- _Example: Your dictionary defines "brave" as "courageous", and "courageous" as "brave". That's a circular definition._
 - **Distributed to a large number of persons.**
-- **Perfect; complete.**
+- **Perfect; [[complete]].**
 - **Adhering to a fixed [[circle]] of legends; [[cyclic]]; hence, mean; inferior.**
 ---
 #noun
@@ -26,7 +26,7 @@
 - **A person who travels by [[airplane]].**
 - **A leaflet, often for [[advertising]].**
 - **The part of a spinning machine that twists the thread as it takes it to and winds it on the [[bobbin]]**
-- **An [[arch]] that connects a flying [[buttress]] into the structure it supports.**
+- **An [[arch]] that [[connects]] a flying [[buttress]] into the structure it supports.**
 - **([[acrobatics]], [[cheerleading]], synchronized swimming) The person who is lifted and/or thrown by [[another]] person or persons.**
 - **A stray shot [[away]] from the group on a target.**
 - **A standard rectangular step of a staircase (as opposed to a winder).**

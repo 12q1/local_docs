@@ -1,10 +1,10 @@
 # Arrows
 ---
 #noun
-- **A projectile consisting of a shaft, a point and a tail with stabilizing fins that is shot from a [[bow]].**
+- **A projectile [[consisting]] of a shaft, a point and a tail with stabilizing fins that is shot from a [[bow]].**
 - **A sign or symbol used to indicate a direction (e.g. →).**
 - **A directed edge.**
-- **A dart.**
+- **A [[dart]].**
 - **The -> symbol, which has specific meanings in various programming languages.**
 - **The inflorescence or tassel of a mature sugar [[cane]] plant.**
 ---

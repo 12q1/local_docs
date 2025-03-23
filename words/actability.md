@@ -1,6 +1,6 @@
 # Actability
 ---
 #noun
-- **The condition of [[being]] [[actable]]**
+- **The [[condition]] of [[being]] [[actable]]**
 ---
 ---

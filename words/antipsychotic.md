@@ -6,7 +6,7 @@
 ### Synonyms
 - [[neuroleptic]]
 #adjective
-- **(pharmaceutical effect) Preventing or counteracting psychosis.**
+- **(pharmaceutical effect) Preventing or [[counteracting]] psychosis.**
 ---
 ### Synonyms
 - [[neuroleptic]]

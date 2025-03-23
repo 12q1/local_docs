@@ -1,6 +1,6 @@
 # Ballsy
 ---
 #adjective
-- **Tough and courageous; having [[balls]].**
+- **Tough and [[courageous]]; having [[balls]].**
 ---
 ---

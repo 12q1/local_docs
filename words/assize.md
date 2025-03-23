@@ -1,7 +1,7 @@
 # Assize
 ---
 #noun
-- **A session or inquiry made [[before]] a court or jury.**
+- **A session or inquiry made [[before]] a [[court]] or jury.**
 - **The verdict reached or pronouncement given by a panel of jurors.**
 - **An [[assembly]] of knights and other substantial men, with a [[bailiff]] or justice, in a [[certain]] place and at a [[certain]] time, for public [[business]].**
 - **A statute or ordinance, especially one regulating weights and measures.**

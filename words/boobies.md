@@ -2,8 +2,8 @@
 ---
 #noun
 - **A stupid person.**
-- **Any of various large tropical seabirds from the genera Sula and Papasula in the gannet family Sulidae, traditionally considered to be stupid.**
-- **In the game of croquet, a [[ball]] that has not passed through the first wicket.**
+- **Any of various large tropical seabirds from the genera Sula and Papasula in the gannet family Sulidae, traditionally [[considered]] to be stupid.**
+- **In the game of [[croquet]], a [[ball]] that has not passed through the first wicket.**
 ---
 ### Synonyms
 - [[sulid]]

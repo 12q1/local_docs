@@ -1,14 +1,14 @@
 # By
 ---
 #noun
-- **A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.**
+- **A flying insect, of the [[clade]] Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for [[collecting]] pollen and (in some species) producing wax and honey.**
 ---
 ### Synonyms
 - [[king of insects]]
 #noun
-- **A contest, especially for spelling; see spelling [[bee]].**
+- **A [[contest]], especially for spelling; see spelling [[bee]].**
 	- _Example: geography bee_
-- **A community gathering to share labour, e.g. a sewing [[bee]] or a quilting [[bee]].**
+- **A [[community]] gathering to share labour, e.g. a sewing [[bee]] or a quilting [[bee]].**
 ---
 #noun
 - **A ring or torque; a [[bracelet]].**
@@ -39,18 +39,18 @@
 #preposition
 - **Near or next to.**
 	- _Example: The mailbox is by the bus stop._
-- **From one side of something to the other, passing close by; past.**
+- **From one side of something to the other, passing [[close]] by; past.**
 	- _Example: He ran straight by me._
 - **Not later than (the given time); not later than the end of (the given time interval).**
 	- _Example: Be back by ten o'clock!._
 - **Indicates the person or thing that does or [[causes]] something: Through the [[action]] or presence of.**
-- **Indicates the creator of a work: Existing through the [[authorship]] etc. of.**
+- **Indicates the [[creator]] of a work: Existing through the [[authorship]] etc. of.**
 	- _Example: There are many well-known plays by William Shakespeare_
 - **Indicates a means of [[achieving]] something: Involving/using the means of.**
 	- _Example: By 'maybe' she means 'no'._
 - **Indicates an [[authority]] [[according]] to which something is done.**
 	- _Example: By the power vested in me, I now pronounce you man and wife._
-- **Indicates a means of classification or organisation.**
+- **Indicates a means of [[classification]] or organisation.**
 	- _Example: I sorted the items by category._
 - **Indicates the [[amount]] of [[change]], difference or discrepancy**
 	- _Example: His date of birth was wrong by ten years._
@@ -64,7 +64,7 @@
 	- _Example: She's a lovely little filly, by Big Lad, out of Damsel in Distress._
 ---
 #noun
-- **The position of a person or team in a tournament or competition who draws no opponent in a particular round so [[advances]] to the next round unopposed, or is [[awarded]] points for a win in a league table; [[also]] the phantom opponent of such a person or team.**
+- **The position of a person or team in a tournament or [[competition]] who draws no opponent in a particular round so [[advances]] to the next round unopposed, or is [[awarded]] points for a win in a league table; [[also]] the phantom opponent of such a person or team.**
 	- _Example: Craig's Crew plays the bye next week._
 - **An extra scored when the [[batsmen]] take runs [[after]] the [[ball]] has passed the striker without hitting either the [[bat]] or the [[batsman]].**
 - **A dwelling.**

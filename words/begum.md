@@ -1,6 +1,6 @@
 # Begum
 ---
 #verb
-- **To daub or cover with gum.**
+- **To [[daub]] or [[cover]] with gum.**
 ---
 ---

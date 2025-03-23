@@ -10,7 +10,7 @@
 #preposition
 - **In, near, or in the general vicinity of a particular place.**
 	- _Example: Caesar was at Rome;  at the corner of Fourth Street and Vine;  at Jim’s house_
-- **(indicating time) Indicating occurrence in an instant of time or a period of time relatively short in context or from the speaker's perspective.**
+- **(indicating time) Indicating occurrence in an instant of time or a period of time relatively short in [[context]] or from the speaker's perspective.**
 	- _Example: at six o’clock;  at closing time;  at night._
 - **In the direction of (often in an unfocused or uncaring manner).**
 	- _Example: He threw the ball at me.  He shouted at her._

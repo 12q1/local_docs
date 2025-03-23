@@ -1,7 +1,7 @@
 # Bravery
 ---
 #noun
-- **(usually uncountable) Being [[brave]], courageousness.**
+- **(usually uncountable) Being [[brave]], [[courageousness]].**
 - **A [[brave]] [[act]].**
 - **Splendor, magnificence**
 ---

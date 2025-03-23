@@ -15,6 +15,6 @@
 ---
 #noun
 - **The process of preserving food by heat processing in a sealed vessel (a sealed jar or [[can]]).**
-- **The practice of collecting [[aluminum]] [[cans]] or other recyclable objects; making money by collecting and selling such things.**
+- **The practice of [[collecting]] [[aluminum]] [[cans]] or other recyclable objects; making money by [[collecting]] and selling such things.**
 ---
 ---

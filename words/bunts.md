@@ -4,7 +4,7 @@
 - **The middle part, [[cavity]], or [[belly]] of a sail; the part of a furled sail which is at the [[center]] of the yard.**
 	- _Example: The bunt of the sail was green._
 - **A push or shove; a [[butt]].**
-- **A [[ball]] that has [[been]] intentionally hit softly so as to be difficult to field, sometimes with a hands-spread [[batting]] stance or with a close-hand, [[choked]]-up hand position. No swinging [[action]] is involved.**
+- **A [[ball]] that has [[been]] intentionally hit softly so as to be difficult to field, sometimes with a hands-spread [[batting]] stance or with a [[close]]-hand, [[choked]]-up hand position. No swinging [[action]] is involved.**
 	- _Example: The bunt was fielded cleanly._
 - **The [[act]] of [[bunting]].**
 	- _Example: The manager will likely call for a bunt here._

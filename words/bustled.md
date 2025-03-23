@@ -9,7 +9,7 @@
 ### Synonyms
 - [[abound]], [[brim]], [[bristle]], [[burst]], [[crawl]], [[swell]], [[teem]], [[flit]], [[hustle]], [[scamper]], [[scurry]]
 #adjective
-- **Having a [[bustle]], as clothing.**
+- **Having a [[bustle]], as [[clothing]].**
 	- _Example: a bustled dress_
 ---
 ---

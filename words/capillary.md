@@ -2,7 +2,7 @@
 ---
 #noun
 - **A narrow tube.**
-- **Any of the small [[blood]] vessels that connect [[arteries]] to veins.**
+- **Any of the small [[blood]] vessels that [[connect]] [[arteries]] to veins.**
 ---
 #adjective
 - **Of or pertaining to hair.**

@@ -1,7 +1,7 @@
 # Audile
 ---
 #noun
-- **A person whose mental imagery consists of sounds.**
+- **A person whose mental imagery [[consists]] of sounds.**
 ---
 #adjective
 - **Pertaining to hearing.**

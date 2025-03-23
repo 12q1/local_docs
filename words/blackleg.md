@@ -9,6 +9,6 @@
 ### Synonyms
 - [[scalie]], [[strikebreaker]]
 #verb
-- **To continue working whilst fellow workers strike.**
+- **To [[continue]] working whilst fellow workers strike.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Baaed
 ---
 #verb
-- **To make the [[characteristic]] cry of a sheep.**
+- **To make the [[characteristic]] [[cry]] of a sheep.**
 ---
 ---

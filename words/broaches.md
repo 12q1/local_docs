@@ -2,8 +2,8 @@
 ---
 #noun
 - **A series of [[chisel]] points mounted on one piece of steel. For example, the toothed stone [[chisel]] shown here.**
-- **A [[broad]] [[chisel]] for stone-cutting.**
-- **A spit for cooking food.**
+- **A [[broad]] [[chisel]] for stone-[[cutting]].**
+- **A spit for [[cooking]] food.**
 - **An [[awl]]; a [[bodkin]]; [[also]], a wooden rod or pin, sharpened at each end, used by thatchers.**
 - **A spire rising from a tower.**
 - **A spit-like start on the head of a young stag.**
@@ -25,7 +25,7 @@
 ---
 #noun
 - **A piece of women’s ornamental jewellery having a pin [[allowing]] it to be fixed to garments worn on the upper [[body]].**
-- **A painting [[all]] of one colour, such as a sepia painting.**
+- **A painting [[all]] of one [[colour]], such as a sepia painting.**
 ---
 ### Synonyms
 - [[breastpin]]

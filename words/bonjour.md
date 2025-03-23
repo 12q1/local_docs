@@ -4,6 +4,6 @@
 - **To greet in French with "[[bonjour]]".**
 ---
 #interjection
-- **(in French contexts) good morning**
+- **(in French [[contexts]]) good morning**
 ---
 ---

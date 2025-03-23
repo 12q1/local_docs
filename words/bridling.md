@@ -2,7 +2,7 @@
 ---
 #verb
 - **To put a [[bridle]] on.**
-- **To [[check]], restrain, or control with, or as if with, a [[bridle]]; as in [[bridle]] your tongue.**
+- **To [[check]], restrain, or [[control]] with, or as if with, a [[bridle]]; as in [[bridle]] your tongue.**
 - **To show hostility or resentment.**
 - **To hold up one's head proudly or [[affectedly]].**
 ---

@@ -3,9 +3,9 @@
 #noun
 - **Wearing or grinding down by friction.**
 - **The gradual reduction in a tangible or intangible resource due to [[causes]] that are passive and do not involve productive use of the resource.**
-- **(human resources) A gradual, natural reduction in membership or personnel, as through retirement, resignation, or death.**
+- **(human resources) A gradual, natural reduction in membership or personnel, as through retirement, resignation, or [[death]].**
 - **The loss of participants during an experiment.**
-- **Imperfect contrition or remorse.**
+- **Imperfect [[contrition]] or remorse.**
 - **The wearing of teeth due to their grinding.**
 - **The loss of a first or second language or a portion of that language.**
 ---

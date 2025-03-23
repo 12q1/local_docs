@@ -6,7 +6,7 @@
 ### Synonyms
 - [[bip]], [[boop]]
 #verb
-- **To dance to this music, or [[any]] sort of popular music with a strong [[beat]].**
+- **To [[dance]] to this music, or [[any]] sort of popular music with a strong [[beat]].**
 - **To have sex.**
 ---
 ### Synonyms

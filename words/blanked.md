@@ -12,6 +12,6 @@
 	- _Example: I'm blanking on her name right now._
 ---
 #adjective
-- **Damned; [[accursed]] (from the euphemistic printed form d—d)**
+- **Damned; [[accursed]] (from the euphemistic printed form [[d]]—[[d]])**
 ---
 ---

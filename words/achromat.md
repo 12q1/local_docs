@@ -1,6 +1,6 @@
 # Achromat
 ---
 #noun
-- **A lens that imparts little color; a lens that is [[achromatic]].**
+- **A lens that imparts little [[color]]; a lens that is [[achromatic]].**
 ---
 ---

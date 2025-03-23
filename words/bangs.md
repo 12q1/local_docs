@@ -31,7 +31,7 @@
 	- _Example: We can hear the couple banging upstairs._
 - **(with "in") To hammer or to hit [[anything]] hard.**
 	- _Example: Hold the picture while I bang in this nail._
-- **To cut squarely [[across]], as the tail of a horse, or a person's forelock; to cut (the hair).**
+- **To [[cut]] squarely [[across]], as the tail of a horse, or a person's forelock; to [[cut]] (the hair).**
 - **To inject intravenously.**
 	- _Example: Do you smoke meth? No, I bang it._
 ---
@@ -39,7 +39,7 @@
 - [[do it]], [[have sex]], [[nail]]
 #noun
 - **Hair hanging over the forehead.**
-- **A hairstyle including such hair, especially cut straight [[across]] the forehead.**
+- **A hairstyle including such hair, especially [[cut]] straight [[across]] the forehead.**
 ---
 ### Synonyms
 - [[bang]], [[forelocks]], [[fringe]], [[bang]], [[fringe]]

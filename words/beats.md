@@ -7,7 +7,7 @@
 - **A pulse on the [[beat]] level, the metric level at which pulses are heard as the [[basic]] unit. Thus a [[beat]] is the [[basic]] time unit of a piece.**
 - **A rhythm.**
 - **The interference [[between]] two tones of [[almost]] equal frequency**
-- **([[authorship]]) A short pause in a play, screenplay, or teleplay, for dramatic or comedic effect; a plot point or story development.**
+- **([[authorship]]) A short pause in a play, screenplay, or teleplay, for dramatic or [[comedic]] effect; a plot point or story development.**
 - **The route patrolled by a police officer or a guard.**
 - **(by extension) An [[area]] of a person's responsibility, especially**
 - **An [[act]] of reporting news or scientific results [[before]] a rival; a scoop.**
@@ -18,7 +18,7 @@
 - **A low [[cheat]] or swindler.**
 	- _Example: a dead beat_
 - **The instrumental portion of a piece of hip-hop music.**
-- **The [[act]] of scouring, or ranging over, a tract of land to rouse or drive out game; [[also]], those so engaged, collectively.**
+- **The [[act]] of scouring, or ranging over, a tract of land to rouse or drive out game; [[also]], those so engaged, [[collectively]].**
 - **A smart tap on the [[adversary]]'s [[blade]].**
 ---
 #verb
@@ -28,7 +28,7 @@
 	- _Example: He danced hypnotically while she beat the atabaque._
 - **To strike repeatedly; to inflict repeated [[blows]]; to knock vigorously or loudly.**
 - **To move with pulsation or throbbing.**
-- **To win [[against]]; to defeat or overcome; to do [[better]] than, outdo, or excel (someone) in a particular, competitive event.**
+- **To win [[against]]; to [[defeat]] or overcome; to do [[better]] than, outdo, or excel (someone) in a particular, [[competitive]] event.**
 	- _Example: I just can't seem to beat the last level of this video game._
 - **To sail to windward using a series of [[alternate]] tacks [[across]] the wind.**
 - **To strike (water, foliage etc.) in order to drive out game; to travel through (a forest etc.) for hunting.**

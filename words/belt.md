@@ -1,18 +1,18 @@
 # Belt
 ---
 #noun
-- **A [[band]] worn [[around]] the waist to hold clothing to one's [[body]] (usually pants), hold weapons (such as a gun or sword), or serve as a decorative piece of clothing.**
+- **A [[band]] worn [[around]] the waist to hold [[clothing]] to one's [[body]] (usually pants), hold weapons (such as a gun or sword), or serve as a [[decorative]] piece of [[clothing]].**
 	- _Example: As part of the act, the fat clown's belt broke, causing his pants to fall down._
 - **A [[band]] used as a restraint for safety purposes, such as a seat [[belt]].**
 	- _Example: Keep your belt fastened; this is going to be quite a bumpy ride._
 - **A [[band]] that is used in a machine to help transfer motion or power.**
 	- _Example: The motor had a single belt that snaked its way back and forth around a variety of wheels._
-- **Anything that resembles a [[belt]], or that encircles or crosses like a [[belt]]; a strip or stripe.**
+- **Anything that resembles a [[belt]], or that encircles or [[crosses]] like a [[belt]]; a strip or stripe.**
 	- _Example: a belt of trees; a belt of sand_
 - **A trophy in the shape of a [[belt]], generally [[awarded]] for martial [[arts]].**
 	- _Example: the heavyweight belt_
-- **A collection of rocky-constituted [[bodies]] (such as [[asteroids]]) which orbit a star.**
-- **One of [[certain]] girdles or zones on the surface of the planets Jupiter and Saturn, supposed to be of the nature of clouds.**
+- **A [[collection]] of rocky-[[constituted]] [[bodies]] (such as [[asteroids]]) which orbit a star.**
+- **One of [[certain]] girdles or zones on the surface of the planets Jupiter and Saturn, supposed to be of the nature of [[clouds]].**
 - **A powerful [[blow]], often made with a fist or heavy object.**
 	- _Example: After the bouncer gave him a solid belt to the gut, Simon had suddenly had enough of barfighting._
 - **A quick drink of liquor.**

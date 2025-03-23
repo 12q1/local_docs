@@ -14,8 +14,8 @@
 - **Curt in manner.**
 - **Having sudden transitions from one subject or state to [[another]]; unconnected; disjointed.**
 - **Broken off.**
-- **Extremely steep or craggy as if [[broken]] up; precipitous.**
-- **Suddenly terminating, as if cut off; truncate.**
+- **Extremely steep or [[craggy]] as if [[broken]] up; precipitous.**
+- **Suddenly terminating, as if [[cut]] off; truncate.**
 ---
 ### Synonyms
 - [[broken]], [[rough]], [[rugged]], [[blunt]], [[brusque]], [[sudden]], [[disconnected]], [[unexpected]], [[brusque]], [[impolite]], [[rude]], [[uncivil]]

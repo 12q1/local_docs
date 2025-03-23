@@ -1,10 +1,10 @@
 # Chuffs
 ---
 #noun
-- **A coarse or stupid fellow.**
+- **A [[coarse]] or stupid fellow.**
 ---
 #noun
-- **(scriptwriting) Superfluous small talk that is free of conflict, offers no [[character]] development, description or insight, and does not [[advance]] the story or plot.**
+- **(scriptwriting) Superfluous small talk that is free of [[conflict]], offers no [[character]] development, description or insight, and does not [[advance]] the story or plot.**
 - **A [[breathy]] noise produced by a tiger, similar in function to a [[cat]]'s purr.**
 ---
 #verb

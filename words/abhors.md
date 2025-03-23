@@ -6,7 +6,7 @@
 - **To fill with horror or disgust.**
 - **To turn [[aside]] or [[avoid]]; to keep [[away]] from; to reject.**
 - **([[canon]] law) To protest [[against]]; to reject solemnly.**
-- **To shrink [[back]] with horror, disgust, or dislike; to be contrary or [[averse]]; construed with from.**
+- **To shrink [[back]] with horror, disgust, or dislike; to be [[contrary]] or [[averse]]; [[construed]] with from.**
 - **Differ entirely from.**
 ---
 ---

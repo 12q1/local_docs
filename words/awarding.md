@@ -13,6 +13,6 @@
 - [[crown]], [[bestow]]
 #noun
 - **The [[act]] of [[bestowing]] an [[award]].**
-- **The [[act]] of giving by official decision such as giving a contract.**
+- **The [[act]] of giving by official [[decision]] such as giving a [[contract]].**
 ---
 ---

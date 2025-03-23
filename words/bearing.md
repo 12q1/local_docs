@@ -5,7 +5,7 @@
 	- _Example: to bear a railroad stock_
 ---
 #verb
-- **To [[carry]] or convey, literally or figuratively.**
+- **To [[carry]] or [[convey]], literally or figuratively.**
 	- _Example: Judging from the look on his face, he wasn't bearing good news._
 - **To support, sustain, or endure.**
 - **To support, keep up, or maintain.**
@@ -18,9 +18,9 @@
 ### Synonyms
 - [[brook]], [[endure]]
 #adjective
-- **(in combination) That [[bears]] (some specified thing).**
+- **(in [[combination]]) That [[bears]] (some specified thing).**
 	- _Example: a gift-bearing visitor_
-- **Of a [[beam]], column, or other device, [[carrying]] weight or load.**
+- **Of a [[beam]], [[column]], or other device, [[carrying]] weight or load.**
 	- _Example: That's a bearing wall._
 ---
 ---

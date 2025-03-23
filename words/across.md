@@ -1,7 +1,7 @@
 # Across
 ---
 #noun
-- **(crosswords, often in combination) A word that runs horizontally in the completed puzzle grid or its [[associated]] clue.**
+- **([[crosswords]], often in [[combination]]) A word that runs horizontally in the [[completed]] puzzle grid or its [[associated]] [[clue]].**
 	- _Example: I solved all of the acrosses, but then got stuck on 3 down._
 ---
 #adverb
@@ -11,7 +11,7 @@
 	- _Example: If we sail off at noon, when will we be across?_
 - **In a particular direction.**
 	- _Example: He leaned across for a book._
-- **(crosswords) Horizontally.**
+- **([[crosswords]]) Horizontally.**
 	- _Example: I got stuck on 4 across._
 ---
 #preposition
@@ -29,6 +29,6 @@
 	- _Example: All across the country, voters were communicating their representatives._
 - **So as to intersect or pass through or over at an [[angle]].**
 	- _Example: Lay the top stick across the bottom one._
-- **In possession of full, up-to-date information [[about]]; [[abreast]] of.**
+- **In possession of full, up-to-[[date]] information [[about]]; [[abreast]] of.**
 ---
 ---

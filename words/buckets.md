@@ -1,12 +1,12 @@
 # Buckets
 ---
 #noun
-- **A container made of rigid material, often with a handle, used to [[carry]] liquids or small items.**
+- **A [[container]] made of rigid material, often with a handle, used to [[carry]] liquids or small items.**
 	- _Example: I need a bucket to carry the water from the well._
-- **The [[amount]] held in this container.**
+- **The [[amount]] held in this [[container]].**
 	- _Example: The horse drank a whole bucket of water._
 - **A unit of measure equal to four gallons.**
-- **Part of a piece of machinery that resembles a [[bucket]] (container).**
+- **Part of a piece of machinery that resembles a [[bucket]] ([[container]]).**
 - **An old vehicle that is not in good working order.**
 - **The [[basket]].**
 	- _Example: The forward drove to the bucket._
@@ -30,7 +30,7 @@
 	- _Example: It’s really bucketing down out there._
 - **To travel very quickly.**
 	- _Example: The boat is bucketing along._
-- **To [[categorize]] (data) by splitting it into [[buckets]], or groups of related items.**
+- **To [[categorize]] ([[data]]) by splitting it into [[buckets]], or groups of related items.**
 - **To ride (a horse) hard or mercilessly.**
 - **To make, or [[cause]] to make (the recovery), with a [[certain]] hurried or unskillful forward swing of the [[body]].**
 ---

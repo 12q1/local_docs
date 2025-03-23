@@ -19,7 +19,7 @@
 	- _Example: to ask for a second helping at dinner_
 - **To request permission to do something.**
 	- _Example: Did you ask to use the car?_
-- **To require, demand, claim, or expect, whether by way of remuneration or return, or as a matter of necessity.**
+- **To require, demand, [[claim]], or expect, whether by way of remuneration or return, or as a matter of necessity.**
 	- _Example: What price are you asking for the house?_
 - **To invite.**
 	- _Example: Don't ask them to the wedding._

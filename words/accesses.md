@@ -11,7 +11,7 @@
 - **An onset, [[attack]], or fit of disease; an [[ague]] fit.**
 - **An outburst of an emotion; a paroxysm; a fit of passion**
 - **The right of a noncustodial parent to visit their [[child]].**
-- **The process of locating data in memory.**
-- **Connection to or communication with a computer program or to the Internet.**
+- **The process of locating [[data]] in memory.**
+- **Connection to or [[communication]] with a [[computer]] program or to the Internet.**
 ---
 ---

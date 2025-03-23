@@ -1,0 +1,6 @@
+# Complicitous
+---
+#adjective
+- **Complicit.**
+---
+---

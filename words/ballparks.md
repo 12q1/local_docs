@@ -2,7 +2,7 @@
 ---
 #noun
 - **A field, stadium or park where [[ball]], especially [[baseball]], is played.**
-- **The general vicinity; somewhere close; a [[broad]] [[approximation]].**
+- **The general vicinity; somewhere [[close]]; a [[broad]] [[approximation]].**
 	- _Example: Let’s get in the ballpark, then worry about the fine details._
 ---
 #verb

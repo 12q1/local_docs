@@ -10,7 +10,7 @@
 ---
 #adjective
 - **That [[alternates]].**
-- **(of a knot) Having a planar diagram whose crossings [[alternate]] [[between]] "over" and "under" as one travels [[along]] the knot.**
+- **(of a knot) Having a planar diagram whose [[crossings]] [[alternate]] [[between]] "over" and "under" as one travels [[along]] the knot.**
 - **(of a series) Having terms that [[alternate]] [[between]] positive and negative.**
 - **(of a multilinear mapping with [[all]] [[arguments]] [[belonging]] to the same space) Whose value is zero when [[any]] two [[adjacent]] [[arguments]] are equal.**
 ---

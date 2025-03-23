@@ -12,6 +12,6 @@
 ### Antonyms
 - [[cheer]]
 #noun
-- **A close [[acquaintance]] or significant other.**
+- **A [[close]] [[acquaintance]] or significant other.**
 ---
 ---

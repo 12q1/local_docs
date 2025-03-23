@@ -3,7 +3,7 @@
 #verb
 - **To form into an [[arch]] shape**
 	- _Example: The cat arched its back_
-- **To cover with an [[arch]] or [[arches]].**
+- **To [[cover]] with an [[arch]] or [[arches]].**
 ---
 #adjective
 - **Curved.**

@@ -2,6 +2,6 @@
 ---
 #noun
 - **Mental [[ability]]; intelligence.**
-- **Intelligent people considered as a group.**
+- **Intelligent people [[considered]] as a group.**
 ---
 ---

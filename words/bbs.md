@@ -6,10 +6,10 @@
 - **Battleship, a type of warship**
 ---
 #noun
-- **A wireless handheld device, a cross [[between]] a cellphone and a mobile email [[appliance]] and Internet-[[capable]] PDA, marketed by BlackBerry Limited.**
+- **A wireless handheld device, a [[cross]] [[between]] a cellphone and a mobile email [[appliance]] and Internet-[[capable]] PDA, marketed by BlackBerry Limited.**
 ---
 #noun
-- **A very young human, particularly from [[birth]] to a couple of years old or until walking is fully mastered.**
+- **A very young human, particularly from [[birth]] to a [[couple]] of years old or until walking is fully mastered.**
 - **Any very young [[animal]], especially a vertebrate; many species have specific names for their [[babies]], such as kittens for the [[babies]] of [[cats]], puppies for the [[babies]] of dogs, and [[chickens]] for the [[babies]] of [[birds]]. See for more.**
 - **Unborn young; a fetus.**
 	- _Example: When is your baby due?_
@@ -21,7 +21,7 @@
 	- _Example: Adam is the baby of the family._
 - **A term of endearment used to refer to or [[address]] one's girlfriend, [[boyfriend]] or spouse.**
 	- _Example: Baby, don't cry._
-- **A form of [[address]] to a man or a woman considered to be [[attractive]].**
+- **A form of [[address]] to a man or a woman [[considered]] to be [[attractive]].**
 	- _Example: Hey baby, what are you doing later?_
 - **A pet project or responsibility.**
 	- _Example: You need to talk to John about that – it's his baby._
@@ -32,7 +32,7 @@
 ### Synonyms
 - [[big baby]], [[love]], [[babbie]], [[babby]], [[babe]], [[infant]]
 #noun
-- **A sport common in North America, the Caribbean, and Japan, in which the object is to strike a [[ball]] so that one of a nine-person team [[can]] run counter-clockwise [[among]] four [[bases]], resulting in the scoring of a run. The team with the most runs [[after]] termination of play, usually nine innings, wins.**
+- **A sport [[common]] in North America, the Caribbean, and Japan, in which the object is to strike a [[ball]] so that one of a nine-person team [[can]] run [[counter]]-[[clockwise]] [[among]] four [[bases]], resulting in the scoring of a run. The team with the most runs [[after]] termination of play, usually nine innings, wins.**
 - **The [[ball]] used to play the sport of [[baseball]].**
 - **A variant of poker in which [[cards]] with [[baseball]]-related values have special significance.**
 ---

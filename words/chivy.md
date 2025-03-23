@@ -2,7 +2,7 @@
 ---
 #noun
 - **A hunt or pursuit; a [[chase]].**
-- **A cry used in hunting.**
+- **A [[cry]] used in hunting.**
 - **The game of prisoners' [[bars]].**
 ---
 #verb
@@ -14,7 +14,7 @@
 ### Synonyms
 - [[scamper]]
 #verb
-- **To coerce or hurry [[along]], as by persistent request.**
+- **To [[coerce]] or hurry [[along]], as by persistent request.**
 - **To subject to harassment or verbal [[abuse]].**
 - **To sneak up on or rapidly [[approach]].**
 - **To pursue as in a hunt.**

@@ -1,0 +1,6 @@
+# Cricketers
+---
+#noun
+- **A person who plays [[cricket]].**
+---
+---

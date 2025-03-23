@@ -7,6 +7,6 @@
 ---
 #adjective
 - **Of or relating to [[baptism]].**
-- **Of a name, conferred at [[baptism]].**
+- **Of a name, [[conferred]] at [[baptism]].**
 ---
 ---

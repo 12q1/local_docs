@@ -11,6 +11,6 @@
 ### Synonyms
 - [[showie]]
 #verb
-- **To [[cajole]], wheedle, or coax.**
+- **To [[cajole]], wheedle, or [[coax]].**
 ---
 ---

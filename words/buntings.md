@@ -1,9 +1,9 @@
 # Buntings
 ---
 #noun
-- **Strips of material used as festive decoration, especially in the colours of the national flag.**
-- **A thin cloth of woven wool from which flags are made; it is light enough to spread in a gentle wind but resistant to fraying in a strong wind.**
-- **Flags considered as a group.**
+- **Strips of material used as festive [[decoration]], especially in the [[colours]] of the national flag.**
+- **A thin [[cloth]] of woven wool from which flags are made; it is light enough to spread in a gentle wind but resistant to fraying in a strong wind.**
+- **Flags [[considered]] as a group.**
 ---
 #noun
 - **Any of various songbirds, mostly of the genus Emberiza, having short [[bills]] and [[brown]] or gray plumage.**

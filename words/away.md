@@ -27,13 +27,13 @@
 	- _Example: I'll dry the dishes and you put them away._
 - **In or to a secure or out-of-the-way place.**
 	- _Example: He was shut away in the castle tower for six months._
-- **From a state or condition of [[being]]; out of existence.**
+- **From a state or [[condition]] of [[being]]; out of existence.**
 	- _Example: fade away, die away_
 - **So as to remove or use up something.**
 	- _Example: Please wipe away this spilled drink._
 - **(as imperative, by ellipsis) Come [[away]]; go [[away]]; take [[away]].**
 	- _Example: Away! Be gone! And don't let me see you round here again!_
-- **On; in continuance; without intermission or delay.**
+- **On; in [[continuance]]; without intermission or delay.**
 	- _Example: She's been in her room all day, working away at her computer._
 - **Without restraint.**
 	- _Example: I saw her whaling away at her detractors._

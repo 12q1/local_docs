@@ -1,0 +1,55 @@
+# Crowns
+---
+#noun
+- **A royal, imperial or princely headdress; a diadem.**
+- **A wreath or [[band]] for the head, especially one given as reward of victory or a mark of honor.**
+- **(by extension) Any reward of victory or mark of honor.**
+	- _Example: the martyr's crown_
+- **Imperial or regal power, or those who wield it.**
+- **(metonym) The sovereign (in a monarchy), as head of state.**
+- **(by extension) The state, the government (headed by a monarch).**
+	- _Example: Treasure recovered from shipwrecks automatically becomes property of the Crown._
+- **The top part of something:**
+- **A kind of spire or lantern formed by [[converging]] flying [[buttresses]].**
+- **Splendor; [[culmination]]; [[acme]].**
+- **Any [[currency]] (originally) issued by the [[crown]] (regal power) and often [[bearing]] a [[crown]] (headdress); (translation) various [[currencies]] known by similar names in their native languages, such as the koruna, kruna, krone, korona.**
+- **A former pre-[[decimalization]] British [[coin]] worth five shillings.**
+- **The part of a plant where the root and stem meet.**
+- **The top of a tree.**
+- **The part of a tooth [[above]] the gums.**
+- **A prosthetic [[covering]] for a tooth.**
+- **A knot formed in the end of a rope by tucking in the strands to prevent them from unravelling**
+- **The part of an [[anchor]] where the [[arms]] and the shank meet**
+- **The rounding, or rounded part, of the [[deck]] from a level line.**
+- **(in the plural) The [[bights]] formed by the turns of a [[cable]].**
+- **In England, a standard size of printing paper measuring 20 × 15 inches.**
+- **In American, a standard size of writing paper measuring 19 × 15 inches.**
+- **A monocyclic ligand having three or more [[binding]] sites, [[capable]] of holding a guest in a [[central]] location**
+- **During [[childbirth]], the [[appearance]] of the [[baby]]'s head from the mother's vagina**
+- **A rounding or smoothing of the [[barrel]] opening**
+- **The [[area]] enclosed [[between]] two [[concentric]] perimeters.**
+- **A round spot shaved [[clean]] on the top of the head, as a mark of the [[clerical]] state; the tonsure.**
+- **A whole [[bird]] with the legs and wings removed to produce a joint of white meat.**
+- **A formal hat worn by women to Sunday [[church]] services; a [[church]] [[crown]].**
+- **The knurled knob or dial, on the outside of a watch [[case]], used to wind it or [[adjust]] the hands.**
+---
+### Synonyms
+- [[award]], [[garland]], [[honor]], [[prize]], [[wreath]], [[bull]], [[caroon]], [[cartwheel]], [[caser]], [[coachwheel]], [[thick-un]], [[tosh]], [[tosheroon]], [[tush]], [[tusheroon]], [[completion]], [[culmination]], [[finish]], [[splendor]], [[corona]], [[coronet]], [[diadem]], [[garland]], [[wreath]], [[monarchy]], [[royalty]]
+#verb
+- **To place a [[crown]] on the head of.**
+- **To formally [[declare]] (someone) a king, queen, emperor, etc.**
+- **To [[bestow]] something upon as a mark of honour, dignity, or recompense; to [[adorn]]; to dignify.**
+- **To form the topmost or finishing part of; to [[complete]]; to [[consummate]]; to perfect.**
+- **To [[declare]] (someone) a winner.**
+- **Of a [[baby]], during the [[birthing]] process; for the surface of the [[baby]]'s head to [[appear]] in the vaginal opening.**
+	- _Example: The mother was in the second stage of labor and the fetus had just crowned, prompting a round of encouragement from the midwives._
+- **To [[cause]] to round upward; to make [[anything]] higher at the middle than at the edges, such as the face of a machine pulley.**
+- **To hit on the head.**
+- **To shoot an opponent in the [[back]] of the head with a shotgun in a first-person shooter video game.**
+- **In [[checkers]], to stack two [[checkers]] to indicate that the piece has [[become]] a king.**
+	- _Example: “Crown me!” I said, as I moved my checker to the back row._
+- **To widen the opening of the [[barrel]].**
+- **To effect a lodgment upon, as upon the [[crest]] of the glacis, or the summit of the [[breach]].**
+- **To lay the ends of the strands of (a knot) over and under each other.**
+---
+---

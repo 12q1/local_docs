@@ -1,7 +1,7 @@
 # Af
 ---
 #adverb
-- **To a great extent or degree; very.**
+- **To a great extent or [[degree]]; very.**
 	- _Example: It was hot as fuck outside today._
 ---
 ### Synonyms

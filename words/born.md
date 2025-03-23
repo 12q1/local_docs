@@ -1,7 +1,7 @@
 # Born
 ---
 #verb
-- **To [[carry]] or convey, literally or figuratively.**
+- **To [[carry]] or [[convey]], literally or figuratively.**
 	- _Example: Judging from the look on his face, he wasn't bearing good news._
 - **To support, sustain, or endure.**
 - **To support, keep up, or maintain.**

@@ -8,7 +8,7 @@
 ### Synonyms
 - [[blackball]], [[blacklist]], [[blacken]], [[darken]], [[swarten]]
 #noun
-- **A preparation, containing lampblack, used to produce a shiny [[black]] coating.**
+- **A preparation, [[containing]] lampblack, used to produce a shiny [[black]] [[coating]].**
 - **Shoe polish.**
 ---
 ---

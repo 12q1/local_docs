@@ -7,6 +7,6 @@
 	- _Example: The team were six points adrift of their rivals._
 ---
 #adverb
-- **In a drifting condition; at the mercy of wind and waves.**
+- **In a drifting [[condition]]; at the mercy of wind and waves.**
 ---
 ---

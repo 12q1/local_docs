@@ -1,7 +1,7 @@
 # Cautions
 ---
 #noun
-- **Precept or warning [[against]] evil or danger of [[any]] kind; exhortation to wariness; [[advice]]; injunction; prudence in regard to danger; provident [[care]]**
+- **Precept or warning [[against]] evil or [[danger]] of [[any]] kind; exhortation to wariness; [[advice]]; injunction; prudence in regard to [[danger]]; provident [[care]]**
 - **A [[careful]] [[attention]] to the probable effects of an [[act]], in order that failure or harm may be [[avoided]]**
 	- _Example: The guideline expressed caution against excessive radiographic imaging._
 - **Security; guaranty; [[bail]].**

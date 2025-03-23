@@ -8,7 +8,7 @@
 - **A place where two roads, tributaries etc. part or meet.**
 - **The point where a [[channel]] divides when proceeding from seaward.**
 - **The [[change]] in the qualitative or topological structure of a given family as described by [[bifurcation]] theory.**
-- **A command that executes one [[block]] or other of commands depending on the result of a condition.**
+- **A [[command]] that executes one [[block]] or other of [[commands]] depending on the result of a [[condition]].**
 ---
 ### Synonyms
 - [[branched]], [[branching]], [[forked]], [[forking]]

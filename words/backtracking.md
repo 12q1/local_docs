@@ -10,7 +10,7 @@
 - **To exercise a racehorse [[around]] the racetrack in the opposite direction to that in which races are run.**
 ---
 #noun
-- **(countable, uncountable) The [[act]] of one who, or that which, [[backtracks]]; a retracing of one's steps.**
+- **([[countable]], uncountable) The [[act]] of one who, or that which, [[backtracks]]; a retracing of one's steps.**
 - **The usage of a runway as a taxiway, especially at private strips and smaller [[airports]].**
 - **The [[act]] of [[building]] [[all]] possible solutions to a problem incrementally, [[abandoning]] [[any]] [[candidate]] solution if it [[cannot]] lead to a valid solution.**
 ---

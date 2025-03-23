@@ -13,7 +13,7 @@
 - [[block]], [[hinder]], [[obstruct]], [[ban]], [[interdict]], [[prohibit]]
 #adjective
 - **Having [[bars]]; striped.**
-- **Prevented, either by a physical [[barrier]] or by conditions.**
+- **Prevented, either by a physical [[barrier]] or by [[conditions]].**
 	- _Example: He is barred by term limits from running for a third term in office._
 ---
 ---

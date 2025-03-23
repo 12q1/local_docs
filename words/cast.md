@@ -6,7 +6,7 @@
 - **Something which has [[been]] thrown, dispersed etc.**
 - **A small mass of earth "thrown off" or excreted by a worm.**
 	- _Example: The area near the stream was covered with little bubbly worm casts._
-- **The collective group of [[actors]] performing a play or production together. Contrasted with crew.**
+- **The [[collective]] group of [[actors]] performing a play or production together. Contrasted with [[crew]].**
 	- _Example: He’s in the cast of Oliver._
 - **The [[casting]] procedure.**
 	- _Example: The men got into position for the cast, two at the ladle, two with long rods, all with heavy clothing._
@@ -24,14 +24,14 @@
 	- _Example: a cast of mind, a mental tendency._
 - **An [[animal]], especially a horse, that is unable to rise without [[assistance]].**
 - **Animal and insect remains which have [[been]] regurgitated by a [[bird]].**
-- **A group of crabs.**
+- **A group of [[crabs]].**
 - **A [[broadcast]].**
 ---
 #verb
 - **(physical) To move, or be moved, [[away]].**
 - **To direct (one's eyes, gaze etc.).**
-- **To [[add]] up (a column of figures, [[accounts]] etc.); cross-[[cast]] refers to [[adding]] up a row of figures.**
-- **(social) To predict, to decide, to plan.**
+- **To [[add]] up (a [[column]] of figures, [[accounts]] etc.); [[cross]]-[[cast]] refers to [[adding]] up a row of figures.**
+- **(social) To predict, to [[decide]], to plan.**
 - **To perform, [[bring]] forth (a magical spell or enchantment).**
 - **To throw (light etc.) on or upon something, or in a given direction.**
 - **To give [[birth]] to (a [[child]]) prematurely; to miscarry.**

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A person who oversees and directs the work of others; a supervisor.**
-- **A person in [[charge]] of a [[business]] or company.**
+- **A person in [[charge]] of a [[business]] or [[company]].**
 	- _Example: Chat turned to whisper when the boss entered the conference room._
 - **A leader, the head of an organized group or team.**
 	- _Example: They named him boss because he had good leadership skills._
@@ -17,14 +17,14 @@
 ### Synonyms
 - [[employer]], [[gov]], [[guv]], [[guvnor]], [[mate]], [[head]], [[leader]], [[leader]], [[line manager]], [[manager]], [[supervisor]]
 #verb
-- **To exercise [[authoritative]] control over; to tell (someone) what to do, often repeatedly.**
+- **To exercise [[authoritative]] [[control]] over; to tell (someone) what to do, often repeatedly.**
 ---
 ### Synonyms
 - [[boss around]], [[lord over]]
 #noun
 - **A swelling, lump or protuberance in an [[animal]], person or object.**
 - **A lump-like mass of rock, especially one projecting through a stratum of different rock.**
-- **A convex protuberance in hammered work, especially the rounded projection in the [[centre]] of a shield.**
+- **A [[convex]] protuberance in hammered work, especially the rounded projection in the [[centre]] of a shield.**
 - **A protrusion, frequently a [[cylinder]] of material that extends [[beyond]] a hole.**
 - **A knob or projection, usually at the intersection of ribs in a vault.**
 - **A target [[block]], made of foam but historically made of hay [[bales]], to which a target face is [[attached]].**
@@ -32,7 +32,7 @@
 - **A head or reservoir of water.**
 ---
 #verb
-- **To decorate with [[bosses]]; to emboss.**
+- **To [[decorate]] with [[bosses]]; to emboss.**
 ---
 #noun
 - **A hassock or small seat, especially made from a [[bundle]] of straw.**

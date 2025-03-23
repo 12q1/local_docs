@@ -7,7 +7,7 @@
 	- _Example: The five ball angled off the nine ball but failed to reach the pocket._
 - **To present or [[argue]] something in a particular way or from a particular viewpoint.**
 	- _Example: How do you want to angle this when we talk to the client?_
-- **(cue sports) To hamper (oneself or one's opponent) by leaving the cue [[ball]] in the jaws of a pocket such that the surround of the pocket (the "[[angle]]") [[blocks]] the path from cue [[ball]] to object [[ball]].**
+- **([[cue]] sports) To hamper (oneself or one's opponent) by leaving the [[cue]] [[ball]] in the jaws of a pocket such that the surround of the pocket (the "[[angle]]") [[blocks]] the path from [[cue]] [[ball]] to object [[ball]].**
 ---
 #verb
 - **To try to [[catch]] fish with a hook and line.**

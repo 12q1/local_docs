@@ -1,6 +1,6 @@
 # Buffo
 ---
 #noun
-- **A comic singer, particularly in comic opera**
+- **A [[comic]] singer, particularly in [[comic]] opera**
 ---
 ---

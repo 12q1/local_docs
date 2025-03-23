@@ -5,6 +5,6 @@
 - **Flying, operating, or operation of [[aircraft]].**
 - **Industry that produces [[aircraft]].**
 - **Aircraft**
-- **A cocktail made with gin, maraschino liqueur, crème de violette and lemon juice**
+- **A [[cocktail]] made with gin, maraschino liqueur, [[cr]]ème [[de]] violette and lemon juice**
 ---
 ---

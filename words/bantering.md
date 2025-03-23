@@ -1,7 +1,7 @@
 # Bantering
 ---
 #verb
-- **To engage in [[banter]] or playful conversation.**
+- **To engage in [[banter]] or playful [[conversation]].**
 - **To play or do something [[amusing]].**
 - **To tease (someone) mildly.**
 - **To joke [[about]]; to ridicule (a trait, habit, etc.).**

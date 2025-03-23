@@ -7,12 +7,12 @@
 #adjective
 - **With the [[back]] of the hand.**
 - **Involving a [[backward]] flip of the hand.**
-- **Insincere, sarcastic, ironic, or self-contradictory.**
+- **Insincere, sarcastic, ironic, or self-[[contradictory]].**
 - **Indirect.**
 - **Backwards, turned [[around]].**
 - **(of writing) inclining to the left**
 - **Retrospective, occurring [[after]] the fact rather than in [[advance]].**
-- **Self-serving, corrupt, slipshod, or neglectful.**
+- **Self-serving, [[corrupt]], slipshod, or neglectful.**
 ---
 #adverb
 - **In a [[backhanded]] manner.**

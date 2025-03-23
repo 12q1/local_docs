@@ -13,7 +13,7 @@
 ---
 #adjective
 - **First [[according]] to historical or scientific records; original; indigenous; primitive.**
-- **Living in a land [[before]] colonization by the Europeans.**
+- **Living in a land [[before]] [[colonization]] by the Europeans.**
 ---
 ### Synonyms
 - [[ancient]], [[autochthonous]], [[earliest]], [[endemic]], [[first]], [[indigenous]], [[native]], [[original]], [[primeval]], [[primitive]], [[primordial]]

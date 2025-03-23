@@ -5,6 +5,6 @@
 - **A single, large dose of a drug, especially one in that form.**
 ---
 #verb
-- **To take a dose of insulin at a mealtime in order to control one's [[blood]] glucose level in diabetes.**
+- **To take a dose of insulin at a mealtime in order to [[control]] one's [[blood]] glucose level in diabetes.**
 ---
 ---

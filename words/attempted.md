@@ -12,7 +12,7 @@
 ### Synonyms
 - [[take a run at]], [[take a stab at]]
 #adjective
-- **Tried, with the connotation of failure.**
+- **Tried, with the [[connotation]] of failure.**
 	- _Example: An attempted coup._
 ---
 ---

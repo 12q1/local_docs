@@ -1,7 +1,7 @@
 # Abundant
 ---
 #adjective
-- **Fully sufficient; found in copious supply; in great quantity; overflowing.**
+- **Fully sufficient; found in [[copious]] supply; in great quantity; overflowing.**
 	- _Example: [W]ith their magical words they [poets] bring forth to our eyesight the abundant images and beauties of creation. — Leigh Hunt, On the Realities of Imagination_
 - **Richly supplied; wealthy; possessing in great quantity.**
 	- _Example: Abundant in goodness and truth. — Exodus, 34:6_

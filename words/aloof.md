@@ -8,6 +8,6 @@
 - **Without sympathy; unfavorably.**
 ---
 #preposition
-- **Away from; clear of.**
+- **Away from; [[clear]] of.**
 ---
 ---

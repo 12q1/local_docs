@@ -5,6 +5,6 @@
 	- _Example: Amaretto makes a fine digestive._
 - **A glass of that liqueur.**
 	- _Example: Gino has an amaretto on the porch after every elaborate meal._
-- **A light Italian cookie made with [[almonds]].**
+- **A light Italian [[cookie]] made with [[almonds]].**
 ---
 ---

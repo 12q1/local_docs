@@ -2,7 +2,7 @@
 ---
 #noun
 - **Short for [[circular]] letter.**
-- **A sleeveless cloak cut from a [[circular]] pattern.**
+- **A sleeveless [[cloak]] [[cut]] from a [[circular]] pattern.**
 - **A shuttle [[bus]] with a [[circular]] route.**
 ---
 #verb
@@ -16,7 +16,7 @@
 - **A person who travels by [[airplane]].**
 - **A leaflet, often for [[advertising]].**
 - **The part of a spinning machine that twists the thread as it takes it to and winds it on the [[bobbin]]**
-- **An [[arch]] that connects a flying [[buttress]] into the structure it supports.**
+- **An [[arch]] that [[connects]] a flying [[buttress]] into the structure it supports.**
 - **([[acrobatics]], [[cheerleading]], synchronized swimming) The person who is lifted and/or thrown by [[another]] person or persons.**
 - **A stray shot [[away]] from the group on a target.**
 - **A standard rectangular step of a staircase (as opposed to a winder).**

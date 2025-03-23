@@ -1,6 +1,6 @@
 # Buckhound
 ---
 #noun
-- **A hound for hunting deer.**
+- **A hound for hunting [[deer]].**
 ---
 ---

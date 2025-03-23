@@ -1,6 +1,6 @@
 # Catoptrics
 ---
 #noun
-- **The [[branch]] of optics dealing with reflection.**
+- **The [[branch]] of optics [[dealing]] with reflection.**
 ---
 ---

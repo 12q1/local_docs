@@ -6,8 +6,8 @@
 - **To [[cause]] to move with a violent, irregular [[action]]; to shake.**
 	- _Example: the wind agitates the sea_
 - **To set in motion; to [[actuate]].**
-- **To discuss or debate.**
-- **To revolve in the mind, or view in [[all]] its [[aspects]]; to consider, to devise.**
+- **To discuss or [[debate]].**
+- **To revolve in the mind, or view in [[all]] its [[aspects]]; to [[consider]], to devise.**
 	- _Example: politicians agitate desperate designs_
 ---
 ### Synonyms

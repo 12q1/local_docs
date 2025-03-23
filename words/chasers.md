@@ -13,8 +13,8 @@
 - **A person who seeks out sexual partners with a particular quality:**
 ---
 #noun
-- **Someone who [[chases]] (decorates) metal; a person who decorates metal by engraving or embossing.**
-- **A tool used for cleaning out screw threads, either as an integral part of a tap or die to remove waste material produced by the cutting tool, or as a separate tool to repair damaged threads.**
+- **Someone who [[chases]] ([[decorates]]) metal; a person who [[decorates]] metal by engraving or embossing.**
+- **A tool used for [[cleaning]] out screw threads, either as an integral part of a tap or die to remove waste material produced by the [[cutting]] tool, or as a separate tool to repair [[damaged]] threads.**
 - **A [[chase]] gun.**
 	- _Example: bow chaser; stern chaser_
 ---

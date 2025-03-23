@@ -1,7 +1,7 @@
 # Bong
 ---
 #noun
-- **The clang of a large [[bell]].**
+- **The [[clang]] of a large [[bell]].**
 - **Doorbell [[chimes]].**
 ---
 #verb

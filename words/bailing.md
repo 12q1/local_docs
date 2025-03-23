@@ -14,15 +14,15 @@
 #verb
 - **To exit quickly.**
 	- _Example: With his engine in flames, the pilot had no choice but to bail._
-- **To fail to meet a commitment.**
+- **To fail to meet a [[commitment]].**
 ---
 #verb
-- **To secure the head of a cow during milking.**
+- **To secure the head of a [[cow]] during milking.**
 ---
 #verb
-- **To confine.**
-- **To secure (a cow) by placing its head in a [[bail]] for milking.**
-- **To keep (a traveller) detained in order to rob them; to corner (a wild [[animal]]); loosely, to detain, hold up. (Usually with up.)**
+- **To [[confine]].**
+- **To secure (a [[cow]]) by placing its head in a [[bail]] for milking.**
+- **To keep (a traveller) detained in order to rob them; to [[corner]] (a wild [[animal]]); loosely, to detain, hold up. (Usually with up.)**
 ---
 #noun
 - **The [[act]] by which something is [[bailed]].**

@@ -1,15 +1,15 @@
 # Bottle
 ---
 #noun
-- **A container, typically made of glass or plastic and having a tapered neck, used primarily for holding liquids.**
+- **A [[container]], typically made of glass or plastic and having a tapered neck, used primarily for holding liquids.**
 	- _Example: Beer is often sold in bottles._
-- **The contents of such a container.**
+- **The [[contents]] of such a [[container]].**
 	- _Example: I only drank a bottle of beer._
-- **A container with a rubber nipple used for giving liquids to infants, a [[baby]] [[bottle]].**
+- **A [[container]] with a rubber nipple used for giving liquids to infants, a [[baby]] [[bottle]].**
 	- _Example: The baby wants a bottle._
-- **Nerve, courage.**
+- **Nerve, [[courage]].**
 	- _Example: He was going to ask her out, but he lost his bottle when he saw her._
-- **(of a person with a particular hair color) A container of hair dye, hence with one’s hair color produced by dyeing.**
+- **(of a person with a particular hair [[color]]) A [[container]] of hair dye, hence with one’s hair [[color]] produced by dyeing.**
 	- _Example: Did you know he’s a bottle brunette? His natural hair color is strawberry blonde._
 - **A [[bundle]], especially of hay; something tied in a [[bundle]].**
 - **Intoxicating liquor; [[alcohol]].**
@@ -21,11 +21,11 @@
 ### Antonyms
 - [[cowardice]]
 #verb
-- **To seal (a liquid) into a [[bottle]] for later consumption. Also fig.**
+- **To seal (a liquid) into a [[bottle]] for later [[consumption]]. Also fig.**
 	- _Example: This plant bottles vast quantities of spring water every day._
 - **To feed (an infant) [[baby]] formula.**
 	- _Example: Because of complications she can't breast feed her baby and so she bottles him._
-- **To refrain from doing (something) at the last moment [[because]] of a sudden loss of courage.**
+- **To refrain from doing (something) at the last moment [[because]] of a sudden loss of [[courage]].**
 	- _Example: The rider bottled the big jump._
 - **To throw [[away]] a leading position.**
 	- _Example: Liverpool bottled the Premier League._

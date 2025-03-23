@@ -1,20 +1,20 @@
 # Cap
 ---
 #noun
-- **A close-fitting hat, either [[brimless]] or peaked.**
+- **A [[close]]-fitting hat, either [[brimless]] or peaked.**
 	- _Example: The children were all wearing caps to protect them from the sun._
 - **A special hat to indicate rank, occupation, etc.**
 - **An [[academic]] mortarboard.**
-- **A protective cover or seal.**
+- **A protective [[cover]] or seal.**
 	- _Example: He took the cap off the bottle and splashed himself with some cologne._
-- **A crown for covering a tooth.**
+- **A [[crown]] for [[covering]] a tooth.**
 	- _Example: He had golden caps on his teeth._
 - **The summit of a mountain, etc.**
 	- _Example: There was snow on the cap of the mountain._
 - **An [[artificial]] upper limit or [[ceiling]].**
 	- _Example: We should put a cap on the salaries, to keep them under control._
 - **The top part of a mushroom.**
-- **(toy) A small [[amount]] of percussive explosive in a paper strip or plastic cup for use in a toy gun.**
+- **(toy) A small [[amount]] of percussive explosive in a paper strip or plastic [[cup]] for use in a toy gun.**
 	- _Example: Billy spent all morning firing caps with his friends, re-enacting storming the beach at Normandy._
 - **A small explosive device used to detonate a larger [[charge]] of explosives.**
 	- _Example: He wired the cap to the bundle of dynamite, then detonated it remotely._
@@ -26,9 +26,9 @@
 - **The whole top of the head of a [[bird]] from the [[base]] of the [[bill]] to the nape of the neck.**
 - **The uppermost of [[any]] [[assemblage]] of parts.**
 	- _Example: the cap of column, door, etc.; a capital, coping, cornice, lintel, or plate_
-- **Something covering the top or end of a thing for protection or ornament.**
-- **A collar of iron or wood used in joining spars, as the mast and the topmast, the [[bowsprit]] and the jib [[boom]]; [[also]], a covering of tarred [[canvas]] at the end of a rope.**
-- **A portion of a spherical or other convex surface.**
+- **Something [[covering]] the top or end of a thing for protection or ornament.**
+- **A [[collar]] of iron or wood used in joining spars, as the mast and the topmast, the [[bowsprit]] and the jib [[boom]]; [[also]], a [[covering]] of tarred [[canvas]] at the end of a rope.**
+- **A portion of a spherical or other [[convex]] surface.**
 - **A large size of writing paper.**
 	- _Example: flat cap; foolscap; legal cap_
 - **A lie or exaggeration.**
@@ -37,7 +37,7 @@
 ### Antonyms
 - [[floor]]
 #verb
-- **To cover or seal with a [[cap]].**
+- **To [[cover]] or seal with a [[cap]].**
 - **To [[award]] a [[cap]] as a mark of distinction.**
 - **To lie over or on top of something.**
 - **To surpass or outdo.**

@@ -4,7 +4,7 @@
 - **A grotesque representation of a figure; a gargoyle.**
 - **A [[caricature]].**
 - **(often in plural) A ludicrous gesture or [[act]]; ridiculous [[behaviour]]; [[caper]].**
-- **A grotesque performer or clown, [[buffoon]].**
+- **A grotesque performer or [[clown]], [[buffoon]].**
 ---
 #verb
 - **To perform [[antics]], [[caper]].**

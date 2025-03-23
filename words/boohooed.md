@@ -1,6 +1,6 @@
 # Boohooed
 ---
 #verb
-- **To cry, weep.**
+- **To [[cry]], weep.**
 ---
 ---

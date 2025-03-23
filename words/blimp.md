@@ -1,7 +1,7 @@
 # Blimp
 ---
 #noun
-- **An [[airship]] constructed with a non-rigid lifting [[agent]] container.**
+- **An [[airship]] [[constructed]] with a non-rigid lifting [[agent]] [[container]].**
 - **(by extension) Any large [[airborne]] inflatable.**
 - **An obese person.**
 - **A person similar to the [[cartoon]] [[character]] Colonel Blimp; a pompous, reactionary British man.**

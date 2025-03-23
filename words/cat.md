@@ -10,7 +10,7 @@
 - **The pointed piece of wood that is struck in the game of tipcat.**
 - **A vagina, a vulva; the female external genitalia.**
 - **A double tripod (for holding a plate, etc.) with six feet, of which three rest on the ground, in whatever position it is placed.**
-- **A wheeled shelter, used in the Middle Ages as a siege weapon to [[allow]] [[assailants]] to [[approach]] enemy defences.**
+- **A wheeled shelter, used in the Middle Ages as a siege weapon to [[allow]] [[assailants]] to [[approach]] enemy [[defences]].**
 ---
 ### Synonyms
 - [[saber-tooth]], [[saber-toothed cat]], [[feline]], [[feline cat]], [[pantherine]], [[pantherine cat]], [[Caniformia]], [[carnivoran]], [[cat-like]], [[feliform]], [[feloid]], [[jaguar]], [[leopard]], [[lion]], [[panther]], [[tiger]], [[Welsh cat]], [[tortoise]], [[felid]]

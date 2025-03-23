@@ -1,12 +1,12 @@
 # Brands
 ---
 #noun
-- **A conflagration; a flame.**
+- **A [[conflagration]]; a flame.**
 - **A piece of [[burning]] wood or peat, or a glowing [[cinder]].**
 	- _Example: To burn something to brands and ashes._
 - **A torch used for signaling.**
 - **A sword.**
-- **A mark or scar made by [[burning]] with a hot iron, especially to mark [[cattle]] or to classify the contents of a [[cask]].**
+- **A mark or scar made by [[burning]] with a hot iron, especially to mark [[cattle]] or to [[classify]] the [[contents]] of a [[cask]].**
 - **A [[branding]] iron.**
 - **The symbolic identity, represented by a name and/or a logo, which indicates a [[certain]] product or service to the public.**
 - **A specific product, service, or provider so distinguished.**
@@ -20,7 +20,7 @@
 ### Synonyms
 - [[brand name]], [[logo]], [[marque]], [[proprietary name]], [[trademark]], [[tradename]], [[good name]], [[name]], [[repute]]
 #verb
-- **To [[burn]] the flesh with a hot iron, either as a marker (for criminals, slaves etc.) or to [[cauterise]] a wound.**
+- **To [[burn]] the flesh with a hot iron, either as a marker (for [[criminals]], slaves etc.) or to [[cauterise]] a wound.**
 	- _Example: When they caught him, he was branded and then locked up._
 - **To mark (especially [[cattle]]) with a [[brand]] as proof of ownership.**
 	- _Example: The ranch hands had to brand every new calf by lunchtime._

@@ -1,6 +1,6 @@
 # Balladries
 ---
 #noun
-- **Ballads considered as a group**
+- **Ballads [[considered]] as a group**
 ---
 ---

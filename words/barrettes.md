@@ -1,7 +1,7 @@
 # Barrettes
 ---
 #noun
-- **A clasp or clip for gathering and holding the hair.**
+- **A [[clasp]] or [[clip]] for gathering and holding the hair.**
 ---
 ### Synonyms
 - [[hair-slide]], [[hairclip]], [[hairslide]]

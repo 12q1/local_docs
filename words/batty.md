@@ -1,7 +1,7 @@
 # Batty
 ---
 #adjective
-- **Mad, crazy, silly.**
+- **Mad, [[crazy]], silly.**
 - **Belonging to, or resembling, a [[bat]] (mammal).**
 ---
 ---

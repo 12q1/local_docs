@@ -1,6 +1,6 @@
 # Chelates
 ---
 #noun
-- **A [[chelate]] compound**
+- **A [[chelate]] [[compound]]**
 ---
 ---

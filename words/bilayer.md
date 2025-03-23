@@ -1,6 +1,6 @@
 # Bilayer
 ---
 #noun
-- **Any structure consisting of two layers of molecules**
+- **Any structure [[consisting]] of two layers of molecules**
 ---
 ---

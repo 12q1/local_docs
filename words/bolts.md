@@ -1,25 +1,25 @@
 # Bolts
 ---
 #noun
-- **A (usually) metal fastener consisting of a [[cylindrical]] [[body]] that is threaded, with a larger head on one end. It [[can]] be inserted into an unthreaded hole up to the head, with a nut then threaded on the other end; a heavy machine screw.**
+- **A (usually) metal fastener [[consisting]] of a [[cylindrical]] [[body]] that is threaded, with a larger head on one end. It [[can]] be inserted into an unthreaded hole up to the head, with a nut then threaded on the other end; a heavy machine screw.**
 - **A sliding pin or [[bar]] in a lock or latch mechanism.**
 - **A [[bar]] of wood or metal dropped in horizontal hooks on a door and [[adjoining]] wall or [[between]] the two sides of a double door, to prevent the door(s) from [[being]] forced open.**
 - **A sliding mechanism to [[chamber]] and unchamber a [[cartridge]] in a firearm.**
-- **A small personal-[[armour]]-piercing missile for short-range use, or (in common usage though deprecated by experts) a short [[arrow]], intended to be shot from a crossbow or a [[catapult]].**
+- **A small personal-[[armour]]-piercing missile for short-range use, or (in [[common]] usage though deprecated by experts) a short [[arrow]], intended to be shot from a [[crossbow]] or a [[catapult]].**
 - **A lightning spark, i.e., a lightning [[bolt]].**
 - **A sudden event, [[action]] or emotion.**
 	- _Example: The problem's solution struck him like a bolt from the blue._
-- **A large roll of fabric or similar material, as a [[bolt]] of cloth.**
+- **A large roll of fabric or similar material, as a [[bolt]] of [[cloth]].**
 	- _Example: 24 March 1774 - Newspaper: Stamford Mercury - "Mr. Cole, Basket-maker...has lost near 300 boults of rods" https//www.britishnewspaperarchive.co.uk/viewer/bl/0000254/17740324/001/0001_
 - **A sudden spring or start; a sudden leap [[aside]].**
 	- _Example: The horse made a bolt._
-- **A sudden flight, as to escape creditors.**
-- **A refusal to support a nomination made by the party with which one has [[been]] connected; a [[breaking]] [[away]] from one's party.**
+- **A sudden flight, as to escape [[creditors]].**
+- **A refusal to support a nomination made by the party with which one has [[been]] [[connected]]; a [[breaking]] [[away]] from one's party.**
 - **An iron to fasten the legs of a prisoner; a shackle; a fetter.**
 - **A [[burst]] of speed or efficiency.**
 ---
 #verb
-- **To connect or [[assemble]] pieces using a [[bolt]].**
+- **To [[connect]] or [[assemble]] pieces using a [[bolt]].**
 	- _Example: Bolt the vice to the bench._
 - **To secure a door by locking or [[barring]] it.**
 	- _Example: Bolt the door._
@@ -34,14 +34,14 @@
 - **To swallow food without [[chewing]] it.**
 - **To drink one's drink very quickly; to down a drink.**
 	- _Example: Come on, everyone, bolt your drinks; I want to go to the next pub!_
-- **To refuse to support a nomination made by a party or [[caucus]] with which one has [[been]] connected; to [[break]] [[away]] from a party.**
+- **To refuse to support a nomination made by a party or [[caucus]] with which one has [[been]] [[connected]]; to [[break]] [[away]] from a party.**
 - **To utter precipitately; to [[blurt]] or throw out.**
 ---
 #noun
 - **A sieve, especially a long fine sieve used in milling for [[bolting]] flour and meal; a [[bolter]].**
 ---
 #verb
-- **To sift, especially through a cloth.**
+- **To sift, especially through a [[cloth]].**
 - **To sift the [[bran]] and germ from wheat flour.**
 	- _Example: Graham flour is unbolted flour._
 - **To separate, [[assort]], refine, or purify by other means.**

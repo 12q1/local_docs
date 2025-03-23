@@ -1,10 +1,10 @@
 # Artifices
 ---
 #noun
-- **A crafty but underhanded deception.**
+- **A [[crafty]] but underhanded [[deception]].**
 - **A trick played out as an ingenious, but [[artful]], ruse.**
-- **A strategic maneuver that uses some clever means to [[avoid]] detection or [[capture]].**
+- **A strategic maneuver that uses some [[clever]] means to [[avoid]] detection or [[capture]].**
 - **A tactical move to gain [[advantage]].**
-- **Something made with technical skill; a contrivance.**
+- **Something made with technical skill; a [[contrivance]].**
 ---
 ---

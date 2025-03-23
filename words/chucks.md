@@ -1,7 +1,7 @@
 # Chucks
 ---
 #noun
-- **Meat from the shoulder of a cow or other [[animal]].**
+- **Meat from the shoulder of a [[cow]] or other [[animal]].**
 - **Food.**
 - **A mechanical device that holds an object firmly in place, for example holding a drill [[bit]] in a high-speed rotating drill or grinder.**
 ---
@@ -11,12 +11,12 @@
 ---
 #noun
 - **A [[chicken]], a hen.**
-- **A clucking sound.**
-- **A friend or close [[acquaintance]]; term of endearment.**
+- **A [[clucking]] sound.**
+- **A friend or [[close]] [[acquaintance]]; term of endearment.**
 	- _Example: Are you all right, chuck?_
 ---
 #verb
-- **To make a clucking sound.**
+- **To make a [[clucking]] sound.**
 - **To [[call]], as a hen her [[chickens]].**
 ---
 #noun

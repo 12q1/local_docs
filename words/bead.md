@@ -7,7 +7,7 @@
 - **(heading) A ridge, [[band]], or molding.**
 - **Knowledge sufficient to direct one's [[activities]] to a purpose.**
 	- _Example: We now have a bead on the main technical issues for the project_
-- **A glassy drop of molten flux, as [[borax]] or microcosmic salt, used as a solvent and color test for several mineral earths and oxides, as of iron, manganese, etc., [[before]] the [[blowpipe]].**
+- **A glassy drop of molten flux, as [[borax]] or microcosmic salt, used as a solvent and [[color]] test for several mineral earths and oxides, as of iron, manganese, etc., [[before]] the [[blowpipe]].**
 	- _Example: the borax bead;  the iron bead, etc._
 - **Front sight of a gun.**
 ---

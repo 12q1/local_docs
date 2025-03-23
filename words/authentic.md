@@ -1,7 +1,7 @@
 # Authentic
 ---
 #adjective
-- **Of the same origin as claimed; genuine.**
+- **Of the same origin as [[claimed]]; genuine.**
 	- _Example: The experts confirmed it was an authentic signature._
 - **Conforming to reality and therefore worthy of trust, reliance, or [[belief]].**
 	- _Example: The report was completely authentic._

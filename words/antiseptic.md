@@ -6,7 +6,7 @@
 #adjective
 - **Of, or relating to [[antisepsis]], or the use of [[antiseptics]].**
 - **(pharmaceutical effect) Capable of preventing microbial infection.**
-- **Very clean; [[aseptic]].**
+- **Very [[clean]]; [[aseptic]].**
 - **Free of unpleasantness; prim, sanitized or [[bowdlerized]].**
 ---
 ---

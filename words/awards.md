@@ -1,9 +1,9 @@
 # Awards
 ---
 #noun
-- **A judgment, sentence, or final decision. Specifically: The decision of [[arbitrators]] in a [[case]] submitted.**
-- **The paper containing the decision of [[arbitrators]]; that which is warded.**
-- **A trophy or medal; something that denotes an [[accomplishment]], especially in a competition. A prize or honor [[based]] on merit.**
+- **A judgment, sentence, or final [[decision]]. Specifically: The [[decision]] of [[arbitrators]] in a [[case]] submitted.**
+- **The paper [[containing]] the [[decision]] of [[arbitrators]]; that which is warded.**
+- **A trophy or medal; something that denotes an [[accomplishment]], especially in a [[competition]]. A prize or honor [[based]] on merit.**
 - **(Australia, NZ, industrial relations) A negotiated minimum wage that is set for a particular trade or industry; an industrial [[award]].**
 ---
 #verb

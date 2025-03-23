@@ -1,12 +1,12 @@
 # Backfires
 ---
 #noun
-- **A small, controlled fire set in the path of a larger uncontrolled fire, in order to limit the spread of the large fire by removing its fuel.**
-- **An explosion produced either by a running internal combustion engine that occurs in the [[air]] intake or exhaust system rather than inside the combustion [[chamber]] or unburned fuel or hydrocarbons ignited somewhere in the exhaust system.**
+- **A small, [[controlled]] fire set in the path of a larger uncontrolled fire, in order to limit the spread of the large fire by removing its fuel.**
+- **An explosion produced either by a running internal [[combustion]] engine that occurs in the [[air]] intake or exhaust system rather than inside the [[combustion]] [[chamber]] or unburned fuel or hydrocarbons ignited somewhere in the exhaust system.**
 ---
 #noun
-- **A premature explosion in the [[cylinder]] of a gas or oil engine during the exhaust or the compression stroke, tending to drive the piston in the wrong direction.**
-- **An explosion in the exhaust passages of an internal combustion engine.**
+- **A premature explosion in the [[cylinder]] of a gas or oil engine during the exhaust or the [[compression]] stroke, tending to drive the piston in the wrong direction.**
+- **An explosion in the exhaust passages of an internal [[combustion]] engine.**
 ---
 ### Synonyms
 - [[knock]], [[ping]]

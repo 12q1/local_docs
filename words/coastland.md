@@ -1,0 +1,6 @@
+# Coastland
+---
+#noun
+- **Coastal land**
+---
+---

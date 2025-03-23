@@ -2,7 +2,7 @@
 ---
 #noun
 - **A scientific name, at the rank of species, with two terms: a generic name and a specific name.**
-- **(grammar) A construct involving two nouns or two names.**
+- **(grammar) A [[construct]] involving two nouns or two names.**
 ---
 ### Synonyms
 - [[binomen]], [[binomial]], [[binomial name]], [[binominal name]], [[species name]]

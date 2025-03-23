@@ -2,7 +2,7 @@
 ---
 #adverb
 - **In reciprocal succession; succeeding by turns; in [[alternate]] order.**
-- **By [[alternation]]; when, in a proportion, the [[antecedent]] term is compared with [[antecedent]], and consequent.**
+- **By [[alternation]]; when, in a proportion, the [[antecedent]] term is [[compared]] with [[antecedent]], and [[consequent]].**
 - **(sometimes proscribed) Alternatively.**
 ---
 ---

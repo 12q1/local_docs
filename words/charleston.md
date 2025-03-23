@@ -1,6 +1,6 @@
 # Charleston
 ---
 #verb
-- **To dance the Charleston.**
+- **To [[dance]] the Charleston.**
 ---
 ---

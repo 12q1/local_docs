@@ -5,7 +5,7 @@
 ---
 #noun
 - **An effeminate [[boy]] or man.**
-- **A timid, unassertive or cowardly person.**
+- **A timid, unassertive or [[cowardly]] person.**
 - **(BDSM) A male crossdresser who [[adopts]] feminine [[behaviours]].**
 - **Sister.**
 ---

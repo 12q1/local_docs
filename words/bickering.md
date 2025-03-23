@@ -10,6 +10,6 @@
 ### Synonyms
 - [[wrangle]]
 #noun
-- **Petty quarreling. Usually considered a [[childish]] [[behaviour]], [[although]] often [[applied]] to [[adults]].**
+- **Petty quarreling. Usually [[considered]] a [[childish]] [[behaviour]], [[although]] often [[applied]] to [[adults]].**
 ---
 ---

@@ -5,7 +5,7 @@
 	- _Example: an ample house_
 - **Fully sufficient; [[abundant]]; plenty**
 	- _Example: ample material_
-- **Not contracted or [[brief]]; not concise; extended; diffusive**
+- **Not [[contracted]] or [[brief]]; not [[concise]]; extended; diffusive**
 	- _Example: an ample story_
 ---
 ### Synonyms

@@ -2,7 +2,7 @@
 ---
 #noun
 - **The quality of [[being]] [[brief]] in duration.**
-- **Succinctness; conciseness.**
+- **Succinctness; [[conciseness]].**
 - **A short piece of writing.**
 ---
 ### Synonyms

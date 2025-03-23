@@ -2,6 +2,6 @@
 ---
 #noun
 - **That which [[catalyzes]].**
-- **A [[catalytic]] converter.**
+- **A [[catalytic]] [[converter]].**
 ---
 ---

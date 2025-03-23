@@ -1,7 +1,7 @@
 # Alive
 ---
 #adjective
-- **Having life; living; not dead**
+- **Having life; living; not [[dead]]**
 	- _Example: As long as the plant is alive, he will continue to water it._
 - **In a state of [[action]]; in force or operation; existent**
 	- _Example: to keep the affections alive_
@@ -9,7 +9,7 @@
 	- _Example: Although quite dull during the day, the main street comes alive at night, with many bars and clubs opening._
 - **Sprightly; lively; [[brisk]].**
 - **Susceptible; easy to impress; having keen feelings, as opposed to [[apathy]]**
-- **(as an intensifier) out of [[all]] living creatures.**
+- **(as an intensifier) out of [[all]] living [[creatures]].**
 ---
 ### Synonyms
 - [[alive and kicking]], [[extant]], [[vital]], [[existing]], [[extant]], [[ever]], [[in the world]], [[frisky]], [[peppy]], [[zestful]]

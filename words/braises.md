@@ -7,7 +7,7 @@
 	- _Example: Braised cabbage is cooked in a braise of sliced bacon, one or two thickly sliced onions, one or two sliced carrots, parsley, thyme, a bay leaf, and stock to nearly cover._
 ---
 #verb
-- **To cook in a small [[amount]] of liquid, in a covered pan, somewhere [[between]] steaming and [[boiling]].**
+- **To [[cook]] in a small [[amount]] of liquid, in a [[covered]] pan, somewhere [[between]] steaming and [[boiling]].**
 ---
 #noun
 - **Pagellus bogaraveo, syn. Pagellus centrodontus (sea [[bream]])**

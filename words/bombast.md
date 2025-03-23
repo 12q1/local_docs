@@ -1,7 +1,7 @@
 # Bombast
 ---
 #noun
-- **Cotton, or cotton wool.**
+- **Cotton, or [[cotton]] wool.**
 - **Cotton, or [[any]] soft, fibrous material, used as stuffing for garments; stuffing, padding.**
 - **High-sounding words; language [[above]] the dignity of the occasion; a pompous or ostentatious manner of writing or speaking.**
 ---

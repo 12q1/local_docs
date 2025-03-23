@@ -1,6 +1,6 @@
 # Blockading
 ---
 #verb
-- **To create a [[blockade]] [[against]].**
+- **To [[create]] a [[blockade]] [[against]].**
 ---
 ---

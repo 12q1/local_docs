@@ -2,8 +2,8 @@
 ---
 #noun
 - **A small succulent fruit, of [[any]] one of many varieties.**
-- **A soft fruit which develops from a single ovary and contains seeds not encased in pits.**
-- **A coffee [[bean]].**
+- **A soft fruit which develops from a single ovary and [[contains]] seeds not encased in pits.**
+- **A [[coffee]] [[bean]].**
 - **One of the ova or eggs of a fish.**
 - **(African American) A police [[car]].**
 - **A dollar.**

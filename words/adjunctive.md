@@ -1,7 +1,7 @@
 # Adjunctive
 ---
 #noun
-- **(grammar) a connector joining two components of the same weight, such as a coordinating conjunction**
+- **(grammar) a [[connector]] joining two [[components]] of the same weight, such as a [[coordinating]] [[conjunction]]**
 - **A substance [[added]] as a supplement; often in the phrase "[[additives]] and adjunctives."**
 ---
 #adjective

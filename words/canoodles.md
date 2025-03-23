@@ -1,7 +1,7 @@
 # Canoodles
 ---
 #noun
-- **A cuddle, hug, or [[caress]]**
+- **A [[cuddle]], hug, or [[caress]]**
 ---
 #verb
 - **To [[caress]], pet, feel up, or make love.**

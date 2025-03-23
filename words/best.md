@@ -9,7 +9,7 @@
 ---
 #verb
 - **To surpass in skill or [[achievement]].**
-- **To [[beat]] in a contest**
+- **To [[beat]] in a [[contest]]**
 ---
 ### Antonyms
 - [[worst]]
@@ -36,13 +36,13 @@
 ### Antonyms
 - [[bad]], [[evil]], [[bad]], [[poor]]
 #adverb
-- **(manner) Accurately, competently, satisfactorily.**
+- **(manner) Accurately, [[competently]], satisfactorily.**
 	- _Example: He does his job well._
 - **(manner) Completely, fully.**
 	- _Example: We’re well beat now._
-- **(degree) To a significant degree.**
+- **([[degree]]) To a significant [[degree]].**
 	- _Example: That author is well known._
-- **(degree) Very (as a general-purpose intensifier).**
-- **In a desirable manner; so as one could wish; satisfactorily; favourably; [[advantageously]].**
+- **([[degree]]) Very (as a general-purpose intensifier).**
+- **In a desirable manner; so as one [[could]] wish; satisfactorily; favourably; [[advantageously]].**
 ---
 ---

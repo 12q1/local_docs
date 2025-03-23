@@ -4,6 +4,6 @@
 - **One who [[bonks]].**
 ---
 #adjective
-- **Mad; crazy.**
+- **Mad; [[crazy]].**
 ---
 ---

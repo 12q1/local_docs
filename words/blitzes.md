@@ -4,7 +4,7 @@
 - **A sudden [[attack]], especially an [[air]] raid; usually with reference to the Blitz.**
 - **A swift and overwhelming [[attack]] or effort.**
 	- _Example: We embarked on a publicity blitz, putting posters and flyers all around town._
-- **A play in which [[additional]] defenders [[beyond]] the defensive linemen rush the passer.**
+- **A play in which [[additional]] [[defenders]] [[beyond]] the [[defensive]] linemen rush the passer.**
 - **Blitz [[chess]], a form of [[chess]] with a short time limit for moves.**
 ---
 ### Synonyms

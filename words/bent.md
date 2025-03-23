@@ -1,9 +1,9 @@
 # Bent
 ---
 #verb
-- **To [[cause]] (something) to [[change]] its shape into a curve, by physical force, [[chemical]] [[action]], or [[any]] other means.**
+- **To [[cause]] (something) to [[change]] its shape into a [[curve]], by physical force, [[chemical]] [[action]], or [[any]] other means.**
 	- _Example: Don’t bend your knees._
-- **To [[become]] curved.**
+- **To [[become]] [[curved]].**
 	- _Example: Look at the trees bending in the wind._
 - **To [[cause]] to [[change]] direction.**
 - **To [[change]] direction.**
@@ -21,7 +21,7 @@
 - **To [[apply]] oneself to a task or purpose.**
 	- _Example: He bent to the goal of gaining market share._
 - **To [[adapt]] or interpret to for a purpose or [[beneficiary]].**
-- **To tie, as in securing a line to a cleat; to shackle a [[chain]] to an [[anchor]]; make fast.**
+- **To tie, as in securing a line to a [[cleat]]; to shackle a [[chain]] to an [[anchor]]; make fast.**
 	- _Example: Bend the sail to the yard._
 - **To smoothly [[change]] the pitch of a note.**
 	- _Example: You should bend the G slightly sharp in the next measure._
@@ -32,10 +32,10 @@
 	- _Example: He had a natural bent for painting._
 - **A predisposition to [[act]] or react in a particular way.**
 	- _Example: His mind was of a technical bent._
-- **The state of [[being]] curved, crooked, or inclined from a straight line; flexure; curvity.**
+- **The state of [[being]] [[curved]], [[crooked]], or inclined from a straight line; flexure; [[curvity]].**
 	- _Example: the bent of a bow_
-- **A declivity or slope, as of a hill.**
-- **Particular direction or tendency; flexion; course.**
+- **A [[declivity]] or slope, as of a hill.**
+- **Particular direction or tendency; flexion; [[course]].**
 - **A transverse frame of a framed structure; a subunit of framing.**
 - **Tension; force of [[acting]]; energy; impetus.**
 ---
@@ -47,7 +47,7 @@
 - **Homosexual.**
 - **Determined or insistent.**
 	- _Example: He was bent on going to Texas, but not even he could say why._
-- **(Of a person) leading a life of crime.**
+- **(Of a person) leading a life of [[crime]].**
 - **Inaccurately [[aimed]]**
 	- _Example: That shot was so bent it left the pitch._
 - **Suffering from the [[bends]]**

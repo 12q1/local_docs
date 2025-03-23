@@ -1,6 +1,6 @@
 # Anthologizing
 ---
 #verb
-- **To compile, or include something in, an [[anthology]].**
+- **To [[compile]], or include something in, an [[anthology]].**
 ---
 ---

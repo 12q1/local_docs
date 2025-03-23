@@ -9,7 +9,7 @@
 - **A person, especially a male, who is dominant, successful and [[attractive]]; (see [[alpha]] male).**
 - **([[abbreviation]]) Alphabet.**
 - **The first versions of a program, usually only [[available]] to the developer, and only tested by the developer.**
-- **The level of translucency of a color, as determined by the [[alpha]] [[channel]].**
+- **The level of translucency of a [[color]], as determined by the [[alpha]] [[channel]].**
 - **The significance level of a statistical test; the [[alpha]] level.**
 - **In omegaverse fiction, a person of a sexually-dominant (and sometimes secondary) gender/sex that is driven by [[biology]], magic, or other means to [[bond]] with an omega, with males of this type often having [[canine]]-like genitalia.**
 ---

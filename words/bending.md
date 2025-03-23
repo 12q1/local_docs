@@ -1,9 +1,9 @@
 # Bending
 ---
 #verb
-- **To [[cause]] (something) to [[change]] its shape into a curve, by physical force, [[chemical]] [[action]], or [[any]] other means.**
+- **To [[cause]] (something) to [[change]] its shape into a [[curve]], by physical force, [[chemical]] [[action]], or [[any]] other means.**
 	- _Example: Don’t bend your knees._
-- **To [[become]] curved.**
+- **To [[become]] [[curved]].**
 	- _Example: Look at the trees bending in the wind._
 - **To [[cause]] to [[change]] direction.**
 - **To [[change]] direction.**
@@ -21,7 +21,7 @@
 - **To [[apply]] oneself to a task or purpose.**
 	- _Example: He bent to the goal of gaining market share._
 - **To [[adapt]] or interpret to for a purpose or [[beneficiary]].**
-- **To tie, as in securing a line to a cleat; to shackle a [[chain]] to an [[anchor]]; make fast.**
+- **To tie, as in securing a line to a [[cleat]]; to shackle a [[chain]] to an [[anchor]]; make fast.**
 	- _Example: Bend the sail to the yard._
 - **To smoothly [[change]] the pitch of a note.**
 	- _Example: You should bend the G slightly sharp in the next measure._

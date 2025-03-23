@@ -1,7 +1,7 @@
 # Blanker
 ---
 #adjective
-- **White or pale; without colour.**
+- **White or pale; without [[colour]].**
 - **Free from writing, printing, or marks; having an empty space to be filled in**
 	- _Example: a blank ballot_
 - **Scoreless; without [[any]] goals or points.**
@@ -11,7 +11,7 @@
 	- _Example: There was a look of blank terror on his face._
 - **Without expression.**
 	- _Example: Failing to understand the question, he gave me a blank stare._
-- **Utterly confounded or discomfited.**
+- **Utterly [[confounded]] or discomfited.**
 - **Empty; void; without result; fruitless.**
 	- _Example: a blank day_
 - **Devoid of thoughts, memory, or inspiration.**

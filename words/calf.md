@@ -1,9 +1,9 @@
 # Calf
 ---
 #noun
-- **A young cow or [[bull]].**
-- **Leather made of the skin of the [[calf]]; especially, a fine, light-coloured leather used in [[bookbinding]].**
-- **A young deer, elephant, seal, whale or giraffe ([[also]] used of some other [[animals]]).**
+- **A young [[cow]] or [[bull]].**
+- **Leather made of the skin of the [[calf]]; especially, a fine, light-[[coloured]] leather used in [[bookbinding]].**
+- **A young [[deer]], elephant, seal, whale or giraffe ([[also]] used of some other [[animals]]).**
 - **A [[chunk]] of ice [[broken]] from a larger glacier, ice shelf, or iceberg.**
 - **A small island, near a larger island.**
 	- _Example: the Calf of Man_

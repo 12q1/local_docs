@@ -5,6 +5,6 @@
 ---
 #adjective
 - **(pharmaceutical effect) Inhibiting the growth and reproduction of a virus.**
-- **Eliminating or inhibiting the [[action]] of a computer virus.**
+- **Eliminating or inhibiting the [[action]] of a [[computer]] virus.**
 ---
 ---

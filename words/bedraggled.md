@@ -5,6 +5,6 @@
 ---
 #adjective
 - **Wet and limp; unkempt.**
-- **Decaying, decrepit or dilapidated.**
+- **Decaying, [[decrepit]] or dilapidated.**
 ---
 ---

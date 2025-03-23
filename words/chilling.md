@@ -1,12 +1,12 @@
 # Chilling
 ---
 #verb
-- **To lower the temperature of something; to cool**
+- **To lower the temperature of something; to [[cool]]**
 	- _Example: Chill before serving._
-- **To [[become]] cold**
+- **To [[become]] [[cold]]**
 	- _Example: In the wind he chilled quickly._
-- **To harden a metal surface by sudden cooling**
-- **To [[become]] hard by rapid cooling**
+- **To harden a metal surface by sudden [[cooling]]**
+- **To [[become]] hard by rapid [[cooling]]**
 - **To relax, lie [[back]]**
 	- _Example: Chill, man, we've got a whole week to do it; no sense in getting worked up._
 - **To "hang", hang out; to spend time with [[another]] person or group. Also [[chill]] out.**
@@ -20,8 +20,8 @@
 - **The [[act]] by which something is [[chilled]].**
 ---
 #adjective
-- **Becoming cold.**
-- **Causing cold.**
+- **Becoming [[cold]].**
+- **Causing [[cold]].**
 - **Causing mild fear.**
 	- _Example: It was a chilling story, but the children enjoyed it._
 ---

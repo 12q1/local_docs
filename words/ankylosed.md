@@ -5,6 +5,6 @@
 - **To suffer from [[ankylosis]].**
 ---
 #adjective
-- **Stiffened or inflexible, with regard to the [[bones]] or joints; figuratively, stiff, cramped, rigid.**
+- **Stiffened or inflexible, with regard to the [[bones]] or joints; figuratively, stiff, [[cramped]], rigid.**
 ---
 ---

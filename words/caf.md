@@ -3,6 +3,6 @@
 #noun
 - **A [[caf]]é.**
 - **A [[cafeteria]].**
-- **A caffeinated coffee.**
+- **A caffeinated [[coffee]].**
 ---
 ---

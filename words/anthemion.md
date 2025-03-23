@@ -1,6 +1,6 @@
 # Anthemion
 ---
 #noun
-- **An ornamental design consisting of palmettes or lotus flowers.**
+- **An ornamental design [[consisting]] of palmettes or lotus flowers.**
 ---
 ---

@@ -1,9 +1,9 @@
 # Acknowledging
 ---
 #verb
-- **To [[admit]] the knowledge of; to recognize as a fact or truth; to declare one's [[belief]] in**
+- **To [[admit]] the knowledge of; to recognize as a fact or truth; to [[declare]] one's [[belief]] in**
 	- _Example: to acknowledge the being of a god_
-- **To own or recognize in a particular quality, [[character]] or relationship; to [[admit]] the claims or [[authority]] of; to give recognition to.**
+- **To own or recognize in a particular quality, [[character]] or relationship; to [[admit]] the [[claims]] or [[authority]] of; to give recognition to.**
 - **To be grateful of (e.g. a [[benefit]] or a favour)**
 	- _Example: to acknowledge a favor_
 - **To report (the receipt of a message to its sender).**

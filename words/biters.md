@@ -18,19 +18,19 @@
 - **The hold which the short end of a lever has upon the thing to be lifted, or the hold which one part of a machine has upon [[another]].**
 - **A [[cheat]]; a trick; a fraud.**
 - **A sharper; one who [[cheats]].**
-- **A [[blank]] on the edge or corner of a page, owing to a portion of the frisket, or something else, intervening [[between]] the type and paper.**
-- **A cut, a proportion of profits; an [[amount]] of money.**
+- **A [[blank]] on the edge or [[corner]] of a page, owing to a portion of the frisket, or something else, intervening [[between]] the type and paper.**
+- **A [[cut]], a proportion of profits; an [[amount]] of money.**
 ---
 ### Synonyms
 - [[mouthful]], [[snack]], [[sting]]
 #noun
 - **A fish that tends to take [[bait]].**
 - **A stone that [[barely]] touches the outside of the house.**
-- **One who copies someone else's work, style or techniques, especially in hip-hop.**
+- **One who [[copies]] someone else's work, style or techniques, especially in hip-hop.**
 - **A [[cheat]] or fraudster.**
 - **A zombie.**
 ---
 #noun
-- **(in combination) Something (a data unit, machine etc.) with a width of a specified [[amount]] of [[bits]].**
+- **(in [[combination]]) Something (a [[data]] unit, machine etc.) with a width of a specified [[amount]] of [[bits]].**
 ---
 ---

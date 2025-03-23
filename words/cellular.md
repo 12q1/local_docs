@@ -4,6 +4,6 @@
 - **A [[cellular]] phone (mobile phone).**
 ---
 #adjective
-- **Of, relating to, consisting of, or resembling a [[cell]] or [[cells]].**
+- **Of, relating to, [[consisting]] of, or resembling a [[cell]] or [[cells]].**
 ---
 ---

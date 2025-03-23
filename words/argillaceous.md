@@ -1,6 +1,6 @@
 # Argillaceous
 ---
 #adjective
-- **Pertaining to clay; made of, containing, or resembling clay**
+- **Pertaining to [[clay]]; made of, [[containing]], or resembling [[clay]]**
 ---
 ---

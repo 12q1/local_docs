@@ -1,6 +1,6 @@
 # Beaverboard
 ---
 #noun
-- **A form of fiberboard made of wood pulp compressed into sheets.**
+- **A form of fiberboard made of wood pulp [[compressed]] into sheets.**
 ---
 ---

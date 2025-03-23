@@ -1,7 +1,7 @@
 # Along
 ---
 #adverb
-- **In company; together.**
+- **In [[company]]; together.**
 	- _Example: John played the piano and everyone sang along._
 - **Onward, forward, with progressive [[action]].**
 	- _Example: Don't stop here. Just move along._

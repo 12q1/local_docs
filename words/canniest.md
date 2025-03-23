@@ -7,7 +7,7 @@
 	- _Example: The canny lawyer knew just how to get what he wanted._
 - **Frugal, thrifty.**
 	- _Example: canny investments_
-- **Pleasant, fair, favorable or [[agreeable]] to deal with.**
+- **Pleasant, fair, favorable or [[agreeable]] to [[deal]] with.**
 	- _Example: She's a canny lass hor like!_
 - **Gentle, quiet, steady.**
 	- _Example: a canny horse_

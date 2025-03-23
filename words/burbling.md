@@ -6,7 +6,7 @@
 	- _Example: She burbled on, as if I cared to listen._
 ---
 #verb
-- **To trouble or confuse.**
+- **To trouble or [[confuse]].**
 ---
 #noun
 - **A [[burble]], the sounds of a [[burble]].**

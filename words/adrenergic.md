@@ -1,7 +1,7 @@
 # Adrenergic
 ---
 #noun
-- **Any [[adrenergic]] compound**
+- **Any [[adrenergic]] [[compound]]**
 ---
 #adjective
 - **Having the quality of [[adrenaline]] or epinephrine.**

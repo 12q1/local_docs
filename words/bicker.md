@@ -3,8 +3,8 @@
 #noun
 - **A skirmish; an encounter.**
 - **A fight with stones [[between]] two parties of [[boys]].**
-- **A wrangle; [[also]], a noise, as in [[angry]] contention.**
-- **The process by which selective eating clubs at Princeton University [[choose]] new members.**
+- **A wrangle; [[also]], a noise, as in [[angry]] [[contention]].**
+- **The process by which selective eating [[clubs]] at Princeton University [[choose]] new members.**
 ---
 #verb
 - **To quarrel in a tiresome, insulting manner.**

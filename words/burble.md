@@ -1,7 +1,7 @@
 # Burble
 ---
 #noun
-- **A [[bubbling]], gurgling sound, as of a creek.**
+- **A [[bubbling]], gurgling sound, as of a [[creek]].**
 - **A gush of rapid speech.**
 - **The turbulent [[boundary]] layer [[about]] a moving streamlined [[body]].**
 ---

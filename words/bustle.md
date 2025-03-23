@@ -2,7 +2,7 @@
 ---
 #noun
 - **An excited [[activity]]; a stir.**
-- **A cover to protect and hide the [[back]] panel of a computer or other office machine.**
+- **A [[cover]] to protect and hide the [[back]] panel of a [[computer]] or other office machine.**
 - **A frame worn underneath a woman's skirt, typically only protruding from the rear as opposed to the earlier more [[circular]] hoops.**
 ---
 #verb

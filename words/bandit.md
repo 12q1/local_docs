@@ -5,7 +5,7 @@
 - **An outlaw.**
 - **One who [[cheats]] others.**
 - **An enemy [[aircraft]].**
-- **A runner who covertly joins a race without having registered as a participant.**
+- **A runner who [[covertly]] joins a race without having registered as a participant.**
 ---
 ### Synonyms
 - [[cheater]], [[criminal]], [[fugitive]], [[outlaw]]

@@ -10,10 +10,10 @@
 - **To mark distinctly for special treatment.**
 - **To set [[aside]], discount, ignore.**
 - **To take multiple images of the same subject, using a range of exposure settings, in order to help ensure that a satisfactory image is obtained.**
-- **(phenomenology) In the philosophical system of Edmund Husserl and his followers, to set [[aside]] metaphysical theories and existential questions concerning what is real in order to focus philosophical [[attention]] simply on the [[actual]] content of experience.**
+- **(phenomenology) In the philosophical system of Edmund Husserl and his followers, to set [[aside]] metaphysical theories and existential questions [[concerning]] what is real in order to focus philosophical [[attention]] simply on the [[actual]] [[content]] of experience.**
 ---
 #noun
-- **A series or group of [[brackets]]; [[brackets]], collectively.**
+- **A series or group of [[brackets]]; [[brackets]], [[collectively]].**
 - **The [[act]] of enclosing (text, etc.) in [[brackets]].**
 ---
 ---

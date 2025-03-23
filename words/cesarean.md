@@ -1,7 +1,7 @@
 # Cesarean
 ---
 #noun
-- **An inhabitant/citizen of Caesarea.**
+- **An inhabitant/[[citizen]] of Caesarea.**
 ---
 #adjective
 - **Of or relating to Caesarea.**

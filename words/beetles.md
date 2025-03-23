@@ -6,8 +6,8 @@
 ### Synonyms
 - [[Bug]]
 #noun
-- **Any of numerous species of insect in the order Coleoptera [[characterized]] by a pair of hard, shell-like front wings which cover and protect a pair of rear wings when at rest.**
-- **A game of [[chance]] in which players [[attempt]] to complete a drawing of a [[beetle]], different dice rolls [[allowing]] them to [[add]] the various [[body]] parts.**
+- **Any of numerous species of insect in the order Coleoptera [[characterized]] by a pair of hard, shell-like front wings which [[cover]] and protect a pair of rear wings when at rest.**
+- **A game of [[chance]] in which players [[attempt]] to [[complete]] a drawing of a [[beetle]], different dice rolls [[allowing]] them to [[add]] the various [[body]] parts.**
 ---
 ### Synonyms
 - [[bug]]
@@ -21,7 +21,7 @@
 ---
 #noun
 - **A type of mallet with a large wooden head, used to drive wedges, [[beat]] pavements, etc.**
-- **A machine in which fabrics are subjected to a hammering process while passing over rollers, as in cotton mills; a [[beetling]] machine.**
+- **A machine in which fabrics are subjected to a hammering process while passing over rollers, as in [[cotton]] mills; a [[beetling]] machine.**
 ---
 #verb
 - **To [[beat]] with a heavy mallet.**

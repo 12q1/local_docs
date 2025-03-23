@@ -7,6 +7,6 @@
 ### Synonyms
 - [[Burgundy wine]]
 #noun
-- **A dark red colour tinged with purple, like that of Burgundy (red) wine.**
+- **A [[dark]] red [[colour]] tinged with purple, like that of Burgundy (red) wine.**
 ---
 ---

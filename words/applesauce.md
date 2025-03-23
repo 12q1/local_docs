@@ -1,7 +1,7 @@
 # Applesauce
 ---
 #noun
-- **A food prepared by pureeing cooked [[apples]].**
+- **A food prepared by pureeing [[cooked]] [[apples]].**
 ---
 #noun
 - **(1920s) Nonsense, [[balderdash]], [[bunk]], piffle.**

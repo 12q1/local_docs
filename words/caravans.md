@@ -1,7 +1,7 @@
 # Caravans
 ---
 #noun
-- **A convoy or procession of travelers, their vehicles and [[cargo]], and [[any]] pack [[animals]], especially [[camels]] crossing a desert.**
+- **A [[convoy]] or procession of travelers, their vehicles and [[cargo]], and [[any]] pack [[animals]], especially [[camels]] [[crossing]] a desert.**
 - **A furnished vehicle towed [[behind]] a [[car]], etc., and used as a dwelling when stationary.**
 ---
 ### Synonyms

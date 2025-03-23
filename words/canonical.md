@@ -11,7 +11,7 @@
 - **Stated or used in the most [[basic]] and straightforwardly [[applicable]] manner.**
 	- _Example: the reduction of a linear substitution to its canonical form_
 - **Prototypical.**
-- **In conformity with [[canon]] law.**
+- **In [[conformity]] with [[canon]] law.**
 - **In the form of a [[canon]].**
 - **Of or pertaining to an ecclesiastical [[chapter]]**
 - **In [[canonical]] form.**

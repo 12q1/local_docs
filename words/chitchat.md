@@ -1,7 +1,7 @@
 # Chitchat
 ---
 #noun
-- **Light conversation; [[casual]] talk, usually [[about]] trivial matters.**
+- **Light [[conversation]]; [[casual]] talk, usually [[about]] trivial matters.**
 - **Gossip.**
 ---
 ### Synonyms

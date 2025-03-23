@@ -7,6 +7,6 @@
 	- _Example: His speech of acceptance was brief but moving._
 - **Occupying a small distance, [[area]] or spatial extent; short.**
 	- _Example: Her skirt was extremely brief but doubtless cool._
-- **Rife; common; prevalent.**
+- **Rife; [[common]]; prevalent.**
 ---
 ---

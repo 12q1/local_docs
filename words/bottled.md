@@ -1,11 +1,11 @@
 # Bottled
 ---
 #verb
-- **To seal (a liquid) into a [[bottle]] for later consumption. Also fig.**
+- **To seal (a liquid) into a [[bottle]] for later [[consumption]]. Also fig.**
 	- _Example: This plant bottles vast quantities of spring water every day._
 - **To feed (an infant) [[baby]] formula.**
 	- _Example: Because of complications she can't breast feed her baby and so she bottles him._
-- **To refrain from doing (something) at the last moment [[because]] of a sudden loss of courage.**
+- **To refrain from doing (something) at the last moment [[because]] of a sudden loss of [[courage]].**
 	- _Example: The rider bottled the big jump._
 - **To throw [[away]] a leading position.**
 	- _Example: Liverpool bottled the Premier League._

@@ -1,7 +1,7 @@
 # Boreal
 ---
 #adjective
-- **Of, relating to, or coming from the north.**
+- **Of, relating to, or [[coming]] from the north.**
 ---
 ### Synonyms
 - [[northern]], [[septentrional]]

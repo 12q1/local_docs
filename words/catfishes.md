@@ -6,7 +6,7 @@
 ### Synonyms
 - [[catlet]], [[sheat]], [[sheatfish]]
 #noun
-- **Someone who creates a fake profile on a social media platform in order to deceive people.**
+- **Someone who [[creates]] a fake profile on a social media platform in order to [[deceive]] people.**
 - **Such a fake profile.**
 ---
 ---

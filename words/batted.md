@@ -3,7 +3,7 @@
 #verb
 - **To hit with a [[bat]] or (figuratively) as if with a [[bat]].**
 	- _Example: He batted the ball away with a satisfying thwack._
-- **To take a turn at hitting a [[ball]] with a [[bat]] in sports like cricket, [[baseball]] and softball, as opposed to fielding.**
+- **To take a turn at hitting a [[ball]] with a [[bat]] in sports like [[cricket]], [[baseball]] and softball, as opposed to fielding.**
 - **To strike or swipe as though with a [[bat]].**
 	- _Example: The cat batted at the toy._
 ---

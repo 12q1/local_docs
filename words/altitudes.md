@@ -9,6 +9,6 @@
 - **The [[angular]] distance of a heavenly [[body]] [[above]] our Earth's horizon.**
 - **Height of rank or excellence; superiority.**
 - **(in the plural) Elevation of spirits; heroics; haughty [[airs]].**
-- **Highest point or degree.**
+- **Highest point or [[degree]].**
 ---
 ---

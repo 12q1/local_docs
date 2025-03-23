@@ -8,6 +8,6 @@
 ### Synonyms
 - [[blip]]
 #verb
-- **To [[change]] state [[abruptly]], such as [[between]] off and on or dark and light, sometimes implying motion.**
+- **To [[change]] state [[abruptly]], such as [[between]] off and on or [[dark]] and light, sometimes implying motion.**
 ---
 ---

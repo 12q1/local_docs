@@ -10,10 +10,10 @@
 - **To eat.**
 ---
 #noun
-- **A prefecture or district of the second rank in China, or the [[chief]] city of such a district.**
+- **A prefecture or district of the second rank in China, or the [[chief]] [[city]] of such a district.**
 ---
 #noun
-- **A run of three consecutive tiles of the same suit.**
+- **A run of three [[consecutive]] tiles of the same suit.**
 ---
 #verb
 - **To [[call]] a discarded tile to produce a [[chow]].**

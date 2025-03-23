@@ -1,7 +1,7 @@
 # Choruses
 ---
 #noun
-- **A group of singers and dancers in the religious festivals of [[ancient]] Greece.**
+- **A group of singers and [[dancers]] in the religious festivals of [[ancient]] Greece.**
 - **A group of people in a play or performance who recite together.**
 - **A group of singers; singing group who perform together.**
 	- _Example: The performance of the chorus was awe-inspiring and exhilarating._
@@ -13,7 +13,7 @@
 	- _Example: a chorus of crickets_
 - **The noise made by such a group.**
 	- _Example: a chorus of shouts and catcalls_
-- **An [[actor]] who reads the opening and closing lines of a play.**
+- **An [[actor]] who reads the opening and [[closing]] lines of a play.**
 ---
 ### Synonyms
 - [[refrain]]
@@ -24,7 +24,7 @@
 - **To sing the [[chorus]] (of a song).**
 - **To speak as if in [[chorus]] ([[about]] something).**
 - **To echo in unison [[another]] person's words.**
-- **(of [[animals]]) To make their cry together.**
+- **(of [[animals]]) To make their [[cry]] together.**
 ---
 ### Synonyms
 - [[duet]]

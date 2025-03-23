@@ -1,6 +1,6 @@
 # Carious
 ---
 #adjective
-- **Having [[caries]] ([[bone]] or tooth decay); decayed, rotten.**
+- **Having [[caries]] ([[bone]] or tooth [[decay]]); [[decayed]], rotten.**
 ---
 ---

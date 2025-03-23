@@ -9,6 +9,6 @@
 ### Synonyms
 - [[dough]], [[folding stuff]], [[lolly]], [[paper]], [[spondulicks]], [[wonga]]
 #verb
-- **To coat with breadcrumbs**
+- **To [[coat]] with breadcrumbs**
 ---
 ---

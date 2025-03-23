@@ -1,7 +1,7 @@
 # Beggarly
 ---
 #adjective
-- **In the manner of a [[beggar]]; poverty-stricken; mean; poor; contemptible.**
+- **In the manner of a [[beggar]]; poverty-stricken; mean; poor; [[contemptible]].**
 	- _Example: beggarly fellow_
 - **Fit for a [[beggar]]; occasioned by [[begging]].**
 	- _Example: beggarly rags_

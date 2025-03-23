@@ -2,7 +2,7 @@
 ---
 #noun
 - **A person who oversees and directs the work of others; a supervisor.**
-- **A person in [[charge]] of a [[business]] or company.**
+- **A person in [[charge]] of a [[business]] or [[company]].**
 	- _Example: Chat turned to whisper when the boss entered the conference room._
 - **A leader, the head of an organized group or team.**
 	- _Example: They named him boss because he had good leadership skills._
@@ -17,7 +17,7 @@
 ### Synonyms
 - [[employer]], [[gov]], [[guv]], [[guvnor]], [[mate]], [[head]], [[leader]], [[leader]], [[line manager]], [[manager]], [[supervisor]]
 #verb
-- **To exercise [[authoritative]] control over; to tell (someone) what to do, often repeatedly.**
+- **To exercise [[authoritative]] [[control]] over; to tell (someone) what to do, often repeatedly.**
 ---
 ### Synonyms
 - [[boss around]], [[lord over]]

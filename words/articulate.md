@@ -5,7 +5,7 @@
 ---
 #adjective
 - **Clear; effective.**
-- **Speaking in a clear and effective manner.**
+- **Speaking in a [[clear]] and effective manner.**
 	- _Example: She’s a bright, articulate young woman._
 - **Consisting of segments united by joints.**
 	- _Example: The robot arm was articulate in two directions._

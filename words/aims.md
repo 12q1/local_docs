@@ -1,7 +1,7 @@
 # Aims
 ---
 #noun
-- **The pointing of a weapon, as a gun, a dart, or an [[arrow]], or object, in the line of direction with the object intended to be struck; the line of fire; the direction of [[anything]], such as a spear, a [[blow]], a discourse, a remark, towards a particular point or object, with a view to strike or [[affect]] it.**
+- **The pointing of a weapon, as a gun, a [[dart]], or an [[arrow]], or object, in the line of direction with the object intended to be struck; the line of fire; the direction of [[anything]], such as a spear, a [[blow]], a discourse, a remark, towards a particular point or object, with a view to strike or [[affect]] it.**
 	- _Example: Take time with the aim of your gun._
 - **The point intended to be hit, or object intended to be [[attained]] or [[affected]].**
 - **Intention or goal**
@@ -21,6 +21,6 @@
 	- _Example: She aimed a punch at her ex-boyfriend._
 - **To direct (something verbal) towards a [[certain]] person, thing, or group**
 	- _Example: to aim a satirical comment at Communists in general_
-- **To guess or conjecture.**
+- **To guess or [[conjecture]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Calendars
 ---
 #noun
-- **Any system by which time is divided into days, weeks, months, and years.**
+- **Any system by which time is divided into [[days]], weeks, months, and years.**
 	- _Example: The three principal calendars are the Gregorian, Jewish, and Islamic calendars._
-- **A means to determine the date consisting of a document containing dates and other temporal information.**
+- **A means to determine the [[date]] [[consisting]] of a document [[containing]] [[dates]] and other temporal information.**
 	- _Example: Write his birthday on the calendar hanging on the wall._
 - **A list of planned events.**
 	- _Example: The club has a busy calendar this year._
@@ -14,7 +14,7 @@
 ### Synonyms
 - [[agenda]], [[calends]], [[docket]], [[schedule]]
 #verb
-- **To set a date for a proceeding in court, usually done by a judge at a [[calendar]] [[call]].**
+- **To set a [[date]] for a proceeding in [[court]], usually done by a judge at a [[calendar]] [[call]].**
 	- _Example: The judge agreed to calendar a hearing for pretrial motions for the week of May 15, but did not agree to calendar the trial itself on a specific date._
 - **To enter or write in a [[calendar]]; to register.**
 ---

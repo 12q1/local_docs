@@ -9,8 +9,8 @@
 - **Any place full of [[activity]], or in which people are very [[busy]].**
 - **A women's hairstyle, popular in the 1960s, in which long hair is styled into a hive-shaped form on top of the head and usually held in place with lacquer.**
 - **A particular style of hat.**
-- **A type of [[anti]]-personnel [[ammunition]] round containing flechettes, and [[characterised]] by the [[buzzing]] sound made as they fly through the [[air]].**
-- **In Conway's Game of Life, a particular still life configuration with a rounded [[appearance]].**
+- **A type of [[anti]]-personnel [[ammunition]] round [[containing]] flechettes, and [[characterised]] by the [[buzzing]] sound made as they fly through the [[air]].**
+- **In Conway's Game of Life, a particular still life [[configuration]] with a rounded [[appearance]].**
 ---
 ### Synonyms
 - [[B-52]], [[hive]], [[skep]], [[hive of activity]]

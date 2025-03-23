@@ -1,8 +1,8 @@
 # Bills
 ---
 #noun
-- **Any of various [[bladed]] or pointed hand weapons, originally designating an Anglo-Saxon sword, and later a weapon of infantry, especially in the 14th and 15th [[centuries]], commonly consisting of a [[broad]], heavy, double-edged, hook-shaped [[blade]], with a short pike at the [[back]] and [[another]] at the top, [[attached]] to the end of a long staff.**
-- **A cutting instrument, with hook-shaped point, and fitted with a handle, used in pruning, etc.; a [[billhook]].**
+- **Any of various [[bladed]] or pointed hand weapons, originally designating an Anglo-Saxon sword, and later a weapon of infantry, especially in the 14th and 15th [[centuries]], [[commonly]] [[consisting]] of a [[broad]], heavy, double-edged, hook-shaped [[blade]], with a short pike at the [[back]] and [[another]] at the top, [[attached]] to the end of a long staff.**
+- **A [[cutting]] instrument, with hook-shaped point, and fitted with a handle, used in pruning, etc.; a [[billhook]].**
 - **Somebody [[armed]] with a [[bill]]; a [[billman]].**
 - **A pickaxe, or mattock.**
 - **The extremity of the [[arm]] of an [[anchor]]; the point of or [[beyond]] the fluke ([[also]] [[called]] the peak).**
@@ -27,11 +27,11 @@
 - **A written list or inventory. (Now obsolete except in specific senses or set phrases; [[bill]] of lading, [[bill]] of goods, etc.)**
 - **A document, originally sealed; a formal statement or official memorandum. (Now obsolete except with [[certain]] qualifying words; [[bill]] of health, [[bill]] of sale etc.)**
 - **A draft of a law, presented to a legislature for enactment; a proposed or projected law.**
-- **A declaration made in writing, stating some wrong the complainant has suffered from the defendant, or a fault committed by some person [[against]] a law.**
+- **A [[declaration]] made in writing, stating some wrong the [[complainant]] has suffered from the [[defendant]], or a fault [[committed]] by some person [[against]] a law.**
 - **A piece of paper money; a [[banknote]].**
 - **A written note of goods sold, services rendered, or work done, with the price or [[charge]]; an invoice.**
 - **A paper, written or printed, and posted up or given [[away]], to [[advertise]] something, as a lecture, a play, or the sale of goods**
-- **A writing [[binding]] the signer or signers to pay a [[certain]] sum at a future day or on demand, with or without interest, as may be stated in the document; a [[bill]] of exchange. In the United States, it is usually [[called]] a note, a note of hand, or a promissory note.**
+- **A writing [[binding]] the signer or signers to pay a [[certain]] sum at a future [[day]] or on demand, with or without interest, as may be stated in the document; a [[bill]] of exchange. In the United States, it is usually [[called]] a note, a note of hand, or a promissory note.**
 - **A set of items presented together.**
 ---
 ### Synonyms

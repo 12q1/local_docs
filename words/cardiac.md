@@ -9,7 +9,7 @@
 - **Pertaining to the heart.**
 	- _Example: the cardiac arteries_
 - **Pertaining to the [[cardia]].**
-- **Exciting [[action]] in the heart, through the medium of the stomach; cordial; stimulant.**
+- **Exciting [[action]] in the heart, through the medium of the stomach; [[cordial]]; stimulant.**
 ---
 ### Antonyms
 - [[noncardiac]]

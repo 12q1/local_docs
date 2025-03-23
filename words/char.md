@@ -7,7 +7,7 @@
 - [[charcoal]]
 #verb
 - **To [[burn]] something to [[charcoal]].**
-- **To [[burn]] slightly or superficially so as to [[affect]] colour.**
+- **To [[burn]] slightly or superficially so as to [[affect]] [[colour]].**
 ---
 ### Synonyms
 - [[blacken]], [[scorch]], [[sear]], [[singe]], [[coal]]

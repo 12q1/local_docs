@@ -2,7 +2,7 @@
 ---
 #noun
 - **Act of waiting; delay.**
-- **Stay or continuance in a place; sojourn.**
+- **Stay or [[continuance]] in a place; sojourn.**
 - **A residence, dwelling or habitation.**
 	- _Example: of no fixed abode_
 ---

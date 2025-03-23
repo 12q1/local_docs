@@ -1,6 +1,6 @@
 # Cirriped
 ---
 #noun
-- **Any [[barnacle]] or similar crustacean of the infraclass Cirripedia.**
+- **Any [[barnacle]] or similar [[crustacean]] of the infraclass Cirripedia.**
 ---
 ---

@@ -21,9 +21,9 @@
 - **The expressive emphasis and shading of a passage.**
 - **A mark used to represent specific stress on a note.**
 - **A mark placed at the right hand of a letter, and a little [[above]] it, to distinguish magnitudes of a similar kind expressed by the same letter, but differing in value, as y', y''.**
-- **A mark at the right hand of a number, indicating minutes of a degree, seconds, etc., as in 12' 27'', meaning twelve minutes and twenty-seven seconds.**
+- **A mark at the right hand of a number, indicating minutes of a [[degree]], seconds, etc., as in 12' 27'', meaning twelve minutes and twenty-seven seconds.**
 - **A mark used to denote feet and inches, as in 6' 10'', meaning six feet ten inches.**
-- **Emphasis laid on a part of an [[artistic]] design or composition; an emphasized detail, in particular a detail in sharp contrast to its surroundings.**
+- **Emphasis laid on a part of an [[artistic]] design or [[composition]]; an emphasized detail, in particular a detail in sharp [[contrast]] to its surroundings.**
 - **A very small gemstone set into a piece of jewellery.**
 - **A distinctive feature or quality.**
 - **Utterance.**

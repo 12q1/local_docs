@@ -4,7 +4,7 @@
 - **To raise [[blisters]] on.**
 	- _Example: a chemical agent that blisters the skin_
 - **To have a [[blister]] form.**
-- **To criticise severely.**
+- **To [[criticise]] severely.**
 - **To [[break]] out in [[blisters]].**
 ---
 ### Synonyms
@@ -15,7 +15,7 @@
 #adjective
 - **Causing [[blisters]]**
 - **Very hot**
-- **Harsh or corrosive**
+- **Harsh or [[corrosive]]**
 - **Scornful**
 - **Very fast**
 ---

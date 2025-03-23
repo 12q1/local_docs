@@ -6,7 +6,7 @@
 - **Ammunition for a sling or slingshot which has [[been]] manufactured for such use.**
 - **A printed symbol in the form of a solid [[circle]], (•), often used in lieu of numbers for marking items in a list. (see [[also]] [[bulleted]])**
 - **A large scheduled repayment of the principal of a loan; a [[balloon]] payment.**
-- **A rejection letter, as for employment, [[admission]] to a school or a competition.**
+- **A rejection letter, as for employment, [[admission]] to a school or a [[competition]].**
 	- _Example: John's not going to any of his top schools; he got a bullet from the last of them yesterday._
 - **One year of prison time**
 - **An [[ace]] (the playing [[card]]).**
@@ -15,7 +15,7 @@
 	- _Example: bullet chess_
 - **A plumb or sinker.**
 - **(particularly in Northern Ireland) The heavy projectile thrown in a game of road [[bowling]].**
-- **A roughly [[bullet]]-shaped sweet consisting of a [[cylinder]] of liquorice covered in [[chocolate]].**
+- **A roughly [[bullet]]-shaped sweet [[consisting]] of a [[cylinder]] of liquorice [[covered]] in [[chocolate]].**
 - **A small [[ball]].**
 - **A [[cannonball]].**
 - **The fetlock of a horse.**

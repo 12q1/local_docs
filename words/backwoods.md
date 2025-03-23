@@ -6,7 +6,7 @@
 ---
 #adjective
 - **Pertaining to the [[backwoods]].**
-- **Rough, uncouth, coarse, or crude in social matters.**
+- **Rough, uncouth, [[coarse]], or [[crude]] in social matters.**
 ---
 ### Synonyms
 - [[backwood]]

@@ -1,7 +1,7 @@
 # Budgeting
 ---
 #verb
-- **To construct or draw up a [[budget]].**
+- **To [[construct]] or draw up a [[budget]].**
 	- _Example: Budgeting is even harder in times of recession_
 - **To provide funds, [[allow]] for in a [[budget]].**
 	- _Example: The PM’s pet projects are budgeted rather generously_
@@ -9,6 +9,6 @@
 	- _Example: The prestigious building project is budgeted in great detail, from warf facilities to the protocollary opening._
 ---
 #noun
-- **The [[activity]] of constructing a [[budget]].**
+- **The [[activity]] of [[constructing]] a [[budget]].**
 ---
 ---

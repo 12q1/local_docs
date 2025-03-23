@@ -8,6 +8,6 @@
 ---
 #verb
 - **To make mention of in [[ballads]].**
-- **To compose or sing [[ballads]].**
+- **To [[compose]] or sing [[ballads]].**
 ---
 ---

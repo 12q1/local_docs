@@ -1,7 +1,7 @@
 # Airmail
 ---
 #noun
-- **The system of conveying mail using [[aircraft]].**
+- **The system of [[conveying]] mail using [[aircraft]].**
 - **The items of mail so [[carried]].**
 ---
 #verb

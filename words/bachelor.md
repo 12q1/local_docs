@@ -2,8 +2,8 @@
 ---
 #noun
 - **A person, especially a man, who is socially regarded as [[able]] to marry, but has not yet.**
-- **The first or lowest [[academical]] degree conferred by universities and colleges; a [[bachelor]]'s degree.**
-- **Someone who has [[achieved]] a [[bachelor]]'s degree.**
+- **The first or lowest [[academical]] [[degree]] [[conferred]] by universities and [[colleges]]; a [[bachelor]]'s [[degree]].**
+- **Someone who has [[achieved]] a [[bachelor]]'s [[degree]].**
 - **A [[bachelor]] [[apartment]].**
 - **An unmarried woman.**
 - **A knight who had no standard of his own, but fought under the standard of [[another]] in the field.**

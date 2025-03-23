@@ -1,0 +1,74 @@
+# Clearest
+---
+#verb
+- **To remove obstructions, impediments or other unwanted items from.**
+	- _Example: If you clear the table, I'll wash up._
+- **To remove (items or material) so as to leave something unobstructed or open.**
+	- _Example: Please clear all this stuff off the table._
+- **To [[become]] free from obstruction or obscurement; to [[become]] transparent.**
+	- _Example: After a heavy rain, the sky cleared nicely for the evening._
+- **To eliminate [[ambiguity]] or doubt from (a matter); to [[clarify]] or resolve; to [[clear]] up.**
+	- _Example: We need to clear this issue once and for all._
+- **To remove from suspicion, especially of having [[committed]] a [[crime]].**
+	- _Example: The court cleared the man of murder._
+- **To pass without interference; to miss.**
+	- _Example: The door just barely clears the table as it closes._
+- **([[activities]] such as jumping or throwing) To exceed a stated mark.**
+	- _Example: She was the first female high jumper to clear two metres._
+- **To finish or [[complete]] (a stage, [[challenge]], or game).**
+	- _Example: I cleared the first level in 36 seconds._
+- **Of a [[check]] or financial transaction, to go through as payment; to be processed so that the money is transferred.**
+	- _Example: The check might not clear for a couple of days._
+- **To earn a profit of; to net.**
+	- _Example: He's been clearing seven thousand a week._
+- **To [[approve]] or [[authorise]] for a particular purpose or [[action]]; to give [[clearance]] to.**
+	- _Example: Air traffic control cleared the plane to land._
+- **To obtain [[approval]] or [[authorisation]] in respect of.**
+	- _Example: I've cleared the press release with the marketing department, so go ahead and publish it._
+- **To obtain a [[clearance]].**
+	- _Example: The steamer cleared for Liverpool today._
+- **To obtain permission to use (a sample of [[copyrighted]] [[audio]]) in [[another]] track.**
+- **To disengage oneself from incumbrances, distress, or entanglements; to [[become]] free.**
+- **To hit, kick, head, punch etc. (a [[ball]], puck) [[away]] in order to [[defend]] one's goal.**
+	- _Example: A low cross came in, and Smith cleared._
+- **To reset or unset; to return to an empty state or to zero.**
+	- _Example: to clear an array;  to clear a single bit (binary digit) in a value_
+- **To style (an element within a document) so that it is not permitted to float at a given position.**
+---
+### Synonyms
+- [[stub]]
+#adjective
+- **Transparent in [[colour]].**
+	- _Example: as clear as crystal_
+- **Bright, not [[dark]] or obscured.**
+	- _Example: Congress passed the President’s Clear Skies legislation._
+- **Free of obstacles.**
+	- _Example: The coast is clear._
+- **Without [[clouds]].**
+	- _Example: clear weather; a clear day_
+- **Of the sky, such that less than one eighth of its [[area]] is obscured by [[clouds]].**
+- **Free of [[ambiguity]] or doubt.**
+	- _Example: Do I make myself clear? Crystal clear._
+- **Distinct, sharp, well-marked.**
+- **Free of guilt, or suspicion.**
+	- _Example: a clear conscience_
+- **(of a soup) Without a thickening ingredient.**
+- **Possessing little or no perceptible stimulus.**
+	- _Example: clear of texture;  clear of odor_
+- **Free from the influence of engrams; see Clear (Scientology).**
+- **Able to perceive [[clearly]]; keen; [[acute]]; penetrating; discriminating.**
+	- _Example: a clear intellect; a clear head_
+- **Not [[clouded]] with passion; serene; [[cheerful]].**
+- **Easily or distinctly heard; [[audible]].**
+- **Unmixed; entirely pure.**
+	- _Example: clear sand_
+- **Without [[defects]] or [[blemishes]], such as freckles or knots.**
+	- _Example: a clear complexion; clear lumber_
+- **Without diminution; in full; net.**
+	- _Example: a clear profit_
+---
+### Synonyms
+- [[pellucid]], [[transparent]], [[homogeneous]], [[conspicuous]]
+### Antonyms
+- [[thick]], [[opaque]], [[turbid]], [[cloudy]], [[nebulous]], [[obscure]]
+---

@@ -1,7 +1,7 @@
 # Beers
 ---
 #noun
-- **An [[alcoholic]] drink fermented from starch material, commonly [[barley]] malt, often with hops or some other substance to impart a [[bitter]] flavor.**
+- **An [[alcoholic]] drink fermented from starch material, [[commonly]] [[barley]] malt, often with hops or some other substance to impart a [[bitter]] flavor.**
 	- _Example: Beer is brewed all over the world._
 - **A fermented extract of the roots and other parts of various plants, as spruce, ginger, sassafras, etc.**
 - **A solution produced by steeping plant materials in water or [[another]] fluid.**

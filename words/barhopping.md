@@ -1,6 +1,6 @@
 # Barhopping
 ---
 #verb
-- **To drink at a number of [[bars]] during a single day or evening.**
+- **To drink at a number of [[bars]] during a single [[day]] or evening.**
 ---
 ---

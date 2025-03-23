@@ -2,7 +2,7 @@
 ---
 #noun
 - **The whole duration of a [[being]], whether [[animal]], plant, or other kind, [[being]] [[alive]].**
-- **The number of full years, months, days, hours, etc., that someone, or something, has [[been]] [[alive]].**
+- **The number of full years, months, [[days]], hours, etc., that someone, or something, has [[been]] [[alive]].**
 - **One of the stages of life.**
 	- _Example: the age of infancy_
 - **The time of life at which some particular power or [[capacity]] is understood to [[become]] vested.**
@@ -18,7 +18,7 @@
 - **A long time.**
 	- _Example: It’s been an age since we last saw you._
 - **A unit of geologic time subdividing an epoch into smaller parts.**
-- **The right of the player to the left of the dealer to pass the first round in [[betting]], and then to come in last or stay out; [[also]], the player holding this position; the eldest hand.**
+- **The right of the player to the left of the [[dealer]] to pass the first round in [[betting]], and then to [[come]] in last or stay out; [[also]], the player holding this position; the eldest hand.**
 - **That part of the duration of a [[being]] or a thing which is [[between]] its [[beginning]] and [[any]] given time; specifically the size of that part.**
 	- _Example: What is the present age of a man, or of the earth?_
 - **Mature [[age]]; especially, the time of life at which one [[attains]] full personal rights and [[capacities]].**
@@ -31,7 +31,7 @@
 #verb
 - **To [[cause]] to grow old; to impart the [[characteristics]] of [[age]] to.**
 	- _Example: Grief ages us._
-- **To postpone an [[action]] that would extinguish something, as a debt.**
+- **To postpone an [[action]] that would extinguish something, as a [[debt]].**
 	- _Example: Money's a little tight right now, let's age our bills for a week or so._
 - **To [[categorize]] by [[age]].**
 	- _Example: One his first assignments was to age the accounts receivable._

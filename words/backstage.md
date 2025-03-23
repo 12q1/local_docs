@@ -6,7 +6,7 @@
 ---
 #adjective
 - **Relating to, or situated in the [[area]] [[behind]] a stage.**
-- **Secret, concealed from the public.**
+- **Secret, [[concealed]] from the public.**
 ---
 #adverb
 - **Towards the [[area]] [[behind]] the stage.**

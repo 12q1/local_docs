@@ -4,7 +4,7 @@
 - **A person or object that [[carries]] someone or something else.**
 	- _Example: aircraft carrier_
 - **A [[carrier]] pigeon.**
-- **A person or company in the [[business]] of shipping freight.**
+- **A person or [[company]] in the [[business]] of shipping freight.**
 - **A signal such as radio, sound, or light that is modulated to transmit information.**
 - **A mobile network operator; wireless [[carrier]].**
 - **A [[certified]] [[airline]].**

@@ -1,22 +1,22 @@
 # Bumps
 ---
 #noun
-- **A light [[blow]] or jolting collision.**
-- **The sound of such a collision.**
+- **A light [[blow]] or jolting [[collision]].**
+- **The sound of such a [[collision]].**
 - **A protuberance on a level surface.**
 - **A swelling on the skin [[caused]] by illness or injury.**
-- **One of the protuberances on the cranium which, in phrenology, are [[associated]] with distinct faculties or [[affections]] of the mind. Also (metonymically) the faculty itself**
+- **One of the protuberances on the [[cranium]] which, in phrenology, are [[associated]] with distinct faculties or [[affections]] of the mind. Also (metonymically) the faculty itself**
 	- _Example: the bump of veneration; the bump of acquisitiveness_
 - **The point, in a race in which [[boats]] are spaced [[apart]] at the start, at which a [[boat]] [[begins]] to overtake the [[boat]] [[ahead]].**
 - **The swollen [[abdomen]] of a pregnant woman.**
 - **A post in an Internet forum thread made in order to raise the thread's profile by returning it to the top of the list of [[active]] threads.**
 - **A temporary increase in a quantity, as shown in a graph.**
 	- _Example: US presidential nominees get a post-convention bump in survey ratings._
-- **A dose of a drug such as ketamine or cocaine, when snorted recreationally.**
+- **A dose of a drug such as ketamine or [[cocaine]], when snorted recreationally.**
 - **The noise made by the [[bittern]]; a [[boom]].**
-- **(preceded by definite [[article]]) A disco dance in which partners rhythmically [[bump]] each other's hips together.**
-- **In skipping, a single jump over two consecutive turns of the rope.**
-- **A coarse cotton fabric.**
+- **(preceded by [[definite]] [[article]]) A disco [[dance]] in which partners rhythmically [[bump]] each other's hips together.**
+- **In skipping, a single jump over two [[consecutive]] turns of the rope.**
+- **A [[coarse]] [[cotton]] fabric.**
 - **A training match for a fighting dog.**
 - **The jaw of either of the middle pockets.**
 - **Music, especially played over speakers at loud volume with strong [[bass]] frequency response.**

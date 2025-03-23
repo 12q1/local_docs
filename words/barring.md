@@ -12,11 +12,11 @@
 ### Synonyms
 - [[block]], [[hinder]], [[obstruct]], [[ban]], [[interdict]], [[prohibit]]
 #noun
-- **(collective) Bars; an [[arrangement]] or pattern of stripes or [[bars]].**
-- **The [[act]] of fitting or closing something with [[bars]].**
+- **([[collective]]) Bars; an [[arrangement]] or pattern of stripes or [[bars]].**
+- **The [[act]] of fitting or [[closing]] something with [[bars]].**
 - **The exclusion of someone; [[blackballing]].**
 - **Timber used for supporting the roof or sides of shafts.**
-- **The sewing of a decorative [[bar]] or tack upon a fabric or leather.**
+- **The sewing of a [[decorative]] [[bar]] or tack upon a fabric or leather.**
 ---
 ### Synonyms
 - [[tacking]]

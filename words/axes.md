@@ -1,8 +1,8 @@
 # Axes
 ---
 #noun
-- **A tool for felling trees or [[chopping]] wood etc. consisting of a heavy head flattened to a [[blade]] on one side, and a handle [[attached]] to it.**
-- **An [[ancient]] weapon consisting of a head that has one or two [[blades]] and a long handle.**
+- **A tool for felling trees or [[chopping]] wood etc. [[consisting]] of a heavy head flattened to a [[blade]] on one side, and a handle [[attached]] to it.**
+- **An [[ancient]] weapon [[consisting]] of a head that has one or two [[blades]] and a long handle.**
 - **A dismissal or rejection.**
 	- _Example: His girlfriend/boss/schoolmaster gave him the axe._
 - **A gigging musician's particular instrument, especially a guitar in rock music or a saxophone in jazz.**

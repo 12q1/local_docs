@@ -2,7 +2,7 @@
 ---
 #noun
 - **Grief, sorrow.**
-- **Close [[attention]]; concern; responsibility.**
+- **Close [[attention]]; [[concern]]; responsibility.**
 	- _Example: Care should be taken when holding babies._
 - **Worry.**
 	- _Example: I don't have a care in the world._

@@ -1,9 +1,9 @@
 # Atom
 ---
 #noun
-- **The smallest possible [[amount]] of matter which still retains its identity as a [[chemical]] element, now known to consist of a nucleus surrounded by electrons.**
-- **(history of science) A hypothetical particle posited by Greek philosophers as an ultimate and indivisible component of matter.**
-- **The smallest, indivisible constituent part or unit of something.**
+- **The smallest possible [[amount]] of matter which still retains its identity as a [[chemical]] element, now known to [[consist]] of a nucleus surrounded by electrons.**
+- **(history of science) A hypothetical particle posited by Greek philosophers as an ultimate and indivisible [[component]] of matter.**
+- **The smallest, indivisible [[constituent]] part or unit of something.**
 - **In logical [[atomism]], a fundamental fact that [[cannot]] be further [[broken]] down.**
 - **The smallest medieval unit of time, equal to fifteen ninety-fourths of a second.**
 - **A mote of dust in a sunbeam.**

@@ -1,7 +1,7 @@
 # Chuff
 ---
 #noun
-- **A coarse or stupid fellow.**
+- **A [[coarse]] or stupid fellow.**
 ---
 #adjective
 - **Surly; [[annoyed]]; displeased; disgruntled.**

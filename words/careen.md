@@ -4,7 +4,7 @@
 - **The position of a ship laid on one side.**
 ---
 #verb
-- **To heave a ship down on one side so as to expose the other, in order to clean it of [[barnacles]] and weed, or to repair it [[below]] the water line.**
+- **To heave a ship down on one side so as to expose the other, in order to [[clean]] it of [[barnacles]] and weed, or to repair it [[below]] the water line.**
 - **To tilt on one side.**
 - **To lurch or sway violently from side to side.**
 - **To tilt or lean while in motion.**

@@ -18,6 +18,6 @@
 #adjective
 - **(of a set) That [[can]] be enclosed within a [[ball]] of finite radius.**
 	- _Example: A compact set must be bounded._
-- **(of a poset X with partial order ≤) That contains a least element, a, and a greatest element, [[b]], such that for [[all]] x ∈ X, a ≤ x ≤ [[b]].**
+- **(of a poset X with partial order ≤) That [[contains]] a least element, a, and a greatest element, [[b]], such that for [[all]] x ∈ X, a ≤ x ≤ [[b]].**
 ---
 ---

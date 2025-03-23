@@ -1,7 +1,7 @@
 # Beforehand
 ---
 #adjective
-- **In comfortable [[circumstances]] as regards property; forehanded.**
+- **In [[comfortable]] [[circumstances]] as regards property; forehanded.**
 - **(often followed by with) In a state of [[anticipation]] or preoccupation.**
 ---
 #adverb

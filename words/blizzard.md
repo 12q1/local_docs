@@ -7,6 +7,6 @@
 	- _Example: a blizzard of political ads_
 ---
 #verb
-- **(of snow) To fall in windy conditions.**
+- **(of snow) To fall in windy [[conditions]].**
 ---
 ---

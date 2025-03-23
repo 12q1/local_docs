@@ -7,6 +7,6 @@
 - **To put forth or have a [[blade]].**
 - **To stab with a [[blade]]**
 	- _Example: The gang member got bladed in a fight._
-- **To cut (a person) so as to provoke [[bleeding]].**
+- **To [[cut]] (a person) so as to provoke [[bleeding]].**
 ---
 ---

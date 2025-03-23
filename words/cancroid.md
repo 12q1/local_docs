@@ -5,7 +5,7 @@
 - **Squamous [[cell]] [[carcinoma]]**
 ---
 #adjective
-- **Resembling a crab**
+- **Resembling a [[crab]]**
 - **Of or pertaining to [[cancer]], especially to squamous [[cell]] [[carcinoma]]**
 ---
 ---

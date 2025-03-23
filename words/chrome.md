@@ -2,8 +2,8 @@
 ---
 #noun
 - **Chromium, when used to plate other metals.**
-- **The [[basic]] structural elements used in a graphical user interface, such as window frames and scroll [[bars]], as opposed to the content.**
-- **Handguns (collectively)**
+- **The [[basic]] structural elements used in a graphical user interface, such as window frames and scroll [[bars]], as opposed to the [[content]].**
+- **Handguns ([[collectively]])**
 ---
 ### Synonyms
 - [[chromium]]

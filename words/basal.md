@@ -11,7 +11,7 @@
 	- _Example: In the spring, basal leaves emerge from a stout taproot._
 - **Of a minimal level that is necessary for maintaining the health or life of an organism.**
 	- _Example: a basal diet_
-- **In a phylogenetic tree, [[being]] a group, or member of a group, which diverged earlier. The earliest clade to [[branch]] in a larger clade.**
+- **In a phylogenetic tree, [[being]] a group, or member of a group, which diverged earlier. The earliest [[clade]] to [[branch]] in a larger [[clade]].**
 	- _Example: A magnolia is a basal angiosperm._
 ---
 ### Synonyms

@@ -1,25 +1,25 @@
 # Chill
 ---
 #noun
-- **A moderate, but uncomfortable and penetrating coldness.**
+- **A moderate, but uncomfortable and penetrating [[coldness]].**
 	- _Example: There was a chill in the air._
-- **A sudden penetrating sense of cold, especially one that [[causes]] a [[brief]] trembling nerve response through the [[body]]; the trembling response itself; often [[associated]] with illness: fevers and [[chills]], or susceptibility to illness.**
+- **A sudden penetrating sense of [[cold]], especially one that [[causes]] a [[brief]] trembling nerve response through the [[body]]; the trembling response itself; often [[associated]] with illness: fevers and [[chills]], or susceptibility to illness.**
 	- _Example: Close the window or you'll catch a chill.   I felt a chill when the wind picked up._
-- **An uncomfortable and numbing sense of fear, dread, [[anxiety]], or [[alarm]], often one that is sudden and usually [[accompanied]] by a trembling nerve response resembling the [[body]]'s response to [[biting]] cold.**
+- **An uncomfortable and numbing sense of fear, dread, [[anxiety]], or [[alarm]], often one that is sudden and usually [[accompanied]] by a trembling nerve response resembling the [[body]]'s response to [[biting]] [[cold]].**
 	- _Example: Despite the heat, he felt a chill as he entered the crime scene.   The actor's eerie portrayal sent chills through the audience.   His menacing presence cast a chill over everyone._
-- **An iron mould or portion of a mould, serving to cool rapidly, and so to harden, the surface of molten iron [[brought]] in contact with it.**
+- **An iron mould or portion of a mould, serving to [[cool]] rapidly, and so to harden, the surface of molten iron [[brought]] in [[contact]] with it.**
 - **The hardened part of a [[casting]], such as the tread of a [[carriage]] wheel.**
-- **A lack of warmth and cordiality; unfriendliness.**
+- **A lack of warmth and [[cordiality]]; unfriendliness.**
 - **Calmness; equanimity.**
 - **A sense of style; trendiness; savoir faire.**
 ---
 #verb
-- **To lower the temperature of something; to cool**
+- **To lower the temperature of something; to [[cool]]**
 	- _Example: Chill before serving._
-- **To [[become]] cold**
+- **To [[become]] [[cold]]**
 	- _Example: In the wind he chilled quickly._
-- **To harden a metal surface by sudden cooling**
-- **To [[become]] hard by rapid cooling**
+- **To harden a metal surface by sudden [[cooling]]**
+- **To [[become]] hard by rapid [[cooling]]**
 - **To relax, lie [[back]]**
 	- _Example: Chill, man, we've got a whole week to do it; no sense in getting worked up._
 - **To "hang", hang out; to spend time with [[another]] person or group. Also [[chill]] out.**
@@ -30,9 +30,9 @@
 	- _Example: Censorship chills public discourse._
 ---
 #adjective
-- **Moderately cold or [[chilly]].**
+- **Moderately [[cold]] or [[chilly]].**
 	- _Example: A chill wind was blowing down the street._
-- **Unwelcoming; not cordial.**
+- **Unwelcoming; not [[cordial]].**
 	- _Example: Arriving late at the wedding, we were met with a chill reception._
 - **Calm, relaxed, easygoing.**
 	- _Example: Paint-your-own ceramics studios are a chill way to express yourself while learning more about your date's right brain._

@@ -9,14 +9,14 @@
 ---
 #verb
 - **To use a [[carding]] device to disentangle the fibres of wool prior to spinning.**
-- **To scrape or tear someone’s flesh using a metal comb, as a form of torture.**
-- **To comb with a [[card]]; to cleanse or disentangle by [[carding]].**
+- **To scrape or tear someone’s flesh using a metal [[comb]], as a form of torture.**
+- **To [[comb]] with a [[card]]; to [[cleanse]] or disentangle by [[carding]].**
 	- _Example: to card a horse_
-- **To clean or clear, as if by using a [[card]].**
+- **To [[clean]] or [[clear]], as if by using a [[card]].**
 - **To mix or mingle, as with an inferior or weaker [[article]].**
 ---
 #noun
 - **A piece of wool rolled by a [[carder]] ([[carding]] machine).**
-- **The fraudulent trafficking of credit [[card]] details.**
+- **The fraudulent trafficking of [[credit]] [[card]] details.**
 ---
 ---

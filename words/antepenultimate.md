@@ -2,7 +2,7 @@
 ---
 #noun
 - **Two [[before]] the last in a series. e.g. (..., [[antepenultimate]], penultimate, ultimate)**
-- **The syllable that comes two [[before]] the last in a word.**
+- **The syllable that [[comes]] two [[before]] the last in a word.**
 	- _Example: The words animal, citizen, comedy, dangerous, obvious, and antepenultimate are stressed on the antepenultimate._
 ---
 #adjective

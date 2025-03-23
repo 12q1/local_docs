@@ -1,6 +1,6 @@
 # Bespangles
 ---
 #verb
-- **To cover something with spangles.**
+- **To [[cover]] something with spangles.**
 ---
 ---

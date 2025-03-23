@@ -1,13 +1,13 @@
 # Bray
 ---
 #noun
-- **The cry of an [[animal]], now [[chiefly]] that of [[animals]] related to the [[ass]] or donkey, or the [[camel]].**
+- **The [[cry]] of an [[animal]], now [[chiefly]] that of [[animals]] related to the [[ass]] or donkey, or the [[camel]].**
 - **(by extension) Any discordant, grating, or harsh sound.**
 ---
 ### Synonyms
 - [[hee-haw]]
 #verb
-- **Of an [[animal]] (now [[chiefly]] of [[animals]] related to the [[ass]] or donkey, and the [[camel]]): to make its cry.**
+- **Of an [[animal]] (now [[chiefly]] of [[animals]] related to the [[ass]] or donkey, and the [[camel]]): to make its [[cry]].**
 	- _Example: Whenever I walked by, that donkey brayed at me._
 - **(by extension) To make a harsh, discordant sound like a donkey's [[bray]].**
 	- _Example: He threw back his head and brayed with laughter._

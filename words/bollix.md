@@ -6,7 +6,7 @@
 - **Fool, jerk**
 ---
 #verb
-- **To confuse.**
+- **To [[confuse]].**
 - **To [[botch]] or [[bungle]].**
 ---
 ---

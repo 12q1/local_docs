@@ -1,7 +1,7 @@
 # Alarum
 ---
 #noun
-- **A danger signal or warning.**
+- **A [[danger]] signal or warning.**
 - **A [[call]] to [[arms]].**
 ---
 #verb

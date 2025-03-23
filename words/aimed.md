@@ -9,7 +9,7 @@
 	- _Example: She aimed a punch at her ex-boyfriend._
 - **To direct (something verbal) towards a [[certain]] person, thing, or group**
 	- _Example: to aim a satirical comment at Communists in general_
-- **To guess or conjecture.**
+- **To guess or [[conjecture]].**
 ---
 #adjective
 - **Directed towards a target.**

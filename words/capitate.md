@@ -8,6 +8,6 @@
 ---
 #adjective
 - **Having a distinct globular tip.**
-- **Forming a dense, head-like cluster, such as the inflorescences of composites.**
+- **Forming a dense, head-like [[cluster]], such as the inflorescences of [[composites]].**
 ---
 ---

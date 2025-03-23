@@ -5,6 +5,6 @@
 - **An [[apparatus]] in which humans are spun to simulate [[acceleration]] in an [[aircraft]] or spacecraft.**
 ---
 #verb
-- **To rotate something in a [[centrifuge]] in order to separate its constituents**
+- **To rotate something in a [[centrifuge]] in order to separate its [[constituents]]**
 ---
 ---

@@ -1,9 +1,9 @@
 # Chest
 ---
 #noun
-- **A [[box]], now usually a large strong [[box]] with a secure convex lid.**
+- **A [[box]], now usually a large strong [[box]] with a secure [[convex]] lid.**
 	- _Example: The clothes are kept in a chest._
-- **A coffin.**
+- **A [[coffin]].**
 - **The place in which public money is kept; a treasury.**
 	- _Example: You can take the money from the chest._
 - **A [[chest]] of drawers.**
@@ -17,6 +17,6 @@
 #verb
 - **To hit with one's [[chest]] (front of one's [[body]])**
 - **To deposit in a [[chest]].**
-- **To place in a coffin.**
+- **To place in a [[coffin]].**
 ---
 ---

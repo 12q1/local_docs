@@ -1,6 +1,6 @@
 # Bendability
 ---
 #noun
-- **The quality or degree of [[being]] [[bendable]].**
+- **The quality or [[degree]] of [[being]] [[bendable]].**
 ---
 ---

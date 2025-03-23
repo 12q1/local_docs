@@ -14,7 +14,7 @@
 - [[boast]]
 #adjective
 - **Excellent; first-rate.**
-- **Brisk; full of spirits; [[boasting]]; pretentious; conceited.**
+- **Brisk; full of spirits; [[boasting]]; pretentious; [[conceited]].**
 	- _Example: a woundy, brag young fellow_
 ---
 #adverb

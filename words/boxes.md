@@ -8,20 +8,20 @@
 - [[computer]], [[machine]], [[TV]], [[telly]], [[tube]], [[boxful]], [[loge]], [[case]], [[package]], [[box seat]], [[text box]], [[cup]], [[shelter]]
 #verb
 - **To place inside a [[box]]; to pack in one or more [[boxes]].**
-- **Usually followed by in: to surround and enclose in a way that restricts movement; to corner, to hem in.**
-- **To mix two containers of paint of similar colour to ensure that the color is identical.**
+- **Usually followed by in: to surround and enclose in a way that restricts movement; to [[corner]], to hem in.**
+- **To mix two [[containers]] of paint of similar [[colour]] to ensure that the [[color]] is identical.**
 - **To make an incision or hole in (a tree) for the purpose of procuring the sap.**
-- **To enclose with [[boarding]], lathing, etc., so as to conceal (for example, pipes) or to [[bring]] to a required form.**
+- **To enclose with [[boarding]], lathing, etc., so as to [[conceal]] (for example, pipes) or to [[bring]] to a required form.**
 - **To furnish (for example, the [[axle]] of a wheel) with a [[box]].**
 - **To enclose (images, text, etc.) in a [[box]].**
-- **To place a value of a primitive type into a corresponding object.**
+- **To place a value of a primitive type into a [[corresponding]] object.**
 ---
 ### Synonyms
 - [[box up]], [[case]], [[embox]], [[encase]], [[pack]], [[pack up]], [[package]]
 ### Antonyms
 - [[unbox]], [[uncase]], [[unpack]]
 #noun
-- **Any of various evergreen shrubs or trees of the genus Buxus, especially the common [[box]], European [[box]], or [[boxwood]] (Buxus sempervirens) which is often used for making hedges and topiary.**
+- **Any of various evergreen shrubs or trees of the genus Buxus, especially the [[common]] [[box]], European [[box]], or [[boxwood]] (Buxus sempervirens) which is often used for making hedges and topiary.**
 - **The wood from a [[box]] tree: [[boxwood]].**
 - **A musical instrument, especially one made from [[boxwood]].**
 - **An evergreen tree of the genus Lophostemon (for example, the [[box]] scrub, Brisbane [[box]], [[brush]] [[box]], pink [[box]], or Queensland [[box]], Lophostemon confertus).**

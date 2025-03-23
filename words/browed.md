@@ -1,6 +1,6 @@
 # Browed
 ---
 #adjective
-- **(in combination) Having a [[brow]].**
+- **(in [[combination]]) Having a [[brow]].**
 ---
 ---

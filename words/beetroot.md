@@ -11,6 +11,6 @@
 ### Synonyms
 - [[red beet]], [[table beet]]
 #verb
-- **To turn a [[bright]] red or purple colour.**
+- **To turn a [[bright]] red or purple [[colour]].**
 ---
 ---

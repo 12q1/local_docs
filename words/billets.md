@@ -1,7 +1,7 @@
 # Billets
 ---
 #noun
-- **An English fish, [[allied]] to the cod; the coalfish.**
+- **An English fish, [[allied]] to the [[cod]]; the [[coalfish]].**
 ---
 #noun
 - **A short informal letter.**
@@ -20,7 +20,7 @@
 #noun
 - **A semi-finished length of metal.**
 - **A short piece of wood, especially one used as firewood.**
-- **A short cutting of sugar [[cane]] produced by a harvester or used for planting.**
+- **A short [[cutting]] of sugar [[cane]] produced by a harvester or used for planting.**
 - **A rectangle used as a [[charge]] on an escutcheon.**
 - **An ornament in Norman work, resembling a [[billet]] of wood, either square or round.**
 - **(saddlery) A strap that enters a [[buckle]].**

@@ -1,7 +1,7 @@
 # Arboreal
 ---
 #noun
-- **Any tree-dwelling creature.**
+- **Any tree-dwelling [[creature]].**
 ---
 #adjective
 - **Of, relating to, or resembling a tree.**

@@ -1,0 +1,6 @@
+# Commos
+---
+#noun
+- **A [[communist]].**
+---
+---

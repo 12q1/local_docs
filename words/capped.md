@@ -1,7 +1,7 @@
 # Capped
 ---
 #verb
-- **To cover or seal with a [[cap]].**
+- **To [[cover]] or seal with a [[cap]].**
 - **To [[award]] a [[cap]] as a mark of distinction.**
 - **To lie over or on top of something.**
 - **To surpass or outdo.**
@@ -19,9 +19,9 @@
 - **To tell a lie.**
 ---
 #verb
-- **To convert text to uppercase.**
+- **To [[convert]] text to uppercase.**
 ---
 #verb
-- **To take a screenshot or to record a copy of a video.**
+- **To take a screenshot or to record a [[copy]] of a video.**
 ---
 ---

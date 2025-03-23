@@ -1,0 +1,6 @@
+# Crossway
+---
+#noun
+- **A [[crossroad]].**
+---
+---

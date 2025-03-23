@@ -6,7 +6,7 @@
 - **A lodestone.**
 ---
 #adjective
-- **(said of people and their conviction) Firm; unshakeable; unyielding; determined.**
-- **(of an object) Very difficult to [[break]], pierce, or cut.**
+- **(said of people and their [[conviction]]) Firm; unshakeable; unyielding; determined.**
+- **(of an object) Very difficult to [[break]], pierce, or [[cut]].**
 ---
 ---

@@ -8,6 +8,6 @@
 ---
 #noun
 - **An [[arrangement]] of musical [[chords]].**
-- **The [[ability]], using a keyboard or similar device, to enter [[characters]] or commands in the form of "[[chords]]" by pressing several keys simultaneously.**
+- **The [[ability]], using a keyboard or similar device, to enter [[characters]] or [[commands]] in the form of "[[chords]]" by pressing several keys simultaneously.**
 ---
 ---

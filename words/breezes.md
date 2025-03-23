@@ -5,8 +5,8 @@
 	- _Example: The breeze rustled the papers on her desk._
 - **Any [[activity]] that is easy, not testing or difficult.**
 	- _Example: After studying Latin, Spanish was a breeze._
-- **Wind [[blowing]] [[across]] a cricket match, whatever its strength.**
-- **Ashes and residue of coal or [[charcoal]], usually from a furnace. See Wikipedia [[article]] on Clinker.**
+- **Wind [[blowing]] [[across]] a [[cricket]] match, whatever its strength.**
+- **Ashes and residue of [[coal]] or [[charcoal]], usually from a furnace. See Wikipedia [[article]] on Clinker.**
 - **An excited or ruffled state of feeling; a flurry of excitement; a disturbance; a quarrel.**
 	- _Example: The discovery produced a breeze._
 - **A [[brief]] workout for a racehorse.**

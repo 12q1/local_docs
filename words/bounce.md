@@ -33,13 +33,13 @@
 - **To move rapidly ([[between]]).**
 - **(of a [[cheque]]/[[check]]) To be refused by a [[bank]] [[because]] it is drawn on insufficient funds.**
 	- _Example: We can’t accept further checks from you, as your last one bounced._
-- **To fail to cover (have sufficient funds for) (a draft presented [[against]] one's [[account]]).**
+- **To fail to [[cover]] (have sufficient funds for) (a draft presented [[against]] one's [[account]]).**
 	- _Example: He tends to bounce a check or two toward the end of each month, before his payday._
 - **To leave.**
 	- _Example: Let’s wrap this up, I gotta bounce._
 - **To eject violently, as from a room; to discharge unceremoniously, as from employment.**
 - **(sometimes employing the preposition with) To have sexual intercourse.**
-- **([[air]] combat) To [[attack]] unexpectedly.**
+- **([[air]] [[combat]]) To [[attack]] unexpectedly.**
 	- _Example: The squadron was bounced north of the town._
 - **To turn power off and [[back]] on; to reset**
 	- _Example: See if it helps to bounce the router._

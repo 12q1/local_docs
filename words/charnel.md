@@ -2,9 +2,9 @@
 ---
 #noun
 - **A [[chapel]] [[attached]] to a mortuary.**
-- **A repository for dead [[bodies]].**
+- **A repository for [[dead]] [[bodies]].**
 ---
 #adjective
-- **Of or relating to a [[charnel]], deathlike, sepulchral.**
+- **Of or relating to a [[charnel]], [[deathlike]], sepulchral.**
 ---
 ---

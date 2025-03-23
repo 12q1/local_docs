@@ -2,7 +2,7 @@
 ---
 #noun
 - **One who, or that which, [[bears]], sustains, or [[carries]].**
-- **Someone who helps [[carry]] the coffin or a dead [[body]] during a funeral procession.**
+- **Someone who helps [[carry]] the [[coffin]] or a [[dead]] [[body]] during a funeral procession.**
 - **One who possesses a [[cheque]], [[bond]], or other notes promising payment.**
 	- _Example: I promise to pay the bearer on demand._
 - **A domestic servant or palanquin [[carrier]].**

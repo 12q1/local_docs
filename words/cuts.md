@@ -1,0 +1,83 @@
+# Cuts
+---
+#noun
+- **The [[act]] of [[cutting]].**
+	- _Example: He made a fine cut with his sword._
+- **The result of [[cutting]].**
+	- _Example: a smooth or clear cut_
+- **An opening resulting from [[cutting]]; an incision or wound.**
+	- _Example: Look at this cut on my finger!_
+- **A notch, passage, or [[channel]] made by [[cutting]] or digging; a furrow; a groove.**
+	- _Example: a cut for a railroad_
+- **A share or portion.**
+	- _Example: The lawyer took a cut of the profits._
+- **A [[batsman]]'s shot played with a swinging motion of the [[bat]], to hit the [[ball]] [[backward]] of point.**
+- **Sideways movement of the [[ball]] through the [[air]] [[caused]] by a fast [[bowler]] imparting spin to the [[ball]].**
+- **In lawn tennis, etc., a slanting stroke [[causing]] the [[ball]] to spin and [[bound]] irregularly; [[also]], the spin thus given to the [[ball]].**
+- **In a strokeplay [[competition]], the early elimination of those players who have not then [[attained]] a preannounced score, so that the rest of the [[competition]] is less pressed for time and more entertaining for spectators.**
+- **A passage omitted or to be omitted from a play.**
+	- _Example: The director asked the cast to note down the following cuts._
+- **A particular version or edit of a film.**
+- **The [[act]] or right of dividing a [[deck]] of playing [[cards]].**
+	- _Example: The player next to the dealer makes a cut by placing the bottom half on top._
+- **The [[card]] obtained by dividing the pack.**
+- **The manner or style a garment etc. is fashioned in.**
+	- _Example: I like the cut of that suit._
+- **A slab, especially of meat.**
+	- _Example: That’s our finest cut of meat._
+- **An [[attack]] made with a [[chopping]] motion of the [[blade]], landing with its edge or point.**
+- **A deliberate snub, typically a refusal to return a [[bow]] or other [[acknowledgement]] of [[acquaintance]].**
+- **An unkind [[act]]; a [[cruelty]].**
+- **A [[definable]] part, such as an individual song, of a recording, particularly of [[commercial]] records, [[audio]] tapes, CDs, etc.**
+	- _Example: The drummer on the last cut of their CD is not identified._
+- **A truncation, a [[context]] that represents a moment in time when other [[archaeological]] deposits were removed for the [[creation]] of some feature such as a ditch or pit.**
+- **A haircut.**
+- **The partition of a graph’s vertices into two subgroups.**
+- **A string of railway [[cars]] [[coupled]] together.**
+- **An engraved [[block]] or plate; the impression from such an engraving.**
+	- _Example: a book illustrated with fine cuts_
+- **A [[common]] workhorse; a gelding.**
+- **The failure of a [[college]] officer or student to be present at [[any]] [[appointed]] exercise.**
+- **A skein of yarn.**
+- **That which is used to dilute or [[adulterate]] a recreational drug.**
+	- _Example: Don't buy his coke: it's full of cut._
+- **A notch shaved into an eyebrow.**
+- **A time period when one tries to lose fat while retaining muscle mass.**
+- **A hidden or secure place.**
+---
+#verb
+- **(heading) To incise, to [[cut]] into the surface of something.**
+- **To [[admit]] of incision or severance; to yield to a [[cutting]] instrument.**
+- **(heading, social) To separate, remove, reject or reduce.**
+- **([[audio]], usually as imperative) To [[cease]] recording [[activities]].**
+	- _Example: After the actors read their lines, the director yelled, "Cut!"_
+- **To make an [[abrupt]] transition from one scene or image to [[another]].**
+	- _Example: The camera then cut to the woman on the front row who was clearly overcome and crying tears of joy._
+- **To edit a film by selecting takes from original footage.**
+- **To remove and place in memory for later use.**
+	- _Example: Select the text, cut it, and then paste it in the other application._
+- **To enter a queue in the wrong place.**
+	- _Example: One student kept trying to cut in front of the line._
+- **To intersect or [[cross]] in such a way as to divide in half or nearly so.**
+	- _Example: This road cuts right through downtown._
+- **To make the [[ball]] spin sideways by running one's fingers down the side of the [[ball]] while [[bowling]] it.**
+- **To [[deflect]] (a [[bowled]] [[ball]]) to the off, with a [[chopping]] movement of the [[bat]].**
+- **To [[change]] direction suddenly.**
+	- _Example: The football player cut to his left to evade a tackle._
+- **To divide a pack of playing [[cards]] into two.**
+	- _Example: If you cut then I'll deal._
+- **To write.**
+	- _Example: cut orders;  cut a check_
+- **To dilute or [[adulterate]] something, especially a recreational drug.**
+	- _Example: Drug dealers sometimes cut cocaine with lidocaine._
+- **To exhibit (a quality).**
+- **To stop or disengage.**
+	- _Example: Cut the engines when the plane comes to a halt!_
+- **To drive (a [[ball]]) to one side, as by (in [[billiards]] or [[croquet]]) hitting it fine with [[another]] [[ball]], or (in tennis) striking it with the racket inclined.**
+- **To lose [[body]] mass [[after]] [[bulking]], [[aiming]] to keep the [[additional]] muscle but lose the fat.**
+- **To perform (a [[dancing]] movement etc.).**
+---
+#noun
+- **(with "the") Corporal punishment at school.**
+---
+---

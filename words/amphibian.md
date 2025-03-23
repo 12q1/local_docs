@@ -7,7 +7,7 @@
 ### Synonyms
 - [[amphibium]]
 #adjective
-- **Of or relating to the class Amphibia.**
+- **Of or relating to the [[class]] Amphibia.**
 - **Capable of operating on [[both]] land and water [[amphibious]].**
 - **Having two natures.**
 ---

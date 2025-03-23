@@ -2,8 +2,8 @@
 ---
 #noun
 - **A sudden movement; a jerk, a wrench.**
-- **A weave of three or more strands of fibers, ribbons, cords or hair often for decoration.**
-- **A stranded wire composed of a number of smaller wires twisted together**
+- **A weave of three or more strands of fibers, ribbons, [[cords]] or hair often for [[decoration]].**
+- **A stranded wire [[composed]] of a number of smaller wires twisted together**
 - **A tubular sheath made of [[braided]] strands of metal placed [[around]] a [[central]] [[cable]] for shielding [[against]] electromagnetic interference.**
 - **A fancy; freak; [[caprice]].**
 ---

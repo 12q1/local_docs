@@ -8,6 +8,6 @@
 ---
 #adjective
 - **Having a [[breast]], or [[breasts]].**
-- **(in combination) Having a specified kind of [[breast]] or covering.**
+- **(in [[combination]]) Having a specified kind of [[breast]] or [[covering]].**
 ---
 ---

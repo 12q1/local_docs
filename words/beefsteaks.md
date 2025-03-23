@@ -1,9 +1,9 @@
 # Beefsteaks
 ---
 #noun
-- **(A) steak cut from [[beef]] [[cattle]].**
+- **(A) steak [[cut]] from [[beef]] [[cattle]].**
 - **Ellipsis of [[beefsteak]] plant, [[also]] known as perilla and shiso (Perilla frutescens var. crispa).**
-- **: A [[celebratory]] dinner, commonly held in New York [[between]] [[about]] 1870 and 1940 involving the consumption of enormous quantities of [[broiled]] steak and [[beer]].**
+- **: A [[celebratory]] dinner, [[commonly]] held in New York [[between]] [[about]] 1870 and 1940 involving the [[consumption]] of enormous quantities of [[broiled]] steak and [[beer]].**
 ---
 #noun
 - **Fistulina hepatica (an edible fungus)**

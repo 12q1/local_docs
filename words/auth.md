@@ -5,12 +5,12 @@
 	- _Example: You can't post messages on the site unless you're authed._
 ---
 #noun
-- **Something which validates or confirms the [[authenticity]] of something**
+- **Something which validates or [[confirms]] the [[authenticity]] of something**
 - **Proof of the identity of a user logging on to some network**
 - **A hallmark or [[assay]]-mark on a piece of metalwork**
 ---
 #noun
-- **One who commands [[absolute]] obedience to his or her [[authority]].**
+- **One who [[commands]] [[absolute]] obedience to his or her [[authority]].**
 	- _Example: The dictator was an authoritarian._
 - **One who follows and is excessively obedient to [[authority]].**
 	- _Example: 2006, Robert Altemeyer, The Authoritarians_

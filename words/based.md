@@ -6,7 +6,7 @@
 - **([[acrobatics]], [[cheerleading]]) To [[act]] as a [[base]]; to be the person supporting the flyer.**
 ---
 #adjective
-- **Founded on; having a [[basis]]; often used in combining forms.**
+- **Founded on; having a [[basis]]; often used in [[combining]] forms.**
 	- _Example: That was a soundly based argument._
 ---
 ---

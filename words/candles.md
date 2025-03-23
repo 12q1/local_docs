@@ -1,10 +1,10 @@
 # Candles
 ---
 #noun
-- **A light source consisting of a wick embedded in a solid, flammable substance such as wax, tallow, or paraffin.**
+- **A light source [[consisting]] of a wick embedded in a solid, flammable substance such as wax, tallow, or paraffin.**
 - **The protruding, removable portion of a filter, particularly a water filter.**
 - **A unit of luminous intensity, now replaced by the SI unit [[candela]].**
-- **A fast-growing, light-colored, upward-growing shoot on a pine tree in the spring. As growth slows in summer, the shoot darkens and is no longer conspicuous.**
+- **A fast-growing, light-[[colored]], upward-growing shoot on a pine tree in the spring. As growth slows in summer, the shoot [[darkens]] and is no longer [[conspicuous]].**
 ---
 #verb
 - **To observe the growth of an embryo inside (an egg), using a [[bright]] light source.**

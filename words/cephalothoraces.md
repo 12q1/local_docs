@@ -1,6 +1,6 @@
 # Cephalothoraces
 ---
 #noun
-- **The fused head and thorax of spiders and crustaceans**
+- **The fused head and thorax of spiders and [[crustaceans]]**
 ---
 ---

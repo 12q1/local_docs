@@ -1,6 +1,6 @@
 # Aflutter
 ---
 #adjective
-- **In a state of tremulous [[anticipation]] or confusion.**
+- **In a state of tremulous [[anticipation]] or [[confusion]].**
 ---
 ---

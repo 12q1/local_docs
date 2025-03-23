@@ -10,7 +10,7 @@
 - **To dwell; have a dwelling**
 ---
 #noun
-- **A coffee pot with a strainer or perforated metallic vessel for holding the ground coffee, through which [[boiling]] water is poured.**
+- **A [[coffee]] pot with a strainer or perforated metallic vessel for holding the ground [[coffee]], through which [[boiling]] water is poured.**
 ---
 #noun
 - **A home.**

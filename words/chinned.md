@@ -13,7 +13,7 @@
 ### Synonyms
 - [[gab]]
 #adjective
-- **(in combination) Having some specific type of [[chin]] or number of [[chins]].**
+- **(in [[combination]]) Having some specific type of [[chin]] or number of [[chins]].**
 	- _Example: a double-chinned woman_
 ---
 ---

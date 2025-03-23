@@ -3,7 +3,7 @@
 #verb
 - **To [[attach]].**
 	- _Example: to affix a stigma to a person_
-- **To subjoin, [[annex]], or [[add]] at the close or end; to [[append]] to.**
+- **To subjoin, [[annex]], or [[add]] at the [[close]] or end; to [[append]] to.**
 	- _Example: to affix a seal to an instrument_
 - **To fix or fasten figuratively; with on or upon.**
 	- _Example: eyes affixed upon the ground_

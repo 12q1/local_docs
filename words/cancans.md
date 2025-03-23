@@ -1,6 +1,6 @@
 # Cancans
 ---
 #verb
-- **To dance the [[cancan]].**
+- **To [[dance]] the [[cancan]].**
 ---
 ---

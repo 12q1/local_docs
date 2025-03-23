@@ -9,7 +9,7 @@
 ### Synonyms
 - [[breeze]], [[cakewalk]], [[doddle]], [[piece of cake]], [[walk in the park]], [[walkover]]
 #verb
-- **To [[bring]] to [[certain]] conclusion.**
+- **To [[bring]] to [[certain]] [[conclusion]].**
 - **To tighten down.**
 ---
 ---

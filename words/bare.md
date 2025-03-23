@@ -12,14 +12,14 @@
 	- _Example: I do wonder why keeping my little breasts bare can be lewd even as none tells my brother anything for being bare-chested._
 - **Having no supplies.**
 	- _Example: The cupboard was bare._
-- **Having no decoration.**
+- **Having no [[decoration]].**
 	- _Example: The walls of this room are bare — why not hang some paintings on them?_
-- **Having had what usually covers (something) removed.**
+- **Having had what usually [[covers]] (something) removed.**
 	- _Example: The trees were left bare after the swarm of locusts devoured all the leaves._
 - **(Toronto) A lot or lots of.**
 	- _Example: It's bare money to get in the club each time, man._
 - **With head uncovered; [[bareheaded]].**
-- **Without [[anything]] to cover up or conceal one's thoughts or [[actions]]; open to view; exposed.**
+- **Without [[anything]] to [[cover]] up or [[conceal]] one's thoughts or [[actions]]; open to view; exposed.**
 - **Mere; without embellishment.**
 - **Threadbare, very worn.**
 - **Not insured.**
@@ -32,6 +32,6 @@
 - **Very; significantly.**
 	- _Example: It's taking bare time._
 - **Barely.**
-- **Without a condom.**
+- **Without a [[condom]].**
 ---
 ---

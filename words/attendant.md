@@ -9,7 +9,7 @@
 - **One who owes a duty or service to [[another]].**
 ---
 #adjective
-- **Going with; [[associated]]; concomitant.**
+- **Going with; [[associated]]; [[concomitant]].**
 	- _Example: They promoted him to supervisor, with all the attendant responsibilities and privileges._
 - **Depending on, or owing duty or service to.**
 	- _Example: the widow attendant to the heir_

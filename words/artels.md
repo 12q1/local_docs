@@ -1,6 +1,6 @@
 # Artels
 ---
 #noun
-- **A Russian or Soviet craftsmen's collective.**
+- **A Russian or Soviet [[craftsmen]]'s [[collective]].**
 ---
 ---

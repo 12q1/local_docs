@@ -1,7 +1,7 @@
 # Cash
 ---
 #noun
-- **Money in the form of notes/[[bills]] and coins, as opposed to [[cheques]]/[[checks]] or electronic transactions.**
+- **Money in the form of notes/[[bills]] and [[coins]], as opposed to [[cheques]]/[[checks]] or electronic transactions.**
 	- _Example: After you bounced those checks last time, they want to be paid in cash._
 - **Liquid [[assets]], money that [[can]] be traded quickly, as distinct from [[assets]] that are invested and [[cannot]] be easily exchanged.**
 - **Money.**
@@ -14,6 +14,6 @@
 - **To obtain a payout from a tournament.**
 ---
 #adjective
-- **Great; excellent; cool.**
+- **Great; excellent; [[cool]].**
 ---
 ---

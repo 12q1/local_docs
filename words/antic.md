@@ -4,7 +4,7 @@
 - **A grotesque representation of a figure; a gargoyle.**
 - **A [[caricature]].**
 - **(often in plural) A ludicrous gesture or [[act]]; ridiculous [[behaviour]]; [[caper]].**
-- **A grotesque performer or clown, [[buffoon]].**
+- **A grotesque performer or [[clown]], [[buffoon]].**
 ---
 #verb
 - **To perform [[antics]], [[caper]].**
@@ -18,7 +18,7 @@
 ---
 #adjective
 - **Having existed in [[ancient]] times, descended from [[antiquity]]; used especially in reference to Greece and Rome.**
-- **Belonging to former times, not modern, out of date, old-fashioned.**
+- **Belonging to former times, not modern, out of [[date]], old-fashioned.**
 - **Designating a style of type.**
 - **Embossed without gilt.**
 ---

@@ -8,7 +8,7 @@
 - **To dress warmly. Usually [[bundle]] up**
 - **To sell hardware and software as a single product.**
 - **To hurry.**
-- **To hastily or clumsily push, put, [[carry]] or otherwise send something into a particular place.**
+- **To hastily or [[clumsily]] push, put, [[carry]] or otherwise send something into a particular place.**
 - **To sleep on the same [[bed]] without undressing.**
 ---
 #verb

@@ -1,7 +1,7 @@
 # Armorial
 ---
 #noun
-- **A [[book]] etc concerning heraldry, especially a collection of coats of [[arms]].**
+- **A [[book]] etc [[concerning]] heraldry, especially a [[collection]] of [[coats]] of [[arms]].**
 ---
 ### Synonyms
 - [[roll of arms]]

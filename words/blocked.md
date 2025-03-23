@@ -13,7 +13,7 @@
 	- _Example: It was very difficult to block this scene convincingly._
 - **To hit with a [[block]].**
 - **To play a [[block]] shot.**
-- **To disable communication via telephone, instant messaging, etc., with an undesirable someone.**
+- **To disable [[communication]] via telephone, instant messaging, etc., with an undesirable someone.**
 	- _Example: I tried to send you a message, but you've blocked me!_
 - **To wait.**
 	- _Example: When the condition expression is false, the thread blocks on the condition variable._

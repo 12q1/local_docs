@@ -3,12 +3,12 @@
 #verb
 - **To inspect; to examine.**
 	- _Example: Check the oil in your car once a month._
-- **To verify the [[accuracy]] of a text or translation, usually making some corrections (proofread) or many (copyedit).**
-- **(often used with "off") To mark items on a list (with a [[checkmark]] or by crossing them out) that have [[been]] [[chosen]] for keeping or removal or that have [[been]] dealt with (for example, completed or verified as correct or satisfactory).**
+- **To verify the [[accuracy]] of a text or translation, usually making some [[corrections]] (proofread) or many (copyedit).**
+- **(often used with "off") To mark items on a list (with a [[checkmark]] or by [[crossing]] them out) that have [[been]] [[chosen]] for keeping or removal or that have [[been]] [[dealt]] with (for example, [[completed]] or verified as [[correct]] or satisfactory).**
 	- _Example: Check off the items that you've checked (inspected)._
-- **To control, limit, or halt.**
+- **To [[control]], limit, or halt.**
 	- _Example: Check your enthusiasm during a negotiation._
-- **To verify or compare with a source of information.**
+- **To verify or [[compare]] with a source of information.**
 	- _Example: Check your data against known values._
 - **To leave in safekeeping.**
 	- _Example: Check your hat and coat at the door._
@@ -23,12 +23,12 @@
 - **To make a move which puts an [[adversary]]'s king in [[check]]; to put in [[check]].**
 - **To [[chide]], rebuke, or reprove.**
 - **To slack or ease off, as a [[brace]] which is too stiffly extended.**
-- **To crack or gape open, as wood in drying; or to crack in small [[checks]], as varnish, paint, etc.**
-- **To make [[checks]] or [[chinks]] in; to [[cause]] to crack.**
+- **To [[crack]] or gape open, as wood in drying; or to [[crack]] in small [[checks]], as varnish, paint, etc.**
+- **To make [[checks]] or [[chinks]] in; to [[cause]] to [[crack]].**
 	- _Example: The sun checks timber._
 - **To make a stop; to pause; with at.**
-- **To clash or interfere.**
-- **To [[act]] as a curb or restraint.**
+- **To [[clash]] or interfere.**
+- **To [[act]] as a [[curb]] or restraint.**
 - **To turn, when in pursuit of proper game, and fly [[after]] other [[birds]].**
 ---
 ### Synonyms

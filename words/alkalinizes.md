@@ -1,6 +1,6 @@
 # Alkalinizes
 ---
 #verb
-- **To convert, or be converted, to an [[alkali]]**
+- **To [[convert]], or be [[converted]], to an [[alkali]]**
 ---
 ---

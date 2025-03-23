@@ -1,7 +1,7 @@
 # Bicameral
 ---
 #adjective
-- **Being or having a system with two, often unequal, [[chambers]] or compartments; of, signifying, relating to, or [[being]] the product of such a two-[[chambered]] system.**
+- **Being or having a system with two, often unequal, [[chambers]] or [[compartments]]; of, signifying, relating to, or [[being]] the product of such a two-[[chambered]] system.**
 	- _Example: the bicameral anatomy of the brain_
 - **Of, having or relating to two separate legislative [[chambers]] or houses.**
 - **Of a script or typeface: having two [[cases]], upper [[case]] and lower [[case]].**

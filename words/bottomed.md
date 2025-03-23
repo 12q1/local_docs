@@ -14,6 +14,6 @@
 	- _Example: I've never bottomed in my life._
 ---
 #adjective
-- **(in combination) Having some specified type of [[bottom]].**
+- **(in [[combination]]) Having some specified type of [[bottom]].**
 ---
 ---

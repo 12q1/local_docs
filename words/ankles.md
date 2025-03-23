@@ -1,7 +1,7 @@
 # Ankles
 ---
 #noun
-- **The skeletal joint which connects the foot with the leg; the uppermost portion of the foot and lowermost portion of the leg, which contain this skeletal joint.**
+- **The skeletal joint which [[connects]] the foot with the leg; the uppermost portion of the foot and lowermost portion of the leg, which [[contain]] this skeletal joint.**
 ---
 #verb
 - **To walk.**

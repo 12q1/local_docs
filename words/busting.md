@@ -3,7 +3,7 @@
 #verb
 - **To [[break]].**
 	- _Example: I busted my cooker while trying to fix it._
-- **To [[arrest]] (someone) for a crime.**
+- **To [[arrest]] (someone) for a [[crime]].**
 - **To [[catch]] (someone) in the [[act]] of doing something wrong, socially and morally inappropriate, or illegal, especially when [[being]] done in a sneaky or secretive state.**
 - **An emphatic synonym of do or get.**
 	- _Example: He busted huge air off that jump!_

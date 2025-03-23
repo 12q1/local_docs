@@ -5,7 +5,7 @@
 ---
 #noun
 - **An edge or [[border]] (originally specifically of the sea or a [[body]] of water).**
-- **The topmost rim or lip of a container.**
+- **The topmost rim or lip of a [[container]].**
 	- _Example: The toy box was filled to the brim with stuffed animals._
 - **A projecting rim, especially of a hat.**
 	- _Example: He turned the back of his brim up stylishly._

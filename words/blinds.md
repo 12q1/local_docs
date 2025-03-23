@@ -1,11 +1,11 @@
 # Blinds
 ---
 #noun
-- **A covering for a window to keep out light. The covering may be made of cloth or of narrow slats that [[can]] [[block]] light or [[allow]] it to pass.**
+- **A [[covering]] for a window to keep out light. The [[covering]] may be made of [[cloth]] or of narrow slats that [[can]] [[block]] light or [[allow]] it to pass.**
 - **A destination sign mounted on a public transport vehicle displaying the route destination, number, name and/or via points, etc.**
-- **Any device intended to conceal or hide.**
+- **Any device intended to [[conceal]] or hide.**
 	- _Example: a duck blind_
-- **Something to mislead the eye or the understanding, or to conceal some covert deed or design; a subterfuge.**
+- **Something to mislead the eye or the understanding, or to [[conceal]] some [[covert]] [[deed]] or design; a subterfuge.**
 - **A [[blindage]].**
 - **A halting place.**
 - **The blindside.**
@@ -21,8 +21,8 @@
 #verb
 - **To make temporarily or permanently [[blind]].**
 	- _Example: Don't wave that pencil in my face - do you want to blind me?_
-- **To curse.**
-- **To darken; to obscure to the eye or understanding; to conceal.**
-- **To cover with a thin coating of sand and fine gravel, for example a road newly paved, in order that the joints [[between]] the stones may be filled.**
+- **To [[curse]].**
+- **To [[darken]]; to obscure to the eye or understanding; to [[conceal]].**
+- **To [[cover]] with a thin [[coating]] of sand and fine gravel, for example a road newly paved, in order that the joints [[between]] the stones may be filled.**
 ---
 ---

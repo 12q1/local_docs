@@ -5,7 +5,7 @@
 ---
 #adjective
 - **Relating to the sky or outer space, regarded as the realm of the sun, moon, planets, and stars.**
-- **Of or pertaining to the highest degree of glory.**
+- **Of or pertaining to the highest [[degree]] of glory.**
 ---
 ### Synonyms
 - [[celest]], [[heavenly]]

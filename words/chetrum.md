@@ -1,6 +1,6 @@
 # Chetrum
 ---
 #noun
-- **A subdivision of currency, equal to one hundredth of a Bhutanese ngultrum**
+- **A subdivision of [[currency]], equal to one hundredth of a Bhutanese ngultrum**
 ---
 ---

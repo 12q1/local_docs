@@ -2,6 +2,6 @@
 ---
 #noun
 - **The state of [[being]] [[bewildered]].**
-- **A confusing or perplexing situation.**
+- **A [[confusing]] or perplexing situation.**
 ---
 ---

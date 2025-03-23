@@ -20,8 +20,8 @@
 	- _Example: Rams butt at other males during mating season._
 ---
 #noun
-- **(English units) An English measure of [[capacity]] for liquids, containing 126 wine gallons which is one-half tun; equivalent to the pipe.**
-- **A wooden [[cask]] for storing wine, usually containing 126 gallons.**
+- **(English units) An English measure of [[capacity]] for liquids, [[containing]] 126 wine gallons which is one-half tun; equivalent to the pipe.**
+- **A wooden [[cask]] for storing wine, usually [[containing]] 126 gallons.**
 ---
 #noun
 - **Any of various flatfish such as sole, plaice or turbot**

@@ -1,7 +1,7 @@
 # Abstruse
 ---
 #adjective
-- **Difficult to comprehend or understand.**
+- **Difficult to [[comprehend]] or understand.**
 - **Concealed or hidden out of the way; secret.**
 ---
 ### Synonyms

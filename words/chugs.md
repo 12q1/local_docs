@@ -14,7 +14,7 @@
 	- _Example: Chug! Chug! Chug!_
 ---
 #noun
-- **A dog; a cross [[between]] a pug and a [[chihuahua]].**
+- **A dog; a [[cross]] [[between]] a pug and a [[chihuahua]].**
 ---
 #verb
 - **To solicit [[charitable]] donations on the street, particularly in a persistent manner.**

@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Having a [[buzzing]] sound.**
-- **Being the subject of cultural [[buzz]].**
+- **Being the subject of [[cultural]] [[buzz]].**
 ---
 ---

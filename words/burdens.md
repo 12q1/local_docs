@@ -8,7 +8,7 @@
 	- _Example: a ship of a hundred tons burden_
 - **The tops or heads of stream-work which lie over the stream of tin.**
 - **The proportion of ore and flux to fuel, in the [[charge]] of a [[blast]] furnace.**
-- **A fixed quantity of [[certain]] commodities.**
+- **A fixed quantity of [[certain]] [[commodities]].**
 	- _Example: A burden of gad steel is 120 pounds._
 - **A [[birth]].**
 - **The total [[amount]] of toxins, parasites, [[cancer]] [[cells]], plaque or similar present in an organism.**
@@ -21,7 +21,7 @@
 #noun
 - **A phrase or theme that recurs at the end of each verse in a folk song or [[ballad]].**
 - **The drone of a [[bagpipe]].**
-- **Theme, core idea.**
+- **Theme, [[core]] idea.**
 	- _Example: the burden of the argument_
 ---
 ---

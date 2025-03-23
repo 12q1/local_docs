@@ -5,7 +5,7 @@
 - **One of the vertical supports of a handrail; a [[baluster]].**
 ---
 #verb
-- **To construct a [[banister]]**
+- **To [[construct]] a [[banister]]**
 - **To [[act]] as a [[banister]]**
 ---
 ---

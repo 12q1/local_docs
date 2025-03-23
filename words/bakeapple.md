@@ -1,6 +1,6 @@
 # Bakeapple
 ---
 #noun
-- **The cloudberry, Rubus chamaemorus**
+- **The [[cloudberry]], Rubus chamaemorus**
 ---
 ---

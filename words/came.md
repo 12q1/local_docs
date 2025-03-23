@@ -17,9 +17,9 @@
 	- _Example: Could you tell me how the document came to be discovered?_
 - **To take a position relative to something else in a sequence.**
 	- _Example: Which letter comes before Y?   Winter comes after autumn._
-- **To [[achieve]] orgasm; to cum; to ejaculate.**
+- **To [[achieve]] orgasm; to [[cum]]; to ejaculate.**
 	- _Example: He came after a few minutes._
-- **(with close) To [[approach]] a state of [[being]] or [[accomplishment]].**
+- **(with [[close]]) To [[approach]] a state of [[being]] or [[accomplishment]].**
 	- _Example: One of the screws came loose, and the skateboard fell apart._
 - **(with to) To take a particular [[approach]] or point of view in regard to something.**
 	- _Example: He came to SF literature a confirmed technophile, and nothing made him happier than to read a manuscript thick with imaginary gizmos and whatzits._

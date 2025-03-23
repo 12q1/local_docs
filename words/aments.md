@@ -4,6 +4,6 @@
 - **A [[catkin]] or [[amentum]].**
 ---
 #noun
-- **A congenital idiot.**
+- **A [[congenital]] idiot.**
 ---
 ---

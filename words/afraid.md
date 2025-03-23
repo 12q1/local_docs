@@ -5,7 +5,7 @@
 	- _Example: He is afraid of death._
 - **Regretful, sorry.**
 	- _Example: I am afraid I cannot help you in this matter._
-- **(used with for) Worried [[about]], feeling concern for, fearing for (someone or something).**
+- **(used with for) Worried [[about]], feeling [[concern]] for, fearing for (someone or something).**
 ---
 ### Synonyms
 - [[afeared]], [[alarmed]], [[anxious]], [[apprehensive]], [[fearful]], [[timid]], [[timorous]], [[sorry]]

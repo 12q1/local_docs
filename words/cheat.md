@@ -7,7 +7,7 @@
 	- _Example: After he found out his wife cheated, he left her._
 - **To manage to [[avoid]] something even though it seemed unlikely.**
 	- _Example: He cheated death when his car collided with a moving train._
-- **To deceive; to fool; to trick.**
+- **To [[deceive]]; to fool; to trick.**
 	- _Example: He cheated his way into office._
 ---
 ### Synonyms

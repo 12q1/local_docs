@@ -1,7 +1,7 @@
 # Cacophonous
 ---
 #adjective
-- **Containing, consisting of, or producing harsh, unpleasant or discordant sounds.**
+- **Containing, [[consisting]] of, or producing harsh, unpleasant or discordant sounds.**
 ---
 ### Synonyms
 - [[inharmonious]], [[unmelodic]], [[unmusical]]

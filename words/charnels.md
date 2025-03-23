@@ -2,6 +2,6 @@
 ---
 #noun
 - **A [[chapel]] [[attached]] to a mortuary.**
-- **A repository for dead [[bodies]].**
+- **A repository for [[dead]] [[bodies]].**
 ---
 ---

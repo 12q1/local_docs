@@ -1,7 +1,7 @@
 # Caves
 ---
 #noun
-- **A large, naturally-occurring [[cavity]] formed underground or in the face of a cliff or a hillside.**
+- **A large, naturally-occurring [[cavity]] formed underground or in the face of a [[cliff]] or a hillside.**
 	- _Example: We found a cave on the mountainside where we could take shelter._
 - **A hole, depression, or gap in earth or rock, whether natural or man-made.**
 - **A storage [[cellar]], especially for wine or [[cheese]].**
@@ -12,18 +12,18 @@
 	- _Example: It was not strictly a cave, but a narrow fissure in the rock._
 - **A shielded [[area]] where nuclear experiments [[can]] be [[carried]] out.**
 - **(drilling) Debris, particularly [[broken]] rock, which falls into a drill hole and interferes with drilling.**
-- **A collapse or [[cave]]-in.**
+- **A [[collapse]] or [[cave]]-in.**
 - **The vagina.**
 - **(often "Cave") A group that [[breaks]] from a larger political party or faction on a particular issue.**
 - **Any hollow place, or part; a [[cavity]].**
-- **A code [[cave]].**
+- **A [[code]] [[cave]].**
 ---
 ### Synonyms
 - [[earthhole]]
 #verb
 - **To surrender.**
 	- _Example: He caved under pressure._
-- **To collapse.**
+- **To [[collapse]].**
 	- _Example: First the braces buckled, then the roof began to cave, then we ran._
 - **To hollow out or undermine.**
 	- _Example: The levee has been severely caved by the river current._

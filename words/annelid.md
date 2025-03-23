@@ -6,6 +6,6 @@
 ### Synonyms
 - [[ringed worm]]
 #adjective
-- **Of, or relating to these creatures**
+- **Of, or relating to these [[creatures]]**
 ---
 ---

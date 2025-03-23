@@ -1,7 +1,7 @@
 # Ambition
 ---
 #noun
-- **Eager or inordinate desire for some object that confers distinction, as preferment, honor, superiority, political power, or literary fame; desire to distinguish one's self from other people.**
+- **Eager or inordinate desire for some object that [[confers]] distinction, as preferment, honor, superiority, political power, or literary fame; desire to distinguish one's self from other people.**
 	- _Example: My son, John, wants to be a firefighter very much. He has a lot of ambition._
 - **An object of an [[ardent]] desire.**
 	- _Example: My ambition is to own a helicopter._
@@ -10,7 +10,7 @@
 - **The [[act]] of going [[about]] to solicit or obtain an office, or [[any]] other object of desire; [[canvassing]].**
 ---
 #verb
-- **To seek [[after]] [[ambitiously]] or eagerly; to covet.**
+- **To seek [[after]] [[ambitiously]] or eagerly; to [[covet]].**
 	- _Example: Pausanias, ambitioning the sovereignty of Greece, bargains with Xerxes for his daughter in marriage. — Trumbull._
 ---
 ---

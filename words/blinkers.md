@@ -15,7 +15,7 @@
 	- _Example: The farmer stopped to blinker his horse before riding into an area of heavy traffic._
 ---
 #noun
-- **A pair of leather or rubber eye cups [[attached]] to a horse hood in order to impede the rear vision of racehorses and harness horses; [[blinders]] in (USA).**
+- **A pair of leather or rubber eye [[cups]] [[attached]] to a horse hood in order to impede the rear vision of racehorses and harness horses; [[blinders]] in (USA).**
 - **A kind of goggles, used to protect the eyes from glare, dust, etc.**
 - **Spectacles.**
 ---

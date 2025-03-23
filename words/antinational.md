@@ -5,6 +5,6 @@
 ---
 #adjective
 - **Opposed to one's own nation; unpatriotic.**
-- **Opposed to purely national concerns; not founded on the idea of the nation.**
+- **Opposed to purely national [[concerns]]; not founded on the idea of the nation.**
 ---
 ---

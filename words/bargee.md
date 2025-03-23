@@ -1,6 +1,6 @@
 # Bargee
 ---
 #noun
-- **A crewman of a working [[barge]].**
+- **A [[crewman]] of a working [[barge]].**
 ---
 ---

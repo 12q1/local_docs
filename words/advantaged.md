@@ -7,7 +7,7 @@
 ### Synonyms
 - [[benefit]], [[favor]], [[favorise]]
 #adjective
-- **Having [[been]] given an [[advantage]], such as by [[biased]] referees in a competition.**
+- **Having [[been]] given an [[advantage]], such as by [[biased]] referees in a [[competition]].**
 - **(of a person) Financially secure; elite and economically successful.**
 ---
 ---

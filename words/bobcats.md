@@ -6,6 +6,6 @@
 ### Synonyms
 - [[red lynx]]
 #noun
-- **A multi-purpose construction vehicle, [[akin]] to a smaller version of a front-end loader or a [[backhoe]] ([[backhoe]] loader), with a one-man [[caged]] control [[cabin]]**
+- **A multi-purpose [[construction]] vehicle, [[akin]] to a smaller version of a front-end loader or a [[backhoe]] ([[backhoe]] loader), with a one-man [[caged]] [[control]] [[cabin]]**
 ---
 ---

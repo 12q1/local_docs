@@ -1,12 +1,12 @@
 # Band
 ---
 #noun
-- **A strip of material used for strengthening or coupling.**
-- **A long strip of material, color, etc, that is different from the surrounding [[area]].**
-- **A strip of decoration.**
-- **That which serves as the means of union or connection [[between]] persons; a tie.**
-- **A linen collar or ruff worn in the 16th and 17th [[centuries]].**
-- **(in the plural) Two strips of linen hanging from the neck in front as part of a clerical, legal, or [[academic]] dress.**
+- **A strip of material used for strengthening or [[coupling]].**
+- **A long strip of material, [[color]], etc, that is different from the surrounding [[area]].**
+- **A strip of [[decoration]].**
+- **That which serves as the means of union or [[connection]] [[between]] persons; a tie.**
+- **A linen [[collar]] or ruff worn in the 16th and 17th [[centuries]].**
+- **(in the plural) Two strips of linen hanging from the neck in front as part of a [[clerical]], legal, or [[academic]] dress.**
 - **A part of the electromagnetic spectrum.**
 - **A group of energy levels in a solid state material.**
 	- _Example: valence band;  conduction band_

@@ -3,8 +3,8 @@
 #verb
 - **(physical) To move, or be moved, [[away]].**
 - **To direct (one's eyes, gaze etc.).**
-- **To [[add]] up (a column of figures, [[accounts]] etc.); cross-[[cast]] refers to [[adding]] up a row of figures.**
-- **(social) To predict, to decide, to plan.**
+- **To [[add]] up (a [[column]] of figures, [[accounts]] etc.); [[cross]]-[[cast]] refers to [[adding]] up a row of figures.**
+- **(social) To predict, to [[decide]], to plan.**
 - **To perform, [[bring]] forth (a magical spell or enchantment).**
 - **To throw (light etc.) on or upon something, or in a given direction.**
 - **To give [[birth]] to (a [[child]]) prematurely; to miscarry.**

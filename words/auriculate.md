@@ -1,7 +1,7 @@
 # Auriculate
 ---
 #adjective
-- **(of leaves) Having two lobes, often curved, often near the [[base]].**
+- **(of leaves) Having two lobes, often [[curved]], often near the [[base]].**
 ---
 #adjective
 - **Having ears or [[appendages]] like ears; eared.**

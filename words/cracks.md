@@ -1,0 +1,87 @@
+# Cracks
+---
+#noun
+- **A thin and usually jagged space opened in a previously solid material.**
+	- _Example: A large crack had formed in the roadway._
+- **A narrow opening.**
+	- _Example: Open the door a crack._
+- **A sharply humorous [[comment]]; a wisecrack.**
+	- _Example: I didn't appreciate that crack about my hairstyle._
+- **Crack [[cocaine]], a potent, relatively [[cheap]], [[addictive]] variety of [[cocaine]]; often a rock, usually smoked through a [[crack]]-pipe.**
+	- _Example: crack head_
+- **The sharp sound made when solid material [[breaks]].**
+	- _Example: The crack of the falling branch could be heard for miles._
+- **Any sharp sound.**
+	- _Example: The crack of the bat hitting the ball._
+- **A sharp, resounding [[blow]].**
+- **An [[attempt]] at something.**
+	- _Example: I'd like to take a crack at that game._
+- **Vagina.**
+	- _Example: I'm so horny even the crack of dawn isn't safe!_
+- **The space [[between]] the [[buttocks]].**
+	- _Example: Pull up your pants! Your crack is showing._
+- **Conviviality; fun; good [[conversation]], [[chat]], gossip, or humorous storytelling; good [[company]].**
+	- _Example: He/she is quare good crack._
+- **Business; events; news.**
+	- _Example: What's the crack?_
+- **A program or procedure designed to [[circumvent]] restrictions or usage limits on software.**
+	- _Example: Has anyone got a crack for DocumentWriter 3.0?_
+- **(elsewhere throughout the North of the UK) a meaningful [[chat]].**
+- **Extremely silly, [[absurd]] or off-the-wall ideas or prose.**
+- **The tone of voice when [[changed]] at puberty.**
+- **A mental flaw; a touch of [[craziness]]; partial insanity.**
+	- _Example: He has a crack._
+- **A [[crazy]] or [[crack]]-[[brained]] person.**
+- **A [[boast]]; [[boasting]].**
+- **Breach of [[chastity]].**
+- **A [[boy]], generally a pert, lively [[boy]].**
+- **A [[brief]] time; an instant; a jiffy.**
+	- _Example: I'll be with you in a crack._
+---
+### Synonyms
+- [[crackpot]], [[crack cocaine]], [[arse]], [[ass]], [[bum]]
+#verb
+- **To form [[cracks]].**
+	- _Example: It's been so dry, the ground is starting to crack._
+- **To [[break]] [[apart]] under pressure.**
+	- _Example: When I tried to stand on the chair, it cracked._
+- **To [[become]] [[debilitated]] by psychological pressure.**
+	- _Example: Anyone would crack after being hounded like that._
+- **To [[break]] down or yield, especially under interrogation or torture.**
+	- _Example: When we showed him the pictures of the murder scene, he cracked._
+- **To make a [[cracking]] sound.**
+	- _Example: The bat cracked with authority and the ball went for six._
+- **(of a voice) To [[change]] rapidly in register.**
+	- _Example: His voice cracked with emotion._
+- **(of a pubescent [[boy]]'s voice) To [[alternate]] [[between]] high and low register in the process of eventually lowering.**
+	- _Example: His voice finally cracked when he was fourteen._
+- **To make a sharply humorous [[comment]].**
+	- _Example: "I would too, with a face like that," she cracked._
+- **To make a [[crack]] or [[cracks]] in.**
+	- _Example: The ball cracked the window._
+- **To [[break]] open or [[crush]] to small pieces by impact or stress.**
+	- _Example: You'll need a hammer to crack a black walnut._
+- **To strike forcefully.**
+	- _Example: She cracked him over the head with her handbag._
+- **To open slightly.**
+	- _Example: Could you please crack the window?_
+- **To [[cause]] to yield under interrogation or other pressure. (Figurative)**
+	- _Example: They managed to crack him on the third day._
+- **To solve a difficult problem. (Figurative, from [[cracking]] a nut.)**
+	- _Example: I've finally cracked it, and of course the answer is obvious in hindsight._
+- **To overcome a security system or a [[component]].**
+	- _Example: It took a minute to crack the lock, three minutes to crack the security system, and about twenty minutes to crack the safe._
+- **To [[cause]] to make a sharp sound.**
+	- _Example: to crack a whip_
+- **To tell (a joke).**
+	- _Example: The performance was fine until he cracked that dead baby joke._
+- **To [[break]] down (a [[complex]] molecule), especially with the [[application]] of heat: to pyrolyse.**
+	- _Example: Acetone is cracked to ketene and methane at 700°C._
+- **To [[circumvent]] software restrictions such as regional [[coding]] or time limits.**
+	- _Example: That software licence will expire tomorrow unless we can crack it._
+- **To open a [[canned]] [[beverage]], or [[any]] packaged drink or food.**
+	- _Example: I'd love to crack open a beer._
+- **To [[brag]], [[boast]].**
+- **To be ruined or impaired; to fail.**
+---
+---

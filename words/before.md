@@ -17,7 +17,7 @@
 	- _Example: He stood before me._
 - **In the presence of.**
 	- _Example: He performed before the troops in North Africa._
-- **Under consideration, judgment, [[authority]] of (someone).**
+- **Under [[consideration]], judgment, [[authority]] of (someone).**
 	- _Example: The case laid before the panel aroused nothing but ridicule._
 - **In store for, in the future of (someone).**
 - **In front of, [[according]] to a formal system of ordering items.**

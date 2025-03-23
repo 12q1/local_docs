@@ -12,7 +12,7 @@
 - **To the purpose; [[appropriately]].**
 ---
 #preposition
-- **Regarding or concerning.**
+- **Regarding or [[concerning]].**
 ---
 ### Synonyms
 - [[about]], [[as for]]

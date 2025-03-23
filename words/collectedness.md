@@ -1,0 +1,6 @@
+# Collectedness
+---
+#noun
+- **The state or quality of [[being]] [[collected]].**
+---
+---

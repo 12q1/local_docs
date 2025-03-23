@@ -1,0 +1,6 @@
+# Damnum
+---
+#noun
+- **Harm; detriment**
+---
+---

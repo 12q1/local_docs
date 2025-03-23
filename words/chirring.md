@@ -6,7 +6,7 @@
 ### Synonyms
 - [[chirp]], [[stridulate]]
 #verb
-- **To coo like a pigeon.**
+- **To [[coo]] like a pigeon.**
 ---
 #noun
 - **The sound of a [[chirr]].**

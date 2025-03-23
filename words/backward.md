@@ -9,10 +9,10 @@
 - **(of motion) In the direction reverse of normal.**
 	- _Example: The occasional backward movement of planets is evidence they revolve around the sun._
 - **Reluctant or unable to [[advance]].**
-- **Of a culture: undeveloped or unsophisticated.**
+- **Of a [[culture]]: undeveloped or unsophisticated.**
 - **Outdated.**
-- **On that part of the field [[behind]] the [[batsman]]'s popping crease.**
-- **Further [[behind]] the [[batsman]]'s popping crease than something else.**
+- **On that part of the field [[behind]] the [[batsman]]'s popping [[crease]].**
+- **Further [[behind]] the [[batsman]]'s popping [[crease]] than something else.**
 - **Unwilling; [[averse]]; reluctant.**
 - **Slow to [[apprehend]]; having difficulties in learning.**
 	- _Example: a backward child_

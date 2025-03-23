@@ -3,7 +3,7 @@
 #noun
 - **The study of [[art]] or [[beauty]].**
 - **That which [[appeals]] to the senses.**
-- **The [[artistic]] motifs defining a collection of things, especially works of [[art]]; more [[broadly]], their vibe.**
+- **The [[artistic]] motifs [[defining]] a [[collection]] of things, especially works of [[art]]; more [[broadly]], their vibe.**
 	- _Example: Her most recent works have this quirky, half-serious 90's teen culture-inspired aesthetic._
 ---
 #adjective

@@ -1,7 +1,7 @@
 # Baronetage
 ---
 #noun
-- **Baronets collectively**
+- **Baronets [[collectively]]**
 - **The rank of a [[baronet]]**
 ---
 ---

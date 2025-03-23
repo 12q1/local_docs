@@ -7,6 +7,6 @@
 - **A hut.**
 - **(East African) A military or police post or magistracy.**
 - **A type of fertilizer rich in [[animal]] dung.**
-- **A method of composting.**
+- **A method of [[composting]].**
 ---
 ---

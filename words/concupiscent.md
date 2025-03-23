@@ -1,0 +1,6 @@
+# Concupiscent
+---
+#adjective
+- **Amorous; lustful.**
+---
+---

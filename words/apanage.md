@@ -6,6 +6,6 @@
 - **A perquisite that is [[appropriate]] to one's position.**
 ---
 #verb
-- **To confer an [[apanage]] upon.**
+- **To [[confer]] an [[apanage]] upon.**
 ---
 ---

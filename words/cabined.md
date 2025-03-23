@@ -6,7 +6,7 @@
 - **To live in, or as if in, a [[cabin]]; to lodge.**
 ---
 #adjective
-- **Confined at close quarters**
+- **Confined at [[close]] quarters**
 - **Circumscribed; restricted; having a narrow scope**
 ---
 ---

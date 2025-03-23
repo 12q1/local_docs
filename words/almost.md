@@ -5,7 +5,7 @@
 	- _Example: In all the submissions, they found four papers that were clearly worth publishing and another dozen almosts._
 ---
 #adverb
-- **Very close to, not quite.**
+- **Very [[close]] to, not quite.**
 	- _Example: Almost all people went there. - Not all but very close to it._
 ---
 ### Synonyms

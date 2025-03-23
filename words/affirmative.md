@@ -11,7 +11,7 @@
 #adjective
 - **Pertaining to truth; [[asserting]] that something is; [[affirming]]**
 	- _Example: an affirmative answer_
-- **Pertaining to [[any]] [[assertion]] or [[active]] confirmation that favors a particular result**
+- **Pertaining to [[any]] [[assertion]] or [[active]] [[confirmation]] that favors a particular result**
 - **Positive**
 	- _Example: an affirmative vote_
 - **Confirmative; ratifying.**
@@ -22,6 +22,6 @@
 ---
 #interjection
 - **An elaborate synonym for the word yes.**
-- **(especially radio communications) Yes; true; correct.**
+- **(especially radio [[communications]]) Yes; true; [[correct]].**
 ---
 ---

@@ -1,0 +1,6 @@
+# Crosshairs
+---
+#noun
+- **Reticle.**
+---
+---

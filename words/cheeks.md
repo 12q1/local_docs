@@ -6,7 +6,7 @@
 - **Impudence.**
 	- _Example: You’ve got some cheek, asking me for money!_
 - **One of the genae, flat [[areas]] on the sides of a trilobite's [[cephalon]].**
-- **One of the pieces of a machine, or of timber or stonework, that form corresponding sides or a similar pair.**
+- **One of the pieces of a machine, or of timber or stonework, that form [[corresponding]] sides or a similar pair.**
 	- _Example: the cheeks of a vice; the cheeks of a gun carriage_
 - **(in plural) The [[branches]] of a [[bridle]] [[bit]].**
 - **Either side of an axehead.**

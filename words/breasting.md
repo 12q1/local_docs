@@ -7,6 +7,6 @@
 - **To debreast.**
 ---
 #noun
-- **The curved [[channel]] in which a breastwheel turns.**
+- **The [[curved]] [[channel]] in which a breastwheel turns.**
 ---
 ---

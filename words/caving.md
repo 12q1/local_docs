@@ -3,7 +3,7 @@
 #verb
 - **To surrender.**
 	- _Example: He caved under pressure._
-- **To collapse.**
+- **To [[collapse]].**
 	- _Example: First the braces buckled, then the roof began to cave, then we ran._
 - **To hollow out or undermine.**
 	- _Example: The levee has been severely caved by the river current._
@@ -18,6 +18,6 @@
 - [[spelunk]]
 #noun
 - **The recreational sport of exploring [[caves]].**
-- **An [[act]] of collapsing or [[caving]] in.**
+- **An [[act]] of [[collapsing]] or [[caving]] in.**
 ---
 ---

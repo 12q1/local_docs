@@ -1,0 +1,43 @@
+# Cups
+---
+#noun
+- **A [[concave]] vessel for drinking from, usually made of opaque material (as opposed to a glass) and with a handle.**
+	- _Example: Pour the tea into the cup._
+- **The [[contents]] of said vessel; a [[cupful]].**
+	- _Example: I drank two cups of water but still felt thirsty._
+- **A [[customary]] unit of measure**
+- **A trophy in the shape of an oversized [[cup]].**
+	- _Example: The World Cup is awarded to the winner of a quadrennial football tournament._
+- **A [[contest]] for which a [[cup]] is [[awarded]].**
+	- _Example: The World Cup is the world's most widely watched sporting event._
+- **The main knockout tournament in a [[country]], organised [[alongside]] the league.**
+- **A [[cup]]-shaped object placed in the target hole.**
+	- _Example: The ball just misses the cup._
+- **(in [[combination]]) Any of various sweetened [[alcoholic]] drinks.**
+	- _Example: cider cup; gin cup; claret cup_
+- **A rigid [[concave]] protective [[covering]] for the male genitalia. (for UK usage see [[box]])**
+	- _Example: Players of contact sports are advised to wear a cup._
+- **One of the two parts of a [[brassiere]] which each [[cover]] a [[breast]].**
+	- _Example: The cups are made of a particularly uncomfortable material._
+- **The symbol \[[cup]] denoting union and similar operations ([[confer]] [[cap]]).**
+- **A suit of the minor [[arcana]] in tarot, or one of the [[cards]] from the suit.**
+- **(ultimate frisbee) A [[defensive]] style [[characterized]] by a three player near [[defense]] [[cupping]] the thrower; or those three players.**
+- **A flexible [[concave]] membrane used to temporarily [[attach]] a handle or hook to a flat surface by means of suction (suction [[cup]]).**
+- **Anything shaped like a [[cup]].**
+	- _Example: the cup of an acorn_
+- **A [[cupping]] glass or other vessel or instrument used to produce the vacuum in [[cupping]].**
+- **That which is to be received or indured; that which is [[allotted]] to one; a portion of [[blessings]] and [[afflictions]].**
+---
+#verb
+- **To form into the shape of a [[cup]], particularly of the hands.**
+	- _Example: Cup your hands and I'll pour some rice into them._
+- **To hold something in [[cupped]] hands.**
+	- _Example: He cupped the ball carefully in his hands._
+- **To pour (a liquid, drink, etc.) into a [[cup]].**
+	- _Example: We are cupping some new brands of coffee today._
+- **To supply with [[cups]] of wine.**
+- **To [[apply]] a [[cupping]] [[apparatus]] to; to subject to the operation of [[cupping]].**
+- **To make [[concave]] or in the form of a [[cup]].**
+	- _Example: to cup the end of a screw_
+---
+---

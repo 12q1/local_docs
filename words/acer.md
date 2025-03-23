@@ -1,7 +1,7 @@
 # Acer
 ---
 #noun
-- **An English unit of land [[area]] (symbol: a. or [[ac]].) originally denoting a day's plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.**
+- **An English unit of land [[area]] (symbol: a. or [[ac]].) originally denoting a [[day]]'s plowing for a yoke of oxen, now standardized as 4,840 square yards or 4,046.86 square meters.**
 - **Any of various similar units of [[area]] in other systems.**
 - **(usually in the plural) A wide expanse.**
 	- _Example: I like my new house - there’s acres of space!_

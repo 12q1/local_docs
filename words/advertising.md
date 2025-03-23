@@ -12,7 +12,7 @@
 ### Synonyms
 - [[promote]], [[publicise]], [[sell]], [[announce]], [[proclaim]], [[promulgate]], [[publish]], [[alert]], [[apprise]], [[inform]], [[notify]]
 #noun
-- **Communication whose purpose is to influence potential customers [[about]] products and services.**
-- **The industry or profession made up of such communications.**
+- **Communication whose purpose is to influence potential [[customers]] [[about]] products and services.**
+- **The industry or profession made up of such [[communications]].**
 ---
 ---

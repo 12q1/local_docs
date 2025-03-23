@@ -12,9 +12,9 @@
 #preposition
 - **From one side to the other side of.**
 	- _Example: The stars moved slowly athwart the sky._
-- **Across the line of a ship's course or [[across]] its deck.**
+- **Across the line of a ship's [[course]] or [[across]] its [[deck]].**
 	- _Example: The damaged mainmast fell athwart the deck, destroying the ship's boat._
-- **Across the path or course of; opposing.**
+- **Across the path or [[course]] of; opposing.**
 ---
 ### Synonyms
 - [[opposing]], [[overthwart]]

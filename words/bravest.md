@@ -1,7 +1,7 @@
 # Bravest
 ---
 #adjective
-- **Strong in the face of fear; courageous.**
+- **Strong in the face of fear; [[courageous]].**
 - **Having [[any]] sort of superiority or excellence.**
 - **Making a fine show or display.**
 ---

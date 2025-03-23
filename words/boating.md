@@ -9,6 +9,6 @@
 ---
 #noun
 - **The [[activity]] of going out onto a [[body]] of water in a [[boat]].**
-- **In Persia, a punishment of [[capital]] offenders, by laying them on the [[back]] in a covered [[boat]], where they are left to perish.**
+- **In Persia, a punishment of [[capital]] offenders, by laying them on the [[back]] in a [[covered]] [[boat]], where they are left to perish.**
 ---
 ---

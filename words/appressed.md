@@ -1,7 +1,7 @@
 # Appressed
 ---
 #verb
-- **To press close to.**
+- **To press [[close]] to.**
 ---
 #adjective
 - **Closely flattened down.**

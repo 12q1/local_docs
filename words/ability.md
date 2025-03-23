@@ -8,7 +8,7 @@
 - **Physical power.**
 - **Financial [[ability]].**
 - **A unique power of the mind; a faculty.**
-- **A skill or competence in doing; mental power; talent; [[aptitude]].**
+- **A skill or [[competence]] in doing; mental power; talent; [[aptitude]].**
 	- _Example: She has an uncanny ability to defuse conflict._
 ---
 ### Synonyms

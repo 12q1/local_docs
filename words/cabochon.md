@@ -1,6 +1,6 @@
 # Cabochon
 ---
 #noun
-- **A convex-cut, polished stone.**
+- **A [[convex]]-[[cut]], polished stone.**
 ---
 ---

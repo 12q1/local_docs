@@ -1,9 +1,9 @@
 # Bolder
 ---
 #adjective
-- **Courageous, daring.**
+- **Courageous, [[daring]].**
 	- _Example: Bold deeds win admiration and, sometimes, medals._
-- **Visually striking; conspicuous.**
+- **Visually striking; [[conspicuous]].**
 	- _Example: the painter's bold use of colour and outline_
 - **(of typefaces) Having thicker strokes than the ordinary form of the typeface.**
 	- _Example: The last word of this sentence is bold._

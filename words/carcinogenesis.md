@@ -1,6 +1,6 @@
 # Carcinogenesis
 ---
 #noun
-- **The creation of [[cancer]] [[cells]].**
+- **The [[creation]] of [[cancer]] [[cells]].**
 ---
 ---

@@ -13,7 +13,7 @@
 ### Synonyms
 - [[brook]], [[burn]], [[creek]], [[stream]]
 #noun
-- **A significant nod, or motion of the head or hand, especially as a [[call]] or command.**
+- **A significant nod, or motion of the head or hand, especially as a [[call]] or [[command]].**
 ---
 #noun
 - **A vat.**

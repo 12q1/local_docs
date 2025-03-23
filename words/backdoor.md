@@ -12,6 +12,6 @@
 - [[foredoor]], [[front door]]
 #verb
 - **To [[attempt]] to [[accomplish]] by indirect means, especially when direct means are proscribed.**
-- **To enter a tube by [[accelerating]] from [[behind]]; to surf into an [[already]] formed hollow wave, in contrast to the normal method of slowing to [[allow]] a surfable wave to form.**
+- **To enter a tube by [[accelerating]] from [[behind]]; to surf into an [[already]] formed hollow wave, in [[contrast]] to the normal method of slowing to [[allow]] a surfable wave to form.**
 ---
 ---

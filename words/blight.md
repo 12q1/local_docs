@@ -1,8 +1,8 @@
 # Blight
 ---
 #noun
-- **Any of many plant diseases [[causing]] damage to, or the death of, leaves, fruit or other parts.**
-- **The [[bacterium]], virus or fungus that [[causes]] such a condition.**
+- **Any of many plant diseases [[causing]] [[damage]] to, or the [[death]] of, leaves, fruit or other parts.**
+- **The [[bacterium]], virus or fungus that [[causes]] such a [[condition]].**
 - **(by extension) Anything that impedes growth or development or spoils [[any]] other [[aspect]] of life.**
 ---
 #verb

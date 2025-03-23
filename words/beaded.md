@@ -10,7 +10,7 @@
 - **To [[cause]] [[beads]] to form on (something).**
 ---
 #adjective
-- **Made from, or decorated with, [[beads]].**
+- **Made from, or [[decorated]] with, [[beads]].**
 - **Having formed in [[beads]] or a [[bead]]-like shape.**
 ---
 ---

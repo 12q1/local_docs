@@ -1,6 +1,6 @@
 # Antiinflammatories
 ---
 #noun
-- **An [[agent]] that prevents or counteracts inflammation.**
+- **An [[agent]] that prevents or [[counteracts]] inflammation.**
 ---
 ---

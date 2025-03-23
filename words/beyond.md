@@ -24,7 +24,7 @@
 - **In [[addition]] to.**
 - **Past, or out of reach of.**
 	- _Example: The patient was beyond medical help._
-- **Not within the comprehension of.**
+- **Not within the [[comprehension]] of.**
 	- _Example: He understood geometry well, but algebraic topology was beyond him._
 ---
 ### Synonyms

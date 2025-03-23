@@ -1,6 +1,6 @@
 # Blepharospasm
 ---
 #noun
-- **A physiological condition [[characterized]] by recurring involuntary twitches or closing of the eyelids.**
+- **A physiological [[condition]] [[characterized]] by recurring involuntary twitches or [[closing]] of the eyelids.**
 ---
 ---

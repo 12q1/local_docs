@@ -1,7 +1,7 @@
 # Athenaeum
 ---
 #noun
-- **A temple primarily dedicated to Athena or her Roman equivalent Minerva, especially that of Athens.**
+- **A temple primarily [[dedicated]] to Athena or her Roman equivalent Minerva, especially that of Athens.**
 ---
 #noun
 - **An [[association]] for the [[advancement]] of learning, particularly in science or literature.**

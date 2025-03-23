@@ -1,7 +1,7 @@
 # Barmiest
 ---
 #adjective
-- **Odd, strange, or crazy.**
+- **Odd, strange, or [[crazy]].**
 ---
 ### Synonyms
 - [[balmy]], [[dotty]], [[goofy]], [[wacko]]

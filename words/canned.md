@@ -16,7 +16,7 @@
 #adjective
 - **Preserved in [[cans]].**
 	- _Example: canned tomatoes_
-- **(by extension) Previously prepared; not fresh or new; standardized, mass produced, or lacking originality or customization.**
+- **(by extension) Previously prepared; not fresh or new; standardized, mass produced, or lacking originality or [[customization]].**
 	- _Example: The form letter included a canned answer stating that what I asked was against policy._
 - **Drunk.**
 - **Terminated, fired from a job.**

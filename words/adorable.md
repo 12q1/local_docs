@@ -1,6 +1,6 @@
 # Adorable
 ---
 #adjective
-- **Befitting of [[being]] [[adored]]; cute or loveable.**
+- **Befitting of [[being]] [[adored]]; [[cute]] or loveable.**
 ---
 ---

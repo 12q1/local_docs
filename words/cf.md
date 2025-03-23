@@ -1,7 +1,7 @@
 # Cf
 ---
 #verb
-- **Compare, compare to, compare with**
+- **Compare, [[compare]] to, [[compare]] with**
 - **See [[also]]**
 ---
 ---

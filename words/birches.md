@@ -1,7 +1,7 @@
 # Birches
 ---
 #noun
-- **Any of various trees of the genus Betula, native to countries in the Northern Hemisphere.**
+- **Any of various trees of the genus Betula, native to [[countries]] in the Northern Hemisphere.**
 - **A hard wood taken from the [[birch]] tree, typically used to make furniture.**
 - **A stick, rod or [[bundle]] of twigs made from [[birch]] wood, used for punishment.**
 - **A [[birch]]-[[bark]] [[canoe]].**

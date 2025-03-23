@@ -3,9 +3,9 @@
 #verb
 - **To make temporarily or permanently [[blind]].**
 	- _Example: Don't wave that pencil in my face - do you want to blind me?_
-- **To curse.**
-- **To darken; to obscure to the eye or understanding; to conceal.**
-- **To cover with a thin coating of sand and fine gravel, for example a road newly paved, in order that the joints [[between]] the stones may be filled.**
+- **To [[curse]].**
+- **To [[darken]]; to obscure to the eye or understanding; to [[conceal]].**
+- **To [[cover]] with a thin [[coating]] of sand and fine gravel, for example a road newly paved, in order that the joints [[between]] the stones may be filled.**
 ---
 #adjective
 - **(of a person or [[animal]]) Unable to see, due to physiological or neurological factors.**
@@ -14,7 +14,7 @@
 	- _Example: Authors are blind to their own defects._
 - **Of a place, having little or no visibility.**
 	- _Example: a blind corner_
-- **Closed at one end; having a dead end**
+- **Closed at one end; having a [[dead]] end**
 	- _Example: a blind gut_
 - **Having no openings for light or passage.**
 	- _Example: a blind alley_

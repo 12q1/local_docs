@@ -2,8 +2,8 @@
 ---
 #noun
 - **A map.**
-- **A systematic non-narrative presentation of data.**
-- **A written deed; a [[charter]].**
+- **A systematic non-narrative presentation of [[data]].**
+- **A written [[deed]]; a [[charter]].**
 - **A subspace of a manifold used as part of an [[atlas]]**
 ---
 #verb

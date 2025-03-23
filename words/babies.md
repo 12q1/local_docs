@@ -1,7 +1,7 @@
 # Babies
 ---
 #noun
-- **A very young human, particularly from [[birth]] to a couple of years old or until walking is fully mastered.**
+- **A very young human, particularly from [[birth]] to a [[couple]] of years old or until walking is fully mastered.**
 - **Any very young [[animal]], especially a vertebrate; many species have specific names for their [[babies]], such as kittens for the [[babies]] of [[cats]], puppies for the [[babies]] of dogs, and [[chickens]] for the [[babies]] of [[birds]]. See for more.**
 - **Unborn young; a fetus.**
 	- _Example: When is your baby due?_
@@ -13,7 +13,7 @@
 	- _Example: Adam is the baby of the family._
 - **A term of endearment used to refer to or [[address]] one's girlfriend, [[boyfriend]] or spouse.**
 	- _Example: Baby, don't cry._
-- **A form of [[address]] to a man or a woman considered to be [[attractive]].**
+- **A form of [[address]] to a man or a woman [[considered]] to be [[attractive]].**
 	- _Example: Hey baby, what are you doing later?_
 - **A pet project or responsibility.**
 	- _Example: You need to talk to John about that – it's his baby._
@@ -24,7 +24,7 @@
 ### Synonyms
 - [[big baby]], [[love]], [[babbie]], [[babby]], [[babe]], [[infant]]
 #verb
-- **To coddle; to pamper somebody like an infant.**
+- **To [[coddle]]; to pamper somebody like an infant.**
 - **To tend (something) with [[care]]; to be overly [[attentive]] to (something), fuss over.**
 ---
 ---

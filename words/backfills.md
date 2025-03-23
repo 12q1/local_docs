@@ -4,7 +4,7 @@
 - **The material that has [[been]] used to refill an excavation.**
 - **Reserve support personnel.**
 - **That which [[backfills]]; a replacement.**
-- **Material in a story set earlier in the past, providing history or context for the current [[action]].**
+- **Material in a story set earlier in the past, providing history or [[context]] for the [[current]] [[action]].**
 ---
 #verb
 - **To refill a hole with the material dug out of it.**

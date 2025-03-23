@@ -1,0 +1,6 @@
+# Cornerwise
+---
+#adverb
+- **Diagonally.**
+---
+---

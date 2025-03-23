@@ -1,7 +1,7 @@
 # Airbrushes
 ---
 #noun
-- **A miniature, handheld paint sprayer, powered by compressed [[air]] or other gas, used for delicate, [[artistic]] painting, or sometimes retouching of photographs.**
+- **A miniature, handheld paint sprayer, powered by [[compressed]] [[air]] or other gas, used for delicate, [[artistic]] painting, or sometimes retouching of photographs.**
 ---
 #verb
 - **To paint using an [[airbrush]].**

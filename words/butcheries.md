@@ -1,7 +1,7 @@
 # Butcheries
 ---
 #noun
-- **The cruel, ruthless killings of humans, as at a slaughterhouse.**
+- **The [[cruel]], ruthless killings of humans, as at a slaughterhouse.**
 - **An [[abattoir]], a slaughterhouse.**
 - **The [[butchering]] of meat.**
 - **A disastrous effort, an [[atrocious]] failure.**

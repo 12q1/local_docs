@@ -7,15 +7,15 @@
 - **The works of a writer that have [[been]] [[accepted]] as [[authentic]].**
 	- _Example: the entire Shakespeare canon_
 - **A eucharistic prayer, particularly the Roman Canon.**
-- **A religious law or [[body]] of law decreed by the [[church]].**
+- **A religious law or [[body]] of law [[decreed]] by the [[church]].**
 	- _Example: We must proceed according to canon law._
 - **A [[catalogue]] of saints [[acknowledged]] and [[canonized]] in the Roman Catholic Church.**
-- **In monasteries, a [[book]] containing the rules of a religious order.**
-- **A member of a [[cathedral]] [[chapter]]; one who possesses a prebend in a [[cathedral]] or collegiate [[church]].**
+- **In monasteries, a [[book]] [[containing]] the rules of a religious order.**
+- **A member of a [[cathedral]] [[chapter]]; one who possesses a prebend in a [[cathedral]] or [[collegiate]] [[church]].**
 - **A piece of music in which the same melody is played by different voices, but [[beginning]] at different times; a round.**
 	- _Example: Pachelbel’s Canon has become very popular._
 - **(Roman law) A rent or stipend payable at some regular time, generally [[annual]], e.g., [[canon]] frumentarius**
-- **Those sources, especially including literary works, which are considered part of the main continuity regarding a given fictional universe.**
+- **Those sources, especially including literary works, which are [[considered]] part of the main [[continuity]] regarding a given fictional universe.**
 	- _Example: A spin-off book series revealed the aliens to be originally from Earth, but it's not canon._
 - **A rolled and filleted loin of meat; [[also]] [[called]] [[cannon]].**
 	- _Example: a canon of beef or lamb_
@@ -26,7 +26,7 @@
 ### Synonyms
 - [[French canon]]
 #noun
-- **A clergy member serving a [[cathedral]] or collegiate [[church]].**
+- **A [[clergy]] member serving a [[cathedral]] or [[collegiate]] [[church]].**
 - **A [[canon]] regular, a member of [[any]] of several Roman Catholic religious orders.**
 ---
 #noun

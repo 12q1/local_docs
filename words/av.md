@@ -4,7 +4,7 @@
 - **Measured by or in proportion to value.**
 ---
 #noun
-- **A piece of software that is used to detect, delete and or neutralize computer-[[based]] viruses.**
+- **A piece of software that is used to detect, delete and or neutralize [[computer]]-[[based]] viruses.**
 ---
 #adjective
 - **Containing [[both]] [[aural]] and visual elements.**
@@ -20,7 +20,7 @@
 - **The principal walk or [[approach]] to a house which is withdrawn from the road, especially, such [[approach]] [[bordered]] on each side by trees; [[any]] [[broad]] passageway thus [[bordered]].**
 - **A method or means by which something may be [[accomplished]].**
 	- _Example: There are several avenues by which we can approach this problem._
-- **(urban toponymy) A street, especially, in cities laid out in a grid pattern, one that is in a particular side of the city or that runs in a particular direction.**
+- **(urban toponymy) A street, especially, in [[cities]] laid out in a grid pattern, one that is in a particular side of the [[city]] or that runs in a particular direction.**
 ---
 ### Synonyms
 - [[av]], [[av.]], [[ave]], [[ave.]], [[boulevard]], [[drive]]
@@ -38,8 +38,8 @@
 ### Antonyms
 - [[extraordinary]]
 #noun
-- **The official system of weights used in the UK [[between]] 1856 and 1963. It had [[been]] the customary system in London since 1300.**
+- **The official system of weights used in the UK [[between]] 1856 and 1963. It had [[been]] the [[customary]] system in London since 1300.**
 - **The official system of weights used in the USA [[between]] 1866 and 1959.**
-- **Weight; heaviness (commonly with humorous intent).**
+- **Weight; heaviness ([[commonly]] with humorous intent).**
 ---
 ---

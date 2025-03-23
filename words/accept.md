@@ -1,7 +1,7 @@
 # Accept
 ---
 #verb
-- **To receive, especially with a consent, with favour, or with [[approval]].**
+- **To receive, especially with a [[consent]], with favour, or with [[approval]].**
 - **To [[admit]] to a place or a group.**
 	- _Example: The Boy Scouts were going to accept him as a member._
 - **To regard as proper, usual, true, or to [[believe]] in.**

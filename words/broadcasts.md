@@ -4,7 +4,7 @@
 - **A transmission of a radio or television programme intended to be received by [[anyone]] with a receiver.**
 - **A programme ([[bulletin]], documentary, show, etc.) so transmitted.**
 	- _Example: The DJ was feeling nervous before his first national broadcast._
-- **The [[act]] of scattering seed; a crop grown from such seed.**
+- **The [[act]] of scattering seed; a [[crop]] grown from such seed.**
 ---
 ### Antonyms
 - [[narrowcast]]

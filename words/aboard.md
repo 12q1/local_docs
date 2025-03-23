@@ -7,7 +7,7 @@
 	- _Example: To sling a saddle aboard._
 - **On [[base]].**
 	- _Example: He doubled with two men aboard, scoring them both._
-- **Into a team, group, or company.**
+- **Into a team, group, or [[company]].**
 	- _Example: The office manager welcomed him aboard._
 - **Alongside.**
 	- _Example: The captain laid his ship aboard the enemy's ship._

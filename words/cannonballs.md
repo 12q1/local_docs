@@ -4,7 +4,7 @@
 - **([[artillery]])**
 ---
 #noun
-- **The [[act]] of running and jumping in a flexed position into a swimming pool to create a large splash, mimicking the flight and shape of a [[cannonball]].**
+- **The [[act]] of running and jumping in a flexed position into a swimming pool to [[create]] a large splash, mimicking the flight and shape of a [[cannonball]].**
 	- _Example: The New Yorker, 30 August 2004, p.40_
 ---
 #verb

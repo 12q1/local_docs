@@ -1,10 +1,10 @@
 # Art
 ---
 #noun
-- **The conscious production or [[arrangement]] of sounds, colours, forms, movements, or other elements in a manner that [[affects]] the senses and emotions, usually specifically the production of the [[beautiful]] in a graphic or plastic medium.**
+- **The [[conscious]] production or [[arrangement]] of sounds, [[colours]], forms, movements, or other elements in a manner that [[affects]] the senses and emotions, usually specifically the production of the [[beautiful]] in a graphic or plastic medium.**
 	- _Example: There is a debate as to whether graffiti is art or vandalism._
-- **The creative and emotional expression of mental imagery, such as visual, [[auditory]], social, etc.**
-- **Skillful creative [[activity]], usually with an [[aesthetic]] focus.**
+- **The [[creative]] and emotional expression of mental imagery, such as visual, [[auditory]], social, etc.**
+- **Skillful [[creative]] [[activity]], usually with an [[aesthetic]] focus.**
 	- _Example: She's mastered the art of programming._
 - **The study and the product of these processes.**
 	- _Example: He's at university to study art._

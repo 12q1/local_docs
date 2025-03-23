@@ -11,7 +11,7 @@
 - **Full of life or spirit; lively; vigorous; spritely.**
 	- _Example: an animated discussion_
 - **Endowed with life.**
-- **Composed of inanimate objects or drawings that [[appear]] to move thought the use of computer graphics or stop-[[action]] filming.**
+- **Composed of inanimate objects or drawings that [[appear]] to move thought the use of [[computer]] graphics or stop-[[action]] filming.**
 	- _Example: an animated film_
 ---
 ### Synonyms

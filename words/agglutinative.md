@@ -5,7 +5,7 @@
 ---
 #adjective
 - **Sticky, tacky, [[adhesive]]**
-- **Having words derived by combining parts, each with a separate meaning**
+- **Having words derived by [[combining]] parts, each with a separate meaning**
 ---
 ### Synonyms
 - [[claggy]], [[tenacious]]

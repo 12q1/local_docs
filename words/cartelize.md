@@ -1,6 +1,6 @@
 # Cartelize
 ---
 #verb
-- **To have an industry [[become]] controlled by a [[cartel]].**
+- **To have an industry [[become]] [[controlled]] by a [[cartel]].**
 ---
 ---

@@ -1,8 +1,8 @@
 # Altogether
 ---
 #adverb
-- **Without exception; wholly; completely.**
-- **On the whole; with everything considered.**
+- **Without exception; wholly; [[completely]].**
+- **On the whole; with everything [[considered]].**
 	- _Example: Altogether, I'm sorry it happened._
 ---
 ### Synonyms

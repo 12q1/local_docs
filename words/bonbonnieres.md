@@ -1,6 +1,6 @@
 # Bonbonnieres
 ---
 #noun
-- **A [[box]] of [[chocolates]] or similar confectionary**
+- **A [[box]] of [[chocolates]] or similar [[confectionary]]**
 ---
 ---

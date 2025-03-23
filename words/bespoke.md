@@ -12,8 +12,8 @@
 - **To speak up or out; exclaim; speak.**
 ---
 #adjective
-- **Individually or custom made.**
-- **Relating to someone who makes custom-made products, especially clothing items.**
+- **Individually or [[custom]] made.**
+- **Relating to someone who makes [[custom]]-made products, especially [[clothing]] items.**
 	- _Example: a bespoke tailor_
 ---
 ### Synonyms

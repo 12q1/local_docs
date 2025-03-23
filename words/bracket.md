@@ -2,8 +2,8 @@
 ---
 #noun
 - **A fixture [[attached]] to a wall to hold up a shelf.**
-- **Any intermediate object that connects a smaller part to a larger part, the smaller part typically projecting sideways from the larger part.**
-- **A short crooked timber, resembling a knee, used as a support.**
+- **Any intermediate object that [[connects]] a smaller part to a larger part, the smaller part typically projecting sideways from the larger part.**
+- **A short [[crooked]] timber, resembling a knee, used as a support.**
 - **The [[cheek]] or side of an ordnance [[carriage]], supporting the trunnions.**
 - **Any of the [[characters]] "(", ")", "[", "]", "{", "}", "<" and ">", used in pairs to enclose parenthetic remarks, sections of mathematical expressions, etc.**
 - **A printed diagram of games in a tournament.**
@@ -12,8 +12,8 @@
 	- _Example: tax bracket, age bracket_
 - **A pair of values that represent the smallest and largest elements of a range.**
 - **In [[artillery]], the endangered region [[between]] two shell impacts (one long and one short). The next shell fired is likely to hit [[accurately]].**
-- **The small curved or [[angular]] corner formed by a serif and a stroke in a letter.**
-- **(land surveying, 19th [[century]]) a mark cut into a stone by land surveyors to secure a [[bench]].**
+- **The small [[curved]] or [[angular]] [[corner]] formed by a serif and a stroke in a letter.**
+- **(land surveying, 19th [[century]]) a mark [[cut]] into a stone by land surveyors to secure a [[bench]].**
 ---
 ### Synonyms
 - [[parens]], [[parentheses]], [[benchmark]]
@@ -27,6 +27,6 @@
 - **To mark distinctly for special treatment.**
 - **To set [[aside]], discount, ignore.**
 - **To take multiple images of the same subject, using a range of exposure settings, in order to help ensure that a satisfactory image is obtained.**
-- **(phenomenology) In the philosophical system of Edmund Husserl and his followers, to set [[aside]] metaphysical theories and existential questions concerning what is real in order to focus philosophical [[attention]] simply on the [[actual]] content of experience.**
+- **(phenomenology) In the philosophical system of Edmund Husserl and his followers, to set [[aside]] metaphysical theories and existential questions [[concerning]] what is real in order to focus philosophical [[attention]] simply on the [[actual]] [[content]] of experience.**
 ---
 ---

@@ -4,7 +4,7 @@
 - **In a way which is [[certain]]; with [[certainty]].**
 - **Without doubt, surely.**
 	- _Example: That was certainly sweet of him._
-- **An emphatic [[affirmative]] [[answer]]; of course.**
+- **An emphatic [[affirmative]] [[answer]]; of [[course]].**
 	- _Example: Would you like it with ice?  Certainly, and with lemon please._
 ---
 ### Synonyms

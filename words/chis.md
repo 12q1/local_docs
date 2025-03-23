@@ -4,7 +4,7 @@
 - **The twenty-second letter of the Classical and Modern Greek [[alphabets]].**
 ---
 #noun
-- **A life force in traditional Chinese philosophy, culture, medicine, etc, related (but not limited) to [[breath]] and [[circulation]].**
+- **A life force in traditional Chinese philosophy, [[culture]], medicine, etc, related (but not limited) to [[breath]] and [[circulation]].**
 ---
 #noun
 - **The Chinese foot, a traditional Chinese unit of length [[based]] on the human forearm.**

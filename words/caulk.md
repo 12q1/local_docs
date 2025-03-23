@@ -6,11 +6,11 @@
 ---
 #noun
 - **Caulking.**
-- **A composition of vehicle and pigment used at [[ambient]] temperatures for filling/sealing joints or junctures, that remains elastic for an extended period of time [[after]] [[application]].**
+- **A [[composition]] of vehicle and pigment used at [[ambient]] temperatures for filling/sealing joints or junctures, that remains elastic for an extended period of time [[after]] [[application]].**
 ---
 #verb
-- **To drive oakum into the seams of a ship's wooden deck or hull to make it watertight.**
-- **To [[apply]] [[caulking]] to joints, cracks, or a juncture of different materials.**
+- **To drive oakum into the seams of a ship's wooden [[deck]] or hull to make it watertight.**
+- **To [[apply]] [[caulking]] to joints, [[cracks]], or a juncture of different materials.**
 - **Fuck**
 ---
 ---

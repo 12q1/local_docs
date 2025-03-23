@@ -15,7 +15,7 @@
 - **A straw hat.**
 ---
 #noun
-- **(originally United States) A dish consisting of slices of English muffins with poached eggs, ham or [[bacon]] and hollandaise sauce.**
+- **(originally United States) A dish [[consisting]] of slices of English muffins with poached eggs, ham or [[bacon]] and hollandaise sauce.**
 ---
 ### Synonyms
 - [[benny / Benny]], [[eggs benny / eggs Benny]]

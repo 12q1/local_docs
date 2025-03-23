@@ -11,7 +11,7 @@
 - **To smear, stain or smudge.**
 	- _Example: to blur a manuscript by handling it while damp_
 - **To [[become]] indistinct.**
-- **To [[cause]] imperfection of vision in; to dim; to darken.**
+- **To [[cause]] imperfection of vision in; to dim; to [[darken]].**
 - **To sully; to stain; to [[blemish]], as reputation.**
 - **To transfer the input focus [[away]] from.**
 ---
@@ -20,6 +20,6 @@
 ### Antonyms
 - [[sharpen]]
 #adjective
-- **In a state of doubt or confusion.**
+- **In a state of doubt or [[confusion]].**
 ---
 ---

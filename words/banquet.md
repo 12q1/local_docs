@@ -2,7 +2,7 @@
 ---
 #noun
 - **A large [[celebratory]] meal; a feast.**
-- **A dessert; a course of sweetmeats.**
+- **A dessert; a [[course]] of sweetmeats.**
 ---
 ### Synonyms
 - [[feast]], [[reception]]

@@ -1,13 +1,13 @@
 # Cycles
 ---
 #noun
-- **An interval of space or time in which one set of events or phenomena is completed.**
+- **An interval of space or time in which one set of events or phenomena is [[completed]].**
 	- _Example: the cycle of the seasons, or of the year_
-- **A complete rotation of [[anything]].**
+- **A [[complete]] rotation of [[anything]].**
 - **A process that returns to its [[beginning]] and then repeats itself in the same sequence.**
 	- _Example: electoral cycle_
 - **The members of the sequence formed by such a process.**
-- **In musical set theory, an interval [[cycle]] is the set of pitch classes resulting from repeatedly [[applying]] the same interval class to the starting pitch class.**
+- **In musical set theory, an interval [[cycle]] is the set of pitch [[classes]] resulting from repeatedly [[applying]] the same interval [[class]] to the starting pitch [[class]].**
 	- _Example: The interval cycle C4 consists of the pitch classes 0, 4 and 8; when starting on E, it is realised as the pitches E, G# and C._
 - **A series of poems, songs or other works of [[art]].**
 	- _Example: The "Ring of the Nibelung" is a cycle of four operas by Richard Wagner._
@@ -16,7 +16,7 @@
 - **A pedal-powered vehicle, such as a unicycle, [[bicycle]], or tricycle, or a motorized vehicle that has either two or three wheels.**
 - **A single, a double, a triple, and a home run hit by the same player in the same game.**
 	- _Example: Jones hit for the cycle in the game._
-- **A closed walk or path, with or without repeated vertices [[allowed]].**
+- **A [[closed]] walk or path, with or without repeated vertices [[allowed]].**
 - **([[algebraic]] topology) A [[chain]] whose [[boundary]] is zero.**
 - **An imaginary [[circle]] or orbit in the heavens; one of the [[celestial]] spheres.**
 - **An [[age]]; a long period of time.**

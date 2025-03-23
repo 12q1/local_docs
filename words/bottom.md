@@ -14,8 +14,8 @@
 - **(BDSM) A submissive in sadomasochistic sexual [[activity]].**
 - **A person with a preference for [[being]] penetrated during sexual intercourse.**
 - **A [[bottom]] quark.**
-- **The lowest part of a container.**
-- **A [[ball]] or skein of thread; a cocoon.**
+- **The lowest part of a [[container]].**
+- **A [[ball]] or skein of thread; a [[cocoon]].**
 - **The [[bed]] of a [[body]] of water, as of a river, lake, or sea.**
 - **An [[abyss]].**
 - **Power of endurance.**

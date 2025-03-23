@@ -1,7 +1,7 @@
 # Bellman
 ---
 #noun
-- **A town crier**
+- **A town [[crier]]**
 - **A [[bellhop]] or [[bellboy]]**
 ---
 ---

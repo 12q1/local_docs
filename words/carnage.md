@@ -2,7 +2,7 @@
 ---
 #noun
 - **Death and destruction.**
-- **The corpses, gore, etc. that remain [[after]] a massacre.**
+- **The [[corpses]], gore, etc. that remain [[after]] a massacre.**
 - **Any [[chaotic]] situation.**
 ---
 ### Synonyms

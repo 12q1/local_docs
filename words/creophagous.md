@@ -1,0 +1,6 @@
+# Creophagous
+---
+#adjective
+- **Flesh-eating**
+---
+---

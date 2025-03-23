@@ -1,6 +1,6 @@
 # Archivolt
 ---
 #noun
-- **An ornamental molding or [[band]] following the curve on the underside of an [[arch]].**
+- **An ornamental molding or [[band]] following the [[curve]] on the underside of an [[arch]].**
 ---
 ---

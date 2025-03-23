@@ -7,8 +7,8 @@
 - **Any event or measurement that is out of the ordinary regardless of whether it is exceptional or not.**
 	- _Example: She disregarded some of the anamolies in the experiment, putting them down to miscalculation._
 - **Any of various [[angular]] distances.**
-- **A defect or malformation.**
-- **A failure of a classical symmetry due to quantum corrections.**
+- **A [[defect]] or malformation.**
+- **A failure of a [[classical]] symmetry due to quantum [[corrections]].**
 - **An irregularity or disproportion.**
 ---
 ### Synonyms

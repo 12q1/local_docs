@@ -8,7 +8,7 @@
 - **Something soothing.**
 	- _Example: Classical music is a sweet balm for our sorrows._
 - **The lemon [[balm]], Melissa officinalis**
-- **Any of a number of other [[aromatic]] herbs with a similar citrus-like scent, such as [[bee]] [[balm]] and horse [[balm]].**
+- **Any of a number of other [[aromatic]] herbs with a similar [[citrus]]-like scent, such as [[bee]] [[balm]] and horse [[balm]].**
 ---
 ### Synonyms
 - [[balsam]], [[balsam]], [[balsam]], [[balsam]]

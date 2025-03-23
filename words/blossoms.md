@@ -6,7 +6,7 @@
 - **The state or season of producing such flowers.**
 	- _Example: The orchard is in blossom._
 - **A [[blooming]] period or stage of development; something lovely that gives rich promise.**
-- **The colour of a horse that has white hairs intermixed with sorrel and [[bay]] hairs.**
+- **The [[colour]] of a horse that has white hairs intermixed with sorrel and [[bay]] hairs.**
 ---
 #verb
 - **To have, or open into, [[blossoms]]; to [[bloom]].**

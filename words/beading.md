@@ -10,9 +10,9 @@
 - **To [[cause]] [[beads]] to form on (something).**
 ---
 #noun
-- **Decoration or ornamental molding resembling a string of [[beads]] or of a semicircular cross section.**
+- **Decoration or ornamental molding resembling a string of [[beads]] or of a semicircular [[cross]] section.**
 - **The [[beads]] or [[bead]]-forming quality of [[certain]] liquors.**
 	- _Example: the beading of a brand of whisky_
-- **A Samburu [[ceremony]] in which a father gives a necklace to his daughter.**
+- **A Samburu [[ceremony]] in which a father gives a necklace to his [[daughter]].**
 ---
 ---

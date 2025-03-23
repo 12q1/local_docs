@@ -1,6 +1,6 @@
 # Bobol
 ---
 #noun
-- **Organized fraud; corruption**
+- **Organized fraud; [[corruption]]**
 ---
 ---

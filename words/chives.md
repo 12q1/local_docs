@@ -12,6 +12,6 @@
 ---
 #verb
 - **(thieves' [[cant]]) To stab.**
-- **(thieves' [[cant]]) To cut.**
+- **(thieves' [[cant]]) To [[cut]].**
 ---
 ---

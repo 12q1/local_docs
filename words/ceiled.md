@@ -5,7 +5,7 @@
 - **To set a higher [[bound]].**
 ---
 #adjective
-- **(in combination) Having some specified type of [[ceiling]]**
+- **(in [[combination]]) Having some specified type of [[ceiling]]**
 ---
 ### Synonyms
 - [[ceilinged]]

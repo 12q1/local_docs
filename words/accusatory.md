@@ -1,6 +1,6 @@
 # Accusatory
 ---
 #adjective
-- **Pertaining to, or containing, an [[accusation]]**
+- **Pertaining to, or [[containing]], an [[accusation]]**
 ---
 ---

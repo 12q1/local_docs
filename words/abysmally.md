@@ -1,6 +1,6 @@
 # Abysmally
 ---
 #adverb
-- **Very; incredibly; profoundly; to an extreme degree; dreadfully.**
+- **Very; incredibly; profoundly; to an extreme [[degree]]; dreadfully.**
 ---
 ---

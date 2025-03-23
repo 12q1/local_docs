@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Having a large or prominent [[belly]].**
-- **(in combination) Having a [[belly]] of a specified type.**
+- **(in [[combination]]) Having a [[belly]] of a specified type.**
 - **Swollen, [[bulging]], or [[billowing]]; [[bellying]].**
 - **Overblown, exaggerated.**
 ---

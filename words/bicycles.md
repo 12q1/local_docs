@@ -5,7 +5,7 @@
 - **A traveling [[block]] used on a [[cable]] in skidding logs.**
 - **The [[best]] possible hand in lowball.**
 - **A motorbike.**
-- **(usually in compounds specifying a context) a slut; a promiscuous woman**
+- **(usually in [[compounds]] specifying a [[context]]) a slut; a promiscuous woman**
 ---
 ### Synonyms
 - [[bike]], [[pushbike]], [[velocipede]]

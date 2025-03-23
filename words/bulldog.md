@@ -1,7 +1,7 @@
 # Bulldog
 ---
 #noun
-- **A [[breed]] of dog developed in England by the crossing of the [[bullbaiting]] dog and the Pug to produce a ladies companion dog. Having a very smooth coat, a flattened face, wrinkly [[cheeks]], powerful front legs and smaller hind legs.**
+- **A [[breed]] of dog developed in England by the [[crossing]] of the [[bullbaiting]] dog and the Pug to produce a ladies [[companion]] dog. Having a very smooth [[coat]], a flattened face, wrinkly [[cheeks]], powerful front legs and smaller hind legs.**
 - **British [[bulldog]]**
 - **A stubborn person.**
 - **A refractory material used as a furnace lining, obtained by [[calcining]] the [[cinder]] or slag from the puddling furnace of a rolling mill.**

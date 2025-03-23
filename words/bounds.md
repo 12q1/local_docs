@@ -1,7 +1,7 @@
 # Bounds
 ---
 #noun
-- **(often used in plural) A [[boundary]], the [[border]] which one must cross in order to enter or leave a territory.**
+- **(often used in plural) A [[boundary]], the [[border]] which one must [[cross]] in order to enter or leave a territory.**
 	- _Example: I reached the northern bound of my property, took a deep breath and walked on._
 - **A value which is known to be greater or smaller than a given set of values.**
 ---
@@ -13,7 +13,7 @@
 #noun
 - **A sizeable jump, great leap.**
 	- _Example: The deer crossed the stream in a single bound._
-- **A spring from one foot to the other in dancing.**
+- **A spring from one foot to the other in [[dancing]].**
 - **A [[bounce]]; a rebound.**
 	- _Example: the bound of a ball_
 ---

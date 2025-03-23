@@ -1,7 +1,7 @@
 # Attributive
 ---
 #noun
-- **(grammar) An [[attributive]] word or phrase (see [[above]]), contrasted with predicative or substantive.**
+- **(grammar) An [[attributive]] word or phrase (see [[above]]), [[contrasted]] with predicative or substantive.**
 	- _Example: In "this big house," "big" is an attributive, while in "this house is big," it is a predicative._
 ---
 #adjective

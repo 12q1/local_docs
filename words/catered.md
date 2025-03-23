@@ -4,6 +4,6 @@
 - **To provide, particularly:**
 ---
 #verb
-- **To place, set, move, or cut diagonally or rhomboidally.**
+- **To place, set, move, or [[cut]] diagonally or rhomboidally.**
 ---
 ---

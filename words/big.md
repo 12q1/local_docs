@@ -28,7 +28,7 @@
 	- _Example: What's so big about that? I do it all the time._
 - **(with on) Enthusiastic ([[about]]).**
 	- _Example: I'm not big on the idea, but if you want to go ahead with it, I won't stop you._
-- **Mature, conscientious, principled; generous.**
+- **Mature, [[conscientious]], principled; generous.**
 	- _Example: I tried to be the bigger person and just let it go, but I couldn't help myself._
 - **Well-endowed, possessing large [[breasts]] in the [[case]] of a woman or a large penis in the [[case]] of a man.**
 	- _Example: Whoa, Nadia has gotten pretty big since she hit puberty._
@@ -36,7 +36,7 @@
 	- _Example: She was big with child._
 - **Used as an intensifier, especially of negative-valence nouns**
 	- _Example: You are a big liar.  Why are you in such a big hurry?_
-- **(of a city) populous**
+- **(of a [[city]]) populous**
 - **(of somebody's [[age]]) old, mature. Used to imply that somebody is too old for something, or [[acting]] immaturely.**
 ---
 ### Synonyms

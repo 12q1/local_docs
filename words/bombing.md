@@ -5,7 +5,7 @@
 - **To fail dismally.**
 - **To jump into water in a squatting position, with the [[arms]] wrapped [[around]] the legs.**
 - **To sound; to [[boom]]; to make a humming or [[buzzing]] sound.**
-- **To cover an [[area]] in many graffiti tags.**
+- **To [[cover]] an [[area]] in many graffiti tags.**
 - **To [[add]] an excessive [[amount]] of [[chlorine]] to a pool when it has not [[been]] maintained properly.**
 - **To make oneself drunk.**
 - **(especially with [[along]], down, up etc.) To move at high speed.**

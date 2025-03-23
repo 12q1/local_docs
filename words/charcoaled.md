@@ -2,6 +2,6 @@
 ---
 #verb
 - **To draw with [[charcoal]].**
-- **To cook over [[charcoal]].**
+- **To [[cook]] over [[charcoal]].**
 ---
 ---

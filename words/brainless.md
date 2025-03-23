@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Having no [[brain]].**
-- **Unintelligent, with little common sense.**
+- **Unintelligent, with little [[common]] sense.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Circled
 ---
 #verb
-- **To travel [[around]] [[along]] a curved path.**
+- **To travel [[around]] [[along]] a [[curved]] path.**
 	- _Example: The wolves circled the herd of deer._
 - **To surround.**
 	- _Example: A high fence circles the enclosure._

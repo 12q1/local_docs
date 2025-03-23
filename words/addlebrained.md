@@ -1,6 +1,6 @@
 # Addlebrained
 ---
 #adjective
-- **Stupid and confused or muddled**
+- **Stupid and [[confused]] or muddled**
 ---
 ---

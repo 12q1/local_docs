@@ -1,7 +1,7 @@
 # Cataloged
 ---
 #adjective
-- **Sorted, classified.**
+- **Sorted, [[classified]].**
 ---
 #verb
 - **To put into a [[catalogue]].**

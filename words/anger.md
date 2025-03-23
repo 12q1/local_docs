@@ -1,7 +1,7 @@
 # Anger
 ---
 #noun
-- **A strong feeling of displeasure, hostility or [[antagonism]] towards someone or something, usually combined with an urge to harm.**
+- **A strong feeling of displeasure, hostility or [[antagonism]] towards someone or something, usually [[combined]] with an urge to harm.**
 	- _Example: You need to control your anger._
 - **Pain or stinging.**
 ---

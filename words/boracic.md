@@ -4,6 +4,6 @@
 - **Relating to, or impregnated with [[borax]].**
 ---
 #adjective
-- **Of, pertaining to, or containing the element [[boron]].**
+- **Of, pertaining to, or [[containing]] the element [[boron]].**
 ---
 ---

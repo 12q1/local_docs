@@ -7,7 +7,7 @@
 	- _Example: The arm and forearm are parts of the upper limb in the human body._
 - **A limb, or locomotive or prehensile organ, of an invertebrate [[animal]].**
 	- _Example: the arms of an octopus_
-- **A long, narrow, more or less rigid part of an object extending from the main part or [[centre]] of the object, such as the [[arm]] of an [[armchair]], a crane, a pair of spectacles or a pair of compasses.**
+- **A long, narrow, more or less rigid part of an object extending from the main part or [[centre]] of the object, such as the [[arm]] of an [[armchair]], a [[crane]], a pair of spectacles or a pair of [[compasses]].**
 	- _Example: The robot arm reached out and placed the part on the assembly line._
 - **A [[bay]] or inlet off a main [[body]] of water.**
 	- _Example: Shelburne Bay is an arm of Lake Champlain._

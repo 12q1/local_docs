@@ -1,7 +1,7 @@
 # Bungs
 ---
 #noun
-- **A stopper, [[alternative]] to a cork, often made of rubber used to prevent fluid passing through the neck of a [[bottle]], vat, a hole in a vessel etc.**
+- **A stopper, [[alternative]] to a [[cork]], often made of rubber used to prevent fluid passing through the neck of a [[bottle]], vat, a hole in a vessel etc.**
 - **A [[cecum]] or [[anus]], especially of a slaughter [[animal]].**
 - **A [[bribe]].**
 - **The orifice in the [[bilge]] of a [[cask]] through which it is filled; [[bunghole]].**

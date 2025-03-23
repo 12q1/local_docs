@@ -8,7 +8,7 @@
 ---
 #verb
 - **To [[brag]]; to talk loudly in praise of oneself.**
-- **To speak of with pride, vanity, or exultation, with a view to self-commendation; to extol.**
+- **To speak of with pride, vanity, or exultation, with a view to self-[[commendation]]; to extol.**
 - **To speak in exulting language of [[another]]; to glory; to exult.**
 - **To play a [[boast]] shot.**
 - **To possess something special.**

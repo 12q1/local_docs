@@ -3,7 +3,7 @@
 #verb
 - **To see or look at, esp. [[appreciatively]]; to descry, look upon.**
 - **To look.**
-- **To contemplate.**
+- **To [[contemplate]].**
 ---
 #adjective
 - **Obligated to provide, display, or do something for [[another]]; indebted, obliged.**
@@ -11,6 +11,6 @@
 - **Bound by external expectations, such as fashion or morality.**
 ---
 #noun
-- **The [[act]] by which something is [[beheld]]; regard; contemplation.**
+- **The [[act]] by which something is [[beheld]]; regard; [[contemplation]].**
 ---
 ---

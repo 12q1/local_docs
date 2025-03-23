@@ -1,7 +1,7 @@
 # Appetencies
 ---
 #noun
-- **Strong desire; craving; powerful instinct.**
+- **Strong desire; [[craving]]; powerful instinct.**
 ---
 ### Synonyms
 - [[appetite]], [[compulsion]], [[craving]]

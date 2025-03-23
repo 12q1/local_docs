@@ -5,7 +5,7 @@
 - **To [[bore]] or turn (a hole) in a revolving piece held in a [[chuck]].**
 ---
 #verb
-- **To make a clucking sound.**
+- **To make a [[clucking]] sound.**
 - **To [[call]], as a hen her [[chickens]].**
 ---
 #verb

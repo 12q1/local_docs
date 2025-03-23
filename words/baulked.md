@@ -10,7 +10,7 @@
 - **To refuse suddenly.**
 - **To disappoint; to frustrate.**
 	- _Example: to balk expectation_
-- **To engage in contradiction; to be in opposition.**
+- **To engage in [[contradiction]]; to be in opposition.**
 - **To leave or make [[balks]] in.**
 - **To leave heaped up; to heap up in piles.**
 ---

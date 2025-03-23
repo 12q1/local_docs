@@ -1,7 +1,7 @@
 # Cinematic
 ---
 #noun
-- **A cut scene.**
+- **A [[cut]] scene.**
 	- _Example: Is there a way to skip this long cinematic?_
 ---
 #adjective

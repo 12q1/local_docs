@@ -1,6 +1,6 @@
 # Burnable
 ---
 #adjective
-- **Able to be [[burned]]; combustible**
+- **Able to be [[burned]]; [[combustible]]**
 ---
 ---

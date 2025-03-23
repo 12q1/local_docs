@@ -3,7 +3,7 @@
 #verb
 - **To slaughter ([[animals]]) and prepare (meat) for market.**
 - **To kill [[brutally]].**
-- **To ruin (something), often to the point of defamation.**
+- **To ruin (something), often to the point of [[defamation]].**
 	- _Example: The band at that bar really butchered "Hotel California"._
 ---
 ### Synonyms

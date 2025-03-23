@@ -27,19 +27,19 @@
 	- _Example: These apples have gone bad._
 - **(of [[breath]]) Malodorous; foul.**
 	- _Example: Bad breath is not pleasant for anyone._
-- **False; counterfeit; illegitimate.**
+- **False; [[counterfeit]]; illegitimate.**
 	- _Example: They were caught trying to pass bad coinage._
 - **Unskilled; of limited [[ability]]; not good.**
 	- _Example: He's a bad gardener; everything he tries to grow ends up dying._
 - **Of poor physical [[appearance]].**
 	- _Example: I don't look bad in this dress, do I?_
-- **Bold and daring.**
-- **Good, superlative, excellent, cool.**
+- **Bold and [[daring]].**
+- **Good, superlative, excellent, [[cool]].**
 	- _Example: Man, that new car you bought is bad!_
 - **(of a need, want, or pain) Severe, urgent.**
 	- _Example: He is in bad need of a haircut._
 - **Overly promiscuous, licentious.**
-- **(of a draft/[[check]]) Not covered by funds on [[account]].**
+- **(of a draft/[[check]]) Not [[covered]] by funds on [[account]].**
 	- _Example: He gave me a bad check._
 ---
 ### Synonyms

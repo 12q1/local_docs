@@ -7,6 +7,6 @@
 ### Synonyms
 - [[blackball]], [[send to Coventry]]
 #adjective
-- **Being on a [[blacklist]], or having [[been]] shunned and rejected due to information (true or false) [[being]] spread [[about]] scandalous [[activities]] or ideas, especially controversial political opinions.**
+- **Being on a [[blacklist]], or having [[been]] shunned and rejected due to information (true or false) [[being]] spread [[about]] scandalous [[activities]] or ideas, especially [[controversial]] political opinions.**
 ---
 ---

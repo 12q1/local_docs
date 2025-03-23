@@ -7,7 +7,7 @@
 - **To [[cheat]], to get something by [[cheating]].**
 ---
 #adjective
-- **Having strongly defined facial features.**
+- **Having strongly [[defined]] facial features.**
 - **(of a physique) Having well-developed muscles with minimal bodyfat.**
 ---
 ---

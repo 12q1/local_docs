@@ -1,7 +1,7 @@
 # Backchat
 ---
 #noun
-- **Cheeky or impertinent responses, especially to criticism.**
+- **Cheeky or impertinent responses, especially to [[criticism]].**
 ---
 ### Synonyms
 - [[backtalk]]

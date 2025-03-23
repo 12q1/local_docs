@@ -1,6 +1,6 @@
 # Ascidians
 ---
 #noun
-- **Any member of the class Ascidiacea (the sea squirts)**
+- **Any member of the [[class]] Ascidiacea (the sea squirts)**
 ---
 ---

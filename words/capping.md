@@ -1,7 +1,7 @@
 # Capping
 ---
 #verb
-- **To cover or seal with a [[cap]].**
+- **To [[cover]] or seal with a [[cap]].**
 - **To [[award]] a [[cap]] as a mark of distinction.**
 - **To lie over or on top of something.**
 - **To surpass or outdo.**
@@ -19,17 +19,17 @@
 - **To tell a lie.**
 ---
 #verb
-- **To convert text to uppercase.**
+- **To [[convert]] text to uppercase.**
 ---
 #verb
-- **To take a screenshot or to record a copy of a video.**
+- **To take a screenshot or to record a [[copy]] of a video.**
 ---
 #noun
 - **The [[act]] of removing one's hat as a token of respect.**
-- **The leached upper part of a [[body]] or rock that still contains disseminated sulphide mineral deposit.**
-- **The process of covering a [[borehole]] in order to seal an oil well.**
-- **The selling of a security etc. close to an expiry date.**
-- **The conversion of a polyhedron into a stellated polyhedron by raising a pyramid on each face.**
-- **The recording of a television [[broadcast]] to one's computer.**
+- **The leached upper part of a [[body]] or rock that still [[contains]] disseminated sulphide mineral deposit.**
+- **The process of [[covering]] a [[borehole]] in order to seal an oil well.**
+- **The selling of a security etc. [[close]] to an expiry [[date]].**
+- **The [[conversion]] of a polyhedron into a stellated polyhedron by raising a pyramid on each face.**
+- **The recording of a television [[broadcast]] to one's [[computer]].**
 ---
 ---

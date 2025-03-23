@@ -5,6 +5,6 @@
 - **A servant or [[attendant]].**
 - **A hotel messenger, especially in France.**
 - **A hunter or huntsman.**
-- **A dish of meat cooked in a sauce containing mushrooms, shallots and white wine.**
+- **A dish of meat [[cooked]] in a sauce [[containing]] mushrooms, shallots and white wine.**
 ---
 ---

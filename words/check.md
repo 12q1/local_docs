@@ -4,7 +4,7 @@
 - **A situation in which the king is directly threatened by an opposing piece.**
 - **An inspection or examination.**
 	- _Example: I don't know if she will be there, but it's worth a check._
-- **A control; a limit or stop.**
+- **A [[control]]; a limit or stop.**
 	- _Example: The castle moat should hold the enemy in check._
 - **A mark (especially a [[checkmark]]: ✓) used as an indicator.**
 	- _Example: Place a check by the things you have done._
@@ -19,7 +19,7 @@
 - **A mark, [[certificate]] or token by which errors may be prevented, or a thing or person may be identified.**
 	- _Example: a check given for baggage_
 - **The forsaking by a hawk of its proper game to follow other [[birds]].**
-- **A small [[chink]] or crack.**
+- **A small [[chink]] or [[crack]].**
 ---
 ### Synonyms
 - [[bill]], [[cheque]], [[checkmark]], [[tick]], [[cheque]]

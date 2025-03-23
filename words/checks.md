@@ -4,7 +4,7 @@
 - **A situation in which the king is directly threatened by an opposing piece.**
 - **An inspection or examination.**
 	- _Example: I don't know if she will be there, but it's worth a check._
-- **A control; a limit or stop.**
+- **A [[control]]; a limit or stop.**
 	- _Example: The castle moat should hold the enemy in check._
 - **A mark (especially a [[checkmark]]: ✓) used as an indicator.**
 	- _Example: Place a check by the things you have done._
@@ -19,19 +19,19 @@
 - **A mark, [[certificate]] or token by which errors may be prevented, or a thing or person may be identified.**
 	- _Example: a check given for baggage_
 - **The forsaking by a hawk of its proper game to follow other [[birds]].**
-- **A small [[chink]] or crack.**
+- **A small [[chink]] or [[crack]].**
 ---
 ### Synonyms
 - [[bill]], [[cheque]], [[checkmark]], [[tick]], [[cheque]]
 #verb
 - **To inspect; to examine.**
 	- _Example: Check the oil in your car once a month._
-- **To verify the [[accuracy]] of a text or translation, usually making some corrections (proofread) or many (copyedit).**
-- **(often used with "off") To mark items on a list (with a [[checkmark]] or by crossing them out) that have [[been]] [[chosen]] for keeping or removal or that have [[been]] dealt with (for example, completed or verified as correct or satisfactory).**
+- **To verify the [[accuracy]] of a text or translation, usually making some [[corrections]] (proofread) or many (copyedit).**
+- **(often used with "off") To mark items on a list (with a [[checkmark]] or by [[crossing]] them out) that have [[been]] [[chosen]] for keeping or removal or that have [[been]] [[dealt]] with (for example, [[completed]] or verified as [[correct]] or satisfactory).**
 	- _Example: Check off the items that you've checked (inspected)._
-- **To control, limit, or halt.**
+- **To [[control]], limit, or halt.**
 	- _Example: Check your enthusiasm during a negotiation._
-- **To verify or compare with a source of information.**
+- **To verify or [[compare]] with a source of information.**
 	- _Example: Check your data against known values._
 - **To leave in safekeeping.**
 	- _Example: Check your hat and coat at the door._
@@ -46,12 +46,12 @@
 - **To make a move which puts an [[adversary]]'s king in [[check]]; to put in [[check]].**
 - **To [[chide]], rebuke, or reprove.**
 - **To slack or ease off, as a [[brace]] which is too stiffly extended.**
-- **To crack or gape open, as wood in drying; or to crack in small [[checks]], as varnish, paint, etc.**
-- **To make [[checks]] or [[chinks]] in; to [[cause]] to crack.**
+- **To [[crack]] or gape open, as wood in drying; or to [[crack]] in small [[checks]], as varnish, paint, etc.**
+- **To make [[checks]] or [[chinks]] in; to [[cause]] to [[crack]].**
 	- _Example: The sun checks timber._
 - **To make a stop; to pause; with at.**
-- **To clash or interfere.**
-- **To [[act]] as a curb or restraint.**
+- **To [[clash]] or interfere.**
+- **To [[act]] as a [[curb]] or restraint.**
 - **To turn, when in pursuit of proper game, and fly [[after]] other [[birds]].**
 ---
 ### Synonyms
@@ -59,7 +59,7 @@
 ### Antonyms
 - [[uncheck]]
 #noun
-- **(usually pluralized) A pattern made up of a grid of squares of [[alternating]] colors; a [[checkered]] pattern.**
+- **(usually pluralized) A pattern made up of a grid of squares of [[alternating]] [[colors]]; a [[checkered]] pattern.**
 	- _Example: The tablecloth had red and white checks._
 - **Any fabric woven with such a pattern.**
 ---

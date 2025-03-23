@@ -8,7 +8,7 @@
 ### Antonyms
 - [[enate]]
 #adjective
-- **Related to someone by male connections or on the paternal side of the family.**
+- **Related to someone by male [[connections]] or on the paternal side of the family.**
 - **Allied; [[akin]]**
 - **Having a similar semantic meaning.**
 ---

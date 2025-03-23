@@ -7,8 +7,8 @@
 	- _Example: The end of the war was a cause for celebration._
 - **A goal, [[aim]] or principle, especially one which transcends purely selfish ends.**
 - **Sake; interest; [[advantage]].**
-- **Any subject of discussion or debate; a matter; an [[affair]].**
-- **A suit or [[action]] in court; [[any]] legal process by which a party endeavors to obtain his claim, or what he regards as his right; [[case]]; ground of [[action]].**
+- **Any subject of discussion or [[debate]]; a matter; an [[affair]].**
+- **A suit or [[action]] in [[court]]; [[any]] legal process by which a party endeavors to obtain his [[claim]], or what he regards as his right; [[case]]; ground of [[action]].**
 ---
 ### Synonyms
 - [[grounds]], [[justification]]

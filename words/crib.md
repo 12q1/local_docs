@@ -1,0 +1,42 @@
+# Crib
+---
+#noun
+- **A [[baby]]’s [[bed]] with high, often slatted, often moveable sides, suitable for a [[child]] who has outgrown a [[cradle]] or [[bassinet]].**
+- **A [[bed]] for a [[child]] older than a [[baby]].**
+- **A small sleeping [[berth]] in a packet ship or other small vessel**
+- **A wicker [[basket]]; [[compare]] Moses [[basket]].**
+- **A manger, a feeding trough for [[animals]] elevated off the earth or floor, especially one for fodder such as hay.**
+- **The [[baby]] Jesus and the manger in a [[creche]] or nativity scene, [[consisting]] of statues of Mary, Joseph and various other [[characters]] such as the magi.**
+- **A [[bin]] for drying or storing grain, as with a [[corn]] [[crib]].**
+- **A small room or [[covered]] structure, especially one of rough [[construction]], used for storage or penning [[animals]].**
+- **A [[confined]] space, as with a [[cage]] or office-[[cubicle]]**
+- **A job, a position; (British), an [[appointment]].**
+- **A hovel, a roughly [[constructed]] [[building]] [[best]] suited to the shelter of [[animals]] but used for human habitation.**
+- **One’s residence, or where one normally hangs out. A house or dwelling place.**
+- **A [[boxy]] structure traditionally [[built]] of heavy wooden timbers, to support an existing structure from [[below]], as with a mineshaft or a [[building]] [[being]] raised off its foundation in preparation for [[being]] moved; see [[cribbing]].**
+- **(usually in the plural) A [[collection]] of quotes or references for use in speaking, for [[assembling]] a written document, or as an [[aid]] to a project of some sort; a [[crib]] sheet.**
+- **A minor theft, extortion or embezzlement, with or without [[criminal]] intent.**
+- **The [[card]] game [[cribbage]].**
+- **The [[cards]] discarded by players and used by the [[dealer]].**
+- **A known piece of information [[corresponding]] to a section of encrypted text, that is then used to work out the remaining sections.**
+- **A small holiday home, often near a [[beach]] and of simple [[construction]].**
+- **A packed lunch taken to work.**
+- **A small raft made of timber.**
+- **(thieves' [[cant]]) The stomach.**
+- **A [[cheat]] sheet or past test used by students; [[crib]] sheet.**
+---
+### Synonyms
+- [[bach]], [[cot]]
+#verb
+- **To place or [[confine]] in a [[crib]].**
+- **To shut up or [[confine]] in a narrow habitation; to [[cage]]; to [[cramp]].**
+- **To [[collect]] one or more passages and/or references for use in a speech, written document or as an [[aid]] for some task; to [[create]] a [[crib]] sheet.**
+	- _Example: I cribbed the recipe from the Food Network site, but made a few changes of my own._
+- **To plagiarize; to [[copy]]; to [[cheat]].**
+- **To install timber supports, as with [[cribbing]].**
+- **To steal or embezzle, to [[cheat]] out of.**
+- **(Indian English) To [[complain]], to grumble**
+- **To [[crowd]] together, or to be [[confined]], as if in a [[crib]] or in narrow [[accommodations]].**
+- **(of a horse) To seize the manger or other solid object with the teeth and draw in wind.**
+---
+---

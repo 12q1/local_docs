@@ -3,7 +3,7 @@
 #noun
 - **A tree or shrub of the genus Castanea.**
 - **The nut of this tree or shrub.**
-- **A dark, reddish-[[brown]] colour, as seen on the fruit of the [[chestnut]] tree.**
+- **A [[dark]], reddish-[[brown]] [[colour]], as seen on the fruit of the [[chestnut]] tree.**
 - **A reddish-[[brown]] horse.**
 - **The wood of a [[chestnut]] tree.**
 - **An old joke; a worn-out meme, phrase, ploy, etc. so often repeated as to have grown tiresome or ineffective (often in the phrase "old [[chestnut]]").**

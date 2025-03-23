@@ -1,7 +1,7 @@
 # Attests
 ---
 #verb
-- **To [[affirm]] to be correct, true, or genuine.**
+- **To [[affirm]] to be [[correct]], true, or genuine.**
 	- _Example: When will the appraiser attest the date of the painting?_
 - **To [[certify]] by signature or oath.**
 	- _Example: You must attest your will in order for it to be valid._

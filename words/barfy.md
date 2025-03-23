@@ -1,9 +1,9 @@
 # Barfy
 ---
 #adjective
-- **Resembling vomit in colour, texture, etc.**
+- **Resembling vomit in [[colour]], texture, etc.**
 - **Inclined to vomit; sick.**
-- **Vile; contemptible.**
+- **Vile; [[contemptible]].**
 - **Disgusting.**
 ---
 ---

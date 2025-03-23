@@ -1,7 +1,7 @@
 # Accordance
 ---
 #noun
-- **Agreement; harmony; conformity; compliance.**
+- **Agreement; harmony; [[conformity]]; [[compliance]].**
 - **The [[act]] of granting something.**
 ---
 ### Synonyms

@@ -5,7 +5,7 @@
 	- _Example: an airy substance; the airy parts of bodies_
 - **Relating or [[belonging]] to [[air]]; high in [[air]]; [[aerial]].**
 	- _Example: an airy flight_
-- **Open to a free current of [[air]]; exposed to the [[air]]; [[breezy]].**
+- **Open to a free [[current]] of [[air]]; exposed to the [[air]]; [[breezy]].**
 	- _Example: an airy situation_
 - **Resembling [[air]]; thin; unsubstantial; not material; [[airlike]].**
 - **Relating to the spirit or soul; delicate; graceful.**

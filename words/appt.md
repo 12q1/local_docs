@@ -8,12 +8,12 @@
 - **Stipulation; [[agreement]]; the [[act]] of fixing by mutual [[agreement]].**
 - **An [[arrangement]] [[between]] people to meet; an engagement.**
 	- _Example: I'm leaving work early because I have a doctor's appointment._
-- **Decree; direction; established order or constitution.**
+- **Decree; direction; established order or [[constitution]].**
 	- _Example: To submit to the divine appointments._
 - **The exercise of the power of designating (under a power of [[appointment]]) a person to enjoy an estate or other specific property; [[also]], the instrument by which the designation is made.**
-- **The [[assignment]] of a person by an official to perform a duty, such as a presidential [[appointment]] of a judge to a court.**
+- **The [[assignment]] of a person by an official to perform a duty, such as a presidential [[appointment]] of a judge to a [[court]].**
 - **(now in the plural) Equipment, furniture.**
-- **A honorary part or exercise, as an oration, etc., at a public exhibition of a college.**
+- **A honorary part or exercise, as an oration, etc., at a public exhibition of a [[college]].**
 	- _Example: to have an appointment_
 - **The [[allowance]] paid to a public officer.**
 ---

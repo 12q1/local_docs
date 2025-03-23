@@ -1,7 +1,7 @@
 # Awake
 ---
 #adjective
-- **Not [[asleep]]; conscious.**
+- **Not [[asleep]]; [[conscious]].**
 - **(by extension) Alert, [[aware]].**
 	- _Example: They were awake to the possibility of a decline in sales._
 ---

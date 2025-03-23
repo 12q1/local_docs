@@ -1,7 +1,7 @@
 # Budgeted
 ---
 #verb
-- **To construct or draw up a [[budget]].**
+- **To [[construct]] or draw up a [[budget]].**
 	- _Example: Budgeting is even harder in times of recession_
 - **To provide funds, [[allow]] for in a [[budget]].**
 	- _Example: The PM’s pet projects are budgeted rather generously_

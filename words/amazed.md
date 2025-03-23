@@ -9,6 +9,6 @@
 - **To terrify, to fill with panic.**
 ---
 #adjective
-- **Astonished; confounded with fear, surprise, or wonder; greatly surprised. The following [[adposition]] may be: at, with or by.**
+- **Astonished; [[confounded]] with fear, surprise, or wonder; greatly surprised. The following [[adposition]] may be: at, with or by.**
 ---
 ---

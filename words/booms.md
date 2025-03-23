@@ -19,17 +19,17 @@
 #noun
 - **A spar extending the foot of a sail; a spar rigged outboard from a ship's side to which [[boats]] are secured in harbour.**
 - **A movable pole used to support a microphone or [[camera]].**
-- **A horizontal member of a crane or derrick, used for lifting.**
+- **A horizontal member of a [[crane]] or derrick, used for lifting.**
 - **The longest element of a Yagi [[antenna]], on which the other, smaller ones are transversally mounted.**
-- **A floating [[barrier]] used to obstruct navigation, for military or other purposes; or used for the containment of an oil spill or to control the flow of logs from logging operations.**
+- **A floating [[barrier]] used to obstruct navigation, for military or other purposes; or used for the [[containment]] of an oil spill or to [[control]] the flow of logs from logging operations.**
 - **A wishbone-shaped piece of windsurfing equipment.**
-- **The section of the [[arm]] on a [[backhoe]] closest to the tractor.**
+- **The section of the [[arm]] on a [[backhoe]] [[closest]] to the tractor.**
 - **A gymnastics [[apparatus]] similar to a [[balance]] [[beam]].**
 ---
 #verb
 - **To extend, or push, with a [[boom]] or pole.**
 	- _Example: to boom off a boat_
-- **(usually with "up" or "down") To raise or lower with a crane [[boom]].**
+- **(usually with "up" or "down") To raise or lower with a [[crane]] [[boom]].**
 ---
 #noun
 - **A period of prosperity, growth, progress, or high market [[activity]].**

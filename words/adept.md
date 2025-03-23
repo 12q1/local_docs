@@ -5,7 +5,7 @@
 	- _Example: adepts in philosophy_
 ---
 #adjective
-- **Well skilled; completely versed; thoroughly proficient**
+- **Well skilled; [[completely]] versed; thoroughly proficient**
 ---
 ### Antonyms
 - [[inept]]

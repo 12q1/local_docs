@@ -1,7 +1,7 @@
 # Bolting
 ---
 #verb
-- **To connect or [[assemble]] pieces using a [[bolt]].**
+- **To [[connect]] or [[assemble]] pieces using a [[bolt]].**
 	- _Example: Bolt the vice to the bench._
 - **To secure a door by locking or [[barring]] it.**
 	- _Example: Bolt the door._
@@ -16,11 +16,11 @@
 - **To swallow food without [[chewing]] it.**
 - **To drink one's drink very quickly; to down a drink.**
 	- _Example: Come on, everyone, bolt your drinks; I want to go to the next pub!_
-- **To refuse to support a nomination made by a party or [[caucus]] with which one has [[been]] connected; to [[break]] [[away]] from a party.**
+- **To refuse to support a nomination made by a party or [[caucus]] with which one has [[been]] [[connected]]; to [[break]] [[away]] from a party.**
 - **To utter precipitately; to [[blurt]] or throw out.**
 ---
 #verb
-- **To sift, especially through a cloth.**
+- **To sift, especially through a [[cloth]].**
 - **To sift the [[bran]] and germ from wheat flour.**
 	- _Example: Graham flour is unbolted flour._
 - **To separate, [[assort]], refine, or purify by other means.**

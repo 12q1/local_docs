@@ -5,8 +5,8 @@
 - **A hat, of various shapes, made from a felted [[beaver]] fur (or later of silk), fashionable in Europe [[between]] 1550 and 1850.**
 - **The pubic hair and/or vulva of a woman.**
 - **The fur of the [[beaver]].**
-- **Beaver cloth, a heavy felted woollen cloth, used [[chiefly]] for making overcoats.**
-- **A [[brown]] colour, like that of a [[beaver]] ([[also]] [[called]] [[beaver]] [[brown]]).**
+- **Beaver [[cloth]], a heavy felted woollen [[cloth]], used [[chiefly]] for making overcoats.**
+- **A [[brown]] [[colour]], like that of a [[beaver]] ([[also]] [[called]] [[beaver]] [[brown]]).**
 - **A man who wears a [[beard]].**
 ---
 ---

@@ -6,6 +6,6 @@
 - **Anything that saps a resource produced by something else.**
 - **A valve designed to release a small [[amount]] of excess pressure from a system.**
 - **A troublesome fellow; a [[blighter]].**
-- **A person who spends a great deal of time playing video games.**
+- **A person who spends a great [[deal]] of time playing video games.**
 ---
 ---

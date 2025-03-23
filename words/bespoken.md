@@ -12,6 +12,6 @@
 - **To speak up or out; exclaim; speak.**
 ---
 #adjective
-- **Betrothed or engaged to be married (compare with: spoken for)**
+- **Betrothed or engaged to be married ([[compare]] with: spoken for)**
 ---
 ---

@@ -7,7 +7,7 @@
 - **To [[afford]] rest or lodging for.**
 - **To stay in an [[advantageous]] location in a video game, such as next to a power-up's spawning point or in order to guard an [[area]].**
 	- _Example: Go and camp the flag for the win._
-- **To fight; contend in [[battle]] or in [[any]] kind of contest; to strive with others in doing [[anything]]; compete.**
+- **To fight; [[contend]] in [[battle]] or in [[any]] kind of [[contest]]; to strive with others in doing [[anything]]; [[compete]].**
 - **To wrangle; [[argue]].**
 ---
 ---

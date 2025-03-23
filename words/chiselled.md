@@ -7,6 +7,6 @@
 - **To [[cheat]], to get something by [[cheating]].**
 ---
 #adjective
-- **Having strongly defined facial features.**
+- **Having strongly [[defined]] facial features.**
 ---
 ---

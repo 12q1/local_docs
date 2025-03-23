@@ -2,7 +2,7 @@
 ---
 #noun
 - **(preferred spelling, with æon) A spirit [[being]] emanating from the Godhead.**
-- **(Cosmology) Each universe in a series of universes, [[according]] to conformal [[cyclic]] cosmology.**
+- **(Cosmology) Each universe in a series of universes, [[according]] to [[conformal]] [[cyclic]] [[cosmology]].**
 ---
 #noun
 - **Eternity.**

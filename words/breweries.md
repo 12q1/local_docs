@@ -2,6 +2,6 @@
 ---
 #noun
 - **A [[building]] where [[beer]] is produced.**
-- **A company that [[brews]] [[beer]].**
+- **A [[company]] that [[brews]] [[beer]].**
 ---
 ---

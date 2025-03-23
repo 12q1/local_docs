@@ -1,7 +1,7 @@
 # Agencies
 ---
 #noun
-- **The [[capacity]], condition, or state of [[acting]] or of exerting power.**
+- **The [[capacity]], [[condition]], or state of [[acting]] or of exerting power.**
 - **The [[capacity]] of individuals to [[act]] independently and to make their own free [[choices]].**
 	- _Example: individual agency_
 - **A medium through which power is exerted or an end is [[achieved]].**

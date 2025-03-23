@@ -1,6 +1,6 @@
 # Balboas
 ---
 #noun
-- **The currency of Panama, divided into 100 [[cent]]ésimos**
+- **The [[currency]] of Panama, divided into 100 [[cent]]ésimos**
 ---
 ---

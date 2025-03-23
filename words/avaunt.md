@@ -9,6 +9,6 @@
 - **To vaunt; to [[boast]].**
 ---
 #interjection
-- **Begone; depart; used in contempt or [[abhorrence]].**
+- **Begone; depart; used in [[contempt]] or [[abhorrence]].**
 ---
 ---

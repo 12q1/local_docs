@@ -1,7 +1,7 @@
 # Cinching
 ---
 #verb
-- **To [[bring]] to [[certain]] conclusion.**
+- **To [[bring]] to [[certain]] [[conclusion]].**
 - **To tighten down.**
 ---
 #verb

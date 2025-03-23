@@ -1,7 +1,7 @@
 # Cinereous
 ---
 #adjective
-- **Of an [[ash]]-gray colour.**
+- **Of an [[ash]]-gray [[colour]].**
 - **Like [[ashes]].**
 - **Containing [[ashes]].**
 ---

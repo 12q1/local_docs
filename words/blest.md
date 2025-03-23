@@ -5,7 +5,7 @@
 - **A title indicating the [[beatification]] of a person, thus [[allowing]] public veneration of those who have lived in sanctity or died as martyrs.**
 - **Held in veneration; revered.**
 - **Worthy of worship; holy.**
-- **An intensifier; damned.**
+- **An intensifier; [[damned]].**
 	- _Example: Not one blessed person offered to help me out._
 ---
 ### Synonyms

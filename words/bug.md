@@ -2,22 +2,22 @@
 ---
 #noun
 - **An insect of the order Hemiptera (the “true [[bugs]]”).**
-- **Any of various species of marine or freshwater crustaceans; e.g. a Morton Bay [[bug]], mudbug.**
+- **Any of various species of marine or freshwater [[crustaceans]]; e.g. a Morton Bay [[bug]], mudbug.**
 - **Any insect, [[arachnid]], or other terrestrial [[arthropod]] that is a pest.**
 	- _Example: These flies are a bother. I’ll get some bug spray and kill them._
 - **Any insect, [[arachnid]], myriapod or entognath.**
-- **([[chiefly]] computing and engineering jargon) A problem that needs fixing.**
+- **([[chiefly]] [[computing]] and engineering jargon) A problem that needs fixing.**
 	- _Example: The software bug led the computer to calculate 2 plus 2 as 3._
-- **A contagious illness; a [[bacterium]] or virus [[causing]] it**
+- **A [[contagious]] illness; a [[bacterium]] or virus [[causing]] it**
 	- _Example: He’s got the flu bug._
 - **An enthusiasm for something; an obsession**
 	- _Example: I caught the skiing bug while staying in the Alps._
 - **A keen enthusiast or hobbyist.**
-- **A concealed electronic eavesdropping or intercept device**
+- **A [[concealed]] electronic eavesdropping or intercept device**
 	- _Example: We installed a bug in her telephone._
 - **A small and usually invisible file (traditionally a single-pixel image) on a World Wide Web page, primarily used to track users.**
 	- _Example: He suspected the image was a Web bug used for determining who was visiting the site._
-- **A small, usually transparent or translucent image placed in a corner of a television program to indicate what network or [[cable]] [[channel]] is televising it**
+- **A small, usually transparent or translucent image placed in a [[corner]] of a television program to indicate what network or [[cable]] [[channel]] is televising it**
 	- _Example: Channel 4's bug distracted Jim from his favorite show._
 - **A manually positioned marker in flight instruments.**
 - **A semi-[[automated]] telegraph key.**
