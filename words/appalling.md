@@ -13,7 +13,7 @@
 #adjective
 - **Horrifying and [[astonishing]].**
 	- _Example: That was an appalling waste of money._
-- **Extremely bad; terrible**
+- **Extremely [[bad]]; terrible**
 ---
 ### Synonyms
 - [[awful]], [[grotesque]], [[hideous]], [[horrid]], [[terrible]]

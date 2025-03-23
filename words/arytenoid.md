@@ -1,7 +1,7 @@
 # Arytenoid
 ---
 #noun
-- **Either of a pair of cartilages at the back of the larynx, used in the production of different kinds of voice quality (for example, creaky voice).**
+- **Either of a pair of cartilages at the [[back]] of the larynx, used in the production of different kinds of voice quality (for example, creaky voice).**
 - **Arytenoid muscle**
 ---
 #adjective

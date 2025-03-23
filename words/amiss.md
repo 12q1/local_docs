@@ -1,7 +1,7 @@
 # Amiss
 ---
 #noun
-- **Fault; wrong; an evil [[act]], a bad deed.**
+- **Fault; wrong; an evil [[act]], a [[bad]] deed.**
 ---
 #adjective
 - **Wrong; faulty; out of order; improper or otherwise incorrect.**

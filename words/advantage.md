@@ -8,7 +8,7 @@
 	- _Example: Having the faster car is of little advantage._
 - **The score where one player wins a point [[after]] deuce but needs the next to carry the game.**
 - **The continuation of the game [[after]] a foul [[against]] the [[attacking]] team, because the [[attacking]] team are in an [[advantageous]] position.**
-- **Interest of money; increase; overplus (as the thirteenth in the baker's dozen).**
+- **Interest of money; increase; overplus (as the thirteenth in the [[baker]]'s dozen).**
 ---
 ### Synonyms
 - [[benefit]], [[edge]], [[foredeal]], [[value]], [[vantage]]

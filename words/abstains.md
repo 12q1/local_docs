@@ -7,7 +7,7 @@
 - **Fast (not eat for a period).**
 - **Deliberately refrain from casting one's vote at a meeting where one is present.**
 	- _Example: I abstain from this vote, as I have no particular preference._
-- **Hinder; keep back; withhold.**
+- **Hinder; keep [[back]]; withhold.**
 ---
 ### Synonyms
 - [[deny]], [[forbear]], [[forgo]], [[give up]], [[refrain]], [[relinquish]], [[withhold]]

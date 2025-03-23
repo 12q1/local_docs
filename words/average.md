@@ -23,11 +23,11 @@
 #adjective
 - **Constituting or relating to the [[average]].**
 	- _Example: The average age of the participants was 18.5._
-- **Neither very good nor very bad; rated somewhere in the middle of [[all]] others in the same category.**
+- **Neither very good nor very [[bad]]; rated somewhere in the middle of [[all]] others in the same category.**
 	- _Example: I soon found I was only an average chess player._
 - **Typical.**
 	- _Example: The average family will not need the more expensive features of this product._
-- **Not outstanding, not good, banal; bad or poor.**
+- **Not outstanding, not good, [[banal]]; [[bad]] or poor.**
 ---
 ### Synonyms
 - [[av.]], [[ave.]], [[avg.]], [[expectation]], [[mean]], [[comme ci comme ça]], [[mediocre]], [[medium]], [[middle]], [[middling]], [[ranking]], [[so-so]], [[unremarkable]], [[ordinary]], [[uninspiring]], [[bog-standard]], [[conventional]], [[normal]], [[regular]], [[standard]], [[typical]], [[usual]]

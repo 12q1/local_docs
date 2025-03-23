@@ -12,7 +12,7 @@
 ### Synonyms
 - [[bog down]], [[embog]], [[enmire]], [[drop anchor]], [[affix]], [[fix]], [[host]], [[present]], [[support]], [[cease]], [[hold]]
 #adjective
-- **Having the extremities turned back, like the flukes of an [[anchor]].**
+- **Having the extremities turned [[back]], like the flukes of an [[anchor]].**
 	- _Example: an anchored cross_
 ---
 ---

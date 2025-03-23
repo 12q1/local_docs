@@ -1,7 +1,7 @@
 # Abuses
 ---
 #noun
-- **Improper treatment or usage; [[application]] to a wrong or bad purpose; an unjust, corrupt or wrongful practice or custom.**
+- **Improper treatment or usage; [[application]] to a wrong or [[bad]] purpose; an unjust, corrupt or wrongful practice or custom.**
 	- _Example: All abuse, whether physical, verbal, psychological or sexual, is bad._
 - **Misuse; improper use; perversion.**
 - **A delusion; an imposture; misrepresentation; deception.**

@@ -1,7 +1,7 @@
 # Addorsed
 ---
 #adjective
-- **(of [[animals]]) set back to back**
+- **(of [[animals]]) set [[back]] to [[back]]**
 ---
 ### Antonyms
 - [[affronté]]

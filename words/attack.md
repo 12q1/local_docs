@@ -10,7 +10,7 @@
 	- _Example: Having washed the plates from dinner, I made an attack on the laundry._
 - **An [[attempt]] to exploit a vulnerability in a computer system.**
 - **Collectively, the bowlers of a cricket side.**
-- **Any contact with the ball other than a serve or block which sends the ball [[across]] the plane of the net.**
+- **Any contact with the [[ball]] other than a serve or block which sends the [[ball]] [[across]] the plane of the net.**
 - **The three attackmen on the field or [[all]] the attackmen of a team.**
 - **The sudden onset of a disease or condition.**
 	- _Example: I've had an attack of the flu._
@@ -30,7 +30,7 @@
 - **To begin to [[affect]]; to [[act]] upon injuriously or destructively; to begin to decompose or waste.**
 - **To deal with something in a direct way; to set to work upon.**
 	- _Example: I attacked the meal with a hearty appetite._
-- **To [[aim]] balls at the batsman’s wicket.**
+- **To [[aim]] [[balls]] at the batsman’s wicket.**
 - **To set a field, or bowl in a manner designed to get wickets.**
 - **To bat [[aggressively]], so as to score runs quickly.**
 - **To move forward in an [[active]] [[attempt]] to score a point, as opposed to trying not to concede.**

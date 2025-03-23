@@ -6,7 +6,7 @@
 ---
 #noun
 - **An [[axis]] or shaft supporting a rotating part on a lathe.**
-- **A bar for supporting cutting tools.**
+- **A [[bar]] for supporting cutting tools.**
 - **A spindle of a wheel.**
 ---
 ---

@@ -10,7 +10,7 @@
 - **To remove the limitations of demoware by providing a license; to unlock.**
 - **To [[aerate]] in order to [[aid]] decomposition of organic matter.**
 - **To organize or create a military unit or station.**
-- **To bring a player back [[after]] an injury.**
+- **To bring a player [[back]] [[after]] an injury.**
 ---
 ### Synonyms
 - [[actuate]], [[enable]], [[get going]], [[set going]], [[set in motion]], [[set off]], [[spur]], [[start]], [[stimulate]], [[trigger]], [[turn on]]

@@ -5,9 +5,9 @@
 ---
 #adjective
 - **Having a repugnance or opposition of mind.**
-- **Turned [[away]] or backward.**
+- **Turned [[away]] or [[backward]].**
 - **Lying on the opposite side (to or from).**
-- **Turned so as to show the back, as of a right hand.**
+- **Turned so as to show the [[back]], as of a right hand.**
 ---
 ### Synonyms
 - [[disinclined]], [[disliking]], [[fromward]], [[loath]], [[reluctant]], [[unwilling]]

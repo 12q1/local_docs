@@ -9,6 +9,6 @@
 - **The manner in which a phoneme is pronounced.**
 - **The manner in which something is [[articulated]] (tongued, slurred or bowed).**
 	- _Example: The articulation in this piece is tricky because it alternates between legato and staccato._
-- **The interrelation and congruence of the flow of data between financial statements of an entity, especially between the income statement and balance sheet.**
+- **The interrelation and congruence of the flow of data between financial statements of an entity, especially between the income statement and [[balance]] sheet.**
 ---
 ---

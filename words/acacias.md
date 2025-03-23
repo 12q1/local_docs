@@ -11,6 +11,6 @@
 ### Synonyms
 - [[gum acacia]], [[gum arabic]], [[wattle]]
 #noun
-- **(history) A roll or bag, filled with dust, borne by Byzantine emperors, as a memento of mortality. It is represented on medals.**
+- **(history) A roll or [[bag]], filled with dust, borne by Byzantine emperors, as a memento of mortality. It is represented on medals.**
 ---
 ---

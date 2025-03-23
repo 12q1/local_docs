@@ -6,7 +6,7 @@
 ---
 #adverb
 - **Behind (a vessel); in the rear.**
-- **In the direction of the stern; backward (motion); to the rear.**
+- **In the direction of the stern; [[backward]] (motion); to the rear.**
 - **At or toward the rear of a vessel.**
 ---
 ### Antonyms

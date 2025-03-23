@@ -25,7 +25,7 @@
 - **To [[address]] oneself to; to prepare oneself for; to [[apply]] oneself to; to direct one's speech or discourse to.**
 - **To direct [[attention]] towards a problem or obstacle, in an [[attempt]] to resolve it.**
 - **To refer to a location in computer memory.**
-- **To get ready to hit (the ball on the tee).**
+- **To get ready to hit (the [[ball]] on the tee).**
 ---
 ### Synonyms
 - [[beclothe]], [[dight]], [[put on]], [[put the moves on]], [[romance]]
