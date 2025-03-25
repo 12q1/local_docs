@@ -1,9 +1,9 @@
 # Mousseux
 ---
 #noun
-- **A sparkling wine.**
+- **A [[s/_sparkling|sparkling]] wine.**
 ---
 #adjective
-- **Of wine: sparkling.**
+- **Of wine: [[s/_sparkling|sparkling]].**
 ---
 ---

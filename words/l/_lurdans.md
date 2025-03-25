@@ -1,6 +1,6 @@
 # Lurdans
 ---
 #noun
-- **A [[l/_lazy|lazy]], stupid [[p/_person|person]]; a sluggard.**
+- **A [[l/_lazy|lazy]], stupid [[p/_person|person]]; a [[s/_sluggard|sluggard]].**
 ---
 ---

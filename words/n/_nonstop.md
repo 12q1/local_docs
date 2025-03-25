@@ -3,7 +3,7 @@
 #noun
 - **(travel) A [[n/_nonstop|nonstop]] [[j/_journey|journey]], [[e/_especially|especially]] a [[n/_nonstop|nonstop]] [[f/_flight|flight]].**
 - **A [[c/_convenience|convenience]] store in [[p/_parts|parts]] of [[e/_europe|Europe]], [[o/_open|open]] 24 [[h/_hours|hours]] a [[d/_day|day]].**
-- **A [[l/_linguistic|linguistic]] sound that is not a stop; a [[c/_continuant|continuant]].**
+- **A [[l/_linguistic|linguistic]] [[s/_sound|sound]] that is not a stop; a [[c/_continuant|continuant]].**
 ---
 #adjective
 - **Without stopping; without [[i/_interruption|interruption]] or [[b/_break|break]].**

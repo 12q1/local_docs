@@ -1,6 +1,6 @@
 # Nanoplankton
 ---
 #noun
-- **[[p/_plankton|Plankton]] [[b/_between|between]] 2 and 20 [[m/_microns|microns]] in size.**
+- **[[p/_plankton|Plankton]] [[b/_between|between]] 2 and 20 [[m/_microns|microns]] in [[s/_size|size]].**
 ---
 ---

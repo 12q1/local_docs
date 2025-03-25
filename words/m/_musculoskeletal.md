@@ -1,6 +1,6 @@
 # Musculoskeletal
 ---
 #adjective
-- **Of, or relating to [[b/_both|both]] [[m/_muscles|muscles]] and the skeleton**
+- **Of, or [[r/_relating|relating]] to [[b/_both|both]] [[m/_muscles|muscles]] and the [[s/_skeleton|skeleton]]**
 ---
 ---

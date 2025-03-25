@@ -1,6 +1,6 @@
 # Mucid
 ---
 #adjective
-- **[[m/_musty|Musty]]; [[m/_mouldy|mouldy]]; slimy; [[m/_mucous|mucous]]**
+- **[[m/_musty|Musty]]; [[m/_mouldy|mouldy]]; [[s/_slimy|slimy]]; [[m/_mucous|mucous]]**
 ---
 ---

@@ -1,9 +1,9 @@
 # Omens
 ---
 #noun
-- **Something which [[p/_portends|portends]] or is [[p/_perceived|perceived]] to [[p/_portend|portend]] [[e/_either|either]] a [[g/_good|good]] or [[e/_evil|evil]] [[e/_event|event]] or [[c/_circumstance|circumstance]] in the [[f/_future|future]], or which [[c/_causes|causes]] a [[f/_foreboding|foreboding]]; a [[p/_portent|portent]] or [[a/_augury|augury]].**
+- **[[s/_something|Something]] which [[p/_portends|portends]] or is [[p/_perceived|perceived]] to [[p/_portend|portend]] [[e/_either|either]] a [[g/_good|good]] or [[e/_evil|evil]] [[e/_event|event]] or [[c/_circumstance|circumstance]] in the [[f/_future|future]], or which [[c/_causes|causes]] a [[f/_foreboding|foreboding]]; a [[p/_portent|portent]] or [[a/_augury|augury]].**
 	- _Example: a rise in imports might be an omen of economic recovery_
-- **A thing of prophetic significance.**
+- **A thing of [[p/_prophetic|prophetic]] [[s/_significance|significance]].**
 	- _Example: a sign of ill omen_
 ---
 ### Synonyms

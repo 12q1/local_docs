@@ -7,7 +7,7 @@
 - **To [[c/_catch|catch]] in a [[m/_mesh|mesh]].**
 ---
 #noun
-- **The [[a/_act|act]] by which something [[m/_meshes|meshes]] or [[i/_interlocks|interlocks]].**
+- **The [[a/_act|act]] by which [[s/_something|something]] [[m/_meshes|meshes]] or [[i/_interlocks|interlocks]].**
 	- _Example: the meshings of gears_
 ---
 ---

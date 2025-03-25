@@ -1,18 +1,18 @@
 # Mocks
 ---
 #noun
-- **An [[i/_imitation|imitation]], usually of [[l/_lesser|lesser]] quality.**
+- **An [[i/_imitation|imitation]], usually of [[l/_lesser|lesser]] [[q/_quality|quality]].**
 - **[[m/_mockery|Mockery]], the [[a/_act|act]] of [[m/_mocking|mocking]].**
-- **A [[p/_practice|practice]] [[e/_exam|exam]] set by an [[e/_educating|educating]] [[i/_institution|institution]] to [[p/_prepare|prepare]] students for an [[i/_important|important]] [[e/_exam|exam]].**
+- **A [[p/_practice|practice]] [[e/_exam|exam]] [[s/_set|set]] by an [[e/_educating|educating]] [[i/_institution|institution]] to [[p/_prepare|prepare]] students for an [[i/_important|important]] [[e/_exam|exam]].**
 	- _Example: He got a B in his History mock, but improved to an A in the exam._
-- **A [[m/_mockup|mockup]] or prototype.**
+- **A [[m/_mockup|mockup]] or [[p/_prototype|prototype]].**
 ---
 #verb
-- **To [[m/_mimic|mimic]], to simulate.**
-- **To [[c/_create|create]] an [[a/_artistic|artistic]] representation of.**
+- **To [[m/_mimic|mimic]], to [[s/_simulate|simulate]].**
+- **To [[c/_create|create]] an [[a/_artistic|artistic]] [[r/_representation|representation]] of.**
 - **To [[m/_make|make]] [[f/_fun|fun]] of by [[m/_mimicking|mimicking]], to taunt.**
 - **To tantalise, and [[d/_disappoint|disappoint]] the [[h/_hopes|hopes]] of.**
-- **To [[c/_create|create]] a [[m/_mockup|mockup]] or prototype of.**
+- **To [[c/_create|create]] a [[m/_mockup|mockup]] or [[p/_prototype|prototype]] of.**
 	- _Example: What's the best way to mock a database layer?_
 ---
 ---

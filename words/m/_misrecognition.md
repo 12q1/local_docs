@@ -1,6 +1,6 @@
 # Misrecognition
 ---
 #noun
-- **[[i/_incorrect|Incorrect]] recognition**
+- **[[i/_incorrect|Incorrect]] [[r/_recognition|recognition]]**
 ---
 ---

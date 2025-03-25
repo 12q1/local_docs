@@ -1,6 +1,6 @@
 # Macintoshes
 ---
 #noun
-- **A raincoat.**
+- **A [[r/_raincoat|raincoat]].**
 ---
 ---

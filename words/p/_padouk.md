@@ -1,7 +1,7 @@
 # Padouk
 ---
 #noun
-- **[[a/_any|Any]] of the trees of the [[p/_pantropical|pantropical]] [[g/_genus|genus]] Pterocarpus.**
+- **[[a/_any|Any]] of the trees of the [[p/_pantropical|pantropical]] [[g/_genus|genus]] [[p/_pterocarpus|Pterocarpus]].**
 - **The valuable timber of these trees.**
 ---
 ### Synonyms

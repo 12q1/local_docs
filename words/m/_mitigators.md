@@ -1,6 +1,6 @@
 # Mitigators
 ---
 #noun
-- **Someone or something that [[m/_mitigates|mitigates]].**
+- **[[s/_someone|Someone]] or [[s/_something|something]] that [[m/_mitigates|mitigates]].**
 ---
 ---

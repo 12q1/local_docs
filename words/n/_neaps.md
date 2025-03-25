@@ -7,10 +7,10 @@
 - **A [[n/_neap|neap]] tide.**
 ---
 #verb
-- **To trap a ship (or ship and [[c/_crew|crew]]) in water too shallow to [[m/_move|move]], [[d/_due|due]] to the smaller tidal range [[o/_occurring|occurring]] in a [[p/_period|period]] of [[n/_neap|neap]] tides.**
-- **To [[o/_ooze|ooze]], to sink, to subside, to tail**
+- **To trap a [[s/_ship|ship]] (or [[s/_ship|ship]] and [[c/_crew|crew]]) in water too [[s/_shallow|shallow]] to [[m/_move|move]], [[d/_due|due]] to the [[s/_smaller|smaller]] tidal [[r/_range|range]] [[o/_occurring|occurring]] in a [[p/_period|period]] of [[n/_neap|neap]] tides.**
+- **To [[o/_ooze|ooze]], to [[s/_sink|sink]], to subside, to tail**
 ---
 #noun
-- **The swede (rutabaga), [[c/_called|called]] "turnip" in Scotland.**
+- **The swede ([[r/_rutabaga|rutabaga]]), [[c/_called|called]] "turnip" in [[s/_scotland|Scotland]].**
 ---
 ---

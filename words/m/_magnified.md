@@ -1,16 +1,16 @@
 # Magnified
 ---
 #adjective
-- **[[h/_having|Having]] [[b/_been|been]] visually [[e/_enlarged|enlarged]] by the process of [[m/_magnification|magnification]].**
+- **[[h/_having|Having]] [[b/_been|been]] visually [[e/_enlarged|enlarged]] by the [[p/_process|process]] of [[m/_magnification|magnification]].**
 	- _Example: The image was magnified by a factor of eight._
 ---
 ### Synonyms
 - [[e/_enlarged|enlarged]]
 #verb
-- **To [[p/_praise|praise]], [[g/_glorify|glorify]] (someone or something, [[e/_especially|especially]] [[g/_god|God]]).**
-- **To [[m/_make|make]] (something) [[l/_larger|larger]] or [[m/_more|more]] [[i/_important|important]].**
-- **To [[m/_make|make]] (someone or something) [[a/_appear|appear]] [[g/_greater|greater]] or [[m/_more|more]] [[i/_important|important]] than it is; to [[i/_intensify|intensify]], [[e/_exaggerate|exaggerate]].**
-- **To [[m/_make|make]] (something) [[a/_appear|appear]] [[l/_larger|larger]] by [[m/_means|means]] of a [[l/_lens|lens]], [[m/_magnifying|magnifying]] [[g/_glass|glass]], telescope [[e/_etc|etc]].**
-- **To [[h/_have|have]] [[e/_effect|effect]]; to be of [[i/_importance|importance]] or significance.**
+- **To [[p/_praise|praise]], [[g/_glorify|glorify]] ([[s/_someone|someone]] or [[s/_something|something]], [[e/_especially|especially]] [[g/_god|God]]).**
+- **To [[m/_make|make]] ([[s/_something|something]]) [[l/_larger|larger]] or [[m/_more|more]] [[i/_important|important]].**
+- **To [[m/_make|make]] ([[s/_someone|someone]] or [[s/_something|something]]) [[a/_appear|appear]] [[g/_greater|greater]] or [[m/_more|more]] [[i/_important|important]] than it is; to [[i/_intensify|intensify]], [[e/_exaggerate|exaggerate]].**
+- **To [[m/_make|make]] ([[s/_something|something]]) [[a/_appear|appear]] [[l/_larger|larger]] by [[m/_means|means]] of a [[l/_lens|lens]], [[m/_magnifying|magnifying]] [[g/_glass|glass]], telescope [[e/_etc|etc]].**
+- **To [[h/_have|have]] [[e/_effect|effect]]; to be of [[i/_importance|importance]] or [[s/_significance|significance]].**
 ---
 ---

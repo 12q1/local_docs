@@ -7,6 +7,6 @@
 - 
 #adjective
 - **[[i/_involving|Involving]] [[m/_more|more]] than [[o/_one|one]] [[c/_cycle|cycle]].**
-- **[[h/_having|Having]] two or [[m/_more|more]] rings of [[a/_atoms|atoms]] in the [[m/_molecule|molecule]].**
+- **[[h/_having|Having]] two or [[m/_more|more]] [[r/_rings|rings]] of [[a/_atoms|atoms]] in the [[m/_molecule|molecule]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Passata
 ---
 #noun
-- **Sieved raw tomatoes.**
+- **[[s/_sieved|Sieved]] [[r/_raw|raw]] tomatoes.**
 ---
 ---

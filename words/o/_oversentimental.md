@@ -1,6 +1,6 @@
 # Oversentimental
 ---
 #adjective
-- **[[e/_excessively|Excessively]] sentimental.**
+- **[[e/_excessively|Excessively]] [[s/_sentimental|sentimental]].**
 ---
 ---

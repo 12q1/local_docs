@@ -1,18 +1,18 @@
 # Nesting
 ---
 #verb
-- **(of [[a/_animals|animals]]) To [[b/_build|build]] or settle [[i/_into|into]] a [[n/_nest|nest]].**
-- **To settle [[i/_into|into]] a [[h/_home|home]].**
+- **(of [[a/_animals|animals]]) To [[b/_build|build]] or [[s/_settle|settle]] [[i/_into|into]] a [[n/_nest|nest]].**
+- **To [[s/_settle|settle]] [[i/_into|into]] a [[h/_home|home]].**
 	- _Example: We loved the new house and were nesting there in two days!_
 - **To successively [[n/_neatly|neatly]] [[f/_fit|fit]] [[i/_inside|inside]] [[a/_another|another]].**
 	- _Example: I bought a set of nesting mixing bowls for my mother._
 - **To [[p/_place|place]] in, or as [[i/_if|if]] in, a [[n/_nest|nest]].**
-- **To [[p/_place|place]] [[o/_one|one]] thing [[n/_neatly|neatly]] [[i/_inside|inside]] [[a/_another|another]], and [[b/_both|both]] [[i/_inside|inside]] [[y/_yet|yet]] [[a/_another|another]] (and so on).**
+- **To [[p/_place|place]] [[o/_one|one]] thing [[n/_neatly|neatly]] [[i/_inside|inside]] [[a/_another|another]], and [[b/_both|both]] [[i/_inside|inside]] [[y/_yet|yet]] [[a/_another|another]] (and [[s/_so|so]] on).**
 	- _Example: There would be much more room in the attic if you had nested all the empty boxes._
 - **To [[h/_hunt|hunt]] for [[b/_birds|birds]]' [[n/_nests|nests]] or their [[c/_contents|contents]] (usually "[[g/_go|go]] [[n/_nesting|nesting]]").**
 ---
 #noun
-- **The process by which a [[b/_bird|bird]] [[n/_nests|nests]].**
+- **The [[p/_process|process]] by which a [[b/_bird|bird]] [[n/_nests|nests]].**
 - **The [[e/_enclosure|enclosure]] of [[o/_one|one]] [[l/_loop|loop]], [[b/_block|block]], [[e/_etc|etc]]. of [[c/_code|code]] [[i/_inside|inside]] [[a/_another|another]].**
 ---
 ---

@@ -1,31 +1,31 @@
 # Pings
 ---
 #noun
-- **A [[h/_high|high]]-[[p/_pitched|pitched]], short and somewhat sharp sound.**
+- **A [[h/_high|high]]-[[p/_pitched|pitched]], [[s/_short|short]] and [[s/_somewhat|somewhat]] [[s/_sharp|sharp]] [[s/_sound|sound]].**
 	- _Example: My car used to make an odd ping, but after the last oil change it went away._
-- **(submarine [[n/_navigation|navigation]]) A pulse of [[h/_high|high]]-[[p/_pitched|pitched]] or ultrasonic sound whose [[e/_echoes|echoes]] provide [[i/_information|information]] [[a/_about|about]] [[n/_nearby|nearby]] [[o/_objects|objects]] and vessels.**
+- **(submarine [[n/_navigation|navigation]]) A [[p/_pulse|pulse]] of [[h/_high|high]]-[[p/_pitched|pitched]] or ultrasonic [[s/_sound|sound]] whose [[e/_echoes|echoes]] [[p/_provide|provide]] [[i/_information|information]] [[a/_about|about]] [[n/_nearby|nearby]] [[o/_objects|objects]] and vessels.**
 	- _Example: The submarine sent out a ping and got an echo from a battleship._
-- **A [[p/_packet|packet]] which a remote [[h/_host|host]] is [[e/_expected|expected]] to [[e/_echo|echo]], thus [[i/_indicating|indicating]] [[i/_its|its]] [[p/_presence|presence]].**
+- **A [[p/_packet|packet]] which a [[r/_remote|remote]] [[h/_host|host]] is [[e/_expected|expected]] to [[e/_echo|echo]], thus [[i/_indicating|indicating]] [[i/_its|its]] [[p/_presence|presence]].**
 	- _Example: The network is overloaded from all the pings going out._
-- **An [[e/_email|email]] or [[o/_other|other]] [[m/_message|message]] sent requesting [[a/_acknowledgement|acknowledgement]].**
+- **An [[e/_email|email]] or [[o/_other|other]] [[m/_message|message]] [[s/_sent|sent]] [[r/_requesting|requesting]] [[a/_acknowledgement|acknowledgement]].**
 	- _Example: I sent a ping to the insurance company to see if they received our claim._
 - **[[l/_latency|Latency]].**
-- **A [[m/_means|means]] of [[h/_highlighting|highlighting]] a [[f/_feature|feature]] on the [[g/_game|game]] [[m/_map|map]] so that [[a/_allied|allied]] [[p/_players|players]] [[c/_can|can]] see it.**
+- **A [[m/_means|means]] of [[h/_highlighting|highlighting]] a [[f/_feature|feature]] on the [[g/_game|game]] [[m/_map|map]] [[s/_so|so]] that [[a/_allied|allied]] [[p/_players|players]] [[c/_can|can]] [[s/_see|see]] it.**
 - **(WMF [[j/_jargon|jargon]]) A [[n/_notification|notification]].**
 ---
 #verb
-- **To [[m/_make|make]] a [[h/_high|high]]-[[p/_pitched|pitched]], short and somewhat sharp sound.**
+- **To [[m/_make|make]] a [[h/_high|high]]-[[p/_pitched|pitched]], [[s/_short|short]] and [[s/_somewhat|somewhat]] [[s/_sharp|sharp]] [[s/_sound|sound]].**
 	- _Example: My car was pinging until my last oil change._
-- **(submarine [[n/_navigation|navigation]]) To [[e/_emit|emit]] a signal and then [[l/_listen|listen]] for [[i/_its|its]] [[e/_echo|echo]] in [[o/_order|order]] to [[d/_detect|detect]] [[o/_objects|objects]].**
-- **To send a [[p/_packet|packet]] in [[o/_order|order]] to [[d/_determine|determine]] whether a [[h/_host|host]] is [[p/_present|present]], [[p/_particularly|particularly]] by use of the [[p/_ping|ping]] utility.**
+- **(submarine [[n/_navigation|navigation]]) To [[e/_emit|emit]] a [[s/_signal|signal]] and then [[l/_listen|listen]] for [[i/_its|its]] [[e/_echo|echo]] in [[o/_order|order]] to [[d/_detect|detect]] [[o/_objects|objects]].**
+- **To [[s/_send|send]] a [[p/_packet|packet]] in [[o/_order|order]] to [[d/_determine|determine]] whether a [[h/_host|host]] is [[p/_present|present]], [[p/_particularly|particularly]] by use of the [[p/_ping|ping]] utility.**
 	- _Example: I'm pinging their server._
-- **(by [[e/_extension|extension]]) To send an [[e/_email|email]] or [[o/_other|other]] [[m/_message|message]] to someone in [[h/_hopes|hopes]] of [[e/_eliciting|eliciting]] a response.**
+- **(by [[e/_extension|extension]]) To [[s/_send|send]] an [[e/_email|email]] or [[o/_other|other]] [[m/_message|message]] to [[s/_someone|someone]] in [[h/_hopes|hopes]] of [[e/_eliciting|eliciting]] a [[r/_response|response]].**
 	- _Example: I'll ping the insurance company again to see if they've received our claim._
 - **To [[f/_flick|flick]].**
 	- _Example: I pinged the crumb off the table with my finger._
 - **To [[b/_bounce|bounce]].**
 	- _Example: The ball pinged off the wall and came hurtling back._
-- **To [[c/_cause|cause]] something to [[b/_bounce|bounce]].**
+- **To [[c/_cause|cause]] [[s/_something|something]] to [[b/_bounce|bounce]].**
 - **To [[c/_call|call]] [[o/_out|out]] [[a/_audibly|audibly]].**
 - **To [[p/_penalize|penalize]].**
 	- _Example: Gary Ablett was pinged for holding the ball and gave away a free kick._

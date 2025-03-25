@@ -3,7 +3,7 @@
 #noun
 - **A [[p/_person|person]], usually a woman, who is trained to [[a/_assist|assist]] women in [[c/_childbirth|childbirth]], but who is not a [[p/_physician|physician]].**
 	- _Example: A hundred years ago, a midwife would bring the baby into the world - going to a hospital to deliver a baby was either impossible or unheard of._
-- **Someone who [[a/_assists|assists]] in [[b/_bringing|bringing]] [[a/_about|about]] some result or project.**
+- **[[s/_someone|Someone]] who [[a/_assists|assists]] in [[b/_bringing|bringing]] [[a/_about|about]] [[s/_some|some]] [[r/_result|result]] or [[p/_project|project]].**
 ---
 ### Synonyms
 - [[a/_accoucheuse|accoucheuse]]

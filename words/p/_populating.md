@@ -6,7 +6,7 @@
 - **To [[i/_increase|increase]] in [[n/_number|number]]; to [[b/_breed|breed]].**
 - **To [[f/_fill|fill]] [[i/_initially|initially]] [[e/_empty|empty]] [[i/_items|items]] in a [[c/_collection|collection]].**
 	- _Example: Clicking the refresh button will populate the grid._
-- **To [[f/_fill|fill]] [[i/_initially|initially]] [[e/_empty|empty]] slots or sockets on a [[c/_circuit|circuit]] [[b/_board|board]] or similar.**
+- **To [[f/_fill|fill]] [[i/_initially|initially]] [[e/_empty|empty]] [[s/_slots|slots]] or [[s/_sockets|sockets]] on a [[c/_circuit|circuit]] [[b/_board|board]] or [[s/_similar|similar]].**
 ---
 ### Antonyms
 - [[d/_depopulate|depopulate]]

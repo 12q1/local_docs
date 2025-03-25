@@ -1,0 +1,61 @@
+# Return
+---
+#noun
+- **The [[a/_act|act]] of [[r/_returning|returning]].**
+	- _Example: I expect the house to be spotless upon my return._
+- **A [[r/_return|return]] ticket.**
+	- _Example: Do you want a one-way or a return?_
+- **An [[i/_item|item]] that is [[r/_returned|returned]], [[e/_e|e]].[[g/_g|g]]. [[d/_due|due]] to a [[d/_defect|defect]], or the [[a/_act|act]] of [[r/_returning|returning]] it.**
+	- _Example: Last year there were 250 returns of this product, an improvement on the 500 returns the year before._
+- **An [[a/_answer|answer]].**
+	- _Example: a return to one's question_
+- **An [[a/_account|account]], or [[f/_formal|formal]] [[r/_report|report]], of an [[a/_action|action]] [[p/_performed|performed]], of a [[d/_duty|duty]] [[d/_discharged|discharged]], of [[f/_facts|facts]] or statistics, [[e/_etc|etc]].; [[e/_especially|especially]], in the [[p/_plural|plural]], a [[s/_set|set]] of tabulated statistics [[p/_prepared|prepared]] for [[g/_general|general]] [[i/_information|information]].**
+	- _Example: election returns; a return of the amount of goods produced or sold_
+- **[[g/_gain|Gain]] or [[l/_loss|loss]] from an [[i/_investment|investment]].**
+	- _Example: It yielded a return of 5%._
+- **: A [[r/_report|report]] of [[i/_income|income]] submitted to a [[g/_government|government]] for [[p/_purposes|purposes]] of specifying [[e/_exact|exact]] tax [[p/_payment|payment]] [[a/_amounts|amounts]]. A tax [[r/_return|return]].**
+	- _Example: Hand in your return by the end of the tax year._
+- **A [[c/_carriage|carriage]] [[r/_return|return]] [[c/_character|character]].**
+- **The [[a/_act|act]] of [[r/_relinquishing|relinquishing]] [[c/_control|control]] to the [[c/_calling|calling]] [[p/_procedure|procedure]].**
+- **A [[r/_return|return]] value: the [[d/_data|data]] [[p/_passed|passed]] [[b/_back|back]] from a [[c/_called|called]] [[p/_procedure|procedure]].**
+- **A [[r/_return|return]] [[p/_pipe|pipe]], [[r/_returning|returning]] [[f/_fluid|fluid]] to a [[b/_boiler|boiler]] or [[o/_other|other]] [[c/_central|central]] [[p/_plant|plant]] ([[c/_compare|compare]] with [[f/_flow|flow]] [[p/_pipe|pipe]], which [[c/_carries|carries]] [[l/_liquid|liquid]] [[a/_away|away]] from [[c/_central|central]] [[p/_plant|plant]]).**
+	- _Example: The boiler technician had to cut out the heating return to access the safety valve._
+- **A [[s/_short|short]] [[p/_perpendicular|perpendicular]] [[e/_extension|extension]] of a [[d/_desk|desk]], usually [[s/_slightly|slightly]] [[l/_lower|lower]].**
+- **[[c/_catching|Catching]] a [[b/_ball|ball]] [[a/_after|after]] a [[p/_punt|punt]] and [[r/_running|running]] it [[b/_back|back]] towards the [[o/_opposing|opposing]] team.**
+- **A throw from a [[f/_fielder|fielder]] to the wicket-[[k/_keeper|keeper]] or to [[a/_another|another]] [[f/_fielder|fielder]] at the wicket.**
+- **The [[c/_continuation|continuation]] in a [[d/_different|different]] [[d/_direction|direction]], [[m/_most|most]] [[o/_often|often]] at a [[r/_right|right]] [[a/_angle|angle]], of a [[b/_building|building]], [[f/_face|face]] of a [[b/_building|building]], or [[a/_any|any]] [[m/_member|member]], such as a [[m/_moulding|moulding]]; [[a/_applied|applied]] to the [[s/_shorter|shorter]] in [[c/_contradistinction|contradistinction]] to the [[l/_longer|longer]].**
+	- _Example: A facade of sixty feet east and west has a return of twenty feet north and south._
+---
+### Synonyms
+- [[g/_gaincoming|gaincoming]]
+#verb
+- **To [[c/_come|come]] or [[g/_go|go]] [[b/_back|back]] (to a [[p/_place|place]] or [[p/_person|person]]).**
+	- _Example: Although the birds fly north for the summer, they return here in winter._
+- **To [[g/_go|go]] [[b/_back|back]] in thought, [[n/_narration|narration]], or [[a/_argument|argument]].**
+	- _Example: To return to my story [...]_
+- **To turn [[b/_back|back]], [[r/_retreat|retreat]].**
+- **To turn ([[s/_something|something]]) [[r/_round|round]].**
+- **To [[p/_place|place]] or [[p/_put|put]] [[b/_back|back]] [[s/_something|something]] where it [[h/_had|had]] [[b/_been|been]].**
+	- _Example: Please return your hands to your lap._
+- **To [[g/_give|give]] [[s/_something|something]] [[b/_back|back]] to [[i/_its|its]] [[o/_original|original]] [[h/_holder|holder]] or [[o/_owner|owner]].**
+	- _Example: You should return the library book within one month._
+- **To take [[b/_back|back]] [[s/_something|something]] to a vendor for a [[r/_refund|refund]].**
+	- _Example: If the goods don't work, you can return them._
+- **To [[g/_give|give]] in [[r/_requital|requital]] or [[r/_recompense|recompense]]; to [[r/_requite|requite]].**
+- **To [[b/_bat|bat]] the [[b/_ball|ball]] [[b/_back|back]] [[o/_over|over]] the [[n/_net|net]] in [[r/_response|response]] to a [[s/_serve|serve]].**
+	- _Example: The player couldn't return the serve because it was so fast._
+- **To [[p/_play|play]] a [[c/_card|card]] as a [[r/_result|result]] of [[a/_another|another]] [[p/_player|player]]'[[s/_s|s]] [[l/_lead|lead]].**
+	- _Example: If one players plays a trump, the others must return a trump._
+- **To throw a [[b/_ball|ball]] [[b/_back|back]] to the wicket-[[k/_keeper|keeper]] (or a [[f/_fielder|fielder]] at that [[p/_position|position]]) from [[s/_somewhere|somewhere]] in the [[f/_field|field]].**
+- **To [[s/_say|say]] in [[r/_reply|reply]]; to [[r/_respond|respond]].**
+	- _Example: to return an answer;  to return thanks;  "Do it yourself!" she returned._
+- **To [[r/_relinquish|relinquish]] [[c/_control|control]] to the [[c/_calling|calling]] [[p/_procedure|procedure]].**
+- **To [[p/_pass|pass]] ([[d/_data|data]]) [[b/_back|back]] to the [[c/_calling|calling]] [[p/_procedure|procedure]].**
+	- _Example: This function returns the number of files in the directory._
+- **To [[r/_retort|retort]]; to throw [[b/_back|back]].**
+	- _Example: to return the lie_
+- **To [[r/_report|report]], or [[b/_bring|bring]] [[b/_back|back]] and [[m/_make|make]] [[k/_known|known]].**
+	- _Example: to return the result of an election_
+- **(by [[e/_extension|extension]]) To [[e/_elect|elect]] [[a/_according|according]] to the [[o/_official|official]] [[r/_report|report]] of the [[e/_election|election]] [[o/_officers|officers]].**
+---
+---

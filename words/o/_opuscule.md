@@ -1,6 +1,6 @@
 # Opuscule
 ---
 #noun
-- **A small or [[p/_petty|petty]] work.**
+- **A [[s/_small|small]] or [[p/_petty|petty]] work.**
 ---
 ---

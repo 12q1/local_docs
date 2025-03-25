@@ -1,9 +1,9 @@
 # Nonproprietary
 ---
 #noun
-- **A [[d/_drug|drug]] that is not proprietary.**
+- **A [[d/_drug|drug]] that is not [[p/_proprietary|proprietary]].**
 ---
 #adjective
-- **[[l/_lacking|Lacking]] proprietary value; not private or privileged [[i/_information|information]].**
+- **[[l/_lacking|Lacking]] [[p/_proprietary|proprietary]] value; not [[p/_private|private]] or [[p/_privileged|privileged]] [[i/_information|information]].**
 ---
 ---

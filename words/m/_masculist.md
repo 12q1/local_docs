@@ -1,9 +1,9 @@
 # Masculist
 ---
 #noun
-- **A proponent or supporter of masculism.**
+- **A [[p/_proponent|proponent]] or supporter of masculism.**
 ---
 #adjective
-- **Of or relating to masculism.**
+- **Of or [[r/_relating|relating]] to masculism.**
 ---
 ---

@@ -13,7 +13,7 @@
 - [[c/_center|center]], [[c/_centre|centre]], [[m/_midpoint|midpoint]], [[c/_center|center]], [[c/_centre|centre]], [[m/_midst|midst]]
 #verb
 - **To take a [[m/_middle|middle]] view of.**
-- **To [[d/_double|double]] (a rope) [[i/_into|into]] two [[e/_equal|equal]] [[p/_portions|portions]]; to [[f/_fold|fold]] in the [[m/_middle|middle]].**
+- **To [[d/_double|double]] (a [[r/_rope|rope]]) [[i/_into|into]] two [[e/_equal|equal]] [[p/_portions|portions]]; to [[f/_fold|fold]] in the [[m/_middle|middle]].**
 ---
 #adjective
 - **[[l/_located|Located]] in the [[m/_middle|middle]]; in [[b/_between|between]].**

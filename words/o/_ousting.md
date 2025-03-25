@@ -1,7 +1,7 @@
 # Ousting
 ---
 #verb
-- **To [[e/_expel|expel]]; to remove.**
+- **To [[e/_expel|expel]]; to [[r/_remove|remove]].**
 	- _Example: The protesters became so noisy that they were finally ousted from the meeting._
 ---
 ### Synonyms
@@ -9,6 +9,6 @@
 ### Antonyms
 - [[a/_accept|accept]], [[h/_harbor|harbor]], [[s/_shelter|shelter]]
 #noun
-- **The [[a/_act|act]] by which somebody is [[o/_ousted|ousted]].**
+- **The [[a/_act|act]] by which [[s/_somebody|somebody]] is [[o/_ousted|ousted]].**
 ---
 ---

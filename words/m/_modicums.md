@@ -1,7 +1,7 @@
 # Modicums
 ---
 #noun
-- **A [[m/_modest|modest]], small, or trifling [[a/_amount|amount]].**
+- **A [[m/_modest|modest]], [[s/_small|small]], or trifling [[a/_amount|amount]].**
 	- _Example: Unable to garner even a modicum of support for his plan, he conceded to follow the others._
 ---
 ### Synonyms

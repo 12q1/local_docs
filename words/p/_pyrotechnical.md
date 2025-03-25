@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Of or [[p/_pertaining|pertaining]] to [[p/_pyrotechnics|pyrotechnics]]**
-- **Resembling [[f/_fireworks|fireworks]]**
+- **[[r/_resembling|Resembling]] [[f/_fireworks|fireworks]]**
 ---
 ---

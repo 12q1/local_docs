@@ -2,8 +2,8 @@
 ---
 #adjective
 - **([[o/_originally|originally]] [[a/_african|African]] [[a/_american|American]] Vernacular [[e/_english|English]]) [[e/_excellent|Excellent]]; [[c/_cool|cool]]; very [[g/_good|good]].**
-- **Sexy.**
-- **Rich in texture; prominent.**
+- **[[s/_sexy|Sexy]].**
+- **[[r/_rich|Rich]] in texture; [[p/_prominent|prominent]].**
 	- _Example: The song has a phat bass line._
 ---
 ### Synonyms

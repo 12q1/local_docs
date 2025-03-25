@@ -1,7 +1,7 @@
 # Outmoded
 ---
 #verb
-- **To render [[n/_no|no]] [[l/_longer|longer]] [[f/_fashionable|fashionable]].**
+- **To [[r/_render|render]] [[n/_no|no]] [[l/_longer|longer]] [[f/_fashionable|fashionable]].**
 ---
 #adjective
 - **Unfashionable**

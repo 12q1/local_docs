@@ -1,7 +1,7 @@
 # Moths
 ---
 #noun
-- **A small [[p/_particle|particle]]; a speck.**
+- **A [[s/_small|small]] [[p/_particle|particle]]; a speck.**
 ---
 #noun
 - **A [[m/_meeting|meeting]] for [[d/_discussion|discussion]].**
@@ -11,11 +11,11 @@
 - **A [[p/_place|place]] of [[m/_meeting|meeting]] for [[d/_discussion|discussion]].**
 ---
 #noun
-- **A tiny [[c/_computer|computer]] for remote sensing; a [[c/_component|component]] [[e/_element|element]] of smartdust.**
+- **A tiny [[c/_computer|computer]] for [[r/_remote|remote]] [[s/_sensing|sensing]]; a [[c/_component|component]] [[e/_element|element]] of smartdust.**
 ---
 #noun
 - **A usually [[n/_nocturnal|nocturnal]] [[i/_insect|insect]] of the [[o/_order|order]] [[l/_lepidoptera|Lepidoptera]], [[d/_distinguished|distinguished]] from [[b/_butterflies|butterflies]] by [[f/_feather|feather]]-[[l/_like|like]] [[a/_antennae|antennae]].**
-- **[[a/_anything|Anything]] that [[g/_gradually|gradually]] and silently [[e/_eats|eats]], [[c/_consumes|consumes]], or wastes [[a/_any|any]] [[o/_other|other]] thing.**
+- **[[a/_anything|Anything]] that [[g/_gradually|gradually]] and [[s/_silently|silently]] [[e/_eats|eats]], [[c/_consumes|consumes]], or wastes [[a/_any|any]] [[o/_other|other]] thing.**
 ---
 ### Synonyms
 - [[l/_lep|lep]]

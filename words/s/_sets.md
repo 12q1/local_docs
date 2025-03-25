@@ -1,0 +1,141 @@
+# Sets
+---
+#verb
+- **To [[p/_put|put]] ([[s/_something|something]]) [[d/_down|down]], to [[r/_rest|rest]].**
+	- _Example: Set the tray there._
+- **To [[a/_attach|attach]] or [[a/_affix|affix]] ([[s/_something|something]]) to [[s/_something|something]] [[e/_else|else]], or in or upon a [[c/_certain|certain]] [[p/_place|place]].**
+	- _Example: I have set my heart on running the marathon._
+- **To [[p/_put|put]] in a specified [[c/_condition|condition]] or state; to [[c/_cause|cause]] to be.**
+- **To start (a [[f/_fire|fire]]).**
+- **To [[c/_cause|cause]] to stop or stick; to [[o/_obstruct|obstruct]]; to [[f/_fasten|fasten]] to a spot.**
+	- _Example: to set a coach in the mud_
+- **To [[d/_determine|determine]] or [[s/_settle|settle]].**
+	- _Example: to set the rent_
+- **To [[a/_adjust|adjust]].**
+	- _Example: I set the alarm at 6 a.m._
+- **To [[p/_punch|punch]] (a [[n/_nail|nail]]) [[i/_into|into]] wood [[s/_so|so]] that [[i/_its|its]] [[h/_head|head]] is [[b/_below|below]] the surface.**
+- **To [[a/_arrange|arrange]] with [[d/_dishes|dishes]] and [[c/_cutlery|cutlery]], to [[s/_set|set]] the table.**
+	- _Example: Please set the table for our guests._
+- **To [[i/_introduce|introduce]] or [[d/_describe|describe]].**
+	- _Example: I’ll tell you what happened, but first let me set the scene._
+- **To [[l/_locate|locate]] (a [[p/_play|play]], [[e/_etc|etc]].); to [[a/_assign|assign]] a [[b/_backdrop|backdrop]] to, [[g/_geographically|geographically]] or temporally.**
+	- _Example: He says he will set his next film in France._
+- **To [[c/_compile|compile]], to [[m/_make|make]] (a [[p/_puzzle|puzzle]] or [[c/_challenge|challenge]]).**
+	- _Example: This crossword was set by Araucaria._
+- **To [[p/_prepare|prepare]] (a stage or [[f/_film|film]] [[s/_set|set]]).**
+- **To [[f/_fit|fit]] ([[s/_someone|someone]]) up in a [[s/_situation|situation]].**
+- **To [[a/_arrange|arrange]] (type).**
+	- _Example: It was a complex page, but he set it quickly._
+- **To [[d/_devise|devise]] and [[a/_assign|assign]] (work) to.**
+	- _Example: The teacher set her students the task of drawing a foot._
+- **To [[d/_direct|direct]] (the [[b/_ball|ball]]) to a teammate for an [[a/_attack|attack]].**
+- **To [[s/_solidify|solidify]].**
+	- _Example: The glue sets in four minutes._
+- **To [[r/_render|render]] stiff or [[s/_solid|solid]]; [[e/_especially|especially]], to [[c/_convert|convert]] [[i/_into|into]] [[c/_curd|curd]]; to [[c/_curdle|curdle]].**
+	- _Example: to set milk for cheese_
+- **Of a [[h/_heavenly|heavenly]] [[b/_body|body]], to [[d/_disappear|disappear]] [[b/_below|below]] the [[h/_horizon|horizon]] of a [[p/_planet|planet]], [[e/_etc|etc]], as the [[l/_latter|latter]] [[r/_rotates|rotates]].**
+	- _Example: The moon sets at eight o'clock tonight._
+- **To [[d/_defeat|defeat]] a [[c/_contract|contract]].**
+- **([[n/_now|now]] [[f/_followed|followed]] by "[[o/_out|out]]", as in [[s/_set|set]] [[o/_out|out]]) To [[b/_begin|begin]] to [[m/_move|move]]; to [[g/_go|go]] [[f/_forth|forth]].**
+- **To [[p/_produce|produce]] [[a/_after|after]] [[p/_pollination|pollination]].**
+	- _Example: to set seed_
+- **(of [[f/_fruit|fruit]]) To be [[f/_fixed|fixed]] for [[g/_growth|growth]]; to strike [[r/_root|root]]; to [[b/_begin|begin]] to [[g/_germinate|germinate]] or [[f/_form|form]].**
+- **([[m/_midwestern|Midwestern]] US) To [[s/_sit|sit]] (be in a [[s/_seated|seated]] [[p/_position|position]]).**
+	- _Example: He sets in that chair all day._
+- **To [[h/_hunt|hunt]] [[g/_game|game]] with the [[a/_aid|aid]] of a [[s/_setter|setter]].**
+- **Of a [[d/_dog|dog]], to [[i/_indicate|indicate]] the [[p/_position|position]] of [[g/_game|game]].**
+	- _Example: The dog sets the bird._
+- **To [[a/_apply|apply]] [[o/_oneself|oneself]]; to undertake [[e/_earnestly|earnestly]].**
+- **To [[f/_fit|fit]] [[m/_music|music]] to words.**
+- **To [[p/_place|place]] [[p/_plants|plants]] or [[s/_shoots|shoots]] in the [[g/_ground|ground]]; to [[p/_plant|plant]].**
+	- _Example: to set pear trees in an orchard_
+- **To [[b/_become|become]] [[f/_fixed|fixed]] or [[r/_rigid|rigid]]; to be [[f/_fastened|fastened]].**
+- **To [[h/_have|have]] a [[c/_certain|certain]] [[d/_direction|direction]] of [[m/_motion|motion]]; to [[f/_flow|flow]]; to [[m/_move|move]] on; to tend.**
+	- _Example: The current sets to the north; the tide sets to the windward._
+- **([[c/_country|country]] [[d/_dancing|dancing]]) To [[a/_acknowledge|acknowledge]] a [[d/_dancing|dancing]] [[p/_partner|partner]] by [[f/_facing|facing]] [[h/_him|him]] or [[h/_her|her]] and [[m/_moving|moving]] [[f/_first|first]] to [[o/_one|one]] [[s/_side|side]] and then to the [[o/_other|other]], while [[s/_she|she]] or [[h/_he|he]] [[d/_does|does]] the [[o/_opposite|opposite]].**
+	- _Example: Set to partners! was the next instruction from the caller._
+- **To [[p/_place|place]] or [[f/_fix|fix]] in a [[s/_setting|setting]].**
+	- _Example: to set a precious stone in a border of metal_
+- **To [[p/_put|put]] in [[o/_order|order]] in a [[p/_particular|particular]] [[m/_manner|manner]]; to [[p/_prepare|prepare]].**
+	- _Example: to set (that is, to hone) a razor_
+- **To [[e/_extend|extend]] and [[b/_bring|bring]] [[i/_into|into]] [[p/_position|position]]; to spread.**
+	- _Example: to set the sails of a ship_
+- **To [[g/_give|give]] a [[p/_pitch|pitch]] to, as a tune; to start by [[f/_fixing|fixing]] the [[k/_keynote|keynote]].**
+	- _Example: to set a psalm_
+- **To [[r/_reduce|reduce]] from a [[d/_dislocated|dislocated]] or [[f/_fractured|fractured]] state.**
+	- _Example: to set a broken bone_
+- **To [[l/_lower|lower]] [[i/_into|into]] [[p/_place|place]] and [[f/_fix|fix]] [[s/_solidly|solidly]], as the [[b/_blocks|blocks]] of [[c/_cut|cut]] stone in a structure.**
+- **To wager in [[g/_gambling|gambling]]; to [[r/_risk|risk]].**
+- **To [[a/_adorn|adorn]] with [[s/_something|something]] [[i/_infixed|infixed]] or [[a/_affixed|affixed]]; to stud; to variegate with [[o/_objects|objects]] [[p/_placed|placed]] [[h/_here|here]] and there.**
+- **To value; to [[r/_rate|rate]]; used with at.**
+- **To [[e/_establish|establish]] as a [[r/_rule|rule]]; to [[f/_furnish|furnish]]; to [[p/_prescribe|prescribe]]; to [[a/_assign|assign]].**
+	- _Example: to set a good example_
+- **To suit; to [[b/_become|become]].**
+	- _Example: It sets him ill._
+---
+### Synonyms
+- [[l/_lay|lay]], [[p/_put|put]], [[l/_light|light]]
+### Antonyms
+- [[e/_extinguish|extinguish]], [[q/_quench|quench]]
+#noun
+- **A [[p/_punch|punch]] for [[s/_setting|setting]] [[n/_nails|nails]] in wood.**
+	- _Example: nail set_
+- **A [[d/_device|device]] for [[r/_receiving|receiving]] [[b/_broadcast|broadcast]] [[r/_radio|radio]] waves (or, [[m/_more|more]] [[r/_recently|recently]], [[b/_broadcast|broadcast]] [[d/_data|data]]); a [[r/_radio|radio]] or television.**
+	- _Example: television set_
+- **A [[s/_small|small]] tuber or [[b/_bulb|bulb]] used [[i/_instead|instead]] of [[s/_seed|seed]], [[p/_particularly|particularly]] [[o/_onion|onion]] [[s/_sets|sets]] and [[p/_potato|potato]] [[s/_sets|sets]].**
+- **The [[a/_amount|amount]] the teeth of a [[s/_saw|saw]] [[p/_protrude|protrude]] to the [[s/_side|side]] in [[o/_order|order]] to [[c/_create|create]] the [[k/_kerf|kerf]].**
+- **That which is staked; a wager; [[h/_hence|hence]], a [[g/_gambling|gambling]] [[g/_game|game]].**
+- **[[p/_permanent|Permanent]] [[c/_change|change]] of [[s/_shape|shape]] [[c/_caused|caused]] by [[e/_excessive|excessive]] strain, as from [[c/_compression|compression]], tension, [[b/_bending|bending]], twisting, [[e/_etc|etc]].**
+	- _Example: the set of a spring_
+- **A [[b/_bias|bias]] of [[m/_mind|mind]]; an [[a/_attitude|attitude]] or [[p/_pattern|pattern]] of [[b/_behaviour|behaviour]].**
+- **(piledriving) A [[p/_piece|piece]] [[p/_placed|placed]] temporarily upon the [[h/_head|head]] of a [[p/_pile|pile]] when the [[l/_latter|latter]] [[c/_cannot|cannot]] [[o/_otherwise|otherwise]] be [[r/_reached|reached]] by the weight, or [[h/_hammer|hammer]].**
+- **The width of the [[b/_body|body]] of a type.**
+- **A [[y/_young|young]] [[o/_oyster|oyster]] when [[f/_first|first]] [[a/_attached|attached]].**
+- **[[c/_collectively|Collectively]], the [[c/_crop|crop]] of [[y/_young|young]] [[o/_oysters|oysters]] in [[a/_any|any]] [[l/_locality|locality]].**
+- **A [[s/_series|series]] or [[g/_group|group]] of [[s/_something|something]]. ([[n/_note|Note]] the [[s/_similar|similar]] [[m/_meaning|meaning]] in [[e/_etymology|Etymology]] 4, [[n/_noun|Noun]])**
+- **The [[m/_manner|manner]], state, or [[q/_quality|quality]] of [[s/_setting|setting]] or [[f/_fitting|fitting]]; [[f/_fit|fit]].**
+	- _Example: the set of a coat_
+- **The [[p/_pattern|pattern]] of a tartan, [[e/_etc|etc]].**
+- **The [[c/_camber|camber]] of a [[c/_curved|curved]] [[r/_roofing|roofing]] tile.**
+- **The [[f/_full|full]] [[n/_number|number]] of [[e/_eggs|eggs]] [[s/_set|set]] under a [[h/_hen|hen]].**
+---
+#noun
+- **A [[y/_young|young]] [[p/_plant|plant]] [[f/_fit|fit]] for [[s/_setting|setting]] [[o/_out|out]]; a [[s/_slip|slip]]; [[s/_shoot|shoot]].**
+- **A [[r/_rudimentary|rudimentary]] [[f/_fruit|fruit]].**
+- **The [[s/_setting|setting]] of the sun or [[o/_other|other]] [[l/_luminary|luminary]]; (by [[e/_extension|extension]]) the [[c/_close|close]] of the [[d/_day|day]].**
+- **[[g/_general|General]] [[m/_movement|movement]]; [[d/_direction|direction]]; [[d/_drift|drift]]; tendency.**
+- **A [[m/_matching|matching]] [[c/_collection|collection]] of [[s/_similar|similar]] things. ([[n/_note|Note]] the [[s/_similar|similar]] [[m/_meaning|meaning]] in [[e/_etymology|Etymology]] 1, [[n/_noun|Noun]].)**
+	- _Example: a set of tables_
+- **A [[c/_collection|collection]] of various [[o/_objects|objects]] for a [[p/_particular|particular]] [[p/_purpose|purpose]].**
+	- _Example: a set of tools_
+- **An [[o/_object|object]] [[m/_made|made]] up of [[s/_several|several]] [[p/_parts|parts]].**
+	- _Example: a set of steps_
+- **A [[c/_collection|collection]] of zero or [[m/_more|more]] [[o/_objects|objects]], [[p/_possibly|possibly]] [[i/_infinite|infinite]] in [[s/_size|size]], and [[d/_disregarding|disregarding]] [[a/_any|any]] [[o/_order|order]] or [[r/_repetition|repetition]] of the [[o/_objects|objects]] which [[m/_may|may]] be [[c/_contained|contained]] within it.**
+- **(in [[p/_plural|plural]], “[[s/_sets|sets]]”) [[s/_set|Set]] theory.**
+- **A [[g/_group|group]] of [[p/_people|people]], usually [[m/_meeting|meeting]] [[s/_socially|socially]].**
+	- _Example: the country set_
+- **The [[s/_scenery|scenery]] for a [[f/_film|film]] or [[p/_play|play]].**
+- **The [[i/_initial|initial]] or [[b/_basic|basic]] [[f/_formation|formation]] of [[d/_dancers|dancers]].**
+- **([[e/_exercise|exercise]]) A [[g/_group|group]] of [[r/_repetitions|repetitions]] of a [[s/_single|single]] [[e/_exercise|exercise]] [[p/_performed|performed]] [[o/_one|one]] [[a/_after|after]] the [[o/_other|other]] without [[r/_rest|rest]].**
+- **A [[c/_complete|complete]] [[s/_series|series]] of [[g/_games|games]], [[f/_forming|forming]] [[p/_part|part]] of a [[m/_match|match]].**
+- **A [[c/_complete|complete]] [[s/_series|series]] of [[p/_points|points]], [[f/_forming|forming]] [[p/_part|part]] of a [[m/_match|match]].**
+- **The [[a/_act|act]] of [[d/_directing|directing]] the [[b/_ball|ball]] to a teammate for an [[a/_attack|attack]].**
+- **A [[m/_musical|musical]] [[p/_performance|performance]] by a [[b/_band|band]], [[d/_disc|disc]] [[j/_jockey|jockey]], [[e/_etc|etc]]., [[c/_consisting|consisting]] of [[s/_several|several]] [[m/_musical|musical]] [[p/_pieces|pieces]].**
+- **A [[d/_drum|drum]] [[k/_kit|kit]], a [[d/_drum|drum]] [[s/_set|set]].**
+	- _Example: He plays the set on Saturdays._
+- **A [[c/_class|class]] [[g/_group|group]] in a subject where [[p/_pupils|pupils]] are [[d/_divided|divided]] by [[a/_ability|ability]].**
+- **Three of a [[k/_kind|kind]], [[e/_especially|especially]] [[i/_if|if]] two [[c/_cards|cards]] are in [[o/_one|one]]'[[s/_s|s]] [[h/_hand|hand]] and the third is on the [[b/_board|board]]. [[c/_compare|Compare]] trips.**
+---
+### Synonyms
+- [[d/_dusk|dusk]], [[e/_eve|eve]], [[e/_evening|evening]], [[s/_sundown|sundown]], [[s/_sunset|sunset]], [[d/_drum|drum]], [[d/_direction|direction]], [[d/_drift|drift]], [[h/_heading|heading]], [[m/_motion|motion]], [[m/_movement|movement]], [[p/_path|path]], [[t/_tendency|tendency]], [[t/_trend|trend]], [[c/_club|club]], [[c/_coterie|coterie]], [[s/_suite|suite]], [[g/_gig|gig]], [[s/_session|session]], [[s/_scenery|scenery]]
+#verb
+- **To [[d/_divide|divide]] a [[c/_class|class]] [[g/_group|group]] in a subject [[a/_according|according]] to [[a/_ability|ability]]**
+---
+#noun
+- **The [[s/_system|system]] of tunnels that is the [[h/_home|home]] of a [[b/_badger|badger]].**
+- **The [[p/_pattern|pattern]] of [[d/_distinctive|distinctive]] threads and [[y/_yarns|yarns]] that [[m/_make|make]] up the [[p/_plaid|plaid]] of a [[s/_scottish|Scottish]] tartan.**
+- **A [[s/_small|small]], square-[[c/_cut|cut]] [[p/_piece|piece]] of [[q/_quarried|quarried]] stone used for [[p/_paving|paving]] and [[e/_edging|edging]].**
+---
+### Synonyms
+- 
+---

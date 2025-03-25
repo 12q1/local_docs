@@ -1,6 +1,6 @@
 # Microeconomic
 ---
 #adjective
-- **Of, or relating to, a microeconomy or [[m/_microeconomics|microeconomics]].**
+- **Of, or [[r/_relating|relating]] to, a microeconomy or [[m/_microeconomics|microeconomics]].**
 ---
 ---

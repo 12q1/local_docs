@@ -1,9 +1,9 @@
 # Megalopolitan
 ---
 #noun
-- **An [[i/_inhabitant|inhabitant]] or a resident of a [[m/_megalopolis|megalopolis]].**
+- **An [[i/_inhabitant|inhabitant]] or a [[r/_resident|resident]] of a [[m/_megalopolis|megalopolis]].**
 ---
 #adjective
-- **Of, or relating to a [[m/_megalopolis|megalopolis]]**
+- **Of, or [[r/_relating|relating]] to a [[m/_megalopolis|megalopolis]]**
 ---
 ---

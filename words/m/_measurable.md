@@ -5,6 +5,6 @@
 ---
 #adjective
 - **[[a/_able|Able]] to be [[m/_measured|measured]].**
-- **Of significant [[i/_importance|importance]].**
+- **Of [[s/_significant|significant]] [[i/_importance|importance]].**
 ---
 ---

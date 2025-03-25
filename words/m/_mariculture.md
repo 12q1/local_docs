@@ -1,6 +1,6 @@
 # Mariculture
 ---
 #noun
-- **[[a/_aquaculture|Aquaculture]] using seawater**
+- **[[a/_aquaculture|Aquaculture]] using [[s/_seawater|seawater]]**
 ---
 ---

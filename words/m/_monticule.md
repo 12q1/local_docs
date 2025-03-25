@@ -1,6 +1,6 @@
 # Monticule
 ---
 #noun
-- **A small [[m/_mountain|mountain]], or [[h/_hillock|hillock]].**
+- **A [[s/_small|small]] [[m/_mountain|mountain]], or [[h/_hillock|hillock]].**
 ---
 ---

@@ -1,45 +1,45 @@
 # Pitches
 ---
 #noun
-- **A sticky, [[g/_gummy|gummy]] substance secreted by trees; sap.**
+- **A sticky, [[g/_gummy|gummy]] substance [[s/_secreted|secreted]] by trees; [[s/_sap|sap]].**
 	- _Example: It is hard to get this pitch off my hand._
-- **A [[d/_dark|dark]], [[e/_extremely|extremely]] viscous [[m/_material|material]] remaining in still [[a/_after|after]] [[d/_distilling|distilling]] [[c/_crude|crude]] [[o/_oil|oil]] and tar.**
+- **A [[d/_dark|dark]], [[e/_extremely|extremely]] viscous [[m/_material|material]] [[r/_remaining|remaining]] in still [[a/_after|after]] [[d/_distilling|distilling]] [[c/_crude|crude]] [[o/_oil|oil]] and tar.**
 	- _Example: It was pitch black because there was no moon._
 - **[[p/_pitchstone|Pitchstone]].**
 ---
 #verb
-- **To [[c/_cover|cover]] or smear with [[p/_pitch|pitch]].**
+- **To [[c/_cover|cover]] or [[s/_smear|smear]] with [[p/_pitch|pitch]].**
 - **To [[d/_darken|darken]]; to [[b/_blacken|blacken]]; to [[o/_obscure|obscure]].**
 ---
 #noun
-- **A throw; a toss; a [[c/_cast|cast]], as of something from the [[h/_hand|hand]].**
+- **A throw; a toss; a [[c/_cast|cast]], as of [[s/_something|something]] from the [[h/_hand|hand]].**
 	- _Example: a good pitch in quoits_
 - **The [[a/_act|act]] of [[p/_pitching|pitching]] a [[b/_baseball|baseball]].**
 	- _Example: The pitch was low and inside._
-- **The [[f/_field|field]] on which [[c/_cricket|cricket]], soccer, rugby or [[f/_field|field]] [[h/_hockey|hockey]] is [[p/_played|played]]. (In [[c/_cricket|cricket]], the [[p/_pitch|pitch]] is in the [[c/_centre|centre]] of the [[f/_field|field]]; see [[c/_cricket|cricket]] [[p/_pitch|pitch]].) Not used in [[a/_america|America]], where "[[f/_field|field]]" is the [[p/_preferred|preferred]] word.**
+- **The [[f/_field|field]] on which [[c/_cricket|cricket]], [[s/_soccer|soccer]], [[r/_rugby|rugby]] or [[f/_field|field]] [[h/_hockey|hockey]] is [[p/_played|played]]. (In [[c/_cricket|cricket]], the [[p/_pitch|pitch]] is in the [[c/_centre|centre]] of the [[f/_field|field]]; [[s/_see|see]] [[c/_cricket|cricket]] [[p/_pitch|pitch]].) Not used in [[a/_america|America]], where "[[f/_field|field]]" is the [[p/_preferred|preferred]] word.**
 	- _Example: The teams met on the pitch._
-- **An [[e/_effort|effort]] to sell or promote something.**
+- **An [[e/_effort|effort]] to [[s/_sell|sell]] or [[p/_promote|promote]] [[s/_something|something]].**
 	- _Example: He gave me a sales pitch._
-- **The [[d/_distance|distance]] [[b/_between|between]] [[e/_evenly|evenly]] spaced [[o/_objects|objects]], [[e/_e|e]].[[g/_g|g]]. the teeth of a saw or [[g/_gear|gear]], the turns of a screw thread, the [[c/_centres|centres]] of [[h/_holes|holes]], or [[l/_letters|letters]] in a [[m/_monospace|monospace]] [[f/_font|font]].**
+- **The [[d/_distance|distance]] [[b/_between|between]] [[e/_evenly|evenly]] [[s/_spaced|spaced]] [[o/_objects|objects]], [[e/_e|e]].[[g/_g|g]]. the teeth of a [[s/_saw|saw]] or [[g/_gear|gear]], the turns of a [[s/_screw|screw]] thread, the [[c/_centres|centres]] of [[h/_holes|holes]], or [[l/_letters|letters]] in a [[m/_monospace|monospace]] [[f/_font|font]].**
 	- _Example: A helical scan with a pitch of zero is equivalent to constant z-axis scanning._
-- **The [[a/_angle|angle]] at which an [[o/_object|object]] sits.**
+- **The [[a/_angle|angle]] at which an [[o/_object|object]] [[s/_sits|sits]].**
 	- _Example: the pitch of the roof or haystack_
 - **A [[l/_level|level]] or [[d/_degree|degree]], or (by [[e/_extension|extension]]), a [[p/_peak|peak]] or [[h/_highest|highest]] [[d/_degree|degree]].**
-- **The rotation [[a/_angle|angle]] [[a/_about|about]] the transverse [[a/_axis|axis]].**
+- **The [[r/_rotation|rotation]] [[a/_angle|angle]] [[a/_about|about]] the transverse [[a/_axis|axis]].**
 - **The [[p/_place|place]] where a [[b/_busker|busker]] [[p/_performs|performs]].**
-- **An [[a/_area|area]] in a [[m/_market|market]] (or similar) [[a/_allocated|allocated]] to a [[p/_particular|particular]] trader.**
-- **An [[a/_area|area]] on a [[c/_campsite|campsite]] [[i/_intended|intended]] for [[o/_occupation|occupation]] by a single tent, [[c/_caravan|caravan]] or similar.**
+- **An [[a/_area|area]] in a [[m/_market|market]] (or [[s/_similar|similar]]) [[a/_allocated|allocated]] to a [[p/_particular|particular]] trader.**
+- **An [[a/_area|area]] on a [[c/_campsite|campsite]] [[i/_intended|intended]] for [[o/_occupation|occupation]] by a [[s/_single|single]] tent, [[c/_caravan|caravan]] or [[s/_similar|similar]].**
 - **A [[p/_point|point]] or [[p/_peak|peak]]; the [[e/_extreme|extreme]] [[p/_point|point]] of [[e/_elevation|elevation]] or [[d/_depression|depression]].**
-- **Prominence; [[i/_importance|importance]].**
-- **A section of a [[c/_climb|climb]] or rock [[f/_face|face]]; specifically, the [[c/_climbing|climbing]] [[d/_distance|distance]] [[b/_between|between]] [[b/_belays|belays]] or stances.**
-- **A vertical [[c/_cave|cave]] [[p/_passage|passage]], [[o/_only|only]] [[n/_negotiable|negotiable]] by using rope or [[l/_ladders|ladders]].**
+- **[[p/_prominence|Prominence]]; [[i/_importance|importance]].**
+- **A [[s/_section|section]] of a [[c/_climb|climb]] or [[r/_rock|rock]] [[f/_face|face]]; specifically, the [[c/_climbing|climbing]] [[d/_distance|distance]] [[b/_between|between]] [[b/_belays|belays]] or stances.**
+- **A vertical [[c/_cave|cave]] [[p/_passage|passage]], [[o/_only|only]] [[n/_negotiable|negotiable]] by using [[r/_rope|rope]] or [[l/_ladders|ladders]].**
 	- _Example: The entrance pitch requires 30 metres of rope._
-- **A [[p/_person|person]]'s or [[a/_animal|animal]]'s [[h/_height|height]].**
+- **A [[p/_person|person]]'[[s/_s|s]] or [[a/_animal|animal]]'[[s/_s|s]] [[h/_height|height]].**
 - **That [[p/_point|point]] of the [[g/_ground|ground]] on which the [[b/_ball|ball]] [[p/_pitches|pitches]] or [[l/_lights|lights]] when [[b/_bowled|bowled]].**
 - **A [[d/_descent|descent]]; a [[f/_fall|fall]]; a thrusting [[d/_down|down]].**
-- **The [[p/_point|point]] where a [[d/_declivity|declivity]] [[b/_begins|begins]]; [[h/_hence|hence]], the [[d/_declivity|declivity]] [[i/_itself|itself]]; a [[d/_descending|descending]] slope; the [[d/_degree|degree]] or rate of [[d/_descent|descent]] or slope; slant.**
+- **The [[p/_point|point]] where a [[d/_declivity|declivity]] [[b/_begins|begins]]; [[h/_hence|hence]], the [[d/_declivity|declivity]] [[i/_itself|itself]]; a [[d/_descending|descending]] [[s/_slope|slope]]; the [[d/_degree|degree]] or [[r/_rate|rate]] of [[d/_descent|descent]] or [[s/_slope|slope]]; [[s/_slant|slant]].**
 	- _Example: a steep pitch in the road_
-- **The [[l/_limit|limit]] of [[g/_ground|ground]] set to a [[m/_miner|miner]] who receives a share of the [[o/_ore|ore]] taken [[o/_out|out]].**
+- **The [[l/_limit|limit]] of [[g/_ground|ground]] [[s/_set|set]] to a [[m/_miner|miner]] who [[r/_receives|receives]] a [[s/_share|share]] of the [[o/_ore|ore]] taken [[o/_out|out]].**
 ---
 #verb
 - **To throw.**
@@ -49,35 +49,35 @@
 	- _Example: Bob pitches today._
 - **To throw [[a/_away|away]]; [[d/_discard|discard]].**
 	- _Example: He pitched the candy wrapper._
-- **To promote, [[a/_advertise|advertise]], or [[a/_attempt|attempt]] to sell.**
+- **To [[p/_promote|promote]], [[a/_advertise|advertise]], or [[a/_attempt|attempt]] to [[s/_sell|sell]].**
 	- _Example: He pitched the idea for months with no takers._
 - **To [[d/_deliver|deliver]] in a [[c/_certain|certain]] tone or style, or with a [[c/_certain|certain]] [[a/_audience|audience]] in [[m/_mind|mind]].**
 	- _Example: At which level should I pitch my presentation?_
 - **To [[a/_assemble|assemble]] or [[e/_erect|erect]] (a tent).**
 	- _Example: Pitch the tent over there._
 - **To [[f/_fix|fix]] or [[p/_place|place]] a tent or temporary [[h/_habitation|habitation]]; to [[e/_encamp|encamp]].**
-- **To [[m/_move|move]] so that the [[f/_front|front]] of an [[a/_aircraft|aircraft]] or [[b/_boat|boat]] [[g/_goes|goes]] [[a/_alternatively|alternatively]] up and [[d/_down|down]].**
-- **To [[p/_play|play]] a short, [[h/_high|high]], [[l/_lofty|lofty]] shot that [[l/_lands|lands]] with [[b/_backspin|backspin]].**
+- **To [[m/_move|move]] [[s/_so|so]] that the [[f/_front|front]] of an [[a/_aircraft|aircraft]] or [[b/_boat|boat]] [[g/_goes|goes]] [[a/_alternatively|alternatively]] up and [[d/_down|down]].**
+- **To [[p/_play|play]] a [[s/_short|short]], [[h/_high|high]], [[l/_lofty|lofty]] [[s/_shot|shot]] that [[l/_lands|lands]] with [[b/_backspin|backspin]].**
 	- _Example: The only way to get on the green from here is to pitch the ball over the bunker._
 - **To [[b/_bounce|bounce]] on the [[p/_playing|playing]] surface.**
 	- _Example: The ball pitched well short of the batsman._
-- **(of snow) To settle and [[b/_build|build]] up, without [[m/_melting|melting]].**
-- **To [[a/_alight|alight]]; to settle; to [[c/_come|come]] to rest from [[f/_flight|flight]].**
-- **(with on or upon) To [[f/_fix|fix]] [[o/_one|one]]'s [[c/_choice|choice]].**
-- **To [[p/_plunge|plunge]] or [[f/_fall|fall]]; [[e/_especially|especially]], to [[f/_fall|fall]] [[f/_forward|forward]]; to [[d/_decline|decline]] or slope.**
+- **(of [[s/_snow|snow]]) To [[s/_settle|settle]] and [[b/_build|build]] up, without [[m/_melting|melting]].**
+- **To [[a/_alight|alight]]; to [[s/_settle|settle]]; to [[c/_come|come]] to [[r/_rest|rest]] from [[f/_flight|flight]].**
+- **(with on or upon) To [[f/_fix|fix]] [[o/_one|one]]'[[s/_s|s]] [[c/_choice|choice]].**
+- **To [[p/_plunge|plunge]] or [[f/_fall|fall]]; [[e/_especially|especially]], to [[f/_fall|fall]] [[f/_forward|forward]]; to [[d/_decline|decline]] or [[s/_slope|slope]].**
 	- _Example: The field pitches toward the east._
-- **(of an [[e/_embankment|embankment]], roadway) To set, [[f/_face|face]], or [[p/_pave|pave]] with rubble or undressed stones.**
-- **(of a price, value) To set or [[f/_fix|fix]].**
-- **(of a [[c/_card|card]]) To [[d/_discard|discard]] for some [[g/_gain|gain]].**
+- **(of an [[e/_embankment|embankment]], [[r/_roadway|roadway]]) To [[s/_set|set]], [[f/_face|face]], or [[p/_pave|pave]] with [[r/_rubble|rubble]] or undressed stones.**
+- **(of a [[p/_price|price]], value) To [[s/_set|set]] or [[f/_fix|fix]].**
+- **(of a [[c/_card|card]]) To [[d/_discard|discard]] for [[s/_some|some]] [[g/_gain|gain]].**
 ---
 #noun
-- **The [[p/_perceived|perceived]] [[f/_frequency|frequency]] of a sound or [[n/_note|note]].**
+- **The [[p/_perceived|perceived]] [[f/_frequency|frequency]] of a [[s/_sound|sound]] or [[n/_note|note]].**
 	- _Example: The pitch of middle "C" is familiar to many musicians._
-- **In an a [[c/_cappella|cappella]] [[g/_group|group]], the singer responsible for singing a [[n/_note|note]] for the [[o/_other|other]] [[m/_members|members]] to tune themselves by.**
+- **In an a [[c/_cappella|cappella]] [[g/_group|group]], the [[s/_singer|singer]] [[r/_responsible|responsible]] for [[s/_singing|singing]] a [[n/_note|note]] for the [[o/_other|other]] [[m/_members|members]] to tune themselves by.**
 	- _Example: Bob, our pitch, let out a clear middle "C" and our conductor gave the signal to start._
 ---
 #verb
-- **To produce a [[n/_note|note]] of a [[g/_given|given]] [[p/_pitch|pitch]].**
-- **To [[f/_fix|fix]] or set the tone of.**
+- **To [[p/_produce|produce]] a [[n/_note|note]] of a [[g/_given|given]] [[p/_pitch|pitch]].**
+- **To [[f/_fix|fix]] or [[s/_set|set]] the tone of.**
 ---
 ---

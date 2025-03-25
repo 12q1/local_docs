@@ -1,6 +1,6 @@
 # Pipsqueaks
 ---
 #noun
-- **A small and [[i/_insignificant|insignificant]] [[p/_person|person]].**
+- **A [[s/_small|small]] and [[i/_insignificant|insignificant]] [[p/_person|person]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Osteria
 ---
 #noun
-- **A small [[l/_local|local]] restaurant in [[i/_italy|Italy]].**
+- **A [[s/_small|small]] [[l/_local|local]] [[r/_restaurant|restaurant]] in [[i/_italy|Italy]].**
 ---
 ---

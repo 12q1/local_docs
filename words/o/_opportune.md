@@ -1,7 +1,7 @@
 # Opportune
 ---
 #adjective
-- **Suitable for some [[p/_particular|particular]] purpose.**
+- **Suitable for [[s/_some|some]] [[p/_particular|particular]] [[p/_purpose|purpose]].**
 	- _Example: This would be an opportune spot for a picnic._
 - **At a [[c/_convenient|convenient]] or [[a/_advantageous|advantageous]] time.**
 	- _Example: The opportune arrival of the bus cut short the boring conversation._

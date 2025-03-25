@@ -1,7 +1,7 @@
 # Motorcyclists
 ---
 #noun
-- **Someone who rides a [[m/_motorcycle|motorcycle]]**
+- **[[s/_someone|Someone]] who [[r/_rides|rides]] a [[m/_motorcycle|motorcycle]]**
 ---
 ### Synonyms
 - [[b/_biker|biker]]

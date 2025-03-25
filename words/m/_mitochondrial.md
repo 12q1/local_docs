@@ -1,6 +1,6 @@
 # Mitochondrial
 ---
 #adjective
-- **Of, or relating to [[m/_mitochondria|mitochondria]].**
+- **Of, or [[r/_relating|relating]] to [[m/_mitochondria|mitochondria]].**
 ---
 ---

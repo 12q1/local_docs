@@ -1,6 +1,6 @@
 # Milo
 ---
 #noun
-- **Sorghum**
+- **[[s/_sorghum|Sorghum]]**
 ---
 ---

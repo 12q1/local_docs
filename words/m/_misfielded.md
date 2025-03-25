@@ -1,6 +1,6 @@
 # Misfielded
 ---
 #verb
-- **To [[f/_field|field]] the [[b/_ball|ball]] [[c/_clumsily|clumsily]] or [[i/_ineptly|ineptly]]; in [[c/_cricket|cricket]] this [[c/_can|can]] result in the [[b/_batsman|batsman]] scoring [[a/_another|another]] run.**
+- **To [[f/_field|field]] the [[b/_ball|ball]] [[c/_clumsily|clumsily]] or [[i/_ineptly|ineptly]]; in [[c/_cricket|cricket]] this [[c/_can|can]] [[r/_result|result]] in the [[b/_batsman|batsman]] [[s/_scoring|scoring]] [[a/_another|another]] [[r/_run|run]].**
 ---
 ---

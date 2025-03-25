@@ -1,11 +1,11 @@
 # Pathetic
 ---
 #adjective
-- **[[a/_arousing|Arousing]] [[p/_pity|pity]], sympathy, or [[c/_compassion|compassion]].**
+- **[[a/_arousing|Arousing]] [[p/_pity|pity]], [[s/_sympathy|sympathy]], or [[c/_compassion|compassion]].**
 	- _Example: The child’s pathetic pleas for forgiveness stirred the young man’s heart._
-- **[[a/_arousing|Arousing]] scornful [[p/_pity|pity]] or [[c/_contempt|contempt]], [[o/_often|often]] [[d/_due|due]] to [[m/_miserable|miserable]] [[i/_inadequacy|inadequacy]].**
+- **[[a/_arousing|Arousing]] [[s/_scornful|scornful]] [[p/_pity|pity]] or [[c/_contempt|contempt]], [[o/_often|often]] [[d/_due|due]] to [[m/_miserable|miserable]] [[i/_inadequacy|inadequacy]].**
 	- _Example: You can't even run two miles? That’s pathetic._
-- **[[e/_expressing|Expressing]] or showing [[a/_anger|anger]]; [[p/_passionate|passionate]].**
+- **[[e/_expressing|Expressing]] or [[s/_showing|showing]] [[a/_anger|anger]]; [[p/_passionate|passionate]].**
 - **Trochlear.**
 ---
 ### Synonyms

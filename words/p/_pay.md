@@ -1,19 +1,19 @@
 # Pay
 ---
 #noun
-- **[[m/_money|Money]] [[g/_given|given]] in return for work; salary or wages.**
+- **[[m/_money|Money]] [[g/_given|given]] in [[r/_return|return]] for work; [[s/_salary|salary]] or wages.**
 	- _Example: Many employers have rules designed to keep employees from comparing their pays._
 ---
 #verb
-- **To [[g/_give|give]] [[m/_money|money]] or [[o/_other|other]] [[c/_compensation|compensation]] to in [[e/_exchange|exchange]] for [[g/_goods|goods]] or services.**
+- **To [[g/_give|give]] [[m/_money|money]] or [[o/_other|other]] [[c/_compensation|compensation]] to in [[e/_exchange|exchange]] for [[g/_goods|goods]] or [[s/_services|services]].**
 	- _Example: he paid her off the books and in kind where possible_
-- **To [[d/_discharge|discharge]], as a [[d/_debt|debt]] or [[o/_other|other]] [[o/_obligation|obligation]], by [[g/_giving|giving]] or [[d/_doing|doing]] what is [[d/_due|due]] or required.**
+- **To [[d/_discharge|discharge]], as a [[d/_debt|debt]] or [[o/_other|other]] [[o/_obligation|obligation]], by [[g/_giving|giving]] or [[d/_doing|doing]] what is [[d/_due|due]] or [[r/_required|required]].**
 	- _Example: he has paid his debt to society_
-- **To be profitable for.**
+- **To be [[p/_profitable|profitable]] for.**
 	- _Example: It didn't pay him to keep the store open any more._
-- **To [[g/_give|give]] (something [[e/_else|else]] than [[m/_money|money]]).**
+- **To [[g/_give|give]] ([[s/_something|something]] [[e/_else|else]] than [[m/_money|money]]).**
 	- _Example: to pay attention_
-- **To be profitable or worth the [[e/_effort|effort]].**
+- **To be [[p/_profitable|profitable]] or worth the [[e/_effort|effort]].**
 	- _Example: crime doesn’t pay_
 - **To [[d/_discharge|discharge]] an [[o/_obligation|obligation]] or [[d/_debt|debt]].**
 	- _Example: He was allowed to go as soon as he paid._
@@ -25,6 +25,6 @@
 #adjective
 - **[[o/_operable|Operable]] or [[a/_accessible|accessible]] on [[d/_deposit|deposit]] of [[c/_coins|coins]].**
 	- _Example: pay toilet_
-- **[[p/_pertaining|Pertaining]] to or requiring [[p/_payment|payment]].**
+- **[[p/_pertaining|Pertaining]] to or [[r/_requiring|requiring]] [[p/_payment|payment]].**
 ---
 ---

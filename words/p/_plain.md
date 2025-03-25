@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[f/_flat|Flat]], [[l/_level|level]].**
-- **Simple.**
+- **[[s/_simple|Simple]].**
 - **[[o/_obvious|Obvious]].**
 - **[[o/_open|Open]].**
 - **Not unusually [[b/_beautiful|beautiful]]; unattractive.**
@@ -14,7 +14,7 @@
 ### Antonyms
 - [[d/_decorative|decorative]], [[e/_exotic|exotic]], [[f/_fancy|fancy]], [[o/_ornate|ornate]]
 #adverb
-- **Simply.**
+- **[[s/_simply|Simply]].**
 	- _Example: I plain forgot._
 - **[[p/_plainly|Plainly]]; [[d/_distinctly|distinctly]].**
 	- _Example: Tell me plain: do you love me or no?_

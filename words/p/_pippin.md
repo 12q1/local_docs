@@ -1,6 +1,6 @@
 # Pippin
 ---
 #noun
-- **A seed**
+- **A [[s/_seed|seed]]**
 ---
 ---

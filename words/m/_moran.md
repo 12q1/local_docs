@@ -1,6 +1,6 @@
 # Moran
 ---
 #noun
-- **An unmarried Maasai or Samburu warrior.**
+- **An unmarried Maasai or [[s/_samburu|Samburu]] warrior.**
 ---
 ---

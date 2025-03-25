@@ -1,7 +1,7 @@
 # Patellae
 ---
 #noun
-- **The sesamoid [[b/_bone|bone]] of the [[k/_knee|knee]]; the [[k/_kneecap|kneecap]].**
+- **The [[s/_sesamoid|sesamoid]] [[b/_bone|bone]] of the [[k/_knee|knee]]; the [[k/_kneecap|kneecap]].**
 - **A [[l/_little|little]] [[d/_dish|dish]] or vase.**
 ---
 ### Synonyms

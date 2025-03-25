@@ -1,6 +1,6 @@
 # Paternalism
 ---
 #noun
-- **The treatment of [[p/_people|people]] in a [[f/_fatherly|fatherly]] [[m/_manner|manner]], [[e/_especially|especially]] by [[c/_caring|caring]] for them and sometimes [[b/_being|being]] stern with them.**
+- **The treatment of [[p/_people|people]] in a [[f/_fatherly|fatherly]] [[m/_manner|manner]], [[e/_especially|especially]] by [[c/_caring|caring]] for them and [[s/_sometimes|sometimes]] [[b/_being|being]] stern with them.**
 ---
 ---

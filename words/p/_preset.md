@@ -1,12 +1,12 @@
 # Preset
 ---
 #noun
-- **Something that is set in [[a/_advance|advance]].**
+- **[[s/_something|Something]] that is [[s/_set|set]] in [[a/_advance|advance]].**
 ---
 #verb
-- **To set something in [[a/_advance|advance]].**
+- **To [[s/_set|set]] [[s/_something|something]] in [[a/_advance|advance]].**
 ---
 #adjective
-- **Set in [[a/_advance|advance]], or as a [[d/_default|default]].**
+- **[[s/_set|Set]] in [[a/_advance|advance]], or as a [[d/_default|default]].**
 ---
 ---

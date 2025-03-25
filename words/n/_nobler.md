@@ -1,11 +1,11 @@
 # Nobler
 ---
 #adjective
-- **[[h/_having|Having]] [[h/_honorable|honorable]] qualities; [[h/_having|having]] [[m/_moral|moral]] [[e/_eminence|eminence]] and [[f/_freedom|freedom]] from [[a/_anything|anything]] [[p/_petty|petty]], [[m/_mean|mean]] or [[d/_dubious|dubious]] in [[c/_conduct|conduct]] and [[c/_character|character]].**
+- **[[h/_having|Having]] [[h/_honorable|honorable]] [[q/_qualities|qualities]]; [[h/_having|having]] [[m/_moral|moral]] [[e/_eminence|eminence]] and [[f/_freedom|freedom]] from [[a/_anything|anything]] [[p/_petty|petty]], [[m/_mean|mean]] or [[d/_dubious|dubious]] in [[c/_conduct|conduct]] and [[c/_character|character]].**
 	- _Example: He is a noble man who would never put his family in jeopardy._
 - **[[g/_grand|Grand]]; stately; [[m/_magnificent|magnificent]]; splendid.**
 	- _Example: a noble edifice_
-- **Of [[e/_exalted|exalted]] rank; of or relating to the [[n/_nobility|nobility]]; [[d/_distinguished|distinguished]] from the [[m/_masses|masses]] by [[b/_birth|birth]], station, or title; [[h/_highborn|highborn]].**
+- **Of [[e/_exalted|exalted]] [[r/_rank|rank]]; of or [[r/_relating|relating]] to the [[n/_nobility|nobility]]; [[d/_distinguished|distinguished]] from the [[m/_masses|masses]] by [[b/_birth|birth]], station, or title; [[h/_highborn|highborn]].**
 	- _Example: noble blood; a noble personage_
 - **(of a [[p/_polyhedron|polyhedron]]) [[b/_both|Both]] isohedral and [[i/_isogonal|isogonal]].**
 ---

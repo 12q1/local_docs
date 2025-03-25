@@ -11,9 +11,9 @@
 ### Synonyms
 - [[b/_benumb|benumb]], [[d/_dull|dull]], [[d/_dull|dull]]
 #adjective
-- **[[p/_physically|Physically]] unable to [[f/_feel|feel]], not [[h/_having|having]] the [[p/_power|power]] of sensation.**
+- **[[p/_physically|Physically]] unable to [[f/_feel|feel]], not [[h/_having|having]] the [[p/_power|power]] of [[s/_sensation|sensation]].**
 	- _Example: fingers numb with cold_
-- **[[e/_emotionally|Emotionally]] unable to [[f/_feel|feel]] or respond in a [[n/_normal|normal]] way.**
+- **[[e/_emotionally|Emotionally]] unable to [[f/_feel|feel]] or [[r/_respond|respond]] in a [[n/_normal|normal]] way.**
 	- _Example: numb with shock; numb with boredom_
 - **[[c/_causing|Causing]] [[n/_numbness|numbness]].**
 ---

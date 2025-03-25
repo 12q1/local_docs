@@ -7,11 +7,11 @@
 	- _Example: He took the offensive in the press, accusing his opponent of corruption._
 ---
 #adjective
-- **[[c/_causing|Causing]] [[o/_offense|offense]]; [[a/_arousing|arousing]] a visceral reaction of [[d/_disgust|disgust]], [[a/_anger|anger]], or [[h/_hatred|hatred]].**
+- **[[c/_causing|Causing]] [[o/_offense|offense]]; [[a/_arousing|arousing]] a visceral [[r/_reaction|reaction]] of [[d/_disgust|disgust]], [[a/_anger|anger]], or [[h/_hatred|hatred]].**
 	- _Example: An offensive smell._
-- **Relating to an [[o/_offense|offense]] or [[a/_attack|attack]], as [[o/_opposed|opposed]] to [[d/_defensive|defensive]].**
+- **[[r/_relating|Relating]] to an [[o/_offense|offense]] or [[a/_attack|attack]], as [[o/_opposed|opposed]] to [[d/_defensive|defensive]].**
 	- _Example: The army's offensive capabilities. An offensive weapon._
-- **[[h/_having|Having]] to [[d/_do|do]] with [[p/_play|play]] [[d/_directed|directed]] at scoring.**
+- **[[h/_having|Having]] to [[d/_do|do]] with [[p/_play|play]] [[d/_directed|directed]] at [[s/_scoring|scoring]].**
 	- _Example: The offensive coordinator is responsible for ordering all rushing plays._
 ---
 ### Synonyms

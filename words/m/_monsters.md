@@ -9,11 +9,11 @@
 - **A [[h/_horribly|horribly]] [[d/_deformed|deformed]] [[p/_person|person]].**
 - **A [[b/_badly|badly]] [[b/_behaved|behaved]] [[c/_child|child]], a [[b/_brat|brat]].**
 	- _Example: Sit still, you little monster!_
-- **Something unusually [[l/_large|large]].**
+- **[[s/_something|Something]] unusually [[l/_large|large]].**
 	- _Example: Have you seen those powerlifters on TV? They're monsters._
-- **A prodigy; someone very talented in a specific [[d/_domain|domain]].**
+- **A [[p/_prodigy|prodigy]]; [[s/_someone|someone]] very talented in a specific [[d/_domain|domain]].**
 	- _Example: That dude playing guitar is a monster._
-- **A [[n/_non|non]]-[[p/_player|player]] [[c/_character|character]] that [[p/_player|player]](s) [[f/_fight|fight]] [[a/_against|against]] in role-[[p/_playing|playing]] [[g/_games|games]].**
+- **A [[n/_non|non]]-[[p/_player|player]] [[c/_character|character]] that [[p/_player|player]]([[s/_s|s]]) [[f/_fight|fight]] [[a/_against|against]] in [[r/_role|role]]-[[p/_playing|playing]] [[g/_games|games]].**
 ---
 #verb
 - **To [[m/_make|make]] [[i/_into|into]] a [[m/_monster|monster]]; to [[c/_categorise|categorise]] as a [[m/_monster|monster]]; to [[d/_demonise|demonise]].**

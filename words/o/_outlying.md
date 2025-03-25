@@ -1,12 +1,12 @@
 # Outlying
 ---
 #noun
-- **A region relatively remote from a [[c/_central|central]] [[l/_location|location]].**
+- **A [[r/_region|region]] [[r/_relatively|relatively]] [[r/_remote|remote]] from a [[c/_central|central]] [[l/_location|location]].**
 ---
 #adjective
-- **Relatively remote from some [[c/_central|central]] [[l/_location|location]].**
+- **[[r/_relatively|Relatively]] [[r/_remote|remote]] from [[s/_some|some]] [[c/_central|central]] [[l/_location|location]].**
 	- _Example: The more outlying villages were never visited by their member of parliament._
-- **[[l/_located|Located]] [[o/_outside|outside]] of some [[b/_boundary|boundary]] or [[l/_limit|limit]].**
+- **[[l/_located|Located]] [[o/_outside|outside]] of [[s/_some|some]] [[b/_boundary|boundary]] or [[l/_limit|limit]].**
 	- _Example: When the map was redrawn after the war, our cousin found herself living in outlying territory._
 ---
 ### Synonyms

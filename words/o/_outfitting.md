@@ -1,7 +1,7 @@
 # Outfitting
 ---
 #verb
-- **To provide with, usually for a specific purpose.**
+- **To [[p/_provide|provide]] with, usually for a specific [[p/_purpose|purpose]].**
 	- _Example: The expedition was outfitted with proper clothing, food, and other necessities._
 ---
 ### Synonyms

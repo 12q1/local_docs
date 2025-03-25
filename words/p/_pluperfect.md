@@ -13,8 +13,8 @@
 - [[p/_plusquamperfect|plusquamperfect]], [[p/_preterpluperfect|preterpluperfect]]
 #adjective
 - **[[m/_more|More]] than [[p/_perfect|perfect]].**
-- **([[g/_grammar|grammar]]) [[p/_pertaining|Pertaining]] to [[a/_action|action]] [[c/_completed|completed]] [[b/_before|before]] or at the same time as [[a/_another|another]].**
-- **Relating to a [[c/_certain|certain]] type of [[g/_graph|graph]], [[c/_complying|complying]] with the theorem ([[p/_pluperfect|pluperfect]] [[g/_graph|graph]] theorem) [[d/_discovered|discovered]] by [[d/_d|D]]. R. Fulkerson in 1970.**
+- **([[g/_grammar|grammar]]) [[p/_pertaining|Pertaining]] to [[a/_action|action]] [[c/_completed|completed]] [[b/_before|before]] or at the [[s/_same|same]] time as [[a/_another|another]].**
+- **[[r/_relating|Relating]] to a [[c/_certain|certain]] type of [[g/_graph|graph]], [[c/_complying|complying]] with the theorem ([[p/_pluperfect|pluperfect]] [[g/_graph|graph]] theorem) [[d/_discovered|discovered]] by [[d/_d|D]]. [[r/_r|R]]. Fulkerson in 1970.**
 - **Used as an [[i/_intensifier|intensifier]] in various [[i/_interjections|interjections]].**
 	- _Example: What in the pluperfect hell is going on here?!_
 ---

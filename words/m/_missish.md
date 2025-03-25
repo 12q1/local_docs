@@ -1,6 +1,6 @@
 # Missish
 ---
 #adjective
-- **Prim and prudish**
+- **[[p/_prim|Prim]] and [[p/_prudish|prudish]]**
 ---
 ---

@@ -6,7 +6,7 @@
 - **[[i/_items|Items]] [[m/_made|made]] of [[p/_pewter|pewter]]; pewterware.**
 - **A [[b/_beer|beer]] tankard [[m/_made|made]] from [[p/_pewter|pewter]].**
 - **A [[d/_dark|dark]], [[d/_dull|dull]] [[g/_grey|grey]] [[c/_colour|colour]], [[l/_like|like]] that of the [[m/_metal|metal]].**
-- **Prize [[m/_money|money]].**
+- **[[p/_prize|Prize]] [[m/_money|money]].**
 ---
 #verb
 - **To [[c/_coat|coat]] with [[p/_pewter|pewter]].**

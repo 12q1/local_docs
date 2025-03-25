@@ -1,0 +1,6 @@
+# Recapitalized
+---
+#verb
+- **To [[c/_change|change]] [[h/_how|how]] a [[c/_corporation|corporation]] is structured.**
+---
+---

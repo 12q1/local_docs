@@ -1,6 +1,6 @@
 # Phytogenetic
 ---
 #adjective
-- **Relating to [[p/_phytogenesis|phytogenesis]].**
+- **[[r/_relating|Relating]] to [[p/_phytogenesis|phytogenesis]].**
 ---
 ---

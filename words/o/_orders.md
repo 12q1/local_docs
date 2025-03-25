@@ -1,50 +1,50 @@
 # Orders
 ---
 #noun
-- **[[a/_arrangement|Arrangement]], [[d/_disposition|disposition]], or sequence.**
-- **A [[p/_position|position]] in an [[a/_arrangement|arrangement]], [[d/_disposition|disposition]], or sequence.**
+- **[[a/_arrangement|Arrangement]], [[d/_disposition|disposition]], or [[s/_sequence|sequence]].**
+- **A [[p/_position|position]] in an [[a/_arrangement|arrangement]], [[d/_disposition|disposition]], or [[s/_sequence|sequence]].**
 - **The state of [[b/_being|being]] well [[a/_arranged|arranged]].**
 	- _Example: The house is in order; the machinery is out of order._
-- **[[c/_conformity|Conformity]] with [[l/_law|law]] or [[d/_decorum|decorum]]; [[f/_freedom|freedom]] from [[d/_disturbance|disturbance]]; [[g/_general|general]] tranquillity; public quiet.**
+- **[[c/_conformity|Conformity]] with [[l/_law|law]] or [[d/_decorum|decorum]]; [[f/_freedom|freedom]] from [[d/_disturbance|disturbance]]; [[g/_general|general]] tranquillity; [[p/_public|public]] [[q/_quiet|quiet]].**
 	- _Example: to preserve order in a community or an assembly_
 - **A [[c/_command|command]].**
-- **A request for some product or service; a [[c/_commission|commission]] to purchase, sell, or supply [[g/_goods|goods]].**
-- **A [[g/_group|group]] of religious [[a/_adherents|adherents]], [[e/_especially|especially]] [[m/_monks|monks]] or [[n/_nuns|nuns]], set [[a/_apart|apart]] within their religion by [[a/_adherence|adherence]] to a [[p/_particular|particular]] rule or set of principles.**
+- **A [[r/_request|request]] for [[s/_some|some]] [[p/_product|product]] or [[s/_service|service]]; a [[c/_commission|commission]] to [[p/_purchase|purchase]], [[s/_sell|sell]], or supply [[g/_goods|goods]].**
+- **A [[g/_group|group]] of [[r/_religious|religious]] [[a/_adherents|adherents]], [[e/_especially|especially]] [[m/_monks|monks]] or [[n/_nuns|nuns]], [[s/_set|set]] [[a/_apart|apart]] within their [[r/_religion|religion]] by [[a/_adherence|adherence]] to a [[p/_particular|particular]] [[r/_rule|rule]] or [[s/_set|set]] of [[p/_principles|principles]].**
 	- _Example: St. Ignatius Loyola founded the Jesuit order in 1537._
 - **An [[a/_association|association]] of [[k/_knights|knights]].**
 	- _Example: the Order of the Garter, the Order of the Bath._
 - **[[a/_any|Any]] [[g/_group|group]] of [[p/_people|people]] with [[c/_common|common]] [[i/_interests|interests]].**
-- **A [[d/_decoration|decoration]], [[a/_awarded|awarded]] by a [[g/_government|government]], a [[d/_dynastic|dynastic]] [[h/_house|house]], or a religious [[b/_body|body]] to an [[i/_individual|individual]], usually for [[d/_distinguished|distinguished]] service to a [[n/_nation|nation]] or to [[h/_humanity|humanity]].**
-- **A rank in the [[c/_classification|classification]] of [[o/_organisms|organisms]], [[b/_below|below]] [[c/_class|class]] and [[a/_above|above]] [[f/_family|family]]; a taxon at that rank.**
+- **A [[d/_decoration|decoration]], [[a/_awarded|awarded]] by a [[g/_government|government]], a [[d/_dynastic|dynastic]] [[h/_house|house]], or a [[r/_religious|religious]] [[b/_body|body]] to an [[i/_individual|individual]], usually for [[d/_distinguished|distinguished]] [[s/_service|service]] to a [[n/_nation|nation]] or to [[h/_humanity|humanity]].**
+- **A [[r/_rank|rank]] in the [[c/_classification|classification]] of [[o/_organisms|organisms]], [[b/_below|below]] [[c/_class|class]] and [[a/_above|above]] [[f/_family|family]]; a taxon at that [[r/_rank|rank]].**
 	- _Example: Magnolias belong to the order Magnoliales._
-- **A [[n/_number|number]] of things or [[p/_persons|persons]] [[a/_arranged|arranged]] in a [[f/_fixed|fixed]] or suitable [[p/_place|place]], or relative [[p/_position|position]]; a rank; a row; a [[g/_grade|grade]]; [[e/_especially|especially]], a rank or [[c/_class|class]] in society; a [[d/_distinct|distinct]] [[c/_character|character]], [[k/_kind|kind]], or sort.**
+- **A [[n/_number|number]] of things or [[p/_persons|persons]] [[a/_arranged|arranged]] in a [[f/_fixed|fixed]] or suitable [[p/_place|place]], or [[r/_relative|relative]] [[p/_position|position]]; a [[r/_rank|rank]]; a [[r/_row|row]]; a [[g/_grade|grade]]; [[e/_especially|especially]], a [[r/_rank|rank]] or [[c/_class|class]] in [[s/_society|society]]; a [[d/_distinct|distinct]] [[c/_character|character]], [[k/_kind|kind]], or [[s/_sort|sort]].**
 	- _Example: talent of a high order_
-- **([[c/_chiefly|chiefly]] [[p/_plural|plural]]) An [[e/_ecclesiastical|ecclesiastical]] [[g/_grade|grade]] or rank, as of [[d/_deacon|deacon]], priest, or [[b/_bishop|bishop]]; the [[o/_office|office]] of the [[c/_christian|Christian]] [[m/_ministry|ministry]].**
+- **([[c/_chiefly|chiefly]] [[p/_plural|plural]]) An [[e/_ecclesiastical|ecclesiastical]] [[g/_grade|grade]] or [[r/_rank|rank]], as of [[d/_deacon|deacon]], [[p/_priest|priest]], or [[b/_bishop|bishop]]; the [[o/_office|office]] of the [[c/_christian|Christian]] [[m/_ministry|ministry]].**
 	- _Example: to take orders, or to take holy orders, that is, to enter some grade of the ministry_
-- **The [[d/_disposition|disposition]] of a [[c/_column|column]] and [[i/_its|its]] [[c/_component|component]] [[p/_parts|parts]], and of the [[e/_entablature|entablature]] resting upon it, in [[c/_classical|classical]] [[a/_architecture|architecture]]; [[h/_hence|hence]] (since the [[c/_column|column]] and [[e/_entablature|entablature]] are the [[c/_characteristic|characteristic]] [[f/_features|features]] of [[c/_classical|classical]] [[a/_architecture|architecture]]) a style or [[m/_manner|manner]] of [[a/_architectural|architectural]] [[d/_design|design]].**
-- **The sequence in which a side’s [[b/_batsmen|batsmen]] [[b/_bat|bat]]; the [[b/_batting|batting]] [[o/_order|order]].**
-- **A [[p/_power|power]] of [[p/_polynomial|polynomial]] [[f/_function|function]] in an [[e/_electronic|electronic]] [[c/_circuit|circuit]]’s [[b/_block|block]], such as a [[f/_filter|filter]], an [[a/_amplifier|amplifier]], [[e/_etc|etc]].**
+- **The [[d/_disposition|disposition]] of a [[c/_column|column]] and [[i/_its|its]] [[c/_component|component]] [[p/_parts|parts]], and of the [[e/_entablature|entablature]] [[r/_resting|resting]] upon it, in [[c/_classical|classical]] [[a/_architecture|architecture]]; [[h/_hence|hence]] ([[s/_since|since]] the [[c/_column|column]] and [[e/_entablature|entablature]] are the [[c/_characteristic|characteristic]] [[f/_features|features]] of [[c/_classical|classical]] [[a/_architecture|architecture]]) a style or [[m/_manner|manner]] of [[a/_architectural|architectural]] [[d/_design|design]].**
+- **The [[s/_sequence|sequence]] in which a [[s/_side|side]]’[[s/_s|s]] [[b/_batsmen|batsmen]] [[b/_bat|bat]]; the [[b/_batting|batting]] [[o/_order|order]].**
+- **A [[p/_power|power]] of [[p/_polynomial|polynomial]] [[f/_function|function]] in an [[e/_electronic|electronic]] [[c/_circuit|circuit]]’[[s/_s|s]] [[b/_block|block]], such as a [[f/_filter|filter]], an [[a/_amplifier|amplifier]], [[e/_etc|etc]].**
 	- _Example: a 3-stage cascade of a 2nd-order bandpass Butterworth filter_
-- **The [[o/_overall|overall]] [[p/_power|power]] of the rate [[l/_law|law]] of a [[c/_chemical|chemical]] reaction, [[e/_expressed|expressed]] as a [[p/_polynomial|polynomial]] [[f/_function|function]] of [[c/_concentrations|concentrations]] of reactants and products.**
-- **The [[c/_cardinality|cardinality]], or [[n/_number|number]] of [[e/_elements|elements]] in a set, [[g/_group|group]], or [[o/_other|other]] structure regardable as a set.**
-- **(of an [[e/_element|element]] of a [[g/_group|group]]) For [[g/_given|given]] [[g/_group|group]] [[g/_g|G]] and [[e/_element|element]] [[g/_g|g]] ∈ [[g/_g|G]], the smallest [[p/_positive|positive]] [[n/_natural|natural]] [[n/_number|number]] [[n/_n|n]], [[i/_if|if]] it [[e/_exists|exists]], such that (using [[m/_multiplicative|multiplicative]] [[n/_notation|notation]]), [[g/_gn|gn]] = [[e/_e|e]], where [[e/_e|e]] is the [[i/_identity|identity]] [[e/_element|element]] of [[g/_g|G]]; [[i/_if|if]] [[n/_no|no]] such [[n/_number|number]] [[e/_exists|exists]], the [[e/_element|element]] is said to be of [[i/_infinite|infinite]] [[o/_order|order]] (or sometimes zero [[o/_order|order]]).**
+- **The [[o/_overall|overall]] [[p/_power|power]] of the [[r/_rate|rate]] [[l/_law|law]] of a [[c/_chemical|chemical]] [[r/_reaction|reaction]], [[e/_expressed|expressed]] as a [[p/_polynomial|polynomial]] [[f/_function|function]] of [[c/_concentrations|concentrations]] of [[r/_reactants|reactants]] and [[p/_products|products]].**
+- **The [[c/_cardinality|cardinality]], or [[n/_number|number]] of [[e/_elements|elements]] in a [[s/_set|set]], [[g/_group|group]], or [[o/_other|other]] structure [[r/_regardable|regardable]] as a [[s/_set|set]].**
+- **(of an [[e/_element|element]] of a [[g/_group|group]]) For [[g/_given|given]] [[g/_group|group]] [[g/_g|G]] and [[e/_element|element]] [[g/_g|g]] ∈ [[g/_g|G]], the [[s/_smallest|smallest]] [[p/_positive|positive]] [[n/_natural|natural]] [[n/_number|number]] [[n/_n|n]], [[i/_if|if]] it [[e/_exists|exists]], such that (using [[m/_multiplicative|multiplicative]] [[n/_notation|notation]]), [[g/_gn|gn]] = [[e/_e|e]], where [[e/_e|e]] is the [[i/_identity|identity]] [[e/_element|element]] of [[g/_g|G]]; [[i/_if|if]] [[n/_no|no]] such [[n/_number|number]] [[e/_exists|exists]], the [[e/_element|element]] is [[s/_said|said]] to be of [[i/_infinite|infinite]] [[o/_order|order]] (or [[s/_sometimes|sometimes]] zero [[o/_order|order]]).**
 - **The [[n/_number|number]] of vertices in a [[g/_graph|graph]].**
-- **A [[p/_partially|partially]] [[o/_ordered|ordered]] set.**
-- **The relation on a [[p/_partially|partially]] [[o/_ordered|ordered]] set that [[d/_determines|determines]] that it is, in [[f/_fact|fact]], a [[p/_partially|partially]] [[o/_ordered|ordered]] set.**
+- **A [[p/_partially|partially]] [[o/_ordered|ordered]] [[s/_set|set]].**
+- **The [[r/_relation|relation]] on a [[p/_partially|partially]] [[o/_ordered|ordered]] [[s/_set|set]] that [[d/_determines|determines]] that it is, in [[f/_fact|fact]], a [[p/_partially|partially]] [[o/_ordered|ordered]] [[s/_set|set]].**
 - **The sum of the [[e/_exponents|exponents]] on the variables in a [[m/_monomial|monomial]], or the [[h/_highest|highest]] such [[a/_among|among]] [[a/_all|all]] [[m/_monomials|monomials]] in a [[p/_polynomial|polynomial]].**
 	- _Example: A quadratic polynomial, a x^2 + b x + c, is said to be of order (or degree) 2._
-- **A written [[d/_direction|direction]] to [[f/_furnish|furnish]] someone with [[m/_money|money]] or property; [[c/_compare|compare]] [[m/_money|money]] [[o/_order|order]], [[p/_postal|postal]] [[o/_order|order]].**
+- **A written [[d/_direction|direction]] to [[f/_furnish|furnish]] [[s/_someone|someone]] with [[m/_money|money]] or [[p/_property|property]]; [[c/_compare|compare]] [[m/_money|money]] [[o/_order|order]], [[p/_postal|postal]] [[o/_order|order]].**
 ---
 ### Antonyms
 - [[c/_chaos|chaos]]
 #verb
-- **To set in some sort of [[o/_order|order]].**
-- **To [[a/_arrange|arrange]], set in proper [[o/_order|order]].**
+- **To [[s/_set|set]] in [[s/_some|some]] [[s/_sort|sort]] of [[o/_order|order]].**
+- **To [[a/_arrange|arrange]], [[s/_set|set]] in [[p/_proper|proper]] [[o/_order|order]].**
 - **To [[i/_issue|issue]] a [[c/_command|command]] to.**
 	- _Example: He ordered me to leave._
-- **To request some product or service; to secure by [[p/_placing|placing]] an [[o/_order|order]].**
+- **To [[r/_request|request]] [[s/_some|some]] [[p/_product|product]] or [[s/_service|service]]; to [[s/_secure|secure]] by [[p/_placing|placing]] an [[o/_order|order]].**
 	- _Example: to order groceries_
-- **To [[a/_admit|admit]] to [[h/_holy|holy]] [[o/_orders|orders]]; to [[o/_ordain|ordain]]; to receive [[i/_into|into]] the ranks of the [[m/_ministry|ministry]].**
+- **To [[a/_admit|admit]] to [[h/_holy|holy]] [[o/_orders|orders]]; to [[o/_ordain|ordain]]; to [[r/_receive|receive]] [[i/_into|into]] the [[r/_ranks|ranks]] of the [[m/_ministry|ministry]].**
 ---
 ### Synonyms
 - [[r/_rank|rank]], [[s/_sort|sort]], [[c/_command|command]]

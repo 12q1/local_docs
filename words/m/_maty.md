@@ -1,6 +1,6 @@
 # Maty
 ---
 #noun
-- **A [[n/_native|native]] [[h/_house|house]] servant in [[i/_india|India]].**
+- **A [[n/_native|native]] [[h/_house|house]] [[s/_servant|servant]] in [[i/_india|India]].**
 ---
 ---

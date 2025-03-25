@@ -1,0 +1,6 @@
+# Propoxyphene
+---
+#noun
+- **Dextropropoxyphene.**
+---
+---

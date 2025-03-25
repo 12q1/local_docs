@@ -1,6 +1,6 @@
 # Presynaptic
 ---
 #adjective
-- **In a synapse, of or [[p/_pertaining|pertaining]] to the [[n/_neuron|neuron]] that releases [[n/_neurotransmitter|neurotransmitter]] [[i/_into|into]] the synaptic [[c/_cleft|cleft]].**
+- **In a [[s/_synapse|synapse]], of or [[p/_pertaining|pertaining]] to the [[n/_neuron|neuron]] that [[r/_releases|releases]] [[n/_neurotransmitter|neurotransmitter]] [[i/_into|into]] the [[s/_synaptic|synaptic]] [[c/_cleft|cleft]].**
 ---
 ---

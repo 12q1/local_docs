@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Sweet and [[p/_pleasant|pleasant]]; [[d/_delicious|delicious]].**
-- **Sexually [[a/_appealing|appealing]]; seductive.**
+- **[[s/_sexually|Sexually]] [[a/_appealing|appealing]]; [[s/_seductive|seductive]].**
 - **[[o/_obscene|Obscene]].**
 ---
 ---

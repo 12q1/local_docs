@@ -5,8 +5,8 @@
 - **The [[i/_inhabitant|inhabitant]] of a [[m/_metropolis|metropolis]].**
 ---
 #adjective
-- **[[p/_pertaining|Pertaining]] to the see or province of a [[m/_metropolitan|metropolitan]].**
-- **Of, or [[p/_pertaining|pertaining]] to, a [[m/_metropolis|metropolis]] or [[o/_other|other]] [[l/_large|large]] urban settlement.**
+- **[[p/_pertaining|Pertaining]] to the [[s/_see|see]] or [[p/_province|province]] of a [[m/_metropolitan|metropolitan]].**
+- **Of, or [[p/_pertaining|pertaining]] to, a [[m/_metropolis|metropolis]] or [[o/_other|other]] [[l/_large|large]] urban [[s/_settlement|settlement]].**
 ---
 ### Antonyms
 - [[n/_non-metropolitan|non-metropolitan]]

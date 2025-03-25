@@ -1,6 +1,6 @@
 # Necrophile
 ---
 #noun
-- **(sexuality) [[o/_one|One]] who is subject to [[n/_necrophilia|necrophilia]].**
+- **([[s/_sexuality|sexuality]]) [[o/_one|One]] who is subject to [[n/_necrophilia|necrophilia]].**
 ---
 ---

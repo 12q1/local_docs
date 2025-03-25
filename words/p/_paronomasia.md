@@ -1,6 +1,6 @@
 # Paronomasia
 ---
 #noun
-- **A pun or [[p/_play|play]] on words.**
+- **A [[p/_pun|pun]] or [[p/_play|play]] on words.**
 ---
 ---

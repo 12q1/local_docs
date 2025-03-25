@@ -1,7 +1,7 @@
 # Mystified
 ---
 #adjective
-- **Puzzled or [[c/_confused|confused]]**
+- **[[p/_puzzled|Puzzled]] or [[c/_confused|confused]]**
 - **State of [[e/_enchantment|enchantment]] as [[c/_concerns|concerns]] [[p/_person|person]] or [[e/_event|event]]**
 ---
 #verb

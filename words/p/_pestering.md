@@ -7,6 +7,6 @@
 ### Synonyms
 - [[b/_badger|badger]], [[b/_bug|bug]], [[h/_hound|hound]]
 #noun
-- **An [[a/_act|act]] or [[i/_instance|instance]] of [[a/_annoying|annoying]] somebody.**
+- **An [[a/_act|act]] or [[i/_instance|instance]] of [[a/_annoying|annoying]] [[s/_somebody|somebody]].**
 ---
 ---

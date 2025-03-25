@@ -1,7 +1,7 @@
 # Plebeians
 ---
 #noun
-- **A [[m/_member|member]] of the [[p/_plebs|plebs]], the [[c/_common|common]] [[c/_citizens|citizens]] of [[a/_ancient|ancient]] Rome.**
+- **A [[m/_member|member]] of the [[p/_plebs|plebs]], the [[c/_common|common]] [[c/_citizens|citizens]] of [[a/_ancient|ancient]] [[r/_rome|Rome]].**
 - **A [[c/_commoner|commoner]], [[p/_particularly|particularly]] a [[l/_low|low]], vulgar [[p/_person|person]].**
 ---
 ### Synonyms

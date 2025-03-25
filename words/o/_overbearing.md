@@ -2,9 +2,9 @@
 ---
 #verb
 - **To [[c/_carry|carry]] [[o/_over|over]].**
-- **To push through by [[p/_physical|physical]] weight or strength; to [[o/_overwhelm|overwhelm]], [[o/_overcome|overcome]].**
-- **To prevail [[o/_over|over]]; to [[d/_dominate|dominate]], [[o/_overpower|overpower]]; to [[o/_oppress|oppress]].**
-- **To produce an [[o/_overabundance|overabundance]] of [[f/_fruit|fruit]].**
+- **To [[p/_push|push]] through by [[p/_physical|physical]] weight or strength; to [[o/_overwhelm|overwhelm]], [[o/_overcome|overcome]].**
+- **To [[p/_prevail|prevail]] [[o/_over|over]]; to [[d/_dominate|dominate]], [[o/_overpower|overpower]]; to [[o/_oppress|oppress]].**
+- **To [[p/_produce|produce]] an [[o/_overabundance|overabundance]] of [[f/_fruit|fruit]].**
 ---
 #adjective
 - **[[o/_overly|Overly]] [[b/_bossy|bossy]], [[d/_domineering|domineering]], or [[a/_arrogant|arrogant]].**

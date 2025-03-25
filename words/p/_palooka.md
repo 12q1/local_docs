@@ -2,6 +2,6 @@
 ---
 #noun
 - **A stupid, [[o/_oafish|oafish]] or [[c/_clumsy|clumsy]] [[p/_person|person]].**
-- **Someone [[i/_incompetent|incompetent]] or untalented.**
+- **[[s/_someone|Someone]] [[i/_incompetent|incompetent]] or untalented.**
 ---
 ---

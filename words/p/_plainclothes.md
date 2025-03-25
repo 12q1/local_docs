@@ -1,7 +1,7 @@
 # Plainclothes
 ---
 #noun
-- **[[o/_ordinary|Ordinary]] [[c/_civilian|civilian]] [[c/_clothes|clothes]], rather than uniform.**
+- **[[o/_ordinary|Ordinary]] [[c/_civilian|civilian]] [[c/_clothes|clothes]], [[r/_rather|rather]] than uniform.**
 ---
 ### Synonyms
 - [[m/_mufti|mufti]]

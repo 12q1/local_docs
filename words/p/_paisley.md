@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[m/_motif|motif]] of a swirling [[d/_droplet|droplet]].**
-- **A soft woollen [[f/_fabric|fabric]] [[h/_having|having]] this [[m/_motif|motif]].**
+- **A [[s/_soft|soft]] woollen [[f/_fabric|fabric]] [[h/_having|having]] this [[m/_motif|motif]].**
 ---
 ### Synonyms
 - [[b/_boteh|boteh]]

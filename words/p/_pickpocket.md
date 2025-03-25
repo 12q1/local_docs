@@ -1,7 +1,7 @@
 # Pickpocket
 ---
 #noun
-- **[[o/_one|One]] who steals from the [[p/_pocket|pocket]] of a [[p/_passerby|passerby]], usually by sleight of [[h/_hand|hand]].**
+- **[[o/_one|One]] who steals from the [[p/_pocket|pocket]] of a [[p/_passerby|passerby]], usually by [[s/_sleight|sleight]] of [[h/_hand|hand]].**
 ---
 #verb
 - **To [[p/_pick|pick]] [[p/_pockets|pockets]]; to steal.**

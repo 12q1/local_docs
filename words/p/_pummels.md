@@ -1,0 +1,14 @@
+# Pummels
+---
+#noun
+- **The upper [[f/_front|front]] [[b/_brow|brow]] of a [[s/_saddle|saddle]].**
+- **A [[r/_rounded|rounded]] [[k/_knob|knob]] or [[h/_handle|handle]].**
+- **The [[b/_bat|bat]] used in the [[g/_game|game]] of knurr and spell or trap [[b/_ball|ball]].**
+---
+### Synonyms
+- [[f/_fork|fork]], [[s/_swell|swell]]
+#verb
+- **To [[h/_hit|hit]] or strike [[h/_heavily|heavily]] and [[r/_repeatedly|repeatedly]].**
+	- _Example: Rain pummeled the roof._
+---
+---

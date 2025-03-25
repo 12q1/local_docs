@@ -1,8 +1,8 @@
 # Overthrow
 ---
 #noun
-- **A removal, [[e/_especially|especially]] of a ruler or [[g/_government|government]], by [[f/_force|force]] or threat of [[f/_force|force]].**
-- **An [[a/_act|act]] of throwing something to the [[g/_ground|ground]]; an [[o/_overturning|overturning]].**
+- **A [[r/_removal|removal]], [[e/_especially|especially]] of a [[r/_ruler|ruler]] or [[g/_government|government]], by [[f/_force|force]] or threat of [[f/_force|force]].**
+- **An [[a/_act|act]] of throwing [[s/_something|something]] to the [[g/_ground|ground]]; an [[o/_overturning|overturning]].**
 ---
 #verb
 - **To [[b/_bring|bring]] [[a/_about|about]] the [[d/_downfall|downfall]] of (a [[g/_government|government]], [[e/_etc|etc]].), [[e/_especially|especially]] by [[f/_force|force]].**

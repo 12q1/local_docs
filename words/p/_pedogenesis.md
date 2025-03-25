@@ -1,6 +1,6 @@
 # Pedogenesis
 ---
 #noun
-- **Process of the [[f/_formation|formation]] of soil.**
+- **[[p/_process|Process]] of the [[f/_formation|formation]] of [[s/_soil|soil]].**
 ---
 ---

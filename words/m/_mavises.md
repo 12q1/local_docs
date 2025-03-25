@@ -1,6 +1,6 @@
 # Mavises
 ---
 #noun
-- **Song thrush.**
+- **[[s/_song|Song]] thrush.**
 ---
 ---

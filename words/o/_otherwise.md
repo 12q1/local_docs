@@ -9,7 +9,7 @@
 	- _Example: Could I do otherwise than smile?._
 - **In [[d/_different|different]] [[c/_circumstances|circumstances]]; or [[e/_else|else]].**
 	- _Example: I’m not well today, otherwise I would have helped.  You have to open your umbrella, otherwise you'll get wet._
-- **In [[a/_all|all]] [[o/_other|other]] respects.**
+- **In [[a/_all|all]] [[o/_other|other]] [[r/_respects|respects]].**
 	- _Example: He lost his temper once in a while. Otherwise he behaved rationally._
 ---
 ### Synonyms

@@ -6,8 +6,8 @@
 - **A [[m/_magdalene|Magdalene]] [[h/_house|house]]; a [[b/_brothel|brothel]].**
 ---
 #adjective
-- **[[a/_affectionate|Affectionate]] or sentimental in an [[e/_effusive|effusive]], tearful, or [[f/_foolish|foolish]] [[m/_manner|manner]], [[e/_especially|especially]] [[b/_because|because]] of [[d/_drunkenness|drunkenness]].**
-- **[[e/_extravagantly|Extravagantly]] or [[e/_excessively|excessively]] sentimental; [[m/_mawkish|mawkish]], self-[[p/_pitying|pitying]].**
+- **[[a/_affectionate|Affectionate]] or [[s/_sentimental|sentimental]] in an [[e/_effusive|effusive]], tearful, or [[f/_foolish|foolish]] [[m/_manner|manner]], [[e/_especially|especially]] [[b/_because|because]] of [[d/_drunkenness|drunkenness]].**
+- **[[e/_extravagantly|Extravagantly]] or [[e/_excessively|excessively]] [[s/_sentimental|sentimental]]; [[m/_mawkish|mawkish]], [[s/_self|self]]-[[p/_pitying|pitying]].**
 - **Tearful, [[l/_lachrymose|lachrymose]].**
 ---
 ### Synonyms

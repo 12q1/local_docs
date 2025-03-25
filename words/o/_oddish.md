@@ -1,6 +1,6 @@
 # Oddish
 ---
 #adjective
-- **Somewhat [[o/_odd|odd]].**
+- **[[s/_somewhat|Somewhat]] [[o/_odd|odd]].**
 ---
 ---

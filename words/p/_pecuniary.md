@@ -1,6 +1,6 @@
 # Pecuniary
 ---
 #adjective
-- **Of, or relating to, [[m/_money|money]]; [[m/_monetary|monetary]], [[f/_financial|financial]].**
+- **Of, or [[r/_relating|relating]] to, [[m/_money|money]]; [[m/_monetary|monetary]], [[f/_financial|financial]].**
 ---
 ---

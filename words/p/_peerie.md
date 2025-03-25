@@ -1,10 +1,10 @@
 # Peerie
 ---
 #noun
-- **A Shetland sheepdog.**
+- **A [[s/_shetland|Shetland]] [[s/_sheepdog|sheepdog]].**
 ---
 #adjective
-- **Small, tiny.**
+- **[[s/_small|Small]], tiny.**
 ---
 #noun
 - **Spinning top**

@@ -1,6 +1,6 @@
 # Microtonal
 ---
 #adjective
-- **Of, relating to, or written using microtones.**
+- **Of, [[r/_relating|relating]] to, or written using microtones.**
 ---
 ---

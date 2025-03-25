@@ -1,11 +1,11 @@
 # Preselected
 ---
 #verb
-- **To select in [[a/_advance|advance]].**
+- **To [[s/_select|select]] in [[a/_advance|advance]].**
 ---
 ### Synonyms
 - [[f/_forechoose|forechoose]]
 #adjective
-- **Selected in [[a/_advance|advance]]**
+- **[[s/_selected|Selected]] in [[a/_advance|advance]]**
 ---
 ---

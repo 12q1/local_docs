@@ -1,7 +1,7 @@
 # Mutinies
 ---
 #noun
-- **An [[o/_organized|organized]] rebellion [[a/_against|against]] a [[l/_legally|legally]] [[c/_constituted|constituted]] [[a/_authority|authority]], [[e/_especially|especially]] by seamen [[a/_against|against]] their [[o/_officers|officers]].**
+- **An [[o/_organized|organized]] [[r/_rebellion|rebellion]] [[a/_against|against]] a [[l/_legally|legally]] [[c/_constituted|constituted]] [[a/_authority|authority]], [[e/_especially|especially]] by [[s/_seamen|seamen]] [[a/_against|against]] their [[o/_officers|officers]].**
 - **Violent [[c/_commotion|commotion]]; tumult; strife.**
 ---
 #verb

@@ -2,6 +2,6 @@
 ---
 #verb
 - **To suffix.**
-- **To subject a sample to [[p/_postfixation|postfixation]]**
+- **To subject a [[s/_sample|sample]] to [[p/_postfixation|postfixation]]**
 ---
 ---

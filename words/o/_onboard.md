@@ -1,8 +1,8 @@
 # Onboard
 ---
 #verb
-- **To [[b/_become|become]] a [[p/_part|part]] of a [[g/_group|group]]; to [[i/_incorporate|incorporate]] (someone) [[i/_into|into]] a [[g/_group|group]].**
-- **To [[b/_begin|begin]] to use a product or service; to take (someone) on as a [[n/_new|new]] [[c/_customer|customer]] of a product or service.**
+- **To [[b/_become|become]] a [[p/_part|part]] of a [[g/_group|group]]; to [[i/_incorporate|incorporate]] ([[s/_someone|someone]]) [[i/_into|into]] a [[g/_group|group]].**
+- **To [[b/_begin|begin]] to use a [[p/_product|product]] or [[s/_service|service]]; to take ([[s/_someone|someone]]) on as a [[n/_new|new]] [[c/_customer|customer]] of a [[p/_product|product]] or [[s/_service|service]].**
 ---
 ### Antonyms
 - [[o/_offboard|offboard]]

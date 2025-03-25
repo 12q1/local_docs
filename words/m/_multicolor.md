@@ -5,7 +5,7 @@
 	- _Example: a stamp printed in multicolor_
 ---
 #adjective
-- **[[h/_having|Having]], resembling, or [[p/_pertaining|pertaining]] to [[m/_many|many]] [[c/_colors|colors]].**
+- **[[h/_having|Having]], [[r/_resembling|resembling]], or [[p/_pertaining|pertaining]] to [[m/_many|many]] [[c/_colors|colors]].**
 ---
 ### Synonyms
 - [[m/_motley|motley]], [[m/_multicolored|multicolored]], [[p/_polychromatic|polychromatic]]

@@ -1,9 +1,9 @@
 # Piteous
 ---
 #adjective
-- **Provoking [[p/_pity|pity]], [[c/_compassion|compassion]], or sympathy.**
-- **Showing [[d/_devotion|devotion]] to [[g/_god|God]].**
-- **Showing [[c/_compassion|compassion]].**
+- **[[p/_provoking|Provoking]] [[p/_pity|pity]], [[c/_compassion|compassion]], or [[s/_sympathy|sympathy]].**
+- **[[s/_showing|Showing]] [[d/_devotion|devotion]] to [[g/_god|God]].**
+- **[[s/_showing|Showing]] [[c/_compassion|compassion]].**
 - **Of [[l/_little|little]] [[i/_importance|importance]] or value.**
 ---
 ### Synonyms

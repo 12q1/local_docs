@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[f/_flat|Flat]], [[l/_level|level]].**
-- **Simple.**
+- **[[s/_simple|Simple]].**
 - **[[o/_obvious|Obvious]].**
 - **[[o/_open|Open]].**
 - **Not unusually [[b/_beautiful|beautiful]]; unattractive.**

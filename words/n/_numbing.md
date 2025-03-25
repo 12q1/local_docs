@@ -11,6 +11,6 @@
 ### Synonyms
 - [[b/_benumb|benumb]], [[d/_dull|dull]], [[d/_dull|dull]]
 #noun
-- **An [[a/_act|act]] by which something is [[n/_numbed|numbed]].**
+- **An [[a/_act|act]] by which [[s/_something|something]] is [[n/_numbed|numbed]].**
 ---
 ---

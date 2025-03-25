@@ -1,7 +1,7 @@
 # Nonproductive
 ---
 #adjective
-- **Not productive.**
+- **Not [[p/_productive|productive]].**
 ---
 ### Synonyms
 - [[u/_unproductive|unproductive]], [[u/_unyieldly|unyieldly]]

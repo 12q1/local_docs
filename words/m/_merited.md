@@ -5,7 +5,7 @@
 	- _Example: Her performance merited wild applause._
 - **To be [[d/_deserving|deserving]] or worthy.**
 	- _Example: They were punished as they merited._
-- **To reward.**
+- **To [[r/_reward|reward]].**
 ---
 #adjective
 - **[[d/_deserved|Deserved]]**

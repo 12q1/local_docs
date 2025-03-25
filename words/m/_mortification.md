@@ -2,9 +2,9 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[m/_mortifying|mortifying]].**
-- **A sensation of [[e/_extreme|extreme]] shame or [[e/_embarrassment|embarrassment]].**
+- **A [[s/_sensation|sensation]] of [[e/_extreme|extreme]] [[s/_shame|shame]] or [[e/_embarrassment|embarrassment]].**
 - **The [[d/_death|death]] of [[p/_part|part]] of the [[b/_body|body]].**
-- **A [[b/_bringing|bringing]] under of the [[p/_passions|passions]] and [[a/_appetites|appetites]] by a severe or strict [[m/_manner|manner]] of [[l/_living|living]].**
+- **A [[b/_bringing|bringing]] under of the [[p/_passions|passions]] and [[a/_appetites|appetites]] by a [[s/_severe|severe]] or strict [[m/_manner|manner]] of [[l/_living|living]].**
 - **A [[b/_bequest|bequest]] to a [[c/_charitable|charitable]] [[i/_institution|institution]].**
 ---
 ### Synonyms

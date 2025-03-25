@@ -1,7 +1,7 @@
 # Nip
 ---
 #noun
-- **A small quantity of something [[e/_edible|edible]] or a [[p/_potable|potable]] [[l/_liquor|liquor]].**
+- **A [[s/_small|small]] [[q/_quantity|quantity]] of [[s/_something|something]] [[e/_edible|edible]] or a [[p/_potable|potable]] [[l/_liquor|liquor]].**
 	- _Example: He had a nip of whiskey._
 ---
 ### Synonyms

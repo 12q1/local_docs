@@ -1,8 +1,8 @@
 # Mountebank
 ---
 #noun
-- **[[o/_one|One]] who sells [[d/_dubious|dubious]] [[m/_medicines|medicines]].**
-- **[[o/_one|One]] who sells by [[d/_deception|deception]]; a [[c/_con|con]] [[a/_artist|artist]]; a [[c/_charlatan|charlatan]].**
+- **[[o/_one|One]] who [[s/_sells|sells]] [[d/_dubious|dubious]] [[m/_medicines|medicines]].**
+- **[[o/_one|One]] who [[s/_sells|sells]] by [[d/_deception|deception]]; a [[c/_con|con]] [[a/_artist|artist]]; a [[c/_charlatan|charlatan]].**
 - **An [[a/_acrobat|acrobat]].**
 ---
 #verb

@@ -11,7 +11,7 @@
 #adverb
 - **Towards the [[o/_outside|outside]]; [[a/_away|away]] from the [[c/_centre|centre]].**
 	- _Example: We are outward bound._
-- **[[o/_outwardly|Outwardly]], in [[o/_outer|outer]] [[a/_appearances|appearances]]; publicly.**
+- **[[o/_outwardly|Outwardly]], in [[o/_outer|outer]] [[a/_appearances|appearances]]; [[p/_publicly|publicly]].**
 ---
 ### Synonyms
 - [[o/_outwards|outwards]]

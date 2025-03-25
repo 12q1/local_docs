@@ -1,35 +1,35 @@
 # Positive
 ---
 #noun
-- **A thing [[c/_capable|capable]] of [[b/_being|being]] [[a/_affirmed|affirmed]]; something real or [[a/_actual|actual]].**
+- **A thing [[c/_capable|capable]] of [[b/_being|being]] [[a/_affirmed|affirmed]]; [[s/_something|something]] [[r/_real|real]] or [[a/_actual|actual]].**
 - **A [[f/_favourable|favourable]] [[p/_point|point]] or [[c/_characteristic|characteristic]].**
-- **Something [[h/_having|having]] a [[p/_positive|positive]] value in [[p/_physics|physics]], such as an [[e/_electric|electric]] [[c/_charge|charge]].**
+- **[[s/_something|Something]] [[h/_having|having]] a [[p/_positive|positive]] value in [[p/_physics|physics]], such as an [[e/_electric|electric]] [[c/_charge|charge]].**
 - **([[g/_grammar|grammar]]) A [[d/_degree|degree]] of [[c/_comparison|comparison]] of [[a/_adjectives|adjectives]] and [[a/_adverbs|adverbs]].**
 - **([[g/_grammar|grammar]]) An [[a/_adjective|adjective]] or [[a/_adverb|adverb]] in the [[p/_positive|positive]] [[d/_degree|degree]].**
-- **A [[p/_positive|positive]] [[i/_image|image]]; [[o/_one|one]] that [[d/_displays|displays]] true [[c/_colors|colors]] and shades, as [[o/_opposed|opposed]] to a [[n/_negative|negative]].**
+- **A [[p/_positive|positive]] [[i/_image|image]]; [[o/_one|one]] that [[d/_displays|displays]] true [[c/_colors|colors]] and [[s/_shades|shades]], as [[o/_opposed|opposed]] to a [[n/_negative|negative]].**
 - **The [[p/_positive|positive]] [[p/_plate|plate]] of a voltaic or [[e/_electrolytic|electrolytic]] [[c/_cell|cell]].**
-- **A [[p/_positive|positive]] result of a test.**
+- **A [[p/_positive|positive]] [[r/_result|result]] of a test.**
 ---
 #adjective
 - **Not [[n/_negative|negative]] or [[n/_neutral|neutral]].**
 - **[[f/_formally|Formally]] [[l/_laid|laid]] [[d/_down|down]].**
-- **Stated [[d/_definitively|definitively]] and without qualification.**
+- **Stated [[d/_definitively|definitively]] and without [[q/_qualification|qualification]].**
 - **[[f/_fully|Fully]] [[a/_assured|assured]] in [[o/_opinion|opinion]].**
 	- _Example: I’m absolutely positive you've spelt that wrong._
 - **Of [[n/_number|number]], [[g/_greater|greater]] than zero.**
 - **[[c/_characterized|Characterized]] by [[c/_constructiveness|constructiveness]] or [[i/_influence|influence]] for the [[b/_better|better]].**
 - **[[o/_overconfident|Overconfident]], [[d/_dogmatic|dogmatic]].**
-- **[[a/_actual|Actual]], real, [[c/_concrete|concrete]], not theoretical or speculative.**
-- **[[h/_having|Having]] [[m/_more|more]] protons than [[e/_electrons|electrons]].**
-- **([[g/_grammar|grammar]]) [[d/_describing|Describing]] the primary sense of an [[a/_adjective|adjective]], [[a/_adverb|adverb]] or [[n/_noun|noun]]; not [[c/_comparative|comparative]], superlative, [[a/_augmentative|augmentative]] [[n/_nor|nor]] [[d/_diminutive|diminutive]].**
+- **[[a/_actual|Actual]], [[r/_real|real]], [[c/_concrete|concrete]], not theoretical or speculative.**
+- **[[h/_having|Having]] [[m/_more|more]] [[p/_protons|protons]] than [[e/_electrons|electrons]].**
+- **([[g/_grammar|grammar]]) [[d/_describing|Describing]] the [[p/_primary|primary]] [[s/_sense|sense]] of an [[a/_adjective|adjective]], [[a/_adverb|adverb]] or [[n/_noun|noun]]; not [[c/_comparative|comparative]], superlative, [[a/_augmentative|augmentative]] [[n/_nor|nor]] [[d/_diminutive|diminutive]].**
 	- _Example: ‘Better’ is an irregular comparative of the positive form ‘good’._
-- **[[d/_derived|Derived]] from an [[o/_object|object]] by [[i/_itself|itself]]; not [[d/_dependent|dependent]] on [[c/_changing|changing]] [[c/_circumstances|circumstances]] or relations; [[a/_absolute|absolute]].**
+- **[[d/_derived|Derived]] from an [[o/_object|object]] by [[i/_itself|itself]]; not [[d/_dependent|dependent]] on [[c/_changing|changing]] [[c/_circumstances|circumstances]] or [[r/_relations|relations]]; [[a/_absolute|absolute]].**
 	- _Example: The idea of beauty is not positive, but depends on the different tastes of individuals._
-- **[[c/_characterized|Characterized]] by the [[e/_existence|existence]] or [[p/_presence|presence]] of [[d/_distinguishing|distinguishing]] qualities or [[f/_features|features]], rather than by their [[a/_absence|absence]].**
+- **[[c/_characterized|Characterized]] by the [[e/_existence|existence]] or [[p/_presence|presence]] of [[d/_distinguishing|distinguishing]] [[q/_qualities|qualities]] or [[f/_features|features]], [[r/_rather|rather]] than by their [[a/_absence|absence]].**
 	- _Example: The box was not empty – I felt some positive substance within it._
 - **[[c/_characterized|Characterized]] by the [[p/_presence|presence]] of [[f/_features|features]] which support a [[h/_hypothesis|hypothesis]].**
 	- _Example: The results of our experiment are positive._
-- **Of a visual [[i/_image|image]], true to the [[o/_original|original]] in [[l/_light|light]], shade and [[c/_colour|colour]] values.**
+- **Of a visual [[i/_image|image]], true to the [[o/_original|original]] in [[l/_light|light]], [[s/_shade|shade]] and [[c/_colour|colour]] values.**
 	- _Example: A positive photograph can be developed from a photographic negative._
 - **[[f/_favorable|Favorable]], [[d/_desirable|desirable]] by those [[i/_interested|interested]] or [[i/_invested|invested]] in that which is [[b/_being|being]] [[j/_judged|judged]].**
 	- _Example: The first-night reviews were largely positive._
@@ -38,7 +38,7 @@
 - **[[o/_optimistic|Optimistic]].**
 	- _Example: He has a positive outlook on life._
 - **[[e/_electropositive|Electropositive]]**
-- **[[b/_basic|Basic]]; [[m/_metallic|metallic]]; not [[a/_acid|acid]]; [[o/_opposed|opposed]] to [[n/_negative|negative]], and said of [[m/_metals|metals]], [[b/_bases|bases]], and [[b/_basic|basic]] radicals.**
+- **[[b/_basic|Basic]]; [[m/_metallic|metallic]]; not [[a/_acid|acid]]; [[o/_opposed|opposed]] to [[n/_negative|negative]], and [[s/_said|said]] of [[m/_metals|metals]], [[b/_bases|bases]], and [[b/_basic|basic]] [[r/_radicals|radicals]].**
 - **HIV [[p/_positive|positive]].**
 - **([[n/_new|New]] [[a/_age|Age]] [[j/_jargon|jargon]]) [[g/_good|Good]], [[d/_desirable|desirable]], [[h/_healthful|healthful]], [[p/_pleasant|pleasant]], [[e/_enjoyable|enjoyable]]; ([[o/_often|often]] [[p/_precedes|precedes]] '[[e/_energy|energy]]', 'thought', '[[f/_feeling|feeling]]' or '[[e/_emotion|emotion]]').**
 ---

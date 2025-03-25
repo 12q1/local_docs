@@ -6,7 +6,7 @@
 - **To throw [[d/_down|down]] to the [[g/_ground|ground]], to [[o/_overturn|overturn]].**
 ---
 #verb
-- **To throw (something) so that it [[g/_goes|goes]] too [[f/_far|far]].**
+- **To throw ([[s/_something|something]]) [[s/_so|so]] that it [[g/_goes|goes]] too [[f/_far|far]].**
 	- _Example: He overthrew first base, for an error._
 ---
 ---

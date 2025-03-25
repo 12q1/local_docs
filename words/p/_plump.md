@@ -9,12 +9,12 @@
 	- _Example: to plump a stone into water_
 - **To [[g/_give|give]] a [[p/_plumper|plumper]] ([[k/_kind|kind]] of vote).**
 - **To [[g/_give|give]] (a vote), as a [[p/_plumper|plumper]].**
-- **To [[f/_favor|favor]] or [[d/_decide|decide]] in [[f/_favor|favor]] of something.**
+- **To [[f/_favor|favor]] or [[d/_decide|decide]] in [[f/_favor|favor]] of [[s/_something|something]].**
 ---
 #adjective
-- **[[h/_having|Having]] a [[f/_full|full]] and rounded shape; [[c/_chubby|chubby]], somewhat [[o/_overweight|overweight]].**
+- **[[h/_having|Having]] a [[f/_full|full]] and [[r/_rounded|rounded]] [[s/_shape|shape]]; [[c/_chubby|chubby]], [[s/_somewhat|somewhat]] [[o/_overweight|overweight]].**
 	- _Example: a plump baby;  plump cheeks_
 - **[[f/_fat|Fat]].**
-- **Sudden and without reservation; [[b/_blunt|blunt]]; [[d/_direct|direct]]; [[d/_downright|downright]].**
+- **Sudden and without [[r/_reservation|reservation]]; [[b/_blunt|blunt]]; [[d/_direct|direct]]; [[d/_downright|downright]].**
 ---
 ---

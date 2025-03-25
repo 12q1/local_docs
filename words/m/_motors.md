@@ -4,10 +4,10 @@
 - **A [[m/_machine|machine]] or [[d/_device|device]] that [[c/_converts|converts]] [[o/_other|other]] [[e/_energy|energy]] [[f/_forms|forms]] [[i/_into|into]] [[m/_mechanical|mechanical]] [[e/_energy|energy]], or [[i/_imparts|imparts]] [[m/_motion|motion]].**
 - **A [[m/_motor|motor]] [[c/_car|car]], or [[a/_automobile|automobile]].**
 	- _Example: Nice motor!_
-- **A source of [[p/_power|power]] for something; an [[i/_inspiration|inspiration]]; a [[d/_driving|driving]] [[f/_force|force]].**
-- **[[a/_any|Any]] protein [[c/_capable|capable]] of [[c/_converting|converting]] [[c/_chemical|chemical]] [[e/_energy|energy]] [[i/_into|into]] [[m/_mechanical|mechanical]] work.**
-- **The [[c/_controller|controller]] or prime [[m/_mover|mover]] of the universe; [[g/_god|God]].**
-- **The [[f/_fermenting|fermenting]] [[m/_mass|mass]] of [[f/_fruit|fruit]] that is the [[b/_basis|basis]] of pruno, or "prison wine".**
+- **A [[s/_source|source]] of [[p/_power|power]] for [[s/_something|something]]; an [[i/_inspiration|inspiration]]; a [[d/_driving|driving]] [[f/_force|force]].**
+- **[[a/_any|Any]] [[p/_protein|protein]] [[c/_capable|capable]] of [[c/_converting|converting]] [[c/_chemical|chemical]] [[e/_energy|energy]] [[i/_into|into]] [[m/_mechanical|mechanical]] work.**
+- **The [[c/_controller|controller]] or [[p/_prime|prime]] [[m/_mover|mover]] of the universe; [[g/_god|God]].**
+- **The [[f/_fermenting|fermenting]] [[m/_mass|mass]] of [[f/_fruit|fruit]] that is the [[b/_basis|basis]] of pruno, or "[[p/_prison|prison]] wine".**
 ---
 ### Synonyms
 - [[e/_engine|engine]], [[k/_kicker|kicker]]

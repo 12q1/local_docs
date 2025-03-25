@@ -8,8 +8,8 @@
 	- _Example: to police a person's identity_
 ---
 #noun
-- **[[m/_monitoring|Monitoring]] or regulation**
+- **[[m/_monitoring|Monitoring]] or [[r/_regulation|regulation]]**
 - **[[p/_patrolling|Patrolling]] by the [[p/_police|police]]**
-- **[[m/_maintenance|Maintenance]] of public [[o/_order|order]]**
+- **[[m/_maintenance|Maintenance]] of [[p/_public|public]] [[o/_order|order]]**
 ---
 ---

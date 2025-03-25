@@ -1,6 +1,6 @@
 # Luncheonette
 ---
 #noun
-- **A small [[d/_diner|diner]] or restaurant that serves [[l/_lunch|lunch]].**
+- **A [[s/_small|small]] [[d/_diner|diner]] or [[r/_restaurant|restaurant]] that [[s/_serves|serves]] [[l/_lunch|lunch]].**
 ---
 ---

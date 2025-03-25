@@ -1,6 +1,6 @@
 # Paillettes
 ---
 #noun
-- **A sequin or spangle.**
+- **A [[s/_sequin|sequin]] or [[s/_spangle|spangle]].**
 ---
 ---

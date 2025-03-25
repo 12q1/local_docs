@@ -2,7 +2,7 @@
 ---
 #adverb
 - **[[f/_frequently|Frequently]]**
-- **Repeatedly**
+- **[[r/_repeatedly|Repeatedly]]**
 ---
 ### Synonyms
 - [[o/_oftentime|oftentime]]

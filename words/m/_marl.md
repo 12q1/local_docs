@@ -1,7 +1,7 @@
 # Marl
 ---
 #noun
-- **A [[m/_mixed|mixed]] [[e/_earthy|earthy]] substance, [[c/_consisting|consisting]] of [[c/_carbonate|carbonate]] of [[l/_lime|lime]], [[c/_clay|clay]], and [[p/_possibly|possibly]] sand, in very variable proportions, and [[a/_accordingly|accordingly]] [[d/_designated|designated]] as [[c/_calcareous|calcareous]], [[c/_clayey|clayey]], or sandy.**
+- **A [[m/_mixed|mixed]] [[e/_earthy|earthy]] substance, [[c/_consisting|consisting]] of [[c/_carbonate|carbonate]] of [[l/_lime|lime]], [[c/_clay|clay]], and [[p/_possibly|possibly]] [[s/_sand|sand]], in very variable [[p/_proportions|proportions]], and [[a/_accordingly|accordingly]] [[d/_designated|designated]] as [[c/_calcareous|calcareous]], [[c/_clayey|clayey]], or [[s/_sandy|sandy]].**
 ---
 ### Synonyms
 - [[m/_marlstone|marlstone]]

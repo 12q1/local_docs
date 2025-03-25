@@ -1,7 +1,7 @@
 # Lushes
 ---
 #noun
-- **[[d/_drunkard|Drunkard]], sot, [[a/_alcoholic|alcoholic]].**
+- **[[d/_drunkard|Drunkard]], [[s/_sot|sot]], [[a/_alcoholic|alcoholic]].**
 - **[[i/_intoxicating|Intoxicating]] [[l/_liquor|liquor]].**
 - **([[p/_pidgin|Pidgin]]) A [[p/_person|person]] who [[e/_enjoys|enjoys]] talking [[a/_about|about]] themselves**
 	- _Example: Am I humble or am I a lush?_

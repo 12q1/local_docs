@@ -12,9 +12,9 @@
 ### Antonyms
 - [[c/_copy|copy]], [[r/_remake|remake]], [[r/_reproduction|reproduction]], [[d/_derivative|derivative]], [[u/_ultimate|ultimate]]
 #adjective
-- **Relating to the [[o/_origin|origin]] or [[b/_beginning|beginning]]; [[p/_preceding|preceding]] [[a/_all|all]] [[o/_others|others]]**
+- **[[r/_relating|Relating]] to the [[o/_origin|origin]] or [[b/_beginning|beginning]]; [[p/_preceding|preceding]] [[a/_all|all]] [[o/_others|others]]**
 	- _Example: the original state of mankind;  the original laws of a country;  the original inventor of a process_
-- **[[f/_first|First]] in a series or [[c/_copies|copies]]/versions**
+- **[[f/_first|First]] in a [[s/_series|series]] or [[c/_copies|copies]]/versions**
 	- _Example: The original manuscript contained spelling errors which were fixed in later versions._
 - **[[n/_newly|Newly]] [[c/_created|created]]**
 	- _Example: Tonight we will hear an original work by one of our best composers._

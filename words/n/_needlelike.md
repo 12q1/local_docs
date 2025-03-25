@@ -1,6 +1,6 @@
 # Needlelike
 ---
 #adjective
-- **Resembling a [[n/_needle|needle]] in shape**
+- **[[r/_resembling|Resembling]] a [[n/_needle|needle]] in [[s/_shape|shape]]**
 ---
 ---

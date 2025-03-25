@@ -1,7 +1,7 @@
 # Pirouette
 ---
 #noun
-- **A whirling or turning on the toes in [[d/_dancing|dancing]], primarily in [[b/_ballet|ballet]].**
+- **A whirling or turning on the toes in [[d/_dancing|dancing]], [[p/_primarily|primarily]] in [[b/_ballet|ballet]].**
 - **The whirling [[a/_about|about]] of a [[h/_horse|horse]].**
 ---
 #verb

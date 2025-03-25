@@ -1,11 +1,11 @@
 # Precipitant
 ---
 #noun
-- **A substance that [[f/_forms|forms]] a [[p/_precipitate|precipitate]] when [[a/_added|added]] to a solution.**
+- **A substance that [[f/_forms|forms]] a [[p/_precipitate|precipitate]] when [[a/_added|added]] to a [[s/_solution|solution]].**
 ---
 #adjective
 - **That [[f/_falls|falls]] [[h/_headlong|headlong]], or [[c/_causes|causes]] a [[h/_headlong|headlong]] [[f/_fall|fall]].**
-- **Rash or [[i/_impulsive|impulsive]].**
+- **[[r/_rash|Rash]] or [[i/_impulsive|impulsive]].**
 - **Sudden or unexpected.**
 - **That [[c/_causes|causes]] [[p/_precipitation|precipitation]].**
 ---

@@ -1,0 +1,6 @@
+# Radiosonde
+---
+#noun
+- **A [[m/_miniature|miniature]] [[r/_radio|radio]] [[c/_carried|carried]] [[a/_aloft|aloft]] by an unmanned [[b/_balloon|balloon]] to [[a/_automatically|automatically]] transmit [[m/_measurements|measurements]] of the upper [[a/_air|air]] such as the wind speed, [[p/_pressure|pressure]], temperature, and [[r/_relative|relative]] [[h/_humidity|humidity]] to a [[r/_receiving|receiving]] station on the [[g/_ground|ground]].**
+---
+---

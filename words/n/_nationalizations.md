@@ -1,7 +1,7 @@
 # Nationalizations
 ---
 #noun
-- **The [[a/_act|act]] or process of nationalising:**
+- **The [[a/_act|act]] or [[p/_process|process]] of nationalising:**
 ---
 ### Synonyms
 - [[p/_patriotisation|patriotisation]]

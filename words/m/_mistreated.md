@@ -1,6 +1,6 @@
 # Mistreated
 ---
 #verb
-- **To treat someone, or something roughly or [[b/_badly|badly]].**
+- **To treat [[s/_someone|someone]], or [[s/_something|something]] [[r/_roughly|roughly]] or [[b/_badly|badly]].**
 ---
 ---

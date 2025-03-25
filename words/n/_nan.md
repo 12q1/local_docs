@@ -1,14 +1,14 @@
 # Nan
 ---
 #noun
-- **A [[m/_mother|mother]] of someone's [[p/_parent|parent]].**
-- **A [[f/_female|female]] [[a/_ancestor|ancestor]] or progenitor.**
+- **A [[m/_mother|mother]] of [[s/_someone|someone]]'[[s/_s|s]] [[p/_parent|parent]].**
+- **A [[f/_female|female]] [[a/_ancestor|ancestor]] or [[p/_progenitor|progenitor]].**
 ---
 ### Antonyms
 - [[g/_grandchild|grandchild]], [[g/_granddaughter|granddaughter]], [[g/_grandson|grandson]], [[g/_grandfather|grandfather]]
 #noun
 - **A [[g/_girl|girl]] or an unmarried [[y/_young|young]] woman; [[m/_maiden|maiden]].**
-- **A [[f/_female|female]] servant or [[c/_cleaner|cleaner]] (short for [[m/_maidservant|maidservant]]).**
+- **A [[f/_female|female]] [[s/_servant|servant]] or [[c/_cleaner|cleaner]] ([[s/_short|short]] for [[m/_maidservant|maidservant]]).**
 - **A virgin, [[n/_now|now]] [[f/_female|female]] but [[o/_originally|originally]] [[o/_one|one]] of [[e/_either|either]] [[g/_gender|gender]].**
 ---
 #noun

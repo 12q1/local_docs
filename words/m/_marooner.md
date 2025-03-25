@@ -1,6 +1,6 @@
 # Marooner
 ---
 #noun
-- **Someone [[m/_marooned|marooned]].**
+- **[[s/_someone|Someone]] [[m/_marooned|marooned]].**
 ---
 ---

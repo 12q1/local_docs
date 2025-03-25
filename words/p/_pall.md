@@ -1,7 +1,7 @@
 # Pall
 ---
 #noun
-- **Senses relating to [[c/_cloth|cloth]].**
-- **Senses relating to [[c/_clothing|clothing]].**
+- **[[s/_senses|Senses]] [[r/_relating|relating]] to [[c/_cloth|cloth]].**
+- **[[s/_senses|Senses]] [[r/_relating|relating]] to [[c/_clothing|clothing]].**
 ---
 ---

@@ -9,9 +9,9 @@
 ### Antonyms
 - [[u/_underkill|underkill]]
 #verb
-- **To [[d/_destroy|destroy]] something with [[m/_more|more]] ([[n/_nuclear|nuclear]]) [[f/_force|force]] than is required.**
+- **To [[d/_destroy|destroy]] [[s/_something|something]] with [[m/_more|more]] ([[n/_nuclear|nuclear]]) [[f/_force|force]] than is [[r/_required|required]].**
 - **To [[d/_dispose|dispose]] of too [[m/_many|many]] [[i/_items|items]] [[b/_because|because]] of too [[h/_high|high]] [[c/_criteria|criteria]] of [[i/_inspection|inspection]].**
-- **To [[d/_do|do]] something [[e/_excessive|excessive]] to [[a/_achieve|achieve]] a [[g/_goal|goal]].**
+- **To [[d/_do|do]] [[s/_something|something]] [[e/_excessive|excessive]] to [[a/_achieve|achieve]] a [[g/_goal|goal]].**
 ---
 ### Antonyms
 - [[u/_underkill|underkill]]

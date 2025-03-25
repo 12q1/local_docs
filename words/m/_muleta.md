@@ -1,6 +1,6 @@
 # Muleta
 ---
 #noun
-- **A red [[f/_flag|flag]] used by [[b/_bullfighters|bullfighters]].**
+- **A [[r/_red|red]] [[f/_flag|flag]] used by [[b/_bullfighters|bullfighters]].**
 ---
 ---

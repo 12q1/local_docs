@@ -1,7 +1,7 @@
 # Nuzzling
 ---
 #verb
-- **(of [[a/_animals|animals]], [[l/_lovers|lovers]], [[e/_etc|etc]]) To touch someone or something with the [[n/_nose|nose]].**
+- **(of [[a/_animals|animals]], [[l/_lovers|lovers]], [[e/_etc|etc]]) To touch [[s/_someone|someone]] or [[s/_something|something]] with the [[n/_nose|nose]].**
 	- _Example: She nuzzled her boyfriend in the cinema._
 - **To [[n/_nurse|nurse]]; to [[f/_foster|foster]]; to [[b/_bring|bring]] up.**
 - **To [[n/_nestle|nestle]]; to [[h/_house|house]], as in a [[n/_nest|nest]].**

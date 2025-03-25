@@ -8,8 +8,8 @@
 #noun
 - **A stately [[p/_polish|Polish]] [[d/_dance|dance]] in triple time and [[m/_moderate|moderate]] tempo.**
 - **[[m/_music|Music]] for this [[d/_dance|dance]].**
-- **A woman's [[d/_dress|dress]] [[h/_having|having]] a tight [[b/_bodice|bodice]] and a skirt [[d/_divided|divided]] to show a [[c/_coloured|coloured]] underskirt.**
-- **A short [[o/_overcoat|overcoat]] [[b/_bordered|bordered]] with [[f/_fur|fur]].**
+- **A woman'[[s/_s|s]] [[d/_dress|dress]] [[h/_having|having]] a tight [[b/_bodice|bodice]] and a [[s/_skirt|skirt]] [[d/_divided|divided]] to [[s/_show|show]] a [[c/_coloured|coloured]] underskirt.**
+- **A [[s/_short|short]] [[o/_overcoat|overcoat]] [[b/_bordered|bordered]] with [[f/_fur|fur]].**
 - **A [[g/_garnish|garnish]] [[m/_made|made]] with [[m/_melted|melted]] [[b/_butter|butter]], breadcrumbs and [[h/_herbs|herbs]].**
 ---
 #verb

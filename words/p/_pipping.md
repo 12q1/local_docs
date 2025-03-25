@@ -8,6 +8,6 @@
 ---
 #verb
 - **To [[p/_peep|peep]], to [[c/_chirp|chirp]]**
-- **([[a/_avian|avian]] [[b/_biology|biology]]) To [[m/_make|make]] the [[i/_initial|initial]] [[h/_hole|hole]] [[d/_during|during]] the process of [[h/_hatching|hatching]] from an [[e/_egg|egg]]**
+- **([[a/_avian|avian]] [[b/_biology|biology]]) To [[m/_make|make]] the [[i/_initial|initial]] [[h/_hole|hole]] [[d/_during|during]] the [[p/_process|process]] of [[h/_hatching|hatching]] from an [[e/_egg|egg]]**
 ---
 ---

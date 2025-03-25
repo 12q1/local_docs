@@ -1,6 +1,6 @@
 # Nihilistic
 ---
 #adjective
-- **Of or relating to [[n/_nihilism|nihilism]].**
+- **Of or [[r/_relating|relating]] to [[n/_nihilism|nihilism]].**
 ---
 ---

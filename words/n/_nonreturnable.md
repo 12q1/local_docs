@@ -1,9 +1,9 @@
 # Nonreturnable
 ---
 #noun
-- **Something that [[c/_cannot|cannot]] be returned.**
+- **[[s/_something|Something]] that [[c/_cannot|cannot]] be [[r/_returned|returned]].**
 ---
 #adjective
-- **Unable to be returned.**
+- **Unable to be [[r/_returned|returned]].**
 ---
 ---

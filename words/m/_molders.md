@@ -1,12 +1,12 @@
 # Molders
 ---
 #noun
-- **[[o/_one|One]] who [[m/_molds|molds]] something [[i/_into|into]] shape.**
+- **[[o/_one|One]] who [[m/_molds|molds]] [[s/_something|something]] [[i/_into|into]] [[s/_shape|shape]].**
 - **A [[p/_person|person]] who [[m/_makes|makes]] [[m/_molds|molds]].**
 - **A tool for [[m/_making|making]] [[m/_molds|molds]].**
 - **A [[m/_machine|machine]] for [[m/_making|making]] [[m/_molding|molding]].**
 ---
 #verb
-- **To [[d/_decay|decay]] or rot.**
+- **To [[d/_decay|decay]] or [[r/_rot|rot]].**
 ---
 ---

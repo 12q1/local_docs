@@ -1,6 +1,6 @@
 # Nonessentials
 ---
 #noun
-- **Something that is not [[e/_essential|essential]].**
+- **[[s/_something|Something]] that is not [[e/_essential|essential]].**
 ---
 ---

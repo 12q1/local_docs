@@ -1,8 +1,8 @@
 # Minuses
 ---
 #noun
-- **The [[m/_minus|minus]] sign (−).**
-- **A [[n/_negative|negative]] quantity.**
+- **The [[m/_minus|minus]] [[s/_sign|sign]] (−).**
+- **A [[n/_negative|negative]] [[q/_quantity|quantity]].**
 - **A [[d/_downside|downside]] or [[d/_disadvantage|disadvantage]].**
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Misproportioned
 ---
 #adjective
-- **[[h/_having|Having]] [[i/_incorrect|incorrect]] or [[d/_distorted|distorted]] proportions.**
+- **[[h/_having|Having]] [[i/_incorrect|incorrect]] or [[d/_distorted|distorted]] [[p/_proportions|proportions]].**
 ---
 ---

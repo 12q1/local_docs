@@ -5,7 +5,7 @@
 	- _Example: Minnesota is in the north of the USA._
 - **The up or [[p/_positive|positive]] [[d/_direction|direction]].**
 	- _Example: Stock prices are heading north._
-- **The [[p/_positive|positive]] or [[n/_north|north]] [[p/_pole|pole]] of a [[m/_magnet|magnet]], which seeks the [[m/_magnetic|magnetic]] [[p/_pole|pole]] [[n/_near|near]] [[e/_earth|Earth]]'s [[g/_geographic|geographic]] [[n/_north|North]] [[p/_pole|Pole]] (which, for [[i/_its|its]] [[m/_magnetic|magnetic]] properties, is a south [[p/_pole|pole]]).**
+- **The [[p/_positive|positive]] or [[n/_north|north]] [[p/_pole|pole]] of a [[m/_magnet|magnet]], which [[s/_seeks|seeks]] the [[m/_magnetic|magnetic]] [[p/_pole|pole]] [[n/_near|near]] [[e/_earth|Earth]]'[[s/_s|s]] [[g/_geographic|geographic]] [[n/_north|North]] [[p/_pole|Pole]] (which, for [[i/_its|its]] [[m/_magnetic|magnetic]] [[p/_properties|properties]], is a [[s/_south|south]] [[p/_pole|pole]]).**
 ---
 ### Antonyms
 - [[s/_south|south]]

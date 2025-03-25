@@ -2,9 +2,9 @@
 ---
 #adjective
 - **[[l/_lasting|Lasting]] [[f/_forever|forever]], or for an [[i/_indefinitely|indefinitely]] [[l/_long|long]] time**
-- **Set up to be in [[e/_effect|effect]] or [[h/_have|have]] tenure for an unlimited [[d/_duration|duration]]**
+- **[[s/_set|Set]] up to be in [[e/_effect|effect]] or [[h/_have|have]] tenure for an unlimited [[d/_duration|duration]]**
 - **[[c/_continuing|Continuing]]; uninterrupted**
-- **[[f/_flowering|Flowering]] throughout the [[g/_growing|growing]] season**
+- **[[f/_flowering|Flowering]] throughout the [[g/_growing|growing]] [[s/_season|season]]**
 	- _Example: By means of artificial hybridization, practised for a series of years, he has succeeded in producing a race of carnations which are perpetual bloomers._
 ---
 ### Synonyms

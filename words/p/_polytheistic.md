@@ -1,6 +1,6 @@
 # Polytheistic
 ---
 #adjective
-- **Of or relating to [[p/_polytheism|polytheism]],**
+- **Of or [[r/_relating|relating]] to [[p/_polytheism|polytheism]],**
 ---
 ---

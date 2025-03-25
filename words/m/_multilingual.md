@@ -4,7 +4,7 @@
 - **A [[p/_polyglot|polyglot]]**
 ---
 #adjective
-- **Of, relating to, or [[i/_involving|involving]] [[m/_multiple|multiple]] [[l/_languages|languages]].**
+- **Of, [[r/_relating|relating]] to, or [[i/_involving|involving]] [[m/_multiple|multiple]] [[l/_languages|languages]].**
 - **(Of a [[p/_person|person]]) [[a/_able|able]] to [[c/_communicate|communicate]] in a [[n/_number|number]] of [[l/_languages|languages]].**
 ---
 ### Synonyms

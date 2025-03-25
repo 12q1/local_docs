@@ -1,0 +1,6 @@
+# Savvied
+---
+#verb
+- **To understand.**
+---
+---

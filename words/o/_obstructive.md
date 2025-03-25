@@ -1,7 +1,7 @@
 # Obstructive
 ---
 #noun
-- **[[o/_one|One]] who [[o/_obstructs|obstructs]] something.**
+- **[[o/_one|One]] who [[o/_obstructs|obstructs]] [[s/_something|something]].**
 ---
 #adjective
 - **[[c/_causing|Causing]] [[o/_obstructions|obstructions]].**

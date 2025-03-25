@@ -1,0 +1,20 @@
+# Shatter
+---
+#noun
+- **A [[f/_fragment|fragment]] of [[a/_anything|anything]] [[s/_shattered|shattered]].**
+	- _Example: to break a glass into shatters_
+- **A ([[p/_pine|pine]]) [[n/_needle|needle]].**
+- **A [[f/_form|form]] of [[c/_concentrated|concentrated]] [[c/_cannabis|cannabis]].**
+---
+### Synonyms
+- [[s/_shat|shat]]
+#verb
+- **To violently [[b/_break|break]] [[s/_something|something]] [[i/_into|into]] [[p/_pieces|pieces]].**
+	- _Example: The miners used dynamite to shatter rocks._
+- **To [[d/_destroy|destroy]] or [[d/_disable|disable]] [[s/_something|something]].**
+- **To [[s/_smash|smash]], or [[b/_break|break]] [[i/_into|into]] tiny [[p/_pieces|pieces]].**
+- **To [[d/_dispirit|dispirit]] or [[e/_emotionally|emotionally]] [[d/_defeat|defeat]]**
+	- _Example: to be shattered in intellect; to have shattered hopes, or a shattered constitution_
+- **To [[s/_scatter|scatter]] [[a/_about|about]].**
+---
+---

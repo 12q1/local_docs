@@ -1,6 +1,6 @@
 # Marksmanship
 ---
 #noun
-- **The [[a/_ability|ability]] to shoot [[a/_accurately|accurately]] at a target.**
+- **The [[a/_ability|ability]] to [[s/_shoot|shoot]] [[a/_accurately|accurately]] at a target.**
 ---
 ---

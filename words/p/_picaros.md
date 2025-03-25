@@ -1,6 +1,6 @@
 # Picaros
 ---
 #noun
-- **Rogue, [[a/_adventurer|adventurer]]**
+- **[[r/_rogue|Rogue]], [[a/_adventurer|adventurer]]**
 ---
 ---

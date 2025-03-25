@@ -1,6 +1,6 @@
 # Picnickers
 ---
 #noun
-- **Someone [[h/_having|having]] a [[p/_picnic|picnic]].**
+- **[[s/_someone|Someone]] [[h/_having|having]] a [[p/_picnic|picnic]].**
 ---
 ---

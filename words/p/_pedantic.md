@@ -1,8 +1,8 @@
 # Pedantic
 ---
 #adjective
-- **[[l/_like|Like]] a [[p/_pedant|pedant]], [[o/_overly|overly]] [[c/_concerned|concerned]] with [[f/_formal|formal]] rules and trivial [[p/_points|points]] of [[l/_learning|learning]].**
-- **[[b/_being|Being]] showy of [[o/_one|one]]’s [[k/_knowledge|knowledge]], [[o/_often|often]] in a [[b/_boring|boring]] [[m/_manner|manner]].**
+- **[[l/_like|Like]] a [[p/_pedant|pedant]], [[o/_overly|overly]] [[c/_concerned|concerned]] with [[f/_formal|formal]] [[r/_rules|rules]] and trivial [[p/_points|points]] of [[l/_learning|learning]].**
+- **[[b/_being|Being]] [[s/_showy|showy]] of [[o/_one|one]]’[[s/_s|s]] [[k/_knowledge|knowledge]], [[o/_often|often]] in a [[b/_boring|boring]] [[m/_manner|manner]].**
 - **[[b/_being|Being]] [[f/_finicky|finicky]] or [[f/_fastidious|fastidious]], [[e/_especially|especially]] with [[l/_language|language]].**
 ---
 ### Synonyms

@@ -8,6 +8,6 @@
 ### Antonyms
 - [[n/_neophobic|neophobic]], [[p/_paleophilic|paleophilic]]
 #adjective
-- **Relating to neophiles or to neophilia; [[f/_fearing|fearing]] or [[d/_disliking|disliking]] [[n/_novelty|novelty]] and that which is [[n/_new|new]]**
+- **[[r/_relating|Relating]] to neophiles or to neophilia; [[f/_fearing|fearing]] or [[d/_disliking|disliking]] [[n/_novelty|novelty]] and that which is [[n/_new|new]]**
 ---
 ---

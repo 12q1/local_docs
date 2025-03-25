@@ -1,6 +1,6 @@
 # Piupiu
 ---
 #noun
-- **A [[g/_grass|grass]] skirt worn by the [[m/_maori|Maori]].**
+- **A [[g/_grass|grass]] [[s/_skirt|skirt]] worn by the [[m/_maori|Maori]].**
 ---
 ---

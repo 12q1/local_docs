@@ -1,14 +1,14 @@
 # Plodding
 ---
 #verb
-- **To walk or [[m/_move|move]] slowly and [[h/_heavily|heavily]] or [[l/_laboriously|laboriously]] (+ on, through, [[o/_over|over]]).**
+- **To walk or [[m/_move|move]] [[s/_slowly|slowly]] and [[h/_heavily|heavily]] or [[l/_laboriously|laboriously]] (+ on, through, [[o/_over|over]]).**
 - **To trudge [[o/_over|over]] or through.**
 - **To toil; to [[d/_drudge|drudge]]; [[e/_especially|especially]], to study [[l/_laboriously|laboriously]] and [[p/_patiently|patiently]].**
 ---
 #noun
-- **Slow, [[l/_laborious|laborious]] progress.**
+- **[[s/_slow|Slow]], [[l/_laborious|laborious]] [[p/_progress|progress]].**
 ---
 #adjective
-- **Progressing slowly and [[l/_laboriously|laboriously]].**
+- **[[p/_progressing|Progressing]] [[s/_slowly|slowly]] and [[l/_laboriously|laboriously]].**
 ---
 ---

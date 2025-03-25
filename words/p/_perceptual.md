@@ -1,6 +1,6 @@
 # Perceptual
 ---
 #adjective
-- **Relating to [[p/_perception|perception]].**
+- **[[r/_relating|Relating]] to [[p/_perception|perception]].**
 ---
 ---

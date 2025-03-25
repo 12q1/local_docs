@@ -1,6 +1,6 @@
 # Millstream
 ---
 #noun
-- **The water that runs through a [[m/_millrace|millrace]] to [[p/_power|power]] a [[m/_mill|mill]].**
+- **The water that [[r/_runs|runs]] through a [[m/_millrace|millrace]] to [[p/_power|power]] a [[m/_mill|mill]].**
 ---
 ---

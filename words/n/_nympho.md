@@ -1,7 +1,7 @@
 # Nympho
 ---
 #verb
-- **To [[b/_become|become]] [[o/_obsessed|obsessed]] [[a/_about|about]] sex.**
+- **To [[b/_become|become]] [[o/_obsessed|obsessed]] [[a/_about|about]] [[s/_sex|sex]].**
 ---
 #noun
 - **A woman with an [[e/_excessive|excessive]] [[l/_libido|libido]].**

@@ -1,7 +1,7 @@
 # Monied
 ---
 #adjective
-- **[[a/_affluent|Affluent]]; rich**
+- **[[a/_affluent|Affluent]]; [[r/_rich|rich]]**
 - **[[p/_paid|Paid]] for; [[f/_funded|funded]]**
 ---
 ### Synonyms

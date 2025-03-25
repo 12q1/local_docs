@@ -1,6 +1,6 @@
 # Necrolatry
 ---
 #noun
-- **The [[p/_practice|practice]] of worshipping or revering the [[d/_dead|dead]].**
+- **The [[p/_practice|practice]] of worshipping or [[r/_revering|revering]] the [[d/_dead|dead]].**
 ---
 ---

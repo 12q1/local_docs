@@ -1,7 +1,7 @@
 # Presumably
 ---
 #adverb
-- **[[a/_able|Able]] to be sensibly [[p/_presumed|presumed]]**
+- **[[a/_able|Able]] to be [[s/_sensibly|sensibly]] [[p/_presumed|presumed]]**
 	- _Example: Presumably, he will attend the opening._
 ---
 ### Synonyms

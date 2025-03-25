@@ -6,7 +6,7 @@
 	- _Example: Earth hosts a myriad of animals._
 ---
 #adjective
-- **([[m/_modifying|modifying]] a singular [[n/_noun|noun]]) [[m/_multifaceted|Multifaceted]], [[h/_having|having]] [[i/_innumerable|innumerable]] [[e/_elements|elements]]**
+- **([[m/_modifying|modifying]] a [[s/_singular|singular]] [[n/_noun|noun]]) [[m/_multifaceted|Multifaceted]], [[h/_having|having]] [[i/_innumerable|innumerable]] [[e/_elements|elements]]**
 - **([[m/_modifying|modifying]] a [[p/_plural|plural]] [[n/_noun|noun]]) [[g/_great|Great]] in [[n/_number|number]]; [[i/_innumerable|innumerable]], [[m/_multitudinous|multitudinous]]**
 	- _Example: Earth hosts myriad animals._
 ---

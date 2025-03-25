@@ -1,6 +1,6 @@
 # Oedipal
 ---
 #adjective
-- **Of or relating to the [[o/_oedipus|Oedipus]] [[c/_complex|complex]].**
+- **Of or [[r/_relating|relating]] to the [[o/_oedipus|Oedipus]] [[c/_complex|complex]].**
 ---
 ---

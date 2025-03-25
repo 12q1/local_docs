@@ -1,0 +1,42 @@
+# Snapping
+---
+#verb
+- **To [[f/_fracture|fracture]] or [[b/_break|break]] [[a/_apart|apart]] suddenly.**
+	- _Example: He snapped his stick in anger._
+- **To [[g/_give|give]] [[f/_forth|forth]] or [[p/_produce|produce]] a [[s/_sharp|sharp]] [[c/_cracking|cracking]] [[n/_noise|noise]]; to [[c/_crack|crack]].**
+	- _Example: Blazing firewood snaps._
+- **To [[a/_attempt|attempt]] to [[s/_seize|seize]] with the teeth or [[b/_bite|bite]].**
+	- _Example: A dog snaps at a passenger. A fish snaps at the bait._
+- **To [[a/_attempt|attempt]] to [[s/_seize|seize]] with [[e/_eagerness|eagerness]].**
+	- _Example: She snapped at the chance to appear on television._
+- **To [[s/_speak|speak]] [[a/_abruptly|abruptly]] or [[s/_sharply|sharply]].**
+	- _Example: He snapped at me for the slightest mistake._
+- **To [[g/_give|give]] way [[a/_abruptly|abruptly]] and [[l/_loudly|loudly]].**
+- **To suffer a [[m/_mental|mental]] [[b/_breakdown|breakdown]], usually while under tension.**
+	- _Example: She should take a break before she snaps._
+- **To [[f/_flash|flash]] or [[a/_appear|appear]] to [[f/_flash|flash]] as with [[l/_light|light]].**
+- **To [[f/_fit|fit]] or [[f/_fasten|fasten]] together with a [[s/_snapping|snapping]] [[s/_sound|sound]].**
+- **To [[j/_jump|jump]] to a [[f/_fixed|fixed]] [[p/_position|position]] [[r/_relative|relative]] to [[a/_another|another]] [[e/_element|element]].**
+	- _Example: The floating toolbar will snap to the edge of the screen when dragged towards it._
+- **To [[s/_snatch|snatch]] with or as [[i/_if|if]] with the teeth.**
+- **To [[p/_pull|pull]] [[a/_apart|apart]] with a [[s/_snapping|snapping]] [[s/_sound|sound]]; to [[p/_pop|pop]] [[l/_loose|loose]].**
+- **To [[s/_say|say]] [[a/_abruptly|abruptly]] or [[s/_sharply|sharply]].**
+- **To [[s/_speak|speak]] to [[a/_abruptly|abruptly]] or [[s/_sharply|sharply]]; to treat [[s/_snappishly|snappishly]]; usually with up.**
+- **To [[c/_cause|cause]] [[s/_something|something]] to [[e/_emit|emit]] a [[s/_snapping|snapping]] [[s/_sound|sound]].**
+	- _Example: to snap a fastener_
+- **To [[c/_close|close]] [[s/_something|something]] using a [[s/_snap|snap]] as a [[f/_fastener|fastener]].**
+- **To [[s/_snap|snap]] [[o/_one|one]]'[[s/_s|s]] [[f/_fingers|fingers]]: to [[m/_make|make]] a [[s/_snapping|snapping]] [[s/_sound|sound]], [[o/_often|often]] by [[p/_pressing|pressing]] the thumb and an [[o/_opposing|opposing]] [[f/_finger|finger]] of the [[s/_same|same]] [[h/_hand|hand]] together and suddenly [[r/_releasing|releasing]] the [[g/_grip|grip]] [[s/_so|so]] that the [[f/_finger|finger]] [[h/_hits|hits]] [[a/_against|against]] the [[p/_palm|palm]]; [[a/_alternatively|alternatively]], by [[b/_bringing|bringing]] the [[i/_index|index]] [[f/_finger|finger]] [[q/_quickly|quickly]] [[d/_down|down]] [[o/_onto|onto]] the [[m/_middle|middle]] [[f/_finger|finger]] and thumb.**
+- **To [[c/_cause|cause]] to [[m/_move|move]] suddenly and [[s/_smartly|smartly]].**
+- **To take a [[p/_photograph|photograph]]; to [[r/_release|release]] a [[c/_camera|camera]]'[[s/_s|s]] [[s/_shutter|shutter]] (which [[m/_may|may]] [[m/_make|make]] a [[s/_snapping|snapping]] [[s/_sound|sound]]).**
+	- _Example: He snapped a picture of me with my mouth open and my eyes closed._
+- **To [[p/_put|put]] (a [[f/_football|football]]) in [[p/_play|play]] by a [[b/_backward|backward]] [[p/_pass|pass]] or [[h/_handoff|handoff]] from [[i/_its|its]] [[p/_position|position]] on the [[g/_ground|ground]]; to [[h/_hike|hike]] (a [[f/_football|football]]).**
+	- _Example: He can snap the ball to a back twenty yards behind him._
+- **To [[m/_misfire|misfire]].**
+	- _Example: The gun snapped._
+- **To [[c/_catch|catch]] [[o/_out|out]] [[s/_sharply|sharply]] (a [[b/_batsman|batsman]] who [[h/_has|has]] [[j/_just|just]] [[s/_snicked|snicked]] a [[b/_bowled|bowled]] [[b/_ball|ball]]).**
+---
+#noun
+- **The [[s/_sound|sound]] or [[a/_action|action]] of a [[s/_snap|snap]].**
+- **The [[a/_act|act]] of [[s/_snapping|snapping]] at, or [[s/_speaking|speaking]] [[s/_sharply|sharply]] to, [[s/_somebody|somebody]].**
+---
+---

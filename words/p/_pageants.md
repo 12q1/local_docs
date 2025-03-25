@@ -6,7 +6,7 @@
 ### Synonyms
 - 
 #noun
-- **An [[e/_elaborate|elaborate]] public [[d/_display|display]], [[e/_especially|especially]] a [[p/_parade|parade]] in [[h/_historical|historical]] or traditional [[c/_costume|costume]].**
+- **An [[e/_elaborate|elaborate]] [[p/_public|public]] [[d/_display|display]], [[e/_especially|especially]] a [[p/_parade|parade]] in [[h/_historical|historical]] or traditional [[c/_costume|costume]].**
 - **A spectacular [[c/_ceremony|ceremony]].**
 - **A wheeled [[p/_platform|platform]] for the [[e/_exhibition|exhibition]] of [[p/_plays|plays]], [[e/_etc|etc]].**
 ---

@@ -5,7 +5,7 @@
 	- _Example: The most I can offer for the house is $150,000._
 - **The [[g/_greater|greater]] [[p/_part|part]].**
 	- _Example: Most of the penguins were friendly and curious._
-- **A record-setting [[a/_amount|amount]].**
+- **A [[r/_record|record]]-[[s/_setting|setting]] [[a/_amount|amount]].**
 ---
 #adverb
 - **[[f/_forms|Forms]] the superlative of [[m/_many|many]] [[a/_adjectives|adjectives]].**

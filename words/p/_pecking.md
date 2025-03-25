@@ -5,11 +5,11 @@
 	- _Example: The birds pecked at their food._
 - **To [[f/_form|form]] by striking with the [[b/_beak|beak]] or a [[p/_pointed|pointed]] [[i/_instrument|instrument]].**
 	- _Example: to peck a hole in a tree_
-- **To strike, [[p/_pick|pick]], thrust [[a/_against|against]], or [[d/_dig|dig]] [[i/_into|into]], with a [[p/_pointed|pointed]] [[i/_instrument|instrument]], [[e/_especially|especially]] with repeated quick [[m/_movements|movements]].**
-- **To seize and [[p/_pick|pick]] up with the [[b/_beak|beak]], or as [[i/_if|if]] with the [[b/_beak|beak]]; to [[b/_bite|bite]]; to [[e/_eat|eat]]; [[o/_often|often]] with up.**
-- **To [[d/_do|do]] something in small, [[i/_intermittent|intermittent]] [[p/_pieces|pieces]].**
+- **To strike, [[p/_pick|pick]], thrust [[a/_against|against]], or [[d/_dig|dig]] [[i/_into|into]], with a [[p/_pointed|pointed]] [[i/_instrument|instrument]], [[e/_especially|especially]] with [[r/_repeated|repeated]] [[q/_quick|quick]] [[m/_movements|movements]].**
+- **To [[s/_seize|seize]] and [[p/_pick|pick]] up with the [[b/_beak|beak]], or as [[i/_if|if]] with the [[b/_beak|beak]]; to [[b/_bite|bite]]; to [[e/_eat|eat]]; [[o/_often|often]] with up.**
+- **To [[d/_do|do]] [[s/_something|something]] in [[s/_small|small]], [[i/_intermittent|intermittent]] [[p/_pieces|pieces]].**
 	- _Example: He has been pecking away at that project for some time now._
-- **To type by searching for [[e/_each|each]] [[k/_key|key]] [[i/_individually|individually]].**
+- **To type by [[s/_searching|searching]] for [[e/_each|each]] [[k/_key|key]] [[i/_individually|individually]].**
 - **To type in [[g/_general|general]].**
 - **To [[k/_kiss|kiss]] [[b/_briefly|briefly]].**
 ---
@@ -18,9 +18,9 @@
 - **To [[l/_lurch|lurch]] [[f/_forward|forward]]; [[e/_especially|especially]], of a [[h/_horse|horse]], to stumble [[a/_after|after]] [[h/_hitting|hitting]] the [[g/_ground|ground]] with the toe [[i/_instead|instead]] of the [[f/_flat|flat]] of the [[f/_foot|foot]].**
 ---
 #noun
-- **The [[a/_act|act]] by which something is [[p/_pecked|pecked]].**
+- **The [[a/_act|act]] by which [[s/_something|something]] is [[p/_pecked|pecked]].**
 	- _Example: the peckings of hungry chickens_
-- **The [[a/_ancient|ancient]] skill of shaping stone [[i/_into|into]] tools, [[c/_containers|containers]], or [[a/_artworks|artworks]].**
+- **The [[a/_ancient|ancient]] [[s/_skill|skill]] of [[s/_shaping|shaping]] stone [[i/_into|into]] tools, [[c/_containers|containers]], or [[a/_artworks|artworks]].**
 - **The sport of throwing [[p/_pebbles|pebbles]] at [[b/_birds|birds]].**
 ---
 ---

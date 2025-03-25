@@ -1,6 +1,6 @@
 # Preexposure
 ---
 #adjective
-- **Prior to [[e/_exposure|exposure]]**
+- **[[p/_prior|Prior]] to [[e/_exposure|exposure]]**
 ---
 ---

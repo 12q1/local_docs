@@ -8,7 +8,7 @@
 - [[s/_spoilsport|spoilsport]]
 #verb
 - **To watch; to [[o/_observe|observe]].**
-- **To serve or [[b/_behave|behave]] as a spy or [[i/_informer|informer]].**
+- **To [[s/_serve|serve]] or [[b/_behave|behave]] as a spy or [[i/_informer|informer]].**
 	- _Example: “If you nark on me, I’ll rip your arms off,” said Tim to his brother, as he passed him a joint._
 - **To [[a/_annoy|annoy]] or [[i/_irritate|irritate]].**
 	- _Example: It really narks me when people smoke in restaurants._

@@ -1,6 +1,6 @@
 # Preclusive
 ---
 #adjective
-- **Serving to [[p/_preclude|preclude]].**
+- **[[s/_serving|Serving]] to [[p/_preclude|preclude]].**
 ---
 ---

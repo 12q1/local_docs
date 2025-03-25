@@ -1,0 +1,6 @@
+# Sabbing
+---
+#verb
+- **To [[s/_sabotage|sabotage]], [[e/_especially|especially]] [[f/_fox|fox]] [[h/_hunts|hunts]] in [[o/_opposition|opposition]] to [[b/_blood|blood]] sports.**
+---
+---

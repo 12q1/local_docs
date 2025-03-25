@@ -1,6 +1,6 @@
 # Opisthotonus
 ---
 #noun
-- **A tetanic spasm in which the [[b/_body|body]] is [[b/_bent|bent]] [[b/_backwards|backwards]] and stiffened.**
+- **A tetanic [[s/_spasm|spasm]] in which the [[b/_body|body]] is [[b/_bent|bent]] [[b/_backwards|backwards]] and stiffened.**
 ---
 ---

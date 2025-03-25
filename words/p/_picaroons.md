@@ -2,8 +2,8 @@
 ---
 #noun
 - **A [[p/_pirate|pirate]] or [[p/_picaro|picaro]].**
-- **A [[p/_pirate|pirate]] ship.**
-- **A rogue.**
+- **A [[p/_pirate|pirate]] [[s/_ship|ship]].**
+- **A [[r/_rogue|rogue]].**
 ---
 ### Synonyms
 - [[b/_brigand|brigand]], [[k/_knave|knave]], [[r/_rogue|rogue]], [[c/_corsair|corsair]], [[p/_pirate|pirate]], [[c/_corsair|corsair]], [[p/_privateer|privateer]]

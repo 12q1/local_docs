@@ -1,6 +1,6 @@
 # Pisolite
 ---
 #noun
-- **A sedimentary rock [[f/_formed|formed]] from pisoids**
+- **A [[s/_sedimentary|sedimentary]] [[r/_rock|rock]] [[f/_formed|formed]] from pisoids**
 ---
 ---

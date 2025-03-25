@@ -1,7 +1,7 @@
 # Modulo
 ---
 #noun
-- **The [[o/_operation|operation]] or [[f/_function|function]] that returns the remainder of [[o/_one|one]] [[n/_number|number]] [[d/_divided|divided]] by [[a/_another|another]].**
+- **The [[o/_operation|operation]] or [[f/_function|function]] that [[r/_returns|returns]] the [[r/_remainder|remainder]] of [[o/_one|one]] [[n/_number|number]] [[d/_divided|divided]] by [[a/_another|another]].**
 ---
 ### Synonyms
 - [[m/_modulus|modulus]]

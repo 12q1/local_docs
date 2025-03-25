@@ -5,8 +5,8 @@
 	- _Example: The outpost did not have enough ammunition to resist a determined assault._
 - **The [[b/_body|body]] of troops [[m/_manning|manning]] such a [[p/_post|post]].**
 	- _Example: Sgt. Smith fleeced most of the rest of the outpost of their earnings in their weekly game of craps._
-- **An [[o/_outlying|outlying]] settlement.**
+- **An [[o/_outlying|outlying]] [[s/_settlement|settlement]].**
 	- _Example: Beyond the border proper, there are three small outposts not officially under government protection._
-- **A square protected by a [[p/_pawn|pawn]] that is in or [[n/_near|near]] the [[e/_enemy|enemy]]'s stronghold.**
+- **A square [[p/_protected|protected]] by a [[p/_pawn|pawn]] that is in or [[n/_near|near]] the [[e/_enemy|enemy]]'[[s/_s|s]] stronghold.**
 ---
 ---

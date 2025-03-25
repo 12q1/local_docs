@@ -5,6 +5,6 @@
 - **A [[p/_preparation|preparation]] [[c/_containing|containing]] such a [[m/_mixture|mixture]]**
 ---
 #adjective
-- **[[c/_containing|Containing]] or relating to [[m/_multiple|multiple]] vitamins.**
+- **[[c/_containing|Containing]] or [[r/_relating|relating]] to [[m/_multiple|multiple]] vitamins.**
 ---
 ---

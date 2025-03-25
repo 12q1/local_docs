@@ -1,7 +1,7 @@
 # Pastime
 ---
 #noun
-- **Something which [[a/_amuses|amuses]], and serves to [[m/_make|make]] time [[p/_pass|pass]] [[a/_agreeably|agreeably]].**
+- **[[s/_something|Something]] which [[a/_amuses|amuses]], and [[s/_serves|serves]] to [[m/_make|make]] time [[p/_pass|pass]] [[a/_agreeably|agreeably]].**
 	- _Example: Chatting is a pleasant pastime._
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Pears
 ---
 #noun
-- **An [[e/_edible|edible]] [[f/_fruit|fruit]] produced by the [[p/_pear|pear]] tree, similar to an [[a/_apple|apple]] but [[e/_elongated|elongated]] towards the stem.**
+- **An [[e/_edible|edible]] [[f/_fruit|fruit]] [[p/_produced|produced]] by the [[p/_pear|pear]] tree, [[s/_similar|similar]] to an [[a/_apple|apple]] but [[e/_elongated|elongated]] towards the stem.**
 - **A type of [[f/_fruit|fruit]] tree ([[p/_pyrus|Pyrus]] [[c/_communis|communis]]).**
 - **The wood of the [[p/_pear|pear]] tree ([[p/_pearwood|pearwood]], [[p/_pear|pear]] wood).**
 - **[[c/_choke|Choke]] [[p/_pear|pear]] (a torture [[d/_device|device]]).**

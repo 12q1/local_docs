@@ -1,6 +1,6 @@
 # Nonpublic
 ---
 #adjective
-- **Not public; private.**
+- **Not [[p/_public|public]]; [[p/_private|private]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Neeps
 ---
 #noun
-- **The swede (rutabaga), [[c/_called|called]] "turnip" in Scotland.**
+- **The swede ([[r/_rutabaga|rutabaga]]), [[c/_called|called]] "turnip" in [[s/_scotland|Scotland]].**
 ---
 ---

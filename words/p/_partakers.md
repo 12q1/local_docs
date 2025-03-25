@@ -1,7 +1,7 @@
 # Partakers
 ---
 #noun
-- **[[o/_one|One]] who [[p/_partakes|partakes]] of something.**
+- **[[o/_one|One]] who [[p/_partakes|partakes]] of [[s/_something|something]].**
 	- _Example: The joint was passed around the circle, but he was not a partaker, so he waved it away._
 - **A [[p/_partner|partner]] or [[a/_accomplice|accomplice]].**
 ---

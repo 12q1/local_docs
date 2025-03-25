@@ -1,6 +1,6 @@
 # Penetrator
 ---
 #noun
-- **Something that [[p/_penetrates|penetrates]]**
+- **[[s/_something|Something]] that [[p/_penetrates|penetrates]]**
 ---
 ---

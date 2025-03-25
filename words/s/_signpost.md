@@ -1,0 +1,14 @@
+# Signpost
+---
+#noun
+- **A [[p/_post|post]] [[b/_bearing|bearing]] a [[s/_sign|sign]] that [[g/_gives|gives]] [[i/_information|information]] on [[d/_directions|directions]]**
+- **([[c/_cryptic|cryptic]] [[c/_crosswords|crosswords]]) A word or [[p/_phrase|phrase]] within a [[c/_clue|clue]] that [[s/_serves|serves]] as an [[i/_indicator|indicator]], [[r/_rather|rather]] than [[b/_being|being]] [[f/_fodder|fodder]].**
+---
+#verb
+- **To [[i/_install|install]] [[s/_signposts|signposts]] on.**
+	- _Example: The route wasn't signposted, and we got lost on the way._
+- **To [[d/_direct|direct]] ([[s/_somebody|somebody]]) to [[s/_services|services]], [[r/_resources|resources]], [[e/_etc|etc]].**
+- **To [[i/_indicate|indicate]] [[l/_logical|logical]] [[p/_progress|progress]] of a [[d/_discourse|discourse]] using words or [[p/_phrases|phrases]] such as [[n/_now|now]], [[r/_right|right]], to [[r/_recap|recap]], to sum up, as [[i/_i|I]] was [[s/_saying|saying]], [[e/_etc|etc]].**
+- **To [[s/_signal|signal]], as [[i/_if|if]] with a [[s/_signpost|signpost]]**
+---
+---

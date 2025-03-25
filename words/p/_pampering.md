@@ -7,6 +7,6 @@
 ### Synonyms
 - [[c/_coddle|coddle]], [[s/_spoil|spoil]]
 #noun
-- **The [[a/_act|act]] by which somebody is [[p/_pampered|pampered]].**
+- **The [[a/_act|act]] by which [[s/_somebody|somebody]] is [[p/_pampered|pampered]].**
 ---
 ---

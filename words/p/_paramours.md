@@ -1,9 +1,9 @@
 # Paramours
 ---
 #noun
-- **(somewhat [[o/_obsolete|obsolete]]) An [[i/_illicit|illicit]] [[l/_lover|lover]], [[e/_either|either]] [[m/_male|male]] or [[f/_female|female]].**
+- **([[s/_somewhat|somewhat]] [[o/_obsolete|obsolete]]) An [[i/_illicit|illicit]] [[l/_lover|lover]], [[e/_either|either]] [[m/_male|male]] or [[f/_female|female]].**
 	- _Example: to run away with a paramour_
-- **The Virgin [[m/_mary|Mary]] or [[j/_jesus|Jesus]] [[c/_christ|Christ]] (when [[a/_addressed|addressed]] by a [[p/_person|person]] of the [[o/_opposite|opposite]] sex).**
+- **The Virgin [[m/_mary|Mary]] or [[j/_jesus|Jesus]] [[c/_christ|Christ]] (when [[a/_addressed|addressed]] by a [[p/_person|person]] of the [[o/_opposite|opposite]] [[s/_sex|sex]]).**
 ---
 ### Synonyms
 - [[l/_leman|leman]], [[m/_mistress|mistress]]

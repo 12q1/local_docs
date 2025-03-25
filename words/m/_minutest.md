@@ -1,9 +1,9 @@
 # Minutest
 ---
 #adjective
-- **Very small.**
+- **Very [[s/_small|small]].**
 	- _Example: They found only minute quantities of chemical residue on his clothing._
-- **Very [[c/_careful|careful]] and [[e/_exact|exact]], [[g/_giving|giving]] small [[d/_details|details]].**
+- **Very [[c/_careful|careful]] and [[e/_exact|exact]], [[g/_giving|giving]] [[s/_small|small]] [[d/_details|details]].**
 	- _Example: The lawyer gave the witness a minute examination._
 ---
 ### Synonyms

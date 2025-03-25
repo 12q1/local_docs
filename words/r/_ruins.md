@@ -1,0 +1,34 @@
+# Ruins
+---
+#noun
+- **([[s/_sometimes|sometimes]] in the [[p/_plural|plural]]) The [[r/_remains|remains]] of a [[d/_destroyed|destroyed]] or [[d/_dilapidated|dilapidated]] [[c/_construction|construction]], such as a [[h/_house|house]] or [[c/_castle|castle]].**
+- **The state of [[b/_being|being]] a [[r/_ruin|ruin]], [[d/_destroyed|destroyed]] or [[d/_decayed|decayed]].**
+	- _Example: The monastery has fallen into ruin._
+- **[[s/_something|Something]] that [[l/_leads|leads]] to [[s/_serious|serious]] trouble or [[d/_destruction|destruction]].**
+	- _Example: Gambling has been the ruin of many._
+- **A [[f/_fall|fall]] or tumble.**
+- **A [[c/_change|change]] that [[d/_destroys|destroys]] or [[d/_defeats|defeats]] [[s/_something|something]]; [[d/_destruction|destruction]]; [[o/_overthrow|overthrow]].**
+	- _Example: the ruin of a ship or an army;  the ruin of a constitution or a government;  the ruin of health or hopes_
+- **[[c/_complete|Complete]] [[f/_financial|financial]] [[l/_loss|loss]]; [[b/_bankruptcy|bankruptcy]].**
+---
+#verb
+- **To [[c/_cause|cause]] the [[f/_fiscal|fiscal]] [[r/_ruin|ruin]] of.**
+	- _Example: With all these purchases, you surely mean to ruin us!_
+- **To [[d/_destroy|destroy]] or [[m/_make|make]] [[s/_something|something]] [[n/_no|no]] [[l/_longer|longer]] usable.**
+	- _Example: He ruined his new white slacks by accidentally spilling oil on them._
+- **To [[c/_cause|cause]] [[s/_severe|severe]] [[f/_financial|financial]] [[l/_loss|loss]] to; to [[b/_bankrupt|bankrupt]] or [[d/_drive|drive]] [[o/_out|out]] of [[b/_business|business]].**
+	- _Example: The crooked stockbroker's fraudulent scheme ruined dozens of victims; some investors lost their life savings and even their houses._
+- **To upset or [[o/_overturn|overturn]] the [[p/_plans|plans]] or [[p/_progress|progress]] of, or to [[h/_have|have]] a [[d/_disastrous|disastrous]] [[e/_effect|effect]] on [[s/_something|something]].**
+	- _Example: My car breaking down just as I was on the road ruined my vacation._
+- **To [[m/_make|make]] [[s/_something|something]] [[l/_less|less]] [[e/_enjoyable|enjoyable]] or [[l/_likeable|likeable]].**
+	- _Example: I used to love that song, but being assaulted when that song was playing ruined the song for me._
+- **To [[r/_reveal|reveal]] the [[e/_ending|ending]] of (a story); to spoil.**
+- **To [[f/_fall|fall]] [[i/_into|into]] a state of [[d/_decay|decay]].**
+- **To [[s/_seduce|seduce]] or [[d/_debauch|debauch]], and thus [[h/_harm|harm]] the [[s/_social|social]] standing of.**
+	- _Example: The young libertine was notorious for ruining local girls._
+---
+### Synonyms
+- [[d/_destroy|destroy]], [[f/_fordo|fordo]], [[r/_ruinate|ruinate]], [[w/_wreck|wreck]]
+### Antonyms
+- [[b/_build|build]], [[c/_construct|construct]], [[f/_found|found]], [[p/_produce|produce]]
+---

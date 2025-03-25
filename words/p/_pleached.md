@@ -1,7 +1,7 @@
 # Pleached
 ---
 #verb
-- **To unite by [[i/_interweaving|interweaving]], as [[b/_branches|branches]] of shrubs, trees, [[e/_etc|etc]]., to [[c/_create|create]] a [[h/_hedge|hedge]]; to [[i/_interlock|interlock]], to [[p/_plash|plash]].**
+- **To unite by [[i/_interweaving|interweaving]], as [[b/_branches|branches]] of [[s/_shrubs|shrubs]], trees, [[e/_etc|etc]]., to [[c/_create|create]] a [[h/_hedge|hedge]]; to [[i/_interlock|interlock]], to [[p/_plash|plash]].**
 ---
 ### Synonyms
 - [[e/_entwine|entwine]], [[i/_interlace|interlace]], [[p/_plait|plait]]

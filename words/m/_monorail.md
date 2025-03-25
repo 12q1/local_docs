@@ -1,7 +1,7 @@
 # Monorail
 ---
 #noun
-- **A railroad system where the trains run on [[o/_one|one]] rail**
-- **A train running on a single rail**
+- **A [[r/_railroad|railroad]] [[s/_system|system]] where the trains [[r/_run|run]] on [[o/_one|one]] [[r/_rail|rail]]**
+- **A train [[r/_running|running]] on a [[s/_single|single]] [[r/_rail|rail]]**
 ---
 ---

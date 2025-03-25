@@ -14,7 +14,7 @@
 ### Antonyms
 - [[u/_underwhelm|underwhelm]]
 #noun
-- **A situation of [[b/_being|being]] [[o/_overwhelmed|overwhelmed]].**
+- **A [[s/_situation|situation]] of [[b/_being|being]] [[o/_overwhelmed|overwhelmed]].**
 ---
 #adjective
 - **[[o/_overpowering|Overpowering]], staggering, or [[i/_irresistibly|irresistibly]] strong.**

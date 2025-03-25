@@ -1,6 +1,6 @@
 # Mos
 ---
 #noun
-- **Singular of [[m/_mores|mores]]**
+- **[[s/_singular|Singular]] of [[m/_mores|mores]]**
 ---
 ---

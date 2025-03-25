@@ -5,7 +5,7 @@
 ---
 #adjective
 - **Unhealthy; [[c/_causing|causing]] [[d/_disease|disease]].**
-- **Sinful.**
+- **[[s/_sinful|Sinful]].**
 - **Wrong; [[d/_defective|defective]]; [[f/_faulty|faulty]].**
 ---
 ---

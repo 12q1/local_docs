@@ -1,8 +1,8 @@
 # Overtones
 ---
 #noun
-- **A tone whose [[f/_frequency|frequency]] is an [[i/_integer|integer]] [[m/_multiple|multiple]] of [[a/_another|another]]; a [[m/_member|member]] of the [[h/_harmonic|harmonic]] series.**
-- **([[o/_often|often]] in [[p/_plural|plural]]) An [[i/_implicit|implicit]] [[m/_message|message]] (in a [[f/_film|film]], [[b/_book|book]], verbal [[d/_discussion|discussion]] or similar) [[p/_perceived|perceived]] as [[o/_overwhelming|overwhelming]] the [[e/_explicit|explicit]] [[m/_message|message]].**
+- **A tone whose [[f/_frequency|frequency]] is an [[i/_integer|integer]] [[m/_multiple|multiple]] of [[a/_another|another]]; a [[m/_member|member]] of the [[h/_harmonic|harmonic]] [[s/_series|series]].**
+- **([[o/_often|often]] in [[p/_plural|plural]]) An [[i/_implicit|implicit]] [[m/_message|message]] (in a [[f/_film|film]], [[b/_book|book]], verbal [[d/_discussion|discussion]] or [[s/_similar|similar]]) [[p/_perceived|perceived]] as [[o/_overwhelming|overwhelming]] the [[e/_explicit|explicit]] [[m/_message|message]].**
 ---
 ### Antonyms
 - [[u/_undertone|undertone]]

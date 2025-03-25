@@ -14,6 +14,6 @@
 	- _Example: to match boards_
 ---
 #noun
-- **Short for [[m/_matched|matched]] [[g/_grip|grip]].**
+- **[[s/_short|Short]] for [[m/_matched|matched]] [[g/_grip|grip]].**
 ---
 ---

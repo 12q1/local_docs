@@ -1,6 +1,6 @@
 # Oncologist
 ---
 #noun
-- **A [[d/_doctor|doctor]] or scientist who specializes in [[o/_oncology|oncology]].**
+- **A [[d/_doctor|doctor]] or [[s/_scientist|scientist]] who specializes in [[o/_oncology|oncology]].**
 ---
 ---

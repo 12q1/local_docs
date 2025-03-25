@@ -1,21 +1,21 @@
 # Mech
 ---
 #noun
-- **A [[l/_large|large]] [[p/_piloted|piloted]] [[c/_combat|combat]] robot.**
-- **A robot.**
+- **A [[l/_large|large]] [[p/_piloted|piloted]] [[c/_combat|combat]] [[r/_robot|robot]].**
+- **A [[r/_robot|robot]].**
 ---
 #noun
 - **A [[m/_manual|manual]] worker; a [[l/_labourer|labourer]] or [[a/_artisan|artisan]].**
-- **Someone who [[b/_builds|builds]] or repairs [[m/_machinery|machinery]], a technician; [[n/_now|now]] specifically, someone who works with and repairs the [[m/_mechanical|mechanical]] [[p/_parts|parts]] of a [[m/_motor|motor]] vehicle, [[a/_aircraft|aircraft]] or similar.**
-- **A [[d/_device|device]], [[c/_command|command]], or [[f/_feature|feature]] which [[a/_allows|allows]] someone to [[a/_achieve|achieve]] a specific task.**
+- **[[s/_someone|Someone]] who [[b/_builds|builds]] or [[r/_repairs|repairs]] [[m/_machinery|machinery]], a technician; [[n/_now|now]] specifically, [[s/_someone|someone]] who works with and [[r/_repairs|repairs]] the [[m/_mechanical|mechanical]] [[p/_parts|parts]] of a [[m/_motor|motor]] vehicle, [[a/_aircraft|aircraft]] or [[s/_similar|similar]].**
+- **A [[d/_device|device]], [[c/_command|command]], or [[f/_feature|feature]] which [[a/_allows|allows]] [[s/_someone|someone]] to [[a/_achieve|achieve]] a specific task.**
 	- _Example: This game has a mechanic where if you run toward a ledge you automatically jump off rather than just falling._
 - **A [[h/_hit|hit]] [[m/_man|man]].**
 ---
 #adjective
-- **[[c/_characteristic|Characteristic]] of someone who [[d/_does|does]] [[m/_manual|manual]] [[l/_labour|labour]] for a [[l/_living|living]]; [[c/_coarse|coarse]], vulgar.**
-- **Related to [[m/_mechanics|mechanics]] (the [[b/_branch|branch]] of [[p/_physics|physics]] that [[d/_deals|deals]] with [[f/_forces|forces]] [[a/_acting|acting]] on [[m/_mass|mass]]).**
+- **[[c/_characteristic|Characteristic]] of [[s/_someone|someone]] who [[d/_does|does]] [[m/_manual|manual]] [[l/_labour|labour]] for a [[l/_living|living]]; [[c/_coarse|coarse]], vulgar.**
+- **[[r/_related|Related]] to [[m/_mechanics|mechanics]] (the [[b/_branch|branch]] of [[p/_physics|physics]] that [[d/_deals|deals]] with [[f/_forces|forces]] [[a/_acting|acting]] on [[m/_mass|mass]]).**
 	- _Example: mechanical engineering_
-- **Related to [[m/_mechanics|mechanics]] (the [[d/_design|design]] and [[c/_construction|construction]] of [[m/_machines|machines]]).**
+- **[[r/_related|Related]] to [[m/_mechanics|mechanics]] (the [[d/_design|design]] and [[c/_construction|construction]] of [[m/_machines|machines]]).**
 	- _Example: mechanical dictionary_
 - **[[d/_done|Done]] by [[m/_machine|machine]].**
 	- _Example: mechanical task_
@@ -31,7 +31,7 @@
 #noun
 - **The [[b/_branch|branch]] of [[p/_physics|physics]] that [[d/_deals|deals]] with the [[a/_action|action]] of [[f/_forces|forces]] on [[m/_material|material]] [[o/_objects|objects]] with [[m/_mass|mass]]**
 - **The [[d/_design|design]] and [[c/_construction|construction]] of [[m/_machines|machines]].**
-- **(writing) Spelling and punctuation.**
+- **(writing) Spelling and [[p/_punctuation|punctuation]].**
 - **[[o/_operation|Operation]] in [[g/_general|general]]; workings.**
 	- _Example: the mechanics of a board game_
 ---

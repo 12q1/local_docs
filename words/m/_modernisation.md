@@ -1,6 +1,6 @@
 # Modernisation
 ---
 #noun
-- **The process of [[m/_modernizing|modernizing]].**
+- **The [[p/_process|process]] of [[m/_modernizing|modernizing]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Pressurize
 ---
 #verb
-- **To put [[p/_pressure|pressure]] on; to put under [[p/_pressure|pressure]].**
+- **To [[p/_put|put]] [[p/_pressure|pressure]] on; to [[p/_put|put]] under [[p/_pressure|pressure]].**
 ---
 ---

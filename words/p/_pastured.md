@@ -7,6 +7,6 @@
 	- _Example: The farmer pastures fifty oxen; the land will pasture forty cows._
 ---
 #adjective
-- **Raised in a [[p/_pasture|pasture]], as [[o/_opposed|opposed]] [[b/_being|being]] [[c/_confined|confined]] to a [[c/_cage|cage]], [[b/_barn|barn]], [[f/_feedlot|feedlot]], [[e/_etc|etc]].**
+- **[[r/_raised|Raised]] in a [[p/_pasture|pasture]], as [[o/_opposed|opposed]] [[b/_being|being]] [[c/_confined|confined]] to a [[c/_cage|cage]], [[b/_barn|barn]], [[f/_feedlot|feedlot]], [[e/_etc|etc]].**
 ---
 ---

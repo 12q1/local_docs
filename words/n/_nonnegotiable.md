@@ -1,7 +1,7 @@
 # Nonnegotiable
 ---
 #noun
-- **Something that is not [[n/_negotiable|negotiable]].**
+- **[[s/_something|Something]] that is not [[n/_negotiable|negotiable]].**
 ---
 ### Synonyms
 - 

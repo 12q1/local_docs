@@ -1,6 +1,6 @@
 # Pantofles
 ---
 #noun
-- **A slipper.**
+- **A [[s/_slipper|slipper]].**
 ---
 ---

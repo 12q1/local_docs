@@ -1,8 +1,8 @@
 # Mousses
 ---
 #noun
-- **An [[a/_airy|airy]] pudding served [[c/_chilled|chilled]], [[p/_particularly|particularly]] [[c/_chocolate|chocolate]] [[m/_mousse|mousse]].**
-- **A savory [[d/_dish|dish]], of [[m/_meat|meat]] or seafood, [[c/_containing|containing]] [[g/_gelatin|gelatin]].**
+- **An [[a/_airy|airy]] [[p/_pudding|pudding]] [[s/_served|served]] [[c/_chilled|chilled]], [[p/_particularly|particularly]] [[c/_chocolate|chocolate]] [[m/_mousse|mousse]].**
+- **A [[s/_savory|savory]] [[d/_dish|dish]], of [[m/_meat|meat]] or [[s/_seafood|seafood]], [[c/_containing|containing]] [[g/_gelatin|gelatin]].**
 	- _Example: ham mousse_
 - **A styling [[c/_cream|cream]] used for [[h/_hair|hair]].**
 	- _Example: He slicked his hair back with mousse, but the cowlick still stuck up._

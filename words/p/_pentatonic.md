@@ -1,7 +1,7 @@
 # Pentatonic
 ---
 #noun
-- **The [[p/_pentatonic|pentatonic]] scale.**
+- **The [[p/_pentatonic|pentatonic]] [[s/_scale|scale]].**
 ---
 #adjective
 - **[[b/_based|Based]] on [[f/_five|five]] tones.**

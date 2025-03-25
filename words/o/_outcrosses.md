@@ -1,7 +1,7 @@
 # Outcrosses
 ---
 #noun
-- **A [[p/_plant|plant]] or [[a/_animal|animal]] produced by [[o/_outcrossing|outcrossing]]**
+- **A [[p/_plant|plant]] or [[a/_animal|animal]] [[p/_produced|produced]] by [[o/_outcrossing|outcrossing]]**
 ---
 ### Antonyms
 - [[i/_incross|incross]]

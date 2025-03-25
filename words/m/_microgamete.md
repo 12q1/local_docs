@@ -1,6 +1,6 @@
 # Microgamete
 ---
 #noun
-- **The smaller of a [[p/_pair|pair]] of [[c/_conjugating|conjugating]] [[g/_gametes|gametes]]; [[o/_often|often]] the [[m/_male|male]]**
+- **The [[s/_smaller|smaller]] of a [[p/_pair|pair]] of [[c/_conjugating|conjugating]] [[g/_gametes|gametes]]; [[o/_often|often]] the [[m/_male|male]]**
 ---
 ---

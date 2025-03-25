@@ -5,6 +5,6 @@
 	- _Example: a mismated couple_
 ---
 #adjective
-- **Provided with an unsuitable [[m/_mate|mate]]**
+- **[[p/_provided|Provided]] with an unsuitable [[m/_mate|mate]]**
 ---
 ---

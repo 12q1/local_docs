@@ -1,6 +1,6 @@
 # Mandatary
 ---
 #noun
-- **[[o/_one|One]] who receives a [[m/_mandate|mandate]].**
+- **[[o/_one|One]] who [[r/_receives|receives]] a [[m/_mandate|mandate]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Pyrex
 ---
 #noun
-- **A [[k/_kind|kind]] of [[h/_heat|heat]]-resistant [[g/_glass|glass]].**
+- **A [[k/_kind|kind]] of [[h/_heat|heat]]-[[r/_resistant|resistant]] [[g/_glass|glass]].**
 ---
 ---

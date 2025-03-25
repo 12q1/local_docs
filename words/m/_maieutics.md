@@ -1,6 +1,6 @@
 # Maieutics
 ---
 #noun
-- **Synonym of Socratic [[m/_method|method]]**
+- **[[s/_synonym|Synonym]] of [[s/_socratic|Socratic]] [[m/_method|method]]**
 ---
 ---

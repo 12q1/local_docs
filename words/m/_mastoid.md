@@ -1,9 +1,9 @@
 # Mastoid
 ---
 #noun
-- **The [[m/_mastoid|mastoid]] process.**
+- **The [[m/_mastoid|mastoid]] [[p/_process|process]].**
 ---
 #adjective
-- **Of or relating to the [[m/_mastoid|mastoid]] process of the temporal [[b/_bone|bone]].**
+- **Of or [[r/_relating|relating]] to the [[m/_mastoid|mastoid]] [[p/_process|process]] of the temporal [[b/_bone|bone]].**
 ---
 ---

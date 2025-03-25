@@ -5,9 +5,9 @@
 	- _Example: The poor are always with us._
 ---
 #adjective
-- **With [[n/_no|no]] or [[f/_few|few]] [[p/_possessions|possessions]] or [[m/_money|money]], [[p/_particularly|particularly]] in relation to [[c/_contemporaries|contemporaries]] who [[d/_do|do]] [[h/_have|have]] them.**
+- **With [[n/_no|no]] or [[f/_few|few]] [[p/_possessions|possessions]] or [[m/_money|money]], [[p/_particularly|particularly]] in [[r/_relation|relation]] to [[c/_contemporaries|contemporaries]] who [[d/_do|do]] [[h/_have|have]] them.**
 	- _Example: We were so poor that we couldn't afford shoes._
-- **Of [[l/_low|low]] quality.**
+- **Of [[l/_low|low]] [[q/_quality|quality]].**
 	- _Example: That was a poor performance._
 - **Used to [[e/_express|express]] [[p/_pity|pity]].**
 	- _Example: Oh you poor little thing._
@@ -15,7 +15,7 @@
 	- _Example: Cow's milk is poor in iron._
 - **[[i/_inadequate|Inadequate]], [[i/_insufficient|insufficient]].**
 	- _Example: I received a poor reward for all my hard work._
-- **[[f/_free|Free]] from self-[[a/_assertion|assertion]]; not proud or [[a/_arrogant|arrogant]]; [[m/_meek|meek]].**
+- **[[f/_free|Free]] from [[s/_self|self]]-[[a/_assertion|assertion]]; not [[p/_proud|proud]] or [[a/_arrogant|arrogant]]; [[m/_meek|meek]].**
 ---
 ### Synonyms
 - [[i/_inferior|inferior]], [[a/_arm|arm]], [[p/_pitiable|pitiable]]

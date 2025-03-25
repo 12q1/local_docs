@@ -5,6 +5,6 @@
 - **To [[p/_plait|plait]].**
 ---
 #noun
-- **An [[a/_action|action]] or [[a/_arrangement|arrangement]] in which something is [[p/_pleated|pleated]].**
+- **An [[a/_action|action]] or [[a/_arrangement|arrangement]] in which [[s/_something|something]] is [[p/_pleated|pleated]].**
 ---
 ---

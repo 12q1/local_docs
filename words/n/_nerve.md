@@ -1,7 +1,7 @@
 # Nerve
 ---
 #noun
-- **A [[b/_bundle|bundle]] of [[n/_neurons|neurons]] with their [[c/_connective|connective]] tissue sheaths, [[b/_blood|blood]] vessels and lymphatics.**
+- **A [[b/_bundle|bundle]] of [[n/_neurons|neurons]] with their [[c/_connective|connective]] tissue [[s/_sheaths|sheaths]], [[b/_blood|blood]] vessels and lymphatics.**
 	- _Example: The nerves can be seen through the skin._
 - **A [[n/_neuron|neuron]].**
 - **A vein in a [[l/_leaf|leaf]]; a [[g/_grain|grain]] in wood**
@@ -13,10 +13,10 @@
 - **Stamina, [[e/_endurance|endurance]], [[f/_fortitude|fortitude]].**
 - **[[a/_audacity|Audacity]], [[g/_gall|gall]].**
 	- _Example: He had the nerve to enter my house uninvited._
-- **([[p/_polymer|polymer]] technology) The [[e/_elastic|elastic]] resistance of raw rubber or [[o/_other|other]] [[p/_polymers|polymers]] to [[p/_permanent|permanent]] [[d/_deformation|deformation]] [[d/_during|during]] processing.**
+- **([[p/_polymer|polymer]] technology) The [[e/_elastic|elastic]] [[r/_resistance|resistance]] of [[r/_raw|raw]] [[r/_rubber|rubber]] or [[o/_other|other]] [[p/_polymers|polymers]] to [[p/_permanent|permanent]] [[d/_deformation|deformation]] [[d/_during|during]] [[p/_processing|processing]].**
 - **(in the [[p/_plural|plural]]) [[a/_agitation|Agitation]] [[c/_caused|caused]] by [[f/_fear|fear]], stress or [[o/_other|other]] [[n/_negative|negative]] [[e/_emotion|emotion]].**
 	- _Example: Ellie had a bad case of nerves before the big test._
-- **Sinew, tendon.**
+- **[[s/_sinew|Sinew]], tendon.**
 ---
 ### Synonyms
 - [[b/_balls|balls]], [[b/_brashness|brashness]], [[b/_brazenness|brazenness]]

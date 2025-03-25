@@ -1,9 +1,9 @@
 # Premieres
 ---
 #noun
-- **The [[f/_first|first]] showing of a [[f/_film|film]], [[p/_play|play]] or [[o/_other|other]] [[f/_form|form]] of [[e/_entertainment|entertainment]], [[o/_often|often]] [[h/_held|held]] as a special [[e/_event|event]] with [[c/_celebrity|celebrity]] [[g/_guests|guests]].**
-- **The [[f/_first|first]] [[e/_episode|episode]] of a television show or a [[p/_particular|particular]] season of that show.**
-- **In a series of [[n/_narrative|narrative]] works, the [[i/_installment|installment]] that is [[c/_chronologically|chronologically]] set [[f/_first|first]].**
+- **The [[f/_first|first]] [[s/_showing|showing]] of a [[f/_film|film]], [[p/_play|play]] or [[o/_other|other]] [[f/_form|form]] of [[e/_entertainment|entertainment]], [[o/_often|often]] [[h/_held|held]] as a special [[e/_event|event]] with [[c/_celebrity|celebrity]] [[g/_guests|guests]].**
+- **The [[f/_first|first]] [[e/_episode|episode]] of a television [[s/_show|show]] or a [[p/_particular|particular]] [[s/_season|season]] of that [[s/_show|show]].**
+- **In a [[s/_series|series]] of [[n/_narrative|narrative]] works, the [[i/_installment|installment]] that is [[c/_chronologically|chronologically]] [[s/_set|set]] [[f/_first|first]].**
 - **The [[l/_leading|leading]] woman of a [[g/_group|group]], [[e/_especially|especially]] in a theatrical [[c/_cast|cast]].**
 ---
 ### Antonyms

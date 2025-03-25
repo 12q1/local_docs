@@ -2,8 +2,8 @@
 ---
 #noun
 - **The [[b/_back|back]] of the [[n/_neck|neck]].**
-- **Short for [[n/_nuchal|nuchal]] translucency scan.**
-- **A [[n/_neck|neck]] scale, [[e/_especially|especially]] of a [[l/_lizard|lizard]].**
+- **[[s/_short|Short]] for [[n/_nuchal|nuchal]] translucency [[s/_scan|scan]].**
+- **A [[n/_neck|neck]] [[s/_scale|scale]], [[e/_especially|especially]] of a [[l/_lizard|lizard]].**
 ---
 ### Synonyms
 - [[n/_nape|nape]], [[n/_nucha|nucha]]

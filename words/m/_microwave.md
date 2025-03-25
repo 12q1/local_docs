@@ -1,12 +1,12 @@
 # Microwave
 ---
 #noun
-- **An [[e/_electromagnetic|electromagnetic]] wave with wavelength [[b/_between|between]] that of [[i/_infrared|infrared]] [[l/_light|light]] and radio waves.**
+- **An [[e/_electromagnetic|electromagnetic]] wave with wavelength [[b/_between|between]] that of [[i/_infrared|infrared]] [[l/_light|light]] and [[r/_radio|radio]] waves.**
 ---
 ### Synonyms
 - [[S/_SHF|SHF]]
 #verb
-- **To [[c/_cook|cook]] (something) in a [[m/_microwave|microwave]] [[o/_oven|oven]].**
+- **To [[c/_cook|cook]] ([[s/_something|something]]) in a [[m/_microwave|microwave]] [[o/_oven|oven]].**
 ---
 ### Synonyms
 - [[n/_nuke|nuke]]

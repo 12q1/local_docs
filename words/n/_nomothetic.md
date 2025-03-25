@@ -1,6 +1,6 @@
 # Nomothetic
 ---
 #adjective
-- **Relating to the underlying [[l/_laws|laws]] of a subject**
+- **[[r/_relating|Relating]] to the underlying [[l/_laws|laws]] of a subject**
 ---
 ---

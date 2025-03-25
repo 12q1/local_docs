@@ -7,8 +7,8 @@
 	- _Example: I don’t know how many books are in the library, but they must number in the thousands._
 ---
 #noun
-- **A sequence of [[n/_numbers|numbers]] [[i/_indicating|indicating]] [[o/_order|order]] or [[o/_otherwise|otherwise]] used for [[i/_identification|identification]].**
-- **The [[a/_action|action]] of [[c/_creating|creating]] or [[a/_assigning|assigning]] such a sequence for [[i/_identification|identification]].**
+- **A [[s/_sequence|sequence]] of [[n/_numbers|numbers]] [[i/_indicating|indicating]] [[o/_order|order]] or [[o/_otherwise|otherwise]] used for [[i/_identification|identification]].**
+- **The [[a/_action|action]] of [[c/_creating|creating]] or [[a/_assigning|assigning]] such a [[s/_sequence|sequence]] for [[i/_identification|identification]].**
 - **The [[a/_action|action]] of [[c/_counting|counting]] or [[o/_ordering|ordering]] with [[n/_numbers|numbers]].**
 ---
 ### Synonyms

@@ -5,6 +5,6 @@
 - **A [[l/_letter|letter]] that is not uppercase.**
 ---
 #adjective
-- **Not [[c/_capital|capital]] (in various senses).**
+- **Not [[c/_capital|capital]] (in various [[s/_senses|senses]]).**
 ---
 ---

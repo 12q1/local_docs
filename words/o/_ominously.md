@@ -1,6 +1,6 @@
 # Ominously
 ---
 #adverb
-- **In an [[o/_ominous|ominous]] [[m/_manner|manner]]; with sinister [[f/_foreboding|foreboding]].**
+- **In an [[o/_ominous|ominous]] [[m/_manner|manner]]; with [[s/_sinister|sinister]] [[f/_foreboding|foreboding]].**
 ---
 ---

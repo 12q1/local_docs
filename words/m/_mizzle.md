@@ -1,10 +1,10 @@
 # Mizzle
 ---
 #noun
-- **[[m/_misty|Misty]] rain or [[d/_drizzle|drizzle]].**
+- **[[m/_misty|Misty]] [[r/_rain|rain]] or [[d/_drizzle|drizzle]].**
 ---
 #verb
-- **To rain in very [[f/_fine|fine]] [[d/_drops|drops]].**
+- **To [[r/_rain|rain]] in very [[f/_fine|fine]] [[d/_drops|drops]].**
 ---
 ### Synonyms
 - [[d/_drizzle|drizzle]]

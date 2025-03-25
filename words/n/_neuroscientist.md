@@ -1,6 +1,6 @@
 # Neuroscientist
 ---
 #noun
-- **A scientist whose speciality is [[n/_neuroscience|neuroscience]].**
+- **A [[s/_scientist|scientist]] whose speciality is [[n/_neuroscience|neuroscience]].**
 ---
 ---

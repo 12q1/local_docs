@@ -1,6 +1,6 @@
 # Minge
 ---
 #noun
-- **The pubic [[h/_hair|hair]] and vulva.**
+- **The [[p/_pubic|pubic]] [[h/_hair|hair]] and vulva.**
 ---
 ---

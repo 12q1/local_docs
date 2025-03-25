@@ -1,6 +1,6 @@
 # Nubbly
 ---
 #adjective
-- **Rough or [[l/_lumpy|lumpy]]**
+- **[[r/_rough|Rough]] or [[l/_lumpy|lumpy]]**
 ---
 ---

@@ -1,0 +1,7 @@
+# Reshuffled
+---
+#verb
+- **To [[s/_shuffle|shuffle]] [[s/_something|something]] [[a/_again|again]], [[e/_especially|especially]] [[p/_playing|playing]] [[c/_cards|cards]]**
+- **To [[r/_reorganize|reorganize]] or [[r/_rearrange|rearrange]] [[s/_something|something]], [[e/_especially|especially]] [[g/_government|government]] [[p/_posts|posts]]**
+---
+---

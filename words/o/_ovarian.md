@@ -1,6 +1,6 @@
 # Ovarian
 ---
 #adjective
-- **Relating to the [[o/_ovaries|ovaries]].**
+- **[[r/_relating|Relating]] to the [[o/_ovaries|ovaries]].**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[c/_characteristic|characteristic]] of [[b/_being|being]] [[p/_pessimistic|pessimistic]] or contrarian.**
-- **[[n/_negative|Negative]] sentiment.**
+- **[[n/_negative|Negative]] [[s/_sentiment|sentiment]].**
 - **The [[c/_characteristic|characteristic]] of [[h/_having|having]] a [[n/_negative|negative]] [[c/_charge|charge]].**
 ---
 ### Synonyms

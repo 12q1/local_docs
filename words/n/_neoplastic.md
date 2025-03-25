@@ -1,6 +1,6 @@
 # Neoplastic
 ---
 #adjective
-- **Of or relating to a [[n/_neoplasm|neoplasm]], [[n/_neoplasty|neoplasty]] or [[n/_neoplasia|neoplasia]]**
+- **Of or [[r/_relating|relating]] to a [[n/_neoplasm|neoplasm]], [[n/_neoplasty|neoplasty]] or [[n/_neoplasia|neoplasia]]**
 ---
 ---

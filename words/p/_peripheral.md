@@ -11,6 +11,6 @@
 - **[[b/_beside|Beside]] the [[p/_point|point]].**
 - **Unimportant.**
 - **[[a/_auxiliary|Auxiliary]].**
-- **Related to or [[l/_located|located]] in the [[p/_peripheral|peripheral]] [[n/_nervous|nervous]] system.**
+- **[[r/_related|Related]] to or [[l/_located|located]] in the [[p/_peripheral|peripheral]] [[n/_nervous|nervous]] [[s/_system|system]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Permittee
 ---
 #noun
-- **[[o/_one|One]] who receives a [[p/_permit|permit]].**
+- **[[o/_one|One]] who [[r/_receives|receives]] a [[p/_permit|permit]].**
 ---
 ---

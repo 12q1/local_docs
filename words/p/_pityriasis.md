@@ -1,6 +1,6 @@
 # Pityriasis
 ---
 #noun
-- **[[a/_any|Any]] of several varieties of skin [[d/_diseases|diseases]] [[c/_characterized|characterized]] by the shedding of [[f/_flakes|flakes]] or scales.**
+- **[[a/_any|Any]] of [[s/_several|several]] varieties of [[s/_skin|skin]] [[d/_diseases|diseases]] [[c/_characterized|characterized]] by the [[s/_shedding|shedding]] of [[f/_flakes|flakes]] or [[s/_scales|scales]].**
 ---
 ---

@@ -6,10 +6,10 @@
 	- _Example: I have an overdraft of £1234._
 - **The [[m/_maximum|maximum]] [[a/_amount|amount]] that [[m/_may|may]] be [[o/_overdrawn|overdrawn]].**
 	- _Example: The bank have given me an overdraft of $2000._
-- **The [[e/_extraction|extraction]] of [[g/_groundwater|groundwater]] from an [[a/_aquifer|aquifer]] [[b/_beyond|beyond]] the safe [[y/_yield|yield]] or [[e/_equilibrium|equilibrium]] [[y/_yield|yield]].**
-- **A series of [[f/_flues|flues]] in a [[f/_furnace|furnace]]; the [[c/_current|current]] of [[a/_air|air]] [[f/_forced|forced]] through them.**
+- **The [[e/_extraction|extraction]] of [[g/_groundwater|groundwater]] from an [[a/_aquifer|aquifer]] [[b/_beyond|beyond]] the [[s/_safe|safe]] [[y/_yield|yield]] or [[e/_equilibrium|equilibrium]] [[y/_yield|yield]].**
+- **A [[s/_series|series]] of [[f/_flues|flues]] in a [[f/_furnace|furnace]]; the [[c/_current|current]] of [[a/_air|air]] [[f/_forced|forced]] through them.**
 ---
 #verb
-- **To [[e/_extract|extract]] [[g/_groundwater|groundwater]] from (an [[a/_aquifer|aquifer]]) [[b/_beyond|beyond]] the safe [[y/_yield|yield]] or [[e/_equilibrium|equilibrium]] [[y/_yield|yield]].**
+- **To [[e/_extract|extract]] [[g/_groundwater|groundwater]] from (an [[a/_aquifer|aquifer]]) [[b/_beyond|beyond]] the [[s/_safe|safe]] [[y/_yield|yield]] or [[e/_equilibrium|equilibrium]] [[y/_yield|yield]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Meeker
 ---
 #adjective
-- **[[h/_humble|Humble]], [[n/_non|non]]-[[b/_boastful|boastful]], [[m/_modest|modest]], [[m/_meager|meager]], or self-[[e/_effacing|effacing]].**
+- **[[h/_humble|Humble]], [[n/_non|non]]-[[b/_boastful|boastful]], [[m/_modest|modest]], [[m/_meager|meager]], or [[s/_self|self]]-[[e/_effacing|effacing]].**
 - **Submissive, [[d/_dispirited|dispirited]].**
 ---
 ---

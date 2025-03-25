@@ -1,6 +1,6 @@
 # Natation
 ---
 #noun
-- **The [[a/_act|act]] or process of swimming**
+- **The [[a/_act|act]] or [[p/_process|process]] of swimming**
 ---
 ---

@@ -1,7 +1,7 @@
 # Occupied
 ---
 #adjective
-- **Reserved, [[e/_engaged|engaged]].**
+- **[[r/_reserved|Reserved]], [[e/_engaged|engaged]].**
 	- _Example: The stall on the left is occupied._
 - **[[b/_busy|Busy]], unavailable.**
 	- _Example: She is occupied at the moment._
@@ -10,8 +10,8 @@
 ---
 #verb
 - **(of time) To take or use.**
-- **To take or use space.**
-- **To [[h/_have|have]] sexual [[i/_intercourse|intercourse]] with.**
+- **To take or use [[s/_space|space]].**
+- **To [[h/_have|have]] [[s/_sexual|sexual]] [[i/_intercourse|intercourse]] with.**
 - **To [[d/_do|do]] [[b/_business|business]] in; to [[b/_busy|busy]] [[o/_oneself|oneself]] with.**
 - **To use; to [[e/_expend|expend]]; to [[m/_make|make]] use of.**
 ---

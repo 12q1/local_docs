@@ -1,7 +1,7 @@
 # Pinnacled
 ---
 #verb
-- **To put something on a [[p/_pinnacle|pinnacle]].**
+- **To [[p/_put|put]] [[s/_something|something]] on a [[p/_pinnacle|pinnacle]].**
 - **To [[b/_build|build]] or [[f/_furnish|furnish]] with a [[p/_pinnacle|pinnacle]] or [[p/_pinnacles|pinnacles]].**
 ---
 #adjective

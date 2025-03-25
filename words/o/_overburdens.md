@@ -1,7 +1,7 @@
 # Overburdens
 ---
 #noun
-- **The rock and subsoil that [[l/_lies|lies]] [[a/_above|above]] a [[m/_mineral|mineral]] [[d/_deposit|deposit]] such as a [[c/_coal|coal]] seam.**
+- **The [[r/_rock|rock]] and subsoil that [[l/_lies|lies]] [[a/_above|above]] a [[m/_mineral|mineral]] [[d/_deposit|deposit]] such as a [[c/_coal|coal]] [[s/_seam|seam]].**
 - **A sterile stratum that [[l/_lies|lies]] [[a/_above|above]] the stratum [[b/_being|being]] [[i/_investigated|investigated]]**
 ---
 #verb

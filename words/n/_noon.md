@@ -12,6 +12,6 @@
 ### Antonyms
 - [[m/_midnight|midnight]]
 #verb
-- **To relax or sleep [[a/_around|around]] [[m/_midday|midday]]**
+- **To [[r/_relax|relax]] or [[s/_sleep|sleep]] [[a/_around|around]] [[m/_midday|midday]]**
 ---
 ---

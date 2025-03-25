@@ -8,35 +8,35 @@
 - [[n/_now|now]]
 #noun
 - **A [[g/_gift|gift]], [[e/_especially|especially]] [[o/_one|one]] [[g/_given|given]] for [[b/_birthdays|birthdays]], [[c/_christmas|Christmas]], [[a/_anniversaries|anniversaries]], [[g/_graduations|graduations]], weddings, or [[a/_any|any]] [[o/_other|other]] special [[o/_occasions|occasions]].**
-- **The [[p/_position|position]] of a soldier in [[p/_presenting|presenting]] [[a/_arms|arms]].**
+- **The [[p/_position|position]] of a [[s/_soldier|soldier]] in [[p/_presenting|presenting]] [[a/_arms|arms]].**
 	- _Example: to stand at present_
 ---
 #verb
-- **To [[b/_bring|bring]] (someone) [[i/_into|into]] the [[p/_presence|presence]] of (a [[p/_person|person]]); to [[i/_introduce|introduce]] [[f/_formally|formally]].**
+- **To [[b/_bring|bring]] ([[s/_someone|someone]]) [[i/_into|into]] the [[p/_presence|presence]] of (a [[p/_person|person]]); to [[i/_introduce|introduce]] [[f/_formally|formally]].**
 	- _Example: to present an envoy to the king_
 - **To [[n/_nominate|nominate]] (a [[m/_member|member]] of the [[c/_clergy|clergy]]) for an [[e/_ecclesiastical|ecclesiastical]] [[b/_benefice|benefice]]; to [[o/_offer|offer]] to the [[b/_bishop|bishop]] or [[o/_ordinary|ordinary]] as a [[c/_candidate|candidate]] for [[i/_institution|institution]].**
-- **To [[o/_offer|offer]] (a problem, [[c/_complaint|complaint]]) to a [[c/_court|court]] or [[o/_other|other]] [[a/_authority|authority]] for [[c/_consideration|consideration]].**
+- **To [[o/_offer|offer]] (a [[p/_problem|problem]], [[c/_complaint|complaint]]) to a [[c/_court|court]] or [[o/_other|other]] [[a/_authority|authority]] for [[c/_consideration|consideration]].**
 - **To [[c/_charge|charge]] (a [[p/_person|person]]) with a [[c/_crime|crime]] or [[a/_accusation|accusation]]; to [[b/_bring|bring]] [[b/_before|before]] [[c/_court|court]].**
 - **To [[c/_come|come]] [[f/_forward|forward]], [[a/_appear|appear]] in a [[p/_particular|particular]] [[p/_place|place]] or [[b/_before|before]] a [[p/_particular|particular]] [[p/_person|person]], [[e/_especially|especially]] [[f/_formally|formally]].**
-- **To put (something) [[f/_forward|forward]] in [[o/_order|order]] for it to be seen; to show, [[e/_exhibit|exhibit]].**
-- **To [[m/_make|make]] [[c/_clear|clear]] to [[o/_one|one]]'s [[m/_mind|mind]] or [[i/_intelligence|intelligence]]; to put [[f/_forward|forward]] for [[c/_consideration|consideration]].**
-- **To put on, stage (a [[p/_play|play]] [[e/_etc|etc]].).**
+- **To [[p/_put|put]] ([[s/_something|something]]) [[f/_forward|forward]] in [[o/_order|order]] for it to be [[s/_seen|seen]]; to [[s/_show|show]], [[e/_exhibit|exhibit]].**
+- **To [[m/_make|make]] [[c/_clear|clear]] to [[o/_one|one]]'[[s/_s|s]] [[m/_mind|mind]] or [[i/_intelligence|intelligence]]; to [[p/_put|put]] [[f/_forward|forward]] for [[c/_consideration|consideration]].**
+- **To [[p/_put|put]] on, stage (a [[p/_play|play]] [[e/_etc|etc]].).**
 	- _Example: The theater is proud to present the Fearless Fliers._
-- **To [[p/_point|point]] (a [[f/_firearm|firearm]]) at something, to [[h/_hold|hold]] (a weapon) in a [[p/_position|position]] ready to [[f/_fire|fire]].**
+- **To [[p/_point|point]] (a [[f/_firearm|firearm]]) at [[s/_something|something]], to [[h/_hold|hold]] (a weapon) in a [[p/_position|position]] [[r/_ready|ready]] to [[f/_fire|fire]].**
 - **To [[o/_offer|offer]] [[o/_oneself|oneself]] for [[m/_mental|mental]] [[c/_consideration|consideration]]; to [[o/_occur|occur]] to the [[m/_mind|mind]].**
 	- _Example: Well, one idea does present itself._
-- **To [[c/_come|come]] to the [[a/_attention|attention]] of [[m/_medical|medical]] staff, [[e/_especially|especially]] with a specific symptom.**
+- **To [[c/_come|come]] to the [[a/_attention|attention]] of [[m/_medical|medical]] staff, [[e/_especially|especially]] with a specific [[s/_symptom|symptom]].**
 	- _Example: The patient presented with insomnia._
 - **To [[a/_appear|appear]] (in a specific way) for [[d/_delivery|delivery]] (of a [[f/_fetus|fetus]]); to [[a/_appear|appear]] [[f/_first|first]] at the [[m/_mouth|mouth]] of the uterus [[d/_during|during]] [[c/_childbirth|childbirth]].**
-- **(with "as") To [[a/_appear|appear]] or represent [[o/_oneself|oneself]] (as [[h/_having|having]] a [[c/_certain|certain]] [[g/_gender|gender]]).**
-- **To [[a/_act|act]] as [[p/_presenter|presenter]] on (a radio, television programme [[e/_etc|etc]].).**
-- **To [[g/_give|give]] a [[g/_gift|gift]] or [[p/_presentation|presentation]] to (someone).**
+- **(with "as") To [[a/_appear|appear]] or [[r/_represent|represent]] [[o/_oneself|oneself]] (as [[h/_having|having]] a [[c/_certain|certain]] [[g/_gender|gender]]).**
+- **To [[a/_act|act]] as [[p/_presenter|presenter]] on (a [[r/_radio|radio]], television [[p/_programme|programme]] [[e/_etc|etc]].).**
+- **To [[g/_give|give]] a [[g/_gift|gift]] or [[p/_presentation|presentation]] to ([[s/_someone|someone]]).**
 	- _Example: She was presented with an honorary degree for her services to entertainment._
-- **To [[g/_give|give]] (a [[g/_gift|gift]] or [[p/_presentation|presentation]]) to someone; to [[b/_bestow|bestow]].**
-- **To [[d/_deliver|deliver]] (something [[a/_abstract|abstract]]) as though as a [[g/_gift|gift]]; to [[o/_offer|offer]].**
+- **To [[g/_give|give]] (a [[g/_gift|gift]] or [[p/_presentation|presentation]]) to [[s/_someone|someone]]; to [[b/_bestow|bestow]].**
+- **To [[d/_deliver|deliver]] ([[s/_something|something]] [[a/_abstract|abstract]]) as though as a [[g/_gift|gift]]; to [[o/_offer|offer]].**
 	- _Example: I presented my compliments to Lady Featherstoneshaw._
 - **To [[h/_hand|hand]] [[o/_over|over]] (a [[b/_bill|bill]] [[e/_etc|etc]].) to be [[p/_paid|paid]].**
-- **To [[d/_display|display]] [[o/_one|one]]'s [[f/_female|female]] [[g/_genitalia|genitalia]] in a way that signals to [[o/_others|others]] that [[o/_one|one]] is ready for [[c/_copulation|copulation]]. [[a/_also|Also]] referred to as [[l/_lordosis|lordosis]] [[b/_behaviour|behaviour]].**
+- **To [[d/_display|display]] [[o/_one|one]]'[[s/_s|s]] [[f/_female|female]] [[g/_genitalia|genitalia]] in a way that [[s/_signals|signals]] to [[o/_others|others]] that [[o/_one|one]] is [[r/_ready|ready]] for [[c/_copulation|copulation]]. [[a/_also|Also]] [[r/_referred|referred]] to as [[l/_lordosis|lordosis]] [[b/_behaviour|behaviour]].**
 ---
 #noun
 - **The [[d/_document|document]] in which the word [[p/_presents|presents]] [[a/_appears|appears]].**

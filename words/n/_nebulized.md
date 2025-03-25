@@ -5,7 +5,7 @@
 - **To treat a [[p/_patient|patient]] with [[m/_medicine|medicine]] [[a/_applied|applied]] using a [[n/_nebulizer|nebulizer]]**
 ---
 #adjective
-- **Produced by [[n/_nebulization|nebulization]]; turned from [[l/_liquid|liquid]] to a spray or [[m/_mist|mist]].**
+- **[[p/_produced|Produced]] by [[n/_nebulization|nebulization]]; turned from [[l/_liquid|liquid]] to a spray or [[m/_mist|mist]].**
 	- _Example: Antibiotic treatment of bacterial pneumonia sometimes requires nebulized colistin._
 ---
 ### Synonyms

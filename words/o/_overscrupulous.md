@@ -1,6 +1,6 @@
 # Overscrupulous
 ---
 #adjective
-- **[[e/_excessively|Excessively]] scrupulous.**
+- **[[e/_excessively|Excessively]] [[s/_scrupulous|scrupulous]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Neurologic
 ---
 #adjective
-- **Relating to [[n/_neurology|neurology]] or the [[n/_nervous|nervous]] system.**
+- **[[r/_relating|Relating]] to [[n/_neurology|neurology]] or the [[n/_nervous|nervous]] [[s/_system|system]].**
 ---
 ### Synonyms
 - [[n/_neurological|neurological]]

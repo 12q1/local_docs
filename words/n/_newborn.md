@@ -1,12 +1,12 @@
 # Newborn
 ---
 #noun
-- **A recently [[b/_born|born]] [[b/_baby|baby]].**
+- **A [[r/_recently|recently]] [[b/_born|born]] [[b/_baby|baby]].**
 ---
 ### Synonyms
 - [[n/_neonate|neonate]]
 #adjective
-- **Recently [[b/_born|born]].**
-- **[[b/_born|Born]] [[a/_anew|anew]], reborn.**
+- **[[r/_recently|Recently]] [[b/_born|born]].**
+- **[[b/_born|Born]] [[a/_anew|anew]], [[r/_reborn|reborn]].**
 ---
 ---

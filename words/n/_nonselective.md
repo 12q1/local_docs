@@ -1,6 +1,6 @@
 # Nonselective
 ---
 #adjective
-- **Not selective**
+- **Not [[s/_selective|selective]]**
 ---
 ---

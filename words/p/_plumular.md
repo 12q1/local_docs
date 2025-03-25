@@ -1,6 +1,6 @@
 # Plumular
 ---
 #adjective
-- **Relating to a [[p/_plumule|plumule]].**
+- **[[r/_relating|Relating]] to a [[p/_plumule|plumule]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Omophagy
 ---
 #noun
-- **The [[e/_eating|eating]] of raw [[f/_flesh|flesh]].**
+- **The [[e/_eating|eating]] of [[r/_raw|raw]] [[f/_flesh|flesh]].**
 ---
 ---

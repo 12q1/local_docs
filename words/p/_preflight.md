@@ -8,6 +8,6 @@
 ---
 #adjective
 - **Taking [[p/_place|place]] [[b/_before|before]] the start of a [[f/_flight|flight]].**
-- **Serving to [[c/_confirm|confirm]] that requests [[c/_can|can]] be [[a/_accepted|accepted]], [[b/_before|before]] sending an [[a/_actual|actual]] request.**
+- **[[s/_serving|Serving]] to [[c/_confirm|confirm]] that [[r/_requests|requests]] [[c/_can|can]] be [[a/_accepted|accepted]], [[b/_before|before]] [[s/_sending|sending]] an [[a/_actual|actual]] [[r/_request|request]].**
 ---
 ---

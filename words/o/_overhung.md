@@ -1,7 +1,7 @@
 # Overhung
 ---
 #verb
-- **To [[h/_hang|hang]] [[o/_over|over]] (something).**
+- **To [[h/_hang|hang]] [[o/_over|over]] ([[s/_something|something]]).**
 - **To [[i/_impend|impend]].**
 ---
 #adjective

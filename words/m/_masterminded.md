@@ -1,6 +1,6 @@
 # Masterminded
 ---
 #verb
-- **To [[a/_act|act]] in the role of [[m/_mastermind|mastermind]].**
+- **To [[a/_act|act]] in the [[r/_role|role]] of [[m/_mastermind|mastermind]].**
 ---
 ---

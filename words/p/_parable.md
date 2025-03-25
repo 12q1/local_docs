@@ -1,10 +1,10 @@
 # Parable
 ---
 #noun
-- **A short [[n/_narrative|narrative]] [[i/_illustrating|illustrating]] a [[l/_lesson|lesson]] (usually religious/[[m/_moral|moral]]) by [[c/_comparison|comparison]] or [[a/_analogy|analogy]].**
+- **A [[s/_short|short]] [[n/_narrative|narrative]] [[i/_illustrating|illustrating]] a [[l/_lesson|lesson]] (usually [[r/_religious|religious]]/[[m/_moral|moral]]) by [[c/_comparison|comparison]] or [[a/_analogy|analogy]].**
 	- _Example: Catholic sermons normally draw on at least one Biblical lecture, often parables._
 ---
 #verb
-- **To represent by [[p/_parable|parable]].**
+- **To [[r/_represent|represent]] by [[p/_parable|parable]].**
 ---
 ---

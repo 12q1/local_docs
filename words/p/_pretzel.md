@@ -1,7 +1,7 @@
 # Pretzel
 ---
 #noun
-- **A toasted [[b/_bread|bread]] or [[c/_cracker|cracker]] usually in the shape of a [[l/_loose|loose]] [[k/_knot|knot]].**
+- **A toasted [[b/_bread|bread]] or [[c/_cracker|cracker]] usually in the [[s/_shape|shape]] of a [[l/_loose|loose]] [[k/_knot|knot]].**
 - **(by [[e/_extension|extension]]) [[a/_anything|Anything]] that is [[k/_knotted|knotted]], twisted, or tangled.**
 ---
 #verb

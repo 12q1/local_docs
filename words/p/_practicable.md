@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[c/_capable|Capable]] of [[b/_being|being]] [[a/_accomplished|accomplished]]; [[f/_feasible|feasible]].**
-- **Serving a useful [[f/_function|function]]; useful, [[f/_functional|functional]] or [[h/_handy|handy]].**
+- **[[s/_serving|Serving]] a useful [[f/_function|function]]; useful, [[f/_functional|functional]] or [[h/_handy|handy]].**
 - **[[a/_available|Available]] for use; [[a/_accessible|accessible]] or [[e/_employable|employable]].**
 ---
 ### Synonyms

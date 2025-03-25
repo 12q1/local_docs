@@ -1,0 +1,94 @@
+# Running
+---
+#verb
+- **To [[m/_move|move]] swiftly.**
+- **([[f/_fluids|fluids]]) To [[f/_flow|flow]].**
+- **(of a vessel) To [[s/_sail|sail]] [[b/_before|before]] the wind, in [[d/_distinction|distinction]] from [[r/_reaching|reaching]] or [[s/_sailing|sailing]] [[c/_close|close]]-[[h/_hauled|hauled]].**
+- **To [[c/_control|control]] or [[m/_manage|manage]], be in [[c/_charge|charge]] of.**
+	- _Example: He is running the candidate's expensive campaign._
+- **To be a [[c/_candidate|candidate]] in an [[e/_election|election]].**
+	- _Example: I have decided to run for governor of California._
+- **To [[m/_make|make]] [[r/_run|run]] in a [[r/_race|race]] or an [[e/_election|election]].**
+	- _Example: He ran his best horse in the Derby._
+- **To [[e/_exert|exert]] [[c/_continuous|continuous]] [[a/_activity|activity]]; to [[p/_proceed|proceed]].**
+	- _Example: to run through life; to run in a circle_
+- **To be [[p/_presented|presented]] in the [[m/_media|media]].**
+	- _Example: Her picture ran on the front page of the newspaper._
+- **To [[p/_print|print]] or [[b/_broadcast|broadcast]] in the [[m/_media|media]].**
+	- _Example: run a story; run an ad_
+- **To [[s/_smuggle|smuggle]] ([[i/_illegal|illegal]] [[g/_goods|goods]]).**
+	- _Example: to run guns; to run rum_
+- **To [[s/_sort|sort]] through a [[l/_large|large]] volume of [[p/_produce|produce]] in [[q/_quality|quality]] [[c/_control|control]].**
+	- _Example: Looks like we're gonna have to run the tomatoes again._
+- **To [[e/_extend|extend]] or [[p/_persist|persist]], statically or [[d/_dynamically|dynamically]], through [[s/_space|space]] or time.**
+- **To [[e/_execute|execute]] or [[c/_carry|carry]] [[o/_out|out]] a [[p/_plan|plan]], [[p/_procedure|procedure]] or [[p/_program|program]].**
+	- _Example: Don't run that software unless you have permission._
+- **To [[p/_pass|pass]] or [[g/_go|go]] [[q/_quickly|quickly]] in thought or [[c/_conversation|conversation]].**
+	- _Example: to run from one subject to another_
+- **To [[b/_become|become]] [[d/_different|different]] in a way [[m/_mentioned|mentioned]] (usually to [[b/_become|become]] worse).**
+	- _Example: Our supplies are running low._
+- **To [[c/_cost|cost]] a [[l/_large|large]] [[a/_amount|amount]] of [[m/_money|money]].**
+	- _Example: Buying a new laptop will run you a thousand dollars._
+- **Of stitches or stitched [[c/_clothing|clothing]], to unravel.**
+	- _Example: My stocking is running._
+- **To [[p/_pursue|pursue]] in thought; to [[c/_carry|carry]] in [[c/_contemplation|contemplation]].**
+- **To [[c/_cause|cause]] to [[e/_enter|enter]]; to thrust.**
+	- _Example: to run a sword into or through the body; to run a nail into one's foot_
+- **To [[d/_drive|drive]] or [[f/_force|force]]; to [[c/_cause|cause]], or [[p/_permit|permit]], to be [[d/_driven|driven]].**
+- **To [[c/_cause|cause]] to be [[d/_drawn|drawn]]; to [[m/_mark|mark]] [[o/_out|out]]; to [[i/_indicate|indicate]]; to [[d/_determine|determine]].**
+	- _Example: to run a line_
+- **To [[e/_encounter|encounter]] or [[i/_incur|incur]] (a [[d/_danger|danger]] or [[r/_risk|risk]]).**
+	- _Example: to run the risk of losing one's life_
+- **To [[p/_put|put]] at [[h/_hazard|hazard]]; to venture; to [[r/_risk|risk]].**
+- **To tease with [[s/_sarcasms|sarcasms]] and [[r/_ridicule|ridicule]].**
+- **To [[s/_sew|sew]] (a [[s/_seam|seam]]) by [[p/_passing|passing]] the [[n/_needle|needle]] through [[m/_material|material]] in a [[c/_continuous|continuous]] [[l/_line|line]], [[g/_generally|generally]] taking a [[s/_series|series]] of stitches on the [[n/_needle|needle]] at the [[s/_same|same]] time.**
+- **To [[c/_control|control]] or [[h/_have|have]] [[p/_precedence|precedence]] in a [[c/_card|card]] [[g/_game|game]].**
+	- _Example: Every three or four hands he would run the table._
+- **To be in [[f/_form|form]] thus, as a [[c/_combination|combination]] of words.**
+- **To be [[p/_popularly|popularly]] [[k/_known|known]]; to be [[g/_generally|generally]] [[r/_received|received]].**
+- **To [[h/_have|have]] [[g/_growth|growth]] or [[d/_development|development]].**
+	- _Example: Boys and girls run up rapidly._
+- **To tend, as to an [[e/_effect|effect]] or [[c/_consequence|consequence]]; to [[i/_incline|incline]].**
+- **To [[h/_have|have]] a [[l/_legal|legal]] [[c/_course|course]]; to be [[a/_attached|attached]]; to [[c/_continue|continue]] in [[f/_force|force]], [[e/_effect|effect]], or [[o/_operation|operation]]; to [[f/_follow|follow]]; to [[g/_go|go]] in [[c/_company|company]].**
+	- _Example: Certain covenants run with the land._
+- **To [[e/_encounter|encounter]] or suffer (a [[p/_particular|particular]], usually [[b/_bad|bad]], [[f/_fate|fate]] or [[m/_misfortune|misfortune]]).**
+- **To strike (the [[b/_ball|ball]]) in such a way as to [[c/_cause|cause]] it to [[r/_run|run]] [[a/_along|along]] the [[g/_ground|ground]], as when [[a/_approaching|approaching]] a [[h/_hole|hole]].**
+- **To speedrun.**
+---
+#noun
+- **The [[a/_action|action]] of the verb to [[r/_run|run]].**
+	- _Example: His running of the business leaves something to be desired._
+- **The [[a/_activity|activity]] of [[r/_running|running]] as a [[f/_form|form]] of [[e/_exercise|exercise]], as a sport, or for [[a/_any|any]] [[o/_other|other]] [[r/_reason|reason]]**
+	- _Example: Running is good exercise._
+- **That which [[r/_runs|runs]] or [[f/_flows|flows]]; the [[q/_quantity|quantity]] of a [[l/_liquid|liquid]] which [[f/_flows|flows]] in a [[c/_certain|certain]] time or [[d/_during|during]] a [[c/_certain|certain]] [[o/_operation|operation]].**
+	- _Example: the first running of a still_
+- **The [[d/_discharge|discharge]] from an ulcer or [[o/_other|other]] [[s/_sore|sore]].**
+---
+#adjective
+- **[[m/_moving|Moving]] or [[a/_advancing|advancing]] at a [[r/_run|run]].**
+- **[[p/_present|Present]], [[c/_current|current]].**
+	- _Example: running month_
+- **[[f/_flowing|Flowing]]; [[e/_easy|easy]]; [[c/_cursive|cursive]].**
+	- _Example: running handwriting_
+- **[[c/_continuous|Continuous]]; [[o/_ongoing|ongoing]]; [[k/_keeping|keeping]] [[a/_along|along]] step by step.**
+	- _Example: a running explanation_
+- **[[h/_having|Having]] a [[c/_continuous|continuous]] [[d/_design|design]] or [[p/_pattern|pattern]].**
+	- _Example: running bond; running ornament_
+- **[[c/_consecutive|Consecutive]].**
+- **[[e/_extending|Extending]] by a [[s/_slender|slender]] [[c/_climbing|climbing]] or trailing stem.**
+	- _Example: a running vine_
+- **[[d/_discharging|Discharging]] [[p/_pus|pus]].**
+	- _Example: a running sore_
+- **(of a [[n/_nose|nose]]) [[d/_discharging|Discharging]] [[s/_snot|snot]] or [[m/_mucus|mucus]].**
+	- _Example: a running nose_
+---
+### Synonyms
+- [[r/_runny|runny]]
+#adverb
+- **[[c/_consecutively|Consecutively]]; in a [[r/_row|row]]**
+	- _Example: Mom's strawberry jam won the blue ribbon at the Holland County Fair three years running._
+---
+#preposition
+- **[[a/_approaching|Approaching]]; [[a/_about|about]]; [[r/_roughly|roughly]].**
+---
+---

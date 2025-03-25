@@ -1,6 +1,6 @@
 # Myometrium
 ---
 #noun
-- **The smooth [[m/_muscle|muscle]] [[f/_forming|forming]] the wall of the uterus.**
+- **The [[s/_smooth|smooth]] [[m/_muscle|muscle]] [[f/_forming|forming]] the wall of the uterus.**
 ---
 ---

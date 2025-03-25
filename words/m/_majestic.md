@@ -1,6 +1,6 @@
 # Majestic
 ---
 #adjective
-- **[[h/_having|Having]] qualities of splendor or royalty.**
+- **[[h/_having|Having]] [[q/_qualities|qualities]] of splendor or [[r/_royalty|royalty]].**
 ---
 ---

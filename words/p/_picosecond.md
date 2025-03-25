@@ -1,6 +1,6 @@
 # Picosecond
 ---
 #noun
-- **An SI unit of time [[e/_equal|equal]] to 10-12 seconds. Symbol: ps**
+- **An [[s/_si|SI]] unit of time [[e/_equal|equal]] to 10-12 [[s/_seconds|seconds]]. [[s/_symbol|Symbol]]: [[p/_ps|ps]]**
 ---
 ---

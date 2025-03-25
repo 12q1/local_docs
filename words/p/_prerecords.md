@@ -1,6 +1,6 @@
 # Prerecords
 ---
 #verb
-- **To record in [[a/_advance|advance]].**
+- **To [[r/_record|record]] in [[a/_advance|advance]].**
 ---
 ---

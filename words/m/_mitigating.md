@@ -1,7 +1,7 @@
 # Mitigating
 ---
 #verb
-- **To reduce, [[l/_lessen|lessen]], or [[d/_decrease|decrease]]; to [[m/_make|make]] [[l/_less|less]] severe or [[e/_easier|easier]] to [[b/_bear|bear]].**
+- **To [[r/_reduce|reduce]], [[l/_lessen|lessen]], or [[d/_decrease|decrease]]; to [[m/_make|make]] [[l/_less|less]] [[s/_severe|severe]] or [[e/_easier|easier]] to [[b/_bear|bear]].**
 - **To [[d/_downplay|downplay]].**
 ---
 ### Synonyms
@@ -9,6 +9,6 @@
 ### Antonyms
 - [[a/_aggrandize|aggrandize]], [[a/_aggravate|aggravate]], [[e/_exacerbate|exacerbate]], [[i/_incite|incite]], [[i/_increase|increase]], [[i/_intensify|intensify]], [[i/_irritate|irritate]], [[w/_worsen|worsen]]
 #adjective
-- **That serves to [[m/_mitigate|mitigate]]**
+- **That [[s/_serves|serves]] to [[m/_mitigate|mitigate]]**
 ---
 ---

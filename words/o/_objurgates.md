@@ -1,6 +1,6 @@
 # Objurgates
 ---
 #verb
-- **To rebuke or scold strongly.**
+- **To [[r/_rebuke|rebuke]] or [[s/_scold|scold]] strongly.**
 ---
 ---

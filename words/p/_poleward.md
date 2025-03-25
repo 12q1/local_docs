@@ -1,7 +1,7 @@
 # Poleward
 ---
 #adjective
-- **Towards a ([[n/_north|north]] or south) [[p/_pole|pole]]**
+- **Towards a ([[n/_north|north]] or [[s/_south|south]]) [[p/_pole|pole]]**
 ---
 #adverb
 - **Towards a [[p/_pole|pole]] of a [[p/_planet|planet]]**

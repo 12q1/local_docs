@@ -1,13 +1,13 @@
 # Molecular
 ---
 #noun
-- **[[a/_any|Any]] [[c/_compound|compound]] [[h/_having|having]] a specified (range of) [[m/_molecular|molecular]] weight(s)**
+- **[[a/_any|Any]] [[c/_compound|compound]] [[h/_having|having]] a specified ([[r/_range|range]] of) [[m/_molecular|molecular]] weight([[s/_s|s]])**
 ---
 #adjective
-- **Relating to, or [[c/_consisting|consisting]] of, or produced by [[m/_molecules|molecules]].**
+- **[[r/_relating|Relating]] to, or [[c/_consisting|consisting]] of, or [[p/_produced|produced]] by [[m/_molecules|molecules]].**
 - **(of an [[e/_element|element]]) [[c/_combined|Combined]] with [[i/_itself|itself]] and with [[n/_no|no]] [[o/_other|other]] [[e/_element|element]]; [[e/_elemental|elemental]].**
-- **Relating to a simple or [[b/_basic|basic]] structure or [[o/_organization|organization]].**
-- **Relating to [[m/_molecular|molecular]] [[g/_gastronomy|gastronomy]].**
+- **[[r/_relating|Relating]] to a [[s/_simple|simple]] or [[b/_basic|basic]] structure or [[o/_organization|organization]].**
+- **[[r/_relating|Relating]] to [[m/_molecular|molecular]] [[g/_gastronomy|gastronomy]].**
 	- _Example: molecular dishes_
 ---
 ---

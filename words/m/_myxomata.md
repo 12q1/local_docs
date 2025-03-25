@@ -1,6 +1,6 @@
 # Myxomata
 ---
 #noun
-- **A tumor of primitive [[c/_connective|connective]] tissue.**
+- **A tumor of [[p/_primitive|primitive]] [[c/_connective|connective]] tissue.**
 ---
 ---

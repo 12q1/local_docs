@@ -1,6 +1,6 @@
 # Pentameral
 ---
 #adjective
-- **[[f/_fivefold|Fivefold]] (of a symmetry [[g/_group|group]])**
+- **[[f/_fivefold|Fivefold]] (of a [[s/_symmetry|symmetry]] [[g/_group|group]])**
 ---
 ---

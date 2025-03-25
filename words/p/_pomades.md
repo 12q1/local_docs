@@ -1,7 +1,7 @@
 # Pomades
 ---
 #noun
-- **A [[g/_greasy|greasy]] or waxy substance that is used to style [[h/_hair|hair]], [[m/_making|making]] it [[l/_look|look]] slick and shiny.**
+- **A [[g/_greasy|greasy]] or waxy substance that is used to style [[h/_hair|hair]], [[m/_making|making]] it [[l/_look|look]] [[s/_slick|slick]] and [[s/_shiny|shiny]].**
 - **[[a/_any|Any]] [[m/_medicinal|medicinal]] [[o/_ointment|ointment]].**
 ---
 #verb

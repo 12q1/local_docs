@@ -1,6 +1,6 @@
 # Pref
 ---
 #noun
-- **Short for [[p/_preference|preference]].**
+- **[[s/_short|Short]] for [[p/_preference|preference]].**
 ---
 ---

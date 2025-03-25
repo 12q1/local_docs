@@ -1,6 +1,6 @@
 # Pacesetter
 ---
 #noun
-- **A [[p/_person|person]] who [[d/_determines|determines]] the rate of [[a/_action|action]] through [[l/_leading|leading]].**
+- **A [[p/_person|person]] who [[d/_determines|determines]] the [[r/_rate|rate]] of [[a/_action|action]] through [[l/_leading|leading]].**
 ---
 ---

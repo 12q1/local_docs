@@ -1,7 +1,7 @@
 # Mesmerize
 ---
 #verb
-- **To [[e/_exercise|exercise]] [[m/_mesmerism|mesmerism]] on; to [[a/_affect|affect]] [[a/_another|another]] [[p/_person|person]], such as to [[h/_heal|heal]] or soothe, through the use of [[a/_animal|animal]] [[m/_magnetism|magnetism]].**
+- **To [[e/_exercise|exercise]] [[m/_mesmerism|mesmerism]] on; to [[a/_affect|affect]] [[a/_another|another]] [[p/_person|person]], such as to [[h/_heal|heal]] or [[s/_soothe|soothe]], through the use of [[a/_animal|animal]] [[m/_magnetism|magnetism]].**
 - **To spellbind; to [[e/_enthrall|enthrall]].**
 	- _Example: She mesmerized the audience with her tricks_
 ---

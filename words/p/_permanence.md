@@ -2,7 +2,7 @@
 ---
 #noun
 - **The state of [[b/_being|being]] [[p/_permanent|permanent]].**
-- **The reciprocal of [[m/_magnetic|magnetic]] [[i/_inductance|inductance]].**
+- **The [[r/_reciprocal|reciprocal]] of [[m/_magnetic|magnetic]] [[i/_inductance|inductance]].**
 ---
 ### Synonyms
 - [[p/_perdurance|perdurance]], [[r/_remanence|remanence]]

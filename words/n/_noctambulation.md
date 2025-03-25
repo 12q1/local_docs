@@ -1,6 +1,6 @@
 # Noctambulation
 ---
 #noun
-- **Sleepwalking**
+- **[[s/_sleepwalking|Sleepwalking]]**
 ---
 ---

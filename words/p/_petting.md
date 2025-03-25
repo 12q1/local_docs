@@ -13,7 +13,7 @@
 - [[m/_mope|mope]], [[p/_pout|pout]], [[g/_grope|grope]], [[p/_pat|pat]], [[s/_smooth|smooth]], [[c/_coddle|coddle]], [[c/_cosset|cosset]]
 #noun
 - **The [[a/_act|act]] of stroking or [[g/_gently|gently]] [[p/_patting|patting]] an [[a/_animal|animal]].**
-- **The [[a/_act|act]] of [[k/_kissing|kissing]], stroking, [[e/_etc|etc]]., a [[p/_person|person]] in a sexual [[m/_manner|manner]].**
+- **The [[a/_act|act]] of [[k/_kissing|kissing]], stroking, [[e/_etc|etc]]., a [[p/_person|person]] in a [[s/_sexual|sexual]] [[m/_manner|manner]].**
 - **The [[a/_act|act]] of [[i/_indulging|indulging]] or treating as a [[f/_favourite|favourite]].**
 ---
 ---

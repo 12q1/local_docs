@@ -11,7 +11,7 @@
 ### Synonyms
 - [[e/_extemporaneous|extemporaneous]], [[i/_impromptu|impromptu]], [[o/_off-the-cuff|off-the-cuff]]
 #adverb
-- **Right [[a/_away|away]], [[i/_immediately|immediately]], without thinking [[a/_about|about]] it.**
+- **[[r/_right|Right]] [[a/_away|away]], [[i/_immediately|immediately]], without thinking [[a/_about|about]] it.**
 	- _Example: Offhand, I'd guess that that's a yellow-bellied sapsucker._
 - **In an [[o/_offhand|offhand]] [[m/_manner|manner]].**
 ---

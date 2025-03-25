@@ -1,0 +1,22 @@
+# Slating
+---
+#verb
+- **To [[c/_cover|cover]] with [[s/_slate|slate]].**
+	- _Example: The old church ledgers show that the roof was slated in 1775._
+- **To [[c/_criticise|criticise]] [[h/_harshly|harshly]].**
+	- _Example: The play was slated by the critics._
+- **To [[s/_schedule|schedule]].**
+	- _Example: The election was slated for November 2nd._
+- **To [[a/_anticipate|anticipate]] or strongly [[e/_expect|expect]].**
+	- _Example: The next version of our software is slated to be the best release ever._
+- **To [[s/_set|set]] a [[d/_dog|dog]] upon (a [[p/_person|person]]).**
+---
+#noun
+- **[[s/_slates|Slates]] [[c/_collectively|collectively]].**
+- **[[m/_material|Material]] for [[s/_slating|slating]].**
+- **A [[h/_harsh|harsh]] [[c/_criticism|criticism]].**
+	- _Example: His new book got a real slating._
+---
+### Synonyms
+- [[s/_scorcher|scorcher]]
+---

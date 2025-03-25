@@ -1,6 +1,6 @@
 # Munchy
 ---
 #noun
-- **A snack.**
+- **A [[s/_snack|snack]].**
 ---
 ---

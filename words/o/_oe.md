@@ -1,6 +1,6 @@
 # Oe
 ---
 #noun
-- **A small [[i/_island|island]].**
+- **A [[s/_small|small]] [[i/_island|island]].**
 ---
 ---

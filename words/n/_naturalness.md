@@ -1,8 +1,8 @@
 # Naturalness
 ---
 #noun
-- **The state or quality of [[b/_being|being]] [[n/_natural|natural]].**
-- **Of a [[p/_picture|picture]] or recording, [[l/_likeness|likeness]] to the [[o/_original|original]].**
+- **The state or [[q/_quality|quality]] of [[b/_being|being]] [[n/_natural|natural]].**
+- **Of a [[p/_picture|picture]] or [[r/_recording|recording]], [[l/_likeness|likeness]] to the [[o/_original|original]].**
 ---
 ### Synonyms
 - [[n/_naturality|naturality]]

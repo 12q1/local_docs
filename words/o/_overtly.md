@@ -1,7 +1,7 @@
 # Overtly
 ---
 #adverb
-- **In an [[o/_overt|overt]] [[m/_manner|manner]]; publicly; [[o/_openly|openly]].**
+- **In an [[o/_overt|overt]] [[m/_manner|manner]]; [[p/_publicly|publicly]]; [[o/_openly|openly]].**
 ---
 ### Antonyms
 - [[c/_covertly|covertly]]

@@ -1,6 +1,6 @@
 # Memorable
 ---
 #adjective
-- **Worthy to be remembered; very [[i/_important|important]] or remarkable.**
+- **Worthy to be [[r/_remembered|remembered]]; very [[i/_important|important]] or [[r/_remarkable|remarkable]].**
 ---
 ---

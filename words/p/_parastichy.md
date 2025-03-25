@@ -1,6 +1,6 @@
 # Parastichy
 ---
 #noun
-- **A secondary spiral of [[l/_leaves|leaves]] or [[f/_florets|florets]].**
+- **A [[s/_secondary|secondary]] spiral of [[l/_leaves|leaves]] or [[f/_florets|florets]].**
 ---
 ---

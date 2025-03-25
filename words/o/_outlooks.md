@@ -1,7 +1,7 @@
 # Outlooks
 ---
 #noun
-- **A [[p/_place|place]] from which something [[c/_can|can]] be viewed.**
+- **A [[p/_place|place]] from which [[s/_something|something]] [[c/_can|can]] be viewed.**
 	- _Example: Perched on the edge of the cliff was a hidden outlook._
 - **The view from such a [[p/_place|place]].**
 - **An [[a/_attitude|attitude]] or [[p/_point|point]] of view.**

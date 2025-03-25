@@ -1,6 +1,6 @@
 # Metastatic
 ---
 #adjective
-- **Relating to, or producing [[m/_metastasis|metastasis]]**
+- **[[r/_relating|Relating]] to, or [[p/_producing|producing]] [[m/_metastasis|metastasis]]**
 ---
 ---

@@ -4,7 +4,7 @@
 - **A [[n/_narcotics|narcotics]] squad [[p/_police|police]] [[o/_officer|officer]].**
 ---
 #verb
-- **(underwater [[d/_diving|diving]]) To suffer from [[i/_impaired|impaired]] [[j/_judgment|judgment]] [[d/_due|due]] to [[n/_nitrogen|nitrogen]] [[n/_narcosis|narcosis]] (for [[e/_example|example]], while scuba [[d/_diving|diving]]).**
+- **(underwater [[d/_diving|diving]]) To suffer from [[i/_impaired|impaired]] [[j/_judgment|judgment]] [[d/_due|due]] to [[n/_nitrogen|nitrogen]] [[n/_narcosis|narcosis]] (for [[e/_example|example]], while [[s/_scuba|scuba]] [[d/_diving|diving]]).**
 ---
 #noun
 - **A [[n/_narcissist|narcissist]].**
@@ -17,7 +17,7 @@
 - [[s/_spoilsport|spoilsport]]
 #verb
 - **To watch; to [[o/_observe|observe]].**
-- **To serve or [[b/_behave|behave]] as a spy or [[i/_informer|informer]].**
+- **To [[s/_serve|serve]] or [[b/_behave|behave]] as a spy or [[i/_informer|informer]].**
 	- _Example: “If you nark on me, I’ll rip your arms off,” said Tim to his brother, as he passed him a joint._
 - **To [[a/_annoy|annoy]] or [[i/_irritate|irritate]].**
 	- _Example: It really narks me when people smoke in restaurants._

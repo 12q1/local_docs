@@ -7,6 +7,6 @@
 	- _Example: He was out of breath from pedalling up the steep hill._
 ---
 #noun
-- **The set of [[p/_pedal|pedal]] [[m/_movements|movements]] to be [[p/_performed|performed]] when [[p/_playing|playing]] a [[p/_piano|piano]] or [[o/_organ|organ]].**
+- **The [[s/_set|set]] of [[p/_pedal|pedal]] [[m/_movements|movements]] to be [[p/_performed|performed]] when [[p/_playing|playing]] a [[p/_piano|piano]] or [[o/_organ|organ]].**
 ---
 ---

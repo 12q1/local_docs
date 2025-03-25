@@ -5,6 +5,6 @@
 ---
 #adjective
 - **Not [[c/_combustible|combustible]].**
-- **Not [[e/_easily|easily]] set on [[f/_fire|fire]].**
+- **Not [[e/_easily|easily]] [[s/_set|set]] on [[f/_fire|fire]].**
 ---
 ---

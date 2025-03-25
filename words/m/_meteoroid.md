@@ -1,6 +1,6 @@
 # Meteoroid
 ---
 #noun
-- **A relatively small (sand- to [[b/_boulder|boulder]]-sized) [[f/_fragment|fragment]] of [[d/_debris|debris]] in a star system that produces a [[m/_meteor|meteor]] when it [[h/_hits|hits]] the [[a/_atmosphere|atmosphere]]**
+- **A [[r/_relatively|relatively]] [[s/_small|small]] ([[s/_sand|sand]]- to [[b/_boulder|boulder]]-[[s/_sized|sized]]) [[f/_fragment|fragment]] of [[d/_debris|debris]] in a star [[s/_system|system]] that [[p/_produces|produces]] a [[m/_meteor|meteor]] when it [[h/_hits|hits]] the [[a/_atmosphere|atmosphere]]**
 ---
 ---

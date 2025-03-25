@@ -1,6 +1,6 @@
 # Nonproliferation
 ---
 #noun
-- **Stopping proliferation of [[n/_nuclear|nuclear]] weapons.**
+- **Stopping [[p/_proliferation|proliferation]] of [[n/_nuclear|nuclear]] weapons.**
 ---
 ---

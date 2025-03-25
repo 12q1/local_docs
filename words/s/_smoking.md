@@ -1,0 +1,37 @@
+# Smoking
+---
+#verb
+- **To [[i/_inhale|inhale]] and [[e/_exhale|exhale]] the [[s/_smoke|smoke]] from a [[b/_burning|burning]] [[c/_cigarette|cigarette]], [[c/_cigar|cigar]], [[p/_pipe|pipe]], [[e/_etc|etc]].**
+	- _Example: He's smoking his pipe._
+- **To [[i/_inhale|inhale]] and [[e/_exhale|exhale]] tobacco [[s/_smoke|smoke]].**
+	- _Example: Do you smoke?_
+- **To [[g/_give|give]] [[o/_off|off]] [[s/_smoke|smoke]].**
+	- _Example: My old truck was still smoking even after the repairs._
+- **To [[p/_preserve|preserve]] or [[p/_prepare|prepare]] ([[f/_food|food]]) for [[c/_consumption|consumption]] by treating with [[s/_smoke|smoke]].**
+	- _Example: You'll need to smoke the meat for several hours._
+- **To [[d/_dry|dry]] or [[m/_medicate|medicate]] by [[s/_smoke|smoke]].**
+- **To [[f/_fill|fill]] or [[s/_scent|scent]] with [[s/_smoke|smoke]]; [[h/_hence|hence]], to [[f/_fill|fill]] with [[i/_incense|incense]]; to [[p/_perfume|perfume]].**
+- **To [[m/_make|make]] unclear or [[b/_blurry|blurry]].**
+- **([[c/_chiefly|chiefly]] as [[p/_present|present]] [[p/_participle|participle]]) To [[p/_perform|perform]] ([[e/_e|e]].[[g/_g|g]]. [[m/_music|music]]) [[e/_energetically|energetically]] or [[s/_skillfully|skillfully]].**
+	- _Example: The horn section was really smokin' on that last tune._
+- **To [[b/_beat|beat]] [[s/_someone|someone]] at [[s/_something|something]].**
+	- _Example: We smoked them at rugby._
+- **To [[k/_kill|kill]], [[e/_especially|especially]] with a [[g/_gun|gun]].**
+	- _Example: He got smoked by the mob._
+- **To thrash; to [[b/_beat|beat]].**
+- **To [[s/_smell|smell]] [[o/_out|out]]; to [[h/_hunt|hunt]] [[o/_out|out]]; to [[f/_find|find]] [[o/_out|out]]; to [[d/_detect|detect]].**
+- **To [[r/_ridicule|ridicule]] to the [[f/_face|face]]; to [[m/_mock|mock]].**
+- **To [[b/_burn|burn]]; to be [[k/_kindled|kindled]]; to [[r/_rage|rage]].**
+- **To [[r/_raise|raise]] a [[d/_dust|dust]] or [[s/_smoke|smoke]] by [[r/_rapid|rapid]] [[m/_motion|motion]].**
+- **To suffer [[s/_severely|severely]]; to be [[p/_punished|punished]].**
+- **To [[p/_punish|punish]] (a [[p/_person|person]]) for a [[m/_minor|minor]] [[o/_offense|offense]] by [[e/_excessive|excessive]] [[p/_physical|physical]] [[e/_exercise|exercise]].**
+- **To [[c/_cover|cover]] (a [[k/_key|key]] [[b/_blank|blank]]) with [[s/_soot|soot]] or [[c/_carbon|carbon]] to [[a/_aid|aid]] in [[s/_seeing|seeing]] the [[m/_marks|marks]] [[m/_made|made]] by impressioning.**
+---
+#adjective
+- **[[g/_giving|Giving]] [[o/_off|off]] [[s/_smoke|smoke]].**
+- **[[s/_sexually|Sexually]] [[a/_attractive|attractive]], usually [[r/_referring|referring]] to a woman.**
+	- _Example: That woman is smoking!_
+- **[[s/_showing|Showing]] [[g/_great|great]] [[s/_skill|skill]] or talent.**
+	- _Example: The band put on a smoking performance._
+---
+---

@@ -1,9 +1,9 @@
 # Nearly
 ---
 #adverb
-- **With [[g/_great|great]] scrutiny; [[c/_carefully|carefully]].**
-- **With [[c/_close|close]] relation; [[i/_intimately|intimately]].**
-- **[[c/_closely|Closely]], in [[c/_close|close]] proximity.**
+- **With [[g/_great|great]] [[s/_scrutiny|scrutiny]]; [[c/_carefully|carefully]].**
+- **With [[c/_close|close]] [[r/_relation|relation]]; [[i/_intimately|intimately]].**
+- **[[c/_closely|Closely]], in [[c/_close|close]] [[p/_proximity|proximity]].**
 - **In [[c/_close|close]] [[a/_approximation|approximation]]; [[a/_almost|almost]], virtually.**
 	- _Example: He left a nearly full beer on the bar._
 - **Stingily.**

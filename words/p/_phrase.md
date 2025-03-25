@@ -1,9 +1,9 @@
 # Phrase
 ---
 #noun
-- **A short written or spoken [[e/_expression|expression]].**
-- **([[g/_grammar|grammar]]) A word or [[g/_group|group]] of words that [[f/_functions|functions]] as a single unit in the syntax of a sentence, usually [[c/_consisting|consisting]] of a [[h/_head|head]], or [[c/_central|central]] word, and [[e/_elaborating|elaborating]] words.**
-- **A small section of [[m/_music|music]] in a [[l/_larger|larger]] [[p/_piece|piece]].**
+- **A [[s/_short|short]] written or spoken [[e/_expression|expression]].**
+- **([[g/_grammar|grammar]]) A word or [[g/_group|group]] of words that [[f/_functions|functions]] as a [[s/_single|single]] unit in the [[s/_syntax|syntax]] of a [[s/_sentence|sentence]], usually [[c/_consisting|consisting]] of a [[h/_head|head]], or [[c/_central|central]] word, and [[e/_elaborating|elaborating]] words.**
+- **A [[s/_small|small]] [[s/_section|section]] of [[m/_music|music]] in a [[l/_larger|larger]] [[p/_piece|piece]].**
 - **A [[m/_mode|mode]] or [[f/_form|form]] of speech; [[d/_diction|diction]]; [[e/_expression|expression]].**
 ---
 ### Synonyms

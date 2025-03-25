@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[d/_dark|Dark]], [[f/_faint|faint]] or [[i/_indistinct|indistinct]].**
-- **[[h/_hidden|Hidden]], [[o/_out|out]] of sight or [[i/_inconspicuous|inconspicuous]].**
+- **[[h/_hidden|Hidden]], [[o/_out|out]] of [[s/_sight|sight]] or [[i/_inconspicuous|inconspicuous]].**
 - **[[d/_difficult|Difficult]] to understand.**
 	- _Example: an obscure passage or inscription;    The speaker made obscure references to little-known literary works._
 - **Not well-[[k/_known|known]].**

@@ -6,6 +6,6 @@
 ### Synonyms
 - [[p/_passeriform|passeriform]]
 #adjective
-- **Of, or relating to a [[p/_passerine|passerine]] or [[p/_perching|perching]] [[b/_bird|bird]].**
+- **Of, or [[r/_relating|relating]] to a [[p/_passerine|passerine]] or [[p/_perching|perching]] [[b/_bird|bird]].**
 ---
 ---

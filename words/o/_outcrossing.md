@@ -6,6 +6,6 @@
 ### Antonyms
 - [[i/_inbreed|inbreed]], [[i/_incross|incross]]
 #noun
-- **An [[o/_organism|organism]] produced by [[o/_outcrossing|outcrossing]]**
+- **An [[o/_organism|organism]] [[p/_produced|produced]] by [[o/_outcrossing|outcrossing]]**
 ---
 ---

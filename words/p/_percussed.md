@@ -5,13 +5,13 @@
 	- _Example: Solid bodies, if they be very softly percussed, give no sound._
 - **To [[i/_impact|impact]]**
 	- _Example: Falling on the roof of the caravan, the hailstones percussed noisily._
-- **To [[a/_attempt|attempt]] to [[d/_divine|divine]] the [[l/_location|location]] or [[o/_other|other]] quality of something by tapping on (an [[o/_overlying|overlying]] surface)**
+- **To [[a/_attempt|attempt]] to [[d/_divine|divine]] the [[l/_location|location]] or [[o/_other|other]] [[q/_quality|quality]] of [[s/_something|something]] by tapping on (an [[o/_overlying|overlying]] surface)**
 	- _Example: The doctor percussed his chest to determine whether he had pneumonia._
-- **To [[a/_attempt|attempt]] to [[d/_divine|divine]] the [[l/_location|location]] or [[o/_other|other]] quality of (something) by tapping on an [[o/_overlying|overlying]] surface**
+- **To [[a/_attempt|attempt]] to [[d/_divine|divine]] the [[l/_location|location]] or [[o/_other|other]] [[q/_quality|quality]] of ([[s/_something|something]]) by tapping on an [[o/_overlying|overlying]] surface**
 	- _Example: Percussing a patient's spleen is best done while he is on his back._
 ---
 #adjective
-- **[[b/_bent|Bent]] round and striking the side, as a [[l/_lion|lion]]'s tail.**
+- **[[b/_bent|Bent]] [[r/_round|round]] and striking the [[s/_side|side]], as a [[l/_lion|lion]]'[[s/_s|s]] tail.**
 ---
 ### Synonyms
 - [[p/_percussed|percussed]]

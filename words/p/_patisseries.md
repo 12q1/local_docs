@@ -1,7 +1,7 @@
 # Patisseries
 ---
 #noun
-- **A shop that sells [[p/_pastries|pastries]] and [[c/_cakes|cakes]]**
+- **A [[s/_shop|shop]] that [[s/_sells|sells]] [[p/_pastries|pastries]] and [[c/_cakes|cakes]]**
 - **[[p/_pastry|Pastry]]**
 ---
 ### Synonyms

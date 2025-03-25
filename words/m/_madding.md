@@ -5,6 +5,6 @@
 - **To [[m/_madden|madden]], to [[a/_anger|anger]], to [[f/_frustrate|frustrate]].**
 ---
 #adjective
-- **[[a/_affected|Affected]] with [[m/_madness|madness]]; raging; [[f/_furious|furious]].**
+- **[[a/_affected|Affected]] with [[m/_madness|madness]]; [[r/_raging|raging]]; [[f/_furious|furious]].**
 ---
 ---

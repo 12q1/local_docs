@@ -4,6 +4,6 @@
 - **A temporary (usually [[i/_insubstantial|insubstantial]]) substitution.**
 ---
 #noun
-- **A rogue; a shifty [[p/_person|person]].**
+- **A [[r/_rogue|rogue]]; a [[s/_shifty|shifty]] [[p/_person|person]].**
 ---
 ---

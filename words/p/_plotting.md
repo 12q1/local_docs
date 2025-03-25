@@ -13,6 +13,6 @@
 ### Synonyms
 - [[l/_lot|lot]], [[s/_scheme|scheme]], [[b/_becast|becast]]
 #noun
-- **The [[a/_act|act]] of scheming or [[m/_making|making]] [[p/_plots|plots]]; [[m/_machination|machination]].**
+- **The [[a/_act|act]] of [[s/_scheming|scheming]] or [[m/_making|making]] [[p/_plots|plots]]; [[m/_machination|machination]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Pinguid
 ---
 #adjective
-- **Relating to [[f/_fat|fat]].**
+- **[[r/_relating|Relating]] to [[f/_fat|fat]].**
 ---
 ---

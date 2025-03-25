@@ -1,7 +1,7 @@
 # Picturesque
 ---
 #adjective
-- **Resembling or worthy of a [[p/_picture|picture]] or [[p/_painting|painting]]; [[h/_having|having]] the qualities of a [[p/_picture|picture]] or [[p/_painting|painting]]; [[p/_pleasingly|pleasingly]] [[b/_beautiful|beautiful]].**
+- **[[r/_resembling|Resembling]] or worthy of a [[p/_picture|picture]] or [[p/_painting|painting]]; [[h/_having|having]] the [[q/_qualities|qualities]] of a [[p/_picture|picture]] or [[p/_painting|painting]]; [[p/_pleasingly|pleasingly]] [[b/_beautiful|beautiful]].**
 - **Strikingly [[g/_graphic|graphic]] or vivid; [[h/_having|having]] striking and vivid [[i/_imagery|imagery]].**
 	- _Example: picturesque language_
 ---

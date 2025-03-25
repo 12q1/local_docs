@@ -1,7 +1,7 @@
 # Morepork
 ---
 #noun
-- **The Tasmanian spotted [[o/_owl|owl]] ([[n/_ninox|Ninox]] novaeseelandiae), a small [[b/_brown|brown]] [[o/_owl|owl]] [[i/_indigenous|indigenous]] to [[n/_new|New]] Zealand and Tasmania.**
+- **The Tasmanian spotted [[o/_owl|owl]] ([[n/_ninox|Ninox]] novaeseelandiae), a [[s/_small|small]] [[b/_brown|brown]] [[o/_owl|owl]] [[i/_indigenous|indigenous]] to [[n/_new|New]] Zealand and Tasmania.**
 - **Used as a [[m/_mild|mild]] term of [[a/_abuse|abuse]].**
 ---
 ### Synonyms

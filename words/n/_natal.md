@@ -1,6 +1,6 @@
 # Natal
 ---
 #adjective
-- **Of or relating to [[b/_birth|birth]].**
+- **Of or [[r/_relating|relating]] to [[b/_birth|birth]].**
 ---
 ---

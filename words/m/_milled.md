@@ -1,9 +1,9 @@
 # Milled
 ---
 #verb
-- **To [[g/_grind|grind]] or [[o/_otherwise|otherwise]] process in a [[m/_mill|mill]] or [[o/_other|other]] [[m/_machine|machine]].**
+- **To [[g/_grind|grind]] or [[o/_otherwise|otherwise]] [[p/_process|process]] in a [[m/_mill|mill]] or [[o/_other|other]] [[m/_machine|machine]].**
 	- _Example: to mill flour_
-- **To shape, [[p/_polish|polish]], [[d/_dress|dress]] or [[f/_finish|finish]] using a [[m/_machine|machine]].**
+- **To [[s/_shape|shape]], [[p/_polish|polish]], [[d/_dress|dress]] or [[f/_finish|finish]] using a [[m/_machine|machine]].**
 - **To [[e/_engrave|engrave]] [[o/_one|one]] or [[m/_more|more]] [[g/_grooves|grooves]] or a [[p/_pattern|pattern]] [[a/_around|around]] the [[e/_edge|edge]] of (a [[c/_cylindrical|cylindrical]] [[o/_object|object]] such as a [[c/_coin|coin]]).**
 - **([[f/_followed|followed]] by [[a/_around|around]], [[a/_about|about]], [[e/_etc|etc]].) To [[m/_move|move]] [[a/_about|about]] in an [[a/_aimless|aimless]] [[f/_fashion|fashion]].**
 	- _Example: I didn't have much to do, so I just milled around the town looking at the shops._
@@ -13,7 +13,7 @@
 - **(of a whale) To swim suddenly in a [[n/_new|new]] [[d/_direction|direction]].**
 - **To [[b/_beat|beat]]; to [[p/_pound|pound]].**
 - **To [[p/_pass|pass]] through a [[f/_fulling|fulling]] [[m/_mill|mill]]; to [[f/_full|full]], as [[c/_cloth|cloth]].**
-- **To roll (steel, [[e/_etc|etc]].) [[i/_into|into]] [[b/_bars|bars]].**
+- **To [[r/_roll|roll]] (steel, [[e/_etc|etc]].) [[i/_into|into]] [[b/_bars|bars]].**
 - **To [[m/_make|make]] ([[d/_drinking|drinking]] [[c/_chocolate|chocolate]]) [[f/_frothy|frothy]], as by [[c/_churning|churning]].**
 - **To undergo [[h/_hulling|hulling]].**
 	- _Example: This maize mills well._

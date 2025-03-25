@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[p/_person|person]] who is [[e/_expecting|expecting]] to [[g/_give|give]] [[b/_birth|birth]].**
-- **A [[d/_dietary|dietary]] supplement to be taken by somebody [[e/_expecting|expecting]] to [[g/_give|give]] [[b/_birth|birth]].**
+- **A [[d/_dietary|dietary]] supplement to be taken by [[s/_somebody|somebody]] [[e/_expecting|expecting]] to [[g/_give|give]] [[b/_birth|birth]].**
 	- _Example: She was recommended a course of zinc prenatals._
 ---
 #adjective

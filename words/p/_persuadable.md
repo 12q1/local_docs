@@ -1,7 +1,7 @@
 # Persuadable
 ---
 #noun
-- **(usually [[p/_plural|plural]]) Someone or something that is [[p/_persuadable|persuadable]].**
+- **(usually [[p/_plural|plural]]) [[s/_someone|Someone]] or [[s/_something|something]] that is [[p/_persuadable|persuadable]].**
 	- _Example: The politician stated that the recently-published survey vindicated his assertion that there were few persuadables among his constituents._
 ---
 #adjective

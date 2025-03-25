@@ -1,7 +1,7 @@
 # Mitigate
 ---
 #verb
-- **To reduce, [[l/_lessen|lessen]], or [[d/_decrease|decrease]]; to [[m/_make|make]] [[l/_less|less]] severe or [[e/_easier|easier]] to [[b/_bear|bear]].**
+- **To [[r/_reduce|reduce]], [[l/_lessen|lessen]], or [[d/_decrease|decrease]]; to [[m/_make|make]] [[l/_less|less]] [[s/_severe|severe]] or [[e/_easier|easier]] to [[b/_bear|bear]].**
 - **To [[d/_downplay|downplay]].**
 ---
 ### Synonyms

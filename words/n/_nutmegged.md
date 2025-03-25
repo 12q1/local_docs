@@ -6,6 +6,6 @@
 - **To [[p/_play|play]] the [[b/_ball|ball]] [[b/_between|between]] the [[l/_legs|legs]] of (an [[o/_opponent|opponent]]).**
 ---
 #adjective
-- **Seasoned with [[n/_nutmeg|nutmeg]].**
+- **[[s/_seasoned|Seasoned]] with [[n/_nutmeg|nutmeg]].**
 ---
 ---

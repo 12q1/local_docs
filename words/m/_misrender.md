@@ -1,6 +1,6 @@
 # Misrender
 ---
 #verb
-- **To render [[i/_incorrectly|incorrectly]].**
+- **To [[r/_render|render]] [[i/_incorrectly|incorrectly]].**
 ---
 ---

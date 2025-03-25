@@ -5,6 +5,6 @@
 ---
 #adjective
 - **[[b/_being|Being]] [[b/_between|between]] the [[a/_age|age]] of 80 and 89, [[i/_inclusive|inclusive]]**
-- **Of or relating to an [[o/_octogenarian|octogenarian]]**
+- **Of or [[r/_relating|relating]] to an [[o/_octogenarian|octogenarian]]**
 ---
 ---

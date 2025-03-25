@@ -1,7 +1,7 @@
 # Neither
 ---
 #adverb
-- **Similarly not.**
+- **[[s/_similarly|Similarly]] not.**
 	- _Example: Just as you would not correct it, neither would I._
 ---
 #pronoun

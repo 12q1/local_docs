@@ -1,7 +1,7 @@
 # Plummeted
 ---
 #verb
-- **To [[d/_drop|drop]] swiftly, in a [[d/_direct|direct]] [[m/_manner|manner]]; to [[f/_fall|fall]] quickly.**
+- **To [[d/_drop|drop]] swiftly, in a [[d/_direct|direct]] [[m/_manner|manner]]; to [[f/_fall|fall]] [[q/_quickly|quickly]].**
 	- _Example: After its ascent, the arrow plummeted to earth._
 ---
 ### Synonyms

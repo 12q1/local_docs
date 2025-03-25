@@ -1,6 +1,6 @@
 # Nonreligious
 ---
 #adjective
-- **Not religious; secular**
+- **Not [[r/_religious|religious]]; [[s/_secular|secular]]**
 ---
 ---

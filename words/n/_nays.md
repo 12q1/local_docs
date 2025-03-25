@@ -5,7 +5,7 @@
 	- _Example: I vote nay, even though the motion is popular, because I would rather be right than popular._
 - **A [[p/_person|person]] who voted [[a/_against|against]].**
 	- _Example: The vote is 4 in favor and 20 opposed; the nays have it._
-- **A [[d/_denial|denial]]; a refusal. https//[[b/_books|books]].google.[[c/_com|com]]/[[b/_books|books]]?[[i/_id|id]]=uysQzJy9IwMC&[[p/_pg|pg]]=PA818&dq=%22word+[[n/_nay|nay]]+a+[[d/_denial|denial]]+refusal%22&[[h/_hl|hl]]=[[e/_en|en]]&sa=X&ved=0ahUKEwij_5CHi-3cAhWJ2FMKHWjCDdMQ6AEIJzAA#v=onepage&q=%22word%20nay%20a%20denial%20refusal%22&[[f/_f|f]]=[[f/_false|false]]**
+- **A [[d/_denial|denial]]; a [[r/_refusal|refusal]]. https//[[b/_books|books]].google.[[c/_com|com]]/[[b/_books|books]]?[[i/_id|id]]=uysQzJy9IwMC&[[p/_pg|pg]]=PA818&dq=%22word+[[n/_nay|nay]]+a+[[d/_denial|denial]]+[[r/_refusal|refusal]]%22&[[h/_hl|hl]]=[[e/_en|en]]&[[s/_sa|sa]]=X&ved=0ahUKEwij_5CHi-3cAhWJ2FMKHWjCDdMQ6AEIJzAA#v=onepage&[[q/_q|q]]=%22word%20nay%20a%20denial%20refusal%22&[[f/_f|f]]=[[f/_false|false]]**
 ---
 ### Antonyms
 - [[y/_yea|yea]]

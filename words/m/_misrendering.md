@@ -1,9 +1,9 @@
 # Misrendering
 ---
 #verb
-- **To render [[i/_incorrectly|incorrectly]].**
+- **To [[r/_render|render]] [[i/_incorrectly|incorrectly]].**
 ---
 #noun
-- **An [[i/_incorrect|incorrect]] rendering.**
+- **An [[i/_incorrect|incorrect]] [[r/_rendering|rendering]].**
 ---
 ---

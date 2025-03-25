@@ -1,7 +1,7 @@
 # Merciful
 ---
 #adjective
-- **Showing [[m/_mercy|mercy]]**
+- **[[s/_showing|Showing]] [[m/_mercy|mercy]]**
 ---
 ### Synonyms
 - [[r/_ruthful|ruthful]]

@@ -1,6 +1,6 @@
 # Microlepidoptera
 ---
 #noun
-- **Relatively small [[b/_butterflies|butterflies]] and [[m/_moths|moths]]; micromoths.**
+- **[[r/_relatively|Relatively]] [[s/_small|small]] [[b/_butterflies|butterflies]] and [[m/_moths|moths]]; micromoths.**
 ---
 ---

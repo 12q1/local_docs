@@ -1,9 +1,9 @@
 # Mistrusts
 ---
 #verb
-- **To [[h/_have|have]] [[n/_no|no]] [[c/_confidence|confidence]] in (something or someone).**
-- **To be wary, suspicious or [[d/_doubtful|doubtful]] of (something or someone).**
-- **To suspect, to [[i/_imagine|imagine]] or suppose (something) to be the [[c/_case|case]].**
+- **To [[h/_have|have]] [[n/_no|no]] [[c/_confidence|confidence]] in ([[s/_something|something]] or [[s/_someone|someone]]).**
+- **To be wary, suspicious or [[d/_doubtful|doubtful]] of ([[s/_something|something]] or [[s/_someone|someone]]).**
+- **To suspect, to [[i/_imagine|imagine]] or suppose ([[s/_something|something]]) to be the [[c/_case|case]].**
 - **To be suspicious.**
 ---
 ### Synonyms

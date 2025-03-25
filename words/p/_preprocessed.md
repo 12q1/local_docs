@@ -1,6 +1,6 @@
 # Preprocessed
 ---
 #verb
-- **To process in [[a/_advance|advance]].**
+- **To [[p/_process|process]] in [[a/_advance|advance]].**
 ---
 ---

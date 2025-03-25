@@ -1,6 +1,6 @@
 # Prelims
 ---
 #noun
-- **Something [[p/_preliminary|preliminary]], such as a trial, report, race, [[e/_etc|etc]].**
+- **[[s/_something|Something]] [[p/_preliminary|preliminary]], such as a trial, [[r/_report|report]], [[r/_race|race]], [[e/_etc|etc]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Mulla
 ---
 #noun
-- **A religious scholar and teacher of sharia [[l/_law|law]].**
+- **A [[r/_religious|religious]] [[s/_scholar|scholar]] and teacher of [[s/_sharia|sharia]] [[l/_law|law]].**
 ---
 ---

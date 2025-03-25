@@ -1,6 +1,6 @@
 # Neuronal
 ---
 #adjective
-- **Of, or relating to a [[n/_neuron|neuron]]**
+- **Of, or [[r/_relating|relating]] to a [[n/_neuron|neuron]]**
 ---
 ---

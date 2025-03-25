@@ -1,6 +1,6 @@
 # Pistoling
 ---
 #verb
-- **To shoot (at) a target with a [[p/_pistol|pistol]].**
+- **To [[s/_shoot|shoot]] (at) a target with a [[p/_pistol|pistol]].**
 ---
 ---

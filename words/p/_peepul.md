@@ -1,6 +1,6 @@
 # Peepul
 ---
 #noun
-- **The sacred [[f/_fig|fig]], [[f/_ficus|Ficus]] religiosa.**
+- **The [[s/_sacred|sacred]] [[f/_fig|fig]], [[f/_ficus|Ficus]] religiosa.**
 ---
 ---

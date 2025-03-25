@@ -1,8 +1,8 @@
 # Owlish
 ---
 #adjective
-- **Resembling or [[c/_characteristic|characteristic]] of an [[o/_owl|owl]].**
-- **Wise and solemn.**
+- **[[r/_resembling|Resembling]] or [[c/_characteristic|characteristic]] of an [[o/_owl|owl]].**
+- **Wise and [[s/_solemn|solemn]].**
 - **Stupid; [[d/_dull|dull]]-[[l/_looking|looking]].**
 ---
 ### Synonyms

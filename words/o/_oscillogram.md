@@ -1,6 +1,6 @@
 # Oscillogram
 ---
 #noun
-- **A record produced by an [[o/_oscillograph|oscillograph]] or [[o/_oscilloscope|oscilloscope]].**
+- **A [[r/_record|record]] [[p/_produced|produced]] by an [[o/_oscillograph|oscillograph]] or [[o/_oscilloscope|oscilloscope]].**
 ---
 ---

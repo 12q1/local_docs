@@ -1,8 +1,8 @@
 # Posset
 ---
 #noun
-- **A [[b/_beverage|beverage]] [[c/_composed|composed]] of [[h/_hot|hot]] [[m/_milk|milk]] [[c/_curdled|curdled]] by some strong [[i/_infusion|infusion]], such as wine.**
-- **A [[b/_baby|baby]]'s vomit, [[c/_comprising|comprising]] [[c/_curdled|curdled]] [[m/_milk|milk]].**
+- **A [[b/_beverage|beverage]] [[c/_composed|composed]] of [[h/_hot|hot]] [[m/_milk|milk]] [[c/_curdled|curdled]] by [[s/_some|some]] strong [[i/_infusion|infusion]], such as wine.**
+- **A [[b/_baby|baby]]'[[s/_s|s]] vomit, [[c/_comprising|comprising]] [[c/_curdled|curdled]] [[m/_milk|milk]].**
 ---
 #verb
 - **To [[c/_curdle|curdle]]; to turn, as [[m/_milk|milk]]; to [[c/_coagulate|coagulate]].**

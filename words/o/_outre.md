@@ -1,7 +1,7 @@
 # Outre
 ---
 #adjective
-- **[[b/_beyond|Beyond]] what is [[c/_customary|customary]] or proper; [[e/_extravagant|extravagant]].**
+- **[[b/_beyond|Beyond]] what is [[c/_customary|customary]] or [[p/_proper|proper]]; [[e/_extravagant|extravagant]].**
 - **Very unconventional.**
 ---
 ### Synonyms

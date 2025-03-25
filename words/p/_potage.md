@@ -1,6 +1,6 @@
 # Potage
 ---
 #noun
-- **A thick [[c/_creamy|creamy]] soup.**
+- **A thick [[c/_creamy|creamy]] [[s/_soup|soup]].**
 ---
 ---

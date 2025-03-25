@@ -1,8 +1,8 @@
 # Maligned
 ---
 #verb
-- **To [[m/_make|make]] [[d/_defamatory|defamatory]] statements [[a/_about|about]]; to slander or traduce.**
-- **To treat with [[m/_malice|malice]]; to show [[h/_hatred|hatred]] toward; to [[a/_abuse|abuse]]; to wrong.**
+- **To [[m/_make|make]] [[d/_defamatory|defamatory]] statements [[a/_about|about]]; to [[s/_slander|slander]] or traduce.**
+- **To treat with [[m/_malice|malice]]; to [[s/_show|show]] [[h/_hatred|hatred]] toward; to [[a/_abuse|abuse]]; to wrong.**
 ---
 #adjective
 - **[[a/_assailed|Assailed]] with [[c/_contemptuous|contemptuous]] [[l/_language|language]]**

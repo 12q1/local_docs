@@ -1,6 +1,6 @@
 # Noninterventionists
 ---
 #noun
-- **A proponent of [[n/_non|non]]-[[i/_intervention|intervention]].**
+- **A [[p/_proponent|proponent]] of [[n/_non|non]]-[[i/_intervention|intervention]].**
 ---
 ---

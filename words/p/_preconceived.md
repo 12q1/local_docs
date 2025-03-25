@@ -1,7 +1,7 @@
 # Preconceived
 ---
 #verb
-- **To [[c/_conceive|conceive]], or [[f/_form|form]] an [[o/_opinion|opinion]] of, [[b/_beforehand|beforehand]]; to [[f/_form|form]] a previous [[n/_notion|notion]] or [[i/_idea|idea]] of.**
+- **To [[c/_conceive|conceive]], or [[f/_form|form]] an [[o/_opinion|opinion]] of, [[b/_beforehand|beforehand]]; to [[f/_form|form]] a [[p/_previous|previous]] [[n/_notion|notion]] or [[i/_idea|idea]] of.**
 ---
 ### Synonyms
 - [[f/_foreconceive|foreconceive]]

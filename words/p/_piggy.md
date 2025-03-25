@@ -12,6 +12,6 @@
 ---
 #adjective
 - **[[g/_greedy|Greedy]]**
-- **Slovenly, [[d/_dirty|dirty]]**
+- **[[s/_slovenly|Slovenly]], [[d/_dirty|dirty]]**
 ---
 ---

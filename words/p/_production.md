@@ -1,0 +1,24 @@
+# Production
+---
+#noun
+- **The [[a/_act|act]] of [[p/_producing|producing]], [[m/_making|making]] or [[c/_creating|creating]] [[s/_something|something]].**
+	- _Example: The widget making machine is being used for production now._
+- **The [[a/_act|act]] of [[b/_bringing|bringing]] [[s/_something|something]] [[f/_forward|forward]], [[o/_out|out]] [[e/_etc|etc]]. for use or [[c/_consideration|consideration]].**
+- **The [[a/_act|act]] of [[b/_being|being]] [[p/_produced|produced]].**
+	- _Example: The widgets are coming out of production now._
+- **The total [[a/_amount|amount]] [[p/_produced|produced]].**
+	- _Example: They hope to increase spaghetti production next year._
+- **The [[p/_presentation|presentation]] of a theatrical work.**
+	- _Example: We went to a production of Hamlet._
+- **An [[o/_occasion|occasion]] or [[a/_activity|activity]] [[m/_made|made]] [[m/_more|more]] [[c/_complicated|complicated]] than [[n/_necessary|necessary]].**
+	- _Example: He made a simple meal into a huge production._
+- **That which is [[m/_manufactured|manufactured]] or is [[r/_ready|ready]] for [[m/_manufacturing|manufacturing]] in volume (as [[o/_opposed|opposed]] to a [[p/_prototype|prototype]] or [[c/_conceptual|conceptual]] [[m/_model|model]]).**
+	- _Example: This is the final production model._
+- **The [[a/_act|act]] of [[l/_lengthening|lengthening]] [[o/_out|out]] or [[p/_prolonging|prolonging]].**
+- **An [[e/_extension|extension]] or [[p/_protrusion|protrusion]].**
+- **A [[r/_rewrite|rewrite]] [[r/_rule|rule]] specifying a [[s/_symbol|symbol]] substitution that [[c/_can|can]] be [[r/_recursively|recursively]] [[p/_performed|performed]] to [[g/_generate|generate]] [[n/_new|new]] [[s/_symbol|symbol]] [[s/_sequences|sequences]]. ([[m/_more|More]] [[i/_information|information]] on Wikipedia.)**
+	- _Example: Each production is implemented with a function._
+- **The [[e/_environment|environment]] where [[f/_finished|finished]] [[c/_code|code]] [[r/_runs|runs]], as [[o/_opposed|opposed]] to staging or [[d/_development|development]].**
+- **(in the [[p/_plural|plural]]) Written [[d/_documents|documents]] [[p/_produced|produced]] in support of the [[a/_action|action]] or [[d/_defence|defence]].**
+---
+---

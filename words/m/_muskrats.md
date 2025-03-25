@@ -1,8 +1,8 @@
 # Muskrats
 ---
 #noun
-- **A [[l/_large|large]] [[a/_aquatic|aquatic]] rodent ([[o/_ondatra|Ondatra]] zibethicus).**
-- **[[a/_any|Any]] of several species of shrews in the [[f/_family|family]] Soricidae, [[e/_especially|especially]] the [[a/_asian|Asian]] [[h/_house|house]] shrew, Suncus [[m/_murinus|murinus]]**
+- **A [[l/_large|large]] [[a/_aquatic|aquatic]] [[r/_rodent|rodent]] ([[o/_ondatra|Ondatra]] zibethicus).**
+- **[[a/_any|Any]] of [[s/_several|several]] species of [[s/_shrews|shrews]] in the [[f/_family|family]] [[s/_soricidae|Soricidae]], [[e/_especially|especially]] the [[a/_asian|Asian]] [[h/_house|house]] [[s/_shrew|shrew]], Suncus [[m/_murinus|murinus]]**
 ---
 ### Synonyms
 - [[m/_musquash|musquash]], [['/_'rat|'rat]], [[r/_rat|rat]]

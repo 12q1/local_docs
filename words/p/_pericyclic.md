@@ -1,7 +1,7 @@
 # Pericyclic
 ---
 #adjective
-- **Of or relating to a [[p/_pericycle|pericycle]]**
-- **Of or relating to a [[p/_pericyclic|pericyclic]] reaction**
+- **Of or [[r/_relating|relating]] to a [[p/_pericycle|pericycle]]**
+- **Of or [[r/_relating|relating]] to a [[p/_pericyclic|pericyclic]] [[r/_reaction|reaction]]**
 ---
 ---

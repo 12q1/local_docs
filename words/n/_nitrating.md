@@ -1,9 +1,9 @@
 # Nitrating
 ---
 #verb
-- **To treat, or react, with [[n/_nitric|nitric]] [[a/_acid|acid]] or a [[n/_nitrate|nitrate]]**
+- **To treat, or [[r/_react|react]], with [[n/_nitric|nitric]] [[a/_acid|acid]] or a [[n/_nitrate|nitrate]]**
 ---
 #adjective
-- **That promotes [[n/_nitration|nitration]]**
+- **That [[p/_promotes|promotes]] [[n/_nitration|nitration]]**
 ---
 ---

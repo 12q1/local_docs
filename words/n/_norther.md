@@ -17,7 +17,7 @@
 - [[s/_south|south]]
 #noun
 - **A strong [[n/_north|north]] wind.**
-- **South wind**
+- **[[s/_south|South]] wind**
 ---
 #verb
 - **Of the wind: to [[m/_move|move]] toward the [[n/_north|north]].**

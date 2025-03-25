@@ -1,7 +1,7 @@
 # Occurrent
 ---
 #noun
-- **An [[e/_event|event]], something that [[o/_occurs|occurs]].**
+- **An [[e/_event|event]], [[s/_something|something]] that [[o/_occurs|occurs]].**
 - **[[o/_one|One]] who [[c/_comes|comes]] to [[m/_meet|meet]] [[a/_another|another]].**
 ---
 #adjective

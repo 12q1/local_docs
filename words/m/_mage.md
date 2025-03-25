@@ -1,6 +1,6 @@
 # Mage
 ---
 #noun
-- **A [[m/_magician|magician]], wizard or sorcerer.**
+- **A [[m/_magician|magician]], wizard or [[s/_sorcerer|sorcerer]].**
 ---
 ---

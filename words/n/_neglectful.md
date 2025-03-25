@@ -1,6 +1,6 @@
 # Neglectful
 ---
 #adjective
-- **Tending to [[n/_neglect|neglect]]; [[f/_failing|failing]] to take [[c/_care|care]] of [[m/_matters|matters]] which require [[a/_attention|attention]].**
+- **Tending to [[n/_neglect|neglect]]; [[f/_failing|failing]] to take [[c/_care|care]] of [[m/_matters|matters]] which [[r/_require|require]] [[a/_attention|attention]].**
 ---
 ---

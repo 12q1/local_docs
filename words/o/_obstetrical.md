@@ -1,6 +1,6 @@
 # Obstetrical
 ---
 #adjective
-- **Of, or relating to [[o/_obstetrics|obstetrics]]**
+- **Of, or [[r/_relating|relating]] to [[o/_obstetrics|obstetrics]]**
 ---
 ---

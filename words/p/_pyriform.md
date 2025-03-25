@@ -1,7 +1,7 @@
 # Pyriform
 ---
 #adjective
-- **[[p/_pear|Pear]]-shaped**
+- **[[p/_pear|Pear]]-[[s/_shaped|shaped]]**
 ---
 ### Synonyms
 - [[p/_peg-top|peg-top]]

@@ -1,6 +1,6 @@
 # Potamology
 ---
 #noun
-- **The study of rivers.**
+- **The study of [[r/_rivers|rivers]].**
 ---
 ---

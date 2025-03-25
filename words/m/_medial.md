@@ -10,7 +10,7 @@
 - **[[p/_pertaining|Pertaining]] to the [[i/_inside|inside]]; [[c/_closer|closer]] to the [[m/_midline|midline]].**
 	- _Example: The medial side of the knee faces the other knee, while the outer side of the knee is lateral._
 - **[[c/_closer|Closer]] to the [[a/_addressee|addressee]].**
-- **(of a [[c/_consonant|consonant]]) [[c/_central|Central]]: produced when [[a/_air|air]] [[f/_flows|flows]] [[a/_across|across]] the [[c/_center|center]] of the [[m/_mouth|mouth]] [[o/_over|over]] the tongue.**
+- **(of a [[c/_consonant|consonant]]) [[c/_central|Central]]: [[p/_produced|produced]] when [[a/_air|air]] [[f/_flows|flows]] [[a/_across|across]] the [[c/_center|center]] of the [[m/_mouth|mouth]] [[o/_over|over]] the tongue.**
 ---
 ### Antonyms
 - [[l/_lateral|lateral]]

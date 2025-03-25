@@ -1,6 +1,6 @@
 # Mammaliferous
 ---
 #adjective
-- **[[c/_containing|Containing]] [[m/_mammalian|mammalian]] remains.**
+- **[[c/_containing|Containing]] [[m/_mammalian|mammalian]] [[r/_remains|remains]].**
 ---
 ---

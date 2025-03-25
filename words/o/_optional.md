@@ -1,8 +1,8 @@
 # Optional
 ---
 #noun
-- **Something that is not [[c/_compulsory|compulsory]], [[e/_especially|especially]] [[p/_part|part]] of an [[a/_academic|academic]] [[c/_course|course]].**
-- **(sometimes [[c/_capitalized|capitalized]]) In various programming [[l/_languages|languages]], a [[k/_kind|kind]] of variable that is [[a/_assigned|assigned]] a specific [[d/_data|data]] type but [[m/_may|may]] or [[m/_may|may]] not [[h/_hold|hold]] an [[a/_actual|actual]] value.**
+- **[[s/_something|Something]] that is not [[c/_compulsory|compulsory]], [[e/_especially|especially]] [[p/_part|part]] of an [[a/_academic|academic]] [[c/_course|course]].**
+- **([[s/_sometimes|sometimes]] [[c/_capitalized|capitalized]]) In various [[p/_programming|programming]] [[l/_languages|languages]], a [[k/_kind|kind]] of variable that is [[a/_assigned|assigned]] a specific [[d/_data|data]] type but [[m/_may|may]] or [[m/_may|may]] not [[h/_hold|hold]] an [[a/_actual|actual]] value.**
 ---
 #adjective
 - **Not [[c/_compulsory|compulsory]]; [[l/_left|left]] to [[p/_personal|personal]] [[c/_choice|choice]]; [[e/_elective|elective]].**

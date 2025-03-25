@@ -5,7 +5,7 @@
 - **A [[f/_fierce|fierce]], unfriendly woman.**
 ---
 #noun
-- **A roundel sable.**
+- **A [[r/_roundel|roundel]] [[s/_sable|sable]].**
 ---
 ### Synonyms
 - [[g/_gunstone|gunstone]], [[p/_pellet|pellet]]

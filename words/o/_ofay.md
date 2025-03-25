@@ -6,6 +6,6 @@
 ### Synonyms
 - [[h/_honky|honky]], [[w/_whitey|whitey]]
 #adjective
-- **White; white-skinned.**
+- **White; white-[[s/_skinned|skinned]].**
 ---
 ---

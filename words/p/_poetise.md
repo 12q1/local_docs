@@ -1,6 +1,6 @@
 # Poetise
 ---
 #verb
-- **To write as a [[p/_poet|poet]]; to put [[i/_into|into]] a [[p/_poem|poem]]**
+- **To write as a [[p/_poet|poet]]; to [[p/_put|put]] [[i/_into|into]] a [[p/_poem|poem]]**
 ---
 ---

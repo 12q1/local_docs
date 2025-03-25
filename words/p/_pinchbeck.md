@@ -5,6 +5,6 @@
 ---
 #adjective
 - **[[m/_made|Made]] of [[p/_pinchbeck|pinchbeck]].**
-- **Sham; spurious, [[a/_artificial|artificial]]; [[b/_being|being]] a [[c/_cheap|cheap]] substitution; [[o/_only|only]] superficially [[a/_attractive|attractive]].**
+- **[[s/_sham|Sham]]; spurious, [[a/_artificial|artificial]]; [[b/_being|being]] a [[c/_cheap|cheap]] substitution; [[o/_only|only]] superficially [[a/_attractive|attractive]].**
 ---
 ---

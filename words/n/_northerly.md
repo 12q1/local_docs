@@ -9,7 +9,7 @@
 - [[a/_auster|auster]], [[s/_southerly|southerly]]
 #adjective
 - **[[f/_facing|Facing]] the [[n/_north|north]]; [[d/_directed|directed]] towards the [[n/_north|north]].**
-- **[[l/_located|Located]] in a [[n/_northern|northern]] region**
+- **[[l/_located|Located]] in a [[n/_northern|northern]] [[r/_region|region]]**
 - **[[c/_coming|Coming]] from the [[n/_north|north]].**
 ---
 ### Synonyms

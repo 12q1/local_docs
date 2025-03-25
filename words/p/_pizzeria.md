@@ -1,7 +1,7 @@
 # Pizzeria
 ---
 #noun
-- **A restaurant that [[b/_bakes|bakes]] and sells [[p/_pizzas|pizzas]].**
+- **A [[r/_restaurant|restaurant]] that [[b/_bakes|bakes]] and [[s/_sells|sells]] [[p/_pizzas|pizzas]].**
 ---
 ### Synonyms
 - 

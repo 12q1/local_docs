@@ -3,13 +3,13 @@
 #noun
 - **The [[a/_act|act]] of [[m/_mooning|mooning]], [[f/_flashing|flashing]] the [[b/_buttocks|buttocks]].**
 	- _Example: She was doing a moony._
-- **A silly [[p/_person|person]].**
+- **A [[s/_silly|silly]] [[p/_person|person]].**
 ---
 #adjective
-- **Resembling the [[m/_moon|moon]].**
+- **[[r/_resembling|Resembling]] the [[m/_moon|moon]].**
 - **[[m/_moonlit|Moonlit]].**
 - **[[a/_absent|Absent]]-[[m/_minded|minded]].**
-- **Silly.**
-- **Sickly or tipsy.**
+- **[[s/_silly|Silly]].**
+- **[[s/_sickly|Sickly]] or tipsy.**
 ---
 ---

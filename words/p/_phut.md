@@ -1,9 +1,9 @@
 # Phut
 ---
 #verb
-- **To produce such a sound.**
+- **To [[p/_produce|produce]] such a [[s/_sound|sound]].**
 ---
 #interjection
-- **A sound resembling the release of a [[b/_blast|blast]] of steam or [[e/_exhaust|exhaust]] [[g/_gas|gas]].**
+- **A [[s/_sound|sound]] [[r/_resembling|resembling]] the [[r/_release|release]] of a [[b/_blast|blast]] of steam or [[e/_exhaust|exhaust]] [[g/_gas|gas]].**
 ---
 ---

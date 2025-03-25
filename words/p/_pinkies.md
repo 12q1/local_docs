@@ -7,13 +7,13 @@
 ### Synonyms
 - [[e/_ear-finger|ear-finger]]
 #noun
-- **[[m/_methylated|Methylated]] spirits [[m/_mixed|mixed]] with red wine or Condy's [[c/_crystals|crystals]].**
-- **A [[b/_baby|baby]] [[m/_mouse|mouse]], [[e/_especially|especially]] when used as [[f/_food|food]] for a snake, [[e/_etc|etc]].**
+- **[[m/_methylated|Methylated]] spirits [[m/_mixed|mixed]] with [[r/_red|red]] wine or Condy'[[s/_s|s]] [[c/_crystals|crystals]].**
+- **A [[b/_baby|baby]] [[m/_mouse|mouse]], [[e/_especially|especially]] when used as [[f/_food|food]] for a [[s/_snake|snake]], [[e/_etc|etc]].**
 - **A white [[p/_person|person]].**
-- **The [[a/_australasian|Australasian]] snapper or [[p/_pink|pink]] snapper (Chrysophrys auratus).**
+- **The [[a/_australasian|Australasian]] [[s/_snapper|snapper]] or [[p/_pink|pink]] [[s/_snapper|snapper]] (Chrysophrys auratus).**
 ---
 #noun
-- **The smallest [[f/_finger|finger]] or toe of a [[h/_hand|hand]] or [[f/_foot|foot]].**
+- **The [[s/_smallest|smallest]] [[f/_finger|finger]] or toe of a [[h/_hand|hand]] or [[f/_foot|foot]].**
 ---
 ### Synonyms
 - 

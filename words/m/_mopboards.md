@@ -1,6 +1,6 @@
 # Mopboards
 ---
 #noun
-- **A skirting [[b/_board|board]] (to protect a wall from wet [[m/_mops|mops]])**
+- **A [[s/_skirting|skirting]] [[b/_board|board]] (to [[p/_protect|protect]] a wall from wet [[m/_mops|mops]])**
 ---
 ---

@@ -6,6 +6,6 @@
 ### Synonyms
 - [[f/_foreday|foreday]], [[m/_morn|morn]]
 #adjective
-- **Of or relating to [[m/_matins|matins]]**
+- **Of or [[r/_relating|relating]] to [[m/_matins|matins]]**
 ---
 ---

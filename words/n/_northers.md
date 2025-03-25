@@ -2,6 +2,6 @@
 ---
 #noun
 - **A strong [[n/_north|north]] wind.**
-- **South wind**
+- **[[s/_south|South]] wind**
 ---
 ---

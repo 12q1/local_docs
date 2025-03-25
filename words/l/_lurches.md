@@ -12,11 +12,11 @@
 ---
 #noun
 - **An [[o/_old|old]] [[g/_game|game]] [[p/_played|played]] with [[d/_dice|dice]] and [[c/_counters|counters]]; a variety of the [[g/_game|game]] of tables.**
-- **A [[d/_double|double]] score in [[c/_cribbage|cribbage]] for the winner when [[h/_his|his]]/[[h/_her|her]] [[a/_adversary|adversary]] [[h/_has|has]] [[b/_been|been]] [[l/_left|left]] in the [[l/_lurch|lurch]].**
+- **A [[d/_double|double]] [[s/_score|score]] in [[c/_cribbage|cribbage]] for the winner when [[h/_his|his]]/[[h/_her|her]] [[a/_adversary|adversary]] [[h/_has|has]] [[b/_been|been]] [[l/_left|left]] in the [[l/_lurch|lurch]].**
 ---
 #verb
-- **To [[l/_leave|leave]] someone in the [[l/_lurch|lurch]]; to [[c/_cheat|cheat]].**
-- **To rob.**
+- **To [[l/_leave|leave]] [[s/_someone|someone]] in the [[l/_lurch|lurch]]; to [[c/_cheat|cheat]].**
+- **To [[r/_rob|rob]].**
 - **To [[e/_evade|evade]] by stooping; to [[l/_lurk|lurk]].**
 ---
 ---

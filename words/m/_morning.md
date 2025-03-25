@@ -10,6 +10,6 @@
 ### Synonyms
 - [[f/_forenoon|forenoon]], [[y/_yeender|yeender]], [[a/_a.m.|a.m.]], [[f/_forenoon|forenoon]], [[y/_yeender|yeender]]
 #interjection
-- **A [[g/_greeting|greeting]] said in the [[m/_morning|morning]]; shortening of [[g/_good|good]] [[m/_morning|morning]]**
+- **A [[g/_greeting|greeting]] [[s/_said|said]] in the [[m/_morning|morning]]; [[s/_shortening|shortening]] of [[g/_good|good]] [[m/_morning|morning]]**
 ---
 ---

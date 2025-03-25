@@ -1,7 +1,7 @@
 # Nibbled
 ---
 #verb
-- **To [[e/_eat|eat]] with small, quick [[b/_bites|bites]].**
+- **To [[e/_eat|eat]] with [[s/_small|small]], [[q/_quick|quick]] [[b/_bites|bites]].**
 	- _Example: The rabbit nibbled at the lettuce._
 - **To [[b/_bite|bite]] [[l/_lightly|lightly]].**
 	- _Example: He nibbled at my neck and made me shiver._

@@ -10,9 +10,9 @@
 	- _Example: I was more better at English than you._
 ---
 #pronoun
-- **A [[g/_greater|greater]] [[n/_number|number]] or quantity (of something).**
+- **A [[g/_greater|greater]] [[n/_number|number]] or [[q/_quantity|quantity]] (of [[s/_something|something]]).**
 	- _Example: There isn't enough salt in this. You need to add more._
-- **An [[e/_extra|extra]] or [[a/_additional|additional]] quantity (of something).**
+- **An [[e/_extra|extra]] or [[a/_additional|additional]] [[q/_quantity|quantity]] (of [[s/_something|something]]).**
 	- _Example: There aren't many people here yet, but more should be arriving soon._
 ---
 ---

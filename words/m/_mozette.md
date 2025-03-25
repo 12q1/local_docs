@@ -1,6 +1,6 @@
 # Mozette
 ---
 #noun
-- **A short [[c/_cape|cape]] worn by some [[c/_catholic|Catholic]] [[c/_clergy|clergy]].**
+- **A [[s/_short|short]] [[c/_cape|cape]] worn by [[s/_some|some]] [[c/_catholic|Catholic]] [[c/_clergy|clergy]].**
 ---
 ---

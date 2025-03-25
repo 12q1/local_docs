@@ -1,7 +1,7 @@
 # Outright
 ---
 #verb
-- **To release a [[p/_player|player]] [[o/_outright|outright]], without [[c/_conditions|conditions]].**
+- **To [[r/_release|release]] a [[p/_player|player]] [[o/_outright|outright]], without [[c/_conditions|conditions]].**
 ---
 #adjective
 - **Unqualified and unreserved.**
@@ -14,7 +14,7 @@
 #adverb
 - **Wholly, [[c/_completely|completely]] and [[e/_entirely|entirely]].**
 	- _Example: I refute those allegations outright._
-- **[[o/_openly|Openly]] and without reservation.**
+- **[[o/_openly|Openly]] and without [[r/_reservation|reservation]].**
 	- _Example: I have just responded outright to that question._
 - **At [[o/_once|once]].**
 	- _Example: Two people died outright and one more later._

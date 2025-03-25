@@ -8,7 +8,7 @@
 - **A [[p/_player|player]] who [[a/_attempts|attempts]] the [[c/_challenge|challenge]] of winning a [[g/_game|game]] without [[a/_attacking|attacking]] [[a/_any|any]] [[e/_enemy|enemy]] [[c/_characters|characters]].**
 ---
 #adjective
-- **Of or relating to [[p/_pacifism|pacifism]].**
+- **Of or [[r/_relating|relating]] to [[p/_pacifism|pacifism]].**
 ---
 ### Synonyms
 - [[G/_Gandhist|Gandhist]], [[d/_dove|dove]]

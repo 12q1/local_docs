@@ -7,7 +7,7 @@
 	- _Example: Insects may overwinter in fallen fruit if it is not removed._
 ---
 #adjective
-- **[[o/_occurring|Occurring]] [[o/_over|over]] the winter season.**
+- **[[o/_occurring|Occurring]] [[o/_over|over]] the winter [[s/_season|season]].**
 ---
 #adverb
 - **[[d/_during|During]] the winter.**

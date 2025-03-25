@@ -1,6 +1,6 @@
 # Ogams
 ---
 #noun
-- **A single [[c/_character|character]] in this [[a/_alphabet|alphabet]].**
+- **A [[s/_single|single]] [[c/_character|character]] in this [[a/_alphabet|alphabet]].**
 ---
 ---

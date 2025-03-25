@@ -1,6 +1,6 @@
 # Outsit
 ---
 #verb
-- **To remain sitting, or in session, [[l/_longer|longer]] than, or [[b/_beyond|beyond]] the time of; to [[o/_outstay|outstay]].**
+- **To [[r/_remain|remain]] [[s/_sitting|sitting]], or in [[s/_session|session]], [[l/_longer|longer]] than, or [[b/_beyond|beyond]] the time of; to [[o/_outstay|outstay]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Mitigation
 ---
 #noun
-- **A reduction or [[d/_decrease|decrease]] of something [[h/_harmful|harmful]] or unpleasant.**
+- **A [[r/_reduction|reduction]] or [[d/_decrease|decrease]] of [[s/_something|something]] [[h/_harmful|harmful]] or unpleasant.**
 ---
 ---

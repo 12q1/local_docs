@@ -7,6 +7,6 @@
 ### Synonyms
 - [[b/_bullock|bullock]], [[s/_steer|steer]]
 #adjective
-- **Of, relating to, or resembling an [[o/_ox|ox]]; [[o/_oxlike|oxlike]]**
+- **Of, [[r/_relating|relating]] to, or [[r/_resembling|resembling]] an [[o/_ox|ox]]; [[o/_oxlike|oxlike]]**
 ---
 ---

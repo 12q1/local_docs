@@ -1,0 +1,10 @@
+# Sage
+---
+#noun
+- **A wise [[p/_person|person]] or spiritual teacher; [[s/_someone|someone]] of [[g/_gravity|gravity]] and wisdom, [[e/_especially|especially]], a teacher venerable for [[y/_years|years]], and of [[s/_sound|sound]] [[j/_judgment|judgment]] and [[p/_prudence|prudence]]; a [[g/_grave|grave]] or stoic [[p/_philosopher|philosopher]].**
+---
+#adjective
+- **Wise.**
+- **[[g/_grave|Grave]]; [[s/_serious|serious]]; [[s/_solemn|solemn]]**
+---
+---

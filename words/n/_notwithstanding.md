@@ -4,7 +4,7 @@
 - **An [[i/_instance|instance]] of the word "[[n/_notwithstanding|notwithstanding]]", [[o/_often|often]] [[c/_characteristic|characteristic]] of [[l/_legalese|legalese]].**
 ---
 #adverb
-- **[[n/_nevertheless|Nevertheless]], [[a/_all|all]] the same.**
+- **[[n/_nevertheless|Nevertheless]], [[a/_all|all]] the [[s/_same|same]].**
 	- _Example: He, notwithstanding, persisted in his inquiries._
 ---
 ### Synonyms

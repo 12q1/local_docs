@@ -1,7 +1,7 @@
 # Peptic
 ---
 #noun
-- **An [[a/_agent|agent]] that promotes [[d/_digestion|digestion]].**
+- **An [[a/_agent|agent]] that [[p/_promotes|promotes]] [[d/_digestion|digestion]].**
 - **(in the [[p/_plural|plural]]) The [[d/_digestive|digestive]] [[o/_organs|organs]].**
 ---
 #adjective

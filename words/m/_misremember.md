@@ -1,6 +1,6 @@
 # Misremember
 ---
 #verb
-- **To remember [[i/_incorrectly|incorrectly]].**
+- **To [[r/_remember|remember]] [[i/_incorrectly|incorrectly]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Orthostatic
 ---
 #adjective
-- **Relating to orthostasis / orthostatism**
-- **Relating to an [[o/_orthostat|orthostat]]**
+- **[[r/_relating|Relating]] to orthostasis / orthostatism**
+- **[[r/_relating|Relating]] to an [[o/_orthostat|orthostat]]**
 ---
 ---

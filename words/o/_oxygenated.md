@@ -6,6 +6,6 @@
 - **To [[g/_give|give]] (a [[p/_patient|patient]]) [[o/_oxygen|oxygen]] therapy.**
 ---
 #adjective
-- **[[c/_containing|Containing]] [[o/_oxygen|oxygen]], or [[o/_oxygen|oxygen]]-[[c/_containing|containing]] radicals, as substituents**
+- **[[c/_containing|Containing]] [[o/_oxygen|oxygen]], or [[o/_oxygen|oxygen]]-[[c/_containing|containing]] [[r/_radicals|radicals]], as substituents**
 ---
 ---

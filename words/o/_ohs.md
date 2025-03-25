@@ -10,7 +10,7 @@
 - **The [[l/_letter|letter]] [[o/_o|O]], [[o/_o|o]] ([[m/_more|more]] [[c/_commonly|commonly]] spelled [[o/_o|o]])**
 ---
 #noun
-- **The [[d/_digit|digit]] 0 ([[e/_especially|especially]] in representations of speech)**
+- **The [[d/_digit|digit]] 0 ([[e/_especially|especially]] in [[r/_representations|representations]] of speech)**
 	- _Example: My telephone number is four-double-three-two-oh-nine._
 ---
 ---

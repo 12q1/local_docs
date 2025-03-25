@@ -1,9 +1,9 @@
 # Pyretic
 ---
 #noun
-- **A remedy for [[f/_fever|fever]].**
+- **A [[r/_remedy|remedy]] for [[f/_fever|fever]].**
 ---
 #adjective
-- **[[c/_caused|Caused]] by, [[p/_pertaining|pertaining]] to or resulting in [[f/_fever|fever]].**
+- **[[c/_caused|Caused]] by, [[p/_pertaining|pertaining]] to or [[r/_resulting|resulting]] in [[f/_fever|fever]].**
 ---
 ---

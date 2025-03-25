@@ -1,6 +1,6 @@
 # Micronize
 ---
 #verb
-- **To reduce in size, [[o/_often|often]] to [[m/_micrometer|micrometer]] scale.**
+- **To [[r/_reduce|reduce]] in [[s/_size|size]], [[o/_often|often]] to [[m/_micrometer|micrometer]] [[s/_scale|scale]].**
 ---
 ---

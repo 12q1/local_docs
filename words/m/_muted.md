@@ -1,8 +1,8 @@
 # Muted
 ---
 #verb
-- **To silence, to [[m/_make|make]] quiet.**
-- **To turn [[o/_off|off]] the sound of.**
+- **To [[s/_silence|silence]], to [[m/_make|make]] [[q/_quiet|quiet]].**
+- **To turn [[o/_off|off]] the [[s/_sound|sound]] of.**
 	- _Example: Please mute the music while I make a call._
 ---
 #verb
@@ -13,7 +13,7 @@
 ---
 #adjective
 - **Not [[e/_expressed|expressed]] strongly or [[o/_openly|openly]].**
-- **(of a sound) Quiet or soft.**
+- **(of a [[s/_sound|sound]]) [[q/_quiet|Quiet]] or [[s/_soft|soft]].**
 - **(of [[c/_color|color]]) Subdued.**
 ---
 ---

@@ -4,7 +4,7 @@
 - **([[a/_among|among]] [[c/_criminal|criminal]] [[g/_gangs|gangs]]) An [[o/_opponent|opponent]]; an [[e/_enemy|enemy]].**
 ---
 #noun
-- **A [[c/_chance|chance]] for [[a/_advancement|advancement]], progress or profit.**
+- **A [[c/_chance|chance]] for [[a/_advancement|advancement]], [[p/_progress|progress]] or [[p/_profit|profit]].**
 	- _Example: The world is full of opportunities and it's up to me to see them and pursue them._
 - **A [[f/_favorable|favorable]] [[c/_circumstance|circumstance]] or [[o/_occasion|occasion]].**
 	- _Example: Having a holiday is a great opportunity to relax._
@@ -14,9 +14,9 @@
 #preposition
 - **[[f/_facing|Facing]], or [[a/_across|across]] from.**
 	- _Example: He lives opposite the pub._
-- **In a [[c/_complementary|complementary]] role to.**
+- **In a [[c/_complementary|complementary]] [[r/_role|role]] to.**
 	- _Example: He played opposite Marilyn Monroe._
-- **On [[a/_another|another]] [[c/_channel|channel]] at the same time.**
+- **On [[a/_another|another]] [[c/_channel|channel]] at the [[s/_same|same]] time.**
 	- _Example: The game show Just Men! aired opposite The Young and the Restless on CBS._
 ---
 ---

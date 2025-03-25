@@ -1,9 +1,9 @@
 # Prerecording
 ---
 #verb
-- **To record in [[a/_advance|advance]].**
+- **To [[r/_record|record]] in [[a/_advance|advance]].**
 ---
 #noun
-- **Something [[p/_prerecorded|prerecorded]].**
+- **[[s/_something|Something]] [[p/_prerecorded|prerecorded]].**
 ---
 ---

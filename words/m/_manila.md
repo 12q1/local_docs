@@ -1,7 +1,7 @@
 # Manila
 ---
 #noun
-- **[[f/_fiber|Fiber]] [[m/_made|made]] from [[a/_abaca|abaca]] ([[m/_manila|Manila]] [[h/_hemp|hemp]]), used to [[m/_make|make]] ropes and [[m/_manila|manila]] [[p/_paper|paper]].**
+- **[[f/_fiber|Fiber]] [[m/_made|made]] from [[a/_abaca|abaca]] ([[m/_manila|Manila]] [[h/_hemp|hemp]]), used to [[m/_make|make]] [[r/_ropes|ropes]] and [[m/_manila|manila]] [[p/_paper|paper]].**
 - **The [[y/_yellow|yellow]]-[[b/_brown|brown]] [[c/_colour|colour]] of [[m/_manila|manila]].**
 ---
 #adjective

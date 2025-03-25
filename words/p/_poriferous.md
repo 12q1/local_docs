@@ -2,6 +2,6 @@
 ---
 #adjective
 - **[[h/_having|Having]] [[p/_pores|pores]].**
-- **Of or related to the [[p/_porifera|Porifera]].**
+- **Of or [[r/_related|related]] to the [[p/_porifera|Porifera]].**
 ---
 ---

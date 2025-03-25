@@ -1,6 +1,6 @@
 # Mirrorlike
 ---
 #adjective
-- **Resembling a [[m/_mirror|mirror]]; reflective**
+- **[[r/_resembling|Resembling]] a [[m/_mirror|mirror]]; [[r/_reflective|reflective]]**
 ---
 ---

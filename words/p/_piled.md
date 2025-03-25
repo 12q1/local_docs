@@ -5,9 +5,9 @@
 	- _Example: They were piling up wood on the wheelbarrow._
 - **To [[c/_cover|cover]] with [[h/_heaps|heaps]]; or in [[g/_great|great]] [[a/_abundance|abundance]]; to [[f/_fill|fill]] or [[o/_overfill|overfill]]; to [[l/_load|load]].**
 	- _Example: We piled the camel with our loads._
-- **To [[a/_add|add]] something to a [[g/_great|great]] [[n/_number|number]].**
+- **To [[a/_add|add]] [[s/_something|something]] to a [[g/_great|great]] [[n/_number|number]].**
 - **(of vehicles) To [[c/_create|create]] a [[h/_hold|hold]]-up.**
-- **To [[p/_place|place]] ([[g/_guns|guns]], [[m/_muskets|muskets]], [[e/_etc|etc]].) together in threes so that they [[c/_can|can]] stand upright, supporting [[e/_each|each]] [[o/_other|other]].**
+- **To [[p/_place|place]] ([[g/_guns|guns]], [[m/_muskets|muskets]], [[e/_etc|etc]].) together in threes [[s/_so|so]] that they [[c/_can|can]] stand upright, supporting [[e/_each|each]] [[o/_other|other]].**
 ---
 ### Synonyms
 - [[h/_heap|heap]]
@@ -15,7 +15,7 @@
 - **To [[d/_drive|drive]] [[p/_piles|piles]] [[i/_into|into]]; to [[f/_fill|fill]] with [[p/_piles|piles]]; to strengthen with [[p/_piles|piles]].**
 ---
 #verb
-- **To [[g/_give|give]] a [[p/_pile|pile]] to; to [[m/_make|make]] shaggy.**
+- **To [[g/_give|give]] a [[p/_pile|pile]] to; to [[m/_make|make]] [[s/_shaggy|shaggy]].**
 ---
 #adjective
 - **([[i/_iron|iron]] [[m/_manufacturing|manufacturing]]) [[f/_formed|Formed]] from a [[p/_pile|pile]] or [[f/_fagot|fagot]].**

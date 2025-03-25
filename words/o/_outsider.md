@@ -5,7 +5,7 @@
 	- _Example: While the initiated easily understand the symbols, they are wholly inaccessible to outsiders._
 - **A [[n/_newcomer|newcomer]] with [[l/_little|little]] or [[n/_no|no]] [[e/_experience|experience]] in an [[o/_organization|organization]] or [[c/_community|community]].**
 	- _Example: Seeing the mess professional politicians have made of things is it any wonder the electorate is beginning to prefer outsiders._
-- **A [[c/_competitor|competitor]] or [[c/_contestant|contestant]] who [[h/_has|has]] [[l/_little|little]] [[c/_chance|chance]] of winning; a [[l/_long|long]] shot**
+- **A [[c/_competitor|competitor]] or [[c/_contestant|contestant]] who [[h/_has|has]] [[l/_little|little]] [[c/_chance|chance]] of winning; a [[l/_long|long]] [[s/_shot|shot]]**
 	- _Example: Johnny was an outsider at this years karate tournament, but he still managed to win second place out of sheer determination._
 ---
 ### Synonyms

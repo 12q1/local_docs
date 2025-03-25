@@ -1,0 +1,77 @@
+# Rolling
+---
+#verb
+- **To [[c/_cause|cause]] to [[r/_revolve|revolve]] by turning [[o/_over|over]] and [[o/_over|over]]; to [[m/_move|move]] by turning on an [[a/_axis|axis]]; to [[i/_impel|impel]] [[f/_forward|forward]] by [[c/_causing|causing]] to turn [[o/_over|over]] and [[o/_over|over]] on a supporting surface.**
+	- _Example: To roll a wheel, a ball, or a barrel._
+- **To turn [[o/_over|over]] and [[o/_over|over]].**
+	- _Example: The child will roll on the floor._
+- **To tumble in [[g/_gymnastics|gymnastics]]; to [[d/_do|do]] a [[s/_somersault|somersault]].**
+- **To wrap ([[s/_something|something]]) [[r/_round|round]] on [[i/_itself|itself]]; to [[f/_form|form]] [[i/_into|into]] a spherical or [[c/_cylindrical|cylindrical]] [[b/_body|body]] by [[c/_causing|causing]] to turn [[o/_over|over]] and [[o/_over|over]].**
+	- _Example: To roll a sheet of paper; to roll clay or putty into a ball._
+- **To [[b/_bind|bind]] or [[i/_involve|involve]] by winding, as in a [[b/_bandage|bandage]]; to [[e/_enwrap|enwrap]]; [[o/_often|often]] with up.**
+	- _Example: To roll up the map for shipping._
+- **To be wound or [[f/_formed|formed]] [[i/_into|into]] a [[c/_cylinder|cylinder]] or [[b/_ball|ball]].**
+	- _Example: The cloth rolls unevenly; the snow rolls well._
+- **To [[d/_drive|drive]] or [[i/_impel|impel]] [[f/_forward|forward]] with an [[e/_easy|easy]] [[m/_motion|motion]], as of [[r/_rolling|rolling]].**
+	- _Example: This river will roll its waters to the ocean._
+- **To utter [[c/_copiously|copiously]], [[e/_especially|especially]] with [[s/_sounding|sounding]] words; to utter with a [[d/_deep|deep]] [[s/_sound|sound]]; — [[o/_often|often]] with [[f/_forth|forth]], or [[o/_out|out]].**
+	- _Example: To roll forth someone's praises; to roll out sentences._
+- **To [[p/_press|press]] or [[l/_level|level]] with a [[r/_roller|roller]]; to spread or [[f/_form|form]] with a [[r/_roll|roll]], [[r/_roller|roller]], or [[r/_rollers|rollers]].**
+	- _Example: to roll a field;  to roll paste;  to roll steel rails._
+- **To spread [[i/_itself|itself]] under a [[r/_roller|roller]] or [[r/_rolling|rolling]]-[[p/_pin|pin]].**
+	- _Example: The pastry rolls well._
+- **To [[m/_move|move]], or [[c/_cause|cause]] to be [[m/_moved|moved]], upon, or by [[m/_means|means]] of, [[r/_rollers|rollers]] or [[s/_small|small]] wheels.**
+- **To [[l/_leave|leave]] or [[b/_begin|begin]] a [[j/_journey|journey]].**
+	- _Example: I want to get there early; let's roll._
+- **To [[c/_compete|compete]], [[e/_especially|especially]] with vigor.**
+	- _Example: OK guys, we're only down by two points. Let's roll!_
+- **To [[b/_beat|beat]] with [[r/_rapid|rapid]], [[c/_continuous|continuous]] strokes, as a [[d/_drum|drum]]; to [[s/_sound|sound]] a [[r/_roll|roll]] upon.**
+- **To [[a/_apply|apply]] ([[o/_one|one]] [[l/_line|line]] or surface) to [[a/_another|another]] without [[s/_slipping|slipping]]; to [[b/_bring|bring]] [[a/_all|all]] the [[p/_parts|parts]] of ([[o/_one|one]] [[l/_line|line]] or surface) [[i/_into|into]] successive [[c/_contact|contact]] with [[a/_another|another]], in such a [[m/_manner|manner]] that at [[e/_every|every]] [[i/_instant|instant]] the [[p/_parts|parts]] that [[h/_have|have]] [[b/_been|been]] in [[c/_contact|contact]] are [[e/_equal|equal]].**
+- **To turn [[o/_over|over]] in [[o/_one|one]]'[[s/_s|s]] [[m/_mind|mind]]; to [[r/_revolve|revolve]].**
+- **To [[b/_behave|behave]] in a [[c/_certain|certain]] way; to [[a/_adopt|adopt]] a [[g/_general|general]] [[d/_disposition|disposition]] toward a [[s/_situation|situation]].**
+	- _Example: I was going to kick his ass, but he wasn't worth getting all worked up over; I don't roll like that._
+- **To throw [[d/_dice|dice]].**
+- **To [[r/_roll|roll]] [[d/_dice|dice]] such that they [[f/_form|form]] a [[g/_given|given]] [[p/_pattern|pattern]] or total.**
+	- _Example: If you roll doubles, you get an extra turn._
+- **To [[c/_create|create]] a [[n/_new|new]] [[c/_character|character]] in a [[r/_role|role]]-[[p/_playing|playing]] [[g/_game|game]], [[e/_especially|especially]] by using [[d/_dice|dice]] to [[d/_determine|determine]] [[p/_properties|properties]].**
+	- _Example: I'm gonna go and roll a new shaman tonight._
+- **To [[g/_generate|generate]] a [[r/_random|random]] [[n/_number|number]].**
+- **(of a vessel) To [[r/_rotate|rotate]] on [[i/_its|its]] [[f/_fore|fore]]-and-[[a/_aft|aft]] [[a/_axis|axis]], [[c/_causing|causing]] [[i/_its|its]] [[s/_sides|sides]] to [[g/_go|go]] up and [[d/_down|down]]. [[c/_compare|Compare]] with [[p/_pitch|pitch]].**
+- **(in [[f/_folk|folk]] [[s/_songs|songs]]) To travel by [[s/_sailing|sailing]].**
+- **To [[b/_beat|beat]] up; to [[a/_attack|attack]] and [[c/_cause|cause]] [[p/_physical|physical]] [[d/_damage|damage]] to.**
+- **To [[c/_cause|cause]] to [[b/_betray|betray]] [[s/_secrets|secrets]] or to testify for the [[p/_prosecution|prosecution]].**
+	- _Example: The feds rolled him by giving him a free pass for most of what he'd done._
+- **To [[b/_betray|betray]] [[s/_secrets|secrets]].**
+	- _Example: He rolled on those guys after being in jail two days._
+- **To be under the [[i/_influence|influence]] of MDMA (a [[p/_psychedelic|psychedelic]] stimulant, [[a/_also|also]] [[k/_known|known]] as [[e/_ecstasy|ecstasy]]).**
+- **(of a [[c/_camera|camera]]) To ([[c/_cause|cause]] to) [[f/_film|film]].**
+	- _Example: It's time to roll the cameras._
+- **To [[s/_slip|slip]] [[p/_past|past]] (a [[d/_defender|defender]]) with the [[b/_ball|ball]].**
+- **To [[h/_have|have]] a [[r/_rolling|rolling]] [[a/_aspect|aspect]].**
+	- _Example: the hills rolled on_
+- **To [[p/_perform|perform]] a [[p/_periodical|periodical]] [[r/_revolution|revolution]]; to [[m/_move|move]] [[o/_onward|onward]] as with a [[r/_revolution|revolution]].**
+	- _Example: The years roll on._
+- **To [[m/_move|move]], [[l/_like|like]] waves or [[b/_billows|billows]], with [[a/_alternate|alternate]] swell and [[d/_depression|depression]].**
+- **To [[m/_move|move]] and [[c/_cause|cause]] an [[e/_effect|effect]] on [[s/_someone|someone]]**
+- **To [[m/_make|make]] a [[l/_loud|loud]] or [[h/_heavy|heavy]] [[r/_rumbling|rumbling]] [[n/_noise|noise]].**
+	- _Example: The thunder rolled and the lightning flashed._
+- **To utter with an [[a/_alveolar|alveolar]] trill.**
+	- _Example: Many languages roll their r's._
+- **To [[e/_enrobe|enrobe]] in toilet-[[p/_paper|paper]] (as a [[p/_prank|prank]] or spectacle).**
+	- _Example: The kids rolled the principal's house and yard._
+- **To [[c/_create|create]] a [[c/_customized|customized]] version of.**
+- **To [[e/_engage|engage]] in [[s/_sparring|sparring]] in the [[c/_context|context]] of [[j/_jujitsu|jujitsu]] or [[o/_other|other]] [[g/_grappling|grappling]] [[d/_disciplines|disciplines]].**
+---
+#noun
+- **The [[a/_act|act]] by which [[s/_something|something]] is [[r/_rolled|rolled]].**
+---
+#adjective
+- **[[d/_drunk|Drunk]]; [[i/_intoxicated|intoxicated]] from [[a/_alcohol|alcohol]], staggering.**
+- **Staggered in time and [[s/_space|space]]; used with [[b/_blackout|blackout]], [[b/_brownout|brownout]], [[i/_introduction|introduction]].**
+- **[[m/_moving|Moving]] by turning [[o/_over|over]] and [[o/_over|over]] on an [[a/_axis|axis]].**
+- **[[e/_extending|Extending]] in [[g/_gentle|gentle]] undulations (of the [[l/_landscape|landscape]]).**
+- **[[m/_making|Making]] a [[c/_continuous|continuous]] [[s/_sound|sound]].**
+---
+### Synonyms
+- [[s/_spinning|spinning]], [[t/_tumbling|tumbling]], [[c/_chequerwise|chequerwise]]
+---

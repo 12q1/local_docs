@@ -2,6 +2,6 @@
 ---
 #noun
 - **[[p/_paralogism|Paralogism]]**
-- **A paralogous relationship**
+- **A paralogous [[r/_relationship|relationship]]**
 ---
 ---

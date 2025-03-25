@@ -1,8 +1,8 @@
 # Plash
 ---
 #noun
-- **A small [[p/_pool|pool]] of standing water; a puddle.**
-- **A splash, or the sound [[m/_made|made]] by a splash.**
+- **A [[s/_small|small]] [[p/_pool|pool]] of standing water; a [[p/_puddle|puddle]].**
+- **A splash, or the [[s/_sound|sound]] [[m/_made|made]] by a splash.**
 - **A sudden [[d/_downpour|downpour]].**
 ---
 #verb

@@ -5,6 +5,6 @@
 ---
 #verb
 - **To [[m/_make|make]] a [[b/_bustle|bustle]] or stir; to be [[f/_fussy|fussy]].**
-- **To puzzle or [[p/_perplex|perplex]].**
+- **To [[p/_puzzle|puzzle]] or [[p/_perplex|perplex]].**
 ---
 ---

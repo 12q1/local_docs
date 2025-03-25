@@ -1,6 +1,6 @@
 # Photographist
 ---
 #noun
-- **[[o/_one|One]] who produces [[p/_photographs|photographs]].**
+- **[[o/_one|One]] who [[p/_produces|produces]] [[p/_photographs|photographs]].**
 ---
 ---

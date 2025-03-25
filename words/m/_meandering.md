@@ -6,9 +6,9 @@
 - **To wind, turn, or twist; to [[m/_make|make]] [[f/_flexuous|flexuous]].**
 ---
 #noun
-- **An [[i/_instance|instance]] or [[p/_period|period]] of roaming.**
+- **An [[i/_instance|instance]] or [[p/_period|period]] of [[r/_roaming|roaming]].**
 ---
 #adjective
-- **Winding or rambling**
+- **Winding or [[r/_rambling|rambling]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Mewling
 ---
 #noun
-- **A sound that [[m/_mewls|mewls]].**
+- **A [[s/_sound|sound]] that [[m/_mewls|mewls]].**
 ---
 ---

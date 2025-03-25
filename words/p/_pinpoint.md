@@ -8,7 +8,7 @@
 	- _Example: The investigators tried to pinpoint the source of the flames._
 ---
 #adjective
-- **[[e/_extremely|Extremely]] [[p/_precise|precise]] or specific, [[e/_especially|especially]] regarding [[l/_location|location]].**
+- **[[e/_extremely|Extremely]] [[p/_precise|precise]] or specific, [[e/_especially|especially]] [[r/_regarding|regarding]] [[l/_location|location]].**
 	- _Example: The machine assembles parts at high speed and with pinpoint accuracy._
 ---
 ---

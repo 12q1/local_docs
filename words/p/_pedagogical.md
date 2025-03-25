@@ -1,7 +1,7 @@
 # Pedagogical
 ---
 #adjective
-- **Of, or relating to [[p/_pedagogy|pedagogy]]; teaching.**
+- **Of, or [[r/_relating|relating]] to [[p/_pedagogy|pedagogy]]; teaching.**
 - **[[h/_haughty|Haughty]] and [[f/_formal|formal]].**
 ---
 ### Synonyms

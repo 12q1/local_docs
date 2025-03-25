@@ -7,7 +7,7 @@
 	- _Example: The farmer pastures fifty oxen; the land will pasture forty cows._
 ---
 #noun
-- **The process of putting an [[a/_animal|animal]] [[o/_out|out]] to [[p/_pasture|pasture]].**
+- **The [[p/_process|process]] of [[p/_putting|putting]] an [[a/_animal|animal]] [[o/_out|out]] to [[p/_pasture|pasture]].**
 - **[[l/_land|Land]] used as [[p/_pasture|pasture]].**
 ---
 ---

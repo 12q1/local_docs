@@ -1,7 +1,7 @@
 # Preselecting
 ---
 #verb
-- **To select in [[a/_advance|advance]].**
+- **To [[s/_select|select]] in [[a/_advance|advance]].**
 ---
 ### Synonyms
 - [[f/_forechoose|forechoose]]

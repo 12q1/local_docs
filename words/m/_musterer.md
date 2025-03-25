@@ -1,6 +1,6 @@
 # Musterer
 ---
 #noun
-- **A [[p/_person|person]] who [[m/_musters|musters]] (rounds up) [[l/_livestock|livestock]].**
+- **A [[p/_person|person]] who [[m/_musters|musters]] ([[r/_rounds|rounds]] up) [[l/_livestock|livestock]].**
 ---
 ---

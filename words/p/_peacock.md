@@ -9,7 +9,7 @@
 ### Synonyms
 - [[p/_peafowl|peafowl]]
 #verb
-- **To strut [[a/_about|about]] proudly.**
+- **To strut [[a/_about|about]] [[p/_proudly|proudly]].**
 - **To [[e/_engage|engage]] in [[p/_peacocking|peacocking]], [[o/_ostentatious|ostentatious]] [[d/_dress|dress]] or [[b/_behaviour|behaviour]] to [[i/_impress|impress]] women.**
 ---
 ---

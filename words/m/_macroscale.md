@@ -1,6 +1,6 @@
 # Macroscale
 ---
 #noun
-- **A relatively [[l/_large|large]] scale**
+- **A [[r/_relatively|relatively]] [[l/_large|large]] [[s/_scale|scale]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Neurotrophic
 ---
 #adjective
-- **Of or relating to [[n/_neurotrophy|neurotrophy]].**
+- **Of or [[r/_relating|relating]] to [[n/_neurotrophy|neurotrophy]].**
 ---
 ---

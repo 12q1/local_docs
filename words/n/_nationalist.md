@@ -5,6 +5,6 @@
 	- _Example: You are either a globalist or a nationalist; one cannot be both._
 ---
 #adjective
-- **Of or relating to [[n/_nationalism|nationalism]].**
+- **Of or [[r/_relating|relating]] to [[n/_nationalism|nationalism]].**
 ---
 ---

@@ -5,6 +5,6 @@
 - **To undergo [[p/_phosphorylation|phosphorylation]]**
 ---
 #adjective
-- **Reacted or [[c/_combined|combined]] with [[p/_phosphoric|phosphoric]] [[a/_acid|acid]]**
+- **[[r/_reacted|Reacted]] or [[c/_combined|combined]] with [[p/_phosphoric|phosphoric]] [[a/_acid|acid]]**
 ---
 ---

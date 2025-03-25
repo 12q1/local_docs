@@ -1,7 +1,7 @@
 # Preprocessing
 ---
 #verb
-- **To process in [[a/_advance|advance]].**
+- **To [[p/_process|process]] in [[a/_advance|advance]].**
 ---
 #noun
 - **The [[m/_material|material]] [[f/_formed|formed]] by a [[p/_preprocess|preprocess]]**

@@ -1,6 +1,6 @@
 # Overemotional
 ---
 #adjective
-- **Showing too [[m/_much|much]] [[e/_emotion|emotion]].**
+- **[[s/_showing|Showing]] too [[m/_much|much]] [[e/_emotion|emotion]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Nears
 ---
 #noun
-- **The [[l/_left|left]] side of a [[h/_horse|horse]] or of a team of [[h/_horses|horses]] pulling a [[c/_carriage|carriage]] [[e/_etc|etc]].**
+- **The [[l/_left|left]] [[s/_side|side]] of a [[h/_horse|horse]] or of a team of [[h/_horses|horses]] [[p/_pulling|pulling]] a [[c/_carriage|carriage]] [[e/_etc|etc]].**
 ---
 ### Synonyms
 - 

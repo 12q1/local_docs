@@ -2,6 +2,6 @@
 ---
 #noun
 - **[[m/_medium|Medium]].**
-- **Social setting or [[e/_environment|environment]].**
+- **[[s/_social|Social]] [[s/_setting|setting]] or [[e/_environment|environment]].**
 ---
 ---

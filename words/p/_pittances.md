@@ -1,8 +1,8 @@
 # Pittances
 ---
 #noun
-- **A small [[a/_allowance|allowance]] of [[f/_food|food]] and [[d/_drink|drink]]; a scanty [[m/_meal|meal]].**
+- **A [[s/_small|small]] [[a/_allowance|allowance]] of [[f/_food|food]] and [[d/_drink|drink]]; a [[s/_scanty|scanty]] [[m/_meal|meal]].**
 - **A [[m/_meagre|meagre]] [[a/_allowance|allowance]] of [[m/_money|money]] or wages.**
-- **A small [[a/_amount|amount]].**
+- **A [[s/_small|small]] [[a/_amount|amount]].**
 ---
 ---

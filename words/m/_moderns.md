@@ -1,6 +1,6 @@
 # Moderns
 ---
 #noun
-- **Someone who [[l/_lives|lives]] in [[m/_modern|modern]] times.**
+- **[[s/_someone|Someone]] who [[l/_lives|lives]] in [[m/_modern|modern]] times.**
 ---
 ---

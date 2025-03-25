@@ -1,7 +1,7 @@
 # Mounding
 ---
 #verb
-- **To [[f/_fortify|fortify]] with a [[m/_mound|mound]]; [[a/_add|add]] a [[b/_barrier|barrier]], rampart, [[e/_etc|etc]]. to.**
+- **To [[f/_fortify|fortify]] with a [[m/_mound|mound]]; [[a/_add|add]] a [[b/_barrier|barrier]], [[r/_rampart|rampart]], [[e/_etc|etc]]. to.**
 - **To [[f/_force|force]] or [[p/_pile|pile]] [[i/_into|into]] a [[m/_mound|mound]] or [[m/_mounds|mounds]].**
 	- _Example: He mounded up his mashed potatoes so they left more space on the plate for the meat._
 ---

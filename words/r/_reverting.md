@@ -1,0 +1,23 @@
+# Reverting
+---
+#verb
+- **([[n/_now|now]] [[r/_rare|rare]]) To turn [[b/_back|back]], or turn to the [[c/_contrary|contrary]]; to [[r/_reverse|reverse]].**
+- **To throw [[b/_back|back]]; to [[r/_reflect|reflect]]; to [[r/_reverberate|reverberate]].**
+- **To [[c/_cause|cause]] to [[r/_return|return]] to a [[f/_former|former]] [[c/_condition|condition]].**
+- **([[n/_now|now]] [[r/_rare|rare]]) To [[r/_return|return]]; to [[c/_come|come]] [[b/_back|back]].**
+	- _Example: If they attack, we will revert to the bunker._
+- **To [[r/_return|return]] to the [[p/_possession|possession]] of.**
+	- _Example: When a book goes out of print, rights revert from the publisher to the author._
+- **To [[c/_cause|cause]] (a [[p/_property|property]] or [[r/_rights|rights]]) to [[r/_return|return]] to the [[p/_previous|previous]] [[o/_owner|owner]].**
+	- _Example: Sometimes a publisher will automatically revert rights back to an author once a book has gone out of print._
+- **To [[r/_return|return]] to a [[f/_former|former]] [[p/_practice|practice]], [[c/_condition|condition]], [[b/_belief|belief]], [[e/_etc|etc]].**
+- **To [[r/_return|return]] to an [[e/_earlier|earlier]] or [[p/_primitive|primitive]] type or state; to take on the traits or [[c/_characters|characters]] of an [[a/_ancestral|ancestral]] type.**
+- **To [[c/_change|change]] [[b/_back|back]], as from a [[s/_soluble|soluble]] to an [[i/_insoluble|insoluble]] state or the [[r/_reverse|reverse]].**
+	- _Example: Phosphoric acid in certain fertilizers reverts._
+- **To take up [[a/_again|again]] or [[r/_return|return]] to a [[p/_previous|previous]] topic.**
+- **(in [[m/_muslim|Muslim]] usage, [[d/_due|due]] to the [[b/_belief|belief]] that [[a/_all|all]] [[p/_people|people]] are [[b/_born|born]] [[m/_muslim|Muslim]]) To [[c/_convert|convert]] to [[i/_islam|Islam]].**
+- **([[o/_originally|originally]] [[i/_india|India]], [[n/_now|now]] [[a/_also|also]] [[s/_singapore|Singapore]], [[m/_malaysia|Malaysia]], [[h/_hong|Hong]] [[k/_kong|Kong]]) To [[r/_reply|reply]] (to [[c/_correspondence|correspondence]], for [[e/_example|example]]).**
+	- _Example: Please revert before Monday._
+- **To treat (a [[s/_series|series]], such as [[y/_y|y]] = a + [[b/_bx|bx]] + cx2 + ..., where [[o/_one|one]] variable [[y/_y|y]] is [[e/_expressed|expressed]] in [[p/_powers|powers]] of a [[s/_second|second]] variable x), [[s/_so|so]] as to [[f/_find|find]] the [[s/_second|second]] variable x [[e/_expressed|expressed]] in a [[s/_series|series]] [[a/_arranged|arranged]] in [[p/_powers|powers]] of [[y/_y|y]].**
+---
+---

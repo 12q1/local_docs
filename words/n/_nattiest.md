@@ -1,7 +1,7 @@
 # Nattiest
 ---
 #adjective
-- **Smart and [[f/_fashionable|fashionable]].**
+- **[[s/_smart|Smart]] and [[f/_fashionable|fashionable]].**
 ---
 #adjective
 - **[[k/_knotty|Knotty]].**

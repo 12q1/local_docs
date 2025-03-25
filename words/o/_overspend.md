@@ -1,7 +1,7 @@
 # Overspend
 ---
 #noun
-- **The [[a/_amount|amount]] by which someone or something is [[o/_overspent|overspent]]**
+- **The [[a/_amount|amount]] by which [[s/_someone|someone]] or [[s/_something|something]] is [[o/_overspent|overspent]]**
 ---
 #verb
 - **To spend too [[m/_much|much]] [[m/_money|money]]; [[e/_especially|especially]], to spend [[m/_more|more]] than [[o/_one|one]] [[e/_earns|earns]].**

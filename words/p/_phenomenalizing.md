@@ -1,6 +1,6 @@
 # Phenomenalizing
 ---
 #verb
-- **To represent as a [[p/_phenomenon|phenomenon]].**
+- **To [[r/_represent|represent]] as a [[p/_phenomenon|phenomenon]].**
 ---
 ---

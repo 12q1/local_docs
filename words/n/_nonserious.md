@@ -1,6 +1,6 @@
 # Nonserious
 ---
 #adjective
-- **Not serious**
+- **Not [[s/_serious|serious]]**
 ---
 ---

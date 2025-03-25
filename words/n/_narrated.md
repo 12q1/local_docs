@@ -1,7 +1,7 @@
 # Narrated
 ---
 #verb
-- **To relate (a story or series of [[e/_events|events]]) in speech or writing.**
+- **To [[r/_relate|relate]] (a story or [[s/_series|series]] of [[e/_events|events]]) in speech or writing.**
 - **To [[g/_give|give]] an [[a/_account|account]].**
 ---
 ### Synonyms

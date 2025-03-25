@@ -1,6 +1,6 @@
 # Oversolicitous
 ---
 #adjective
-- **[[e/_excessively|Excessively]] solicitous.**
+- **[[e/_excessively|Excessively]] [[s/_solicitous|solicitous]].**
 ---
 ---

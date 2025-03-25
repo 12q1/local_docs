@@ -3,7 +3,7 @@
 #noun
 - **[[o/_one|One]] who [[n/_narrates|narrates]] or tells stories.**
 - **The [[p/_person|person]] or the "voice" whose viewpoint is used in telling a story.**
-- **The [[p/_person|person]] providing the voice-[[o/_over|over]] in a [[d/_documentary|documentary]].**
+- **The [[p/_person|person]] [[p/_providing|providing]] the voice-[[o/_over|over]] in a [[d/_documentary|documentary]].**
 ---
 ### Synonyms
 - [[s/_storyteller|storyteller]]

@@ -7,6 +7,6 @@
 ### Synonyms
 - [[p/_pass|pass]], [[p/_pw|pw]], [[p/_pwd|pwd]], [[p/_pword|pword]], [[w/_watchword|watchword]], [[p/_passcode|passcode]]
 #verb
-- **To protect with a [[p/_password|password]].**
+- **To [[p/_protect|protect]] with a [[p/_password|password]].**
 ---
 ---

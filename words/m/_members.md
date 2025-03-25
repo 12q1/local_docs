@@ -6,12 +6,12 @@
 	- _Example: The I-beams were to become structural members of a pedestrian bridge._
 - **[[p/_part|Part]] of an [[a/_animal|animal]] [[c/_capable|capable]] of [[p/_performing|performing]] a [[d/_distinct|distinct]] [[o/_office|office]]; an [[o/_organ|organ]]; a [[l/_limb|limb]].**
 - **The [[p/_penis|penis]].**
-- **[[o/_one|One]] of the propositions [[m/_making|making]] up a syllogism.**
-- **An [[e/_element|element]] of a set.**
-- **A [[f/_function|function]] or [[p/_piece|piece]] of [[d/_data|data]] [[a/_associated|associated]] with [[e/_each|each]] separate [[i/_instance|instance]] of a [[c/_class|class]].**
+- **[[o/_one|One]] of the [[p/_propositions|propositions]] [[m/_making|making]] up a [[s/_syllogism|syllogism]].**
+- **An [[e/_element|element]] of a [[s/_set|set]].**
+- **A [[f/_function|function]] or [[p/_piece|piece]] of [[d/_data|data]] [[a/_associated|associated]] with [[e/_each|each]] [[s/_separate|separate]] [[i/_instance|instance]] of a [[c/_class|class]].**
 - **The [[j/_judge|judge]] or [[a/_adjudicator|adjudicator]] in a [[c/_consumer|consumer]] [[c/_court|court]].**
-- **A [[p/_part|part]] of a [[d/_discourse|discourse]] or of a [[p/_period|period]], sentence, or verse; a [[c/_clause|clause]].**
-- **[[e/_either|Either]] of the two [[p/_parts|parts]] of an [[a/_algebraic|algebraic]] [[e/_equation|equation]], [[c/_connected|connected]] by the [[e/_equality|equality]] sign.**
+- **A [[p/_part|part]] of a [[d/_discourse|discourse]] or of a [[p/_period|period]], [[s/_sentence|sentence]], or verse; a [[c/_clause|clause]].**
+- **[[e/_either|Either]] of the two [[p/_parts|parts]] of an [[a/_algebraic|algebraic]] [[e/_equation|equation]], [[c/_connected|connected]] by the [[e/_equality|equality]] [[s/_sign|sign]].**
 - **A [[f/_file|file]] stored within an [[a/_archive|archive]] [[f/_file|file]].**
 	- _Example: The zip file holding the source code of this application has 245 members._
 ---

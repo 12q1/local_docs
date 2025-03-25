@@ -1,6 +1,6 @@
 # Morbilli
 ---
 #noun
-- **[[m/_measles|Measles]], rubeola**
+- **[[m/_measles|Measles]], [[r/_rubeola|rubeola]]**
 ---
 ---

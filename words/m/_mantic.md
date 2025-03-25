@@ -1,9 +1,9 @@
 # Mantic
 ---
 #noun
-- **A soothsayer, a seer.**
+- **A [[s/_soothsayer|soothsayer]], a [[s/_seer|seer]].**
 ---
 #adjective
-- **Relating to [[d/_divination|divination]]; prophetic.**
+- **[[r/_relating|Relating]] to [[d/_divination|divination]]; [[p/_prophetic|prophetic]].**
 ---
 ---

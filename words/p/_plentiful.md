@@ -5,6 +5,6 @@
 	- _Example: She accumulated a plentiful collection of books._
 - **[[y/_yielding|Yielding]] [[a/_abundance|abundance]]; [[f/_fruitful|fruitful]].**
 	- _Example: Some years, the tree is a plentiful source of apples._
-- **[[l/_lavish|Lavish]]; profuse; prodigal**
+- **[[l/_lavish|Lavish]]; [[p/_profuse|profuse]]; [[p/_prodigal|prodigal]]**
 ---
 ---

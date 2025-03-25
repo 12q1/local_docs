@@ -1,0 +1,34 @@
+# Sat
+---
+#verb
+- **(of a [[p/_person|person]]) To be in a [[p/_position|position]] in which the upper [[b/_body|body]] is upright and supported by the [[b/_buttocks|buttocks]].**
+	- _Example: After a long day of walking, it was good just to sit and relax._
+- **(of a [[p/_person|person]]) To [[m/_move|move]] [[o/_oneself|oneself]] [[i/_into|into]] such a [[p/_position|position]].**
+	- _Example: I asked him to sit._
+- **(of an [[o/_object|object]]) To [[o/_occupy|occupy]] a [[g/_given|given]] [[p/_position|position]] [[p/_permanently|permanently]].**
+	- _Example: The temple has sat atop that hill for centuries._
+- **To [[r/_remain|remain]] in a state of [[r/_repose|repose]]; to [[r/_rest|rest]]; to [[a/_abide|abide]]; to [[r/_rest|rest]] in [[a/_any|any]] [[p/_position|position]] or [[c/_condition|condition]].**
+- **To be a [[m/_member|member]] of a [[d/_deliberative|deliberative]] [[b/_body|body]].**
+	- _Example: I currently sit on a standards committee._
+- **Of a [[l/_legislative|legislative]] or, [[e/_especially|especially]], a [[j/_judicial|judicial]] [[b/_body|body]] such as a [[c/_court|court]], to be in [[s/_session|session]].**
+	- _Example: In what city is the circuit court sitting for this session._
+- **To [[l/_lie|lie]], [[r/_rest|rest]], or [[b/_bear|bear]]; to [[p/_press|press]] or weigh.**
+- **To be [[a/_adjusted|adjusted]]; to [[f/_fit|fit]].**
+	- _Example: Your new coat sits well._
+- **(of an [[a/_agreement|agreement]] or [[a/_arrangement|arrangement]]) To be [[a/_accepted|accepted]] or [[a/_acceptable|acceptable]]; to work.**
+	- _Example: How will this new contract sit with the workers?_
+- **([[c/_causative|causative]]) To [[c/_cause|cause]] to be [[s/_seated|seated]] or in a [[s/_sitting|sitting]] [[p/_posture|posture]]; to [[f/_furnish|furnish]] a [[s/_seat|seat]] to.**
+	- _Example: Sit him in front of the TV and he might watch for hours._
+- **To [[a/_accommodate|accommodate]] in [[s/_seats|seats]]; to [[s/_seat|seat]].**
+	- _Example: The dining room table sits eight comfortably._
+- **To [[b/_babysit|babysit]].**
+	- _Example: I need to find someone to sit my kids on Friday evening for four hours._
+- **To take, to undergo or [[c/_complete|complete]] (an [[e/_examination|examination]] or test).**
+- **To [[c/_cover|cover]] and warm [[e/_eggs|eggs]] for [[h/_hatching|hatching]], as a [[f/_fowl|fowl]]; to [[b/_brood|brood]]; to [[i/_incubate|incubate]].**
+- **To take a [[p/_position|position]] for the [[p/_purpose|purpose]] of [[h/_having|having]] [[s/_some|some]] [[a/_artistic|artistic]] [[r/_representation|representation]] of [[o/_oneself|oneself]] [[m/_made|made]], such as a [[p/_picture|picture]] or a [[b/_bust|bust]].**
+	- _Example: I'm sitting for a painter this evening._
+- **To [[h/_have|have]] [[p/_position|position]], as at the [[p/_point|point]] [[b/_blown|blown]] from; to [[h/_hold|hold]] a [[r/_relative|relative]] [[p/_position|position]]; to [[h/_have|have]] [[d/_direction|direction]].**
+---
+### Synonyms
+- [[a/_accepted|accepted]], [[r/_received|received]], [[w/_welcomed|welcomed]], [[w/_well|well]], [[b/_be|be]], [[f/_found|found]], [[s/_situated|situated]], [[s/_seat|seat]]
+---

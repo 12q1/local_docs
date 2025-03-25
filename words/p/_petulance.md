@@ -1,8 +1,8 @@
 # Petulance
 ---
 #noun
-- **Rudeness, [[i/_insolence|insolence]].**
-- **An [[i/_insolent|insolent]] remark or [[a/_act|act]].**
+- **[[r/_rudeness|Rudeness]], [[i/_insolence|insolence]].**
+- **An [[i/_insolent|insolent]] [[r/_remark|remark]] or [[a/_act|act]].**
 - **[[c/_childish|Childish]] [[i/_impatience|impatience]] or sulkiness; testiness.**
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Makos
 ---
 #noun
-- **[[m/_mako|Mako]] shark**
+- **[[m/_mako|Mako]] [[s/_shark|shark]]**
 ---
 ---

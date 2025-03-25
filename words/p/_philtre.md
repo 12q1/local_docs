@@ -6,6 +6,6 @@
 #verb
 - **To [[i/_impregnate|impregnate]] or [[m/_mix|mix]] with a [[l/_love|love]] [[p/_potion|potion]].**
 	- _Example: to philter a draught_
-- **To [[c/_charm|charm]] to [[l/_love|love]]; to [[e/_excite|excite]] to [[l/_love|love]] or sexual [[d/_desire|desire]] by a [[p/_potion|potion]].**
+- **To [[c/_charm|charm]] to [[l/_love|love]]; to [[e/_excite|excite]] to [[l/_love|love]] or [[s/_sexual|sexual]] [[d/_desire|desire]] by a [[p/_potion|potion]].**
 ---
 ---

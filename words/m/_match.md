@@ -3,8 +3,8 @@
 #noun
 - **A [[c/_competitive|competitive]] sporting [[e/_event|event]] such as a [[b/_boxing|boxing]] [[m/_meet|meet]], a [[b/_baseball|baseball]] [[g/_game|game]], or a [[c/_cricket|cricket]] [[m/_match|match]].**
 	- _Example: My local team are playing in a match against their arch-rivals today._
-- **[[a/_any|Any]] [[c/_contest|contest]] or trial of strength or skill, or to [[d/_determine|determine]] superiority.**
-- **Someone with a [[m/_measure|measure]] of an [[a/_attribute|attribute]] [[e/_equaling|equaling]] or [[e/_exceeding|exceeding]] the [[o/_object|object]] of [[c/_comparison|comparison]].**
+- **[[a/_any|Any]] [[c/_contest|contest]] or trial of strength or [[s/_skill|skill]], or to [[d/_determine|determine]] superiority.**
+- **[[s/_someone|Someone]] with a [[m/_measure|measure]] of an [[a/_attribute|attribute]] [[e/_equaling|equaling]] or [[e/_exceeding|exceeding]] the [[o/_object|object]] of [[c/_comparison|comparison]].**
 	- _Example: He knew he had met his match._
 - **A [[m/_marriage|marriage]].**
 - **A [[c/_candidate|candidate]] for [[m/_matrimony|matrimony]]; [[o/_one|one]] to be [[g/_gained|gained]] in [[m/_marriage|marriage]].**
@@ -14,7 +14,7 @@
 - **A [[p/_pair|pair]] of [[i/_items|items]] or [[e/_entities|entities]] with [[m/_mutually|mutually]] suitable [[c/_characteristics|characteristics]].**
 	- _Example: The carpet and curtains are a match._
 - **An [[a/_agreement|agreement]] or [[c/_compact|compact]].**
-- **A [[p/_perforated|perforated]] [[b/_board|board]], [[b/_block|block]] of [[p/_plaster|plaster]], [[h/_hardened|hardened]] sand, [[e/_etc|etc]]., in which a [[p/_pattern|pattern]] is [[p/_partly|partly]] [[e/_embedded|embedded]] when a [[m/_mould|mould]] is [[m/_made|made]], for [[g/_giving|giving]] shape to the surfaces of separation [[b/_between|between]] the [[p/_parts|parts]] of the [[m/_mould|mould]].**
+- **A [[p/_perforated|perforated]] [[b/_board|board]], [[b/_block|block]] of [[p/_plaster|plaster]], [[h/_hardened|hardened]] [[s/_sand|sand]], [[e/_etc|etc]]., in which a [[p/_pattern|pattern]] is [[p/_partly|partly]] [[e/_embedded|embedded]] when a [[m/_mould|mould]] is [[m/_made|made]], for [[g/_giving|giving]] [[s/_shape|shape]] to the surfaces of [[s/_separation|separation]] [[b/_between|between]] the [[p/_parts|parts]] of the [[m/_mould|mould]].**
 ---
 #verb
 - **To [[a/_agree|agree]]; to be [[e/_equal|equal]]; to [[c/_correspond|correspond]].**

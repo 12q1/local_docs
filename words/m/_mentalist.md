@@ -5,6 +5,6 @@
 - **An [[i/_insane|insane]] [[p/_person|person]].**
 ---
 #adjective
-- **Of or relating to [[m/_mentalism|mentalism]]**
+- **Of or [[r/_relating|relating]] to [[m/_mentalism|mentalism]]**
 ---
 ---

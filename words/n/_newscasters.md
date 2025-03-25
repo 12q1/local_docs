@@ -1,6 +1,6 @@
 # Newscasters
 ---
 #noun
-- **[[o/_one|One]] who [[d/_delivers|delivers]] the [[n/_news|news]] for [[b/_broadcast|broadcast]] on television, radio, [[e/_etc|etc]]; a [[n/_newsreader|newsreader]].**
+- **[[o/_one|One]] who [[d/_delivers|delivers]] the [[n/_news|news]] for [[b/_broadcast|broadcast]] on television, [[r/_radio|radio]], [[e/_etc|etc]]; a [[n/_newsreader|newsreader]].**
 ---
 ---

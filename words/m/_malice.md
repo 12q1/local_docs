@@ -1,7 +1,7 @@
 # Malice
 ---
 #noun
-- **[[i/_intention|Intention]] to [[h/_harm|harm]] or [[d/_deprive|deprive]] in an [[i/_illegal|illegal]] or [[i/_immoral|immoral]] way. [[d/_desire|Desire]] to take [[p/_pleasure|pleasure]] in [[a/_another|another]]'s [[m/_misfortune|misfortune]].**
+- **[[i/_intention|Intention]] to [[h/_harm|harm]] or [[d/_deprive|deprive]] in an [[i/_illegal|illegal]] or [[i/_immoral|immoral]] way. [[d/_desire|Desire]] to take [[p/_pleasure|pleasure]] in [[a/_another|another]]'[[s/_s|s]] [[m/_misfortune|misfortune]].**
 - **An [[i/_intention|intention]] to [[d/_do|do]] [[i/_injury|injury]] to [[a/_another|another]] [[p/_party|party]], which in [[m/_many|many]] [[j/_jurisdictions|jurisdictions]] is a [[d/_distinguishing|distinguishing]] [[f/_factor|factor]] [[b/_between|between]] the [[c/_crimes|crimes]] of [[m/_murder|murder]] and [[m/_manslaughter|manslaughter]].**
 ---
 ### Synonyms

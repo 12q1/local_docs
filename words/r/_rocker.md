@@ -1,0 +1,21 @@
+# Rocker
+---
+#noun
+- **A [[c/_curved|curved]] [[p/_piece|piece]] of wood [[a/_attached|attached]] to the [[b/_bottom|bottom]] of a [[r/_rocking|rocking]] [[c/_chair|chair]] or [[c/_cradle|cradle]] that [[e/_enables|enables]] it to [[r/_rock|rock]] [[b/_back|back]] and [[f/_forth|forth]].**
+- **A [[r/_rocking|rocking]] [[c/_chair|chair]].**
+- **The [[l/_lengthwise|lengthwise]] [[c/_curvature|curvature]] of a surfboard. ([[m/_more|More]] [[r/_rocker|rocker]] is a [[m/_more|more]] [[c/_curved|curved]] [[b/_board|board]].)**
+	- _Example: All modern surfboards share a similar rocker design — Bruce Jones https//web.archive.org/web/20051212041317/http://www.brucejones.com/longboar.htm_
+- **The [[b/_breve|breve]] [[b/_below|below]] as in ḫ.**
+- **[[s/_someone|Someone]] [[p/_passionate|passionate]] [[a/_about|about]] [[r/_rock|rock]] [[m/_music|music]].**
+- **A [[m/_musician|musician]] who [[p/_plays|plays]] [[r/_rock|rock]] [[m/_music|music]].**
+- **A [[r/_rock|rock]] [[m/_music|music]] [[s/_song|song]].**
+- **[[o/_one|One]] who [[r/_rocks|rocks]] [[s/_something|something]].**
+- **A [[m/_member|member]] of a [[b/_british|British]] subculture of the 1960s, [[o/_opposed|opposed]] to the [[m/_mods|mods]], who [[d/_dressed|dressed]] in [[b/_black|black]] [[l/_leather|leather]] and were [[i/_interested|interested]] in 1950s [[m/_music|music]].**
+- **[[a/_any|Any]] [[i/_implement|implement]] or [[m/_machine|machine]] working with a [[r/_rocking|rocking]] [[m/_motion|motion]], such as a trough [[m/_mounted|mounted]] on [[r/_rockers|rockers]] for [[s/_separating|separating]] [[g/_gold|gold]] [[d/_dust|dust]] from [[g/_gravel|gravel]], [[e/_etc|etc]]., by [[a/_agitation|agitation]] in water.**
+- **A tool with [[s/_small|small]] teeth that [[r/_roughens|roughens]] a [[m/_metal|metal]] [[p/_plate|plate]] to [[p/_produce|produce]] tonality in mezzotints.**
+- **A [[r/_rocking|rocking]] [[h/_horse|horse]].**
+- **A [[r/_rocker|rocker]] [[b/_board|board]].**
+- **A [[s/_skate|skate]] with a [[c/_curved|curved]] [[b/_blade|blade]], [[s/_somewhat|somewhat]] [[r/_resembling|resembling]] in [[s/_shape|shape]] the [[r/_rocker|rocker]] of a [[c/_cradle|cradle]].**
+- **A [[r/_rock|rock]] [[s/_shaft|shaft]].**
+---
+---

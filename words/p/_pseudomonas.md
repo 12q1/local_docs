@@ -1,0 +1,6 @@
+# Pseudomonas
+---
+#noun
+- **A pseudomonad.**
+---
+---

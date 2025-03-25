@@ -1,7 +1,7 @@
 # Napoo
 ---
 #verb
-- **To [[f/_finish|finish]]; to put an [[e/_end|end]] to; to [[k/_kill|kill]].**
+- **To [[f/_finish|finish]]; to [[p/_put|put]] an [[e/_end|end]] to; to [[k/_kill|kill]].**
 	- _Example: He will napoo the rations._
 ---
 #adjective

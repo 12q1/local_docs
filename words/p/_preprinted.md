@@ -1,6 +1,6 @@
 # Preprinted
 ---
 #verb
-- **To print in [[a/_advance|advance]].**
+- **To [[p/_print|print]] in [[a/_advance|advance]].**
 ---
 ---

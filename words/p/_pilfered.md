@@ -1,6 +1,6 @@
 # Pilfered
 ---
 #verb
-- **To steal in small quantities, or [[a/_articles|articles]] of small value; to [[p/_practise|practise]] [[p/_petty|petty]] theft.**
+- **To steal in [[s/_small|small]] [[q/_quantities|quantities]], or [[a/_articles|articles]] of [[s/_small|small]] value; to [[p/_practise|practise]] [[p/_petty|petty]] theft.**
 ---
 ---

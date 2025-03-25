@@ -1,18 +1,18 @@
 # Outstanding
 ---
 #verb
-- **To resist [[e/_effectually|effectually]]; withstand; sustain without [[y/_yielding|yielding]].**
-- **To surpass in standing; stand or remain [[b/_beyond|beyond]]; [[o/_outstay|outstay]].**
-- **To project [[o/_outward|outward]] from the [[m/_main|main]] [[b/_body|body]]; stand [[o/_out|out]] prominently; be prominent.**
-- **To stand [[o/_out|out]] to sea.**
-- **To remain [[o/_over|over]]; remain untouched, unimpaired, unsettled, uncollected, unpaid, or [[o/_otherwise|otherwise]] undetermined.**
+- **To [[r/_resist|resist]] [[e/_effectually|effectually]]; withstand; sustain without [[y/_yielding|yielding]].**
+- **To surpass in standing; stand or [[r/_remain|remain]] [[b/_beyond|beyond]]; [[o/_outstay|outstay]].**
+- **To [[p/_project|project]] [[o/_outward|outward]] from the [[m/_main|main]] [[b/_body|body]]; stand [[o/_out|out]] [[p/_prominently|prominently]]; be [[p/_prominent|prominent]].**
+- **To stand [[o/_out|out]] to [[s/_sea|sea]].**
+- **To [[r/_remain|remain]] [[o/_over|over]]; [[r/_remain|remain]] untouched, unimpaired, unsettled, uncollected, unpaid, or [[o/_otherwise|otherwise]] undetermined.**
 	- _Example: outstanding contracts_
 ---
 #adjective
-- **Prominent or [[n/_noticeable|noticeable]]; standing [[o/_out|out]] from [[o/_others|others]].**
+- **[[p/_prominent|Prominent]] or [[n/_noticeable|noticeable]]; standing [[o/_out|out]] from [[o/_others|others]].**
 - **[[e/_exceptionally|Exceptionally]] [[g/_good|good]]; [[d/_distinguished|distinguished]] from [[o/_others|others]] by [[i/_its|its]] superiority.**
-- **Projecting [[o/_outwards|outwards]].**
-- **Unresolved; not settled or [[f/_finished|finished]].**
+- **[[p/_projecting|Projecting]] [[o/_outwards|outwards]].**
+- **Unresolved; not [[s/_settled|settled]] or [[f/_finished|finished]].**
 - **[[o/_owed|Owed]] as a [[d/_debt|debt]].**
 ---
 ### Synonyms

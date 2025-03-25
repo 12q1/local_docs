@@ -1,16 +1,16 @@
 # Noddies
 ---
 #noun
-- **A stupid or silly [[p/_person|person]].**
+- **A stupid or [[s/_silly|silly]] [[p/_person|person]].**
 ---
 #noun
-- **[[a/_any|Any]] of several stout-[[b/_bodied|bodied]], [[g/_gregarious|gregarious]] terns of the [[g/_genera|genera]] [[a/_anous|Anous]] and Procelsterna, [[f/_found|found]] in tropical seas.**
-- **A small two-wheeled vehicle [[d/_drawn|drawn]] by a single [[h/_horse|horse]].**
-- **An [[i/_inverted|inverted]] [[p/_pendulum|pendulum]] [[c/_consisting|consisting]] of a short vertical [[f/_flat|flat]] spring which supports a rod [[h/_having|having]] a [[b/_bob|bob]] at the top; used for [[d/_detecting|detecting]] and [[m/_measuring|measuring]] slight [[h/_horizontal|horizontal]] vibrations of a [[b/_body|body]] to which it is [[a/_attached|attached]].**
+- **[[a/_any|Any]] of [[s/_several|several]] stout-[[b/_bodied|bodied]], [[g/_gregarious|gregarious]] terns of the [[g/_genera|genera]] [[a/_anous|Anous]] and Procelsterna, [[f/_found|found]] in tropical [[s/_seas|seas]].**
+- **A [[s/_small|small]] two-wheeled vehicle [[d/_drawn|drawn]] by a [[s/_single|single]] [[h/_horse|horse]].**
+- **An [[i/_inverted|inverted]] [[p/_pendulum|pendulum]] [[c/_consisting|consisting]] of a [[s/_short|short]] vertical [[f/_flat|flat]] spring which supports a [[r/_rod|rod]] [[h/_having|having]] a [[b/_bob|bob]] at the top; used for [[d/_detecting|detecting]] and [[m/_measuring|measuring]] [[s/_slight|slight]] [[h/_horizontal|horizontal]] vibrations of a [[b/_body|body]] to which it is [[a/_attached|attached]].**
 - **An [[o/_old|old]] [[c/_card|card]] [[g/_game|game]].**
 ---
 #noun
-- **A [[c/_cutaway|cutaway]] scene of a television [[i/_interviewer|interviewer]] [[n/_nodding|nodding]], used to [[c/_cover|cover]] an [[e/_editing|editing]] [[g/_gap|gap]] in an [[i/_interview|interview]].**
+- **A [[c/_cutaway|cutaway]] [[s/_scene|scene]] of a television [[i/_interviewer|interviewer]] [[n/_nodding|nodding]], used to [[c/_cover|cover]] an [[e/_editing|editing]] [[g/_gap|gap]] in an [[i/_interview|interview]].**
 	- _Example: Noddies are often filmed after the interview in question has finished._
 ---
 ### Synonyms

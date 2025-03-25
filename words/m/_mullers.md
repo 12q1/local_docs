@@ -6,7 +6,7 @@
 - **A vessel in which wine, [[e/_etc|etc]]., is [[m/_mulled|mulled]] [[o/_over|over]] a [[f/_fire|fire]].**
 ---
 #noun
-- **A [[m/_machine|machine]] that [[m/_mixes|mixes]] sand and [[c/_clay|clay]] for use in [[m/_metal|metal]] [[c/_castings|castings]].**
+- **A [[m/_machine|machine]] that [[m/_mixes|mixes]] [[s/_sand|sand]] and [[c/_clay|clay]] for use in [[m/_metal|metal]] [[c/_castings|castings]].**
 ---
 ### Synonyms
 - 

@@ -1,6 +1,6 @@
 # Prepubertal
 ---
 #adjective
-- **[[b/_before|Before]] puberty.**
+- **[[b/_before|Before]] [[p/_puberty|puberty]].**
 ---
 ---

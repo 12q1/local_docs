@@ -1,7 +1,7 @@
 # Noisier
 ---
 #adjective
-- **[[m/_making|Making]] a [[n/_noise|noise]], [[e/_especially|especially]] a [[l/_loud|loud]] unpleasant sound**
+- **[[m/_making|Making]] a [[n/_noise|noise]], [[e/_especially|especially]] a [[l/_loud|loud]] unpleasant [[s/_sound|sound]]**
 	- _Example: the noisy crowd._
 - **[[f/_full|Full]] of [[n/_noise|noise]].**
 	- _Example: a noisy bar_

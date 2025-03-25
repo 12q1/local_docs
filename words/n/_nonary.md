@@ -1,6 +1,6 @@
 # Nonary
 ---
 #adjective
-- **Of [[n/_ninth|ninth]] rank or [[o/_order|order]].**
+- **Of [[n/_ninth|ninth]] [[r/_rank|rank]] or [[o/_order|order]].**
 ---
 ---

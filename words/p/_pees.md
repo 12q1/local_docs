@@ -10,13 +10,13 @@
 	- _Example: It's peeing with rain._
 ---
 #noun
-- **The [[n/_name|name]] of the [[l/_latin|Latin]]-script [[l/_letter|letter]] [[p/_p|P]].**
+- **The [[n/_name|name]] of the [[l/_latin|Latin]]-[[s/_script|script]] [[l/_letter|letter]] [[p/_p|P]].**
 	- _Example: Mind your pees and cues._
 ---
 #noun
 - **The [[b/_bill|bill]] of an [[a/_anchor|anchor]].**
 ---
 #noun
-- **The sliding weight on a steelyard.**
+- **The [[s/_sliding|sliding]] weight on a steelyard.**
 ---
 ---

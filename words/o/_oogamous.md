@@ -1,6 +1,6 @@
 # Oogamous
 ---
 #adjective
-- **Of or relating to [[o/_oogamy|oogamy]]**
+- **Of or [[r/_relating|relating]] to [[o/_oogamy|oogamy]]**
 ---
 ---

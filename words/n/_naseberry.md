@@ -1,6 +1,6 @@
 # Naseberry
 ---
 #noun
-- **The sapodilla [[f/_fruit|fruit]].**
+- **The [[s/_sapodilla|sapodilla]] [[f/_fruit|fruit]].**
 ---
 ---

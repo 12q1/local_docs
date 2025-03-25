@@ -5,6 +5,6 @@
 	- _Example: The crew of the Bounty mutinied because of the harsh discipline of Captain Bligh._
 ---
 #noun
-- **An [[a/_act|act]] of [[m/_mutiny|mutiny]] or rebellion.**
+- **An [[a/_act|act]] of [[m/_mutiny|mutiny]] or [[r/_rebellion|rebellion]].**
 ---
 ---

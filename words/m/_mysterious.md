@@ -3,7 +3,7 @@
 #adjective
 - **Of unknown [[o/_origin|origin]].**
 	- _Example: He received a mysterious phone call this morning._
-- **[[h/_having|Having]] unknown qualities.**
+- **[[h/_having|Having]] unknown [[q/_qualities|qualities]].**
 	- _Example: Our boss is a mysterious man who hardly ever meets with us._
 - **[[d/_difficult|Difficult]] to understand.**
 	- _Example: Why he left without saying goodbye is quite mysterious._

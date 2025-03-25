@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[a/_aeroplane|aeroplane]] [[c/_crash|crash]].**
-- **A [[b/_bombing|bombing]] raid.**
+- **A [[b/_bombing|bombing]] [[r/_raid|raid]].**
 - **An [[a/_accident|accident]] [[i/_involving|involving]] a [[m/_motor|motor]] vehicle, typically [[m/_minor|minor]] and without [[c/_casualties|casualties]].**
 - **[[c/_crack|Crack]] [[c/_cocaine|cocaine]].**
 ---

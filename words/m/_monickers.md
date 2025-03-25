@@ -3,7 +3,7 @@
 #noun
 - **A [[p/_personal|personal]] [[n/_name|name]] or [[n/_nickname|nickname]]; an [[i/_informal|informal]] [[l/_label|label]], [[o/_often|often]] [[d/_drawing|drawing]] [[a/_attention|attention]] to a [[p/_particular|particular]] [[a/_attribute|attribute]].**
 	- _Example: The rookie was upset at being called Lemon Drop until she realized that everyone on the team had a silly moniker._
-- **A signature.**
+- **A [[s/_signature|signature]].**
 - **An [[o/_object|object]] (structured [[i/_item|item]] of [[d/_data|data]]) used to [[a/_associate|associate]] the [[n/_name|name]] of an [[o/_object|object]] with [[i/_its|its]] [[l/_location|location]].**
 ---
 ### Synonyms

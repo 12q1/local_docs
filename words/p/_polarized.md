@@ -6,6 +6,6 @@
 ---
 #adjective
 - **[[h/_having|Having]] a [[d/_distinctive|distinctive]] [[p/_polarization|polarization]].**
-- **Of a [[g/_group|group]] or situation, [[b/_being|being]] at two or [[m/_more|more]] [[e/_extremes|extremes]].**
+- **Of a [[g/_group|group]] or [[s/_situation|situation]], [[b/_being|being]] at two or [[m/_more|more]] [[e/_extremes|extremes]].**
 ---
 ---

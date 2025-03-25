@@ -5,6 +5,6 @@
 ---
 #adverb
 - **With [[a/_attention|attention]] to tiny [[d/_details|details]].**
-- **On a [[m/_minute|minute]] scale.**
+- **On a [[m/_minute|minute]] [[s/_scale|scale]].**
 ---
 ---

@@ -1,14 +1,14 @@
 # Pioneering
 ---
 #verb
-- **To be the [[f/_first|first]] to [[d/_do|do]] or [[a/_achieve|achieve]] (something), [[p/_preparing|preparing]] the way for [[o/_others|others]] to [[f/_follow|follow]].**
+- **To be the [[f/_first|first]] to [[d/_do|do]] or [[a/_achieve|achieve]] ([[s/_something|something]]), [[p/_preparing|preparing]] the way for [[o/_others|others]] to [[f/_follow|follow]].**
 	- _Example: The young doctor pioneered a new life-saving surgical technique._
 ---
 ### Synonyms
 - 
 #noun
 - **The [[a/_activity|activity]] of the verb [[p/_pioneer|pioneer]].**
-- **A scoutcraft skill that [[i/_involves|involves]] [[b/_building|building]] structures using staves and [[k/_knots|knots]].**
+- **A [[s/_scoutcraft|scoutcraft]] [[s/_skill|skill]] that [[i/_involves|involves]] [[b/_building|building]] structures using staves and [[k/_knots|knots]].**
 ---
 #adjective
 - **[[i/_involving|Involving]] [[a/_accomplishments|accomplishments]] or [[a/_activities|activities]] that [[h/_have|have]] not [[b/_been|been]] [[d/_done|done]] [[b/_before|before]], or [[d/_developing|developing]] or using [[n/_new|new]] [[m/_methods|methods]] or techniques.**

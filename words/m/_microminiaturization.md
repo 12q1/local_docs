@@ -1,6 +1,6 @@
 # Microminiaturization
 ---
 #noun
-- **The process of [[m/_microminiaturizing|microminiaturizing]].**
+- **The [[p/_process|process]] of [[m/_microminiaturizing|microminiaturizing]].**
 ---
 ---

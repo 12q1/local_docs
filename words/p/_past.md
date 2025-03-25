@@ -5,7 +5,7 @@
 - **To [[c/_change|change]] in state or status**
 - **To [[m/_move|move]] through time.**
 - **To be [[a/_accepted|accepted]].**
-- **In [[a/_any|any]] [[g/_game|game]], to [[d/_decline|decline]] to [[p/_play|play]] in [[o/_one|one]]'s turn.**
+- **In [[a/_any|any]] [[g/_game|game]], to [[d/_decline|decline]] to [[p/_play|play]] in [[o/_one|one]]'[[s/_s|s]] turn.**
 - **To [[d/_do|do]] or be [[b/_better|better]].**
 - **To take [[h/_heed|heed]].**
 ---
@@ -21,10 +21,10 @@
 #adjective
 - **[[h/_having|Having]] [[a/_already|already]] [[h/_happened|happened]]; in the [[p/_past|past]]; [[f/_finished|finished]].**
 	- _Example: past glories_
-- **(postmodifier) [[f/_following|Following]] [[e/_expressions|expressions]] of time to [[i/_indicate|indicate]] [[h/_how|how]] [[l/_long|long]] [[a/_ago|ago]] something [[h/_happened|happened]]; [[a/_ago|ago]].**
-- **Of a [[p/_period|period]] of time: [[h/_having|having]] [[j/_just|just]] [[g/_gone|gone]] by; previous.**
+- **(postmodifier) [[f/_following|Following]] [[e/_expressions|expressions]] of time to [[i/_indicate|indicate]] [[h/_how|how]] [[l/_long|long]] [[a/_ago|ago]] [[s/_something|something]] [[h/_happened|happened]]; [[a/_ago|ago]].**
+- **Of a [[p/_period|period]] of time: [[h/_having|having]] [[j/_just|just]] [[g/_gone|gone]] by; [[p/_previous|previous]].**
 	- _Example: during the past year_
-- **([[g/_grammar|grammar]]) Of a tense, [[e/_expressing|expressing]] [[a/_action|action]] that [[h/_has|has]] [[a/_already|already]] [[h/_happened|happened]] or a previously-[[e/_existing|existing]] state.**
+- **([[g/_grammar|grammar]]) Of a tense, [[e/_expressing|expressing]] [[a/_action|action]] that [[h/_has|has]] [[a/_already|already]] [[h/_happened|happened]] or a [[p/_previously|previously]]-[[e/_existing|existing]] state.**
 	- _Example: past tense_
 ---
 ### Synonyms
@@ -38,10 +38,10 @@
 ### Synonyms
 - [[b/_by|by]]
 #preposition
-- **[[b/_beyond|Beyond]] in [[p/_place|place]], quantity or time.**
+- **[[b/_beyond|Beyond]] in [[p/_place|place]], [[q/_quantity|quantity]] or time.**
 	- _Example: count past twenty_
 - **[[n/_no|No]] [[l/_longer|longer]] [[c/_capable|capable]] of.**
 	- _Example: I'm past caring what he thinks of me._
-- **[[h/_having|Having]] recovered or [[m/_moved|moved]] on from (a traumatic [[e/_experience|experience]], [[e/_etc|etc]].).**
+- **[[h/_having|Having]] [[r/_recovered|recovered]] or [[m/_moved|moved]] on from (a traumatic [[e/_experience|experience]], [[e/_etc|etc]].).**
 ---
 ---

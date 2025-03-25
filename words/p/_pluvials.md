@@ -1,6 +1,6 @@
 # Pluvials
 ---
 #noun
-- **A rainy [[p/_period|period]]**
+- **A [[r/_rainy|rainy]] [[p/_period|period]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Outhauls
 ---
 #noun
-- **A rope that is used to [[e/_extend|extend]] a sail [[a/_along|along]] a spar**
+- **A [[r/_rope|rope]] that is used to [[e/_extend|extend]] a [[s/_sail|sail]] [[a/_along|along]] a [[s/_spar|spar]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Orthopedic
 ---
 #adjective
-- **Of, or relating to [[o/_orthopedics|orthopedics]].**
+- **Of, or [[r/_relating|relating]] to [[o/_orthopedics|orthopedics]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Meaningfully
 ---
 #adverb
-- **In a [[m/_meaningful|meaningful]] or significant [[m/_manner|manner]].**
+- **In a [[m/_meaningful|meaningful]] or [[s/_significant|significant]] [[m/_manner|manner]].**
 ---
 ---

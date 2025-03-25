@@ -1,6 +1,6 @@
 # Nobiliary
 ---
 #adjective
-- **[[p/_pertaining|Pertaining]] or related to [[n/_nobility|nobility]].**
+- **[[p/_pertaining|Pertaining]] or [[r/_related|related]] to [[n/_nobility|nobility]].**
 ---
 ---

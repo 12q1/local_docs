@@ -1,7 +1,7 @@
 # Pedlars
 ---
 #noun
-- **An [[i/_itinerant|itinerant]] seller of small [[g/_goods|goods]].**
+- **An [[i/_itinerant|itinerant]] [[s/_seller|seller]] of [[s/_small|small]] [[g/_goods|goods]].**
 - **A [[d/_drug|drug]] [[d/_dealer|dealer]].**
 ---
 ### Synonyms

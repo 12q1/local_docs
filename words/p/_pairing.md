@@ -1,10 +1,10 @@
 # Pairing
 ---
 #verb
-- **To [[g/_group|group]] [[i/_into|into]] [[o/_one|one]] or [[m/_more|more]] sets of two.**
+- **To [[g/_group|group]] [[i/_into|into]] [[o/_one|one]] or [[m/_more|more]] [[s/_sets|sets]] of two.**
 	- _Example: The wedding guests were paired boy/girl and groom's party/bride's party._
 - **To [[b/_bring|bring]] two ([[a/_animals|animals]], [[n/_notably|notably]] [[d/_dogs|dogs]]) together for [[m/_mating|mating]].**
-- **To [[e/_engage|engage]] ([[o/_oneself|oneself]]) with [[a/_another|another]] of [[o/_opposite|opposite]] [[o/_opinions|opinions]] not to vote on a [[p/_particular|particular]] question or [[c/_class|class]] of questions.**
+- **To [[e/_engage|engage]] ([[o/_oneself|oneself]]) with [[a/_another|another]] of [[o/_opposite|opposite]] [[o/_opinions|opinions]] not to vote on a [[p/_particular|particular]] [[q/_question|question]] or [[c/_class|class]] of [[q/_questions|questions]].**
 - **To suit; to [[f/_fit|fit]], as a [[c/_counterpart|counterpart]].**
 ---
 #verb
@@ -13,6 +13,6 @@
 ---
 #noun
 - **The [[c/_combination|combination]] or union of two things.**
-- **An [[a/_agreement|agreement]] [[b/_between|between]] two [[m/_members|members]] of a [[l/_legislative|legislative]] [[b/_body|body]] [[h/_holding|holding]] [[o/_opposite|opposite]] [[o/_opinions|opinions]] to refrain from voting, so that [[b/_both|both]] [[m/_may|may]] [[a/_absent|absent]] themselves.**
+- **An [[a/_agreement|agreement]] [[b/_between|between]] two [[m/_members|members]] of a [[l/_legislative|legislative]] [[b/_body|body]] [[h/_holding|holding]] [[o/_opposite|opposite]] [[o/_opinions|opinions]] to [[r/_refrain|refrain]] from voting, [[s/_so|so]] that [[b/_both|both]] [[m/_may|may]] [[a/_absent|absent]] themselves.**
 ---
 ---

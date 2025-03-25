@@ -1,6 +1,6 @@
 # Niveous
 ---
 #adjective
-- **Snowy; resembling snow.**
+- **[[s/_snowy|Snowy]]; [[r/_resembling|resembling]] [[s/_snow|snow]].**
 ---
 ---

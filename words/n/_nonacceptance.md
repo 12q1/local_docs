@@ -1,7 +1,7 @@
 # Nonacceptance
 ---
 #noun
-- **A [[n/_neglect|neglect]] or refusal to [[a/_accept|accept]].**
+- **A [[n/_neglect|neglect]] or [[r/_refusal|refusal]] to [[a/_accept|accept]].**
 ---
 ### Synonyms
 - [[r/_rejection|rejection]]

@@ -1,6 +1,6 @@
 # Oxyntic
 ---
 #adjective
-- **Producing [[a/_acid|acid]].**
+- **[[p/_producing|Producing]] [[a/_acid|acid]].**
 ---
 ---

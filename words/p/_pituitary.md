@@ -8,7 +8,7 @@
 ### Synonyms
 - [[h/_hypophysis|hypophysis]]
 #adjective
-- **Of or relating to the [[p/_pituitary|pituitary]] [[g/_gland|gland]].**
+- **Of or [[r/_relating|relating]] to the [[p/_pituitary|pituitary]] [[g/_gland|gland]].**
 - **[[m/_mucous|Mucous]].**
 ---
 ### Synonyms

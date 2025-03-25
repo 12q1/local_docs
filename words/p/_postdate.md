@@ -1,7 +1,7 @@
 # Postdate
 ---
 #noun
-- **A [[d/_date|date]] on a [[d/_document|document]] [[l/_later|later]] than the real [[d/_date|date]] on which it was written.**
+- **A [[d/_date|date]] on a [[d/_document|document]] [[l/_later|later]] than the [[r/_real|real]] [[d/_date|date]] on which it was written.**
 ---
 #verb
 - **To [[o/_occur|occur]] [[a/_after|after]] an [[e/_event|event]] or time; to [[e/_exist|exist]] [[l/_later|later]] on in time**

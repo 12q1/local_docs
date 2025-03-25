@@ -1,6 +1,6 @@
 # Munificence
 ---
 #noun
-- **The quality of [[b/_being|being]] [[m/_munificent|munificent]]; [[g/_generosity|generosity]].**
+- **The [[q/_quality|quality]] of [[b/_being|being]] [[m/_munificent|munificent]]; [[g/_generosity|generosity]].**
 ---
 ---

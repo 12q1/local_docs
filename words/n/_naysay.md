@@ -1,10 +1,10 @@
 # Naysay
 ---
 #noun
-- **A refusal, [[d/_denial|denial]], or [[n/_negation|negation]].**
+- **A [[r/_refusal|refusal]], [[d/_denial|denial]], or [[n/_negation|negation]].**
 ---
 #verb
-- **To speak [[n/_negatively|negatively]] of something.**
-- **To reply [[n/_no|no]].**
+- **To [[s/_speak|speak]] [[n/_negatively|negatively]] of [[s/_something|something]].**
+- **To [[r/_reply|reply]] [[n/_no|no]].**
 ---
 ---

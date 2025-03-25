@@ -1,11 +1,11 @@
 # Pilgrim
 ---
 #noun
-- **[[o/_one|One]] who travels, [[e/_especially|especially]] on a [[j/_journey|journey]] to visit sites of religious significance.**
+- **[[o/_one|One]] who travels, [[e/_especially|especially]] on a [[j/_journey|journey]] to visit [[s/_sites|sites]] of [[r/_religious|religious]] [[s/_significance|significance]].**
 - **A [[n/_newcomer|newcomer]].**
-- **A silk screen [[f/_formerly|formerly]] [[a/_attached|attached]] to the [[b/_back|back]] of a woman's [[b/_bonnet|bonnet]] to protect the [[n/_neck|neck]].**
+- **A [[s/_silk|silk]] [[s/_screen|screen]] [[f/_formerly|formerly]] [[a/_attached|attached]] to the [[b/_back|back]] of a woman'[[s/_s|s]] [[b/_bonnet|bonnet]] to [[p/_protect|protect]] the [[n/_neck|neck]].**
 ---
 #verb
-- **To [[j/_journey|journey]]; to wander; to ramble.**
+- **To [[j/_journey|journey]]; to wander; to [[r/_ramble|ramble]].**
 ---
 ---

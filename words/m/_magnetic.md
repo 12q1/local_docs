@@ -1,10 +1,10 @@
 # Magnetic
 ---
 #adjective
-- **Of, relating to, [[o/_operating|operating]] by, or [[c/_caused|caused]] by [[m/_magnetism|magnetism]].**
+- **Of, [[r/_relating|relating]] to, [[o/_operating|operating]] by, or [[c/_caused|caused]] by [[m/_magnetism|magnetism]].**
 	- _Example: a magnetic recorder_
-- **[[h/_having|Having]] the properties of a [[m/_magnet|magnet]], [[e/_especially|especially]] the [[a/_ability|ability]] to [[d/_draw|draw]] or pull.**
-- **[[d/_determined|Determined]] by [[e/_earth|earth]]'s [[m/_magnetic|magnetic]] [[f/_fields|fields]].**
+- **[[h/_having|Having]] the [[p/_properties|properties]] of a [[m/_magnet|magnet]], [[e/_especially|especially]] the [[a/_ability|ability]] to [[d/_draw|draw]] or [[p/_pull|pull]].**
+- **[[d/_determined|Determined]] by [[e/_earth|earth]]'[[s/_s|s]] [[m/_magnetic|magnetic]] [[f/_fields|fields]].**
 	- _Example: magnetic north_
 - **[[h/_having|Having]] an [[e/_extraordinary|extraordinary]] [[a/_ability|ability]] to [[a/_attract|attract]].**
 	- _Example: He has a magnetic personality._

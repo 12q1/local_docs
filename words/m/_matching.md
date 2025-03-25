@@ -14,11 +14,11 @@
 	- _Example: to match boards_
 ---
 #noun
-- **The process by which things are [[m/_matched|matched]] together or [[p/_paired|paired]] up.**
-- **A set of [[i/_independent|independent]] [[e/_edges|edges]] in a [[g/_given|given]] [[g/_graph|graph]], [[i/_i|i]].[[e/_e|e]]. a set of [[e/_edges|edges]] which [[d/_do|do]] not [[i/_intersect|intersect]], such that [[p/_pairs|pairs]] of vertices are "[[m/_matched|matched]]" to [[e/_each|each]] [[o/_other|other]] [[o/_one|one]] to [[o/_one|one]].**
+- **The [[p/_process|process]] by which things are [[m/_matched|matched]] together or [[p/_paired|paired]] up.**
+- **A [[s/_set|set]] of [[i/_independent|independent]] [[e/_edges|edges]] in a [[g/_given|given]] [[g/_graph|graph]], [[i/_i|i]].[[e/_e|e]]. a [[s/_set|set]] of [[e/_edges|edges]] which [[d/_do|do]] not [[i/_intersect|intersect]], such that [[p/_pairs|pairs]] of vertices are "[[m/_matched|matched]]" to [[e/_each|each]] [[o/_other|other]] [[o/_one|one]] to [[o/_one|one]].**
 ---
 #adjective
-- **The same as [[a/_another|another]]; sharing the same [[d/_design|design]].**
+- **The [[s/_same|same]] as [[a/_another|another]]; [[s/_sharing|sharing]] the [[s/_same|same]] [[d/_design|design]].**
 	- _Example: We bought a new sofa and matching armchairs._
 ---
 ---

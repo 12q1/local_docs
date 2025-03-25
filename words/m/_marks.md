@@ -2,55 +2,55 @@
 ---
 #noun
 - **([[h/_heading|heading]]) [[b/_boundary|Boundary]], [[l/_land|land]] within a [[b/_boundary|boundary]].**
-- **([[h/_heading|heading]]) [[c/_characteristic|Characteristic]], sign, visible [[i/_impression|impression]].**
+- **([[h/_heading|heading]]) [[c/_characteristic|Characteristic]], [[s/_sign|sign]], visible [[i/_impression|impression]].**
 - **([[h/_heading|heading]]) [[i/_indicator|Indicator]] of [[p/_position|position]], [[o/_objective|objective]] [[e/_etc|etc]].**
 - **([[h/_heading|heading]]) [[a/_attention|Attention]].**
 ---
 ### Synonyms
 - [[M/_Mk|Mk]], [[M/_Mk.|Mk.]], [[h/_heed|heed]], [[o/_observance|observance]]
 #verb
-- **To put a [[m/_mark|mark]] on (something); to [[m/_make|make]] (something) recognizable by a [[m/_mark|mark]]; to [[l/_label|label]] or write on (something).**
+- **To [[p/_put|put]] a [[m/_mark|mark]] on ([[s/_something|something]]); to [[m/_make|make]] ([[s/_something|something]]) [[r/_recognizable|recognizable]] by a [[m/_mark|mark]]; to [[l/_label|label]] or write on ([[s/_something|something]]).**
 	- _Example: to mark a box or bale of merchandise_
-- **To [[l/_leave|leave]] a [[m/_mark|mark]] ([[o/_often|often]] an undesirable or unwanted [[o/_one|one]]) on (something).**
+- **To [[l/_leave|leave]] a [[m/_mark|mark]] ([[o/_often|often]] an undesirable or unwanted [[o/_one|one]]) on ([[s/_something|something]]).**
 	- _Example: See where this pencil has marked the paper._
-- **To [[h/_have|have]] a [[l/_long|long]]-[[l/_lasting|lasting]] [[n/_negative|negative]] [[i/_impact|impact]] on (someone or something).**
+- **To [[h/_have|have]] a [[l/_long|long]]-[[l/_lasting|lasting]] [[n/_negative|negative]] [[i/_impact|impact]] on ([[s/_someone|someone]] or [[s/_something|something]]).**
 - **To [[c/_create|create]] an [[i/_indication|indication]] of (a [[l/_location|location]]).**
 	- _Example: She folded over the corner of the page to mark where she left off reading._
-- **To be an [[i/_indication|indication]] of (something); to show where (something) is [[l/_located|located]].**
+- **To be an [[i/_indication|indication]] of ([[s/_something|something]]); to [[s/_show|show]] where ([[s/_something|something]]) is [[l/_located|located]].**
 	- _Example: A bell marked the end of visiting hours._
-- **To [[i/_indicate|indicate]] (something) in writing or by [[o/_other|other]] symbols.**
+- **To [[i/_indicate|indicate]] ([[s/_something|something]]) in writing or by [[o/_other|other]] [[s/_symbols|symbols]].**
 	- _Example: In her Bible, the words of Christ were marked in red._
 - **To [[c/_create|create]] (a [[m/_mark|mark]]) on a surface.**
-- **To [[c/_celebrate|celebrate]] or [[a/_acknowledge|acknowledge]] (an [[e/_event|event]]) through an [[a/_action|action]] of some [[k/_kind|kind]].**
+- **To [[c/_celebrate|celebrate]] or [[a/_acknowledge|acknowledge]] (an [[e/_event|event]]) through an [[a/_action|action]] of [[s/_some|some]] [[k/_kind|kind]].**
 	- _Example: The national holiday is marked by fireworks._
-- **(of things) To [[i/_identify|identify]] (someone as a [[p/_particular|particular]] type of [[p/_person|person]] or as [[h/_having|having]] a [[p/_particular|particular]] role).**
+- **(of things) To [[i/_identify|identify]] ([[s/_someone|someone]] as a [[p/_particular|particular]] type of [[p/_person|person]] or as [[h/_having|having]] a [[p/_particular|particular]] [[r/_role|role]]).**
 	- _Example: His courage and energy marked him as a leader._
-- **(of [[p/_people|people]]) To [[a/_assign|assign]] (someone) to a [[p/_particular|particular]] [[c/_category|category]] or [[c/_class|class]].**
-- **(of [[p/_people|people]]) To [[c/_choose|choose]] or [[i/_intend|intend]] (someone) for a [[p/_particular|particular]] [[e/_end|end]] or purpose.**
-- **To be a [[p/_point|point]] in time or space at which something takes [[p/_place|place]]; to [[a/_accompany|accompany]] or be [[a/_accompanied|accompanied]] by (an [[e/_event|event]], [[a/_action|action]], [[e/_etc|etc]].); to [[c/_coincide|coincide]] with.**
+- **(of [[p/_people|people]]) To [[a/_assign|assign]] ([[s/_someone|someone]]) to a [[p/_particular|particular]] [[c/_category|category]] or [[c/_class|class]].**
+- **(of [[p/_people|people]]) To [[c/_choose|choose]] or [[i/_intend|intend]] ([[s/_someone|someone]]) for a [[p/_particular|particular]] [[e/_end|end]] or [[p/_purpose|purpose]].**
+- **To be a [[p/_point|point]] in time or [[s/_space|space]] at which [[s/_something|something]] takes [[p/_place|place]]; to [[a/_accompany|accompany]] or be [[a/_accompanied|accompanied]] by (an [[e/_event|event]], [[a/_action|action]], [[e/_etc|etc]].); to [[c/_coincide|coincide]] with.**
 	- _Example: That summer marked the beginning of her obsession with cycling._
-- **To be typical or [[c/_characteristic|characteristic]] of (something).**
+- **To be typical or [[c/_characteristic|characteristic]] of ([[s/_something|something]]).**
 - **To [[d/_distinguish|distinguish]] ([[o/_one|one]] [[p/_person|person]] or thing from [[a/_another|another]]).**
-- **To [[f/_focus|focus]] [[o/_one|one]]'s [[a/_attention|attention]] on (something or someone); to [[p/_pay|pay]] [[a/_attention|attention]] to, to take [[n/_note|note]] of.**
+- **To [[f/_focus|focus]] [[o/_one|one]]'[[s/_s|s]] [[a/_attention|attention]] on ([[s/_something|something]] or [[s/_someone|someone]]); to [[p/_pay|pay]] [[a/_attention|attention]] to, to take [[n/_note|note]] of.**
 	- _Example: Mark my words: that boy’s up to no good._
-- **To [[b/_become|become]] [[a/_aware|aware]] of (something) through the [[p/_physical|physical]] senses.**
-- **To [[h/_hold|hold]] (someone) in [[o/_one|one]]'s [[l/_line|line]] of sight.**
-- **To [[i/_indicate|indicate]] the [[c/_correctness|correctness]] of and [[g/_give|give]] a score to (a school [[a/_assignment|assignment]], [[e/_exam|exam]] [[a/_answers|answers]], [[e/_etc|etc]].).**
+- **To [[b/_become|become]] [[a/_aware|aware]] of ([[s/_something|something]]) through the [[p/_physical|physical]] [[s/_senses|senses]].**
+- **To [[h/_hold|hold]] ([[s/_someone|someone]]) in [[o/_one|one]]'[[s/_s|s]] [[l/_line|line]] of [[s/_sight|sight]].**
+- **To [[i/_indicate|indicate]] the [[c/_correctness|correctness]] of and [[g/_give|give]] a [[s/_score|score]] to (a [[s/_school|school]] [[a/_assignment|assignment]], [[e/_exam|exam]] [[a/_answers|answers]], [[e/_etc|etc]].).**
 	- _Example: The teacher had to spend her weekend marking all the tests._
-- **To record that (someone) [[h/_has|has]] a [[p/_particular|particular]] status.**
+- **To [[r/_record|record]] that ([[s/_someone|someone]]) [[h/_has|has]] a [[p/_particular|particular]] status.**
 	- _Example: to mark a student absent._
-- **To [[k/_keep|keep]] [[a/_account|account]] of; to [[e/_enumerate|enumerate]] and register; to [[k/_keep|keep]] score.**
+- **To [[k/_keep|keep]] [[a/_account|account]] of; to [[e/_enumerate|enumerate]] and [[r/_register|register]]; to [[k/_keep|keep]] [[s/_score|score]].**
 	- _Example: to mark the points in a game of billiards or a card game_
-- **To [[f/_follow|follow]] a [[p/_player|player]] not in [[p/_possession|possession]] of the [[b/_ball|ball]] when [[d/_defending|defending]], to prevent them receiving a [[p/_pass|pass]] [[e/_easily|easily]].**
-- **To [[c/_catch|catch]] the [[b/_ball|ball]] [[d/_directly|directly]] from a [[k/_kick|kick]] of 15 [[m/_metres|metres]] or [[m/_more|more]] without [[h/_having|having]] [[b/_been|been]] touched in transit, resulting in a [[f/_free|free]] [[k/_kick|kick]].**
-- **To put a [[m/_marker|marker]] in the [[p/_place|place]] of [[o/_one|one]]'s [[b/_ball|ball]].**
-- **To sing softly, sometimes an [[o/_octave|octave]] [[l/_lower|lower]] than usual, in [[o/_order|order]] to protect [[o/_one|one]]'s voice [[d/_during|during]] a rehearsal.**
+- **To [[f/_follow|follow]] a [[p/_player|player]] not in [[p/_possession|possession]] of the [[b/_ball|ball]] when [[d/_defending|defending]], to [[p/_prevent|prevent]] them [[r/_receiving|receiving]] a [[p/_pass|pass]] [[e/_easily|easily]].**
+- **To [[c/_catch|catch]] the [[b/_ball|ball]] [[d/_directly|directly]] from a [[k/_kick|kick]] of 15 [[m/_metres|metres]] or [[m/_more|more]] without [[h/_having|having]] [[b/_been|been]] touched in transit, [[r/_resulting|resulting]] in a [[f/_free|free]] [[k/_kick|kick]].**
+- **To [[p/_put|put]] a [[m/_marker|marker]] in the [[p/_place|place]] of [[o/_one|one]]'[[s/_s|s]] [[b/_ball|ball]].**
+- **To [[s/_sing|sing]] [[s/_softly|softly]], [[s/_sometimes|sometimes]] an [[o/_octave|octave]] [[l/_lower|lower]] than usual, in [[o/_order|order]] to [[p/_protect|protect]] [[o/_one|one]]'[[s/_s|s]] voice [[d/_during|during]] a [[r/_rehearsal|rehearsal]].**
 ---
 ### Synonyms
 - [[b/_blemish|blemish]], [[s/_scar|scar]], [[s/_scratch|scratch]], [[s/_stain|stain]], [[c/_characterize|characterize]], [[t/_typify|typify]], [[c/_classify|classify]], [[c/_commemorate|commemorate]], [[s/_solemnize|solemnize]], [[d/_demonstrate|demonstrate]], [[i/_indicate|indicate]], [[m/_manifest|manifest]], [[r/_reveal|reveal]], [[s/_show|show]], [[s/_signal|signal]], [[d/_destine|destine]], [[t/_target|target]], [[d/_display|display]], [[s/_show|show]], [[w/_write|write]], [[d/_draw|draw]], [[t/_trace|trace]], [[g/_grade|grade]], [[s/_score|score]], [[h/_hear|hear]], [[n/_note|note]], [[n/_notice|notice]], [[o/_observe|observe]], [[p/_perceive|perceive]], [[s/_see|see]], [[h/_heed|heed]], [[o/_observe|observe]], [[w/_watch|watch]], [[r/_represent|represent]], [[s/_see|see]]
 #noun
-- **A [[m/_measure|measure]] of weight ([[e/_especially|especially]] for [[g/_gold|gold]] and silver), [[o/_once|once]] used throughout [[e/_europe|Europe]], [[e/_equivalent|equivalent]] to 8 [[o/_oz|oz]].**
-- **An [[e/_english|English]] and Scottish unit of [[c/_currency|currency]] ([[o/_originally|originally]] valued at [[o/_one|one]] [[m/_mark|mark]] weight of silver), [[e/_equivalent|equivalent]] to 13 shillings and [[f/_fourpence|fourpence]].**
+- **A [[m/_measure|measure]] of weight ([[e/_especially|especially]] for [[g/_gold|gold]] and [[s/_silver|silver]]), [[o/_once|once]] used throughout [[e/_europe|Europe]], [[e/_equivalent|equivalent]] to 8 [[o/_oz|oz]].**
+- **An [[e/_english|English]] and [[s/_scottish|Scottish]] unit of [[c/_currency|currency]] ([[o/_originally|originally]] valued at [[o/_one|one]] [[m/_mark|mark]] weight of [[s/_silver|silver]]), [[e/_equivalent|equivalent]] to 13 [[s/_shillings|shillings]] and [[f/_fourpence|fourpence]].**
 - **[[a/_any|Any]] of various [[e/_european|European]] [[m/_monetary|monetary]] units, [[e/_especially|especially]] the [[b/_base|base]] unit of [[c/_currency|currency]] of [[g/_germany|Germany]] [[b/_between|between]] 1948 and 2002, [[e/_equal|equal]] to 100 [[p/_pfennigs|pfennigs]].**
 - **A [[c/_coin|coin]] worth [[o/_one|one]] [[m/_mark|mark]].**
 ---

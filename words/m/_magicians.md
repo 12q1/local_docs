@@ -2,9 +2,9 @@
 ---
 #noun
 - **A [[p/_person|person]] who [[p/_plays|plays]] with or [[p/_practices|practices]] [[a/_allegedly|allegedly]] supernatural [[m/_magic|magic]].**
-- **(sometimes [[d/_derogatory|derogatory]]) A spiritualist or [[p/_practitioner|practitioner]] of [[m/_mystic|mystic]] [[a/_arts|arts]].**
+- **([[s/_sometimes|sometimes]] [[d/_derogatory|derogatory]]) A spiritualist or [[p/_practitioner|practitioner]] of [[m/_mystic|mystic]] [[a/_arts|arts]].**
 - **A [[p/_performer|performer]] of tricks or an [[e/_escapologist|escapologist]] or an [[i/_illusionist|illusionist]].**
-- **An [[a/_amazingly|amazingly]] talented [[c/_craftsman|craftsman]] or scientist.**
+- **An [[a/_amazingly|amazingly]] talented [[c/_craftsman|craftsman]] or [[s/_scientist|scientist]].**
 - **A [[p/_person|person]] who [[a/_astounds|astounds]]; an [[e/_enigma|enigma]].**
 ---
 ### Synonyms

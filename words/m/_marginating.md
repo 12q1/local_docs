@@ -1,6 +1,6 @@
 # Marginating
 ---
 #verb
-- **To provide with [[m/_margins|margins]].**
+- **To [[p/_provide|provide]] with [[m/_margins|margins]].**
 ---
 ---

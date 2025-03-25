@@ -1,8 +1,8 @@
 # Palls
 ---
 #noun
-- **Senses relating to [[c/_cloth|cloth]].**
-- **Senses relating to [[c/_clothing|clothing]].**
+- **[[s/_senses|Senses]] [[r/_relating|relating]] to [[c/_cloth|cloth]].**
+- **[[s/_senses|Senses]] [[r/_relating|relating]] to [[c/_clothing|clothing]].**
 ---
 #verb
 - **To [[c/_cloak|cloak]] or [[c/_cover|cover]] with, or as [[i/_if|if]] with, a [[p/_pall|pall]].**

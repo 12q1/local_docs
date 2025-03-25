@@ -1,6 +1,6 @@
 # Pothouse
 ---
 #noun
-- **A pub; a tavern.**
+- **A [[p/_pub|pub]]; a tavern.**
 ---
 ---

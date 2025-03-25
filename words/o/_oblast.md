@@ -1,6 +1,6 @@
 # Oblast
 ---
 #noun
-- **A region or province in Slavic or Slavic-[[i/_influenced|influenced]] [[c/_countries|countries]].**
+- **A [[r/_region|region]] or [[p/_province|province]] in [[s/_slavic|Slavic]] or [[s/_slavic|Slavic]]-[[i/_influenced|influenced]] [[c/_countries|countries]].**
 ---
 ---

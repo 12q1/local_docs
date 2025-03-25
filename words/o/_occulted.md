@@ -6,7 +6,7 @@
 - **To [[d/_dissimulate|dissimulate]], [[c/_conceal|conceal]], or [[o/_obfuscate|obfuscate]].**
 ---
 #adjective
-- **[[h/_hidden|Hidden]]; secret.**
+- **[[h/_hidden|Hidden]]; [[s/_secret|secret]].**
 - **[[c/_concealed|Concealed]], as by a [[b/_body|body]] [[c/_coming|coming]] [[b/_between|between]].**
 ---
 ---

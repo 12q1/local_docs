@@ -1,28 +1,28 @@
 # Panel
 ---
 #noun
-- **A (usually) rectangular section of a surface, or of a [[c/_covering|covering]] or of a wall, [[f/_fence|fence]] [[e/_etc|etc]].**
+- **A (usually) [[r/_rectangular|rectangular]] [[s/_section|section]] of a surface, or of a [[c/_covering|covering]] or of a wall, [[f/_fence|fence]] [[e/_etc|etc]].**
 	- _Example: Behind the picture was a panel on the wall._
-- **A [[g/_group|group]] of [[p/_people|people]] [[g/_gathered|gathered]] to [[j/_judge|judge]], [[i/_interview|interview]], [[d/_discuss|discuss]] [[e/_etc|etc]]. as on a television or radio [[b/_broadcast|broadcast]] for [[e/_example|example]].**
+- **A [[g/_group|group]] of [[p/_people|people]] [[g/_gathered|gathered]] to [[j/_judge|judge]], [[i/_interview|interview]], [[d/_discuss|discuss]] [[e/_etc|etc]]. as on a television or [[r/_radio|radio]] [[b/_broadcast|broadcast]] for [[e/_example|example]].**
 	- _Example: Today’s panel includes John Smith._
 - **An [[i/_individual|individual]] [[f/_frame|frame]] or [[d/_drawing|drawing]] in a [[c/_comic|comic]].**
 	- _Example: The last panel of a comic strip usually contains a punchline._
 - **A type of GUI widget, such as a [[c/_control|control]] [[p/_panel|panel]].**
 	- _Example: admin panel_
-- **A [[d/_document|document]] [[c/_containing|containing]] the [[n/_names|names]] of [[p/_persons|persons]] summoned as [[j/_jurors|jurors]] by the sheriff; [[h/_hence|hence]], [[m/_more|more]] [[g/_generally|generally]], the whole [[j/_jury|jury]].**
-- **A prisoner [[a/_arraigned|arraigned]] for trial at the [[b/_bar|bar]] of a [[c/_criminal|criminal]] [[c/_court|court]].**
-- **A [[p/_piece|piece]] of [[c/_cloth|cloth]] serving as a saddle.**
-- **A soft [[p/_pad|pad]] [[b/_beneath|beneath]] a saddletree to prevent [[c/_chafing|chafing]].**
+- **A [[d/_document|document]] [[c/_containing|containing]] the [[n/_names|names]] of [[p/_persons|persons]] summoned as [[j/_jurors|jurors]] by the [[s/_sheriff|sheriff]]; [[h/_hence|hence]], [[m/_more|more]] [[g/_generally|generally]], the whole [[j/_jury|jury]].**
+- **A [[p/_prisoner|prisoner]] [[a/_arraigned|arraigned]] for trial at the [[b/_bar|bar]] of a [[c/_criminal|criminal]] [[c/_court|court]].**
+- **A [[p/_piece|piece]] of [[c/_cloth|cloth]] [[s/_serving|serving]] as a [[s/_saddle|saddle]].**
+- **A [[s/_soft|soft]] [[p/_pad|pad]] [[b/_beneath|beneath]] a [[s/_saddletree|saddletree]] to [[p/_prevent|prevent]] [[c/_chafing|chafing]].**
 - **([[j/_joinery|joinery]]) A [[b/_board|board]] [[h/_having|having]] [[i/_its|its]] [[e/_edges|edges]] [[i/_inserted|inserted]] in the [[g/_groove|groove]] of a surrounding [[f/_frame|frame]].**
 	- _Example: the panel of a door_
 - **[[o/_one|One]] of the [[f/_faces|faces]] of a [[h/_hewn|hewn]] stone.**
-- **A slab or [[p/_plank|plank]] of wood used [[i/_instead|instead]] of a [[c/_canvas|canvas]] for [[p/_painting|painting]] on.**
+- **A [[s/_slab|slab]] or [[p/_plank|plank]] of wood used [[i/_instead|instead]] of a [[c/_canvas|canvas]] for [[p/_painting|painting]] on.**
 - **A [[h/_heap|heap]] of [[d/_dressed|dressed]] [[o/_ore|ore]].**
-- **[[o/_one|One]] of the [[d/_districts|districts]] [[d/_divided|divided]] by [[p/_pillars|pillars]] of [[e/_extra|extra]] size, [[i/_into|into]] which a [[m/_mine|mine]] is [[l/_laid|laid]] [[o/_off|off]] in [[o/_one|one]] system of [[e/_extracting|extracting]] [[c/_coal|coal]].**
+- **[[o/_one|One]] of the [[d/_districts|districts]] [[d/_divided|divided]] by [[p/_pillars|pillars]] of [[e/_extra|extra]] [[s/_size|size]], [[i/_into|into]] which a [[m/_mine|mine]] is [[l/_laid|laid]] [[o/_off|off]] in [[o/_one|one]] [[s/_system|system]] of [[e/_extracting|extracting]] [[c/_coal|coal]].**
 - **A [[f/_frame|frame]] for [[c/_carrying|carrying]] a [[m/_mortar|mortar]].**
-- **A [[p/_plain|plain]] strip or [[b/_band|band]], as of velvet or [[p/_plush|plush]], [[p/_placed|placed]] at [[i/_intervals|intervals]] [[l/_lengthwise|lengthwise]] on the skirt of a [[d/_dress|dress]], for [[o/_ornament|ornament]].**
+- **A [[p/_plain|plain]] strip or [[b/_band|band]], as of velvet or [[p/_plush|plush]], [[p/_placed|placed]] at [[i/_intervals|intervals]] [[l/_lengthwise|lengthwise]] on the [[s/_skirt|skirt]] of a [[d/_dress|dress]], for [[o/_ornament|ornament]].**
 - **A [[p/_portion|portion]] of a [[f/_framed|framed]] structure [[b/_between|between]] [[a/_adjacent|adjacent]] [[p/_posts|posts]] or struts, as in a [[b/_bridge|bridge]] truss.**
-- **A [[l/_list|list]] of [[d/_doctors|doctors]] who [[c/_could|could]] provide [[l/_limited|limited]] [[f/_free|free]] [[h/_healthcare|healthcare]] prior to the [[i/_introduction|introduction]] of the NHS.**
+- **A [[l/_list|list]] of [[d/_doctors|doctors]] who [[c/_could|could]] [[p/_provide|provide]] [[l/_limited|limited]] [[f/_free|free]] [[h/_healthcare|healthcare]] [[p/_prior|prior]] to the [[i/_introduction|introduction]] of the NHS.**
 - **A [[g/_group|group]] of tests or [[a/_assays|assays]], a [[b/_battery|battery]].**
 ---
 #verb

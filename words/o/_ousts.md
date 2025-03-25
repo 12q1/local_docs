@@ -1,7 +1,7 @@
 # Ousts
 ---
 #verb
-- **To [[e/_expel|expel]]; to remove.**
+- **To [[e/_expel|expel]]; to [[r/_remove|remove]].**
 	- _Example: The protesters became so noisy that they were finally ousted from the meeting._
 ---
 ### Synonyms

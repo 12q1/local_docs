@@ -7,6 +7,6 @@
 	- _Example: We pouched the encryption device to our embassy in Beijing._
 - **(of [[f/_fowls|fowls]] and [[f/_fish|fish]]) To swallow.**
 - **To [[p/_pout|pout]].**
-- **To [[p/_pocket|pocket]]; to put up with.**
+- **To [[p/_pocket|pocket]]; to [[p/_put|put]] up with.**
 ---
 ---

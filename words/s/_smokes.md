@@ -1,0 +1,48 @@
+# Smokes
+---
+#noun
+- **The visible vapor/vapour, [[g/_gases|gases]], and [[f/_fine|fine]] [[p/_particles|particles]] [[g/_given|given]] [[o/_off|off]] by [[b/_burning|burning]] or [[s/_smoldering|smoldering]] [[m/_material|material]].**
+- **A [[c/_cigarette|cigarette]].**
+	- _Example: Can I bum a smoke off you?;  I need to go buy some smokes._
+- **[[a/_anything|Anything]] to [[s/_smoke|smoke]] ([[e/_e|e]].[[g/_g|g]]. [[c/_cigarettes|cigarettes]], [[m/_marijuana|marijuana]], [[e/_etc|etc]].)**
+	- _Example: Hey, you got some smoke?_
+- **([[n/_never|never]] [[p/_plural|plural]]) An [[i/_instance|instance]] of [[s/_smoking|smoking]] a [[c/_cigarette|cigarette]], [[c/_cigar|cigar]], [[e/_etc|etc]].; the [[d/_duration|duration]] of this [[a/_act|act]].**
+	- _Example: I'm going out for a smoke._
+- **A [[f/_fleeting|fleeting]] [[i/_illusion|illusion]]; [[s/_something|something]] [[i/_insubstantial|insubstantial]], [[e/_evanescent|evanescent]], unreal, transitory, or without [[r/_result|result]].**
+	- _Example: The excitement behind the new candidate proved to be smoke._
+- **[[s/_something|Something]] used to [[o/_obscure|obscure]] or [[c/_conceal|conceal]]; an [[o/_obscuring|obscuring]] [[c/_condition|condition]]; [[s/_see|see]] [[a/_also|also]] [[s/_smoke|smoke]] and [[m/_mirrors|mirrors]].**
+	- _Example: The smoke of controversy._
+- **A [[l/_light|light]] [[g/_grey|grey]] [[c/_colour|colour]]/[[c/_color|color]] tinted with [[b/_blue|blue]].**
+- **A [[p/_particulate|particulate]] of [[s/_solid|solid]] or [[l/_liquid|liquid]] [[p/_particles|particles]] [[d/_dispersed|dispersed]] [[i/_into|into]] the [[a/_air|air]] on the [[b/_battlefield|battlefield]] to [[d/_degrade|degrade]] [[e/_enemy|enemy]] [[g/_ground|ground]] or for [[a/_aerial|aerial]] [[o/_observation|observation]]. [[s/_smoke|Smoke]] [[h/_has|has]] [[m/_many|many]] uses--[[s/_screening|screening]] [[s/_smoke|smoke]], [[s/_signaling|signaling]] [[s/_smoke|smoke]], [[s/_smoke|smoke]] [[c/_curtain|curtain]], [[s/_smoke|smoke]] [[h/_haze|haze]], and [[s/_smoke|smoke]] [[d/_deception|deception]]. Thus it is an [[a/_artificial|artificial]] [[a/_aerosol|aerosol]].**
+- **A [[f/_fastball|fastball]].**
+---
+### Synonyms
+- [[c/_cig|cig]], [[c/_ciggy|ciggy]], [[f/_fag|fag]]
+#verb
+- **To [[i/_inhale|inhale]] and [[e/_exhale|exhale]] the [[s/_smoke|smoke]] from a [[b/_burning|burning]] [[c/_cigarette|cigarette]], [[c/_cigar|cigar]], [[p/_pipe|pipe]], [[e/_etc|etc]].**
+	- _Example: He's smoking his pipe._
+- **To [[i/_inhale|inhale]] and [[e/_exhale|exhale]] tobacco [[s/_smoke|smoke]].**
+	- _Example: Do you smoke?_
+- **To [[g/_give|give]] [[o/_off|off]] [[s/_smoke|smoke]].**
+	- _Example: My old truck was still smoking even after the repairs._
+- **To [[p/_preserve|preserve]] or [[p/_prepare|prepare]] ([[f/_food|food]]) for [[c/_consumption|consumption]] by treating with [[s/_smoke|smoke]].**
+	- _Example: You'll need to smoke the meat for several hours._
+- **To [[d/_dry|dry]] or [[m/_medicate|medicate]] by [[s/_smoke|smoke]].**
+- **To [[f/_fill|fill]] or [[s/_scent|scent]] with [[s/_smoke|smoke]]; [[h/_hence|hence]], to [[f/_fill|fill]] with [[i/_incense|incense]]; to [[p/_perfume|perfume]].**
+- **To [[m/_make|make]] unclear or [[b/_blurry|blurry]].**
+- **([[c/_chiefly|chiefly]] as [[p/_present|present]] [[p/_participle|participle]]) To [[p/_perform|perform]] ([[e/_e|e]].[[g/_g|g]]. [[m/_music|music]]) [[e/_energetically|energetically]] or [[s/_skillfully|skillfully]].**
+	- _Example: The horn section was really smokin' on that last tune._
+- **To [[b/_beat|beat]] [[s/_someone|someone]] at [[s/_something|something]].**
+	- _Example: We smoked them at rugby._
+- **To [[k/_kill|kill]], [[e/_especially|especially]] with a [[g/_gun|gun]].**
+	- _Example: He got smoked by the mob._
+- **To thrash; to [[b/_beat|beat]].**
+- **To [[s/_smell|smell]] [[o/_out|out]]; to [[h/_hunt|hunt]] [[o/_out|out]]; to [[f/_find|find]] [[o/_out|out]]; to [[d/_detect|detect]].**
+- **To [[r/_ridicule|ridicule]] to the [[f/_face|face]]; to [[m/_mock|mock]].**
+- **To [[b/_burn|burn]]; to be [[k/_kindled|kindled]]; to [[r/_rage|rage]].**
+- **To [[r/_raise|raise]] a [[d/_dust|dust]] or [[s/_smoke|smoke]] by [[r/_rapid|rapid]] [[m/_motion|motion]].**
+- **To suffer [[s/_severely|severely]]; to be [[p/_punished|punished]].**
+- **To [[p/_punish|punish]] (a [[p/_person|person]]) for a [[m/_minor|minor]] [[o/_offense|offense]] by [[e/_excessive|excessive]] [[p/_physical|physical]] [[e/_exercise|exercise]].**
+- **To [[c/_cover|cover]] (a [[k/_key|key]] [[b/_blank|blank]]) with [[s/_soot|soot]] or [[c/_carbon|carbon]] to [[a/_aid|aid]] in [[s/_seeing|seeing]] the [[m/_marks|marks]] [[m/_made|made]] by impressioning.**
+---
+---

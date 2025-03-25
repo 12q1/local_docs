@@ -9,8 +9,8 @@
 - [[p/_policeman|policeman]]
 #noun
 - **A [[m/_member|member]] of a [[p/_police|police]] [[f/_force|force]], [[e/_especially|especially]] [[o/_one|one]] who is [[m/_male|male]].**
-- **A [[g/_glass|glass]] rod [[c/_capped|capped]] at [[o/_one|one]] [[e/_end|end]] with rubber, used in a [[c/_chemistry|chemistry]] [[l/_laboratory|laboratory]] for [[g/_gravimetric|gravimetric]] [[a/_analysis|analysis]].**
-- **[[a/_any|Any]] skipper of the [[g/_genus|genus]] Coeliades.**
+- **A [[g/_glass|glass]] [[r/_rod|rod]] [[c/_capped|capped]] at [[o/_one|one]] [[e/_end|end]] with [[r/_rubber|rubber]], used in a [[c/_chemistry|chemistry]] [[l/_laboratory|laboratory]] for [[g/_gravimetric|gravimetric]] [[a/_analysis|analysis]].**
+- **[[a/_any|Any]] [[s/_skipper|skipper]] of the [[g/_genus|genus]] Coeliades.**
 ---
 ### Synonyms
 - 

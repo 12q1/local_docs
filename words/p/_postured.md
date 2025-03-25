@@ -1,7 +1,7 @@
 # Postured
 ---
 #verb
-- **To put [[o/_one|one]]'s [[b/_body|body]] [[i/_into|into]] a [[p/_posture|posture]] or series of [[p/_postures|postures]], [[e/_especially|especially]] [[h/_hoping|hoping]] that [[o/_one|one]] will be [[n/_noticed|noticed]] and [[a/_admired|admired]]**
+- **To [[p/_put|put]] [[o/_one|one]]'[[s/_s|s]] [[b/_body|body]] [[i/_into|into]] a [[p/_posture|posture]] or [[s/_series|series]] of [[p/_postures|postures]], [[e/_especially|especially]] [[h/_hoping|hoping]] that [[o/_one|one]] will be [[n/_noticed|noticed]] and [[a/_admired|admired]]**
 	- _Example: If you're finished posturing in front of the mirror, can I use the bathroom now?_
 - **To [[p/_pretend|pretend]] to [[h/_have|have]] an [[o/_opinion|opinion]] or a [[c/_conviction|conviction]]**
 	- _Example: The politicians couldn't really care less about the issue: they're just posturing for the media._

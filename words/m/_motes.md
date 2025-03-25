@@ -1,7 +1,7 @@
 # Motes
 ---
 #noun
-- **A small [[p/_particle|particle]]; a speck.**
+- **A [[s/_small|small]] [[p/_particle|particle]]; a speck.**
 ---
 #noun
 - **A [[m/_meeting|meeting]] for [[d/_discussion|discussion]].**
@@ -11,6 +11,6 @@
 - **A [[p/_place|place]] of [[m/_meeting|meeting]] for [[d/_discussion|discussion]].**
 ---
 #noun
-- **A tiny [[c/_computer|computer]] for remote sensing; a [[c/_component|component]] [[e/_element|element]] of smartdust.**
+- **A tiny [[c/_computer|computer]] for [[r/_remote|remote]] [[s/_sensing|sensing]]; a [[c/_component|component]] [[e/_element|element]] of smartdust.**
 ---
 ---

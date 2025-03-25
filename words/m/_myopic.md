@@ -1,12 +1,12 @@
 # Myopic
 ---
 #noun
-- **A short-sighted [[i/_individual|individual]].**
+- **A [[s/_short|short]]-[[s/_sighted|sighted]] [[i/_individual|individual]].**
 ---
 #adjective
-- **[[n/_near|Near]]-sighted; unable to see [[d/_distant|distant]] [[o/_objects|objects]] unaided**
+- **[[n/_near|Near]]-[[s/_sighted|sighted]]; unable to [[s/_see|see]] [[d/_distant|distant]] [[o/_objects|objects]] unaided**
 	- _Example: A stronger prescription for myopic night drivers is often needed._
-- **Shortsighted; [[i/_improvident|improvident]]**
+- **[[s/_shortsighted|Shortsighted]]; [[i/_improvident|improvident]]**
 - **[[n/_narrow|Narrow]] [[m/_minded|minded]]**
 	- _Example: So it is no wonder that some of the remarkable discoveries of the scientific method (...) can draw most of us well outside our myopic comfort zone._
 ---

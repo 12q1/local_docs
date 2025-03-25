@@ -1,6 +1,6 @@
 # Newshound
 ---
 #noun
-- **An [[i/_investigative|investigative]] reporter.**
+- **An [[i/_investigative|investigative]] [[r/_reporter|reporter]].**
 ---
 ---

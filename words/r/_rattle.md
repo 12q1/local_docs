@@ -1,0 +1,32 @@
+# Rattle
+---
+#noun
+- **A [[s/_sound|sound]] [[m/_made|made]] by [[l/_loose|loose]] [[o/_objects|objects]] [[s/_shaking|shaking]] or vibrating [[a/_against|against]] [[o/_one|one]] [[a/_another|another]].**
+	- _Example: I wish they would fix the rattle under my dashboard._
+- **A [[b/_baby|baby]]’[[s/_s|s]] toy [[d/_designed|designed]] to [[m/_make|make]] [[s/_sound|sound]] when [[s/_shaken|shaken]], usually [[c/_containing|containing]] [[l/_loose|loose]] [[g/_grains|grains]] or [[p/_pellets|pellets]] in a [[h/_hollow|hollow]] [[c/_container|container]].**
+- **A [[d/_device|device]] that [[m/_makes|makes]] a [[r/_rattling|rattling]] [[s/_sound|sound]] such as [[p/_put|put]] on an [[a/_animal|animal]] [[s/_so|so]] [[i/_its|its]] [[l/_location|location]] [[c/_can|can]] be [[h/_heard|heard]].**
+- **A [[m/_musical|musical]] [[i/_instrument|instrument]] that [[m/_makes|makes]] a [[r/_rattling|rattling]] [[s/_sound|sound]].**
+- **[[n/_noisy|Noisy]], [[r/_rapid|rapid]] talk.**
+- **Trivial [[c/_chatter|chatter]]; [[g/_gossip|gossip]].**
+- **A [[n/_noisy|noisy]], [[s/_senseless|senseless]] talker; a [[j/_jabberer|jabberer]].**
+- **A [[s/_scolding|scolding]]; a [[s/_sharp|sharp]] [[r/_rebuke|rebuke]].**
+- **[[a/_any|Any]] [[o/_organ|organ]] of an [[a/_animal|animal]] [[h/_having|having]] a structure [[a/_adapted|adapted]] to [[p/_produce|produce]] a [[r/_rattling|rattling]] [[s/_sound|sound]].**
+	- _Example: The rattle of the rattlesnake is composed of the hardened terminal scales, loosened in succession, but not cast off, and modified in form so as to make a series of loose, hollow joints._
+- **The [[n/_noise|noise]] [[p/_produced|produced]] in the throat by [[a/_air|air]] [[p/_passing|passing]] through [[m/_mucus|mucus]] which the [[l/_lungs|lungs]] struggle to [[c/_clear|clear]].**
+- **The [[n/_noise|noise]] in the throat [[p/_produced|produced]] by the [[a/_air|air]] in [[p/_passing|passing]] through [[m/_mucus|mucus]] which the [[l/_lungs|lungs]] are unable to [[e/_expel|expel]] - [[s/_sometimes|sometimes]] [[o/_occurs|occurs]] as a [[p/_person|person]] [[n/_nears|nears]] [[d/_death|death]]; [[d/_death|death]] [[r/_rattle|rattle]].**
+- **[[a/_any|Any]] [[p/_plant|plant]] of the [[g/_genus|genus]] [[r/_rhinanthus|Rhinanthus]], whose [[s/_seeds|seeds]] [[p/_produce|produce]] a [[r/_rattling|rattling]] [[n/_noise|noise]] in the wind.**
+---
+#verb
+- **To [[c/_create|create]] a [[r/_rattling|rattling]] [[s/_sound|sound]] by [[s/_shaking|shaking]] or striking.**
+	- _Example: Rattle the can of cat treats if you need to find Fluffy._
+- **To [[s/_scare|scare]], startle, unsettle, or unnerve.**
+- **To [[m/_make|make]] a [[r/_rattling|rattling]] [[n/_noise|noise]]; to [[m/_make|make]] [[n/_noise|noise]] by or from [[s/_shaking|shaking]].**
+	- _Example: I wish the dashboard in my car would quit rattling._
+- **To [[a/_assail|assail]], [[a/_annoy|annoy]], or stun with a [[r/_ratting|ratting]] [[n/_noise|noise]].**
+- **To [[s/_scold|scold]]; to [[r/_rail|rail]] at.**
+- **To [[d/_drive|drive]] or [[r/_ride|ride]] [[b/_briskly|briskly]], [[s/_so|so]] as to [[m/_make|make]] a [[c/_clattering|clattering]].**
+	- _Example: We rattled along for a couple of miles._
+- **To [[m/_make|make]] a [[c/_clatter|clatter]] with [[o/_one|one]]'[[s/_s|s]] voice; to talk [[r/_rapidly|rapidly]] and [[i/_idly|idly]]; [[o/_often|often]] with on or [[a/_away|away]].**
+	- _Example: She rattled on for an hour._
+---
+---

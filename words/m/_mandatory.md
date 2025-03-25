@@ -1,15 +1,15 @@
 # Mandatory
 ---
 #noun
-- **A sign or [[l/_line|line]] that require the [[p/_path|path]] of the [[d/_disc|disc]] to be [[a/_above|above]], [[b/_below|below]] or to [[o/_one|one]] side of it.**
-- **A [[p/_person|person]], [[o/_organisation|organisation]] or state who receives a [[m/_mandate|mandate]]; a [[m/_mandatary|mandatary]].**
+- **A [[s/_sign|sign]] or [[l/_line|line]] that [[r/_require|require]] the [[p/_path|path]] of the [[d/_disc|disc]] to be [[a/_above|above]], [[b/_below|below]] or to [[o/_one|one]] [[s/_side|side]] of it.**
+- **A [[p/_person|person]], [[o/_organisation|organisation]] or state who [[r/_receives|receives]] a [[m/_mandate|mandate]]; a [[m/_mandatary|mandatary]].**
 ---
 ### Synonyms
 - [[m/_mando|mando]]
 #adjective
-- **[[o/_obligatory|Obligatory]]; required or [[c/_commanded|commanded]] by [[a/_authority|authority]].**
+- **[[o/_obligatory|Obligatory]]; [[r/_required|required]] or [[c/_commanded|commanded]] by [[a/_authority|authority]].**
 	- _Example: Attendance at a school is usually mandatory for children._
-- **Of, [[b/_being|being]] or relating to a [[m/_mandate|mandate]].**
+- **Of, [[b/_being|being]] or [[r/_relating|relating]] to a [[m/_mandate|mandate]].**
 	- _Example: Mandatory Palestine_
 ---
 ### Synonyms

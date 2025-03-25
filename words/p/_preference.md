@@ -1,9 +1,9 @@
 # Preference
 ---
 #noun
-- **The selection of [[o/_one|one]] thing or [[p/_person|person]] [[o/_over|over]] [[o/_others|others]] (with the [[m/_main|main]] [[a/_adposition|adposition]] [[b/_being|being]] "for" in relation to the thing or [[p/_person|person]], but [[p/_possibly|possibly]] [[a/_also|also]] "of")**
+- **The [[s/_selection|selection]] of [[o/_one|one]] thing or [[p/_person|person]] [[o/_over|over]] [[o/_others|others]] (with the [[m/_main|main]] [[a/_adposition|adposition]] [[b/_being|being]] "for" in [[r/_relation|relation]] to the thing or [[p/_person|person]], but [[p/_possibly|possibly]] [[a/_also|also]] "of")**
 	- _Example: He has a preference for crisp wines._
-- **The [[o/_option|option]] to so select, and the [[o/_one|one]] selected.**
+- **The [[o/_option|option]] to [[s/_so|so]] [[s/_select|select]], and the [[o/_one|one]] [[s/_selected|selected]].**
 	- _Example: Can I keep my preferences when I upgrade to the new version of this application?_
 - **The state of [[b/_being|being]] [[p/_preferred|preferred]] [[o/_over|over]] [[o/_others|others]].**
 - **A strong [[l/_liking|liking]] or [[p/_personal|personal]] valuation.**

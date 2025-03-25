@@ -6,11 +6,11 @@
 - **[[e/_emotional|Emotional]] [[c/_character|character]] (of a work of [[m/_music|music]], [[l/_literature|literature]], or [[o/_other|other]] [[a/_art|art]]).**
 - **A sullen, [[g/_gloomy|gloomy]] or [[a/_angry|angry]] [[m/_mental|mental]] state; a [[b/_bad|bad]] [[m/_mood|mood]].**
 	- _Example: He's in a mood with me today._
-- **A [[d/_disposition|disposition]] to [[d/_do|do]] something, a state of [[m/_mind|mind]] receptive or [[d/_disposed|disposed]] to [[d/_do|do]] something.**
+- **A [[d/_disposition|disposition]] to [[d/_do|do]] [[s/_something|something]], a state of [[m/_mind|mind]] [[r/_receptive|receptive]] or [[d/_disposed|disposed]] to [[d/_do|do]] [[s/_something|something]].**
 	- _Example: I'm not in the mood for running today._
-- **A prevalent [[a/_atmosphere|atmosphere]], [[a/_attitude|attitude]], or [[f/_feeling|feeling]].**
+- **A [[p/_prevalent|prevalent]] [[a/_atmosphere|atmosphere]], [[a/_attitude|attitude]], or [[f/_feeling|feeling]].**
 	- _Example: A good politician senses the mood of the crowd._
-- **A [[f/_familiar|familiar]], relatable [[f/_feeling|feeling]], [[e/_experience|experience]], or thing.**
+- **A [[f/_familiar|familiar]], [[r/_relatable|relatable]] [[f/_feeling|feeling]], [[e/_experience|experience]], or thing.**
 - **[[c/_courage|Courage]], [[h/_heart|heart]], valor; [[a/_also|also]] vim and vigor.**
 	- _Example: He fought with mood in many a bloody slaught._
 ---
@@ -19,7 +19,7 @@
 ### Antonyms
 - 
 #noun
-- **([[g/_grammar|grammar]]) A verb [[f/_form|form]] that [[d/_depends|depends]] on [[h/_how|how]] [[i/_its|its]] [[c/_containing|containing]] [[c/_clause|clause]] relates to the speaker’s or writer’s wish, [[i/_intent|intent]], or [[a/_assertion|assertion]] [[a/_about|about]] reality.**
+- **([[g/_grammar|grammar]]) A verb [[f/_form|form]] that [[d/_depends|depends]] on [[h/_how|how]] [[i/_its|its]] [[c/_containing|containing]] [[c/_clause|clause]] [[r/_relates|relates]] to the [[s/_speaker|speaker]]’[[s/_s|s]] or writer’[[s/_s|s]] wish, [[i/_intent|intent]], or [[a/_assertion|assertion]] [[a/_about|about]] [[r/_reality|reality]].**
 	- _Example: The most common mood in English is the indicative._
 ---
 ### Synonyms

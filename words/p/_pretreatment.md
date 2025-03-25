@@ -1,9 +1,9 @@
 # Pretreatment
 ---
 #noun
-- **[[a/_any|Any]] treatment received [[b/_before|before]] some [[o/_other|other]] process.**
+- **[[a/_any|Any]] treatment [[r/_received|received]] [[b/_before|before]] [[s/_some|some]] [[o/_other|other]] [[p/_process|process]].**
 ---
 #adjective
-- **Prior to treatment.**
+- **[[p/_prior|Prior]] to treatment.**
 ---
 ---

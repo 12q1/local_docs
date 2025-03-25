@@ -1,6 +1,6 @@
 # Plutocratic
 ---
 #adjective
-- **Of, relating to, or [[b/_being|being]] a [[p/_plutocracy|plutocracy]]**
+- **Of, [[r/_relating|relating]] to, or [[b/_being|being]] a [[p/_plutocracy|plutocracy]]**
 ---
 ---

@@ -1,50 +1,50 @@
 # Pop
 ---
 #noun
-- **A [[l/_loud|loud]], sharp sound as of a [[c/_cork|cork]] [[c/_coming|coming]] [[o/_out|out]] of a [[b/_bottle|bottle]].**
+- **A [[l/_loud|loud]], [[s/_sharp|sharp]] [[s/_sound|sound]] as of a [[c/_cork|cork]] [[c/_coming|coming]] [[o/_out|out]] of a [[b/_bottle|bottle]].**
 	- _Example: Listen to the pop of a champagne cork._
-- **([[m/_midwest|Midwest]] US) An [[e/_effervescent|effervescent]] or [[f/_fizzy|fizzy]] [[d/_drink|drink]], [[m/_most|most]] [[f/_frequently|frequently]] [[n/_nonalcoholic|nonalcoholic]]; soda [[p/_pop|pop]].**
+- **([[m/_midwest|Midwest]] US) An [[e/_effervescent|effervescent]] or [[f/_fizzy|fizzy]] [[d/_drink|drink]], [[m/_most|most]] [[f/_frequently|frequently]] [[n/_nonalcoholic|nonalcoholic]]; [[s/_soda|soda]] [[p/_pop|pop]].**
 	- _Example: Lunch was sandwiches and a bottle of pop._
-- **([[m/_midwest|Midwest]] US) A [[b/_bottle|bottle]], [[c/_can|can]], or serving of [[e/_effervescent|effervescent]] or [[f/_fizzy|fizzy]] [[d/_drink|drink]], [[m/_most|most]] [[f/_frequently|frequently]] [[n/_nonalcoholic|nonalcoholic]]; soda [[p/_pop|pop]].**
+- **([[m/_midwest|Midwest]] US) A [[b/_bottle|bottle]], [[c/_can|can]], or [[s/_serving|serving]] of [[e/_effervescent|effervescent]] or [[f/_fizzy|fizzy]] [[d/_drink|drink]], [[m/_most|most]] [[f/_frequently|frequently]] [[n/_nonalcoholic|nonalcoholic]]; [[s/_soda|soda]] [[p/_pop|pop]].**
 	- _Example: Go in the store and buy us three pops._
-- **A [[p/_pop|pop]] shot: a quick, [[p/_possibly|possibly]] unaimed, shot with a [[f/_firearm|firearm]].**
+- **A [[p/_pop|pop]] [[s/_shot|shot]]: a [[q/_quick|quick]], [[p/_possibly|possibly]] unaimed, [[s/_shot|shot]] with a [[f/_firearm|firearm]].**
 	- _Example: The man with the gun took a pop at the rabbit._
-- **(in the [[p/_phrase|phrase]] "a [[p/_pop|pop]]") A quantity [[d/_dispensed|dispensed]], a [[p/_portion|portion]], [[a/_apiece|apiece]].**
+- **(in the [[p/_phrase|phrase]] "a [[p/_pop|pop]]") A [[q/_quantity|quantity]] [[d/_dispensed|dispensed]], a [[p/_portion|portion]], [[a/_apiece|apiece]].**
 	- _Example: They cost 50 pence a pop._
-- **Something that stands [[o/_out|out]] or is [[d/_distinctive|distinctive]], [[e/_especially|especially]] to the senses.**
+- **[[s/_something|Something]] that stands [[o/_out|out]] or is [[d/_distinctive|distinctive]], [[e/_especially|especially]] to the [[s/_senses|senses]].**
 	- _Example: a pop of vanilla flavour_
-- **The removal of a [[d/_data|data]] [[i/_item|item]] from the top of a stack.**
-- **A [[b/_bird|bird]], the [[e/_european|European]] redwing.**
-- **The sixth [[d/_derivative|derivative]] of the [[p/_position|position]] vector with respect to time ([[a/_after|after]] velocity, [[a/_acceleration|acceleration]], [[j/_jerk|jerk]], [[j/_jounce|jounce]], [[c/_crackle|crackle]]), [[i/_i|i]].[[e/_e|e]]. the rate of [[c/_change|change]] of [[c/_crackle|crackle]].**
+- **The [[r/_removal|removal]] of a [[d/_data|data]] [[i/_item|item]] from the top of a stack.**
+- **A [[b/_bird|bird]], the [[e/_european|European]] [[r/_redwing|redwing]].**
+- **The [[s/_sixth|sixth]] [[d/_derivative|derivative]] of the [[p/_position|position]] vector with [[r/_respect|respect]] to time ([[a/_after|after]] velocity, [[a/_acceleration|acceleration]], [[j/_jerk|jerk]], [[j/_jounce|jounce]], [[c/_crackle|crackle]]), [[i/_i|i]].[[e/_e|e]]. the [[r/_rate|rate]] of [[c/_change|change]] of [[c/_crackle|crackle]].**
 - **A [[p/_pistol|pistol]].**
 ---
 #verb
-- **To [[m/_make|make]] a [[p/_pop|pop]], or sharp, quick sound.**
+- **To [[m/_make|make]] a [[p/_pop|pop]], or [[s/_sharp|sharp]], [[q/_quick|quick]] [[s/_sound|sound]].**
 	- _Example: The muskets popped away on all sides._
-- **To [[b/_burst|burst]] (something) with a [[p/_popping|popping]] sound.**
+- **To [[b/_burst|burst]] ([[s/_something|something]]) with a [[p/_popping|popping]] [[s/_sound|sound]].**
 	- _Example: The boy with the pin popped the balloon._
-- **(with in, [[o/_out|out]], upon, [[e/_etc|etc]].) To [[e/_enter|enter]], or [[i/_issue|issue]] [[f/_forth|forth]], with a quick, sudden [[m/_movement|movement]]; to [[m/_move|move]] from [[p/_place|place]] to [[p/_place|place]] suddenly; to [[d/_dart|dart]].**
+- **(with in, [[o/_out|out]], upon, [[e/_etc|etc]].) To [[e/_enter|enter]], or [[i/_issue|issue]] [[f/_forth|forth]], with a [[q/_quick|quick]], sudden [[m/_movement|movement]]; to [[m/_move|move]] from [[p/_place|place]] to [[p/_place|place]] suddenly; to [[d/_dart|dart]].**
 	- _Example: A rabbit popped out of the hole._
-- **To [[p/_place|place]] (something) (somewhere); to [[m/_move|move]] or [[p/_position|position]] (something) with a short [[m/_movement|movement]].**
+- **To [[p/_place|place]] ([[s/_something|something]]) ([[s/_somewhere|somewhere]]); to [[m/_move|move]] or [[p/_position|position]] ([[s/_something|something]]) with a [[s/_short|short]] [[m/_movement|movement]].**
 	- _Example: He popped his head around the door._
-- **([[o/_often|often]] with [[o/_over|over]], round, [[a/_along|along]], [[e/_etc|etc]].) To [[m/_make|make]] a short trip or visit.**
+- **([[o/_often|often]] with [[o/_over|over]], [[r/_round|round]], [[a/_along|along]], [[e/_etc|etc]].) To [[m/_make|make]] a [[s/_short|short]] trip or visit.**
 	- _Example: I'll pop by your place later today._
-- **To stand [[o/_out|out]]; to be [[d/_distinctive|distinctive]] to the senses.**
+- **To stand [[o/_out|out]]; to be [[d/_distinctive|distinctive]] to the [[s/_senses|senses]].**
 	- _Example: This colour really pops._
-- **To [[h/_hit|hit]] (something or someone).**
+- **To [[h/_hit|hit]] ([[s/_something|something]] or [[s/_someone|someone]]).**
 	- _Example: He popped me on the nose._
-- **To shoot (usually somebody) with a [[f/_firearm|firearm]].**
+- **To [[s/_shoot|shoot]] (usually [[s/_somebody|somebody]]) with a [[f/_firearm|firearm]].**
 - **To [[e/_ejaculate|ejaculate]].**
-- **To remove (a [[d/_data|data]] [[i/_item|item]]) from the top of a stack.**
-- **To remove a [[d/_data|data]] [[i/_item|item]] from the top of (a stack).**
-- **To [[p/_pawn|pawn]] (something) (to raise [[m/_money|money]]).**
+- **To [[r/_remove|remove]] (a [[d/_data|data]] [[i/_item|item]]) from the top of a stack.**
+- **To [[r/_remove|remove]] a [[d/_data|data]] [[i/_item|item]] from the top of (a stack).**
+- **To [[p/_pawn|pawn]] ([[s/_something|something]]) (to [[r/_raise|raise]] [[m/_money|money]]).**
 	- _Example: I had to pop my watch to see me through until pay-day._
-- **To swallow or [[c/_consume|consume]] ([[e/_especially|especially]] a tablet of a [[d/_drug|drug]], sometimes [[e/_extended|extended]] to [[o/_other|other]] small [[i/_items|items]] such as sweets or [[c/_candy|candy]]).**
-- **To [[p/_perform|perform]] (a [[m/_move|move]] or stunt) while riding a [[b/_board|board]] or vehicle.**
+- **To swallow or [[c/_consume|consume]] ([[e/_especially|especially]] a tablet of a [[d/_drug|drug]], [[s/_sometimes|sometimes]] [[e/_extended|extended]] to [[o/_other|other]] [[s/_small|small]] [[i/_items|items]] such as sweets or [[c/_candy|candy]]).**
+- **To [[p/_perform|perform]] (a [[m/_move|move]] or stunt) while [[r/_riding|riding]] a [[b/_board|board]] or vehicle.**
 - **(of the [[e/_ears|ears]]) To undergo [[e/_equalization|equalization]] of [[p/_pressure|pressure]] when the [[e/_eustachian|Eustachian]] tubes [[o/_open|open]].**
 	- _Example: My ears popped as the aeroplane began to ascend._
 ---
 #interjection
-- **Used to represent a [[l/_loud|loud]], sharp sound, as of a [[c/_cork|cork]] [[c/_coming|coming]] [[o/_out|out]] of a [[b/_bottle|bottle]].**
+- **Used to [[r/_represent|represent]] a [[l/_loud|loud]], [[s/_sharp|sharp]] [[s/_sound|sound]], as of a [[c/_cork|cork]] [[c/_coming|coming]] [[o/_out|out]] of a [[b/_bottle|bottle]].**
 ---
 ---

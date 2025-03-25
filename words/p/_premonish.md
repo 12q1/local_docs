@@ -1,6 +1,6 @@
 # Premonish
 ---
 #verb
-- **To warn of something in [[a/_advance|advance]]**
+- **To warn of [[s/_something|something]] in [[a/_advance|advance]]**
 ---
 ---

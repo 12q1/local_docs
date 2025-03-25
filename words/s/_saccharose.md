@@ -1,0 +1,6 @@
+# Saccharose
+---
+#noun
+- **Sucrose**
+---
+---

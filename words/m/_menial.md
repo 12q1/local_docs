@@ -1,13 +1,13 @@
 # Menial
 ---
 #noun
-- **A servant, [[e/_especially|especially]] a [[d/_domestic|domestic]] servant.**
+- **A [[s/_servant|servant]], [[e/_especially|especially]] a [[d/_domestic|domestic]] [[s/_servant|servant]].**
 - **A [[p/_person|person]] who [[h/_has|has]] a subservient [[n/_nature|nature]].**
 ---
 #adjective
-- **Of or relating to work [[n/_normally|normally]] [[p/_performed|performed]] by a servant.**
-- **Of or relating to unskilled work.**
-- **Servile; [[l/_low|low]]; [[m/_mean|mean]].**
+- **Of or [[r/_relating|relating]] to work [[n/_normally|normally]] [[p/_performed|performed]] by a [[s/_servant|servant]].**
+- **Of or [[r/_relating|relating]] to unskilled work.**
+- **[[s/_servile|Servile]]; [[l/_low|low]]; [[m/_mean|mean]].**
 	- _Example: a menial wretch_
 ---
 ---

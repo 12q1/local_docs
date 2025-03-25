@@ -1,14 +1,14 @@
 # Plot
 ---
 #noun
-- **([[a/_authorship|authorship]]) The [[c/_course|course]] of a story, [[c/_comprising|comprising]] a series of [[i/_incidents|incidents]] which are [[g/_gradually|gradually]] unfolded, sometimes by unexpected [[m/_means|means]].**
+- **([[a/_authorship|authorship]]) The [[c/_course|course]] of a story, [[c/_comprising|comprising]] a [[s/_series|series]] of [[i/_incidents|incidents]] which are [[g/_gradually|gradually]] unfolded, [[s/_sometimes|sometimes]] by unexpected [[m/_means|means]].**
 - **An [[a/_area|area]] or [[l/_land|land]] used for [[b/_building|building]] on or [[p/_planting|planting]] on.**
-- **A [[g/_graph|graph]] or [[d/_diagram|diagram]] [[d/_drawn|drawn]] by [[h/_hand|hand]] or produced by a [[m/_mechanical|mechanical]] or [[e/_electronic|electronic]] [[d/_device|device]].**
-- **A secret [[p/_plan|plan]] to [[a/_achieve|achieve]] an [[e/_end|end]], the [[e/_end|end]] or [[m/_means|means]] usually [[b/_being|being]] [[i/_illegal|illegal]] or [[o/_otherwise|otherwise]] questionable.**
+- **A [[g/_graph|graph]] or [[d/_diagram|diagram]] [[d/_drawn|drawn]] by [[h/_hand|hand]] or [[p/_produced|produced]] by a [[m/_mechanical|mechanical]] or [[e/_electronic|electronic]] [[d/_device|device]].**
+- **A [[s/_secret|secret]] [[p/_plan|plan]] to [[a/_achieve|achieve]] an [[e/_end|end]], the [[e/_end|end]] or [[m/_means|means]] usually [[b/_being|being]] [[i/_illegal|illegal]] or [[o/_otherwise|otherwise]] [[q/_questionable|questionable]].**
 	- _Example: The assassination of Lincoln was part of a larger plot._
-- **[[c/_contrivance|Contrivance]]; [[d/_deep|deep]] reach thought; [[a/_ability|ability]] to [[p/_plot|plot]] or [[i/_intrigue|intrigue]].**
+- **[[c/_contrivance|Contrivance]]; [[d/_deep|deep]] [[r/_reach|reach]] thought; [[a/_ability|ability]] to [[p/_plot|plot]] or [[i/_intrigue|intrigue]].**
 - **[[p/_participation|Participation]] in [[a/_any|any]] stratagem or [[c/_conspiracy|conspiracy]].**
-- **A [[p/_plan|plan]]; a purpose.**
+- **A [[p/_plan|plan]]; a [[p/_purpose|purpose]].**
 ---
 ### Synonyms
 - [[c/_conspiracy|conspiracy]], [[s/_scheme|scheme]], [[p/_parcel|parcel]], [[s/_storyline|storyline]]

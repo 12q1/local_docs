@@ -1,6 +1,6 @@
 # Nuraghi
 ---
 #noun
-- **[[d/_dry|Dry]]-stone round [[m/_megalithic|megalithic]] tower [[f/_found|found]] in Sardinia.**
+- **[[d/_dry|Dry]]-stone [[r/_round|round]] [[m/_megalithic|megalithic]] tower [[f/_found|found]] in [[s/_sardinia|Sardinia]].**
 ---
 ---

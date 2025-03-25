@@ -1,8 +1,8 @@
 # Pitied
 ---
 #verb
-- **To [[f/_feel|feel]] [[p/_pity|pity]] for (someone or something).**
+- **To [[f/_feel|feel]] [[p/_pity|pity]] for ([[s/_someone|someone]] or [[s/_something|something]]).**
 	- _Example: You have got to pity the guy - he lost his wife, mother and job in the same month._
-- **To [[m/_make|make]] (someone) [[f/_feel|feel]] [[p/_pity|pity]]; to provoke the sympathy or [[c/_compassion|compassion]] of.**
+- **To [[m/_make|make]] ([[s/_someone|someone]]) [[f/_feel|feel]] [[p/_pity|pity]]; to [[p/_provoke|provoke]] the [[s/_sympathy|sympathy]] or [[c/_compassion|compassion]] of.**
 ---
 ---

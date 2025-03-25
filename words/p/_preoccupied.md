@@ -1,9 +1,9 @@
 # Preoccupied
 ---
 #adjective
-- **[[c/_concerned|Concerned]] with something [[e/_else|else]]; [[d/_distracted|distracted]]; [[g/_giving|giving]] [[o/_one|one]]'s [[a/_attention|attention]] [[e/_elsewhere|elsewhere]].**
+- **[[c/_concerned|Concerned]] with [[s/_something|something]] [[e/_else|else]]; [[d/_distracted|distracted]]; [[g/_giving|giving]] [[o/_one|one]]'[[s/_s|s]] [[a/_attention|attention]] [[e/_elsewhere|elsewhere]].**
 	- _Example: I was preoccupied with a deadline at work, and I forgot his birthday._
-- **[[d/_describing|Describing]] a scientific [[n/_name|name]] that was previously used, a [[j/_junior|junior]] [[h/_homonym|homonym]].**
+- **[[d/_describing|Describing]] a [[s/_scientific|scientific]] [[n/_name|name]] that was [[p/_previously|previously]] used, a [[j/_junior|junior]] [[h/_homonym|homonym]].**
 ---
 #verb
 - **To [[d/_distract|distract]]; to [[o/_occupy|occupy]] or [[d/_draw|draw]] [[a/_attention|attention]] [[e/_elsewhere|elsewhere]].**

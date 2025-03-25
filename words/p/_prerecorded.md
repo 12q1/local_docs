@@ -1,9 +1,9 @@
 # Prerecorded
 ---
 #verb
-- **To record in [[a/_advance|advance]].**
+- **To [[r/_record|record]] in [[a/_advance|advance]].**
 ---
 #adjective
-- **Recorded in [[a/_advance|advance]], as [[o/_opposed|opposed]] to [[l/_live|live]].**
+- **[[r/_recorded|Recorded]] in [[a/_advance|advance]], as [[o/_opposed|opposed]] to [[l/_live|live]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Pauperisation
 ---
 #noun
-- **The [[a/_act|act]] or process of reducing to [[p/_pauperism|pauperism]].**
+- **The [[a/_act|act]] or [[p/_process|process]] of [[r/_reducing|reducing]] to [[p/_pauperism|pauperism]].**
 ---
 ---

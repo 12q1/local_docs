@@ -1,6 +1,6 @@
 # Minicam
 ---
 #noun
-- **A small [[m/_movie|movie]] [[c/_camera|camera]].**
+- **A [[s/_small|small]] [[m/_movie|movie]] [[c/_camera|camera]].**
 ---
 ---

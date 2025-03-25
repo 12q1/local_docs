@@ -5,7 +5,7 @@
 - **To [[c/_change|change]] in state or status**
 - **To [[m/_move|move]] through time.**
 - **To be [[a/_accepted|accepted]].**
-- **In [[a/_any|any]] [[g/_game|game]], to [[d/_decline|decline]] to [[p/_play|play]] in [[o/_one|one]]'s turn.**
+- **In [[a/_any|any]] [[g/_game|game]], to [[d/_decline|decline]] to [[p/_play|play]] in [[o/_one|one]]'[[s/_s|s]] turn.**
 - **To [[d/_do|do]] or be [[b/_better|better]].**
 - **To take [[h/_heed|heed]].**
 ---

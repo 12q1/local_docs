@@ -5,6 +5,6 @@
 - **To [[m/_make|make]] [[m/_mandatory|mandatory]]**
 ---
 #adjective
-- **Required, [[m/_mandatory|mandatory]]**
+- **[[r/_required|Required]], [[m/_mandatory|mandatory]]**
 ---
 ---

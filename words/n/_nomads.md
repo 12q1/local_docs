@@ -1,8 +1,8 @@
 # Nomads
 ---
 #noun
-- **A [[m/_member|member]] of a society or [[c/_class|class]] who [[h/_herd|herd]] [[a/_animals|animals]] from [[p/_pasture|pasture]] to [[p/_pasture|pasture]] with [[n/_no|no]] [[f/_fixed|fixed]] [[h/_home|home]].**
-- **A [[p/_person|person]] who [[c/_changes|changes]] residence [[f/_frequently|frequently]].**
+- **A [[m/_member|member]] of a [[s/_society|society]] or [[c/_class|class]] who [[h/_herd|herd]] [[a/_animals|animals]] from [[p/_pasture|pasture]] to [[p/_pasture|pasture]] with [[n/_no|no]] [[f/_fixed|fixed]] [[h/_home|home]].**
+- **A [[p/_person|person]] who [[c/_changes|changes]] [[r/_residence|residence]] [[f/_frequently|frequently]].**
 - **A [[p/_player|player]] who [[c/_changes|changes]] teams [[f/_frequently|frequently]].**
 ---
 #noun

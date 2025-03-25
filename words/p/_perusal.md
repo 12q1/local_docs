@@ -1,6 +1,6 @@
 # Perusal
 ---
 #noun
-- **The [[a/_act|act]] of [[p/_perusing|perusing]]; studying something [[c/_carefully|carefully]].**
+- **The [[a/_act|act]] of [[p/_perusing|perusing]]; studying [[s/_something|something]] [[c/_carefully|carefully]].**
 ---
 ---

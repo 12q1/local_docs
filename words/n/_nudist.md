@@ -8,6 +8,6 @@
 ### Antonyms
 - [[c/_clothist|clothist]]
 #adjective
-- **(usually [[a/_attributive|attributive]]) Relating to [[n/_nudists|nudists]] and [[n/_nudism|nudism]].**
+- **(usually [[a/_attributive|attributive]]) [[r/_relating|Relating]] to [[n/_nudists|nudists]] and [[n/_nudism|nudism]].**
 ---
 ---

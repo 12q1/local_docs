@@ -3,7 +3,7 @@
 #adjective
 - **[[l/_lower|Lower]]; under.**
 	- _Example: The disappointed child’s nether lip quivered._
-- **[[l/_lying|Lying]] [[b/_beneath|beneath]], or [[c/_conceived|conceived]] as [[l/_lying|lying]] [[b/_beneath|beneath]], the [[e/_earth|Earth]]’s surface.**
+- **[[l/_lying|Lying]] [[b/_beneath|beneath]], or [[c/_conceived|conceived]] as [[l/_lying|lying]] [[b/_beneath|beneath]], the [[e/_earth|Earth]]’[[s/_s|s]] surface.**
 	- _Example: the nether regions_
 ---
 ### Synonyms

@@ -7,6 +7,6 @@
 ### Synonyms
 - [[%/_%p|%p]], [[p/_pp|pp]], [[p/_ppt|ppt]]
 #noun
-- **Proton and proton (used [[a/_attributively|attributively]] to [[d/_describe|describe]] a [[c/_collision|collision]] or [[o/_other|other]] [[i/_interaction|interaction]] of these two [[p/_particles|particles]])**
+- **[[p/_proton|Proton]] and [[p/_proton|proton]] (used [[a/_attributively|attributively]] to [[d/_describe|describe]] a [[c/_collision|collision]] or [[o/_other|other]] [[i/_interaction|interaction]] of these two [[p/_particles|particles]])**
 ---
 ---

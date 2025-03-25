@@ -5,7 +5,7 @@
 	- _Example: The investigation tending to negate any supernatural influences._
 - **To [[n/_nullify|nullify]] or [[c/_cause|cause]] to be [[i/_ineffective|ineffective]].**
 	- _Example: Persecution can be negated through exposure._
-- **To be [[n/_negative|negative]]; [[b/_bring|bring]] or [[c/_cause|cause]] [[n/_negative|negative]] results.**
+- **To be [[n/_negative|negative]]; [[b/_bring|bring]] or [[c/_cause|cause]] [[n/_negative|negative]] [[r/_results|results]].**
 	- _Example: a pessimism that always negates_
 - **To [[p/_perform|perform]] the NOT [[o/_operation|operation]] on.**
 ---

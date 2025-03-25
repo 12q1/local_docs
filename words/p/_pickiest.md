@@ -1,7 +1,7 @@
 # Pickiest
 ---
 #adjective
-- **[[f/_fussy|Fussy]]; [[p/_particular|particular]]; [[d/_demanding|demanding]] to [[h/_have|have]] things [[j/_just|just]] right.**
+- **[[f/_fussy|Fussy]]; [[p/_particular|particular]]; [[d/_demanding|demanding]] to [[h/_have|have]] things [[j/_just|just]] [[r/_right|right]].**
 	- _Example: I am very picky about the way my kitchen is laid out._
 ---
 ### Synonyms

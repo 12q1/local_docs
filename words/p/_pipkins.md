@@ -1,6 +1,6 @@
 # Pipkins
 ---
 #noun
-- **A small [[e/_earthen|earthen]] [[p/_pot|pot]].**
+- **A [[s/_small|small]] [[e/_earthen|earthen]] [[p/_pot|pot]].**
 ---
 ---

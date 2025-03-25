@@ -7,6 +7,6 @@
 ### Synonyms
 - [[e/_entrant|entrant]], [[p/_partaker|partaker]], [[p/_participator|participator]]
 #adjective
-- **Sharing; [[p/_participating|participating]]; [[h/_having|having]] a share of [[p/_part|part]].**
+- **[[s/_sharing|Sharing]]; [[p/_participating|participating]]; [[h/_having|having]] a [[s/_share|share]] of [[p/_part|part]].**
 ---
 ---

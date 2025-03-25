@@ -8,7 +8,7 @@
 #adjective
 - **Written in [[m/_minuscules|minuscules]], [[l/_lowercase|lowercase]].**
 - **Written in [[m/_minuscule|minuscule]] [[h/_handwriting|handwriting]] style.**
-- **Very small, tiny.**
+- **Very [[s/_small|small]], tiny.**
 	- _Example: a minuscule dot_
 ---
 ### Synonyms

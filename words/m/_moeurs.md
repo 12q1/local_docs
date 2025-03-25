@@ -1,6 +1,6 @@
 # Moeurs
 ---
 #noun
-- **A set of [[m/_moral|moral]] [[n/_norms|norms]] or [[c/_customs|customs]] [[d/_derived|derived]] from [[g/_generally|generally]] [[a/_accepted|accepted]] [[p/_practices|practices]] rather than written [[l/_laws|laws]].**
+- **A [[s/_set|set]] of [[m/_moral|moral]] [[n/_norms|norms]] or [[c/_customs|customs]] [[d/_derived|derived]] from [[g/_generally|generally]] [[a/_accepted|accepted]] [[p/_practices|practices]] [[r/_rather|rather]] than written [[l/_laws|laws]].**
 ---
 ---

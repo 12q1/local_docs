@@ -13,8 +13,8 @@
 - [[m/_mew|mew]]
 #interjection
 - **The [[c/_cry|cry]] of a [[c/_cat|cat]].**
-- **Said in reply to a spiteful or [[c/_catty|catty]] [[c/_comment|comment]].**
-- **Said to [[d/_denote|denote]] seductiveness, [[m/_mimicking|mimicking]] a [[g/_growl|growl]].**
+- **[[s/_said|Said]] in [[r/_reply|reply]] to a spiteful or [[c/_catty|catty]] [[c/_comment|comment]].**
+- **[[s/_said|Said]] to [[d/_denote|denote]] [[s/_seductiveness|seductiveness]], [[m/_mimicking|mimicking]] a [[g/_growl|growl]].**
 ---
 ### Synonyms
 - [[n/_nyao|nyao]]

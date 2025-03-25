@@ -4,30 +4,30 @@
 - **[[h/_heavy|Heavy]]; [[m/_massive|massive]].**
 ---
 #noun
-- **Someone who [[h/_has|has]] [[c/_control|control]] [[o/_over|over]] something or someone.**
-- **The [[o/_owner|owner]] of an [[a/_animal|animal]] or slave.**
-- **The [[c/_captain|captain]] of a [[m/_merchant|merchant]] ship; a [[m/_master|master]] [[m/_mariner|mariner]].**
+- **[[s/_someone|Someone]] who [[h/_has|has]] [[c/_control|control]] [[o/_over|over]] [[s/_something|something]] or [[s/_someone|someone]].**
+- **The [[o/_owner|owner]] of an [[a/_animal|animal]] or [[s/_slave|slave]].**
+- **The [[c/_captain|captain]] of a [[m/_merchant|merchant]] [[s/_ship|ship]]; a [[m/_master|master]] [[m/_mariner|mariner]].**
 - **The [[h/_head|head]] of a [[h/_household|household]].**
-- **Someone who [[e/_employs|employs]] [[o/_others|others]].**
-- **An [[e/_expert|expert]] at something.**
+- **[[s/_someone|Someone]] who [[e/_employs|employs]] [[o/_others|others]].**
+- **An [[e/_expert|expert]] at [[s/_something|something]].**
 	- _Example: Mark Twain was a master of fiction._
-- **A tradesman who is qualified to teach [[a/_apprentices|apprentices]].**
-- **A schoolmaster.**
-- **A skilled [[a/_artist|artist]].**
-- **A [[m/_man|man]] or a [[b/_boy|boy]]; [[m/_mister|mister]]. See [[m/_master|Master]].**
-- **A [[m/_master|master]]'s [[d/_degree|degree]]; a type of [[p/_postgraduate|postgraduate]] [[d/_degree|degree]], usually undertaken [[a/_after|after]] a [[b/_bachelor|bachelor]] [[d/_degree|degree]].**
+- **A tradesman who is [[q/_qualified|qualified]] to teach [[a/_apprentices|apprentices]].**
+- **A [[s/_schoolmaster|schoolmaster]].**
+- **A [[s/_skilled|skilled]] [[a/_artist|artist]].**
+- **A [[m/_man|man]] or a [[b/_boy|boy]]; [[m/_mister|mister]]. [[s/_see|See]] [[m/_master|Master]].**
+- **A [[m/_master|master]]'[[s/_s|s]] [[d/_degree|degree]]; a type of [[p/_postgraduate|postgraduate]] [[d/_degree|degree]], usually undertaken [[a/_after|after]] a [[b/_bachelor|bachelor]] [[d/_degree|degree]].**
 	- _Example: She has a master in psychology._
 - **A [[p/_person|person]] [[h/_holding|holding]] such a [[d/_degree|degree]].**
 	- _Example: He is a master of marine biology._
-- **The [[o/_original|original]] of a [[d/_document|document]] or of a recording.**
+- **The [[o/_original|original]] of a [[d/_document|document]] or of a [[r/_recording|recording]].**
 	- _Example: The band couldn't find the master, so they re-recorded their tracks._
-- **The primary wide shot of a scene, [[i/_into|into]] which the [[c/_closeups|closeups]] will be [[e/_edited|edited]] [[l/_later|later]].**
-- **A parajudicial [[o/_officer|officer]] (such as a referee, an [[a/_auditor|auditor]], an [[e/_examiner|examiner]], or an [[a/_assessor|assessor]]) specially [[a/_appointed|appointed]] to [[h/_help|help]] a [[c/_court|court]] with [[i/_its|its]] proceedings.**
+- **The [[p/_primary|primary]] wide [[s/_shot|shot]] of a [[s/_scene|scene]], [[i/_into|into]] which the [[c/_closeups|closeups]] will be [[e/_edited|edited]] [[l/_later|later]].**
+- **A parajudicial [[o/_officer|officer]] (such as a [[r/_referee|referee]], an [[a/_auditor|auditor]], an [[e/_examiner|examiner]], or an [[a/_assessor|assessor]]) specially [[a/_appointed|appointed]] to [[h/_help|help]] a [[c/_court|court]] with [[i/_its|its]] [[p/_proceedings|proceedings]].**
 	- _Example: The case was tried by a master, who concluded that the plaintiffs were the equitable owners of the property. [...]_
-- **A [[d/_device|device]] that is [[c/_controlling|controlling]] [[o/_other|other]] [[d/_devices|devices]] or is an [[a/_authoritative|authoritative]] source.**
+- **A [[d/_device|device]] that is [[c/_controlling|controlling]] [[o/_other|other]] [[d/_devices|devices]] or is an [[a/_authoritative|authoritative]] [[s/_source|source]].**
 	- _Example: a master database_
 - **A [[p/_person|person]] [[h/_holding|holding]] an [[o/_office|office]] of [[a/_authority|authority]], [[e/_especially|especially]] the [[p/_presiding|presiding]] [[o/_officer|officer]].**
-- **(by [[e/_extension|extension]]) A [[p/_person|person]] [[h/_holding|holding]] a similar [[o/_office|office]] in [[o/_other|other]] [[c/_civic|civic]] societies.**
+- **(by [[e/_extension|extension]]) A [[p/_person|person]] [[h/_holding|holding]] a [[s/_similar|similar]] [[o/_office|office]] in [[o/_other|other]] [[c/_civic|civic]] [[s/_societies|societies]].**
 ---
 ### Synonyms
 - [[m/_magistrate|magistrate]], [[m/_master's|master's]], [[m/_masters|masters]], [[c/_captain|captain]], [[s/_skipper|skipper]]
@@ -36,7 +36,7 @@
 	- _Example: a two-master_
 ---
 #noun
-- **Relenting; [[f/_forbearance|forbearance]] to [[c/_cause|cause]] or [[a/_allow|allow]] [[h/_harm|harm]] to [[a/_another|another]].**
+- **[[r/_relenting|Relenting]]; [[f/_forbearance|forbearance]] to [[c/_cause|cause]] or [[a/_allow|allow]] [[h/_harm|harm]] to [[a/_another|another]].**
 	- _Example: She took mercy on him and quit embarrassing him._
 - **[[f/_forgiveness|Forgiveness]] or [[c/_compassion|compassion]], [[e/_especially|especially]] toward those [[l/_less|less]] [[f/_fortunate|fortunate]].**
 	- _Example: Have mercy on the poor and assist them if you can._
@@ -44,7 +44,7 @@
 	- _Example: Mercy is one of his many virtues._
 - **[[i/_instances|Instances]] of [[f/_forbearance|forbearance]] or [[f/_forgiveness|forgiveness]].**
 	- _Example: Psalms 40:11 Do not withhold Your tender mercies from me, O Lord_
-- **A [[b/_blessing|blessing]]; something to be thankful for.**
+- **A [[b/_blessing|blessing]]; [[s/_something|something]] to be thankful for.**
 	- _Example: It was a mercy that we were not inside when the roof collapsed_
 ---
 ### Antonyms

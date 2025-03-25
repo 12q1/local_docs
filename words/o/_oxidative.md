@@ -1,7 +1,7 @@
 # Oxidative
 ---
 #adjective
-- **Of, relating to, or produced by [[o/_oxidation|oxidation]].**
+- **Of, [[r/_relating|relating]] to, or [[p/_produced|produced]] by [[o/_oxidation|oxidation]].**
 ---
 ### Antonyms
 - [[r/_reductive|reductive]]

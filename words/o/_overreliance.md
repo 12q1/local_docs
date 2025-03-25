@@ -1,6 +1,6 @@
 # Overreliance
 ---
 #noun
-- **[[e/_excessive|Excessive]] reliance.**
+- **[[e/_excessive|Excessive]] [[r/_reliance|reliance]].**
 ---
 ---

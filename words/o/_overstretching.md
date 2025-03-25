@@ -2,6 +2,6 @@
 ---
 #verb
 - **To stretch too [[f/_far|far]].**
-- **To stretch [[o/_over|over]] something.**
+- **To stretch [[o/_over|over]] [[s/_something|something]].**
 ---
 ---

@@ -4,6 +4,6 @@
 - **[[p/_paratyphoid|Paratyphoid]] [[f/_fever|fever]]**
 ---
 #adjective
-- **Resembling typhoid.**
+- **[[r/_resembling|Resembling]] typhoid.**
 ---
 ---

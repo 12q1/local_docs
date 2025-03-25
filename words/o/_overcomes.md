@@ -1,9 +1,9 @@
 # Overcomes
 ---
 #verb
-- **To surmount (a [[p/_physical|physical]] or [[a/_abstract|abstract]] [[o/_obstacle|obstacle]]); to prevail [[o/_over|over]], to [[g/_get|get]] the [[b/_better|better]] of.**
+- **To surmount (a [[p/_physical|physical]] or [[a/_abstract|abstract]] [[o/_obstacle|obstacle]]); to [[p/_prevail|prevail]] [[o/_over|over]], to [[g/_get|get]] the [[b/_better|better]] of.**
 	- _Example: to overcome enemies in battle_
-- **To win or prevail in some sort of [[b/_battle|battle]], [[c/_contest|contest]], [[e/_etc|etc]].**
+- **To win or [[p/_prevail|prevail]] in [[s/_some|some]] [[s/_sort|sort]] of [[b/_battle|battle]], [[c/_contest|contest]], [[e/_etc|etc]].**
 	- _Example: We shall overcome._
 - **To [[c/_come|come]] or [[p/_pass|pass]] [[o/_over|over]]; to spread [[o/_over|over]].**
 	- _Example: I was overcome with anger._

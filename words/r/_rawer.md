@@ -1,0 +1,23 @@
+# Rawer
+---
+#adjective
+- **(of [[f/_food|food]]) Not [[c/_cooked|cooked]].**
+- **(of [[m/_materials|materials]], [[p/_products|products]], [[e/_etc|etc]].) Not treated or [[p/_processed|processed]]; in a [[n/_natural|natural]] state, unrefined, unprocessed.**
+	- _Example: raw cane sugar_
+- **[[h/_having|Having]] [[h/_had|had]] the [[s/_skin|skin]] [[r/_removed|removed]] or [[a/_abraded|abraded]]; [[c/_chafed|chafed]], tender; [[e/_exposed|exposed]], [[l/_lacerated|lacerated]].**
+	- _Example: a raw wound_
+- **[[n/_new|New]] or [[i/_inexperienced|inexperienced]].**
+	- _Example: a raw beginner_
+- **[[c/_crude|Crude]] in [[q/_quality|quality]]; [[r/_rough|rough]], uneven, unsophisticated.**
+	- _Example: a raw voice_
+- **(of [[d/_data|data]]) Uncorrected, without [[a/_analysis|analysis]].**
+- **(of weather) Unpleasantly [[c/_cold|cold]] or [[d/_damp|damp]].**
+	- _Example: a raw wind_
+- **(of an [[e/_emotion|emotion]], [[p/_personality|personality]], [[e/_etc|etc]].) Unmasked, undisguised, strongly [[e/_expressed|expressed]]**
+	- _Example: raw emotion_
+- **[[c/_candid|Candid]] in a [[r/_representation|representation]] of unpleasant [[f/_facts|facts]], [[c/_conditions|conditions]], [[e/_etc|etc]].**
+	- _Example: a raw description of the American political arena_
+- **(of [[l/_language|language]]) Unrefined, [[c/_crude|crude]], or [[i/_insensitive|insensitive]], [[e/_especially|especially]] with [[r/_reference|reference]] to [[s/_sexual|sexual]] [[m/_matters|matters]]**
+- **Not [[c/_covered|covered]]; [[b/_bare|bare]]; [[b/_bald|bald]].**
+---
+---

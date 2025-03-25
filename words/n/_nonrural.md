@@ -1,6 +1,6 @@
 # Nonrural
 ---
 #adjective
-- **Not rural.**
+- **Not [[r/_rural|rural]].**
 ---
 ---

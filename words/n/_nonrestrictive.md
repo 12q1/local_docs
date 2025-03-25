@@ -1,6 +1,6 @@
 # Nonrestrictive
 ---
 #adjective
-- **Not restrictive; not [[i/_imposing|imposing]] restrictions**
+- **Not [[r/_restrictive|restrictive]]; not [[i/_imposing|imposing]] [[r/_restrictions|restrictions]]**
 ---
 ---

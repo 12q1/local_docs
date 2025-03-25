@@ -5,9 +5,9 @@
 	- _Example: You may sit here, mister._
 ---
 #noun
-- **Someone's [[b/_business|business]] or [[f/_function|function]]; an [[o/_occupation|occupation]], [[e/_employment|employment]], trade.**
+- **[[s/_someone|Someone]]'[[s/_s|s]] [[b/_business|business]] or [[f/_function|function]]; an [[o/_occupation|occupation]], [[e/_employment|employment]], trade.**
 - **A [[k/_kind|kind]], type of.**
-- **[[n/_need|Need]] (of something).**
+- **[[n/_need|Need]] (of [[s/_something|something]]).**
 - **[[n/_necessity|Necessity]]; the [[n/_necessary|necessary]] time.**
 ---
 #noun

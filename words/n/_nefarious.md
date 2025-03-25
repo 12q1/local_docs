@@ -1,7 +1,7 @@
 # Nefarious
 ---
 #adjective
-- **Sinful, villainous, [[c/_criminal|criminal]], or wicked, [[e/_especially|especially]] when [[n/_noteworthy|noteworthy]] or [[n/_notorious|notorious]] for such [[c/_characteristics|characteristics]].**
+- **[[s/_sinful|Sinful]], villainous, [[c/_criminal|criminal]], or wicked, [[e/_especially|especially]] when [[n/_noteworthy|noteworthy]] or [[n/_notorious|notorious]] for such [[c/_characteristics|characteristics]].**
 	- _Example: Aliens have a nefarious connotation in many science fiction books._
 ---
 ### Synonyms

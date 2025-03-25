@@ -1,7 +1,7 @@
 # Menservants
 ---
 #noun
-- **A [[m/_male|male]] servant.**
+- **A [[m/_male|male]] [[s/_servant|servant]].**
 	- _Example: I asked my manservant to attend to the washing and cleaning._
 ---
 ### Synonyms

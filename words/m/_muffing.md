@@ -5,6 +5,6 @@
 - **To [[m/_mishandle|mishandle]]; to [[b/_bungle|bungle]].**
 ---
 #noun
-- **[[p/_penetration|Penetration]] of the [[i/_inguinal|inguinal]] [[c/_canal|canal]] ([[e/_e|e]].[[g/_g|g]]. with a [[f/_finger|finger]], or by pushing the testicle [[b/_back|back]] [[i/_inside|inside]] it) as a [[f/_form|form]] of sexual [[a/_activity|activity]] [[a/_among|among]] trans women.**
+- **[[p/_penetration|Penetration]] of the [[i/_inguinal|inguinal]] [[c/_canal|canal]] ([[e/_e|e]].[[g/_g|g]]. with a [[f/_finger|finger]], or by [[p/_pushing|pushing]] the testicle [[b/_back|back]] [[i/_inside|inside]] it) as a [[f/_form|form]] of [[s/_sexual|sexual]] [[a/_activity|activity]] [[a/_among|among]] trans women.**
 ---
 ---

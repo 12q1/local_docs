@@ -1,7 +1,7 @@
 # Misogynistic
 ---
 #adjective
-- **Of, relating to or [[e/_exhibiting|exhibiting]] [[m/_misogyny|misogyny]].**
+- **Of, [[r/_relating|relating]] to or [[e/_exhibiting|exhibiting]] [[m/_misogyny|misogyny]].**
 ---
 ### Synonyms
 - [[m/_misogynic|misogynic]], [[m/_misogynist|misogynist]], [[m/_misogynous|misogynous]]

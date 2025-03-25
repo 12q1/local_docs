@@ -1,6 +1,6 @@
 # Oleiferous
 ---
 #adjective
-- **That produces [[o/_oil|oil]]**
+- **That [[p/_produces|produces]] [[o/_oil|oil]]**
 ---
 ---

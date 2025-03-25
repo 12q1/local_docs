@@ -1,9 +1,9 @@
 # Ok
 ---
 #adjective
-- **[[a/_all|All]] right, [[p/_permitted|permitted]].**
+- **[[a/_all|All]] [[r/_right|right]], [[p/_permitted|permitted]].**
 	- _Example: Do you think it's OK to stay here for the night?_
-- **Satisfactory, reasonably [[g/_good|good]]; not [[e/_exceptional|exceptional]].**
+- **[[s/_satisfactory|Satisfactory]], [[r/_reasonably|reasonably]] [[g/_good|good]]; not [[e/_exceptional|exceptional]].**
 	- _Example: The soup was OK, but the dessert was excellent._
 - **In [[g/_good|good]] [[h/_health|health]] or a [[g/_good|good]] [[e/_emotional|emotional]] state.**
 	- _Example: He's not feeling well now, but he should be OK after some rest._

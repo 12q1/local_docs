@@ -9,7 +9,7 @@
 #adjective
 - **[[i/_ill|Ill]]-[[c/_conceived|conceived]] or not thought through**
 - **[[m/_misled|Misled]] or [[m/_mistaken|mistaken]]**
-- **[[l/_lacking|Lacking]] proper [[g/_guidance|guidance]]**
+- **[[l/_lacking|Lacking]] [[p/_proper|proper]] [[g/_guidance|guidance]]**
 	- _Example: A misguided child may use his personal power in mischievous ways_
 ---
 ### Synonyms

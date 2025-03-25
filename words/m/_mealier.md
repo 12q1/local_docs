@@ -1,6 +1,6 @@
 # Mealier
 ---
 #adjective
-- **Resembling [[m/_meal|meal]] (the [[f/_foodstuff|foodstuff]]).**
+- **[[r/_resembling|Resembling]] [[m/_meal|meal]] (the [[f/_foodstuff|foodstuff]]).**
 ---
 ---

@@ -1,6 +1,6 @@
 # Monotints
 ---
 #noun
-- **A [[m/_monochrome|monochrome]] print.**
+- **A [[m/_monochrome|monochrome]] [[p/_print|print]].**
 ---
 ---

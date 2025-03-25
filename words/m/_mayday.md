@@ -1,6 +1,6 @@
 # Mayday
 ---
 #noun
-- **An [[i/_international|international]] [[d/_distress|distress]] signal used by shipping and [[a/_aircraft|aircraft]]**
+- **An [[i/_international|international]] [[d/_distress|distress]] [[s/_signal|signal]] used by [[s/_shipping|shipping]] and [[a/_aircraft|aircraft]]**
 ---
 ---

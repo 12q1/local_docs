@@ -1,7 +1,7 @@
 # Praises
 ---
 #noun
-- **[[c/_commendation|Commendation]]; [[f/_favourable|favourable]] representation in words**
+- **[[c/_commendation|Commendation]]; [[f/_favourable|favourable]] [[r/_representation|representation]] in words**
 - **Worship**
 ---
 ### Antonyms

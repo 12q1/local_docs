@@ -1,6 +1,6 @@
 # Mariners
 ---
 #noun
-- **A sailor.**
+- **A [[s/_sailor|sailor]].**
 ---
 ---

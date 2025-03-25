@@ -1,7 +1,7 @@
 # Muscled
 ---
 #verb
-- **To use [[f/_force|force]] to [[m/_make|make]] progress, [[e/_especially|especially]] [[p/_physical|physical]] [[f/_force|force]].**
+- **To use [[f/_force|force]] to [[m/_make|make]] [[p/_progress|progress]], [[e/_especially|especially]] [[p/_physical|physical]] [[f/_force|force]].**
 	- _Example: He muscled his way through the crowd._
 ---
 #adjective

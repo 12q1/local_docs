@@ -1,6 +1,6 @@
 # Poincianas
 ---
 #noun
-- **A tropical shrub with [[b/_bright|bright]] [[o/_orange|orange]]-red [[f/_flowers|flowers]]**
+- **A tropical [[s/_shrub|shrub]] with [[b/_bright|bright]] [[o/_orange|orange]]-[[r/_red|red]] [[f/_flowers|flowers]]**
 ---
 ---

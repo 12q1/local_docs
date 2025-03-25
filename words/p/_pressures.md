@@ -10,7 +10,7 @@
 - **Urgency**
 	- _Example: the pressure of business_
 - **[[i/_impression|Impression]]; stamp; [[c/_character|character]] [[i/_impressed|impressed]].**
-- **The [[a/_amount|amount]] of [[f/_force|force]] that is [[a/_applied|applied]] [[o/_over|over]] a [[g/_given|given]] [[a/_area|area]] [[d/_divided|divided]] by the size of this [[a/_area|area]].**
+- **The [[a/_amount|amount]] of [[f/_force|force]] that is [[a/_applied|applied]] [[o/_over|over]] a [[g/_given|given]] [[a/_area|area]] [[d/_divided|divided]] by the [[s/_size|size]] of this [[a/_area|area]].**
 ---
 ### Synonyms
 - [[a/_affliction|affliction]], [[g/_grievance|grievance]], [[p/_press|press]]

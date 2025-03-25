@@ -3,7 +3,7 @@
 #preposition
 - **For [[e/_each|each]].**
 	- _Example: $2.50 per dozen_
-- **To [[e/_each|each]], in [[e/_each|each]] (used in [[e/_expressing|expressing]] ratios of units).**
+- **To [[e/_each|each]], in [[e/_each|each]] (used in [[e/_expressing|expressing]] [[r/_ratios|ratios]] of units).**
 	- _Example: 100 centimeters per meter_
 - **By the, by [[m/_means|means]] of the, via the, through the.**
 	- _Example: Introduce the endoscope per nasum._

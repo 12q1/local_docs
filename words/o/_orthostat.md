@@ -1,6 +1,6 @@
 # Orthostat
 ---
 #noun
-- **An upright stone or slab**
+- **An upright stone or [[s/_slab|slab]]**
 ---
 ---

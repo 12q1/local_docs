@@ -1,6 +1,6 @@
 # Nonsegregated
 ---
 #adjective
-- **Not segregated.**
+- **Not [[s/_segregated|segregated]].**
 ---
 ---

@@ -2,9 +2,9 @@
 ---
 #noun
 - **A [[c/_call|call]] which [[o/_occurs|occurs]] [[a/_after|after]] [[a/_another|another]] [[p/_player|player]] [[h/_has|has]] [[a/_already|already]] [[c/_called|called]]**
-- **([[c/_contract|contract]] [[l/_law|law]]) An [[a/_additional|additional]] [[c/_contribution|contribution]] required of [[i/_investors|investors]] [[b/_beyond|beyond]] the [[i/_initial|initial]] [[i/_investment|investment]], should unforeseen [[e/_expenses|expenses]] [[a/_arise|arise]].**
-- **An [[e/_extra|extra]] [[a/_amount|amount]] [[c/_called|called]] up [[b/_beyond|beyond]] the [[m/_minimum|minimum]] required.**
-- **An [[a/_additional|additional]] [[c/_creative|creative]] product that a producer [[c/_can|can]] require at the producer's [[o/_option|option]] [[d/_during|during]] the [[c/_contract|contract]] [[p/_period|period]].**
+- **([[c/_contract|contract]] [[l/_law|law]]) An [[a/_additional|additional]] [[c/_contribution|contribution]] [[r/_required|required]] of [[i/_investors|investors]] [[b/_beyond|beyond]] the [[i/_initial|initial]] [[i/_investment|investment]], [[s/_should|should]] unforeseen [[e/_expenses|expenses]] [[a/_arise|arise]].**
+- **An [[e/_extra|extra]] [[a/_amount|amount]] [[c/_called|called]] up [[b/_beyond|beyond]] the [[m/_minimum|minimum]] [[r/_required|required]].**
+- **An [[a/_additional|additional]] [[c/_creative|creative]] [[p/_product|product]] that a [[p/_producer|producer]] [[c/_can|can]] [[r/_require|require]] at the [[p/_producer|producer]]'[[s/_s|s]] [[o/_option|option]] [[d/_during|during]] the [[c/_contract|contract]] [[p/_period|period]].**
 - **A [[p/_positive|positive]] [[d/_diagnosis|diagnosis]] when there is, in [[f/_fact|fact]], [[n/_nothing|nothing]] wrong.**
 ---
 #verb

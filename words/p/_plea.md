@@ -7,7 +7,7 @@
 - **That which is [[a/_alleged|alleged]] or [[p/_pleaded|pleaded]], in [[d/_defense|defense]] or in [[j/_justification|justification]].**
 - **That which is [[a/_alleged|alleged]] by a [[p/_party|party]] in support of [[h/_his|his]] [[c/_cause|cause]].**
 - **An [[a/_allegation|allegation]] of [[f/_fact|fact]] in a [[c/_cause|cause]], as [[d/_distinguished|distinguished]] from a [[d/_demurrer|demurrer]].**
-- **The [[d/_defendant|defendant]]’s [[a/_answer|answer]] to the [[p/_plaintiff|plaintiff]]’s [[d/_declaration|declaration]] and [[d/_demand|demand]].**
+- **The [[d/_defendant|defendant]]’[[s/_s|s]] [[a/_answer|answer]] to the [[p/_plaintiff|plaintiff]]’[[s/_s|s]] [[d/_declaration|declaration]] and [[d/_demand|demand]].**
 - **A [[c/_cause|cause]] in [[c/_court|court]]; a [[l/_lawsuit|lawsuit]]; as, the [[c/_court|Court]] of [[c/_common|Common]] [[p/_pleas|Pleas]].**
 ---
 ### Synonyms

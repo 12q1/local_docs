@@ -1,0 +1,26 @@
+# Resolutions
+---
+#noun
+- **A strong will, [[d/_determination|determination]].**
+- **The state of [[b/_being|being]] [[r/_resolute|resolute]].**
+	- _Example: His stalwart resolution is perhaps admirable, perhaps foolish._
+- **A statement of [[i/_intent|intent]], a vow**
+	- _Example: By February, most New Year's resolutions are forgotten.   My resolution is to cut back on the fast food this year._
+- **The [[a/_act|act]] of [[d/_discerning|discerning]] [[d/_detail|detail]].**
+- **([[c/_computing|computing]], [[p/_photography|photography]]) The [[d/_degree|degree]] of [[f/_fineness|fineness]] with which an [[i/_image|image]] [[c/_can|can]] be [[r/_recorded|recorded]] or [[p/_produced|produced]], [[o/_often|often]] [[e/_expressed|expressed]] as the [[n/_number|number]] of [[p/_pixels|pixels]] [[p/_per|per]] unit of [[l/_length|length]] (typically an [[i/_inch|inch]]).**
+	- _Example: Printing at higher resolution will cause a reduction in performance._
+- **The [[n/_number|number]] of [[p/_pixels|pixels]] in an [[i/_image|image]] [[b/_being|being]] stored or [[d/_displayed|displayed]].**
+	- _Example: This monitor's maximum resolution is 1600 × 1200._
+- **The [[p/_process|process]] of [[d/_determining|determining]] the [[m/_meaning|meaning]] of a [[s/_symbol|symbol]] or [[a/_address|address]]; [[l/_lookup|lookup]].**
+	- _Example: name resolution_
+- **The [[a/_act|act]] or [[p/_process|process]] of [[s/_solving|solving]]; [[s/_solution|solution]].**
+	- _Example: the resolution of an equation_
+- **A [[f/_formal|formal]] statement [[a/_adopted|adopted]] by an [[a/_assembly|assembly]], or [[d/_during|during]] [[a/_any|any]] [[o/_other|other]] [[f/_formal|formal]] [[m/_meeting|meeting]].**
+	- _Example: The resolution was passed by a two-thirds majority._
+- **The [[s/_separation|separation]] of the [[c/_constituent|constituent]] [[p/_parts|parts]] (of a spectrum [[e/_etc|etc]]).**
+- **The [[d/_degree|degree]] of [[f/_fineness|fineness]] of such a [[s/_separation|separation]].**
+- **[[p/_progression|Progression]] from [[d/_dissonance|dissonance]] to [[c/_consonance|consonance]]; a [[c/_chord|chord]] to which such [[p/_progression|progression]] is [[m/_made|made]].**
+- **The [[m/_moment|moment]] in which the [[c/_conflict|conflict]] [[e/_ends|ends]] and the [[o/_outcome|outcome]] of the [[a/_action|action]] is [[c/_clear|clear]].**
+- **In a [[p/_pathological|pathological]] [[p/_process|process]], the [[p/_phase|phase]] [[d/_during|during]] which [[p/_pathogens|pathogens]] and [[d/_damaged|damaged]] tissues are [[r/_removed|removed]] by macrophages.**
+---
+---

@@ -1,7 +1,7 @@
 # Naturalizing
 ---
 #verb
-- **To [[g/_grant|grant]] [[c/_citizenship|citizenship]] to someone not [[b/_born|born]] a [[c/_citizen|citizen]]**
+- **To [[g/_grant|grant]] [[c/_citizenship|citizenship]] to [[s/_someone|someone]] not [[b/_born|born]] a [[c/_citizen|citizen]]**
 - **To [[a/_acclimatize|acclimatize]] an [[a/_animal|animal]] or [[p/_plant|plant]]**
 - **To [[m/_make|make]] [[n/_natural|natural]]**
 	- _Example: Custom naturalizes labour or study._

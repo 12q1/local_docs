@@ -1,6 +1,6 @@
 # Ovariectomized
 ---
 #verb
-- **To remove the [[o/_ovaries|ovaries]] from.**
+- **To [[r/_remove|remove]] the [[o/_ovaries|ovaries]] from.**
 ---
 ---

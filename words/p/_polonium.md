@@ -1,6 +1,6 @@
 # Polonium
 ---
 #noun
-- **A rare, [[h/_highly|highly]] radioactive [[c/_chemical|chemical]] [[e/_element|element]] (symbol [[p/_po|Po]]) with [[a/_atomic|atomic]] [[n/_number|number]] 84.**
+- **A [[r/_rare|rare]], [[h/_highly|highly]] [[r/_radioactive|radioactive]] [[c/_chemical|chemical]] [[e/_element|element]] ([[s/_symbol|symbol]] [[p/_po|Po]]) with [[a/_atomic|atomic]] [[n/_number|number]] 84.**
 ---
 ---

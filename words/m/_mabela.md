@@ -1,6 +1,6 @@
 # Mabela
 ---
 #noun
-- **A type of sorghum.**
+- **A type of [[s/_sorghum|sorghum]].**
 ---
 ---

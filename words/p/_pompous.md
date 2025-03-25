@@ -1,7 +1,7 @@
 # Pompous
 ---
 #adjective
-- **[[a/_affectedly|Affectedly]] [[g/_grand|grand]], solemn or self-[[i/_important|important]].**
+- **[[a/_affectedly|Affectedly]] [[g/_grand|grand]], [[s/_solemn|solemn]] or [[s/_self|self]]-[[i/_important|important]].**
 ---
 ### Synonyms
 - [[c/_conceited|conceited]], [[s/_smug|smug]]
