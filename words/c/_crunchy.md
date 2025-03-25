@@ -1,7 +1,7 @@
 # Crunchy
 ---
 #noun
-- **(usually in the plural) A pellet of [[d/_dry|dry]] [[c/_cat|cat]] [[f/_food|food]].**
+- **(usually in the [[p/_plural|plural]]) A [[p/_pellet|pellet]] of [[d/_dry|dry]] [[c/_cat|cat]] [[f/_food|food]].**
 ---
 #adjective
 - **[[l/_likely|Likely]] to [[c/_crunch|crunch]], [[e/_especially|especially]] with reference to [[f/_food|food]] when it is [[e/_eaten|eaten]].**

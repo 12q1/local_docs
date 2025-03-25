@@ -1,7 +1,7 @@
 # Caddy
 ---
 #noun
-- **[[o/_one|One]] [[h/_hired|hired]] to [[a/_assist|assist]] [[a/_another|another]] in playing the [[g/_game|game]] of [[g/_golf|golf]].**
+- **[[o/_one|One]] [[h/_hired|hired]] to [[a/_assist|assist]] [[a/_another|another]] in [[p/_playing|playing]] the [[g/_game|game]] of [[g/_golf|golf]].**
 	- _Example: "Caddy, pass me my five iron."_
 ---
 #verb

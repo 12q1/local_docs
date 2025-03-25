@@ -7,7 +7,7 @@
 ### Synonyms
 - [[t/_tilted|tilted]]
 #adverb
-- **At an [[a/_angle|angle]] from the vertical or [[h/_horizontal|horizontal]]; at the point of [[f/_falling|falling]] [[o/_over|over]].**
+- **At an [[a/_angle|angle]] from the vertical or [[h/_horizontal|horizontal]]; at the [[p/_point|point]] of [[f/_falling|falling]] [[o/_over|over]].**
 	- _Example: He wore his hat rakishly atilt._
 - **Tilting or as [[i/_if|if]] tilting ([[c/_charging|charging]] with a [[l/_lance|lance]], [[l/_like|like]] a [[k/_knight|knight]] on [[h/_horseback|horseback]] in a [[j/_joust|joust]]).**
 	- _Example: to run / ride atilt at someone or something_

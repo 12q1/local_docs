@@ -1,7 +1,7 @@
 # Japed
 ---
 #verb
-- **To [[j/_jest|jest]]; play tricks.**
+- **To [[j/_jest|jest]]; [[p/_play|play]] tricks.**
 - **To [[m/_mock|mock]]; [[d/_deride|deride]].**
 - **To [[h/_have|have]] sexual [[i/_intercourse|intercourse]] with.**
 ---

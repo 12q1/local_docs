@@ -8,7 +8,7 @@
 	- _Example: I installed a new application and it added its icon to my desktop._
 ---
 #adjective
-- **[[d/_designed|Designed]] for use on a [[d/_desk|desk]] or similar piece of [[f/_furniture|furniture]].**
-- **Of an [[a/_application|application]], [[d/_designed|designed]] to be run on a personal [[c/_computer|computer]].**
+- **[[d/_designed|Designed]] for use on a [[d/_desk|desk]] or similar [[p/_piece|piece]] of [[f/_furniture|furniture]].**
+- **Of an [[a/_application|application]], [[d/_designed|designed]] to be run on a [[p/_personal|personal]] [[c/_computer|computer]].**
 ---
 ---

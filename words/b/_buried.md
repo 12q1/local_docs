@@ -1,12 +1,12 @@
 # Buried
 ---
 #adjective
-- **Placed in a [[g/_grave|grave]] at a [[b/_burial|burial]].**
+- **[[p/_placed|Placed]] in a [[g/_grave|grave]] at a [[b/_burial|burial]].**
 - **[[c/_concealed|Concealed]], [[h/_hidden|hidden]].**
 ---
 #verb
 - **To ritualistically [[i/_inter|inter]] in a [[g/_grave|grave]] or tomb.**
-- **To place in the [[g/_ground|ground]].**
+- **To [[p/_place|place]] in the [[g/_ground|ground]].**
 	- _Example: bury a bone;  bury the embers_
 - **To [[h/_hide|hide]] or [[c/_conceal|conceal]] as [[i/_if|if]] by [[c/_covering|covering]] with [[e/_earth|earth]] or [[a/_another|another]] substance.**
 	- _Example: she buried her face in the pillow;  they buried us in paperwork_

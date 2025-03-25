@@ -3,14 +3,14 @@
 #noun
 - **[[m/_marijuana|Marijuana]], typically of [[h/_high|high]] quality.**
 - **A [[c/_condition|condition]] of [[e/_extended|extended]] [[d/_duration|duration]], [[e/_either|either]] [[c/_continuous|continuous]] or [[m/_marked|marked]] by [[f/_frequent|frequent]] recurrence. Sometimes [[i/_implies|implies]] a [[c/_condition|condition]] which worsens with [[e/_each|each]] recurrence, though that is not [[i/_inherent|inherent]] in the term.**
-- **A person who is [[c/_chronic|chronic]], such as a [[c/_criminal|criminal]] reoffender or a person with [[c/_chronic|chronic]] [[d/_disease|disease]].**
+- **A [[p/_person|person]] who is [[c/_chronic|chronic]], such as a [[c/_criminal|criminal]] reoffender or a [[p/_person|person]] with [[c/_chronic|chronic]] [[d/_disease|disease]].**
 ---
 #adjective
-- **Of a problem, that [[c/_continues|continues]] [[o/_over|over]] an [[e/_extended|extended]] period of time.**
+- **Of a problem, that [[c/_continues|continues]] [[o/_over|over]] an [[e/_extended|extended]] [[p/_period|period]] of time.**
 	- _Example: chronic unemployment; chronic poverty; chronic anger; chronic life_
 - **Prolonged or slow to [[h/_heal|heal]].**
 	- _Example: chronic cough; chronic headache; chronic illness_
-- **Of a person, suffering from an [[a/_affliction|affliction]] that is prolonged or slow to [[h/_heal|heal]].**
+- **Of a [[p/_person|person]], suffering from an [[a/_affliction|affliction]] that is prolonged or slow to [[h/_heal|heal]].**
 	- _Example: Chronic patients must learn to live with their condition._
 - **[[i/_inveterate|Inveterate]] or [[h/_habitual|habitual]].**
 	- _Example: He's a chronic smoker._

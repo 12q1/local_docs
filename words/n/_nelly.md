@@ -1,6 +1,6 @@
 # Nelly
 ---
 #noun
-- **A person's [[l/_life|life]].**
+- **A [[p/_person|person]]'s [[l/_life|life]].**
 ---
 ---

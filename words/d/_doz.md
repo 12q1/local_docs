@@ -3,7 +3,7 @@
 #noun
 - **A set of twelve.**
 	- _Example: Can I have a dozen eggs, please?_
-- **(as plural [[o/_only|only]], [[a/_always|always]] [[f/_followed|followed]] by of) A [[l/_large|large]], unspecified [[n/_number|number]] of, [[c/_comfortably|comfortably]] [[e/_estimated|estimated]] in small [[m/_multiples|multiples]] of twelve, thus [[g/_generally|generally]] [[i/_implied|implied]] to be significantly [[m/_more|more]] than ten or twelve, but [[l/_less|less]] than perhaps [[o/_one|one]] or two [[h/_hundred|hundred]]; [[m/_many|many]].**
+- **(as [[p/_plural|plural]] [[o/_only|only]], [[a/_always|always]] [[f/_followed|followed]] by of) A [[l/_large|large]], unspecified [[n/_number|number]] of, [[c/_comfortably|comfortably]] [[e/_estimated|estimated]] in small [[m/_multiples|multiples]] of twelve, thus [[g/_generally|generally]] [[i/_implied|implied]] to be significantly [[m/_more|more]] than ten or twelve, but [[l/_less|less]] than [[p/_perhaps|perhaps]] [[o/_one|one]] or two [[h/_hundred|hundred]]; [[m/_many|many]].**
 	- _Example: There must have been dozens of examples just on the first page._
 - **An [[o/_old|old]] [[e/_english|English]] [[m/_measure|measure]] of [[o/_ore|ore]] [[c/_containing|containing]] 12 [[h/_hundredweight|hundredweight]].**
 ---

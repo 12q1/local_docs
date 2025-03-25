@@ -5,7 +5,7 @@
 - **To provide a [[b/_bunk|bunk]].**
 ---
 #verb
-- **To [[f/_fail|fail]] to [[a/_attend|attend]] school or work without permission; to play truant (usually as in 'to [[b/_bunk|bunk]] [[o/_off|off]]').**
+- **To [[f/_fail|fail]] to [[a/_attend|attend]] school or work without [[p/_permission|permission]]; to [[p/_play|play]] truant (usually as in 'to [[b/_bunk|bunk]] [[o/_off|off]]').**
 - **To [[e/_expel|expel]] from a school.**
 ---
 ---

@@ -5,7 +5,7 @@
 - **To [[h/_hide|hide]] or [[d/_disguise|disguise]].**
 - **To [[c/_cover|cover]] or [[d/_disguise|disguise]] the seriousness of (a [[m/_mistake|mistake]], [[o/_offence|offence]] [[e/_etc|etc]].) by [[e/_excuses|excuses]] and [[a/_apologies|apologies]].**
 - **To [[l/_lessen|lessen]] the severity of; to [[e/_extenuate|extenuate]], [[m/_moderate|moderate]], qualify.**
-- **To placate or [[m/_mollify|mollify]].**
+- **To [[p/_placate|placate]] or [[m/_mollify|mollify]].**
 ---
 #adjective
 - **[[c/_cloaked|Cloaked]]; [[h/_hidden|hidden]], [[c/_concealed|concealed]].**

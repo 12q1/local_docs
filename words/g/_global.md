@@ -6,9 +6,9 @@
 ### Antonyms
 - [[l/_local|local]]
 #adjective
-- **[[c/_concerning|Concerning]] [[a/_all|all]] parts of the world.**
+- **[[c/_concerning|Concerning]] [[a/_all|all]] [[p/_parts|parts]] of the world.**
 	- _Example: Pollution is a global problem._
-- **Pertaining to the whole of something; total, universal:**
+- **[[p/_pertaining|Pertaining]] to the whole of something; total, universal:**
 - **Spherical, [[b/_ball|ball]]-shaped.**
 	- _Example: In the center was a small, global mass._
 - **Of or relating to a [[g/_globe|globe]] or sphere.**

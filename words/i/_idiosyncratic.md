@@ -1,6 +1,6 @@
 # Idiosyncratic
 ---
 #adjective
-- **Peculiar to a specific [[i/_individual|individual]]; [[e/_eccentric|eccentric]].**
+- **[[p/_peculiar|Peculiar]] to a specific [[i/_individual|individual]]; [[e/_eccentric|eccentric]].**
 ---
 ---

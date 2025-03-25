@@ -1,7 +1,7 @@
 # Despicable
 ---
 #noun
-- **A wretched or wicked person.**
+- **A wretched or wicked [[p/_person|person]].**
 ---
 #adjective
 - **[[f/_fit|Fit]] or [[d/_deserving|deserving]] to be [[d/_despised|despised]]; [[c/_contemptible|contemptible]]; [[m/_mean|mean]]**

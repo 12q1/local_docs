@@ -10,6 +10,6 @@
 ---
 #adjective
 - **[[b/_being|Being]], or [[h/_having|having]] [[b/_been|been]], [[f/_flamb|flamb]]é[[e/_ed|ed]].**
-- **(of [[c/_chinese|Chinese]] porcelain) [[d/_decorated|Decorated]] by [[g/_glaze|glaze]] splashed or [[i/_irregularly|irregularly]] spread upon the surface, or [[a/_apparently|apparently]] [[a/_applied|applied]] at the top and [[a/_allowed|allowed]] to run [[d/_down|down]] the sides.**
+- **(of [[c/_chinese|Chinese]] [[p/_porcelain|porcelain]]) [[d/_decorated|Decorated]] by [[g/_glaze|glaze]] splashed or [[i/_irregularly|irregularly]] spread upon the surface, or [[a/_apparently|apparently]] [[a/_applied|applied]] at the top and [[a/_allowed|allowed]] to run [[d/_down|down]] the sides.**
 ---
 ---

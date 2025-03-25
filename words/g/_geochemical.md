@@ -1,6 +1,6 @@
 # Geochemical
 ---
 #adjective
-- **Of or pertaining to [[g/_geochemistry|geochemistry]]**
+- **Of or [[p/_pertaining|pertaining]] to [[g/_geochemistry|geochemistry]]**
 ---
 ---

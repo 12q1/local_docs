@@ -1,7 +1,7 @@
 # Flogs
 ---
 #noun
-- **A [[c/_contemptible|contemptible]], [[o/_often|often]] [[a/_arrogant|arrogant]] person.**
+- **A [[c/_contemptible|contemptible]], [[o/_often|often]] [[a/_arrogant|arrogant]] [[p/_person|person]].**
 ---
 #verb
 - **To whip or scourge someone or something as punishment.**
@@ -12,6 +12,6 @@
 - **To [[e/_exploit|exploit]].**
 ---
 #noun
-- **A weblog [[d/_designed|designed]] to [[l/_look|look]] [[a/_authentic|authentic]], but [[a/_actually|actually]] [[d/_developed|developed]] as part of a [[c/_commercial|commercial]] [[m/_marketing|marketing]] strategy to promote some product or service.**
+- **A weblog [[d/_designed|designed]] to [[l/_look|look]] [[a/_authentic|authentic]], but [[a/_actually|actually]] [[d/_developed|developed]] as [[p/_part|part]] of a [[c/_commercial|commercial]] [[m/_marketing|marketing]] strategy to promote some product or service.**
 ---
 ---

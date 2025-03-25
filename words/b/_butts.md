@@ -15,16 +15,16 @@
 - **A thrust in [[f/_fencing|fencing]].**
 ---
 #verb
-- **To strike [[b/_bluntly|bluntly]], particularly with the [[h/_head|head]].**
+- **To strike [[b/_bluntly|bluntly]], [[p/_particularly|particularly]] with the [[h/_head|head]].**
 - **To strike [[b/_bluntly|bluntly]] with the [[h/_head|head]].**
 	- _Example: Rams butt at other males during mating season._
 ---
 #noun
-- **([[e/_english|English]] units) An [[e/_english|English]] [[m/_measure|measure]] of [[c/_capacity|capacity]] for [[l/_liquids|liquids]], [[c/_containing|containing]] 126 wine [[g/_gallons|gallons]] which is [[o/_one|one]]-[[h/_half|half]] tun; [[e/_equivalent|equivalent]] to the pipe.**
+- **([[e/_english|English]] units) An [[e/_english|English]] [[m/_measure|measure]] of [[c/_capacity|capacity]] for [[l/_liquids|liquids]], [[c/_containing|containing]] 126 wine [[g/_gallons|gallons]] which is [[o/_one|one]]-[[h/_half|half]] tun; [[e/_equivalent|equivalent]] to the [[p/_pipe|pipe]].**
 - **A wooden [[c/_cask|cask]] for storing wine, usually [[c/_containing|containing]] 126 [[g/_gallons|gallons]].**
 ---
 #noun
-- **[[a/_any|Any]] of various [[f/_flatfish|flatfish]] such as sole, plaice or turbot**
+- **[[a/_any|Any]] of various [[f/_flatfish|flatfish]] such as sole, [[p/_plaice|plaice]] or turbot**
 ---
 #noun
 - **A [[h/_heavy|heavy]] two-wheeled [[c/_cart|cart]].**

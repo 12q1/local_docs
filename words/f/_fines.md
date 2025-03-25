@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[f/_fine|Fine]] [[c/_champagne|champagne]]; [[f/_french|French]] [[b/_brandy|brandy]].**
-- **(usually in the plural) Something that is [[f/_fine|fine]]; [[f/_fine|fine]] particles.**
+- **(usually in the [[p/_plural|plural]]) Something that is [[f/_fine|fine]]; [[f/_fine|fine]] [[p/_particles|particles]].**
 	- _Example: They filtered silt and fines out of the soil._
 ---
 #verb
@@ -33,11 +33,11 @@
 - [[a/_amerce|amerce]]
 #noun
 - **The [[e/_end|end]] of a [[m/_musical|musical]] [[c/_composition|composition]].**
-- **The [[l/_location|location]] in a [[m/_musical|musical]] score that [[i/_indicates|indicates]] the [[e/_end|end]] of the piece, particularly when the piece [[e/_ends|ends]] somewhere in the [[m/_middle|middle]] of the score [[d/_due|due]] to a section of the [[m/_music|music]] [[b/_being|being]] repeated.**
+- **The [[l/_location|location]] in a [[m/_musical|musical]] score that [[i/_indicates|indicates]] the [[e/_end|end]] of the [[p/_piece|piece]], [[p/_particularly|particularly]] when the [[p/_piece|piece]] [[e/_ends|ends]] somewhere in the [[m/_middle|middle]] of the score [[d/_due|due]] to a section of the [[m/_music|music]] [[b/_being|being]] repeated.**
 ---
 #noun
 - **[[e/_end|End]]; [[c/_conclusion|conclusion]]; termination; [[e/_extinction|extinction]].**
-- **A [[f/_final|final]] [[a/_agreement|agreement]] [[c/_concerning|concerning]] [[l/_lands|lands]] or rents [[b/_between|between]] persons, as the [[l/_lord|lord]] and [[h/_his|his]] vassal.**
+- **A [[f/_final|final]] [[a/_agreement|agreement]] [[c/_concerning|concerning]] [[l/_lands|lands]] or rents [[b/_between|between]] [[p/_persons|persons]], as the [[l/_lord|lord]] and [[h/_his|his]] vassal.**
 - **A sum of [[m/_money|money]] or price [[p/_paid|paid]] for [[o/_obtaining|obtaining]] a [[b/_benefit|benefit]], [[f/_favor|favor]], or privilege, as for [[a/_admission|admission]] to a [[c/_copyhold|copyhold]], or for [[o/_obtaining|obtaining]] or renewing a [[l/_lease|lease]].**
 ---
 #verb

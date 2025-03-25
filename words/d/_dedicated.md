@@ -4,7 +4,7 @@
 - **To set [[a/_apart|apart]] for a [[d/_deity|deity]] or for religious purposes; [[c/_consecrate|consecrate]].**
 - **To set [[a/_apart|apart]] for a special use**
 	- _Example: dedicated their money to scientific research._
-- **To [[c/_commit|commit]] ([[o/_oneself|oneself]]) to a particular [[c/_course|course]] of thought or [[a/_action|action]]**
+- **To [[c/_commit|commit]] ([[o/_oneself|oneself]]) to a [[p/_particular|particular]] [[c/_course|course]] of thought or [[a/_action|action]]**
 	- _Example: dedicated ourselves to starting our own business._
 - **To [[a/_address|address]] or [[i/_inscribe|inscribe]] (a [[l/_literary|literary]] work, for [[e/_example|example]]) to [[a/_another|another]] as a [[m/_mark|mark]] of respect or [[a/_affection|affection]].**
 - **To [[o/_open|open]] (a [[b/_building|building]], for [[e/_example|example]]) to public use.**
@@ -15,6 +15,6 @@
 - [[d/_devote|devote]], [[a/_allocate|allocate]], [[e/_earmark|earmark]], [[b/_behallow|behallow]], [[h/_hallow|hallow]]
 #adjective
 - **[[d/_devoted|Devoted]]; [[l/_loyal|loyal]]; [[c/_conscientious|conscientious]].**
-- **Used or [[i/_intended|intended]] for a particular purpose**
+- **Used or [[i/_intended|intended]] for a [[p/_particular|particular]] purpose**
 ---
 ---

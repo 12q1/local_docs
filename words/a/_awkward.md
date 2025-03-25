@@ -10,7 +10,7 @@
 	- _Example: An awkward silence had fallen._
 - **[[l/_lacking|Lacking]] social skills, or uncomfortable with social [[i/_interaction|interaction]].**
 	- _Example: I'm very awkward at parties._
-- **Perverse; [[a/_adverse|adverse]]; [[d/_difficult|difficult]] to [[h/_handle|handle]].**
+- **[[p/_perverse|Perverse]]; [[a/_adverse|adverse]]; [[d/_difficult|difficult]] to [[h/_handle|handle]].**
 	- _Example: He's a right awkward chap._
 ---
 ### Synonyms

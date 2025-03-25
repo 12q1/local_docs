@@ -1,6 +1,6 @@
 # Nonpregnant
 ---
 #adjective
-- **Not pregnant.**
+- **Not [[p/_pregnant|pregnant]].**
 ---
 ---

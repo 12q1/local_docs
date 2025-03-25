@@ -7,6 +7,6 @@
 - **To put [[f/_forth|forth]] or [[h/_have|have]] a [[b/_blade|blade]].**
 - **To stab with a [[b/_blade|blade]]**
 	- _Example: The gang member got bladed in a fight._
-- **To [[c/_cut|cut]] (a person) so as to provoke [[b/_bleeding|bleeding]].**
+- **To [[c/_cut|cut]] (a [[p/_person|person]]) so as to provoke [[b/_bleeding|bleeding]].**
 ---
 ---

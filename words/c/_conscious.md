@@ -1,7 +1,7 @@
 # Conscious
 ---
 #noun
-- **The part of the [[m/_mind|mind]] that is [[a/_aware|aware]] of [[i/_itself|itself]]; the [[c/_consciousness|consciousness]].**
+- **The [[p/_part|part]] of the [[m/_mind|mind]] that is [[a/_aware|aware]] of [[i/_itself|itself]]; the [[c/_consciousness|consciousness]].**
 ---
 #adjective
 - **[[a/_alert|Alert]], [[a/_awake|awake]]; with [[o/_one|one]]'s [[m/_mental|mental]] [[f/_faculties|faculties]] [[a/_active|active]].**
@@ -11,7 +11,7 @@
 - **[[a/_aware|Aware]] of, sensitive to; [[o/_observing|observing]] and [[n/_noticing|noticing]], or [[b/_being|being]] strongly [[i/_interested|interested]] in or [[c/_concerned|concerned]] [[a/_about|about]].**
 	- _Example: I was conscious of a noise behind me.   a very class-conscious analysis_
 - **[[d/_deliberate|Deliberate]], [[i/_intentional|intentional]], [[d/_done|done]] with [[a/_awareness|awareness]] of what [[o/_one|one]] is [[d/_doing|doing]].**
-- **[[k/_known|Known]] or [[f/_felt|felt]] personally, [[i/_internally|internally]] by a person.**
+- **[[k/_known|Known]] or [[f/_felt|felt]] [[p/_personally|personally]], [[i/_internally|internally]] by a [[p/_person|person]].**
 	- _Example: conscious guilt_
 - **Self-[[c/_conscious|conscious]].**
 ---

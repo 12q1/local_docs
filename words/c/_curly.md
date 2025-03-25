@@ -1,7 +1,7 @@
 # Curly
 ---
 #noun
-- **A person or [[a/_animal|animal]] with [[c/_curly|curly]] [[h/_hair|hair]].**
+- **A [[p/_person|person]] or [[a/_animal|animal]] with [[c/_curly|curly]] [[h/_hair|hair]].**
 ---
 #adjective
 - **[[h/_having|Having]] [[c/_curls|curls]].**

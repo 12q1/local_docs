@@ -6,7 +6,7 @@
 - **Subject; susceptible.**
 	- _Example: A man liable to heart disease._
 - **[[e/_exposed|Exposed]] to a [[c/_certain|certain]] [[c/_contingency|contingency]] or [[c/_causality|causality]], [[m/_more|more]] or [[l/_less|less]] probable.**
-- **(as predicate, with "to" and an [[i/_infinitive|infinitive]]) [[l/_likely|likely]].**
+- **(as [[p/_predicate|predicate]], with "to" and an [[i/_infinitive|infinitive]]) [[l/_likely|likely]].**
 	- _Example: Someone is liable to slip on your icy sidewalk._
 ---
 ---

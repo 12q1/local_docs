@@ -21,13 +21,13 @@
 	- _Example: I just called to say "hi"._
 - **Used to show [[h/_humility|humility]].**
 	- _Example: Lord, we just want to thank You and praise Your Name._
-- **([[d/_degree|degree]]) [[a/_absolutely|absolutely]], positively**
+- **([[d/_degree|degree]]) [[a/_absolutely|absolutely]], [[p/_positively|positively]]**
 	- _Example: It is just splendid!_
 - **[[m/_moments|Moments]] [[a/_ago|ago]], recently.**
 	- _Example: They just left, but you may leave a message at the desk._
 - **By a [[n/_narrow|narrow]] [[m/_margin|margin]]; [[c/_closely|closely]]; [[n/_nearly|nearly]].**
 	- _Example: The fastball just missed my head!_
-- **[[e/_exactly|Exactly]], precisely, perfectly.**
+- **[[e/_exactly|Exactly]], [[p/_precisely|precisely]], [[p/_perfectly|perfectly]].**
 	- _Example: He wants everything just right for the big day._
 ---
 ### Synonyms

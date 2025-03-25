@@ -6,7 +6,7 @@
 - **[[l/_located|Located]] at a [[l/_lower|lower]] [[l/_level|level]].**
 ---
 #adverb
-- **Toward a [[l/_lower|lower]] [[l/_level|level]], whether in physical space, in a [[h/_hierarchy|hierarchy]], or in [[a/_amount|amount]] or value.**
+- **Toward a [[l/_lower|lower]] [[l/_level|level]], whether in [[p/_physical|physical]] space, in a [[h/_hierarchy|hierarchy]], or in [[a/_amount|amount]] or value.**
 	- _Example: His position in society moved ever downward._
 - **At a [[l/_lower|lower]] [[l/_level|level]].**
 - **Southward**

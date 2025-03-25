@@ -3,21 +3,21 @@
 #noun
 - **The structural [[e/_elements|elements]] of a [[b/_building|building]] or [[o/_other|other]] [[c/_constructed|constructed]] [[o/_object|object]].**
 	- _Example: Now that the frame is complete, we can start on the walls._
-- **[[a/_anything|Anything]] [[c/_composed|composed]] of parts [[f/_fitted|fitted]] and united together; a [[f/_fabric|fabric]]; a structure.**
-- **The structure of a person's [[b/_body|body]]; the [[h/_human|human]] [[b/_body|body]].**
+- **[[a/_anything|Anything]] [[c/_composed|composed]] of [[p/_parts|parts]] [[f/_fitted|fitted]] and united together; a [[f/_fabric|fabric]]; a structure.**
+- **The structure of a [[p/_person|person]]'s [[b/_body|body]]; the [[h/_human|human]] [[b/_body|body]].**
 	- _Example: His starved flesh hung loosely on his once imposing frame._
-- **A rigid, [[g/_generally|generally]] rectangular [[m/_mounting|mounting]] for paper, [[c/_canvas|canvas]] or [[o/_other|other]] [[f/_flexible|flexible]] [[m/_material|material]].**
+- **A rigid, [[g/_generally|generally]] rectangular [[m/_mounting|mounting]] for [[p/_paper|paper]], [[c/_canvas|canvas]] or [[o/_other|other]] [[f/_flexible|flexible]] [[m/_material|material]].**
 	- _Example: The painting was housed in a beautifully carved frame._
-- **A piece of photographic [[f/_film|film]] [[c/_containing|containing]] an [[i/_image|image]].**
+- **A [[p/_piece|piece]] of [[p/_photographic|photographic]] [[f/_film|film]] [[c/_containing|containing]] an [[i/_image|image]].**
 	- _Example: A film projector shows many frames in a single second._
 - **A [[c/_context|context]] for understanding or [[i/_interpretation|interpretation]].**
 	- _Example: In this frame, it's easy to ask the question that the investigators missed._
-- **A [[c/_complete|complete]] [[g/_game|game]] of snooker, from [[b/_break|break]]-[[o/_off|off]] until [[a/_all|all]] the [[b/_balls|balls]] (or as [[m/_many|many]] as [[n/_necessary|necessary]] to win) [[h/_have|have]] [[b/_been|been]] potted.**
+- **A [[c/_complete|complete]] [[g/_game|game]] of snooker, from [[b/_break|break]]-[[o/_off|off]] until [[a/_all|all]] the [[b/_balls|balls]] (or as [[m/_many|many]] as [[n/_necessary|necessary]] to win) [[h/_have|have]] [[b/_been|been]] [[p/_potted|potted]].**
 - **An [[i/_independent|independent]] [[c/_chunk|chunk]] of [[d/_data|data]] sent [[o/_over|over]] a [[n/_network|network]].**
 - **A set of [[b/_balls|balls]] whose results are [[a/_added|added]] together for scoring purposes. Usually two [[b/_balls|balls]], but [[o/_only|only]] [[o/_one|one]] [[b/_ball|ball]] in the [[c/_case|case]] of a strike, and three [[b/_balls|balls]] in the [[c/_case|case]] of a strike or a spare in the [[l/_last|last]] [[f/_frame|frame]] of a [[g/_game|game]].**
-- **A [[m/_movable|movable]] structure used for the [[c/_cultivation|cultivation]] or the sheltering of plants.**
+- **A [[m/_movable|movable]] structure used for the [[c/_cultivation|cultivation]] or the sheltering of [[p/_plants|plants]].**
 	- _Example: a forcing-frame; a cucumber frame_
-- **The [[o/_outer|outer]] [[d/_decorated|decorated]] portion of a stamp's [[i/_image|image]], [[o/_often|often]] repeated on several [[i/_issues|issues]] [[a/_although|although]] the [[i/_inner|inner]] picture [[m/_may|may]] [[c/_change|change]].**
+- **The [[o/_outer|outer]] [[d/_decorated|decorated]] [[p/_portion|portion]] of a stamp's [[i/_image|image]], [[o/_often|often]] repeated on several [[i/_issues|issues]] [[a/_although|although]] the [[i/_inner|inner]] [[p/_picture|picture]] [[m/_may|may]] [[c/_change|change]].**
 - **The [[o/_outer|outer]] [[c/_circle|circle]] of a [[c/_cancellation|cancellation]] [[m/_mark|mark]].**
 - **A [[d/_division|division]] of time on a [[m/_multimedia|multimedia]] timeline, such as 1/30th or 1/60th of a second.**
 - **An [[i/_individually|individually]] scrollable region of a webpage.**
@@ -34,23 +34,23 @@
 ---
 #verb
 - **To [[f/_fit|fit]], as for a specific [[e/_end|end]] or purpose; [[m/_make|make]] suitable or [[c/_comfortable|comfortable]]; [[a/_adapt|adapt]]; [[a/_adjust|adjust]].**
-- **To [[c/_construct|construct]] by [[f/_fitting|fitting]] or uniting together various parts; [[f/_fabricate|fabricate]] by union of [[c/_constituent|constituent]] parts.**
-- **To [[b/_bring|bring]] or put [[i/_into|into]] [[f/_form|form]] or [[o/_order|order]]; [[a/_adjust|adjust]] the parts or [[e/_elements|elements]] of; [[c/_compose|compose]]; [[c/_contrive|contrive]]; plan; [[d/_devise|devise]].**
+- **To [[c/_construct|construct]] by [[f/_fitting|fitting]] or uniting together various [[p/_parts|parts]]; [[f/_fabricate|fabricate]] by union of [[c/_constituent|constituent]] [[p/_parts|parts]].**
+- **To [[b/_bring|bring]] or put [[i/_into|into]] [[f/_form|form]] or [[o/_order|order]]; [[a/_adjust|adjust]] the [[p/_parts|parts]] or [[e/_elements|elements]] of; [[c/_compose|compose]]; [[c/_contrive|contrive]]; [[p/_plan|plan]]; [[d/_devise|devise]].**
 - **Of a [[c/_constructed|constructed]] [[o/_object|object]] such as a [[b/_building|building]], to put together the structural [[e/_elements|elements]].**
 	- _Example: Once we finish framing the house, we'll hang tin on the roof._
-- **Of a picture such as a [[p/_painting|painting]] or photograph, to place [[i/_inside|inside]] a [[d/_decorative|decorative]] [[b/_border|border]].**
-- **To position visually within a [[f/_fixed|fixed]] [[b/_boundary|boundary]].**
+- **Of a [[p/_picture|picture]] such as a [[p/_painting|painting]] or [[p/_photograph|photograph]], to [[p/_place|place]] [[i/_inside|inside]] a [[d/_decorative|decorative]] [[b/_border|border]].**
+- **To [[p/_position|position]] visually within a [[f/_fixed|fixed]] [[b/_boundary|boundary]].**
 	- _Example: The director frames the fishing scene very well._
 - **To [[c/_construct|construct]] in words so as to [[e/_establish|establish]] a [[c/_context|context]] for understanding or [[i/_interpretation|interpretation]].**
 	- _Example: How would you frame your accomplishments?_
-- **[[c/_conspire|Conspire]] to [[i/_incriminate|incriminate]] [[f/_falsely|falsely]] a presumably [[i/_innocent|innocent]] person. See frameup.**
+- **[[c/_conspire|Conspire]] to [[i/_incriminate|incriminate]] [[f/_falsely|falsely]] a [[p/_presumably|presumably]] [[i/_innocent|innocent]] [[p/_person|person]]. See frameup.**
 	- _Example: The gun had obviously been placed in her car in an effort to frame her._
 - **To wash [[o/_ore|ore]] with the [[a/_aid|aid]] of a [[f/_frame|frame]].**
 - **To [[m/_move|move]].**
 - **To proceed; to [[g/_go|go]].**
 - **To [[h/_hit|hit]] (the [[b/_ball|ball]]) with the [[f/_frame|frame]] of the racquet rather than the strings ([[n/_normally|normally]] a [[m/_mishit|mishit]]).**
 - **To strengthen; refresh; support.**
-- **To [[e/_execute|execute]]; perform.**
+- **To [[e/_execute|execute]]; [[p/_perform|perform]].**
 	- _Example: All have sworn him an oath that they should frame his will on earth._
 - **To [[c/_cause|cause]]; to [[b/_bring|bring]] [[a/_about|about]]; to produce.**
 - **To profit; [[a/_avail|avail]].**

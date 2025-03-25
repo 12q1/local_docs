@@ -1,7 +1,7 @@
 # Gained
 ---
 #verb
-- **To [[a/_acquire|acquire]] possession of.**
+- **To [[a/_acquire|acquire]] [[p/_possession|possession]] of.**
 	- _Example: Looks like you've gained a new friend._
 - **To [[h/_have|have]] or receive [[a/_advantage|advantage]] or profit; to [[a/_acquire|acquire]] [[g/_gain|gain]]; to [[g/_grow|grow]] rich; to [[a/_advance|advance]] in [[i/_interest|interest]], [[h/_health|health]], or [[h/_happiness|happiness]]; to [[m/_make|make]] progress.**
 	- _Example: The sick man gains daily._
@@ -12,7 +12,7 @@
 	- _Example: I'm gaining (on you)._
 - **To reach.**
 	- _Example: to gain the top of a mountain_
-- **To [[d/_draw|draw]] [[i/_into|into]] [[a/_any|any]] [[i/_interest|interest]] or party; to win to [[o/_one|one]]'s side; to [[c/_conciliate|conciliate]].**
+- **To [[d/_draw|draw]] [[i/_into|into]] [[a/_any|any]] [[i/_interest|interest]] or [[p/_party|party]]; to win to [[o/_one|one]]'s side; to [[c/_conciliate|conciliate]].**
 - **To put on weight.**
 	- _Example: I've been gaining._
 - **(of a [[c/_clock|clock]] or watch) To run [[f/_fast|fast]].**

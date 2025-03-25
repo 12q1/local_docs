@@ -13,7 +13,7 @@
 - **The telling of something in [[c/_confidence|confidence]].**
 ---
 #adjective
-- **[[h/_having|Having]] or showing [[c/_confidence|confidence]] or trust in [[a/_another|another]] person.**
+- **[[h/_having|Having]] or showing [[c/_confidence|confidence]] or trust in [[a/_another|another]] [[p/_person|person]].**
 - **In [[c/_confidence|confidence]]; as [[i/_if|if]] with trust.**
 - **([[b/_birding|Birding]]) Of a [[b/_bird|bird]], [[a/_allowing|allowing]] the [[c/_close|close]] [[a/_approach|approach]] of [[h/_humans|humans]].**
 ---

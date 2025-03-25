@@ -5,6 +5,6 @@
 	- _Example: They made their good-byes._
 ---
 #verb
-- **To say [[g/_goodbye|goodbye]]; to wish somebody [[f/_farewell|farewell]] on parting.**
+- **To say [[g/_goodbye|goodbye]]; to wish somebody [[f/_farewell|farewell]] on [[p/_parting|parting]].**
 ---
 ---

@@ -7,7 +7,7 @@
 - **An [[a/_act|act]] of sexual [[i/_intercourse|intercourse]].**
 - **(with [[d/_definite|definite]] [[a/_article|article]]) A [[b/_bad|bad]] [[m/_mood|mood]].**
 	- _Example: get the hump, have the hump, take the hump, give someone the hump_
-- **A [[p/_painfully|painfully]] [[b/_boorish|boorish]] person.**
+- **A [[p/_painfully|painfully]] [[b/_boorish|boorish]] [[p/_person|person]].**
 	- _Example: That guy is such a hump!_
 - **A speed [[h/_hump|hump]].**
 - **A wave that [[f/_forms|forms]] in [[f/_front|front]] of an [[o/_operating|operating]] [[h/_hovercraft|hovercraft]] and [[i/_impedes|impedes]] progress at [[l/_low|low]] speeds.**
@@ -17,8 +17,8 @@
 #verb
 - **To [[b/_bend|bend]] something [[i/_into|into]] a [[h/_hump|hump]].**
 - **To [[c/_carry|carry]] (something), [[e/_especially|especially]] with some [[e/_exertion|exertion]].**
-- **To rhythmically thrust the pelvis in a [[m/_manner|manner]] [[c/_conducive|conducive]] to sexual [[i/_intercourse|intercourse]]**
-- **To prepare for a [[g/_great|great]] [[e/_exertion|exertion]]; to put [[f/_forth|forth]] [[e/_effort|effort]].**
+- **To rhythmically thrust the [[p/_pelvis|pelvis]] in a [[m/_manner|manner]] [[c/_conducive|conducive]] to sexual [[i/_intercourse|intercourse]]**
+- **To [[p/_prepare|prepare]] for a [[g/_great|great]] [[e/_exertion|exertion]]; to put [[f/_forth|forth]] [[e/_effort|effort]].**
 - **To vex or [[a/_annoy|annoy]].**
 - **To shunt wagons / [[f/_freight|freight]] [[c/_cars|cars]] [[o/_over|over]] the [[h/_hump|hump]] in a [[h/_hump|hump]] [[y/_yard|yard]].**
 ---

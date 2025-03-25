@@ -11,7 +11,7 @@
 #adjective
 - **[[c/_contained|Contained]]; [[h/_held|held]] within a [[c/_container|container]].**
 - **[[f/_fenced|Fenced]] in or surrounded.**
-- **(of a [[d/_division|division]] within a pipe [[o/_organ|organ]] surrounded by a wooden [[b/_box|box]], [[o/_one|one]] or [[m/_more|more]] sides of which [[c/_contain|contain]] slats that [[c/_can|can]] be [[o/_opened|opened]] or [[c/_closed|closed]] in [[o/_order|order]] to [[i/_increase|increase]] or [[d/_decrease|decrease]] volume) [[h/_having|Having]] [[c/_closed|closed]] slats.**
+- **(of a [[d/_division|division]] within a [[p/_pipe|pipe]] [[o/_organ|organ]] surrounded by a wooden [[b/_box|box]], [[o/_one|one]] or [[m/_more|more]] sides of which [[c/_contain|contain]] slats that [[c/_can|can]] be [[o/_opened|opened]] or [[c/_closed|closed]] in [[o/_order|order]] to [[i/_increase|increase]] or [[d/_decrease|decrease]] volume) [[h/_having|Having]] [[c/_closed|closed]] slats.**
 ---
 ### Synonyms
 - [[i/_included|included]], [[b/_bounded|bounded]], [[c/_castellated|castellated]], [[c/_confined|confined]], [[e/_encircled|encircled]], [[s/_surrounded|surrounded]]

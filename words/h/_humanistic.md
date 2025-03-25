@@ -1,6 +1,6 @@
 # Humanistic
 ---
 #adjective
-- **Of or pertaining to [[h/_humanism|humanism]].**
+- **Of or [[p/_pertaining|pertaining]] to [[h/_humanism|humanism]].**
 ---
 ---

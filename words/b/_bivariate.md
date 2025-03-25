@@ -1,7 +1,7 @@
 # Bivariate
 ---
 #noun
-- **A polynomial or [[f/_function|function]] with [[e/_exactly|exactly]] two variables.**
+- **A [[p/_polynomial|polynomial]] or [[f/_function|function]] with [[e/_exactly|exactly]] two variables.**
 ---
 #adjective
 - **[[h/_having|Having]] or [[i/_involving|involving]] [[e/_exactly|exactly]] two variables.**

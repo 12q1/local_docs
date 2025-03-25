@@ -1,22 +1,22 @@
 # Molds
 ---
 #noun
-- **A [[h/_hollow|hollow]] [[f/_form|form]] or [[m/_matrix|matrix]] for shaping a [[f/_fluid|fluid]] or plastic substance.**
+- **A [[h/_hollow|hollow]] [[f/_form|form]] or [[m/_matrix|matrix]] for shaping a [[f/_fluid|fluid]] or [[p/_plastic|plastic]] substance.**
 - **A [[f/_frame|frame]] or [[m/_model|model]] [[a/_around|around]] or on which something is [[f/_formed|formed]] or shaped.**
 - **Something that is [[m/_made|made]] in or shaped on a [[m/_mold|mold]].**
-- **The shape or pattern of a [[m/_mold|mold]].**
+- **The shape or [[p/_pattern|pattern]] of a [[m/_mold|mold]].**
 - **[[g/_general|General]] shape or [[f/_form|form]].**
 	- _Example: the oval mold of her face_
 - **[[d/_distinctive|Distinctive]] [[c/_character|character]] or type.**
 	- _Example: a leader in the mold of her predecessors_
-- **A [[f/_fixed|fixed]] or restrictive pattern or [[f/_form|form]].**
+- **A [[f/_fixed|fixed]] or restrictive [[p/_pattern|pattern]] or [[f/_form|form]].**
 	- _Example: His method of scientific investigation broke the mold and led to a new discovery._
 - **A [[g/_group|group]] of [[m/_moldings|moldings]].**
 	- _Example: the arch mold of a porch or doorway;  the pier mold of a Gothic pier, meaning the whole profile, section, or combination of parts_
 - **A [[f/_fontanelle|fontanelle]].**
 ---
 #verb
-- **To shape in or on a [[m/_mold|mold]]; to [[f/_form|form]] [[i/_into|into]] a particular shape; to [[g/_give|give]] shape to.**
+- **To shape in or on a [[m/_mold|mold]]; to [[f/_form|form]] [[i/_into|into]] a [[p/_particular|particular]] shape; to [[g/_give|give]] shape to.**
 - **To [[g/_guide|guide]] or [[d/_determine|determine]] the [[g/_growth|growth]] or [[d/_development|development]] of; [[i/_influence|influence]]**
 - **To [[f/_fit|fit]] [[c/_closely|closely]] by [[f/_following|following]] the [[c/_contours|contours]] of.**
 - **To [[m/_make|make]] a [[m/_mold|mold]] of or from ([[m/_molten|molten]] [[m/_metal|metal]], for [[e/_example|example]]) [[b/_before|before]] [[c/_casting|casting]].**
@@ -29,11 +29,11 @@
 ---
 #verb
 - **To [[c/_cause|cause]] to [[b/_become|become]] [[m/_moldy|moldy]]; to [[c/_cause|cause]] [[m/_mold|mold]] to [[g/_grow|grow]] upon.**
-- **To [[b/_become|become]] [[m/_moldy|moldy]]; to be [[c/_covered|covered]] or [[f/_filled|filled]], in whole or in part, with a [[m/_mold|mold]].**
+- **To [[b/_become|become]] [[m/_moldy|moldy]]; to be [[c/_covered|covered]] or [[f/_filled|filled]], in whole or in [[p/_part|part]], with a [[m/_mold|mold]].**
 ---
 #noun
-- **[[l/_loose|Loose]] [[f/_friable|friable]] soil, rich in [[h/_humus|humus]] and [[f/_fit|fit]] for planting.**
-- **([[c/_chiefly|chiefly]] plural) [[e/_earth|Earth]], [[g/_ground|ground]].**
+- **[[l/_loose|Loose]] [[f/_friable|friable]] soil, rich in [[h/_humus|humus]] and [[f/_fit|fit]] for [[p/_planting|planting]].**
+- **([[c/_chiefly|chiefly]] [[p/_plural|plural]]) [[e/_earth|Earth]], [[g/_ground|ground]].**
 ---
 #verb
 - **To [[c/_cover|cover]] with [[m/_mold|mold]] or soil.**

@@ -1,6 +1,6 @@
 # Objectors
 ---
 #noun
-- **A person who [[o/_objects|objects]] to something.**
+- **A [[p/_person|person]] who [[o/_objects|objects]] to something.**
 ---
 ---

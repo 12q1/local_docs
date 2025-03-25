@@ -1,7 +1,7 @@
 # Disarm
 ---
 #noun
-- **The [[a/_act|act]] of [[d/_depriving|depriving]] a person of a weapon they [[c/_carry|carry]].**
+- **The [[a/_act|act]] of [[d/_depriving|depriving]] a [[p/_person|person]] of a weapon they [[c/_carry|carry]].**
 ---
 #verb
 - **To [[d/_deprive|deprive]] of weapons; to [[d/_deprive|deprive]] of the [[m/_means|means]] of [[a/_attack|attack]] or [[d/_defense|defense]]; to render [[d/_defenseless|defenseless]].**

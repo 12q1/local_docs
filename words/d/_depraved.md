@@ -5,7 +5,7 @@
 - **To [[m/_make|make]] [[b/_bad|bad]] or worse; to vitiate; to [[c/_corrupt|corrupt]]**
 ---
 #adjective
-- **Perverted or [[e/_extremely|extremely]] wrong in a [[m/_moral|moral]] sense.**
+- **[[p/_perverted|Perverted]] or [[e/_extremely|extremely]] wrong in a [[m/_moral|moral]] sense.**
 - **[[d/_distorted|Distorted]] [[o/_out|out]] of the [[n/_normal|normal]] [[c/_course|course]]; [[a/_abnormal|abnormal]].**
 ---
 ---

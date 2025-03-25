@@ -9,7 +9,7 @@
 	- _Example: Let's look at the facts of the case before deciding._
 - **An [[o/_objective|objective]] [[c/_consensus|consensus]] on a [[f/_fundamental|fundamental]] reality that [[h/_has|has]] [[b/_been|been]] [[a/_agreed|agreed]] upon by a substantial [[n/_number|number]] of [[e/_experts|experts]].**
 	- _Example: There is no doubting the fact that the Earth orbits the Sun._
-- **[[i/_information|Information]] [[a/_about|about]] a particular subject, [[e/_especially|especially]] [[a/_actual|actual]] [[c/_conditions|conditions]] and/or [[c/_circumstances|circumstances]].**
+- **[[i/_information|Information]] [[a/_about|about]] a [[p/_particular|particular]] subject, [[e/_especially|especially]] [[a/_actual|actual]] [[c/_conditions|conditions]] and/or [[c/_circumstances|circumstances]].**
 	- _Example: The facts about space travel._
 - **An [[i/_individual|individual]] value or [[m/_measurement|measurement]] at the [[l/_lowest|lowest]] [[l/_level|level]] of [[g/_granularity|granularity]] in a [[d/_data|data]] warehouse.**
 - **[[a/_action|Action]]; the realm of [[a/_action|action]].**

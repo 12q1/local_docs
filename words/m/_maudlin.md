@@ -2,12 +2,12 @@
 ---
 #noun
 - **The [[m/_magdalene|Magdalene]]; [[m/_mary|Mary]] [[m/_magdalene|Magdalene]].**
-- **[[e/_either|Either]] of two [[a/_aromatic|aromatic]] plants, [[c/_costmary|costmary]] or sweet [[y/_yarrow|yarrow]].**
+- **[[e/_either|Either]] of two [[a/_aromatic|aromatic]] [[p/_plants|plants]], [[c/_costmary|costmary]] or sweet [[y/_yarrow|yarrow]].**
 - **A [[m/_magdalene|Magdalene]] [[h/_house|house]]; a [[b/_brothel|brothel]].**
 ---
 #adjective
 - **[[a/_affectionate|Affectionate]] or sentimental in an [[e/_effusive|effusive]], tearful, or [[f/_foolish|foolish]] [[m/_manner|manner]], [[e/_especially|especially]] [[b/_because|because]] of [[d/_drunkenness|drunkenness]].**
-- **[[e/_extravagantly|Extravagantly]] or [[e/_excessively|excessively]] sentimental; [[m/_mawkish|mawkish]], self-pitying.**
+- **[[e/_extravagantly|Extravagantly]] or [[e/_excessively|excessively]] sentimental; [[m/_mawkish|mawkish]], self-[[p/_pitying|pitying]].**
 - **Tearful, [[l/_lachrymose|lachrymose]].**
 ---
 ### Synonyms

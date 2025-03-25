@@ -1,7 +1,7 @@
 # Nonesuches
 ---
 #noun
-- **A person or thing with [[n/_no|no]] [[e/_equal|equal]].**
+- **A [[p/_person|person]] or thing with [[n/_no|no]] [[e/_equal|equal]].**
 - **Silene chalcedonica (syn. [[l/_lychnis|Lychnis]] chalcedonica)**
 ---
 ### Synonyms

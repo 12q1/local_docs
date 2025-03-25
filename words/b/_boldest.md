@@ -7,11 +7,11 @@
 	- _Example: the painter's bold use of colour and outline_
 - **(of typefaces) [[h/_having|Having]] thicker strokes than the [[o/_ordinary|ordinary]] [[f/_form|form]] of the typeface.**
 	- _Example: The last word of this sentence is bold._
-- **Presumptuous, [[f/_forward|forward]] or [[i/_impudent|impudent]].**
+- **[[p/_presumptuous|Presumptuous]], [[f/_forward|forward]] or [[i/_impudent|impudent]].**
 - **[[n/_naughty|Naughty]]; [[i/_insolent|insolent]]; [[b/_badly|badly]]-[[b/_behaved|behaved]].**
 	- _Example: All of her children are terribly bold and never do as they are told._
 - **[[f/_full|Full]]-[[b/_bodied|bodied]].**
-- **Pornographic; [[d/_depicting|depicting]] [[n/_nudity|nudity]].**
+- **[[p/_pornographic|Pornographic]]; [[d/_depicting|depicting]] [[n/_nudity|nudity]].**
 - **Steep or [[a/_abrupt|abrupt]].**
 ---
 ### Synonyms

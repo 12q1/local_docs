@@ -1,7 +1,7 @@
 # Dating
 ---
 #verb
-- **To [[n/_note|note]] the time or place of writing or [[e/_executing|executing]]; to [[e/_express|express]] in an [[i/_instrument|instrument]] the time of [[i/_its|its]] [[e/_execution|execution]].**
+- **To [[n/_note|note]] the time or [[p/_place|place]] of writing or [[e/_executing|executing]]; to [[e/_express|express]] in an [[i/_instrument|instrument]] the time of [[i/_its|its]] [[e/_execution|execution]].**
 	- _Example: to date a letter, a bond, a deed, or a charter_
 - **To [[n/_note|note]] or [[f/_fix|fix]] the time of (an [[e/_event|event]]); to [[g/_give|give]] the [[d/_date|date]] of.**
 - **To [[d/_determine|determine]] the [[a/_age|age]] of something.**
@@ -17,8 +17,8 @@
 ### Synonyms
 - [[a/_age|age]], [[e/_elden|elden]], [[o/_obsolesce|obsolesce]], [[s/_see|see]]
 #noun
-- **A [[f/_form|form]] of romantic [[c/_courtship|courtship]] typically [[b/_between|between]] two [[i/_individuals|individuals]] with the [[a/_aim|aim]] of [[a/_assessing|assessing]] the [[o/_other|other]]'s suitability as a partner in an [[i/_intimate|intimate]] relationship or as a spouse.**
+- **A [[f/_form|form]] of romantic [[c/_courtship|courtship]] typically [[b/_between|between]] two [[i/_individuals|individuals]] with the [[a/_aim|aim]] of [[a/_assessing|assessing]] the [[o/_other|other]]'s suitability as a [[p/_partner|partner]] in an [[i/_intimate|intimate]] relationship or as a spouse.**
 - **An [[e/_estimation|estimation]] of the [[a/_age|age]] of an [[a/_artifact|artifact]], [[b/_biological|biological]] vestige, [[l/_linguistic|linguistic]] usage, [[e/_etc|etc]].**
-- **The setting of a [[d/_date|date]] on which an [[e/_event|event]] or transaction is to take place or take [[e/_effect|effect]].**
+- **The setting of a [[d/_date|date]] on which an [[e/_event|event]] or transaction is to take [[p/_place|place]] or take [[e/_effect|effect]].**
 ---
 ---

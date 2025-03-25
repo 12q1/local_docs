@@ -1,16 +1,16 @@
 # Drifts
 ---
 #noun
-- **(physical) [[m/_movement|Movement]]; that which [[m/_moves|moves]] or is [[m/_moved|moved]].**
+- **([[p/_physical|physical]]) [[m/_movement|Movement]]; that which [[m/_moves|moves]] or is [[m/_moved|moved]].**
 - **The [[a/_act|act]] or [[m/_motion|motion]] of [[d/_drifting|drifting]]; the [[f/_force|force]] which [[i/_impels|impels]] or [[d/_drives|drives]]; an [[o/_overpowering|overpowering]] [[i/_influence|influence]] or [[i/_impulse|impulse]].**
-- **A place (a [[f/_ford|ford]]) [[a/_along|along]] a river where the water is shallow [[e/_enough|enough]] to permit [[c/_crossing|crossing]] to the [[o/_opposite|opposite]] side.**
+- **A [[p/_place|place]] (a [[f/_ford|ford]]) [[a/_along|along]] a river where the water is shallow [[e/_enough|enough]] to [[p/_permit|permit]] [[c/_crossing|crossing]] to the [[o/_opposite|opposite]] side.**
 - **The tendency of an [[a/_act|act]], [[a/_argument|argument]], [[c/_course|course]] of [[c/_conduct|conduct]], or the [[l/_like|like]]; [[o/_object|object]] [[a/_aimed|aimed]] at or [[i/_intended|intended]]; [[i/_intention|intention]]; [[h/_hence|hence]], [[a/_also|also]], [[i/_import|import]] or [[m/_meaning|meaning]] of a sentence or [[d/_discourse|discourse]]; [[a/_aim|aim]].**
-- **The [[h/_horizontal|horizontal]] thrust or pressure of an [[a/_arch|arch]] or vault upon the [[a/_abutments|abutments]].**
+- **The [[h/_horizontal|horizontal]] thrust or [[p/_pressure|pressure]] of an [[a/_arch|arch]] or vault upon the [[a/_abutments|abutments]].**
 - **([[h/_handiwork|handiwork]]) A tool.**
-- **A [[d/_deviation|deviation]] from the [[l/_line|line]] of [[f/_fire|fire]], peculiar to [[o/_oblong|oblong]] projectiles.**
-- **[[m/_minor|Minor]] [[d/_deviation|deviation]] of [[a/_audio|audio]] or video playback from [[i/_its|its]] [[c/_correct|correct]] speed.**
-- **The situation where a performer [[g/_gradually|gradually]] and unintentionally [[m/_moves|moves]] from their proper [[l/_location|location]] within the scene.**
-- **A passage [[d/_driven|driven]] or [[c/_cut|cut]] [[b/_between|between]] shaft and shaft; a [[d/_driftway|driftway]]; a small subterranean [[g/_gallery|gallery]]; an [[a/_adit|adit]] or tunnel.**
+- **A [[d/_deviation|deviation]] from the [[l/_line|line]] of [[f/_fire|fire]], [[p/_peculiar|peculiar]] to [[o/_oblong|oblong]] projectiles.**
+- **[[m/_minor|Minor]] [[d/_deviation|deviation]] of [[a/_audio|audio]] or video [[p/_playback|playback]] from [[i/_its|its]] [[c/_correct|correct]] speed.**
+- **The situation where a [[p/_performer|performer]] [[g/_gradually|gradually]] and unintentionally [[m/_moves|moves]] from their proper [[l/_location|location]] within the scene.**
+- **A [[p/_passage|passage]] [[d/_driven|driven]] or [[c/_cut|cut]] [[b/_between|between]] shaft and shaft; a [[d/_driftway|driftway]]; a small subterranean [[g/_gallery|gallery]]; an [[a/_adit|adit]] or tunnel.**
 - **[[m/_movement|Movement]].**
 - **A sideways [[m/_movement|movement]] of the [[b/_ball|ball]] through the [[a/_air|air]], when [[b/_bowled|bowled]] by a spin [[b/_bowler|bowler]].**
 - **Slow, [[c/_cumulative|cumulative]] [[c/_change|change]].**
@@ -28,7 +28,7 @@
 	- _Example: A current of wind drifts snow or sand_
 - **To [[a/_accumulate|accumulate]] in [[h/_heaps|heaps]] by the [[f/_force|force]] of wind; to be [[d/_driven|driven]] [[i/_into|into]] [[h/_heaps|heaps]].**
 	- _Example: Snow or sand drifts._
-- **To [[m/_make|make]] a [[d/_drift|drift]]; to [[e/_examine|examine]] a vein or [[l/_ledge|ledge]] for the purpose of [[a/_ascertaining|ascertaining]] the presence of [[m/_metals|metals]] or [[o/_ores|ores]]; to [[f/_follow|follow]] a vein; to prospect.**
+- **To [[m/_make|make]] a [[d/_drift|drift]]; to [[e/_examine|examine]] a vein or [[l/_ledge|ledge]] for the purpose of [[a/_ascertaining|ascertaining]] the [[p/_presence|presence]] of [[m/_metals|metals]] or [[o/_ores|ores]]; to [[f/_follow|follow]] a vein; to prospect.**
 - **To [[e/_enlarge|enlarge]] or shape, as a [[h/_hole|hole]], with a [[d/_drift|drift]].**
 - **To [[o/_oversteer|oversteer]] a vehicle, [[c/_causing|causing]] [[l/_loss|loss]] of traction, while [[m/_maintaining|maintaining]] [[c/_control|control]] from [[e/_entry|entry]] to [[e/_exit|exit]] of a [[c/_corner|corner]]. See [[d/_drifting|Drifting]] (motorsport).**
 ---

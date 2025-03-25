@@ -1,7 +1,7 @@
 # Noteworthy
 ---
 #noun
-- **A [[n/_noteworthy|noteworthy]] person.**
+- **A [[n/_noteworthy|noteworthy]] [[p/_person|person]].**
 ---
 #adjective
 - **[[d/_deserving|Deserving]] [[a/_attention|attention]]; [[n/_notable|notable]]; worthy of [[n/_notice|notice]].**

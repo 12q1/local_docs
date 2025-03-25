@@ -5,7 +5,7 @@
 ---
 #adjective
 - **[[a/_absolute|Absolute]]; [[h/_having|having]] [[n/_no|no]] [[e/_exception|exception]].**
-- **Of, pertaining to, or using a [[c/_category|category]] or [[c/_categories|categories]].**
+- **Of, [[p/_pertaining|pertaining]] to, or using a [[c/_category|category]] or [[c/_categories|categories]].**
 ---
 ### Synonyms
 - [[a/_absolute|absolute]], [[c/_categoric|categoric]], [[u/_unconditional|unconditional]]

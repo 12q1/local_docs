@@ -15,6 +15,6 @@
 ### Antonyms
 - [[s/_sharpen|sharpen]]
 #adjective
-- **[[o/_out|Out]] of [[f/_focus|focus]]; partially [[o/_obscured|obscured]]; smudged.**
+- **[[o/_out|Out]] of [[f/_focus|focus]]; [[p/_partially|partially]] [[o/_obscured|obscured]]; smudged.**
 ---
 ---

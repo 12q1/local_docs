@@ -1,6 +1,6 @@
 # Cistus
 ---
 #noun
-- **A rockrose; a plant of the [[g/_genus|genus]] [[c/_cistus|Cistus]].**
+- **A rockrose; a [[p/_plant|plant]] of the [[g/_genus|genus]] [[c/_cistus|Cistus]].**
 ---
 ---

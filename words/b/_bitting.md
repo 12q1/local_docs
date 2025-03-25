@@ -8,7 +8,7 @@
 	- _Example: to bitt the cable, in order to fasten it or to slacken it gradually, which is called veering away_
 ---
 #noun
-- **The part of a [[k/_key|key]] that [[e/_engages|engages]] the tumblers to [[a/_activate|activate]] the [[l/_lock|lock]]**
+- **The [[p/_part|part]] of a [[k/_key|key]] that [[e/_engages|engages]] the tumblers to [[a/_activate|activate]] the [[l/_lock|lock]]**
 ---
 ### Synonyms
 - 

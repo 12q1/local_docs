@@ -5,6 +5,6 @@
 - **A shrewish woman.**
 - **[[o/_one|One]] who is rapacious or ravenous; an [[e/_extortioner|extortioner]].**
 - **The [[e/_european|European]] [[m/_moor|moor]] [[b/_buzzard|buzzard]] or [[m/_marsh|marsh]] [[h/_harrier|harrier]] ([[c/_circus|Circus]] aeruginosus).**
-- **A [[l/_large|large]] and powerful [[d/_double|double]]-[[c/_crested|crested]], short-winged [[a/_american|American]] [[e/_eagle|eagle]] (Harpia harpyja).**
+- **A [[l/_large|large]] and [[p/_powerful|powerful]] [[d/_double|double]]-[[c/_crested|crested]], short-winged [[a/_american|American]] [[e/_eagle|eagle]] (Harpia harpyja).**
 ---
 ---

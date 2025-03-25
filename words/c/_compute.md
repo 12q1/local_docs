@@ -1,7 +1,7 @@
 # Compute
 ---
 #noun
-- **[[c/_computational|Computational]] power**
+- **[[c/_computational|Computational]] [[p/_power|power]]**
 ---
 #verb
 - **To reckon or [[c/_calculate|calculate]].**

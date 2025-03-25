@@ -1,7 +1,7 @@
 # Excommunicate
 ---
 #noun
-- **A person so [[e/_excluded|excluded]].**
+- **A [[p/_person|person]] so [[e/_excluded|excluded]].**
 ---
 #verb
 - **To [[o/_officially|officially]] [[e/_exclude|exclude]] someone from [[m/_membership|membership]] of a [[c/_church|church]] or religious [[c/_community|community]].**

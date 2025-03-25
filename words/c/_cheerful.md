@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[n/_noticeably|Noticeably]] [[h/_happy|happy]] and [[o/_optimistic|optimistic]].**
-- **[[b/_bright|Bright]] and pleasant.**
+- **[[b/_bright|Bright]] and [[p/_pleasant|pleasant]].**
 	- _Example: They enjoyed a cheerful room._
 ---
 ### Synonyms

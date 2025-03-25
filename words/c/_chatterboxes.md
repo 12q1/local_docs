@@ -1,7 +1,7 @@
 # Chatterboxes
 ---
 #noun
-- **An [[a/_artificial|artificial]] [[i/_intelligence|intelligence]] program [[i/_intended|intended]] to simulate [[i/_interactive|interactive]] [[c/_conversation|conversation]] with [[a/_another|another]] person**
+- **An [[a/_artificial|artificial]] [[i/_intelligence|intelligence]] program [[i/_intended|intended]] to simulate [[i/_interactive|interactive]] [[c/_conversation|conversation]] with [[a/_another|another]] [[p/_person|person]]**
 ---
 ### Synonyms
 - [[c/_chatbot|chatbot]], [[c/_chatterbox|chatterbox]]

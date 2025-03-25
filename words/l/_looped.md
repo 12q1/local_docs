@@ -6,7 +6,7 @@
 - **To [[f/_fly|fly]] an [[a/_aircraft|aircraft]] in a [[l/_loop|loop]].**
 - **To [[m/_move|move]] something in a [[l/_loop|loop]].**
 - **To [[j/_join|join]] [[e/_electrical|electrical]] [[c/_components|components]] to [[c/_complete|complete]] a [[c/_circuit|circuit]].**
-- **To [[d/_duplicate|duplicate]] the route of a pipeline.**
+- **To [[d/_duplicate|duplicate]] the route of a [[p/_pipeline|pipeline]].**
 - **To [[c/_create|create]] an [[e/_error|error]] in a [[c/_computer|computer]] program so that it runs in an [[e/_endless|endless]] [[l/_loop|loop]] and the [[c/_computer|computer]] [[f/_freezes|freezes]] up.**
 - **To [[f/_form|form]] a [[l/_loop|loop]].**
 - **To [[m/_move|move]] in a [[l/_loop|loop]].**
@@ -15,7 +15,7 @@
 #adjective
 - **[[h/_having|Having]] [[l/_loops|loops]]**
 - **[[f/_formed|Formed]] [[i/_into|into]] a [[l/_loop|loop]]**
-- **(of part of a [[f/_fingerprint|fingerprint]]) whorled**
+- **(of [[p/_part|part]] of a [[f/_fingerprint|fingerprint]]) whorled**
 - **[[d/_drunk|Drunk]]**
 ---
 ### Synonyms

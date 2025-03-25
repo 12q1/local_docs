@@ -1,6 +1,6 @@
 # Delectation
 ---
 #noun
-- **[[g/_great|Great]] pleasure; [[d/_delight|delight]].**
+- **[[g/_great|Great]] [[p/_pleasure|pleasure]]; [[d/_delight|delight]].**
 ---
 ---

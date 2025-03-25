@@ -18,7 +18,7 @@
 - **To [[m/_make|make]] [[b/_broad|broad]]; spread.**
 ---
 #noun
-- **A piece of [[e/_embroidery|embroidery]]; a [[b/_braid|braid]].**
+- **A [[p/_piece|piece]] of [[e/_embroidery|embroidery]]; a [[b/_braid|braid]].**
 ---
 #verb
 - **To [[f/_form|form]] in [[m/_meshes|meshes]]; [[n/_net|net]].**

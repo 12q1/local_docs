@@ -7,7 +7,7 @@
 	- _Example: to assign counsel for a prisoner_
 - **To [[a/_allot|allot]] or [[g/_give|give]] something as a task.**
 - **To [[a/_attribute|attribute]] or sort something [[i/_into|into]] [[c/_categories|categories]].**
-- **To transfer property, a [[l/_legal|legal]] right, [[e/_etc|etc]]., from [[o/_one|one]] person to [[a/_another|another]].**
+- **To transfer property, a [[l/_legal|legal]] right, [[e/_etc|etc]]., from [[o/_one|one]] [[p/_person|person]] to [[a/_another|another]].**
 - **To [[g/_give|give]] (a value) to a variable.**
 	- _Example: We assign 100 to x._
 ---

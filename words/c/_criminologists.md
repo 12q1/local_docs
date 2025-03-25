@@ -1,6 +1,6 @@
 # Criminologists
 ---
 #noun
-- **A person who is skilled in, or practices [[c/_criminology|criminology]]**
+- **A [[p/_person|person]] who is skilled in, or [[p/_practices|practices]] [[c/_criminology|criminology]]**
 ---
 ---

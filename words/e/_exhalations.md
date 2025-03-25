@@ -5,6 +5,6 @@
 	- _Example: short exhalations of breath_
 - **That which is [[e/_exhaled|exhaled]], or which rises in the [[f/_form|form]] of vapor, [[f/_fume|fume]], or steam**
 	- _Example: exhalations from the earth or flowers_
-- **A [[b/_bright|bright]] phenomenon; a [[m/_meteor|meteor]].**
+- **A [[b/_bright|bright]] [[p/_phenomenon|phenomenon]]; a [[m/_meteor|meteor]].**
 ---
 ---

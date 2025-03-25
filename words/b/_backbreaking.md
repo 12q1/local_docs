@@ -1,6 +1,6 @@
 # Backbreaking
 ---
 #adjective
-- **Of work, very physically tiring.**
+- **Of work, very [[p/_physically|physically]] tiring.**
 ---
 ---

@@ -13,7 +13,7 @@
 - **Of, or relating to the [[m/_modality|modality]] [[b/_between|between]] propositions**
 - **Relating to the statistical [[m/_mode|mode]].**
 - **[[h/_having|Having]] separate [[m/_modes|modes]] in which user [[i/_input|input]] [[h/_has|has]] [[d/_different|different]] [[e/_effects|effects]].**
-- **Requiring [[i/_immediate|immediate]] user [[i/_interaction|interaction]] and thus presented so that it [[c/_cannot|cannot]] be [[c/_closed|closed]] or [[i/_interacted|interacted]] [[b/_behind|behind]] until a [[d/_decision|decision]] is [[m/_made|made]].**
+- **Requiring [[i/_immediate|immediate]] user [[i/_interaction|interaction]] and thus [[p/_presented|presented]] so that it [[c/_cannot|cannot]] be [[c/_closed|closed]] or [[i/_interacted|interacted]] [[b/_behind|behind]] until a [[d/_decision|decision]] is [[m/_made|made]].**
 	- _Example: a modal dialog; a modal window_
 - **Relating to the [[f/_form|form]] of a thing rather to [[a/_any|any]] of [[i/_its|its]] [[a/_attributes|attributes]]**
 ---

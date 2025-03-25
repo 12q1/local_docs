@@ -1,7 +1,7 @@
 # Mousse
 ---
 #noun
-- **An [[a/_airy|airy]] pudding served [[c/_chilled|chilled]], particularly [[c/_chocolate|chocolate]] [[m/_mousse|mousse]].**
+- **An [[a/_airy|airy]] pudding served [[c/_chilled|chilled]], [[p/_particularly|particularly]] [[c/_chocolate|chocolate]] [[m/_mousse|mousse]].**
 - **A savory [[d/_dish|dish]], of [[m/_meat|meat]] or seafood, [[c/_containing|containing]] [[g/_gelatin|gelatin]].**
 	- _Example: ham mousse_
 - **A styling [[c/_cream|cream]] used for [[h/_hair|hair]].**

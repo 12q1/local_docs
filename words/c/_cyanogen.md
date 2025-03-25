@@ -1,7 +1,7 @@
 # Cyanogen
 ---
 #noun
-- **The pseudohalogen (CN)2; a [[c/_colourless|colourless]], poisonous [[g/_gas|gas]] used as a rocket propellant, an [[i/_insecticide|insecticide]] and in [[c/_chemical|chemical]] warfare.**
+- **The pseudohalogen (CN)2; a [[c/_colourless|colourless]], [[p/_poisonous|poisonous]] [[g/_gas|gas]] used as a rocket propellant, an [[i/_insecticide|insecticide]] and in [[c/_chemical|chemical]] warfare.**
 - **The radical -CN.**
 ---
 ### Synonyms

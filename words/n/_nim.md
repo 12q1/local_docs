@@ -1,7 +1,7 @@
 # Nim
 ---
 #noun
-- **A [[g/_game|game]] in which players take turns removing [[o/_objects|objects]] from [[h/_heaps|heaps]].**
+- **A [[g/_game|game]] in which [[p/_players|players]] take turns removing [[o/_objects|objects]] from [[h/_heaps|heaps]].**
 ---
 #verb
 - **To take or seize.**

@@ -1,7 +1,7 @@
 # Narcs
 ---
 #noun
-- **A [[n/_narcotics|narcotics]] squad police [[o/_officer|officer]].**
+- **A [[n/_narcotics|narcotics]] squad [[p/_police|police]] [[o/_officer|officer]].**
 ---
 #verb
 - **(underwater [[d/_diving|diving]]) To suffer from [[i/_impaired|impaired]] [[j/_judgment|judgment]] [[d/_due|due]] to [[n/_nitrogen|nitrogen]] [[n/_narcosis|narcosis]] (for [[e/_example|example]], while scuba [[d/_diving|diving]]).**
@@ -10,8 +10,8 @@
 - **A [[n/_narcissist|narcissist]].**
 ---
 #noun
-- **A police spy or [[i/_informer|informer]].**
-- **An unpleasant person, [[e/_especially|especially]] [[o/_one|one]] who [[m/_makes|makes]] things [[d/_difficult|difficult]] for [[o/_others|others]].**
+- **A [[p/_police|police]] spy or [[i/_informer|informer]].**
+- **An unpleasant [[p/_person|person]], [[e/_especially|especially]] [[o/_one|one]] who [[m/_makes|makes]] things [[d/_difficult|difficult]] for [[o/_others|others]].**
 ---
 ### Synonyms
 - [[s/_spoilsport|spoilsport]]

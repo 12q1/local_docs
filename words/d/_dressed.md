@@ -5,20 +5,20 @@
 	- _Example: He was dressed in the latest fashions._
 - **To [[c/_clothe|clothe]] [[o/_oneself|oneself]]; to put on [[c/_clothes|clothes]].**
 	- _Example: I rose and dressed before daybreak.  It's very cold out. Dress warm._
-- **To put on the uniform and [[e/_equipment|equipment]] [[n/_necessary|necessary]] to play the [[g/_game|game]].**
+- **To put on the uniform and [[e/_equipment|equipment]] [[n/_necessary|necessary]] to [[p/_play|play]] the [[g/_game|game]].**
 	- _Example: Due to a left ankle sprain, Kobe Bryant did not dress for the game against Indiana_
 - **Of a [[m/_man|man]], to [[a/_allow|allow]] the [[g/_genitals|genitals]] to [[f/_fall|fall]] to [[o/_one|one]] side or [[o/_other|other]] within the trousers.**
 	- _Example: Does sir dress to the right or the left?_
-- **To prepare ([[f/_food|food]]) for [[c/_cooking|cooking]], [[e/_especially|especially]] by seasoning it.**
-- **To prepare [[o/_oneself|oneself]]; to [[m/_make|make]] ready.**
+- **To [[p/_prepare|prepare]] ([[f/_food|food]]) for [[c/_cooking|cooking]], [[e/_especially|especially]] by seasoning it.**
+- **To [[p/_prepare|prepare]] [[o/_oneself|oneself]]; to [[m/_make|make]] ready.**
 - **To [[a/_adorn|adorn]], [[o/_ornament|ornament]].**
 	- _Example: It was time to dress the windows for Christmas again._
-- **To [[o/_ornament|ornament]] (a ship) by [[h/_hoisting|hoisting]] the [[n/_national|national]] [[c/_colours|colours]] at the peak and [[m/_mastheads|mastheads]], and setting the [[j/_jack|jack]] [[f/_forward|forward]]; when "[[d/_dressed|dressed]] [[f/_full|full]]", the signal [[f/_flags|flags]] and pennants are [[a/_added|added]].**
-- **To prepare (a set) by [[i/_installing|installing]] the props, scenery, [[e/_etc|etc]].**
-- **To treat (a wound, or wounded person).**
-- **To prepare for use; to [[f/_fit|fit]] for [[a/_any|any]] use; to render suitable for an [[i/_intended|intended]] purpose; to [[g/_get|get]] ready.**
+- **To [[o/_ornament|ornament]] (a ship) by [[h/_hoisting|hoisting]] the [[n/_national|national]] [[c/_colours|colours]] at the [[p/_peak|peak]] and [[m/_mastheads|mastheads]], and setting the [[j/_jack|jack]] [[f/_forward|forward]]; when "[[d/_dressed|dressed]] [[f/_full|full]]", the signal [[f/_flags|flags]] and [[p/_pennants|pennants]] are [[a/_added|added]].**
+- **To [[p/_prepare|prepare]] (a set) by [[i/_installing|installing]] the props, scenery, [[e/_etc|etc]].**
+- **To treat (a wound, or wounded [[p/_person|person]]).**
+- **To [[p/_prepare|prepare]] for use; to [[f/_fit|fit]] for [[a/_any|any]] use; to render suitable for an [[i/_intended|intended]] purpose; to [[g/_get|get]] ready.**
 	- _Example: to dress leather or cloth;  to dress a garden;  to dress grain, by cleansing it;  in mining and metallurgy, to dress ores, by sorting and separating them_
-- **To prepare the surface of (a [[m/_material|material]]; usually stone or [[l/_lumber|lumber]]).**
+- **To [[p/_prepare|prepare]] the surface of (a [[m/_material|material]]; usually stone or [[l/_lumber|lumber]]).**
 - **To [[m/_manure|manure]] ([[l/_land|land]]).**
 - **To [[b/_bolt|bolt]] or sift [[f/_flour|flour]].**
 - **(sometimes [[i/_imperative|imperative]]) To [[a/_arrange|arrange]] in [[e/_exact|exact]] [[c/_continuity|continuity]] of [[l/_line|line]], as soldiers; [[c/_commonly|commonly]] to [[a/_adjust|adjust]] to a straight [[l/_line|line]] and at proper [[d/_distance|distance]]; to [[a/_align|align]].**
@@ -30,8 +30,8 @@
 ### Antonyms
 - [[s/_strip|strip]], [[u/_undress|undress]], [[d/_disrobe|disrobe]], [[s/_strip|strip]], [[u/_undress|undress]]
 #adjective
-- **[[h/_having|Having]] [[b/_been|been]] subjected to a preparatory process or treatment; treated, prepared.**
-- **Prepared for [[e/_eating|eating]], [[e/_especially|especially]] by the [[a/_addition|addition]] of specific [[c/_condiments|condiments]] or [[d/_dressing|dressing]].**
+- **[[h/_having|Having]] [[b/_been|been]] subjected to a [[p/_preparatory|preparatory]] process or treatment; treated, [[p/_prepared|prepared]].**
+- **[[p/_prepared|Prepared]] for [[e/_eating|eating]], [[e/_especially|especially]] by the [[a/_addition|addition]] of specific [[c/_condiments|condiments]] or [[d/_dressing|dressing]].**
 - **Wearing [[c/_clothes|clothes]]; [[a/_attired|attired]] ([[n/_now|now]] [[o/_often|often]] with qualifying word).**
 ---
 ### Synonyms

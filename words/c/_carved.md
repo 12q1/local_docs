@@ -6,9 +6,9 @@
 	- _Example: You carve the roast and I'll serve the vegetables._
 - **To shape to sculptural [[e/_effect|effect]]; to produce (a work) by [[c/_cutting|cutting]], or to [[c/_cut|cut]] (a [[m/_material|material]]) [[i/_into|into]] a [[f/_finished|finished]] work.**
 	- _Example: to carve a name into a tree_
-- **To perform a series of turns without pivoting, so that the tip and tail of the snowboard take the same path.**
+- **To [[p/_perform|perform]] a series of turns without [[p/_pivoting|pivoting]], so that the tip and tail of the snowboard take the same [[p/_path|path]].**
 - **To take or [[m/_make|make]], as by [[c/_cutting|cutting]]; to provide.**
-- **To [[l/_lay|lay]] [[o/_out|out]]; to [[c/_contrive|contrive]]; to [[d/_design|design]]; to plan.**
+- **To [[l/_lay|lay]] [[o/_out|out]]; to [[c/_contrive|contrive]]; to [[d/_design|design]]; to [[p/_plan|plan]].**
 ---
 #adjective
 - **Of an [[o/_object|object]], [[m/_made|made]] by [[c/_carving|carving]].**

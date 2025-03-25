@@ -9,6 +9,6 @@
 ### Synonyms
 - [[a/_advise|advise]], [[a/_apprise|apprise]], [[i/_inform|inform]], [[h/_habituate|habituate]], [[i/_inure|inure]], [[f/_familiarize|familiarize]]
 #adjective
-- **Personally [[k/_known|known]]; [[f/_familiar|familiar]].**
+- **[[p/_personally|Personally]] [[k/_known|known]]; [[f/_familiar|familiar]].**
 ---
 ---

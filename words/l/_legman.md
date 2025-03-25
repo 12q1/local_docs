@@ -1,7 +1,7 @@
 # Legman
 ---
 #noun
-- **([[o/_originally|originally]] United States) A person [[h/_hired|hired]] to [[c/_carry|carry]] [[o/_out|out]] [[e/_errands|errands]] or ([[o/_often|often]]) [[m/_menial|menial]] tasks, [[f/_frequently|frequently]] requiring travel from place to place; an [[e/_errand|errand]] [[b/_boy|boy]] or [[e/_errand|errand]] [[g/_girl|girl]], a runner.**
+- **([[o/_originally|originally]] United States) A [[p/_person|person]] [[h/_hired|hired]] to [[c/_carry|carry]] [[o/_out|out]] [[e/_errands|errands]] or ([[o/_often|often]]) [[m/_menial|menial]] tasks, [[f/_frequently|frequently]] requiring travel from [[p/_place|place]] to [[p/_place|place]]; an [[e/_errand|errand]] [[b/_boy|boy]] or [[e/_errand|errand]] [[g/_girl|girl]], a runner.**
 - **([[o/_originally|originally]] United States) A reporter who [[f/_frequently|frequently]] travels to [[c/_conduct|conduct]] research, [[i/_interview|interview]] witnesses, [[e/_etc|etc]]., and then [[c/_conveys|conveys]] the [[i/_information|information]] to a rewriteman who writes up the story.**
 ---
 ### Synonyms

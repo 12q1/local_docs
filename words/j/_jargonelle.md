@@ -1,6 +1,6 @@
 # Jargonelle
 ---
 #noun
-- **A variety of pear.**
+- **A variety of [[p/_pear|pear]].**
 ---
 ---

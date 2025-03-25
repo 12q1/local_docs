@@ -1,6 +1,6 @@
 # Misperceived
 ---
 #verb
-- **To perceive [[e/_erroneously|erroneously]].**
+- **To [[p/_perceive|perceive]] [[e/_erroneously|erroneously]].**
 ---
 ---

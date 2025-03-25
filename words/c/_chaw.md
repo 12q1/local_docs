@@ -3,12 +3,12 @@
 #noun
 - **[[c/_chewing|Chewing]] tobacco.**
 	- _Example: When the doctor told him to quit smoking, Harvey switched to chaw, but then developed cancer of the mouth._
-- **A plug or wad of [[c/_chewing|chewing]] tobacco.**
+- **A [[p/_plug|plug]] or wad of [[c/_chewing|chewing]] tobacco.**
 - **The [[j/_jaw|jaw]].**
 ---
 #verb
 - **To [[c/_chew|chew]]; to [[g/_grind|grind]] with [[o/_one|one]]'s teeth; to [[m/_masticate|masticate]] ([[f/_food|food]], or the [[c/_cud|cud]])**
-- **To ruminate ([[a/_about|about]]) in thought; to ponder; to [[c/_consider|consider]]**
+- **To ruminate ([[a/_about|about]]) in thought; to [[p/_ponder|ponder]]; to [[c/_consider|consider]]**
 - **To steal.**
 	- _Example: Some pikey's chawed my bike._
 ---

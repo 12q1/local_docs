@@ -4,10 +4,10 @@
 - **To raise or rise.**
 	- _Example: The fog eventually lifted, leaving the streets clear._
 - **To steal.**
-- **To source [[d/_directly|directly]] without [[a/_acknowledgement|acknowledgement]]; to plagiarise.**
-- **To [[a/_arrest|arrest]] (a person).**
+- **To source [[d/_directly|directly]] without [[a/_acknowledgement|acknowledgement]]; to [[p/_plagiarise|plagiarise]].**
+- **To [[a/_arrest|arrest]] (a [[p/_person|person]]).**
 - **To remove (a [[b/_ban|ban]], restriction, [[e/_etc|etc]].).**
-- **To [[a/_alleviate|alleviate]], to [[l/_lighten|lighten]] (pressure, tension, stress, [[e/_etc|etc]].)**
+- **To [[a/_alleviate|alleviate]], to [[l/_lighten|lighten]] ([[p/_pressure|pressure]], tension, stress, [[e/_etc|etc]].)**
 - **To [[c/_cause|cause]] to [[m/_move|move]] upwards.**
 - **To [[l/_lift|lift]] weights; to weight-[[l/_lift|lift]].**
 	- _Example: She lifts twice a week at the gym._

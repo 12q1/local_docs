@@ -1,7 +1,7 @@
 # Lenses
 ---
 #noun
-- **An [[o/_object|object]], usually [[m/_made|made]] of [[g/_glass|glass]], that [[f/_focuses|focuses]] or defocuses the [[l/_light|light]] that passes through it.**
+- **An [[o/_object|object]], usually [[m/_made|made]] of [[g/_glass|glass]], that [[f/_focuses|focuses]] or defocuses the [[l/_light|light]] that [[p/_passes|passes]] through it.**
 - **A [[d/_device|device]] which [[f/_focuses|focuses]] or defocuses [[e/_electron|electron]] [[b/_beams|beams]].**
 - **A [[c/_convex|convex]] shape [[b/_bounded|bounded]] by two [[c/_circular|circular]] [[a/_arcs|arcs]], [[j/_joined|joined]] at their [[e/_endpoints|endpoints]], the [[c/_corresponding|corresponding]] [[c/_concave|concave]] shape [[b/_being|being]] a [[l/_lune|lune]].**
 - **A [[g/_genus|genus]] of the [[l/_legume|legume]] [[f/_family|family]]; [[i/_its|its]] [[b/_bean|bean]].**

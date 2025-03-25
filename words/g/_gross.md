@@ -20,10 +20,10 @@
 	- _Example: I threw up all over the bed. It was totally gross._
 - **[[l/_lacking|Lacking]] refinement in [[b/_behaviour|behaviour]] or [[m/_manner|manner]]; [[o/_offending|offending]] a standard of [[m/_morality|morality]].**
 - **(of a product) [[l/_lacking|Lacking]] refinement; not of [[h/_high|high]] quality.**
-- **(of a person) [[h/_heavy|Heavy]] in proportion to [[o/_one|one]]'s [[h/_height|height]]; [[h/_having|having]] a [[l/_lot|lot]] of [[e/_excess|excess]] [[f/_flesh|flesh]].**
-- **Not sensitive in perception or [[f/_feeling|feeling]].**
+- **(of a [[p/_person|person]]) [[h/_heavy|Heavy]] in proportion to [[o/_one|one]]'s [[h/_height|height]]; [[h/_having|having]] a [[l/_lot|lot]] of [[e/_excess|excess]] [[f/_flesh|flesh]].**
+- **Not sensitive in [[p/_perception|perception]] or [[f/_feeling|feeling]].**
 - **[[d/_difficult|Difficult]] or [[i/_impossible|impossible]] to see through.**
-- **[[e/_easy|Easy]] to perceive.**
+- **[[e/_easy|Easy]] to [[p/_perceive|perceive]].**
 ---
 ### Synonyms
 - [[a/_aggregate|aggregate]], [[e/_entire|entire]], [[o/_overall|overall]], [[t/_total|total]], [[w/_whole|whole]], [[a/_appalling|appalling]], [[e/_egregious|egregious]], [[f/_flagrant|flagrant]], [[s/_serious|serious]], [[s/_shameful|shameful]], [[b/_bulky|bulky]], [[f/_fat|fat]], [[g/_great|great]], [[l/_large|large]], [[o/_obese|obese]], [[c/_clear|clear]], [[o/_obvious|obvious]], [[c/_coarse|coarse]], [[i/_impure|impure]], [[o/_obscene|obscene]], [[r/_rude|rude]], [[v/_vulgar|vulgar]], [[c/_coarse|coarse]], [[r/_rough|rough]], [[u/_unrefined|unrefined]], [[d/_disgusting|disgusting]], [[g/_gro|gro]], [[g/_grody|grody]], [[g/_grotty|grotty]], [[n/_nasty|nasty]], [[r/_revolting|revolting]], [[y/_yucky|yucky]], [[d/_dull|dull]], [[w/_witless|witless]], [[h/_heavy|heavy]], [[t/_thick|thick]], [[m/_macroscopic|macroscopic]]

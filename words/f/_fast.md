@@ -1,31 +1,31 @@
 # Fast
 ---
 #noun
-- **A train that [[c/_calls|calls]] at [[o/_only|only]] some stations it passes [[b/_between|between]] [[i/_its|its]] [[o/_origin|origin]] and [[d/_destination|destination]], typically [[j/_just|just]] the principal stations**
+- **A train that [[c/_calls|calls]] at [[o/_only|only]] some stations it [[p/_passes|passes]] [[b/_between|between]] [[i/_its|its]] [[o/_origin|origin]] and [[d/_destination|destination]], typically [[j/_just|just]] the principal stations**
 ---
 ### Synonyms
 - [[e/_express|express]]
 ### Antonyms
 - [[l/_local|local]], [[s/_stopper|stopper]]
 #adjective
-- **[[f/_firmly|Firmly]] or securely [[f/_fixed|fixed]] in place; stable.**
+- **[[f/_firmly|Firmly]] or securely [[f/_fixed|fixed]] in [[p/_place|place]]; stable.**
 	- _Example: That rope is dangerously loose. Make it fast!_
 - **[[f/_firm|Firm]] [[a/_against|against]] [[a/_attack|attack]]; [[f/_fortified|fortified]] by [[n/_nature|nature]] or [[a/_art|art]]; [[i/_impregnable|impregnable]]; strong.**
-- **(of people) Steadfast, with unwavering [[f/_feeling|feeling]]. ([[n/_now|Now]] [[m/_mostly|mostly]] in set phrases [[l/_like|like]] [[f/_fast|fast]] [[f/_friend|friend]](s).)**
+- **(of [[p/_people|people]]) Steadfast, with unwavering [[f/_feeling|feeling]]. ([[n/_now|Now]] [[m/_mostly|mostly]] in set [[p/_phrases|phrases]] [[l/_like|like]] [[f/_fast|fast]] [[f/_friend|friend]](s).)**
 - **[[m/_moving|Moving]] with [[g/_great|great]] speed, or [[c/_capable|capable]] of [[d/_doing|doing]] so; swift, rapid.**
 	- _Example: I am going to buy a fast car._
-- **[[c/_causing|Causing]] unusual rapidity of play or [[a/_action|action]].**
+- **[[c/_causing|Causing]] unusual rapidity of [[p/_play|play]] or [[a/_action|action]].**
 	- _Example: a fast billiard table_
-- **(of a piece of [[h/_hardware|hardware]]) [[a/_able|Able]] to transfer [[d/_data|data]] in a short period of time.**
-- **[[d/_deep|Deep]] or sound (of sleep); [[f/_fast|fast]] [[a/_asleep|asleep]] (of people).**
-- **(of [[d/_dyes|dyes]] or [[c/_colours|colours]]) Not running or [[f/_fading|fading]] when subjected to [[d/_detrimental|detrimental]] [[c/_conditions|conditions]] such as wetness or [[i/_intense|intense]] [[l/_light|light]]; permanent.**
+- **(of a [[p/_piece|piece]] of [[h/_hardware|hardware]]) [[a/_able|Able]] to transfer [[d/_data|data]] in a short [[p/_period|period]] of time.**
+- **[[d/_deep|Deep]] or sound (of sleep); [[f/_fast|fast]] [[a/_asleep|asleep]] (of [[p/_people|people]]).**
+- **(of [[d/_dyes|dyes]] or [[c/_colours|colours]]) Not running or [[f/_fading|fading]] when subjected to [[d/_detrimental|detrimental]] [[c/_conditions|conditions]] such as wetness or [[i/_intense|intense]] [[l/_light|light]]; [[p/_permanent|permanent]].**
 	- _Example: All the washing has come out pink. That red tee-shirt was not fast._
 - **Tenacious; retentive.**
 - **[[h/_having|Having]] an [[e/_extravagant|extravagant]] [[l/_lifestyle|lifestyle]] or [[i/_immoral|immoral]] [[h/_habits|habits]].**
 	- _Example: a fast woman_
 - **[[a/_ahead|Ahead]] of the [[c/_correct|correct]] time or schedule.**
 	- _Example: There must be something wrong with the hall clock. It is always fast._
-- **(of photographic [[f/_film|film]]) [[m/_more|More]] sensitive to [[l/_light|light]] than [[a/_average|average]].**
+- **(of [[p/_photographic|photographic]] [[f/_film|film]]) [[m/_more|More]] sensitive to [[l/_light|light]] than [[a/_average|average]].**
 ---
 ### Synonyms
 - [[q/_quick|quick]], [[r/_rapid|rapid]], [[s/_speedy|speedy]], [[s/_swift|swift]], [[e/_easy|easy]], [[s/_slutty|slutty]], [[a/_ahead|ahead]], [[c/_colour-fast|colour-fast]], [[d/_deep|deep]], [[s/_sound|sound]], [[f/_firm|firm]], [[i/_immobile|immobile]], [[s/_secure|secure]], [[s/_stable|stable]], [[s/_stuck|stuck]], [[t/_tight|tight]], [[f/_fortified|fortified]], [[i/_impenetrable|impenetrable]], [[q/_quick|quick]], [[r/_rapid|rapid]], [[s/_speedy|speedy]]
@@ -36,7 +36,7 @@
 	- _Example: Hold this rope as fast as you can._
 - **(of sleeping) [[d/_deeply|Deeply]] or soundly .**
 	- _Example: He is fast asleep._
-- **[[i/_immediately|Immediately]] [[f/_following|following]] in place or time; [[c/_close|close]], very [[n/_near|near]] .**
+- **[[i/_immediately|Immediately]] [[f/_following|following]] in [[p/_place|place]] or time; [[c/_close|close]], very [[n/_near|near]] .**
 	- _Example: Fast by the sturdy batsman the ball unheeded sped. / That ain't my style, said Casey. Strike one, the umpire said._
 - **Quickly, with [[g/_great|great]] speed; within a short time .**
 	- _Example: Do it as fast as you can._
@@ -48,7 +48,7 @@
 ### Antonyms
 - [[b/_behind|behind]], [[l/_lightly|lightly]], [[l/_loosely|loosely]], [[s/_slowly|slowly]]
 #interjection
-- **Short for "stand [[f/_fast|fast]]", a warning not to pass [[b/_between|between]] the [[a/_arrow|arrow]] and the target**
+- **Short for "stand [[f/_fast|fast]]", a warning not to [[p/_pass|pass]] [[b/_between|between]] the [[a/_arrow|arrow]] and the target**
 ---
 ### Antonyms
 - [[l/_loose|loose]]

@@ -13,7 +13,7 @@
 ### Antonyms
 - [[u/_upstream|upstream]]
 #adverb
-- **[[f/_following|Following]] the path of a river or stream**
+- **[[f/_following|Following]] the [[p/_path|path]] of a river or stream**
 	- _Example: We spent the day paddling downstream in our canoes._
 ---
 ### Antonyms

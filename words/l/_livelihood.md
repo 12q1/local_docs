@@ -5,7 +5,7 @@
 	- _Example: an independent livelihood; to make / earn / gain a good livelihood_
 - **Property which [[b/_brings|brings]] in an [[i/_income|income]]; an [[e/_estate|estate]].**
 - **[[l/_liveliness|Liveliness]]; [[a/_appearance|appearance]] of [[l/_life|life]].**
-- **The [[c/_course|course]] of someone's [[l/_life|life]]; a person's [[l/_lifetime|lifetime]], or their [[m/_manner|manner]] of [[l/_living|living]]; [[c/_conduct|conduct]], [[b/_behaviour|behaviour]].**
+- **The [[c/_course|course]] of someone's [[l/_life|life]]; a [[p/_person|person]]'s [[l/_lifetime|lifetime]], or their [[m/_manner|manner]] of [[l/_living|living]]; [[c/_conduct|conduct]], [[b/_behaviour|behaviour]].**
 ---
 ### Synonyms
 - [[l/_living|living]], [[s/_subsistence|subsistence]], [[s/_sustenance|sustenance]]

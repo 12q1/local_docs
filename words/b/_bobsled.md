@@ -2,7 +2,7 @@
 ---
 #noun
 - **A sled used to [[g/_go|go]] [[d/_down|down]] a [[b/_bob|bob]] track.**
-- **The sport of travelling [[d/_down|down]] a [[b/_bob|bob]] track as [[f/_fast|fast]] as possible.**
+- **The sport of travelling [[d/_down|down]] a [[b/_bob|bob]] track as [[f/_fast|fast]] as [[p/_possible|possible]].**
 - **A short sled, [[m/_mostly|mostly]] used as [[o/_one|one]] of a [[p/_pair|pair]] [[c/_connected|connected]] by a reach or [[c/_coupling|coupling]]; the [[c/_compound|compound]] sled so [[f/_formed|formed]].**
 ---
 ### Synonyms

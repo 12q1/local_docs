@@ -6,7 +6,7 @@
 - **To [[m/_move|move]] [[o/_onward|onward]] [[h/_heavily|heavily]], [[l/_laboriously|laboriously]], or slowly; to [[a/_advance|advance]] with weary [[e/_effort|effort]]; to [[g/_go|go]] on [[l/_lingeringly|lingeringly]].**
 	- _Example: Time seems to drag when you’re waiting for a bus._
 - **To [[a/_act|act]] or proceed slowly or without [[e/_enthusiasm|enthusiasm]]; to be reluctant.**
-- **To [[d/_draw|draw]] [[a/_along|along]] (something [[b/_burdensome|burdensome]]); [[h/_hence|hence]], to pass in [[p/_pain|pain]] or with [[d/_difficulty|difficulty]].**
+- **To [[d/_draw|draw]] [[a/_along|along]] (something [[b/_burdensome|burdensome]]); [[h/_hence|hence]], to [[p/_pass|pass]] in [[p/_pain|pain]] or with [[d/_difficulty|difficulty]].**
 - **To serve as a [[c/_clog|clog]] or [[h/_hindrance|hindrance]]; to [[h/_hold|hold]] [[b/_back|back]].**
 - **To [[m/_move|move]] (an [[i/_item|item]]) on the [[c/_computer|computer]] [[d/_display|display]] by [[m/_means|means]] of a [[m/_mouse|mouse]] or [[o/_other|other]] [[i/_input|input]] [[d/_device|device]].**
 	- _Example: Drag the file into the window to open it._
@@ -23,6 +23,6 @@
 ### Synonyms
 - [[c/_criticize|criticize]], [[h/_harrow|harrow]]
 #verb
-- **To perform as a [[d/_drag|drag]] queen or [[d/_drag|drag]] [[k/_king|king]].**
+- **To [[p/_perform|perform]] as a [[d/_drag|drag]] queen or [[d/_drag|drag]] [[k/_king|king]].**
 ---
 ---

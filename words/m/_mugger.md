@@ -2,6 +2,6 @@
 ---
 #noun
 - **A street robber.**
-- **A person who [[m/_makes|makes]] [[e/_exaggerated|exaggerated]] [[f/_faces|faces]], as a performance; a gurner.**
+- **A [[p/_person|person]] who [[m/_makes|makes]] [[e/_exaggerated|exaggerated]] [[f/_faces|faces]], as a [[p/_performance|performance]]; a gurner.**
 ---
 ---

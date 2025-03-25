@@ -1,0 +1,18 @@
+# Prank
+---
+#noun
+- **A [[p/_practical|practical]] [[j/_joke|joke]] or [[m/_mischievous|mischievous]] trick.**
+	- _Example: He pulled a gruesome prank on his sister._
+- **An [[e/_evil|evil]] [[d/_deed|deed]]; a [[m/_malicious|malicious]] trick, an [[a/_act|act]] of [[c/_cruel|cruel]] [[d/_deception|deception]].**
+---
+#verb
+- **To [[p/_perform|perform]] a [[p/_practical|practical]] [[j/_joke|joke]] on; to trick.**
+- **To [[c/_call|call]] someone's [[p/_phone|phone]] and promptly [[h/_hang|hang]] up**
+	- _Example: Hey man, prank me when you wanna get picked up._
+- **To [[a/_adorn|adorn]] in a showy [[m/_manner|manner]]; to [[d/_dress|dress]] or [[e/_equip|equip]] [[o/_ostentatiously|ostentatiously]].**
+- **To [[m/_make|make]] [[o/_ostentatious|ostentatious]] show.**
+---
+#adjective
+- **[[f/_full|Full]] of [[g/_gambols|gambols]] or tricks.**
+---
+---

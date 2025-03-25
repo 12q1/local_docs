@@ -5,7 +5,7 @@
 	- _Example: The middle-finger gesture is really a nonverbal swear._
 - **An [[a/_act|act]] or a remark [[m/_made|made]] as a [[f/_formality|formality]] or as a sign of [[a/_attitude|attitude]].**
 	- _Example: We took flowers as a gesture of sympathy._
-- **The [[m/_manner|manner]] of [[c/_carrying|carrying]] the [[b/_body|body]]; position of the [[b/_body|body]] or [[l/_limbs|limbs]]; posture.**
+- **The [[m/_manner|manner]] of [[c/_carrying|carrying]] the [[b/_body|body]]; [[p/_position|position]] of the [[b/_body|body]] or [[l/_limbs|limbs]]; [[p/_posture|posture]].**
 ---
 #verb
 - **To [[m/_make|make]] a [[g/_gesture|gesture]] or [[g/_gestures|gestures]].**

@@ -10,6 +10,6 @@
 ---
 #noun
 - **[[g/_grey|Grey]] [[c/_coloration|coloration]].**
-- **The [[a/_act|act]] of [[o/_one|one]] who [[g/_grizzles|grizzles]]; peevish whining.**
+- **The [[a/_act|act]] of [[o/_one|one]] who [[g/_grizzles|grizzles]]; [[p/_peevish|peevish]] whining.**
 ---
 ---

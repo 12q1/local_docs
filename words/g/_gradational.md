@@ -2,6 +2,6 @@
 ---
 #adjective
 - **By regular steps or [[g/_gradations|gradations]].**
-- **Of or pertaining to [[g/_gradation|gradation]].**
+- **Of or [[p/_pertaining|pertaining]] to [[g/_gradation|gradation]].**
 ---
 ---

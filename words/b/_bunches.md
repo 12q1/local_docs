@@ -3,7 +3,7 @@
 #noun
 - **A [[g/_group|group]] of similar things, [[e/_either|either]] [[g/_growing|growing]] together, or in a [[c/_cluster|cluster]] or [[c/_clump|clump]], usually [[f/_fastened|fastened]] together.**
 	- _Example: a bunch of grapes;  a bunch of bananas;  a bunch of keys;  a bunch of yobs on a street corner_
-- **The peloton; the [[m/_main|main]] [[g/_group|group]] of riders [[f/_formed|formed]] [[d/_during|during]] a race.**
+- **The [[p/_peloton|peloton]]; the [[m/_main|main]] [[g/_group|group]] of riders [[f/_formed|formed]] [[d/_during|during]] a race.**
 - **An [[i/_informal|informal]] [[b/_body|body]] of [[f/_friends|friends]].**
 	- _Example: He still hangs out with the same bunch._
 - **A [[c/_considerable|considerable]] [[a/_amount|amount]].**
@@ -11,7 +11,7 @@
 - **An unmentioned [[a/_amount|amount]]; a [[n/_number|number]].**
 	- _Example: A bunch of them went down to the field._
 - **A [[g/_group|group]] of [[l/_logs|logs]] tied together for skidding.**
-- **An unusual [[c/_concentration|concentration]] of [[o/_ore|ore]] in a [[l/_lode|lode]] or a small, [[d/_discontinuous|discontinuous]] [[o/_occurrence|occurrence]] or patch of [[o/_ore|ore]] in the wallrock.**
+- **An unusual [[c/_concentration|concentration]] of [[o/_ore|ore]] in a [[l/_lode|lode]] or a small, [[d/_discontinuous|discontinuous]] [[o/_occurrence|occurrence]] or [[p/_patch|patch]] of [[o/_ore|ore]] in the wallrock.**
 - **The reserve [[y/_yarn|yarn]] on the [[f/_filling|filling]] [[b/_bobbin|bobbin]] to [[a/_allow|allow]] [[c/_continuous|continuous]] weaving [[b/_between|between]] the time of [[i/_indication|indication]] from the [[m/_midget|midget]] [[f/_feeler|feeler]] until a [[n/_new|new]] [[b/_bobbin|bobbin]] is put in the shuttle.**
 - **An unfinished [[c/_cigar|cigar]], [[b/_before|before]] the wrapper [[l/_leaf|leaf]] is [[a/_added|added]].**
 	- _Example: Two to four filler leaves are laid end to end and rolled into the two halves of the binder leaves, making up what is called the bunch._
@@ -29,7 +29,7 @@
 ### Synonyms
 - [[c/_cluster|cluster]], [[g/_group|group]]
 #noun
-- **[[h/_hair|Hair]] [[g/_gathered|gathered]] together in two or [[m/_more|more]] parts; pigtails.**
+- **[[h/_hair|Hair]] [[g/_gathered|gathered]] together in two or [[m/_more|more]] [[p/_parts|parts]]; [[p/_pigtails|pigtails]].**
 	- _Example: She wore her hair in bunches._
 ---
 ---

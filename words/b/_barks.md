@@ -15,15 +15,15 @@
 - [[l/_latrate|latrate]]
 #noun
 - **The [[e/_exterior|exterior]] [[c/_covering|covering]] of the trunk and [[b/_branches|branches]] of a tree.**
-- **Peruvian [[b/_bark|bark]] or [[j/_jesuit|Jesuit]]'s [[b/_bark|bark]], the [[b/_bark|bark]] of the [[c/_cinchona|cinchona]] from which quinine is produced.**
-- **[[h/_hard|Hard]] [[c/_candy|candy]] [[m/_made|made]] in [[f/_flat|flat]] sheets, for [[i/_instance|instance]] [[o/_out|out]] of [[c/_chocolate|chocolate]], peanut [[b/_butter|butter]], toffee or peppermint.**
+- **[[p/_peruvian|Peruvian]] [[b/_bark|bark]] or [[j/_jesuit|Jesuit]]'s [[b/_bark|bark]], the [[b/_bark|bark]] of the [[c/_cinchona|cinchona]] from which quinine is produced.**
+- **[[h/_hard|Hard]] [[c/_candy|candy]] [[m/_made|made]] in [[f/_flat|flat]] sheets, for [[i/_instance|instance]] [[o/_out|out]] of [[c/_chocolate|chocolate]], [[p/_peanut|peanut]] [[b/_butter|butter]], toffee or [[p/_peppermint|peppermint]].**
 - **The [[c/_crust|crust]] [[f/_formed|formed]] on [[b/_barbecued|barbecued]] [[m/_meat|meat]] that [[h/_has|has]] [[h/_had|had]] a rub [[a/_applied|applied]] to it.**
 - **The [[e/_envelopment|envelopment]] or [[o/_outer|outer]] [[c/_covering|covering]] of [[a/_anything|anything]].**
 ---
 ### Synonyms
 - [[r/_rind|rind]]
 #verb
-- **To strip the [[b/_bark|bark]] from; to peel.**
+- **To strip the [[b/_bark|bark]] from; to [[p/_peel|peel]].**
 - **To [[a/_abrade|abrade]] or rub [[o/_off|off]] [[a/_any|any]] [[o/_outer|outer]] [[c/_covering|covering]] from.**
 	- _Example: to bark one’s heel_
 - **To [[g/_girdle|girdle]].**
@@ -31,7 +31,7 @@
 	- _Example: bark the roof of a hut_
 ---
 #noun
-- **A small sailing vessel, [[e/_e|e]].[[g/_g|g]]. a pinnace or a [[f/_fishing|fishing]] smack; a rowing [[b/_boat|boat]] or [[b/_barge|barge]].**
+- **A small sailing vessel, [[e/_e|e]].[[g/_g|g]]. a [[p/_pinnace|pinnace]] or a [[f/_fishing|fishing]] smack; a rowing [[b/_boat|boat]] or [[b/_barge|barge]].**
 - **A sailing vessel or [[b/_boat|boat]] of [[a/_any|any]] [[k/_kind|kind]].**
 - **A vessel, typically with three (or [[m/_more|more]]) [[m/_masts|masts]], with the [[f/_foremasts|foremasts]] (or [[f/_fore|fore]]- and [[m/_mainmasts|mainmasts]]) square-rigged, and [[m/_mizzenmast|mizzenmast]] schooner-rigged.**
 ---

@@ -2,9 +2,9 @@
 ---
 #adjective
 - **[[c/_coated|Coated]] or [[e/_encrusted|encrusted]] with sugar**
-- **Preserved in sugar or syrup by [[b/_baking|baking]] till it [[b/_becomes|becomes]] translucent**
+- **[[p/_preserved|Preserved]] in sugar or syrup by [[b/_baking|baking]] till it [[b/_becomes|becomes]] translucent**
 	- _Example: Hot cross buns contain chopped candied fruit._
-- **Pleasing, [[f/_flattering|flattering]].**
+- **[[p/_pleasing|Pleasing]], [[f/_flattering|flattering]].**
 ---
 ### Synonyms
 - [[c/_crystallized|crystallized]]

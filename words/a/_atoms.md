@@ -1,9 +1,9 @@
 # Atoms
 ---
 #noun
-- **The smallest possible [[a/_amount|amount]] of [[m/_matter|matter]] which still retains [[i/_its|its]] [[i/_identity|identity]] as a [[c/_chemical|chemical]] [[e/_element|element]], [[n/_now|now]] [[k/_known|known]] to [[c/_consist|consist]] of a [[n/_nucleus|nucleus]] surrounded by [[e/_electrons|electrons]].**
-- **([[h/_history|history]] of science) A [[h/_hypothetical|hypothetical]] particle posited by [[g/_greek|Greek]] philosophers as an ultimate and [[i/_indivisible|indivisible]] [[c/_component|component]] of [[m/_matter|matter]].**
-- **The smallest, [[i/_indivisible|indivisible]] [[c/_constituent|constituent]] part or unit of something.**
+- **The smallest [[p/_possible|possible]] [[a/_amount|amount]] of [[m/_matter|matter]] which still retains [[i/_its|its]] [[i/_identity|identity]] as a [[c/_chemical|chemical]] [[e/_element|element]], [[n/_now|now]] [[k/_known|known]] to [[c/_consist|consist]] of a [[n/_nucleus|nucleus]] surrounded by [[e/_electrons|electrons]].**
+- **([[h/_history|history]] of science) A [[h/_hypothetical|hypothetical]] [[p/_particle|particle]] [[p/_posited|posited]] by [[g/_greek|Greek]] [[p/_philosophers|philosophers]] as an ultimate and [[i/_indivisible|indivisible]] [[c/_component|component]] of [[m/_matter|matter]].**
+- **The smallest, [[i/_indivisible|indivisible]] [[c/_constituent|constituent]] [[p/_part|part]] or unit of something.**
 - **In [[l/_logical|logical]] [[a/_atomism|atomism]], a [[f/_fundamental|fundamental]] [[f/_fact|fact]] that [[c/_cannot|cannot]] be [[f/_further|further]] [[b/_broken|broken]] [[d/_down|down]].**
 - **The smallest [[m/_medieval|medieval]] unit of time, [[e/_equal|equal]] to [[f/_fifteen|fifteen]] [[n/_ninety|ninety]]-[[f/_fourths|fourths]] of a second.**
 - **A [[m/_mote|mote]] of [[d/_dust|dust]] in a sunbeam.**

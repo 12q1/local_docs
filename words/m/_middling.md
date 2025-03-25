@@ -1,10 +1,10 @@
 # Middling
 ---
 #noun
-- **Something of [[i/_intermediate|intermediate]] or [[a/_average|average]] size, position, or quality.**
+- **Something of [[i/_intermediate|intermediate]] or [[a/_average|average]] size, [[p/_position|position]], or quality.**
 ---
 #adjective
-- **Of [[i/_intermediate|intermediate]] or [[a/_average|average]] size, position, or quality; [[m/_mediocre|mediocre]].**
+- **Of [[i/_intermediate|intermediate]] or [[a/_average|average]] size, [[p/_position|position]], or quality; [[m/_mediocre|mediocre]].**
 	- _Example: The football team is never the worst or best in its league; its position is always middling._
 - **In [[f/_fairly|fairly]] [[g/_good|good]] [[h/_health|health]].**
 ---

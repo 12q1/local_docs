@@ -13,8 +13,8 @@
 - **To [[d/_defile|defile]] or [[d/_dirty|dirty]].**
 ---
 #noun
-- **The [[g/_glass|glass]] [[c/_circling|circling]] the tip of a [[b/_blowpipe|blowpipe]] or punty, such as the residual [[g/_glass|glass]] [[a/_after|after]] [[d/_detaching|detaching]] a [[b/_blown|blown]] vessel, or the [[l/_lower|lower]] part of a [[g/_gather|gather]].**
-- **([[b/_blow|blow]] [[m/_molding|molding]]) The [[e/_excess|excess]] [[m/_material|material]] which [[a/_adheres|adheres]] to the top, [[b/_base|base]], or rim of a [[g/_glass|glass]] [[o/_object|object]] when it is [[c/_cut|cut]] or [[k/_knocked|knocked]] [[o/_off|off]] from a [[b/_blowpipe|blowpipe]] or punty, or from the [[m/_mold|mold]]-[[f/_filling|filling]] process. Typically removed [[a/_after|after]] [[a/_annealing|annealing]] as part of the [[f/_finishing|finishing]] process ([[e/_e|e]].[[g/_g|g]]. scored and snapped [[o/_off|off]]).**
+- **The [[g/_glass|glass]] [[c/_circling|circling]] the tip of a [[b/_blowpipe|blowpipe]] or punty, such as the residual [[g/_glass|glass]] [[a/_after|after]] [[d/_detaching|detaching]] a [[b/_blown|blown]] vessel, or the [[l/_lower|lower]] [[p/_part|part]] of a [[g/_gather|gather]].**
+- **([[b/_blow|blow]] [[m/_molding|molding]]) The [[e/_excess|excess]] [[m/_material|material]] which [[a/_adheres|adheres]] to the top, [[b/_base|base]], or rim of a [[g/_glass|glass]] [[o/_object|object]] when it is [[c/_cut|cut]] or [[k/_knocked|knocked]] [[o/_off|off]] from a [[b/_blowpipe|blowpipe]] or punty, or from the [[m/_mold|mold]]-[[f/_filling|filling]] process. Typically removed [[a/_after|after]] [[a/_annealing|annealing]] as [[p/_part|part]] of the [[f/_finishing|finishing]] process ([[e/_e|e]].[[g/_g|g]]. scored and snapped [[o/_off|off]]).**
 - **The [[m/_metallic|metallic]] [[o/_oxide|oxide]] from a [[b/_blowpipe|blowpipe]] which [[h/_has|has]] [[a/_adhered|adhered]] to a [[g/_glass|glass]] [[o/_object|object]].**
 ---
 ### Synonyms

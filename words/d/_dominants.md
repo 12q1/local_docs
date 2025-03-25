@@ -5,7 +5,7 @@
 - **The triad [[b/_built|built]] on the [[d/_dominant|dominant]] tone.**
 - **A [[g/_gene|gene]] that is [[d/_dominant|dominant]].**
 - **A species or [[o/_organism|organism]] that is [[d/_dominant|dominant]].**
-- **(BDSM) The [[d/_dominating|dominating]] partner in sadomasochistic sexual [[a/_activity|activity]].**
+- **(BDSM) The [[d/_dominating|dominating]] [[p/_partner|partner]] in sadomasochistic sexual [[a/_activity|activity]].**
 ---
 ### Synonyms
 - [[d/_dominator|dominator]]

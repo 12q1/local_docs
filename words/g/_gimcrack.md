@@ -8,6 +8,6 @@
 - **To [[e/_embellish|embellish]] with [[g/_gimcracks|gimcracks]].**
 ---
 #adjective
-- **Showy but of poor quality; worthless.**
+- **Showy but of [[p/_poor|poor]] quality; worthless.**
 ---
 ---

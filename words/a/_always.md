@@ -3,7 +3,7 @@
 #adverb
 - **At [[a/_all|all]] times; throughout [[a/_all|all]] time; since the [[b/_beginning|beginning]].**
 	- _Example: Airplanes did not always exist as a form of transportation._
-- **[[c/_constantly|Constantly]] [[d/_during|during]] a [[c/_certain|certain]] period, or regularly at stated [[i/_intervals|intervals]] ([[o/_opposed|opposed]] to sometimes or [[o/_occasionally|occasionally]]).**
+- **[[c/_constantly|Constantly]] [[d/_during|during]] a [[c/_certain|certain]] [[p/_period|period]], or regularly at stated [[i/_intervals|intervals]] ([[o/_opposed|opposed]] to sometimes or [[o/_occasionally|occasionally]]).**
 	- _Example: In this street, the shops always close during lunchtime._
 - **In [[a/_any|any]] [[e/_event|event]].**
 	- _Example: I thought I could always go back to work._

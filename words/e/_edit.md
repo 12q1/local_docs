@@ -12,7 +12,7 @@
 	- _Example: He edits the Chronicle._
 - **To [[c/_change|change]] the [[c/_contents|contents]] of a [[f/_file|file]], website, [[e/_etc|etc]].**
 	- _Example: Wikipedia is an interactive encyclopedia which allows anybody to edit and improve articles._
-- **To [[a/_alter|alter]] the DNA sequence of a [[c/_chromosome|chromosome]]; to perform [[g/_gene|gene]] splicing.**
+- **To [[a/_alter|alter]] the DNA sequence of a [[c/_chromosome|chromosome]]; to [[p/_perform|perform]] [[g/_gene|gene]] splicing.**
 - **To [[a/_alter|alter]] a [[f/_film|film]] by [[c/_cutting|cutting]] and splicing [[f/_frames|frames]].**
 - **To [[c/_cut|cut]] short or [[o/_otherwise|otherwise]] [[a/_alter|alter]] an [[i/_improvised|improvised]] scene.**
 - **To [[l/_lend|lend]] [[i/_itself|itself]] to [[e/_editing|editing]] in a [[c/_certain|certain]] way.**

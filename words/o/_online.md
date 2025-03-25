@@ -11,7 +11,7 @@
 	- _Example: I'll be online tonight, so I'll be able to reply to your email._
 - **[[a/_available|Available]] on a [[c/_computer|computer]] system, [[e/_even|even]] [[i/_if|if]] not [[n/_networked|networked]].**
 	- _Example: Press the F1 key to access the online help._
-- **Of a system: [[a/_active|active]], particularly [[b/_building|building]] [[f/_facilities|facilities]] (such as power) or a [[f/_factory|factory]] or power plant.**
+- **Of a system: [[a/_active|active]], [[p/_particularly|particularly]] [[b/_building|building]] [[f/_facilities|facilities]] (such as [[p/_power|power]]) or a [[f/_factory|factory]] or [[p/_power|power]] [[p/_plant|plant]].**
 	- _Example: Once this factory comes online, it will double car production in our country!_
 ---
 ### Antonyms

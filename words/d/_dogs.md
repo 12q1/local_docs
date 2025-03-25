@@ -14,18 +14,18 @@
 - **Someone who is [[m/_morally|morally]] reprehensible.**
 	- _Example: You dirty dog._
 - **A sexually [[a/_aggressive|aggressive]] [[m/_man|man]] ([[c/_cf|cf]]. [[h/_horny|horny]]).**
-- **[[a/_any|Any]] of various [[m/_mechanical|mechanical]] [[d/_devices|devices]] for [[h/_holding|holding]], [[g/_gripping|gripping]], or [[f/_fastening|fastening]] something, particularly with a tooth-[[l/_like|like]] projection.**
-- **A [[c/_click|click]] or [[p/_pallet|pallet]] [[a/_adapted|adapted]] to [[e/_engage|engage]] the teeth of a ratchet-wheel, to restrain the [[b/_back|back]] [[a/_action|action]]; a [[c/_click|click]] or pawl. (See [[a/_also|also]]: ratchet, windlass)**
+- **[[a/_any|Any]] of various [[m/_mechanical|mechanical]] [[d/_devices|devices]] for [[h/_holding|holding]], [[g/_gripping|gripping]], or [[f/_fastening|fastening]] something, [[p/_particularly|particularly]] with a tooth-[[l/_like|like]] projection.**
+- **A [[c/_click|click]] or [[p/_pallet|pallet]] [[a/_adapted|adapted]] to [[e/_engage|engage]] the teeth of a ratchet-wheel, to restrain the [[b/_back|back]] [[a/_action|action]]; a [[c/_click|click]] or [[p/_pawl|pawl]]. (See [[a/_also|also]]: ratchet, windlass)**
 - **A [[m/_metal|metal]] support for [[l/_logs|logs]] in a [[f/_fireplace|fireplace]].**
 	- _Example: The dogs were too hot to touch._
 - **The [[e/_eighteenth|eighteenth]] Lenormand [[c/_card|card]].**
 - **A [[h/_hot|hot]] [[d/_dog|dog]].**
 - **Underdog.**
-- **([[a/_almost|almost]] [[a/_always|always]] in the plural) [[f/_foot|Foot]].**
-- **(from "[[d/_dog|dog]] and [[b/_bone|bone]]") Phone or [[m/_mobile|mobile]] phone.**
+- **([[a/_almost|almost]] [[a/_always|always]] in the [[p/_plural|plural]]) [[f/_foot|Foot]].**
+- **(from "[[d/_dog|dog]] and [[b/_bone|bone]]") [[p/_phone|Phone]] or [[m/_mobile|mobile]] [[p/_phone|phone]].**
 	- _Example: My dog is dead._
 - **[[o/_one|One]] of the [[c/_cones|cones]] used to [[d/_divide|divide]] up a racetrack when training [[h/_horses|horses]].**
-- **A [[f/_flop|flop]]; a [[f/_film|film]] that performs poorly at the [[b/_box|box]] [[o/_office|office]].**
+- **A [[f/_flop|flop]]; a [[f/_film|film]] that [[p/_performs|performs]] [[p/_poorly|poorly]] at the [[b/_box|box]] [[o/_office|office]].**
 ---
 ### Synonyms
 - [[c/_canine|canine]], [[h/_hound|hound]], [[s/_sire|sire]], [[s/_stud|stud]], [[b/_bloke|bloke]], [[c/_chap|chap]], [[d/_dude|dude]], [[f/_fellow|fellow]], [[g/_guy|guy]], [[m/_man|man]], [[c/_click|click]], [[d/_detent|detent]], [[p/_pawl|pawl]], [[a/_andiron|andiron]], [[d/_dogiron|dogiron]], [[f/_firedog|firedog]], [[b/_blackguard|blackguard]], [[b/_bounder|bounder]], [[c/_cad|cad]], [[f/_fool|fool]], [[h/_heel|heel]], [[h/_hound|hound]], [[s/_scoundrel|scoundrel]]
@@ -35,7 +35,7 @@
 	- _Example: The woman cursed him so that trouble would dog his every step._
 - **To [[f/_fasten|fasten]] a [[h/_hatch|hatch]] securely.**
 	- _Example: It is very important to dog down these hatches..._
-- **To watch, or participate, in sexual [[a/_activity|activity]] in a public place.**
+- **To watch, or [[p/_participate|participate]], in sexual [[a/_activity|activity]] in a public [[p/_place|place]].**
 	- _Example: I admit that I like to dog at my local country park._
 - **To [[i/_intentionally|intentionally]] restrict [[o/_one|one]]'s productivity as [[e/_employee|employee]]; to work at the slowest rate that [[g/_goes|goes]] unpunished.**
 	- _Example: A surprise inspection of the night shift found that some workers were dogging it._
@@ -47,8 +47,8 @@
 #noun
 - **[[m/_meat|Meat]] from a [[d/_dog|dog]] [[e/_eaten|eaten]] as [[f/_food|food]].**
 	- _Example: We visited South Korea this time around, where we ate dog meat for the first time._
-- **[[m/_meat|Meat]] prepared to be [[g/_given|given]] to a [[d/_dog|dog]] as [[f/_food|food]].**
-- **An [[i/_insult|insult]] [[i/_intended|intended]] to [[a/_assert|assert]] [[h/_hyperbolically|hyperbolically]] that [[a/_another|another]] person [[h/_has|has]] value [[o/_only|only]] as a [[c/_corpse|corpse]] to be [[f/_fed|fed]] to a [[d/_dog|dog]].**
+- **[[m/_meat|Meat]] [[p/_prepared|prepared]] to be [[g/_given|given]] to a [[d/_dog|dog]] as [[f/_food|food]].**
+- **An [[i/_insult|insult]] [[i/_intended|intended]] to [[a/_assert|assert]] [[h/_hyperbolically|hyperbolically]] that [[a/_another|another]] [[p/_person|person]] [[h/_has|has]] value [[o/_only|only]] as a [[c/_corpse|corpse]] to be [[f/_fed|fed]] to a [[d/_dog|dog]].**
 	- _Example: Did you just step on my blue suede shoes? You're dog meat now!_
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Espaliering
 ---
 #verb
-- **To train a plant in this [[m/_manner|manner]].**
+- **To train a [[p/_plant|plant]] in this [[m/_manner|manner]].**
 ---
 ---

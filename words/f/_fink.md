@@ -1,7 +1,7 @@
 # Fink
 ---
 #noun
-- **A [[c/_contemptible|contemptible]] person.**
+- **A [[c/_contemptible|contemptible]] [[p/_person|person]].**
 - **An [[i/_informer|informer]].**
 - **A strikebreaker.**
 ---

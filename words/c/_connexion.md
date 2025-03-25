@@ -2,15 +2,15 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[c/_connecting|connecting]].**
-- **The point at which two or [[m/_more|more]] things are [[c/_connected|connected]].**
+- **The [[p/_point|point]] at which two or [[m/_more|more]] things are [[c/_connected|connected]].**
 	- _Example: My headache has no connection with me going out last night._
-- **A [[f/_feeling|feeling]] of understanding and [[e/_ease|ease]] of [[c/_communication|communication]] [[b/_between|between]] two or [[m/_more|more]] people.**
+- **A [[f/_feeling|feeling]] of understanding and [[e/_ease|ease]] of [[c/_communication|communication]] [[b/_between|between]] two or [[m/_more|more]] [[p/_people|people]].**
 	- _Example: As we were the only people in the room to laugh at the joke, I felt a connection between us._
 - **An [[e/_established|established]] [[c/_communications|communications]] or transportation [[l/_link|link]].**
 	- _Example: I was talking to him, but there was lightning and we lost the connection._
 - **A transfer from [[o/_one|one]] transportation vehicle to [[a/_another|another]] in scheduled transportation service**
 	- _Example: The bus was late so he missed his connection at Penn Station and had to wait six hours for the next train._
-- **A [[k/_kinship|kinship]] relationship [[b/_between|between]] people.**
+- **A [[k/_kinship|kinship]] relationship [[b/_between|between]] [[p/_people|people]].**
 - **An [[i/_individual|individual]] who is related to [[o/_oneself|oneself]], through [[e/_either|either]] [[f/_family|family]] or [[b/_business|business]].**
 	- _Example: I have some connections in Lancashire._
 - **A set of sets that [[c/_contains|contains]] the [[e/_empty|empty]] set, [[a/_all|all]] [[o/_one|one]]-[[e/_element|element]] sets for [[a/_any|any]] [[e/_element|element]] that is [[i/_included|included]] in [[a/_any|any]] of the sets, and the union of [[a/_any|any]] [[g/_group|group]] of sets that are [[e/_elements|elements]] where the [[i/_intersections|intersections]] of those sets is [[n/_non|non]]-[[e/_empty|empty]].**
@@ -19,6 +19,6 @@
 - **Sexual [[i/_intercourse|intercourse]]**
 ---
 #noun
-- **(a) The [[d/_description|description]] for a [[m/_methodist|Methodist]] [[d/_denomination|denomination]] as a whole, as [[o/_opposed|opposed]] to [[i/_its|its]] [[c/_constituent|constituent]] [[c/_churches|churches]], [[c/_circuits|circuits]], [[d/_districts|districts]] and [[c/_conferences|conferences]] (US spelling: [[c/_connection|connection]]). ([[b/_b|b]]) ([[h/_historical|Historical]]) The [[i/_inter|inter]]-relationship of prayer [[g/_groups|groups]] or religious societies under the [[o/_oversight|oversight]] of an [[i/_itinerant|itinerant]] preacher who is [[a/_assisted|assisted]] by the [[l/_local|local]] preachers [[a/_attached|attached]] to [[e/_each|each]] society.**
+- **(a) The [[d/_description|description]] for a [[m/_methodist|Methodist]] [[d/_denomination|denomination]] as a whole, as [[o/_opposed|opposed]] to [[i/_its|its]] [[c/_constituent|constituent]] [[c/_churches|churches]], [[c/_circuits|circuits]], [[d/_districts|districts]] and [[c/_conferences|conferences]] (US spelling: [[c/_connection|connection]]). ([[b/_b|b]]) ([[h/_historical|Historical]]) The [[i/_inter|inter]]-relationship of [[p/_prayer|prayer]] [[g/_groups|groups]] or religious societies under the [[o/_oversight|oversight]] of an [[i/_itinerant|itinerant]] [[p/_preacher|preacher]] who is [[a/_assisted|assisted]] by the [[l/_local|local]] [[p/_preachers|preachers]] [[a/_attached|attached]] to [[e/_each|each]] society.**
 ---
 ---

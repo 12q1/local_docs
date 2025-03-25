@@ -1,11 +1,11 @@
 # Embodies
 ---
 #verb
-- **To represent in a physical or [[c/_concrete|concrete]] [[f/_form|form]]; to [[i/_incarnate|incarnate]] or personify.**
+- **To represent in a [[p/_physical|physical]] or [[c/_concrete|concrete]] [[f/_form|form]]; to [[i/_incarnate|incarnate]] or [[p/_personify|personify]].**
 	- _Example: As the car salesman approached, wearing a plaid suit and slicked-back hair, he seemed to embody sleaze._
 - **To represent in some [[o/_other|other]] [[f/_form|form]], such as a [[c/_code|code]] of [[l/_laws|laws]].**
 	- _Example: The US Constitution aimed to embody the ideals of diverse groups of people, from Puritans to Deists._
-- **To [[c/_comprise|comprise]] or [[i/_include|include]] as part of a [[c/_cohesive|cohesive]] whole; to be [[m/_made|made]] up of.**
+- **To [[c/_comprise|comprise]] or [[i/_include|include]] as [[p/_part|part]] of a [[c/_cohesive|cohesive]] whole; to be [[m/_made|made]] up of.**
 - **To unite in a [[b/_body|body]] or [[m/_mass|mass]].**
 ---
 ### Synonyms

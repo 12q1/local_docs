@@ -1,7 +1,7 @@
 # Face
 ---
 #noun
-- **The [[f/_front|front]] part of the [[h/_head|head]] of a [[h/_human|human]] or [[o/_other|other]] [[a/_animal|animal]], [[f/_featuring|featuring]] the [[e/_eyes|eyes]], [[n/_nose|nose]] and [[m/_mouth|mouth]], and the surrounding [[a/_area|area]].**
+- **The [[f/_front|front]] [[p/_part|part]] of the [[h/_head|head]] of a [[h/_human|human]] or [[o/_other|other]] [[a/_animal|animal]], [[f/_featuring|featuring]] the [[e/_eyes|eyes]], [[n/_nose|nose]] and [[m/_mouth|mouth]], and the surrounding [[a/_area|area]].**
 	- _Example: That girl has a pretty face._
 - **[[o/_one|One]]'s [[f/_facial|facial]] [[e/_expression|expression]].**
 	- _Example: Why the sad face?_
@@ -13,29 +13,29 @@
 	- _Example: The face of the cliff loomed above them._
 - **An [[a/_aspect|aspect]] of the [[c/_character|character]] or [[n/_nature|nature]] of someone or something.**
 	- _Example: Poverty is the ugly face of capitalism._
-- **Presence; sight; [[f/_front|front]].**
+- **[[p/_presence|Presence]]; sight; [[f/_front|front]].**
 	- _Example: to fly in the face of danger_
 - **The [[d/_directed|directed]] [[f/_force|force]] of something.**
 	- _Example: They turned the boat into the face of the storm._
-- **[[g/_good|Good]] reputation; standing in the [[e/_eyes|eyes]] of [[o/_others|others]]; [[d/_dignity|dignity]]; prestige. (See [[l/_lose|lose]] [[f/_face|face]], save [[f/_face|face]]).**
+- **[[g/_good|Good]] reputation; standing in the [[e/_eyes|eyes]] of [[o/_others|others]]; [[d/_dignity|dignity]]; [[p/_prestige|prestige]]. (See [[l/_lose|lose]] [[f/_face|face]], save [[f/_face|face]]).**
 - **Shameless [[c/_confidence|confidence]]; [[b/_boldness|boldness]]; [[e/_effrontery|effrontery]].**
 	- _Example: You've got some face coming round here after what you've done._
 - **[[a/_any|Any]] surface, [[e/_especially|especially]] a [[f/_front|front]] or [[o/_outer|outer]] [[o/_one|one]].**
 	- _Example: Put a big sign on each face of the building that can be seen from the road._
-- **[[a/_any|Any]] of the [[f/_flat|flat]] [[b/_bounding|bounding]] surfaces of a polyhedron. [[m/_more|More]] [[g/_generally|generally]], [[a/_any|any]] of the [[b/_bounding|bounding]] pieces of a polytope of [[a/_any|any]] [[d/_dimension|dimension]].**
+- **[[a/_any|Any]] of the [[f/_flat|flat]] [[b/_bounding|bounding]] surfaces of a [[p/_polyhedron|polyhedron]]. [[m/_more|More]] [[g/_generally|generally]], [[a/_any|any]] of the [[b/_bounding|bounding]] [[p/_pieces|pieces]] of a [[p/_polytope|polytope]] of [[a/_any|any]] [[d/_dimension|dimension]].**
 - **The [[n/_numbered|numbered]] [[d/_dial|dial]] of a [[c/_clock|clock]] or watch, the [[c/_clock|clock]] [[f/_face|face]].**
 - **The [[m/_mouth|mouth]].**
 	- _Example: He's always stuffing his face with chips._
 - **[[m/_makeup|Makeup]]; [[o/_one|one]]'s [[c/_complete|complete]] [[f/_facial|facial]] [[c/_cosmetic|cosmetic]] [[a/_application|application]].**
 	- _Example: I'll be out in a sec. Just let me put on my face._
-- **([[m/_metonymic|metonymic]]) A person.**
+- **([[m/_metonymic|metonymic]]) A [[p/_person|person]].**
 	- _Example: It was just the usual faces at the pub tonight._
-- **A [[f/_familiar|familiar]] or well-[[k/_known|known]] person; a [[m/_member|member]] of a particular scene, such as [[m/_music|music]] or [[f/_fashion|fashion]] scene.**
+- **A [[f/_familiar|familiar]] or well-[[k/_known|known]] [[p/_person|person]]; a [[m/_member|member]] of a [[p/_particular|particular]] scene, such as [[m/_music|music]] or [[f/_fashion|fashion]] scene.**
 	- _Example: He owned several local businesses and was a face around town._
-- **A [[h/_headlining|headlining]] wrestler with a persona [[e/_embodying|embodying]] [[h/_heroic|heroic]] or virtuous traits and who is regarded as a "[[g/_good|good]] [[g/_guy|guy]]", [[e/_especially|especially]] [[o/_one|one]] who is [[h/_handsome|handsome]] and well-[[c/_conditioned|conditioned]]; a [[b/_baby|baby]] [[f/_face|face]].**
+- **A [[h/_headlining|headlining]] wrestler with a [[p/_persona|persona]] [[e/_embodying|embodying]] [[h/_heroic|heroic]] or virtuous traits and who is regarded as a "[[g/_good|good]] [[g/_guy|guy]]", [[e/_especially|especially]] [[o/_one|one]] who is [[h/_handsome|handsome]] and well-[[c/_conditioned|conditioned]]; a [[b/_baby|baby]] [[f/_face|face]].**
 	- _Example: The fans cheered on the face as he made his comeback._
 - **The [[f/_front|front]] surface of a [[b/_bat|bat]].**
-- **The part of a [[g/_golf|golf]] [[c/_club|club]] that [[h/_hits|hits]] the [[b/_ball|ball]].**
+- **The [[p/_part|part]] of a [[g/_golf|golf]] [[c/_club|club]] that [[h/_hits|hits]] the [[b/_ball|ball]].**
 - **The side of the [[c/_card|card]] that shows [[i/_its|its]] value (as [[o/_opposed|opposed]] to the [[b/_back|back]] side, which [[l/_looks|looks]] the same on [[a/_all|all]] [[c/_cards|cards]] of the [[d/_deck|deck]]).**
 - **The [[h/_head|head]] of a [[l/_lion|lion]], shown [[f/_face|face]]-on and [[c/_cut|cut]] [[o/_off|off]] [[i/_immediately|immediately]] [[b/_behind|behind]] the [[e/_ears|ears]].**
 - **The width of a pulley, or the [[l/_length|length]] of a [[c/_cog|cog]] from [[e/_end|end]] to [[e/_end|end]].**
@@ -49,14 +49,14 @@
 ### Antonyms
 - [[h/_heel|heel]]
 #verb
-- **(of a person or [[a/_animal|animal]]) To position [[o/_oneself|oneself]] or [[i/_itself|itself]] so as to [[h/_have|have]] [[o/_one|one]]'s [[f/_face|face]] [[c/_closest|closest]] to (something).**
+- **(of a [[p/_person|person]] or [[a/_animal|animal]]) To [[p/_position|position]] [[o/_oneself|oneself]] or [[i/_itself|itself]] so as to [[h/_have|have]] [[o/_one|one]]'s [[f/_face|face]] [[c/_closest|closest]] to (something).**
 	- _Example: Face the sun._
 - **(of an [[o/_object|object]]) To [[h/_have|have]] [[i/_its|its]] [[f/_front|front]] [[c/_closest|closest]] to, or in the [[d/_direction|direction]] of (something [[e/_else|else]]).**
 	- _Example: Turn the chair so it faces the table._
-- **To [[c/_cause|cause]] (something) to turn or present a [[f/_face|face]] or [[f/_front|front]], as in a particular [[d/_direction|direction]].**
-- **To be presented or [[c/_confronted|confronted]] with; to [[h/_have|have]] in prospect.**
+- **To [[c/_cause|cause]] (something) to turn or [[p/_present|present]] a [[f/_face|face]] or [[f/_front|front]], as in a [[p/_particular|particular]] [[d/_direction|direction]].**
+- **To be [[p/_presented|presented]] or [[c/_confronted|confronted]] with; to [[h/_have|have]] in prospect.**
 	- _Example: We are facing an uncertain future._
-- **To [[d/_deal|deal]] with (a [[d/_difficult|difficult]] situation or person); to [[a/_accept|accept]] ([[f/_facts|facts]], reality, [[e/_etc|etc]].) [[e/_even|even]] when undesirable.**
+- **To [[d/_deal|deal]] with (a [[d/_difficult|difficult]] situation or [[p/_person|person]]); to [[a/_accept|accept]] ([[f/_facts|facts]], reality, [[e/_etc|etc]].) [[e/_even|even]] when undesirable.**
 	- _Example: I'm going to have to face this sooner or later._
 - **To [[h/_have|have]] the [[f/_front|front]] in a [[c/_certain|certain]] [[d/_direction|direction]].**
 	- _Example: The seats in the carriage faced backwards._

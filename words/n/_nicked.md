@@ -16,7 +16,7 @@
 #adjective
 - **[[h/_having|Having]] [[o/_one|one]] or [[m/_more|more]] [[n/_nicks|nicks]]; [[n/_notched|notched]].**
 - **Stolen.**
-- **[[c/_captured|Captured]] (by police); [[a/_arrested|arrested]].**
+- **[[c/_captured|Captured]] (by [[p/_police|police]]); [[a/_arrested|arrested]].**
 ---
 ### Synonyms
 - [[a/_apprehended|apprehended]], [[b/_busted|busted]], [[c/_collared|collared]], [[j/_jagged|jagged]], [[n/_notchy|notchy]], [[l/_lifted|lifted]]

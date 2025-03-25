@@ -1,8 +1,8 @@
 # Diddle
 ---
 #noun
-- **In percussion, two [[c/_consecutive|consecutive]] [[n/_notes|notes]] played by the same [[h/_hand|hand]] ([[e/_either|either]] RR or [[l/_ll|LL]]), similar to the [[d/_drag|drag]], [[e/_except|except]] that by [[c/_convention|convention]] [[d/_diddles|diddles]] are played the same speed as the [[c/_context|context]] in which they are placed.**
-- **The penis.**
+- **In [[p/_percussion|percussion]], two [[c/_consecutive|consecutive]] [[n/_notes|notes]] [[p/_played|played]] by the same [[h/_hand|hand]] ([[e/_either|either]] RR or [[l/_ll|LL]]), similar to the [[d/_drag|drag]], [[e/_except|except]] that by [[c/_convention|convention]] [[d/_diddles|diddles]] are [[p/_played|played]] the same speed as the [[c/_context|context]] in which they are [[p/_placed|placed]].**
+- **The [[p/_penis|penis]].**
 ---
 #verb
 - **To [[c/_cheat|cheat]]; to swindle.**

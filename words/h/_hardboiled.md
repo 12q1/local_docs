@@ -5,7 +5,7 @@
 ---
 #adjective
 - **(of a [[b/_boiled|boiled]] [[e/_egg|egg]]) [[c/_cooked|Cooked]] to a solid [[c/_consistency|consistency]].**
-- **(of a person, [[e/_especially|especially]] of a [[d/_detective|detective]]) [[c/_callous|Callous]] and unsentimental.**
+- **(of a [[p/_person|person]], [[e/_especially|especially]] of a [[d/_detective|detective]]) [[c/_callous|Callous]] and unsentimental.**
 - **Written in a [[l/_laconic|laconic]], [[d/_dispassionate|dispassionate]], [[o/_often|often]] [[i/_ironic|ironic]] style for a realistic, unsentimental [[e/_effect|effect]] ([[c/_characterizes|characterizes]] [[h/_hard|hard]]-[[b/_boiled|boiled]] [[f/_fiction|fiction]], a subgenre of [[d/_detective|detective]] [[f/_fiction|fiction]])**
 ---
 ---

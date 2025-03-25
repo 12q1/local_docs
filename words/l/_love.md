@@ -2,7 +2,7 @@
 ---
 #noun
 - **Strong [[a/_affection|affection]].**
-- **A person who is the [[o/_object|object]] of romantic [[f/_feelings|feelings]]; a [[d/_darling|darling]], a sweetheart, a [[b/_beloved|beloved]].**
+- **A [[p/_person|person]] who is the [[o/_object|object]] of romantic [[f/_feelings|feelings]]; a [[d/_darling|darling]], a sweetheart, a [[b/_beloved|beloved]].**
 - **A term of [[f/_friendly|friendly]] [[a/_address|address]], regardless of [[f/_feelings|feelings]].**
 	- _Example: Hello love, how can I help you?_
 - **A thing, [[a/_activity|activity]] [[e/_etc|etc]] which is the [[o/_object|object]] of [[o/_one|one]]'s [[d/_deep|deep]] [[l/_liking|liking]] or [[e/_enthusiasm|enthusiasm]].**
@@ -12,7 +12,7 @@
 - **Used as the [[c/_closing|closing]], [[b/_before|before]] the signature, of a [[l/_letter|letter]], [[e/_especially|especially]] [[b/_between|between]] [[g/_good|good]] [[f/_friends|friends]] or [[f/_family|family]] [[m/_members|members]], or by the [[y/_young|young]].**
 - **[[a/_alternative|Alternative]] [[l/_letter|letter]]-[[c/_case|case]] [[f/_form|form]] of [[l/_love|Love]].**
 - **A thin silk [[m/_material|material]].**
-- **A [[c/_climbing|climbing]] plant, [[c/_clematis|Clematis]] vitalba.**
+- **A [[c/_climbing|climbing]] [[p/_plant|plant]], [[c/_clematis|Clematis]] vitalba.**
 ---
 ### Synonyms
 - [[b/_baby|baby]], [[d/_darling|darling]], [[h/_honey|honey]], [[l/_lover|lover]], [[p/_pet|pet]], [[s/_sweetheart|sweetheart]], [[r/_romance|romance]], [[c/_coitus|coitus]], [[s/_sex|sex]], [[a/_aphrodisia|aphrodisia]], [[c/_carnality|carnality]], [[d/_darling|darling]], [[l/_lover|lover]], [[m/_mate|mate]], [[s/_sweetheart|sweetheart]], [[s/_sweetie|sweetie]]
@@ -28,7 +28,7 @@
 - **(usually transitive, sometimes [[i/_intransitive|intransitive]]) To [[c/_care|care]] [[d/_deeply|deeply]] [[a/_about|about]], to be [[d/_dedicated|dedicated]] to (someone or something).**
 - **To [[d/_derive|derive]] [[d/_delight|delight]] from a [[f/_fact|fact]] or situation.**
 	- _Example: I love the fact that the coffee shop now offers fat-free chai latte._
-- **To [[h/_have|have]] sex with (perhaps from [[m/_make|make]] [[l/_love|love]]).**
+- **To [[h/_have|have]] sex with ([[p/_perhaps|perhaps]] from [[m/_make|make]] [[l/_love|love]]).**
 	- _Example: I wish I could love her all night long._
 ---
 ### Synonyms

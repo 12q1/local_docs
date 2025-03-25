@@ -11,6 +11,6 @@
 - [[c/_cluster|cluster]], [[g/_group|group]]
 #noun
 - **An [[a/_arrangement|arrangement]] of [[i/_items|items]] in a [[b/_bunch|bunch]].**
-- **The [[i/_illegitimate|illegitimate]] supplying of [[l/_laboratory|laboratory]] [[a/_animals|animals]] that are [[a/_actually|actually]] [[k/_kidnapped|kidnapped]] pets or [[i/_illegally|illegally]] trapped strays.**
+- **The [[i/_illegitimate|illegitimate]] supplying of [[l/_laboratory|laboratory]] [[a/_animals|animals]] that are [[a/_actually|actually]] [[k/_kidnapped|kidnapped]] [[p/_pets|pets]] or [[i/_illegally|illegally]] trapped strays.**
 ---
 ---

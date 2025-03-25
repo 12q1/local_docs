@@ -1,0 +1,7 @@
+# Pauper
+---
+#noun
+- **[[o/_one|One]] who is [[e/_extremely|extremely]] [[p/_poor|poor]].**
+- **[[o/_one|One]] [[l/_living|living]] on or [[e/_eligible|eligible]] for public [[c/_charity|charity]].**
+---
+---

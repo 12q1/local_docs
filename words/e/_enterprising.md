@@ -2,7 +2,7 @@
 ---
 #verb
 - **To undertake an [[e/_enterprise|enterprise]], or something [[h/_hazardous|hazardous]] or [[d/_difficult|difficult]].**
-- **To undertake; to [[b/_begin|begin]] and [[a/_attempt|attempt]] to perform; to venture upon.**
+- **To undertake; to [[b/_begin|begin]] and [[a/_attempt|attempt]] to [[p/_perform|perform]]; to venture upon.**
 - **To treat with [[h/_hospitality|hospitality]]; to [[e/_entertain|entertain]].**
 ---
 #noun

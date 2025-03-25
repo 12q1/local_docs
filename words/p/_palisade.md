@@ -7,6 +7,6 @@
 - **An [[e/_even|even]] row of [[c/_cells|cells]]. [[e/_e|e]].[[g/_g|g]].: [[p/_palisade|palisade]] [[m/_mesophyll|mesophyll]] [[c/_cells|cells]].**
 ---
 #verb
-- **(usually in the passive) To [[e/_equip|equip]] with a [[p/_palisade|palisade]].**
+- **(usually in the [[p/_passive|passive]]) To [[e/_equip|equip]] with a [[p/_palisade|palisade]].**
 ---
 ---

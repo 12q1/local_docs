@@ -1,6 +1,6 @@
 # Nucleolar
 ---
 #adjective
-- **Of or pertaining to the [[n/_nucleolus|nucleolus]]**
+- **Of or [[p/_pertaining|pertaining]] to the [[n/_nucleolus|nucleolus]]**
 ---
 ---

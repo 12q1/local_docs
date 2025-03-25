@@ -6,11 +6,11 @@
 - **To [[i/_internalize|internalize]].**
 ---
 #verb
-- **To work as an [[i/_intern|intern]]. Usually with [[l/_little|little]] or [[n/_no|no]] [[p/_pay|pay]] or [[o/_other|other]] [[l/_legal|legal]] prerogatives of [[e/_employment|employment]], for the purpose of [[f/_furthering|furthering]] a program of [[e/_education|education]].**
+- **To work as an [[i/_intern|intern]]. Usually with [[l/_little|little]] or [[n/_no|no]] [[p/_pay|pay]] or [[o/_other|other]] [[l/_legal|legal]] [[p/_prerogatives|prerogatives]] of [[e/_employment|employment]], for the purpose of [[f/_furthering|furthering]] a program of [[e/_education|education]].**
 	- _Example: I'll be interning at Universal Studios this summer._
 ---
 #noun
-- **Practice of [[a/_always|always]] using references [[i/_instead|instead]] of [[c/_copies|copies]] of [[e/_equal|equal]] [[o/_objects|objects]].**
+- **[[p/_practice|Practice]] of [[a/_always|always]] using references [[i/_instead|instead]] of [[c/_copies|copies]] of [[e/_equal|equal]] [[o/_objects|objects]].**
 	- _Example: In computer programming, the practice of using always references in place of copies of equal objects is known as interning._
 ---
 ---

@@ -10,7 +10,7 @@
 - **A text [[a/_adventure|adventure]] or an [[a/_adventure|adventure]] [[g/_game|game]].**
 - **That which [[h/_happens|happens]] by [[c/_chance|chance]]; [[h/_hazard|hazard]]; [[h/_hap|hap]].**
 - **[[c/_chance|Chance]] of [[d/_danger|danger]] or [[l/_loss|loss]].**
-- **Risk; [[d/_danger|danger]]; peril.**
+- **Risk; [[d/_danger|danger]]; [[p/_peril|peril]].**
 ---
 ### Synonyms
 - [[h/_hazard|hazard]], [[j/_jeopardy|jeopardy]], [[f/_fortune|fortune]], [[h/_hazard|hazard]], [[l/_luck|luck]]

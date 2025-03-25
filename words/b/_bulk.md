@@ -3,13 +3,13 @@
 #noun
 - **Size, specifically, volume.**
 - **[[a/_any|Any]] [[h/_huge|huge]] [[b/_body|body]] or structure.**
-- **The [[m/_major|major]] part of something.**
+- **The [[m/_major|major]] [[p/_part|part]] of something.**
 	- _Example: I understood the bulk of what you were saying, just one of two points I need to hear again._
 - **[[d/_dietary|Dietary]] [[f/_fibre|fibre]].**
 - **Unpackaged [[g/_goods|goods]] when transported in [[l/_large|large]] volumes, [[e/_e|e]].[[g/_g|g]]. [[c/_coal|coal]], [[o/_ore|ore]] or [[g/_grain|grain]].**
 - **A [[c/_cargo|cargo]] or [[a/_any|any]] [[i/_items|items]] [[m/_moved|moved]] or [[c/_communicated|communicated]] in the [[m/_manner|manner]] of [[c/_cargo|cargo]].**
 - **[[e/_excess|Excess]] [[b/_body|body]] [[m/_mass|mass]], [[e/_especially|especially]] [[m/_muscle|muscle]].**
-- **A period where [[o/_one|one]] tries to [[g/_gain|gain]] [[m/_muscle|muscle]].**
+- **A [[p/_period|period]] where [[o/_one|one]] tries to [[g/_gain|gain]] [[m/_muscle|muscle]].**
 - **(brane [[c/_cosmology|cosmology]]) A [[h/_hypothetical|hypothetical]] [[h/_higher|higher]]-[[d/_dimensional|dimensional]] space within which [[o/_our|our]] [[o/_own|own]] [[f/_four|four]]-[[d/_dimensional|dimensional]] universe [[m/_may|may]] [[e/_exist|exist]].**
 - **The [[b/_body|body]].**
 ---

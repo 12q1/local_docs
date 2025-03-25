@@ -5,6 +5,6 @@
 - **[[f/_free|Free]] of [[a/_artificiality|artificiality]]; [[n/_natural|natural]].**
 	- _Example: This pendant has artless charm._
 - **[[l/_lacking|Lacking]] [[a/_art|art]], [[k/_knowledge|knowledge]], or skill; uncultured and [[i/_ignorant|ignorant]].**
-- **Poorly [[m/_made|made]] or [[d/_done|done]]; [[c/_crude|crude]].**
+- **[[p/_poorly|Poorly]] [[m/_made|made]] or [[d/_done|done]]; [[c/_crude|crude]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Eschatological
 ---
 #adjective
-- **Pertaining to [[e/_eschatology|eschatology]].**
+- **[[p/_pertaining|Pertaining]] to [[e/_eschatology|eschatology]].**
 ---
 ---

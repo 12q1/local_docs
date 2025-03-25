@@ -1,10 +1,10 @@
 # Coordinate
 ---
 #noun
-- **A [[n/_number|number]] representing the position of a point [[a/_along|along]] a [[l/_line|line]], [[a/_arc|arc]], or similar [[o/_one|one]]-[[d/_dimensional|dimensional]] [[f/_figure|figure]].**
+- **A [[n/_number|number]] representing the [[p/_position|position]] of a [[p/_point|point]] [[a/_along|along]] a [[l/_line|line]], [[a/_arc|arc]], or similar [[o/_one|one]]-[[d/_dimensional|dimensional]] [[f/_figure|figure]].**
 	- _Example: Give me your coordinates and we'll come and rescue you._
 - **Something that is [[e/_equal|equal]] to [[a/_another|another]] thing.**
-- **(in the plural) [[c/_coordinated|Coordinated]] [[c/_clothes|clothes]].**
+- **(in the [[p/_plural|plural]]) [[c/_coordinated|Coordinated]] [[c/_clothes|clothes]].**
 ---
 #verb
 - **To synchronize ([[a/_activities|activities]]).**

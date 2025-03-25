@@ -7,7 +7,7 @@
 - **To [[h/_honor|honor]] as [[h/_holy|holy]], [[g/_glorify|glorify]]; to [[e/_extol|extol]] for [[e/_excellence|excellence]].**
 - **To [[e/_esteem|esteem]] or [[a/_account|account]] [[h/_happy|happy]]; to [[f/_felicitate|felicitate]].**
 - **To wave; to [[b/_brandish|brandish]].**
-- **(past tense [[o/_only|only]] [[b/_blessed|blessed]]) To turn (a reference) [[i/_into|into]] an [[o/_object|object]].**
+- **([[p/_past|past]] tense [[o/_only|only]] [[b/_blessed|blessed]]) To turn (a reference) [[i/_into|into]] an [[o/_object|object]].**
 - **(with from) To secure, [[d/_defend|defend]], or prevent from.**
 ---
 ### Antonyms
@@ -21,7 +21,7 @@
 	- _Example: We will not proceed without the executive director's blessing._
 - **Something someone is [[g/_glad|glad]] of.**
 	- _Example: After two weeks of sun, last night's rainfall was a blessing._
-- **A prayer [[b/_before|before]] a [[m/_meal|meal]]; [[g/_grace|grace]].**
+- **A [[p/_prayer|prayer]] [[b/_before|before]] a [[m/_meal|meal]]; [[g/_grace|grace]].**
 - **A [[g/_group|group]] of unicorns.**
 ---
 ### Antonyms

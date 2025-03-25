@@ -1,6 +1,6 @@
 # Ethnarch
 ---
 #noun
-- **The [[g/_governor|governor]] of a province or people.**
+- **The [[g/_governor|governor]] of a province or [[p/_people|people]].**
 ---
 ---

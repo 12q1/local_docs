@@ -4,13 +4,13 @@
 - **A [[l/_light|light]], [[b/_brisk|brisk]] [[m/_musical|musical]] [[m/_movement|movement]]; a [[g/_gigue|gigue]].**
 - **A [[l/_lively|lively]] [[d/_dance|dance]] in 6/8 ([[d/_double|double]] [[j/_jig|jig]]), 9/8 (slip [[j/_jig|jig]]) or 12/8 (single [[j/_jig|jig]]) time; a tune suitable for such a [[d/_dance|dance]]. By [[e/_extension|extension]], a [[l/_lively|lively]] traditional tune in [[a/_any|any]] of these time signatures. Unqualified, the term is usually taken to refer to a [[d/_double|double]] (6/8) [[j/_jig|jig]].**
 	- _Example: They danced a jig._
-- **(traditional [[e/_english|English]] [[m/_morris|Morris]] [[d/_dancing|dancing]]) A [[d/_dance|dance]] performed by [[o/_one|one]] or sometimes two [[i/_individual|individual]] [[d/_dancers|dancers]], as [[o/_opposed|opposed]] to a [[d/_dance|dance]] performed by a set or team.**
+- **(traditional [[e/_english|English]] [[m/_morris|Morris]] [[d/_dancing|dancing]]) A [[d/_dance|dance]] [[p/_performed|performed]] by [[o/_one|one]] or sometimes two [[i/_individual|individual]] [[d/_dancers|dancers]], as [[o/_opposed|opposed]] to a [[d/_dance|dance]] [[p/_performed|performed]] by a set or team.**
 - **A type of [[l/_lure|lure]] [[c/_consisting|consisting]] of a [[h/_hook|hook]] [[m/_molded|molded]] [[i/_into|into]] a weight, usually with a [[b/_bright|bright]] or [[c/_colorful|colorful]] [[b/_body|body]].**
-- **A [[d/_device|device]] in [[m/_manufacturing|manufacturing]], woodworking, or [[o/_other|other]] [[c/_creative|creative]] [[e/_endeavors|endeavors]] for [[c/_controlling|controlling]] the [[l/_location|location]], path of [[m/_movement|movement]], or [[b/_both|both]] of [[e/_either|either]] a workpiece or the tool that is [[o/_operating|operating]] upon it. Subsets of this [[g/_general|general]] [[c/_class|class]] [[i/_include|include]] [[m/_machining|machining]] [[j/_jigs|jigs]], woodworking [[j/_jigs|jigs]], welders' [[j/_jigs|jigs]], [[j/_jewelers|jewelers]]' [[j/_jigs|jigs]], and [[m/_many|many]] [[o/_others|others]].**
+- **A [[d/_device|device]] in [[m/_manufacturing|manufacturing]], woodworking, or [[o/_other|other]] [[c/_creative|creative]] [[e/_endeavors|endeavors]] for [[c/_controlling|controlling]] the [[l/_location|location]], [[p/_path|path]] of [[m/_movement|movement]], or [[b/_both|both]] of [[e/_either|either]] a workpiece or the tool that is [[o/_operating|operating]] upon it. Subsets of this [[g/_general|general]] [[c/_class|class]] [[i/_include|include]] [[m/_machining|machining]] [[j/_jigs|jigs]], woodworking [[j/_jigs|jigs]], welders' [[j/_jigs|jigs]], [[j/_jewelers|jewelers]]' [[j/_jigs|jigs]], and [[m/_many|many]] [[o/_others|others]].**
 	- _Example: Cutting circles out of pinewood is best done with a compass-style jig._
 - **An [[a/_apparatus|apparatus]] or [[m/_machine|machine]] for [[j/_jigging|jigging]] [[o/_ore|ore]].**
-- **A [[l/_light|light]], [[h/_humorous|humorous]] piece of writing, [[e/_especially|especially]] in rhyme; a [[f/_farce|farce]] in verse; a [[b/_ballad|ballad]].**
-- **A trick; a prank.**
+- **A [[l/_light|light]], [[h/_humorous|humorous]] [[p/_piece|piece]] of writing, [[e/_especially|especially]] in rhyme; a [[f/_farce|farce]] in verse; a [[b/_ballad|ballad]].**
+- **A trick; a [[p/_prank|prank]].**
 ---
 #verb
 - **To [[m/_move|move]] [[b/_briskly|briskly]], [[e/_especially|especially]] as a [[d/_dance|dance]].**
@@ -20,6 +20,6 @@
 - **To sing to the tune of a [[j/_jig|jig]].**
 - **To trick or [[c/_cheat|cheat]]; to [[c/_cajole|cajole]]; to [[d/_delude|delude]].**
 - **To sort or separate, as [[o/_ore|ore]] in a [[j/_jigger|jigger]] or sieve.**
-- **To [[c/_cut|cut]] or [[f/_form|form]], as a piece of [[m/_metal|metal]], in a [[j/_jigging|jigging]] [[m/_machine|machine]].**
+- **To [[c/_cut|cut]] or [[f/_form|form]], as a [[p/_piece|piece]] of [[m/_metal|metal]], in a [[j/_jigging|jigging]] [[m/_machine|machine]].**
 ---
 ---

@@ -15,6 +15,6 @@
 ### Antonyms
 - [[e/_efficient|efficient]], [[p/_perfect|perfect]], [[c/_cool|cool]], [[f/_funny|funny]], [[i/_interesting|interesting]], [[r/_relevant|relevant]], [[b/_believable|believable]], [[c/_convincing|convincing]]
 #noun
-- **A person [[l/_lacking|lacking]] in [[m/_maturity|maturity]], social skills, technical [[c/_competence|competence]] or [[i/_intelligence|intelligence]]**
+- **A [[p/_person|person]] [[l/_lacking|lacking]] in [[m/_maturity|maturity]], social skills, technical [[c/_competence|competence]] or [[i/_intelligence|intelligence]]**
 ---
 ---

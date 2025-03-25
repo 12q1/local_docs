@@ -1,6 +1,6 @@
 # Oscular
 ---
 #adjective
-- **Of or pertaining to the [[m/_mouth|mouth]].**
+- **Of or [[p/_pertaining|pertaining]] to the [[m/_mouth|mouth]].**
 ---
 ---

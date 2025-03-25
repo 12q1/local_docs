@@ -1,7 +1,7 @@
 # Gerontic
 ---
 #adjective
-- **Of or pertaining to [[o/_old|old]] [[a/_age|age]] or the [[e/_elderly|elderly]].**
-- **Of or pertaining to senescent [[a/_animals|animals]] or plants.**
+- **Of or [[p/_pertaining|pertaining]] to [[o/_old|old]] [[a/_age|age]] or the [[e/_elderly|elderly]].**
+- **Of or [[p/_pertaining|pertaining]] to senescent [[a/_animals|animals]] or [[p/_plants|plants]].**
 ---
 ---

@@ -3,12 +3,12 @@
 #noun
 - **An [[i/_inclination|inclination]] or talent.**
 	- _Example: He had a natural bent for painting._
-- **A predisposition to [[a/_act|act]] or react in a particular way.**
+- **A [[p/_predisposition|predisposition]] to [[a/_act|act]] or react in a [[p/_particular|particular]] way.**
 	- _Example: His mind was of a technical bent._
 - **The state of [[b/_being|being]] [[c/_curved|curved]], [[c/_crooked|crooked]], or [[i/_inclined|inclined]] from a straight [[l/_line|line]]; [[f/_flexure|flexure]]; [[c/_curvity|curvity]].**
 	- _Example: the bent of a bow_
 - **A [[d/_declivity|declivity]] or slope, as of a [[h/_hill|hill]].**
-- **Particular [[d/_direction|direction]] or tendency; [[f/_flexion|flexion]]; [[c/_course|course]].**
+- **[[p/_particular|Particular]] [[d/_direction|direction]] or tendency; [[f/_flexion|flexion]]; [[c/_course|course]].**
 - **A transverse [[f/_frame|frame]] of a [[f/_framed|framed]] structure; a subunit of [[f/_framing|framing]].**
 - **Tension; [[f/_force|force]] of [[a/_acting|acting]]; [[e/_energy|energy]]; [[i/_impetus|impetus]].**
 ---

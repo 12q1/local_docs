@@ -8,7 +8,7 @@
 - **[[o/_one|One]] who [[b/_boards|boards]] a vehicle.**
 - **A sailor [[a/_attacking|attacking]] an [[e/_enemy|enemy]] ship by [[b/_boarding|boarding]] [[h/_her|her]], or [[o/_one|one]] repelling such [[a/_attempts|attempts]] by an [[e/_enemy|enemy]].**
 	- _Example: The captain shouted at the crew to grab arms and repel boarders._
-- **Someone who takes part in a boardsport, such as surfing or snowboarding.**
+- **Someone who takes [[p/_part|part]] in a boardsport, such as surfing or snowboarding.**
 	- _Example: A group of boarders swept past us as we climbed the side of the ski run._
 ---
 ---

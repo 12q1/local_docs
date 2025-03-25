@@ -5,8 +5,8 @@
 	- _Example: trial by battel; wager of battel_
 ---
 #noun
-- **([[o/_oxford|Oxford]] University, [[c/_chiefly|chiefly]] in the plural) [[f/_fees|Fees]] [[c/_charged|charged]] by a [[c/_college|college]] for [[a/_accommodation|accommodation]] and [[l/_living|living]] [[e/_expenses|expenses]].**
-- **([[o/_oxford|Oxford]] University, [[c/_chiefly|chiefly]] in the plural) Provisions [[o/_ordered|ordered]] from the [[k/_kitchen|kitchen]] and [[b/_buttery|buttery]].**
+- **([[o/_oxford|Oxford]] University, [[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) [[f/_fees|Fees]] [[c/_charged|charged]] by a [[c/_college|college]] for [[a/_accommodation|accommodation]] and [[l/_living|living]] [[e/_expenses|expenses]].**
+- **([[o/_oxford|Oxford]] University, [[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) Provisions [[o/_ordered|ordered]] from the [[k/_kitchen|kitchen]] and [[b/_buttery|buttery]].**
 - **([[e/_eton|Eton]] [[c/_college|College]]) A small [[a/_allowance|allowance]] of [[f/_food|food]] [[c/_collegers|collegers]] receive from their [[d/_dames|dames]] ([[m/_matrons|matrons]]) in [[a/_addition|addition]] to their [[c/_college|college]] [[a/_allowance|allowance]]**
 ---
 #noun

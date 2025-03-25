@@ -1,13 +1,13 @@
 # Capitalist
 ---
 #noun
-- **A person who is a supporter of [[c/_capitalism|capitalism]].**
-- **The [[o/_owner|owner]] of a [[c/_considerable|considerable]] [[a/_amount|amount]] of [[c/_capital|capital]]; a wealthy person.**
+- **A [[p/_person|person]] who is a supporter of [[c/_capitalism|capitalism]].**
+- **The [[o/_owner|owner]] of a [[c/_considerable|considerable]] [[a/_amount|amount]] of [[c/_capital|capital]]; a wealthy [[p/_person|person]].**
 ---
 ### Synonyms
 - [[b/_businessman|businessman]], [[f/_financier|financier]], [[m/_magnate|magnate]], [[t/_tycoon|tycoon]], [[l/_liberal|liberal]]
 #adjective
-- **Of, or pertaining to, [[c/_capitalism|capitalism]].**
+- **Of, or [[p/_pertaining|pertaining]] to, [[c/_capitalism|capitalism]].**
 	- _Example: capitalist countries_
 - **Supporting or [[e/_endorsing|endorsing]] [[c/_capitalism|capitalism]].**
 	- _Example: capitalist warriors_

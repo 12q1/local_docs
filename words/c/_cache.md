@@ -7,6 +7,6 @@
 - **(geocaching) A [[c/_container|container]] [[c/_containing|containing]] treasure in a [[g/_global|global]] treasure-[[h/_hunt|hunt]] [[g/_game|game]].**
 ---
 #verb
-- **To place in a [[c/_cache|cache]].**
+- **To [[p/_place|place]] in a [[c/_cache|cache]].**
 ---
 ---

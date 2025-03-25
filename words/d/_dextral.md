@@ -1,7 +1,7 @@
 # Dextral
 ---
 #adjective
-- **Of or pertaining to the right side**
+- **Of or [[p/_pertaining|pertaining]] to the right side**
 ---
 ### Antonyms
 - [[s/_sinistral|sinistral]]

@@ -1,8 +1,8 @@
 # Jargon
 ---
 #noun
-- **A technical terminology unique to a particular subject.**
-- **[[l/_language|Language]] [[c/_characteristic|characteristic]] of a particular [[g/_group|group]].**
+- **A technical terminology unique to a [[p/_particular|particular]] subject.**
+- **[[l/_language|Language]] [[c/_characteristic|characteristic]] of a [[p/_particular|particular]] [[g/_group|group]].**
 - **Speech or [[l/_language|language]] that is [[i/_incomprehensible|incomprehensible]] or unintelligible; [[g/_gibberish|gibberish]].**
 ---
 ### Synonyms

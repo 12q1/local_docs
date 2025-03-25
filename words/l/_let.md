@@ -1,7 +1,7 @@
 # Let
 ---
 #noun
-- **The [[a/_allowing|allowing]] of possession of a property [[e/_etc|etc]]. in [[e/_exchange|exchange]] for rent.**
+- **The [[a/_allowing|allowing]] of [[p/_possession|possession]] of a property [[e/_etc|etc]]. in [[e/_exchange|exchange]] for rent.**
 ---
 #verb
 - **To [[a/_allow|allow]] to, not to prevent (+ [[i/_infinitive|infinitive]], but usually without to).**
@@ -10,11 +10,11 @@
 	- _Example: Let me alone!_
 - **To [[a/_allow|allow]] the release of (a [[f/_fluid|fluid]]).**
 	- _Example: The physicians let about a pint of his blood, but to no avail._
-- **To [[a/_allow|allow]] possession of (a property [[e/_etc|etc]].) in [[e/_exchange|exchange]] for rent.**
+- **To [[a/_allow|allow]] [[p/_possession|possession]] of (a property [[e/_etc|etc]].) in [[e/_exchange|exchange]] for rent.**
 	- _Example: I decided to let the farmhouse to a couple while I was working abroad._
 - **To [[g/_give|give]], [[g/_grant|grant]], or [[a/_assign|assign]], as a work, privilege, or [[c/_contract|contract]]; [[o/_often|often]] with [[o/_out|out]].**
 	- _Example: to let the building of a bridge;  to let out the lathing and the plastering_
-- **Used to [[i/_introduce|introduce]] an [[i/_imperative|imperative]] in the [[f/_first|first]] or third person.**
+- **Used to [[i/_introduce|introduce]] an [[i/_imperative|imperative]] in the [[f/_first|first]] or third [[p/_person|person]].**
 	- _Example: Let P be the point where AB and OX intersect._
 - **To [[c/_cause|cause]] (+ [[b/_bare|bare]] [[i/_infinitive|infinitive]]).**
 	- _Example: Can you let me know what time you'll be arriving?_

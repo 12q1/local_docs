@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[d/_dish|dish]] [[m/_made|made]] from stuffed [[i/_intestine|intestine]].**
-- **([[o/_often|often]] in the plural) [[i/_intestines|Intestines]], [[g/_guts|guts]].**
+- **([[o/_often|often]] in the [[p/_plural|plural]]) [[i/_intestines|Intestines]], [[g/_guts|guts]].**
 	- _Example: Oy a broch! I was so worried! I knew something was wrong. In my kishkes, I could feel it!_
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Fusionist
 ---
 #noun
-- **An [[a/_adherent|adherent]] of [[f/_fusionism|fusionism]] or a participant in a political [[f/_fusion|fusion]].**
+- **An [[a/_adherent|adherent]] of [[f/_fusionism|fusionism]] or a [[p/_participant|participant]] in a [[p/_political|political]] [[f/_fusion|fusion]].**
 ---
 ---

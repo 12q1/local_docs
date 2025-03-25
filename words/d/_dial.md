@@ -6,7 +6,7 @@
 - **A sundial.**
 - **A [[p/_panel|panel]] on a radio [[e/_etc|etc]] showing wavelengths or [[c/_channels|channels]]; a [[k/_knob|knob]] that is turned to [[c/_change|change]] the wavelength [[e/_etc|etc]].**
 - **A [[d/_disk|disk]] with [[f/_finger|finger]] [[h/_holes|holes]] on a telephone; used to select the [[n/_number|number]] to be [[c/_called|called]].**
-- **A person's [[f/_face|face]].**
+- **A [[p/_person|person]]'s [[f/_face|face]].**
 - **A [[m/_miner|miner]]'s [[c/_compass|compass]].**
 ---
 #verb

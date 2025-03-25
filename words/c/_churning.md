@@ -12,6 +12,6 @@
 ---
 #noun
 - **The [[a/_act|act]] by which something is [[c/_churned|churned]].**
-- **The quantity of [[b/_butter|butter]] prepared (by [[c/_churning|churning]]) at [[o/_one|one]] time.**
+- **The quantity of [[b/_butter|butter]] [[p/_prepared|prepared]] (by [[c/_churning|churning]]) at [[o/_one|one]] time.**
 ---
 ---

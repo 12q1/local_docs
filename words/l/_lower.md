@@ -1,7 +1,7 @@
 # Lower
 ---
 #adjective
-- **Situated [[c/_close|close]] to, or [[e/_even|even]] [[b/_below|below]], the [[g/_ground|ground]] or [[a/_another|another]] [[n/_normal|normal]] reference plane; not [[h/_high|high]] or [[l/_lofty|lofty]].**
+- **Situated [[c/_close|close]] to, or [[e/_even|even]] [[b/_below|below]], the [[g/_ground|ground]] or [[a/_another|another]] [[n/_normal|normal]] reference [[p/_plane|plane]]; not [[h/_high|high]] or [[l/_lofty|lofty]].**
 	- _Example: a low wall  a low shelf_
 - **Of [[l/_less|less]] than [[n/_normal|normal]] [[h/_height|height]]; [[b/_below|below]] the [[a/_average|average]] or [[n/_normal|normal]] [[l/_level|level]] from which [[e/_elevation|elevation]] is [[m/_measured|measured]].**
 	- _Example: a low bow_
@@ -18,18 +18,18 @@
 	- _Example: a low pulse_
 - **Small, not [[h/_high|high]] (in [[a/_amount|amount]] or quantity, value, [[f/_force|force]], [[e/_energy|energy]], [[e/_etc|etc]]).**
 	- _Example: My credit union charges a low interest rate.   Jogging during a whiteout, with such low temperatures and low visibility, is dangerous.   The store sold bread at low prices, and milk at even lower prices.   The contractors gave a low estimate of the costs.   low cholesterol   a low voltage wire   a low number_
-- **Simple in [[c/_complexity|complexity]] or [[d/_development|development]]; (in several set phrases) [[f/_favoring|favoring]] simplicity; (see [[e/_e|e]].[[g/_g|g]]. [[l/_low|low]] [[c/_church|church]], [[l/_low|Low]] Tory).**
+- **Simple in [[c/_complexity|complexity]] or [[d/_development|development]]; (in several set [[p/_phrases|phrases]]) [[f/_favoring|favoring]] simplicity; (see [[e/_e|e]].[[g/_g|g]]. [[l/_low|low]] [[c/_church|church]], [[l/_low|Low]] Tory).**
 	- _Example: low protozoan animals, low cryptogamic plants, and other low organisms_
-- **(in several set phrases) [[b/_being|Being]] [[n/_near|near]] the [[e/_equator|equator]].**
+- **(in several set [[p/_phrases|phrases]]) [[b/_being|Being]] [[n/_near|near]] the [[e/_equator|equator]].**
 	- _Example: the low northern latitudes_
-- **([[a/_acoustics|acoustics]]) [[g/_grave|Grave]] in pitch, [[d/_due|due]] to [[b/_being|being]] produced by relatively slow vibrations (wave [[o/_oscillations|oscillations]]); [[f/_flat|flat]].**
+- **([[a/_acoustics|acoustics]]) [[g/_grave|Grave]] in [[p/_pitch|pitch]], [[d/_due|due]] to [[b/_being|being]] produced by relatively slow vibrations (wave [[o/_oscillations|oscillations]]); [[f/_flat|flat]].**
 	- _Example: Generally, European men have lower voices than their Indian counterparts._
 - **Quiet; soft; not [[l/_loud|loud]].**
 	- _Example: They spoke in low voices so I would not hear what they were saying._
-- **[[m/_made|Made]] with a relatively [[l/_large|large]] [[o/_opening|opening]] [[b/_between|between]] the tongue and the [[p/_palate|palate]]; [[m/_made|made]] with (part of) the tongue positioned [[l/_low|low]] in the [[m/_mouth|mouth]], relative to the [[p/_palate|palate]].**
+- **[[m/_made|Made]] with a relatively [[l/_large|large]] [[o/_opening|opening]] [[b/_between|between]] the tongue and the [[p/_palate|palate]]; [[m/_made|made]] with ([[p/_part|part]] of) the tongue [[p/_positioned|positioned]] [[l/_low|low]] in the [[m/_mouth|mouth]], relative to the [[p/_palate|palate]].**
 - **[[l/_lesser|Lesser]] in value than [[o/_other|other]] [[c/_cards|cards]], [[d/_denominations|denominations]], suits, [[e/_etc|etc]].**
 	- _Example: a low card_
-- **Not rich or seasoned; [[o/_offering|offering]] the [[m/_minimum|minimum]] of [[n/_nutritional|nutritional]] requirements; plain, simple.**
+- **Not rich or seasoned; [[o/_offering|offering]] the [[m/_minimum|minimum]] of [[n/_nutritional|nutritional]] requirements; [[p/_plain|plain]], simple.**
 - **(of an [[a/_automobile|automobile]], [[g/_gear|gear]], [[e/_etc|etc]]) [[d/_designed|Designed]] for a slow (or the slowest) speed.**
 	- _Example: low gear_
 ---
@@ -39,14 +39,14 @@
 - [[h/_high|high]], [[t/_tall|tall]]
 #adverb
 - **[[c/_close|Close]] to the [[g/_ground|ground]].**
-- **Of a pitch, at a [[l/_lower|lower]] [[f/_frequency|frequency]].**
+- **Of a [[p/_pitch|pitch]], at a [[l/_lower|lower]] [[f/_frequency|frequency]].**
 - **With a [[l/_low|low]] voice or sound; not [[l/_loudly|loudly]]; [[g/_gently|gently]].**
 	- _Example: to speak low_
 - **Under the usual price; at a [[m/_moderate|moderate]] price; [[c/_cheaply|cheaply]].**
 	- _Example: He sold his wheat low._
 - **In a [[l/_low|low]] [[m/_mean|mean]] [[c/_condition|condition]]; [[h/_humbly|humbly]]; [[m/_meanly|meanly]].**
 - **In a time [[a/_approaching|approaching]] [[o/_our|our]] [[o/_own|own]].**
-- **In a path [[n/_near|near]] the [[e/_equator|equator]], so that the [[d/_declination|declination]] is small, or [[n/_near|near]] the [[h/_horizon|horizon]], so that the [[a/_altitude|altitude]] is small; said of the [[h/_heavenly|heavenly]] [[b/_bodies|bodies]] with reference to the [[d/_diurnal|diurnal]] revolution.**
+- **In a [[p/_path|path]] [[n/_near|near]] the [[e/_equator|equator]], so that the [[d/_declination|declination]] is small, or [[n/_near|near]] the [[h/_horizon|horizon]], so that the [[a/_altitude|altitude]] is small; said of the [[h/_heavenly|heavenly]] [[b/_bodies|bodies]] with reference to the [[d/_diurnal|diurnal]] revolution.**
 	- _Example: The moon runs low, i.e. comparatively near the horizon when on or near the meridian._
 ---
 #verb

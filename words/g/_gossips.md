@@ -1,12 +1,12 @@
 # Gossips
 ---
 #noun
-- **Someone who [[l/_likes|likes]] to talk [[a/_about|about]] [[o/_other|other]] people's private or personal [[b/_business|business]].**
+- **Someone who [[l/_likes|likes]] to talk [[a/_about|about]] [[o/_other|other]] [[p/_people|people]]'s private or [[p/_personal|personal]] [[b/_business|business]].**
 	- _Example: Be careful what you say to him: he’s a bit of a gossip._
-- **[[i/_idle|Idle]] talk [[a/_about|about]] someone’s private or personal [[m/_matters|matters]], [[e/_especially|especially]] someone not present.**
+- **[[i/_idle|Idle]] talk [[a/_about|about]] someone’s private or [[p/_personal|personal]] [[m/_matters|matters]], [[e/_especially|especially]] someone not [[p/_present|present]].**
 	- _Example: According to the latest gossip, their relationship is on the rocks._
 - **[[i/_idle|Idle]] [[c/_conversation|conversation]] in [[g/_general|general]].**
-- **A [[g/_genre|genre]] in [[c/_contemporary|contemporary]] [[m/_media|media]], usually [[f/_focused|focused]] on the personal [[a/_affairs|affairs]] of [[c/_celebrities|celebrities]].**
+- **A [[g/_genre|genre]] in [[c/_contemporary|contemporary]] [[m/_media|media]], usually [[f/_focused|focused]] on the [[p/_personal|personal]] [[a/_affairs|affairs]] of [[c/_celebrities|celebrities]].**
 	- _Example: a gossip blog_
 - **A sponsor; a [[g/_godfather|godfather]] or [[g/_godmother|godmother]]; the [[g/_godparent|godparent]] of [[o/_one|one]]'s [[c/_child|child]].**
 - **A [[f/_familiar|familiar]] [[a/_acquaintance|acquaintance]].**
@@ -15,7 +15,7 @@
 ### Synonyms
 - [[b/_busybody|busybody]], [[g/_gossipmonger|gossipmonger]], [[m/_meddler|meddler]], [[r/_rumormonger|rumormonger]], [[c/_chat|chat]], [[c/_chinwag|chinwag]], [[c/_chit-chat|chit-chat]], [[n/_natter|natter]], [[d/_dirt|dirt]], [[h/_hearsay|hearsay]], [[r/_rumor|rumor]], [[s/_scandal|scandal]], [[s/_scuttlebutt|scuttlebutt]], [[f/_friend|friend]], [[s/_sponsor|sponsor]]
 #verb
-- **To talk [[a/_about|about]] someone [[e/_else|else]]'s private or personal [[b/_business|business]], [[e/_especially|especially]] in a [[m/_manner|manner]] that spreads the [[i/_information|information]].**
+- **To talk [[a/_about|about]] someone [[e/_else|else]]'s private or [[p/_personal|personal]] [[b/_business|business]], [[e/_especially|especially]] in a [[m/_manner|manner]] that spreads the [[i/_information|information]].**
 - **To talk [[i/_idly|idly]].**
 - **To stand [[g/_godfather|godfather]] to; to provide [[g/_godparents|godparents]] for.**
 - **To [[e/_enjoy|enjoy]] [[o/_oneself|oneself]] [[d/_during|during]] [[f/_festivities|festivities]], to [[m/_make|make]] [[m/_merry|merry]].**

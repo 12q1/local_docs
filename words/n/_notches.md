@@ -3,11 +3,11 @@
 #noun
 - **A V-shaped [[c/_cut|cut]].**
 - **An [[i/_indentation|indentation]].**
-- **A [[m/_mountain|mountain]] pass; a [[d/_defile|defile]].**
+- **A [[m/_mountain|mountain]] [[p/_pass|pass]]; a [[d/_defile|defile]].**
 - **A [[d/_discontinuous|discontinuous]] [[c/_change|change]] in a taxation schedule.**
 - **A [[l/_level|level]] or [[d/_degree|degree]].**
 	- _Example: Can you speak a notch louder, please?_
-- **A portion of a [[m/_mobile|mobile]] phone that [[o/_overlaps|overlaps]] the [[e/_edge|edge]] of the screen, used to [[h/_house|house]] [[c/_camera|camera]], sensors [[e/_etc|etc]]. while [[m/_maximizing|maximizing]] screen space.**
+- **A [[p/_portion|portion]] of a [[m/_mobile|mobile]] [[p/_phone|phone]] that [[o/_overlaps|overlaps]] the [[e/_edge|edge]] of the screen, used to [[h/_house|house]] [[c/_camera|camera]], sensors [[e/_etc|etc]]. while [[m/_maximizing|maximizing]] screen space.**
 ---
 #verb
 - **To [[c/_cut|cut]] a [[n/_notch|notch]] in (something).**

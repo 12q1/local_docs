@@ -9,7 +9,7 @@
 	- _Example: Music is the heartbeat of the people._
 - **A very short space of time; an [[i/_instant|instant]].**
 	- _Example: The ambulance arrived in a heartbeat._
-- **A periodic signal [[g/_generated|generated]] by [[h/_hardware|hardware]] or software to [[i/_indicate|indicate]] [[n/_normal|normal]] [[o/_operation|operation]] or to synchronize [[o/_other|other]] parts of a system.**
+- **A [[p/_periodic|periodic]] signal [[g/_generated|generated]] by [[h/_hardware|hardware]] or software to [[i/_indicate|indicate]] [[n/_normal|normal]] [[o/_operation|operation]] or to synchronize [[o/_other|other]] [[p/_parts|parts]] of a system.**
 ---
 ### Synonyms
 - [[p/_pulse|pulse]]

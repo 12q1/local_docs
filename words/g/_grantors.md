@@ -1,6 +1,6 @@
 # Grantors
 ---
 #noun
-- **A person who [[g/_grants|grants]] something.**
+- **A [[p/_person|person]] who [[g/_grants|grants]] something.**
 ---
 ---

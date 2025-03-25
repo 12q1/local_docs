@@ -1,6 +1,6 @@
 # Hexamerous
 ---
 #adjective
-- **In six parts; [[o/_occurring|occurring]] in sixes.**
+- **In six [[p/_parts|parts]]; [[o/_occurring|occurring]] in sixes.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Landowner
 ---
 #noun
-- **A person who [[o/_owns|owns]] [[l/_land|land]].**
+- **A [[p/_person|person]] who [[o/_owns|owns]] [[l/_land|land]].**
 ---
 ---

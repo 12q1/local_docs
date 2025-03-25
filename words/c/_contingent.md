@@ -8,7 +8,7 @@
 ### Synonyms
 - [[c/_contingency|contingency]], [[p/_proportion|proportion]]
 #adjective
-- **Possible or [[l/_liable|liable]], but not [[c/_certain|certain]] to [[o/_occur|occur]].**
+- **[[p/_possible|Possible]] or [[l/_liable|liable]], but not [[c/_certain|certain]] to [[o/_occur|occur]].**
 - **(with upon or on) [[d/_dependent|Dependent]] on something that is undetermined or unknown.**
 	- _Example: The success of his undertaking is contingent upon events which he cannot control._
 - **[[d/_dependent|Dependent]] on something that [[m/_may|may]] or [[m/_may|may]] not [[o/_occur|occur]].**

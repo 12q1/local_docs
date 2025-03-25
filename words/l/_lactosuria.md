@@ -1,6 +1,6 @@
 # Lactosuria
 ---
 #noun
-- **The presence of [[l/_lactose|lactose]] in the urine.**
+- **The [[p/_presence|presence]] of [[l/_lactose|lactose]] in the urine.**
 ---
 ---

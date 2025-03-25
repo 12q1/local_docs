@@ -1,8 +1,8 @@
 # Mentalist
 ---
 #noun
-- **A practitioner of [[m/_mentalism|mentalism]].**
-- **An [[i/_insane|insane]] person.**
+- **A [[p/_practitioner|practitioner]] of [[m/_mentalism|mentalism]].**
+- **An [[i/_insane|insane]] [[p/_person|person]].**
 ---
 #adjective
 - **Of or relating to [[m/_mentalism|mentalism]]**

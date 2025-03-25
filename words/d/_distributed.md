@@ -1,11 +1,11 @@
 # Distributed
 ---
 #verb
-- **To [[d/_divide|divide]] [[i/_into|into]] portions and [[d/_dispense|dispense]].**
+- **To [[d/_divide|divide]] [[i/_into|into]] [[p/_portions|portions]] and [[d/_dispense|dispense]].**
 	- _Example: He distributed the bread amongst his followers._
 - **To supply to retail [[o/_outlets|outlets]].**
 	- _Example: The agency distributes newspapers to local shops._
-- **To [[d/_deliver|deliver]] or pass [[o/_out|out]].**
+- **To [[d/_deliver|deliver]] or [[p/_pass|pass]] [[o/_out|out]].**
 	- _Example: A network of children distributes flyers to every house._
 - **To scatter or spread.**
 	- _Example: I raked the soil then distributed grass seed._
@@ -16,7 +16,7 @@
 - **To be [[d/_distributive|distributive]].**
 - **To separate (type which [[h/_has|has]] [[b/_been|been]] used) and return it to the proper [[b/_boxes|boxes]] in the [[c/_cases|cases]].**
 - **To spread ([[i/_ink|ink]]) [[e/_evenly|evenly]], as upon a roller or a table.**
-- **To [[e/_employ|employ]] (a term) in [[i/_its|its]] whole [[e/_extent|extent]]; to take as universal in [[o/_one|one]] premise.**
+- **To [[e/_employ|employ]] (a term) in [[i/_its|its]] whole [[e/_extent|extent]]; to take as universal in [[o/_one|one]] [[p/_premise|premise]].**
 ---
 ### Synonyms
 - [[c/_categorize|categorize]], [[s/_sort|sort]], [[c/_courier|courier]], [[a/_allot|allot]], [[d/_dispend|dispend]], [[d/_disperse|disperse]], [[s/_sparble|sparble]], [[s/_strew|strew]]

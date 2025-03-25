@@ -9,7 +9,7 @@
 - **[[l/_libertarian|Libertarian]]**
 ---
 #noun
-- **A potion; [[m/_magic|magic]] potion; [[c/_charm|charm]].**
+- **A [[p/_potion|potion]]; [[m/_magic|magic]] [[p/_potion|potion]]; [[c/_charm|charm]].**
 ---
 #verb
 - **To [[g/_geld|geld]]; [[c/_castrate|castrate]]; [[e/_emasculate|emasculate]] (usually said of [[a/_animals|animals]]).**

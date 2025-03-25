@@ -1,9 +1,9 @@
 # Ministers
 ---
 #noun
-- **A person who is trained to preach, to perform religious [[c/_ceremonies|ceremonies]], and to [[a/_afford|afford]] pastoral [[c/_care|care]] at a Protestant [[c/_church|church]].**
+- **A [[p/_person|person]] who is trained to [[p/_preach|preach]], to [[p/_perform|perform]] religious [[c/_ceremonies|ceremonies]], and to [[a/_afford|afford]] [[p/_pastoral|pastoral]] [[c/_care|care]] at a Protestant [[c/_church|church]].**
 	- _Example: The minister said a prayer on behalf of the entire congregation._
-- **A politician who [[h/_heads|heads]] a [[m/_ministry|ministry]] ([[n/_national|national]] or regional [[g/_government|government]] [[d/_department|department]] for public service).**
+- **A [[p/_politician|politician]] who [[h/_heads|heads]] a [[m/_ministry|ministry]] ([[n/_national|national]] or regional [[g/_government|government]] [[d/_department|department]] for public service).**
 	- _Example: He was newly appointed to be Minister of the Interior._
 - **At a [[d/_diplomacy|diplomacy]], the rank of [[d/_diplomat|diplomat]] [[d/_directly|directly]] [[b/_below|below]] [[a/_ambassador|ambassador]].**
 - **A servant; a subordinate; an [[o/_officer|officer]] or [[a/_assistant|assistant]] of [[i/_inferior|inferior]] rank; [[h/_hence|hence]], an [[a/_agent|agent]], an [[i/_instrument|instrument]].**

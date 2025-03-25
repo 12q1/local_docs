@@ -6,6 +6,6 @@
 - **A [[g/_glass|glass]] of [[b/_brandy|brandy]].**
 ---
 #verb
-- **To preserve, [[f/_flavour|flavour]], or [[m/_mix|mix]] with [[b/_brandy|brandy]].**
+- **To [[p/_preserve|preserve]], [[f/_flavour|flavour]], or [[m/_mix|mix]] with [[b/_brandy|brandy]].**
 ---
 ---

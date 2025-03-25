@@ -13,6 +13,6 @@
 - **To [[a/_affect|affect]] [[m/_mentally|mentally]], as by psychotropic [[d/_drugs|drugs]] or [[i/_illness|illness]].**
 ---
 #noun
-- **([[e/_especially|especially]] in the plural) An [[i/_identity|identity]] or headmate of a person with [[d/_dissociative|dissociative]] [[i/_identity|identity]] [[d/_disorder|disorder]] (previously [[k/_known|known]] as [[m/_multiple|multiple]] personality [[d/_disorder|disorder]]).**
+- **([[e/_especially|especially]] in the [[p/_plural|plural]]) An [[i/_identity|identity]] or headmate of a [[p/_person|person]] with [[d/_dissociative|dissociative]] [[i/_identity|identity]] [[d/_disorder|disorder]] (previously [[k/_known|known]] as [[m/_multiple|multiple]] [[p/_personality|personality]] [[d/_disorder|disorder]]).**
 ---
 ---

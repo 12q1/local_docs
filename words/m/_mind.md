@@ -17,9 +17,9 @@
 	- _Example: I am of a mind to listen._
 - **A [[h/_healthy|healthy]] [[m/_mental|mental]] state.**
 	- _Example: I, ______ being of sound mind and body, do hereby [...]_
-- **The [[n/_non|non]]-[[m/_material|material]] substance or set of processes in which [[c/_consciousness|consciousness]], perception, [[a/_affectivity|affectivity]], [[j/_judgement|judgement]], thinking, and will are [[b/_based|based]].**
+- **The [[n/_non|non]]-[[m/_material|material]] substance or set of processes in which [[c/_consciousness|consciousness]], [[p/_perception|perception]], [[a/_affectivity|affectivity]], [[j/_judgement|judgement]], thinking, and will are [[b/_based|based]].**
 	- _Example: The mind is a process of the brain._
-- **[[c/_continual|Continual]] prayer on a [[d/_dead|dead]] person's [[b/_behalf|behalf]] for a period [[a/_after|after]] their [[d/_death|death]].**
+- **[[c/_continual|Continual]] [[p/_prayer|prayer]] on a [[d/_dead|dead]] [[p/_person|person]]'s [[b/_behalf|behalf]] for a [[p/_period|period]] [[a/_after|after]] their [[d/_death|death]].**
 	- _Example: a month's [or monthly] mind; a year's mind_
 ---
 ### Synonyms
@@ -27,12 +27,12 @@
 #verb
 - **([[o/_originally|originally]] and [[c/_chiefly|chiefly]] in [[n/_negative|negative]] or [[i/_interrogative|interrogative]] [[c/_constructions|constructions]]) To [[d/_dislike|dislike]], to [[o/_object|object]] to; to be [[b/_bothered|bothered]] by.**
 	- _Example: Do you mind if I smoke?_
-- **To [[l/_look|look]] [[a/_after|after]], to take [[c/_care|care]] of, [[e/_especially|especially]] for a short period of time.**
+- **To [[l/_look|look]] [[a/_after|after]], to take [[c/_care|care]] of, [[e/_especially|especially]] for a short [[p/_period|period]] of time.**
 	- _Example: Would you mind my bag for me?_
 - **([[c/_chiefly|chiefly]] in the [[i/_imperative|imperative]]) To [[m/_make|make]] sure, to take [[c/_care|care]] (that).**
 	- _Example: Mind you don't knock that glass over._
 - **To be [[c/_careful|careful]] [[a/_about|about]].**
-- **Take [[n/_note|note]]; used to point [[o/_out|out]] an [[e/_exception|exception]] or [[c/_caveat|caveat]].**
+- **Take [[n/_note|note]]; used to [[p/_point|point]] [[o/_out|out]] an [[e/_exception|exception]] or [[c/_caveat|caveat]].**
 	- _Example: I'm not very healthy. I do eat fruit sometimes, mind._
 - **To [[a/_attend|attend]] to, [[c/_concern|concern]] [[o/_oneself|oneself]] with, [[h/_heed|heed]], be [[m/_mindful|mindful]] of.**
 	- _Example: You should mind your own business._

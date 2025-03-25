@@ -1,7 +1,7 @@
 # Mass
 ---
 #noun
-- **(physical) [[m/_matter|Matter]], [[m/_material|material]].**
+- **([[p/_physical|physical]]) [[m/_matter|Matter]], [[m/_material|material]].**
 - **A [[l/_large|large]] quantity; a sum.**
 ---
 #verb
@@ -12,7 +12,7 @@
 #adjective
 - **[[i/_involving|Involving]] a [[m/_mass|mass]] of things; [[c/_concerning|concerning]] a [[l/_large|large]] quantity or [[n/_number|number]].**
 	- _Example: There is evidence of mass extinctions in the distant past._
-- **[[i/_involving|Involving]] a [[m/_mass|mass]] of people; of, for, or by the [[m/_masses|masses]].**
+- **[[i/_involving|Involving]] a [[m/_mass|mass]] of [[p/_people|people]]; of, for, or by the [[m/_masses|masses]].**
 	- _Example: Mass unemployment resulted from the financial collapse._
 ---
 ### Synonyms

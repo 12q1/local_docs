@@ -1,6 +1,6 @@
 # Manicurist
 ---
 #noun
-- **A person who performs [[m/_manicures|manicures]].**
+- **A [[p/_person|person]] who [[p/_performs|performs]] [[m/_manicures|manicures]].**
 ---
 ---

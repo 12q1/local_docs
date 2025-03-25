@@ -18,7 +18,7 @@
 ### Synonyms
 - [[a/_agree|agree]], [[c/_consent|consent]], [[n/_nod|nod]]
 #interjection
-- **Used to [[e/_express|express]] pleasure, [[j/_joy|joy]], or [[g/_great|great]] [[e/_excitement|excitement]].**
+- **Used to [[e/_express|express]] [[p/_pleasure|pleasure]], [[j/_joy|joy]], or [[g/_great|great]] [[e/_excitement|excitement]].**
 	- _Example: Our second goal of the match! Yes!_
 - **Response that [[c/_confirms|confirms]] that the user is [[p/_paying|paying]] [[a/_attention|attention]].**
 ---

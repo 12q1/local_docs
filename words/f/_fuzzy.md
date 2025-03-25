@@ -1,10 +1,10 @@
 # Fuzzy
 ---
 #noun
-- **([[o/_often|often]] in the plural) A very small piece of plush [[m/_material|material]].**
+- **([[o/_often|often]] in the [[p/_plural|plural]]) A very small [[p/_piece|piece]] of [[p/_plush|plush]] [[m/_material|material]].**
 	- _Example: You've got a fuzzy on your coat._
-- **Something [[c/_covered|covered]] with [[f/_fuzz|fuzz]] or [[h/_hair|hair]], as an [[a/_animal|animal]] or plush toy.**
-- **A person, [[e/_especially|especially]] a [[c/_college|college]] student, [[i/_interested|interested]] in [[h/_humanities|humanities]] or social sciences, as [[o/_opposed|opposed]] to [[o/_one|one]] [[i/_interested|interested]] in [[m/_mathematics|mathematics]], science, or [[e/_engineering|engineering]].**
+- **Something [[c/_covered|covered]] with [[f/_fuzz|fuzz]] or [[h/_hair|hair]], as an [[a/_animal|animal]] or [[p/_plush|plush]] toy.**
+- **A [[p/_person|person]], [[e/_especially|especially]] a [[c/_college|college]] student, [[i/_interested|interested]] in [[h/_humanities|humanities]] or social sciences, as [[o/_opposed|opposed]] to [[o/_one|one]] [[i/_interested|interested]] in [[m/_mathematics|mathematics]], science, or [[e/_engineering|engineering]].**
 - **A soldier with the rank of private.**
 ---
 #adjective

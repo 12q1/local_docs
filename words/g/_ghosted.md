@@ -10,9 +10,9 @@
 - **To [[f/_forcibly|forcibly]] [[d/_disconnect|disconnect]] an IRC user who is using [[o/_one|one]]'s reserved [[n/_nickname|nickname]].**
 - **To [[a/_appear|appear]] without warning; to [[m/_move|move]] quickly and quietly; to slip.**
 - **To [[k/_kill|kill]].**
-- **To [[b/_break|break]] up with someone without warning or [[e/_explanation|explanation]]; to perform an [[a/_act|act]] of [[g/_ghosting|ghosting]].**
+- **To [[b/_break|break]] up with someone without warning or [[e/_explanation|explanation]]; to [[p/_perform|perform]] an [[a/_act|act]] of [[g/_ghosting|ghosting]].**
 ---
 #adjective
-- **(of an [[a/_article|article]] or published [[o/_opinion|opinion]]) written under the [[n/_name|name]] of [[a/_another|another]] person; [[g/_ghostwritten|ghostwritten]]**
+- **(of an [[a/_article|article]] or published [[o/_opinion|opinion]]) written under the [[n/_name|name]] of [[a/_another|another]] [[p/_person|person]]; [[g/_ghostwritten|ghostwritten]]**
 ---
 ---

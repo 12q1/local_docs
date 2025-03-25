@@ -1,13 +1,13 @@
 # Lookouts
 ---
 #noun
-- **A vantage point with a view of the surrounding [[a/_area|area]].**
-- **A session of watching for an [[a/_approaching|approaching]] [[e/_enemy|enemy]], police, [[e/_etc|etc]].**
+- **A vantage [[p/_point|point]] with a view of the surrounding [[a/_area|area]].**
+- **A session of watching for an [[a/_approaching|approaching]] [[e/_enemy|enemy]], [[p/_police|police]], [[e/_etc|etc]].**
 	- _Example: We kept a lookout all night, but nobody came._
-- **A person on watch for [[a/_approaching|approaching]] [[e/_enemy|enemy]], police, [[d/_danger|danger]], [[e/_etc|etc]].**
+- **A [[p/_person|person]] on watch for [[a/_approaching|approaching]] [[e/_enemy|enemy]], [[p/_police|police]], [[d/_danger|danger]], [[e/_etc|etc]].**
 	- _Example: The raid failed when the lookout noticed the enemy group._
 - **A subject for [[o/_observation|observation]]; a prospect or view.**
-- **[[o/_one|One]]'s perspective, [[o/_outlook|outlook]]; [[h/_hence|hence]], [[o/_one|one]]'s responsibility. (used with a possessive pronoun or a [[n/_noun|noun]] in a possessive [[f/_form|form]]).**
+- **[[o/_one|One]]'s [[p/_perspective|perspective]], [[o/_outlook|outlook]]; [[h/_hence|hence]], [[o/_one|one]]'s responsibility. (used with a [[p/_possessive|possessive]] pronoun or a [[n/_noun|noun]] in a [[p/_possessive|possessive]] [[f/_form|form]]).**
 	- _Example: Every man's interest is his own lookout._
 ---
 ### Synonyms

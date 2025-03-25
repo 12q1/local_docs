@@ -1,6 +1,6 @@
 # Catechetical
 ---
 #adjective
-- **Of or pertaining to [[c/_catechesis|catechesis]].**
+- **Of or [[p/_pertaining|pertaining]] to [[c/_catechesis|catechesis]].**
 ---
 ---

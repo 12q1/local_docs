@@ -6,7 +6,7 @@
 - **An [[e/_evening|evening]] [[m/_meal|meal]].**
 - **A [[m/_meal|meal]] [[g/_given|given]] to an [[a/_animal|animal]].**
 	- _Example: Give the dog its dinner._
-- **A [[f/_formal|formal]] [[m/_meal|meal]] for [[m/_many|many]] people [[e/_eaten|eaten]] for a special [[o/_occasion|occasion]].**
+- **A [[f/_formal|formal]] [[m/_meal|meal]] for [[m/_many|many]] [[p/_people|people]] [[e/_eaten|eaten]] for a special [[o/_occasion|occasion]].**
 - **The [[f/_food|food]] provided or [[c/_consumed|consumed]] at [[a/_any|any]] such [[m/_meal|meal]].**
 ---
 ### Synonyms

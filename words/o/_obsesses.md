@@ -1,7 +1,7 @@
 # Obsesses
 ---
 #verb
-- **(passive, [[c/_constructed|constructed]] with "with") To be preoccupied with a single topic or [[e/_emotion|emotion]].**
+- **([[p/_passive|passive]], [[c/_constructed|constructed]] with "with") To be [[p/_preoccupied|preoccupied]] with a single topic or [[e/_emotion|emotion]].**
 	- _Example: Some people are obsessed with sports._
 - **To [[d/_dominate|dominate]] the thoughts of someone.**
 	- _Example: Thoughts of her obsess my every waking moment._

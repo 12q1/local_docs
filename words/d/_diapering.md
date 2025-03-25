@@ -7,6 +7,6 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[c/_clothing|clothing]] somebody in a [[d/_diaper|diaper]].**
-- **A regular pattern of the same shape, [[e/_evenly|evenly]] spaced.**
+- **A regular [[p/_pattern|pattern]] of the same shape, [[e/_evenly|evenly]] spaced.**
 ---
 ---

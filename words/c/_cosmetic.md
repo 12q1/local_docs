@@ -7,9 +7,9 @@
 ### Synonyms
 - [[m/_makeup|makeup]], [[p/_product|product]], [[s/_slap|slap]]
 #adjective
-- **[[i/_imparting|Imparting]] or [[i/_improving|improving]] [[b/_beauty|beauty]], particularly the [[b/_beauty|beauty]] of the [[c/_complexion|complexion]].**
+- **[[i/_imparting|Imparting]] or [[i/_improving|improving]] [[b/_beauty|beauty]], [[p/_particularly|particularly]] the [[b/_beauty|beauty]] of the [[c/_complexion|complexion]].**
 	- _Example: a cosmetic preparation_
-- **[[e/_external|External]] or superficial; pertaining [[o/_only|only]] to the surface or [[a/_appearance|appearance]] of something.**
+- **[[e/_external|External]] or superficial; [[p/_pertaining|pertaining]] [[o/_only|only]] to the surface or [[a/_appearance|appearance]] of something.**
 	- _Example: Fortunately, the damage to the house was mostly cosmetic and a bit of paint covered it nicely._
 ---
 ---

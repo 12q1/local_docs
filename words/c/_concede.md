@@ -6,7 +6,7 @@
 - **To [[g/_grant|grant]], as a right or privilege; to [[m/_make|make]] [[c/_concession|concession]] of.**
 - **To [[a/_admit|admit]] to be true; to [[a/_acknowledge|acknowledge]].**
 - **To [[y/_yield|yield]] or [[m/_make|make]] [[c/_concession|concession]].**
-- **To [[h/_have|have]] a [[g/_goal|goal]] or point scored [[a/_against|against]]**
+- **To [[h/_have|have]] a [[g/_goal|goal]] or [[p/_point|point]] scored [[a/_against|against]]**
 - **(of a [[b/_bowler|bowler]]) to [[h/_have|have]] runs scored [[o/_off|off]] of [[o/_one|one]]'s [[b/_bowling|bowling]].**
 ---
 ### Synonyms

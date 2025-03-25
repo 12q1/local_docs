@@ -1,6 +1,6 @@
 # Iodism
 ---
 #noun
-- **[[i/_iodine|Iodine]] poisoning**
+- **[[i/_iodine|Iodine]] [[p/_poisoning|poisoning]]**
 ---
 ---

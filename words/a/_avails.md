@@ -5,7 +5,7 @@
 	- _Example: I tried fixing it, to no avail.  Labor, without economy, is of little avail._
 - **Proceeds; profits from [[b/_business|business]] transactions.**
 - **An [[a/_advertising|advertising]] slot or [[p/_package|package]].**
-- **A press [[a/_avail|avail]].**
+- **A [[p/_press|press]] [[a/_avail|avail]].**
 	- _Example: While holding an avail yesterday, the candidate lashed out at critics._
 - **[[n/_non|Non]]-[[b/_binding|binding]] [[n/_notice|notice]] of [[a/_availability|availability]] for work.**
 - **A readily [[a/_available|available]] stock of [[o/_oil|oil]].**

@@ -1,7 +1,7 @@
 # Bald
 ---
 #noun
-- **A [[m/_mountain|mountain]] summit or [[c/_crest|crest]] that [[l/_lacks|lacks]] [[f/_forest|forest]] [[g/_growth|growth]] [[d/_despite|despite]] a warm [[c/_climate|climate]] [[c/_conducive|conducive]] to such, as is [[f/_found|found]] in [[m/_many|many]] places in the Southern [[a/_appalachian|Appalachian]] [[m/_mountains|Mountains]].**
+- **A [[m/_mountain|mountain]] summit or [[c/_crest|crest]] that [[l/_lacks|lacks]] [[f/_forest|forest]] [[g/_growth|growth]] [[d/_despite|despite]] a warm [[c/_climate|climate]] [[c/_conducive|conducive]] to such, as is [[f/_found|found]] in [[m/_many|many]] [[p/_places|places]] in the Southern [[a/_appalachian|Appalachian]] [[m/_mountains|Mountains]].**
 ---
 #verb
 - **To [[b/_become|become]] [[b/_bald|bald]].**

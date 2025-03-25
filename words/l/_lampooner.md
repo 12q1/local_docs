@@ -1,6 +1,6 @@
 # Lampooner
 ---
 #noun
-- **Someone who [[l/_lampoons|lampoons]]; someone who pokes [[f/_fun|fun]].**
+- **Someone who [[l/_lampoons|lampoons]]; someone who [[p/_pokes|pokes]] [[f/_fun|fun]].**
 ---
 ---

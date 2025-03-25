@@ -7,6 +7,6 @@
 - **To [[f/_form|form]]; to [[f/_fashion|fashion]].**
 ---
 #adjective
-- **[[d/_dexterous|Dexterous]] in [[m/_movements|movements]] or service; skilful; [[n/_neat|neat]]; pretty.**
+- **[[d/_dexterous|Dexterous]] in [[m/_movements|movements]] or service; skilful; [[n/_neat|neat]]; [[p/_pretty|pretty]].**
 ---
 ---

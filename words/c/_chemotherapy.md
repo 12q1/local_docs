@@ -2,6 +2,6 @@
 ---
 #noun
 - **[[a/_any|Any]] [[c/_chemical|chemical]] treatment [[i/_intended|intended]] to be therapeutic with respect to a [[d/_disease|disease]] state.**
-- **([[m/_most|most]] [[c/_common|common]] usage) [[c/_chemical|chemical]] treatment to [[k/_kill|kill]] or [[h/_halt|halt]] the replication and/or spread of [[c/_cancerous|cancerous]] [[c/_cells|cells]] in a patient.**
+- **([[m/_most|most]] [[c/_common|common]] usage) [[c/_chemical|chemical]] treatment to [[k/_kill|kill]] or [[h/_halt|halt]] the replication and/or spread of [[c/_cancerous|cancerous]] [[c/_cells|cells]] in a [[p/_patient|patient]].**
 ---
 ---

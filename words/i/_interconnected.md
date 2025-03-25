@@ -7,6 +7,6 @@
 ### Synonyms
 - [[a/_anastomose|anastomose]]
 #adjective
-- **[[i/_intertwined|Intertwined]]; [[c/_connected|connected]] at [[m/_multiple|multiple]] points or [[l/_levels|levels]]**
+- **[[i/_intertwined|Intertwined]]; [[c/_connected|connected]] at [[m/_multiple|multiple]] [[p/_points|points]] or [[l/_levels|levels]]**
 ---
 ---

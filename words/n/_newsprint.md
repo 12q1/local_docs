@@ -1,6 +1,6 @@
 # Newsprint
 ---
 #noun
-- **An [[i/_inexpensive|inexpensive]] paper used for printing [[n/_newspapers|newspapers]].**
+- **An [[i/_inexpensive|inexpensive]] [[p/_paper|paper]] used for printing [[n/_newspapers|newspapers]].**
 ---
 ---

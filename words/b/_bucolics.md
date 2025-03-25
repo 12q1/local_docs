@@ -1,7 +1,7 @@
 # Bucolics
 ---
 #noun
-- **A pastoral poem.**
-- **A rustic, peasant.**
+- **A [[p/_pastoral|pastoral]] [[p/_poem|poem]].**
+- **A rustic, [[p/_peasant|peasant]].**
 ---
 ---

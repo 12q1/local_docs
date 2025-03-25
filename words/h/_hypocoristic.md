@@ -4,7 +4,7 @@
 - **A [[n/_nickname|nickname]], [[e/_especially|especially]] [[o/_one|one]] [[i/_indicating|indicating]] [[i/_intimacy|intimacy]] and [[f/_formed|formed]] through a shortening of the [[o/_original|original]] [[n/_name|name]].**
 ---
 #adjective
-- **Relating to a [[n/_nickname|nickname]], usually [[i/_indicating|indicating]] [[i/_intimacy|intimacy]] with the person.**
+- **Relating to a [[n/_nickname|nickname]], usually [[i/_indicating|indicating]] [[i/_intimacy|intimacy]] with the [[p/_person|person]].**
 - **Relating to [[b/_baby|baby]] talk.**
 ---
 ---

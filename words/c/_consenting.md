@@ -1,7 +1,7 @@
 # Consenting
 ---
 #verb
-- **To [[e/_express|express]] willingness, to [[g/_give|give]] permission.**
+- **To [[e/_express|express]] willingness, to [[g/_give|give]] [[p/_permission|permission]].**
 	- _Example: After reflecting a little bit, I've consented._
 - **To [[c/_cause|cause]] to sign a [[c/_consent|consent]] [[f/_form|form]].**
 - **To [[g/_grant|grant]]; to [[a/_allow|allow]]; to [[a/_assent|assent]] to.**

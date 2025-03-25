@@ -5,17 +5,17 @@
 	- _Example: A cold wind whistled through the trees._
 - **(of the weather) [[c/_causing|Causing]] the [[a/_air|air]] to be [[c/_cold|cold]].**
 	- _Example: The forecast is that it will be very cold today._
-- **(of a person or [[a/_animal|animal]]) [[f/_feeling|Feeling]] the sensation of [[c/_coldness|coldness]], [[e/_especially|especially]] to the point of [[d/_discomfort|discomfort]].**
+- **(of a [[p/_person|person]] or [[a/_animal|animal]]) [[f/_feeling|Feeling]] the sensation of [[c/_coldness|coldness]], [[e/_especially|especially]] to the [[p/_point|point]] of [[d/_discomfort|discomfort]].**
 	- _Example: She was so cold she was shivering._
 - **Unfriendly, [[e/_emotionally|emotionally]] [[d/_distant|distant]] or unfeeling.**
 	- _Example: She shot me a cold glance before turning her back._
-- **[[d/_dispassionate|Dispassionate]], not prejudiced or partisan, [[i/_impartial|impartial]].**
+- **[[d/_dispassionate|Dispassionate]], not [[p/_prejudiced|prejudiced]] or [[p/_partisan|partisan]], [[i/_impartial|impartial]].**
 	- _Example: He's a nice guy, but the cold facts say we should fire him._
 - **[[c/_completely|Completely]] unprepared; without [[i/_introduction|introduction]].**
 	- _Example: He was assigned cold calls for the first three months._
 - **Unconscious or [[d/_deeply|deeply]] [[a/_asleep|asleep]]; [[d/_deprived|deprived]] of the [[m/_metaphorical|metaphorical]] [[h/_heat|heat]] [[a/_associated|associated]] with [[l/_life|life]] or [[c/_consciousness|consciousness]].**
 	- _Example: After one more beer he passed out cold._
-- **(usually with "[[h/_have|have]]" or "[[k/_know|know]]" transitively) Perfectly, [[e/_exactly|exactly]], [[c/_completely|completely]]; by [[h/_heart|heart]].**
+- **(usually with "[[h/_have|have]]" or "[[k/_know|know]]" transitively) [[p/_perfectly|Perfectly]], [[e/_exactly|exactly]], [[c/_completely|completely]]; by [[h/_heart|heart]].**
 	- _Example: Keep that list in front of you, or memorize it cold._
 - **(usually with "[[h/_have|have]]" transitively) [[c/_cornered|Cornered]], [[d/_done|done]] for.**
 	- _Example: Criminal interrogation. Initially they will dream up explanations faster than you could ever do so, but when they become fatigued, often they will acknowledge that you have them cold._

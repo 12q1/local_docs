@@ -1,7 +1,7 @@
 # Assaultive
 ---
 #noun
-- **A person who [[a/_assaults|assaults]] [[o/_others|others]].**
+- **A [[p/_person|person]] who [[a/_assaults|assaults]] [[o/_others|others]].**
 ---
 #adjective
 - **[[c/_confrontational|Confrontational]]; tending or seeming to [[a/_assault|assault]]; [[c/_characterized|characterized]] by [[a/_assault|assault]].**

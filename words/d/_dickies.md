@@ -18,7 +18,7 @@
 - **A [[l/_leather|leather]] [[a/_apron|apron]] for a [[g/_gig|gig]], [[e/_etc|etc]].**
 - **A small [[b/_bird|bird]]; a [[d/_dicky|dicky]]-[[b/_bird|bird]].**
 - **(in [[n/_negative|negative]] [[c/_constructions|constructions]]) An [[i/_insignificant|insignificant]] sound or thing; [[d/_dicky|dicky]]-[[b/_bird|bird]].**
-- **A pilot.**
+- **A [[p/_pilot|pilot]].**
 - **A [[h/_hedge|hedge]] sparrow.**
 - **A [[d/_donkey|donkey]].**
 - **A [[h/_haddock|haddock]].**

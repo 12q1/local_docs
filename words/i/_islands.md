@@ -8,7 +8,7 @@
 - **A traffic [[i/_island|island]].**
 	- _Example: the island in the middle of a roundabout_
 - **An unincorporated [[a/_area|area]] wholly surrounded by [[o/_one|one]] or [[m/_more|more]] [[i/_incorporated|incorporated]] [[a/_areas|areas]].**
-- **([[g/_grammar|grammar]]) A phrase from which a wh-word [[c/_cannot|cannot]] be [[e/_extracted|extracted]] without [[y/_yielding|yielding]] [[i/_invalid|invalid]] [[g/_grammar|grammar]].**
+- **([[g/_grammar|grammar]]) A [[p/_phrase|phrase]] from which a wh-word [[c/_cannot|cannot]] be [[e/_extracted|extracted]] without [[y/_yielding|yielding]] [[i/_invalid|invalid]] [[g/_grammar|grammar]].**
 ---
 ### Synonyms
 - [[o/_oasis|oasis]], [[a/_ait|ait]], [[h/_holm|holm]]

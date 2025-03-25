@@ -5,7 +5,7 @@
 	- _Example: Mix the eggs and milk with the flour until the consistency is smooth._
 - **To [[c/_combine|combine]] ([[i/_items|items]] from two or [[m/_more|more]] sources [[n/_normally|normally]] [[k/_kept|kept]] separate).**
 	- _Example: Don't mix the meat recipes with the dairy recipes._
-- **To [[f/_form|form]] by [[m/_mingling|mingling]]; to produce by the stirring together of [[i/_ingredients|ingredients]]; to [[c/_concoct|concoct]] from [[d/_different|different]] parts.**
+- **To [[f/_form|form]] by [[m/_mingling|mingling]]; to produce by the stirring together of [[i/_ingredients|ingredients]]; to [[c/_concoct|concoct]] from [[d/_different|different]] [[p/_parts|parts]].**
 	- _Example: Yellow and blue paint mix to make green._
 - **To [[b/_blend|blend]] by the use of a [[m/_mixer|mixer]] ([[m/_machine|machine]]).**
 	- _Example: Mix the egg whites until they are stiff._

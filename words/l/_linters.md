@@ -7,6 +7,6 @@
 ### Synonyms
 - [[d/_delinter|delinter]]
 #noun
-- **A program or [[a/_algorithm|algorithm]] that performs linting.**
+- **A program or [[a/_algorithm|algorithm]] that [[p/_performs|performs]] linting.**
 ---
 ---

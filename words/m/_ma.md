@@ -1,6 +1,6 @@
 # Ma
 ---
 #noun
-- **(usually in the plural) [[a/_abbreviation|Abbreviation]] of milli-arcsecond.**
+- **(usually in the [[p/_plural|plural]]) [[a/_abbreviation|Abbreviation]] of milli-arcsecond.**
 ---
 ---

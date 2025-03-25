@@ -10,12 +10,12 @@
 - **[[a/_any|Any]] property, [[f/_fact|fact]], or relation that is the result of [[c/_chance|chance]] or is [[n/_nonessential|nonessential]].**
 	- _Example: Beauty is an accident._
 - **An [[i/_instance|instance]] of [[i/_incontinence|incontinence]].**
-- **An unintended pregnancy.**
+- **An unintended [[p/_pregnancy|pregnancy]].**
 - **A quality or [[a/_attribute|attribute]] in [[d/_distinction|distinction]] from the substance, as sweetness, softness.**
 - **([[g/_grammar|grammar]]) A property [[a/_attached|attached]] to a word, but not [[e/_essential|essential]] to it, such as [[g/_gender|gender]], [[n/_number|number]], or [[c/_case|case]].**
 - **An [[i/_irregular|irregular]] surface [[f/_feature|feature]] with [[n/_no|no]] [[a/_apparent|apparent]] [[c/_cause|cause]].**
 - **A sudden [[d/_discontinuity|discontinuity]] of [[g/_ground|ground]] such as [[f/_fault|fault]] of [[g/_great|great]] thickness, [[b/_bed|bed]] or [[l/_lentil|lentil]] of unstable [[g/_ground|ground]].**
-- **A point or [[m/_mark|mark]] which [[m/_may|may]] be retained or [[o/_omitted|omitted]] in a [[c/_coat|coat]] of [[a/_arms|arms]].**
+- **A [[p/_point|point]] or [[m/_mark|mark]] which [[m/_may|may]] be retained or [[o/_omitted|omitted]] in a [[c/_coat|coat]] of [[a/_arms|arms]].**
 - **[[c/_casus|Casus]]; such unforeseen, [[e/_extraordinary|extraordinary]], [[e/_extraneous|extraneous]] [[i/_interference|interference]] as is [[o/_out|out]] of the range of [[o/_ordinary|ordinary]] [[c/_calculation|calculation]].**
 - **[[a/_appearance|Appearance]], [[m/_manifestation|manifestation]].**
 ---

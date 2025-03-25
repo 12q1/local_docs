@@ -15,13 +15,13 @@
 - **A reckoner; someone who [[c/_collects|collects]] [[d/_data|data]] by [[c/_counting|counting]]; an [[e/_enumerator|enumerator]].**
 - **An [[o/_object|object]] ([[n/_now|now]] [[e/_especially|especially]] a small [[d/_disc|disc]]) used in [[c/_counting|counting]] or [[k/_keeping|keeping]] [[c/_count|count]], or as a [[m/_marker|marker]] in [[g/_games|games]], [[e/_etc|etc]].**
 	- _Example: He rolled a six on the dice, so moved his counter forward six spaces._
-- **A telltale; a [[c/_contrivance|contrivance]] [[a/_attached|attached]] to an [[e/_engine|engine]], printing press, or [[o/_other|other]] [[m/_machine|machine]], for the purpose of [[c/_counting|counting]] the revolutions or the pulsations.**
+- **A telltale; a [[c/_contrivance|contrivance]] [[a/_attached|attached]] to an [[e/_engine|engine]], printing [[p/_press|press]], or [[o/_other|other]] [[m/_machine|machine]], for the purpose of [[c/_counting|counting]] the revolutions or the pulsations.**
 - **A variable, [[m/_memory|memory]] [[l/_location|location]], [[e/_etc|etc]]. whose [[c/_contents|contents]] are [[i/_incremented|incremented]] to [[k/_keep|keep]] a [[c/_count|count]].**
 - **A [[h/_hit|hit]] [[c/_counter|counter]].**
 - **A table or [[b/_board|board]] on which [[m/_money|money]] is [[c/_counted|counted]] and [[o/_over|over]] which [[b/_business|business]] is transacted**
 	- _Example: He put his money on the counter, and the shopkeeper put it in the till._
 - **A shop tabletop on which [[g/_goods|goods]] are [[e/_examined|examined]], weighed or [[m/_measured|measured]].**
-- **In a [[k/_kitchen|kitchen]], a surface, [[o/_often|often]] [[b/_built|built]] [[i/_into|into]] the wall and [[a/_above|above]] a [[c/_cabinet|cabinet]], [[d/_designed|designed]] to be used for [[f/_food|food]] preparation.**
+- **In a [[k/_kitchen|kitchen]], a surface, [[o/_often|often]] [[b/_built|built]] [[i/_into|into]] the wall and [[a/_above|above]] a [[c/_cabinet|cabinet]], [[d/_designed|designed]] to be used for [[f/_food|food]] [[p/_preparation|preparation]].**
 - **In a [[b/_bathroom|bathroom]], a surface, [[o/_often|often]] [[b/_built|built]] [[i/_into|into]] the wall and [[a/_above|above]] a [[c/_cabinet|cabinet]], which [[h/_holds|holds]] the washbasin.**
 - **[[a/_any|Any]] stone [[l/_lying|lying]] [[c/_closer|closer]] to the [[c/_center|center]] than [[a/_any|any]] of the [[o/_opponent|opponent]]'s stones.**
 - **The prison [[a/_attached|attached]] to a [[c/_city|city]] [[c/_court|court]]; a [[c/_compter|compter]].**
@@ -32,9 +32,9 @@
 - **A proactive [[d/_defensive|defensive]] [[h/_hold|hold]] or [[m/_move|move]] in reaction to a [[h/_hold|hold]] or [[m/_move|move]] by [[o/_one|one]]'s [[o/_opponent|opponent]].**
 	- _Example: Always know a counter to any hold you try against your opponent._
 - **The [[o/_overhanging|overhanging]] stern of a vessel [[a/_above|above]] the waterline, [[b/_below|below]] and somewhat [[f/_forward|forward]] of the stern proper.**
-- **The piece of a shoe or a [[b/_boot|boot]] [[a/_around|around]] the [[h/_heel|heel]] of the [[f/_foot|foot]] ([[a/_above|above]] the [[h/_heel|heel]] of the shoe/[[b/_boot|boot]]).**
-- **The [[b/_breast|breast]] of a [[h/_horse|horse]]; that part of a [[h/_horse|horse]] [[b/_between|between]] the shoulders and under the [[n/_neck|neck]].**
-- **The [[e/_enclosed|enclosed]] or partly [[c/_closed|closed]] [[n/_negative|negative]] space of a [[g/_glyph|glyph]].**
+- **The [[p/_piece|piece]] of a shoe or a [[b/_boot|boot]] [[a/_around|around]] the [[h/_heel|heel]] of the [[f/_foot|foot]] ([[a/_above|above]] the [[h/_heel|heel]] of the shoe/[[b/_boot|boot]]).**
+- **The [[b/_breast|breast]] of a [[h/_horse|horse]]; that [[p/_part|part]] of a [[h/_horse|horse]] [[b/_between|between]] the shoulders and under the [[n/_neck|neck]].**
+- **The [[e/_enclosed|enclosed]] or [[p/_partly|partly]] [[c/_closed|closed]] [[n/_negative|negative]] space of a [[g/_glyph|glyph]].**
 - **An [[e/_encounter|encounter]].**
 ---
 #verb

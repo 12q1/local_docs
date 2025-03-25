@@ -1,6 +1,6 @@
 # Epilithic
 ---
 #adjective
-- **Of, pertaining to, or [[b/_being|being]] an epilith.**
+- **Of, [[p/_pertaining|pertaining]] to, or [[b/_being|being]] an epilith.**
 ---
 ---

@@ -5,7 +5,7 @@
 - **A [[f/_feast|feast]], [[c/_celebration|celebration]] or [[c/_carnival|carnival]].**
 ---
 #verb
-- **(usually in the passive) To [[c/_celebrate|celebrate]] (a person).**
+- **(usually in the [[p/_passive|passive]]) To [[c/_celebrate|celebrate]] (a [[p/_person|person]]).**
 ---
 ### Synonyms
 - [[c/_celebrate|celebrate]]

@@ -1,9 +1,9 @@
 # Lecher
 ---
 #noun
-- **A [[l/_lecherous|lecherous]] person.**
+- **A [[l/_lecherous|lecherous]] [[p/_person|person]].**
 ---
 #verb
-- **To practice [[l/_lewdness|lewdness]].**
+- **To [[p/_practice|practice]] [[l/_lewdness|lewdness]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Moujik
 ---
 #noun
-- **A ([[m/_male|male]]) peasant, [[e/_especially|especially]] in pre-revolutionary ([[i/_imperial|imperial]]) Russia.**
+- **A ([[m/_male|male]]) [[p/_peasant|peasant]], [[e/_especially|especially]] in [[p/_pre|pre]]-revolutionary ([[i/_imperial|imperial]]) Russia.**
 ---
 ---

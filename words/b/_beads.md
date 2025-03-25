@@ -1,8 +1,8 @@
 # Beads
 ---
 #noun
-- **Prayer, [[l/_later|later]] [[e/_especially|especially]] with a rosary.**
-- **[[e/_each|Each]] in a string of small [[b/_balls|balls]] [[m/_making|making]] up the rosary or paternoster.**
+- **[[p/_prayer|Prayer]], [[l/_later|later]] [[e/_especially|especially]] with a rosary.**
+- **[[e/_each|Each]] in a string of small [[b/_balls|balls]] [[m/_making|making]] up the rosary or [[p/_paternoster|paternoster]].**
 - **A small, round [[o/_object|object]].**
 - **([[h/_heading|heading]]) A ridge, [[b/_band|band]], or [[m/_molding|molding]].**
 - **[[k/_knowledge|Knowledge]] sufficient to [[d/_direct|direct]] [[o/_one|one]]'s [[a/_activities|activities]] to a purpose.**

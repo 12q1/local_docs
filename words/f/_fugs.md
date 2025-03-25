@@ -2,8 +2,8 @@
 ---
 #noun
 - **An [[a/_act|act]] of sexual [[i/_intercourse|intercourse]].**
-- **A sexual partner, [[e/_especially|especially]] a [[c/_casual|casual]] [[o/_one|one]].**
-- **A [[h/_highly|highly]] [[c/_contemptible|contemptible]] person.**
+- **A sexual [[p/_partner|partner]], [[e/_especially|especially]] a [[c/_casual|casual]] [[o/_one|one]].**
+- **A [[h/_highly|highly]] [[c/_contemptible|contemptible]] [[p/_person|person]].**
 - **A thing of [[n/_no|no]] value, a small [[a/_amount|amount]].**
 	- _Example: I don't give a fuck._
 ---
@@ -13,7 +13,7 @@
 - **To [[h/_have|have]] sexual [[i/_intercourse|intercourse]], to [[c/_copulate|copulate]].**
 	- _Example: Fighting for peace is like fucking for virginity._
 - **To [[h/_have|have]] sexual [[i/_intercourse|intercourse]] with.**
-- **To [[i/_insert|insert]] [[o/_one|one]]’s penis, a [[d/_dildo|dildo]] or [[o/_other|other]] phallic [[o/_object|object]], [[i/_into|into]] a specified [[o/_orifice|orifice]] or [[c/_cleft|cleft]].**
+- **To [[i/_insert|insert]] [[o/_one|one]]’s [[p/_penis|penis]], a [[d/_dildo|dildo]] or [[o/_other|other]] [[p/_phallic|phallic]] [[o/_object|object]], [[i/_into|into]] a specified [[o/_orifice|orifice]] or [[c/_cleft|cleft]].**
 - **To put in an [[e/_extremely|extremely]] [[d/_difficult|difficult]] or [[i/_impossible|impossible]] situation.**
 	- _Example: I'm afraid they're gonna fuck you on this one._
 - **To [[d/_defraud|defraud]], [[d/_deface|deface]] or [[o/_otherwise|otherwise]] treat [[b/_badly|badly]].**
@@ -30,7 +30,7 @@
 ### Synonyms
 - [[a/_annihilate|annihilate]], [[o/_obliterate|obliterate]], [[r/_ruin|ruin]], [[b/_bang|bang]], [[e/_eff|eff]], [[h/_hump|hump]], [[s/_screw|screw]], [[s/_shag|shag]], [[b/_bang|bang]], [[e/_eff|eff]], [[h/_hump|hump]], [[r/_ream|ream]], [[s/_screw|screw]], [[s/_shag|shag]], [[b/_bugger|bugger]], [[e/_eff|eff]], [[f/_feck|feck]]
 #noun
-- **A [[h/_heavy|heavy]], [[m/_musty|musty]], and unpleasant [[a/_atmosphere|atmosphere]], usually in a poorly-ventilated [[a/_area|area]].**
+- **A [[h/_heavy|heavy]], [[m/_musty|musty]], and unpleasant [[a/_atmosphere|atmosphere]], usually in a [[p/_poorly|poorly]]-ventilated [[a/_area|area]].**
 - **A state of [[l/_lethargy|lethargy]] and [[c/_confusion|confusion]]; [[d/_daze|daze]].**
 - **A state of [[c/_chaos|chaos]] or [[c/_confusion|confusion]].**
 ---

@@ -6,7 +6,7 @@
 ### Synonyms
 - [[m/_moult|moult]]
 #noun
-- **The [[c/_coverings|coverings]] of an [[a/_animal|animal]] that [[h/_have|have]] [[b/_been|been]] shed or [[c/_cast|cast]] [[o/_off|off]], particularly the [[m/_molted|molted]] exoskeletons of [[a/_arthropods|arthropods]].**
-- **([[h/_history|history]]) [[a/_among|Among]] the [[a/_ancient|Ancient]] Romans, weaponry and [[e/_equipment|equipment]] stripped from the person of a [[f/_foe|foe]]; [[b/_booty|booty]].**
+- **The [[c/_coverings|coverings]] of an [[a/_animal|animal]] that [[h/_have|have]] [[b/_been|been]] shed or [[c/_cast|cast]] [[o/_off|off]], [[p/_particularly|particularly]] the [[m/_molted|molted]] exoskeletons of [[a/_arthropods|arthropods]].**
+- **([[h/_history|history]]) [[a/_among|Among]] the [[a/_ancient|Ancient]] Romans, weaponry and [[e/_equipment|equipment]] stripped from the [[p/_person|person]] of a [[f/_foe|foe]]; [[b/_booty|booty]].**
 ---
 ---

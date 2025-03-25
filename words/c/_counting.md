@@ -12,7 +12,7 @@
 - **To [[c/_consider|consider]] something an [[e/_example|example]] of something.**
 	- _Example: He counts himself a hero after saving the cat from the river.   I count you as more than a friend._
 - **To take [[a/_account|account]] or [[n/_note|note]] (of).**
-- **To plead [[o/_orally|orally]]; to [[a/_argue|argue]] a [[m/_matter|matter]] in [[c/_court|court]]; to recite a [[c/_count|count]].**
+- **To [[p/_plead|plead]] [[o/_orally|orally]]; to [[a/_argue|argue]] a [[m/_matter|matter]] in [[c/_court|court]]; to recite a [[c/_count|count]].**
 ---
 ### Synonyms
 - [[e/_enumerate|enumerate]], [[n/_number|number]]

@@ -1,7 +1,7 @@
 # Firstborn
 ---
 #noun
-- **The [[f/_first|first]] [[c/_child|child]] to be [[b/_born|born]] to a parent or [[f/_family|family]].**
+- **The [[f/_first|first]] [[c/_child|child]] to be [[b/_born|born]] to a [[p/_parent|parent]] or [[f/_family|family]].**
 ---
 ### Antonyms
 - [[l/_lastborn|lastborn]]

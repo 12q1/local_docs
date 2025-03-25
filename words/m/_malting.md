@@ -7,6 +7,6 @@
 ---
 #noun
 - **The process of turning [[g/_grain|grain]] [[i/_into|into]] [[m/_malt|malt]].**
-- **The premises where [[g/_grain|grain]] is [[m/_malted|malted]].**
+- **The [[p/_premises|premises]] where [[g/_grain|grain]] is [[m/_malted|malted]].**
 ---
 ---

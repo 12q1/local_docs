@@ -1,7 +1,7 @@
 # Levo
 ---
 #adjective
-- **(of an [[o/_optically|optically]] [[a/_active|active]] [[c/_compound|compound]] or [[c/_crystal|crystal]]) That rotates the plane of polarized [[l/_light|light]] to the [[l/_left|left]], or [[a/_anticlockwise|anticlockwise]].**
+- **(of an [[o/_optically|optically]] [[a/_active|active]] [[c/_compound|compound]] or [[c/_crystal|crystal]]) That rotates the [[p/_plane|plane]] of [[p/_polarized|polarized]] [[l/_light|light]] to the [[l/_left|left]], or [[a/_anticlockwise|anticlockwise]].**
 	- _Example: Levofloxacin is the levorotatory enantiomer of the medication ofloxacin._
 ---
 ### Synonyms

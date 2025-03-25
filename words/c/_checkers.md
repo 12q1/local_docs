@@ -8,10 +8,10 @@
 - **[[o/_one|One]] who [[h/_hinders|hinders]] or stops something.**
 ---
 #noun
-- **A playing piece in the [[g/_game|game]] of [[c/_checkers|checkers]] ([[b/_british|British]]: [[d/_draughts|draughts]]).**
-- **A pattern of [[a/_alternating|alternating]] [[c/_colours|colours]] as on a [[c/_chessboard|chessboard]].**
+- **A [[p/_playing|playing]] [[p/_piece|piece]] in the [[g/_game|game]] of [[c/_checkers|checkers]] ([[b/_british|British]]: [[d/_draughts|draughts]]).**
+- **A [[p/_pattern|pattern]] of [[a/_alternating|alternating]] [[c/_colours|colours]] as on a [[c/_chessboard|chessboard]].**
 ---
 #noun
-- **The [[f/_fruit|fruit]] of the wild service tree or [[c/_chequer|chequer]] tree, Photinia villosa, syn. Sorbus terminalis**
+- **The [[f/_fruit|fruit]] of the wild service tree or [[c/_chequer|chequer]] tree, [[p/_photinia|Photinia]] villosa, syn. Sorbus terminalis**
 ---
 ---

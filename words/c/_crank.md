@@ -1,23 +1,23 @@
 # Crank
 ---
 #noun
-- **A [[b/_bent|bent]] piece of an [[a/_axle|axle]] or shaft, or an [[a/_attached|attached]] [[a/_arm|arm]] perpendicular, or [[n/_nearly|nearly]] so, to the [[e/_end|end]] of a shaft or wheel, used to [[i/_impart|impart]] a rotation to a wheel or [[o/_other|other]] [[m/_mechanical|mechanical]] [[d/_device|device]]; [[a/_also|also]] used to [[c/_change|change]] [[c/_circular|circular]] [[i/_into|into]] reciprocating [[m/_motion|motion]], or reciprocating [[i/_into|into]] [[c/_circular|circular]] [[m/_motion|motion]].**
+- **A [[b/_bent|bent]] [[p/_piece|piece]] of an [[a/_axle|axle]] or shaft, or an [[a/_attached|attached]] [[a/_arm|arm]] [[p/_perpendicular|perpendicular]], or [[n/_nearly|nearly]] so, to the [[e/_end|end]] of a shaft or wheel, used to [[i/_impart|impart]] a rotation to a wheel or [[o/_other|other]] [[m/_mechanical|mechanical]] [[d/_device|device]]; [[a/_also|also]] used to [[c/_change|change]] [[c/_circular|circular]] [[i/_into|into]] reciprocating [[m/_motion|motion]], or reciprocating [[i/_into|into]] [[c/_circular|circular]] [[m/_motion|motion]].**
 	- _Example: I grind my coffee by hand with a coffee grinder with a crank handle._
-- **The [[a/_act|act]] of [[c/_converting|converting]] power [[i/_into|into]] [[m/_motion|motion]], by turning a [[c/_crankshaft|crankshaft]].**
+- **The [[a/_act|act]] of [[c/_converting|converting]] [[p/_power|power]] [[i/_into|into]] [[m/_motion|motion]], by turning a [[c/_crankshaft|crankshaft]].**
 	- _Example: Yes, a crank was all it needed to start._
-- **[[a/_any|Any]] [[b/_bend|bend]], turn, or winding, as of a passage.**
-- **An [[i/_ill|ill]]-tempered or [[n/_nasty|nasty]] person.**
+- **[[a/_any|Any]] [[b/_bend|bend]], turn, or winding, as of a [[p/_passage|passage]].**
+- **An [[i/_ill|ill]]-tempered or [[n/_nasty|nasty]] [[p/_person|person]].**
 	- _Example: Billy-Bob is a nasty old crank! He chased my cat away._
 - **A twist or turn of the [[m/_mind|mind]]; [[c/_caprice|caprice]]; whim;**
-- **A [[f/_fit|fit]] of temper or passion.**
-- **([[d/_dated|dated]] in US) A person who is [[c/_considered|considered]] strange or [[o/_odd|odd]] by [[o/_others|others]]. They [[m/_may|may]] [[b/_behave|behave]] in unconventional ways.**
+- **A [[f/_fit|fit]] of temper or [[p/_passion|passion]].**
+- **([[d/_dated|dated]] in US) A [[p/_person|person]] who is [[c/_considered|considered]] strange or [[o/_odd|odd]] by [[o/_others|others]]. They [[m/_may|may]] [[b/_behave|behave]] in unconventional ways.**
 	- _Example: John is a crank because he talks to himself._
 - **(1800s) A [[b/_baseball|baseball]] [[f/_fan|fan]].**
 - **An [[a/_advocate|advocate]] of a pseudoscience [[m/_movement|movement]].**
 	- _Example: That crank next door thinks he’s created cold fusion in his garage._
-- **A twist or turn in speech; word play [[c/_consisting|consisting]] in a [[c/_change|change]] of the [[f/_form|form]] or [[m/_meaning|meaning]] of a word.**
-- **A sick person; an [[i/_invalid|invalid]].**
-- **A penis.**
+- **A twist or turn in speech; word [[p/_play|play]] [[c/_consisting|consisting]] in a [[c/_change|change]] of the [[f/_form|form]] or [[m/_meaning|meaning]] of a word.**
+- **A sick [[p/_person|person]]; an [[i/_invalid|invalid]].**
+- **A [[p/_penis|penis]].**
 ---
 ### Synonyms
 - [[c/_cock|cock]], [[d/_dick|dick]], [[c/_crackpot|crackpot]], [[k/_kook|kook]], [[w/_weirdo|weirdo]]
@@ -39,7 +39,7 @@
 #adjective
 - **Strange, weird, [[o/_odd|odd]].**
 - **Sick; unwell**
-- **(of a ship) [[l/_liable|Liable]] to [[c/_capsize|capsize]] [[b/_because|because]] of poorly stowed [[c/_cargo|cargo]] or [[i/_insufficient|insufficient]] [[b/_ballast|ballast]].**
+- **(of a ship) [[l/_liable|Liable]] to [[c/_capsize|capsize]] [[b/_because|because]] of [[p/_poorly|poorly]] stowed [[c/_cargo|cargo]] or [[i/_insufficient|insufficient]] [[b/_ballast|ballast]].**
 - **[[f/_full|Full]] of spirit; [[b/_brisk|brisk]]; [[l/_lively|lively]]; sprightly; [[o/_overconfident|overconfident]]; [[o/_opinionated|opinionated]].**
 ---
 ### Synonyms

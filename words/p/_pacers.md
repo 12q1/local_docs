@@ -6,6 +6,6 @@
 - **A [[p/_pacemaker|pacemaker]].**
 ---
 #noun
-- **A [[m/_mechanical|mechanical]] pencil.**
+- **A [[m/_mechanical|mechanical]] [[p/_pencil|pencil]].**
 ---
 ---

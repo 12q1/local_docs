@@ -1,6 +1,6 @@
 # Interoceptive
 ---
 #adjective
-- **Of or pertaining to interoception or an [[i/_interoceptor|interoceptor]].**
+- **Of or [[p/_pertaining|pertaining]] to interoception or an [[i/_interoceptor|interoceptor]].**
 ---
 ---

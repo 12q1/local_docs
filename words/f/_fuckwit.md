@@ -1,7 +1,7 @@
 # Fuckwit
 ---
 #noun
-- **A very stupid person.**
-- **A [[c/_contemptible|contemptible]] person.**
+- **A very stupid [[p/_person|person]].**
+- **A [[c/_contemptible|contemptible]] [[p/_person|person]].**
 ---
 ---

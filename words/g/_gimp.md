@@ -3,7 +3,7 @@
 #noun
 - **A [[n/_narrow|narrow]] [[o/_ornamental|ornamental]] [[f/_fabric|fabric]] or [[b/_braid|braid]] of silk, wool, or [[c/_cotton|cotton]], [[o/_often|often]] stiffened with [[m/_metallic|metallic]] wire or [[c/_coarse|coarse]] [[c/_cord|cord]] running through it, used as trimming for [[d/_dresses|dresses]], [[c/_curtains|curtains]], [[f/_furniture|furniture]], [[e/_etc|etc]]. [[a/_also|Also]] [[g/_guimpe|guimpe]].**
 - **[[a/_any|Any]] [[c/_coarse|coarse]] or reinforced thread, such as a [[g/_glazed|glazed]] thread [[e/_employed|employed]] in [[l/_lacemaking|lacemaking]] to [[o/_outline|outline]] [[d/_designs|designs]], or silk thread used as a [[f/_fishing|fishing]] [[l/_leader|leader]], protected from the [[b/_bite|bite]] of [[f/_fish|fish]] by a wrapping of [[f/_fine|fine]] wire.**
-- **The plastic [[c/_cord|cord]] used in the plaiting and [[k/_knotting|knotting]] [[c/_craft|craft]] Scoubidou ([[l/_lanyard|lanyard]] [[m/_making|making]]); or, the process [[i/_itself|itself]].**
+- **The [[p/_plastic|plastic]] [[c/_cord|cord]] used in the [[p/_plaiting|plaiting]] and [[k/_knotting|knotting]] [[c/_craft|craft]] Scoubidou ([[l/_lanyard|lanyard]] [[m/_making|making]]); or, the process [[i/_itself|itself]].**
 - **([[c/_chiefly|chiefly]] [[n/_north|North]] [[e/_eastern|Eastern]] US) [[g/_gumption|Gumption]]**
 ---
 ### Synonyms

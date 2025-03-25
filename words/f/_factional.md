@@ -1,6 +1,6 @@
 # Factional
 ---
 #adjective
-- **Of, pertaining to, or [[c/_composed|composed]] of [[f/_factions|factions]].**
+- **Of, [[p/_pertaining|pertaining]] to, or [[c/_composed|composed]] of [[f/_factions|factions]].**
 ---
 ---

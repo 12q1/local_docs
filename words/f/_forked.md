@@ -14,7 +14,7 @@
 - **To [[b/_bale|bale]] a shaft [[d/_dry|dry]].**
 ---
 #adjective
-- **That splits [[i/_into|into]] two or [[m/_more|more]] [[d/_directions|directions]], or parts.**
+- **That splits [[i/_into|into]] two or [[m/_more|more]] [[d/_directions|directions]], or [[p/_parts|parts]].**
 	- _Example: It's a forked road. Turn left at the fork._
 ---
 ### Synonyms
@@ -23,7 +23,7 @@
 - **To [[h/_have|have]] sexual [[i/_intercourse|intercourse]], to [[c/_copulate|copulate]].**
 	- _Example: Fighting for peace is like fucking for virginity._
 - **To [[h/_have|have]] sexual [[i/_intercourse|intercourse]] with.**
-- **To [[i/_insert|insert]] [[o/_one|one]]’s penis, a [[d/_dildo|dildo]] or [[o/_other|other]] phallic [[o/_object|object]], [[i/_into|into]] a specified [[o/_orifice|orifice]] or [[c/_cleft|cleft]].**
+- **To [[i/_insert|insert]] [[o/_one|one]]’s [[p/_penis|penis]], a [[d/_dildo|dildo]] or [[o/_other|other]] [[p/_phallic|phallic]] [[o/_object|object]], [[i/_into|into]] a specified [[o/_orifice|orifice]] or [[c/_cleft|cleft]].**
 - **To put in an [[e/_extremely|extremely]] [[d/_difficult|difficult]] or [[i/_impossible|impossible]] situation.**
 	- _Example: I'm afraid they're gonna fuck you on this one._
 - **To [[d/_defraud|defraud]], [[d/_deface|deface]] or [[o/_otherwise|otherwise]] treat [[b/_badly|badly]].**

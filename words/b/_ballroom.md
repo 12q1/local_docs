@@ -5,6 +5,6 @@
 - **A type of [[e/_elegant|elegant]] [[d/_dance|dance]].**
 ---
 #verb
-- **To take part in [[b/_ballroom|ballroom]] [[d/_dancing|dancing]].**
+- **To take [[p/_part|part]] in [[b/_ballroom|ballroom]] [[d/_dancing|dancing]].**
 ---
 ---

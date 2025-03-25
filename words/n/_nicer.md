@@ -1,16 +1,16 @@
 # Nicer
 ---
 #adjective
-- **Pleasant, satisfactory.**
-- **Of a person: [[f/_friendly|friendly]], [[a/_attractive|attractive]].**
+- **[[p/_pleasant|Pleasant]], satisfactory.**
+- **Of a [[p/_person|person]]: [[f/_friendly|friendly]], [[a/_attractive|attractive]].**
 - **Respectable; virtuous.**
 	- _Example: What is a nice person like you doing in a place like this?_
-- **(with and) Shows that the [[g/_given|given]] [[a/_adjective|adjective]] is [[d/_desirable|desirable]], or [[a/_acts|acts]] as a [[m/_mild|mild]] [[i/_intensifier|intensifier]]; pleasantly, quite.**
+- **(with and) Shows that the [[g/_given|given]] [[a/_adjective|adjective]] is [[d/_desirable|desirable]], or [[a/_acts|acts]] as a [[m/_mild|mild]] [[i/_intensifier|intensifier]]; [[p/_pleasantly|pleasantly]], quite.**
 	- _Example: The soup is nice and hot._
 - **Silly, [[i/_ignorant|ignorant]]; [[f/_foolish|foolish]].**
-- **Particular in [[o/_one|one]]'s [[c/_conduct|conduct]]; scrupulous, [[p/_painstaking|painstaking]]; [[c/_choosy|choosy]].**
-- **Particular as regards rules or qualities; strict.**
-- **Showing or requiring [[g/_great|great]] precision or sensitive [[d/_discernment|discernment]]; subtle.**
+- **[[p/_particular|Particular]] in [[o/_one|one]]'s [[c/_conduct|conduct]]; scrupulous, [[p/_painstaking|painstaking]]; [[c/_choosy|choosy]].**
+- **[[p/_particular|Particular]] as regards rules or qualities; strict.**
+- **Showing or requiring [[g/_great|great]] [[p/_precision|precision]] or sensitive [[d/_discernment|discernment]]; subtle.**
 - **[[e/_easily|Easily]] [[i/_injured|injured]]; [[d/_delicate|delicate]]; [[d/_dainty|dainty]].**
 - **[[d/_doubtful|Doubtful]], as to the [[o/_outcome|outcome]]; risky.**
 ---

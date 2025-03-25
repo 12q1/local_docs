@@ -29,9 +29,9 @@
 ### Synonyms
 - [[b/_barring|barring]]
 #conjunction
-- **On the [[c/_contrary|contrary]], rather (as a regular [[a/_adversative|adversative]] [[c/_conjunction|conjunction]], [[i/_introducing|introducing]] a word or [[c/_clause|clause]] in [[c/_contrast|contrast]] or [[c/_contradiction|contradiction]] with the preceding [[n/_negative|negative]] [[c/_clause|clause]] or sentence).**
+- **On the [[c/_contrary|contrary]], rather (as a regular [[a/_adversative|adversative]] [[c/_conjunction|conjunction]], [[i/_introducing|introducing]] a word or [[c/_clause|clause]] in [[c/_contrast|contrast]] or [[c/_contradiction|contradiction]] with the [[p/_preceding|preceding]] [[n/_negative|negative]] [[c/_clause|clause]] or sentence).**
 	- _Example: I am not rich but [I am] poor  not John but Peter went there._
-- **[[h/_however|However]], [[a/_although|although]], [[n/_nevertheless|nevertheless]], on the [[o/_other|other]] [[h/_hand|hand]] ([[i/_introducing|introducing]] a [[c/_clause|clause]] [[c/_contrary|contrary]] to prior [[b/_belief|belief]] or in [[c/_contrast|contrast]] with the preceding [[c/_clause|clause]] or sentence).**
+- **[[h/_however|However]], [[a/_although|although]], [[n/_nevertheless|nevertheless]], on the [[o/_other|other]] [[h/_hand|hand]] ([[i/_introducing|introducing]] a [[c/_clause|clause]] [[c/_contrary|contrary]] to prior [[b/_belief|belief]] or in [[c/_contrast|contrast]] with the [[p/_preceding|preceding]] [[c/_clause|clause]] or sentence).**
 	- _Example: She is very old but still attractive._
 - **[[e/_except|Except]] that ([[i/_introducing|introducing]] a subordinate [[c/_clause|clause]] which qualifies a [[n/_negative|negative]] statement); [[a/_also|also]], with [[o/_omission|omission]] of the subject of the subordinate [[c/_clause|clause]], [[a/_acting|acting]] as a [[n/_negative|negative]] relative, "[[e/_except|except]] [[o/_one|one]] that", "[[e/_except|except]] such that".**
 	- _Example: I cannot but feel offended._

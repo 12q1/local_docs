@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[a/_artificial|artificial]] [[d/_diamond|diamond]] used as [[a/_adornment|adornment]], such as a rhinestone.**
-- **A [[d/_diamante|diamante]] poem.**
+- **A [[d/_diamante|diamante]] [[p/_poem|poem]].**
 ---
 #adjective
 - **[[c/_covered|Covered]] in [[d/_diamante|diamante]] [[d/_decorations|decorations]]**

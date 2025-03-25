@@ -15,6 +15,6 @@
 #adjective
 - **That [[m/_marches|marches]].**
 	- _Example: a marching band_
-- **Placed or situated in a [[l/_line|line]] or [[l/_lines|lines]], reminiscent or [[e/_evocative|evocative]] of [[m/_marching|marching]] soldiers.**
+- **[[p/_placed|Placed]] or situated in a [[l/_line|line]] or [[l/_lines|lines]], reminiscent or [[e/_evocative|evocative]] of [[m/_marching|marching]] soldiers.**
 ---
 ---

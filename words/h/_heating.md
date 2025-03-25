@@ -6,7 +6,7 @@
 - **To [[b/_become|become]] [[h/_hotter|hotter]].**
 	- _Example: There's a pot of soup heating on the stove._
 - **To [[e/_excite|excite]] or [[m/_make|make]] [[h/_hot|hot]] by [[a/_action|action]] or [[e/_emotion|emotion]]; to [[m/_make|make]] [[f/_feverish|feverish]].**
-- **To [[e/_excite|excite]] [[a/_ardour|ardour]] in; to rouse to [[a/_action|action]]; to [[e/_excite|excite]] to [[e/_excess|excess]]; to [[i/_inflame|inflame]], as the passions.**
+- **To [[e/_excite|excite]] [[a/_ardour|ardour]] in; to rouse to [[a/_action|action]]; to [[e/_excite|excite]] to [[e/_excess|excess]]; to [[i/_inflame|inflame]], as the [[p/_passions|passions]].**
 - **To [[a/_arouse|arouse]], to [[e/_excite|excite]] (sexually).**
 	- _Example: The massage heated her up._
 ---

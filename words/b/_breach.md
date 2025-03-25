@@ -1,7 +1,7 @@
 # Breach
 ---
 #noun
-- **A [[g/_gap|gap]] or [[o/_opening|opening]] [[m/_made|made]] by [[b/_breaking|breaking]] or [[b/_battering|battering]], as in a wall, [[f/_fortification|fortification]] or [[l/_levee|levee]] / [[e/_embankment|embankment]]; the space [[b/_between|between]] the parts of a solid [[b/_body|body]] rent by violence**
+- **A [[g/_gap|gap]] or [[o/_opening|opening]] [[m/_made|made]] by [[b/_breaking|breaking]] or [[b/_battering|battering]], as in a wall, [[f/_fortification|fortification]] or [[l/_levee|levee]] / [[e/_embankment|embankment]]; the space [[b/_between|between]] the [[p/_parts|parts]] of a solid [[b/_body|body]] rent by violence**
 - **A [[b/_breaking|breaking]] up of [[a/_amicable|amicable]] relations, a [[f/_falling|falling]]-[[o/_out|out]].**
 - **A [[b/_breaking|breaking]] of waters, as [[o/_over|over]] a vessel or a [[c/_coastal|coastal]] [[d/_defence|defence]]; the waters themselves**
 	- _Example: A clear breach is when the waves roll over the vessel without breaking. A clean breach is when everything on deck is swept away._

@@ -1,7 +1,7 @@
 # Crusty
 ---
 #noun
-- **A tramp or [[h/_homeless|homeless]] [[y/_young|young]] person with poor [[c/_cleanliness|cleanliness]].**
+- **A tramp or [[h/_homeless|homeless]] [[y/_young|young]] [[p/_person|person]] with [[p/_poor|poor]] [[c/_cleanliness|cleanliness]].**
 - **[[d/_dried|Dried]] [[e/_eye|eye]] [[m/_mucus|mucus]].**
 - **A [[m/_member|member]] of an urban subculture with roots in punk and [[g/_grebo|grebo]], [[c/_characterized|characterized]] by [[a/_antiestablishment|antiestablishment]] [[a/_attitudes|attitudes]] and an unkempt [[a/_appearance|appearance]].**
 ---
@@ -9,7 +9,7 @@
 - [[g/_gound|gound]], [[s/_sleep|sleep]]
 #adjective
 - **[[h/_having|Having]] a [[c/_crust|crust]], [[e/_especially|especially]] a thick [[o/_one|one]].**
-- **(of a person or [[b/_behavior|behavior]]) Short-tempered and [[g/_gruff|gruff]] but, sometimes, with a [[h/_harmless|harmless]] or [[b/_benign|benign]] [[i/_inner|inner]] [[n/_nature|nature]].**
+- **(of a [[p/_person|person]] or [[b/_behavior|behavior]]) Short-tempered and [[g/_gruff|gruff]] but, sometimes, with a [[h/_harmless|harmless]] or [[b/_benign|benign]] [[i/_inner|inner]] [[n/_nature|nature]].**
 - **Of very [[l/_low|low]] quality.**
 ---
 ### Synonyms

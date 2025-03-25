@@ -1,7 +1,7 @@
 # Ids
 ---
 #noun
-- **The unconscious [[i/_impulsive|impulsive]] [[c/_component|component]] of the personality in the [[f/_freudian|Freudian]] psychoanalytic [[m/_model|model]].**
+- **The unconscious [[i/_impulsive|impulsive]] [[c/_component|component]] of the [[p/_personality|personality]] in the [[f/_freudian|Freudian]] psychoanalytic [[m/_model|model]].**
 ---
 #noun
 - **[[i/_identifier|Identifier]].**

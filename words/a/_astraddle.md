@@ -1,10 +1,10 @@
 # Astraddle
 ---
 #adverb
-- **In a straddling position; [[a/_astride|astride]].**
+- **In a straddling [[p/_position|position]]; [[a/_astride|astride]].**
 ---
 #preposition
-- **In a straddling position on.**
+- **In a straddling [[p/_position|position]] on.**
 ---
 ### Synonyms
 - 

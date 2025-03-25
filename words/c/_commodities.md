@@ -9,6 +9,6 @@
 	- _Example: Although they were once in the forefront of consumer electronics, the calculators have become a mere commodity._
 - **[[a/_anything|Anything]] which [[h/_has|has]] [[b/_both|both]] a use-value and an [[e/_exchange|exchange]]-value.**
 - **[[c/_convenience|Convenience]]; usefulness, suitability.**
-- **Self-[[i/_interest|interest]]; personal [[c/_convenience|convenience]] or [[a/_advantage|advantage]].**
+- **Self-[[i/_interest|interest]]; [[p/_personal|personal]] [[c/_convenience|convenience]] or [[a/_advantage|advantage]].**
 ---
 ---

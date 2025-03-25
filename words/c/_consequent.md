@@ -8,6 +8,6 @@
 #adjective
 - **[[f/_following|Following]] as a result, [[i/_inference|inference]], or [[n/_natural|natural]] [[e/_effect|effect]].**
 	- _Example: His retirement and consequent spare time enabled him to travel more._
-- **Of or pertaining to [[c/_consequences|consequences]].**
+- **Of or [[p/_pertaining|pertaining]] to [[c/_consequences|consequences]].**
 ---
 ---

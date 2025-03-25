@@ -1,7 +1,7 @@
 # Leaved
 ---
 #verb
-- **To [[g/_give|give]] [[l/_leave|leave]] to; [[a/_allow|allow]]; permit; [[l/_let|let]]; [[g/_grant|grant]].**
+- **To [[g/_give|give]] [[l/_leave|leave]] to; [[a/_allow|allow]]; [[p/_permit|permit]]; [[l/_let|let]]; [[g/_grant|grant]].**
 	- _Example: We were not left go to the beach after school except on a weekend._
 ---
 #verb

@@ -20,7 +20,7 @@
 	- _Example: He followed the fresh hoofprints to find the deer._
 - **(of [[f/_food|food]]) Not [[c/_cooked|cooked]], [[d/_dried|dried]], [[f/_frozen|frozen]], or spoiled.**
 	- _Example: After taking a beating in the boxing ring, the left side of his face looked like fresh meat._
-- **(of plant [[m/_material|material]]) Still [[g/_green|green]] and not [[d/_dried|dried]].**
+- **(of [[p/_plant|plant]] [[m/_material|material]]) Still [[g/_green|green]] and not [[d/_dried|dried]].**
 - **[[i/_invigoratingly|Invigoratingly]] [[c/_cool|cool]] and refreshing.**
 	- _Example: What a nice fresh breeze._
 - **(of water) Without salt; not saline.**

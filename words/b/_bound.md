@@ -10,13 +10,13 @@
 	- _Example: These are the ties that bind._
 - **To tie or [[f/_fasten|fasten]] tightly together, with a [[c/_cord|cord]], [[b/_band|band]], [[l/_ligature|ligature]], [[c/_chain|chain]], [[e/_etc|etc]].**
 	- _Example: to bind grain in bundles  to bind a prisoner_
-- **To [[c/_confine|confine]], restrain, or [[h/_hold|hold]] by physical [[f/_force|force]] or [[i/_influence|influence]] of [[a/_any|any]] [[k/_kind|kind]].**
+- **To [[c/_confine|confine]], restrain, or [[h/_hold|hold]] by [[p/_physical|physical]] [[f/_force|force]] or [[i/_influence|influence]] of [[a/_any|any]] [[k/_kind|kind]].**
 	- _Example: Frost binds the earth._
 - **To [[c/_couple|couple]].**
 - **To [[o/_oblige|oblige]], restrain, or [[h/_hold|hold]], by [[a/_authority|authority]], [[l/_law|law]], [[d/_duty|duty]], promise, vow, [[a/_affection|affection]], or [[o/_other|other]] social tie.**
 	- _Example: to bind the conscience  to bind by kindness  bound by affection  commerce binds nations to each other_
-- **To put (a person) under [[d/_definite|definite]] [[l/_legal|legal]] [[o/_obligations|obligations]], [[e/_especially|especially]], under the [[o/_obligation|obligation]] of a [[b/_bond|bond]] or [[c/_covenant|covenant]].**
-- **To place under [[l/_legal|legal]] [[o/_obligation|obligation]] to serve.**
+- **To put (a [[p/_person|person]]) under [[d/_definite|definite]] [[l/_legal|legal]] [[o/_obligations|obligations]], [[e/_especially|especially]], under the [[o/_obligation|obligation]] of a [[b/_bond|bond]] or [[c/_covenant|covenant]].**
+- **To [[p/_place|place]] under [[l/_legal|legal]] [[o/_obligation|obligation]] to serve.**
 	- _Example: to bind an apprentice  bound out to service_
 - **To protect or strengthen by [[a/_applying|applying]] a [[b/_band|band]] or [[b/_binding|binding]], as the [[e/_edge|edge]] of a [[c/_carpet|carpet]] or [[g/_garment|garment]].**
 - **To [[m/_make|make]] [[f/_fast|fast]] (a thing) [[a/_about|about]] or upon something, as by tying; to [[e/_encircle|encircle]] with something.**
@@ -39,7 +39,7 @@
 - **(of a [[m/_morpheme|morpheme]]) That [[c/_cannot|cannot]] stand [[a/_alone|alone]] as a [[f/_free|free]] word.**
 - **(of a variable) [[c/_constrained|Constrained]] by a quantifier.**
 - **[[c/_constipated|Constipated]]; [[c/_costive|costive]].**
-- **[[c/_confined|Confined]] or restricted to a [[c/_certain|certain]] place; [[e/_e|e]].[[g/_g|g]]. railbound.**
+- **[[c/_confined|Confined]] or restricted to a [[c/_certain|certain]] [[p/_place|place]]; [[e/_e|e]].[[g/_g|g]]. railbound.**
 - **Unable to [[m/_move|move]] in [[c/_certain|certain]] [[c/_conditions|conditions]]; [[e/_e|e]].[[g/_g|g]]. snowbound.**
 ---
 ### Antonyms

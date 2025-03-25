@@ -7,7 +7,7 @@
 - **A [[m/_measure|measure]] of [[l/_liquid|liquid]].**
 ---
 #noun
-- **(usually in [[c/_compounds|compounds]]) A person in a [[l/_league|league]]**
+- **(usually in [[c/_compounds|compounds]]) A [[p/_person|person]] in a [[l/_league|league]]**
 	- _Example: I'm not a major-leaguer; I just play baseball._
 ---
 ---

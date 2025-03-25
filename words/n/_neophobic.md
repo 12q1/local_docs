@@ -1,7 +1,7 @@
 # Neophobic
 ---
 #noun
-- **A person or [[a/_animal|animal]] that [[f/_fears|fears]] or [[d/_dislikes|dislikes]] [[n/_new|new]] or [[n/_novel|novel]] [[e/_experiences|experiences]] or [[f/_food|food]].**
+- **A [[p/_person|person]] or [[a/_animal|animal]] that [[f/_fears|fears]] or [[d/_dislikes|dislikes]] [[n/_new|new]] or [[n/_novel|novel]] [[e/_experiences|experiences]] or [[f/_food|food]].**
 ---
 ### Synonyms
 - [[p/_paleophobic|paleophobic]]

@@ -3,7 +3,7 @@
 #verb
 - **To [[c/_collect|collect]]; [[n/_normally|normally]] separate things.**
 	- _Example: I've been gathering ideas from the people I work with._
-- **To [[b/_bring|bring]] parts of a whole [[c/_closer|closer]].**
+- **To [[b/_bring|bring]] [[p/_parts|parts]] of a whole [[c/_closer|closer]].**
 	- _Example: She gathered the shawl about her as she stepped into the cold._
 - **To [[i/_infer|infer]] or [[c/_conclude|conclude]]; to [[k/_know|know]] from a [[d/_different|different]] source.**
 	- _Example: From his silence, I gathered that things had not gone well._

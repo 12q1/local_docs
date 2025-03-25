@@ -7,6 +7,6 @@
 	- _Example: I've been doing this 12 hours non-stop, and am so hungry and tired that I've stopped thinking: I'm now on autopilot._
 ---
 #verb
-- **(of a vehicle) To pilot [[i/_itself|itself]]; to [[d/_drive|drive]] or travel [[a/_automatically|automatically]].**
+- **(of a vehicle) To [[p/_pilot|pilot]] [[i/_itself|itself]]; to [[d/_drive|drive]] or travel [[a/_automatically|automatically]].**
 ---
 ---

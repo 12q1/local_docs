@@ -4,6 +4,6 @@
 - **To [[m/_mark|mark]] with small spots**
 ---
 #noun
-- **A [[f/_flecked|flecked]] pattern.**
+- **A [[f/_flecked|flecked]] [[p/_pattern|pattern]].**
 ---
 ---

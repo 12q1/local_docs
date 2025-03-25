@@ -9,10 +9,10 @@
 	- _Example: cap wages._
 - **To [[m/_make|make]] something [[e/_even|even]] [[m/_more|more]] wonderful at the [[e/_end|end]].**
 	- _Example: That really capped my day._
-- **To select a player to play for a specified side.**
+- **To select a [[p/_player|player]] to [[p/_play|play]] for a specified side.**
 - **To shoot (someone) with a [[f/_firearm|firearm]].**
 	- _Example: In a school shooting, where some kid caps a bunch of other kids, where did he get the weapon? From a family member, probably their gun cabinet._
-- **To select to play for the [[n/_national|national]] team.**
+- **To select to [[p/_play|play]] for the [[n/_national|national]] team.**
 	- _Example: Peter Shilton is the most capped English footballer._
 - **To salute by uncovering the [[h/_head|head]] respectfully.**
 - **To [[d/_deprive|deprive]] of a [[c/_cap|cap]].**

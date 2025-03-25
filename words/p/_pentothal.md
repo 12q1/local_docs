@@ -1,0 +1,6 @@
+# Pentothal
+---
+#noun
+- **Thiopental.**
+---
+---

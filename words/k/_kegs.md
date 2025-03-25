@@ -7,6 +7,6 @@
 - [[b/_barrel|barrel]]
 #noun
 - **Underpants.**
-- **Trousers (pants).**
+- **Trousers ([[p/_pants|pants]]).**
 ---
 ---

@@ -10,7 +10,7 @@
 - **To [[y/_yield|yield]] [[f/_fruit|fruit]].**
 ---
 #noun
-- **The practice of [[i/_imitating|imitating]] woodgrain on a surface.**
+- **The [[p/_practice|practice]] of [[i/_imitating|imitating]] woodgrain on a surface.**
 - **[[i/_indentation|Indentation]]; roughening; [[m/_milling|milling]], as on [[e/_edges|edges]] of [[c/_coins|coins]].**
 - **A process in [[d/_dressing|dressing]] [[l/_leather|leather]], by which the skin is softened and the [[g/_grain|grain]] raised.**
 - **(soap [[m/_manufacture|manufacture]]) The process of separating soap from spent [[l/_lye|lye]], as with salt.**

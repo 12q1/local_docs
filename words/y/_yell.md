@@ -2,7 +2,7 @@
 ---
 #noun
 - **A shout.**
-- **A phrase to be shouted.**
+- **A [[p/_phrase|phrase]] to be shouted.**
 ---
 #verb
 - **Shout; [[h/_holler|holler]]; [[m/_make|make]] a [[l/_loud|loud]] sound with the voice.**

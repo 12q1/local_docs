@@ -5,7 +5,7 @@
 	- _Example: Some worms are said to exsert the proboscis._
 ---
 #adjective
-- **Standing [[o/_out|out]]; projecting [[b/_beyond|beyond]] some [[o/_other|other]] part.**
+- **Standing [[o/_out|out]]; projecting [[b/_beyond|beyond]] some [[o/_other|other]] [[p/_part|part]].**
 	- _Example: exsert stamens_
 ---
 ---

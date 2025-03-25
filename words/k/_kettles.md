@@ -6,7 +6,7 @@
 - **The quantity [[h/_held|held]] by a [[k/_kettle|kettle]].**
 - **A vessel for [[b/_boiling|boiling]] water for tea.**
 	- _Example: Stick the kettle on and we'll have a nice cup of tea._
-- **A [[k/_kettle|kettle]] [[h/_hole|hole]], sometimes [[a/_any|any]] pothole.**
+- **A [[k/_kettle|kettle]] [[h/_hole|hole]], sometimes [[a/_any|any]] [[p/_pothole|pothole]].**
 - **([[c/_collective|collective]]) A [[g/_group|group]] of raptors riding a thermal, [[e/_especially|especially]] when [[m/_migrating|migrating]].**
 	- _Example: a kettle of hawks_
 - **A steam [[l/_locomotive|locomotive]]**

@@ -1,0 +1,9 @@
+# Prerequisites
+---
+#noun
+- **Something that [[m/_must|must]] be [[g/_gained|gained]] in [[o/_order|order]] to [[g/_gain|gain]] something [[e/_else|else]]**
+	- _Example: A degree is a prerequisite for entry into this profession._
+- **In [[e/_education|education]], a [[c/_course|course]] or topic that [[m/_must|must]] be [[c/_completed|completed]] [[b/_before|before]] [[a/_another|another]] [[c/_course|course]] or topic [[c/_can|can]] be started. [[m/_may|May]] be [[c/_colloquially|colloquially]] referred to as a prereq.**
+	- _Example: Algebra is typically a prerequisite for physics._
+---
+---

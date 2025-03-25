@@ -1,6 +1,6 @@
 # Aeronautical
 ---
 #adjective
-- **Of or pertaining to the scientific study of [[f/_flight|flight]]**
+- **Of or [[p/_pertaining|pertaining]] to the scientific study of [[f/_flight|flight]]**
 ---
 ---

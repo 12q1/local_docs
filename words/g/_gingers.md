@@ -2,10 +2,10 @@
 ---
 #noun
 - **The pungent [[a/_aromatic|aromatic]] rhizome of a tropical [[a/_asian|Asian]] [[h/_herb|herb]], Zingiber officinale, used as a spice and as a stimulant and acarminative.**
-- **The plant that produces this rhizome.**
+- **The [[p/_plant|plant]] that produces this rhizome.**
 - **[[o/_other|Other]] species [[b/_belonging|belonging]] to the same [[f/_family|family]], Zingiberaceae, [[e/_especially|especially]] those of the [[g/_genus|genus]] Zingiber**
 - **A reddish-[[b/_brown|brown]] [[c/_color|color]].**
-- **A person with reddish-[[b/_brown|brown]] [[h/_hair|hair]]; a redhead.**
+- **A [[p/_person|person]] with reddish-[[b/_brown|brown]] [[h/_hair|hair]]; a redhead.**
 - **Vitality, vigour, [[l/_liveliness|liveliness]] (of [[c/_character|character]]).**
 ---
 #verb

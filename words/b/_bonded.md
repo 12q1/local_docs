@@ -12,8 +12,8 @@
 - **To [[f/_form|form]] a [[f/_friendship|friendship]] or [[e/_emotional|emotional]] [[c/_connection|connection]].**
 	- _Example: The men had bonded while serving together in Vietnam._
 - **To put in a [[b/_bonded|bonded]] warehouse; to secure ([[g/_goods|goods]]) until the [[a/_associated|associated]] [[d/_duties|duties]] are [[p/_paid|paid]].**
-- **To [[l/_lay|lay]] [[b/_bricks|bricks]] in a specific pattern.**
-- **To [[m/_make|make]] a reliable [[e/_electrical|electrical]] [[c/_connection|connection]] [[b/_between|between]] two [[c/_conductors|conductors]] (or [[a/_any|any]] pieces of [[m/_metal|metal]] that [[m/_may|may]] potentially [[b/_become|become]] [[c/_conductors|conductors]]).**
+- **To [[l/_lay|lay]] [[b/_bricks|bricks]] in a specific [[p/_pattern|pattern]].**
+- **To [[m/_make|make]] a reliable [[e/_electrical|electrical]] [[c/_connection|connection]] [[b/_between|between]] two [[c/_conductors|conductors]] (or [[a/_any|any]] [[p/_pieces|pieces]] of [[m/_metal|metal]] that [[m/_may|may]] [[p/_potentially|potentially]] [[b/_become|become]] [[c/_conductors|conductors]]).**
 	- _Example: A house's distribution panel should always be bonded to the grounding rods via a panel bond._
 - **To [[b/_bail|bail]] [[o/_out|out]] by [[m/_means|means]] of a [[b/_bail|bail]] [[b/_bond|bond]].**
 ---

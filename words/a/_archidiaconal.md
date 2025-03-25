@@ -1,6 +1,6 @@
 # Archidiaconal
 ---
 #adjective
-- **Pertaining to an [[a/_archdeacon|archdeacon]].**
+- **[[p/_pertaining|Pertaining]] to an [[a/_archdeacon|archdeacon]].**
 ---
 ---

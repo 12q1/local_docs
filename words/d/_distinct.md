@@ -1,13 +1,13 @@
 # Distinct
 ---
 #adjective
-- **[[c/_capable|Capable]] of [[b/_being|being]] perceived very [[c/_clearly|clearly]].**
+- **[[c/_capable|Capable]] of [[b/_being|being]] [[p/_perceived|perceived]] very [[c/_clearly|clearly]].**
 	- _Example: Her voice was distinct despite the heavy traffic._
-- **[[d/_different|Different]] from [[o/_one|one]] [[a/_another|another]] (with the preferable [[a/_adposition|adposition]] [[b/_being|being]] "from").**
+- **[[d/_different|Different]] from [[o/_one|one]] [[a/_another|another]] (with the [[p/_preferable|preferable]] [[a/_adposition|adposition]] [[b/_being|being]] "from").**
 	- _Example: Horses are distinct from zebras._
 - **[[n/_noticeably|Noticeably]] [[d/_different|different]] from [[o/_others|others]]; [[d/_distinctive|distinctive]].**
 	- _Example: Olga's voice is quite distinct because of her accent._
-- **Separate in place; not [[c/_conjunct|conjunct]] or united; with from.**
+- **Separate in [[p/_place|place]]; not [[c/_conjunct|conjunct]] or united; with from.**
 - **[[d/_distinguished|Distinguished]]; [[h/_having|having]] the [[d/_difference|difference]] [[m/_marked|marked]]; separated by a visible sign; [[m/_marked|marked]] [[o/_out|out]]; specified.**
 - **[[m/_marked|Marked]]; variegated.**
 ---

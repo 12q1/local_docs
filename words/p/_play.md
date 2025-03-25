@@ -1,0 +1,52 @@
+# Play
+---
+#noun
+- **[[a/_activity|Activity]] for [[a/_amusement|amusement]] [[o/_only|only]], [[e/_especially|especially]] [[a/_among|among]] the [[y/_young|young]].**
+	- _Example: Children learn through play._
+- **Similar [[a/_activity|activity]] in [[y/_young|young]] [[a/_animals|animals]], as they [[e/_explore|explore]] their [[e/_environment|environment]] and [[l/_learn|learn]] [[n/_new|new]] skills.**
+	- _Example: This kind of play helps the young lion cubs develop their hunting skills._
+- **The [[c/_conduct|conduct]], or [[c/_course|course]], of a [[g/_game|game]].**
+	- _Example: After the rain break, play resumed at 3 o'clock._
+- **An [[i/_individual|individual]]'s [[p/_performance|performance]] in a sport or [[g/_game|game]].**
+	- _Example: His play has improved a lot this season._
+- **A short sequence of [[a/_action|action]] within a [[g/_game|game]].**
+	- _Example: That was a great play by the Mudchester Rovers forward._
+- **(turn-[[b/_based|based]] [[g/_games|games]]) An [[a/_action|action]] [[c/_carried|carried]] [[o/_out|out]] when it is [[o/_one|one]]'s turn to [[p/_play|play]].**
+- **A [[l/_literary|literary]] [[c/_composition|composition]], [[i/_intended|intended]] to be represented by [[a/_actors|actors]] [[i/_impersonating|impersonating]] the [[c/_characters|characters]] and speaking the [[d/_dialogue|dialogue]].**
+	- _Example: This book contains all of Shakespeare's plays._
+- **A theatrical [[p/_performance|performance]] [[f/_featuring|featuring]] [[a/_actors|actors]].**
+	- _Example: We saw a two-act play in the theatre._
+- **A [[m/_major|major]] [[m/_move|move]] by a [[b/_business|business]] or [[i/_investor|investor]].**
+	- _Example: ABC Widgets makes a play in the bicycle market with its bid to take over Acme Sprockets._
+- **A [[g/_geological|geological]] [[f/_formation|formation]] that [[c/_contains|contains]] an [[a/_accumulation|accumulation]] or prospect of [[h/_hydrocarbons|hydrocarbons]] or [[o/_other|other]] resources.**
+- **The [[e/_extent|extent]] to which a [[p/_part|part]] of a [[m/_mechanism|mechanism]] [[c/_can|can]] [[m/_move|move]] [[f/_freely|freely]].**
+	- _Example: No wonder the fanbelt is slipping: there’s too much play in it._
+- **Sexual [[a/_activity|activity]] or sexual role-[[p/_playing|playing]].**
+- **An [[i/_instance|instance]] of watching or [[l/_listening|listening]] to [[d/_digital|digital]] [[m/_media|media]].**
+- **A [[b/_button|button]] that, when [[p/_pressed|pressed]], [[c/_causes|causes]] [[m/_media|media]] to be [[p/_played|played]].**
+- **([[n/_now|now]] usually in [[c/_compounds|compounds]]) [[a/_activity|Activity]] relating to [[m/_martial|martial]] [[c/_combat|combat]] or [[f/_fighting|fighting]].**
+---
+### Synonyms
+- [[d/_drama|drama]], [[l/_listen|listen]], [[v/_view|view]], [[m/_move|move]]
+#verb
+- **To [[a/_act|act]] in a [[m/_manner|manner]] such that [[o/_one|one]] [[h/_has|has]] [[f/_fun|fun]]; to [[e/_engage|engage]] in [[a/_activities|activities]] [[e/_expressly|expressly]] for the purpose of recreation or [[e/_entertainment|entertainment]].**
+	- _Example: They played long and hard._
+- **To [[p/_perform|perform]] in (a sport); to [[p/_participate|participate]] in (a [[g/_game|game]]).**
+	- _Example: He plays on three teams_
+- **To take [[p/_part|part]] in [[a/_amorous|amorous]] [[a/_activity|activity]]; to [[m/_make|make]] [[l/_love|love]].**
+- **To [[a/_act|act]] as the [[i/_indicated|indicated]] role, [[e/_especially|especially]] in a [[p/_performance|performance]].**
+	- _Example: He plays the King, and she's the Queen._
+- **([[h/_heading|heading]]) To produce [[m/_music|music]] or theatre.**
+- **([[h/_heading|heading]]) To [[b/_behave|behave]] in a [[p/_particular|particular]] way.**
+- **To [[m/_move|move]] in [[a/_any|any]] [[m/_manner|manner]]; [[e/_especially|especially]], to [[m/_move|move]] regularly with [[a/_alternate|alternate]] or reciprocating [[m/_motion|motion]]; to [[o/_operate|operate]].**
+	- _Example: He played the torch beam around the room._
+- **To [[m/_move|move]] to and [[f/_fro|fro]].**
+- **To put in [[a/_action|action]] or [[m/_motion|motion]].**
+	- _Example: to play a trump in a card game_
+- **To [[k/_keep|keep]] in [[p/_play|play]], as a [[h/_hooked|hooked]] [[f/_fish|fish]] in [[o/_order|order]] to [[l/_land|land]] it.**
+- **To [[m/_manipulate|manipulate]], [[d/_deceive|deceive]], or swindle someone.**
+	- _Example: You played me!_
+---
+### Synonyms
+- [[d/_defraud|defraud]]
+---

@@ -7,6 +7,6 @@
 ### Synonyms
 - [[l/_lachrymal|lachrymal]], [[l/_lacrimal|lacrimal]]
 #adjective
-- **Pertaining to or [[c/_causing|causing]] tears.**
+- **[[p/_pertaining|Pertaining]] to or [[c/_causing|causing]] tears.**
 ---
 ---

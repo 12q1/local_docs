@@ -1,6 +1,6 @@
 # Gynaecological
 ---
 #adjective
-- **Of or pertaining to [[g/_gynecology|gynecology]].**
+- **Of or [[p/_pertaining|pertaining]] to [[g/_gynecology|gynecology]].**
 ---
 ---

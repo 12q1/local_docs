@@ -1,7 +1,7 @@
 # Domesticate
 ---
 #noun
-- **An [[a/_animal|animal]] or plant that [[h/_has|has]] [[b/_been|been]] [[d/_domesticated|domesticated]].**
+- **An [[a/_animal|animal]] or [[p/_plant|plant]] that [[h/_has|has]] [[b/_been|been]] [[d/_domesticated|domesticated]].**
 ---
 #verb
 - **To [[m/_make|make]] [[d/_domestic|domestic]].**

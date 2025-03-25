@@ -1,7 +1,7 @@
 # Apport
 ---
 #noun
-- **The supposed paranormal transference of an [[o/_object|object]] from [[o/_one|one]] place to [[a/_another|another]], or the [[a/_appearance|appearance]] of an [[o/_object|object]] from an unknown source, [[o/_often|often]] [[a/_associated|associated]] with poltergeist [[a/_activity|activity]] and séances.**
+- **The supposed [[p/_paranormal|paranormal]] transference of an [[o/_object|object]] from [[o/_one|one]] [[p/_place|place]] to [[a/_another|another]], or the [[a/_appearance|appearance]] of an [[o/_object|object]] from an unknown source, [[o/_often|often]] [[a/_associated|associated]] with [[p/_poltergeist|poltergeist]] [[a/_activity|activity]] and séances.**
 - **An [[o/_object|object]] that [[a/_appears|appears]] from an unknown source.**
 ---
 #verb

@@ -1,0 +1,13 @@
+# Poppies
+---
+#noun
+- **[[a/_any|Any]] [[p/_plant|plant]] of the [[g/_genus|genus]] [[p/_papaver|Papaver]] or the [[f/_family|family]] [[p/_papaveraceae|Papaveraceae]], with [[c/_crumpled|crumpled]], [[o/_often|often]] red, [[p/_petals|petals]] and a [[m/_milky|milky]] [[j/_juice|juice]] [[h/_having|having]] [[n/_narcotic|narcotic]] properties; [[e/_especially|especially]] the [[c/_common|common]] [[p/_poppy|poppy]] or [[c/_corn|corn]] [[p/_poppy|poppy]] ([[p/_papaver|Papaver]] rhoeas) which [[h/_has|has]] [[o/_orange|orange]]-red [[f/_flowers|flowers]]; the [[f/_flower|flower]] of such a [[p/_plant|plant]].**
+- **A [[b/_bright|bright]] red [[c/_colour|colour]] tinted with [[o/_orange|orange]], [[l/_like|like]] that of the [[c/_common|common]] [[p/_poppy|poppy]] [[f/_flower|flower]].**
+- **A simple [[a/_artificial|artificial]] [[p/_poppy|poppy]] [[f/_flower|flower]] worn in a [[b/_buttonhole|buttonhole]] or [[d/_displayed|displayed]] in [[o/_other|other]] [[c/_contexts|contexts]] to remember those who [[d/_died|died]] in the two World Wars and [[o/_other|other]] [[a/_armed|armed]] [[c/_conflicts|conflicts]], [[e/_especially|especially]] [[a/_around|around]] Remembrance Sunday.**
+---
+#noun
+- **[[o/_one|One]]'s [[f/_father|father]] or [[g/_grandfather|grandfather]], or a [[m/_male|male]] [[a/_authority|authority]] [[f/_figure|figure]] [[h/_having|having]] similar standing.**
+---
+### Synonyms
+- [[p/_pappy|pappy]], [[p/_pop|pop]], [[p/_pop-pop|pop-pop]], [[p/_poppa|poppa]], [[p/_pops|pops]]
+---

@@ -1,7 +1,7 @@
 # Levelheaded
 ---
 #adjective
-- **Sensible; rational; possessing sound [[j/_judgment|judgment]].**
+- **Sensible; rational; [[p/_possessing|possessing]] sound [[j/_judgment|judgment]].**
 ---
 ### Synonyms
 - [[c/_calm|calm]], [[d/_deliberative|deliberative]], [[s/_stable|stable]]

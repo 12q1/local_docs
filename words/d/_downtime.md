@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_amount|amount]] of time [[l/_lost|lost]] [[d/_due|due]] to [[f/_forces|forces]] [[b/_beyond|beyond]] [[o/_one|one]]'s [[c/_control|control]], as with a [[c/_computer|computer]] [[c/_crash|crash]].**
-- **A period of time set [[a/_aside|aside]] for rest and relaxation; [[l/_leisure|leisure]] time.**
+- **A [[p/_period|period]] of time set [[a/_aside|aside]] for rest and relaxation; [[l/_leisure|leisure]] time.**
 	- _Example: I've been working all weekend. I need some downtime._
 ---
 ---

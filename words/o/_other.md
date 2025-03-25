@@ -1,13 +1,13 @@
 # Other
 ---
 #noun
-- **An [[o/_other|other]], [[a/_another|another]] (person, [[e/_etc|etc]]), [[m/_more|more]] [[o/_often|often]] rendered as [[a/_another|another]].**
+- **An [[o/_other|other]], [[a/_another|another]] ([[p/_person|person]], [[e/_etc|etc]]), [[m/_more|more]] [[o/_often|often]] rendered as [[a/_another|another]].**
 	- _Example: I'm afraid little Robbie does not always play well with others._
 - **The [[o/_other|other]] [[o/_one|one]]; the second of two.**
 	- _Example: One boat is not better than the other._
 ---
 #verb
-- **To regard, [[l/_label|label]] or treat as an "[[o/_other|other]]", as not part of the same [[g/_group|group]]; to view as [[d/_different|different]] and [[a/_alien|alien]].**
+- **To regard, [[l/_label|label]] or treat as an "[[o/_other|other]]", as not [[p/_part|part]] of the same [[g/_group|group]]; to view as [[d/_different|different]] and [[a/_alien|alien]].**
 - **To treat as [[d/_different|different]] or separate; segregate; [[o/_ostracise|ostracise]].**
 ---
 #adjective
@@ -23,7 +23,7 @@
 ### Antonyms
 - [[s/_same|same]]
 #adverb
-- **[[a/_apart|Apart]] from; in the phrase "[[o/_other|other]] than".**
+- **[[a/_apart|Apart]] from; in the [[p/_phrase|phrase]] "[[o/_other|other]] than".**
 	- _Example: Other than that, I'm fine._
 - **[[o/_otherwise|Otherwise]].**
 	- _Example: If you think other. — Shakespeare._

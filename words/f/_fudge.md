@@ -6,7 +6,7 @@
 - **[[l/_light|Light]] or [[f/_frothy|frothy]] [[n/_nonsense|nonsense]].**
 - **A [[d/_deliberately|deliberately]] [[m/_misleading|misleading]] or vague [[a/_answer|answer]].**
 - **A [[m/_made|made]]-up story.**
-- **A [[l/_less|less]] than perfect [[d/_decision|decision]] or solution; an [[a/_attempt|attempt]] to [[f/_fix|fix]] an [[i/_incorrect|incorrect]] solution [[a/_after|after]] the [[f/_fact|fact]].**
+- **A [[l/_less|less]] than [[p/_perfect|perfect]] [[d/_decision|decision]] or solution; an [[a/_attempt|attempt]] to [[f/_fix|fix]] an [[i/_incorrect|incorrect]] solution [[a/_after|after]] the [[f/_fact|fact]].**
 ---
 ### Synonyms
 - [[h/_humbug|humbug]], [[n/_nonsense|nonsense]]
@@ -21,7 +21,7 @@
 ### Synonyms
 - [[c/_cheat|cheat]], [[e/_equivocate|equivocate]], [[h/_hedge|hedge]], [[w/_waffle|waffle]]
 #interjection
-- **([[m/_minced|minced]] [[o/_oath|oath]]) Used in place of [[f/_fuck|fuck]].**
+- **([[m/_minced|minced]] [[o/_oath|oath]]) Used in [[p/_place|place]] of [[f/_fuck|fuck]].**
 - **[[n/_nonsense|Nonsense]]; tommyrot.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Confers
 ---
 #verb
-- **To [[g/_grant|grant]] as a possession; to [[b/_bestow|bestow]].**
+- **To [[g/_grant|grant]] as a [[p/_possession|possession]]; to [[b/_bestow|bestow]].**
 	- _Example: The college has conferred an honorary degree upon the visiting Prime Minister._
 - **To talk together, to [[c/_consult|consult]], [[d/_discuss|discuss]]; to [[d/_deliberate|deliberate]].**
 	- _Example: They were in a huddle, conferring about something._

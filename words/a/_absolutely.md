@@ -1,7 +1,7 @@
 # Absolutely
 ---
 #adverb
-- **In an [[a/_absolute|absolute]] or unconditional [[m/_manner|manner]]; utterly, positively, wholly.**
+- **In an [[a/_absolute|absolute]] or unconditional [[m/_manner|manner]]; utterly, [[p/_positively|positively]], wholly.**
 - **[[i/_independently|Independently]]; viewed without relation to [[o/_other|other]] things or [[f/_factors|factors]].**
 - **([[g/_grammar|grammar]]) In a [[m/_manner|manner]] that [[d/_does|does]] not take an [[o/_object|object]].**
 ---

@@ -5,10 +5,10 @@
 	- _Example: to go larking_
 ---
 #verb
-- **To sport, [[e/_engage|engage]] in [[h/_harmless|harmless]] pranking.**
+- **To sport, [[e/_engage|engage]] in [[h/_harmless|harmless]] [[p/_pranking|pranking]].**
 - **To [[f/_frolic|frolic]], [[e/_engage|engage]] in [[c/_carefree|carefree]] [[a/_adventure|adventure]].**
 ---
 #noun
-- **A spirited or playful [[a/_adventure|adventure]].**
+- **A spirited or [[p/_playful|playful]] [[a/_adventure|adventure]].**
 ---
 ---

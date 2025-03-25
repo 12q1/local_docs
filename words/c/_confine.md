@@ -1,7 +1,7 @@
 # Confine
 ---
 #noun
-- **([[c/_chiefly|chiefly]] in the plural) A [[b/_boundary|boundary]] or [[l/_limit|limit]].**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) A [[b/_boundary|boundary]] or [[l/_limit|limit]].**
 ---
 ### Synonyms
 - [[b/_border|border]], [[b/_bound|bound]], [[l/_limit|limit]]

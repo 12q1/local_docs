@@ -10,6 +10,6 @@
 ### Antonyms
 - [[a/_antiglobalist|antiglobalist]]
 #adjective
-- **Of or pertaining to [[g/_globalism|globalism]].**
+- **Of or [[p/_pertaining|pertaining]] to [[g/_globalism|globalism]].**
 ---
 ---

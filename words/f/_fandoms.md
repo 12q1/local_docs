@@ -1,7 +1,7 @@
 # Fandoms
 ---
 #noun
-- **The [[f/_fans|fans]] of a sport, [[a/_activity|activity]], work, person [[e/_etc|etc]]., taken as a [[g/_group|group]].**
+- **The [[f/_fans|fans]] of a sport, [[a/_activity|activity]], work, [[p/_person|person]] [[e/_etc|etc]]., taken as a [[g/_group|group]].**
 - **The subculture of [[f/_fans|fans]].**
 - **The state, quality, or [[c/_condition|condition]] of [[b/_being|being]] a [[f/_fan|fan]].**
 ---

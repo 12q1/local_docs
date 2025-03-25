@@ -12,7 +12,7 @@
 #adjective
 - **In the [[f/_form|form]] of [[c/_coils|coils]]; [[h/_having|having]] [[c/_coils|coils]].**
 	- _Example: a coiled serpent_
-- **Prepared and poised to [[a/_act|act]], [[l/_like|like]] a snake that [[h/_has|has]] [[c/_coiled|coiled]] [[i/_its|its]] [[l/_lower|lower]] [[b/_body|body]] so it [[c/_can|can]] strike.**
+- **[[p/_prepared|Prepared]] and [[p/_poised|poised]] to [[a/_act|act]], [[l/_like|like]] a snake that [[h/_has|has]] [[c/_coiled|coiled]] [[i/_its|its]] [[l/_lower|lower]] [[b/_body|body]] so it [[c/_can|can]] strike.**
 ---
 ### Synonyms
 - [[l/_looped|looped]]

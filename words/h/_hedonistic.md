@@ -1,6 +1,6 @@
 # Hedonistic
 ---
 #adjective
-- **[[d/_devoted|Devoted]] to pleasure; [[e/_epicurean|epicurean]].**
+- **[[d/_devoted|Devoted]] to [[p/_pleasure|pleasure]]; [[e/_epicurean|epicurean]].**
 ---
 ---

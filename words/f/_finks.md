@@ -1,7 +1,7 @@
 # Finks
 ---
 #noun
-- **A [[c/_contemptible|contemptible]] person.**
+- **A [[c/_contemptible|contemptible]] [[p/_person|person]].**
 - **An [[i/_informer|informer]].**
 - **A strikebreaker.**
 ---
@@ -11,10 +11,10 @@
 ### Synonyms
 - [[i/_inform|inform]], [[s/_snitch|snitch]]
 #noun
-- **[[a/_any|Any]] of several [[b/_birds|birds]] in the [[f/_family|family]] Ploceidae [[n/_native|native]] to southern [[a/_africa|Africa]].**
+- **[[a/_any|Any]] of several [[b/_birds|birds]] in the [[f/_family|family]] [[p/_ploceidae|Ploceidae]] [[n/_native|native]] to southern [[a/_africa|Africa]].**
 ---
 #verb
-- **To ponder, to [[g/_go|go]] [[o/_over|over]] in [[o/_one|one]]'s [[h/_head|head]].**
+- **To [[p/_ponder|ponder]], to [[g/_go|go]] [[o/_over|over]] in [[o/_one|one]]'s [[h/_head|head]].**
 	- _Example: Idly, the detective thought what his next move should be._
 - **To [[c/_communicate|communicate]] to [[o/_oneself|oneself]] in [[o/_one|one]]'s [[m/_mind|mind]], to try to [[f/_find|find]] a solution to a problem.**
 	- _Example: I thought for three hours about the problem and still couldn’t find the solution._
@@ -24,8 +24,8 @@
 	- _Example: At the time I thought his adamant refusal to give in right._
 - **To [[g/_guess|guess]]; to reckon.**
 	- _Example: I think she’ll pass the examination._
-- **To plan; to be [[c/_considering|considering]]; to be of a [[m/_mind|mind]] (to [[d/_do|do]] something).**
-- **To presume; to venture.**
+- **To [[p/_plan|plan]]; to be [[c/_considering|considering]]; to be of a [[m/_mind|mind]] (to [[d/_do|do]] something).**
+- **To [[p/_presume|presume]]; to venture.**
 ---
 ### Synonyms
 - [[g/_guess|guess]]

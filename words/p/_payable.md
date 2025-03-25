@@ -1,8 +1,8 @@
 # Payable
 ---
 #noun
-- **(in the plural) [[d/_debts|Debts]] [[o/_owed|owed]] by a [[b/_business|business]]; [[l/_liabilities|liabilities]].**
-- **(sometimes postpositive) A thing that [[m/_may|may]] be [[p/_paid|paid]].**
+- **(in the [[p/_plural|plural]]) [[d/_debts|Debts]] [[o/_owed|owed]] by a [[b/_business|business]]; [[l/_liabilities|liabilities]].**
+- **(sometimes [[p/_postpositive|postpositive]]) A thing that [[m/_may|may]] be [[p/_paid|paid]].**
 ---
 #adjective
 - **[[d/_due|Due]] to be [[p/_paid|paid]].**

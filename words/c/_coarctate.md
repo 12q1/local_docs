@@ -1,7 +1,7 @@
 # Coarctate
 ---
 #verb
-- **To press together; to [[c/_crowd|crowd]].**
+- **To [[p/_press|press]] together; to [[c/_crowd|crowd]].**
 - **To restrain; to [[c/_confine|confine]].**
 ---
 #adjective

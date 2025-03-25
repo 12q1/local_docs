@@ -11,8 +11,8 @@
 - **To [[c/_care|care]], be [[a/_anxious|anxious]], [[l/_long|long]].**
 ---
 #noun
-- **An [[a/_agricultural|agricultural]] tool [[c/_consisting|consisting]] of a [[l/_long|long]] [[h/_handle|handle]] with a [[f/_flat|flat]] [[b/_blade|blade]] [[f/_fixed|fixed]] perpendicular to it at the [[e/_end|end]], used for [[d/_digging|digging]] rows.**
-- **The [[h/_horned|horned]] or piked [[d/_dogfish|dogfish]].**
+- **An [[a/_agricultural|agricultural]] tool [[c/_consisting|consisting]] of a [[l/_long|long]] [[h/_handle|handle]] with a [[f/_flat|flat]] [[b/_blade|blade]] [[f/_fixed|fixed]] [[p/_perpendicular|perpendicular]] to it at the [[e/_end|end]], used for [[d/_digging|digging]] rows.**
+- **The [[h/_horned|horned]] or [[p/_piked|piked]] [[d/_dogfish|dogfish]].**
 ---
 #verb
 - **To [[c/_cut|cut]], [[d/_dig|dig]], scrape, turn, [[a/_arrange|arrange]], or [[c/_clean|clean]], with this tool.**
@@ -21,6 +21,6 @@
 	- _Example: to hoe corn_
 ---
 #noun
-- **A piece of [[l/_land|land]] that [[j/_juts|juts]] [[o/_out|out]] towards the sea; a promontory.**
+- **A [[p/_piece|piece]] of [[l/_land|land]] that [[j/_juts|juts]] [[o/_out|out]] towards the sea; a promontory.**
 ---
 ---

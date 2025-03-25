@@ -1,7 +1,7 @@
 # Lost
 ---
 #verb
-- **To [[c/_cause|cause]] (something) to [[c/_cease|cease]] to be in [[o/_one|one]]'s possession or [[c/_capability|capability]] [[d/_due|due]] to unfortunate or unknown [[c/_circumstances|circumstances]], [[e/_events|events]] or reasons.**
+- **To [[c/_cause|cause]] (something) to [[c/_cease|cease]] to be in [[o/_one|one]]'s [[p/_possession|possession]] or [[c/_capability|capability]] [[d/_due|due]] to unfortunate or unknown [[c/_circumstances|circumstances]], [[e/_events|events]] or reasons.**
 	- _Example: He lost his hearing in the explosion._
 - **To wander from; to [[m/_miss|miss]], so as not to be [[a/_able|able]] to [[f/_find|find]]; to [[g/_go|go]] [[a/_astray|astray]] from.**
 	- _Example: I lost my way in the forest._
@@ -19,7 +19,7 @@
 - **(ditransitive) To [[c/_cause|cause]] (someone) the [[l/_loss|loss]] of something; to [[d/_deprive|deprive]] of.**
 - **To [[f/_fail|fail]] to [[c/_catch|catch]] with the [[m/_mind|mind]] or senses; to [[m/_miss|miss]].**
 	- _Example: I lost a part of what he said._
-- **To [[c/_cause|cause]] to part with; to [[d/_deprive|deprive]] of.**
+- **To [[c/_cause|cause]] to [[p/_part|part]] with; to [[d/_deprive|deprive]] of.**
 ---
 ### Synonyms
 - [[m/_mislay|mislay]], [[f/_forfeit|forfeit]], [[d/_drop|drop]], [[s/_shed|shed]], [[d/_ditch|ditch]], [[d/_drop|drop]], [[d/_dump|dump]], [[j/_jettison|jettison]]
@@ -30,13 +30,13 @@
 	- _Example: The children were soon lost in the forest._
 - **In an unknown [[l/_location|location]]; unable to be [[f/_found|found]].**
 	- _Example: Deep beneath the ocean, the Titanic was lost to the world._
-- **Not perceptible to the senses; [[n/_no|no]] [[l/_longer|longer]] visible.**
+- **Not [[p/_perceptible|perceptible]] to the senses; [[n/_no|no]] [[l/_longer|longer]] visible.**
 	- _Example: an island lost in a fog; a person lost in a crowd_
-- **Parted with; [[n/_no|no]] [[l/_longer|longer]] [[h/_held|held]] or possessed.**
+- **[[p/_parted|Parted]] with; [[n/_no|no]] [[l/_longer|longer]] [[h/_held|held]] or [[p/_possessed|possessed]].**
 	- _Example: a lost limb; lost honour_
 - **Not [[e/_employed|employed]] or [[e/_enjoyed|enjoyed]]; thrown [[a/_away|away]]; [[e/_employed|employed]] [[i/_ineffectually|ineffectually]]; wasted; squandered.**
 	- _Example: a lost day; a lost opportunity or benefit_
-- **Ruined or [[d/_destroyed|destroyed]], [[e/_either|either]] physically or [[m/_morally|morally]]; past [[h/_help|help]] or [[h/_hope|hope]].**
+- **Ruined or [[d/_destroyed|destroyed]], [[e/_either|either]] [[p/_physically|physically]] or [[m/_morally|morally]]; [[p/_past|past]] [[h/_help|help]] or [[h/_hope|hope]].**
 	- _Example: a ship lost at sea; a woman lost to virtue; a lost soul_
 - **[[h/_hardened|Hardened]] [[b/_beyond|beyond]] sensibility or recovery; [[a/_alienated|alienated]]; [[i/_insensible|insensible]].**
 	- _Example: lost to shame; lost to all sense of honour_

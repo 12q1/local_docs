@@ -7,7 +7,7 @@
 	- _Example: The difference between two numbers is the excess of one over the other._
 - **An undue [[i/_indulgence|indulgence]] of the [[a/_appetite|appetite]]; transgression of proper [[m/_moderation|moderation]] in [[n/_natural|natural]] [[g/_gratifications|gratifications]]; [[i/_intemperance|intemperance]]; [[d/_dissipation|dissipation]].**
 - **Spherical [[e/_excess|excess]], the [[a/_amount|amount]] by which the sum of the three [[a/_angles|angles]] of a spherical triangle [[e/_exceeds|exceeds]] two right [[a/_angles|angles]]. The spherical [[e/_excess|excess]] is proportional to the [[a/_area|area]] of the triangle.**
-- **A [[c/_condition|condition]] on an [[i/_insurance|insurance]] policy by which the [[i/_insured|insured]] [[p/_pays|pays]] for a part of the [[c/_claim|claim]].**
+- **A [[c/_condition|condition]] on an [[i/_insurance|insurance]] [[p/_policy|policy]] by which the [[i/_insured|insured]] [[p/_pays|pays]] for a [[p/_part|part]] of the [[c/_claim|claim]].**
 ---
 ### Synonyms
 - [[d/_deductible|deductible]]

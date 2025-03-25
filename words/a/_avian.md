@@ -8,7 +8,7 @@
 ### Synonyms
 - [[f/_feathery|feathery]]
 #adjective
-- **[[c/_characteristic|Characteristic]] of or pertaining to [[b/_birds|birds]], or to [[b/_bird|bird]]-[[l/_like|like]] or [[f/_flying|flying]] [[c/_creatures|creatures]].**
+- **[[c/_characteristic|Characteristic]] of or [[p/_pertaining|pertaining]] to [[b/_birds|birds]], or to [[b/_bird|bird]]-[[l/_like|like]] or [[f/_flying|flying]] [[c/_creatures|creatures]].**
 ---
 ### Synonyms
 - [[b/_birdly|birdly]], [[f/_feathered|feathered]], [[p/_plumed|plumed]], [[w/_winged|winged]]

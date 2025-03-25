@@ -1,7 +1,7 @@
 # Depositories
 ---
 #noun
-- **A place where something is [[d/_deposited|deposited]], as for storage, safekeeping or preservation; a repository.**
+- **A [[p/_place|place]] where something is [[d/_deposited|deposited]], as for storage, safekeeping or [[p/_preservation|preservation]]; a repository.**
 - **A trustee; a [[d/_depositary|depositary]].**
 	- _Example: depository library_
 ---

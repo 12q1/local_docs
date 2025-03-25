@@ -29,9 +29,9 @@
 	- _Example: The anchor bites the ground._
 - **To [[l/_lack|lack]] quality; to be worthy of [[d/_derision|derision]]; to suck.**
 	- _Example: This music really bites._
-- **To perform [[o/_oral|oral]] sex on. Used in [[i/_invective|invective]].**
+- **To [[p/_perform|perform]] [[o/_oral|oral]] sex on. Used in [[i/_invective|invective]].**
 	- _Example: You don't like that I sat on your car? Bite me._
-- **To plagiarize, to [[i/_imitate|imitate]].**
+- **To [[p/_plagiarize|plagiarize]], to [[i/_imitate|imitate]].**
 	- _Example: He always be biting my moves._
 - **To [[d/_deceive|deceive]] or [[d/_defraud|defraud]]; to take in.**
 ---

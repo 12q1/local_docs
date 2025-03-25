@@ -1,7 +1,7 @@
 # Ghostlier
 ---
 #adjective
-- **Of or pertaining to [[g/_ghosts|ghosts]] or spirits.**
+- **Of or [[p/_pertaining|pertaining]] to [[g/_ghosts|ghosts]] or spirits.**
 	- _Example: The ghostly moaning was heard from upstairs._
 - **Spooky; [[f/_frightening|frightening]].**
 	- _Example: A ghostly hush fell._

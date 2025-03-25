@@ -1,6 +1,6 @@
 # Dullard
 ---
 #noun
-- **A stupid person; a [[f/_fool|fool]].**
+- **A stupid [[p/_person|person]]; a [[f/_fool|fool]].**
 ---
 ---

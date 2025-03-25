@@ -5,7 +5,7 @@
 - **Senses [[c/_connoting|connoting]] something small.**
 - **[[o/_often|Often]] in the [[e/_expressions|expressions]] in [[b/_bad|bad]] [[n/_nick|nick]] and in [[g/_good|good]] [[n/_nick|nick]]: [[c/_condition|condition]], state.**
 	- _Example: The car I bought was cheap and in good nick._
-- **([[l/_law|law]] [[e/_enforcement|enforcement]]) A police station or prison.**
+- **([[l/_law|law]] [[e/_enforcement|enforcement]]) A [[p/_police|police]] station or prison.**
 	- _Example: He was arrested and taken down to Sun Hill nick [police station] to be charged._
 ---
 #verb
@@ -25,8 +25,8 @@
 - **A [[n/_nix|nix]] or [[n/_nixie|nixie]].**
 ---
 #noun
-- **A [[f/_familiar|familiar]], [[i/_invented|invented]] [[g/_given|given]] [[n/_name|name]] for a person or thing used [[i/_instead|instead]] of the [[a/_actual|actual]] [[n/_name|name]] of the person or thing.**
-- **A [[k/_kind|kind]] of [[b/_byname|byname]] that [[d/_describes|describes]] a person by a [[c/_characteristic|characteristic]] of that person.**
+- **A [[f/_familiar|familiar]], [[i/_invented|invented]] [[g/_given|given]] [[n/_name|name]] for a [[p/_person|person]] or thing used [[i/_instead|instead]] of the [[a/_actual|actual]] [[n/_name|name]] of the [[p/_person|person]] or thing.**
+- **A [[k/_kind|kind]] of [[b/_byname|byname]] that [[d/_describes|describes]] a [[p/_person|person]] by a [[c/_characteristic|characteristic]] of that [[p/_person|person]].**
 ---
 ### Synonyms
 - [[a/_antonomasia|antonomasia]], [[b/_byname|byname]], [[c/_cognomen|cognomen]], [[h/_handle|handle]], [[h/_hypocoristic|hypocoristic]], [[m/_moniker|moniker]], [[n/_nick|nick]], [[s/_sobriquet|sobriquet]]

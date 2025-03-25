@@ -1,0 +1,7 @@
+# Parter
+---
+#noun
+- **([[o/_only|only]] in [[c/_combination|combination]]) A work in a specified [[n/_number|number]] of [[p/_parts|parts]].**
+	- _Example: The show was a two-parter, but we stopped watching halfway through._
+---
+---

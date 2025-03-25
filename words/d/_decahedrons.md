@@ -1,6 +1,6 @@
 # Decahedrons
 ---
 #noun
-- **A polyhedron with ten [[f/_faces|faces]].**
+- **A [[p/_polyhedron|polyhedron]] with ten [[f/_faces|faces]].**
 ---
 ---

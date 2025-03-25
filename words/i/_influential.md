@@ -1,7 +1,7 @@
 # Influential
 ---
 #noun
-- **A person who [[h/_has|has]] [[i/_influence|influence]]**
+- **A [[p/_person|person]] who [[h/_has|has]] [[i/_influence|influence]]**
 ---
 #adjective
 - **[[h/_having|Having]] or [[e/_exerting|exerting]] [[i/_influence|influence]].**

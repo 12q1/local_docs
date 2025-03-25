@@ -1,7 +1,7 @@
 # Opacity
 ---
 #noun
-- **The state or quality of [[b/_being|being]] [[o/_opaque|opaque]], not [[a/_allowing|allowing]] [[l/_light|light]] to pass through**
+- **The state or quality of [[b/_being|being]] [[o/_opaque|opaque]], not [[a/_allowing|allowing]] [[l/_light|light]] to [[p/_pass|pass]] through**
 	- _Example: We could not see the sandbar due to the opacity of the muddy water._
 - **The state or quality of [[b/_being|being]] [[i/_inaccessible|inaccessible]] to understanding.**
 	- _Example: The opacity of these decisions is troubling._

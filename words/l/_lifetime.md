@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[d/_duration|duration]] of the [[l/_life|life]] of someone or something.**
-- **A [[l/_long|long]] period of time.**
+- **A [[l/_long|long]] [[p/_period|period]] of time.**
 	- _Example: I've been waiting a lifetime for a train._
 ---
 ### Synonyms

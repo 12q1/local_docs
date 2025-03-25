@@ -1,12 +1,12 @@
 # Headhunter
 ---
 #noun
-- **A savage who [[c/_cuts|cuts]] [[o/_off|off]] the [[h/_heads|heads]] of [[h/_his|his]] [[e/_enemies|enemies]], and preserves them as trophies.**
-- **[[o/_one|One]] who recruits senior personnel for a [[c/_company|company]].**
+- **A savage who [[c/_cuts|cuts]] [[o/_off|off]] the [[h/_heads|heads]] of [[h/_his|his]] [[e/_enemies|enemies]], and [[p/_preserves|preserves]] them as trophies.**
+- **[[o/_one|One]] who recruits senior [[p/_personnel|personnel]] for a [[c/_company|company]].**
 	- _Example: She was the best headhunter they had ever seen._
-- **A pitcher who throws at the [[b/_batter|batter]]'s [[h/_head|head]].**
+- **A [[p/_pitcher|pitcher]] who throws at the [[b/_batter|batter]]'s [[h/_head|head]].**
 	- _Example: Thankfully, there aren't many headhunters in the modern game._
-- **A player who uses a [[h/_hockey|hockey]] stick to [[a/_attempt|attempt]] to strike an [[o/_opponent|opponent]]'s [[h/_head|head]].**
+- **A [[p/_player|player]] who uses a [[h/_hockey|hockey]] stick to [[a/_attempt|attempt]] to strike an [[o/_opponent|opponent]]'s [[h/_head|head]].**
 	- _Example: He is known as a goon and a headhunter._
 ---
 ---

@@ -12,7 +12,7 @@
 	- _Example: coding in the CT scanner_
 ---
 #verb
-- **Of a patient, to suffer a sudden [[m/_medical|medical]] [[e/_emergency|emergency]] (a [[c/_code|code]] [[b/_blue|blue]]) such as [[c/_cardiac|cardiac]] [[a/_arrest|arrest]].**
+- **Of a [[p/_patient|patient]], to suffer a sudden [[m/_medical|medical]] [[e/_emergency|emergency]] (a [[c/_code|code]] [[b/_blue|blue]]) such as [[c/_cardiac|cardiac]] [[a/_arrest|arrest]].**
 ---
 #adjective
 - **[[e/_encoded|Encoded]]; written in [[c/_code|code]] or [[c/_cipher|cipher]].**

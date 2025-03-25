@@ -10,6 +10,6 @@
 - **([[g/_grammar|grammar]]) The [[a/_ability|ability]] of [[a/_adjectives|adjectives]] and [[a/_adverbs|adverbs]] to [[f/_form|form]] three [[d/_degrees|degrees]], as in [[h/_hot|hot]], [[h/_hotter|hotter]], [[h/_hottest|hottest]].**
 - **That to which, or with which, a thing is [[c/_compared|compared]], as [[b/_being|being]] [[e/_equal|equal]] or [[l/_like|like]]; [[i/_illustration|illustration]]; similitude.**
 - **A simile.**
-- **The [[f/_faculty|faculty]] of the reflective [[g/_group|group]] which is supposed to perceive resemblances and [[c/_contrasts|contrasts]].**
+- **The [[f/_faculty|faculty]] of the reflective [[g/_group|group]] which is supposed to [[p/_perceive|perceive]] resemblances and [[c/_contrasts|contrasts]].**
 ---
 ---

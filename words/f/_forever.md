@@ -7,7 +7,7 @@
 	- _Example: Sure, I'd be happy to meet with you on the 12th of forever._
 ---
 #adjective
-- **Permanent, [[l/_lasting|lasting]]**
+- **[[p/_permanent|Permanent]], [[l/_lasting|lasting]]**
 ---
 #adverb
 - **([[d/_duration|duration]]) For [[a/_all|all]] time, for [[a/_all|all]] [[e/_eternity|eternity]]; for a [[l/_lifetime|lifetime]]; for an [[i/_infinite|infinite]] [[a/_amount|amount]] of time.**

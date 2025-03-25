@@ -9,6 +9,6 @@
 ---
 #noun
 - **A [[b/_blow|blow]] or [[m/_motion|motion]] that [[b/_buffets|buffets]].**
-- **Random, [[i/_irregular|irregular]] [[m/_motion|motion]] of the plane or of [[o/_one|one]] of [[i/_its|its]] parts [[c/_caused|caused]] by turbulences in the [[a/_airflow|airflow]]**
+- **Random, [[i/_irregular|irregular]] [[m/_motion|motion]] of the [[p/_plane|plane]] or of [[o/_one|one]] of [[i/_its|its]] [[p/_parts|parts]] [[c/_caused|caused]] by turbulences in the [[a/_airflow|airflow]]**
 ---
 ---

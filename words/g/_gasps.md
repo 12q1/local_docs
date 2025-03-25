@@ -13,7 +13,7 @@
 	- _Example: We were all gasping when we reached the summit._
 - **To speak in a [[b/_breathless|breathless]] [[m/_manner|manner]].**
 	- _Example: The old man gasped his last few words._
-- **To pant with [[e/_eagerness|eagerness]]; to show vehement [[d/_desire|desire]].**
+- **To [[p/_pant|pant]] with [[e/_eagerness|eagerness]]; to show vehement [[d/_desire|desire]].**
 	- _Example: I'm gasping for a cup of tea._
 ---
 ---

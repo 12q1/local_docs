@@ -7,9 +7,9 @@
 ### Synonyms
 - 
 #noun
-- **A [[c/_clog|clog]] or patten.**
+- **A [[c/_clog|clog]] or [[p/_patten|patten]].**
 	- _Example: Nor were worthy [to] unbuckle his galoche. - Chaucer._
 - **[[h/_hence|Hence]], an [[o/_overshoe|overshoe]] worn in wet weather.**
-- **A [[g/_gaiter|gaiter]], or [[l/_legging|legging]], [[c/_covering|covering]] the upper part of the shoe and part of the [[l/_leg|leg]].**
+- **A [[g/_gaiter|gaiter]], or [[l/_legging|legging]], [[c/_covering|covering]] the upper [[p/_part|part]] of the shoe and [[p/_part|part]] of the [[l/_leg|leg]].**
 ---
 ---

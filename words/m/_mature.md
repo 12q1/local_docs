@@ -1,7 +1,7 @@
 # Mature
 ---
 #adjective
-- **[[f/_fully|Fully]] [[d/_developed|developed]]; [[g/_grown|grown]] up in terms of physical [[a/_appearance|appearance]], [[b/_behaviour|behaviour]] or thinking; ripe.**
+- **[[f/_fully|Fully]] [[d/_developed|developed]]; [[g/_grown|grown]] up in terms of [[p/_physical|physical]] [[a/_appearance|appearance]], [[b/_behaviour|behaviour]] or thinking; ripe.**
 	- _Example: She is quite mature for her age._
 - **[[b/_brought|Brought]] to a state of [[c/_complete|complete]] readiness.**
 	- _Example: a mature plan_

@@ -1,6 +1,6 @@
 # Iliac
 ---
 #adjective
-- **Of or pertaining to the [[i/_ilium|ilium]].**
+- **Of or [[p/_pertaining|pertaining]] to the [[i/_ilium|ilium]].**
 ---
 ---

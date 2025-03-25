@@ -10,7 +10,7 @@
 - **[[h/_highly|Highly]] [[c/_concentrated|concentrated]].**
 	- _Example: I took a three-day intensive course in finance._
 - **Stretched; [[a/_allowing|allowing]] [[i/_intension|intension]], or [[i/_increase|increase]] of [[d/_degree|degree]]; that [[c/_can|can]] be [[i/_intensified|intensified]].**
-- **[[c/_characterized|Characterized]] by persistence; [[i/_intent|intent]]; [[a/_assiduous|assiduous]].**
+- **[[c/_characterized|Characterized]] by [[p/_persistence|persistence]]; [[i/_intent|intent]]; [[a/_assiduous|assiduous]].**
 - **([[g/_grammar|grammar]]) Serving to [[g/_give|give]] [[f/_force|force]] or [[e/_emphasis|emphasis]].**
 	- _Example: an intensive verb or preposition_
 - **Related to the [[n/_need|need]] to [[m/_manage|manage]] [[l/_life|life]]-threatening [[c/_conditions|conditions]] by [[m/_means|means]] of sophisticated [[l/_life|life]] support and [[m/_monitoring|monitoring]].**

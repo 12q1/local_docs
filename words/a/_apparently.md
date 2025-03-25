@@ -1,7 +1,7 @@
 # Apparently
 ---
 #adverb
-- **Plainly; [[c/_clearly|clearly]]; [[m/_manifestly|manifestly]]; [[e/_evidently|evidently]].**
+- **[[p/_plainly|Plainly]]; [[c/_clearly|clearly]]; [[m/_manifestly|manifestly]]; [[e/_evidently|evidently]].**
 - **Seemingly; in [[a/_appearance|appearance]] [[o/_only|only]].**
 	- _Example: A man may be apparently friendly, yet malicious in heart._
 - **[[a/_according|According]] to what the speaker [[h/_has|has]] read or [[h/_heard|heard]].**

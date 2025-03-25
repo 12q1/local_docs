@@ -8,7 +8,7 @@
 ---
 #adjective
 - **[[o/_organized|Organized]], working together, [[c/_cooperating|cooperating]]**
-- **Physically [[g/_graceful|graceful]] or skillful**
+- **[[p/_physically|Physically]] [[g/_graceful|graceful]] or skillful**
 - **[[h/_having|Having]] [[c/_coordinate|coordinate]] [[b/_bonds|bonds]]**
 ---
 ### Antonyms

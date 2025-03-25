@@ -1,7 +1,7 @@
 # Longed
 ---
 #verb
-- **To take a [[l/_long|long]] position in.**
+- **To take a [[l/_long|long]] [[p/_position|position]] in.**
 ---
 #verb
 - **To [[a/_await|await]], [[a/_aspire|aspire]], [[d/_desire|desire]] [[g/_greatly|greatly]] (something to [[o/_occur|occur]] or to be true)**
@@ -10,7 +10,7 @@
 ### Synonyms
 - [[a/_ache|ache]], [[y/_yearn|yearn]]
 #verb
-- **To be [[a/_appropriate|appropriate]] to, to pertain or [[b/_belong|belong]] to.**
+- **To be [[a/_appropriate|appropriate]] to, to [[p/_pertain|pertain]] or [[b/_belong|belong]] to.**
 ---
 #verb
 - **To [[b/_belong|belong]].**

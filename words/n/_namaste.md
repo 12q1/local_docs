@@ -2,7 +2,7 @@
 ---
 #noun
 - **The traditional [[g/_greeting|greeting]] when saying the word [[n/_namaste|namaste]], with [[f/_folded|folded]] [[h/_hands|hands]] and a slight [[b/_bow|bow]].**
-- **In [[y/_yoga|yoga]], the pose [[a/_associated|associated]] with this word, usually with the [[f/_flat|flat]] [[h/_hands|hands]] [[h/_held|held]] [[p/_palms|palms]] together, [[f/_fingers|fingers]] up, in [[f/_front|front]] of the [[h/_heart|heart]] and a slight [[b/_bow|bow]].**
+- **In [[y/_yoga|yoga]], the [[p/_pose|pose]] [[a/_associated|associated]] with this word, usually with the [[f/_flat|flat]] [[h/_hands|hands]] [[h/_held|held]] [[p/_palms|palms]] together, [[f/_fingers|fingers]] up, in [[f/_front|front]] of the [[h/_heart|heart]] and a slight [[b/_bow|bow]].**
 ---
 #verb
 - **To utter "[[n/_namaste|namaste]]".**

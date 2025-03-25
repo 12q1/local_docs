@@ -1,7 +1,7 @@
 # Ocher
 ---
 #noun
-- **An [[e/_earth|earth]] pigment [[c/_containing|containing]] silica, [[a/_aluminum|aluminum]] and [[f/_ferric|ferric]] [[o/_oxide|oxide]]**
+- **An [[e/_earth|earth]] [[p/_pigment|pigment]] [[c/_containing|containing]] silica, [[a/_aluminum|aluminum]] and [[f/_ferric|ferric]] [[o/_oxide|oxide]]**
 - **A somewhat [[d/_dark|dark]] [[y/_yellowish|yellowish]] [[o/_orange|orange]] [[c/_colour|colour]]**
 - **The stop [[c/_codon|codon]] sequence "UAA."**
 - **[[m/_money|Money]], [[e/_especially|especially]] [[g/_gold|gold]].**

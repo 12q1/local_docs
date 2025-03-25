@@ -1,6 +1,6 @@
 # Mutineers
 ---
 #noun
-- **Someone who participates in [[m/_mutiny|mutiny]].**
+- **Someone who [[p/_participates|participates]] in [[m/_mutiny|mutiny]].**
 ---
 ---

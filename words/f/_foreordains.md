@@ -1,6 +1,6 @@
 # Foreordains
 ---
 #verb
-- **To predestine or preordain.**
+- **To [[p/_predestine|predestine]] or [[p/_preordain|preordain]].**
 ---
 ---

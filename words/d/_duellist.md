@@ -1,7 +1,7 @@
 # Duellist
 ---
 #noun
-- **A person who [[f/_fights|fights]] a [[d/_duel|duel]].**
+- **A [[p/_person|person]] who [[f/_fights|fights]] a [[d/_duel|duel]].**
 ---
 ### Synonyms
 - [[d/_dueler|dueler]]

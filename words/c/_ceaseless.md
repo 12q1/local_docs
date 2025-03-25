@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Without an [[e/_end|end]].**
-- **Without stop or pause, [[i/_incessant|incessant]].**
+- **Without stop or [[p/_pause|pause]], [[i/_incessant|incessant]].**
 ---
 ---

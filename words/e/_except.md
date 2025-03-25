@@ -12,7 +12,7 @@
 ### Synonyms
 - [[o/_outtake|outtake]]
 #conjunction
-- **With the [[e/_exception|exception]] (that); used to [[i/_introduce|introduce]] a [[c/_clause|clause]], phrase or [[a/_adverb|adverb]] [[f/_forming|forming]] an [[e/_exception|exception]] or qualification to something previously stated.**
+- **With the [[e/_exception|exception]] (that); used to [[i/_introduce|introduce]] a [[c/_clause|clause]], [[p/_phrase|phrase]] or [[a/_adverb|adverb]] [[f/_forming|forming]] an [[e/_exception|exception]] or qualification to something previously stated.**
 	- _Example: I never made fun of her except teasingly._
 - **Unless; used to [[i/_introduce|introduce]] a [[h/_hypothetical|hypothetical]] [[c/_case|case]] in which an [[e/_exception|exception]] [[m/_may|may]] [[e/_exist|exist]].**
 ---

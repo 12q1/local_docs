@@ -2,9 +2,9 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[m/_mobilizing|mobilizing]]**
-- **The [[m/_marshalling|marshalling]] of troops and [[n/_national|national]] resources in preparation for war.**
+- **The [[m/_marshalling|marshalling]] of troops and [[n/_national|national]] resources in [[p/_preparation|preparation]] for war.**
 - **The process by which the [[a/_armed|armed]] [[f/_forces|forces]] of a [[n/_nation|nation]] are [[b/_brought|brought]] to a state of readiness for a [[c/_conflict|conflict]].**
-- **The softening of rock such that [[g/_geochemical|geochemical]] [[m/_migration|migration]] [[c/_can|can]] take place**
+- **The softening of rock such that [[g/_geochemical|geochemical]] [[m/_migration|migration]] [[c/_can|can]] take [[p/_place|place]]**
 - **The transport of a [[c/_copy|copy]] of a [[g/_gene|gene]] from [[o/_one|one]] [[c/_chromosome|chromosome]], or [[o/_one|one]] [[o/_organism|organism]] to [[a/_another|another]]**
 ---
 ### Antonyms

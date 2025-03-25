@@ -1,6 +1,6 @@
 # Needling
 ---
 #noun
-- **A [[n/_needy|needy]] person.**
+- **A [[n/_needy|needy]] [[p/_person|person]].**
 ---
 ---

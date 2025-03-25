@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[a/_accusing|accusing]].**
-- **A [[f/_formal|formal]] [[c/_charge|charge]] [[b/_brought|brought]] [[a/_against|against]] a person in a [[c/_court|court]] of [[l/_law|law]].**
+- **A [[f/_formal|formal]] [[c/_charge|charge]] [[b/_brought|brought]] [[a/_against|against]] a [[p/_person|person]] in a [[c/_court|court]] of [[l/_law|law]].**
 - **An [[a/_allegation|allegation]].**
 ---
 ### Synonyms

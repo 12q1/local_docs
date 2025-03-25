@@ -1,7 +1,7 @@
 # Impinging
 ---
 #verb
-- **To [[m/_make|make]] a physical [[i/_impact|impact]] on.**
+- **To [[m/_make|make]] a [[p/_physical|physical]] [[i/_impact|impact]] on.**
 	- _Example: Loud noise can impinge on the eardrum, causing temporary hearing damage._
 - **To [[i/_interfere|interfere]] with.**
 - **To [[h/_have|have]] an [[e/_effect|effect]] upon, [[e/_especially|especially]] a [[n/_negative|negative]] [[o/_one|one]].**

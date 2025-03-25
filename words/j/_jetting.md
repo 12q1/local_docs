@@ -13,6 +13,6 @@
 - **To [[l/_leave|leave]].**
 ---
 #noun
-- **The [[a/_application|application]] of a [[j/_jet|jet]] of [[l/_liquid|liquid]], [[e/_especially|especially]] to treat [[l/_livestock|livestock]] [[a/_against|against]] pests.**
+- **The [[a/_application|application]] of a [[j/_jet|jet]] of [[l/_liquid|liquid]], [[e/_especially|especially]] to treat [[l/_livestock|livestock]] [[a/_against|against]] [[p/_pests|pests]].**
 ---
 ---

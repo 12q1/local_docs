@@ -1,7 +1,7 @@
 # Inefficient
 ---
 #noun
-- **A person who [[c/_cannot|cannot]] or [[d/_does|does]] not work [[e/_efficiently|efficiently]].**
+- **A [[p/_person|person]] who [[c/_cannot|cannot]] or [[d/_does|does]] not work [[e/_efficiently|efficiently]].**
 ---
 #adjective
 - **Not [[e/_efficient|efficient]]; not producing the [[e/_effect|effect]] [[i/_intended|intended]] or [[d/_desired|desired]]; [[i/_inefficacious|inefficacious]]**

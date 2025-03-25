@@ -1,16 +1,16 @@
 # Noodles
 ---
 #noun
-- **(usually in the plural) a string or strip of pasta**
+- **(usually in the [[p/_plural|plural]]) a string or strip of [[p/_pasta|pasta]]**
 	- _Example: She slurped a long noodle up out of her soup._
-- **A person with poor [[j/_judgement|judgement]]; a [[f/_fool|fool]]**
+- **A [[p/_person|person]] with [[p/_poor|poor]] [[j/_judgement|judgement]]; a [[f/_fool|fool]]**
 - **The [[b/_brain|brain]], the [[h/_head|head]]**
-- **A pool [[n/_noodle|noodle]]**
+- **A [[p/_pool|pool]] [[n/_noodle|noodle]]**
 ---
 #verb
-- **To think or ponder.**
+- **To think or [[p/_ponder|ponder]].**
 	- _Example: "Noodle that thought around for a while" said Dr. Johnson to his Biblical Interpretations class._
-- **To [[f/_fiddle|fiddle]], play with, or [[m/_mess|mess]] [[a/_around|around]].**
+- **To [[f/_fiddle|fiddle]], [[p/_play|play]] with, or [[m/_mess|mess]] [[a/_around|around]].**
 	- _Example: If the machine is really broken, noodling with the knobs is not going to fix it._
 - **To [[i/_improvise|improvise]] [[m/_music|music]].**
 	- _Example: He has been noodling with that trumpet all afternoon, and every bit of it sounds awful._

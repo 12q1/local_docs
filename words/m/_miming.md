@@ -6,6 +6,6 @@
 - **To represent an [[a/_action|action]] or [[o/_object|object]] through [[g/_gesture|gesture]], without the use of sound.**
 ---
 #noun
-- **A performance in [[m/_mime|mime]].**
+- **A [[p/_performance|performance]] in [[m/_mime|mime]].**
 ---
 ---

@@ -17,7 +17,7 @@
 	- _Example: The company nets $30 on every sale._
 - **To [[y/_yield|yield]] as profit for.**
 	- _Example: The scam netted the criminals $30,000._
-- **To [[f/_fully|fully]] [[h/_hedge|hedge]] a position.**
+- **To [[f/_fully|fully]] [[h/_hedge|hedge]] a [[p/_position|position]].**
 	- _Example: Every party is netting their position with a counter-party_
 ---
 ---

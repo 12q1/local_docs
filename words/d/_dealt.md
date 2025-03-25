@@ -1,12 +1,12 @@
 # Dealt
 ---
 #verb
-- **To [[d/_distribute|distribute]] [[a/_among|among]] a [[n/_number|number]] of recipients, to [[g/_give|give]] [[o/_out|out]] as [[o/_one|one]]’s portion or share.**
+- **To [[d/_distribute|distribute]] [[a/_among|among]] a [[n/_number|number]] of recipients, to [[g/_give|give]] [[o/_out|out]] as [[o/_one|one]]’s [[p/_portion|portion]] or share.**
 	- _Example: The fighting is over; now we deal out the spoils of victory._
-- **To [[a/_administer|administer]] or [[g/_give|give]] [[o/_out|out]], as in small portions.**
-- **To [[d/_distribute|distribute]] [[c/_cards|cards]] to the players in a [[g/_game|game]].**
+- **To [[a/_administer|administer]] or [[g/_give|give]] [[o/_out|out]], as in small [[p/_portions|portions]].**
+- **To [[d/_distribute|distribute]] [[c/_cards|cards]] to the [[p/_players|players]] in a [[g/_game|game]].**
 	- _Example: I was dealt four aces._
-- **To pitch.**
+- **To [[p/_pitch|pitch]].**
 	- _Example: The whole crowd waited for him to deal a real humdinger._
 - **To [[h/_have|have]] [[d/_dealings|dealings]] or [[b/_business|business]].**
 - **To [[c/_conduct|conduct]] [[o/_oneself|oneself]], to [[b/_behave|behave]].**

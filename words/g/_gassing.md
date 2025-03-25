@@ -1,7 +1,7 @@
 # Gassing
 ---
 #verb
-- **To [[k/_kill|kill]] with poisonous [[g/_gas|gas]].**
+- **To [[k/_kill|kill]] with [[p/_poisonous|poisonous]] [[g/_gas|gas]].**
 - **To talk in a [[b/_boastful|boastful]] or vapid way; [[c/_chatter|chatter]].**
 - **To [[i/_impose|impose]] upon by talking [[b/_boastfully|boastfully]].**
 - **To [[e/_emit|emit]] [[g/_gas|gas]].**
@@ -19,9 +19,9 @@
 ### Synonyms
 - [[e/_en|en]], [[r/_refuel|refuel]]
 #noun
-- **Poisoning by [[n/_noxious|noxious]] [[g/_gas|gas]].**
+- **[[p/_poisoning|Poisoning]] by [[n/_noxious|noxious]] [[g/_gas|gas]].**
 - **The [[l/_liberation|liberation]] of [[h/_hydrogen|hydrogen]] from an [[o/_overcharged|overcharged]] [[b/_battery|battery]] [[d/_due|due]] to [[e/_electrolysis|electrolysis]] of the [[e/_electrolyte|electrolyte]].**
-- **The process of passing [[c/_cotton|cotton]] [[g/_goods|goods]] [[b/_between|between]] two rollers and [[e/_exposing|exposing]] them to [[n/_numerous|numerous]] [[m/_minute|minute]] [[j/_jets|jets]] of [[g/_gas|gas]] to [[b/_burn|burn]] [[o/_off|off]] the small [[f/_fibres|fibres]].**
+- **The process of [[p/_passing|passing]] [[c/_cotton|cotton]] [[g/_goods|goods]] [[b/_between|between]] two rollers and [[e/_exposing|exposing]] them to [[n/_numerous|numerous]] [[m/_minute|minute]] [[j/_jets|jets]] of [[g/_gas|gas]] to [[b/_burn|burn]] [[o/_off|off]] the small [[f/_fibres|fibres]].**
 - **[[a/_any|Any]] similar process of singeing.**
 - **[[b/_boasting|Boasting]]; [[i/_insincere|insincere]] or [[e/_empty|empty]] talk**
 ---

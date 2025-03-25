@@ -1,11 +1,11 @@
 # Ladder
 ---
 #noun
-- **A [[f/_frame|frame]], usually portable, of wood, [[m/_metal|metal]], or rope, used for [[a/_ascent|ascent]] and [[d/_descent|descent]], [[c/_consisting|consisting]] of two side pieces to which are [[f/_fastened|fastened]] rungs ([[c/_cross|cross]] strips or rounds [[a/_acting|acting]] as steps).**
-- **A series of stages by which [[o/_one|one]] progresses to a [[b/_better|better]] position.**
+- **A [[f/_frame|frame]], usually [[p/_portable|portable]], of wood, [[m/_metal|metal]], or rope, used for [[a/_ascent|ascent]] and [[d/_descent|descent]], [[c/_consisting|consisting]] of two side [[p/_pieces|pieces]] to which are [[f/_fastened|fastened]] rungs ([[c/_cross|cross]] strips or rounds [[a/_acting|acting]] as steps).**
+- **A series of stages by which [[o/_one|one]] progresses to a [[b/_better|better]] [[p/_position|position]].**
 - **The [[h/_hierarchy|hierarchy]] or ranking system within an [[o/_organization|organization]], such as the [[c/_corporate|corporate]] [[l/_ladder|ladder]].**
 - **A [[l/_length|length]] of unravelled [[f/_fabric|fabric]] in a [[k/_knitted|knitted]] [[g/_garment|garment]], [[e/_especially|especially]] in [[n/_nylon|nylon]] stockings; a run.**
-- **In the [[g/_game|game]] of [[g/_go|go]], a sequence of [[m/_moves|moves]] [[f/_following|following]] a zigzag pattern and ultimately [[l/_leading|leading]] to the [[c/_capture|capture]] of the [[a/_attacked|attacked]] stones.**
+- **In the [[g/_game|game]] of [[g/_go|go]], a sequence of [[m/_moves|moves]] [[f/_following|following]] a zigzag [[p/_pattern|pattern]] and ultimately [[l/_leading|leading]] to the [[c/_capture|capture]] of the [[a/_attacked|attacked]] stones.**
 ---
 ### Synonyms
 - [[s/_stepladder|stepladder]], [[r/_run|run]]

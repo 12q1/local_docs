@@ -2,10 +2,10 @@
 ---
 #noun
 - **Undyed [[l/_leather|leather]] from the skin of [[b/_buffalo|buffalo]] or similar [[a/_animals|animals]].**
-- **A tool, [[o/_often|often]] [[o/_one|one]] [[c/_covered|covered]] with [[b/_buff|buff]] [[l/_leather|leather]], used for polishing.**
+- **A tool, [[o/_often|often]] [[o/_one|one]] [[c/_covered|covered]] with [[b/_buff|buff]] [[l/_leather|leather]], used for [[p/_polishing|polishing]].**
 - **A [[b/_brownish|brownish]] [[y/_yellow|yellow]] [[c/_colour|colour]].**
 - **A [[m/_military|military]] [[c/_coat|coat]] [[m/_made|made]] of [[b/_buff|buff]] [[l/_leather|leather]].**
-- **A person who is very [[i/_interested|interested]] in a particular subject; an [[e/_enthusiast|enthusiast]].**
+- **A [[p/_person|person]] who is very [[i/_interested|interested]] in a [[p/_particular|particular]] subject; an [[e/_enthusiast|enthusiast]].**
 - **An [[e/_effect|effect]] that [[m/_makes|makes]] a [[c/_character|character]] or [[i/_item|item]] stronger.**
 	- _Example: I just picked up an epic damage buff! Let's go gank the other team!_
 - **[[c/_compressive|Compressive]] [[c/_coupler|coupler]] [[f/_force|force]] that [[o/_occurs|occurs]] [[d/_during|during]] a slack [[b/_bunched|bunched]] [[c/_condition|condition]].**
@@ -19,7 +19,7 @@
 ### Antonyms
 - [[d/_debuff|debuff]], [[n/_nerf|nerf]]
 #verb
-- **To polish and [[m/_make|make]] shiny by rubbing.**
+- **To [[p/_polish|polish]] and [[m/_make|make]] shiny by rubbing.**
 	- _Example: He was already buffing the car's hubs._
 - **To [[m/_make|make]] a [[c/_character|character]] or an [[i/_item|item]] stronger.**
 	- _Example: I noticed that the pistols were buffed in the update._

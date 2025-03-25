@@ -2,7 +2,7 @@
 ---
 #adverb
 - **[[f/_fastidiously|Fastidiously]]; [[c/_carefully|carefully]].**
-- **Precisely; with [[f/_fine|fine]] [[d/_discernment|discernment]] or [[j/_judgement|judgement]].**
-- **Pleasantly; satisfactorily.**
+- **[[p/_precisely|Precisely]]; with [[f/_fine|fine]] [[d/_discernment|discernment]] or [[j/_judgement|judgement]].**
+- **[[p/_pleasantly|Pleasantly]]; satisfactorily.**
 ---
 ---

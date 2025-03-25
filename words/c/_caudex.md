@@ -1,6 +1,6 @@
 # Caudex
 ---
 #noun
-- **An [[e/_enlargement|enlargement]] of the stem, [[b/_branch|branch]] or root of a woody plant, usually serving to store water.**
+- **An [[e/_enlargement|enlargement]] of the stem, [[b/_branch|branch]] or root of a woody [[p/_plant|plant]], usually serving to store water.**
 ---
 ---

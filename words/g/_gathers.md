@@ -1,7 +1,7 @@
 # Gathers
 ---
 #noun
-- **A plait or [[f/_fold|fold]] in [[c/_cloth|cloth]], [[m/_made|made]] by [[d/_drawing|drawing]] a thread through it; a pucker.**
+- **A [[p/_plait|plait]] or [[f/_fold|fold]] in [[c/_cloth|cloth]], [[m/_made|made]] by [[d/_drawing|drawing]] a thread through it; a pucker.**
 - **The [[i/_inclination|inclination]] [[f/_forward|forward]] of the [[a/_axle|axle]] [[j/_journals|journals]] to [[k/_keep|keep]] the wheels from working [[o/_outward|outward]].**
 - **The soffit or under surface of the [[m/_masonry|masonry]] required in [[g/_gathering|gathering]]. See [[g/_gather|gather]] (transitive verb).**
 - **A [[b/_blob|blob]] of [[m/_molten|molten]] [[g/_glass|glass]] [[c/_collected|collected]] on the [[e/_end|end]] of a [[b/_blowpipe|blowpipe]].**
@@ -10,7 +10,7 @@
 #verb
 - **To [[c/_collect|collect]]; [[n/_normally|normally]] separate things.**
 	- _Example: I've been gathering ideas from the people I work with._
-- **To [[b/_bring|bring]] parts of a whole [[c/_closer|closer]].**
+- **To [[b/_bring|bring]] [[p/_parts|parts]] of a whole [[c/_closer|closer]].**
 	- _Example: She gathered the shawl about her as she stepped into the cold._
 - **To [[i/_infer|infer]] or [[c/_conclude|conclude]]; to [[k/_know|know]] from a [[d/_different|different]] source.**
 	- _Example: From his silence, I gathered that things had not gone well._

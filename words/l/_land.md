@@ -1,26 +1,26 @@
 # Land
 ---
 #noun
-- **The part of [[e/_earth|Earth]] which is not [[c/_covered|covered]] by [[o/_oceans|oceans]] or [[o/_other|other]] [[b/_bodies|bodies]] of water.**
+- **The [[p/_part|part]] of [[e/_earth|Earth]] which is not [[c/_covered|covered]] by [[o/_oceans|oceans]] or [[o/_other|other]] [[b/_bodies|bodies]] of water.**
 	- _Example: Most insects live on land._
-- **Real [[e/_estate|estate]] or [[l/_landed|landed]] property; a partitioned and [[m/_measurable|measurable]] [[a/_area|area]] which is [[o/_owned|owned]] and on which [[b/_buildings|buildings]] [[c/_can|can]] be [[e/_erected|erected]].**
+- **Real [[e/_estate|estate]] or [[l/_landed|landed]] property; a [[p/_partitioned|partitioned]] and [[m/_measurable|measurable]] [[a/_area|area]] which is [[o/_owned|owned]] and on which [[b/_buildings|buildings]] [[c/_can|can]] be [[e/_erected|erected]].**
 	- _Example: There are 50 acres of land in this estate._
 - **A [[c/_country|country]] or region.**
-- **A person's [[c/_country|country]] of [[o/_origin|origin]] and/or [[h/_homeplace|homeplace]]; [[h/_homeland|homeland]].**
+- **A [[p/_person|person]]'s [[c/_country|country]] of [[o/_origin|origin]] and/or [[h/_homeplace|homeplace]]; [[h/_homeland|homeland]].**
 - **The soil, in respect to [[i/_its|its]] [[n/_nature|nature]] or quality for [[f/_farming|farming]].**
 	- _Example: wet land; good or bad land for growing potatoes_
 - **([[o/_often|often]] in [[c/_combination|combination]]) realm, [[d/_domain|domain]].**
 	- _Example: I'm going to Disneyland._
-- **The [[g/_ground|ground]] [[l/_left|left]] unploughed [[b/_between|between]] [[f/_furrows|furrows]]; [[a/_any|any]] of several portions [[i/_into|into]] which a [[f/_field|field]] is [[d/_divided|divided]] for ploughing.**
+- **The [[g/_ground|ground]] [[l/_left|left]] unploughed [[b/_between|between]] [[f/_furrows|furrows]]; [[a/_any|any]] of several [[p/_portions|portions]] [[i/_into|into]] which a [[f/_field|field]] is [[d/_divided|divided]] for [[p/_ploughing|ploughing]].**
 - **A shock or [[f/_fright|fright]].**
 	- _Example: He got an awful land when the police arrived._
 - **A [[c/_conducting|conducting]] [[a/_area|area]] on a [[b/_board|board]] or [[c/_chip|chip]] which [[c/_can|can]] be used for [[c/_connecting|connecting]] wires.**
-- **In a [[c/_compact|compact]] [[d/_disc|disc]] or similar recording [[m/_medium|medium]], an [[a/_area|area]] of the [[m/_medium|medium]] which [[d/_does|does]] not [[h/_have|have]] pits.**
-- **(travel) The [[n/_non|non]]-[[a/_airline|airline]] portion of an [[i/_itinerary|itinerary]]. [[h/_hotel|Hotel]], tours, [[c/_cruises|cruises]], [[e/_etc|etc]].**
+- **In a [[c/_compact|compact]] [[d/_disc|disc]] or similar recording [[m/_medium|medium]], an [[a/_area|area]] of the [[m/_medium|medium]] which [[d/_does|does]] not [[h/_have|have]] [[p/_pits|pits]].**
+- **(travel) The [[n/_non|non]]-[[a/_airline|airline]] [[p/_portion|portion]] of an [[i/_itinerary|itinerary]]. [[h/_hotel|Hotel]], tours, [[c/_cruises|cruises]], [[e/_etc|etc]].**
 	- _Example: Our city offices sell a lot more land than our suburban offices._
 - **The [[g/_ground|ground]] or [[f/_floor|floor]].**
-- **The [[l/_lap|lap]] of the strakes in a [[c/_clinker|clinker]]-[[b/_built|built]] [[b/_boat|boat]]; the [[l/_lap|lap]] of plates in an [[i/_iron|iron]] vessel; [[c/_called|called]] [[a/_also|also]] [[l/_landing|landing]].**
-- **In [[a/_any|any]] surface prepared with [[i/_indentations|indentations]], perforations, or [[g/_grooves|grooves]], that part of the surface which is not so treated, such as the [[l/_level|level]] part of a [[m/_millstone|millstone]] [[b/_between|between]] the [[f/_furrows|furrows]].**
+- **The [[l/_lap|lap]] of the strakes in a [[c/_clinker|clinker]]-[[b/_built|built]] [[b/_boat|boat]]; the [[l/_lap|lap]] of [[p/_plates|plates]] in an [[i/_iron|iron]] vessel; [[c/_called|called]] [[a/_also|also]] [[l/_landing|landing]].**
+- **In [[a/_any|any]] surface [[p/_prepared|prepared]] with [[i/_indentations|indentations]], [[p/_perforations|perforations]], or [[g/_grooves|grooves]], that [[p/_part|part]] of the surface which is not so treated, such as the [[l/_level|level]] [[p/_part|part]] of a [[m/_millstone|millstone]] [[b/_between|between]] the [[f/_furrows|furrows]].**
 - **A [[g/_group|group]] of [[d/_dwellings|dwellings]] or tenements under [[o/_one|one]] roof and [[h/_having|having]] a [[c/_common|common]] [[e/_entry|entry]].**
 ---
 #verb

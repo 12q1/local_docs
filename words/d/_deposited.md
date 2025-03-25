@@ -1,7 +1,7 @@
 # Deposited
 ---
 #verb
-- **To [[l/_lay|lay]] [[d/_down|down]]; to place; to put.**
+- **To [[l/_lay|lay]] [[d/_down|down]]; to [[p/_place|place]]; to put.**
 	- _Example: A crocodile deposits her eggs in the sand._
 - **To [[l/_lay|lay]] up or [[a/_away|away]] for safekeeping; to put up; to store.**
 	- _Example: to deposit goods in a warehouse_

@@ -1,7 +1,7 @@
 # Longitudinal
 ---
 #noun
-- **[[a/_any|Any]] [[l/_longitudinal|longitudinal]] piece, as in shipbuilding [[e/_etc|etc]].**
+- **[[a/_any|Any]] [[l/_longitudinal|longitudinal]] [[p/_piece|piece]], as in shipbuilding [[e/_etc|etc]].**
 ---
 #adjective
 - **Relating to [[l/_length|length]], or to [[l/_longitude|longitude]].**

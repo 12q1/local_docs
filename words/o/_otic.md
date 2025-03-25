@@ -1,7 +1,7 @@
 # Otic
 ---
 #adjective
-- **Of, relating/pertaining to, or [[l/_located|located]] [[n/_near|near]] the [[e/_ear|ear]]**
+- **Of, relating/[[p/_pertaining|pertaining]] to, or [[l/_located|located]] [[n/_near|near]] the [[e/_ear|ear]]**
 	- _Example: Otic preparations are used to treat infections of the ear canal._
 ---
 ### Synonyms

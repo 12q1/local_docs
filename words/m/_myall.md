@@ -1,7 +1,7 @@
 # Myall
 ---
 #noun
-- **([[a/_australian|Australian]] [[a/_aboriginal|Aboriginal]]) A stranger; an [[i/_ignorant|ignorant]] person.**
+- **([[a/_australian|Australian]] [[a/_aboriginal|Aboriginal]]) A stranger; an [[i/_ignorant|ignorant]] [[p/_person|person]].**
 - **An [[a/_aborigine|Aborigine]] [[l/_living|living]] [[a/_according|according]] to tradition.**
 ---
 #adjective

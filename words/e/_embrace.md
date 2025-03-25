@@ -1,8 +1,8 @@
 # Embrace
 ---
 #noun
-- **An [[a/_act|act]] of putting [[a/_arms|arms]] [[a/_around|around]] someone and [[b/_bringing|bringing]] the person [[c/_close|close]] to the [[c/_chest|chest]]; a [[h/_hug|hug]].**
-- **An [[e/_enclosure|enclosure]] partially or [[f/_fully|fully]] surrounding someone or something.**
+- **An [[a/_act|act]] of putting [[a/_arms|arms]] [[a/_around|around]] someone and [[b/_bringing|bringing]] the [[p/_person|person]] [[c/_close|close]] to the [[c/_chest|chest]]; a [[h/_hug|hug]].**
+- **An [[e/_enclosure|enclosure]] [[p/_partially|partially]] or [[f/_fully|fully]] surrounding someone or something.**
 - **[[f/_full|Full]] [[a/_acceptance|acceptance]] (of something).**
 - **An [[a/_act|act]] of [[e/_enfolding|enfolding]] or [[i/_including|including]].**
 ---
@@ -16,7 +16,7 @@
 	- _Example: Natural philosophy embraces many sciences._
 - **To [[f/_fasten|fasten]] on, as [[a/_armour|armour]].**
 - **To [[a/_accept|accept]] (someone) as a [[f/_friend|friend]]; to [[a/_accept|accept]] (someone's) [[h/_help|help]] [[g/_gladly|gladly]].**
-- **To [[a/_attempt|attempt]] to [[i/_influence|influence]] (a [[c/_court|court]], [[j/_jury|jury]], [[e/_etc|etc]].) [[c/_corruptly|corruptly]]; to practise [[e/_embracery|embracery]].**
+- **To [[a/_attempt|attempt]] to [[i/_influence|influence]] (a [[c/_court|court]], [[j/_jury|jury]], [[e/_etc|etc]].) [[c/_corruptly|corruptly]]; to [[p/_practise|practise]] [[e/_embracery|embracery]].**
 ---
 ### Synonyms
 - [[a/_accept|accept]], [[e/_entwine|entwine]], [[s/_surround|surround]]

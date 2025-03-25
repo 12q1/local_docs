@@ -1,7 +1,7 @@
 # Lumberjack
 ---
 #noun
-- **A person whose work is to [[f/_fell|fell]] trees.**
+- **A [[p/_person|person]] whose work is to [[f/_fell|fell]] trees.**
 - **A [[l/_lumberjacket|lumberjacket]].**
 ---
 ### Synonyms

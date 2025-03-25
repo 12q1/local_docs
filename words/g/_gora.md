@@ -1,6 +1,6 @@
 # Gora
 ---
 #noun
-- **A white person**
+- **A white [[p/_person|person]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Jarring
 ---
 #verb
-- **To preserve ([[f/_food|food]]) in a [[j/_jar|jar]].**
+- **To [[p/_preserve|preserve]] ([[f/_food|food]]) in a [[j/_jar|jar]].**
 ---
 ### Synonyms
 - [[b/_bottle|bottle]]
@@ -15,7 +15,7 @@
 - **To ([[c/_cause|cause]] something to) [[g/_give|give]] [[f/_forth|forth]] a rudely tremulous or quivering sound; to ([[c/_cause|cause]] something to) sound [[d/_discordantly|discordantly]] or [[h/_harshly|harshly]].**
 	- _Example: The clashing notes jarred on my ears._
 - **To quiver or vibrate [[d/_due|due]] to [[b/_being|being]] shaken or struck.**
-- **Of the [[a/_appearance|appearance]], [[f/_form|form]], style, [[e/_etc|etc]]., of people and things: to [[l/_look|look]] strangely [[d/_different|different]]; to stand [[o/_out|out]] [[a/_awkwardly|awkwardly]] from [[i/_its|its]] surroundings; to be [[i/_incongruent|incongruent]].**
+- **Of the [[a/_appearance|appearance]], [[f/_form|form]], style, [[e/_etc|etc]]., of [[p/_people|people]] and things: to [[l/_look|look]] strangely [[d/_different|different]]; to stand [[o/_out|out]] [[a/_awkwardly|awkwardly]] from [[i/_its|its]] surroundings; to be [[i/_incongruent|incongruent]].**
 ---
 #noun
 - **Storage in [[j/_jars|jars]].**

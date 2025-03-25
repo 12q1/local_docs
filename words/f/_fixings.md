@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_act|act]] of subverting ([[f/_fixing|fixing]]) a vote.**
-- **(usually in the plural) Something to [[a/_aid|aid]] [[a/_attachment|attachment]] [[d/_during|during]] [[c/_construction|construction]] (screws, wall plugs, [[e/_etc|etc]])**
+- **(usually in the [[p/_plural|plural]]) Something to [[a/_aid|aid]] [[a/_attachment|attachment]] [[d/_during|during]] [[c/_construction|construction]] (screws, wall [[p/_plugs|plugs]], [[e/_etc|etc]])**
 - **See [[f/_fixings|fixings]].**
 ---
 #noun

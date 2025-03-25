@@ -8,8 +8,8 @@
 - [[b/_binomen|binomen]], [[b/_binomial|binomial]]
 #adjective
 - **[[c/_consisting|Consisting]] of two [[n/_names|names]]**
-- **Pertaining to the [[n/_noun|noun]] [[b/_binomen|binomen]]**
-- **Pertaining to the [[n/_nomenclature|nomenclature]] system for the rank of species in [[b/_biological|biological]] taxonomy**
+- **[[p/_pertaining|Pertaining]] to the [[n/_noun|noun]] [[b/_binomen|binomen]]**
+- **[[p/_pertaining|Pertaining]] to the [[n/_nomenclature|nomenclature]] system for the rank of species in [[b/_biological|biological]] taxonomy**
 ---
 ### Synonyms
 - [[b/_binomial|binomial]]

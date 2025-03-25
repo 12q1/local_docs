@@ -6,7 +6,7 @@
 - **To [[d/_determine|determine]]; to [[m/_make|make]] or [[g/_grant|grant]] an [[a/_award|award]].**
 - **To [[g/_give|give]] (an [[a/_award|award]]).**
 	- _Example: Four or five of these medals are awarded every year._
-- **To [[g/_give|give]] (a person) an [[a/_award|award]].**
+- **To [[g/_give|give]] (a [[p/_person|person]]) an [[a/_award|award]].**
 	- _Example: He was awarded the Nobel Prize for Literature._
 ---
 ### Synonyms

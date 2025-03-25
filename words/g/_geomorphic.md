@@ -1,7 +1,7 @@
 # Geomorphic
 ---
 #adjective
-- **Of or pertaining to the shape or structure of the surface of the [[e/_earth|Earth]]**
-- **Of or pertaining to [[g/_geomorphology|geomorphology]]**
+- **Of or [[p/_pertaining|pertaining]] to the shape or structure of the surface of the [[e/_earth|Earth]]**
+- **Of or [[p/_pertaining|pertaining]] to [[g/_geomorphology|geomorphology]]**
 ---
 ---

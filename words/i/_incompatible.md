@@ -1,7 +1,7 @@
 # Incompatible
 ---
 #noun
-- **([[c/_chiefly|chiefly]] in the plural) An [[i/_incompatible|incompatible]] substance; [[o/_one|one]] of a [[g/_group|group]] of things that [[c/_cannot|cannot]] be placed or used together [[b/_because|because]] of a [[c/_change|change]] of [[c/_chemical|chemical]] [[c/_composition|composition]] or [[o/_opposing|opposing]] [[m/_medicinal|medicinal]] qualities.**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) An [[i/_incompatible|incompatible]] substance; [[o/_one|one]] of a [[g/_group|group]] of things that [[c/_cannot|cannot]] be [[p/_placed|placed]] or used together [[b/_because|because]] of a [[c/_change|change]] of [[c/_chemical|chemical]] [[c/_composition|composition]] or [[o/_opposing|opposing]] [[m/_medicinal|medicinal]] qualities.**
 	- _Example: the incompatibles of iron_
 - **A [[c/_consequent|consequent]] of a [[c/_contrary|contrary]].**
 ---

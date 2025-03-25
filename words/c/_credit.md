@@ -4,15 +4,15 @@
 - **Reliance on the truth of something said or [[d/_done|done]]; [[f/_faith|faith]]; trust.**
 - **Recognition and respect.**
 	- _Example: He arrived five minutes late, but to his credit he did work an extra ten minutes at the end of his shift._
-- **[[a/_acknowledgement|Acknowledgement]] of a [[c/_contribution|contribution]], [[e/_especially|especially]] in the performing [[a/_arts|arts]].**
+- **[[a/_acknowledgement|Acknowledgement]] of a [[c/_contribution|contribution]], [[e/_especially|especially]] in the [[p/_performing|performing]] [[a/_arts|arts]].**
 	- _Example: She received a singing credit in last year's operetta._
-- **(television/[[f/_film|film]], usually in the plural) Written titles and [[o/_other|other]] [[i/_information|information]] [[a/_about|about]] the TV program or [[m/_movie|movie]] shown at the [[b/_beginning|beginning]] and/or [[e/_end|end]] of the TV program or [[m/_movie|movie]].**
+- **(television/[[f/_film|film]], usually in the [[p/_plural|plural]]) Written titles and [[o/_other|other]] [[i/_information|information]] [[a/_about|about]] the TV program or [[m/_movie|movie]] shown at the [[b/_beginning|beginning]] and/or [[e/_end|end]] of the TV program or [[m/_movie|movie]].**
 	- _Example: They kissed, and then the credits rolled._
 - **A privilege of [[d/_delayed|delayed]] [[p/_payment|payment]] [[e/_extended|extended]] to a [[b/_buyer|buyer]] or [[b/_borrower|borrower]] on the seller's or [[l/_lender|lender]]'s [[b/_belief|belief]] that what is [[g/_given|given]] will be repaid.**
 	- _Example: In view of your payment record, we are happy to extend further credit to you._
 - **The time [[g/_given|given]] for [[p/_payment|payment]] for something sold on trust.**
 	- _Example: a long credit or a short credit_
-- **A person's [[c/_credit|credit]] rating or creditworthiness, as represented by their [[h/_history|history]] of [[b/_borrowing|borrowing]] and repayment (or [[n/_non|non]] [[p/_payment|payment]]).**
+- **A [[p/_person|person]]'s [[c/_credit|credit]] rating or creditworthiness, as represented by their [[h/_history|history]] of [[b/_borrowing|borrowing]] and repayment (or [[n/_non|non]] [[p/_payment|payment]]).**
 	- _Example: What do you mean my credit is no good?_
 - **An [[a/_addition|addition]] to [[c/_certain|certain]] [[a/_accounts|accounts]]; the side of an [[a/_account|account]] on which [[p/_payments|payments]] received are [[e/_entered|entered]].**
 - **(tax [[a/_accounting|accounting]]) A reduction in taxes [[o/_owed|owed]], or a refund for [[e/_excess|excess]] taxes [[p/_paid|paid]].**

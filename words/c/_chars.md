@@ -18,7 +18,7 @@
 #noun
 - **A time; a turn or [[o/_occasion|occasion]].**
 - **A turn of work; a [[l/_labour|labour]] or [[i/_item|item]] of [[b/_business|business]].**
-- **An [[o/_odd|odd]] [[j/_job|job]], a [[c/_chore|chore]] or piece of [[h/_housework|housework]].**
+- **An [[o/_odd|odd]] [[j/_job|job]], a [[c/_chore|chore]] or [[p/_piece|piece]] of [[h/_housework|housework]].**
 - **A [[c/_charlady|charlady]], a woman [[e/_employed|employed]] to [[d/_do|do]] [[h/_housework|housework]]; [[c/_cleaning|cleaning]] [[l/_lady|lady]].**
 	- _Example: I had to scrub the kitchen today, because the char couldn't come._
 ---
@@ -27,7 +27,7 @@
 #verb
 - **To turn, [[e/_especially|especially]] [[a/_away|away]] or [[a/_aside|aside]].**
 - **To work, [[e/_especially|especially]] to [[d/_do|do]] [[h/_housework|housework]]; to work by the [[d/_day|day]], without [[b/_being|being]] a regularly [[h/_hired|hired]] servant.**
-- **To perform; to [[d/_do|do]]; to [[f/_finish|finish]].**
+- **To [[p/_perform|perform]]; to [[d/_do|do]]; to [[f/_finish|finish]].**
 - **To work or [[h/_hew|hew]] (stone, [[e/_etc|etc]].).**
 ---
 #noun

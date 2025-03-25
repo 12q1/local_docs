@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[g/_gap|gap]] in a series, [[m/_making|making]] it [[i/_incomplete|incomplete]].**
-- **An [[i/_interruption|interruption]], [[b/_break|break]] or pause.**
+- **An [[i/_interruption|interruption]], [[b/_break|break]] or [[p/_pause|pause]].**
 - **An unexpected [[b/_break|break]] from work.**
 - **A [[g/_gap|gap]] in [[g/_geological|geological]] strata.**
 - **An [[o/_opening|opening]] in an [[o/_organ|organ]].**

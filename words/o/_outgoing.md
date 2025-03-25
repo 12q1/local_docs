@@ -9,13 +9,13 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[l/_leaving|leaving]] or [[g/_going|going]] [[o/_out|out]]; [[e/_exit|exit]], [[d/_departure|departure]].**
-- **([[c/_chiefly|chiefly]] in the plural) [[m/_money|Money]] that [[l/_leaves|leaves]] [[o/_one|one]]'s possession; [[e/_expenditure|expenditure]], [[o/_outlay|outlay]], [[e/_expense|expense]].**
-- **The [[e/_extreme|extreme]] [[l/_limit|limit]]; the place of [[e/_ending|ending]].**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) [[m/_money|Money]] that [[l/_leaves|leaves]] [[o/_one|one]]'s [[p/_possession|possession]]; [[e/_expenditure|expenditure]], [[o/_outlay|outlay]], [[e/_expense|expense]].**
+- **The [[e/_extreme|extreme]] [[l/_limit|limit]]; the [[p/_place|place]] of [[e/_ending|ending]].**
 ---
 ### Synonyms
 - [[o/_outgang|outgang]]
 #adjective
-- **[[e/_extraverted|Extraverted]]: talkative, [[f/_friendly|friendly]], and social, [[e/_especially|especially]] with respect to [[m/_meeting|meeting]] [[n/_new|new]] people [[e/_easily|easily]] and [[c/_comfortably|comfortably]].**
+- **[[e/_extraverted|Extraverted]]: talkative, [[f/_friendly|friendly]], and social, [[e/_especially|especially]] with respect to [[m/_meeting|meeting]] [[n/_new|new]] [[p/_people|people]] [[e/_easily|easily]] and [[c/_comfortably|comfortably]].**
 	- _Example: Tom is very outgoing and enjoys meeting people; his brother, on the other hand, is painfully shy._
 - **[[g/_going|Going]] [[o/_out|out]], on [[i/_its|its]] way [[o/_out|out]].**
 	- _Example: Is there any outgoing post?_

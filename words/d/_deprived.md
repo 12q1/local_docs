@@ -10,6 +10,6 @@
 ### Antonyms
 - [[e/_enrich|enrich]]
 #adjective
-- **Subject to [[d/_deprivation|deprivation]]; poor.**
+- **Subject to [[d/_deprivation|deprivation]]; [[p/_poor|poor]].**
 ---
 ---

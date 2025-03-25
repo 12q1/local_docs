@@ -8,17 +8,17 @@
 - **A [[g/_gold|gold]] [[m/_medal|medal]].**
 	- _Example: France has won three golds and five silvers._
 - **[[a/_anything|Anything]] or [[a/_anyone|anyone]] that is very valuable.**
-- **(in the plural) A [[g/_grill|grill]] ([[j/_jewellery|jewellery]] worn on [[f/_front|front]] teeth) [[m/_made|made]] of [[g/_gold|gold]].**
+- **(in the [[p/_plural|plural]]) A [[g/_grill|grill]] ([[j/_jewellery|jewellery]] worn on [[f/_front|front]] teeth) [[m/_made|made]] of [[g/_gold|gold]].**
 ---
 ### Synonyms
 - [[E/_E175|E175]]
 #verb
-- **To pyrolyze or [[b/_burn|burn]] [[f/_food|food]] until the [[c/_color|color]] [[b/_begins|begins]] to [[c/_change|change]] to a [[l/_light|light]] [[b/_brown|brown]], but not as [[d/_dark|dark]] as [[b/_browning|browning]]**
+- **To [[p/_pyrolyze|pyrolyze]] or [[b/_burn|burn]] [[f/_food|food]] until the [[c/_color|color]] [[b/_begins|begins]] to [[c/_change|change]] to a [[l/_light|light]] [[b/_brown|brown]], but not as [[d/_dark|dark]] as [[b/_browning|browning]]**
 ---
 #adjective
 - **[[m/_made|Made]] of [[g/_gold|gold]].**
 - **[[h/_having|Having]] the [[c/_colour|colour]] of [[g/_gold|gold]].**
-- **(of [[c/_commercial|commercial]] services) Premium, superior.**
+- **(of [[c/_commercial|commercial]] services) [[p/_premium|Premium]], superior.**
 ---
 ### Synonyms
 - [[g/_golden|golden]]

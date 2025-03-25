@@ -1,6 +1,6 @@
 # Campimetry
 ---
 #noun
-- **Perimetry**
+- **[[p/_perimetry|Perimetry]]**
 ---
 ---

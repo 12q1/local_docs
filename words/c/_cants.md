@@ -1,7 +1,7 @@
 # Cants
 ---
 #noun
-- **An [[a/_argot|argot]], the [[j/_jargon|jargon]] of a particular [[c/_class|class]] or subgroup.**
+- **An [[a/_argot|argot]], the [[j/_jargon|jargon]] of a [[p/_particular|particular]] [[c/_class|class]] or subgroup.**
 	- _Example: He had the look of a prince, but the cant of a fishmonger._
 - **A private or secret [[l/_language|language]] used by a religious sect, [[g/_gang|gang]], or [[o/_other|other]] [[g/_group|group]].**
 - **A [[l/_language|language]] spoken by some [[i/_irish|Irish]] Travellers; Shelta.**
@@ -15,8 +15,8 @@
 - [[a/_argot|argot]], [[j/_jargon|jargon]], [[s/_slang|slang]], [[a/_argot|argot]], [[j/_jargon|jargon]], [[s/_slang|slang]]
 #verb
 - **To speak with the [[j/_jargon|jargon]] of a [[c/_class|class]] or subgroup.**
-- **To speak in set phrases.**
-- **To preach in a singsong [[f/_fashion|fashion]], [[e/_especially|especially]] in a [[f/_false|false]] or [[e/_empty|empty]] [[m/_manner|manner]].**
+- **To speak in set [[p/_phrases|phrases]].**
+- **To [[p/_preach|preach]] in a singsong [[f/_fashion|fashion]], [[e/_especially|especially]] in a [[f/_false|false]] or [[e/_empty|empty]] [[m/_manner|manner]].**
 - **Of a [[b/_blazon|blazon]], to [[m/_make|make]] a pun that references the [[b/_bearer|bearer]] of a [[c/_coat|coat]] of [[a/_arms|arms]].**
 - **To sell by [[a/_auction|auction]], or [[b/_bid|bid]] at an [[a/_auction|auction]].**
 ---
@@ -30,9 +30,9 @@
 - **A [[m/_movement|movement]] or throw that [[o/_overturns|overturns]] something.**
 - **A sudden thrust, push, [[k/_kick|kick]], or [[o/_other|other]] [[i/_impulse|impulse]], producing a [[b/_bias|bias]] or [[c/_change|change]] of [[d/_direction|direction]]; [[a/_also|also]], the [[b/_bias|bias]] or turn so [[g/_given|given]].**
 	- _Example: to give a ball a cant_
-- **([[c/_coopering|coopering]]) A segment [[f/_forming|forming]] a side piece in the [[h/_head|head]] of a [[c/_cask|cask]].**
+- **([[c/_coopering|coopering]]) A segment [[f/_forming|forming]] a side [[p/_piece|piece]] in the [[h/_head|head]] of a [[c/_cask|cask]].**
 - **A segment of the rim of a wooden [[c/_cogwheel|cogwheel]].**
-- **A piece of wood [[l/_laid|laid]] upon the [[d/_deck|deck]] of a vessel to support the [[b/_bulkheads|bulkheads]].**
+- **A [[p/_piece|piece]] of wood [[l/_laid|laid]] upon the [[d/_deck|deck]] of a vessel to support the [[b/_bulkheads|bulkheads]].**
 ---
 ### Synonyms
 - [[b/_bevel|bevel]], [[s/_slope|slope]], [[t/_tilt|tilt]], [[c/_corner|corner]]
@@ -45,9 +45,9 @@
 - **To [[o/_overturn|overturn]] so that the [[c/_contents|contents]] are [[e/_emptied|emptied]].**
 ---
 #noun
-- **A parcel, a [[d/_division|division]].**
+- **A [[p/_parcel|parcel]], a [[d/_division|division]].**
 ---
 #verb
-- **To [[d/_divide|divide]] or parcel [[o/_out|out]].**
+- **To [[d/_divide|divide]] or [[p/_parcel|parcel]] [[o/_out|out]].**
 ---
 ---

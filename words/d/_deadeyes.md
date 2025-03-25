@@ -1,8 +1,8 @@
 # Deadeyes
 ---
 #noun
-- **A wooden [[d/_disk|disk]] [[h/_having|having]] [[h/_holes|holes]] through which the [[l/_lanyard|lanyard]] is passed, used for tightening shrouds.**
+- **A wooden [[d/_disk|disk]] [[h/_having|having]] [[h/_holes|holes]] through which the [[l/_lanyard|lanyard]] is [[p/_passed|passed]], used for tightening shrouds.**
 - **A very [[a/_accurate|accurate]] [[m/_marksman|marksman]].**
-- **A penchant for [[n/_noticing|noticing]] a particular thing, or a person who [[h/_has|has]] such a penchant.**
+- **A [[p/_penchant|penchant]] for [[n/_noticing|noticing]] a [[p/_particular|particular]] thing, or a [[p/_person|person]] who [[h/_has|has]] such a [[p/_penchant|penchant]].**
 ---
 ---

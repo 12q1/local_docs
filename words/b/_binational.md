@@ -1,7 +1,7 @@
 # Binational
 ---
 #noun
-- **A person of two [[n/_nationalities|nationalities]].**
+- **A [[p/_person|person]] of two [[n/_nationalities|nationalities]].**
 ---
 #adjective
 - **Relating to, or [[i/_involving|involving]], two [[n/_nations|nations]].**

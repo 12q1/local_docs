@@ -1,9 +1,9 @@
 # Malapropos
 ---
 #adjective
-- **[[o/_out|Out]] of place; [[i/_inappropriate|inappropriate]]**
+- **[[o/_out|Out]] of [[p/_place|place]]; [[i/_inappropriate|inappropriate]]**
 ---
 #adverb
-- **[[o/_out|Out]] of place; [[i/_inappropriately|inappropriately]]**
+- **[[o/_out|Out]] of [[p/_place|place]]; [[i/_inappropriately|inappropriately]]**
 ---
 ---

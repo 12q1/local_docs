@@ -1,6 +1,6 @@
 # Aralia
 ---
 #noun
-- **Spikenard and [[a/_any|any]] of [[m/_many|many]] related [[o/_ornamental|ornamental]] and [[f/_food|food]] plants, of the [[g/_genus|genus]] [[a/_aralia|Aralia]], from [[a/_asia|Asia]] and the [[a/_americas|Americas]]**
+- **Spikenard and [[a/_any|any]] of [[m/_many|many]] related [[o/_ornamental|ornamental]] and [[f/_food|food]] [[p/_plants|plants]], of the [[g/_genus|genus]] [[a/_aralia|Aralia]], from [[a/_asia|Asia]] and the [[a/_americas|Americas]]**
 ---
 ---

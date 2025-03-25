@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[l/_life|Life]] at [[h/_home|home]] with [[o/_one|one]]'s [[f/_family|family]].**
-- **(plural) [[d/_domestic|Domestic]] [[c/_chores|chores]]; [[h/_housework|housework]].**
+- **([[p/_plural|plural]]) [[d/_domestic|Domestic]] [[c/_chores|chores]]; [[h/_housework|housework]].**
 - **[[a/_affection|Affection]] for the [[h/_home|home]] and [[i/_its|its]] [[m/_material|material]] [[c/_comforts|comforts]].**
 ---
 ### Synonyms

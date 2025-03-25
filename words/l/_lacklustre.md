@@ -1,8 +1,8 @@
 # Lacklustre
 ---
 #noun
-- **[[l/_lack|Lack]] of [[b/_brightness|brightness]] or points of [[i/_interest|interest]].**
-- **A person or thing of [[n/_no|no]] particular [[b/_brilliance|brilliance]] or [[i/_intelligence|intelligence]].**
+- **[[l/_lack|Lack]] of [[b/_brightness|brightness]] or [[p/_points|points]] of [[i/_interest|interest]].**
+- **A [[p/_person|person]] or thing of [[n/_no|no]] [[p/_particular|particular]] [[b/_brilliance|brilliance]] or [[i/_intelligence|intelligence]].**
 ---
 #adjective
 - **[[l/_lacking|Lacking]] [[b/_brilliance|brilliance]] or [[i/_intelligence|intelligence]].**

@@ -6,7 +6,7 @@
 - **The [[e/_eggs|eggs]] and [[l/_larvae|larvae]] of social [[i/_insects|insects]] such as [[b/_bees|bees]], [[a/_ants|ants]] and some wasps, [[e/_especially|especially]] when [[g/_gathered|gathered]] together in special [[b/_brood|brood]] [[c/_chambers|chambers]] or [[c/_combs|combs]] within the [[c/_colony|colony]].**
 - **The [[c/_children|children]] in [[o/_one|one]] [[f/_family|family]]; [[o/_offspring|offspring]].**
 - **That which is [[b/_bred|bred]] or produced; [[b/_breed|breed]]; species.**
-- **Parentage.**
+- **[[p/_parentage|Parentage]].**
 - **[[h/_heavy|Heavy]] waste in tin and [[c/_copper|copper]] [[o/_ores|ores]].**
 ---
 #verb

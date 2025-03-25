@@ -1,7 +1,7 @@
 # Impious
 ---
 #adjective
-- **Not pious.**
+- **Not [[p/_pious|pious]].**
 - **[[l/_lacking|Lacking]] reverence or respect, [[e/_especially|especially]] towards [[g/_god|God]] or a [[g/_god|god]].**
 ---
 ### Synonyms

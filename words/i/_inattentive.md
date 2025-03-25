@@ -1,7 +1,7 @@
 # Inattentive
 ---
 #adjective
-- **Of or pertaining to [[l/_lack|lack]] of [[a/_attention|attention]]; not [[p/_paying|paying]] [[a/_attention|attention]]; [[c/_careless|careless]].**
+- **Of or [[p/_pertaining|pertaining]] to [[l/_lack|lack]] of [[a/_attention|attention]]; not [[p/_paying|paying]] [[a/_attention|attention]]; [[c/_careless|careless]].**
 	- _Example: He was inattentive in class and did not do well in his exams._
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Linky
 ---
 #adjective
-- **Of or pertaining to hyperlinks.**
+- **Of or [[p/_pertaining|pertaining]] to hyperlinks.**
 ---
 ---

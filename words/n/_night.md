@@ -1,13 +1,13 @@
 # Night
 ---
 #noun
-- **The period [[b/_between|between]] sunset and sunrise, when a [[l/_location|location]] [[f/_faces|faces]] [[f/_far|far]] [[a/_away|away]] from the sun, thus when the sky is [[d/_dark|dark]].**
+- **The [[p/_period|period]] [[b/_between|between]] sunset and sunrise, when a [[l/_location|location]] [[f/_faces|faces]] [[f/_far|far]] [[a/_away|away]] from the sun, thus when the sky is [[d/_dark|dark]].**
 	- _Example: How do you sleep at night when you attack your kids like that!?_
-- **([[a/_astronomy|Astronomy]]) The period of [[d/_darkness|darkness]] [[b/_beginning|beginning]] at the [[e/_end|end]] of [[e/_evening|evening]] [[a/_astronomical|astronomical]] twilight when the sun is 18 [[d/_degrees|degrees]] [[b/_below|below]] the [[h/_horizon|horizon]], and [[e/_ending|ending]] at the [[b/_beginning|beginning]] of [[m/_morning|morning]] [[a/_astronomical|astronomical]] twilight.**
+- **([[a/_astronomy|Astronomy]]) The [[p/_period|period]] of [[d/_darkness|darkness]] [[b/_beginning|beginning]] at the [[e/_end|end]] of [[e/_evening|evening]] [[a/_astronomical|astronomical]] twilight when the sun is 18 [[d/_degrees|degrees]] [[b/_below|below]] the [[h/_horizon|horizon]], and [[e/_ending|ending]] at the [[b/_beginning|beginning]] of [[m/_morning|morning]] [[a/_astronomical|astronomical]] twilight.**
 - **([[l/_legal|Legal]]) [[o/_often|Often]] [[d/_defined|defined]] in the [[l/_legal|legal]] system as [[b/_beginning|beginning]] 30 [[m/_minutes|minutes]] [[a/_after|after]] sunset, and [[e/_ending|ending]] 30 [[m/_minutes|minutes]] [[b/_before|before]] sunrise.**
-- **An [[e/_evening|evening]] or [[n/_night|night]] spent at a particular [[a/_activity|activity]].**
+- **An [[e/_evening|evening]] or [[n/_night|night]] spent at a [[p/_particular|particular]] [[a/_activity|activity]].**
 	- _Example: a night on the town_
-- **A [[n/_night|night]] (and part of the [[d/_days|days]] [[b/_before|before]] and [[a/_after|after]] it) spent in a place [[a/_away|away]] from [[h/_home|home]], [[e/_e|e]].[[g/_g|g]]. a [[h/_hotel|hotel]].**
+- **A [[n/_night|night]] (and [[p/_part|part]] of the [[d/_days|days]] [[b/_before|before]] and [[a/_after|after]] it) spent in a [[p/_place|place]] [[a/_away|away]] from [[h/_home|home]], [[e/_e|e]].[[g/_g|g]]. a [[h/_hotel|hotel]].**
 	- _Example: I stayed my friend's house for three nights._
 - **[[n/_nightfall|Nightfall]].**
 	- _Example: from noon till night_
@@ -21,7 +21,7 @@
 ### Antonyms
 - [[b/_brightness|brightness]], [[d/_daylight|daylight]], [[l/_light|light]], [[d/_day|day]]
 #verb
-- **To spend a [[n/_night|night]] (in a place), to [[o/_overnight|overnight]].**
+- **To spend a [[n/_night|night]] (in a [[p/_place|place]]), to [[o/_overnight|overnight]].**
 ---
 #interjection
 - **[[e/_ellipsis|Ellipsis]] of [[g/_good|good]] [[n/_night|night]]**

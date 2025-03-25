@@ -11,7 +11,7 @@
 - **Tending to [[l/_lead|lead]] to or regulate the [[d/_development|development]] of sexual [[c/_characteristics|characteristics]] typical of this sex.**
 	- _Example: the female chromosome;   estrogen, the primary female sex hormone, is produced by both females and males_
 - **([[g/_grammar|grammar]], [[l/_less|less]] [[c/_common|common]] than '[[f/_feminine|feminine]]') [[f/_feminine|Feminine]]; of the [[f/_feminine|feminine]] [[g/_grammatical|grammatical]] [[g/_gender|gender]].**
-- **[[h/_having|Having]] an [[i/_internal|internal]] socket, as in a [[c/_connector|connector]] or pipe [[f/_fitting|fitting]].**
+- **[[h/_having|Having]] an [[i/_internal|internal]] socket, as in a [[c/_connector|connector]] or [[p/_pipe|pipe]] [[f/_fitting|fitting]].**
 ---
 ### Synonyms
 - [[s/_socket|socket]], [[f/_feminine|feminine]], [[w/_womanly|womanly]]

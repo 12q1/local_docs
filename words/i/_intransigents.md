@@ -1,6 +1,6 @@
 # Intransigents
 ---
 #noun
-- **A person who is [[i/_intransigent|intransigent]].**
+- **A [[p/_person|person]] who is [[i/_intransigent|intransigent]].**
 ---
 ---

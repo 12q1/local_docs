@@ -8,15 +8,15 @@
 - **[[o/_one|One]] who [[h/_hinders|hinders]] or stops something.**
 ---
 #noun
-- **A playing piece in the [[g/_game|game]] of [[c/_checkers|checkers]] ([[b/_british|British]]: [[d/_draughts|draughts]]).**
-- **A pattern of [[a/_alternating|alternating]] [[c/_colours|colours]] as on a [[c/_chessboard|chessboard]].**
+- **A [[p/_playing|playing]] [[p/_piece|piece]] in the [[g/_game|game]] of [[c/_checkers|checkers]] ([[b/_british|British]]: [[d/_draughts|draughts]]).**
+- **A [[p/_pattern|pattern]] of [[a/_alternating|alternating]] [[c/_colours|colours]] as on a [[c/_chessboard|chessboard]].**
 ---
 #verb
-- **To [[m/_mark|mark]] in a pattern of [[a/_alternating|alternating]] [[l/_light|light]] and [[d/_dark|dark]] positions, [[l/_like|like]] a [[c/_checkerboard|checkerboard]].**
-- **To [[d/_develop|develop]] [[m/_markings|markings]] in a pattern of [[a/_alternating|alternating]] [[l/_light|light]] and [[d/_dark|dark]] positions, [[l/_like|like]] a [[c/_checkerboard|checkerboard]].**
+- **To [[m/_mark|mark]] in a [[p/_pattern|pattern]] of [[a/_alternating|alternating]] [[l/_light|light]] and [[d/_dark|dark]] [[p/_positions|positions]], [[l/_like|like]] a [[c/_checkerboard|checkerboard]].**
+- **To [[d/_develop|develop]] [[m/_markings|markings]] in a [[p/_pattern|pattern]] of [[a/_alternating|alternating]] [[l/_light|light]] and [[d/_dark|dark]] [[p/_positions|positions]], [[l/_like|like]] a [[c/_checkerboard|checkerboard]].**
 ---
 #noun
-- **The [[f/_fruit|fruit]] of the wild service tree or [[c/_chequer|chequer]] tree, Photinia villosa, syn. Sorbus terminalis**
+- **The [[f/_fruit|fruit]] of the wild service tree or [[c/_chequer|chequer]] tree, [[p/_photinia|Photinia]] villosa, syn. Sorbus terminalis**
 ---
 #noun
 - **The [[e/_edible|edible]] [[f/_fruit|fruit]] of the wild service tree, Sorbus torminalis.**

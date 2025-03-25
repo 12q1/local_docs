@@ -9,7 +9,7 @@
 	- _Example: Petri net_
 - **(by [[e/_extension|extension]]) A trap.**
 	- _Example: caught in the prosecuting attorney's net_
-- **Of a polyhedron, [[a/_any|any]] set of polygons [[j/_joined|joined]] [[e/_edge|edge]] to [[e/_edge|edge]] that, when [[f/_folded|folded]] [[a/_along|along]] the [[e/_edges|edges]] [[b/_between|between]] [[a/_adjoining|adjoining]] polygons so that the [[o/_outer|outer]] [[e/_edges|edges]] touch, [[f/_form|form]] the polyhedron.**
+- **Of a [[p/_polyhedron|polyhedron]], [[a/_any|any]] set of [[p/_polygons|polygons]] [[j/_joined|joined]] [[e/_edge|edge]] to [[e/_edge|edge]] that, when [[f/_folded|folded]] [[a/_along|along]] the [[e/_edges|edges]] [[b/_between|between]] [[a/_adjoining|adjoining]] [[p/_polygons|polygons]] so that the [[o/_outer|outer]] [[e/_edges|edges]] touch, [[f/_form|form]] the [[p/_polyhedron|polyhedron]].**
 - **A system that [[i/_interconnects|interconnects]] a [[n/_number|number]] of users, [[l/_locations|locations]] [[e/_etc|etc]]. [[a/_allowing|allowing]] transport or [[c/_communication|communication]] [[b/_between|between]] them.**
 	- _Example: a computer network; a road network; an electricity distribution network_
 - **A [[f/_framework|framework]] [[b/_backed|backed]] by a [[m/_mesh|mesh]], serving as the [[g/_goal|goal]] in [[h/_hockey|hockey]], soccer, [[l/_lacrosse|lacrosse]], [[e/_etc|etc]].**
@@ -39,7 +39,7 @@
 	- _Example: The company nets $30 on every sale._
 - **To [[y/_yield|yield]] as profit for.**
 	- _Example: The scam netted the criminals $30,000._
-- **To [[f/_fully|fully]] [[h/_hedge|hedge]] a position.**
+- **To [[f/_fully|fully]] [[h/_hedge|hedge]] a [[p/_position|position]].**
 	- _Example: Every party is netting their position with a counter-party_
 ---
 ---

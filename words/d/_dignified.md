@@ -1,7 +1,7 @@
 # Dignified
 ---
 #adjective
-- **[[h/_having|Having]] an [[a/_attitude|attitude]] or [[b/_bearing|bearing]] that [[c/_connotes|connotes]] respectability and poise.**
+- **[[h/_having|Having]] an [[a/_attitude|attitude]] or [[b/_bearing|bearing]] that [[c/_connotes|connotes]] respectability and [[p/_poise|poise]].**
 ---
 #verb
 - **To [[i/_invest|invest]] with [[d/_dignity|dignity]] or [[h/_honour|honour]].**

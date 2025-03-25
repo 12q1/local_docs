@@ -2,7 +2,7 @@
 ---
 #noun
 - **Something which is [[l/_limp|limp]] or sagging**
-- **A [[c/_condition|condition]] or posture of [[d/_drooping|drooping]]**
+- **A [[c/_condition|condition]] or [[p/_posture|posture]] of [[d/_drooping|drooping]]**
 	- _Example: He walked with a discouraged droop._
 ---
 #verb

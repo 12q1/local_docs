@@ -1,6 +1,6 @@
 # Electroscope
 ---
 #noun
-- **A simple [[d/_device|device]] that [[d/_detects|detects]] the presence of an [[e/_electric|electric]] [[c/_charge|charge]] by the [[m/_mutual|mutual]] repulsion of [[m/_metal|metal]] [[f/_foils|foils]] or pith [[b/_balls|balls]]**
+- **A simple [[d/_device|device]] that [[d/_detects|detects]] the [[p/_presence|presence]] of an [[e/_electric|electric]] [[c/_charge|charge]] by the [[m/_mutual|mutual]] repulsion of [[m/_metal|metal]] [[f/_foils|foils]] or [[p/_pith|pith]] [[b/_balls|balls]]**
 ---
 ---

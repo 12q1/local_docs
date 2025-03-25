@@ -1,7 +1,7 @@
 # Fore
 ---
 #noun
-- **The [[f/_front|front]]; the [[f/_forward|forward]] part of something; the [[f/_foreground|foreground]].**
+- **The [[f/_front|front]]; the [[f/_forward|forward]] [[p/_part|part]] of something; the [[f/_foreground|foreground]].**
 	- _Example: The fore was painted white._
 ---
 #adjective
@@ -13,11 +13,11 @@
 ### Antonyms
 - [[a/_aft|aft]], [[l/_latter|latter]]
 #adverb
-- **In the part that precedes or [[g/_goes|goes]] [[f/_first|first]]; [[o/_opposed|opposed]] to [[a/_aft|aft]], [[a/_after|after]], [[b/_back|back]], [[b/_behind|behind]], [[e/_etc|etc]].**
+- **In the [[p/_part|part]] that [[p/_precedes|precedes]] or [[g/_goes|goes]] [[f/_first|first]]; [[o/_opposed|opposed]] to [[a/_aft|aft]], [[a/_after|after]], [[b/_back|back]], [[b/_behind|behind]], [[e/_etc|etc]].**
 - **[[f/_formerly|Formerly]]; previously; [[a/_afore|afore]].**
 - **In or towards the [[b/_bows|bows]] of a ship.**
 ---
 #interjection
-- **An [[e/_exclamation|exclamation]] [[y/_yelled|yelled]] to [[i/_inform|inform]] players a [[b/_ball|ball]] is [[m/_moving|moving]] in their [[d/_direction|direction]].**
+- **An [[e/_exclamation|exclamation]] [[y/_yelled|yelled]] to [[i/_inform|inform]] [[p/_players|players]] a [[b/_ball|ball]] is [[m/_moving|moving]] in their [[d/_direction|direction]].**
 ---
 ---

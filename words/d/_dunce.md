@@ -1,7 +1,7 @@
 # Dunce
 ---
 #noun
-- **An unintelligent person.**
+- **An unintelligent [[p/_person|person]].**
 ---
 ### Synonyms
 - [[i/_idiot|idiot]]

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A thing that is not [[d/_dispensable|dispensable]]; a [[n/_necessity|necessity]].**
-- **(in the plural) Trousers.**
+- **(in the [[p/_plural|plural]]) Trousers.**
 ---
 #adjective
 - **Not [[a/_admitting|admitting]] [[e/_ecclesiastical|ecclesiastical]] [[d/_dispensation|dispensation]]; not subject to release or [[e/_exemption|exemption]]; that [[c/_cannot|cannot]] be [[a/_allowed|allowed]] by [[b/_bending|bending]] the [[c/_canonical|canonical]] rules.**

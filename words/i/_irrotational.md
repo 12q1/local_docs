@@ -1,6 +1,6 @@
 # Irrotational
 ---
 #adjective
-- **Not rotating or not pertaining to rotation.**
+- **Not rotating or not [[p/_pertaining|pertaining]] to rotation.**
 ---
 ---

@@ -7,7 +7,7 @@
 ---
 #verb
 - **To [[f/_ferment|ferment]].**
-- **(of something prepared with a [[y/_yeasted|yeasted]] [[d/_dough|dough]]) To rise.**
+- **(of something [[p/_prepared|prepared]] with a [[y/_yeasted|yeasted]] [[d/_dough|dough]]) To rise.**
 - **To [[e/_exaggerate|exaggerate]]**
 ---
 ---

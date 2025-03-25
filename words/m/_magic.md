@@ -5,8 +5,8 @@
 - **A specific ritual or procedure [[a/_associated|associated]] with such [[m/_magic|magic]]; a spell.**
 - **The supernatural [[f/_forces|forces]] which are [[d/_drawn|drawn]] on in such a ritual**
 - **Something producing successful and remarkable results, [[e/_especially|especially]] when not [[f/_fully|fully]] understood; an [[e/_enchanting|enchanting]] quality; [[e/_exceptional|exceptional]] skill.**
-- **A [[c/_conjuring|conjuring]] trick or [[i/_illusion|illusion]] performed to [[g/_give|give]] the [[a/_appearance|appearance]] of supernatural phenomena or powers.**
-- **The [[a/_art|art]] or practice of performing [[c/_conjuring|conjuring]] tricks and [[i/_illusions|illusions]].**
+- **A [[c/_conjuring|conjuring]] trick or [[i/_illusion|illusion]] [[p/_performed|performed]] to [[g/_give|give]] the [[a/_appearance|appearance]] of supernatural [[p/_phenomena|phenomena]] or [[p/_powers|powers]].**
+- **The [[a/_art|art]] or [[p/_practice|practice]] of [[p/_performing|performing]] [[c/_conjuring|conjuring]] tricks and [[i/_illusions|illusions]].**
 - **[[c/_complicated|Complicated]] or [[e/_esoteric|esoteric]] [[c/_code|code]] that is not [[e/_expected|expected]] to be [[g/_generally|generally]] understood.**
 ---
 ### Synonyms
@@ -20,11 +20,11 @@
 - **[[h/_having|Having]] supernatural talents, properties or qualities [[a/_attributed|attributed]] to [[m/_magic|magic]].**
 - **Producing [[e/_extraordinary|extraordinary]] results, as though through the use of [[m/_magic|magic]]; wonderful, [[a/_amazing|amazing]].**
 	- _Example: a magic moment_
-- **Pertaining to [[c/_conjuring|conjuring]] tricks or [[i/_illusions|illusions]] performed for [[e/_entertainment|entertainment]] [[e/_etc|etc]].**
+- **[[p/_pertaining|Pertaining]] to [[c/_conjuring|conjuring]] tricks or [[i/_illusions|illusions]] [[p/_performed|performed]] for [[e/_entertainment|entertainment]] [[e/_etc|etc]].**
 	- _Example: a magic show; a magic trick_
 - **[[g/_great|Great]]; [[e/_excellent|excellent]].**
 	- _Example: — I cleaned up the flat while you were out. — Really? Magic!_
-- **[[d/_describing|Describing]] the [[n/_number|number]] of [[n/_nucleons|nucleons]] in a particularly stable [[i/_isotopic|isotopic]] [[n/_nucleus|nucleus]]; 2, 8, 20, 28, 50, 82, 126, and 184.**
+- **[[d/_describing|Describing]] the [[n/_number|number]] of [[n/_nucleons|nucleons]] in a [[p/_particularly|particularly]] stable [[i/_isotopic|isotopic]] [[n/_nucleus|nucleus]]; 2, 8, 20, 28, 50, 82, 126, and 184.**
 - **[[b/_being|Being]] a [[l/_literal|literal]] [[n/_number|number]] or string value with [[n/_no|no]] [[m/_meaning|meaning]] or [[c/_context|context]], not [[d/_defined|defined]] as a [[c/_constant|constant]] or variable**
 	- _Example: The code is full of magic numbers and we can't figure out what they mean._
 ---

@@ -1,12 +1,12 @@
 # Disks
 ---
 #noun
-- **A thin, [[f/_flat|flat]], [[c/_circular|circular]] plate or similar [[o/_object|object]].**
+- **A thin, [[f/_flat|flat]], [[c/_circular|circular]] [[p/_plate|plate]] or similar [[o/_object|object]].**
 	- _Example: A coin is a disk of metal._
 - **Something resembling a [[d/_disk|disk]].**
 	- _Example: Venus' disk cut off light from the Sun._
 - **An [[i/_intervertebral|intervertebral]] [[d/_disc|disc]]**
-- **A vinyl phonograph/[[g/_gramophone|gramophone]] record.**
+- **A vinyl [[p/_phonograph|phonograph]]/[[g/_gramophone|gramophone]] record.**
 	- _Example: Turn the disk over, after it has finished._
 - **A [[d/_disc|disc]] - [[e/_either|either]] a [[c/_cd|CD]]-ROM, an [[a/_audio|audio]] [[c/_cd|CD]], a DVD or similar removable storage [[m/_medium|medium]].**
 	- _Example: She burned some disks yesterday to back up her computer._

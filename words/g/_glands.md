@@ -5,6 +5,6 @@
 - **A secretory structure on the surface of an [[o/_organ|organ]].**
 ---
 #noun
-- **A compressable [[c/_cylindrical|cylindrical]] [[c/_case|case]] and [[i/_its|its]] [[c/_contents|contents]] [[a/_around|around]] a shaft where it passes through a [[b/_barrier|barrier]], [[i/_intended|intended]] to prevent the passage of a [[f/_fluid|fluid]] past the [[b/_barrier|barrier]], such as:**
+- **A compressable [[c/_cylindrical|cylindrical]] [[c/_case|case]] and [[i/_its|its]] [[c/_contents|contents]] [[a/_around|around]] a shaft where it [[p/_passes|passes]] through a [[b/_barrier|barrier]], [[i/_intended|intended]] to prevent the [[p/_passage|passage]] of a [[f/_fluid|fluid]] [[p/_past|past]] the [[b/_barrier|barrier]], such as:**
 ---
 ---

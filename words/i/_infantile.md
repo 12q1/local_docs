@@ -1,7 +1,7 @@
 # Infantile
 ---
 #adjective
-- **Pertaining to [[i/_infants|infants]].**
+- **[[p/_pertaining|Pertaining]] to [[i/_infants|infants]].**
 	- _Example: infantile paralysis_
 - **[[c/_childish|Childish]]; [[i/_immature|immature]].**
 ---

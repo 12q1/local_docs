@@ -6,7 +6,7 @@
 - **Used to [[i/_indicate|indicate]] that a statement [[e/_explains|explains]] or supports a previous statement. See [[a/_anyhow|anyhow]] and at [[l/_least|least]].**
 	- _Example: I don't think that's true. I haven't found any evidence, anyway._
 - **Used to [[i/_indicate|indicate]] a [[c/_change|change]] of subject.**
-- **Used at the [[e/_end|end]] of a question for [[e/_emphasis|emphasis]], or to [[d/_direct|direct]] the [[c/_conversation|conversation]] to something of [[m/_more|more]] [[b/_broad|broad]] [[i/_importance|importance]] ([[c/_compare|compare]] with [[m/_more|more]] to the point).**
+- **Used at the [[e/_end|end]] of a question for [[e/_emphasis|emphasis]], or to [[d/_direct|direct]] the [[c/_conversation|conversation]] to something of [[m/_more|more]] [[b/_broad|broad]] [[i/_importance|importance]] ([[c/_compare|compare]] with [[m/_more|more]] to the [[p/_point|point]]).**
 - **In [[a/_any|any]] way.**
 ---
 ### Synonyms

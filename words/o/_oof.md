@@ -4,10 +4,10 @@
 - **A sound [[m/_made|made]] in [[p/_pain|pain]], as when [[e/_expelling|expelling]] [[a/_air|air]] [[a/_after|after]] [[b/_being|being]] struck.**
 ---
 #interjection
-- **A sound [[m/_mimicking|mimicking]] the [[l/_loss|loss]] of [[a/_air|air]], as [[i/_if|if]] someone's solar plexus [[h/_had|had]] [[j/_just|just]] [[b/_been|been]] struck.**
+- **A sound [[m/_mimicking|mimicking]] the [[l/_loss|loss]] of [[a/_air|air]], as [[i/_if|if]] someone's solar [[p/_plexus|plexus]] [[h/_had|had]] [[j/_just|just]] [[b/_been|been]] struck.**
 ---
 #interjection
-- **An [[e/_expression|expression]] of [[o/_one|one]]'s [[o/_own|own]] physical [[p/_pain|pain]].**
+- **An [[e/_expression|expression]] of [[o/_one|one]]'s [[o/_own|own]] [[p/_physical|physical]] [[p/_pain|pain]].**
 	- _Example: Ouch! You stepped on my toe! That hurt!_
 - **An [[e/_expression|expression]] in sympathy at [[a/_another|another]]'s [[p/_pain|pain]].**
 	- _Example: Ouch! Her sunburn looks awful._

@@ -1,0 +1,50 @@
+# Pop
+---
+#noun
+- **A [[l/_loud|loud]], sharp sound as of a [[c/_cork|cork]] [[c/_coming|coming]] [[o/_out|out]] of a [[b/_bottle|bottle]].**
+	- _Example: Listen to the pop of a champagne cork._
+- **([[m/_midwest|Midwest]] US) An [[e/_effervescent|effervescent]] or [[f/_fizzy|fizzy]] [[d/_drink|drink]], [[m/_most|most]] [[f/_frequently|frequently]] [[n/_nonalcoholic|nonalcoholic]]; soda [[p/_pop|pop]].**
+	- _Example: Lunch was sandwiches and a bottle of pop._
+- **([[m/_midwest|Midwest]] US) A [[b/_bottle|bottle]], [[c/_can|can]], or serving of [[e/_effervescent|effervescent]] or [[f/_fizzy|fizzy]] [[d/_drink|drink]], [[m/_most|most]] [[f/_frequently|frequently]] [[n/_nonalcoholic|nonalcoholic]]; soda [[p/_pop|pop]].**
+	- _Example: Go in the store and buy us three pops._
+- **A [[p/_pop|pop]] shot: a quick, [[p/_possibly|possibly]] unaimed, shot with a [[f/_firearm|firearm]].**
+	- _Example: The man with the gun took a pop at the rabbit._
+- **(in the [[p/_phrase|phrase]] "a [[p/_pop|pop]]") A quantity [[d/_dispensed|dispensed]], a [[p/_portion|portion]], [[a/_apiece|apiece]].**
+	- _Example: They cost 50 pence a pop._
+- **Something that stands [[o/_out|out]] or is [[d/_distinctive|distinctive]], [[e/_especially|especially]] to the senses.**
+	- _Example: a pop of vanilla flavour_
+- **The removal of a [[d/_data|data]] [[i/_item|item]] from the top of a stack.**
+- **A [[b/_bird|bird]], the [[e/_european|European]] redwing.**
+- **The sixth [[d/_derivative|derivative]] of the [[p/_position|position]] vector with respect to time ([[a/_after|after]] velocity, [[a/_acceleration|acceleration]], [[j/_jerk|jerk]], [[j/_jounce|jounce]], [[c/_crackle|crackle]]), [[i/_i|i]].[[e/_e|e]]. the rate of [[c/_change|change]] of [[c/_crackle|crackle]].**
+- **A [[p/_pistol|pistol]].**
+---
+#verb
+- **To [[m/_make|make]] a [[p/_pop|pop]], or sharp, quick sound.**
+	- _Example: The muskets popped away on all sides._
+- **To [[b/_burst|burst]] (something) with a [[p/_popping|popping]] sound.**
+	- _Example: The boy with the pin popped the balloon._
+- **(with in, [[o/_out|out]], upon, [[e/_etc|etc]].) To [[e/_enter|enter]], or [[i/_issue|issue]] [[f/_forth|forth]], with a quick, sudden [[m/_movement|movement]]; to [[m/_move|move]] from [[p/_place|place]] to [[p/_place|place]] suddenly; to [[d/_dart|dart]].**
+	- _Example: A rabbit popped out of the hole._
+- **To [[p/_place|place]] (something) (somewhere); to [[m/_move|move]] or [[p/_position|position]] (something) with a short [[m/_movement|movement]].**
+	- _Example: He popped his head around the door._
+- **([[o/_often|often]] with [[o/_over|over]], round, [[a/_along|along]], [[e/_etc|etc]].) To [[m/_make|make]] a short trip or visit.**
+	- _Example: I'll pop by your place later today._
+- **To stand [[o/_out|out]]; to be [[d/_distinctive|distinctive]] to the senses.**
+	- _Example: This colour really pops._
+- **To [[h/_hit|hit]] (something or someone).**
+	- _Example: He popped me on the nose._
+- **To shoot (usually somebody) with a [[f/_firearm|firearm]].**
+- **To [[e/_ejaculate|ejaculate]].**
+- **To remove (a [[d/_data|data]] [[i/_item|item]]) from the top of a stack.**
+- **To remove a [[d/_data|data]] [[i/_item|item]] from the top of (a stack).**
+- **To [[p/_pawn|pawn]] (something) (to raise [[m/_money|money]]).**
+	- _Example: I had to pop my watch to see me through until pay-day._
+- **To swallow or [[c/_consume|consume]] ([[e/_especially|especially]] a tablet of a [[d/_drug|drug]], sometimes [[e/_extended|extended]] to [[o/_other|other]] small [[i/_items|items]] such as sweets or [[c/_candy|candy]]).**
+- **To [[p/_perform|perform]] (a [[m/_move|move]] or stunt) while riding a [[b/_board|board]] or vehicle.**
+- **(of the [[e/_ears|ears]]) To undergo [[e/_equalization|equalization]] of [[p/_pressure|pressure]] when the [[e/_eustachian|Eustachian]] tubes [[o/_open|open]].**
+	- _Example: My ears popped as the aeroplane began to ascend._
+---
+#interjection
+- **Used to represent a [[l/_loud|loud]], sharp sound, as of a [[c/_cork|cork]] [[c/_coming|coming]] [[o/_out|out]] of a [[b/_bottle|bottle]].**
+---
+---

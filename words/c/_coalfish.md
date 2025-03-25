@@ -1,6 +1,6 @@
 # Coalfish
 ---
 #noun
-- **[[a/_any|Any]] of several [[b/_blackish|blackish]] [[f/_fish|fish]], [[e/_especially|especially]] Pollachius virens, a pollack, and Anoplopoma [[f/_fimbria|fimbria]], sablefish.**
+- **[[a/_any|Any]] of several [[b/_blackish|blackish]] [[f/_fish|fish]], [[e/_especially|especially]] Pollachius virens, a [[p/_pollack|pollack]], and Anoplopoma [[f/_fimbria|fimbria]], sablefish.**
 ---
 ---

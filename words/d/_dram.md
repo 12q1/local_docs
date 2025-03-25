@@ -8,13 +8,13 @@
 ---
 #noun
 - **A small unit of weight, variously:**
-- **[[a/_any|Any]] similarly [[m/_minute|minute]] quantity, a small [[a/_amount|amount]] of strong [[a/_alcohol|alcohol]] or poison.**
+- **[[a/_any|Any]] similarly [[m/_minute|minute]] quantity, a small [[a/_amount|amount]] of strong [[a/_alcohol|alcohol]] or [[p/_poison|poison]].**
 	- _Example: a dram of brandy_
 - **A [[c/_cart|cart]] [[f/_formerly|formerly]] used to [[h/_haul|haul]] [[c/_coal|coal]] in [[c/_coal|coal]] [[m/_mines|mines]].**
 ---
 #verb
 - **To [[d/_drink|drink]] [[d/_drams|drams]].**
-- **To ply with [[d/_drams|drams]] of [[d/_drink|drink]].**
+- **To [[p/_ply|ply]] with [[d/_drams|drams]] of [[d/_drink|drink]].**
 ---
 ### Synonyms
 - [[n/_nip|nip]], [[s/_shot|shot]], [[s/_slug|slug]], [[s/_snifter|snifter]], [[t/_tot|tot]], [[b/_bit|bit]], [[m/_mite|mite]], [[p/_pinch|pinch]], [[s/_smidge|smidge]], [[s/_smidgeon|smidgeon]]

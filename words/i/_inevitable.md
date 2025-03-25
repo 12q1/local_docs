@@ -1,14 +1,14 @@
 # Inevitable
 ---
 #noun
-- **Something that is predictable, [[n/_necessary|necessary]], or [[c/_cannot|cannot]] be [[a/_avoided|avoided]].**
+- **Something that is [[p/_predictable|predictable]], [[n/_necessary|necessary]], or [[c/_cannot|cannot]] be [[a/_avoided|avoided]].**
 ---
 ### Antonyms
 - [[e/_evitable|evitable]], [[i/_impossible|impossible]]
 #adjective
 - **[[i/_impossible|Impossible]] to [[a/_avoid|avoid]] or prevent.**
 	- _Example: We were going so fast that the collision was inevitable._
-- **Predictable, or [[a/_always|always]] [[h/_happening|happening]].**
+- **[[p/_predictable|Predictable]], or [[a/_always|always]] [[h/_happening|happening]].**
 	- _Example: My outburst met with the inevitable punishment._
 ---
 ### Synonyms

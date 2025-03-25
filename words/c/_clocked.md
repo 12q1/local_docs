@@ -24,7 +24,7 @@
 ---
 #adjective
 - **[[e/_embroidered|Embroidered]] with [[c/_clocks|clocks]].**
-- **[[e/_electronically|Electronically]] running at a particular rate; [[g/_governed|governed]] by a repetitive time signal.**
+- **[[e/_electronically|Electronically]] running at a [[p/_particular|particular]] rate; [[g/_governed|governed]] by a repetitive time signal.**
 - **Of a [[m/_motor|motor]] vehicle: [[h/_having|having]] [[h/_had|had]] [[i/_its|its]] [[o/_odometer|odometer]] turned [[b/_back|back]] so as to [[d/_display|display]] a [[l/_lower|lower]] [[m/_mileage|mileage]].**
 ---
 ---

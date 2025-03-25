@@ -1,8 +1,8 @@
 # Nark
 ---
 #noun
-- **A police spy or [[i/_informer|informer]].**
-- **An unpleasant person, [[e/_especially|especially]] [[o/_one|one]] who [[m/_makes|makes]] things [[d/_difficult|difficult]] for [[o/_others|others]].**
+- **A [[p/_police|police]] spy or [[i/_informer|informer]].**
+- **An unpleasant [[p/_person|person]], [[e/_especially|especially]] [[o/_one|one]] who [[m/_makes|makes]] things [[d/_difficult|difficult]] for [[o/_others|others]].**
 ---
 ### Synonyms
 - [[s/_spoilsport|spoilsport]]

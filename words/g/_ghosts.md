@@ -2,7 +2,7 @@
 ---
 #noun
 - **The spirit; the soul of [[m/_man|man]].**
-- **The [[d/_disembodied|disembodied]] soul; the soul or spirit of a [[d/_deceased|deceased]] person; a spirit [[a/_appearing|appearing]] [[a/_after|after]] [[d/_death|death]]**
+- **The [[d/_disembodied|disembodied]] soul; the soul or spirit of a [[d/_deceased|deceased]] [[p/_person|person]]; a spirit [[a/_appearing|appearing]] [[a/_after|after]] [[d/_death|death]]**
 	- _Example: Everyone believed that the ghost of an old lady haunted the crypt._
 - **[[a/_any|Any]] [[f/_faint|faint]] shadowy semblance; an unsubstantial [[i/_image|image]]**
 	- _Example: not a ghost of a chance; the ghost of an idea_
@@ -14,8 +14,8 @@
 - **An understudy.**
 - **A [[c/_covert|covert]] (and [[d/_deniable|deniable]]) [[a/_agent|agent]].**
 - **The [[f/_faint|faint]] [[i/_image|image]] that remains [[a/_after|after]] an [[a/_attempt|attempt]] to remove [[g/_graffiti|graffiti]].**
-- **An [[o/_opponent|opponent]] in a racing [[g/_game|game]] that [[f/_follows|follows]] a previously recorded route, [[a/_allowing|allowing]] players to [[c/_compete|compete]] [[a/_against|against]] previous [[b/_best|best]] times.**
-- **A [[d/_dead|dead]] person whose [[i/_identity|identity]] is stolen by [[a/_another|another]]. See [[g/_ghosting|ghosting]].**
+- **An [[o/_opponent|opponent]] in a racing [[g/_game|game]] that [[f/_follows|follows]] a previously recorded route, [[a/_allowing|allowing]] [[p/_players|players]] to [[c/_compete|compete]] [[a/_against|against]] previous [[b/_best|best]] times.**
+- **A [[d/_dead|dead]] [[p/_person|person]] whose [[i/_identity|identity]] is stolen by [[a/_another|another]]. See [[g/_ghosting|ghosting]].**
 - **(in [[n/_names|names]] of species) White or [[p/_pale|pale]].**
 	- _Example: ghost slug; ghostberry; ghostflower; ghost crab; ghost bat_
 - **(in [[n/_names|names]] of species) Transparent or translucent.**
@@ -24,7 +24,7 @@
 	- _Example: ghost town; ghost net; ghost ramp; ghost ship_
 - **Remnant; the remains of a([[n/_n|n]]).**
 	- _Example: ghost cell; ghost crater; ghost image_
-- **Perceived or [[l/_listed|listed]] but not real.**
+- **[[p/_perceived|Perceived]] or [[l/_listed|listed]] but not real.**
 	- _Example: ghost pain; ghost cellphone vibration; ghost island; ghost voter_
 - **Of cryptid, supernatural or [[e/_extraterrestrial|extraterrestrial]] [[n/_nature|nature]].**
 	- _Example: ghost rocket; ghost deer; ghost cat_
@@ -43,6 +43,6 @@
 - **To [[f/_forcibly|forcibly]] [[d/_disconnect|disconnect]] an IRC user who is using [[o/_one|one]]'s reserved [[n/_nickname|nickname]].**
 - **To [[a/_appear|appear]] without warning; to [[m/_move|move]] quickly and quietly; to slip.**
 - **To [[k/_kill|kill]].**
-- **To [[b/_break|break]] up with someone without warning or [[e/_explanation|explanation]]; to perform an [[a/_act|act]] of [[g/_ghosting|ghosting]].**
+- **To [[b/_break|break]] up with someone without warning or [[e/_explanation|explanation]]; to [[p/_perform|perform]] an [[a/_act|act]] of [[g/_ghosting|ghosting]].**
 ---
 ---

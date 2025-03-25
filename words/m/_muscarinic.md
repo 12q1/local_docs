@@ -1,6 +1,6 @@
 # Muscarinic
 ---
 #adjective
-- **Of or pertaining to [[m/_muscarine|muscarine]]**
+- **Of or [[p/_pertaining|pertaining]] to [[m/_muscarine|muscarine]]**
 ---
 ---

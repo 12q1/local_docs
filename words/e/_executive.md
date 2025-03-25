@@ -7,7 +7,7 @@
 ---
 #adjective
 - **[[d/_designed|Designed]] or [[f/_fitted|fitted]] for [[e/_execution|execution]], or [[c/_carrying|carrying]] [[i/_into|into]] [[e/_effect|effect]].**
-- **Of, pertaining to, or [[h/_having|having]] responsibility for the [[d/_day|day]]-to-[[d/_day|day]] running of an [[o/_organisation|organisation]], [[b/_business|business]], [[c/_country|country]], [[e/_etc|etc]].**
+- **Of, [[p/_pertaining|pertaining]] to, or [[h/_having|having]] responsibility for the [[d/_day|day]]-to-[[d/_day|day]] running of an [[o/_organisation|organisation]], [[b/_business|business]], [[c/_country|country]], [[e/_etc|etc]].**
 	- _Example: an executive officer_
 - **[[e/_exclusive|Exclusive]].**
 	- _Example: an executive bathroom_

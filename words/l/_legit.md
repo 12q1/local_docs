@@ -6,8 +6,8 @@
 ---
 #adjective
 - **[[l/_legitimate|Legitimate]]; [[l/_legal|legal]]; [[a/_allowed|allowed]] by the rules; valid.**
-- **(by [[e/_extension|extension]], of a thing or person) [[g/_genuine|Genuine]], [[a/_actual|actual]], [[l/_literal|literal]] or [[h/_honest|honest]].**
-- **[[g/_genuinely|Genuinely]] [[g/_good|good]] and possessing [[a/_all|all]] the required or [[e/_expected|expected]] qualities; the real [[d/_deal|deal]].**
+- **(by [[e/_extension|extension]], of a thing or [[p/_person|person]]) [[g/_genuine|Genuine]], [[a/_actual|actual]], [[l/_literal|literal]] or [[h/_honest|honest]].**
+- **[[g/_genuinely|Genuinely]] [[g/_good|good]] and [[p/_possessing|possessing]] [[a/_all|all]] the required or [[e/_expected|expected]] qualities; the real [[d/_deal|deal]].**
 	- _Example: I checked out her portfolio. She's legit._
 - **[[c/_cool|Cool]] by virtue of [[b/_being|being]] [[g/_genuine|genuine]].**
 ---

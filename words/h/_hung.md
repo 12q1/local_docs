@@ -6,7 +6,7 @@
 - **To [[f/_float|float]], as [[i/_if|if]] suspended.**
 	- _Example: The smoke hung in the room._
 - **(of a [[b/_ball|ball]] in [[c/_cricket|cricket]], tennis, [[e/_etc|etc]].) To rebound unexpectedly or unusually slowly, [[d/_due|due]] to [[b/_backward|backward]] spin on the [[b/_ball|ball]] or [[i/_imperfections|imperfections]] of the [[g/_ground|ground]].**
-- **To [[h/_hold|hold]] or [[b/_bear|bear]] in a suspended or [[i/_inclined|inclined]] [[m/_manner|manner]] or position [[i/_instead|instead]] of [[e/_erect|erect]].**
+- **To [[h/_hold|hold]] or [[b/_bear|bear]] in a suspended or [[i/_inclined|inclined]] [[m/_manner|manner]] or [[p/_position|position]] [[i/_instead|instead]] of [[e/_erect|erect]].**
 	- _Example: He hung his head in shame._
 - **To [[c/_cause|cause]] (something) to be suspended, as from a [[h/_hook|hook]], [[h/_hanger|hanger]], [[h/_hinges|hinges]] or the [[l/_like|like]].**
 	- _Example: Hang those lights from the ceiling._
@@ -22,18 +22,18 @@
 	- _Example: Let's hang this cute animal design in the nursery._
 - **To [[d/_decorate|decorate]] (something) with [[h/_hanging|hanging]] [[o/_objects|objects]].**
 	- _Example: Let's hang the nursery with some new wallpaper._
-- **To remain persistently in [[o/_one|one]]'s thoughts.**
+- **To remain [[p/_persistently|persistently]] in [[o/_one|one]]'s thoughts.**
 - **To prevent from reaching a [[d/_decision|decision]], [[e/_especially|especially]] by refusing to [[j/_join|join]] in a verdict that [[m/_must|must]] be unanimous.**
 	- _Example: One obstinate juror can hang a jury._
 - **To stop responding to [[m/_manual|manual]] [[i/_input|input]] [[d/_devices|devices]] such as [[k/_keyboard|keyboard]] and [[m/_mouse|mouse]].**
 	- _Example: The computer has hung again. Not even pressing ++ works.  When I push this button the program hangs._
 - **To [[c/_cause|cause]] (a program or [[c/_computer|computer]]) to stop responding.**
 	- _Example: The program has a bug that can hang the system._
-- **To [[c/_cause|cause]] (a piece) to [[b/_become|become]] vulnerable to [[c/_capture|capture]].**
+- **To [[c/_cause|cause]] (a [[p/_piece|piece]]) to [[b/_become|become]] vulnerable to [[c/_capture|capture]].**
 	- _Example: If you move there, you'll hang your rook._
 - **To be vulnerable to [[c/_capture|capture]].**
 	- _Example: In this standard opening position White has to be careful because the pawn on e4 hangs._
-- **Of a pitcher, to throw a [[h/_hittable|hittable]] [[o/_off|off]]-speed pitch.**
+- **Of a [[p/_pitcher|pitcher]], to throw a [[h/_hittable|hittable]] [[o/_off|off]]-speed [[p/_pitch|pitch]].**
 ---
 ### Synonyms
 - [[g/_gallows|gallows]], [[s/_swing|swing]], [[d/_dangle|dangle]], [[s/_suspended|suspended]], [[s/_suspend|suspend]], [[f/_freeze|freeze]], [[f/_freeze|freeze]], [[b/_bedeck|bedeck]], [[d/_deck|deck]], [[d/_decorate|decorate]], [[l/_lynch|lynch]], [[e/_exhibit|exhibit]], [[s/_show|show]], [[f/_float|float]], [[h/_hover|hover]], [[d/_drop|drop]], [[l/_lower|lower]], [[l/_loiter|loiter]], [[h/_hook|hook]]
@@ -41,9 +41,9 @@
 - **Suspended by [[h/_hanging|hanging]].**
 - **[[h/_having|Having]] [[h/_hanging|hanging]] [[a/_additions|additions]] or [[a/_appendages|appendages]].**
 - **Of a [[j/_jury|jury]], unable to reach a unanimous verdict in a trial.**
-- **Of a [[l/_legislature|legislature]], [[l/_lacking|lacking]] a [[m/_majority|majority]] political party.**
+- **Of a [[l/_legislature|legislature]], [[l/_lacking|lacking]] a [[m/_majority|majority]] [[p/_political|political]] [[p/_party|party]].**
 	- _Example: hung parliament_
-- **Of a [[c/_computer|computer]] or similar [[d/_device|device]], receiving power but not [[f/_functioning|functioning]] as [[d/_desired|desired]]; working very slowly or not at [[a/_all|all]]. The [[c/_condition|condition]] is [[o/_often|often]] [[c/_corrected|corrected]] by rebooting the [[c/_computer|computer]].**
-- **(of a person, slightly vulgar) [[h/_having|Having]] a [[l/_large|large]] penis ([[o/_often|often]] preceded by an [[a/_adverb|adverb]], [[e/_e|e]].[[g/_g|g]]. well [[h/_hung|hung]]).**
+- **Of a [[c/_computer|computer]] or similar [[d/_device|device]], receiving [[p/_power|power]] but not [[f/_functioning|functioning]] as [[d/_desired|desired]]; working very slowly or not at [[a/_all|all]]. The [[c/_condition|condition]] is [[o/_often|often]] [[c/_corrected|corrected]] by rebooting the [[c/_computer|computer]].**
+- **(of a [[p/_person|person]], slightly vulgar) [[h/_having|Having]] a [[l/_large|large]] [[p/_penis|penis]] ([[o/_often|often]] [[p/_preceded|preceded]] by an [[a/_adverb|adverb]], [[e/_e|e]].[[g/_g|g]]. well [[h/_hung|hung]]).**
 ---
 ---

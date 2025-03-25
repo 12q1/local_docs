@@ -8,12 +8,12 @@
 - **To [[c/_cause|cause]] to [[d/_dry|dry]] up or wither.**
 - **To [[d/_dry|dry]] up or wither.**
 	- _Example: Wood clings._
-- **(with preposition to) to be [[f/_fond|fond]] of, to [[f/_feel|feel]] strongly [[a/_about|about]] and [[d/_dependent|dependent]] on**
+- **(with [[p/_preposition|preposition]] to) to be [[f/_fond|fond]] of, to [[f/_feel|feel]] strongly [[a/_about|about]] and [[d/_dependent|dependent]] on**
 ---
 ### Synonyms
 - [[c/_cleave|cleave]], [[s/_stick|stick]], [[c/_clinch|clinch]], [[g/_grip|grip]]
 #verb
-- **To produce a [[h/_high|high]]-pitched ringing sound, [[l/_like|like]] a small [[b/_bell|bell]].**
+- **To produce a [[h/_high|high]]-[[p/_pitched|pitched]] ringing sound, [[l/_like|like]] a small [[b/_bell|bell]].**
 ---
 #noun
 - **The [[a/_act|act]] of [[o/_one|one]] who [[c/_clings|clings]].**

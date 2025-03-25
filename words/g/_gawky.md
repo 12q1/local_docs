@@ -1,7 +1,7 @@
 # Gawky
 ---
 #noun
-- **An [[a/_awkward|awkward]], ungainly person.**
+- **An [[a/_awkward|awkward]], ungainly [[p/_person|person]].**
 ---
 #adjective
 - **[[a/_awkward|Awkward]], ungainly; [[l/_lacking|lacking]] [[g/_grace|grace]] or [[d/_dexterity|dexterity]] in [[m/_movement|movement]]**

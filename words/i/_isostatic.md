@@ -5,6 +5,6 @@
 - **A state of [[e/_equilibrium|equilibrium]] [[b/_between|between]] two [[f/_forces|forces]].**
 ---
 #adjective
-- **Of or pertaining to [[i/_isostasy|isostasy]] or isostatics**
+- **Of or [[p/_pertaining|pertaining]] to [[i/_isostasy|isostasy]] or isostatics**
 ---
 ---

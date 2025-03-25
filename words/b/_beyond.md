@@ -22,7 +22,7 @@
 - **[[g/_greater|Greater]] than; so as to [[e/_exceed|exceed]] or surpass.**
 	- _Example: Your staff went beyond my expectations in refunding my parking ticket._
 - **In [[a/_addition|addition]] to.**
-- **Past, or [[o/_out|out]] of reach of.**
+- **[[p/_past|Past]], or [[o/_out|out]] of reach of.**
 	- _Example: The patient was beyond medical help._
 - **Not within the [[c/_comprehension|comprehension]] of.**
 	- _Example: He understood geometry well, but algebraic topology was beyond him._

@@ -14,7 +14,7 @@
 - **An [[a/_act|act]] in which a [[c/_company|company]] [[d/_downsizes|downsizes]] or is [[d/_downsized|downsized]]**
 	- _Example: He lost his job in the last downsizing._
 - **[[m/_miniaturization|Miniaturization]]**
-- **Reducing [[e/_engine|engine]]'s [[c/_capacity|capacity]] at same power or [[i/_increasing|increasing]] [[e/_engine|engine]]'s power without [[i/_increasing|increasing]] [[c/_capacity|capacity]]**
+- **Reducing [[e/_engine|engine]]'s [[c/_capacity|capacity]] at same [[p/_power|power]] or [[i/_increasing|increasing]] [[e/_engine|engine]]'s [[p/_power|power]] without [[i/_increasing|increasing]] [[c/_capacity|capacity]]**
 	- _Example: Downsizing is one of the leading trends in automotive engine design._
 ---
 ---

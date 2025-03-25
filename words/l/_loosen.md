@@ -9,7 +9,7 @@
 - **To [[b/_become|become]] unfastened or undone.**
 - **To [[f/_free|free]] from restraint; to set at [[l/_liberty|liberty]].**
 - **To relieve (the [[b/_bowels|bowels]]) from [[c/_constipation|constipation]]; to promote [[d/_defecation|defecation]].**
-- **To [[c/_create|create]] a [[b/_breach|breach]] or rift [[b/_between|between]] (two parties).**
+- **To [[c/_create|create]] a [[b/_breach|breach]] or rift [[b/_between|between]] (two [[p/_parties|parties]]).**
 - **To sail [[a/_away|away]] (from the shore).**
 ---
 ### Synonyms

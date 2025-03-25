@@ -10,6 +10,6 @@
 - **To slope or [[i/_incline|incline]] from the vertical.**
 ---
 #noun
-- **A [[h/_headland|headland]]; a strip of [[l/_land|land]] at the side of a [[f/_field|field]] upon which a plough [[m/_may|may]] be turned.**
+- **A [[h/_headland|headland]]; a strip of [[l/_land|land]] at the side of a [[f/_field|field]] upon which a [[p/_plough|plough]] [[m/_may|may]] be turned.**
 ---
 ---

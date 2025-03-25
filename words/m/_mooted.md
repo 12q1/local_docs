@@ -4,7 +4,7 @@
 - **To [[b/_bring|bring]] up as a subject for [[d/_debate|debate]], to propose.**
 - **To [[d/_discuss|discuss]] or [[d/_debate|debate]].**
 - **To [[m/_make|make]] or [[d/_declare|declare]] [[i/_irrelevant|irrelevant]].**
-- **To [[a/_argue|argue]] or plead in a supposed [[c/_case|case]].**
+- **To [[a/_argue|argue]] or [[p/_plead|plead]] in a supposed [[c/_case|case]].**
 - **To talk or speak.**
 	- _Example: 'Tis no boot to moot again of it._
 - **To say, utter, [[a/_also|also]] [[i/_insinuate|insinuate]].**

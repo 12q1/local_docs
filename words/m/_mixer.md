@@ -7,7 +7,7 @@
 - **A [[n/_non|non]]-[[a/_alcoholic|alcoholic]] [[d/_drink|drink]] (such as [[l/_lemonade|lemonade]], [[c/_coca|Coca]]-[[c/_cola|Cola]] or [[f/_fruit|fruit]] [[j/_juice|juice]]) that is [[a/_added|added]] to spirits to [[m/_make|make]] [[c/_cocktails|cocktails]].**
 - **A [[m/_mixing|mixing]] [[c/_console|console]].**
 - **A [[d/_dance|dance]] or [[o/_other|other]] social [[e/_event|event]] [[m/_meant|meant]] to [[f/_foster|foster]] [[n/_new|new]] [[a/_acquaintances|acquaintances]], as at the [[b/_beginning|beginning]] of a school [[y/_year|year]].**
-- **[[a/_any|Any]] of various social [[d/_dances|dances]] [[i/_involving|involving]] [[f/_frequent|frequent]] [[c/_changes|changes]] of partners.**
+- **[[a/_any|Any]] of various social [[d/_dances|dances]] [[i/_involving|involving]] [[f/_frequent|frequent]] [[c/_changes|changes]] of [[p/_partners|partners]].**
 - **A [[d/_device|device]] for [[c/_combining|combining]] [[h/_hot|hot]] and [[c/_cold|cold]] water [[b/_before|before]] it [[e/_emerges|emerges]] from a single spout or shower [[h/_head|head]].**
 - **A [[n/_nonlinear|nonlinear]] [[e/_electrical|electrical]] [[c/_circuit|circuit]] that [[c/_creates|creates]] [[n/_new|new]] [[f/_frequencies|frequencies]] from two signals [[a/_applied|applied]] to it.**
 ---

@@ -5,6 +5,6 @@
 	- _Example: He was an infamous perjurer._
 - **[[c/_causing|Causing]] [[i/_infamy|infamy]]; [[d/_disgraceful|disgraceful]].**
 	- _Example: This infamous deed tarnishes all involved._
-- **Subject to a [[j/_judicial|judicial]] punishment that [[d/_deprived|deprived]] the [[i/_infamous|infamous]] person of [[c/_certain|certain]] rights; this [[i/_included|included]] a prohibition [[a/_against|against]] [[h/_holding|holding]] public [[o/_office|office]], [[e/_exercising|exercising]] the [[f/_franchise|franchise]], receiving a public pension, serving on a [[j/_jury|jury]], or [[g/_giving|giving]] testimony in a [[c/_court|court]] of [[l/_law|law]].**
+- **Subject to a [[j/_judicial|judicial]] punishment that [[d/_deprived|deprived]] the [[i/_infamous|infamous]] [[p/_person|person]] of [[c/_certain|certain]] rights; this [[i/_included|included]] a prohibition [[a/_against|against]] [[h/_holding|holding]] public [[o/_office|office]], [[e/_exercising|exercising]] the [[f/_franchise|franchise]], receiving a public [[p/_pension|pension]], serving on a [[j/_jury|jury]], or [[g/_giving|giving]] testimony in a [[c/_court|court]] of [[l/_law|law]].**
 ---
 ---

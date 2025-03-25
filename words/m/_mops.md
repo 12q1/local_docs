@@ -1,7 +1,7 @@
 # Mops
 ---
 #noun
-- **An [[i/_implement|implement]] for washing [[f/_floors|floors]], or the [[l/_like|like]], [[m/_made|made]] of a piece of [[c/_cloth|cloth]], or a [[c/_collection|collection]] of thrums, or [[c/_coarse|coarse]] [[y/_yarn|yarn]], [[f/_fastened|fastened]] to a [[h/_handle|handle]].**
+- **An [[i/_implement|implement]] for washing [[f/_floors|floors]], or the [[l/_like|like]], [[m/_made|made]] of a [[p/_piece|piece]] of [[c/_cloth|cloth]], or a [[c/_collection|collection]] of thrums, or [[c/_coarse|coarse]] [[y/_yarn|yarn]], [[f/_fastened|fastened]] to a [[h/_handle|handle]].**
 - **A wash with a [[m/_mop|mop]]; the [[a/_act|act]] of [[m/_mopping|mopping]]**
 	- _Example: He gave the floor a quick mop to soak up the spilt juice._
 - **A [[d/_dense|dense]] [[h/_head|head]] of [[h/_hair|hair]].**

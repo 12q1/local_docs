@@ -1,18 +1,18 @@
 # Geeks
 ---
 #noun
-- **A [[c/_carnival|carnival]] performer specializing in [[b/_bizarre|bizarre]] and unappetizing [[b/_behavior|behavior]].**
+- **A [[c/_carnival|carnival]] [[p/_performer|performer]] specializing in [[b/_bizarre|bizarre]] and unappetizing [[b/_behavior|behavior]].**
 	- _Example: I once saw a geek bite the head off a live chicken._
-- **A person who is [[i/_intensely|intensely]] [[i/_interested|interested]] in a particular [[f/_field|field]] or [[h/_hobby|hobby]] and [[o/_often|often]] [[h/_having|having]] [[l/_limited|limited]] or [[n/_nonstandard|nonstandard]] social skills. [[o/_often|Often]] used with an [[a/_attributive|attributive]] [[n/_noun|noun]].**
+- **A [[p/_person|person]] who is [[i/_intensely|intensely]] [[i/_interested|interested]] in a [[p/_particular|particular]] [[f/_field|field]] or [[h/_hobby|hobby]] and [[o/_often|often]] [[h/_having|having]] [[l/_limited|limited]] or [[n/_nonstandard|nonstandard]] social skills. [[o/_often|Often]] used with an [[a/_attributive|attributive]] [[n/_noun|noun]].**
 	- _Example: I was a complete computer geek in high school, but I get out a lot more now._
-- **(by [[e/_extension|extension]]) An [[e/_expert|expert]] in a technical [[f/_field|field]], particularly [[o/_one|one]] [[h/_having|having]] to [[d/_do|do]] with [[c/_computers|computers]].**
+- **(by [[e/_extension|extension]]) An [[e/_expert|expert]] in a technical [[f/_field|field]], [[p/_particularly|particularly]] [[o/_one|one]] [[h/_having|having]] to [[d/_do|do]] with [[c/_computers|computers]].**
 	- _Example: Do you need a hardware geek or a software geek?_
-- **The subculture of [[g/_geeks|geeks]]; an [[e/_esoteric|esoteric]] subject of [[i/_interest|interest]] that is [[m/_marginal|marginal]] to the social [[m/_mainstream|mainstream]]; the philosophy, [[e/_events|events]], and physical [[a/_artifacts|artifacts]] of [[g/_geeks|geeks]]; geekness.**
-- **An unfashionable or socially undesirable person.**
+- **The subculture of [[g/_geeks|geeks]]; an [[e/_esoteric|esoteric]] subject of [[i/_interest|interest]] that is [[m/_marginal|marginal]] to the social [[m/_mainstream|mainstream]]; the [[p/_philosophy|philosophy]], [[e/_events|events]], and [[p/_physical|physical]] [[a/_artifacts|artifacts]] of [[g/_geeks|geeks]]; geekness.**
+- **An unfashionable or socially undesirable [[p/_person|person]].**
 	- _Example: Why do you hang around with them? They’re just geeks._
 ---
 #verb
-- **To [[b/_behave|behave]] geekishly or in a socially [[a/_awkward|awkward]] [[m/_manner|manner]], [[e/_especially|especially]] when under the [[i/_influence|influence]] of [[d/_drugs|drugs]] or [[o/_other|other]] psycho-[[a/_active|active]] substances, and [[e/_exhibiting|exhibiting]] such [[m/_marked|marked]] [[c/_characteristics|characteristics]] as [[h/_hyperactivity|hyperactivity]], repetitiveness, talkativeness, [[n/_nervousness|nervousness]], [[i/_irritability|irritability]], or paranoia.**
+- **To [[b/_behave|behave]] geekishly or in a socially [[a/_awkward|awkward]] [[m/_manner|manner]], [[e/_especially|especially]] when under the [[i/_influence|influence]] of [[d/_drugs|drugs]] or [[o/_other|other]] psycho-[[a/_active|active]] substances, and [[e/_exhibiting|exhibiting]] such [[m/_marked|marked]] [[c/_characteristics|characteristics]] as [[h/_hyperactivity|hyperactivity]], repetitiveness, talkativeness, [[n/_nervousness|nervousness]], [[i/_irritability|irritability]], or [[p/_paranoia|paranoia]].**
 	- _Example: Hey, check out that guy...he's really geeking out pretty bad._
 ---
 ### Synonyms
@@ -24,6 +24,6 @@
 ### Synonyms
 - [[b/_butcher’s|butcher’s]], [[g/_gander|gander]]
 #verb
-- **To [[l/_look|look]]; to peep; to stare [[a/_about|about]] [[i/_intently|intently]].**
+- **To [[l/_look|look]]; to [[p/_peep|peep]]; to stare [[a/_about|about]] [[i/_intently|intently]].**
 ---
 ---

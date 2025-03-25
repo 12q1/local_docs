@@ -1,8 +1,8 @@
 # Cheer
 ---
 #noun
-- **A [[c/_cheerful|cheerful]] [[a/_attitude|attitude]]; [[h/_happiness|happiness]]; a [[g/_good|good]], [[h/_happy|happy]], or positive [[m/_mood|mood]].**
-- **That which promotes [[g/_good|good]] spirits or [[c/_cheerfulness|cheerfulness]]; provisions prepared for a [[f/_feast|feast]]; [[e/_entertainment|entertainment]].**
+- **A [[c/_cheerful|cheerful]] [[a/_attitude|attitude]]; [[h/_happiness|happiness]]; a [[g/_good|good]], [[h/_happy|happy]], or [[p/_positive|positive]] [[m/_mood|mood]].**
+- **That which promotes [[g/_good|good]] spirits or [[c/_cheerfulness|cheerfulness]]; provisions [[p/_prepared|prepared]] for a [[f/_feast|feast]]; [[e/_entertainment|entertainment]].**
 	- _Example: a table loaded with good cheer_
 - **A [[c/_cry|cry]] [[e/_expressing|expressing]] [[j/_joy|joy]], [[a/_approval|approval]] or support such as "[[h/_hurray|hurray]]".**
 	- _Example: A cheer rose from the crowd._

@@ -11,6 +11,6 @@
 #noun
 - **The [[a/_act|act]] by which something is [[c/_combed|combed]].**
 	- _Example: My hair needs frequent combings; otherwise, it gets matted._
-- **(in the plural) [[i/_individual|Individual]] [[h/_hairs|hairs]] that [[d/_drop|drop]] [[o/_out|out]] when the [[h/_hair|hair]] is [[c/_combed|combed]].**
+- **(in the [[p/_plural|plural]]) [[i/_individual|Individual]] [[h/_hairs|hairs]] that [[d/_drop|drop]] [[o/_out|out]] when the [[h/_hair|hair]] is [[c/_combed|combed]].**
 ---
 ---

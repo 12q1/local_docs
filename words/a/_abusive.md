@@ -4,9 +4,9 @@
 - **Prone to treat someone [[b/_badly|badly]] by [[c/_coarse|coarse]], [[i/_insulting|insulting]] words or [[o/_other|other]] [[m/_maltreatment|maltreatment]]; vituperative; reproachful; scurrilous.**
 	- _Example: All they could ever do was to shout abusive inanities at me and my colleagues._
 - **Tending to [[d/_deceive|deceive]]; [[f/_fraudulent|fraudulent]].**
-- **Tending to [[m/_misuse|misuse]]; practising or [[c/_containing|containing]] [[a/_abuse|abuse]].**
-- **[[b/_being|Being]] physically or [[e/_emotionally|emotionally]] [[i/_injurious|injurious]]; [[c/_characterized|characterized]] by repeated violence or [[o/_other|other]] [[a/_abuse|abuse]].**
-- **Wrongly used; perverted; [[m/_misapplied|misapplied]]; unjust; [[i/_illegal|illegal]].**
+- **Tending to [[m/_misuse|misuse]]; [[p/_practising|practising]] or [[c/_containing|containing]] [[a/_abuse|abuse]].**
+- **[[b/_being|Being]] [[p/_physically|physically]] or [[e/_emotionally|emotionally]] [[i/_injurious|injurious]]; [[c/_characterized|characterized]] by repeated violence or [[o/_other|other]] [[a/_abuse|abuse]].**
+- **Wrongly used; [[p/_perverted|perverted]]; [[m/_misapplied|misapplied]]; unjust; [[i/_illegal|illegal]].**
 - **[[c/_catachrestic|Catachrestic]].**
 ---
 ### Synonyms

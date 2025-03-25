@@ -10,7 +10,7 @@
 ### Synonyms
 - [[v/_vesicate|vesicate]]
 #noun
-- **The practice of [[f/_forming|forming]] [[b/_blisters|blisters]] on the skin, to promote [[b/_blood|blood]] [[f/_flow|flow]] and [[a/_aid|aid]] [[h/_healing|healing]].**
+- **The [[p/_practice|practice]] of [[f/_forming|forming]] [[b/_blisters|blisters]] on the skin, to promote [[b/_blood|blood]] [[f/_flow|flow]] and [[a/_aid|aid]] [[h/_healing|healing]].**
 ---
 #adjective
 - **[[c/_causing|Causing]] [[b/_blisters|blisters]]**

@@ -1,6 +1,6 @@
 # Pacifistic
 ---
 #adjective
-- **Of or pertaining to [[p/_pacifism|pacifism]].**
+- **Of or [[p/_pertaining|pertaining]] to [[p/_pacifism|pacifism]].**
 ---
 ---

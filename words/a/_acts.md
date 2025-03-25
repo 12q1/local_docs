@@ -9,9 +9,9 @@
 - **The process of [[d/_doing|doing]] something.**
 	- _Example: He was caught in the act of stealing._
 - **A [[f/_formal|formal]] or [[o/_official|official]] record of something [[d/_done|done]].**
-- **A [[d/_division|division]] of a theatrical performance.**
+- **A [[d/_division|division]] of a theatrical [[p/_performance|performance]].**
 	- _Example: The pivotal moment in the play was in the first scene of the second act._
-- **A performer or performers in a show.**
+- **A [[p/_performer|performer]] or [[p/_performers|performers]] in a show.**
 	- _Example: Which act did you prefer? The soloist or the band?_
 - **[[a/_any|Any]] [[o/_organized|organized]] [[a/_activity|activity]].**
 - **A [[d/_display|display]] of [[b/_behaviour|behaviour]].**
@@ -24,10 +24,10 @@
 #verb
 - **To [[d/_do|do]] something.**
 	- _Example: If you don't act soon, you will be in trouble._
-- **To [[d/_do|do]] (something); to perform.**
-- **To perform a theatrical role.**
+- **To [[d/_do|do]] (something); to [[p/_perform|perform]].**
+- **To [[p/_perform|perform]] a theatrical role.**
 	- _Example: I started acting at the age of eleven in my local theatre._
-- **Of a play: to be [[a/_acted|acted]] [[o/_out|out]] (well or [[b/_badly|badly]]).**
+- **Of a [[p/_play|play]]: to be [[a/_acted|acted]] [[o/_out|out]] (well or [[b/_badly|badly]]).**
 - **To [[b/_behave|behave]] in a [[c/_certain|certain]] [[m/_manner|manner]] for an [[i/_indefinite|indefinite]] [[l/_length|length]] of time.**
 	- _Example: A dog which acts aggressively is likely to bite._
 - **To [[c/_convey|convey]] an [[a/_appearance|appearance]] of [[b/_being|being]].**
@@ -36,7 +36,7 @@
 	- _Example: act on behalf of John_
 - **([[c/_construed|construed]] with on or upon) To [[h/_have|have]] an [[e/_effect|effect]] (on).**
 	- _Example: Gravitational force acts on heavy bodies._
-- **To play (a role).**
+- **To [[p/_play|play]] (a role).**
 	- _Example: He's been acting Shakespearean leads since he was twelve._
 - **To [[f/_feign|feign]].**
 	- _Example: He acted the angry parent, but was secretly amused._

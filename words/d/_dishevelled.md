@@ -6,7 +6,7 @@
 - **To spread [[o/_out|out]] in [[d/_disorder|disorder]].**
 ---
 #adjective
-- **(of a person) With the [[h/_hair|hair]] uncombed.**
+- **(of a [[p/_person|person]]) With the [[h/_hair|hair]] uncombed.**
 - **(by [[e/_extension|extension]]) [[d/_disorderly|Disorderly]] or untidy in [[a/_appearance|appearance]].**
 ---
 ### Synonyms

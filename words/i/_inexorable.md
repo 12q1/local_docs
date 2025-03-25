@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[i/_impossible|Impossible]] to prevent or stop; [[i/_inevitable|inevitable]].**
-- **Unable to be persuaded; relentless; unrelenting.**
+- **Unable to be [[p/_persuaded|persuaded]]; relentless; unrelenting.**
 - **[[a/_adamant|Adamant]]; severe.**
 ---
 ### Synonyms

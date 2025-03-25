@@ -9,14 +9,14 @@
 ### Antonyms
 - [[U/_UL|UL]]
 #verb
-- **[[i/_initialism|Initialism]] of [[d/_disabled|disabled]] [[l/_list|list]].. To place on the [[d/_disabled|disabled]] [[l/_list|list]].**
+- **[[i/_initialism|Initialism]] of [[d/_disabled|disabled]] [[l/_list|list]].. To [[p/_place|place]] on the [[d/_disabled|disabled]] [[l/_list|list]].**
 ---
 ### Antonyms
 - [[U/_UL|UL]]
 #noun
 - **A state of secrecy.**
 	- _Example: I'll tell you, but keep it on the down low._
-- **(sexuality) The state of [[b/_being|being]] a [[m/_man|man]] who secretly sleeps with people [[o/_other|other]] than [[h/_his|his]] partner.**
+- **(sexuality) The state of [[b/_being|being]] a [[m/_man|man]] who secretly sleeps with [[p/_people|people]] [[o/_other|other]] than [[h/_his|his]] [[p/_partner|partner]].**
 - **(sexuality) The state of [[b/_being|being]] a [[m/_man|man]] who secretly sleeps with [[o/_other|other]] [[m/_men|men]].**
 ---
 #noun

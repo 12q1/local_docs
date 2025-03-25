@@ -8,14 +8,14 @@
 - **To be [[m/_melted|melted]], [[c/_changed|changed]] [[i/_into|into]] a [[f/_fluid|fluid]].**
 - **To [[d/_disintegrate|disintegrate]] [[c/_chemically|chemically]] [[i/_into|into]] a solution by [[i/_immersion|immersion]] [[i/_into|into]] a [[l/_liquid|liquid]] or [[g/_gas|gas]].**
 - **To be [[d/_disintegrated|disintegrated]] by such [[i/_immersion|immersion]].**
-- **To [[d/_disperse|disperse]], [[d/_drive|drive]] [[a/_apart|apart]] a [[g/_group|group]] of persons.**
+- **To [[d/_disperse|disperse]], [[d/_drive|drive]] [[a/_apart|apart]] a [[g/_group|group]] of [[p/_persons|persons]].**
 - **To [[b/_break|break]] the [[c/_continuity|continuity]] of; to [[d/_disconnect|disconnect]]; to [[l/_loosen|loosen]]; to undo; to separate.**
 - **To [[a/_annul|annul]]; to rescind; to [[d/_discharge|discharge]] or release.**
 	- _Example: to dissolve an injunction_
 - **To shift from [[o/_one|one]] shot to [[a/_another|another]] by [[h/_having|having]] the [[f/_former|former]] [[f/_fade|fade]] [[o/_out|out]] as the [[l/_latter|latter]] [[f/_fades|fades]] in.**
 - **To resolve [[i/_itself|itself]] as by [[d/_dissolution|dissolution]].**
 - **To solve; to [[c/_clear|clear]] up; to resolve.**
-- **To relax by pleasure; to [[m/_make|make]] powerless.**
+- **To relax by [[p/_pleasure|pleasure]]; to [[m/_make|make]] [[p/_powerless|powerless]].**
 ---
 ### Synonyms
 - [[f/_formelt|formelt]], [[m/_melt|melt]]

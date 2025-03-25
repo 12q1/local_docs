@@ -1,15 +1,15 @@
 # Opening
 ---
 #verb
-- **To [[m/_make|make]] something [[a/_accessible|accessible]] or [[a/_allow|allow]] for passage by [[m/_moving|moving]] from a shut position.**
+- **To [[m/_make|make]] something [[a/_accessible|accessible]] or [[a/_allow|allow]] for [[p/_passage|passage]] by [[m/_moving|moving]] from a shut [[p/_position|position]].**
 	- _Example: Turn the doorknob to open the door._
-- **To [[m/_make|make]] (an [[o/_open|open]] space, [[e/_etc|etc]].) by [[c/_clearing|clearing]] [[a/_away|away]] an [[o/_obstacle|obstacle]] or [[o/_obstacles|obstacles]], in [[o/_order|order]] to [[a/_allow|allow]] for passage, [[a/_access|access]], or visibility.**
+- **To [[m/_make|make]] (an [[o/_open|open]] space, [[e/_etc|etc]].) by [[c/_clearing|clearing]] [[a/_away|away]] an [[o/_obstacle|obstacle]] or [[o/_obstacles|obstacles]], in [[o/_order|order]] to [[a/_allow|allow]] for [[p/_passage|passage]], [[a/_access|access]], or visibility.**
 	- _Example: He opened a path through the undergrowth._
 - **To [[b/_bring|bring]] up, [[b/_broach|broach]].**
 	- _Example: I don't want to open that subject._
 - **To [[e/_enter|enter]] upon, [[b/_begin|begin]].**
 	- _Example: to open a case in court, or a meeting_
-- **To spread; to [[e/_expand|expand]] [[i/_into|into]] an [[o/_open|open]] or [[l/_loose|loose]] position.**
+- **To spread; to [[e/_expand|expand]] [[i/_into|into]] an [[o/_open|open]] or [[l/_loose|loose]] [[p/_position|position]].**
 	- _Example: to open a closed fist_
 - **To [[m/_make|make]] [[a/_accessible|accessible]] to [[c/_customers|customers]] or [[c/_clients|clients]].**
 	- _Example: I will open the shop an hour early tomorrow._
@@ -20,7 +20,7 @@
 - **To [[b/_begin|begin]] [[c/_conducting|conducting]] [[b/_business|business]].**
 	- _Example: The shop opens at 9:00._
 - **To [[b/_begin|begin]] a side's [[i/_innings|innings]] as [[o/_one|one]] of the [[f/_first|first]] two [[b/_batsmen|batsmen]].**
-- **To [[b/_bet|bet]] [[b/_before|before]] [[a/_any|any]] [[o/_other|other]] player [[h/_has|has]] in a particular [[b/_betting|betting]] round in a [[g/_game|game]] of poker.**
+- **To [[b/_bet|bet]] [[b/_before|before]] [[a/_any|any]] [[o/_other|other]] [[p/_player|player]] [[h/_has|has]] in a [[p/_particular|particular]] [[b/_betting|betting]] round in a [[g/_game|game]] of [[p/_poker|poker]].**
 	- _Example: After the first two players fold, Julie opens for $5._
 - **To reveal [[o/_one|one]]'s [[h/_hand|hand]].**
 	- _Example: Jeff opens his hand revealing a straight flush._
@@ -39,7 +39,7 @@
 - **An [[a/_act|act]] or [[i/_instance|instance]] of [[b/_beginning|beginning]].**
 	- _Example: Their opening of the concert with Brass in Pocket always fires up the crowd._
 - **Something that is a [[b/_beginning|beginning]].**
-- **A vacant position, [[e/_especially|especially]] in an [[a/_array|array]].**
+- **A vacant [[p/_position|position]], [[e/_especially|especially]] in an [[a/_array|array]].**
 	- _Example: Are there likely to be any openings on the Supreme Court in the next four years?_
 - **An [[o/_opportunity|opportunity]], as in a [[c/_competitive|competitive]] [[a/_activity|activity]].**
 - **In [[m/_mathematical|mathematical]] [[m/_morphology|morphology]], the [[d/_dilation|dilation]] of the [[e/_erosion|erosion]] of a set.**
@@ -47,8 +47,8 @@
 ### Synonyms
 - [[a/_availability|availability]], [[s/_slot|slot]], [[c/_crevice|crevice]], [[g/_gap|gap]], [[h/_hole|hole]]
 #adjective
-- **Pertaining to the start or [[b/_beginning|beginning]] of a series of [[e/_events|events]].**
+- **[[p/_pertaining|Pertaining]] to the start or [[b/_beginning|beginning]] of a series of [[e/_events|events]].**
 	- _Example: The opening theme of Beethoven's Fifth Symphony is, perhaps, the most recognizable in all of European art music._
-- **[[d/_describing|Describing]] the [[f/_first|first]] period of play, usually up to the [[f/_fall|fall]] of the [[f/_first|first]] wicket; [[d/_describing|describing]] a [[b/_batsman|batsman]] who [[o/_opens|opens]] the [[i/_innings|innings]] or a [[b/_bowler|bowler]] who [[o/_opens|opens]] the [[a/_attack|attack]]**
+- **[[d/_describing|Describing]] the [[f/_first|first]] [[p/_period|period]] of [[p/_play|play]], usually up to the [[f/_fall|fall]] of the [[f/_first|first]] wicket; [[d/_describing|describing]] a [[b/_batsman|batsman]] who [[o/_opens|opens]] the [[i/_innings|innings]] or a [[b/_bowler|bowler]] who [[o/_opens|opens]] the [[a/_attack|attack]]**
 ---
 ---

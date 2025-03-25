@@ -8,7 +8,7 @@
 - **To sing to the tune of a [[j/_jig|jig]].**
 - **To trick or [[c/_cheat|cheat]]; to [[c/_cajole|cajole]]; to [[d/_delude|delude]].**
 - **To sort or separate, as [[o/_ore|ore]] in a [[j/_jigger|jigger]] or sieve.**
-- **To [[c/_cut|cut]] or [[f/_form|form]], as a piece of [[m/_metal|metal]], in a [[j/_jigging|jigging]] [[m/_machine|machine]].**
+- **To [[c/_cut|cut]] or [[f/_form|form]], as a [[p/_piece|piece]] of [[m/_metal|metal]], in a [[j/_jigging|jigging]] [[m/_machine|machine]].**
 ---
 #noun
 - **The [[a/_act|act]] of [[d/_dancing|dancing]] a [[j/_jig|jig]].**

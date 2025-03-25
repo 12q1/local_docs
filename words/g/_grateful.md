@@ -3,7 +3,7 @@
 #adjective
 - **[[a/_appreciative|Appreciative]]; thankful.**
 	- _Example: I'm grateful that you helped me out._
-- **Pleasing, welcome.**
+- **[[p/_pleasing|Pleasing]], welcome.**
 ---
 ### Synonyms
 - [[a/_appreciative|appreciative]], [[t/_thankful|thankful]]

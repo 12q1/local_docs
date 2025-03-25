@@ -1,7 +1,7 @@
 # Hiemal
 ---
 #adjective
-- **Of or pertaining to winter, wintry.**
+- **Of or [[p/_pertaining|pertaining]] to winter, wintry.**
 ---
 ### Synonyms
 - [[h/_hibernal|hibernal]]

@@ -1,7 +1,7 @@
 # Egocentric
 ---
 #noun
-- **A person who is [[e/_egocentric|egocentric]].**
+- **A [[p/_person|person]] who is [[e/_egocentric|egocentric]].**
 ---
 #adjective
 - **Selfish, self-[[c/_centered|centered]]**

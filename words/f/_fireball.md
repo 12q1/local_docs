@@ -12,7 +12,7 @@
 #verb
 - **To [[e/_explode|explode]] in a [[b/_ball|ball]] of [[f/_flame|flame]].**
 	- _Example: The car swerved off a road, hit a wall, and fireballed as the petrol tank exploded._
-- **To pitch the [[b/_ball|ball]] very [[f/_fast|fast]].**
+- **To [[p/_pitch|pitch]] the [[b/_ball|ball]] very [[f/_fast|fast]].**
 - **To [[a/_attack|attack]] with [[b/_balls|balls]] of [[f/_fire|fire]].**
 ---
 ---

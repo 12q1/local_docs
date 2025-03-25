@@ -1,6 +1,6 @@
 # Locomotory
 ---
 #adjective
-- **Of or pertaining to [[l/_locomotion|locomotion]].**
+- **Of or [[p/_pertaining|pertaining]] to [[l/_locomotion|locomotion]].**
 ---
 ---

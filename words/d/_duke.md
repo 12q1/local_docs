@@ -6,7 +6,7 @@
 - **A [[h/_high|high]] title of [[n/_nobility|nobility]]; the [[m/_male|male]] [[h/_holder|holder]] of a [[d/_dukedom|dukedom]].**
 - **A [[g/_grand|grand]] [[d/_duke|duke]].**
 - **[[a/_any|Any]] of various [[n/_nymphalid|nymphalid]] [[b/_butterflies|butterflies]] of the [[a/_asian|Asian]] [[g/_genera|genera]] Bassarona and Dophla.**
-- **(usually in the plural) A [[f/_fist|fist]].**
+- **(usually in the [[p/_plural|plural]]) A [[f/_fist|fist]].**
 	- _Example: Put up your dukes!_
 ---
 #verb

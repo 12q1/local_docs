@@ -1,6 +1,6 @@
 # Heteros
 ---
 #noun
-- **A [[h/_heterosexual|heterosexual]] person.**
+- **A [[h/_heterosexual|heterosexual]] [[p/_person|person]].**
 ---
 ---

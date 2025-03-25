@@ -1,6 +1,6 @@
 # Lauded
 ---
 #verb
-- **To praise, to [[g/_glorify|glorify]]**
+- **To [[p/_praise|praise]], to [[g/_glorify|glorify]]**
 ---
 ---

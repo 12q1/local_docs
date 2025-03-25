@@ -7,7 +7,7 @@
 	- _Example: I prefer it when they batter the cod with breadcrumbs._
 - **To [[d/_defeat|defeat]] soundly; to thrash.**
 	- _Example: Leeds United battered Charlton 7-0._
-- **(usually in the passive) To [[i/_intoxicate|intoxicate]].**
+- **(usually in the [[p/_passive|passive]]) To [[i/_intoxicate|intoxicate]].**
 	- _Example: I was battered last night on our pub crawl._
 - **To [[f/_flatten|flatten]] ([[m/_metal|metal]]) by [[h/_hammering|hammering]], so as to [[c/_compress|compress]] it [[i/_inwardly|inwardly]] and spread it [[o/_outwardly|outwardly]].**
 ---
@@ -18,8 +18,8 @@
 	- _Example: To the dismay of his mother, the boy put his finger into the cake batter._
 - **A [[b/_binge|binge]], a [[h/_heavy|heavy]] [[d/_drinking|drinking]] session.**
 	- _Example: When he went on a batter, he became very violent._
-- **A paste of [[c/_clay|clay]] or [[l/_loam|loam]].**
-- **A [[b/_bruise|bruise]] on the [[f/_face|face]] of a plate or of type in the [[f/_form|form]].**
+- **A [[p/_paste|paste]] of [[c/_clay|clay]] or [[l/_loam|loam]].**
+- **A [[b/_bruise|bruise]] on the [[f/_face|face]] of a [[p/_plate|plate]] or of type in the [[f/_form|form]].**
 ---
 ### Synonyms
 - [[b/_binge|binge]]
@@ -30,9 +30,9 @@
 - **To slope (of walls, [[b/_buildings|buildings]] [[e/_etc|etc]].).**
 ---
 #noun
-- **The player [[a/_attempting|attempting]] to [[h/_hit|hit]] the [[b/_ball|ball]] with a [[b/_bat|bat]].**
+- **The [[p/_player|player]] [[a/_attempting|attempting]] to [[h/_hit|hit]] the [[b/_ball|ball]] with a [[b/_bat|bat]].**
 	- _Example: The first batter hit the ball into the corner for a double._
-- **The player [[a/_attempting|attempting]] to [[h/_hit|hit]] the [[b/_ball|ball]] with a [[b/_bat|bat]]; a [[b/_batsman|batsman]].**
+- **The [[p/_player|player]] [[a/_attempting|attempting]] to [[h/_hit|hit]] the [[b/_ball|ball]] with a [[b/_bat|bat]]; a [[b/_batsman|batsman]].**
 ---
 ### Synonyms
 - [[b/_batsman|batsman]], [[h/_hitter|hitter]]

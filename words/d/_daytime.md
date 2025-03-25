@@ -8,7 +8,7 @@
 ### Antonyms
 - [[n/_night|night]], [[n/_nighttime|nighttime]]
 #adjective
-- **Pertaining to [[d/_daytime|daytime]]; [[a/_appropriate|appropriate]] to the [[d/_day|day]].**
+- **[[p/_pertaining|Pertaining]] to [[d/_daytime|daytime]]; [[a/_appropriate|appropriate]] to the [[d/_day|day]].**
 - **[[h/_happening|Happening]] [[d/_during|during]] the [[d/_day|day]].**
 	- _Example: daytime television_
 ---

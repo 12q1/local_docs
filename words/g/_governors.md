@@ -7,9 +7,9 @@
 - **[[f/_father|Father]].**
 - **[[b/_boss|Boss]], [[e/_employer|employer]], similar to [[g/_gaffer|gaffer]].**
 - **Term of [[a/_address|address]] to a [[m/_man|man]]; [[g/_guv|guv]]'[[n/_nor|nor]].**
-- **([[g/_grammar|grammar]]) A [[c/_constituent|constituent]] of a phrase that [[g/_governs|governs]] [[a/_another|another]].**
+- **([[g/_grammar|grammar]]) A [[c/_constituent|constituent]] of a [[p/_phrase|phrase]] that [[g/_governs|governs]] [[a/_another|another]].**
 - **[[o/_one|One]] who [[h/_has|has]] the [[c/_care|care]] or [[g/_guardianship|guardianship]] of a [[y/_young|young]] [[m/_man|man]]; a tutor; a [[g/_guardian|guardian]].**
-- **A pilot; a steersman.**
+- **A [[p/_pilot|pilot]]; a steersman.**
 ---
 ### Synonyms
 - [[b/_bailiff|bailiff]], [[d/_daotai|daotai]], [[g/_gubernator|gubernator]], [[i/_intendant|intendant]], [[p/_proconsul|proconsul]], [[p/_provost|provost]], [[s/_seneschal|seneschal]], [[v/_viceroy|viceroy]]

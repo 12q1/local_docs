@@ -7,6 +7,6 @@
 - **To provide with [[m/_musical|musical]] [[c/_chords|chords]] or strings; to string; to tune.**
 ---
 #adjective
-- **(of a [[c/_computer|computer]] [[k/_keyboard|keyboard]]) Through which [[i/_input|input]] is supplied by pressing a relatively small [[n/_number|number]] of [[k/_keys|keys]] in [[c/_combinations|combinations]], as though playing [[c/_chords|chords]].**
+- **(of a [[c/_computer|computer]] [[k/_keyboard|keyboard]]) Through which [[i/_input|input]] is supplied by [[p/_pressing|pressing]] a relatively small [[n/_number|number]] of [[k/_keys|keys]] in [[c/_combinations|combinations]], as though [[p/_playing|playing]] [[c/_chords|chords]].**
 ---
 ---

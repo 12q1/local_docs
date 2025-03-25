@@ -10,7 +10,7 @@
 ### Synonyms
 - [[g/_gator|gator]]
 #verb
-- **(of [[p/_paint|paint]] or [[o/_other|other]] [[c/_coatings|coatings]]) To [[c/_crack|crack]] in a pattern resembling an [[a/_alligator|alligator]]'s skin.**
+- **(of [[p/_paint|paint]] or [[o/_other|other]] [[c/_coatings|coatings]]) To [[c/_crack|crack]] in a [[p/_pattern|pattern]] resembling an [[a/_alligator|alligator]]'s skin.**
 ---
 #interjection
 - **Used in a [[c/_common|common]] [[c/_chronometric|chronometric]] [[c/_counting|counting]] scheme, in which [[e/_each|each]] [[i/_iteration|iteration]] is sequentially [[n/_numbered|numbered]] and supposed to be [[a/_approximately|approximately]] [[o/_one|one]] second in [[l/_length|length]].**

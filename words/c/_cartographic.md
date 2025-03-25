@@ -1,6 +1,6 @@
 # Cartographic
 ---
 #adjective
-- **Of or pertaining to the [[m/_making|making]] of [[m/_maps|maps]].**
+- **Of or [[p/_pertaining|pertaining]] to the [[m/_making|making]] of [[m/_maps|maps]].**
 ---
 ---

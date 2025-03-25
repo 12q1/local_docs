@@ -1,10 +1,10 @@
 # Exhaust
 ---
 #noun
-- **A system [[c/_consisting|consisting]] of the parts of an [[e/_engine|engine]] through which [[b/_burned|burned]] [[g/_gases|gases]] or steam are [[d/_discharged|discharged]]; see [[a/_also|also]] [[e/_exhaust|exhaust]] system.**
+- **A system [[c/_consisting|consisting]] of the [[p/_parts|parts]] of an [[e/_engine|engine]] through which [[b/_burned|burned]] [[g/_gases|gases]] or steam are [[d/_discharged|discharged]]; see [[a/_also|also]] [[e/_exhaust|exhaust]] system.**
 - **The steam [[l/_let|let]] [[o/_out|out]] of a [[c/_cylinder|cylinder]] [[a/_after|after]] it [[h/_has|has]] [[d/_done|done]] [[i/_its|its]] work there.**
-- **The [[d/_dirty|dirty]] [[a/_air|air]] [[l/_let|let]] [[o/_out|out]] of a room through a register or pipe provided for the purpose.**
-- **An [[e/_exhaust|exhaust]] pipe, [[e/_especially|especially]] on a [[m/_motor|motor]] vehicle.**
+- **The [[d/_dirty|dirty]] [[a/_air|air]] [[l/_let|let]] [[o/_out|out]] of a room through a register or [[p/_pipe|pipe]] provided for the purpose.**
+- **An [[e/_exhaust|exhaust]] [[p/_pipe|pipe]], [[e/_especially|especially]] on a [[m/_motor|motor]] vehicle.**
 - **[[e/_exhaust|Exhaust]] [[g/_gas|gas]].**
 ---
 #verb

@@ -7,7 +7,7 @@
 	- _Example: to grave an image_
 - **To [[i/_impress|impress]] [[d/_deeply|deeply]] (on the [[m/_mind|mind]]); to [[f/_fix|fix]] [[i/_indelibly|indelibly]].**
 - **To [[e/_entomb|entomb]]; to [[b/_bury|bury]].**
-- **To write or [[d/_delineate|delineate]] on [[h/_hard|hard]] substances, by [[m/_means|means]] of [[i/_incised|incised]] [[l/_lines|lines]]; to practice [[e/_engraving|engraving]].**
+- **To write or [[d/_delineate|delineate]] on [[h/_hard|hard]] substances, by [[m/_means|means]] of [[i/_incised|incised]] [[l/_lines|lines]]; to [[p/_practice|practice]] [[e/_engraving|engraving]].**
 ---
 #adjective
 - **[[c/_carved|Carved]], [[e/_engraved|engraved]]**

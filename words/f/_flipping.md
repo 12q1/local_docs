@@ -5,7 +5,7 @@
 	- _Example: You need to flip the pancake onto the other side._
 - **To put [[i/_into|into]] a quick revolving [[m/_motion|motion]] through a snap of the thumb and [[i/_index|index]] [[f/_finger|finger]].**
 	- _Example: If you can't decide which option to go for, flip a coin._
-- **To win a state (or [[c/_county|county]]) won by [[a/_another|another]] party in the preceding [[e/_elections|elections]]**
+- **To win a state (or [[c/_county|county]]) won by [[a/_another|another]] [[p/_party|party]] in the [[p/_preceding|preceding]] [[e/_elections|elections]]**
 	- _Example: Wisconsin had been Democratic for decades, but the Republicans flipped it in 2016._
 - **To turn state's [[e/_evidence|evidence]]; to [[a/_agree|agree]] to testify [[a/_against|against]] [[o/_one|one]]'s [[c/_co|co]]-[[c/_conspirators|conspirators]] in [[e/_exchange|exchange]] for [[c/_concessions|concessions]] from prosecutors.**
 	- _Example: The mafioso flipped on his superiors to get a lighter sentence._
@@ -19,7 +19,7 @@
 ### Synonyms
 - [[t/_toss|toss]], [[t/_turn|turn]]
 #noun
-- **The practice of [[b/_buying|buying]] real [[e/_estate|estate]], [[m/_making|making]] [[i/_improvements|improvements]] to it, and reselling it for a [[h/_higher|higher]] price.**
+- **The [[p/_practice|practice]] of [[b/_buying|buying]] real [[e/_estate|estate]], [[m/_making|making]] [[i/_improvements|improvements]] to it, and reselling it for a [[h/_higher|higher]] price.**
 ---
 #adjective
 - **A [[m/_mild|mild]] [[i/_intensifier|intensifier]].**

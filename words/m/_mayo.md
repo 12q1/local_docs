@@ -1,7 +1,7 @@
 # Mayo
 ---
 #noun
-- **A white person.**
+- **A white [[p/_person|person]].**
 ---
 ### Synonyms
 - [[w/_whitey|whitey]]

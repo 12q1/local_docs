@@ -11,7 +11,7 @@
 	- _Example: It is normal for a boy of this age to be exploring his sexuality._
 - **To be [[e/_engaged|engaged]] [[e/_exploring|exploring]] in [[a/_any|any]] of the [[a/_above|above]] senses.**
 	- _Example: He was too busy exploring to notice his son needed his guidance._
-- **To wander without [[a/_any|any]] particular [[a/_aim|aim]] or purpose.**
+- **To wander without [[a/_any|any]] [[p/_particular|particular]] [[a/_aim|aim]] or purpose.**
 	- _Example: The boys explored all around till cold and hunger drove them back to the campfire one by one._
 - **To seek sexual variety, to sow [[o/_one|one]]'s wild [[o/_oats|oats]].**
 ---

@@ -7,21 +7,21 @@
 	- _Example: A right angle is a ninety-degree angle._
 - **A unit of [[m/_measurement|measurement]] of temperature on [[a/_any|any]] of several scales, such as [[c/_celsius|Celsius]] or [[f/_fahrenheit|Fahrenheit]].**
 	- _Example: 180 degrees Fahrenheit is equivalent to 100 degrees Celsius._
-- **The sum of the [[e/_exponents|exponents]] of a term; the [[o/_order|order]] of a polynomial.**
+- **The sum of the [[e/_exponents|exponents]] of a term; the [[o/_order|order]] of a [[p/_polynomial|polynomial]].**
 	- _Example: A quadratic polynomial is a polynomial of degree 2._
 - **The [[d/_dimensionality|dimensionality]] of a [[f/_field|field]] [[e/_extension|extension]].**
 	- _Example: The Galois field \operatorname{GF}(125) = \operatorname{GF}(5^3) has degree 3 over its subfield \operatorname{GF}(5)._
-- **The [[n/_number|number]] of [[e/_edges|edges]] that a vertex takes part in; a valency.**
+- **The [[n/_number|number]] of [[e/_edges|edges]] that a vertex takes [[p/_part|part]] in; a valency.**
 - **The [[n/_number|number]] of [[l/_logical|logical]] [[c/_connectives|connectives]] in a [[f/_formula|formula]].**
 - **The [[c/_curvature|curvature]] of a [[c/_circular|circular]] [[a/_arc|arc]], [[e/_expressed|expressed]] as the [[a/_angle|angle]] subtended by a [[f/_fixed|fixed]] [[l/_length|length]] of [[a/_arc|arc]] or [[c/_chord|chord]].**
 - **A unit of [[m/_measurement|measurement]] of [[l/_latitude|latitude]] and [[l/_longitude|longitude]] which together [[i/_identify|identify]] a [[l/_location|location]] on the [[e/_earth|Earth]]'s surface.**
-- **([[g/_grammar|grammar]]) [[a/_any|Any]] of the three stages (positive, [[c/_comparative|comparative]], superlative) in the [[c/_comparison|comparison]] of an [[a/_adjective|adjective]] or an [[a/_adverb|adverb]].**
+- **([[g/_grammar|grammar]]) [[a/_any|Any]] of the three stages ([[p/_positive|positive]], [[c/_comparative|comparative]], superlative) in the [[c/_comparison|comparison]] of an [[a/_adjective|adjective]] or an [[a/_adverb|adverb]].**
 - **([[o/_obsolete|obsolete]] [[o/_outside|outside]] [[h/_heraldry|heraldry]]) A step on a set of stairs; the rung of a [[l/_ladder|ladder]].**
 - **An [[i/_individual|individual]] step, or stage, in [[a/_any|any]] process or scale of values.**
 - **A stage of rank or privilege; social standing.**
 - **([[g/_genealogy|genealogy]]) A ‘step’ in [[g/_genealogical|genealogical]] [[d/_descent|descent]].**
 - **[[o/_one|One]]'s relative state or [[e/_experience|experience]]; way, [[m/_manner|manner]].**
-- **The [[a/_amount|amount]] that an [[e/_entity|entity]] possesses a [[c/_certain|certain]] property; relative [[i/_intensity|intensity]], [[e/_extent|extent]].**
+- **The [[a/_amount|amount]] that an [[e/_entity|entity]] [[p/_possesses|possesses]] a [[c/_certain|certain]] property; relative [[i/_intensity|intensity]], [[e/_extent|extent]].**
 	- _Example: To what degree do the two accounts of the accident concur?_
 ---
 ### Synonyms

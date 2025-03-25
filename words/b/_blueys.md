@@ -9,6 +9,6 @@
 - **A [[b/_bluebottle|bluebottle]].**
 - **A [[d/_disposable|disposable]] underpad.**
 - **A [[b/_blue|blue]] [[f/_film|film]].**
-- **A terminology from WW1 for a person with red [[h/_hair|hair]].**
+- **A terminology from WW1 for a [[p/_person|person]] with red [[h/_hair|hair]].**
 ---
 ---

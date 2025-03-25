@@ -5,6 +5,6 @@
 ---
 #adjective
 - **[[h/_having|Having]] a [[b/_branching|branching]] structure similar to a tree**
-- **Of, pertaining to or possessing [[d/_dendrites|dendrites]]**
+- **Of, [[p/_pertaining|pertaining]] to or [[p/_possessing|possessing]] [[d/_dendrites|dendrites]]**
 ---
 ---

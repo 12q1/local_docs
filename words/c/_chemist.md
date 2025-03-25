@@ -1,9 +1,9 @@
 # Chemist
 ---
 #noun
-- **A person who specializes in the science of [[c/_chemistry|chemistry]], [[e/_especially|especially]] at a professional [[l/_level|level]].**
-- **A pharmacist.**
-- **A pharmacy.**
+- **A [[p/_person|person]] who specializes in the science of [[c/_chemistry|chemistry]], [[e/_especially|especially]] at a professional [[l/_level|level]].**
+- **A [[p/_pharmacist|pharmacist]].**
+- **A [[p/_pharmacy|pharmacy]].**
 - **An [[a/_alchemist|alchemist]].**
 ---
 ### Synonyms

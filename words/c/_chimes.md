@@ -1,7 +1,7 @@
 # Chimes
 ---
 #noun
-- **A [[m/_musical|musical]] [[i/_instrument|instrument]] producing a sound when struck, similar to a [[b/_bell|bell]] ([[e/_e|e]].[[g/_g|g]]. a tubular [[m/_metal|metal]] [[b/_bar|bar]]) or [[a/_actually|actually]] a [[b/_bell|bell]]. [[o/_often|Often]] used in the plural to refer to the set: the [[c/_chimes|chimes]].**
+- **A [[m/_musical|musical]] [[i/_instrument|instrument]] producing a sound when struck, similar to a [[b/_bell|bell]] ([[e/_e|e]].[[g/_g|g]]. a tubular [[m/_metal|metal]] [[b/_bar|bar]]) or [[a/_actually|actually]] a [[b/_bell|bell]]. [[o/_often|Often]] used in the [[p/_plural|plural]] to refer to the set: the [[c/_chimes|chimes]].**
 	- _Example: Hugo was a chime player in the school orchestra._
 - **An [[i/_individual|individual]] ringing [[c/_component|component]] of such a set.**
 	- _Example: Peter removed the C♯ chime from its mounting so that he could get at the dust that had accumulated underneath._
@@ -17,7 +17,7 @@
 #verb
 - **To [[m/_make|make]] the sound of a [[c/_chime|chime]].**
 	- _Example: I got up for lunch as soon as the wall clock began chiming noon._
-- **To [[c/_cause|cause]] to sound in [[h/_harmony|harmony]]; to play a tune, as upon a set of [[b/_bells|bells]]; to [[m/_move|move]] or strike in [[h/_harmony|harmony]].**
+- **To [[c/_cause|cause]] to sound in [[h/_harmony|harmony]]; to [[p/_play|play]] a tune, as upon a set of [[b/_bells|bells]]; to [[m/_move|move]] or strike in [[h/_harmony|harmony]].**
 - **To utter [[h/_harmoniously|harmoniously]]; to recite rhythmically.**
 - **To [[a/_agree|agree]]; to [[c/_correspond|correspond]].**
 	- _Example: The other lab's results chimed with mine, so I knew we were on the right track with the research._
@@ -26,7 +26,7 @@
 #noun
 - **The top of a ridge.**
 - **The spine of an [[a/_animal|animal]].**
-- **A piece of the [[b/_backbone|backbone]] of an [[a/_animal|animal]], with the [[a/_adjoining|adjoining]] parts, [[c/_cut|cut]] for [[c/_cooking|cooking]].**
+- **A [[p/_piece|piece]] of the [[b/_backbone|backbone]] of an [[a/_animal|animal]], with the [[a/_adjoining|adjoining]] [[p/_parts|parts]], [[c/_cut|cut]] for [[c/_cooking|cooking]].**
 - **A sharp [[a/_angle|angle]] in the [[c/_cross|cross]] section of a [[h/_hull|hull]].**
 - **A [[h/_hollowed|hollowed]] or [[b/_bevelled|bevelled]] [[c/_channel|channel]] in the waterway of a ship's [[d/_deck|deck]].**
 - **The [[e/_edge|edge]] or rim of a [[c/_cask|cask]], [[e/_etc|etc]]., [[f/_formed|formed]] by the projecting [[e/_ends|ends]] of the staves; the [[c/_chamfered|chamfered]] [[e/_end|end]] of a stave.**

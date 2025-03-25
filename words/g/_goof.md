@@ -3,7 +3,7 @@
 #noun
 - **A [[m/_mistake|mistake]] or [[e/_error|error]].**
 	- _Example: I made a goof in that last calculation._
-- **A [[f/_foolish|foolish]] and/or silly person; a [[g/_goofball|goofball]].**
+- **A [[f/_foolish|foolish]] and/or silly [[p/_person|person]]; a [[g/_goofball|goofball]].**
 	- _Example: Your little brother is a total goof._
 - **A [[c/_child|child]] [[m/_molester|molester]].**
 ---

@@ -8,6 +8,6 @@
 #verb
 - **To [[a/_abscond|abscond]], scram, [[f/_flee|flee]].**
 - **To [[y/_yield|yield]].**
-- **To [[m/_muddle|muddle]] or [[c/_confuse|confuse]]. (Probably from a [[m/_misreading|misreading]] of past tense/participle [[m/_misled|misled]].)**
+- **To [[m/_muddle|muddle]] or [[c/_confuse|confuse]]. (Probably from a [[m/_misreading|misreading]] of [[p/_past|past]] tense/[[p/_participle|participle]] [[m/_misled|misled]].)**
 ---
 ---

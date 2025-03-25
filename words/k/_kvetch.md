@@ -1,7 +1,7 @@
 # Kvetch
 ---
 #noun
-- **A person who [[e/_endlessly|endlessly]] whines or [[c/_complains|complains]]; a person who [[f/_finds|finds]] [[f/_fault|fault]] with [[a/_anything|anything]].**
+- **A [[p/_person|person]] who [[e/_endlessly|endlessly]] whines or [[c/_complains|complains]]; a [[p/_person|person]] who [[f/_finds|finds]] [[f/_fault|fault]] with [[a/_anything|anything]].**
 - **An [[i/_instance|instance]] of [[k/_kvetching|kvetching]]; a [[c/_complaint|complaint]] or whine.**
 ---
 ### Synonyms

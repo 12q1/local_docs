@@ -1,9 +1,9 @@
 # Fake
 ---
 #noun
-- **Something which is not [[g/_genuine|genuine]], or is presented [[f/_fraudulently|fraudulently]].**
+- **Something which is not [[g/_genuine|genuine]], or is [[p/_presented|presented]] [[f/_fraudulently|fraudulently]].**
 - **A trick; a swindle.**
-- **A [[m/_move|move]] [[m/_meant|meant]] to [[d/_deceive|deceive]] an [[o/_opposing|opposing]] player, used for [[g/_gaining|gaining]] [[a/_advantage|advantage]] for [[e/_example|example]] when [[d/_dribbling|dribbling]] an [[o/_opponent|opponent]].**
+- **A [[m/_move|move]] [[m/_meant|meant]] to [[d/_deceive|deceive]] an [[o/_opposing|opposing]] [[p/_player|player]], used for [[g/_gaining|gaining]] [[a/_advantage|advantage]] for [[e/_example|example]] when [[d/_dribbling|dribbling]] an [[o/_opponent|opponent]].**
 ---
 ### Synonyms
 - [[d/_deke|deke]], [[f/_feint|feint]]
@@ -19,7 +19,7 @@
 #adjective
 - **Not real; [[f/_false|false]], [[f/_fraudulent|fraudulent]].**
 	- _Example: Which fur coat looks fake?_
-- **(of people) [[i/_insincere|Insincere]].**
+- **(of [[p/_people|people]]) [[i/_insincere|Insincere]].**
 ---
 ### Antonyms
 - [[a/_authentic|authentic]], [[g/_genuine|genuine]]

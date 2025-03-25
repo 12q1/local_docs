@@ -1,7 +1,7 @@
 # Currying
 ---
 #verb
-- **To [[c/_cook|cook]] or season with [[c/_curry|curry]] powder.**
+- **To [[c/_cook|cook]] or season with [[c/_curry|curry]] [[p/_powder|powder]].**
 ---
 #verb
 - **To [[g/_groom|groom]] (a [[h/_horse|horse]]); to [[d/_dress|dress]] or rub [[d/_down|down]] a [[h/_horse|horse]] with a [[c/_curry|curry]] [[c/_comb|comb]].**
@@ -10,7 +10,7 @@
 - **To try to win or [[g/_gain|gain]] ([[f/_favour|favour]]) by [[f/_flattering|flattering]].**
 ---
 #verb
-- **To perform [[c/_currying|currying]] upon.**
+- **To [[p/_perform|perform]] [[c/_currying|currying]] upon.**
 ---
 #verb
 - **To scurry; to ride or run [[h/_hastily|hastily]]**

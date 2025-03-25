@@ -6,6 +6,6 @@
 ### Synonyms
 - [[a/_allumette|allumette]]
 #verb
-- **To prepare by [[c/_cutting|cutting]] in this way.**
+- **To [[p/_prepare|prepare]] by [[c/_cutting|cutting]] in this way.**
 ---
 ---

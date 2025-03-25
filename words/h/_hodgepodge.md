@@ -3,11 +3,11 @@
 #noun
 - **A [[h/_hotchpotch|hotchpotch]]; a [[c/_collection|collection]] [[c/_containing|containing]] a variety of [[m/_miscellaneous|miscellaneous]] things.**
 	- _Example: His latest sculpture is a hodgepodge of kitchen clutter and scrap glued together._
-- **A [[c/_confused|confused]] [[m/_mass|mass]] of [[i/_ingredients|ingredients]] shaken or [[m/_mixed|mixed]] together in the same pot.**
+- **A [[c/_confused|confused]] [[m/_mass|mass]] of [[i/_ingredients|ingredients]] shaken or [[m/_mixed|mixed]] together in the same [[p/_pot|pot]].**
 ---
 ### Synonyms
 - [[f/_farrago|farrago]], [[m/_melange|melange]], [[m/_mishmash|mishmash]]
 #verb
-- **To [[m/_move|move]] or position in an [[e/_erratic|erratic]], [[d/_disorganised|disorganised]] [[m/_manner|manner]].**
+- **To [[m/_move|move]] or [[p/_position|position]] in an [[e/_erratic|erratic]], [[d/_disorganised|disorganised]] [[m/_manner|manner]].**
 ---
 ---

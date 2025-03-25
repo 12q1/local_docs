@@ -1,8 +1,8 @@
 # Graves
 ---
 #noun
-- **An [[e/_excavation|excavation]] in the [[e/_earth|earth]] as a place of [[b/_burial|burial]]**
-- **[[a/_any|Any]] place of [[i/_interment|interment]]; a tomb; a sepulcher.**
+- **An [[e/_excavation|excavation]] in the [[e/_earth|earth]] as a [[p/_place|place]] of [[b/_burial|burial]]**
+- **[[a/_any|Any]] [[p/_place|place]] of [[i/_interment|interment]]; a tomb; a sepulcher.**
 - **(by [[e/_extension|extension]]) [[d/_death|Death]], [[d/_destruction|destruction]].**
 ---
 #verb
@@ -12,15 +12,15 @@
 	- _Example: to grave an image_
 - **To [[i/_impress|impress]] [[d/_deeply|deeply]] (on the [[m/_mind|mind]]); to [[f/_fix|fix]] [[i/_indelibly|indelibly]].**
 - **To [[e/_entomb|entomb]]; to [[b/_bury|bury]].**
-- **To write or [[d/_delineate|delineate]] on [[h/_hard|hard]] substances, by [[m/_means|means]] of [[i/_incised|incised]] [[l/_lines|lines]]; to practice [[e/_engraving|engraving]].**
+- **To write or [[d/_delineate|delineate]] on [[h/_hard|hard]] substances, by [[m/_means|means]] of [[i/_incised|incised]] [[l/_lines|lines]]; to [[p/_practice|practice]] [[e/_engraving|engraving]].**
 ---
 #noun
 - **A written [[a/_accent|accent]] used in [[f/_french|French]], [[i/_italian|Italian]], and [[o/_other|other]] [[l/_languages|languages]]. è is an [[e/_e|e]] with a [[g/_grave|grave]] [[a/_accent|accent]] (`).**
 ---
 #noun
-- **A [[c/_count|count]], prefect, or person [[h/_holding|holding]] [[o/_office|office]].**
+- **A [[c/_count|count]], [[p/_prefect|prefect]], or [[p/_person|person]] [[h/_holding|holding]] [[o/_office|office]].**
 ---
 #verb
-- **To [[c/_clean|clean]], as a vessel's [[b/_bottom|bottom]], of [[b/_barnacles|barnacles]], [[g/_grass|grass]], [[e/_etc|etc]]., and [[p/_pay|pay]] it [[o/_over|over]] with pitch — so [[c/_called|called]] [[b/_because|because]] [[g/_graves|graves]] or [[g/_greaves|greaves]] was [[f/_formerly|formerly]] used for this purpose.**
+- **To [[c/_clean|clean]], as a vessel's [[b/_bottom|bottom]], of [[b/_barnacles|barnacles]], [[g/_grass|grass]], [[e/_etc|etc]]., and [[p/_pay|pay]] it [[o/_over|over]] with [[p/_pitch|pitch]] — so [[c/_called|called]] [[b/_because|because]] [[g/_graves|graves]] or [[g/_greaves|greaves]] was [[f/_formerly|formerly]] used for this purpose.**
 ---
 ---

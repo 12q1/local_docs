@@ -1,7 +1,7 @@
 # Extramarital
 ---
 #adjective
-- **Taking place [[o/_outside|outside]] [[m/_marriage|marriage]].**
+- **Taking [[p/_place|place]] [[o/_outside|outside]] [[m/_marriage|marriage]].**
 - **[[a/_adulterous|Adulterous]].**
 ---
 ### Synonyms

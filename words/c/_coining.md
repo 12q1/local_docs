@@ -10,8 +10,8 @@
 ### Synonyms
 - [[i/_invent|invent]], [[o/_originate|originate]], [[m/_manufacture|manufacture]], [[m/_mint|mint]]
 #noun
-- **A [[f/_form|form]] of [[a/_alternative|alternative]] [[m/_medicine|medicine]] from Southeast [[a/_asia|Asia]] where a [[c/_coin|coin]] is rubbed vigorously on a patient's [[o/_oiled|oiled]] skin.**
-- **A [[c/_created|created]] word or phrase.**
+- **A [[f/_form|form]] of [[a/_alternative|alternative]] [[m/_medicine|medicine]] from Southeast [[a/_asia|Asia]] where a [[c/_coin|coin]] is rubbed vigorously on a [[p/_patient|patient]]'s [[o/_oiled|oiled]] skin.**
+- **A [[c/_created|created]] word or [[p/_phrase|phrase]].**
 ---
 ### Synonyms
 - [[c/_coinage|coinage]], [[n/_neologism|neologism]], [[k/_kerokan|kerokan]]

@@ -1,10 +1,10 @@
 # Closing
 ---
 #verb
-- **(physical) To remove a [[g/_gap|gap]].**
+- **([[p/_physical|physical]]) To remove a [[g/_gap|gap]].**
 - **(social) To [[f/_finish|finish]], to terminate.**
 - **To [[c/_come|come]] or [[g/_gather|gather]] [[a/_around|around]]; to [[e/_enclose|enclose]]; to [[e/_encompass|encompass]]; to [[c/_confine|confine]].**
-- **To [[h/_have|have]] a vector sum of 0; that is, to [[f/_form|form]] a [[c/_closed|closed]] polygon.**
+- **To [[h/_have|have]] a vector sum of 0; that is, to [[f/_form|form]] a [[c/_closed|closed]] [[p/_polygon|polygon]].**
 ---
 ### Synonyms
 - [[n/_narrow|narrow]], [[s/_shut|shut]], [[c/_cover|cover]], [[s/_shut|shut]], [[e/_end|end]], [[f/_finish|finish]], [[t/_terminate|terminate]], [[e/_exit|exit]]
@@ -19,7 +19,7 @@
 - **In [[m/_morphology|morphology]], the [[e/_erosion|erosion]] of the [[d/_dilation|dilation]] of a set.**
 ---
 #adjective
-- **Pertaining to the [[f/_finish|finish]] or [[e/_ending|ending]] of a series of [[e/_events|events]]; [[o/_occurring|occurring]] at the [[e/_end|end]] or [[a/_after|after]] [[a/_all|all]] [[o/_others|others]].**
+- **[[p/_pertaining|Pertaining]] to the [[f/_finish|finish]] or [[e/_ending|ending]] of a series of [[e/_events|events]]; [[o/_occurring|occurring]] at the [[e/_end|end]] or [[a/_after|after]] [[a/_all|all]] [[o/_others|others]].**
 	- _Example: I'd like to add some closing words._
 ---
 ---

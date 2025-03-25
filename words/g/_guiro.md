@@ -1,7 +1,7 @@
 # Guiro
 ---
 #noun
-- **A [[m/_musical|musical]] [[i/_instrument|instrument]], a shaker, [[m/_made|made]] of a [[h/_hollow|hollow]] [[g/_gourd|gourd]] with parallel [[n/_notches|notches]] [[c/_cut|cut]] in [[o/_one|one]] side, and played by rubbing a stick or scraper ("pua") [[a/_along|along]] the [[n/_notches|notches]] to produce a ratchet-[[l/_like|like]] sound.**
+- **A [[m/_musical|musical]] [[i/_instrument|instrument]], a shaker, [[m/_made|made]] of a [[h/_hollow|hollow]] [[g/_gourd|gourd]] with [[p/_parallel|parallel]] [[n/_notches|notches]] [[c/_cut|cut]] in [[o/_one|one]] side, and [[p/_played|played]] by rubbing a stick or scraper ("pua") [[a/_along|along]] the [[n/_notches|notches]] to produce a ratchet-[[l/_like|like]] sound.**
 - **A [[g/_genre|genre]] of traditional [[c/_cuban|Cuban]] [[m/_music|music]], used in santería rituals.**
 ---
 ### Synonyms

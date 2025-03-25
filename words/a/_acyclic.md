@@ -3,7 +3,7 @@
 #adjective
 - **Not [[c/_cyclic|cyclic]]; [[h/_having|having]] an [[o/_open|open]] [[c/_chain|chain]] structure.**
 - **(of a [[g/_graph|graph]]) [[c/_containing|Containing]] [[n/_no|no]] [[c/_cycles|cycles]].**
-- **Of a [[f/_flower|flower]], [[h/_having|having]] [[i/_its|its]] parts [[i/_inserted|inserted]] spirally on the receptacle.**
+- **Of a [[f/_flower|flower]], [[h/_having|having]] [[i/_its|its]] [[p/_parts|parts]] [[i/_inserted|inserted]] spirally on the receptacle.**
 ---
 ### Antonyms
 - [[c/_cyclic|cyclic]]

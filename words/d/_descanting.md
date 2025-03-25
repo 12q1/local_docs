@@ -2,6 +2,6 @@
 ---
 #verb
 - **To [[d/_discuss|discuss]] at [[l/_length|length]].**
-- **To sing or play a [[d/_descant|descant]].**
+- **To sing or [[p/_play|play]] a [[d/_descant|descant]].**
 ---
 ---

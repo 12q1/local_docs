@@ -1,6 +1,6 @@
 # Methodological
 ---
 #adjective
-- **Of, pertaining to, or using [[m/_methodology|methodology]]**
+- **Of, [[p/_pertaining|pertaining]] to, or using [[m/_methodology|methodology]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Nonmetal
 ---
 #noun
-- **An [[e/_element|element]], such as phosphorus or [[c/_chlorine|chlorine]], that [[d/_does|does]] not [[h/_have|have]] the [[c/_chemical|chemical]] or physical properties of a [[m/_metal|metal]].**
+- **An [[e/_element|element]], such as [[p/_phosphorus|phosphorus]] or [[c/_chlorine|chlorine]], that [[d/_does|does]] not [[h/_have|have]] the [[c/_chemical|chemical]] or [[p/_physical|physical]] properties of a [[m/_metal|metal]].**
 ---
 ---

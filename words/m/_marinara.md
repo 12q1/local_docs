@@ -4,7 +4,7 @@
 - **A [[m/_marinara|marinara]] sauce.**
 ---
 #adjective
-- **Prepared with tomatoes, or in a tomato sauce.**
-- **Of pasta: In a seafood sauce. Of pizza: With seafood topping.**
+- **[[p/_prepared|Prepared]] with tomatoes, or in a tomato sauce.**
+- **Of [[p/_pasta|pasta]]: In a seafood sauce. Of [[p/_pizza|pizza]]: With seafood topping.**
 ---
 ---

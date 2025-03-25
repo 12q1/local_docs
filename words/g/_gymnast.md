@@ -1,6 +1,6 @@
 # Gymnast
 ---
 #noun
-- **[[o/_one|One]] who performs [[g/_gymnastics|gymnastics]]**
+- **[[o/_one|One]] who [[p/_performs|performs]] [[g/_gymnastics|gymnastics]]**
 ---
 ---

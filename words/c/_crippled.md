@@ -1,7 +1,7 @@
 # Crippled
 ---
 #verb
-- **To [[m/_make|make]] someone a [[c/_cripple|cripple]]; to [[c/_cause|cause]] someone to [[b/_become|become]] physically [[i/_impaired|impaired]]**
+- **To [[m/_make|make]] someone a [[c/_cripple|cripple]]; to [[c/_cause|cause]] someone to [[b/_become|become]] [[p/_physically|physically]] [[i/_impaired|impaired]]**
 	- _Example: The car bomb crippled five passers-by._
 - **To [[d/_damage|damage]] seriously; to [[d/_destroy|destroy]]**
 	- _Example: My ambitions were crippled by a lack of money._

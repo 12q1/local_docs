@@ -1,6 +1,6 @@
 # Exequial
 ---
 #adjective
-- **Of or pertaining to [[f/_funerals|funerals]]; [[f/_funereal|funereal]].**
+- **Of or [[p/_pertaining|pertaining]] to [[f/_funerals|funerals]]; [[f/_funereal|funereal]].**
 ---
 ---

@@ -7,11 +7,11 @@
 ### Synonyms
 - [[c/_cel|cel]], [[v/_volcel|volcel]]
 #verb
-- **To practice [[c/_celibacy|celibacy]]**
+- **To [[p/_practice|practice]] [[c/_celibacy|celibacy]]**
 ---
 #adjective
 - **Not [[m/_married|married]].**
-- **(by [[e/_extension|extension]]) [[a/_abstaining|Abstaining]] from sexual relations and pleasures.**
+- **(by [[e/_extension|extension]]) [[a/_abstaining|Abstaining]] from sexual relations and [[p/_pleasures|pleasures]].**
 	- _Example: Members of religious communities sometimes take vows to remain celibate._
 ---
 ### Synonyms

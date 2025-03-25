@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[l/_lose|lose]] strength and [[b/_become|become]] weak; to be in a state of weakness or sickness.**
-- **To pine [[a/_away|away]] in [[l/_longing|longing]] for something; to [[h/_have|have]] [[l/_low|low]] spirits, [[e/_especially|especially]] from [[l/_lovesickness|lovesickness]].**
+- **To [[p/_pine|pine]] [[a/_away|away]] in [[l/_longing|longing]] for something; to [[h/_have|have]] [[l/_low|low]] spirits, [[e/_especially|especially]] from [[l/_lovesickness|lovesickness]].**
 	- _Example: He languished without his girlfriend_
 - **To [[l/_live|live]] in [[m/_miserable|miserable]] or [[d/_disheartening|disheartening]] [[c/_conditions|conditions]].**
 	- _Example: He languished in prison for years_

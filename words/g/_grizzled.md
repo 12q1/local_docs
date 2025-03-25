@@ -10,7 +10,7 @@
 ---
 #adjective
 - **[[g/_greyed|Greyed]], [[o/_old|old]]**
-- **[[g/_grey|Grey]] or partly [[g/_grey|grey]]**
+- **[[g/_grey|Grey]] or [[p/_partly|partly]] [[g/_grey|grey]]**
 - **Streaked or [[m/_mixed|mixed]] with [[g/_grey|grey]]; [[g/_grizzly|grizzly]]; [[g/_griseous|griseous]]**
 ---
 ### Synonyms

@@ -1,10 +1,10 @@
 # Abbreviates
 ---
 #verb
-- **To shorten by [[o/_omitting|omitting]] parts or [[d/_details|details]].**
+- **To shorten by [[o/_omitting|omitting]] [[p/_parts|parts]] or [[d/_details|details]].**
 - **To speak or write in a [[b/_brief|brief]] [[m/_manner|manner]].**
-- **To [[m/_make|make]] shorter; to shorten (in time); to [[a/_abridge|abridge]]; to shorten by [[e/_ending|ending]] sooner than planned.**
-- **To reduce a word or phrase by [[m/_means|means]] of [[c/_contraction|contraction]] or [[o/_omission|omission]] to a shorter recognizable [[f/_form|form]].**
+- **To [[m/_make|make]] shorter; to shorten (in time); to [[a/_abridge|abridge]]; to shorten by [[e/_ending|ending]] sooner than [[p/_planned|planned]].**
+- **To reduce a word or [[p/_phrase|phrase]] by [[m/_means|means]] of [[c/_contraction|contraction]] or [[o/_omission|omission]] to a shorter recognizable [[f/_form|form]].**
 - **To reduce to [[l/_lower|lower]] terms, as a [[f/_fraction|fraction]].**
 ---
 ### Synonyms

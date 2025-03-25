@@ -1,15 +1,15 @@
 # Graces
 ---
 #noun
-- **[[c/_charming|Charming]], pleasing qualities.**
+- **[[c/_charming|Charming]], [[p/_pleasing|pleasing]] qualities.**
 	- _Example: The Princess brought grace to an otherwise dull and boring party._
-- **A short prayer of thanks [[b/_before|before]] or [[a/_after|after]] a [[m/_meal|meal]].**
+- **A short [[p/_prayer|prayer]] of thanks [[b/_before|before]] or [[a/_after|after]] a [[m/_meal|meal]].**
 	- _Example: It has become less common to say grace before having dinner._
-- **In the [[g/_games|games]] of patience or solitaire: a special [[m/_move|move]] that is [[n/_normally|normally]] [[a/_against|against]] the rules.**
+- **In the [[g/_games|games]] of [[p/_patience|patience]] or solitaire: a special [[m/_move|move]] that is [[n/_normally|normally]] [[a/_against|against]] the rules.**
 - **A [[g/_grace|grace]] [[n/_note|note]].**
-- **[[e/_elegant|Elegant]] [[m/_movement|movement]]; [[b/_balance|balance]] or poise.**
+- **[[e/_elegant|Elegant]] [[m/_movement|movement]]; [[b/_balance|balance]] or [[p/_poise|poise]].**
 	- _Example: The dancer moved with grace and strength._
-- **An [[a/_allowance|allowance]] of time [[g/_granted|granted]] to a [[d/_debtor|debtor]] [[d/_during|during]] which [[h/_he|he]] or she is [[f/_free|free]] of at [[l/_least|least]] part of [[h/_his|his]] [[n/_normal|normal]] [[o/_obligations|obligations]] towards the [[c/_creditor|creditor]].**
+- **An [[a/_allowance|allowance]] of time [[g/_granted|granted]] to a [[d/_debtor|debtor]] [[d/_during|during]] which [[h/_he|he]] or she is [[f/_free|free]] of at [[l/_least|least]] [[p/_part|part]] of [[h/_his|his]] [[n/_normal|normal]] [[o/_obligations|obligations]] towards the [[c/_creditor|creditor]].**
 	- _Example: The repayment of the loan starts after a three-year grace._
 - **[[f/_free|Free]] and undeserved [[f/_favour|favour]], [[e/_especially|especially]] of [[g/_god|God]]; unmerited [[d/_divine|divine]] [[a/_assistance|assistance]] [[g/_given|given]] to [[h/_humans|humans]] for their regeneration or sanctification, or for resisting sin.**
 	- _Example: I’m so grateful to God for the grace that He has given me._

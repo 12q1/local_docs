@@ -7,8 +7,8 @@
 #noun
 - **A [[f/_fit|fit]] of temper; a tantrum**
 	- _Example: throw a paddy etc._
-- **A white person.**
+- **A white [[p/_person|person]].**
 - **A [[l/_labourer|labourer]]'s [[a/_assistant|assistant]] or workmate.**
-- **A [[d/_drill|drill]] used in [[b/_boring|boring]] wells, with [[c/_cutters|cutters]] that [[e/_expand|expand]] on pressure.**
+- **A [[d/_drill|drill]] used in [[b/_boring|boring]] wells, with [[c/_cutters|cutters]] that [[e/_expand|expand]] on [[p/_pressure|pressure]].**
 ---
 ---

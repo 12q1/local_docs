@@ -1,7 +1,7 @@
 # Malefic
 ---
 #noun
-- **A [[m/_malefic|malefic]] planet**
+- **A [[m/_malefic|malefic]] [[p/_planet|planet]]**
 ---
 ### Antonyms
 - [[b/_benefic|benefic]]

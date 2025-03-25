@@ -7,7 +7,7 @@
 	- _Example: Some people like to efface their own memories with alcohol._
 - **To [[m/_make|make]] [[o/_oneself|oneself]] [[i/_inobtrusive|inobtrusive]] as [[i/_if|if]] [[d/_due|due]] to [[m/_modesty|modesty]] or [[d/_diffidence|diffidence]].**
 	- _Example: Many people seem shy, but they really just efface for meekness._
-- **Of the [[c/_cervix|cervix]] [[d/_during|during]] pregnancy, to thin and stretch in preparation for [[l/_labor|labor]].**
+- **Of the [[c/_cervix|cervix]] [[d/_during|during]] [[p/_pregnancy|pregnancy]], to thin and stretch in [[p/_preparation|preparation]] for [[l/_labor|labor]].**
 	- _Example: Some females efface 75% by the 39th week of pregnancy._
 ---
 ---

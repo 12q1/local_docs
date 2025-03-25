@@ -1,6 +1,6 @@
 # Achar
 ---
 #noun
-- **A spicy and salty pickle in [[i/_indian|Indian]] [[c/_cuisine|cuisine]].**
+- **A spicy and salty [[p/_pickle|pickle]] in [[i/_indian|Indian]] [[c/_cuisine|cuisine]].**
 ---
 ---

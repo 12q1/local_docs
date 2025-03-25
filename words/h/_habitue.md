@@ -1,7 +1,7 @@
 # Habitue
 ---
 #noun
-- **[[o/_one|One]] who [[f/_frequents|frequents]] a place.**
+- **[[o/_one|One]] who [[f/_frequents|frequents]] a [[p/_place|place]].**
 	- _Example: A month ago the new smoking ban turned thousands of bar-room habitués into reluctant exiles from their usual corner seat._
 - **A [[d/_devotee|devotee]].**
 ---

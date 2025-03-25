@@ -10,8 +10,8 @@
 	- _Example: The writ has abated._
 - **To [[n/_nullify|nullify]]; [[m/_make|make]] void.**
 	- _Example: to abate a writ_
-- **To [[h/_humble|humble]]; to [[l/_lower|lower]] in status; to [[b/_bring|bring]] someone [[d/_down|down]] physically or [[m/_mentally|mentally]].**
-- **To be [[h/_humbled|humbled]]; to be [[b/_brought|brought]] [[d/_down|down]] physically or [[m/_mentally|mentally]].**
+- **To [[h/_humble|humble]]; to [[l/_lower|lower]] in status; to [[b/_bring|bring]] someone [[d/_down|down]] [[p/_physically|physically]] or [[m/_mentally|mentally]].**
+- **To be [[h/_humbled|humbled]]; to be [[b/_brought|brought]] [[d/_down|down]] [[p/_physically|physically]] or [[m/_mentally|mentally]].**
 - **To [[c/_curtail|curtail]]; to [[d/_deprive|deprive]].**
 	- _Example: Order restrictions and prohibitions to abate an emergency situation._
 - **To reduce in [[a/_amount|amount]], size, or value.**
@@ -23,7 +23,7 @@
 	- _Example: We will abate this price from the total._
 - **To [[b/_bar|bar]] or [[e/_except|except]].**
 - **To [[c/_cut|cut]] [[a/_away|away]] or [[h/_hammer|hammer]] [[d/_down|down]], in such a way as to [[l/_leave|leave]] a [[f/_figure|figure]] in relief, as a sculpture, or in [[m/_metalwork|metalwork]].**
-- **To [[d/_dull|dull]] the [[e/_edge|edge]] or point of; to [[b/_blunt|blunt]].**
+- **To [[d/_dull|dull]] the [[e/_edge|edge]] or [[p/_point|point]] of; to [[b/_blunt|blunt]].**
 - **To [[d/_destroy|destroy]], or [[l/_level|level]] to the [[g/_ground|ground]].**
 ---
 ### Synonyms

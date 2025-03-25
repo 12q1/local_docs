@@ -8,6 +8,6 @@
 ### Synonyms
 - [[n/_nape|nape]], [[n/_nucha|nucha]]
 #adjective
-- **Of or pertaining to the [[b/_back|back]] or [[n/_nape|nape]] of the [[n/_neck|neck]].**
+- **Of or [[p/_pertaining|pertaining]] to the [[b/_back|back]] or [[n/_nape|nape]] of the [[n/_neck|neck]].**
 ---
 ---

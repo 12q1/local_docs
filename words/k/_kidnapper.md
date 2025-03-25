@@ -1,6 +1,6 @@
 # Kidnapper
 ---
 #noun
-- **A person who [[k/_kidnaps|kidnaps]] someone.**
+- **A [[p/_person|person]] who [[k/_kidnaps|kidnaps]] someone.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Navigational
 ---
 #adjective
-- **Pertaining to [[n/_navigation|navigation]].**
+- **[[p/_pertaining|Pertaining]] to [[n/_navigation|navigation]].**
 ---
 ---

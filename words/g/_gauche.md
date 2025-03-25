@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[a/_awkward|Awkward]] or [[l/_lacking|lacking]] in social [[g/_graces|graces]]; [[b/_bumbling|bumbling]].**
-- **Skewed, not plane.**
+- **Skewed, not [[p/_plane|plane]].**
 - **[[d/_describing|Describing]] a torsion [[a/_angle|angle]] of 60°.**
 ---
 ### Synonyms

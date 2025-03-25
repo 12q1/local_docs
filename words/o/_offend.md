@@ -5,7 +5,7 @@
 	- _Example: Your accusations offend me deeply._
 - **To [[f/_feel|feel]] or [[b/_become|become]] [[o/_offended|offended]]; to take [[i/_insult|insult]].**
 	- _Example: Don't worry. I don't offend easily._
-- **To physically [[h/_harm|harm]], [[p/_pain|pain]].**
+- **To [[p/_physically|physically]] [[h/_harm|harm]], [[p/_pain|pain]].**
 	- _Example: Strong light offends the eye._
 - **To [[a/_annoy|annoy]], [[c/_cause|cause]] [[d/_discomfort|discomfort]] or resent.**
 	- _Example: Physically enjoyable frivolity can still offend the conscience_

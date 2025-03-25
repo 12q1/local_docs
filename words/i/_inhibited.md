@@ -5,6 +5,6 @@
 - **To recuse.**
 ---
 #adjective
-- **(of a person) Reserved or repressed, prone to quiet, [[i/_inexpressive|inexpressive]] [[b/_behavior|behavior]].**
+- **(of a [[p/_person|person]]) Reserved or repressed, prone to quiet, [[i/_inexpressive|inexpressive]] [[b/_behavior|behavior]].**
 ---
 ---

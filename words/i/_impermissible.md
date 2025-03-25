@@ -1,6 +1,6 @@
 # Impermissible
 ---
 #adjective
-- **Not permissible; not to be permitted or [[a/_allowed|allowed]]**
+- **Not [[p/_permissible|permissible]]; not to be [[p/_permitted|permitted]] or [[a/_allowed|allowed]]**
 ---
 ---

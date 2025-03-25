@@ -1,7 +1,7 @@
 # First
 ---
 #noun
-- **The person or thing in the [[f/_first|first]] position.**
+- **The [[p/_person|person]] or thing in the [[f/_first|first]] [[p/_position|position]].**
 	- _Example: He was the first to complete the course._
 - **The [[f/_first|first]] [[g/_gear|gear]] of an [[e/_engine|engine]].**
 - **Something that [[h/_has|has]] [[n/_never|never]] [[h/_happened|happened]] [[b/_before|before]]; a [[n/_new|new]] [[o/_occurrence|occurrence]].**
@@ -14,7 +14,7 @@
 	- _Example: one forty-first of the estate_
 ---
 #adjective
-- **Preceding [[a/_all|all]] [[o/_others|others]] of a series or [[k/_kind|kind]]; the [[o/_ordinal|ordinal]] of [[o/_one|one]]; [[e/_earliest|earliest]].**
+- **[[p/_preceding|Preceding]] [[a/_all|all]] [[o/_others|others]] of a series or [[k/_kind|kind]]; the [[o/_ordinal|ordinal]] of [[o/_one|one]]; [[e/_earliest|earliest]].**
 	- _Example: I was the first runner to reach the finish line, and won the race._
 - **[[m/_most|Most]] [[e/_eminent|eminent]] or [[e/_exalted|exalted]]; [[m/_most|most]] [[e/_excellent|excellent]]; [[c/_chief|chief]]; [[h/_highest|highest]].**
 	- _Example: Demosthenes was the first orator of Greece._

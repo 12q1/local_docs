@@ -1,7 +1,7 @@
 # Funfair
 ---
 #noun
-- **A travelling [[a/_amusement|amusement]] park.**
+- **A travelling [[a/_amusement|amusement]] [[p/_park|park]].**
 ---
 ### Synonyms
 - [[c/_carnival|carnival]]

@@ -12,6 +12,6 @@
 - **Sparkling with wit; [[l/_lively|lively]]; vivacious; [[c/_cheerful|cheerful]].**
 - **[[i/_illustrious|Illustrious]]; [[g/_glorious|glorious]].**
 - **[[c/_clear|Clear]]; transparent.**
-- **[[m/_manifest|Manifest]] to the [[m/_mind|mind]], as [[l/_light|light]] is to the [[e/_eyes|eyes]]; [[c/_clear|clear]]; [[e/_evident|evident]]; plain.**
+- **[[m/_manifest|Manifest]] to the [[m/_mind|mind]], as [[l/_light|light]] is to the [[e/_eyes|eyes]]; [[c/_clear|clear]]; [[e/_evident|evident]]; [[p/_plain|plain]].**
 ---
 ---

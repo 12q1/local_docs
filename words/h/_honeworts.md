@@ -1,6 +1,6 @@
 # Honeworts
 ---
 #noun
-- **[[e/_either|Either]] of two plants of the [[f/_family|family]] Umbelliferae.**
+- **[[e/_either|Either]] of two [[p/_plants|plants]] of the [[f/_family|family]] Umbelliferae.**
 ---
 ---

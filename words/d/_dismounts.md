@@ -1,7 +1,7 @@
 # Dismounts
 ---
 #noun
-- **The part of a routine in which the [[g/_gymnast|gymnast]] [[d/_detaches|detaches]] from an [[a/_apparatus|apparatus]].**
+- **The [[p/_part|part]] of a routine in which the [[g/_gymnast|gymnast]] [[d/_detaches|detaches]] from an [[a/_apparatus|apparatus]].**
 	- _Example: It was a stylish routine, let down by a sloppy dismount._
 ---
 #verb

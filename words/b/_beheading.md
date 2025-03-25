@@ -6,7 +6,7 @@
 ### Synonyms
 - [[d/_decapitate|decapitate]], [[d/_decollate|decollate]]
 #noun
-- **An [[i/_instance|instance]] of a person [[b/_being|being]] [[b/_beheaded|beheaded]].**
+- **An [[i/_instance|instance]] of a [[p/_person|person]] [[b/_being|being]] [[b/_beheaded|beheaded]].**
 	- _Example: A large crowd gathered to see the beheading._
 ---
 ### Synonyms

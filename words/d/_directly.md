@@ -5,7 +5,7 @@
 	- _Example: He drove directly to the office, and didn't stop off at the petrol station._
 - **In a straightforward way; without [[a/_anything|anything]] [[i/_intervening|intervening]]; not by secondary, but by [[d/_direct|direct]] [[m/_means|means]].**
 	- _Example: I'm sick of asking you to fire him, I'll just do it directly._
-- **Plainly, without [[c/_circumlocution|circumlocution]] or [[a/_ambiguity|ambiguity]]; [[a/_absolutely|absolutely]]; in [[e/_express|express]] terms.**
+- **[[p/_plainly|Plainly]], without [[c/_circumlocution|circumlocution]] or [[a/_ambiguity|ambiguity]]; [[a/_absolutely|absolutely]]; in [[e/_express|express]] terms.**
 	- _Example: I'm going to tell Natalie directly that I love her._
 - **[[e/_exactly|Exactly]]; [[j/_just|just]].**
 	- _Example: It's directly across the street._

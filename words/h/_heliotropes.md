@@ -1,7 +1,7 @@
 # Heliotropes
 ---
 #noun
-- **A plant that turns so that it [[f/_faces|faces]] the sun.**
+- **A [[p/_plant|plant]] that turns so that it [[f/_faces|faces]] the sun.**
 - **A [[l/_light|light]] purple or violet [[c/_colour|colour]].**
 - **The [[f/_fragrance|fragrance]] of [[h/_heliotrope|heliotrope]] [[f/_flowers|flowers]].**
 - **A [[b/_bloodstone|bloodstone]] (a variety of quartz).**

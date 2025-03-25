@@ -7,7 +7,7 @@
 	- _Example: Knowledge enlarges the mind._
 - **To speak or write at [[l/_length|length]] upon or on (some subject); [[e/_expand|expand]]; [[e/_elaborate|elaborate]]**
 - **To release; to set at [[l/_large|large]].**
-- **To [[g/_get|get]] [[m/_more|more]] [[a/_astern|astern]] or parallel with the vessel's [[c/_course|course]]; to [[d/_draw|draw]] [[a/_aft|aft]]; said of the wind.**
+- **To [[g/_get|get]] [[m/_more|more]] [[a/_astern|astern]] or [[p/_parallel|parallel]] with the vessel's [[c/_course|course]]; to [[d/_draw|draw]] [[a/_aft|aft]]; said of the wind.**
 - **To [[e/_extend|extend]] the time [[a/_allowed|allowed]] for [[c/_compliance|compliance]] with (an [[o/_order|order]] or rule).**
 ---
 ### Synonyms

@@ -1,9 +1,9 @@
 # Fakes
 ---
 #noun
-- **Something which is not [[g/_genuine|genuine]], or is presented [[f/_fraudulently|fraudulently]].**
+- **Something which is not [[g/_genuine|genuine]], or is [[p/_presented|presented]] [[f/_fraudulently|fraudulently]].**
 - **A trick; a swindle.**
-- **A [[m/_move|move]] [[m/_meant|meant]] to [[d/_deceive|deceive]] an [[o/_opposing|opposing]] player, used for [[g/_gaining|gaining]] [[a/_advantage|advantage]] for [[e/_example|example]] when [[d/_dribbling|dribbling]] an [[o/_opponent|opponent]].**
+- **A [[m/_move|move]] [[m/_meant|meant]] to [[d/_deceive|deceive]] an [[o/_opposing|opposing]] [[p/_player|player]], used for [[g/_gaining|gaining]] [[a/_advantage|advantage]] for [[e/_example|example]] when [[d/_dribbling|dribbling]] an [[o/_opponent|opponent]].**
 ---
 ### Synonyms
 - [[d/_deke|deke]], [[f/_feint|feint]]

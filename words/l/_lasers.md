@@ -9,10 +9,10 @@
 - [[L/_LASER|LASER]]
 #verb
 - **To [[c/_cut|cut]] with a [[l/_laser|laser]]**
-- **To throw with [[l/_laser|laser]]-[[l/_like|like]] precision**
+- **To throw with [[l/_laser|laser]]-[[l/_like|like]] [[p/_precision|precision]]**
 ---
 #noun
-- **A [[g/_gum|gum]] resin [[o/_obtained|obtained]] from [[c/_certain|certain]] umbelliferous plants.**
-- **Such a plant.**
+- **A [[g/_gum|gum]] resin [[o/_obtained|obtained]] from [[c/_certain|certain]] umbelliferous [[p/_plants|plants]].**
+- **Such a [[p/_plant|plant]].**
 ---
 ---

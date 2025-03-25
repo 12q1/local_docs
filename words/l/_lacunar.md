@@ -5,7 +5,7 @@
 - **A [[c/_ceiling|ceiling]] [[c/_containing|containing]] [[p/_panels|panels]] of this [[k/_kind|kind]].**
 ---
 #adjective
-- **Of or pertaining to a [[l/_lacuna|lacuna]]**
+- **Of or [[p/_pertaining|pertaining]] to a [[l/_lacuna|lacuna]]**
 ---
 ### Synonyms
 - [[l/_lacunal|lacunal]]

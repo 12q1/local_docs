@@ -1,7 +1,7 @@
 # Goad
 ---
 #noun
-- **A [[l/_long|long]], pointed stick used to prod [[a/_animals|animals]].**
+- **A [[l/_long|long]], [[p/_pointed|pointed]] stick used to prod [[a/_animals|animals]].**
 - **That which [[g/_goads|goads]] or [[i/_incites|incites]]; a stimulus.**
 ---
 #verb

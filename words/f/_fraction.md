@@ -1,7 +1,7 @@
 # Fraction
 ---
 #noun
-- **A part of a whole, [[e/_especially|especially]] a [[c/_comparatively|comparatively]] small part.**
+- **A [[p/_part|part]] of a whole, [[e/_especially|especially]] a [[c/_comparatively|comparatively]] small [[p/_part|part]].**
 - **A ratio of two [[n/_numbers|numbers]], the [[n/_numerator|numerator]] and the [[d/_denominator|denominator]], usually written [[o/_one|one]] [[a/_above|above]] the [[o/_other|other]] and separated by a [[h/_horizontal|horizontal]] [[b/_bar|bar]].**
 - **A [[c/_component|component]] of a [[m/_mixture|mixture]], separated by [[f/_fractionation|fractionation]].**
 - **In a [[e/_eucharistic|eucharistic]] service, the [[b/_breaking|breaking]] of the [[h/_host|host]].**

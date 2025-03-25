@@ -12,7 +12,7 @@
 ### Antonyms
 - [[c/_clean|clean]], [[p/_purify|purify]], [[s/_sanctify|sanctify]]
 #noun
-- **A [[n/_narrow|narrow]] way or passage, [[e/_e|e]].[[g/_g|g]]. [[b/_between|between]] [[m/_mountains|mountains]].**
+- **A [[n/_narrow|narrow]] way or [[p/_passage|passage]], [[e/_e|e]].[[g/_g|g]]. [[b/_between|between]] [[m/_mountains|mountains]].**
 - **A single [[f/_file|file]], such as of soldiers.**
 - **The [[a/_act|act]] of [[d/_defilading|defilading]] a [[f/_fortress|fortress]], or of raising the [[e/_exterior|exterior]] works in [[o/_order|order]] to protect the [[i/_interior|interior]].**
 ---

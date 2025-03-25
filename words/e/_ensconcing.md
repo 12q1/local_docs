@@ -1,7 +1,7 @@
 # Ensconcing
 ---
 #verb
-- **To place in a secure [[e/_environment|environment]].**
+- **To [[p/_place|place]] in a secure [[e/_environment|environment]].**
 - **To settle [[c/_comfortably|comfortably]].**
 ---
 ### Synonyms

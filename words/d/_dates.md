@@ -1,7 +1,7 @@
 # Dates
 ---
 #noun
-- **The [[f/_fruit|fruit]] of the [[d/_date|date]] [[p/_palm|palm]], Phoenix dactylifera, somewhat in the shape of an [[o/_olive|olive]], [[c/_containing|containing]] a soft, sweet pulp and [[e/_enclosing|enclosing]] a [[h/_hard|hard]] [[k/_kernel|kernel]].**
+- **The [[f/_fruit|fruit]] of the [[d/_date|date]] [[p/_palm|palm]], [[p/_phoenix|Phoenix]] dactylifera, somewhat in the shape of an [[o/_olive|olive]], [[c/_containing|containing]] a soft, sweet pulp and [[e/_enclosing|enclosing]] a [[h/_hard|hard]] [[k/_kernel|kernel]].**
 	- _Example: We made a nice cake from dates._
 - **The [[d/_date|date]] [[p/_palm|palm]].**
 	- _Example: There were a few dates planted around the house._
@@ -9,21 +9,21 @@
 #noun
 - **The [[a/_addition|addition]] to a writing, [[i/_inscription|inscription]], [[c/_coin|coin]], [[e/_etc|etc]]., which specifies the time ([[e/_especially|especially]] the [[d/_day|day]], [[m/_month|month]], and [[y/_year|year]]) when the writing or [[i/_inscription|inscription]] was [[g/_given|given]], [[e/_executed|executed]], or [[m/_made|made]].**
 	- _Example: the date of a letter, of a will, of a deed, of a coin, etc._
-- **A specific [[d/_day|day]] in time at which a transaction or [[e/_event|event]] takes place, or is [[a/_appointed|appointed]] to take place; a [[g/_given|given]] point of time.**
+- **A specific [[d/_day|day]] in time at which a transaction or [[e/_event|event]] takes [[p/_place|place]], or is [[a/_appointed|appointed]] to take [[p/_place|place]]; a [[g/_given|given]] [[p/_point|point]] of time.**
 	- _Example: Do you know the date of the wedding?_
-- **A point in time.**
+- **A [[p/_point|point]] in time.**
 	- _Example: You may need that at a later date._
 - **[[a/_assigned|Assigned]] [[e/_end|end]]; [[c/_conclusion|conclusion]].**
 - **[[g/_given|Given]] or [[a/_assigned|assigned]] [[l/_length|length]] of [[l/_life|life]]; [[d/_duration|duration]].**
-- **A pre-[[a/_arranged|arranged]] [[m/_meeting|meeting]].**
+- **A [[p/_pre|pre]]-[[a/_arranged|arranged]] [[m/_meeting|meeting]].**
 	- _Example: I arranged a date with my Australian business partners._
 - **[[o/_one|One]]'s [[c/_companion|companion]] for social [[a/_activities|activities]] or [[o/_occasions|occasions]].**
 	- _Example: I brought Melinda to the wedding as my date._
-- **A romantic [[m/_meeting|meeting]] or [[o/_outing|outing]] with a [[l/_lover|lover]] or potential [[l/_lover|lover]], or the person so [[m/_met|met]].**
+- **A romantic [[m/_meeting|meeting]] or [[o/_outing|outing]] with a [[l/_lover|lover]] or [[p/_potential|potential]] [[l/_lover|lover]], or the [[p/_person|person]] so [[m/_met|met]].**
 	- _Example: The cinema is a popular place to take someone on a date._
 ---
 #verb
-- **To [[n/_note|note]] the time or place of writing or [[e/_executing|executing]]; to [[e/_express|express]] in an [[i/_instrument|instrument]] the time of [[i/_its|its]] [[e/_execution|execution]].**
+- **To [[n/_note|note]] the time or [[p/_place|place]] of writing or [[e/_executing|executing]]; to [[e/_express|express]] in an [[i/_instrument|instrument]] the time of [[i/_its|its]] [[e/_execution|execution]].**
 	- _Example: to date a letter, a bond, a deed, or a charter_
 - **To [[n/_note|note]] or [[f/_fix|fix]] the time of (an [[e/_event|event]]); to [[g/_give|give]] the [[d/_date|date]] of.**
 - **To [[d/_determine|determine]] the [[a/_age|age]] of something.**

@@ -1,6 +1,6 @@
 # Athetize
 ---
 #verb
-- **To reject a passage of text as spurious.**
+- **To reject a [[p/_passage|passage]] of text as spurious.**
 ---
 ---

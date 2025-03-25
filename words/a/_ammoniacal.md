@@ -1,6 +1,6 @@
 # Ammoniacal
 ---
 #adjective
-- **Pertaining to or [[c/_containing|containing]] [[a/_ammonia|ammonia]].**
+- **[[p/_pertaining|Pertaining]] to or [[c/_containing|containing]] [[a/_ammonia|ammonia]].**
 ---
 ---

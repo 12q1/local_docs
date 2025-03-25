@@ -1,7 +1,7 @@
 # Booties
 ---
 #noun
-- **A soft, woolen shoe, usually [[k/_knitted|knitted]], for a [[b/_baby|baby]] or small pet.**
+- **A soft, woolen shoe, usually [[k/_knitted|knitted]], for a [[b/_baby|baby]] or small [[p/_pet|pet]].**
 	- _Example: Take off the baby's bootees before you put her in the crib._
 - **A thick sock worn under a wetsuit.**
 - **An [[o/_overshoe|overshoe]] or sock worn to [[c/_cover|cover]] [[d/_dirty|dirty]] shoes or [[f/_feet|feet]].**
@@ -9,13 +9,13 @@
 ---
 #noun
 - **A [[f/_form|form]] of prize which, when a ship was [[c/_captured|captured]] at sea, [[c/_could|could]] be [[d/_distributed|distributed]] at [[o/_once|once]].**
-- **Plunder taken from an [[e/_enemy|enemy]] in time of war, or seized by piracy.**
+- **[[p/_plunder|Plunder]] taken from an [[e/_enemy|enemy]] in time of war, or seized by [[p/_piracy|piracy]].**
 - **Something that [[h/_has|has]] [[b/_been|been]] stolen or [[i/_illegally|illegally]] [[o/_obtained|obtained]] from [[e/_elsewhere|elsewhere]].**
 ---
 #noun
 - **The [[b/_buttocks|buttocks]].**
 	- _Example: You got a big ol' booty._
-- **(not [[c/_countable|countable]]) A person [[c/_considered|considered]] as a sexual partner or sex [[o/_object|object]].**
+- **(not [[c/_countable|countable]]) A [[p/_person|person]] [[c/_considered|considered]] as a sexual [[p/_partner|partner]] or sex [[o/_object|object]].**
 - **Sexual [[i/_intercourse|intercourse]].**
 - **The vulva and vagina.**
 ---

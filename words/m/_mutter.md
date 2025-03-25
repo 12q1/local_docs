@@ -5,7 +5,7 @@
 	- _Example: The prisoners were docile, and accepted their lot with barely a mutter._
 ---
 #verb
-- **To utter words, [[e/_especially|especially]] [[c/_complaints|complaints]] or [[a/_angry|angry]] [[e/_expressions|expressions]], [[i/_indistinctly|indistinctly]] or with a [[l/_low|low]] voice and [[l/_lips|lips]] partly [[c/_closed|closed]]; to say under [[o/_one|one]]'s [[b/_breath|breath]].**
+- **To utter words, [[e/_especially|especially]] [[c/_complaints|complaints]] or [[a/_angry|angry]] [[e/_expressions|expressions]], [[i/_indistinctly|indistinctly]] or with a [[l/_low|low]] voice and [[l/_lips|lips]] [[p/_partly|partly]] [[c/_closed|closed]]; to say under [[o/_one|one]]'s [[b/_breath|breath]].**
 	- _Example: The beggar muttered words of thanks, as passersby dropped coins in his cup._
 - **To speak softly and [[i/_incoherently|incoherently]], or with [[i/_imperfect|imperfect]] [[a/_articulations|articulations]].**
 	- _Example: The asylum inmate muttered some doggerel about chains and pains to himself, over and over._

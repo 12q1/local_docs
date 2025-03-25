@@ -1,10 +1,10 @@
 # Mgr
 ---
 #noun
-- **An [[e/_ecclesiastic|ecclesiastic]] title [[b/_bestowed|bestowed]] on some Roman [[c/_catholic|Catholic]] [[c/_clerics|clerics]] by the Pope**
+- **An [[e/_ecclesiastic|ecclesiastic]] title [[b/_bestowed|bestowed]] on some Roman [[c/_catholic|Catholic]] [[c/_clerics|clerics]] by the [[p/_pope|Pope]]**
 ---
 #noun
-- **A person whose [[j/_job|job]] is to [[m/_manage|manage]] something, such as a [[b/_business|business]], a restaurant, or a sports team.**
+- **A [[p/_person|person]] whose [[j/_job|job]] is to [[m/_manage|manage]] something, such as a [[b/_business|business]], a restaurant, or a sports team.**
 - **The [[h/_head|head]] [[c/_coach|coach]].**
 - **An [[a/_administrator|administrator]], for a singer or [[g/_group|group]].**
 - **([[c/_computer|computer]] software) A window or [[a/_application|application]] whose purpose is to [[g/_give|give]] the user the [[c/_control|control]] [[o/_over|over]] some [[a/_aspect|aspect]] of the system.**

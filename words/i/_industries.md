@@ -1,7 +1,7 @@
 # Industries
 ---
 #noun
-- **The tendency to work persistently. [[d/_diligence|Diligence]].**
+- **The tendency to work [[p/_persistently|persistently]]. [[d/_diligence|Diligence]].**
 	- _Example: Over the years, their industry and business sense made them wealthy._
 - **[[b/_businesses|Businesses]] of the same type, [[c/_considered|considered]] as a whole. Trade.**
 	- _Example: The software and tourism industries continue to grow, while the steel industry remains troubled._

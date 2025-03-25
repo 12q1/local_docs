@@ -1,7 +1,7 @@
 # Mwa
 ---
 #noun
-- **The [[h/_hallmark|hallmark]] sound of a [[f/_fretless|fretless]] [[b/_bass|bass]] [[g/_guitar|guitar]] played with a [[c/_certain|certain]] technique, where treble [[f/_frequencies|frequencies]] [[i/_increase|increase]] [[g/_gradually|gradually]] [[a/_after|after]] the [[a/_attack|attack]].**
+- **The [[h/_hallmark|hallmark]] sound of a [[f/_fretless|fretless]] [[b/_bass|bass]] [[g/_guitar|guitar]] [[p/_played|played]] with a [[c/_certain|certain]] technique, where treble [[f/_frequencies|frequencies]] [[i/_increase|increase]] [[g/_gradually|gradually]] [[a/_after|after]] the [[a/_attack|attack]].**
 	- _Example: Play it again, but with more mwah this time._
 ---
 #interjection

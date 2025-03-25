@@ -29,7 +29,7 @@
 	- _Example: There she blows! (i.e. "I see a whale spouting!")_
 - **To [[e/_explode|explode]].**
 	- _Example: Get away from that burning gas tank! It's about to blow!_
-- **(with "up" or with prep phrase [[h/_headed|headed]] by "to") To [[c/_cause|cause]] to [[e/_explode|explode]], shatter, or be utterly [[d/_destroyed|destroyed]].**
+- **(with "up" or with [[p/_prep|prep]] [[p/_phrase|phrase]] [[h/_headed|headed]] by "to") To [[c/_cause|cause]] to [[e/_explode|explode]], shatter, or be utterly [[d/_destroyed|destroyed]].**
 	- _Example: The aerosol can was blown to bits._
 - **To [[c/_cause|cause]] sudden [[d/_destruction|destruction]] of.**
 	- _Example: He blew the tires and the engine._
@@ -40,14 +40,14 @@
 	- _Example: This blows!_
 - **To recklessly squander.**
 	- _Example: I blew $35 thou on a car._
-- **To [[f/_fellate|fellate]]; to perform [[o/_oral|oral]] sex on (usually a [[m/_man|man]])**
+- **To [[f/_fellate|fellate]]; to [[p/_perform|perform]] [[o/_oral|oral]] sex on (usually a [[m/_man|man]])**
 	- _Example: Who did you have to blow to get those backstage passes?_
 - **To [[l/_leave|leave]], [[e/_especially|especially]] suddenly or in a [[h/_hurry|hurry]].**
 	- _Example: Let's blow this joint._
 - **To [[m/_make|make]] [[f/_flyblown|flyblown]], to [[d/_defile|defile]], [[e/_especially|especially]] with [[f/_fly|fly]] [[e/_eggs|eggs]].**
 - **To spread by report; to publish; to [[d/_disclose|disclose]].**
 - **To [[i/_inflate|inflate]], as with pride; to puff up.**
-- **To [[b/_breathe|breathe]] [[h/_hard|hard]] or quick; to pant; to puff.**
+- **To [[b/_breathe|breathe]] [[h/_hard|hard]] or quick; to [[p/_pant|pant]]; to puff.**
 - **To put [[o/_out|out]] of [[b/_breath|breath]]; to [[c/_cause|cause]] to [[b/_blow|blow]] from [[f/_fatigue|fatigue]].**
 	- _Example: to blow a horse_
 - **To talk [[l/_loudly|loudly]]; to [[b/_boast|boast]]; to storm.**

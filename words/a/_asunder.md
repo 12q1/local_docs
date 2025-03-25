@@ -1,7 +1,7 @@
 # Asunder
 ---
 #adverb
-- **[[i/_into|Into]] separate parts or pieces.**
+- **[[i/_into|Into]] separate [[p/_parts|parts]] or [[p/_pieces|pieces]].**
 	- _Example: Lest anyone find her treasure, she tore the map asunder and cast its pieces into the wind._
 ---
 ### Synonyms

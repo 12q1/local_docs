@@ -1,27 +1,27 @@
 # Bags
 ---
 #noun
-- **A [[f/_flexible|flexible]] [[c/_container|container]] [[m/_made|made]] of [[c/_cloth|cloth]], paper, plastic, [[e/_etc|etc]].**
+- **A [[f/_flexible|flexible]] [[c/_container|container]] [[m/_made|made]] of [[c/_cloth|cloth]], [[p/_paper|paper]], [[p/_plastic|plastic]], [[e/_etc|etc]].**
 - **A [[h/_handbag|handbag]]**
 - **A suitcase.**
 - **A schoolbag, [[e/_especially|especially]] a [[b/_backpack|backpack]].**
-- **[[o/_one|One]]’s preference.**
+- **[[o/_one|One]]’s [[p/_preference|preference]].**
 	- _Example: Acid House is not my bag: I prefer the more traditional styles of music._
 - **An ugly woman.**
-- **The [[c/_cloth|cloth]]-[[c/_covered|covered]] pillow used for [[f/_first|first]], second, and third [[b/_base|base]].**
+- **The [[c/_cloth|cloth]]-[[c/_covered|covered]] [[p/_pillow|pillow]] used for [[f/_first|first]], second, and third [[b/_base|base]].**
 	- _Example: The grounder hit the bag and bounced over the fielder’s head._
 - **[[f/_first|First]], second, or third [[b/_base|base]].**
 	- _Example: He headed back to the bag._
-- **(preceded by "the") A breathalyzer, so [[n/_named|named]] [[b/_because|because]] it [[f/_formerly|formerly]] [[h/_had|had]] a plastic [[b/_bag|bag]] [[o/_over|over]] the [[e/_end|end]] to [[m/_measure|measure]] a set [[a/_amount|amount]] of [[b/_breath|breath]].**
+- **([[p/_preceded|preceded]] by "the") A breathalyzer, so [[n/_named|named]] [[b/_because|because]] it [[f/_formerly|formerly]] [[h/_had|had]] a [[p/_plastic|plastic]] [[b/_bag|bag]] [[o/_over|over]] the [[e/_end|end]] to [[m/_measure|measure]] a set [[a/_amount|amount]] of [[b/_breath|breath]].**
 - **A [[c/_collection|collection]] of [[o/_objects|objects]], [[d/_disregarding|disregarding]] [[o/_order|order]], but (unlike a set) in which [[e/_elements|elements]] [[m/_may|may]] be repeated.**
 	- _Example: If one has a bag of three apples and the letter 'a' is taken to denote 'apple', then such bag could be represented symbolically as {a,a,a}. Note that in an ordinary context, when talking about a bag of apples, one does not care about identifying the individual apples, although one might be interested in distinguishing apples by species, for example, letting 'r' denote 'red apple' and 'g' denote 'green apple', then a bag of three red apples and two green apples could be denoted as {r,r,r,g,g}._
 - **A sac in [[a/_animal|animal]] [[b/_bodies|bodies]], [[c/_containing|containing]] some [[f/_fluid|fluid]] or [[o/_other|other]] substance.**
 	- _Example: the bag of a cow_
-- **A pouch tied [[b/_behind|behind]] a [[m/_man|man]]'s [[h/_head|head]] to [[h/_hold|hold]] the [[b/_back|back]]-[[h/_hair|hair]] of a wig; a [[b/_bag|bag]] wig.**
+- **A [[p/_pouch|pouch]] tied [[b/_behind|behind]] a [[m/_man|man]]'s [[h/_head|head]] to [[h/_hold|hold]] the [[b/_back|back]]-[[h/_hair|hair]] of a wig; a [[b/_bag|bag]] wig.**
 - **The quantity of [[g/_game|game]] [[b/_bagged|bagged]] in a [[h/_hunt|hunt]].**
 - **A scrotum.**
-- **A unit of [[m/_measure|measure]] of [[c/_cement|cement]] [[e/_equal|equal]] to 94 pounds.**
-- **([[c/_chiefly|chiefly]] in the plural) A [[d/_dark|dark]] [[c/_circle|circle]] under the [[e/_eye|eye]], [[c/_caused|caused]] by [[l/_lack|lack]] of sleep, [[d/_drug|drug]] [[a/_addiction|addiction]] [[e/_etc|etc]].**
+- **A unit of [[m/_measure|measure]] of [[c/_cement|cement]] [[e/_equal|equal]] to 94 [[p/_pounds|pounds]].**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) A [[d/_dark|dark]] [[c/_circle|circle]] under the [[e/_eye|eye]], [[c/_caused|caused]] by [[l/_lack|lack]] of sleep, [[d/_drug|drug]] [[a/_addiction|addiction]] [[e/_etc|etc]].**
 - **A small [[e/_envelope|envelope]] that [[c/_contains|contains]] [[d/_drugs|drugs]], [[e/_especially|especially]] [[n/_narcotics|narcotics]].**
 - **£1000, a [[g/_grand|grand]].**
 - **A [[l/_large|large]] [[n/_number|number]] or [[a/_amount|amount]].**
@@ -32,7 +32,7 @@
 - **To put [[i/_into|into]] a [[b/_bag|bag]].**
 - **To [[c/_catch|catch]] or [[k/_kill|kill]], [[e/_especially|especially]] when [[f/_fishing|fishing]] or [[h/_hunting|hunting]].**
 	- _Example: We bagged three deer yesterday._
-- **To [[g/_gain|gain]] possession of something, or to [[m/_make|make]] [[f/_first|first]] [[c/_claim|claim]] on something.**
+- **To [[g/_gain|gain]] [[p/_possession|possession]] of something, or to [[m/_make|make]] [[f/_first|first]] [[c/_claim|claim]] on something.**
 - **To [[f/_furnish|furnish]] or [[l/_load|load]] with a [[b/_bag|bag]].**
 - **([[a/_african|African]] [[a/_american|American]] Vernacular) To [[b/_bring|bring]] a woman [[o/_one|one]] [[m/_met|met]] on the street with [[o/_one|one]].**
 - **([[a/_african|African]] [[a/_american|American]] Vernacular) To [[l/_laugh|laugh]] uncontrollably.**
@@ -45,6 +45,6 @@
 	- _Example: His trousers bag at the knees._
 - **To [[d/_drop|drop]] [[a/_away|away]] from the [[c/_correct|correct]] [[c/_course|course]].**
 - **To swell with [[a/_arrogance|arrogance]].**
-- **To [[b/_become|become]] pregnant.**
+- **To [[b/_become|become]] [[p/_pregnant|pregnant]].**
 ---
 ---

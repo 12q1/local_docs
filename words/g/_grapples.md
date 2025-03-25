@@ -6,7 +6,7 @@
 #verb
 - **To seize something and [[h/_hold|hold]] it [[f/_firmly|firmly]].**
 - **To wrestle or tussle.**
-- **(with with) To ponder and [[i/_intensely|intensely]] [[e/_evaluate|evaluate]] a problem.**
+- **(with with) To [[p/_ponder|ponder]] and [[i/_intensely|intensely]] [[e/_evaluate|evaluate]] a problem.**
 	- _Example: to grapple with one's conscience_
 ---
 #noun

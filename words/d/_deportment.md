@@ -1,7 +1,7 @@
 # Deportment
 ---
 #noun
-- **[[b/_bearing|Bearing]]; [[m/_manner|manner]] of presenting [[o/_oneself|oneself]].**
+- **[[b/_bearing|Bearing]]; [[m/_manner|manner]] of [[p/_presenting|presenting]] [[o/_oneself|oneself]].**
 	- _Example: Her deportment impressed her interviewers._
 - **[[c/_conduct|Conduct]]; public [[b/_behavior|behavior]].**
 	- _Example: Their deportment changed visibly as the policeman approached._

@@ -7,7 +7,7 @@
 - **An [[e/_exceptional|exceptional]] or proud [[a/_achievement|achievement]].**
 - **An [[i/_important|important]] [[b/_burial|burial]] vault or tomb.**
 - **A [[l/_legal|legal]] [[d/_document|document]].**
-- **A surveying reference point [[m/_marked|marked]] by a permanently [[f/_fixed|fixed]] [[m/_marker|marker]] (a survey [[m/_monument|monument]]).**
-- **A pile of stones [[l/_left|left]] by a prospector to [[c/_claim|claim]] [[o/_ownership|ownership]] of [[o/_ore|ore]] [[e/_etc|etc]]. [[f/_found|found]] in a [[m/_mine|mine]].**
+- **A surveying reference [[p/_point|point]] [[m/_marked|marked]] by a [[p/_permanently|permanently]] [[f/_fixed|fixed]] [[m/_marker|marker]] (a survey [[m/_monument|monument]]).**
+- **A [[p/_pile|pile]] of stones [[l/_left|left]] by a prospector to [[c/_claim|claim]] [[o/_ownership|ownership]] of [[o/_ore|ore]] [[e/_etc|etc]]. [[f/_found|found]] in a [[m/_mine|mine]].**
 ---
 ---

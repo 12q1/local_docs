@@ -1,10 +1,10 @@
 # Diaphoretic
 ---
 #noun
-- **A product or [[a/_agent|agent]] which [[i/_induces|induces]] or promotes perspiration.**
+- **A product or [[a/_agent|agent]] which [[i/_induces|induces]] or promotes [[p/_perspiration|perspiration]].**
 ---
 #adjective
-- **(pharmaceutical [[e/_effect|effect]]) [[g/_generating|Generating]] sweat or perspiration.**
+- **([[p/_pharmaceutical|pharmaceutical]] [[e/_effect|effect]]) [[g/_generating|Generating]] sweat or [[p/_perspiration|perspiration]].**
 ---
 ### Synonyms
 - [[s/_sudorific|sudorific]]

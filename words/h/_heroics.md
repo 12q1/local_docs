@@ -5,7 +5,7 @@
 ---
 #noun
 - **The [[a/_actions|actions]] of a [[h/_hero|hero]].**
-- **[[e/_emergency|Emergency]] [[i/_intervention|intervention]] to save a patient's [[l/_life|life]].**
-- **[[e/_extravagant|Extravagant]] phrases; [[b/_bombast|bombast]].**
+- **[[e/_emergency|Emergency]] [[i/_intervention|intervention]] to save a [[p/_patient|patient]]'s [[l/_life|life]].**
+- **[[e/_extravagant|Extravagant]] [[p/_phrases|phrases]]; [[b/_bombast|bombast]].**
 ---
 ---

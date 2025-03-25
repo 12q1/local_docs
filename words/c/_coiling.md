@@ -10,7 +10,7 @@
 - **To [[e/_encircle|encircle]] and [[h/_hold|hold]] with, or as [[i/_if|if]] with, [[c/_coils|coils]].**
 ---
 #noun
-- **The pattern or [[m/_motion|motion]] of something that [[c/_coils|coils]].**
+- **The [[p/_pattern|pattern]] or [[m/_motion|motion]] of something that [[c/_coils|coils]].**
 - **The process of [[f/_fitting|fitting]] a ship with [[e/_electromagnetic|electromagnetic]] [[c/_coils|coils]], so that it [[c/_can|can]] be [[d/_degaussed|degaussed]] while travelling.**
 ---
 ---

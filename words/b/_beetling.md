@@ -17,6 +17,6 @@
 - **The process by which [[f/_fabrics|fabrics]], [[e/_etc|etc]]. are [[b/_beetled|beetled]], or [[b/_beaten|beaten]] with a [[m/_mallet|mallet]].**
 ---
 #adjective
-- **[[j/_jutting|Jutting]] or protruding, [[e/_especially|especially]] of a person's [[b/_brows|brows]].**
+- **[[j/_jutting|Jutting]] or protruding, [[e/_especially|especially]] of a [[p/_person|person]]'s [[b/_brows|brows]].**
 ---
 ---

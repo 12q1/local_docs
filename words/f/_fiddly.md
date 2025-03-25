@@ -5,6 +5,6 @@
 	- _Example: The buttons on the tiny mobile phone were too fiddly._
 - **(by [[e/_extension|extension]]) [[h/_having|Having]] [[m/_many|many]] small [[b/_bits|bits]] or [[e/_embellishments|embellishments]].**
 - **Of or relating to [[f/_fiddling|fiddling]] or [[f/_fidgeting|fidgeting]].**
-- **Pertaining to [[o/_occasional|occasional]] under-the-table work by people who receive unemployment [[b/_benefits|benefits]]**
+- **[[p/_pertaining|Pertaining]] to [[o/_occasional|occasional]] under-the-table work by [[p/_people|people]] who receive unemployment [[b/_benefits|benefits]]**
 ---
 ---

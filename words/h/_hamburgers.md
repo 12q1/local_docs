@@ -1,8 +1,8 @@
 # Hamburgers
 ---
 #noun
-- **A [[h/_hot|hot]] sandwich [[c/_consisting|consisting]] of a patty of [[c/_cooked|cooked]] [[g/_ground|ground]] [[b/_beef|beef]] or a [[m/_meat|meat]] substitute, in a sliced [[b/_bun|bun]], sometimes [[a/_also|also]] [[c/_containing|containing]] salad vegetables, [[c/_condiments|condiments]], or [[b/_both|both]].**
-- **The patty used in such a sandwich.**
+- **A [[h/_hot|hot]] sandwich [[c/_consisting|consisting]] of a [[p/_patty|patty]] of [[c/_cooked|cooked]] [[g/_ground|ground]] [[b/_beef|beef]] or a [[m/_meat|meat]] substitute, in a sliced [[b/_bun|bun]], sometimes [[a/_also|also]] [[c/_containing|containing]] salad vegetables, [[c/_condiments|condiments]], or [[b/_both|both]].**
+- **The [[p/_patty|patty]] used in such a sandwich.**
 - **[[g/_ground|Ground]] [[b/_beef|beef]], [[e/_especially|especially]] that [[i/_intended|intended]] to be [[m/_made|made]] [[i/_into|into]] [[h/_hamburgers|hamburgers]].**
 - **(somewhat [[c/_crude|crude]]) An [[a/_animal|animal]] or [[h/_human|human]], or the [[f/_flesh|flesh]] thereof, that [[h/_has|has]] [[b/_been|been]] [[b/_badly|badly]] [[i/_injured|injured]] as a result of an [[a/_accident|accident]] or [[c/_conflict|conflict]].**
 	- _Example: I'm going to make you into hamburger if you do that again._

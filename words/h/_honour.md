@@ -3,20 +3,20 @@
 #noun
 - **Recognition of [[i/_importance|importance]] or value; respect; veneration (of someone, usually for [[b/_being|being]] [[m/_morally|morally]] upright or successful)**
 	- _Example: The crowds gave the returning general much honor and praise._
-- **The state of [[b/_being|being]] [[m/_morally|morally]] upright, [[h/_honest|honest]], [[n/_noble|noble]], virtuous, and [[m/_magnanimous|magnanimous]]; [[e/_excellence|excellence]] of [[c/_character|character]]; the perception of such a state; [[f/_favourable|favourable]] reputation; [[d/_dignity|dignity]]**
+- **The state of [[b/_being|being]] [[m/_morally|morally]] upright, [[h/_honest|honest]], [[n/_noble|noble]], virtuous, and [[m/_magnanimous|magnanimous]]; [[e/_excellence|excellence]] of [[c/_character|character]]; the [[p/_perception|perception]] of such a state; [[f/_favourable|favourable]] reputation; [[d/_dignity|dignity]]**
 	- _Example: He was a most perfect knight, for he had great honor and chivalry._
-- **A token of praise or respect; something that represents praiseworthiness or respect, such as a prize or [[a/_award|award]] [[g/_given|given]] by the state to a [[c/_citizen|citizen]]**
+- **A token of [[p/_praise|praise]] or respect; something that represents [[p/_praiseworthiness|praiseworthiness]] or respect, such as a prize or [[a/_award|award]] [[g/_given|given]] by the state to a [[c/_citizen|citizen]]**
 	- _Example: Audie Murphy received many honors, such as the Distinguished Service Cross._
 - **A privilege**
 	- _Example: I had the honour of dining with the ambassador._
-- **(in the plural) the privilege of [[g/_going|going]] [[f/_first|first]]**
+- **(in the [[p/_plural|plural]]) the privilege of [[g/_going|going]] [[f/_first|first]]**
 	- _Example: I'll let you have the honours, Bob—go ahead._
 - **A [[c/_cause|cause]] of respect and [[f/_fame|fame]]; a [[g/_glory|glory]]; an [[e/_excellency|excellency]]; an [[o/_ornament|ornament]].**
 	- _Example: He is an honour to his nation._
 - **([[f/_feudal|feudal]] [[l/_law|law]]) a seigniory or [[l/_lordship|lordship]] [[h/_held|held]] of the [[k/_king|king]], on which [[o/_other|other]] [[l/_lordships|lordships]] and [[m/_manors|manors]] [[d/_depended|depended]]**
-- **The [[c/_center|center]] point of the upper [[h/_half|half]] of an [[a/_armorial|armorial]] [[e/_escutcheon|escutcheon]] ([[c/_compare|compare]] [[h/_honour|honour]] point)**
+- **The [[c/_center|center]] [[p/_point|point]] of the upper [[h/_half|half]] of an [[a/_armorial|armorial]] [[e/_escutcheon|escutcheon]] ([[c/_compare|compare]] [[h/_honour|honour]] [[p/_point|point]])**
 - **In [[b/_bridge|bridge]], an [[a/_ace|ace]], [[k/_king|king]], queen, [[j/_jack|jack]], or ten [[e/_especially|especially]] of the trump suit. In some [[o/_other|other]] [[g/_games|games]], an [[a/_ace|ace]], [[k/_king|king]], queen or [[j/_jack|jack]].**
-- **(in the plural) ([[c/_courses|courses]] for) an [[h/_honours|honours]] [[d/_degree|degree]]: a university qualification of the [[h/_highest|highest]] rank**
+- **(in the [[p/_plural|plural]]) ([[c/_courses|courses]] for) an [[h/_honours|honours]] [[d/_degree|degree]]: a university qualification of the [[h/_highest|highest]] rank**
 	- _Example: At university I took honours in modern history._
 ---
 ### Synonyms

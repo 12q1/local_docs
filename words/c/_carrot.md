@@ -6,6 +6,6 @@
 - **[[a/_any|Any]] [[m/_motivational|motivational]] tool.**
 ---
 #verb
-- **To treat (an [[a/_animal|animal]] pelt) with a solution of [[m/_mercuric|mercuric]] [[n/_nitrate|nitrate]] as part of [[f/_felt|felt]] [[m/_manufacture|manufacture]].**
+- **To treat (an [[a/_animal|animal]] [[p/_pelt|pelt]]) with a solution of [[m/_mercuric|mercuric]] [[n/_nitrate|nitrate]] as [[p/_part|part]] of [[f/_felt|felt]] [[m/_manufacture|manufacture]].**
 ---
 ---

@@ -6,10 +6,10 @@
 ### Synonyms
 - [[g/_gon|gon]], [[g/_grad|grad]], [[g/_grade|grade]]
 #noun
-- **A person who is recognized by a university as [[h/_having|having]] [[c/_completed|completed]] the requirements of a [[d/_degree|degree]] studied at the [[i/_institution|institution]].**
+- **A [[p/_person|person]] who is recognized by a university as [[h/_having|having]] [[c/_completed|completed]] the requirements of a [[d/_degree|degree]] studied at the [[i/_institution|institution]].**
 	- _Example: If the government wants graduates to stay in the country they should offer more incentives._
-- **A person who is recognized by a [[h/_high|high]] school as [[h/_having|having]] [[c/_completed|completed]] the requirements of a [[c/_course|course]] of study at the school.**
-- **A person who is recognized as [[h/_having|having]] [[c/_completed|completed]] [[a/_any|any]] [[l/_level|level]] of [[e/_education|education]].**
+- **A [[p/_person|person]] who is recognized by a [[h/_high|high]] school as [[h/_having|having]] [[c/_completed|completed]] the requirements of a [[c/_course|course]] of study at the school.**
+- **A [[p/_person|person]] who is recognized as [[h/_having|having]] [[c/_completed|completed]] [[a/_any|any]] [[l/_level|level]] of [[e/_education|education]].**
 - **A [[g/_graduated|graduated]] ([[m/_marked|marked]]) [[c/_cup|cup]] or [[o/_other|other]] [[c/_container|container]], thus [[f/_fit|fit]] for [[m/_measuring|measuring]].**
 ---
 ### Antonyms

@@ -12,7 +12,7 @@
 - **A bodyboard or bodyboarder.**
 - **A [[m/_motorcyclist|motorcyclist]]'s [[c/_crash|crash]] [[h/_helmet|helmet]].**
 - **In [[a/_amateur|amateur]] radio, an [[i/_incompetent|incompetent]] [[o/_operator|operator]].**
-- **A [[h/_hermetically|hermetically]] sealed top piece on a [[m/_microchip|microchip]] such as the [[i/_integrated|integrated]] [[h/_heat|heat]] spreader on a [[c/_cpu|CPU]].**
+- **A [[h/_hermetically|hermetically]] sealed top [[p/_piece|piece]] on a [[m/_microchip|microchip]] such as the [[i/_integrated|integrated]] [[h/_heat|heat]] spreader on a [[c/_cpu|CPU]].**
 - **A restraint or [[c/_control|control]], as when "putting a [[l/_lid|lid]]" on something.**
 ---
 #verb

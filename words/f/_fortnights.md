@@ -1,6 +1,6 @@
 # Fortnights
 ---
 #noun
-- **A period of 2 weeks.**
+- **A [[p/_period|period]] of 2 weeks.**
 ---
 ---

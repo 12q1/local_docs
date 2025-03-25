@@ -1,7 +1,7 @@
 # Multituberculate
 ---
 #noun
-- **[[a/_any|Any]] of a small [[g/_group|group]] of rodent-[[l/_like|like]] [[m/_mammals|mammals]], of the [[o/_order|order]] †[[m/_multituberculata|Multituberculata]], from the [[c/_cretaceous|Cretaceous]] and [[p/_paleocene|Paleocene]] periods.**
+- **[[a/_any|Any]] of a small [[g/_group|group]] of rodent-[[l/_like|like]] [[m/_mammals|mammals]], of the [[o/_order|order]] †[[m/_multituberculata|Multituberculata]], from the [[c/_cretaceous|Cretaceous]] and [[p/_paleocene|Paleocene]] [[p/_periods|periods]].**
 ---
 ### Synonyms
 - [[m/_multi|multi]]

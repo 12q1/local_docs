@@ -1,6 +1,6 @@
 # Cladophyll
 ---
 #noun
-- **A phyllode**
+- **A [[p/_phyllode|phyllode]]**
 ---
 ---

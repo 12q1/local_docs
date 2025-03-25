@@ -1,10 +1,10 @@
 # Guy
 ---
 #noun
-- **An [[e/_effigy|effigy]] of a [[m/_man|man]] [[b/_burned|burned]] on a [[b/_bonfire|bonfire]] on the [[a/_anniversary|anniversary]] of the [[g/_gunpowder|Gunpowder]] Plot (5th [[n/_november|November]]).**
-- **A person of [[e/_eccentric|eccentric]] [[a/_appearance|appearance]] or [[d/_dress|dress]]; a "[[f/_fright|fright]]".**
+- **An [[e/_effigy|effigy]] of a [[m/_man|man]] [[b/_burned|burned]] on a [[b/_bonfire|bonfire]] on the [[a/_anniversary|anniversary]] of the [[g/_gunpowder|Gunpowder]] [[p/_plot|Plot]] (5th [[n/_november|November]]).**
+- **A [[p/_person|person]] of [[e/_eccentric|eccentric]] [[a/_appearance|appearance]] or [[d/_dress|dress]]; a "[[f/_fright|fright]]".**
 - **A [[m/_man|man]], [[f/_fellow|fellow]].**
-- **([[e/_especially|especially]] in the plural) A person (see usage [[n/_notes|notes]]).**
+- **([[e/_especially|especially]] in the [[p/_plural|plural]]) A [[p/_person|person]] (see usage [[n/_notes|notes]]).**
 - **(of [[a/_animals|animals]] and sometimes [[o/_objects|objects]]) Thing, [[c/_creature|creature]].**
 	- _Example: The dog's left foreleg was broken, poor little guy._
 - **Thing, unit.**
@@ -19,6 +19,6 @@
 #verb
 - **To [[e/_exhibit|exhibit]] an [[e/_effigy|effigy]] of [[g/_guy|Guy]] Fawkes [[a/_around|around]] the 5th [[n/_november|November]].**
 - **To [[m/_make|make]] [[f/_fun|fun]] of, to ridicule with wit or [[i/_innuendo|innuendo]].**
-- **To play in a [[c/_comedic|comedic]] [[m/_manner|manner]].**
+- **To [[p/_play|play]] in a [[c/_comedic|comedic]] [[m/_manner|manner]].**
 ---
 ---

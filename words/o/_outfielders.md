@@ -1,7 +1,7 @@
 # Outfielders
 ---
 #noun
-- **A player that plays in the [[o/_outfield|outfield]], which is the [[o/_outer|outer]] portion of the [[f/_field|field]]**
+- **A [[p/_player|player]] that [[p/_plays|plays]] in the [[o/_outfield|outfield]], which is the [[o/_outer|outer]] [[p/_portion|portion]] of the [[f/_field|field]]**
 	- _Example: The outfielder tracked down the long fly._
 ---
 ### Synonyms

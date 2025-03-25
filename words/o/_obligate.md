@@ -6,7 +6,7 @@
 - **To [[c/_commit|commit]] ([[m/_money|money]], for [[e/_example|example]]) in [[o/_order|order]] to [[f/_fulfill|fulfill]] an [[o/_obligation|obligation]].**
 ---
 #adjective
-- **[[a/_able|Able]] to [[e/_exist|exist]] or survive [[o/_only|only]] in a particular [[e/_environment|environment]] or by [[a/_assuming|assuming]] a particular role.**
+- **[[a/_able|Able]] to [[e/_exist|exist]] or survive [[o/_only|only]] in a [[p/_particular|particular]] [[e/_environment|environment]] or by [[a/_assuming|assuming]] a [[p/_particular|particular]] role.**
 	- _Example: an obligate anaerobe_
 - **[[a/_absolutely|Absolutely]] [[i/_indispensable|indispensable]]; [[e/_essential|essential]].**
 ---

@@ -1,6 +1,6 @@
 # Linebacking
 ---
 #noun
-- **Playing as a [[l/_linebacker|linebacker]]**
+- **[[p/_playing|Playing]] as a [[l/_linebacker|linebacker]]**
 ---
 ---

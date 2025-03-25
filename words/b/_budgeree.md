@@ -1,7 +1,7 @@
 # Budgeree
 ---
 #adjective
-- **Pretty**
+- **[[p/_pretty|Pretty]]**
 - **[[g/_good|Good]]**
 ---
 ---

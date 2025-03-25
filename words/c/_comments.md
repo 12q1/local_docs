@@ -3,7 +3,7 @@
 #noun
 - **A spoken or written remark.**
 	- _Example: I have no comment on that._
-- **A remark [[e/_embedded|embedded]] in source [[c/_code|code]] in such a way that it will be [[i/_ignored|ignored]] by the [[c/_compiler|compiler]] or [[i/_interpreter|interpreter]], typically to [[h/_help|help]] people to understand the [[c/_code|code]].**
+- **A remark [[e/_embedded|embedded]] in source [[c/_code|code]] in such a way that it will be [[i/_ignored|ignored]] by the [[c/_compiler|compiler]] or [[i/_interpreter|interpreter]], typically to [[h/_help|help]] [[p/_people|people]] to understand the [[c/_code|code]].**
 ---
 #verb
 - **To remark.**

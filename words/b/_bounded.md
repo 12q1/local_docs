@@ -18,6 +18,6 @@
 #adjective
 - **(of a set) That [[c/_can|can]] be [[e/_enclosed|enclosed]] within a [[b/_ball|ball]] of [[f/_finite|finite]] radius.**
 	- _Example: A compact set must be bounded._
-- **(of a poset X with partial [[o/_order|order]] ≤) That [[c/_contains|contains]] a [[l/_least|least]] [[e/_element|element]], a, and a [[g/_greatest|greatest]] [[e/_element|element]], [[b/_b|b]], such that for [[a/_all|all]] x ∈ X, a ≤ x ≤ [[b/_b|b]].**
+- **(of a poset X with [[p/_partial|partial]] [[o/_order|order]] ≤) That [[c/_contains|contains]] a [[l/_least|least]] [[e/_element|element]], a, and a [[g/_greatest|greatest]] [[e/_element|element]], [[b/_b|b]], such that for [[a/_all|all]] x ∈ X, a ≤ x ≤ [[b/_b|b]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Diastolic
 ---
 #noun
-- **Short for [[d/_diastolic|diastolic]] [[b/_blood|blood]] pressure.**
+- **Short for [[d/_diastolic|diastolic]] [[b/_blood|blood]] [[p/_pressure|pressure]].**
 ---
 #adjective
-- **Pertaining to a [[d/_diastole|diastole]].**
+- **[[p/_pertaining|Pertaining]] to a [[d/_diastole|diastole]].**
 ---
 ---

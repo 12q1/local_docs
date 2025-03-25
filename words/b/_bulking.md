@@ -8,6 +8,6 @@
 - **To [[a/_add|add]] [[b/_bulk|bulk]] to, to [[b/_bulk|bulk]] [[o/_out|out]].**
 ---
 #noun
-- **A period of [[i/_intentional|intentional]] weight [[g/_gain|gain]].**
+- **A [[p/_period|period]] of [[i/_intentional|intentional]] weight [[g/_gain|gain]].**
 ---
 ---

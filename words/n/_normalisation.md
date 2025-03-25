@@ -7,7 +7,7 @@
 - **Process of [[e/_establishing|establishing]] [[n/_normal|normal]] [[d/_diplomatic|diplomatic]] relations [[b/_between|between]] two [[c/_countries|countries]]**
 - **[[g/_globalization|Globalization]], the process of [[m/_making|making]] a worldwide [[n/_normal|normal]] and [[d/_dominant|dominant]] [[m/_model|model]] of production and [[c/_consumption|consumption]]**
 - **([[o/_operations|operations]]) [[m/_making|Making]] a [[n/_normalized|normalized]] production.**
-- **Sharing or [[e/_enforcement|enforcement]] of standard policies**
+- **Sharing or [[e/_enforcement|enforcement]] of standard [[p/_policies|policies]]**
 - **A process whereby [[a/_artificial|artificial]] and unwanted [[n/_norms|norms]] of [[b/_behaviour|behaviour]] and [[m/_models|models]] of [[b/_behaviour|behaviour]] are [[m/_made|made]] to seem [[n/_natural|natural]] and wanted, through propaganda, [[i/_influence|influence]], [[i/_imitation|imitation]] and [[c/_conformity|conformity]].**
 - **The process of removing statistical [[e/_error|error]] in repeated [[m/_measured|measured]] [[d/_data|data]].**
 ---

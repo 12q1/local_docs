@@ -6,6 +6,6 @@
 	- _Example: a strict constructionist; a broad constructionist_
 ---
 #adjective
-- **Of, pertaining to, or [[a/_advocating|advocating]] [[c/_constructionism|constructionism]].**
+- **Of, [[p/_pertaining|pertaining]] to, or [[a/_advocating|advocating]] [[c/_constructionism|constructionism]].**
 ---
 ---

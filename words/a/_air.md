@@ -1,15 +1,15 @@
 # Air
 ---
 #noun
-- **The substance [[c/_constituting|constituting]] [[e/_earth|earth]]'s [[a/_atmosphere|atmosphere]], particularly:**
+- **The substance [[c/_constituting|constituting]] [[e/_earth|earth]]'s [[a/_atmosphere|atmosphere]], [[p/_particularly|particularly]]:**
 	- _Example: I'm going outside to get some air._
 - **(usually with the) The [[a/_apparently|apparently]] [[o/_open|open]] space [[a/_above|above]] the [[g/_ground|ground]] which this substance [[f/_fills|fills]], [[f/_formerly|formerly]] thought to be [[l/_limited|limited]] by the [[f/_firmament|firmament]] but [[n/_now|now]] [[c/_considered|considered]] to be surrounded by the [[n/_near|near]] vacuum of [[o/_outer|outer]] space.**
 	- _Example: The flock of birds took to the air._
 - **A [[b/_breeze|breeze]]; a [[g/_gentle|gentle]] wind.**
 - **A [[f/_feeling|feeling]] or sense.**
 	- _Example: to give it an air of artistry and sophistication_
-- **A sense of poise, [[g/_graciousness|graciousness]], or quality.**
-- **(usually in the plural) Pretension; snobbishness; pretence that [[o/_one|one]] is [[b/_better|better]] than [[o/_others|others]].**
+- **A sense of [[p/_poise|poise]], [[g/_graciousness|graciousness]], or quality.**
+- **(usually in the [[p/_plural|plural]]) [[p/_pretension|Pretension]]; snobbishness; [[p/_pretence|pretence]] that [[o/_one|one]] is [[b/_better|better]] than [[o/_others|others]].**
 	- _Example: putting on airs_
 - **A song, [[e/_especially|especially]] a solo; an [[a/_aria|aria]].**
 - **[[n/_nothing|Nothing]]; [[a/_absence|absence]] of [[a/_anything|anything]].**

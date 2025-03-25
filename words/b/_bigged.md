@@ -1,7 +1,7 @@
 # Bigged
 ---
 #verb
-- **To praise, recommend, or promote.**
+- **To [[p/_praise|praise]], recommend, or promote.**
 ---
 #verb
 - **To [[i/_inhabit|inhabit]]; [[o/_occupy|occupy]]**

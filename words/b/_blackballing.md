@@ -8,6 +8,6 @@
 ### Synonyms
 - [[b/_blacklist|blacklist]]
 #noun
-- **An [[i/_instance|instance]], or [[a/_action|action]], of a person [[b/_being|being]] [[b/_blackballed|blackballed]]**
+- **An [[i/_instance|instance]], or [[a/_action|action]], of a [[p/_person|person]] [[b/_being|being]] [[b/_blackballed|blackballed]]**
 ---
 ---

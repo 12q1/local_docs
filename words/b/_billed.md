@@ -4,7 +4,7 @@
 - **To [[d/_dig|dig]], [[c/_chop|chop]], [[e/_etc|etc]]., with a [[b/_bill|bill]].**
 ---
 #verb
-- **To peck**
+- **To [[p/_peck|peck]]**
 - **To stroke [[b/_bill|bill]] [[a/_against|against]] [[b/_bill|bill]], with reference to [[d/_doves|doves]]; to [[c/_caress|caress]] in [[f/_fondness|fondness]]**
 ---
 #verb

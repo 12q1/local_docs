@@ -3,7 +3,7 @@
 #noun
 - **A [[n/_non|non]]-[[g/_genuine|genuine]] [[a/_article|article]]; a [[f/_fake|fake]].**
 - **[[o/_one|One]] who [[c/_counterfeits|counterfeits]]; a [[c/_counterfeiter|counterfeiter]].**
-- **That which resembles [[a/_another|another]] thing; a [[l/_likeness|likeness]]; a portrait; a [[c/_counterpart|counterpart]].**
+- **That which resembles [[a/_another|another]] thing; a [[l/_likeness|likeness]]; a [[p/_portrait|portrait]]; a [[c/_counterpart|counterpart]].**
 - **An [[i/_impostor|impostor]]; a [[c/_cheat|cheat]].**
 ---
 #verb
@@ -12,7 +12,7 @@
 - **To produce a [[f/_faithful|faithful]] [[c/_copy|copy]] of.**
 - **To [[f/_feign|feign]]; to [[m/_mimic|mimic]].**
 	- _Example: to counterfeit the voice of another person_
-- **(usually "be [[c/_counterfeited|counterfeited]]") Of a turn or river [[c/_card|card]], to [[i/_invalidate|invalidate]] a player's [[h/_hand|hand]] by [[m/_making|making]] a [[b/_better|better]] [[h/_hand|hand]] on the [[b/_board|board]].**
+- **(usually "be [[c/_counterfeited|counterfeited]]") Of a turn or river [[c/_card|card]], to [[i/_invalidate|invalidate]] a [[p/_player|player]]'s [[h/_hand|hand]] by [[m/_making|making]] a [[b/_better|better]] [[h/_hand|hand]] on the [[b/_board|board]].**
 ---
 #adjective
 - **[[f/_false|False]], [[e/_especially|especially]] of [[m/_money|money]]; [[i/_intended|intended]] to [[d/_deceive|deceive]] or [[c/_carry|carry]] [[a/_appearance|appearance]] of [[b/_being|being]] [[g/_genuine|genuine]].**

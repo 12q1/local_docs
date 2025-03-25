@@ -1,0 +1,12 @@
+# Parlayed
+---
+#verb
+- **To [[c/_carry|carry]] [[f/_forward|forward]] the stake and winnings from a [[b/_bet|bet]] on to a subsequent wager or series of wagers.**
+- **(by [[e/_extension|extension]]) To [[i/_increase|increase]] (an [[a/_asset|asset]], [[m/_money|money]], [[e/_etc|etc]].) by [[g/_gambling|gambling]] or [[i/_investing|investing]] in a [[d/_daring|daring]] [[m/_manner|manner]].**
+	- _Example: Shall we parlay the value of our products?_
+- **(by [[e/_extension|extension]], [[g/_generally|generally]]) To [[c/_convert|convert]] (a situation, thing, [[e/_etc|etc]].) [[i/_into|into]] something [[b/_better|better]].**
+---
+#verb
+- **To [[h/_have|have]] a [[d/_discussion|discussion]], [[e/_especially|especially]] [[o/_one|one]] [[b/_between|between]] [[e/_enemies|enemies]].**
+---
+---

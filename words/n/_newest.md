@@ -7,7 +7,7 @@
 	- _Example: We turned up some new evidence from the old files._
 - **[[c/_current|Current]] or [[l/_later|later]], as [[o/_opposed|opposed]] to [[f/_former|former]].**
 	- _Example: My new car is much better than my previous one, even though it is older.   We had been in our new house for five years by then._
-- **Used to [[d/_distinguish|distinguish]] something [[e/_established|established]] [[m/_more|more]] recently, [[n/_named|named]] [[a/_after|after]] something or some place previously [[e/_existing|existing]].**
+- **Used to [[d/_distinguish|distinguish]] something [[e/_established|established]] [[m/_more|more]] recently, [[n/_named|named]] [[a/_after|after]] something or some [[p/_place|place]] previously [[e/_existing|existing]].**
 	- _Example: New Bond Street is an extension of Bond Street._
 - **In [[o/_original|original]] [[c/_condition|condition]]; pristine; not previously worn or used.**
 	- _Example: Are you going to buy a new car or a second-hand one?_
@@ -15,7 +15,7 @@
 	- _Example: That shirt is dirty. Go and put on a new one.   I feel like a new person after a good night's sleep.   After the accident, I saw the world with new eyes._
 - **[[n/_newborn|Newborn]].**
 	- _Example: My sister has a new baby, and our mother is excited to finally have a grandchild._
-- **Of recent [[o/_origin|origin]]; [[h/_having|having]] taken place recently.**
+- **Of recent [[o/_origin|origin]]; [[h/_having|having]] taken [[p/_place|place]] recently.**
 	- _Example: I can't see you for a while; the pain is still too new.   Did you see the new King Lear at the theatre?_
 - **Strange, unfamiliar or not previously [[k/_known|known]].**
 	- _Example: The idea was new to me.   I need to meet new people._
@@ -23,7 +23,7 @@
 	- _Example: Have you met the new guy in town?   He is the new kid at school._
 - **[[i/_inexperienced|Inexperienced]] or unaccustomed at some task.**
 	- _Example: Don't worry that you're new at this job; you'll get better with time.   I'm new at this business._
-- **(of a period of time) [[n/_next|Next]]; [[a/_about|about]] to [[b/_begin|begin]] or recently [[b/_begun|begun]].**
+- **(of a [[p/_period|period]] of time) [[n/_next|Next]]; [[a/_about|about]] to [[b/_begin|begin]] or recently [[b/_begun|begun]].**
 	- _Example: We expect to grow at 10% annually in the new decade._
 ---
 ### Synonyms

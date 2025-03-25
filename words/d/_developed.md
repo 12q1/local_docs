@@ -8,13 +8,13 @@
 - **To [[a/_advance|advance]]; to [[f/_further|further]]; to promote the [[g/_growth|growth]] of.**
 - **To [[c/_create|create]].**
 	- _Example: I need to develop a plan for the next three weeks._
-- **To [[b/_bring|bring]] [[o/_out|out]] [[i/_images|images]] [[l/_latent|latent]] in photographic [[f/_film|film]].**
+- **To [[b/_bring|bring]] [[o/_out|out]] [[i/_images|images]] [[l/_latent|latent]] in [[p/_photographic|photographic]] [[f/_film|film]].**
 	- _Example: Please develop this roll of film._
-- **To [[a/_acquire|acquire]] something usually [[o/_over|over]] a period of time.**
+- **To [[a/_acquire|acquire]] something usually [[o/_over|over]] a [[p/_period|period]] of time.**
 	- _Example: I have been in England enough to develop a British accent._
-- **To place [[o/_one|one]]'s pieces [[a/_actively|actively]].**
+- **To [[p/_place|place]] [[o/_one|one]]'s [[p/_pieces|pieces]] [[a/_actively|actively]].**
 	- _Example: I need to develop my white-square bishop._
-- **To [[c/_cause|cause]] a [[b/_ball|ball]] to [[b/_become|become]] [[m/_more|more]] [[o/_open|open]] and [[a/_available|available]] to be played on [[l/_later|later]]. Usually by [[m/_moving|moving]] it [[a/_away|away]] from the [[c/_cushion|cushion]], or by [[o/_opening|opening]] a [[p/_pack|pack]].**
+- **To [[c/_cause|cause]] a [[b/_ball|ball]] to [[b/_become|become]] [[m/_more|more]] [[o/_open|open]] and [[a/_available|available]] to be [[p/_played|played]] on [[l/_later|later]]. Usually by [[m/_moving|moving]] it [[a/_away|away]] from the [[c/_cushion|cushion]], or by [[o/_opening|opening]] a [[p/_pack|pack]].**
 - **To [[c/_change|change]] the [[f/_form|form]] of (an [[a/_algebraic|algebraic]] [[e/_expression|expression]], [[e/_etc|etc]].) by [[e/_executing|executing]] [[c/_certain|certain]] [[i/_indicated|indicated]] [[o/_operations|operations]] without [[c/_changing|changing]] the value.**
 ---
 #adjective

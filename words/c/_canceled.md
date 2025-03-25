@@ -4,7 +4,7 @@
 - **To [[c/_cross|cross]] [[o/_out|out]] something with [[l/_lines|lines]] [[e/_etc|etc]].**
 - **To [[i/_invalidate|invalidate]] or [[a/_annul|annul]] something.**
 	- _Example: He cancelled his order on their website._
-- **To [[m/_mark|mark]] something (such as a used postage stamp) so that it [[c/_can|can]]'t be reused.**
+- **To [[m/_mark|mark]] something (such as a used [[p/_postage|postage]] stamp) so that it [[c/_can|can]]'t be reused.**
 	- _Example: This machine cancels the letters that have a valid zip code._
 - **To [[o/_offset|offset]] or [[e/_equalize|equalize]] something.**
 	- _Example: The corrective feedback mechanism cancels out the noise._
@@ -18,7 +18,7 @@
 ### Synonyms
 - [[b/_blacklist|blacklist]], [[b/_belay|belay]]
 #adjective
-- **[[n/_no|No]] [[l/_longer|longer]] planned or scheduled.**
+- **[[n/_no|No]] [[l/_longer|longer]] [[p/_planned|planned]] or scheduled.**
 	- _Example: The cancelled show would have drawn 5,000 fans._
 - **(of a [[m/_mail|mail]] [[i/_item|item]]) [[m/_marked|Marked]] [[o/_over|over]] the stamp, to show that the stamp [[h/_has|has]] [[b/_been|been]] used.**
 ---

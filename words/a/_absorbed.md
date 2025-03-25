@@ -9,7 +9,7 @@
 - **To [[e/_engross|engross]] or [[e/_engage|engage]] wholly; to [[o/_occupy|occupy]] [[f/_fully|fully]]**
 - **To [[o/_occupy|occupy]] or [[c/_consume|consume]] time.**
 - **[[a/_assimilate|Assimilate]] [[m/_mentally|mentally]].**
-- **To [[a/_assume|assume]] or [[p/_pay|pay]] for as part of a [[c/_commercial|commercial]] transaction.**
+- **To [[a/_assume|assume]] or [[p/_pay|pay]] for as [[p/_part|part]] of a [[c/_commercial|commercial]] transaction.**
 - **To [[d/_defray|defray]] the [[c/_costs|costs]].**
 - **To [[a/_accept|accept]] or purchase in quantity.**
 ---

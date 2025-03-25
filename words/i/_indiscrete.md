@@ -5,7 +5,7 @@
 ---
 #adjective
 - **Not [[d/_discrete|discrete]] [[m/_mathematically|mathematically]].**
-- **Not [[d/_divided|divided]] [[i/_into|into]] [[d/_discrete|discrete]] parts.**
+- **Not [[d/_divided|divided]] [[i/_into|into]] [[d/_discrete|discrete]] [[p/_parts|parts]].**
 ---
 ### Synonyms
 - [[n/_nondiscrete|nondiscrete]]

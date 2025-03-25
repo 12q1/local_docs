@@ -6,7 +6,7 @@
 ### Antonyms
 - [[v/_vincible|vincible]]
 #adjective
-- **[[i/_impossible|Impossible]] to [[d/_defeat|defeat]], [[d/_destroy|destroy]] or [[k/_kill|kill]]; too powerful to be [[d/_defeated|defeated]] or [[o/_overcome|overcome]].**
+- **[[i/_impossible|Impossible]] to [[d/_defeat|defeat]], [[d/_destroy|destroy]] or [[k/_kill|kill]]; too [[p/_powerful|powerful]] to be [[d/_defeated|defeated]] or [[o/_overcome|overcome]].**
 ---
 ### Synonyms
 - [[u/_unconquerable|unconquerable]], [[u/_undefeatable|undefeatable]]

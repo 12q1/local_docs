@@ -1,10 +1,10 @@
 # Catering
 ---
 #verb
-- **To provide, particularly:**
+- **To provide, [[p/_particularly|particularly]]:**
 ---
 #verb
-- **To place, set, [[m/_move|move]], or [[c/_cut|cut]] [[d/_diagonally|diagonally]] or rhomboidally.**
+- **To [[p/_place|place]], set, [[m/_move|move]], or [[c/_cut|cut]] [[d/_diagonally|diagonally]] or rhomboidally.**
 ---
 #noun
 - **The [[b/_business|business]] of providing [[f/_food|food]] and related services; foodservice.**

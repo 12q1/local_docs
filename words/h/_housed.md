@@ -6,10 +6,10 @@
 - **To [[a/_admit|admit]] to residence; to [[h/_harbor|harbor]]/[[h/_harbour|harbour]].**
 - **To take shelter or [[l/_lodging|lodging]]; to [[a/_abide|abide]]; to [[l/_lodge|lodge]].**
 - **To [[d/_dwell|dwell]] within [[o/_one|one]] of the twelve [[a/_astrological|astrological]] [[h/_houses|houses]].**
-- **To [[c/_contain|contain]] or [[c/_cover|cover]] [[m/_mechanical|mechanical]] parts.**
+- **To [[c/_contain|contain]] or [[c/_cover|cover]] [[m/_mechanical|mechanical]] [[p/_parts|parts]].**
 - **To [[d/_drive|drive]] to a shelter.**
 - **To [[d/_deposit|deposit]] and [[c/_cover|cover]], as in the [[g/_grave|grave]].**
-- **To stow in a safe place; to take [[d/_down|down]] and [[m/_make|make]] safe.**
+- **To stow in a safe [[p/_place|place]]; to take [[d/_down|down]] and [[m/_make|make]] safe.**
 	- _Example: to house the upper spars_
 - **To [[e/_eat|eat]].**
 ---

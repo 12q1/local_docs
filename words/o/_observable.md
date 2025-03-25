@@ -1,7 +1,7 @@
 # Observable
 ---
 #noun
-- **[[a/_any|Any]] physical property that [[c/_can|can]] be [[o/_observed|observed]] and [[m/_measured|measured]] [[d/_directly|directly]] and not [[d/_derived|derived]] from [[o/_other|other]] properties**
+- **[[a/_any|Any]] [[p/_physical|physical]] property that [[c/_can|can]] be [[o/_observed|observed]] and [[m/_measured|measured]] [[d/_directly|directly]] and not [[d/_derived|derived]] from [[o/_other|other]] properties**
 	- _Example: Temperature is an observable but entropy is derived._
 ---
 #adjective

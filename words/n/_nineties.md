@@ -1,7 +1,7 @@
 # Nineties
 ---
 #noun
-- **Plural of [[n/_ninety|ninety]]**
+- **[[p/_plural|Plural]] of [[n/_ninety|ninety]]**
 - **The [[d/_decade|decade]] of the 1890s, 1990s, [[e/_etc|etc]].**
 - **The [[d/_decade|decade]] of [[o/_one|one]]'s [[l/_life|life]] from [[a/_age|age]] 90 through [[a/_age|age]] 99.**
 - **(temperature, rates) The range [[b/_between|between]] 90 and 99.**

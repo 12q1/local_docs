@@ -4,7 +4,7 @@
 - **An [[i/_independent|independent]] publisher.**
 - **A work released by an [[i/_independent|independent]] publisher.**
 - **A type of rock [[m/_music|music]], [[g/_generally|generally]] soft-style without screaming or [[a/_aggression|aggression]], [[m/_mixed|mixed]] with synthesized [[m/_music|music]] and [[e/_electronic|electronic]].**
-- **A person who [[l/_listens|listens]] to indie [[m/_music|music]] and [[f/_follows|follows]] indie [[f/_fashion|fashion]].**
+- **A [[p/_person|person]] who [[l/_listens|listens]] to indie [[m/_music|music]] and [[f/_follows|follows]] indie [[f/_fashion|fashion]].**
 ---
 #noun
 - **An [[i/_independent|independent]] [[e/_entity|entity]].**

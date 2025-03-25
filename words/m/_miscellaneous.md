@@ -1,7 +1,7 @@
 # Miscellaneous
 ---
 #adjective
-- **[[c/_consisting|Consisting]] of a variety of [[i/_ingredients|ingredients]] or parts.**
+- **[[c/_consisting|Consisting]] of a variety of [[i/_ingredients|ingredients]] or [[p/_parts|parts]].**
 - **[[h/_having|Having]] [[d/_diverse|diverse]] [[c/_characteristics|characteristics]], [[a/_abilities|abilities]] or [[a/_appearances|appearances]].**
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Christened
 ---
 #verb
-- **To perform the religious [[a/_act|act]] of the [[b/_baptism|baptism]], to [[b/_baptise|baptise]].**
+- **To [[p/_perform|perform]] the religious [[a/_act|act]] of the [[b/_baptism|baptism]], to [[b/_baptise|baptise]].**
 	- _Example: The new baby was christened at the village church._
 - **To [[n/_name|name]].**
 	- _Example: I christen this ship the Bonny Barnacle._

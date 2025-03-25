@@ -8,8 +8,8 @@
 	- _Example: The spot on his lung turned out to be an artifact of the X-ray process._
 - **An [[o/_object|object]], such as a tool, [[o/_ornament|ornament]], or weapon of [[a/_archaeological|archaeological]] or [[h/_historical|historical]] [[i/_interest|interest]], [[e/_especially|especially]] such an [[o/_object|object]] [[f/_found|found]] at an [[a/_archaeological|archaeological]] [[e/_excavation|excavation]].**
 	- _Example: The dig produced many Roman artifacts._
-- **An [[a/_appearance|appearance]] or structure in protoplasm [[d/_due|due]] to [[d/_death|death]], the [[m/_method|method]] of preparation of specimens, or the use of reagents, and not present [[d/_during|during]] [[l/_life|life]].**
-- **A perceptible [[d/_distortion|distortion]] that [[a/_appears|appears]] in an [[a/_audio|audio]] or video [[f/_file|file]] or a [[d/_digital|digital]] [[i/_image|image]] as a result of [[a/_applying|applying]] a [[l/_lossy|lossy]] [[c/_compression|compression]] [[a/_algorithm|algorithm]].**
+- **An [[a/_appearance|appearance]] or structure in protoplasm [[d/_due|due]] to [[d/_death|death]], the [[m/_method|method]] of [[p/_preparation|preparation]] of specimens, or the use of reagents, and not [[p/_present|present]] [[d/_during|during]] [[l/_life|life]].**
+- **A [[p/_perceptible|perceptible]] [[d/_distortion|distortion]] that [[a/_appears|appears]] in an [[a/_audio|audio]] or video [[f/_file|file]] or a [[d/_digital|digital]] [[i/_image|image]] as a result of [[a/_applying|applying]] a [[l/_lossy|lossy]] [[c/_compression|compression]] [[a/_algorithm|algorithm]].**
 	- _Example: This JPEG image has been so highly compressed that it has unsightly compression artifacts, making it unsuitable for the cover of our magazine._
 ---
 ---

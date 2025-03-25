@@ -5,7 +5,7 @@
 	- _Example: A kettle converts water into steam._
 - **To [[c/_change|change]] (something) from [[o/_one|one]] use, [[f/_function|function]], or purpose to [[a/_another|another]].**
 	- _Example: He converted his garden into a tennis court._
-- **To [[i/_induce|induce]] (someone) to [[a/_adopt|adopt]] a particular religion, [[f/_faith|faith]], [[i/_ideology|ideology]] or [[b/_belief|belief]] (see [[a/_also|also]] sense 11).**
+- **To [[i/_induce|induce]] (someone) to [[a/_adopt|adopt]] a [[p/_particular|particular]] religion, [[f/_faith|faith]], [[i/_ideology|ideology]] or [[b/_belief|belief]] (see [[a/_also|also]] sense 11).**
 	- _Example: They converted her to Roman Catholicism on her deathbed._
 - **To [[e/_exchange|exchange]] for something of [[e/_equal|equal]] value.**
 	- _Example: We converted our pounds into euros._
@@ -13,18 +13,18 @@
 - **To [[e/_express|express]] (a unit of [[m/_measurement|measurement]]) in terms of [[a/_another|another]]; to [[f/_furnish|furnish]] a [[m/_mathematical|mathematical]] [[f/_formula|formula]] by which a quantity, [[e/_expressed|expressed]] in the [[f/_former|former]] unit, [[m/_may|may]] be [[g/_given|given]] in the [[l/_latter|latter]].**
 	- _Example: How do you convert feet into metres?_
 - **To [[a/_appropriate|appropriate]] wrongfully or unlawfully; to [[c/_commit|commit]] the [[c/_common|common]] [[l/_law|law]] tort of [[c/_conversion|conversion]].**
-- **(rugby [[f/_football|football]]) To score [[e/_extra|extra]] points [[a/_after|after]] (a try) by [[c/_completing|completing]] a [[c/_conversion|conversion]].**
-- **To score ([[e/_especially|especially]] a penalty [[k/_kick|kick]]).**
-- **(ten-pin [[b/_bowling|bowling]]) To score a spare.**
+- **(rugby [[f/_football|football]]) To score [[e/_extra|extra]] [[p/_points|points]] [[a/_after|after]] (a try) by [[c/_completing|completing]] a [[c/_conversion|conversion]].**
+- **To score ([[e/_especially|especially]] a [[p/_penalty|penalty]] [[k/_kick|kick]]).**
+- **(ten-[[p/_pin|pin]] [[b/_bowling|bowling]]) To score a spare.**
 - **To undergo a [[c/_conversion|conversion]] of religion, [[f/_faith|faith]] or [[b/_belief|belief]] (see [[a/_also|also]] sense 3).**
 	- _Example: We’ve converted to Methodism._
 - **To [[b/_become|become]] [[c/_converted|converted]].**
 	- _Example: The chair converts into a bed._
 - **To [[c/_cause|cause]] to turn; to turn.**
-- **To [[c/_change|change]] ([[o/_one|one]] proposition) [[i/_into|into]] [[a/_another|another]], so that what was the subject of the [[f/_first|first]] [[b/_becomes|becomes]] the predicate of the second.**
+- **To [[c/_change|change]] ([[o/_one|one]] proposition) [[i/_into|into]] [[a/_another|another]], so that what was the subject of the [[f/_first|first]] [[b/_becomes|becomes]] the [[p/_predicate|predicate]] of the second.**
 - **To turn [[i/_into|into]] [[a/_another|another]] [[l/_language|language]]; to translate.**
 - **To [[i/_increase|increase]] [[o/_one|one]]'s [[i/_individual|individual]] score, [[e/_especially|especially]] from 50 runs (a [[f/_fifty|fifty]]) to 100 runs (a [[c/_century|century]]), or from a [[c/_century|century]] to a [[d/_double|double]] or triple [[c/_century|century]].**
-- **To perform the [[a/_action|action]] that an [[o/_online|online]] [[a/_advertisement|advertisement]] is [[i/_intended|intended]] to [[i/_induce|induce]]; to reach the point of [[c/_conversion|conversion]].**
+- **To [[p/_perform|perform]] the [[a/_action|action]] that an [[o/_online|online]] [[a/_advertisement|advertisement]] is [[i/_intended|intended]] to [[i/_induce|induce]]; to reach the [[p/_point|point]] of [[c/_conversion|conversion]].**
 	- _Example: Each time a user clicks on one of your adverts, you will be charged the bid amount whether the user converts or not._
 ---
 ### Antonyms

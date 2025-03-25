@@ -4,7 +4,7 @@
 - **An [[a/_actual|actual]] [[e/_event|event]], situation, or [[f/_fact|fact]].**
 	- _Example: For a change, in this case, he was telling the truth._
 - **A [[g/_given|given]] [[c/_condition|condition]] or state.**
-- **A piece of work, specifically [[d/_defined|defined]] within a profession.**
+- **A [[p/_piece|piece]] of work, specifically [[d/_defined|defined]] within a profession.**
 	- _Example: It was one of the detective's easiest cases.  Social workers should work on a maximum of forty active cases.  The doctor told us of an interesting case he had treated that morning._
 - **([[a/_academia|academia]]) An [[i/_instance|instance]] or [[e/_event|event]] as a topic of study.**
 	- _Example: The teaching consists of theory lessons and case studies._

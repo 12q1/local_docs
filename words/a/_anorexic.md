@@ -7,7 +7,7 @@
 ### Synonyms
 - [[a/_anorectic|anorectic]]
 #adjective
-- **Pertaining to, or suffering from [[a/_anorexia|anorexia]] [[n/_nervosa|nervosa]].**
+- **[[p/_pertaining|Pertaining]] to, or suffering from [[a/_anorexia|anorexia]] [[n/_nervosa|nervosa]].**
 - **(by [[e/_extension|extension]]) Thin, skinny.**
 ---
 ### Synonyms

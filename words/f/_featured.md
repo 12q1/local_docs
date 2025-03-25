@@ -9,7 +9,7 @@
 #adjective
 - **[[d/_displayed|Displayed]] with special treatment**
 	- _Example: This month's featured products are on the first page of the catalogue._
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] [[f/_features|features]] of a particular [[k/_kind|kind]].**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] [[f/_features|features]] of a [[p/_particular|particular]] [[k/_kind|kind]].**
 	- _Example: the broad-featured son of a farmer_
 ---
 ---

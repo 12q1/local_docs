@@ -4,7 +4,7 @@
 - **To [[h/_have|have]] sexual [[i/_intercourse|intercourse]], to [[c/_copulate|copulate]].**
 	- _Example: Fighting for peace is like fucking for virginity._
 - **To [[h/_have|have]] sexual [[i/_intercourse|intercourse]] with.**
-- **To [[i/_insert|insert]] [[o/_one|one]]’s penis, a [[d/_dildo|dildo]] or [[o/_other|other]] phallic [[o/_object|object]], [[i/_into|into]] a specified [[o/_orifice|orifice]] or [[c/_cleft|cleft]].**
+- **To [[i/_insert|insert]] [[o/_one|one]]’s [[p/_penis|penis]], a [[d/_dildo|dildo]] or [[o/_other|other]] [[p/_phallic|phallic]] [[o/_object|object]], [[i/_into|into]] a specified [[o/_orifice|orifice]] or [[c/_cleft|cleft]].**
 - **To put in an [[e/_extremely|extremely]] [[d/_difficult|difficult]] or [[i/_impossible|impossible]] situation.**
 	- _Example: I'm afraid they're gonna fuck you on this one._
 - **To [[d/_defraud|defraud]], [[d/_deface|deface]] or [[o/_otherwise|otherwise]] treat [[b/_badly|badly]].**
@@ -21,7 +21,7 @@
 ### Synonyms
 - [[a/_annihilate|annihilate]], [[o/_obliterate|obliterate]], [[r/_ruin|ruin]], [[b/_bang|bang]], [[e/_eff|eff]], [[h/_hump|hump]], [[s/_screw|screw]], [[s/_shag|shag]], [[b/_bang|bang]], [[e/_eff|eff]], [[h/_hump|hump]], [[r/_ream|ream]], [[s/_screw|screw]], [[s/_shag|shag]], [[b/_bugger|bugger]], [[e/_eff|eff]], [[f/_feck|feck]]
 #noun
-- **An [[a/_act|act]] of sexual [[i/_intercourse|intercourse]], [[e/_especially|especially]] [[o/_one|one]] [[l/_lacking|lacking]] passion or a [[f/_feeling|feeling]] of sincere [[l/_love|love]].**
+- **An [[a/_act|act]] of sexual [[i/_intercourse|intercourse]], [[e/_especially|especially]] [[o/_one|one]] [[l/_lacking|lacking]] [[p/_passion|passion]] or a [[f/_feeling|feeling]] of sincere [[l/_love|love]].**
 	- _Example: I got a good fucking out of her, but I doubt we'll have another date._
 - **An [[a/_act|act]] of [[m/_mistreatment|mistreatment]].**
 	- _Example: I took a real fucking on the interest rate for that loan._

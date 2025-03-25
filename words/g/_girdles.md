@@ -14,6 +14,6 @@
 - **To [[k/_kill|kill]] or stunt a tree by removing or [[i/_inverting|inverting]] a ring of [[b/_bark|bark]].**
 ---
 #noun
-- **A stone or [[m/_metal|metal]] [[f/_flat|flat]] plate or surface on which [[f/_food|food]] is [[f/_fried|fried]] or [[b/_baked|baked]].**
+- **A stone or [[m/_metal|metal]] [[f/_flat|flat]] [[p/_plate|plate]] or surface on which [[f/_food|food]] is [[f/_fried|fried]] or [[b/_baked|baked]].**
 ---
 ---

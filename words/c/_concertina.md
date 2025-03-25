@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[m/_musical|musical]] [[i/_instrument|instrument]], [[l/_like|like]] the various [[a/_accordions|accordions]], that is a [[m/_member|member]] of the [[f/_free|free]]-reed [[f/_family|family]] of [[m/_musical|musical]] [[i/_instruments|instruments]], typically [[h/_having|having]] [[b/_buttons|buttons]] on [[b/_both|both]] [[e/_ends|ends]].**
-- **Something resembling a [[c/_concertina|concertina]], such as a [[f/_folded|folded]] [[b/_book|book]], a [[b/_bus|bus]] [[d/_door|door]] or a set of picture [[f/_frames|frames]] that are [[f/_folded|folded]] together.**
+- **Something resembling a [[c/_concertina|concertina]], such as a [[f/_folded|folded]] [[b/_book|book]], a [[b/_bus|bus]] [[d/_door|door]] or a set of [[p/_picture|picture]] [[f/_frames|frames]] that are [[f/_folded|folded]] together.**
 - **[[c/_coiled|Coiled]] [[b/_barbed|barbed]] wire for use as an [[o/_obstacle|obstacle]].**
 - **A type of [[b/_booklet|booklet]] [[l/_label|label]], [[c/_consisting|consisting]] of up to 32 [[p/_pages|pages]] of [[b/_booklet|booklet]] as an [[i/_insert|insert]].**
 ---

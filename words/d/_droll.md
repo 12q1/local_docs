@@ -1,7 +1,7 @@
 # Droll
 ---
 #noun
-- **A [[f/_funny|funny]] person; a [[b/_buffoon|buffoon]], a wag.**
+- **A [[f/_funny|funny]] [[p/_person|person]]; a [[b/_buffoon|buffoon]], a wag.**
 ---
 #verb
 - **To [[j/_jest|jest]], to [[j/_joke|joke]].**

@@ -1,7 +1,7 @@
 # Deal
 ---
 #noun
-- **A [[d/_division|division]], a portion, a share.**
+- **A [[d/_division|division]], a [[p/_portion|portion]], a share.**
 	- _Example: We gave three deals of grain in tribute to the king._
 - **([[o/_often|often]] [[f/_followed|followed]] by of) An [[i/_indefinite|indefinite]] quantity or [[a/_amount|amount]]; a [[l/_lot|lot]] ([[n/_now|now]] usually qualified by [[g/_great|great]] or [[g/_good|good]]).**
 ---

@@ -1,7 +1,7 @@
 # Nostalgic
 ---
 #noun
-- **A person who [[d/_displays|displays]] [[n/_nostalgia|nostalgia]] for something.**
+- **A [[p/_person|person]] who [[d/_displays|displays]] [[n/_nostalgia|nostalgia]] for something.**
 ---
 #adjective
 - **Of, [[h/_having|having]], or relating to [[n/_nostalgia|nostalgia]].**

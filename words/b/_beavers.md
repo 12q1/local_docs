@@ -10,6 +10,6 @@
 - **A [[m/_man|man]] who wears a [[b/_beard|beard]].**
 ---
 #noun
-- **A portion of plate [[a/_armour|armour]] to protect the [[l/_lower|lower]] [[f/_face|face]] and the [[n/_neck|neck]], typically in two parts, [[c/_called|called]] upper [[b/_bevor|bevor]] and [[l/_lower|lower]] [[b/_bevor|bevor]].**
+- **A [[p/_portion|portion]] of [[p/_plate|plate]] [[a/_armour|armour]] to protect the [[l/_lower|lower]] [[f/_face|face]] and the [[n/_neck|neck]], typically in two [[p/_parts|parts]], [[c/_called|called]] upper [[b/_bevor|bevor]] and [[l/_lower|lower]] [[b/_bevor|bevor]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Jerry
 ---
 #noun
-- **A [[c/_chamber|chamber]] pot.**
+- **A [[c/_chamber|chamber]] [[p/_pot|pot]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Misperception
 ---
 #noun
-- **An [[i/_incorrect|incorrect]] perception.**
+- **An [[i/_incorrect|incorrect]] [[p/_perception|perception]].**
 ---
 ---

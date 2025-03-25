@@ -1,7 +1,7 @@
 # Degenerate
 ---
 #noun
-- **[[o/_one|One]] who is [[d/_degenerate|degenerate]], who [[h/_has|has]] [[f/_fallen|fallen]] from previous stature; an [[i/_immoral|immoral]] person.**
+- **[[o/_one|One]] who is [[d/_degenerate|degenerate]], who [[h/_has|has]] [[f/_fallen|fallen]] from previous stature; an [[i/_immoral|immoral]] [[p/_person|person]].**
 	- _Example: In the cult of degenerates, acts of decency, kindness and modesty could be seen as acts of apostasy._
 ---
 #verb

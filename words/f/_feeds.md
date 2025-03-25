@@ -5,7 +5,7 @@
 	- _Example: They sell feed, riding helmets, and everything else for horses._
 - **Something supplied [[c/_continuously|continuously]].**
 	- _Example: a satellite feed_
-- **The part of a [[m/_machine|machine]] that supplies the [[m/_material|material]] to be [[o/_operated|operated]] upon.**
+- **The [[p/_part|part]] of a [[m/_machine|machine]] that supplies the [[m/_material|material]] to be [[o/_operated|operated]] upon.**
 	- _Example: the paper feed of a printer_
 - **The [[f/_forward|forward]] [[m/_motion|motion]] of the [[m/_material|material]] [[f/_fed|fed]] [[i/_into|into]] a [[m/_machine|machine]].**
 - **A [[m/_meal|meal]].**
@@ -28,8 +28,8 @@
 	- _Example: Springs feed ponds with water._
 - **To [[g/_graze|graze]]; to [[c/_cause|cause]] to be [[c/_cropped|cropped]] by [[f/_feeding|feeding]], as [[h/_herbage|herbage]] by [[c/_cattle|cattle]].**
 	- _Example: If grain is too forward in autumn, feed it with sheep._
-- **To pass to.**
-- **(of a phonological rule) To [[c/_create|create]] the [[e/_environment|environment]] where [[a/_another|another]] phonological rule [[c/_can|can]] [[a/_apply|apply]]; to be [[a/_applied|applied]] [[b/_before|before]] [[a/_another|another]] rule.**
+- **To [[p/_pass|pass]] to.**
+- **(of a [[p/_phonological|phonological]] rule) To [[c/_create|create]] the [[e/_environment|environment]] where [[a/_another|another]] [[p/_phonological|phonological]] rule [[c/_can|can]] [[a/_apply|apply]]; to be [[a/_applied|applied]] [[b/_before|before]] [[a/_another|another]] rule.**
 	- _Example: Nasalization feeds raising._
 - **(of a syntactic rule) To [[c/_create|create]] the syntactic [[e/_environment|environment]] in which [[a/_another|another]] syntactic rule is [[a/_applied|applied]]; to be [[a/_applied|applied]] [[b/_before|before]] [[a/_another|another]] syntactic rule.**
 ---

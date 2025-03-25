@@ -1,7 +1,7 @@
 # Flagpoles
 ---
 #noun
-- **A tall pole up which [[o/_one|one]] or [[m/_more|more]] [[f/_flags|flags]] [[m/_may|may]] be raised and [[f/_flown|flown]].**
+- **A tall [[p/_pole|pole]] up which [[o/_one|one]] or [[m/_more|more]] [[f/_flags|flags]] [[m/_may|may]] be raised and [[f/_flown|flown]].**
 ---
 ### Synonyms
 - [[f/_flagstaff|flagstaff]]

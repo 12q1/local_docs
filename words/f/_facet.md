@@ -11,8 +11,8 @@
 - **A smooth [[c/_circumscribed|circumscribed]] surface.**
 	- _Example: the articular facet of a bone_
 - **[[a/_any|Any]] of the small [[j/_joints|joints]] at [[e/_each|each]] segment of the spine that provide stability and [[h/_help|help]] [[g/_guide|guide]] [[m/_motion|motion]]**
-- **The [[n/_narrow|narrow]] plane surface [[b/_between|between]] [[f/_flutings|flutings]] of a [[c/_column|column]].**
-- **A [[f/_face|face]] of codimension 1 of a polytope.**
+- **The [[n/_narrow|narrow]] [[p/_plane|plane]] surface [[b/_between|between]] [[f/_flutings|flutings]] of a [[c/_column|column]].**
+- **A [[f/_face|face]] of codimension 1 of a [[p/_polytope|polytope]].**
 - **A [[c/_criterion|criterion]] that [[c/_can|can]] be used to sort and [[f/_filter|filter]], such as the [[c/_colour|colour]] or size of products in an [[o/_online|online]] store.**
 ---
 ### Synonyms

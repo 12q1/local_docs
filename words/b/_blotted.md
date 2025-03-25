@@ -4,7 +4,7 @@
 - **To [[c/_cause|cause]] a [[b/_blot|blot]] (on something) by spilling a [[c/_coloured|coloured]] substance.**
 - **To soak up or [[a/_absorb|absorb]] [[l/_liquid|liquid]].**
 	- _Example: This paper blots easily._
-- **To [[d/_dry|dry]] (writing, [[e/_etc|etc]].) with [[b/_blotting|blotting]] paper.**
+- **To [[d/_dry|dry]] (writing, [[e/_etc|etc]].) with [[b/_blotting|blotting]] [[p/_paper|paper]].**
 - **To spot, stain, or [[b/_bespatter|bespatter]], as with [[i/_ink|ink]].**
 - **To [[i/_impair|impair]]; to [[d/_damage|damage]]; to [[m/_mar|mar]]; to soil.**
 - **To stain with [[i/_infamy|infamy]]; to [[d/_disgrace|disgrace]].**

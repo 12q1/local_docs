@@ -4,7 +4,7 @@
 - **To [[j/_join|join]] in or [[f/_form|form]] a [[l/_league|league]], union, or [[a/_association|association]].**
 - **To spend time socially; [[k/_keep|keep]] [[c/_company|company]].**
 	- _Example: She associates with her coworkers on weekends._
-- **(with with) To [[j/_join|join]] as a partner, [[a/_ally|ally]], or [[f/_friend|friend]].**
+- **(with with) To [[j/_join|join]] as a [[p/_partner|partner]], [[a/_ally|ally]], or [[f/_friend|friend]].**
 	- _Example: He associated his name with many environmental causes._
 - **To [[c/_connect|connect]] or [[j/_join|join]] together; [[c/_combine|combine]].**
 	- _Example: particles of gold associated with other substances_
@@ -18,7 +18,7 @@
 ### Antonyms
 - [[d/_disassociate|disassociate]]
 #adjective
-- **(of a person or thing) [[c/_connected|connected]] with something or [[a/_another|another]] person.**
+- **(of a [[p/_person|person]] or thing) [[c/_connected|connected]] with something or [[a/_another|another]] [[p/_person|person]].**
 	- _Example: an associated member_
 - **(of a [[c/_company|company]]) [[c/_connected|connected]] or [[a/_amalgamated|amalgamated]] with [[a/_another|another]] [[c/_company|company]].**
 ---

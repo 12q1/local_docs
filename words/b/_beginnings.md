@@ -5,7 +5,7 @@
 - **That which is [[b/_begun|begun]]; a rudiment or [[e/_element|element]].**
 - **That which [[b/_begins|begins]] or [[o/_originates|originates]] something; the source or [[f/_first|first]] [[c/_cause|cause]].**
 	- _Example: What was the beginning of the dispute?_
-- **The [[i/_initial|initial]] portion of some [[e/_extended|extended]] thing.**
+- **The [[i/_initial|initial]] [[p/_portion|portion]] of some [[e/_extended|extended]] thing.**
 	- _Example: That house is at the beginning of the street._
 ---
 ### Synonyms

@@ -7,11 +7,11 @@
 	- _Example: to grave an image_
 - **To [[i/_impress|impress]] [[d/_deeply|deeply]] (on the [[m/_mind|mind]]); to [[f/_fix|fix]] [[i/_indelibly|indelibly]].**
 - **To [[e/_entomb|entomb]]; to [[b/_bury|bury]].**
-- **To write or [[d/_delineate|delineate]] on [[h/_hard|hard]] substances, by [[m/_means|means]] of [[i/_incised|incised]] [[l/_lines|lines]]; to practice [[e/_engraving|engraving]].**
+- **To write or [[d/_delineate|delineate]] on [[h/_hard|hard]] substances, by [[m/_means|means]] of [[i/_incised|incised]] [[l/_lines|lines]]; to [[p/_practice|practice]] [[e/_engraving|engraving]].**
 ---
 #adjective
 - **[[c/_characterised|Characterised]] by a [[d/_dignified|dignified]] sense of seriousness; not [[c/_cheerful|cheerful]].**
-- **[[l/_low|Low]] in pitch, tone [[e/_etc|etc]].**
+- **[[l/_low|Low]] in [[p/_pitch|pitch]], tone [[e/_etc|etc]].**
 - **Serious, in a [[n/_negative|negative]] sense; [[i/_important|important]], [[f/_formidable|formidable]].**
 - **[[i/_influential|Influential]], [[i/_important|important]]; [[a/_authoritative|authoritative]].**
 ---
@@ -20,6 +20,6 @@
 ### Antonyms
 - [[a/_acute|acute]]
 #verb
-- **To [[c/_clean|clean]], as a vessel's [[b/_bottom|bottom]], of [[b/_barnacles|barnacles]], [[g/_grass|grass]], [[e/_etc|etc]]., and [[p/_pay|pay]] it [[o/_over|over]] with pitch — so [[c/_called|called]] [[b/_because|because]] [[g/_graves|graves]] or [[g/_greaves|greaves]] was [[f/_formerly|formerly]] used for this purpose.**
+- **To [[c/_clean|clean]], as a vessel's [[b/_bottom|bottom]], of [[b/_barnacles|barnacles]], [[g/_grass|grass]], [[e/_etc|etc]]., and [[p/_pay|pay]] it [[o/_over|over]] with [[p/_pitch|pitch]] — so [[c/_called|called]] [[b/_because|because]] [[g/_graves|graves]] or [[g/_greaves|greaves]] was [[f/_formerly|formerly]] used for this purpose.**
 ---
 ---

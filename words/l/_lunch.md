@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[l/_light|light]] [[m/_meal|meal]] usually [[e/_eaten|eaten]] [[a/_around|around]] [[m/_midday|midday]], [[n/_notably|notably]] when not as [[m/_main|main]] [[m/_meal|meal]] of the [[d/_day|day]].**
-- **A [[b/_break|break]] in play [[b/_between|between]] the [[f/_first|first]] and second sessions.**
+- **A [[b/_break|break]] in [[p/_play|play]] [[b/_between|between]] the [[f/_first|first]] and second sessions.**
 - **([[m/_minnesota|Minnesota]]) [[a/_any|Any]] small [[m/_meal|meal]], [[e/_especially|especially]] [[o/_one|one]] [[e/_eaten|eaten]] at a social [[g/_gathering|gathering]].**
 	- _Example: After the funeral there was a lunch for those who didn't go to the cemetery._
 ---

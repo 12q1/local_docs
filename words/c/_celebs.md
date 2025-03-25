@@ -1,6 +1,6 @@
 # Celebs
 ---
 #noun
-- **A [[c/_celebrity|celebrity]]; a [[f/_famous|famous]] person.**
+- **A [[c/_celebrity|celebrity]]; a [[f/_famous|famous]] [[p/_person|person]].**
 ---
 ---

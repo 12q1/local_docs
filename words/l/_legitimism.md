@@ -1,6 +1,6 @@
 # Legitimism
 ---
 #noun
-- **The principles or plans of legitimists.**
+- **The principles or [[p/_plans|plans]] of legitimists.**
 ---
 ---

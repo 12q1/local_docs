@@ -1,7 +1,7 @@
 # Hap
 ---
 #noun
-- **(in the plural) [[h/_happenings|Happenings]]; [[e/_events|events]]; [[g/_goings|goings]]-on.**
+- **(in the [[p/_plural|plural]]) [[h/_happenings|Happenings]]; [[e/_events|events]]; [[g/_goings|goings]]-on.**
 - **That which [[h/_happens|happens]]; an [[o/_occurrence|occurrence]] or [[h/_happening|happening]], [[e/_especially|especially]] an unexpected, random, [[c/_chance|chance]], or [[f/_fortuitous|fortuitous]] [[e/_event|event]]; [[c/_chance|chance]]; [[f/_fortune|fortune]]; [[l/_luck|luck]].**
 ---
 ### Synonyms

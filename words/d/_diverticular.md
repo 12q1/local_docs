@@ -1,6 +1,6 @@
 # Diverticular
 ---
 #adjective
-- **Of or pertaining to the [[d/_diverticulum|diverticulum]]**
+- **Of or [[p/_pertaining|pertaining]] to the [[d/_diverticulum|diverticulum]]**
 ---
 ---

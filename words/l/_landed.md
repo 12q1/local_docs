@@ -12,7 +12,7 @@
 - **To [[d/_deliver|deliver]].**
 ---
 #adjective
-- **In possession of [[l/_land|land]].**
+- **In [[p/_possession|possession]] of [[l/_land|land]].**
 	- _Example: landed gentry_
 - **[[c/_consisting|Consisting]] of [[l/_land|land]], [[e/_especially|especially]] with a single [[o/_owner|owner]].**
 	- _Example: a landed estate_

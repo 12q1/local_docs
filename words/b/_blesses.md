@@ -7,7 +7,7 @@
 - **To [[h/_honor|honor]] as [[h/_holy|holy]], [[g/_glorify|glorify]]; to [[e/_extol|extol]] for [[e/_excellence|excellence]].**
 - **To [[e/_esteem|esteem]] or [[a/_account|account]] [[h/_happy|happy]]; to [[f/_felicitate|felicitate]].**
 - **To wave; to [[b/_brandish|brandish]].**
-- **(past tense [[o/_only|only]] [[b/_blessed|blessed]]) To turn (a reference) [[i/_into|into]] an [[o/_object|object]].**
+- **([[p/_past|past]] tense [[o/_only|only]] [[b/_blessed|blessed]]) To turn (a reference) [[i/_into|into]] an [[o/_object|object]].**
 - **(with from) To secure, [[d/_defend|defend]], or prevent from.**
 ---
 ### Antonyms

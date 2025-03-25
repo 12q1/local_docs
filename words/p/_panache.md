@@ -1,7 +1,7 @@
 # Panache
 ---
 #noun
-- **An [[o/_ornamental|ornamental]] plume on a [[h/_helmet|helmet]].**
+- **An [[o/_ornamental|ornamental]] [[p/_plume|plume]] on a [[h/_helmet|helmet]].**
 - **[[f/_flamboyance|Flamboyance]], [[e/_energetic|energetic]] style or [[a/_action|action]]; [[d/_dash|dash]]; verve.**
 ---
 ### Synonyms

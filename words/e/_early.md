@@ -1,7 +1,7 @@
 # Early
 ---
 #noun
-- **A shift (scheduled work period) that takes place [[e/_early|early]] in the [[d/_day|day]].**
+- **A shift (scheduled work [[p/_period|period]]) that takes [[p/_place|place]] [[e/_early|early]] in the [[d/_day|day]].**
 ---
 ### Antonyms
 - [[l/_late|late]]

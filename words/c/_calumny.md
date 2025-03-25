@@ -8,6 +8,6 @@
 ### Synonyms
 - [[c/_calumniousness|calumniousness]], [[d/_defamation|defamation]], [[o/_obloquy|obloquy]], [[t/_traducement|traducement]], [[v/_vilification|vilification]]
 #verb
-- **To [[m/_make|make]] [[f/_false|false]] [[a/_accusations|accusations]] or [[l/_levy|levy]] [[f/_false|false]] [[c/_charges|charges]] [[a/_against|against]] a person with the [[i/_intent|intent]] to tarnish that person's reputation or standing; to [[c/_calumniate|calumniate]].**
+- **To [[m/_make|make]] [[f/_false|false]] [[a/_accusations|accusations]] or [[l/_levy|levy]] [[f/_false|false]] [[c/_charges|charges]] [[a/_against|against]] a [[p/_person|person]] with the [[i/_intent|intent]] to tarnish that [[p/_person|person]]'s reputation or standing; to [[c/_calumniate|calumniate]].**
 ---
 ---

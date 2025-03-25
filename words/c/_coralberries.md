@@ -1,7 +1,7 @@
 # Coralberries
 ---
 #noun
-- **A species of [[b/_bromeliad|bromeliad]], Aechmea fulgens, of [[b/_brazil|Brazil]], and which is [[o/_often|often]] used as an [[o/_ornamental|ornamental]] plant.**
+- **A species of [[b/_bromeliad|bromeliad]], Aechmea fulgens, of [[b/_brazil|Brazil]], and which is [[o/_often|often]] used as an [[o/_ornamental|ornamental]] [[p/_plant|plant]].**
 - **[[a/_american|American]] winterberry, [[i/_ilex|Ilex]] verticillata.**
 - **Symphoricarpos orbiculatus, of [[e/_eastern|eastern]] [[n/_north|North]] [[a/_america|America]].**
 - **[[a/_ardisia|Ardisia]] crenata of [[e/_east|east]] [[a/_asia|Asia]].**

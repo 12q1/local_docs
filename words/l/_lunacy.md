@@ -1,7 +1,7 @@
 # Lunacy
 ---
 #noun
-- **(of a person or [[g/_group|group]] of people) The state of [[b/_being|being]] [[m/_mad|mad]], [[i/_insanity|insanity]]**
+- **(of a [[p/_person|person]] or [[g/_group|group]] of [[p/_people|people]]) The state of [[b/_being|being]] [[m/_mad|mad]], [[i/_insanity|insanity]]**
 - **Something [[d/_deeply|deeply]] [[m/_misguided|misguided]].**
 ---
 ### Synonyms

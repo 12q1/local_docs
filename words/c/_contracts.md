@@ -1,10 +1,10 @@
 # Contracts
 ---
 #noun
-- **An [[a/_agreement|agreement]] [[b/_between|between]] two or [[m/_more|more]] parties, to perform a specific [[j/_job|job]] or work [[o/_order|order]], [[o/_often|often]] temporary or of [[f/_fixed|fixed]] [[d/_duration|duration]] and usually [[g/_governed|governed]] by a written [[a/_agreement|agreement]].**
+- **An [[a/_agreement|agreement]] [[b/_between|between]] two or [[m/_more|more]] [[p/_parties|parties]], to [[p/_perform|perform]] a specific [[j/_job|job]] or work [[o/_order|order]], [[o/_often|often]] temporary or of [[f/_fixed|fixed]] [[d/_duration|duration]] and usually [[g/_governed|governed]] by a written [[a/_agreement|agreement]].**
 	- _Example: Marriage is a contract._
 - **An [[a/_agreement|agreement]] which the [[l/_law|law]] will [[e/_enforce|enforce]] in some way. A [[l/_legally|legally]] [[b/_binding|binding]] [[c/_contract|contract]] [[m/_must|must]] [[c/_contain|contain]] at [[l/_least|least]] [[o/_one|one]] promise, [[i/_i|i]].[[e/_e|e]]., a [[c/_commitment|commitment]] or [[o/_offer|offer]], by an [[o/_offeror|offeror]] to and [[a/_accepted|accepted]] by an [[o/_offeree|offeree]] to [[d/_do|do]] something in the [[f/_future|future]]. A [[c/_contract|contract]] is thus [[e/_executory|executory]] rather than [[e/_executed|executed]].**
-- **A part of [[l/_legal|legal]] studies [[d/_dealing|dealing]] with [[l/_laws|laws]] and [[j/_jurisdiction|jurisdiction]] related to [[c/_contracts|contracts]].**
+- **A [[p/_part|part]] of [[l/_legal|legal]] studies [[d/_dealing|dealing]] with [[l/_laws|laws]] and [[j/_jurisdiction|jurisdiction]] related to [[c/_contracts|contracts]].**
 - **An [[o/_order|order]], usually [[g/_given|given]] to a [[h/_hired|hired]] [[a/_assassin|assassin]], to [[k/_kill|kill]] someone.**
 	- _Example: The mafia boss put a contract out on the man who betrayed him._
 - **The [[d/_declarer|declarer]]'s undertaking to win the [[n/_number|number]] of tricks [[b/_bid|bid]] with a stated suit as trump.**

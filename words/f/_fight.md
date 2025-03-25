@@ -1,15 +1,15 @@
 # Fight
 ---
 #verb
-- **To [[c/_contend|contend]] in physical [[c/_conflict|conflict]], [[e/_either|either]] singly or in war, [[b/_battle|battle]] [[e/_etc|etc]].**
+- **To [[c/_contend|contend]] in [[p/_physical|physical]] [[c/_conflict|conflict]], [[e/_either|either]] singly or in war, [[b/_battle|battle]] [[e/_etc|etc]].**
 	- _Example: A wounded animal will fight like a maniac, relentless, savage and murderous._
-- **To [[c/_contend|contend]] in physical [[c/_conflict|conflict]] with [[e/_each|each]] [[o/_other|other]], [[e/_either|either]] singly or in war, [[b/_battle|battle]] [[e/_etc|etc]].**
+- **To [[c/_contend|contend]] in [[p/_physical|physical]] [[c/_conflict|conflict]] with [[e/_each|each]] [[o/_other|other]], [[e/_either|either]] singly or in war, [[b/_battle|battle]] [[e/_etc|etc]].**
 	- _Example: The two boxers have been fighting for more than half an hour._
 - **To strive for something; to [[c/_campaign|campaign]] or [[c/_contend|contend]] for success.**
 	- _Example: He fought for the Democrats in the last election._
 - **To [[c/_conduct|conduct]] or [[e/_engage|engage]] in ([[b/_battle|battle]], warfare [[e/_etc|etc]].).**
 	- _Example: The battle was fought just over that hill._
-- **To [[e/_engage|engage]] in [[c/_combat|combat]] with; to [[o/_oppose|oppose]] physically, to [[c/_contest|contest]] with.**
+- **To [[e/_engage|engage]] in [[c/_combat|combat]] with; to [[o/_oppose|oppose]] [[p/_physically|physically]], to [[c/_contest|contest]] with.**
 	- _Example: My grandfather fought the Nazis in World War II._
 - **To try to [[o/_overpower|overpower]]; to [[f/_fiercely|fiercely]] [[c/_counteract|counteract]].**
 	- _Example: The government pledged to fight corruption._

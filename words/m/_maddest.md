@@ -16,7 +16,7 @@
 	- _Example: a mad dog_
 - **([[c/_chiefly|chiefly]] [[n/_northeastern|Northeastern]] US) [[i/_intensifier|Intensifier]], signifies an [[a/_abundance|abundance]] or [[h/_high|high]] quality of a thing; very, [[m/_much|much]] or [[m/_many|many]].**
 	- _Example: I gotta give you mad props for scoring us those tickets.   Their lead guitarist has mad skills.   There are always mad girls at those parties._
-- **(of a [[c/_compass|compass]] [[n/_needle|needle]]) [[h/_having|Having]] [[i/_impaired|impaired]] polarity.**
+- **(of a [[c/_compass|compass]] [[n/_needle|needle]]) [[h/_having|Having]] [[i/_impaired|impaired]] [[p/_polarity|polarity]].**
 ---
 ### Synonyms
 - [[h/_hella|hella]], [[h/_helluv|helluv]], [[k/_kinda|kinda]], [[m/_mighty|mighty]], [[w/_wicked|wicked]]

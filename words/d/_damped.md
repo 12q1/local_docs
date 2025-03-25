@@ -10,7 +10,7 @@
 - [[m/_moisten|moisten]]
 #adjective
 - **(of an [[e/_extinguished|extinguished]] [[f/_fire|fire]]) stopped from smouldering and reigniting by the [[a/_application|application]] of water**
-- **(of a [[l/_linear|linear]] [[d/_dynamic|dynamic]] system) Possessing a [[n/_nonzero|nonzero]] [[d/_damping|damping]] ratio.**
+- **(of a [[l/_linear|linear]] [[d/_dynamic|dynamic]] system) [[p/_possessing|Possessing]] a [[n/_nonzero|nonzero]] [[d/_damping|damping]] ratio.**
 ---
 ### Antonyms
 - [[u/_undamped|undamped]]

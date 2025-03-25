@@ -1,7 +1,7 @@
 # Abysmal
 ---
 #adjective
-- **Pertaining to, or resembling an [[a/_abyss|abyss]].**
+- **[[p/_pertaining|Pertaining]] to, or resembling an [[a/_abyss|abyss]].**
 - **[[e/_extremely|Extremely]] [[b/_bad|bad]]; terrible.**
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Hellholes
 ---
 #noun
-- **A place of [[i/_intense|intense]] [[h/_hatred|hatred]], [[m/_misery|misery]], or turmoil.**
+- **A [[p/_place|place]] of [[i/_intense|intense]] [[h/_hatred|hatred]], [[m/_misery|misery]], or turmoil.**
 ---
 ---

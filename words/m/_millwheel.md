@@ -1,6 +1,6 @@
 # Millwheel
 ---
 #noun
-- **A water wheel used to power a watermill.**
+- **A water wheel used to [[p/_power|power]] a watermill.**
 ---
 ---

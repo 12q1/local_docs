@@ -7,7 +7,7 @@
 ---
 #adjective
 - **Situated [[o/_outside|outside]] the [[h/_hull|hull]] of a vessel.**
-- **Positioned [[a/_away|away]] from the [[c/_centre|centre]] [[l/_line|line]] of a ship or [[a/_aircraft|aircraft]].**
+- **[[p/_positioned|Positioned]] [[a/_away|away]] from the [[c/_centre|centre]] [[l/_line|line]] of a ship or [[a/_aircraft|aircraft]].**
 - **[[b/_being|Being]] or relating to an [[e/_external|external]] [[e/_effects|effects]] unit such as [[c/_compressor|compressor]] or [[e/_equalizer|equalizer]].**
 ---
 ---

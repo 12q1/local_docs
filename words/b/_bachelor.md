@@ -1,7 +1,7 @@
 # Bachelor
 ---
 #noun
-- **A person, [[e/_especially|especially]] a [[m/_man|man]], who is socially regarded as [[a/_able|able]] to [[m/_marry|marry]], but [[h/_has|has]] not [[y/_yet|yet]].**
+- **A [[p/_person|person]], [[e/_especially|especially]] a [[m/_man|man]], who is socially regarded as [[a/_able|able]] to [[m/_marry|marry]], but [[h/_has|has]] not [[y/_yet|yet]].**
 - **The [[f/_first|first]] or [[l/_lowest|lowest]] [[a/_academical|academical]] [[d/_degree|degree]] [[c/_conferred|conferred]] by universities and [[c/_colleges|colleges]]; a [[b/_bachelor|bachelor]]'s [[d/_degree|degree]].**
 - **Someone who [[h/_has|has]] [[a/_achieved|achieved]] a [[b/_bachelor|bachelor]]'s [[d/_degree|degree]].**
 - **A [[b/_bachelor|bachelor]] [[a/_apartment|apartment]].**

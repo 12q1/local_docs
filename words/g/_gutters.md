@@ -1,7 +1,7 @@
 # Gutters
 ---
 #noun
-- **A prepared [[c/_channel|channel]] in a surface, [[e/_especially|especially]] at the side of a road [[a/_adjacent|adjacent]] to a [[c/_curb|curb]], [[i/_intended|intended]] for the [[d/_drainage|drainage]] of water.**
+- **A [[p/_prepared|prepared]] [[c/_channel|channel]] in a surface, [[e/_especially|especially]] at the side of a road [[a/_adjacent|adjacent]] to a [[c/_curb|curb]], [[i/_intended|intended]] for the [[d/_drainage|drainage]] of water.**
 - **A [[d/_ditch|ditch]] [[a/_along|along]] the side of a road.**
 - **A [[d/_duct|duct]] or [[c/_channel|channel]] [[b/_beneath|beneath]] the [[e/_eaves|eaves]] of a [[b/_building|building]] to [[c/_carry|carry]] rain water; eavestrough.**
 	- _Example: The gutters must be cleared of leaves a few times a year._
@@ -9,7 +9,7 @@
 - **A [[l/_large|large]] [[g/_groove|groove]] ([[c/_commonly|commonly]] [[b/_behind|behind]] [[a/_animals|animals]]) in a [[b/_barn|barn]] used for the [[c/_collection|collection]] and removal of [[a/_animal|animal]] [[e/_excrement|excrement]].**
 - **[[a/_any|Any]] [[n/_narrow|narrow]] [[c/_channel|channel]] or [[g/_groove|groove]], such as [[o/_one|one]] [[f/_formed|formed]] by [[e/_erosion|erosion]] in the vent of a [[g/_gun|gun]] from repeated [[f/_firing|firing]].**
 - **A space [[b/_between|between]] printed [[c/_columns|columns]] of text.**
-- **[[o/_one|One]] of a [[n/_number|number]] of pieces of wood or [[m/_metal|metal]], [[g/_grooved|grooved]] in the [[c/_centre|centre]], used to separate the [[p/_pages|pages]] of type in a [[f/_form|form]].**
+- **[[o/_one|One]] of a [[n/_number|number]] of [[p/_pieces|pieces]] of wood or [[m/_metal|metal]], [[g/_grooved|grooved]] in the [[c/_centre|centre]], used to separate the [[p/_pages|pages]] of type in a [[f/_form|form]].**
 - **An unprinted space [[b/_between|between]] rows of stamps.**
 - **A [[d/_drainage|drainage]] [[c/_channel|channel]].**
 - **The [[n/_notional|notional]] [[l/_locus|locus]] of things, [[a/_acts|acts]], or [[e/_events|events]] which are [[d/_distasteful|distasteful]], [[i/_ill|ill]] [[b/_bred|bred]] or [[m/_morally|morally]] questionable.**
@@ -21,7 +21,7 @@
 - **To [[f/_flow|flow]] or stream; to [[f/_form|form]] [[g/_gutters|gutters]].**
 - **(of a [[c/_candle|candle]]) To [[m/_melt|melt]] [[a/_away|away]] by [[h/_having|having]] the [[m/_molten|molten]] wax run [[d/_down|down]] [[a/_along|along]] the side of the [[c/_candle|candle]].**
 - **(of a small [[f/_flame|flame]]) To [[f/_flicker|flicker]] as [[i/_if|if]] [[a/_about|about]] to be [[e/_extinguished|extinguished]].**
-- **To send (a [[b/_bowling|bowling]] [[b/_ball|ball]]) [[i/_into|into]] the [[g/_gutter|gutter]], not [[h/_hitting|hitting]] [[a/_any|any]] pins.**
+- **To send (a [[b/_bowling|bowling]] [[b/_ball|ball]]) [[i/_into|into]] the [[g/_gutter|gutter]], not [[h/_hitting|hitting]] [[a/_any|any]] [[p/_pins|pins]].**
 - **To supply with a [[g/_gutter|gutter]] or [[g/_gutters|gutters]].**
 - **To [[c/_cut|cut]] or [[f/_form|form]] [[i/_into|into]] small [[l/_longitudinal|longitudinal]] [[h/_hollows|hollows]]; to [[c/_channel|channel]].**
 ---

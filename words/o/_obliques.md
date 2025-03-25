@@ -7,10 +7,10 @@
 ### Synonyms
 - [[s/_slash|slash]]
 #noun
-- **A slashing [[a/_action|action]] or [[m/_motion|motion]], particularly:**
-- **A [[m/_mark|mark]] [[m/_made|made]] by a slashing [[m/_motion|motion]], particularly:**
-- **Something resembling such a [[m/_mark|mark]], particularly:**
-- **The [[l/_loose|loose]] woody [[d/_debris|debris]] remaining from a slash, (particularly [[f/_forestry|forestry]]) the trimmings [[l/_left|left]] while preparing [[f/_felled|felled]] trees for removal.**
+- **A slashing [[a/_action|action]] or [[m/_motion|motion]], [[p/_particularly|particularly]]:**
+- **A [[m/_mark|mark]] [[m/_made|made]] by a slashing [[m/_motion|motion]], [[p/_particularly|particularly]]:**
+- **Something resembling such a [[m/_mark|mark]], [[p/_particularly|particularly]]:**
+- **The [[l/_loose|loose]] woody [[d/_debris|debris]] remaining from a slash, ([[p/_particularly|particularly]] [[f/_forestry|forestry]]) the trimmings [[l/_left|left]] while [[p/_preparing|preparing]] [[f/_felled|felled]] trees for removal.**
 	- _Example: Slash generated during logging may constitute a fire hazard._
 - **Slash [[f/_fiction|fiction]].**
 ---
@@ -20,15 +20,15 @@
 - [[b/_backslash|backslash]]
 #noun
 - **A [[d/_drink|drink]] of something; a [[d/_draft|draft]].**
-- **A piss: an [[a/_act|act]] of urination.**
+- **A [[p/_piss|piss]]: an [[a/_act|act]] of urination.**
 ---
 #noun
 - **A swampy [[a/_area|area]]; a swamp.**
 - **A [[l/_large|large]] quantity of watery [[f/_food|food]] such as [[b/_broth|broth]].**
 ---
 #noun
-- **The period of a transitory [[b/_breeze|breeze]].**
+- **The [[p/_period|period]] of a transitory [[b/_breeze|breeze]].**
 - **An [[i/_interval|interval]] of [[g/_good|good]] weather.**
-- **The [[l/_loose|loose]] part of a rope; slack.**
+- **The [[l/_loose|loose]] [[p/_part|part]] of a rope; slack.**
 ---
 ---

@@ -2,31 +2,31 @@
 ---
 #noun
 - **A [[l/_lid|lid]].**
-- **[[a/_area|Area]] or situation which screens a person or thing from view.**
+- **[[a/_area|Area]] or situation which screens a [[p/_person|person]] or thing from view.**
 	- _Example: The soldiers took cover behind a ruined building._
 - **The [[f/_front|front]] and [[b/_back|back]] of a [[b/_book|book]], [[m/_magazine|magazine]], [[c/_cd|CD]] [[p/_package|package]], [[e/_etc|etc]].**
 - **The top sheet of a [[b/_bed|bed]].**
-- **A [[c/_cloth|cloth]], usually [[f/_fitted|fitted]], placed [[o/_over|over]] an [[i/_item|item]] such as a [[c/_car|car]] or sofa to protect it from [[d/_dust|dust]], rain, [[e/_etc|etc]]. when not in use.**
+- **A [[c/_cloth|cloth]], usually [[f/_fitted|fitted]], [[p/_placed|placed]] [[o/_over|over]] an [[i/_item|item]] such as a [[c/_car|car]] or sofa to protect it from [[d/_dust|dust]], rain, [[e/_etc|etc]]. when not in use.**
 - **A [[c/_cover|cover]] [[c/_charge|charge]].**
 	- _Example: There's a $15 cover tonight._
 - **A setting at a restaurant table or [[f/_formal|formal]] [[d/_dinner|dinner]].**
 	- _Example: We need to set another cover for the Smith party._
-- **A [[n/_new|new]] performance or rerecording of a previously recorded song; a [[c/_cover|cover]] version; a [[c/_cover|cover]] song.**
-- **A [[f/_fielding|fielding]] position on the [[o/_off|off]] side, [[b/_between|between]] point and [[m/_mid|mid]] [[o/_off|off]], [[a/_about|about]] 30° [[f/_forward|forward]] of square; a [[f/_fielder|fielder]] in this position.**
+- **A [[n/_new|new]] [[p/_performance|performance]] or rerecording of a previously recorded song; a [[c/_cover|cover]] version; a [[c/_cover|cover]] song.**
+- **A [[f/_fielding|fielding]] [[p/_position|position]] on the [[o/_off|off]] side, [[b/_between|between]] [[p/_point|point]] and [[m/_mid|mid]] [[o/_off|off]], [[a/_about|about]] 30° [[f/_forward|forward]] of square; a [[f/_fielder|fielder]] in this [[p/_position|position]].**
 - **A set ([[m/_more|more]] [[o/_often|often]] [[k/_known|known]] as a [[f/_family|family]]) of sets, whose union [[c/_contains|contains]] the [[g/_given|given]] set.**
 	- _Example: The open intervals are a cover for the real numbers._
-- **An [[e/_envelope|envelope]] [[c/_complete|complete]] with stamps and postmarks [[e/_etc|etc]].**
+- **An [[e/_envelope|envelope]] [[c/_complete|complete]] with stamps and [[p/_postmarks|postmarks]] [[e/_etc|etc]].**
 - **A solid [[o/_object|object]], [[i/_including|including]] terrain, that provides protection from [[e/_enemy|enemy]] [[f/_fire|fire]].**
 - **In [[c/_commercial|commercial]] [[l/_law|law]], a [[b/_buyer|buyer]]’s purchase on the [[o/_open|open]] [[m/_market|market]] of [[g/_goods|goods]] similar or [[i/_identical|identical]] to the [[g/_goods|goods]] [[c/_contracted|contracted]] for [[a/_after|after]] a seller [[h/_has|has]] [[b/_breached|breached]] a [[c/_contract|contract]] of sale by [[f/_failure|failure]] to [[d/_deliver|deliver]] the [[g/_goods|goods]] [[c/_contracted|contracted]] for.**
 - **An [[i/_insurance|insurance]] [[c/_contract|contract]]; [[c/_coverage|coverage]] by an [[i/_insurance|insurance]] [[c/_contract|contract]].**
-- **A persona [[m/_maintained|maintained]] by a spy or undercover [[o/_operative|operative]]; [[c/_cover|cover]] story.**
+- **A [[p/_persona|persona]] [[m/_maintained|maintained]] by a spy or undercover [[o/_operative|operative]]; [[c/_cover|cover]] story.**
 - **A swindler's [[c/_confederate|confederate]].**
-- **The portion of a slate, tile, or shingle that is [[h/_hidden|hidden]] by the [[o/_overlap|overlap]] of the [[c/_course|course]] [[a/_above|above]].**
+- **The [[p/_portion|portion]] of a slate, tile, or shingle that is [[h/_hidden|hidden]] by the [[o/_overlap|overlap]] of the [[c/_course|course]] [[a/_above|above]].**
 - **In a steam [[e/_engine|engine]], the [[l/_lap|lap]] of a slide valve.**
 - **The [[d/_distance|distance]] [[b/_between|between]] reinforcing steel and the [[e/_exterior|exterior]] of [[c/_concrete|concrete]].**
 ---
 #verb
-- **To place something [[o/_over|over]] or upon, as to [[c/_conceal|conceal]] or protect.**
+- **To [[p/_place|place]] something [[o/_over|over]] or upon, as to [[c/_conceal|conceal]] or protect.**
 	- _Example: He covered the baby with a blanket._
 - **To be [[o/_over|over]] or upon, as to [[c/_conceal|conceal]] or protect.**
 	- _Example: The blanket covered the baby._
@@ -52,15 +52,15 @@
 	- _Example: Does my policy cover accidental loss?_
 - **To [[c/_copulate|copulate]] with (said of [[c/_certain|certain]] [[m/_male|male]] [[a/_animals|animals]] such as [[d/_dogs|dogs]] and [[h/_horses|horses]]).**
 	- _Example: I would like to have my bitch covered next spring._
-- **To protect or [[c/_control|control]] (a piece or square).**
+- **To protect or [[c/_control|control]] (a [[p/_piece|piece]] or square).**
 	- _Example: In order to checkmate a king on the side of the board, the five squares adjacent to the king must all be covered._
-- **To [[e/_extend|extend]] [[o/_over|over]] a [[g/_given|given]] period of time or range, to [[o/_occupy|occupy]], to stretch [[o/_over|over]] a [[g/_given|given]] [[a/_area|area]].**
-- **To [[d/_defend|defend]] a particular player or [[a/_area|area]].**
+- **To [[e/_extend|extend]] [[o/_over|over]] a [[g/_given|given]] [[p/_period|period]] of time or range, to [[o/_occupy|occupy]], to stretch [[o/_over|over]] a [[g/_given|given]] [[a/_area|area]].**
+- **To [[d/_defend|defend]] a [[p/_particular|particular]] [[p/_player|player]] or [[a/_area|area]].**
 ---
 ### Synonyms
 - [[i/_impregnate|impregnate]]
 #adjective
-- **Of or pertaining to the [[f/_front|front]] [[c/_cover|cover]] of a [[b/_book|book]] or [[m/_magazine|magazine]].**
-- **Of, pertaining to, or [[c/_consisting|consisting]] of [[c/_cover|cover]] versions.**
+- **Of or [[p/_pertaining|pertaining]] to the [[f/_front|front]] [[c/_cover|cover]] of a [[b/_book|book]] or [[m/_magazine|magazine]].**
+- **Of, [[p/_pertaining|pertaining]] to, or [[c/_consisting|consisting]] of [[c/_cover|cover]] versions.**
 ---
 ---

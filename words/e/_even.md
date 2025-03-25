@@ -10,7 +10,7 @@
 - **To [[e/_equal|equal]].**
 - **To be [[e/_equal|equal]].**
 	- _Example: Thrice nine evens twenty seven._
-- **To place in an [[e/_equal|equal]] state, as to [[o/_obligation|obligation]], or in a state in which [[n/_nothing|nothing]] is [[d/_due|due]] on [[e/_either|either]] side; to [[b/_balance|balance]], as [[a/_accounts|accounts]]; to [[m/_make|make]] quits.**
+- **To [[p/_place|place]] in an [[e/_equal|equal]] state, as to [[o/_obligation|obligation]], or in a state in which [[n/_nothing|nothing]] is [[d/_due|due]] on [[e/_either|either]] side; to [[b/_balance|balance]], as [[a/_accounts|accounts]]; to [[m/_make|make]] quits.**
 	- _Example: We need to even the score._
 - **To set right; to [[c/_complete|complete]].**
 - **To [[a/_act|act]] up to; to [[k/_keep|keep]] [[p/_pace|pace]] with.**
@@ -30,7 +30,7 @@
 - **On [[e/_equal|equal]] [[m/_monetary|monetary]] terms; [[n/_neither|neither]] [[o/_owing|owing]] [[n/_nor|nor]] [[b/_being|being]] [[o/_owed|owed]].**
 - **On [[e/_equal|equal]] terms of a [[m/_moral|moral]] sort; quits.**
 	- _Example: You biffed me back at the barn, and I biffed you here—so now we're even._
-- **Parallel; on a [[l/_level|level]]; reaching the same [[l/_limit|limit]].**
+- **[[p/_parallel|Parallel]]; on a [[l/_level|level]]; reaching the same [[l/_limit|limit]].**
 - **Without an [[i/_irregularity|irregularity]], [[f/_flaw|flaw]], or [[b/_blemish|blemish]]; pure.**
 - **[[a/_associate|Associate]]; [[f/_fellow|fellow]]; of the same [[c/_condition|condition]].**
 ---

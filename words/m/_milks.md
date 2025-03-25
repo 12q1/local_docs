@@ -5,7 +5,7 @@
 - **A white (or whitish) [[l/_liquid|liquid]] [[o/_obtained|obtained]] from a vegetable source such as [[a/_almonds|almonds]], [[c/_coconuts|coconuts]], [[o/_oats|oats]], rice, and/or soy [[b/_beans|beans]]. [[a/_also|Also]] [[c/_called|called]] [[n/_non|non]]-[[d/_dairy|dairy]] [[m/_milk|milk]].**
 - **An [[i/_individual|individual]] serving of [[m/_milk|milk]].**
 	- _Example: Table three ordered three milks. (Formally: The guests at table three ordered three glasses of milk.)_
-- **An [[i/_individual|individual]] portion of [[m/_milk|milk]], such as [[f/_found|found]] in a [[c/_creamer|creamer]], for tea and [[c/_coffee|coffee]].**
+- **An [[i/_individual|individual]] [[p/_portion|portion]] of [[m/_milk|milk]], such as [[f/_found|found]] in a [[c/_creamer|creamer]], for tea and [[c/_coffee|coffee]].**
 	- _Example: I take my tea with two milk(s) and two sugar._
 - **The ripe, undischarged spat of an [[o/_oyster|oyster]].**
 - **Semen.**
@@ -18,10 +18,10 @@
 - **To [[d/_draw|draw]] ([[m/_milk|milk]]) from the [[b/_breasts|breasts]] or udder.**
 	- _Example: to milk wholesome milk from healthy cows_
 - **To [[e/_express|express]] [[a/_any|any]] [[l/_liquid|liquid]] (from [[a/_any|any]] [[c/_creature|creature]]).**
-- **To [[m/_make|make]] [[e/_excessive|excessive]] use of (a particular point in speech or writing, a source of [[f/_funds|funds]], [[e/_etc|etc]].); to [[e/_exploit|exploit]]; to take [[a/_advantage|advantage]] of (something).**
+- **To [[m/_make|make]] [[e/_excessive|excessive]] use of (a [[p/_particular|particular]] [[p/_point|point]] in speech or writing, a source of [[f/_funds|funds]], [[e/_etc|etc]].); to [[e/_exploit|exploit]]; to take [[a/_advantage|advantage]] of (something).**
 	- _Example: When the audience began laughing, the comedian milked the joke for more laughs._
-- **(of an [[e/_electrical|electrical]] storage [[b/_battery|battery]]) To [[g/_give|give]] [[o/_off|off]] small [[g/_gas|gas]] [[b/_bubbles|bubbles]] [[d/_during|during]] the [[f/_final|final]] part of the [[c/_charging|charging]] [[o/_operation|operation]].**
-- **To single-[[m/_mindedly|mindedly]] [[m/_masturbate|masturbate]] a [[m/_male|male]] to [[e/_ejaculation|ejaculation]], [[e/_especially|especially]] for the [[a/_amusement|amusement]] and/or satisfaction of the [[m/_masturbator|masturbator]]/trix rather than the person [[m/_masturbated|masturbated]].**
+- **(of an [[e/_electrical|electrical]] storage [[b/_battery|battery]]) To [[g/_give|give]] [[o/_off|off]] small [[g/_gas|gas]] [[b/_bubbles|bubbles]] [[d/_during|during]] the [[f/_final|final]] [[p/_part|part]] of the [[c/_charging|charging]] [[o/_operation|operation]].**
+- **To single-[[m/_mindedly|mindedly]] [[m/_masturbate|masturbate]] a [[m/_male|male]] to [[e/_ejaculation|ejaculation]], [[e/_especially|especially]] for the [[a/_amusement|amusement]] and/or satisfaction of the [[m/_masturbator|masturbator]]/trix rather than the [[p/_person|person]] [[m/_masturbated|masturbated]].**
 	- _Example: Controlled milking can actually establish and consolidate a mistress’ dominance over her sub rather than diminish it._
 ---
 ---

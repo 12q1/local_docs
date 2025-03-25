@@ -6,7 +6,7 @@
 	- _Example: It’s your go._
 - **An [[a/_attempt|attempt]], a try.**
 	- _Example: I’ll give it a go._
-- **An [[a/_approval|approval]] or permission to [[d/_do|do]] something, or that which [[h/_has|has]] [[b/_been|been]] [[a/_approved|approved]].**
+- **An [[a/_approval|approval]] or [[p/_permission|permission]] to [[d/_do|do]] something, or that which [[h/_has|has]] [[b/_been|been]] [[a/_approved|approved]].**
 	- _Example: We will begin as soon as the boss says it's a go._
 - **An [[a/_act|act]]; the working or [[o/_operation|operation]].**
 - **A [[c/_circumstance|circumstance]] or [[o/_occurrence|occurrence]]; an [[i/_incident|incident]], [[o/_often|often]] unexpected.**
@@ -15,18 +15,18 @@
 - **[[n/_noisy|Noisy]] [[m/_merriment|merriment]].**
 	- _Example: a high go_
 - **A [[g/_glass|glass]] of spirits; a quantity of spirits.**
-- **Power of [[g/_going|going]] or [[d/_doing|doing]]; [[e/_energy|energy]]; vitality; perseverance.**
+- **[[p/_power|Power]] of [[g/_going|going]] or [[d/_doing|doing]]; [[e/_energy|energy]]; vitality; [[p/_perseverance|perseverance]].**
 	- _Example: There is no go in him._
-- **The situation where a player [[c/_cannot|cannot]] play a [[c/_card|card]] which will not [[c/_carry|carry]] the [[a/_aggregate|aggregate]] [[c/_count|count]] [[a/_above|above]] thirty-[[o/_one|one]].**
-- **A period of [[a/_activity|activity]].**
+- **The situation where a [[p/_player|player]] [[c/_cannot|cannot]] [[p/_play|play]] a [[c/_card|card]] which will not [[c/_carry|carry]] the [[a/_aggregate|aggregate]] [[c/_count|count]] [[a/_above|above]] thirty-[[o/_one|one]].**
+- **A [[p/_period|period]] of [[a/_activity|activity]].**
 	- _Example: ate it all in one go_
-- **([[b/_british|British]] slang) A [[d/_dandy|dandy]]; a [[f/_fashionable|fashionable]] person.**
+- **([[b/_british|British]] slang) A [[d/_dandy|dandy]]; a [[f/_fashionable|fashionable]] [[p/_person|person]].**
 ---
 ### Synonyms
 - [[a/_attempt|attempt]], [[b/_bash|bash]], [[s/_shot|shot]], [[s/_stab|stab]], [[t/_try|try]], [[e/_energy|energy]], [[f/_flair|flair]], [[l/_liveliness|liveliness]], [[p/_perseverance|perseverance]], [[p/_pizzazz|pizzazz]], [[s/_spirit|spirit]], [[v/_verve|verve]], [[v/_vigour|vigour]], [[v/_vim|vim]], [[v/_vitality|vitality]], [[z/_zest|zest]], [[g/_gage|gage]], [[m/_measure|measure]], [[m/_mode|mode]], [[s/_style|style]], [[t/_trend|trend]], [[m/_move|move]], [[s/_stint|stint]], [[t/_turn|turn]]
 #verb
 - **To [[m/_move|move]]:**
-- **([[c/_chiefly|chiefly]] of a [[m/_machine|machine]]) To work or [[f/_function|function]] (properly); to [[m/_move|move]] or perform (as required).**
+- **([[c/_chiefly|chiefly]] of a [[m/_machine|machine]]) To work or [[f/_function|function]] (properly); to [[m/_move|move]] or [[p/_perform|perform]] (as required).**
 	- _Example: The engine just won't go anymore._
 - **To start; to [[b/_begin|begin]] (an [[a/_action|action]] or process).**
 	- _Example: Get ready, get set, go!_
@@ -35,10 +35,10 @@
 - **To [[a/_attend|attend]].**
 	- _Example: I go to school at the schoolhouse._
 - **To proceed:**
-- **To [[f/_follow|follow]] or travel [[a/_along|along]] (a path):**
-- **To [[e/_extend|extend]] (from [[o/_one|one]] point in time or space to [[a/_another|another]]).**
+- **To [[f/_follow|follow]] or travel [[a/_along|along]] (a [[p/_path|path]]):**
+- **To [[e/_extend|extend]] (from [[o/_one|one]] [[p/_point|point]] in time or space to [[a/_another|another]]).**
 	- _Example: This property goes all the way to the state line._
-- **To [[l/_lead|lead]] (to a place); to [[g/_give|give]] [[a/_access|access]] to.**
+- **To [[l/_lead|lead]] (to a [[p/_place|place]]); to [[g/_give|give]] [[a/_access|access]] to.**
 	- _Example: Does this road go to Fort Smith?_
 - **To [[b/_become|become]]. (The [[a/_adjective|adjective]] that [[f/_follows|follows]] usually [[d/_describes|describes]] a [[n/_negative|negative]] state.)**
 	- _Example: After failing as a criminal, he decided to go straight._
@@ -55,7 +55,7 @@
 	- _Example: These experiences go to make us stronger._
 - **To [[c/_contribute|contribute]] to a (specified) [[e/_end|end]] product or result.**
 	- _Example: qualities that go to make a lady / lip-reader / sharpshooter_
-- **To pass, to be used up:**
+- **To [[p/_pass|pass]], to be used up:**
 - **To [[d/_die|die]].**
 - **To be [[d/_discarded|discarded]].**
 	- _Example: This chair has got to go._
@@ -65,7 +65,7 @@
 	- _Example: Everything must go._
 - **To be [[g/_given|given]], [[e/_especially|especially]] to be [[a/_assigned|assigned]] or [[a/_allotted|allotted]].**
 	- _Example: The award went to Steven Spielberg._
-- **To survive or [[g/_get|get]] by; to [[l/_last|last]] or persist for a stated [[l/_length|length]] of time.**
+- **To survive or [[g/_get|get]] by; to [[l/_last|last]] or [[p/_persist|persist]] for a stated [[l/_length|length]] of time.**
 	- _Example: Can you two go twenty minutes without arguing?!_
 - **To [[h/_have|have]] a [[c/_certain|certain]] record.**
 	- _Example: The team is going five in a row._
@@ -76,13 +76,13 @@
 - **To resort (to).**
 	- _Example: I'll go to court if I have to._
 - **To [[a/_apply|apply]] or subject [[o/_oneself|oneself]] to:**
-- **To [[f/_fit|fit]] (in a place, or together with something):**
+- **To [[f/_fit|fit]] (in a [[p/_place|place]], or together with something):**
 - **To [[d/_date|date]].**
 	- _Example: He's been going with her for two weeks._
 - **To [[a/_attack|attack]]:**
 - **To be in [[g/_general|general]]; to be usually.**
 	- _Example: As sentences go, this one is pretty boring._
-- **To take (a particular part or share); to participate in to the [[e/_extent|extent]] of.**
+- **To take (a [[p/_particular|particular]] [[p/_part|part]] or share); to [[p/_participate|participate]] in to the [[e/_extent|extent]] of.**
 	- _Example: Let's go halves on this._
 - **To [[y/_yield|yield]] or weigh.**
 	- _Example: Those babies go five tons apiece._

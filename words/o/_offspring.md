@@ -1,9 +1,9 @@
 # Offspring
 ---
 #noun
-- **A person's [[d/_daughter|daughter]](s) and/or son(s); a person's [[c/_children|children]].**
-- **[[a/_all|All]] of a person's [[d/_descendants|descendants]], [[i/_including|including]] [[f/_further|further]] [[g/_generations|generations]].**
-- **An [[a/_animal|animal]] or plant's progeny or [[y/_young|young]].**
+- **A [[p/_person|person]]'s [[d/_daughter|daughter]](s) and/or son(s); a [[p/_person|person]]'s [[c/_children|children]].**
+- **[[a/_all|All]] of a [[p/_person|person]]'s [[d/_descendants|descendants]], [[i/_including|including]] [[f/_further|further]] [[g/_generations|generations]].**
+- **An [[a/_animal|animal]] or [[p/_plant|plant]]'s progeny or [[y/_young|young]].**
 - **[[a/_anything|Anything]] produced; the result of an [[e/_entity|entity]]'s [[e/_efforts|efforts]].**
 	- _Example: Artists often treasure their works as their immortal offspring._
 - **A process [[l/_launched|launched]] by [[a/_another|another]] process.**

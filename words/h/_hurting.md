@@ -3,7 +3,7 @@
 #verb
 - **To be [[p/_painful|painful]].**
 	- _Example: Does your leg still hurt? / It is starting to feel better._
-- **To [[c/_cause|cause]] (a [[c/_creature|creature]]) physical [[p/_pain|pain]] and/or [[i/_injury|injury]].**
+- **To [[c/_cause|cause]] (a [[c/_creature|creature]]) [[p/_physical|physical]] [[p/_pain|pain]] and/or [[i/_injury|injury]].**
 	- _Example: If anybody hurts my little brother, I will get upset._
 - **To [[c/_cause|cause]] (somebody) [[e/_emotional|emotional]] [[p/_pain|pain]].**
 - **To undermine, [[i/_impede|impede]], or [[d/_damage|damage]].**

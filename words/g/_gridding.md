@@ -6,6 +6,6 @@
 ---
 #noun
 - **[[a/_adding|Adding]] a [[g/_grid|grid]] of [[l/_lines|lines]] to a [[m/_map|map]] [[e/_etc|etc]].**
-- **The [[c/_construction|construction]] of a rectangular [[m/_matrix|matrix]] of [[n/_numbers|numbers]] from a set of scattered [[d/_data|data]] points.**
+- **The [[c/_construction|construction]] of a rectangular [[m/_matrix|matrix]] of [[n/_numbers|numbers]] from a set of scattered [[d/_data|data]] [[p/_points|points]].**
 ---
 ---

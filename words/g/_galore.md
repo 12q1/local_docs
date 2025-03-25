@@ -1,7 +1,7 @@
 # Galore
 ---
 #noun
-- **An [[a/_abundance|abundance]]; plenty.**
+- **An [[a/_abundance|abundance]]; [[p/_plenty|plenty]].**
 ---
 #adjective
 - **In [[a/_abundance|abundance]].**

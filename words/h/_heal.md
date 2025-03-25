@@ -1,7 +1,7 @@
 # Heal
 ---
 #noun
-- **A spell or [[a/_ability|ability]] that restores [[h/_hit|hit]] points or removes a status [[a/_ailment|ailment]].**
+- **A spell or [[a/_ability|ability]] that restores [[h/_hit|hit]] [[p/_points|points]] or removes a status [[a/_ailment|ailment]].**
 - **[[h/_health|Health]]**
 ---
 #verb

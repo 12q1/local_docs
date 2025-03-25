@@ -11,7 +11,7 @@
 - **To [[b/_break|break]] wind.**
 ---
 #noun
-- **The sexual practice of [[i/_inserting|inserting]] [[o/_one|one]] or [[b/_both|both]] [[h/_hands|hands]] [[i/_into|into]] the vagina or rectum of [[o/_one|one]]'s sexual partner.**
+- **The sexual [[p/_practice|practice]] of [[i/_inserting|inserting]] [[o/_one|one]] or [[b/_both|both]] [[h/_hands|hands]] [[i/_into|into]] the vagina or rectum of [[o/_one|one]]'s sexual [[p/_partner|partner]].**
 ---
 ### Synonyms
 - [[F/_FF|FF]], [[f/_fist-fucking|fist-fucking]]

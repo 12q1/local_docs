@@ -7,6 +7,6 @@
 ### Antonyms
 - [[s/_softship|softship]]
 #verb
-- **To treat (a person) [[b/_badly|badly]]; to subject to [[h/_hardships|hardships]].**
+- **To treat (a [[p/_person|person]]) [[b/_badly|badly]]; to subject to [[h/_hardships|hardships]].**
 ---
 ---

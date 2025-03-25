@@ -1,6 +1,6 @@
 # Pancreatic
 ---
 #adjective
-- **Of or pertaining to the [[p/_pancreas|pancreas]]**
+- **Of or [[p/_pertaining|pertaining]] to the [[p/_pancreas|pancreas]]**
 ---
 ---

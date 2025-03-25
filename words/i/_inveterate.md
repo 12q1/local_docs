@@ -6,7 +6,7 @@
 #adjective
 - **[[f/_firmly|Firmly]] [[e/_established|established]] from [[h/_having|having]] [[b/_been|been]] [[a/_around|around]] for a [[l/_long|long]] time; of [[l/_long|long]] standing**
 	- _Example: an inveterate disease_
-- **(of a person) [[h/_having|Having]] [[h/_had|had]] a [[h/_habit|habit]] for a [[l/_long|long]] time**
+- **(of a [[p/_person|person]]) [[h/_having|Having]] [[h/_had|had]] a [[h/_habit|habit]] for a [[l/_long|long]] time**
 	- _Example: an inveterate idler_
 - **[[m/_malignant|Malignant]]; virulent; spiteful.**
 ---

@@ -1,10 +1,10 @@
 # Onstage
 ---
 #adjective
-- **On the part of a stage that is visible to the [[a/_audience|audience]].**
+- **On the [[p/_part|part]] of a stage that is visible to the [[a/_audience|audience]].**
 ---
 #adverb
-- **Taking place on the part of a stage that is visible to the [[a/_audience|audience]].**
+- **Taking [[p/_place|place]] on the [[p/_part|part]] of a stage that is visible to the [[a/_audience|audience]].**
 ---
 ### Antonyms
 - [[o/_offstage|offstage]]

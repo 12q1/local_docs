@@ -10,7 +10,7 @@
 - **To [[m/_mark|mark]] (something) with [[d/_degrees|degrees]]; to [[d/_divide|divide]] [[i/_into|into]] regular steps or [[i/_intervals|intervals]], as the scale of a thermometer, a scheme of punishment or rewards, [[e/_etc|etc]].**
 - **To [[c/_change|change]] [[g/_gradually|gradually]].**
 	- _Example: sandstone which graduates into gneiss; carnelian sometimes graduates into quartz_
-- **To prepare [[g/_gradually|gradually]]; to [[a/_arrange|arrange]], temper, or [[m/_modify|modify]] by [[d/_degrees|degrees]] or to a [[c/_certain|certain]] [[d/_degree|degree]]; to [[d/_determine|determine]] the [[d/_degrees|degrees]] of.**
+- **To [[p/_prepare|prepare]] [[g/_gradually|gradually]]; to [[a/_arrange|arrange]], temper, or [[m/_modify|modify]] by [[d/_degrees|degrees]] or to a [[c/_certain|certain]] [[d/_degree|degree]]; to [[d/_determine|determine]] the [[d/_degrees|degrees]] of.**
 	- _Example: to graduate the heat of an oven_
 - **To [[b/_bring|bring]] to a [[c/_certain|certain]] [[d/_degree|degree]] of [[c/_consistency|consistency]], by [[e/_evaporation|evaporation]], as a [[f/_fluid|fluid]].**
 - **To taper, as the tail of [[c/_certain|certain]] [[b/_birds|birds]].**

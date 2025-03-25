@@ -1,6 +1,6 @@
 # Historicize
 ---
 #verb
-- **To treat from the perspective of [[h/_history|history]] or [[h/_historicism|historicism]]**
+- **To treat from the [[p/_perspective|perspective]] of [[h/_history|history]] or [[h/_historicism|historicism]]**
 ---
 ---

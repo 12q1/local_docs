@@ -3,14 +3,14 @@
 #noun
 - **[[m/_mutual|Mutual]] [[g/_good|good]], shared by [[m/_more|more]] than [[o/_one|one]].**
 - **A tract of [[l/_land|land]] in [[c/_common|common]] [[o/_ownership|ownership]]; [[c/_common|common]] [[l/_land|land]].**
-- **The people; the [[c/_community|community]].**
-- **The right of taking a profit in the [[l/_land|land]] of [[a/_another|another]], in [[c/_common|common]] [[e/_either|either]] with the [[o/_owner|owner]] or with [[o/_other|other]] persons; so [[c/_called|called]] from the [[c/_community|community]] of [[i/_interest|interest]] which [[a/_arises|arises]] [[b/_between|between]] the [[c/_claimant|claimant]] of the right and the [[o/_owner|owner]] of the soil, or [[b/_between|between]] the [[c/_claimants|claimants]] and [[o/_other|other]] [[c/_commoners|commoners]] [[e/_entitled|entitled]] to the same right.**
+- **The [[p/_people|people]]; the [[c/_community|community]].**
+- **The right of taking a profit in the [[l/_land|land]] of [[a/_another|another]], in [[c/_common|common]] [[e/_either|either]] with the [[o/_owner|owner]] or with [[o/_other|other]] [[p/_persons|persons]]; so [[c/_called|called]] from the [[c/_community|community]] of [[i/_interest|interest]] which [[a/_arises|arises]] [[b/_between|between]] the [[c/_claimant|claimant]] of the right and the [[o/_owner|owner]] of the soil, or [[b/_between|between]] the [[c/_claimants|claimants]] and [[o/_other|other]] [[c/_commoners|commoners]] [[e/_entitled|entitled]] to the same right.**
 ---
 #verb
 - **To [[c/_communicate|communicate]] (something).**
 - **To [[c/_converse|converse]], talk.**
 - **To [[h/_have|have]] sex.**
-- **To participate.**
+- **To [[p/_participate|participate]].**
 - **To [[h/_have|have]] a [[j/_joint|joint]] right with [[o/_others|others]] in [[c/_common|common]] [[g/_ground|ground]].**
 - **To [[b/_board|board]] together; to [[e/_eat|eat]] at a table in [[c/_common|common]].**
 ---

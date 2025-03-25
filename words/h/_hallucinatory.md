@@ -1,6 +1,6 @@
 # Hallucinatory
 ---
 #adjective
-- **Partaking of, or tending to produce, [[h/_hallucination|hallucination]].**
+- **[[p/_partaking|Partaking]] of, or tending to produce, [[h/_hallucination|hallucination]].**
 ---
 ---

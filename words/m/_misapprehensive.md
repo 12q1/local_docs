@@ -1,6 +1,6 @@
 # Misapprehensive
 ---
 #adjective
-- **Of or pertaining to [[m/_misapprehension|misapprehension]].**
+- **Of or [[p/_pertaining|pertaining]] to [[m/_misapprehension|misapprehension]].**
 ---
 ---

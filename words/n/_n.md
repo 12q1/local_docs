@@ -7,6 +7,6 @@
 - **[[n/_normal|Normal]]**
 - **[[n/_neutral|Neutral]]**
 - **[[n/_no|No]]**
-- **Shortening of and, used in set phrases [[l/_like|like]] rock-[[n/_n|n]]-roll.**
+- **Shortening of and, used in set [[p/_phrases|phrases]] [[l/_like|like]] rock-[[n/_n|n]]-roll.**
 ---
 ---

@@ -5,7 +5,7 @@
 - **[[a/_any|Any]] sound or [[i/_information|information]] [[i/_intended|intended]] to [[g/_give|give]] [[n/_notice|notice]] of [[a/_approaching|approaching]] [[d/_danger|danger]]; a warning sound to [[a/_arouse|arouse]] [[a/_attention|attention]]; a warning of [[d/_danger|danger]].**
 - **A sudden [[a/_attack|attack]]; [[d/_disturbance|disturbance]].**
 - **Sudden surprise with [[f/_fear|fear]] or terror [[e/_excited|excited]] by [[a/_apprehension|apprehension]] of [[d/_danger|danger]]; in the [[m/_military|military]] use, [[c/_commonly|commonly]], sudden [[a/_apprehension|apprehension]] of [[b/_being|being]] [[a/_attacked|attacked]] by surprise.**
-- **A [[m/_mechanical|mechanical]] [[d/_device|device]] for [[a/_awaking|awaking]] people, or rousing their [[a/_attention|attention]].**
+- **A [[m/_mechanical|mechanical]] [[d/_device|device]] for [[a/_awaking|awaking]] [[p/_people|people]], or rousing their [[a/_attention|attention]].**
 	- _Example: The clock radio is a friendlier version of the cold alarm by the bedside._
 - **An [[i/_instance|instance]] of an [[a/_alarm|alarm]] ringing, [[b/_beeping|beeping]] or [[c/_clanging|clanging]], to [[g/_give|give]] a [[n/_noise|noise]] signal at a [[c/_certain|certain]] time.**
 	- _Example: You should set the alarm on your watch to go off at seven o'clock._

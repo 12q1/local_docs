@@ -8,7 +8,7 @@
 ### Synonyms
 - [[o/_orthoepy|orthoepy]]
 #noun
-- **The [[a/_act|act]], practice, [[a/_ability|ability]], or subject of [[f/_forming|forming]] words with [[l/_letters|letters]], or of reading the [[l/_letters|letters]] of words; [[o/_orthography|orthography]].**
+- **The [[a/_act|act]], [[p/_practice|practice]], [[a/_ability|ability]], or subject of [[f/_forming|forming]] words with [[l/_letters|letters]], or of reading the [[l/_letters|letters]] of words; [[o/_orthography|orthography]].**
 - **The [[m/_manner|manner]] of spelling of words; [[c/_correct|correct]] spelling.**
 - **A specific spelling of a word.**
 - **A spelling test or spelling [[b/_bee|bee]].**

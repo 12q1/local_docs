@@ -1,7 +1,7 @@
 # Farewell
 ---
 #noun
-- **A wish of [[h/_happiness|happiness]] or safety at parting, [[e/_especially|especially]] a permanent [[d/_departure|departure]]**
+- **A wish of [[h/_happiness|happiness]] or safety at [[p/_parting|parting]], [[e/_especially|especially]] a [[p/_permanent|permanent]] [[d/_departure|departure]]**
 - **A [[d/_departure|departure]]; the [[a/_act|act]] of [[l/_leaving|leaving]]**
 ---
 ### Synonyms
@@ -10,7 +10,7 @@
 - **To [[b/_bid|bid]] [[f/_farewell|farewell]] or say [[g/_goodbye|goodbye]].**
 ---
 #adjective
-- **Parting, valedictory, [[f/_final|final]].**
+- **[[p/_parting|Parting]], valedictory, [[f/_final|final]].**
 	- _Example: a farewell discourse;  the band's farewell tour_
 ---
 #interjection

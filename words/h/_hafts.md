@@ -9,6 +9,6 @@
 - **To [[f/_fit|fit]] a [[h/_handle|handle]] to (a tool or weapon); to [[g/_grip|grip]] by the [[h/_handle|handle]]**
 ---
 #noun
-- **A piece of [[m/_mountain|mountain]] pasture to which a [[f/_farm|farm]] [[a/_animal|animal]] [[h/_has|has]] [[b/_become|become]] [[h/_hefted|hefted]].**
+- **A [[p/_piece|piece]] of [[m/_mountain|mountain]] [[p/_pasture|pasture]] to which a [[f/_farm|farm]] [[a/_animal|animal]] [[h/_has|has]] [[b/_become|become]] [[h/_hefted|hefted]].**
 ---
 ---

@@ -20,7 +20,7 @@
 	- _Example: Chapter 10 further explains the ideas introduced in Chapter 9._
 - **[[a/_also|Also]]; in [[a/_addition|addition]]; [[f/_furthermore|furthermore]]; [[m/_moreover|moreover]].**
 	- _Example: It is overlong, and further, it makes no sense._
-- **(in the phrase '[[f/_further|further]] to') [[f/_following|Following]] on (from).**
+- **(in the [[p/_phrase|phrase]] '[[f/_further|further]] to') [[f/_following|Following]] on (from).**
 	- _Example: Further to our recent telephone call, I am writing to clarify certain points raised._
 ---
 ---

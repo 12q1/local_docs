@@ -1,7 +1,7 @@
 # Obsessive
 ---
 #noun
-- **A person who is [[o/_obsessed|obsessed]], who [[h/_has|has]] an [[o/_obsession|obsession]].**
+- **A [[p/_person|person]] who is [[o/_obsessed|obsessed]], who [[h/_has|has]] an [[o/_obsession|obsession]].**
 ---
 #adjective
 - **Prone to [[c/_cause|cause]] [[o/_obsession|obsession]].**

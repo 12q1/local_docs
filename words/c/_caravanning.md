@@ -1,6 +1,6 @@
 # Caravanning
 ---
 #noun
-- **[[h/_holidaying|Holidaying]] in a [[c/_caravan|caravan]], [[e/_either|either]] [[m/_mobile|mobile]] or in a permanent site**
+- **[[h/_holidaying|Holidaying]] in a [[c/_caravan|caravan]], [[e/_either|either]] [[m/_mobile|mobile]] or in a [[p/_permanent|permanent]] site**
 ---
 ---

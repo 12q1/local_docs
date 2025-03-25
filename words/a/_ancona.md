@@ -7,6 +7,6 @@
 - **The [[o/_olecranon|olecranon]].**
 ---
 #noun
-- **An [[a/_altarpiece|altarpiece]], [[e/_especially|especially]] [[o/_one|one]] of [[m/_multiple|multiple]] [[c/_connected|connected]] pictures**
+- **An [[a/_altarpiece|altarpiece]], [[e/_especially|especially]] [[o/_one|one]] of [[m/_multiple|multiple]] [[c/_connected|connected]] [[p/_pictures|pictures]]**
 ---
 ---

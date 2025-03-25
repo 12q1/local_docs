@@ -13,7 +13,7 @@
 	- _Example: We drew last time we played.  I drew him last time I played him.  I drew my last game against him._
 - **To [[c/_choose|choose]] by [[m/_means|means]] of a random selection process.**
 - **To [[m/_make|make]] a shot that [[l/_lands|lands]] [[g/_gently|gently]] in the [[h/_house|house]] (the [[c/_circular|circular]] target) without [[k/_knocking|knocking]] [[o/_out|out]] [[o/_other|other]] stones.**
-- **To play (a short-[[l/_length|length]] [[b/_ball|ball]] [[d/_directed|directed]] at the [[l/_leg|leg]] stump) with an [[i/_inclined|inclined]] [[b/_bat|bat]] so as to [[d/_deflect|deflect]] the [[b/_ball|ball]] [[b/_between|between]] the [[l/_legs|legs]] and the wicket.**
+- **To [[p/_play|play]] (a short-[[l/_length|length]] [[b/_ball|ball]] [[d/_directed|directed]] at the [[l/_leg|leg]] stump) with an [[i/_inclined|inclined]] [[b/_bat|bat]] so as to [[d/_deflect|deflect]] the [[b/_ball|ball]] [[b/_between|between]] the [[l/_legs|legs]] and the wicket.**
 - **To [[h/_hit|hit]] (the [[b/_ball|ball]]) with the toe of the [[c/_club|club]] so that it is [[d/_deflected|deflected]] toward the [[l/_left|left]].**
 - **To strike (the [[c/_cue|cue]] [[b/_ball|ball]]) [[b/_below|below]] the [[c/_center|center]] so as to [[g/_give|give]] it a [[b/_backward|backward]] rotation which [[c/_causes|causes]] it to take a [[b/_backward|backward]] [[d/_direction|direction]] on striking [[a/_another|another]] [[b/_ball|ball]].**
 ---

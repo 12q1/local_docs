@@ -5,8 +5,8 @@
 - **A [[c/_commercial|commercial]] trader, as [[o/_opposed|opposed]] to an [[i/_individual|individual]] speculator.**
 ---
 #adjective
-- **Of or pertaining to [[c/_commerce|commerce]].**
-- **([[a/_aviation|aviation]]) [[d/_designating|Designating]] an [[a/_airport|airport]] that serves passenger and/or [[c/_cargo|cargo]] [[f/_flights|flights]].**
+- **Of or [[p/_pertaining|pertaining]] to [[c/_commerce|commerce]].**
+- **([[a/_aviation|aviation]]) [[d/_designating|Designating]] an [[a/_airport|airport]] that serves [[p/_passenger|passenger]] and/or [[c/_cargo|cargo]] [[f/_flights|flights]].**
 - **([[a/_aviation|aviation]]) [[d/_designating|Designating]] such an [[a/_airplane|airplane]] [[f/_flight|flight]].**
 ---
 ---

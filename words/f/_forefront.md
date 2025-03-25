@@ -1,7 +1,7 @@
 # Forefront
 ---
 #noun
-- **The [[l/_leading|leading]] position or [[e/_edge|edge]].**
+- **The [[l/_leading|leading]] [[p/_position|position]] or [[e/_edge|edge]].**
 	- _Example: That laboratory researches topics at the forefront of technology._
 ---
 #verb

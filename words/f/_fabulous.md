@@ -6,7 +6,7 @@
 - **[[f/_fictional|Fictional]] or not [[b/_believable|believable]]; [[m/_made|made]] up.**
 - **[[k/_known|Known]] for telling [[f/_fables|fables]] or [[f/_falsehoods|falsehoods]]; unreliable.**
 - **Very [[g/_good|good]]; [[o/_outstanding|outstanding]], wonderful.**
-- **[[g/_gay|Gay]] or pertaining to [[g/_gay|gay]] people.**
+- **[[g/_gay|Gay]] or [[p/_pertaining|pertaining]] to [[g/_gay|gay]] [[p/_people|people]].**
 - **[[c/_camp|Camp]], [[e/_effeminate|effeminate]].**
 - **[[f/_fashionable|Fashionable]], [[g/_glamorous|glamorous]]**
 ---

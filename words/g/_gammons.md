@@ -1,7 +1,7 @@
 # Gammons
 ---
 #noun
-- **A [[c/_cut|cut]] of quick-[[c/_cured|cured]] pork [[l/_leg|leg]].**
+- **A [[c/_cut|cut]] of quick-[[c/_cured|cured]] [[p/_pork|pork]] [[l/_leg|leg]].**
 ---
 #noun
 - **A victory in [[b/_backgammon|backgammon]] [[a/_achieved|achieved]] when the [[o/_opponent|opponent]] [[h/_has|has]] not [[b/_borne|borne]] [[o/_off|off]] a single stone.**

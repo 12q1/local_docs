@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[m/_make|make]] [[k/_known|known]] in a [[f/_formal|formal]] [[m/_manner|manner]]; to proclaim; to [[a/_announce|announce]]; to [[d/_declare|declare]].**
-- **To [[c/_criticize|criticize]] or speak [[o/_out|out]] [[a/_against|against]] (someone or something); to point [[o/_out|out]] as [[d/_deserving|deserving]] of reprehension, [[e/_etc|etc]].; to [[o/_openly|openly]] [[a/_accuse|accuse]] or [[c/_condemn|condemn]] in a threatening [[m/_manner|manner]]; to [[i/_invoke|invoke]] [[c/_censure|censure]] upon; to stigmatize; to [[b/_blame|blame]].**
+- **To [[c/_criticize|criticize]] or speak [[o/_out|out]] [[a/_against|against]] (someone or something); to [[p/_point|point]] [[o/_out|out]] as [[d/_deserving|deserving]] of reprehension, [[e/_etc|etc]].; to [[o/_openly|openly]] [[a/_accuse|accuse]] or [[c/_condemn|condemn]] in a threatening [[m/_manner|manner]]; to [[i/_invoke|invoke]] [[c/_censure|censure]] upon; to stigmatize; to [[b/_blame|blame]].**
 	- _Example: to denounce someone as a swindler, or as a coward_
 - **To [[m/_make|make]] a [[f/_formal|formal]] or public [[a/_accusation|accusation]] [[a/_against|against]]; to [[i/_inform|inform]] [[a/_against|against]]; to [[a/_accuse|accuse]].**
 	- _Example: to denounce a confederate in crime_

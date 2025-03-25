@@ -4,7 +4,7 @@
 - **([[l/_logistics|logistics]]) An [[i/_inbound|inbound]] shipment.**
 ---
 #verb
-- **To pass a [[b/_ball|ball]] [[i/_inbounds|inbounds]]**
+- **To [[p/_pass|pass]] a [[b/_ball|ball]] [[i/_inbounds|inbounds]]**
 	- _Example: Smith inbounds the ball to Johnson._
 ---
 #adjective

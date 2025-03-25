@@ -10,11 +10,11 @@
 #noun
 - **A tight [[c/_curl|curl]], twist, or [[b/_bend|bend]] in a [[l/_length|length]] of thin [[m/_material|material]], [[h/_hair|hair]] [[e/_etc|etc]].**
 	- _Example: We couldn't get enough water to put out the fire because of a kink in the hose._
-- **A [[d/_difficulty|difficulty]] or [[f/_flaw|flaw]] that is [[l/_likely|likely]] to [[i/_impede|impede]] [[o/_operation|operation]], as in a plan or system.**
+- **A [[d/_difficulty|difficulty]] or [[f/_flaw|flaw]] that is [[l/_likely|likely]] to [[i/_impede|impede]] [[o/_operation|operation]], as in a [[p/_plan|plan]] or system.**
 	- _Example: They had planned to open another shop downtown, but their plan had a few kinks._
 - **An unreasonable [[n/_notion|notion]]; a [[c/_crotchet|crotchet]]; a whim; a [[c/_caprice|caprice]].**
-- **Peculiarity or [[d/_deviation|deviation]] in sexual [[b/_behaviour|behaviour]] or taste.**
-- **A positive 1-soliton solution to the Sine–[[g/_gordon|Gordon]] [[e/_equation|equation]]**
+- **[[p/_peculiarity|Peculiarity]] or [[d/_deviation|deviation]] in sexual [[b/_behaviour|behaviour]] or taste.**
+- **A [[p/_positive|positive]] 1-soliton solution to the Sine–[[g/_gordon|Gordon]] [[e/_equation|equation]]**
 ---
 ### Antonyms
 - [[n/_normophilia|normophilia]]

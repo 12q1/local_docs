@@ -1,6 +1,6 @@
 # Bibliomania
 ---
 #noun
-- **A passion for [[o/_owning|owning]] valuable [[b/_books|books]].**
+- **A [[p/_passion|passion]] for [[o/_owning|owning]] valuable [[b/_books|books]].**
 ---
 ---

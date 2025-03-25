@@ -7,6 +7,6 @@
 ### Synonyms
 - [[e/_equip|equip]], [[f/_fit|fit]]
 #noun
-- **([[c/_chiefly|chiefly]] in the plural) A [[f/_furnishing|furnishing]] or [[a/_accoutrement|accoutrement]].**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) A [[f/_furnishing|furnishing]] or [[a/_accoutrement|accoutrement]].**
 ---
 ---

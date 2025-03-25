@@ -1,6 +1,6 @@
 # Demography
 ---
 #noun
-- **The study of [[h/_human|human]] populations and [[h/_how|how]] they [[c/_change|change]].**
+- **The study of [[h/_human|human]] [[p/_populations|populations]] and [[h/_how|how]] they [[c/_change|change]].**
 ---
 ---

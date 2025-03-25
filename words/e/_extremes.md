@@ -1,7 +1,7 @@
 # Extremes
 ---
 #noun
-- **The [[g/_greatest|greatest]] or utmost point, [[d/_degree|degree]] or [[c/_condition|condition]].**
+- **The [[g/_greatest|greatest]] or utmost [[p/_point|point]], [[d/_degree|degree]] or [[c/_condition|condition]].**
 - **[[e/_each|Each]] of the things at [[o/_opposite|opposite]] [[e/_ends|ends]] of a range or scale.**
 	- _Example: extremes of temperature_
 - **A [[d/_drastic|drastic]] [[e/_expedient|expedient]].**

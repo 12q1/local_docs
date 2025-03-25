@@ -4,7 +4,7 @@
 - **An [[a/_act|act]] of throwing, [[o/_often|often]] violently.**
 - **An [[a/_act|act]] of [[m/_moving|moving]] the [[l/_limbs|limbs]] or [[b/_body|body]] with violent [[m/_movements|movements]], [[e/_especially|especially]] in a [[d/_dance|dance]].**
 	- _Example: the fling of a horse_
-- **An [[a/_act|act]] or period of unrestrained [[i/_indulgence|indulgence]].**
+- **An [[a/_act|act]] or [[p/_period|period]] of unrestrained [[i/_indulgence|indulgence]].**
 - **A short [[c/_casual|casual]] sexual relationship.**
 	- _Example: I had a fling with a girl I met on holiday._
 - **An [[a/_attempt|attempt]], a try (as in "[[g/_give|give]] it a [[f/_fling|fling]]").**

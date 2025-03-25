@@ -1,9 +1,9 @@
 # Forestry
 ---
 #noun
-- **The science of planting and [[g/_growing|growing]] trees in [[f/_forests|forests]].**
-- **The [[a/_art|art]] and practice of planting and [[g/_growing|growing]] trees in [[f/_forests|forests]].**
-- **The [[a/_art|art]] and practice of [[c/_cultivating|cultivating]], [[e/_exploiting|exploiting]] and renewing [[f/_forests|forests]] for [[c/_commercial|commercial]] purposes.**
+- **The science of [[p/_planting|planting]] and [[g/_growing|growing]] trees in [[f/_forests|forests]].**
+- **The [[a/_art|art]] and [[p/_practice|practice]] of [[p/_planting|planting]] and [[g/_growing|growing]] trees in [[f/_forests|forests]].**
+- **The [[a/_art|art]] and [[p/_practice|practice]] of [[c/_cultivating|cultivating]], [[e/_exploiting|exploiting]] and renewing [[f/_forests|forests]] for [[c/_commercial|commercial]] purposes.**
 - **[[c/_commercial|Commercial]] tree [[f/_farming|farming]].**
 - **A tree [[f/_farm|farm]].**
 ---

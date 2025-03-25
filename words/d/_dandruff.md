@@ -1,7 +1,7 @@
 # Dandruff
 ---
 #noun
-- **Scaly white [[d/_dead|dead]] skin [[f/_flakes|flakes]] from the [[h/_human|human]] scalp; Pityriasis capitis.**
+- **Scaly white [[d/_dead|dead]] skin [[f/_flakes|flakes]] from the [[h/_human|human]] scalp; [[p/_pityriasis|Pityriasis]] capitis.**
 	- _Example: Dandruff is on my collar again._
 ---
 #verb

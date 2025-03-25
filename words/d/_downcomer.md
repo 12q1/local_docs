@@ -1,6 +1,6 @@
 # Downcomer
 ---
 #noun
-- **A pipe to [[c/_conduct|conduct]] something [[d/_downwards|downwards]].**
+- **A [[p/_pipe|pipe]] to [[c/_conduct|conduct]] something [[d/_downwards|downwards]].**
 ---
 ---

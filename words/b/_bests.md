@@ -5,7 +5,7 @@
 	- _Example: I did my best._
 - **[[o/_one|One]]'s [[b/_best|best]] [[b/_behavior|behavior]].**
 	- _Example: I was somewhat distant lately, and my lady promised me head every Tuesday of the week when I'm nice to her, so I better be on my best._
-- **The person (or persons; or thing or things) that is (are) [[m/_most|most]] [[e/_excellent|excellent]].**
+- **The [[p/_person|person]] (or [[p/_persons|persons]]; or thing or things) that is (are) [[m/_most|most]] [[e/_excellent|excellent]].**
 ---
 #verb
 - **To surpass in skill or [[a/_achievement|achievement]].**

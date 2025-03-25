@@ -1,6 +1,6 @@
 # Counterirritant
 ---
 #noun
-- **[[a/_any|Any]] substance used to [[c/_cause|cause]] [[i/_inflammation|inflammation]] in [[o/_one|one]] part of the [[b/_body|body]] with the [[g/_goal|goal]] of [[l/_lessening|lessening]] [[i/_inflammation|inflammation]] [[e/_elsewhere|elsewhere]].**
+- **[[a/_any|Any]] substance used to [[c/_cause|cause]] [[i/_inflammation|inflammation]] in [[o/_one|one]] [[p/_part|part]] of the [[b/_body|body]] with the [[g/_goal|goal]] of [[l/_lessening|lessening]] [[i/_inflammation|inflammation]] [[e/_elsewhere|elsewhere]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Dynastic
 ---
 #adjective
-- **Pertaining to a [[d/_dynasty|dynasty]].**
+- **[[p/_pertaining|Pertaining]] to a [[d/_dynasty|dynasty]].**
 ---
 ---

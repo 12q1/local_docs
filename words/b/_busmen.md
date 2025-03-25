@@ -1,7 +1,7 @@
 # Busmen
 ---
 #noun
-- **A person [[e/_employed|employed]] to [[d/_drive|drive]] [[b/_buses|buses]].**
+- **A [[p/_person|person]] [[e/_employed|employed]] to [[d/_drive|drive]] [[b/_buses|buses]].**
 ---
 ### Synonyms
 - 

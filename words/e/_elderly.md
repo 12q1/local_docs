@@ -1,8 +1,8 @@
 # Elderly
 ---
 #noun
-- **An [[e/_elderly|elderly]] person**
-- **(the [[e/_elderly|elderly]]) [[o/_older|older]] people as a whole**
+- **An [[e/_elderly|elderly]] [[p/_person|person]]**
+- **(the [[e/_elderly|elderly]]) [[o/_older|older]] [[p/_people|people]] as a whole**
 ---
 #adjective
 - **[[o/_old|Old]]; [[h/_having|having]] [[l/_lived|lived]] for relatively [[m/_many|many]] [[y/_years|years]].**

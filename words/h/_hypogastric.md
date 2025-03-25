@@ -1,6 +1,6 @@
 # Hypogastric
 ---
 #adjective
-- **Of or pertaining to the [[h/_hypogastrium|hypogastrium]].**
+- **Of or [[p/_pertaining|pertaining]] to the [[h/_hypogastrium|hypogastrium]].**
 ---
 ---

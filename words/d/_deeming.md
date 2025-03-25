@@ -1,7 +1,7 @@
 # Deeming
 ---
 #verb
-- **To [[j/_judge|judge]], to pass [[j/_judgment|judgment]] on; to [[d/_doom|doom]], to sentence.**
+- **To [[j/_judge|judge]], to [[p/_pass|pass]] [[j/_judgment|judgment]] on; to [[d/_doom|doom]], to sentence.**
 - **To [[a/_adjudge|adjudge]], to [[d/_decree|decree]].**
 - **To [[d/_dispense|dispense]] ([[j/_justice|justice]]); to [[a/_administer|administer]] ([[l/_law|law]]).**
 - **(ditransitive) To [[h/_hold|hold]] in [[b/_belief|belief]] or [[e/_estimation|estimation]]; to [[a/_adjudge|adjudge]] as a [[c/_conclusion|conclusion]]; to regard as [[b/_being|being]]; to [[e/_evaluate|evaluate]] [[a/_according|according]] to [[o/_one|one]]'s [[b/_beliefs|beliefs]]; to [[a/_account|account]].**

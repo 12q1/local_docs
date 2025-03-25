@@ -1,7 +1,7 @@
 # Dag
 ---
 #noun
-- **A [[h/_hanging|hanging]] [[e/_end|end]] or shred, in particular a [[l/_long|long]] pointed strip of [[c/_cloth|cloth]] at the [[e/_edge|edge]] of a piece of [[c/_clothing|clothing]], or [[o/_one|one]] of a row of [[d/_decorative|decorative]] strips of [[c/_cloth|cloth]] that [[m/_may|may]] [[o/_ornament|ornament]] a tent, [[b/_booth|booth]] or [[f/_fairground|fairground]].**
+- **A [[h/_hanging|hanging]] [[e/_end|end]] or shred, in [[p/_particular|particular]] a [[l/_long|long]] [[p/_pointed|pointed]] strip of [[c/_cloth|cloth]] at the [[e/_edge|edge]] of a [[p/_piece|piece]] of [[c/_clothing|clothing]], or [[o/_one|one]] of a row of [[d/_decorative|decorative]] strips of [[c/_cloth|cloth]] that [[m/_may|may]] [[o/_ornament|ornament]] a tent, [[b/_booth|booth]] or [[f/_fairground|fairground]].**
 - **A [[d/_dangling|dangling]] [[l/_lock|lock]] of sheep’s wool [[m/_matted|matted]] with [[d/_dung|dung]].**
 ---
 ### Synonyms

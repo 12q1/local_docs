@@ -1,6 +1,6 @@
 # Architectonics
 ---
 #noun
-- **The science pertaining to [[a/_architecture|architecture]]**
+- **The science [[p/_pertaining|pertaining]] to [[a/_architecture|architecture]]**
 ---
 ---

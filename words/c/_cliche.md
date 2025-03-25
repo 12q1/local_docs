@@ -1,9 +1,9 @@
 # Cliche
 ---
 #noun
-- **Something, [[m/_most|most]] [[o/_often|often]] a phrase or [[e/_expression|expression]], that is [[o/_overused|overused]] or used [[o/_outside|outside]] [[i/_its|its]] [[o/_original|original]] [[c/_context|context]], so that [[i/_its|its]] [[o/_original|original]] [[i/_impact|impact]] and [[m/_meaning|meaning]] are [[l/_lost|lost]]. A trite saying; a platitude.**
+- **Something, [[m/_most|most]] [[o/_often|often]] a [[p/_phrase|phrase]] or [[e/_expression|expression]], that is [[o/_overused|overused]] or used [[o/_outside|outside]] [[i/_its|its]] [[o/_original|original]] [[c/_context|context]], so that [[i/_its|its]] [[o/_original|original]] [[i/_impact|impact]] and [[m/_meaning|meaning]] are [[l/_lost|lost]]. A trite saying; a [[p/_platitude|platitude]].**
 	- _Example: The villain kidnapping the love interest in a film is a bit of a cliché._
-- **A stereotype (printing plate).**
+- **A stereotype (printing [[p/_plate|plate]]).**
 ---
 ### Synonyms
 - [[p/_platitude|platitude]], [[s/_stereotype|stereotype]]

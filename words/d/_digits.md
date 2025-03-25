@@ -7,21 +7,21 @@
 	- _Example: A right angle is a ninety-degree angle._
 - **A unit of [[m/_measurement|measurement]] of temperature on [[a/_any|any]] of several scales, such as [[c/_celsius|Celsius]] or [[f/_fahrenheit|Fahrenheit]].**
 	- _Example: 180 degrees Fahrenheit is equivalent to 100 degrees Celsius._
-- **The sum of the [[e/_exponents|exponents]] of a term; the [[o/_order|order]] of a polynomial.**
+- **The sum of the [[e/_exponents|exponents]] of a term; the [[o/_order|order]] of a [[p/_polynomial|polynomial]].**
 	- _Example: A quadratic polynomial is a polynomial of degree 2._
 - **The [[d/_dimensionality|dimensionality]] of a [[f/_field|field]] [[e/_extension|extension]].**
 	- _Example: The Galois field \operatorname{GF}(125) = \operatorname{GF}(5^3) has degree 3 over its subfield \operatorname{GF}(5)._
-- **The [[n/_number|number]] of [[e/_edges|edges]] that a vertex takes part in; a valency.**
+- **The [[n/_number|number]] of [[e/_edges|edges]] that a vertex takes [[p/_part|part]] in; a valency.**
 - **The [[n/_number|number]] of [[l/_logical|logical]] [[c/_connectives|connectives]] in a [[f/_formula|formula]].**
 - **The [[c/_curvature|curvature]] of a [[c/_circular|circular]] [[a/_arc|arc]], [[e/_expressed|expressed]] as the [[a/_angle|angle]] subtended by a [[f/_fixed|fixed]] [[l/_length|length]] of [[a/_arc|arc]] or [[c/_chord|chord]].**
 - **A unit of [[m/_measurement|measurement]] of [[l/_latitude|latitude]] and [[l/_longitude|longitude]] which together [[i/_identify|identify]] a [[l/_location|location]] on the [[e/_earth|Earth]]'s surface.**
-- **([[g/_grammar|grammar]]) [[a/_any|Any]] of the three stages (positive, [[c/_comparative|comparative]], superlative) in the [[c/_comparison|comparison]] of an [[a/_adjective|adjective]] or an [[a/_adverb|adverb]].**
+- **([[g/_grammar|grammar]]) [[a/_any|Any]] of the three stages ([[p/_positive|positive]], [[c/_comparative|comparative]], superlative) in the [[c/_comparison|comparison]] of an [[a/_adjective|adjective]] or an [[a/_adverb|adverb]].**
 - **([[o/_obsolete|obsolete]] [[o/_outside|outside]] [[h/_heraldry|heraldry]]) A step on a set of stairs; the rung of a [[l/_ladder|ladder]].**
 - **An [[i/_individual|individual]] step, or stage, in [[a/_any|any]] process or scale of values.**
 - **A stage of rank or privilege; social standing.**
 - **([[g/_genealogy|genealogy]]) A ‘step’ in [[g/_genealogical|genealogical]] [[d/_descent|descent]].**
 - **[[o/_one|One]]'s relative state or [[e/_experience|experience]]; way, [[m/_manner|manner]].**
-- **The [[a/_amount|amount]] that an [[e/_entity|entity]] possesses a [[c/_certain|certain]] property; relative [[i/_intensity|intensity]], [[e/_extent|extent]].**
+- **The [[a/_amount|amount]] that an [[e/_entity|entity]] [[p/_possesses|possesses]] a [[c/_certain|certain]] property; relative [[i/_intensity|intensity]], [[e/_extent|extent]].**
 	- _Example: To what degree do the two accounts of the accident concur?_
 ---
 ### Synonyms
@@ -33,7 +33,7 @@
 	- _Example: Hexadecimal numeration (Base sixteen) includes the digits 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 but also A (=10 decimal), B, C, D, E, and F. Sixteen itself is written as the two-digit number 10._
 - **1/12 the [[a/_apparent|apparent]] [[d/_diameter|diameter]] of the sun or [[m/_moon|moon]], as a [[m/_measure|measure]] of the totality of an [[e/_eclipse|eclipse]].**
 	- _Example: A six-digit eclipse covers half the lunar surface._
-- **A unit of [[l/_length|length]] [[n/_notionally|notionally]] [[b/_based|based]] upon the width of an [[a/_adult|adult]] [[h/_human|human]] [[f/_finger|finger]], standardized [[d/_differently|differently]] in various places and times, the [[e/_english|English]] [[d/_digit|digit]] of 1/16 [[f/_foot|foot]] ([[a/_about|about]] 1.9 [[c/_cm|cm]]).**
+- **A unit of [[l/_length|length]] [[n/_notionally|notionally]] [[b/_based|based]] upon the width of an [[a/_adult|adult]] [[h/_human|human]] [[f/_finger|finger]], standardized [[d/_differently|differently]] in various [[p/_places|places]] and times, the [[e/_english|English]] [[d/_digit|digit]] of 1/16 [[f/_foot|foot]] ([[a/_about|about]] 1.9 [[c/_cm|cm]]).**
 - **A [[n/_narrow|narrow]] [[e/_extremity|extremity]] of the [[h/_human|human]] [[h/_hand|hand]] or [[f/_foot|foot]]: a [[f/_finger|finger]], thumb, or toe.**
 - **Similar or similar-[[l/_looking|looking]] structures in [[o/_other|other]] [[a/_animals|animals]].**
 ---

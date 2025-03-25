@@ -7,7 +7,7 @@
 	- _Example: Anglia TV's emphasis is on Norwich and district._
 - **Prominence [[g/_given|given]] to a syllable or words, by raising the voice or printing in [[i/_italic|italic]] or underlined type.**
 	- _Example: He used a yellow highlighter to indicate where to give emphasis in his speech._
-- **The phonetic or phonological [[f/_feature|feature]] that [[d/_distinguishes|distinguishes]] [[e/_emphatic|emphatic]] [[c/_consonants|consonants]] from [[o/_other|other]] [[c/_consonants|consonants]].**
+- **The [[p/_phonetic|phonetic]] or [[p/_phonological|phonological]] [[f/_feature|feature]] that [[d/_distinguishes|distinguishes]] [[e/_emphatic|emphatic]] [[c/_consonants|consonants]] from [[o/_other|other]] [[c/_consonants|consonants]].**
 - **The use of [[b/_boldface|boldface]].**
 ---
 ---

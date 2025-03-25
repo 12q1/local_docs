@@ -15,7 +15,7 @@
 ### Antonyms
 - [[b/_begin|begin]], [[i/_initiate|initiate]], [[s/_start|start]]
 #adjective
-- **Processed or perfected.**
+- **Processed or [[p/_perfected|perfected]].**
 	- _Example: He gave a very finished, but uninspired performance._
 - **[[c/_completed|Completed]]; [[c/_concluded|concluded]]; [[d/_done|done]].**
 	- _Example: He wasn't finished cleaning up until nearly noon._

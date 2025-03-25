@@ -1,8 +1,8 @@
 # Kielbasa
 ---
 #noun
-- **A spicy, smoked sausage of a particular [[k/_kind|kind]].**
-- **Penis.**
+- **A spicy, smoked sausage of a [[p/_particular|particular]] [[k/_kind|kind]].**
+- **[[p/_penis|Penis]].**
 ---
 ### Synonyms
 - 

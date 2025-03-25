@@ -1,6 +1,6 @@
 # Breeks
 ---
 #noun
-- **Pants, [[b/_breeches|breeches]].**
+- **[[p/_pants|Pants]], [[b/_breeches|breeches]].**
 ---
 ---

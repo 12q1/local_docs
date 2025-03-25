@@ -8,9 +8,9 @@
 	- _Example: You should start dating so you can find a suitable husband._
 - **The [[m/_male|male]] of a [[p/_pair|pair]] of [[a/_animals|animals]].**
 - **A [[m/_manager|manager]] of property; [[o/_one|one]] who [[h/_has|has]] the [[c/_care|care]] of [[a/_another|another]]'s [[b/_belongings|belongings]], owndom, or [[i/_interests|interests]]; a steward; an [[e/_economist|economist]].**
-- **A [[l/_large|large]] [[c/_cushion|cushion]] with [[a/_arms|arms]] [[m/_meant|meant]] to support a person in the sitting position.**
+- **A [[l/_large|large]] [[c/_cushion|cushion]] with [[a/_arms|arms]] [[m/_meant|meant]] to support a [[p/_person|person]] in the sitting [[p/_position|position]].**
 	- _Example: While reading her book, Sally leaned back against her husband, wishing it were the human kind._
-- **A polled tree; a pollard.**
+- **A [[p/_polled|polled]] tree; a [[p/_pollard|pollard]].**
 ---
 ### Antonyms
 - [[w/_wife|wife]]

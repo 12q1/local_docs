@@ -10,6 +10,6 @@
 #verb
 - **Strike with the [[b/_beak|beak]].**
 - **Seize with the [[b/_beak|beak]].**
-- **To play truant.**
+- **To [[p/_play|play]] truant.**
 ---
 ---

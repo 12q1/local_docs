@@ -1,7 +1,7 @@
 # Excelsior
 ---
 #noun
-- **The size of type [[b/_between|between]] [[n/_norse|Norse]] and [[b/_brilliant|brilliant]], standardized as 3-point.**
+- **The size of type [[b/_between|between]] [[n/_norse|Norse]] and [[b/_brilliant|brilliant]], standardized as 3-[[p/_point|point]].**
 - **Stuffing [[m/_material|material]] (as for [[f/_furniture|furniture]] and [[m/_mattresses|mattresses]]) [[m/_made|made]] of slender, [[c/_curled|curled]] wood shavings, as a substitute for [[h/_hair|hair]].**
 ---
 ### Synonyms

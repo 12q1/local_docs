@@ -3,7 +3,7 @@
 #adjective
 - **Of or relating to the [[g/_goths|Goths]] or their [[l/_language|language]].**
 - **[[b/_barbarous|Barbarous]], rude, unpolished, [[b/_belonging|belonging]] to the “[[d/_dark|Dark]] [[a/_ages|Ages]]”, [[m/_medieval|medieval]] as [[o/_opposed|opposed]] to [[c/_classical|classical]].**
-- **Of or relating to the [[a/_architectural|architectural]] style [[f/_favored|favored]] in Western [[e/_europe|Europe]] in the 12th to 16th [[c/_centuries|centuries]], with [[h/_high|high]]-pointed [[a/_arches|arches]], [[c/_clustered|clustered]] [[c/_columns|columns]], [[e/_etc|etc]].**
+- **Of or relating to the [[a/_architectural|architectural]] style [[f/_favored|favored]] in Western [[e/_europe|Europe]] in the 12th to 16th [[c/_centuries|centuries]], with [[h/_high|high]]-[[p/_pointed|pointed]] [[a/_arches|arches]], [[c/_clustered|clustered]] [[c/_columns|columns]], [[e/_etc|etc]].**
 	- _Example: Gothic arches_
 - **Of or relating to the style of [[f/_fictional|fictional]] writing [[a/_associated|associated]] with the [[g/_gothic|Gothic]] revival, [[e/_emphasizing|emphasizing]] violent or [[m/_macabre|macabre]] [[e/_events|events]] in a [[m/_mysterious|mysterious]], [[d/_desolate|desolate]] setting.**
 	- _Example: Gothic tales_

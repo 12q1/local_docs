@@ -12,6 +12,6 @@
 ### Synonyms
 - [[a/_ascribe|ascribe]], [[a/_assign|assign]], [[a/_attribute|attribute]], [[a/_attribute|attribute]], [[c/_charge|charge]], [[i/_imply|imply]], [[i/_insinuate|insinuate]], [[c/_consider|consider]], [[r/_reckon|reckon]], [[r/_regard|regard]]
 #adjective
-- **[[a/_attributed|Attributed]] to [[a/_another|another]] person.**
+- **[[a/_attributed|Attributed]] to [[a/_another|another]] [[p/_person|person]].**
 ---
 ---

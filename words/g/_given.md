@@ -2,10 +2,10 @@
 ---
 #verb
 - **(ditransitive) To [[m/_move|move]], shift, provide something [[a/_abstract|abstract]] or [[c/_concrete|concrete]] to someone or something or somewhere.**
-- **(ditransitive) To [[e/_estimate|estimate]] or predict (a [[d/_duration|duration]] or probability) for (something).**
+- **(ditransitive) To [[e/_estimate|estimate]] or [[p/_predict|predict]] (a [[d/_duration|duration]] or probability) for (something).**
 	- _Example: I give it a 95% chance of success._
 - **To [[y/_yield|yield]] slightly when a [[f/_force|force]] is [[a/_applied|applied]].**
-- **To [[c/_collapse|collapse]] under pressure or [[f/_force|force]].**
+- **To [[c/_collapse|collapse]] under [[p/_pressure|pressure]] or [[f/_force|force]].**
 	- _Example: One pillar gave, then more, and suddenly the whole floor pancaked onto the floor below._
 - **To provide, as, a service or a [[b/_broadcast|broadcast]].**
 	- _Example: They're giving my favorite show!_
@@ -22,7 +22,7 @@
 - **To [[a/_attribute|attribute]]; to [[a/_assign|assign]]; to [[a/_adjudge|adjudge]].**
 - **To [[c/_communicate|communicate]] or [[a/_announce|announce]] ([[a/_advice|advice]], tidings, [[e/_etc|etc]].); to pronounce or utter (an [[o/_opinion|opinion]], a [[j/_judgment|judgment]], a shout, [[e/_etc|etc]].).**
 	- _Example: The umpire finally gave his decision: the ball was out._
-- **To [[g/_grant|grant]] power or permission to; to [[a/_allow|allow]].**
+- **To [[g/_grant|grant]] [[p/_power|power]] or [[p/_permission|permission]] to; to [[a/_allow|allow]].**
 - **To [[d/_devote|devote]] or [[a/_apply|apply]] ([[o/_oneself|oneself]]).**
 	- _Example: That boy is given to fits of bad temper._
 - **To [[b/_become|become]] soft or [[m/_moist|moist]].**
@@ -42,7 +42,7 @@
 #adjective
 - **[[a/_already|Already]] [[a/_arranged|arranged]].**
 - **[[c/_currently|Currently]] [[d/_discussed|discussed]].**
-- **Particular, specific.**
+- **[[p/_particular|Particular]], specific.**
 	- _Example: No more than three people can be in that space at a given time._
 - **[[a/_assumed|Assumed]] as [[f/_fact|fact]] or [[h/_hypothesis|hypothesis]].**
 	- _Example: Given that we will get the resources, what do we want to achieve?_

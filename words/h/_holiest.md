@@ -8,10 +8,10 @@
 - **[[d/_dedicated|Dedicated]] to a religious purpose or a [[g/_god|god]].**
 	- _Example: I'm planning to visit the holy city of Jerusalem this Christmas._
 - **Revered in a religion.**
-- **[[m/_morally|Morally]] perfect or [[f/_flawless|flawless]], or [[n/_nearly|nearly]] so.**
+- **[[m/_morally|Morally]] [[p/_perfect|perfect]] or [[f/_flawless|flawless]], or [[n/_nearly|nearly]] so.**
 	- _Example: My grandmother is a very holy woman._
 - **Separated or set [[a/_apart|apart]] from (something unto something or someone [[e/_else|else]]).**
-- **Set [[a/_apart|apart]] or [[d/_dedicated|dedicated]] for a specific purpose, or for use by a single [[e/_entity|entity]] or person.**
+- **Set [[a/_apart|apart]] or [[d/_dedicated|dedicated]] for a specific purpose, or for use by a single [[e/_entity|entity]] or [[p/_person|person]].**
 - **Used as an [[i/_intensifier|intensifier]] in various [[i/_interjections|interjections]].**
 	- _Example: Holy cow, I can’t believe he actually lost the race!_
 ---

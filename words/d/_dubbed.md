@@ -6,12 +6,12 @@
 - **To [[d/_deem|deem]].**
 - **To [[c/_clothe|clothe]] or [[i/_invest|invest]]; to [[o/_ornament|ornament]]; to [[a/_adorn|adorn]].**
 - **([[h/_heading|heading]]) To strike, rub, or [[d/_dress|dress]] smooth; to [[d/_dab|dab]].**
-- **To prepare (a [[g/_gamecock|gamecock]]) for [[f/_fighting|fighting]], by trimming the [[h/_hackles|hackles]] and [[c/_cutting|cutting]] [[o/_off|off]] the [[c/_comb|comb]] and wattles.**
+- **To [[p/_prepare|prepare]] (a [[g/_gamecock|gamecock]]) for [[f/_fighting|fighting]], by trimming the [[h/_hackles|hackles]] and [[c/_cutting|cutting]] [[o/_off|off]] the [[c/_comb|comb]] and wattles.**
 ---
 #verb
 - **To [[m/_make|make]] a [[n/_noise|noise]] by [[b/_brisk|brisk]] [[d/_drumbeats|drumbeats]].**
 - **To [[d/_do|do]] something [[b/_badly|badly]].**
-- **In [[g/_golf|golf]], to [[e/_execute|execute]] a shot poorly.**
+- **In [[g/_golf|golf]], to [[e/_execute|execute]] a shot [[p/_poorly|poorly]].**
 ---
 #verb
 - **To [[a/_add|add]] sound to [[f/_film|film]] or [[c/_change|change]] [[a/_audio|audio]] on [[f/_film|film]].**

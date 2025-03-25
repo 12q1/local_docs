@@ -5,6 +5,6 @@
 - **A type or [[g/_grade|grade]] of [[b/_bituminous|bituminous]] [[c/_coal|coal]].**
 ---
 #adjective
-- **Of or pertaining to [[b/_bitumen|bitumen]].**
+- **Of or [[p/_pertaining|pertaining]] to [[b/_bitumen|bitumen]].**
 ---
 ---

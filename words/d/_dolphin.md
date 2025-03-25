@@ -6,10 +6,10 @@
 - **A [[d/_depiction|depiction]] of a [[f/_fish|fish]], with a [[b/_broad|broad]] [[i/_indented|indented]] [[f/_fin|fin]], usually [[e/_embowed|embowed]].**
 - **The [[d/_dauphin|dauphin]], [[e/_eldest|eldest]] son of the [[k/_kings|kings]] of [[f/_france|France]].**
 - **([[h/_history|history]]) A [[m/_mass|mass]] of [[i/_iron|iron]] or [[l/_lead|lead]] [[h/_hung|hung]] from the [[y/_yardarm|yardarm]], in readiness to be [[d/_dropped|dropped]] through the [[d/_deck|deck]] and the [[h/_hull|hull]] of an [[e/_enemy|enemy]]'s vessel to sink it.**
-- **A [[k/_kind|kind]] of wreath or strap of plaited [[c/_cordage|cordage]].**
+- **A [[k/_kind|kind]] of wreath or strap of [[p/_plaited|plaited]] [[c/_cordage|cordage]].**
 - **A spar or [[b/_buoy|buoy]] [[h/_held|held]] by an [[a/_anchor|anchor]] and [[f/_furnished|furnished]] with a ring to which ships [[m/_may|may]] [[f/_fasten|fasten]] their [[c/_cables|cables]].**
-- **A [[m/_mooring|mooring]] post on a wharf or [[b/_beach|beach]].**
-- **A permanent [[f/_fender|fender]] [[a/_around|around]] a [[h/_heavy|heavy]] [[b/_boat|boat]] [[j/_just|just]] [[b/_below|below]] the [[g/_gunwale|gunwale]].**
+- **A [[m/_mooring|mooring]] [[p/_post|post]] on a wharf or [[b/_beach|beach]].**
+- **A [[p/_permanent|permanent]] [[f/_fender|fender]] [[a/_around|around]] a [[h/_heavy|heavy]] [[b/_boat|boat]] [[j/_just|just]] [[b/_below|below]] the [[g/_gunwale|gunwale]].**
 - **[[o/_one|One]] of the [[h/_handles|handles]] [[a/_above|above]] the trunnions by which a [[g/_gun|gun]] was [[l/_lifted|lifted]].**
 ---
 ### Synonyms

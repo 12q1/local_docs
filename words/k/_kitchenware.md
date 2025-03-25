@@ -1,9 +1,9 @@
 # Kitchenware
 ---
 #noun
-- **[[i/_instruments|Instruments]] and utensils [[f/_found|found]] in a [[k/_kitchen|kitchen]], particularly those [[a/_associated|associated]] with the preparation and serving of [[f/_food|food]].**
+- **[[i/_instruments|Instruments]] and utensils [[f/_found|found]] in a [[k/_kitchen|kitchen]], [[p/_particularly|particularly]] those [[a/_associated|associated]] with the [[p/_preparation|preparation]] and serving of [[f/_food|food]].**
 	- _Example: The new chef reorganized the space where we keep the pots, pans, and other kitchenware._
-- **Of or pertaining to utensils and [[a/_appliances|appliances]] used for [[f/_food|food]] preparation.**
+- **Of or [[p/_pertaining|pertaining]] to utensils and [[a/_appliances|appliances]] used for [[f/_food|food]] [[p/_preparation|preparation]].**
 	- _Example: He works in the kitchenware section of the department store._
 ---
 ---

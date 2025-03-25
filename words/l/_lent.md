@@ -1,7 +1,7 @@
 # Lent
 ---
 #noun
-- **A period of the [[e/_ecclesiastical|ecclesiastical]] [[y/_year|year]] preceding [[e/_easter|Easter]], traditionally [[i/_involving|involving]] temporary [[a/_abstention|abstention]] from [[c/_certain|certain]] [[f/_foods|foods]] and pleasures.**
+- **A [[p/_period|period]] of the [[e/_ecclesiastical|ecclesiastical]] [[y/_year|year]] [[p/_preceding|preceding]] [[e/_easter|Easter]], traditionally [[i/_involving|involving]] temporary [[a/_abstention|abstention]] from [[c/_certain|certain]] [[f/_foods|foods]] and [[p/_pleasures|pleasures]].**
 	- _Example: Hezekiah gave up vaping for Lent._
 - **The second term of the [[a/_academic|academic]] [[y/_year|year]] at some [[b/_british|British]] schools.**
 ---

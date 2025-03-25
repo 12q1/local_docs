@@ -15,7 +15,7 @@
 ---
 #adjective
 - **[[l/_low|Low]] and/or reduced in price.**
-- **Of poor quality.**
+- **Of [[p/_poor|poor]] quality.**
 - **Of [[l/_little|little]] worth.**
 - **(of an [[a/_action|action]] or tactic in a [[g/_game|game]] of skill) Underhand or unfair.**
 	- _Example: the cheap trick of hiding deadly lava under pushable blocks_

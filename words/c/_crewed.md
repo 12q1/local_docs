@@ -1,6 +1,6 @@
 # Crewed
 ---
 #adjective
-- **[[h/_having|Having]] a [[c/_crew|crew]]; [[m/_manned|manned]]; piloted.**
+- **[[h/_having|Having]] a [[c/_crew|crew]]; [[m/_manned|manned]]; [[p/_piloted|piloted]].**
 ---
 ---

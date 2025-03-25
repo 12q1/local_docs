@@ -5,6 +5,6 @@
 - **To rebuke [[h/_harshly|harshly]].**
 ---
 #noun
-- **The [[a/_act|act]] by which a person is [[k/_keelhauled|keelhauled]].**
+- **The [[a/_act|act]] by which a [[p/_person|person]] is [[k/_keelhauled|keelhauled]].**
 ---
 ---

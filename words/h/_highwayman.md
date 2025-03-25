@@ -1,6 +1,6 @@
 # Highwayman
 ---
 #noun
-- **A person usually [[m/_mounted|mounted]] on [[h/_horseback|horseback]] who robbed travelers on public roads.**
+- **A [[p/_person|person]] usually [[m/_mounted|mounted]] on [[h/_horseback|horseback]] who robbed travelers on public roads.**
 ---
 ---

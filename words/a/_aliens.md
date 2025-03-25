@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[a/_any|Any]] [[l/_life|life]] [[f/_form|form]] of [[e/_extraterrestrial|extraterrestrial]] or extradimensional [[o/_origin|origin]].**
-- **A person, [[a/_animal|animal]], plant, or [[o/_other|other]] thing which is from [[o/_outside|outside]] the [[f/_family|family]], [[g/_group|group]], [[o/_organization|organization]], or territory under [[c/_consideration|consideration]].**
+- **A [[p/_person|person]], [[a/_animal|animal]], [[p/_plant|plant]], or [[o/_other|other]] thing which is from [[o/_outside|outside]] the [[f/_family|family]], [[g/_group|group]], [[o/_organization|organization]], or territory under [[c/_consideration|consideration]].**
 - **A [[f/_foreigner|foreigner]] residing in a [[c/_country|country]].**
 - **[[o/_one|One]] [[e/_excluded|excluded]] from [[c/_certain|certain]] privileges; [[o/_one|one]] [[a/_alienated|alienated]] or [[e/_estranged|estranged]].**
 ---

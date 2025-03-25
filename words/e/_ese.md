@@ -1,6 +1,6 @@
 # Ese
 ---
 #noun
-- **[[e/_ease|Ease]]; pleasure.**
+- **[[e/_ease|Ease]]; [[p/_pleasure|pleasure]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Elephantine
 ---
 #adjective
-- **Of, pertaining to, or [[c/_characteristic|characteristic]] of [[e/_elephants|elephants]].**
+- **Of, [[p/_pertaining|pertaining]] to, or [[c/_characteristic|characteristic]] of [[e/_elephants|elephants]].**
 - **Very [[l/_large|large]].**
 ---
 ### Synonyms

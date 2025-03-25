@@ -1,6 +1,6 @@
 # Yawner
 ---
 #noun
-- **A person who [[y/_yawns|yawns]].**
+- **A [[p/_person|person]] who [[y/_yawns|yawns]].**
 ---
 ---

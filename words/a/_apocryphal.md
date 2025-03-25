@@ -1,7 +1,7 @@
 # Apocryphal
 ---
 #adjective
-- **Of, or pertaining to, the [[a/_apocrypha|Apocrypha]].**
+- **Of, or [[p/_pertaining|pertaining]] to, the [[a/_apocrypha|Apocrypha]].**
 - **(by [[e/_extension|extension]]) Of [[d/_doubtful|doubtful]] [[a/_authenticity|authenticity]], or [[l/_lacking|lacking]] [[a/_authority|authority]]; not regarded as [[c/_canonical|canonical]].**
 	- _Example: Many scholars consider the stories of the monk Teilo to be apocryphal._
 - **(by [[e/_extension|extension]]) Of [[d/_dubious|dubious]] veracity; of questionable [[a/_accuracy|accuracy]] or truthfulness; [[a/_anecdotal|anecdotal]] or in the [[n/_nature|nature]] of an urban [[l/_legend|legend]].**

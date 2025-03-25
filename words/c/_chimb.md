@@ -3,7 +3,7 @@
 #noun
 - **The top of a ridge.**
 - **The spine of an [[a/_animal|animal]].**
-- **A piece of the [[b/_backbone|backbone]] of an [[a/_animal|animal]], with the [[a/_adjoining|adjoining]] parts, [[c/_cut|cut]] for [[c/_cooking|cooking]].**
+- **A [[p/_piece|piece]] of the [[b/_backbone|backbone]] of an [[a/_animal|animal]], with the [[a/_adjoining|adjoining]] [[p/_parts|parts]], [[c/_cut|cut]] for [[c/_cooking|cooking]].**
 - **A sharp [[a/_angle|angle]] in the [[c/_cross|cross]] section of a [[h/_hull|hull]].**
 - **A [[h/_hollowed|hollowed]] or [[b/_bevelled|bevelled]] [[c/_channel|channel]] in the waterway of a ship's [[d/_deck|deck]].**
 - **The [[e/_edge|edge]] or rim of a [[c/_cask|cask]], [[e/_etc|etc]]., [[f/_formed|formed]] by the projecting [[e/_ends|ends]] of the staves; the [[c/_chamfered|chamfered]] [[e/_end|end]] of a stave.**

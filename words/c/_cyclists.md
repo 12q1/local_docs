@@ -1,7 +1,7 @@
 # Cyclists
 ---
 #noun
-- **A person who rides a [[c/_cycle|cycle]], [[e/_especially|especially]] a [[b/_bicycle|bicycle]], or who [[h/_habitually|habitually]] [[e/_engages|engages]] in [[c/_cycling|cycling]].**
+- **A [[p/_person|person]] who rides a [[c/_cycle|cycle]], [[e/_especially|especially]] a [[b/_bicycle|bicycle]], or who [[h/_habitually|habitually]] [[e/_engages|engages]] in [[c/_cycling|cycling]].**
 - **A user of the software [[l/_language|language]] [[c/_cycl|CycL]].**
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Leverage
 ---
 #noun
-- **A [[f/_force|force]] [[c/_compounded|compounded]] by [[m/_means|means]] of a [[l/_lever|lever]] rotating [[a/_around|around]] a pivot; see torque.**
+- **A [[f/_force|force]] [[c/_compounded|compounded]] by [[m/_means|means]] of a [[l/_lever|lever]] rotating [[a/_around|around]] a [[p/_pivot|pivot]]; see torque.**
 	- _Example: A crowbar uses leverage to pry nails out of wood._
 - **By [[e/_extension|extension]], [[a/_any|any]] [[i/_influence|influence]] which is [[c/_compounded|compounded]] or used to [[g/_gain|gain]] an [[a/_advantage|advantage]].**
 	- _Example: Try using competitors’ prices for leverage in the negotiation._

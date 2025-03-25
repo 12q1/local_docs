@@ -1,7 +1,7 @@
 # Feasible
 ---
 #adjective
-- **[[a/_able|Able]] to be [[d/_done|done]] in practice.**
+- **[[a/_able|Able]] to be [[d/_done|done]] in [[p/_practice|practice]].**
 	- _Example: His plan to rid Trafalgar Square of pigeons by bringing in peregrine falcons to eat them was dismissed as not feasible._
 ---
 ### Synonyms

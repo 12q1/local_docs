@@ -1,7 +1,7 @@
 # Lifesaving
 ---
 #adjective
-- **Preserving [[l/_life|life]]; preventing [[d/_death|death]].**
+- **[[p/_preserving|Preserving]] [[l/_life|life]]; preventing [[d/_death|death]].**
 ---
 #noun
 - **The [[a/_act|act]] of saving a [[l/_life|life]], [[e/_especially|especially]] from [[d/_drowning|drowning]].**

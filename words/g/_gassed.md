@@ -1,7 +1,7 @@
 # Gassed
 ---
 #verb
-- **To [[k/_kill|kill]] with poisonous [[g/_gas|gas]].**
+- **To [[k/_kill|kill]] with [[p/_poisonous|poisonous]] [[g/_gas|gas]].**
 - **To talk in a [[b/_boastful|boastful]] or vapid way; [[c/_chatter|chatter]].**
 - **To [[i/_impose|impose]] upon by talking [[b/_boastfully|boastfully]].**
 - **To [[e/_emit|emit]] [[g/_gas|gas]].**

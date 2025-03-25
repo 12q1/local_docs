@@ -9,6 +9,6 @@
 	- _Example: The sky was clear, but I took my umbrella for insurance._
 - **A [[b/_bet|bet]] [[m/_made|made]] [[a/_after|after]] the [[d/_deal|deal]], which [[p/_pays|pays]] [[o/_off|off]] [[i/_if|if]] the [[d/_dealer|dealer]] [[h/_has|has]] [[b/_blackjack|blackjack]].**
 	- _Example: I only take insurance if the count is right._
-- **An [[i/_insurance|insurance]] policy**
+- **An [[i/_insurance|insurance]] [[p/_policy|policy]]**
 ---
 ---

@@ -5,6 +5,6 @@
 - **To [[m/_make|make]] someone [[o/_orderly|orderly]] or [[m/_methodical|methodical]].**
 - **To [[c/_convert|convert]] someone to [[m/_methodism|Methodism]].**
 - **To talk [[m/_methodistically|Methodistically]].**
-- **To perform a theatrical role in [[a/_accordance|accordance]] with the principles of [[m/_method|method]] [[a/_acting|acting]].**
+- **To [[p/_perform|perform]] a theatrical role in [[a/_accordance|accordance]] with the principles of [[m/_method|method]] [[a/_acting|acting]].**
 ---
 ---

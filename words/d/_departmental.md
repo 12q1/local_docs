@@ -1,6 +1,6 @@
 # Departmental
 ---
 #adjective
-- **Of or pertaining to a [[d/_department|department]].**
+- **Of or [[p/_pertaining|pertaining]] to a [[d/_department|department]].**
 ---
 ---

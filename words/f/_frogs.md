@@ -2,22 +2,22 @@
 ---
 #noun
 - **A small tailless [[a/_amphibian|amphibian]] of the [[o/_order|order]] [[a/_anura|Anura]] that typically [[h/_hops|hops]].**
-- **The part of a violin [[b/_bow|bow]] (or that of [[o/_other|other]] similar string [[i/_instruments|instruments]] such as the viola, [[c/_cello|cello]] and [[c/_contrabass|contrabass]]) [[l/_located|located]] at the [[e/_end|end]] [[h/_held|held]] by the player, to which the [[h/_horsehair|horsehair]] is [[a/_attached|attached]].**
+- **The [[p/_part|part]] of a violin [[b/_bow|bow]] (or that of [[o/_other|other]] similar string [[i/_instruments|instruments]] such as the viola, [[c/_cello|cello]] and [[c/_contrabass|contrabass]]) [[l/_located|located]] at the [[e/_end|end]] [[h/_held|held]] by the [[p/_player|player]], to which the [[h/_horsehair|horsehair]] is [[a/_attached|attached]].**
 - **Road. Shorter, [[m/_more|more]] [[c/_common|common]] [[f/_form|form]] of [[f/_frog|frog]] and toad.**
-- **The [[d/_depression|depression]] in the upper [[f/_face|face]] of a pressed or [[h/_handmade|handmade]] [[c/_clay|clay]] [[b/_brick|brick]].**
+- **The [[d/_depression|depression]] in the upper [[f/_face|face]] of a [[p/_pressed|pressed]] or [[h/_handmade|handmade]] [[c/_clay|clay]] [[b/_brick|brick]].**
 - **An [[o/_organ|organ]] on the [[b/_bottom|bottom]] of a [[h/_horse|horse]]’s [[h/_hoof|hoof]] that [[a/_assists|assists]] in the [[c/_circulation|circulation]] of [[b/_blood|blood]].**
-- **The part of a railway switch or turnout where the running-rails [[c/_cross|cross]] (from the resemblance to the [[f/_frog|frog]] in a [[h/_horse|horse]]’s [[h/_hoof|hoof]]).**
+- **The [[p/_part|part]] of a railway switch or turnout where the running-rails [[c/_cross|cross]] (from the resemblance to the [[f/_frog|frog]] in a [[h/_horse|horse]]’s [[h/_hoof|hoof]]).**
 ---
 #verb
 - **To [[h/_hunt|hunt]] or trap [[f/_frogs|frogs]].**
-- **To use a pronged plater to transfer ([[c/_cells|cells]]) to [[a/_another|another]] plate.**
+- **To use a pronged [[p/_plater|plater]] to transfer ([[c/_cells|cells]]) to [[a/_another|another]] [[p/_plate|plate]].**
 - **To spatchcock (a [[c/_chicken|chicken]]).**
 ---
 ### Synonyms
 - [[f/_frosh|frosh]], [[f/_frosk|frosk]], [[p/_pad|pad]], [[p/_paddock|paddock]]
 #noun
-- **A [[f/_french|French]] person.**
-- **A [[f/_french|French]]-speaking person from Quebec.**
+- **A [[f/_french|French]] [[p/_person|person]].**
+- **A [[f/_french|French]]-speaking [[p/_person|person]] from Quebec.**
 ---
 ### Synonyms
 - [[b/_baguette|baguette]]
@@ -29,6 +29,6 @@
 - **To [[o/_ornament|ornament]] or [[f/_fasten|fasten]] a [[c/_coat|coat]], [[e/_etc|etc]]. with [[f/_frogs|frogs]].**
 ---
 #verb
-- **To unravel part of (a [[k/_knitted|knitted]] [[g/_garment|garment]]) while [[k/_knitting|knitting]] it in [[o/_order|order]] to [[c/_correct|correct]] a [[m/_mistake|mistake]].**
+- **To unravel [[p/_part|part]] of (a [[k/_knitted|knitted]] [[g/_garment|garment]]) while [[k/_knitting|knitting]] it in [[o/_order|order]] to [[c/_correct|correct]] a [[m/_mistake|mistake]].**
 ---
 ---

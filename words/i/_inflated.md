@@ -18,8 +18,8 @@
 	- _Example: His inflated belly looked uncomfortable._
 - **: In a state of [[h/_higher|higher]] [[c/_cost|cost]].**
 	- _Example: His inflated prices made the vendor unpopular._
-- **Pompous; [[a/_arrogant|arrogant]] (of a person or [[e/_ego|ego]])**
-- **[[c/_containing|Containing]] [[e/_excessive|excessive]], [[m/_meaningless|meaningless]] words, particularly for show**
+- **[[p/_pompous|Pompous]]; [[a/_arrogant|arrogant]] (of a [[p/_person|person]] or [[e/_ego|ego]])**
+- **[[c/_containing|Containing]] [[e/_excessive|excessive]], [[m/_meaningless|meaningless]] words, [[p/_particularly|particularly]] for show**
 	- _Example: The inflated speech did not impress the audience._
 - **[[h/_higher|Higher]] that the true [[f/_figure|figure]]**
 	- _Example: inflated incidence figures_

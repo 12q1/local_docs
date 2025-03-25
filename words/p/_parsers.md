@@ -1,0 +1,7 @@
+# Parsers
+---
+#noun
+- **A [[c/_computer|computer]] program that [[p/_parses|parses]].**
+- **[[o/_one|One]] who [[p/_parses|parses]].**
+---
+---

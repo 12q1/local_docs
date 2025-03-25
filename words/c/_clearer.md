@@ -16,12 +16,12 @@
 - **[[f/_free|Free]] of [[g/_guilt|guilt]], or suspicion.**
 	- _Example: a clear conscience_
 - **(of a soup) Without a thickening [[i/_ingredient|ingredient]].**
-- **Possessing [[l/_little|little]] or [[n/_no|no]] perceptible stimulus.**
+- **[[p/_possessing|Possessing]] [[l/_little|little]] or [[n/_no|no]] [[p/_perceptible|perceptible]] stimulus.**
 	- _Example: clear of texture;  clear of odor_
 - **[[f/_free|Free]] from the [[i/_influence|influence]] of [[e/_engrams|engrams]]; see [[c/_clear|Clear]] (Scientology).**
-- **[[a/_able|Able]] to perceive [[c/_clearly|clearly]]; [[k/_keen|keen]]; [[a/_acute|acute]]; penetrating; [[d/_discriminating|discriminating]].**
+- **[[a/_able|Able]] to [[p/_perceive|perceive]] [[c/_clearly|clearly]]; [[k/_keen|keen]]; [[a/_acute|acute]]; [[p/_penetrating|penetrating]]; [[d/_discriminating|discriminating]].**
 	- _Example: a clear intellect; a clear head_
-- **Not [[c/_clouded|clouded]] with passion; serene; [[c/_cheerful|cheerful]].**
+- **Not [[c/_clouded|clouded]] with [[p/_passion|passion]]; serene; [[c/_cheerful|cheerful]].**
 - **[[e/_easily|Easily]] or [[d/_distinctly|distinctly]] [[h/_heard|heard]]; [[a/_audible|audible]].**
 - **Unmixed; [[e/_entirely|entirely]] pure.**
 	- _Example: clear sand_

@@ -1,7 +1,7 @@
 # Anorectic
 ---
 #noun
-- **A person suffering from [[a/_anorexia|anorexia]] [[n/_nervosa|nervosa]]; an [[a/_anorexic|anorexic]].**
+- **A [[p/_person|person]] suffering from [[a/_anorexia|anorexia]] [[n/_nervosa|nervosa]]; an [[a/_anorexic|anorexic]].**
 - **A [[d/_drug|drug]] or [[d/_dietary|dietary]] supplement that reduces the [[a/_appetite|appetite]] so as to promote weight [[l/_loss|loss]].**
 ---
 #adjective

@@ -1,7 +1,7 @@
 # Indifferent
 ---
 #noun
-- **A person who is [[i/_indifferent|indifferent]] or [[a/_apathetic|apathetic]].**
+- **A [[p/_person|person]] who is [[i/_indifferent|indifferent]] or [[a/_apathetic|apathetic]].**
 ---
 #adjective
 - **Not [[c/_caring|caring]] or [[c/_concerned|concerned]]; uninterested, [[a/_apathetic|apathetic]].**
@@ -10,7 +10,7 @@
 	- _Example: She responded with an indifferent shrug._
 - **[[m/_mediocre|Mediocre]] (usually used [[n/_negatively|negatively]] in [[m/_modern|modern]] usage).**
 	- _Example: The long distance and the indifferent roads made the journey impossible._
-- **[[h/_having|Having]] [[n/_no|no]] preference or [[b/_bias|bias]], [[b/_being|being]] [[i/_impartial|impartial]].**
+- **[[h/_having|Having]] [[n/_no|no]] [[p/_preference|preference]] or [[b/_bias|bias]], [[b/_being|being]] [[i/_impartial|impartial]].**
 	- _Example: I am indifferent between the two plans._
 - **Not [[m/_making|making]] a [[d/_difference|difference]]; without significance or [[i/_importance|importance]].**
 	- _Example: Even if one appliance consumes an indifferent amount of energy when left on stand-by overnight, together they can represent 10% of the electricity demand of a household._

@@ -1,6 +1,6 @@
 # Felicific
 ---
 #adjective
-- **Of, pertaining to, or producing pleasure or [[h/_happiness|happiness]].**
+- **Of, [[p/_pertaining|pertaining]] to, or producing [[p/_pleasure|pleasure]] or [[h/_happiness|happiness]].**
 ---
 ---

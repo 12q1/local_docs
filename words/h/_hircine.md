@@ -6,8 +6,8 @@
 ### Synonyms
 - [[h/_hircite|hircite]]
 #adjective
-- **Of, pertaining to, or [[c/_characteristic|characteristic]] of [[g/_goats|goats]].**
-- **Possessed of an [[o/_odour|odour]] reminiscent of [[g/_goats|goats]].**
+- **Of, [[p/_pertaining|pertaining]] to, or [[c/_characteristic|characteristic]] of [[g/_goats|goats]].**
+- **[[p/_possessed|Possessed]] of an [[o/_odour|odour]] reminiscent of [[g/_goats|goats]].**
 - **[[l/_libidinous|Libidinous]]; [[l/_lustful|lustful]].**
 ---
 ### Synonyms

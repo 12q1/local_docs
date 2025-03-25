@@ -5,7 +5,7 @@
 - **A white (or whitish) [[l/_liquid|liquid]] [[o/_obtained|obtained]] from a vegetable source such as [[a/_almonds|almonds]], [[c/_coconuts|coconuts]], [[o/_oats|oats]], rice, and/or soy [[b/_beans|beans]]. [[a/_also|Also]] [[c/_called|called]] [[n/_non|non]]-[[d/_dairy|dairy]] [[m/_milk|milk]].**
 - **An [[i/_individual|individual]] serving of [[m/_milk|milk]].**
 	- _Example: Table three ordered three milks. (Formally: The guests at table three ordered three glasses of milk.)_
-- **An [[i/_individual|individual]] portion of [[m/_milk|milk]], such as [[f/_found|found]] in a [[c/_creamer|creamer]], for tea and [[c/_coffee|coffee]].**
+- **An [[i/_individual|individual]] [[p/_portion|portion]] of [[m/_milk|milk]], such as [[f/_found|found]] in a [[c/_creamer|creamer]], for tea and [[c/_coffee|coffee]].**
 	- _Example: I take my tea with two milk(s) and two sugar._
 - **The ripe, undischarged spat of an [[o/_oyster|oyster]].**
 - **Semen.**

@@ -7,7 +7,7 @@
 #verb
 - **[[c/_can|Can]] not (be unable to).**
 	- _Example: I cannot open the window. It is stuck._
-- **Be [[f/_forbidden|forbidden]] or not permitted to**
+- **Be [[f/_forbidden|forbidden]] or not [[p/_permitted|permitted]] to**
 	- _Example: You cannot enter the hall without a ticket._
 ---
 ### Synonyms

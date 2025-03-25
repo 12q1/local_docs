@@ -1,6 +1,6 @@
 # Bioelectric
 ---
 #adjective
-- **Of or pertaining to [[b/_bioelectricity|bioelectricity]]**
+- **Of or [[p/_pertaining|pertaining]] to [[b/_bioelectricity|bioelectricity]]**
 ---
 ---

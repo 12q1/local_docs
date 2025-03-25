@@ -8,7 +8,7 @@
 - **To rise or [[b/_become|become]] [[l/_larger|larger]].**
 ---
 #adjective
-- **Prepared using [[l/_leavening|leavening]]**
+- **[[p/_prepared|Prepared]] using [[l/_leavening|leavening]]**
 ---
 ### Antonyms
 - [[u/_unleavened|unleavened]]

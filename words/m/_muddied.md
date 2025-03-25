@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[m/_made|Made]] [[d/_dirty|dirty]] with [[m/_mud|mud]].**
-- **[[m/_made|Made]] unclear, [[o/_obfuscated|obfuscated]] ([[g/_generally|generally]] as part of the phrase [[m/_muddied|muddied]] the water)**
+- **[[m/_made|Made]] unclear, [[o/_obfuscated|obfuscated]] ([[g/_generally|generally]] as [[p/_part|part]] of the [[p/_phrase|phrase]] [[m/_muddied|muddied]] the water)**
 	- _Example: He muddied the situation until they acquitted in confusion._
 - **[[m/_made|Made]] [[m/_muted|muted]] of [[c/_color|color]].**
 	- _Example: The addition of the second batch of paint muddied the bright colors to a dull and washed look._

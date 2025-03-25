@@ -9,7 +9,7 @@
 ### Synonyms
 - [[c/_chestnut|chestnut]], [[r/_russet|russet]]
 #noun
-- **([[l/_law|law]] [[e/_enforcement|enforcement]]) A police [[o/_officer|officer]].**
+- **([[l/_law|law]] [[e/_enforcement|enforcement]]) A [[p/_police|police]] [[o/_officer|officer]].**
 ---
 ### Synonyms
 - [[c/_constable|constable]], [[c/_cop|cop]]

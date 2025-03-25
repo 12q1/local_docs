@@ -1,7 +1,7 @@
 # Bogan
 ---
 #noun
-- **([[d/_derogatory|derogatory]] stereotype) An unsophisticated person from a working [[c/_class|class]] [[b/_background|background]].**
+- **([[d/_derogatory|derogatory]] stereotype) An unsophisticated [[p/_person|person]] from a working [[c/_class|class]] [[b/_background|background]].**
 - **An [[a/_anglo|Anglo]]-[[c/_celtic|Celtic]] [[m/_member|member]] of a [[l/_lower|lower]] socioeconomic [[g/_group|group]], stereotypically [[c/_classified|classified]] as wearing [[b/_black|black]] [[j/_jumpers|jumpers]] or [[b/_black|black]] [[c/_concert|concert]] T-shirts.**
 - **A petrolhead.**
 ---

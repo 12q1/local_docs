@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[l/_levying|levying]].**
-- **The tax, property or people so [[l/_levied|levied]].**
+- **The tax, property or [[p/_people|people]] so [[l/_levied|levied]].**
 ---
 #verb
 - **To [[i/_impose|impose]] (a tax or [[f/_fine|fine]]) to [[c/_collect|collect]] [[m/_monies|monies]] [[d/_due|due]], or to [[c/_confiscate|confiscate]] property.**

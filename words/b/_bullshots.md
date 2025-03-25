@@ -1,6 +1,6 @@
 # Bullshots
 ---
 #noun
-- **A phony screenshot [[c/_created|created]] for promotional purposes.**
+- **A [[p/_phony|phony]] screenshot [[c/_created|created]] for promotional purposes.**
 ---
 ---

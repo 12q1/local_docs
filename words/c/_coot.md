@@ -6,6 +6,6 @@
 	- _Example: A rich coot_
 - **(with the) A success; something [[e/_excellent|excellent]].**
 	- _Example: Man that song's the coot._
-- **[[b/_body|Body]] [[l/_louse|louse]] (Pediculus humanus).**
+- **[[b/_body|Body]] [[l/_louse|louse]] ([[p/_pediculus|Pediculus]] humanus).**
 ---
 ---

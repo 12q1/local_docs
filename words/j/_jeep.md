@@ -9,6 +9,6 @@
 - **To travel by [[j/_jeep|jeep]].**
 ---
 #adjective
-- **Pertaining to utility or [[g/_general|general]] purpose.**
+- **[[p/_pertaining|Pertaining]] to utility or [[g/_general|general]] purpose.**
 ---
 ---

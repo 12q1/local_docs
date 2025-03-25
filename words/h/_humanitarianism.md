@@ -1,6 +1,6 @@
 # Humanitarianism
 ---
 #noun
-- **[[h/_humanitarian|Humanitarian]] philosophy or practice.**
+- **[[h/_humanitarian|Humanitarian]] [[p/_philosophy|philosophy]] or [[p/_practice|practice]].**
 ---
 ---

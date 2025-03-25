@@ -3,7 +3,7 @@
 #noun
 - **(‘the [[b/_bare|bare]]’) The surface, the ([[b/_bare|bare]]) skin.**
 - **Surface; [[b/_body|body]]; substance.**
-- **That part of a roofing slate, shingle, tile, or [[m/_metal|metal]] plate, which is [[e/_exposed|exposed]] to the weather.**
+- **That [[p/_part|part]] of a roofing slate, shingle, tile, or [[m/_metal|metal]] [[p/_plate|plate]], which is [[e/_exposed|exposed]] to the weather.**
 ---
 #adjective
 - **[[m/_minimal|Minimal]]; that is or are [[j/_just|just]] sufficient.**

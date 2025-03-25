@@ -5,13 +5,13 @@
 - **The [[a/_act|act]] of [[d/_doing|doing]] something quickly.**
 	- _Example: We must act with dispatch in this matter._
 - **A [[m/_mission|mission]] by an [[e/_emergency|emergency]] response service, typically [[a/_attend|attend]] to an [[e/_emergency|emergency]] in the [[f/_field|field]].**
-- **The passing on of a [[m/_message|message]] for [[f/_further|further]] processing, [[e/_especially|especially]] via a [[d/_dispatch|dispatch]] table.**
+- **The [[p/_passing|passing]] on of a [[m/_message|message]] for [[f/_further|further]] processing, [[e/_especially|especially]] via a [[d/_dispatch|dispatch]] table.**
 - **A [[d/_dismissal|dismissal]].**
 ---
 ### Synonyms
 - [[h/_haste|haste]], [[h/_hurry|hurry]], [[r/_rapidity|rapidity]]
 #noun
-- **In a transportation [[o/_organization|organization]], a person who [[c/_controls|controls]] the [[m/_movements|movements]] of vehicles**
-- **A piece of software responsible for [[a/_assigning|assigning]] priorities and resources to tasks waiting to be scheduled**
+- **In a transportation [[o/_organization|organization]], a [[p/_person|person]] who [[c/_controls|controls]] the [[m/_movements|movements]] of vehicles**
+- **A [[p/_piece|piece]] of software responsible for [[a/_assigning|assigning]] priorities and resources to tasks waiting to be scheduled**
 ---
 ---

@@ -4,7 +4,7 @@
 - **An [[i/_instance|instance]] of [[h/_hijacking|hijacking]]; the [[i/_illegal|illegal]] seizure of a vehicle; a [[h/_hijacking|hijacking]].**
 - **An [[i/_instance|instance]] of a seizure and redirection of a process.**
 - **An [[a/_amendment|amendment]] which [[d/_deletes|deletes]] the [[c/_contents|contents]] of a [[b/_bill|bill]] and [[i/_inserts|inserts]] [[e/_entirely|entirely]] [[n/_new|new]] provisions.**
-- **Preflop, the position two [[b/_before|before]] the [[d/_dealer|dealer]].**
+- **Preflop, the [[p/_position|position]] two [[b/_before|before]] the [[d/_dealer|dealer]].**
 ---
 #verb
 - **To [[f/_forcibly|forcibly]] stop and seize [[c/_control|control]] of some vehicle in [[o/_order|order]] to rob it or to reach a [[d/_destination|destination]] ([[e/_especially|especially]] an [[a/_airplane|airplane]], truck or a [[b/_boat|boat]]).**

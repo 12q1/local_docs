@@ -1,7 +1,7 @@
 # Nicker
 ---
 #noun
-- **Pound sterling.**
+- **[[p/_pound|Pound]] sterling.**
 	- _Example: This coat cost me 50 nicker._
 ---
 ### Synonyms

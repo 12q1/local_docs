@@ -10,6 +10,6 @@
 - [[a/_appease|appease]], [[q/_quell|quell]]
 #adjective
 - **([[e/_especially|especially]] [[d/_describing|describing]] a [[m/_muscle|muscle]]) [[h/_having|Having]] [[b/_been|been]] [[a/_acted|acted]] on by [[a/_antagonistic|antagonistic]] [[f/_forces|forces]].**
-- **(of a person or [[g/_group|group]]) [[h/_having|Having]] [[b/_been|been]] [[a/_aggravated|aggravated]] or [[m/_made|made]] [[i/_into|into]] an [[e/_enemy|enemy]].**
+- **(of a [[p/_person|person]] or [[g/_group|group]]) [[h/_having|Having]] [[b/_been|been]] [[a/_aggravated|aggravated]] or [[m/_made|made]] [[i/_into|into]] an [[e/_enemy|enemy]].**
 ---
 ---

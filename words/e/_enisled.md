@@ -5,6 +5,6 @@
 - **(by [[e/_extension|extension]]) To [[i/_isolate|isolate]].**
 ---
 #adjective
-- **Placed [[a/_alone|alone]] or [[a/_apart|apart]], as [[i/_if|if]] on an [[i/_island|island]].**
+- **[[p/_placed|Placed]] [[a/_alone|alone]] or [[a/_apart|apart]], as [[i/_if|if]] on an [[i/_island|island]].**
 ---
 ---

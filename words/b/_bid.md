@@ -14,7 +14,7 @@
 	- _Example: She bid £2000 for the Persian carpet._
 - **To [[m/_make|make]] an [[a/_attempt|attempt]].**
 	- _Example: He was bidding for the chance to coach his team to victory once again._
-- **To [[a/_announce|announce]] ([[o/_one|one]]'s [[g/_goal|goal]]), [[b/_before|before]] starting play.**
-- **To proclaim (a [[b/_bede|bede]], prayer); to pray.**
+- **To [[a/_announce|announce]] ([[o/_one|one]]'s [[g/_goal|goal]]), [[b/_before|before]] starting [[p/_play|play]].**
+- **To proclaim (a [[b/_bede|bede]], [[p/_prayer|prayer]]); to [[p/_pray|pray]].**
 ---
 ---

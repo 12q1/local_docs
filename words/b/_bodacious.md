@@ -6,7 +6,7 @@
 - **[[i/_incorrigible|Incorrigible]] and [[i/_insolent|insolent]].**
 	- _Example: You, sir, are a bodacious scoundrel._
 - **(US slang) [[i/_impressively|Impressively]] [[g/_great|great]] in size, and [[e/_enormous|enormous]]; [[e/_extraordinary|extraordinary]].**
-- **(of a person) Sexy, [[a/_attractive|attractive]].**
+- **(of a [[p/_person|person]]) Sexy, [[a/_attractive|attractive]].**
 ---
 #adverb
 - **[[b/_bodaciously|Bodaciously]].**

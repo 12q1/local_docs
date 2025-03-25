@@ -1,10 +1,10 @@
 # Obtuse
 ---
 #verb
-- **To [[d/_dull|dull]] or reduce an [[e/_emotion|emotion]] or a physical state.**
+- **To [[d/_dull|dull]] or reduce an [[e/_emotion|emotion]] or a [[p/_physical|physical]] state.**
 ---
 #adjective
-- **[[b/_blunt|Blunt]]; not sharp, pointed, or [[a/_acute|acute]] in [[f/_form|form]].**
+- **[[b/_blunt|Blunt]]; not sharp, [[p/_pointed|pointed]], or [[a/_acute|acute]] in [[f/_form|form]].**
 - **[[i/_intellectually|Intellectually]] [[d/_dull|dull]] or [[d/_dim|dim]]-witted.**
 - **Of sound, [[e/_etc|etc]].: [[d/_deadened|deadened]], [[m/_muffled|muffled]], [[m/_muted|muted]].**
 - **[[i/_indirect|Indirect]] or [[c/_circuitous|circuitous]].**

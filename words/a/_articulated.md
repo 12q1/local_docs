@@ -20,8 +20,8 @@
 ### Synonyms
 - [[a/_artic|artic]]
 #adjective
-- **[[c/_constructed|Constructed]] with [[o/_one|one]] or [[m/_more|more]] pivoted [[j/_joints|joints]] which [[a/_allow|allow]] [[b/_bending|bending]] of an [[o/_otherwise|otherwise]] rigid structure.**
-- **Of a vehicle, [[c/_composed|composed]] of [[c/_component|component]] parts [[e/_each|each]] with [[i/_its|its]] [[o/_own|own]] wheels and [[c/_chassis|chassis]], [[e/_e|e]].[[g/_g|g]]. an [[a/_articulated|articulated]] [[l/_lorry|lorry]], [[a/_articulated|articulated]] [[b/_bus|bus]], or [[c/_certain|certain]] [[k/_kinds|kinds]] of streetcars and trains.**
+- **[[c/_constructed|Constructed]] with [[o/_one|one]] or [[m/_more|more]] [[p/_pivoted|pivoted]] [[j/_joints|joints]] which [[a/_allow|allow]] [[b/_bending|bending]] of an [[o/_otherwise|otherwise]] rigid structure.**
+- **Of a vehicle, [[c/_composed|composed]] of [[c/_component|component]] [[p/_parts|parts]] [[e/_each|each]] with [[i/_its|its]] [[o/_own|own]] wheels and [[c/_chassis|chassis]], [[e/_e|e]].[[g/_g|g]]. an [[a/_articulated|articulated]] [[l/_lorry|lorry]], [[a/_articulated|articulated]] [[b/_bus|bus]], or [[c/_certain|certain]] [[k/_kinds|kinds]] of streetcars and trains.**
 ---
 ### Antonyms
 - [[n/_non-articulated|non-articulated]], [[n/_nonarticulated|nonarticulated]], [[u/_unarticulated|unarticulated]]

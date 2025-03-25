@@ -1,7 +1,7 @@
 # Menopausal
 ---
 #adjective
-- **Of, or pertaining to the [[m/_menopause|menopause]]**
+- **Of, or [[p/_pertaining|pertaining]] to the [[m/_menopause|menopause]]**
 ---
 ### Synonyms
 - [[e/_estropausal|estropausal]]

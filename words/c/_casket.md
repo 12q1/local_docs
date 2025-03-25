@@ -7,6 +7,6 @@
 - **A [[g/_gasket|gasket]].**
 ---
 #verb
-- **To put [[i/_into|into]], or preserve in, a [[c/_casket|casket]].**
+- **To put [[i/_into|into]], or [[p/_preserve|preserve]] in, a [[c/_casket|casket]].**
 ---
 ---

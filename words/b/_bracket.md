@@ -2,12 +2,12 @@
 ---
 #noun
 - **A [[f/_fixture|fixture]] [[a/_attached|attached]] to a wall to [[h/_hold|hold]] up a shelf.**
-- **[[a/_any|Any]] [[i/_intermediate|intermediate]] [[o/_object|object]] that [[c/_connects|connects]] a smaller part to a [[l/_larger|larger]] part, the smaller part typically projecting sideways from the [[l/_larger|larger]] part.**
+- **[[a/_any|Any]] [[i/_intermediate|intermediate]] [[o/_object|object]] that [[c/_connects|connects]] a smaller [[p/_part|part]] to a [[l/_larger|larger]] [[p/_part|part]], the smaller [[p/_part|part]] typically projecting sideways from the [[l/_larger|larger]] [[p/_part|part]].**
 - **A short [[c/_crooked|crooked]] timber, resembling a [[k/_knee|knee]], used as a support.**
 - **The [[c/_cheek|cheek]] or side of an [[o/_ordnance|ordnance]] [[c/_carriage|carriage]], supporting the trunnions.**
-- **[[a/_any|Any]] of the [[c/_characters|characters]] "(", ")", "[", "]", "{", "}", "<" and ">", used in [[p/_pairs|pairs]] to [[e/_enclose|enclose]] parenthetic remarks, sections of [[m/_mathematical|mathematical]] [[e/_expressions|expressions]], [[e/_etc|etc]].**
+- **[[a/_any|Any]] of the [[c/_characters|characters]] "(", ")", "[", "]", "{", "}", "<" and ">", used in [[p/_pairs|pairs]] to [[e/_enclose|enclose]] [[p/_parenthetic|parenthetic]] remarks, sections of [[m/_mathematical|mathematical]] [[e/_expressions|expressions]], [[e/_etc|etc]].**
 - **A printed [[d/_diagram|diagram]] of [[g/_games|games]] in a tournament.**
-- **A prediction of the [[o/_outcome|outcome]] of [[g/_games|games]] in a tournament, used for [[b/_betting|betting]] purposes.**
+- **A [[p/_prediction|prediction]] of the [[o/_outcome|outcome]] of [[g/_games|games]] in a tournament, used for [[b/_betting|betting]] purposes.**
 - **[[o/_one|One]] of several ranges of [[n/_numbers|numbers]].**
 	- _Example: tax bracket, age bracket_
 - **A [[p/_pair|pair]] of values that represent the smallest and [[l/_largest|largest]] [[e/_elements|elements]] of a range.**
@@ -22,11 +22,11 @@
 - **To [[e/_enclose|enclose]] in typographical [[b/_brackets|brackets]].**
 - **To [[b/_bound|bound]] on [[b/_both|both]] sides, to surround, as [[e/_enclosing|enclosing]] with [[b/_brackets|brackets]].**
 	- _Example: I tried to hit the bullseye by first bracketing it with two shots and then splitting the difference with my third, but I missed._
-- **To place in the same [[c/_category|category]].**
+- **To [[p/_place|place]] in the same [[c/_category|category]].**
 	- _Example: Because the didn't have enough young boys for two full teams, they bracketed the seven-year olds with the eight-year olds._
 - **To [[m/_mark|mark]] [[d/_distinctly|distinctly]] for special treatment.**
 - **To set [[a/_aside|aside]], [[d/_discount|discount]], [[i/_ignore|ignore]].**
 - **To take [[m/_multiple|multiple]] [[i/_images|images]] of the same subject, using a range of [[e/_exposure|exposure]] settings, in [[o/_order|order]] to [[h/_help|help]] [[e/_ensure|ensure]] that a satisfactory [[i/_image|image]] is [[o/_obtained|obtained]].**
-- **(phenomenology) In the philosophical system of [[e/_edmund|Edmund]] Husserl and [[h/_his|his]] [[f/_followers|followers]], to set [[a/_aside|aside]] [[m/_metaphysical|metaphysical]] theories and [[e/_existential|existential]] questions [[c/_concerning|concerning]] what is real in [[o/_order|order]] to [[f/_focus|focus]] philosophical [[a/_attention|attention]] simply on the [[a/_actual|actual]] [[c/_content|content]] of [[e/_experience|experience]].**
+- **([[p/_phenomenology|phenomenology]]) In the [[p/_philosophical|philosophical]] system of [[e/_edmund|Edmund]] Husserl and [[h/_his|his]] [[f/_followers|followers]], to set [[a/_aside|aside]] [[m/_metaphysical|metaphysical]] theories and [[e/_existential|existential]] questions [[c/_concerning|concerning]] what is real in [[o/_order|order]] to [[f/_focus|focus]] [[p/_philosophical|philosophical]] [[a/_attention|attention]] simply on the [[a/_actual|actual]] [[c/_content|content]] of [[e/_experience|experience]].**
 ---
 ---

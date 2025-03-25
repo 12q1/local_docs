@@ -1,8 +1,8 @@
 # Boogie
 ---
 #noun
-- **A piece of solid or semisolid [[m/_mucus|mucus]] in or removed from the [[n/_nostril|nostril]] [[c/_cavity|cavity]].**
-- **A [[b/_black|black]] person.**
+- **A [[p/_piece|piece]] of solid or semisolid [[m/_mucus|mucus]] in or removed from the [[n/_nostril|nostril]] [[c/_cavity|cavity]].**
+- **A [[b/_black|black]] [[p/_person|person]].**
 - **[[d/_dancing|Dancing]] usually prominently [[e/_exhibiting|exhibiting]] [[m/_movements|movements]] of the [[b/_buttocks|buttocks]].**
 - **(skydiving) A [[l/_large|large]], [[o/_organised|organised]] skydiving [[e/_event|event]].**
 ---

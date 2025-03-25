@@ -1,7 +1,7 @@
 # Bastes
 ---
 #verb
-- **To sew with [[l/_long|long]] or [[l/_loose|loose]] stitches, as for temporary use, or in preparation for [[g/_gathering|gathering]] the [[f/_fabric|fabric]].**
+- **To sew with [[l/_long|long]] or [[l/_loose|loose]] stitches, as for temporary use, or in [[p/_preparation|preparation]] for [[g/_gathering|gathering]] the [[f/_fabric|fabric]].**
 ---
 #noun
 - **A [[b/_basting|basting]]; a sprinkling of [[d/_drippings|drippings]] [[e/_etc|etc]]. in [[c/_cooking|cooking]].**

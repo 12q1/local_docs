@@ -1,9 +1,9 @@
 # Deferred
 ---
 #verb
-- **To [[d/_delay|delay]] or postpone**
+- **To [[d/_delay|delay]] or [[p/_postpone|postpone]]**
 	- _Example: We're going to defer the decision until we have all the facts._
-- **[[a/_after|After]] winning the [[o/_opening|opening]] [[c/_coin|coin]] toss, to postpone until the start of the second [[h/_half|half]] a team's [[c/_choice|choice]] of whether to [[k/_kick|kick]] [[o/_off|off]] or receive (and to [[a/_allow|allow]] the [[o/_opposing|opposing]] team to [[m/_make|make]] this [[c/_choice|choice]] at the start of the [[f/_first|first]] [[h/_half|half]]).**
+- **[[a/_after|After]] winning the [[o/_opening|opening]] [[c/_coin|coin]] toss, to [[p/_postpone|postpone]] until the start of the second [[h/_half|half]] a team's [[c/_choice|choice]] of whether to [[k/_kick|kick]] [[o/_off|off]] or receive (and to [[a/_allow|allow]] the [[o/_opposing|opposing]] team to [[m/_make|make]] this [[c/_choice|choice]] at the start of the [[f/_first|first]] [[h/_half|half]]).**
 - **To [[d/_delay|delay]], to wait.**
 ---
 #verb
@@ -25,10 +25,10 @@
 #noun
 - **An [[o/_oath|oath]] or [[a/_affirmation|affirmation]]; a vow**
 	- _Example: if I make a promise, I always stick to it;  he broke his promise_
-- **A transaction [[b/_between|between]] two persons whereby the [[f/_first|first]] person undertakes in the [[f/_future|future]] to render some service or [[g/_gift|gift]] to the second person or [[d/_devotes|devotes]] something valuable [[n/_now|now]] and [[h/_here|here]] to [[h/_his|his]] use**
-- **Reason to [[e/_expect|expect]] [[i/_improvement|improvement]] or success; potential**
+- **A transaction [[b/_between|between]] two [[p/_persons|persons]] whereby the [[f/_first|first]] [[p/_person|person]] undertakes in the [[f/_future|future]] to render some service or [[g/_gift|gift]] to the second [[p/_person|person]] or [[d/_devotes|devotes]] something valuable [[n/_now|now]] and [[h/_here|here]] to [[h/_his|his]] use**
+- **Reason to [[e/_expect|expect]] [[i/_improvement|improvement]] or success; [[p/_potential|potential]]**
 	- _Example: She shows great promise as an actress._
-- **A placeholder [[o/_object|object]] representing the [[e/_eventual|eventual]] result of an [[a/_asynchronous|asynchronous]] [[o/_operation|operation]]**
+- **A [[p/_placeholder|placeholder]] [[o/_object|object]] representing the [[e/_eventual|eventual]] result of an [[a/_asynchronous|asynchronous]] [[o/_operation|operation]]**
 - **[[b/_bestowal|Bestowal]] or [[f/_fulfillment|fulfillment]] of what is promised**
 ---
 ### Synonyms

@@ -12,6 +12,6 @@
 #noun
 - **([[c/_countable|countable]], uncountable) The [[a/_act|act]] of [[o/_one|one]] who, or that which, [[b/_backtracks|backtracks]]; a retracing of [[o/_one|one]]'s steps.**
 - **The usage of a runway as a taxiway, [[e/_especially|especially]] at private strips and smaller [[a/_airports|airports]].**
-- **The [[a/_act|act]] of [[b/_building|building]] [[a/_all|all]] possible solutions to a problem [[i/_incrementally|incrementally]], [[a/_abandoning|abandoning]] [[a/_any|any]] [[c/_candidate|candidate]] solution [[i/_if|if]] it [[c/_cannot|cannot]] [[l/_lead|lead]] to a valid solution.**
+- **The [[a/_act|act]] of [[b/_building|building]] [[a/_all|all]] [[p/_possible|possible]] solutions to a problem [[i/_incrementally|incrementally]], [[a/_abandoning|abandoning]] [[a/_any|any]] [[c/_candidate|candidate]] solution [[i/_if|if]] it [[c/_cannot|cannot]] [[l/_lead|lead]] to a valid solution.**
 ---
 ---

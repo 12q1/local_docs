@@ -1,17 +1,17 @@
 # Boned
 ---
 #verb
-- **To prepare ([[m/_meat|meat]], [[e/_etc|etc]]) by removing the [[b/_bone|bone]] or [[b/_bones|bones]] from.**
+- **To [[p/_prepare|prepare]] ([[m/_meat|meat]], [[e/_etc|etc]]) by removing the [[b/_bone|bone]] or [[b/_bones|bones]] from.**
 - **To [[f/_fertilize|fertilize]] with [[b/_bone|bone]].**
 - **To put whalebone [[i/_into|into]].**
 	- _Example: to bone stays_
-- **To [[m/_make|make]] [[l/_level|level]], using a particular procedure; to survey a [[l/_level|level]] [[l/_line|line]].**
+- **To [[m/_make|make]] [[l/_level|level]], using a [[p/_particular|particular]] procedure; to survey a [[l/_level|level]] [[l/_line|line]].**
 	- _Example: boning rod_
 - **(usually of a [[m/_man|man]]) To [[h/_have|have]] sexual [[i/_intercourse|intercourse]] with.**
-- **(in [[a/_aboriginal|Aboriginal]] [[c/_culture|culture]]) To perform "[[b/_bone|bone]] pointing", a ritual that is [[i/_intended|intended]] to [[b/_bring|bring]] [[i/_illness|illness]] or [[e/_even|even]] [[d/_death|death]] to the victim.**
+- **(in [[a/_aboriginal|Aboriginal]] [[c/_culture|culture]]) To [[p/_perform|perform]] "[[b/_bone|bone]] [[p/_pointing|pointing]]", a ritual that is [[i/_intended|intended]] to [[b/_bring|bring]] [[i/_illness|illness]] or [[e/_even|even]] [[d/_death|death]] to the victim.**
 - **(usually with "up") To study.**
 	- _Example: bone up_
-- **To polish [[b/_boots|boots]] to a shiny [[f/_finish|finish]].**
+- **To [[p/_polish|polish]] [[b/_boots|boots]] to a shiny [[f/_finish|finish]].**
 ---
 ### Synonyms
 - [[d/_debone|debone]], [[u/_unbone|unbone]], [[b/_bonk|bonk]], [[f/_fuck|fuck]], [[s/_screw|screw]], [[s/_shag|shag]]

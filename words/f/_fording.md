@@ -5,6 +5,6 @@
 ---
 #noun
 - **The [[a/_act|act]] by which something is [[f/_forded|forded]].**
-- **[[f/_fording|Fording]] place**
+- **[[f/_fording|Fording]] [[p/_place|place]]**
 ---
 ---

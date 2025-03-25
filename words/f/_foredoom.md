@@ -1,9 +1,9 @@
 # Foredoom
 ---
 #noun
-- **A [[d/_doom|doom]] that is predicted; [[d/_destiny|destiny]].**
+- **A [[d/_doom|doom]] that is [[p/_predicted|predicted]]; [[d/_destiny|destiny]].**
 ---
 #verb
-- **To predestine to a [[d/_doom|doom]].**
+- **To [[p/_predestine|predestine]] to a [[d/_doom|doom]].**
 ---
 ---

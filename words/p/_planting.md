@@ -1,0 +1,25 @@
+# Planting
+---
+#verb
+- **To [[p/_place|place]] (a seed or [[p/_plant|plant]]) in soil or [[o/_other|other]] substrate in [[o/_order|order]] that it [[m/_may|may]] [[l/_live|live]] and [[g/_grow|grow]].**
+- **To [[p/_place|place]] (an [[o/_object|object]], or sometimes a [[p/_person|person]]), [[o/_often|often]] with the [[i/_implication|implication]] of [[i/_intending|intending]] [[d/_deceit|deceit]].**
+	- _Example: That gun's not mine! It was planted there by the real murderer!_
+- **To [[p/_place|place]] or set something [[f/_firmly|firmly]] or with [[c/_conviction|conviction]].**
+	- _Example: Plant your feet firmly and give the rope a good tug._
+- **To [[p/_place|place]] in the [[g/_ground|ground]].**
+- **To [[f/_furnish|furnish]] or supply with [[p/_plants|plants]].**
+	- _Example: to plant a garden, an orchard, or a forest_
+- **To [[e/_engender|engender]]; to [[g/_generate|generate]]; to set the [[g/_germ|germ]] of.**
+- **To [[f/_furnish|furnish]] with a [[f/_fixed|fixed]] and [[o/_organized|organized]] [[p/_population|population]]; to settle; to [[e/_establish|establish]].**
+	- _Example: to plant a colony_
+- **To [[i/_introduce|introduce]] and [[e/_establish|establish]] the principles or seeds of.**
+	- _Example: to plant Christianity among the heathen_
+- **To set up; to [[i/_install|install]]; to [[i/_instate|instate]].**
+---
+#noun
+- **A [[p/_plant|plant]] (or [[c/_clipping|clipping]]) that [[h/_has|has]] [[b/_been|been]] [[f/_freshly|freshly]] [[p/_planted|planted]].**
+	- _Example: Take one of the plantings over as a house-warming gift._
+- **The [[a/_act|act]] of setting a [[p/_plant|plant]] in the [[g/_ground|ground]] for [[g/_growth|growth]].**
+- **A [[p/_plantation|plantation]].**
+---
+---

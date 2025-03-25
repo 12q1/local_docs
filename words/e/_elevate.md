@@ -1,7 +1,7 @@
 # Elevate
 ---
 #verb
-- **To raise (something) to a [[h/_higher|higher]] position.**
+- **To raise (something) to a [[h/_higher|higher]] [[p/_position|position]].**
 	- _Example: The doctor told me elevating my legs would help reduce the swelling._
 - **To promote (someone) to a [[h/_higher|higher]] rank.**
 - **To [[c/_confer|confer]] [[h/_honor|honor]] or [[n/_nobility|nobility]] on (someone).**

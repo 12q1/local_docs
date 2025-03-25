@@ -1,6 +1,6 @@
 # Lipidic
 ---
 #adjective
-- **Of or pertaining to the [[l/_lipids|lipids]].**
+- **Of or [[p/_pertaining|pertaining]] to the [[l/_lipids|lipids]].**
 ---
 ---

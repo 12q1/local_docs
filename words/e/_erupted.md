@@ -5,7 +5,7 @@
 	- _Example: The volcano erupted, spewing lava across a wide area._
 - **To [[b/_burst|burst]] [[f/_forth|forth]]; to [[b/_break|break]] [[o/_out|out]].**
 	- _Example: The third molar tooth erupts late in most people, and sometimes does not appear at all._
-- **To spontaneously release pressure or tension.**
+- **To spontaneously release [[p/_pressure|pressure]] or tension.**
 	- _Example: The crowd erupted in anger._
 ---
 ### Synonyms

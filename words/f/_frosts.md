@@ -14,6 +14,6 @@
 - **To [[c/_coat|coat]] (something, [[e/_e|e]].[[g/_g|g]]. a [[c/_cake|cake]]) with [[i/_icing|icing]] to resemble [[f/_frost|frost]].**
 - **To [[a/_anger|anger]] or [[a/_annoy|annoy]].**
 	- _Example: I think the boss's decision frosted him a bit._
-- **To sharpen (the points of a [[h/_horse|horse]]'s shoe) to prevent it from slipping on [[i/_ice|ice]].**
+- **To sharpen (the [[p/_points|points]] of a [[h/_horse|horse]]'s shoe) to prevent it from slipping on [[i/_ice|ice]].**
 ---
 ---

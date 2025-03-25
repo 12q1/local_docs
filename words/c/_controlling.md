@@ -13,7 +13,7 @@
 - **The [[a/_act|act]] of [[e/_exerting|exerting]] [[c/_control|control]].**
 ---
 #adjective
-- **[[e/_exerting|Exerting]] [[c/_control|control]] [[o/_over|over]] a person or thing.**
+- **[[e/_exerting|Exerting]] [[c/_control|control]] [[o/_over|over]] a [[p/_person|person]] or thing.**
 	- _Example: His mother is very controlling._
 ---
 ### Synonyms

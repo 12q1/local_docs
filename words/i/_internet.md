@@ -5,7 +5,7 @@
 - **The [[i/_internet|Internet]], the [[l/_largest|largest]] [[g/_global|global]] [[i/_internet|internet]].**
 - **An [[i/_internet|internet]] [[c/_connection|connection]], [[i/_internet|internet]] [[c/_connectivity|connectivity]], [[a/_access|access]] to the [[i/_internet|internet]].**
 	- _Example: Do you have internet at your place?  My internet is down and I want to check my email._
-- **A [[f/_fictitious|fictitious]] unit of scoring, [[a/_awarded|awarded]] for [[m/_making|making]] [[o/_outstanding|outstanding]] posts.**
+- **A [[f/_fictitious|fictitious]] unit of scoring, [[a/_awarded|awarded]] for [[m/_making|making]] [[o/_outstanding|outstanding]] [[p/_posts|posts]].**
 ---
 #verb
 - **To use the [[i/_internet|Internet]]; to search for something using the [[i/_internet|Internet]]; to surf the [[i/_internet|Internet]].**

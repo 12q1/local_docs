@@ -1,6 +1,6 @@
 # Medakas
 ---
 #noun
-- **Oryzias latipes, a small [[j/_japanese|Japanese]] ricefish, popular for use in [[a/_aquariums|aquariums]].**
+- **Oryzias latipes, a small [[j/_japanese|Japanese]] ricefish, [[p/_popular|popular]] for use in [[a/_aquariums|aquariums]].**
 ---
 ---

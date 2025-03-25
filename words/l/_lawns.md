@@ -7,7 +7,7 @@
 ---
 #noun
 - **A type of thin [[l/_linen|linen]] or [[c/_cotton|cotton]].**
-- **(in the plural) Pieces of this [[f/_fabric|fabric]], [[e/_especially|especially]] as used for the sleeves of a [[b/_bishop|bishop]].**
-- **A piece of [[c/_clothing|clothing]] [[m/_made|made]] from [[l/_lawn|lawn]].**
+- **(in the [[p/_plural|plural]]) [[p/_pieces|Pieces]] of this [[f/_fabric|fabric]], [[e/_especially|especially]] as used for the sleeves of a [[b/_bishop|bishop]].**
+- **A [[p/_piece|piece]] of [[c/_clothing|clothing]] [[m/_made|made]] from [[l/_lawn|lawn]].**
 ---
 ---

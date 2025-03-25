@@ -1,7 +1,7 @@
 # Liturgical
 ---
 #adjective
-- **Pertaining to [[l/_liturgy|liturgy]].**
+- **[[p/_pertaining|Pertaining]] to [[l/_liturgy|liturgy]].**
 ---
 ### Synonyms
 - [[l/_liturgic|liturgic]]

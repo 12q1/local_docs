@@ -16,13 +16,13 @@
 ### Synonyms
 - [[c/_cause|cause]], [[c/_convey|convey]], [[i/_indicate|indicate]], [[s/_signify|signify]], [[i/_imply|imply]], [[i/_intend|intend]], [[s/_serious|serious]]
 #noun
-- **([[n/_now|now]] [[c/_chiefly|chiefly]] in the plural) A [[m/_method|method]] or [[c/_course|course]] of [[a/_action|action]] used to [[a/_achieve|achieve]] some result.**
+- **([[n/_now|now]] [[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) A [[m/_method|method]] or [[c/_course|course]] of [[a/_action|action]] used to [[a/_achieve|achieve]] some result.**
 - **(in the singular) An [[i/_intermediate|intermediate]] step or [[i/_intermediate|intermediate]] steps.**
 - **Something which is [[i/_intermediate|intermediate]] or in the [[m/_middle|middle]]; an [[i/_intermediate|intermediate]] value or range of values; a [[m/_medium|medium]].**
-- **The [[m/_middle|middle]] part of three-part polyphonic [[m/_music|music]]; [[n/_now|now]] specifically, the [[a/_alto|alto]] part in polyphonic [[m/_music|music]]; an [[a/_alto|alto]] [[i/_instrument|instrument]].**
+- **The [[m/_middle|middle]] [[p/_part|part]] of three-[[p/_part|part]] [[p/_polyphonic|polyphonic]] [[m/_music|music]]; [[n/_now|now]] specifically, the [[a/_alto|alto]] [[p/_part|part]] in [[p/_polyphonic|polyphonic]] [[m/_music|music]]; an [[a/_alto|alto]] [[i/_instrument|instrument]].**
 - **The [[a/_average|average]] of a set of values, [[c/_calculated|calculated]] by summing them together and [[d/_dividing|dividing]] by the [[n/_number|number]] of terms; the [[a/_arithmetic|arithmetic]] [[m/_mean|mean]].**
 - **[[a/_any|Any]] [[f/_function|function]] of [[m/_multiple|multiple]] variables that satisfies [[c/_certain|certain]] properties and [[y/_yields|yields]] a [[n/_number|number]] representative of [[i/_its|its]] [[a/_arguments|arguments]]; or, the [[n/_number|number]] so [[y/_yielded|yielded]]; a [[m/_measure|measure]] of [[c/_central|central]] tendency.**
-- **[[e/_either|Either]] of the two [[n/_numbers|numbers]] in the [[m/_middle|middle]] of a [[c/_conventionally|conventionally]] presented proportion, as 2 and 3 in 1:2=3:6.**
+- **[[e/_either|Either]] of the two [[n/_numbers|numbers]] in the [[m/_middle|middle]] of a [[c/_conventionally|conventionally]] [[p/_presented|presented]] proportion, as 2 and 3 in 1:2=3:6.**
 ---
 #noun
 - **Resources; riches.**

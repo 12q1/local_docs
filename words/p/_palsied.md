@@ -5,6 +5,6 @@
 - **Trembling as [[i/_if|if]] [[a/_afflicted|afflicted]] with [[p/_palsy|palsy]].**
 ---
 #verb
-- **To paralyse, [[e/_either|either]] [[c/_completely|completely]] or partially.**
+- **To [[p/_paralyse|paralyse]], [[e/_either|either]] [[c/_completely|completely]] or [[p/_partially|partially]].**
 ---
 ---

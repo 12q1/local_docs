@@ -1,7 +1,7 @@
 # Overfall
 ---
 #noun
-- **A turbulent section of a [[b/_body|body]] of water, [[c/_caused|caused]] by strong [[c/_currents|currents]] passing [[o/_over|over]] submerged ridges.**
+- **A turbulent section of a [[b/_body|body]] of water, [[c/_caused|caused]] by strong [[c/_currents|currents]] [[p/_passing|passing]] [[o/_over|over]] submerged ridges.**
 ---
 #verb
 - **To [[f/_fall|fall]] [[o/_over|over]] (something).**

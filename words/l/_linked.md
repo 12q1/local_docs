@@ -6,7 +6,7 @@
 	- _Example: My homepage links to my wife's._
 - **To supply (somebody) with a hyperlink; to [[d/_direct|direct]] by [[m/_means|means]] of a [[l/_link|link]].**
 	- _Example: Haven't you seen his Web site? I'll link you to it._
-- **To post a hyperlink to.**
+- **To [[p/_post|post]] a hyperlink to.**
 	- _Example: Stop linking those unfunny comics all the time!_
 - **To [[d/_demonstrate|demonstrate]] a [[c/_correlation|correlation]] [[b/_between|between]] two things.**
 - **To [[c/_combine|combine]] [[o/_objects|objects]] [[g/_generated|generated]] by a [[c/_compiler|compiler]] [[i/_into|into]] a single [[e/_executable|executable]].**

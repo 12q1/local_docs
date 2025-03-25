@@ -1,6 +1,6 @@
 # Cutie
 ---
 #noun
-- **A [[c/_cute|cute]] person or [[a/_animal|animal]].**
+- **A [[c/_cute|cute]] [[p/_person|person]] or [[a/_animal|animal]].**
 ---
 ---

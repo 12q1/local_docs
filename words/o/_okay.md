@@ -14,7 +14,7 @@
 ### Synonyms
 - [[a/_approve|approve]], [[g/_greenlight|greenlight]]
 #adjective
-- **[[a/_all|All]] right, permitted.**
+- **[[a/_all|All]] right, [[p/_permitted|permitted]].**
 	- _Example: Do you think it's OK to stay here for the night?_
 - **Satisfactory, reasonably [[g/_good|good]]; not [[e/_exceptional|exceptional]].**
 	- _Example: The soup was OK, but the dessert was excellent._

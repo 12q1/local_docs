@@ -7,12 +7,12 @@
 	- _Example: I called you earlier, but all I got was the machine._
 - **A [[c/_computer|computer]].**
 	- _Example: Game developers assume they're pushing the limits of the machine._
-- **A person or [[o/_organisation|organisation]] that seemingly [[a/_acts|acts]] [[l/_like|like]] a [[m/_machine|machine]], [[b/_being|being]] particularly [[e/_efficient|efficient]], single-[[m/_minded|minded]], or unemotional.**
+- **A [[p/_person|person]] or [[o/_organisation|organisation]] that seemingly [[a/_acts|acts]] [[l/_like|like]] a [[m/_machine|machine]], [[b/_being|being]] [[p/_particularly|particularly]] [[e/_efficient|efficient]], single-[[m/_minded|minded]], or unemotional.**
 	- _Example: Bruce Campbell was a "demon-killing machine" because he made quick work of killing demons._
-- **[[e/_especially|Especially]], the [[g/_group|group]] that [[c/_controls|controls]] a political or similar [[o/_organization|organization]]; a [[c/_combination|combination]] of persons [[a/_acting|acting]] together for a [[c/_common|common]] purpose, with the [[a/_agencies|agencies]] which they use.**
-- **Supernatural [[a/_agency|agency]] in a poem, or a superhuman [[b/_being|being]] [[i/_introduced|introduced]] to perform some [[e/_exploit|exploit]].**
-- **The system of special [[i/_interest|interest]] [[g/_groups|groups]] that supports a political party, [[e/_especially|especially]] in urban [[a/_areas|areas]].**
-- **Penis.**
+- **[[e/_especially|Especially]], the [[g/_group|group]] that [[c/_controls|controls]] a [[p/_political|political]] or similar [[o/_organization|organization]]; a [[c/_combination|combination]] of [[p/_persons|persons]] [[a/_acting|acting]] together for a [[c/_common|common]] purpose, with the [[a/_agencies|agencies]] which they use.**
+- **Supernatural [[a/_agency|agency]] in a [[p/_poem|poem]], or a superhuman [[b/_being|being]] [[i/_introduced|introduced]] to [[p/_perform|perform]] some [[e/_exploit|exploit]].**
+- **The system of special [[i/_interest|interest]] [[g/_groups|groups]] that supports a [[p/_political|political]] [[p/_party|party]], [[e/_especially|especially]] in urban [[a/_areas|areas]].**
+- **[[p/_penis|Penis]].**
 - **A [[c/_contrivance|contrivance]] in the [[a/_ancient|Ancient]] [[g/_greek|Greek]] theatre for [[i/_indicating|indicating]] a [[c/_change|change]] of scene, by [[m/_means|means]] of which a [[g/_god|god]] [[m/_might|might]] [[c/_cross|cross]] the stage or [[d/_deliver|deliver]] a [[d/_divine|divine]] [[m/_message|message]]; the [[d/_deus|deus]] [[e/_ex|ex]] [[m/_machina|machina]].**
 - **A [[b/_bathing|bathing]] [[m/_machine|machine]].**
 ---

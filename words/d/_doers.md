@@ -1,6 +1,6 @@
 # Doers
 ---
 #noun
-- **Someone who [[d/_does|does]], performs, or [[e/_executes|executes]]; an [[a/_active|active]] person, an [[a/_agent|agent]].**
+- **Someone who [[d/_does|does]], [[p/_performs|performs]], or [[e/_executes|executes]]; an [[a/_active|active]] [[p/_person|person]], an [[a/_agent|agent]].**
 ---
 ---

@@ -5,9 +5,9 @@
 - **The study of the principles and [[c/_criteria|criteria]] of valid [[i/_inference|inference]] and [[d/_demonstration|demonstration]].**
 - **The [[m/_mathematical|mathematical]] study of relationships [[b/_between|between]] rigorously [[d/_defined|defined]] [[c/_concepts|concepts]] and of [[m/_mathematical|mathematical]] proof of statements.**
 - **A [[f/_formal|formal]] or [[i/_informal|informal]] [[l/_language|language]] together with a [[d/_deductive|deductive]] system or a [[m/_model|model]]-theoretic semantics.**
-- **[[a/_any|Any]] system of thought, whether rigorous and productive or not, [[e/_especially|especially]] [[o/_one|one]] [[a/_associated|associated]] with a particular person.**
+- **[[a/_any|Any]] system of thought, whether rigorous and productive or not, [[e/_especially|especially]] [[o/_one|one]] [[a/_associated|associated]] with a [[p/_particular|particular]] [[p/_person|person]].**
 	- _Example: It's hard to work out his system of logic._
-- **The part of a system (usually [[e/_electronic|electronic]]) that performs the [[b/_boolean|boolean]] [[l/_logic|logic]] [[o/_operations|operations]], short for [[l/_logic|logic]] [[g/_gates|gates]] or [[l/_logic|logic]] [[c/_circuit|circuit]].**
+- **The [[p/_part|part]] of a system (usually [[e/_electronic|electronic]]) that [[p/_performs|performs]] the [[b/_boolean|boolean]] [[l/_logic|logic]] [[o/_operations|operations]], short for [[l/_logic|logic]] [[g/_gates|gates]] or [[l/_logic|logic]] [[c/_circuit|circuit]].**
 	- _Example: Fred is designing the logic for the new controller._
 ---
 ### Synonyms

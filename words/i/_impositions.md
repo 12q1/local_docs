@@ -5,7 +5,7 @@
 - **That which is [[i/_imposed|imposed]], [[l/_levied|levied]], or [[e/_enjoined|enjoined]].**
 - **An [[e/_excessive|excessive]], [[a/_arbitrary|arbitrary]], or unlawful [[e/_exaction|exaction]]; [[h/_hence|hence]], a trick or [[d/_deception|deception]] put or [[l/_laid|laid]] on [[o/_others|others]].**
 - **[[a/_arrangement|Arrangement]] of a printed product’s [[p/_pages|pages]] on the printer's sheet so as to [[h/_have|have]] the [[p/_pages|pages]] in proper [[o/_order|order]] in the [[f/_final|final]] product.**
-- **A practice of [[l/_laying|laying]] [[h/_hands|hands]] on a person in a religious [[c/_ceremony|ceremony]]; used [[e/_e|e]].[[g/_g|g]]. in [[c/_confirmation|confirmation]] and [[o/_ordination|ordination]].**
+- **A [[p/_practice|practice]] of [[l/_laying|laying]] [[h/_hands|hands]] on a [[p/_person|person]] in a religious [[c/_ceremony|ceremony]]; used [[e/_e|e]].[[g/_g|g]]. in [[c/_confirmation|confirmation]] and [[o/_ordination|ordination]].**
 - **A task [[i/_imposed|imposed]] on a student as punishment.**
 ---
 ### Synonyms

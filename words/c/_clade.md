@@ -5,6 +5,6 @@
 - **A [[h/_higher|higher]] [[l/_level|level]] [[g/_grouping|grouping]] of a [[g/_genetic|genetic]] haplogroup.**
 ---
 #verb
-- **To be part of a [[c/_clade|clade]]; to [[f/_form|form]] a [[c/_clade|clade]].**
+- **To be [[p/_part|part]] of a [[c/_clade|clade]]; to [[f/_form|form]] a [[c/_clade|clade]].**
 ---
 ---

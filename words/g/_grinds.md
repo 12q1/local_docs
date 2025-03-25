@@ -1,8 +1,8 @@
 # Grinds
 ---
 #noun
-- **The [[a/_act|act]] of reducing to powder, or of sharpening, by [[f/_friction|friction]].**
-- **Something that [[h/_has|has]] [[b/_been|been]] reduced to powder, something that [[h/_has|has]] [[b/_been|been]] [[g/_ground|ground]].**
+- **The [[a/_act|act]] of reducing to [[p/_powder|powder]], or of sharpening, by [[f/_friction|friction]].**
+- **Something that [[h/_has|has]] [[b/_been|been]] reduced to [[p/_powder|powder]], something that [[h/_has|has]] [[b/_been|been]] [[g/_ground|ground]].**
 - **A specific [[d/_degree|degree]] of pulverization of [[c/_coffee|coffee]] [[b/_beans|beans]].**
 	- _Example: This bag contains espresso grind._
 - **A tedious and [[l/_laborious|laborious]] task.**
@@ -15,17 +15,17 @@
 ### Synonyms
 - [[c/_chore|chore]]
 #verb
-- **To reduce to smaller pieces by [[c/_crushing|crushing]] with [[l/_lateral|lateral]] [[m/_motion|motion]].**
+- **To reduce to smaller [[p/_pieces|pieces]] by [[c/_crushing|crushing]] with [[l/_lateral|lateral]] [[m/_motion|motion]].**
 - **To shape with the [[f/_force|force]] of [[f/_friction|friction]].**
 	- _Example: grind a lens; grind an axe_
 - **To remove [[m/_material|material]] by rubbing with an [[a/_abrasive|abrasive]] surface.**
-- **To [[b/_become|become]] [[g/_ground|ground]], pulverized, or polished by [[f/_friction|friction]].**
+- **To [[b/_become|become]] [[g/_ground|ground]], pulverized, or [[p/_polished|polished]] by [[f/_friction|friction]].**
 	- _Example: Steel grinds to a sharp edge._
 - **To [[m/_move|move]] with [[m/_much|much]] [[d/_difficulty|difficulty]] or [[f/_friction|friction]]; to [[g/_grate|grate]].**
-- **To slide the [[f/_flat|flat]] portion of a skateboard or snowboard [[a/_across|across]] an [[o/_obstacle|obstacle]] such as a railing.**
+- **To slide the [[f/_flat|flat]] [[p/_portion|portion]] of a skateboard or snowboard [[a/_across|across]] an [[o/_obstacle|obstacle]] such as a railing.**
 - **To [[o/_oppress|oppress]], [[h/_hold|hold]] [[d/_down|down]] or weaken.**
 - **To rotate the [[h/_hips|hips]] [[e/_erotically|erotically]].**
-- **To [[d/_dance|dance]] in a sexually suggestive way with [[b/_both|both]] partners in very [[c/_close|close]] proximity, [[o/_often|often]] pressed [[a/_against|against]] [[e/_each|each]] [[o/_other|other]].**
+- **To [[d/_dance|dance]] in a sexually suggestive way with [[b/_both|both]] [[p/_partners|partners]] in very [[c/_close|close]] proximity, [[o/_often|often]] [[p/_pressed|pressed]] [[a/_against|against]] [[e/_each|each]] [[o/_other|other]].**
 - **To repeat a task a [[l/_large|large]] [[n/_number|number]] of times in a row to [[a/_achieve|achieve]] a specific [[g/_goal|goal]].**
 - **To [[o/_operate|operate]] by turning a [[c/_crank|crank]].**
 	- _Example: to grind an organ_
@@ -36,10 +36,10 @@
 - **To [[e/_eat|eat]].**
 	- _Example: Eh, brah, let's go grind._
 - **To work or study [[h/_hard|hard]]; to [[h/_hustle|hustle]] or [[d/_drudge|drudge]].**
-- **To [[a/_annoy|annoy]] or [[i/_irritate|irritate]] (a person); to [[g/_grind|grind]] [[o/_one|one]]'s [[g/_gears|gears]].**
+- **To [[a/_annoy|annoy]] or [[i/_irritate|irritate]] (a [[p/_person|person]]); to [[g/_grind|grind]] [[o/_one|one]]'s [[g/_gears|gears]].**
 ---
 #noun
-- **A traditional [[c/_communal|communal]] pilot whale [[h/_hunt|hunt]] in the Faroe [[i/_islands|Islands]].**
+- **A traditional [[c/_communal|communal]] [[p/_pilot|pilot]] whale [[h/_hunt|hunt]] in the Faroe [[i/_islands|Islands]].**
 ---
 ### Synonyms
 - [[g/_grindadráp|grindadráp]]

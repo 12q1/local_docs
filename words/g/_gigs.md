@@ -1,7 +1,7 @@
 # Gigs
 ---
 #noun
-- **A performing [[e/_engagement|engagement]] by a [[m/_musical|musical]] [[g/_group|group]]; or, [[g/_generally|generally]], [[a/_any|any]] [[j/_job|job]] or role, [[e/_especially|especially]] for a [[m/_musician|musician]] or performer.**
+- **A [[p/_performing|performing]] [[e/_engagement|engagement]] by a [[m/_musical|musical]] [[g/_group|group]]; or, [[g/_generally|generally]], [[a/_any|any]] [[j/_job|job]] or role, [[e/_especially|especially]] for a [[m/_musician|musician]] or [[p/_performer|performer]].**
 	- _Example: Hey, when are we gonna get that hotel gig again?_
 - **(by [[e/_extension|extension]]) [[a/_any|Any]] [[j/_job|job]]; [[e/_especially|especially]] [[o/_one|one]] that is temporary; or [[a/_alternately|alternately]], [[o/_one|one]] that is very [[d/_desirable|desirable]].**
 	- _Example: Hey, that guy's got a great gig over at the bike shop. He hardly works all day_
@@ -16,7 +16,7 @@
 - [[l/_leister|leister]]
 #verb
 - **To [[f/_fish|fish]] or [[c/_catch|catch]] with a [[g/_gig|gig]], or [[f/_fish|fish]] spear.**
-- **To [[e/_engage|engage]] in [[m/_musical|musical]] performances.**
+- **To [[e/_engage|engage]] in [[m/_musical|musical]] [[p/_performances|performances]].**
 	- _Example: The Stones were gigging around Richmond at the time_
 - **To [[m/_make|make]] [[f/_fun|fun]] of; to [[m/_make|make]] a [[j/_joke|joke]] at someone's [[e/_expense|expense]], [[o/_often|often]] [[c/_condescending|condescending]].**
 	- _Example: His older cousin was just gigging him about being in love with that girl from school._
@@ -26,10 +26,10 @@
 #noun
 - **[[c/_clipped|Clipped]] [[f/_form|form]] of [[g/_gigabyte|gigabyte]].**
 	- _Example: My new computer has over 500 gigs of hard drive space._
-- **[[a/_any|Any]] unit [[h/_having|having]] the SI prefix [[g/_giga|giga]]-**
+- **[[a/_any|Any]] unit [[h/_having|having]] the SI [[p/_prefix|prefix]] [[g/_giga|giga]]-**
 ---
 #noun
-- **A playful or wanton [[g/_girl|girl]]; a [[g/_giglot|giglot]].**
+- **A [[p/_playful|playful]] or wanton [[g/_girl|girl]]; a [[g/_giglot|giglot]].**
 ---
 ### Synonyms
 - [[f/_fizgig|fizgig]], [[g/_giglot|giglot]]

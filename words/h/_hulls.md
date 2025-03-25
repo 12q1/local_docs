@@ -13,8 +13,8 @@
 ### Synonyms
 - [[h/_husk|husk]], [[p/_peel|peel]], [[s/_shell|shell]], [[s/_shuck|shuck]]
 #noun
-- **The [[b/_body|body]] or [[f/_frame|frame]] of a vessel, such as a ship or plane.**
-- **(of a set A) The smallest set that possesses a particular property (such as [[c/_convexity|convexity]]) and [[c/_contains|contains]] [[e/_every|every]] point of A; slightly [[m/_more|more]] [[f/_formally|formally]], the [[i/_intersection|intersection]] of [[a/_all|all]] sets which possess the specified property and of which A is a subset.**
+- **The [[b/_body|body]] or [[f/_frame|frame]] of a vessel, such as a ship or [[p/_plane|plane]].**
+- **(of a set A) The smallest set that [[p/_possesses|possesses]] a [[p/_particular|particular]] property (such as [[c/_convexity|convexity]]) and [[c/_contains|contains]] [[e/_every|every]] [[p/_point|point]] of A; slightly [[m/_more|more]] [[f/_formally|formally]], the [[i/_intersection|intersection]] of [[a/_all|all]] sets which [[p/_possess|possess]] the specified property and of which A is a subset.**
 	- _Example: The orthogonal convex hull of an orthogonal polygon is the smallest orthogonally convex polygon that encloses the original polygon._
 ---
 #verb

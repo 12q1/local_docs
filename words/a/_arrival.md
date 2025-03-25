@@ -5,7 +5,7 @@
 	- _Example: The early arrival of the bride created a stir._
 - **The [[a/_attainment|attainment]] of an [[o/_objective|objective]], [[e/_especially|especially]] as a result of [[e/_effort|effort]].**
 	- _Example: The arrival of the railway made the local tourist industry viable._
-- **A person who [[h/_has|has]] [[a/_arrived|arrived]].**
+- **A [[p/_person|person]] who [[h/_has|has]] [[a/_arrived|arrived]].**
 	- _Example: There has been a significant growth in illegal arrivals._
 ---
 ### Antonyms

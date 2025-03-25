@@ -1,6 +1,6 @@
 # Micropipet
 ---
 #noun
-- **A very small pipette.**
+- **A very small [[p/_pipette|pipette]].**
 ---
 ---

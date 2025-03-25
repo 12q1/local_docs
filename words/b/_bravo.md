@@ -9,7 +9,7 @@
 - **To [[c/_cheer|cheer]] or [[a/_applaud|applaud]], [[e/_especially|especially]] by saying [[b/_bravo|bravo]]!**
 ---
 #interjection
-- **Used to [[e/_express|express]] [[a/_acclaim|acclaim]], [[e/_especially|especially]] to a performer.**
+- **Used to [[e/_express|express]] [[a/_acclaim|acclaim]], [[e/_especially|especially]] to a [[p/_performer|performer]].**
 	- _Example: Bravo, you have done a brilliant job!_
 ---
 ---

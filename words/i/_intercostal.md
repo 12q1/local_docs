@@ -6,7 +6,7 @@
 - **[[h/_hull|Hull]] reinforcing [[i/_inserted|inserted]] [[b/_between|between]] [[f/_frames|frames]] or [[b/_bulkheads|bulkheads]] of a [[b/_boat|boat]].**
 ---
 #adjective
-- **[[b/_between|Between]] the ribs of an [[a/_animal|animal]] or person.**
+- **[[b/_between|Between]] the ribs of an [[a/_animal|animal]] or [[p/_person|person]].**
 - **[[b/_between|Between]] the ribs of a [[b/_boat|boat]].**
 ---
 ---

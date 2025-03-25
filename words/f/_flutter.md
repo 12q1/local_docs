@@ -7,7 +7,7 @@
 - **An [[a/_abnormal|abnormal]] rapid pulsation of the [[h/_heart|heart]].**
 - **A small [[b/_bet|bet]] or risky [[i/_investment|investment]].**
 - **A [[h/_hasty|hasty]] [[g/_game|game]] of [[c/_cards|cards]] or similar.**
-- **([[a/_audio|audio]]) The rapid variation of signal parameters, such as [[a/_amplitude|amplitude]], phase, and [[f/_frequency|frequency]].**
+- **([[a/_audio|audio]]) The rapid variation of signal [[p/_parameters|parameters]], such as [[a/_amplitude|amplitude]], [[p/_phase|phase]], and [[f/_frequency|frequency]].**
 ---
 #verb
 - **To [[f/_flap|flap]] or wave quickly but [[i/_irregularly|irregularly]].**

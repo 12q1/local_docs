@@ -6,7 +6,7 @@
 - **That which is [[d/_decreed|decreed]] by [[f/_fate|fate]] or which is [[f/_fatal|fatal]]; a [[f/_fatal|fatal]] [[e/_event|event]].**
 - **[[d/_death|Death]].**
 - **An [[a/_accident|accident]] that [[c/_causes|causes]] [[d/_death|death]].**
-- **A person [[k/_killed|killed]].**
+- **A [[p/_person|person]] [[k/_killed|killed]].**
 - **A [[m/_move|move]] where [[o/_one|one]] [[c/_character|character]] [[k/_kills|kills]] [[a/_another|another]].**
 ---
 ### Synonyms

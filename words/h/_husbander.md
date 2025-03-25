@@ -1,6 +1,6 @@
 # Husbander
 ---
 #noun
-- **A person who [[h/_husbands|husbands]] resources.**
+- **A [[p/_person|person]] who [[h/_husbands|husbands]] resources.**
 ---
 ---

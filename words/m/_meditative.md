@@ -1,9 +1,9 @@
 # Meditative
 ---
 #adjective
-- **Of or pertaining to [[m/_meditation|meditation]].**
+- **Of or [[p/_pertaining|pertaining]] to [[m/_meditation|meditation]].**
 	- _Example: Yoga is a meditative practice._
-- **Thoughtful; pensive.**
+- **Thoughtful; [[p/_pensive|pensive]].**
 	- _Example: After hearing the news he became meditative._
 ---
 ---

@@ -1,7 +1,7 @@
 # Betters
 ---
 #noun
-- **An [[e/_entity|entity]], usually [[a/_animate|animate]], [[d/_deemed|deemed]] superior to [[a/_another|another]]; [[o/_one|one]] who [[h/_has|has]] a [[c/_claim|claim]] to precedence; a superior.**
+- **An [[e/_entity|entity]], usually [[a/_animate|animate]], [[d/_deemed|deemed]] superior to [[a/_another|another]]; [[o/_one|one]] who [[h/_has|has]] a [[c/_claim|claim]] to [[p/_precedence|precedence]]; a superior.**
 	- _Example: He quickly found Ali his better in the ring._
 ---
 #verb
@@ -11,7 +11,7 @@
 - **To [[g/_give|give]] [[a/_advantage|advantage]] to; to support; to [[a/_advance|advance]] the [[i/_interest|interest]] of.**
 ---
 #noun
-- **A person who [[m/_makes|makes]] a [[b/_bet|bet]], such as a wager on the [[o/_outcome|outcome]] of a [[g/_game|game]] of [[c/_chance|chance]] or a sporting [[e/_event|event]].**
+- **A [[p/_person|person]] who [[m/_makes|makes]] a [[b/_bet|bet]], such as a wager on the [[o/_outcome|outcome]] of a [[g/_game|game]] of [[c/_chance|chance]] or a sporting [[e/_event|event]].**
 ---
 #verb
 - **(with [[b/_bare|bare]] [[i/_infinitive|infinitive]]) Should; [[o/_ought|ought]] to; [[n/_need|need]] to; [[m/_must|must]].**

@@ -19,14 +19,14 @@
 - **Short.**
 	- _Example: to cut grass or hair close_
 - **[[d/_dense|Dense]]; solid; [[c/_compact|compact]].**
-- **[[c/_concise|Concise]]; to the point.**
+- **[[c/_concise|Concise]]; to the [[p/_point|point]].**
 	- _Example: close reasoning_
 - **[[d/_difficult|Difficult]] to [[o/_obtain|obtain]].**
 	- _Example: Money is close._
-- **Parsimonious; stingy.**
+- **[[p/_parsimonious|Parsimonious]]; stingy.**
 - **[[a/_adhering|Adhering]] strictly to a standard or [[o/_original|original]]; [[e/_exact|exact]].**
 	- _Example: a close translation_
-- **[[a/_accurate|Accurate]]; [[c/_careful|careful]]; precise; [[a/_also|also]], [[a/_attentive|attentive]]; undeviating; strict.**
+- **[[a/_accurate|Accurate]]; [[c/_careful|careful]]; [[p/_precise|precise]]; [[a/_also|also]], [[a/_attentive|attentive]]; undeviating; strict.**
 	- _Example: The patient was kept under close observation._
 - **[[m/_marked|Marked]], [[e/_evident|evident]].**
 ---

@@ -1,12 +1,12 @@
 # Bisected
 ---
 #verb
-- **To [[c/_cut|cut]] or [[d/_divide|divide]] [[i/_into|into]] two parts.**
+- **To [[c/_cut|cut]] or [[d/_divide|divide]] [[i/_into|into]] two [[p/_parts|parts]].**
 ---
 ### Synonyms
 - [[d/_dichotomize|dichotomize]], [[d/_dimidiate|dimidiate]]
 #adjective
-- **[[d/_divided|Divided]] [[i/_into|into]] two [[e/_equal|equal]] pieces.**
+- **[[d/_divided|Divided]] [[i/_into|into]] two [[e/_equal|equal]] [[p/_pieces|pieces]].**
 	- _Example: One half of the bisected line is the same as the other._
 ---
 ---

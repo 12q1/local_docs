@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[o/_odd|odd]] or strange thing or [[o/_opinion|opinion]].**
-- **A strange person; an [[o/_oddball|oddball]].**
+- **A strange [[p/_person|person]]; an [[o/_oddball|oddball]].**
 - **Strangeness.**
 ---
 ### Synonyms

@@ -2,10 +2,10 @@
 ---
 #noun
 - **A [[j/_joke|joke]] or quip.**
-- **A prank or trick.**
+- **A [[p/_prank|prank]] or trick.**
 ---
 #verb
-- **To [[j/_jest|jest]]; play tricks.**
+- **To [[j/_jest|jest]]; [[p/_play|play]] tricks.**
 - **To [[m/_mock|mock]]; [[d/_deride|deride]].**
 - **To [[h/_have|have]] sexual [[i/_intercourse|intercourse]] with.**
 ---

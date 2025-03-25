@@ -5,6 +5,6 @@
 - **To serve as a [[f/_fringe|fringe]].**
 ---
 #adjective
-- **Possessing a [[f/_fringe|fringe]].**
+- **[[p/_possessing|Possessing]] a [[f/_fringe|fringe]].**
 ---
 ---

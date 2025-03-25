@@ -1,6 +1,6 @@
 # Allottee
 ---
 #noun
-- **The person to whom an [[a/_allotment|allotment]] is [[a/_allotted|allotted]].**
+- **The [[p/_person|person]] to whom an [[a/_allotment|allotment]] is [[a/_allotted|allotted]].**
 ---
 ---

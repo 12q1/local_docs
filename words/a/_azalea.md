@@ -1,6 +1,6 @@
 # Azalea
 ---
 #noun
-- **A plant of the [[o/_obsolete|obsolete]] [[g/_genus|genus]] [[a/_azalea|Azalea]].**
+- **A [[p/_plant|plant]] of the [[o/_obsolete|obsolete]] [[g/_genus|genus]] [[a/_azalea|Azalea]].**
 ---
 ---

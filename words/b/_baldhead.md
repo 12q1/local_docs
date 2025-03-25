@@ -1,8 +1,8 @@
 # Baldhead
 ---
 #noun
-- **A person whose [[h/_head|head]] is [[b/_bald|bald]].**
-- **A white-[[h/_headed|headed]] variety of pigeon.**
-- **(Rastafarianism) A person who is not Rastafarian.**
+- **A [[p/_person|person]] whose [[h/_head|head]] is [[b/_bald|bald]].**
+- **A white-[[h/_headed|headed]] variety of [[p/_pigeon|pigeon]].**
+- **(Rastafarianism) A [[p/_person|person]] who is not Rastafarian.**
 ---
 ---

@@ -5,7 +5,7 @@
 - **A tool used to [[m/_mold|mold]] such [[f/_features|features]]; similar tools used for [[c/_connecting|connecting]] [[p/_panes|panes]] of [[g/_glass|glass]] in a window.**
 - **A [[c/_circular|circular]] [[m/_molding|molding]] [[n/_near|near]] the [[m/_mouth|mouth]] of a [[c/_cannon|cannon]].**
 - **A [[m/_molding|molding]] [[a/_attached|attached]] to [[d/_double|double]] [[d/_doors|doors]] to prevent [[d/_drafts|drafts]].**
-- **(roof plumbing) A [[b/_bracket|bracket]] used to [[f/_fix|fix]] downpipes to the wall of a [[b/_building|building]].**
+- **(roof [[p/_plumbing|plumbing]]) A [[b/_bracket|bracket]] used to [[f/_fix|fix]] downpipes to the wall of a [[b/_building|building]].**
 ---
 #noun
 - **The [[a/_anklebone|anklebone]].**
@@ -22,7 +22,7 @@
 ### Synonyms
 - [[a/_astragals|astragals]]
 #noun
-- **[[a/_any|Any]] of several plants [[i/_indigenous|indigenous]] to the western United States, of [[g/_genus|genus]] [[o/_oxytropis|Oxytropis]] or [[a/_astragalus|Astragalus]].**
+- **[[a/_any|Any]] of several [[p/_plants|plants]] [[i/_indigenous|indigenous]] to the western United States, of [[g/_genus|genus]] [[o/_oxytropis|Oxytropis]] or [[a/_astragalus|Astragalus]].**
 ---
 ### Synonyms
 - [[a/_astragal|astragal]], [[a/_astragalus|astragalus]], [[o/_oxytrope|oxytrope]], [[c/_crazyweed|crazyweed]], [[l/_loco|loco]]

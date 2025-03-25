@@ -1,7 +1,7 @@
 # Find
 ---
 #noun
-- **[[a/_anything|Anything]] that is [[f/_found|found]] (usually valuable), as [[o/_objects|objects]] on an [[a/_archeological|archeological]] site or a person with talent.**
+- **[[a/_anything|Anything]] that is [[f/_found|found]] (usually valuable), as [[o/_objects|objects]] on an [[a/_archeological|archeological]] site or a [[p/_person|person]] with talent.**
 - **The [[a/_act|act]] of [[f/_finding|finding]].**
 ---
 ### Synonyms
@@ -16,7 +16,7 @@
 	- _Example: to find leisure; to find means_
 - **To [[a/_attain|attain]] to; to [[a/_arrive|arrive]] at; to [[a/_acquire|acquire]].**
 	- _Example: Looks like he found a new vehicle for himself!_
-- **To point [[o/_out|out]].**
+- **To [[p/_point|point]] [[o/_out|out]].**
 	- _Example: He kept finding faults with my work._
 - **(ditransitive) To [[d/_decide|decide]] that, to [[d/_discover|discover]] that, to [[f/_form|form]] the [[o/_opinion|opinion]] that.**
 	- _Example: I find your argument unsatisfactory._

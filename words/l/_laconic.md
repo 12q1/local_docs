@@ -1,7 +1,7 @@
 # Laconic
 ---
 #adjective
-- **Using as [[f/_few|few]] words as possible; pithy and [[c/_concise|concise]].**
+- **Using as [[f/_few|few]] words as [[p/_possible|possible]]; [[p/_pithy|pithy]] and [[c/_concise|concise]].**
 ---
 ### Synonyms
 - [[c/_concise|concise]], [[p/_pithy|pithy]], [[t/_terse|terse]]

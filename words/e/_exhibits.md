@@ -15,7 +15,7 @@
 	- _Example: He wanted to exhibit his baseball cards._
 - **To [[d/_demonstrate|demonstrate]].**
 	- _Example: The players exhibited great skill._
-- **To submit (a physical [[o/_object|object]]) to a [[c/_court|court]] as [[e/_evidence|evidence]].**
+- **To submit (a [[p/_physical|physical]] [[o/_object|object]]) to a [[c/_court|court]] as [[e/_evidence|evidence]].**
 	- _Example: I now exhibit this bloody hammer._
 - **To put on a public [[d/_display|display]].**
 	- _Example: Will you be exhibiting this year?_

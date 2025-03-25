@@ -1,7 +1,7 @@
 # Cuisine
 ---
 #noun
-- **A [[c/_characteristic|characteristic]] style of preparing [[f/_food|food]], [[o/_often|often]] [[a/_associated|associated]] with a place of [[o/_origin|origin]].**
+- **A [[c/_characteristic|characteristic]] style of [[p/_preparing|preparing]] [[f/_food|food]], [[o/_often|often]] [[a/_associated|associated]] with a [[p/_place|place]] of [[o/_origin|origin]].**
 	- _Example: French cuisine is considered to be one of the world's most refined and elegant styles of cooking._
 - **A [[k/_kitchen|kitchen]] or [[c/_cooking|cooking]] [[d/_department|department]].**
 ---

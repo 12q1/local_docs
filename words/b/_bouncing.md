@@ -14,15 +14,15 @@
 - **To [[m/_move|move]] rapidly ([[b/_between|between]]).**
 - **(of a [[c/_cheque|cheque]]/[[c/_check|check]]) To be refused by a [[b/_bank|bank]] [[b/_because|because]] it is [[d/_drawn|drawn]] on [[i/_insufficient|insufficient]] [[f/_funds|funds]].**
 	- _Example: We can’t accept further checks from you, as your last one bounced._
-- **To [[f/_fail|fail]] to [[c/_cover|cover]] ([[h/_have|have]] sufficient [[f/_funds|funds]] for) (a [[d/_draft|draft]] presented [[a/_against|against]] [[o/_one|one]]'s [[a/_account|account]]).**
+- **To [[f/_fail|fail]] to [[c/_cover|cover]] ([[h/_have|have]] sufficient [[f/_funds|funds]] for) (a [[d/_draft|draft]] [[p/_presented|presented]] [[a/_against|against]] [[o/_one|one]]'s [[a/_account|account]]).**
 	- _Example: He tends to bounce a check or two toward the end of each month, before his payday._
 - **To [[l/_leave|leave]].**
 	- _Example: Let’s wrap this up, I gotta bounce._
 - **To [[e/_eject|eject]] violently, as from a room; to [[d/_discharge|discharge]] unceremoniously, as from [[e/_employment|employment]].**
-- **(sometimes [[e/_employing|employing]] the preposition with) To [[h/_have|have]] sexual [[i/_intercourse|intercourse]].**
+- **(sometimes [[e/_employing|employing]] the [[p/_preposition|preposition]] with) To [[h/_have|have]] sexual [[i/_intercourse|intercourse]].**
 - **([[a/_air|air]] [[c/_combat|combat]]) To [[a/_attack|attack]] unexpectedly.**
 	- _Example: The squadron was bounced north of the town._
-- **To turn power [[o/_off|off]] and [[b/_back|back]] on; to reset**
+- **To turn [[p/_power|power]] [[o/_off|off]] and [[b/_back|back]] on; to reset**
 	- _Example: See if it helps to bounce the router._
 - **(of an [[e/_e|e]]-[[m/_mail|mail]] [[m/_message|message]] or [[a/_address|address]]) To return undelivered.**
 	- _Example: The girl in the bar told me her address was thirsty@example.com, but my mail to that address bounced back to me._

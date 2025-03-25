@@ -1,6 +1,6 @@
 # Monoclinic
 ---
 #adjective
-- **[[h/_having|Having]] three unequal [[a/_axes|axes]] with two perpendicular and [[o/_one|one]] [[o/_oblique|oblique]] [[i/_intersections|intersections]].**
+- **[[h/_having|Having]] three unequal [[a/_axes|axes]] with two [[p/_perpendicular|perpendicular]] and [[o/_one|one]] [[o/_oblique|oblique]] [[i/_intersections|intersections]].**
 ---
 ---

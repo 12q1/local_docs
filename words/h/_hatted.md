@@ -1,7 +1,7 @@
 # Hatted
 ---
 #verb
-- **To place a [[h/_hat|hat]] on.**
+- **To [[p/_place|place]] a [[h/_hat|hat]] on.**
 - **To [[a/_appoint|appoint]] as [[c/_cardinal|cardinal]].**
 ---
 #adjective

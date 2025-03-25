@@ -1,6 +1,6 @@
 # Electrovalent
 ---
 #adjective
-- **Of or pertaining to [[e/_electrovalency|electrovalency]]/[[e/_electrovalence|electrovalence]].**
+- **Of or [[p/_pertaining|pertaining]] to [[e/_electrovalency|electrovalency]]/[[e/_electrovalence|electrovalence]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Exigent
 ---
 #noun
-- **[[e/_extremity|Extremity]]; [[e/_end|end]]; [[l/_limit|limit]]; pressing urgency.**
+- **[[e/_extremity|Extremity]]; [[e/_end|end]]; [[l/_limit|limit]]; [[p/_pressing|pressing]] urgency.**
 - **The [[a/_amount|amount]] that is required.**
 - **A writ in proceedings [[b/_before|before]] [[o/_outlawry|outlawry]].**
 ---

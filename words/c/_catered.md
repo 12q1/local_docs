@@ -1,9 +1,9 @@
 # Catered
 ---
 #verb
-- **To provide, particularly:**
+- **To provide, [[p/_particularly|particularly]]:**
 ---
 #verb
-- **To place, set, [[m/_move|move]], or [[c/_cut|cut]] [[d/_diagonally|diagonally]] or rhomboidally.**
+- **To [[p/_place|place]], set, [[m/_move|move]], or [[c/_cut|cut]] [[d/_diagonally|diagonally]] or rhomboidally.**
 ---
 ---

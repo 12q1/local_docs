@@ -17,8 +17,8 @@
 - **(of a [[m/_machine|machine]]) To stop working, to [[b/_break|break]] [[d/_down|down]].**
 	- _Example: My car died in the middle of the freeway this morning._
 - **(of a [[c/_computer|computer]] program) To [[a/_abort|abort]], to terminate (as an [[e/_error|error]] [[c/_condition|condition]]).**
-- **To perish; to [[c/_cease|cease]] to [[e/_exist|exist]]; to [[b/_become|become]] [[l/_lost|lost]] or [[e/_extinct|extinct]].**
-- **To sink; to [[f/_faint|faint]]; to pine; to [[l/_languish|languish]], with weakness, [[d/_discouragement|discouragement]], [[l/_love|love]], [[e/_etc|etc]].**
+- **To [[p/_perish|perish]]; to [[c/_cease|cease]] to [[e/_exist|exist]]; to [[b/_become|become]] [[l/_lost|lost]] or [[e/_extinct|extinct]].**
+- **To sink; to [[f/_faint|faint]]; to [[p/_pine|pine]]; to [[l/_languish|languish]], with weakness, [[d/_discouragement|discouragement]], [[l/_love|love]], [[e/_etc|etc]].**
 - **([[o/_often|often]] with "to") To [[b/_become|become]] [[i/_indifferent|indifferent]]; to [[c/_cease|cease]] to be subject.**
 	- _Example: to die to pleasure or to sin_
 - **To [[d/_disappear|disappear]] [[g/_gradually|gradually]] in [[a/_another|another]] surface, as where [[m/_mouldings|mouldings]] are [[l/_lost|lost]] in a sloped or [[c/_curved|curved]] [[f/_face|face]].**
@@ -34,7 +34,7 @@
 ### Synonyms
 - [[s/_shade|shade]], [[s/_stain|stain]], [[s/_streak|streak]], [[t/_tint|tint]]
 #noun
-- **The process of [[a/_approaching|approaching]] [[d/_death|death]]; [[l/_loss|loss]] of [[l/_life|life]]; [[l/_less|less]] precisely, [[d/_death|death]].**
+- **The process of [[a/_approaching|approaching]] [[d/_death|death]]; [[l/_loss|loss]] of [[l/_life|life]]; [[l/_less|less]] [[p/_precisely|precisely]], [[d/_death|death]].**
 ---
 #noun
 - **(with "the") Those who are [[c/_currently|currently]] [[e/_expiring|expiring]], [[m/_moribund|moribund]].**
@@ -45,7 +45,7 @@
 	- _Example: The dying dog was put out of his misery with a single shot!_
 - **[[d/_declining|Declining]], terminal, or [[d/_drawing|drawing]] to an [[e/_end|end]].**
 	- _Example: In the dying moments of daylight I glimpsed a sail on the horizon._
-- **Pertaining to [[d/_death|death]], or the [[m/_moments|moments]] [[b/_before|before]] [[d/_death|death]].**
+- **[[p/_pertaining|Pertaining]] to [[d/_death|death]], or the [[m/_moments|moments]] [[b/_before|before]] [[d/_death|death]].**
 	- _Example: His dying words were of his mother._
 ---
 ### Antonyms

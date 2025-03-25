@@ -1,6 +1,6 @@
 # Chainplate
 ---
 #noun
-- **A plate on the side of a sailing ship to which the shrouds are [[a/_attached|attached]].**
+- **A [[p/_plate|plate]] on the side of a sailing ship to which the shrouds are [[a/_attached|attached]].**
 ---
 ---

@@ -6,7 +6,7 @@
 - **The [[f/_fur|fur]] or [[f/_feathers|feathers]] [[c/_covering|covering]] an [[a/_animal|animal]]'s skin.Wp**
 	- _Example: When the dog shed its coat, it left hair all over the furniture and the carpet._
 - **[[c/_canvas|Canvas]] [[p/_painted|painted]] with thick tar and secured round a [[m/_mast|mast]] or [[b/_bowsprit|bowsprit]] to prevent water running [[d/_down|down]] the sides [[i/_into|into]] the [[h/_hold|hold]] ([[n/_now|now]] [[m/_made|made]] of rubber or [[l/_leather|leather]]).**
-- **A petticoat.**
+- **A [[p/_petticoat|petticoat]].**
 - **The [[h/_habit|habit]] or vesture of an [[o/_order|order]] of [[m/_men|men]], [[i/_indicating|indicating]] the [[o/_order|order]] or [[o/_office|office]]; [[c/_cloth|cloth]].**
 - **A [[c/_coat|coat]] of [[a/_arms|arms]].Wp**
 - **A [[c/_coat|coat]] [[c/_card|card]].**

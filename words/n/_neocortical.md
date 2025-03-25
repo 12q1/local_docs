@@ -1,6 +1,6 @@
 # Neocortical
 ---
 #adjective
-- **Of or pertaining to the [[n/_neocortex|neocortex]]**
+- **Of or [[p/_pertaining|pertaining]] to the [[n/_neocortex|neocortex]]**
 ---
 ---

@@ -6,6 +6,6 @@
 ---
 #adjective
 - **[[e/_expressing|Expressing]] a wish or a [[c/_choice|choice]].**
-- **([[g/_grammar|grammar]]) Related or pertaining to the [[o/_optative|optative]] [[m/_mood|mood]].**
+- **([[g/_grammar|grammar]]) Related or [[p/_pertaining|pertaining]] to the [[o/_optative|optative]] [[m/_mood|mood]].**
 ---
 ---

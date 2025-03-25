@@ -1,11 +1,11 @@
 # Almighty
 ---
 #adjective
-- **(sometimes postpositive) Unlimited in [[m/_might|might]]; [[o/_omnipotent|omnipotent]]; [[a/_all|all]]-powerful**
+- **(sometimes [[p/_postpositive|postpositive]]) Unlimited in [[m/_might|might]]; [[o/_omnipotent|omnipotent]]; [[a/_all|all]]-[[p/_powerful|powerful]]**
 	- _Example: God almighty_
 - **[[g/_great|Great]]; [[e/_extreme|extreme]]; terrible.**
 	- _Example: I heard an almighty crash and ran into the kitchen to see what had happened._
-- **(by [[e/_extension|extension]]) [[h/_having|Having]] very [[g/_great|great]] power, [[i/_influence|influence]], [[e/_etc|etc]].**
+- **(by [[e/_extension|extension]]) [[h/_having|Having]] very [[g/_great|great]] [[p/_power|power]], [[i/_influence|influence]], [[e/_etc|etc]].**
 	- _Example: The almighty press condemned him without trial._
 ---
 ### Synonyms

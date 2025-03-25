@@ -24,7 +24,7 @@
 	- _Example: She's only gone and run off with the milkman!_
 - **[[i/_introduces|Introduces]] a [[d/_disappointing|disappointing]] or surprising [[o/_outcome|outcome]] that renders [[f/_futile|futile]] something previously [[m/_mentioned|mentioned]]. See [[a/_also|also]] [[o/_only|only]] to, [[o/_only|only]] for.**
 	- _Example: I helped him out only for him to betray me._
-- **[[a/_above|Above]] [[a/_all|all]] [[o/_others|others]]; particularly.**
+- **[[a/_above|Above]] [[a/_all|all]] [[o/_others|others]]; [[p/_particularly|particularly]].**
 ---
 #conjunction
 - **Under the [[c/_condition|condition]] that; but.**

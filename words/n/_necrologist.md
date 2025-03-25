@@ -1,6 +1,6 @@
 # Necrologist
 ---
 #noun
-- **A person who [[c/_compiles|compiles]] a [[n/_necrology|necrology]].**
+- **A [[p/_person|person]] who [[c/_compiles|compiles]] a [[n/_necrology|necrology]].**
 ---
 ---

@@ -8,7 +8,7 @@
 - **A [[b/_big|big]] slice, [[e/_especially|especially]] of [[b/_bread|bread]].**
 ---
 #verb
-- **To visit [[o/_one|one]] [[h/_household|household]] [[a/_after|after]] [[a/_another|another]] to solicit sales, [[c/_charitable|charitable]] [[d/_donations|donations]], political support, [[e/_etc|etc]].**
+- **To visit [[o/_one|one]] [[h/_household|household]] [[a/_after|after]] [[a/_another|another]] to solicit sales, [[c/_charitable|charitable]] [[d/_donations|donations]], [[p/_political|political]] support, [[e/_etc|etc]].**
 - **To [[c/_corner|corner]] somebody for an unexpected [[i/_interview|interview]].**
 ---
 ---

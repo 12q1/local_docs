@@ -1,0 +1,18 @@
+# Policy
+---
+#noun
+- **A principle of [[b/_behaviour|behaviour]], [[c/_conduct|conduct]] [[e/_etc|etc]]. thought to be [[d/_desirable|desirable]] or [[n/_necessary|necessary]], [[e/_especially|especially]] as [[f/_formally|formally]] [[e/_expressed|expressed]] by a [[g/_government|government]] or [[o/_other|other]] [[a/_authoritative|authoritative]] [[b/_body|body]].**
+	- _Example: The Communist Party has a policy of returning power to the workers._
+- **Wise or [[a/_advantageous|advantageous]] [[c/_conduct|conduct]]; prudence, [[f/_formerly|formerly]] [[a/_also|also]] with [[c/_connotations|connotations]] of [[c/_craftiness|craftiness]].**
+- **Specifically, [[p/_political|political]] shrewdness or ([[f/_formerly|formerly]]) [[c/_cunning|cunning]]; statecraft.**
+- **([[n/_now|now]] [[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) The [[g/_grounds|grounds]] of a [[l/_large|large]] [[c/_country|country]] [[h/_house|house]].**
+- **The [[a/_art|art]] of [[g/_governance|governance]]; [[p/_political|political]] science.**
+- **A state; a [[p/_polity|polity]].**
+- **A set [[p/_political|political]] system; [[c/_civil|civil]] [[a/_administration|administration]].**
+- **A trick; a stratagem.**
+- **[[m/_motive|Motive]]; [[o/_object|object]]; [[i/_inducement|inducement]].**
+---
+#verb
+- **To regulate by [[l/_laws|laws]]; to reduce to [[o/_order|order]].**
+---
+---

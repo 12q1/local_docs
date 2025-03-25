@@ -1,7 +1,7 @@
 # Hopeless
 ---
 #adjective
-- **Without [[h/_hope|hope]]; [[d/_despairing|despairing]]; not [[e/_expecting|expecting]] [[a/_anything|anything]] positive.**
+- **Without [[h/_hope|hope]]; [[d/_despairing|despairing]]; not [[e/_expecting|expecting]] [[a/_anything|anything]] [[p/_positive|positive]].**
 - **[[g/_giving|Giving]] [[n/_no|no]] [[g/_ground|ground]] of [[h/_hope|hope]]; promising [[n/_nothing|nothing]] [[d/_desirable|desirable]]; [[d/_desperate|desperate]].**
 	- _Example: a hopeless cause_
 - **Without talent, not skilled**

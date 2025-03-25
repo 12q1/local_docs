@@ -8,7 +8,7 @@
 ### Antonyms
 - [[d/_day|day]], [[d/_daytime|daytime]]
 #adjective
-- **Pertaining to [[n/_nighttime|nighttime]]; [[a/_appropriate|appropriate]] to the [[n/_night|night]].**
+- **[[p/_pertaining|Pertaining]] to [[n/_nighttime|nighttime]]; [[a/_appropriate|appropriate]] to the [[n/_night|night]].**
 - **[[h/_happening|Happening]] [[d/_during|during]] the [[n/_night|night]].**
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Geochronometric
 ---
 #adjective
-- **Of, pertaining to, or [[m/_measured|measured]] using [[g/_geochronometry|geochronometry]]**
+- **Of, [[p/_pertaining|pertaining]] to, or [[m/_measured|measured]] using [[g/_geochronometry|geochronometry]]**
 ---
 ---

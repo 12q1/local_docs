@@ -1,6 +1,6 @@
 # Consumptives
 ---
 #noun
-- **A person suffering from pulmonary tuberculosis.**
+- **A [[p/_person|person]] suffering from pulmonary tuberculosis.**
 ---
 ---

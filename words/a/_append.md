@@ -8,6 +8,6 @@
 	- _Example: An inscription was appended to the column._
 - **To [[a/_add|add]], as an [[a/_accessory|accessory]] to the principal thing; to [[a/_annex|annex]]**
 	- _Example: notes appended to a book chapter_
-- **To write [[m/_more|more]] [[d/_data|data]] to the [[e/_end|end]] of a pre-[[e/_existing|existing]] [[f/_file|file]], string, or [[o/_other|other]] [[o/_object|object]].**
+- **To write [[m/_more|more]] [[d/_data|data]] to the [[e/_end|end]] of a [[p/_pre|pre]]-[[e/_existing|existing]] [[f/_file|file]], string, or [[o/_other|other]] [[o/_object|object]].**
 ---
 ---

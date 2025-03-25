@@ -6,9 +6,9 @@
 	- _Example: bubbles in window glass, or in a lens_
 - **(by [[e/_extension|extension]]) [[a/_anything|Anything]] resembling a [[h/_hollow|hollow]] sphere.**
 - **[[a/_anything|Anything]] [[l/_lacking|lacking]] [[f/_firmness|firmness]] or solidity; a [[c/_cheat|cheat]] or [[f/_fraud|fraud]]; an [[e/_empty|empty]] project.**
-- **A period of [[i/_intense|intense]] speculation in a [[m/_market|market]], [[c/_causing|causing]] prices to rise quickly to [[i/_irrational|irrational]] [[l/_levels|levels]] as the [[m/_metaphorical|metaphorical]] [[b/_bubble|bubble]] [[e/_expands|expands]], and then [[f/_fall|fall]] [[e/_even|even]] [[m/_more|more]] quickly as the [[b/_bubble|bubble]] [[b/_bursts|bursts]].**
+- **A [[p/_period|period]] of [[i/_intense|intense]] speculation in a [[m/_market|market]], [[c/_causing|causing]] prices to rise quickly to [[i/_irrational|irrational]] [[l/_levels|levels]] as the [[m/_metaphorical|metaphorical]] [[b/_bubble|bubble]] [[e/_expands|expands]], and then [[f/_fall|fall]] [[e/_even|even]] [[m/_more|more]] quickly as the [[b/_bubble|bubble]] [[b/_bursts|bursts]].**
 	- _Example: dot-com bubble_
-- **The [[e/_emotional|emotional]] and/or physical [[a/_atmosphere|atmosphere]] in which the subject is [[i/_immersed|immersed]].**
+- **The [[e/_emotional|emotional]] and/or [[p/_physical|physical]] [[a/_atmosphere|atmosphere]] in which the subject is [[i/_immersed|immersed]].**
 - **An [[o/_officer|officer]]'s station in a prison [[d/_dormitory|dormitory]], [[a/_affording|affording]] views on [[a/_all|all]] sides.**
 - **Someone who [[h/_has|has]] [[b/_been|been]] ‘[[b/_bubbled|bubbled]]’ or [[f/_fooled|fooled]]; a [[d/_dupe|dupe]].**
 - **A small, [[h/_hollow|hollow]], [[f/_floating|floating]] [[b/_bead|bead]] or [[g/_globe|globe]], [[f/_formerly|formerly]] used for testing the strength of spirits.**
@@ -17,9 +17,9 @@
 	- _Example: Are you having a bubble?!_
 - **A [[g/_greek|Greek]].**
 - **[[a/_any|Any]] of the small [[m/_magnetized|magnetized]] [[a/_areas|areas]] that [[m/_make|make]] up [[b/_bubble|bubble]] [[m/_memory|memory]].**
-- **The point in a poker tournament when the [[l/_last|last]] player without a prize [[l/_loses|loses]] [[a/_all|all]] their [[c/_chips|chips]] and [[l/_leaves|leaves]] the [[g/_game|game]], [[l/_leaving|leaving]] [[o/_only|only]] players that are [[g/_going|going]] to win prizes. ([[e/_e|e]].[[g/_g|g]]., [[i/_if|if]] the [[l/_last|last]] remaining 9 players win prizes, then the point when the 10th player [[l/_leaves|leaves]] the tournament)**
+- **The [[p/_point|point]] in a [[p/_poker|poker]] tournament when the [[l/_last|last]] [[p/_player|player]] without a prize [[l/_loses|loses]] [[a/_all|all]] their [[c/_chips|chips]] and [[l/_leaves|leaves]] the [[g/_game|game]], [[l/_leaving|leaving]] [[o/_only|only]] [[p/_players|players]] that are [[g/_going|going]] to win prizes. ([[e/_e|e]].[[g/_g|g]]., [[i/_if|if]] the [[l/_last|last]] remaining 9 [[p/_players|players]] win prizes, then the [[p/_point|point]] when the 10th [[p/_player|player]] [[l/_leaves|leaves]] the tournament)**
 	- _Example: Many players tend to play timidly (not play many hands) around the bubble, to keep their chips and last longer in the game._
-- **A [[g/_group|group]] of people who are in quarantine together.**
+- **A [[g/_group|group]] of [[p/_people|people]] who are in quarantine together.**
 ---
 ### Synonyms
 - [[a/_ambience|ambience]], [[c/_circumstances|circumstances]], [[g/_giraffe|giraffe]]
@@ -32,7 +32,7 @@
 - **To rise through a [[m/_medium|medium]] or system, similar to the way that [[b/_bubbles|bubbles]] rise in [[l/_liquid|liquid]].**
 - **To [[c/_cheat|cheat]], [[d/_delude|delude]].**
 - **To [[c/_cry|cry]], weep.**
-- **To pat a [[b/_baby|baby]] on the [[b/_back|back]] so as to [[c/_cause|cause]] it to [[b/_belch|belch]].**
+- **To [[p/_pat|pat]] a [[b/_baby|baby]] on the [[b/_back|back]] so as to [[c/_cause|cause]] it to [[b/_belch|belch]].**
 - **To [[c/_cause|cause]] to [[f/_feel|feel]] as [[i/_if|if]] [[b/_bubbling|bubbling]] or [[c/_churning|churning]].**
 - **To [[e/_express|express]] in a [[b/_bubbly|bubbly]] or [[l/_lively|lively]] [[m/_manner|manner]].**
 - **To [[f/_form|form]] [[i/_into|into]] a protruding round shape.**

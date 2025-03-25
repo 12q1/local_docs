@@ -2,31 +2,31 @@
 ---
 #noun
 - **Twice the [[n/_number|number]], [[a/_amount|amount]], size, [[e/_etc|etc]].**
-- **A person who resembles and stands in for [[a/_another|another]] person, [[o/_often|often]] for safety purposes**
+- **A [[p/_person|person]] who resembles and stands in for [[a/_another|another]] [[p/_person|person]], [[o/_often|often]] for safety purposes**
 	- _Example: Saddam Hussein was rumored to have many doubles._
-- **A [[d/_drink|drink]] with two portions of [[a/_alcohol|alcohol]].**
+- **A [[d/_drink|drink]] with two [[p/_portions|portions]] of [[a/_alcohol|alcohol]].**
 	- _Example: On second thought, make that a double._
-- **A [[g/_ghostly|ghostly]] [[a/_apparition|apparition]] of a [[l/_living|living]] person; doppelgänger.**
+- **A [[g/_ghostly|ghostly]] [[a/_apparition|apparition]] of a [[l/_living|living]] [[p/_person|person]]; doppelgänger.**
 - **A sharp turn, [[e/_especially|especially]] a return on [[o/_one|one]]'s [[o/_own|own]] tracks.**
 - **A redundant [[i/_item|item]] for which an [[i/_identical|identical]] [[i/_item|item]] [[a/_already|already]] [[e/_exists|exists]].**
 	- _Example: Before printing the photos, Liam deleted the doubles._
 - **A two-[[b/_base|base]] [[h/_hit|hit]].**
 	- _Example: The catcher hit a double to lead off the ninth._
-- **A [[c/_call|call]] that [[i/_increases|increases]] [[c/_certain|certain]] scoring points [[i/_if|if]] the [[l/_last|last]] preceding [[b/_bid|bid]] [[b/_becomes|becomes]] the [[c/_contract|contract]].**
-- **A strike in which the [[o/_object|object]] [[b/_ball|ball]] is struck so as to [[m/_make|make]] it rebound [[a/_against|against]] the [[c/_cushion|cushion]] to an [[o/_opposite|opposite]] pocket.**
-- **A [[b/_bet|bet]] on two [[h/_horses|horses]] in [[d/_different|different]] races in which [[a/_any|any]] winnings from the [[f/_first|first]] race are placed on the [[h/_horse|horse]] in the [[l/_later|later]] race.**
+- **A [[c/_call|call]] that [[i/_increases|increases]] [[c/_certain|certain]] scoring [[p/_points|points]] [[i/_if|if]] the [[l/_last|last]] [[p/_preceding|preceding]] [[b/_bid|bid]] [[b/_becomes|becomes]] the [[c/_contract|contract]].**
+- **A strike in which the [[o/_object|object]] [[b/_ball|ball]] is struck so as to [[m/_make|make]] it rebound [[a/_against|against]] the [[c/_cushion|cushion]] to an [[o/_opposite|opposite]] [[p/_pocket|pocket]].**
+- **A [[b/_bet|bet]] on two [[h/_horses|horses]] in [[d/_different|different]] races in which [[a/_any|any]] winnings from the [[f/_first|first]] race are [[p/_placed|placed]] on the [[h/_horse|horse]] in the [[l/_later|later]] race.**
 - **The [[n/_narrow|narrow]] [[o/_outermost|outermost]] ring on a [[d/_dartboard|dartboard]].**
 - **A [[h/_hit|hit]] on this ring.**
-- **A tile that [[h/_has|has]] the same value ([[i/_i|i]].[[e/_e|e]]., the same [[n/_number|number]] of pips) on [[b/_both|both]] sides.**
-- **A [[d/_double|double]]-precision [[f/_floating|floating]]-point [[n/_number|number]].**
+- **A tile that [[h/_has|has]] the same value ([[i/_i|i]].[[e/_e|e]]., the same [[n/_number|number]] of [[p/_pips|pips]]) on [[b/_both|both]] sides.**
+- **A [[d/_double|double]]-[[p/_precision|precision]] [[f/_floating|floating]]-[[p/_point|point]] [[n/_number|number]].**
 - **Two [[c/_competitions|competitions]], usually [[o/_one|one]] [[l/_league|league]] and [[o/_one|one]] [[c/_cup|cup]], won by the same team in a single season.**
 - **A [[b/_boat|boat]] for two scullers.**
 - **The [[f/_feat|feat]] of scoring twice in [[o/_one|one]] [[g/_game|game]].**
 - **([[c/_chiefly|chiefly]] swimming and track) The [[f/_feat|feat]] of winning two [[e/_events|events]] in a single [[m/_meet|meet]] or [[c/_competition|competition]].**
 	- _Example: In 1996, Michael Johnson achieved a double by winning both the 200 and 400 meter dashes._
 - **A [[f/_former|former]] [[f/_french|French]] [[c/_coin|coin]] worth [[o/_one|one]]-sixth of a sou.**
-- **([[g/_guernsey|Guernsey]]) A [[c/_copper|copper]] [[c/_coin|coin]] worth [[o/_one|one]]-[[e/_eighth|eighth]] of a penny.**
-- **Playing the same part on two [[i/_instruments|instruments]], [[a/_alternately|alternately]].**
+- **([[g/_guernsey|Guernsey]]) A [[c/_copper|copper]] [[c/_coin|coin]] worth [[o/_one|one]]-[[e/_eighth|eighth]] of a [[p/_penny|penny]].**
+- **[[p/_playing|Playing]] the same [[p/_part|part]] on two [[i/_instruments|instruments]], [[a/_alternately|alternately]].**
 - **A [[d/_double|double]] [[f/_feast|feast]].**
 ---
 #verb
@@ -42,15 +42,15 @@
 - **(sometimes [[f/_followed|followed]] by up) To [[c/_clench|clench]] (a [[f/_fist|fist]]).**
 - **([[o/_often|often]] [[f/_followed|followed]] by together or up) To [[j/_join|join]] or [[c/_couple|couple]].**
 - **To repeat [[e/_exactly|exactly]]; [[c/_copy|copy]].**
-- **([[o/_often|often]] [[f/_followed|followed]] by as) To play a second part or serve a second role.**
+- **([[o/_often|often]] [[f/_followed|followed]] by as) To [[p/_play|play]] a second [[p/_part|part]] or serve a second role.**
 	- _Example: A spork is a kind of fork that doubles as a spoon._
 - **To turn sharply, [[f/_following|following]] a winding [[c/_course|course]].**
-- **To sail [[a/_around|around]] (a [[h/_headland|headland]] or [[o/_other|other]] point).**
-- **To [[d/_duplicate|duplicate]] (a part) [[e/_either|either]] in unison or at the [[o/_octave|octave]] [[a/_above|above]] or [[b/_below|below]] it.**
-- **(usually [[f/_followed|followed]] by "on") To be [[c/_capable|capable]] of performing (upon an [[a/_additional|additional]] [[i/_instrument|instrument]]).**
-- **To [[m/_make|make]] a [[c/_call|call]] that will [[d/_double|double]] [[c/_certain|certain]] scoring points [[i/_if|if]] the preceding [[b/_bid|bid]] [[b/_becomes|becomes]] the [[c/_contract|contract]].**
+- **To sail [[a/_around|around]] (a [[h/_headland|headland]] or [[o/_other|other]] [[p/_point|point]]).**
+- **To [[d/_duplicate|duplicate]] (a [[p/_part|part]]) [[e/_either|either]] in unison or at the [[o/_octave|octave]] [[a/_above|above]] or [[b/_below|below]] it.**
+- **(usually [[f/_followed|followed]] by "on") To be [[c/_capable|capable]] of [[p/_performing|performing]] (upon an [[a/_additional|additional]] [[i/_instrument|instrument]]).**
+- **To [[m/_make|make]] a [[c/_call|call]] that will [[d/_double|double]] [[c/_certain|certain]] scoring [[p/_points|points]] [[i/_if|if]] the [[p/_preceding|preceding]] [[b/_bid|bid]] [[b/_becomes|becomes]] the [[c/_contract|contract]].**
 - **To [[d/_double|double]] [[d/_down|down]].**
-- **To [[c/_cause|cause]] (a [[b/_ball|ball]]) to rebound from a [[c/_cushion|cushion]] [[b/_before|before]] [[e/_entering|entering]] the pocket.**
+- **To [[c/_cause|cause]] (a [[b/_ball|ball]]) to rebound from a [[c/_cushion|cushion]] [[b/_before|before]] [[e/_entering|entering]] the [[p/_pocket|pocket]].**
 - **([[f/_followed|followed]] by for) To [[a/_act|act]] as substitute.**
 - **To [[g/_go|go]] or [[m/_march|march]] at twice the [[n/_normal|normal]] speed.**
 - **To [[m/_multiply|multiply]] the strength or [[e/_effect|effect]] of by two.**
@@ -68,7 +68,7 @@
 	- _Example: The closet has double doors._
 - **Of twice the quantity.**
 	- _Example: Give me a double serving of mashed potatoes._
-- **Of a [[f/_family|family]] relationship, related on [[b/_both|both]] the [[m/_maternal|maternal]] and paternal sides of a [[f/_family|family]].**
+- **Of a [[f/_family|family]] relationship, related on [[b/_both|both]] the [[m/_maternal|maternal]] and [[p/_paternal|paternal]] sides of a [[f/_family|family]].**
 	- _Example: He's my double cousin as my mother's sister married my father's brother._
 - **[[d/_designed|Designed]] for two users.**
 	- _Example: a double room_
@@ -78,7 +78,7 @@
 	- _Example: a double meaning_
 - **[[f/_false|False]], [[d/_deceitful|deceitful]], or [[h/_hypocritical|hypocritical]].**
 	- _Example: a double life_
-- **Of [[f/_flowers|flowers]], [[h/_having|having]] [[m/_more|more]] than the [[n/_normal|normal]] [[n/_number|number]] of petals.**
+- **Of [[f/_flowers|flowers]], [[h/_having|having]] [[m/_more|more]] than the [[n/_normal|normal]] [[n/_number|number]] of [[p/_petals|petals]].**
 - **Of an [[i/_instrument|instrument]], sounding an [[o/_octave|octave]] [[l/_lower|lower]].**
 	- _Example: a double bass_
 - **Of time, twice as [[f/_fast|fast]].**

@@ -1,9 +1,9 @@
 # Owning
 ---
 #verb
-- **To [[h/_have|have]] rightful possession of (property, [[g/_goods|goods]] or [[c/_capital|capital]]); to [[h/_have|have]] [[l/_legal|legal]] title to.**
+- **To [[h/_have|have]] rightful [[p/_possession|possession]] of (property, [[g/_goods|goods]] or [[c/_capital|capital]]); to [[h/_have|have]] [[l/_legal|legal]] title to.**
 	- _Example: I own this car._
-- **To [[h/_have|have]] recognized political sovereignty [[o/_over|over]] a place, territory, as [[d/_distinct|distinct]] from the [[o/_ordinary|ordinary]] [[c/_connotation|connotation]] of property [[o/_ownership|ownership]].**
+- **To [[h/_have|have]] recognized [[p/_political|political]] sovereignty [[o/_over|over]] a [[p/_place|place]], territory, as [[d/_distinct|distinct]] from the [[o/_ordinary|ordinary]] [[c/_connotation|connotation]] of property [[o/_ownership|ownership]].**
 	- _Example: The United States owns Point Roberts by the terms of the Treaty of Oregon._
 - **To [[d/_defeat|defeat]] or [[e/_embarrass|embarrass]]; to [[o/_overwhelm|overwhelm]].**
 	- _Example: I will own my enemies._

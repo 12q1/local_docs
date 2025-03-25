@@ -1,6 +1,6 @@
 # Dietician
 ---
 #noun
-- **A person who studies or practices [[d/_dietetics|dietetics]].**
+- **A [[p/_person|person]] who studies or [[p/_practices|practices]] [[d/_dietetics|dietetics]].**
 ---
 ---

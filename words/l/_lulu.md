@@ -1,8 +1,8 @@
 # Lulu
 ---
 #noun
-- **A remarkable person, [[o/_object|object]] or [[i/_idea|idea]].**
-- **A very [[a/_attractive|attractive]] or [[a/_alluring|alluring]] person.**
+- **A remarkable [[p/_person|person]], [[o/_object|object]] or [[i/_idea|idea]].**
+- **A very [[a/_attractive|attractive]] or [[a/_alluring|alluring]] [[p/_person|person]].**
 - **A very [[b/_bad|bad]] [[m/_mistake|mistake]] or [[e/_error|error]].**
 - **A [[f/_fixed|fixed]] [[a/_allowance|allowance]] [[p/_paid|paid]] to a [[l/_legislator|legislator]] in [[l/_lieu|lieu]] of reimbursement for [[a/_actual|actual]] [[e/_expenses|expenses]].**
 ---

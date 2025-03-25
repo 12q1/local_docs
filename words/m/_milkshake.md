@@ -6,13 +6,13 @@
 - **A [[b/_beverage|beverage]] [[c/_consisting|consisting]] of [[f/_fruit|fruit]] [[j/_juice|juice]], water, and some [[m/_milk|milk]], as served in Southeast [[a/_asia|Asia]].**
 - **[[a/_accidental|Accidental]] [[e/_emulsion|emulsion]] of [[o/_oil|oil]] and water in an [[e/_engine|engine]].**
 	- _Example: This milkshake under the oil cap, or on the dipstick, indicates a blown head gasket._
-- **An [[a/_alkaline|alkaline]] supplement [[a/_administered|administered]] to a [[h/_horse|horse]] to [[i/_improve|improve]] [[i/_its|its]] racing performance.**
+- **An [[a/_alkaline|alkaline]] supplement [[a/_administered|administered]] to a [[h/_horse|horse]] to [[i/_improve|improve]] [[i/_its|its]] racing [[p/_performance|performance]].**
 ---
 ### Synonyms
 - [[c/_cabinet|cabinet]], [[f/_frappe|frappe]], [[t/_thickshake|thickshake]]
 #verb
-- **To [[a/_administer|administer]] an [[a/_alkaline|alkaline]] supplement to (a [[h/_horse|horse]]) to [[i/_improve|improve]] [[i/_its|its]] racing performance.**
-- **To throw a [[m/_milkshake|milkshake]] at (a person).**
+- **To [[a/_administer|administer]] an [[a/_alkaline|alkaline]] supplement to (a [[h/_horse|horse]]) to [[i/_improve|improve]] [[i/_its|its]] racing [[p/_performance|performance]].**
+- **To throw a [[m/_milkshake|milkshake]] at (a [[p/_person|person]]).**
 	- _Example: A politician was milkshaked during the protest._
 ---
 ---

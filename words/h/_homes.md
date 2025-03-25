@@ -6,10 +6,10 @@
 ---
 #noun
 - **A [[d/_dwelling|dwelling]].**
-- **[[o/_one|One]]’s [[n/_native|native]] [[l/_land|land]]; the place or [[c/_country|country]] in which [[o/_one|one]] [[d/_dwells|dwells]]; the place where [[o/_one|one]]’s [[a/_ancestors|ancestors]] [[d/_dwell|dwell]] or [[d/_dwelt|dwelt]].**
+- **[[o/_one|One]]’s [[n/_native|native]] [[l/_land|land]]; the [[p/_place|place]] or [[c/_country|country]] in which [[o/_one|one]] [[d/_dwells|dwells]]; the [[p/_place|place]] where [[o/_one|one]]’s [[a/_ancestors|ancestors]] [[d/_dwell|dwell]] or [[d/_dwelt|dwelt]].**
 - **The [[l/_locality|locality]] where a thing is usually [[f/_found|found]], or was [[f/_first|first]] [[f/_found|found]], or where it is [[n/_naturally|naturally]] [[a/_abundant|abundant]]; [[h/_habitat|habitat]]; seat.**
 	- _Example: the home of the pine_
-- **A [[f/_focus|focus]] point.**
+- **A [[f/_focus|focus]] [[p/_point|point]].**
 ---
 ### Synonyms
 - [[a/_abode|abode]], [[d/_domicile|domicile]], [[d/_dwelling|dwelling]], [[h/_house|house]], [[r/_residence|residence]], [[t/_tenement|tenement]]

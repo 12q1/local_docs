@@ -6,6 +6,6 @@
 - **The [[a/_area|area]] or town [[e/_enclosed|enclosed]] by a [[l/_line|line]] of [[f/_fortification|fortification]].**
 ---
 #adjective
-- **Pregnant.**
+- **[[p/_pregnant|Pregnant]].**
 ---
 ---

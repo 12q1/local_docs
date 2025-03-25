@@ -11,9 +11,9 @@
 ### Synonyms
 - [[m/_maggie|maggie]], [[p/_pica|pica]], [[p/_pie|pie]], [[p/_piet|piet]]
 #verb
-- **To [[m/_mark|mark]] with patches of [[b/_black|black]] and white or [[l/_light|light]] and [[d/_dark|dark]].**
+- **To [[m/_mark|mark]] with [[p/_patches|patches]] of [[b/_black|black]] and white or [[l/_light|light]] and [[d/_dark|dark]].**
 - **To steal or [[h/_hoard|hoard]] ([[i/_items|items]]) as [[m/_magpies|magpies]] are [[b/_believed|believed]] to [[d/_do|do]].**
-- **To talk [[i/_idly|idly]]; to talk [[a/_about|about]] [[o/_other|other]] people's private [[b/_business|business]].**
+- **To talk [[i/_idly|idly]]; to talk [[a/_about|about]] [[o/_other|other]] [[p/_people|people]]'s private [[b/_business|business]].**
 ---
 ### Synonyms
 - [[c/_chatter|chatter]], [[g/_gossip|gossip]], [[m/_mottle|mottle]]

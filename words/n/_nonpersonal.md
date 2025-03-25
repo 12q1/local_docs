@@ -1,6 +1,6 @@
 # Nonpersonal
 ---
 #adjective
-- **Not personal; [[i/_impartial|impartial]].**
+- **Not [[p/_personal|personal]]; [[i/_impartial|impartial]].**
 ---
 ---

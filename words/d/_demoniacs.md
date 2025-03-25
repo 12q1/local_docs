@@ -1,6 +1,6 @@
 # Demoniacs
 ---
 #noun
-- **Someone who is possessed by a [[d/_demon|demon]].**
+- **Someone who is [[p/_possessed|possessed]] by a [[d/_demon|demon]].**
 ---
 ---

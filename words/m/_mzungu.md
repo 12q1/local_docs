@@ -1,7 +1,7 @@
 # Mzungu
 ---
 #noun
-- **A white person.**
+- **A white [[p/_person|person]].**
 ---
 ### Synonyms
 - [[u/_umlungu|umlungu]]

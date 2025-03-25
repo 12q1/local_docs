@@ -8,6 +8,6 @@
 - **[[h/_habitual|Habitual]] [[a/_association|association]]; [[f/_familiar|familiar]] relation; [[a/_acquaintance|acquaintance]]; [[f/_familiarity|familiarity]]; [[i/_intimacy|intimacy]]; [[a/_association|association]]; [[i/_intercourse|intercourse]].**
 - **An [[a/_associate|associate]]; an [[a/_acquaintance|acquaintance]]; someone with whom [[o/_one|one]] is [[f/_familiar|familiar]].**
 - **[[h/_habit|Habit]]; [[c/_custom|custom]]; usage.**
-- **A [[c/_chemical|chemical]] term used in the plural to [[d/_denote|denote]] the various ways in which [[o/_one|one]] substance reacts with [[a/_another|another]]; [[c/_chemical|chemical]] reaction.**
+- **A [[c/_chemical|chemical]] term used in the [[p/_plural|plural]] to [[d/_denote|denote]] the various ways in which [[o/_one|one]] substance reacts with [[a/_another|another]]; [[c/_chemical|chemical]] reaction.**
 ---
 ---

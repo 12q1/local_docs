@@ -9,7 +9,7 @@
 	- _Example: Brush the paint onto the walls._
 - **To remove with a sweeping [[m/_motion|motion]].**
 	- _Example: Brush the flour off your clothes._
-- **To touch with a sweeping [[m/_motion|motion]], or [[l/_lightly|lightly]] in passing.**
+- **To touch with a sweeping [[m/_motion|motion]], or [[l/_lightly|lightly]] in [[p/_passing|passing]].**
 	- _Example: Her scarf brushed his skin._
 - **To [[c/_clean|clean]] [[o/_one|one]]'s teeth by [[b/_brushing|brushing]] them.**
 ---

@@ -6,9 +6,9 @@
 - **A [[b/_body|body]] of troops or [[a/_army|army]] vehicles, usually strung [[o/_out|out]] [[a/_along|along]] a road.**
 - **A [[b/_body|body]] of text [[m/_meant|meant]] to be read [[l/_line|line]] by [[l/_line|line]], [[e/_especially|especially]] in printed [[m/_material|material]] that [[h/_has|has]] [[m/_multiple|multiple]] [[a/_adjacent|adjacent]] such on a single [[p/_page|page]].**
 	- _Example: It was too hard to read the text across the whole page, so I split it into two columns._
-- **A unit of width, [[e/_especially|especially]] of [[a/_advertisements|advertisements]], in a periodical, [[e/_equivalent|equivalent]] to the width of a usual [[c/_column|column]] of text.**
+- **A unit of width, [[e/_especially|especially]] of [[a/_advertisements|advertisements]], in a [[p/_periodical|periodical]], [[e/_equivalent|equivalent]] to the width of a usual [[c/_column|column]] of text.**
 	- _Example: Each column inch costs $300 a week; this ad is four columns by three inches, so will run $3600 a week._
-- **(by [[e/_extension|extension]]) A recurring [[f/_feature|feature]] in a periodical, [[e/_especially|especially]] an [[o/_opinion|opinion]] piece, [[e/_especially|especially]] by a single [[a/_author|author]] or small rotating [[g/_group|group]] of [[a/_authors|authors]], or on a single theme.**
+- **(by [[e/_extension|extension]]) A recurring [[f/_feature|feature]] in a [[p/_periodical|periodical]], [[e/_especially|especially]] an [[o/_opinion|opinion]] [[p/_piece|piece]], [[e/_especially|especially]] by a single [[a/_author|author]] or small rotating [[g/_group|group]] of [[a/_authors|authors]], or on a single theme.**
 	- _Example: His initial foray into print media was as the author of a weekly column in his elementary-school newspaper._
 - **Something [[h/_having|having]] similar vertical [[f/_form|form]] or structure to the things [[m/_mentioned|mentioned]] [[a/_above|above]], such as a spinal [[c/_column|column]].**
 - **The [[g/_gynostemium|gynostemium]]**

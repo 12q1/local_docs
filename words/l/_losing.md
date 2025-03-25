@@ -1,7 +1,7 @@
 # Losing
 ---
 #verb
-- **To [[c/_cause|cause]] (something) to [[c/_cease|cease]] to be in [[o/_one|one]]'s possession or [[c/_capability|capability]] [[d/_due|due]] to unfortunate or unknown [[c/_circumstances|circumstances]], [[e/_events|events]] or reasons.**
+- **To [[c/_cause|cause]] (something) to [[c/_cease|cease]] to be in [[o/_one|one]]'s [[p/_possession|possession]] or [[c/_capability|capability]] [[d/_due|due]] to unfortunate or unknown [[c/_circumstances|circumstances]], [[e/_events|events]] or reasons.**
 	- _Example: He lost his hearing in the explosion._
 - **To wander from; to [[m/_miss|miss]], so as not to be [[a/_able|able]] to [[f/_find|find]]; to [[g/_go|go]] [[a/_astray|astray]] from.**
 	- _Example: I lost my way in the forest._
@@ -19,7 +19,7 @@
 - **(ditransitive) To [[c/_cause|cause]] (someone) the [[l/_loss|loss]] of something; to [[d/_deprive|deprive]] of.**
 - **To [[f/_fail|fail]] to [[c/_catch|catch]] with the [[m/_mind|mind]] or senses; to [[m/_miss|miss]].**
 	- _Example: I lost a part of what he said._
-- **To [[c/_cause|cause]] to part with; to [[d/_deprive|deprive]] of.**
+- **To [[c/_cause|cause]] to [[p/_part|part]] with; to [[d/_deprive|deprive]] of.**
 ---
 ### Synonyms
 - [[m/_mislay|mislay]], [[f/_forfeit|forfeit]], [[d/_drop|drop]], [[s/_shed|shed]], [[d/_ditch|ditch]], [[d/_drop|drop]], [[d/_dump|dump]], [[j/_jettison|jettison]]

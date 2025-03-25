@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Wearing a wig.**
-- **Perplexed, [[b/_bewildered|bewildered]].**
+- **[[p/_perplexed|Perplexed]], [[b/_bewildered|bewildered]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Candytuft
 ---
 #noun
-- **An [[a/_annual|annual]] plant of the [[g/_genus|genus]] [[i/_iberis|Iberis]].**
+- **An [[a/_annual|annual]] [[p/_plant|plant]] of the [[g/_genus|genus]] [[i/_iberis|Iberis]].**
 ---
 ---

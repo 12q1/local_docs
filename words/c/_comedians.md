@@ -1,9 +1,9 @@
 # Comedians
 ---
 #noun
-- **An [[e/_entertainer|entertainer]] who performs in a [[h/_humorous|humorous]] [[m/_manner|manner]], [[e/_especially|especially]] by telling [[j/_jokes|jokes]].**
-- **(by [[e/_extension|extension]]) [[a/_any|Any]] person who is [[h/_humorous|humorous]] or [[a/_amusing|amusing]], [[e/_either|either]] [[c/_characteristically|characteristically]] or on a particular [[o/_occasion|occasion]].**
-- **A person who performs in theatrical plays.**
+- **An [[e/_entertainer|entertainer]] who [[p/_performs|performs]] in a [[h/_humorous|humorous]] [[m/_manner|manner]], [[e/_especially|especially]] by telling [[j/_jokes|jokes]].**
+- **(by [[e/_extension|extension]]) [[a/_any|Any]] [[p/_person|person]] who is [[h/_humorous|humorous]] or [[a/_amusing|amusing]], [[e/_either|either]] [[c/_characteristically|characteristically]] or on a [[p/_particular|particular]] [[o/_occasion|occasion]].**
+- **A [[p/_person|person]] who [[p/_performs|performs]] in theatrical [[p/_plays|plays]].**
 - **A writer of [[c/_comedies|comedies]].**
 ---
 ### Synonyms

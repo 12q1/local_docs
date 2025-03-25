@@ -6,7 +6,7 @@
 ### Synonyms
 - [[c/_classics|classics]], [[h/_humanities|humanities]]
 #noun
-- **The study of [[l/_language|language]], [[l/_literature|literature]], the [[a/_arts|arts]], and philosophy, sometimes [[i/_including|including]] religion**
+- **The study of [[l/_language|language]], [[l/_literature|literature]], the [[a/_arts|arts]], and [[p/_philosophy|philosophy]], sometimes [[i/_including|including]] religion**
 ---
 ### Synonyms
 - [[b/_belles-lettres|belles-lettres]]

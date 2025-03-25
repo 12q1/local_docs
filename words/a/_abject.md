@@ -1,10 +1,10 @@
 # Abject
 ---
 #noun
-- **A person in the [[l/_lowest|lowest]] and [[m/_most|most]] [[d/_despicable|despicable]] [[c/_condition|condition]]; a [[c/_castaway|castaway]]; [[o/_outcast|outcast]].**
+- **A [[p/_person|person]] in the [[l/_lowest|lowest]] and [[m/_most|most]] [[d/_despicable|despicable]] [[c/_condition|condition]]; a [[c/_castaway|castaway]]; [[o/_outcast|outcast]].**
 ---
 #adjective
-- **Sunk to or [[e/_existing|existing]] in a [[l/_low|low]] [[c/_condition|condition]], state, or position.**
+- **Sunk to or [[e/_existing|existing]] in a [[l/_low|low]] [[c/_condition|condition]], state, or [[p/_position|position]].**
 - **[[c/_cast|Cast]] [[d/_down|down]] in spirit or [[h/_hope|hope]]; [[d/_degraded|degraded]]; servile; [[g/_grovelling|grovelling]]; [[d/_despicable|despicable]]; [[l/_lacking|lacking]] [[c/_courage|courage]]; [[o/_offered|offered]] in a [[h/_humble|humble]] and [[o/_often|often]] [[i/_ingratiating|ingratiating]] spirit.**
 - **Showing utter [[h/_hopelessness|hopelessness]], [[h/_helplessness|helplessness]]; showing resignation; wretched.**
 - **Rejected; [[c/_cast|cast]] [[a/_aside|aside]].**

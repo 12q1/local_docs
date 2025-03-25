@@ -1,7 +1,7 @@
 # Jackhammers
 ---
 #noun
-- **A portable percussive power tool that [[c/_combines|combines]] a [[h/_hammer|hammer]] and [[c/_chisel|chisel]] used to [[d/_drill|drill]] or [[b/_break|break]] [[h/_hard|hard]] [[m/_matter|matter]], for [[i/_instance|instance]] rock or [[c/_concrete|concrete]].**
+- **A [[p/_portable|portable]] [[p/_percussive|percussive]] [[p/_power|power]] tool that [[c/_combines|combines]] a [[h/_hammer|hammer]] and [[c/_chisel|chisel]] used to [[d/_drill|drill]] or [[b/_break|break]] [[h/_hard|hard]] [[m/_matter|matter]], for [[i/_instance|instance]] rock or [[c/_concrete|concrete]].**
 ---
 ### Synonyms
 - 
@@ -11,6 +11,6 @@
 - **To [[f/_form|form]] (something) using a [[j/_jackhammer|jackhammer]].**
 - **To [[m/_move|move]] [[l/_like|like]] a [[j/_jackhammer|jackhammer]].**
 - **To [[m/_move|move]] (something) [[l/_like|like]] a [[j/_jackhammer|jackhammer]].**
-- **To strike (something) repeatedly with [[f/_force|force]], to pound.**
+- **To strike (something) repeatedly with [[f/_force|force]], to [[p/_pound|pound]].**
 ---
 ---

@@ -4,7 +4,7 @@
 - **A stuffed or quilted [[c/_coverlet|coverlet]] for a [[b/_bed|bed]]; a [[c/_comforter|comforter]].**
 ---
 #adjective
-- **Providing physical [[c/_comfort|comfort]] and [[e/_ease|ease]]; [[a/_agreeable|agreeable]].**
+- **Providing [[p/_physical|physical]] [[c/_comfort|comfort]] and [[e/_ease|ease]]; [[a/_agreeable|agreeable]].**
 	- _Example: This is the most comfortable bed I've ever slept in._
 - **In a state of [[c/_comfort|comfort]] and [[c/_content|content]].**
 	- _Example: What a great guestroom! I'll be quite comfortable here._

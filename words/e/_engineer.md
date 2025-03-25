@@ -1,15 +1,15 @@
 # Engineer
 ---
 #noun
-- **A person who is qualified or professionally [[e/_engaged|engaged]] in [[a/_any|any]] [[b/_branch|branch]] of [[e/_engineering|engineering]].**
+- **A [[p/_person|person]] who is qualified or professionally [[e/_engaged|engaged]] in [[a/_any|any]] [[b/_branch|branch]] of [[e/_engineering|engineering]].**
 - **A title [[g/_given|given]] to an [[e/_engineer|engineer]].**
-- **A person who [[c/_controls|controls]] [[m/_motion|motion]] of substance (such as a [[l/_locomotive|locomotive]]).**
-- **A person [[e/_employed|employed]] in the [[e/_engine|engine]] room of a ship.**
+- **A [[p/_person|person]] who [[c/_controls|controls]] [[m/_motion|motion]] of substance (such as a [[l/_locomotive|locomotive]]).**
+- **A [[p/_person|person]] [[e/_employed|employed]] in the [[e/_engine|engine]] room of a ship.**
 ---
 #verb
 - **To [[d/_design|design]], [[c/_construct|construct]] or [[m/_manage|manage]] something as an [[e/_engineer|engineer]].**
 - **To [[a/_alter|alter]] or [[c/_construct|construct]] something by [[m/_means|means]] of [[g/_genetic|genetic]] [[e/_engineering|engineering]].**
-- **To plan or [[a/_achieve|achieve]] some [[g/_goal|goal]] by [[c/_contrivance|contrivance]] or [[g/_guile|guile]]; to wangle or [[f/_finagle|finagle]].**
+- **To [[p/_plan|plan]] or [[a/_achieve|achieve]] some [[g/_goal|goal]] by [[c/_contrivance|contrivance]] or [[g/_guile|guile]]; to wangle or [[f/_finagle|finagle]].**
 - **To [[c/_control|control]] [[m/_motion|motion]] of substance; to [[c/_change|change]] [[m/_motion|motion]].**
 - **To work as an [[e/_engineer|engineer]].**
 ---

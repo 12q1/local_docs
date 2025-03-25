@@ -1,8 +1,8 @@
 # Cohorts
 ---
 #noun
-- **A [[g/_group|group]] of people supporting the same thing or person.**
-- **A [[d/_demographic|demographic]] [[g/_grouping|grouping]] of people, [[e/_especially|especially]] those in a [[d/_defined|defined]] [[a/_age|age]] [[g/_group|group]], or [[h/_having|having]] a [[c/_common|common]] [[c/_characteristic|characteristic]].**
+- **A [[g/_group|group]] of [[p/_people|people]] supporting the same thing or [[p/_person|person]].**
+- **A [[d/_demographic|demographic]] [[g/_grouping|grouping]] of [[p/_people|people]], [[e/_especially|especially]] those in a [[d/_defined|defined]] [[a/_age|age]] [[g/_group|group]], or [[h/_having|having]] a [[c/_common|common]] [[c/_characteristic|characteristic]].**
 	- _Example: The 18-24 cohort shows a sharp increase in automobile fatalities over the proximate age groupings._
 - **[[a/_any|Any]] [[d/_division|division]] of a Roman [[l/_legion|legion]], [[n/_normally|normally]] of [[a/_about|about]] 500 [[m/_men|men]].**
 	- _Example: Three cohorts of men were assigned to the region._

@@ -1,7 +1,7 @@
 # Mylar
 ---
 #noun
-- **A polyester [[f/_film|film]].**
+- **A [[p/_polyester|polyester]] [[f/_film|film]].**
 ---
 ### Synonyms
 - [[B/_BoPET|BoPET]]

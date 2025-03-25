@@ -1,7 +1,7 @@
 # Coracoids
 ---
 #noun
-- **Part of the scapula that projects towards the sternum in [[m/_mammals|mammals]]; the [[c/_coracoid|coracoid]] process**
+- **[[p/_part|Part]] of the scapula that projects towards the sternum in [[m/_mammals|mammals]]; the [[c/_coracoid|coracoid]] process**
 - **A small [[b/_bone|bone]] [[l/_linking|linking]] the scapula and sternum in [[b/_birds|birds]], reptiles and some [[o/_other|other]] vertebrates**
 ---
 ---

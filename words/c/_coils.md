@@ -5,7 +5,7 @@
 	- _Example: the sinuous coils of a snake_
 - **[[a/_any|Any]] [[i/_intrauterine|intrauterine]] [[d/_device|device]] ([[a/_abbreviation|Abbreviation]]: [[i/_iud|IUD]])—the [[f/_first|first]] [[i/_iuds|IUDs]] were [[c/_coil|coil]]-shaped.**
 - **A [[c/_coil|coil]] of [[e/_electrically|electrically]] [[c/_conductive|conductive]] wire through which [[e/_electricity|electricity]] [[c/_can|can]] [[f/_flow|flow]].**
-- **[[e/_entanglement|Entanglement]]; perplexity.**
+- **[[e/_entanglement|Entanglement]]; [[p/_perplexity|perplexity]].**
 ---
 ### Synonyms
 - [[i/_inductor|inductor]]

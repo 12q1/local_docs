@@ -8,10 +8,10 @@
 - **To [[a/_affect|affect]] [[m/_mentally|mentally]], as by psychotropic [[d/_drugs|drugs]] or [[i/_illness|illness]].**
 ---
 #noun
-- **A [[k/_kind|kind]] of [[c/_car|car]] in [[d/_drag|drag]] racing, usually with a partial [[b/_body|body]] situated [[b/_behind|behind]] the [[e/_exposed|exposed]] [[e/_engine|engine]].**
+- **A [[k/_kind|kind]] of [[c/_car|car]] in [[d/_drag|drag]] racing, usually with a [[p/_partial|partial]] [[b/_body|body]] situated [[b/_behind|behind]] the [[e/_exposed|exposed]] [[e/_engine|engine]].**
 ---
 #adjective
 - **[[h/_having|Having]] [[b/_been|been]] [[c/_changed|changed]] from an [[o/_original|original]] [[f/_form|form]].**
-- **(of an [[a/_animal|animal]], usually a pet) [[n/_neutered|Neutered]]; [[h/_having|having]] [[h/_had|had]] testicles or uterus and [[o/_ovaries|ovaries]] removed to prevent procreation.**
+- **(of an [[a/_animal|animal]], usually a [[p/_pet|pet]]) [[n/_neutered|Neutered]]; [[h/_having|having]] [[h/_had|had]] testicles or uterus and [[o/_ovaries|ovaries]] removed to prevent procreation.**
 ---
 ---

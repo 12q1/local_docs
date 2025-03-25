@@ -1,6 +1,6 @@
 # Lied
 ---
 #noun
-- **An [[a/_art|art]] song, sung in [[g/_german|German]] and [[a/_accompanied|accompanied]] on the piano.**
+- **An [[a/_art|art]] song, sung in [[g/_german|German]] and [[a/_accompanied|accompanied]] on the [[p/_piano|piano]].**
 ---
 ---

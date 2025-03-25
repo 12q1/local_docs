@@ -1,7 +1,7 @@
 # Gilliflower
 ---
 #noun
-- **[[c/_clove|Clove]] pink.**
+- **[[c/_clove|Clove]] [[p/_pink|pink]].**
 - **[[a/_any|Any]] [[c/_clove|clove]]-scented [[f/_flower|flower]].**
 - **[[a/_any|Any]] of several species of wallflower.**
 - **A variety of purplish-red [[a/_apple|apple]] with a roundish [[c/_conical|conical]] shape and a [[l/_large|large]] [[c/_core|core]].**

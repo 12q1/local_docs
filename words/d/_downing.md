@@ -10,9 +10,9 @@
 - **To [[g/_go|go]] or [[c/_come|come]] [[d/_down|down]]; to [[d/_descend|descend]].**
 - **To [[d/_drink|drink]] or swallow, [[e/_especially|especially]] without stopping [[b/_before|before]] the vessel [[c/_containing|containing]] the [[l/_liquid|liquid]] is [[e/_empty|empty]].**
 	- _Example: He downed an ale and ordered another._
-- **To render (the [[b/_ball|ball]]) [[d/_dead|dead]], typically by touching the [[g/_ground|ground]] while in possession.**
+- **To render (the [[b/_ball|ball]]) [[d/_dead|dead]], typically by touching the [[g/_ground|ground]] while in [[p/_possession|possession]].**
 	- _Example: He downed it at the seven-yard line._
-- **(pocket [[b/_billiards|billiards]]) To sink (a [[b/_ball|ball]]) [[i/_into|into]] a [[h/_hole|hole]] or pocket.**
+- **([[p/_pocket|pocket]] [[b/_billiards|billiards]]) To sink (a [[b/_ball|ball]]) [[i/_into|into]] a [[h/_hole|hole]] or [[p/_pocket|pocket]].**
 	- _Example: He downed two balls on the break._
 ---
 #verb

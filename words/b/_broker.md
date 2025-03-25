@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[f/_financially|Financially]] ruined, [[b/_bankrupt|bankrupt]].**
-- **Without [[a/_any|any]] [[m/_money|money]], penniless.**
+- **Without [[a/_any|any]] [[m/_money|money]], [[p/_penniless|penniless]].**
 	- _Example: dead broke; flat broke_
 - **[[b/_broken|Broken]].**
 	- _Example: If it ain't broke, don't fix it._

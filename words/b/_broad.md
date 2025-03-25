@@ -11,7 +11,7 @@
 - **[[e/_extended|Extended]], in the sense of [[d/_diffused|diffused]]; [[o/_open|open]]; [[c/_clear|clear]]; [[f/_full|full]].**
 - **[[h/_having|Having]] a [[l/_large|large]] [[m/_measure|measure]] of [[a/_any|any]] thing or quality; unlimited; unrestrained.**
 - **[[c/_comprehensive|Comprehensive]]; [[l/_liberal|liberal]]; [[e/_enlarged|enlarged]].**
-- **Plain; [[e/_evident|evident]].**
+- **[[p/_plain|Plain]]; [[e/_evident|evident]].**
 	- _Example: a broad hint_
 - **(writing) Unsubtle; [[o/_obvious|obvious]].**
 - **[[f/_free|Free]]; unrestrained; unconfined.**

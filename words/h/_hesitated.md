@@ -1,7 +1,7 @@
 # Hesitated
 ---
 #verb
-- **To stop or pause respecting [[d/_decision|decision]] or [[a/_action|action]]; to be in suspense or uncertainty as to a [[d/_determination|determination]].**
+- **To stop or [[p/_pause|pause]] respecting [[d/_decision|decision]] or [[a/_action|action]]; to be in suspense or uncertainty as to a [[d/_determination|determination]].**
 	- _Example: He hesitated whether to accept the offer or not; men often hesitate in forming a judgment._
 - **To stammer; to [[f/_falter|falter]] in speaking.**
 - **To utter with [[h/_hesitation|hesitation]] or to [[i/_intimate|intimate]] by a reluctant [[m/_manner|manner]].**

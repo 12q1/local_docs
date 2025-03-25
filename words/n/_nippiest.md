@@ -8,6 +8,6 @@
 - **[[a/_annoying|Annoying]]; [[i/_irritating|irritating]]**
 - **Sharp in taste**
 - **[[c/_curt|Curt]]**
-- **Parsimonious**
+- **[[p/_parsimonious|Parsimonious]]**
 ---
 ---

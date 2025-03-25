@@ -23,7 +23,7 @@
 ---
 #noun
 - **A [[b/_bank|bank]]; a sandbank.**
-- **A [[f/_field|field]] or patch of [[g/_ground|ground]] [[l/_lying|lying]] [[n/_near|near]] a stream; the [[d/_dale|dale]] in which a stream [[f/_flows|flows]].**
+- **A [[f/_field|field]] or [[p/_patch|patch]] of [[g/_ground|ground]] [[l/_lying|lying]] [[n/_near|near]] a stream; the [[d/_dale|dale]] in which a stream [[f/_flows|flows]].**
 ---
 #verb
 - **To [[l/_live|live]] as a [[b/_bachelor|bachelor]] temporarily, of a [[m/_married|married]] [[m/_man|man]] or someone virtually [[m/_married|married]].**

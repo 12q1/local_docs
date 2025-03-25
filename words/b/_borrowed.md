@@ -6,12 +6,12 @@
 - **To [[a/_adopt|adopt]] (an [[i/_idea|idea]]) as [[o/_one|one]]'s [[o/_own|own]].**
 	- _Example: to borrow the style, manner, or opinions of another_
 - **To [[a/_adopt|adopt]] a word from [[a/_another|another]] [[l/_language|language]].**
-- **In a subtraction, to [[d/_deduct|deduct]] ([[o/_one|one]]) from a [[d/_digit|digit]] of the [[m/_minuend|minuend]] and [[a/_add|add]] ten to the [[f/_following|following]] [[d/_digit|digit]], in [[o/_order|order]] that the subtraction of a [[l/_larger|larger]] [[d/_digit|digit]] in the subtrahend from the [[d/_digit|digit]] in the [[m/_minuend|minuend]] to which ten is [[a/_added|added]] [[g/_gives|gives]] a positive result.**
+- **In a subtraction, to [[d/_deduct|deduct]] ([[o/_one|one]]) from a [[d/_digit|digit]] of the [[m/_minuend|minuend]] and [[a/_add|add]] ten to the [[f/_following|following]] [[d/_digit|digit]], in [[o/_order|order]] that the subtraction of a [[l/_larger|larger]] [[d/_digit|digit]] in the subtrahend from the [[d/_digit|digit]] in the [[m/_minuend|minuend]] to which ten is [[a/_added|added]] [[g/_gives|gives]] a [[p/_positive|positive]] result.**
 - **(Upper [[m/_midwestern|Midwestern]] United States) To [[l/_lend|lend]].**
 - **To temporarily [[o/_obtain|obtain]] (something) for (someone).**
 - **To [[f/_feign|feign]] or [[c/_counterfeit|counterfeit]].**
 - **([[o/_obsolete|obsolete]] [[e/_except|except]] in [[b/_ballads|ballads]]) To secure the release of (someone) from prison.**
-- **To receive (something) from somebody, with [[l/_little|little]] possibility of returning it.**
+- **To receive (something) from somebody, with [[l/_little|little]] [[p/_possibility|possibility]] of returning it.**
 	- _Example: Can I borrow a sheet of paper?_
 ---
 ### Synonyms

@@ -6,6 +6,6 @@
 ---
 #adjective
 - **Producing [[e/_external|external]] secretions that are released through a [[d/_duct|duct]].**
-- **Pertaining to the [[e/_exocrine|exocrine]] [[g/_glands|glands]] or their secretions.**
+- **[[p/_pertaining|Pertaining]] to the [[e/_exocrine|exocrine]] [[g/_glands|glands]] or their secretions.**
 ---
 ---

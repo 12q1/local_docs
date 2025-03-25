@@ -1,7 +1,7 @@
 # Dad
 ---
 #noun
-- **A [[f/_father|father]], a [[m/_male|male]] parent.**
+- **A [[f/_father|father]], a [[m/_male|male]] [[p/_parent|parent]].**
 	- _Example: His dad was always there for him._
 - **([[f/_familiar|familiar]]) Used to [[a/_address|address]] [[o/_one|one]]'s [[f/_father|father]]**
 	- _Example: Happy Father's Day, Dad!_

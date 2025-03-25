@@ -12,7 +12,7 @@
 	- _Example: coding in the CT scanner_
 ---
 #verb
-- **Of a patient, to suffer a sudden [[m/_medical|medical]] [[e/_emergency|emergency]] (a [[c/_code|code]] [[b/_blue|blue]]) such as [[c/_cardiac|cardiac]] [[a/_arrest|arrest]].**
+- **Of a [[p/_patient|patient]], to suffer a sudden [[m/_medical|medical]] [[e/_emergency|emergency]] (a [[c/_code|code]] [[b/_blue|blue]]) such as [[c/_cardiac|cardiac]] [[a/_arrest|arrest]].**
 ---
 #noun
 - **The process of [[e/_encoding|encoding]] or [[d/_decoding|decoding]].**
@@ -20,6 +20,6 @@
 	- _Example: I spent all night on the coding, but the program was ready by morning._
 - **An [[e/_encoding|encoding]].**
 - **A [[m/_method|method]] of [[c/_communicating|communicating]] [[i/_important|important]] [[m/_medical|medical]] [[i/_information|information]] [[d/_discreetly|discreetly]] and quickly [[b/_between|between]] [[m/_medical|medical]] professionals and responders.**
-- **An [[a/_alternative|alternative]] therapy used to treat [[a/_addictions|addictions]] by [[c/_convincing|convincing]] the patient (through [[h/_hypnosis|hypnosis]], placebos, [[e/_etc|etc]].) that the substance will [[h/_harm|harm]] or [[k/_kill|kill]] them [[i/_if|if]] they use it [[a/_again|again]].**
+- **An [[a/_alternative|alternative]] therapy used to treat [[a/_addictions|addictions]] by [[c/_convincing|convincing]] the [[p/_patient|patient]] (through [[h/_hypnosis|hypnosis]], [[p/_placebos|placebos]], [[e/_etc|etc]].) that the substance will [[h/_harm|harm]] or [[k/_kill|kill]] them [[i/_if|if]] they use it [[a/_again|again]].**
 ---
 ---

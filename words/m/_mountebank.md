@@ -7,6 +7,6 @@
 ---
 #verb
 - **To [[a/_act|act]] as a [[m/_mountebank|mountebank]].**
-- **To [[c/_cheat|cheat]] by [[b/_boasting|boasting]] and [[f/_false|false]] pretenses.**
+- **To [[c/_cheat|cheat]] by [[b/_boasting|boasting]] and [[f/_false|false]] [[p/_pretenses|pretenses]].**
 ---
 ---

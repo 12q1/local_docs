@@ -6,11 +6,11 @@
 - **A snout, the [[n/_nose|nose]] of an [[a/_animal|animal]].**
 - **The tip of an [[o/_object|object]].**
 	- _Example: the nose of a tea-kettle, a bellows, or a fighter plane_
-- **The [[b/_bulge|bulge]] on the side of a piece of a [[j/_jigsaw|jigsaw]] puzzle, that [[f/_fits|fits]] [[i/_into|into]] the [[h/_hole|hole]] of [[i/_its|its]] [[a/_adjacent|adjacent]] piece.**
+- **The [[b/_bulge|bulge]] on the side of a [[p/_piece|piece]] of a [[j/_jigsaw|jigsaw]] puzzle, that [[f/_fits|fits]] [[i/_into|into]] the [[h/_hole|hole]] of [[i/_its|its]] [[a/_adjacent|adjacent]] [[p/_piece|piece]].**
 - **The [[l/_length|length]] of a [[h/_horse|horse]]’s [[n/_nose|nose]], used to [[i/_indicate|indicate]] the [[d/_distance|distance]] [[b/_between|between]] [[h/_horses|horses]] at the [[f/_finish|finish]] of a race, or [[a/_any|any]] very [[c/_close|close]] race.**
 	- _Example: Red Rum only won by a nose._
-- **A perfumer.**
-- **The power of smelling.**
+- **A [[p/_perfumer|perfumer]].**
+- **The [[p/_power|power]] of smelling.**
 - **[[b/_bouquet|Bouquet]], the smell of something, [[e/_especially|especially]] wine.**
 - **The skill in recognising [[b/_bouquet|bouquet]].**
 	- _Example: It is essential that a winetaster develops a good nose._

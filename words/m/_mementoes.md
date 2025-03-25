@@ -1,7 +1,7 @@
 # Mementoes
 ---
 #noun
-- **A [[k/_keepsake|keepsake]]; an [[o/_object|object]] [[k/_kept|kept]] as a reminder of a place or [[e/_event|event]].**
+- **A [[k/_keepsake|keepsake]]; an [[o/_object|object]] [[k/_kept|kept]] as a reminder of a [[p/_place|place]] or [[e/_event|event]].**
 	- _Example: I kept the shell as a memento of my visit to the seashore._
 ---
 ### Synonyms

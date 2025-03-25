@@ -6,8 +6,8 @@
 - **To take the [[c/_color|color]] [[o/_out|out]] of, and [[m/_make|make]] white; to [[b/_bleach|bleach]]**
 	- _Example: Age has blanched his hair._
 - **To [[c/_cook|cook]] by [[d/_dipping|dipping]] [[b/_briefly|briefly]] [[i/_into|into]] [[b/_boiling|boiling]] water, then [[d/_directly|directly]] [[i/_into|into]] [[c/_cold|cold]] water.**
-- **To whiten, for [[e/_example|example]] the surface of [[m/_meat|meat]], by plunging [[i/_into|into]] [[b/_boiling|boiling]] water and [[a/_afterwards|afterwards]] [[i/_into|into]] [[c/_cold|cold]], so as to [[h/_harden|harden]] the surface and retain the [[j/_juices|juices]]**
-- **To [[b/_bleach|bleach]] by [[e/_excluding|excluding]] the [[l/_light|light]], for [[e/_example|example]] the stalks or [[l/_leaves|leaves]] of plants, by [[e/_earthing|earthing]] them up or tying them together**
+- **To whiten, for [[e/_example|example]] the surface of [[m/_meat|meat]], by [[p/_plunging|plunging]] [[i/_into|into]] [[b/_boiling|boiling]] water and [[a/_afterwards|afterwards]] [[i/_into|into]] [[c/_cold|cold]], so as to [[h/_harden|harden]] the surface and retain the [[j/_juices|juices]]**
+- **To [[b/_bleach|bleach]] by [[e/_excluding|excluding]] the [[l/_light|light]], for [[e/_example|example]] the stalks or [[l/_leaves|leaves]] of [[p/_plants|plants]], by [[e/_earthing|earthing]] them up or tying them together**
 - **To [[m/_make|make]] white by removing the skin of, for [[e/_example|example]] by scalding**
 	- _Example: to blanch almonds_
 - **To [[g/_give|give]] a white [[l/_lustre|lustre]] to (silver, [[b/_before|before]] stamping, in the process of [[c/_coining|coining]])**

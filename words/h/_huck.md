@@ -8,12 +8,12 @@
 - **To throw or [[c/_chuck|chuck]].**
 	- _Example: He was so angry that he hucked the book at my face._
 - **To throw [[o/_oneself|oneself]] [[o/_off|off]] a [[l/_large|large]] [[j/_jump|jump]] or [[d/_drop|drop]].**
-- **To throw [[o/_one|one]]'s [[b/_body|body]] in the [[a/_air|air]], possibly in a way that is ungraceful or [[l/_lacks|lacks]] skill.**
+- **To throw [[o/_one|one]]'s [[b/_body|body]] in the [[a/_air|air]], [[p/_possibly|possibly]] in a way that is ungraceful or [[l/_lacks|lacks]] skill.**
 - **(Ultimate [[f/_frisbee|Frisbee]]) To throw a [[f/_frisbee|frisbee]] a [[l/_long|long]] [[d/_distance|distance]].**
-- **(Ultimate [[f/_frisbee|Frisbee]]) To [[m/_make|make]] a [[l/_long|long]] throw with the [[f/_frisbee|frisbee]]; to start a point by [[m/_making|making]] such a throw.**
-- **([[m/_mountain|mountain]] [[b/_biking|biking]]) To [[a/_attempt|attempt]] a particularly [[b/_big|big]] [[j/_jump|jump]] or [[d/_drop|drop]], [[o/_often|often]] [[h/_haphazardly|haphazardly]].**
+- **(Ultimate [[f/_frisbee|Frisbee]]) To [[m/_make|make]] a [[l/_long|long]] throw with the [[f/_frisbee|frisbee]]; to start a [[p/_point|point]] by [[m/_making|making]] such a throw.**
+- **([[m/_mountain|mountain]] [[b/_biking|biking]]) To [[a/_attempt|attempt]] a [[p/_particularly|particularly]] [[b/_big|big]] [[j/_jump|jump]] or [[d/_drop|drop]], [[o/_often|often]] [[h/_haphazardly|haphazardly]].**
 	- _Example: A longer fork makes the bike more cumbersome, but you will be able to huck more stuff._
-- **([[m/_mountain|mountain]] [[b/_biking|biking]]) To [[m/_make|make]] a [[m/_maneuver|maneuver]] in a [[c/_clumsy|clumsy]] or poorly planned way.**
+- **([[m/_mountain|mountain]] [[b/_biking|biking]]) To [[m/_make|make]] a [[m/_maneuver|maneuver]] in a [[c/_clumsy|clumsy]] or [[p/_poorly|poorly]] [[p/_planned|planned]] way.**
 - **(whitewater kayaking) To [[p/_paddle|paddle]] [[o/_off|off]] a waterfall or to [[b/_boof|boof]] a [[b/_big|big]] [[d/_drop|drop]].**
 	- _Example: I hucked a sweet 25-foot waterfall on the Tomata River._
 ---

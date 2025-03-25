@@ -2,7 +2,7 @@
 ---
 #noun
 - **([[g/_grammar|grammar]]) a [[c/_connector|connector]] [[j/_joining|joining]] two [[c/_components|components]] of the same weight, such as a [[c/_coordinating|coordinating]] [[c/_conjunction|conjunction]]**
-- **A substance [[a/_added|added]] as a supplement; [[o/_often|often]] in the phrase "[[a/_additives|additives]] and adjunctives."**
+- **A substance [[a/_added|added]] as a supplement; [[o/_often|often]] in the [[p/_phrase|phrase]] "[[a/_additives|additives]] and adjunctives."**
 ---
 #adjective
 - **[[f/_forming|Forming]] an [[a/_adjunct|adjunct]]**

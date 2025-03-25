@@ -15,27 +15,27 @@
 - **To [[c/_create|create]] (a [[m/_mark|mark]]) on a surface.**
 - **To [[c/_celebrate|celebrate]] or [[a/_acknowledge|acknowledge]] (an [[e/_event|event]]) through an [[a/_action|action]] of some [[k/_kind|kind]].**
 	- _Example: The national holiday is marked by fireworks._
-- **(of things) To [[i/_identify|identify]] (someone as a particular type of person or as [[h/_having|having]] a particular role).**
+- **(of things) To [[i/_identify|identify]] (someone as a [[p/_particular|particular]] type of [[p/_person|person]] or as [[h/_having|having]] a [[p/_particular|particular]] role).**
 	- _Example: His courage and energy marked him as a leader._
-- **(of people) To [[a/_assign|assign]] (someone) to a particular [[c/_category|category]] or [[c/_class|class]].**
-- **(of people) To [[c/_choose|choose]] or [[i/_intend|intend]] (someone) for a particular [[e/_end|end]] or purpose.**
-- **To be a point in time or space at which something takes place; to [[a/_accompany|accompany]] or be [[a/_accompanied|accompanied]] by (an [[e/_event|event]], [[a/_action|action]], [[e/_etc|etc]].); to [[c/_coincide|coincide]] with.**
+- **(of [[p/_people|people]]) To [[a/_assign|assign]] (someone) to a [[p/_particular|particular]] [[c/_category|category]] or [[c/_class|class]].**
+- **(of [[p/_people|people]]) To [[c/_choose|choose]] or [[i/_intend|intend]] (someone) for a [[p/_particular|particular]] [[e/_end|end]] or purpose.**
+- **To be a [[p/_point|point]] in time or space at which something takes [[p/_place|place]]; to [[a/_accompany|accompany]] or be [[a/_accompanied|accompanied]] by (an [[e/_event|event]], [[a/_action|action]], [[e/_etc|etc]].); to [[c/_coincide|coincide]] with.**
 	- _Example: That summer marked the beginning of her obsession with cycling._
 - **To be typical or [[c/_characteristic|characteristic]] of (something).**
-- **To [[d/_distinguish|distinguish]] ([[o/_one|one]] person or thing from [[a/_another|another]]).**
+- **To [[d/_distinguish|distinguish]] ([[o/_one|one]] [[p/_person|person]] or thing from [[a/_another|another]]).**
 - **To [[f/_focus|focus]] [[o/_one|one]]'s [[a/_attention|attention]] on (something or someone); to [[p/_pay|pay]] [[a/_attention|attention]] to, to take [[n/_note|note]] of.**
 	- _Example: Mark my words: that boy’s up to no good._
-- **To [[b/_become|become]] [[a/_aware|aware]] of (something) through the physical senses.**
+- **To [[b/_become|become]] [[a/_aware|aware]] of (something) through the [[p/_physical|physical]] senses.**
 - **To [[h/_hold|hold]] (someone) in [[o/_one|one]]'s [[l/_line|line]] of sight.**
 - **To [[i/_indicate|indicate]] the [[c/_correctness|correctness]] of and [[g/_give|give]] a score to (a school [[a/_assignment|assignment]], [[e/_exam|exam]] [[a/_answers|answers]], [[e/_etc|etc]].).**
 	- _Example: The teacher had to spend her weekend marking all the tests._
-- **To record that (someone) [[h/_has|has]] a particular status.**
+- **To record that (someone) [[h/_has|has]] a [[p/_particular|particular]] status.**
 	- _Example: to mark a student absent._
 - **To [[k/_keep|keep]] [[a/_account|account]] of; to [[e/_enumerate|enumerate]] and register; to [[k/_keep|keep]] score.**
 	- _Example: to mark the points in a game of billiards or a card game_
-- **To [[f/_follow|follow]] a player not in possession of the [[b/_ball|ball]] when [[d/_defending|defending]], to prevent them receiving a pass [[e/_easily|easily]].**
+- **To [[f/_follow|follow]] a [[p/_player|player]] not in [[p/_possession|possession]] of the [[b/_ball|ball]] when [[d/_defending|defending]], to prevent them receiving a [[p/_pass|pass]] [[e/_easily|easily]].**
 - **To [[c/_catch|catch]] the [[b/_ball|ball]] [[d/_directly|directly]] from a [[k/_kick|kick]] of 15 [[m/_metres|metres]] or [[m/_more|more]] without [[h/_having|having]] [[b/_been|been]] touched in transit, resulting in a [[f/_free|free]] [[k/_kick|kick]].**
-- **To put a [[m/_marker|marker]] in the place of [[o/_one|one]]'s [[b/_ball|ball]].**
+- **To put a [[m/_marker|marker]] in the [[p/_place|place]] of [[o/_one|one]]'s [[b/_ball|ball]].**
 - **To sing softly, sometimes an [[o/_octave|octave]] [[l/_lower|lower]] than usual, in [[o/_order|order]] to protect [[o/_one|one]]'s voice [[d/_during|during]] a rehearsal.**
 ---
 ### Synonyms
@@ -43,7 +43,7 @@
 #noun
 - **The [[a/_action|action]] of the verb to [[m/_mark|mark]].**
 - **A [[m/_mark|mark]].**
-- **The [[c/_characteristic|characteristic]] [[c/_colouration|colouration]] and patterning of an [[a/_animal|animal]].**
-- **[[a/_any|Any]] [[c/_configuration|configuration]] of a Petri [[n/_net|net]] with a [[n/_number|number]] of [[m/_marks|marks]] or tokens [[d/_distributed|distributed]] [[a/_across|across]] it.**
+- **The [[c/_characteristic|characteristic]] [[c/_colouration|colouration]] and [[p/_patterning|patterning]] of an [[a/_animal|animal]].**
+- **[[a/_any|Any]] [[c/_configuration|configuration]] of a [[p/_petri|Petri]] [[n/_net|net]] with a [[n/_number|number]] of [[m/_marks|marks]] or tokens [[d/_distributed|distributed]] [[a/_across|across]] it.**
 ---
 ---

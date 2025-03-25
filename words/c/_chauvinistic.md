@@ -1,6 +1,6 @@
 # Chauvinistic
 ---
 #adjective
-- **Of or pertaining to [[c/_chauvinism|chauvinism]] or [[c/_chauvinists|chauvinists]].**
+- **Of or [[p/_pertaining|pertaining]] to [[c/_chauvinism|chauvinism]] or [[c/_chauvinists|chauvinists]].**
 ---
 ---

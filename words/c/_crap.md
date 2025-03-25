@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[h/_husk|husk]] of [[g/_grain|grain]]; [[c/_chaff|chaff]].**
-- **([[m/_mildly|mildly]]) Something worthless or of poor quality; [[j/_junk|junk]].**
+- **([[m/_mildly|mildly]]) Something worthless or of [[p/_poor|poor]] quality; [[j/_junk|junk]].**
 	- _Example: The long-running game show went from offering good prizes to crap in no time._
 - **([[m/_mildly|mildly]]) [[n/_nonsense|Nonsense]]; something untrue.**
 	- _Example: The college student boasted of completing a 10,000-word essay on Shakespeare, but that claim was utter crap._
@@ -24,7 +24,7 @@
 ### Synonyms
 - [[b/_bullshit|bullshit]]
 #adjective
-- **([[m/_mildly|mildly]]) Of poor quality.**
+- **([[m/_mildly|mildly]]) Of [[p/_poor|poor]] quality.**
 	- _Example: I drove an old crap car for ten years before buying a new one._
 ---
 ### Synonyms

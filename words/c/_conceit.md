@@ -10,7 +10,7 @@
 - **A [[n/_novel|novel]] or [[f/_fanciful|fanciful]] [[i/_idea|idea]]; a whim.**
 - **An [[i/_ingenious|ingenious]] [[e/_expression|expression]] or [[m/_metaphorical|metaphorical]] [[i/_idea|idea]], [[e/_especially|especially]] in [[e/_extended|extended]] [[f/_form|form]] or used as a [[l/_literary|literary]] or rhetorical [[d/_device|device]].**
 - **[[o/_overly|Overly]] [[h/_high|high]] self-[[e/_esteem|esteem]]; vain pride; [[h/_hubris|hubris]].**
-- **[[d/_design|Design]]; pattern.**
+- **[[d/_design|Design]]; [[p/_pattern|pattern]].**
 ---
 #verb
 - **To [[f/_form|form]] an [[i/_idea|idea]]; to think.**

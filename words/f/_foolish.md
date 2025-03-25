@@ -1,7 +1,7 @@
 # Foolish
 ---
 #adjective
-- **(of a person, an [[a/_action|action]], [[e/_etc|etc]].) [[l/_lacking|Lacking]] [[g/_good|good]] sense or [[j/_judgement|judgement]]; unwise.**
+- **(of a [[p/_person|person]], an [[a/_action|action]], [[e/_etc|etc]].) [[l/_lacking|Lacking]] [[g/_good|good]] sense or [[j/_judgement|judgement]]; unwise.**
 - **Resembling or [[c/_characteristic|characteristic]] of a [[f/_fool|fool]].**
 ---
 ### Synonyms

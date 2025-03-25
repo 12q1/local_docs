@@ -2,7 +2,7 @@
 ---
 #noun
 - **Something [[b/_brought|brought]] in from an [[e/_exterior|exterior]] source, [[e/_especially|especially]] for sale or trade.**
-- **The practice of [[i/_importing|importing]].**
+- **The [[p/_practice|practice]] of [[i/_importing|importing]].**
 - **Significance, [[i/_importance|importance]].**
 	- _Example: It was a matter of great import._
 ---

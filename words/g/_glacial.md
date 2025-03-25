@@ -1,7 +1,7 @@
 # Glacial
 ---
 #noun
-- **A [[g/_glacial|glacial]] period ([[c/_colloquially|colloquially]] [[k/_known|known]] as an [[i/_ice|ice]] [[a/_age|age]]).**
+- **A [[g/_glacial|glacial]] [[p/_period|period]] ([[c/_colloquially|colloquially]] [[k/_known|known]] as an [[i/_ice|ice]] [[a/_age|age]]).**
 ---
 ### Synonyms
 - 

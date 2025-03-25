@@ -5,7 +5,7 @@
 ---
 #adjective
 - **Of, or relating to an [[a/_alkali|alkali]], [[o/_one|one]] of a [[c/_class|class]] of [[c/_caustic|caustic]] [[b/_bases|bases]].**
-- **[[h/_having|Having]] a pH [[g/_greater|greater]] than 7.**
+- **[[h/_having|Having]] a [[p/_ph|pH]] [[g/_greater|greater]] than 7.**
 ---
 ### Synonyms
 - [[b/_basic|basic]]

@@ -1,16 +1,16 @@
 # Flows
 ---
 #noun
-- **A [[m/_movement|movement]] in people or things with a particular way in [[l/_large|large]] [[n/_numbers|numbers]] or [[a/_amounts|amounts]]**
+- **A [[m/_movement|movement]] in [[p/_people|people]] or things with a [[p/_particular|particular]] way in [[l/_large|large]] [[n/_numbers|numbers]] or [[a/_amounts|amounts]]**
 - **The [[m/_movement|movement]] of a real or [[f/_figurative|figurative]] [[f/_fluid|fluid]].**
-- **A [[f/_formalization|formalization]] of the [[i/_idea|idea]] of the [[m/_motion|motion]] of particles in a [[f/_fluid|fluid]], as a [[g/_group|group]] [[a/_action|action]] of the real [[n/_numbers|numbers]] on a set.**
+- **A [[f/_formalization|formalization]] of the [[i/_idea|idea]] of the [[m/_motion|motion]] of [[p/_particles|particles]] in a [[f/_fluid|fluid]], as a [[g/_group|group]] [[a/_action|action]] of the real [[n/_numbers|numbers]] on a set.**
 	- _Example: The notion of flow is basic to the study of ordinary differential equations._
 - **The rising [[m/_movement|movement]] of the tide.**
 - **Smoothness or [[c/_continuity|continuity]].**
 	- _Example: The room was small, but it had good symmetry and flow._
 - **The [[a/_amount|amount]] of a [[f/_fluid|fluid]] that [[m/_moves|moves]] or the rate of [[f/_fluid|fluid]] [[m/_movement|movement]].**
 	- _Example: Other devices measure water flow in streams fed by melted ice._
-- **A [[f/_flow|flow]] pipe, [[c/_carrying|carrying]] [[l/_liquid|liquid]] [[a/_away|away]] from a [[b/_boiler|boiler]] or [[o/_other|other]] [[c/_central|central]] plant ([[c/_compare|compare]] with return pipe which returns [[f/_fluid|fluid]] to [[c/_central|central]] plant).**
+- **A [[f/_flow|flow]] [[p/_pipe|pipe]], [[c/_carrying|carrying]] [[l/_liquid|liquid]] [[a/_away|away]] from a [[b/_boiler|boiler]] or [[o/_other|other]] [[c/_central|central]] [[p/_plant|plant]] ([[c/_compare|compare]] with return [[p/_pipe|pipe]] which returns [[f/_fluid|fluid]] to [[c/_central|central]] [[p/_plant|plant]]).**
 - **A [[m/_mental|mental]] state [[c/_characterized|characterized]] by [[c/_concentration|concentration]], [[f/_focus|focus]] and [[e/_enjoyment|enjoyment]] of a [[g/_given|given]] task.**
 - **The [[e/_emission|emission]] of [[b/_blood|blood]] [[d/_during|during]] [[m/_menstruation|menstruation]].**
 	- _Example: Tampons can be small or large, slender or thick. From “slender” to “super”, you can pick the size that matches your flow._
@@ -20,7 +20,7 @@
 ### Antonyms
 - [[e/_ebb|ebb]]
 #verb
-- **To [[m/_move|move]] as a [[f/_fluid|fluid]] from [[o/_one|one]] position to [[a/_another|another]].**
+- **To [[m/_move|move]] as a [[f/_fluid|fluid]] from [[o/_one|one]] [[p/_position|position]] to [[a/_another|another]].**
 	- _Example: Rivers flow from springs and lakes._
 - **To proceed; to [[i/_issue|issue]] [[f/_forth|forth]].**
 	- _Example: Wealth flows from industry and economy._

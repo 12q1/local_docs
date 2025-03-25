@@ -7,7 +7,7 @@
 	- _Example: Can anyone here change a five?_
 - **[[a/_anything|Anything]] [[m/_measuring|measuring]] [[f/_five|five]] units, as [[l/_length|length]].**
 	- _Example: All the fives are over there in the corner, next to the fours._
-- **A person who is [[f/_five|five]] [[y/_years|years]] [[o/_old|old]].**
+- **A [[p/_person|person]] who is [[f/_five|five]] [[y/_years|years]] [[o/_old|old]].**
 	- _Example: The fives and sixes will have a snack first, then the older kids._
 - **[[f/_five|Five]] [[o/_o|o]]'[[c/_clock|clock]].**
 	- _Example: See you at five._
@@ -16,7 +16,7 @@
 - **A [[b/_basketball|basketball]] team, [[c/_club|club]] or [[l/_lineup|lineup]].**
 ---
 #noun
-- **A [[b/_ball|ball]] [[g/_game|game]], somewhat [[l/_like|like]] tennis, played [[a/_against|against]] a wall.**
+- **A [[b/_ball|ball]] [[g/_game|game]], somewhat [[l/_like|like]] tennis, [[p/_played|played]] [[a/_against|against]] a wall.**
 - **A [[p/_pair|pair]] of [[f/_fives|fives]].**
 - **The [[c/_cells|cells]] [[l/_located|located]] on the [[f/_fourth|fourth]] [[f/_floor|floor]].**
 ---

@@ -6,6 +6,6 @@
 - **A [[n/_native|native]] or [[i/_inhabitant|inhabitant]] of such a territory.**
 ---
 #adjective
-- **Of or pertaining to a [[p/_palatinate|palatinate]] or the [[p/_palatinate|Palatinate]].**
+- **Of or [[p/_pertaining|pertaining]] to a [[p/_palatinate|palatinate]] or the [[p/_palatinate|Palatinate]].**
 ---
 ---

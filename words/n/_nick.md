@@ -5,7 +5,7 @@
 - **Senses [[c/_connoting|connoting]] something small.**
 - **[[o/_often|Often]] in the [[e/_expressions|expressions]] in [[b/_bad|bad]] [[n/_nick|nick]] and in [[g/_good|good]] [[n/_nick|nick]]: [[c/_condition|condition]], state.**
 	- _Example: The car I bought was cheap and in good nick._
-- **([[l/_law|law]] [[e/_enforcement|enforcement]]) A police station or prison.**
+- **([[l/_law|law]] [[e/_enforcement|enforcement]]) A [[p/_police|police]] station or prison.**
 	- _Example: He was arrested and taken down to Sun Hill nick [police station] to be charged._
 ---
 #verb

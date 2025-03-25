@@ -16,15 +16,15 @@
 	- _Example: The car just missed hitting a passer-by._
 - **To [[b/_become|become]] [[a/_aware|aware]] of the [[l/_loss|loss]] or [[a/_absence|absence]] of; to [[f/_feel|feel]] the want or [[n/_need|need]] of, sometimes with regret.**
 	- _Example: I miss you! Come home soon!_
-- **To [[f/_fail|fail]] to understand; to [[h/_have|have]] a shortcoming of perception; [[o/_overlook|overlook]].**
+- **To [[f/_fail|fail]] to understand; to [[h/_have|have]] a shortcoming of [[p/_perception|perception]]; [[o/_overlook|overlook]].**
 	- _Example: miss the joke_
 - **To [[f/_fail|fail]] to [[a/_attend|attend]].**
 	- _Example: Joe missed the meeting this morning._
 - **To be [[l/_late|late]] for something (a [[m/_means|means]] of transportation, a [[d/_deadline|deadline]], [[e/_etc|etc]].).**
 	- _Example: I missed the plane!_
-- **To be wanting; to [[l/_lack|lack]] something that should be present.**
+- **To be wanting; to [[l/_lack|lack]] something that should be [[p/_present|present]].**
 	- _Example: The car is missing essential features._
-- **(said of a [[c/_card|card]]) To [[f/_fail|fail]] to [[h/_help|help]] the [[h/_hand|hand]] of a player.**
+- **(said of a [[c/_card|card]]) To [[f/_fail|fail]] to [[h/_help|help]] the [[h/_hand|hand]] of a [[p/_player|player]].**
 	- _Example: Player A: J7. Player B: Q6. Table: 283. The flop missed both players!_
 - **To [[f/_fail|fail]] to score (a [[g/_goal|goal]]).**
 - **To [[g/_go|go]] wrong; to [[e/_err|err]].**
@@ -37,7 +37,7 @@
 	- _Example: You may sit here, Miss Jones._
 - **An unmarried woman; a [[g/_girl|girl]].**
 - **A [[k/_kept|kept]] woman; a [[m/_mistress|mistress]].**
-- **In the [[g/_game|game]] of three-[[c/_card|card]] [[l/_loo|loo]], an [[e/_extra|extra]] [[h/_hand|hand]], [[d/_dealt|dealt]] on the table, which [[m/_may|may]] be substituted for the [[h/_hand|hand]] [[d/_dealt|dealt]] to a player.**
+- **In the [[g/_game|game]] of three-[[c/_card|card]] [[l/_loo|loo]], an [[e/_extra|extra]] [[h/_hand|hand]], [[d/_dealt|dealt]] on the table, which [[m/_may|may]] be substituted for the [[h/_hand|hand]] [[d/_dealt|dealt]] to a [[p/_player|player]].**
 ---
 #noun
 - **Wife or [[g/_girlfriend|girlfriend]].**

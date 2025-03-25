@@ -7,7 +7,7 @@
 - **A [[h/_hag|hag]].**
 ---
 #adjective
-- **[[l/_looking|Looking]] [[e/_exhausted|exhausted]], worried, or poor in [[c/_condition|condition]]**
+- **[[l/_looking|Looking]] [[e/_exhausted|exhausted]], worried, or [[p/_poor|poor]] in [[c/_condition|condition]]**
 	- _Example: A gradual descent into a haggard and feeble state._
 - **(of an [[a/_animal|animal]]) Wild or untamed**
 	- _Example: a haggard or refractory hawk_

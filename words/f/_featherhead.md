@@ -1,6 +1,6 @@
 # Featherhead
 ---
 #noun
-- **A [[f/_foolish|foolish]] person.**
+- **A [[f/_foolish|foolish]] [[p/_person|person]].**
 ---
 ---

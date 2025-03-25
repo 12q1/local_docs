@@ -2,14 +2,14 @@
 ---
 #noun
 - **An [[a/_animal|animal]] of the [[f/_family|family]] [[f/_felidae|Felidae]]:**
-- **A person:**
+- **A [[p/_person|person]]:**
 - **A strong tackle used to [[h/_hoist|hoist]] an [[a/_anchor|anchor]] to the [[c/_cathead|cathead]] of a ship.**
 - **Short [[f/_form|form]] of [[c/_cat|cat]]-[[o/_o|o]]'-[[n/_nine|nine]]-tails.**
 - **A sturdy [[m/_merchant|merchant]] sailing vessel ([[n/_now|now]] [[o/_only|only]] in "[[c/_catboat|catboat]]").**
 - **The [[g/_game|game]] of "trap and [[b/_ball|ball]]" ([[a/_also|also]] [[c/_called|called]] "[[c/_cat|cat]] and [[d/_dog|dog]]").**
-- **The pointed piece of wood that is struck in the [[g/_game|game]] of tipcat.**
+- **The [[p/_pointed|pointed]] [[p/_piece|piece]] of wood that is struck in the [[g/_game|game]] of tipcat.**
 - **A vagina, a vulva; the [[f/_female|female]] [[e/_external|external]] [[g/_genitalia|genitalia]].**
-- **A [[d/_double|double]] tripod (for [[h/_holding|holding]] a plate, [[e/_etc|etc]].) with six [[f/_feet|feet]], of which three rest on the [[g/_ground|ground]], in whatever position it is placed.**
+- **A [[d/_double|double]] tripod (for [[h/_holding|holding]] a [[p/_plate|plate]], [[e/_etc|etc]].) with six [[f/_feet|feet]], of which three rest on the [[g/_ground|ground]], in whatever [[p/_position|position]] it is [[p/_placed|placed]].**
 - **A wheeled shelter, used in the [[m/_middle|Middle]] [[a/_ages|Ages]] as a siege weapon to [[a/_allow|allow]] [[a/_assailants|assailants]] to [[a/_approach|approach]] [[e/_enemy|enemy]] [[d/_defences|defences]].**
 ---
 ### Synonyms

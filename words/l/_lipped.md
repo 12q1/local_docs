@@ -9,7 +9,7 @@
 - **To utter verbally.**
 - **To simulate speech by [[m/_moving|moving]] the [[l/_lips|lips]] without [[m/_making|making]] [[a/_any|any]] sound; to [[m/_mouth|mouth]].**
 - **To [[m/_make|make]] a [[g/_golf|golf]] [[b/_ball|ball]] [[h/_hit|hit]] the [[l/_lip|lip]] of the [[c/_cup|cup]], without [[d/_dropping|dropping]] in.**
-- **To [[c/_change|change]] the sound of (a [[m/_musical|musical]] [[n/_note|note]] played on a wind [[i/_instrument|instrument]]) by [[m/_moving|moving]] or tensing the [[l/_lips|lips]].**
+- **To [[c/_change|change]] the sound of (a [[m/_musical|musical]] [[n/_note|note]] [[p/_played|played]] on a wind [[i/_instrument|instrument]]) by [[m/_moving|moving]] or tensing the [[l/_lips|lips]].**
 ---
 #adjective
 - **[[h/_having|Having]] a raised [[l/_lip|lip]].**

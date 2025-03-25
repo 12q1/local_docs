@@ -1,6 +1,6 @@
 # Infibulate
 ---
 #verb
-- **To perform [[i/_infibulation|infibulation]] (on)**
+- **To [[p/_perform|perform]] [[i/_infibulation|infibulation]] (on)**
 ---
 ---

@@ -10,7 +10,7 @@
 #verb
 - **([[o/_often|often]] with "up") To [[m/_make|make]] [[h/_heavier|heavier]].**
 - **To sadden.**
-- **To use power and/or wealth to [[e/_exert|exert]] [[i/_influence|influence]] on, [[e/_e|e]].[[g/_g|g]]., [[g/_governments|governments]] or [[c/_corporations|corporations]]; to pressure.**
+- **To use [[p/_power|power]] and/or wealth to [[e/_exert|exert]] [[i/_influence|influence]] on, [[e/_e|e]].[[g/_g|g]]., [[g/_governments|governments]] or [[c/_corporations|corporations]]; to [[p/_pressure|pressure]].**
 	- _Example: The union was well known for the methods it used to heavy many businesses._
 ---
 ---

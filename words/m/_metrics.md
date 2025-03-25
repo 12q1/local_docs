@@ -1,9 +1,9 @@
 # Metrics
 ---
 #noun
-- **A [[m/_measure|measure]] for something; a [[m/_means|means]] of [[d/_deriving|deriving]] a quantitative [[m/_measurement|measurement]] or [[a/_approximation|approximation]] for [[o/_otherwise|otherwise]] qualitative phenomena ([[e/_especially|especially]] used in [[e/_engineering|engineering]]).**
+- **A [[m/_measure|measure]] for something; a [[m/_means|means]] of [[d/_deriving|deriving]] a quantitative [[m/_measurement|measurement]] or [[a/_approximation|approximation]] for [[o/_otherwise|otherwise]] qualitative [[p/_phenomena|phenomena]] ([[e/_especially|especially]] used in [[e/_engineering|engineering]]).**
 	- _Example: How to measure marketing? Use these key metrics for measuring marketing effectiveness._
-- **A [[f/_function|function]] for the [[m/_measurement|measurement]] of the "[[d/_distance|distance]]" [[b/_between|between]] two points in some [[m/_metric|metric]] space: it is a real-valued [[f/_function|function]] [[d/_d|d]](x,[[y/_y|y]]) [[b/_between|between]] points x and [[y/_y|y]] satisfying the [[f/_following|following]] properties: (1) "[[n/_non|non]]-[[n/_negativity|negativity]]": [[d/_d|d]](x,[[y/_y|y]]) \[[g/_ge|ge]] 0 , (2) "[[i/_identity|identity]] of indiscernibles": [[d/_d|d]](x,[[y/_y|y]]) = 0 \mbox{ [[i/_iff|iff]] } x=[[y/_y|y]] , (2) "symmetry": [[d/_d|d]](x,[[y/_y|y]]) = [[d/_d|d]]([[y/_y|y]],x) , and (3) "triangle [[i/_inequality|inequality]]": [[d/_d|d]](x,[[y/_y|y]]) \[[l/_le|le]] [[d/_d|d]](x,z) + [[d/_d|d]](z,[[y/_y|y]]) .**
+- **A [[f/_function|function]] for the [[m/_measurement|measurement]] of the "[[d/_distance|distance]]" [[b/_between|between]] two [[p/_points|points]] in some [[m/_metric|metric]] space: it is a real-valued [[f/_function|function]] [[d/_d|d]](x,[[y/_y|y]]) [[b/_between|between]] [[p/_points|points]] x and [[y/_y|y]] satisfying the [[f/_following|following]] properties: (1) "[[n/_non|non]]-[[n/_negativity|negativity]]": [[d/_d|d]](x,[[y/_y|y]]) \[[g/_ge|ge]] 0 , (2) "[[i/_identity|identity]] of indiscernibles": [[d/_d|d]](x,[[y/_y|y]]) = 0 \mbox{ [[i/_iff|iff]] } x=[[y/_y|y]] , (2) "symmetry": [[d/_d|d]](x,[[y/_y|y]]) = [[d/_d|d]]([[y/_y|y]],x) , and (3) "triangle [[i/_inequality|inequality]]": [[d/_d|d]](x,[[y/_y|y]]) \[[l/_le|le]] [[d/_d|d]](x,z) + [[d/_d|d]](z,[[y/_y|y]]) .**
 - **A [[m/_metric|metric]] tensor.**
 ---
 ### Synonyms

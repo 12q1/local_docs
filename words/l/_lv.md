@@ -25,11 +25,11 @@
 - **[[d/_distance|Distance]] from the root [[n/_node|node]] of a tree structure.**
 - **[[o/_one|One]] of several [[d/_discrete|discrete]] segments of a [[g/_game|game]], [[g/_generally|generally]] [[i/_increasing|increasing]] in [[d/_difficulty|difficulty]] and representing [[d/_different|different]] [[l/_locations|locations]] in the [[g/_game|game]] world.**
 	- _Example: It took me weeks to get to level seven.   Watch out for the next level; the bad guys there are really overpowered._
-- **A [[n/_numeric|numeric]] value that quantifies a [[c/_character|character]]'s [[e/_experience|experience]] and power.**
+- **A [[n/_numeric|numeric]] value that quantifies a [[c/_character|character]]'s [[e/_experience|experience]] and [[p/_power|power]].**
 	- _Example: My half-orc barbarian reached fifth level before he was squashed by a troll._
 - **A [[f/_floor|floor]] of a [[m/_multi|multi]]-storey [[b/_building|building]].**
 	- _Example: Take the elevator and get off at the promenade level._
-- **An [[a/_area|area]] of [[a/_almost|almost]] perfectly [[f/_flat|flat]] [[l/_land|land]].**
+- **An [[a/_area|area]] of [[a/_almost|almost]] [[p/_perfectly|perfectly]] [[f/_flat|flat]] [[l/_land|land]].**
 - **A school [[g/_grade|grade]] or [[y/_year|year]].**
 ---
 ### Synonyms

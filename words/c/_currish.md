@@ -1,7 +1,7 @@
 # Currish
 ---
 #adjective
-- **Pertaining to a [[c/_cur|cur]] or [[m/_mongrel|mongrel]].**
+- **[[p/_pertaining|Pertaining]] to a [[c/_cur|cur]] or [[m/_mongrel|mongrel]].**
 - **[[i/_ignoble|Ignoble]], [[m/_mean|mean]]-spirited.**
 ---
 ### Synonyms

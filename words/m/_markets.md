@@ -1,12 +1,12 @@
 # Markets
 ---
 #noun
-- **A [[g/_gathering|gathering]] of people for the purchase and sale of [[m/_merchandise|merchandise]] at a set time, [[o/_often|often]] periodic.**
+- **A [[g/_gathering|gathering]] of [[p/_people|people]] for the purchase and sale of [[m/_merchandise|merchandise]] at a set time, [[o/_often|often]] [[p/_periodic|periodic]].**
 	- _Example: The privilege to hold a weekly market was invaluable for any feudal era burgh._
 - **[[c/_city|City]] square or [[o/_other|other]] [[f/_fairly|fairly]] spacious site where traders set up stalls and [[b/_buyers|buyers]] [[b/_browse|browse]] the [[m/_merchandise|merchandise]].**
 - **A [[g/_grocery|grocery]] store**
 	- _Example: Stop by the market on your way home and pick up some milk_
-- **A [[g/_group|group]] of potential [[c/_customers|customers]] for [[o/_one|one]]'s product.**
+- **A [[g/_group|group]] of [[p/_potential|potential]] [[c/_customers|customers]] for [[o/_one|one]]'s product.**
 	- _Example: We believe that the market for the new widget is the older homeowner._
 - **A [[g/_geographical|geographical]] [[a/_area|area]] where a [[c/_certain|certain]] [[c/_commercial|commercial]] [[d/_demand|demand]] [[e/_exists|exists]].**
 	- _Example: Foreign markets were lost as our currency rose versus their valuta._

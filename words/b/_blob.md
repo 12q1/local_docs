@@ -2,10 +2,10 @@
 ---
 #noun
 - **A shapeless or [[a/_amorphous|amorphous]] [[m/_mass|mass]]; a vague shape or [[a/_amount|amount]], [[e/_especially|especially]] of a [[l/_liquid|liquid]] or semisolid substance; a [[c/_clump|clump]], [[g/_group|group]] or [[c/_collection|collection]] that [[l/_lacks|lacks]] [[d/_definite|definite]] shape.**
-- **In [[a/_astronomy|astronomy]], a [[l/_large|large]] [[c/_cloud|cloud]] of [[g/_gas|gas]]. In particular, an [[e/_extended|extended]] Lyman-[[a/_alpha|Alpha]] [[b/_blob|blob]] is a [[h/_huge|huge]] [[b/_body|body]] of [[g/_gas|gas]] that [[m/_may|may]] be the precursor to a [[g/_galaxy|galaxy]].**
+- **In [[a/_astronomy|astronomy]], a [[l/_large|large]] [[c/_cloud|cloud]] of [[g/_gas|gas]]. In [[p/_particular|particular]], an [[e/_extended|extended]] Lyman-[[a/_alpha|Alpha]] [[b/_blob|blob]] is a [[h/_huge|huge]] [[b/_body|body]] of [[g/_gas|gas]] that [[m/_may|may]] be the [[p/_precursor|precursor]] to a [[g/_galaxy|galaxy]].**
 - **A [[b/_bubble|bubble]]; a [[b/_bleb|bleb]].**
 - **A small [[f/_freshwater|freshwater]] [[f/_fish|fish]] ([[c/_cottus|Cottus]] bairdii); the [[m/_miller|miller]]'s thumb.**
-- **The partially [[i/_inflated|inflated]] [[a/_air|air]] [[b/_bag|bag]] used in the sport of [[b/_blobbing|blobbing]].**
+- **The [[p/_partially|partially]] [[i/_inflated|inflated]] [[a/_air|air]] [[b/_bag|bag]] used in the sport of [[b/_blobbing|blobbing]].**
 - **A score of zero.**
 ---
 #verb

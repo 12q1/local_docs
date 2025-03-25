@@ -3,7 +3,7 @@
 #noun
 - **A [[f/_fatty|fatty]] [[l/_layer|layer]] of [[a/_adipose|adipose]] tissue [[f/_found|found]] [[i/_immediately|immediately]] [[b/_beneath|beneath]] the [[e/_epidermis|epidermis]].**
 - **[[f/_fatty|Fatty]] tissue.**
-- **The thick [[c/_coat|coat]] of [[f/_fat|fat]] worn by [[m/_many|many]] [[a/_arctic|Arctic]] [[a/_animals|animals]], such as sea [[l/_lions|lions]], and [[a/_antarctic|Antarctic]] [[a/_animals|animals]], such as penguins; used to [[i/_insulate|insulate]] warmth in the [[a/_animal|animal]]'s [[b/_body|body]].**
+- **The thick [[c/_coat|coat]] of [[f/_fat|fat]] worn by [[m/_many|many]] [[a/_arctic|Arctic]] [[a/_animals|animals]], such as sea [[l/_lions|lions]], and [[a/_antarctic|Antarctic]] [[a/_animals|animals]], such as [[p/_penguins|penguins]]; used to [[i/_insulate|insulate]] warmth in the [[a/_animal|animal]]'s [[b/_body|body]].**
 - **A [[b/_bubble|bubble]].**
 ---
 ### Synonyms

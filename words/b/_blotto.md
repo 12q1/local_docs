@@ -1,7 +1,7 @@
 # Blotto
 ---
 #noun
-- **A person who is (very) [[d/_drunk|drunk]] or [[i/_intoxicated|intoxicated]].**
+- **A [[p/_person|person]] who is (very) [[d/_drunk|drunk]] or [[i/_intoxicated|intoxicated]].**
 - **An [[a/_artwork|artwork]] [[c/_created|created]] using [[b/_blots|blots]] of [[i/_ink|ink]] or [[p/_paint|paint]].**
 ---
 #verb

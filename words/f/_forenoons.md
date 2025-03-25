@@ -1,10 +1,10 @@
 # Forenoons
 ---
 #noun
-- **The part of the [[d/_day|day]] from [[d/_dawn|dawn]] to [[n/_noon|noon]].**
+- **The [[p/_part|part]] of the [[d/_day|day]] from [[d/_dawn|dawn]] to [[n/_noon|noon]].**
 	- _Example: I'll see you tomorrow morning._
-- **The part of the [[d/_day|day]] [[b/_between|between]] [[m/_midnight|midnight]] and [[n/_noon|noon]].**
-- **The [[e/_early|early]] part of [[a/_anything|anything]].**
+- **The [[p/_part|part]] of the [[d/_day|day]] [[b/_between|between]] [[m/_midnight|midnight]] and [[n/_noon|noon]].**
+- **The [[e/_early|early]] [[p/_part|part]] of [[a/_anything|anything]].**
 - **The [[f/_first|first]] [[a/_alcoholic|alcoholic]] [[d/_drink|drink]] of the [[d/_day|day]]; a [[m/_morning|morning]] [[d/_draught|draught]].**
 ---
 ### Synonyms

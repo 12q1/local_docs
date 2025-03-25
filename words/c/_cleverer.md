@@ -2,11 +2,11 @@
 ---
 #adjective
 - **[[n/_nimble|Nimble]] with [[h/_hands|hands]] or [[b/_body|body]]; skillful; [[a/_adept|adept]].**
-- **Resourceful, sometimes to the point of [[c/_cunning|cunning]].**
+- **Resourceful, sometimes to the [[p/_point|point]] of [[c/_cunning|cunning]].**
 	- _Example: clever like a fox_
 - **Smart, [[i/_intelligent|intelligent]], or witty; [[m/_mentally|mentally]] quick or sharp.**
 - **Showing [[i/_inventiveness|inventiveness]] or [[o/_originality|originality]]; witty.**
-- **(of an [[a/_aboriginal|Aboriginal]] [[a/_australian|Australian]]) Possessing [[m/_magical|magical]] [[a/_abilities|abilities]].**
+- **(of an [[a/_aboriginal|Aboriginal]] [[a/_australian|Australian]]) [[p/_possessing|Possessing]] [[m/_magical|magical]] [[a/_abilities|abilities]].**
 - **[[f/_fit|Fit]]; suitable; [[h/_having|having]] propriety.**
 - **Well-shaped; [[h/_handsome|handsome]].**
 - **[[g/_good|Good]]-[[n/_natured|natured]]; [[o/_obliging|obliging]].**

@@ -7,7 +7,7 @@
 - **Something that [[h/_hacks|hacks]]; a tool or [[d/_device|device]] for [[h/_hacking|hacking]].**
 - **A [[f/_fork|fork]]-shaped tool used to [[h/_harvest|harvest]] root vegetables.**
 - **Someone who [[h/_hacks|hacks]].**
-- **[[o/_one|One]] who is [[i/_inexperienced|inexperienced]] or unskilled at a particular [[a/_activity|activity]], [[e/_especially|especially]] a sport such as [[g/_golf|golf]] or tennis.**
+- **[[o/_one|One]] who is [[i/_inexperienced|inexperienced]] or unskilled at a [[p/_particular|particular]] [[a/_activity|activity]], [[e/_especially|especially]] a sport such as [[g/_golf|golf]] or tennis.**
 	- _Example: a tennis hacker_
 - **[[o/_one|One]] who [[o/_operates|operates]] a taxicab**
 ---

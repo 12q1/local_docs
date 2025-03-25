@@ -18,8 +18,8 @@
 - **To [[l/_lead|lead]] (soldiers) as a [[g/_general|general]].**
 ---
 #adjective
-- **[[i/_including|Including]] or [[i/_involving|involving]] [[e/_every|every]] part or [[m/_member|member]] of a [[g/_given|given]] or [[i/_implied|implied]] [[e/_entity|entity]], whole [[e/_etc|etc]].; as [[o/_opposed|opposed]] to specific or particular.**
-- **(sometimes postpositive) [[a/_applied|Applied]] to a person (as a postmodifier or a [[n/_normal|normal]] preceding [[a/_adjective|adjective]]) to [[i/_indicate|indicate]] supreme rank, in [[c/_civil|civil]] or [[m/_military|military]] titles, and [[l/_later|later]] in [[o/_other|other]] terms; pre-[[e/_eminent|eminent]].**
+- **[[i/_including|Including]] or [[i/_involving|involving]] [[e/_every|every]] [[p/_part|part]] or [[m/_member|member]] of a [[g/_given|given]] or [[i/_implied|implied]] [[e/_entity|entity]], whole [[e/_etc|etc]].; as [[o/_opposed|opposed]] to specific or [[p/_particular|particular]].**
+- **(sometimes [[p/_postpositive|postpositive]]) [[a/_applied|Applied]] to a [[p/_person|person]] (as a postmodifier or a [[n/_normal|normal]] [[p/_preceding|preceding]] [[a/_adjective|adjective]]) to [[i/_indicate|indicate]] supreme rank, in [[c/_civil|civil]] or [[m/_military|military]] titles, and [[l/_later|later]] in [[o/_other|other]] terms; [[p/_pre|pre]]-[[e/_eminent|eminent]].**
 - **Prevalent or widespread [[a/_among|among]] a [[g/_given|given]] [[c/_class|class]] or [[a/_area|area]]; [[c/_common|common]], usual.**
 - **Not [[l/_limited|limited]] in use or [[a/_application|application]]; [[a/_applicable|applicable]] to the whole or [[e/_every|every]] [[m/_member|member]] of a [[c/_class|class]] or [[c/_category|category]].**
 - **[[g/_giving|Giving]] or [[c/_consisting|consisting]] of [[o/_only|only]] the [[m/_most|most]] [[i/_important|important]] [[a/_aspects|aspects]] of something, [[i/_ignoring|ignoring]] [[m/_minor|minor]] [[d/_details|details]]; [[i/_indefinite|indefinite]].**

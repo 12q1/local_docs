@@ -1,7 +1,7 @@
 # Chining
 ---
 #verb
-- **To [[c/_cut|cut]] through the [[b/_backbone|backbone]] of; to [[c/_cut|cut]] [[i/_into|into]] [[c/_chine|chine]] pieces.**
+- **To [[c/_cut|cut]] through the [[b/_backbone|backbone]] of; to [[c/_cut|cut]] [[i/_into|into]] [[c/_chine|chine]] [[p/_pieces|pieces]].**
 - **To [[c/_chamfer|chamfer]] the [[e/_ends|ends]] of a stave and [[f/_form|form]] the [[c/_chine|chine]].**
 ---
 #verb

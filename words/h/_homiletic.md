@@ -2,6 +2,6 @@
 ---
 #adjective
 - **Of or relating to a [[h/_homily|homily]], or to [[h/_homiletics|homiletics]].**
-- **Preachy.**
+- **[[p/_preachy|Preachy]].**
 ---
 ---

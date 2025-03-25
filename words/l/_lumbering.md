@@ -6,6 +6,6 @@
 ---
 #adjective
 - **[[c/_clumsy|Clumsy]] or [[a/_awkward|awkward]].**
-- **[[h/_heavy|Heavy]], slow and [[l/_laborious|laborious]]; ponderous.**
+- **[[h/_heavy|Heavy]], slow and [[l/_laborious|laborious]]; [[p/_ponderous|ponderous]].**
 ---
 ---

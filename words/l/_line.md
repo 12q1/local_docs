@@ -1,34 +1,34 @@
 # Line
 ---
 #noun
-- **A path through two or [[m/_more|more]] points ([[c/_compare|compare]] ‘segment’); a [[c/_continuous|continuous]] [[m/_mark|mark]], [[i/_including|including]] as [[m/_made|made]] by a pen; [[a/_any|any]] path, [[c/_curved|curved]] or straight.**
+- **A [[p/_path|path]] through two or [[m/_more|more]] [[p/_points|points]] ([[c/_compare|compare]] ‘segment’); a [[c/_continuous|continuous]] [[m/_mark|mark]], [[i/_including|including]] as [[m/_made|made]] by a [[p/_pen|pen]]; [[a/_any|any]] [[p/_path|path]], [[c/_curved|curved]] or straight.**
 	- _Example: The arrow descended in a curved line._
 - **A rope, [[c/_cord|cord]], string, or thread, of [[a/_any|any]] thickness.**
-- **A [[h/_hose|hose]] or pipe, of [[a/_any|any]] size.**
+- **A [[h/_hose|hose]] or [[p/_pipe|pipe]], of [[a/_any|any]] size.**
 	- _Example: a brake line_
-- **[[d/_direction|Direction]], path.**
+- **[[d/_direction|Direction]], [[p/_path|path]].**
 	- _Example: the line of sight_
-- **The wire [[c/_connecting|connecting]] [[o/_one|one]] telegraphic station with [[a/_another|another]], a telephone or [[i/_internet|internet]] [[c/_cable|cable]] [[b/_between|between]] two points: a telephone or [[n/_network|network]] [[c/_connection|connection]].**
+- **The wire [[c/_connecting|connecting]] [[o/_one|one]] telegraphic station with [[a/_another|another]], a telephone or [[i/_internet|internet]] [[c/_cable|cable]] [[b/_between|between]] two [[p/_points|points]]: a telephone or [[n/_network|network]] [[c/_connection|connection]].**
 	- _Example: I tried to make a call, but the line was dead._
 - **A [[c/_clothesline|clothesline]].**
 - **A [[l/_letter|letter]], a written [[f/_form|form]] of [[c/_communication|communication]].**
 	- _Example: Drop me a line._
 - **A [[c/_connected|connected]] series of public [[c/_conveyances|conveyances]], as a roadbed or railway track; and [[h/_hence|hence]], an [[e/_established|established]] [[a/_arrangement|arrangement]] for [[f/_forwarding|forwarding]] [[m/_merchandise|merchandise]], [[e/_etc|etc]].**
 	- _Example: a line of stages_
-- **A trench or rampart, or the [[n/_non|non]]-physical [[d/_demarcation|demarcation]] of the [[e/_extent|extent]] of the territory [[o/_occupied|occupied]] by specified [[f/_forces|forces]].**
+- **A trench or rampart, or the [[n/_non|non]]-[[p/_physical|physical]] [[d/_demarcation|demarcation]] of the [[e/_extent|extent]] of the territory [[o/_occupied|occupied]] by specified [[f/_forces|forces]].**
 - **The [[e/_exterior|exterior]] [[l/_limit|limit]] of a [[f/_figure|figure]] or territory: a [[b/_boundary|boundary]], [[c/_contour|contour]], or [[o/_outline|outline]]; a [[d/_demarcation|demarcation]].**
 - **A [[l/_long|long]] tape or ribbon [[m/_marked|marked]] with units for [[m/_measuring|measuring]]; a tape [[m/_measure|measure]].**
 - **A [[m/_measuring|measuring]] [[l/_line|line]] or [[c/_cord|cord]].**
-- **That which was [[m/_measured|measured]] by a [[l/_line|line]], such as a [[f/_field|field]] or [[a/_any|any]] piece of [[l/_land|land]] set [[a/_apart|apart]]; [[h/_hence|hence]], [[a/_allotted|allotted]] place of [[a/_abode|abode]].**
+- **That which was [[m/_measured|measured]] by a [[l/_line|line]], such as a [[f/_field|field]] or [[a/_any|any]] [[p/_piece|piece]] of [[l/_land|land]] set [[a/_apart|apart]]; [[h/_hence|hence]], [[a/_allotted|allotted]] [[p/_place|place]] of [[a/_abode|abode]].**
 - **A threadlike [[c/_crease|crease]] or wrinkle [[m/_marking|marking]] the [[f/_face|face]], [[h/_hand|hand]], or [[b/_body|body]]; [[h/_hence|hence]], a [[c/_characteristic|characteristic]] [[m/_mark|mark]].**
 - **[[l/_lineament|Lineament]]; [[f/_feature|feature]]; [[f/_figure|figure]] (of [[o/_one|one]]'s [[b/_body|body]]).**
-- **A [[m/_more|more]]-or-[[l/_less|less]] straight sequence of people, [[o/_objects|objects]], [[e/_etc|etc]]., [[e/_either|either]] [[a/_arranged|arranged]] as a queue or [[c/_column|column]] and [[o/_often|often]] waiting to be processed or [[d/_dealt|dealt]] with, or [[a/_arranged|arranged]] [[a/_abreast|abreast]] of [[o/_one|one]] [[a/_another|another]] in a row (and [[c/_contrasted|contrasted]] with a [[c/_column|column]]), as in a [[m/_military|military]] [[f/_formation|formation]].**
+- **A [[m/_more|more]]-or-[[l/_less|less]] straight sequence of [[p/_people|people]], [[o/_objects|objects]], [[e/_etc|etc]]., [[e/_either|either]] [[a/_arranged|arranged]] as a queue or [[c/_column|column]] and [[o/_often|often]] waiting to be processed or [[d/_dealt|dealt]] with, or [[a/_arranged|arranged]] [[a/_abreast|abreast]] of [[o/_one|one]] [[a/_another|another]] in a row (and [[c/_contrasted|contrasted]] with a [[c/_column|column]]), as in a [[m/_military|military]] [[f/_formation|formation]].**
 	- _Example: The line forms on the right._
 - **The regular [[i/_infantry|infantry]] of an [[a/_army|army]], as [[d/_distinguished|distinguished]] from [[m/_militia|militia]], [[g/_guards|guards]], volunteer [[c/_corps|corps]], [[c/_cavalry|cavalry]], [[a/_artillery|artillery]] [[e/_etc|etc]].**
-- **A series or succession of [[a/_ancestors|ancestors]] or [[d/_descendants|descendants]] of a [[g/_given|given]] person; a [[f/_family|family]] or race; [[c/_compare|compare]] [[l/_lineage|lineage]].**
+- **A series or succession of [[a/_ancestors|ancestors]] or [[d/_descendants|descendants]] of a [[g/_given|given]] [[p/_person|person]]; a [[f/_family|family]] or race; [[c/_compare|compare]] [[l/_lineage|lineage]].**
 - **A small [[a/_amount|amount]] of text. Specifically:**
-- **[[c/_course|Course]] of [[c/_conduct|conduct]], thought, [[o/_occupation|occupation]], or policy; [[m/_method|method]] of [[a/_argument|argument]]; [[d/_department|department]] of [[i/_industry|industry]], trade, or [[i/_intellectual|intellectual]] [[a/_activity|activity]].**
-- **The [[o/_official|official]], stated position (or set of positions) of an [[i/_individual|individual]] or [[g/_group|group]], particularly a political or religious [[f/_faction|faction]].**
+- **[[c/_course|Course]] of [[c/_conduct|conduct]], thought, [[o/_occupation|occupation]], or [[p/_policy|policy]]; [[m/_method|method]] of [[a/_argument|argument]]; [[d/_department|department]] of [[i/_industry|industry]], trade, or [[i/_intellectual|intellectual]] [[a/_activity|activity]].**
+- **The [[o/_official|official]], stated [[p/_position|position]] (or set of [[p/_positions|positions]]) of an [[i/_individual|individual]] or [[g/_group|group]], [[p/_particularly|particularly]] a [[p/_political|political]] or religious [[f/_faction|faction]].**
 	- _Example: Remember, your answers must match the party line._
 - **A set of products or services sold by a [[b/_business|business]], or by [[e/_extension|extension]], the [[b/_business|business]] [[i/_itself|itself]].**
 	- _Example: How many buses does the line have?_
@@ -36,28 +36,28 @@
 - **A [[m/_measure|measure]] of [[l/_length|length]]:**
 - **A [[m/_maxwell|maxwell]], a unit of [[m/_magnetic|magnetic]] [[f/_flux|flux]].**
 - **(1800s, with "the") The [[b/_batter|batter]]’s [[b/_box|box]].**
-- **The position in which the [[f/_fencers|fencers]] [[h/_hold|hold]] their swords.**
-- **Proper relative position or [[a/_adjustment|adjustment]] (of parts, not as to [[d/_design|design]] or proportion, but with reference to smooth working).**
+- **The [[p/_position|position]] in which the [[f/_fencers|fencers]] [[h/_hold|hold]] their swords.**
+- **Proper relative [[p/_position|position]] or [[a/_adjustment|adjustment]] (of [[p/_parts|parts]], not as to [[d/_design|design]] or proportion, but with reference to smooth working).**
 	- _Example: the engine is in line / out of line_
-- **A small path-shaped portion or serving of a powdery [[i/_illegal|illegal]] [[d/_drug|drug]], [[e/_especially|especially]] [[c/_cocaine|cocaine]].**
+- **A small [[p/_path|path]]-shaped [[p/_portion|portion]] or serving of a [[p/_powdery|powdery]] [[i/_illegal|illegal]] [[d/_drug|drug]], [[e/_especially|especially]] [[c/_cocaine|cocaine]].**
 - **[[i/_instruction|Instruction]]; [[d/_doctrine|doctrine]].**
-- **Population of [[c/_cells|cells]] [[d/_derived|derived]] from a single [[c/_cell|cell]] and [[c/_containing|containing]] the same [[g/_genetic|genetic]] [[m/_makeup|makeup]].**
-- **(perfusion [[l/_line|line]]) a set [[c/_composed|composed]] of a spike, a [[d/_drip|drip]] [[c/_chamber|chamber]], a [[c/_clamp|clamp]], a [[y/_y|Y]]-[[i/_injection|injection]] site, a three-way stopcock and a [[c/_catheter|catheter]].**
-- **A [[g/_group|group]] of [[f/_forwards|forwards]] that play together.**
+- **[[p/_population|Population]] of [[c/_cells|cells]] [[d/_derived|derived]] from a single [[c/_cell|cell]] and [[c/_containing|containing]] the same [[g/_genetic|genetic]] [[m/_makeup|makeup]].**
+- **([[p/_perfusion|perfusion]] [[l/_line|line]]) a set [[c/_composed|composed]] of a spike, a [[d/_drip|drip]] [[c/_chamber|chamber]], a [[c/_clamp|clamp]], a [[y/_y|Y]]-[[i/_injection|injection]] site, a three-way stopcock and a [[c/_catheter|catheter]].**
+- **A [[g/_group|group]] of [[f/_forwards|forwards]] that [[p/_play|play]] together.**
 - **A vascular [[c/_catheter|catheter]].**
 	- _Example: line sepsis_
 ---
 ### Synonyms
 - [[e/_epistle|epistle]], [[l/_letter|letter]], [[n/_note|note]], [[l/_lineup|lineup]], [[q/_queue|queue]]
 #verb
-- **To place ([[o/_objects|objects]]) [[i/_into|into]] a [[l/_line|line]] (usually used with "up"); to [[f/_form|form]] [[i/_into|into]] a [[l/_line|line]]; to [[a/_align|align]].**
+- **To [[p/_place|place]] ([[o/_objects|objects]]) [[i/_into|into]] a [[l/_line|line]] (usually used with "up"); to [[f/_form|form]] [[i/_into|into]] a [[l/_line|line]]; to [[a/_align|align]].**
 	- _Example: to line troops_
-- **To place persons or things [[a/_along|along]] the side of for security or [[d/_defense|defense]]; to strengthen by [[a/_adding|adding]]; to [[f/_fortify|fortify]].**
+- **To [[p/_place|place]] [[p/_persons|persons]] or things [[a/_along|along]] the side of for security or [[d/_defense|defense]]; to strengthen by [[a/_adding|adding]]; to [[f/_fortify|fortify]].**
 	- _Example: to line works with soldiers_
 - **To [[f/_form|form]] a [[l/_line|line]] [[a/_along|along]].**
 - **To [[m/_mark|mark]] with a [[l/_line|line]] or [[l/_lines|lines]], to [[c/_cover|cover]] with [[l/_lines|lines]].**
 	- _Example: to line a copy book_
-- **To represent by [[l/_lines|lines]]; to [[d/_delineate|delineate]]; to portray.**
+- **To represent by [[l/_lines|lines]]; to [[d/_delineate|delineate]]; to [[p/_portray|portray]].**
 - **To read or repeat [[l/_line|line]] by [[l/_line|line]].**
 	- _Example: to line out a hymn_
 - **To [[h/_hit|hit]] a [[l/_line|line]] [[d/_drive|drive]]; to [[h/_hit|hit]] a [[l/_line|line]] [[d/_drive|drive]] which is [[c/_caught|caught]] for an [[o/_out|out]]. [[c/_compare|Compare]] [[f/_fly|fly]] and [[g/_ground|ground]].**

@@ -5,7 +5,7 @@
 	- _Example: She left with him; he must be a true mack._
 ---
 #verb
-- **To [[a/_act|act]] as pimp; to [[p/_pander|pander]].**
+- **To [[a/_act|act]] as [[p/_pimp|pimp]]; to [[p/_pander|pander]].**
 - **To seduce or [[f/_flirt|flirt]] with.**
 ---
 ### Synonyms

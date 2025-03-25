@@ -1,6 +1,6 @@
 # Etiologic
 ---
 #adjective
-- **Of or pertaining to an [[a/_aetiology|aetiology]].**
+- **Of or [[p/_pertaining|pertaining]] to an [[a/_aetiology|aetiology]].**
 ---
 ---

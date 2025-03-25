@@ -1,7 +1,7 @@
 # Crappy
 ---
 #adjective
-- **([[m/_mildly|mildly]]) Of very poor quality; unpleasant; [[d/_distasteful|distasteful]].**
+- **([[m/_mildly|mildly]]) Of very [[p/_poor|poor]] quality; unpleasant; [[d/_distasteful|distasteful]].**
 	- _Example: That is such a crappy car._
 - **([[m/_mildly|mildly]], [[e/_especially|especially]] with "[[f/_feel|feel]]") [[b/_bad|Bad]], sick, or [[d/_depressed|depressed]].**
 	- _Example: I'm feeling really crappy - I think I need some fresh air._

@@ -3,11 +3,11 @@
 #noun
 - **[[m/_meat|Meat]] from the shoulder of a [[c/_cow|cow]] or [[o/_other|other]] [[a/_animal|animal]].**
 - **[[f/_food|Food]].**
-- **A [[m/_mechanical|mechanical]] [[d/_device|device]] that [[h/_holds|holds]] an [[o/_object|object]] [[f/_firmly|firmly]] in place, for [[e/_example|example]] [[h/_holding|holding]] a [[d/_drill|drill]] [[b/_bit|bit]] in a [[h/_high|high]]-speed rotating [[d/_drill|drill]] or [[g/_grinder|grinder]].**
+- **A [[m/_mechanical|mechanical]] [[d/_device|device]] that [[h/_holds|holds]] an [[o/_object|object]] [[f/_firmly|firmly]] in [[p/_place|place]], for [[e/_example|example]] [[h/_holding|holding]] a [[d/_drill|drill]] [[b/_bit|bit]] in a [[h/_high|high]]-speed rotating [[d/_drill|drill]] or [[g/_grinder|grinder]].**
 ---
 #verb
-- **To place in a [[c/_chuck|chuck]], or [[h/_hold|hold]] by [[m/_means|means]] of a [[c/_chuck|chuck]], as in turning.**
-- **To [[b/_bore|bore]] or turn (a [[h/_hole|hole]]) in a revolving piece [[h/_held|held]] in a [[c/_chuck|chuck]].**
+- **To [[p/_place|place]] in a [[c/_chuck|chuck]], or [[h/_hold|hold]] by [[m/_means|means]] of a [[c/_chuck|chuck]], as in turning.**
+- **To [[b/_bore|bore]] or turn (a [[h/_hole|hole]]) in a revolving [[p/_piece|piece]] [[h/_held|held]] in a [[c/_chuck|chuck]].**
 ---
 #noun
 - **A [[c/_chicken|chicken]], a [[h/_hen|hen]].**
@@ -25,7 +25,7 @@
 - **A [[c/_casual|casual]] throw.**
 - **A throw, an [[i/_incorrect|incorrect]] [[b/_bowling|bowling]] [[a/_action|action]].**
 - **An [[a/_act|act]] or [[i/_instance|instance]] of vomiting.**
-- **On rhythm [[g/_guitar|guitar]] or [[m/_mandolin|mandolin]] [[e/_etc|etc]]., the [[m/_muting|muting]] of a [[c/_chord|chord]] by [[l/_lifting|lifting]] the [[f/_fretting|fretting]] [[f/_fingers|fingers]] [[i/_immediately|immediately]] [[a/_after|after]] strumming, producing a percussive [[e/_effect|effect]].**
+- **On rhythm [[g/_guitar|guitar]] or [[m/_mandolin|mandolin]] [[e/_etc|etc]]., the [[m/_muting|muting]] of a [[c/_chord|chord]] by [[l/_lifting|lifting]] the [[f/_fretting|fretting]] [[f/_fingers|fingers]] [[i/_immediately|immediately]] [[a/_after|after]] strumming, producing a [[p/_percussive|percussive]] [[e/_effect|effect]].**
 ---
 #verb
 - **To touch or tap [[g/_gently|gently]].**
@@ -40,11 +40,11 @@
 - **To [[l/_leave|leave]]; to [[d/_depart|depart]]; to [[b/_bounce|bounce]].**
 	- _Example: Let's chuck._
 - **To [[c/_chuckle|chuckle]]; to [[l/_laugh|laugh]].**
-- **On rhythm [[g/_guitar|guitar]] or [[m/_mandolin|mandolin]] [[e/_etc|etc]].: to [[m/_mute|mute]] a [[c/_chord|chord]] by [[l/_lifting|lifting]] the [[f/_fretting|fretting]] [[f/_fingers|fingers]] [[i/_immediately|immediately]] [[a/_after|after]] strumming, producing a percussive [[e/_effect|effect]].**
+- **On rhythm [[g/_guitar|guitar]] or [[m/_mandolin|mandolin]] [[e/_etc|etc]].: to [[m/_mute|mute]] a [[c/_chord|chord]] by [[l/_lifting|lifting]] the [[f/_fretting|fretting]] [[f/_fingers|fingers]] [[i/_immediately|immediately]] [[a/_after|after]] strumming, producing a [[p/_percussive|percussive]] [[e/_effect|effect]].**
 ---
 #noun
-- **A small pebble.**
-- **(in the plural) [[m/_money|Money]].**
+- **A small [[p/_pebble|pebble]].**
+- **(in the [[p/_plural|plural]]) [[m/_money|Money]].**
 ---
 ### Synonyms
 - [[c/_chuckie|chuckie]], [[c/_chucky|chucky]], [[c/_chuckiestone|chuckiestone]], [[c/_chuckstone|chuckstone]]

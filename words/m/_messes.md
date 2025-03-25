@@ -7,7 +7,7 @@
 	- _Example: My boss dumped a whole mess of projects on my desk today._
 - **[[e/_excrement|Excrement]].**
 	- _Example: Parked under a tree, my car was soon covered in birds' mess._
-- **A person in a state of ([[e/_especially|especially]] [[e/_emotional|emotional]]) turmoil or [[d/_disarray|disarray]]; an [[e/_emotional|emotional]] wreck.**
+- **A [[p/_person|person]] in a state of ([[e/_especially|especially]] [[e/_emotional|emotional]]) turmoil or [[d/_disarray|disarray]]; an [[e/_emotional|emotional]] wreck.**
 	- _Example: Between the pain and the depression, I'm a mess._
 ---
 #verb
@@ -20,12 +20,12 @@
 ---
 #noun
 - **[[m/_mass|Mass]]; a [[c/_church|church]] service.**
-- **A quantity of [[f/_food|food]] set on a table at [[o/_one|one]] time; provision of [[f/_food|food]] for a person or party for [[o/_one|one]] [[m/_meal|meal]]; [[a/_also|also]], the [[f/_food|food]] [[g/_given|given]] to an [[a/_animal|animal]] at [[o/_one|one]] time.**
+- **A quantity of [[f/_food|food]] set on a table at [[o/_one|one]] time; provision of [[f/_food|food]] for a [[p/_person|person]] or [[p/_party|party]] for [[o/_one|one]] [[m/_meal|meal]]; [[a/_also|also]], the [[f/_food|food]] [[g/_given|given]] to an [[a/_animal|animal]] at [[o/_one|one]] time.**
 	- _Example: A mess of pottage._
-- **A [[n/_number|number]] of persons who [[e/_eat|eat]] together, and for whom [[f/_food|food]] is prepared in [[c/_common|common]], [[e/_especially|especially]] [[m/_military|military]] personnel who [[e/_eat|eat]] at the same table.**
+- **A [[n/_number|number]] of [[p/_persons|persons]] who [[e/_eat|eat]] together, and for whom [[f/_food|food]] is [[p/_prepared|prepared]] in [[c/_common|common]], [[e/_especially|especially]] [[m/_military|military]] [[p/_personnel|personnel]] who [[e/_eat|eat]] at the same table.**
 	- _Example: the wardroom mess_
 - **A [[b/_building|building]] or room in which [[m/_mess|mess]] is [[e/_eaten|eaten]].**
-- **A set of [[f/_four|four]] (from the [[o/_old|old]] practice of [[d/_dividing|dividing]] [[c/_companies|companies]] [[i/_into|into]] sets of [[f/_four|four]] at [[d/_dinner|dinner]]).**
+- **A set of [[f/_four|four]] (from the [[o/_old|old]] [[p/_practice|practice]] of [[d/_dividing|dividing]] [[c/_companies|companies]] [[i/_into|into]] sets of [[f/_four|four]] at [[d/_dinner|dinner]]).**
 - **The [[m/_milk|milk]] [[g/_given|given]] by a [[c/_cow|cow]] at [[o/_one|one]] [[m/_milking|milking]].**
 ---
 #verb

@@ -9,8 +9,8 @@
 	- _Example: The policeman haunted him, following him everywhere._
 - **To [[l/_live|live]] [[h/_habitually|habitually]]; to stay, to remain.**
 - **To [[a/_accustom|accustom]]; [[h/_habituate|habituate]]; [[m/_make|make]] [[a/_accustomed|accustomed]] to.**
-- **To practise; to [[d/_devote|devote]] [[o/_oneself|oneself]] to.**
-- **To persist in staying or visiting.**
+- **To [[p/_practise|practise]]; to [[d/_devote|devote]] [[o/_oneself|oneself]] to.**
+- **To [[p/_persist|persist]] in staying or visiting.**
 ---
 ### Synonyms
 - [[d/_dwell|dwell]], [[l/_live|live]], [[n/_nag|nag]]

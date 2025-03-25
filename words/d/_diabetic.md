@@ -1,10 +1,10 @@
 # Diabetic
 ---
 #noun
-- **A person who suffers from [[d/_diabetes|diabetes]] [[m/_mellitus|mellitus]].**
+- **A [[p/_person|person]] who suffers from [[d/_diabetes|diabetes]] [[m/_mellitus|mellitus]].**
 ---
 #adjective
-- **Of or pertaining to [[d/_diabetes|diabetes]], [[e/_especially|especially]] [[d/_diabetes|diabetes]] [[m/_mellitus|mellitus]].**
+- **Of or [[p/_pertaining|pertaining]] to [[d/_diabetes|diabetes]], [[e/_especially|especially]] [[d/_diabetes|diabetes]] [[m/_mellitus|mellitus]].**
 - **[[h/_having|Having]] [[d/_diabetes|diabetes]], [[e/_especially|especially]] [[d/_diabetes|diabetes]] [[m/_mellitus|mellitus]].**
 - **Suitable for [[o/_one|one]] [[h/_having|having]] [[d/_diabetes|diabetes]] [[m/_mellitus|mellitus]].**
 ---

@@ -1,19 +1,19 @@
 # Arrows
 ---
 #noun
-- **A projectile [[c/_consisting|consisting]] of a shaft, a point and a tail with stabilizing [[f/_fins|fins]] that is shot from a [[b/_bow|bow]].**
+- **A projectile [[c/_consisting|consisting]] of a shaft, a [[p/_point|point]] and a tail with stabilizing [[f/_fins|fins]] that is shot from a [[b/_bow|bow]].**
 - **A sign or symbol used to [[i/_indicate|indicate]] a [[d/_direction|direction]] ([[e/_e|e]].[[g/_g|g]]. →).**
 - **A [[d/_directed|directed]] [[e/_edge|edge]].**
 - **A [[d/_dart|dart]].**
 - **The -> symbol, which [[h/_has|has]] specific [[m/_meanings|meanings]] in various programming [[l/_languages|languages]].**
-- **The [[i/_inflorescence|inflorescence]] or tassel of a [[m/_mature|mature]] sugar [[c/_cane|cane]] plant.**
+- **The [[i/_inflorescence|inflorescence]] or tassel of a [[m/_mature|mature]] sugar [[c/_cane|cane]] [[p/_plant|plant]].**
 ---
 ### Synonyms
 - [[a/_arc|arc]], [[s/_streal|streal]]
 #verb
 - **To [[m/_move|move]] swiftly and [[d/_directly|directly]] ([[l/_like|like]] an [[a/_arrow|arrow]])**
 - **To [[l/_let|let]] [[f/_fly|fly]] swiftly and [[d/_directly|directly]]**
-- **(of a sugar [[c/_cane|cane]] plant) To [[d/_develop|develop]] an [[i/_inflorescence|inflorescence]].**
+- **(of a sugar [[c/_cane|cane]] [[p/_plant|plant]]) To [[d/_develop|develop]] an [[i/_inflorescence|inflorescence]].**
 - **To [[n/_navigate|navigate]] using the [[a/_arrow|arrow]] [[k/_keys|keys]].**
 	- _Example: Arrow left until you reach the start of the text you want to delete._
 ---

@@ -17,8 +17,8 @@
 - **(of a [[m/_machine|machine]]) To stop working, to [[b/_break|break]] [[d/_down|down]].**
 	- _Example: My car died in the middle of the freeway this morning._
 - **(of a [[c/_computer|computer]] program) To [[a/_abort|abort]], to terminate (as an [[e/_error|error]] [[c/_condition|condition]]).**
-- **To perish; to [[c/_cease|cease]] to [[e/_exist|exist]]; to [[b/_become|become]] [[l/_lost|lost]] or [[e/_extinct|extinct]].**
-- **To sink; to [[f/_faint|faint]]; to pine; to [[l/_languish|languish]], with weakness, [[d/_discouragement|discouragement]], [[l/_love|love]], [[e/_etc|etc]].**
+- **To [[p/_perish|perish]]; to [[c/_cease|cease]] to [[e/_exist|exist]]; to [[b/_become|become]] [[l/_lost|lost]] or [[e/_extinct|extinct]].**
+- **To sink; to [[f/_faint|faint]]; to [[p/_pine|pine]]; to [[l/_languish|languish]], with weakness, [[d/_discouragement|discouragement]], [[l/_love|love]], [[e/_etc|etc]].**
 - **([[o/_often|often]] with "to") To [[b/_become|become]] [[i/_indifferent|indifferent]]; to [[c/_cease|cease]] to be subject.**
 	- _Example: to die to pleasure or to sin_
 - **To [[d/_disappear|disappear]] [[g/_gradually|gradually]] in [[a/_another|another]] surface, as where [[m/_mouldings|mouldings]] are [[l/_lost|lost]] in a sloped or [[c/_curved|curved]] [[f/_face|face]].**
@@ -29,12 +29,12 @@
 ### Synonyms
 - [[e/_expire|expire]], [[p/_pass|pass]], [[s/_stiff|stiff]], [[s/_succumb|succumb]]
 #noun
-- **The [[c/_cubical|cubical]] part of a pedestal; a plinth.**
+- **The [[c/_cubical|cubical]] [[p/_part|part]] of a [[p/_pedestal|pedestal]]; a [[p/_plinth|plinth]].**
 - **A [[d/_device|device]] for [[c/_cutting|cutting]] [[i/_into|into]] a specified shape.**
 - **A [[d/_device|device]] used to [[c/_cut|cut]] an [[e/_external|external]] screw thread. ([[i/_internal|Internal]] screw threads are [[c/_cut|cut]] with a tap.)**
-- **A [[m/_mold|mold]] for [[f/_forming|forming]] [[m/_metal|metal]] or plastic [[o/_objects|objects]].**
+- **A [[m/_mold|mold]] for [[f/_forming|forming]] [[m/_metal|metal]] or [[p/_plastic|plastic]] [[o/_objects|objects]].**
 - **An [[e/_embossed|embossed]] [[d/_device|device]] used in stamping [[c/_coins|coins]] and [[m/_medals|medals]].**
-- **(plural [[a/_also|also]] [[d/_dice|dice]]) An [[o/_oblong|oblong]] [[c/_chip|chip]] [[f/_fractured|fractured]] from a semiconductor wafer [[e/_engineered|engineered]] to perform as an [[i/_independent|independent]] [[d/_device|device]] or [[i/_integrated|integrated]] [[c/_circuit|circuit]].**
+- **([[p/_plural|plural]] [[a/_also|also]] [[d/_dice|dice]]) An [[o/_oblong|oblong]] [[c/_chip|chip]] [[f/_fractured|fractured]] from a semiconductor wafer [[e/_engineered|engineered]] to [[p/_perform|perform]] as an [[i/_independent|independent]] [[d/_device|device]] or [[i/_integrated|integrated]] [[c/_circuit|circuit]].**
 - **[[a/_any|Any]] small [[c/_cubical|cubical]] or square [[b/_body|body]].**
 ---
 #noun

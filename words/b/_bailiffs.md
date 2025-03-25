@@ -1,9 +1,9 @@
 # Bailiffs
 ---
 #noun
-- **([[l/_law|law]] [[e/_enforcement|enforcement]]) An [[o/_officer|officer]] of the [[c/_court|court]], particularly:**
-- **A public [[a/_administrator|administrator]], particularly:**
-- **A private [[a/_administrator|administrator]], particularly**
+- **([[l/_law|law]] [[e/_enforcement|enforcement]]) An [[o/_officer|officer]] of the [[c/_court|court]], [[p/_particularly|particularly]]:**
+- **A public [[a/_administrator|administrator]], [[p/_particularly|particularly]]:**
+- **A private [[a/_administrator|administrator]], [[p/_particularly|particularly]]**
 - **[[a/_any|Any]] [[d/_debt|debt]] [[c/_collector|collector]], regardless of [[h/_his|his]] or [[h/_her|her]] [[o/_official|official]] status.**
 ---
 ### Synonyms

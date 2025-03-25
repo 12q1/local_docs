@@ -5,7 +5,7 @@
 ---
 #adjective
 - **Not [[b/_binary|binary]].**
-- **(transgender) [[h/_having|Having]] or pertaining to a [[g/_gender|gender]] [[i/_identity|identity]] not represented by the [[g/_gender|gender]] [[b/_binary|binary]]; not [[e/_exclusively|exclusively]] [[m/_male|male]] or [[f/_female|female]]; genderqueer.**
+- **(transgender) [[h/_having|Having]] or [[p/_pertaining|pertaining]] to a [[g/_gender|gender]] [[i/_identity|identity]] not represented by the [[g/_gender|gender]] [[b/_binary|binary]]; not [[e/_exclusively|exclusively]] [[m/_male|male]] or [[f/_female|female]]; genderqueer.**
 ---
 ### Synonyms
 - [[g/_genderqueer|genderqueer]]

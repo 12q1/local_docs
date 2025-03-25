@@ -1,7 +1,7 @@
 # Inappropriate
 ---
 #adjective
-- **Not [[a/_appropriate|appropriate]]; not suitable for the situation, time, or place.**
+- **Not [[a/_appropriate|appropriate]]; not suitable for the situation, time, or [[p/_place|place]].**
 	- _Example: It is inappropriate to burp at a formal dinner._
 - **[[i/_improper|Improper]]; [[a/_adult|adult]]; sexual.**
 	- _Example: kids saying inappropriate things_

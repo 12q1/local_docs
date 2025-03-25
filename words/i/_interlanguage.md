@@ -5,7 +5,7 @@
 	- _Example: Trasyanka and Surzhyk are interlanguages: a Belarusian–Russian and a Ukrainian-Russian mixed language._
 - **A [[l/_lingua|lingua]] [[f/_franca|franca]], a [[c/_common|common]] [[l/_language|language]] used by speakers of [[d/_different|different]] [[l/_languages|languages]].**
 	- _Example: Latin used to be the European interlanguage. Currently English widely serves this purpose._
-- **A pidgin or [[c/_creole|creole]].**
+- **A [[p/_pidgin|pidgin]] or [[c/_creole|creole]].**
 ---
 ### Synonyms
 - [[k/_koine|koine]]

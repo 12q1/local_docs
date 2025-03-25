@@ -1,9 +1,9 @@
 # Doodles
 ---
 #noun
-- **A [[f/_fool|fool]], a simpleton, a [[m/_mindless|mindless]] person.**
+- **A [[f/_fool|fool]], a simpleton, a [[m/_mindless|mindless]] [[p/_person|person]].**
 - **A small [[m/_mindless|mindless]] sketch, [[e/_etc|etc]].**
-- **(sometimes [[c/_childish|childish]]) Penis.**
+- **(sometimes [[c/_childish|childish]]) [[p/_penis|Penis]].**
 ---
 #verb
 - **To [[d/_draw|draw]] or scribble [[a/_aimlessly|aimlessly]].**
@@ -11,6 +11,6 @@
 - **To [[d/_drone|drone]] [[l/_like|like]] a [[b/_bagpipe|bagpipe]].**
 ---
 #noun
-- **[[a/_any|Any]] [[c/_crossbreed|crossbreed]] of a poodle with a [[d/_different|different]] [[b/_breed|breed]] of [[d/_dog|dog]].**
+- **[[a/_any|Any]] [[c/_crossbreed|crossbreed]] of a [[p/_poodle|poodle]] with a [[d/_different|different]] [[b/_breed|breed]] of [[d/_dog|dog]].**
 ---
 ---

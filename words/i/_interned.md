@@ -6,7 +6,7 @@
 - **To [[i/_internalize|internalize]].**
 ---
 #verb
-- **To work as an [[i/_intern|intern]]. Usually with [[l/_little|little]] or [[n/_no|no]] [[p/_pay|pay]] or [[o/_other|other]] [[l/_legal|legal]] prerogatives of [[e/_employment|employment]], for the purpose of [[f/_furthering|furthering]] a program of [[e/_education|education]].**
+- **To work as an [[i/_intern|intern]]. Usually with [[l/_little|little]] or [[n/_no|no]] [[p/_pay|pay]] or [[o/_other|other]] [[l/_legal|legal]] [[p/_prerogatives|prerogatives]] of [[e/_employment|employment]], for the purpose of [[f/_furthering|furthering]] a program of [[e/_education|education]].**
 	- _Example: I'll be interning at Universal Studios this summer._
 ---
 ---

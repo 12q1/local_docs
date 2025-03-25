@@ -1,6 +1,6 @@
 # Bute
 ---
 #noun
-- **Phenylbutazone.**
+- **[[p/_phenylbutazone|Phenylbutazone]].**
 ---
 ---

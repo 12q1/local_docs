@@ -1,6 +1,6 @@
 # Exilic
 ---
 #adjective
-- **Of or pertaining to [[e/_exile|exile]].**
+- **Of or [[p/_pertaining|pertaining]] to [[e/_exile|exile]].**
 ---
 ---

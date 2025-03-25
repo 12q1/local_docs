@@ -11,17 +11,17 @@
 	- _Example: Secretaries attend to correspondence._
 - **To wait upon as a servant [[e/_etc|etc]].; to [[a/_accompany|accompany]] to [[a/_assist|assist]] (someone).**
 	- _Example: Servants attend the king day and night._
-- **To be present at (an [[e/_event|event]] or place) in [[o/_order|order]] to take part in some [[a/_action|action]] or proceedings; to regularly [[g/_go|go]] to (an [[e/_event|event]] or place).**
+- **To be [[p/_present|present]] at (an [[e/_event|event]] or [[p/_place|place]]) in [[o/_order|order]] to take [[p/_part|part]] in some [[a/_action|action]] or proceedings; to regularly [[g/_go|go]] to (an [[e/_event|event]] or [[p/_place|place]]).**
 	- _Example: Children must attend primary school._
-- **To [[g/_go|go]] to (a place) for some purpose (with at).**
-- **To be present with; to [[a/_accompany|accompany]]; to be united or [[c/_consequent|consequent]] to.**
+- **To [[g/_go|go]] to (a [[p/_place|place]]) for some purpose (with at).**
+- **To be [[p/_present|present]] with; to [[a/_accompany|accompany]]; to be united or [[c/_consequent|consequent]] to.**
 	- _Example: a measure attended with ill effects_
 - **To wait for; to [[a/_await|await]]; to remain, [[a/_abide|abide]], or be in store for.**
 ---
 ### Synonyms
 - [[n/_notice|notice]], [[b/_behear|behear]], [[h/_heed|heed]], [[m/_mark|mark]], [[n/_notice|notice]], [[b/_bestand|bestand]], [[s/_serve|serve]]
 #noun
-- **A physician on the staff of a [[h/_hospital|hospital]], [[e/_especially|especially]] the principal [[o/_one|one]] that supervises a patient's [[c/_care|care]].**
+- **A [[p/_physician|physician]] on the staff of a [[h/_hospital|hospital]], [[e/_especially|especially]] the principal [[o/_one|one]] that supervises a [[p/_patient|patient]]'s [[c/_care|care]].**
 ---
 #adjective
 - **That [[a/_attend|attend]] or [[a/_attends|attends]]; that is or are in [[a/_attendance|attendance]]; [[a/_attendant|attendant]].**

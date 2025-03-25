@@ -1,7 +1,7 @@
 # Foamy
 ---
 #noun
-- **An [[i/_inexpensive|inexpensive]] surfboard [[m/_made|made]] of [[e/_extruded|extruded]] polystyrene [[f/_foam|foam]]**
+- **An [[i/_inexpensive|inexpensive]] surfboard [[m/_made|made]] of [[e/_extruded|extruded]] [[p/_polystyrene|polystyrene]] [[f/_foam|foam]]**
 	- _Example: A young surfer learning on a foamie Surfing: Skills - Training - Techniques_
 ---
 #adjective

@@ -5,7 +5,7 @@
 - **A [[l/_large|large]] [[f/_flightless|flightless]] [[b/_bird|bird]] [[n/_native|native]] to [[a/_australia|Australia]], Dromaius novaehollandiae.**
 ---
 #noun
-- **A person or thing that [[e/_emulates|emulates]].**
-- **A piece of software or [[h/_hardware|hardware]] that simulates [[a/_another|another]] system.**
+- **A [[p/_person|person]] or thing that [[e/_emulates|emulates]].**
+- **A [[p/_piece|piece]] of software or [[h/_hardware|hardware]] that simulates [[a/_another|another]] system.**
 ---
 ---

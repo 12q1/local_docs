@@ -1,13 +1,13 @@
 # Bowing
 ---
 #verb
-- **To play [[m/_music|music]] on (a stringed) [[i/_instrument|instrument]] using a [[b/_bow|bow]].**
+- **To [[p/_play|play]] [[m/_music|music]] on (a stringed) [[i/_instrument|instrument]] using a [[b/_bow|bow]].**
 	- _Example: The musician bowed his violin expertly._
 - **To [[b/_become|become]] [[b/_bent|bent]] or [[c/_curved|curved]].**
 	- _Example: The shelf bowed under the weight of the books._
 - **To [[m/_make|make]] something [[b/_bend|bend]] or [[c/_curve|curve]].**
-- **To [[e/_exercise|exercise]] powerful or [[c/_controlling|controlling]] [[i/_influence|influence]] [[o/_over|over]]; to [[b/_bend|bend]], [[f/_figuratively|figuratively]]; to turn; to [[i/_incline|incline]].**
-- **To premiere.**
+- **To [[e/_exercise|exercise]] [[p/_powerful|powerful]] or [[c/_controlling|controlling]] [[i/_influence|influence]] [[o/_over|over]]; to [[b/_bend|bend]], [[f/_figuratively|figuratively]]; to turn; to [[i/_incline|incline]].**
+- **To [[p/_premiere|premiere]].**
 	- _Example: Cronenberg’s "Cosmopolis" bows in Cannes this week._
 ---
 #verb

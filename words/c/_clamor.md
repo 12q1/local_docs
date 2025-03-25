@@ -3,7 +3,7 @@
 #noun
 - **A [[g/_great|great]] [[o/_outcry|outcry]] or vociferation; [[l/_loud|loud]] and [[c/_continued|continued]] shouting or [[e/_exclamation|exclamation]].**
 - **[[a/_any|Any]] [[l/_loud|loud]] and [[c/_continued|continued]] [[n/_noise|noise]].**
-- **A [[c/_continued|continued]] public [[e/_expression|expression]], [[o/_often|often]] of [[d/_dissatisfaction|dissatisfaction]] or [[d/_discontent|discontent]]; a popular [[o/_outcry|outcry]].**
+- **A [[c/_continued|continued]] public [[e/_expression|expression]], [[o/_often|often]] of [[d/_dissatisfaction|dissatisfaction]] or [[d/_discontent|discontent]]; a [[p/_popular|popular]] [[o/_outcry|outcry]].**
 ---
 ### Synonyms
 - [[o/_outcry|outcry]], [[t/_tumult|tumult]]

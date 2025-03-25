@@ -1,7 +1,7 @@
 # Imagine
 ---
 #noun
-- **A short fanfic or prompt placing a reader [[i/_insert|insert]] in a [[n/_novel|novel]] scenario with a [[c/_character|character]] or [[c/_celebrity|celebrity]].**
+- **A short fanfic or prompt [[p/_placing|placing]] a reader [[i/_insert|insert]] in a [[n/_novel|novel]] scenario with a [[c/_character|character]] or [[c/_celebrity|celebrity]].**
 ---
 #verb
 - **To [[f/_form|form]] a [[m/_mental|mental]] [[i/_image|image]] of something; to [[e/_envision|envision]] or [[c/_create|create]] something in [[o/_one|one]]'s [[m/_mind|mind]].**

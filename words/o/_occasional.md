@@ -1,7 +1,7 @@
 # Occasional
 ---
 #noun
-- **A person who [[d/_does|does]] something [[o/_only|only]] [[o/_occasionally|occasionally]].**
+- **A [[p/_person|person]] who [[d/_does|does]] something [[o/_only|only]] [[o/_occasionally|occasionally]].**
 ---
 #adjective
 - **[[o/_occurring|Occurring]] or [[a/_appearing|appearing]] [[i/_irregularly|irregularly]] from time to time, but not [[o/_often|often]].**

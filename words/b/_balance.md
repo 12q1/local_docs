@@ -25,7 +25,7 @@
 #verb
 - **To [[b/_bring|bring]] ([[i/_items|items]]) to an [[e/_equipoise|equipoise]], as the scales of a [[b/_balance|balance]] by [[a/_adjusting|adjusting]] the weights.**
 - **To [[m/_make|make]] ([[c/_concepts|concepts]]) [[a/_agree|agree]].**
-- **To [[h/_hold|hold]] (an [[o/_object|object]] or [[o/_objects|objects]]) precariously; to support on a [[n/_narrow|narrow]] [[b/_base|base]], so as to [[k/_keep|keep]] from [[f/_falling|falling]].**
+- **To [[h/_hold|hold]] (an [[o/_object|object]] or [[o/_objects|objects]]) [[p/_precariously|precariously]]; to support on a [[n/_narrow|narrow]] [[b/_base|base]], so as to [[k/_keep|keep]] from [[f/_falling|falling]].**
 	- _Example: I balanced my mug of coffee on my knee._
 - **To [[c/_compare|compare]] in relative [[f/_force|force]], [[i/_importance|importance]], value, [[e/_etc|etc]].; to [[e/_estimate|estimate]].**
 - **([[d/_dancing|dancing]]) To [[m/_move|move]] toward, and then [[b/_back|back]] from, reciprocally.**

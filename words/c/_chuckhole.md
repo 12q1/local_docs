@@ -1,6 +1,6 @@
 # Chuckhole
 ---
 #noun
-- **A pothole.**
+- **A [[p/_pothole|pothole]].**
 ---
 ---

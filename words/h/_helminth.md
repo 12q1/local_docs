@@ -1,6 +1,6 @@
 # Helminth
 ---
 #noun
-- **A parasitic worm; a [[f/_fluke|fluke]], tapeworm, or [[n/_nematode|nematode]].**
+- **A [[p/_parasitic|parasitic]] worm; a [[f/_fluke|fluke]], tapeworm, or [[n/_nematode|nematode]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Makar
 ---
 #noun
-- **A poet writing in Scots.**
+- **A [[p/_poet|poet]] writing in Scots.**
 ---
 ---

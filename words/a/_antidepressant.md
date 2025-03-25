@@ -6,6 +6,6 @@
 ### Antonyms
 - [[d/_depressogenic|depressogenic]]
 #adjective
-- **(pharmaceutical [[e/_effect|effect]]) Preventing or [[c/_counteracting|counteracting]] [[d/_depression|depression]].**
+- **([[p/_pharmaceutical|pharmaceutical]] [[e/_effect|effect]]) Preventing or [[c/_counteracting|counteracting]] [[d/_depression|depression]].**
 ---
 ---

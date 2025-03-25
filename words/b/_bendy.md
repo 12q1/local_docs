@@ -7,7 +7,7 @@
 #adjective
 - **[[h/_having|Having]] the [[a/_ability|ability]] to be [[b/_bent|bent]] [[e/_easily|easily]].**
 	- _Example: Bendy rulers are far more fun than the wooden ones._
-- **Of a person, [[f/_flexible|flexible]]; [[h/_having|having]] the [[a/_ability|ability]] to [[b/_bend|bend]] [[e/_easily|easily]].**
+- **Of a [[p/_person|person]], [[f/_flexible|flexible]]; [[h/_having|having]] the [[a/_ability|ability]] to [[b/_bend|bend]] [[e/_easily|easily]].**
 - **[[c/_containing|Containing]] [[m/_many|many]] [[b/_bends|bends]] and twists.**
 	- _Example: a bendy road_
 - **Of a vehicle, [[a/_articulated|articulated]].**

@@ -1,8 +1,8 @@
 # Couriers
 ---
 #noun
-- **A person who [[l/_looks|looks]] [[a/_after|after]] and [[g/_guides|guides]] tourists**
-- **A person who [[d/_delivers|delivers]] [[m/_messages|messages]]**
+- **A [[p/_person|person]] who [[l/_looks|looks]] [[a/_after|after]] and [[g/_guides|guides]] tourists**
+- **A [[p/_person|person]] who [[d/_delivers|delivers]] [[m/_messages|messages]]**
 - **A [[c/_company|company]] that [[d/_delivers|delivers]] [[m/_messages|messages]]**
 - **A [[c/_company|company]] that transports [[g/_goods|goods]]**
 - **A user who [[e/_earns|earns]] [[a/_access|access]] to a topsite by uploading warez**

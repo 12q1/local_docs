@@ -1,7 +1,7 @@
 # Frill
 ---
 #noun
-- **A strip of pleated [[f/_fabric|fabric]] or paper used as [[d/_decoration|decoration]] or trim.**
+- **A strip of [[p/_pleated|pleated]] [[f/_fabric|fabric]] or [[p/_paper|paper]] used as [[d/_decoration|decoration]] or trim.**
 - **A substance or [[m/_material|material]] on the [[e/_edge|edge]] of something, resembling such a strip of [[f/_fabric|fabric]].**
 - **A wrinkled [[e/_edge|edge]] to a [[f/_film|film]].**
 - **Something [[e/_extraneous|extraneous]] or not [[e/_essential|essential]]; something purely for show or [[e/_effect|effect]]; a [[l/_luxury|luxury]].**
@@ -12,6 +12,6 @@
 #verb
 - **To [[m/_make|make]] [[i/_into|into]] a [[f/_frill|frill]].**
 - **To [[b/_become|become]] wrinkled.**
-- **To provide or [[d/_decorate|decorate]] with a [[f/_frill|frill]] or [[f/_frills|frills]]; to turn [[b/_back|back]] in [[c/_crimped|crimped]] plaits.**
+- **To provide or [[d/_decorate|decorate]] with a [[f/_frill|frill]] or [[f/_frills|frills]]; to turn [[b/_back|back]] in [[c/_crimped|crimped]] [[p/_plaits|plaits]].**
 ---
 ---

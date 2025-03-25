@@ -7,7 +7,7 @@
 ### Synonyms
 - [[f/_former|former]], [[o/_once|once]], [[o/_onetime|onetime]], [[p/_previous|previous]], [[q/_quondam|quondam]]
 #adverb
-- **[[f/_formerly|Formerly]]; in the past.**
+- **[[f/_formerly|Formerly]]; in the [[p/_past|past]].**
 ---
 ### Synonyms
 - [[e/_erewhile|erewhile]]

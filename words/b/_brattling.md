@@ -5,6 +5,6 @@
 ---
 #noun
 - **A rattling or scampering [[n/_noise|noise]].**
-- **(in the plural, Northamptonshire) Loppings from [[f/_felled|felled]] trees.**
+- **(in the [[p/_plural|plural]], Northamptonshire) Loppings from [[f/_felled|felled]] trees.**
 ---
 ---

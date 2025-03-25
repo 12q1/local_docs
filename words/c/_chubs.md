@@ -5,12 +5,12 @@
 - **(by [[e/_extension|extension]]) [[a/_any|Any]] of various vaguely related [[m/_marine|marine]] or [[f/_freshwater|freshwater]] [[f/_fishes|fishes]].**
 ---
 #noun
-- **A [[c/_chubby|chubby]], plump person.**
+- **A [[c/_chubby|chubby]], [[p/_plump|plump]] [[p/_person|person]].**
 - **[[e/_excess|Excess]] [[b/_body|body]] [[f/_fat|fat]].**
-- **An [[e/_erection|erection]] ([[e/_erect|erect]] penis).**
-- **A plastic or [[o/_other|other]] [[f/_flexible|flexible]] [[p/_package|package]] of [[m/_meat|meat]], usually [[g/_ground|ground]] [[m/_meat|meat]] or [[l/_luncheon|luncheon]] [[m/_meat|meat]].**
+- **An [[e/_erection|erection]] ([[e/_erect|erect]] [[p/_penis|penis]]).**
+- **A [[p/_plastic|plastic]] or [[o/_other|other]] [[f/_flexible|flexible]] [[p/_package|package]] of [[m/_meat|meat]], usually [[g/_ground|ground]] [[m/_meat|meat]] or [[l/_luncheon|luncheon]] [[m/_meat|meat]].**
 ---
 #noun
-- **Term of [[a/_address|address]] for a [[f/_fat|fat]] person.**
+- **Term of [[a/_address|address]] for a [[f/_fat|fat]] [[p/_person|person]].**
 ---
 ---

@@ -13,11 +13,11 @@
 - **To tighten [[d/_down|down]].**
 ---
 #noun
-- **A variety of [[a/_auction|auction]] pitch in which a [[d/_draw|draw]] to [[i/_improve|improve]] the [[h/_hand|hand]] is [[a/_added|added]], and the [[f/_five|five]] of trumps ([[c/_called|called]] "right Pedro") and the [[f/_five|five]] of the same [[c/_colour|colour]] ([[c/_called|called]] "[[l/_left|left]] Pedro", and ranking [[b/_between|between]] the [[f/_five|five]] and the [[f/_four|four]] of trumps) are [[e/_each|each]] worth [[f/_five|five]]. [[f/_fifty|Fifty]]-[[o/_one|one]] points [[m/_make|make]] a [[g/_game|game]].**
+- **A variety of [[a/_auction|auction]] [[p/_pitch|pitch]] in which a [[d/_draw|draw]] to [[i/_improve|improve]] the [[h/_hand|hand]] is [[a/_added|added]], and the [[f/_five|five]] of trumps ([[c/_called|called]] "right [[p/_pedro|Pedro]]") and the [[f/_five|five]] of the same [[c/_colour|colour]] ([[c/_called|called]] "[[l/_left|left]] [[p/_pedro|Pedro]]", and ranking [[b/_between|between]] the [[f/_five|five]] and the [[f/_four|four]] of trumps) are [[e/_each|each]] worth [[f/_five|five]]. [[f/_fifty|Fifty]]-[[o/_one|one]] [[p/_points|points]] [[m/_make|make]] a [[g/_game|game]].**
 ---
 ### Synonyms
 - 
 #verb
-- **In the [[g/_game|game]] of [[c/_cinch|cinch]], to protect (a trick) by playing a [[h/_higher|higher]] trump than the [[f/_five|five]].**
+- **In the [[g/_game|game]] of [[c/_cinch|cinch]], to protect (a trick) by [[p/_playing|playing]] a [[h/_higher|higher]] trump than the [[f/_five|five]].**
 ---
 ---

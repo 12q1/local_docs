@@ -1,6 +1,6 @@
 # Homopolar
 ---
 #adjective
-- **[[h/_having|Having]] symmetrically [[e/_equal|equal]] [[d/_distribution|distribution]] of polarity**
+- **[[h/_having|Having]] symmetrically [[e/_equal|equal]] [[d/_distribution|distribution]] of [[p/_polarity|polarity]]**
 ---
 ---

@@ -8,7 +8,7 @@
 ---
 #adjective
 - **Of [[h/_horses|horses]], [[h/_having|having]] a [[d/_docked|docked]] tail.**
-- **Physically shortened; short.**
+- **[[p/_physically|Physically]] shortened; short.**
 - **[[a/_abridged|Abridged]], [[c/_curtailed|curtailed]].**
 ---
 ---

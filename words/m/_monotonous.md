@@ -1,7 +1,7 @@
 # Monotonous
 ---
 #adjective
-- **[[h/_having|Having]] an unvarying tone or pitch.**
+- **[[h/_having|Having]] an unvarying tone or [[p/_pitch|pitch]].**
 - **Tedious, repetitious or [[l/_lacking|lacking]] in variety.**
 ---
 ### Synonyms

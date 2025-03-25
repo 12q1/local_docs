@@ -1,7 +1,7 @@
 # Catastrophic
 ---
 #adjective
-- **Of or pertaining to a [[c/_catastrophe|catastrophe]].**
+- **Of or [[p/_pertaining|pertaining]] to a [[c/_catastrophe|catastrophe]].**
 - **[[d/_disastrous|Disastrous]]; ruinous.**
 ---
 ### Synonyms

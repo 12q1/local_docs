@@ -7,7 +7,7 @@
 	- _Example: Quit fussing with your hair. It looks fine._
 - **([[e/_especially|especially]] of [[b/_babies|babies]]) To [[c/_cry|cry]] or be [[i/_ill|ill]]-[[h/_humoured|humoured]].**
 - **(with [[o/_over|over]]) To show [[a/_affection|affection]] for, [[e/_especially|especially]] [[a/_animals|animals]].**
-- **To pet.**
+- **To [[p/_pet|pet]].**
 	- _Example: He fussed the cat._
 ---
 #adjective

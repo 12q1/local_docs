@@ -2,7 +2,7 @@
 ---
 #noun
 - **Someone or something that [[h/_has|has]] a [[f/_fluffy|fluffy]] texture.**
-- **A person who is superficial, who [[l/_lacks|lacks]] [[d/_depth|depth]] or seriousness.**
+- **A [[p/_person|person]] who is superficial, who [[l/_lacks|lacks]] [[d/_depth|depth]] or seriousness.**
 - **A babycino ([[f/_frothy|frothy]] [[m/_milk|milk]] [[d/_drink|drink]]).**
 ---
 #adjective

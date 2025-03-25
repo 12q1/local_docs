@@ -7,7 +7,7 @@
 ### Synonyms
 - [[c/_contribute|contribute]], [[d/_donate|donate]], [[g/_give|give]]
 #adjective
-- **[[e/_endowed|Endowed]] with special, in particular [[i/_intellectual|intellectual]], [[a/_abilities|abilities]].**
+- **[[e/_endowed|Endowed]] with special, in [[p/_particular|particular]] [[i/_intellectual|intellectual]], [[a/_abilities|abilities]].**
 	- _Example: a gifted artist_
 ---
 ### Synonyms

@@ -1,11 +1,11 @@
 # Grasses
 ---
 #noun
-- **[[a/_any|Any]] plant of the [[f/_family|family]] Poaceae, [[c/_characterized|characterized]] by [[l/_leaves|leaves]] that [[a/_arise|arise]] from [[n/_nodes|nodes]] in the stem and [[l/_leaf|leaf]] [[b/_bases|bases]] that wrap [[a/_around|around]] the stem, [[e/_especially|especially]] those [[g/_grown|grown]] as [[g/_ground|ground]] [[c/_cover|cover]] rather than for [[g/_grain|grain]].**
-- **Various plants not in [[f/_family|family]] Poaceae that resemble [[g/_grasses|grasses]].**
+- **[[a/_any|Any]] [[p/_plant|plant]] of the [[f/_family|family]] [[p/_poaceae|Poaceae]], [[c/_characterized|characterized]] by [[l/_leaves|leaves]] that [[a/_arise|arise]] from [[n/_nodes|nodes]] in the stem and [[l/_leaf|leaf]] [[b/_bases|bases]] that wrap [[a/_around|around]] the stem, [[e/_especially|especially]] those [[g/_grown|grown]] as [[g/_ground|ground]] [[c/_cover|cover]] rather than for [[g/_grain|grain]].**
+- **Various [[p/_plants|plants]] not in [[f/_family|family]] [[p/_poaceae|Poaceae]] that resemble [[g/_grasses|grasses]].**
 - **A [[l/_lawn|lawn]].**
 - **[[m/_marijuana|Marijuana]].**
-- **An [[i/_informer|informer]], police [[i/_informer|informer]]; [[o/_one|one]] who [[b/_betrays|betrays]] a [[g/_group|group]] (of [[c/_criminals|criminals]], [[e/_etc|etc]]) to the [[a/_authorities|authorities]].**
+- **An [[i/_informer|informer]], [[p/_police|police]] [[i/_informer|informer]]; [[o/_one|one]] who [[b/_betrays|betrays]] a [[g/_group|group]] (of [[c/_criminals|criminals]], [[e/_etc|etc]]) to the [[a/_authorities|authorities]].**
 	- _Example: What just happened must remain secret. Don't be a 'grass._
 - **Sharp, [[c/_closely|closely]] spaced [[d/_discontinuities|discontinuities]] in the trace of a [[c/_cathode|cathode]]-ray tube, produced by random [[i/_interference|interference]].**
 - **[[n/_noise|Noise]] on an A-scope or similar type of radar [[d/_display|display]].**

@@ -5,6 +5,6 @@
 - **A [[b/_border|border]] territory, a [[m/_march|march]] ([[n/_now|now]] [[o/_only|only]] in ([[a/_attributive|attributive]]) use).**
 ---
 #noun
-- **[[o/_one|One]] who [[m/_marches|marches]]; [[o/_one|one]] who participates in a [[m/_march|march]].**
+- **[[o/_one|One]] who [[m/_marches|marches]]; [[o/_one|one]] who [[p/_participates|participates]] in a [[m/_march|march]].**
 ---
 ---

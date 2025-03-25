@@ -1,7 +1,7 @@
 # Outright
 ---
 #verb
-- **To release a player [[o/_outright|outright]], without [[c/_conditions|conditions]].**
+- **To release a [[p/_player|player]] [[o/_outright|outright]], without [[c/_conditions|conditions]].**
 ---
 #adjective
 - **Unqualified and unreserved.**

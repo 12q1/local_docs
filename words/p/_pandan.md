@@ -1,6 +1,6 @@
 # Pandan
 ---
 #noun
-- **Screw pine, screw [[p/_palm|palm]] ([[p/_pandanus|Pandanus]] spp.).**
+- **Screw [[p/_pine|pine]], screw [[p/_palm|palm]] ([[p/_pandanus|Pandanus]] spp.).**
 ---
 ---

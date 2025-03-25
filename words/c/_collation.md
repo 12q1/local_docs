@@ -3,15 +3,15 @@
 #noun
 - **[[b/_bringing|Bringing]] together.**
 - **[[d/_discussion|Discussion]], [[l/_light|light]] [[m/_meal|meal]].**
-- **The presentation of a [[c/_clergyman|clergyman]] to a [[b/_benefice|benefice]] by a [[b/_bishop|bishop]], who [[h/_has|has]] it in [[h/_his|his]] [[o/_own|own]] [[g/_gift|gift]].**
+- **The [[p/_presentation|presentation]] of a [[c/_clergyman|clergyman]] to a [[b/_benefice|benefice]] by a [[b/_bishop|bishop]], who [[h/_has|has]] it in [[h/_his|his]] [[o/_own|own]] [[g/_gift|gift]].**
 - **([[i/_inheritance|inheritance]]) The [[b/_blending|blending]] together of property so as to [[a/_achieve|achieve]] [[e/_equal|equal]] [[d/_division|division]], [[m/_mainly|mainly]] in the [[c/_case|case]] of [[i/_inheritance|inheritance]].**
 - **([[i/_inheritance|inheritance]]) An [[h/_heir|heir]]'s right to [[c/_combine|combine]] the whole [[h/_heritable|heritable]] and [[m/_movable|movable]] [[e/_estates|estates]] of the [[d/_deceased|deceased]] [[i/_into|into]] [[o/_one|one]] [[m/_mass|mass]], sharing it [[e/_equally|equally]] with [[o/_others|others]] who are of the same [[d/_degree|degree]] of [[k/_kindred|kindred]].**
 - **The [[a/_act|act]] of [[c/_conferring|conferring]] or [[b/_bestowing|bestowing]].**
-- **Presentation to a [[b/_benefice|benefice]].**
+- **[[p/_presentation|Presentation]] to a [[b/_benefice|benefice]].**
 ---
 ### Synonyms
 - [[h/_hotchpot|hotchpot]]
 #verb
-- **To partake of a [[c/_collation|collation]], or [[l/_light|light]] [[m/_meal|meal]].**
+- **To [[p/_partake|partake]] of a [[c/_collation|collation]], or [[l/_light|light]] [[m/_meal|meal]].**
 ---
 ---

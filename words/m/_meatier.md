@@ -4,7 +4,7 @@
 - **Of, relating to, or [[c/_containing|containing]] [[m/_meat|meat]].**
 - **Resembling [[m/_meat|meat]] in [[f/_flavour|flavour]], [[e/_etc|etc]].**
 	- _Example: This tastes rather meaty. Are you sure it's vegetarian?_
-- **Of a person or a [[b/_body|body]] part, [[l/_large|large]] and solid.**
+- **Of a [[p/_person|person]] or a [[b/_body|body]] [[p/_part|part]], [[l/_large|large]] and solid.**
 - **Substantial.**
 	- _Example: I got a nice, meaty bonus._
 ---

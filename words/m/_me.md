@@ -4,7 +4,7 @@
 - **As the [[d/_direct|direct]] [[o/_object|object]] of a verb.**
 	- _Example: Can you hear me?_
 - **[[m/_myself|Myself]]; as a reflexive [[d/_direct|direct]] [[o/_object|object]] of a verb.**
-- **As the [[o/_object|object]] of a preposition.**
+- **As the [[o/_object|object]] of a [[p/_preposition|preposition]].**
 	- _Example: Come with me._
 - **As the [[i/_indirect|indirect]] [[o/_object|object]] of a verb.**
 	- _Example: He gave me this._

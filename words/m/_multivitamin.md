@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[m/_mixture|mixture]] of vitamins**
-- **A preparation [[c/_containing|containing]] such a [[m/_mixture|mixture]]**
+- **A [[p/_preparation|preparation]] [[c/_containing|containing]] such a [[m/_mixture|mixture]]**
 ---
 #adjective
 - **[[c/_containing|Containing]] or relating to [[m/_multiple|multiple]] vitamins.**

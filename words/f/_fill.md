@@ -6,11 +6,11 @@
 - **To [[e/_enter|enter]] (something), [[m/_making|making]] it [[f/_full|full]].**
 - **To [[b/_become|become]] [[f/_full|full]].**
 	- _Example: the bucket filled with rain;  the sails fill with wind_
-- **To [[b/_become|become]] pervaded with something.**
+- **To [[b/_become|become]] [[p/_pervaded|pervaded]] with something.**
 	- _Example: My heart filled with joy._
 - **To satisfy or [[o/_obey|obey]] (an [[o/_order|order]], request or requirement).**
 	- _Example: The pharmacist filled my prescription for penicillin._
-- **To [[i/_install|install]] someone, or be [[i/_installed|installed]], in (a position or [[o/_office|office]]), [[e/_eliminating|eliminating]] a vacancy.**
+- **To [[i/_install|install]] someone, or be [[i/_installed|installed]], in (a [[p/_position|position]] or [[o/_office|office]]), [[e/_eliminating|eliminating]] a vacancy.**
 	- _Example: Sorry, no more applicants. The position has been filled._
 - **To treat (a tooth) by [[a/_adding|adding]] a [[d/_dental|dental]] [[f/_filling|filling]] to it.**
 	- _Example: Dr. Smith filled Jim's cavity with silver amalgam._

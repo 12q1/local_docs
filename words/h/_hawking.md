@@ -6,7 +6,7 @@
 	- _Example: to hawk at flies_
 ---
 #verb
-- **To sell; to [[o/_offer|offer]] for sale by [[o/_outcry|outcry]] in the street; to [[c/_carry|carry]] ([[m/_merchandise|merchandise]]) [[a/_about|about]] from place to place for sale; to peddle.**
+- **To sell; to [[o/_offer|offer]] for sale by [[o/_outcry|outcry]] in the street; to [[c/_carry|carry]] ([[m/_merchandise|merchandise]]) [[a/_about|about]] from [[p/_place|place]] to [[p/_place|place]] for sale; to [[p/_peddle|peddle]].**
 	- _Example: The vendors were hawking their wares from little tables lining either side of the market square._
 ---
 #verb

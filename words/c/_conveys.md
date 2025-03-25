@@ -1,10 +1,10 @@
 # Conveys
 ---
 #verb
-- **To [[m/_move|move]] (something) from [[o/_one|one]] place to [[a/_another|another]].**
+- **To [[m/_move|move]] (something) from [[o/_one|one]] [[p/_place|place]] to [[a/_another|another]].**
 	- _Example: Air conveys sound. Water is conveyed through the pipe._
-- **To take or [[c/_carry|carry]] (someone) from [[o/_one|one]] place to [[a/_another|another]].**
-- **To [[c/_communicate|communicate]]; to [[m/_make|make]] [[k/_known|known]]; to portray.**
+- **To take or [[c/_carry|carry]] (someone) from [[o/_one|one]] [[p/_place|place]] to [[a/_another|another]].**
+- **To [[c/_communicate|communicate]]; to [[m/_make|make]] [[k/_known|known]]; to [[p/_portray|portray]].**
 	- _Example: to convey an impression; to convey information_
 - **To transfer [[l/_legal|legal]] rights (to).**
 	- _Example: He conveyed ownership of the company to his daughter._

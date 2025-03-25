@@ -1,11 +1,11 @@
 # Clump
 ---
 #noun
-- **A [[c/_cluster|cluster]] or [[l/_lump|lump]]; an unshaped piece or [[m/_mass|mass]].**
+- **A [[c/_cluster|cluster]] or [[l/_lump|lump]]; an unshaped [[p/_piece|piece]] or [[m/_mass|mass]].**
 - **A thick [[g/_group|group]] or [[b/_bunch|bunch]], [[e/_especially|especially]] of [[b/_bushes|bushes]] or [[h/_hair|hair]].**
 - **A [[d/_dull|dull]] thud.**
 - **The [[c/_compressed|compressed]] [[c/_clay|clay]] of [[c/_coal|coal]] strata.**
-- **A small [[g/_group|group]] of trees or plants.**
+- **A small [[g/_group|group]] of trees or [[p/_plants|plants]].**
 - **A thick [[a/_addition|addition]] to the sole of a shoe.**
 ---
 #verb

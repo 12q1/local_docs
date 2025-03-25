@@ -11,6 +11,6 @@
 - **To solicit sexually.**
 ---
 #noun
-- **The [[a/_act|act]] of physically [[c/_confronting|confronting]] a person.**
+- **The [[a/_act|act]] of [[p/_physically|physically]] [[c/_confronting|confronting]] a [[p/_person|person]].**
 ---
 ---

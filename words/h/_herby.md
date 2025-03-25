@@ -1,6 +1,6 @@
 # Herby
 ---
 #adjective
-- **Of or pertaining to [[h/_herbs|herbs]]**
+- **Of or [[p/_pertaining|pertaining]] to [[h/_herbs|herbs]]**
 ---
 ---

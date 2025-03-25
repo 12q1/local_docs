@@ -14,7 +14,7 @@
 - **[[l/_lacking|Lacking]] tact or taste.**
 	- _Example: a crude remark_
 - **[[i/_immature|Immature]] or unripe.**
-- **([[g/_grammar|grammar]]) Pertaining to the uninflected stem of a word.**
+- **([[g/_grammar|grammar]]) [[p/_pertaining|Pertaining]] to the uninflected stem of a word.**
 ---
 ### Synonyms
 - [[r/_raw|raw]], [[b/_blunt|blunt]], [[i/_immature|immature]], [[u/_unripe|unripe]], [[o/_obvious|obvious]], [[p/_primitive|primitive]], [[r/_raw|raw]]

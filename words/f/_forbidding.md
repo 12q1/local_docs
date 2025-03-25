@@ -16,7 +16,7 @@
 - **The [[a/_act|act]] by which something is [[f/_forbidden|forbidden]]; a prohibition.**
 ---
 #adjective
-- **[[a/_appearing|Appearing]] to be threatening, unfriendly or potentially unpleasant.**
+- **[[a/_appearing|Appearing]] to be threatening, unfriendly or [[p/_potentially|potentially]] unpleasant.**
 ---
 ### Antonyms
 - [[a/_approachable|approachable]], [[i/_inviting|inviting]], [[w/_welcoming|welcoming]]

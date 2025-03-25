@@ -1,7 +1,7 @@
 # Insolent
 ---
 #noun
-- **A person who is [[i/_insolent|insolent]].**
+- **A [[p/_person|person]] who is [[i/_insolent|insolent]].**
 ---
 #adjective
 - **[[i/_insulting|Insulting]] in [[m/_manner|manner]] or words.**

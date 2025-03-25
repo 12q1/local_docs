@@ -43,7 +43,7 @@
 	- _Example: a light bread ; sponge cake is a light cake_
 - **[[g/_gentle|Gentle]]; [[h/_having|having]] [[l/_little|little]] [[f/_force|force]] or [[m/_momentum|momentum]].**
 	- _Example: This artist clearly had a light, flowing touch._
-- **[[e/_easy|Easy]] to [[e/_endure|endure]] or perform.**
+- **[[e/_easy|Easy]] to [[e/_endure|endure]] or [[p/_perform|perform]].**
 	- _Example: light duties around the house_
 - **[[l/_low|Low]] in [[f/_fat|fat]], [[c/_calories|calories]], [[a/_alcohol|alcohol]], salt, [[e/_etc|etc]].**
 	- _Example: This light beer still gets you drunk if you have enough of it._

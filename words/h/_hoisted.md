@@ -5,7 +5,7 @@
 - **To [[l/_lift|lift]] a trophy or similar prize [[i/_into|into]] the [[a/_air|air]] in [[c/_celebration|celebration]] of a victory.**
 - **To [[l/_lift|lift]] someone up to be [[f/_flogged|flogged]].**
 - **To be [[l/_lifted|lifted]] up.**
-- **To [[e/_extract|extract]] ([[c/_code|code]]) from a [[l/_loop|loop]] [[c/_construct|construct]] as part of [[o/_optimization|optimization]].**
+- **To [[e/_extract|extract]] ([[c/_code|code]]) from a [[l/_loop|loop]] [[c/_construct|construct]] as [[p/_part|part]] of [[o/_optimization|optimization]].**
 - **To steal, to rob.**
 ---
 ---

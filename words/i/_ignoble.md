@@ -1,7 +1,7 @@
 # Ignoble
 ---
 #adjective
-- **Not [[n/_noble|noble]]; plebeian; [[c/_common|common]].**
+- **Not [[n/_noble|noble]]; [[p/_plebeian|plebeian]]; [[c/_common|common]].**
 - **Not [[h/_honorable|honorable]]; [[b/_base|base]].**
 - **Not a true or "[[n/_noble|noble]]" [[f/_falcon|falcon]]; said of [[c/_certain|certain]] [[h/_hawks|hawks]], such as the [[g/_goshawk|goshawk]].**
 ---

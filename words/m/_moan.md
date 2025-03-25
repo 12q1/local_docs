@@ -1,7 +1,7 @@
 # Moan
 ---
 #noun
-- **A [[l/_low|low]], [[m/_mournful|mournful]] [[c/_cry|cry]] of [[p/_pain|pain]], sorrow or pleasure**
+- **A [[l/_low|low]], [[m/_mournful|mournful]] [[c/_cry|cry]] of [[p/_pain|pain]], sorrow or [[p/_pleasure|pleasure]]**
 ---
 #verb
 - **To [[c/_complain|complain]] [[a/_about|about]]; to [[b/_bemoan|bemoan]], to [[b/_bewail|bewail]]; to [[m/_mourn|mourn]].**

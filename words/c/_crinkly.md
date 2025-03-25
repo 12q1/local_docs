@@ -1,7 +1,7 @@
 # Crinkly
 ---
 #noun
-- **An [[o/_old|old]] person.**
+- **An [[o/_old|old]] [[p/_person|person]].**
 ---
 ### Synonyms
 - [[a/_antique|antique]], [[w/_wrinkly|wrinkly]]

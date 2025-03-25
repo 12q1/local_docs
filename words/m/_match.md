@@ -14,7 +14,7 @@
 - **A [[p/_pair|pair]] of [[i/_items|items]] or [[e/_entities|entities]] with [[m/_mutually|mutually]] suitable [[c/_characteristics|characteristics]].**
 	- _Example: The carpet and curtains are a match._
 - **An [[a/_agreement|agreement]] or [[c/_compact|compact]].**
-- **A perforated [[b/_board|board]], [[b/_block|block]] of plaster, [[h/_hardened|hardened]] sand, [[e/_etc|etc]]., in which a pattern is partly [[e/_embedded|embedded]] when a [[m/_mould|mould]] is [[m/_made|made]], for [[g/_giving|giving]] shape to the surfaces of separation [[b/_between|between]] the parts of the [[m/_mould|mould]].**
+- **A [[p/_perforated|perforated]] [[b/_board|board]], [[b/_block|block]] of [[p/_plaster|plaster]], [[h/_hardened|hardened]] sand, [[e/_etc|etc]]., in which a [[p/_pattern|pattern]] is [[p/_partly|partly]] [[e/_embedded|embedded]] when a [[m/_mould|mould]] is [[m/_made|made]], for [[g/_giving|giving]] shape to the surfaces of separation [[b/_between|between]] the [[p/_parts|parts]] of the [[m/_mould|mould]].**
 ---
 #verb
 - **To [[a/_agree|agree]]; to be [[e/_equal|equal]]; to [[c/_correspond|correspond]].**

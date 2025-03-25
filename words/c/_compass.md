@@ -9,7 +9,7 @@
 	- _Example: within the compass of an encircling wall_
 - **[[m/_moderate|Moderate]] [[b/_bounds|bounds]], [[l/_limits|limits]] of truth; [[m/_moderation|moderation]]; [[d/_due|due]] [[l/_limits|limits]]; used with within.**
 - **Scope.**
-- **A passing round; [[c/_circuit|circuit]]; [[c/_circuitous|circuitous]] [[c/_course|course]].**
+- **A [[p/_passing|passing]] round; [[c/_circuit|circuit]]; [[c/_circuitous|circuitous]] [[c/_course|course]].**
 ---
 ### Synonyms
 - 

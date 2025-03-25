@@ -7,7 +7,7 @@
 ### Synonyms
 - [[c/_citerior|citerior]]
 #adverb
-- **To this place, to [[h/_here|here]].**
+- **To this [[p/_place|place]], to [[h/_here|here]].**
 	- _Example: He went hither and thither._
 - **[[o/_over|Over]] [[h/_here|here]]**
 ---

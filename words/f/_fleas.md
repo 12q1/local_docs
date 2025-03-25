@@ -6,7 +6,7 @@
 - **To be [[f/_fear|fear]]-stricken.**
 ---
 #noun
-- **A small, wingless, parasitic [[i/_insect|insect]] of the [[o/_order|order]] Siphonaptera, renowned for [[i/_its|its]] [[b/_bloodsucking|bloodsucking]] [[h/_habits|habits]] and [[j/_jumping|jumping]] [[a/_abilities|abilities]].**
+- **A small, wingless, [[p/_parasitic|parasitic]] [[i/_insect|insect]] of the [[o/_order|order]] Siphonaptera, renowned for [[i/_its|its]] [[b/_bloodsucking|bloodsucking]] [[h/_habits|habits]] and [[j/_jumping|jumping]] [[a/_abilities|abilities]].**
 - **A thing of [[n/_no|no]] significance.**
 ---
 #verb

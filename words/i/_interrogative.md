@@ -7,8 +7,8 @@
 ### Synonyms
 - 
 #adjective
-- **([[g/_grammar|grammar]]) [[a/_asking|Asking]] or [[d/_denoting|denoting]] a question: as, an [[i/_interrogative|interrogative]] phrase, pronoun, or point.**
-- **Pertaining to [[i/_inquiry|inquiry]]; questioning**
+- **([[g/_grammar|grammar]]) [[a/_asking|Asking]] or [[d/_denoting|denoting]] a question: as, an [[i/_interrogative|interrogative]] [[p/_phrase|phrase]], pronoun, or [[p/_point|point]].**
+- **[[p/_pertaining|Pertaining]] to [[i/_inquiry|inquiry]]; questioning**
 	- _Example: He took on an interrogative tone of voice._
 ---
 ### Synonyms
@@ -17,8 +17,8 @@
 - **The punctuation [[m/_mark|mark]] "?", used at the [[e/_end|end]] of a sentence to [[i/_indicate|indicate]] a question.**
 - **A state of [[d/_doubt|doubt]] or uncertainty.**
 	- _Example: There’s a question mark over whether or not he’ll be fit for the next game._
-- **An [[e/_enigmatic|enigmatic]], [[i/_inscrutable|inscrutable]], or [[m/_mysterious|mysterious]] person or thing; an [[e/_enigma|enigma]], a riddle.**
-- **Polygonia interrogationis, a [[n/_north|North]] [[a/_american|American]] [[n/_nymphalid|nymphalid]] [[b/_butterfly|butterfly]] with a silver [[m/_mark|mark]] on the underside of [[i/_its|its]] hindwing resembling a question [[m/_mark|mark]] (sense 1).**
+- **An [[e/_enigmatic|enigmatic]], [[i/_inscrutable|inscrutable]], or [[m/_mysterious|mysterious]] [[p/_person|person]] or thing; an [[e/_enigma|enigma]], a riddle.**
+- **[[p/_polygonia|Polygonia]] interrogationis, a [[n/_north|North]] [[a/_american|American]] [[n/_nymphalid|nymphalid]] [[b/_butterfly|butterfly]] with a silver [[m/_mark|mark]] on the underside of [[i/_its|its]] hindwing resembling a question [[m/_mark|mark]] (sense 1).**
 ---
 ### Synonyms
 - [[e/_eroteme|eroteme]], [[i/_interrogative|interrogative]], [[i/_interrogative-point|interrogative-point]], [[m/_mystery|mystery]], [[p/_puzzle|puzzle]]

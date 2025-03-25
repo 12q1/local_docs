@@ -8,13 +8,13 @@
 - **A [[h/_hagdon|hagdon]] or shearwater; [[o/_one|one]] of various sea [[b/_birds|birds]] of the [[g/_genus|genus]] Puffinus.**
 - **An [[a/_appearance|appearance]] of [[l/_light|light]] and [[f/_fire|fire]] on a [[h/_horse|horse]]'s [[m/_mane|mane]] or a [[m/_man|man]]'s [[h/_hair|hair]].**
 - **The [[f/_fruit|fruit]] of the [[h/_hagberry|hagberry]], Prunus [[p/_padus|padus]].**
-- **Sleep paralysis**
+- **Sleep [[p/_paralysis|paralysis]]**
 ---
 ### Synonyms
 - [[b/_borer|borer]], [[h/_hagfish|hagfish]], [[m/_myxinid|myxinid]], [[s/_sleepmarken|sleepmarken]], [[s/_sucker|sucker]], [[h/_hackberry|hackberry]], [[h/_hagdon|hagdon]], [[h/_haglet|haglet]], [[s/_shearwater|shearwater]]
 #noun
-- **A small wood, or part of a wood or [[c/_copse|copse]], which is [[m/_marked|marked]] [[o/_off|off]] or [[e/_enclosed|enclosed]] for [[f/_felling|felling]], or which [[h/_has|has]] [[b/_been|been]] [[f/_felled|felled]].**
-- **A quagmire; [[m/_mossy|mossy]] [[g/_ground|ground]] where peat or turf [[h/_has|has]] [[b/_been|been]] [[c/_cut|cut]].**
+- **A small wood, or [[p/_part|part]] of a wood or [[c/_copse|copse]], which is [[m/_marked|marked]] [[o/_off|off]] or [[e/_enclosed|enclosed]] for [[f/_felling|felling]], or which [[h/_has|has]] [[b/_been|been]] [[f/_felled|felled]].**
+- **A quagmire; [[m/_mossy|mossy]] [[g/_ground|ground]] where [[p/_peat|peat]] or turf [[h/_has|has]] [[b/_been|been]] [[c/_cut|cut]].**
 ---
 #verb
 - **To [[h/_harass|harass]]; to weary with vexation.**

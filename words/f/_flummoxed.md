@@ -4,7 +4,7 @@
 - **To [[c/_confuse|confuse]]; to [[f/_fluster|fluster]]; to [[f/_flabbergast|flabbergast]].**
 ---
 #adjective
-- **[[c/_confused|Confused]], perplexed or [[f/_flustered|flustered]].**
+- **[[c/_confused|Confused]], [[p/_perplexed|perplexed]] or [[f/_flustered|flustered]].**
 	- _Example: He's good at what he knows, but he gets completely flummoxed when new problems arise._
 ---
 ### Synonyms

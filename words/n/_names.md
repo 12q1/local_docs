@@ -1,12 +1,12 @@
 # Names
 ---
 #noun
-- **[[a/_any|Any]] [[n/_nounal|nounal]] word or phrase which [[i/_indicates|indicates]] a particular person, place, [[c/_class|class]], or thing.**
+- **[[a/_any|Any]] [[n/_nounal|nounal]] word or [[p/_phrase|phrase]] which [[i/_indicates|indicates]] a [[p/_particular|particular]] [[p/_person|person]], [[p/_place|place]], [[c/_class|class]], or thing.**
 	- _Example: I've never liked the name my parents gave me so I changed it at the age of twenty._
 - **Reputation.**
 - **An [[a/_abusive|abusive]] or [[i/_insulting|insulting]] [[e/_epithet|epithet]].**
 	- _Example: Stop calling me names!_
-- **A person (or [[l/_legal|legal]] person).**
+- **A [[p/_person|person]] (or [[l/_legal|legal]] [[p/_person|person]]).**
 - **Those of a [[c/_certain|certain]] [[n/_name|name]]; a race; a [[f/_family|family]].**
 - **A unique [[i/_identifier|identifier]], [[g/_generally|generally]] a string of [[c/_characters|characters]].**
 - **An [[i/_investor|investor]] in Lloyds of [[l/_london|London]] [[b/_bearing|bearing]] unlimited [[l/_liability|liability]].**
@@ -26,7 +26,7 @@
 	- _Example: The painter was named as an accomplice._
 - **To [[d/_designate|designate]] for a role.**
 	- _Example: My neighbor was named to the steering committee._
-- **(Westminster system politics) To [[i/_initiate|initiate]] a process to temporarily remove a [[m/_member|member]] of parliament who is [[b/_breaking|breaking]] the rules of [[c/_conduct|conduct]].**
+- **(Westminster system [[p/_politics|politics]]) To [[i/_initiate|initiate]] a process to temporarily remove a [[m/_member|member]] of [[p/_parliament|parliament]] who is [[b/_breaking|breaking]] the rules of [[c/_conduct|conduct]].**
 ---
 ### Synonyms
 - [[b/_bename|bename]], [[d/_designate|designate]], [[d/_dub|dub]]

@@ -1,6 +1,6 @@
 # Irenics
 ---
 #noun
-- **[[i/_irenical|Irenical]] theology, [[o/_opposed|opposed]] to polemics.**
+- **[[i/_irenical|Irenical]] theology, [[o/_opposed|opposed]] to [[p/_polemics|polemics]].**
 ---
 ---

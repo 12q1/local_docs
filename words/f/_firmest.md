@@ -1,7 +1,7 @@
 # Firmest
 ---
 #adjective
-- **Steadfast, secure, solid (in position)**
+- **Steadfast, secure, solid (in [[p/_position|position]])**
 	- _Example: It's good to have a firm grip when shaking hands._
 - **[[f/_fixed|Fixed]] (in [[o/_opinion|opinion]])**
 	- _Example: He was firm that selling his company would a good choice and didn't let anyone talk him out of it._

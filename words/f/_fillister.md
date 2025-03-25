@@ -2,6 +2,6 @@
 ---
 #noun
 - **A rabbet/rebate for [[h/_holding|holding]] a sash window**
-- **A plane for [[m/_making|making]] a rabbet.**
+- **A [[p/_plane|plane]] for [[m/_making|making]] a rabbet.**
 ---
 ---

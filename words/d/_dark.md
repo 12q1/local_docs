@@ -10,8 +10,8 @@
 	- _Example: a dark villain;  a dark deed_
 - **[[c/_conducive|Conducive]] to [[h/_hopelessness|hopelessness]]; [[d/_depressing|depressing]] or [[b/_bleak|bleak]].**
 	- _Example: the Great Depression was a dark time;  the film was a dark psychological thriller_
-- **[[l/_lacking|Lacking]] progress in science or the [[a/_arts|arts]]; said of a time period.**
-- **With [[e/_emphasis|emphasis]] placed on the unpleasant [[a/_aspects|aspects]] of [[l/_life|life]]; said of a work of [[f/_fiction|fiction]], a work of [[n/_nonfiction|nonfiction]] presented in [[n/_narrative|narrative]] [[f/_form|form]] or a portion of [[e/_either|either]].**
+- **[[l/_lacking|Lacking]] progress in science or the [[a/_arts|arts]]; said of a time [[p/_period|period]].**
+- **With [[e/_emphasis|emphasis]] [[p/_placed|placed]] on the unpleasant [[a/_aspects|aspects]] of [[l/_life|life]]; said of a work of [[f/_fiction|fiction]], a work of [[n/_nonfiction|nonfiction]] [[p/_presented|presented]] in [[n/_narrative|narrative]] [[f/_form|form]] or a [[p/_portion|portion]] of [[e/_either|either]].**
 	- _Example: The ending of this book is rather dark._
 ---
 ### Synonyms

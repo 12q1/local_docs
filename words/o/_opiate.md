@@ -9,7 +9,7 @@
 ---
 #adjective
 - **Relating to, resembling, or [[c/_containing|containing]] [[o/_opium|opium]].**
-- **(pharmaceutical [[e/_effect|effect]]) Soporific; [[i/_inducing|inducing]] sleep or sedation.**
+- **([[p/_pharmaceutical|pharmaceutical]] [[e/_effect|effect]]) Soporific; [[i/_inducing|inducing]] sleep or sedation.**
 - **[[d/_deadening|Deadening]]; [[c/_causing|causing]] [[a/_apathy|apathy]] or [[d/_dullness|dullness]].**
 ---
 ---

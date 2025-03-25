@@ -5,7 +5,7 @@
 - **To [[m/_make|make]] [[i/_into|into]] a [[c/_curl|curl]] or spiral.**
 - **To [[a/_assume|assume]] the shape of a [[c/_curl|curl]] or spiral.**
 - **To [[m/_move|move]] in [[c/_curves|curves]].**
-- **To take part in the sport of [[c/_curling|curling]].**
+- **To take [[p/_part|part]] in the sport of [[c/_curling|curling]].**
 	- _Example: I curl at my local club every weekend._
 - **To [[e/_exercise|exercise]] by [[b/_bending|bending]] the [[a/_arm|arm]], wrist, or [[l/_leg|leg]] on the [[e/_exertion|exertion]] [[a/_against|against]] resistance, [[e/_especially|especially]] of the [[b/_biceps|biceps]].**
 - **To twist or [[f/_form|form]] (the [[h/_hair|hair]], [[e/_etc|etc]].) [[i/_into|into]] ringlets.**
@@ -20,6 +20,6 @@
 #noun
 - **The [[a/_action|action]] or [[m/_motion|motion]] of something that [[c/_curls|curls]] or is [[c/_curled|curled]].**
 	- _Example: a scornful curling of the lip_
-- **A winter sport where players [[a/_aim|aim]] and slide stones [[d/_down|down]] a sheet of [[i/_ice|ice]] and [[a/_attempt|attempt]] to [[g/_get|get]] their [[c/_color|color]] stones [[c/_closest|closest]] to the [[h/_house|house]] (a [[c/_circular|circular]] target [[m/_marked|marked]] on the [[i/_ice|ice]]).**
+- **A winter sport where [[p/_players|players]] [[a/_aim|aim]] and slide stones [[d/_down|down]] a sheet of [[i/_ice|ice]] and [[a/_attempt|attempt]] to [[g/_get|get]] their [[c/_color|color]] stones [[c/_closest|closest]] to the [[h/_house|house]] (a [[c/_circular|circular]] target [[m/_marked|marked]] on the [[i/_ice|ice]]).**
 ---
 ---

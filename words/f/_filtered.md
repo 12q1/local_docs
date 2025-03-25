@@ -5,7 +5,7 @@
 	- _Example: This strainer should filter out the large particles._
 - **To [[d/_diffuse|diffuse]]; to [[c/_cause|cause]] to be [[l/_less|less]] [[c/_concentrated|concentrated]] or [[f/_focused|focused]].**
 	- _Example: The leaves of the trees filtered the light._
-- **To pass through a [[f/_filter|filter]] or to [[a/_act|act]] as though passing through a [[f/_filter|filter]].**
+- **To [[p/_pass|pass]] through a [[f/_filter|filter]] or to [[a/_act|act]] as though [[p/_passing|passing]] through a [[f/_filter|filter]].**
 	- _Example: The water filtered through the rock and soil._
 - **To [[m/_move|move]] slowly or [[g/_gradually|gradually]]; to [[c/_come|come]] or [[g/_go|go]] a [[f/_few|few]] at a time.**
 	- _Example: The crowd filtered into the theater._

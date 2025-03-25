@@ -6,7 +6,7 @@
 ### Synonyms
 - [[a/_array|array]], [[a/_attire|attire]]
 #adjective
-- **Supplied with [[e/_essential|essential]] [[e/_equipments|equipments]] for a [[c/_certain|certain]] [[i/_intention|intention]], particularly [[m/_military|military]].**
-- **Provided with vital supplies for a precise [[a/_aim|aim]], [[m/_more|more]] specifically for the [[a/_armed|armed]] [[f/_forces|forces]].**
+- **Supplied with [[e/_essential|essential]] [[e/_equipments|equipments]] for a [[c/_certain|certain]] [[i/_intention|intention]], [[p/_particularly|particularly]] [[m/_military|military]].**
+- **Provided with vital supplies for a [[p/_precise|precise]] [[a/_aim|aim]], [[m/_more|more]] specifically for the [[a/_armed|armed]] [[f/_forces|forces]].**
 ---
 ---

@@ -6,7 +6,7 @@
 ### Synonyms
 - [[w/_wheelie|wheelie]]
 #noun
-- **A [[m/_monogamous|monogamous]] person.**
+- **A [[m/_monogamous|monogamous]] [[p/_person|person]].**
 ---
 #noun
 - **An [[i/_injective|injective]] [[h/_homomorphism|homomorphism]]**

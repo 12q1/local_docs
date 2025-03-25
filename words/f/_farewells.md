@@ -1,7 +1,7 @@
 # Farewells
 ---
 #noun
-- **A wish of [[h/_happiness|happiness]] or safety at parting, [[e/_especially|especially]] a permanent [[d/_departure|departure]]**
+- **A wish of [[h/_happiness|happiness]] or safety at [[p/_parting|parting]], [[e/_especially|especially]] a [[p/_permanent|permanent]] [[d/_departure|departure]]**
 - **A [[d/_departure|departure]]; the [[a/_act|act]] of [[l/_leaving|leaving]]**
 ---
 ### Synonyms

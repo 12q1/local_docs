@@ -1,8 +1,8 @@
 # Cheesed
 ---
 #verb
-- **To prepare [[c/_curds|curds]] for [[m/_making|making]] [[c/_cheese|cheese]].**
-- **To [[m/_make|make]] [[h/_holes|holes]] in a pattern of [[c/_circuitry|circuitry]] to [[d/_decrease|decrease]] pattern [[d/_density|density]].**
+- **To [[p/_prepare|prepare]] [[c/_curds|curds]] for [[m/_making|making]] [[c/_cheese|cheese]].**
+- **To [[m/_make|make]] [[h/_holes|holes]] in a [[p/_pattern|pattern]] of [[c/_circuitry|circuitry]] to [[d/_decrease|decrease]] [[p/_pattern|pattern]] [[d/_density|density]].**
 - **To smile [[e/_excessively|excessively]], as for a [[c/_camera|camera]].**
 ---
 #verb

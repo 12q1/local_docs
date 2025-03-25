@@ -4,6 +4,6 @@
 - **A [[p/_painter|painter]] who [[p/_paints|paints]] in this style**
 ---
 #adjective
-- **Of, pertaining to, or in the style of [[e/_expressionism|expressionism]]**
+- **Of, [[p/_pertaining|pertaining]] to, or in the style of [[e/_expressionism|expressionism]]**
 ---
 ---

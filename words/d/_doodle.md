@@ -1,9 +1,9 @@
 # Doodle
 ---
 #noun
-- **A [[f/_fool|fool]], a simpleton, a [[m/_mindless|mindless]] person.**
+- **A [[f/_fool|fool]], a simpleton, a [[m/_mindless|mindless]] [[p/_person|person]].**
 - **A small [[m/_mindless|mindless]] sketch, [[e/_etc|etc]].**
-- **(sometimes [[c/_childish|childish]]) Penis.**
+- **(sometimes [[c/_childish|childish]]) [[p/_penis|Penis]].**
 ---
 #verb
 - **To [[d/_draw|draw]] or scribble [[a/_aimlessly|aimlessly]].**

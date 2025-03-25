@@ -1,7 +1,7 @@
 # Covered
 ---
 #verb
-- **To place something [[o/_over|over]] or upon, as to [[c/_conceal|conceal]] or protect.**
+- **To [[p/_place|place]] something [[o/_over|over]] or upon, as to [[c/_conceal|conceal]] or protect.**
 	- _Example: He covered the baby with a blanket._
 - **To be [[o/_over|over]] or upon, as to [[c/_conceal|conceal]] or protect.**
 	- _Example: The blanket covered the baby._
@@ -27,18 +27,18 @@
 	- _Example: Does my policy cover accidental loss?_
 - **To [[c/_copulate|copulate]] with (said of [[c/_certain|certain]] [[m/_male|male]] [[a/_animals|animals]] such as [[d/_dogs|dogs]] and [[h/_horses|horses]]).**
 	- _Example: I would like to have my bitch covered next spring._
-- **To protect or [[c/_control|control]] (a piece or square).**
+- **To protect or [[c/_control|control]] (a [[p/_piece|piece]] or square).**
 	- _Example: In order to checkmate a king on the side of the board, the five squares adjacent to the king must all be covered._
-- **To [[e/_extend|extend]] [[o/_over|over]] a [[g/_given|given]] period of time or range, to [[o/_occupy|occupy]], to stretch [[o/_over|over]] a [[g/_given|given]] [[a/_area|area]].**
-- **To [[d/_defend|defend]] a particular player or [[a/_area|area]].**
+- **To [[e/_extend|extend]] [[o/_over|over]] a [[g/_given|given]] [[p/_period|period]] of time or range, to [[o/_occupy|occupy]], to stretch [[o/_over|over]] a [[g/_given|given]] [[a/_area|area]].**
+- **To [[d/_defend|defend]] a [[p/_particular|particular]] [[p/_player|player]] or [[a/_area|area]].**
 ---
 ### Synonyms
 - [[i/_impregnate|impregnate]]
 #adjective
 - **[[o/_overlaid|Overlaid]] (with) or [[e/_enclosed|enclosed]] (within something).**
-- **Prepared for, or [[h/_having|having]] [[d/_dealt|dealt]] with, some [[m/_matter|matter]]**
+- **[[p/_prepared|Prepared]] for, or [[h/_having|having]] [[d/_dealt|dealt]] with, some [[m/_matter|matter]]**
 	- _Example: With my insurance, I am covered for earthquake damage._
-- **Than whom [[a/_another|another]] player [[h/_has|has]] [[m/_more|more]] [[m/_money|money]] [[a/_available|available]] for [[b/_betting|betting]].**
+- **Than whom [[a/_another|another]] [[p/_player|player]] [[h/_has|has]] [[m/_more|more]] [[m/_money|money]] [[a/_available|available]] for [[b/_betting|betting]].**
 	- _Example: John has $100 on the table, while Jill only has $75. John has Jill covered._
 - **Wearing [[o/_one|one]]'s [[h/_hat|hat]].**
 ---

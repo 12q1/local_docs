@@ -9,14 +9,14 @@
 	- _Example: Category theory defines a very general concept of limit._
 - **The [[c/_cone|cone]] of a [[d/_diagram|diagram]] through which [[a/_any|any]] [[o/_other|other]] [[c/_cone|cone]] of that same [[d/_diagram|diagram]] [[c/_can|can]] [[f/_factor|factor]] uniquely.**
 - **[[f/_fixed|Fixed]] [[l/_limit|limit]].**
-- **The [[f/_final|final]], utmost, or [[f/_furthest|furthest]] point; the [[b/_border|border]] or [[e/_edge|edge]].**
+- **The [[f/_final|final]], utmost, or [[f/_furthest|furthest]] [[p/_point|point]]; the [[b/_border|border]] or [[e/_edge|edge]].**
 	- _Example: the limit of a walk, of a town, or of a country_
 - **The space or thing [[d/_defined|defined]] by [[l/_limits|limits]].**
-- **That which terminates a period of time; [[h/_hence|hence]], the period [[i/_itself|itself]]; the [[f/_full|full]] time or [[e/_extent|extent]].**
+- **That which terminates a [[p/_period|period]] of time; [[h/_hence|hence]], the [[p/_period|period]] [[i/_itself|itself]]; the [[f/_full|full]] time or [[e/_extent|extent]].**
 - **A restriction; a [[c/_check|check]] or [[c/_curb|curb]]; a [[h/_hindrance|hindrance]].**
 - **A [[d/_determining|determining]] [[f/_feature|feature]]; a [[d/_distinguishing|distinguishing]] [[c/_characteristic|characteristic]].**
 - **The [[f/_first|first]] [[g/_group|group]] of riders to [[d/_depart|depart]] in a [[h/_handicap|handicap]] race.**
-- **(as "the [[l/_limit|limit]]") A person who is [[e/_exasperating|exasperating]], [[i/_intolerable|intolerable]], [[a/_astounding|astounding]], [[e/_etc|etc]].**
+- **(as "the [[l/_limit|limit]]") A [[p/_person|person]] who is [[e/_exasperating|exasperating]], [[i/_intolerable|intolerable]], [[a/_astounding|astounding]], [[e/_etc|etc]].**
 ---
 ### Synonyms
 - [[b/_bound|bound]], [[b/_boundary|boundary]], [[l/_limitation|limitation]], [[r/_restriction|restriction]]

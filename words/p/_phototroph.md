@@ -1,0 +1,6 @@
+# Phototroph
+---
+#noun
+- **A photoautotroph**
+---
+---

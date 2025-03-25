@@ -1,10 +1,10 @@
 # Natives
 ---
 #noun
-- **An [[a/_aboriginal|aboriginal]] [[i/_inhabitant|inhabitant]] of a region [[c/_colonized|colonized]] by [[e/_english|English]]-speaking people; in particular:**
+- **An [[a/_aboriginal|aboriginal]] [[i/_inhabitant|inhabitant]] of a region [[c/_colonized|colonized]] by [[e/_english|English]]-speaking [[p/_people|people]]; in [[p/_particular|particular]]:**
 ---
 #noun
-- **A person who is [[n/_native|native]] to a place; a person who was [[b/_born|born]] in a place.**
+- **A [[p/_person|person]] who is [[n/_native|native]] to a [[p/_place|place]]; a [[p/_person|person]] who was [[b/_born|born]] in a [[p/_place|place]].**
 - **A [[n/_native|native]] speaker.**
 - **[[o/_ostrea|Ostrea]] edulis, a [[k/_kind|kind]] of [[o/_oyster|oyster]].**
 ---

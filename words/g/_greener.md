@@ -3,16 +3,16 @@
 #adjective
 - **[[h/_having|Having]] [[g/_green|green]] as [[i/_its|its]] [[c/_color|color]].**
 	- _Example: The former flag of Libya is fully green._
-- **(of people) Sickly, unwell.**
+- **(of [[p/_people|people]]) Sickly, unwell.**
 	- _Example: Sally looks pretty green — is she going to be sick?_
 - **Unripe, said of [[c/_certain|certain]] [[f/_fruits|fruits]] that [[c/_change|change]] [[c/_color|color]] when they ripen.**
-- **(of people) [[i/_inexperienced|Inexperienced]].**
+- **(of [[p/_people|people]]) [[i/_inexperienced|Inexperienced]].**
 	- _Example: John's kind of green, so take it easy on him this first week._
-- **(of people) [[n/_naive|Naive]] or unaware of [[o/_obvious|obvious]] [[f/_facts|facts]].**
-- **(of people) [[o/_overcome|Overcome]] with [[e/_envy|envy]].**
+- **(of [[p/_people|people]]) [[n/_naive|Naive]] or unaware of [[o/_obvious|obvious]] [[f/_facts|facts]].**
+- **(of [[p/_people|people]]) [[o/_overcome|Overcome]] with [[e/_envy|envy]].**
 	- _Example: He was green with envy._
 - **[[e/_environmentally|Environmentally]] [[f/_friendly|friendly]].**
-- **[[d/_describing|Describing]] a pitch which, [[e/_even|even]] [[i/_if|if]] there is [[n/_no|no]] visible [[g/_grass|grass]], still [[c/_contains|contains]] a significant [[a/_amount|amount]] of [[m/_moisture|moisture]].**
+- **[[d/_describing|Describing]] a [[p/_pitch|pitch]] which, [[e/_even|even]] [[i/_if|if]] there is [[n/_no|no]] visible [[g/_grass|grass]], still [[c/_contains|contains]] a significant [[a/_amount|amount]] of [[m/_moisture|moisture]].**
 - **Of [[b/_bacon|bacon]] or similar smallgoods: unprocessed, raw, unsmoked; not smoked or spiced.**
 - **Not [[f/_fully|fully]] roasted; [[h/_half|half]] raw.**
 - **Of [[f/_freshly|freshly]] [[c/_cut|cut]] wood or [[l/_lumber|lumber]] that [[h/_has|has]] not [[b/_been|been]] [[d/_dried|dried]]: [[c/_containing|containing]] [[m/_moisture|moisture]] and therefore relatively [[m/_more|more]] [[f/_flexible|flexible]] or springy.**
@@ -31,7 +31,7 @@
 - [[n/_nongreen|nongreen]], [[u/_ungreen|ungreen]], [[a/_antigreen|antigreen]], [[p/_processed|processed]], [[s/_smoked|smoked]], [[s/_spiced|spiced]], [[r/_ripe|ripe]], [[c/_cloy|cloy]], [[s/_sweet|sweet]]
 #noun
 - **A [[n/_newcomer|newcomer]]; a recent [[i/_immigrant|immigrant]].**
-- **A person with a passion for protecting the [[n/_natural|natural]] [[e/_environment|environment]]; an [[e/_ecological|ecological]] [[a/_activist|activist]].**
+- **A [[p/_person|person]] with a [[p/_passion|passion]] for protecting the [[n/_natural|natural]] [[e/_environment|environment]]; an [[e/_ecological|ecological]] [[a/_activist|activist]].**
 - **[[a/_agent|Agent]] [[n/_noun|noun]] of [[g/_green|green]]; someone or something which [[g/_greens|greens]].**
 ---
 ### Synonyms

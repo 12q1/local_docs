@@ -10,6 +10,6 @@
 ### Synonyms
 - [[i/_interthread|interthread]], [[i/_intertwine|intertwine]], [[i/_interweave|interweave]]
 #noun
-- **The pattern or [[m/_motion|motion]] of something that [[i/_interlaces|interlaces]].**
+- **The [[p/_pattern|pattern]] or [[m/_motion|motion]] of something that [[i/_interlaces|interlaces]].**
 ---
 ---

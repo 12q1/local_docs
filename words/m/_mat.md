@@ -1,9 +1,9 @@
 # Mat
 ---
 #noun
-- **A [[f/_flat|flat]] piece of [[c/_coarse|coarse]] [[m/_material|material]] used for wiping [[o/_one|one]]’s [[f/_feet|feet]], or as a [[d/_decorative|decorative]] or protective [[f/_floor|floor]] [[c/_covering|covering]].**
+- **A [[f/_flat|flat]] [[p/_piece|piece]] of [[c/_coarse|coarse]] [[m/_material|material]] used for wiping [[o/_one|one]]’s [[f/_feet|feet]], or as a [[d/_decorative|decorative]] or protective [[f/_floor|floor]] [[c/_covering|covering]].**
 	- _Example: Wipe your feet on the mat before coming in._
-- **A small [[f/_flat|flat]] piece of [[m/_material|material]] used to protect a surface from [[a/_anything|anything]] [[h/_hot|hot]] or rough; a [[c/_coaster|coaster]].**
+- **A small [[f/_flat|flat]] [[p/_piece|piece]] of [[m/_material|material]] used to protect a surface from [[a/_anything|anything]] [[h/_hot|hot]] or rough; a [[c/_coaster|coaster]].**
 	- _Example: They put mats on the table during mealtimes._
 - **A [[f/_floor|floor]] [[p/_pad|pad]] to protect [[a/_athletes|athletes]].**
 	- _Example: The high jumper cleared the bar and landed safely on the mat._

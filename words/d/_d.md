@@ -6,20 +6,20 @@
 ### Synonyms
 - [[d/_dec|dec]]
 #adverb
-- **From a [[h/_higher|higher]] position to a [[l/_lower|lower]] [[o/_one|one]]; [[d/_downwards|downwards]].**
+- **From a [[h/_higher|higher]] [[p/_position|position]] to a [[l/_lower|lower]] [[o/_one|one]]; [[d/_downwards|downwards]].**
 	- _Example: The cat jumped down from the table._
-- **At a [[l/_lower|lower]] or [[f/_further|further]] place or position [[a/_along|along]] a set path.**
+- **At a [[l/_lower|lower]] or [[f/_further|further]] [[p/_place|place]] or [[p/_position|position]] [[a/_along|along]] a set [[p/_path|path]].**
 	- _Example: His place is farther down the road._
 - **South (as south is at the [[b/_bottom|bottom]] of typical [[m/_maps|maps]]).**
 	- _Example: I went down to Miami for a conference._
 - **[[a/_away|Away]] from the [[c/_city|city]] (regardless of [[d/_direction|direction]]).**
 	- _Example: He went down to Cavan._
-- **At or towards [[a/_any|any]] place that is visualised as '[[d/_down|down]]' by virtue of [[l/_local|local]] [[f/_features|features]] or [[l/_local|local]] [[c/_convention|convention]], or [[a/_arbitrarily|arbitrarily]], [[i/_irrespective|irrespective]] of [[d/_direction|direction]] or [[e/_elevation|elevation]] [[c/_change|change]].**
+- **At or towards [[a/_any|any]] [[p/_place|place]] that is visualised as '[[d/_down|down]]' by virtue of [[l/_local|local]] [[f/_features|features]] or [[l/_local|local]] [[c/_convention|convention]], or [[a/_arbitrarily|arbitrarily]], [[i/_irrespective|irrespective]] of [[d/_direction|direction]] or [[e/_elevation|elevation]] [[c/_change|change]].**
 	- _Example: She lives down by the park._
 - **Towards the [[o/_opponent|opponent]]'s side (in [[b/_ball|ball]]-sports).**
 - **[[i/_into|Into]] a state of [[n/_non|non]]-[[o/_operation|operation]].**
 	- _Example: The computer has been shut down._
-- **To a subordinate or [[l/_less|less]] prestigious position or rank.**
+- **To a subordinate or [[l/_less|less]] [[p/_prestigious|prestigious]] [[p/_position|position]] or rank.**
 	- _Example: After the incident, Kelly went down to Second Lieutenant._
 - **In the [[d/_direction|direction]] [[l/_leading|leading]] [[a/_away|away]] from the principal terminus, [[a/_away|away]] from [[m/_milepost|milepost]] zero.**
 - **(sentence substitute) [[g/_get|Get]] [[d/_down|down]].**

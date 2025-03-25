@@ -1,7 +1,7 @@
 # Generous
 ---
 #adjective
-- **[[n/_noble|Noble]] in [[b/_behaviour|behaviour]] or [[a/_actions|actions]]; principled, not petty; [[k/_kind|kind]], [[m/_magnanimous|magnanimous]].**
+- **[[n/_noble|Noble]] in [[b/_behaviour|behaviour]] or [[a/_actions|actions]]; principled, not [[p/_petty|petty]]; [[k/_kind|kind]], [[m/_magnanimous|magnanimous]].**
 	- _Example: Thank you for your generous words._
 - **Willing to [[g/_give|give]] and share unsparingly; showing a readiness to [[g/_give|give]] [[m/_more|more]] ([[e/_especially|especially]] [[m/_money|money]]) than is [[e/_expected|expected]] or [[n/_needed|needed]].**
 	- _Example: She's been extremely generous with her winnings._

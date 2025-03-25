@@ -5,7 +5,7 @@
 	- _Example: I received several calls today._
 - **A short visit, usually for social purposes.**
 	- _Example: I paid a call to a dear friend of mine._
-- **A visit by a ship or [[b/_boat|boat]] to a port.**
+- **A visit by a ship or [[b/_boat|boat]] to a [[p/_port|port]].**
 	- _Example: The ship made a call at Southampton._
 - **A [[c/_cry|cry]] or shout.**
 	- _Example: He heard a call from the other side of the room._
@@ -21,14 +21,14 @@
 - **The [[a/_act|act]] of [[c/_calling|calling]] to the [[o/_other|other]] [[b/_batsman|batsman]].**
 - **The state of [[b/_being|being]] the [[b/_batsman|batsman]] whose role it is to [[c/_call|call]] ([[d/_depends|depends]] on where the [[b/_ball|ball]] [[g/_goes|goes]].)**
 - **A work shift which requires [[o/_one|one]] to be [[a/_available|available]] when requested (see on [[c/_call|call]]).**
-- **The [[a/_act|act]] of [[j/_jumping|jumping]] to a subprogram, saving the [[m/_means|means]] to return to the [[o/_original|original]] point.**
-- **A statement of a particular state, or rule, [[m/_made|made]] in [[m/_many|many]] [[g/_games|games]] such as [[b/_bridge|bridge]], [[c/_craps|craps]], [[j/_jacks|jacks]], and so on.**
+- **The [[a/_act|act]] of [[j/_jumping|jumping]] to a subprogram, saving the [[m/_means|means]] to return to the [[o/_original|original]] [[p/_point|point]].**
+- **A statement of a [[p/_particular|particular]] state, or rule, [[m/_made|made]] in [[m/_many|many]] [[g/_games|games]] such as [[b/_bridge|bridge]], [[c/_craps|craps]], [[j/_jacks|jacks]], and so on.**
 	- _Example: There was a 20 dollar bet on the table, and my call was 9._
-- **The [[a/_act|act]] of [[m/_matching|matching]] a [[b/_bet|bet]] [[m/_made|made]] by a player who [[h/_has|has]] previously [[b/_bet|bet]] in the same round of [[b/_betting|betting]].**
+- **The [[a/_act|act]] of [[m/_matching|matching]] a [[b/_bet|bet]] [[m/_made|made]] by a [[p/_player|player]] who [[h/_has|has]] previously [[b/_bet|bet]] in the same round of [[b/_betting|betting]].**
 - **A [[n/_note|note]] [[b/_blown|blown]] on the [[h/_horn|horn]] to [[e/_encourage|encourage]] the [[d/_dogs|dogs]] in a [[h/_hunt|hunt]].**
-- **A whistle or pipe, used by the [[b/_boatswain|boatswain]] and [[h/_his|his]] [[m/_mate|mate]] to summon the sailors to [[d/_duty|duty]].**
-- **A pipe or [[o/_other|other]] [[i/_instrument|instrument]] to [[c/_call|call]] [[b/_birds|birds]] or [[a/_animals|animals]] by [[i/_imitating|imitating]] their [[n/_note|note]] or [[c/_cry|cry]]. A [[g/_game|game]] [[c/_call|call]].**
-- **An [[i/_invitation|invitation]] to take [[c/_charge|charge]] of or serve a [[c/_church|church]] as [[i/_its|its]] pastor.**
+- **A whistle or [[p/_pipe|pipe]], used by the [[b/_boatswain|boatswain]] and [[h/_his|his]] [[m/_mate|mate]] to summon the sailors to [[d/_duty|duty]].**
+- **A [[p/_pipe|pipe]] or [[o/_other|other]] [[i/_instrument|instrument]] to [[c/_call|call]] [[b/_birds|birds]] or [[a/_animals|animals]] by [[i/_imitating|imitating]] their [[n/_note|note]] or [[c/_cry|cry]]. A [[g/_game|game]] [[c/_call|call]].**
+- **An [[i/_invitation|invitation]] to take [[c/_charge|charge]] of or serve a [[c/_church|church]] as [[i/_its|its]] [[p/_pastor|pastor]].**
 - **Vocation; [[e/_employment|employment]]; [[c/_calling|calling]].**
 - **A reference to, or statement of, an [[o/_object|object]], [[c/_course|course]], [[d/_distance|distance]], or [[o/_other|other]] [[m/_matter|matter]] of [[d/_description|description]] in a survey or [[g/_grant|grant]] requiring or [[c/_calling|calling]] for a [[c/_corresponding|corresponding]] [[o/_object|object]], [[e/_etc|etc]]., on the [[l/_land|land]].**
 - **(prostitution) A [[m/_meeting|meeting]] with a [[c/_client|client]] for [[p/_paid|paid]] sex; [[h/_hookup|hookup]]; [[j/_job|job]].**
@@ -40,9 +40,9 @@
 - **([[h/_heading|heading]]) [[d/_direct|Direct]] or [[i/_indirect|indirect]] use of the voice.**
 - **(sometimes with for) To require, [[d/_demand|demand]].**
 	- _Example: He felt called to help the old man._
-- **To [[a/_announce|announce]] the [[e/_early|early]] [[e/_extinction|extinction]] of a [[d/_debt|debt]] by prepayment, usually at a premium.**
+- **To [[a/_announce|announce]] the [[e/_early|early]] [[e/_extinction|extinction]] of a [[d/_debt|debt]] by [[p/_prepayment|prepayment]], usually at a [[p/_premium|premium]].**
 - **To [[d/_demand|demand]] repayment of a [[l/_loan|loan]].**
-- **To [[j/_jump|jump]] to ([[a/_another|another]] part of a program) to perform some [[o/_operation|operation]], returning to the [[o/_original|original]] point on [[c/_completion|completion]].**
+- **To [[j/_jump|jump]] to ([[a/_another|another]] [[p/_part|part]] of a program) to [[p/_perform|perform]] some [[o/_operation|operation]], returning to the [[o/_original|original]] [[p/_point|point]] on [[c/_completion|completion]].**
 	- _Example: A recursive function is one that calls itself._
 ---
 ### Synonyms

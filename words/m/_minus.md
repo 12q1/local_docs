@@ -13,11 +13,11 @@
 - **To subtract.**
 ---
 #adjective
-- **[[b/_being|Being]] a [[n/_negative|negative]] quantity; pertaining to a [[d/_deficit|deficit]] or reduction.**
+- **[[b/_being|Being]] a [[n/_negative|negative]] quantity; [[p/_pertaining|pertaining]] to a [[d/_deficit|deficit]] or reduction.**
 	- _Example: a minus number_
 - **That is [[b/_below|below]] zero by (a specified [[a/_amount|amount]]) on a scale.**
 	- _Example: minus seven degrees_
-- **Worse [[o/_off|off]] than [[b/_before|before]]; [[o/_out|out]] of pocket.**
+- **Worse [[o/_off|off]] than [[b/_before|before]]; [[o/_out|out]] of [[p/_pocket|pocket]].**
 - **Ranking [[j/_just|just]] [[b/_below|below]] (a [[d/_designated|designated]] rating).**
 	- _Example: He got a grade of B minus for his essay._
 ---

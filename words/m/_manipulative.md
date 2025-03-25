@@ -6,6 +6,6 @@
 #adjective
 - **Using [[m/_manipulation|manipulation]] purposefully.**
 - **Tending to [[m/_manipulate|manipulate]].**
-- **Reaching [[o/_one|one]]'s [[g/_goals|goals]] at the [[e/_expense|expense]] of [[o/_other|other]] people by using them.**
+- **Reaching [[o/_one|one]]'s [[g/_goals|goals]] at the [[e/_expense|expense]] of [[o/_other|other]] [[p/_people|people]] by using them.**
 ---
 ---

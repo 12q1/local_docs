@@ -6,6 +6,6 @@
 ---
 #verb
 - **(of [[a/_aircraft|aircraft]]) To [[d/_dive|dive]] [[d/_down|down]] in a steep [[a/_angle|angle]].**
-- **To perform a rapid [[f/_fall|fall]] in price or value.**
+- **To [[p/_perform|perform]] a rapid [[f/_fall|fall]] in price or value.**
 ---
 ---

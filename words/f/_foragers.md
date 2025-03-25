@@ -1,6 +1,6 @@
 # Foragers
 ---
 #noun
-- **An [[a/_animal|animal]] or person who [[f/_forages|forages]]**
+- **An [[a/_animal|animal]] or [[p/_person|person]] who [[f/_forages|forages]]**
 ---
 ---

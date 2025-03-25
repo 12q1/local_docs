@@ -1,6 +1,6 @@
 # Dasein
 ---
 #noun
-- **[[b/_being|Being]]; [[e/_especially|especially]] the [[n/_nature|nature]] of [[b/_being|being]]; [[e/_existence|existence]], presence, [[h/_hereness|hereness]], suchness, [[e/_essence|essence]]**
+- **[[b/_being|Being]]; [[e/_especially|especially]] the [[n/_nature|nature]] of [[b/_being|being]]; [[e/_existence|existence]], [[p/_presence|presence]], [[h/_hereness|hereness]], suchness, [[e/_essence|essence]]**
 ---
 ---

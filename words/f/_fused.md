@@ -12,6 +12,6 @@
 - **[[j/_joined|Joined]] together by [[f/_fusing|fusing]]**
 - **[[m/_melted|Melted]]**
 - **[[f/_furnished|Furnished]] with a [[f/_fuse|fuse]]**
-- **[[h/_having|Having]] at [[l/_least|least]] [[o/_one|one]] [[b/_bond|bond]] [[b/_between|between]] two [[a/_atoms|atoms]] that is part of two or [[m/_more|more]] separate rings**
+- **[[h/_having|Having]] at [[l/_least|least]] [[o/_one|one]] [[b/_bond|bond]] [[b/_between|between]] two [[a/_atoms|atoms]] that is [[p/_part|part]] of two or [[m/_more|more]] separate rings**
 ---
 ---

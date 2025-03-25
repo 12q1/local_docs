@@ -1,10 +1,10 @@
 # Lull
 ---
 #noun
-- **A period of rest or soothing.**
-- **A period of reduced [[a/_activity|activity]]; a respite**
-- **A period without waves or wind.**
-- **An [[e/_extended|extended]] pause [[b/_between|between]] sets of waves.**
+- **A [[p/_period|period]] of rest or soothing.**
+- **A [[p/_period|period]] of reduced [[a/_activity|activity]]; a respite**
+- **A [[p/_period|period]] without waves or wind.**
+- **An [[e/_extended|extended]] [[p/_pause|pause]] [[b/_between|between]] sets of waves.**
 ---
 #verb
 - **To [[c/_cause|cause]] to rest by soothing [[i/_influences|influences]]; to [[c/_compose|compose]]; to [[c/_calm|calm]]**

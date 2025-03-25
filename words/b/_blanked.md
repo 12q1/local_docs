@@ -3,7 +3,7 @@
 #verb
 - **To [[m/_make|make]] void; to [[e/_erase|erase]].**
 	- _Example: I blanked out my previous entry._
-- **To [[i/_ignore|ignore]] (a person) [[d/_deliberately|deliberately]].**
+- **To [[i/_ignore|ignore]] (a [[p/_person|person]]) [[d/_deliberately|deliberately]].**
 	- _Example: She blanked me for no reason._
 - **To prevent from scoring, for [[e/_example|example]] in a sporting [[e/_event|event]].**
 	- _Example: England blanks Wales to advance to the final._

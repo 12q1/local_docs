@@ -4,9 +4,9 @@
 - **An [[a/_attendant|attendant]] spirit, [[o/_often|often]] in [[a/_animal|animal]] or [[d/_demon|demon]] [[f/_form|form]].**
 	- _Example: The witch’s familiar was a black cat._
 - **A [[m/_member|member]] of [[o/_one|one]]'s [[f/_family|family]] or [[h/_household|household]].**
-- **A [[m/_member|member]] of a pope's or [[b/_bishop|bishop]]'s [[h/_household|household]].**
+- **A [[m/_member|member]] of a [[p/_pope|pope]]'s or [[b/_bishop|bishop]]'s [[h/_household|household]].**
 - **A [[c/_close|close]] [[f/_friend|friend]].**
-- **The [[o/_officer|officer]] of the [[i/_inquisition|Inquisition]] who [[a/_arrested|arrested]] suspected people.**
+- **The [[o/_officer|officer]] of the [[i/_inquisition|Inquisition]] who [[a/_arrested|arrested]] suspected [[p/_people|people]].**
 ---
 ### Synonyms
 - [[n/_nigget|nigget]]
@@ -19,7 +19,7 @@
 	- _Example: we are not on familiar terms; our neighbour is not familiar_
 - **[[i/_inappropriately|Inappropriately]] [[i/_intimate|intimate]] or [[f/_friendly|friendly]].**
 	- _Example: Don’t be familiar with me, boy!_
-- **Of or pertaining to a [[f/_family|family]]; [[f/_familial|familial]].**
+- **Of or [[p/_pertaining|pertaining]] to a [[f/_family|family]]; [[f/_familial|familial]].**
 ---
 ### Synonyms
 - [[a/_acquainted|acquainted]], [[c/_cheeky|cheeky]], [[f/_fresh|fresh]], [[i/_impudent|impudent]], [[c/_close|close]], [[f/_friendly|friendly]], [[i/_intimate|intimate]], [[p/_personal|personal]]

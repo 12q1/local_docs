@@ -4,9 +4,9 @@
 - **A [[h/_historical|historical]] romance.**
 ---
 #adjective
-- **Of, [[c/_concerning|concerning]], or in [[a/_accordance|accordance]] with recorded [[h/_history|history]], (particularly) as [[o/_opposed|opposed]] to [[l/_legends|legends]], [[m/_myths|myths]], and [[f/_fictions|fictions]].**
+- **Of, [[c/_concerning|concerning]], or in [[a/_accordance|accordance]] with recorded [[h/_history|history]], ([[p/_particularly|particularly]]) as [[o/_opposed|opposed]] to [[l/_legends|legends]], [[m/_myths|myths]], and [[f/_fictions|fictions]].**
 	- _Example: July 4, 1776, is a historic date. A great deal of historical research has been done on the events leading up to that day._
-- **Of, [[c/_concerning|concerning]], or in [[a/_accordance|accordance]] with the past [[g/_generally|generally]].**
+- **Of, [[c/_concerning|concerning]], or in [[a/_accordance|accordance]] with the [[p/_past|past]] [[g/_generally|generally]].**
 - **Of, [[c/_concerning|concerning]], or in [[a/_accordance|accordance]] with the scholarly [[d/_discipline|discipline]] of [[h/_history|history]].**
 	- _Example: The Royal Historical Society_
 - **[[f/_forming|Forming]] [[c/_compound|compound]] [[a/_adjectives|adjectives]] with the [[m/_meaning|meaning]] "[[h/_historical|historical]]/~" or "[[h/_historically|historically]]":**

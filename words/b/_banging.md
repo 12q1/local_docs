@@ -9,7 +9,7 @@
 	- _Example: We can hear the couple banging upstairs._
 - **(with "in") To [[h/_hammer|hammer]] or to [[h/_hit|hit]] [[a/_anything|anything]] [[h/_hard|hard]].**
 	- _Example: Hold the picture while I bang in this nail._
-- **To [[c/_cut|cut]] squarely [[a/_across|across]], as the tail of a [[h/_horse|horse]], or a person's [[f/_forelock|forelock]]; to [[c/_cut|cut]] (the [[h/_hair|hair]]).**
+- **To [[c/_cut|cut]] squarely [[a/_across|across]], as the tail of a [[h/_horse|horse]], or a [[p/_person|person]]'s [[f/_forelock|forelock]]; to [[c/_cut|cut]] (the [[h/_hair|hair]]).**
 - **To [[i/_inject|inject]] [[i/_intravenously|intravenously]].**
 	- _Example: Do you smoke meth? No, I bang it._
 ---

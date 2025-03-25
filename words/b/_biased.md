@@ -1,11 +1,11 @@
 # Biased
 ---
 #verb
-- **To place [[b/_bias|bias]] upon; to [[i/_influence|influence]].**
+- **To [[p/_place|place]] [[b/_bias|bias]] upon; to [[i/_influence|influence]].**
 	- _Example: Our prejudices bias our views._
 ---
 #adjective
-- **[[e/_exhibiting|Exhibiting]] [[b/_bias|bias]]; prejudiced.**
+- **[[e/_exhibiting|Exhibiting]] [[b/_bias|bias]]; [[p/_prejudiced|prejudiced]].**
 	- _Example: The newspaper gave a biased account of the incident._
 - **[[a/_angled|Angled]] at a slant.**
 	- _Example: The table had a biased edge._

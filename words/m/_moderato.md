@@ -1,15 +1,15 @@
 # Moderato
 ---
 #noun
-- **A tempo [[m/_mark|mark]] [[d/_directing|directing]] that a passage is to be played at a [[m/_moderate|moderate]] tempo.**
-- **A passage [[h/_having|having]] this [[m/_mark|mark]]**
+- **A tempo [[m/_mark|mark]] [[d/_directing|directing]] that a [[p/_passage|passage]] is to be [[p/_played|played]] at a [[m/_moderate|moderate]] tempo.**
+- **A [[p/_passage|passage]] [[h/_having|having]] this [[m/_mark|mark]]**
 ---
 ### Synonyms
 - [[c/_comodo|comodo]]
 #adjective
-- **(to be) played in this style**
+- **(to be) [[p/_played|played]] in this style**
 ---
 #adverb
-- **Played in this style**
+- **[[p/_played|Played]] in this style**
 ---
 ---

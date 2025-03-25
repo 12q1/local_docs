@@ -7,11 +7,11 @@
 	- _Example: He watched the house burn._
 - **To [[o/_overheat|overheat]] so as to [[m/_make|make]] unusable.**
 	- _Example: He burned the toast. The blacksmith burned the steel._
-- **To [[b/_become|become]] [[o/_overheated|overheated]] to the point of [[b/_being|being]] unusable.**
+- **To [[b/_become|become]] [[o/_overheated|overheated]] to the [[p/_point|point]] of [[b/_being|being]] unusable.**
 	- _Example: The grill was too hot and the steak burned._
 - **To [[m/_make|make]] or produce by the [[a/_application|application]] of [[f/_fire|fire]] or [[b/_burning|burning]] [[h/_heat|heat]].**
 	- _Example: to burn a hole;  to burn letters into a block_
-- **To [[i/_injure|injure]] (a person or [[a/_animal|animal]]) with [[h/_heat|heat]] or [[c/_chemicals|chemicals]] that produce similar [[d/_damage|damage]].**
+- **To [[i/_injure|injure]] (a [[p/_person|person]] or [[a/_animal|animal]]) with [[h/_heat|heat]] or [[c/_chemicals|chemicals]] that produce similar [[d/_damage|damage]].**
 	- _Example: She burned the child with an iron, and was jailed for ten years._
 - **To [[c/_cauterize|cauterize]].**
 - **To sunburn.**
@@ -24,7 +24,7 @@
 	- _Example: A human being burns a certain amount of carbon at each respiration.  to burn iron in oxygen_
 - **To [[c/_combine|combine]] [[e/_energetically|energetically]], with [[e/_evolution|evolution]] of [[h/_heat|heat]].**
 	- _Example: Copper burns in chlorine._
-- **To write [[d/_data|data]] to a permanent storage [[m/_medium|medium]] [[l/_like|like]] a [[c/_compact|compact]] [[d/_disc|disc]] or a ROM [[c/_chip|chip]].**
+- **To write [[d/_data|data]] to a [[p/_permanent|permanent]] storage [[m/_medium|medium]] [[l/_like|like]] a [[c/_compact|compact]] [[d/_disc|disc]] or a ROM [[c/_chip|chip]].**
 	- _Example: We’ll burn this program onto an EEPROM one hour before the demo begins._
 - **To [[b/_betray|betray]].**
 	- _Example: The informant burned him._
@@ -35,7 +35,7 @@
 - **In [[c/_certain|certain]] [[g/_games|games]], to [[a/_approach|approach]] [[n/_near|near]] to a [[c/_concealed|concealed]] [[o/_object|object]] which is sought.**
 	- _Example: You're cold... warm... hot... you're burning!_
 - **To [[a/_accidentally|accidentally]] touch a [[m/_moving|moving]] stone.**
-- **In pontoon, to swap a [[p/_pair|pair]] of [[c/_cards|cards]] for [[a/_another|another]] [[p/_pair|pair]], or to [[d/_deal|deal]] a [[d/_dead|dead]] [[c/_card|card]].**
+- **In [[p/_pontoon|pontoon]], to swap a [[p/_pair|pair]] of [[c/_cards|cards]] for [[a/_another|another]] [[p/_pair|pair]], or to [[d/_deal|deal]] a [[d/_dead|dead]] [[c/_card|card]].**
 - **To [[i/_increase|increase]] the [[e/_exposure|exposure]] for [[c/_certain|certain]] [[a/_areas|areas]] of a print in [[o/_order|order]] to [[m/_make|make]] them [[l/_lighter|lighter]] ([[c/_compare|compare]] [[d/_dodge|dodge]]).**
 - **(of an [[e/_element|element]]) To be [[c/_converted|converted]] to [[a/_another|another]] [[e/_element|element]] in a [[n/_nuclear|nuclear]] [[f/_fusion|fusion]] reaction, [[e/_especially|especially]] in a star**
 - **To [[d/_discard|discard]].**

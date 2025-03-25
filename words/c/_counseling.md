@@ -7,6 +7,6 @@
 	- _Example: I would counsel prudence in this matter._
 ---
 #noun
-- **[[a/_assistance|Assistance]] ([[e/_especially|especially]] from a professional) in the resolution of personal [[d/_difficulties|difficulties]].**
+- **[[a/_assistance|Assistance]] ([[e/_especially|especially]] from a professional) in the resolution of [[p/_personal|personal]] [[d/_difficulties|difficulties]].**
 ---
 ---

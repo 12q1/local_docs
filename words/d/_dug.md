@@ -6,12 +6,12 @@
 - **To [[g/_get|get]] by [[d/_digging|digging]]; to take from the [[g/_ground|ground]]; [[o/_often|often]] with up.**
 	- _Example: to dig potatoes_
 - **To take [[o/_ore|ore]] from [[i/_its|its]] [[b/_bed|bed]], in [[d/_distinction|distinction]] from [[m/_making|making]] [[e/_excavations|excavations]] in search of [[o/_ore|ore]].**
-- **To work [[l/_like|like]] a [[d/_digger|digger]]; to study ploddingly and [[l/_laboriously|laboriously]].**
+- **To work [[l/_like|like]] a [[d/_digger|digger]]; to study [[p/_ploddingly|ploddingly]] and [[l/_laboriously|laboriously]].**
 - **To [[i/_investigate|investigate]], to research, [[o/_often|often]] [[f/_followed|followed]] by [[o/_out|out]] or up.**
 	- _Example: to dig out the facts_
-- **To thrust; to poke.**
+- **To thrust; to [[p/_poke|poke]].**
 	- _Example: He dug an elbow into my ribs and guffawed at his own joke._
-- **To [[d/_defend|defend]] [[a/_against|against]] an [[a/_attack|attack]] [[h/_hit|hit]] by the [[o/_opposing|opposing]] team by successfully passing the [[b/_ball|ball]]**
+- **To [[d/_defend|defend]] [[a/_against|against]] an [[a/_attack|attack]] [[h/_hit|hit]] by the [[o/_opposing|opposing]] team by successfully [[p/_passing|passing]] the [[b/_ball|ball]]**
 ---
 #verb
 - **To understand or show [[i/_interest|interest]] in.**

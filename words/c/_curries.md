@@ -2,13 +2,13 @@
 ---
 #noun
 - **[[o/_one|One]] of a [[f/_family|family]] of [[d/_dishes|dishes]] [[o/_originating|originating]] from South [[a/_asian|Asian]] [[c/_cuisine|cuisine]], [[f/_flavoured|flavoured]] by a spiced sauce.**
-- **A spiced sauce or relish, [[e/_especially|especially]] [[o/_one|one]] [[f/_flavoured|flavoured]] with [[c/_curry|curry]] powder.**
-- **[[c/_curry|Curry]] powder.**
+- **A spiced sauce or relish, [[e/_especially|especially]] [[o/_one|one]] [[f/_flavoured|flavoured]] with [[c/_curry|curry]] [[p/_powder|powder]].**
+- **[[c/_curry|Curry]] [[p/_powder|powder]].**
 ---
 ### Synonyms
 - 
 #verb
-- **To [[c/_cook|cook]] or season with [[c/_curry|curry]] powder.**
+- **To [[c/_cook|cook]] or season with [[c/_curry|curry]] [[p/_powder|powder]].**
 ---
 #verb
 - **To [[g/_groom|groom]] (a [[h/_horse|horse]]); to [[d/_dress|dress]] or rub [[d/_down|down]] a [[h/_horse|horse]] with a [[c/_curry|curry]] [[c/_comb|comb]].**
@@ -17,7 +17,7 @@
 - **To try to win or [[g/_gain|gain]] ([[f/_favour|favour]]) by [[f/_flattering|flattering]].**
 ---
 #verb
-- **To perform [[c/_currying|currying]] upon.**
+- **To [[p/_perform|perform]] [[c/_currying|currying]] upon.**
 ---
 #verb
 - **To scurry; to ride or run [[h/_hastily|hastily]]**
@@ -31,7 +31,7 @@
 ### Synonyms
 - [[d/_delf|delf]]
 #noun
-- **A part of the [[e/_entrails|entrails]] of a [[h/_hunted|hunted]] [[a/_animal|animal]], [[g/_given|given]] to the [[h/_hounds|hounds]] as a reward.**
+- **A [[p/_part|part]] of the [[e/_entrails|entrails]] of a [[h/_hunted|hunted]] [[a/_animal|animal]], [[g/_given|given]] to the [[h/_hounds|hounds]] as a reward.**
 - **An [[a/_animal|animal]], [[o/_often|often]] a [[b/_bird|bird]] or [[m/_mammal|mammal]], which is [[h/_hunted|hunted]].**
 - **An [[o/_object|object]] of search or pursuit.**
 ---

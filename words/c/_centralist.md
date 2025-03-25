@@ -4,6 +4,6 @@
 - **A proponent of [[c/_centralism|centralism]]**
 ---
 #adjective
-- **Of or pertaining to [[c/_centralism|centralism]]**
+- **Of or [[p/_pertaining|pertaining]] to [[c/_centralism|centralism]]**
 ---
 ---

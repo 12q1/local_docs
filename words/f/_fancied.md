@@ -13,8 +13,8 @@
 	- _Example: I fancy that girl over there._
 - **To [[i/_imagine|imagine]], suppose.**
 	- _Example: Fancy meeting you here!_
-- **To [[f/_form|form]] a [[c/_conception|conception]] of; to portray in the [[m/_mind|mind]].**
-- **To [[h/_have|have]] a [[f/_fancy|fancy]] for; to [[l/_like|like]]; to be pleased with, particularly on [[a/_account|account]] of [[e/_external|external]] [[a/_appearance|appearance]] or [[m/_manners|manners]].**
+- **To [[f/_form|form]] a [[c/_conception|conception]] of; to [[p/_portray|portray]] in the [[m/_mind|mind]].**
+- **To [[h/_have|have]] a [[f/_fancy|fancy]] for; to [[l/_like|like]]; to be [[p/_pleased|pleased]] with, [[p/_particularly|particularly]] on [[a/_account|account]] of [[e/_external|external]] [[a/_appearance|appearance]] or [[m/_manners|manners]].**
 - **To [[b/_breed|breed]] ([[a/_animals|animals]]) as a [[h/_hobby|hobby]].**
 ---
 ### Synonyms

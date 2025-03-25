@@ -1,8 +1,8 @@
 # Chapel
 ---
 #noun
-- **A place of worship, smaller than or subordinate to a [[c/_church|church]].**
-- **A place of worship in [[a/_another|another]] [[b/_building|building]] or within a [[c/_civil|civil]] [[i/_institution|institution]] such as a [[l/_larger|larger]] [[c/_church|church]], [[a/_airport|airport]], prison, [[m/_monastery|monastery]], school, [[e/_etc|etc]].; [[o/_often|often]] primarily for private prayer.**
+- **A [[p/_place|place]] of worship, smaller than or subordinate to a [[c/_church|church]].**
+- **A [[p/_place|place]] of worship in [[a/_another|another]] [[b/_building|building]] or within a [[c/_civil|civil]] [[i/_institution|institution]] such as a [[l/_larger|larger]] [[c/_church|church]], [[a/_airport|airport]], prison, [[m/_monastery|monastery]], school, [[e/_etc|etc]].; [[o/_often|often]] primarily for private [[p/_prayer|prayer]].**
 - **A [[f/_funeral|funeral]] [[h/_home|home]], or a room in [[o/_one|one]] for [[h/_holding|holding]] [[f/_funeral|funeral]] services.**
 - **A trade union [[b/_branch|branch]] in printing or [[j/_journalism|journalism]].**
 - **A printing [[o/_office|office]].**
@@ -13,7 +13,7 @@
 - **To [[d/_deposit|deposit]] or [[i/_inter|inter]] in a [[c/_chapel|chapel]]; to [[e/_enshrine|enshrine]].**
 ---
 #adjective
-- **[[d/_describing|Describing]] a person who [[a/_attends|attends]] a [[n/_nonconformist|nonconformist]] [[c/_chapel|chapel]].**
+- **[[d/_describing|Describing]] a [[p/_person|person]] who [[a/_attends|attends]] a [[n/_nonconformist|nonconformist]] [[c/_chapel|chapel]].**
 	- _Example: The village butcher is chapel._
 ---
 ---

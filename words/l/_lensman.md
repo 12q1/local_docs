@@ -1,6 +1,6 @@
 # Lensman
 ---
 #noun
-- **A [[m/_male|male]] photographer**
+- **A [[m/_male|male]] [[p/_photographer|photographer]]**
 ---
 ---

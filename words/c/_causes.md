@@ -8,7 +8,7 @@
 - **A [[g/_goal|goal]], [[a/_aim|aim]] or principle, [[e/_especially|especially]] [[o/_one|one]] which transcends purely selfish [[e/_ends|ends]].**
 - **Sake; [[i/_interest|interest]]; [[a/_advantage|advantage]].**
 - **[[a/_any|Any]] subject of [[d/_discussion|discussion]] or [[d/_debate|debate]]; a [[m/_matter|matter]]; an [[a/_affair|affair]].**
-- **A suit or [[a/_action|action]] in [[c/_court|court]]; [[a/_any|any]] [[l/_legal|legal]] process by which a party [[e/_endeavors|endeavors]] to [[o/_obtain|obtain]] [[h/_his|his]] [[c/_claim|claim]], or what [[h/_he|he]] regards as [[h/_his|his]] right; [[c/_case|case]]; [[g/_ground|ground]] of [[a/_action|action]].**
+- **A suit or [[a/_action|action]] in [[c/_court|court]]; [[a/_any|any]] [[l/_legal|legal]] process by which a [[p/_party|party]] [[e/_endeavors|endeavors]] to [[o/_obtain|obtain]] [[h/_his|his]] [[c/_claim|claim]], or what [[h/_he|he]] regards as [[h/_his|his]] right; [[c/_case|case]]; [[g/_ground|ground]] of [[a/_action|action]].**
 ---
 ### Synonyms
 - [[g/_grounds|grounds]], [[j/_justification|justification]]

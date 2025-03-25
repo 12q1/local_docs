@@ -9,6 +9,6 @@
 - **To put ([[h/_hair|hair]]) [[i/_into|into]] a [[b/_barrette|barrette]].**
 ---
 #noun
-- **The [[l/_lower|lower]] part of the [[e/_epimeron|epimeron]].**
+- **The [[l/_lower|lower]] [[p/_part|part]] of the [[e/_epimeron|epimeron]].**
 ---
 ---

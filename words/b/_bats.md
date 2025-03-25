@@ -10,10 +10,10 @@
 - **A [[c/_club|club]] [[m/_made|made]] of wood or [[a/_aluminium|aluminium]] used for striking the [[b/_ball|ball]] in sports such as [[b/_baseball|baseball]], softball and [[c/_cricket|cricket]].**
 - **A turn at [[h/_hitting|hitting]] the [[b/_ball|ball]] with a [[b/_bat|bat]] in a [[g/_game|game]].**
 	- _Example: You've been in for ages. Can I have a bat now?_
-- **The piece of wood on which the spinner places the [[c/_coins|coins]] and then uses for throwing them.**
+- **The [[p/_piece|piece]] of wood on which the spinner [[p/_places|places]] the [[c/_coins|coins]] and then uses for throwing them.**
 - **Shale or [[b/_bituminous|bituminous]] shale.**
 - **A sheet of [[c/_cotton|cotton]] used for [[f/_filling|filling]] quilts or comfortables; [[b/_batting|batting]].**
-- **A part of a [[b/_brick|brick]] with [[o/_one|one]] whole [[e/_end|end]].**
+- **A [[p/_part|part]] of a [[b/_brick|brick]] with [[o/_one|one]] whole [[e/_end|end]].**
 - **A stroke; a sharp [[b/_blow|blow]].**
 - **A stroke of work.**
 - **Rate of [[m/_motion|motion]]; speed.**
@@ -34,7 +34,7 @@
 	- _Example: bat one's eyelashes_
 - **To wink.**
 - **To [[b/_bate|bate]] or [[f/_flutter|flutter]], as a [[h/_hawk|hawk]].**
-- **(usually with '[[a/_around|around]]' or '[[a/_about|about]]') To [[f/_flit|flit]] quickly from place to place.**
+- **(usually with '[[a/_around|around]]' or '[[a/_about|about]]') To [[f/_flit|flit]] quickly from [[p/_place|place]] to [[p/_place|place]].**
 	- _Example: I've spent all week batting around the country._
 ---
 #noun

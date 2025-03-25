@@ -1,7 +1,7 @@
 # Condemned
 ---
 #verb
-- **To strongly [[c/_criticise|criticise]] or [[d/_denounce|denounce]]; to [[e/_excoriate|excoriate]] the perpetrators of.**
+- **To strongly [[c/_criticise|criticise]] or [[d/_denounce|denounce]]; to [[e/_excoriate|excoriate]] the [[p/_perpetrators|perpetrators]] of.**
 	- _Example: The president condemned the terrorists._
 - **To [[j/_judicially|judicially]] pronounce (someone) [[g/_guilty|guilty]].**
 - **To [[c/_confer|confer]] [[e/_eternal|eternal]] [[d/_divine|divine]] punishment upon.**
@@ -17,7 +17,7 @@
 ### Antonyms
 - [[a/_acquit|acquit]], [[s/_save|save]]
 #noun
-- **A person sentenced to [[d/_death|death]].**
+- **A [[p/_person|person]] sentenced to [[d/_death|death]].**
 ---
 #adjective
 - **[[h/_having|Having]] received a [[c/_curse|curse]] to be [[d/_doomed|doomed]] to suffer [[e/_eternally|eternally]].**

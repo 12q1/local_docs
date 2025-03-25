@@ -7,7 +7,7 @@
 - **Something that [[c/_can|can]] [[m/_move|move]].**
 ---
 #noun
-- **A portable telephone that [[c/_connects|connects]] with the telephone [[n/_network|network]] [[o/_over|over]] radio wave transmission.**
+- **A [[p/_portable|portable]] telephone that [[c/_connects|connects]] with the telephone [[n/_network|network]] [[o/_over|over]] radio wave transmission.**
 ---
 ### Synonyms
 - [[c/_cell|cell]], [[c/_cellphone|cellphone]], [[c/_cellular|cellular]], [[h/_handphone|handphone]], [[m/_mobile|mobile]]

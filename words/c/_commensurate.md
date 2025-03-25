@@ -6,7 +6,7 @@
 ---
 #adjective
 - **Of a proportionate or similar [[m/_measurable|measurable]] standard.**
-- **[[d/_describing|Describing]] a [[c/_crystal|crystal]] in which [[e/_every|every]] [[a/_atom|atom]] or [[m/_molecule|molecule]] is placed in the same relative position**
+- **[[d/_describing|Describing]] a [[c/_crystal|crystal]] in which [[e/_every|every]] [[a/_atom|atom]] or [[m/_molecule|molecule]] is [[p/_placed|placed]] in the same relative [[p/_position|position]]**
 ---
 ### Antonyms
 - [[d/_discommensurate|discommensurate]], [[i/_incommensurate|incommensurate]]

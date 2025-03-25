@@ -12,6 +12,6 @@
 - [[i/_influx|influx]]
 #verb
 - **To run [[o/_out|out]]; to [[f/_flow|flow]] [[f/_forth|forth]].**
-- **To pass [[a/_away|away]].**
+- **To [[p/_pass|pass]] [[a/_away|away]].**
 ---
 ---

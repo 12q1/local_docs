@@ -1,6 +1,6 @@
 # Nickelled
 ---
 #verb
-- **To plate with [[n/_nickel|nickel]].**
+- **To [[p/_plate|plate]] with [[n/_nickel|nickel]].**
 ---
 ---

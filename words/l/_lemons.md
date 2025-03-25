@@ -9,7 +9,7 @@
 	- _Example: He didn’t realise until he’d paid for it that the car was a lemon._
 - **(shortened from “[[l/_lemon|lemon]] [[f/_flavour|flavour]]”) [[f/_favor|Favor]].**
 	- _Example: A thousand quid for that motor? Do me a lemon, I could get it for half that._
-- **A piece of fanfiction [[i/_involving|involving]] [[e/_explicit|explicit]] sex ([[n/_named|named]] [[a/_after|after]] the [[e/_erotic|erotic]] [[a/_anime|anime]] series [[c/_cream|Cream]] [[l/_lemon|Lemon]]).**
+- **A [[p/_piece|piece]] of fanfiction [[i/_involving|involving]] [[e/_explicit|explicit]] sex ([[n/_named|named]] [[a/_after|after]] the [[e/_erotic|erotic]] [[a/_anime|anime]] series [[c/_cream|Cream]] [[l/_lemon|Lemon]]).**
 ---
 ### Synonyms
 - [[b/_bomb|bomb]], [[P/_PWP|PWP]], [[s/_smutfic|smutfic]]

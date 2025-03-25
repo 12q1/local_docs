@@ -10,8 +10,8 @@
 - **A [[b/_building|building]] providing student [[a/_accommodation|accommodation]] at a university.**
 	- _Example: The student government hosted several social events so that students from different halls would intermingle._
 - **The principal room of a secular [[m/_medieval|medieval]] [[b/_building|building]].**
-- **[[c/_cleared|Cleared]] passageway through a [[c/_crowd|crowd]], as for [[d/_dancing|dancing]].**
-- **A place for special professional [[e/_education|education]], or for [[c/_conferring|conferring]] professional [[d/_degrees|degrees]] or [[l/_licences|licences]].**
+- **[[c/_cleared|Cleared]] [[p/_passageway|passageway]] through a [[c/_crowd|crowd]], as for [[d/_dancing|dancing]].**
+- **A [[p/_place|place]] for special professional [[e/_education|education]], or for [[c/_conferring|conferring]] professional [[d/_degrees|degrees]] or [[l/_licences|licences]].**
 	- _Example: a Divinity Hall; Apothecaries' Hall_
 - **A [[l/_living|living]] room.**
 ---

@@ -5,6 +5,6 @@
 - **[[o/_one|One]] who supports [[a/_adoption|adoption]].**
 ---
 #adjective
-- **Of or pertaining to [[a/_adoptionism|adoptionism]].**
+- **Of or [[p/_pertaining|pertaining]] to [[a/_adoptionism|adoptionism]].**
 ---
 ---

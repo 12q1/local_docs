@@ -6,7 +6,7 @@
 - **To be [[a/_ashamed|ashamed]] or [[e/_embarrassed|embarrassed]] (to [[d/_do|do]] something).**
 - **To [[b/_become|become]] red.**
 - **To suffuse with a [[b/_blush|blush]]; to redden; to [[m/_make|make]] rosy.**
-- **To [[c/_change|change]] skin [[c/_color|color]] in the [[f/_face|face]] (to a particular shade).**
+- **To [[c/_change|change]] skin [[c/_color|color]] in the [[f/_face|face]] (to a [[p/_particular|particular]] shade).**
 	- _Example: I wasn't surprised, but it was embarrassing enough that I blushed a little pink._
 - **To [[e/_express|express]] or [[m/_make|make]] [[k/_known|known]] by [[b/_blushing|blushing]].**
 	- _Example: Looking at me with a knowing glare, she blushed her discomfort with the situation._

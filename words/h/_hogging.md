@@ -1,7 +1,7 @@
 # Hogging
 ---
 #verb
-- **To [[g/_greedily|greedily]] take [[m/_more|more]] than [[o/_one|one]]'s share, to take precedence at the [[e/_expense|expense]] of [[a/_another|another]] or [[o/_others|others]].**
+- **To [[g/_greedily|greedily]] take [[m/_more|more]] than [[o/_one|one]]'s share, to take [[p/_precedence|precedence]] at the [[e/_expense|expense]] of [[a/_another|another]] or [[o/_others|others]].**
 	- _Example: Hey! Quit hogging all the blankets._
 - **To [[c/_clip|clip]] the [[m/_mane|mane]] of a [[h/_horse|horse]], [[m/_making|making]] it short and [[b/_bristly|bristly]].**
 - **To scrub with a [[h/_hog|hog]], or scrubbing [[b/_broom|broom]].**

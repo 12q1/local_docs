@@ -8,7 +8,7 @@
 ---
 #adjective
 - **[[a/_arising|Arising]] as the result of an [[e/_event|event]], [[i/_inherent|inherent]].**
-- **(of a stream of particles or radiation) [[f/_falling|Falling]] on or striking a surface.**
+- **(of a stream of [[p/_particles|particles]] or radiation) [[f/_falling|Falling]] on or striking a surface.**
 	- _Example: The incident light illuminated the surface._
 - **[[c/_coming|Coming]] or [[h/_happening|happening]] [[a/_accidentally|accidentally]]; not in the usual [[c/_course|course]] of things; not in [[c/_connection|connection]] with the [[m/_main|main]] [[d/_design|design]]; not [[a/_according|according]] to [[e/_expectation|expectation]]; [[c/_casual|casual]]; [[f/_fortuitous|fortuitous]].**
 - **[[l/_liable|Liable]] to [[h/_happen|happen]]; [[a/_apt|apt]] to [[o/_occur|occur]]; [[b/_befalling|befalling]]; [[h/_hence|hence]], [[n/_naturally|naturally]] [[h/_happening|happening]] or [[a/_appertaining|appertaining]].**

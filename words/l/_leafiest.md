@@ -7,7 +7,7 @@
 	- _Example: a leafy avenue_
 - **In the [[f/_form|form]] of [[l/_leaves|leaves]] (of some [[m/_material|material]])**
 - **Resembling a [[l/_leaf|leaf]]**
-- **(of a place) wealthy, [[m/_middle|middle]]- or upper-[[c/_class|class]]**
+- **(of a [[p/_place|place]]) wealthy, [[m/_middle|middle]]- or upper-[[c/_class|class]]**
 ---
 ### Synonyms
 - [[f/_foliated|foliated]], [[l/_laminate|laminate]], [[l/_layered|layered]]

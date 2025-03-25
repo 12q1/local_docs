@@ -2,6 +2,6 @@
 ---
 #noun
 - **A [[b/_boy|boy]] [[c/_chorister|chorister]].**
-- **A piously [[i/_innocent|innocent]] person.**
+- **A [[p/_piously|piously]] [[i/_innocent|innocent]] [[p/_person|person]].**
 ---
 ---

@@ -5,6 +5,6 @@
 - **A [[b/_battlefield|battlefield]].**
 ---
 #adjective
-- **Pertaining to [[o/_open|open]] [[c/_countryside|countryside]]; unforested, [[f/_flat|flat]].**
+- **[[p/_pertaining|Pertaining]] to [[o/_open|open]] [[c/_countryside|countryside]]; unforested, [[f/_flat|flat]].**
 ---
 ---

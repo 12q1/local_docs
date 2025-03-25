@@ -6,6 +6,6 @@
 - **To [[c/_consider|consider]]; to reflect on.**
 ---
 #adjective
-- **Planned.**
+- **[[p/_planned|Planned]].**
 ---
 ---

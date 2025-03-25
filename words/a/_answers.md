@@ -5,14 +5,14 @@
 	- _Example: Her answer to his proposal was a slap in the face._
 - **A solution to a problem.**
 	- _Example: There is no simple answer to corruption._
-- **A [[d/_document|document]] [[f/_filed|filed]] in response to a [[c/_complaint|complaint]], responding to [[e/_each|each]] point raised in the [[c/_complaint|complaint]] and raising [[c/_counterpoints|counterpoints]].**
+- **A [[d/_document|document]] [[f/_filed|filed]] in response to a [[c/_complaint|complaint]], responding to [[e/_each|each]] [[p/_point|point]] raised in the [[c/_complaint|complaint]] and raising [[c/_counterpoints|counterpoints]].**
 ---
 #verb
 - **To [[m/_make|make]] a reply or response to.**
 	- _Example: He answered the question._
 - **To speak in [[d/_defence|defence]] [[a/_against|against]]; to reply to in [[d/_defence|defence]].**
 	- _Example: to answer a charge or accusation_
-- **To respond to a [[c/_call|call]] by someone at a [[d/_door|door]] or telephone, or [[o/_other|other]] similar piece of [[e/_equipment|equipment]].**
+- **To respond to a [[c/_call|call]] by someone at a [[d/_door|door]] or telephone, or [[o/_other|other]] similar [[p/_piece|piece]] of [[e/_equipment|equipment]].**
 	- _Example: Nobody answered when I knocked on the door._
 - **To suit a [[n/_need|need]] or purpose satisfactorily.**
 	- _Example: It answers the need._

@@ -1,8 +1,8 @@
 # Deplorable
 ---
 #noun
-- **A person or thing that is to be [[d/_deplored|deplored]].**
-- **(US politics) A Trumpist [[c/_conservative|conservative]], in reference to a 2016 speech by [[h/_hillary|Hillary]] [[c/_clinton|Clinton]] [[c/_calling|calling]] [[h/_half|half]] of [[d/_donald|Donald]] Trump's supporters a "[[b/_basket|basket]] of deplorables".**
+- **A [[p/_person|person]] or thing that is to be [[d/_deplored|deplored]].**
+- **(US [[p/_politics|politics]]) A Trumpist [[c/_conservative|conservative]], in reference to a 2016 speech by [[h/_hillary|Hillary]] [[c/_clinton|Clinton]] [[c/_calling|calling]] [[h/_half|half]] of [[d/_donald|Donald]] Trump's supporters a "[[b/_basket|basket]] of deplorables".**
 ---
 #adjective
 - **[[d/_deserving|Deserving]] strong [[c/_condemnation|condemnation]]; shockingly [[b/_bad|bad]], wretched.**

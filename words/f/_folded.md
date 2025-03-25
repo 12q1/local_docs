@@ -1,7 +1,7 @@
 # Folded
 ---
 #verb
-- **To [[b/_bend|bend]] ([[a/_any|any]] thin [[m/_material|material]], such as paper) [[o/_over|over]] so that it [[c/_comes|comes]] in [[c/_contact|contact]] with [[i/_itself|itself]].**
+- **To [[b/_bend|bend]] ([[a/_any|any]] thin [[m/_material|material]], such as [[p/_paper|paper]]) [[o/_over|over]] so that it [[c/_comes|comes]] in [[c/_contact|contact]] with [[i/_itself|itself]].**
 - **To [[m/_make|make]] the proper [[a/_arrangement|arrangement]] (in a thin [[m/_material|material]]) by [[b/_bending|bending]].**
 	- _Example: If you fold the sheets, they'll fit more easily in the drawer._
 - **To [[b/_become|become]] [[f/_folded|folded]]; to [[f/_form|form]] [[f/_folds|folds]].**
@@ -9,7 +9,7 @@
 - **To [[f/_fall|fall]] [[o/_over|over]]; to be [[c/_crushed|crushed]].**
 	- _Example: The chair folded under his enormous weight._
 - **To [[e/_enclose|enclose]] within [[f/_folded|folded]] [[a/_arms|arms]] (see [[a/_also|also]] [[e/_enfold|enfold]]).**
-- **To [[g/_give|give]] way on a point or in an [[a/_argument|argument]].**
+- **To [[g/_give|give]] way on a [[p/_point|point]] or in an [[a/_argument|argument]].**
 - **To withdraw from [[b/_betting|betting]].**
 	- _Example: With no hearts in the river and no chance to hit his straight, he folded._
 - **(by [[e/_extension|extension]]) To withdraw or quit in [[g/_general|general]].**

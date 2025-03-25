@@ -4,6 +4,6 @@
 - **[[o/_one|One]] who is not a sectarian.**
 ---
 #adjective
-- **Of or pertaining to nonsectarianism.**
+- **Of or [[p/_pertaining|pertaining]] to nonsectarianism.**
 ---
 ---

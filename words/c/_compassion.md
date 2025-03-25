@@ -6,6 +6,6 @@
 ### Synonyms
 - [[e/_empathy|empathy]], [[m/_mercy|mercy]], [[p/_pity|pity]], [[r/_ruth|ruth]], [[s/_sorrow|sorrow]], [[t/_tenderheartedness|tenderheartedness]], [[h/_heart|heart]], [[k/_kindness|kindness]], [[m/_mercy|mercy]], [[r/_ruth|ruth]], [[t/_tenderheartedness|tenderheartedness]]
 #verb
-- **To pity.**
+- **To [[p/_pity|pity]].**
 ---
 ---

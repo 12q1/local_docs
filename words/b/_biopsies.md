@@ -5,7 +5,7 @@
 	- _Example: We will need to perform a biopsy to determine whether the tumour is malignant or benign._
 ---
 #verb
-- **To take a sample (a [[b/_biopsy|biopsy]]) for pathological [[e/_examination|examination]].**
+- **To take a sample (a [[b/_biopsy|biopsy]]) for [[p/_pathological|pathological]] [[e/_examination|examination]].**
 	- _Example: They biopsied the lump but it turned out to be non-cancerous._
 ---
 ---

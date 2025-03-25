@@ -11,8 +11,8 @@
 - **To [[c/_choose|choose]] (a [[c/_candidate|candidate]]) in an [[e/_election|election]]**
 ---
 #adjective
-- **Who [[h/_has|has]] [[b/_been|been]] [[e/_elected|elected]] in a specified post, but [[h/_has|has]] not [[y/_yet|yet]] [[e/_entered|entered]] [[o/_office|office]].**
+- **Who [[h/_has|has]] [[b/_been|been]] [[e/_elected|elected]] in a specified [[p/_post|post]], but [[h/_has|has]] not [[y/_yet|yet]] [[e/_entered|entered]] [[o/_office|office]].**
 	- _Example: He is the President elect._
-- **[[c/_chosen|Chosen]]; taken by preference from [[a/_among|among]] two or [[m/_more|more]].**
+- **[[c/_chosen|Chosen]]; taken by [[p/_preference|preference]] from [[a/_among|among]] two or [[m/_more|more]].**
 ---
 ---

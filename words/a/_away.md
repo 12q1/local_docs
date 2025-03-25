@@ -1,7 +1,7 @@
 # Away
 ---
 #verb
-- **To [[d/_depart|depart]]; to [[g/_go|go]] to [[a/_another|another]] place.**
+- **To [[d/_depart|depart]]; to [[g/_go|go]] to [[a/_another|another]] [[p/_place|place]].**
 	- _Example: At 9 o'clock sharp he awayed to bed._
 ---
 #adjective
@@ -15,7 +15,7 @@
 	- _Example: Two men away in the bottom of the ninth._
 ---
 #adverb
-- **From a place, [[h/_hence|hence]].**
+- **From a [[p/_place|place]], [[h/_hence|hence]].**
 	- _Example: He went away on vacation._
 - **[[a/_aside|Aside]]; [[o/_off|off]]; in [[a/_another|another]] [[d/_direction|direction]].**
 	- _Example: I tried to approach him, but he turned away._
@@ -23,9 +23,9 @@
 	- _Example: throw away, chuck away, toss away_
 - **At a stated [[d/_distance|distance]] in time or space.**
 	- _Example: Christmas is only two weeks away._
-- **In or to something's usual or proper storage place.**
+- **In or to something's usual or proper storage [[p/_place|place]].**
 	- _Example: I'll dry the dishes and you put them away._
-- **In or to a secure or [[o/_out|out]]-of-the-way place.**
+- **In or to a secure or [[o/_out|out]]-of-the-way [[p/_place|place]].**
 	- _Example: He was shut away in the castle tower for six months._
 - **From a state or [[c/_condition|condition]] of [[b/_being|being]]; [[o/_out|out]] of [[e/_existence|existence]].**
 	- _Example: fade away, die away_

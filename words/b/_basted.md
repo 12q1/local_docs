@@ -1,7 +1,7 @@
 # Basted
 ---
 #verb
-- **To sew with [[l/_long|long]] or [[l/_loose|loose]] stitches, as for temporary use, or in preparation for [[g/_gathering|gathering]] the [[f/_fabric|fabric]].**
+- **To sew with [[l/_long|long]] or [[l/_loose|loose]] stitches, as for temporary use, or in [[p/_preparation|preparation]] for [[g/_gathering|gathering]] the [[f/_fabric|fabric]].**
 ---
 #verb
 - **To sprinkle [[f/_flour|flour]] and salt and [[d/_drip|drip]] [[b/_butter|butter]] or [[f/_fat|fat]] on, as on [[m/_meat|meat]] in roasting.**

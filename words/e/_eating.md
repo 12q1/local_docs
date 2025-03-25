@@ -9,7 +9,7 @@
 - **To be [[i/_injured|injured]] or [[k/_killed|killed]] by (something such as a [[f/_firearm|firearm]] or [[i/_its|its]] projectile), [[e/_especially|especially]] in the [[m/_mouth|mouth]].**
 - **To [[c/_corrode|corrode]] or [[e/_erode|erode]].**
 	- _Example: The acid rain ate away the statue.  The strong acid eats through the metal._
-- **To perform [[o/_oral|oral]] sex (on a person or [[b/_body|body]] part).**
+- **To [[p/_perform|perform]] [[o/_oral|oral]] sex (on a [[p/_person|person]] or [[b/_body|body]] [[p/_part|part]]).**
 	- _Example: Eat me!_
 ---
 ### Synonyms

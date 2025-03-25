@@ -1,6 +1,6 @@
 # Euphemistic
 ---
 #adjective
-- **Of or pertaining to [[e/_euphemism|euphemism]].**
+- **Of or [[p/_pertaining|pertaining]] to [[e/_euphemism|euphemism]].**
 ---
 ---

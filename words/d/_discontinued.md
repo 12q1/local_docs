@@ -9,7 +9,7 @@
 ### Antonyms
 - [[c/_continue|continue]]
 #adjective
-- **Permanently [[n/_no|no]] [[l/_longer|longer]] [[a/_available|available]] or in production.**
+- **[[p/_permanently|Permanently]] [[n/_no|no]] [[l/_longer|longer]] [[a/_available|available]] or in production.**
 ---
 ### Synonyms
 - [[d/_defunct|defunct]], [[d/_disused|disused]], [[o/_outdated|outdated]]

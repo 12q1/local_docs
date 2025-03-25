@@ -2,11 +2,11 @@
 ---
 #noun
 - **The symbol ∇ used to [[d/_denote|denote]] the [[g/_gradient|gradient]] [[o/_operator|operator]].**
-- **The symbol ∂, in the [[c/_context|context]] of a partial [[d/_differential|differential]]**
+- **The symbol ∂, in the [[c/_context|context]] of a [[p/_partial|partial]] [[d/_differential|differential]]**
 ---
 ### Synonyms
 - [[a/_atled|atled]], [[n/_nabla|nabla]]
 #noun
-- **A part, portion**
+- **A [[p/_part|part]], [[p/_portion|portion]]**
 ---
 ---

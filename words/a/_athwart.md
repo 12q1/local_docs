@@ -3,9 +3,9 @@
 #adverb
 - **From side to side; [[a/_across|across]].**
 	- _Example: Above, the stars appeared to move slowly athwart._
-- **[[a/_across|Across]] the path (of something).**
+- **[[a/_across|Across]] the [[p/_path|path]] (of something).**
 	- _Example: a fleet standing athwart our course_
-- **Wrongly; perplexingly.**
+- **Wrongly; [[p/_perplexingly|perplexingly]].**
 ---
 ### Synonyms
 - [[o/_overthwart|overthwart]]
@@ -14,7 +14,7 @@
 	- _Example: The stars moved slowly athwart the sky._
 - **[[a/_across|Across]] the [[l/_line|line]] of a ship's [[c/_course|course]] or [[a/_across|across]] [[i/_its|its]] [[d/_deck|deck]].**
 	- _Example: The damaged mainmast fell athwart the deck, destroying the ship's boat._
-- **[[a/_across|Across]] the path or [[c/_course|course]] of; [[o/_opposing|opposing]].**
+- **[[a/_across|Across]] the [[p/_path|path]] or [[c/_course|course]] of; [[o/_opposing|opposing]].**
 ---
 ### Synonyms
 - [[o/_opposing|opposing]], [[o/_overthwart|overthwart]]

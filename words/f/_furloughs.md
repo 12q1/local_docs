@@ -3,7 +3,7 @@
 #noun
 - **A [[l/_leave|leave]] of [[a/_absence|absence]] or vacation.**
 - **The [[d/_documents|documents]] [[a/_authorizing|authorizing]] such [[l/_leave|leave]].**
-- **A period of unpaid time [[o/_off|off]], used by an [[e/_employer|employer]] to reduce [[c/_costs|costs]].**
+- **A [[p/_period|period]] of unpaid time [[o/_off|off]], used by an [[e/_employer|employer]] to reduce [[c/_costs|costs]].**
 ---
 #verb
 - **To [[g/_grant|grant]] a [[f/_furlough|furlough]] to (someone).**

@@ -1,9 +1,9 @@
 # Farrows
 ---
 #noun
-- **A [[l/_litter|litter]] of piglets.**
+- **A [[l/_litter|litter]] of [[p/_piglets|piglets]].**
 ---
 #verb
-- **To [[g/_give|give]] [[b/_birth|birth]] to a ([[l/_litter|litter]] of piglets).**
+- **To [[g/_give|give]] [[b/_birth|birth]] to a ([[l/_litter|litter]] of [[p/_piglets|piglets]]).**
 ---
 ---

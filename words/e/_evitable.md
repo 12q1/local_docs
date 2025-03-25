@@ -1,7 +1,7 @@
 # Evitable
 ---
 #adjective
-- **Possible to [[a/_avoid|avoid]]; [[a/_avertible|avertible]].**
+- **[[p/_possible|Possible]] to [[a/_avoid|avoid]]; [[a/_avertible|avertible]].**
 	- _Example: The tragic consequences were evitable._
 ---
 ### Synonyms

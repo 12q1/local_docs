@@ -13,7 +13,7 @@
 ### Antonyms
 - [[a/_abase|abase]], [[d/_demean|demean]]
 #adjective
-- **Praised, [[h/_honored|honored]].**
+- **[[p/_praised|Praised]], [[h/_honored|honored]].**
 - **[[n/_noble|Noble]], sublime; [[h/_heavenly|heavenly]].**
 - **[[e/_elated|Elated]]; [[b/_blissful|blissful]].**
 ---

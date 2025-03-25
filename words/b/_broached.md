@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[m/_make|make]] a [[h/_hole|hole]] in, [[e/_especially|especially]] a [[c/_cask|cask]] of [[l/_liquor|liquor]], and put in a tap in [[o/_order|order]] to [[d/_draw|draw]] the [[l/_liquid|liquid]].**
-- **To [[o/_open|open]], to [[m/_make|make]] an [[o/_opening|opening]] [[i/_into|into]]; to pierce.**
+- **To [[o/_open|open]], to [[m/_make|make]] an [[o/_opening|opening]] [[i/_into|into]]; to [[p/_pierce|pierce]].**
 	- _Example: French knights at Agincourt were unable to broach the English line._
 - **To [[b/_begin|begin]] [[d/_discussion|discussion]] [[a/_about|about]] (something).**
 	- _Example: I broached the subject of contraceptives carefully when the teenager mentioned his promiscuity._

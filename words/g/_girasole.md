@@ -2,7 +2,7 @@
 ---
 #noun
 - **A variety of sunflower, [[h/_helianthus|Helianthus]] tuberosus, [[n/_native|native]] to [[n/_north|North]] [[a/_america|America]], [[h/_having|having]] [[y/_yellow|yellow]] [[f/_flower|flower]] [[h/_heads|heads]] and [[e/_edible|edible]] tubers.**
-- **The tuber of this plant, [[e/_eaten|eaten]] as a vegetable.**
+- **The tuber of this [[p/_plant|plant]], [[e/_eaten|eaten]] as a vegetable.**
 ---
 ### Synonyms
 - [[e/_earthapple|earthapple]], [[s/_sunchoke|sunchoke]]

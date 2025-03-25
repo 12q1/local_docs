@@ -1,10 +1,10 @@
 # Fielded
 ---
 #verb
-- **To [[i/_intercept|intercept]] or [[c/_catch|catch]] (a [[b/_ball|ball]]) and play it.**
+- **To [[i/_intercept|intercept]] or [[c/_catch|catch]] (a [[b/_ball|ball]]) and [[p/_play|play]] it.**
 - **(and [[o/_other|other]] [[b/_batting|batting]] sports) To be the team [[c/_catching|catching]] and throwing the [[b/_ball|ball]], as [[o/_opposed|opposed]] to [[h/_hitting|hitting]] it.**
 	- _Example: The blue team are fielding first, while the reds are batting._
-- **To place (a team, [[i/_its|its]] players, [[e/_etc|etc]].) in a [[g/_game|game]].**
+- **To [[p/_place|place]] (a team, [[i/_its|its]] [[p/_players|players]], [[e/_etc|etc]].) in a [[g/_game|game]].**
 	- _Example: The away team fielded two new players and the second-choice goalkeeper._
 - **To [[a/_answer|answer]]; to [[a/_address|address]].**
 	- _Example: She will field questions immediately after her presentation._

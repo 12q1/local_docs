@@ -5,7 +5,7 @@
 - **To [[f/_formally|formally]] separate [[o/_oneself|oneself]] from or to [[d/_divest|divest]] [[o/_oneself|oneself]] of.**
 - **To [[d/_depose|depose]].**
 - **To reject; to [[c/_cast|cast]] [[o/_off|off]]; to [[d/_discard|discard]].**
-- **To surrender, renounce or relinquish, as sovereign power; to withdraw [[d/_definitely|definitely]] from [[f/_filling|filling]] or [[e/_exercising|exercising]], as a [[h/_high|high]] [[o/_office|office]], station, [[d/_dignity|dignity]]; to [[f/_fail|fail]] to [[f/_fulfill|fulfill]] responsibility for.**
+- **To surrender, renounce or relinquish, as sovereign [[p/_power|power]]; to withdraw [[d/_definitely|definitely]] from [[f/_filling|filling]] or [[e/_exercising|exercising]], as a [[h/_high|high]] [[o/_office|office]], station, [[d/_dignity|dignity]]; to [[f/_fail|fail]] to [[f/_fulfill|fulfill]] responsibility for.**
 	- _Example: Note: The word abdicate was held to mean, in the case of James II, to abandon without a formal surrender._
 - **To relinquish or renounce a throne, or [[o/_other|other]] [[h/_high|high]] [[o/_office|office]] or [[d/_dignity|dignity]]; to renounce sovereignty.**
 ---

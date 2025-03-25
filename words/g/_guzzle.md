@@ -3,7 +3,7 @@
 #noun
 - **[[d/_drink|Drink]]; [[i/_intoxicating|intoxicating]] [[l/_liquor|liquor]].**
 - **A [[d/_drinking|drinking]] [[b/_bout|bout]]; a [[d/_debauch|debauch]].**
-- **An [[i/_insatiable|insatiable]] thing or person.**
+- **An [[i/_insatiable|insatiable]] thing or [[p/_person|person]].**
 - **(provincial) A [[d/_drain|drain]] or [[d/_ditch|ditch]]; a [[g/_gutter|gutter]]; sometimes, a small stream. [[a/_also|Also]] [[c/_called|called]] guzzen.**
 - **The throat**
 ---

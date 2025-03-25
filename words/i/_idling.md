@@ -6,6 +6,6 @@
 - **Of an [[e/_engine|engine]]: to run at a slow speed, or [[o/_out|out]] of [[g/_gear|gear]]; to tick [[o/_over|over]].**
 ---
 #noun
-- **An [[i/_idle|idle]] period; something [[d/_done|done]] [[i/_idly|idly]].**
+- **An [[i/_idle|idle]] [[p/_period|period]]; something [[d/_done|done]] [[i/_idly|idly]].**
 ---
 ---

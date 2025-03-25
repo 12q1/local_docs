@@ -9,7 +9,7 @@
 ### Synonyms
 - [[n/_numeral|numeral]], [[i/_identical|identical]], [[n/_numerical|numerical]]
 #adjective
-- **Of or pertaining to [[n/_numbers|numbers]]**
+- **Of or [[p/_pertaining|pertaining]] to [[n/_numbers|numbers]]**
 - **The same in [[n/_number|number]]; [[h/_hence|hence]], [[i/_identically|identically]] the same; [[i/_identical|identical]].**
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Flypaper
 ---
 #noun
-- **A strip of paper [[c/_coated|coated]] with a sticky, [[o/_often|often]] poisonous, substance that [[c/_catches|catches]] and [[k/_kills|kills]] [[f/_flies|flies]] that [[l/_land|land]] on it**
+- **A strip of [[p/_paper|paper]] [[c/_coated|coated]] with a sticky, [[o/_often|often]] [[p/_poisonous|poisonous]], substance that [[c/_catches|catches]] and [[k/_kills|kills]] [[f/_flies|flies]] that [[l/_land|land]] on it**
 ---
 ### Synonyms
 - 

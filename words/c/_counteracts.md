@@ -1,7 +1,7 @@
 # Counteracts
 ---
 #noun
-- **An [[a/_action|action]] performed in [[o/_opposition|opposition]] to [[a/_another|another]] [[a/_action|action]].**
+- **An [[a/_action|action]] [[p/_performed|performed]] in [[o/_opposition|opposition]] to [[a/_another|another]] [[a/_action|action]].**
 ---
 #verb
 - **To [[h/_have|have]] a [[c/_contrary|contrary]] or [[o/_opposing|opposing]] [[e/_effect|effect]] or [[f/_force|force]] on**

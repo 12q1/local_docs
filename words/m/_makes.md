@@ -6,12 +6,12 @@
 - **[[m/_manner|Manner]] or style of [[c/_construction|construction]] (style of [[h/_how|how]] a thing is [[m/_made|made]]); [[f/_form|form]].**
 - **[[o/_origin|Origin]] (of a [[m/_manufactured|manufactured]] [[a/_article|article]]); [[m/_manufacture|manufacture]]; production.**
 	- _Example: The camera was of German make._
-- **A person's [[c/_character|character]] or [[d/_disposition|disposition]].**
+- **A [[p/_person|person]]'s [[c/_character|character]] or [[d/_disposition|disposition]].**
 - **The [[a/_act|act]] or process of [[m/_making|making]] something, [[e/_especially|especially]] in [[i/_industrial|industrial]] [[m/_manufacturing|manufacturing]].**
 - **Quantity produced, [[e/_especially|especially]] of [[m/_materials|materials]].**
 - **A software utility for [[a/_automatically|automatically]] [[b/_building|building]] [[l/_large|large]] [[a/_applications|applications]], or an [[i/_implementation|implementation]] of this utility.**
-- **[[i/_identification|Identification]] or recognition (of [[i/_identity|identity]]), [[e/_especially|especially]] from police records or [[e/_evidence|evidence]].**
-- **(usually in phrase "[[e/_easy|easy]] [[m/_make|make]]") Past, present or [[f/_future|future]] target of seduction (usually [[f/_female|female]]).**
+- **[[i/_identification|Identification]] or recognition (of [[i/_identity|identity]]), [[e/_especially|especially]] from [[p/_police|police]] records or [[e/_evidence|evidence]].**
+- **(usually in [[p/_phrase|phrase]] "[[e/_easy|easy]] [[m/_make|make]]") [[p/_past|Past]], [[p/_present|present]] or [[f/_future|future]] target of seduction (usually [[f/_female|female]]).**
 - **A promotion.**
 - **A [[h/_home|home]]-[[m/_made|made]] project**
 - **Turn to [[d/_declare|declare]] the trump for a [[h/_hand|hand]] (in [[b/_bridge|bridge]]), or to shuffle the [[c/_cards|cards]].**
@@ -33,7 +33,7 @@
 	- _Example: I don’t know what to make of it._
 - **(usually stressed) To [[b/_bring|bring]] [[i/_into|into]] success.**
 	- _Example: She married into wealth and so has it made._
-- **(ditransitive, second [[o/_object|object]] is an [[a/_adjective|adjective]] or participle) To [[c/_cause|cause]] to be.**
+- **(ditransitive, second [[o/_object|object]] is an [[a/_adjective|adjective]] or [[p/_participle|participle]]) To [[c/_cause|cause]] to be.**
 	- _Example: Did I make myself heard?_
 - **To [[c/_cause|cause]] to [[a/_appear|appear]] to be; to represent as.**
 - **(ditransitive, second [[o/_object|object]] is a verb) To [[c/_cause|cause]] (to [[d/_do|do]] something); to [[c/_compel|compel]] (to [[d/_do|do]] something).**
@@ -54,23 +54,23 @@
 - **To [[a/_appoint|appoint]]; to [[n/_name|name]].**
 - **To [[i/_induct|induct]] [[i/_into|into]] the [[m/_mafia|Mafia]] or a similar [[o/_organization|organization]] (as a [[m/_made|made]] [[m/_man|man]]).**
 - **To [[d/_defecate|defecate]] or urinate.**
-- **To [[e/_earn|earn]], to [[g/_gain|gain]] ([[m/_money|money]], points, [[m/_membership|membership]] or status).**
+- **To [[e/_earn|earn]], to [[g/_gain|gain]] ([[m/_money|money]], [[p/_points|points]], [[m/_membership|membership]] or status).**
 	- _Example: He didn't make the choir after his voice changed._
 - **To [[p/_pay|pay]], to [[c/_cover|cover]] (an [[e/_expense|expense]]); [[c/_chiefly|chiefly]] used [[a/_after|after]] [[e/_expressions|expressions]] of [[i/_inability|inability]].**
-- **To [[c/_compose|compose]] verses; to write poetry; to versify.**
+- **To [[c/_compose|compose]] verses; to write [[p/_poetry|poetry]]; to versify.**
 - **To [[e/_enact|enact]]; to [[e/_establish|establish]].**
 - **To [[d/_develop|develop]] [[i/_into|into]]; to prove to be.**
 	- _Example: She'll make a fine president._
 - **To [[f/_form|form]] or [[f/_formulate|formulate]] in the [[m/_mind|mind]].**
 	- _Example: made a questionable decision_
-- **To perform a [[f/_feat|feat]].**
+- **To [[p/_perform|perform]] a [[f/_feat|feat]].**
 	- _Example: make a leap_
 - **To [[g/_gain|gain]] sufficient [[a/_audience|audience]] to warrant [[i/_its|its]] [[e/_existence|existence]].**
 	- _Example: In the end, my class didn't make, which left me with a bit of free time._
-- **To [[a/_act|act]] in a [[c/_certain|certain]] [[m/_manner|manner]]; to [[h/_have|have]] to [[d/_do|do]]; to [[m/_manage|manage]]; to [[i/_interfere|interfere]]; to be [[a/_active|active]]; [[o/_often|often]] in the phrase to [[m/_meddle|meddle]] or [[m/_make|make]].**
+- **To [[a/_act|act]] in a [[c/_certain|certain]] [[m/_manner|manner]]; to [[h/_have|have]] to [[d/_do|do]]; to [[m/_manage|manage]]; to [[i/_interfere|interfere]]; to be [[a/_active|active]]; [[o/_often|often]] in the [[p/_phrase|phrase]] to [[m/_meddle|meddle]] or [[m/_make|make]].**
 - **To [[i/_increase|increase]]; to [[a/_augment|augment]]; to [[a/_accrue|accrue]].**
 - **To be [[e/_engaged|engaged]] or [[c/_concerned|concerned]] in.**
-- **To [[c/_cause|cause]] to be (in a specified place), used [[a/_after|after]] a subjective what.**
+- **To [[c/_cause|cause]] to be (in a specified [[p/_place|place]]), used [[a/_after|after]] a subjective what.**
 - **To take the virginity of.**
 - **To [[h/_have|have]] sexual [[i/_intercourse|intercourse]] with.**
 ---
@@ -83,6 +83,6 @@
 - **A [[h/_halfpenny|halfpenny]].**
 ---
 #noun
-- **An [[a/_agricultural|agricultural]] tool resembling a scythe, used to [[c/_cut|cut]] ([[h/_harvest|harvest]]) [[c/_certain|certain]] plants such as peas, reeds, or tares.**
+- **An [[a/_agricultural|agricultural]] tool resembling a scythe, used to [[c/_cut|cut]] ([[h/_harvest|harvest]]) [[c/_certain|certain]] [[p/_plants|plants]] such as [[p/_peas|peas]], reeds, or tares.**
 ---
 ---

@@ -1,10 +1,10 @@
 # Crease
 ---
 #noun
-- **A [[l/_line|line]] or [[m/_mark|mark]] [[m/_made|made]] by [[f/_folding|folding]] or [[d/_doubling|doubling]] [[a/_any|any]] pliable substance; [[h/_hence|hence]], a similar [[m/_mark|mark]], [[h/_however|however]] produced.**
+- **A [[l/_line|line]] or [[m/_mark|mark]] [[m/_made|made]] by [[f/_folding|folding]] or [[d/_doubling|doubling]] [[a/_any|any]] [[p/_pliable|pliable]] substance; [[h/_hence|hence]], a similar [[m/_mark|mark]], [[h/_however|however]] produced.**
 	- _Example: His pants had a nice sharp crease._
-- **[[o/_one|One]] of the white [[l/_lines|lines]] [[d/_drawn|drawn]] on the pitch to show [[d/_different|different]] [[a/_areas|areas]] of play; [[e/_especially|especially]] the popping [[c/_crease|crease]], but [[a/_also|also]] the [[b/_bowling|bowling]] [[c/_crease|crease]] and the return [[c/_crease|crease]].**
-- **The [[c/_circle|circle]] [[a/_around|around]] the [[g/_goal|goal]], where [[n/_no|no]] [[o/_offensive|offensive]] players [[c/_can|can]] [[g/_go|go]].**
+- **[[o/_one|One]] of the white [[l/_lines|lines]] [[d/_drawn|drawn]] on the [[p/_pitch|pitch]] to show [[d/_different|different]] [[a/_areas|areas]] of [[p/_play|play]]; [[e/_especially|especially]] the [[p/_popping|popping]] [[c/_crease|crease]], but [[a/_also|also]] the [[b/_bowling|bowling]] [[c/_crease|crease]] and the return [[c/_crease|crease]].**
+- **The [[c/_circle|circle]] [[a/_around|around]] the [[g/_goal|goal]], where [[n/_no|no]] [[o/_offensive|offensive]] [[p/_players|players]] [[c/_can|can]] [[g/_go|go]].**
 - **The [[g/_goal|goal]] [[c/_crease|crease]]; an [[a/_area|area]] in [[f/_front|front]] of [[e/_each|each]] [[g/_goal|goal]].**
 - **A [[c/_crack|crack]].**
 ---

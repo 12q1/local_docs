@@ -6,13 +6,13 @@
 - **A small [[a/_amount|amount]] of [[m/_money|money]]**
 	- _Example: She didn't spend a dime._
 - **An [[a/_assist|assist]]**
-- **A playing [[c/_card|card]] with the rank of ten**
+- **A [[p/_playing|playing]] [[c/_card|card]] with the rank of ten**
 - **Ten [[d/_dollars|dollars]]**
 - **A thousand [[d/_dollars|dollars]]**
 - **A [[m/_measurement|measurement]] of [[i/_illicit|illicit]] [[d/_drugs|drugs]] (usually [[m/_marijuana|marijuana]]) sold in ten [[d/_dollar|dollar]] [[b/_bags|bags]].**
 - **[[p/_payment|Payment]] responsibility**
 	- _Example: Are you traveling on the company's dime?_
-- **A [[b/_beautiful|beautiful]] woman (10 on a 10-point scale)**
+- **A [[b/_beautiful|beautiful]] woman (10 on a 10-[[p/_point|point]] scale)**
 - **A [[d/_defensive|defensive]] [[f/_formation|formation]] with six [[d/_defensive|defensive]] [[b/_backs|backs]], [[o/_one|one]] of whom is a dimeback.**
 ---
 ### Synonyms

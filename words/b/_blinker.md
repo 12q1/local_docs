@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[a/_anything|Anything]] that [[b/_blinks|blinks]], such as the turn signal of an [[a/_automobile|automobile]].**
-- **[[e/_eye|Eye]] shields [[a/_attached|attached]] to a [[h/_hood|hood]] for [[h/_horses|horses]], to prevent them from seeing [[b/_backwards|backwards]] and partially sideways.**
+- **[[e/_eye|Eye]] shields [[a/_attached|attached]] to a [[h/_hood|hood]] for [[h/_horses|horses]], to prevent them from seeing [[b/_backwards|backwards]] and [[p/_partially|partially]] sideways.**
 - **Whatever [[o/_obstructs|obstructs]] sight or [[d/_discernment|discernment]].**
 - **The [[e/_eyelid|eyelid]].**
 - **A [[b/_black|black]] [[e/_eye|eye]].**

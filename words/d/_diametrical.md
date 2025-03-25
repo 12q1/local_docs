@@ -1,7 +1,7 @@
 # Diametrical
 ---
 #adjective
-- **Of or pertaining to a [[d/_diagonal|diagonal]] or [[d/_diameter|diameter]]**
+- **Of or [[p/_pertaining|pertaining]] to a [[d/_diagonal|diagonal]] or [[d/_diameter|diameter]]**
 - **[[c/_completely|Completely]] [[o/_opposed|opposed]]**
 ---
 ### Synonyms

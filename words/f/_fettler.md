@@ -1,7 +1,7 @@
 # Fettler
 ---
 #noun
-- **A person who [[m/_maintains|maintains]] railway [[l/_lines|lines]].**
+- **A [[p/_person|person]] who [[m/_maintains|maintains]] railway [[l/_lines|lines]].**
 - **Someone whose [[j/_job|job]] is to sand and [[g/_grind|grind]] small [[i/_imperfections|imperfections]] from [[m/_metal|metal]] and [[c/_ceramic|ceramic]] [[c/_castings|castings]].**
 - **(by [[e/_extension|extension]]) Someone who [[f/_fiddles|fiddles]] or tinkers with things.**
 - **A [[f/_friend|friend]] or [[m/_mate|mate]]**

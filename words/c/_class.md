@@ -12,18 +12,18 @@
 	- _Example: The class was noisy, but the teacher was able to get their attention with a story._
 - **A series of [[l/_lessons|lessons]] [[c/_covering|covering]] a single subject.**
 	- _Example: I took the cooking class for enjoyment, but I also learned a lot._
-- **A [[g/_group|group]] of students who [[c/_commenced|commenced]] or [[c/_completed|completed]] their [[e/_education|education]] [[d/_during|during]] a particular [[y/_year|year]]. A school [[c/_class|class]].**
+- **A [[g/_group|group]] of students who [[c/_commenced|commenced]] or [[c/_completed|completed]] their [[e/_education|education]] [[d/_during|during]] a [[p/_particular|particular]] [[y/_year|year]]. A school [[c/_class|class]].**
 	- _Example: The class of 1982 was particularly noteworthy._
 - **A [[c/_category|category]] of seats in an [[a/_airplane|airplane]], train or [[o/_other|other]] [[m/_means|means]] of [[m/_mass|mass]] transportation.**
 	- _Example: I used to fly business class, but now my company can only afford economy._
-- **A rank in the [[c/_classification|classification]] of [[o/_organisms|organisms]], [[b/_below|below]] phylum and [[a/_above|above]] [[o/_order|order]]; a taxon of that rank.**
+- **A rank in the [[c/_classification|classification]] of [[o/_organisms|organisms]], [[b/_below|below]] [[p/_phylum|phylum]] and [[a/_above|above]] [[o/_order|order]]; a taxon of that rank.**
 	- _Example: Magnolias belong to the class Magnoliopsida._
 - **[[b/_best|Best]] of [[i/_its|its]] [[k/_kind|kind]].**
 	- _Example: It is the class of Italian bottled waters._
 - **A [[g/_grouping|grouping]] of [[d/_data|data]] values in an [[i/_interval|interval]], [[o/_often|often]] used for [[c/_computation|computation]] of a [[f/_frequency|frequency]] [[d/_distribution|distribution]].**
 - **A [[c/_collection|collection]] of sets [[d/_definable|definable]] by a shared property.**
 	- _Example: Every set is a class, but classes are not generally sets. A class that is not a set is called a proper class._
-- **A [[g/_group|group]] of people subject to be [[c/_conscripted|conscripted]] in the same [[m/_military|military]] [[d/_draft|draft]], or [[m/_more|more]] [[n/_narrowly|narrowly]] those persons [[a/_actually|actually]] [[c/_conscripted|conscripted]] in a particular [[d/_draft|draft]].**
+- **A [[g/_group|group]] of [[p/_people|people]] subject to be [[c/_conscripted|conscripted]] in the same [[m/_military|military]] [[d/_draft|draft]], or [[m/_more|more]] [[n/_narrowly|narrowly]] those [[p/_persons|persons]] [[a/_actually|actually]] [[c/_conscripted|conscripted]] in a [[p/_particular|particular]] [[d/_draft|draft]].**
 - **A set of [[o/_objects|objects]] [[h/_having|having]] the same [[b/_behavior|behavior]] (but typically [[d/_differing|differing]] in state), or a template [[d/_defining|defining]] such a set.**
 	- _Example: an abstract base class_
 - **[[o/_one|One]] of the sections [[i/_into|into]] which a [[m/_methodist|Methodist]] [[c/_church|church]] or [[c/_congregation|congregation]] is [[d/_divided|divided]], supervised by a [[c/_class|class]] [[l/_leader|leader]].**
@@ -32,7 +32,7 @@
 - **To [[a/_assign|assign]] to a [[c/_class|class]]; to [[c/_classify|classify]].**
 	- _Example: I would class this with most of the other mediocre works of the period._
 - **To be [[g/_grouped|grouped]] or [[c/_classed|classed]].**
-- **To [[d/_divide|divide]] [[i/_into|into]] [[c/_classes|classes]], as students; to [[f/_form|form]] [[i/_into|into]], or place in, a [[c/_class|class]] or [[c/_classes|classes]].**
+- **To [[d/_divide|divide]] [[i/_into|into]] [[c/_classes|classes]], as students; to [[f/_form|form]] [[i/_into|into]], or [[p/_place|place]] in, a [[c/_class|class]] or [[c/_classes|classes]].**
 ---
 #adjective
 - **[[g/_great|Great]]; [[f/_fabulous|fabulous]]**

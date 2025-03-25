@@ -1,7 +1,7 @@
 # Benefic
 ---
 #noun
-- **A [[f/_favorable|favorable]] planet**
+- **A [[f/_favorable|favorable]] [[p/_planet|planet]]**
 ---
 ### Antonyms
 - [[m/_malefic|malefic]]

@@ -1,7 +1,7 @@
 # Objectives
 ---
 #noun
-- **A [[m/_material|material]] [[o/_object|object]] that physically [[e/_exists|exists]].**
+- **A [[m/_material|material]] [[o/_object|object]] that [[p/_physically|physically]] [[e/_exists|exists]].**
 - **A [[g/_goal|goal]] that is striven for.**
 - **([[g/_grammar|grammar]]) The [[o/_objective|objective]] [[c/_case|case]].**
 - **([[g/_grammar|grammar]]) a [[n/_noun|noun]] or pronoun in the [[o/_objective|objective]] [[c/_case|case]].**

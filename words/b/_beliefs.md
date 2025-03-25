@@ -11,7 +11,7 @@
 	- _Example: My belief that it will rain tomorrow is strong._
 - **Religious [[f/_faith|faith]].**
 	- _Example: She often said it was her belief that carried her through the hard times._
-- **(in the plural) [[o/_one|One]]'s religious or [[m/_moral|moral]] [[c/_convictions|convictions]].**
+- **(in the [[p/_plural|plural]]) [[o/_one|One]]'s religious or [[m/_moral|moral]] [[c/_convictions|convictions]].**
 	- _Example: I don't want to do a no-fault divorce on my husband and steal from him under color of law. It's against my beliefs._
 ---
 ---

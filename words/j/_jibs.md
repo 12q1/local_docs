@@ -7,13 +7,13 @@
 #noun
 - **The projecting [[a/_arm|arm]] of a [[c/_crane|crane]].**
 - **([[m/_metonymy|metonymy]]) A [[c/_crane|crane]] used for [[m/_mounting|mounting]] and [[m/_moving|moving]] a video [[c/_camera|camera]].**
-- **An [[o/_object|object]] that is used for performing tricks while skiing, snowboarding, skateboarding, in-[[l/_line|line]] skating, or [[b/_biking|biking]]. These [[o/_objects|objects]] are usually [[f/_found|found]] in a terrain park or skate park.**
+- **An [[o/_object|object]] that is used for [[p/_performing|performing]] tricks while skiing, snowboarding, skateboarding, in-[[l/_line|line]] skating, or [[b/_biking|biking]]. These [[o/_objects|objects]] are usually [[f/_found|found]] in a terrain [[p/_park|park]] or skate [[p/_park|park]].**
 ---
 #noun
 - **[[o/_one|One]] who [[j/_jibs|jibs]] or [[b/_balks|balks]], refusing to [[c/_continue|continue]] [[f/_forward|forward]].**
 - **A stationary [[c/_condition|condition]]; a standstill.**
 ---
 #noun
-- **The [[m/_mouth|mouth]], sometimes particularly the tongue, underlip, or tooth.**
+- **The [[m/_mouth|mouth]], sometimes [[p/_particularly|particularly]] the tongue, underlip, or tooth.**
 ---
 ---

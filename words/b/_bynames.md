@@ -1,9 +1,9 @@
 # Bynames
 ---
 #noun
-- **A secondary [[n/_name|name]] for a person or thing; a person's surname.**
+- **A secondary [[n/_name|name]] for a [[p/_person|person]] or thing; a [[p/_person|person]]'s surname.**
 - **A [[n/_nickname|nickname]].**
-- **A pseudonym; [[n/_nom|nom]]-[[d/_de|de]]-plume.**
+- **A pseudonym; [[n/_nom|nom]]-[[d/_de|de]]-[[p/_plume|plume]].**
 - **A ritual title for a [[g/_god|god]] or [[g/_goddess|goddess]] used in [[h/_heathenry|Heathenry]].**
 ---
 ### Synonyms

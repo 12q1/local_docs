@@ -7,7 +7,7 @@
 ---
 #adjective
 - **Of, or relating to [[d/_diagnosis|diagnosis]].**
-- **[[c/_characteristic|Characteristic]] of a particular [[d/_disease|disease]].**
-- **Serving to [[i/_indicate|indicate]] or specify a particular [[i/_item|item]] or thing within a [[g/_group|group]] of similar things.**
+- **[[c/_characteristic|Characteristic]] of a [[p/_particular|particular]] [[d/_disease|disease]].**
+- **Serving to [[i/_indicate|indicate]] or specify a [[p/_particular|particular]] [[i/_item|item]] or thing within a [[g/_group|group]] of similar things.**
 ---
 ---

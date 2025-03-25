@@ -1,6 +1,6 @@
 # Nucellar
 ---
 #adjective
-- **Of or pertaining to the [[n/_nucellus|nucellus]]**
+- **Of or [[p/_pertaining|pertaining]] to the [[n/_nucellus|nucellus]]**
 ---
 ---

@@ -3,7 +3,7 @@
 #noun
 - **The testicles (sometimes used in the singular)**
 - **[[n/_nonsense|Nonsense]] or [[i/_information|information]] [[d/_deliberately|deliberately]] [[i/_intended|intended]] to [[m/_mislead|mislead]].**
-- **(used as singular) An [[i/_idiot|idiot]], an [[i/_ignorant|ignorant]] or [[d/_disagreeable|disagreeable]] person.**
+- **(used as singular) An [[i/_idiot|idiot]], an [[i/_ignorant|ignorant]] or [[d/_disagreeable|disagreeable]] [[p/_person|person]].**
 - **A [[c/_contraction|contraction]] of the [[d/_dog|dog]]'s [[b/_bollocks|bollocks]].**
 ---
 #verb

@@ -8,14 +8,14 @@
 - **To treat, to [[d/_deal|deal]] with (in a specified way).**
 	- _Example: she handled the news with grace, the Persians handled the French ambassador shamefully_
 - **To [[d/_deal|deal]] with (a subject, [[a/_argument|argument]], topic, or theme) in speaking, in writing, or in [[a/_art|art]].**
-- **To receive and transfer; to [[h/_have|have]] pass through [[o/_one|one]]'s [[h/_hands|hands]]; [[h/_hence|hence]], to [[b/_buy|buy]] and sell.**
+- **To receive and transfer; to [[h/_have|have]] [[p/_pass|pass]] through [[o/_one|one]]'s [[h/_hands|hands]]; [[h/_hence|hence]], to [[b/_buy|buy]] and sell.**
 	- _Example: a merchant handles a variety of goods, or a large stock_
 - **To be [[c/_concerned|concerned]] with; to be an [[e/_expert|expert]] in.**
 - **To put up with; to [[e/_endure|endure]] (and [[c/_continue|continue]] to [[f/_function|function]]).**
 	- _Example: I can't handle this hot weather._
 - **To use the [[h/_hands|hands]].**
 - **To [[i/_illegally|illegally]] touch the [[b/_ball|ball]] with the [[h/_hand|hand]] or [[a/_arm|arm]]; to [[c/_commit|commit]] [[h/_handball|handball]].**
-- **To [[b/_behave|behave]] in a particular way when [[h/_handled|handled]] ([[m/_managed|managed]], [[c/_controlled|controlled]], [[d/_directed|directed]]).**
+- **To [[b/_behave|behave]] in a [[p/_particular|particular]] way when [[h/_handled|handled]] ([[m/_managed|managed]], [[c/_controlled|controlled]], [[d/_directed|directed]]).**
 	- _Example: the car handles well_
 ---
 ### Synonyms

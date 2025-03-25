@@ -1,6 +1,6 @@
 # Chlorambucil
 ---
 #noun
-- **A particular [[d/_drug|drug]] used in [[c/_chemotherapy|chemotherapy]].**
+- **A [[p/_particular|particular]] [[d/_drug|drug]] used in [[c/_chemotherapy|chemotherapy]].**
 ---
 ---

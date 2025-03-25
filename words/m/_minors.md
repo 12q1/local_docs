@@ -1,7 +1,7 @@
 # Minors
 ---
 #noun
-- **A person who is [[b/_below|below]] the [[a/_age|age]] of [[m/_majority|majority]], [[c/_consent|consent]], [[c/_criminal|criminal]] responsibility or [[o/_other|other]] [[a/_adult|adult]] responsibilities and accountabilities.**
+- **A [[p/_person|person]] who is [[b/_below|below]] the [[a/_age|age]] of [[m/_majority|majority]], [[c/_consent|consent]], [[c/_criminal|criminal]] responsibility or [[o/_other|other]] [[a/_adult|adult]] responsibilities and accountabilities.**
 	- _Example: It is illegal to sell weapons to minors under the age of eighteen._
 - **A subject [[a/_area|area]] of secondary [[c/_concentration|concentration]] of a student at a [[c/_college|college]] or university, or the student who [[h/_has|has]] [[c/_chosen|chosen]] such a secondary [[c/_concentration|concentration]].**
 	- _Example: I became an English minor._

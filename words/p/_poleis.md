@@ -1,0 +1,6 @@
+# Poleis
+---
+#noun
+- **A [[g/_greek|Greek]] [[c/_city|city]]-state.**
+---
+---

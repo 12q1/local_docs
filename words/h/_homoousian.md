@@ -6,6 +6,6 @@
 ### Antonyms
 - [[h/_homoiousian|homoiousian]]
 #adjective
-- **[[h/_having|Having]] the same [[e/_essence|essence]] or substance, [[e/_especially|especially]] with reference to the [[f/_first|first]] and second persons of the Trinity**
+- **[[h/_having|Having]] the same [[e/_essence|essence]] or substance, [[e/_especially|especially]] with reference to the [[f/_first|first]] and second [[p/_persons|persons]] of the Trinity**
 ---
 ---

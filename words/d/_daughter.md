@@ -6,7 +6,7 @@
 - **A [[f/_female|female]] [[d/_descendant|descendant]].**
 - **A [[d/_daughter|daughter]] [[l/_language|language]].**
 - **A [[n/_nuclide|nuclide]] [[l/_left|left]] [[o/_over|over]] from radioactive [[d/_decay|decay]].**
-- **(of a parse tree) A [[d/_descendant|descendant]].**
+- **(of a [[p/_parse|parse]] tree) A [[d/_descendant|descendant]].**
 - **(by [[e/_extension|extension]]) A [[f/_female|female]] [[c/_character|character]] of a [[c/_creator|creator]].**
 ---
 ### Antonyms

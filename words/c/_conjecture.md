@@ -5,7 +5,7 @@
 	- _Example: I explained it, but it is pure conjecture whether he understood, or not._
 - **A supposition [[b/_based|based]] upon [[i/_incomplete|incomplete]] [[e/_evidence|evidence]]; a [[h/_hypothesis|hypothesis]].**
 	- _Example: The physicist used his conjecture about subatomic particles to design an experiment._
-- **(philology) A statement [[l/_likely|likely]] to be true [[b/_based|based]] on [[a/_available|available]] [[e/_evidence|evidence]], but which [[h/_has|has]] not [[b/_been|been]] [[f/_formally|formally]] proven.**
+- **([[p/_philology|philology]]) A statement [[l/_likely|likely]] to be true [[b/_based|based]] on [[a/_available|available]] [[e/_evidence|evidence]], but which [[h/_has|has]] not [[b/_been|been]] [[f/_formally|formally]] proven.**
 - **[[i/_interpretation|Interpretation]] of signs and [[o/_omens|omens]].**
 ---
 ### Synonyms

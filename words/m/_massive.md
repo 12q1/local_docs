@@ -3,7 +3,7 @@
 #noun
 - **A [[h/_homogeneous|homogeneous]] [[m/_mass|mass]] of rock, not [[l/_layered|layered]] and without an [[o/_obvious|obvious]] [[c/_crystal|crystal]] structure.**
 	- _Example: karst massives in western Georgia_
-- **A [[g/_group|group]] of people from a [[l/_locality|locality]], or sharing a [[c/_collective|collective]] [[a/_aim|aim]], [[i/_interest|interest]], [[e/_etc|etc]].**
+- **A [[g/_group|group]] of [[p/_people|people]] from a [[l/_locality|locality]], or sharing a [[c/_collective|collective]] [[a/_aim|aim]], [[i/_interest|interest]], [[e/_etc|etc]].**
 	- _Example: Big up to the Croydon massive!_
 ---
 #adjective
@@ -12,14 +12,14 @@
 - **Very [[l/_large|large]] or [[b/_bulky|bulky]] and [[h/_heavy|heavy]] and solid**
 	- _Example: A massive comet or asteroid appears to have ended the era of the dinosaurs._
 - **To a very [[g/_great|great]] [[e/_extent|extent]]; total, utter.**
-- **Of particularly [[e/_exceptional|exceptional]] quality or value; [[a/_awesome|awesome]].**
+- **Of [[p/_particularly|particularly]] [[e/_exceptional|exceptional]] quality or value; [[a/_awesome|awesome]].**
 	- _Example: Did you see Colbert last night? He was massive!_
 - **[[o/_outstanding|Outstanding]], [[b/_beautiful|beautiful]]**
 	- _Example: Your dress is massive, love. Where did you get it?_
-- **[[a/_affecting|Affecting]] a [[l/_large|large]] portion of the [[b/_body|body]], or severe.**
+- **[[a/_affecting|Affecting]] a [[l/_large|large]] [[p/_portion|portion]] of the [[b/_body|body]], or severe.**
 	- _Example: a massive heart attack_
 - **[[h/_having|Having]] a [[l/_large|large]] [[m/_mass|mass]]**
-- **(of a particle) Possessing [[m/_mass|mass]].**
+- **(of a [[p/_particle|particle]]) [[p/_possessing|Possessing]] [[m/_mass|mass]].**
 	- _Example: Some bosons are massive while others are massless._
 - **[[h/_homogenous|Homogenous]], unstructured**
 ---

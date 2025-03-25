@@ -7,6 +7,6 @@
 	- _Example: He said he'd come and help, but he flaked._
 - **To store an [[i/_item|item]] such as rope or sail in [[l/_layers|layers]]**
 	- _Example: The line is flaked into the container for easy attachment and deployment._
-- **To [[h/_hit|hit]] ([[a/_another|another]] person).**
+- **To [[h/_hit|hit]] ([[a/_another|another]] [[p/_person|person]]).**
 ---
 ---

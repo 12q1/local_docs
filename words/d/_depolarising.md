@@ -1,7 +1,7 @@
 # Depolarising
 ---
 #verb
-- **To remove the polarization from something.**
+- **To remove the [[p/_polarization|polarization]] from something.**
 - **To [[d/_demagnetize|demagnetize]].**
 ---
 ---

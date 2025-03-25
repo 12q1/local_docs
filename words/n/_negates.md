@@ -7,6 +7,6 @@
 	- _Example: Persecution can be negated through exposure._
 - **To be [[n/_negative|negative]]; [[b/_bring|bring]] or [[c/_cause|cause]] [[n/_negative|negative]] results.**
 	- _Example: a pessimism that always negates_
-- **To perform the NOT [[o/_operation|operation]] on.**
+- **To [[p/_perform|perform]] the NOT [[o/_operation|operation]] on.**
 ---
 ---

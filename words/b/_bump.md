@@ -5,31 +5,31 @@
 - **The sound of such a [[c/_collision|collision]].**
 - **A protuberance on a [[l/_level|level]] surface.**
 - **A swelling on the skin [[c/_caused|caused]] by [[i/_illness|illness]] or [[i/_injury|injury]].**
-- **[[o/_one|One]] of the protuberances on the [[c/_cranium|cranium]] which, in phrenology, are [[a/_associated|associated]] with [[d/_distinct|distinct]] [[f/_faculties|faculties]] or [[a/_affections|affections]] of the [[m/_mind|mind]]. [[a/_also|Also]] ([[m/_metonymically|metonymically]]) the [[f/_faculty|faculty]] [[i/_itself|itself]]**
+- **[[o/_one|One]] of the protuberances on the [[c/_cranium|cranium]] which, in [[p/_phrenology|phrenology]], are [[a/_associated|associated]] with [[d/_distinct|distinct]] [[f/_faculties|faculties]] or [[a/_affections|affections]] of the [[m/_mind|mind]]. [[a/_also|Also]] ([[m/_metonymically|metonymically]]) the [[f/_faculty|faculty]] [[i/_itself|itself]]**
 	- _Example: the bump of veneration; the bump of acquisitiveness_
-- **The point, in a race in which [[b/_boats|boats]] are spaced [[a/_apart|apart]] at the start, at which a [[b/_boat|boat]] [[b/_begins|begins]] to [[o/_overtake|overtake]] the [[b/_boat|boat]] [[a/_ahead|ahead]].**
-- **The swollen [[a/_abdomen|abdomen]] of a pregnant woman.**
-- **A post in an [[i/_internet|Internet]] [[f/_forum|forum]] thread [[m/_made|made]] in [[o/_order|order]] to raise the thread's profile by returning it to the top of the [[l/_list|list]] of [[a/_active|active]] threads.**
+- **The [[p/_point|point]], in a race in which [[b/_boats|boats]] are spaced [[a/_apart|apart]] at the start, at which a [[b/_boat|boat]] [[b/_begins|begins]] to [[o/_overtake|overtake]] the [[b/_boat|boat]] [[a/_ahead|ahead]].**
+- **The swollen [[a/_abdomen|abdomen]] of a [[p/_pregnant|pregnant]] woman.**
+- **A [[p/_post|post]] in an [[i/_internet|Internet]] [[f/_forum|forum]] thread [[m/_made|made]] in [[o/_order|order]] to raise the thread's profile by returning it to the top of the [[l/_list|list]] of [[a/_active|active]] threads.**
 - **A temporary [[i/_increase|increase]] in a quantity, as shown in a [[g/_graph|graph]].**
 	- _Example: US presidential nominees get a post-convention bump in survey ratings._
 - **A [[d/_dose|dose]] of a [[d/_drug|drug]] such as ketamine or [[c/_cocaine|cocaine]], when snorted recreationally.**
 - **The [[n/_noise|noise]] [[m/_made|made]] by the [[b/_bittern|bittern]]; a [[b/_boom|boom]].**
-- **(preceded by [[d/_definite|definite]] [[a/_article|article]]) A [[d/_disco|disco]] [[d/_dance|dance]] in which partners rhythmically [[b/_bump|bump]] [[e/_each|each]] [[o/_other|other]]'s [[h/_hips|hips]] together.**
+- **([[p/_preceded|preceded]] by [[d/_definite|definite]] [[a/_article|article]]) A [[d/_disco|disco]] [[d/_dance|dance]] in which [[p/_partners|partners]] rhythmically [[b/_bump|bump]] [[e/_each|each]] [[o/_other|other]]'s [[h/_hips|hips]] together.**
 - **In skipping, a single [[j/_jump|jump]] [[o/_over|over]] two [[c/_consecutive|consecutive]] turns of the rope.**
 - **A [[c/_coarse|coarse]] [[c/_cotton|cotton]] [[f/_fabric|fabric]].**
 - **A training [[m/_match|match]] for a [[f/_fighting|fighting]] [[d/_dog|dog]].**
-- **The [[j/_jaw|jaw]] of [[e/_either|either]] of the [[m/_middle|middle]] pockets.**
-- **[[m/_music|Music]], [[e/_especially|especially]] played [[o/_over|over]] speakers at [[l/_loud|loud]] volume with strong [[b/_bass|bass]] [[f/_frequency|frequency]] response.**
+- **The [[j/_jaw|jaw]] of [[e/_either|either]] of the [[m/_middle|middle]] [[p/_pockets|pockets]].**
+- **[[m/_music|Music]], [[e/_especially|especially]] [[p/_played|played]] [[o/_over|over]] speakers at [[l/_loud|loud]] volume with strong [[b/_bass|bass]] [[f/_frequency|frequency]] response.**
 ---
 #verb
 - **To [[k/_knock|knock]] [[a/_against|against]] or run [[i/_into|into]] with a [[j/_jolt|jolt]].**
 - **To [[m/_move|move]] up or [[d/_down|down]] by a step; [[d/_displace|displace]].**
 	- _Example: I bumped the font size up to make my document easier to read._
-- **To post in an [[i/_internet|Internet]] [[f/_forum|forum]] thread in [[o/_order|order]] to raise the thread's profile by returning it to the top of the [[l/_list|list]] of [[a/_active|active]] threads.**
+- **To [[p/_post|post]] in an [[i/_internet|Internet]] [[f/_forum|forum]] thread in [[o/_order|order]] to raise the thread's profile by returning it to the top of the [[l/_list|list]] of [[a/_active|active]] threads.**
 - **(of a superheated [[l/_liquid|liquid]]) To suddenly [[b/_boil|boil]], [[c/_causing|causing]] [[m/_movement|movement]] of the vessel and [[l/_loss|loss]] of [[l/_liquid|liquid]].**
-- **To [[m/_move|move]] (a [[b/_booked|booked]] passenger) to a [[l/_later|later]] [[f/_flight|flight]] [[b/_because|because]] of [[e/_earlier|earlier]] [[d/_delays|delays]] or [[c/_cancellations|cancellations]].**
+- **To [[m/_move|move]] (a [[b/_booked|booked]] [[p/_passenger|passenger]]) to a [[l/_later|later]] [[f/_flight|flight]] [[b/_because|because]] of [[e/_earlier|earlier]] [[d/_delays|delays]] or [[c/_cancellations|cancellations]].**
 - **To [[m/_move|move]] the time of (a scheduled [[e/_event|event]]).**
-- **To pick (a [[l/_lock|lock]]) with a repeated striking [[m/_motion|motion]] that [[d/_dislodges|dislodges]] the pins.**
+- **To [[p/_pick|pick]] (a [[l/_lock|lock]]) with a repeated striking [[m/_motion|motion]] that [[d/_dislodges|dislodges]] the [[p/_pins|pins]].**
 - **To [[m/_make|make]] a [[l/_loud|loud]], [[h/_heavy|heavy]], or [[h/_hollow|hollow]] [[n/_noise|noise]]; to [[b/_boom|boom]].**
 - **To spread [[o/_out|out]] [[m/_material|material]] so as to [[f/_fill|fill]] [[a/_any|any]] [[d/_desired|desired]] [[n/_number|number]] of [[p/_pages|pages]].**
 ---

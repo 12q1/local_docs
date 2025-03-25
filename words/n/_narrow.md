@@ -1,7 +1,7 @@
 # Narrow
 ---
 #noun
-- **([[c/_chiefly|chiefly]] in the plural) A [[n/_narrow|narrow]] passage, [[e/_especially|especially]] a [[c/_contracted|contracted]] part of a stream, [[l/_lake|lake]], or sea; a strait [[c/_connecting|connecting]] two [[b/_bodies|bodies]] of water.**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) A [[n/_narrow|narrow]] [[p/_passage|passage]], [[e/_especially|especially]] a [[c/_contracted|contracted]] [[p/_part|part]] of a stream, [[l/_lake|lake]], or sea; a strait [[c/_connecting|connecting]] two [[b/_bodies|bodies]] of water.**
 	- _Example: the narrows of New York harbor_
 ---
 #adjective
@@ -16,9 +16,9 @@
 	- _Example: The Republicans won by a narrow majority._
 - **[[l/_limited|Limited]] as to [[m/_means|means]]; straitened**
 	- _Example: narrow circumstances_
-- **Parsimonious; [[n/_niggardly|niggardly]]; [[c/_covetous|covetous]]; selfish.**
+- **[[p/_parsimonious|Parsimonious]]; [[n/_niggardly|niggardly]]; [[c/_covetous|covetous]]; selfish.**
 - **Scrutinizing in [[d/_detail|detail]]; [[c/_close|close]]; [[a/_accurate|accurate]]; [[e/_exact|exact]].**
-- **[[f/_formed|Formed]] (as a vowel) by a [[c/_close|close]] position of some part of the tongue in relation to the [[p/_palate|palate]]; or ([[a/_according|according]] to [[b/_bell|Bell]]) by a tense [[c/_condition|condition]] of the pharynx; [[d/_distinguished|distinguished]] from wide.**
+- **[[f/_formed|Formed]] (as a vowel) by a [[c/_close|close]] [[p/_position|position]] of some [[p/_part|part]] of the tongue in relation to the [[p/_palate|palate]]; or ([[a/_according|according]] to [[b/_bell|Bell]]) by a tense [[c/_condition|condition]] of the [[p/_pharynx|pharynx]]; [[d/_distinguished|distinguished]] from wide.**
 ---
 ### Antonyms
 - [[b/_broad|broad]], [[w/_wide|wide]]

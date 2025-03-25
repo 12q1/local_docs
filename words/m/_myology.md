@@ -1,6 +1,6 @@
 # Myology
 ---
 #noun
-- **The physiological study of [[m/_muscles|muscles]].**
+- **The [[p/_physiological|physiological]] study of [[m/_muscles|muscles]].**
 ---
 ---

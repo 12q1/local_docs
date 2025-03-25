@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[e/_edible|Edible]], sweet-tasting [[c/_confectionery|confectionery]] [[c/_containing|containing]] sugar, or sometimes [[a/_artificial|artificial]] sweeteners, and [[o/_often|often]] [[f/_flavored|flavored]] with [[f/_fruit|fruit]], [[c/_chocolate|chocolate]], [[n/_nuts|nuts]], [[h/_herbs|herbs]] and spices, or [[a/_artificial|artificial]] [[f/_flavors|flavors]].**
-- **A piece of [[c/_confectionery|confectionery]] of this [[k/_kind|kind]].**
+- **A [[p/_piece|piece]] of [[c/_confectionery|confectionery]] of this [[k/_kind|kind]].**
 - **(slang, [[c/_chiefly|chiefly]] US) [[c/_crack|crack]] [[c/_cocaine|cocaine]].**
 ---
 ### Synonyms

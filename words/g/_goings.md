@@ -9,9 +9,9 @@
 	- _Example: We made good going for a while, but then we came to the price._
 - **[[c/_conditions|Conditions]] for [[a/_advancing|advancing]] in [[a/_any|any]] way.**
 	- _Example: Not only were the streets not paved with gold, but the going was difficult for an immigrant._
-- **Pregnancy; [[g/_gestation|gestation]]; [[c/_childbearing|childbearing]]**
-- **(in the plural) [[c/_course|Course]] of [[l/_life|life]]; [[b/_behaviour|behaviour]]; [[d/_doings|doings]]; ways.**
-- **(in the phrase "the [[g/_going|going]] of") The whereabouts (of something).**
+- **[[p/_pregnancy|Pregnancy]]; [[g/_gestation|gestation]]; [[c/_childbearing|childbearing]]**
+- **(in the [[p/_plural|plural]]) [[c/_course|Course]] of [[l/_life|life]]; [[b/_behaviour|behaviour]]; [[d/_doings|doings]]; ways.**
+- **(in the [[p/_phrase|phrase]] "the [[g/_going|going]] of") The whereabouts (of something).**
 	- _Example: I can't find my sunglasses; you haven't seen the going of them, have you?_
 ---
 ---

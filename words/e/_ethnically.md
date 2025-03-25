@@ -1,6 +1,6 @@
 # Ethnically
 ---
 #adverb
-- **Of or pertaining to [[e/_ethnicity|ethnicity]].**
+- **Of or [[p/_pertaining|pertaining]] to [[e/_ethnicity|ethnicity]].**
 ---
 ---

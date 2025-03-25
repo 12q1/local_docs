@@ -1,7 +1,7 @@
 # Careen
 ---
 #noun
-- **The position of a ship [[l/_laid|laid]] on [[o/_one|one]] side.**
+- **The [[p/_position|position]] of a ship [[l/_laid|laid]] on [[o/_one|one]] side.**
 ---
 #verb
 - **To [[h/_heave|heave]] a ship [[d/_down|down]] on [[o/_one|one]] side so as to [[e/_expose|expose]] the [[o/_other|other]], in [[o/_order|order]] to [[c/_clean|clean]] it of [[b/_barnacles|barnacles]] and weed, or to repair it [[b/_below|below]] the water [[l/_line|line]].**

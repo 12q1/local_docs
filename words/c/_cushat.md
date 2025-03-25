@@ -1,7 +1,7 @@
 # Cushat
 ---
 #noun
-- **A pigeon, wood pigeon or ring [[d/_dove|dove]].**
+- **A [[p/_pigeon|pigeon]], wood [[p/_pigeon|pigeon]] or ring [[d/_dove|dove]].**
 ---
 ### Synonyms
 - [[c/_cushat-dove|cushat-dove]], [[q/_queest|queest]], [[q/_quist|quist]]

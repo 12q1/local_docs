@@ -5,7 +5,7 @@
 - **To [[l/_lift|lift]] up; raise; [[e/_elevate|elevate]].**
 ---
 #adjective
-- **[[e/_extremely|Extremely]] [[h/_happy|happy]] and [[e/_excited|excited]]; [[d/_delighted|delighted]]; pleased, [[e/_euphoric|euphoric]].**
+- **[[e/_extremely|Extremely]] [[h/_happy|happy]] and [[e/_excited|excited]]; [[d/_delighted|delighted]]; [[p/_pleased|pleased]], [[e/_euphoric|euphoric]].**
 	- _Example: She was elated with her new car._
 ---
 ### Synonyms

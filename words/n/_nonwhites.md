@@ -1,6 +1,6 @@
 # Nonwhites
 ---
 #noun
-- **A person who is not white.**
+- **A [[p/_person|person]] who is not white.**
 ---
 ---

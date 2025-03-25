@@ -6,7 +6,7 @@
 ---
 #verb
 - **To [[g/_group|group]] together for a [[c/_common|common]] purpose; to [[c/_confederate|confederate]].**
-- **To [[g/_group|group]] (students) together by perceived [[a/_ability|ability]]; to stream.**
+- **To [[g/_group|group]] (students) together by [[p/_perceived|perceived]] [[a/_ability|ability]]; to stream.**
 ---
 #adjective
 - **[[m/_marked|Marked]] with [[b/_bands|bands]] of [[c/_colour|colour]]**

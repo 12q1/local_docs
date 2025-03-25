@@ -5,7 +5,7 @@
 	- _Example: The fire was still glowing after ten hours._
 - **To radiate some [[e/_emotional|emotional]] quality [[l/_like|like]] [[l/_light|light]].**
 	- _Example: The zealots glowed with religious fervor._
-- **To [[g/_gaze|gaze]] [[e/_especially|especially]] passionately at something.**
+- **To [[g/_gaze|gaze]] [[e/_especially|especially]] [[p/_passionately|passionately]] at something.**
 - **To radiate thermal [[h/_heat|heat]].**
 	- _Example: After their workout, the gymnasts' faces were glowing red._
 - **To shine [[b/_brightly|brightly]] and steadily.**

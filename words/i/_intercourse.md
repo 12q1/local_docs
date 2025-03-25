@@ -3,7 +3,7 @@
 #noun
 - **[[c/_communication|Communication]], [[c/_conversation|conversation]].**
 - **[[d/_dealings|Dealings]] [[b/_between|between]] [[c/_countries|countries]].**
-- **[[d/_dealings|Dealings]] with people, [[i/_including|including]] [[c/_commerce|commerce]] and trade.**
+- **[[d/_dealings|Dealings]] with [[p/_people|people]], [[i/_including|including]] [[c/_commerce|commerce]] and trade.**
 - **Sexual [[i/_intercourse|intercourse]] usually [[i/_involving|involving]] [[h/_humans|humans]].**
 ---
 #verb

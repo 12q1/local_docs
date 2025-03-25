@@ -5,6 +5,6 @@
 - **The wood of these trees.**
 ---
 #adjective
-- **Of or pertaining to the [[h/_hickory|hickory]] tree or [[i/_its|its]] wood.**
+- **Of or [[p/_pertaining|pertaining]] to the [[h/_hickory|hickory]] tree or [[i/_its|its]] wood.**
 ---
 ---

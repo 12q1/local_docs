@@ -1,10 +1,10 @@
 # Clinker
 ---
 #noun
-- **A very [[h/_hard|hard]] [[b/_brick|brick]] used for paving [[c/_customarily|customarily]] [[m/_made|made]] in the [[n/_netherlands|Netherlands]].**
+- **A very [[h/_hard|hard]] [[b/_brick|brick]] used for [[p/_paving|paving]] [[c/_customarily|customarily]] [[m/_made|made]] in the [[n/_netherlands|Netherlands]].**
 - **A [[m/_mass|mass]] of [[b/_bricks|bricks]] [[f/_fused|fused]] together by [[i/_intense|intense]] [[h/_heat|heat]].**
 - **Slag or [[a/_ash|ash]] produced by [[i/_intense|intense]] [[h/_heat|heat]] in a [[f/_furnace|furnace]], [[k/_kiln|kiln]] or [[b/_boiler|boiler]] that [[f/_forms|forms]] a [[h/_hard|hard]] residue upon [[c/_cooling|cooling]].**
-- **An [[i/_intermediate|intermediate]] product in the [[m/_manufacture|manufacture]] of Portland [[c/_cement|cement]], [[o/_obtained|obtained]] by sintering [[l/_limestone|limestone]] and alumino-silicate [[m/_materials|materials]] such as [[c/_clay|clay]] [[i/_into|into]] [[n/_nodules|nodules]] in a [[c/_cement|cement]] [[k/_kiln|kiln]].**
+- **An [[i/_intermediate|intermediate]] product in the [[m/_manufacture|manufacture]] of [[p/_portland|Portland]] [[c/_cement|cement]], [[o/_obtained|obtained]] by sintering [[l/_limestone|limestone]] and alumino-silicate [[m/_materials|materials]] such as [[c/_clay|clay]] [[i/_into|into]] [[n/_nodules|nodules]] in a [[c/_cement|cement]] [[k/_kiln|kiln]].**
 - **[[h/_hardened|Hardened]] volcanic [[l/_lava|lava]].**
 - **A scum of [[o/_oxide|oxide]] of [[i/_iron|iron]] [[f/_formed|formed]] in [[f/_forging|forging]].**
 ---

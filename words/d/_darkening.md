@@ -10,7 +10,7 @@
 - **To [[b/_become|become]] [[g/_gloomy|gloomy]], [[d/_darker|darker]] in [[m/_mood|mood]].**
 - **To [[b/_blind|blind]], [[i/_impair|impair]] the [[e/_eyesight|eyesight]].**
 - **To be [[b/_blinded|blinded]], [[l/_lose|lose]] [[o/_one|one]]’s [[e/_eyesight|eyesight]].**
-- **To [[c/_cloud|cloud]], [[o/_obscure|obscure]], or perplex; to render [[l/_less|less]] [[c/_clear|clear]] or [[i/_intelligible|intelligible]].**
+- **To [[c/_cloud|cloud]], [[o/_obscure|obscure]], or [[p/_perplex|perplex]]; to render [[l/_less|less]] [[c/_clear|clear]] or [[i/_intelligible|intelligible]].**
 - **To [[m/_make|make]] [[f/_foul|foul]]; to sully; to tarnish.**
 ---
 ### Synonyms

@@ -3,7 +3,7 @@
 #adjective
 - **Producing [[b/_balm|balm]].**
 - **Soothing or [[f/_fragrant|fragrant]].**
-- **[[m/_mild|Mild]] and pleasant.**
+- **[[m/_mild|Mild]] and [[p/_pleasant|pleasant]].**
 - **[[f/_foolish|Foolish]]; slightly [[c/_crazy|crazy]] or [[m/_mad|mad]]; [[e/_eccentric|eccentric]].**
 ---
 ### Synonyms

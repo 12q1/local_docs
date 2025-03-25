@@ -1,7 +1,7 @@
 # Furbishes
 ---
 #verb
-- **To polish or [[b/_burnish|burnish]].**
+- **To [[p/_polish|polish]] or [[b/_burnish|burnish]].**
 - **To renovate or recondition.**
 ---
 ### Synonyms

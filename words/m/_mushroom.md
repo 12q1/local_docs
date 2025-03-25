@@ -5,8 +5,8 @@
 	- _Example: Some mushrooms are edible and taste good, while others are poisonous and taste foul._
 - **A [[f/_fungus|fungus]] producing such [[f/_fruiting|fruiting]] [[b/_bodies|bodies]].**
 - **[[c/_champignon|Champignon]] or [[a/_agaricus|Agaricus]] bisporus, the [[m/_mushroom|mushroom]] species [[m/_most|most]] [[c/_commonly|commonly]] used in [[c/_cooking|cooking]].**
-- **[[a/_any|Any]] of the [[m/_mushroom|mushroom]]-shaped pegs in [[b/_bar|bar]] [[b/_billiards|billiards]].**
-- **A [[c/_concrete|concrete]] [[c/_column|column]] with a thickened portion at the top, used to support a slab.**
+- **[[a/_any|Any]] of the [[m/_mushroom|mushroom]]-shaped [[p/_pegs|pegs]] in [[b/_bar|bar]] [[b/_billiards|billiards]].**
+- **A [[c/_concrete|concrete]] [[c/_column|column]] with a thickened [[p/_portion|portion]] at the top, used to support a slab.**
 - **[[o/_one|One]] who rises suddenly from a [[l/_low|low]] [[c/_condition|condition]] in [[l/_life|life]]; an upstart.**
 - **Something that [[g/_grows|grows]] very quickly or seems to [[a/_appear|appear]] suddenly.**
 ---

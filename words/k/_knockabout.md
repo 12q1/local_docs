@@ -7,7 +7,7 @@
 - **([[c/_circus|circus]]) A tumbler.**
 - **[[c/_clothing|Clothing]] suitable for rough use.**
 - **A worker [[h/_habitually|habitually]] [[e/_engaged|engaged]] in [[c/_casual|casual]] [[e/_employment|employment]].**
-- **A person [[l/_living|living]] in rough, violent [[c/_conditions|conditions]].**
+- **A [[p/_person|person]] [[l/_living|living]] in rough, violent [[c/_conditions|conditions]].**
 ---
 #adjective
 - **[[b/_boisterous|Boisterous]]**

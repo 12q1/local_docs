@@ -3,7 +3,7 @@
 #noun
 - **[[c/_clothing|Clothing]].**
 - **[[a/_aspect|Aspect]], [[g/_guise|guise]], [[f/_form|form]].**
-- **A small [[o/_ornamental|ornamental]] piece of [[e/_embroidery|embroidery]] worn on [[a/_albs|albs]] and some [[o/_other|other]] [[e/_ecclesiastical|ecclesiastical]] vestments.**
+- **A small [[o/_ornamental|ornamental]] [[p/_piece|piece]] of [[e/_embroidery|embroidery]] worn on [[a/_albs|albs]] and some [[o/_other|other]] [[e/_ecclesiastical|ecclesiastical]] vestments.**
 - **The [[f/_furniture|furniture]] of a ship, such as [[m/_masts|masts]], sails, rigging, [[a/_anchors|anchors]], [[g/_guns|guns]], [[e/_etc|etc]].**
 ---
 #verb

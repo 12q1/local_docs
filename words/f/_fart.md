@@ -2,8 +2,8 @@
 ---
 #noun
 - **An [[e/_emission|emission]] of [[d/_digestive|digestive]] [[g/_gases|gases]] from the [[a/_anus|anus]]; a [[f/_flatus|flatus]].**
-- **([[i/_impolite|impolite]]) An [[i/_irritating|irritating]] person; a [[f/_fool|fool]].**
-- **([[i/_impolite|impolite]], potentially [[o/_offensive|offensive]]) (usually as "[[o/_old|old]] [[f/_fart|fart]]") An [[e/_elderly|elderly]] person; [[e/_especially|especially]] [[o/_one|one]] perceived to [[h/_hold|hold]] [[o/_old|old]]-[[f/_fashioned|fashioned]] views.**
+- **([[i/_impolite|impolite]]) An [[i/_irritating|irritating]] [[p/_person|person]]; a [[f/_fool|fool]].**
+- **([[i/_impolite|impolite]], [[p/_potentially|potentially]] [[o/_offensive|offensive]]) (usually as "[[o/_old|old]] [[f/_fart|fart]]") An [[e/_elderly|elderly]] [[p/_person|person]]; [[e/_especially|especially]] [[o/_one|one]] [[p/_perceived|perceived]] to [[h/_hold|hold]] [[o/_old|old]]-[[f/_fashioned|fashioned]] views.**
 ---
 #verb
 - **([[i/_impolite|impolite]]) To [[e/_emit|emit]] [[d/_digestive|digestive]] [[g/_gases|gases]] from the [[a/_anus|anus]]; to flatulate.**

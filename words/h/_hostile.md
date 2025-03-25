@@ -1,7 +1,7 @@
 # Hostile
 ---
 #noun
-- **([[c/_chiefly|chiefly]] in the plural) An [[e/_enemy|enemy]].**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) An [[e/_enemy|enemy]].**
 ---
 #adjective
 - **Not [[f/_friendly|friendly]], [[a/_appropriate|appropriate]] to an [[e/_enemy|enemy]]; showing the [[d/_disposition|disposition]] of an [[e/_enemy|enemy]]; showing [[i/_ill|ill]] will and [[m/_malevolence|malevolence]], or a [[d/_desire|desire]] to thwart and [[i/_injure|injure]]**

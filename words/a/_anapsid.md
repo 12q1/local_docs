@@ -4,6 +4,6 @@
 - **A [[m/_member|member]] of this [[g/_group|group]] of reptiles, [[i/_including|including]] the turtles, tortoises and terrapins.**
 ---
 #adjective
-- **Pertaining to the [[g/_group|group]] of reptiles whose skulls [[d/_do|do]] not [[h/_have|have]] [[o/_openings|openings]] [[n/_near|near]] the temples, [[o/_originally|originally]] [[c/_considered|considered]] as a specific subclass**
+- **[[p/_pertaining|Pertaining]] to the [[g/_group|group]] of reptiles whose skulls [[d/_do|do]] not [[h/_have|have]] [[o/_openings|openings]] [[n/_near|near]] the temples, [[o/_originally|originally]] [[c/_considered|considered]] as a specific subclass**
 ---
 ---

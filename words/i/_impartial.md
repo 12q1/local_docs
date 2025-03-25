@@ -1,7 +1,7 @@
 # Impartial
 ---
 #adjective
-- **Treating [[a/_all|all]] parties, rivals, or [[d/_disputants|disputants]] [[e/_equally|equally]]; not partial; not [[b/_biased|biased]]**
+- **Treating [[a/_all|all]] [[p/_parties|parties]], rivals, or [[d/_disputants|disputants]] [[e/_equally|equally]]; not [[p/_partial|partial]]; not [[b/_biased|biased]]**
 ---
 ### Synonyms
 - [[f/_fair|fair]], [[n/_neutral|neutral]]

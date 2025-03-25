@@ -6,6 +6,6 @@
 ### Synonyms
 - 
 #adjective
-- **Of or pertaining to the [[c/_carpus|carpus]].**
+- **Of or [[p/_pertaining|pertaining]] to the [[c/_carpus|carpus]].**
 ---
 ---

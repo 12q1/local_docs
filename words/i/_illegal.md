@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[i/_illegal|illegal]] [[a/_act|act]] or technique.**
-- **(plural, as illegals) [[c/_contraband|Contraband]], [[e/_esp|esp]]. [[i/_illegal|illegal]] substances such as [[d/_drugs|drugs]].**
+- **([[p/_plural|plural]], as illegals) [[c/_contraband|Contraband]], [[e/_esp|esp]]. [[i/_illegal|illegal]] substances such as [[d/_drugs|drugs]].**
 - **An [[i/_illegal|illegal]] [[i/_immigrant|immigrant]].**
 - **A spy working [[a/_abroad|abroad]] [[i/_illegally|illegally]] and undercover, without visible ties to [[h/_his|his]] or [[h/_her|her]] [[c/_country|country]]’s [[a/_authorities|authorities]].**
 ---
@@ -14,7 +14,7 @@
 - **[[f/_forbidden|Forbidden]] by [[e/_established|established]] rules.**
 	- _Example: Moving a pawn backward is an illegal move in chess._
 - **(of an [[i/_issue|issue]] printed for [[c/_collectors|collectors]]) Totally [[f/_fictitious|fictitious]], and [[o/_often|often]] [[i/_issued|issued]] on [[b/_behalf|behalf]] of a [[n/_non|non]]-[[e/_existent|existent]] territory or [[c/_country|country]].**
-- **(of a person, sometimes [[o/_offensive|offensive]]) [[b/_being|Being]] or [[d/_doing|doing]] something [[i/_illegally|illegally]].**
+- **(of a [[p/_person|person]], sometimes [[o/_offensive|offensive]]) [[b/_being|Being]] or [[d/_doing|doing]] something [[i/_illegally|illegally]].**
 	- _Example: illegal immigrant;  illegal logger;  illegal pilot_
 - **(sometimes [[o/_offensive|offensive]]) [[b/_being|Being]] an [[i/_illegal|illegal]] [[i/_immigrant|immigrant]]; residing in a [[c/_country|country]] [[i/_illegally|illegally]].**
 ---

@@ -1,7 +1,7 @@
 # Meteorologist
 ---
 #noun
-- **A person who studies [[m/_meteorology|meteorology]]**
+- **A [[p/_person|person]] who studies [[m/_meteorology|meteorology]]**
 - **A weather [[f/_forecaster|forecaster]]**
 ---
 ---

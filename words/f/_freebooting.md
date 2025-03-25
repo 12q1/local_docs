@@ -1,15 +1,15 @@
 # Freebooting
 ---
 #verb
-- **To pillage or plunder.**
+- **To [[p/_pillage|pillage]] or [[p/_plunder|plunder]].**
 - **To rehost ([[o/_online|online]] [[m/_media|media]]) without [[l/_legal|legal]] [[a/_authorization|authorization]].**
 	- _Example: He freebooted our video._
 ---
 #noun
-- **Piracy or plundering.**
-- **Software piracy, or stealing or unauthorized rehosting of [[d/_digital|digital]] [[c/_content|content]].**
+- **[[p/_piracy|Piracy]] or [[p/_plundering|plundering]].**
+- **Software [[p/_piracy|piracy]], or stealing or unauthorized rehosting of [[d/_digital|digital]] [[c/_content|content]].**
 ---
 #adjective
-- **[[e/_engaged|Engaged]] in piracy or plunder**
+- **[[e/_engaged|Engaged]] in [[p/_piracy|piracy]] or [[p/_plunder|plunder]]**
 ---
 ---

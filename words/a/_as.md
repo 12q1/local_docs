@@ -22,7 +22,7 @@
 - **[[i/_introducing|Introducing]] a [[c/_comparison|comparison]] with a [[h/_hypothetical|hypothetical]] state (+ subjunctive, or with the verb [[e/_elided|elided]]): as though, as [[i/_if|if]].**
 - **[[f/_functioning|Functioning]] as a relative [[c/_conjunction|conjunction]], and sometimes [[l/_like|like]] a relative pronoun: that, which, who. (See usage [[n/_notes|notes]].)**
 	- _Example: He had the same problem as she did getting the lock open._
-- **(possibly [[o/_obsolete|obsolete]]) Than.**
+- **([[p/_possibly|possibly]] [[o/_obsolete|obsolete]]) Than.**
 ---
 ### Synonyms
 - [[w/_while|while]], [[w/_whilst|whilst]], [[a/_albeit|albeit]], [[a/_although|although]]

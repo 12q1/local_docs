@@ -1,6 +1,6 @@
 # Aeromagnetic
 ---
 #adjective
-- **Of or pertaining to aeromagnetics**
+- **Of or [[p/_pertaining|pertaining]] to aeromagnetics**
 ---
 ---

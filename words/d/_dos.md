@@ -1,13 +1,13 @@
 # Dos
 ---
 #noun
-- **A party, [[c/_celebration|celebration]], social [[f/_function|function]].**
+- **A [[p/_party|party]], [[c/_celebration|celebration]], social [[f/_function|function]].**
 	- _Example: We’re having a bit of a do on Saturday to celebrate my birthday._
 - **A [[h/_hairdo|hairdo]].**
 	- _Example: Nice do!_
-- **Something that [[c/_can|can]] or should be [[d/_done|done]] (usually in the phrase [[d/_dos|dos]] and [[d/_don|don]]'ts).**
+- **Something that [[c/_can|can]] or should be [[d/_done|done]] (usually in the [[p/_phrase|phrase]] [[d/_dos|dos]] and [[d/_don|don]]'ts).**
 - **A [[d/_deed|deed]]; an [[a/_act|act]].**
-- **[[a/_ado|Ado]]; [[b/_bustle|bustle]]; stir; to-[[d/_do|do]]; A period of [[c/_confusion|confusion]] or [[a/_argument|argument]].**
+- **[[a/_ado|Ado]]; [[b/_bustle|bustle]]; stir; to-[[d/_do|do]]; A [[p/_period|period]] of [[c/_confusion|confusion]] or [[a/_argument|argument]].**
 - **A [[c/_cheat|cheat]]; a swindler.**
 - **An [[a/_act|act]] of swindling; a [[f/_fraud|fraud]] or [[d/_deception|deception]].**
 ---

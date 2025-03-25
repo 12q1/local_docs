@@ -14,10 +14,10 @@
 	- _Example: Tim got in trouble for forgetting his maths copy._
 - **A printed [[e/_edition|edition]] of a [[b/_book|book]] or [[m/_magazine|magazine]].**
 	- _Example: Have you seen the latest copy of "Newsweek" yet?_
-- **Writing paper of a particular size, [[c/_called|called]] [[a/_also|also]] [[b/_bastard|bastard]].**
-- **That which is to be [[i/_imitated|imitated]], transcribed, or reproduced; a pattern, [[m/_model|model]], or [[e/_example|example]].**
+- **Writing [[p/_paper|paper]] of a [[p/_particular|particular]] size, [[c/_called|called]] [[a/_also|also]] [[b/_bastard|bastard]].**
+- **That which is to be [[i/_imitated|imitated]], transcribed, or reproduced; a [[p/_pattern|pattern]], [[m/_model|model]], or [[e/_example|example]].**
 	- _Example: His virtues are an excellent copy for imitation._
-- **An [[a/_abundance|abundance]] or plenty of [[a/_anything|anything]].**
+- **An [[a/_abundance|abundance]] or [[p/_plenty|plenty]] of [[a/_anything|anything]].**
 - **[[c/_copyhold|Copyhold]]; tenure; [[l/_lease|lease]]**
 - **([[g/_genetics|genetics]]) The result of [[g/_gene|gene]] or [[c/_chromosomal|chromosomal]] [[d/_duplication|duplication]].**
 ---
@@ -28,9 +28,9 @@
 #verb
 - **To produce an [[o/_object|object]] [[i/_identical|identical]] to a [[g/_given|given]] [[o/_object|object]].**
 	- _Example: Please copy these reports for me._
-- **To [[g/_give|give]] or transmit a [[c/_copy|copy]] to (a person).**
+- **To [[g/_give|give]] or transmit a [[c/_copy|copy]] to (a [[p/_person|person]]).**
 	- _Example: Make sure you copy me on that important memo._
-- **To place a [[c/_copy|copy]] of an [[o/_object|object]] in [[m/_memory|memory]] for [[l/_later|later]] use.**
+- **To [[p/_place|place]] a [[c/_copy|copy]] of an [[o/_object|object]] in [[m/_memory|memory]] for [[l/_later|later]] use.**
 	- _Example: First copy the files, and then paste them in another directory._
 - **To [[i/_imitate|imitate]].**
 	- _Example: Don't copy my dance moves._

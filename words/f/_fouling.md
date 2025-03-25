@@ -9,7 +9,7 @@
 	- _Example: The hair has fouled the drain._
 - **To [[e/_entangle|entangle]].**
 	- _Example: The kelp has fouled the prop._
-- **To [[m/_make|make]] [[c/_contact|contact]] with an [[o/_opposing|opposing]] player in [[o/_order|order]] to [[g/_gain|gain]] [[a/_advantage|advantage]].**
+- **To [[m/_make|make]] [[c/_contact|contact]] with an [[o/_opposing|opposing]] [[p/_player|player]] in [[o/_order|order]] to [[g/_gain|gain]] [[a/_advantage|advantage]].**
 	- _Example: Smith fouled him hard._
 - **To [[h/_hit|hit]] [[o/_outside|outside]] of the [[b/_baselines|baselines]].**
 	- _Example: Jones fouled the ball off the facing of the upper deck._

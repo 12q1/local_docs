@@ -1,7 +1,7 @@
 # Negro
 ---
 #noun
-- **A [[b/_black|black]] person; a person of sub-Saharan [[a/_african|African]] [[d/_descent|descent]].**
+- **A [[b/_black|black]] [[p/_person|person]]; a [[p/_person|person]] of sub-Saharan [[a/_african|African]] [[d/_descent|descent]].**
 ---
 #adjective
 - **Relating to the [[b/_black|black]] [[e/_ethnicity|ethnicity]].**

@@ -1,6 +1,6 @@
 # Cense
 ---
 #verb
-- **To perfume with [[i/_incense|incense]].**
+- **To [[p/_perfume|perfume]] with [[i/_incense|incense]].**
 ---
 ---

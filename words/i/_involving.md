@@ -9,9 +9,9 @@
 - **To take in; to [[g/_gather|gather]] in; to [[m/_mingle|mingle]] [[c/_confusedly|confusedly]]; to [[b/_blend|blend]] or [[m/_merge|merge]].**
 - **To [[e/_envelop|envelop]], [[e/_enfold|enfold]], [[e/_entangle|entangle]].**
 	- _Example: He's involved in the crime._
-- **To [[e/_engage|engage]] (someone) to participate in a task.**
+- **To [[e/_engage|engage]] (someone) to [[p/_participate|participate]] in a task.**
 	- _Example: By getting involved in her local community, Mary met lots of people and also helped make it a nicer place to live._
-- **To raise to [[a/_any|any]] [[a/_assigned|assigned]] power; to [[m/_multiply|multiply]], as a quantity, [[i/_into|into]] [[i/_itself|itself]] a [[g/_given|given]] [[n/_number|number]] of times.**
+- **To raise to [[a/_any|any]] [[a/_assigned|assigned]] [[p/_power|power]]; to [[m/_multiply|multiply]], as a quantity, [[i/_into|into]] [[i/_itself|itself]] a [[g/_given|given]] [[n/_number|number]] of times.**
 	- _Example: a quantity involved to the third or fourth power_
 ---
 ### Synonyms

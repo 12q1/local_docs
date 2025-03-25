@@ -18,6 +18,6 @@
 	- _Example: Any listening person can tell she's lying._
 - **Of something that is used in [[o/_order|order]] to [[h/_hear|hear]] or to [[i/_improve|improve]] the [[a/_ability|ability]] to [[h/_hear|hear]].**
 	- _Example: He could hear better when he used his listening device._
-- **Of an [[a/_action|action]] that is performed with [[c/_caution|caution]] and [[a/_attention|attention]] to sounds.**
+- **Of an [[a/_action|action]] that is [[p/_performed|performed]] with [[c/_caution|caution]] and [[a/_attention|attention]] to sounds.**
 ---
 ---

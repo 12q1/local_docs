@@ -7,6 +7,6 @@
 - [[t/_trumpet|trumpet]]
 #adjective
 - **[[o/_ornamented|Ornamented]] with [[b/_bugles|bugles]].**
-- **Played by a [[b/_bugle|bugle]].**
+- **[[p/_played|Played]] by a [[b/_bugle|bugle]].**
 ---
 ---

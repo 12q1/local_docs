@@ -1,8 +1,8 @@
 # Nylons
 ---
 #noun
-- **[[o/_originally|Originally]], the DuPont [[c/_company|company]] trade [[n/_name|name]] for polyamide, a [[c/_copolymer|copolymer]] whose [[m/_molecules|molecules]] [[c/_consist|consist]] of [[a/_alternating|alternating]] [[d/_diamine|diamine]] and [[d/_dicarboxylic|dicarboxylic]] [[a/_acid|acid]] [[m/_monomers|monomers]] [[b/_bonded|bonded]] together; [[n/_now|now]] [[g/_generically|generically]] used for this type of polymer.**
-- **(in the plural) A stocking [[o/_originally|originally]] [[f/_fabricated|fabricated]] from [[n/_nylon|nylon]]; [[a/_also|also]] used [[g/_generically|generically]] for [[a/_any|any]] [[l/_long|long]], sheer stocking worn on a woman's [[l/_legs|legs]].**
+- **[[o/_originally|Originally]], the DuPont [[c/_company|company]] trade [[n/_name|name]] for [[p/_polyamide|polyamide]], a [[c/_copolymer|copolymer]] whose [[m/_molecules|molecules]] [[c/_consist|consist]] of [[a/_alternating|alternating]] [[d/_diamine|diamine]] and [[d/_dicarboxylic|dicarboxylic]] [[a/_acid|acid]] [[m/_monomers|monomers]] [[b/_bonded|bonded]] together; [[n/_now|now]] [[g/_generically|generically]] used for this type of [[p/_polymer|polymer]].**
+- **(in the [[p/_plural|plural]]) A stocking [[o/_originally|originally]] [[f/_fabricated|fabricated]] from [[n/_nylon|nylon]]; [[a/_also|also]] used [[g/_generically|generically]] for [[a/_any|any]] [[l/_long|long]], sheer stocking worn on a woman's [[l/_legs|legs]].**
 	- _Example: I tore a hole in my nylons while walking home through the woods._
 ---
 #noun

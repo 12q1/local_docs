@@ -6,8 +6,8 @@
 - **Something [[e/_existing|existing]] at the same time.**
 ---
 #adjective
-- **From the same time period, [[c/_coexistent|coexistent]] in time.**
-- **[[m/_modern|Modern]], of the present [[a/_age|age]].**
+- **From the same time [[p/_period|period]], [[c/_coexistent|coexistent]] in time.**
+- **[[m/_modern|Modern]], of the [[p/_present|present]] [[a/_age|age]].**
 ---
 ### Synonyms
 - [[c/_contemporaneous|contemporaneous]], [[c/_current|current]]

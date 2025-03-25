@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[i/_inhabitant|inhabitant]] of the [[n/_northern|northern]] regions.**
-- **The [[n/_northern|northern]] pike.**
+- **The [[n/_northern|northern]] [[p/_pike|pike]].**
 ---
 #adjective
 - **Of, [[f/_facing|facing]], situated in, or related to the [[n/_north|north]];[[n/_northerly|northerly]].**

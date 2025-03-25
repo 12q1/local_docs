@@ -1,6 +1,6 @@
 # Equational
 ---
 #adjective
-- **Of, pertaining to, or [[c/_constructed|constructed]] using [[e/_equations|equations]]**
+- **Of, [[p/_pertaining|pertaining]] to, or [[c/_constructed|constructed]] using [[e/_equations|equations]]**
 ---
 ---

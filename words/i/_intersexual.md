@@ -1,7 +1,7 @@
 # Intersexual
 ---
 #noun
-- **An [[i/_intersex|intersex]] person.**
+- **An [[i/_intersex|intersex]] [[p/_person|person]].**
 ---
 ### Synonyms
 - [[i/_intersex|intersex]]

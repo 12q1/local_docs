@@ -1,6 +1,6 @@
 # Fellmongered
 ---
 #verb
-- **To prepare [[a/_animal|animal]] skin for tanning.**
+- **To [[p/_prepare|prepare]] [[a/_animal|animal]] skin for tanning.**
 ---
 ---

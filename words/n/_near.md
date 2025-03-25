@@ -12,7 +12,7 @@
 	- _Example: The ship nears the land._
 ---
 #adjective
-- **Physically [[c/_close|close]].**
+- **[[p/_physically|Physically]] [[c/_close|close]].**
 	- _Example: I can't see near objects very clearly without my glasses._
 - **[[c/_close|Close]] in time.**
 	- _Example: The end is near._
@@ -22,7 +22,7 @@
 	- _Example: a near friend_
 - **[[c/_close|Close]] to [[a/_anything|anything]] [[f/_followed|followed]] or [[i/_imitated|imitated]]; not [[f/_free|free]], [[l/_loose|loose]], or rambling.**
 	- _Example: a version near to the original_
-- **So as [[b/_barely|barely]] to [[a/_avoid|avoid]] or pass [[i/_injury|injury]] or [[l/_loss|loss]]; [[c/_close|close]]; [[n/_narrow|narrow]].**
+- **So as [[b/_barely|barely]] to [[a/_avoid|avoid]] or [[p/_pass|pass]] [[i/_injury|injury]] or [[l/_loss|loss]]; [[c/_close|close]]; [[n/_narrow|narrow]].**
 	- _Example: a near escape_
 - **[[a/_approximate|Approximate]], [[a/_almost|almost]].**
 	- _Example: The two words are near synonyms._
@@ -31,19 +31,19 @@
 - **[[n/_next|Next]] to the [[d/_driver|driver]], when [[h/_he|he]] is on [[f/_foot|foot]]; on the [[l/_left|left]] of an [[a/_animal|animal]] or a team.**
 	- _Example: the near ox; the near leg_
 - **[[i/_immediate|Immediate]]; [[d/_direct|direct]]; [[c/_close|close]]; short.**
-- **Stingy; parsimonious.**
+- **Stingy; [[p/_parsimonious|parsimonious]].**
 ---
 ### Synonyms
 - [[c/_close|close]]
 ### Antonyms
 - [[o/_off|off]], [[r/_remote|remote]]
 #adverb
-- **At or towards a position [[c/_close|close]] in space or time.**
+- **At or towards a [[p/_position|position]] [[c/_close|close]] in space or time.**
 - **[[n/_nearly|Nearly]]; [[a/_almost|almost]].**
 	- _Example: He was near unconscious when I found him._
 ---
 #preposition
-- **Physically [[c/_close|close]] to, in [[c/_close|close]] proximity to.**
+- **[[p/_physically|Physically]] [[c/_close|close]] to, in [[c/_close|close]] proximity to.**
 	- _Example: There are habitable planets orbiting many of the stars near our Sun._
 - **[[c/_close|Close]] to in time.**
 	- _Example: The voyage was near completion._

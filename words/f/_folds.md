@@ -6,16 +6,16 @@
 - **A [[b/_bend|bend]] or [[c/_crease|crease]].**
 - **[[a/_any|Any]] [[c/_correct|correct]] [[m/_move|move]] in [[o/_origami|origami]].**
 - **([[n/_newspapers|newspapers]]) The [[d/_division|division]] [[b/_between|between]] the top and [[b/_bottom|bottom]] [[h/_halves|halves]] of a [[b/_broadsheet|broadsheet]]: [[h/_headlines|headlines]] [[a/_above|above]] the [[f/_fold|fold]] will be readable in a [[n/_newsstand|newsstand]] [[d/_display|display]]; usually the [[f/_fold|fold]].**
-- **(by [[e/_extension|extension]]) The [[d/_division|division]] [[b/_between|between]] the part of a web [[p/_page|page]] visible in a web [[b/_browser|browser]] window without scrolling; usually the [[f/_fold|fold]].**
+- **(by [[e/_extension|extension]]) The [[d/_division|division]] [[b/_between|between]] the [[p/_part|part]] of a web [[p/_page|page]] visible in a web [[b/_browser|browser]] window without scrolling; usually the [[f/_fold|fold]].**
 - **That which is [[f/_folded|folded]] together, or which [[e/_enfolds|enfolds]] or [[e/_envelops|envelops]]; [[e/_embrace|embrace]].**
-- **The [[b/_bending|bending]] or [[c/_curving|curving]] of [[o/_one|one]] or a stack of [[o/_originally|originally]] [[f/_flat|flat]] and planar surfaces, such as sedimentary strata, as a result of plastic ([[i/_i|i]].[[e/_e|e]]. permanent) [[d/_deformation|deformation]].**
+- **The [[b/_bending|bending]] or [[c/_curving|curving]] of [[o/_one|one]] or a stack of [[o/_originally|originally]] [[f/_flat|flat]] and [[p/_planar|planar]] surfaces, such as sedimentary strata, as a result of [[p/_plastic|plastic]] ([[i/_i|i]].[[e/_e|e]]. [[p/_permanent|permanent]]) [[d/_deformation|deformation]].**
 - **In [[f/_functional|functional]] programming, [[a/_any|any]] of a [[f/_family|family]] of [[h/_higher|higher]]-[[o/_order|order]] [[f/_functions|functions]] that process a [[d/_data|data]] structure recursively to [[b/_build|build]] up a value.**
 - **A section of source [[c/_code|code]] that [[c/_can|can]] be [[c/_collapsed|collapsed]] [[o/_out|out]] of view in an [[e/_editor|editor]] to [[a/_aid|aid]] readability.**
 ---
 ### Synonyms
 - [[b/_bend|bend]], [[c/_crease|crease]], [[b/_bending|bending]], [[c/_creasing|creasing]]
 #verb
-- **To [[b/_bend|bend]] ([[a/_any|any]] thin [[m/_material|material]], such as paper) [[o/_over|over]] so that it [[c/_comes|comes]] in [[c/_contact|contact]] with [[i/_itself|itself]].**
+- **To [[b/_bend|bend]] ([[a/_any|any]] thin [[m/_material|material]], such as [[p/_paper|paper]]) [[o/_over|over]] so that it [[c/_comes|comes]] in [[c/_contact|contact]] with [[i/_itself|itself]].**
 - **To [[m/_make|make]] the proper [[a/_arrangement|arrangement]] (in a thin [[m/_material|material]]) by [[b/_bending|bending]].**
 	- _Example: If you fold the sheets, they'll fit more easily in the drawer._
 - **To [[b/_become|become]] [[f/_folded|folded]]; to [[f/_form|form]] [[f/_folds|folds]].**
@@ -23,7 +23,7 @@
 - **To [[f/_fall|fall]] [[o/_over|over]]; to be [[c/_crushed|crushed]].**
 	- _Example: The chair folded under his enormous weight._
 - **To [[e/_enclose|enclose]] within [[f/_folded|folded]] [[a/_arms|arms]] (see [[a/_also|also]] [[e/_enfold|enfold]]).**
-- **To [[g/_give|give]] way on a point or in an [[a/_argument|argument]].**
+- **To [[g/_give|give]] way on a [[p/_point|point]] or in an [[a/_argument|argument]].**
 - **To withdraw from [[b/_betting|betting]].**
 	- _Example: With no hearts in the river and no chance to hit his straight, he folded._
 - **(by [[e/_extension|extension]]) To withdraw or quit in [[g/_general|general]].**
@@ -40,11 +40,11 @@
 ### Antonyms
 - [[u/_unfold|unfold]]
 #noun
-- **A pen or [[e/_enclosure|enclosure]] for sheep or [[o/_other|other]] [[d/_domestic|domestic]] [[a/_animals|animals]].**
+- **A [[p/_pen|pen]] or [[e/_enclosure|enclosure]] for sheep or [[o/_other|other]] [[d/_domestic|domestic]] [[a/_animals|animals]].**
 - **([[c/_collective|collective]]) A [[g/_group|group]] of sheep or [[g/_goats|goats]].**
 - **[[h/_home|Home]], [[f/_family|family]].**
-- **A [[c/_church|church]] [[c/_congregation|congregation]], a [[g/_group|group]] of people who [[a/_adhere|adhere]] to a [[c/_common|common]] [[f/_faith|faith]] and [[h/_habitually|habitually]] [[a/_attend|attend]] a [[g/_given|given]] [[c/_church|church]]; the [[c/_christian|Christian]] [[c/_church|church]] as a whole, the [[f/_flock|flock]] of [[c/_christ|Christ]].**
-- **A [[g/_group|group]] of people with shared [[i/_ideas|ideas]] or [[g/_goals|goals]] or who [[l/_live|live]] or work together.**
+- **A [[c/_church|church]] [[c/_congregation|congregation]], a [[g/_group|group]] of [[p/_people|people]] who [[a/_adhere|adhere]] to a [[c/_common|common]] [[f/_faith|faith]] and [[h/_habitually|habitually]] [[a/_attend|attend]] a [[g/_given|given]] [[c/_church|church]]; the [[c/_christian|Christian]] [[c/_church|church]] as a whole, the [[f/_flock|flock]] of [[c/_christ|Christ]].**
+- **A [[g/_group|group]] of [[p/_people|people]] with shared [[i/_ideas|ideas]] or [[g/_goals|goals]] or who [[l/_live|live]] or work together.**
 - **A [[b/_boundary|boundary]] or [[l/_limit|limit]].**
 ---
 ### Synonyms

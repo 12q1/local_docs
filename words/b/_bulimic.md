@@ -1,7 +1,7 @@
 # Bulimic
 ---
 #noun
-- **A person suffering from [[b/_bulimia|bulimia]] [[n/_nervosa|nervosa]].**
+- **A [[p/_person|person]] suffering from [[b/_bulimia|bulimia]] [[n/_nervosa|nervosa]].**
 	- _Example: The hospital strictly monitored the advertising materials the bulimics and anorexics were allowed to see._
 ---
 #adjective

@@ -5,7 +5,7 @@
 ---
 #adjective
 - **[[m/_moving|Moving]] from the sea towards the [[l/_land|land]]: an [[o/_onshore|onshore]] [[b/_breeze|breeze]]**
-- **Positioned on or [[n/_near|near]] the shore**
+- **[[p/_positioned|Positioned]] on or [[n/_near|near]] the shore**
 - **Within the [[c/_country|country]]; not [[o/_overseas|overseas]].**
 ---
 #adverb

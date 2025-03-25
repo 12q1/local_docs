@@ -1,6 +1,6 @@
 # Kalimba
 ---
 #noun
-- **A type of thumb piano, similar to a [[m/_mbira|mbira]].**
+- **A type of thumb [[p/_piano|piano]], similar to a [[m/_mbira|mbira]].**
 ---
 ---

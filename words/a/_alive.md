@@ -24,15 +24,15 @@
 - **[[o/_operational|Operational]]; in [[a/_actual|actual]] use rather than in testing [[e/_etc|etc]].**
 - **Taken from a [[l/_living|living]] [[a/_animal|animal]].**
 	- _Example: live feathers_
-- **[[i/_imparting|Imparting]] power; [[h/_having|having]] [[m/_motion|motion]].**
+- **[[i/_imparting|Imparting]] [[p/_power|power]]; [[h/_having|having]] [[m/_motion|motion]].**
 	- _Example: a live, or driving, axle_
-- **Still in [[a/_active|active]] play.**
+- **Still in [[a/_active|active]] [[p/_play|play]].**
 	- _Example: a live ball_
 - **Seen or [[h/_heard|heard]] from a [[b/_broadcast|broadcast]], as it [[h/_happens|happens]].**
 	- _Example: The station presented a live news program every evening._
-- **(of a performance or speech) In person.**
+- **(of a [[p/_performance|performance]] or speech) In [[p/_person|person]].**
 	- _Example: This nightclub has a live band on weekends._
-- **([[e/_entertainment|entertainment]], performing) Recorded in [[f/_front|front]] of an [[a/_audience|audience]] and not [[h/_having|having]] [[b/_been|been]] [[e/_edited|edited]] [[a/_after|after]] recording.**
+- **([[e/_entertainment|entertainment]], [[p/_performing|performing]]) Recorded in [[f/_front|front]] of an [[a/_audience|audience]] and not [[h/_having|having]] [[b/_been|been]] [[e/_edited|edited]] [[a/_after|after]] recording.**
 	- _Example: a live album_
 - **Of [[f/_firearms|firearms]] or [[e/_explosives|explosives]], [[c/_capable|capable]] of [[c/_causing|causing]] [[h/_harm|harm]].**
 	- _Example: The air force practices dropping live bombs on the uninhabited island._
@@ -40,7 +40,7 @@
 	- _Example: Use caution when working near live wires._
 - **[[b/_being|Being]] a [[b/_bet|bet]] which [[c/_can|can]] be raised by the [[b/_bettor|bettor]], usually in reference to a [[b/_blind|blind]] or straddle.**
 	- _Example: Tommy's blind was live, so he was given the option to raise._
-- **[[f/_featuring|Featuring]] [[h/_humans|humans]]; not [[a/_animated|animated]], in the phrases “[[l/_live|live]] [[a/_actors|actors]]” or “[[l/_live|live]] [[a/_action|action]]”.**
+- **[[f/_featuring|Featuring]] [[h/_humans|humans]]; not [[a/_animated|animated]], in the [[p/_phrases|phrases]] “[[l/_live|live]] [[a/_actors|actors]]” or “[[l/_live|live]] [[a/_action|action]]”.**
 - **[[b/_being|Being]] in a state of [[i/_ignition|ignition]]; [[b/_burning|burning]].**
 	- _Example: a live coal; live embers_
 - **[[f/_full|Full]] of [[e/_earnestness|earnestness]]; [[a/_active|active]]; wide [[a/_awake|awake]]; [[g/_glowing|glowing]].**

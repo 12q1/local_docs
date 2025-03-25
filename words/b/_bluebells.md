@@ -1,6 +1,6 @@
 # Bluebells
 ---
 #noun
-- **Various [[f/_flowering|flowering]] plants with [[b/_blue|blue]], usually pendulous, [[f/_flowers|flowers]].**
+- **Various [[f/_flowering|flowering]] [[p/_plants|plants]] with [[b/_blue|blue]], usually [[p/_pendulous|pendulous]], [[f/_flowers|flowers]].**
 ---
 ---

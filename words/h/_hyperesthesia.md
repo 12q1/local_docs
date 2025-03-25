@@ -1,6 +1,6 @@
 # Hyperesthesia
 ---
 #noun
-- **Unusual or pathological sensitivity of the skin or of a particular sense.**
+- **Unusual or [[p/_pathological|pathological]] sensitivity of the skin or of a [[p/_particular|particular]] sense.**
 ---
 ---

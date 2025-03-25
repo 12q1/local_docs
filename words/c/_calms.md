@@ -1,9 +1,9 @@
 # Calms
 ---
 #noun
-- **(in a person) The state of [[b/_being|being]] [[c/_calm|calm]]; peacefulness; [[a/_absence|absence]] of worry, [[a/_anger|anger]], [[f/_fear|fear]] or [[o/_other|other]] strong [[n/_negative|negative]] [[e/_emotion|emotion]].**
-- **(in a place or situation) The state of [[b/_being|being]] [[c/_calm|calm]]; [[a/_absence|absence]] of [[n/_noise|noise]] and [[d/_disturbance|disturbance]].**
-- **A period of time without wind.**
+- **(in a [[p/_person|person]]) The state of [[b/_being|being]] [[c/_calm|calm]]; [[p/_peacefulness|peacefulness]]; [[a/_absence|absence]] of worry, [[a/_anger|anger]], [[f/_fear|fear]] or [[o/_other|other]] strong [[n/_negative|negative]] [[e/_emotion|emotion]].**
+- **(in a [[p/_place|place]] or situation) The state of [[b/_being|being]] [[c/_calm|calm]]; [[a/_absence|absence]] of [[n/_noise|noise]] and [[d/_disturbance|disturbance]].**
+- **A [[p/_period|period]] of time without wind.**
 ---
 #verb
 - **To [[m/_make|make]] [[c/_calm|calm]].**

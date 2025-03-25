@@ -12,7 +12,7 @@
 - [[h/_hork|hork]], [[s/_scarf|scarf]], [[s/_scoff|scoff]]
 #noun
 - **The sound of a turkey.**
-- **A rapid straight putt so strongly played that, [[i/_if|if]] the [[b/_ball|ball]] [[h/_had|had]] not [[g/_gone|gone]] [[i/_into|into]] the [[h/_hole|hole]], it would [[h/_have|have]] [[g/_gone|gone]] a [[l/_long|long]] way past.**
+- **A rapid straight putt so strongly [[p/_played|played]] that, [[i/_if|if]] the [[b/_ball|ball]] [[h/_had|had]] not [[g/_gone|gone]] [[i/_into|into]] the [[h/_hole|hole]], it would [[h/_have|have]] [[g/_gone|gone]] a [[l/_long|long]] way [[p/_past|past]].**
 ---
 #verb
 - **To [[m/_make|make]] the sound of a turkey.**

@@ -7,7 +7,7 @@
 - **The [[b/_building|building]] [[h/_housing|housing]] such an [[i/_institution|institution]]**
 - **The [[a/_act|act]] of [[i/_instituting|instituting]]; [[i/_institution|institution]].**
 - **That which is [[i/_instituted|instituted]], [[e/_established|established]], or [[f/_fixed|fixed]], such as a [[l/_law|law]], [[h/_habit|habit]], or [[c/_custom|custom]].**
-- **The person to whom an [[e/_estate|estate]] is [[f/_first|first]] [[g/_given|given]] by [[d/_destination|destination]] or [[l/_limitation|limitation]].**
+- **The [[p/_person|person]] to whom an [[e/_estate|estate]] is [[f/_first|first]] [[g/_given|given]] by [[d/_destination|destination]] or [[l/_limitation|limitation]].**
 ---
 #verb
 - **To [[b/_begin|begin]] or [[i/_initiate|initiate]] (something); to [[f/_found|found]].**

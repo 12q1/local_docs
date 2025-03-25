@@ -10,7 +10,7 @@
 - **A [[m/_mathematical|mathematical]] proof.**
 ---
 #pronoun
-- **(plural) Those [[o/_ones|ones]].**
+- **([[p/_plural|plural]]) Those [[o/_ones|ones]].**
 - **(singular) [[h/_him|Him]], [[h/_her|her]], or it; that [[o/_one|one]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Halieutic
 ---
 #adjective
-- **Of or pertaining to [[f/_fishing|fishing]].**
+- **Of or [[p/_pertaining|pertaining]] to [[f/_fishing|fishing]].**
 ---
 ---

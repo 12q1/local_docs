@@ -1,11 +1,11 @@
 # Dawns
 ---
 #noun
-- **The [[m/_morning|morning]] twilight period [[i/_immediately|immediately]] [[b/_before|before]] sunrise.**
+- **The [[m/_morning|morning]] twilight [[p/_period|period]] [[i/_immediately|immediately]] [[b/_before|before]] sunrise.**
 - **The rising of the sun.**
 - **The time when the sun rises.**
 	- _Example: She rose before dawn to meet the train._
-- **The [[e/_earliest|earliest]] phase of something.**
+- **The [[e/_earliest|earliest]] [[p/_phase|phase]] of something.**
 	- _Example: the dawn of civilization_
 ---
 ### Synonyms

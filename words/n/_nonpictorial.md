@@ -1,6 +1,6 @@
 # Nonpictorial
 ---
 #adjective
-- **Not pictorial.**
+- **Not [[p/_pictorial|pictorial]].**
 ---
 ---

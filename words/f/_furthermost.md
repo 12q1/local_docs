@@ -8,7 +8,7 @@
 - **[[l/_long|Long]].**
 - **[[m/_more|More]] remote of two.**
 	- _Example: He moved to the far end of the state. She remained at this end._
-- **[[e/_extreme|Extreme]], as [[m/_measured|measured]] from some [[c/_central|central]] or [[n/_neutral|neutral]] position.**
+- **[[e/_extreme|Extreme]], as [[m/_measured|measured]] from some [[c/_central|central]] or [[n/_neutral|neutral]] [[p/_position|position]].**
 	- _Example: They are on the far right on this issue._
 - **[[e/_extreme|Extreme]], as a [[d/_difference|difference]] in [[n/_nature|nature]] or quality.**
 - **[[o/_outside|Outside]] the [[c/_currently|currently]] selected segment in a segmented [[m/_memory|memory]] [[a/_architecture|architecture]].**

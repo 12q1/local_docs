@@ -1,7 +1,7 @@
 # Impure
 ---
 #verb
-- **To [[d/_defile|defile]]; to pollute**
+- **To [[d/_defile|defile]]; to [[p/_pollute|pollute]]**
 ---
 #adjective
 - **Not pure**

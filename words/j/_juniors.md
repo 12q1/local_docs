@@ -1,7 +1,7 @@
 # Juniors
 ---
 #noun
-- **A [[y/_younger|younger]] person.**
+- **A [[y/_younger|younger]] [[p/_person|person]].**
 	- _Example: four years his junior_
 - **A [[n/_name|name]] suffix used [[a/_after|after]] a son's [[n/_name|name]] when [[h/_his|his]] [[f/_father|father]] [[h/_has|has]] the same [[n/_name|name]] ([[a/_abbreviations|abbreviations]]: Jnr., [[j/_jr|Jr]]., [[j/_jun|Jun]].).**
 - **A third-[[y/_year|year]] student at a [[h/_high|high]] school or university.**

@@ -9,6 +9,6 @@
 ---
 #noun
 - **A sheaf of [[c/_corn|corn]].**
-- **A [[c/_charge|charge]] for pasturage.**
+- **A [[c/_charge|charge]] for [[p/_pasturage|pasturage]].**
 ---
 ---

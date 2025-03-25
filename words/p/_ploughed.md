@@ -1,0 +1,23 @@
+# Ploughed
+---
+#verb
+- **To use a [[p/_plough|plough]] on to [[p/_prepare|prepare]] for [[p/_planting|planting]].**
+	- _Example: I've still got to plough that field._
+- **To use a [[p/_plough|plough]].**
+	- _Example: Some days I have to plough from sunrise to sunset._
+- **To [[h/_have|have]] sex with, [[p/_penetrate|penetrate]].**
+- **To [[m/_move|move]] with [[f/_force|force]].**
+	- _Example: Trucks plowed through the water to ferry flood victims to safety._
+- **To [[f/_furrow|furrow]]; to [[m/_make|make]] [[f/_furrows|furrows]], [[g/_grooves|grooves]], or ridges in.**
+- **To run through, as in sailing.**
+- **To trim, or shave [[o/_off|off]] the [[e/_edges|edges]] of, as a [[b/_book|book]] or [[p/_paper|paper]], with a [[p/_plough|plough]].**
+- **([[j/_joinery|joinery]]) To [[c/_cut|cut]] a [[g/_groove|groove]] in, as in a [[p/_plank|plank]], or the [[e/_edge|edge]] of a [[b/_board|board]]; [[e/_especially|especially]], a rectangular [[g/_groove|groove]] to receive the [[e/_end|end]] of a shelf or tread, the [[e/_edge|edge]] of a [[p/_panel|panel]], a tongue, [[e/_etc|etc]].**
+- **(university slang) To [[f/_fail|fail]] (a student).**
+---
+### Synonyms
+- [[f/_flunk|flunk]], [[p/_pound|pound]], [[c/_chamfer|chamfer]], [[g/_groove|groove]], [[r/_rut|rut]]
+#adjective
+- **Turned [[o/_over|over]] with the [[b/_blade|blade]] of a [[p/_plough|plough]] to [[c/_create|create]] [[f/_furrows|furrows]] (usually for [[p/_planting|planting]] [[c/_crops|crops]]).**
+- **Well-trodden or well-researched, previously [[e/_explored|explored]].**
+---
+---

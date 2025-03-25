@@ -1,6 +1,6 @@
 # Jurisdictional
 ---
 #adjective
-- **Of or pertaining to [[j/_jurisdiction|jurisdiction]].**
+- **Of or [[p/_pertaining|pertaining]] to [[j/_jurisdiction|jurisdiction]].**
 ---
 ---

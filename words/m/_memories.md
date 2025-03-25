@@ -5,9 +5,9 @@
 	- _Example: Memory is a facility common to all animals._
 - **A record of a thing or an [[e/_event|event]] stored and [[a/_available|available]] for [[l/_later|later]] use by the [[o/_organism|organism]].**
 	- _Example: I have no memory of that event._
-- **The part of a [[c/_computer|computer]] that stores variable [[e/_executable|executable]] [[c/_code|code]] or [[d/_data|data]] (RAM) or unalterable [[e/_executable|executable]] [[c/_code|code]] or [[d/_default|default]] [[d/_data|data]] (ROM).**
+- **The [[p/_part|part]] of a [[c/_computer|computer]] that stores variable [[e/_executable|executable]] [[c/_code|code]] or [[d/_data|data]] (RAM) or unalterable [[e/_executable|executable]] [[c/_code|code]] or [[d/_default|default]] [[d/_data|data]] (ROM).**
 	- _Example: This data passes from the CPU to the memory._
-- **The time within which past [[e/_events|events]] [[c/_can|can]] be or are remembered.**
+- **The time within which [[p/_past|past]] [[e/_events|events]] [[c/_can|can]] be or are remembered.**
 	- _Example: in recent memory; in living memory_
 - **(of a [[m/_material|material]]) which returns to [[i/_its|its]] [[o/_original|original]] shape when [[h/_heated|heated]]**
 	- _Example: Memory metal; memory plastic._

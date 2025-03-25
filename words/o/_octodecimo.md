@@ -1,7 +1,7 @@
 # Octodecimo
 ---
 #noun
-- **A size of a sheet of paper resulting from [[f/_folding|folding]] and [[c/_cutting|cutting]] a sheet of paper [[i/_into|into]] [[e/_eighteenths|eighteenths]] (3.5"-4.5" x 4.9"-5.9").**
+- **A size of a sheet of [[p/_paper|paper]] resulting from [[f/_folding|folding]] and [[c/_cutting|cutting]] a sheet of [[p/_paper|paper]] [[i/_into|into]] [[e/_eighteenths|eighteenths]] (3.5"-4.5" x 4.9"-5.9").**
 - **A [[b/_book|book]] [[c/_consisting|consisting]] of [[p/_pages|pages]] of that size.**
 ---
 ### Synonyms

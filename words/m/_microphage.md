@@ -1,6 +1,6 @@
 # Microphage
 ---
 #noun
-- **A small phagocyte, [[e/_especially|especially]] a polymorphonuclear [[l/_leucocyte|leucocyte]]**
+- **A small [[p/_phagocyte|phagocyte]], [[e/_especially|especially]] a [[p/_polymorphonuclear|polymorphonuclear]] [[l/_leucocyte|leucocyte]]**
 ---
 ---

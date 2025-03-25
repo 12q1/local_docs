@@ -1,6 +1,6 @@
 # Granolithic
 ---
 #adjective
-- **Of or pertaining to a [[g/_granolith|granolith]]**
+- **Of or [[p/_pertaining|pertaining]] to a [[g/_granolith|granolith]]**
 ---
 ---

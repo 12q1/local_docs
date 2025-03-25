@@ -5,8 +5,8 @@
 - **A small valley.**
 - **A [[d/_drop|drop]] [[k/_kerb|kerb]].**
 - **A road [[d/_drain|drain]].**
-- **A [[f/_fielding|fielding]] position on the [[o/_off|off]] side [[a/_about|about]] 30 [[d/_degrees|degrees]] [[b/_behind|behind]] square, [[b/_between|between]] the slips and point; a [[f/_fielder|fielder]] in such a position**
-- **A [[g/_grooved|grooved]] [[i/_iron|iron]] rail or tram plate.**
+- **A [[f/_fielding|fielding]] [[p/_position|position]] on the [[o/_off|off]] side [[a/_about|about]] 30 [[d/_degrees|degrees]] [[b/_behind|behind]] square, [[b/_between|between]] the slips and [[p/_point|point]]; a [[f/_fielder|fielder]] in such a [[p/_position|position]]**
+- **A [[g/_grooved|grooved]] [[i/_iron|iron]] rail or tram [[p/_plate|plate]].**
 ---
 ### Synonyms
 - [[g/_gill|gill]]

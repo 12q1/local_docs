@@ -5,7 +5,7 @@
 	- _Example: Hey, Ethel, you know it's your turn to deworm the cat?_
 ---
 #noun
-- **The [[e/_elimination|elimination]] of parasitic worms from an [[a/_animal|animal]].**
+- **The [[e/_elimination|elimination]] of [[p/_parasitic|parasitic]] worms from an [[a/_animal|animal]].**
 	- _Example: The vet recommended regular dewormings._
 ---
 ---

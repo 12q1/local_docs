@@ -1,7 +1,7 @@
 # Intuitive
 ---
 #noun
-- **[[o/_one|One]] who [[h/_has|has]] ([[e/_especially|especially]] parapsychological) [[i/_intuition|intuition]].**
+- **[[o/_one|One]] who [[h/_has|has]] ([[e/_especially|especially]] [[p/_parapsychological|parapsychological]]) [[i/_intuition|intuition]].**
 ---
 #adjective
 - **Spontaneous, without requiring [[c/_conscious|conscious]] thought.**

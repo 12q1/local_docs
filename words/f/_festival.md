@@ -6,6 +6,6 @@
 - **[[f/_fried|Fried]] [[c/_cornbread|cornbread]]**
 ---
 #adjective
-- **Pertaining to a [[f/_feast|feast]] or [[f/_feast|feast]]-[[d/_day|day]]. ([[n/_now|Now]] [[o/_only|only]] as the [[n/_noun|noun]] used [[a/_attributively|attributively]].)**
+- **[[p/_pertaining|Pertaining]] to a [[f/_feast|feast]] or [[f/_feast|feast]]-[[d/_day|day]]. ([[n/_now|Now]] [[o/_only|only]] as the [[n/_noun|noun]] used [[a/_attributively|attributively]].)**
 ---
 ---

@@ -7,8 +7,8 @@
 - **An unmarried [[m/_man|man]] who [[d/_does|does]] not [[h/_have|have]] sexual relationships.**
 - **A [[j/_judge|judge]].**
 - **A [[b/_blotch|blotch]] or spot of [[i/_ink|ink]] on a printed [[p/_page|page]], [[c/_caused|caused]] by the [[i/_ink|ink]] not [[b/_being|being]] properly [[d/_distributed|distributed]]; [[d/_distinguished|distinguished]] from a [[f/_friar|friar]], or white spot [[c/_caused|caused]] by a [[d/_deficiency|deficiency]] of [[i/_ink|ink]].**
-- **A piece of tinder [[m/_made|made]] of [[a/_agaric|agaric]], used in [[f/_firing|firing]] the powder [[h/_hose|hose]] or train of a [[m/_mine|mine]].**
-- **A South [[a/_american|American]] [[m/_monkey|monkey]] (Pithecia monachus); [[a/_also|also]] [[a/_applied|applied]] to [[o/_other|other]] species, as [[c/_cebus|Cebus]] xanthosternos.**
+- **A [[p/_piece|piece]] of tinder [[m/_made|made]] of [[a/_agaric|agaric]], used in [[f/_firing|firing]] the [[p/_powder|powder]] [[h/_hose|hose]] or train of a [[m/_mine|mine]].**
+- **A South [[a/_american|American]] [[m/_monkey|monkey]] ([[p/_pithecia|Pithecia]] monachus); [[a/_also|also]] [[a/_applied|applied]] to [[o/_other|other]] species, as [[c/_cebus|Cebus]] xanthosternos.**
 - **The [[b/_bullfinch|bullfinch]], [[c/_common|common]] [[b/_bullfinch|bullfinch]], [[e/_european|European]] [[b/_bullfinch|bullfinch]], or [[e/_eurasian|Eurasian]] [[b/_bullfinch|bullfinch]] (Pyrrhula pyrrhula).**
 - **The [[m/_monkfish|monkfish]].**
 - **A [[f/_fuse|fuse]] for [[f/_firing|firing]] [[m/_mines|mines]].**

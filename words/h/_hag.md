@@ -8,7 +8,7 @@
 - **A [[h/_hagdon|hagdon]] or shearwater; [[o/_one|one]] of various sea [[b/_birds|birds]] of the [[g/_genus|genus]] Puffinus.**
 - **An [[a/_appearance|appearance]] of [[l/_light|light]] and [[f/_fire|fire]] on a [[h/_horse|horse]]'s [[m/_mane|mane]] or a [[m/_man|man]]'s [[h/_hair|hair]].**
 - **The [[f/_fruit|fruit]] of the [[h/_hagberry|hagberry]], Prunus [[p/_padus|padus]].**
-- **Sleep paralysis**
+- **Sleep [[p/_paralysis|paralysis]]**
 ---
 ### Synonyms
 - [[b/_borer|borer]], [[h/_hagfish|hagfish]], [[m/_myxinid|myxinid]], [[s/_sleepmarken|sleepmarken]], [[s/_sucker|sucker]], [[h/_hackberry|hackberry]], [[h/_hagdon|hagdon]], [[h/_haglet|haglet]], [[s/_shearwater|shearwater]]

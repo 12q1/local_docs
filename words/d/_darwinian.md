@@ -9,6 +9,6 @@
 #adjective
 - **Relating to the theory of [[e/_evolution|evolution]], as [[a/_advanced|advanced]] by [[c/_charles|Charles]] [[d/_darwin|Darwin]].**
 - **[[c/_competitive|Competitive]].**
-- **Of or pertaining to [[d/_darwin|Darwin]], [[n/_northern|Northern]] Territory, [[a/_australia|Australia]]**
+- **Of or [[p/_pertaining|pertaining]] to [[d/_darwin|Darwin]], [[n/_northern|Northern]] Territory, [[a/_australia|Australia]]**
 ---
 ---

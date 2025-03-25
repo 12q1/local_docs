@@ -1,7 +1,7 @@
 # Friskier
 ---
 #adjective
-- **[[a/_abounding|Abounding]] in [[e/_energy|energy]] or playfulness**
+- **[[a/_abounding|Abounding]] in [[e/_energy|energy]] or [[p/_playfulness|playfulness]]**
 	- _Example: He had his hands full, with three frisky kittens in the house._
 - **Sexually [[a/_aroused|aroused]]**
 ---

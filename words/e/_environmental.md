@@ -1,6 +1,6 @@
 # Environmental
 ---
 #adjective
-- **Pertaining to the [[e/_environment|environment]].**
+- **[[p/_pertaining|Pertaining]] to the [[e/_environment|environment]].**
 ---
 ---

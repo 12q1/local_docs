@@ -1,7 +1,7 @@
 # Moribund
 ---
 #noun
-- **A person who is [[n/_near|near]] to [[d/_dying|dying]].**
+- **A [[p/_person|person]] who is [[n/_near|near]] to [[d/_dying|dying]].**
 ---
 #adjective
 - **[[a/_approaching|Approaching]] [[d/_death|death]]; [[a/_about|about]] to [[d/_die|die]]; [[d/_dying|dying]]; [[e/_expiring|expiring]].**

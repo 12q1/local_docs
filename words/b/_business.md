@@ -3,38 +3,38 @@
 #noun
 - **A specific [[c/_commercial|commercial]] [[e/_enterprise|enterprise]] or [[e/_establishment|establishment]].**
 	- _Example: I was left my father's business._
-- **A person's [[o/_occupation|occupation]], work, or trade.**
+- **A [[p/_person|person]]'s [[o/_occupation|occupation]], work, or trade.**
 	- _Example: He is in the motor and insurance businesses._
 - **[[c/_commercial|Commercial]], [[i/_industrial|industrial]], or professional [[a/_activity|activity]].**
 	- _Example: He's such a poor cook, I can't believe he's still in business!_
 - **The volume or [[a/_amount|amount]] of [[c/_commercial|commercial]] trade.**
 	- _Example: Business has been slow lately._
-- **[[o/_one|One]]'s [[d/_dealings|dealings]]; patronage.**
+- **[[o/_one|One]]'s [[d/_dealings|dealings]]; [[p/_patronage|patronage]].**
 	- _Example: I shall take my business elsewhere._
 - **Private [[c/_commercial|commercial]] [[i/_interests|interests]] taken [[c/_collectively|collectively]].**
 	- _Example: This proposal will satisfy both business and labor._
 - **The [[m/_management|management]] of [[c/_commercial|commercial]] [[e/_enterprises|enterprises]], or the study of such [[m/_management|management]].**
 	- _Example: I studied business at Harvard._
-- **A particular situation or [[a/_activity|activity]].**
+- **A [[p/_particular|particular]] situation or [[a/_activity|activity]].**
 	- _Example: This UFO stuff is a mighty strange business._
 - **[[a/_any|Any]] [[a/_activity|activity]] or [[o/_objective|objective]] [[n/_needing|needing]] to be [[d/_dealt|dealt]] with; [[e/_especially|especially]], [[o/_one|one]] of a [[f/_financial|financial]] or [[l/_legal|legal]] [[m/_matter|matter]].**
 	- _Example: Let's get down to business._
-- **Something [[i/_involving|involving]] [[o/_one|one]] personally.**
+- **Something [[i/_involving|involving]] [[o/_one|one]] [[p/_personally|personally]].**
 	- _Example: That's none of your business._
-- **(parliamentary procedure) [[m/_matters|Matters]] that [[c/_come|come]] [[b/_before|before]] a [[b/_body|body]] for [[d/_deliberation|deliberation]] or [[a/_action|action]].**
+- **([[p/_parliamentary|parliamentary]] procedure) [[m/_matters|Matters]] that [[c/_come|come]] [[b/_before|before]] a [[b/_body|body]] for [[d/_deliberation|deliberation]] or [[a/_action|action]].**
 	- _Example: If that concludes the announcements, we'll move on to new business._
 - **(travel) [[b/_business|Business]] [[c/_class|class]], the [[c/_class|class]] of seating provided by [[a/_airlines|airlines]] [[b/_between|between]] [[f/_first|first]] [[c/_class|class]] and [[c/_coach|coach]].**
-- **[[a/_action|Action]] [[c/_carried|carried]] [[o/_out|out]] with a prop or piece of [[c/_clothing|clothing]], usually [[a/_away|away]] from the [[f/_focus|focus]] of the scene.**
+- **[[a/_action|Action]] [[c/_carried|carried]] [[o/_out|out]] with a prop or [[p/_piece|piece]] of [[c/_clothing|clothing]], usually [[a/_away|away]] from the [[f/_focus|focus]] of the scene.**
 - **The [[c/_collective|collective]] [[n/_noun|noun]] for a [[g/_group|group]] of [[f/_ferrets|ferrets]].**
-- **Something very [[g/_good|good]]; top quality. (possibly from "the [[b/_bee|bee]]'s [[k/_knees|knees]]")**
+- **Something very [[g/_good|good]]; top quality. ([[p/_possibly|possibly]] from "the [[b/_bee|bee]]'s [[k/_knees|knees]]")**
 	- _Example: These new phones are the business!_
-- **[[e/_excrement|Excrement]], particularly that of a [[n/_non|non]]-[[h/_human|human]] [[a/_animal|animal]].**
+- **[[e/_excrement|Excrement]], [[p/_particularly|particularly]] that of a [[n/_non|non]]-[[h/_human|human]] [[a/_animal|animal]].**
 	- _Example: As the cart went by, its horse lifted its tail and did its business._
 ---
 #adjective
-- **Of, to, pertaining to or utilized for purposes of [[c/_conducting|conducting]] trade, [[c/_commerce|commerce]], [[g/_governance|governance]], [[a/_advocacy|advocacy]] or [[o/_other|other]] professional purposes.**
+- **Of, to, [[p/_pertaining|pertaining]] to or utilized for purposes of [[c/_conducting|conducting]] trade, [[c/_commerce|commerce]], [[g/_governance|governance]], [[a/_advocacy|advocacy]] or [[o/_other|other]] professional purposes.**
 	- _Example: Please do not use this phone for personal calls; it is a business phone._
-- **Professional, [[b/_businesslike|businesslike]], [[h/_having|having]] [[c/_concern|concern]] for [[g/_good|good]] [[b/_business|business]] practice.**
+- **Professional, [[b/_businesslike|businesslike]], [[h/_having|having]] [[c/_concern|concern]] for [[g/_good|good]] [[b/_business|business]] [[p/_practice|practice]].**
 - **Supporting [[b/_business|business]], [[c/_conducive|conducive]] to the [[c/_conduct|conduct]] of [[b/_business|business]].**
 ---
 ---

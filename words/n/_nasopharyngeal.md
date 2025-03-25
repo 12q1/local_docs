@@ -1,7 +1,7 @@
 # Nasopharyngeal
 ---
 #adjective
-- **Of or pertaining to the [[n/_nose|nose]] and the pharynx**
-- **Of or pertaining to the [[n/_nasopharynx|nasopharynx]]**
+- **Of or [[p/_pertaining|pertaining]] to the [[n/_nose|nose]] and the [[p/_pharynx|pharynx]]**
+- **Of or [[p/_pertaining|pertaining]] to the [[n/_nasopharynx|nasopharynx]]**
 ---
 ---

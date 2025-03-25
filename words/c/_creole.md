@@ -7,6 +7,6 @@
 - **A [[n/_native|native]]-[[b/_born|born]] of [[f/_francophone|Francophone]] [[d/_descent|descent]] in the [[l/_louisiana|Louisiana]] territory of [[a/_any|any]] race, as [[o/_opposed|opposed]] to [[a/_anglo|Anglo]]-[[a/_american|American]] and [[a/_acadian|Acadian]] settlers.**
 ---
 #noun
-- **A [[l/_lect|lect]] [[f/_formed|formed]] from two or [[m/_more|more]] [[l/_languages|languages]] which [[h/_has|has]] [[d/_developed|developed]] from a pidgin to [[b/_become|become]] a [[f/_first|first]] [[l/_language|language]].**
+- **A [[l/_lect|lect]] [[f/_formed|formed]] from two or [[m/_more|more]] [[l/_languages|languages]] which [[h/_has|has]] [[d/_developed|developed]] from a [[p/_pidgin|pidgin]] to [[b/_become|become]] a [[f/_first|first]] [[l/_language|language]].**
 ---
 ---

@@ -1,10 +1,10 @@
 # Bog
 ---
 #noun
-- **An [[a/_area|area]] of [[d/_decayed|decayed]] vegetation (particularly sphagnum [[m/_moss|moss]]) which [[f/_forms|forms]] a wet spongy [[g/_ground|ground]] too soft for walking; a [[m/_marsh|marsh]] or swamp.**
-- **[[c/_confusion|Confusion]], [[d/_difficulty|difficulty]], or [[a/_any|any]] [[o/_other|other]] thing or place that [[i/_impedes|impedes]] progress in the [[m/_manner|manner]] of such [[a/_areas|areas]].**
-- **The [[a/_acidic|acidic]] soil of such [[a/_areas|areas]], principally [[c/_composed|composed]] of peat; [[m/_marshland|marshland]], swampland.**
-- **A place to [[d/_defecate|defecate]]: [[o/_originally|originally]] specifically a [[l/_latrine|latrine]] or [[o/_outhouse|outhouse]] but [[n/_now|now]] used for [[a/_any|any]] toilet.**
+- **An [[a/_area|area]] of [[d/_decayed|decayed]] vegetation ([[p/_particularly|particularly]] sphagnum [[m/_moss|moss]]) which [[f/_forms|forms]] a wet spongy [[g/_ground|ground]] too soft for walking; a [[m/_marsh|marsh]] or swamp.**
+- **[[c/_confusion|Confusion]], [[d/_difficulty|difficulty]], or [[a/_any|any]] [[o/_other|other]] thing or [[p/_place|place]] that [[i/_impedes|impedes]] progress in the [[m/_manner|manner]] of such [[a/_areas|areas]].**
+- **The [[a/_acidic|acidic]] soil of such [[a/_areas|areas]], principally [[c/_composed|composed]] of [[p/_peat|peat]]; [[m/_marshland|marshland]], swampland.**
+- **A [[p/_place|place]] to [[d/_defecate|defecate]]: [[o/_originally|originally]] specifically a [[l/_latrine|latrine]] or [[o/_outhouse|outhouse]] but [[n/_now|now]] used for [[a/_any|any]] toilet.**
 - **An [[a/_act|act]] or [[i/_instance|instance]] of [[d/_defecation|defecation]].**
 - **A [[l/_little|little]] [[e/_elevated|elevated]] spot or [[c/_clump|clump]] of [[e/_earth|earth]], roots, and [[g/_grass|grass]], in a [[m/_marsh|marsh]] or swamp.**
 ---

@@ -12,7 +12,7 @@
 ### Synonyms
 - [[a/_affix|affix]], [[a/_attach|attach]], [[j/_join|join]], [[b/_bewed|bewed]], [[w/_wed|wed]]
 #adjective
-- **[[j/_joined|Joined]] together physically, of persons ([[c/_conjoined|conjoined]] twins), or things.**
+- **[[j/_joined|Joined]] together [[p/_physically|physically]], of [[p/_persons|persons]] ([[c/_conjoined|conjoined]] twins), or things.**
 - **[[j/_joined|Joined]] or [[b/_bound|bound]] together; united (in a relationship)**
 - **[[c/_combined|Combined]].**
 ---

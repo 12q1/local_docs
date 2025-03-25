@@ -1,13 +1,13 @@
 # Ear
 ---
 #noun
-- **The [[o/_organ|organ]] of [[h/_hearing|hearing]], [[c/_consisting|consisting]] of the pinna, [[a/_auditory|auditory]] [[c/_canal|canal]], [[e/_eardrum|eardrum]], [[m/_malleus|malleus]], [[i/_incus|incus]], stapes and [[c/_cochlea|cochlea]].**
-- **The [[e/_external|external]] part of the [[o/_organ|organ]] of [[h/_hearing|hearing]], the [[a/_auricle|auricle]].**
-- **A police [[i/_informant|informant]].**
-- **The sense of [[h/_hearing|hearing]]; the perception of sounds; skill or [[g/_good|good]] taste in [[l/_listening|listening]] to [[m/_music|music]].**
+- **The [[o/_organ|organ]] of [[h/_hearing|hearing]], [[c/_consisting|consisting]] of the [[p/_pinna|pinna]], [[a/_auditory|auditory]] [[c/_canal|canal]], [[e/_eardrum|eardrum]], [[m/_malleus|malleus]], [[i/_incus|incus]], stapes and [[c/_cochlea|cochlea]].**
+- **The [[e/_external|external]] [[p/_part|part]] of the [[o/_organ|organ]] of [[h/_hearing|hearing]], the [[a/_auricle|auricle]].**
+- **A [[p/_police|police]] [[i/_informant|informant]].**
+- **The sense of [[h/_hearing|hearing]]; the [[p/_perception|perception]] of sounds; skill or [[g/_good|good]] taste in [[l/_listening|listening]] to [[m/_music|music]].**
 	- _Example: a good ear for music_
 - **The privilege of [[b/_being|being]] [[k/_kindly|kindly]] [[h/_heard|heard]]; [[f/_favour|favour]]; [[a/_attention|attention]].**
-- **That which resembles in shape or position the [[e/_ear|ear]] of an [[a/_animal|animal]]; a prominence or projection on an [[o/_object|object]], usually for support or [[a/_attachment|attachment]]; a [[l/_lug|lug]]; a [[h/_handle|handle]].**
+- **That which resembles in shape or [[p/_position|position]] the [[e/_ear|ear]] of an [[a/_animal|animal]]; a prominence or projection on an [[o/_object|object]], usually for support or [[a/_attachment|attachment]]; a [[l/_lug|lug]]; a [[h/_handle|handle]].**
 	- _Example: the ears of a tub, skillet, or dish;   The ears of a boat are outside kneepieces near the bow._
 - **An [[a/_acroterium|acroterium]].**
 - **A [[c/_crossette|crossette]].**

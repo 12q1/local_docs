@@ -11,7 +11,7 @@
 - **To [[i/_impugn|impugn]].**
 - **To [[c/_contradict|contradict]] (someone or something).**
 - **To [[d/_do|do]] the [[o/_opposite|opposite]] of (someone or something).**
-- **To [[a/_act|act]] [[i/_inconsistently|inconsistently]] or perversely; to [[a/_act|act]] in [[o/_opposition|opposition]] to.**
+- **To [[a/_act|act]] [[i/_inconsistently|inconsistently]] or [[p/_perversely|perversely]]; to [[a/_act|act]] in [[o/_opposition|opposition]] to.**
 - **To [[a/_argue|argue]]; to [[d/_debate|debate]]; to uphold an [[o/_opposite|opposite]] [[o/_opinion|opinion]].**
 - **To be self-[[c/_contradictory|contradictory]]; to [[b/_become|become]] reversed.**
 ---
@@ -20,7 +20,7 @@
 	- _Example: contrary winds_
 - **[[o/_opposed|Opposed]]; [[c/_contradictory|contradictory]]; [[i/_inconsistent|inconsistent]].**
 	- _Example: What may be "politically correct" could be contrary to the teachings of Jesus._
-- **[[g/_given|Given]] to [[o/_opposition|opposition]]; perverse; wayward.**
+- **[[g/_given|Given]] to [[o/_opposition|opposition]]; [[p/_perverse|perverse]]; wayward.**
 	- _Example: a contrary disposition; a contrary child_
 ---
 #adverb

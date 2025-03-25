@@ -3,8 +3,8 @@
 #verb
 - **To [[b/_bend|bend]] something [[i/_into|into]] a [[h/_hump|hump]].**
 - **To [[c/_carry|carry]] (something), [[e/_especially|especially]] with some [[e/_exertion|exertion]].**
-- **To rhythmically thrust the pelvis in a [[m/_manner|manner]] [[c/_conducive|conducive]] to sexual [[i/_intercourse|intercourse]]**
-- **To prepare for a [[g/_great|great]] [[e/_exertion|exertion]]; to put [[f/_forth|forth]] [[e/_effort|effort]].**
+- **To rhythmically thrust the [[p/_pelvis|pelvis]] in a [[m/_manner|manner]] [[c/_conducive|conducive]] to sexual [[i/_intercourse|intercourse]]**
+- **To [[p/_prepare|prepare]] for a [[g/_great|great]] [[e/_exertion|exertion]]; to put [[f/_forth|forth]] [[e/_effort|effort]].**
 - **To vex or [[a/_annoy|annoy]].**
 - **To shunt wagons / [[f/_freight|freight]] [[c/_cars|cars]] [[o/_over|over]] the [[h/_hump|hump]] in a [[h/_hump|hump]] [[y/_yard|yard]].**
 ---

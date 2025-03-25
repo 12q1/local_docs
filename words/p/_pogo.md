@@ -1,0 +1,13 @@
+# Pogo
+---
+#noun
+- **A [[d/_dance|dance]] [[a/_associated|associated]] with the 1970s punk rock [[m/_movement|movement]] in which [[p/_participants|participants]] [[j/_jump|jump]] up and [[d/_down|down]] on the spot in the [[m/_manner|manner]] of someone riding a [[p/_pogo|pogo]] stick.**
+- **The [[a/_act|act]] of [[l/_lifting|lifting]] the [[f/_front|front]] wheel of the [[b/_bicycle|bicycle]] in the [[a/_air|air]] and [[j/_jumping|jumping]] up and [[d/_down|down]] on the rear wheel while in a stationary [[p/_position|position]].**
+---
+#verb
+- **To use a [[p/_pogo|pogo]] stick.**
+- **To [[d/_dance|dance]] the [[p/_pogo|pogo]].**
+- **To [[l/_lift|lift]] the [[f/_front|front]] wheel of the [[b/_bicycle|bicycle]] in the [[a/_air|air]] and [[j/_jump|jump]] up and [[d/_down|down]] on the rear wheel while in a stationary [[p/_position|position]].**
+- **To [[m/_move|move]] rapidly up and [[d/_down|down]] [[l/_like|like]] a [[p/_pogo|pogo]] stick.**
+---
+---

@@ -6,7 +6,7 @@
 - **A [[f/_feeling|feeling]] of [[d/_danger|danger]], [[i/_impending|impending]] [[d/_danger|danger]], [[d/_darkness|darkness]] or [[d/_despair|despair]].**
 - **A [[l/_law|law]].**
 - **A [[j/_judgment|judgment]] or [[d/_decision|decision]].**
-- **A sentence or penalty for [[i/_illegal|illegal]] [[b/_behaviour|behaviour]].**
+- **A sentence or [[p/_penalty|penalty]] for [[i/_illegal|illegal]] [[b/_behaviour|behaviour]].**
 - **[[d/_death|Death]].**
 	- _Example: They met an untimely doom when the mineshaft caved in._
 - **(sometimes [[c/_capitalized|capitalized]]) The [[l/_last|Last]] [[j/_judgment|Judgment]]; or, an [[a/_artistic|artistic]] representation thereof.**
@@ -18,7 +18,7 @@
 	- _Example: a criminal doomed to death_
 - **To [[d/_destine|destine]]; to [[f/_fix|fix]] [[i/_irrevocably|irrevocably]] the [[i/_ill|ill]] [[f/_fate|fate]] of.**
 - **To [[j/_judge|judge]]; to [[e/_estimate|estimate]] or [[d/_determine|determine]] as a [[j/_judge|judge]].**
-- **To [[o/_ordain|ordain]] as a penalty; [[h/_hence|hence]], to [[m/_mulct|mulct]] or [[f/_fine|fine]].**
+- **To [[o/_ordain|ordain]] as a [[p/_penalty|penalty]]; [[h/_hence|hence]], to [[m/_mulct|mulct]] or [[f/_fine|fine]].**
 - **To [[a/_assess|assess]] a tax upon, by [[e/_estimate|estimate]] or at [[d/_discretion|discretion]].**
 ---
 ---

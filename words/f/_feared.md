@@ -20,6 +20,6 @@
 ### Antonyms
 - [[b/_belittle|belittle]], [[c/_contemn|contemn]]
 #adjective
-- **Pertaining to someone or thing that [[c/_causes|causes]] [[g/_great|great]] [[f/_fear|fear]] in [[o/_others|others]].**
+- **[[p/_pertaining|Pertaining]] to someone or thing that [[c/_causes|causes]] [[g/_great|great]] [[f/_fear|fear]] in [[o/_others|others]].**
 ---
 ---

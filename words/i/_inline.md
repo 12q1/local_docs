@@ -1,7 +1,7 @@
 # Inline
 ---
 #adjective
-- **[[c/_consisting|Consisting]] of parts [[a/_arranged|arranged]] in a single [[l/_line|line]].**
+- **[[c/_consisting|Consisting]] of [[p/_parts|parts]] [[a/_arranged|arranged]] in a single [[l/_line|line]].**
 - **(writing) [[i/_inserted|Inserted]] in the [[f/_flow|flow]] of a text.**
 - **(of source [[c/_code|code]]) Of a [[d/_different|different]] [[l/_language|language]] than the [[o/_outer|outer]] [[e/_enclosing|enclosing]] [[c/_code|code]].**
 - **([[c/_cascading|Cascading]] Style Sheets) Of a style: [[i/_inserted|inserted]] in the style [[a/_attribute|attribute]] of an HTML [[e/_element|element]] [[i/_instead|instead]] of in a separate stylesheet.**

@@ -1,7 +1,7 @@
 # Grandmaster
 ---
 #noun
-- **A player of the [[h/_highest|highest]] rank, as [[d/_determined|determined]] by [[f/_fide|FIDE]], with an Elo rating of at [[l/_least|least]] 2500.**
+- **A [[p/_player|player]] of the [[h/_highest|highest]] rank, as [[d/_determined|determined]] by [[f/_fide|FIDE]], with an Elo rating of at [[l/_least|least]] 2500.**
 ---
 ### Synonyms
 - [[G/_GM|GM]], [[I/_IGM|IGM]]

@@ -1,6 +1,6 @@
 # Chibouque
 ---
 #noun
-- **A Turkish tobacco pipe**
+- **A Turkish tobacco [[p/_pipe|pipe]]**
 ---
 ---

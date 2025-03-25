@@ -3,7 +3,7 @@
 #adjective
 - **[[y/_young|Young]] or seeming [[y/_young|young]].**
 	- _Example: a youthful butler_
-- **[[c/_characteristic|Characteristic]] of [[y/_young|young]] people.**
+- **[[c/_characteristic|Characteristic]] of [[y/_young|young]] [[p/_people|people]].**
 	- _Example: youthful vivacity_
 ---
 ### Synonyms

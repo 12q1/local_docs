@@ -1,7 +1,7 @@
 # Mardy
 ---
 #noun
-- **A sulky, whiny [[m/_mood|mood]]; a [[f/_fit|fit]] of petulance.**
+- **A sulky, whiny [[m/_mood|mood]]; a [[f/_fit|fit]] of [[p/_petulance|petulance]].**
 ---
 #adjective
 - **Sulky or whining.**

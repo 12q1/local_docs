@@ -1,7 +1,7 @@
 # Generally
 ---
 #adverb
-- **Popularly or widely.**
+- **[[p/_popularly|Popularly]] or widely.**
 	- _Example: It is generally known that the Earth is round._
 - **As a rule; usually.**
 	- _Example: I generally have a walk in the afternoon._

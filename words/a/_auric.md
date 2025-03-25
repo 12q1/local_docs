@@ -1,8 +1,8 @@
 # Auric
 ---
 #adjective
-- **Of or pertaining to trivalent [[g/_gold|gold]].**
-- **Of, or pertaining to the [[e/_ear|ear]]; [[a/_aural|aural]]**
-- **Pertaining to an [[a/_aura|aura]].**
+- **Of or [[p/_pertaining|pertaining]] to trivalent [[g/_gold|gold]].**
+- **Of, or [[p/_pertaining|pertaining]] to the [[e/_ear|ear]]; [[a/_aural|aural]]**
+- **[[p/_pertaining|Pertaining]] to an [[a/_aura|aura]].**
 ---
 ---

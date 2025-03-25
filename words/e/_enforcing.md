@@ -14,7 +14,7 @@
 - **To put in [[m/_motion|motion]] or [[a/_action|action]] by violence; to [[d/_drive|drive]].**
 - **To [[g/_give|give]] [[f/_force|force]] to; to strengthen; to [[i/_invigorate|invigorate]]; to urge with [[e/_energy|energy]].**
 	- _Example: to enforce arguments or requests_
-- **To urge; to ply [[h/_hard|hard]]; to [[l/_lay|lay]] [[m/_much|much]] stress upon.**
+- **To urge; to [[p/_ply|ply]] [[h/_hard|hard]]; to [[l/_lay|lay]] [[m/_much|much]] stress upon.**
 - **To prove; to [[e/_evince|evince]].**
 ---
 ---

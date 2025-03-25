@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[f/_fasten|fasten]] (something) with [[l/_laces|laces]].**
-- **To [[a/_add|add]] [[a/_alcohol|alcohol]], poison, a [[d/_drug|drug]] or [[a/_anything|anything]] [[e/_else|else]] potentially [[h/_harmful|harmful]] to ([[f/_food|food]] or [[d/_drink|drink]]).**
+- **To [[a/_add|add]] [[a/_alcohol|alcohol]], [[p/_poison|poison]], a [[d/_drug|drug]] or [[a/_anything|anything]] [[e/_else|else]] [[p/_potentially|potentially]] [[h/_harmful|harmful]] to ([[f/_food|food]] or [[d/_drink|drink]]).**
 - **To [[i/_interweave|interweave]] [[i/_items|items]].**
 	- _Example: to lace one's fingers together_
 - **To [[i/_interweave|interweave]] the spokes of a [[b/_bicycle|bicycle]] wheel.**

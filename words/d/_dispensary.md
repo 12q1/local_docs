@@ -1,6 +1,6 @@
 # Dispensary
 ---
 #noun
-- **A place or room where something is [[d/_dispensed|dispensed]].**
+- **A [[p/_place|place]] or room where something is [[d/_dispensed|dispensed]].**
 ---
 ---

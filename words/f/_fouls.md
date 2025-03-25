@@ -1,7 +1,7 @@
 # Fouls
 ---
 #noun
-- **A [[b/_breach|breach]] of the rules of a [[g/_game|game]], [[e/_especially|especially]] [[o/_one|one]] [[i/_involving|involving]] [[i/_inappropriate|inappropriate]] [[c/_contact|contact]] with an [[o/_opposing|opposing]] player in [[o/_order|order]] to [[g/_gain|gain]] an [[a/_advantage|advantage]]; for [[e/_example|example]], tripping someone up in soccer, or [[c/_contact|contact]] of [[a/_any|any]] [[k/_kind|kind]] in [[b/_basketball|basketball]].**
+- **A [[b/_breach|breach]] of the rules of a [[g/_game|game]], [[e/_especially|especially]] [[o/_one|one]] [[i/_involving|involving]] [[i/_inappropriate|inappropriate]] [[c/_contact|contact]] with an [[o/_opposing|opposing]] [[p/_player|player]] in [[o/_order|order]] to [[g/_gain|gain]] an [[a/_advantage|advantage]]; for [[e/_example|example]], tripping someone up in soccer, or [[c/_contact|contact]] of [[a/_any|any]] [[k/_kind|kind]] in [[b/_basketball|basketball]].**
 - **A (usually [[a/_accidental|accidental]]) [[c/_contact|contact]] [[b/_between|between]] a [[b/_bowler|bowler]] and the [[l/_lane|lane]] [[b/_before|before]] the [[b/_bowler|bowler]] [[h/_has|has]] released the [[b/_ball|ball]].**
 - **A [[f/_foul|foul]] [[b/_ball|ball]], a [[b/_ball|ball]] which [[h/_has|has]] [[b/_been|been]] [[h/_hit|hit]] [[o/_outside|outside]] of the [[b/_base|base]] [[l/_lines|lines]].**
 	- _Example: Jones hit a foul up over the screen._
@@ -15,7 +15,7 @@
 	- _Example: The hair has fouled the drain._
 - **To [[e/_entangle|entangle]].**
 	- _Example: The kelp has fouled the prop._
-- **To [[m/_make|make]] [[c/_contact|contact]] with an [[o/_opposing|opposing]] player in [[o/_order|order]] to [[g/_gain|gain]] [[a/_advantage|advantage]].**
+- **To [[m/_make|make]] [[c/_contact|contact]] with an [[o/_opposing|opposing]] [[p/_player|player]] in [[o/_order|order]] to [[g/_gain|gain]] [[a/_advantage|advantage]].**
 	- _Example: Smith fouled him hard._
 - **To [[h/_hit|hit]] [[o/_outside|outside]] of the [[b/_baselines|baselines]].**
 	- _Example: Jones fouled the ball off the facing of the upper deck._

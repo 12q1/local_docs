@@ -1,7 +1,7 @@
 # Northward
 ---
 #noun
-- **The [[d/_direction|direction]] or [[a/_area|area]] [[l/_lying|lying]] to the [[n/_north|north]] of a place.**
+- **The [[d/_direction|direction]] or [[a/_area|area]] [[l/_lying|lying]] to the [[n/_north|north]] of a [[p/_place|place]].**
 ---
 #adjective
 - **Situated or [[d/_directed|directed]] towards the [[n/_north|north]]; [[m/_moving|moving]] or [[f/_facing|facing]] towards the [[n/_north|north]].**

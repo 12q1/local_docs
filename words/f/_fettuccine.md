@@ -1,6 +1,6 @@
 # Fettuccine
 ---
 #noun
-- **[[l/_long|Long]], [[f/_flat|flat]] ribbons of pasta, [[c/_cut|cut]] from a rolled-[[o/_out|out]] sheet; [[i/_identical|identical]] in [[f/_form|form]] to tagliatelle.**
+- **[[l/_long|Long]], [[f/_flat|flat]] ribbons of [[p/_pasta|pasta]], [[c/_cut|cut]] from a rolled-[[o/_out|out]] sheet; [[i/_identical|identical]] in [[f/_form|form]] to tagliatelle.**
 ---
 ---

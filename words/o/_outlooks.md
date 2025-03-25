@@ -1,10 +1,10 @@
 # Outlooks
 ---
 #noun
-- **A place from which something [[c/_can|can]] be viewed.**
+- **A [[p/_place|place]] from which something [[c/_can|can]] be viewed.**
 	- _Example: Perched on the edge of the cliff was a hidden outlook._
-- **The view from such a place.**
-- **An [[a/_attitude|attitude]] or point of view.**
+- **The view from such a [[p/_place|place]].**
+- **An [[a/_attitude|attitude]] or [[p/_point|point]] of view.**
 	- _Example: He has a positive outlook on life._
 - **[[e/_expectation|Expectation]] for the [[f/_future|future]].**
 	- _Example: The outlook for temperature rises is worrying._

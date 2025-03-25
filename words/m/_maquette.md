@@ -1,9 +1,9 @@
 # Maquette
 ---
 #noun
-- **A preliminary [[m/_model|model]] or sketch used in preparation for [[m/_making|making]] a sculpture.**
+- **A [[p/_preliminary|preliminary]] [[m/_model|model]] or sketch used in [[p/_preparation|preparation]] for [[m/_making|making]] a sculpture.**
 ---
 #verb
-- **To prepare a [[m/_maquette|maquette]] (of).**
+- **To [[p/_prepare|prepare]] a [[m/_maquette|maquette]] (of).**
 ---
 ---

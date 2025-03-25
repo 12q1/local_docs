@@ -1,8 +1,8 @@
 # Gonk
 ---
 #noun
-- **A small [[f/_furry|furry]] toy [[l/_like|like]] an [[e/_ersatz|ersatz]] teddy [[b/_bear|bear]], popularized in wartime when production of real teddies stops.**
-- **A stupid, [[i/_ignorant|ignorant]], and/or [[b/_boorish|boorish]] person.**
+- **A small [[f/_furry|furry]] toy [[l/_like|like]] an [[e/_ersatz|ersatz]] teddy [[b/_bear|bear]], [[p/_popularized|popularized]] in wartime when production of real teddies stops.**
+- **A stupid, [[i/_ignorant|ignorant]], and/or [[b/_boorish|boorish]] [[p/_person|person]].**
 - **A sleep; a [[n/_nap|nap]].**
 	- _Example: I'm going off to have a gonk._
 - **A prostitute's [[c/_client|client]].**

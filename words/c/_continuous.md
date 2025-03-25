@@ -7,7 +7,7 @@
 	- _Example: a continuous line of railroad_
 - **Not [[d/_deviating|deviating]] or varying from uniformity; not [[i/_interrupted|interrupted]]; not [[j/_joined|joined]] or [[a/_articulated|articulated]].**
 - **(of a [[f/_function|function]]) Such that, for [[e/_every|every]] x in the [[d/_domain|domain]], for [[e/_each|each]] small [[o/_open|open]] [[i/_interval|interval]] [[d/_d|D]] [[a/_about|about]] [[f/_f|f]](x), there's an [[i/_interval|interval]] [[c/_containing|containing]] x whose [[i/_image|image]] is in [[d/_d|D]].**
-- **([[m/_more|more]] [[g/_generally|generally]], of a [[f/_function|function]] [[b/_between|between]] two topological spaces) Such that [[e/_each|each]] [[o/_open|open]] set in the target space [[h/_has|has]] an [[o/_open|open]] preimage (in the [[d/_domain|domain]] space, with respect to the [[g/_given|given]] [[f/_function|function]]).**
+- **([[m/_more|more]] [[g/_generally|generally]], of a [[f/_function|function]] [[b/_between|between]] two topological spaces) Such that [[e/_each|each]] [[o/_open|open]] set in the target space [[h/_has|has]] an [[o/_open|open]] [[p/_preimage|preimage]] (in the [[d/_domain|domain]] space, with respect to the [[g/_given|given]] [[f/_function|function]]).**
 	- _Example: Each continuous function from the real line to the rationals is constant, since the rationals are totally disconnected._
 - **([[g/_grammar|grammar]]) [[e/_expressing|Expressing]] an [[o/_ongoing|ongoing]] [[a/_action|action]] or state.**
 ---

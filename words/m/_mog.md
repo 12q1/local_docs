@@ -8,7 +8,7 @@
 - **A small [[i/_island|island]], [[n/_near|near]] a [[l/_larger|larger]] [[i/_island|island]].**
 	- _Example: the Calf of Man_
 - **A cabless railroad [[e/_engine|engine]].**
-- **An [[a/_awkward|awkward]] or silly [[b/_boy|boy]] or [[y/_young|young]] [[m/_man|man]]; [[a/_any|any]] silly person; a [[d/_dolt|dolt]].**
+- **An [[a/_awkward|awkward]] or silly [[b/_boy|boy]] or [[y/_young|young]] [[m/_man|man]]; [[a/_any|any]] silly [[p/_person|person]]; a [[d/_dolt|dolt]].**
 ---
 ### Synonyms
 - [[b/_bullet|bullet]], [[c/_cowlet|cowlet]], [[c/_cowling|cowling]], [[m/_moggy|moggy]]
@@ -21,13 +21,13 @@
 - **A [[y/_young|young]] [[f/_female|female]] [[a/_animal|animal]].**
 - **(sometimes [[o/_offensive|offensive]]) A woman, [[e/_especially|especially]] a [[y/_young|young]] woman**
 - **A [[f/_female|female]] servant; a [[m/_maid|maid]]. (see usage [[n/_notes|notes]])**
-- **A queen (the playing [[c/_card|card]].)**
+- **A queen (the [[p/_playing|playing]] [[c/_card|card]].)**
 - **A term of [[e/_endearment|endearment]]. (see usage [[n/_notes|notes]])**
 - **[[o/_one|One]]'s [[g/_girlfriend|girlfriend]].**
 - **[[o/_one|One]]'s [[d/_daughter|daughter]].**
 	- _Example: Your girl turned up on our doorstep._
 - **A roebuck two [[y/_years|years]] [[o/_old|old]].**
-- **[[c/_cocaine|Cocaine]], [[e/_especially|especially]] in powder [[f/_form|form]].**
+- **[[c/_cocaine|Cocaine]], [[e/_especially|especially]] in [[p/_powder|powder]] [[f/_form|form]].**
 - **(somewhat [[c/_childish|childish]]) A [[f/_female|female]] (tree, [[g/_gene|gene]], [[e/_etc|etc]]).**
 - **A [[b/_boy|boy]] or [[m/_man|man]] who is weak or sentimental.**
 	- _Example: Don't be such a girl!_
@@ -35,14 +35,14 @@
 ### Synonyms
 - [[d/_daughter|daughter]], [[g/_girlie|girlie]], [[l/_lass|lass]], [[l/_lassie|lassie]], [[c/_char|char]], [[c/_charlady|charlady]], [[c/_charwoman|charwoman]], [[m/_maid|maid]], [[m/_maiden|maiden]], [[m/_maidservant|maidservant]], [[w/_womanservant|womanservant]], [[J/_Jessie|Jessie]], [[s/_sissy|sissy]], [[w/_wimp|wimp]]
 #noun
-- **A [[d/_domestic|domestic]] [[c/_cat|cat]], [[e/_especially|especially]] a [[n/_non|non]]-pedigree or unremarkable [[c/_cat|cat]].**
+- **A [[d/_domestic|domestic]] [[c/_cat|cat]], [[e/_especially|especially]] a [[n/_non|non]]-[[p/_pedigree|pedigree]] or unremarkable [[c/_cat|cat]].**
 - **A [[k/_kind|kind]] of [[c/_cake|cake]] [[m/_made|made]] with [[g/_ginger|ginger]], treacle, [[e/_etc|etc]].**
 ---
 #noun
-- **An [[e/_effigy|effigy]], typically [[m/_made|made]] of straw and [[d/_dressed|dressed]] in [[o/_old|old]] [[c/_clothes|clothes]], [[f/_fixed|fixed]] to a pole in a [[f/_field|field]] to [[d/_deter|deter]] [[b/_birds|birds]] from [[e/_eating|eating]] seeds or [[c/_crops|crops]] planted there.**
-- **A tall, thin, [[a/_awkward|awkward]] person.**
-- **[[a/_anything|Anything]] that [[a/_appears|appears]] terrifying but presents [[n/_no|no]] [[d/_danger|danger]].**
-- **A person [[c/_clad|clad]] in rags and tatters.**
+- **An [[e/_effigy|effigy]], typically [[m/_made|made]] of straw and [[d/_dressed|dressed]] in [[o/_old|old]] [[c/_clothes|clothes]], [[f/_fixed|fixed]] to a [[p/_pole|pole]] in a [[f/_field|field]] to [[d/_deter|deter]] [[b/_birds|birds]] from [[e/_eating|eating]] seeds or [[c/_crops|crops]] [[p/_planted|planted]] there.**
+- **A tall, thin, [[a/_awkward|awkward]] [[p/_person|person]].**
+- **[[a/_anything|Anything]] that [[a/_appears|appears]] terrifying but [[p/_presents|presents]] [[n/_no|no]] [[d/_danger|danger]].**
+- **A [[p/_person|person]] [[c/_clad|clad]] in rags and tatters.**
 - **A [[b/_bird|bird]], the [[b/_black|black]] tern.**
 ---
 #noun

@@ -3,7 +3,7 @@
 #noun
 - **Something, such as a [[y/_yeast|yeast]] or [[b/_barm|barm]], that [[c/_causes|causes]] [[f/_fermentation|fermentation]].**
 - **A state of [[a/_agitation|agitation]] or of turbulent [[c/_change|change]].**
-- **A [[g/_gentle|gentle]] [[i/_internal|internal]] [[m/_motion|motion]] of the [[c/_constituent|constituent]] parts of a [[f/_fluid|fluid]]; [[f/_fermentation|fermentation]].**
+- **A [[g/_gentle|gentle]] [[i/_internal|internal]] [[m/_motion|motion]] of the [[c/_constituent|constituent]] [[p/_parts|parts]] of a [[f/_fluid|fluid]]; [[f/_fermentation|fermentation]].**
 - **A [[c/_catalyst|catalyst]].**
 ---
 #verb

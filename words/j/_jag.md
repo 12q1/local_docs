@@ -2,7 +2,7 @@
 ---
 #noun
 - **A sharp projection.**
-- **A part [[b/_broken|broken]] [[o/_off|off]]; a [[f/_fragment|fragment]].**
+- **A [[p/_part|part]] [[b/_broken|broken]] [[o/_off|off]]; a [[f/_fragment|fragment]].**
 - **A [[c/_cleft|cleft]] or [[d/_division|division]].**
 - **A [[m/_medical|medical]] [[i/_injection|injection]], a [[j/_jab|jab]].**
 ---

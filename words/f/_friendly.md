@@ -3,7 +3,7 @@
 #noun
 - **A [[g/_game|game]] which is of [[n/_no|no]] [[c/_consequence|consequence]] in terms of ranking, [[b/_betting|betting]] [[e/_etc|etc]].**
 	- _Example: This match is merely a friendly, so don't worry too much about it._
-- **A person or [[e/_entity|entity]] on the same side in a [[c/_conflict|conflict]].**
+- **A [[p/_person|person]] or [[e/_entity|entity]] on the same side in a [[c/_conflict|conflict]].**
 ---
 #adjective
 - **[[g/_generally|Generally]] warm, [[a/_approachable|approachable]] and [[e/_easy|easy]] to relate with in [[c/_character|character]].**
@@ -14,9 +14,9 @@
 	- _Example: a dog-friendly café_
 - **Without [[a/_any|any]] [[h/_hostility|hostility]].**
 	- _Example: a friendly competition_
-- **Promoting the [[g/_good|good]] of [[a/_any|any]] person; [[f/_favourable|favourable]]; propitious.**
+- **Promoting the [[g/_good|good]] of [[a/_any|any]] [[p/_person|person]]; [[f/_favourable|favourable]]; propitious.**
 	- _Example: a friendly breeze or gale_
-- **Of or pertaining to [[f/_friendlies|friendlies]] ([[f/_friendly|friendly]] [[n/_noun|noun]] sense 2, [[b/_below|below]]). [[a/_also|Also]] [[a/_applied|applied]] to [[o/_other|other]] [[b/_bipolar|bipolar]] [[c/_confrontations|confrontations]], such as team sports**
+- **Of or [[p/_pertaining|pertaining]] to [[f/_friendlies|friendlies]] ([[f/_friendly|friendly]] [[n/_noun|noun]] sense 2, [[b/_below|below]]). [[a/_also|Also]] [[a/_applied|applied]] to [[o/_other|other]] [[b/_bipolar|bipolar]] [[c/_confrontations|confrontations]], such as team sports**
 	- _Example: The soldier was killed by friendly fire._
 - **[[b/_being|Being]] or relating to two or [[m/_more|more]] [[n/_natural|natural]] [[n/_numbers|numbers]] with a [[c/_common|common]] [[a/_abundancy|abundancy]].**
 	- _Example: friendly_

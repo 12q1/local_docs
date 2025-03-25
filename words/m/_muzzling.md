@@ -8,6 +8,6 @@
 - **To [[b/_bring|bring]] the [[m/_muzzle|muzzle]] or [[m/_mouth|mouth]] [[n/_near|near]].**
 ---
 #noun
-- **The [[a/_act|act]] of placing a [[m/_muzzle|muzzle]] on an [[a/_animal|animal]].**
+- **The [[a/_act|act]] of [[p/_placing|placing]] a [[m/_muzzle|muzzle]] on an [[a/_animal|animal]].**
 ---
 ---

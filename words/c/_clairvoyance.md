@@ -1,6 +1,6 @@
 # Clairvoyance
 ---
 #noun
-- **The power to see the [[f/_future|future]].**
+- **The [[p/_power|power]] to see the [[f/_future|future]].**
 ---
 ---

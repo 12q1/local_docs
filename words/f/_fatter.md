@@ -1,7 +1,7 @@
 # Fatter
 ---
 #adjective
-- **[[c/_carrying|Carrying]] [[m/_more|more]] [[f/_fat|fat]] than usual on [[o/_one|one]]'s [[b/_body|body]]; plump; not [[l/_lean|lean]] or thin.**
+- **[[c/_carrying|Carrying]] [[m/_more|more]] [[f/_fat|fat]] than usual on [[o/_one|one]]'s [[b/_body|body]]; [[p/_plump|plump]]; not [[l/_lean|lean]] or thin.**
 	- _Example: The fat man had trouble getting through the door._
 - **Thick.**
 	- _Example: The fat wallets of the men from the city brought joy to the peddlers._

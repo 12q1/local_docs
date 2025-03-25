@@ -1,18 +1,18 @@
 # Chaser
 ---
 #noun
-- **A person or thing (ship, plane, [[c/_car|car]], [[e/_etc|etc]].) that [[c/_chases|chases]].**
+- **A [[p/_person|person]] or thing (ship, [[p/_plane|plane]], [[c/_car|car]], [[e/_etc|etc]].) that [[c/_chases|chases]].**
 - **A [[h/_hunter|hunter]].**
-- **A person who [[d/_does|does]] the [[c/_chasing|chasing]] on [[m/_metalwork|metalwork]].**
+- **A [[p/_person|person]] who [[d/_does|does]] the [[c/_chasing|chasing]] on [[m/_metalwork|metalwork]].**
 - **A [[h/_horse|horse]]: a [[h/_horse|horse]] used for [[h/_hunting|hunting]]; a [[h/_horse|horse]] trained for steeplechasing, a steeplechaser.**
 - **A [[d/_drink|drink]] [[d/_drunk|drunk]] [[a/_after|after]] [[a/_another|another]] of a [[d/_different|different]] [[k/_kind|kind]]**
 - **([[l/_logging|logging]]) Someone that [[f/_follows|follows]] [[l/_logs|logs]] [[o/_out|out]] of the [[f/_forest|forest]] in [[o/_order|order]] to signal a [[y/_yarder|yarder]] [[e/_engineer|engineer]] to stop them [[i/_if|if]] they [[b/_become|become]] [[f/_fouled|fouled]] ([[a/_also|also]] [[c/_called|called]] a [[f/_frogger|frogger]]).**
 - **([[l/_logging|logging]]) [[o/_one|One]] who unhooks [[c/_chokers|chokers]] from the [[l/_logs|logs]] at the [[l/_landing|landing]].**
-- **A piece of [[m/_music|music]], [[e/_etc|etc]]. played [[a/_after|after]] a performance while the [[a/_audience|audience]] [[l/_leaves|leaves]].**
+- **A [[p/_piece|piece]] of [[m/_music|music]], [[e/_etc|etc]]. [[p/_played|played]] [[a/_after|after]] a [[p/_performance|performance]] while the [[a/_audience|audience]] [[l/_leaves|leaves]].**
 - **[[o/_one|One]] of a series of [[a/_adjacent|adjacent]] [[l/_light|light]] [[b/_bulbs|bulbs]] that [[c/_cycle|cycle]] on and [[o/_off|off]] to [[g/_give|give]] the [[i/_illusion|illusion]] of [[m/_movement|movement]].**
-- **A person who seeks [[o/_out|out]] sexual partners with a particular quality:**
+- **A [[p/_person|person]] who seeks [[o/_out|out]] sexual [[p/_partners|partners]] with a [[p/_particular|particular]] quality:**
 ---
 #noun
-- **A prison [[g/_guard|guard]]; particularly [[o/_one|one]] who [[g/_guards|guards]] [[m/_military|military]] prisoners on [[f/_fatigue|fatigue]] [[d/_duty|duty]]**
+- **A prison [[g/_guard|guard]]; [[p/_particularly|particularly]] [[o/_one|one]] who [[g/_guards|guards]] [[m/_military|military]] prisoners on [[f/_fatigue|fatigue]] [[d/_duty|duty]]**
 ---
 ---

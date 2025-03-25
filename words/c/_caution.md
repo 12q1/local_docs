@@ -1,7 +1,7 @@
 # Caution
 ---
 #noun
-- **Precept or warning [[a/_against|against]] [[e/_evil|evil]] or [[d/_danger|danger]] of [[a/_any|any]] [[k/_kind|kind]]; [[e/_exhortation|exhortation]] to wariness; [[a/_advice|advice]]; [[i/_injunction|injunction]]; prudence in regard to [[d/_danger|danger]]; provident [[c/_care|care]]**
+- **[[p/_precept|Precept]] or warning [[a/_against|against]] [[e/_evil|evil]] or [[d/_danger|danger]] of [[a/_any|any]] [[k/_kind|kind]]; [[e/_exhortation|exhortation]] to wariness; [[a/_advice|advice]]; [[i/_injunction|injunction]]; prudence in regard to [[d/_danger|danger]]; provident [[c/_care|care]]**
 - **A [[c/_careful|careful]] [[a/_attention|attention]] to the probable [[e/_effects|effects]] of an [[a/_act|act]], in [[o/_order|order]] that [[f/_failure|failure]] or [[h/_harm|harm]] [[m/_may|may]] be [[a/_avoided|avoided]]**
 	- _Example: The guideline expressed caution against excessive radiographic imaging._
 - **Security; [[g/_guaranty|guaranty]]; [[b/_bail|bail]].**

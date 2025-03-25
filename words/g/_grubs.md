@@ -4,8 +4,8 @@
 - **An [[i/_immature|immature]] stage in the [[l/_life|life]] [[c/_cycle|cycle]] of an [[i/_insect|insect]]; a [[l/_larva|larva]].**
 - **[[f/_food|Food]].**
 - **A short, thick [[m/_man|man]]; a [[d/_dwarf|dwarf]].**
-- **A [[d/_dirty|dirty]] person.**
-- **A [[d/_despicable|despicable]] person; a [[l/_lowlife|lowlife]].**
+- **A [[d/_dirty|dirty]] [[p/_person|person]].**
+- **A [[d/_despicable|despicable]] [[p/_person|person]]; a [[l/_lowlife|lowlife]].**
 ---
 ### Synonyms
 - [[l/_larva|larva]]

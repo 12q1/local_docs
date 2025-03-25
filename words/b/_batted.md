@@ -12,7 +12,7 @@
 	- _Example: bat one's eyelashes_
 - **To wink.**
 - **To [[b/_bate|bate]] or [[f/_flutter|flutter]], as a [[h/_hawk|hawk]].**
-- **(usually with '[[a/_around|around]]' or '[[a/_about|about]]') To [[f/_flit|flit]] quickly from place to place.**
+- **(usually with '[[a/_around|around]]' or '[[a/_about|about]]') To [[f/_flit|flit]] quickly from [[p/_place|place]] to [[p/_place|place]].**
 	- _Example: I've spent all week batting around the country._
 ---
 ---

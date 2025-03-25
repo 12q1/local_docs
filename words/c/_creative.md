@@ -1,9 +1,9 @@
 # Creative
 ---
 #noun
-- **A person [[d/_directly|directly]] [[i/_involved|involved]] in a [[c/_creative|creative]] [[m/_marketing|marketing]] process.**
+- **A [[p/_person|person]] [[d/_directly|directly]] [[i/_involved|involved]] in a [[c/_creative|creative]] [[m/_marketing|marketing]] process.**
 	- _Example: He is a visionary creative._
-- **[[a/_artistic|Artistic]] [[m/_material|material]] used in [[a/_advertising|advertising]], [[e/_e|e]].[[g/_g|g]]. photographs, [[d/_drawings|drawings]], or video.**
+- **[[a/_artistic|Artistic]] [[m/_material|material]] used in [[a/_advertising|advertising]], [[e/_e|e]].[[g/_g|g]]. [[p/_photographs|photographs]], [[d/_drawings|drawings]], or video.**
 	- _Example: I've included in my portfolio all the creative I've completed in my five year design career._
 ---
 #adjective

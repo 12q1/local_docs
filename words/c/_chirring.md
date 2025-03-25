@@ -6,7 +6,7 @@
 ### Synonyms
 - [[c/_chirp|chirp]], [[s/_stridulate|stridulate]]
 #verb
-- **To [[c/_coo|coo]] [[l/_like|like]] a pigeon.**
+- **To [[c/_coo|coo]] [[l/_like|like]] a [[p/_pigeon|pigeon]].**
 ---
 #noun
 - **The sound of a [[c/_chirr|chirr]].**

@@ -11,7 +11,7 @@
 - **A [[h/_hairstyle|hairstyle]], resembling the [[f/_fin|fin]] of a [[f/_fish|fish]], in which the [[h/_hair|hair]] is [[c/_combed|combed]] and set [[i/_into|into]] a vertical ridge [[a/_along|along]] the top of the [[h/_head|head]] from [[a/_about|about]] the [[c/_crown|crown]] to the [[f/_forehead|forehead]].**
 - **A [[d/_device|device]] worn by [[d/_divers|divers]] and swimmers on their [[f/_feet|feet]].**
 	- _Example: The divers wore fins to swim faster._
-- **An [[e/_extending|extending]] part on a surface of a radiator, [[e/_engine|engine]], heatsink, [[e/_etc|etc]]., used to [[f/_facilitate|facilitate]] [[c/_cooling|cooling]].**
+- **An [[e/_extending|extending]] [[p/_part|part]] on a surface of a radiator, [[e/_engine|engine]], heatsink, [[e/_etc|etc]]., used to [[f/_facilitate|facilitate]] [[c/_cooling|cooling]].**
 - **A sharp raised [[e/_edge|edge]] ([[g/_generally|generally]] in [[c/_concrete|concrete]]) [[c/_capable|capable]] of [[d/_damaging|damaging]] a roof [[m/_membrane|membrane]] or vapor retarder.**
 ---
 ### Synonyms
@@ -24,7 +24,7 @@
 - **To provide (a [[m/_motor|motor]] vehicle [[e/_etc|etc]]) with [[f/_fins|fins]].**
 ---
 #noun
-- **([[f/_formerly|formerly]] [[a/_australia|Australia]]) a [[f/_five|five]]-pound (£5) [[n/_note|note]]; the sum of [[f/_five|five]] pounds.**
+- **([[f/_formerly|formerly]] [[a/_australia|Australia]]) a [[f/_five|five]]-[[p/_pound|pound]] (£5) [[n/_note|note]]; the sum of [[f/_five|five]] [[p/_pounds|pounds]].**
 - **A [[f/_five|five]]-[[d/_dollar|dollar]] [[b/_bill|bill]]; the sum of [[f/_five|five]] [[d/_dollars|dollars]].**
 ---
 ### Synonyms

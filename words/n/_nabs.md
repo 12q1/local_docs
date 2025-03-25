@@ -7,7 +7,7 @@
 ### Synonyms
 - [[b/_bust|bust]], [[n/_nick|nick]]
 #noun
-- **A single-serving [[p/_package|package]] of [[c/_crackers|crackers]], usually [[f/_filled|filled]] with peanut [[b/_butter|butter]]. Snack [[c/_crackers|crackers]].**
+- **A single-serving [[p/_package|package]] of [[c/_crackers|crackers]], usually [[f/_filled|filled]] with [[p/_peanut|peanut]] [[b/_butter|butter]]. Snack [[c/_crackers|crackers]].**
 	- _Example: He purchased a pack of nabs from the vending machine._
 ---
 ---

@@ -1,7 +1,7 @@
 # Nonplussed
 ---
 #verb
-- **To perplex or [[b/_bewilder|bewilder]] someone; to [[c/_confound|confound]] or [[f/_flummox|flummox]]**
+- **To [[p/_perplex|perplex]] or [[b/_bewilder|bewilder]] someone; to [[c/_confound|confound]] or [[f/_flummox|flummox]]**
 ---
 #adjective
 - **[[b/_bewildered|Bewildered]]; unsure [[h/_how|how]] to respond or [[a/_act|act]].**

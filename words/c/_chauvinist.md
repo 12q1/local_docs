@@ -1,10 +1,10 @@
 # Chauvinist
 ---
 #noun
-- **A [[c/_chauvinistic|chauvinistic]] person.**
+- **A [[c/_chauvinistic|chauvinistic]] [[p/_person|person]].**
 ---
 #adjective
-- **Pertaining to [[c/_chauvinism|chauvinism]].**
-- **[[c/_chauvinistic|Chauvinistic]]; [[e/_excessively|excessively]] patriotic or [[h/_heavily|heavily]] [[b/_biased|biased]].**
+- **[[p/_pertaining|Pertaining]] to [[c/_chauvinism|chauvinism]].**
+- **[[c/_chauvinistic|Chauvinistic]]; [[e/_excessively|excessively]] [[p/_patriotic|patriotic]] or [[h/_heavily|heavily]] [[b/_biased|biased]].**
 ---
 ---

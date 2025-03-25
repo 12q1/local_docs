@@ -1,7 +1,7 @@
 # Inexpert
 ---
 #noun
-- **An [[i/_inept|inept]] or unskilled person.**
+- **An [[i/_inept|inept]] or unskilled [[p/_person|person]].**
 ---
 #adjective
 - **[[i/_inept|Inept]] or unskilled; not of [[e/_expert|expert]] [[a/_ability|ability]] or quality.**

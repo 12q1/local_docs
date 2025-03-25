@@ -12,7 +12,7 @@
 ### Synonyms
 - 
 #noun
-- **A [[n/_notched|notched]] [[m/_mark|mark]] or pattern.**
+- **A [[n/_notched|notched]] [[m/_mark|mark]] or [[p/_pattern|pattern]].**
 - **A [[m/_method|method]] of [[j/_joining|joining]] [[f/_framing|framing]]-timbers, by [[h/_halving|halving]], scarfing, or [[c/_caulking|caulking]].**
 ---
 ---

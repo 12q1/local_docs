@@ -6,6 +6,6 @@
 - **A submarine's [[m/_mess|mess]] [[h/_hall|hall]].**
 - **[[f/_furniture|Furniture]] for an [[i/_indoor|indoor]] [[i/_informal|informal]] [[d/_dining|dining]] space, usually [[c/_consisting|consisting]] of [[c/_chairs|chairs]] and a small table.**
 	- _Example: We purchased a new dinette yesterday._
-- **A preliminary [[d/_dinner|dinner]]; [[l/_luncheon|luncheon]].**
+- **A [[p/_preliminary|preliminary]] [[d/_dinner|dinner]]; [[l/_luncheon|luncheon]].**
 ---
 ---

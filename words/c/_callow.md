@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[c/_callow|callow]] [[y/_young|young]] [[b/_bird|bird]].**
-- **A [[c/_callow|callow]] or teneral phase of an [[i/_insect|insect]] or [[o/_other|other]] [[a/_arthropod|arthropod]], typically shortly [[a/_after|after]] [[e/_ecdysis|ecdysis]], while the skin still is [[h/_hardening|hardening]], the [[c/_colours|colours]] [[h/_have|have]] not [[y/_yet|yet]] [[b/_become|become]] stable, and as a rule, [[b/_before|before]] the [[a/_animal|animal]] is [[a/_able|able]] to [[m/_move|move]] [[e/_effectively|effectively]].**
+- **A [[c/_callow|callow]] or teneral [[p/_phase|phase]] of an [[i/_insect|insect]] or [[o/_other|other]] [[a/_arthropod|arthropod]], typically shortly [[a/_after|after]] [[e/_ecdysis|ecdysis]], while the skin still is [[h/_hardening|hardening]], the [[c/_colours|colours]] [[h/_have|have]] not [[y/_yet|yet]] [[b/_become|become]] stable, and as a rule, [[b/_before|before]] the [[a/_animal|animal]] is [[a/_able|able]] to [[m/_move|move]] [[e/_effectively|effectively]].**
 - **An [[a/_alluvial|alluvial]] [[f/_flat|flat]].**
 ---
 #adjective

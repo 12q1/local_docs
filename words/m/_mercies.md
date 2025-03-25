@@ -5,7 +5,7 @@
 	- _Example: She took mercy on him and quit embarrassing him._
 - **[[f/_forgiveness|Forgiveness]] or [[c/_compassion|compassion]], [[e/_especially|especially]] toward those [[l/_less|less]] [[f/_fortunate|fortunate]].**
 	- _Example: Have mercy on the poor and assist them if you can._
-- **A tendency toward [[f/_forgiveness|forgiveness]], pity, or [[c/_compassion|compassion]].**
+- **A tendency toward [[f/_forgiveness|forgiveness]], [[p/_pity|pity]], or [[c/_compassion|compassion]].**
 	- _Example: Mercy is one of his many virtues._
 - **[[i/_instances|Instances]] of [[f/_forbearance|forbearance]] or [[f/_forgiveness|forgiveness]].**
 	- _Example: Psalms 40:11 Do not withhold Your tender mercies from me, O Lord_

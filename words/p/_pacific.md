@@ -1,8 +1,8 @@
 # Pacific
 ---
 #adjective
-- **[[c/_calm|Calm]], peaceful.**
-- **Preferring peace by [[n/_nature|nature]]; [[a/_avoiding|avoiding]] violence.**
+- **[[c/_calm|Calm]], [[p/_peaceful|peaceful]].**
+- **[[p/_preferring|Preferring]] [[p/_peace|peace]] by [[n/_nature|nature]]; [[a/_avoiding|avoiding]] violence.**
 ---
 ### Synonyms
 - [[d/_dovish|dovish]], [[n/_nonviolent|nonviolent]]

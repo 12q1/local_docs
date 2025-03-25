@@ -6,6 +6,6 @@
 ### Synonyms
 - [[a/_abortificant|abortificant]]
 #adjective
-- **(pharmaceutical [[e/_effect|effect]]) Producing [[m/_miscarriage|miscarriage]].**
+- **([[p/_pharmaceutical|pharmaceutical]] [[e/_effect|effect]]) Producing [[m/_miscarriage|miscarriage]].**
 ---
 ---

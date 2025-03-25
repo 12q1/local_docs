@@ -7,13 +7,13 @@
 	- _Example: to celebrate a birthday_
 - **To [[e/_engage|engage]] in [[j/_joyful|joyful]] [[a/_activity|activity]] in [[a/_appreciation|appreciation]] of an [[e/_event|event]].**
 	- _Example: I was promoted today at work—let’s celebrate!_
-- **To perform or participate in, as a sacrament or solemn rite; to perform with [[a/_appropriate|appropriate]] rites.**
+- **To [[p/_perform|perform]] or [[p/_participate|participate]] in, as a sacrament or solemn rite; to [[p/_perform|perform]] with [[a/_appropriate|appropriate]] rites.**
 	- _Example: to celebrate a marriage_
 ---
 ### Synonyms
 - [[f/_fete|fete]], [[k/_keep|keep]], [[o/_observe|observe]], [[s/_solemnize|solemnize]]
 #adjective
-- **[[f/_famous|Famous]] or widely praised**
+- **[[f/_famous|Famous]] or widely [[p/_praised|praised]]**
 	- _Example: She became a celebrated actress, but never won any major awards._
 ---
 ---

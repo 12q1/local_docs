@@ -6,8 +6,8 @@
 - **[[a/_any|Any]] [[n/_narcotic|narcotic]] [[d/_drug|drug]], [[e/_especially|especially]] [[h/_heroin|heroin]].**
 - **The [[g/_genitalia|genitalia]].**
 - **Salt [[b/_beef|beef]].**
-- **Pieces of [[o/_old|old]] [[c/_cable|cable]] or [[c/_cordage|cordage]], used for [[m/_making|making]] [[g/_gaskets|gaskets]], [[m/_mats|mats]], swabs, [[e/_etc|etc]]., and when picked to pieces, [[f/_forming|forming]] [[o/_oakum|oakum]] for [[f/_filling|filling]] the seams of ships.**
-- **A [[f/_fragment|fragment]] of [[a/_any|any]] solid substance; a thick piece; a [[c/_chunk|chunk]].**
+- **[[p/_pieces|Pieces]] of [[o/_old|old]] [[c/_cable|cable]] or [[c/_cordage|cordage]], used for [[m/_making|making]] [[g/_gaskets|gaskets]], [[m/_mats|mats]], swabs, [[e/_etc|etc]]., and when [[p/_picked|picked]] to [[p/_pieces|pieces]], [[f/_forming|forming]] [[o/_oakum|oakum]] for [[f/_filling|filling]] the seams of ships.**
+- **A [[f/_fragment|fragment]] of [[a/_any|any]] solid substance; a thick [[p/_piece|piece]]; a [[c/_chunk|chunk]].**
 - **[[m/_material|Material]] or resources of a [[k/_kind|kind]] [[l/_lacking|lacking]] [[c/_commercial|commercial]] value.**
 	- _Example: junk fish; junk trees_
 ---

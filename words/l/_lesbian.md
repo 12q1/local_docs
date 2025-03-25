@@ -7,7 +7,7 @@
 ### Synonyms
 - [[A/_Amy-John|Amy-John]], [[b/_beanflicker|beanflicker]], [[b/_boondagger|boondagger]], [[b/_bulldiker|bulldiker]], [[b/_bulldyker|bulldyker]], [[c/_clitorist|clitorist]], [[c/_cunt-lapper|cunt-lapper]], [[d/_dyke|dyke]], [[l/_lesbianist|lesbianist]], [[l/_lezzer|lezzer]], [[l/_lezzie|lezzie]], [[l/_lezzo|lezzo]], [[v/_vagitarian|vagitarian]], [[g/_gayelle|gayelle]], [[s/_sapphist|sapphist]]
 #adjective
-- **(of a woman) [[h/_homosexual|Homosexual]], [[g/_gay|gay]]; preferring [[m/_mostly|mostly]] or [[e/_exclusively|exclusively]] women as romantic or sexual partners.**
+- **(of a woman) [[h/_homosexual|Homosexual]], [[g/_gay|gay]]; [[p/_preferring|preferring]] [[m/_mostly|mostly]] or [[e/_exclusively|exclusively]] women as romantic or sexual [[p/_partners|partners]].**
 	- _Example: She is lesbian._
 - **(of a romantic or sexual [[a/_act|act]] or relationship) [[b/_between|Between]] two or [[m/_more|more]] women; [[h/_homosexual|homosexual]], [[g/_gay|gay]].**
 	- _Example: a lesbian relationship / marriage / kiss_

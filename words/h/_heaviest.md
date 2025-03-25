@@ -1,7 +1,7 @@
 # Heaviest
 ---
 #adjective
-- **(of a physical [[o/_object|object]]) [[h/_having|Having]] [[g/_great|great]] weight.**
+- **(of a [[p/_physical|physical]] [[o/_object|object]]) [[h/_having|Having]] [[g/_great|great]] weight.**
 - **(of a topic) Serious, somber.**
 - **Not [[e/_easy|easy]] to [[b/_bear|bear]]; [[b/_burdensome|burdensome]]; [[o/_oppressive|oppressive]].**
 	- _Example: heavy yokes, expenses, undertakings, trials, news, etc._
@@ -15,11 +15,11 @@
 - **[[l/_louder|Louder]], [[m/_more|more]] [[d/_distorted|distorted]].**
 	- _Example: Metal is heavier than swing._
 - **(of weather) [[h/_hot|Hot]] and [[h/_humid|humid]].**
-- **(of a person) [[d/_doing|Doing]] the specified [[a/_activity|activity]] [[m/_more|more]] [[i/_intensely|intensely]] than [[m/_most|most]] [[o/_other|other]] people.**
+- **(of a [[p/_person|person]]) [[d/_doing|Doing]] the specified [[a/_activity|activity]] [[m/_more|more]] [[i/_intensely|intensely]] than [[m/_most|most]] [[o/_other|other]] [[p/_people|people]].**
 	- _Example: He was a heavy sleeper, a heavy eater and a heavy smoker – certainly not an ideal husband._
 - **(of [[f/_food|food]]) [[h/_high|High]] in [[f/_fat|fat]] or protein; [[d/_difficult|difficult]] to [[d/_digest|digest]].**
 	- _Example: Cheese-stuffed sausage is too heavy to eat before exercising._
-- **Of [[g/_great|great]] [[f/_force|force]], power, or [[i/_intensity|intensity]]; [[d/_deep|deep]] or [[i/_intense|intense]].**
+- **Of [[g/_great|great]] [[f/_force|force]], [[p/_power|power]], or [[i/_intensity|intensity]]; [[d/_deep|deep]] or [[i/_intense|intense]].**
 	- _Example: it was a heavy storm;  a heavy slumber in bed;  a heavy punch_
 - **[[l/_laden|Laden]] to a [[g/_great|great]] [[e/_extent|extent]].**
 	- _Example: his eyes were heavy with sleep;  she was heavy with child_
@@ -31,9 +31,9 @@
 - **Not raised or [[l/_leavened|leavened]].**
 	- _Example: heavy bread_
 - **(of wines or spirits) [[h/_having|Having]] [[m/_much|much]] [[b/_body|body]] or strength.**
-- **With [[c/_child|child]]; pregnant.**
+- **With [[c/_child|child]]; [[p/_pregnant|pregnant]].**
 - **[[c/_containing|Containing]] [[o/_one|one]] or [[m/_more|more]] [[i/_isotopes|isotopes]] that are [[h/_heavier|heavier]] than the [[n/_normal|normal]] [[o/_one|one]]**
-- **(petroleum) with [[h/_high|high]] viscosity**
+- **([[p/_petroleum|petroleum]]) with [[h/_high|high]] viscosity**
 ---
 ### Synonyms
 - [[s/_swear|swear]], [[s/_sweer|sweer]]

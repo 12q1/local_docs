@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[e/_effect|Effect]], value; vigor.**
-- **The [[g/_greater|greater]] or [[l/_larger|larger]] part.**
+- **The [[g/_greater|greater]] or [[l/_larger|larger]] [[p/_part|part]].**
 ---
 #verb
 - **To throw.**

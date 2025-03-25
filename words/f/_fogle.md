@@ -1,6 +1,6 @@
 # Fogle
 ---
 #noun
-- **A pocket [[h/_handkerchief|handkerchief]].**
+- **A [[p/_pocket|pocket]] [[h/_handkerchief|handkerchief]].**
 ---
 ---

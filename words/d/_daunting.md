@@ -5,7 +5,7 @@
 - **To [[o/_overwhelm|overwhelm]].**
 ---
 #noun
-- **Present participle of [[d/_daunt|daunt]].**
+- **[[p/_present|Present]] [[p/_participle|participle]] of [[d/_daunt|daunt]].**
 ---
 #adjective
 - **[[d/_discouraging|Discouraging]]; [[i/_inspiring|inspiring]] [[f/_fear|fear]].**

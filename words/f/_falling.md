@@ -14,7 +14,7 @@
 - **To [[b/_become|become]] [[e/_ensnared|ensnared]] or [[e/_entrapped|entrapped]]; to be worse [[o/_off|off]] than [[b/_before|before]].**
 	- _Example: to fall into error;  to fall into difficulties_
 - **To [[a/_assume|assume]] a [[l/_look|look]] of shame or [[d/_disappointment|disappointment]]; to [[b/_become|become]] or [[a/_appear|appear]] [[d/_dejected|dejected]]; said of the [[f/_face|face]].**
-- **To [[h/_happen|happen]]; to [[c/_come|come]] to pass; to [[c/_chance|chance]] or [[l/_light|light]] (upon).**
+- **To [[h/_happen|happen]]; to [[c/_come|come]] to [[p/_pass|pass]]; to [[c/_chance|chance]] or [[l/_light|light]] (upon).**
 - **To [[b/_begin|begin]] with [[h/_haste|haste]], [[a/_ardour|ardour]], or vehemence; to rush or [[h/_hurry|hurry]].**
 	- _Example: After arguing, they fell to blows._
 - **To be [[d/_dropped|dropped]] or uttered [[c/_carelessly|carelessly]].**
@@ -27,7 +27,7 @@
 ### Antonyms
 - [[a/_ascend|ascend]], [[g/_go|go]], [[r/_rise|rise]], [[b/_beat|beat]], [[d/_defeat|defeat]], [[o/_overthrow|overthrow]], [[s/_smite|smite]], [[v/_vanquish|vanquish]], [[r/_rise|rise]]
 #noun
-- **Present participle of [[f/_fall|fall]]**
+- **[[p/_present|Present]] [[p/_participle|participle]] of [[f/_fall|fall]]**
 ---
 #adjective
 - **That [[f/_falls|falls]] or [[f/_fall|fall]].**

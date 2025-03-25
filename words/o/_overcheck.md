@@ -1,7 +1,7 @@
 # Overcheck
 ---
 #noun
-- **A [[c/_check|check]] pattern that is superimposed upon [[a/_another|another]] pattern**
+- **A [[c/_check|check]] [[p/_pattern|pattern]] that is superimposed upon [[a/_another|another]] [[p/_pattern|pattern]]**
 - **A strap that stretches from the pollstrap of the [[b/_bridle|bridle]] to the saddle**
 ---
 #verb

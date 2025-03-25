@@ -1,7 +1,7 @@
 # Amusing
 ---
 #verb
-- **To [[e/_entertain|entertain]] or [[o/_occupy|occupy]] in a pleasant [[m/_manner|manner]]; to stir with pleasing [[e/_emotions|emotions]].**
+- **To [[e/_entertain|entertain]] or [[o/_occupy|occupy]] in a [[p/_pleasant|pleasant]] [[m/_manner|manner]]; to stir with [[p/_pleasing|pleasing]] [[e/_emotions|emotions]].**
 	- _Example: I watch these movies because they amuse me._
 - **To [[c/_cause|cause]] [[l/_laughter|laughter]] or [[a/_amusement|amusement]]; to be [[f/_funny|funny]].**
 	- _Example: His jokes rarely fail to amuse._

@@ -1,11 +1,11 @@
 # Fear
 ---
 #noun
-- **A strong, uncontrollable, unpleasant [[e/_emotion|emotion]] or [[f/_feeling|feeling]] [[c/_caused|caused]] by [[a/_actual|actual]] or perceived [[d/_danger|danger]] or threat.**
+- **A strong, uncontrollable, unpleasant [[e/_emotion|emotion]] or [[f/_feeling|feeling]] [[c/_caused|caused]] by [[a/_actual|actual]] or [[p/_perceived|perceived]] [[d/_danger|danger]] or threat.**
 	- _Example: He was struck by fear on seeing the snake._
-- **A phobia, a sense of [[f/_fear|fear]] [[i/_induced|induced]] by something or someone.**
+- **A [[p/_phobia|phobia]], a sense of [[f/_fear|fear]] [[i/_induced|induced]] by something or someone.**
 	- _Example: Not everybody has the same fears.  I have a fear of ants._
-- **Terrified veneration or reverence, particularly towards [[g/_god|God]], [[g/_gods|gods]], or sovereigns.**
+- **Terrified veneration or reverence, [[p/_particularly|particularly]] towards [[g/_god|God]], [[g/_gods|gods]], or sovereigns.**
 ---
 ### Synonyms
 - [[d/_dread|dread]]

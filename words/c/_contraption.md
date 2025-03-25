@@ -1,7 +1,7 @@
 # Contraption
 ---
 #noun
-- **A [[m/_machine|machine]] that is [[c/_complicated|complicated]] and precarious.**
+- **A [[m/_machine|machine]] that is [[c/_complicated|complicated]] and [[p/_precarious|precarious]].**
 - **[[a/_any|Any]] [[o/_object|object]].**
 ---
 ### Synonyms

@@ -13,7 +13,7 @@
 	- _Example: Mere footsteps away from the victim lay the murder weapon._
 - **The [[a/_act|act]] of taking a step.**
 	- _Example: Take one more footstep towards me, and I'll make you sorry!_
-- **An [[i/_inclined|inclined]] plane under a [[h/_hand|hand]] printing press.**
+- **An [[i/_inclined|inclined]] [[p/_plane|plane]] under a [[h/_hand|hand]] printing [[p/_press|press]].**
 ---
 ### Synonyms
 - [[f/_footfall|footfall]], [[p/_plod|plod]], [[s/_step|step]], [[t/_tread|tread]], [[f/_footprint|footprint]], [[s/_step|step]], [[t/_track|track]], [[p/_pace|pace]], [[p/_plod|plod]], [[s/_step|step]], [[s/_stride|stride]], [[t/_tread|tread]], [[p/_pace|pace]], [[s/_step|step]], [[s/_stride|stride]], [[p/_path|path]], [[p/_point|point]], [[s/_step|step]], [[t/_trail|trail]], [[r/_riser|riser]], [[s/_step|step]]

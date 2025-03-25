@@ -1,7 +1,7 @@
 # Gramophone
 ---
 #noun
-- **A record player.**
+- **A record [[p/_player|player]].**
 ---
 ### Synonyms
 - [[p/_phonograph|phonograph]]

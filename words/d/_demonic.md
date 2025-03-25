@@ -1,9 +1,9 @@
 # Demonic
 ---
 #adjective
-- **Pertaining to [[d/_demons|demons]] or [[e/_evil|evil]] spirits; [[d/_demoniac|demoniac]].**
+- **[[p/_pertaining|Pertaining]] to [[d/_demons|demons]] or [[e/_evil|evil]] spirits; [[d/_demoniac|demoniac]].**
 	- _Example: Convinced that his uncle was a warlock, he rifled through his attic, looking for demonic artifacts._
-- **Pertaining to [[d/_d|d]]æ[[m/_mons|mons]] in [[a/_ancient|ancient]] [[g/_greek|Greek]] thought; [[c/_concerning|concerning]] supernatural ‘[[g/_genius|genius]]’.**
+- **[[p/_pertaining|Pertaining]] to [[d/_d|d]]æ[[m/_mons|mons]] in [[a/_ancient|ancient]] [[g/_greek|Greek]] thought; [[c/_concerning|concerning]] supernatural ‘[[g/_genius|genius]]’.**
 ---
 ### Synonyms
 - [[d/_demonish|demonish]], [[d/_demonlike|demonlike]], [[d/_demonly|demonly]]

@@ -1,7 +1,7 @@
 # Heals
 ---
 #noun
-- **A spell or [[a/_ability|ability]] that restores [[h/_hit|hit]] points or removes a status [[a/_ailment|ailment]].**
+- **A spell or [[a/_ability|ability]] that restores [[h/_hit|hit]] [[p/_points|points]] or removes a status [[a/_ailment|ailment]].**
 - **[[h/_health|Health]]**
 ---
 #verb
@@ -16,6 +16,6 @@
 - [[r/_recover|recover]], [[c/_cure|cure]]
 #verb
 - **To [[h/_hide|hide]], [[c/_conceal|conceal]], and [[k/_keep|keep]] secret, [[e/_especially|especially]] for a secret society (such as the [[m/_masons|masons]]).**
-- **([[n/_now|now]] [[e/_especially|especially]] in the phrase "[[h/_hele|hele]] in") To [[c/_cover|cover]] or [[c/_conceal|conceal]] (a seedling, plant, roots, [[e/_etc|etc]]).**
+- **([[n/_now|now]] [[e/_especially|especially]] in the [[p/_phrase|phrase]] "[[h/_hele|hele]] in") To [[c/_cover|cover]] or [[c/_conceal|conceal]] (a seedling, [[p/_plant|plant]], roots, [[e/_etc|etc]]).**
 ---
 ---

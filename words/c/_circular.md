@@ -2,7 +2,7 @@
 ---
 #noun
 - **Short for [[c/_circular|circular]] [[l/_letter|letter]].**
-- **A sleeveless [[c/_cloak|cloak]] [[c/_cut|cut]] from a [[c/_circular|circular]] pattern.**
+- **A sleeveless [[c/_cloak|cloak]] [[c/_cut|cut]] from a [[c/_circular|circular]] [[p/_pattern|pattern]].**
 - **A shuttle [[b/_bus|bus]] with a [[c/_circular|circular]] route.**
 ---
 #verb
@@ -15,19 +15,19 @@
 - **[[c/_circuitous|Circuitous]] or roundabout.**
 - **Referring [[b/_back|back]] to [[i/_itself|itself]], so as to prevent [[c/_computation|computation]] or [[c/_comprehension|comprehension]]; [[i/_infinitely|infinitely]] recursive.**
 	- _Example: Your dictionary defines "brave" as "courageous", and "courageous" as "brave". That's a circular definition._
-- **[[d/_distributed|Distributed]] to a [[l/_large|large]] [[n/_number|number]] of persons.**
-- **Perfect; [[c/_complete|complete]].**
+- **[[d/_distributed|Distributed]] to a [[l/_large|large]] [[n/_number|number]] of [[p/_persons|persons]].**
+- **[[p/_perfect|Perfect]]; [[c/_complete|complete]].**
 - **[[a/_adhering|Adhering]] to a [[f/_fixed|fixed]] [[c/_circle|circle]] of [[l/_legends|legends]]; [[c/_cyclic|cyclic]]; [[h/_hence|hence]], [[m/_mean|mean]]; [[i/_inferior|inferior]].**
 ---
 #noun
 - **That which [[f/_flies|flies]], as a [[b/_bird|bird]] or [[i/_insect|insect]].**
 - **A [[m/_machine|machine]] that [[f/_flies|flies]].**
-- **An [[a/_airplane|airplane]] pilot.**
-- **A person who travels by [[a/_airplane|airplane]].**
+- **An [[a/_airplane|airplane]] [[p/_pilot|pilot]].**
+- **A [[p/_person|person]] who travels by [[a/_airplane|airplane]].**
 - **A [[l/_leaflet|leaflet]], [[o/_often|often]] for [[a/_advertising|advertising]].**
-- **The part of a spinning [[m/_machine|machine]] that twists the thread as it takes it to and winds it on the [[b/_bobbin|bobbin]]**
+- **The [[p/_part|part]] of a spinning [[m/_machine|machine]] that twists the thread as it takes it to and winds it on the [[b/_bobbin|bobbin]]**
 - **An [[a/_arch|arch]] that [[c/_connects|connects]] a [[f/_flying|flying]] [[b/_buttress|buttress]] [[i/_into|into]] the structure it supports.**
-- **([[a/_acrobatics|acrobatics]], [[c/_cheerleading|cheerleading]], synchronized swimming) The person who is [[l/_lifted|lifted]] and/or thrown by [[a/_another|another]] person or persons.**
+- **([[a/_acrobatics|acrobatics]], [[c/_cheerleading|cheerleading]], synchronized swimming) The [[p/_person|person]] who is [[l/_lifted|lifted]] and/or thrown by [[a/_another|another]] [[p/_person|person]] or [[p/_persons|persons]].**
 - **A stray shot [[a/_away|away]] from the [[g/_group|group]] on a target.**
 - **A standard rectangular step of a staircase (as [[o/_opposed|opposed]] to a winder).**
 - **A [[f/_female|female]] [[k/_kangaroo|kangaroo]]; a roo; a [[d/_doe|doe]]; a [[j/_jill|jill]].**

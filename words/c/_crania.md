@@ -1,8 +1,8 @@
 # Crania
 ---
 #noun
-- **The [[b/_braincase|braincase]] or neurocranium; that part of the skull [[c/_consisting|consisting]] of the [[b/_bones|bones]] [[e/_enclosing|enclosing]] the [[b/_brain|brain]], but not [[i/_including|including]] the [[b/_bones|bones]] of the [[f/_face|face]] or [[j/_jaw|jaw]].**
-- **The upper portion of the skull, [[i/_including|including]] the neurocranium and [[f/_facial|facial]] [[b/_bones|bones]], but not [[i/_including|including]] the [[j/_jawbone|jawbone]] ([[m/_mandible|mandible]]).**
+- **The [[b/_braincase|braincase]] or neurocranium; that [[p/_part|part]] of the skull [[c/_consisting|consisting]] of the [[b/_bones|bones]] [[e/_enclosing|enclosing]] the [[b/_brain|brain]], but not [[i/_including|including]] the [[b/_bones|bones]] of the [[f/_face|face]] or [[j/_jaw|jaw]].**
+- **The upper [[p/_portion|portion]] of the skull, [[i/_including|including]] the neurocranium and [[f/_facial|facial]] [[b/_bones|bones]], but not [[i/_including|including]] the [[j/_jawbone|jawbone]] ([[m/_mandible|mandible]]).**
 - **The skull.**
 ---
 ### Synonyms

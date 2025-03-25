@@ -1,7 +1,7 @@
 # Catatonic
 ---
 #noun
-- **A patient in a state of [[c/_catatonia|catatonia]].**
+- **A [[p/_patient|patient]] in a state of [[c/_catatonia|catatonia]].**
 ---
 #adjective
 - **Of, relating to, or suffering from [[c/_catatonia|catatonia]].**

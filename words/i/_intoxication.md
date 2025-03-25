@@ -1,7 +1,7 @@
 # Intoxication
 ---
 #noun
-- **A poisoning, as by a spirituous or a [[n/_narcotic|narcotic]] substance.**
+- **A [[p/_poisoning|poisoning]], as by a spirituous or a [[n/_narcotic|narcotic]] substance.**
 	- _Example: He suffered acute intoxication from the combined effects of several drugs._
 - **The state of [[b/_being|being]] [[i/_intoxicated|intoxicated]] or [[d/_drunk|drunk]].**
 - **The [[a/_act|act]] of [[i/_intoxicating|intoxicating]] or [[m/_making|making]] [[d/_drunk|drunk]].**

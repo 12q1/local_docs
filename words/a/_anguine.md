@@ -1,7 +1,7 @@
 # Anguine
 ---
 #adjective
-- **Pertaining to snakes or serpents**
+- **[[p/_pertaining|Pertaining]] to snakes or serpents**
 - **Snakelike.**
 ---
 ### Synonyms

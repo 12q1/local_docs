@@ -14,6 +14,6 @@
 - **[[b/_bratwurst|Bratwurst]]**
 ---
 #noun
-- **A thin [[b/_bed|bed]] of [[c/_coal|coal]] [[m/_mixed|mixed]] with pyrites or [[c/_carbonate|carbonate]] of [[l/_lime|lime]].**
+- **A thin [[b/_bed|bed]] of [[c/_coal|coal]] [[m/_mixed|mixed]] with [[p/_pyrites|pyrites]] or [[c/_carbonate|carbonate]] of [[l/_lime|lime]].**
 ---
 ---

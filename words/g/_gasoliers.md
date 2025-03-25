@@ -1,6 +1,6 @@
 # Gasoliers
 ---
 #noun
-- **A [[g/_gas|gas]]-powered [[c/_chandelier|chandelier]].**
+- **A [[g/_gas|gas]]-[[p/_powered|powered]] [[c/_chandelier|chandelier]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Honey
 ---
 #noun
-- **A viscous, sweet [[f/_fluid|fluid]] produced from plant [[n/_nectar|nectar]] by [[b/_bees|bees]]. [[o/_often|Often]] used to sweeten tea or to spread on [[b/_baked|baked]] [[g/_goods|goods]].**
+- **A viscous, sweet [[f/_fluid|fluid]] produced from [[p/_plant|plant]] [[n/_nectar|nectar]] by [[b/_bees|bees]]. [[o/_often|Often]] used to sweeten tea or to spread on [[b/_baked|baked]] [[g/_goods|goods]].**
 - **A variety of this substance.**
 - **[[n/_nectar|Nectar]].**
 - **Something sweet or [[d/_desirable|desirable]].**

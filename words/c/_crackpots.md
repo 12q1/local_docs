@@ -1,7 +1,7 @@
 # Crackpots
 ---
 #noun
-- **An [[e/_eccentric|eccentric]], [[c/_crazy|crazy]] or [[f/_foolish|foolish]] person. A [[k/_kook|kook]].**
+- **An [[e/_eccentric|eccentric]], [[c/_crazy|crazy]] or [[f/_foolish|foolish]] [[p/_person|person]]. A [[k/_kook|kook]].**
 	- _Example: Time will tell whether he is a crackpot or a genius for promoting that sort of idea._
 - **Someone [[a/_addicted|addicted]] to [[c/_crack|crack]] [[c/_cocaine|cocaine]] ([[i/_i|i]].[[e/_e|e]]. a [[d/_drug|drug]] [[a/_addict|addict]]).**
 ---

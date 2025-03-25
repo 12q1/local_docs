@@ -9,12 +9,12 @@
 - **An [[a/_artificial|artificial]] [[f/_fishing|fishing]] [[l/_lure|lure]].**
 	- _Example: To catch a big fish, use a hopper that jumps across the pond surface._
 - **A toilet.**
-- **An [[e/_escapement|escapement]] [[l/_lever|lever]] in a piano.**
+- **An [[e/_escapement|escapement]] [[l/_lever|lever]] in a [[p/_piano|piano]].**
 - **The [[g/_game|game]] of [[h/_hopscotch|hopscotch]].**
 - **A window with [[h/_hinges|hinges]] at the [[b/_bottom|bottom]], [[o/_opened|opened]] by tilting vertically.**
 - **A [[h/_hopper|hopper]] [[c/_car|car]].**
-- **A [[f/_fairy|fairy]] [[c/_chess|chess]] piece which [[m/_moves|moves]] [[o/_only|only]] by [[j/_jumping|jumping]] [[o/_over|over]] [[a/_another|another]] piece.**
-- **A person or [[m/_machine|machine]] that picks [[h/_hops|hops]].**
+- **A [[f/_fairy|fairy]] [[c/_chess|chess]] [[p/_piece|piece]] which [[m/_moves|moves]] [[o/_only|only]] by [[j/_jumping|jumping]] [[o/_over|over]] [[a/_another|another]] [[p/_piece|piece]].**
+- **A [[p/_person|person]] or [[m/_machine|machine]] that [[p/_picks|picks]] [[h/_hops|hops]].**
 ---
 #noun
 - **A Sri Lankan [[f/_food|food]] [[m/_made|made]] from a [[f/_fermented|fermented]] [[b/_batter|batter]] of rice [[f/_flour|flour]], [[c/_coconut|coconut]] [[m/_milk|milk]], and [[p/_palm|palm]] toddy or [[y/_yeast|yeast]].**

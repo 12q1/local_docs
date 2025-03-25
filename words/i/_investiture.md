@@ -1,7 +1,7 @@
 # Investiture
 ---
 #noun
-- **The [[a/_act|act]] of [[i/_investing|investing]], as with possession or power; [[f/_formal|formal]] [[b/_bestowal|bestowal]] or presentation of a possessory or prescriptive right.**
+- **The [[a/_act|act]] of [[i/_investing|investing]], as with [[p/_possession|possession]] or [[p/_power|power]]; [[f/_formal|formal]] [[b/_bestowal|bestowal]] or [[p/_presentation|presentation]] of a [[p/_possessory|possessory]] or [[p/_prescriptive|prescriptive]] right.**
 - **That which [[i/_invests|invests]] or [[c/_clothes|clothes]]; [[c/_covering|covering]]; vestment.**
 ---
 ---

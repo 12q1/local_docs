@@ -18,7 +18,7 @@
 	- _Example: There she blows! (i.e. "I see a whale spouting!")_
 - **To [[e/_explode|explode]].**
 	- _Example: Get away from that burning gas tank! It's about to blow!_
-- **(with "up" or with prep phrase [[h/_headed|headed]] by "to") To [[c/_cause|cause]] to [[e/_explode|explode]], shatter, or be utterly [[d/_destroyed|destroyed]].**
+- **(with "up" or with [[p/_prep|prep]] [[p/_phrase|phrase]] [[h/_headed|headed]] by "to") To [[c/_cause|cause]] to [[e/_explode|explode]], shatter, or be utterly [[d/_destroyed|destroyed]].**
 	- _Example: The aerosol can was blown to bits._
 - **To [[c/_cause|cause]] sudden [[d/_destruction|destruction]] of.**
 	- _Example: He blew the tires and the engine._
@@ -29,14 +29,14 @@
 	- _Example: This blows!_
 - **To recklessly squander.**
 	- _Example: I blew $35 thou on a car._
-- **To [[f/_fellate|fellate]]; to perform [[o/_oral|oral]] sex on (usually a [[m/_man|man]])**
+- **To [[f/_fellate|fellate]]; to [[p/_perform|perform]] [[o/_oral|oral]] sex on (usually a [[m/_man|man]])**
 	- _Example: Who did you have to blow to get those backstage passes?_
 - **To [[l/_leave|leave]], [[e/_especially|especially]] suddenly or in a [[h/_hurry|hurry]].**
 	- _Example: Let's blow this joint._
 - **To [[m/_make|make]] [[f/_flyblown|flyblown]], to [[d/_defile|defile]], [[e/_especially|especially]] with [[f/_fly|fly]] [[e/_eggs|eggs]].**
 - **To spread by report; to publish; to [[d/_disclose|disclose]].**
 - **To [[i/_inflate|inflate]], as with pride; to puff up.**
-- **To [[b/_breathe|breathe]] [[h/_hard|hard]] or quick; to pant; to puff.**
+- **To [[b/_breathe|breathe]] [[h/_hard|hard]] or quick; to [[p/_pant|pant]]; to puff.**
 - **To put [[o/_out|out]] of [[b/_breath|breath]]; to [[c/_cause|cause]] to [[b/_blow|blow]] from [[f/_fatigue|fatigue]].**
 	- _Example: to blow a horse_
 - **To talk [[l/_loudly|loudly]]; to [[b/_boast|boast]]; to storm.**
@@ -49,19 +49,19 @@
 ---
 #noun
 - **The [[c/_colour|colour]] of the [[c/_clear|clear]] sky or the [[d/_deep|deep]] sea, [[b/_between|between]] [[g/_green|green]] and violet in the visible spectrum, and [[o/_one|one]] of the primary [[a/_additive|additive]] [[c/_colours|colours]] for transmitted [[l/_light|light]]; the [[c/_colour|colour]] [[o/_obtained|obtained]] by subtracting red and [[g/_green|green]] from white [[l/_light|light]] using [[m/_magenta|magenta]] and [[c/_cyan|cyan]] [[f/_filters|filters]]; or [[a/_any|any]] [[c/_colour|colour]] resembling this.**
-- **A [[b/_blue|blue]] [[d/_dye|dye]] or pigment.**
+- **A [[b/_blue|blue]] [[d/_dye|dye]] or [[p/_pigment|pigment]].**
 - **[[a/_any|Any]] of several processes to protect [[m/_metal|metal]] [[a/_against|against]] rust.**
 - **[[b/_blue|Blue]] [[c/_clothing|clothing]]**
 	- _Example: The boys in blue marched to the pipers._
-- **(in the plural) A [[b/_blue|blue]] uniform. See [[b/_blues|blues]].**
+- **(in the [[p/_plural|plural]]) A [[b/_blue|blue]] uniform. See [[b/_blues|blues]].**
 - **A [[m/_member|member]] of [[l/_law|law]] [[e/_enforcement|enforcement]]**
 - **The sky, [[l/_literally|literally]] or [[f/_figuratively|figuratively]].**
 	- _Example: His request for leave came out of the blue._
 - **The [[o/_ocean|ocean]]; [[d/_deep|deep]] waters.**
-- **The [[f/_far|far]] [[d/_distance|distance]]; a remote or [[d/_distant|distant]] place.**
+- **The [[f/_far|far]] [[d/_distance|distance]]; a remote or [[d/_distant|distant]] [[p/_place|place]].**
 - **[[a/_anything|Anything]] [[b/_blue|blue]], [[e/_especially|especially]] to [[d/_distinguish|distinguish]] it from similar [[o/_objects|objects]] [[d/_differing|differing]] [[o/_only|only]] in [[c/_color|color]].**
 - **A [[d/_dog|dog]] or [[c/_cat|cat]] with a slaty [[g/_gray|gray]] [[c/_coat|coat]].**
-- **[[o/_one|One]] of the [[c/_colour|colour]] [[b/_balls|balls]] used in snooker, with a value of [[f/_five|five]] points.**
+- **[[o/_one|One]] of the [[c/_colour|colour]] [[b/_balls|balls]] used in snooker, with a value of [[f/_five|five]] [[p/_points|points]].**
 - **[[a/_any|Any]] of the [[b/_butterflies|butterflies]] of the subfamily Polyommatinae in the [[f/_family|family]] [[l/_lycaenidae|Lycaenidae]], [[m/_most|most]] of which [[h/_have|have]] [[b/_blue|blue]] on their wings.**
 - **A [[b/_bluefish|bluefish]].**
 - **An [[a/_argument|argument]].**
@@ -76,8 +76,8 @@
 - **[[d/_depressed|Depressed]], [[m/_melancholic|melancholic]], sad.**
 - **[[p/_pale|Pale]], without redness or [[g/_glare|glare]]; said of a [[f/_flame|flame]].**
 	- _Example: The candle burns blue._
-- **Supportive of, run by (a [[m/_member|member]] of), pertaining to, or [[d/_dominated|dominated]] by a political party represented by the [[c/_colour|colour]] [[b/_blue|blue]].**
-- **Of the [[h/_higher|higher]]-[[f/_frequency|frequency]] region of the part of the [[e/_electromagnetic|electromagnetic]] spectrum which is relevant in the specific [[o/_observation|observation]].**
+- **Supportive of, run by (a [[m/_member|member]] of), [[p/_pertaining|pertaining]] to, or [[d/_dominated|dominated]] by a [[p/_political|political]] [[p/_party|party]] represented by the [[c/_colour|colour]] [[b/_blue|blue]].**
+- **Of the [[h/_higher|higher]]-[[f/_frequency|frequency]] region of the [[p/_part|part]] of the [[e/_electromagnetic|electromagnetic]] spectrum which is relevant in the specific [[o/_observation|observation]].**
 - **(of steak) [[e/_extra|Extra]] rare; [[l/_left|left]] very raw and [[c/_cold|cold]].**
 - **(of a [[d/_dog|dog]] or [[c/_cat|cat]]) [[h/_having|Having]] a [[c/_coat|coat]] of [[f/_fur|fur]] of a slaty [[g/_gray|gray]] shade.**
 - **Severe or [[o/_overly|overly]] strict in [[m/_morals|morals]]; [[g/_gloomy|gloomy]].**
@@ -90,7 +90,7 @@
 ### Antonyms
 - [[n/_nonblue|nonblue]], [[u/_unblue|unblue]], [[a/_antiblue|antiblue]]
 #adjective
-- **([[e/_entertainment|entertainment]]) Pornographic or profane.**
+- **([[e/_entertainment|entertainment]]) [[p/_pornographic|Pornographic]] or profane.**
 	- _Example: The air was blue with oaths._
 ---
 ### Synonyms

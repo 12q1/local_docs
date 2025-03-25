@@ -1,19 +1,19 @@
 # Palimpsests
 ---
 #noun
-- **A [[m/_manuscript|manuscript]] or [[d/_document|document]] that [[h/_has|has]] [[b/_been|been]] [[e/_erased|erased]] or scraped [[c/_clean|clean]], for reuse of the paper, parchment, vellum, or [[o/_other|other]] [[m/_medium|medium]] on which it was written.**
+- **A [[m/_manuscript|manuscript]] or [[d/_document|document]] that [[h/_has|has]] [[b/_been|been]] [[e/_erased|erased]] or scraped [[c/_clean|clean]], for reuse of the [[p/_paper|paper]], [[p/_parchment|parchment]], vellum, or [[o/_other|other]] [[m/_medium|medium]] on which it was written.**
 - **[[m/_monumental|Monumental]] [[b/_brasses|brasses]] that [[h/_have|have]] [[b/_been|been]] reused by [[e/_engraving|engraving]] of the [[b/_blank|blank]] [[b/_back|back]] side.**
 - **[[c/_circular|Circular]] [[f/_features|features]] [[b/_believed|believed]] to be [[l/_lunar|lunar]] [[c/_craters|craters]] that [[h/_have|have]] [[b/_been|been]] [[o/_obliterated|obliterated]] by [[l/_later|later]] volcanic [[a/_activity|activity]].**
 - **[[g/_geological|Geological]] [[f/_features|features]] thought to be related to [[f/_features|features]] or [[e/_effects|effects]] [[b/_below|below]] the surface.**
 - **[[m/_memory|Memory]] that [[h/_has|has]] [[b/_been|been]] [[e/_erased|erased]] and re-written.**
-- **([[c/_cultural|cultural]] studies) The partial [[e/_erasure|erasure]] of or superimposition on an [[o/_older|older]] society or [[c/_culture|culture]] by a [[n/_newer|newer]] [[o/_one|one]].**
+- **([[c/_cultural|cultural]] studies) The [[p/_partial|partial]] [[e/_erasure|erasure]] of or superimposition on an [[o/_older|older]] society or [[c/_culture|culture]] by a [[n/_newer|newer]] [[o/_one|one]].**
 - **Something [[b/_bearing|bearing]] the traces of an [[e/_earlier|earlier]], [[e/_erased|erased]] [[f/_form|form]].**
 ---
 ### Synonyms
 - 
 #verb
-- **To scrape [[c/_clean|clean]], as in parchment, for reuse.**
-- **On paper: to reuse, [[o/_often|often]] by [[e/_erasure|erasure]] or [[c/_change|change]] of pen [[d/_direction|direction]] or [[c/_color|color]]. [[e/_especially|Especially]] [[f/_fueled|fueled]] by [[e/_earth|Earth]] [[d/_day|Day]].**
+- **To scrape [[c/_clean|clean]], as in [[p/_parchment|parchment]], for reuse.**
+- **On [[p/_paper|paper]]: to reuse, [[o/_often|often]] by [[e/_erasure|erasure]] or [[c/_change|change]] of [[p/_pen|pen]] [[d/_direction|direction]] or [[c/_color|color]]. [[e/_especially|Especially]] [[f/_fueled|fueled]] by [[e/_earth|Earth]] [[d/_day|Day]].**
 	- _Example: Typically refers to a multi-layered work, e.g.: new ads covering old on a roadside sign._
 ---
 ---

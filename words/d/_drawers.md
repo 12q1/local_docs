@@ -8,8 +8,8 @@
 - **[[a/_agent|Agent]] [[n/_noun|noun]] of [[d/_draw|draw]]; [[o/_one|one]] who [[d/_draws|draws]].**
 - **An [[a/_artist|artist]] who primarily [[m/_makes|makes]] [[d/_drawings|drawings]].**
 - **[[o/_one|One]] who writes a [[b/_bank|bank]] [[d/_draft|draft]], [[c/_check|check]]/[[c/_cheque|cheque]], or promissory [[n/_note|note]].**
-- **A [[b/_barman|barman]]; a person who [[d/_draws|draws]] the [[b/_beer|beer]] from the taps.**
+- **A [[b/_barman|barman]]; a [[p/_person|person]] who [[d/_draws|draws]] the [[b/_beer|beer]] from the taps.**
 - **Someone who taps [[p/_palm|palm]] sap for [[m/_making|making]] toddy.**
-- **A wagoner or person who pushes underground tubs.**
+- **A wagoner or [[p/_person|person]] who pushes underground tubs.**
 ---
 ---

@@ -10,11 +10,11 @@
 - **A [[c/_cryptographic|cryptographic]] system using an [[a/_algorithm|algorithm]] that [[c/_converts|converts]] [[l/_letters|letters]] or sequences of [[b/_bits|bits]] [[i/_into|into]] [[c/_ciphertext|ciphertext]].**
 - **[[c/_ciphertext|Ciphertext]]; a [[m/_message|message]] [[c/_concealed|concealed]] via a [[c/_cipher|cipher]].**
 	- _Example: The message is clearly a cipher, but I can't figure it out._
-- **A [[g/_grouping|grouping]] of three [[d/_digits|digits]] in a [[n/_number|number]], [[e/_especially|especially]] when [[d/_delimited|delimited]] by [[c/_commas|commas]] or periods:**
+- **A [[g/_grouping|grouping]] of three [[d/_digits|digits]] in a [[n/_number|number]], [[e/_especially|especially]] when [[d/_delimited|delimited]] by [[c/_commas|commas]] or [[p/_periods|periods]]:**
 	- _Example: The probability is 1 in 1,000,000,000,000,000 — a number having five ciphers of zeros._
-- **A [[f/_fault|fault]] in an [[o/_organ|organ]] valve which [[c/_causes|causes]] a pipe to sound [[c/_continuously|continuously]] without the [[k/_key|key]] [[h/_having|having]] [[b/_been|been]] pressed.**
+- **A [[f/_fault|fault]] in an [[o/_organ|organ]] valve which [[c/_causes|causes]] a [[p/_pipe|pipe]] to sound [[c/_continuously|continuously]] without the [[k/_key|key]] [[h/_having|having]] [[b/_been|been]] [[p/_pressed|pressed]].**
 - **A [[h/_hip|hip]]-[[h/_hop|hop]] [[j/_jam|jam]] session.**
-- **The path (usually [[c/_circular|circular]]) shared [[c/_cannabis|cannabis]] takes through a [[g/_group|group]], an [[o/_occasion|occasion]] of [[c/_cannabis|cannabis]] smoking.**
+- **The [[p/_path|path]] (usually [[c/_circular|circular]]) shared [[c/_cannabis|cannabis]] takes through a [[g/_group|group]], an [[o/_occasion|occasion]] of [[c/_cannabis|cannabis]] smoking.**
 - **Someone or something of [[n/_no|no]] [[i/_importance|importance]].**
 - **Zero.**
 ---

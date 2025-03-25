@@ -5,6 +5,6 @@
 ---
 #adjective
 - **(of a [[b/_bathroom|bathroom]] [[e/_etc|etc]].) [[c/_connected|Connected]] to a [[b/_bedroom|bedroom]].**
-- **As part of a series.**
+- **As [[p/_part|part]] of a series.**
 ---
 ---

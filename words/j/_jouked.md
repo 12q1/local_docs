@@ -1,7 +1,7 @@
 # Jouked
 ---
 #verb
-- **To play [[d/_dance|dance]] [[m/_music|music]], or to [[d/_dance|dance]], in a [[j/_juke|juke]]**
+- **To [[p/_play|play]] [[d/_dance|dance]] [[m/_music|music]], or to [[d/_dance|dance]], in a [[j/_juke|juke]]**
 ---
 #verb
 - **To [[h/_hit|hit]]**

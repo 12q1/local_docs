@@ -25,6 +25,6 @@
 ### Synonyms
 - [[n/_nabe|nabe]], [[n/_neighborhood|neighborhood]], [[g/_ghetto|ghetto]]
 #noun
-- **Person wearing a [[h/_hoodie|hoodie]].**
+- **[[p/_person|Person]] wearing a [[h/_hoodie|hoodie]].**
 ---
 ---

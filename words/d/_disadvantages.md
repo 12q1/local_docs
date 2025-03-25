@@ -12,7 +12,7 @@
 ### Antonyms
 - [[a/_advantage|advantage]]
 #verb
-- **To place at a [[d/_disadvantage|disadvantage]].**
+- **To [[p/_place|place]] at a [[d/_disadvantage|disadvantage]].**
 	- _Example: They fear it might disadvantage honest participants to allow automated entries._
 ---
 ### Synonyms

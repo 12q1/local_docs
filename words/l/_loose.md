@@ -3,7 +3,7 @@
 #noun
 - **The release of an [[a/_arrow|arrow]].**
 - **A state of [[l/_laxity|laxity]] or [[i/_indulgence|indulgence]]; unrestrained [[f/_freedom|freedom]], [[a/_abandonment|abandonment]].**
-- **[[a/_all|All]] play [[o/_other|other]] than set pieces (scrums and [[l/_line|line]]-[[o/_outs|outs]]).**
+- **[[a/_all|All]] [[p/_play|play]] [[o/_other|other]] than set [[p/_pieces|pieces]] (scrums and [[l/_line|line]]-[[o/_outs|outs]]).**
 - **[[f/_freedom|Freedom]] from restraint.**
 - **A [[l/_letting|letting]] [[g/_go|go]]; [[d/_discharge|discharge]].**
 ---
@@ -21,7 +21,7 @@
 ### Antonyms
 - [[f/_fast|fast]], [[b/_bind|bind]], [[c/_constrain|constrain]], [[t/_tighten|tighten]], [[t/_tighten|tighten]], [[b/_bind|bind]], [[f/_fasten|fasten]], [[t/_tie|tie]]
 #adjective
-- **Not [[f/_fixed|fixed]] in place tightly or [[f/_firmly|firmly]].**
+- **Not [[f/_fixed|fixed]] in [[p/_place|place]] tightly or [[f/_firmly|firmly]].**
 	- _Example: This wheelbarrow has a loose wheel._
 - **Not [[h/_held|held]] or [[p/_packaged|packaged]] together.**
 	- _Example: 'You can buy apples in a pack, but they are cheaper loose._
@@ -33,12 +33,12 @@
 	- _Example: 'It is difficult walking on loose gravel._
 - **Relaxed.**
 	- _Example: She danced with a loose flowing movement._
-- **Not precise or [[e/_exact|exact]]; vague; [[i/_indeterminate|indeterminate]].**
+- **Not [[p/_precise|precise]] or [[e/_exact|exact]]; vague; [[i/_indeterminate|indeterminate]].**
 	- _Example: a loose way of reasoning_
 - **[[i/_indiscreet|Indiscreet]].**
 	- _Example: Loose talk costs lives._
 - **(somewhat [[d/_dated|dated]]) [[f/_free|Free]] from [[m/_moral|moral]] restraint; [[i/_immoral|immoral]], unchaste.**
-- **Not [[b/_being|being]] in the possession of [[a/_any|any]] [[c/_competing|competing]] team [[d/_during|during]] a [[g/_game|game]].**
+- **Not [[b/_being|being]] in the [[p/_possession|possession]] of [[a/_any|any]] [[c/_competing|competing]] team [[d/_during|during]] a [[g/_game|game]].**
 	- _Example: He caught an elbow going after a loose ball._
 - **Not [[c/_costive|costive]]; [[h/_having|having]] [[l/_lax|lax]] [[b/_bowels|bowels]].**
 ---

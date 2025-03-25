@@ -1,7 +1,7 @@
 # Autocrats
 ---
 #noun
-- **An [[a/_absolute|absolute]] ruler with [[i/_infinite|infinite]] power.**
+- **An [[a/_absolute|absolute]] ruler with [[i/_infinite|infinite]] [[p/_power|power]].**
 - **A title [[b/_borne|borne]] by some such [[m/_monarchs|monarchs]], as in [[b/_byzantium|Byzantium]] and tsarist Russia.**
 ---
 ### Synonyms

@@ -1,16 +1,16 @@
 # Banter
 ---
 #noun
-- **Sharp, [[g/_good|good]]-[[h/_humoured|humoured]], playful, typically spontaneous [[c/_conversation|conversation]].**
+- **Sharp, [[g/_good|good]]-[[h/_humoured|humoured]], [[p/_playful|playful]], typically spontaneous [[c/_conversation|conversation]].**
 ---
 ### Synonyms
 - [[p/_pleasantry|pleasantry]], [[r/_raillery|raillery]]
 #verb
-- **To [[e/_engage|engage]] in [[b/_banter|banter]] or playful [[c/_conversation|conversation]].**
-- **To play or [[d/_do|do]] something [[a/_amusing|amusing]].**
+- **To [[e/_engage|engage]] in [[b/_banter|banter]] or [[p/_playful|playful]] [[c/_conversation|conversation]].**
+- **To [[p/_play|play]] or [[d/_do|do]] something [[a/_amusing|amusing]].**
 - **To tease (someone) [[m/_mildly|mildly]].**
 - **To [[j/_joke|joke]] [[a/_about|about]]; to ridicule (a trait, [[h/_habit|habit]], [[e/_etc|etc]].).**
-- **To [[d/_delude|delude]] or trick; to play a prank upon.**
+- **To [[d/_delude|delude]] or trick; to [[p/_play|play]] a [[p/_prank|prank]] upon.**
 - **(Southern and Western) To [[c/_challenge|challenge]] to a [[m/_match|match]].**
 ---
 ### Synonyms

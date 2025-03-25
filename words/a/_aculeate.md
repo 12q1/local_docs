@@ -5,7 +5,7 @@
 ---
 #adjective
 - **[[h/_having|Having]] a sting; sharp [[l/_like|like]] a prickle.**
-- **[[h/_having|Having]] prickles or sharp points.**
+- **[[h/_having|Having]] prickles or sharp [[p/_points|points]].**
 - **[[h/_having|Having]] a stinger; stinging.**
 ---
 ---

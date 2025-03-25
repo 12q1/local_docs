@@ -1,7 +1,7 @@
 # Apropos
 ---
 #adjective
-- **Of an [[a/_appropriate|appropriate]] or pertinent [[n/_nature|nature]].**
+- **Of an [[a/_appropriate|appropriate]] or [[p/_pertinent|pertinent]] [[n/_nature|nature]].**
 - **By the way, [[i/_incidental|incidental]]**
 ---
 ### Synonyms

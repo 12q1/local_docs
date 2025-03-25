@@ -7,7 +7,7 @@
 - **[[m/_money|Money]].**
 - **[[c/_cash|Cash]] register.**
 - **An [[i/_instance|instance]] of winning a [[c/_cash|cash]] prize.**
-- **A place where [[m/_money|money]] is [[k/_kept|kept]], or where it is [[d/_deposited|deposited]] and [[p/_paid|paid]] [[o/_out|out]]; a [[m/_money|money]] [[b/_box|box]].**
+- **A [[p/_place|place]] where [[m/_money|money]] is [[k/_kept|kept]], or where it is [[d/_deposited|deposited]] and [[p/_paid|paid]] [[o/_out|out]]; a [[m/_money|money]] [[b/_box|box]].**
 ---
 #verb
 - **To [[e/_exchange|exchange]] (a [[c/_check|check]]/[[c/_cheque|cheque]]) for [[m/_money|money]] in the [[f/_form|form]] of [[n/_notes|notes]]/[[b/_bills|bills]].**

@@ -3,7 +3,7 @@
 #verb
 - **To [[c/_crowd|crowd]] [[a/_around|around]] (someone), sometimes with [[h/_hostility|hostility]].**
 	- _Example: The fans mobbed a well-dressed couple who resembled their idols._
-- **To [[c/_crowd|crowd]] [[i/_into|into]] or [[a/_around|around]] a place.**
+- **To [[c/_crowd|crowd]] [[i/_into|into]] or [[a/_around|around]] a [[p/_place|place]].**
 	- _Example: The shoppers mobbed the store on the first day of the sale._
 ---
 #verb

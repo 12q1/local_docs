@@ -7,7 +7,7 @@
 	- _Example: Give me a lick of ice cream._
 - **A quick and [[c/_careless|careless]] [[a/_application|application]] of [[a/_anything|anything]], as [[i/_if|if]] by a stroke of the tongue.**
 	- _Example: a lick of paint_
-- **A place where [[a/_animals|animals]] [[l/_lick|lick]] [[m/_minerals|minerals]] from the [[g/_ground|ground]].**
+- **A [[p/_place|place]] where [[a/_animals|animals]] [[l/_lick|lick]] [[m/_minerals|minerals]] from the [[g/_ground|ground]].**
 	- _Example: The birds gathered at the clay lick._
 - **A small watercourse or [[e/_ephemeral|ephemeral]] stream. It ranks [[b/_between|between]] a rill and a stream.**
 	- _Example: We used to play in the lick._
@@ -29,12 +29,12 @@
 - **To [[l/_lap|lap]]; to take in with the tongue.**
 	- _Example: She licked the last of the honey off the spoon before washing it._
 - **To [[b/_beat|beat]] with repeated [[b/_blows|blows]].**
-- **To [[d/_defeat|defeat]] [[d/_decisively|decisively]], particularly in a [[f/_fight|fight]].**
+- **To [[d/_defeat|defeat]] [[d/_decisively|decisively]], [[p/_particularly|particularly]] in a [[f/_fight|fight]].**
 	- _Example: My dad can lick your dad._
 - **To [[o/_overcome|overcome]].**
 	- _Example: I think I can lick this._
-- **To perform [[c/_cunnilingus|cunnilingus]].**
-- **To [[d/_do|do]] [[a/_anything|anything]] partially.**
+- **To [[p/_perform|perform]] [[c/_cunnilingus|cunnilingus]].**
+- **To [[d/_do|do]] [[a/_anything|anything]] [[p/_partially|partially]].**
 - **(of [[f/_flame|flame]], waves [[e/_etc|etc]].) To [[l/_lap|lap]].**
 ---
 ---

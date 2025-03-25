@@ -2,11 +2,11 @@
 ---
 #noun
 - **A [[m/_moot|moot]] [[c/_court|court]].**
-- **A system of [[a/_arbitration|arbitration]] in [[m/_many|many]] [[a/_areas|areas]] of [[a/_africa|Africa]] in which the primary [[g/_goal|goal]] is to settle a [[d/_dispute|dispute]] and reintegrate [[a/_adversaries|adversaries]] [[i/_into|into]] society rather than [[a/_assess|assess]] penalties.**
+- **A system of [[a/_arbitration|arbitration]] in [[m/_many|many]] [[a/_areas|areas]] of [[a/_africa|Africa]] in which the primary [[g/_goal|goal]] is to settle a [[d/_dispute|dispute]] and reintegrate [[a/_adversaries|adversaries]] [[i/_into|into]] society rather than [[a/_assess|assess]] [[p/_penalties|penalties]].**
 - **A [[g/_gathering|gathering]] of Rovers, usually in the [[f/_form|form]] of a [[c/_camp|camp]] [[l/_lasting|lasting]] 2 weeks.**
 - **A social [[g/_gathering|gathering]] of [[p/_pagans|pagans]], [[n/_normally|normally]] [[h/_held|held]] in a public [[h/_house|house]].**
 - **An [[a/_assembly|assembly]] (usually for [[d/_decision|decision]]-[[m/_making|making]] in a [[l/_locality|locality]]).**
-- **A ring for [[g/_gauging|gauging]] wooden pins.**
+- **A ring for [[g/_gauging|gauging]] wooden [[p/_pins|pins]].**
 ---
 #noun
 - **A whisper, or an [[i/_insinuation|insinuation]], [[a/_also|also]] [[g/_gossip|gossip]] or rumors.**
@@ -18,7 +18,7 @@
 - **To [[b/_bring|bring]] up as a subject for [[d/_debate|debate]], to propose.**
 - **To [[d/_discuss|discuss]] or [[d/_debate|debate]].**
 - **To [[m/_make|make]] or [[d/_declare|declare]] [[i/_irrelevant|irrelevant]].**
-- **To [[a/_argue|argue]] or plead in a supposed [[c/_case|case]].**
+- **To [[a/_argue|argue]] or [[p/_plead|plead]] in a supposed [[c/_case|case]].**
 - **To talk or speak.**
 	- _Example: 'Tis no boot to moot again of it._
 - **To say, utter, [[a/_also|also]] [[i/_insinuate|insinuate]].**

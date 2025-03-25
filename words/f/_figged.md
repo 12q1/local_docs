@@ -12,6 +12,6 @@
 - **To [[d/_dress|dress]]; to [[g/_get|get]] [[o/_oneself|oneself]] up a [[c/_certain|certain]] way.**
 ---
 #verb
-- **To [[i/_insert|insert]] a [[g/_ginger|ginger]] root [[i/_into|into]] the [[a/_anus|anus]], vagina or urethra of: to perform [[f/_figging|figging]] upon.**
+- **To [[i/_insert|insert]] a [[g/_ginger|ginger]] root [[i/_into|into]] the [[a/_anus|anus]], vagina or urethra of: to [[p/_perform|perform]] [[f/_figging|figging]] upon.**
 ---
 ---

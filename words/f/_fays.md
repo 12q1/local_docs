@@ -6,6 +6,6 @@
 ### Synonyms
 - [[f/_fairy|fairy]]
 #noun
-- **A white person.**
+- **A white [[p/_person|person]].**
 ---
 ---

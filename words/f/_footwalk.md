@@ -1,7 +1,7 @@
 # Footwalk
 ---
 #noun
-- **A pedestrian walkway.**
+- **A [[p/_pedestrian|pedestrian]] walkway.**
 ---
 ### Synonyms
 - [[f/_footway|footway]]

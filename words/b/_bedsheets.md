@@ -1,6 +1,6 @@
 # Bedsheets
 ---
 #noun
-- **A sheet, a piece of [[c/_cloth|cloth]] [[c/_cut|cut]] and [[f/_finished|finished]] as bedlinen.**
+- **A sheet, a [[p/_piece|piece]] of [[c/_cloth|cloth]] [[c/_cut|cut]] and [[f/_finished|finished]] as bedlinen.**
 ---
 ---

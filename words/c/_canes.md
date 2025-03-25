@@ -1,8 +1,8 @@
 # Canes
 ---
 #noun
-- **A plant with simple stems, [[l/_like|like]] [[b/_bamboo|bamboo]] or sugar [[c/_cane|cane]], or the stem thereof**
-- **The stem of such a plant [[a/_adapted|adapted]] for use as a tool**
+- **A [[p/_plant|plant]] with simple stems, [[l/_like|like]] [[b/_bamboo|bamboo]] or sugar [[c/_cane|cane]], or the stem thereof**
+- **The stem of such a [[p/_plant|plant]] [[a/_adapted|adapted]] for use as a tool**
 - **A rod-shaped tool or [[d/_device|device]], somewhat [[l/_like|like]] a [[c/_cane|cane]]**
 - **Split rattan, as used in wickerwork, [[b/_basketry|basketry]] and the [[l/_like|like]]**
 - **A [[l/_local|local]] [[e/_european|European]] [[m/_measure|measure]] of [[l/_length|length]]; the [[c/_canna|canna]].**

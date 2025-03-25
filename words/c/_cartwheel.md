@@ -7,7 +7,7 @@
 - **A silver [[d/_dollar|dollar]] of the [[l/_larger|larger]] size produced [[b/_before|before]] 1979.**
 ---
 #verb
-- **To perform the [[g/_gymnastics|gymnastics]] [[f/_feat|feat]] of a [[c/_cartwheel|cartwheel]].**
+- **To [[p/_perform|perform]] the [[g/_gymnastics|gymnastics]] [[f/_feat|feat]] of a [[c/_cartwheel|cartwheel]].**
 - **To [[f/_flip|flip]] [[e/_end|end]] [[o/_over|over]] [[e/_end|end]]: [[n/_normally|normally]] said of a [[c/_crashing|crashing]] vehicle or [[a/_aircraft|aircraft]].**
 	- _Example: The race car hit a bump and cartwheeled over the finish line._
 ---

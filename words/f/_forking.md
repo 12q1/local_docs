@@ -21,7 +21,7 @@
 - **To [[h/_have|have]] sexual [[i/_intercourse|intercourse]], to [[c/_copulate|copulate]].**
 	- _Example: Fighting for peace is like fucking for virginity._
 - **To [[h/_have|have]] sexual [[i/_intercourse|intercourse]] with.**
-- **To [[i/_insert|insert]] [[o/_one|one]]’s penis, a [[d/_dildo|dildo]] or [[o/_other|other]] phallic [[o/_object|object]], [[i/_into|into]] a specified [[o/_orifice|orifice]] or [[c/_cleft|cleft]].**
+- **To [[i/_insert|insert]] [[o/_one|one]]’s [[p/_penis|penis]], a [[d/_dildo|dildo]] or [[o/_other|other]] [[p/_phallic|phallic]] [[o/_object|object]], [[i/_into|into]] a specified [[o/_orifice|orifice]] or [[c/_cleft|cleft]].**
 - **To put in an [[e/_extremely|extremely]] [[d/_difficult|difficult]] or [[i/_impossible|impossible]] situation.**
 	- _Example: I'm afraid they're gonna fuck you on this one._
 - **To [[d/_defraud|defraud]], [[d/_deface|deface]] or [[o/_otherwise|otherwise]] treat [[b/_badly|badly]].**

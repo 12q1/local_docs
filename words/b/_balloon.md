@@ -2,17 +2,17 @@
 ---
 #noun
 - **An [[i/_inflatable|inflatable]] [[b/_buoyant|buoyant]] [[o/_object|object]], [[o/_often|often]] (but not [[n/_necessarily|necessarily]]) round and [[f/_flexible|flexible]].**
-- **Such an [[o/_object|object]] as a [[c/_child|child]]’s toy or party [[d/_decoration|decoration]].**
-- **Such an [[o/_object|object]] [[d/_designed|designed]] to transport people through the [[a/_air|air]].**
-- **A sac [[i/_inserted|inserted]] [[i/_into|into]] part of the [[b/_body|body]] for therapeutic reasons; such as [[a/_angioplasty|angioplasty]].**
+- **Such an [[o/_object|object]] as a [[c/_child|child]]’s toy or [[p/_party|party]] [[d/_decoration|decoration]].**
+- **Such an [[o/_object|object]] [[d/_designed|designed]] to transport [[p/_people|people]] through the [[a/_air|air]].**
+- **A sac [[i/_inserted|inserted]] [[i/_into|into]] [[p/_part|part]] of the [[b/_body|body]] for therapeutic reasons; such as [[a/_angioplasty|angioplasty]].**
 - **A speech [[b/_bubble|bubble]].**
 - **A type of [[g/_glass|glass]] [[c/_cup|cup]], sometimes used for [[b/_brandy|brandy]].**
-- **A [[b/_ball|ball]] or [[g/_globe|globe]] on the top of a pillar, [[c/_church|church]], [[e/_etc|etc]].**
+- **A [[b/_ball|ball]] or [[g/_globe|globe]] on the top of a [[p/_pillar|pillar]], [[c/_church|church]], [[e/_etc|etc]].**
 	- _Example: the balloon of St. Paul's Cathedral in London_
 - **A round vessel, usually with a short [[n/_neck|neck]], to [[h/_hold|hold]] or receive whatever is [[d/_distilled|distilled]]; a [[g/_glass|glass]] vessel of a spherical [[f/_form|form]].**
 - **A [[b/_bomb|bomb]] or shell.**
-- **A [[g/_game|game]] played with a [[l/_large|large]] [[i/_inflated|inflated]] [[b/_ball|ball]].**
-- **([[e/_engraving|engraving]]) The [[o/_outline|outline]] [[e/_enclosing|enclosing]] words represented as [[c/_coming|coming]] from the [[m/_mouth|mouth]] of a pictured [[f/_figure|figure]].**
+- **A [[g/_game|game]] [[p/_played|played]] with a [[l/_large|large]] [[i/_inflated|inflated]] [[b/_ball|ball]].**
+- **([[e/_engraving|engraving]]) The [[o/_outline|outline]] [[e/_enclosing|enclosing]] words represented as [[c/_coming|coming]] from the [[m/_mouth|mouth]] of a [[p/_pictured|pictured]] [[f/_figure|figure]].**
 - **A woman's [[b/_breast|breast]].**
 - **A small [[c/_container|container]] for [[i/_illicit|illicit]] [[d/_drugs|drugs]] [[m/_made|made]] from a [[c/_condom|condom]] or the [[f/_finger|finger]] of a [[l/_latex|latex]] [[g/_glove|glove]], [[e/_etc|etc]].**
 ---

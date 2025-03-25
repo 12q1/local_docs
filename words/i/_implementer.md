@@ -1,6 +1,6 @@
 # Implementer
 ---
 #noun
-- **A person who [[i/_implements|implements]] something.**
+- **A [[p/_person|person]] who [[i/_implements|implements]] something.**
 ---
 ---

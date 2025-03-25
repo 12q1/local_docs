@@ -1,7 +1,7 @@
 # Materialists
 ---
 #noun
-- **Someone who is [[m/_materialistic|materialistic]], [[c/_concerned|concerned]] [[o/_only|only]] with [[m/_material|material]] possessions.**
-- **A [[f/_follower|follower]] or proponent of philosophical [[m/_materialism|materialism]].**
+- **Someone who is [[m/_materialistic|materialistic]], [[c/_concerned|concerned]] [[o/_only|only]] with [[m/_material|material]] [[p/_possessions|possessions]].**
+- **A [[f/_follower|follower]] or proponent of [[p/_philosophical|philosophical]] [[m/_materialism|materialism]].**
 ---
 ---

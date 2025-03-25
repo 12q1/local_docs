@@ -1,6 +1,6 @@
 # Obstructionism
 ---
 #noun
-- **A [[d/_deliberate|deliberate]] policy of [[o/_obstructing|obstructing]] something, [[e/_especially|especially]] a political process or [[b/_body|body]].**
+- **A [[d/_deliberate|deliberate]] [[p/_policy|policy]] of [[o/_obstructing|obstructing]] something, [[e/_especially|especially]] a [[p/_political|political]] process or [[b/_body|body]].**
 ---
 ---

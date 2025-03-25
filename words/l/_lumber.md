@@ -3,8 +3,8 @@
 #noun
 - **[[o/_old|Old]] [[f/_furniture|furniture]] or [[o/_other|other]] [[i/_items|items]] that take up room, or are stored [[a/_away|away]].**
 - **Useless or [[c/_cumbrous|cumbrous]] [[m/_material|material]].**
-- **A pawnbroker's shop, or room for storing [[a/_articles|articles]] put in pawn; [[h/_hence|hence]], a pledge, or pawn.**
-- **Wood sawn [[i/_into|into]] planks or [[o/_otherwise|otherwise]] prepared for sale or use, [[e/_especially|especially]] as a [[b/_building|building]] [[m/_material|material]].**
+- **A [[p/_pawnbroker|pawnbroker]]'s shop, or room for storing [[a/_articles|articles]] put in [[p/_pawn|pawn]]; [[h/_hence|hence]], a [[p/_pledge|pledge]], or [[p/_pawn|pawn]].**
+- **Wood sawn [[i/_into|into]] [[p/_planks|planks]] or [[o/_otherwise|otherwise]] [[p/_prepared|prepared]] for sale or use, [[e/_especially|especially]] as a [[b/_building|building]] [[m/_material|material]].**
 - **A [[b/_baseball|baseball]] [[b/_bat|bat]].**
 ---
 ### Synonyms

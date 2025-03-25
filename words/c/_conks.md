@@ -7,8 +7,8 @@
 - **The semidome of an [[a/_apse|apse]], or the [[a/_apse|apse]] [[i/_itself|itself]].**
 ---
 #noun
-- **A [[m/_machine|machine]] (rather [[l/_like|like]] a rotating pestle and [[m/_mortar|mortar]]) used to refine the [[f/_flavour|flavour]] and texture of [[c/_chocolate|chocolate]] by warming and [[g/_grinding|grinding]].**
-- **A person who [[o/_operates|operates]] such a [[m/_machine|machine]].**
+- **A [[m/_machine|machine]] (rather [[l/_like|like]] a rotating [[p/_pestle|pestle]] and [[m/_mortar|mortar]]) used to refine the [[f/_flavour|flavour]] and texture of [[c/_chocolate|chocolate]] by warming and [[g/_grinding|grinding]].**
+- **A [[p/_person|person]] who [[o/_operates|operates]] such a [[m/_machine|machine]].**
 ---
 ### Synonyms
 - [[c/_conch|conch]], [[c/_conche|conche]]

@@ -1,7 +1,7 @@
 # Favourable
 ---
 #adjective
-- **Pleasing, [[e/_encouraging|encouraging]] or [[a/_approving|approving]].**
+- **[[p/_pleasing|Pleasing]], [[e/_encouraging|encouraging]] or [[a/_approving|approving]].**
 	- _Example: The candidate wearing the business suite made a favourable impression._
 - **Useful or [[h/_helpful|helpful]].**
 	- _Example: We made quick progress, due to favourable winds._

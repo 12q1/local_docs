@@ -1,7 +1,7 @@
 # Overdraw
 ---
 #noun
-- **The process by which, [[d/_during|during]] the rendering of a three-[[d/_dimensional|dimensional]] scene, a pixel is replaced by [[o/_one|one]] that is [[c/_closer|closer]] to the viewpoint, as [[d/_determined|determined]] by their Z [[c/_coordinates|coordinates]].**
+- **The process by which, [[d/_during|during]] the rendering of a three-[[d/_dimensional|dimensional]] scene, a [[p/_pixel|pixel]] is replaced by [[o/_one|one]] that is [[c/_closer|closer]] to the viewpoint, as [[d/_determined|determined]] by their Z [[c/_coordinates|coordinates]].**
 ---
 #verb
 - **To withdraw [[m/_more|more]] [[m/_money|money]] from an [[a/_account|account]] than there is [[c/_credit|credit]]; to [[m/_make|make]] an [[o/_overdraft|overdraft]]**

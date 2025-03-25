@@ -20,7 +20,7 @@
 - **A structure in the Orkney or Shetland [[i/_islands|islands]] or in Scotland [[c/_consisting|consisting]] of a roundhouse surrounded by a [[c/_circular|circular]] wall; a [[b/_broch|broch]].**
 ---
 #verb
-- **To [[c/_cure|cure]], as [[c/_codfish|codfish]], by [[l/_laying|laying]] them, [[a/_after|after]] salting, in a pile in a [[d/_dark|dark]] place, [[c/_covered|covered]] with saltgrass or a similar substance.**
+- **To [[c/_cure|cure]], as [[c/_codfish|codfish]], by [[l/_laying|laying]] them, [[a/_after|after]] salting, in a [[p/_pile|pile]] in a [[d/_dark|dark]] [[p/_place|place]], [[c/_covered|covered]] with saltgrass or a similar substance.**
 ---
 #noun
 - **A [[m/_mound|mound]] or small [[h/_hill|hill]].**

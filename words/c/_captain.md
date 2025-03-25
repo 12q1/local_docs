@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[c/_chief|chief]] or [[l/_leader|leader]].**
-- **The person [[l/_lawfully|lawfully]] in [[c/_command|command]] of a ship or [[o/_other|other]] vessel.**
+- **The [[p/_person|person]] [[l/_lawfully|lawfully]] in [[c/_command|command]] of a ship or [[o/_other|other]] vessel.**
 	- _Example: The captain is the last man to leave a sinking ship._
 - **An [[a/_army|army]] [[o/_officer|officer]] with a rank [[b/_between|between]] the [[m/_most|most]] senior [[g/_grade|grade]] of [[l/_lieutenant|lieutenant]] and [[m/_major|major]].**
 - **A [[n/_naval|naval]] [[o/_officer|officer]] with a rank [[b/_between|between]] [[c/_commander|commander]] and [[c/_commodore|commodore]].**
@@ -12,7 +12,7 @@
 	- _Example: John Henry said to the captain, "A man ain't nothing but a man."_
 - **The [[h/_head|head]] [[b/_boy|boy]] of a school.**
 - **A [[m/_ma|ma]]ître [[d/_d|d]]', a [[h/_headwaiter|headwaiter]].**
-- **An [[h/_honorific|honorific]] title [[g/_given|given]] to a prominent person. See [[c/_colonel|colonel]].**
+- **An [[h/_honorific|honorific]] title [[g/_given|given]] to a prominent [[p/_person|person]]. See [[c/_colonel|colonel]].**
 ---
 ### Synonyms
 - [[m/_master|master]], [[s/_skipper|skipper]], [[f/_foreman|foreman]], [[s/_supervisor|supervisor]], [[C/_CAPT|CAPT]], [[C/_CAPT.|CAPT.]], [[C/_CPT|CPT]], [[C/_Capt|Capt]], [[C/_Capt.|Capt.]], [[p/_pilot|pilot]]

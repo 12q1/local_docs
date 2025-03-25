@@ -1,6 +1,6 @@
 # Noncom
 ---
 #noun
-- **A [[n/_non|non]]-[[c/_commissioned|commissioned]] [[o/_officer|officer]], such as a sergeant ([[a/_army|army]]) or petty [[o/_officer|officer]] ([[n/_navy|navy]]).**
+- **A [[n/_non|non]]-[[c/_commissioned|commissioned]] [[o/_officer|officer]], such as a sergeant ([[a/_army|army]]) or [[p/_petty|petty]] [[o/_officer|officer]] ([[n/_navy|navy]]).**
 ---
 ---

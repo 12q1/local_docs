@@ -1,7 +1,7 @@
 # Implant
 ---
 #noun
-- **[[a/_anything|Anything]] surgically [[i/_implanted|implanted]] in the [[b/_body|body]], such as a tissue [[g/_graft|graft]] or prosthesis, particularly [[b/_breast|breast]] [[i/_implants|implants]].**
+- **[[a/_anything|Anything]] surgically [[i/_implanted|implanted]] in the [[b/_body|body]], such as a tissue [[g/_graft|graft]] or prosthesis, [[p/_particularly|particularly]] [[b/_breast|breast]] [[i/_implants|implants]].**
 - **(travel) A representative of a travel [[c/_company|company]], working within the [[o/_office|office]] of a [[l/_large|large]] [[c/_client|client]] and [[e/_exclusively|exclusively]] [[d/_dealing|dealing]] with that [[c/_client|client]].**
 ---
 #verb

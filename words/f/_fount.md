@@ -2,7 +2,7 @@
 ---
 #noun
 - **Something from which water [[f/_flows|flows]].**
-- **A [[d/_device|device]] from which poultry [[m/_may|may]] [[d/_drink|drink]].**
+- **A [[d/_device|device]] from which [[p/_poultry|poultry]] [[m/_may|may]] [[d/_drink|drink]].**
 - **That from which something [[f/_flows|flows]] or proceeds; a source.**
 	- _Example: He is a real fount of knowledge!_
 ---

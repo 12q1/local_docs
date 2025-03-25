@@ -1,6 +1,6 @@
 # Folksinger
 ---
 #noun
-- **A person who sings [[f/_folk|folk]] songs.**
+- **A [[p/_person|person]] who sings [[f/_folk|folk]] songs.**
 ---
 ---

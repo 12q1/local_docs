@@ -1,6 +1,6 @@
 # Meperidine
 ---
 #noun
-- **The opioid [[a/_analgesic|analgesic]] [[d/_drug|drug]] pethidine ([[i/_inn|INN]]).**
+- **The opioid [[a/_analgesic|analgesic]] [[d/_drug|drug]] [[p/_pethidine|pethidine]] ([[i/_inn|INN]]).**
 ---
 ---

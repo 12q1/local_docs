@@ -1,8 +1,8 @@
 # Discharge
 ---
 #noun
-- **Pus or [[e/_exudate|exudate]] ([[o/_other|other]] than [[b/_blood|blood]]) from a wound or [[o/_orifice|orifice]], usually [[d/_due|due]] to [[i/_infection|infection]] or pathology.**
-- **The [[a/_act|act]] of [[a/_accomplishing|accomplishing]] (an [[o/_obligation|obligation]]) or repaying a [[d/_debt|debt]] [[e/_etc|etc]].; performance.**
+- **Pus or [[e/_exudate|exudate]] ([[o/_other|other]] than [[b/_blood|blood]]) from a wound or [[o/_orifice|orifice]], usually [[d/_due|due]] to [[i/_infection|infection]] or [[p/_pathology|pathology]].**
+- **The [[a/_act|act]] of [[a/_accomplishing|accomplishing]] (an [[o/_obligation|obligation]]) or repaying a [[d/_debt|debt]] [[e/_etc|etc]].; [[p/_performance|performance]].**
 - **The [[a/_act|act]] of [[e/_expelling|expelling]] or [[l/_letting|letting]] [[g/_go|go]].**
 - **The [[a/_act|act]] of [[f/_firing|firing]] a projectile, [[e/_especially|especially]] from a [[f/_firearm|firearm]].**
 - **The process of unloading something.**
@@ -10,7 +10,7 @@
 - **The [[a/_act|act]] of releasing an [[a/_accumulated|accumulated]] [[c/_charge|charge]].**
 - **The [[a/_act|act]] of releasing an [[i/_inpatient|inpatient]] from [[h/_hospital|hospital]].**
 - **The [[a/_act|act]] of releasing a [[m/_member|member]] of the [[a/_armed|armed]] [[f/_forces|forces]] from service.**
-- **The volume of water transported by a river in a [[c/_certain|certain]] [[a/_amount|amount]] of time, usually in units of m3/s ([[c/_cubic|cubic]] [[m/_meters|meters]] per second).**
+- **The volume of water transported by a river in a [[c/_certain|certain]] [[a/_amount|amount]] of time, usually in units of m3/s ([[c/_cubic|cubic]] [[m/_meters|meters]] [[p/_per|per]] second).**
 ---
 ### Synonyms
 - [[f/_firing|firing]]

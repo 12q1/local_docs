@@ -7,7 +7,7 @@
 	- _Example: He gave me a hint that my breath smelt._
 - **A small, [[b/_barely|barely]] [[d/_detectable|detectable]] [[a/_amount|amount]] of.**
 	- _Example: I could taste a hint of lemon in the wine._
-- **[[i/_information|Information]] in a [[c/_computer|computer]]-[[b/_based|based]] [[f/_font|font]] that suggests [[h/_how|how]] the [[o/_outlines|outlines]] of the [[f/_font|font]]'s [[g/_glyphs|glyphs]] should be [[d/_distorted|distorted]] in [[o/_order|order]] to produce, at specific sizes, a visually [[a/_appealing|appealing]] pixel-[[b/_based|based]] rendering. [[a/_also|Also]] [[k/_known|known]] as [[h/_hinting|hinting]].**
+- **[[i/_information|Information]] in a [[c/_computer|computer]]-[[b/_based|based]] [[f/_font|font]] that suggests [[h/_how|how]] the [[o/_outlines|outlines]] of the [[f/_font|font]]'s [[g/_glyphs|glyphs]] should be [[d/_distorted|distorted]] in [[o/_order|order]] to produce, at specific sizes, a visually [[a/_appealing|appealing]] [[p/_pixel|pixel]]-[[b/_based|based]] rendering. [[a/_also|Also]] [[k/_known|known]] as [[h/_hinting|hinting]].**
 	- _Example: This font does not scale well; at small point sizes it has no hinting at all, and the hints that it has for the 10- and 12-point letter 'g' still need work._
 - **An [[o/_opportunity|opportunity]]; [[o/_occasion|occasion]]; [[f/_fit|fit]] time.**
 ---

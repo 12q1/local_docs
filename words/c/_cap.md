@@ -1,7 +1,7 @@
 # Cap
 ---
 #noun
-- **A [[c/_close|close]]-[[f/_fitting|fitting]] [[h/_hat|hat]], [[e/_either|either]] [[b/_brimless|brimless]] or peaked.**
+- **A [[c/_close|close]]-[[f/_fitting|fitting]] [[h/_hat|hat]], [[e/_either|either]] [[b/_brimless|brimless]] or [[p/_peaked|peaked]].**
 	- _Example: The children were all wearing caps to protect them from the sun._
 - **A special [[h/_hat|hat]] to [[i/_indicate|indicate]] rank, [[o/_occupation|occupation]], [[e/_etc|etc]].**
 - **An [[a/_academic|academic]] [[m/_mortarboard|mortarboard]].**
@@ -13,23 +13,23 @@
 	- _Example: There was snow on the cap of the mountain._
 - **An [[a/_artificial|artificial]] upper [[l/_limit|limit]] or [[c/_ceiling|ceiling]].**
 	- _Example: We should put a cap on the salaries, to keep them under control._
-- **The top part of a [[m/_mushroom|mushroom]].**
-- **(toy) A small [[a/_amount|amount]] of percussive [[e/_explosive|explosive]] in a paper strip or plastic [[c/_cup|cup]] for use in a toy [[g/_gun|gun]].**
+- **The top [[p/_part|part]] of a [[m/_mushroom|mushroom]].**
+- **(toy) A small [[a/_amount|amount]] of [[p/_percussive|percussive]] [[e/_explosive|explosive]] in a [[p/_paper|paper]] strip or [[p/_plastic|plastic]] [[c/_cup|cup]] for use in a toy [[g/_gun|gun]].**
 	- _Example: Billy spent all morning firing caps with his friends, re-enacting storming the beach at Normandy._
 - **A small [[e/_explosive|explosive]] [[d/_device|device]] used to [[d/_detonate|detonate]] a [[l/_larger|larger]] [[c/_charge|charge]] of [[e/_explosives|explosives]].**
 	- _Example: He wired the cap to the bundle of dynamite, then detonated it remotely._
 - **A [[b/_bullet|bullet]] used to shoot someone.**
 - **An [[i/_international|international]] [[a/_appearance|appearance]].**
 	- _Example: Rio Ferdinand won his 50th cap for England in a game against Sweden._
-- **The top, or uppermost part; the [[c/_chief|chief]].**
+- **The top, or uppermost [[p/_part|part]]; the [[c/_chief|chief]].**
 - **A respectful uncovering of the [[h/_head|head]].**
 - **The whole top of the [[h/_head|head]] of a [[b/_bird|bird]] from the [[b/_base|base]] of the [[b/_bill|bill]] to the [[n/_nape|nape]] of the [[n/_neck|neck]].**
-- **The uppermost of [[a/_any|any]] [[a/_assemblage|assemblage]] of parts.**
+- **The uppermost of [[a/_any|any]] [[a/_assemblage|assemblage]] of [[p/_parts|parts]].**
 	- _Example: the cap of column, door, etc.; a capital, coping, cornice, lintel, or plate_
 - **Something [[c/_covering|covering]] the top or [[e/_end|end]] of a thing for protection or [[o/_ornament|ornament]].**
 - **A [[c/_collar|collar]] of [[i/_iron|iron]] or wood used in [[j/_joining|joining]] spars, as the [[m/_mast|mast]] and the topmast, the [[b/_bowsprit|bowsprit]] and the [[j/_jib|jib]] [[b/_boom|boom]]; [[a/_also|also]], a [[c/_covering|covering]] of tarred [[c/_canvas|canvas]] at the [[e/_end|end]] of a rope.**
-- **A portion of a spherical or [[o/_other|other]] [[c/_convex|convex]] surface.**
-- **A [[l/_large|large]] size of writing paper.**
+- **A [[p/_portion|portion]] of a spherical or [[o/_other|other]] [[c/_convex|convex]] surface.**
+- **A [[l/_large|large]] size of writing [[p/_paper|paper]].**
 	- _Example: flat cap; foolscap; legal cap_
 - **A [[l/_lie|lie]] or [[e/_exaggeration|exaggeration]].**
 	- _Example: no cap_
@@ -45,10 +45,10 @@
 	- _Example: cap wages._
 - **To [[m/_make|make]] something [[e/_even|even]] [[m/_more|more]] wonderful at the [[e/_end|end]].**
 	- _Example: That really capped my day._
-- **To select a player to play for a specified side.**
+- **To select a [[p/_player|player]] to [[p/_play|play]] for a specified side.**
 - **To shoot (someone) with a [[f/_firearm|firearm]].**
 	- _Example: In a school shooting, where some kid caps a bunch of other kids, where did he get the weapon? From a family member, probably their gun cabinet._
-- **To select to play for the [[n/_national|national]] team.**
+- **To select to [[p/_play|play]] for the [[n/_national|national]] team.**
 	- _Example: Peter Shilton is the most capped English footballer._
 - **To salute by uncovering the [[h/_head|head]] respectfully.**
 - **To [[d/_deprive|deprive]] of a [[c/_cap|cap]].**

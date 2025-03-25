@@ -1,0 +1,10 @@
+# Pregnancy
+---
+#noun
+- **The [[c/_condition|condition]] of [[b/_being|being]] [[p/_pregnant|pregnant]].**
+- **The [[p/_period|period]] of time this [[c/_condition|condition]] prevails.**
+- **The progression of stages from [[c/_conception|conception]] to [[b/_birth|birth]].**
+---
+### Synonyms
+- [[g/_gestation|gestation]], [[g/_gravidity|gravidity]]
+---

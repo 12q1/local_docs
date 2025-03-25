@@ -1,7 +1,7 @@
 # Haul
 ---
 #noun
-- **An [[a/_act|act]] of [[h/_hauling|hauling]] or pulling, particularly with [[f/_force|force]]; a (violent) pull or tug.**
+- **An [[a/_act|act]] of [[h/_hauling|hauling]] or pulling, [[p/_particularly|particularly]] with [[f/_force|force]]; a (violent) pull or tug.**
 - **The [[d/_distance|distance]] [[o/_over|over]] which something is [[h/_hauled|hauled]] or transported, [[e/_especially|especially]] [[i/_if|if]] [[l/_long|long]].**
 	- _Example: Getting to his place was a real haul._
 - **An [[a/_amount|amount]] of something that [[h/_has|has]] [[b/_been|been]] taken, [[e/_especially|especially]] of [[f/_fish|fish]], [[i/_illegal|illegal]] [[l/_loot|loot]], or [[i/_items|items]] purchased on a shopping trip.**

@@ -12,6 +12,6 @@
 - **To [[b/_brawl|brawl]].**
 ---
 #noun
-- **A [[f/_food|food]] prepared by [[b/_broiling|broiling]].**
+- **A [[f/_food|food]] [[p/_prepared|prepared]] by [[b/_broiling|broiling]].**
 ---
 ---

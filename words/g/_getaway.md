@@ -8,7 +8,7 @@
 ### Synonyms
 - [[l/_leave|leave]]
 #adjective
-- **Pertaining to an [[e/_escape|escape]], as in a vehicle or plans.**
+- **[[p/_pertaining|Pertaining]] to an [[e/_escape|escape]], as in a vehicle or [[p/_plans|plans]].**
 	- _Example: They'd been discussing their getaway plans for weeks._
 ---
 ---

@@ -6,7 +6,7 @@
 	- _Example: The old man bowed his hoary head in acquiescence._
 - **Of a [[p/_pale|pale]] silvery [[g/_grey|grey]].**
 - **[[c/_covered|Covered]] with short, [[d/_dense|dense]], [[g/_greyish|greyish]] white [[h/_hairs|hairs]]; [[c/_canescent|canescent]].**
-- **Remote in time past.**
+- **Remote in time [[p/_past|past]].**
 - **[[m/_moldy|Moldy]]; [[m/_mossy|mossy]]; [[m/_musty|musty]].**
 - **[[o/_old|Old]] or [[o/_old|old]]-[[f/_fashioned|fashioned]].**
 ---

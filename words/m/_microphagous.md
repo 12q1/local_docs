@@ -1,6 +1,6 @@
 # Microphagous
 ---
 #adjective
-- **[[f/_feeding|Feeding]] on small particles.**
+- **[[f/_feeding|Feeding]] on small [[p/_particles|particles]].**
 ---
 ---

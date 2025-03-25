@@ -1,0 +1,29 @@
+# Popped
+---
+#verb
+- **To [[m/_make|make]] a [[p/_pop|pop]], or sharp, quick sound.**
+	- _Example: The muskets popped away on all sides._
+- **To [[b/_burst|burst]] (something) with a [[p/_popping|popping]] sound.**
+	- _Example: The boy with the pin popped the balloon._
+- **(with in, [[o/_out|out]], upon, [[e/_etc|etc]].) To [[e/_enter|enter]], or [[i/_issue|issue]] [[f/_forth|forth]], with a quick, sudden [[m/_movement|movement]]; to [[m/_move|move]] from [[p/_place|place]] to [[p/_place|place]] suddenly; to [[d/_dart|dart]].**
+	- _Example: A rabbit popped out of the hole._
+- **To [[p/_place|place]] (something) (somewhere); to [[m/_move|move]] or [[p/_position|position]] (something) with a short [[m/_movement|movement]].**
+	- _Example: He popped his head around the door._
+- **([[o/_often|often]] with [[o/_over|over]], round, [[a/_along|along]], [[e/_etc|etc]].) To [[m/_make|make]] a short trip or visit.**
+	- _Example: I'll pop by your place later today._
+- **To stand [[o/_out|out]]; to be [[d/_distinctive|distinctive]] to the senses.**
+	- _Example: This colour really pops._
+- **To [[h/_hit|hit]] (something or someone).**
+	- _Example: He popped me on the nose._
+- **To shoot (usually somebody) with a [[f/_firearm|firearm]].**
+- **To [[e/_ejaculate|ejaculate]].**
+- **To remove (a [[d/_data|data]] [[i/_item|item]]) from the top of a stack.**
+- **To remove a [[d/_data|data]] [[i/_item|item]] from the top of (a stack).**
+- **To [[p/_pawn|pawn]] (something) (to raise [[m/_money|money]]).**
+	- _Example: I had to pop my watch to see me through until pay-day._
+- **To swallow or [[c/_consume|consume]] ([[e/_especially|especially]] a tablet of a [[d/_drug|drug]], sometimes [[e/_extended|extended]] to [[o/_other|other]] small [[i/_items|items]] such as sweets or [[c/_candy|candy]]).**
+- **To [[p/_perform|perform]] (a [[m/_move|move]] or stunt) while riding a [[b/_board|board]] or vehicle.**
+- **(of the [[e/_ears|ears]]) To undergo [[e/_equalization|equalization]] of [[p/_pressure|pressure]] when the [[e/_eustachian|Eustachian]] tubes [[o/_open|open]].**
+	- _Example: My ears popped as the aeroplane began to ascend._
+---
+---

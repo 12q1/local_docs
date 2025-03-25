@@ -1,6 +1,6 @@
 # Aeroelastic
 ---
 #adjective
-- **Of or pertaining to [[a/_aeroelasticity|aeroelasticity]]**
+- **Of or [[p/_pertaining|pertaining]] to [[a/_aeroelasticity|aeroelasticity]]**
 ---
 ---

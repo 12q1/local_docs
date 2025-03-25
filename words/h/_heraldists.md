@@ -1,6 +1,6 @@
 # Heraldists
 ---
 #noun
-- **An [[e/_expert|expert]] in or practitioner of [[h/_heraldry|heraldry]].**
+- **An [[e/_expert|expert]] in or [[p/_practitioner|practitioner]] of [[h/_heraldry|heraldry]].**
 ---
 ---

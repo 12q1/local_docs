@@ -1,6 +1,6 @@
 # Flagellar
 ---
 #adjective
-- **Of or pertaining to a [[f/_flagellum|flagellum]]**
+- **Of or [[p/_pertaining|pertaining]] to a [[f/_flagellum|flagellum]]**
 ---
 ---

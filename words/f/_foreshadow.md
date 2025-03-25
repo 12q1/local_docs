@@ -1,6 +1,6 @@
 # Foreshadow
 ---
 #verb
-- **To presage, or suggest something in [[a/_advance|advance]].**
+- **To [[p/_presage|presage]], or suggest something in [[a/_advance|advance]].**
 ---
 ---

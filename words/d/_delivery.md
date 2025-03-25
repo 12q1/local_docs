@@ -7,9 +7,9 @@
 	- _Example: Your delivery is on the table._
 - **The [[a/_act|act]] of [[g/_giving|giving]] [[b/_birth|birth]]**
 	- _Example: The delivery was painful._
-- **A pitching [[m/_motion|motion]].**
+- **A [[p/_pitching|pitching]] [[m/_motion|motion]].**
 	- _Example: His delivery has a catch in it._
-- **A thrown pitch.**
+- **A thrown [[p/_pitch|pitch]].**
 	- _Example: Here is the delivery; ... strike three!_
 - **The [[m/_manner|manner]] of speaking.**
 	- _Example: The actor's delivery was flawless._

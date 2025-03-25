@@ -5,8 +5,8 @@
 - **A sausage of the type used as a [[g/_general|general]] [[i/_ingredient|ingredient]] in this sandwich.**
 - **A show-[[o/_off|off]] or [[d/_daredevil|daredevil]], [[e/_especially|especially]] in such sports as surfing, skateboarding, or skiing.**
 - **A [[b/_battered|battered]], [[d/_deep|deep]]-[[f/_fried|fried]] sausage or saveloy on a stick.**
-- **The penis.**
-- **A sexually suggestive physical [[g/_gesture|gesture]] [[i/_involving|involving]] [[h/_hip|hip]] [[m/_movement|movement]].**
+- **The [[p/_penis|penis]].**
+- **A sexually suggestive [[p/_physical|physical]] [[g/_gesture|gesture]] [[i/_involving|involving]] [[h/_hip|hip]] [[m/_movement|movement]].**
 ---
 #verb
 - **To show [[o/_off|off]], [[e/_especially|especially]] in surfing and [[o/_other|other]] sports.**

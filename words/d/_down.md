@@ -5,7 +5,7 @@
 	- _Example: I love almost everything about my job. The only down is that I can't take Saturdays off._
 - **A [[g/_grudge|grudge]] (on someone).**
 - **An [[a/_act|act]] of swallowing an [[e/_entire|entire]] [[d/_drink|drink]] at [[o/_once|once]].**
-- **A single play, from the time the [[b/_ball|ball]] is snapped (the start) to the time the whistle is [[b/_blown|blown]] (the [[e/_end|end]]) when the [[b/_ball|ball]] is [[d/_down|down]], or is [[d/_downed|downed]].**
+- **A single [[p/_play|play]], from the time the [[b/_ball|ball]] is snapped (the start) to the time the whistle is [[b/_blown|blown]] (the [[e/_end|end]]) when the [[b/_ball|ball]] is [[d/_down|down]], or is [[d/_downed|downed]].**
 	- _Example: I bet after the third down, the kicker will replace the quarterback on the field._
 - **([[c/_crosswords|crosswords]]) A [[c/_clue|clue]] whose solution runs vertically in the [[g/_grid|grid]].**
 	- _Example: I haven't solved 12 or 13 across, but I've got most of the downs._
@@ -23,9 +23,9 @@
 - **To [[g/_go|go]] or [[c/_come|come]] [[d/_down|down]]; to [[d/_descend|descend]].**
 - **To [[d/_drink|drink]] or swallow, [[e/_especially|especially]] without stopping [[b/_before|before]] the vessel [[c/_containing|containing]] the [[l/_liquid|liquid]] is [[e/_empty|empty]].**
 	- _Example: He downed an ale and ordered another._
-- **To render (the [[b/_ball|ball]]) [[d/_dead|dead]], typically by touching the [[g/_ground|ground]] while in possession.**
+- **To render (the [[b/_ball|ball]]) [[d/_dead|dead]], typically by touching the [[g/_ground|ground]] while in [[p/_possession|possession]].**
 	- _Example: He downed it at the seven-yard line._
-- **(pocket [[b/_billiards|billiards]]) To sink (a [[b/_ball|ball]]) [[i/_into|into]] a [[h/_hole|hole]] or pocket.**
+- **([[p/_pocket|pocket]] [[b/_billiards|billiards]]) To sink (a [[b/_ball|ball]]) [[i/_into|into]] a [[h/_hole|hole]] or [[p/_pocket|pocket]].**
 	- _Example: He downed two balls on the break._
 ---
 #adjective
@@ -47,13 +47,13 @@
 	- _Example: The system is down._
 - **[[f/_finished|Finished]] (of a task); [[d/_defeated|defeated]] or [[d/_dealt|dealt]] with (of an [[o/_opponent|opponent]] or [[o/_obstacle|obstacle]]); [[e/_elapsed|elapsed]] (of time). [[o/_often|Often]] [[c/_coupled|coupled]] with to [[g/_go|go]] (remaining).**
 	- _Example: Ten minutes down and nothing's happened yet._
-- **(police, of a person) Wounded and unable to [[m/_move|move]] [[n/_normally|normally]], or [[k/_killed|killed]].**
+- **([[p/_police|police]], of a [[p/_person|person]]) Wounded and unable to [[m/_move|move]] [[n/_normally|normally]], or [[k/_killed|killed]].**
 	- _Example: There are three soldiers down and one walking wounded._
 - **(of an [[a/_aircraft|aircraft]]) [[m/_mechanically|Mechanically]] [[f/_failed|failed]], [[c/_collided|collided]], shot [[d/_down|down]], or [[o/_otherwise|otherwise]] suddenly unable to [[f/_fly|fly]].**
 	- _Example: We have a chopper down near the river._
-- **Thoroughly practiced, [[l/_learned|learned]] or memorised; [[m/_mastered|mastered]]. ([[c/_compare|Compare]] [[d/_down|down]] pat.)**
+- **Thoroughly [[p/_practiced|practiced]], [[l/_learned|learned]] or memorised; [[m/_mastered|mastered]]. ([[c/_compare|Compare]] [[d/_down|down]] [[p/_pat|pat]].)**
 	- _Example: It's two weeks until opening night and our lines are still not down yet._
-- **[[d/_downright|Downright]]; [[a/_absolute|absolute]]; positive.**
+- **[[d/_downright|Downright]]; [[a/_absolute|absolute]]; [[p/_positive|positive]].**
 - **[[a/_accepted|Accepted]] or respected, [[e/_especially|especially]] in the [[b/_black|black]] or thug [[c/_community|community]].**
 	- _Example: What you mean, 'No'? Man, I thought you was down._
 - **[[f/_facing|Facing]] [[d/_downwards|downwards]].**
@@ -61,20 +61,20 @@
 ### Antonyms
 - [[u/_up|up]], [[u/_up|up]], [[u/_up|up]], [[u/_up|up]]
 #adverb
-- **From a [[h/_higher|higher]] position to a [[l/_lower|lower]] [[o/_one|one]]; [[d/_downwards|downwards]].**
+- **From a [[h/_higher|higher]] [[p/_position|position]] to a [[l/_lower|lower]] [[o/_one|one]]; [[d/_downwards|downwards]].**
 	- _Example: The cat jumped down from the table._
-- **At a [[l/_lower|lower]] or [[f/_further|further]] place or position [[a/_along|along]] a set path.**
+- **At a [[l/_lower|lower]] or [[f/_further|further]] [[p/_place|place]] or [[p/_position|position]] [[a/_along|along]] a set [[p/_path|path]].**
 	- _Example: His place is farther down the road._
 - **South (as south is at the [[b/_bottom|bottom]] of typical [[m/_maps|maps]]).**
 	- _Example: I went down to Miami for a conference._
 - **[[a/_away|Away]] from the [[c/_city|city]] (regardless of [[d/_direction|direction]]).**
 	- _Example: He went down to Cavan._
-- **At or towards [[a/_any|any]] place that is visualised as '[[d/_down|down]]' by virtue of [[l/_local|local]] [[f/_features|features]] or [[l/_local|local]] [[c/_convention|convention]], or [[a/_arbitrarily|arbitrarily]], [[i/_irrespective|irrespective]] of [[d/_direction|direction]] or [[e/_elevation|elevation]] [[c/_change|change]].**
+- **At or towards [[a/_any|any]] [[p/_place|place]] that is visualised as '[[d/_down|down]]' by virtue of [[l/_local|local]] [[f/_features|features]] or [[l/_local|local]] [[c/_convention|convention]], or [[a/_arbitrarily|arbitrarily]], [[i/_irrespective|irrespective]] of [[d/_direction|direction]] or [[e/_elevation|elevation]] [[c/_change|change]].**
 	- _Example: She lives down by the park._
 - **Towards the [[o/_opponent|opponent]]'s side (in [[b/_ball|ball]]-sports).**
 - **[[i/_into|Into]] a state of [[n/_non|non]]-[[o/_operation|operation]].**
 	- _Example: The computer has been shut down._
-- **To a subordinate or [[l/_less|less]] prestigious position or rank.**
+- **To a subordinate or [[l/_less|less]] [[p/_prestigious|prestigious]] [[p/_position|position]] or rank.**
 	- _Example: After the incident, Kelly went down to Second Lieutenant._
 - **In the [[d/_direction|direction]] [[l/_leading|leading]] [[a/_away|away]] from the principal terminus, [[a/_away|away]] from [[m/_milepost|milepost]] zero.**
 - **(sentence substitute) [[g/_get|Get]] [[d/_down|down]].**
@@ -105,7 +105,7 @@
 	- _Example: We sailed down the eastern seaboard._
 - **From [[o/_one|one]] [[e/_end|end]] to [[a/_another|another]] of (in [[a/_any|any]] [[d/_direction|direction]]); [[a/_along|along]].**
 	- _Example: The bus went down the street._
-- **At (a [[g/_given|given]] place that is seen as removed from [[o/_one|one]]'s present [[l/_location|location]] or [[o/_other|other]] point of reference).**
+- **At (a [[g/_given|given]] [[p/_place|place]] that is seen as removed from [[o/_one|one]]'s [[p/_present|present]] [[l/_location|location]] or [[o/_other|other]] [[p/_point|point]] of reference).**
 	- _Example: I'll see you later down the pub._
 ---
 ### Antonyms

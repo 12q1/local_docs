@@ -1,0 +1,12 @@
+# Passivity
+---
+#noun
+- **The state of [[b/_being|being]] [[p/_passive|passive]].**
+- **Submissiveness.**
+- **A [[l/_lack|lack]] of [[i/_initiative|initiative]].**
+---
+### Synonyms
+- [[p/_passiveness|passiveness]]
+### Antonyms
+- [[a/_activity|activity]]
+---

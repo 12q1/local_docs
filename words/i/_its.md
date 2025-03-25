@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[o/_one|One]] who is [[n/_neither|neither]] a [[h/_he|he]] [[n/_nor|nor]] a she; a [[c/_creature|creature]]; a [[d/_dehumanized|dehumanized]] [[b/_being|being]].**
-- **The person who [[c/_chases|chases]] and tries to [[c/_catch|catch]] the [[o/_other|other]] players in the playground [[g/_game|game]] of tag.**
+- **The [[p/_person|person]] who [[c/_chases|chases]] and tries to [[c/_catch|catch]] the [[o/_other|other]] [[p/_players|players]] in the [[p/_playground|playground]] [[g/_game|game]] of tag.**
 	- _Example: In the next game, Adam and Tom will be it…_
 - **The [[g/_game|game]] of tag.**
 	- _Example: Let's play it at breaktime._

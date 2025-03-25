@@ -6,6 +6,6 @@
 ### Synonyms
 - [[h/_hair-slide|hair-slide]], [[h/_hairclip|hairclip]], [[h/_hairslide|hairslide]]
 #noun
-- **The [[l/_lower|lower]] part of the [[e/_epimeron|epimeron]].**
+- **The [[l/_lower|lower]] [[p/_part|part]] of the [[e/_epimeron|epimeron]].**
 ---
 ---

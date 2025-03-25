@@ -6,10 +6,10 @@
 ### Synonyms
 - [[h/_hamstring|hamstring]], [[h/_hough|hough]], [[h/_hox|hox]]
 #verb
-- **To [[l/_leave|leave]] with a pawnbroker as security for a [[l/_loan|loan]].**
+- **To [[l/_leave|leave]] with a [[p/_pawnbroker|pawnbroker]] as security for a [[l/_loan|loan]].**
 ---
 #verb
-- **To [[b/_bother|bother]]; to pester; to [[a/_annoy|annoy]] [[i/_incessantly|incessantly]]**
+- **To [[b/_bother|bother]]; to [[p/_pester|pester]]; to [[a/_annoy|annoy]] [[i/_incessantly|incessantly]]**
 ---
 #adjective
 - **(in [[c/_combination|combination]]) [[h/_having|Having]] a specified [[k/_kind|kind]] of [[h/_hock|hock]].**

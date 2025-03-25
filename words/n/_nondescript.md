@@ -2,8 +2,8 @@
 ---
 #noun
 - **A species or [[o/_other|other]] type of [[c/_creature|creature]] that [[h/_has|has]] not [[b/_been|been]] previously [[d/_described|described]] or [[i/_identified|identified]].**
-- **An undistinguished, unexceptional person or thing.**
-- **An unmarked police [[c/_car|car]].**
+- **An undistinguished, unexceptional [[p/_person|person]] or thing.**
+- **An unmarked [[p/_police|police]] [[c/_car|car]].**
 ---
 #adjective
 - **Not [[d/_described|described]] (in the [[a/_academic|academic]] [[l/_literature|literature]]).**

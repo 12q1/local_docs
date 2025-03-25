@@ -6,8 +6,8 @@
 	- _Example: It appears that our schedules conflict._
 ---
 #adjective
-- **In a state of personal or [[e/_emotional|emotional]] [[c/_conflict|conflict]].**
+- **In a state of [[p/_personal|personal]] or [[e/_emotional|emotional]] [[c/_conflict|conflict]].**
 	- _Example: I felt conflicted about whether he liked me or not._
-- **Possessing a [[c/_conflict|conflict]] of [[i/_interest|interest]].**
+- **[[p/_possessing|Possessing]] a [[c/_conflict|conflict]] of [[i/_interest|interest]].**
 ---
 ---

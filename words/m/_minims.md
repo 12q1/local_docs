@@ -9,6 +9,6 @@
 - **The smallest [[k/_kind|kind]] of worker in a [[l/_leaf|leaf]]-[[c/_cutter|cutter]] [[a/_ant|ant]] [[c/_colony|colony]].**
 - **A [[l/_little|little]] [[m/_man|man]] or [[b/_being|being]]; a [[d/_dwarf|dwarf]].**
 - **A small [[f/_fish|fish]]; a [[m/_minnow|minnow]].**
-- **A short poetical [[e/_encomium|encomium]].**
+- **A short [[p/_poetical|poetical]] [[e/_encomium|encomium]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Agitates
 ---
 #verb
-- **To [[d/_disturb|disturb]] or [[e/_excite|excite]]; to perturb or stir up (a person).**
+- **To [[d/_disturb|disturb]] or [[e/_excite|excite]]; to [[p/_perturb|perturb]] or stir up (a [[p/_person|person]]).**
 	- _Example: He was greatly agitated by the news._
 - **To [[c/_cause|cause]] to [[m/_move|move]] with a violent, [[i/_irregular|irregular]] [[a/_action|action]]; to shake.**
 	- _Example: the wind agitates the sea_

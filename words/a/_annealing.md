@@ -11,7 +11,7 @@
 ### Synonyms
 - [[i/_indurate|indurate]], [[r/_ruggedize|ruggedize]], [[t/_temper|temper]]
 #noun
-- **The [[h/_heating|heating]] of solid [[m/_metal|metal]] or [[g/_glass|glass]] to [[h/_high|high]] temperatures and [[c/_cooling|cooling]] it slowly so that [[i/_its|its]] particles [[a/_arrange|arrange]] [[i/_into|into]] a [[d/_defined|defined]] [[l/_lattice|lattice]].**
+- **The [[h/_heating|heating]] of solid [[m/_metal|metal]] or [[g/_glass|glass]] to [[h/_high|high]] temperatures and [[c/_cooling|cooling]] it slowly so that [[i/_its|its]] [[p/_particles|particles]] [[a/_arrange|arrange]] [[i/_into|into]] a [[d/_defined|defined]] [[l/_lattice|lattice]].**
 	- _Example: Without annealing, the quality of our metal products will diminish._
 ---
 ---

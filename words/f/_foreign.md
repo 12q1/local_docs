@@ -1,18 +1,18 @@
 # Foreign
 ---
 #noun
-- **A [[f/_foreign|foreign]] person, particularly:**
+- **A [[f/_foreign|foreign]] [[p/_person|person]], [[p/_particularly|particularly]]:**
 - **A [[f/_foreign|foreign]] ship.**
 - **[[c/_clipping|Clipping]] of [[c/_chamber|chamber]] [[f/_foreign|foreign]]: an [[o/_outhouse|outhouse]].**
-- **A [[f/_foreign|foreign]] [[a/_area|area]], particularly:**
-- **Short for various phrases, [[i/_including|including]] [[f/_foreign|foreign]] [[l/_language|language]], [[f/_foreign|foreign]] parts, and [[f/_foreign|foreign]] service.**
+- **A [[f/_foreign|foreign]] [[a/_area|area]], [[p/_particularly|particularly]]:**
+- **Short for various [[p/_phrases|phrases]], [[i/_including|including]] [[f/_foreign|foreign]] [[l/_language|language]], [[f/_foreign|foreign]] [[p/_parts|parts]], and [[f/_foreign|foreign]] service.**
 ---
 ### Synonyms
 - 
 #adjective
-- **[[l/_located|Located]] [[o/_outside|outside]] a [[c/_country|country]] or place, [[e/_especially|especially]] [[o/_one|one]]'s [[o/_own|own]].**
+- **[[l/_located|Located]] [[o/_outside|outside]] a [[c/_country|country]] or [[p/_place|place]], [[e/_especially|especially]] [[o/_one|one]]'s [[o/_own|own]].**
 	- _Example: He liked visiting foreign cities._
-- **[[o/_originating|Originating]] from, [[c/_characteristic|characteristic]] of, [[b/_belonging|belonging]] to, or [[b/_being|being]] a [[c/_citizen|citizen]] of a [[c/_country|country]] or place [[o/_other|other]] than the [[o/_one|one]] under [[d/_discussion|discussion]].**
+- **[[o/_originating|Originating]] from, [[c/_characteristic|characteristic]] of, [[b/_belonging|belonging]] to, or [[b/_being|being]] a [[c/_citizen|citizen]] of a [[c/_country|country]] or [[p/_place|place]] [[o/_other|other]] than the [[o/_one|one]] under [[d/_discussion|discussion]].**
 	- _Example: There are many more foreign students in Europe since the Erasmus scheme started._
 - **Relating to a [[d/_different|different]] [[n/_nation|nation]].**
 	- _Example: foreign policy; foreign navies_

@@ -8,8 +8,8 @@
 - [[k/_kumkum|kumkum]], [[p/_pottu|pottu]], [[s/_sindoor|sindoor]], [[t/_tika|tika]], [[t/_tilak|tilak]], [[t/_tilakam|tilakam]]
 #noun
 - **The [[c/_common|common]] [[l/_lawn|lawn]] weed, Soliva sessilis, [[i/_introduced|introduced]] to [[a/_australia|Australia]] from South [[a/_america|America]].**
-- **A seed of this plant, [[h/_having|having]] small sharp spines which stick [[p/_painfully|painfully]] [[i/_into|into]] [[b/_bare|bare]] [[f/_feet|feet]].**
-- **[[a/_any|Any]] of a [[n/_number|number]] of plants of the [[g/_genus|genus]] Calotis which [[h/_have|have]] small [[b/_burrs|burrs]] with [[f/_fine|fine]] [[b/_barbed|barbed]] [[a/_awns|awns]].**
-- **[[a/_any|Any]] of a various plants of the [[g/_genus|genus]] Sclerolaena.**
+- **A seed of this [[p/_plant|plant]], [[h/_having|having]] small sharp spines which stick [[p/_painfully|painfully]] [[i/_into|into]] [[b/_bare|bare]] [[f/_feet|feet]].**
+- **[[a/_any|Any]] of a [[n/_number|number]] of [[p/_plants|plants]] of the [[g/_genus|genus]] Calotis which [[h/_have|have]] small [[b/_burrs|burrs]] with [[f/_fine|fine]] [[b/_barbed|barbed]] [[a/_awns|awns]].**
+- **[[a/_any|Any]] of a various [[p/_plants|plants]] of the [[g/_genus|genus]] Sclerolaena.**
 ---
 ---

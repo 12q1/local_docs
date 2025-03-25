@@ -11,10 +11,10 @@
 - **To sodomize; to [[e/_engage|engage]] in [[a/_anal|anal]] sex.**
 ---
 #noun
-- **(sometimes [[d/_derogatory|derogatory]]) A [[h/_homeless|homeless]] person, usually a [[m/_man|man]].**
-- **A [[l/_lazy|lazy]], [[i/_incompetent|incompetent]], or [[a/_annoying|annoying]] person, usually a [[m/_man|man]].**
+- **(sometimes [[d/_derogatory|derogatory]]) A [[h/_homeless|homeless]] [[p/_person|person]], usually a [[m/_man|man]].**
+- **A [[l/_lazy|lazy]], [[i/_incompetent|incompetent]], or [[a/_annoying|annoying]] [[p/_person|person]], usually a [[m/_man|man]].**
 	- _Example: Fred is becoming a bum - he's not even bothering to work more than once a month._
-- **A player or racer who [[o/_often|often]] performs poorly.**
+- **A [[p/_player|player]] or racer who [[o/_often|often]] [[p/_performs|performs]] [[p/_poorly|poorly]].**
 	- _Example: Trade him to another team, he's a bum!_
 - **A [[d/_drinking|drinking]] spree.**
 ---

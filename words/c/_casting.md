@@ -1,17 +1,17 @@
 # Casting
 ---
 #verb
-- **(physical) To [[m/_move|move]], or be [[m/_moved|moved]], [[a/_away|away]].**
+- **([[p/_physical|physical]]) To [[m/_move|move]], or be [[m/_moved|moved]], [[a/_away|away]].**
 - **To [[d/_direct|direct]] ([[o/_one|one]]'s [[e/_eyes|eyes]], [[g/_gaze|gaze]] [[e/_etc|etc]].).**
 - **To [[a/_add|add]] up (a [[c/_column|column]] of [[f/_figures|figures]], [[a/_accounts|accounts]] [[e/_etc|etc]].); [[c/_cross|cross]]-[[c/_cast|cast]] refers to [[a/_adding|adding]] up a row of [[f/_figures|figures]].**
-- **(social) To predict, to [[d/_decide|decide]], to plan.**
-- **To perform, [[b/_bring|bring]] [[f/_forth|forth]] (a [[m/_magical|magical]] spell or [[e/_enchantment|enchantment]]).**
+- **(social) To [[p/_predict|predict]], to [[d/_decide|decide]], to [[p/_plan|plan]].**
+- **To [[p/_perform|perform]], [[b/_bring|bring]] [[f/_forth|forth]] (a [[m/_magical|magical]] spell or [[e/_enchantment|enchantment]]).**
 - **To throw ([[l/_light|light]] [[e/_etc|etc]].) on or upon something, or in a [[g/_given|given]] [[d/_direction|direction]].**
-- **To [[g/_give|give]] [[b/_birth|birth]] to (a [[c/_child|child]]) prematurely; to [[m/_miscarry|miscarry]].**
-- **To shape ([[m/_molten|molten]] [[m/_metal|metal]] [[e/_etc|etc]].) by pouring [[i/_into|into]] a [[m/_mould|mould]]; to [[m/_make|make]] (an [[o/_object|object]]) in such a way.**
+- **To [[g/_give|give]] [[b/_birth|birth]] to (a [[c/_child|child]]) [[p/_prematurely|prematurely]]; to [[m/_miscarry|miscarry]].**
+- **To shape ([[m/_molten|molten]] [[m/_metal|metal]] [[e/_etc|etc]].) by [[p/_pouring|pouring]] [[i/_into|into]] a [[m/_mould|mould]]; to [[m/_make|make]] (an [[o/_object|object]]) in such a way.**
 - **To twist or warp (of [[f/_fabric|fabric]], timber [[e/_etc|etc]].).**
 - **To [[b/_bring|bring]] the [[b/_bows|bows]] of a sailing ship on to the required tack [[j/_just|just]] as the [[a/_anchor|anchor]] is weighed by use of the [[h/_headsail|headsail]]; to [[b/_bring|bring]] (a ship) round.**
-- **To [[d/_deposit|deposit]] (a [[b/_ballot|ballot]] or voting paper); to [[f/_formally|formally]] register ([[o/_one|one]]'s vote).**
+- **To [[d/_deposit|deposit]] (a [[b/_ballot|ballot]] or voting [[p/_paper|paper]]); to [[f/_formally|formally]] register ([[o/_one|one]]'s vote).**
 - **To [[c/_change|change]] a variable type from, for [[e/_example|example]], [[i/_integer|integer]] to real, or [[i/_integer|integer]] to text.**
 	- _Example: Casting is generally an indication of bad design._
 - **Of [[d/_dogs|dogs]], [[h/_hunters|hunters]]: to spread [[o/_out|out]] and search for a scent.**

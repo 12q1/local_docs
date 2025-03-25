@@ -5,6 +5,6 @@
 - **To [[c/_cause|cause]] [[m/_mutation|mutation]].**
 ---
 #adjective
-- **Possessing a [[m/_mutation|mutation]].**
+- **[[p/_possessing|Possessing]] a [[m/_mutation|mutation]].**
 ---
 ---

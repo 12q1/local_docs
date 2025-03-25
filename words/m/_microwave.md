@@ -11,7 +11,7 @@
 ### Synonyms
 - [[n/_nuke|nuke]]
 #noun
-- **An [[o/_oven|oven]] that uses [[m/_microwave|microwave]] [[e/_energy|energy]] to [[h/_heat|heat]] [[f/_food|food]] or [[o/_other|other]] [[i/_items|items]] placed within it.**
+- **An [[o/_oven|oven]] that uses [[m/_microwave|microwave]] [[e/_energy|energy]] to [[h/_heat|heat]] [[f/_food|food]] or [[o/_other|other]] [[i/_items|items]] [[p/_placed|placed]] within it.**
 ---
 ### Synonyms
 - [[m/_microwave|microwave]]

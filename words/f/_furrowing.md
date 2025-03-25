@@ -10,6 +10,6 @@
 ### Synonyms
 - [[f/_frown|frown]]
 #noun
-- **A [[f/_furrowed|furrowed]] pattern.**
+- **A [[f/_furrowed|furrowed]] [[p/_pattern|pattern]].**
 ---
 ---

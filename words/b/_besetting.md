@@ -10,7 +10,7 @@
 - **The [[a/_act|act]] of [[o/_one|one]] who [[b/_besets|besets]] or [[a/_attacks|attacks]].**
 ---
 #adjective
-- **[[d/_deeply|Deeply]] rooted; persistent.**
+- **[[d/_deeply|Deeply]] rooted; [[p/_persistent|persistent]].**
 - **[[o/_obsessive|Obsessive]]**
 ---
 ---

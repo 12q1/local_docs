@@ -1,7 +1,7 @@
 # Autographs
 ---
 #noun
-- **A person’s [[o/_own|own]] [[h/_handwriting|handwriting]], [[e/_especially|especially]] the signature of a [[f/_famous|famous]] or [[a/_admired|admired]] person.**
+- **A [[p/_person|person]]’s [[o/_own|own]] [[h/_handwriting|handwriting]], [[e/_especially|especially]] the signature of a [[f/_famous|famous]] or [[a/_admired|admired]] [[p/_person|person]].**
 - **A [[m/_manuscript|manuscript]] in the [[a/_author|author]]’s [[h/_handwriting|handwriting]].**
 ---
 ### Synonyms

@@ -1,6 +1,6 @@
 # Murderers
 ---
 #noun
-- **A person who [[c/_commits|commits]] [[m/_murder|murder]].**
+- **A [[p/_person|person]] who [[c/_commits|commits]] [[m/_murder|murder]].**
 ---
 ---

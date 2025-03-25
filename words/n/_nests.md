@@ -1,19 +1,19 @@
 # Nests
 ---
 #noun
-- **A structure [[b/_built|built]] by a [[b/_bird|bird]] as a place to [[i/_incubate|incubate]] [[e/_eggs|eggs]] and rear [[y/_young|young]].**
-- **A place used by [[a/_another|another]] [[m/_mammal|mammal]], [[f/_fish|fish]], [[a/_amphibian|amphibian]] or [[i/_insect|insect]], for [[d/_depositing|depositing]] [[e/_eggs|eggs]] and [[h/_hatching|hatching]] [[y/_young|young]].**
+- **A structure [[b/_built|built]] by a [[b/_bird|bird]] as a [[p/_place|place]] to [[i/_incubate|incubate]] [[e/_eggs|eggs]] and rear [[y/_young|young]].**
+- **A [[p/_place|place]] used by [[a/_another|another]] [[m/_mammal|mammal]], [[f/_fish|fish]], [[a/_amphibian|amphibian]] or [[i/_insect|insect]], for [[d/_depositing|depositing]] [[e/_eggs|eggs]] and [[h/_hatching|hatching]] [[y/_young|young]].**
 - **A snug, [[c/_comfortable|comfortable]], or [[c/_cosy|cosy]] residence or [[j/_job|job]] situation.**
-- **A retreat, or place of [[h/_habitual|habitual]] resort.**
-- **A [[h/_hideout|hideout]] for [[b/_bad|bad]] people to [[f/_frequent|frequent]] or [[h/_haunt|haunt]]; a [[d/_den|den]].**
+- **A retreat, or [[p/_place|place]] of [[h/_habitual|habitual]] resort.**
+- **A [[h/_hideout|hideout]] for [[b/_bad|bad]] [[p/_people|people]] to [[f/_frequent|frequent]] or [[h/_haunt|haunt]]; a [[d/_den|den]].**
 	- _Example: That nightclub is a nest of strange people!_
-- **A [[h/_home|home]] that a [[c/_child|child]] or [[y/_young|young]] [[a/_adult|adult]] shares with a parent or [[g/_guardian|guardian]].**
+- **A [[h/_home|home]] that a [[c/_child|child]] or [[y/_young|young]] [[a/_adult|adult]] shares with a [[p/_parent|parent]] or [[g/_guardian|guardian]].**
 	- _Example: I am aspiring to leave the nest._
 - **A [[f/_fixed|fixed]] [[n/_number|number]] of [[c/_cards|cards]] in some [[b/_bidding|bidding]] [[g/_games|games]] [[a/_awarded|awarded]] to the [[h/_highest|highest]] [[b/_bidder|bidder]] [[a/_allowing|allowing]] [[h/_him|him]] to [[e/_exchange|exchange]] [[a/_any|any]] or [[a/_all|all]] with [[c/_cards|cards]] in [[h/_his|his]] [[h/_hand|hand]].**
 	- _Example: I was forced to change trumps when I found the ace, jack, and nine of diamonds in the nest._
-- **A [[f/_fortified|fortified]] position for a weapon.**
+- **A [[f/_fortified|fortified]] [[p/_position|position]] for a weapon.**
 - **A structure [[c/_consisting|consisting]] of [[n/_nested|nested]] structures, such as [[n/_nested|nested]] [[l/_loops|loops]] or [[n/_nested|nested]] subroutine [[c/_calls|calls]].**
-- **A [[c/_circular|circular]] [[b/_bed|bed]] of pasta, rice, [[e/_etc|etc]]. to be topped or [[f/_filled|filled]] with [[o/_other|other]] [[f/_foods|foods]].**
+- **A [[c/_circular|circular]] [[b/_bed|bed]] of [[p/_pasta|pasta]], rice, [[e/_etc|etc]]. to be topped or [[f/_filled|filled]] with [[o/_other|other]] [[f/_foods|foods]].**
 - **An [[a/_aggregated|aggregated]] [[m/_mass|mass]] of [[a/_any|any]] [[o/_ore|ore]] or [[m/_mineral|mineral]], in an [[i/_isolated|isolated]] state, within a rock.**
 - **A [[c/_collection|collection]] of [[b/_boxes|boxes]], [[c/_cases|cases]], or the [[l/_like|like]], of [[g/_graduated|graduated]] size, [[e/_each|each]] put within the [[o/_one|one]] [[n/_next|next]] [[l/_larger|larger]].**
 - **A [[c/_compact|compact]] [[g/_group|group]] of pulleys, [[g/_gears|gears]], springs, [[e/_etc|etc]]., working together or [[c/_collectively|collectively]].**
@@ -24,8 +24,8 @@
 	- _Example: We loved the new house and were nesting there in two days!_
 - **To successively [[n/_neatly|neatly]] [[f/_fit|fit]] [[i/_inside|inside]] [[a/_another|another]].**
 	- _Example: I bought a set of nesting mixing bowls for my mother._
-- **To place in, or as [[i/_if|if]] in, a [[n/_nest|nest]].**
-- **To place [[o/_one|one]] thing [[n/_neatly|neatly]] [[i/_inside|inside]] [[a/_another|another]], and [[b/_both|both]] [[i/_inside|inside]] [[y/_yet|yet]] [[a/_another|another]] (and so on).**
+- **To [[p/_place|place]] in, or as [[i/_if|if]] in, a [[n/_nest|nest]].**
+- **To [[p/_place|place]] [[o/_one|one]] thing [[n/_neatly|neatly]] [[i/_inside|inside]] [[a/_another|another]], and [[b/_both|both]] [[i/_inside|inside]] [[y/_yet|yet]] [[a/_another|another]] (and so on).**
 	- _Example: There would be much more room in the attic if you had nested all the empty boxes._
 - **To [[h/_hunt|hunt]] for [[b/_birds|birds]]' [[n/_nests|nests]] or their [[c/_contents|contents]] (usually "[[g/_go|go]] [[n/_nesting|nesting]]").**
 ---

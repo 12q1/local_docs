@@ -2,7 +2,7 @@
 ---
 #verb
 - **To strive in [[o/_opposition|opposition]]; to [[c/_contest|contest]]; to [[d/_dispute|dispute]]; to vie; to quarrel; to [[f/_fight|fight]].**
-- **To struggle or [[e/_exert|exert]] [[o/_oneself|oneself]] to [[o/_obtain|obtain]] or retain possession of, or to [[d/_defend|defend]].**
+- **To struggle or [[e/_exert|exert]] [[o/_oneself|oneself]] to [[o/_obtain|obtain]] or retain [[p/_possession|possession]] of, or to [[d/_defend|defend]].**
 - **To strive in [[d/_debate|debate]]; to [[e/_engage|engage]] in [[d/_discussion|discussion]]; to [[d/_dispute|dispute]]; to [[a/_argue|argue]].**
 - **To [[b/_believe|believe]] (something is reasonable) and [[a/_argue|argue]] (for it); to [[a/_advocate|advocate]].**
 	- _Example: In this paper the author contends that no useful results can be obtained if this method is used._

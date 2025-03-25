@@ -1,6 +1,6 @@
 # Anencephalic
 ---
 #adjective
-- **Of or pertaining to or [[e/_exhibiting|exhibiting]] [[a/_anencephaly|anencephaly]]**
+- **Of or [[p/_pertaining|pertaining]] to or [[e/_exhibiting|exhibiting]] [[a/_anencephaly|anencephaly]]**
 ---
 ---

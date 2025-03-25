@@ -5,7 +5,7 @@
 	- _Example: jugged hare_
 - **To put [[i/_into|into]] [[j/_jail|jail]].**
 - **To utter a sound [[l/_like|like]] "[[j/_jug|jug]]", as [[c/_certain|certain]] [[b/_birds|birds]] [[d/_do|do]], [[e/_especially|especially]] the [[n/_nightingale|nightingale]].**
-- **(of quails or partridges) To [[n/_nestle|nestle]] or [[c/_collect|collect]] together in a [[c/_covey|covey]].**
+- **(of quails or [[p/_partridges|partridges]]) To [[n/_nestle|nestle]] or [[c/_collect|collect]] together in a [[c/_covey|covey]].**
 ---
 #adjective
 - **[[h/_having|Having]] [[b/_been|been]] [[c/_cooked|cooked]] by [[j/_jugging|jugging]].**

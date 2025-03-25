@@ -1,7 +1,7 @@
 # Depressive
 ---
 #noun
-- **A person suffering from [[d/_depression|depression]].**
+- **A [[p/_person|person]] suffering from [[d/_depression|depression]].**
 ---
 #adjective
 - **[[c/_causing|Causing]] [[d/_depression|depression]]; [[d/_dispiriting|dispiriting]].**

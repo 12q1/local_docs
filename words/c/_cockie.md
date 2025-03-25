@@ -4,7 +4,7 @@
 - **[[o/_overly|Overly]] [[c/_confident|confident]]; [[a/_arrogant|arrogant]] and [[b/_boastful|boastful]].**
 ---
 #noun
-- **Used as a term of [[e/_endearment|endearment]], [[o/_originally|originally]] for a person of [[e/_either|either]] sex, but [[l/_later|later]] primarily for a [[m/_man|man]].**
+- **Used as a term of [[e/_endearment|endearment]], [[o/_originally|originally]] for a [[p/_person|person]] of [[e/_either|either]] sex, but [[l/_later|later]] primarily for a [[m/_man|man]].**
 ---
 #noun
 - **A ([[f/_familiar|familiar]] [[n/_name|name]] for a) [[c/_cockatoo|cockatoo]].**

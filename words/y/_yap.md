@@ -1,7 +1,7 @@
 # Yap
 ---
 #noun
-- **The [[h/_high|high]]-pitched [[b/_bark|bark]] of a small [[d/_dog|dog]], or similar.**
+- **The [[h/_high|high]]-[[p/_pitched|pitched]] [[b/_bark|bark]] of a small [[d/_dog|dog]], or similar.**
 - **[[c/_casual|Casual]] talk; [[c/_chatter|chatter]].**
 - **The [[m/_mouth|mouth]], which produces speech.**
 	- _Example: Shut your yap!_

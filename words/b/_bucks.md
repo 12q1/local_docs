@@ -13,10 +13,10 @@
 	- _Example: Corporations will do anything to make a buck._
 - **[[o/_one|One]] [[h/_hundred|hundred]].**
 	- _Example: That skinny guy? C'mon, he can't weigh more than a buck and a quarter [125 pounds]._
-- **An [[o/_object|object]] of various types, placed on a table to [[i/_indicate|indicate]] turn or status; such as a [[b/_brass|brass]] [[o/_object|object]], placed in rotation on a US [[n/_navy|Navy]] wardroom [[d/_dining|dining]] table to [[i/_indicate|indicate]] which [[o/_officer|officer]] is to be served [[f/_first|first]], or an [[i/_item|item]] passed [[a/_around|around]] a poker table [[i/_indicating|indicating]] the [[d/_dealer|dealer]] or placed in the pot to remind the winner of some privilege or [[o/_obligation|obligation]] when [[h/_his|his]] or [[h/_her|her]] turn to [[d/_deal|deal]] [[n/_next|next]] [[c/_comes|comes]].**
-- **(in [[c/_certain|certain]] [[m/_metaphors|metaphors]] or phrases) [[b/_blame|Blame]]; responsibility; scapegoating; [[f/_finger|finger]]-pointing.**
+- **An [[o/_object|object]] of various types, [[p/_placed|placed]] on a table to [[i/_indicate|indicate]] turn or status; such as a [[b/_brass|brass]] [[o/_object|object]], [[p/_placed|placed]] in rotation on a US [[n/_navy|Navy]] wardroom [[d/_dining|dining]] table to [[i/_indicate|indicate]] which [[o/_officer|officer]] is to be served [[f/_first|first]], or an [[i/_item|item]] [[p/_passed|passed]] [[a/_around|around]] a [[p/_poker|poker]] table [[i/_indicating|indicating]] the [[d/_dealer|dealer]] or [[p/_placed|placed]] in the [[p/_pot|pot]] to remind the winner of some privilege or [[o/_obligation|obligation]] when [[h/_his|his]] or [[h/_her|her]] turn to [[d/_deal|deal]] [[n/_next|next]] [[c/_comes|comes]].**
+- **(in [[c/_certain|certain]] [[m/_metaphors|metaphors]] or [[p/_phrases|phrases]]) [[b/_blame|Blame]]; responsibility; scapegoating; [[f/_finger|finger]]-[[p/_pointing|pointing]].**
 	- _Example: pass the buck_
-- **The [[b/_body|body]] of a post [[m/_mill|mill]], particularly in [[e/_east|East]] Anglia. See Wikipedia:Windmill [[m/_machinery|machinery]].**
+- **The [[b/_body|body]] of a [[p/_post|post]] [[m/_mill|mill]], [[p/_particularly|particularly]] in [[e/_east|East]] Anglia. See Wikipedia:Windmill [[m/_machinery|machinery]].**
 - **[[o/_one|One]] [[m/_million|million]] [[d/_dollars|dollars]].**
 - **A [[e/_euro|euro]].**
 - **A [[f/_frame|frame]] on which [[f/_firewood|firewood]] is sawed; a sawhorse; a sawbuck.**
@@ -32,14 +32,14 @@
 - **To [[b/_bend|bend]]; [[b/_buckle|buckle]].**
 - **(of a [[h/_horse|horse]] or similar saddle or [[p/_pack|pack]] [[a/_animal|animal]]) To [[l/_leap|leap]] upward [[a/_arching|arching]] [[i/_its|its]] [[b/_back|back]], [[c/_coming|coming]] [[d/_down|down]] with [[h/_head|head]] [[l/_low|low]] and [[f/_forelegs|forelegs]] stiff, [[f/_forcefully|forcefully]] [[k/_kicking|kicking]] [[i/_its|its]] [[h/_hind|hind]] [[l/_legs|legs]] upward, [[o/_often|often]] in an [[a/_attempt|attempt]] to [[d/_dislodge|dislodge]] or throw a rider or [[p/_pack|pack]].**
 - **(of a [[h/_horse|horse]] or similar saddle or [[p/_pack|pack]] [[a/_animal|animal]]) To throw (a rider or [[p/_pack|pack]]) by [[b/_bucking|bucking]].**
-- **To subject to a [[m/_mode|mode]] of punishment which [[c/_consists|consists]] of tying the wrists together, passing the [[a/_arms|arms]] [[o/_over|over]] the [[b/_bent|bent]] [[k/_knees|knees]], and putting a stick [[a/_across|across]] the [[a/_arms|arms]] and in the [[a/_angle|angle]] [[f/_formed|formed]] by the [[k/_knees|knees]].**
+- **To subject to a [[m/_mode|mode]] of punishment which [[c/_consists|consists]] of tying the wrists together, [[p/_passing|passing]] the [[a/_arms|arms]] [[o/_over|over]] the [[b/_bent|bent]] [[k/_knees|knees]], and putting a stick [[a/_across|across]] the [[a/_arms|arms]] and in the [[a/_angle|angle]] [[f/_formed|formed]] by the [[k/_knees|knees]].**
 - **(by [[e/_extension|extension]]) To resist [[o/_obstinately|obstinately]]; [[o/_oppose|oppose]] or [[o/_object|object]] strongly.**
 	- _Example: The vice president bucked at the board's latest solution._
 - **(by [[e/_extension|extension]]) To [[m/_move|move]] or [[o/_operate|operate]] in a sharp, [[j/_jerking|jerking]], or uneven [[m/_manner|manner]].**
 	- _Example: The motor bucked and sputtered before dying completely._
 - **(by [[e/_extension|extension]]) To [[o/_overcome|overcome]] or shed ([[e/_e|e]].[[g/_g|g]]., an [[i/_impediment|impediment]] or [[e/_expectation|expectation]]), in pursuit of a [[g/_goal|goal]]; to [[f/_force|force]] a way through [[d/_despite|despite]] (an [[o/_obstacle|obstacle]]); to resist or proceed [[a/_against|against]].**
 	- _Example: John is really bucking the odds on that risky business venture. He's doing quite well._
-- **(riveting) To press a reinforcing [[d/_device|device]] ([[b/_bucking|bucking]] [[b/_bar|bar]]) [[a/_against|against]] (the [[f/_force|force]] of a rivet) in [[o/_order|order]] to [[a/_absorb|absorb]] vibration and [[i/_increase|increase]] [[e/_expansion|expansion]]. See Wikipedia: Rivet:[[i/_installation|Installation]].**
+- **(riveting) To [[p/_press|press]] a reinforcing [[d/_device|device]] ([[b/_bucking|bucking]] [[b/_bar|bar]]) [[a/_against|against]] (the [[f/_force|force]] of a rivet) in [[o/_order|order]] to [[a/_absorb|absorb]] vibration and [[i/_increase|increase]] [[e/_expansion|expansion]]. See Wikipedia: Rivet:[[i/_installation|Installation]].**
 - **To saw a [[f/_felled|felled]] tree [[i/_into|into]] shorter [[l/_lengths|lengths]], as for [[f/_firewood|firewood]].**
 - **To [[o/_output|output]] a voltage that is [[l/_lower|lower]] than the [[i/_input|input]] voltage. See Wikipedia: [[b/_buck|Buck]] [[c/_converter|converter]]**
 ---
@@ -47,7 +47,7 @@
 - **The [[b/_beech|beech]] tree.**
 ---
 #verb
-- **To soak, steep or [[b/_boil|boil]] in [[l/_lye|lye]] or suds, as part of the [[b/_bleaching|bleaching]] process.**
+- **To soak, steep or [[b/_boil|boil]] in [[l/_lye|lye]] or suds, as [[p/_part|part]] of the [[b/_bleaching|bleaching]] process.**
 - **To wash ([[c/_clothes|clothes]]) in [[l/_lye|lye]] or suds, or, in [[l/_later|later]] usage, by [[b/_beating|beating]] them on stones in running water.**
 - **To [[b/_break|break]] up or pulverize, as [[o/_ores|ores]].**
 ---
@@ -60,10 +60,10 @@
 #noun
 - **The [[g/_generally|generally]] sterile [[m/_male|male]] or [[f/_female|female]] [[h/_hybrid|hybrid]] [[o/_offspring|offspring]] of a [[m/_male|male]] [[d/_donkey|donkey]] and a [[f/_female|female]] [[h/_horse|horse]].**
 - **The [[g/_generally|generally]] sterile [[h/_hybrid|hybrid]] [[o/_offspring|offspring]] of [[a/_any|any]] two species of [[a/_animals|animals]].**
-- **A [[h/_hybrid|hybrid]] plant.**
-- **A stubborn person.**
-- **A person [[p/_paid|paid]] to smuggle [[d/_drugs|drugs]].**
-- **A [[c/_coin|coin]] or [[m/_medal|medal]] [[m/_minted|minted]] with [[o/_obverse|obverse]] and reverse [[d/_designs|designs]] not [[n/_normally|normally]] seen on the same piece, [[e/_either|either]] [[i/_intentionally|intentionally]] or in [[e/_error|error]].**
+- **A [[h/_hybrid|hybrid]] [[p/_plant|plant]].**
+- **A stubborn [[p/_person|person]].**
+- **A [[p/_person|person]] [[p/_paid|paid]] to smuggle [[d/_drugs|drugs]].**
+- **A [[c/_coin|coin]] or [[m/_medal|medal]] [[m/_minted|minted]] with [[o/_obverse|obverse]] and reverse [[d/_designs|designs]] not [[n/_normally|normally]] seen on the same [[p/_piece|piece]], [[e/_either|either]] [[i/_intentionally|intentionally]] or in [[e/_error|error]].**
 - **A MMORPG [[c/_character|character]], or NPC [[c/_companion|companion]] in a tabletop RPG, used [[m/_mainly|mainly]] to store [[e/_extra|extra]] [[i/_inventory|inventory]] for the [[o/_owner|owner]]'s primary [[c/_character|character]].**
 - **[[a/_any|Any]] of a [[g/_group|group]] of [[c/_cocktails|cocktails]] [[i/_involving|involving]] [[g/_ginger|ginger]] [[a/_ale|ale]] or [[g/_ginger|ginger]] [[b/_beer|beer]], [[c/_citrus|citrus]] [[j/_juice|juice]], and various [[l/_liquors|liquors]].**
 - **A [[k/_kind|kind]] of triangular sail for a [[y/_yacht|yacht]].**

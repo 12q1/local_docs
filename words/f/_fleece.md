@@ -3,7 +3,7 @@
 #noun
 - **[[h/_hair|Hair]] or wool of a sheep or similar [[a/_animal|animal]]**
 - **[[i/_insulating|Insulating]] skin with the wool [[a/_attached|attached]]**
-- **A textile similar to velvet, but with a [[l/_longer|longer]] pile that [[g/_gives|gives]] it a softness and a [[h/_higher|higher]] sheen.**
+- **A textile similar to velvet, but with a [[l/_longer|longer]] [[p/_pile|pile]] that [[g/_gives|gives]] it a softness and a [[h/_higher|higher]] sheen.**
 - **An [[i/_insulating|insulating]] wooly [[j/_jacket|jacket]]**
 - **(roofing) [[m/_mat|Mat]] or [[f/_felts|felts]] [[c/_composed|composed]] of [[f/_fibers|fibers]], sometimes used as a [[m/_membrane|membrane]] [[b/_backer|backer]].**
 - **[[a/_any|Any]] soft woolly [[c/_covering|covering]] resembling a [[f/_fleece|fleece]].**

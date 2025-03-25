@@ -2,9 +2,9 @@
 ---
 #noun
 - **A [[f/_fruit|fruit]]-[[b/_bearing|bearing]] tree or shrub of the [[g/_genus|genus]] [[f/_ficus|Ficus]] that is [[n/_native|native]] [[m/_mainly|mainly]] to the tropics.**
-- **The [[f/_fruit|fruit]] of the [[f/_fig|fig]] tree, pear-shaped and [[c/_containing|containing]] [[m/_many|many]] small seeds.**
-- **A small piece of tobacco.**
-- **The value of a [[f/_fig|fig]], practically [[n/_nothing|nothing]]; a [[f/_fico|fico]]; a whit.**
+- **The [[f/_fruit|fruit]] of the [[f/_fig|fig]] tree, [[p/_pear|pear]]-shaped and [[c/_containing|containing]] [[m/_many|many]] small seeds.**
+- **A small [[p/_piece|piece]] of tobacco.**
+- **The value of a [[f/_fig|fig]], [[p/_practically|practically]] [[n/_nothing|nothing]]; a [[f/_fico|fico]]; a whit.**
 - **A raisin ([[d/_dried|dried]] [[g/_grape|grape]])**
 ---
 #verb

@@ -1,6 +1,6 @@
 # Fentanyl
 ---
 #noun
-- **A particularly powerful opioid [[n/_narcotic|narcotic]] [[p/_painkiller|painkiller]], [[n/_n|N]]-phenyl-[[n/_n|N]]-[1-(2-phenylethyl)piperidin-4-yl]propanamide.**
+- **A [[p/_particularly|particularly]] [[p/_powerful|powerful]] opioid [[n/_narcotic|narcotic]] [[p/_painkiller|painkiller]], [[n/_n|N]]-[[p/_phenyl|phenyl]]-[[n/_n|N]]-[1-(2-phenylethyl)[[p/_piperidin|piperidin]]-4-yl]propanamide.**
 ---
 ---

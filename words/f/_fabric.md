@@ -3,7 +3,7 @@
 #noun
 - **An [[e/_edifice|edifice]] or [[b/_building|building]].**
 - **The [[a/_act|act]] of [[c/_constructing|constructing]], [[c/_construction|construction]], [[f/_fabrication|fabrication]].**
-- **The structure of [[a/_anything|anything]], the [[m/_manner|manner]] in which the parts of a thing are united; workmanship, texture, [[m/_make|make]].**
+- **The structure of [[a/_anything|anything]], the [[m/_manner|manner]] in which the [[p/_parts|parts]] of a thing are united; workmanship, texture, [[m/_make|make]].**
 	- _Example: cloth of a beautiful fabric_
 - **The [[f/_framework|framework]] underlying a structure.**
 	- _Example: the fabric of our lives_

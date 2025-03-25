@@ -8,7 +8,7 @@
 - **([[a/_authorship|authorship]]) In [[l/_literature|literature]], theatre/theater, [[e/_etc|etc]]., a [[c/_character|character]] who [[h/_helps|helps]] [[e/_emphasize|emphasize]] the traits of the [[m/_main|main]] [[c/_character|character]] and who usually [[a/_acts|acts]] as an [[o/_opponent|opponent]] or [[a/_antagonist|antagonist]].**
 - **[[a/_anything|Anything]] that [[a/_acts|acts]] by [[c/_contrast|contrast]] to [[e/_emphasise|emphasise]] the [[c/_characteristics|characteristics]] of something.**
 - **A very thin sword with a [[b/_blunted|blunted]] (or [[f/_foiled|foiled]]) tip**
-- **A thin, transparent plastic [[m/_material|material]] on which [[m/_marks|marks]] are [[m/_made|made]] and projected for the purposes of presentation. See transparency.**
+- **A thin, transparent [[p/_plastic|plastic]] [[m/_material|material]] on which [[m/_marks|marks]] are [[m/_made|made]] and projected for the purposes of [[p/_presentation|presentation]]. See transparency.**
 - **A stylized [[f/_flower|flower]] or [[l/_leaf|leaf]].**
 - **A [[h/_hydrofoil|hydrofoil]].**
 - **An [[a/_aerofoil|aerofoil]]/[[a/_airfoil|airfoil]].**

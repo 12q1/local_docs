@@ -7,6 +7,6 @@
 - **To [[c/_cheat|cheat]], to [[g/_get|get]] something by [[c/_cheating|cheating]].**
 ---
 #noun
-- **A piece of work produced using a [[c/_chisel|chisel]].**
+- **A [[p/_piece|piece]] of work produced using a [[c/_chisel|chisel]].**
 ---
 ---

@@ -1,9 +1,9 @@
 # Hiding
 ---
 #verb
-- **To put (something) in a place where it will be [[h/_harder|harder]] to [[d/_discover|discover]] or [[o/_out|out]] of sight.**
+- **To put (something) in a [[p/_place|place]] where it will be [[h/_harder|harder]] to [[d/_discover|discover]] or [[o/_out|out]] of sight.**
 	- _Example: He hides his magazines under the bed._
-- **To put [[o/_oneself|oneself]] in a place where [[o/_one|one]] will be [[h/_harder|harder]] to [[f/_find|find]] or [[o/_out|out]] of sight.**
+- **To put [[o/_oneself|oneself]] in a [[p/_place|place]] where [[o/_one|one]] will be [[h/_harder|harder]] to [[f/_find|find]] or [[o/_out|out]] of sight.**
 ---
 ### Synonyms
 - [[c/_conceal|conceal]], [[s/_secrete|secrete]]
@@ -14,6 +14,6 @@
 ---
 #noun
 - **A state of [[c/_concealment|concealment]].**
-- **A place of [[c/_concealment|concealment]].**
+- **A [[p/_place|place]] of [[c/_concealment|concealment]].**
 ---
 ---

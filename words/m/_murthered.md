@@ -1,7 +1,7 @@
 # Murthered
 ---
 #verb
-- **To [[d/_deliberately|deliberately]] [[k/_kill|kill]] (a person or persons) without [[j/_justification|justification]], [[e/_especially|especially]] with [[m/_malice|malice]] [[a/_aforethought|aforethought]].**
+- **To [[d/_deliberately|deliberately]] [[k/_kill|kill]] (a [[p/_person|person]] or [[p/_persons|persons]]) without [[j/_justification|justification]], [[e/_especially|especially]] with [[m/_malice|malice]] [[a/_aforethought|aforethought]].**
 	- _Example: The woman found dead in her kitchen was murdered by her husband._
 - **To [[d/_defeat|defeat]] [[d/_decisively|decisively]].**
 	- _Example: Our team is going to murder them._

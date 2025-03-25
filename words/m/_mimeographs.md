@@ -1,7 +1,7 @@
 # Mimeographs
 ---
 #noun
-- **A [[m/_machine|machine]] for [[m/_making|making]] printed [[c/_copies|copies]] using typed stencil, [[e/_eventually|eventually]] superseded by photocopying.**
+- **A [[m/_machine|machine]] for [[m/_making|making]] printed [[c/_copies|copies]] using typed stencil, [[e/_eventually|eventually]] superseded by [[p/_photocopying|photocopying]].**
 ---
 ### Synonyms
 - [[m/_mimeo|mimeo]]

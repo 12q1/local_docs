@@ -7,6 +7,6 @@
 - **A species of [[b/_bahama|Bahama]] [[m/_mahogany|mahogany]], [[l/_lysiloma|Lysiloma]] sabicu and [[l/_lysiloma|Lysiloma]] latisiliquum.**
 ---
 #adjective
-- **Of the [[c/_colour|colour]] of [[h/_horseflesh|horseflesh]]; of a peculiar reddish-[[b/_brown|brown]] [[h/_hue|hue]].**
+- **Of the [[c/_colour|colour]] of [[h/_horseflesh|horseflesh]]; of a [[p/_peculiar|peculiar]] reddish-[[b/_brown|brown]] [[h/_hue|hue]].**
 ---
 ---

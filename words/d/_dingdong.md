@@ -3,7 +3,7 @@
 #noun
 - **An [[i/_idiot|idiot]].**
 	- _Example: My girlfriend's math teacher is a ding dong._
-- **A penis.**
+- **A [[p/_penis|penis]].**
 ---
 #noun
 - **A woman's [[b/_breast|breast]].**

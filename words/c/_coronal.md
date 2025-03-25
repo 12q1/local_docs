@@ -11,6 +11,6 @@
 - **Relating to the [[c/_corona|corona]] of a star.**
 - **Relating to the [[c/_corona|corona]] of a [[f/_flower|flower]].**
 - **Relating to a sound [[m/_made|made]] with the tip or [[b/_blade|blade]] of the tongue.**
-- **Relating to the [[c/_coronal|coronal]] plane that [[d/_divides|divides]] a [[b/_body|body]] [[i/_into|into]] [[d/_dorsal|dorsal]] ([[b/_back|back]]) and ventral ([[f/_front|front]]).**
+- **Relating to the [[c/_coronal|coronal]] [[p/_plane|plane]] that [[d/_divides|divides]] a [[b/_body|body]] [[i/_into|into]] [[d/_dorsal|dorsal]] ([[b/_back|back]]) and ventral ([[f/_front|front]]).**
 ---
 ---

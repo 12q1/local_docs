@@ -1,7 +1,7 @@
 # Cocoyam
 ---
 #noun
-- **[[n/_new|New]] [[c/_cocoyam|cocoyam]]: Xanthosoma, particularly Xanthosoma sagittifolium, or the [[e/_edible|edible]] root of that plant; [[m/_malanga|malanga]].**
+- **[[n/_new|New]] [[c/_cocoyam|cocoyam]]: Xanthosoma, [[p/_particularly|particularly]] Xanthosoma sagittifolium, or the [[e/_edible|edible]] root of that [[p/_plant|plant]]; [[m/_malanga|malanga]].**
 - **[[o/_old|Old]] [[c/_cocoyam|cocoyam]]: [[c/_colocasia|Colocasia]] esculenta; taro.**
 ---
 ### Synonyms

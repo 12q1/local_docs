@@ -9,11 +9,11 @@
 - **A [[f/_family|family]] relationship [[d/_due|due]] to [[b/_birth|birth]], such as that [[b/_between|between]] siblings; [[c/_contrasted|contrasted]] with relationships [[d/_due|due]] to [[m/_marriage|marriage]] or [[a/_adoption|adoption]] (see [[b/_blood|blood]] relative, [[b/_blood|blood]] relation, by [[b/_blood|blood]]).**
 - **[[o/_one|One]] of the [[f/_four|four]] [[h/_humours|humours]] in the [[h/_human|human]] [[b/_body|body]].**
 - **A [[b/_blood|blood]] test or [[b/_blood|blood]] sample.**
-- **The sap or [[j/_juice|juice]] which [[f/_flows|flows]] in or from plants.**
+- **The sap or [[j/_juice|juice]] which [[f/_flows|flows]] in or from [[p/_plants|plants]].**
 - **The [[j/_juice|juice]] of [[a/_anything|anything]], [[e/_especially|especially]] [[i/_if|if]] red.**
 - **Temper of [[m/_mind|mind]]; [[d/_disposition|disposition]]; [[m/_mood|mood]]**
 - **A [[l/_lively|lively]], showy [[m/_man|man]]; a rake; a [[d/_dandy|dandy]].**
-- **A [[b/_blood|blood]] [[h/_horse|horse]], [[o/_one|one]] of [[g/_good|good]] pedigree.**
+- **A [[b/_blood|blood]] [[h/_horse|horse]], [[o/_one|one]] of [[g/_good|good]] [[p/_pedigree|pedigree]].**
 - **[[b/_bloodshed|Bloodshed]].**
 	- _Example: They came looking for blood._
 ---

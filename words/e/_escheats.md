@@ -1,9 +1,9 @@
 # Escheats
 ---
 #noun
-- **The return of property of a [[d/_deceased|deceased]] person to the state ([[o/_originally|originally]] to a [[f/_feudal|feudal]] [[l/_lord|lord]]) where there are [[n/_no|no]] [[l/_legal|legal]] [[h/_heirs|heirs]] or [[c/_claimants|claimants]].**
+- **The return of property of a [[d/_deceased|deceased]] [[p/_person|person]] to the state ([[o/_originally|originally]] to a [[f/_feudal|feudal]] [[l/_lord|lord]]) where there are [[n/_no|no]] [[l/_legal|legal]] [[h/_heirs|heirs]] or [[c/_claimants|claimants]].**
 - **The property so reverted.**
-- **Plunder, [[b/_booty|booty]].**
+- **[[p/_plunder|Plunder]], [[b/_booty|booty]].**
 - **That which [[f/_falls|falls]] to [[o/_one|one]]; a reversion or return.**
 ---
 #verb

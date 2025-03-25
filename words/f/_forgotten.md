@@ -17,7 +17,7 @@
 ### Antonyms
 - [[a/_acquire|acquire]], [[l/_learn|learn]], [[m/_mind|mind]], [[r/_recall|recall]], [[r/_recollect|recollect]], [[r/_remember|remember]], [[r/_reminisce|reminisce]]
 #noun
-- **A person or thing that [[h/_has|has]] [[b/_been|been]] [[f/_forgotten|forgotten]].**
+- **A [[p/_person|person]] or thing that [[h/_has|has]] [[b/_been|been]] [[f/_forgotten|forgotten]].**
 ---
 #adjective
 - **Of which [[k/_knowledge|knowledge]] [[h/_has|has]] [[b/_been|been]] [[l/_lost|lost]]; which is [[n/_no|no]] [[l/_longer|longer]] remembered.**

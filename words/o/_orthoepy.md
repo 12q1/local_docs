@@ -13,13 +13,13 @@
 ### Synonyms
 - [[o/_orthoepy|orthoepy]]
 #noun
-- **The study of the way sounds [[f/_function|function]] in [[l/_languages|languages]], [[i/_including|including]] phonemes, syllable structure, stress, [[a/_accent|accent]], [[i/_intonation|intonation]], and which sounds are [[d/_distinctive|distinctive]] units within a [[l/_language|language]].**
-- **The way sounds [[f/_function|function]] within a [[g/_given|given]] [[l/_language|language]]; a phonological system.**
+- **The study of the way sounds [[f/_function|function]] in [[l/_languages|languages]], [[i/_including|including]] [[p/_phonemes|phonemes]], syllable structure, stress, [[a/_accent|accent]], [[i/_intonation|intonation]], and which sounds are [[d/_distinctive|distinctive]] units within a [[l/_language|language]].**
+- **The way sounds [[f/_function|function]] within a [[g/_given|given]] [[l/_language|language]]; a [[p/_phonological|phonological]] system.**
 ---
 ### Synonyms
 - [[o/_orthoepy|orthoepy]], [[s/_soundlore|soundlore]]
 #noun
-- **The [[a/_act|act]], practice, [[a/_ability|ability]], or subject of [[f/_forming|forming]] words with [[l/_letters|letters]], or of reading the [[l/_letters|letters]] of words; [[o/_orthography|orthography]].**
+- **The [[a/_act|act]], [[p/_practice|practice]], [[a/_ability|ability]], or subject of [[f/_forming|forming]] words with [[l/_letters|letters]], or of reading the [[l/_letters|letters]] of words; [[o/_orthography|orthography]].**
 - **The [[m/_manner|manner]] of spelling of words; [[c/_correct|correct]] spelling.**
 - **A specific spelling of a word.**
 - **A spelling test or spelling [[b/_bee|bee]].**

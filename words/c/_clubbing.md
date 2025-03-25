@@ -21,8 +21,8 @@
 - **An [[i/_instance|instance]] of using a [[c/_club|club]].**
 	- _Example: There was an outbreak of near-fatal clubbings in that area._
 - **A thickening of the [[e/_ends|ends]] of [[f/_fingers|fingers]] and toes.**
-- **The practice of [[f/_frequenting|frequenting]] [[n/_nightclubs|nightclubs]].**
+- **The [[p/_practice|practice]] of [[f/_frequenting|frequenting]] [[n/_nightclubs|nightclubs]].**
 	- _Example: I don't like clubbing._
-- **The [[d/_development|development]] of [[c/_clubroot|clubroot]] in a plant.**
+- **The [[d/_development|development]] of [[c/_clubroot|clubroot]] in a [[p/_plant|plant]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Flimsier
 ---
 #adjective
-- **[[l/_likely|Likely]] to [[b/_bend|bend]] or [[b/_break|break]] under pressure.**
+- **[[l/_likely|Likely]] to [[b/_bend|bend]] or [[b/_break|break]] under [[p/_pressure|pressure]].**
 	- _Example: He expected the flimsy structure to collapse at any moment._
 - **Weak; [[i/_ill|ill]]-[[f/_founded|founded]].**
 	- _Example: a flimsy excuse_

@@ -1,7 +1,7 @@
 # Amass
 ---
 #noun
-- **A [[l/_large|large]] [[n/_number|number]] of things [[c/_collected|collected]] or piled together.**
+- **A [[l/_large|large]] [[n/_number|number]] of things [[c/_collected|collected]] or [[p/_piled|piled]] together.**
 - **The [[a/_act|act]] of [[a/_amassing|amassing]].**
 ---
 ### Synonyms

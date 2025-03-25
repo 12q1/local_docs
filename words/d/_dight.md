@@ -8,7 +8,7 @@
 - **(of [[f/_facial|facial]] [[f/_features|features]]) To be [[f/_formed|formed]] or [[c/_composed|composed]] (of).**
 - **To [[f/_furnish|furnish]], [[e/_equip|equip]].**
 - **To [[d/_dress|dress]], [[a/_array|array]]; to [[a/_adorn|adorn]].**
-- **To [[m/_make|make]] ready, prepare.**
+- **To [[m/_make|make]] ready, [[p/_prepare|prepare]].**
 ---
 ### Synonyms
 - [[c/_clothe|clothe]], [[d/_don|don]], [[a/_apparel|apparel]], [[b/_bed|bed]], [[f/_feague|feague]]

@@ -1,7 +1,7 @@
 # Avoids
 ---
 #verb
-- **To try not to [[m/_meet|meet]] or [[c/_communicate|communicate]] with (a person); to shun**
+- **To try not to [[m/_meet|meet]] or [[c/_communicate|communicate]] with (a [[p/_person|person]]); to shun**
 - **To [[k/_keep|keep]] [[a/_away|away]] from; to [[k/_keep|keep]] [[c/_clear|clear]] of; to stay [[a/_away|away]] from**
 	- _Example: I try to avoid the company of gamblers._
 - **To try not to [[d/_do|do]] something or to [[h/_have|have]] something [[h/_happen|happen]]**

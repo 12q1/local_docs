@@ -5,7 +5,7 @@
 	- _Example: The army was sent in to quell the uprising._
 - **The [[g/_governmental|governmental]] [[a/_agency|agency]] in [[c/_charge|charge]] of a state's [[a/_army|army]].**
 	- _Example: The army opposed the legislature's involvement._
-- **A [[l/_large|large]] [[g/_group|group]] of people working toward the same purpose.**
+- **A [[l/_large|large]] [[g/_group|group]] of [[p/_people|people]] working toward the same purpose.**
 	- _Example: It took an army of accountants to uncover the fraud._
 - **A [[l/_large|large]] [[g/_group|group]] of social [[a/_animals|animals]] working toward the same purpose.**
 	- _Example: Our house is being attacked by an army of ants._

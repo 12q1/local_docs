@@ -1,7 +1,7 @@
 # Frantic
 ---
 #noun
-- **A person who is [[i/_insane|insane]] or [[m/_mentally|mentally]] unstable, [[m/_madman|madman]].**
+- **A [[p/_person|person]] who is [[i/_insane|insane]] or [[m/_mentally|mentally]] unstable, [[m/_madman|madman]].**
 ---
 #adjective
 - **[[i/_insane|Insane]], [[m/_mentally|mentally]] unstable.**

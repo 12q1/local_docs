@@ -3,7 +3,7 @@
 #noun
 - **An [[e/_energetic|energetic]] trot, slower than a run, [[o/_often|often]] used as a [[f/_form|form]] of [[e/_exercise|exercise]].**
 - **A sudden push or [[n/_nudge|nudge]].**
-- **A [[f/_flat|flat]] placed perpendicularly to [[b/_break|break]] up a [[f/_flat|flat]] surface.**
+- **A [[f/_flat|flat]] [[p/_placed|placed]] [[p/_perpendicularly|perpendicularly]] to [[b/_break|break]] up a [[f/_flat|flat]] surface.**
 ---
 ### Synonyms
 - 
@@ -16,6 +16,6 @@
 - **([[e/_exercise|exercise]]) To [[m/_move|move]] at a [[p/_pace|pace]] [[b/_between|between]] walking and running, to run at a [[l/_leisurely|leisurely]] [[p/_pace|pace]].**
 - **To [[c/_cause|cause]] to [[m/_move|move]] at an [[e/_energetic|energetic]] trot.**
 	- _Example: to jog a horse_
-- **To straighten stacks of paper by [[l/_lightly|lightly]] tapping [[a/_against|against]] a [[f/_flat|flat]] surface.**
+- **To straighten stacks of [[p/_paper|paper]] by [[l/_lightly|lightly]] tapping [[a/_against|against]] a [[f/_flat|flat]] surface.**
 ---
 ---

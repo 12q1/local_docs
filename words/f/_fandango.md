@@ -9,6 +9,6 @@
 ---
 #verb
 - **To [[d/_dance|dance]] the [[f/_fandango|fandango]].**
-- **To [[d/_dance|dance]], particularly with a [[l/_lot|lot]] of [[e/_energy|energy]].**
+- **To [[d/_dance|dance]], [[p/_particularly|particularly]] with a [[l/_lot|lot]] of [[e/_energy|energy]].**
 ---
 ---

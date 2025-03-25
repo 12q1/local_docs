@@ -1,14 +1,14 @@
 # Faced
 ---
 #verb
-- **(of a person or [[a/_animal|animal]]) To position [[o/_oneself|oneself]] or [[i/_itself|itself]] so as to [[h/_have|have]] [[o/_one|one]]'s [[f/_face|face]] [[c/_closest|closest]] to (something).**
+- **(of a [[p/_person|person]] or [[a/_animal|animal]]) To [[p/_position|position]] [[o/_oneself|oneself]] or [[i/_itself|itself]] so as to [[h/_have|have]] [[o/_one|one]]'s [[f/_face|face]] [[c/_closest|closest]] to (something).**
 	- _Example: Face the sun._
 - **(of an [[o/_object|object]]) To [[h/_have|have]] [[i/_its|its]] [[f/_front|front]] [[c/_closest|closest]] to, or in the [[d/_direction|direction]] of (something [[e/_else|else]]).**
 	- _Example: Turn the chair so it faces the table._
-- **To [[c/_cause|cause]] (something) to turn or present a [[f/_face|face]] or [[f/_front|front]], as in a particular [[d/_direction|direction]].**
-- **To be presented or [[c/_confronted|confronted]] with; to [[h/_have|have]] in prospect.**
+- **To [[c/_cause|cause]] (something) to turn or [[p/_present|present]] a [[f/_face|face]] or [[f/_front|front]], as in a [[p/_particular|particular]] [[d/_direction|direction]].**
+- **To be [[p/_presented|presented]] or [[c/_confronted|confronted]] with; to [[h/_have|have]] in prospect.**
 	- _Example: We are facing an uncertain future._
-- **To [[d/_deal|deal]] with (a [[d/_difficult|difficult]] situation or person); to [[a/_accept|accept]] ([[f/_facts|facts]], reality, [[e/_etc|etc]].) [[e/_even|even]] when undesirable.**
+- **To [[d/_deal|deal]] with (a [[d/_difficult|difficult]] situation or [[p/_person|person]]); to [[a/_accept|accept]] ([[f/_facts|facts]], reality, [[e/_etc|etc]].) [[e/_even|even]] when undesirable.**
 	- _Example: I'm going to have to face this sooner or later._
 - **To [[h/_have|have]] the [[f/_front|front]] in a [[c/_certain|certain]] [[d/_direction|direction]].**
 	- _Example: The seats in the carriage faced backwards._

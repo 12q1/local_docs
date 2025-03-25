@@ -13,7 +13,7 @@
 - **Tending to [[l/_lead|lead]] to or regulate the [[d/_development|development]] of sexual [[c/_characteristics|characteristics]] typical of this sex.**
 	- _Example: the male chromosome;   like testes, ovaries also produce testosterone and some other male hormones_
 - **([[g/_grammar|grammar]], [[l/_less|less]] [[c/_common|common]] than '[[m/_masculine|masculine]]') [[m/_masculine|Masculine]]; of the [[m/_masculine|masculine]] [[g/_grammatical|grammatical]] [[g/_gender|gender]].**
-- **Of [[i/_instruments|instruments]], tools, or [[c/_connectors|connectors]]: [[d/_designed|designed]] to [[f/_fit|fit]] [[i/_into|into]] or penetrate a [[f/_female|female]] [[c/_counterpart|counterpart]], as in a [[c/_connector|connector]], pipe [[f/_fitting|fitting]] or [[l/_laboratory|laboratory]] [[g/_glassware|glassware]].**
+- **Of [[i/_instruments|instruments]], tools, or [[c/_connectors|connectors]]: [[d/_designed|designed]] to [[f/_fit|fit]] [[i/_into|into]] or [[p/_penetrate|penetrate]] a [[f/_female|female]] [[c/_counterpart|counterpart]], as in a [[c/_connector|connector]], [[p/_pipe|pipe]] [[f/_fitting|fitting]] or [[l/_laboratory|laboratory]] [[g/_glassware|glassware]].**
 ---
 ### Synonyms
 - [[p/_pin|pin]], [[p/_plug|plug]], [[m/_manly|manly]], [[m/_mannish|mannish]], [[m/_masculine|masculine]]

@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[a/_assuring|assuring]]; a [[d/_declaration|declaration]] tending to [[i/_inspire|inspire]] [[f/_full|full]] [[c/_confidence|confidence]]; that which is [[d/_designed|designed]] to [[g/_give|give]] [[c/_confidence|confidence]].**
-- **The state of [[b/_being|being]] [[a/_assured|assured]]; [[f/_firm|firm]] persuasion; [[f/_full|full]] [[c/_confidence|confidence]] or trust; [[f/_freedom|freedom]] from [[d/_doubt|doubt]]; [[c/_certainty|certainty]].**
+- **The state of [[b/_being|being]] [[a/_assured|assured]]; [[f/_firm|firm]] [[p/_persuasion|persuasion]]; [[f/_full|full]] [[c/_confidence|confidence]] or trust; [[f/_freedom|freedom]] from [[d/_doubt|doubt]]; [[c/_certainty|certainty]].**
 - **[[f/_firmness|Firmness]] of [[m/_mind|mind]]; undoubting, steadiness; [[i/_intrepidity|intrepidity]]; [[c/_courage|courage]]; [[c/_confidence|confidence]]; self-reliance.**
 - **[[e/_excess|Excess]] of [[b/_boldness|boldness]]; [[i/_impudence|impudence]]; [[a/_audacity|audacity]]**
 	- _Example: his assurance is intolerable_

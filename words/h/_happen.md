@@ -1,7 +1,7 @@
 # Happen
 ---
 #verb
-- **To [[o/_occur|occur]] or take place.**
+- **To [[o/_occur|occur]] or take [[p/_place|place]].**
 	- _Example: Let me tell you how it happened._
 - **To [[h/_happen|happen]] to; to [[b/_befall|befall]].**
 - **(with [[i/_infinitive|infinitive]]) To [[d/_do|do]] or [[o/_occur|occur]] by [[c/_chance|chance]] or unexpectedly.**
@@ -11,6 +11,6 @@
 ### Synonyms
 - 
 #adverb
-- **[[m/_maybe|Maybe]], perhaps.**
+- **[[m/_maybe|Maybe]], [[p/_perhaps|perhaps]].**
 ---
 ---

@@ -30,6 +30,6 @@
 ### Synonyms
 - [[g/_gulp|gulp]], [[s/_sip|sip]], [[s/_swig|swig]], [[a/_alcohol|alcohol]], [[b/_beverage|beverage]], [[b/_beverage|beverage]], [[b/_beverage|beverage]]
 #noun
-- **A short [[b/_break|break]] in play to [[a/_allow|allow]] the players to [[h/_have|have]] a [[d/_drink|drink]], and for quick repairs to be [[m/_made|made]] to [[e/_equipment|equipment]] or the pitch.**
+- **A short [[b/_break|break]] in [[p/_play|play]] to [[a/_allow|allow]] the [[p/_players|players]] to [[h/_have|have]] a [[d/_drink|drink]], and for quick repairs to be [[m/_made|made]] to [[e/_equipment|equipment]] or the [[p/_pitch|pitch]].**
 ---
 ---

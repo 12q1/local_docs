@@ -1,13 +1,13 @@
 # Abide
 ---
 #verb
-- **To [[e/_endure|endure]] without [[y/_yielding|yielding]]; to withstand; [[a/_await|await]] [[d/_defiantly|defiantly]]; to [[e/_encounter|encounter]]; to persevere.**
+- **To [[e/_endure|endure]] without [[y/_yielding|yielding]]; to withstand; [[a/_await|await]] [[d/_defiantly|defiantly]]; to [[e/_encounter|encounter]]; to [[p/_persevere|persevere]].**
 	- _Example: The old oak tree abides the wind endlessly._
-- **To [[b/_bear|bear]] patiently; to tolerate; to put up with; stand.**
+- **To [[b/_bear|bear]] [[p/_patiently|patiently]]; to tolerate; to put up with; stand.**
 - **To [[p/_pay|pay]] for; to stand the [[c/_consequences|consequences]] of; to [[a/_answer|answer]] for; to suffer for; to [[a/_atone|atone]] for.**
 - **To wait in [[e/_expectation|expectation]].**
-- **To pause; to [[d/_delay|delay]].**
-- **To stay; to [[c/_continue|continue]] in a place; to remain stable or [[f/_fixed|fixed]] in some state or [[c/_condition|condition]]; to be [[l/_left|left]].**
+- **To [[p/_pause|pause]]; to [[d/_delay|delay]].**
+- **To stay; to [[c/_continue|continue]] in a [[p/_place|place]]; to remain stable or [[f/_fixed|fixed]] in some state or [[c/_condition|condition]]; to be [[l/_left|left]].**
 - **To [[h/_have|have]] [[o/_one|one]]'s [[a/_abode|abode]]; to [[d/_dwell|dwell]]; to reside; to sojourn.**
 - **To [[e/_endure|endure]]; to remain; to [[l/_last|last]].**
 - **To stand ready for; to [[a/_await|await]] for someone; watch for.**

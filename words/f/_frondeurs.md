@@ -1,6 +1,6 @@
 # Frondeurs
 ---
 #noun
-- **A political rebel**
+- **A [[p/_political|political]] rebel**
 ---
 ---

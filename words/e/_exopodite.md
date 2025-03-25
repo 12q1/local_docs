@@ -1,6 +1,6 @@
 # Exopodite
 ---
 #noun
-- **The [[e/_external|external]] part of the uropod.**
+- **The [[e/_external|external]] [[p/_part|part]] of the uropod.**
 ---
 ---

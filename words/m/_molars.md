@@ -6,6 +6,6 @@
 ### Synonyms
 - [[c/_cheektooth|cheektooth]], [[g/_grinder|grinder]], [[w/_wangtooth|wangtooth]]
 #noun
-- **A unit of [[c/_concentration|concentration]] [[e/_equal|equal]] to [[o/_one|one]] [[m/_mole|mole]] per [[l/_litre|litre]].**
+- **A unit of [[c/_concentration|concentration]] [[e/_equal|equal]] to [[o/_one|one]] [[m/_mole|mole]] [[p/_per|per]] [[l/_litre|litre]].**
 ---
 ---

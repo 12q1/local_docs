@@ -1,6 +1,6 @@
 # Fitchew
 ---
 #noun
-- **Polecat**
+- **[[p/_polecat|Polecat]]**
 ---
 ---

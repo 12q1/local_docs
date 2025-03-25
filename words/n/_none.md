@@ -1,7 +1,7 @@
 # None
 ---
 #noun
-- **A person without religious [[a/_affiliation|affiliation]].**
+- **A [[p/_person|person]] without religious [[a/_affiliation|affiliation]].**
 ---
 #adverb
 - **To [[n/_no|no]] [[e/_extent|extent]], in [[n/_no|no]] way.**

@@ -7,6 +7,6 @@
 - **A shaking or trembling [[m/_movement|movement]], as of [[o/_old|old]] [[a/_age|age]].**
 ---
 #adjective
-- **[[m/_mentally|Mentally]] or physically [[i/_infirm|infirm]] [[d/_due|due]] to [[o/_old|old]] [[a/_age|age]]; senile**
+- **[[m/_mentally|Mentally]] or [[p/_physically|physically]] [[i/_infirm|infirm]] [[d/_due|due]] to [[o/_old|old]] [[a/_age|age]]; senile**
 ---
 ---

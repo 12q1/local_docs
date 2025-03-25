@@ -1,7 +1,7 @@
 # Clings
 ---
 #noun
-- **[[f/_fruit|Fruit]] ([[e/_especially|especially]] peach) whose [[f/_flesh|flesh]] [[a/_adheres|adheres]] strongly to the pit.**
+- **[[f/_fruit|Fruit]] ([[e/_especially|especially]] [[p/_peach|peach]]) whose [[f/_flesh|flesh]] [[a/_adheres|adheres]] strongly to the [[p/_pit|pit]].**
 - **[[a/_adherence|Adherence]]; [[a/_attachment|attachment]]; [[d/_devotion|devotion]]**
 ---
 #verb
@@ -12,11 +12,11 @@
 - **To [[c/_cause|cause]] to [[d/_dry|dry]] up or wither.**
 - **To [[d/_dry|dry]] up or wither.**
 	- _Example: Wood clings._
-- **(with preposition to) to be [[f/_fond|fond]] of, to [[f/_feel|feel]] strongly [[a/_about|about]] and [[d/_dependent|dependent]] on**
+- **(with [[p/_preposition|preposition]] to) to be [[f/_fond|fond]] of, to [[f/_feel|feel]] strongly [[a/_about|about]] and [[d/_dependent|dependent]] on**
 ---
 ### Synonyms
 - [[c/_cleave|cleave]], [[s/_stick|stick]], [[c/_clinch|clinch]], [[g/_grip|grip]]
 #verb
-- **To produce a [[h/_high|high]]-pitched ringing sound, [[l/_like|like]] a small [[b/_bell|bell]].**
+- **To produce a [[h/_high|high]]-[[p/_pitched|pitched]] ringing sound, [[l/_like|like]] a small [[b/_bell|bell]].**
 ---
 ---

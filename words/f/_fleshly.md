@@ -3,7 +3,7 @@
 #adjective
 - **Of or relating to the [[b/_body|body]].**
 - **Of, relating to or resembling [[f/_flesh|flesh]]; [[c/_composed|composed]] of [[f/_flesh|flesh]]; [[h/_having|having]] a [[l/_lot|lot]] of [[f/_flesh|flesh]].**
-- **Of or relating to pleasurable ([[o/_often|often]] sexual) sensations.**
+- **Of or relating to [[p/_pleasurable|pleasurable]] ([[o/_often|often]] sexual) sensations.**
 - **Of or relating to [[n/_non|non]]-spiritual or [[n/_non|non]]-religious [[m/_matters|matters]].**
 ---
 ### Synonyms

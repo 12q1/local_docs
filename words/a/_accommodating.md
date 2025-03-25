@@ -23,6 +23,6 @@
 - [[d/_discommodate|discommodate]]
 #adjective
 - **[[a/_affording|Affording]], or [[d/_disposed|disposed]] to [[a/_afford|afford]], [[a/_accommodation|accommodation]]; [[o/_obliging|obliging]]; [[h/_helpful|helpful]].**
-- **Pliable; [[e/_easily|easily]] [[c/_corrupted|corrupted]].**
+- **[[p/_pliable|Pliable]]; [[e/_easily|easily]] [[c/_corrupted|corrupted]].**
 ---
 ---

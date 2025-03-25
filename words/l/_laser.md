@@ -9,6 +9,6 @@
 - [[L/_LASER|LASER]]
 #verb
 - **To [[c/_cut|cut]] with a [[l/_laser|laser]]**
-- **To throw with [[l/_laser|laser]]-[[l/_like|like]] precision**
+- **To throw with [[l/_laser|laser]]-[[l/_like|like]] [[p/_precision|precision]]**
 ---
 ---

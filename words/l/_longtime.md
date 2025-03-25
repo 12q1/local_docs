@@ -1,7 +1,7 @@
 # Longtime
 ---
 #adjective
-- **[[h/_having|Having]] [[e/_endured|endured]] for a [[l/_long|long]] period of time.**
+- **[[h/_having|Having]] [[e/_endured|endured]] for a [[l/_long|long]] [[p/_period|period]] of time.**
 	- _Example: My longtime friend, since birth actually, called and gently broke the bad news to me._
 ---
 ### Synonyms

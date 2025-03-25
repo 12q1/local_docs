@@ -1,6 +1,6 @@
 # Bajra
 ---
 #noun
-- **Pearl [[m/_millet|millet]] (Pennisetum glaucum)**
+- **[[p/_pearl|Pearl]] [[m/_millet|millet]] ([[p/_pennisetum|Pennisetum]] glaucum)**
 ---
 ---

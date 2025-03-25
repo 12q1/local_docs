@@ -1,7 +1,7 @@
 # Busking
 ---
 #verb
-- **To prepare; to [[m/_make|make]] ready; to [[a/_array|array]]; to [[d/_dress|dress]].**
+- **To [[p/_prepare|prepare]]; to [[m/_make|make]] ready; to [[a/_array|array]]; to [[d/_dress|dress]].**
 - **To [[g/_go|go]]; to [[d/_direct|direct]] [[o/_one|one]]'s [[c/_course|course]].**
 ---
 #verb

@@ -1,7 +1,7 @@
 # Grandfather
 ---
 #noun
-- **A [[f/_father|father]] of someone's parent.**
+- **A [[f/_father|father]] of someone's [[p/_parent|parent]].**
 - **(by [[e/_extension|extension]]) A [[m/_male|male]] [[f/_forefather|forefather]].**
 ---
 ### Synonyms

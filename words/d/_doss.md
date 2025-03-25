@@ -3,9 +3,9 @@
 #noun
 - **The [[a/_avoidance|avoidance]] of work.**
 	- _Example: I am going to have a doss tomorrow._
-- **An [[e/_easy|easy]] piece of work.**
+- **An [[e/_easy|easy]] [[p/_piece|piece]] of work.**
 	- _Example: Circumnavigating the world in a canoe is no doss._
-- **A place to sleep in; a [[b/_bed|bed]].**
+- **A [[p/_place|place]] to sleep in; a [[b/_bed|bed]].**
 - **(by [[e/_extension|extension]]) Sleep.**
 ---
 #verb

@@ -1,6 +1,6 @@
 # Fluviatile
 ---
 #adjective
-- **Of, pertaining to, or produced by rivers; [[f/_fluvial|fluvial]]**
+- **Of, [[p/_pertaining|pertaining]] to, or produced by rivers; [[f/_fluvial|fluvial]]**
 ---
 ---

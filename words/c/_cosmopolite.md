@@ -1,7 +1,7 @@
 # Cosmopolite
 ---
 #noun
-- **[[o/_one|One]] who is at [[h/_home|home]] in [[e/_every|every]] place; a [[c/_citizen|citizen]] of the world; a [[c/_cosmopolitan|cosmopolitan]] person.**
+- **[[o/_one|One]] who is at [[h/_home|home]] in [[e/_every|every]] [[p/_place|place]]; a [[c/_citizen|citizen]] of the world; a [[c/_cosmopolitan|cosmopolitan]] [[p/_person|person]].**
 - **The [[b/_butterfly|butterfly]] [[p/_painted|painted]] [[l/_lady|lady]] (Vanessa cardui).**
 ---
 ### Synonyms

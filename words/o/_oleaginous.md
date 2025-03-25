@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[o/_oily|Oily]], [[g/_greasy|greasy]].**
-- **(of [[m/_manner|manner]] or speech) [[f/_falsely|Falsely]] or [[a/_affectedly|affectedly]] [[e/_earnest|earnest]]; persuasively suave.**
+- **(of [[m/_manner|manner]] or speech) [[f/_falsely|Falsely]] or [[a/_affectedly|affectedly]] [[e/_earnest|earnest]]; [[p/_persuasively|persuasively]] suave.**
 	- _Example: The oleaginous salesman convinced me to buy a more expensive car._
 ---
 ### Synonyms

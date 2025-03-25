@@ -6,6 +6,6 @@
 ### Synonyms
 - [[m/_miserly|miserly]], [[s/_stingy|stingy]]
 #adverb
-- **In a parsimonious way; sparingly, stingily.**
+- **In a [[p/_parsimonious|parsimonious]] way; sparingly, stingily.**
 ---
 ---

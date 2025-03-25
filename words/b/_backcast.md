@@ -16,7 +16,7 @@
 - **Retrospective.**
 ---
 #adverb
-- **(of time) [[l/_long|Long]] [[a/_ago|ago]]; in the past.**
+- **(of time) [[l/_long|Long]] [[a/_ago|ago]]; in the [[p/_past|past]].**
 ---
 ### Synonyms
 - 

@@ -1,6 +1,6 @@
 # Comminatory
 ---
 #adjective
-- **Of or pertaining to [[c/_commination|commination]].**
+- **Of or [[p/_pertaining|pertaining]] to [[c/_commination|commination]].**
 ---
 ---

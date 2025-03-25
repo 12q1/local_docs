@@ -1,7 +1,7 @@
 # Dissents
 ---
 #noun
-- **[[d/_disagreement|Disagreement]] with the [[i/_ideas|ideas]], [[d/_doctrines|doctrines]], [[d/_decrees|decrees]], [[e/_etc|etc]]. of a political party, [[g/_government|government]] or religion.**
+- **[[d/_disagreement|Disagreement]] with the [[i/_ideas|ideas]], [[d/_doctrines|doctrines]], [[d/_decrees|decrees]], [[e/_etc|etc]]. of a [[p/_political|political]] [[p/_party|party]], [[g/_government|government]] or religion.**
 - **An [[a/_act|act]] of [[d/_disagreeing|disagreeing]] with, or [[d/_deviating|deviating]] from, the views and [[o/_opinions|opinions]] of those [[h/_holding|holding]] [[a/_authority|authority]].**
 - **([[a/_anglo|Anglo]]-[[a/_american|American]] [[c/_common|common]] [[l/_law|law]]) A separate [[o/_opinion|opinion]] [[f/_filed|filed]] in a [[c/_case|case]] by [[j/_judges|judges]] who [[d/_disagree|disagree]] with the [[o/_outcome|outcome]] of the [[m/_majority|majority]] of the [[c/_court|court]] in that [[c/_case|case]]**
 - **A violation that [[a/_arises|arises]] when [[d/_disagreement|disagreement]] with an [[o/_official|official]] [[c/_call|call]] is [[e/_expressed|expressed]] in an [[i/_inappropriate|inappropriate]] [[m/_manner|manner]] such as [[f/_foul|foul]] [[l/_language|language]], rude [[g/_gestures|gestures]], of [[f/_failure|failure]] to [[c/_comply|comply]].**

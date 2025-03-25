@@ -1,7 +1,7 @@
 # Dearly
 ---
 #adverb
-- **In a [[d/_dear|dear]] or precious [[m/_manner|manner]].**
+- **In a [[d/_dear|dear]] or [[p/_precious|precious]] [[m/_manner|manner]].**
 	- _Example: the funeral of our dearly beloved sister_
 - **In a [[d/_dear|dear]] or [[e/_expensive|expensive]] [[m/_manner|manner]].**
 	- _Example: a dearly priced item_

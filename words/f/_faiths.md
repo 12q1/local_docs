@@ -1,7 +1,7 @@
 # Faiths
 ---
 #noun
-- **A trust or [[c/_confidence|confidence]] in the [[i/_intentions|intentions]] or [[a/_abilities|abilities]] of a person, [[o/_object|object]], or [[i/_ideal|ideal]] from prior [[e/_empirical|empirical]] [[e/_evidence|evidence]].**
+- **A trust or [[c/_confidence|confidence]] in the [[i/_intentions|intentions]] or [[a/_abilities|abilities]] of a [[p/_person|person]], [[o/_object|object]], or [[i/_ideal|ideal]] from prior [[e/_empirical|empirical]] [[e/_evidence|evidence]].**
 	- _Example: I have faith in the goodness of my fellow man._
 - **The process of [[f/_forming|forming]] or understanding [[a/_abstractions|abstractions]], [[i/_ideas|ideas]], or [[b/_beliefs|beliefs]], without [[e/_empirical|empirical]] [[e/_evidence|evidence]], [[e/_experience|experience]] or [[o/_observation|observation]].**
 	- _Example: I have faith in the healing power of crystals._

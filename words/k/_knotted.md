@@ -6,7 +6,7 @@
 - **To [[f/_form|form]] wrinkles in the [[f/_forehead|forehead]], as a sign of [[c/_concentration|concentration]], [[c/_concern|concern]], surprise, [[e/_etc|etc]].**
 	- _Example: She knotted her brow in concentration while attempting to unravel the tangled strands._
 - **To unite [[c/_closely|closely]]; to [[k/_knit|knit]] together.**
-- **To [[e/_entangle|entangle]] or perplex; to puzzle.**
+- **To [[e/_entangle|entangle]] or [[p/_perplex|perplex]]; to puzzle.**
 - **To [[f/_form|form]] [[k/_knots|knots]].**
 - **To [[k/_knit|knit]] [[k/_knots|knots]] for a [[f/_fringe|fringe]].**
 ---

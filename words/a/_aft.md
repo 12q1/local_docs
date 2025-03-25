@@ -1,7 +1,7 @@
 # Aft
 ---
 #noun
-- **The stern portion of a vessel.**
+- **The stern [[p/_portion|portion]] of a vessel.**
 ---
 #adjective
 - **[[l/_located|Located]] at the [[b/_back|back]] of a [[b/_boat|boat]], ship, or [[a/_airplane|airplane]]**

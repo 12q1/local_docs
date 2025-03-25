@@ -1,8 +1,8 @@
 # Gype
 ---
 #noun
-- **[[f/_fool|Fool]]; [[c/_clumsy|clumsy]], [[a/_awkward|awkward]] person**
-- **[[l/_long|Long]]-[[l/_legged|legged]] person**
+- **[[f/_fool|Fool]]; [[c/_clumsy|clumsy]], [[a/_awkward|awkward]] [[p/_person|person]]**
+- **[[l/_long|Long]]-[[l/_legged|legged]] [[p/_person|person]]**
 - **Silly [[b/_boy|boy]]**
 ---
 ---

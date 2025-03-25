@@ -1,7 +1,7 @@
 # Departments
 ---
 #noun
-- **A part, portion, or subdivision.**
+- **A [[p/_part|part]], [[p/_portion|portion]], or subdivision.**
 - **A [[d/_distinct|distinct]] [[c/_course|course]] of [[l/_life|life]], [[a/_action|action]], study, or the [[l/_like|like]].**
 	- _Example: Technical things are not his department; he's a people person._
 - **A subdivision of an [[o/_organization|organization]].**

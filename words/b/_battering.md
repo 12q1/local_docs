@@ -7,7 +7,7 @@
 	- _Example: I prefer it when they batter the cod with breadcrumbs._
 - **To [[d/_defeat|defeat]] soundly; to thrash.**
 	- _Example: Leeds United battered Charlton 7-0._
-- **(usually in the passive) To [[i/_intoxicate|intoxicate]].**
+- **(usually in the [[p/_passive|passive]]) To [[i/_intoxicate|intoxicate]].**
 	- _Example: I was battered last night on our pub crawl._
 - **To [[f/_flatten|flatten]] ([[m/_metal|metal]]) by [[h/_hammering|hammering]], so as to [[c/_compress|compress]] it [[i/_inwardly|inwardly]] and spread it [[o/_outwardly|outwardly]].**
 ---

@@ -2,7 +2,7 @@
 ---
 #verb
 - **To reduce in size, [[f/_force|force]], value, [[a/_amount|amount]], or [[d/_degree|degree]].**
-- **To [[m/_make|make]] thinner, as by physically reshaping, starving, or [[d/_decaying|decaying]].**
+- **To [[m/_make|make]] thinner, as by [[p/_physically|physically]] reshaping, starving, or [[d/_decaying|decaying]].**
 - **To [[b/_become|become]] thin or [[f/_fine|fine]]; to [[g/_grow|grow]] [[l/_less|less]].**
 - **To weaken.**
 - **To rarefy.**

@@ -1,9 +1,9 @@
 # Booby
 ---
 #noun
-- **A stupid person.**
+- **A stupid [[p/_person|person]].**
 - **[[a/_any|Any]] of various [[l/_large|large]] tropical seabirds from the [[g/_genera|genera]] Sula and Papasula in the [[g/_gannet|gannet]] [[f/_family|family]] Sulidae, traditionally [[c/_considered|considered]] to be stupid.**
-- **In the [[g/_game|game]] of [[c/_croquet|croquet]], a [[b/_ball|ball]] that [[h/_has|has]] not passed through the [[f/_first|first]] wicket.**
+- **In the [[g/_game|game]] of [[c/_croquet|croquet]], a [[b/_ball|ball]] that [[h/_has|has]] not [[p/_passed|passed]] through the [[f/_first|first]] wicket.**
 ---
 ### Synonyms
 - [[s/_sulid|sulid]]

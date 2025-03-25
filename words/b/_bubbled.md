@@ -7,7 +7,7 @@
 - **To rise through a [[m/_medium|medium]] or system, similar to the way that [[b/_bubbles|bubbles]] rise in [[l/_liquid|liquid]].**
 - **To [[c/_cheat|cheat]], [[d/_delude|delude]].**
 - **To [[c/_cry|cry]], weep.**
-- **To pat a [[b/_baby|baby]] on the [[b/_back|back]] so as to [[c/_cause|cause]] it to [[b/_belch|belch]].**
+- **To [[p/_pat|pat]] a [[b/_baby|baby]] on the [[b/_back|back]] so as to [[c/_cause|cause]] it to [[b/_belch|belch]].**
 - **To [[c/_cause|cause]] to [[f/_feel|feel]] as [[i/_if|if]] [[b/_bubbling|bubbling]] or [[c/_churning|churning]].**
 - **To [[e/_express|express]] in a [[b/_bubbly|bubbly]] or [[l/_lively|lively]] [[m/_manner|manner]].**
 - **To [[f/_form|form]] [[i/_into|into]] a protruding round shape.**

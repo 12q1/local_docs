@@ -14,13 +14,13 @@
 - **A [[c/_convicted|convicted]] [[c/_criminal|criminal]], a [[c/_convict|convict]].**
 ---
 #noun
-- **A [[f/_fraud|fraud]]; something [[c/_carried|carried]] [[o/_out|out]] with the [[i/_intention|intention]] of [[d/_deceiving|deceiving]], usually for personal, [[o/_often|often]] [[i/_illegal|illegal]], [[g/_gain|gain]].**
+- **A [[f/_fraud|fraud]]; something [[c/_carried|carried]] [[o/_out|out]] with the [[i/_intention|intention]] of [[d/_deceiving|deceiving]], usually for [[p/_personal|personal]], [[o/_often|often]] [[i/_illegal|illegal]], [[g/_gain|gain]].**
 ---
 #noun
 - **An [[o/_organized|organized]] [[g/_gathering|gathering]] such as a [[c/_convention|convention]], [[c/_conference|conference]] or [[c/_congress|congress]].**
 ---
 #noun
-- **The [[c/_conversion|conversion]] of part of a [[b/_building|building]].**
+- **The [[c/_conversion|conversion]] of [[p/_part|part]] of a [[b/_building|building]].**
 	- _Example: We're getting a loft con done next year._
 ---
 ---

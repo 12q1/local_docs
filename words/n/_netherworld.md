@@ -1,7 +1,7 @@
 # Netherworld
 ---
 #pronoun
-- **The place to which [[o/_one|one]]'s spirit [[d/_descends|descends]] upon [[d/_death|death]], [[c/_conceived|conceived]] as [[b/_below|below]] the surface of the [[e/_earth|earth]].**
+- **The [[p/_place|place]] to which [[o/_one|one]]'s spirit [[d/_descends|descends]] upon [[d/_death|death]], [[c/_conceived|conceived]] as [[b/_below|below]] the surface of the [[e/_earth|earth]].**
 	- _Example: In some religions, one's soul departs to a netherworld, hell, instead of the heavens._
 - **The [[l/_locale|locale]] of the spirit world or [[a/_afterlife|afterlife]], whether [[d/_deemed|deemed]] to be situated [[b/_below|below]] the world of the [[l/_living|living]] or not.**
 	- _Example: While I was astrally projecting, I felt my soul pass through many insubstantial netherworlds._

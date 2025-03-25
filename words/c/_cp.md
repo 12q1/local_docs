@@ -1,7 +1,7 @@
 # Cp
 ---
 #noun
-- **A [[m/_mapping|mapping]] to a particular [[c/_character|character]] set, where there are several possible sets that share the same [[c/_code|code]] points. [[a/_abbreviation|Abbreviation]]: [[c/_cp|cp]].**
+- **A [[m/_mapping|mapping]] to a [[p/_particular|particular]] [[c/_character|character]] set, where there are several [[p/_possible|possible]] sets that share the same [[c/_code|code]] [[p/_points|points]]. [[a/_abbreviation|Abbreviation]]: [[c/_cp|cp]].**
 ---
 #verb
 - **To [[a/_assess|assess]] the similarities and [[d/_differences|differences]] [[b/_between|between]] two or [[m/_more|more]] things ["to [[c/_compare|compare]] X with [[y/_y|Y]]"]. [[h/_having|Having]] [[m/_made|made]] the [[c/_comparison|comparison]] of X with [[y/_y|Y]], [[o/_one|one]] [[m/_might|might]] [[h/_have|have]] [[f/_found|found]] it similar to [[y/_y|Y]] or [[d/_different|different]] from [[y/_y|Y]].**

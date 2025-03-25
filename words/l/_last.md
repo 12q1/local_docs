@@ -5,7 +5,7 @@
 	- _Example: “Eyes Wide Shut” was the last film to be directed by Stanley Kubrick._
 - **[[m/_most|Most]] recent, [[l/_latest|latest]], [[l/_last|last]] so [[f/_far|far]].**
 	- _Example: I have received your note dated the 17th last, and am responding to say that [...]_
-- **[[f/_farthest|Farthest]] of [[a/_all|all]] from a [[g/_given|given]] quality, [[c/_character|character]], or [[c/_condition|condition]]; [[m/_most|most]] unlikely, or [[l/_least|least]] preferable.**
+- **[[f/_farthest|Farthest]] of [[a/_all|all]] from a [[g/_given|given]] quality, [[c/_character|character]], or [[c/_condition|condition]]; [[m/_most|most]] unlikely, or [[l/_least|least]] [[p/_preferable|preferable]].**
 	- _Example: He is the last person to be accused of theft._
 - **[[b/_being|Being]] the [[o/_only|only]] [[o/_one|one]] remaining of [[i/_its|its]] [[c/_class|class]].**
 	- _Example: Japan is the last empire._

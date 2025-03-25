@@ -1,7 +1,7 @@
 # Nan
 ---
 #noun
-- **A [[m/_mother|mother]] of someone's parent.**
+- **A [[m/_mother|mother]] of someone's [[p/_parent|parent]].**
 - **A [[f/_female|female]] [[a/_ancestor|ancestor]] or progenitor.**
 ---
 ### Antonyms

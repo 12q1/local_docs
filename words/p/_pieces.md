@@ -1,0 +1,44 @@
+# Pieces
+---
+#noun
+- **A [[p/_part|part]] of a [[l/_larger|larger]] whole, usually in such a [[f/_form|form]] that it is [[a/_able|able]] to be separated from [[o/_other|other]] [[p/_parts|parts]].**
+	- _Example: I’d like another piece of pie._
+- **A single [[i/_item|item]] [[b/_belonging|belonging]] to a [[c/_class|class]] of similar [[i/_items|items]]**
+	- _Example: a piece of machinery_
+- **[[o/_one|One]] of the [[f/_figures|figures]] used in [[p/_playing|playing]] [[c/_chess|chess]], specifically a [[h/_higher|higher]]-value [[f/_figure|figure]] as [[d/_distinguished|distinguished]] from a [[p/_pawn|pawn]]; by [[e/_extension|extension]], a similar [[c/_counter|counter]] [[e/_etc|etc]]. in [[o/_other|other]] [[g/_games|games]].**
+- **A [[c/_coin|coin]], [[e/_especially|especially]] [[o/_one|one]] valued at [[l/_less|less]] than the principal unit of [[c/_currency|currency]].**
+	- _Example: a sixpenny piece_
+- **An [[a/_artistic|artistic]] [[c/_creation|creation]], such as a [[p/_painting|painting]], sculpture, [[m/_musical|musical]] [[c/_composition|composition]], [[l/_literary|literary]] work, [[e/_etc|etc]].**
+	- _Example: She played two beautiful pieces on the piano._
+- **An [[a/_article|article]] published in the [[p/_press|press]].**
+	- _Example: Today's paper has an interesting piece on medical research._
+- **An [[a/_artillery|artillery]] [[g/_gun|gun]].**
+- **A [[g/_gun|gun]].**
+	- _Example: He's packin' a piece!_
+- **(short for [[h/_hairpiece|hairpiece]]) A toupee or wig, [[e/_especially|especially]] when worn by a [[m/_man|man]].**
+	- _Example: The announcer is wearing a new piece._
+- **A slice or [[o/_other|other]] quantity of [[b/_bread|bread]], [[e/_eaten|eaten]] on [[i/_its|its]] [[o/_own|own]]; a sandwich or [[l/_light|light]] snack.**
+- **A sexual [[e/_encounter|encounter]]; from [[p/_piece|piece]] of [[a/_ass|ass]] or [[p/_piece|piece]] of tail**
+	- _Example: I got a piece at lunchtime._
+- **([[m/_mildly|mildly]], short for [[p/_piece|piece]] of [[c/_crap|crap]]/[[p/_piece|piece]] of shit) A shoddy or worthless [[o/_object|object]] (usually [[a/_applied|applied]] to [[c/_consumer|consumer]] products [[l/_like|like]] vehicles or [[a/_appliances|appliances]]).**
+	- _Example: Ugh, my new computer is such a piece. I'm taking it back to the store tomorrow._
+- **A [[c/_cannabis|cannabis]] [[p/_pipe|pipe]].**
+- **Used to [[d/_describe|describe]] a [[p/_pitch|pitch]] that [[h/_has|has]] [[b/_been|been]] [[h/_hit|hit]] but not well, usually [[e/_either|either]] [[b/_being|being]] [[c/_caught|caught]] by the [[o/_opposing|opposing]] team or [[g/_going|going]] [[f/_foul|foul]]. Usually used in the [[p/_past|past]] tense with [[g/_got|got]].**
+	- _Example: he got a piece of that one;  she got a piece of the ball [...] and it's going foul._
+- **(sometimes [[d/_derogatory|derogatory]]) An [[i/_individual|individual]]; a [[p/_person|person]].**
+- **A [[c/_castle|castle]]; a [[f/_fortified|fortified]] [[b/_building|building]].**
+- **A [[p/_pacifier|pacifier]]; a [[d/_dummy|dummy]].**
+- **A [[d/_distance|distance]].**
+	- _Example: a fair piece off_
+- **A structured [[p/_practice|practice]] row, [[o/_often|often]] used for [[p/_performance|performance]] [[e/_evaluation|evaluation]].**
+	- _Example: At practice we rowed four 5,000 meter pieces._
+- **An [[a/_amount|amount]] of work to be [[d/_done|done]] at [[o/_one|one]] time; a unit of [[p/_piece|piece]] work.**
+---
+#verb
+- **(usually with together) To [[a/_assemble|assemble]] (something real or [[f/_figurative|figurative]]).**
+	- _Example: These clues allowed us to piece together the solution to the mystery._
+- **To [[m/_make|make]], [[e/_enlarge|enlarge]], or repair, by the [[a/_addition|addition]] of a [[p/_piece|piece]] or [[p/_pieces|pieces]]; to [[p/_patch|patch]]; [[o/_often|often]] with [[o/_out|out]].**
+	- _Example: to piece a garment_
+- **To produce a work of [[g/_graffiti|graffiti]] [[m/_more|more]] [[c/_complex|complex]] than a tag.**
+---
+---

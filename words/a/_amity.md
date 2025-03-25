@@ -1,8 +1,8 @@
 # Amity
 ---
 #noun
-- **[[f/_friendship|Friendship]]. The [[c/_cooperative|cooperative]] and supportive relationship [[b/_between|between]] people, or [[a/_animals|animals]]. In this sense, the term [[c/_connotes|connotes]] a relationship which [[i/_involves|involves]] [[m/_mutual|mutual]] [[k/_knowledge|knowledge]], [[e/_esteem|esteem]], [[a/_affection|affection]], and respect [[a/_along|along]] with a [[d/_degree|degree]] of rendering service to [[f/_friends|friends]] in times of [[n/_need|need]] or [[c/_crisis|crisis]].**
-- **[[m/_mutual|Mutual]] understanding and a peaceful relationship, [[e/_especially|especially]] [[b/_between|between]] [[n/_nations|nations]]; peace; [[a/_accord|accord]].**
+- **[[f/_friendship|Friendship]]. The [[c/_cooperative|cooperative]] and supportive relationship [[b/_between|between]] [[p/_people|people]], or [[a/_animals|animals]]. In this sense, the term [[c/_connotes|connotes]] a relationship which [[i/_involves|involves]] [[m/_mutual|mutual]] [[k/_knowledge|knowledge]], [[e/_esteem|esteem]], [[a/_affection|affection]], and respect [[a/_along|along]] with a [[d/_degree|degree]] of rendering service to [[f/_friends|friends]] in times of [[n/_need|need]] or [[c/_crisis|crisis]].**
+- **[[m/_mutual|Mutual]] understanding and a [[p/_peaceful|peaceful]] relationship, [[e/_especially|especially]] [[b/_between|between]] [[n/_nations|nations]]; [[p/_peace|peace]]; [[a/_accord|accord]].**
 ---
 ### Synonyms
 - [[f/_friendliness|friendliness]], [[f/_friendship|friendship]]

@@ -1,11 +1,11 @@
 # Broken
 ---
 #verb
-- **To separate [[i/_into|into]] two or [[m/_more|more]] pieces, to [[f/_fracture|fracture]] or [[c/_crack|crack]], by a process that [[c/_cannot|cannot]] [[e/_easily|easily]] be reversed for reassembly.**
+- **To separate [[i/_into|into]] two or [[m/_more|more]] [[p/_pieces|pieces]], to [[f/_fracture|fracture]] or [[c/_crack|crack]], by a process that [[c/_cannot|cannot]] [[e/_easily|easily]] be reversed for reassembly.**
 	- _Example: If the vase falls to the floor, it might break._
 - **To [[d/_divide|divide]] (something, [[o/_often|often]] [[m/_money|money]]) [[i/_into|into]] smaller units.**
 	- _Example: Can you break a hundred-dollar bill for me?_
-- **To [[c/_cause|cause]] (a person or [[a/_animal|animal]]) to [[l/_lose|lose]] spirit or will; to [[c/_crush|crush]] the spirits of.**
+- **To [[c/_cause|cause]] (a [[p/_person|person]] or [[a/_animal|animal]]) to [[l/_lose|lose]] spirit or will; to [[c/_crush|crush]] the spirits of.**
 	- _Example: Her child's death broke Angela._
 - **To be [[c/_crushed|crushed]], or [[o/_overwhelmed|overwhelmed]] with sorrow or [[g/_grief|grief]].**
 	- _Example: My heart is breaking._
@@ -15,7 +15,7 @@
 	- _Example: The recession broke some small businesses._
 - **To violate, to not [[a/_adhere|adhere]] to.**
 	- _Example: He broke his vows by cheating on his wife._
-- **(of a [[f/_fever|fever]]) To pass the [[m/_most|most]] [[d/_dangerous|dangerous]] part of the [[i/_illness|illness]]; to [[g/_go|go]] [[d/_down|down]], in terms of temperature.**
+- **(of a [[f/_fever|fever]]) To [[p/_pass|pass]] the [[m/_most|most]] [[d/_dangerous|dangerous]] [[p/_part|part]] of the [[i/_illness|illness]]; to [[g/_go|go]] [[d/_down|down]], in terms of temperature.**
 	- _Example: Susan's fever broke at about 3 AM, and the doctor said the worst was over._
 - **(of a spell of settled weather) To [[e/_end|end]].**
 	- _Example: The forecast says the hot weather will break by midweek._
@@ -23,13 +23,13 @@
 	- _Example: Around midday the storm broke, and the afternoon was calm and sunny._
 - **(of [[m/_morning|morning]], [[d/_dawn|dawn]], [[d/_day|day]] [[e/_etc|etc]].) To [[a/_arrive|arrive]].**
 	- _Example: Morning has broken._
-- **To render (a [[g/_game|game]]) unchallenging by [[a/_altering|altering]] [[i/_its|its]] rules or [[e/_exploiting|exploiting]] [[l/_loopholes|loopholes]] or weaknesses in them in a way that [[g/_gives|gives]] a player an unfair [[a/_advantage|advantage]].**
+- **To render (a [[g/_game|game]]) unchallenging by [[a/_altering|altering]] [[i/_its|its]] rules or [[e/_exploiting|exploiting]] [[l/_loopholes|loopholes]] or weaknesses in them in a way that [[g/_gives|gives]] a [[p/_player|player]] an unfair [[a/_advantage|advantage]].**
 	- _Example: Changing the rules to let white have three extra queens would break chess._
 - **To stop, or to [[c/_cause|cause]] to stop, [[f/_functioning|functioning]] properly or [[a/_altogether|altogether]].**
 	- _Example: Did you two break the trolley by racing with it?_
 - **To [[c/_cause|cause]] (a [[b/_barrier|barrier]]) to [[n/_no|no]] [[l/_longer|longer]] [[b/_bar|bar]].**
 	- _Example: break a seal_
-- **To [[d/_destroy|destroy]] the [[a/_arrangement|arrangement]] of; to throw [[i/_into|into]] [[d/_disorder|disorder]]; to pierce.**
+- **To [[d/_destroy|destroy]] the [[a/_arrangement|arrangement]] of; to throw [[i/_into|into]] [[d/_disorder|disorder]]; to [[p/_pierce|pierce]].**
 	- _Example: The cavalry were not able to break the British squares._
 - **(of a wave of water) To [[c/_collapse|collapse]] [[i/_into|into]] surf, [[a/_after|after]] [[a/_arriving|arriving]] in shallow water.**
 - **To [[b/_burst|burst]] [[f/_forth|forth]]; to [[m/_make|make]] [[i/_its|its]] way; to [[c/_come|come]] [[i/_into|into]] view.**
@@ -50,7 +50,7 @@
 - **To surpass or [[d/_do|do]] [[b/_better|better]] than (a specific [[n/_number|number]]), to [[d/_do|do]] [[b/_better|better]] than (a record), setting a [[n/_new|new]] record.**
 	- _Example: He broke the men's 100-meter record._
 - **:**
-- **([[m/_most|most]] [[o/_often|often]] in the passive tense) To [[d/_demote|demote]], to reduce the [[m/_military|military]] rank of.**
+- **([[m/_most|most]] [[o/_often|often]] in the [[p/_passive|passive]] tense) To [[d/_demote|demote]], to reduce the [[m/_military|military]] rank of.**
 - **To [[e/_end|end]] (a [[c/_connection|connection]]), to [[d/_disconnect|disconnect]].**
 	- _Example: I couldn't hear a thing he was saying, so I broke the connection and called him back._
 - **(of an [[e/_emulsion|emulsion]]) To [[d/_demulsify|demulsify]].**
@@ -72,16 +72,16 @@
 ### Antonyms
 - [[h/_hold|hold]], [[a/_assemble|assemble]], [[f/_fix|fix]], [[j/_join|join]], [[m/_mend|mend]], [[r/_repair|repair]]
 #adjective
-- **[[f/_fragmented|Fragmented]], in separate pieces.**
+- **[[f/_fragmented|Fragmented]], in separate [[p/_pieces|pieces]].**
 - **(of a promise, [[e/_etc|etc]]) [[b/_breached|Breached]]; violated; not [[k/_kept|kept]].**
 	- _Example: broken promises of neutrality_
 - **[[n/_non|Non]]-[[f/_functional|functional]]; not [[f/_functioning|functioning]] properly.**
 	- _Example: I think my doorbell is broken._
-- **(of a person) [[c/_completely|Completely]] [[d/_defeated|defeated]] and [[d/_dispirited|dispirited]]; shattered; [[d/_destroyed|destroyed]].**
+- **(of a [[p/_person|person]]) [[c/_completely|Completely]] [[d/_defeated|defeated]] and [[d/_dispirited|dispirited]]; shattered; [[d/_destroyed|destroyed]].**
 	- _Example: The bankruptcy and divorce, together with the death of his son, left him completely broken._
 - **[[h/_having|Having]] [[n/_no|no]] [[m/_money|money]]; [[b/_bankrupt|bankrupt]], [[b/_broke|broke]].**
 - **(of [[l/_land|land]]) Uneven.**
-- **(of a tactic or [[o/_option|option]]) [[o/_overpowered|Overpowered]]; [[o/_overly|overly]] powerful; too powerful.**
+- **(of a tactic or [[o/_option|option]]) [[o/_overpowered|Overpowered]]; [[o/_overly|overly]] [[p/_powerful|powerful]]; too [[p/_powerful|powerful]].**
 ---
 ### Synonyms
 - [[r/_rekt|rekt]], [[b/_burst|burst]], [[s/_split|split]], [[i/_intermittent|intermittent]], [[s/_spasmodic|spasmodic]], [[d/_destitute|destitute]], [[s/_skint|skint]], [[b/_borked|borked]], [[m/_malfunctioning|malfunctioning]], [[v/_violated|violated]], [[O/_OP|OP]], [[u/_unbalanced|unbalanced]]

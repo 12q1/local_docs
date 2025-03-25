@@ -1,7 +1,7 @@
 # Artisanal
 ---
 #adjective
-- **Of or pertaining to [[a/_artisans|artisans]] or the work of [[a/_artisans|artisans]].**
+- **Of or [[p/_pertaining|pertaining]] to [[a/_artisans|artisans]] or the work of [[a/_artisans|artisans]].**
 - **[[i/_involving|Involving]] skilled work, with [[c/_comparatively|comparatively]] [[l/_little|little]] reliance on [[m/_machinery|machinery]].**
 - **(of an [[i/_item|item]], [[e/_especially|especially]] a [[f/_foodstuff|foodstuff]]) [[m/_made|Made]] by an [[a/_artisan|artisan]] (skilled worker).**
 ---

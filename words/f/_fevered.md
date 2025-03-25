@@ -7,6 +7,6 @@
 ---
 #adjective
 - **[[a/_affected|Affected]] by a [[f/_fever|fever]]; [[f/_feverish|feverish]].**
-- **[[h/_heated|Heated]]; [[i/_impassioned|impassioned]]; [[e/_enthusiastic|enthusiastic]] to the point of [[d/_distraction|distraction]].**
+- **[[h/_heated|Heated]]; [[i/_impassioned|impassioned]]; [[e/_enthusiastic|enthusiastic]] to the [[p/_point|point]] of [[d/_distraction|distraction]].**
 ---
 ---

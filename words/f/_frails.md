@@ -7,6 +7,6 @@
 - **A [[g/_girl|girl]].**
 ---
 #verb
-- **To play a stringed [[i/_instrument|instrument]], usually a [[b/_banjo|banjo]], by picking with the [[b/_back|back]] of a [[f/_fingernail|fingernail]].**
+- **To [[p/_play|play]] a stringed [[i/_instrument|instrument]], usually a [[b/_banjo|banjo]], by [[p/_picking|picking]] with the [[b/_back|back]] of a [[f/_fingernail|fingernail]].**
 ---
 ---

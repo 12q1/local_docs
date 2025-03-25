@@ -10,8 +10,8 @@
 	- _Example: The writ has abated._
 - **To [[n/_nullify|nullify]]; [[m/_make|make]] void.**
 	- _Example: to abate a writ_
-- **To [[h/_humble|humble]]; to [[l/_lower|lower]] in status; to [[b/_bring|bring]] someone [[d/_down|down]] physically or [[m/_mentally|mentally]].**
-- **To be [[h/_humbled|humbled]]; to be [[b/_brought|brought]] [[d/_down|down]] physically or [[m/_mentally|mentally]].**
+- **To [[h/_humble|humble]]; to [[l/_lower|lower]] in status; to [[b/_bring|bring]] someone [[d/_down|down]] [[p/_physically|physically]] or [[m/_mentally|mentally]].**
+- **To be [[h/_humbled|humbled]]; to be [[b/_brought|brought]] [[d/_down|down]] [[p/_physically|physically]] or [[m/_mentally|mentally]].**
 - **To [[c/_curtail|curtail]]; to [[d/_deprive|deprive]].**
 	- _Example: Order restrictions and prohibitions to abate an emergency situation._
 - **To reduce in [[a/_amount|amount]], size, or value.**
@@ -23,7 +23,7 @@
 	- _Example: We will abate this price from the total._
 - **To [[b/_bar|bar]] or [[e/_except|except]].**
 - **To [[c/_cut|cut]] [[a/_away|away]] or [[h/_hammer|hammer]] [[d/_down|down]], in such a way as to [[l/_leave|leave]] a [[f/_figure|figure]] in relief, as a sculpture, or in [[m/_metalwork|metalwork]].**
-- **To [[d/_dull|dull]] the [[e/_edge|edge]] or point of; to [[b/_blunt|blunt]].**
+- **To [[d/_dull|dull]] the [[e/_edge|edge]] or [[p/_point|point]] of; to [[b/_blunt|blunt]].**
 - **To [[d/_destroy|destroy]], or [[l/_level|level]] to the [[g/_ground|ground]].**
 ---
 ### Synonyms
@@ -31,7 +31,7 @@
 ### Antonyms
 - [[a/_accelerate|accelerate]], [[a/_aggravate|aggravate]], [[a/_amplify|amplify]], [[a/_augment|augment]], [[c/_continue|continue]], [[d/_develop|develop]], [[e/_enhance|enhance]], [[e/_enlarge|enlarge]], [[e/_extend|extend]], [[f/_foment|foment]], [[i/_increase|increase]], [[i/_intensify|intensify]], [[m/_magnify|magnify]], [[p/_prolong|prolong]], [[r/_raise|raise]], [[r/_revive|revive]], [[r/_rise|rise]]
 #verb
-- **To [[e/_enter|enter]] a tenement without permission [[a/_after|after]] the [[o/_owner|owner]] [[h/_has|has]] [[d/_died|died]] and [[b/_before|before]] the [[h/_heir|heir]] takes possession.**
+- **To [[e/_enter|enter]] a tenement without [[p/_permission|permission]] [[a/_after|after]] the [[o/_owner|owner]] [[h/_has|has]] [[d/_died|died]] and [[b/_before|before]] the [[h/_heir|heir]] takes [[p/_possession|possession]].**
 ---
 #noun
 - **An [[i/_italian|Italian]] [[a/_abbot|abbot]], or [[o/_other|other]] [[m/_member|member]] of the [[c/_clergy|clergy]].**

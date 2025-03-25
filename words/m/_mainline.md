@@ -12,8 +12,8 @@
 - [[m/_main|main]]
 #adjective
 - **[[n/_normal|Normal]], principal or standard.**
-- **Of or pertaining to the principal route or [[l/_line|line]] of a railway.**
-- **Of or pertaining to a surface railway as [[d/_distinct|distinct]] from an underground, [[e/_elevated|elevated]] or [[l/_light|light]] rail [[o/_one|one]].**
+- **Of or [[p/_pertaining|pertaining]] to the principal route or [[l/_line|line]] of a railway.**
+- **Of or [[p/_pertaining|pertaining]] to a surface railway as [[d/_distinct|distinct]] from an underground, [[e/_elevated|elevated]] or [[l/_light|light]] rail [[o/_one|one]].**
 ---
 ### Synonyms
 - [[m/_mainstream|mainstream]]

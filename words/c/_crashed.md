@@ -15,9 +15,9 @@
 	- _Example: If the system crashes again, we'll have it fixed in the computer shop._
 - **([[h/_hardware|hardware]]) To [[c/_cause|cause]] to terminate [[e/_extraordinarily|extraordinarily]].**
 	- _Example: Double-clicking this icon crashes the desktop._
-- **To [[e/_experience|experience]] a period of [[d/_depression|depression]] and/or [[l/_lethargy|lethargy]] [[a/_after|after]] a period of [[e/_euphoria|euphoria]], as [[a/_after|after]] the [[e/_euphoric|euphoric]] [[e/_effect|effect]] of a psychotropic [[d/_drug|drug]] [[h/_has|has]] [[d/_dissipated|dissipated]].**
+- **To [[e/_experience|experience]] a [[p/_period|period]] of [[d/_depression|depression]] and/or [[l/_lethargy|lethargy]] [[a/_after|after]] a [[p/_period|period]] of [[e/_euphoria|euphoria]], as [[a/_after|after]] the [[e/_euphoric|euphoric]] [[e/_effect|effect]] of a psychotropic [[d/_drug|drug]] [[h/_has|has]] [[d/_dissipated|dissipated]].**
 - **To [[h/_hit|hit]] or strike with [[f/_force|force]]**
-- **(of a patient's [[c/_condition|condition]]) To take a sudden and severe turn for the worse; to rapidly [[d/_deteriorate|deteriorate]].**
+- **(of a [[p/_patient|patient]]'s [[c/_condition|condition]]) To take a sudden and severe turn for the worse; to rapidly [[d/_deteriorate|deteriorate]].**
 - **To [[m/_make|make]] a sudden [[l/_loud|loud]] [[n/_noise|noise]].**
 	- _Example: Thunder crashed directly overhead._
 ---

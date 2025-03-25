@@ -1,6 +1,6 @@
 # Bibliographic
 ---
 #adjective
-- **Of or pertaining to [[b/_bibliography|bibliography]].**
+- **Of or [[p/_pertaining|pertaining]] to [[b/_bibliography|bibliography]].**
 ---
 ---

@@ -1,11 +1,11 @@
 # Migrates
 ---
 #verb
-- **To relocate periodically from [[o/_one|one]] region to [[a/_another|another]], usually [[a/_according|according]] to the seasons.**
+- **To relocate [[p/_periodically|periodically]] from [[o/_one|one]] region to [[a/_another|another]], usually [[a/_according|according]] to the seasons.**
 	- _Example: Twice a year the Minnesotans migrate from their state to the Gulf of Mexico._
-- **To [[c/_change|change]] [[o/_one|one]]'s [[g/_geographic|geographic]] pattern of [[h/_habitation|habitation]].**
+- **To [[c/_change|change]] [[o/_one|one]]'s [[g/_geographic|geographic]] [[p/_pattern|pattern]] of [[h/_habitation|habitation]].**
 	- _Example: Many groups had migrated to western Europe from the plains of eastern Europe._
-- **To [[c/_change|change]] [[h/_habitations|habitations]] [[a/_across|across]] a [[b/_border|border]]; to [[m/_move|move]] from [[o/_one|one]] [[c/_country|country]] or political region to [[a/_another|another]].**
+- **To [[c/_change|change]] [[h/_habitations|habitations]] [[a/_across|across]] a [[b/_border|border]]; to [[m/_move|move]] from [[o/_one|one]] [[c/_country|country]] or [[p/_political|political]] region to [[a/_another|another]].**
 	- _Example: To escape persecution, they migrated to a neutral country._
 - **To [[m/_move|move]] slowly towards, usually in [[g/_groups|groups]].**
 	- _Example: Once the hosts started bickering in the kitchens, the guests began to migrate towards the living room._

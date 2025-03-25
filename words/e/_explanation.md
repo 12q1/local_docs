@@ -5,7 +5,7 @@
 	- _Example: The explanation was long and drawn-out._
 - **Something that [[e/_explains|explains]], [[m/_makes|makes]] understandable.**
 	- _Example: An explanation for the UFO sightings was easily found._
-- **A resolution of [[d/_disputed|disputed]] points pursuant to [[d/_discussion|discussion]]; a [[m/_mutual|mutual]] [[c/_clarification|clarification]] of [[d/_disputed|disputed]] points; reconciliation.**
+- **A resolution of [[d/_disputed|disputed]] [[p/_points|points]] pursuant to [[d/_discussion|discussion]]; a [[m/_mutual|mutual]] [[c/_clarification|clarification]] of [[d/_disputed|disputed]] [[p/_points|points]]; reconciliation.**
 ---
 ### Synonyms
 - [[c/_clarification|clarification]], [[e/_elaboration|elaboration]], [[e/_elucidation|elucidation]], [[e/_explaining|explaining]], [[f/_femsplaining|femsplaining]], [[m/_mansplaining|mansplaining]], [[m/_mansplanation|mansplanation]]

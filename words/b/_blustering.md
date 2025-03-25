@@ -8,11 +8,11 @@
 ---
 #noun
 - **A [[n/_noisy|noisy]] [[b/_blowing|blowing]], as of a [[b/_blast|blast]] of wind.**
-- **Swaggering; [[b/_braggartry|braggartry]]; [[n/_noisy|noisy]] pretension.**
+- **Swaggering; [[b/_braggartry|braggartry]]; [[n/_noisy|noisy]] [[p/_pretension|pretension]].**
 ---
 #adjective
 - **[[e/_engaged|Engaged]] in or [[i/_involving|involving]] the process of [[b/_blustering|blustering]], speaking or protesting [[l/_loudly|loudly]].**
-- **Pompous or [[a/_arrogant|arrogant]] in [[o/_one|one]]'s speech or [[b/_bearing|bearing]].**
+- **[[p/_pompous|Pompous]] or [[a/_arrogant|arrogant]] in [[o/_one|one]]'s speech or [[b/_bearing|bearing]].**
 - **Very windy; (of wind) [[b/_blowing|blowing]] very strongly, [[b/_blustery|blustery]].**
 ---
 ---

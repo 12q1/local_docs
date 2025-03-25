@@ -15,12 +15,12 @@
 	- _Example: to fetch headway or sternway_
 - **To [[b/_bring|bring]] [[o/_oneself|oneself]]; to [[m/_make|make]] [[h/_headway|headway]]; to veer; as, to [[f/_fetch|fetch]] [[a/_about|about]]; to [[f/_fetch|fetch]] to windward.**
 - **To take (a [[b/_breath|breath]]), to [[h/_heave|heave]] (a sigh)**
-- **To [[c/_cause|cause]] to [[c/_come|come]]; to [[b/_bring|bring]] to a particular state.**
+- **To [[c/_cause|cause]] to [[c/_come|come]]; to [[b/_bring|bring]] to a [[p/_particular|particular]] state.**
 - **To recall from a swoon; to revive; sometimes with to.**
 	- _Example: to fetch a man to_
 - **To reduce; to throw.**
-- **To [[b/_bring|bring]] to [[a/_accomplishment|accomplishment]]; to [[a/_achieve|achieve]]; to [[m/_make|make]]; to perform, with [[c/_certain|certain]] [[o/_objects|objects]].**
+- **To [[b/_bring|bring]] to [[a/_accomplishment|accomplishment]]; to [[a/_achieve|achieve]]; to [[m/_make|make]]; to [[p/_perform|perform]], with [[c/_certain|certain]] [[o/_objects|objects]].**
 	- _Example: to fetch a compass;  to fetch a leap_
-- **To [[m/_make|make]] (a pump) [[d/_draw|draw]] water by pouring water [[i/_into|into]] the top and working the [[h/_handle|handle]].**
+- **To [[m/_make|make]] (a pump) [[d/_draw|draw]] water by [[p/_pouring|pouring]] water [[i/_into|into]] the top and working the [[h/_handle|handle]].**
 ---
 ---

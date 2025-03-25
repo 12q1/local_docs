@@ -3,7 +3,7 @@
 #noun
 - **([[c/_cause|Cause]] of) [[d/_discomfort|discomfort]].**
 - **Serious [[d/_danger|danger]].**
-- **An [[a/_aversive|aversive]] state of stress to which a person [[c/_cannot|cannot]] [[f/_fully|fully]] [[a/_adapt|adapt]].**
+- **An [[a/_aversive|aversive]] state of stress to which a [[p/_person|person]] [[c/_cannot|cannot]] [[f/_fully|fully]] [[a/_adapt|adapt]].**
 - **A seizing of property without [[l/_legal|legal]] process to [[f/_force|force]] [[p/_payment|payment]] of a [[d/_debt|debt]].**
 - **The thing taken by [[d/_distraining|distraining]]; that which is seized to procure satisfaction.**
 ---

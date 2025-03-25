@@ -1,13 +1,13 @@
 # Mischiefs
 ---
 #noun
-- **[[c/_conduct|Conduct]] that playfully [[c/_causes|causes]] petty [[a/_annoyance|annoyance]].**
+- **[[c/_conduct|Conduct]] that [[p/_playfully|playfully]] [[c/_causes|causes]] [[p/_petty|petty]] [[a/_annoyance|annoyance]].**
 	- _Example: Drink led to mischief._
-- **A playfully [[a/_annoying|annoying]] [[a/_action|action]].**
+- **A [[p/_playfully|playfully]] [[a/_annoying|annoying]] [[a/_action|action]].**
 	- _Example: John's mischief, tying his shoelaces together, irked George at first._
 - **([[c/_collective|collective]]) A [[g/_group|group]] or a [[p/_pack|pack]] of rats.**
 - **[[h/_harm|Harm]] or [[i/_injury|injury]]:**
-- **A [[c/_cause|cause]] or [[a/_agent|agent]] of [[a/_annoyance|annoyance]], [[h/_harm|harm]] or [[i/_injury|injury]], [[e/_especially|especially]] a person who [[c/_causes|causes]] [[m/_mischief|mischief]].**
+- **A [[c/_cause|cause]] or [[a/_agent|agent]] of [[a/_annoyance|annoyance]], [[h/_harm|harm]] or [[i/_injury|injury]], [[e/_especially|especially]] a [[p/_person|person]] who [[c/_causes|causes]] [[m/_mischief|mischief]].**
 - **The [[d/_devil|Devil]]; used as an [[e/_expletive|expletive]].**
 ---
 ### Synonyms

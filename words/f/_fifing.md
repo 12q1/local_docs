@@ -1,6 +1,6 @@
 # Fifing
 ---
 #verb
-- **To play this [[i/_instrument|instrument]].**
+- **To [[p/_play|play]] this [[i/_instrument|instrument]].**
 ---
 ---

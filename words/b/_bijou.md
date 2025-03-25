@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[j/_jewel|jewel]].**
-- **A piece of [[j/_jewelry|jewelry]]; a trinket.**
-- **A small [[i/_intricate|intricate]] piece of [[m/_metalwork|metalwork]].**
+- **A [[p/_piece|piece]] of [[j/_jewelry|jewelry]]; a trinket.**
+- **A small [[i/_intricate|intricate]] [[p/_piece|piece]] of [[m/_metalwork|metalwork]].**
 ---
 ---

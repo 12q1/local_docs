@@ -1,7 +1,7 @@
 # Bungling
 ---
 #verb
-- **To [[b/_botch|botch]] up, [[b/_bumble|bumble]] or [[i/_incompetently|incompetently]] perform a task; to [[m/_make|make]] or [[m/_mend|mend]] [[c/_clumsily|clumsily]]; to [[m/_manage|manage]] [[a/_awkwardly|awkwardly]].**
+- **To [[b/_botch|botch]] up, [[b/_bumble|bumble]] or [[i/_incompetently|incompetently]] [[p/_perform|perform]] a task; to [[m/_make|make]] or [[m/_mend|mend]] [[c/_clumsily|clumsily]]; to [[m/_manage|manage]] [[a/_awkwardly|awkwardly]].**
 ---
 #noun
 - **An [[a/_act|act]] of [[i/_incompetence|incompetence]] or [[i/_ineptitude|ineptitude]].**

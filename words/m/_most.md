@@ -3,7 +3,7 @@
 #noun
 - **The [[g/_greatest|greatest]] [[a/_amount|amount]].**
 	- _Example: The most I can offer for the house is $150,000._
-- **The [[g/_greater|greater]] part.**
+- **The [[g/_greater|greater]] [[p/_part|part]].**
 	- _Example: Most of the penguins were friendly and curious._
 - **A record-setting [[a/_amount|amount]].**
 ---
@@ -18,7 +18,7 @@
 ### Antonyms
 - [[l/_least|least]], [[l/_least|least]]
 #pronoun
-- **The [[g/_greater|greater]] part of a [[g/_group|group]], [[e/_especially|especially]] a [[g/_group|group]] of people.**
+- **The [[g/_greater|greater]] [[p/_part|part]] of a [[g/_group|group]], [[e/_especially|especially]] a [[g/_group|group]] of [[p/_people|people]].**
 	- _Example: Most want the best for their children._
 ---
 ### Synonyms

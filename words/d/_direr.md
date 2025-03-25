@@ -1,9 +1,9 @@
 # Direr
 ---
 #adjective
-- **Warning of [[b/_bad|bad]] [[c/_consequences|consequences]]: [[i/_ill|ill]]-[[b/_boding|boding]]; portentous.**
+- **Warning of [[b/_bad|bad]] [[c/_consequences|consequences]]: [[i/_ill|ill]]-[[b/_boding|boding]]; [[p/_portentous|portentous]].**
 	- _Example: dire omens_
-- **Requiring [[a/_action|action]] to prevent [[b/_bad|bad]] [[c/_consequences|consequences]]: urgent, pressing.**
+- **Requiring [[a/_action|action]] to prevent [[b/_bad|bad]] [[c/_consequences|consequences]]: urgent, [[p/_pressing|pressing]].**
 	- _Example: dire need_
 - **[[e/_expressing|Expressing]] [[b/_bad|bad]] [[c/_consequences|consequences]]: [[d/_dreadful|dreadful]]; [[d/_dismal|dismal]]**
 	- _Example: dire consequences;  to be in dire straits_

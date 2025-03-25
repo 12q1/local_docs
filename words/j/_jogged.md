@@ -9,6 +9,6 @@
 - **([[e/_exercise|exercise]]) To [[m/_move|move]] at a [[p/_pace|pace]] [[b/_between|between]] walking and running, to run at a [[l/_leisurely|leisurely]] [[p/_pace|pace]].**
 - **To [[c/_cause|cause]] to [[m/_move|move]] at an [[e/_energetic|energetic]] trot.**
 	- _Example: to jog a horse_
-- **To straighten stacks of paper by [[l/_lightly|lightly]] tapping [[a/_against|against]] a [[f/_flat|flat]] surface.**
+- **To straighten stacks of [[p/_paper|paper]] by [[l/_lightly|lightly]] tapping [[a/_against|against]] a [[f/_flat|flat]] surface.**
 ---
 ---

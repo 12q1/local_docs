@@ -5,6 +5,6 @@
 - **Skeptical of the [[i/_integrity|integrity]], sincerity, or [[m/_motives|motives]] of [[o/_others|others]].**
 - **[[b/_bitterly|Bitterly]] or [[j/_jadedly|jadedly]] [[d/_distrustful|distrustful]] or [[c/_contemptuous|contemptuous]]; [[m/_mocking|mocking]].**
 - **Showing [[c/_contempt|contempt]] for [[a/_accepted|accepted]] [[m/_moral|moral]] standards by [[o/_one|one]]'s [[a/_actions|actions]].**
-- **[[l/_like|Like]] the [[a/_actions|actions]] of a snarling [[d/_dog|dog]], [[e/_especially|especially]] in reference to [[f/_facial|facial]] [[n/_nerve|nerve]] paralysis.**
+- **[[l/_like|Like]] the [[a/_actions|actions]] of a snarling [[d/_dog|dog]], [[e/_especially|especially]] in reference to [[f/_facial|facial]] [[n/_nerve|nerve]] [[p/_paralysis|paralysis]].**
 ---
 ---

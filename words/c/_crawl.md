@@ -5,7 +5,7 @@
 - **A rapid swimming stroke with [[a/_alternate|alternate]] [[o/_overarm|overarm]] strokes and a [[f/_fluttering|fluttering]] [[k/_kick|kick]].**
 - **A very slow [[p/_pace|pace]].**
 	- _Example: My computer has slowed down to a crawl since I installed that software package._
-- **A piece of [[h/_horizontally|horizontally]] or vertically scrolling text [[o/_overlaid|overlaid]] on the [[m/_main|main]] [[i/_image|image]].**
+- **A [[p/_piece|piece]] of [[h/_horizontally|horizontally]] or vertically scrolling text [[o/_overlaid|overlaid]] on the [[m/_main|main]] [[i/_image|image]].**
 ---
 #verb
 - **To [[c/_creep|creep]]; to [[m/_move|move]] slowly on [[h/_hands|hands]] and [[k/_knees|knees]], or by [[d/_dragging|dragging]] the [[b/_body|body]] [[a/_along|along]] the [[g/_ground|ground]].**

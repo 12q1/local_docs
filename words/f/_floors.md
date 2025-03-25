@@ -7,20 +7,20 @@
 - **The [[l/_lower|lower]] [[i/_inside|inside]] surface of a [[h/_hollow|hollow]] space.**
 	- _Example: Many sunken ships rest on the ocean floor._
 - **A structure [[f/_formed|formed]] of [[b/_beams|beams]], [[g/_girders|girders]], [[e/_etc|etc]], with proper [[c/_covering|covering]], which [[d/_divides|divides]] a [[b/_building|building]] [[h/_horizontally|horizontally]] [[i/_into|into]] storeys/stories.**
-- **The supporting surface or platform of a structure such as a [[b/_bridge|bridge]].**
+- **The supporting surface or [[p/_platform|platform]] of a structure such as a [[b/_bridge|bridge]].**
 	- _Example: Wooden planks of the old bridge's floor were nearly rotten._
 - **A storey/story of a [[b/_building|building]].**
 	- _Example: For years we lived on the third floor._
-- **In a parliament, the part of the [[h/_house|house]] [[a/_assigned|assigned]] to the [[m/_members|members]], as [[o/_opposed|opposed]] to the viewing [[g/_gallery|gallery]].**
+- **In a [[p/_parliament|parliament]], the [[p/_part|part]] of the [[h/_house|house]] [[a/_assigned|assigned]] to the [[m/_members|members]], as [[o/_opposed|opposed]] to the viewing [[g/_gallery|gallery]].**
 - **[[h/_hence|Hence]], the right to speak at a [[g/_given|given]] time [[d/_during|during]] a [[d/_debate|debate]] or [[o/_other|other]] public [[e/_event|event]].**
 	- _Example: The mayor often gives a lobbyist the floor._
-- **That part of the [[b/_bottom|bottom]] of a vessel on [[e/_each|each]] side of the [[k/_keelson|keelson]] which is [[m/_most|most]] [[n/_nearly|nearly]] [[h/_horizontal|horizontal]].**
+- **That [[p/_part|part]] of the [[b/_bottom|bottom]] of a vessel on [[e/_each|each]] side of the [[k/_keelson|keelson]] which is [[m/_most|most]] [[n/_nearly|nearly]] [[h/_horizontal|horizontal]].**
 - **The rock underlying a stratified or [[n/_nearly|nearly]] [[h/_horizontal|horizontal]] [[d/_deposit|deposit]].**
 - **A [[h/_horizontal|horizontal]], [[f/_flat|flat]] [[o/_ore|ore]] [[b/_body|body]].**
 - **The [[l/_largest|largest]] [[i/_integer|integer]] [[l/_less|less]] than or [[e/_equal|equal]] to a [[g/_given|given]] [[n/_number|number]].**
 	- _Example: The floor of 4.5 is 4._
-- **An [[e/_event|event]] performed on a [[f/_floor|floor]]-[[l/_like|like]] [[c/_carpeted|carpeted]] surface.**
-- **A [[f/_floor|floor]]-[[l/_like|like]] [[c/_carpeted|carpeted]] surface for performing [[g/_gymnastic|gymnastic]] [[m/_movements|movements]].**
+- **An [[e/_event|event]] [[p/_performed|performed]] on a [[f/_floor|floor]]-[[l/_like|like]] [[c/_carpeted|carpeted]] surface.**
+- **A [[f/_floor|floor]]-[[l/_like|like]] [[c/_carpeted|carpeted]] surface for [[p/_performing|performing]] [[g/_gymnastic|gymnastic]] [[m/_movements|movements]].**
 - **A [[l/_lower|lower]] [[l/_limit|limit]] on the [[i/_interest|interest]] rate [[p/_payable|payable]] on an [[o/_otherwise|otherwise]] variable-rate [[l/_loan|loan]], used by [[l/_lenders|lenders]] to [[d/_defend|defend]] [[a/_against|against]] [[f/_falls|falls]] in [[i/_interest|interest]] rates. [[o/_opposite|Opposite]] of a [[c/_cap|cap]].**
 - **A [[d/_dance|dance]] [[f/_floor|floor]].**
 - **The [[a/_area|area]] in which [[b/_business|business]] is [[c/_conducted|conducted]] at a [[c/_convention|convention]] or [[e/_exhibition|exhibition]]**

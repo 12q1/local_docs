@@ -1,6 +1,6 @@
 # Imperceptive
 ---
 #adjective
-- **Unable to perceive.**
+- **Unable to [[p/_perceive|perceive]].**
 ---
 ---

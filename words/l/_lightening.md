@@ -20,7 +20,7 @@
 - **To [[d/_descend|descend]]; to [[l/_light|light]].**
 ---
 #noun
-- **The sensation [[c/_caused|caused]] by the [[d/_descent|descent]] of the uterus [[i/_into|into]] the pelvic [[c/_cavity|cavity]] [[b/_before|before]] the [[o/_onset|onset]] of [[l/_labour|labour]]**
+- **The sensation [[c/_caused|caused]] by the [[d/_descent|descent]] of the uterus [[i/_into|into]] the [[p/_pelvic|pelvic]] [[c/_cavity|cavity]] [[b/_before|before]] the [[o/_onset|onset]] of [[l/_labour|labour]]**
 - **The removal of [[c/_cargo|cargo]] ([[e/_especially|especially]] [[c/_crude|crude]] [[o/_oil|oil]]) from a vessel in [[o/_order|order]] to reduce [[i/_its|its]] [[d/_draft|draft]]**
 ---
 ---

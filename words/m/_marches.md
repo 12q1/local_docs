@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[f/_formal|formal]], rhythmic way of walking, used [[e/_especially|especially]] by soldiers, [[b/_bands|bands]] and in [[c/_ceremonies|ceremonies]].**
-- **A political rally or parade**
+- **A [[p/_political|political]] rally or [[p/_parade|parade]]**
 - **[[a/_any|Any]] song in the [[g/_genre|genre]] of [[m/_music|music]] written for [[m/_marching|marching]] (see Wikipedia's [[a/_article|article]] on this type of [[m/_music|music]])**
 - **Steady [[f/_forward|forward]] [[m/_movement|movement]] or progression.**
 	- _Example: the march of time_

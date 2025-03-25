@@ -1,6 +1,6 @@
 # Debility
 ---
 #noun
-- **A state of physical or [[m/_mental|mental]] weakness.**
+- **A state of [[p/_physical|physical]] or [[m/_mental|mental]] weakness.**
 ---
 ---

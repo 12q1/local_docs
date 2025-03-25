@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[m/_merry|Merry]]; [[h/_happy|happy]].**
-- **[[b/_beautiful|Beautiful]]; pretty; [[a/_attractive|attractive]].**
+- **[[b/_beautiful|Beautiful]]; [[p/_pretty|pretty]]; [[a/_attractive|attractive]].**
 - **[[f/_fine|Fine]], [[g/_good|good]] ([[o/_often|often]] used [[i/_ironically|ironically]]).**
 	- _Example: My bonnie friend, come over here._
 ---

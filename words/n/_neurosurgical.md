@@ -1,6 +1,6 @@
 # Neurosurgical
 ---
 #adjective
-- **Of, or pertaining to [[n/_neurosurgery|neurosurgery]].**
+- **Of, or [[p/_pertaining|pertaining]] to [[n/_neurosurgery|neurosurgery]].**
 ---
 ---

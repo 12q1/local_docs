@@ -3,7 +3,7 @@
 #verb
 - **(used with "of") To [[e/_eliminate|eliminate]] or to [[g/_get|get]] rid of something.**
 	- _Example: I dispose of my trash in the garbage can._
-- **To [[d/_distribute|distribute]] or [[a/_arrange|arrange]]; to put in place.**
+- **To [[d/_distribute|distribute]] or [[a/_arrange|arrange]]; to put in [[p/_place|place]].**
 - **To [[d/_deal|deal]] [[o/_out|out]]; to [[a/_assign|assign]] to a use.**
 - **To [[i/_incline|incline]].**
 	- _Example: In these uncertain times, I am disposed towards caution._

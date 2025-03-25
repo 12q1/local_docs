@@ -3,7 +3,7 @@
 #verb
 - **To [[g/_get|get]] upon; to [[a/_ascend|ascend]]; to [[c/_climb|climb]].**
 	- _Example: to mount stairs_
-- **To place [[o/_oneself|oneself]] on (a [[h/_horse|horse]], a [[b/_bicycle|bicycle]], [[e/_etc|etc]].); to [[b/_bestride|bestride]].**
+- **To [[p/_place|place]] [[o/_oneself|oneself]] on (a [[h/_horse|horse]], a [[b/_bicycle|bicycle]], [[e/_etc|etc]].); to [[b/_bestride|bestride]].**
 	- _Example: The rider mounted his horse._
 - **To [[c/_cause|cause]] to [[m/_mount|mount]]; to put on [[h/_horseback|horseback]]; to [[f/_furnish|furnish]] with [[a/_animals|animals]] for riding.**
 - **To [[c/_cause|cause]] (something) to rise or [[a/_ascend|ascend]]; to [[d/_drive|drive]] up; to raise; to [[e/_elevate|elevate]]; to [[l/_lift|lift]] up.**
@@ -20,7 +20,7 @@
 	- _Example: The General gave the order to mount the attack._
 - **To [[d/_deploy|deploy]] ([[c/_cannon|cannon]]) for use.**
 	- _Example: to mount a cannon_
-- **To prepare and [[a/_arrange|arrange]] the scenery, [[f/_furniture|furniture]], [[e/_etc|etc]]. for use in (a play or production).**
+- **To [[p/_prepare|prepare]] and [[a/_arrange|arrange]] the scenery, [[f/_furniture|furniture]], [[e/_etc|etc]]. for use in (a [[p/_play|play]] or production).**
 - **To [[i/_incorporate|incorporate]] [[f/_fat|fat]], [[e/_especially|especially]] [[b/_butter|butter]], [[i/_into|into]] (a [[d/_dish|dish]], [[e/_especially|especially]] a sauce to [[f/_finish|finish]] it).**
 	- _Example: Mount the sauce with one tablespoon of butter._
 ---

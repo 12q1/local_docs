@@ -1,7 +1,7 @@
 # Cunnilingus
 ---
 #noun
-- **Who performs [[o/_oral|oral]] sex on a woman’s [[c/_clitoris|clitoris]] and/or vulva.**
+- **Who [[p/_performs|performs]] [[o/_oral|oral]] sex on a woman’s [[c/_clitoris|clitoris]] and/or vulva.**
 - **[[o/_oral|Oral]] sex in which a woman's [[c/_clitoris|clitoris]] and/or vulva is [[o/_orally|orally]] stimulated.**
 ---
 ### Synonyms

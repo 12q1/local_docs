@@ -7,7 +7,7 @@
 	- _Example: The personnel director handled the whole employment procedure_
 - **The state of [[b/_being|being]] [[e/_employed|employed]]**
 - **An [[a/_activity|activity]] to which [[o/_one|one]] [[d/_devotes|devotes]] time**
-- **The [[n/_number|number]] or percentage of people at work**
+- **The [[n/_number|number]] or [[p/_percentage|percentage]] of [[p/_people|people]] at work**
 ---
 ### Synonyms
 - [[e/_employ|employ]], [[h/_hire|hire]]

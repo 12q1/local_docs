@@ -4,7 +4,7 @@
 - **A [[f/_fish|fish]]-and-[[c/_chip|chip]] shop.**
 - **A [[c/_carpenter|carpenter]].**
 - **The [[y/_youngest|youngest]] [[m/_member|member]] of a team or [[g/_group|group]], [[n/_normally|normally]] someone whose voice [[h/_has|has]] not [[y/_yet|yet]] [[d/_deepened|deepened]], talking [[l/_like|like]] a [[c/_chipmunk|chipmunk]].**
-- **A potato [[c/_chip|chip]].**
+- **A [[p/_potato|potato]] [[c/_chip|chip]].**
 - **A prostitute or promiscuous woman.**
 - **A chiptune.**
 - **A [[c/_chipping|chipping]] sparrow.**
@@ -16,8 +16,8 @@
 ---
 #adjective
 - **[[i/_ill|Ill]]-tempered, [[d/_disagreeable|disagreeable]].**
-- **[[i/_involving|Involving]] violence or unfair play.**
-- **(of wood) Tending to [[f/_form|form]] [[c/_chips|chips]] when [[c/_cut|cut]], rather than [[l/_larger|larger]], [[m/_more|more]] usable pieces of wood.**
+- **[[i/_involving|Involving]] violence or unfair [[p/_play|play]].**
+- **(of wood) Tending to [[f/_form|form]] [[c/_chips|chips]] when [[c/_cut|cut]], rather than [[l/_larger|larger]], [[m/_more|more]] usable [[p/_pieces|pieces]] of wood.**
 - **As [[d/_dry|dry]] as a [[c/_chip|chip]] of wood.**
 - **[[f/_feeling|Feeling]] sick from [[d/_drinking|drinking]] [[a/_alcohol|alcohol]]; [[h/_hung|hung]] [[o/_over|over]].**
 ---

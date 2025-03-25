@@ -1,6 +1,6 @@
 # Insightful
 ---
 #adjective
-- **Possessing [[i/_insight|insight]].**
+- **[[p/_possessing|Possessing]] [[i/_insight|insight]].**
 ---
 ---

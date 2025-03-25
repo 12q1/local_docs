@@ -4,6 +4,6 @@
 - **An [[a/_alga|alga]].**
 ---
 #adjective
-- **Pertaining to, or [[l/_like|like]], [[a/_algae|algae]]**
+- **[[p/_pertaining|Pertaining]] to, or [[l/_like|like]], [[a/_algae|algae]]**
 ---
 ---

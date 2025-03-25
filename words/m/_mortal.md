@@ -12,14 +12,14 @@
 - **Punishable by [[d/_death|death]].**
 - **[[f/_fatally|Fatally]] vulnerable.**
 - **Of or relating to the time of [[d/_death|death]].**
-- **[[a/_affecting|Affecting]] as [[i/_if|if]] with power to [[k/_kill|kill]]; [[d/_deathly|deathly]].**
+- **[[a/_affecting|Affecting]] as [[i/_if|if]] with [[p/_power|power]] to [[k/_kill|kill]]; [[d/_deathly|deathly]].**
 	- _Example: mortal enemy_
-- **[[h/_human|Human]]; [[b/_belonging|belonging]] or pertaining to people who are [[m/_mortal|mortal]].**
+- **[[h/_human|Human]]; [[b/_belonging|belonging]] or [[p/_pertaining|pertaining]] to [[p/_people|people]] who are [[m/_mortal|mortal]].**
 	- _Example: mortal wit or knowledge; mortal power_
 - **Very [[p/_painful|painful]] or tedious; wearisome.**
 	- _Example: a sermon lasting two mortal hours_
 - **Very [[d/_drunk|drunk]]; wasted; smashed.**
-- **Of a sin: [[i/_involving|involving]] the penalty of spiritual [[d/_death|death]], rather than [[m/_merely|merely]] venial.**
+- **Of a sin: [[i/_involving|involving]] the [[p/_penalty|penalty]] of spiritual [[d/_death|death]], rather than [[m/_merely|merely]] venial.**
 ---
 ### Synonyms
 - [[b/_baneful|baneful]], [[f/_fatal|fatal]], [[l/_lethal|lethal]]

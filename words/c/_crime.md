@@ -5,7 +5,7 @@
 - **[[a/_any|Any]] [[g/_great|great]] sin or wickedness; [[i/_iniquity|iniquity]].**
 - **That which [[o/_occasions|occasions]] [[c/_crime|crime]].**
 - **[[c/_criminal|Criminal]] [[a/_acts|acts]] [[c/_collectively|collectively]].**
-- **The [[h/_habit|habit]] or practice of [[c/_committing|committing]] [[c/_crimes|crimes]].**
+- **The [[h/_habit|habit]] or [[p/_practice|practice]] of [[c/_committing|committing]] [[c/_crimes|crimes]].**
 	- _Example: Crime doesn’t pay._
 ---
 ### Synonyms

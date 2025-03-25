@@ -1,12 +1,12 @@
 # Norther
 ---
 #adjective
-- **Of or pertaining to the [[n/_north|north]]; [[n/_northern|northern]].**
+- **Of or [[p/_pertaining|pertaining]] to the [[n/_north|north]]; [[n/_northern|northern]].**
 	- _Example: He lived in north Germany._
 - **Toward the [[n/_north|north]]; [[n/_northward|northward]].**
 - **Of wind, from the [[n/_north|north]].**
 	- _Example: The north wind was cold._
-- **Pertaining to the part of a [[c/_corridor|corridor]] used by [[n/_northbound|northbound]] traffic.**
+- **[[p/_pertaining|Pertaining]] to the [[p/_part|part]] of a [[c/_corridor|corridor]] used by [[n/_northbound|northbound]] traffic.**
 	- _Example: north highway 1_
 - **[[m/_more|More]] or [[g/_greater|greater]] than.**
 	- _Example: The wedding ended up costing north of $50,000._

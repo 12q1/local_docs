@@ -9,7 +9,7 @@
 #adjective
 - **In the state of [[b/_being|being]] [[a/_active|active]], [[f/_functioning|functioning]] or [[o/_operating|operating]].**
 	- _Example: All the lights are on, so they must be home._
-- **Performing [[a/_according|according]] to schedule; taking place.**
+- **[[p/_performing|Performing]] [[a/_according|according]] to schedule; taking [[p/_place|place]].**
 	- _Example: Are we still on for tonight?_
 - **[[f/_fitted|Fitted]]; [[c/_covering|covering]]; [[b/_being|being]] worn.**
 	- _Example: I was trying to drink out of the bottle while the top was still on!_
@@ -17,7 +17,7 @@
 	- _Example: You can't do that; it's just not on._
 - **[[d/_destined|Destined]], [[n/_normally|normally]] in the [[c/_context|context]] of a [[c/_challenge|challenge]] [[b/_being|being]] [[a/_accepted|accepted]]; [[i/_involved|involved]], [[d/_doomed|doomed]].**
 	- _Example: "Five bucks says the Cavs win tonight." ―"You're on!"_
-- **[[h/_having|Having]] reached a [[b/_base|base]] as a runner and [[b/_being|being]] positioned there, [[a/_awaiting|awaiting]] [[f/_further|further]] [[a/_action|action]] from a subsequent [[b/_batter|batter]].**
+- **[[h/_having|Having]] reached a [[b/_base|base]] as a runner and [[b/_being|being]] [[p/_positioned|positioned]] there, [[a/_awaiting|awaiting]] [[f/_further|further]] [[a/_action|action]] from a subsequent [[b/_batter|batter]].**
 - **Within the [[h/_half|half]] of the [[f/_field|field]] on the same side as the [[b/_batsman|batsman]]'s [[l/_legs|legs]]; the [[l/_left|left]] side for a right-[[h/_handed|handed]] [[b/_batsman|batsman]].**
 	- _Example: Ponsonby-Smythe hit a thumping on drive._
 - **[[m/_menstruating|Menstruating]].**
@@ -43,19 +43,19 @@
 ### Antonyms
 - [[o/_off|off]], [[a/_after|after]], [[a/_afterward|afterward]], [[a/_afterwards|afterwards]], [[l/_later|later]], [[s/_subsequently|subsequently]], [[t/_thence|thence]], [[o/_off|off]], [[a/_against|against]]
 #preposition
-- **Positioned at the upper surface of, touching from [[a/_above|above]].**
+- **[[p/_positioned|Positioned]] at the upper surface of, touching from [[a/_above|above]].**
 	- _Example: A vase of flowers stood on the table._
-- **Positioned at or resting [[a/_against|against]] the [[o/_outer|outer]] surface of; [[a/_attached|attached]] to.**
+- **[[p/_positioned|Positioned]] at or resting [[a/_against|against]] the [[o/_outer|outer]] surface of; [[a/_attached|attached]] to.**
 	- _Example: He had a scar on the side of his face._
-- **[[e/_expressing|Expressing]] [[f/_figurative|figurative]] placement or [[a/_attachment|attachment]].**
+- **[[e/_expressing|Expressing]] [[f/_figurative|figurative]] [[p/_placement|placement]] or [[a/_attachment|attachment]].**
 	- _Example: All of the responsibility is on him._
-- **[[d/_denoting|Denoting]] performance or [[a/_action|action]] by [[c/_contact|contact]] with the surface, upper part, or [[o/_outside|outside]] of [[a/_anything|anything]]; [[h/_hence|hence]], by [[m/_means|means]] of; with.**
+- **[[d/_denoting|Denoting]] [[p/_performance|performance]] or [[a/_action|action]] by [[c/_contact|contact]] with the surface, upper [[p/_part|part]], or [[o/_outside|outside]] of [[a/_anything|anything]]; [[h/_hence|hence]], by [[m/_means|means]] of; with.**
 	- _Example: to play on a violin or piano_
 - **At or in (a [[c/_certain|certain]] region or [[l/_location|location]]).**
 	- _Example: The lighthouse that you can see is on the mainland._
 - **[[n/_near|Near]]; [[a/_adjacent|adjacent]] to; [[a/_alongside|alongside]].**
 	- _Example: Croton-on-Hudson, Rostov-on-Don, Southend-on-Sea_
-- **Supported by (the specified part of [[i/_itself|itself]]).**
+- **Supported by (the specified [[p/_part|part]] of [[i/_itself|itself]]).**
 	- _Example: A table can't stand on two legs._
 - **So as to [[i/_impart|impart]] [[f/_force|force]] to.**
 	- _Example: tug on the rope; push hard on the door_
@@ -73,7 +73,7 @@
 	- _Example: Smith scored again on twelve minutes, doubling Mudchester Rovers' lead._
 - **[[d/_dealing|Dealing]] with the subject of; [[a/_about|about]]; [[c/_concerning|concerning]].**
 	- _Example: I have no opinion on this subject._
-- **In the possession of.**
+- **In the [[p/_possession|possession]] of.**
 	- _Example: I haven't got any money on me._
 - **[[b/_because|Because]] of, or [[d/_due|due]] to.**
 	- _Example: to arrest someone on suspicion of bribery_
@@ -106,10 +106,10 @@
 - **Of**
 - **[[i/_indicating|Indicating]] [[d/_dependence|dependence]] or reliance; with [[c/_confidence|confidence]] in.**
 	- _Example: He will promise on certain conditions._
-- **At the peril of, or for the safety of.**
+- **At the [[p/_peril|peril]] of, or for the safety of.**
 - **In the service of; [[c/_connected|connected]] with; of the [[n/_number|number]] of.**
 	- _Example: He is on a newspaper; I am on the committee._
-- **By virtue of; with the pledge of.**
+- **By virtue of; with the [[p/_pledge|pledge]] of.**
 	- _Example: He affirmed or promised on his word, or on his honour._
 - **To the [[a/_account|account]] or [[d/_detriment|detriment]] of; [[d/_denoting|denoting]] [[i/_imprecation|imprecation]] or [[i/_invocation|invocation]], or [[c/_coming|coming]] to, [[f/_falling|falling]], or resting upon.**
 	- _Example: A curse on him!_

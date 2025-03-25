@@ -5,8 +5,8 @@
 	- _Example: Why are you in such a big hurry?_
 - **Urgency.**
 	- _Example: There is no hurry on that paperwork._
-- **An [[i/_incidence|incidence]] of a [[d/_defensive|defensive]] player [[f/_forcing|forcing]] the quarterback to [[a/_act|act]] [[f/_faster|faster]] than the quarterback was prepared to, resulting in a [[f/_failed|failed]] [[o/_offensive|offensive]] play.**
-- **A tremolando passage for violins, [[e/_etc|etc]]., [[a/_accompanying|accompanying]] an [[e/_exciting|exciting]] situation.**
+- **An [[i/_incidence|incidence]] of a [[d/_defensive|defensive]] [[p/_player|player]] [[f/_forcing|forcing]] the quarterback to [[a/_act|act]] [[f/_faster|faster]] than the quarterback was [[p/_prepared|prepared]] to, resulting in a [[f/_failed|failed]] [[o/_offensive|offensive]] [[p/_play|play]].**
+- **A tremolando [[p/_passage|passage]] for violins, [[e/_etc|etc]]., [[a/_accompanying|accompanying]] an [[e/_exciting|exciting]] situation.**
 ---
 #verb
 - **To [[d/_do|do]] things quickly.**
@@ -15,7 +15,7 @@
 	- _Example: If you don't hurry (up) you won't finish on time._
 - **To [[c/_cause|cause]] to be [[d/_done|done]] quickly.**
 - **To [[h/_hasten|hasten]]; to [[i/_impel|impel]] to [[g/_greater|greater]] speed; to urge on.**
-- **To [[i/_impel|impel]] to precipitate or thoughtless [[a/_action|action]]; to urge to [[c/_confused|confused]] or [[i/_irregular|irregular]] [[a/_activity|activity]].**
+- **To [[i/_impel|impel]] to [[p/_precipitate|precipitate]] or thoughtless [[a/_action|action]]; to urge to [[c/_confused|confused]] or [[i/_irregular|irregular]] [[a/_activity|activity]].**
 - **To put: to [[c/_convey|convey]] [[c/_coal|coal]] in the [[m/_mine|mine]], [[e/_e|e]].[[g/_g|g]]. from the working to the tramway.**
 ---
 ---

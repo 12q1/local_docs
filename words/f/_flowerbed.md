@@ -1,6 +1,6 @@
 # Flowerbed
 ---
 #noun
-- **A part of a [[g/_garden|garden]] or park where [[f/_flowers|flowers]] are [[g/_grown|grown]].**
+- **A [[p/_part|part]] of a [[g/_garden|garden]] or [[p/_park|park]] where [[f/_flowers|flowers]] are [[g/_grown|grown]].**
 ---
 ---

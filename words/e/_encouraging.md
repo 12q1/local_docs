@@ -5,7 +5,7 @@
 	- _Example: I encouraged him during his race._
 - **To spur on, strongly recommend.**
 	- _Example: We encourage the use of bicycles in the town centre._
-- **To [[f/_foster|foster]], [[g/_give|give]] [[h/_help|help]] or patronage**
+- **To [[f/_foster|foster]], [[g/_give|give]] [[h/_help|help]] or [[p/_patronage|patronage]]**
 	- _Example: The royal family has always encouraged the arts in word and deed_
 ---
 ### Synonyms

@@ -10,7 +10,7 @@
 - **To [[l/_lash|lash]] with ropes (on a ship).**
 ---
 #verb
-- **To [[d/_deceive|deceive]]; to [[l/_lie|lie]] plausibly to.**
+- **To [[d/_deceive|deceive]]; to [[l/_lie|lie]] [[p/_plausibly|plausibly]] to.**
 ---
 #noun
 - **Rope [[l/_lashings|lashings]] on the [[b/_bowsprit|bowsprit]] of a [[b/_boat|boat]].**

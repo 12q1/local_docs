@@ -15,14 +15,14 @@
 	- _Example: I want this done before Monday._
 - **In [[f/_front|front]] of in space.**
 	- _Example: He stood before me._
-- **In the presence of.**
+- **In the [[p/_presence|presence]] of.**
 	- _Example: He performed before the troops in North Africa._
 - **Under [[c/_consideration|consideration]], [[j/_judgment|judgment]], [[a/_authority|authority]] of (someone).**
 	- _Example: The case laid before the panel aroused nothing but ridicule._
 - **In store for, in the [[f/_future|future]] of (someone).**
 - **In [[f/_front|front]] of, [[a/_according|according]] to a [[f/_formal|formal]] system of [[o/_ordering|ordering]] [[i/_items|items]].**
 	- _Example: In alphabetical order, "cat" comes before "dog", "canine" before feline"._
-- **At a [[h/_higher|higher]] or [[g/_greater|greater]] position than, in a ranking.**
+- **At a [[h/_higher|higher]] or [[g/_greater|greater]] [[p/_position|position]] than, in a ranking.**
 	- _Example: An entrepreneur puts market share and profit before quality, an amateur intrinsic qualities before economical considerations._
 ---
 ### Synonyms

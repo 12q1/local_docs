@@ -1,6 +1,6 @@
 # Lentic
 ---
 #adjective
-- **Of or pertaining to, or [[l/_living|living]] in still waters (such as [[l/_lakes|lakes]], ponds, or wetlands).**
+- **Of or [[p/_pertaining|pertaining]] to, or [[l/_living|living]] in still waters (such as [[l/_lakes|lakes]], [[p/_ponds|ponds]], or wetlands).**
 ---
 ---

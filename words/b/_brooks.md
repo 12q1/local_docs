@@ -11,7 +11,7 @@
 #noun
 - **A [[b/_body|body]] of running water smaller than a river; a small stream.**
 - **A water [[m/_meadow|meadow]].**
-- **(in the plural) [[l/_low|Low]], [[m/_marshy|marshy]] [[g/_ground|ground]].**
+- **(in the [[p/_plural|plural]]) [[l/_low|Low]], [[m/_marshy|marshy]] [[g/_ground|ground]].**
 ---
 ### Synonyms
 - [[b/_beck|beck]], [[b/_burn|burn]], [[c/_coulee|coulee]], [[c/_creek|creek]], [[s/_stream|stream]]

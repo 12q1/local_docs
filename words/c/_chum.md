@@ -7,7 +7,7 @@
 ---
 #verb
 - **To share rooms with someone; to [[l/_live|live]] together.**
-- **To [[l/_lodge|lodge]] (somebody) with [[a/_another|another]] person or people.**
+- **To [[l/_lodge|lodge]] (somebody) with [[a/_another|another]] [[p/_person|person]] or [[p/_people|people]].**
 - **To [[m/_make|make]] [[f/_friends|friends]]; to socialize.**
 - **To [[a/_accompany|accompany]].**
 	- _Example: I'll chum you down to the shops._

@@ -5,27 +5,27 @@
 - **A [[c/_cushion|cushion]] used as a saddle without a tree or [[f/_frame|frame]].**
 - **A soft, or small, [[c/_cushion|cushion]].**
 - **A [[c/_cushion|cushion]]-[[l/_like|like]] thickening of the skin on the under side of the toes of [[a/_animals|animals]].**
-- **The [[m/_mostly|mostly]] [[h/_hairless|hairless]] [[f/_flesh|flesh]] [[l/_located|located]] on the [[b/_bottom|bottom]] of an [[a/_animal|animal]]'s [[f/_foot|foot]] or paw.**
-- **[[a/_any|Any]] [[c/_cushion|cushion]]-[[l/_like|like]] part of the [[h/_human|human]] [[b/_body|body]], [[e/_especially|especially]] the [[e/_ends|ends]] of the [[f/_fingers|fingers]].**
+- **The [[m/_mostly|mostly]] [[h/_hairless|hairless]] [[f/_flesh|flesh]] [[l/_located|located]] on the [[b/_bottom|bottom]] of an [[a/_animal|animal]]'s [[f/_foot|foot]] or [[p/_paw|paw]].**
+- **[[a/_any|Any]] [[c/_cushion|cushion]]-[[l/_like|like]] [[p/_part|part]] of the [[h/_human|human]] [[b/_body|body]], [[e/_especially|especially]] the [[e/_ends|ends]] of the [[f/_fingers|fingers]].**
 - **A stuffed [[g/_guard|guard]] or protection, [[e/_especially|especially]] [[o/_one|one]] worn on the [[l/_legs|legs]] of [[h/_horses|horses]] to prevent [[b/_bruising|bruising]].**
-- **A soft [[b/_bag|bag]] or [[c/_cushion|cushion]] to relieve pressure, support a part, [[e/_etc|etc]].**
+- **A soft [[b/_bag|bag]] or [[c/_cushion|cushion]] to relieve [[p/_pressure|pressure]], support a [[p/_part|part]], [[e/_etc|etc]].**
 - **A sanitary [[n/_napkin|napkin]].**
-- **A [[f/_floating|floating]] [[l/_leaf|leaf]] of a water [[l/_lily|lily]] or similar plant.**
+- **A [[f/_floating|floating]] [[l/_leaf|leaf]] of a water [[l/_lily|lily]] or similar [[p/_plant|plant]].**
 - **A soft [[c/_cover|cover]] for a [[b/_batsman|batsman]]'s [[l/_leg|leg]] that protects it from [[d/_damage|damage]] when [[h/_hit|hit]] by the [[b/_ball|ball]].**
-- **A [[k/_kind|kind]] of [[c/_cushion|cushion]] for writing upon, or for [[b/_blotting|blotting]], [[e/_especially|especially]] [[o/_one|one]] [[f/_formed|formed]] of [[m/_many|many]] [[f/_flat|flat]] sheets of writing paper; [[n/_now|now]] [[e/_especially|especially]] such a [[b/_block|block]] of paper sheets as used to write on.**
-- **A [[p/_panel|panel]] or strip of [[m/_material|material]] [[d/_designed|designed]] to be sensitive to pressure or touch.**
+- **A [[k/_kind|kind]] of [[c/_cushion|cushion]] for writing upon, or for [[b/_blotting|blotting]], [[e/_especially|especially]] [[o/_one|one]] [[f/_formed|formed]] of [[m/_many|many]] [[f/_flat|flat]] sheets of writing [[p/_paper|paper]]; [[n/_now|now]] [[e/_especially|especially]] such a [[b/_block|block]] of [[p/_paper|paper]] sheets as used to write on.**
+- **A [[p/_panel|panel]] or strip of [[m/_material|material]] [[d/_designed|designed]] to be sensitive to [[p/_pressure|pressure]] or touch.**
 - **A [[k/_keypad|keypad]].**
 - **A [[f/_flat|flat]] surface or [[a/_area|area]] from which a [[h/_helicopter|helicopter]] or [[o/_other|other]] [[a/_aircraft|aircraft]] [[m/_may|may]] [[l/_land|land]] or be [[l/_launched|launched]].**
-- **An [[e/_electrical|electrical]] [[e/_extension|extension]] [[c/_cord|cord]] with a [[m/_multi|multi]]-port socket [[o/_one|one]] [[e/_end|end]]: "trip [[c/_cord|cord]]"**
-- **The [[e/_effect|effect]] produced by sustained [[l/_lower|lower]] reed [[n/_notes|notes]] in a [[m/_musical|musical]] piece, [[m/_most|most]] [[c/_common|common]] in [[b/_blues|blues]] [[m/_music|music]].**
+- **An [[e/_electrical|electrical]] [[e/_extension|extension]] [[c/_cord|cord]] with a [[m/_multi|multi]]-[[p/_port|port]] socket [[o/_one|one]] [[e/_end|end]]: "trip [[c/_cord|cord]]"**
+- **The [[e/_effect|effect]] produced by sustained [[l/_lower|lower]] reed [[n/_notes|notes]] in a [[m/_musical|musical]] [[p/_piece|piece]], [[m/_most|most]] [[c/_common|common]] in [[b/_blues|blues]] [[m/_music|music]].**
 - **A synthesizer [[i/_instrument|instrument]] sound used for sustained [[b/_background|background]] sounds.**
 - **A [[b/_bed|bed]].**
-- **A small [[h/_house|house]], [[a/_apartment|apartment]], or [[m/_mobile|mobile]] [[h/_home|home]] [[o/_occupied|occupied]] by a single person; such as a [[b/_bachelor|bachelor]], playboy, [[e/_etc|etc]].**
+- **A small [[h/_house|house]], [[a/_apartment|apartment]], or [[m/_mobile|mobile]] [[h/_home|home]] [[o/_occupied|occupied]] by a single [[p/_person|person]]; such as a [[b/_bachelor|bachelor]], [[p/_playboy|playboy]], [[e/_etc|etc]].**
 - **A prison [[c/_cell|cell]].**
-- **A random [[k/_key|key]] ([[o/_originally|originally]] written on a [[d/_disposable|disposable]] [[p/_pad|pad]]) of the same [[l/_length|length]] as the plaintext.**
+- **A random [[k/_key|key]] ([[o/_originally|originally]] written on a [[d/_disposable|disposable]] [[p/_pad|pad]]) of the same [[l/_length|length]] as the [[p/_plaintext|plaintext]].**
 - **A mousepad.**
 - **The [[a/_amount|amount]] by which a signal [[h/_has|has]] [[b/_been|been]] reduced.**
-- **A piece of timber [[f/_fixed|fixed]] on a [[b/_beam|beam]] to [[f/_fit|fit]] the [[c/_curve|curve]] of the [[d/_deck|deck]].**
+- **A [[p/_piece|piece]] of timber [[f/_fixed|fixed]] on a [[b/_beam|beam]] to [[f/_fit|fit]] the [[c/_curve|curve]] of the [[d/_deck|deck]].**
 ---
 ### Synonyms
 - 
@@ -36,6 +36,6 @@
 	- _Example: May 21, 2008, Austin American-Statesman_
 - **To [[i/_imbue|imbue]] uniformly with a [[m/_mordant|mordant]].**
 	- _Example: to pad cloth_
-- **To [[d/_deliberately|deliberately]] play the [[b/_ball|ball]] with the [[l/_leg|leg]] [[p/_pad|pad]] [[i/_instead|instead]] of the [[b/_bat|bat]].**
+- **To [[d/_deliberately|deliberately]] [[p/_play|play]] the [[b/_ball|ball]] with the [[l/_leg|leg]] [[p/_pad|pad]] [[i/_instead|instead]] of the [[b/_bat|bat]].**
 ---
 ---

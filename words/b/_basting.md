@@ -1,7 +1,7 @@
 # Basting
 ---
 #verb
-- **To sew with [[l/_long|long]] or [[l/_loose|loose]] stitches, as for temporary use, or in preparation for [[g/_gathering|gathering]] the [[f/_fabric|fabric]].**
+- **To sew with [[l/_long|long]] or [[l/_loose|loose]] stitches, as for temporary use, or in [[p/_preparation|preparation]] for [[g/_gathering|gathering]] the [[f/_fabric|fabric]].**
 ---
 #verb
 - **To sprinkle [[f/_flour|flour]] and salt and [[d/_drip|drip]] [[b/_butter|butter]] or [[f/_fat|fat]] on, as on [[m/_meat|meat]] in roasting.**
@@ -14,6 +14,6 @@
 #noun
 - **The [[a/_act|act]] by which a [[f/_food|food]] [[i/_item|item]] is [[b/_basted|basted]].**
 	- _Example: Use repeated bastings to prevent the chicken from drying out._
-- **A (physical) [[b/_beating|beating]].**
+- **A ([[p/_physical|physical]]) [[b/_beating|beating]].**
 ---
 ---

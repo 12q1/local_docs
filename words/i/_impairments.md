@@ -5,7 +5,7 @@
 - **A [[d/_deterioration|deterioration]] or weakening**
 - **A [[d/_disability|disability]] or [[h/_handicap|handicap]]**
 	- _Example: visual impairment_
-- **An [[i/_inefficient|inefficient]] part or [[f/_factor|factor]].**
+- **An [[i/_inefficient|inefficient]] [[p/_part|part]] or [[f/_factor|factor]].**
 - **A [[d/_downward|downward]] revaluation, a write-[[d/_down|down]].**
 ---
 ---

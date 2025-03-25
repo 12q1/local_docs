@@ -1,11 +1,11 @@
 # Conservatories
 ---
 #noun
-- **That which preserves from [[i/_injury|injury]].**
+- **That which [[p/_preserves|preserves]] from [[i/_injury|injury]].**
 - **A storehouse.**
 ---
 #noun
-- **A [[l/_large|large]] [[g/_greenhouse|greenhouse]] or [[h/_hothouse|hothouse]] for the [[d/_display|display]] of plants**
+- **A [[l/_large|large]] [[g/_greenhouse|greenhouse]] or [[h/_hothouse|hothouse]] for the [[d/_display|display]] of [[p/_plants|plants]]**
 - **A [[g/_glass|glass]]-walled and -roofed room in a [[h/_house|house]]**
 - **A school of [[m/_music|music]] or [[d/_drama|drama]]**
 ---

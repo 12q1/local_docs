@@ -6,7 +6,7 @@
 - **[[e/_executed|Executed]] with a [[f/_forehand|forehand]] stroke.**
 - **[[d/_direct|Direct]], straightforward, sincere.**
 - **[[p/_paid|Paid]] or [[e/_executed|executed]] in [[a/_advance|advance]].**
-- **Pertaining to the [[f/_forequarters|forequarters]] of a [[h/_horse|horse]].**
+- **[[p/_pertaining|Pertaining]] to the [[f/_forequarters|forequarters]] of a [[h/_horse|horse]].**
 ---
 #adverb
 - **With a [[f/_forehand|forehand]] stroke.**

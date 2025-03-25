@@ -20,7 +20,7 @@
 - **A [[h/_high|high]] school or secondary school.**
 	- _Example: Eton College_
 - **A private ([[n/_non|non]]-[[g/_government|government]]) primary or [[h/_high|high]] school.**
-- **A residential [[h/_hall|hall]] [[a/_associated|associated]] with a university, possibly [[h/_having|having]] [[i/_its|its]] [[o/_own|own]] tutors.**
+- **A residential [[h/_hall|hall]] [[a/_associated|associated]] with a university, [[p/_possibly|possibly]] [[h/_having|having]] [[i/_its|its]] [[o/_own|own]] tutors.**
 - **A [[g/_government|government]] [[h/_high|high]] school, short for [[j/_junior|junior]] [[c/_college|college]].**
 - **(in [[c/_chile|Chile]]) A [[b/_bilingual|bilingual]] school.**
 ---

@@ -10,7 +10,7 @@
 	- _Example: 21 and 84 are congruent to each other modulo 9, since both numbers leave the same remainder, 3, when divided by 9._
 - **[[e/_except|Except]] for [[d/_differences|differences]] [[a/_accounted|accounted]] for by.**
 	- _Example: "A is the same as B modulo C" means A is the same as B except for differences accounted for by C._
-- **([[e/_extended|extended]] use) With [[d/_due|due]] [[a/_allowance|allowance]] for (a specified [[e/_exception|exception]] or particular [[d/_detail|detail]]).**
+- **([[e/_extended|extended]] use) With [[d/_due|due]] [[a/_allowance|allowance]] for (a specified [[e/_exception|exception]] or [[p/_particular|particular]] [[d/_detail|detail]]).**
 	- _Example: All mammals, modulo the monotremes, give birth to live young._
 ---
 ### Synonyms

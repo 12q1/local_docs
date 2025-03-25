@@ -17,7 +17,7 @@
 	- _Example: The old flag was a dirty white._
 - **[[c/_containing|Containing]] [[d/_data|data]] [[n/_needing|needing]] to be written [[b/_back|back]] to [[m/_memory|memory]] or [[d/_disk|disk]].**
 	- _Example: Occasionally it reads the sector into a dirty buffer, which means it needs to sync the dirty buffer first._
-- **[[c/_carrying|Carrying]] [[i/_illegal|illegal]] [[d/_drugs|drugs]] [[a/_among|among]] [[o/_one|one]]'s possessions or [[i/_inside|inside]] of [[o/_one|one]]'s [[b/_bloodstream|bloodstream]].**
+- **[[c/_carrying|Carrying]] [[i/_illegal|illegal]] [[d/_drugs|drugs]] [[a/_among|among]] [[o/_one|one]]'s [[p/_possessions|possessions]] or [[i/_inside|inside]] of [[o/_one|one]]'s [[b/_bloodstream|bloodstream]].**
 	- _Example: None of y'all get into my car if you're dirty._
 - **Used as an [[i/_intensifier|intensifier]], [[e/_especially|especially]] in [[c/_conjunction|conjunction]] with "[[g/_great|great]]".**
 	- _Example: He lives in a dirty great mansion._

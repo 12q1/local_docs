@@ -1,6 +1,6 @@
 # Orthopyroxene
 ---
 #noun
-- **[[a/_any|Any]] pyroxene that [[f/_forms|forms]] [[o/_orthorhombic|orthorhombic]] [[c/_crystals|crystals]].**
+- **[[a/_any|Any]] [[p/_pyroxene|pyroxene]] that [[f/_forms|forms]] [[o/_orthorhombic|orthorhombic]] [[c/_crystals|crystals]].**
 ---
 ---

@@ -11,7 +11,7 @@
 #adjective
 - **Secret; [[h/_hidden|hidden]] from [[g/_general|general]] [[k/_knowledge|knowledge]]; undetected.**
 	- _Example: occult blood loss;  occult cancer_
-- **Related to the [[o/_occult|occult]]; pertaining to [[m/_mysticism|mysticism]], [[m/_magic|magic]], or [[a/_astrology|astrology]].**
+- **Related to the [[o/_occult|occult]]; [[p/_pertaining|pertaining]] to [[m/_mysticism|mysticism]], [[m/_magic|magic]], or [[a/_astrology|astrology]].**
 - **[[e/_esoteric|Esoteric]].**
 ---
 ---

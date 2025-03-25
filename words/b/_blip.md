@@ -9,7 +9,7 @@
 - [[b/_blip|blip]]
 #noun
 - **A small [[d/_dot|dot]] registered on [[e/_electronic|electronic]] [[e/_equipment|equipment]], such as a radar or [[o/_oscilloscope|oscilloscope]] screen.**
-- **A short sound of a single pitch, usually [[e/_electronically|electronically]] [[g/_generated|generated]].**
+- **A short sound of a single [[p/_pitch|pitch]], usually [[e/_electronically|electronically]] [[g/_generated|generated]].**
 - **(by [[e/_extension|extension]]) A [[b/_brief|brief]] and usually [[m/_minor|minor]] [[a/_aberration|aberration]] or [[d/_deviation|deviation]] from what is [[e/_expected|expected]] or [[n/_normal|normal]].**
 - **An [[i/_individual|individual]] [[m/_message|message]] or [[d/_document|document]] in the Google Wave software [[f/_framework|framework]].**
 ---

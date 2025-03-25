@@ -6,7 +6,7 @@
 - **The result of a tally that reveals the [[n/_number|number]] of [[i/_items|items]] in a set; a quantity [[c/_counted|counted]].**
 - **A [[c/_countdown|countdown]].**
 - **A [[c/_charge|charge]] of [[m/_misconduct|misconduct]] [[b/_brought|brought]] in a [[l/_legal|legal]] proceeding.**
-- **The [[n/_number|number]] of [[b/_balls|balls]] and strikes, respectively, on a [[b/_batter|batter]]'s in-progress plate [[a/_appearance|appearance]].**
+- **The [[n/_number|number]] of [[b/_balls|balls]] and strikes, respectively, on a [[b/_batter|batter]]'s in-progress [[p/_plate|plate]] [[a/_appearance|appearance]].**
 	- _Example: He has a 3–2 count with the bases loaded._
 - **An [[o/_object|object]] of [[i/_interest|interest]] or [[a/_account|account]]; value; [[e/_estimation|estimation]].**
 ---
@@ -22,7 +22,7 @@
 - **To [[c/_consider|consider]] something an [[e/_example|example]] of something.**
 	- _Example: He counts himself a hero after saving the cat from the river.   I count you as more than a friend._
 - **To take [[a/_account|account]] or [[n/_note|note]] (of).**
-- **To plead [[o/_orally|orally]]; to [[a/_argue|argue]] a [[m/_matter|matter]] in [[c/_court|court]]; to recite a [[c/_count|count]].**
+- **To [[p/_plead|plead]] [[o/_orally|orally]]; to [[a/_argue|argue]] a [[m/_matter|matter]] in [[c/_court|court]]; to recite a [[c/_count|count]].**
 ---
 ### Synonyms
 - [[e/_enumerate|enumerate]], [[n/_number|number]]

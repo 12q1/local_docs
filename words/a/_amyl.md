@@ -1,9 +1,9 @@
 # Amyl
 ---
 #noun
-- **Pentyl**
+- **[[p/_pentyl|Pentyl]]**
 ---
 #adjective
-- **Of or pertaining to starch**
+- **Of or [[p/_pertaining|pertaining]] to starch**
 ---
 ---

@@ -6,8 +6,8 @@
 - **To [[j/_jeer|jeer]] at; to [[m/_mock|mock]].**
 - **To [[d/_dart|dart]] [[a/_about|about]]; to [[m/_move|move]] with quick, [[j/_jerky|jerky]] [[m/_motions|motions]].**
 - **To [[b/_blurt|blurt]] [[o/_out|out]].**
-- **To play at [[c/_courtship|courtship]]; to talk with teasing [[a/_affection|affection]], to [[i/_insinuate|insinuate]] sexual [[a/_attraction|attraction]] in a playful ([[e/_especially|especially]] [[c/_conversational|conversational]]) way.**
-- **To [[e/_experiment|experiment]], or tentatively [[e/_engage|engage]], with; to [[b/_become|become]] [[i/_involved|involved]] in passing with.**
+- **To [[p/_play|play]] at [[c/_courtship|courtship]]; to talk with teasing [[a/_affection|affection]], to [[i/_insinuate|insinuate]] sexual [[a/_attraction|attraction]] in a [[p/_playful|playful]] ([[e/_especially|especially]] [[c/_conversational|conversational]]) way.**
+- **To [[e/_experiment|experiment]], or tentatively [[e/_engage|engage]], with; to [[b/_become|become]] [[i/_involved|involved]] in [[p/_passing|passing]] with.**
 ---
 ### Antonyms
 - [[b/_belittle|belittle]]

@@ -29,7 +29,7 @@
 #noun
 - **A [[k/_kicking|kicking]], as with a [[b/_booted|booted]] [[f/_foot|foot]].**
 - **The [[a/_act|act]] by which a [[c/_computer|computer]] is [[b/_booted|booted]].**
-- **[[a/_advantage|Advantage]]; [[g/_gain|gain]]; [[g/_gain|gain]] by plunder; [[b/_booty|booty]].**
+- **[[a/_advantage|Advantage]]; [[g/_gain|gain]]; [[g/_gain|gain]] by [[p/_plunder|plunder]]; [[b/_booty|booty]].**
 - **([[c/_criminal|criminal]] slang) [[h/_homicide|Homicide]] by [[g/_gunfire|gunfire]].**
 ---
 ---

@@ -3,10 +3,10 @@
 #noun
 - **A show or spectacle.**
 	- _Example: The trapeze artist put on an amazing acrobatic display._
-- **A piece of work to be presented visually.**
+- **A [[p/_piece|piece]] of work to be [[p/_presented|presented]] visually.**
 	- _Example: Pupils are expected to produce a wall display about a country of their choice._
 - **An [[e/_electronic|electronic]] screen that shows [[g/_graphics|graphics]] or text.**
-- **The presentation of [[i/_information|information]] for visual or tactile reception.**
+- **The [[p/_presentation|presentation]] of [[i/_information|information]] for visual or tactile reception.**
 - **(travel, in a reservation system) The [[a/_asterisk|asterisk]] symbol, used to [[d/_denote|denote]] that the [[f/_following|following]] [[i/_information|information]] will be [[d/_displayed|displayed]], [[e/_eg|eg]], *[[h/_h|H]] will "[[d/_display|display]] [[h/_history|history]]".**
 ---
 #verb

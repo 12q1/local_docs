@@ -7,15 +7,15 @@
 	- _Example: The pack is a heavy lug._
 - **[[a/_anything|Anything]] that [[m/_moves|moves]] slowly.**
 - **A [[l/_lug|lug]] [[n/_nut|nut]].**
-- **A [[d/_device|device]] for terminating an [[e/_electrical|electrical]] [[c/_conductor|conductor]] to [[f/_facilitate|facilitate]] the [[m/_mechanical|mechanical]] [[c/_connection|connection]]; to the [[c/_conductor|conductor]] it [[m/_may|may]] be [[c/_crimped|crimped]] to [[f/_form|form]] a [[c/_cold|cold]] weld, soldered or [[h/_have|have]] pressure from a screw.**
-- **A part of something which sticks [[o/_out|out]], used as a [[h/_handle|handle]] or support.**
+- **A [[d/_device|device]] for terminating an [[e/_electrical|electrical]] [[c/_conductor|conductor]] to [[f/_facilitate|facilitate]] the [[m/_mechanical|mechanical]] [[c/_connection|connection]]; to the [[c/_conductor|conductor]] it [[m/_may|may]] be [[c/_crimped|crimped]] to [[f/_form|form]] a [[c/_cold|cold]] weld, soldered or [[h/_have|have]] [[p/_pressure|pressure]] from a screw.**
+- **A [[p/_part|part]] of something which sticks [[o/_out|out]], used as a [[h/_handle|handle]] or support.**
 - **A [[f/_fool|fool]], a [[l/_large|large]] [[m/_man|man]].**
 - **An [[e/_ear|ear]] or [[e/_ear|ear]] [[l/_lobe|lobe]].**
 	- _Example: While shaving, the poor sod had a fit and cut part of a lug off._
 - **A wood [[b/_box|box]] used for transporting [[f/_fruit|fruit]] or vegetables.**
-- **A request for [[m/_money|money]], as for political purposes.**
+- **A request for [[m/_money|money]], as for [[p/_political|political]] purposes.**
 	- _Example: They put the lug on him at the courthouse._
-- **A rod or pole.**
+- **A rod or [[p/_pole|pole]].**
 - **A [[m/_measure|measure]] of [[l/_length|length]] [[e/_equal|equal]] to 16 1/2 [[f/_feet|feet]].**
 - **A [[l/_lugsail|lugsail]].**
 - **([[h/_harness|harness]]) The [[l/_leather|leather]] [[l/_loop|loop]] or [[e/_ear|ear]] by which a shaft is [[h/_held|held]] up.**

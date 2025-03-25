@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[d/_dog|dog]] used for [[c/_coursing|coursing]].**
-- **A person who practises [[c/_coursing|coursing]].**
+- **A [[p/_person|person]] who [[p/_practises|practises]] [[c/_coursing|coursing]].**
 - **A [[h/_hunter|hunter]].**
 - **A stone used in [[b/_building|building]] a [[c/_course|course]].**
 - **A racehorse or a [[c/_charger|charger]].**

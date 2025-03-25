@@ -4,6 +4,6 @@
 - **A [[c/_cleric|cleric]].**
 ---
 #adjective
-- **Of or pertaining to the [[c/_church|church]]; [[e/_ecclesiastical|ecclesiastical]].**
+- **Of or [[p/_pertaining|pertaining]] to the [[c/_church|church]]; [[e/_ecclesiastical|ecclesiastical]].**
 ---
 ---

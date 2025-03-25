@@ -4,6 +4,6 @@
 - **[[a/_any|Any]] [[m/_murine|murine]] [[m/_mammal|mammal]].**
 ---
 #adjective
-- **Of, pertaining to, or [[c/_characteristic|characteristic]] of, the [[m/_mouse|mouse]], rat or ([[m/_more|more]] [[g/_generally|generally]]) [[a/_any|any]] [[m/_mammal|mammal]] of the [[f/_family|family]] [[m/_muridae|Muridae]].**
+- **Of, [[p/_pertaining|pertaining]] to, or [[c/_characteristic|characteristic]] of, the [[m/_mouse|mouse]], rat or ([[m/_more|more]] [[g/_generally|generally]]) [[a/_any|any]] [[m/_mammal|mammal]] of the [[f/_family|family]] [[m/_muridae|Muridae]].**
 ---
 ---

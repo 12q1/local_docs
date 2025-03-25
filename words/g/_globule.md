@@ -1,6 +1,6 @@
 # Globule
 ---
 #noun
-- **A small round particle of substance; a [[d/_drop|drop]].**
+- **A small round [[p/_particle|particle]] of substance; a [[d/_drop|drop]].**
 ---
 ---

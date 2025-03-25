@@ -1,6 +1,6 @@
 # Mediacy
 ---
 #noun
-- **[[m/_mediation|Mediation]]; presence of an [[i/_intermediary|intermediary]].**
+- **[[m/_mediation|Mediation]]; [[p/_presence|presence]] of an [[i/_intermediary|intermediary]].**
 ---
 ---

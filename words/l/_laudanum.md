@@ -5,6 +5,6 @@
 ---
 #verb
 - **To [[a/_add|add]] [[l/_laudanum|laudanum]] to (a [[d/_drink|drink]] or the [[l/_like|like]]).**
-- **To [[c/_cause|cause]] (a person) to be [[h/_high|high]] on [[l/_laudanum|laudanum]].**
+- **To [[c/_cause|cause]] (a [[p/_person|person]]) to be [[h/_high|high]] on [[l/_laudanum|laudanum]].**
 ---
 ---

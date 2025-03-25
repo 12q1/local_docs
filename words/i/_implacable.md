@@ -1,7 +1,7 @@
 # Implacable
 ---
 #adjective
-- **Not [[a/_able|able]] to be placated or [[a/_appeased|appeased]].**
+- **Not [[a/_able|able]] to be [[p/_placated|placated]] or [[a/_appeased|appeased]].**
 - **[[i/_impossible|Impossible]] to prevent or stop; [[i/_inexorable|inexorable]], unrelenting, unstoppable.**
 - **[[a/_adamant|Adamant]]; [[i/_immovable|immovable]].**
 ---

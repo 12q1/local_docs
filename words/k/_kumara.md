@@ -1,6 +1,6 @@
 # Kumara
 ---
 #noun
-- **A sweet potato.**
+- **A sweet [[p/_potato|potato]].**
 ---
 ---

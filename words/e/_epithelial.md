@@ -1,6 +1,6 @@
 # Epithelial
 ---
 #adjective
-- **Of or pertaining to the [[e/_epithelium|epithelium]].**
+- **Of or [[p/_pertaining|pertaining]] to the [[e/_epithelium|epithelium]].**
 ---
 ---

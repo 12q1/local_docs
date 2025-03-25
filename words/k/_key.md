@@ -12,26 +12,26 @@
 - **[[o/_one|One]] of several small, usually square [[b/_buttons|buttons]] on a typewriter or [[c/_computer|computer]] [[k/_keyboard|keyboard]], [[m/_mostly|mostly]] [[c/_corresponding|corresponding]] to text [[c/_characters|characters]].**
 	- _Example: Press the Escape key._
 - **In [[m/_musical|musical]] [[i/_instruments|instruments]], [[o/_one|one]] of the valve [[l/_levers|levers]] used to select [[n/_notes|notes]], such as a [[l/_lever|lever]] [[o/_opening|opening]] a [[h/_hole|hole]] on a woodwind.**
-- **In [[i/_instruments|instruments]] with a [[k/_keyboard|keyboard]] such as an [[o/_organ|organ]] or piano, [[o/_one|one]] of the [[l/_levers|levers]], or [[e/_especially|especially]] the [[e/_exposed|exposed]] [[f/_front|front]] [[e/_end|end]] of it, which are [[d/_depressed|depressed]] to [[c/_cause|cause]] a particular sound or [[n/_note|note]] to be produced.**
+- **In [[i/_instruments|instruments]] with a [[k/_keyboard|keyboard]] such as an [[o/_organ|organ]] or [[p/_piano|piano]], [[o/_one|one]] of the [[l/_levers|levers]], or [[e/_especially|especially]] the [[e/_exposed|exposed]] [[f/_front|front]] [[e/_end|end]] of it, which are [[d/_depressed|depressed]] to [[c/_cause|cause]] a [[p/_particular|particular]] sound or [[n/_note|note]] to be produced.**
 - **The [[l/_lowest|lowest]] [[n/_note|note]] of a scale; [[k/_keynote|keynote]].**
 - **In [[m/_musical|musical]] theory, the total [[m/_melodic|melodic]] and [[h/_harmonic|harmonic]] relations, which [[e/_exist|exist]] [[b/_between|between]] the tones of an [[i/_ideal|ideal]] scale, [[m/_major|major]] or [[m/_minor|minor]]; tonality.**
 - **In [[m/_musical|musical]] theory and [[n/_notation|notation]], the tonality [[c/_centering|centering]] in a [[g/_given|given]] tone, or the several tones taken [[c/_collectively|collectively]], of a [[g/_given|given]] scale, [[m/_major|major]] or [[m/_minor|minor]].**
 - **In [[m/_musical|musical]] [[n/_notation|notation]], a sign at the [[h/_head|head]] of a staff [[i/_indicating|indicating]] the [[m/_musical|musical]] [[k/_key|key]].**
-- **The [[g/_general|general]] pitch or tone of a sentence or utterance.**
-- **A [[m/_modification|modification]] of an [[a/_advertisement|advertisement]] so as to target a particular [[g/_group|group]] or [[d/_demographic|demographic]].**
+- **The [[g/_general|general]] [[p/_pitch|pitch]] or tone of a sentence or utterance.**
+- **A [[m/_modification|modification]] of an [[a/_advertisement|advertisement]] so as to target a [[p/_particular|particular]] [[g/_group|group]] or [[d/_demographic|demographic]].**
 - **An [[i/_indehiscent|indehiscent]], [[o/_one|one]]-seeded [[f/_fruit|fruit]] [[f/_furnished|furnished]] with a wing, such as the [[f/_fruit|fruit]] of the [[a/_ash|ash]] and [[m/_maple|maple]]; a samara.**
 - **A [[m/_manual|manual]] [[e/_electrical|electrical]] switching [[d/_device|device]] primarily used for the transmission of [[m/_morse|Morse]] [[c/_code|code]].**
-- **A piece of [[i/_information|information]] ([[e/_e|e]].[[g/_g|g]]. a passphrase) used to [[e/_encode|encode]] or [[d/_decode|decode]] a [[m/_message|message]] or [[m/_messages|messages]].**
-- **A password restricting [[a/_access|access]] to an IRC [[c/_channel|channel]].**
+- **A [[p/_piece|piece]] of [[i/_information|information]] ([[e/_e|e]].[[g/_g|g]]. a passphrase) used to [[e/_encode|encode]] or [[d/_decode|decode]] a [[m/_message|message]] or [[m/_messages|messages]].**
+- **A [[p/_password|password]] restricting [[a/_access|access]] to an IRC [[c/_channel|channel]].**
 - **In a relational [[d/_database|database]], a [[f/_field|field]] used as an [[i/_index|index]] [[i/_into|into]] [[a/_another|another]] table (not [[n/_necessarily|necessarily]] unique).**
 - **A value that uniquely [[i/_identifies|identifies]] an [[e/_entry|entry]] in a [[c/_container|container]].**
 - **The [[f/_free|free]]-throw [[l/_lane|lane]] together with the [[c/_circle|circle]] surrounding the [[f/_free|free]]-throw [[l/_line|line]], the [[f/_free|free]]-throw [[l/_lane|lane]] [[h/_having|having]] [[f/_formerly|formerly]] [[b/_been|been]] [[n/_narrower|narrower]], [[g/_giving|giving]] the [[a/_area|area]] the shape of a skeleton [[k/_key|key]] [[h/_hole|hole]].**
 	- _Example: He shoots from the top of the key._
 - **A series of [[l/_logically|logically]] [[o/_organized|organized]] [[g/_groups|groups]] of [[d/_discriminating|discriminating]] [[i/_information|information]] which [[a/_aims|aims]] to [[a/_allow|allow]] the user to [[c/_correctly|correctly]] [[i/_identify|identify]] a taxon.**
-- **A piece of wood used as a wedge.**
+- **A [[p/_piece|piece]] of wood used as a wedge.**
 - **The [[l/_last|last]] [[b/_board|board]] of a [[f/_floor|floor]] when [[l/_laid|laid]] [[d/_down|down]].**
 - **A [[k/_keystone|keystone]].**
-- **That part of the plastering which is [[f/_forced|forced]] through [[b/_between|between]] the [[l/_laths|laths]] and [[h/_holds|holds]] the rest in place.**
+- **That [[p/_part|part]] of the [[p/_plastering|plastering]] which is [[f/_forced|forced]] through [[b/_between|between]] the [[l/_laths|laths]] and [[h/_holds|holds]] the rest in [[p/_place|place]].**
 - **A wooden support for a rail on the [[b/_bullhead|bullhead]] rail system.**
 - **The [[d/_degree|degree]] of roughness, or retention [[a/_ability|ability]] of a surface to [[h/_have|have]] [[a/_applied|applied]] a [[l/_liquid|liquid]] such as [[p/_paint|paint]], or [[g/_glue|glue]].**
 	- _Example: The door panel should be sanded down carefully to provide a good key for the new paint._
@@ -41,7 +41,7 @@
 ---
 #verb
 - **To [[f/_fit|fit]] (a [[l/_lock|lock]]) with a [[k/_key|key]].**
-- **To [[f/_fit|fit]] (pieces of a [[m/_mechanical|mechanical]] [[a/_assembly|assembly]]) with a [[k/_key|key]] to [[m/_maintain|maintain]] the [[o/_orientation|orientation]] [[b/_between|between]] them.**
+- **To [[f/_fit|fit]] ([[p/_pieces|pieces]] of a [[m/_mechanical|mechanical]] [[a/_assembly|assembly]]) with a [[k/_key|key]] to [[m/_maintain|maintain]] the [[o/_orientation|orientation]] [[b/_between|between]] them.**
 - **To [[m/_mark|mark]] or [[i/_indicate|indicate]] with a symbol [[i/_indicating|indicating]] [[m/_membership|membership]] in a [[c/_class|class]].**
 - **(telegraphy and radio telegraphy) To [[d/_depress|depress]] (a telegraph [[k/_key|key]]).**
 - **To [[o/_operate|operate]] (the transmitter switch of a two-way radio).**
@@ -51,8 +51,8 @@
 	- _Example: He keyed the car that had taken his parking spot._
 - **To [[l/_link|link]] (as [[o/_one|one]] [[m/_might|might]] [[d/_do|do]] with a [[k/_key|key]] or [[l/_legend|legend]]).**
 - **To be [[i/_identified|identified]] as a [[c/_certain|certain]] taxon when using a [[k/_key|key]].**
-- **To [[m/_modify|modify]] (an [[a/_advertisement|advertisement]]) so as to target a particular [[g/_group|group]] or [[d/_demographic|demographic]].**
-- **To [[a/_attune|attune]] to; to set at; to pitch.**
+- **To [[m/_modify|modify]] (an [[a/_advertisement|advertisement]]) so as to target a [[p/_particular|particular]] [[g/_group|group]] or [[d/_demographic|demographic]].**
+- **To [[a/_attune|attune]] to; to set at; to [[p/_pitch|pitch]].**
 - **To [[f/_fasten|fasten]] or secure [[f/_firmly|firmly]]; to [[f/_fasten|fasten]] or tighten with [[k/_keys|keys]] or wedges.**
 ---
 #adjective

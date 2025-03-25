@@ -1,13 +1,13 @@
 # Do
 ---
 #noun
-- **A party, [[c/_celebration|celebration]], social [[f/_function|function]].**
+- **A [[p/_party|party]], [[c/_celebration|celebration]], social [[f/_function|function]].**
 	- _Example: We’re having a bit of a do on Saturday to celebrate my birthday._
 - **A [[h/_hairdo|hairdo]].**
 	- _Example: Nice do!_
-- **Something that [[c/_can|can]] or should be [[d/_done|done]] (usually in the phrase [[d/_dos|dos]] and [[d/_don|don]]'ts).**
+- **Something that [[c/_can|can]] or should be [[d/_done|done]] (usually in the [[p/_phrase|phrase]] [[d/_dos|dos]] and [[d/_don|don]]'ts).**
 - **A [[d/_deed|deed]]; an [[a/_act|act]].**
-- **[[a/_ado|Ado]]; [[b/_bustle|bustle]]; stir; to-[[d/_do|do]]; A period of [[c/_confusion|confusion]] or [[a/_argument|argument]].**
+- **[[a/_ado|Ado]]; [[b/_bustle|bustle]]; stir; to-[[d/_do|do]]; A [[p/_period|period]] of [[c/_confusion|confusion]] or [[a/_argument|argument]].**
 - **A [[c/_cheat|cheat]]; a swindler.**
 - **An [[a/_act|act]] of swindling; a [[f/_fraud|fraud]] or [[d/_deception|deception]].**
 ---
@@ -15,7 +15,7 @@
 - [[g/_get-together|get-together]], [[t/_to-do|to-do]]
 #verb
 - **([[a/_auxiliary|auxiliary]]) A syntactic [[m/_marker|marker]].**
-- **To perform; to [[e/_execute|execute]].**
+- **To [[p/_perform|perform]]; to [[e/_execute|execute]].**
 	- _Example: All you ever do is surf the Internet. What will you do this afternoon?_
 - **To [[c/_cause|cause]], [[m/_make|make]] (someone) ([[d/_do|do]] something).**
 - **To suffice.**
@@ -24,24 +24,24 @@
 	- _Example: It simply will not do to have dozens of children running around such a quiet event._
 - **(ditransitive) To [[h/_have|have]] (as an [[e/_effect|effect]]).**
 	- _Example: The fresh air did him some good._
-- **To [[f/_fare|fare]], perform (well or poorly).**
+- **To [[f/_fare|fare]], [[p/_perform|perform]] (well or [[p/_poorly|poorly]]).**
 	- _Example: Our relationship isn't doing very well;  how do you do?_
 - **([[c/_chiefly|chiefly]] in questions) To [[h/_have|have]] as [[o/_one|one]]'s [[j/_job|job]].**
 	- _Example: What does Bob do? — He's a plumber._
-- **To perform the tasks or [[a/_actions|actions]] [[a/_associated|associated]] with (something).**
+- **To [[p/_perform|perform]] the tasks or [[a/_actions|actions]] [[a/_associated|associated]] with (something).**
 	- _Example: "Don't forget to do your report" means something quite different depending on whether you're a student or a programmer._
 - **To [[c/_cook|cook]].**
 	- _Example: I'll just do some eggs._
 - **To travel in, to tour, to [[m/_make|make]] a [[c/_circuit|circuit]] of.**
 	- _Example: Let’s do New York also._
 - **To treat in a [[c/_certain|certain]] way.**
-- **To work for or on, by way of [[c/_caring|caring]] for, [[l/_looking|looking]] [[a/_after|after]], preparing, [[c/_cleaning|cleaning]], [[k/_keeping|keeping]] in [[o/_order|order]], [[e/_etc|etc]].**
+- **To work for or on, by way of [[c/_caring|caring]] for, [[l/_looking|looking]] [[a/_after|after]], [[p/_preparing|preparing]], [[c/_cleaning|cleaning]], [[k/_keeping|keeping]] in [[o/_order|order]], [[e/_etc|etc]].**
 - **To [[a/_act|act]] or [[b/_behave|behave]] in a [[c/_certain|certain]] [[m/_manner|manner]]; to [[c/_conduct|conduct]] [[o/_oneself|oneself]].**
 - **To spend (time) in [[j/_jail|jail]]. (See [[a/_also|also]] [[d/_do|do]] time)**
 	- _Example: I did five years for armed robbery._
 - **To [[i/_impersonate|impersonate]] or [[d/_depict|depict]].**
 	- _Example: They really laughed when he did Clinton, with a perfect accent and a leer._
-- **(with 'a' and the [[n/_name|name]] of a person, place, [[e/_event|event]], [[e/_etc|etc]].) To [[c/_copy|copy]] or [[e/_emulate|emulate]] the [[a/_actions|actions]] or [[b/_behaviour|behaviour]] that is [[a/_associated|associated]] with the person or thing [[m/_mentioned|mentioned]].**
+- **(with 'a' and the [[n/_name|name]] of a [[p/_person|person]], [[p/_place|place]], [[e/_event|event]], [[e/_etc|etc]].) To [[c/_copy|copy]] or [[e/_emulate|emulate]] the [[a/_actions|actions]] or [[b/_behaviour|behaviour]] that is [[a/_associated|associated]] with the [[p/_person|person]] or thing [[m/_mentioned|mentioned]].**
 	- _Example: He did a Henry VIII and got married six times._
 - **To [[k/_kill|kill]].**
 - **To [[d/_deal|deal]] with for [[g/_good|good]] and [[a/_all|all]]; to [[f/_finish|finish]] up; to undo; to ruin; to [[d/_do|do]] for.**
@@ -54,11 +54,11 @@
 	- _Example: the novel has just been done into English;  I'm going to do this play into a movie_
 - **To [[f/_finish|finish]].**
 - **To work as a [[d/_domestic|domestic]] servant (with for).**
-- **([[a/_auxiliary|auxiliary]]) Used to [[f/_form|form]] the present progressive of verbs.**
+- **([[a/_auxiliary|auxiliary]]) Used to [[f/_form|form]] the [[p/_present|present]] progressive of verbs.**
 - **To [[c/_cash|cash]] or to [[a/_advance|advance]] [[m/_money|money]] for, as a [[b/_bill|bill]] or [[n/_note|note]].**
 - **(ditransitive) To [[m/_make|make]] or provide.**
 	- _Example: Could you do me a burger with mayonnaise instead of ketchup?_
-- **To [[i/_injure|injure]] ([[o/_one|one]]'s [[o/_own|own]] [[b/_body|body]] part).**
+- **To [[i/_injure|injure]] ([[o/_one|one]]'s [[o/_own|own]] [[b/_body|body]] [[p/_part|part]]).**
 - **To take [[d/_drugs|drugs]].**
 	- _Example: I do cocaine._
 - **(in the [[f/_form|form]] be [[d/_doing|doing]] [somewhere]) To [[e/_exist|exist]] with a purpose or for a reason.**

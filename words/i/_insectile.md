@@ -1,6 +1,6 @@
 # Insectile
 ---
 #adjective
-- **Of, or pertaining to [[i/_insects|insects]]**
+- **Of, or [[p/_pertaining|pertaining]] to [[i/_insects|insects]]**
 ---
 ---

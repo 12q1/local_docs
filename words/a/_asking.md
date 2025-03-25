@@ -5,22 +5,22 @@
 	- _Example: I asked her age._
 - **To put [[f/_forward|forward]] (a question) to be [[a/_answered|answered]].**
 	- _Example: to ask a question_
-- **To [[i/_interrogate|interrogate]] or [[e/_enquire|enquire]] of (a person).**
+- **To [[i/_interrogate|interrogate]] or [[e/_enquire|enquire]] of (a [[p/_person|person]]).**
 	- _Example: I'm going to ask this lady for directions._
-- **To request or petition; usually with for.**
+- **To request or [[p/_petition|petition]]; usually with for.**
 	- _Example: to ask for a second helping at dinner_
-- **To request permission to [[d/_do|do]] something.**
+- **To request [[p/_permission|permission]] to [[d/_do|do]] something.**
 	- _Example: Did you ask to use the car?_
 - **To require, [[d/_demand|demand]], [[c/_claim|claim]], or [[e/_expect|expect]], whether by way of remuneration or return, or as a [[m/_matter|matter]] of [[n/_necessity|necessity]].**
 	- _Example: What price are you asking for the house?_
 - **To [[i/_invite|invite]].**
 	- _Example: Don't ask them to the wedding._
-- **To publish in [[c/_church|church]] for [[m/_marriage|marriage]]; said of [[b/_both|both]] the [[b/_banns|banns]] and the persons.**
-- **To take (a person's situation) as an [[e/_example|example]].**
+- **To publish in [[c/_church|church]] for [[m/_marriage|marriage]]; said of [[b/_both|both]] the [[b/_banns|banns]] and the [[p/_persons|persons]].**
+- **To take (a [[p/_person|person]]'s situation) as an [[e/_example|example]].**
 ---
 #noun
-- **The [[a/_act|act]] or process of posing a question or [[m/_making|making]] a request.**
+- **The [[a/_act|act]] or process of [[p/_posing|posing]] a question or [[m/_making|making]] a request.**
 	- _Example: His asking was greeted with silence._
-- **A request, or petition.**
+- **A request, or [[p/_petition|petition]].**
 ---
 ---

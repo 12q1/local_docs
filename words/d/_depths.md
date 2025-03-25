@@ -11,15 +11,15 @@
 - **([[c/_colors|colors]]) the total [[p/_palette|palette]] of [[a/_available|available]] [[c/_colors|colors]]**
 - **The property of [[a/_appearing|appearing]] three-[[d/_dimensional|dimensional]]**
 	- _Example: The depth of field in this picture is amazing._
-- **(usually in the plural) the [[d/_deepest|deepest]] part (usually of a [[b/_body|body]] of water)**
+- **(usually in the [[p/_plural|plural]]) the [[d/_deepest|deepest]] [[p/_part|part]] (usually of a [[b/_body|body]] of water)**
 	- _Example: The burning ship finally sunk into the depths._
-- **(usually in the plural) a very remote part.**
+- **(usually in the [[p/_plural|plural]]) a very remote [[p/_part|part]].**
 	- _Example: In the depths of the night,_
-- **The [[m/_most|most]] severe part**
+- **The [[m/_most|most]] severe [[p/_part|part]]**
 	- _Example: in the depth of the crisis_
 - **The [[n/_number|number]] of simple [[e/_elements|elements]] which an [[a/_abstract|abstract]] [[c/_conception|conception]] or [[n/_notion|notion]] [[i/_includes|includes]]; the [[c/_comprehension|comprehension]] or [[c/_content|content]]**
 - **A [[p/_pair|pair]] of toothed wheels which work together**
-- **The perpendicular [[d/_distance|distance]] from the [[c/_chord|chord]] to the [[f/_farthest|farthest]] point of an [[a/_arched|arched]] surface**
+- **The [[p/_perpendicular|perpendicular]] [[d/_distance|distance]] from the [[c/_chord|chord]] to the [[f/_farthest|farthest]] [[p/_point|point]] of an [[a/_arched|arched]] surface**
 - **The [[l/_lower|lower]] of the two ranks of a value in an [[o/_ordered|ordered]] set of values**
 ---
 ### Synonyms

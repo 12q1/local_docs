@@ -1,7 +1,7 @@
 # Ageless
 ---
 #adjective
-- **(relative to past) [[h/_having|Having]] [[e/_existed|existed]] for so [[g/_great|great]] a period of time that [[i/_its|its]] [[l/_longevity|longevity]] [[c/_cannot|cannot]] be [[e/_expressed|expressed]].**
+- **(relative to [[p/_past|past]]) [[h/_having|Having]] [[e/_existed|existed]] for so [[g/_great|great]] a [[p/_period|period]] of time that [[i/_its|its]] [[l/_longevity|longevity]] [[c/_cannot|cannot]] be [[e/_expressed|expressed]].**
 	- _Example: The ageless pyramids stood prominently against the sunset._
 - **(relative to [[f/_future|future]]) [[c/_continuing|Continuing]] [[i/_infinitely|infinitely]] or [[i/_indefinitely|indefinitely]].**
 	- _Example: This memorial will show our ageless respect to those who died._

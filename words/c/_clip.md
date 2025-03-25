@@ -7,7 +7,7 @@
 	- _Example: He was walking at a fair clip and I was out of breath trying to keep up._
 - **An [[e/_embrace|embrace]].**
 - **A [[f/_frame|frame]] [[c/_containing|containing]] a [[n/_number|number]] of [[b/_bullets|bullets]] which is [[i/_intended|intended]] to be [[i/_inserted|inserted]] [[i/_into|into]] the [[m/_magazine|magazine]] of a [[f/_firearm|firearm]] to [[a/_allow|allow]] for rapid reloading.**
-- **A projecting [[f/_flange|flange]] on the upper [[e/_edge|edge]] of a [[h/_horseshoe|horseshoe]], turned up so as to [[e/_embrace|embrace]] the [[l/_lower|lower]] part of the [[h/_hoof|hoof]]; a toe [[c/_clip|clip]] or [[b/_beak|beak]].**
+- **A projecting [[f/_flange|flange]] on the upper [[e/_edge|edge]] of a [[h/_horseshoe|horseshoe]], turned up so as to [[e/_embrace|embrace]] the [[l/_lower|lower]] [[p/_part|part]] of the [[h/_hoof|hoof]]; a toe [[c/_clip|clip]] or [[b/_beak|beak]].**
 - **A [[g/_gaff|gaff]] or [[h/_hook|hook]] for [[l/_landing|landing]] the [[f/_fish|fish]], as in salmon [[f/_fishing|fishing]].**
 ---
 #verb

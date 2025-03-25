@@ -1,6 +1,6 @@
 # Ben
 ---
 #noun
-- **A prayer; a petition.**
+- **A [[p/_prayer|prayer]]; a [[p/_petition|petition]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Brattices
 ---
 #noun
-- **A wooden partition in a [[c/_coal|coal]] [[m/_mine|mine]].**
+- **A wooden [[p/_partition|partition]] in a [[c/_coal|coal]] [[m/_mine|mine]].**
 ---
 ---

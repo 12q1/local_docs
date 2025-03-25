@@ -9,7 +9,7 @@
 #verb
 - **To turn, [[e/_especially|especially]] [[a/_away|away]] or [[a/_aside|aside]].**
 - **To work, [[e/_especially|especially]] to [[d/_do|do]] [[h/_housework|housework]]; to work by the [[d/_day|day]], without [[b/_being|being]] a regularly [[h/_hired|hired]] servant.**
-- **To perform; to [[d/_do|do]]; to [[f/_finish|finish]].**
+- **To [[p/_perform|perform]]; to [[d/_do|do]]; to [[f/_finish|finish]].**
 - **To work or [[h/_hew|hew]] (stone, [[e/_etc|etc]].).**
 ---
 #adjective

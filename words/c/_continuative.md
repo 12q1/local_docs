@@ -5,7 +5,7 @@
 - **A [[d/_durative|durative]].**
 ---
 #adjective
-- **Of or pertaining to [[c/_continuation|continuation]].**
+- **Of or [[p/_pertaining|pertaining]] to [[c/_continuation|continuation]].**
 - **[[d/_durative|Durative]].**
 ---
 ---

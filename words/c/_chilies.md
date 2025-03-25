@@ -1,8 +1,8 @@
 # Chilies
 ---
 #noun
-- **The pungent, spicy [[f/_fresh|fresh]] or [[d/_dried|dried]] [[f/_fruit|fruit]] of [[a/_any|any]] of several [[c/_cultivated|cultivated]] varieties of [[c/_capsicum|capsicum]] peppers, used in [[c/_cooking|cooking]].**
-- **Powdered [[c/_chili|chili]] pepper, used as a spice or [[f/_flavouring|flavouring]] in [[c/_cooking|cooking]].**
+- **The pungent, spicy [[f/_fresh|fresh]] or [[d/_dried|dried]] [[f/_fruit|fruit]] of [[a/_any|any]] of several [[c/_cultivated|cultivated]] varieties of [[c/_capsicum|capsicum]] [[p/_peppers|peppers]], used in [[c/_cooking|cooking]].**
+- **[[p/_powdered|Powdered]] [[c/_chili|chili]] [[p/_pepper|pepper]], used as a spice or [[f/_flavouring|flavouring]] in [[c/_cooking|cooking]].**
 - **([[i/_indian|Indian]] [[c/_chinese|Chinese]] [[c/_cuisine|cuisine]]) a spicy stew of [[c/_chicken|chicken]] or paneer, [[c/_capsicum|capsicum]] and [[o/_onion|onion]], [[e/_eaten|eaten]] as an [[a/_appetizer|appetizer]].**
 ---
 ### Synonyms

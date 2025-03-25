@@ -8,7 +8,7 @@
 ### Synonyms
 - [[a/_assemble|assemble]], [[b/_begather|begather]], [[f/_foregather|foregather]], [[t/_throng|throng]], [[a/_amass|amass]], [[c/_categorise|categorise]], [[c/_categorize|categorize]], [[c/_classify|classify]], [[c/_collect|collect]], [[g/_gather|gather]]
 #noun
-- **A [[c/_collection|collection]] of things or people united as a [[g/_group|group]].**
+- **A [[c/_collection|collection]] of things or [[p/_people|people]] united as a [[g/_group|group]].**
 - **The [[a/_action|action]] of the verb to [[g/_group|group]].**
 - **Shot [[g/_grouping|grouping]].**
 ---

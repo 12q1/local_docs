@@ -15,14 +15,14 @@
 	- _Example: to bank sand_
 - **To [[c/_cover|cover]] the [[e/_embers|embers]] of a [[f/_fire|fire]] with [[a/_ashes|ashes]] in [[o/_order|order]] to retain [[h/_heat|heat]].**
 - **To raise a [[m/_mound|mound]] or [[d/_dike|dike]] [[a/_about|about]]; to [[e/_enclose|enclose]], [[d/_defend|defend]], or [[f/_fortify|fortify]] with a [[b/_bank|bank]]; to [[e/_embank|embank]].**
-- **To pass by the [[b/_banks|banks]] of.**
-- **To provide [[a/_additional|additional]] power for a train [[a/_ascending|ascending]] a [[b/_bank|bank]] ([[i/_incline|incline]]) by [[a/_attaching|attaching]] [[a/_another|another]] [[l/_locomotive|locomotive]].**
+- **To [[p/_pass|pass]] by the [[b/_banks|banks]] of.**
+- **To provide [[a/_additional|additional]] [[p/_power|power]] for a train [[a/_ascending|ascending]] a [[b/_bank|bank]] ([[i/_incline|incline]]) by [[a/_attaching|attaching]] [[a/_another|another]] [[l/_locomotive|locomotive]].**
 ---
 #verb
 - **([[o/_order|order]] and [[a/_arrangement|arrangement]]) To [[a/_arrange|arrange]] or [[o/_order|order]] in a row.**
 ---
 #adjective
-- **Piled [[h/_high|high]].**
+- **[[p/_piled|Piled]] [[h/_high|high]].**
 	- _Example: He tripped and fell on the banked corners of the road._
 - **Of a [[c/_cheque|cheque]], [[d/_deposited|deposited]] in a [[b/_bank|bank]].**
 ---

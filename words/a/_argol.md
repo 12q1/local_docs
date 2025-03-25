@@ -1,6 +1,6 @@
 # Argol
 ---
 #noun
-- **Potassium tartrate**
+- **[[p/_potassium|Potassium]] tartrate**
 ---
 ---

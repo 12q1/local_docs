@@ -6,7 +6,7 @@
 - **A surf [[m/_maneuver|maneuver]] where the upright surfer [[l/_leans|leans]] [[b/_back|back]] [[a/_against|against]] the wave.**
 - **A trick where the [[b/_boarder|boarder]] [[l/_leans|leans]] [[b/_back|back]] while on the [[l/_lip|lip]] of the ramp, or [[d/_down|down]] a rail.**
 - **([[a/_audio|audio]] [[e/_editing|editing]]) The process of recording the [[f/_final|final]] sound [[o/_onto|onto]] the [[m/_master|master]] track.**
-- **A short [[b/_backwards|backwards]] pass to a teammate in an [[a/_attacking|attacking]] position**
+- **A short [[b/_backwards|backwards]] [[p/_pass|pass]] to a teammate in an [[a/_attacking|attacking]] [[p/_position|position]]**
 - **A wedge-shaped [[k/_kerbstone|kerbstone]] that [[a/_allows|allows]] a vehicle to [[e/_enter|enter]] a [[d/_driveway|driveway]] without a [[b/_bump|bump]]**
 ---
 #verb

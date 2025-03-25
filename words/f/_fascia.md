@@ -2,7 +2,7 @@
 ---
 #noun
 - **A wide [[b/_band|band]] of [[m/_material|material]] [[c/_covering|covering]] the [[e/_ends|ends]] of roof rafters, sometimes supporting a [[g/_gutter|gutter]] in steep-slope roofing, but typically it is a [[b/_border|border]] or trim in [[l/_low|low]]-slope roofing.**
-- **A [[f/_face|face]] or [[f/_front|front]] [[c/_cover|cover]] of an [[a/_appliance|appliance]], [[e/_especially|especially]] of a [[m/_mobile|mobile]] phone.**
+- **A [[f/_face|face]] or [[f/_front|front]] [[c/_cover|cover]] of an [[a/_appliance|appliance]], [[e/_especially|especially]] of a [[m/_mobile|mobile]] [[p/_phone|phone]].**
 - **A [[d/_dashboard|dashboard]].**
 - **A [[f/_flat|flat]] [[b/_band|band]] or [[b/_broad|broad]] [[f/_fillet|fillet]]; [[e/_especially|especially]], [[o/_one|one]] of the three [[b/_bands|bands]] that [[m/_make|make]] up the [[a/_architrave|architrave]], in the [[i/_ionic|Ionic]] [[o/_order|order]].**
 - **A [[b/_broad|broad]] well-[[d/_defined|defined]] [[b/_band|band]] of [[c/_color|color]].**

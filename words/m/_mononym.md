@@ -1,7 +1,7 @@
 # Mononym
 ---
 #noun
-- **A single [[n/_name|name]] by which a person, thing [[e/_etc|etc]] is [[k/_known|known]].**
+- **A single [[n/_name|name]] by which a [[p/_person|person]], thing [[e/_etc|etc]] is [[k/_known|known]].**
 	- _Example: The singer-songwriter Madonna Louise Ciccone is known by the mononym Madonna._
 - **A single term for a thing or [[c/_concept|concept]], [[a/_allowing|allowing]] for [[n/_no|no]] synonyms.**
 ---

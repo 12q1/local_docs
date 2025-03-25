@@ -10,6 +10,6 @@
 ### Synonyms
 - [[c/_camp|camp]], [[c/_coterie|coterie]], [[i/_ingroup|ingroup]]
 #verb
-- **To [[a/_associate|associate]] together in a [[c/_clannish|clannish]] way; to [[a/_act|act]] with [[o/_others|others]] secretly to [[g/_gain|gain]] a [[d/_desired|desired]] [[e/_end|end]]; to plot.**
+- **To [[a/_associate|associate]] together in a [[c/_clannish|clannish]] way; to [[a/_act|act]] with [[o/_others|others]] secretly to [[g/_gain|gain]] a [[d/_desired|desired]] [[e/_end|end]]; to [[p/_plot|plot]].**
 ---
 ---

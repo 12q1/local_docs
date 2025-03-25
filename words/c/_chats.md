@@ -6,10 +6,10 @@
 #noun
 - **[[i/_informal|Informal]] [[c/_conversation|conversation]].**
 - **A [[c/_conversation|conversation]] to stop an [[a/_argument|argument]] or settle situations.**
-- **(totum pro parte, typically with [[d/_definite|definite]] [[a/_article|article]]) The [[e/_entirety|entirety]] of users in a chatroom or a single [[m/_member|member]] thereof.**
+- **(totum pro [[p/_parte|parte]], typically with [[d/_definite|definite]] [[a/_article|article]]) The [[e/_entirety|entirety]] of users in a chatroom or a single [[m/_member|member]] thereof.**
 	- _Example: The Chat just made a joke about my skills._
 - **An [[e/_exchange|exchange]] of text or voice [[m/_messages|messages]] in real time through a [[c/_computer|computer]] [[n/_network|network]], resembling a [[f/_face|face]]-to-[[f/_face|face]] [[c/_conversation|conversation]].**
-- **[[a/_any|Any]] of various small [[o/_old|Old]] World passerine [[b/_birds|birds]] in the muscicapid tribe Saxicolini or subfamily Saxicolinae that [[f/_feed|feed]] on [[i/_insects|insects]].**
+- **[[a/_any|Any]] of various small [[o/_old|Old]] World [[p/_passerine|passerine]] [[b/_birds|birds]] in the muscicapid tribe Saxicolini or subfamily Saxicolinae that [[f/_feed|feed]] on [[i/_insects|insects]].**
 - **[[a/_any|Any]] of several small [[a/_australian|Australian]] honeyeaters in the [[g/_genus|genus]] Epthianura.**
 ---
 #verb
@@ -26,6 +26,6 @@
 - **([[l/_local|local]] use) [[m/_mining|Mining]] waste from [[l/_lead|lead]] and zinc [[m/_mines|mines]].**
 ---
 #noun
-- **A [[l/_louse|louse]] (small, parasitic [[i/_insect|insect]]).**
+- **A [[l/_louse|louse]] (small, [[p/_parasitic|parasitic]] [[i/_insect|insect]]).**
 ---
 ---

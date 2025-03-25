@@ -13,7 +13,7 @@
 	- _Example: These definitions fit most of the usage._
 - **To [[a/_adjust|adjust]].**
 	- _Example: The regression program fit a line to the data._
-- **To [[a/_attach|attach]], [[e/_especially|especially]] when requiring [[e/_exact|exact]] positioning or sizing.**
+- **To [[a/_attach|attach]], [[e/_especially|especially]] when requiring [[e/_exact|exact]] [[p/_positioning|positioning]] or sizing.**
 - **To [[e/_equip|equip]] or supply.**
 	- _Example: The chandler will fit us with provisions for a month._
 - **To [[m/_make|make]] ready.**

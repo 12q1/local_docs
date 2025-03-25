@@ -1,7 +1,7 @@
 # Dated
 ---
 #verb
-- **To [[n/_note|note]] the time or place of writing or [[e/_executing|executing]]; to [[e/_express|express]] in an [[i/_instrument|instrument]] the time of [[i/_its|its]] [[e/_execution|execution]].**
+- **To [[n/_note|note]] the time or [[p/_place|place]] of writing or [[e/_executing|executing]]; to [[e/_express|express]] in an [[i/_instrument|instrument]] the time of [[i/_its|its]] [[e/_execution|execution]].**
 	- _Example: to date a letter, a bond, a deed, or a charter_
 - **To [[n/_note|note]] or [[f/_fix|fix]] the time of (an [[e/_event|event]]); to [[g/_give|give]] the [[d/_date|date]] of.**
 - **To [[d/_determine|determine]] the [[a/_age|age]] of something.**
@@ -21,7 +21,7 @@
 	- _Example: The first dated entry in the diary was from October 1922._
 - **[[o/_outdated|Outdated]].**
 	- _Example: "Omnibus" is a dated term for a bus._
-- **[[a/_anachronistic|Anachronistic]]; [[b/_being|being]] [[o/_obviously|obviously]] [[i/_inappropriate|inappropriate]] for [[i/_its|its]] present [[c/_context|context]].**
+- **[[a/_anachronistic|Anachronistic]]; [[b/_being|being]] [[o/_obviously|obviously]] [[i/_inappropriate|inappropriate]] for [[i/_its|its]] [[p/_present|present]] [[c/_context|context]].**
 	- _Example: Calling a happy person gay seems awfully dated nowadays; people will assume you mean something else._
 - **[[n/_no|No]] [[l/_longer|longer]] [[f/_fashionable|fashionable]].**
 	- _Example: Slang can become dated very quickly._

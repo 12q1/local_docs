@@ -3,7 +3,7 @@
 #noun
 - **Someone or something wished for.**
 	- _Example: It is my desire to speak with you._
-- **Strong [[a/_attraction|attraction]], particularly romantic or sexual.**
+- **Strong [[a/_attraction|attraction]], [[p/_particularly|particularly]] romantic or sexual.**
 	- _Example: His desire for her kept him awake at night._
 - **The [[f/_feeling|feeling]] of [[d/_desiring|desiring]]; an [[e/_eager|eager]] [[l/_longing|longing]] for something.**
 	- _Example: Too much desire can seriously affect one’s judgment._

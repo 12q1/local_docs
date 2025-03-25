@@ -13,13 +13,13 @@
 - **To [[f/_foster|foster]], to [[n/_nourish|nourish]]**
 - **To [[h/_hold|hold]] [[c/_closely|closely]] to [[o/_one|one]]'s [[c/_chest|chest]]**
 	- _Example: Would you like to nurse the puppy?_
-- **To strike ([[b/_billiard|billiard]] [[b/_balls|balls]]) [[g/_gently|gently]], so as to [[k/_keep|keep]] them in [[g/_good|good]] position [[d/_during|during]] a series of shots.**
+- **To strike ([[b/_billiard|billiard]] [[b/_balls|balls]]) [[g/_gently|gently]], so as to [[k/_keep|keep]] them in [[g/_good|good]] [[p/_position|position]] [[d/_during|during]] a series of shots.**
 ---
 ### Synonyms
 - [[s/_sip|sip]], [[h/_husband|husband]]
 #noun
 - **Suckling, such as [[b/_breastfeeding|breastfeeding]].**
-- **The process or profession of [[c/_caring|caring]] for patients as a [[n/_nurse|nurse]].**
+- **The process or profession of [[c/_caring|caring]] for [[p/_patients|patients]] as a [[n/_nurse|nurse]].**
 	- _Example: She went into nursing as a career._
 ---
 #adjective

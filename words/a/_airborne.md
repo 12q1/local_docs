@@ -1,7 +1,7 @@
 # Airborne
 ---
 #noun
-- **[[m/_military|Military]] [[i/_infantry|infantry]] [[i/_intended|intended]] to be transported by [[a/_air|air]] and [[d/_delivered|delivered]] to the [[b/_battlefield|battlefield]] by parachute or [[h/_helicopter|helicopter]].**
+- **[[m/_military|Military]] [[i/_infantry|infantry]] [[i/_intended|intended]] to be transported by [[a/_air|air]] and [[d/_delivered|delivered]] to the [[b/_battlefield|battlefield]] by [[p/_parachute|parachute]] or [[h/_helicopter|helicopter]].**
 ---
 #adjective
 - **In or [[c/_carried|carried]] by the [[a/_air|air]].**

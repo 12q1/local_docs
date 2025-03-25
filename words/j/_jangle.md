@@ -2,7 +2,7 @@
 ---
 #noun
 - **A rattling [[m/_metallic|metallic]] sound.**
-- **[[i/_idle|Idle]] talk; prate; [[c/_chatter|chatter]]; [[b/_babble|babble]].**
+- **[[i/_idle|Idle]] talk; [[p/_prate|prate]]; [[c/_chatter|chatter]]; [[b/_babble|babble]].**
 ---
 #verb
 - **To [[m/_make|make]] a rattling [[m/_metallic|metallic]] sound.**

@@ -5,7 +5,7 @@
 	- _Example: The baby was cold, so his mother put a blanket over him._
 - **A [[l/_layer|layer]] of [[a/_anything|anything]].**
 	- _Example: The city woke under a thick blanket of fog._
-- **A thick rubber [[m/_mat|mat]] used in the [[o/_offset|offset]] printing process to transfer [[i/_ink|ink]] from the plate to the paper [[b/_being|being]] printed.**
+- **A thick rubber [[m/_mat|mat]] used in the [[o/_offset|offset]] printing process to transfer [[i/_ink|ink]] from the [[p/_plate|plate]] to the [[p/_paper|paper]] [[b/_being|being]] printed.**
 	- _Example: A press operator must carefully wash the blanket whenever changing a plate._
 - **A streak or [[l/_layer|layer]] of [[b/_blubber|blubber]] in whales.**
 ---

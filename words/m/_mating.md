@@ -3,7 +3,7 @@
 #verb
 - **To put the [[k/_king|king]] of an [[o/_opponent|opponent]] [[i/_into|into]] [[c/_checkmate|checkmate]].**
 	- _Example: That jerk checkmated me in four moves!_
-- **(by [[e/_extension|extension]]) To place in a [[l/_losing|losing]] situation that [[h/_has|has]] [[n/_no|no]] [[e/_escape|escape]].**
+- **(by [[e/_extension|extension]]) To [[p/_place|place]] in a [[l/_losing|losing]] situation that [[h/_has|has]] [[n/_no|no]] [[e/_escape|escape]].**
 ---
 #verb
 - **To [[m/_match|match]], [[f/_fit|fit]] together without space [[b/_between|between]].**
@@ -13,7 +13,7 @@
 - **To [[a/_arrange|arrange]] in [[m/_matched|matched]] [[p/_pairs|pairs]].**
 - **To [[i/_introduce|introduce]] ([[a/_animals|animals]]) together for the purpose of [[b/_breeding|breeding]].**
 - **(of an [[a/_animal|animal]]) To [[c/_copulate|copulate]] with.**
-- **To [[m/_marry|marry]]; to [[m/_match|match]] (a person).**
+- **To [[m/_marry|marry]]; to [[m/_match|match]] (a [[p/_person|person]]).**
 - **To [[m/_match|match]] [[o/_oneself|oneself]] [[a/_against|against]]; to [[o/_oppose|oppose]] as [[e/_equal|equal]]; to [[c/_compete|compete]] with.**
 - **To [[f/_fit|fit]] ([[o/_objects|objects]]) together without space [[b/_between|between]].**
 - **To [[m/_move|move]] (a space shuttle [[o/_orbiter|orbiter]]) [[o/_onto|onto]] the [[b/_back|back]] of an [[a/_aircraft|aircraft]] that [[c/_can|can]] [[c/_carry|carry]] it.**
@@ -32,6 +32,6 @@
 ### Synonyms
 - [[p/_pairing|pairing]]
 #adjective
-- **[[f/_fitting|Fitting]] [[i/_into|into]] or [[o/_onto|onto]] a [[c/_corresponding|corresponding]] part, as a [[m/_matched|matched]] plug and socket.**
+- **[[f/_fitting|Fitting]] [[i/_into|into]] or [[o/_onto|onto]] a [[c/_corresponding|corresponding]] [[p/_part|part]], as a [[m/_matched|matched]] [[p/_plug|plug]] and socket.**
 ---
 ---

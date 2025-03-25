@@ -9,7 +9,7 @@
 ### Synonyms
 - 
 #adjective
-- **Serving to [[i/_initiate|initiate]]; [[i/_inceptive|inceptive]]; [[i/_initiatory|initiatory]]; [[i/_introductory|introductory]]; preliminary.**
+- **Serving to [[i/_initiate|initiate]]; [[i/_inceptive|inceptive]]; [[i/_initiatory|initiatory]]; [[i/_introductory|introductory]]; [[p/_preliminary|preliminary]].**
 - **In which voter [[i/_initiatives|initiatives]] [[c/_can|can]] be [[b/_brought|brought]] to the [[b/_ballot|ballot]].**
 ---
 ### Antonyms

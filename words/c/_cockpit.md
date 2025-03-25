@@ -2,8 +2,8 @@
 ---
 #noun
 - **The [[d/_driver|driver]]'s [[c/_compartment|compartment]] in a racing [[c/_car|car]] (or, by [[e/_extension|extension]], in a sports [[c/_car|car]] or [[o/_other|other]] [[a/_automobile|automobile]]).**
-- **The [[c/_compartment|compartment]] in an [[a/_aircraft|aircraft]] in which the pilot sits and from where the [[c/_craft|craft]] is [[c/_controlled|controlled]]; an [[a/_analogous|analogous]] [[a/_area|area]] in a spacecraft.**
-- **A pit or [[o/_other|other]] [[e/_enclosure|enclosure]] for [[c/_cockfighting|cockfighting]].**
+- **The [[c/_compartment|compartment]] in an [[a/_aircraft|aircraft]] in which the [[p/_pilot|pilot]] sits and from where the [[c/_craft|craft]] is [[c/_controlled|controlled]]; an [[a/_analogous|analogous]] [[a/_area|area]] in a spacecraft.**
+- **A [[p/_pit|pit]] or [[o/_other|other]] [[e/_enclosure|enclosure]] for [[c/_cockfighting|cockfighting]].**
 - **A site of [[c/_conflict|conflict]]; a [[b/_battlefield|battlefield]].**
 - **The vagina.**
 - **A valley surrounded by steep [[f/_forested|forested]] slopes.**

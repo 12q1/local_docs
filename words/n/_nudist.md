@@ -1,7 +1,7 @@
 # Nudist
 ---
 #noun
-- **A person who practices [[n/_nudism|nudism]].**
+- **A [[p/_person|person]] who [[p/_practices|practices]] [[n/_nudism|nudism]].**
 ---
 ### Synonyms
 - [[n/_naturist|naturist]]

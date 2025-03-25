@@ -1,7 +1,7 @@
 # Panics
 ---
 #noun
-- **[[o/_overpowering|Overpowering]] [[f/_fright|fright]], [[o/_often|often]] [[a/_affecting|affecting]] [[g/_groups|groups]] of people or [[a/_animals|animals]].**
+- **[[o/_overpowering|Overpowering]] [[f/_fright|fright]], [[o/_often|often]] [[a/_affecting|affecting]] [[g/_groups|groups]] of [[p/_people|people]] or [[a/_animals|animals]].**
 - **Rapid reduction in [[a/_asset|asset]] prices [[d/_due|due]] to [[b/_broad|broad]] [[e/_efforts|efforts]] to raise [[c/_cash|cash]] in [[a/_anticipation|anticipation]] of [[c/_continuing|continuing]] [[d/_decline|decline]] in [[a/_asset|asset]] prices.**
 - **A [[k/_kernel|kernel]] [[p/_panic|panic]] or system [[c/_crash|crash]].**
 ---

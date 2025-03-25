@@ -3,7 +3,7 @@
 #noun
 - **A [[d/_device|device]] that produces and radiates [[h/_heat|heat]], typically to raise the temperature of a room or [[b/_building|building]].**
 	- _Example: Turn on the heater; I'm cold._
-- **A person who [[h/_heats|heats]] something, for [[e/_example|example]] in [[m/_metalworking|metalworking]].**
+- **A [[p/_person|person]] who [[h/_heats|heats]] something, for [[e/_example|example]] in [[m/_metalworking|metalworking]].**
 - **A [[g/_gun|gun]].**
 	- _Example: The thug pumped two rounds from his heater into her._
 - **A [[f/_fastball|fastball]], [[e/_especially|especially]] [[o/_one|one]] thrown at [[h/_high|high]] velocity.**

@@ -1,7 +1,7 @@
 # Hydropower
 ---
 #noun
-- **[[h/_hydroelectric|Hydroelectric]] power**
+- **[[h/_hydroelectric|Hydroelectric]] [[p/_power|power]]**
 ---
 ### Synonyms
 - 

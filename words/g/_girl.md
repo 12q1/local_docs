@@ -5,13 +5,13 @@
 - **A [[y/_young|young]] [[f/_female|female]] [[a/_animal|animal]].**
 - **(sometimes [[o/_offensive|offensive]]) A woman, [[e/_especially|especially]] a [[y/_young|young]] woman**
 - **A [[f/_female|female]] servant; a [[m/_maid|maid]]. (see usage [[n/_notes|notes]])**
-- **A queen (the playing [[c/_card|card]].)**
+- **A queen (the [[p/_playing|playing]] [[c/_card|card]].)**
 - **A term of [[e/_endearment|endearment]]. (see usage [[n/_notes|notes]])**
 - **[[o/_one|One]]'s [[g/_girlfriend|girlfriend]].**
 - **[[o/_one|One]]'s [[d/_daughter|daughter]].**
 	- _Example: Your girl turned up on our doorstep._
 - **A roebuck two [[y/_years|years]] [[o/_old|old]].**
-- **[[c/_cocaine|Cocaine]], [[e/_especially|especially]] in powder [[f/_form|form]].**
+- **[[c/_cocaine|Cocaine]], [[e/_especially|especially]] in [[p/_powder|powder]] [[f/_form|form]].**
 - **(somewhat [[c/_childish|childish]]) A [[f/_female|female]] (tree, [[g/_gene|gene]], [[e/_etc|etc]]).**
 - **A [[b/_boy|boy]] or [[m/_man|man]] who is weak or sentimental.**
 	- _Example: Don't be such a girl!_

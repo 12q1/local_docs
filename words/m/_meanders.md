@@ -12,11 +12,11 @@
 - **A tortuous or [[i/_intricate|intricate]] [[m/_movement|movement]].**
 - **[[o/_one|One]] of a series of regular sinuous [[c/_curves|curves]], [[b/_bends|bends]], [[l/_loops|loops]], turns, or windings in the [[c/_channel|channel]] of a river, stream, or [[o/_other|other]] watercourse**
 - **[[f/_fretwork|Fretwork]].**
-- **Perplexity.**
+- **[[p/_perplexity|Perplexity]].**
 - **A self-[[a/_avoiding|avoiding]] [[c/_closed|closed]] [[c/_curve|curve]] which [[i/_intersects|intersects]] a [[l/_line|line]] a [[n/_number|number]] of times.**
 ---
 #verb
-- **To wind or turn in a [[c/_course|course]] or passage; to be [[i/_intricate|intricate]].**
+- **To wind or turn in a [[c/_course|course]] or [[p/_passage|passage]]; to be [[i/_intricate|intricate]].**
 	- _Example: The stream meandered through the valley._
 - **To wind, turn, or twist; to [[m/_make|make]] [[f/_flexuous|flexuous]].**
 ---

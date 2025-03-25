@@ -1,7 +1,7 @@
 # Nonblack
 ---
 #noun
-- **A [[n/_nonblack|nonblack]] person.**
+- **A [[n/_nonblack|nonblack]] [[p/_person|person]].**
 ---
 #adjective
 - **Not [[b/_black|black]] in [[c/_colour|colour]].**

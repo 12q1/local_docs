@@ -12,7 +12,7 @@
 ### Antonyms
 - [[c/_coarse|coarse]], [[c/_coarse|coarse]]
 #noun
-- **Police [[o/_officers|officers]].**
+- **[[p/_police|Police]] [[o/_officers|officers]].**
 	- _Example: Fifty of New York's finest were on hand for security._
 ---
 ---

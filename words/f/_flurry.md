@@ -7,9 +7,9 @@
 - **A shower of [[d/_dust|dust]], [[l/_leaves|leaves]] [[e/_etc|etc]]. [[b/_brought|brought]] on by a sudden [[g/_gust|gust]] of wind.**
 - **[[a/_any|Any]] sudden [[a/_activity|activity]]; a stir.**
 	- _Example: The day before the wedding was a flurry of preparations._
-- **A snack [[c/_consisting|consisting]] of soft [[i/_ice|ice]] [[c/_cream|cream]] [[m/_mixed|mixed]] with small pieces of [[f/_fruit|fruit]], [[c/_cookie|cookie]] [[c/_crumbs|crumbs]], [[e/_etc|etc]].**
+- **A snack [[c/_consisting|consisting]] of soft [[i/_ice|ice]] [[c/_cream|cream]] [[m/_mixed|mixed]] with small [[p/_pieces|pieces]] of [[f/_fruit|fruit]], [[c/_cookie|cookie]] [[c/_crumbs|crumbs]], [[e/_etc|etc]].**
 - **The violent spasms of a [[d/_dying|dying]] whale.**
-- **An [[o/_occurrence|occurrence]] of something ([[c/_countable|countable]] [[i/_instances|instances]]) in [[l/_large|large]] [[n/_numbers|numbers]], [[h/_happening|happening]] suddenly or in a short period of time.**
+- **An [[o/_occurrence|occurrence]] of something ([[c/_countable|countable]] [[i/_instances|instances]]) in [[l/_large|large]] [[n/_numbers|numbers]], [[h/_happening|happening]] suddenly or in a short [[p/_period|period]] of time.**
 	- _Example: The fencer landed a flurry of hits on her opponent._
 ---
 ### Synonyms

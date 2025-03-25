@@ -1,7 +1,7 @@
 # Content
 ---
 #noun
-- **([[e/_except|except]] in phrases) Satisfaction, [[c/_contentment|contentment]]; pleasure.**
+- **([[e/_except|except]] in [[p/_phrases|phrases]]) Satisfaction, [[c/_contentment|contentment]]; [[p/_pleasure|pleasure]].**
 ---
 #verb
 - **To [[g/_give|give]] [[c/_contentment|contentment]] or satisfaction; to satisfy; to [[m/_make|make]] [[h/_happy|happy]].**

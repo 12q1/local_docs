@@ -3,9 +3,9 @@
 #noun
 - **The steering [[a/_apparatus|apparatus]] of a ship, [[e/_especially|especially]] the tiller or wheel.**
 - **([[m/_maritime|maritime]]) The [[m/_member|member]] of the [[c/_crew|crew]] in [[c/_charge|charge]] of steering the [[b/_boat|boat]].**
-- **A position of [[l/_leadership|leadership]] or [[c/_control|control]].**
+- **A [[p/_position|position]] of [[l/_leadership|leadership]] or [[c/_control|control]].**
 	- _Example: the helm of the Commonwealth_
-- **[[o/_one|One]] at the place of [[d/_direction|direction]] or [[c/_control|control]]; a [[g/_guide|guide]]; a [[d/_director|director]].**
+- **[[o/_one|One]] at the [[p/_place|place]] of [[d/_direction|direction]] or [[c/_control|control]]; a [[g/_guide|guide]]; a [[d/_director|director]].**
 - **A [[h/_helve|helve]].**
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Baneful
 ---
 #adjective
-- **Poisonous, [[d/_deadly|deadly]].**
+- **[[p/_poisonous|Poisonous]], [[d/_deadly|deadly]].**
 - **[[h/_harmful|Harmful]], [[i/_injurious|injurious]].**
 ---
 ### Synonyms

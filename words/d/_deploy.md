@@ -4,7 +4,7 @@
 - **[[d/_deployment|Deployment]]**
 ---
 #verb
-- **To prepare and [[a/_arrange|arrange]] (usually [[m/_military|military]] unit or units) for use.**
+- **To [[p/_prepare|prepare]] and [[a/_arrange|arrange]] (usually [[m/_military|military]] unit or units) for use.**
 	- _Example: "Deploy two units of infantry along the enemy's flank," the general ordered._
 - **To unfold, [[o/_open|open]], or [[o/_otherwise|otherwise]] [[b/_become|become]] ready for use.**
 	- _Example: He waited tensely for his parachute to deploy._

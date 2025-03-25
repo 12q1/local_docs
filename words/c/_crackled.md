@@ -1,7 +1,7 @@
 # Crackled
 ---
 #verb
-- **To [[m/_make|make]] a [[f/_fizzing|fizzing]], popping sound.**
+- **To [[m/_make|make]] a [[f/_fizzing|fizzing]], [[p/_popping|popping]] sound.**
 	- _Example: a crackling fire_
 ---
 #adjective

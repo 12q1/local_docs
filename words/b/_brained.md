@@ -7,6 +7,6 @@
 - **To [[c/_conceive|conceive]] in the [[m/_mind|mind]]; to understand.**
 ---
 #adjective
-- **(in [[c/_combination|combination]], sometimes [[f/_figurative|figurative]]) [[h/_having|Having]] a particular [[k/_kind|kind]] or [[n/_number|number]] of [[b/_brain|brain]].**
+- **(in [[c/_combination|combination]], sometimes [[f/_figurative|figurative]]) [[h/_having|Having]] a [[p/_particular|particular]] [[k/_kind|kind]] or [[n/_number|number]] of [[b/_brain|brain]].**
 ---
 ---

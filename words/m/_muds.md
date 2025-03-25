@@ -2,14 +2,14 @@
 ---
 #noun
 - **A [[m/_mixture|mixture]] of water and soil or [[f/_fine|fine]] [[g/_grained|grained]] sediment.**
-- **A plaster-[[l/_like|like]] [[m/_mixture|mixture]] used to texture or smooth [[d/_drywall|drywall]].**
-- **([[c/_construction|construction]] [[i/_industry|industry]] slang) Wet [[c/_concrete|concrete]] as it is [[b/_being|being]] [[m/_mixed|mixed]], [[d/_delivered|delivered]] and poured.**
-- **Willfully [[a/_abusive|abusive]], [[e/_even|even]] slanderous remarks or [[c/_claims|claims]], [[n/_notably|notably]] [[b/_between|between]] political [[o/_opponents|opponents]].**
+- **A [[p/_plaster|plaster]]-[[l/_like|like]] [[m/_mixture|mixture]] used to texture or smooth [[d/_drywall|drywall]].**
+- **([[c/_construction|construction]] [[i/_industry|industry]] slang) Wet [[c/_concrete|concrete]] as it is [[b/_being|being]] [[m/_mixed|mixed]], [[d/_delivered|delivered]] and [[p/_poured|poured]].**
+- **Willfully [[a/_abusive|abusive]], [[e/_even|even]] slanderous remarks or [[c/_claims|claims]], [[n/_notably|notably]] [[b/_between|between]] [[p/_political|political]] [[o/_opponents|opponents]].**
 	- _Example: The campaign issues got lost in all the mud from both parties._
 - **[[m/_money|Money]], [[d/_dough|dough]], [[e/_especially|especially]] when proceeding from [[d/_dirty|dirty]] [[b/_business|business]].**
 - **([[g/_gay|gay]] sex) Stool that is [[e/_exposed|exposed]] as a result of [[a/_anal|anal]] sex.**
-- **A particle [[l/_less|less]] than 62.5 [[m/_microns|microns]] in [[d/_diameter|diameter]], [[f/_following|following]] the Wentworth scale**
-- **A [[b/_black|black]] person.**
+- **A [[p/_particle|particle]] [[l/_less|less]] than 62.5 [[m/_microns|microns]] in [[d/_diameter|diameter]], [[f/_following|following]] the Wentworth scale**
+- **A [[b/_black|black]] [[p/_person|person]].**
 - **[[d/_drilling|Drilling]] [[f/_fluid|fluid]].**
 - **[[c/_coffee|Coffee]].**
 ---
@@ -19,6 +19,6 @@
 - **To [[g/_go|go]] under the [[m/_mud|mud]], as an [[e/_eel|eel]] [[d/_does|does]].**
 ---
 #verb
-- **To participate in a [[m/_mud|MUD]] or [[m/_multi|multi]]-user [[d/_dungeon|dungeon]].**
+- **To [[p/_participate|participate]] in a [[m/_mud|MUD]] or [[m/_multi|multi]]-user [[d/_dungeon|dungeon]].**
 ---
 ---

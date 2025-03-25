@@ -5,14 +5,14 @@
 	- _Example: Deaf and mute people communicate using languages like ASL._
 - **The [[a/_ability|ability]] to [[c/_communicate|communicate]] using words.**
 	- _Example: the gift of language_
-- **A sublanguage: the slang of a particular [[c/_community|community]] or [[j/_jargon|jargon]] of a particular specialist [[f/_field|field]].**
+- **A sublanguage: the slang of a [[p/_particular|particular]] [[c/_community|community]] or [[j/_jargon|jargon]] of a [[p/_particular|particular]] specialist [[f/_field|field]].**
 	- _Example: legal language;   the language of chemistry_
 - **The [[e/_expression|expression]] of thought (the [[c/_communication|communication]] of [[m/_meaning|meaning]]) in a specified way; that which [[c/_communicates|communicates]] something, as [[l/_language|language]] [[d/_does|does]].**
 	- _Example: body language;   the language of the eyes_
-- **A [[b/_body|body]] of sounds, signs and/or signals by which [[a/_animals|animals]] [[c/_communicate|communicate]], and by which plants are sometimes [[a/_also|also]] thought to [[c/_communicate|communicate]].**
+- **A [[b/_body|body]] of sounds, signs and/or signals by which [[a/_animals|animals]] [[c/_communicate|communicate]], and by which [[p/_plants|plants]] are sometimes [[a/_also|also]] thought to [[c/_communicate|communicate]].**
 - **A [[c/_computer|computer]] [[l/_language|language]]; a [[m/_machine|machine]] [[l/_language|language]].**
 - **[[m/_manner|Manner]] of [[e/_expression|expression]].**
-- **The particular words used in a speech or a passage of text.**
+- **The [[p/_particular|particular]] words used in a speech or a [[p/_passage|passage]] of text.**
 	- _Example: The language he used to talk to me was obscene._
 - **Profanity.**
 ---
@@ -22,6 +22,6 @@
 - **To [[c/_communicate|communicate]] by [[l/_language|language]]; to [[e/_express|express]] in [[l/_language|language]].**
 ---
 #noun
-- **A [[l/_languet|languet]], a [[f/_flat|flat]] plate in or [[b/_below|below]] the [[f/_flue|flue]] pipe of an [[o/_organ|organ]].**
+- **A [[l/_languet|languet]], a [[f/_flat|flat]] [[p/_plate|plate]] in or [[b/_below|below]] the [[f/_flue|flue]] [[p/_pipe|pipe]] of an [[o/_organ|organ]].**
 ---
 ---

@@ -5,7 +5,7 @@
 - **Which [[l/_lasts|lasts]] throughout [[e/_every|every]] [[y/_year|year]]; which is not seasonal**
 ---
 #adverb
-- **([[c/_chiefly|chiefly]] [[f/_farming|farming]]) Per [[y/_year|year]].**
+- **([[c/_chiefly|chiefly]] [[f/_farming|farming]]) [[p/_per|Per]] [[y/_year|year]].**
 - **Throughout [[e/_every|every]] [[y/_year|year]]; not seasonally**
 ---
 ---

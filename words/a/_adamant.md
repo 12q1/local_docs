@@ -6,7 +6,7 @@
 - **A [[l/_lodestone|lodestone]].**
 ---
 #adjective
-- **(said of people and their [[c/_conviction|conviction]]) [[f/_firm|Firm]]; unshakeable; unyielding; [[d/_determined|determined]].**
-- **(of an [[o/_object|object]]) Very [[d/_difficult|difficult]] to [[b/_break|break]], pierce, or [[c/_cut|cut]].**
+- **(said of [[p/_people|people]] and their [[c/_conviction|conviction]]) [[f/_firm|Firm]]; unshakeable; unyielding; [[d/_determined|determined]].**
+- **(of an [[o/_object|object]]) Very [[d/_difficult|difficult]] to [[b/_break|break]], [[p/_pierce|pierce]], or [[c/_cut|cut]].**
 ---
 ---

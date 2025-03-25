@@ -5,7 +5,7 @@
 	- _Example: Her children doctored her back to health._
 - **To [[a/_act|act]] as a [[m/_medical|medical]] [[d/_doctor|doctor]].**
 - **To [[m/_make|make]] (someone) [[i/_into|into]] an ([[a/_academic|academic]]) [[d/_doctor|doctor]]; to [[c/_confer|confer]] a [[d/_doctorate|doctorate]] upon.**
-- **To physically [[a/_alter|alter]] ([[m/_medically|medically]] or surgically) a [[l/_living|living]] [[b/_being|being]] in [[o/_order|order]] to [[c/_change|change]] [[g/_growth|growth]] or [[b/_behavior|behavior]].**
+- **To [[p/_physically|physically]] [[a/_alter|alter]] ([[m/_medically|medically]] or surgically) a [[l/_living|living]] [[b/_being|being]] in [[o/_order|order]] to [[c/_change|change]] [[g/_growth|growth]] or [[b/_behavior|behavior]].**
 	- _Example: They doctored their apple trees by vigorous pruning, and now the dwarfed trees are easier to pick._
 - **To [[g/_genetically|genetically]] [[a/_alter|alter]] an [[e/_extant|extant]] species.**
 	- _Example: Mendel's discoveries showed how the evolution of a species may be doctored._

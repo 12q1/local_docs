@@ -2,7 +2,7 @@
 ---
 #verb
 - **To remove [[m/_moisture|moisture]] from; to [[d/_dry|dry]].**
-- **To preserve by [[d/_drying|drying]].**
+- **To [[p/_preserve|preserve]] by [[d/_drying|drying]].**
 - **To [[b/_become|become]] [[d/_dry|dry]]; to [[d/_dry|dry]] up.**
 ---
 ### Synonyms

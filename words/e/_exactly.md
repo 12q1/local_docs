@@ -1,7 +1,7 @@
 # Exactly
 ---
 #adverb
-- **([[m/_manner|manner]]) without [[a/_approximation|approximation]]; precisely.**
+- **([[m/_manner|manner]]) without [[a/_approximation|approximation]]; [[p/_precisely|precisely]].**
 	- _Example: He divided the coins exactly in half._
 - **([[f/_focus|focus]]) Used to provide [[e/_emphasis|emphasis]].**
 	- _Example: He did it that way exactly to prove the point._

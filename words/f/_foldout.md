@@ -5,7 +5,7 @@
 - **A [[f/_foldout|foldout]] [[b/_bed|bed]].**
 ---
 #adjective
-- **That [[f/_folds|folds]] [[o/_out|out]] from a [[c/_closed|closed]] position**
+- **That [[f/_folds|folds]] [[o/_out|out]] from a [[c/_closed|closed]] [[p/_position|position]]**
 	- _Example: a foldout book_
 ---
 ---

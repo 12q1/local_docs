@@ -2,7 +2,7 @@
 ---
 #verb
 - **To reduce (a ship) to a ([[n/_nonfunctional|nonfunctional]]) [[h/_hulk|hulk]].**
-- **To be a [[h/_hulk|hulk]], a [[l/_large|large]] ([[h/_hulking|hulking]]) and [[o/_often|often]] [[i/_imposing|imposing]] presence.**
+- **To be a [[h/_hulk|hulk]], a [[l/_large|large]] ([[h/_hulking|hulking]]) and [[o/_often|often]] [[i/_imposing|imposing]] [[p/_presence|presence]].**
 - **To [[m/_move|move]] ([[o/_one|one]]'s [[l/_large|large]], [[h/_hulking|hulking]] [[b/_body|body]]).**
 ---
 #verb

@@ -13,7 +13,7 @@
 - **A tea [[c/_caddy|caddy]].**
 ---
 #noun
-- **[[o/_one|One]] [[h/_hired|hired]] to [[a/_assist|assist]] [[a/_another|another]] in playing the [[g/_game|game]] of [[g/_golf|golf]].**
+- **[[o/_one|One]] [[h/_hired|hired]] to [[a/_assist|assist]] [[a/_another|another]] in [[p/_playing|playing]] the [[g/_game|game]] of [[g/_golf|golf]].**
 	- _Example: "Caddy, pass me my five iron."_
 ---
 #verb
@@ -22,10 +22,10 @@
 ---
 #noun
 - **A small [[b/_box|box]], [[c/_can|can]], or [[c/_chest|chest]] to [[k/_keep|keep]] things in.**
-- **A [[m/_movable|movable]] tray or [[o/_other|other]] [[m/_mechanism|mechanism]] for [[h/_holding|holding]], securing, and transporting a removable [[c/_component|component]] within a piece of [[m/_machinery|machinery]] or [[e/_equipment|equipment]].**
+- **A [[m/_movable|movable]] tray or [[o/_other|other]] [[m/_mechanism|mechanism]] for [[h/_holding|holding]], securing, and transporting a removable [[c/_component|component]] within a [[p/_piece|piece]] of [[m/_machinery|machinery]] or [[e/_equipment|equipment]].**
 	- _Example: Place the disc in the DVD caddy._
 ---
 #noun
-- **A Scottish [[e/_errand|errand]] [[b/_boy|boy]], porter, or [[m/_messenger|messenger]].**
+- **A Scottish [[e/_errand|errand]] [[b/_boy|boy]], [[p/_porter|porter]], or [[m/_messenger|messenger]].**
 ---
 ---

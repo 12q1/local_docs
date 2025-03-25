@@ -1,8 +1,8 @@
 # Inward
 ---
 #noun
-- **([[c/_chiefly|chiefly]] in the plural) That which is [[i/_inward|inward]] or within; the [[i/_inner|inner]] parts or [[o/_organs|organs]] of the [[b/_body|body]]; the viscera.**
-- **([[c/_chiefly|chiefly]] in the plural) The [[m/_mental|mental]] [[f/_faculties|faculties]].**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) That which is [[i/_inward|inward]] or within; the [[i/_inner|inner]] [[p/_parts|parts]] or [[o/_organs|organs]] of the [[b/_body|body]]; the viscera.**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) The [[m/_mental|mental]] [[f/_faculties|faculties]].**
 - **A [[f/_familiar|familiar]] [[f/_friend|friend]] or [[a/_acquaintance|acquaintance]].**
 ---
 #adjective

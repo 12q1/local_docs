@@ -4,8 +4,8 @@
 - **An [[e/_end|end]]; the [[e/_end|end]] of [[a/_anything|anything]].**
 - **A protective [[c/_coating|coating]] [[g/_given|given]] to wood or [[m/_metal|metal]] and [[o/_other|other]] surfaces.**
 	- _Example: The car's finish was so shiny and new._
-- **The result of [[a/_any|any]] process [[c/_changing|changing]] the physical or [[c/_chemical|chemical]] properties of [[c/_cloth|cloth]].**
-- **A [[f/_finishing|finishing]] touch; [[c/_careful|careful]] [[e/_elaboration|elaboration]]; polish.**
+- **The result of [[a/_any|any]] process [[c/_changing|changing]] the [[p/_physical|physical]] or [[c/_chemical|chemical]] properties of [[c/_cloth|cloth]].**
+- **A [[f/_finishing|finishing]] touch; [[c/_careful|careful]] [[e/_elaboration|elaboration]]; [[p/_polish|polish]].**
 - **A shot on [[g/_goal|goal]], [[e/_especially|especially]] [[o/_one|one]] that [[e/_ends|ends]] in a [[g/_goal|goal]].**
 ---
 #verb

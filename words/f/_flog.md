@@ -1,7 +1,7 @@
 # Flog
 ---
 #noun
-- **A [[c/_contemptible|contemptible]], [[o/_often|often]] [[a/_arrogant|arrogant]] person.**
+- **A [[c/_contemptible|contemptible]], [[o/_often|often]] [[a/_arrogant|arrogant]] [[p/_person|person]].**
 ---
 #verb
 - **To whip or scourge someone or something as punishment.**

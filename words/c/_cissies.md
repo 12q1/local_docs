@@ -1,11 +1,11 @@
 # Cissies
 ---
 #noun
-- **A cisgender or cissexual person.**
+- **A cisgender or cissexual [[p/_person|person]].**
 ---
 #noun
 - **An [[e/_effeminate|effeminate]] [[b/_boy|boy]] or [[m/_man|man]].**
-- **A timid, unassertive or [[c/_cowardly|cowardly]] person.**
+- **A timid, unassertive or [[c/_cowardly|cowardly]] [[p/_person|person]].**
 - **(BDSM) A [[m/_male|male]] crossdresser who [[a/_adopts|adopts]] [[f/_feminine|feminine]] [[b/_behaviours|behaviours]].**
 - **Sister.**
 ---

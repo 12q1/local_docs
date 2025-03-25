@@ -3,7 +3,7 @@
 #adjective
 - **Suitable; [[a/_appropriate|appropriate]]; [[f/_fit|fit]] or [[f/_fitted|fitted]]; suited.**
 	- _Example: an apt metaphor_
-- **(of persons or things) [[h/_having|Having]] a [[h/_habitual|habitual]] tendency; [[h/_habitually|habitually]] [[l/_liable|liable]] or [[l/_likely|likely]]; [[d/_disposed|disposed]] towards.**
+- **(of [[p/_persons|persons]] or things) [[h/_having|Having]] a [[h/_habitual|habitual]] tendency; [[h/_habitually|habitually]] [[l/_liable|liable]] or [[l/_likely|likely]]; [[d/_disposed|disposed]] towards.**
 - **Ready; [[e/_especially|especially]] [[f/_fitted|fitted]] or qualified (to [[d/_do|do]] something); quick to [[l/_learn|learn]].**
 	- _Example: a pupil apt to learn_
 ---

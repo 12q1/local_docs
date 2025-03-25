@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[h/_hole|hole]] that is [[m/_made|made]] to receive a tenon so as to [[f/_form|form]] a [[j/_joint|joint]].**
-- **Stability; power of [[a/_adhesion|adhesion]].**
+- **Stability; [[p/_power|power]] of [[a/_adhesion|adhesion]].**
 ---
 #verb
 - **To [[c/_cut|cut]] a [[m/_mortise|mortise]] in.**

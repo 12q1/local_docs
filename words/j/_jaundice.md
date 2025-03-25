@@ -7,6 +7,6 @@
 ### Synonyms
 - [[i/_icterus|icterus]]
 #verb
-- **To [[a/_affect|affect]] with [[j/_jaundice|jaundice]]; to [[c/_color|color]] by prejudice or [[e/_envy|envy]]; to prejudice.**
+- **To [[a/_affect|affect]] with [[j/_jaundice|jaundice]]; to [[c/_color|color]] by [[p/_prejudice|prejudice]] or [[e/_envy|envy]]; to [[p/_prejudice|prejudice]].**
 ---
 ---

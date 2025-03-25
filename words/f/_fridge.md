@@ -4,6 +4,6 @@
 - **A refrigerator.**
 ---
 #verb
-- **To place [[i/_inside|inside]] of a refrigerator.**
+- **To [[p/_place|place]] [[i/_inside|inside]] of a refrigerator.**
 ---
 ---

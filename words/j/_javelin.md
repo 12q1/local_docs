@@ -5,6 +5,6 @@
 - **A [[m/_metal|metal]]-tipped spear thrown for [[d/_distance|distance]] in an [[a/_athletic|athletic]] [[f/_field|field]] [[e/_event|event]].**
 ---
 #verb
-- **To pierce with a [[j/_javelin|javelin]].**
+- **To [[p/_pierce|pierce]] with a [[j/_javelin|javelin]].**
 ---
 ---

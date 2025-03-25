@@ -1,7 +1,7 @@
 # Networking
 ---
 #verb
-- **To [[i/_interact|interact]] socially for the purpose of [[g/_getting|getting]] [[c/_connections|connections]] or personal [[a/_advancement|advancement]].**
+- **To [[i/_interact|interact]] socially for the purpose of [[g/_getting|getting]] [[c/_connections|connections]] or [[p/_personal|personal]] [[a/_advancement|advancement]].**
 	- _Example: Many people find it worthwhile to network for jobs and information._
 - **To [[c/_connect|connect]] two or [[m/_more|more]] [[c/_computers|computers]] or [[o/_other|other]] [[c/_computerized|computerized]] [[d/_devices|devices]].**
 	- _Example: If we network his machine to the server, he will be able to see all the files._
@@ -10,6 +10,6 @@
 ---
 #noun
 - **The use of [[c/_computer|computer]] [[n/_networks|networks]].**
-- **The process of [[m/_meeting|meeting]] [[n/_new|new]] people in a [[b/_business|business]] or social [[c/_context|context]].**
+- **The process of [[m/_meeting|meeting]] [[n/_new|new]] [[p/_people|people]] in a [[b/_business|business]] or social [[c/_context|context]].**
 ---
 ---

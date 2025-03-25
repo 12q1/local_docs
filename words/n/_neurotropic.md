@@ -1,6 +1,6 @@
 # Neurotropic
 ---
 #adjective
-- **(pharmaceutical [[e/_effect|effect]]) Of or pertaining to [[n/_neurotropism|neurotropism]].**
+- **([[p/_pharmaceutical|pharmaceutical]] [[e/_effect|effect]]) Of or [[p/_pertaining|pertaining]] to [[n/_neurotropism|neurotropism]].**
 ---
 ---

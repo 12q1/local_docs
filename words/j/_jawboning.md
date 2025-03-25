@@ -1,9 +1,9 @@
 # Jawboning
 ---
 #verb
-- **To talk persistently in an [[a/_attempt|attempt]] to persuade somebody to [[c/_cooperate|cooperate]].**
+- **To talk [[p/_persistently|persistently]] in an [[a/_attempt|attempt]] to [[p/_persuade|persuade]] somebody to [[c/_cooperate|cooperate]].**
 ---
 #noun
-- **Persistent persuasive talk.**
+- **[[p/_persistent|Persistent]] [[p/_persuasive|persuasive]] talk.**
 ---
 ---

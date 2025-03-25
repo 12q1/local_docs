@@ -1,6 +1,6 @@
 # Neuropathy
 ---
 #noun
-- **[[a/_any|Any]] [[d/_disease|disease]] of the peripheral [[n/_nervous|nervous]] system.**
+- **[[a/_any|Any]] [[d/_disease|disease]] of the [[p/_peripheral|peripheral]] [[n/_nervous|nervous]] system.**
 ---
 ---

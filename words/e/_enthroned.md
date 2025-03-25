@@ -7,7 +7,7 @@
 ### Antonyms
 - [[d/_dethrone|dethrone]]
 #adjective
-- **Placed upon a throne.**
+- **[[p/_placed|Placed]] upon a throne.**
 - **[[f/_formally|Formally]] [[i/_inaugurated|inaugurated]].**
 ---
 ### Synonyms

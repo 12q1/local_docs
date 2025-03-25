@@ -5,7 +5,7 @@
 - **An [[e/_extra|extra]] [[e/_edition|edition]] of a [[n/_newspaper|newspaper]], which is printed [[o/_outside|outside]] of the [[n/_normal|normal]] printing [[c/_cycle|cycle]].**
 	- _Example: Extra, extra! Read all about it!_
 - **A run scored without the [[b/_ball|ball]] [[h/_having|having]] [[h/_hit|hit]] the striker's [[b/_bat|bat]] - a wide, [[b/_bye|bye]], [[l/_leg|leg]] [[b/_bye|bye]] or [[n/_no|no]] [[b/_ball|ball]].**
-- **A supernumerary or walk-on in a [[f/_film|film]] or play.**
+- **A supernumerary or walk-on in a [[f/_film|film]] or [[p/_play|play]].**
 - **Something of an [[e/_extra|extra]] quality or [[g/_grade|grade]].**
 ---
 ### Synonyms

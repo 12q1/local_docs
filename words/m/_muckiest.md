@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[c/_covered|Covered]] in [[m/_muck|muck]].**
-- **[[o/_obscene|Obscene]], pornographic.**
+- **[[o/_obscene|Obscene]], [[p/_pornographic|pornographic]].**
 	- _Example: a mucky magazine_
 ---
 ### Synonyms

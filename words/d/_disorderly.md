@@ -1,7 +1,7 @@
 # Disorderly
 ---
 #noun
-- **A person who [[a/_acts|acts]] in a [[d/_disorderly|disorderly]] [[m/_manner|manner]].**
+- **A [[p/_person|person]] who [[a/_acts|acts]] in a [[d/_disorderly|disorderly]] [[m/_manner|manner]].**
 ---
 #adjective
 - **Not in [[o/_order|order]]; [[m/_marked|marked]] by [[d/_disorder|disorder]] or [[d/_disarray|disarray]].**

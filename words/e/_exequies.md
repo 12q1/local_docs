@@ -1,6 +1,6 @@
 # Exequies
 ---
 #noun
-- **([[n/_now|now]] [[o/_only|only]] in plural) [[f/_funeral|Funeral]] rites.**
+- **([[n/_now|now]] [[o/_only|only]] in [[p/_plural|plural]]) [[f/_funeral|Funeral]] rites.**
 ---
 ---

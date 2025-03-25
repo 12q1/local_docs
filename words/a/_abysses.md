@@ -1,7 +1,7 @@
 # Abysses
 ---
 #noun
-- **[[h/_hell|Hell]]; the [[b/_bottomless|bottomless]] pit; primeval [[c/_chaos|chaos]]; a [[c/_confined|confined]] subterranean [[o/_ocean|ocean]].**
+- **[[h/_hell|Hell]]; the [[b/_bottomless|bottomless]] [[p/_pit|pit]]; primeval [[c/_chaos|chaos]]; a [[c/_confined|confined]] subterranean [[o/_ocean|ocean]].**
 - **([[f/_frequently|frequently]] [[f/_figurative|figurative]]) A [[b/_bottomless|bottomless]] or unfathomed [[d/_depth|depth]], [[g/_gulf|gulf]], or [[c/_chasm|chasm]]; [[h/_hence|hence]], [[a/_any|any]] [[d/_deep|deep]], [[i/_immeasurable|immeasurable]]; [[a/_any|any]] void space.**
 - **[[a/_anything|Anything]] [[i/_infinite|infinite]], [[i/_immeasurable|immeasurable]], or profound.**
 - **[[m/_moral|Moral]] [[d/_depravity|depravity]]; vast [[i/_intellectual|intellectual]] or [[m/_moral|moral]] [[d/_depth|depth]].**

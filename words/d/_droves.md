@@ -1,8 +1,8 @@
 # Droves
 ---
 #noun
-- **A [[n/_number|number]] of [[c/_cattle|cattle]] [[d/_driven|driven]] to [[m/_market|market]] or [[n/_new|new]] pastures.**
-- **(usually in the plural) A [[l/_large|large]] [[n/_number|number]] of people on the [[m/_move|move]] ([[l/_literally|literally]] or [[f/_figuratively|figuratively]]).**
+- **A [[n/_number|number]] of [[c/_cattle|cattle]] [[d/_driven|driven]] to [[m/_market|market]] or [[n/_new|new]] [[p/_pastures|pastures]].**
+- **(usually in the [[p/_plural|plural]]) A [[l/_large|large]] [[n/_number|number]] of [[p/_people|people]] on the [[m/_move|move]] ([[l/_literally|literally]] or [[f/_figuratively|figuratively]]).**
 - **([[c/_collective|collective]]) A [[g/_group|group]] of [[h/_hares|hares]].**
 - **A road or track [[a/_along|along]] which [[c/_cattle|cattle]] are [[h/_habitually|habitually]] [[d/_driven|driven]].**
 - **A [[n/_narrow|narrow]] [[d/_drain|drain]] or [[c/_channel|channel]] used in the [[i/_irrigation|irrigation]] of [[l/_land|land]].**
@@ -10,7 +10,7 @@
 - **The [[g/_grooved|grooved]] surface of stone [[f/_finished|finished]] by the [[d/_drove|drove]] [[c/_chisel|chisel]].**
 ---
 #verb
-- **To [[h/_herd|herd]] [[c/_cattle|cattle]]; particularly [[o/_over|over]] a [[l/_long|long]] [[d/_distance|distance]].**
+- **To [[h/_herd|herd]] [[c/_cattle|cattle]]; [[p/_particularly|particularly]] [[o/_over|over]] a [[l/_long|long]] [[d/_distance|distance]].**
 - **To [[f/_finish|finish]] (stone) with a [[d/_drove|drove]] [[c/_chisel|chisel]].**
 ---
 ---

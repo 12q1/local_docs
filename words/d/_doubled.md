@@ -13,15 +13,15 @@
 - **(sometimes [[f/_followed|followed]] by up) To [[c/_clench|clench]] (a [[f/_fist|fist]]).**
 - **([[o/_often|often]] [[f/_followed|followed]] by together or up) To [[j/_join|join]] or [[c/_couple|couple]].**
 - **To repeat [[e/_exactly|exactly]]; [[c/_copy|copy]].**
-- **([[o/_often|often]] [[f/_followed|followed]] by as) To play a second part or serve a second role.**
+- **([[o/_often|often]] [[f/_followed|followed]] by as) To [[p/_play|play]] a second [[p/_part|part]] or serve a second role.**
 	- _Example: A spork is a kind of fork that doubles as a spoon._
 - **To turn sharply, [[f/_following|following]] a winding [[c/_course|course]].**
-- **To sail [[a/_around|around]] (a [[h/_headland|headland]] or [[o/_other|other]] point).**
-- **To [[d/_duplicate|duplicate]] (a part) [[e/_either|either]] in unison or at the [[o/_octave|octave]] [[a/_above|above]] or [[b/_below|below]] it.**
-- **(usually [[f/_followed|followed]] by "on") To be [[c/_capable|capable]] of performing (upon an [[a/_additional|additional]] [[i/_instrument|instrument]]).**
-- **To [[m/_make|make]] a [[c/_call|call]] that will [[d/_double|double]] [[c/_certain|certain]] scoring points [[i/_if|if]] the preceding [[b/_bid|bid]] [[b/_becomes|becomes]] the [[c/_contract|contract]].**
+- **To sail [[a/_around|around]] (a [[h/_headland|headland]] or [[o/_other|other]] [[p/_point|point]]).**
+- **To [[d/_duplicate|duplicate]] (a [[p/_part|part]]) [[e/_either|either]] in unison or at the [[o/_octave|octave]] [[a/_above|above]] or [[b/_below|below]] it.**
+- **(usually [[f/_followed|followed]] by "on") To be [[c/_capable|capable]] of [[p/_performing|performing]] (upon an [[a/_additional|additional]] [[i/_instrument|instrument]]).**
+- **To [[m/_make|make]] a [[c/_call|call]] that will [[d/_double|double]] [[c/_certain|certain]] scoring [[p/_points|points]] [[i/_if|if]] the [[p/_preceding|preceding]] [[b/_bid|bid]] [[b/_becomes|becomes]] the [[c/_contract|contract]].**
 - **To [[d/_double|double]] [[d/_down|down]].**
-- **To [[c/_cause|cause]] (a [[b/_ball|ball]]) to rebound from a [[c/_cushion|cushion]] [[b/_before|before]] [[e/_entering|entering]] the pocket.**
+- **To [[c/_cause|cause]] (a [[b/_ball|ball]]) to rebound from a [[c/_cushion|cushion]] [[b/_before|before]] [[e/_entering|entering]] the [[p/_pocket|pocket]].**
 - **([[f/_followed|followed]] by for) To [[a/_act|act]] as substitute.**
 - **To [[g/_go|go]] or [[m/_march|march]] at twice the [[n/_normal|normal]] speed.**
 - **To [[m/_multiply|multiply]] the strength or [[e/_effect|effect]] of by two.**

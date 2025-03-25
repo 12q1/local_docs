@@ -1,9 +1,9 @@
 # Butchered
 ---
 #verb
-- **To slaughter ([[a/_animals|animals]]) and prepare ([[m/_meat|meat]]) for [[m/_market|market]].**
+- **To slaughter ([[a/_animals|animals]]) and [[p/_prepare|prepare]] ([[m/_meat|meat]]) for [[m/_market|market]].**
 - **To [[k/_kill|kill]] [[b/_brutally|brutally]].**
-- **To ruin (something), [[o/_often|often]] to the point of [[d/_defamation|defamation]].**
+- **To ruin (something), [[o/_often|often]] to the [[p/_point|point]] of [[d/_defamation|defamation]].**
 	- _Example: The band at that bar really butchered "Hotel California"._
 ---
 ### Synonyms

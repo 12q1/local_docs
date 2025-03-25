@@ -25,6 +25,6 @@
 ---
 #noun
 - **That which is [[n/_needed|needed]] or [[n/_necessary|necessary]]; [[b/_business|business]]; [[d/_duty|duty]]; work.**
-- **The [[g/_giving|giving]] of [[m/_milk|milk]] by a [[c/_cow|cow]] or sow; the period [[f/_following|following]] [[c/_calving|calving]] or [[f/_farrowing|farrowing]] [[d/_during|during]] which a [[c/_cow|cow]] or sow is at [[h/_her|her]] [[m/_most|most]] useful ([[i/_i|i]].[[e/_e|e]]. [[g/_gives|gives]] [[m/_milk|milk]]); the [[m/_milk|milk]] [[g/_given|given]] by a [[c/_cow|cow]] or sow [[d/_during|during]] such a period.**
+- **The [[g/_giving|giving]] of [[m/_milk|milk]] by a [[c/_cow|cow]] or sow; the [[p/_period|period]] [[f/_following|following]] [[c/_calving|calving]] or [[f/_farrowing|farrowing]] [[d/_during|during]] which a [[c/_cow|cow]] or sow is at [[h/_her|her]] [[m/_most|most]] useful ([[i/_i|i]].[[e/_e|e]]. [[g/_gives|gives]] [[m/_milk|milk]]); the [[m/_milk|milk]] [[g/_given|given]] by a [[c/_cow|cow]] or sow [[d/_during|during]] such a [[p/_period|period]].**
 ---
 ---

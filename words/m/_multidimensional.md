@@ -5,7 +5,7 @@
 ---
 #adjective
 - **[[h/_having|Having]] [[m/_multiple|multiple]] [[d/_dimensions|dimensions]] ([[a/_aspects|aspects]]).**
-- **[[c/_crossing|Crossing]] through or [[e/_existing|existing]] in [[m/_multiple|multiple]] [[d/_dimensions|dimensions]] (spacial planes).**
+- **[[c/_crossing|Crossing]] through or [[e/_existing|existing]] in [[m/_multiple|multiple]] [[d/_dimensions|dimensions]] (spacial [[p/_planes|planes]]).**
 ---
 ### Synonyms
 - [[p/_pluridimensional|pluridimensional]]

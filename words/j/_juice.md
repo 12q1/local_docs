@@ -1,7 +1,7 @@
 # Juice
 ---
 #noun
-- **A [[l/_liquid|liquid]] from a plant, [[e/_especially|especially]] [[f/_fruit|fruit]].**
+- **A [[l/_liquid|liquid]] from a [[p/_plant|plant]], [[e/_especially|especially]] [[f/_fruit|fruit]].**
 	- _Example: Squeeze the orange and some juice will come out._
 - **A [[b/_beverage|beverage]] [[m/_made|made]] of [[j/_juice|juice]].**
 	- _Example: I’d like two orange juices please._
@@ -9,8 +9,8 @@
 - **A soft [[d/_drink|drink]].**
 - **[[e/_electricity|Electricity]].**
 - **[[l/_liquor|Liquor]].**
-- **Political power.**
-- **Petrol; [[g/_gasoline|gasoline]].**
+- **[[p/_political|Political]] [[p/_power|power]].**
+- **[[p/_petrol|Petrol]]; [[g/_gasoline|gasoline]].**
 - **Vitality.**
 - **The [[a/_amount|amount]] [[c/_charged|charged]] by a [[b/_bookmaker|bookmaker]] for [[b/_betting|betting]] services.**
 - **Steroids.**

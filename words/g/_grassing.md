@@ -11,7 +11,7 @@
 ### Synonyms
 - [[f/_flatten|flatten]], [[f/_floor|floor]]
 #noun
-- **An [[a/_area|area]] of [[g/_grassland|grassland]] [[a/_available|available]] as pasture for [[c/_cattle|cattle]].**
+- **An [[a/_area|area]] of [[g/_grassland|grassland]] [[a/_available|available]] as [[p/_pasture|pasture]] for [[c/_cattle|cattle]].**
 - **The [[e/_exposing|exposing]] of [[l/_linen|linen]] in [[f/_fields|fields]] to [[a/_air|air]] and [[l/_light|light]] for [[b/_bleaching|bleaching]] purposes.**
 ---
 ---

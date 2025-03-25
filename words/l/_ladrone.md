@@ -1,6 +1,6 @@
 # Ladrone
 ---
 #noun
-- **A robber; a pirate; a rascal or rogue.**
+- **A robber; a [[p/_pirate|pirate]]; a rascal or rogue.**
 ---
 ---

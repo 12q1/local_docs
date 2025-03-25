@@ -12,7 +12,7 @@
 - [[c/_ckt|ckt]]
 #verb
 - **To [[a/_adulterate|adulterate]] ([[f/_fuel|fuel]], [[e/_etc|etc]].) by [[m/_mixing|mixing]] in [[o/_other|other]] substances.**
-- **To treat (a person) to [[c/_cocktails|cocktails]].**
+- **To treat (a [[p/_person|person]]) to [[c/_cocktails|cocktails]].**
 	- _Example: He dined and cocktailed her at the most exclusive bars and restaurants._
 ---
 #adjective

@@ -1,6 +1,6 @@
 # Glyptic
 ---
 #adjective
-- **Of or pertaining to [[e/_engraving|engraving]], [[e/_especially|especially]] on precious stones.**
+- **Of or [[p/_pertaining|pertaining]] to [[e/_engraving|engraving]], [[e/_especially|especially]] on [[p/_precious|precious]] stones.**
 ---
 ---

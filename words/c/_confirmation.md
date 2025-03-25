@@ -1,7 +1,7 @@
 # Confirmation
 ---
 #noun
-- **An [[o/_official|official]] [[i/_indicator|indicator]] that things will [[h/_happen|happen]] as planned.**
+- **An [[o/_official|official]] [[i/_indicator|indicator]] that things will [[h/_happen|happen]] as [[p/_planned|planned]].**
 	- _Example: We will send you a written confirmation of your hotel booking._
 - **A verification that something is true or [[h/_has|has]] [[h/_happened|happened]].**
 	- _Example: The announcement in the newspaper was a confirmation of my suspicions._

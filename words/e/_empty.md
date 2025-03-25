@@ -1,7 +1,7 @@
 # Empty
 ---
 #noun
-- **(usually plural) A [[c/_container|container]], [[e/_especially|especially]] a [[b/_bottle|bottle]], whose [[c/_contents|contents]] [[h/_have|have]] [[b/_been|been]] used up, [[l/_leaving|leaving]] it [[e/_empty|empty]].**
+- **(usually [[p/_plural|plural]]) A [[c/_container|container]], [[e/_especially|especially]] a [[b/_bottle|bottle]], whose [[c/_contents|contents]] [[h/_have|have]] [[b/_been|been]] used up, [[l/_leaving|leaving]] it [[e/_empty|empty]].**
 	- _Example: Put the empties out to be recycled._
 ---
 #verb
@@ -26,9 +26,9 @@
 	- _Example: empty dreams_
 - **[[d/_destitute|Destitute]] of, or [[l/_lacking|lacking]], sense, [[k/_knowledge|knowledge]], or [[c/_courtesy|courtesy]].**
 	- _Example: empty brains; an empty coxcomb_
-- **(of some [[f/_female|female]] [[a/_animals|animals]], [[e/_especially|especially]] [[c/_cows|cows]] and sheep) Not pregnant; not producing [[o/_offspring|offspring]] when [[e/_expected|expected]] to [[d/_do|do]] so [[d/_during|during]] the [[b/_breeding|breeding]] season.**
+- **(of some [[f/_female|female]] [[a/_animals|animals]], [[e/_especially|especially]] [[c/_cows|cows]] and sheep) Not [[p/_pregnant|pregnant]]; not producing [[o/_offspring|offspring]] when [[e/_expected|expected]] to [[d/_do|do]] so [[d/_during|during]] the [[b/_breeding|breeding]] season.**
 	- _Example: Empty cow rates have increased in recent years._
-- **Producing [[n/_nothing|nothing]]; unfruitful; said of a plant or tree.**
+- **Producing [[n/_nothing|nothing]]; unfruitful; said of a [[p/_plant|plant]] or tree.**
 	- _Example: an empty vine_
 ---
 ### Synonyms

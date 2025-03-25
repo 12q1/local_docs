@@ -1,13 +1,13 @@
 # Floated
 ---
 #verb
-- **Of an [[o/_object|object]] or substance, to be supported by a [[l/_liquid|liquid]] of [[g/_greater|greater]] [[d/_density|density]] than the [[o/_object|object]] so as that part of the [[o/_object|object]] or substance remains [[a/_above|above]] the surface.**
+- **Of an [[o/_object|object]] or substance, to be supported by a [[l/_liquid|liquid]] of [[g/_greater|greater]] [[d/_density|density]] than the [[o/_object|object]] so as that [[p/_part|part]] of the [[o/_object|object]] or substance remains [[a/_above|above]] the surface.**
 	- _Example: The boat floated on the water._
 - **To [[c/_cause|cause]] something to be suspended in a [[l/_liquid|liquid]] of [[g/_greater|greater]] [[d/_density|density]].**
 	- _Example: to float a boat_
 - **To be [[c/_capable|capable]] of [[f/_floating|floating]].**
 	- _Example: Oil floats on vinegar._
-- **To [[m/_move|move]] in a particular [[d/_direction|direction]] with the [[l/_liquid|liquid]] in which [[o/_one|one]] is [[f/_floating|floating]]**
+- **To [[m/_move|move]] in a [[p/_particular|particular]] [[d/_direction|direction]] with the [[l/_liquid|liquid]] in which [[o/_one|one]] is [[f/_floating|floating]]**
 	- _Example: I’d love to just float downstream._
 - **To [[d/_drift|drift]] or wander [[a/_aimlessly|aimlessly]].**
 	- _Example: Images from my childhood floated through my mind._
@@ -21,7 +21,7 @@
 	- _Example: That’s a daft idea... it’ll never float._
 - **To propose (an [[i/_idea|idea]]) for [[c/_consideration|consideration]].**
 	- _Example: I floated the idea of free ice-cream on Fridays, but no one was interested._
-- **To [[a/_automatically|automatically]] [[a/_adjust|adjust]] a parameter as related parameters [[c/_change|change]].**
+- **To [[a/_automatically|automatically]] [[a/_adjust|adjust]] a [[p/_parameter|parameter]] as related [[p/_parameters|parameters]] [[c/_change|change]].**
 - **(of [[c/_currencies|currencies]]) To [[h/_have|have]] an [[e/_exchange|exchange]] value [[d/_determined|determined]] by the [[m/_markets|markets]] as [[o/_opposed|opposed]] to by rule.**
 	- _Example: The yen floats against the dollar._
 - **To [[a/_allow|allow]] (the [[e/_exchange|exchange]] value of a [[c/_currency|currency]]) to be [[d/_determined|determined]] by the [[m/_markets|markets]].**
@@ -30,11 +30,11 @@
 	- _Example: Could you float me $50 until payday?_
 - **To [[i/_issue|issue]] or sell shares in a [[c/_company|company]] (or units in a trust) to [[m/_members|members]] of the public, [[f/_followed|followed]] by [[l/_listing|listing]] on a stock [[e/_exchange|exchange]].**
 	- _Example: 2007, Jonathan Reuvid, Floating Your Company: The Essential Guide to Going Public._
-- **To spread plaster [[o/_over|over]] (a surface), using the tool [[c/_called|called]] a [[f/_float|float]].**
+- **To spread [[p/_plaster|plaster]] [[o/_over|over]] (a surface), using the tool [[c/_called|called]] a [[f/_float|float]].**
 - **To use a [[f/_float|float]] (rasp-[[l/_like|like]] tool) upon.**
 	- _Example: It is time to float this horse's teeth._
 - **To transport by [[f/_float|float]] (vehicular trailer).**
-- **To perform a [[f/_float|float]].**
+- **To [[p/_perform|perform]] a [[f/_float|float]].**
 - **To [[c/_cause|cause]] (an [[e/_element|element]] within a [[d/_document|document]]) to [[f/_float|float]] [[a/_above|above]] or [[b/_beside|beside]] [[o/_others|others]].**
 ---
 ---

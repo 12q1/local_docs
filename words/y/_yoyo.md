@@ -6,7 +6,7 @@
 - **A volatile [[m/_market|market]] that [[m/_moves|moves]] up and [[d/_down|down]].**
 - **Someone who vacillates.**
 - **A [[c/_cloth|cloth]] rosette [[f/_formed|formed]] by [[g/_gathering|gathering]] the [[o/_outside|outside]] [[e/_edge|edge]] of a [[c/_circle|circle]] of [[f/_fabric|fabric]] in toward the [[c/_centre|centre]] using a running stitch.**
-- **A [[f/_foolish|foolish]], [[a/_annoying|annoying]] or [[i/_incompetent|incompetent]] person.**
+- **A [[f/_foolish|foolish]], [[a/_annoying|annoying]] or [[i/_incompetent|incompetent]] [[p/_person|person]].**
 	- _Example: It is hard to watch the management for very long and not conclude that the place is run by a bunch of yo-yos._
 ---
 #verb

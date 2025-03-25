@@ -1,7 +1,7 @@
 # Empties
 ---
 #noun
-- **(usually plural) A [[c/_container|container]], [[e/_especially|especially]] a [[b/_bottle|bottle]], whose [[c/_contents|contents]] [[h/_have|have]] [[b/_been|been]] used up, [[l/_leaving|leaving]] it [[e/_empty|empty]].**
+- **(usually [[p/_plural|plural]]) A [[c/_container|container]], [[e/_especially|especially]] a [[b/_bottle|bottle]], whose [[c/_contents|contents]] [[h/_have|have]] [[b/_been|been]] used up, [[l/_leaving|leaving]] it [[e/_empty|empty]].**
 	- _Example: Put the empties out to be recycled._
 ---
 #verb

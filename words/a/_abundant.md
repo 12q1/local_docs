@@ -3,7 +3,7 @@
 #adjective
 - **[[f/_fully|Fully]] sufficient; [[f/_found|found]] in [[c/_copious|copious]] supply; in [[g/_great|great]] quantity; [[o/_overflowing|overflowing]].**
 	- _Example: [W]ith their magical words they [poets] bring forth to our eyesight the abundant images and beauties of creation. — Leigh Hunt, On the Realities of Imagination_
-- **Richly supplied; wealthy; possessing in [[g/_great|great]] quantity.**
+- **Richly supplied; wealthy; [[p/_possessing|possessing]] in [[g/_great|great]] quantity.**
 	- _Example: Abundant in goodness and truth. — Exodus, 34:6_
 - **[[b/_being|Being]] an [[a/_abundant|abundant]] [[n/_number|number]], [[i/_i|i]].[[e/_e|e]]. [[l/_less|less]] than the sum of [[a/_all|all]] of [[i/_its|its]] [[d/_divisors|divisors]] [[e/_except|except]] [[i/_itself|itself]].**
 ---

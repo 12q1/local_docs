@@ -1,8 +1,8 @@
 # Corporeal
 ---
 #adjective
-- **[[m/_material|Material]]; tangible; physical.**
-- **Pertaining to the [[b/_body|body]]; [[b/_bodily|bodily]]; [[c/_corporal|corporal]].**
+- **[[m/_material|Material]]; tangible; [[p/_physical|physical]].**
+- **[[p/_pertaining|Pertaining]] to the [[b/_body|body]]; [[b/_bodily|bodily]]; [[c/_corporal|corporal]].**
 ---
 ### Synonyms
 - [[b/_bodily|bodily]], [[c/_corporal|corporal]]

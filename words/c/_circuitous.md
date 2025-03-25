@@ -1,7 +1,7 @@
 # Circuitous
 ---
 #adjective
-- **Not [[d/_direct|direct]] or to the point.**
+- **Not [[d/_direct|direct]] or to the [[p/_point|point]].**
 - **Of a [[l/_long|long]] and winding route.**
 ---
 ### Synonyms

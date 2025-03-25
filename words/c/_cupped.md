@@ -1,11 +1,11 @@
 # Cupped
 ---
 #verb
-- **To [[f/_form|form]] [[i/_into|into]] the shape of a [[c/_cup|cup]], particularly of the [[h/_hands|hands]].**
+- **To [[f/_form|form]] [[i/_into|into]] the shape of a [[c/_cup|cup]], [[p/_particularly|particularly]] of the [[h/_hands|hands]].**
 	- _Example: Cup your hands and I'll pour some rice into them._
 - **To [[h/_hold|hold]] something in [[c/_cupped|cupped]] [[h/_hands|hands]].**
 	- _Example: He cupped the ball carefully in his hands._
-- **To pour (a [[l/_liquid|liquid]], [[d/_drink|drink]], [[e/_etc|etc]].) [[i/_into|into]] a [[c/_cup|cup]].**
+- **To [[p/_pour|pour]] (a [[l/_liquid|liquid]], [[d/_drink|drink]], [[e/_etc|etc]].) [[i/_into|into]] a [[c/_cup|cup]].**
 	- _Example: We are cupping some new brands of coffee today._
 - **To supply with [[c/_cups|cups]] of wine.**
 - **To [[a/_apply|apply]] a [[c/_cupping|cupping]] [[a/_apparatus|apparatus]] to; to subject to the [[o/_operation|operation]] of [[c/_cupping|cupping]].**

@@ -1,9 +1,9 @@
 # Menaces
 ---
 #noun
-- **A perceived threat or [[d/_danger|danger]].**
+- **A [[p/_perceived|perceived]] threat or [[d/_danger|danger]].**
 - **The [[a/_act|act]] of threatening.**
-- **An [[a/_annoying|annoying]] and [[b/_bothersome|bothersome]] person or thing.**
+- **An [[a/_annoying|annoying]] and [[b/_bothersome|bothersome]] [[p/_person|person]] or thing.**
 ---
 #verb
 - **To [[m/_make|make]] threats [[a/_against|against]] (someone); to [[i/_intimidate|intimidate]].**

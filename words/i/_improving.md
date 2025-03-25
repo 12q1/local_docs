@@ -16,7 +16,7 @@
 ### Antonyms
 - [[d/_deteriorate|deteriorate]], [[w/_worsen|worsen]], [[d/_deteriorate|deteriorate]], [[w/_worsen|worsen]]
 #adjective
-- **That tends to [[i/_improve|improve]] someone or something ([[e/_especially|especially]] to [[e/_educate|educate]] or [[m/_morally|morally]] [[b/_better|better]] a person).**
+- **That tends to [[i/_improve|improve]] someone or something ([[e/_especially|especially]] to [[e/_educate|educate]] or [[m/_morally|morally]] [[b/_better|better]] a [[p/_person|person]]).**
 ---
 ### Synonyms
 - [[e/_edifying|edifying]], [[u/_uplifting|uplifting]]

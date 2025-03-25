@@ -1,7 +1,7 @@
 # Furrow
 ---
 #noun
-- **A trench [[c/_cut|cut]] in the soil, as when plowed in [[o/_order|order]] to plant a [[c/_crop|crop]].**
+- **A trench [[c/_cut|cut]] in the soil, as when [[p/_plowed|plowed]] in [[o/_order|order]] to [[p/_plant|plant]] a [[c/_crop|crop]].**
 	- _Example: Don't walk across that deep furrow in the field._
 - **[[a/_any|Any]] trench, [[c/_channel|channel]], or [[g/_groove|groove]], as in wood or [[m/_metal|metal]].**
 - **A [[d/_deep|deep]] wrinkle in the skin of the [[f/_face|face]], [[e/_especially|especially]] on the [[f/_forehead|forehead]].**

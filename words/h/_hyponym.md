@@ -1,7 +1,7 @@
 # Hyponym
 ---
 #noun
-- **A [[m/_more|more]] specific term; a subordinate [[g/_grouping|grouping]] word or phrase.**
+- **A [[m/_more|more]] specific term; a subordinate [[g/_grouping|grouping]] word or [[p/_phrase|phrase]].**
 	- _Example: “Dog” is a hyponym of “animal”._
 ---
 ### Antonyms

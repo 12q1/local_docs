@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[c/_conflagration|conflagration]]; a [[f/_flame|flame]].**
-- **A piece of [[b/_burning|burning]] wood or peat, or a [[g/_glowing|glowing]] [[c/_cinder|cinder]].**
+- **A [[p/_piece|piece]] of [[b/_burning|burning]] wood or [[p/_peat|peat]], or a [[g/_glowing|glowing]] [[c/_cinder|cinder]].**
 	- _Example: To burn something to brands and ashes._
 - **A torch used for signaling.**
 - **A sword.**
@@ -15,7 +15,7 @@
 	- _Example: I didn't appreciate his particular brand of flattery._
 - **The public [[i/_image|image]] or reputation and recognized, typical style of an [[i/_individual|individual]] or [[g/_group|group]].**
 - **A [[m/_mark|mark]] of [[i/_infamy|infamy]]; stigma.**
-- **[[a/_any|Any]] [[m/_minute|minute]] [[f/_fungus|fungus]] producing a [[b/_burnt|burnt]] [[a/_appearance|appearance]] in plants.**
+- **[[a/_any|Any]] [[m/_minute|minute]] [[f/_fungus|fungus]] producing a [[b/_burnt|burnt]] [[a/_appearance|appearance]] in [[p/_plants|plants]].**
 ---
 ### Synonyms
 - [[l/_logo|logo]], [[m/_marque|marque]], [[t/_trademark|trademark]], [[t/_tradename|tradename]], [[n/_name|name]], [[r/_repute|repute]]

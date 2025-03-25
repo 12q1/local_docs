@@ -3,7 +3,7 @@
 #noun
 - **The [[a/_act|act]] of [[h/_hunting|hunting]].**
 - **A [[h/_hunting|hunting]] [[e/_expedition|expedition]].**
-- **An [[o/_organization|organization]] [[d/_devoted|devoted]] to [[h/_hunting|hunting]], or the people [[b/_belonging|belonging]] to it.**
+- **An [[o/_organization|organization]] [[d/_devoted|devoted]] to [[h/_hunting|hunting]], or the [[p/_people|people]] [[b/_belonging|belonging]] to it.**
 - **A [[p/_pack|pack]] of [[h/_hunting|hunting]] [[d/_dogs|dogs]].**
 ---
 #verb
@@ -19,6 +19,6 @@
 	- _Example: He hunts the woods, or the country._
 - **([[b/_bell|bell]]-ringing) To [[m/_move|move]] or shift the [[o/_order|order]] of (a [[b/_bell|bell]]) in a regular [[c/_course|course]] of [[c/_changes|changes]].**
 - **([[b/_bell|bell]]-ringing) To shift up and [[d/_down|down]] in [[o/_order|order]] regularly.**
-- **To be in a state of [[i/_instability|instability]] of [[m/_movement|movement]] or [[f/_forced|forced]] [[o/_oscillation|oscillation]], as a [[g/_governor|governor]] which [[h/_has|has]] a [[l/_large|large]] [[m/_movement|movement]] of the [[b/_balls|balls]] for small [[c/_change|change]] of [[l/_load|load]], an [[a/_arc|arc]]-[[l/_lamp|lamp]] [[c/_clutch|clutch]] [[m/_mechanism|mechanism]] which [[m/_moves|moves]] rapidly up and [[d/_down|down]] with variations of [[c/_current|current]], [[e/_etc|etc]].; [[a/_also|also]], to seesaw, as a [[p/_pair|pair]] of [[a/_alternators|alternators]] working in parallel.**
+- **To be in a state of [[i/_instability|instability]] of [[m/_movement|movement]] or [[f/_forced|forced]] [[o/_oscillation|oscillation]], as a [[g/_governor|governor]] which [[h/_has|has]] a [[l/_large|large]] [[m/_movement|movement]] of the [[b/_balls|balls]] for small [[c/_change|change]] of [[l/_load|load]], an [[a/_arc|arc]]-[[l/_lamp|lamp]] [[c/_clutch|clutch]] [[m/_mechanism|mechanism]] which [[m/_moves|moves]] rapidly up and [[d/_down|down]] with variations of [[c/_current|current]], [[e/_etc|etc]].; [[a/_also|also]], to seesaw, as a [[p/_pair|pair]] of [[a/_alternators|alternators]] working in [[p/_parallel|parallel]].**
 ---
 ---

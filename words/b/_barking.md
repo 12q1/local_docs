@@ -10,7 +10,7 @@
 ### Synonyms
 - [[l/_latrate|latrate]]
 #verb
-- **To strip the [[b/_bark|bark]] from; to peel.**
+- **To strip the [[b/_bark|bark]] from; to [[p/_peel|peel]].**
 - **To [[a/_abrade|abrade]] or rub [[o/_off|off]] [[a/_any|any]] [[o/_outer|outer]] [[c/_covering|covering]] from.**
 	- _Example: to bark one’s heel_
 - **To [[g/_girdle|girdle]].**

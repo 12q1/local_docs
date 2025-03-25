@@ -3,11 +3,11 @@
 #noun
 - **A [[c/_crustacean|crustacean]] of the infraorder [[b/_brachyura|Brachyura]], [[h/_having|having]] [[f/_five|five]] [[p/_pairs|pairs]] of [[l/_legs|legs]], the [[f/_foremost|foremost]] of which are in the [[f/_form|form]] of [[c/_claws|claws]], and a [[c/_carapace|carapace]].**
 - **The [[m/_meat|meat]] of this [[c/_crustacean|crustacean]], served as [[f/_food|food]]; [[c/_crabmeat|crabmeat]]**
-- **A [[b/_bad|bad]]-tempered person.**
-- **(in plural [[c/_crabs|crabs]]) An [[i/_infestation|infestation]] of pubic [[l/_lice|lice]] (Pthirus pubis).**
+- **A [[b/_bad|bad]]-tempered [[p/_person|person]].**
+- **(in [[p/_plural|plural]] [[c/_crabs|crabs]]) An [[i/_infestation|infestation]] of pubic [[l/_lice|lice]] (Pthirus pubis).**
 	- _Example: Although crabs themselves are an easily treated inconvenience, the patient and his partner(s) clearly run major STD risks._
-- **A playing [[c/_card|card]] with the rank of three.**
-- **A position in rowing where the [[o/_oar|oar]] is pushed under the rigger by the [[f/_force|force]] of the water.**
+- **A [[p/_playing|playing]] [[c/_card|card]] with the rank of three.**
+- **A [[p/_position|position]] in rowing where the [[o/_oar|oar]] is pushed under the rigger by the [[f/_force|force]] of the water.**
 - **A [[d/_defect|defect]] in an [[o/_outwardly|outwardly]] [[n/_normal|normal]] [[o/_object|object]] that [[m/_may|may]] render it [[i/_inconvenient|inconvenient]] and troublesome to use.**
 - **An unsold [[b/_book|book]] that is returned to the publisher.**
 ---

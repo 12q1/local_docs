@@ -1,7 +1,7 @@
 # Freemen
 ---
 #noun
-- **A [[f/_free|free]] person, particularly:**
+- **A [[f/_free|free]] [[p/_person|person]], [[p/_particularly|particularly]]:**
 ---
 ### Synonyms
 - [[b/_burgess|burgess]], [[b/_burgher|burgher]], [[c/_citizen|citizen]]

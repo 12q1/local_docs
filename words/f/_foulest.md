@@ -9,7 +9,7 @@
 	- _Example: He has a foul set of friends._
 - **[[d/_disgusting|Disgusting]], repulsive; [[c/_causing|causing]] [[d/_disgust|disgust]].**
 	- _Example: There was a foul smell coming from the toilet._
-- **Ugly; [[h/_homely|homely]]; poor.**
+- **Ugly; [[h/_homely|homely]]; [[p/_poor|poor]].**
 - **(of the weather) Unpleasant, stormy or rainy.**
 	- _Example: Some foul weather is brewing._
 - **[[d/_dishonest|Dishonest]] or not [[c/_conforming|conforming]] to the [[e/_established|established]] rules and [[c/_customs|customs]] of a [[g/_game|game]], [[c/_conflict|conflict]], test, [[e/_etc|etc]].**

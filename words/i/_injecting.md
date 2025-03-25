@@ -1,7 +1,7 @@
 # Injecting
 ---
 #verb
-- **To push or pump (something, [[e/_especially|especially]] [[f/_fluids|fluids]]) [[i/_into|into]] a [[c/_cavity|cavity]] or passage.**
+- **To push or pump (something, [[e/_especially|especially]] [[f/_fluids|fluids]]) [[i/_into|into]] a [[c/_cavity|cavity]] or [[p/_passage|passage]].**
 	- _Example: The nurse injected a painkilling drug into the veins of my forearm._
 - **To [[i/_introduce|introduce]] (something) suddenly or violently.**
 	- _Example: Punk injected a much-needed sense of urgency into the British music scene._

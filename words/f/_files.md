@@ -1,7 +1,7 @@
 # Files
 ---
 #noun
-- **A [[c/_collection|collection]] of papers [[c/_collated|collated]] and [[a/_archived|archived]] together.**
+- **A [[c/_collection|collection]] of [[p/_papers|papers]] [[c/_collated|collated]] and [[a/_archived|archived]] together.**
 - **A roll or [[l/_list|list]].**
 - **[[c/_course|Course]] of thought; thread of [[n/_narration|narration]].**
 - **An [[a/_aggregation|aggregation]] of [[d/_data|data]] on a storage [[d/_device|device]], [[i/_identified|identified]] by a [[n/_name|name]].**
@@ -10,15 +10,15 @@
 ### Synonyms
 - [[d/_document|document]], [[p/_paper|paper]]
 #verb
-- **To [[c/_commit|commit]] ([[o/_official|official]] papers) to some [[o/_office|office]].**
-- **To place in an [[a/_archive|archive]] in a [[l/_logical|logical]] place and [[o/_order|order]]**
+- **To [[c/_commit|commit]] ([[o/_official|official]] [[p/_papers|papers]]) to some [[o/_office|office]].**
+- **To [[p/_place|place]] in an [[a/_archive|archive]] in a [[l/_logical|logical]] [[p/_place|place]] and [[o/_order|order]]**
 - **To store a [[f/_file|file]] ([[a/_aggregation|aggregation]] of [[d/_data|data]]) on a storage [[m/_medium|medium]] such as a [[d/_disc|disc]] or [[a/_another|another]] [[c/_computer|computer]].**
 - **(with for) To submit a [[f/_formal|formal]] request to some [[o/_office|office]].**
 	- _Example: She filed for divorce the next day._
 - **To set in [[o/_order|order]]; to [[a/_arrange|arrange]], or [[l/_lay|lay]] [[a/_away|away]].**
 ---
 #noun
-- **A [[c/_column|column]] of people [[o/_one|one]] [[b/_behind|behind]] [[a/_another|another]], whether "single [[f/_file|file]]" or in a [[l/_large|large]] [[g/_group|group]] with [[m/_many|many]] [[f/_files|files]] side by side.**
+- **A [[c/_column|column]] of [[p/_people|people]] [[o/_one|one]] [[b/_behind|behind]] [[a/_another|another]], whether "single [[f/_file|file]]" or in a [[l/_large|large]] [[g/_group|group]] with [[m/_many|many]] [[f/_files|files]] side by side.**
 	- _Example: The troops marched in Indian file._
 - **A small [[d/_detachment|detachment]] of soldiers.**
 - **[[o/_one|One]] of the [[e/_eight|eight]] vertical [[l/_lines|lines]] of squares on a [[c/_chessboard|chessboard]] ([[i/_i|i]].[[e/_e|e]]., those [[i/_identified|identified]] by a [[l/_letter|letter]]). The [[a/_analog|analog]] [[h/_horizontal|horizontal]] [[l/_lines|lines]] are the ranks.**
@@ -29,7 +29,7 @@
 ---
 #noun
 - **A [[h/_hand|hand]] tool [[c/_consisting|consisting]] of a [[h/_handle|handle]] to which a [[b/_block|block]] of [[c/_coarse|coarse]] [[m/_metal|metal]] is [[a/_attached|attached]], and used for removing sharp [[e/_edges|edges]] or for [[c/_cutting|cutting]], [[e/_especially|especially]] through [[m/_metal|metal]].**
-- **A [[c/_cunning|cunning]] or resourceful person.**
+- **A [[c/_cunning|cunning]] or resourceful [[p/_person|person]].**
 ---
 #verb
 - **To smooth, [[g/_grind|grind]], or [[c/_cut|cut]] with a [[f/_file|file]].**

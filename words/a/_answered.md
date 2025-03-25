@@ -5,7 +5,7 @@
 	- _Example: He answered the question._
 - **To speak in [[d/_defence|defence]] [[a/_against|against]]; to reply to in [[d/_defence|defence]].**
 	- _Example: to answer a charge or accusation_
-- **To respond to a [[c/_call|call]] by someone at a [[d/_door|door]] or telephone, or [[o/_other|other]] similar piece of [[e/_equipment|equipment]].**
+- **To respond to a [[c/_call|call]] by someone at a [[d/_door|door]] or telephone, or [[o/_other|other]] similar [[p/_piece|piece]] of [[e/_equipment|equipment]].**
 	- _Example: Nobody answered when I knocked on the door._
 - **To suit a [[n/_need|need]] or purpose satisfactorily.**
 	- _Example: It answers the need._

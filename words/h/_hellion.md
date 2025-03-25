@@ -1,8 +1,8 @@
 # Hellion
 ---
 #noun
-- **An unruly, rowdy or [[m/_mischievous|mischievous]] person**
-- **An [[e/_evil|evil]] person**
+- **An unruly, rowdy or [[m/_mischievous|mischievous]] [[p/_person|person]]**
+- **An [[e/_evil|evil]] [[p/_person|person]]**
 - **The [[l/_larva|larva]] of the [[d/_dobsonfly|dobsonfly]]**
 ---
 #adjective

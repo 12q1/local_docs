@@ -1,7 +1,7 @@
 # Mushy
 ---
 #adjective
-- **Resembling or [[h/_having|having]] the [[c/_consistency|consistency]] of [[m/_mush|mush]]; semiliquid, pasty, or [[g/_granular|granular]].**
+- **Resembling or [[h/_having|having]] the [[c/_consistency|consistency]] of [[m/_mush|mush]]; semiliquid, [[p/_pasty|pasty]], or [[g/_granular|granular]].**
 	- _Example: I don't especially like mushy oatmeal._
 - **Soft; squishy.**
 	- _Example: The brake pedal is mushy sometimes when I step on it._

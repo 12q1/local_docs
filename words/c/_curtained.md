@@ -7,7 +7,7 @@
 ### Synonyms
 - [[b/_becurtain|becurtain]]
 #adjective
-- **[[c/_covered|Covered]] or partitioned with a [[c/_curtain|curtain]] or [[c/_curtains|curtains]].**
+- **[[c/_covered|Covered]] or [[p/_partitioned|partitioned]] with a [[c/_curtain|curtain]] or [[c/_curtains|curtains]].**
 - **[[h/_hidden|Hidden]] or separated as [[i/_if|if]] by a [[c/_curtain|curtain]].**
 - **(in [[c/_compounds|compounds]]) [[h/_hung|Hung]] with a [[c/_curtain|curtain]] or [[c/_curtains|curtains]] of a specified type.**
 ---

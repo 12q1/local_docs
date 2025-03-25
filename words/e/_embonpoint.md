@@ -1,9 +1,9 @@
 # Embonpoint
 ---
 #noun
-- **Plumpness, stoutness, [[e/_especially|especially]] when voluptuous.**
+- **[[p/_plumpness|Plumpness]], stoutness, [[e/_especially|especially]] when voluptuous.**
 ---
 #adjective
-- **Plump, [[c/_chubby|chubby]], [[b/_buxom|buxom]].**
+- **[[p/_plump|Plump]], [[c/_chubby|chubby]], [[b/_buxom|buxom]].**
 ---
 ---

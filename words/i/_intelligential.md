@@ -1,6 +1,6 @@
 # Intelligential
 ---
 #adjective
-- **Of or pertaining to [[i/_intelligence|intelligence]].**
+- **Of or [[p/_pertaining|pertaining]] to [[i/_intelligence|intelligence]].**
 ---
 ---

@@ -5,7 +5,7 @@
 ---
 #verb
 - **To suspend using a [[g/_gimbal|gimbal]] or [[g/_gimbals|gimbals]].**
-- **To [[m/_move|move]] a reaction [[e/_engine|engine]] [[a/_about|about]] on a [[g/_gimbal|gimbal]] so as to [[o/_obtain|obtain]] pitching and [[y/_yawing|yawing]] [[c/_correction|correction]] [[m/_moments|moments]].**
+- **To [[m/_move|move]] a reaction [[e/_engine|engine]] [[a/_about|about]] on a [[g/_gimbal|gimbal]] so as to [[o/_obtain|obtain]] [[p/_pitching|pitching]] and [[y/_yawing|yawing]] [[c/_correction|correction]] [[m/_moments|moments]].**
 - **To swivel, [[m/_move|move]] on an [[a/_axis|axis]].**
 ---
 ---

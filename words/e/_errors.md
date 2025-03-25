@@ -4,9 +4,9 @@
 - **The state, quality, or [[c/_condition|condition]] of [[b/_being|being]] wrong.**
 - **A [[m/_mistake|mistake]]; an [[a/_accidental|accidental]] wrong [[a/_action|action]] or a [[f/_false|false]] statement not [[m/_made|made]] [[d/_deliberately|deliberately]].**
 - **Sin; transgression.**
-- **A [[f/_failure|failure]] to [[c/_complete|complete]] a task, usually [[i/_involving|involving]] a premature termination.**
+- **A [[f/_failure|failure]] to [[c/_complete|complete]] a task, usually [[i/_involving|involving]] a [[p/_premature|premature]] termination.**
 - **The [[d/_difference|difference]] [[b/_between|between]] a [[m/_measured|measured]] or [[c/_calculated|calculated]] value and a true [[o/_one|one]].**
-- **A play which is scored as [[h/_having|having]] [[b/_been|been]] [[m/_made|made]] [[i/_incorrectly|incorrectly]].**
+- **A [[p/_play|play]] which is scored as [[h/_having|having]] [[b/_been|been]] [[m/_made|made]] [[i/_incorrectly|incorrectly]].**
 - **[[o/_one|One]] or [[m/_more|more]] [[m/_mistakes|mistakes]] in a trial that [[c/_could|could]] be [[g/_grounds|grounds]] for review of the [[j/_judgement|judgement]].**
 - **[[a/_any|Any]] [[a/_alteration|alteration]] in the DNA [[c/_chemical|chemical]] structure [[o/_occurring|occurring]] [[d/_during|during]] DNA replication, recombination or repairing.**
 ---

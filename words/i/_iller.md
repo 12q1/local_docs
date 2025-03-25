@@ -1,13 +1,13 @@
 # Iller
 ---
 #adjective
-- **[[e/_evil|Evil]]; wicked (of people).**
+- **[[e/_evil|Evil]]; wicked (of [[p/_people|people]]).**
 - **[[m/_morally|Morally]] reprehensible (of [[b/_behaviour|behaviour]] [[e/_etc|etc]].); [[b/_blameworthy|blameworthy]].**
 - **[[i/_indicative|Indicative]] of unkind or [[m/_malevolent|malevolent]] [[i/_intentions|intentions]]; [[h/_harsh|harsh]], [[c/_cruel|cruel]].**
 	- _Example: He suffered from ill treatment._
 - **Unpropitious, unkind, [[f/_faulty|faulty]], not up to reasonable standard.**
 	- _Example: ill manners; ill will_
-- **Unwell in terms of [[h/_health|health]] or physical [[c/_condition|condition]]; sick.**
+- **Unwell in terms of [[h/_health|health]] or [[p/_physical|physical]] [[c/_condition|condition]]; sick.**
 	- _Example: I've been ill with the flu for the past few days._
 - **[[h/_having|Having]] an urge to vomit.**
 	- _Example: Seeing those pictures made me ill._

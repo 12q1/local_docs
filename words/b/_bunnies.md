@@ -13,8 +13,8 @@
 - **A [[c/_culvert|culvert]] or short [[c/_covered|covered]] [[d/_drain|drain]] [[c/_connecting|connecting]] two [[d/_ditches|ditches]].**
 - **A [[c/_chine|chine]] or [[g/_gully|gully]] [[f/_formed|formed]] by water running [[o/_over|over]] the [[e/_edge|edge]] of a [[c/_cliff|cliff]]; a wooded [[g/_glen|glen]] or small ravine [[o/_opening|opening]] through the [[c/_cliff|cliff]] [[l/_line|line]] to the sea.**
 - **[[a/_any|Any]] small [[d/_drain|drain]] or [[c/_culvert|culvert]].**
-- **A [[b/_brick|brick]] [[a/_arch|arch]] or wooden [[b/_bridge|bridge]], [[c/_covered|covered]] with [[e/_earth|earth]] [[a/_across|across]] a [[d/_drawn|drawn]] or [[c/_carriage|carriage]] in a water-[[m/_meadow|meadow]], [[j/_just|just]] wide [[e/_enough|enough]] to [[a/_allow|allow]] a [[h/_hay|hay]]-wagon to pass [[o/_over|over]].**
-- **A small pool of water.**
+- **A [[b/_brick|brick]] [[a/_arch|arch]] or wooden [[b/_bridge|bridge]], [[c/_covered|covered]] with [[e/_earth|earth]] [[a/_across|across]] a [[d/_drawn|drawn]] or [[c/_carriage|carriage]] in a water-[[m/_meadow|meadow]], [[j/_just|just]] wide [[e/_enough|enough]] to [[a/_allow|allow]] a [[h/_hay|hay]]-wagon to [[p/_pass|pass]] [[o/_over|over]].**
+- **A small [[p/_pool|pool]] of water.**
 ---
 #noun
 - **[[b/_bunny|Bunny]] [[c/_chow|chow]]; a snack of [[b/_bread|bread]] [[f/_filled|filled]] with [[c/_curry|curry]].**

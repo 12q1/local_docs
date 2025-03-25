@@ -5,6 +5,6 @@
 ---
 #adjective
 - **Relating to a [[y/_yoke|yoke]] or [[m/_marriage|marriage]].**
-- **Pertaining to the [[j/_jugal|jugal]] [[b/_bone|bone]].**
+- **[[p/_pertaining|Pertaining]] to the [[j/_jugal|jugal]] [[b/_bone|bone]].**
 ---
 ---

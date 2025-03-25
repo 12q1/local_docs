@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[c/_conductor|conductor]] or [[l/_leader|leader]] of the [[c/_chorus|chorus]] of a [[d/_drama|drama]].**
-- **(by [[e/_extension|extension]]) The [[c/_chief|chief]] or [[l/_leader|leader]] of an [[i/_interest|interest]] or party.**
+- **(by [[e/_extension|extension]]) The [[c/_chief|chief]] or [[l/_leader|leader]] of an [[i/_interest|interest]] or [[p/_party|party]].**
 - **The [[l/_leader|leader]] of an [[o/_opera|opera]] [[c/_chorus|chorus]] or [[a/_another|another]] [[e/_ensemble|ensemble]] of singers.**
 ---
 ### Synonyms

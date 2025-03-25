@@ -1,6 +1,6 @@
 # Octamerous
 ---
 #adjective
-- **[[h/_having|Having]] parts in [[g/_groups|groups]] of [[e/_eight|eight]]**
+- **[[h/_having|Having]] [[p/_parts|parts]] in [[g/_groups|groups]] of [[e/_eight|eight]]**
 ---
 ---

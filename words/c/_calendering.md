@@ -1,9 +1,9 @@
 # Calendering
 ---
 #verb
-- **To press [[b/_between|between]] rollers for the purpose of [[m/_making|making]] smooth and [[g/_glossy|glossy]], or wavy, as woolen and silk stuffs, [[l/_linens|linens]], paper [[e/_etc|etc]]., as in a [[c/_calender|calender]].**
+- **To [[p/_press|press]] [[b/_between|between]] rollers for the purpose of [[m/_making|making]] smooth and [[g/_glossy|glossy]], or wavy, as woolen and silk stuffs, [[l/_linens|linens]], [[p/_paper|paper]] [[e/_etc|etc]]., as in a [[c/_calender|calender]].**
 ---
 #noun
-- **The process of pressing paper, [[e/_etc|etc]]. in a [[c/_calender|calender]].**
+- **The process of [[p/_pressing|pressing]] [[p/_paper|paper]], [[e/_etc|etc]]. in a [[c/_calender|calender]].**
 ---
 ---

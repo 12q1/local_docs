@@ -1,7 +1,7 @@
 # Masterful
 ---
 #adjective
-- **Of or pertaining to the [[m/_manner|manner]] of a [[m/_master|master]] of an [[a/_art|art]], technique, profession, or [[c/_craft|craft]]; [[m/_masterly|masterly]].**
+- **Of or [[p/_pertaining|pertaining]] to the [[m/_manner|manner]] of a [[m/_master|master]] of an [[a/_art|art]], technique, profession, or [[c/_craft|craft]]; [[m/_masterly|masterly]].**
 	- _Example: The brushwork on the skin tones was masterful._
 - **In the [[m/_manner|manner]] of a [[m/_master|master]]; very skillful.**
 	- _Example: The masterful conducting ensured the orchestra gave of their best._

@@ -1,6 +1,6 @@
 # Ascitic
 ---
 #adjective
-- **Of, pertaining to, or suffering from [[a/_ascites|ascites]]**
+- **Of, [[p/_pertaining|pertaining]] to, or suffering from [[a/_ascites|ascites]]**
 ---
 ---

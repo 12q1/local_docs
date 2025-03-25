@@ -8,7 +8,7 @@
 - **Unpleasant [[o/_odour|odour]].**
 - **An [[i/_imposition|imposition]] or [[h/_hoax|hoax]]; [[h/_humbug|humbug]].**
 - **A [[k/_kind|kind]] of strong [[d/_drink|drink]].**
-- **A phenomenon, or [[c/_collection|collection]] of phenomena, [[i/_involving|involving]] widespread reports of a persistent and [[i/_invasive|invasive]] [[l/_low|low]]-[[f/_frequency|frequency]] [[h/_humming|humming]], rumbling, or [[d/_droning|droning]] [[n/_noise|noise]] not [[a/_audible|audible]] to [[a/_all|all]] people.**
+- **A [[p/_phenomenon|phenomenon]], or [[c/_collection|collection]] of [[p/_phenomena|phenomena]], [[i/_involving|involving]] widespread reports of a [[p/_persistent|persistent]] and [[i/_invasive|invasive]] [[l/_low|low]]-[[f/_frequency|frequency]] [[h/_humming|humming]], rumbling, or [[d/_droning|droning]] [[n/_noise|noise]] not [[a/_audible|audible]] to [[a/_all|all]] [[p/_people|people]].**
 ---
 #verb
 - **To [[m/_make|make]] a sound from the vocal [[c/_chords|chords]] without pronouncing [[a/_any|any]] real words, with [[o/_one|one]]'s [[l/_lips|lips]] [[c/_closed|closed]].**

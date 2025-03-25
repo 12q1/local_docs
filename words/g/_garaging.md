@@ -5,6 +5,6 @@
 	- _Example: We garaged the convertible during the monsoon months._
 ---
 #noun
-- **The [[a/_act|act]] of parking a vehicle in a [[g/_garage|garage]].**
+- **The [[a/_act|act]] of [[p/_parking|parking]] a vehicle in a [[g/_garage|garage]].**
 ---
 ---

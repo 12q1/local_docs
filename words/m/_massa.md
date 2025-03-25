@@ -12,9 +12,9 @@
 - **A schoolmaster.**
 - **A skilled [[a/_artist|artist]].**
 - **A [[m/_man|man]] or a [[b/_boy|boy]]; [[m/_mister|mister]]. See [[m/_master|Master]].**
-- **A [[m/_master|master]]'s [[d/_degree|degree]]; a type of postgraduate [[d/_degree|degree]], usually undertaken [[a/_after|after]] a [[b/_bachelor|bachelor]] [[d/_degree|degree]].**
+- **A [[m/_master|master]]'s [[d/_degree|degree]]; a type of [[p/_postgraduate|postgraduate]] [[d/_degree|degree]], usually undertaken [[a/_after|after]] a [[b/_bachelor|bachelor]] [[d/_degree|degree]].**
 	- _Example: She has a master in psychology._
-- **A person [[h/_holding|holding]] such a [[d/_degree|degree]].**
+- **A [[p/_person|person]] [[h/_holding|holding]] such a [[d/_degree|degree]].**
 	- _Example: He is a master of marine biology._
 - **The [[o/_original|original]] of a [[d/_document|document]] or of a recording.**
 	- _Example: The band couldn't find the master, so they re-recorded their tracks._
@@ -23,8 +23,8 @@
 	- _Example: The case was tried by a master, who concluded that the plaintiffs were the equitable owners of the property. [...]_
 - **A [[d/_device|device]] that is [[c/_controlling|controlling]] [[o/_other|other]] [[d/_devices|devices]] or is an [[a/_authoritative|authoritative]] source.**
 	- _Example: a master database_
-- **A person [[h/_holding|holding]] an [[o/_office|office]] of [[a/_authority|authority]], [[e/_especially|especially]] the presiding [[o/_officer|officer]].**
-- **(by [[e/_extension|extension]]) A person [[h/_holding|holding]] a similar [[o/_office|office]] in [[o/_other|other]] [[c/_civic|civic]] societies.**
+- **A [[p/_person|person]] [[h/_holding|holding]] an [[o/_office|office]] of [[a/_authority|authority]], [[e/_especially|especially]] the [[p/_presiding|presiding]] [[o/_officer|officer]].**
+- **(by [[e/_extension|extension]]) A [[p/_person|person]] [[h/_holding|holding]] a similar [[o/_office|office]] in [[o/_other|other]] [[c/_civic|civic]] societies.**
 ---
 ### Synonyms
 - [[m/_magistrate|magistrate]], [[m/_master's|master's]], [[m/_masters|masters]], [[c/_captain|captain]], [[s/_skipper|skipper]]

@@ -1,7 +1,7 @@
 # Nimrod
 ---
 #noun
-- **A [[f/_foolish|foolish]] person; an [[i/_idiot|idiot]].**
+- **A [[f/_foolish|foolish]] [[p/_person|person]]; an [[i/_idiot|idiot]].**
 	- _Example: Don't stick your fingers in the fan, you nimrod!_
 ---
 ### Synonyms

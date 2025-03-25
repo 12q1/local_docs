@@ -5,6 +5,6 @@
 - **The [[f/_female|female]] ruler of a [[d/_duchy|duchy]].**
 ---
 #verb
-- **To [[c/_court|court]] or [[c/_curry|curry]] [[f/_favour|favour]] for political or [[b/_business|business]] [[a/_advantage|advantage]]; to [[f/_flatter|flatter]] [[o/_obsequiously|obsequiously]].**
+- **To [[c/_court|court]] or [[c/_curry|curry]] [[f/_favour|favour]] for [[p/_political|political]] or [[b/_business|business]] [[a/_advantage|advantage]]; to [[f/_flatter|flatter]] [[o/_obsequiously|obsequiously]].**
 ---
 ---

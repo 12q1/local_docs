@@ -5,13 +5,13 @@
 	- _Example: He deprecates any praise of his own merits._
 - **To [[d/_declare|declare]] something [[o/_obsolescent|obsolescent]]; to recommend [[a/_against|against]] a [[f/_function|function]], technique, [[c/_command|command]], [[e/_etc|etc]]. that still works but [[h/_has|has]] [[b/_been|been]] replaced.**
 	- _Example: It is still supported but strongly deprecated._
-- **To pray [[a/_against|against]].**
+- **To [[p/_pray|pray]] [[a/_against|against]].**
 - **To regret [[d/_deeply|deeply]].**
 ---
 #adjective
 - **Strongly [[d/_disapproved|disapproved]] of.**
 - **[[b/_belittled|Belittled]]; [[i/_insulted|insulted]].**
-- **Said of a [[f/_function|function]] or [[f/_feature|feature]] planned to be phased [[o/_out|out]], but still [[a/_available|available]] for use.**
+- **Said of a [[f/_function|function]] or [[f/_feature|feature]] [[p/_planned|planned]] to be [[p/_phased|phased]] [[o/_out|out]], but still [[a/_available|available]] for use.**
 	- _Example: Foo() has been deprecated; it outputs a debug message and then calls Foo2()_
 ---
 ### Synonyms

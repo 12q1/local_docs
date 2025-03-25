@@ -15,7 +15,7 @@
 - **To [[g/_give|give]] [[f/_forth|forth]] in [[a/_action|action]] or [[e/_exercise|exercise]]; to [[d/_discharge|discharge]].**
 	- _Example: to deliver a blow_
 - **To [[d/_discover|discover]]; to show.**
-- **To [[a/_admit|admit]]; to [[a/_allow|allow]] to pass.**
+- **To [[a/_admit|admit]]; to [[a/_allow|allow]] to [[p/_pass|pass]].**
 - **To [[a/_administer|administer]] a [[d/_drug|drug]].**
 ---
 ### Synonyms

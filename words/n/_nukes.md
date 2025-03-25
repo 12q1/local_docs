@@ -7,7 +7,7 @@
 	- _Example: The back of the used book shop was one of her favorite nooks; she could read for hours and no one would bother her or pester her to buy._
 - **A recess, [[c/_cove|cove]] or [[h/_hollow|hollow]].**
 - **An [[e/_english|English]] unit of [[l/_land|land]] [[a/_area|area]], [[o/_originally|originally]] 1/4 of a [[y/_yardland|yardland]] but [[l/_later|later]] 12 1/2 or 20 [[a/_acres|acres]].**
-- **A [[c/_corner|corner]] of a piece of [[l/_land|land]]; an [[a/_angled|angled]] piece of [[l/_land|land]], [[e/_especially|especially]] [[o/_one|one]] [[e/_extending|extending]] [[i/_into|into]] [[o/_other|other]] [[l/_land|land]].**
+- **A [[c/_corner|corner]] of a [[p/_piece|piece]] of [[l/_land|land]]; an [[a/_angled|angled]] [[p/_piece|piece]] of [[l/_land|land]], [[e/_especially|especially]] [[o/_one|one]] [[e/_extending|extending]] [[i/_into|into]] [[o/_other|other]] [[l/_land|land]].**
 ---
 ### Synonyms
 - [[a/_alcove|alcove]], [[a/_ancone|ancone]], [[r/_recess|recess]], [[f/_fardel|fardel]], [[n/_niche|niche]]
@@ -16,14 +16,14 @@
 ---
 #noun
 - **The spinal [[c/_cord|cord]].**
-- **The [[b/_back|back]] of the [[n/_neck|neck]], the [[n/_nape|nape]]; of an [[a/_animal|animal]]: the [[b/_back|back]] of the [[h/_head|head]] or the portion of the [[b/_body|body]] [[b/_behind|behind]] the [[h/_head|head]].**
+- **The [[b/_back|back]] of the [[n/_neck|neck]], the [[n/_nape|nape]]; of an [[a/_animal|animal]]: the [[b/_back|back]] of the [[h/_head|head]] or the [[p/_portion|portion]] of the [[b/_body|body]] [[b/_behind|behind]] the [[h/_head|head]].**
 ---
 #noun
 - **A [[n/_nuclear|nuclear]] weapon.**
 - **(by [[e/_extension|extension]]) Something that [[d/_destroys|destroys]] or [[n/_negates|negates]], [[e/_especially|especially]] on a [[c/_catastrophic|catastrophic]] scale.**
-- **A [[n/_nuclear|nuclear]] power station.**
-- **A vessel such as a ship or submarine running on [[n/_nuclear|nuclear]] power.**
-- **A person (such as a sailor in a [[n/_navy|navy]] or a scientist) who works with [[n/_nuclear|nuclear]] weapons or [[n/_nuclear|nuclear]] power.**
+- **A [[n/_nuclear|nuclear]] [[p/_power|power]] station.**
+- **A vessel such as a ship or submarine running on [[n/_nuclear|nuclear]] [[p/_power|power]].**
+- **A [[p/_person|person]] (such as a sailor in a [[n/_navy|navy]] or a scientist) who works with [[n/_nuclear|nuclear]] weapons or [[n/_nuclear|nuclear]] [[p/_power|power]].**
 - **A [[m/_microwave|microwave]] [[o/_oven|oven]].**
 	- _Example: Just put it in the nuke for two minutes and it will be ready to eat._
 ---

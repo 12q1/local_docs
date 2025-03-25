@@ -1,7 +1,7 @@
 # Drinkable
 ---
 #noun
-- **([[c/_chiefly|chiefly]] in the plural) That which [[c/_can|can]] be [[d/_drunk|drunk]].**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) That which [[c/_can|can]] be [[d/_drunk|drunk]].**
 ---
 #adjective
 - **[[a/_able|Able]] to be [[d/_drunk|drunk]] (as [[l/_liquid|liquid]]).**

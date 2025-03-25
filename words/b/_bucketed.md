@@ -1,7 +1,7 @@
 # Bucketed
 ---
 #verb
-- **To place [[i/_inside|inside]] a [[b/_bucket|bucket]].**
+- **To [[p/_place|place]] [[i/_inside|inside]] a [[b/_bucket|bucket]].**
 - **To [[d/_draw|draw]] or [[l/_lift|lift]] in, or as [[i/_if|if]] in, [[b/_buckets|buckets]].**
 	- _Example: to bucket water_
 - **To rain [[h/_heavily|heavily]].**

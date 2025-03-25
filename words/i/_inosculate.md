@@ -9,6 +9,6 @@
 ### Synonyms
 - [[a/_affix|affix]], [[a/_attach|attach]], [[j/_join|join]], [[b/_blend|blend]]
 #adjective
-- **Pertaining to or [[c/_characterized|characterized]] by [[i/_inosculation|inosculation]].**
+- **[[p/_pertaining|Pertaining]] to or [[c/_characterized|characterized]] by [[i/_inosculation|inosculation]].**
 ---
 ---

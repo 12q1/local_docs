@@ -8,7 +8,7 @@
 - **A [[m/_magic|magic]] [[c/_cookie|cookie]].**
 - **An [[a/_attractive|attractive]] [[y/_young|young]] woman.**
 - **The [[f/_female|female]] [[g/_genitalia|genitalia]].**
-- **A piece of [[c/_crack|crack]] [[c/_cocaine|cocaine]], [[l/_larger|larger]] than a rock, and [[o/_often|often]] in the shape of a [[c/_cookie|cookie]].**
+- **A [[p/_piece|piece]] of [[c/_crack|crack]] [[c/_cocaine|cocaine]], [[l/_larger|larger]] than a rock, and [[o/_often|often]] in the shape of a [[c/_cookie|cookie]].**
 ---
 ### Synonyms
 - [[b/_bickie|bickie]], [[b/_biscuit|biscuit]]

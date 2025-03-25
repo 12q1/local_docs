@@ -2,11 +2,11 @@
 ---
 #noun
 - **[[a/_anything|Anything]] that [[c/_clips|clips]].**
-- **([[c/_chiefly|chiefly]] in the plural) A tool used for [[c/_clipping|clipping]] something, such as [[h/_hair|hair]], [[c/_coins|coins]], or [[f/_fingernails|fingernails]].**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) A tool used for [[c/_clipping|clipping]] something, such as [[h/_hair|hair]], [[c/_coins|coins]], or [[f/_fingernails|fingernails]].**
 - **Something that [[m/_moves|moves]] swiftly; [[e/_especially|especially]]:**
-- **The [[a/_asian|Asian]] [[b/_butterfly|butterfly]] Parthenos sylvia, [[f/_family|family]] [[n/_nymphalidae|Nymphalidae]].**
+- **The [[a/_asian|Asian]] [[b/_butterfly|butterfly]] [[p/_parthenos|Parthenos]] sylvia, [[f/_family|family]] [[n/_nymphalidae|Nymphalidae]].**
 - **A [[c/_circuit|circuit]] which prevents the [[a/_amplitude|amplitude]] of a wave from [[e/_exceeding|exceeding]] a set value.**
-- **A person who [[m/_mutilates|mutilates]] [[c/_coins|coins]] by [[f/_fraudulently|fraudulently]] paring the [[e/_edges|edges]].**
+- **A [[p/_person|person]] who [[m/_mutilates|mutilates]] [[c/_coins|coins]] by [[f/_fraudulently|fraudulently]] [[p/_paring|paring]] the [[e/_edges|edges]].**
 - **[[c/_confidence|Confidence]] trickster; conman.**
 ---
 ---

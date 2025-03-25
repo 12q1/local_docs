@@ -7,7 +7,7 @@
 ### Synonyms
 - [[b/_base|base]], [[o/_octonary|octonary]]
 #adjective
-- **[[c/_concerning|Concerning]] [[n/_numbers|numbers]] [[e/_expressed|expressed]] in [[o/_octal|octal]] or [[m/_mathematical|mathematical]] [[c/_calculations|calculations]] performed using [[o/_octal|octal]].**
+- **[[c/_concerning|Concerning]] [[n/_numbers|numbers]] [[e/_expressed|expressed]] in [[o/_octal|octal]] or [[m/_mathematical|mathematical]] [[c/_calculations|calculations]] [[p/_performed|performed]] using [[o/_octal|octal]].**
 ---
 ### Synonyms
 - [[b/_base|base]]

@@ -1,6 +1,6 @@
 # Fruticose
 ---
 #adjective
-- **(of a plant) [[h/_having|Having]] woody stems and [[b/_branches|branches]]; shrubby**
+- **(of a [[p/_plant|plant]]) [[h/_having|Having]] woody stems and [[b/_branches|branches]]; shrubby**
 ---
 ---

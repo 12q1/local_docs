@@ -1,6 +1,6 @@
 # Notational
 ---
 #adjective
-- **Of or pertaining to [[n/_notation|notation]].**
+- **Of or [[p/_pertaining|pertaining]] to [[n/_notation|notation]].**
 ---
 ---

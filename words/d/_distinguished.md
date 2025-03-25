@@ -12,7 +12,7 @@
 ### Antonyms
 - [[c/_confuse|confuse]]
 #adjective
-- **[[c/_celebrated|Celebrated]], well-[[k/_known|known]] or [[e/_eminent|eminent]] [[b/_because|because]] of past [[a/_achievements|achievements]]; prestigious**
+- **[[c/_celebrated|Celebrated]], well-[[k/_known|known]] or [[e/_eminent|eminent]] [[b/_because|because]] of [[p/_past|past]] [[a/_achievements|achievements]]; [[p/_prestigious|prestigious]]**
 	- _Example: The lecture was attended by many distinguished mathematicians._
 - **[[h/_having|Having]] a [[d/_dignified|dignified]] [[a/_appearance|appearance]] or [[d/_demeanor|demeanor]]**
 	- _Example: Her father was a distinguished gentleman, albeit a poor one._

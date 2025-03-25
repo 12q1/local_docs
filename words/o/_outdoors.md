@@ -1,8 +1,8 @@
 # Outdoors
 ---
 #noun
-- **([[o/_often|often]] preceded by "the") The [[e/_environment|environment]] [[o/_outside|outside]] of [[e/_enclosed|enclosed]] structures.**
-- **([[o/_often|often]] preceded by "the") The [[n/_natural|natural]] [[e/_environment|environment]] in the [[o/_open|open]] [[a/_air|air]], [[c/_countryside|countryside]] [[a/_away|away]] from [[c/_cities|cities]] and [[b/_buildings|buildings]].**
+- **([[o/_often|often]] [[p/_preceded|preceded]] by "the") The [[e/_environment|environment]] [[o/_outside|outside]] of [[e/_enclosed|enclosed]] structures.**
+- **([[o/_often|often]] [[p/_preceded|preceded]] by "the") The [[n/_natural|natural]] [[e/_environment|environment]] in the [[o/_open|open]] [[a/_air|air]], [[c/_countryside|countryside]] [[a/_away|away]] from [[c/_cities|cities]] and [[b/_buildings|buildings]].**
 	- _Example: She loves the outdoors._
 ---
 ### Synonyms

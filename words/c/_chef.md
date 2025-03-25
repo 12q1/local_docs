@@ -1,7 +1,7 @@
 # Chef
 ---
 #noun
-- **The presiding [[c/_cook|cook]] in the [[k/_kitchen|kitchen]] of a [[l/_large|large]] [[h/_household|household]].**
+- **The [[p/_presiding|presiding]] [[c/_cook|cook]] in the [[k/_kitchen|kitchen]] of a [[l/_large|large]] [[h/_household|household]].**
 - **The [[h/_head|head]] [[c/_cook|cook]] of a restaurant or [[o/_other|other]] [[e/_establishment|establishment]].**
 - **[[a/_any|Any]] [[c/_cook|cook]].**
 	- _Example: Kiss the chef. (slogan on aprons used by home barbecue enthusiasts)_
@@ -11,7 +11,7 @@
 ### Synonyms
 - [[m/_magirist|magirist]], [[m/_magirologist|magirologist]]
 #verb
-- **To work as a [[c/_chef|chef]]; to prepare and [[c/_cook|cook]] [[f/_food|food]] professionally.**
+- **To work as a [[c/_chef|chef]]; to [[p/_prepare|prepare]] and [[c/_cook|cook]] [[f/_food|food]] professionally.**
 - **To stab with a [[k/_knife|knife]], to shank, to [[l/_lacerate|lacerate]] with a rambo.**
 ---
 ---

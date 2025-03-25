@@ -1,7 +1,7 @@
 # Humpies
 ---
 #noun
-- **A pink salmon.**
+- **A [[p/_pink|pink]] salmon.**
 ---
 #noun
 - **A [[h/_hut|hut]] or temporary shelter [[m/_made|made]] from [[b/_bark|bark]] and tree [[b/_branches|branches]], [[e/_especially|especially]] for [[a/_aborigines|Aborigines]].**

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[l/_light|light]] of [[d/_dazzling|dazzling]] [[b/_brilliancy|brilliancy]].**
-- **Showy [[b/_brilliance|brilliance]] that [[m/_may|may]] stop a person from thinking [[c/_clearly|clearly]].**
+- **Showy [[b/_brilliance|brilliance]] that [[m/_may|may]] stop a [[p/_person|person]] from thinking [[c/_clearly|clearly]].**
 - **A [[h/_herd|herd]] of zebra.**
 - **[[d/_dazzle|Dazzle]] [[c/_camouflage|camouflage]].**
 ---

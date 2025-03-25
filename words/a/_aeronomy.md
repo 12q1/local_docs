@@ -1,6 +1,6 @@
 # Aeronomy
 ---
 #noun
-- **A [[b/_branch|branch]] of science that [[d/_deals|deals]] with the upper [[a/_atmosphere|atmosphere]] of the [[e/_earth|Earth]] and the [[o/_other|other]] planets with reference to their [[c/_chemical|chemical]] [[c/_composition|composition]], physical properties, relative [[m/_motion|motion]], and responses to radiation from space.**
+- **A [[b/_branch|branch]] of science that [[d/_deals|deals]] with the upper [[a/_atmosphere|atmosphere]] of the [[e/_earth|Earth]] and the [[o/_other|other]] [[p/_planets|planets]] with reference to their [[c/_chemical|chemical]] [[c/_composition|composition]], [[p/_physical|physical]] properties, relative [[m/_motion|motion]], and responses to radiation from space.**
 ---
 ---

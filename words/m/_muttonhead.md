@@ -1,6 +1,6 @@
 # Muttonhead
 ---
 #noun
-- **A stupid or [[f/_foolish|foolish]] person.**
+- **A stupid or [[f/_foolish|foolish]] [[p/_person|person]].**
 ---
 ---

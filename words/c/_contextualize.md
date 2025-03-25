@@ -1,6 +1,6 @@
 # Contextualize
 ---
 #verb
-- **To place something or someone in a particular [[c/_context|context]].**
+- **To [[p/_place|place]] something or someone in a [[p/_particular|particular]] [[c/_context|context]].**
 ---
 ---

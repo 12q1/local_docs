@@ -4,7 +4,7 @@
 - **A soldier [[f/_fit|fit]] for [[d/_duty|duty]]**
 ---
 #adjective
-- **[[h/_having|Having]] the power to produce a required [[e/_effect|effect]] or [[e/_effects|effects]].**
+- **[[h/_having|Having]] the [[p/_power|power]] to produce a required [[e/_effect|effect]] or [[e/_effects|effects]].**
 	- _Example: The pill is an effective method of birth control._
 - **Producing a [[d/_decided|decided]] or [[d/_decisive|decisive]] [[e/_effect|effect]].**
 	- _Example: The president delivered an effective speech!_

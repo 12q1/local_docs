@@ -9,7 +9,7 @@
 #adjective
 - **[[c/_capable|Capable]] of [[b/_being|being]] [[m/_moved|moved]], [[e/_especially|especially]] on wheels.**
 	- _Example: a mobile home_
-- **Pertaining to or by [[a/_agency|agency]] of [[m/_mobile|mobile]] phones.**
+- **[[p/_pertaining|Pertaining]] to or by [[a/_agency|agency]] of [[m/_mobile|mobile]] [[p/_phones|phones]].**
 	- _Example: mobile internet_
 - **[[c/_characterized|Characterized]] by an [[e/_extreme|extreme]] [[d/_degree|degree]] of [[f/_fluidity|fluidity]]; [[m/_moving|moving]] or [[f/_flowing|flowing]] with [[g/_great|great]] [[f/_freedom|freedom]].**
 	- _Example: Mercury is a mobile liquid._
@@ -23,7 +23,7 @@
 ### Antonyms
 - [[f/_fixed|fixed]], [[i/_immobile|immobile]], [[s/_sessile|sessile]], [[s/_stationary|stationary]]
 #noun
-- **A portable telephone that [[c/_connects|connects]] with the telephone [[n/_network|network]] [[o/_over|over]] radio wave transmission.**
+- **A [[p/_portable|portable]] telephone that [[c/_connects|connects]] with the telephone [[n/_network|network]] [[o/_over|over]] radio wave transmission.**
 ---
 ### Synonyms
 - [[c/_cell|cell]], [[c/_cellphone|cellphone]], [[c/_cellular|cellular]], [[h/_handphone|handphone]], [[m/_mobile|mobile]]

@@ -1,7 +1,7 @@
 # Below
 ---
 #adverb
-- **In a [[l/_lower|lower]] place.**
+- **In a [[l/_lower|lower]] [[p/_place|place]].**
 - **On a [[l/_lower|lower]] storey.**
 - **[[f/_further|Further]] [[d/_down|down]].**
 - **On a [[l/_lower|lower]] [[d/_deck|deck]].**
@@ -13,9 +13,9 @@
 ### Antonyms
 - [[u/_upwards|upwards]], [[a/_aloft|aloft]], [[o/_overhead|overhead]], [[u/_up|up]], [[u/_upstairs|upstairs]]
 #preposition
-- **[[l/_lower|Lower]] in spatial position than.**
+- **[[l/_lower|Lower]] in spatial [[p/_position|position]] than.**
 	- _Example: The treasure is buried two meters below the surface._
-- **Within the writing of a [[g/_given|given]] [[d/_document|document]] which [[f/_follows|follows]] a particular [[a/_appearance|appearance]] of the word "[[b/_below|below]]".**
+- **Within the writing of a [[g/_given|given]] [[d/_document|document]] which [[f/_follows|follows]] a [[p/_particular|particular]] [[a/_appearance|appearance]] of the word "[[b/_below|below]]".**
 	- _Example: "By their execution hereof, the Parties incur a legal obligation to pass consideration under this Loan Contract as is set forth below."_
 - **[[l/_lower|Lower]] in value, price, rank or [[c/_concentration|concentration]] than.**
 	- _Example: The temperature is below zero._

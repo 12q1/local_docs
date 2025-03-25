@@ -1,7 +1,7 @@
 # Lambskin
 ---
 #noun
-- **The skin of a very [[y/_young|young]] sheep, [[e/_especially|especially]] prepared with the [[f/_fleece|fleece]] still [[a/_attached|attached]]. A very [[f/_fine|fine]] [[f/_form|form]] of [[l/_leather|leather]].**
+- **The skin of a very [[y/_young|young]] sheep, [[e/_especially|especially]] [[p/_prepared|prepared]] with the [[f/_fleece|fleece]] still [[a/_attached|attached]]. A very [[f/_fine|fine]] [[f/_form|form]] of [[l/_leather|leather]].**
 - **A [[k/_kind|kind]] of woollen [[c/_cloth|cloth]] resembling this.**
 ---
 ---

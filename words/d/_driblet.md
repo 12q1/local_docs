@@ -1,7 +1,7 @@
 # Driblet
 ---
 #noun
-- **A small portion or part.**
-- **A small or petty sum.**
+- **A small [[p/_portion|portion]] or [[p/_part|part]].**
+- **A small or [[p/_petty|petty]] sum.**
 ---
 ---

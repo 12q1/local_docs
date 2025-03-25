@@ -8,6 +8,6 @@
 - **To [[c/_confuse|confuse]] or [[m/_mystify|mystify]]; [[o/_overwhelm|overwhelm]].**
 	- _Example: The oddities of quantum mechanics can boggle the minds of students and experienced physicists alike._
 - **To [[e/_embarrass|embarrass]] with [[d/_difficulties|difficulties]]; to [[p/_palter|palter]] or [[e/_equivocate|equivocate]]; to [[b/_bungle|bungle]] or [[b/_botch|botch]].**
-- **To [[d/_dissemble|dissemble]]; to play [[f/_fast|fast]] and [[l/_loose|loose]] (with someone or something).**
+- **To [[d/_dissemble|dissemble]]; to [[p/_play|play]] [[f/_fast|fast]] and [[l/_loose|loose]] (with someone or something).**
 ---
 ---

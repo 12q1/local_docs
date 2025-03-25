@@ -5,7 +5,7 @@
 - **A telecommunications [[f/_facilitator|facilitator]] whose [[j/_job|job]] is to [[e/_establish|establish]] temporary [[n/_network|network]] [[c/_connections|connections]].**
 - **A [[f/_function|function]] or [[o/_other|other]] [[m/_mapping|mapping]] that [[c/_carries|carries]] variables [[d/_defined|defined]] on a [[d/_domain|domain]] [[i/_into|into]] [[a/_another|another]] variable or set of variables in a [[d/_defined|defined]] range.**
 - **The [[g/_game|game]] of [[c/_chinese|Chinese]] whispers.**
-- **A person who is [[a/_adept|adept]] at [[m/_making|making]] [[d/_deals|deals]] or [[g/_getting|getting]] results, [[e/_especially|especially]] [[o/_one|one]] who uses questionable [[m/_methods|methods]].**
+- **A [[p/_person|person]] who is [[a/_adept|adept]] at [[m/_making|making]] [[d/_deals|deals]] or [[g/_getting|getting]] results, [[e/_especially|especially]] [[o/_one|one]] who uses questionable [[m/_methods|methods]].**
 - **A [[m/_member|member]] of a [[m/_military|military]] special [[o/_operations|operations]] unit.**
 - **The [[a/_administrator|administrator]] of a [[c/_channel|channel]] or [[n/_network|network]] on IRC.**
 - **A symbol that represents a [[c/_construct|construct]] in a programming [[l/_language|language]] and [[d/_differs|differs]] from a [[n/_normal|normal]] [[f/_function|function]] in [[i/_its|its]] syntax.**

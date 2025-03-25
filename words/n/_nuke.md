@@ -3,9 +3,9 @@
 #noun
 - **A [[n/_nuclear|nuclear]] weapon.**
 - **(by [[e/_extension|extension]]) Something that [[d/_destroys|destroys]] or [[n/_negates|negates]], [[e/_especially|especially]] on a [[c/_catastrophic|catastrophic]] scale.**
-- **A [[n/_nuclear|nuclear]] power station.**
-- **A vessel such as a ship or submarine running on [[n/_nuclear|nuclear]] power.**
-- **A person (such as a sailor in a [[n/_navy|navy]] or a scientist) who works with [[n/_nuclear|nuclear]] weapons or [[n/_nuclear|nuclear]] power.**
+- **A [[n/_nuclear|nuclear]] [[p/_power|power]] station.**
+- **A vessel such as a ship or submarine running on [[n/_nuclear|nuclear]] [[p/_power|power]].**
+- **A [[p/_person|person]] (such as a sailor in a [[n/_navy|navy]] or a scientist) who works with [[n/_nuclear|nuclear]] weapons or [[n/_nuclear|nuclear]] [[p/_power|power]].**
 - **A [[m/_microwave|microwave]] [[o/_oven|oven]].**
 	- _Example: Just put it in the nuke for two minutes and it will be ready to eat._
 ---

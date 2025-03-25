@@ -1,0 +1,6 @@
+# Pathy
+---
+#noun
+- **A therapy**
+---
+---

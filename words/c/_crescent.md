@@ -1,7 +1,7 @@
 # Crescent
 ---
 #noun
-- **The [[f/_figure|figure]] of the [[m/_moon|moon]] as it [[a/_appears|appears]] in [[i/_its|its]] [[f/_first|first]] or [[l/_last|last]] quarter, with [[c/_concave|concave]] and [[c/_convex|convex]] [[e/_edges|edges]] terminating in points.**
+- **The [[f/_figure|figure]] of the [[m/_moon|moon]] as it [[a/_appears|appears]] in [[i/_its|its]] [[f/_first|first]] or [[l/_last|last]] quarter, with [[c/_concave|concave]] and [[c/_convex|convex]] [[e/_edges|edges]] terminating in [[p/_points|points]].**
 - **Something shaped [[l/_like|like]] a [[c/_crescent|crescent]], [[e/_especially|especially]]:**
 - **A representation of the symbol used by [[i/_islamic|Islamic]] [[c/_caliphates|caliphates]]**
 - **A [[c/_crescent|crescent]] spanner.**

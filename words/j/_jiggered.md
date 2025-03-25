@@ -1,7 +1,7 @@
 # Jiggered
 ---
 #verb
-- **To [[a/_alter|alter]] or [[a/_adjust|adjust]], particularly in ways not [[o/_originally|originally]] [[i/_intended|intended]].**
+- **To [[a/_alter|alter]] or [[a/_adjust|adjust]], [[p/_particularly|particularly]] in ways not [[o/_originally|originally]] [[i/_intended|intended]].**
 	- _Example: You'll have to jigger it from the original specifications to get it to work._
 - **To use a [[j/_jigger|jigger]].**
 - **To [[m/_move|move]], send, or [[d/_drive|drive]] with a [[j/_jerk|jerk]]; to [[j/_jerk|jerk]]; [[a/_also|also]], to [[d/_drive|drive]] or send [[o/_over|over]] with a [[j/_jerk|jerk]], as a [[g/_golf|golf]] [[b/_ball|ball]].**

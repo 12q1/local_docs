@@ -12,6 +12,6 @@
 - **To [[c/_conduct|conduct]] [[o/_oneself|oneself]]; [[a/_act|act]]**
 ---
 #verb
-- **To perform the [[k/_kip|kip]] [[m/_maneuver|maneuver]].**
+- **To [[p/_perform|perform]] the [[k/_kip|kip]] [[m/_maneuver|maneuver]].**
 ---
 ---

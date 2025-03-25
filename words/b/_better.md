@@ -1,14 +1,14 @@
 # Better
 ---
 #noun
-- **An [[e/_entity|entity]], usually [[a/_animate|animate]], [[d/_deemed|deemed]] superior to [[a/_another|another]]; [[o/_one|one]] who [[h/_has|has]] a [[c/_claim|claim]] to precedence; a superior.**
+- **An [[e/_entity|entity]], usually [[a/_animate|animate]], [[d/_deemed|deemed]] superior to [[a/_another|another]]; [[o/_one|one]] who [[h/_has|has]] a [[c/_claim|claim]] to [[p/_precedence|precedence]]; a superior.**
 	- _Example: He quickly found Ali his better in the ring._
 ---
 #adjective
 - **[[g/_greater|Greater]] in [[a/_amount|amount]] or quantity**
 ---
 #adjective
-- **(of people)**
+- **(of [[p/_people|people]])**
 - **(of [[c/_capabilities|capabilities]])**
 - **(properties and qualities)**
 - **(when with and) Very, [[e/_extremely|extremely]]. See [[g/_good|good]] and.**

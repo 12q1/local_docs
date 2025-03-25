@@ -5,16 +5,16 @@
 - **The triad [[b/_built|built]] on the [[d/_dominant|dominant]] tone.**
 - **A [[g/_gene|gene]] that is [[d/_dominant|dominant]].**
 - **A species or [[o/_organism|organism]] that is [[d/_dominant|dominant]].**
-- **(BDSM) The [[d/_dominating|dominating]] partner in sadomasochistic sexual [[a/_activity|activity]].**
+- **(BDSM) The [[d/_dominating|dominating]] [[p/_partner|partner]] in sadomasochistic sexual [[a/_activity|activity]].**
 ---
 ### Synonyms
 - [[d/_dominator|dominator]]
 #adjective
 - **Ruling; [[g/_governing|governing]]; prevailing**
 	- _Example: The dominant party controlled the government._
-- **Predominant, [[c/_common|common]], prevalent, of [[g/_greatest|greatest]] [[i/_importance|importance]].**
+- **[[p/_predominant|Predominant]], [[c/_common|common]], prevalent, of [[g/_greatest|greatest]] [[i/_importance|importance]].**
 	- _Example: The dominant plants of the Carboniferous were lycopods and early conifers._
-- **[[d/_designating|Designating]] the [[f/_follicle|follicle]] which will survive [[a/_atresia|atresia]] and permit [[o/_ovulation|ovulation]].**
+- **[[d/_designating|Designating]] the [[f/_follicle|follicle]] which will survive [[a/_atresia|atresia]] and [[p/_permit|permit]] [[o/_ovulation|ovulation]].**
 ---
 ### Synonyms
 - [[p/_prevalent|prevalent]], [[i/_imposing|imposing]]

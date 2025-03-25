@@ -1,8 +1,8 @@
 # Newspapers
 ---
 #noun
-- **A publication, usually published [[d/_daily|daily]] or weekly and usually printed on [[c/_cheap|cheap]], [[l/_low|low]]-quality paper, [[c/_containing|containing]] [[n/_news|news]] and [[o/_other|other]] [[a/_articles|articles]].**
-- **A quantity of or [[o/_one|one]] of the types of paper on which [[n/_newspapers|newspapers]] are printed.**
+- **A publication, usually published [[d/_daily|daily]] or weekly and usually printed on [[c/_cheap|cheap]], [[l/_low|low]]-quality [[p/_paper|paper]], [[c/_containing|containing]] [[n/_news|news]] and [[o/_other|other]] [[a/_articles|articles]].**
+- **A quantity of or [[o/_one|one]] of the types of [[p/_paper|paper]] on which [[n/_newspapers|newspapers]] are printed.**
 ---
 ### Synonyms
 - [[d/_daily|daily]], [[p/_paper|paper]], [[r/_rag|rag]], [[n/_newsprint|newsprint]]

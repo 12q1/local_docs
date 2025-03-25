@@ -1,6 +1,6 @@
 # Foredooming
 ---
 #verb
-- **To predestine to a [[d/_doom|doom]].**
+- **To [[p/_predestine|predestine]] to a [[d/_doom|doom]].**
 ---
 ---

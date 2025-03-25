@@ -3,10 +3,10 @@
 #noun
 - **[[a/_any|Any]] small rodent of the [[g/_genus|genus]] [[m/_mus|Mus]].**
 - **A [[m/_member|member]] of the [[m/_many|many]] small rodent and [[m/_marsupial|marsupial]] species resembling such a rodent.**
-- **A quiet or shy person.**
-- **(plural [[m/_mice|mice]] or, rarely, [[m/_mouses|mouses]]) An [[i/_input|input]] [[d/_device|device]] that is [[m/_moved|moved]] [[o/_over|over]] a [[p/_pad|pad]] or [[o/_other|other]] [[f/_flat|flat]] surface to produce a [[c/_corresponding|corresponding]] [[m/_movement|movement]] of a pointer on a [[g/_graphical|graphical]] [[d/_display|display]].**
+- **A quiet or shy [[p/_person|person]].**
+- **([[p/_plural|plural]] [[m/_mice|mice]] or, rarely, [[m/_mouses|mouses]]) An [[i/_input|input]] [[d/_device|device]] that is [[m/_moved|moved]] [[o/_over|over]] a [[p/_pad|pad]] or [[o/_other|other]] [[f/_flat|flat]] surface to produce a [[c/_corresponding|corresponding]] [[m/_movement|movement]] of a [[p/_pointer|pointer]] on a [[g/_graphical|graphical]] [[d/_display|display]].**
 - **[[h/_hematoma|Hematoma]].**
-- **A turn or [[l/_lashing|lashing]] of spun [[y/_yarn|yarn]] or small stuff, or a [[m/_metallic|metallic]] [[c/_clasp|clasp]] or [[f/_fastening|fastening]], uniting the point and shank of a [[h/_hook|hook]] to prevent [[i/_its|its]] unhooking or straightening [[o/_out|out]].**
+- **A turn or [[l/_lashing|lashing]] of spun [[y/_yarn|yarn]] or small stuff, or a [[m/_metallic|metallic]] [[c/_clasp|clasp]] or [[f/_fastening|fastening]], uniting the [[p/_point|point]] and shank of a [[h/_hook|hook]] to prevent [[i/_its|its]] unhooking or straightening [[o/_out|out]].**
 - **A [[f/_familiar|familiar]] term of [[e/_endearment|endearment]].**
 - **A [[m/_match|match]] used in [[f/_firing|firing]] [[g/_guns|guns]] or [[b/_blasting|blasting]].**
 - **A small [[m/_model|model]] of (a [[f/_fragment|fragment]] of) Zermelo-Fraenkel set theory with [[d/_desirable|desirable]] properties ([[d/_depending|depending]] on the [[c/_context|context]]).**

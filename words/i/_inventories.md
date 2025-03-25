@@ -1,7 +1,7 @@
 # Inventories
 ---
 #noun
-- **([[o/_operations|operations]]) The stock of an [[i/_item|item]] on [[h/_hand|hand]] at a particular [[l/_location|location]] or [[b/_business|business]].**
+- **([[o/_operations|operations]]) The stock of an [[i/_item|item]] on [[h/_hand|hand]] at a [[p/_particular|particular]] [[l/_location|location]] or [[b/_business|business]].**
 	- _Example: Due to an undersized inventory at the Boston outlet, customers had to travel to Providence to find the item._
 - **([[o/_operations|operations]]) A [[d/_detailed|detailed]] [[l/_list|list]] of [[a/_all|all]] of the [[i/_items|items]] on [[h/_hand|hand]].**
 	- _Example: The inventory included several items that one wouldn't normally think to find at a cheese shop._

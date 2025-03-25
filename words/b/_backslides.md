@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[b/_backward|backward]] regression; a reverting [[b/_back|back]] to a worse state.**
-- **A [[d/_dance|dance]] [[m/_move|move]] in which the [[f/_feet|feet]] are [[a/_alternately|alternately]] slid [[b/_back|back]] and the [[h/_heels|heels]] [[l/_lifted|lifted]], [[g/_giving|giving]] the [[i/_illusion|illusion]] of walking [[f/_forwards|forwards]] while [[a/_actually|actually]] [[m/_moving|moving]] [[b/_backwards|backwards]]; [[l/_later|later]] popularly [[c/_called|called]] the [[m/_moonwalk|moonwalk]].**
+- **A [[d/_dance|dance]] [[m/_move|move]] in which the [[f/_feet|feet]] are [[a/_alternately|alternately]] slid [[b/_back|back]] and the [[h/_heels|heels]] [[l/_lifted|lifted]], [[g/_giving|giving]] the [[i/_illusion|illusion]] of walking [[f/_forwards|forwards]] while [[a/_actually|actually]] [[m/_moving|moving]] [[b/_backwards|backwards]]; [[l/_later|later]] [[p/_popularly|popularly]] [[c/_called|called]] the [[m/_moonwalk|moonwalk]].**
 ---
 #verb
 - **To regress; to slip [[b/_backwards|backwards]] or revert to a previous, worse state.**

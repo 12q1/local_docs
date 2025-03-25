@@ -5,7 +5,7 @@
 - **A rapid [[d/_descent|descent]] of a [[h/_hill|hill]] in related sports, [[e/_especially|especially]] in [[a/_alpine|alpine]] skiing.**
 ---
 #verb
-- **To take part in [[d/_downhill|downhill]] skiing.**
+- **To take [[p/_part|part]] in [[d/_downhill|downhill]] skiing.**
 ---
 #adjective
 - **[[l/_located|Located]] [[d/_down|down]] a slope or [[h/_hill|hill]].**

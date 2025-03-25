@@ -1,7 +1,7 @@
 # Meteorological
 ---
 #adjective
-- **Of or pertaining to [[m/_meteorology|meteorology]].**
+- **Of or [[p/_pertaining|pertaining]] to [[m/_meteorology|meteorology]].**
 	- _Example: The trip was postponed because the meteorological conditions were so bad._
 ---
 ### Synonyms

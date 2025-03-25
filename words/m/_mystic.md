@@ -1,7 +1,7 @@
 # Mystic
 ---
 #noun
-- **Someone who practices [[m/_mysticism|mysticism]].**
+- **Someone who [[p/_practices|practices]] [[m/_mysticism|mysticism]].**
 ---
 #adjective
 - **Of, or relating to [[m/_mystics|mystics]], [[m/_mysticism|mysticism]] or [[o/_occult|occult]] [[m/_mysteries|mysteries]]; [[m/_mystical|mystical]].**

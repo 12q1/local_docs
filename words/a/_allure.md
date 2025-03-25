@@ -1,7 +1,7 @@
 # Allure
 ---
 #noun
-- **The power to [[a/_attract|attract]], [[e/_entice|entice]]; the quality [[c/_causing|causing]] [[a/_attraction|attraction]].**
+- **The [[p/_power|power]] to [[a/_attract|attract]], [[e/_entice|entice]]; the quality [[c/_causing|causing]] [[a/_attraction|attraction]].**
 - **[[g/_gait|Gait]]; [[b/_bearing|bearing]]**
 ---
 #verb

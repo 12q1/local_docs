@@ -7,6 +7,6 @@
 - **A [[f/_film|film]] [[m/_made|made]] for use within an [[i/_industry|industry]], not for a [[m/_movie|movie]]-[[g/_going|going]] [[a/_audience|audience]].**
 - **[[i/_industrial|Industrial]] [[m/_music|music]].**
 	- _Example: I wish they'd play more industrial in this club._
-- **An [[i/_industrial|industrial]] piercing.**
+- **An [[i/_industrial|industrial]] [[p/_piercing|piercing]].**
 ---
 ---

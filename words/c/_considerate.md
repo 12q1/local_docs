@@ -12,7 +12,7 @@
 	- _Example: She sat there for a moment, considering him._
 - **To take up as an [[e/_example|example]].**
 	- _Example: Consider a triangle having three equal sides._
-- **(parliamentary procedure) To [[d/_debate|debate]] (or [[d/_dispose|dispose]] of) a [[m/_motion|motion]].**
+- **([[p/_parliamentary|parliamentary]] procedure) To [[d/_debate|debate]] (or [[d/_dispose|dispose]] of) a [[m/_motion|motion]].**
 	- _Example: This body will now consider the proposed amendments to Section 453 of the zoning code._
 - **To [[h/_have|have]] regard to; to take [[i/_into|into]] view or [[a/_account|account]]; to [[p/_pay|pay]] [[d/_due|due]] [[a/_attention|attention]] to; to respect.**
 	- _Example: He never seems to consider the feelings of others._
@@ -20,7 +20,7 @@
 ### Synonyms
 - [[b/_bethink|bethink]], [[d/_deliberate|deliberate]], [[b/_bethink|bethink]], [[r/_reflect|reflect]], [[b/_bethink|bethink]], [[d/_deem|deem]], [[r/_regard|regard]], [[o/_observe|observe]], [[r/_regard|regard]]
 #adjective
-- **[[c/_consciously|Consciously]] thoughtful and [[o/_observant|observant]] ([[o/_often|often]] of [[o/_other|other]] people); [[c/_caring|caring]]**
+- **[[c/_consciously|Consciously]] thoughtful and [[o/_observant|observant]] ([[o/_often|often]] of [[o/_other|other]] [[p/_people|people]]); [[c/_caring|caring]]**
 	- _Example: It was very considerate of you to give up your place for your friend._
 - **[[c/_characterised|Characterised]] by [[c/_careful|careful]] and [[c/_conscious|conscious]] thought; [[d/_deliberate|deliberate]]**
 ---

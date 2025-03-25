@@ -1,7 +1,7 @@
 # Kayak
 ---
 #noun
-- **A type of small [[b/_boat|boat]], [[c/_covered|covered]] [[o/_over|over]] by a surface [[d/_deck|deck]], powered by the [[o/_occupant|occupant]] or [[o/_occupants|occupants]] using a [[d/_double|double]]-[[b/_bladed|bladed]] [[p/_paddle|paddle]] in a sitting position, from a [[h/_hole|hole]] in the surface [[d/_deck|deck]]**
+- **A type of small [[b/_boat|boat]], [[c/_covered|covered]] [[o/_over|over]] by a surface [[d/_deck|deck]], [[p/_powered|powered]] by the [[o/_occupant|occupant]] or [[o/_occupants|occupants]] using a [[d/_double|double]]-[[b/_bladed|bladed]] [[p/_paddle|paddle]] in a sitting [[p/_position|position]], from a [[h/_hole|hole]] in the surface [[d/_deck|deck]]**
 ---
 #verb
 - **To use a [[k/_kayak|kayak]], to travel or race in a [[k/_kayak|kayak]].**

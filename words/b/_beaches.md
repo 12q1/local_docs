@@ -1,9 +1,9 @@
 # Beaches
 ---
 #noun
-- **The shore of a [[b/_body|body]] of water, [[e/_especially|especially]] when sandy or pebbly.**
+- **The shore of a [[b/_body|body]] of water, [[e/_especially|especially]] when sandy or [[p/_pebbly|pebbly]].**
 - **A [[h/_horizontal|horizontal]] strip of [[l/_land|land]], usually sandy, [[a/_adjoining|adjoining]] water.**
-- **The [[l/_loose|loose]] pebbles of the seashore, [[e/_especially|especially]] worn by waves; shingle.**
+- **The [[l/_loose|loose]] [[p/_pebbles|pebbles]] of the seashore, [[e/_especially|especially]] worn by waves; shingle.**
 ---
 ### Synonyms
 - [[b/_backshore|backshore]], [[s/_sand|sand]], [[s/_strand|strand]]

@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[i/_idea|idea]] or [[c/_communication|communication]] that [[m/_makes|makes]] [[o/_one|one]] want to [[a/_act|act]], [[e/_especially|especially]] from spiritual sources; a [[d/_divine|divine]] prompting.**
-- **An [[i/_incentive|incentive]] to [[a/_act|act]] in a particular way; a reason or [[e/_emotion|emotion]] that [[m/_makes|makes]] [[o/_one|one]] want to [[d/_do|do]] something; [[a/_anything|anything]] that prompts a [[c/_choice|choice]] of [[a/_action|action]].**
+- **An [[i/_incentive|incentive]] to [[a/_act|act]] in a [[p/_particular|particular]] way; a reason or [[e/_emotion|emotion]] that [[m/_makes|makes]] [[o/_one|one]] want to [[d/_do|do]] something; [[a/_anything|anything]] that prompts a [[c/_choice|choice]] of [[a/_action|action]].**
 - **A [[l/_limb|limb]] or [[o/_other|other]] [[b/_bodily|bodily]] [[o/_organ|organ]] that [[c/_can|can]] [[m/_move|move]].**
 - **Something which [[c/_causes|causes]] someone to want to [[c/_commit|commit]] a [[c/_crime|crime]]; a reason for [[c/_criminal|criminal]] [[b/_behaviour|behaviour]].**
 	- _Example: No-one could understand why she had hidden the shovel; her motives were obscure at best._
@@ -18,7 +18,7 @@
 ### Synonyms
 - [[m/_motivate|motivate]]
 #adjective
-- **[[c/_causing|Causing]] [[m/_motion|motion]]; [[h/_having|having]] power to [[m/_move|move]], or tending to [[m/_move|move]]**
+- **[[c/_causing|Causing]] [[m/_motion|motion]]; [[h/_having|having]] [[p/_power|power]] to [[m/_move|move]], or tending to [[m/_move|move]]**
 	- _Example: a motive argument_
 - **Relating to [[m/_motion|motion]] and/or to [[i/_its|its]] [[c/_cause|cause]]**
 ---

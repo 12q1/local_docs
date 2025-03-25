@@ -1,6 +1,6 @@
 # Glissading
 ---
 #verb
-- **To perform a [[g/_glissade|glissade]].**
+- **To [[p/_perform|perform]] a [[g/_glissade|glissade]].**
 ---
 ---

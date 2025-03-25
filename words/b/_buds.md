@@ -7,10 +7,10 @@
 	- _Example: breast buds_
 - **A small rounded [[b/_body|body]] in the process of splitting from an [[o/_organism|organism]], which [[m/_may|may]] [[g/_grow|grow]] [[i/_into|into]] a [[g/_genetically|genetically]] [[i/_identical|identical]] [[n/_new|new]] [[o/_organism|organism]].**
 	- _Example: In this slide, you can see a yeast cell forming buds._
-- **(usually uncountable) Potent [[c/_cannabis|cannabis]] taken from the [[f/_flowering|flowering]] part of the plant (the “[[b/_bud|bud]]”), or [[m/_marijuana|marijuana]] [[g/_generally|generally]].**
+- **(usually uncountable) [[p/_potent|Potent]] [[c/_cannabis|cannabis]] taken from the [[f/_flowering|flowering]] [[p/_part|part]] of the [[p/_plant|plant]] (the “[[b/_bud|bud]]”), or [[m/_marijuana|marijuana]] [[g/_generally|generally]].**
 	- _Example: Hey bro, want to smoke some bud?_
 - **A weaned [[c/_calf|calf]] in [[i/_its|its]] [[f/_first|first]] [[y/_year|year]], so [[c/_called|called]] [[b/_because|because]] the [[h/_horns|horns]] are then [[b/_beginning|beginning]] to [[b/_bud|bud]].**
-- **(term of [[e/_endearment|endearment]]) A pretty [[y/_young|young]] [[g/_girl|girl]].**
+- **(term of [[e/_endearment|endearment]]) A [[p/_pretty|pretty]] [[y/_young|young]] [[g/_girl|girl]].**
 ---
 ### Synonyms
 - [[b/_budset|budset]], [[m/_marijuana|marijuana]], [[n/_nug|nug]]

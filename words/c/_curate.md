@@ -2,6 +2,6 @@
 ---
 #noun
 - **An [[a/_assistant|assistant]] rector or vicar.**
-- **A parish priest.**
+- **A [[p/_parish|parish]] priest.**
 ---
 ---

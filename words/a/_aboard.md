@@ -13,7 +13,7 @@
 	- _Example: The captain laid his ship aboard the enemy's ship._
 ---
 #preposition
-- **On [[b/_board|board]] of; [[o/_onto|onto]] or [[i/_into|into]] a ship, [[b/_boat|boat]], train, plane.**
+- **On [[b/_board|board]] of; [[o/_onto|onto]] or [[i/_into|into]] a ship, [[b/_boat|boat]], train, [[p/_plane|plane]].**
 	- _Example: We all went aboard the ship._
 - **[[o/_onto|Onto]] a [[h/_horse|horse]].**
 - **[[a/_across|Across]]; [[a/_athwart|athwart]]; [[a/_alongside|alongside]].**

@@ -6,9 +6,9 @@
 - **[[l/_loved|Loved]]; [[l/_lovable|lovable]].**
 - **[[l/_loving|Loving]], [[a/_affectionate|affectionate]], [[h/_heartfelt|heartfelt]]**
 	- _Example: Such dear embrace tenderly comforts even in this dear sorrow._
-- **Precious to or [[g/_greatly|greatly]] valued by someone.**
+- **[[p/_precious|Precious]] to or [[g/_greatly|greatly]] valued by someone.**
 	- _Example: The dearer the giver, the dearer the trinket he brings!_
-- **A [[f/_formal|formal]] way to start (possibly [[a/_after|after]] [[m/_my|my]]) [[a/_addressing|addressing]] somebody at the [[b/_beginning|beginning]] of a [[l/_letter|letter]], [[m/_memo|memo]] [[e/_etc|etc]].**
+- **A [[f/_formal|formal]] way to start ([[p/_possibly|possibly]] [[a/_after|after]] [[m/_my|my]]) [[a/_addressing|addressing]] somebody at the [[b/_beginning|beginning]] of a [[l/_letter|letter]], [[m/_memo|memo]] [[e/_etc|etc]].**
 	- _Example: Dear Sir/Madam/Miss, please notice our offices will be closed during the following bank holidays: [...]._
 - **A [[f/_formal|formal]] way to start ([[o/_often|often]] [[a/_after|after]] [[m/_my|my]]) [[a/_addressing|addressing]] somebody [[o/_one|one]] [[l/_likes|likes]] or regards [[k/_kindly|kindly]].**
 	- _Example: My dear friend, I feel better as soon as you come sit beside my sickbed!_

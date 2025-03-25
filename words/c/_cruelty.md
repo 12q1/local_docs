@@ -1,7 +1,7 @@
 # Cruelty
 ---
 #noun
-- **An [[i/_indifference|indifference]] to suffering or pleasure in [[i/_inflicting|inflicting]] suffering.**
+- **An [[i/_indifference|indifference]] to suffering or [[p/_pleasure|pleasure]] in [[i/_inflicting|inflicting]] suffering.**
 - **A [[c/_cruel|cruel]] [[a/_act|act]].**
 ---
 ### Synonyms

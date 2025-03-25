@@ -1,7 +1,7 @@
 # Grommets
 ---
 #noun
-- **A reinforced [[e/_eyelet|eyelet]], or a small [[m/_metal|metal]] or plastic ring used to reinforce an [[e/_eyelet|eyelet]].**
+- **A reinforced [[e/_eyelet|eyelet]], or a small [[m/_metal|metal]] or [[p/_plastic|plastic]] ring used to reinforce an [[e/_eyelet|eyelet]].**
 - **A ring [[f/_formed|formed]] of a single strand of rope, [[l/_laid|laid]] in three times round, [[f/_fastening|fastening]] the upper [[e/_edge|edge]] of a sail to [[i/_its|its]] stay.**
 - **([[f/_flags|flags]]) An [[e/_eyelet|eyelet]] at the [[h/_hoist|hoist]] [[e/_end|end]] of a [[f/_flag|flag]], used to [[f/_fasten|fasten]] the [[f/_flag|flag]] to [[i/_its|its]] [[h/_halyard|halyard]].**
 - **A [[y/_young|young]] or [[i/_inexperienced|inexperienced]] surfer, skateboarder or snowboarder.**

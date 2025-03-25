@@ -5,10 +5,10 @@
 	- _Example: There is a flock of geese on the pond._
 - **A [[f/_female|female]] [[g/_goose|goose]] (sense 1).**
 - **The [[f/_flesh|flesh]] of the [[g/_goose|goose]] used as [[f/_food|food]].**
-- **A silly person.**
-- **A tailor's [[i/_iron|iron]], [[h/_heated|heated]] in [[l/_live|live]] [[c/_coals|coals]] or [[e/_embers|embers]], used to press [[f/_fabrics|fabrics]].**
+- **A silly [[p/_person|person]].**
+- **A tailor's [[i/_iron|iron]], [[h/_heated|heated]] in [[l/_live|live]] [[c/_coals|coals]] or [[e/_embers|embers]], used to [[p/_press|press]] [[f/_fabrics|fabrics]].**
 - **A [[y/_young|young]] woman or [[g/_girlfriend|girlfriend]].**
-- **An [[o/_old|old]] [[e/_english|English]] [[b/_board|board]] [[g/_game|game]] in which players [[m/_moved|moved]] [[c/_counters|counters]] [[a/_along|along]] a [[b/_board|board]], [[e/_earning|earning]] a [[d/_double|double]] [[m/_move|move]] when they reached the picture of a [[g/_goose|goose]].**
+- **An [[o/_old|old]] [[e/_english|English]] [[b/_board|board]] [[g/_game|game]] in which [[p/_players|players]] [[m/_moved|moved]] [[c/_counters|counters]] [[a/_along|along]] a [[b/_board|board]], [[e/_earning|earning]] a [[d/_double|double]] [[m/_move|move]] when they reached the [[p/_picture|picture]] of a [[g/_goose|goose]].**
 ---
 ### Synonyms
 - 

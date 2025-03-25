@@ -1,7 +1,7 @@
 # Barring
 ---
 #verb
-- **To [[o/_obstruct|obstruct]] the passage of (someone or something).**
+- **To [[o/_obstruct|obstruct]] the [[p/_passage|passage]] of (someone or something).**
 	- _Example: Our way was barred by a huge rockfall._
 - **To prohibit.**
 	- _Example: I couldn't get into the nightclub because I had been barred._
@@ -12,7 +12,7 @@
 ### Synonyms
 - [[b/_block|block]], [[h/_hinder|hinder]], [[o/_obstruct|obstruct]], [[b/_ban|ban]], [[i/_interdict|interdict]], [[p/_prohibit|prohibit]]
 #noun
-- **([[c/_collective|collective]]) [[b/_bars|Bars]]; an [[a/_arrangement|arrangement]] or pattern of stripes or [[b/_bars|bars]].**
+- **([[c/_collective|collective]]) [[b/_bars|Bars]]; an [[a/_arrangement|arrangement]] or [[p/_pattern|pattern]] of stripes or [[b/_bars|bars]].**
 - **The [[a/_act|act]] of [[f/_fitting|fitting]] or [[c/_closing|closing]] something with [[b/_bars|bars]].**
 - **The [[e/_exclusion|exclusion]] of someone; [[b/_blackballing|blackballing]].**
 - **Timber used for supporting the roof or sides of shafts.**

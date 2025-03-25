@@ -5,7 +5,7 @@
 - **[[e/_especially|Especially]] in [[h/_hummel|hummel]] [[c/_corn|corn]]: [[g/_grain|grain]] that [[l/_lacks|lacks]] [[a/_awns|awns]] ([[b/_beards|beards]] or [[b/_bristles|bristles]]), or [[h/_has|has]] [[h/_had|had]] [[i/_its|its]] [[a/_awns|awns]] removed ([[b/_barley|barley]], [[o/_oats|oats]], [[e/_etc|etc]].).**
 ---
 #verb
-- **Of an [[a/_animal|animal]]: to remove the [[h/_horns|horns]]; to poll.**
+- **Of an [[a/_animal|animal]]: to remove the [[h/_horns|horns]]; to [[p/_poll|poll]].**
 - **To separate ([[b/_barley|barley]], [[o/_oats|oats]], [[e/_etc|etc]].) from the [[a/_awns|awns]].**
 ---
 ### Synonyms

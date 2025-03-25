@@ -1,6 +1,6 @@
 # Nociceptive
 ---
 #adjective
-- **Relating to the perception or sensation of [[p/_pain|pain]].**
+- **Relating to the [[p/_perception|perception]] or sensation of [[p/_pain|pain]].**
 ---
 ---

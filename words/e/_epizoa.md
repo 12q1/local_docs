@@ -1,6 +1,6 @@
 # Epizoa
 ---
 #noun
-- **An [[e/_external|external]] [[a/_animal|animal]] parasite.**
+- **An [[e/_external|external]] [[a/_animal|animal]] [[p/_parasite|parasite]].**
 ---
 ---

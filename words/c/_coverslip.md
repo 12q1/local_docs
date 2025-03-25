@@ -1,7 +1,7 @@
 # Coverslip
 ---
 #noun
-- **A thin [[g/_glass|glass]] plate used to [[c/_cover|cover]] samples [[m/_mounted|mounted]] on a [[m/_microscope|microscope]] slide.**
+- **A thin [[g/_glass|glass]] [[p/_plate|plate]] used to [[c/_cover|cover]] samples [[m/_mounted|mounted]] on a [[m/_microscope|microscope]] slide.**
 ---
 ### Synonyms
 - [[c/_coverglass|coverglass]]

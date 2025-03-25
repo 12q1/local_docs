@@ -5,7 +5,7 @@
 ---
 #adjective
 - **([[o/_often|often]] [[f/_followed|followed]] by of) Unable to [[c/_contain|contain]] or retain.**
-- **Plagued by [[i/_incontinence|incontinence]]; [[l/_lacking|lacking]] the [[a/_ability|ability]] to restrain [[n/_natural|natural]] [[d/_discharges|discharges]] or [[e/_evacuations|evacuations]] of urination or [[d/_defecation|defecation]].**
+- **[[p/_plagued|Plagued]] by [[i/_incontinence|incontinence]]; [[l/_lacking|lacking]] the [[a/_ability|ability]] to restrain [[n/_natural|natural]] [[d/_discharges|discharges]] or [[e/_evacuations|evacuations]] of urination or [[d/_defecation|defecation]].**
 - **[[l/_lacking|Lacking]] [[m/_moral|moral]] or sexual restraint, [[m/_moderation|moderation]] or self-[[c/_control|control]], [[e/_especially|especially]] of sexual [[d/_desire|desire]].**
 - **Unrestrained or unceasing.**
 	- _Example: an incontinent river of pure water_

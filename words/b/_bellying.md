@@ -1,7 +1,7 @@
 # Bellying
 ---
 #verb
-- **To position [[o/_one|one]]’s [[b/_belly|belly]]; to [[m/_move|move]] on [[o/_one|one]]’s [[b/_belly|belly]].**
+- **To [[p/_position|position]] [[o/_one|one]]’s [[b/_belly|belly]]; to [[m/_move|move]] on [[o/_one|one]]’s [[b/_belly|belly]].**
 - **To swell and [[b/_become|become]] protuberant; to [[b/_bulge|bulge]] or [[b/_billow|billow]].**
 - **To [[c/_cause|cause]] to swell [[o/_out|out]]; to [[f/_fill|fill]].**
 ---

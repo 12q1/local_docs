@@ -1,9 +1,9 @@
 # Monitors
 ---
 #noun
-- **Someone who watches [[o/_over|over]] something; a person in [[c/_charge|charge]] of something or someone.**
+- **Someone who watches [[o/_over|over]] something; a [[p/_person|person]] in [[c/_charge|charge]] of something or someone.**
 	- _Example: The camp monitors look after the children during the night, when the teachers are asleep._
-- **A [[d/_device|device]] that [[d/_detects|detects]] and [[i/_informs|informs]] on the presence, quantity, [[e/_etc|etc]]., of something.**
+- **A [[d/_device|device]] that [[d/_detects|detects]] and [[i/_informs|informs]] on the [[p/_presence|presence]], quantity, [[e/_etc|etc]]., of something.**
 - **A [[d/_device|device]] similar to a television set used as to [[g/_give|give]] a [[g/_graphical|graphical]] [[d/_display|display]] of the [[o/_output|output]] from a [[c/_computer|computer]].**
 	- _Example: The information flashed up on the monitor._
 - **A studio [[m/_monitor|monitor]] or [[l/_loudspeaker|loudspeaker]].**
@@ -14,7 +14,7 @@
 - **An [[i/_ironclad|ironclad]].**
 - **A [[m/_monitor|monitor]] [[l/_lizard|lizard]].**
 - **[[o/_one|One]] who [[a/_admonishes|admonishes]]; [[o/_one|one]] who warns of [[f/_faults|faults]], [[i/_informs|informs]] of [[d/_duty|duty]], or [[g/_gives|gives]] [[a/_advice|advice]] and [[i/_instruction|instruction]] by way of reproof or [[c/_caution|caution]].**
-- **A tool [[h/_holder|holder]], as for a [[l/_lathe|lathe]], shaped [[l/_like|like]] a [[l/_low|low]] turret, and [[c/_capable|capable]] of [[b/_being|being]] revolved on a vertical pivot so as to [[b/_bring|bring]] the several tools successively [[i/_into|into]] position.**
+- **A tool [[h/_holder|holder]], as for a [[l/_lathe|lathe]], shaped [[l/_like|like]] a [[l/_low|low]] turret, and [[c/_capable|capable]] of [[b/_being|being]] revolved on a vertical [[p/_pivot|pivot]] so as to [[b/_bring|bring]] the several tools successively [[i/_into|into]] [[p/_position|position]].**
 - **A [[m/_monitor|monitor]] [[n/_nozzle|nozzle]].**
 ---
 #verb

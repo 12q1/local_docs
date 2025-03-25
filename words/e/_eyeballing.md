@@ -1,7 +1,7 @@
 # Eyeballing
 ---
 #verb
-- **To [[g/_gauge|gauge]], [[e/_estimate|estimate]] or [[j/_judge|judge]] by [[e/_eye|eye]], rather than [[m/_measuring|measuring]] precisely; to [[l/_look|look]] or [[g/_glance|glance]] at.**
+- **To [[g/_gauge|gauge]], [[e/_estimate|estimate]] or [[j/_judge|judge]] by [[e/_eye|eye]], rather than [[m/_measuring|measuring]] [[p/_precisely|precisely]]; to [[l/_look|look]] or [[g/_glance|glance]] at.**
 	- _Example: A good cook can often just eyeball the correct quantities of ingredients._
 - **To scrutinize**
 - **To stare at [[i/_intently|intently]]**
@@ -10,6 +10,6 @@
 ---
 #noun
 - **An [[a/_act|act]] of staring or [[o/_ogling|ogling]].**
-- **The practice of pouring vodka through the [[e/_eye|eye]] socket, [[f/_falsely|falsely]] [[c/_claimed|claimed]] to [[i/_increase|increase]] the rate of [[a/_alcohol|alcohol]] [[a/_absorption|absorption]].**
+- **The [[p/_practice|practice]] of [[p/_pouring|pouring]] vodka through the [[e/_eye|eye]] socket, [[f/_falsely|falsely]] [[c/_claimed|claimed]] to [[i/_increase|increase]] the rate of [[a/_alcohol|alcohol]] [[a/_absorption|absorption]].**
 ---
 ---

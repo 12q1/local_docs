@@ -15,7 +15,7 @@
 - **[[e/_empty|Empty]], vacant.**
 - **Not [[b/_being|being]] used [[a/_appropriately|appropriately]]; not [[o/_occupied|occupied]]; (of time) with [[n/_no|no]], [[n/_no|no]] [[i/_important|important]], or not [[m/_much|much]] [[a/_activity|activity]].**
 	- _Example: My computer hibernates after it has been idle for 30 minutes._
-- **Not [[e/_engaged|engaged]] in [[a/_any|any]] [[o/_occupation|occupation]] or [[e/_employment|employment]]; unemployed; [[i/_inactive|inactive]]; [[d/_doing|doing]] [[n/_nothing|nothing]] in particular.**
+- **Not [[e/_engaged|engaged]] in [[a/_any|any]] [[o/_occupation|occupation]] or [[e/_employment|employment]]; unemployed; [[i/_inactive|inactive]]; [[d/_doing|doing]] [[n/_nothing|nothing]] in [[p/_particular|particular]].**
 	- _Example: idle workmen_
 - **[[a/_averse|Averse]] to work, [[l/_labor|labor]] or [[e/_employment|employment]]; [[l/_lazy|lazy]]; slothful.**
 	- _Example: an idle fellow_

@@ -7,8 +7,8 @@
 - **Wasted [[m/_money|money]].**
 - **A smash.**
 - **The [[c/_ceiling|ceiling]] of [[a/_any|any]] [[e/_enclosed|enclosed]] space [[b/_below|below]] [[d/_decks|decks]] in a vessel.**
-- **A [[c/_compartment|compartment]] [[a/_above|above]] the seats for stowing [[l/_luggage|luggage]] in a passenger [[a/_aircraft|aircraft]].**
-- **The system of [[o/_overhead|overhead]] wires used to power [[e/_electric|electric]] transport, such as streetcars, trains, or [[b/_buses|buses]].**
+- **A [[c/_compartment|compartment]] [[a/_above|above]] the seats for stowing [[l/_luggage|luggage]] in a [[p/_passenger|passenger]] [[a/_aircraft|aircraft]].**
+- **The system of [[o/_overhead|overhead]] wires used to [[p/_power|power]] [[e/_electric|electric]] transport, such as streetcars, trains, or [[b/_buses|buses]].**
 - **[[d/_data|Data]] or steps of [[c/_computation|computation]] used [[o/_only|only]] to [[f/_facilitate|facilitate]] the [[c/_computations|computations]] in the system and not [[d/_directly|directly]] related to the [[a/_actual|actual]] program [[c/_code|code]] or [[d/_data|data]] [[b/_being|being]] processed.**
 	- _Example: Network overhead is the header data that is required to route and transport data over network, whereas fork overhead is the additional time and memory cost of creating and managing new processes within operating system._
 - **(by [[e/_ellipsis|ellipsis]]) An [[o/_overhead|overhead]] throw.**

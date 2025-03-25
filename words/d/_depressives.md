@@ -1,6 +1,6 @@
 # Depressives
 ---
 #noun
-- **A person suffering from [[d/_depression|depression]].**
+- **A [[p/_person|person]] suffering from [[d/_depression|depression]].**
 ---
 ---

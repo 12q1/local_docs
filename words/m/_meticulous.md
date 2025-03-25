@@ -1,7 +1,7 @@
 # Meticulous
 ---
 #adjective
-- **[[c/_characterized|Characterized]] by very precise, [[c/_conscientious|conscientious]] [[a/_attention|attention]] to [[d/_details|details]].**
+- **[[c/_characterized|Characterized]] by very [[p/_precise|precise]], [[c/_conscientious|conscientious]] [[a/_attention|attention]] to [[d/_details|details]].**
 - **Timid, [[f/_fearful|fearful]], [[o/_overly|overly]] [[c/_cautious|cautious]].**
 ---
 ### Synonyms

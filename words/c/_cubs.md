@@ -1,7 +1,7 @@
 # Cubs
 ---
 #noun
-- **A person who is unsophisticated or of a [[l/_lower|lower]] [[c/_class|class]] [[b/_background|background]] but [[a/_achieving|achieving]] a [[h/_high|high]] salary, who spends [[m/_money|money]] on [[f/_flashy|flashy]] or trashy [[i/_items|items]] to [[f/_fulfil|fulfil]] their [[a/_aspirations|aspirations]] of [[h/_higher|higher]] social status. The stereotype [[i/_includes|includes]] [[h/_having|having]] speech and [[m/_mannerisms|mannerisms]] that are [[c/_considered|considered]] to [[d/_denote|denote]] poor [[e/_education|education]] and uncultured upbringing, which is reflected in their [[b/_bad|bad]] taste possessions and [[l/_lifestyles|lifestyles]].**
+- **A [[p/_person|person]] who is unsophisticated or of a [[l/_lower|lower]] [[c/_class|class]] [[b/_background|background]] but [[a/_achieving|achieving]] a [[h/_high|high]] salary, who spends [[m/_money|money]] on [[f/_flashy|flashy]] or trashy [[i/_items|items]] to [[f/_fulfil|fulfil]] their [[a/_aspirations|aspirations]] of [[h/_higher|higher]] social status. The stereotype [[i/_includes|includes]] [[h/_having|having]] speech and [[m/_mannerisms|mannerisms]] that are [[c/_considered|considered]] to [[d/_denote|denote]] [[p/_poor|poor]] [[e/_education|education]] and uncultured upbringing, which is reflected in their [[b/_bad|bad]] taste [[p/_possessions|possessions]] and [[l/_lifestyles|lifestyles]].**
 ---
 #noun
 - **A [[y/_young|young]] [[f/_fox|fox]].**

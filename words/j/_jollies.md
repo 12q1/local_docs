@@ -1,7 +1,7 @@
 # Jollies
 ---
 #noun
-- **A pleasure trip or [[e/_excursion|excursion]].**
+- **A [[p/_pleasure|pleasure]] trip or [[e/_excursion|excursion]].**
 - **A [[m/_marine|marine]] in the [[e/_english|English]] [[n/_navy|navy]].**
 ---
 ### Synonyms

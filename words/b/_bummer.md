@@ -3,6 +3,6 @@
 #noun
 - **A [[f/_forager|forager]], [[e/_especially|especially]] in Sherman's [[m/_march|March]] to the Sea of [[n/_november|November]] to [[d/_december|December]] 1864.**
 - **An [[i/_idle|idle]], worthless [[f/_fellow|fellow]], without [[a/_any|any]] visible [[m/_means|means]] of support; a [[d/_dissipated|dissipated]] sponger.**
-- **A [[l/_lamb|lamb]] (typically the smallest of a [[m/_multiple|multiple]] [[b/_birth|birth]]) which [[h/_has|has]] [[b/_been|been]] [[a/_abandoned|abandoned]] by [[i/_its|its]] [[m/_mother|mother]] or [[o/_orphaned|orphaned]], and as a [[c/_consequence|consequence]] is raised in part or in whole by [[h/_humans|humans]].**
+- **A [[l/_lamb|lamb]] (typically the smallest of a [[m/_multiple|multiple]] [[b/_birth|birth]]) which [[h/_has|has]] [[b/_been|been]] [[a/_abandoned|abandoned]] by [[i/_its|its]] [[m/_mother|mother]] or [[o/_orphaned|orphaned]], and as a [[c/_consequence|consequence]] is raised in [[p/_part|part]] or in whole by [[h/_humans|humans]].**
 ---
 ---

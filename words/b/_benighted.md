@@ -1,13 +1,13 @@
 # Benighted
 ---
 #verb
-- **([[c/_chiefly|chiefly]] in passive) To [[o/_overtake|overtake]] (a traveller [[e/_etc|etc]]) with the [[d/_darkness|darkness]] of [[n/_night|night]], [[e/_especially|especially]] [[b/_before|before]] shelter is reached.**
+- **([[c/_chiefly|chiefly]] in [[p/_passive|passive]]) To [[o/_overtake|overtake]] (a traveller [[e/_etc|etc]]) with the [[d/_darkness|darkness]] of [[n/_night|night]], [[e/_especially|especially]] [[b/_before|before]] shelter is reached.**
 - **To [[d/_darken|darken]]; to shroud or [[o/_obscure|obscure]].**
-- **To plunge or be [[o/_overwhelmed|overwhelmed]] in [[m/_moral|moral]] or [[i/_intellectual|intellectual]] [[d/_darkness|darkness]].**
+- **To [[p/_plunge|plunge]] or be [[o/_overwhelmed|overwhelmed]] in [[m/_moral|moral]] or [[i/_intellectual|intellectual]] [[d/_darkness|darkness]].**
 ---
 #adjective
 - **[[o/_overtaken|Overtaken]] by [[n/_night|night]]; [[e/_especially|especially]] of a traveller, [[e/_etc|etc]].: [[c/_caught|caught]] [[o/_out|out]] by [[o/_oncoming|oncoming]] [[n/_night|night]] [[b/_before|before]] reaching [[o/_one|one]]'s [[d/_destination|destination]].**
-- **Plunged [[i/_into|into]] [[d/_darkness|darkness]].**
+- **[[p/_plunged|Plunged]] [[i/_into|into]] [[d/_darkness|darkness]].**
 - **[[l/_lacking|Lacking]] [[e/_education|education]] or [[k/_knowledge|knowledge]]; unenlightened; [[a/_also|also]], [[l/_lacking|lacking]] [[m/_morality|morality]]; [[i/_immoral|immoral]], unscrupulous.**
 - **[[d/_difficult|Difficult]] to understand; [[a/_abstruse|abstruse]], [[o/_obscure|obscure]].**
 ---

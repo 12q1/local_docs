@@ -9,7 +9,7 @@
 - [[i/_isolate|isolate]]
 #adjective
 - **Protected from [[h/_heat|heat]], [[c/_cold|cold]], [[n/_noise|noise]] [[e/_etc|etc]], by [[b/_being|being]] surrounded with an [[i/_insulating|insulating]] [[m/_material|material]].**
-- **Placed or set [[a/_apart|apart]].**
+- **[[p/_placed|Placed]] or set [[a/_apart|apart]].**
 	- _Example: an insulated house or column_
 - **(of an [[e/_electrically|electrically]] [[c/_conducting|conducting]] [[m/_material|material]]) [[i/_isolated|Isolated]] or separated from [[o/_other|other]] [[c/_conducting|conducting]] [[m/_materials|materials]], or sources of [[e/_electricity|electricity]].**
 	- _Example: Early insulated wires were covered in silk rather than plastic._

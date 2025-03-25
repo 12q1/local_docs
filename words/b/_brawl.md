@@ -1,7 +1,7 @@
 # Brawl
 ---
 #noun
-- **A [[d/_disorderly|disorderly]] [[a/_argument|argument]] or [[f/_fight|fight]], usually with a [[l/_large|large]] [[n/_number|number]] of people [[i/_involved|involved]].**
+- **A [[d/_disorderly|disorderly]] [[a/_argument|argument]] or [[f/_fight|fight]], usually with a [[l/_large|large]] [[n/_number|number]] of [[p/_people|people]] [[i/_involved|involved]].**
 ---
 ### Synonyms
 - [[r/_row|row]], [[s/_scuffle|scuffle]], [[s/_squabble|squabble]]
@@ -9,7 +9,7 @@
 - **To [[e/_engage|engage]] in a [[b/_brawl|brawl]]; to [[f/_fight|fight]] or quarrel.**
 - **To [[c/_create|create]] a [[d/_disturbance|disturbance]]; to [[c/_complain|complain]] [[l/_loudly|loudly]].**
 - **[[e/_especially|Especially]] of a rapid stream running [[o/_over|over]] stones: to [[m/_make|make]] a [[l/_loud|loud]], [[c/_confused|confused]] [[n/_noise|noise]].**
-- **To pour [[a/_abuse|abuse]] on; to scold.**
+- **To [[p/_pour|pour]] [[a/_abuse|abuse]] on; to scold.**
 ---
 ### Synonyms
 - [[s/_squabble|squabble]], [[w/_wrangle|wrangle]]

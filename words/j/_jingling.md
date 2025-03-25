@@ -10,6 +10,6 @@
 #noun
 - **The sound [[m/_made|made]] by something that [[j/_jingles|jingles]].**
 	- _Example: the jinglings of many bells_
-- **An [[o/_old|old]] parlour [[g/_game|game]] in which [[b/_blindfolded|blindfolded]] players within a ring [[a/_attempted|attempted]] to [[c/_catch|catch]] [[a/_another|another]] player to whom a [[b/_bell|bell]] was tied.**
+- **An [[o/_old|old]] [[p/_parlour|parlour]] [[g/_game|game]] in which [[b/_blindfolded|blindfolded]] [[p/_players|players]] within a ring [[a/_attempted|attempted]] to [[c/_catch|catch]] [[a/_another|another]] [[p/_player|player]] to whom a [[b/_bell|bell]] was tied.**
 ---
 ---

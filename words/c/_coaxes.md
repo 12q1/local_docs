@@ -1,10 +1,10 @@
 # Coaxes
 ---
 #verb
-- **To [[f/_fondle|fondle]], [[k/_kid|kid]], pet, tease.**
-- **To wheedle, persuade (a person, [[o/_organisation|organisation]], [[a/_animal|animal]] [[e/_etc|etc]].) [[g/_gradually|gradually]] or by use of [[f/_flattery|flattery]] to [[d/_do|do]] something.**
+- **To [[f/_fondle|fondle]], [[k/_kid|kid]], [[p/_pet|pet]], tease.**
+- **To wheedle, [[p/_persuade|persuade]] (a [[p/_person|person]], [[o/_organisation|organisation]], [[a/_animal|animal]] [[e/_etc|etc]].) [[g/_gradually|gradually]] or by use of [[f/_flattery|flattery]] to [[d/_do|do]] something.**
 	- _Example: He coaxed the horse gently into the trailer._
-- **To [[c/_carefully|carefully]] [[m/_manipulate|manipulate]] [[i/_into|into]] a particular [[d/_desired|desired]] state, situation or position.**
+- **To [[c/_carefully|carefully]] [[m/_manipulate|manipulate]] [[i/_into|into]] a [[p/_particular|particular]] [[d/_desired|desired]] state, situation or [[p/_position|position]].**
 	- _Example: They coaxed the rope through the pipe._
 ---
 ### Synonyms

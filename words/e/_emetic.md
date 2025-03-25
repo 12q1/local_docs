@@ -6,6 +6,6 @@
 ### Synonyms
 - [[v/_vomitive|vomitive]], [[v/_vomitory|vomitory]]
 #adjective
-- **(pharmaceutical [[e/_effect|effect]]) [[c/_causing|causing]] [[n/_nausea|nausea]] and vomiting**
+- **([[p/_pharmaceutical|pharmaceutical]] [[e/_effect|effect]]) [[c/_causing|causing]] [[n/_nausea|nausea]] and vomiting**
 ---
 ---

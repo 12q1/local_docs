@@ -3,7 +3,7 @@
 #noun
 - **Usury.**
 - **A [[m/_moneylender|moneylender]] [[d/_during|during]] the [[g/_great|Great]] [[f/_famine|Famine]].**
-- **A [[m/_mean|mean]], underhanded, [[c/_corrupt|corrupt]] person. Usually [[a/_applied|applied]] to politicians.**
+- **A [[m/_mean|mean]], underhanded, [[c/_corrupt|corrupt]] [[p/_person|person]]. Usually [[a/_applied|applied]] to [[p/_politicians|politicians]].**
 ---
 #adjective
 - **[[c/_corrupt|Corrupt]], underhanded.**

@@ -1,10 +1,10 @@
 # Imperforate
 ---
 #noun
-- **A postage stamp that [[h/_has|has]] not [[b/_been|been]] perforated.**
+- **A [[p/_postage|postage]] stamp that [[h/_has|has]] not [[b/_been|been]] [[p/_perforated|perforated]].**
 ---
 #adjective
-- **Not perforated.**
+- **Not [[p/_perforated|perforated]].**
 ---
 ### Synonyms
 - [[i/_imperforated|imperforated]], [[n/_nonperforated|nonperforated]]

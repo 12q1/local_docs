@@ -1,24 +1,24 @@
 # Bogy
 ---
 #noun
-- **[[o/_one|One]] who robs [[o/_others|others]] in a [[l/_lawless|lawless]] [[a/_area|area]], [[e/_especially|especially]] as part of a [[g/_group|group]].**
+- **[[o/_one|One]] who robs [[o/_others|others]] in a [[l/_lawless|lawless]] [[a/_area|area]], [[e/_especially|especially]] as [[p/_part|part]] of a [[g/_group|group]].**
 - **An [[o/_outlaw|outlaw]].**
 - **[[o/_one|One]] who [[c/_cheats|cheats]] [[o/_others|others]].**
 - **An [[e/_enemy|enemy]] [[a/_aircraft|aircraft]].**
-- **A runner who [[c/_covertly|covertly]] [[j/_joins|joins]] a race without [[h/_having|having]] registered as a participant.**
+- **A runner who [[c/_covertly|covertly]] [[j/_joins|joins]] a race without [[h/_having|having]] registered as a [[p/_participant|participant]].**
 ---
 ### Synonyms
 - [[c/_cheater|cheater]], [[c/_criminal|criminal]], [[f/_fugitive|fugitive]], [[o/_outlaw|outlaw]]
 #noun
-- **An [[o/_obnoxious|obnoxious]], selfish and [[o/_overbearing|overbearing]] person; an [[a/_attention|attention]] [[h/_hog|hog]].**
+- **An [[o/_obnoxious|obnoxious]], selfish and [[o/_overbearing|overbearing]] [[p/_person|person]]; an [[a/_attention|attention]] [[h/_hog|hog]].**
 ---
 #noun
 - **([[o/_often|often]] [[c/_capitalized|capitalized]], usually with [[d/_definite|definite]] [[a/_article|article]]) The [[d/_devil|Devil]].**
 - **A [[g/_ghost|ghost]], [[g/_goblin|goblin]], or [[o/_other|other]] [[h/_hostile|hostile]] supernatural [[c/_creature|creature]].**
 - **A [[b/_bugbear|bugbear]]: [[a/_any|any]] terrifying thing.**
-- **A standard of performance set up as a [[m/_mark|mark]] to be [[a/_aimed|aimed]] at in [[c/_competition|competition]].**
+- **A standard of [[p/_performance|performance]] set up as a [[m/_mark|mark]] to be [[a/_aimed|aimed]] at in [[c/_competition|competition]].**
 - **An unidentified [[a/_aircraft|aircraft]], [[e/_especially|especially]] as [[o/_observed|observed]] as a spot on a radar screen and suspected to be [[h/_hostile|hostile]].**
-- **A score of [[o/_one|one]] [[o/_over|over]] par on a [[h/_hole|hole]].**
+- **A score of [[o/_one|one]] [[o/_over|over]] [[p/_par|par]] on a [[h/_hole|hole]].**
 ---
 ### Synonyms
 - [[D/_Devil|Devil]], [[g/_goblin|goblin]]
@@ -36,7 +36,7 @@
 ### Synonyms
 - [[g/_goblin|goblin]]
 #noun
-- **A piece of solid or semisolid [[m/_mucus|mucus]] in or removed from a [[n/_nostril|nostril]].**
+- **A [[p/_piece|piece]] of solid or semisolid [[m/_mucus|mucus]] in or removed from a [[n/_nostril|nostril]].**
 - **Something suggestive of this [[m/_material|material]].**
 - **A thing; [[e/_especially|especially]] a problematic or [[d/_difficult|difficult]] thing.**
 ---

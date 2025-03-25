@@ -4,6 +4,6 @@
 - **To [[d/_deceive|deceive]] with a [[f/_falsehood|falsehood]].**
 ---
 #verb
-- **([[d/_drumming|drumming]]) To play ([[n/_notes|notes]] as) a [[f/_flam|flam]].**
+- **([[d/_drumming|drumming]]) To [[p/_play|play]] ([[n/_notes|notes]] as) a [[f/_flam|flam]].**
 ---
 ---

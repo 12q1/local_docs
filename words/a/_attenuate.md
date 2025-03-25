@@ -2,7 +2,7 @@
 ---
 #verb
 - **To reduce in size, [[f/_force|force]], value, [[a/_amount|amount]], or [[d/_degree|degree]].**
-- **To [[m/_make|make]] thinner, as by physically reshaping, starving, or [[d/_decaying|decaying]].**
+- **To [[m/_make|make]] thinner, as by [[p/_physically|physically]] reshaping, starving, or [[d/_decaying|decaying]].**
 - **To [[b/_become|become]] thin or [[f/_fine|fine]]; to [[g/_grow|grow]] [[l/_less|less]].**
 - **To weaken.**
 - **To rarefy.**
@@ -13,6 +13,6 @@
 ### Antonyms
 - [[a/_amplify|amplify]]
 #adjective
-- **(of [[l/_leaves|leaves]]) [[g/_gradually|Gradually]] tapering [[i/_into|into]] a petiole-[[l/_like|like]] [[e/_extension|extension]] toward the [[b/_base|base]].**
+- **(of [[l/_leaves|leaves]]) [[g/_gradually|Gradually]] tapering [[i/_into|into]] a [[p/_petiole|petiole]]-[[l/_like|like]] [[e/_extension|extension]] toward the [[b/_base|base]].**
 ---
 ---

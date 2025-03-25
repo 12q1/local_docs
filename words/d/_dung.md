@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[m/_manure|Manure]]; [[a/_animal|animal]] [[e/_excrement|excrement]].**
-- **A type of [[m/_manure|manure]], as from a particular species or type of [[a/_animal|animal]].**
+- **A type of [[m/_manure|manure]], as from a [[p/_particular|particular]] species or type of [[a/_animal|animal]].**
 ---
 #verb
 - **To [[f/_fertilize|fertilize]] with [[d/_dung|dung]].**

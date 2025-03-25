@@ -5,6 +5,6 @@
 - **To [[b/_become|become]] [[c/_covered|covered]] with [[f/_freckles|freckles]].**
 ---
 #noun
-- **A pattern of [[f/_freckles|freckles]]**
+- **A [[p/_pattern|pattern]] of [[f/_freckles|freckles]]**
 ---
 ---

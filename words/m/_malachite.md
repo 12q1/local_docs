@@ -5,6 +5,6 @@
 - **A [[m/_mild|mild]] [[g/_green|green]] [[c/_colour|colour]], [[l/_like|like]] that of the [[m/_mineral|mineral]].**
 ---
 #adjective
-- **Of a [[c/_colour|colour]] ranging from [[o/_olive|olive]]-taupe to a [[m/_mild|mild]] to [[d/_deeply|deeply]]-rich (at times seemingly translucent) [[g/_green|green]], [[l/_like|like]] that of the [[m/_mineral|mineral]] which is present on [[o/_oxidized|oxidized]] [[c/_copper|copper]].**
+- **Of a [[c/_colour|colour]] ranging from [[o/_olive|olive]]-taupe to a [[m/_mild|mild]] to [[d/_deeply|deeply]]-rich (at times seemingly translucent) [[g/_green|green]], [[l/_like|like]] that of the [[m/_mineral|mineral]] which is [[p/_present|present]] on [[o/_oxidized|oxidized]] [[c/_copper|copper]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Gradely
 ---
 #adjective
-- **Of a person; [[d/_decent|decent]], well-[[m/_meaning|meaning]], respectable**
+- **Of a [[p/_person|person]]; [[d/_decent|decent]], well-[[m/_meaning|meaning]], respectable**
 - **[[e/_excellent|Excellent]]**
 - **[[h/_handsome|Handsome]], [[f/_fair|fair]]**
 - **Real, proper**

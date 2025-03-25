@@ -1,6 +1,6 @@
 # Ispaghul
 ---
 #noun
-- **Psyllium (Plantago ovata syn. Plantago ispaghula and Plantago afra syn. Plantago psyllium)**
+- **Psyllium ([[p/_plantago|Plantago]] ovata syn. [[p/_plantago|Plantago]] ispaghula and [[p/_plantago|Plantago]] afra syn. [[p/_plantago|Plantago]] psyllium)**
 ---
 ---

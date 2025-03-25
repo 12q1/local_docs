@@ -1,7 +1,7 @@
 # Lapstrake
 ---
 #noun
-- **A style of [[b/_boatbuilding|boatbuilding]] using [[o/_overlapping|overlapping]] planks.**
+- **A style of [[b/_boatbuilding|boatbuilding]] using [[o/_overlapping|overlapping]] [[p/_planks|planks]].**
 - **A [[b/_boat|boat]] [[b/_built|built]] in this style.**
 ---
 #adjective

@@ -1,7 +1,7 @@
 # Inscrutable
 ---
 #noun
-- **[[o/_one|One]] who or that which is [[i/_inscrutable|inscrutable]]; a person, [[e/_etc|etc]]. that [[c/_cannot|cannot]] be [[c/_comprehended|comprehended]].**
+- **[[o/_one|One]] who or that which is [[i/_inscrutable|inscrutable]]; a [[p/_person|person]], [[e/_etc|etc]]. that [[c/_cannot|cannot]] be [[c/_comprehended|comprehended]].**
 ---
 #adjective
 - **[[d/_difficult|Difficult]] or [[i/_impossible|impossible]] to [[c/_comprehend|comprehend]], [[f/_fathom|fathom]] or [[i/_interpret|interpret]].**

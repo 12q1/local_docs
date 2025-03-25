@@ -1,6 +1,6 @@
 # Palstave
 ---
 #noun
-- **A prehistoric [[b/_bronze|bronze]] [[a/_axe|axe]].**
+- **A [[p/_prehistoric|prehistoric]] [[b/_bronze|bronze]] [[a/_axe|axe]].**
 ---
 ---

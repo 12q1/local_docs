@@ -19,7 +19,7 @@
 	- _Example: I'll pay that._
 ---
 #verb
-- **To [[c/_cover|cover]] (the [[b/_bottom|bottom]] of a vessel, a seam, a spar, [[e/_etc|etc]].) with tar or pitch, or a waterproof [[c/_composition|composition]] of tallow, resin, [[e/_etc|etc]].; to smear.**
+- **To [[c/_cover|cover]] (the [[b/_bottom|bottom]] of a vessel, a seam, a spar, [[e/_etc|etc]].) with tar or [[p/_pitch|pitch]], or a waterproof [[c/_composition|composition]] of tallow, resin, [[e/_etc|etc]].; to smear.**
 ---
 #noun
 - **[[p/_payment|Payment]]**

@@ -2,14 +2,14 @@
 ---
 #noun
 - **[[e/_evidence|Evidence]] of a [[l/_long|long]]-term [[d/_debt|debt]], by which the [[b/_bond|bond]] [[i/_issuer|issuer]] (the [[b/_borrower|borrower]]) is [[o/_obliged|obliged]] to [[p/_pay|pay]] [[i/_interest|interest]] when [[d/_due|due]], and repay the principal at [[m/_maturity|maturity]], as specified on the [[f/_face|face]] of the [[b/_bond|bond]] [[c/_certificate|certificate]]. The rights of the [[h/_holder|holder]] are specified in the [[b/_bond|bond]] [[i/_indenture|indenture]], which [[c/_contains|contains]] the [[l/_legal|legal]] terms and [[c/_conditions|conditions]] under which the [[b/_bond|bond]] was [[i/_issued|issued]]. [[b/_bonds|Bonds]] are [[a/_available|available]] in two [[f/_forms|forms]]: registered [[b/_bonds|bonds]], and [[b/_bearer|bearer]] [[b/_bonds|bonds]].**
-- **A [[d/_documentary|documentary]] [[o/_obligation|obligation]] to [[p/_pay|pay]] a sum or to perform a [[c/_contract|contract]]; a [[d/_debenture|debenture]].**
+- **A [[d/_documentary|documentary]] [[o/_obligation|obligation]] to [[p/_pay|pay]] a sum or to [[p/_perform|perform]] a [[c/_contract|contract]]; a [[d/_debenture|debenture]].**
 	- _Example: Investors face a quandary. Cash offers a return of virtually zero in many developed countries; government-bond yields may have risen in recent weeks but they are still unattractive. Equities have suffered two big bear markets since 2000 and are wobbling again. It is hardly surprising that pension funds, insurers and endowments are searching for new sources of return._
-- **A partial [[p/_payment|payment]] [[m/_made|made]] to show a provider that the [[c/_customer|customer]] is sincere [[a/_about|about]] [[b/_buying|buying]] a product or a service. [[i/_if|If]] the product or service is not purchased the [[c/_customer|customer]] then [[f/_forfeits|forfeits]] the [[b/_bond|bond]].**
-- **([[o/_often|often]] in the plural) A physical [[c/_connection|connection]] which [[b/_binds|binds]], a [[b/_band|band]].**
+- **A [[p/_partial|partial]] [[p/_payment|payment]] [[m/_made|made]] to show a provider that the [[c/_customer|customer]] is sincere [[a/_about|about]] [[b/_buying|buying]] a product or a service. [[i/_if|If]] the product or service is not purchased the [[c/_customer|customer]] then [[f/_forfeits|forfeits]] the [[b/_bond|bond]].**
+- **([[o/_often|often]] in the [[p/_plural|plural]]) A [[p/_physical|physical]] [[c/_connection|connection]] which [[b/_binds|binds]], a [[b/_band|band]].**
 	- _Example: The prisoner was brought before the tribunal in iron bonds._
-- **An [[e/_emotional|emotional]] [[l/_link|link]], [[c/_connection|connection]] or union; that which [[h/_holds|holds]] two or [[m/_more|more]] people together, as in a [[f/_friendship|friendship]]; a tie.**
+- **An [[e/_emotional|emotional]] [[l/_link|link]], [[c/_connection|connection]] or union; that which [[h/_holds|holds]] two or [[m/_more|more]] [[p/_people|people]] together, as in a [[f/_friendship|friendship]]; a tie.**
 	- _Example: They had grown up as friends and neighbors, and not even vastly differing political views could break the bond of their friendship._
-- **[[m/_moral|Moral]] or political [[d/_duty|duty]] or [[o/_obligation|obligation]].**
+- **[[m/_moral|Moral]] or [[p/_political|political]] [[d/_duty|duty]] or [[o/_obligation|obligation]].**
 - **A [[l/_link|link]] or [[f/_force|force]] [[b/_between|between]] [[n/_neighbouring|neighbouring]] [[a/_atoms|atoms]] in a [[m/_molecule|molecule]].**
 	- _Example: Organic chemistry primarily consists of the study of carbon bonds, in their many variations._
 - **A [[b/_binding|binding]] [[a/_agreement|agreement]], a [[c/_covenant|covenant]].**
@@ -18,9 +18,9 @@
 	- _Example: The bailiff released the prisoner as soon as the bond was posted._
 - **[[a/_any|Any]] [[c/_constraining|constraining]] or [[c/_cementing|cementing]] [[f/_force|force]] or [[m/_material|material]].**
 	- _Example: A bond of superglue adhered the teacups to the ceiling, much to the consternation of the cafe owners._
-- **In [[b/_building|building]], a specific pattern of [[b/_bricklaying|bricklaying]].**
+- **In [[b/_building|building]], a specific [[p/_pattern|pattern]] of [[b/_bricklaying|bricklaying]].**
 - **In Scotland, a [[m/_mortgage|mortgage]].**
-- **A [[h/_heavy|heavy]] [[c/_copper|copper]] wire or rod [[c/_connecting|connecting]] [[a/_adjacent|adjacent]] rails of an [[e/_electric|electric]] railway track when used as a part of the [[e/_electric|electric]] [[c/_circuit|circuit]].**
+- **A [[h/_heavy|heavy]] [[c/_copper|copper]] wire or rod [[c/_connecting|connecting]] [[a/_adjacent|adjacent]] rails of an [[e/_electric|electric]] railway track when used as a [[p/_part|part]] of the [[e/_electric|electric]] [[c/_circuit|circuit]].**
 ---
 #verb
 - **To [[c/_connect|connect]], secure or tie with a [[b/_bond|bond]]; to [[b/_bind|bind]].**
@@ -34,8 +34,8 @@
 - **To [[f/_form|form]] a [[f/_friendship|friendship]] or [[e/_emotional|emotional]] [[c/_connection|connection]].**
 	- _Example: The men had bonded while serving together in Vietnam._
 - **To put in a [[b/_bonded|bonded]] warehouse; to secure ([[g/_goods|goods]]) until the [[a/_associated|associated]] [[d/_duties|duties]] are [[p/_paid|paid]].**
-- **To [[l/_lay|lay]] [[b/_bricks|bricks]] in a specific pattern.**
-- **To [[m/_make|make]] a reliable [[e/_electrical|electrical]] [[c/_connection|connection]] [[b/_between|between]] two [[c/_conductors|conductors]] (or [[a/_any|any]] pieces of [[m/_metal|metal]] that [[m/_may|may]] potentially [[b/_become|become]] [[c/_conductors|conductors]]).**
+- **To [[l/_lay|lay]] [[b/_bricks|bricks]] in a specific [[p/_pattern|pattern]].**
+- **To [[m/_make|make]] a reliable [[e/_electrical|electrical]] [[c/_connection|connection]] [[b/_between|between]] two [[c/_conductors|conductors]] (or [[a/_any|any]] [[p/_pieces|pieces]] of [[m/_metal|metal]] that [[m/_may|may]] [[p/_potentially|potentially]] [[b/_become|become]] [[c/_conductors|conductors]]).**
 	- _Example: A house's distribution panel should always be bonded to the grounding rods via a panel bond._
 - **To [[b/_bail|bail]] [[o/_out|out]] by [[m/_means|means]] of a [[b/_bail|bail]] [[b/_bond|bond]].**
 ---

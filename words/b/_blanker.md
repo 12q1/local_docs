@@ -4,7 +4,7 @@
 - **White or [[p/_pale|pale]]; without [[c/_colour|colour]].**
 - **[[f/_free|Free]] from writing, printing, or [[m/_marks|marks]]; [[h/_having|having]] an [[e/_empty|empty]] space to be [[f/_filled|filled]] in**
 	- _Example: a blank ballot_
-- **Scoreless; without [[a/_any|any]] [[g/_goals|goals]] or points.**
+- **Scoreless; without [[a/_any|any]] [[g/_goals|goals]] or [[p/_points|points]].**
 - **[[l/_lacking|Lacking]] [[c/_characteristics|characteristics]] which [[g/_give|give]] variety; uniform.**
 	- _Example: a blank desert; a blank wall; blank unconsciousness_
 - **[[a/_absolute|Absolute]]; [[d/_downright|downright]]; sheer.**

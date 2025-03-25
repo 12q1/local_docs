@@ -1,7 +1,7 @@
 # Garden
 ---
 #noun
-- **An [[o/_outdoor|outdoor]] [[a/_area|area]] [[c/_containing|containing]] [[o/_one|one]] or [[m/_more|more]] types of plants, usually plants [[g/_grown|grown]] for [[f/_food|food]] or [[o/_ornamental|ornamental]] purposes.**
+- **An [[o/_outdoor|outdoor]] [[a/_area|area]] [[c/_containing|containing]] [[o/_one|one]] or [[m/_more|more]] types of [[p/_plants|plants]], usually [[p/_plants|plants]] [[g/_grown|grown]] for [[f/_food|food]] or [[o/_ornamental|ornamental]] purposes.**
 	- _Example: a vegetable garden  a flower garden_
 - **The [[g/_grounds|grounds]] at the [[f/_front|front]] or [[b/_back|back]] of a [[h/_house|house]].**
 	- _Example: This house has a swimming pool, a tent, a swing set and a fountain in the garden.  We were drinking lemonade and playing croquet in the garden.  Our garden is overgrown with weeds._
@@ -13,9 +13,9 @@
 ### Synonyms
 - [[p/_park|park]], [[y/_yard|yard]]
 #verb
-- **To [[g/_grow|grow]] plants in a [[g/_garden|garden]]; to [[c/_create|create]] or [[m/_maintain|maintain]] a [[g/_garden|garden]].**
+- **To [[g/_grow|grow]] [[p/_plants|plants]] in a [[g/_garden|garden]]; to [[c/_create|create]] or [[m/_maintain|maintain]] a [[g/_garden|garden]].**
 	- _Example: I love to garden — this year I'm going to plant some daffodils._
-- **Of a [[b/_batsman|batsman]], to [[i/_inspect|inspect]] and tap the pitch [[l/_lightly|lightly]] with the [[b/_bat|bat]] so as to smooth [[o/_out|out]] small rough patches and [[i/_irregularities|irregularities]].**
+- **Of a [[b/_batsman|batsman]], to [[i/_inspect|inspect]] and tap the [[p/_pitch|pitch]] [[l/_lightly|lightly]] with the [[b/_bat|bat]] so as to smooth [[o/_out|out]] small rough [[p/_patches|patches]] and [[i/_irregularities|irregularities]].**
 ---
 ### Synonyms
 - [[f/_farm|farm]]

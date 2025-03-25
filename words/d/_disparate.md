@@ -1,7 +1,7 @@
 # Disparate
 ---
 #noun
-- **([[c/_chiefly|chiefly]] in the plural) [[a/_any|Any]] of a [[g/_group|group]] of unequal or [[d/_dissimilar|dissimilar]] things.**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) [[a/_any|Any]] of a [[g/_group|group]] of unequal or [[d/_dissimilar|dissimilar]] things.**
 ---
 #adjective
 - **[[c/_composed|Composed]] of [[i/_inherently|inherently]] [[d/_different|different]] or [[d/_distinct|distinct]] [[e/_elements|elements]]; [[i/_incongruous|incongruous]].**

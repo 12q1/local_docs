@@ -1,6 +1,6 @@
 # Outpoll
 ---
 #verb
-- **To [[d/_defeat|defeat]] in a poll.**
+- **To [[d/_defeat|defeat]] in a [[p/_poll|poll]].**
 ---
 ---

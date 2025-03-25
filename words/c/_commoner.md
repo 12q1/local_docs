@@ -8,10 +8,10 @@
 - **[[f/_found|Found]] in [[l/_large|large]] [[n/_numbers|numbers]] or in a [[l/_large|large]] quantity; usual.**
 	- _Example: It differs from the common blackbird in the size of its beak._
 - **Simple, [[o/_ordinary|ordinary]] or vulgar.**
-- **([[g/_grammar|grammar]]) In some [[l/_languages|languages]], particularly [[g/_germanic|Germanic]] [[l/_languages|languages]], of the [[g/_gender|gender]] [[o/_originating|originating]] from the [[c/_coalescence|coalescence]] of the [[m/_masculine|masculine]] and [[f/_feminine|feminine]] [[c/_categories|categories]] of [[n/_nouns|nouns]].**
-- **([[g/_grammar|grammar]]) Of or pertaining to [[c/_common|common]] [[n/_nouns|nouns]] as [[o/_opposed|opposed]] to proper [[n/_nouns|nouns]].**
-- **Vernacular, referring to the [[n/_name|name]] of a [[k/_kind|kind]] of plant or [[a/_animal|animal]], [[i/_i|i]].[[e/_e|e]]., [[c/_common|common]] [[n/_name|name]] vs. scientific [[n/_name|name]].**
-- **Profane; polluted.**
+- **([[g/_grammar|grammar]]) In some [[l/_languages|languages]], [[p/_particularly|particularly]] [[g/_germanic|Germanic]] [[l/_languages|languages]], of the [[g/_gender|gender]] [[o/_originating|originating]] from the [[c/_coalescence|coalescence]] of the [[m/_masculine|masculine]] and [[f/_feminine|feminine]] [[c/_categories|categories]] of [[n/_nouns|nouns]].**
+- **([[g/_grammar|grammar]]) Of or [[p/_pertaining|pertaining]] to [[c/_common|common]] [[n/_nouns|nouns]] as [[o/_opposed|opposed]] to proper [[n/_nouns|nouns]].**
+- **Vernacular, referring to the [[n/_name|name]] of a [[k/_kind|kind]] of [[p/_plant|plant]] or [[a/_animal|animal]], [[i/_i|i]].[[e/_e|e]]., [[c/_common|common]] [[n/_name|name]] vs. scientific [[n/_name|name]].**
+- **Profane; [[p/_polluted|polluted]].**
 - **[[g/_given|Given]] to [[l/_lewd|lewd]] [[h/_habits|habits]]; prostitute.**
 ---
 ### Synonyms

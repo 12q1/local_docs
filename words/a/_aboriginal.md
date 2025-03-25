@@ -4,12 +4,12 @@
 - **An [[a/_aboriginal|Aboriginal]] [[i/_inhabitant|inhabitant]] of [[a/_australia|Australia]], [[a/_aborigine|Aborigine]].**
 ---
 #adjective
-- **Of or pertaining to [[a/_australian|Australian]] [[a/_aboriginal|Aboriginal]] peoples, [[a/_aborigines|Aborigines]], or their [[l/_language|language]].**
+- **Of or [[p/_pertaining|pertaining]] to [[a/_australian|Australian]] [[a/_aboriginal|Aboriginal]] [[p/_peoples|peoples]], [[a/_aborigines|Aborigines]], or their [[l/_language|language]].**
 ---
 ### Synonyms
 - [[E/_Eskimo|Eskimo]], [[I/_Indian|Indian]], [[I/_Inuit|Inuit]], [[M/_Metis|Metis]], [[N/_Native|Native]], [[a/_aboriginal|aboriginal]], [[n/_native|native]], [[A/_Aborigine|Aborigine]], [[a/_aboriginal|aboriginal]], [[a/_aborigine|aborigine]]
 #noun
-- **An [[a/_animal|animal]] or plant [[n/_native|native]] to a region.**
+- **An [[a/_animal|animal]] or [[p/_plant|plant]] [[n/_native|native]] to a region.**
 ---
 #adjective
 - **[[f/_first|First]] [[a/_according|according]] to [[h/_historical|historical]] or scientific records; [[o/_original|original]]; [[i/_indigenous|indigenous]]; primitive.**

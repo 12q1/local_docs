@@ -1,6 +1,6 @@
 # Euchologies
 ---
 #noun
-- **[[e/_euchologion|Euchologion]]; prayer [[b/_book|book]]**
+- **[[e/_euchologion|Euchologion]]; [[p/_prayer|prayer]] [[b/_book|book]]**
 ---
 ---

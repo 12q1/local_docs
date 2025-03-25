@@ -14,6 +14,6 @@
 ### Synonyms
 - [[f/_frain|frain]], [[i/_insist|insist]]
 #adjective
-- **Requiring [[m/_much|much]] [[e/_endurance|endurance]], strength, or patience.**
+- **Requiring [[m/_much|much]] [[e/_endurance|endurance]], strength, or [[p/_patience|patience]].**
 ---
 ---

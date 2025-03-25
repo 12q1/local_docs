@@ -3,7 +3,7 @@
 #noun
 - **The [[d/_dripping|dripping]] of rain from the [[e/_eaves|eaves]] of a [[h/_house|house]]**
 - **The space [[a/_around|around]] a [[h/_house|house]] on which such water [[d/_drips|drips]]**
-- **A [[c/_concealed|concealed]] [[a/_aperture|aperture]] through which an [[o/_occupant|occupant]] of a [[b/_building|building]] [[c/_can|can]] surreptitiously [[l/_listen|listen]] to people talking at an [[e/_entrance|entrance]] to the [[b/_building|building]]**
+- **A [[c/_concealed|concealed]] [[a/_aperture|aperture]] through which an [[o/_occupant|occupant]] of a [[b/_building|building]] [[c/_can|can]] surreptitiously [[l/_listen|listen]] to [[p/_people|people]] talking at an [[e/_entrance|entrance]] to the [[b/_building|building]]**
 - **The [[a/_act|act]] of [[i/_intentionally|intentionally]] [[h/_hearing|hearing]] a [[c/_conversation|conversation]] not [[i/_intended|intended]] to be [[h/_heard|heard]]**
 ---
 ### Synonyms

@@ -12,6 +12,6 @@
 ### Antonyms
 - [[m/_mount|mount]]
 #adjective
-- **[[h/_having|Having]] [[g/_gotten|gotten]] [[o/_off|off]] [[o/_one|one]]'s [[h/_horse|horse]], or [[b/_been|been]] removed from [[i/_its|its]] usual [[m/_mounting|mounting]], as with a statue [[o/_off|off]] [[i/_its|its]] pedestal, a [[f/_framed|framed]] picture from a wall, or a [[c/_chandelier|chandelier]] [[h/_hanging|hanging]] from a [[c/_ceiling|ceiling]].**
+- **[[h/_having|Having]] [[g/_gotten|gotten]] [[o/_off|off]] [[o/_one|one]]'s [[h/_horse|horse]], or [[b/_been|been]] removed from [[i/_its|its]] usual [[m/_mounting|mounting]], as with a statue [[o/_off|off]] [[i/_its|its]] [[p/_pedestal|pedestal]], a [[f/_framed|framed]] [[p/_picture|picture]] from a wall, or a [[c/_chandelier|chandelier]] [[h/_hanging|hanging]] from a [[c/_ceiling|ceiling]].**
 ---
 ---

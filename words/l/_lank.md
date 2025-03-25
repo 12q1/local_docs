@@ -4,7 +4,7 @@
 - **To [[b/_become|become]] [[l/_lank|lank]].**
 ---
 #adjective
-- **Slender or thin; not well [[f/_filled|filled]] [[o/_out|out]]; not plump; shrunken; [[l/_lean|lean]].**
+- **Slender or thin; not well [[f/_filled|filled]] [[o/_out|out]]; not [[p/_plump|plump]]; shrunken; [[l/_lean|lean]].**
 - **[[m/_meagre|Meagre]], [[p/_paltry|paltry]], scant in quantity.**
 - **(of [[h/_hair|hair]]) Straight and [[f/_flat|flat]]; thin and [[l/_limp|limp]]. ([[o/_often|Often]] [[a/_associated|associated]] with [[b/_being|being]] [[g/_greasy|greasy]].)**
 - **[[l/_languid|Languid]]; [[d/_drooping|drooping]], slack.**

@@ -1,7 +1,7 @@
 # Fiddlesticks
 ---
 #noun
-- **A [[b/_bow|bow]] used to play the [[f/_fiddle|fiddle]].**
+- **A [[b/_bow|bow]] used to [[p/_play|play]] the [[f/_fiddle|fiddle]].**
 ---
 #interjection
 - **[[n/_nonsense|Nonsense]]! [[e/_expresses|Expresses]] [[d/_dismissal|dismissal]] or [[d/_disdain|disdain]].**

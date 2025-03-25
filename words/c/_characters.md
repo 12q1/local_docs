@@ -2,27 +2,27 @@
 ---
 #noun
 - **A [[b/_being|being]] [[i/_involved|involved]] in the [[a/_action|action]] of a story.**
-- **A [[d/_distinguishing|distinguishing]] [[f/_feature|feature]]; [[c/_characteristic|characteristic]]; trait; phene.**
+- **A [[d/_distinguishing|distinguishing]] [[f/_feature|feature]]; [[c/_characteristic|characteristic]]; trait; [[p/_phene|phene]].**
 	- _Example: A single locus governing the petal colour character was detected on the linkage group A2._
-- **A [[c/_complex|complex]] of traits [[m/_marking|marking]] a person, [[g/_group|group]], [[b/_breed|breed]], or type.**
+- **A [[c/_complex|complex]] of traits [[m/_marking|marking]] a [[p/_person|person]], [[g/_group|group]], [[b/_breed|breed]], or type.**
 	- _Example: A study of the suspect's character and his cast iron alibi ruled him out._
 - **Strength of [[m/_mind|mind]]; resolution; [[i/_independence|independence]]; [[i/_individuality|individuality]]; [[m/_moral|moral]] strength.**
 	- _Example: "You may not like to eat liver," said Calvin's father, "but it builds character."_
-- **A unique or [[e/_extraordinary|extraordinary]] [[i/_individual|individual]]; a person [[c/_characterized|characterized]] by peculiar or [[n/_notable|notable]] traits, [[e/_especially|especially]] [[c/_charisma|charisma]].**
+- **A unique or [[e/_extraordinary|extraordinary]] [[i/_individual|individual]]; a [[p/_person|person]] [[c/_characterized|characterized]] by [[p/_peculiar|peculiar]] or [[n/_notable|notable]] traits, [[e/_especially|especially]] [[c/_charisma|charisma]].**
 	- _Example: Julius Caesar is a great historical character._
 - **A written or printed symbol, or [[l/_letter|letter]].**
-- **Style of writing or printing; [[h/_handwriting|handwriting]]; the particular [[f/_form|form]] of [[l/_letters|letters]] used by a person or people.**
+- **Style of writing or printing; [[h/_handwriting|handwriting]]; the [[p/_particular|particular]] [[f/_form|form]] of [[l/_letters|letters]] used by a [[p/_person|person]] or [[p/_people|people]].**
 	- _Example: an inscription in the Runic character_
 - **A secret [[c/_cipher|cipher]]; a way of writing in [[c/_code|code]].**
 - **[[o/_one|One]] of the [[b/_basic|basic]] [[e/_elements|elements]] [[m/_making|making]] up a text [[f/_file|file]] or string: a [[c/_code|code]] representing a printing [[c/_character|character]] or a [[c/_control|control]] [[c/_character|character]].**
-- **A person or [[i/_individual|individual]], [[e/_especially|especially]] [[o/_one|one]] who is unknown or raises suspicions.**
+- **A [[p/_person|person]] or [[i/_individual|individual]], [[e/_especially|especially]] [[o/_one|one]] who is unknown or raises suspicions.**
 	- _Example: That old guy is a real character._
 - **A [[c/_complex|complex]] [[n/_number|number]] representing an [[e/_element|element]] of a [[f/_finite|finite]] [[a/_abelian|Abelian]] [[g/_group|group]].**
-- **Quality, position, rank, or [[c/_capacity|capacity]]; quality or [[c/_conduct|conduct]] with respect to a [[c/_certain|certain]] [[o/_office|office]] or [[d/_duty|duty]].**
+- **Quality, [[p/_position|position]], rank, or [[c/_capacity|capacity]]; quality or [[c/_conduct|conduct]] with respect to a [[c/_certain|certain]] [[o/_office|office]] or [[d/_duty|duty]].**
 	- _Example: in his character as a magistrate_
-- **The [[e/_estimate|estimate]], [[i/_individual|individual]] or [[g/_general|general]], put upon a person or thing; reputation.**
+- **The [[e/_estimate|estimate]], [[i/_individual|individual]] or [[g/_general|general]], put upon a [[p/_person|person]] or thing; reputation.**
 	- _Example: Her actions give her a bad character._
 - **A reference [[g/_given|given]] to a servant, [[a/_attesting|attesting]] to [[h/_his|his]]/[[h/_her|her]] [[b/_behaviour|behaviour]], [[c/_competence|competence]], [[e/_etc|etc]].**
-- **Personal [[a/_appearance|appearance]].**
+- **[[p/_personal|Personal]] [[a/_appearance|appearance]].**
 ---
 ---

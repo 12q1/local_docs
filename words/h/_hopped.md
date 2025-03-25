@@ -8,7 +8,7 @@
 - **To suddenly take a [[m/_mode|mode]] of transportation that [[o/_one|one]] [[d/_does|does]] not [[d/_drive|drive]] [[o/_oneself|oneself]], [[o/_often|often]] surreptitiously.**
 	- _Example: He hopped a train to California._
 - **To [[j/_jump|jump]] [[o/_onto|onto]], or [[o/_over|over]]**
-- **(usually in [[c/_combination|combination]]) To [[m/_move|move]] [[f/_frequently|frequently]] from [[o/_one|one]] place or situation to [[a/_another|another]] similar [[o/_one|one]].**
+- **(usually in [[c/_combination|combination]]) To [[m/_move|move]] [[f/_frequently|frequently]] from [[o/_one|one]] [[p/_place|place]] or situation to [[a/_another|another]] similar [[o/_one|one]].**
 	- _Example: We had to island hop on the weekly seaplane to get to his hideaway._
 - **To walk [[l/_lame|lame]]; to [[l/_limp|limp]].**
 - **To [[d/_dance|dance]].**

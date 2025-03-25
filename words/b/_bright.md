@@ -3,8 +3,8 @@
 #noun
 - **An [[a/_artist|artist]]'s [[b/_brush|brush]] used in [[o/_oil|oil]] and [[a/_acrylic|acrylic]] [[p/_painting|painting]] with a [[l/_long|long]] [[f/_ferrule|ferrule]] and a [[f/_flat|flat]], somewhat tapering [[b/_bristle|bristle]] [[h/_head|head]].**
 - **Splendour; [[b/_brightness|brightness]]**
-- **A person with a [[n/_naturalistic|naturalistic]] worldview with [[n/_no|no]] supernatural or [[m/_mystical|mystical]] [[e/_elements|elements]].**
-- **(in the plural) The [[h/_high|high]]-[[b/_beam|beam]] [[i/_intensity|intensity]] of [[m/_motor|motor]] vehicle [[h/_headlamps|headlamps]].**
+- **A [[p/_person|person]] with a [[n/_naturalistic|naturalistic]] worldview with [[n/_no|no]] supernatural or [[m/_mystical|mystical]] [[e/_elements|elements]].**
+- **(in the [[p/_plural|plural]]) The [[h/_high|high]]-[[b/_beam|beam]] [[i/_intensity|intensity]] of [[m/_motor|motor]] vehicle [[h/_headlamps|headlamps]].**
 	- _Example: Your brights are on._
 ---
 ### Antonyms
@@ -21,6 +21,6 @@
 - **Sparkling with wit; [[l/_lively|lively]]; vivacious; [[c/_cheerful|cheerful]].**
 - **[[i/_illustrious|Illustrious]]; [[g/_glorious|glorious]].**
 - **[[c/_clear|Clear]]; transparent.**
-- **[[m/_manifest|Manifest]] to the [[m/_mind|mind]], as [[l/_light|light]] is to the [[e/_eyes|eyes]]; [[c/_clear|clear]]; [[e/_evident|evident]]; plain.**
+- **[[m/_manifest|Manifest]] to the [[m/_mind|mind]], as [[l/_light|light]] is to the [[e/_eyes|eyes]]; [[c/_clear|clear]]; [[e/_evident|evident]]; [[p/_plain|plain]].**
 ---
 ---

@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[l/_lacking|Lacking]] a [[n/_name|name]]; not [[n/_named|named]], for [[e/_example|example]] an [[a/_animal|animal]] not [[a/_assigned|assigned]] to [[a/_any|any]] species.**
-- **Without [[a/_any|any]] [[n/_name|name]] [[a/_acknowledged|acknowledged]] of a person responsible**
+- **Without [[a/_any|any]] [[n/_name|name]] [[a/_acknowledged|acknowledged]] of a [[p/_person|person]] responsible**
 	- _Example: an anonymous pamphlet_
 - **Of unknown [[n/_name|name]]; whose [[n/_name|name]] is withheld**
 	- _Example: No customer personal data will be retained unless it is rendered anonymous._

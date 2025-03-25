@@ -1,6 +1,6 @@
 # Desquamated
 ---
 #verb
-- **To shed or peel.**
+- **To shed or [[p/_peel|peel]].**
 ---
 ---

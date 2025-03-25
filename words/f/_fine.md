@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[f/_fine|Fine]] [[c/_champagne|champagne]]; [[f/_french|French]] [[b/_brandy|brandy]].**
-- **(usually in the plural) Something that is [[f/_fine|fine]]; [[f/_fine|fine]] particles.**
+- **(usually in the [[p/_plural|plural]]) Something that is [[f/_fine|fine]]; [[f/_fine|fine]] [[p/_particles|particles]].**
 	- _Example: They filtered silt and fines out of the soil._
 ---
 #verb
@@ -31,7 +31,7 @@
 - [[c/_coarse|coarse]], [[c/_coarse|coarse]]
 #adverb
 - **[[e/_expression|Expression]] of (typically) reluctant [[a/_agreement|agreement]].**
-- **Well, [[n/_nicely|nicely]], in a positive way.**
+- **Well, [[n/_nicely|nicely]], in a [[p/_positive|positive]] way.**
 	- _Example: Everything worked out fine._
 - **[[f/_finely|Finely]]; [[e/_elegantly|elegantly]]; [[d/_delicately|delicately]].**
 - **In a [[m/_manner|manner]] so that the [[d/_driven|driven]] [[b/_ball|ball]] strikes the [[o/_object|object]] [[b/_ball|ball]] so [[f/_far|far]] to [[o/_one|one]] side as to be [[b/_barely|barely]] [[d/_deflected|deflected]], the [[o/_object|object]] [[b/_ball|ball]] [[b/_being|being]] [[d/_driven|driven]] to [[o/_one|one]] side.**

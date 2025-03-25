@@ -1,7 +1,7 @@
 # Botched
 ---
 #verb
-- **To perform (a task) in an unacceptable or [[i/_incompetent|incompetent]] [[m/_manner|manner]]; to [[m/_make|make]] a [[m/_mess|mess]] of something**
+- **To [[p/_perform|perform]] (a task) in an unacceptable or [[i/_incompetent|incompetent]] [[m/_manner|manner]]; to [[m/_make|make]] a [[m/_mess|mess]] of something**
 	- _Example: A botched haircut seems to take forever to grow out._
 - **To [[d/_do|do]] something without skill, without [[c/_care|care]], or [[c/_clumsily|clumsily]].**
 - **To repair or [[m/_mend|mend]] [[c/_clumsily|clumsily]].**

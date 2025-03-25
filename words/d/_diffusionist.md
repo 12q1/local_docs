@@ -4,6 +4,6 @@
 - **A proponent of [[d/_diffusionism|diffusionism]]**
 ---
 #adjective
-- **Of or pertaining to [[d/_diffusionism|diffusionism]]**
+- **Of or [[p/_pertaining|pertaining]] to [[d/_diffusionism|diffusionism]]**
 ---
 ---

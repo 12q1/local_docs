@@ -6,6 +6,6 @@
 - **A topic [[a/_about|about]] which someone [[l/_loves|loves]] to talk at [[g/_great|great]] [[l/_length|length]].**
 	- _Example: Don't ask him about global warming: it's his favourite hobby horse, you'll never get away._
 - **A puppet-[[l/_like|like]] [[c/_costume|costume]] used in some traditional [[d/_dances|dances]] and [[f/_festivals|festivals]] that [[g/_gives|gives]] [[i/_its|its]] wearer the [[a/_appearance|appearance]] of a [[m/_man|man]] on [[h/_horseback|horseback]].**
-- **An [[e/_early|early]] [[b/_bicycle|bicycle]] with [[n/_no|no]] pedals or [[b/_brakes|brakes]]; a draisienne.**
+- **An [[e/_early|early]] [[b/_bicycle|bicycle]] with [[n/_no|no]] [[p/_pedals|pedals]] or [[b/_brakes|brakes]]; a draisienne.**
 ---
 ---

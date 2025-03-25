@@ -5,7 +5,7 @@
 - **A [[f/_full|full]] [[h/_house|house]].**
 - **A vehicle, utensil, or [[d/_dish|dish]] somewhat resembling a [[b/_boat|boat]] in shape.**
 	- _Example: a stone boat;  a gravy boat_
-- **[[o/_one|One]] of two possible [[c/_conformations|conformations]] of [[c/_cyclohexane|cyclohexane]] rings (the [[o/_other|other]] [[b/_being|being]] [[c/_chair|chair]]), shaped roughly [[l/_like|like]] a [[b/_boat|boat]].**
+- **[[o/_one|One]] of two [[p/_possible|possible]] [[c/_conformations|conformations]] of [[c/_cyclohexane|cyclohexane]] rings (the [[o/_other|other]] [[b/_being|being]] [[c/_chair|chair]]), shaped roughly [[l/_like|like]] a [[b/_boat|boat]].**
 - **The refugee [[b/_boats|boats]] [[a/_arriving|arriving]] in [[a/_australian|Australian]] waters, and by [[e/_extension|extension]], refugees [[g/_generally|generally]].**
 ---
 ### Synonyms
@@ -14,7 +14,7 @@
 - **To travel by [[b/_boat|boat]].**
 - **To transport in a [[b/_boat|boat]].**
 	- _Example: to boat goods_
-- **To place in a [[b/_boat|boat]].**
+- **To [[p/_place|place]] in a [[b/_boat|boat]].**
 	- _Example: to boat oars_
 ---
 ---

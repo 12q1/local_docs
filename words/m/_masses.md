@@ -1,7 +1,7 @@
 # Masses
 ---
 #noun
-- **(physical) [[m/_matter|Matter]], [[m/_material|material]].**
+- **([[p/_physical|physical]]) [[m/_matter|Matter]], [[m/_material|material]].**
 - **A [[l/_large|large]] quantity; a sum.**
 ---
 #verb
@@ -13,14 +13,14 @@
 - **The [[e/_eucharist|Eucharist]], [[n/_now|now]] [[e/_especially|especially]] in Roman [[c/_catholicism|Catholicism]].**
 - **[[c/_celebration|Celebration]] of the [[e/_eucharist|Eucharist]].**
 - **(usually as the [[m/_mass|Mass]]) The sacrament of the [[e/_eucharist|Eucharist]].**
-- **A [[m/_musical|musical]] setting of parts of the [[m/_mass|mass]].**
+- **A [[m/_musical|musical]] setting of [[p/_parts|parts]] of the [[m/_mass|mass]].**
 ---
 #verb
 - **To [[c/_celebrate|celebrate]] [[m/_mass|mass]].**
 ---
 #noun
-- **([[g/_generically|generically]]) People, [[e/_especially|especially]] a [[l/_large|large]] [[n/_number|number]] of people**
-- **The total population.**
+- **([[g/_generically|generically]]) [[p/_people|People]], [[e/_especially|especially]] a [[l/_large|large]] [[n/_number|number]] of [[p/_people|people]]**
+- **The total [[p/_population|population]].**
 	- _Example: The masses will be voting this Tuesday._
 - **The [[l/_lower|lower]] [[c/_classes|classes]] or [[a/_all|all]] but the [[e/_elite|elite]].**
 	- _Example: [...]  the ignorant masses  [...]_

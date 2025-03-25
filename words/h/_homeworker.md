@@ -1,6 +1,6 @@
 # Homeworker
 ---
 #noun
-- **A person who works from [[h/_home|home]].**
+- **A [[p/_person|person]] who works from [[h/_home|home]].**
 ---
 ---

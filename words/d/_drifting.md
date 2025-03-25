@@ -12,7 +12,7 @@
 	- _Example: A current of wind drifts snow or sand_
 - **To [[a/_accumulate|accumulate]] in [[h/_heaps|heaps]] by the [[f/_force|force]] of wind; to be [[d/_driven|driven]] [[i/_into|into]] [[h/_heaps|heaps]].**
 	- _Example: Snow or sand drifts._
-- **To [[m/_make|make]] a [[d/_drift|drift]]; to [[e/_examine|examine]] a vein or [[l/_ledge|ledge]] for the purpose of [[a/_ascertaining|ascertaining]] the presence of [[m/_metals|metals]] or [[o/_ores|ores]]; to [[f/_follow|follow]] a vein; to prospect.**
+- **To [[m/_make|make]] a [[d/_drift|drift]]; to [[e/_examine|examine]] a vein or [[l/_ledge|ledge]] for the purpose of [[a/_ascertaining|ascertaining]] the [[p/_presence|presence]] of [[m/_metals|metals]] or [[o/_ores|ores]]; to [[f/_follow|follow]] a vein; to prospect.**
 - **To [[e/_enlarge|enlarge]] or shape, as a [[h/_hole|hole]], with a [[d/_drift|drift]].**
 - **To [[o/_oversteer|oversteer]] a vehicle, [[c/_causing|causing]] [[l/_loss|loss]] of traction, while [[m/_maintaining|maintaining]] [[c/_control|control]] from [[e/_entry|entry]] to [[e/_exit|exit]] of a [[c/_corner|corner]]. See [[d/_drifting|Drifting]] (motorsport).**
 ---

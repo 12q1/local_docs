@@ -5,6 +5,6 @@
 - **A small [[c/_chamber|chamber]] of the [[i/_inner|inner]] [[e/_ear|ear]] of [[c/_certain|certain]] vertebrates [[f/_filled|filled]] with [[e/_endolymph|endolymph]] and [[c/_containing|containing]] an [[o/_otolith|otolith]].**
 - **A spot, as on the skin, or on the surface of the sun or of some [[o/_other|other]] [[l/_luminous|luminous]] [[o/_orb|orb]].**
 - **A rather [[l/_large|large]] spot or [[b/_blotch|blotch]] of [[c/_color|color]].**
-- **In planetary [[g/_geology|geology]], an unusually [[d/_dark|dark]] [[a/_area|area]] on the surface of a planet or [[m/_moon|moon]].**
+- **In [[p/_planetary|planetary]] [[g/_geology|geology]], an unusually [[d/_dark|dark]] [[a/_area|area]] on the surface of a [[p/_planet|planet]] or [[m/_moon|moon]].**
 ---
 ---

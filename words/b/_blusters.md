@@ -1,7 +1,7 @@
 # Blusters
 ---
 #noun
-- **Pompous, [[o/_officious|officious]] talk.**
+- **[[p/_pompous|Pompous]], [[o/_officious|officious]] talk.**
 - **A [[g/_gust|gust]] of wind.**
 - **[[f/_fitful|Fitful]] [[n/_noise|noise]] and violence.**
 ---

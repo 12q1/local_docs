@@ -1,7 +1,7 @@
 # Birds
 ---
 #noun
-- **A [[m/_member|member]] of the [[c/_class|class]] of [[a/_animals|animals]] [[a/_aves|Aves]] in the phylum [[c/_chordata|Chordata]], [[c/_characterized|characterized]] by [[b/_being|being]] warm-[[b/_blooded|blooded]], [[h/_having|having]] [[f/_feathers|feathers]] and wings usually [[c/_capable|capable]] of [[f/_flight|flight]], and [[l/_laying|laying]] [[e/_eggs|eggs]].**
+- **A [[m/_member|member]] of the [[c/_class|class]] of [[a/_animals|animals]] [[a/_aves|Aves]] in the [[p/_phylum|phylum]] [[c/_chordata|Chordata]], [[c/_characterized|characterized]] by [[b/_being|being]] warm-[[b/_blooded|blooded]], [[h/_having|having]] [[f/_feathers|feathers]] and wings usually [[c/_capable|capable]] of [[f/_flight|flight]], and [[l/_laying|laying]] [[e/_eggs|eggs]].**
 	- _Example: Ducks and sparrows are birds._
 - **A [[m/_man|man]], [[f/_fellow|fellow]].**
 - **A [[g/_girl|girl]] or woman, [[e/_especially|especially]] [[o/_one|one]] [[c/_considered|considered]] sexually [[a/_attractive|attractive]].**

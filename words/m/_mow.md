@@ -3,7 +3,7 @@
 #noun
 - **The [[a/_act|act]] of [[m/_mowing|mowing]] (a [[g/_garden|garden]], [[g/_grass|grass]] [[e/_etc|etc]].)**
 	- _Example: The lawn hasn't had a mow for a couple of months, so it's like a jungle out there!_
-- **A shot played with a sweeping or scythe-[[l/_like|like]] [[m/_motion|motion]].**
+- **A shot [[p/_played|played]] with a sweeping or scythe-[[l/_like|like]] [[m/_motion|motion]].**
 ---
 #verb
 - **To [[c/_cut|cut]] [[d/_down|down]] [[g/_grass|grass]] or [[c/_crops|crops]].**

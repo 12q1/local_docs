@@ -8,6 +8,6 @@
 - **To [[m/_make|make]] a [[b/_bride|bride]] of**
 ---
 #noun
-- **An [[i/_individual|individual]] [[l/_loop|loop]] or [[o/_other|other]] [[d/_device|device]] [[c/_connecting|connecting]] the patterns in [[l/_lacework|lacework]]**
+- **An [[i/_individual|individual]] [[l/_loop|loop]] or [[o/_other|other]] [[d/_device|device]] [[c/_connecting|connecting]] the [[p/_patterns|patterns]] in [[l/_lacework|lacework]]**
 ---
 ---

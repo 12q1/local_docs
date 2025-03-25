@@ -1,11 +1,11 @@
 # Cosset
 ---
 #noun
-- **A pet, [[e/_especially|especially]] a pet [[l/_lamb|lamb]].**
+- **A [[p/_pet|pet]], [[e/_especially|especially]] a [[p/_pet|pet]] [[l/_lamb|lamb]].**
 - **Someone [[i/_indulged|indulged]] or [[c/_cosseted|cosseted]].**
 ---
 #verb
-- **To treat [[l/_like|like]] a pet; to [[o/_overly|overly]] [[i/_indulge|indulge]].**
+- **To treat [[l/_like|like]] a [[p/_pet|pet]]; to [[o/_overly|overly]] [[i/_indulge|indulge]].**
 	- _Example: The car cossets its occupants in comfort._
 - **To [[f/_fondle|fondle]]; to touch or stroke [[l/_lovingly|lovingly]].**
 	- _Example: The foam cossets your skin._

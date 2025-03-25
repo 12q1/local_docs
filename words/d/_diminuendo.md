@@ -1,16 +1,16 @@
 # Diminuendo
 ---
 #noun
-- **A [[d/_dynamic|dynamic]] [[m/_mark|mark]] [[d/_directing|directing]] that a passage is to be played [[g/_gradually|gradually]] [[m/_more|more]] softly**
-- **A passage [[h/_having|having]] this [[m/_mark|mark]]**
+- **A [[d/_dynamic|dynamic]] [[m/_mark|mark]] [[d/_directing|directing]] that a [[p/_passage|passage]] is to be [[p/_played|played]] [[g/_gradually|gradually]] [[m/_more|more]] softly**
+- **A [[p/_passage|passage]] [[h/_having|having]] this [[m/_mark|mark]]**
 - **([[m/_metaphoric|metaphoric]]) The [[g/_gradual|gradual]] [[d/_dying|dying]] [[a/_away|away]] of something.**
 ---
 #adjective
-- **[[d/_describing|Describing]] a passage [[h/_having|having]] this [[m/_mark|mark]]**
+- **[[d/_describing|Describing]] a [[p/_passage|passage]] [[h/_having|having]] this [[m/_mark|mark]]**
 ---
 ### Antonyms
 - [[c/_crescendo|crescendo]]
 #adverb
-- **Played in this style**
+- **[[p/_played|Played]] in this style**
 ---
 ---

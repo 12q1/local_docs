@@ -1,10 +1,10 @@
 # Highfalutin
 ---
 #noun
-- **Pompous speech or writing.**
+- **[[p/_pompous|Pompous]] speech or writing.**
 ---
 #adjective
-- **Self-[[i/_important|important]], pompous; [[a/_arrogant|arrogant]] or [[e/_egotistical|egotistical]].**
+- **Self-[[i/_important|important]], [[p/_pompous|pompous]]; [[a/_arrogant|arrogant]] or [[e/_egotistical|egotistical]].**
 	- _Example: His speech was very highfalutin._
 ---
 ### Synonyms

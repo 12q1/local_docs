@@ -1,9 +1,9 @@
 # Downgraded
 ---
 #verb
-- **To place [[l/_lower|lower]] in position.**
+- **To [[p/_place|place]] [[l/_lower|lower]] in [[p/_position|position]].**
 	- _Example: The stock was downgraded from 'buy' to 'sell'._
-- **To '[[d/_dumb|dumb]] [[d/_down|down]]', reduce in [[c/_complexity|complexity]], or remove unnecessary parts.**
+- **To '[[d/_dumb|dumb]] [[d/_down|down]]', reduce in [[c/_complexity|complexity]], or remove unnecessary [[p/_parts|parts]].**
 - **To [[d/_disparage|disparage]].**
 - **To reduce the [[o/_official|official]] [[e/_estimate|estimate]] of a storm's [[i/_intensity|intensity]].**
 - **To revert software [[b/_back|back]] to an [[o/_older|older]] version.**

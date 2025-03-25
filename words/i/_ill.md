@@ -1,23 +1,23 @@
 # Ill
 ---
 #noun
-- **([[o/_often|often]] pluralized) Trouble; [[d/_distress|distress]]; [[m/_misfortune|misfortune]]; [[a/_adversity|adversity]].**
+- **([[o/_often|often]] [[p/_pluralized|pluralized]]) Trouble; [[d/_distress|distress]]; [[m/_misfortune|misfortune]]; [[a/_adversity|adversity]].**
 	- _Example: Music won't solve all the world's ills, but it can make them easier to bear._
 - **[[h/_harm|Harm]] or [[i/_injury|injury]].**
 	- _Example: I wouldn't want you to do me ill._
 - **[[e/_evil|Evil]]; [[m/_moral|moral]] wrongfulness.**
-- **A physical [[a/_ailment|ailment]]; an [[i/_illness|illness]].**
+- **A [[p/_physical|physical]] [[a/_ailment|ailment]]; an [[i/_illness|illness]].**
 	- _Example: I am incapacitated by rheumatism and other ills._
 - **PCP, phencyclidine.**
 ---
 #adjective
-- **[[e/_evil|Evil]]; wicked (of people).**
+- **[[e/_evil|Evil]]; wicked (of [[p/_people|people]]).**
 - **[[m/_morally|Morally]] reprehensible (of [[b/_behaviour|behaviour]] [[e/_etc|etc]].); [[b/_blameworthy|blameworthy]].**
 - **[[i/_indicative|Indicative]] of unkind or [[m/_malevolent|malevolent]] [[i/_intentions|intentions]]; [[h/_harsh|harsh]], [[c/_cruel|cruel]].**
 	- _Example: He suffered from ill treatment._
 - **Unpropitious, unkind, [[f/_faulty|faulty]], not up to reasonable standard.**
 	- _Example: ill manners; ill will_
-- **Unwell in terms of [[h/_health|health]] or physical [[c/_condition|condition]]; sick.**
+- **Unwell in terms of [[h/_health|health]] or [[p/_physical|physical]] [[c/_condition|condition]]; sick.**
 	- _Example: I've been ill with the flu for the past few days._
 - **[[h/_having|Having]] an urge to vomit.**
 	- _Example: Seeing those pictures made me ill._

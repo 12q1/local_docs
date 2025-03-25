@@ -4,7 +4,7 @@
 - **[[m/_measured|Measured]] by or in proportion to value.**
 ---
 #noun
-- **A piece of software that is used to [[d/_detect|detect]], [[d/_delete|delete]] and or [[n/_neutralize|neutralize]] [[c/_computer|computer]]-[[b/_based|based]] viruses.**
+- **A [[p/_piece|piece]] of software that is used to [[d/_detect|detect]], [[d/_delete|delete]] and or [[n/_neutralize|neutralize]] [[c/_computer|computer]]-[[b/_based|based]] viruses.**
 ---
 #adjective
 - **[[c/_containing|Containing]] [[b/_both|both]] [[a/_aural|aural]] and visual [[e/_elements|elements]].**
@@ -16,11 +16,11 @@
 ---
 #noun
 - **A [[b/_broad|broad]] street, [[e/_especially|especially]] [[o/_one|one]] [[b/_bordered|bordered]] by trees.**
-- **A way or [[o/_opening|opening]] for [[e/_entrance|entrance]] [[i/_into|into]] a place; a passage by which a place [[m/_may|may]] be reached; a way of [[a/_approach|approach]] or of [[e/_exit|exit]].**
-- **The principal walk or [[a/_approach|approach]] to a [[h/_house|house]] which is withdrawn from the road, [[e/_especially|especially]], such [[a/_approach|approach]] [[b/_bordered|bordered]] on [[e/_each|each]] side by trees; [[a/_any|any]] [[b/_broad|broad]] passageway thus [[b/_bordered|bordered]].**
+- **A way or [[o/_opening|opening]] for [[e/_entrance|entrance]] [[i/_into|into]] a [[p/_place|place]]; a [[p/_passage|passage]] by which a [[p/_place|place]] [[m/_may|may]] be reached; a way of [[a/_approach|approach]] or of [[e/_exit|exit]].**
+- **The principal walk or [[a/_approach|approach]] to a [[h/_house|house]] which is withdrawn from the road, [[e/_especially|especially]], such [[a/_approach|approach]] [[b/_bordered|bordered]] on [[e/_each|each]] side by trees; [[a/_any|any]] [[b/_broad|broad]] [[p/_passageway|passageway]] thus [[b/_bordered|bordered]].**
 - **A [[m/_method|method]] or [[m/_means|means]] by which something [[m/_may|may]] be [[a/_accomplished|accomplished]].**
 	- _Example: There are several avenues by which we can approach this problem._
-- **(urban toponymy) A street, [[e/_especially|especially]], in [[c/_cities|cities]] [[l/_laid|laid]] [[o/_out|out]] in a [[g/_grid|grid]] pattern, [[o/_one|one]] that is in a particular side of the [[c/_city|city]] or that runs in a particular [[d/_direction|direction]].**
+- **(urban toponymy) A street, [[e/_especially|especially]], in [[c/_cities|cities]] [[l/_laid|laid]] [[o/_out|out]] in a [[g/_grid|grid]] [[p/_pattern|pattern]], [[o/_one|one]] that is in a [[p/_particular|particular]] side of the [[c/_city|city]] or that runs in a [[p/_particular|particular]] [[d/_direction|direction]].**
 ---
 ### Synonyms
 - [[a/_av|av]], [[a/_av.|av.]], [[a/_ave|ave]], [[a/_ave.|ave.]], [[b/_boulevard|boulevard]], [[d/_drive|drive]]
@@ -31,7 +31,7 @@
 	- _Example: I soon found I was only an average chess player._
 - **Typical.**
 	- _Example: The average family will not need the more expensive features of this product._
-- **Not [[o/_outstanding|outstanding]], not [[g/_good|good]], [[b/_banal|banal]]; [[b/_bad|bad]] or poor.**
+- **Not [[o/_outstanding|outstanding]], not [[g/_good|good]], [[b/_banal|banal]]; [[b/_bad|bad]] or [[p/_poor|poor]].**
 ---
 ### Synonyms
 - [[a/_av.|av.]], [[a/_ave.|ave.]], [[a/_avg.|avg.]], [[e/_expectation|expectation]], [[m/_mean|mean]], [[m/_mediocre|mediocre]], [[m/_medium|medium]], [[m/_middle|middle]], [[m/_middling|middling]], [[r/_ranking|ranking]], [[s/_so-so|so-so]], [[u/_unremarkable|unremarkable]], [[o/_ordinary|ordinary]], [[u/_uninspiring|uninspiring]], [[b/_bog-standard|bog-standard]], [[c/_conventional|conventional]], [[n/_normal|normal]], [[r/_regular|regular]], [[s/_standard|standard]], [[t/_typical|typical]], [[u/_usual|usual]]

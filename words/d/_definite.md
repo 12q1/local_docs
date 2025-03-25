@@ -1,7 +1,7 @@
 # Definite
 ---
 #noun
-- **([[g/_grammar|grammar]]) A word or phrase that [[d/_designates|designates]] a specified or [[i/_identified|identified]] person or [[e/_entity|entity]].**
+- **([[g/_grammar|grammar]]) A word or [[p/_phrase|phrase]] that [[d/_designates|designates]] a specified or [[i/_identified|identified]] [[p/_person|person]] or [[e/_entity|entity]].**
 - **[[a/_anything|Anything]] that is [[d/_defined|defined]] or [[d/_determined|determined]].**
 ---
 #adjective
@@ -10,7 +10,7 @@
 - **[[f/_free|Free]] from [[a/_any|any]] [[d/_doubt|doubt]].**
 	- _Example: definite knowledge_
 - **[[d/_determined|Determined]]; resolved; [[d/_decided|decided]].**
-- **[[d/_designating|Designating]] an [[i/_identified|identified]] or [[i/_immediately|immediately]] [[i/_identifiable|identifiable]] person or thing, or [[g/_group|group]] of persons or things**
+- **[[d/_designating|Designating]] an [[i/_identified|identified]] or [[i/_immediately|immediately]] [[i/_identifiable|identifiable]] [[p/_person|person]] or thing, or [[g/_group|group]] of [[p/_persons|persons]] or things**
 	- _Example: the definite article_
 ---
 ### Synonyms

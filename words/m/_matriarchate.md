@@ -2,6 +2,6 @@
 ---
 #noun
 - **A [[m/_matriarchal|matriarchal]] system or [[c/_community|community]].**
-- **The position of a [[m/_matriarch|matriarch]].**
+- **The [[p/_position|position]] of a [[m/_matriarch|matriarch]].**
 ---
 ---

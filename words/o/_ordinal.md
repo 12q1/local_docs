@@ -6,7 +6,7 @@
 - **A [[b/_book|book]] used in the [[o/_ordination|ordination]] of [[a/_anglican|Anglican]] [[m/_ministers|ministers]], or in [[c/_certain|certain]] Roman [[c/_catholic|Catholic]] services**
 ---
 #adjective
-- **(of a [[n/_number|number]]) [[i/_indicating|indicating]] position in a sequence**
+- **(of a [[n/_number|number]]) [[i/_indicating|indicating]] [[p/_position|position]] in a sequence**
 - **Of or relating to the [[g/_groupings|groupings]] [[c/_called|called]] [[o/_orders|orders]]**
 - **[[i/_intercardinal|Intercardinal]]**
 ---

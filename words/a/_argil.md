@@ -1,6 +1,6 @@
 # Argil
 ---
 #noun
-- **Potter's [[c/_clay|clay]].**
+- **[[p/_potter|Potter]]'s [[c/_clay|clay]].**
 ---
 ---

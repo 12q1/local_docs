@@ -2,7 +2,7 @@
 ---
 #noun
 - **([[o/_often|often]] plurale tantum) [[d/_distant|Distant]] and [[c/_close|close]] relatives, [[c/_collectively|collectively]]; [[k/_kin|kin]].**
-- **([[o/_often|often]] plurale tantum) People of the same [[e/_ethnic|ethnic]] [[d/_descent|descent]], not [[i/_including|including]] speaker; [[b/_brethren|brethren]].**
+- **([[o/_often|often]] plurale tantum) [[p/_people|People]] of the same [[e/_ethnic|ethnic]] [[d/_descent|descent]], not [[i/_including|including]] speaker; [[b/_brethren|brethren]].**
 - **A [[g/_grouping|grouping]] of relatives.**
 - **[[b/_blood|Blood]] relationship.**
 - **[[a/_affinity|Affinity]], [[l/_likeness|likeness]].**

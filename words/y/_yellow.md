@@ -3,10 +3,10 @@
 #noun
 - **The [[c/_colour|colour]] of [[g/_gold|gold]], [[b/_butter|butter]], or a [[l/_lemon|lemon]]; the [[c/_colour|colour]] [[o/_obtained|obtained]] by [[m/_mixing|mixing]] [[g/_green|green]] and red [[l/_light|light]], or by subtracting [[b/_blue|blue]] from white [[l/_light|light]].**
 - **The [[i/_intermediate|intermediate]] [[l/_light|light]] in a set of three traffic [[l/_lights|lights]], the [[i/_illumination|illumination]] of which [[i/_indicates|indicates]] that [[d/_drivers|drivers]] should stop short of the [[i/_intersection|intersection]] [[i/_if|if]] it is safe to [[d/_do|do]] so.**
-- **[[o/_one|One]] of the [[c/_colour|colour]] [[b/_balls|balls]] used in snooker, with a value of 2 points.**
-- **(pocket [[b/_billiards|billiards]]) [[o/_one|One]] of two [[g/_groups|groups]] of [[o/_object|object]] [[b/_balls|balls]], or a [[b/_ball|ball]] from that [[g/_group|group]], as used in the principally [[b/_british|British]] version of pool that [[m/_makes|makes]] use of unnumbered [[b/_balls|balls]] (the ([[y/_yellow|yellow]](s) and red(s)); [[c/_contrast|contrast]] stripes and solids in the [[o/_originally|originally]] [[a/_american|American]] version with [[n/_numbered|numbered]] [[b/_balls|balls]]).**
+- **[[o/_one|One]] of the [[c/_colour|colour]] [[b/_balls|balls]] used in snooker, with a value of 2 [[p/_points|points]].**
+- **([[p/_pocket|pocket]] [[b/_billiards|billiards]]) [[o/_one|One]] of two [[g/_groups|groups]] of [[o/_object|object]] [[b/_balls|balls]], or a [[b/_ball|ball]] from that [[g/_group|group]], as used in the principally [[b/_british|British]] version of [[p/_pool|pool]] that [[m/_makes|makes]] use of unnumbered [[b/_balls|balls]] (the ([[y/_yellow|yellow]](s) and red(s)); [[c/_contrast|contrast]] stripes and solids in the [[o/_originally|originally]] [[a/_american|American]] version with [[n/_numbered|numbered]] [[b/_balls|balls]]).**
 - **A [[y/_yellow|yellow]] [[c/_card|card]].**
-- **[[a/_any|Any]] of various pierid [[b/_butterflies|butterflies]] of the subfamily Coliadinae, [[e/_especially|especially]] the [[y/_yellow|yellow]] [[c/_coloured|coloured]] species. [[c/_compare|Compare]] sulphur.**
+- **[[a/_any|Any]] of various [[p/_pierid|pierid]] [[b/_butterflies|butterflies]] of the subfamily Coliadinae, [[e/_especially|especially]] the [[y/_yellow|yellow]] [[c/_coloured|coloured]] species. [[c/_compare|Compare]] sulphur.**
 ---
 ### Synonyms
 - [[a/_amber|amber]]
@@ -20,12 +20,12 @@
 - **[[h/_having|Having]] [[y/_yellow|yellow]] as [[i/_its|its]] [[c/_colour|colour]].**
 - **[[l/_lacking|Lacking]] [[c/_courage|courage]].**
 - **[[c/_characterized|Characterized]] by sensationalism, [[l/_lurid|lurid]] [[c/_content|content]], and [[d/_doubtful|doubtful]] [[a/_accuracy|accuracy]].**
-- **[[f/_far|Far]] [[e/_east|East]] [[a/_asian|Asian]] (relating to [[a/_asian|Asian]] people).**
+- **[[f/_far|Far]] [[e/_east|East]] [[a/_asian|Asian]] (relating to [[a/_asian|Asian]] [[p/_people|people]]).**
 - **Of [[m/_mixed|mixed]] [[a/_aboriginal|Aboriginal]] and [[c/_caucasian|Caucasian]] [[a/_ancestry|ancestry]].**
 - **[[h/_high|High]] [[y/_yellow|yellow]].**
 - **Related to the [[l/_liberal|Liberal]] [[d/_democrats|Democrats]].**
 	- _Example: 2012 March 2, Andrew Grice, "Yellow rebels take on Clegg over NHS 'betrayal'", The Independent_
-- **Related to the [[f/_free|Free]] [[d/_democratic|Democratic]] Party of [[g/_germany|Germany]].**
+- **Related to the [[f/_free|Free]] [[d/_democratic|Democratic]] [[p/_party|Party]] of [[g/_germany|Germany]].**
 	- _Example: the black-yellow coalition_
 ---
 ### Synonyms

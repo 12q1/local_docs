@@ -11,10 +11,10 @@
 - **The whole working [[f/_force|force]] of a vessel.**
 - **[[f/_fullness|Fullness]] (of the [[m/_moon|moon]]).**
 - **An [[a/_angle|angle]] which, together with a [[g/_given|given]] [[a/_angle|angle]], [[m/_makes|makes]] a right [[a/_angle|angle]].**
-- **Something which [[c/_completes|completes]], something which [[c/_combines|combines]] with something [[e/_else|else]] to [[m/_make|make]] up a [[c/_complete|complete]] whole; [[l/_loosely|loosely]], something perceived to be a [[h/_harmonious|harmonious]] or [[d/_desirable|desirable]] partner or [[a/_addition|addition]].**
-- **([[g/_grammar|grammar]]) A word or [[g/_group|group]] of words that [[c/_completes|completes]] a [[g/_grammatical|grammatical]] [[c/_construction|construction]] in the predicate and that [[d/_describes|describes]] or is [[i/_identified|identified]] with the subject or [[o/_object|object]].**
+- **Something which [[c/_completes|completes]], something which [[c/_combines|combines]] with something [[e/_else|else]] to [[m/_make|make]] up a [[c/_complete|complete]] whole; [[l/_loosely|loosely]], something [[p/_perceived|perceived]] to be a [[h/_harmonious|harmonious]] or [[d/_desirable|desirable]] [[p/_partner|partner]] or [[a/_addition|addition]].**
+- **([[g/_grammar|grammar]]) A word or [[g/_group|group]] of words that [[c/_completes|completes]] a [[g/_grammatical|grammatical]] [[c/_construction|construction]] in the [[p/_predicate|predicate]] and that [[d/_describes|describes]] or is [[i/_identified|identified]] with the subject or [[o/_object|object]].**
 - **An [[i/_interval|interval]] which, together with the [[g/_given|given]] [[i/_interval|interval]], [[m/_makes|makes]] an [[o/_octave|octave]].**
-- **The [[c/_color|color]] which, when [[m/_mixed|mixed]] with the [[g/_given|given]] [[c/_color|color]], [[g/_gives|gives]] [[b/_black|black]] (for [[m/_mixing|mixing]] pigments) or white (for [[m/_mixing|mixing]] [[l/_light|light]]).**
+- **The [[c/_color|color]] which, when [[m/_mixed|mixed]] with the [[g/_given|given]] [[c/_color|color]], [[g/_gives|gives]] [[b/_black|black]] (for [[m/_mixing|mixing]] [[p/_pigments|pigments]]) or white (for [[m/_mixing|mixing]] [[l/_light|light]]).**
 	- _Example: The complement of blue is orange._
 - **[[g/_given|Given]] two sets, the set [[c/_containing|containing]] [[o/_one|one]] set's [[e/_elements|elements]] that are not [[m/_members|members]] of the [[o/_other|other]] set (whether a relative [[c/_complement|complement]] or an [[a/_absolute|absolute]] [[c/_complement|complement]]).**
 	- _Example: The complement of the odd numbers is the even numbers, relative to the natural numbers._
@@ -33,14 +33,14 @@
 - **[[o/_old|Old]] spelling of [[c/_compliment|compliment]]**
 ---
 #verb
-- **To [[c/_complete|complete]], to [[b/_bring|bring]] to perfection, to [[m/_make|make]] whole.**
+- **To [[c/_complete|complete]], to [[b/_bring|bring]] to [[p/_perfection|perfection]], to [[m/_make|make]] whole.**
 	- _Example: We believe your addition will complement the team._
-- **To provide what the partner [[l/_lacks|lacks]] and [[l/_lack|lack]] what the partner provides, thus [[f/_forming|forming]] part of a whole.**
+- **To provide what the [[p/_partner|partner]] [[l/_lacks|lacks]] and [[l/_lack|lack]] what the [[p/_partner|partner]] provides, thus [[f/_forming|forming]] [[p/_part|part]] of a whole.**
 	- _Example: I believe our talents really complement each other._
 - **To [[c/_change|change]] a voltage, [[n/_number|number]], [[c/_color|color]], [[e/_etc|etc]]. to [[i/_its|its]] [[c/_complement|complement]].**
 - **[[o/_old|Old]] [[f/_form|form]] of [[c/_compliment|compliment]]**
 ---
 #noun
-- **A [[g/_good|good]] whose [[a/_appeal|appeal]] [[i/_increases|increases]] with the popularity of [[i/_its|its]] [[c/_complement|complement]]**
+- **A [[g/_good|good]] whose [[a/_appeal|appeal]] [[i/_increases|increases]] with the [[p/_popularity|popularity]] of [[i/_its|its]] [[c/_complement|complement]]**
 ---
 ---

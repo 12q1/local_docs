@@ -2,6 +2,6 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[d/_domiciliating|domiciliating]].**
-- **Permanent residence**
+- **[[p/_permanent|Permanent]] residence**
 ---
 ---

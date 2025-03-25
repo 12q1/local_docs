@@ -1,6 +1,6 @@
 # Espressivo
 ---
 #adverb
-- **To be played in an [[e/_expressive|expressive]] [[m/_manner|manner]].**
+- **To be [[p/_played|played]] in an [[e/_expressive|expressive]] [[m/_manner|manner]].**
 ---
 ---

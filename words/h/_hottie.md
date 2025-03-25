@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[h/_hot|hot]] water [[b/_bottle|bottle]].**
-- **A physically or sexually [[a/_attractive|attractive]] person.**
+- **A [[p/_physically|physically]] or sexually [[a/_attractive|attractive]] [[p/_person|person]].**
 ---
 ### Synonyms
 - [[f/_fittie|fittie]]

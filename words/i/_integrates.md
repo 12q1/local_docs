@@ -1,8 +1,8 @@
 # Integrates
 ---
 #verb
-- **To [[f/_form|form]] [[i/_into|into]] [[o/_one|one]] whole; to [[m/_make|make]] [[e/_entire|entire]]; to [[c/_complete|complete]]; to renew; to restore; to perfect.**
-- **To [[i/_include|include]] as a [[c/_constituent|constituent]] part or [[f/_functionality|functionality]].**
+- **To [[f/_form|form]] [[i/_into|into]] [[o/_one|one]] whole; to [[m/_make|make]] [[e/_entire|entire]]; to [[c/_complete|complete]]; to renew; to restore; to [[p/_perfect|perfect]].**
+- **To [[i/_include|include]] as a [[c/_constituent|constituent]] [[p/_part|part]] or [[f/_functionality|functionality]].**
 	- _Example: They were keen to integrate their new skills into the performance._
 - **To [[i/_indicate|indicate]] the whole of; to [[g/_give|give]] the sum or total of; as, an [[i/_integrating|integrating]] [[a/_anemometer|anemometer]], [[o/_one|one]] that [[i/_indicates|indicates]] or registers the [[e/_entire|entire]] [[a/_action|action]] of the wind in a [[g/_given|given]] time.**
 - **To subject to the [[o/_operation|operation]] of [[i/_integration|integration]]; to [[f/_find|find]] the [[i/_integral|integral]] of.**

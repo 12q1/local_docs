@@ -7,7 +7,7 @@
 	- _Example: I decided to mulch the grass clippings._
 ---
 #noun
-- **The [[a/_act|act]] of preparing/[[a/_applying|applying]] a [[m/_mulch|mulch]].**
+- **The [[a/_act|act]] of [[p/_preparing|preparing]]/[[a/_applying|applying]] a [[m/_mulch|mulch]].**
 	- _Example: Proper mulching in summer months keeps the soil cooler._
 ---
 #adjective

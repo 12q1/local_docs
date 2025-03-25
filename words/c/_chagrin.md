@@ -1,7 +1,7 @@
 # Chagrin
 ---
 #noun
-- **[[d/_distress|Distress]] of [[m/_mind|mind]] [[c/_caused|caused]] by a [[f/_failure|failure]] of [[a/_aims|aims]] or plans, want of [[a/_appreciation|appreciation]], [[m/_mistakes|mistakes]] [[e/_etc|etc]]; vexation or [[m/_mortification|mortification]].**
+- **[[d/_distress|Distress]] of [[m/_mind|mind]] [[c/_caused|caused]] by a [[f/_failure|failure]] of [[a/_aims|aims]] or [[p/_plans|plans]], want of [[a/_appreciation|appreciation]], [[m/_mistakes|mistakes]] [[e/_etc|etc]]; vexation or [[m/_mortification|mortification]].**
 - **A type of [[l/_leather|leather]] or skin with a rough surface.**
 ---
 ### Synonyms

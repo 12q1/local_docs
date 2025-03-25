@@ -8,7 +8,7 @@
 - **A [[b/_blow|blow]] [[d/_delivered|delivered]] with the [[h/_hand|hand]] rigid and [[o/_outstretched|outstretched]].**
 	- _Example: A karate chop._
 - **[[o/_ocean|Ocean]] waves, [[g/_generally|generally]] [[c/_caused|caused]] by wind, [[d/_distinguished|distinguished]] from swell by [[b/_being|being]] smaller and not [[l/_lasting|lasting]] as [[l/_long|long]].**
-- **A [[h/_hand|hand]] where two or [[m/_more|more]] players [[h/_have|have]] an [[e/_equal|equal]]-valued [[h/_hand|hand]], resulting in the [[c/_chips|chips]] [[b/_being|being]] shared [[e/_equally|equally]] [[b/_between|between]] them.**
+- **A [[h/_hand|hand]] where two or [[m/_more|more]] [[p/_players|players]] [[h/_have|have]] an [[e/_equal|equal]]-valued [[h/_hand|hand]], resulting in the [[c/_chips|chips]] [[b/_being|being]] shared [[e/_equally|equally]] [[b/_between|between]] them.**
 	- _Example: With both players having an ace-high straight, the pot was a chop._
 - **(with "the") Termination, [[e/_especially|especially]] from [[e/_employment|employment]]; the sack.**
 - **A woodchopping [[c/_competition|competition]].**
@@ -17,13 +17,13 @@
 ### Synonyms
 - [[a/_axe|axe]], [[s/_sack|sack]]
 #verb
-- **To [[c/_cut|cut]] [[i/_into|into]] pieces with short, vigorous [[c/_cutting|cutting]] [[m/_motions|motions]].**
+- **To [[c/_cut|cut]] [[i/_into|into]] [[p/_pieces|pieces]] with short, vigorous [[c/_cutting|cutting]] [[m/_motions|motions]].**
 	- _Example: chop wood; chop an onion_
 - **To sever with an [[a/_axe|axe]] or similar [[i/_implement|implement]].**
 	- _Example: Chop off his head._
 - **To [[g/_give|give]] a [[d/_downward|downward]] [[c/_cutting|cutting]] [[b/_blow|blow]] or [[m/_movement|movement]], typically with the side of the [[h/_hand|hand]].**
 - **To [[h/_hit|hit]] the [[b/_ball|ball]] [[d/_downward|downward]] so that it takes a [[h/_high|high]] [[b/_bounce|bounce]].**
-- **To [[d/_divide|divide]] the pot (or tournament prize) [[b/_between|between]] two or [[m/_more|more]] players.**
+- **To [[d/_divide|divide]] the [[p/_pot|pot]] (or tournament prize) [[b/_between|between]] two or [[m/_more|more]] [[p/_players|players]].**
 - **To [[m/_make|make]] a quick, [[h/_heavy|heavy]] stroke or a series of strokes, with or as with an [[a/_ax|ax]].**
 - **To [[d/_do|do]] something suddenly with an unexpected [[m/_motion|motion]]; to [[c/_catch|catch]] or [[a/_attempt|attempt]] to seize.**
 - **To [[i/_interrupt|interrupt]]; with in or [[o/_out|out]].**
@@ -41,7 +41,7 @@
 - **To [[c/_converse|converse]], [[d/_discuss|discuss]], or speak with [[a/_another|another]].**
 ---
 #noun
-- **([[c/_chiefly|chiefly]] in the plural) A [[j/_jaw|jaw]] of an [[a/_animal|animal]].**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) A [[j/_jaw|jaw]] of an [[a/_animal|animal]].**
 - **A [[m/_movable|movable]] [[j/_jaw|jaw]] or [[c/_cheek|cheek]], as of a vice.**
 - **The [[l/_land|land]] at [[e/_each|each]] side of the [[m/_mouth|mouth]] of a river, [[h/_harbour|harbour]], or [[c/_channel|channel]].**
 	- _Example: East Chop; West Chop_
@@ -50,7 +50,7 @@
 - **An [[o/_official|official]] stamp or seal, as in [[c/_china|China]] and [[i/_india|India]].**
 - **A [[m/_mark|mark]] [[i/_indicating|indicating]] [[n/_nature|nature]], quality, or [[b/_brand|brand]].**
 	- _Example: silk of the first chop_
-- **A [[l/_license|license]] or passport that [[h/_has|has]] [[b/_been|been]] sealed.**
+- **A [[l/_license|license]] or [[p/_passport|passport]] that [[h/_has|has]] [[b/_been|been]] sealed.**
 - **A [[c/_complete|complete]] shipment.**
 	- _Example: a chop of tea_
 ---
@@ -61,11 +61,11 @@
 - [[c/_chanop|chanop]], [[o/_op|op]]
 #noun
 - **[[j/_jaws|Jaws]], [[m/_mouth|mouth]].**
-- **[[o/_one|One]]'s skill at [[m/_musical|musical]] [[i/_interpretation|interpretation]] and [[d/_delivery|delivery]] ([[o/_originally|originally]] of [[j/_jazz|jazz]]); [[m/_musical|musical]] performance [[a/_ability|ability]].**
+- **[[o/_one|One]]'s skill at [[m/_musical|musical]] [[i/_interpretation|interpretation]] and [[d/_delivery|delivery]] ([[o/_originally|originally]] of [[j/_jazz|jazz]]); [[m/_musical|musical]] [[p/_performance|performance]] [[a/_ability|ability]].**
 	- _Example: Although the bass player had no experience playing in New Orleans, the crowd's enthusiastic response showed that he had the chops to make it in the very particular Crescent City jazz scene._
 - **[[o/_one|One]]'s skill at [[a/_any|any]] [[e/_endeavor|endeavor]]; [[a/_ability|ability]], talent; [[c/_competency|competency]].**
 	- _Example: Although he did not know all of the ins and outs of the newsroom, he had the writing chops to become a regular contributor._
 - **The [[a/_area|area]] where two tides [[m/_meet|meet]] and [[c/_cause|cause]] an [[i/_irregular|irregular]] ([[c/_choppy|choppy]]) sea.**
-- **A pattern that [[i/_involves|involves]] [[c/_carrying|carrying]] the [[o/_object|object]] with the [[h/_hand|hand]] [[o/_over|over]] the [[n/_next|next]] [[o/_object|object]] [[b/_before|before]] throwing it.**
+- **A [[p/_pattern|pattern]] that [[i/_involves|involves]] [[c/_carrying|carrying]] the [[o/_object|object]] with the [[h/_hand|hand]] [[o/_over|over]] the [[n/_next|next]] [[o/_object|object]] [[b/_before|before]] throwing it.**
 ---
 ---

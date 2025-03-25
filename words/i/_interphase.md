@@ -7,6 +7,6 @@
 ### Synonyms
 - [[i/_interface|interface]], [[i/_interkinesis|interkinesis]]
 #adjective
-- **[[b/_between|Between]] phases**
+- **[[b/_between|Between]] [[p/_phases|phases]]**
 ---
 ---

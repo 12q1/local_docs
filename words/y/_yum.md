@@ -7,7 +7,7 @@
 ### Antonyms
 - [[y/_yuck|yuck]]
 #propernoun
-- **Yellowdog Updater, [[m/_modified|Modified]], a popular [[p/_package|package]] [[m/_manager|manager]] in Linux**
+- **Yellowdog Updater, [[m/_modified|Modified]], a [[p/_popular|popular]] [[p/_package|package]] [[m/_manager|manager]] in Linux**
 	- _Example: Please run yum in non-caching mode to correct this header._
 ---
 #interjection

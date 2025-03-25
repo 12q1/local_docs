@@ -1,12 +1,12 @@
 # Legitimate
 ---
 #noun
-- **A person [[b/_born|born]] to a [[l/_legally|legally]] [[m/_married|married]] [[c/_couple|couple]].**
+- **A [[p/_person|person]] [[b/_born|born]] to a [[l/_legally|legally]] [[m/_married|married]] [[c/_couple|couple]].**
 ---
 ### Antonyms
 - [[b/_bastard|bastard]], [[i/_illegitimate|illegitimate]]
 #verb
-- **To [[m/_make|make]] [[l/_legitimate|legitimate]], [[l/_lawful|lawful]], or valid; [[e/_especially|especially]], to put in the position or state of a [[l/_legitimate|legitimate]] person [[b/_before|before]] the [[l/_law|law]], by [[l/_legal|legal]] [[m/_means|means]].**
+- **To [[m/_make|make]] [[l/_legitimate|legitimate]], [[l/_lawful|lawful]], or valid; [[e/_especially|especially]], to put in the [[p/_position|position]] or state of a [[l/_legitimate|legitimate]] [[p/_person|person]] [[b/_before|before]] the [[l/_law|law]], by [[l/_legal|legal]] [[m/_means|means]].**
 ---
 ### Synonyms
 - [[l/_legitimize|legitimize]]

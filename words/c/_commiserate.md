@@ -1,6 +1,6 @@
 # Commiserate
 ---
 #adjective
-- **[[c/_commiserating|Commiserating]], pitying, [[l/_lamentful|lamentful]]**
+- **[[c/_commiserating|Commiserating]], [[p/_pitying|pitying]], [[l/_lamentful|lamentful]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Believe
 ---
 #verb
-- **To [[a/_accept|accept]] as true, particularly without [[a/_absolute|absolute]] [[c/_certainty|certainty]] ([[i/_i|i]].[[e/_e|e]]., as [[o/_opposed|opposed]] to [[k/_knowing|knowing]])**
+- **To [[a/_accept|accept]] as true, [[p/_particularly|particularly]] without [[a/_absolute|absolute]] [[c/_certainty|certainty]] ([[i/_i|i]].[[e/_e|e]]., as [[o/_opposed|opposed]] to [[k/_knowing|knowing]])**
 	- _Example: I believe there are faeries._
 - **To [[a/_accept|accept]] that someone is telling the truth.**
 	- _Example: Why did I ever believe you?_

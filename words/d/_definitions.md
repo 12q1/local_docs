@@ -7,9 +7,9 @@
 - **The [[a/_action|action]] or process of [[d/_defining|defining]].**
 - **The [[a/_act|act]] of [[d/_defining|defining]]; [[d/_determination|determination]] of the [[l/_limits|limits]].**
 - **A product of [[d/_defining|defining]].**
-- **The [[a/_action|action]] or power of [[d/_describing|describing]], [[e/_explaining|explaining]], or [[m/_making|making]] [[d/_definite|definite]] and [[c/_clear|clear]].**
+- **The [[a/_action|action]] or [[p/_power|power]] of [[d/_describing|describing]], [[e/_explaining|explaining]], or [[m/_making|making]] [[d/_definite|definite]] and [[c/_clear|clear]].**
 	- _Example: Her comic genius is beyond definition._
-- **[[c/_clarity|Clarity]] of visual presentation, [[d/_distinctness|distinctness]] of [[o/_outline|outline]] or [[d/_detail|detail]].**
+- **[[c/_clarity|Clarity]] of visual [[p/_presentation|presentation]], [[d/_distinctness|distinctness]] of [[o/_outline|outline]] or [[d/_detail|detail]].**
 	- _Example: Improve the definition of an image._
 - **[[c/_clarity|Clarity]], [[e/_especially|especially]] of [[m/_musical|musical]] sound in reproduction.**
 - **Sharp [[d/_demarcation|demarcation]] of [[o/_outlines|outlines]] or [[l/_limits|limits]].**

@@ -1,8 +1,8 @@
 # Clue
 ---
 #noun
-- **A strand of [[y/_yarn|yarn]] [[e/_etc|etc]]. as used to [[g/_guide|guide]] [[o/_one|one]] through a [[l/_labyrinth|labyrinth]]; something which points the way, a [[g/_guide|guide]].**
-- **[[i/_information|Information]] which [[m/_may|may]] [[l/_lead|lead]] [[o/_one|one]] to a [[c/_certain|certain]] point or [[c/_conclusion|conclusion]].**
+- **A strand of [[y/_yarn|yarn]] [[e/_etc|etc]]. as used to [[g/_guide|guide]] [[o/_one|one]] through a [[l/_labyrinth|labyrinth]]; something which [[p/_points|points]] the way, a [[g/_guide|guide]].**
+- **[[i/_information|Information]] which [[m/_may|may]] [[l/_lead|lead]] [[o/_one|one]] to a [[c/_certain|certain]] [[p/_point|point]] or [[c/_conclusion|conclusion]].**
 - **An [[o/_object|object]] or a [[k/_kind|kind]] of [[i/_indication|indication]] which [[m/_may|may]] be used as [[e/_evidence|evidence]].**
 - **[[i/_insight|Insight]] or understanding ("to [[h/_have|have]] a [[c/_clue|clue]] [[[a/_about|about]]]" or "to [[h/_have|have]] [[c/_clue|clue]]". See [[h/_have|have]] a [[c/_clue|clue]], [[c/_clue|clue]] stick)**
 ---

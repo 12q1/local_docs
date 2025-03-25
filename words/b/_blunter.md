@@ -1,11 +1,11 @@
 # Blunter
 ---
 #adjective
-- **[[h/_having|Having]] a thick [[e/_edge|edge]] or point; not sharp.**
+- **[[h/_having|Having]] a thick [[e/_edge|edge]] or [[p/_point|point]]; not sharp.**
 - **[[d/_dull|Dull]] in understanding; slow of [[d/_discernment|discernment]]; [[o/_opposed|opposed]] to [[a/_acute|acute]].**
-- **[[a/_abrupt|Abrupt]] in [[a/_address|address]]; plain; unceremonious; wanting the [[f/_forms|forms]] of [[c/_civility|civility]]; rough in [[m/_manners|manners]] or speech.**
+- **[[a/_abrupt|Abrupt]] in [[a/_address|address]]; [[p/_plain|plain]]; unceremonious; wanting the [[f/_forms|forms]] of [[c/_civility|civility]]; rough in [[m/_manners|manners]] or speech.**
 	- _Example: the blunt admission that he had never liked my company_
-- **[[h/_hard|Hard]] to [[i/_impress|impress]] or penetrate.**
+- **[[h/_hard|Hard]] to [[i/_impress|impress]] or [[p/_penetrate|penetrate]].**
 - **Slow or [[d/_deficient|deficient]] in [[f/_feeling|feeling]]: [[i/_insensitive|insensitive]].**
 ---
 ### Synonyms

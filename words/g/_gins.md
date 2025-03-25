@@ -10,9 +10,9 @@
 - **A trick; a [[d/_device|device]] or [[i/_instrument|instrument]].**
 - **[[c/_contrivance|Contrivance]]; [[a/_artifice|artifice]]; a trap; a snare.**
 - **A snare or trap for [[g/_game|game]].**
-- **A [[m/_machine|machine]] for raising or [[m/_moving|moving]] [[h/_heavy|heavy]] [[o/_objects|objects]], [[c/_consisting|consisting]] of a tripod [[f/_formed|formed]] of poles united at the top, with a windlass, pulleys, ropes, [[e/_etc|etc]].**
+- **A [[m/_machine|machine]] for raising or [[m/_moving|moving]] [[h/_heavy|heavy]] [[o/_objects|objects]], [[c/_consisting|consisting]] of a tripod [[f/_formed|formed]] of [[p/_poles|poles]] united at the top, with a windlass, pulleys, ropes, [[e/_etc|etc]].**
 - **A [[h/_hoisting|hoisting]] [[d/_drum|drum]], usually vertical; a whim.**
-- **A pile [[d/_driver|driver]].**
+- **A [[p/_pile|pile]] [[d/_driver|driver]].**
 - **A windpump.**
 - **A [[c/_cotton|cotton]] [[g/_gin|gin]].**
 - **An [[i/_instrument|instrument]] of torture worked with screws.**

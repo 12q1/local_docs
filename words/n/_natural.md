@@ -1,7 +1,7 @@
 # Natural
 ---
 #noun
-- **A [[n/_native|native]] [[i/_inhabitant|inhabitant]] of a place, [[c/_country|country]] [[e/_etc|etc]].**
+- **A [[n/_native|native]] [[i/_inhabitant|inhabitant]] of a [[p/_place|place]], [[c/_country|country]] [[e/_etc|etc]].**
 - **A [[n/_note|note]] that is not or is [[n/_no|no]] [[l/_longer|longer]] to be [[m/_modified|modified]] by an [[a/_accidental|accidental]].**
 - **The symbol ♮ used to [[i/_indicate|indicate]] such a [[n/_natural|natural]] [[n/_note|note]].**
 - **[[o/_one|One]] with an [[i/_innate|innate]] talent at or for something.**
@@ -9,7 +9,7 @@
 - **An [[a/_almost|almost]] white [[c/_colour|colour]], with tints of [[g/_grey|grey]], [[y/_yellow|yellow]] or [[b/_brown|brown]]; [[o/_originally|originally]] that of [[n/_natural|natural]] [[f/_fabric|fabric]].**
 - **[[o/_one|One]] with a simple [[m/_mind|mind]]; a [[f/_fool|fool]] or [[i/_idiot|idiot]].**
 - **[[o/_one|One]]'s [[n/_natural|natural]] [[l/_life|life]].**
-- **A [[h/_hairstyle|hairstyle]] for people with [[a/_afro|afro]]-textured [[h/_hair|hair]] in which the [[h/_hair|hair]] is not straightened or [[o/_otherwise|otherwise]] treated.**
+- **A [[h/_hairstyle|hairstyle]] for [[p/_people|people]] with [[a/_afro|afro]]-textured [[h/_hair|hair]] in which the [[h/_hair|hair]] is not straightened or [[o/_otherwise|otherwise]] treated.**
 - **[[c/_closed|Closed]] under submodules, [[d/_direct|direct]] sums, and [[i/_injective|injective]] [[h/_hulls|hulls]].**
 ---
 #adjective
@@ -28,7 +28,7 @@
 - **[[h/_having|Having]] 1 as the [[b/_base|base]] of the system, of a [[f/_function|function]] or [[n/_number|number]].**
 - **Without, or prior to, [[m/_modification|modification]] or [[a/_adjustment|adjustment]].**
 	- _Example: So-called second-generation silicone breast implants looked and felt more like the natural breast._
-- **[[h/_having|Having]] the [[c/_character|character]] or sentiments properly [[b/_belonging|belonging]] to [[o/_one|one]]'s position; not unnatural in [[f/_feelings|feelings]].**
+- **[[h/_having|Having]] the [[c/_character|character]] or sentiments properly [[b/_belonging|belonging]] to [[o/_one|one]]'s [[p/_position|position]]; not unnatural in [[f/_feelings|feelings]].**
 - **[[c/_connected|Connected]] by the ties of [[c/_consanguinity|consanguinity]].**
 - **Related [[g/_genetically|genetically]] but not [[l/_legally|legally]] to [[o/_one|one]]'s [[f/_father|father]]; [[b/_born|born]] [[o/_out|out]] of wedlock, [[i/_illegitimate|illegitimate]].**
 - **(of sexual [[i/_intercourse|intercourse]]) Without a [[c/_condom|condom]].**

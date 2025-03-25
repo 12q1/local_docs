@@ -1,6 +1,6 @@
 # Folktale
 ---
 #noun
-- **A tale or story that is part of the [[o/_oral|oral]] tradition of a people or a place.**
+- **A tale or story that is [[p/_part|part]] of the [[o/_oral|oral]] tradition of a [[p/_people|people]] or a [[p/_place|place]].**
 ---
 ---

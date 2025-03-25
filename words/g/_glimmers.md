@@ -4,7 +4,7 @@
 - **A [[f/_faint|faint]] [[l/_light|light]]; a [[d/_dim|dim]] [[g/_glow|glow]].**
 	- _Example: The glimmer of the fireflies was pleasant to watch._
 - **A [[f/_flash|flash]] of [[l/_light|light]].**
-- **A [[f/_faint|faint]] or remote possibility.**
+- **A [[f/_faint|faint]] or remote [[p/_possibility|possibility]].**
 	- _Example: A glimmer of hope._
 - **[[m/_mica|Mica]]**
 ---

@@ -1,16 +1,16 @@
 # Bosses
 ---
 #noun
-- **A person who [[o/_oversees|oversees]] and [[d/_directs|directs]] the work of [[o/_others|others]]; a supervisor.**
-- **A person in [[c/_charge|charge]] of a [[b/_business|business]] or [[c/_company|company]].**
+- **A [[p/_person|person]] who [[o/_oversees|oversees]] and [[d/_directs|directs]] the work of [[o/_others|others]]; a supervisor.**
+- **A [[p/_person|person]] in [[c/_charge|charge]] of a [[b/_business|business]] or [[c/_company|company]].**
 	- _Example: Chat turned to whisper when the boss entered the conference room._
 - **A [[l/_leader|leader]], the [[h/_head|head]] of an [[o/_organized|organized]] [[g/_group|group]] or team.**
 	- _Example: They named him boss because he had good leadership skills._
-- **The [[h/_head|head]] of a political party in a [[g/_given|given]] region or [[d/_district|district]].**
+- **The [[h/_head|head]] of a [[p/_political|political]] [[p/_party|party]] in a [[g/_given|given]] region or [[d/_district|district]].**
 	- _Example: He is the Republican boss in Kentucky._
 - **A term of [[a/_address|address]] to a [[m/_man|man]].**
 	- _Example: Yes, boss._
-- **An [[e/_enemy|enemy]], [[o/_often|often]] at the [[e/_end|end]] of a [[l/_level|level]], that is particularly [[c/_challenging|challenging]] and [[m/_must|must]] be [[b/_beaten|beaten]] in [[o/_order|order]] to progress.**
+- **An [[e/_enemy|enemy]], [[o/_often|often]] at the [[e/_end|end]] of a [[l/_level|level]], that is [[p/_particularly|particularly]] [[c/_challenging|challenging]] and [[m/_must|must]] be [[b/_beaten|beaten]] in [[o/_order|order]] to progress.**
 - **Wife.**
 	- _Example: There's no olive oil; will sunflower oil do? — I'll have to run that by the boss._
 ---
@@ -22,7 +22,7 @@
 ### Synonyms
 - 
 #noun
-- **A swelling, [[l/_lump|lump]] or protuberance in an [[a/_animal|animal]], person or [[o/_object|object]].**
+- **A swelling, [[l/_lump|lump]] or protuberance in an [[a/_animal|animal]], [[p/_person|person]] or [[o/_object|object]].**
 - **A [[l/_lump|lump]]-[[l/_like|like]] [[m/_mass|mass]] of rock, [[e/_especially|especially]] [[o/_one|one]] projecting through a stratum of [[d/_different|different]] rock.**
 - **A [[c/_convex|convex]] protuberance in [[h/_hammered|hammered]] work, [[e/_especially|especially]] the rounded projection in the [[c/_centre|centre]] of a shield.**
 - **A protrusion, [[f/_frequently|frequently]] a [[c/_cylinder|cylinder]] of [[m/_material|material]] that [[e/_extends|extends]] [[b/_beyond|beyond]] a [[h/_hole|hole]].**

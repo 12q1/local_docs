@@ -1,6 +1,6 @@
 # Craniometry
 ---
 #noun
-- **The practice of taking [[m/_measurements|measurements]] of the skull.**
+- **The [[p/_practice|practice]] of taking [[m/_measurements|measurements]] of the skull.**
 ---
 ---

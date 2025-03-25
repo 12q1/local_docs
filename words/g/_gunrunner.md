@@ -1,6 +1,6 @@
 # Gunrunner
 ---
 #noun
-- **A person who smuggles [[a/_arms|arms]] and [[a/_ammunition|ammunition]].**
+- **A [[p/_person|person]] who smuggles [[a/_arms|arms]] and [[a/_ammunition|ammunition]].**
 ---
 ---

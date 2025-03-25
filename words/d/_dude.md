@@ -3,7 +3,7 @@
 #noun
 - **A [[m/_man|man]], [[g/_generally|generally]] a [[y/_younger|younger]] [[m/_man|man]].**
 	- _Example: So we were at the mall and these two dudes just walk up to us and say "hi"._
-- **(used in the vocative) A term of [[a/_address|address]] for someone, typically a [[m/_man|man]], particularly when [[c/_cautioning|cautioning]] [[h/_him|him]] or [[o/_offering|offering]] [[h/_him|him]] [[a/_advice|advice]].**
+- **(used in the vocative) A term of [[a/_address|address]] for someone, typically a [[m/_man|man]], [[p/_particularly|particularly]] when [[c/_cautioning|cautioning]] [[h/_him|him]] or [[o/_offering|offering]] [[h/_him|him]] [[a/_advice|advice]].**
 	- _Example: Dude, I'd be careful around the principal; he's having a bad day._
 - **An [[i/_inexperienced|inexperienced]] [[c/_cowboy|cowboy]].**
 - **A tourist.**

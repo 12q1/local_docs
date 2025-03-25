@@ -1,0 +1,7 @@
+# Perron
+---
+#noun
+- **A stone [[b/_block|block]] used as the [[b/_base|base]] of a [[m/_monument|monument]], [[m/_marker|marker]], [[e/_etc|etc]].**
+- **A [[p/_platform|platform]] [[o/_outside|outside]] the raised [[e/_entrance|entrance]] to a [[c/_church|church]] or [[l/_large|large]] [[b/_building|building]], or the steps [[l/_leading|leading]] to such a [[p/_platform|platform]].**
+---
+---

@@ -10,7 +10,7 @@
 - **Of, relating to, [[d/_directed|directed]] toward, or situated at the [[f/_front|front]].**
 	- _Example: a frontal attack_
 - **Of or relating to the [[f/_forehead|forehead]] or [[f/_frontal|frontal]] [[b/_bone|bone]].**
-- **Of or relating to the [[f/_frontal|frontal]] plane.**
+- **Of or relating to the [[f/_frontal|frontal]] [[p/_plane|plane]].**
 - **Of or relating to a weather [[f/_front|front]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Ivied
 ---
 #adjective
-- **[[o/_overgrown|Overgrown]] with [[i/_ivy|ivy]] or [[a/_another|another]] [[c/_climbing|climbing]] plant.**
+- **[[o/_overgrown|Overgrown]] with [[i/_ivy|ivy]] or [[a/_another|another]] [[c/_climbing|climbing]] [[p/_plant|plant]].**
 ---
 ### Antonyms
 - [[u/_univied|univied]]

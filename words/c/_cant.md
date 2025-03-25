@@ -1,7 +1,7 @@
 # Cant
 ---
 #noun
-- **An [[a/_argot|argot]], the [[j/_jargon|jargon]] of a particular [[c/_class|class]] or subgroup.**
+- **An [[a/_argot|argot]], the [[j/_jargon|jargon]] of a [[p/_particular|particular]] [[c/_class|class]] or subgroup.**
 	- _Example: He had the look of a prince, but the cant of a fishmonger._
 - **A private or secret [[l/_language|language]] used by a religious sect, [[g/_gang|gang]], or [[o/_other|other]] [[g/_group|group]].**
 - **A [[l/_language|language]] spoken by some [[i/_irish|Irish]] Travellers; Shelta.**
@@ -15,8 +15,8 @@
 - [[a/_argot|argot]], [[j/_jargon|jargon]], [[s/_slang|slang]], [[a/_argot|argot]], [[j/_jargon|jargon]], [[s/_slang|slang]]
 #verb
 - **To speak with the [[j/_jargon|jargon]] of a [[c/_class|class]] or subgroup.**
-- **To speak in set phrases.**
-- **To preach in a singsong [[f/_fashion|fashion]], [[e/_especially|especially]] in a [[f/_false|false]] or [[e/_empty|empty]] [[m/_manner|manner]].**
+- **To speak in set [[p/_phrases|phrases]].**
+- **To [[p/_preach|preach]] in a singsong [[f/_fashion|fashion]], [[e/_especially|especially]] in a [[f/_false|false]] or [[e/_empty|empty]] [[m/_manner|manner]].**
 - **Of a [[b/_blazon|blazon]], to [[m/_make|make]] a pun that references the [[b/_bearer|bearer]] of a [[c/_coat|coat]] of [[a/_arms|arms]].**
 - **To sell by [[a/_auction|auction]], or [[b/_bid|bid]] at an [[a/_auction|auction]].**
 ---

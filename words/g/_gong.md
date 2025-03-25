@@ -1,8 +1,8 @@
 # Gong
 ---
 #noun
-- **A percussion [[i/_instrument|instrument]] [[c/_consisting|consisting]] of a [[m/_metal|metal]] [[d/_disk|disk]] that [[e/_emits|emits]] a sonorous sound when struck with a soft [[h/_hammer|hammer]].**
-- **A [[m/_medal|medal]] or [[a/_award|award]], particularly [[k/_knight|Knight]] [[b/_bachelor|Bachelor]].**
+- **A [[p/_percussion|percussion]] [[i/_instrument|instrument]] [[c/_consisting|consisting]] of a [[m/_metal|metal]] [[d/_disk|disk]] that [[e/_emits|emits]] a sonorous sound when struck with a soft [[h/_hammer|hammer]].**
+- **A [[m/_medal|medal]] or [[a/_award|award]], [[p/_particularly|particularly]] [[k/_knight|Knight]] [[b/_bachelor|Bachelor]].**
 ---
 #verb
 - **To [[m/_make|make]] the sound of a [[g/_gong|gong]]; to ring a [[g/_gong|gong]].**

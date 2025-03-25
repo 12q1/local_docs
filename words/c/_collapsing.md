@@ -9,7 +9,7 @@
 - **For several [[b/_batsmen|batsmen]] to [[g/_get|get]] [[o/_out|out]] in quick succession**
 - **To [[c/_cause|cause]] something to [[c/_collapse|collapse]].**
 	- _Example: Hurry up and collapse the tent so we can get moving._
-- **To pass [[o/_out|out]] and [[f/_fall|fall]] to the [[f/_floor|floor]] or [[g/_ground|ground]], as from [[e/_exhaustion|exhaustion]] or [[o/_other|other]] [[i/_illness|illness]]; to [[f/_faint|faint]].**
+- **To [[p/_pass|pass]] [[o/_out|out]] and [[f/_fall|fall]] to the [[f/_floor|floor]] or [[g/_ground|ground]], as from [[e/_exhaustion|exhaustion]] or [[o/_other|other]] [[i/_illness|illness]]; to [[f/_faint|faint]].**
 	- _Example: The exhausted singer collapsed on stage and had to be taken to the hospital._
 ---
 ---

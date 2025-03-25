@@ -1,7 +1,7 @@
 # Chefs
 ---
 #noun
-- **The presiding [[c/_cook|cook]] in the [[k/_kitchen|kitchen]] of a [[l/_large|large]] [[h/_household|household]].**
+- **The [[p/_presiding|presiding]] [[c/_cook|cook]] in the [[k/_kitchen|kitchen]] of a [[l/_large|large]] [[h/_household|household]].**
 - **The [[h/_head|head]] [[c/_cook|cook]] of a restaurant or [[o/_other|other]] [[e/_establishment|establishment]].**
 - **[[a/_any|Any]] [[c/_cook|cook]].**
 	- _Example: Kiss the chef. (slogan on aprons used by home barbecue enthusiasts)_

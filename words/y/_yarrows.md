@@ -7,6 +7,6 @@
 ### Synonyms
 - [[s/_sanguinary|sanguinary]], [[t/_thousand-leaf|thousand-leaf]], [[a/_achillea|achillea]], [[m/_milfoil|milfoil]]
 #noun
-- **The [[g/_green|green]] woodpecker, Picus viridis.**
+- **The [[g/_green|green]] woodpecker, [[p/_picus|Picus]] viridis.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Illegitimate
 ---
 #noun
-- **A person [[b/_born|born]] to unmarried parents.**
+- **A [[p/_person|person]] [[b/_born|born]] to unmarried [[p/_parents|parents]].**
 ---
 ### Synonyms
 - [[b/_bastard|bastard]], [[l/_lovechild|lovechild]]
@@ -16,7 +16,7 @@
 	- _Example: an illegitimate inference_
 - **Not [[a/_authorized|authorized]] by [[g/_good|good]] usage; not [[g/_genuine|genuine]].**
 	- _Example: an illegitimate word_
-- **[[i/_involving|Involving]] the [[f/_fertilization|fertilization]] of pistils by stamens not of their [[o/_own|own]] [[l/_length|length]], in [[h/_heterogonously|heterogonously]] [[d/_dimorphic|dimorphic]] and trimorphic [[f/_flowers|flowers]].**
+- **[[i/_involving|Involving]] the [[f/_fertilization|fertilization]] of [[p/_pistils|pistils]] by stamens not of their [[o/_own|own]] [[l/_length|length]], in [[h/_heterogonously|heterogonously]] [[d/_dimorphic|dimorphic]] and trimorphic [[f/_flowers|flowers]].**
 	- _Example: illegitimate union; illegitimate fertilization_
 ---
 ### Synonyms

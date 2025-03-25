@@ -9,7 +9,7 @@
 	- _Example: The singer has issued a sweeping denial of all the rumors._
 - **Refusal to [[b/_believe|believe]] a problem [[e/_exists|exists]]**
 	- _Example: We couldn't break through his denial about being alcoholic._
-- **A [[d/_defense|defense]] [[m/_mechanism|mechanism]] [[i/_involving|involving]] a refusal to [[a/_accept|accept]] the truth of a phenomenon or prospect.**
+- **A [[d/_defense|defense]] [[m/_mechanism|mechanism]] [[i/_involving|involving]] a refusal to [[a/_accept|accept]] the truth of a [[p/_phenomenon|phenomenon]] or prospect.**
 	- _Example: He is in denial that he has a drinking problem._
 ---
 ---

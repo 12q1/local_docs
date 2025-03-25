@@ -9,7 +9,7 @@
 - **To [[c/_come|come]] to a [[c/_conclusion|conclusion]], to a [[f/_final|final]] [[d/_decision|decision]].**
 	- _Example: From the evidence, I conclude that this man was murdered._
 - **To [[m/_make|make]] a [[f/_final|final]] [[d/_determination|determination]] or [[j/_judgment|judgment]] [[c/_concerning|concerning]]; to [[j/_judge|judge]]; to [[d/_decide|decide]].**
-- **To shut [[o/_off|off]]; to restrain; to [[l/_limit|limit]]; to [[e/_estop|estop]]; to [[b/_bar|bar]]; [[g/_generally|generally]] in the passive.**
+- **To shut [[o/_off|off]]; to restrain; to [[l/_limit|limit]]; to [[e/_estop|estop]]; to [[b/_bar|bar]]; [[g/_generally|generally]] in the [[p/_passive|passive]].**
 	- _Example: A judgment concludes the introduction of further evidence._
 - **To shut up; to [[e/_enclose|enclose]].**
 - **To [[i/_include|include]]; to [[c/_comprehend|comprehend]]; to shut up together; to [[e/_embrace|embrace]].**

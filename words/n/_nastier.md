@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[d/_dirty|Dirty]], [[f/_filthy|filthy]].**
-- **[[c/_contemptible|Contemptible]], unpleasant (of a person).**
+- **[[c/_contemptible|Contemptible]], unpleasant (of a [[p/_person|person]]).**
 - **[[o/_objectionable|Objectionable]], unpleasant (of a thing); repellent, [[o/_offensive|offensive]].**
 - **[[i/_indecent|Indecent]] or [[o/_offensive|offensive]]; [[o/_obscene|obscene]], [[l/_lewd|lewd]].**
 - **Spiteful, unkind.**

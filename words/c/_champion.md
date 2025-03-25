@@ -3,7 +3,7 @@
 #noun
 - **An [[o/_ongoing|ongoing]] winner in a [[g/_game|game]] or [[c/_contest|contest]].**
 	- _Example: The defending champion is expected to defeat his challenger._
-- **Someone who is [[c/_chosen|chosen]] to represent a [[g/_group|group]] of people in a [[c/_contest|contest]].**
+- **Someone who is [[c/_chosen|chosen]] to represent a [[g/_group|group]] of [[p/_people|people]] in a [[c/_contest|contest]].**
 	- _Example: Barcelona is eligible to play in FIFA Club World Cup as the champion of Europe._
 - **Someone who [[f/_fights|fights]] for a [[c/_cause|cause]] or status.**
 	- _Example: champion of women's suffrage_
@@ -19,7 +19,7 @@
 #adjective
 - **[[a/_acting|Acting]] as a [[c/_champion|champion]]; that [[h/_has|has]] [[d/_defeated|defeated]] [[a/_all|all]] [[o/_one|one]]'s [[c/_competitors|competitors]].**
 - **[[e/_excellent|Excellent]]; [[b/_beyond|beyond]] [[c/_compare|compare]].**
-- **(predicative) [[e/_excellent|Excellent]]; [[b/_brilliant|brilliant]]; superb; [[d/_deserving|deserving]] of [[h/_high|high]] praise.**
+- **([[p/_predicative|predicative]]) [[e/_excellent|Excellent]]; [[b/_brilliant|brilliant]]; superb; [[d/_deserving|deserving]] of [[h/_high|high]] [[p/_praise|praise]].**
 	- _Example: "That rollercoaster was champion," laughed Vinny._
 ---
 ---

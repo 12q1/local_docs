@@ -1,7 +1,7 @@
 # Lazy
 ---
 #noun
-- **A [[l/_lazy|lazy]] person.**
+- **A [[l/_lazy|lazy]] [[p/_person|person]].**
 - **Sloth ([[a/_animal|animal]]).**
 ---
 #verb

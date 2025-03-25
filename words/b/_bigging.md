@@ -1,7 +1,7 @@
 # Bigging
 ---
 #verb
-- **To praise, recommend, or promote.**
+- **To [[p/_praise|praise]], recommend, or promote.**
 ---
 #verb
 - **To [[i/_inhabit|inhabit]]; [[o/_occupy|occupy]]**
@@ -10,7 +10,7 @@
 - **To [[d/_dwell|dwell]]; [[h/_have|have]] a [[d/_dwelling|dwelling]]**
 ---
 #noun
-- **A [[c/_coffee|coffee]] pot with a strainer or perforated [[m/_metallic|metallic]] vessel for [[h/_holding|holding]] the [[g/_ground|ground]] [[c/_coffee|coffee]], through which [[b/_boiling|boiling]] water is poured.**
+- **A [[c/_coffee|coffee]] [[p/_pot|pot]] with a strainer or [[p/_perforated|perforated]] [[m/_metallic|metallic]] vessel for [[h/_holding|holding]] the [[g/_ground|ground]] [[c/_coffee|coffee]], through which [[b/_boiling|boiling]] water is [[p/_poured|poured]].**
 ---
 #noun
 - **A [[h/_home|home]].**

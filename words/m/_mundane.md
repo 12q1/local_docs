@@ -2,13 +2,13 @@
 ---
 #noun
 - **An unremarkable, [[o/_ordinary|ordinary]] [[h/_human|human]] [[b/_being|being]].**
-- **(in various subcultures) A person [[c/_considered|considered]] to be "[[n/_normal|normal]]", part of the [[m/_mainstream|mainstream]] [[c/_culture|culture]], [[o/_outside|outside]] the subculture, not part of the [[e/_elite|elite]] [[g/_group|group]].**
+- **(in various subcultures) A [[p/_person|person]] [[c/_considered|considered]] to be "[[n/_normal|normal]]", [[p/_part|part]] of the [[m/_mainstream|mainstream]] [[c/_culture|culture]], [[o/_outside|outside]] the subculture, not [[p/_part|part]] of the [[e/_elite|elite]] [[g/_group|group]].**
 - **The world [[o/_outside|outside]] [[f/_fandom|fandom]]; the [[n/_normal|normal]], [[m/_mainstream|mainstream]] world.**
-- **(satanism) A person not a Satanist.**
+- **(satanism) A [[p/_person|person]] not a Satanist.**
 ---
 #adjective
 - **Worldly, [[e/_earthly|earthly]], profane, vulgar as [[o/_opposed|opposed]] to [[h/_heavenly|heavenly]].**
-- **Pertaining to the Universe, [[c/_cosmos|cosmos]] or physical reality, as [[o/_opposed|opposed]] to the spiritual world.**
+- **[[p/_pertaining|Pertaining]] to the Universe, [[c/_cosmos|cosmos]] or [[p/_physical|physical]] reality, as [[o/_opposed|opposed]] to the spiritual world.**
 - **[[o/_ordinary|Ordinary]]; not [[n/_new|new]].**
 - **Tedious; repetitive and [[b/_boring|boring]].**
 ---

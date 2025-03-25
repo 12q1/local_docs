@@ -14,6 +14,6 @@
 ---
 #noun
 - **The settlings of [[o/_oil|oil]], [[m/_molasses|molasses]], [[e/_etc|etc]]., at the [[b/_bottom|bottom]] of a [[b/_barrel|barrel]] or [[h/_hogshead|hogshead]].**
-- **Plural of [[f/_foot|foot]]**
+- **[[p/_plural|Plural]] of [[f/_foot|foot]]**
 ---
 ---

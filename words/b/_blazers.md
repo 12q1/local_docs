@@ -2,7 +2,7 @@
 ---
 #noun
 - **A semi-[[f/_formal|formal]] [[j/_jacket|jacket]].**
-- **A person or thing that [[b/_blazes|blazes]] ([[m/_marks|marks]] or [[c/_cuts|cuts]] a route).**
+- **A [[p/_person|person]] or thing that [[b/_blazes|blazes]] ([[m/_marks|marks]] or [[c/_cuts|cuts]] a route).**
 - **[[a/_anything|Anything]] that [[b/_blazes|blazes]] or [[g/_glows|glows]], as with [[h/_heat|heat]] or [[f/_flame|flame]].**
 - **The [[d/_dish|dish]] used when [[c/_cooking|cooking]] [[d/_directly|directly]] [[o/_over|over]] the [[f/_flame|flame]] of a [[c/_chafing|chafing]]-[[d/_dish|dish]] [[l/_lamp|lamp]], or the [[c/_coals|coals]] of a [[b/_brazier|brazier]].**
 - **[[o/_one|One]] who smokes [[c/_cannabis|cannabis]]; a stoner.**

@@ -2,6 +2,6 @@
 ---
 #noun
 - **A servant or valet to an [[a/_army|army]] [[o/_officer|officer]].**
-- **(by [[e/_extension|extension]]) A personal [[a/_assistant|assistant]] or supporter.**
+- **(by [[e/_extension|extension]]) A [[p/_personal|personal]] [[a/_assistant|assistant]] or supporter.**
 ---
 ---

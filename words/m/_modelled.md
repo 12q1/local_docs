@@ -1,7 +1,7 @@
 # Modelled
 ---
 #verb
-- **To [[d/_display|display]] for [[o/_others|others]] to see, [[e/_especially|especially]] in regard to wearing [[c/_clothing|clothing]] while performing the role of a [[f/_fashion|fashion]] [[m/_model|model]]**
+- **To [[d/_display|display]] for [[o/_others|others]] to see, [[e/_especially|especially]] in regard to wearing [[c/_clothing|clothing]] while [[p/_performing|performing]] the role of a [[f/_fashion|fashion]] [[m/_model|model]]**
 	- _Example: She modelled the shoes for her friends to see._
 - **To use as an [[o/_object|object]] in the [[c/_creation|creation]] of a [[f/_forecast|forecast]] or [[m/_model|model]]**
 	- _Example: They modelled the data with a computer to analyze the experiment’s results._

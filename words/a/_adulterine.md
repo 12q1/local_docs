@@ -6,7 +6,7 @@
 #adjective
 - **Spurious; [[d/_due|due]] to [[a/_adulteration|adulteration]].**
 - **[[b/_born|Born]] of [[a/_adultery|adultery]].**
-- **Pertaining to [[a/_adultery|adultery]].**
+- **[[p/_pertaining|Pertaining]] to [[a/_adultery|adultery]].**
 - **[[i/_illegal|Illegal]]; unlicensed.**
 ---
 ---

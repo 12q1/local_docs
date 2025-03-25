@@ -1,0 +1,11 @@
+# Paradigmatic
+---
+#noun
+- **A writer of [[m/_memoirs|memoirs]] of religious [[p/_persons|persons]], as [[e/_examples|examples]] of [[c/_christian|Christian]] [[e/_excellence|excellence]].**
+---
+#adjective
+- **Of or [[p/_pertaining|pertaining]] to a [[p/_paradigm|paradigm]].**
+- **Related as [[m/_members|members]] of a substitution [[c/_class|class]].**
+- **[[e/_exemplary|Exemplary]].**
+---
+---

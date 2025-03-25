@@ -6,6 +6,6 @@
 - **To [[a/_apply|apply]] [[l/_limewash|limewash]].**
 ---
 #verb
-- **To [[h/_hang|hang]] [[o/_out|out]]/socialize in an [[i/_informal|informal]], relaxed [[e/_environment|environment]], [[e/_especially|especially]] with [[f/_friends|friends]], for [[e/_example|example]] at a party or on the [[b/_beach|beach]].**
+- **To [[h/_hang|hang]] [[o/_out|out]]/socialize in an [[i/_informal|informal]], relaxed [[e/_environment|environment]], [[e/_especially|especially]] with [[f/_friends|friends]], for [[e/_example|example]] at a [[p/_party|party]] or on the [[b/_beach|beach]].**
 ---
 ---

@@ -9,7 +9,7 @@
 	- _Example: a battle cry_
 - **A [[c/_clamour|clamour]] or [[o/_outcry|outcry]].**
 - **A [[g/_group|group]] of [[h/_hounds|hounds]].**
-- **(by [[e/_extension|extension]]) A [[p/_pack|pack]] or [[c/_company|company]] of people.**
+- **(by [[e/_extension|extension]]) A [[p/_pack|pack]] or [[c/_company|company]] of [[p/_people|people]].**
 - **(of an [[a/_animal|animal]]) A typical sound [[m/_made|made]] by the species in question.**
 	- _Example: "Woof" is the cry of a dog, while "neigh" is the cry of a horse._
 - **A [[d/_desperate|desperate]] or urgent request.**

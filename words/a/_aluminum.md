@@ -3,6 +3,6 @@
 #noun
 - **A [[m/_metallic|metallic]] [[c/_chemical|chemical]] [[e/_element|element]] (symbol [[a/_al|Al]]) with an [[a/_atomic|atomic]] [[n/_number|number]] of 13.**
 - **A single [[a/_atom|atom]] of this [[e/_element|element]].**
-- **[[a/_aircraft|Aircraft]] or [[o/_other|other]] [[m/_machinery|machinery]] [[m/_made|made]] partially or wholly of [[a/_aluminum|aluminum]].**
+- **[[a/_aircraft|Aircraft]] or [[o/_other|other]] [[m/_machinery|machinery]] [[m/_made|made]] [[p/_partially|partially]] or wholly of [[a/_aluminum|aluminum]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Batata
 ---
 #noun
-- **Sweet potato (the plant).**
+- **Sweet [[p/_potato|potato]] (the [[p/_plant|plant]]).**
 ---
 ---

@@ -1,7 +1,7 @@
 # Frills
 ---
 #noun
-- **A strip of pleated [[f/_fabric|fabric]] or paper used as [[d/_decoration|decoration]] or trim.**
+- **A strip of [[p/_pleated|pleated]] [[f/_fabric|fabric]] or [[p/_paper|paper]] used as [[d/_decoration|decoration]] or trim.**
 - **A substance or [[m/_material|material]] on the [[e/_edge|edge]] of something, resembling such a strip of [[f/_fabric|fabric]].**
 - **A wrinkled [[e/_edge|edge]] to a [[f/_film|film]].**
 - **Something [[e/_extraneous|extraneous]] or not [[e/_essential|essential]]; something purely for show or [[e/_effect|effect]]; a [[l/_luxury|luxury]].**

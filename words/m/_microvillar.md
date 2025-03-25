@@ -1,6 +1,6 @@
 # Microvillar
 ---
 #adjective
-- **Of or pertaining to a [[m/_microvillus|microvillus]]**
+- **Of or [[p/_pertaining|pertaining]] to a [[m/_microvillus|microvillus]]**
 ---
 ---

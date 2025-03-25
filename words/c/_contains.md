@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[h/_hold|hold]] [[i/_inside|inside]].**
-- **To [[i/_include|include]] as a part.**
+- **To [[i/_include|include]] as a [[p/_part|part]].**
 - **To put [[c/_constraint|constraint]] upon; to restrain; to [[c/_confine|confine]]; to [[k/_keep|keep]] within [[b/_bounds|bounds]].**
 	- _Example: I'm so excited, I can hardly contain myself!_
 - **(of a set [[e/_etc|etc]].) To [[h/_have|have]] as an [[e/_element|element]] or subset.**

@@ -16,10 +16,10 @@
 - **A spear with a [[b/_barb|barb]] on the [[e/_end|end]] of it, used for [[c/_catching|catching]] [[f/_fish|fish]]; a type of [[h/_harpoon|harpoon]].**
 ---
 #noun
-- **A police [[i/_informer|informer]], a stool pigeon, someone [[e/_employed|employed]] by police to [[e/_entrap|entrap]] someone elseor provoke them to [[c/_commit|commit]] a [[c/_crime|crime]].**
+- **A [[p/_police|police]] [[i/_informer|informer]], a stool [[p/_pigeon|pigeon]], someone [[e/_employed|employed]] by [[p/_police|police]] to [[e/_entrap|entrap]] someone elseor provoke them to [[c/_commit|commit]] a [[c/_crime|crime]].**
 ---
 #verb
-- **To [[a/_act|act]] as a police [[i/_informer|informer]] or [[a/_agent|agent]] provocateur.**
+- **To [[a/_act|act]] as a [[p/_police|police]] [[i/_informer|informer]] or [[a/_agent|agent]] provocateur.**
 ---
 ### Synonyms
 - [[i/_inform|inform]], [[s/_snitch|snitch]]

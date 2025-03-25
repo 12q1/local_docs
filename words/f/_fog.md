@@ -5,7 +5,7 @@
 - **A [[m/_mist|mist]] or [[f/_film|film]] [[c/_clouding|clouding]] a surface.**
 - **A state of [[m/_mind|mind]] [[c/_characterized|characterized]] by [[l/_lethargy|lethargy]] and [[c/_confusion|confusion]].**
 	- _Example: He did so many drugs, he was still in a fog three months after going through detox._
-- **A silver [[d/_deposit|deposit]] or [[o/_other|other]] [[b/_blur|blur]] on a [[n/_negative|negative]] or [[d/_developed|developed]] photographic [[i/_image|image]].**
+- **A silver [[d/_deposit|deposit]] or [[o/_other|other]] [[b/_blur|blur]] on a [[n/_negative|negative]] or [[d/_developed|developed]] [[p/_photographic|photographic]] [[i/_image|image]].**
 - **[[d/_distance|Distance]] [[f/_fog|fog]].**
 ---
 ### Synonyms
@@ -20,7 +20,7 @@
 - **To [[d/_disperse|disperse]] [[i/_insecticide|insecticide]] [[i/_into|into]] (a [[f/_forest|forest]] [[c/_canopy|canopy]]) so as to [[c/_collect|collect]] [[o/_organisms|organisms]].**
 - **To [[o/_obscure|obscure]] in [[c/_condensation|condensation]] or water.**
 - **To [[m/_make|make]] [[c/_confusing|confusing]] or [[o/_obscure|obscure]].**
-- **To practice in a small or [[m/_mean|mean]] way; to pettifog.**
+- **To [[p/_practice|practice]] in a small or [[m/_mean|mean]] way; to [[p/_pettifog|pettifog]].**
 ---
 ### Synonyms
 - [[b/_blur|blur]], [[c/_cloud|cloud]], [[o/_obscure|obscure]]

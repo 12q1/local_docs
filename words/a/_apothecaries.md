@@ -1,8 +1,8 @@
 # Apothecaries
 ---
 #noun
-- **A person who [[m/_makes|makes]] and provides/sells [[d/_drugs|drugs]] and/or [[m/_medicines|medicines]].**
-- **A [[d/_drugstore|drugstore]] or pharmacy.**
+- **A [[p/_person|person]] who [[m/_makes|makes]] and provides/sells [[d/_drugs|drugs]] and/or [[m/_medicines|medicines]].**
+- **A [[d/_drugstore|drugstore]] or [[p/_pharmacy|pharmacy]].**
 - **A [[g/_glass|glass]] [[j/_jar|jar]] similar to those [[o/_once|once]] used for [[m/_medicine|medicine]].**
 ---
 ### Synonyms

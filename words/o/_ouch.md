@@ -1,7 +1,7 @@
 # Ouch
 ---
 #interjection
-- **An [[e/_expression|expression]] of [[o/_one|one]]'s [[o/_own|own]] physical [[p/_pain|pain]].**
+- **An [[e/_expression|expression]] of [[o/_one|one]]'s [[o/_own|own]] [[p/_physical|physical]] [[p/_pain|pain]].**
 	- _Example: Ouch! You stepped on my toe! That hurt!_
 - **An [[e/_expression|expression]] in sympathy at [[a/_another|another]]'s [[p/_pain|pain]].**
 	- _Example: Ouch! Her sunburn looks awful._

@@ -1,7 +1,7 @@
 # Nonpoisonous
 ---
 #adjective
-- **Not poisonous.**
+- **Not [[p/_poisonous|poisonous]].**
 ---
 ### Synonyms
 - [[n/_nontoxic|nontoxic]], [[n/_nonvenomous|nonvenomous]]

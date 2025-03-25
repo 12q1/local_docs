@@ -1,7 +1,7 @@
 # Barometers
 ---
 #noun
-- **An [[i/_instrument|instrument]] for [[m/_measuring|measuring]] [[a/_atmospheric|atmospheric]] pressure.**
+- **An [[i/_instrument|instrument]] for [[m/_measuring|measuring]] [[a/_atmospheric|atmospheric]] [[p/_pressure|pressure]].**
 - **(by [[e/_extension|extension]]) [[a/_anything|Anything]] used as a [[g/_gauge|gauge]] or [[i/_indicator|indicator]].**
 ---
 ---

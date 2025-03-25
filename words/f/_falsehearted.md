@@ -1,6 +1,6 @@
 # Falsehearted
 ---
 #adjective
-- **[[d/_disloyal|Disloyal]], perfidious.**
+- **[[d/_disloyal|Disloyal]], [[p/_perfidious|perfidious]].**
 ---
 ---

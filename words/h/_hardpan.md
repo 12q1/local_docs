@@ -1,7 +1,7 @@
 # Hardpan
 ---
 #noun
-- **A [[f/_former|former]] [[l/_lake|lake]], [[e/_especially|especially]] a [[l/_lake|lake]] that [[h/_has|has]] [[d/_dried|dried]] and [[h/_habitually|habitually]] remains [[d/_dry|dry]], [[o/_opposed|opposed]] to playas.**
+- **A [[f/_former|former]] [[l/_lake|lake]], [[e/_especially|especially]] a [[l/_lake|lake]] that [[h/_has|has]] [[d/_dried|dried]] and [[h/_habitually|habitually]] remains [[d/_dry|dry]], [[o/_opposed|opposed]] to [[p/_playas|playas]].**
 ---
 ### Synonyms
 - [[h/_hardpan|hardpan]]

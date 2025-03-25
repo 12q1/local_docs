@@ -1,6 +1,6 @@
 # Conciliators
 ---
 #noun
-- **A person who [[c/_conciliates|conciliates]]**
+- **A [[p/_person|person]] who [[c/_conciliates|conciliates]]**
 ---
 ---

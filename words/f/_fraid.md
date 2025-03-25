@@ -1,7 +1,7 @@
 # Fraid
 ---
 #adjective
-- **(usually used predicatively, not [[a/_attributively|attributively]], be [[a/_afraid|afraid]]) [[i/_impressed|Impressed]] with [[f/_fear|fear]] or [[a/_apprehension|apprehension]]; in [[f/_fear|fear]].**
+- **(usually used [[p/_predicatively|predicatively]], not [[a/_attributively|attributively]], be [[a/_afraid|afraid]]) [[i/_impressed|Impressed]] with [[f/_fear|fear]] or [[a/_apprehension|apprehension]]; in [[f/_fear|fear]].**
 	- _Example: He is afraid of death._
 - **Regretful, sorry.**
 	- _Example: I am afraid I cannot help you in this matter._

@@ -5,6 +5,6 @@
 - **To strike.**
 ---
 #noun
-- **(usually plural) Rope [[l/_lashed|lashed]] tightly [[o/_over|over]] the rigging or [[o/_other|other]] [[a/_area|area]].**
+- **(usually [[p/_plural|plural]]) Rope [[l/_lashed|lashed]] tightly [[o/_over|over]] the rigging or [[o/_other|other]] [[a/_area|area]].**
 ---
 ---

@@ -1,13 +1,13 @@
 # Fashion
 ---
 #noun
-- **A [[c/_current|current]] ([[c/_constantly|constantly]] [[c/_changing|changing]]) trend, [[f/_favored|favored]] for [[f/_frivolous|frivolous]] rather than practical, [[l/_logical|logical]], or [[i/_intellectual|intellectual]] reasons.**
-- **Popular trends.**
+- **A [[c/_current|current]] ([[c/_constantly|constantly]] [[c/_changing|changing]]) trend, [[f/_favored|favored]] for [[f/_frivolous|frivolous]] rather than [[p/_practical|practical]], [[l/_logical|logical]], or [[i/_intellectual|intellectual]] reasons.**
+- **[[p/_popular|Popular]] trends.**
 	- _Example: Check out the latest in fashion._
 - **A style or [[m/_manner|manner]] in which something is [[d/_done|done]].**
-- **The [[m/_make|make]] or [[f/_form|form]] of [[a/_anything|anything]]; the style, shape, [[a/_appearance|appearance]], or [[m/_mode|mode]] of structure; pattern, [[m/_model|model]]; workmanship; [[e/_execution|execution]].**
+- **The [[m/_make|make]] or [[f/_form|form]] of [[a/_anything|anything]]; the style, shape, [[a/_appearance|appearance]], or [[m/_mode|mode]] of structure; [[p/_pattern|pattern]], [[m/_model|model]]; workmanship; [[e/_execution|execution]].**
 	- _Example: the fashion of the ark, of a coat, of a house, of an altar, etc._
-- **Polite, [[f/_fashionable|fashionable]], or [[g/_genteel|genteel]] [[l/_life|life]]; social position; [[g/_good|good]] [[b/_breeding|breeding]].**
+- **[[p/_polite|Polite]], [[f/_fashionable|fashionable]], or [[g/_genteel|genteel]] [[l/_life|life]]; social [[p/_position|position]]; [[g/_good|good]] [[b/_breeding|breeding]].**
 	- _Example: men of fashion_
 ---
 #verb

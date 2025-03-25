@@ -11,7 +11,7 @@
 - **To [[g/_graft|graft]] by [[i/_inserting|inserting]] a [[b/_bud|bud]] under the [[b/_bark|bark]] of [[a/_another|another]] tree.**
 ---
 #noun
-- **The practice of uniting a single scion [[b/_bud|bud]] with rootstock or [[b/_bark|bark]]; the result of this practice.**
+- **The [[p/_practice|practice]] of uniting a single scion [[b/_bud|bud]] with rootstock or [[b/_bark|bark]]; the result of this [[p/_practice|practice]].**
 ---
 ### Synonyms
 - 

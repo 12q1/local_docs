@@ -1,7 +1,7 @@
 # Blabbers
 ---
 #noun
-- **A person who [[b/_blabs|blabs]]; a tattler; a telltale.**
+- **A [[p/_person|person]] who [[b/_blabs|blabs]]; a tattler; a telltale.**
 ---
 #verb
 - **To [[b/_blather|blather]]; to talk [[f/_foolishly|foolishly]] or [[i/_incoherently|incoherently]].**

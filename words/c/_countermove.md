@@ -1,7 +1,7 @@
 # Countermove
 ---
 #noun
-- **A [[m/_move|move]] in [[o/_opposition|opposition]] or response to a preceding [[m/_move|move]].**
+- **A [[m/_move|move]] in [[o/_opposition|opposition]] or response to a [[p/_preceding|preceding]] [[m/_move|move]].**
 	- _Example: move and countermove_
 ---
 #verb

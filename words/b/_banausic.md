@@ -1,7 +1,7 @@
 # Banausic
 ---
 #adjective
-- **Of or pertaining to technical [[m/_matters|matters]]; [[m/_mechanical|mechanical]].**
+- **Of or [[p/_pertaining|pertaining]] to technical [[m/_matters|matters]]; [[m/_mechanical|mechanical]].**
 - **Uncultured, unrefined, utilitarian.**
 ---
 ### Synonyms

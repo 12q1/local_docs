@@ -1,7 +1,7 @@
 # Pa
 ---
 #noun
-- **[[f/_father|Father]], papa.**
+- **[[f/_father|Father]], [[p/_papa|papa]].**
 - **[[g/_grandpa|Grandpa]], [[g/_grandfather|grandfather]].**
 ---
 ### Synonyms

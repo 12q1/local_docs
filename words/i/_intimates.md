@@ -3,7 +3,7 @@
 #noun
 - **A very [[c/_close|close]] [[f/_friend|friend]].**
 	- _Example: Only a couple of intimates had ever read his writing._
-- **(in plural [[i/_intimates|intimates]]) Women's underwear, sleepwear, or [[l/_lingerie|lingerie]], [[e/_especially|especially]] [[o/_offered|offered]] for sale in a store.**
+- **(in [[p/_plural|plural]] [[i/_intimates|intimates]]) Women's underwear, sleepwear, or [[l/_lingerie|lingerie]], [[e/_especially|especially]] [[o/_offered|offered]] for sale in a store.**
 	- _Example: You'll find bras and panties in the women's intimates section upstairs._
 ---
 ### Synonyms

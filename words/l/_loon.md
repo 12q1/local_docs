@@ -5,7 +5,7 @@
 - **A [[b/_boy|boy]], a [[l/_lad|lad]].**
 - **A [[h/_harlot|harlot]]; [[m/_mistress|mistress]].**
 - **A simpleton.**
-- **A [[c/_crazy|crazy]] or [[d/_deranged|deranged]] person.**
+- **A [[c/_crazy|crazy]] or [[d/_deranged|deranged]] [[p/_person|person]].**
 - **An [[e/_english|English]] soldier of an [[e/_expeditionary|expeditionary]] [[a/_army|army]] in [[i/_ireland|Ireland]].**
 ---
 ### Synonyms

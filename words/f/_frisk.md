@@ -1,7 +1,7 @@
 # Frisk
 ---
 #noun
-- **A [[f/_frolic|frolic]]; a [[f/_fit|fit]] of wanton [[g/_gaiety|gaiety]]; a [[g/_gambol|gambol]]: a [[l/_little|little]] playful skip or [[l/_leap|leap]].**
+- **A [[f/_frolic|frolic]]; a [[f/_fit|fit]] of wanton [[g/_gaiety|gaiety]]; a [[g/_gambol|gambol]]: a [[l/_little|little]] [[p/_playful|playful]] skip or [[l/_leap|leap]].**
 ---
 #verb
 - **To [[f/_frolic|frolic]], [[g/_gambol|gambol]], skip, [[d/_dance|dance]], [[l/_leap|leap]].**

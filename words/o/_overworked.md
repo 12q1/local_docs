@@ -10,7 +10,7 @@
 #adjective
 - **Subjected to too [[m/_much|much]] work.**
 	- _Example: Overworked and underpaid? Then quit your job and become a pro darts player._
-- **(of a word, phrase, [[e/_etc|etc]].) [[h/_having|Having]] [[b/_been|been]] [[o/_overused|overused]] such that it [[h/_has|has]] [[l/_lost|lost]] [[i/_its|its]] [[m/_meaning|meaning]]; trite; [[b/_banal|banal]].**
+- **(of a word, [[p/_phrase|phrase]], [[e/_etc|etc]].) [[h/_having|Having]] [[b/_been|been]] [[o/_overused|overused]] such that it [[h/_has|has]] [[l/_lost|lost]] [[i/_its|its]] [[m/_meaning|meaning]]; trite; [[b/_banal|banal]].**
 	- _Example: overworked, unaffecting cliches_
 ---
 ---

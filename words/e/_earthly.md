@@ -1,7 +1,7 @@
 # Earthly
 ---
 #noun
-- **([[c/_collective|collective]] or in the plural) That which is of the [[e/_earth|earth]] or [[e/_earthly|earthly]]; a terrestrial [[b/_being|being]].**
+- **([[c/_collective|collective]] or in the [[p/_plural|plural]]) That which is of the [[e/_earth|earth]] or [[e/_earthly|earthly]]; a terrestrial [[b/_being|being]].**
 - **A slightest [[c/_chance|chance]] (of success [[e/_etc|etc]].) or [[i/_idea|idea]] ([[a/_about|about]] something).**
 ---
 #adjective

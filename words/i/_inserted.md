@@ -9,6 +9,6 @@
 ### Antonyms
 - [[d/_delete|delete]]
 #adjective
-- **[[a/_attached|Attached]] to or [[g/_growing|growing]] [[o/_out|out]] of some part.**
+- **[[a/_attached|Attached]] to or [[g/_growing|growing]] [[o/_out|out]] of some [[p/_part|part]].**
 ---
 ---

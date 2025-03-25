@@ -1,10 +1,10 @@
 # Breve
 ---
 #noun
-- **A semicircular [[d/_diacritical|diacritical]] [[m/_mark|mark]] (˘) placed [[a/_above|above]] a vowel, [[c/_commonly|commonly]] used to [[m/_mark|mark]] [[i/_its|its]] quantity as short.**
+- **A semicircular [[d/_diacritical|diacritical]] [[m/_mark|mark]] (˘) [[p/_placed|placed]] [[a/_above|above]] a vowel, [[c/_commonly|commonly]] used to [[m/_mark|mark]] [[i/_its|its]] quantity as short.**
 - **A [[d/_double|double]] whole [[n/_note|note]].**
-- **[[a/_any|Any]] writ or precept under seal, [[i/_issued|issued]] [[o/_out|out]] of [[a/_any|any]] [[c/_court|court]].**
-- **The [[g/_great|great]] [[a/_ant|ant]] thrush of Sumatra (Pitta [[g/_gigas|gigas]]), which [[h/_has|has]] a very short tail.**
+- **[[a/_any|Any]] writ or [[p/_precept|precept]] under seal, [[i/_issued|issued]] [[o/_out|out]] of [[a/_any|any]] [[c/_court|court]].**
+- **The [[g/_great|great]] [[a/_ant|ant]] thrush of Sumatra ([[p/_pitta|Pitta]] [[g/_gigas|gigas]]), which [[h/_has|has]] a very short tail.**
 ---
 ### Synonyms
 - [[m/_micron|micron]]

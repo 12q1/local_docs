@@ -9,7 +9,7 @@
 - **A [[g/_gliding|gliding]] [[m/_movement|movement]] in [[d/_dance|dance]] ([[e/_especially|especially]] [[b/_ballet|ballet]]) with the same [[f/_foot|foot]] [[a/_always|always]] [[l/_leading|leading]].**
 ---
 #verb
-- **To perform this step.**
+- **To [[p/_perform|perform]] this step.**
 - **To [[d/_dismiss|dismiss]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Clock
 ---
 #noun
-- **An [[i/_instrument|instrument]] used to [[m/_measure|measure]] or [[k/_keep|keep]] track of time; a [[n/_non|non]]-portable timepiece.**
+- **An [[i/_instrument|instrument]] used to [[m/_measure|measure]] or [[k/_keep|keep]] track of time; a [[n/_non|non]]-[[p/_portable|portable]] timepiece.**
 - **The [[o/_odometer|odometer]] of a [[m/_motor|motor]] vehicle.**
 	- _Example: This car has over 300,000 miles on the clock._
 - **An [[e/_electrical|electrical]] signal that synchronizes timing [[a/_among|among]] [[d/_digital|digital]] [[c/_circuits|circuits]] of semiconductor [[c/_chips|chips]] or [[m/_modules|modules]].**

@@ -7,6 +7,6 @@
 ---
 #verb
 - **To [[m/_make|make]] an [[a/_adjective|adjective]] of; to [[f/_form|form]] or [[c/_convert|convert]] [[i/_into|into]] an [[a/_adjective|adjective]].**
-- **([[c/_chiefly|chiefly]] as a participle) To [[c/_characterize|characterize]] with an [[a/_adjective|adjective]]; to [[d/_describe|describe]] by using an [[a/_adjective|adjective]].**
+- **([[c/_chiefly|chiefly]] as a [[p/_participle|participle]]) To [[c/_characterize|characterize]] with an [[a/_adjective|adjective]]; to [[d/_describe|describe]] by using an [[a/_adjective|adjective]].**
 ---
 ---

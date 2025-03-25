@@ -1,0 +1,8 @@
+# Polyvinylpyrrolidone
+---
+#noun
+- **A water-soluble [[p/_polymer|polymer]] used in [[p/_pharmaceutical|pharmaceutical]] products, [[p/_paint|paint]] and as an [[a/_adhesive|adhesive]] for [[p/_postage|postage]] stamps and [[e/_envelopes|envelopes]].**
+---
+### Synonyms
+- [[P/_PVP|PVP]], [[p/_polyvidone|polyvidone]], [[p/_povidone|povidone]]
+---

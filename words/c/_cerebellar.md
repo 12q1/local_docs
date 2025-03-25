@@ -1,6 +1,6 @@
 # Cerebellar
 ---
 #adjective
-- **Of or pertaining to the [[c/_cerebellum|cerebellum]].**
+- **Of or [[p/_pertaining|pertaining]] to the [[c/_cerebellum|cerebellum]].**
 ---
 ---

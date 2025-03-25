@@ -5,6 +5,6 @@
 - **The [[m/_metaphysical|metaphysical]] [[c/_causal|causal]] [[g/_generator|generator]] of [[m/_motion|motion]], [[l/_life|life]], or divinish [[a/_aura|aura]].**
 ---
 #noun
-- **(papercraft) A [[b/_basic|basic]] [[o/_origami|origami]] paper, usually printed with a [[c/_colour|colour]] or pattern on [[o/_one|one]] side.**
+- **(papercraft) A [[b/_basic|basic]] [[o/_origami|origami]] [[p/_paper|paper]], usually printed with a [[c/_colour|colour]] or [[p/_pattern|pattern]] on [[o/_one|one]] side.**
 ---
 ---

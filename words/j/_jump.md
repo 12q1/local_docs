@@ -4,27 +4,27 @@
 - **The [[a/_act|act]] of [[j/_jumping|jumping]]; a [[l/_leap|leap]]; a spring; a [[b/_bound|bound]].**
 - **An [[e/_effort|effort]]; an [[a/_attempt|attempt]]; a venture.**
 - **A [[d/_dislocation|dislocation]] in a stratum; a [[f/_fault|fault]].**
-- **An [[a/_abrupt|abrupt]] [[i/_interruption|interruption]] of [[l/_level|level]] in a piece of [[b/_brickwork|brickwork]] or [[m/_masonry|masonry]].**
+- **An [[a/_abrupt|abrupt]] [[i/_interruption|interruption]] of [[l/_level|level]] in a [[p/_piece|piece]] of [[b/_brickwork|brickwork]] or [[m/_masonry|masonry]].**
 - **An [[i/_instance|instance]] of propelling [[o/_oneself|oneself]] upwards.**
 	- _Example: The boy took a skip and a jump down the lane._
 - **An [[o/_object|object]] which [[c/_causes|causes]] [[o/_one|one]] to [[j/_jump|jump]], a ramp.**
 	- _Example: He went off a jump._
 - **An [[i/_instance|instance]] of [[c/_causing|causing]] [[o/_oneself|oneself]] to [[f/_fall|fall]] from an [[e/_elevated|elevated]] [[l/_location|location]].**
 	- _Example: There were a couple of jumps from the bridge._
-- **An [[i/_instance|instance]] of [[e/_employing|employing]] a parachute to [[l/_leave|leave]] an [[a/_aircraft|aircraft]] or [[e/_elevated|elevated]] [[l/_location|location]].**
+- **An [[i/_instance|instance]] of [[e/_employing|employing]] a [[p/_parachute|parachute]] to [[l/_leave|leave]] an [[a/_aircraft|aircraft]] or [[e/_elevated|elevated]] [[l/_location|location]].**
 	- _Example: She was terrified before the jump, but was thrilled to be skydiving._
 - **An [[i/_instance|instance]] of reacting to a sudden stimulus by [[j/_jerking|jerking]] the [[b/_body|body]].**
 - **A [[j/_jumping|jumping]] [[m/_move|move]] in a [[b/_board|board]] [[g/_game|game]].**
 	- _Example: the knight's jump in chess_
 - **A [[b/_button|button]] (of a joypad, [[j/_joystick|joystick]] or similar [[d/_device|device]]) used to [[m/_make|make]] a video [[g/_game|game]] [[c/_character|character]] [[j/_jump|jump]] (propel [[i/_itself|itself]] upwards).**
 	- _Example: Press jump to start._
-- **An [[o/_obstacle|obstacle]] that [[f/_forms|forms]] part of a showjumping [[c/_course|course]], and that the [[h/_horse|horse]] [[h/_has|has]] to [[j/_jump|jump]] [[o/_over|over]] [[c/_cleanly|cleanly]].**
+- **An [[o/_obstacle|obstacle]] that [[f/_forms|forms]] [[p/_part|part]] of a showjumping [[c/_course|course]], and that the [[h/_horse|horse]] [[h/_has|has]] to [[j/_jump|jump]] [[o/_over|over]] [[c/_cleanly|cleanly]].**
 	- _Example: Heartless managed the scale the first jump but fell over the second._
 - **(with on) An [[e/_early|early]] start or an [[a/_advantage|advantage]].**
 	- _Example: He got a jump on the day because he had laid out everything the night before._
 - **A [[d/_discontinuity|discontinuity]] in the [[g/_graph|graph]] of a [[f/_function|function]], where the [[f/_function|function]] is [[c/_continuous|continuous]] in a punctured [[i/_interval|interval]] of the [[d/_discontinuity|discontinuity]].**
 - **An [[i/_instance|instance]] of [[f/_faster|faster]]-than-[[l/_light|light]] travel, not [[o/_observable|observable]] from [[o/_ordinary|ordinary]] space.**
-- **A [[c/_change|change]] of the path of [[e/_execution|execution]] to a [[d/_different|different]] [[l/_location|location]].**
+- **A [[c/_change|change]] of the [[p/_path|path]] of [[e/_execution|execution]] to a [[d/_different|different]] [[l/_location|location]].**
 - **Short for [[j/_jump|jump]]-start.**
 	- _Example: My car won't start. Could you give me a jump?_
 ---
@@ -35,20 +35,20 @@
 	- _Example: Kangaroos are known for their ability to jump high._
 - **To [[c/_cause|cause]] [[o/_oneself|oneself]] to [[l/_leave|leave]] an [[e/_elevated|elevated]] [[l/_location|location]] and [[f/_fall|fall]] [[d/_downward|downward]].**
 	- _Example: She is going to jump from the diving board._
-- **To pass by a spring or [[l/_leap|leap]]; to [[o/_overleap|overleap]].**
+- **To [[p/_pass|pass]] by a spring or [[l/_leap|leap]]; to [[o/_overleap|overleap]].**
 	- _Example: to jump a stream_
-- **To [[e/_employ|employ]] a parachute to [[l/_leave|leave]] an [[a/_aircraft|aircraft]] or [[e/_elevated|elevated]] [[l/_location|location]].**
+- **To [[e/_employ|employ]] a [[p/_parachute|parachute]] to [[l/_leave|leave]] an [[a/_aircraft|aircraft]] or [[e/_elevated|elevated]] [[l/_location|location]].**
 - **To react to a sudden, [[o/_often|often]] unexpected, stimulus (such as a sharp prick or a [[l/_loud|loud]] sound) by [[j/_jerking|jerking]] the [[b/_body|body]] violently.**
 	- _Example: The sudden sharp sound made me jump._
 - **To [[i/_increase|increase]] sharply, to rise, to shoot up.**
 	- _Example: Share prices jumped by 10% after the company announced record profits._
-- **To [[e/_employ|employ]] a [[m/_move|move]] in [[c/_certain|certain]] [[b/_board|board]] [[g/_games|games]] where [[o/_one|one]] [[g/_game|game]] piece is [[m/_moved|moved]] from [[o/_one|one]] [[l/_legal|legal]] position to [[a/_another|another]] passing [[o/_over|over]] the position of [[a/_another|another]] piece.**
+- **To [[e/_employ|employ]] a [[m/_move|move]] in [[c/_certain|certain]] [[b/_board|board]] [[g/_games|games]] where [[o/_one|one]] [[g/_game|game]] [[p/_piece|piece]] is [[m/_moved|moved]] from [[o/_one|one]] [[l/_legal|legal]] [[p/_position|position]] to [[a/_another|another]] [[p/_passing|passing]] [[o/_over|over]] the [[p/_position|position]] of [[a/_another|another]] [[p/_piece|piece]].**
 	- _Example: The player's knight jumped the opponent's bishop._
-- **To [[m/_move|move]] to a position (in a queue/[[l/_line|line]]) that is [[f/_further|further]] [[f/_forward|forward]].**
+- **To [[m/_move|move]] to a [[p/_position|position]] (in a queue/[[l/_line|line]]) that is [[f/_further|further]] [[f/_forward|forward]].**
 	- _Example: I hate it when people jump the queue._
 - **To [[a/_attack|attack]] suddenly and violently.**
 	- _Example: The hoodlum jumped a woman in the alley._
-- **To [[e/_engage|engage]] in sexual [[i/_intercourse|intercourse]] with (a person).**
+- **To [[e/_engage|engage]] in sexual [[i/_intercourse|intercourse]] with (a [[p/_person|person]]).**
 - **To [[c/_cause|cause]] to [[j/_jump|jump]].**
 	- _Example: The rider jumped the horse over the fence._
 - **To [[m/_move|move]] the [[d/_distance|distance]] [[b/_between|between]] two [[o/_opposing|opposing]] subjects.**
@@ -65,17 +65,17 @@
 ### Synonyms
 - [[a/_ambush|ambush]], [[a/_assail|assail]], [[s/_skydive|skydive]], [[h/_hump|hump]], [[r/_rabbit|rabbit]], [[s/_skip|skip]], [[l/_leap|leap]], [[s/_spring|spring]], [[f/_flinch|flinch]], [[j/_jerk|jerk]], [[t/_twitch|twitch]]
 #adjective
-- **[[e/_exact|Exact]]; [[m/_matched|matched]]; [[f/_fitting|fitting]]; precise.**
+- **[[e/_exact|Exact]]; [[m/_matched|matched]]; [[f/_fitting|fitting]]; [[p/_precise|precise]].**
 ---
 #adverb
-- **[[e/_exactly|Exactly]]; precisely**
+- **[[e/_exactly|Exactly]]; [[p/_precisely|precisely]]**
 ---
 ### Synonyms
 - [[a/_accurately|accurately]], [[j/_just|just]]
 #noun
-- **An [[o/_occasion|occasion]] when a performer or team of them ([[e/_especially|especially]] in vaudeville) [[e/_expects|expects]] to perform at a theater for a single [[e/_evening|evening]].**
-- **A single sexual [[e/_encounter|encounter]] [[b/_between|between]] two [[i/_individuals|individuals]], where at [[l/_least|least]] [[o/_one|one]] of the partners [[h/_has|has]] [[n/_no|no]] [[i/_immediate|immediate]] [[i/_intention|intention]] or [[e/_expectation|expectation]] of [[e/_establishing|establishing]] a [[l/_longer|longer]]-term sexual or romantic relationship. As the phrase [[i/_implies|implies]], the relationship [[l/_lasts|lasts]] for [[o/_only|only]] [[o/_one|one]] [[n/_night|night]].**
-- **[[e/_either|Either]] of the two partners [[i/_involved|involved]] in such a single sexual [[e/_encounter|encounter]].**
+- **An [[o/_occasion|occasion]] when a [[p/_performer|performer]] or team of them ([[e/_especially|especially]] in vaudeville) [[e/_expects|expects]] to [[p/_perform|perform]] at a theater for a single [[e/_evening|evening]].**
+- **A single sexual [[e/_encounter|encounter]] [[b/_between|between]] two [[i/_individuals|individuals]], where at [[l/_least|least]] [[o/_one|one]] of the [[p/_partners|partners]] [[h/_has|has]] [[n/_no|no]] [[i/_immediate|immediate]] [[i/_intention|intention]] or [[e/_expectation|expectation]] of [[e/_establishing|establishing]] a [[l/_longer|longer]]-term sexual or romantic relationship. As the [[p/_phrase|phrase]] [[i/_implies|implies]], the relationship [[l/_lasts|lasts]] for [[o/_only|only]] [[o/_one|one]] [[n/_night|night]].**
+- **[[e/_either|Either]] of the two [[p/_partners|partners]] [[i/_involved|involved]] in such a single sexual [[e/_encounter|encounter]].**
 ---
 ### Synonyms
 - 

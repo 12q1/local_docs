@@ -1,7 +1,7 @@
 # Emeritus
 ---
 #noun
-- **A person retired in this sense.**
+- **A [[p/_person|person]] retired in this sense.**
 ---
 #adjective
 - **Retired, but retaining an [[h/_honorific|honorific]] version of a previous title.**

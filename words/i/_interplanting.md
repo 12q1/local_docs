@@ -1,9 +1,9 @@
 # Interplanting
 ---
 #verb
-- **To [[a/_alternate|alternate]] plantings of two or [[m/_more|more]] species.**
+- **To [[a/_alternate|alternate]] [[p/_plantings|plantings]] of two or [[m/_more|more]] species.**
 ---
 #noun
-- **A plant planted [[b/_between|between]] [[o/_other|other]], typically [[l/_larger|larger]] plants**
+- **A [[p/_plant|plant]] [[p/_planted|planted]] [[b/_between|between]] [[o/_other|other]], typically [[l/_larger|larger]] [[p/_plants|plants]]**
 ---
 ---

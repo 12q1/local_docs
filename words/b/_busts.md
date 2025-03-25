@@ -1,10 +1,10 @@
 # Busts
 ---
 #noun
-- **A sculptural portrayal of a person's [[h/_head|head]] and shoulders.**
+- **A sculptural [[p/_portrayal|portrayal]] of a [[p/_person|person]]'s [[h/_head|head]] and shoulders.**
 - **The [[b/_breasts|breasts]] and upper thorax of a woman.**
-- **The [[d/_downward|downward]] portion of a [[b/_boom|boom]] and [[b/_bust|bust]] [[c/_cycle|cycle]]; a recession.**
-- **A police raid or takedown of a [[c/_criminal|criminal]] [[e/_enterprise|enterprise]].**
+- **The [[d/_downward|downward]] [[p/_portion|portion]] of a [[b/_boom|boom]] and [[b/_bust|bust]] [[c/_cycle|cycle]]; a recession.**
+- **A [[p/_police|police]] raid or takedown of a [[c/_criminal|criminal]] [[e/_enterprise|enterprise]].**
 - **A [[d/_disappointment|disappointment]].**
 ---
 #noun
@@ -12,7 +12,7 @@
 	- _Example: a narcotics bust_
 - **A [[f/_failed|failed]] [[e/_enterprise|enterprise]]; a [[b/_bomb|bomb]].**
 - **A refutation of an [[o/_opening|opening]], or of a previously published [[a/_analysis|analysis]].**
-- **A player who [[f/_fails|fails]] to [[m/_meet|meet]] [[e/_expectations|expectations]].**
+- **A [[p/_player|player]] who [[f/_fails|fails]] to [[m/_meet|meet]] [[e/_expectations|expectations]].**
 ---
 #verb
 - **To [[b/_break|break]].**

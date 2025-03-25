@@ -6,7 +6,7 @@
 ### Synonyms
 - [[l/_locoweed|locoweed]]
 #verb
-- **To poison with the [[l/_loco|loco]] plant; to [[a/_affect|affect]] with [[l/_locoism|locoism]].**
+- **To [[p/_poison|poison]] with the [[l/_loco|loco]] [[p/_plant|plant]]; to [[a/_affect|affect]] with [[l/_locoism|locoism]].**
 - **(by [[e/_extension|extension]]) To render [[i/_insane|insane]].**
 ---
 #noun

@@ -25,6 +25,6 @@
 #adjective
 - **[[o/_operable|Operable]] or [[a/_accessible|accessible]] on [[d/_deposit|deposit]] of [[c/_coins|coins]].**
 	- _Example: pay toilet_
-- **Pertaining to or requiring [[p/_payment|payment]].**
+- **[[p/_pertaining|Pertaining]] to or requiring [[p/_payment|payment]].**
 ---
 ---

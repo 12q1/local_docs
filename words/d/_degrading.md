@@ -1,7 +1,7 @@
 # Degrading
 ---
 #verb
-- **To [[l/_lower|lower]] in value or social position.**
+- **To [[l/_lower|lower]] in value or social [[p/_position|position]].**
 	- _Example: Fred degrades himself by his behaviour._
 - **To reduce in quality or purity.**
 	- _Example: The DNA sample has degraded._

@@ -3,7 +3,7 @@
 #noun
 - **A thrombus, solidified [[m/_mass|mass]] of [[b/_blood|blood]].**
 - **A solidified [[m/_mass|mass]] of [[a/_any|any]] [[l/_liquid|liquid]].**
-- **A silly person.**
+- **A silly [[p/_person|person]].**
 ---
 #verb
 - **To [[f/_form|form]] a [[c/_clot|clot]] or [[m/_mass|mass]].**

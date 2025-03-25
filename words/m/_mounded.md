@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[f/_fortify|fortify]] with a [[m/_mound|mound]]; [[a/_add|add]] a [[b/_barrier|barrier]], rampart, [[e/_etc|etc]]. to.**
-- **To [[f/_force|force]] or pile [[i/_into|into]] a [[m/_mound|mound]] or [[m/_mounds|mounds]].**
+- **To [[f/_force|force]] or [[p/_pile|pile]] [[i/_into|into]] a [[m/_mound|mound]] or [[m/_mounds|mounds]].**
 	- _Example: He mounded up his mashed potatoes so they left more space on the plate for the meat._
 ---
 ### Synonyms

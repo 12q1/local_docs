@@ -3,7 +3,7 @@
 #noun
 - **The release of an [[a/_arrow|arrow]].**
 - **A state of [[l/_laxity|laxity]] or [[i/_indulgence|indulgence]]; unrestrained [[f/_freedom|freedom]], [[a/_abandonment|abandonment]].**
-- **[[a/_all|All]] play [[o/_other|other]] than set pieces (scrums and [[l/_line|line]]-[[o/_outs|outs]]).**
+- **[[a/_all|All]] [[p/_play|play]] [[o/_other|other]] than set [[p/_pieces|pieces]] (scrums and [[l/_line|line]]-[[o/_outs|outs]]).**
 - **[[f/_freedom|Freedom]] from restraint.**
 - **A [[l/_letting|letting]] [[g/_go|go]]; [[d/_discharge|discharge]].**
 ---

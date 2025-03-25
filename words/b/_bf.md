@@ -12,7 +12,7 @@
 - **A [[f/_font|font]] that is [[d/_dark|dark]], [[h/_having|having]] a [[h/_high|high]] ratio of [[i/_ink|ink]] to white space, written or [[d/_drawn|drawn]] with thick strong [[l/_lines|lines]].**
 ---
 #noun
-- **A [[m/_male|male]] partner in an unmarried romantic relationship.**
+- **A [[m/_male|male]] [[p/_partner|partner]] in an unmarried romantic relationship.**
 - **A [[m/_male|male]] [[f/_friend|friend]].**
 ---
 ### Synonyms

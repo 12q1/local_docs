@@ -1,6 +1,6 @@
 # Dropsical
 ---
 #adjective
-- **Pertaining to, or [[a/_afflicted|afflicted]] with, [[d/_dropsy|dropsy]].**
+- **[[p/_pertaining|Pertaining]] to, or [[a/_afflicted|afflicted]] with, [[d/_dropsy|dropsy]].**
 ---
 ---

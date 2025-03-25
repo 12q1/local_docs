@@ -1,9 +1,9 @@
 # Noodled
 ---
 #verb
-- **To think or ponder.**
+- **To think or [[p/_ponder|ponder]].**
 	- _Example: "Noodle that thought around for a while" said Dr. Johnson to his Biblical Interpretations class._
-- **To [[f/_fiddle|fiddle]], play with, or [[m/_mess|mess]] [[a/_around|around]].**
+- **To [[f/_fiddle|fiddle]], [[p/_play|play]] with, or [[m/_mess|mess]] [[a/_around|around]].**
 	- _Example: If the machine is really broken, noodling with the knobs is not going to fix it._
 - **To [[i/_improvise|improvise]] [[m/_music|music]].**
 	- _Example: He has been noodling with that trumpet all afternoon, and every bit of it sounds awful._

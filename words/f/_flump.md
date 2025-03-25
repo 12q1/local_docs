@@ -3,7 +3,7 @@
 #noun
 - **The [[d/_dull|dull]] sound so produced.**
 - **A type of [[l/_large|large]] [[m/_marshmallow|marshmallow]].**
-- **(by [[e/_extension|extension]]) A [[f/_fat|fat]] [[o/_out|out]]-of-shape person.**
+- **(by [[e/_extension|extension]]) A [[f/_fat|fat]] [[o/_out|out]]-of-shape [[p/_person|person]].**
 ---
 ### Synonyms
 - [[p/_plunk|plunk]], [[t/_thud|thud]]

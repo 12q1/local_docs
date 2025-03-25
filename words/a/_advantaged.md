@@ -8,6 +8,6 @@
 - [[b/_benefit|benefit]], [[f/_favor|favor]], [[f/_favorise|favorise]]
 #adjective
 - **[[h/_having|Having]] [[b/_been|been]] [[g/_given|given]] an [[a/_advantage|advantage]], such as by [[b/_biased|biased]] referees in a [[c/_competition|competition]].**
-- **(of a person) [[f/_financially|Financially]] secure; [[e/_elite|elite]] and [[e/_economically|economically]] successful.**
+- **(of a [[p/_person|person]]) [[f/_financially|Financially]] secure; [[e/_elite|elite]] and [[e/_economically|economically]] successful.**
 ---
 ---

@@ -8,9 +8,9 @@
 - **[[l/_left|Left]] [[o/_over|over]], remaining [[a/_after|after]] the rest [[h/_have|have]] [[b/_been|been]] [[p/_paired|paired]] or [[g/_grouped|grouped]].**
 	- _Example: I'm the odd one out._
 - **[[l/_left|Left]] [[o/_over|over]] or remaining (as a small [[a/_amount|amount]]) [[a/_after|after]] [[c/_counting|counting]], [[p/_payment|payment]], [[e/_etc|etc]].**
-- **Scattered; [[o/_occasional|occasional]], [[i/_infrequent|infrequent]]; not [[f/_forming|forming]] part of a set or pattern.**
+- **Scattered; [[o/_occasional|occasional]], [[i/_infrequent|infrequent]]; not [[f/_forming|forming]] [[p/_part|part]] of a set or [[p/_pattern|pattern]].**
 	- _Example: I don't speak Latin well, so in hearing a dissertation in Latin, I would only be able to make out the odd word of it._
-- **Not regular or planned.**
+- **Not regular or [[p/_planned|planned]].**
 	- _Example: He's only worked odd jobs._
 - **Used or [[e/_employed|employed]] for [[o/_odd|odd]] [[j/_jobs|jobs]].**
 - **[[n/_numerically|Numerically]] [[i/_indivisible|indivisible]] by two.**
@@ -22,7 +22,7 @@
 - **[[o/_out|Out]] of the way, secluded.**
 - **On the [[l/_left|left]].**
 	- _Example: He served from the odd court._
-- **Singular in [[e/_excellence|excellence]]; [[m/_matchless|matchless]]; peerless; [[o/_outstanding|outstanding]].**
+- **Singular in [[e/_excellence|excellence]]; [[m/_matchless|matchless]]; [[p/_peerless|peerless]]; [[o/_outstanding|outstanding]].**
 ---
 ### Synonyms
 - [[m/_mismatched|mismatched]], [[s/_single|single]], [[s/_strange|strange]], [[u/_unusual|unusual]]

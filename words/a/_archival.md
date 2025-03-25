@@ -5,6 +5,6 @@
 	- _Example: Our nightly backups include the archival of old e-mail messages._
 ---
 #adjective
-- **Of or pertaining to an [[a/_archive|archive]] or [[a/_archiving|archiving]].**
+- **Of or [[p/_pertaining|pertaining]] to an [[a/_archive|archive]] or [[a/_archiving|archiving]].**
 ---
 ---

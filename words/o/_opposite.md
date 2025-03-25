@@ -10,7 +10,7 @@
 #adjective
 - **[[l/_located|Located]] [[d/_directly|directly]] [[a/_across|across]] from something [[e/_else|else]], or from [[e/_each|each]] [[o/_other|other]].**
 	- _Example: She saw him walking on the opposite side of the road._
-- **Of [[l/_leaves|leaves]] and [[f/_flowers|flowers]], positioned [[d/_directly|directly]] [[a/_across|across]] from [[e/_each|each]] [[o/_other|other]] on a stem.**
+- **Of [[l/_leaves|leaves]] and [[f/_flowers|flowers]], [[p/_positioned|positioned]] [[d/_directly|directly]] [[a/_across|across]] from [[e/_each|each]] [[o/_other|other]] on a stem.**
 - **[[f/_facing|Facing]] in the [[o/_other|other]] [[d/_direction|direction]].**
 	- _Example: They were moving in opposite directions._
 - **Of [[e/_either|either]] of two [[c/_complementary|complementary]] or [[m/_mutually|mutually]] [[e/_exclusive|exclusive]] things.**
@@ -18,7 +18,7 @@
 - **[[e/_extremely|Extremely]] [[d/_different|different]]; [[i/_inconsistent|inconsistent]]; [[c/_contrary|contrary]]; repugnant; [[a/_antagonistic|antagonistic]].**
 ---
 #adverb
-- **In an [[o/_opposite|opposite]] position.**
+- **In an [[o/_opposite|opposite]] [[p/_position|position]].**
 	- _Example: I was on my seat and she stood opposite._
 ---
 #preposition

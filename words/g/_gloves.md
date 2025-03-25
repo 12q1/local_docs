@@ -1,7 +1,7 @@
 # Gloves
 ---
 #noun
-- **An [[i/_item|item]] of [[c/_clothing|clothing]] [[o/_other|other]] than a [[m/_mitten|mitten]], [[c/_covering|covering]] [[a/_all|all]] or part of the [[h/_hand|hand]] and [[f/_fingers|fingers]], but usually [[a/_allowing|allowing]] [[i/_independent|independent]] [[m/_movement|movement]] of the [[f/_fingers|fingers]].**
+- **An [[i/_item|item]] of [[c/_clothing|clothing]] [[o/_other|other]] than a [[m/_mitten|mitten]], [[c/_covering|covering]] [[a/_all|all]] or [[p/_part|part]] of the [[h/_hand|hand]] and [[f/_fingers|fingers]], but usually [[a/_allowing|allowing]] [[i/_independent|independent]] [[m/_movement|movement]] of the [[f/_fingers|fingers]].**
 	- _Example: I wore gloves to keep my hands warm._
 - **A [[b/_baseball|baseball]] [[m/_mitt|mitt]].**
 - **The [[a/_ability|ability]] to [[c/_catch|catch]] a [[h/_hit|hit]] [[b/_ball|ball]].**

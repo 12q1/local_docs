@@ -10,7 +10,7 @@
 ### Synonyms
 - [[b/_blore|blore]], [[h/_hee-haw|hee-haw]]
 #verb
-- **To [[c/_crush|crush]] or pound, [[e/_especially|especially]] using a pestle and [[m/_mortar|mortar]].**
+- **To [[c/_crush|crush]] or [[p/_pound|pound]], [[e/_especially|especially]] using a [[p/_pestle|pestle]] and [[m/_mortar|mortar]].**
 - **(by [[e/_extension|extension]]) To [[h/_hit|hit]] (someone or something).**
 ---
 ---

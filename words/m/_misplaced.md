@@ -10,7 +10,7 @@
 #adjective
 - **Uncomfortable, [[e/_especially|especially]] [[d/_due|due]] to [[o/_one|one]]'s surroundings.**
 	- _Example: I felt so misplaced at that party last night._
-- **[[l/_lost|Lost]]; [[d/_disoriented|disoriented]], put in the wrong place.**
+- **[[l/_lost|Lost]]; [[d/_disoriented|disoriented]], put in the wrong [[p/_place|place]].**
 	- _Example: I was looking for the supermarket but then I got misplaced._
 ---
 ---

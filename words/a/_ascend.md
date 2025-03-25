@@ -11,7 +11,7 @@
 - **To rise; to [[b/_become|become]] [[h/_higher|higher]], [[m/_more|more]] [[n/_noble|noble]], [[e/_etc|etc]].**
 - **To trace, search or [[g/_go|go]] [[b/_backwards|backwards]] temporally ([[e/_e|e]].[[g/_g|g]]., through records, [[g/_genealogies|genealogies]], routes, [[e/_etc|etc]].).**
 	- _Example: Our inquiries ascend to the remotest antiquity._
-- **To [[b/_become|become]] [[h/_higher|higher]] in pitch.**
+- **To [[b/_become|become]] [[h/_higher|higher]] in [[p/_pitch|pitch]].**
 ---
 ### Antonyms
 - [[d/_descend|descend]]

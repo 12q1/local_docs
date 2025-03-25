@@ -4,7 +4,7 @@
 - **For the reason (that).**
 - **On [[a/_account|account]] (of), for sake (of).**
 	- _Example: My life is ruined because of you!_
-- **(by [[e/_ellipsis|ellipsis]]) Used [[a/_alone|alone]] to refuse to provide a [[f/_full|full]] [[a/_answer|answer]] a question [[b/_begun|begun]] with "why", usually taken as an anapodoton of the [[e/_elided|elided]] [[f/_full|full]] phrase "[[b/_because|Because]] [[i/_i|I]] said so".**
+- **(by [[e/_ellipsis|ellipsis]]) Used [[a/_alone|alone]] to refuse to provide a [[f/_full|full]] [[a/_answer|answer]] a question [[b/_begun|begun]] with "why", usually taken as an anapodoton of the [[e/_elided|elided]] [[f/_full|full]] [[p/_phrase|phrase]] "[[b/_because|Because]] [[i/_i|I]] said so".**
 ---
 #preposition
 - **On [[a/_account|account]] of, [[b/_because|because]] of.**

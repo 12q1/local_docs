@@ -1,9 +1,9 @@
 # Multinomial
 ---
 #noun
-- **Polynomial**
+- **[[p/_polynomial|Polynomial]]**
 ---
 #adjective
-- **Polynomial**
+- **[[p/_polynomial|Polynomial]]**
 ---
 ---

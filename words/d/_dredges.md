@@ -11,7 +11,7 @@
 	- _Example: to dredge up someone's unsavoury past_
 ---
 #noun
-- **A [[l/_large|large]] shaker for sprinkling spices or seasonings [[d/_during|during]] [[f/_food|food]] preparation.**
+- **A [[l/_large|large]] shaker for sprinkling spices or seasonings [[d/_during|during]] [[f/_food|food]] [[p/_preparation|preparation]].**
 ---
 #verb
 - **To sprinkle ([[f/_food|food]]) with spices or seasonings, using a [[d/_dredge|dredge]].**

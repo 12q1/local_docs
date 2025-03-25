@@ -3,7 +3,7 @@
 #noun
 - **Something that surrounds; [[e/_encompassing|encompassing]] [[m/_material|material]], substance or shape.**
 - **The [[a/_atmosphere|atmosphere]]; the surrounding [[a/_air|air]] or sky; [[a/_atmospheric|atmospheric]] [[c/_components|components]] [[c/_collectively|collectively]] such as [[a/_air|air]], [[c/_clouds|clouds]], water vapour, [[h/_hail|hail]], [[e/_etc|etc]].**
-- **A type of [[m/_modern|modern]] [[m/_music|music]] that [[c/_creates|creates]] a relaxing and peaceful [[a/_atmosphere|atmosphere]].**
+- **A type of [[m/_modern|modern]] [[m/_music|music]] that [[c/_creates|creates]] a relaxing and [[p/_peaceful|peaceful]] [[a/_atmosphere|atmosphere]].**
 ---
 ### Synonyms
 - [[c/_chillout|chillout]]

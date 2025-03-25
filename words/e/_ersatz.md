@@ -6,7 +6,7 @@
 ### Synonyms
 - [[i/_imitation|imitation]]
 #adjective
-- **[[m/_made|Made]] in [[i/_imitation|imitation]]; [[a/_artificial|artificial]], [[e/_especially|especially]] of a poor quality**
+- **[[m/_made|Made]] in [[i/_imitation|imitation]]; [[a/_artificial|artificial]], [[e/_especially|especially]] of a [[p/_poor|poor]] quality**
 	- _Example: Back then, we could only get ersatz coffee._
 ---
 ### Synonyms

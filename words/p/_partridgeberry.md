@@ -1,0 +1,7 @@
+# Partridgeberry
+---
+#noun
+- **[[a/_any|Any]] of various [[p/_plants|plants]], [[i/_including|including]]**
+- **The [[b/_berry|berry]] of such a [[p/_plant|plant]].**
+---
+---

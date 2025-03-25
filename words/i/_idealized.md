@@ -3,7 +3,7 @@
 #verb
 - **To regard something as [[i/_ideal|ideal]].**
 - **To [[c/_conceive|conceive]] or [[f/_form|form]] an [[i/_ideal|ideal]].**
-- **To portray using [[i/_idealization|idealization]].**
+- **To [[p/_portray|portray]] using [[i/_idealization|idealization]].**
 ---
 #adjective
 - **Regarded as [[i/_ideal|ideal]].**

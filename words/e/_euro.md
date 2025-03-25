@@ -1,8 +1,8 @@
 # Euro
 ---
 #noun
-- **Person [[l/_living|living]] or [[o/_originating|originating]] from [[e/_europe|Europe]]**
-- **Person who resides within the [[e/_european|European]] Union**
+- **[[p/_person|Person]] [[l/_living|living]] or [[o/_originating|originating]] from [[e/_europe|Europe]]**
+- **[[p/_person|Person]] who resides within the [[e/_european|European]] Union**
 ---
 #noun
 - **The [[c/_currency|currency]] unit of the [[e/_european|European]] [[m/_monetary|Monetary]] Union. Symbol: €**

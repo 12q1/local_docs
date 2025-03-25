@@ -9,7 +9,7 @@
 - **A song or story.**
 ---
 #noun
-- **A periodic [[p/_payment|payment]], such as is [[m/_made|made]] of a rent or [[a/_annuity|annuity]].**
+- **A [[p/_periodic|periodic]] [[p/_payment|payment]], such as is [[m/_made|made]] of a rent or [[a/_annuity|annuity]].**
 	- _Example: Gale day - the day on which rent or interest is due._
 ---
 ---

@@ -6,7 +6,7 @@
 - **[[o/_one|One]] skilled in [[b/_building|building]], using, or repairing [[m/_machines|machines]], or who [[m/_makes|makes]] [[m/_machines|machines]] or tools.**
 - **[[o/_one|One]] skilled in [[m/_mechanics|mechanics]].**
 - **A [[m/_machinist|machinist]].**
-- **A scientifically trained practitioner.**
+- **A scientifically trained [[p/_practitioner|practitioner]].**
 - **A [[m/_mechanic|mechanic]].**
 ---
 ---

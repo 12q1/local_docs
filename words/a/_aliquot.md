@@ -1,7 +1,7 @@
 # Aliquot
 ---
 #noun
-- **A portion of a total [[a/_amount|amount]] of a solution or suspension.**
+- **A [[p/_portion|portion]] of a total [[a/_amount|amount]] of a solution or suspension.**
 ---
 #verb
 - **To separate a volume of solution or suspension [[i/_into|into]] [[a/_aliquots|aliquots]].**

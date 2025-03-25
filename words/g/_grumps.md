@@ -1,7 +1,7 @@
 # Grumps
 ---
 #noun
-- **A [[h/_habitually|habitually]] [[g/_grumpy|grumpy]] or [[c/_complaining|complaining]] person.**
+- **A [[h/_habitually|habitually]] [[g/_grumpy|grumpy]] or [[c/_complaining|complaining]] [[p/_person|person]].**
 - **A [[g/_grumpy|grumpy]] [[m/_mood|mood]].**
 ---
 #verb

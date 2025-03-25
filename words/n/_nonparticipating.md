@@ -1,6 +1,6 @@
 # Nonparticipating
 ---
 #adjective
-- **Not participating**
+- **Not [[p/_participating|participating]]**
 ---
 ---

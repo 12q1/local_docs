@@ -4,8 +4,8 @@
 - **A [[d/_deposit|deposit]], in US [[d/_dollars|dollars]], [[h/_held|held]] in a [[b/_bank|bank]] [[o/_outside|outside]] of the United States ([[n/_no|no]] [[l/_longer|longer]] [[n/_necessarily|necessarily]] in [[e/_europe|Europe]])**
 ---
 #noun
-- **Person [[l/_living|living]] or [[o/_originating|originating]] from [[e/_europe|Europe]]**
-- **Person who resides within the [[e/_european|European]] Union**
+- **[[p/_person|Person]] [[l/_living|living]] or [[o/_originating|originating]] from [[e/_europe|Europe]]**
+- **[[p/_person|Person]] who resides within the [[e/_european|European]] Union**
 ---
 #noun
 - **The [[c/_currency|currency]] unit of the [[e/_european|European]] [[m/_monetary|Monetary]] Union. Symbol: €**

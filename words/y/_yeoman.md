@@ -7,7 +7,7 @@
 - **A subordinate, [[d/_deputy|deputy]], [[a/_aide|aide]], or [[a/_assistant|assistant]].**
 - **A [[y/_yeoman|Yeoman]] Warder.**
 - **A [[c/_clerk|clerk]] in the US [[n/_navy|Navy]], and US [[c/_coast|Coast]] [[g/_guard|Guard]].**
-- **In a vessel of war, the person in [[c/_charge|charge]] of the storeroom.**
+- **In a vessel of war, the [[p/_person|person]] in [[c/_charge|charge]] of the storeroom.**
 - **A [[m/_member|member]] of the [[y/_yeomanry|Yeomanry]] [[c/_cavalry|Cavalry]], [[o/_officially|officially]] [[c/_chartered|chartered]] in 1794 [[o/_originating|originating]] [[a/_around|around]] the 1760s.**
 - **A [[m/_member|member]] of the [[i/_imperial|Imperial]] [[y/_yeomanry|Yeomanry]], [[o/_officially|officially]] [[c/_created|created]] in 1890s and renamed in 1907.**
 - **[[a/_any|Any]] of various [[n/_nymphalid|nymphalid]] [[b/_butterflies|butterflies]] of the [[g/_genus|genus]] Cirrochroa, of [[a/_asia|Asia]] and Australasia.**

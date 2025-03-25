@@ -7,6 +7,6 @@
 - **To [[m/_make|make]] the sound [[e/_expressed|expressed]] by the word [[h/_hem|hem]]; to [[h/_hesitate|hesitate]] in speaking.**
 ---
 #interjection
-- **Used to [[f/_fill|fill]] in the [[g/_gap|gap]] of a pause with a vocalized sound.**
+- **Used to [[f/_fill|fill]] in the [[g/_gap|gap]] of a [[p/_pause|pause]] with a vocalized sound.**
 ---
 ---

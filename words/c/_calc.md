@@ -10,9 +10,9 @@
 ### Synonyms
 - [[s/_sum|sum]], [[c/_computation|computation]], [[e/_evaluation|evaluation]], [[r/_reckoning|reckoning]], [[e/_estimate|estimate]], [[g/_guess|guess]], [[m/_measurement|measurement]], [[r/_reckoning|reckoning]]
 #noun
-- **A [[m/_mechanical|mechanical]] or [[e/_electronic|electronic]] [[d/_device|device]] that performs [[m/_mathematical|mathematical]] [[c/_calculations|calculations]].**
-- **A person who performs [[m/_mathematical|mathematical]] [[c/_calculation|calculation]]**
-- **A person who [[c/_calculates|calculates]] (in the sense of scheming).**
+- **A [[m/_mechanical|mechanical]] or [[e/_electronic|electronic]] [[d/_device|device]] that [[p/_performs|performs]] [[m/_mathematical|mathematical]] [[c/_calculations|calculations]].**
+- **A [[p/_person|person]] who [[p/_performs|performs]] [[m/_mathematical|mathematical]] [[c/_calculation|calculation]]**
+- **A [[p/_person|person]] who [[c/_calculates|calculates]] (in the sense of scheming).**
 - **A set of [[m/_mathematical|mathematical]] tables.**
 ---
 ### Synonyms
@@ -24,7 +24,7 @@
 - **([[o/_often|often]] [[d/_definite|definite]], the [[c/_calculus|calculus]]) [[d/_differential|Differential]] [[c/_calculus|calculus]] and [[i/_integral|integral]] [[c/_calculus|calculus]] [[c/_considered|considered]] as a single subject; [[a/_analysis|analysis]].**
 - **A stony [[c/_concretion|concretion]] that [[f/_forms|forms]] in a [[b/_bodily|bodily]] [[o/_organ|organ]].**
 	- _Example: renal calculus ( = kidney stone)_
-- **[[d/_deposits|Deposits]] of [[c/_calcium|calcium]] phosphate salts on teeth.**
+- **[[d/_deposits|Deposits]] of [[c/_calcium|calcium]] [[p/_phosphate|phosphate]] salts on teeth.**
 - **A [[d/_decision|decision]]-[[m/_making|making]] [[m/_method|method]], [[e/_especially|especially]] [[o/_one|one]] [[a/_appropriate|appropriate]] for a specialised realm.**
 ---
 ### Synonyms

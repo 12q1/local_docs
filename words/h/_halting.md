@@ -9,7 +9,7 @@
 ---
 #verb
 - **To stop [[m/_marching|marching]].**
-- **To stop [[e/_either|either]] temporarily or permanently.**
+- **To stop [[e/_either|either]] temporarily or [[p/_permanently|permanently]].**
 - **To [[b/_bring|bring]] to a stop.**
 - **To [[c/_cause|cause]] to [[d/_discontinue|discontinue]].**
 	- _Example: The contract negotiations halted operations for at least a week._
@@ -22,7 +22,7 @@
 ### Synonyms
 - [[h/_hiatus|hiatus]], [[m/_moratorium|moratorium]], [[r/_recess|recess]]
 #adjective
-- **Prone to pauses or [[b/_breaks|breaks]]; [[h/_hesitant|hesitant]]; [[b/_broken|broken]].**
+- **Prone to [[p/_pauses|pauses]] or [[b/_breaks|breaks]]; [[h/_hesitant|hesitant]]; [[b/_broken|broken]].**
 	- _Example: her halting steps_
 ---
 ---

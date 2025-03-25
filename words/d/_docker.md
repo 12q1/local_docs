@@ -1,6 +1,6 @@
 # Docker
 ---
 #noun
-- **[[o/_one|One]] who performs [[d/_docking|docking]], as of tails.**
+- **[[o/_one|One]] who [[p/_performs|performs]] [[d/_docking|docking]], as of tails.**
 ---
 ---

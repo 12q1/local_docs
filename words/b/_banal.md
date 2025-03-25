@@ -1,7 +1,7 @@
 # Banal
 ---
 #adjective
-- **[[c/_common|Common]] in a [[b/_boring|boring]] way, to the point of [[b/_being|being]] predictable; [[c/_containing|containing]] [[n/_nothing|nothing]] [[n/_new|new]] or [[f/_fresh|fresh]].**
+- **[[c/_common|Common]] in a [[b/_boring|boring]] way, to the [[p/_point|point]] of [[b/_being|being]] [[p/_predictable|predictable]]; [[c/_containing|containing]] [[n/_nothing|nothing]] [[n/_new|new]] or [[f/_fresh|fresh]].**
 - **([[h/_history|history]]) Relating to a type of [[f/_feudal|feudal]] [[j/_jurisdiction|jurisdiction]] or service.**
 ---
 ### Synonyms

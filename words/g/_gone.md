@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[m/_move|move]]:**
-- **([[c/_chiefly|chiefly]] of a [[m/_machine|machine]]) To work or [[f/_function|function]] (properly); to [[m/_move|move]] or perform (as required).**
+- **([[c/_chiefly|chiefly]] of a [[m/_machine|machine]]) To work or [[f/_function|function]] (properly); to [[m/_move|move]] or [[p/_perform|perform]] (as required).**
 	- _Example: The engine just won't go anymore._
 - **To start; to [[b/_begin|begin]] (an [[a/_action|action]] or process).**
 	- _Example: Get ready, get set, go!_
@@ -11,10 +11,10 @@
 - **To [[a/_attend|attend]].**
 	- _Example: I go to school at the schoolhouse._
 - **To proceed:**
-- **To [[f/_follow|follow]] or travel [[a/_along|along]] (a path):**
-- **To [[e/_extend|extend]] (from [[o/_one|one]] point in time or space to [[a/_another|another]]).**
+- **To [[f/_follow|follow]] or travel [[a/_along|along]] (a [[p/_path|path]]):**
+- **To [[e/_extend|extend]] (from [[o/_one|one]] [[p/_point|point]] in time or space to [[a/_another|another]]).**
 	- _Example: This property goes all the way to the state line._
-- **To [[l/_lead|lead]] (to a place); to [[g/_give|give]] [[a/_access|access]] to.**
+- **To [[l/_lead|lead]] (to a [[p/_place|place]]); to [[g/_give|give]] [[a/_access|access]] to.**
 	- _Example: Does this road go to Fort Smith?_
 - **To [[b/_become|become]]. (The [[a/_adjective|adjective]] that [[f/_follows|follows]] usually [[d/_describes|describes]] a [[n/_negative|negative]] state.)**
 	- _Example: After failing as a criminal, he decided to go straight._
@@ -31,7 +31,7 @@
 	- _Example: These experiences go to make us stronger._
 - **To [[c/_contribute|contribute]] to a (specified) [[e/_end|end]] product or result.**
 	- _Example: qualities that go to make a lady / lip-reader / sharpshooter_
-- **To pass, to be used up:**
+- **To [[p/_pass|pass]], to be used up:**
 - **To [[d/_die|die]].**
 - **To be [[d/_discarded|discarded]].**
 	- _Example: This chair has got to go._
@@ -41,7 +41,7 @@
 	- _Example: Everything must go._
 - **To be [[g/_given|given]], [[e/_especially|especially]] to be [[a/_assigned|assigned]] or [[a/_allotted|allotted]].**
 	- _Example: The award went to Steven Spielberg._
-- **To survive or [[g/_get|get]] by; to [[l/_last|last]] or persist for a stated [[l/_length|length]] of time.**
+- **To survive or [[g/_get|get]] by; to [[l/_last|last]] or [[p/_persist|persist]] for a stated [[l/_length|length]] of time.**
 	- _Example: Can you two go twenty minutes without arguing?!_
 - **To [[h/_have|have]] a [[c/_certain|certain]] record.**
 	- _Example: The team is going five in a row._
@@ -52,13 +52,13 @@
 - **To resort (to).**
 	- _Example: I'll go to court if I have to._
 - **To [[a/_apply|apply]] or subject [[o/_oneself|oneself]] to:**
-- **To [[f/_fit|fit]] (in a place, or together with something):**
+- **To [[f/_fit|fit]] (in a [[p/_place|place]], or together with something):**
 - **To [[d/_date|date]].**
 	- _Example: He's been going with her for two weeks._
 - **To [[a/_attack|attack]]:**
 - **To be in [[g/_general|general]]; to be usually.**
 	- _Example: As sentences go, this one is pretty boring._
-- **To take (a particular part or share); to participate in to the [[e/_extent|extent]] of.**
+- **To take (a [[p/_particular|particular]] [[p/_part|part]] or share); to [[p/_participate|participate]] in to the [[e/_extent|extent]] of.**
 	- _Example: Let's go halves on this._
 - **To [[y/_yield|yield]] or weigh.**
 	- _Example: Those babies go five tons apiece._
@@ -76,24 +76,24 @@
 #adjective
 - **[[a/_away|Away]], [[h/_having|having]] [[l/_left|left]].**
 	- _Example: Are they gone already?_
-- **[[n/_no|No]] [[l/_longer|longer]] part of the present situation.**
+- **[[n/_no|No]] [[l/_longer|longer]] [[p/_part|part]] of the [[p/_present|present]] situation.**
 	- _Example: Don't bother trying to understand what Grandma says; she's gone._
-- **[[n/_no|No]] [[l/_longer|longer]] [[e/_existing|existing]], [[h/_having|having]] passed.**
+- **[[n/_no|No]] [[l/_longer|longer]] [[e/_existing|existing]], [[h/_having|having]] [[p/_passed|passed]].**
 	- _Example: All the little shops that used to be here are now gone._
 - **Used up.**
 	- _Example: I'm afraid all the coffee's gone at the moment._
 - **[[d/_dead|Dead]].**
-- **[[i/_intoxicated|Intoxicated]] to the point of [[b/_being|being]] unaware of [[o/_one|one]]'s surroundings.**
+- **[[i/_intoxicated|Intoxicated]] to the [[p/_point|point]] of [[b/_being|being]] unaware of [[o/_one|one]]'s surroundings.**
 	- _Example: Dude, look at Jack. He's completely gone._
 - **[[e/_entirely|Entirely]] [[g/_given|given]] up to; [[i/_infatuated|infatuated]] with; used with on.**
 	- _Example: He's totally gone on her._
 - **[[e/_excellent|Excellent]]; wonderful.**
-- **[[a/_ago|Ago]] (used post-positionally).**
+- **[[a/_ago|Ago]] (used [[p/_post|post]]-positionally).**
 - **Weak; [[f/_faint|faint]]; [[f/_feeling|feeling]] a sense of [[g/_goneness|goneness]].**
 - **Of an [[a/_arrow|arrow]]: wide of the [[m/_mark|mark]].**
 ---
 #preposition
-- **Past, [[a/_after|after]], [[l/_later|later]] than (a time).**
+- **[[p/_past|Past]], [[a/_after|after]], [[l/_later|later]] than (a time).**
 	- _Example: You'd better hurry up, it's gone four o'clock._
 ---
 ---

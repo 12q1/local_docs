@@ -9,7 +9,7 @@
 ---
 #adjective
 - **[[h/_having|Having]] [[b/_barbs|barbs]]**
-- **[[b/_bearded|Bearded]] ([[a/_also|also]] [[a/_applied|applied]] to roses, referring to the [[l/_leaves|leaves]] [[b/_between|between]] the petals).**
+- **[[b/_bearded|Bearded]] ([[a/_also|also]] [[a/_applied|applied]] to roses, referring to the [[l/_leaves|leaves]] [[b/_between|between]] the [[p/_petals|petals]]).**
 - **(of [[l/_language|language]], [[e/_etc|etc]].) [[d/_deliberately|Deliberately]] [[h/_hurtful|hurtful]]; [[b/_biting|biting]]; [[c/_caustic|caustic]].**
 - **(of a [[h/_horse|horse]]) [[a/_accoutered|Accoutered]] with [[d/_defensive|defensive]] [[a/_armor|armor]]; [[b/_barded|barded]].**
 ---

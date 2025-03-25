@@ -9,7 +9,7 @@
 #verb
 - **To [[c/_cleanse|cleanse]] by [[f/_flooding|flooding]] with [[g/_generous|generous]] quantities of a [[f/_fluid|fluid]].**
 	- _Example: Flush the injury with plenty of water._
-- **Particularly, to [[c/_cleanse|cleanse]] a toilet by [[i/_introducing|introducing]] a [[l/_large|large]] [[a/_amount|amount]] of water.**
+- **[[p/_particularly|Particularly]], to [[c/_cleanse|cleanse]] a toilet by [[i/_introducing|introducing]] a [[l/_large|large]] [[a/_amount|amount]] of water.**
 - **To [[b/_become|become]] suffused with reddish [[c/_color|color]] [[d/_due|due]] to [[e/_embarrassment|embarrassment]], [[e/_excitement|excitement]], [[o/_overheating|overheating]], or [[o/_other|other]] systemic [[d/_disturbance|disturbance]], to [[b/_blush|blush]].**
 	- _Example: The damsel flushed at the scoundrel's suggestion._
 - **To [[c/_cause|cause]] to [[b/_blush|blush]].**
@@ -22,8 +22,8 @@
 - **To [[f/_flow|flow]] and spread suddenly; to rush.**
 	- _Example: Blood flushes into the face._
 - **To show red; to shine suddenly; to [[g/_glow|glow]].**
-- **To [[f/_fill|fill]] in ([[j/_joints|joints]]); to point the [[l/_level|level]]; to [[m/_make|make]] them [[f/_flush|flush]].**
-- **To [[o/_operate|operate]] a placer [[m/_mine|mine]], where the [[c/_continuous|continuous]] supply of water is [[i/_insufficient|insufficient]], by [[h/_holding|holding]] [[b/_back|back]] the water, and releasing it periodically in a [[f/_flood|flood]].**
+- **To [[f/_fill|fill]] in ([[j/_joints|joints]]); to [[p/_point|point]] the [[l/_level|level]]; to [[m/_make|make]] them [[f/_flush|flush]].**
+- **To [[o/_operate|operate]] a [[p/_placer|placer]] [[m/_mine|mine]], where the [[c/_continuous|continuous]] supply of water is [[i/_insufficient|insufficient]], by [[h/_holding|holding]] [[b/_back|back]] the water, and releasing it [[p/_periodically|periodically]] in a [[f/_flood|flood]].**
 - **To [[f/_fill|fill]] underground spaces, [[e/_especially|especially]] in [[c/_coal|coal]] [[m/_mines|mines]], with [[m/_material|material]] [[c/_carried|carried]] by water, which, [[a/_after|after]] [[d/_drainage|drainage]], [[c/_constitutes|constitutes]] a [[c/_compact|compact]] [[m/_mass|mass]].**
 - **To [[d/_dispose|dispose]] or be [[d/_disposed|disposed]] of by [[f/_flushing|flushing]] [[d/_down|down]] a toilet**
 ---

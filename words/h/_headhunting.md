@@ -1,14 +1,14 @@
 # Headhunting
 ---
 #verb
-- **To [[c/_cut|cut]] [[o/_off|off]], and preserve, the [[h/_heads|heads]] of [[o/_one|one]]'s [[e/_enemies|enemies]]**
-- **To [[a/_actively|actively]] recruit [[e/_executive|executive]] personnel**
-- **To pitch at a [[b/_batter|batter]]'s [[h/_head|head]].**
+- **To [[c/_cut|cut]] [[o/_off|off]], and [[p/_preserve|preserve]], the [[h/_heads|heads]] of [[o/_one|one]]'s [[e/_enemies|enemies]]**
+- **To [[a/_actively|actively]] recruit [[e/_executive|executive]] [[p/_personnel|personnel]]**
+- **To [[p/_pitch|pitch]] at a [[b/_batter|batter]]'s [[h/_head|head]].**
 	- _Example: There's a brawl on the field because the pitcher has been headhunting throughout the game._
 - **To use [[o/_one|one]]'s [[h/_hockey|hockey]] stick to strike an [[o/_opponent|opponent]]'s [[h/_head|head]].**
 ---
 #noun
-- **The [[c/_cutting|cutting]] [[o/_off|off]] and preservation of the [[h/_heads|heads]] of [[o/_one|one]]'s [[e/_enemies|enemies]].**
-- **The [[a/_active|active]] recruitment of [[e/_executive|executive]] or talented personnel.**
+- **The [[c/_cutting|cutting]] [[o/_off|off]] and [[p/_preservation|preservation]] of the [[h/_heads|heads]] of [[o/_one|one]]'s [[e/_enemies|enemies]].**
+- **The [[a/_active|active]] recruitment of [[e/_executive|executive]] or talented [[p/_personnel|personnel]].**
 ---
 ---

@@ -7,9 +7,9 @@
 - **To [[b/_bundle|bundle]]; to stow something quickly.**
 - **To [[c/_con|con]] or [[d/_deceive|deceive]]; [[e/_especially|especially]] [[f/_financially|financially]].**
 	- _Example: The guy tried to hustle me into buying into a bogus real estate deal._
-- **To play [[d/_deliberately|deliberately]] [[b/_badly|badly]] at a [[g/_game|game]] or sport in an [[a/_attempt|attempt]] to [[e/_encourage|encourage]] players to [[c/_challenge|challenge]].**
+- **To [[p/_play|play]] [[d/_deliberately|deliberately]] [[b/_badly|badly]] at a [[g/_game|game]] or sport in an [[a/_attempt|attempt]] to [[e/_encourage|encourage]] [[p/_players|players]] to [[c/_challenge|challenge]].**
 - **To [[o/_obtain|obtain]] by [[i/_illicit|illicit]] or [[f/_forceful|forceful]] [[a/_action|action]].**
-- **To sell sex; to work as a pimp.**
+- **To sell sex; to work as a [[p/_pimp|pimp]].**
 - **To be a prostitute, to [[e/_exchange|exchange]] use of [[o/_one|one]]'s [[b/_body|body]] for sexual purposes for [[m/_money|money]].**
 - **To [[d/_dance|dance]] the [[h/_hustle|hustle]], a [[d/_disco|disco]] [[d/_dance|dance]].**
 - **To work.**

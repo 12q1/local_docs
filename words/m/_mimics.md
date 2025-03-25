@@ -1,7 +1,7 @@
 # Mimics
 ---
 #noun
-- **A person who practices [[m/_mimicry|mimicry]], or [[m/_mime|mime]].**
+- **A [[p/_person|person]] who [[p/_practices|practices]] [[m/_mimicry|mimicry]], or [[m/_mime|mime]].**
 - **An [[i/_imitation|imitation]].**
 ---
 #verb

@@ -1,7 +1,7 @@
 # Newly
 ---
 #adverb
-- **Very recently; in the [[i/_immediate|immediate]] past.**
+- **Very recently; in the [[i/_immediate|immediate]] [[p/_past|past]].**
 	- _Example: She smelled the newly budding flowers._
 ---
 ### Synonyms

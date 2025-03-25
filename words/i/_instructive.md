@@ -1,7 +1,7 @@
 # Instructive
 ---
 #noun
-- **A [[c/_case|case]] in the [[f/_finnish|Finnish]] [[l/_language|language]]. It [[e/_expresses|expresses]] the [[m/_means|means]] or the [[i/_instrument|instrument]] used to perform an [[a/_action|action]].**
+- **A [[c/_case|case]] in the [[f/_finnish|Finnish]] [[l/_language|language]]. It [[e/_expresses|expresses]] the [[m/_means|means]] or the [[i/_instrument|instrument]] used to [[p/_perform|perform]] an [[a/_action|action]].**
 ---
 #adjective
 - **[[c/_conveying|Conveying]] [[k/_knowledge|knowledge]], [[i/_information|information]] or [[i/_instruction|instruction]].**

@@ -1,9 +1,9 @@
 # Mumming
 ---
 #verb
-- **To [[a/_act|act]] in a pantomime or [[d/_dumb|dumb]] show.**
+- **To [[a/_act|act]] in a [[p/_pantomime|pantomime]] or [[d/_dumb|dumb]] show.**
 ---
 #noun
-- **A pantomime or [[d/_dumb|dumb]] show.**
+- **A [[p/_pantomime|pantomime]] or [[d/_dumb|dumb]] show.**
 ---
 ---

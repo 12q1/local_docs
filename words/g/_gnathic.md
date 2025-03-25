@@ -1,6 +1,6 @@
 # Gnathic
 ---
 #adjective
-- **Of or pertaining to the [[j/_jaw|jaw]].**
+- **Of or [[p/_pertaining|pertaining]] to the [[j/_jaw|jaw]].**
 ---
 ---

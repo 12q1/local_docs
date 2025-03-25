@@ -1,7 +1,7 @@
 # Leer
 ---
 #noun
-- **A significant side [[g/_glance|glance]]; a [[g/_glance|glance]] [[e/_expressive|expressive]] of some passion, as [[m/_malignity|malignity]], [[a/_amorousness|amorousness]], [[e/_etc|etc]].; a sly or [[l/_lecherous|lecherous]] [[l/_look|look]].**
+- **A significant side [[g/_glance|glance]]; a [[g/_glance|glance]] [[e/_expressive|expressive]] of some [[p/_passion|passion]], as [[m/_malignity|malignity]], [[a/_amorousness|amorousness]], [[e/_etc|etc]].; a sly or [[l/_lecherous|lecherous]] [[l/_look|look]].**
 - **An [[a/_arch|arch]] or [[a/_affected|affected]] [[g/_glance|glance]] or [[c/_cast|cast]] of [[c/_countenance|countenance]].**
 ---
 #verb

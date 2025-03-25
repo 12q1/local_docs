@@ -5,6 +5,6 @@
 ---
 #adjective
 - **[[c/_capable|Capable]] of [[d/_distinguishing|distinguishing]] or of [[m/_making|making]] a [[d/_distinction|distinction]].**
-- **Of, pertaining to, or serving as a [[d/_diacritic|diacritic]]**
+- **Of, [[p/_pertaining|pertaining]] to, or serving as a [[d/_diacritic|diacritic]]**
 ---
 ---

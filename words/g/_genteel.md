@@ -1,8 +1,8 @@
 # Genteel
 ---
 #adjective
-- **[[a/_affectedly|Affectedly]] proper or refined; somewhat prudish refinement; [[e/_excessively|excessively]] polite.**
-- **Polite and well-[[m/_mannered|mannered]].**
+- **[[a/_affectedly|Affectedly]] proper or refined; somewhat prudish refinement; [[e/_excessively|excessively]] [[p/_polite|polite]].**
+- **[[p/_polite|Polite]] and well-[[m/_mannered|mannered]].**
 - **Stylish or [[e/_elegant|elegant]].**
 - **[[a/_aristocratic|Aristocratic]]**
 ---

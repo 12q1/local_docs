@@ -1,6 +1,6 @@
 # Establishmentarian
 ---
 #noun
-- **A person who supports the political or social [[e/_establishment|establishment]]**
+- **A [[p/_person|person]] who supports the [[p/_political|political]] or social [[e/_establishment|establishment]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Yourselves
 ---
 #pronoun
-- **[[y/_you|You]] (plural), used as the [[o/_object|object]] of a verb or preposition, referring to the people [[b/_being|being]] spoken to, previously [[m/_mentioned|mentioned]].**
+- **[[y/_you|You]] ([[p/_plural|plural]]), used as the [[o/_object|object]] of a verb or [[p/_preposition|preposition]], referring to the [[p/_people|people]] [[b/_being|being]] spoken to, previously [[m/_mentioned|mentioned]].**
 	- _Example: You shouldn't blame yourselves._
 ---
 ---

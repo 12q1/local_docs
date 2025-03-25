@@ -6,7 +6,7 @@
 - **To [[c/_cover|cover]] with an [[a/_arch|arch]] or [[a/_arches|arches]].**
 ---
 #noun
-- **The [[a/_arched|arched]] part of a structure.**
+- **The [[a/_arched|arched]] [[p/_part|part]] of a structure.**
 ---
 #adjective
 - **[[h/_hogging|Hogging]], as [[o/_opposed|opposed]] to sagging**

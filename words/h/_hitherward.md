@@ -1,6 +1,6 @@
 # Hitherward
 ---
 #adverb
-- **Toward this place**
+- **Toward this [[p/_place|place]]**
 ---
 ---

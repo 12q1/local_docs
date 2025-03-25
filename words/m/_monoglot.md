@@ -1,7 +1,7 @@
 # Monoglot
 ---
 #noun
-- **A person [[c/_capable|capable]] of speaking [[o/_only|only]] a single [[l/_language|language]].**
+- **A [[p/_person|person]] [[c/_capable|capable]] of speaking [[o/_only|only]] a single [[l/_language|language]].**
 ---
 ### Synonyms
 - [[m/_monolinguist|monolinguist]], [[u/_uniglot|uniglot]], [[u/_unilinguist|unilinguist]]

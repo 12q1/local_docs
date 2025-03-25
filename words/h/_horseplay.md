@@ -1,7 +1,7 @@
 # Horseplay
 ---
 #noun
-- **Rough or rowdy play that [[c/_can|can]] [[o/_often|often]] result in unintentional physical [[h/_harm|harm]].**
+- **Rough or rowdy [[p/_play|play]] that [[c/_can|can]] [[o/_often|often]] result in unintentional [[p/_physical|physical]] [[h/_harm|harm]].**
 ---
 ### Synonyms
 - [[r/_roughhousing|roughhousing]]

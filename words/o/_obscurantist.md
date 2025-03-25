@@ -1,6 +1,6 @@
 # Obscurantist
 ---
 #noun
-- **A practitioner of [[o/_obscurantism|obscurantism]]; an [[o/_obscurant|obscurant]]**
+- **A [[p/_practitioner|practitioner]] of [[o/_obscurantism|obscurantism]]; an [[o/_obscurant|obscurant]]**
 ---
 ---

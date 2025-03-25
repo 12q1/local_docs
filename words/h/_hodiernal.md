@@ -1,6 +1,6 @@
 # Hodiernal
 ---
 #adjective
-- **(rare [[o/_outside|outside]] [[g/_grammar|grammar]]) Of or pertaining to the present [[d/_day|day]] or today; hodiern.**
+- **(rare [[o/_outside|outside]] [[g/_grammar|grammar]]) Of or [[p/_pertaining|pertaining]] to the [[p/_present|present]] [[d/_day|day]] or today; hodiern.**
 ---
 ---

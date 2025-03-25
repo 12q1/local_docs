@@ -7,10 +7,10 @@
 - **[[e/_expressing|Expressing]] [[a/_agency|agency]].**
 - **[[e/_expressing|Expressing]] [[c/_composition|composition]], substance.**
 - **[[i/_introducing|Introducing]] subject [[m/_matter|matter]].**
-- **[[h/_having|Having]] partitive [[e/_effect|effect]].**
-- **[[e/_expressing|Expressing]] possession.**
+- **[[h/_having|Having]] [[p/_partitive|partitive]] [[e/_effect|effect]].**
+- **[[e/_expressing|Expressing]] [[p/_possession|possession]].**
 - **[[f/_forming|Forming]] the "[[o/_objective|objective]] [[g/_genitive|genitive]]".**
 - **[[e/_expressing|Expressing]] qualities or [[c/_characteristics|characteristics]].**
-- **[[e/_expressing|Expressing]] a point in time.**
+- **[[e/_expressing|Expressing]] a [[p/_point|point]] in time.**
 ---
 ---

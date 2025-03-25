@@ -1,7 +1,7 @@
 # Knitting
 ---
 #verb
-- **To turn thread or [[y/_yarn|yarn]] [[i/_into|into]] a piece of [[f/_fabric|fabric]] by [[f/_forming|forming]] [[l/_loops|loops]] that are pulled through [[e/_each|each]] [[o/_other|other]]. This [[c/_can|can]] be [[d/_done|done]] by [[h/_hand|hand]] with [[n/_needles|needles]] or by [[m/_machine|machine]].**
+- **To turn thread or [[y/_yarn|yarn]] [[i/_into|into]] a [[p/_piece|piece]] of [[f/_fabric|fabric]] by [[f/_forming|forming]] [[l/_loops|loops]] that are pulled through [[e/_each|each]] [[o/_other|other]]. This [[c/_can|can]] be [[d/_done|done]] by [[h/_hand|hand]] with [[n/_needles|needles]] or by [[m/_machine|machine]].**
 	- _Example: The first generation knitted to order; the second still knits for its own use; the next leaves knitting to industrial manufacturers._
 - **To [[j/_join|join]] [[c/_closely|closely]] and [[f/_firmly|firmly]] together.**
 	- _Example: The fight for survival knitted the men closely together._

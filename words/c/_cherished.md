@@ -9,7 +9,7 @@
 ### Antonyms
 - [[d/_despise|despise]]
 #adjective
-- **[[h/_highly|Highly]] valued, [[h/_having|having]] a [[h/_high|high]] personal value.**
+- **[[h/_highly|Highly]] valued, [[h/_having|having]] a [[h/_high|high]] [[p/_personal|personal]] value.**
 ---
 ### Synonyms
 - [[t/_treasured|treasured]]

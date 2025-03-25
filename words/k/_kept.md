@@ -9,10 +9,10 @@
 - **To [[a/_act|act]] as wicket-[[k/_keeper|keeper]].**
 	- _Example: Godfrey Evans kept for England for many years._
 - **To take [[c/_care|care]]; to be solicitous; to watch.**
-- **To be in session; to take place.**
+- **To be in session; to take [[p/_place|place]].**
 	- _Example: School keeps today._
 - **To [[o/_observe|observe]]; to [[a/_adhere|adhere]] to; to [[f/_fulfill|fulfill]]; not to swerve from or violate.**
-- **(by [[e/_extension|extension]]) To visit (a place) [[o/_often|often]]; to [[f/_frequent|frequent]].**
+- **(by [[e/_extension|extension]]) To visit (a [[p/_place|place]]) [[o/_often|often]]; to [[f/_frequent|frequent]].**
 - **To [[o/_observe|observe]] or [[c/_celebrate|celebrate]] (a [[h/_holiday|holiday]]).**
 	- _Example: The feast of St. Stephen is kept on December 26._
 ---

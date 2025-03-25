@@ -1,7 +1,7 @@
 # Boodie
 ---
 #noun
-- **Physical [[f/_frame|frame]].**
+- **[[p/_physical|Physical]] [[f/_frame|frame]].**
 - **[[m/_main|Main]] section.**
 - **[[c/_coherent|Coherent]] [[g/_group|group]].**
 - **[[m/_material|Material]] [[e/_entity|entity]].**

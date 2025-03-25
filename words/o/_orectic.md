@@ -1,6 +1,6 @@
 # Orectic
 ---
 #adjective
-- **Of or pertaining to [[d/_desire|desire]] or [[a/_appetite|appetite]]**
+- **Of or [[p/_pertaining|pertaining]] to [[d/_desire|desire]] or [[a/_appetite|appetite]]**
 ---
 ---

@@ -4,7 +4,7 @@
 - **[[d/_dirt|Dirt]] [[i/_ingrained|ingrained]] on the [[h/_hands|hands]], or in [[c/_cracks|cracks]], [[c/_crevices|crevices]], [[e/_etc|etc]].**
 ---
 #verb
-- **To smear, [[d/_daub|daub]], plaster, or [[i/_impregnate|impregnate]], [[e/_especially|especially]] with [[d/_dirt|dirt]] which [[b/_becomes|becomes]] [[h/_hard|hard]] and [[i/_ingrained|ingrained]].**
+- **To smear, [[d/_daub|daub]], [[p/_plaster|plaster]], or [[i/_impregnate|impregnate]], [[e/_especially|especially]] with [[d/_dirt|dirt]] which [[b/_becomes|becomes]] [[h/_hard|hard]] and [[i/_ingrained|ingrained]].**
 ---
 #noun
 - **A trench; a [[l/_long|long]], shallow [[i/_indentation|indentation]], as for [[i/_irrigation|irrigation]] or [[d/_drainage|drainage]].**
@@ -15,7 +15,7 @@
 	- _Example: Once the sun came out we ditched our rain-gear and started a campfire._
 - **To [[d/_deliberately|deliberately]] [[c/_crash|crash]]-[[l/_land|land]] an [[a/_airplane|airplane]] on water.**
 	- _Example: When the second engine failed, the pilot was forced to ditch; their last location was just south of the Azores._
-- **To [[d/_deliberately|deliberately]] not [[a/_attend|attend]] [[c/_classes|classes]]; to play [[h/_hookey|hookey]].**
+- **To [[d/_deliberately|deliberately]] not [[a/_attend|attend]] [[c/_classes|classes]]; to [[p/_play|play]] [[h/_hookey|hookey]].**
 	- _Example: The truant officer caught Louise ditching with her friends, and her parents were forced to pay a fine._
 - **To [[d/_dig|dig]] [[d/_ditches|ditches]].**
 	- _Example: Enclosure led to fuller winter employment in hedging and ditching._

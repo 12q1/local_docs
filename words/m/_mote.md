@@ -1,6 +1,6 @@
 # Mote
 ---
 #noun
-- **A small particle; a speck.**
+- **A small [[p/_particle|particle]]; a speck.**
 ---
 ---

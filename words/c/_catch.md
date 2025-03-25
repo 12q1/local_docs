@@ -11,7 +11,7 @@
 	- _Example: The kids love to play catch._
 - **Something which is [[c/_captured|captured]] or [[c/_caught|caught]].**
 	- _Example: The catch amounted to five tons of swordfish._
-- **(by [[e/_extension|extension]]) A [[f/_find|find]], in particular a [[b/_boyfriend|boyfriend]] or [[g/_girlfriend|girlfriend]] or prospective spouse.**
+- **(by [[e/_extension|extension]]) A [[f/_find|find]], in [[p/_particular|particular]] a [[b/_boyfriend|boyfriend]] or [[g/_girlfriend|girlfriend]] or prospective spouse.**
 	- _Example: Did you see his latest catch?_
 - **A stopping [[m/_mechanism|mechanism]], [[e/_especially|especially]] a [[c/_clasp|clasp]] which stops something from [[o/_opening|opening]].**
 	- _Example: She installed a sturdy catch to keep her cabinets closed tight._
@@ -19,19 +19,19 @@
 	- _Example: There was a catch in his voice when he spoke his father's name._
 - **(sometimes [[n/_noun|noun]] [[a/_adjunct|adjunct]]) A [[c/_concealed|concealed]] [[d/_difficulty|difficulty]], [[e/_especially|especially]] in a [[d/_deal|deal]] or [[n/_negotiation|negotiation]].**
 	- _Example: Be careful, that's a catch question._
-- **A [[c/_crick|crick]]; a sudden [[m/_muscle|muscle]] [[p/_pain|pain]] [[d/_during|during]] unaccustomed positioning when the [[m/_muscle|muscle]] is in use.**
+- **A [[c/_crick|crick]]; a sudden [[m/_muscle|muscle]] [[p/_pain|pain]] [[d/_during|during]] unaccustomed [[p/_positioning|positioning]] when the [[m/_muscle|muscle]] is in use.**
 	- _Example: I bent over to see under the table and got a catch in my side._
-- **A [[f/_fragment|fragment]] of [[m/_music|music]] or poetry.**
+- **A [[f/_fragment|fragment]] of [[m/_music|music]] or [[p/_poetry|poetry]].**
 - **A state of readiness to [[c/_capture|capture]] or seize; an [[a/_ambush|ambush]].**
 - **A [[c/_crop|crop]] which [[h/_has|has]] [[g/_germinated|germinated]] and [[b/_begun|begun]] to [[g/_grow|grow]].**
 - **A type of strong [[b/_boat|boat]], usually [[h/_having|having]] two [[m/_masts|masts]]; a [[k/_ketch|ketch]].**
 - **A type of [[h/_humorous|humorous]] round in which the voices [[g/_gradually|gradually]] [[c/_catch|catch]] up with [[o/_one|one]] [[a/_another|another]]; usually sung by [[m/_men|men]] and [[o/_often|often]] [[h/_having|having]] [[b/_bawdy|bawdy]] [[l/_lyrics|lyrics]].**
 - **The refrain; a [[l/_line|line]] or [[l/_lines|lines]] of a song which are repeated from verse to verse.**
 - **The [[a/_act|act]] of [[c/_catching|catching]] a [[h/_hit|hit]] [[b/_ball|ball]] [[b/_before|before]] it reaches the [[g/_ground|ground]], resulting in an [[o/_out|out]].**
-- **A player in respect of [[h/_his|his]] [[c/_catching|catching]] [[a/_ability|ability]]; particularly [[o/_one|one]] who [[c/_catches|catches]] well.**
+- **A [[p/_player|player]] in respect of [[h/_his|his]] [[c/_catching|catching]] [[a/_ability|ability]]; [[p/_particularly|particularly]] [[o/_one|one]] who [[c/_catches|catches]] well.**
 - **The [[f/_first|first]] [[c/_contact|contact]] of an [[o/_oar|oar]] with the water.**
 - **A stoppage of [[b/_breath|breath]], resembling a slight [[c/_cough|cough]].**
-- **Passing [[o/_opportunities|opportunities]] seized; snatches.**
+- **[[p/_passing|Passing]] [[o/_opportunities|opportunities]] seized; snatches.**
 - **A slight remembrance; a trace.**
 ---
 ### Synonyms

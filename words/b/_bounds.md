@@ -1,7 +1,7 @@
 # Bounds
 ---
 #noun
-- **([[o/_often|often]] used in plural) A [[b/_boundary|boundary]], the [[b/_border|border]] which [[o/_one|one]] [[m/_must|must]] [[c/_cross|cross]] in [[o/_order|order]] to [[e/_enter|enter]] or [[l/_leave|leave]] a territory.**
+- **([[o/_often|often]] used in [[p/_plural|plural]]) A [[b/_boundary|boundary]], the [[b/_border|border]] which [[o/_one|one]] [[m/_must|must]] [[c/_cross|cross]] in [[o/_order|order]] to [[e/_enter|enter]] or [[l/_leave|leave]] a territory.**
 	- _Example: I reached the northern bound of my property, took a deep breath and walked on._
 - **A value which is [[k/_known|known]] to be [[g/_greater|greater]] or smaller than a [[g/_given|given]] set of values.**
 ---

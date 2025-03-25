@@ -1,7 +1,7 @@
 # Delays
 ---
 #noun
-- **A period of time [[b/_before|before]] an [[e/_event|event]] [[o/_occurs|occurs]]; the [[a/_act|act]] of [[d/_delaying|delaying]]; procrastination; [[l/_lingering|lingering]] [[i/_inactivity|inactivity]].**
+- **A [[p/_period|period]] of time [[b/_before|before]] an [[e/_event|event]] [[o/_occurs|occurs]]; the [[a/_act|act]] of [[d/_delaying|delaying]]; procrastination; [[l/_lingering|lingering]] [[i/_inactivity|inactivity]].**
 	- _Example: the delay before the echo of a sound_
 - **An [[a/_audio|audio]] [[e/_effects|effects]] unit that [[i/_introduces|introduces]] a [[c/_controlled|controlled]] [[d/_delay|delay]].**
 ---

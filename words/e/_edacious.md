@@ -1,6 +1,6 @@
 # Edacious
 ---
 #adjective
-- **[[h/_having|Having]] an [[i/_insatiable|insatiable]] [[a/_appetite|appetite]]; voracious, ravenous, piggish.**
+- **[[h/_having|Having]] an [[i/_insatiable|insatiable]] [[a/_appetite|appetite]]; voracious, ravenous, [[p/_piggish|piggish]].**
 ---
 ---

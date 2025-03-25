@@ -3,7 +3,7 @@
 #noun
 - **An [[a/_abrupt|abrupt]], sharp sound, [[e/_especially|especially]] [[o/_one|one]] [[m/_made|made]] by two [[h/_hard|hard]] [[o/_objects|objects]] [[c/_colliding|colliding]] repetitively; a sound [[m/_midway|midway]] [[b/_between|between]] a [[c/_click|click]] and a [[c/_clunk|clunk]].**
 - **[[a/_anything|Anything]] that [[c/_causes|causes]] a [[c/_clacking|clacking]] [[n/_noise|noise]], such as the [[c/_clapper|clapper]] of a [[m/_mill|mill]], or a [[c/_clack|clack]] valve.**
-- **[[c/_chatter|Chatter]]; prattle.**
+- **[[c/_chatter|Chatter]]; [[p/_prattle|prattle]].**
 - **The tongue.**
 ---
 #verb

@@ -4,8 +4,8 @@
 - **To proceed with ([[d/_doing|doing]] an [[a/_activity|activity]]); to prolong (an [[a/_activity|activity]]).**
 	- _Example: Do you want me to continue to unload these?_
 - **To [[m/_make|make]] [[l/_last|last]]; to prolong.**
-- **To retain (someone or something) in a [[g/_given|given]] state, position, [[e/_etc|etc]].**
-- **To remain in a [[g/_given|given]] place or [[c/_condition|condition]]; to remain in [[c/_connection|connection]] with; to [[a/_abide|abide]]; to stay.**
+- **To retain (someone or something) in a [[g/_given|given]] state, [[p/_position|position]], [[e/_etc|etc]].**
+- **To remain in a [[g/_given|given]] [[p/_place|place]] or [[c/_condition|condition]]; to remain in [[c/_connection|connection]] with; to [[a/_abide|abide]]; to stay.**
 - **To resume.**
 	- _Example: When will the concert continue?_
 - **To [[a/_adjourn|adjourn]], prorogue, put [[o/_off|off]].**
@@ -17,7 +17,7 @@
 ### Antonyms
 - [[d/_discontinue|discontinue]], [[s/_stop|stop]], [[t/_terminate|terminate]]
 #noun
-- **The word [[c/_continued|continued]] when placed in the [[e/_end|end]] of the [[p/_page|page]] to show it is to be [[c/_continued|continued]]**
+- **The word [[c/_continued|continued]] when [[p/_placed|placed]] in the [[e/_end|end]] of the [[p/_page|page]] to show it is to be [[c/_continued|continued]]**
 ---
 #adjective
 - **Prolonged; unstopped.**

@@ -1,6 +1,6 @@
 # Impermanent
 ---
 #adjective
-- **Not permanent; [[m/_momentary|momentary]]**
+- **Not [[p/_permanent|permanent]]; [[m/_momentary|momentary]]**
 ---
 ---

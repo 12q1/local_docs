@@ -13,7 +13,7 @@
 ### Antonyms
 - [[a/_attach|attach]]
 #adjective
-- **Not physically [[a/_attached|attached]]; separated from something it [[c/_could|could]] [[c/_connect|connect]] to.**
+- **Not [[p/_physically|physically]] [[a/_attached|attached]]; separated from something it [[c/_could|could]] [[c/_connect|connect]] to.**
 - **Of a [[h/_house|house]]: not [[j/_joined|joined]] to [[a/_another|another]] [[h/_house|house]] on [[e/_either|either]] side.**
 - **[[h/_having|Having]] or showing [[n/_no|no]] [[b/_bias|bias]] or [[e/_emotional|emotional]] [[i/_involvement|involvement]]; [[d/_disinterested|disinterested]].**
 - **Not [[i/_influenced|influenced]] by [[a/_anyone|anyone]] [[e/_else|else]]; [[c/_characterized|characterized]] by an [[i/_impersonal|impersonal]] [[o/_objectivity|objectivity]]; [[i/_impartial|impartial]].**

@@ -1,7 +1,7 @@
 # Forename
 ---
 #noun
-- **A [[n/_name|name]] that precedes the surname.**
+- **A [[n/_name|name]] that [[p/_precedes|precedes]] the surname.**
 ---
 ### Synonyms
 - [[p/_prename|prename]]

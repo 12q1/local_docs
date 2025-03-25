@@ -8,7 +8,7 @@
 #adjective
 - **[[d/_done|Done]] on purpose; [[i/_intentional|intentional]].**
 	- _Example: Tripping me was deliberate action._
-- **Of a person, weighing [[f/_facts|facts]] and [[a/_arguments|arguments]] with a view to a [[c/_choice|choice]] or [[d/_decision|decision]]; [[c/_carefully|carefully]] [[c/_considering|considering]] the probable [[c/_consequences|consequences]] of a step; slow in [[d/_determining|determining]].**
+- **Of a [[p/_person|person]], weighing [[f/_facts|facts]] and [[a/_arguments|arguments]] with a view to a [[c/_choice|choice]] or [[d/_decision|decision]]; [[c/_carefully|carefully]] [[c/_considering|considering]] the probable [[c/_consequences|consequences]] of a step; slow in [[d/_determining|determining]].**
 	- _Example: The jury took eight hours to come to its deliberate verdict._
 - **[[f/_formed|Formed]] with [[d/_deliberation|deliberation]]; [[c/_carefully|carefully]] [[c/_considered|considered]]; not sudden or rash.**
 	- _Example: a deliberate opinion; a deliberate measure or result_

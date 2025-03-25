@@ -6,7 +6,7 @@
 - **A [[c/_cupcake|cupcake]].**
 - **A [[d/_drunken|drunken]] spree.**
 - **A newbie.**
-- **([[c/_chiefly|chiefly]] in the plural) A [[b/_buttock|buttock]].**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) A [[b/_buttock|buttock]].**
 - **Vagina**
 ---
 ### Synonyms

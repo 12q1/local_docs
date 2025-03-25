@@ -1,6 +1,6 @@
 # Golfers
 ---
 #noun
-- **Someone who plays [[g/_golf|golf]].**
+- **Someone who [[p/_plays|plays]] [[g/_golf|golf]].**
 ---
 ---

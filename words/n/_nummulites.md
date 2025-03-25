@@ -1,6 +1,6 @@
 # Nummulites
 ---
 #noun
-- **A protozoan from the Tertiary period, [[k/_known|known]] [[o/_only|only]] as [[f/_fossils|fossils]]**
+- **A protozoan from the Tertiary [[p/_period|period]], [[k/_known|known]] [[o/_only|only]] as [[f/_fossils|fossils]]**
 ---
 ---

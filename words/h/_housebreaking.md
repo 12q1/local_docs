@@ -7,6 +7,6 @@
 ### Synonyms
 - [[t/_toilet-train|toilet-train]]
 #noun
-- **The [[a/_act|act]] of [[b/_breaking|breaking]] [[i/_into|into]] [[a/_another|another]] person's [[h/_house|house]] with unlawful [[i/_intent|intent]].**
+- **The [[a/_act|act]] of [[b/_breaking|breaking]] [[i/_into|into]] [[a/_another|another]] [[p/_person|person]]'s [[h/_house|house]] with unlawful [[i/_intent|intent]].**
 ---
 ---

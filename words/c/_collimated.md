@@ -5,6 +5,6 @@
 	- _Example: I need to collimate my telescope so that the images are clearer._
 ---
 #adjective
-- **(of a [[l/_light|light]] [[b/_beam|beam]]) [[c/_composed|Composed]] of rays that are parallel, thus [[h/_having|having]] a wavefront that is planar.**
+- **(of a [[l/_light|light]] [[b/_beam|beam]]) [[c/_composed|Composed]] of rays that are [[p/_parallel|parallel]], thus [[h/_having|having]] a wavefront that is [[p/_planar|planar]].**
 ---
 ---

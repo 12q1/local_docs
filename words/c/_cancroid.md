@@ -6,6 +6,6 @@
 ---
 #adjective
 - **Resembling a [[c/_crab|crab]]**
-- **Of or pertaining to [[c/_cancer|cancer]], [[e/_especially|especially]] to squamous [[c/_cell|cell]] [[c/_carcinoma|carcinoma]]**
+- **Of or [[p/_pertaining|pertaining]] to [[c/_cancer|cancer]], [[e/_especially|especially]] to squamous [[c/_cell|cell]] [[c/_carcinoma|carcinoma]]**
 ---
 ---

@@ -1,6 +1,6 @@
 # Hegemonic
 ---
 #adjective
-- **Of or pertaining to [[h/_hegemony|hegemony]].**
+- **Of or [[p/_pertaining|pertaining]] to [[h/_hegemony|hegemony]].**
 ---
 ---

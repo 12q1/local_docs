@@ -1,6 +1,6 @@
 # Foretoken
 ---
 #noun
-- **A prognostic; a premonitory sign; warning or presentment.**
+- **A prognostic; a [[p/_premonitory|premonitory]] sign; warning or [[p/_presentment|presentment]].**
 ---
 ---

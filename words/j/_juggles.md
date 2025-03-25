@@ -3,7 +3,7 @@
 #noun
 - **([[j/_juggling|juggling]]) The [[a/_act|act]] of throwing and [[c/_catching|catching]] [[e/_each|each]] prop at [[l/_least|least]] twice, as [[o/_opposed|opposed]] to a [[f/_flash|flash]].**
 - **The [[h/_handling|handling]] or [[m/_managing|managing]] of [[m/_many|many]] tasks at [[o/_once|once]].**
-- **The performance of a [[m/_magic|magic]] trick.**
+- **The [[p/_performance|performance]] of a [[m/_magic|magic]] trick.**
 - **A [[d/_deceit|deceit]] or [[i/_imposture|imposture]].**
 ---
 #verb
@@ -13,6 +13,6 @@
 	- _Example: He juggled home, school, and work for two years._
 - **To [[d/_deceive|deceive]] by trick or [[a/_artifice|artifice]].**
 - **To [[j/_joke|joke]] or [[j/_jest|jest]].**
-- **To perform [[m/_magic|magic]] tricks.**
+- **To [[p/_perform|perform]] [[m/_magic|magic]] tricks.**
 ---
 ---

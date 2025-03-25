@@ -1,10 +1,10 @@
 # Hymns
 ---
 #noun
-- **A song of praise or worship.**
+- **A song of [[p/_praise|praise]] or worship.**
 ---
 #verb
 - **To sing a [[h/_hymn|hymn]].**
-- **To praise or [[e/_extol|extol]] in [[h/_hymns|hymns]].**
+- **To [[p/_praise|praise]] or [[e/_extol|extol]] in [[h/_hymns|hymns]].**
 ---
 ---

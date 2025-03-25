@@ -5,7 +5,7 @@
 	- _Example: They will be a source of strength and joy in your life._
 - **[[a/_anything|Anything]] that [[c/_causes|causes]] such a [[f/_feeling|feeling]].**
 	- _Example: the joys and demands of parenthood_
-- **[[l/_luck|Luck]] or success; a positive [[o/_outcome|outcome]].**
+- **[[l/_luck|Luck]] or success; a [[p/_positive|positive]] [[o/_outcome|outcome]].**
 - **The sign or [[e/_exhibition|exhibition]] of [[j/_joy|joy]]; [[g/_gaiety|gaiety]]; [[m/_merriment|merriment]]; [[f/_festivity|festivity]].**
 ---
 ### Antonyms

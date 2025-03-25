@@ -1,7 +1,7 @@
 # Levitical
 ---
 #adjective
-- **Of or pertaining to the Levites**
+- **Of or [[p/_pertaining|pertaining]] to the Levites**
 - **Priestly**
 ---
 ---

@@ -1,11 +1,11 @@
 # Bluffs
 ---
 #noun
-- **An [[a/_act|act]] of [[b/_bluffing|bluffing]]; a [[f/_false|false]] [[e/_expression|expression]] of the strength of [[o/_one|one]]'s position in [[o/_order|order]] to [[i/_intimidate|intimidate]]; [[b/_braggadocio|braggadocio]].**
+- **An [[a/_act|act]] of [[b/_bluffing|bluffing]]; a [[f/_false|false]] [[e/_expression|expression]] of the strength of [[o/_one|one]]'s [[p/_position|position]] in [[o/_order|order]] to [[i/_intimidate|intimidate]]; [[b/_braggadocio|braggadocio]].**
 	- _Example: That is only bluff, or a bluff._
 - **An [[a/_attempt|attempt]] to represent [[o/_oneself|oneself]] as [[h/_holding|holding]] a stronger [[h/_hand|hand]] than [[o/_one|one]] [[a/_actually|actually]] [[d/_does|does]].**
 	- _Example: John's bet was a bluff: he bet without even so much as a pair._
-- **The [[c/_card|card]] [[g/_game|game]] poker.**
+- **The [[c/_card|card]] [[g/_game|game]] [[p/_poker|poker]].**
 - **[[o/_one|One]] who [[b/_bluffs|bluffs]]; a [[b/_bluffer|bluffer]].**
 - **An [[e/_excuse|excuse]].**
 ---
@@ -18,8 +18,8 @@
 	- _Example: We bluffed our way past the guards._
 ---
 #noun
-- **A [[h/_high|high]], steep [[b/_bank|bank]], for [[e/_example|example]] by a river or the sea, or [[b/_beside|beside]] a ravine or plain; a [[c/_cliff|cliff]] with a [[b/_broad|broad]] [[f/_face|face]].**
-- **A small wood or stand of trees, typically poplar or willow.**
+- **A [[h/_high|high]], steep [[b/_bank|bank]], for [[e/_example|example]] by a river or the sea, or [[b/_beside|beside]] a ravine or [[p/_plain|plain]]; a [[c/_cliff|cliff]] with a [[b/_broad|broad]] [[f/_face|face]].**
+- **A small wood or stand of trees, typically [[p/_poplar|poplar]] or willow.**
 ---
 #verb
 - **To [[f/_fluff|fluff]], puff or swell up.**

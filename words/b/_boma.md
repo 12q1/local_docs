@@ -5,7 +5,7 @@
 - **A stockade [[m/_made|made]] of [[b/_bushes|bushes]] and thorns.**
 - **A [[h/_hide|hide]].**
 - **A [[h/_hut|hut]].**
-- **([[e/_east|East]] [[a/_african|African]]) A [[m/_military|military]] or police post or [[m/_magistracy|magistracy]].**
+- **([[e/_east|East]] [[a/_african|African]]) A [[m/_military|military]] or [[p/_police|police]] [[p/_post|post]] or [[m/_magistracy|magistracy]].**
 - **A type of [[f/_fertilizer|fertilizer]] rich in [[a/_animal|animal]] [[d/_dung|dung]].**
 - **A [[m/_method|method]] of [[c/_composting|composting]].**
 ---

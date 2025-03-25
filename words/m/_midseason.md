@@ -1,7 +1,7 @@
 # Midseason
 ---
 #noun
-- **The [[m/_middle|middle]] part of a season, such as a sporting, television, or [[g/_growing|growing]] season.**
+- **The [[m/_middle|middle]] [[p/_part|part]] of a season, such as a sporting, television, or [[g/_growing|growing]] season.**
 	- _Example: The amount of water needed is about 50% of the water used in the midseason._
 ---
 #adjective

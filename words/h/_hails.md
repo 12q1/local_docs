@@ -5,7 +5,7 @@
 	- _Example: They say it's going to hail tomorrow._
 - **To send or release [[h/_hail|hail]].**
 	- _Example: The cloud would hail down furiously within a few minutes._
-- **To pour [[d/_down|down]] in rapid succession.**
+- **To [[p/_pour|pour]] [[d/_down|down]] in rapid succession.**
 ---
 #verb
 - **To [[g/_greet|greet]]; [[g/_give|give]] salutation to; salute.**

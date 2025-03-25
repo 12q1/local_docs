@@ -6,7 +6,7 @@
 - **To remove the [[c/_cover|cover]] from; to uncover (a [[h/_head|head]], [[b/_building|building]] [[e/_etc|etc]].).**
 - **To [[e/_expose|expose]], uncover.**
 	- _Example: The gust of wind discovered a bone in the sand._
-- **To [[c/_create|create]] by [[m/_moving|moving]] a piece [[o/_out|out]] of [[a/_another|another]] piece's [[l/_line|line]] of [[a/_attack|attack]].**
+- **To [[c/_create|create]] by [[m/_moving|moving]] a [[p/_piece|piece]] [[o/_out|out]] of [[a/_another|another]] [[p/_piece|piece]]'s [[l/_line|line]] of [[a/_attack|attack]].**
 	- _Example: This move discovers an attack on a vital pawn._
 - **To reveal ([[i/_information|information]]); to [[d/_divulge|divulge]], [[m/_make|make]] [[k/_known|known]].**
 	- _Example: I discovered my plans to the rest of the team._

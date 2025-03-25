@@ -1,6 +1,6 @@
 # Hippocampal
 ---
 #adjective
-- **Pertaining to the [[h/_hippocampus|hippocampus]].**
+- **[[p/_pertaining|Pertaining]] to the [[h/_hippocampus|hippocampus]].**
 ---
 ---

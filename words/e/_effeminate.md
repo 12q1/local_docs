@@ -1,7 +1,7 @@
 # Effeminate
 ---
 #noun
-- **An [[e/_effeminate|effeminate]] person.**
+- **An [[e/_effeminate|effeminate]] [[p/_person|person]].**
 ---
 #verb
 - **To [[m/_make|make]] womanly; to unman.**

@@ -3,13 +3,13 @@
 #noun
 - **A sudden pull.**
 - **[[a/_any|Any]] of various [[k/_knots|knots]] used to [[a/_attach|attach]] a rope to an [[o/_object|object]] [[o/_other|other]] than [[a/_another|another]] rope.**
-- **A [[f/_fastener|fastener]] or [[c/_connection|connection]] point, as for a trailer.**
+- **A [[f/_fastener|fastener]] or [[c/_connection|connection]] [[p/_point|point]], as for a trailer.**
 	- _Example: His truck sported a heavy-duty hitch for his boat._
 - **A problem, [[d/_delay|delay]] or source of [[d/_difficulty|difficulty]].**
 	- _Example: The banquet went off without a hitch_
 - **A [[h/_hidden|hidden]] or unfavorable [[c/_condition|condition]] or [[e/_element|element]]; a [[c/_catch|catch]].**
 	- _Example: The deal sounds too good to be true. What's the hitch?_
-- **A period of time spent in the [[m/_military|military]].**
+- **A [[p/_period|period]] of time spent in the [[m/_military|military]].**
 	- _Example: She served two hitches in Vietnam._
 ---
 ### Synonyms

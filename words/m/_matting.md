@@ -7,7 +7,7 @@
 #noun
 - **[[m/_mats|Mats]], a [[c/_collection|collection]] of [[g/_ground|ground]] [[c/_coverings|coverings]].**
 - **[[c/_coarse|Coarse]] [[f/_fabric|fabric]], of the [[k/_kind|kind]] used to [[m/_make|make]] [[m/_mats|mats]].**
-- **A [[d/_dull|dull]] surface, [[o/_often|often]] used for surrounding pictures.**
+- **A [[d/_dull|dull]] surface, [[o/_often|often]] used for surrounding [[p/_pictures|pictures]].**
 ---
 ### Synonyms
 - [[m/_mat|mat]], [[m/_matte|matte]], [[p/_passe-partout|passe-partout]]

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A shout or whistle [[e/_expressing|expressing]] [[d/_dislike|dislike]], [[e/_especially|especially]] from a [[c/_crowd|crowd]] or [[a/_audience|audience]]; a [[j/_jeer|jeer]], a [[b/_boo|boo]].**
-- **A shout, whistle, or [[c/_comment|comment]] of a sexual [[n/_nature|nature]], usually [[m/_made|made]] toward a passing woman.**
+- **A shout, whistle, or [[c/_comment|comment]] of a sexual [[n/_nature|nature]], usually [[m/_made|made]] toward a [[p/_passing|passing]] woman.**
 - **A whistle [[b/_blown|blown]] by a theatre-[[g/_goer|goer]] to [[e/_express|express]] [[d/_disapproval|disapproval]].**
 ---
 #verb

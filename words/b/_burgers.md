@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[h/_hamburger|hamburger]].**
-- **([[c/_chiefly|chiefly]] as a [[c/_combining|combining]] [[f/_form|form]]) A similar sandwich or patty.**
+- **([[c/_chiefly|chiefly]] as a [[c/_combining|combining]] [[f/_form|form]]) A similar sandwich or [[p/_patty|patty]].**
 ---
 #noun
 - **A [[c/_citizen|citizen]] of a [[b/_borough|borough]] or town, [[e/_especially|especially]] [[o/_one|one]] [[b/_belonging|belonging]] to the [[m/_middle|middle]] [[c/_class|class]].**

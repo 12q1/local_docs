@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[m/_machine|machine]] that [[c/_copies|copies]] [[g/_graphical|graphical]] [[m/_material|material]]; a [[d/_duplicator|duplicator]].**
-- **A person who [[c/_copies|copies]] [[d/_documents|documents]].**
+- **A [[p/_person|person]] who [[c/_copies|copies]] [[d/_documents|documents]].**
 - **A program or process that [[c/_copies|copies]].**
 	- _Example: a file copier; a disk copier_
 ---

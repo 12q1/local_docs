@@ -1,14 +1,14 @@
 # If
 ---
 #noun
-- **An uncertainty, possibility, [[c/_condition|condition]], [[d/_doubt|doubt]] [[e/_etc|etc]].**
+- **An uncertainty, [[p/_possibility|possibility]], [[c/_condition|condition]], [[d/_doubt|doubt]] [[e/_etc|etc]].**
 ---
 #conjunction
 - **Supposing that, [[a/_assuming|assuming]] that, in the [[c/_circumstances|circumstances]] that; used to [[i/_introduce|introduce]] a [[c/_condition|condition]] or [[c/_choice|choice]].**
 	- _Example: If it rains, I shall get wet._
 - **In the [[e/_event|event]] that a statement is true (a programming statement that [[a/_acts|acts]] in a similar [[m/_manner|manner]]).**
 	- _Example: If A, then B, else C._
-- **Supposing that; used with past or past perfect subjunctive [[i/_indicating|indicating]] that the [[c/_condition|condition]] is [[c/_closed|closed]].**
+- **Supposing that; used with [[p/_past|past]] or [[p/_past|past]] [[p/_perfect|perfect]] subjunctive [[i/_indicating|indicating]] that the [[c/_condition|condition]] is [[c/_closed|closed]].**
 	- _Example: I would be unhappy if you had not talked with me yesterday._
 - **Supposing that; [[g/_given|given]] that; supposing it is the [[c/_case|case]] that.**
 	- _Example: If that's true, we had better get moving!_

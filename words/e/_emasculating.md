@@ -1,7 +1,7 @@
 # Emasculating
 ---
 #verb
-- **To [[d/_deprive|deprive]] of virile or procreative power; to [[c/_castrate|castrate]], to [[g/_geld|geld]].**
+- **To [[d/_deprive|deprive]] of virile or procreative [[p/_power|power]]; to [[c/_castrate|castrate]], to [[g/_geld|geld]].**
 - **To [[d/_deprive|deprive]] of [[m/_masculine|masculine]] vigor or spirit; to weaken; to render [[e/_effeminate|effeminate]]; to vitiate by unmanly softness.**
 - **Of a [[f/_flower|flower]]: to [[d/_deprive|deprive]] of the [[a/_anthers|anthers]].**
 ---

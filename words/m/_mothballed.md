@@ -10,6 +10,6 @@
 ### Antonyms
 - [[d/_demothball|demothball]], [[u/_unmothball|unmothball]]
 #adjective
-- **(of something [[o/_out|out]] of use) [[k/_kept|Kept]] in [[g/_good|good]] [[c/_condition|condition]] for possible [[f/_future|future]] use.**
+- **(of something [[o/_out|out]] of use) [[k/_kept|Kept]] in [[g/_good|good]] [[c/_condition|condition]] for [[p/_possible|possible]] [[f/_future|future]] use.**
 ---
 ---

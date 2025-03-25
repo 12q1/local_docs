@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[h/_humped|humped]] [[b/_back|back]] ([[d/_deformity|deformity]] in [[h/_humans|humans]] [[c/_caused|caused]] by [[a/_abnormal|abnormal]] [[c/_curvature|curvature]] of the upper spine).**
-- **A person with a [[h/_humpback|humpback]]; a person who suffers from [[k/_kyphosis|kyphosis]].**
+- **A [[p/_person|person]] with a [[h/_humpback|humpback]]; a [[p/_person|person]] who suffers from [[k/_kyphosis|kyphosis]].**
 - **A [[h/_humpback|humpback]] whale.**
 - **A [[h/_humpback|humpback]] salmon.**
 ---

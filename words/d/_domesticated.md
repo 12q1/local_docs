@@ -13,7 +13,7 @@
 ### Antonyms
 - [[f/_foreignize|foreignize]]
 #adjective
-- **(of an [[a/_animal|animal]] or a plant, [[e/_especially|especially]] a pet) selectively [[b/_bred|bred]] to [[l/_live|live]] with or [[a/_around|around]] [[h/_humans|humans]].**
+- **(of an [[a/_animal|animal]] or a [[p/_plant|plant]], [[e/_especially|especially]] a [[p/_pet|pet]]) selectively [[b/_bred|bred]] to [[l/_live|live]] with or [[a/_around|around]] [[h/_humans|humans]].**
 ---
 ### Antonyms
 - [[u/_undomesticated|undomesticated]]

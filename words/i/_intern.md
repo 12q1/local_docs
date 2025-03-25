@@ -1,7 +1,7 @@
 # Intern
 ---
 #noun
-- **A person who is [[i/_interned|interned]], [[f/_forcibly|forcibly]] or voluntarily.**
+- **A [[p/_person|person]] who is [[i/_interned|interned]], [[f/_forcibly|forcibly]] or voluntarily.**
 ---
 #verb
 - **To [[i/_imprison|imprison]] somebody, usually without trial.**

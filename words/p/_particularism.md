@@ -1,0 +1,8 @@
+# Particularism
+---
+#noun
+- **The principle that [[o/_only|only]] [[c/_certain|certain]] [[p/_people|people]] are [[c/_chosen|chosen]] by [[g/_god|God]] for salvation.**
+- **An [[e/_exclusive|exclusive]] [[f/_focus|focus]] on a [[p/_particular|particular]] [[g/_group|group]], [[a/_area|area]], sect [[e/_etc|etc]].**
+- **The principle that [[i/_individual|individual]] states, races of a [[f/_federation|federation]] [[e/_etc|etc]]. [[m/_may|may]] [[a/_act|act]] [[i/_independently|independently]] of a [[c/_central|central]] [[a/_authority|authority]].**
+---
+---

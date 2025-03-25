@@ -1,7 +1,7 @@
 # Impractical
 ---
 #adjective
-- **Not practical; [[i/_impracticable|impracticable]]**
+- **Not [[p/_practical|practical]]; [[i/_impracticable|impracticable]]**
 ---
 ### Antonyms
 - [[p/_practical|practical]]

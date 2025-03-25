@@ -2,9 +2,9 @@
 ---
 #noun
 - **The [[c/_currency|currency]] of Aruba, [[d/_divided|divided]] [[i/_into|into]] 100 [[c/_cents|cents]], symbol ƒ.**
-- **A pre-[[d/_decimal|decimal]] [[b/_british|British]] [[c/_coin|coin]], worth two shillings or ten [[n/_new|new]] pence.**
+- **A [[p/_pre|pre]]-[[d/_decimal|decimal]] [[b/_british|British]] [[c/_coin|coin]], worth two shillings or ten [[n/_new|new]] [[p/_pence|pence]].**
 - **A [[g/_guilder|guilder]] ([[f/_former|former]] [[c/_currency|currency]] unit of the [[n/_netherlands|Netherlands]]).**
 - **[[a/_any|Any]] of several [[g/_gold|gold]] [[c/_coins|coins]] [[o/_once|once]] produced in [[f/_florence|Florence]], [[i/_italy|Italy]].**
-- **A pre-[[d/_decimal|decimal]] [[a/_australian|Australian]], and [[n/_new|New]] Zealand, [[c/_coin|coin]], worth 24 pence or a tenth of a pound.**
+- **A [[p/_pre|pre]]-[[d/_decimal|decimal]] [[a/_australian|Australian]], and [[n/_new|New]] Zealand, [[c/_coin|coin]], worth 24 [[p/_pence|pence]] or a tenth of a [[p/_pound|pound]].**
 ---
 ---

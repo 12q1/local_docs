@@ -7,7 +7,7 @@
 	- _Example: The quality of her essay has exceeded my expectations._
 - **To [[g/_go|go]] [[b/_beyond|beyond]] (some [[l/_limit|limit]]); to surpass; to be [[l/_longer|longer]] than.**
 	- _Example: Your password cannot exceed eight characters._
-- **To predominate.**
+- **To [[p/_predominate|predominate]].**
 - **To [[g/_go|go]] too [[f/_far|far]]; to be [[e/_excessive|excessive]].**
 ---
 ### Synonyms

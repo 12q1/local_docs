@@ -14,7 +14,7 @@
 	- _Example: A literal reading of the law would prohibit it, but that is clearly not the intent._
 - **[[c/_consisting|Consisting]] of, or [[e/_expressed|expressed]] by, [[l/_letters|letters]].**
 	- _Example: a literal equation_
-- **(of a person) [[g/_giving|Giving]] a strict or [[l/_literal|literal]] [[c/_construction|construction]]; unimaginative; [[m/_matter|matter]]-of-[[f/_fact|fact]].**
+- **(of a [[p/_person|person]]) [[g/_giving|Giving]] a strict or [[l/_literal|literal]] [[c/_construction|construction]]; unimaginative; [[m/_matter|matter]]-of-[[f/_fact|fact]].**
 - **Used [[n/_non|non]]-[[l/_literally|literally]] as an [[i/_intensifier|intensifier]]; see [[l/_literally|literally]] for usage [[n/_notes|notes]].**
 	- _Example: Telemarketers are the literal worst._
 ---

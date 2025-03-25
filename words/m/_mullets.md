@@ -12,12 +12,12 @@
 ---
 #noun
 - **A [[h/_hairstyle|hairstyle]] where the [[h/_hair|hair]] is [[k/_kept|kept]] short on the top and sides and [[l/_long|long]] at the [[b/_back|back]].**
-- **A person who [[m/_mindlessly|mindlessly]] [[f/_follows|follows]] a [[f/_fad|fad]], a trend, or a [[l/_leader|leader]].**
+- **A [[p/_person|person]] who [[m/_mindlessly|mindlessly]] [[f/_follows|follows]] a [[f/_fad|fad]], a trend, or a [[l/_leader|leader]].**
 ---
 ### Synonyms
 - 
 #noun
-- **A star with straight [[e/_edges|edges]] and usually with [[f/_five|five]] or six points.**
+- **A star with straight [[e/_edges|edges]] and usually with [[f/_five|five]] or six [[p/_points|points]].**
 - **The rowel of a spur.**
 ---
 ---

@@ -7,7 +7,7 @@
 - **A [[g/_glimpse|glimpse]] or [[g/_glance|glance]].**
 - **[[g/_gleam|Gleam]]; [[g/_glimmer|glimmer]]; sparkle**
 - **The [[d/_dazzling|dazzling]] whiteness [[a/_about|about]] the [[h/_horizon|horizon]] [[c/_caused|caused]] by the reflection of [[l/_light|light]] from [[f/_fields|fields]] of [[i/_ice|ice]] at sea; [[i/_iceblink|iceblink]]**
-- **(in the plural) [[b/_boughs|Boughs]] [[c/_cast|cast]] where [[d/_deer|deer]] are to pass, in [[o/_order|order]] to turn or [[c/_check|check]] them.**
+- **(in the [[p/_plural|plural]]) [[b/_boughs|Boughs]] [[c/_cast|cast]] where [[d/_deer|deer]] are to [[p/_pass|pass]], in [[o/_order|order]] to turn or [[c/_check|check]] them.**
 - **An [[a/_ability|ability]] that [[a/_allows|allows]] teleporting, [[m/_mostly|mostly]] for short [[d/_distances|distances]]**
 ---
 #verb
@@ -15,7 +15,7 @@
 	- _Example: The loser in the staring game is the person who blinks first._
 - **To [[f/_flash|flash]] on and [[o/_off|off]] at regular [[i/_intervals|intervals]].**
 	- _Example: The blinking text on the screen was distracting._
-- **To perform the smallest [[a/_action|action]] that [[c/_could|could]] solicit a response.**
+- **To [[p/_perform|perform]] the smallest [[a/_action|action]] that [[c/_could|could]] solicit a response.**
 - **To shut [[o/_out|out]] of sight; to [[e/_evade|evade]]; to shirk.**
 	- _Example: to blink the question_
 - **To trick; to [[d/_deceive|deceive]].**
@@ -25,7 +25,7 @@
 ### Synonyms
 - [[n/_nictitate|nictitate]]
 #noun
-- **[[m/_montia|Montia]] fontana, a [[h/_herbaceous|herbaceous]] [[a/_annual|annual]] plant in the [[f/_family|family]] Montiaceae, [[f/_formerly|formerly]] [[i/_included|included]] in the purslane [[f/_family|family]] (Portulacaceae).**
+- **[[m/_montia|Montia]] fontana, a [[h/_herbaceous|herbaceous]] [[a/_annual|annual]] [[p/_plant|plant]] in the [[f/_family|family]] Montiaceae, [[f/_formerly|formerly]] [[i/_included|included]] in the purslane [[f/_family|family]] ([[p/_portulacaceae|Portulacaceae]]).**
 ---
 ### Synonyms
 - 

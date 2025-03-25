@@ -1,7 +1,7 @@
 # Classics
 ---
 #noun
-- **A perfect and/or [[e/_early|early]] [[e/_example|example]] of a particular style.**
+- **A [[p/_perfect|perfect]] and/or [[e/_early|early]] [[e/_example|example]] of a [[p/_particular|particular]] style.**
 - **An [[a/_artistic|artistic]] work of [[l/_lasting|lasting]] worth, such as a [[f/_film|film]] or song.**
 - **The [[a/_author|author]] of such a work.**
 - **A [[m/_major|major]], [[l/_long|long]]-standing sporting [[e/_event|event]]**

@@ -2,10 +2,10 @@
 ---
 #noun
 - **[[o/_one|One]] who rides racehorses [[c/_competitively|competitively]].**
-- **That part of a variable resistor or potentiometer that rides [[o/_over|over]] the resistance wire**
+- **That [[p/_part|part]] of a variable resistor or [[p/_potentiometer|potentiometer]] that rides [[o/_over|over]] the resistance wire**
 - **An [[o/_operator|operator]] of some [[m/_machinery|machinery]] or [[a/_apparatus|apparatus]].**
 - **A [[d/_dealer|dealer]] in [[h/_horses|horses]]; a [[h/_horse|horse]] trader.**
-- **A [[c/_cheat|cheat]]; [[o/_one|one]] [[g/_given|given]] to sharp practice in trade.**
+- **A [[c/_cheat|cheat]]; [[o/_one|one]] [[g/_given|given]] to sharp [[p/_practice|practice]] in trade.**
 - **A prostitute's [[c/_client|client]].**
 - **A rapist.**
 ---

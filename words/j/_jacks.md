@@ -7,7 +7,7 @@
 - **A [[m/_man|man]].**
 - **A [[d/_device|device]] or utensil.**
 - **A [[n/_non|non]]-tool [[o/_object|object]] or thing.**
-- **A plant or [[a/_animal|animal]].**
+- **A [[p/_plant|plant]] or [[a/_animal|animal]].**
 ---
 ### Synonyms
 - [[j/_jackass|jackass]], [[k/_knave|knave]]
@@ -20,7 +20,7 @@
 - **A [[h/_home|home]] run.**
 ---
 #noun
-- **([[g/_games|games]]) A [[c/_children|children]]'s [[g/_game|game]] [[i/_involving|involving]] picking up [[o/_objects|objects]]; [[k/_knucklebones|knucklebones]]; [[j/_jackstones|jackstones]].**
+- **([[g/_games|games]]) A [[c/_children|children]]'s [[g/_game|game]] [[i/_involving|involving]] [[p/_picking|picking]] up [[o/_objects|objects]]; [[k/_knucklebones|knucklebones]]; [[j/_jackstones|jackstones]].**
 ---
 #noun
 - **[[a/_alternative|Alternative]] [[f/_form|form]] of [[j/_jakes|jakes]]: an [[o/_outhouse|outhouse]] or [[l/_lavatory|lavatory]].**

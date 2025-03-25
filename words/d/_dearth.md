@@ -1,7 +1,7 @@
 # Dearth
 ---
 #noun
-- **A period or [[c/_condition|condition]] when [[f/_food|food]] is rare and [[h/_hence|hence]] [[e/_expensive|expensive]]; [[f/_famine|famine]].**
+- **A [[p/_period|period]] or [[c/_condition|condition]] when [[f/_food|food]] is rare and [[h/_hence|hence]] [[e/_expensive|expensive]]; [[f/_famine|famine]].**
 - **(by [[e/_extension|extension]]) Scarcity; a [[l/_lack|lack]] or short supply.**
 - **[[d/_dearness|Dearness]]; the quality of [[b/_being|being]] rare or [[c/_costly|costly]].**
 ---

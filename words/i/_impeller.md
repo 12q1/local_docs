@@ -1,6 +1,6 @@
 # Impeller
 ---
 #noun
-- **Something which or someone who [[i/_impels|impels]], usually a part of a pump.**
+- **Something which or someone who [[i/_impels|impels]], usually a [[p/_part|part]] of a pump.**
 ---
 ---

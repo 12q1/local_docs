@@ -2,9 +2,9 @@
 ---
 #adjective
 - **[[c/_causing|Causing]] [[a/_attraction|attraction]]; [[h/_having|having]] the quality of [[a/_attracting|attracting]] by [[i/_inherent|inherent]] [[f/_force|force]].**
-- **[[h/_having|Having]] the power of [[c/_charming|charming]] or [[a/_alluring|alluring]] by [[a/_agreeable|agreeable]] qualities; [[e/_enticing|enticing]].**
+- **[[h/_having|Having]] the [[p/_power|power]] of [[c/_charming|charming]] or [[a/_alluring|alluring]] by [[a/_agreeable|agreeable]] qualities; [[e/_enticing|enticing]].**
 	- _Example: That's a very attractive offer._
-- **Pleasing or [[a/_appealing|appealing]] to the senses, [[e/_especially|especially]] of the [[o/_opposite|opposite]] sex.**
+- **[[p/_pleasing|Pleasing]] or [[a/_appealing|appealing]] to the senses, [[e/_especially|especially]] of the [[o/_opposite|opposite]] sex.**
 	- _Example: He is an attractive fellow with a trim figure._
 ---
 ### Synonyms

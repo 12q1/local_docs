@@ -6,10 +6,10 @@
 ---
 #noun
 - **[[a/_any|Any]] of various [[b/_birds|birds]], of the [[f/_family|family]] [[c/_cuculidae|Cuculidae]], [[f/_famous|famous]] for [[l/_laying|laying]] [[i/_its|its]] [[e/_eggs|eggs]] in the [[n/_nests|nests]] of [[o/_other|other]] species; but [[e/_especially|especially]] the [[c/_common|common]] [[c/_cuckoo|cuckoo]], [[c/_cuculus|Cuculus]] canorus, that [[h/_has|has]] a [[c/_characteristic|characteristic]] two-[[n/_note|note]] [[c/_call|call]].**
-- **The sound of that particular [[b/_bird|bird]].**
+- **The sound of that [[p/_particular|particular]] [[b/_bird|bird]].**
 - **The [[b/_bird|bird]]-shaped [[f/_figure|figure]] [[f/_found|found]] in [[c/_cuckoo|cuckoo]] [[c/_clocks|clocks]].**
 - **The [[c/_cuckoo|cuckoo]] [[c/_clock|clock]] [[i/_itself|itself]].**
-- **A person who [[i/_inveigles|inveigles]] themselves [[i/_into|into]] a place where they should not be (used [[e/_especially|especially]] in the phrase a [[c/_cuckoo|cuckoo]] in the [[n/_nest|nest]]).**
+- **A [[p/_person|person]] who [[i/_inveigles|inveigles]] themselves [[i/_into|into]] a [[p/_place|place]] where they should not be (used [[e/_especially|especially]] in the [[p/_phrase|phrase]] a [[c/_cuckoo|cuckoo]] in the [[n/_nest|nest]]).**
 - **Someone who is [[c/_crazy|crazy]].**
 ---
 #verb

@@ -1,7 +1,7 @@
 # Mollifying
 ---
 #verb
-- **To [[e/_ease|ease]] a [[b/_burden|burden]], particularly worry; [[m/_make|make]] [[l/_less|less]] [[p/_painful|painful]]; to [[c/_comfort|comfort]].**
+- **To [[e/_ease|ease]] a [[b/_burden|burden]], [[p/_particularly|particularly]] worry; [[m/_make|make]] [[l/_less|less]] [[p/_painful|painful]]; to [[c/_comfort|comfort]].**
 - **To [[a/_appease|appease]] ([[a/_anger|anger]]), [[p/_pacify|pacify]], [[g/_gain|gain]] the [[g/_good|good]] will of.**
 - **To soften; to [[m/_make|make]] tender**
 ---

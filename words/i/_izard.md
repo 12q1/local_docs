@@ -1,6 +1,6 @@
 # Izard
 ---
 #noun
-- **The Pyrenean [[c/_chamois|chamois]], Rupicapra rupicapra.**
+- **The [[p/_pyrenean|Pyrenean]] [[c/_chamois|chamois]], Rupicapra rupicapra.**
 ---
 ---

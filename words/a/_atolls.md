@@ -1,6 +1,6 @@
 # Atolls
 ---
 #noun
-- **A type of [[i/_island|island]] [[c/_consisting|consisting]] of a ribbon reef that [[n/_nearly|nearly]] or [[e/_entirely|entirely]] surrounds a [[l/_lagoon|lagoon]] and supports, in [[m/_most|most]] [[c/_cases|cases]], [[o/_one|one]] to [[m/_many|many]] [[i/_islets|islets]] on the reef platform. [[a/_atolls|Atolls]] [[h/_have|have]] a unique [[g/_geology|geology]], so not [[a/_all|all]] [[i/_islands|islands]] with a reef and a [[l/_lagoon|lagoon]] are [[a/_atolls|atolls]]**
+- **A type of [[i/_island|island]] [[c/_consisting|consisting]] of a ribbon reef that [[n/_nearly|nearly]] or [[e/_entirely|entirely]] surrounds a [[l/_lagoon|lagoon]] and supports, in [[m/_most|most]] [[c/_cases|cases]], [[o/_one|one]] to [[m/_many|many]] [[i/_islets|islets]] on the reef [[p/_platform|platform]]. [[a/_atolls|Atolls]] [[h/_have|have]] a unique [[g/_geology|geology]], so not [[a/_all|all]] [[i/_islands|islands]] with a reef and a [[l/_lagoon|lagoon]] are [[a/_atolls|atolls]]**
 ---
 ---

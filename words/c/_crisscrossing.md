@@ -5,6 +5,6 @@
 - **To [[m/_mark|mark]] (something) with [[c/_crossed|crossed]] [[l/_lines|lines]].**
 ---
 #noun
-- **A [[c/_crisscross|crisscross]] pattern.**
+- **A [[c/_crisscross|crisscross]] [[p/_pattern|pattern]].**
 ---
 ---

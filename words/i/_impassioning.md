@@ -1,6 +1,6 @@
 # Impassioning
 ---
 #verb
-- **[[m/_make|Make]] passionate, [[i/_instill|instill]] passion in**
+- **[[m/_make|Make]] [[p/_passionate|passionate]], [[i/_instill|instill]] [[p/_passion|passion]] in**
 ---
 ---

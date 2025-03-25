@@ -1,9 +1,9 @@
 # Installment
 ---
 #noun
-- **[[o/_one|One]] of a series of parts, whether [[e/_equal|equal]] or unequal to the [[o/_other|other]] parts of the series, of a [[g/_given|given]] [[e/_entity|entity]] or a [[g/_given|given]] process, which part presents or is presented at a particular scheduled [[i/_interval|interval]].**
-- **[[o/_one|One]] [[m/_member|member]] of a series of portions of a [[d/_debt|debt]] or sum of [[m/_money|money]], which portions [[m/_may|may]] or [[m/_may|may]] not be [[e/_equated|equated]] ([[d/_depending|depending]] in part on whether the [[i/_interest|interest]] rate is [[f/_fixed|fixed]] or variable), [[p/_payment|payment]] of which portions are serially [[e/_exacted|exacted]] at regularly scheduled [[i/_intervals|intervals]] toward satisfaction of the total. [[p/_payments|Payments]] of [[i/_installments|installments]] are [[g/_generally|generally]] [[m/_mensual|mensual]], quarterly, triannual, [[b/_biannual|biannual]], or [[a/_annual|annual]].**
-- **A part of a published or [[b/_broadcast|broadcast]] serial.**
+- **[[o/_one|One]] of a series of [[p/_parts|parts]], whether [[e/_equal|equal]] or unequal to the [[o/_other|other]] [[p/_parts|parts]] of the series, of a [[g/_given|given]] [[e/_entity|entity]] or a [[g/_given|given]] process, which [[p/_part|part]] [[p/_presents|presents]] or is [[p/_presented|presented]] at a [[p/_particular|particular]] scheduled [[i/_interval|interval]].**
+- **[[o/_one|One]] [[m/_member|member]] of a series of [[p/_portions|portions]] of a [[d/_debt|debt]] or sum of [[m/_money|money]], which [[p/_portions|portions]] [[m/_may|may]] or [[m/_may|may]] not be [[e/_equated|equated]] ([[d/_depending|depending]] in [[p/_part|part]] on whether the [[i/_interest|interest]] rate is [[f/_fixed|fixed]] or variable), [[p/_payment|payment]] of which [[p/_portions|portions]] are serially [[e/_exacted|exacted]] at regularly scheduled [[i/_intervals|intervals]] toward satisfaction of the total. [[p/_payments|Payments]] of [[i/_installments|installments]] are [[g/_generally|generally]] [[m/_mensual|mensual]], quarterly, triannual, [[b/_biannual|biannual]], or [[a/_annual|annual]].**
+- **A [[p/_part|part]] of a published or [[b/_broadcast|broadcast]] serial.**
 ---
 ### Synonyms
 - [[e/_episode|episode]], [[p/_part|part]]

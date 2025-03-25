@@ -3,7 +3,7 @@
 #verb
 - **To [[a/_admit|admit]] the [[k/_knowledge|knowledge]] of; to recognize as a [[f/_fact|fact]] or truth; to [[d/_declare|declare]] [[o/_one|one]]'s [[b/_belief|belief]] in**
 	- _Example: to acknowledge the being of a god_
-- **To [[o/_own|own]] or recognize in a particular quality, [[c/_character|character]] or relationship; to [[a/_admit|admit]] the [[c/_claims|claims]] or [[a/_authority|authority]] of; to [[g/_give|give]] recognition to.**
+- **To [[o/_own|own]] or recognize in a [[p/_particular|particular]] quality, [[c/_character|character]] or relationship; to [[a/_admit|admit]] the [[c/_claims|claims]] or [[a/_authority|authority]] of; to [[g/_give|give]] recognition to.**
 - **To be [[g/_grateful|grateful]] of ([[e/_e|e]].[[g/_g|g]]. a [[b/_benefit|benefit]] or a [[f/_favour|favour]])**
 	- _Example: to acknowledge a favor_
 - **To report (the receipt of a [[m/_message|message]] to [[i/_its|its]] sender).**

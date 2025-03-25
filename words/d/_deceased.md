@@ -1,7 +1,7 @@
 # Deceased
 ---
 #noun
-- **A [[d/_dead|dead]] person.**
+- **A [[d/_dead|dead]] [[p/_person|person]].**
 	- _Example: The deceased was interred in his local churchyard._
 - **[[o/_one|One]] who [[h/_has|has]] [[d/_died|died]]. In property [[l/_law|law]], the [[a/_alternate|alternate]] term [[d/_decedent|decedent]] is [[g/_generally|generally]] used in US [[e/_english|English]]. In [[c/_criminal|criminal]] [[l/_law|law]], “the [[d/_deceased|deceased]]” refers to the victim of a [[h/_homicide|homicide]].**
 ---

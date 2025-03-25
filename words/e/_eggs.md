@@ -8,11 +8,11 @@
 - **[[a/_anything|Anything]] shaped [[l/_like|like]] an [[e/_egg|egg]], such as an [[e/_easter|Easter]] [[e/_egg|egg]] or a [[c/_chocolate|chocolate]] [[e/_egg|egg]].**
 - **A swelling on [[o/_one|one]]'s [[h/_head|head]], usually [[l/_large|large]] or [[n/_noticeable|noticeable]], [[a/_associated|associated]] with an [[i/_injury|injury]].**
 - **([[m/_mildly|mildly]]) A [[c/_caucasian|Caucasian]] who [[b/_behaves|behaves]] as [[i/_if|if]] they were ([[e/_east|East]]) [[a/_asian|Asian]] (from [[b/_being|being]] "white" [[o/_outside|outside]] and "[[y/_yellow|yellow]]" [[i/_inside|inside]]).**
-- **A [[f/_foolish|foolish]] or [[o/_obnoxious|obnoxious]] person.**
+- **A [[f/_foolish|foolish]] or [[o/_obnoxious|obnoxious]] [[p/_person|person]].**
 	- _Example: Shut up, you egg!_
-- **A person, [[f/_fellow|fellow]].**
+- **A [[p/_person|person]], [[f/_fellow|fellow]].**
 	- _Example: bad egg_
-- **A person who is regarded as [[h/_having|having]] not [[y/_yet|yet]] realized they are transgender, [[h/_has|has]] not [[y/_yet|yet]] [[c/_come|come]] [[o/_out|out]], or is in the [[e/_early|early]] stages of transitioning.**
+- **A [[p/_person|person]] who is regarded as [[h/_having|having]] not [[y/_yet|yet]] realized they are transgender, [[h/_has|has]] not [[y/_yet|yet]] [[c/_come|come]] [[o/_out|out]], or is in the [[e/_early|early]] stages of transitioning.**
 - **[[o/_one|One]] of the [[b/_blocks|blocks]] of [[d/_data|data]] [[i/_injected|injected]] [[i/_into|into]] a program's [[a/_address|address]] space for use by [[c/_certain|certain]] [[f/_forms|forms]] of shellcode, such as "[[o/_omelettes|omelettes]]".**
 ---
 #verb

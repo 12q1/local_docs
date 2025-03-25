@@ -6,6 +6,6 @@
 ### Synonyms
 - [[m/_micron|micron]]
 #noun
-- **A [[d/_device|device]] used to [[m/_measure|measure]] [[d/_distance|distance]] very precisely but within a [[l/_limited|limited]] range, [[e/_especially|especially]] [[d/_depth|depth]], thickness, and [[d/_diameter|diameter]].**
+- **A [[d/_device|device]] used to [[m/_measure|measure]] [[d/_distance|distance]] very [[p/_precisely|precisely]] but within a [[l/_limited|limited]] range, [[e/_especially|especially]] [[d/_depth|depth]], thickness, and [[d/_diameter|diameter]].**
 ---
 ---

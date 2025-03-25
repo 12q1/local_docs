@@ -3,9 +3,9 @@
 #noun
 - **An [[a/_artificial|artificial]] [[b/_barrier|barrier]], variously [[c/_constructed|constructed]], [[o/_over|over]] which [[a/_athletes|athletes]] or [[h/_horses|horses]] [[j/_jump|jump]] in a race.**
 	- _Example: He ran in the 100 metres hurdles._
-- **A perceived [[o/_obstacle|obstacle]].**
+- **A [[p/_perceived|perceived]] [[o/_obstacle|obstacle]].**
 - **A [[m/_movable|movable]] [[f/_frame|frame]] of wattled twigs, [[o/_osiers|osiers]], or withes and stakes, or sometimes of [[i/_iron|iron]], used for [[e/_enclosing|enclosing]] [[l/_land|land]], for [[f/_folding|folding]] sheep and [[c/_cattle|cattle]], for [[g/_gates|gates]], [[e/_etc|etc]].; [[a/_also|also]], in [[f/_fortification|fortification]], used as revetments, and for [[o/_other|other]] purposes.**
-- **A sled or [[c/_crate|crate]] on which [[c/_criminals|criminals]] were [[f/_formerly|formerly]] [[d/_drawn|drawn]] to the place of [[e/_execution|execution]].**
+- **A sled or [[c/_crate|crate]] on which [[c/_criminals|criminals]] were [[f/_formerly|formerly]] [[d/_drawn|drawn]] to the [[p/_place|place]] of [[e/_execution|execution]].**
 ---
 #verb
 - **To [[j/_jump|jump]] [[o/_over|over]] something while running.**
@@ -15,6 +15,6 @@
 - **To [[h/_hedge|hedge]], [[c/_cover|cover]], [[m/_make|make]], or [[e/_enclose|enclose]] with [[h/_hurdles|hurdles]].**
 ---
 #noun
-- **A sport where [[a/_athletes|athletes]] or [[a/_animals|animals]] run [[a/_along|along]] a track [[o/_obstructed|obstructed]] by regularly placed [[h/_hurdles|hurdles]] that [[m/_must|must]] be [[l/_leapt|leapt]] [[o/_over|over]].**
+- **A sport where [[a/_athletes|athletes]] or [[a/_animals|animals]] run [[a/_along|along]] a track [[o/_obstructed|obstructed]] by regularly [[p/_placed|placed]] [[h/_hurdles|hurdles]] that [[m/_must|must]] be [[l/_leapt|leapt]] [[o/_over|over]].**
 ---
 ---

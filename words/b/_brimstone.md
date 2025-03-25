@@ -5,6 +5,6 @@
 - **Sulfur.**
 - **A whore.**
 - **Used [[a/_attributively|attributively]] as an [[i/_intensifier|intensifier]] in [[e/_exclamations|exclamations]].**
-- **The [[b/_butterfly|butterfly]] Gonepteryx rhamni of the Pieridae [[f/_family|family]].**
+- **The [[b/_butterfly|butterfly]] Gonepteryx rhamni of the [[p/_pieridae|Pieridae]] [[f/_family|family]].**
 ---
 ---

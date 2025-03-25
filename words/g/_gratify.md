@@ -1,7 +1,7 @@
 # Gratify
 ---
 #verb
-- **To please.**
+- **To [[p/_please|please]].**
 - **To [[m/_make|make]] [[c/_content|content]]; to satisfy.**
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Arresting
 ---
 #verb
-- **To stop the [[m/_motion|motion]] of (a person or [[a/_animal|animal]]).**
+- **To stop the [[m/_motion|motion]] of (a [[p/_person|person]] or [[a/_animal|animal]]).**
 - **To stay, remain.**
 - **To stop or slow (a process, [[c/_course|course]] [[e/_etc|etc]].).**
 - **To seize (someone) with the [[a/_authority|authority]] of the [[l/_law|law]]; to take [[i/_into|into]] [[l/_legal|legal]] [[c/_custody|custody]].**

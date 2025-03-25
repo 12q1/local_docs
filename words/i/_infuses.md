@@ -8,6 +8,6 @@
 - **To undergo [[i/_infusion|infusion]].**
 	- _Example: Let it infuse for five minutes._
 - **To [[m/_make|make]] an [[i/_infusion|infusion]] with (an [[i/_ingredient|ingredient]]); to tincture; to saturate.**
-- **To pour in, as a [[l/_liquid|liquid]]; to pour ([[i/_into|into]] or upon); to shed.**
+- **To [[p/_pour|pour]] in, as a [[l/_liquid|liquid]]; to [[p/_pour|pour]] ([[i/_into|into]] or upon); to shed.**
 ---
 ---

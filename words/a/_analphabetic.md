@@ -1,10 +1,10 @@
 # Analphabetic
 ---
 #noun
-- **An [[i/_illiterate|illiterate]] person.**
+- **An [[i/_illiterate|illiterate]] [[p/_person|person]].**
 ---
 #adjective
 - **(of symbols) Not [[a/_alphabetic|alphabetic]].**
-- **(of a person) [[i/_illiterate|Illiterate]], unable to read or write.**
+- **(of a [[p/_person|person]]) [[i/_illiterate|Illiterate]], unable to read or write.**
 ---
 ---

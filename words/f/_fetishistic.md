@@ -1,7 +1,7 @@
 # Fetishistic
 ---
 #adjective
-- **Of or pertaining to [[f/_fetishism|fetishism]] or [[f/_fetishists|fetishists]].**
+- **Of or [[p/_pertaining|pertaining]] to [[f/_fetishism|fetishism]] or [[f/_fetishists|fetishists]].**
 ---
 ### Antonyms
 - [[n/_normophilic|normophilic]]

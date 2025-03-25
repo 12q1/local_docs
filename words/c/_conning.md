@@ -5,7 +5,7 @@
 - **To [[k/_know|know]], understand, [[a/_acknowledge|acknowledge]].**
 ---
 #verb
-- **To trick or [[d/_defraud|defraud]], usually for personal [[g/_gain|gain]].**
+- **To trick or [[d/_defraud|defraud]], usually for [[p/_personal|personal]] [[g/_gain|gain]].**
 ---
 ### Synonyms
 - 

@@ -9,8 +9,8 @@
 - **A slap with the [[h/_hand|hand]], usually in a [[j/_jovial|jovial]] [[m/_manner|manner]].**
 	- _Example: His father's affection never went further than a handshake or a clap on the shoulder._
 - **A single, sudden [[a/_act|act]] or [[m/_motion|motion]]; a stroke; a [[b/_blow|blow]].**
-- **The [[n/_nether|nether]] part of the [[b/_beak|beak]] of a [[h/_hawk|hawk]].**
-- **A [[d/_dropping|dropping]] of [[c/_cow|cow]] [[d/_dung|dung]] (presumably from the sound [[m/_made|made]] as it [[h/_hits|hits]] the [[g/_ground|ground]])**
+- **The [[n/_nether|nether]] [[p/_part|part]] of the [[b/_beak|beak]] of a [[h/_hawk|hawk]].**
+- **A [[d/_dropping|dropping]] of [[c/_cow|cow]] [[d/_dung|dung]] ([[p/_presumably|presumably]] from the sound [[m/_made|made]] as it [[h/_hits|hits]] the [[g/_ground|ground]])**
 ---
 ### Synonyms
 - [[t/_thunderclap|thunderclap]]

@@ -1,7 +1,7 @@
 # Invitation
 ---
 #noun
-- **The [[a/_act|act]] of [[i/_inviting|inviting]]; solicitation; the requesting of a person's [[c/_company|company]].**
+- **The [[a/_act|act]] of [[i/_inviting|inviting]]; solicitation; the requesting of a [[p/_person|person]]'s [[c/_company|company]].**
 	- _Example: an invitation to a party, to a dinner, or to visit a friend_
 - **A [[d/_document|document]] or verbal [[m/_message|message]] [[c/_conveying|conveying]] an [[i/_invitation|invitation]].**
 	- _Example: We need to print off fifty invitations for the party._

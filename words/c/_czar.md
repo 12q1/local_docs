@@ -6,6 +6,6 @@
 ---
 #noun
 - **An [[e/_emperor|emperor]] of Russia (1547 to 1917) and of some South Slavic states.**
-- **A person with [[g/_great|great]] power; an [[a/_autocrat|autocrat]].**
+- **A [[p/_person|person]] with [[g/_great|great]] [[p/_power|power]]; an [[a/_autocrat|autocrat]].**
 ---
 ---

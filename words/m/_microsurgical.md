@@ -1,6 +1,6 @@
 # Microsurgical
 ---
 #adjective
-- **Of or pertaining to [[m/_microsurgery|microsurgery]].**
+- **Of or [[p/_pertaining|pertaining]] to [[m/_microsurgery|microsurgery]].**
 ---
 ---

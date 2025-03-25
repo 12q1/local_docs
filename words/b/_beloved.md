@@ -1,8 +1,8 @@
 # Beloved
 ---
 #verb
-- **To please.**
-- **To be pleased with; [[l/_like|like]].**
+- **To [[p/_please|please]].**
+- **To be [[p/_pleased|pleased]] with; [[l/_like|like]].**
 - **To [[l/_love|love]].**
 ---
 #noun

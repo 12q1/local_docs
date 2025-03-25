@@ -1,7 +1,7 @@
 # Gentlefolk
 ---
 #noun
-- **People of superior social position.**
+- **[[p/_people|People]] of superior social [[p/_position|position]].**
 ---
 ### Synonyms
 - [[a/_aristocrats|aristocrats]]

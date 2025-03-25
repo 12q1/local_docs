@@ -13,7 +13,7 @@
 	- _Example: "Construction in string and clockwork" took first prize._
 - **The [[m/_manner|manner]] in which something is [[b/_built|built]].**
 	- _Example: A thing of simple construction._
-- **([[g/_grammar|grammar]]) A [[g/_group|group]] of words [[a/_arranged|arranged]] to [[f/_form|form]] a [[m/_meaningful|meaningful]] phrase.**
+- **([[g/_grammar|grammar]]) A [[g/_group|group]] of words [[a/_arranged|arranged]] to [[f/_form|form]] a [[m/_meaningful|meaningful]] [[p/_phrase|phrase]].**
 - **The [[a/_act|act]] or result of [[c/_construing|construing]] the [[m/_meaning|meaning]] of something.**
 	- _Example: American conservatives tend to favor strict construction of the Constitution._
 - **The [[m/_meaning|meaning]] or [[i/_interpretation|interpretation]] of a text, [[a/_action|action]] [[e/_etc|etc]].; the way something is viewed by an [[o/_observer|observer]] or [[o/_onlooker|onlooker]].**

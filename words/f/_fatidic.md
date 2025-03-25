@@ -1,6 +1,6 @@
 # Fatidic
 ---
 #adjective
-- **Of or pertaining to prophecy; prophetic**
+- **Of or [[p/_pertaining|pertaining]] to prophecy; prophetic**
 ---
 ---

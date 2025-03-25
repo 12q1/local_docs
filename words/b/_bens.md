@@ -1,7 +1,7 @@
 # Bens
 ---
 #noun
-- **A prayer; a petition.**
+- **A [[p/_prayer|prayer]]; a [[p/_petition|petition]].**
 ---
 #noun
 - **[[b/_ben|Ben]]-room: The [[i/_inner|inner]] room of a two-room [[h/_hut|hut]] or shack (as [[o/_opposed|opposed]] to the but).**
@@ -14,6 +14,6 @@
 ### Synonyms
 - [[m/_moringa|moringa]]
 #noun
-- **A Scottish or [[i/_irish|Irish]] [[m/_mountain|mountain]] or [[h/_high|high]] peak.**
+- **A Scottish or [[i/_irish|Irish]] [[m/_mountain|mountain]] or [[h/_high|high]] [[p/_peak|peak]].**
 ---
 ---

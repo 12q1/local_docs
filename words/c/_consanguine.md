@@ -1,7 +1,7 @@
 # Consanguine
 ---
 #noun
-- **A person related to [[a/_another|another]] by [[b/_birth|birth]].**
+- **A [[p/_person|person]] related to [[a/_another|another]] by [[b/_birth|birth]].**
 ---
 #adjective
 - **Related by [[b/_birth|birth]] or "by [[b/_blood|blood]]", [[i/_i|i]].[[e/_e|e]]. [[h/_having|having]] [[c/_close|close]] [[a/_ancestors|ancestors]] in [[c/_common|common]].**

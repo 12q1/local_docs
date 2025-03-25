@@ -1,7 +1,7 @@
 # Nutcase
 ---
 #noun
-- **An [[e/_eccentric|eccentric]] or [[o/_odd|odd]] person.**
+- **An [[e/_eccentric|eccentric]] or [[o/_odd|odd]] [[p/_person|person]].**
 - **Someone who is [[i/_insane|insane]].**
 ---
 ### Synonyms

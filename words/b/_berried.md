@@ -6,7 +6,7 @@
 	- _Example: a berried shrub_
 ---
 #verb
-- **To pick [[b/_berries|berries]].**
+- **To [[p/_pick|pick]] [[b/_berries|berries]].**
 	- _Example: On summer days Grandma used to take us berrying, whether we wanted to go or not._
 - **To [[b/_bear|bear]] or produce [[b/_berries|berries]].**
 ---

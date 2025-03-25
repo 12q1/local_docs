@@ -1,10 +1,10 @@
 # Moral
 ---
 #noun
-- **(of a [[n/_narrative|narrative]]) The [[e/_ethical|ethical]] significance or practical [[l/_lesson|lesson]].**
-- **([[c/_chiefly|chiefly]] in the plural) [[m/_moral|Moral]] practices or teachings: [[m/_modes|modes]] of [[c/_conduct|conduct]].**
+- **(of a [[n/_narrative|narrative]]) The [[e/_ethical|ethical]] significance or [[p/_practical|practical]] [[l/_lesson|lesson]].**
+- **([[c/_chiefly|chiefly]] in the [[p/_plural|plural]]) [[m/_moral|Moral]] [[p/_practices|practices]] or teachings: [[m/_modes|modes]] of [[c/_conduct|conduct]].**
 	- _Example: a candidate with strong morals_
-- **A [[m/_morality|morality]] play.**
+- **A [[m/_morality|morality]] [[p/_play|play]].**
 - **A [[m/_moral|moral]] [[c/_certainty|certainty]].**
 - **An [[e/_exact|exact]] [[c/_counterpart|counterpart]].**
 ---
@@ -22,7 +22,7 @@
 	- _Example: a moral agent_
 - **Probable but not proved.**
 	- _Example: a moral certainty_
-- **Positively [[a/_affecting|affecting]] the [[m/_mind|mind]], [[c/_confidence|confidence]], or will.**
+- **[[p/_positively|Positively]] [[a/_affecting|affecting]] the [[m/_mind|mind]], [[c/_confidence|confidence]], or will.**
 	- _Example: a moral victory;  moral support_
 ---
 ### Synonyms

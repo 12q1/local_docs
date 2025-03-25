@@ -1,7 +1,7 @@
 # Elevated
 ---
 #verb
-- **To raise (something) to a [[h/_higher|higher]] position.**
+- **To raise (something) to a [[h/_higher|higher]] [[p/_position|position]].**
 	- _Example: The doctor told me elevating my legs would help reduce the swelling._
 - **To promote (someone) to a [[h/_higher|higher]] rank.**
 - **To [[c/_confer|confer]] [[h/_honor|honor]] or [[n/_nobility|nobility]] on (someone).**
@@ -23,8 +23,8 @@
 - **An [[e/_elevated|elevated]] railway.**
 ---
 #adjective
-- **Raised, particularly [[a/_above|above]] [[g/_ground|ground]] [[l/_level|level]].**
-- **[[i/_increased|Increased]], particularly [[a/_above|above]] a [[n/_normal|normal]] [[l/_level|level]].**
+- **Raised, [[p/_particularly|particularly]] [[a/_above|above]] [[g/_ground|ground]] [[l/_level|level]].**
+- **[[i/_increased|Increased]], [[p/_particularly|particularly]] [[a/_above|above]] a [[n/_normal|normal]] [[l/_level|level]].**
 	- _Example: The patient presented with elevated blood pressure._
 - **Of a [[h/_higher|higher]] rank or status.**
 - **Running with [[a/_administration|administration]] rights [[g/_granted|granted]]**

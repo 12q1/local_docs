@@ -3,11 +3,11 @@
 #noun
 - **A structure, whether [[a/_artificial|artificial]] or [[n/_natural|natural]], for [[h/_housing|housing]] a swarm of [[h/_honeybees|honeybees]].**
 - **The [[b/_bees|bees]] of [[o/_one|one]] [[h/_hive|hive]]; a swarm of [[b/_bees|bees]].**
-- **A place swarming with [[b/_busy|busy]] [[o/_occupants|occupants]]; a [[c/_crowd|crowd]].**
+- **A [[p/_place|place]] swarming with [[b/_busy|busy]] [[o/_occupants|occupants]]; a [[c/_crowd|crowd]].**
 - **A section of the registry.**
 ---
 #verb
-- **To [[e/_enter|enter]] or possess a [[h/_hive|hive]].**
+- **To [[e/_enter|enter]] or [[p/_possess|possess]] a [[h/_hive|hive]].**
 - **To [[f/_form|form]] a [[h/_hive|hive]]-[[l/_like|like]] [[e/_entity|entity]].**
 - **To [[c/_collect|collect]] [[i/_into|into]] a [[h/_hive|hive]].**
 	- _Example: to hive a swarm of bees_

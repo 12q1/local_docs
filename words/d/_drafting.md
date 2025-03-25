@@ -1,16 +1,16 @@
 # Drafting
 ---
 #verb
-- **To write a [[f/_first|first]] version, [[m/_make|make]] a preliminary sketch.**
-- **To [[d/_draw|draw]] in [[o/_outline|outline]]; to [[m/_make|make]] a [[d/_draught|draught]], sketch, or plan of, as in [[a/_architectural|architectural]] and [[m/_mechanical|mechanical]] [[d/_drawing|drawing]].**
+- **To write a [[f/_first|first]] version, [[m/_make|make]] a [[p/_preliminary|preliminary]] sketch.**
+- **To [[d/_draw|draw]] in [[o/_outline|outline]]; to [[m/_make|make]] a [[d/_draught|draught]], sketch, or [[p/_plan|plan]] of, as in [[a/_architectural|architectural]] and [[m/_mechanical|mechanical]] [[d/_drawing|drawing]].**
 - **To write a [[l/_law|law]].**
-- **To [[c/_conscript|conscript]] a person, [[f/_force|force]] a person to serve in some [[c/_capacity|capacity]], [[e/_especially|especially]] in the [[m/_military|military]].**
+- **To [[c/_conscript|conscript]] a [[p/_person|person]], [[f/_force|force]] a [[p/_person|person]] to serve in some [[c/_capacity|capacity]], [[e/_especially|especially]] in the [[m/_military|military]].**
 	- _Example: He was drafted during the Vietnam War._
-- **To select someone (or something) for a particular role or purpose.**
+- **To select someone (or something) for a [[p/_particular|particular]] role or purpose.**
 	- _Example: There was a campaign to draft Smith to run for President._
 - **To select and separate an [[a/_animal|animal]] or [[a/_animals|animals]] from a [[g/_group|group]].**
 	- _Example: The calves were drafted from the cows._
-- **To select a rookie player [[o/_onto|onto]] a professional sports team.**
+- **To select a rookie [[p/_player|player]] [[o/_onto|onto]] a professional sports team.**
 	- _Example: After his last year of college football, he was drafted by the Miami Dolphins._
 - **To [[f/_follow|follow]] very [[c/_closely|closely]] ([[b/_behind|behind]] [[a/_another|another]] vehicle), thereby providing an [[a/_aerodynamic|aerodynamic]] [[a/_advantage|advantage]] to [[b/_both|both]] [[l/_lead|lead]] and [[f/_follower|follower]] and [[c/_conserving|conserving]] [[e/_energy|energy]] or [[i/_increasing|increasing]] speed.**
 - **To [[d/_draw|draw]] [[o/_out|out]]; to [[c/_call|call]] [[f/_forth|forth]].**
@@ -19,7 +19,7 @@
 #noun
 - **The [[a/_act|act]] or process of producing a technical [[d/_drawing|drawing]], or [[d/_draft|draft]].**
 - **A profession, usually related to [[m/_making|making]] technical [[d/_drawings|drawings]] for [[a/_architecture|architecture]], [[e/_engineering|engineering]], or [[m/_manufacturing|manufacturing]].**
-- **The practice [[a/_among|among]] [[g/_ground|ground]] vehicle [[d/_drivers|drivers]] or [[c/_cyclists|cyclists]] of [[f/_following|following]] in a [[c/_close|close]] [[l/_line|line]] to reduce wind resistance.**
-- **A [[m/_method|method]] of preparing [[f/_fibers|fibers]] for weaving.**
+- **The [[p/_practice|practice]] [[a/_among|among]] [[g/_ground|ground]] vehicle [[d/_drivers|drivers]] or [[c/_cyclists|cyclists]] of [[f/_following|following]] in a [[c/_close|close]] [[l/_line|line]] to reduce wind resistance.**
+- **A [[m/_method|method]] of [[p/_preparing|preparing]] [[f/_fibers|fibers]] for weaving.**
 ---
 ---

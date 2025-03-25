@@ -1,0 +1,12 @@
+# Participant
+---
+#noun
+- **[[o/_one|One]] who [[p/_participates|participates]].**
+	- _Example: All participants must adhere to the rules of the competition._
+---
+### Synonyms
+- [[e/_entrant|entrant]], [[p/_partaker|partaker]], [[p/_participator|participator]]
+#adjective
+- **Sharing; [[p/_participating|participating]]; [[h/_having|having]] a share of [[p/_part|part]].**
+---
+---

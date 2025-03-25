@@ -1,0 +1,6 @@
+# Pantofles
+---
+#noun
+- **A slipper.**
+---
+---

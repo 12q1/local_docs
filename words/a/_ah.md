@@ -17,6 +17,6 @@
 #interjection
 - **An [[e/_expression|expression]] of relief, relaxation, [[c/_comfort|comfort]], [[c/_confusion|confusion]], understanding, wonder, [[a/_awe|awe]], [[e/_etc|etc]]. [[a/_according|according]] to uttered [[i/_inflection|inflection]].**
 	- _Example: Ah! It's good to be back home!_
-- **A syllable used to [[f/_fill|fill]] space, particularly in [[m/_music|music]].**
+- **A syllable used to [[f/_fill|fill]] space, [[p/_particularly|particularly]] in [[m/_music|music]].**
 ---
 ---

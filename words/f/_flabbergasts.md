@@ -1,7 +1,7 @@
 # Flabbergasts
 ---
 #noun
-- **An [[a/_awkward|awkward]] person.**
+- **An [[a/_awkward|awkward]] [[p/_person|person]].**
 - **[[o/_overwhelming|Overwhelming]] [[c/_confusion|confusion]], shock, or surprise.**
 	- _Example: His flabbergast was so great he couldn’t even come up with a plausible answer._
 ---

@@ -5,7 +5,7 @@
 ---
 #verb
 - **To show, or be the [[d/_distinction|distinction]] [[b/_between|between]] two things.**
-- **To perceive the [[d/_difference|difference]] [[b/_between|between]] things; to [[d/_discriminate|discriminate]].**
+- **To [[p/_perceive|perceive]] the [[d/_difference|difference]] [[b/_between|between]] things; to [[d/_discriminate|discriminate]].**
 - **To [[m/_modify|modify]], or be [[m/_modified|modified]].**
 - **To [[c/_calculate|calculate]] the [[d/_derivative|derivative]] of a [[f/_function|function]].**
 - **To [[c/_calculate|calculate]] the [[d/_differential|differential]] of a [[f/_function|function]] of [[m/_multiple|multiple]] variables.**

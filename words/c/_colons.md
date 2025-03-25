@@ -9,7 +9,7 @@
 ### Synonyms
 - [[c/_colon-point|colon-point]]
 #noun
-- **Part of the [[l/_large|large]] [[i/_intestine|intestine]]; the [[f/_final|final]] segment of the [[d/_digestive|digestive]] system, [[a/_after|after]] ([[d/_distal|distal]] to) the [[i/_ileum|ileum]] and [[b/_before|before]] (proximal to) the [[a/_anus|anus]].**
+- **[[p/_part|Part]] of the [[l/_large|large]] [[i/_intestine|intestine]]; the [[f/_final|final]] segment of the [[d/_digestive|digestive]] system, [[a/_after|after]] ([[d/_distal|distal]] to) the [[i/_ileum|ileum]] and [[b/_before|before]] (proximal to) the [[a/_anus|anus]].**
 ---
 ### Synonyms
 - 

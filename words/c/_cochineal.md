@@ -8,6 +8,6 @@
 ### Synonyms
 - [[E/_E120|E120]]
 #adjective
-- **Possessing a vivid red [[c/_color|color]], as produced from [[d/_dying|dying]] with [[c/_cochineal|cochineal]].**
+- **[[p/_possessing|Possessing]] a vivid red [[c/_color|color]], as produced from [[d/_dying|dying]] with [[c/_cochineal|cochineal]].**
 ---
 ---

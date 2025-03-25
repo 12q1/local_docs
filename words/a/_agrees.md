@@ -11,7 +11,7 @@
 	- _Example: the picture does not agree with the original; the two scales agree exactly._
 - **([[n/_now|now]] [[a/_always|always]] with with) To suit or be [[a/_adapted|adapted]] in [[i/_its|its]] [[e/_effects|effects]]; to [[d/_do|do]] well.**
 	- _Example: the same food does not agree with every constitution._
-- **([[g/_grammar|grammar]]) To [[c/_correspond|correspond]] to ([[a/_another|another]] word) in a [[g/_grammatical|grammatical]] [[c/_category|category]], such as [[g/_gender|gender]], [[n/_number|number]], [[c/_case|case]], or person.**
+- **([[g/_grammar|grammar]]) To [[c/_correspond|correspond]] to ([[a/_another|another]] word) in a [[g/_grammatical|grammatical]] [[c/_category|category]], such as [[g/_gender|gender]], [[n/_number|number]], [[c/_case|case]], or [[p/_person|person]].**
 	- _Example: In Romanian, the articles, adjectives, pronouns agree in gender, number and case with the noun they refer to._
 - **To [[c/_consent|consent]] to a [[c/_contract|contract]] or to an [[e/_element|element]] of a [[c/_contract|contract]].**
 ---

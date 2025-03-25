@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[n/_nervous|nervous]] wriggling or twitching [[m/_motion|motion]].**
-- **A person who [[f/_fidgets|fidgets]], [[e/_especially|especially]] [[h/_habitually|habitually]].**
+- **A [[p/_person|person]] who [[f/_fidgets|fidgets]], [[e/_especially|especially]] [[h/_habitually|habitually]].**
 - **A toy [[i/_intended|intended]] to be [[f/_fidgeted|fidgeted]] with.**
 ---
 ### Synonyms

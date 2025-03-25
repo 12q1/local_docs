@@ -1,7 +1,7 @@
 # Hearings
 ---
 #noun
-- **The sense used to perceive sound.**
+- **The sense used to [[p/_perceive|perceive]] sound.**
 	- _Example: My hearing isn't what it used to be, but I still heard that noise._
 - **The [[a/_act|act]] by which something is [[h/_heard|heard]].**
 - **A proceeding at which [[d/_discussions|discussions]] are [[h/_heard|heard]].**

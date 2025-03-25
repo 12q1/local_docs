@@ -10,7 +10,7 @@
 	- _Example: a clash of beliefs_
 - **A [[c/_combination|combination]] of [[g/_garments|garments]] that [[d/_do|do]] not [[l/_look|look]] [[g/_good|good]] together, [[e/_especially|especially]] [[b/_because|because]] of [[c/_conflicting|conflicting]] [[c/_colours|colours]].**
 	- _Example: She was wearing a horrible clash of red and orange._
-- **An [[i/_instance|instance]] of restarting the [[g/_game|game]] [[a/_after|after]] a "[[d/_dead|dead]] [[b/_ball|ball]]", where it is [[d/_dropped|dropped]] [[b/_between|between]] two [[o/_opposing|opposing]] players, who [[c/_can|can]] [[f/_fight|fight]] for possession.**
+- **An [[i/_instance|instance]] of restarting the [[g/_game|game]] [[a/_after|after]] a "[[d/_dead|dead]] [[b/_ball|ball]]", where it is [[d/_dropped|dropped]] [[b/_between|between]] two [[o/_opposing|opposing]] [[p/_players|players]], who [[c/_can|can]] [[f/_fight|fight]] for [[p/_possession|possession]].**
 - **[[c/_chatter|Chatter]]; [[g/_gossip|gossip]]; [[i/_idle|idle]] talk.**
 ---
 #verb

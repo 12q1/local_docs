@@ -2,7 +2,7 @@
 ---
 #noun
 - **A set [[a/_amount|amount]] of travelling, seen as a single unit; a [[d/_discrete|discrete]] trip, a voyage.**
-- **[[a/_any|Any]] process or progression [[l/_likened|likened]] to a [[j/_journey|journey]], [[e/_especially|especially]] [[o/_one|one]] that [[i/_involves|involves]] [[d/_difficulties|difficulties]] or personal [[d/_development|development]].**
+- **[[a/_any|Any]] process or progression [[l/_likened|likened]] to a [[j/_journey|journey]], [[e/_especially|especially]] [[o/_one|one]] that [[i/_involves|involves]] [[d/_difficulties|difficulties]] or [[p/_personal|personal]] [[d/_development|development]].**
 	- _Example: my journey of dealing with grief_
 - **A [[d/_day|day]].**
 - **A [[d/_day|day]]'s travelling; the [[d/_distance|distance]] travelled in a [[d/_day|day]].**

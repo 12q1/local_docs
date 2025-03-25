@@ -5,6 +5,6 @@
 ---
 #adjective
 - **Uncontrolled or reactive and [[i/_irresistible|irresistible]].**
-- **[[h/_having|Having]] power to [[c/_compel|compel]]; [[e/_exercising|exercising]] or [[a/_applying|applying]] [[c/_compulsion|compulsion]].**
+- **[[h/_having|Having]] [[p/_power|power]] to [[c/_compel|compel]]; [[e/_exercising|exercising]] or [[a/_applying|applying]] [[c/_compulsion|compulsion]].**
 ---
 ---

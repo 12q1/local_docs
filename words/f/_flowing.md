@@ -1,7 +1,7 @@
 # Flowing
 ---
 #verb
-- **To [[m/_move|move]] as a [[f/_fluid|fluid]] from [[o/_one|one]] position to [[a/_another|another]].**
+- **To [[m/_move|move]] as a [[f/_fluid|fluid]] from [[o/_one|one]] [[p/_position|position]] to [[a/_another|another]].**
 	- _Example: Rivers flow from springs and lakes._
 - **To proceed; to [[i/_issue|issue]] [[f/_forth|forth]].**
 	- _Example: Wealth flows from industry and economy._

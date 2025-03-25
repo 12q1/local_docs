@@ -7,13 +7,13 @@
 - **The [[f/_fur|fur]] of a [[f/_fox|fox]].**
 - **A [[f/_fox|fox]] terrier.**
 - **The [[g/_gemmeous|gemmeous]] [[d/_dragonet|dragonet]], a [[f/_fish|fish]], [[c/_callionymus|Callionymus]] [[l/_lyra|lyra]], so [[c/_called|called]] from [[i/_its|its]] [[y/_yellow|yellow]] [[c/_color|color]].**
-- **A [[c/_cunning|cunning]] person.**
-- **A physically [[a/_attractive|attractive]] [[m/_man|man]] or woman.**
+- **A [[c/_cunning|cunning]] [[p/_person|person]].**
+- **A [[p/_physically|physically]] [[a/_attractive|attractive]] [[m/_man|man]] or woman.**
 - **A small strand of rope [[m/_made|made]] by twisting several rope-[[y/_yarns|yarns]] together. Used for seizings, [[m/_mats|mats]], sennits, and [[g/_gaskets|gaskets]].**
 - **A wedge [[d/_driven|driven]] [[i/_into|into]] the split [[e/_end|end]] of a [[b/_bolt|bolt]] to tighten it.**
 - **A [[h/_hidden|hidden]] radio transmitter, [[f/_finding|finding]] which is the [[g/_goal|goal]] of radiosport.**
 - **The [[f/_fourteenth|fourteenth]] Lenormand [[c/_card|card]].**
-- **A sword; so [[c/_called|called]] from the stamp of a [[f/_fox|fox]] on the [[b/_blade|blade]], or perhaps of a wolf taken for a [[f/_fox|fox]].**
+- **A sword; so [[c/_called|called]] from the stamp of a [[f/_fox|fox]] on the [[b/_blade|blade]], or [[p/_perhaps|perhaps]] of a wolf taken for a [[f/_fox|fox]].**
 ---
 ### Synonyms
 - [[t/_tod|tod]]

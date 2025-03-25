@@ -4,21 +4,21 @@
 - **[[o/_one|One]] thousandth (10-3) of a volt, [[a/_abbreviated|abbreviated]] as [[m/_mv|mV]].**
 ---
 #verb
-- **To [[c/_change|change]] place or posture; to [[g/_go|go]], in [[a/_any|any]] [[m/_manner|manner]], from [[o/_one|one]] place or position to [[a/_another|another]].**
+- **To [[c/_change|change]] [[p/_place|place]] or [[p/_posture|posture]]; to [[g/_go|go]], in [[a/_any|any]] [[m/_manner|manner]], from [[o/_one|one]] [[p/_place|place]] or [[p/_position|position]] to [[a/_another|another]].**
 	- _Example: A ship moves rapidly._
 - **To [[a/_act|act]]; to take [[a/_action|action]]; to [[b/_begin|begin]] to [[a/_act|act]]**
 	- _Example: Come on guys, let's move: there's work to do!_
-- **To [[c/_change|change]] residence, for [[e/_example|example]] from [[o/_one|one]] [[h/_house|house]], town, or state, to [[a/_another|another]]; to [[g/_go|go]] and [[l/_live|live]] at [[a/_another|another]] place. See [[a/_also|also]] [[m/_move|move]] [[o/_out|out]] and [[m/_move|move]] in.**
+- **To [[c/_change|change]] residence, for [[e/_example|example]] from [[o/_one|one]] [[h/_house|house]], town, or state, to [[a/_another|another]]; to [[g/_go|go]] and [[l/_live|live]] at [[a/_another|another]] [[p/_place|place]]. See [[a/_also|also]] [[m/_move|move]] [[o/_out|out]] and [[m/_move|move]] in.**
 	- _Example: I decided to move to the country for a more peaceful life._
-- **(and [[o/_other|other]] [[g/_games|games]]) To [[c/_change|change]] the place of a piece in [[a/_accordance|accordance]] with the rules of the [[g/_game|game]].**
+- **(and [[o/_other|other]] [[g/_games|games]]) To [[c/_change|change]] the [[p/_place|place]] of a [[p/_piece|piece]] in [[a/_accordance|accordance]] with the rules of the [[g/_game|game]].**
 	- _Example: My opponent's counter was moving much quicker round the board than mine._
-- **To [[c/_cause|cause]] to [[c/_change|change]] place or posture in [[a/_any|any]] [[m/_manner|manner]]; to set in [[m/_motion|motion]]; to [[c/_carry|carry]], [[c/_convey|convey]], [[d/_draw|draw]], or push from [[o/_one|one]] place to [[a/_another|another]]**
+- **To [[c/_cause|cause]] to [[c/_change|change]] [[p/_place|place]] or [[p/_posture|posture]] in [[a/_any|any]] [[m/_manner|manner]]; to set in [[m/_motion|motion]]; to [[c/_carry|carry]], [[c/_convey|convey]], [[d/_draw|draw]], or push from [[o/_one|one]] [[p/_place|place]] to [[a/_another|another]]**
 	- _Example: The horse moves a carriage._
-- **To transfer (a piece or [[m/_man|man]]) from [[o/_one|one]] space or position to [[a/_another|another]], [[a/_according|according]] to the rules of the [[g/_game|game]]**
+- **To transfer (a [[p/_piece|piece]] or [[m/_man|man]]) from [[o/_one|one]] space or [[p/_position|position]] to [[a/_another|another]], [[a/_according|according]] to the rules of the [[g/_game|game]]**
 	- _Example: She moved the queen closer to the centre of the board._
-- **To [[e/_excite|excite]] to [[a/_action|action]] by the presentation of [[m/_motives|motives]]; to rouse by representation, persuasion, or [[a/_appeal|appeal]]; to [[i/_influence|influence]].**
+- **To [[e/_excite|excite]] to [[a/_action|action]] by the [[p/_presentation|presentation]] of [[m/_motives|motives]]; to rouse by representation, [[p/_persuasion|persuasion]], or [[a/_appeal|appeal]]; to [[i/_influence|influence]].**
 	- _Example: This song moves me to dance._
-- **To [[a/_arouse|arouse]] the [[f/_feelings|feelings]] or passions of; [[e/_especially|especially]], to [[e/_excite|excite]] to tenderness or [[c/_compassion|compassion]], to [[e/_excite|excite]] (for [[e/_example|example]], an [[e/_emotion|emotion]]).**
+- **To [[a/_arouse|arouse]] the [[f/_feelings|feelings]] or [[p/_passions|passions]] of; [[e/_especially|especially]], to [[e/_excite|excite]] to tenderness or [[c/_compassion|compassion]], to [[e/_excite|excite]] (for [[e/_example|example]], an [[e/_emotion|emotion]]).**
 	- _Example: That book really moved me._
 - **To propose; to recommend; specifically, to propose [[f/_formally|formally]] for [[c/_consideration|consideration]] and [[d/_determination|determination]], in a [[d/_deliberative|deliberative]] [[a/_assembly|assembly]]; to submit**
 	- _Example: I move to repeal the rule regarding obligatory school uniform._

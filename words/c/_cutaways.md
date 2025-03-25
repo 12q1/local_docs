@@ -1,7 +1,7 @@
 # Cutaways
 ---
 #noun
-- **A [[c/_cut|cut]] to a shot of person [[l/_listening|listening]] to a speaker so that the [[a/_audience|audience]] [[c/_can|can]] see the [[l/_listener|listener]]'s reaction.**
+- **A [[c/_cut|cut]] to a shot of [[p/_person|person]] [[l/_listening|listening]] to a speaker so that the [[a/_audience|audience]] [[c/_can|can]] see the [[l/_listener|listener]]'s reaction.**
 - **The [[i/_interruption|interruption]] of a [[c/_continuously|continuously]] [[f/_filmed|filmed]] [[a/_action|action]] by [[i/_inserting|inserting]] a view of something [[e/_else|else]].**
 - **A [[c/_coat|coat]] with a tapered frontline.**
 - **A [[d/_diagram|diagram]] or [[m/_model|model]] [[h/_having|having]] [[o/_outer|outer]] [[l/_layers|layers]] removed so as to show the [[i/_interior|interior]]**

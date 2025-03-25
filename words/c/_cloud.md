@@ -12,7 +12,7 @@
 - **An [[e/_elliptical|elliptical]] shape or symbol whose [[o/_outline|outline]] is a series of semicircles, supposed to resemble a [[c/_cloud|cloud]].**
 	- _Example: The comic-book character's thoughts appeared in a cloud above his head._
 - **(with "the") The [[i/_internet|Internet]], regarded as an [[a/_abstract|abstract]] [[a/_amorphous|amorphous]] [[o/_omnipresent|omnipresent]] space for processing and storage, the [[f/_focus|focus]] of [[c/_cloud|cloud]] [[c/_computing|computing]].**
-- **A [[n/_negative|negative]] or [[f/_foreboding|foreboding]] [[a/_aspect|aspect]] of something positive: see [[e/_every|every]] [[c/_cloud|cloud]] [[h/_has|has]] a silver [[l/_lining|lining]] or [[e/_every|every]] silver [[l/_lining|lining]] [[h/_has|has]] a [[c/_cloud|cloud]].**
+- **A [[n/_negative|negative]] or [[f/_foreboding|foreboding]] [[a/_aspect|aspect]] of something [[p/_positive|positive]]: see [[e/_every|every]] [[c/_cloud|cloud]] [[h/_has|has]] a silver [[l/_lining|lining]] or [[e/_every|every]] silver [[l/_lining|lining]] [[h/_has|has]] a [[c/_cloud|cloud]].**
 - **[[c/_crystal|Crystal]] [[m/_methamphetamine|methamphetamine]].**
 - **A [[l/_large|large]], [[l/_loosely|loosely]]-[[k/_knitted|knitted]] [[h/_headscarf|headscarf]] worn by women.**
 ---
@@ -23,7 +23,7 @@
 	- _Example: The sky is clouded._
 - **To [[m/_make|make]] [[o/_obscure|obscure]].**
 	- _Example: All this talk about human rights is clouding the real issue._
-- **To [[m/_make|make]] [[l/_less|less]] [[a/_acute|acute]] or perceptive.**
+- **To [[m/_make|make]] [[l/_less|less]] [[a/_acute|acute]] or [[p/_perceptive|perceptive]].**
 	- _Example: The tears began to well up and cloud my vision._
 - **To [[m/_make|make]] [[g/_gloomy|gloomy]] or sullen.**
 - **To [[b/_blacken|blacken]]; to sully; to stain; to tarnish (reputation or [[c/_character|character]]).**

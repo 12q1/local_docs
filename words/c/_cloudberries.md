@@ -2,7 +2,7 @@
 ---
 #noun
 - **A species of slow-[[g/_growing|growing]] [[b/_bramble|bramble]].**
-- **The [[f/_fruit|fruit]] of these plants.**
+- **The [[f/_fruit|fruit]] of these [[p/_plants|plants]].**
 ---
 ### Synonyms
 - [[a/_aqpik|aqpik]], [[b/_bakeapple|bakeapple]]

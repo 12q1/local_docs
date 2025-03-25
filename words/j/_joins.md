@@ -1,7 +1,7 @@
 # Joins
 ---
 #noun
-- **An [[i/_intersection|intersection]] of piping or wiring; an [[i/_interconnect|interconnect]].**
+- **An [[i/_intersection|intersection]] of [[p/_piping|piping]] or wiring; an [[i/_interconnect|interconnect]].**
 - **An [[i/_intersection|intersection]] of [[d/_data|data]] in two or [[m/_more|more]] [[d/_database|database]] tables.**
 - **The [[a/_act|act]] of [[j/_joining|joining]] something, such as a [[n/_network|network]].**
 - **The [[l/_lowest|lowest]] upper [[b/_bound|bound]], an [[o/_operation|operation]] [[b/_between|between]] [[p/_pairs|pairs]] of [[e/_elements|elements]] in a [[l/_lattice|lattice]], [[d/_denoted|denoted]] by the symbol ∨.**

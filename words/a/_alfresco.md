@@ -7,6 +7,6 @@
 #adverb
 - **[[o/_outdoors|Outdoors]]; in [[f/_fresh|fresh]] [[a/_air|air]].**
 	- _Example: As it was a sunny afternoon, we decided to dine alfresco on the patio._
-- **[[o/_onto|Onto]] [[f/_fresh|fresh]] plaster that is still [[m/_moist|moist]].**
+- **[[o/_onto|Onto]] [[f/_fresh|fresh]] [[p/_plaster|plaster]] that is still [[m/_moist|moist]].**
 ---
 ---

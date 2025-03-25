@@ -1,8 +1,8 @@
 # Consistent
 ---
 #noun
-- **(in the plural) [[o/_objects|Objects]] or [[f/_facts|facts]] that are [[c/_coexistent|coexistent]], or in [[a/_agreement|agreement]] with [[o/_one|one]] [[a/_another|another]].**
-- **A [[k/_kind|kind]] of penitent who was [[a/_allowed|allowed]] to [[a/_assist|assist]] at prayers, but was not permitted to receive the [[h/_holy|holy]] sacraments.**
+- **(in the [[p/_plural|plural]]) [[o/_objects|Objects]] or [[f/_facts|facts]] that are [[c/_coexistent|coexistent]], or in [[a/_agreement|agreement]] with [[o/_one|one]] [[a/_another|another]].**
+- **A [[k/_kind|kind]] of [[p/_penitent|penitent]] who was [[a/_allowed|allowed]] to [[a/_assist|assist]] at [[p/_prayers|prayers]], but was not [[p/_permitted|permitted]] to receive the [[h/_holy|holy]] sacraments.**
 ---
 #adjective
 - **Of a regularly [[o/_occurring|occurring]], [[d/_dependable|dependable]] [[n/_nature|nature]].**

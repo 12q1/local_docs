@@ -1,10 +1,10 @@
 # Yous
 ---
 #verb
-- **To [[a/_address|address]] (a person) using the pronoun [[y/_you|you]] (in the past, [[e/_especially|especially]] to use [[y/_you|you]] rather than thou, when [[y/_you|you]] was [[c/_considered|considered]] [[m/_more|more]] [[f/_formal|formal]]).**
+- **To [[a/_address|address]] (a [[p/_person|person]]) using the pronoun [[y/_you|you]] (in the [[p/_past|past]], [[e/_especially|especially]] to use [[y/_you|you]] rather than thou, when [[y/_you|you]] was [[c/_considered|considered]] [[m/_more|more]] [[f/_formal|formal]]).**
 ---
 #pronoun
-- **[[y/_you|You]] (plural).**
+- **[[y/_you|You]] ([[p/_plural|plural]]).**
 - **[[y/_you|You]] (singular).**
 ---
 ---

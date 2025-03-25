@@ -7,6 +7,6 @@
 - **To [[m/_make|make]] [[h/_hungry|hungry]]; to [[f/_famish|famish]].**
 ---
 #adjective
-- **[[h/_hungry|Hungry]]; pinched for [[f/_food|food]].**
+- **[[h/_hungry|Hungry]]; [[p/_pinched|pinched]] for [[f/_food|food]].**
 ---
 ---

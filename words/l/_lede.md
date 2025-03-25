@@ -1,9 +1,9 @@
 # Lede
 ---
 #noun
-- **(singular) A [[m/_man|man]]; person.**
-- **([[c/_collective|collective]] plural) [[m/_men|Men]]; people, [[f/_folk|folk]].**
-- **(singular) A people or [[n/_nation|nation]].**
-- **(plural) Tenements; [[h/_holdings|holdings]]; possessions.**
+- **(singular) A [[m/_man|man]]; [[p/_person|person]].**
+- **([[c/_collective|collective]] [[p/_plural|plural]]) [[m/_men|Men]]; [[p/_people|people]], [[f/_folk|folk]].**
+- **(singular) A [[p/_people|people]] or [[n/_nation|nation]].**
+- **([[p/_plural|plural]]) Tenements; [[h/_holdings|holdings]]; [[p/_possessions|possessions]].**
 ---
 ---

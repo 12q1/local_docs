@@ -1,11 +1,11 @@
 # Bush
 ---
 #noun
-- **A woody plant [[d/_distinguished|distinguished]] from a tree by [[i/_its|its]] [[m/_multiple|multiple]] stems and [[l/_lower|lower]] [[h/_height|height]], [[b/_being|being]] usually [[l/_less|less]] than six [[m/_metres|metres]] tall; a [[h/_horticultural|horticultural]] rather than strictly [[b/_botanical|botanical]] [[c/_category|category]].**
+- **A woody [[p/_plant|plant]] [[d/_distinguished|distinguished]] from a tree by [[i/_its|its]] [[m/_multiple|multiple]] stems and [[l/_lower|lower]] [[h/_height|height]], [[b/_being|being]] usually [[l/_less|less]] than six [[m/_metres|metres]] tall; a [[h/_horticultural|horticultural]] rather than strictly [[b/_botanical|botanical]] [[c/_category|category]].**
 - **A shrub [[c/_cut|cut]] [[o/_off|off]], or a shrublike [[b/_branch|branch]] of a tree.**
 	- _Example: bushes to support pea vines_
 - **A shrub or [[b/_branch|branch]], properly, a [[b/_branch|branch]] of [[i/_ivy|ivy]] (sacred to [[b/_bacchus|Bacchus]]), [[h/_hung|hung]] [[o/_out|out]] at vintners' [[d/_doors|doors]], or as a tavern sign; [[h/_hence|hence]], a tavern sign, and symbolically, the tavern [[i/_itself|itself]].**
-- **A person's pubic [[h/_hair|hair]], [[e/_especially|especially]] a woman's.**
+- **A [[p/_person|person]]'s pubic [[h/_hair|hair]], [[e/_especially|especially]] a woman's.**
 - **The tail, or [[b/_brush|brush]], of a [[f/_fox|fox]].**
 ---
 ### Synonyms

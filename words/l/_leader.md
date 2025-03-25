@@ -1,7 +1,7 @@
 # Leader
 ---
 #noun
-- **[[a/_any|Any]] person that [[l/_leads|leads]] or [[d/_directs|directs]]**
+- **[[a/_any|Any]] [[p/_person|person]] that [[l/_leads|leads]] or [[d/_directs|directs]]**
 - **An [[a/_animal|animal]] that [[l/_leads|leads]]**
 - **Someone or something that [[l/_leads|leads]] or [[c/_conducts|conducts]]**
 ---

@@ -1,7 +1,7 @@
 # Forthright
 ---
 #noun
-- **A straight path.**
+- **A straight [[p/_path|path]].**
 ---
 #adjective
 - **Straightforward, not [[e/_evasive|evasive]], [[c/_candid|candid]] and [[d/_direct|direct]].**

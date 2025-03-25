@@ -1,6 +1,6 @@
 # Altiplano
 ---
 #noun
-- **A [[h/_high|high]] plateau**
+- **A [[h/_high|high]] [[p/_plateau|plateau]]**
 ---
 ---

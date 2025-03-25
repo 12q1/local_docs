@@ -5,8 +5,8 @@
 - **A specific ritual or procedure [[a/_associated|associated]] with such [[m/_magic|magic]]; a spell.**
 - **The supernatural [[f/_forces|forces]] which are [[d/_drawn|drawn]] on in such a ritual**
 - **Something producing successful and remarkable results, [[e/_especially|especially]] when not [[f/_fully|fully]] understood; an [[e/_enchanting|enchanting]] quality; [[e/_exceptional|exceptional]] skill.**
-- **A [[c/_conjuring|conjuring]] trick or [[i/_illusion|illusion]] performed to [[g/_give|give]] the [[a/_appearance|appearance]] of supernatural phenomena or powers.**
-- **The [[a/_art|art]] or practice of performing [[c/_conjuring|conjuring]] tricks and [[i/_illusions|illusions]].**
+- **A [[c/_conjuring|conjuring]] trick or [[i/_illusion|illusion]] [[p/_performed|performed]] to [[g/_give|give]] the [[a/_appearance|appearance]] of supernatural [[p/_phenomena|phenomena]] or [[p/_powers|powers]].**
+- **The [[a/_art|art]] or [[p/_practice|practice]] of [[p/_performing|performing]] [[c/_conjuring|conjuring]] tricks and [[i/_illusions|illusions]].**
 - **[[c/_complicated|Complicated]] or [[e/_esoteric|esoteric]] [[c/_code|code]] that is not [[e/_expected|expected]] to be [[g/_generally|generally]] understood.**
 ---
 ### Synonyms

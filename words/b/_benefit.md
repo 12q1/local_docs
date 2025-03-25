@@ -3,8 +3,8 @@
 #noun
 - **An [[a/_advantage|advantage]]; [[h/_help|help]] or [[a/_aid|aid]] from something.**
 	- _Example: It was for her benefit.   His benefit was free beer._
-- **A [[p/_payment|payment]] [[m/_made|made]] in [[a/_accordance|accordance]] with an [[i/_insurance|insurance]] policy or a public [[a/_assistance|assistance]] scheme.**
-- **An [[e/_event|event]] such as a performance, [[g/_given|given]] to raise [[f/_funds|funds]] for some [[c/_cause|cause]].**
+- **A [[p/_payment|payment]] [[m/_made|made]] in [[a/_accordance|accordance]] with an [[i/_insurance|insurance]] [[p/_policy|policy]] or a public [[a/_assistance|assistance]] scheme.**
+- **An [[e/_event|event]] such as a [[p/_performance|performance]], [[g/_given|given]] to raise [[f/_funds|funds]] for some [[c/_cause|cause]].**
 - **[[b/_beneficence|Beneficence]]; [[l/_liberality|liberality]]**
 ---
 ### Synonyms

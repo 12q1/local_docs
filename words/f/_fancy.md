@@ -14,9 +14,9 @@
 - **The [[e/_enthusiasts|enthusiasts]] of such a pursuit.**
 	- _Example: He fell out of favor with the boxing fancy after the incident._
 - **A [[d/_diamond|diamond]] with a [[d/_distinctive|distinctive]] [[c/_colour|colour]].**
-- **That which pleases or [[e/_entertains|entertains]] the taste or [[c/_caprice|caprice]] without [[m/_much|much]] use or value.**
+- **That which [[p/_pleases|pleases]] or [[e/_entertains|entertains]] the taste or [[c/_caprice|caprice]] without [[m/_much|much]] use or value.**
 - **A sort of [[l/_love|love]] song or [[l/_light|light]] [[i/_impromptu|impromptu]] [[b/_ballad|ballad]].**
-- **In the [[g/_game|game]] of [[j/_jacks|jacks]], a style of play [[i/_involving|involving]] [[a/_additional|additional]] [[a/_actions|actions]] ([[c/_contrasted|contrasted]] with plainsies).**
+- **In the [[g/_game|game]] of [[j/_jacks|jacks]], a style of [[p/_play|play]] [[i/_involving|involving]] [[a/_additional|additional]] [[a/_actions|actions]] ([[c/_contrasted|contrasted]] with plainsies).**
 ---
 ### Synonyms
 - [[c/_conception|conception]], [[i/_idea|idea]], [[t/_thought|thought]], [[h/_hobby|hobby]], [[i/_impression|impression]]

@@ -1,9 +1,9 @@
 # Bashes
 ---
 #noun
-- **A [[l/_large|large]] party; [[g/_gala|gala]] [[e/_event|event]].**
+- **A [[l/_large|large]] [[p/_party|party]]; [[g/_gala|gala]] [[e/_event|event]].**
 	- _Example: They had a big bash to celebrate their tenth anniversary._
-- **An [[a/_attack|attack]] that [[c/_consists|consists]] of placing [[a/_all|all]] [[o/_one|one]]'s weight [[i/_into|into]] a [[d/_downward|downward]] [[a/_attack|attack]] with [[o/_one|one]]'s [[f/_fists|fists]].**
+- **An [[a/_attack|attack]] that [[c/_consists|consists]] of [[p/_placing|placing]] [[a/_all|all]] [[o/_one|one]]'s weight [[i/_into|into]] a [[d/_downward|downward]] [[a/_attack|attack]] with [[o/_one|one]]'s [[f/_fists|fists]].**
 ---
 #verb
 - **To strike [[h/_heavily|heavily]].**

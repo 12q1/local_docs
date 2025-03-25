@@ -1,8 +1,8 @@
 # Acumen
 ---
 #noun
-- **Quickness of perception or [[d/_discernment|discernment]]; penetration of [[m/_mind|mind]]; the [[f/_faculty|faculty]] of [[n/_nice|nice]] [[d/_discrimination|discrimination]].**
-- **A sharp, tapering point [[e/_extending|extending]] from a plant.**
+- **Quickness of [[p/_perception|perception]] or [[d/_discernment|discernment]]; [[p/_penetration|penetration]] of [[m/_mind|mind]]; the [[f/_faculty|faculty]] of [[n/_nice|nice]] [[d/_discrimination|discrimination]].**
+- **A sharp, tapering [[p/_point|point]] [[e/_extending|extending]] from a [[p/_plant|plant]].**
 - **A [[b/_bony|bony]], [[o/_often|often]] sharp, protuberance, [[e/_especially|especially]] that of the [[i/_ischium|ischium]].**
 ---
 ### Synonyms

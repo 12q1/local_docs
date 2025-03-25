@@ -1,7 +1,7 @@
 # Omnibus
 ---
 #noun
-- **A vehicle set up to [[c/_carry|carry]] [[m/_many|many]] people ([[n/_now|now]] usually [[c/_called|called]] a [[b/_bus|bus]]).**
+- **A vehicle set up to [[c/_carry|carry]] [[m/_many|many]] [[p/_people|people]] ([[n/_now|now]] usually [[c/_called|called]] a [[b/_bus|bus]]).**
 - **An [[a/_anthology|anthology]] of previously released [[m/_material|material]] [[l/_linked|linked]] together by theme or [[a/_author|author]], [[e/_especially|especially]] in [[b/_book|book]] [[f/_form|form]].**
 - **A [[b/_broadcast|broadcast]] programme [[c/_consisting|consisting]] of [[a/_all|all]] of the [[e/_episodes|episodes]] of a serial that [[h/_have|have]] [[b/_been|been]] shown in the previous week.**
 	- _Example: The omnibus edition of The Archers is broadcast every Sunday morning at 11.00._

@@ -5,7 +5,7 @@
 ---
 #noun
 - **A [[d/_domestic|domestic]] utensil with [[f/_fibers|fibers]] [[b/_bound|bound]] together at the [[e/_end|end]] of a [[l/_long|long]] [[h/_handle|handle]], used for sweeping.**
-- **An [[i/_implement|implement]] with which players sweep the [[i/_ice|ice]] to [[m/_make|make]] a stone travel [[f/_further|further]] and [[c/_curl|curl]] [[l/_less|less]]; a sweeper.**
+- **An [[i/_implement|implement]] with which [[p/_players|players]] sweep the [[i/_ice|ice]] to [[m/_make|make]] a stone travel [[f/_further|further]] and [[c/_curl|curl]] [[l/_less|less]]; a sweeper.**
 - **[[a/_any|Any]] of several [[y/_yellow|yellow]]-[[f/_flowered|flowered]] shrubs of the [[f/_family|family]] [[f/_fabaceae|Fabaceae]], in the tribe Genisteae, [[i/_including|including]] [[g/_genera|genera]] [[c/_cytisus|Cytisus]], [[g/_genista|Genista]], and Spartium, with [[l/_long|long]], thin [[b/_branches|branches]] and small or [[f/_few|few]] [[l/_leaves|leaves]].**
 - **A [[g/_gun|gun]], [[b/_because|because]] it is [[m/_more|more]] or [[l/_less|less]] [[l/_long|long]], [[h/_held|held]] similarly to a [[b/_besom|besom]] and “[[c/_cleans|cleans]]” what is in [[f/_front|front]].**
 ---

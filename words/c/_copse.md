@@ -7,6 +7,6 @@
 - [[c/_coppice|coppice]]
 #verb
 - **To trim or [[c/_cut|cut]].**
-- **To plant and preserve.**
+- **To [[p/_plant|plant]] and [[p/_preserve|preserve]].**
 ---
 ---

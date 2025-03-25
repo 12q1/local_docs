@@ -5,7 +5,7 @@
 	- _Example: to disjoint limbs; to disjoint bones; to disjoint poultry by carving_
 - **To [[b/_break|break]] the [[n/_natural|natural]] [[o/_order|order]] and relations of; to [[m/_make|make]] [[i/_incoherent|incoherent]].**
 	- _Example: a disjointed speech_
-- **To [[f/_fall|fall]] [[i/_into|into]] pieces.**
+- **To [[f/_fall|fall]] [[i/_into|into]] [[p/_pieces|pieces]].**
 ---
 #adjective
 - **Not smooth or [[c/_continuous|continuous]]; [[d/_disjointed|disjointed]].**

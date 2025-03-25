@@ -5,6 +5,6 @@
 - **An [[i/_inhabitant|inhabitant]] of a [[d/_diocese|diocese]].**
 ---
 #adjective
-- **Pertaining to a [[d/_diocese|diocese]].**
+- **[[p/_pertaining|Pertaining]] to a [[d/_diocese|diocese]].**
 ---
 ---

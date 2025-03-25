@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[j/_jew|Jew]].**
-- **A [[c/_contemptible|contemptible]] person, [[e/_especially|especially]] [[o/_one|one]] who is stingy.**
+- **A [[c/_contemptible|contemptible]] [[p/_person|person]], [[e/_especially|especially]] [[o/_one|one]] who is stingy.**
 	- _Example: That greedy kike would not give me any money when I was starving and needed food._
 ---
 ### Synonyms

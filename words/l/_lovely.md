@@ -1,7 +1,7 @@
 # Lovely
 ---
 #noun
-- **An [[a/_attractive|attractive]], [[l/_lovely|lovely]] person, [[e/_especially|especially]] a (professional) [[b/_beauty|beauty]].**
+- **An [[a/_attractive|attractive]], [[l/_lovely|lovely]] [[p/_person|person]], [[e/_especially|especially]] a (professional) [[b/_beauty|beauty]].**
 	- _Example: a calendar depicting young lovelies in bikinis_
 - **Term of [[f/_fond|fond]] [[a/_address|address]].**
 	- _Example: Goodbye, my lovely._
@@ -10,7 +10,7 @@
 ### Synonyms
 - [[d/_darling|darling]], [[p/_pretty|pretty]]
 #adjective
-- **[[b/_beautiful|Beautiful]]; [[c/_charming|charming]]; very pleasing in [[f/_form|form]], [[l/_looks|looks]], tone, or [[m/_manner|manner]].**
+- **[[b/_beautiful|Beautiful]]; [[c/_charming|charming]]; very [[p/_pleasing|pleasing]] in [[f/_form|form]], [[l/_looks|looks]], tone, or [[m/_manner|manner]].**
 	- _Example: It's a lovely day and the sun is shining._
 - **Very [[n/_nice|nice]], wonderful.**
 	- _Example: It would be lovely to have a little more money to spend._

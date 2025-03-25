@@ -1,6 +1,6 @@
 # Dodecaphonic
 ---
 #adjective
-- **Of or pertaining to [[d/_dodecaphony|dodecaphony]].**
+- **Of or [[p/_pertaining|pertaining]] to [[d/_dodecaphony|dodecaphony]].**
 ---
 ---

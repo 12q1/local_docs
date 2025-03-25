@@ -1,7 +1,7 @@
 # Endeavor
 ---
 #noun
-- **A sincere [[a/_attempt|attempt]]; a [[d/_determined|determined]] or [[a/_assiduous|assiduous]] [[e/_effort|effort]] towards a specific [[g/_goal|goal]]; [[a/_assiduous|assiduous]] or persistent [[a/_activity|activity]].**
+- **A sincere [[a/_attempt|attempt]]; a [[d/_determined|determined]] or [[a/_assiduous|assiduous]] [[e/_effort|effort]] towards a specific [[g/_goal|goal]]; [[a/_assiduous|assiduous]] or [[p/_persistent|persistent]] [[a/_activity|activity]].**
 ---
 #verb
 - **To [[e/_exert|exert]] [[o/_oneself|oneself]].**

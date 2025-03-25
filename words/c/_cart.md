@@ -1,7 +1,7 @@
 # Cart
 ---
 #noun
-- **A small, [[o/_open|open]], wheeled vehicle, [[d/_drawn|drawn]] or pushed by a person or [[a/_animal|animal]], [[m/_more|more]] [[o/_often|often]] used for transporting [[g/_goods|goods]] than passengers.**
+- **A small, [[o/_open|open]], wheeled vehicle, [[d/_drawn|drawn]] or pushed by a [[p/_person|person]] or [[a/_animal|animal]], [[m/_more|more]] [[o/_often|often]] used for transporting [[g/_goods|goods]] than [[p/_passengers|passengers]].**
 	- _Example: The grocer delivered his goods by cart._
 - **A small [[m/_motor|motor]] vehicle resembling a [[c/_car|car]]; a [[g/_go|go]]-[[c/_cart|cart]].**
 - **A shopping [[c/_cart|cart]].**

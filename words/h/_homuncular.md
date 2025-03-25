@@ -1,6 +1,6 @@
 # Homuncular
 ---
 #adjective
-- **Of or pertaining to a [[h/_homunculus|homunculus]].**
+- **Of or [[p/_pertaining|pertaining]] to a [[h/_homunculus|homunculus]].**
 ---
 ---

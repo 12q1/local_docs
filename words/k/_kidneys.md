@@ -3,7 +3,7 @@
 #noun
 - **An [[o/_organ|organ]] in the [[b/_body|body]] that [[f/_filters|filters]] the [[b/_blood|blood]], producing urine.**
 - **This [[o/_organ|organ]] (of an [[a/_animal|animal]]) [[c/_cooked|cooked]] as [[f/_food|food]].**
-- **[[c/_constitution|Constitution]], temperament, [[n/_nature|nature]], type, [[c/_character|character]], [[d/_disposition|disposition]]. (usually used of people)**
+- **[[c/_constitution|Constitution]], temperament, [[n/_nature|nature]], type, [[c/_character|character]], [[d/_disposition|disposition]]. (usually used of [[p/_people|people]])**
 - **A waiter.**
 ---
 ### Synonyms

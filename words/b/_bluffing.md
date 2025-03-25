@@ -12,6 +12,6 @@
 - **To [[f/_fluff|fluff]], puff or swell up.**
 ---
 #noun
-- **A [[b/_bluff|bluff]]; a [[f/_false|false]] [[e/_expression|expression]] of the strength of [[o/_one|one]]'s position in [[o/_order|order]] to [[i/_intimidate|intimidate]].**
+- **A [[b/_bluff|bluff]]; a [[f/_false|false]] [[e/_expression|expression]] of the strength of [[o/_one|one]]'s [[p/_position|position]] in [[o/_order|order]] to [[i/_intimidate|intimidate]].**
 ---
 ---

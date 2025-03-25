@@ -1,7 +1,7 @@
 # Beggarly
 ---
 #adjective
-- **In the [[m/_manner|manner]] of a [[b/_beggar|beggar]]; poverty-stricken; [[m/_mean|mean]]; poor; [[c/_contemptible|contemptible]].**
+- **In the [[m/_manner|manner]] of a [[b/_beggar|beggar]]; [[p/_poverty|poverty]]-stricken; [[m/_mean|mean]]; [[p/_poor|poor]]; [[c/_contemptible|contemptible]].**
 	- _Example: beggarly fellow_
 - **[[f/_fit|Fit]] for a [[b/_beggar|beggar]]; [[o/_occasioned|occasioned]] by [[b/_begging|begging]].**
 	- _Example: beggarly rags_

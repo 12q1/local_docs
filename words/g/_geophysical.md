@@ -1,6 +1,6 @@
 # Geophysical
 ---
 #adjective
-- **Of or pertaining to [[g/_geophysics|geophysics]].**
+- **Of or [[p/_pertaining|pertaining]] to [[g/_geophysics|geophysics]].**
 ---
 ---

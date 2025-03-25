@@ -4,10 +4,10 @@
 - **To raise or rise.**
 	- _Example: The fog eventually lifted, leaving the streets clear._
 - **To steal.**
-- **To source [[d/_directly|directly]] without [[a/_acknowledgement|acknowledgement]]; to plagiarise.**
-- **To [[a/_arrest|arrest]] (a person).**
+- **To source [[d/_directly|directly]] without [[a/_acknowledgement|acknowledgement]]; to [[p/_plagiarise|plagiarise]].**
+- **To [[a/_arrest|arrest]] (a [[p/_person|person]]).**
 - **To remove (a [[b/_ban|ban]], restriction, [[e/_etc|etc]].).**
-- **To [[a/_alleviate|alleviate]], to [[l/_lighten|lighten]] (pressure, tension, stress, [[e/_etc|etc]].)**
+- **To [[a/_alleviate|alleviate]], to [[l/_lighten|lighten]] ([[p/_pressure|pressure]], tension, stress, [[e/_etc|etc]].)**
 - **To [[c/_cause|cause]] to [[m/_move|move]] upwards.**
 - **To [[l/_lift|lift]] weights; to weight-[[l/_lift|lift]].**
 	- _Example: She lifts twice a week at the gym._
@@ -21,7 +21,7 @@
 #noun
 - **The [[a/_action|action]] or process by which something is [[l/_lifted|lifted]]; [[e/_elevation|elevation]]**
 - **Weightlifting; a [[f/_form|form]] of [[e/_exercise|exercise]] in which weights are [[l/_lifted|lifted]]**
-- **Plastic surgery for tightening [[f/_facial|facial]] tissues and [[i/_improving|improving]] the [[f/_facial|facial]] [[a/_appearance|appearance]]**
+- **[[p/_plastic|Plastic]] surgery for tightening [[f/_facial|facial]] tissues and [[i/_improving|improving]] the [[f/_facial|facial]] [[a/_appearance|appearance]]**
 - **Theft.**
 - **A [[c/_certain|certain]] [[o/_operation|operation]] on a [[m/_measure|measure]] space; see [[l/_lifting|lifting]] theory.**
 ---

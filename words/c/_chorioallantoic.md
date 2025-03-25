@@ -1,6 +1,6 @@
 # Chorioallantoic
 ---
 #adjective
-- **Of or pertaining to the [[c/_chorioallantois|chorioallantois]]**
+- **Of or [[p/_pertaining|pertaining]] to the [[c/_chorioallantois|chorioallantois]]**
 ---
 ---

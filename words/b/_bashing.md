@@ -14,6 +14,6 @@
 - **To [[a/_abash|abash]]; to [[d/_disconcert|disconcert]] or be [[d/_disconcerted|disconcerted]] or put [[o/_out|out]] of [[c/_countenance|countenance]].**
 ---
 #noun
-- **An [[i/_instance|instance]] of [[b/_bashing|bashing]]; a physical [[a/_attack|attack]].**
+- **An [[i/_instance|instance]] of [[b/_bashing|bashing]]; a [[p/_physical|physical]] [[a/_attack|attack]].**
 ---
 ---

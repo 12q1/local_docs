@@ -7,7 +7,7 @@
 	- _Example: These fields are in cultivation._
 - **[[d/_devotion|Devotion]] of time or [[a/_attention|attention]] to the [[i/_improvement|improvement]] of (something)**
 	- _Example: His steadfast cultivation of their relationship finally bore fruit._
-- **[[a/_advancement|Advancement]] or refinement in physical, [[i/_intellectual|intellectual]], or [[m/_moral|moral]] [[c/_condition|condition]]**
+- **[[a/_advancement|Advancement]] or refinement in [[p/_physical|physical]], [[i/_intellectual|intellectual]], or [[m/_moral|moral]] [[c/_condition|condition]]**
 	- _Example: She is a woman of great cultivation._
 ---
 ### Synonyms

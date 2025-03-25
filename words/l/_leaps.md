@@ -9,7 +9,7 @@
 	- _Example: It's quite a leap to claim that those cloud formations are evidence of UFOs._
 - **A [[f/_fault|fault]].**
 - **[[c/_copulation|Copulation]] with, or [[c/_coverture|coverture]] of, a [[f/_female|female]] [[b/_beast|beast]].**
-- **A passing from [[o/_one|one]] [[n/_note|note]] to [[a/_another|another]] by an [[i/_interval|interval]], [[e/_especially|especially]] by a [[l/_long|long]] [[o/_one|one]], or by [[o/_one|one]] [[i/_including|including]] several [[o/_other|other]] [[i/_intermediate|intermediate]] [[i/_intervals|intervals]].**
+- **A [[p/_passing|passing]] from [[o/_one|one]] [[n/_note|note]] to [[a/_another|another]] by an [[i/_interval|interval]], [[e/_especially|especially]] by a [[l/_long|long]] [[o/_one|one]], or by [[o/_one|one]] [[i/_including|including]] several [[o/_other|other]] [[i/_intermediate|intermediate]] [[i/_intervals|intervals]].**
 - **A salmon [[l/_ladder|ladder]].**
 ---
 #noun

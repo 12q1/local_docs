@@ -7,7 +7,7 @@
 	- _Example: The sky is clouded._
 - **To [[m/_make|make]] [[o/_obscure|obscure]].**
 	- _Example: All this talk about human rights is clouding the real issue._
-- **To [[m/_make|make]] [[l/_less|less]] [[a/_acute|acute]] or perceptive.**
+- **To [[m/_make|make]] [[l/_less|less]] [[a/_acute|acute]] or [[p/_perceptive|perceptive]].**
 	- _Example: The tears began to well up and cloud my vision._
 - **To [[m/_make|make]] [[g/_gloomy|gloomy]] or sullen.**
 - **To [[b/_blacken|blacken]]; to sully; to stain; to tarnish (reputation or [[c/_character|character]]).**

@@ -7,6 +7,6 @@
 - **A [[g/_guidebook|guidebook]] for travellers.**
 ---
 #adjective
-- **[[i/_itinerant|Itinerant]]; travelling from place to place; [[d/_done|done]] on a [[j/_journey|journey]]**
+- **[[i/_itinerant|Itinerant]]; travelling from [[p/_place|place]] to [[p/_place|place]]; [[d/_done|done]] on a [[j/_journey|journey]]**
 ---
 ---

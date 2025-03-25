@@ -5,6 +5,6 @@
 - **A [[c/_constantly|constantly]] [[c/_changing|changing]] set of [[c/_colours|colours]], or [[o/_other|other]] things.**
 ---
 #verb
-- **To [[m/_move|move]] in shifting patterns.**
+- **To [[m/_move|move]] in shifting [[p/_patterns|patterns]].**
 ---
 ---

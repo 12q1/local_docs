@@ -1,7 +1,7 @@
 # Cook
 ---
 #noun
-- **A person who prepares [[f/_food|food]].**
+- **A [[p/_person|person]] who [[p/_prepares|prepares]] [[f/_food|food]].**
 	- _Example: I'm a terrible cook, so I eat a lot of frozen dinners._
 - **The [[h/_head|head]] [[c/_cook|cook]] of a [[m/_manor|manor]] [[h/_house|house]]**
 - **The [[d/_degree|degree]] or quality of cookedness of [[f/_food|food]]**

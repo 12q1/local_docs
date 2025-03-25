@@ -5,6 +5,6 @@
 ---
 #adjective
 - **[[i/_insolent|Insolent]], [[i/_ill|ill]]-[[m/_mannered|mannered]]**
-- **[[i/_irrelevant|Irrelevant]] ([[o/_opposite|opposite]] of pertinent)**
+- **[[i/_irrelevant|Irrelevant]] ([[o/_opposite|opposite]] of [[p/_pertinent|pertinent]])**
 ---
 ---

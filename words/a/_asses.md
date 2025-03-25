@@ -2,7 +2,7 @@
 ---
 #noun
 - **[[a/_any|Any]] of several species of [[h/_horse|horse]]-[[l/_like|like]] [[a/_animals|animals]], [[e/_especially|especially]] [[e/_equus|Equus]] asinus, the [[d/_domesticated|domesticated]] of which are used as [[b/_beasts|beasts]] of [[b/_burden|burden]].**
-- **A stupid person.**
+- **A stupid [[p/_person|person]].**
 	- _Example: That new kid left the cap off the syrup bottle again! What an ass._
 ---
 ### Synonyms
@@ -15,7 +15,7 @@
 - **Used in similes to [[e/_express|express]] something [[b/_bad|bad]] or unpleasant.**
 - **Used [[a/_after|after]] an [[a/_adjective|adjective]] to [[i/_indicate|indicate]] [[e/_extremes|extremes]] or [[e/_excessiveness|excessiveness]].**
 	- _Example: That was one big-ass fish!_
-- **([[m/_metonymy|metonymy]]) [[o/_one|One]]'s self or person, [[c/_chiefly|chiefly]] their [[b/_body|body]].**
+- **([[m/_metonymy|metonymy]]) [[o/_one|One]]'s self or [[p/_person|person]], [[c/_chiefly|chiefly]] their [[b/_body|body]].**
 	- _Example: Get your lazy ass out of bed!_
 ---
 ### Synonyms

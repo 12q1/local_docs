@@ -6,6 +6,6 @@
 ---
 #adjective
 - **Of, or relating to [[n/_narcotics|narcotics]].**
-- **(pharmaceutical [[e/_effect|effect]]) [[i/_inducing|Inducing]] sleep; [[c/_causing|causing]] [[n/_narcosis|narcosis]].**
+- **([[p/_pharmaceutical|pharmaceutical]] [[e/_effect|effect]]) [[i/_inducing|Inducing]] sleep; [[c/_causing|causing]] [[n/_narcosis|narcosis]].**
 ---
 ---

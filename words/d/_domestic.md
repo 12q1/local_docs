@@ -9,7 +9,7 @@
 - **Of or relating to the [[h/_home|home]].**
 - **Of or relating to [[a/_activities|activities]] [[n/_normally|normally]] [[a/_associated|associated]] with the [[h/_home|home]], wherever they [[a/_actually|actually]] [[o/_occur|occur]].**
 	- _Example: domestic violence;  domestic hot water_
-- **(of an [[a/_animal|animal]]) [[k/_kept|Kept]] by someone, for [[e/_example|example]] as a [[f/_farm|farm]] [[a/_animal|animal]] or a pet.**
+- **(of an [[a/_animal|animal]]) [[k/_kept|Kept]] by someone, for [[e/_example|example]] as a [[f/_farm|farm]] [[a/_animal|animal]] or a [[p/_pet|pet]].**
 - **[[i/_internal|Internal]] to a specific [[c/_country|country]].**
 - **Tending to stay at [[h/_home|home]]; not [[o/_outgoing|outgoing]].**
 ---

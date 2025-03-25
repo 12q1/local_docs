@@ -9,15 +9,15 @@
 ### Synonyms
 - [[L/_Luna|Luna]]
 #noun
-- **(by [[e/_extension|extension]] of [[m/_moon|Moon]]) [[a/_any|Any]] [[n/_natural|natural]] satellite of a planet.**
+- **(by [[e/_extension|extension]] of [[m/_moon|Moon]]) [[a/_any|Any]] [[n/_natural|natural]] satellite of a [[p/_planet|planet]].**
 	- _Example: That's no moon, you idiot... it's a space station!_
-- **A [[m/_month|month]], particularly a [[l/_lunar|lunar]] [[m/_month|month]].**
+- **A [[m/_month|month]], [[p/_particularly|particularly]] a [[l/_lunar|lunar]] [[m/_month|month]].**
 	- _Example: They stayed with their aunt and uncle for many moons._
 - **A [[c/_crescent|crescent]]-[[l/_like|like]] [[o/_outwork|outwork]] in a [[f/_fortification|fortification]].**
 	- _Example: The moons surrounding the city walls were built in the sixteenth century._
 - **The [[e/_eighteenth|eighteenth]] trump/[[m/_major|major]] [[a/_arcana|arcana]] [[c/_card|card]] of the Tarot.**
 - **The thirty-second Lenormand [[c/_card|card]].**
-- **In [[h/_hearts|hearts]], the [[a/_action|action]] of taking [[a/_all|all]] the point [[c/_cards|cards]] in [[o/_one|one]] [[h/_hand|hand]].**
+- **In [[h/_hearts|hearts]], the [[a/_action|action]] of taking [[a/_all|all]] the [[p/_point|point]] [[c/_cards|cards]] in [[o/_one|one]] [[h/_hand|hand]].**
 ---
 ### Synonyms
 - [[M/_Moon|Moon]], [[m/_month|month]], [[s/_satellite|satellite]]

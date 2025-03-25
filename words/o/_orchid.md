@@ -1,7 +1,7 @@
 # Orchid
 ---
 #noun
-- **A plant of the [[o/_orchid|orchid]] [[f/_family|family]] ([[o/_orchidaceae|Orchidaceae]]), [[b/_bearing|bearing]] unusually-shaped [[f/_flowers|flowers]] of [[b/_beautiful|beautiful]] [[c/_colours|colours]].**
+- **A [[p/_plant|plant]] of the [[o/_orchid|orchid]] [[f/_family|family]] ([[o/_orchidaceae|Orchidaceae]]), [[b/_bearing|bearing]] unusually-shaped [[f/_flowers|flowers]] of [[b/_beautiful|beautiful]] [[c/_colours|colours]].**
 - **A [[l/_light|light]] [[b/_bluish|bluish]]-red, violet-red or purple [[c/_colour|colour]].**
 ---
 #adjective

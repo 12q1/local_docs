@@ -1,6 +1,6 @@
 # Macaw
 ---
 #noun
-- **[[a/_any|Any]] of various parrots of the [[g/_genera|genera]] [[a/_ara|Ara]], Anodorhynchus, Cyanopsitta, Orthopsittaca, Primolius and Diopsittaca of [[c/_central|Central]] and South [[a/_america|America]], [[i/_including|including]] the [[l/_largest|largest]] parrots and [[c/_characterized|characterized]] by [[l/_long|long]] sabre-shaped tails, [[c/_curved|curved]] powerful [[b/_bills|bills]], and usually [[b/_brilliant|brilliant]] plumage.**
+- **[[a/_any|Any]] of various [[p/_parrots|parrots]] of the [[g/_genera|genera]] [[a/_ara|Ara]], Anodorhynchus, Cyanopsitta, Orthopsittaca, Primolius and Diopsittaca of [[c/_central|Central]] and South [[a/_america|America]], [[i/_including|including]] the [[l/_largest|largest]] [[p/_parrots|parrots]] and [[c/_characterized|characterized]] by [[l/_long|long]] sabre-shaped tails, [[c/_curved|curved]] [[p/_powerful|powerful]] [[b/_bills|bills]], and usually [[b/_brilliant|brilliant]] [[p/_plumage|plumage]].**
 ---
 ---

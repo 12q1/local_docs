@@ -15,7 +15,7 @@
 ### Antonyms
 - [[n/_nay|nay]], [[n/_no|no]]
 #conjunction
-- **Or [[e/_even|even]], or [[m/_more|more]] [[l/_like|like]], [[n/_nay|nay]]. [[i/_introduces|Introduces]] a stronger and [[m/_more|more]] [[a/_appropriate|appropriate]] [[e/_expression|expression]] than the preceding [[o/_one|one]].**
+- **Or [[e/_even|even]], or [[m/_more|more]] [[l/_like|like]], [[n/_nay|nay]]. [[i/_introduces|Introduces]] a stronger and [[m/_more|more]] [[a/_appropriate|appropriate]] [[e/_expression|expression]] than the [[p/_preceding|preceding]] [[o/_one|one]].**
 ---
 #interjection
 - **(in some [[d/_dialects|dialects]] of [[a/_american|American]] [[e/_english|English]], [[i/_including|including]] Southern, Western, and [[a/_african|African]] [[a/_american|American]] Vernacular) [[y/_yeah|Yeah]], right, [[y/_yes|yes]].**

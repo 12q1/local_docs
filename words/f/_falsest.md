@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Untrue, not [[f/_factual|factual]], [[f/_factually|factually]] [[i/_incorrect|incorrect]].**
-- **[[b/_based|Based]] on [[f/_factually|factually]] [[i/_incorrect|incorrect]] premises.**
+- **[[b/_based|Based]] on [[f/_factually|factually]] [[i/_incorrect|incorrect]] [[p/_premises|premises]].**
 	- _Example: false legislation, false punishment_
 - **Spurious, [[a/_artificial|artificial]].**
 	- _Example: false teeth_
@@ -13,7 +13,7 @@
 	- _Example: a false friend, lover, or subject;  false to promises_
 - **Not well [[f/_founded|founded]]; not [[f/_firm|firm]] or trustworthy; [[e/_erroneous|erroneous]].**
 	- _Example: a false conclusion;  a false construction in grammar_
-- **Not [[e/_essential|essential]] or permanent, as parts of a structure which are temporary or supplemental.**
+- **Not [[e/_essential|essential]] or [[p/_permanent|permanent]], as [[p/_parts|parts]] of a structure which are temporary or supplemental.**
 - **Used in the vernacular [[n/_name|name]] of a species (or [[g/_group|group]] of species) together with the [[n/_name|name]] of [[a/_another|another]] species to which it is similar in [[a/_appearance|appearance]].**
 	- _Example: false killer whale (a dolphin)_
 - **[[o/_out|Out]] of tune.**

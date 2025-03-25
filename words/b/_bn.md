@@ -9,6 +9,6 @@
 ### Synonyms
 - [[t/_trillion|trillion]], [[m/_milliard|milliard]]
 #adjective
-- **Utterly [[n/_new|new]], as [[n/_new|new]] as possible.**
+- **Utterly [[n/_new|new]], as [[n/_new|new]] as [[p/_possible|possible]].**
 ---
 ---

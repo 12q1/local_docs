@@ -1,6 +1,6 @@
 # Bikeway
 ---
 #noun
-- **A [[b/_bicycle|bicycle]] [[l/_lane|lane]] or path.**
+- **A [[b/_bicycle|bicycle]] [[l/_lane|lane]] or [[p/_path|path]].**
 ---
 ---

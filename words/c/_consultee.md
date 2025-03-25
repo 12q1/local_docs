@@ -1,6 +1,6 @@
 # Consultee
 ---
 #noun
-- **A person who is [[c/_consulted|consulted]]**
+- **A [[p/_person|person]] who is [[c/_consulted|consulted]]**
 ---
 ---

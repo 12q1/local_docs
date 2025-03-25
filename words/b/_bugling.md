@@ -6,6 +6,6 @@
 ### Synonyms
 - [[t/_trumpet|trumpet]]
 #noun
-- **The [[a/_act|act]] of playing a [[b/_bugle|bugle]].**
+- **The [[a/_act|act]] of [[p/_playing|playing]] a [[b/_bugle|bugle]].**
 ---
 ---

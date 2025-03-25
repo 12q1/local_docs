@@ -5,7 +5,7 @@
 	- _Example: After the lightning came the crash of thunder._
 - **An [[a/_automobile|automobile]], [[a/_airplane|airplane]], or [[o/_other|other]] vehicle [[a/_accident|accident]].**
 	- _Example: Nobody survived the plane crash_
-- **A [[m/_malfunction|malfunction]] of [[c/_computer|computer]] software or [[h/_hardware|hardware]] which [[c/_causes|causes]] it to shut [[d/_down|down]] or [[b/_become|become]] partially or totally [[i/_inoperable|inoperable]].**
+- **A [[m/_malfunction|malfunction]] of [[c/_computer|computer]] software or [[h/_hardware|hardware]] which [[c/_causes|causes]] it to shut [[d/_down|down]] or [[b/_become|become]] [[p/_partially|partially]] or totally [[i/_inoperable|inoperable]].**
 	- _Example: My computer had a crash so I had to reboot it._
 - **A sudden [[l/_large|large]] [[d/_decline|decline]] of [[b/_business|business]] or the prices of stocks ([[e/_especially|especially]] [[o/_one|one]] that [[c/_causes|causes]] [[a/_additional|additional]] [[f/_failures|failures]]).**
 	- _Example: the stock market crash_
@@ -29,9 +29,9 @@
 	- _Example: If the system crashes again, we'll have it fixed in the computer shop._
 - **([[h/_hardware|hardware]]) To [[c/_cause|cause]] to terminate [[e/_extraordinarily|extraordinarily]].**
 	- _Example: Double-clicking this icon crashes the desktop._
-- **To [[e/_experience|experience]] a period of [[d/_depression|depression]] and/or [[l/_lethargy|lethargy]] [[a/_after|after]] a period of [[e/_euphoria|euphoria]], as [[a/_after|after]] the [[e/_euphoric|euphoric]] [[e/_effect|effect]] of a psychotropic [[d/_drug|drug]] [[h/_has|has]] [[d/_dissipated|dissipated]].**
+- **To [[e/_experience|experience]] a [[p/_period|period]] of [[d/_depression|depression]] and/or [[l/_lethargy|lethargy]] [[a/_after|after]] a [[p/_period|period]] of [[e/_euphoria|euphoria]], as [[a/_after|after]] the [[e/_euphoric|euphoric]] [[e/_effect|effect]] of a psychotropic [[d/_drug|drug]] [[h/_has|has]] [[d/_dissipated|dissipated]].**
 - **To [[h/_hit|hit]] or strike with [[f/_force|force]]**
-- **(of a patient's [[c/_condition|condition]]) To take a sudden and severe turn for the worse; to rapidly [[d/_deteriorate|deteriorate]].**
+- **(of a [[p/_patient|patient]]'s [[c/_condition|condition]]) To take a sudden and severe turn for the worse; to rapidly [[d/_deteriorate|deteriorate]].**
 - **To [[m/_make|make]] a sudden [[l/_loud|loud]] [[n/_noise|noise]].**
 	- _Example: Thunder crashed directly overhead._
 ---

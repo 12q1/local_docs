@@ -1,6 +1,6 @@
 # Articulatory
 ---
 #adjective
-- **Of or pertaining to [[a/_articulation|articulation]]; phonological.**
+- **Of or [[p/_pertaining|pertaining]] to [[a/_articulation|articulation]]; [[p/_phonological|phonological]].**
 ---
 ---

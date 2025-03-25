@@ -1,6 +1,6 @@
 # Orienteering
 ---
 #noun
-- **Racing [[a/_across|across]] unfamiliar place using a [[m/_map|map]] and [[c/_compass|compass]]**
+- **Racing [[a/_across|across]] unfamiliar [[p/_place|place]] using a [[m/_map|map]] and [[c/_compass|compass]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Lousiest
 ---
 #adjective
-- **Remarkably [[b/_bad|bad]]; of poor quality, [[d/_dirty|dirty]], or underhanded; [[m/_mean|mean]], [[c/_contemptible|contemptible]].**
+- **Remarkably [[b/_bad|bad]]; of [[p/_poor|poor]] quality, [[d/_dirty|dirty]], or underhanded; [[m/_mean|mean]], [[c/_contemptible|contemptible]].**
 	- _Example: No offense, but his cooking is lousy._
 - **[[i/_infested|Infested]] with [[l/_lice|lice]].**
 - **(usually with with) [[f/_filled|Filled]] or [[p/_packed|packed]] (with something, usually [[b/_bad|bad]]).**

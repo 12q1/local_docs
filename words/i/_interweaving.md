@@ -7,6 +7,6 @@
 ### Synonyms
 - [[i/_interlace|interlace]], [[i/_interthread|interthread]], [[i/_intertwine|intertwine]]
 #noun
-- **The [[m/_motion|motion]] or position of things that [[i/_interweave|interweave]]; an [[e/_elaborate|elaborate]] tangle.**
+- **The [[m/_motion|motion]] or [[p/_position|position]] of things that [[i/_interweave|interweave]]; an [[e/_elaborate|elaborate]] tangle.**
 ---
 ---

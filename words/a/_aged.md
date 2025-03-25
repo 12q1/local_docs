@@ -3,7 +3,7 @@
 #verb
 - **To [[c/_cause|cause]] to [[g/_grow|grow]] [[o/_old|old]]; to [[i/_impart|impart]] the [[c/_characteristics|characteristics]] of [[a/_age|age]] to.**
 	- _Example: Grief ages us._
-- **To postpone an [[a/_action|action]] that would [[e/_extinguish|extinguish]] something, as a [[d/_debt|debt]].**
+- **To [[p/_postpone|postpone]] an [[a/_action|action]] that would [[e/_extinguish|extinguish]] something, as a [[d/_debt|debt]].**
 	- _Example: Money's a little tight right now, let's age our bills for a week or so._
 - **To [[c/_categorize|categorize]] by [[a/_age|age]].**
 	- _Example: One his first assignments was to age the accounts receivable._
@@ -13,7 +13,7 @@
 ### Synonyms
 - [[m/_mature|mature]], [[e/_elden|elden]]
 #noun
-- **[[o/_old|Old]] people, [[c/_collectively|collectively]].**
+- **[[o/_old|Old]] [[p/_people|people]], [[c/_collectively|collectively]].**
 ---
 #adjective
 - **[[o/_old|Old]].**

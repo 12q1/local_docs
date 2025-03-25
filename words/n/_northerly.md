@@ -15,7 +15,7 @@
 ### Synonyms
 - [[n/_northly|northly]]
 #adverb
-- **In an [[n/_northward|northward]] [[d/_direction|direction]] or position; (towards the) [[n/_north|north]].**
+- **In an [[n/_northward|northward]] [[d/_direction|direction]] or [[p/_position|position]]; (towards the) [[n/_north|north]].**
 - **From the [[n/_north|north]].**
 ---
 ### Synonyms

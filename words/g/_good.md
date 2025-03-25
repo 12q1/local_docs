@@ -1,7 +1,7 @@
 # Good
 ---
 #adjective
-- **(of people)**
+- **(of [[p/_people|people]])**
 - **(of [[c/_capabilities|capabilities]])**
 - **(properties and qualities)**
 - **(when with and) Very, [[e/_extremely|extremely]]. See [[g/_good|good]] and.**

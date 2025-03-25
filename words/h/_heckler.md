@@ -1,7 +1,7 @@
 # Heckler
 ---
 #noun
-- **A worker who separated the [[c/_coarse|coarse]] part of [[f/_flax|flax]] or [[h/_hemp|hemp]] with a [[h/_hackle|hackle]]; a [[f/_flax|flax]]-[[d/_dresser|dresser]]**
+- **A worker who separated the [[c/_coarse|coarse]] [[p/_part|part]] of [[f/_flax|flax]] or [[h/_hemp|hemp]] with a [[h/_hackle|hackle]]; a [[f/_flax|flax]]-[[d/_dresser|dresser]]**
 ---
 #noun
 - **[[o/_one|One]] who [[h/_heckles|heckles]]; somebody who [[i/_insults|insults]], [[m/_makes|makes]] [[f/_fun|fun]] of, or teases.**

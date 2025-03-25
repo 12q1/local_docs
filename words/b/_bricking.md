@@ -10,6 +10,6 @@
 ### Antonyms
 - [[u/_unbrick|unbrick]]
 #noun
-- **The [[a/_act|act]] of pelting with [[b/_bricks|bricks]].**
+- **The [[a/_act|act]] of [[p/_pelting|pelting]] with [[b/_bricks|bricks]].**
 ---
 ---

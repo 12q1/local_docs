@@ -1,6 +1,6 @@
 # Johnson
 ---
 #noun
-- **Penis.**
+- **[[p/_penis|Penis]].**
 ---
 ---

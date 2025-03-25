@@ -1,10 +1,10 @@
 # Closed
 ---
 #verb
-- **(physical) To remove a [[g/_gap|gap]].**
+- **([[p/_physical|physical]]) To remove a [[g/_gap|gap]].**
 - **(social) To [[f/_finish|finish]], to terminate.**
 - **To [[c/_come|come]] or [[g/_gather|gather]] [[a/_around|around]]; to [[e/_enclose|enclose]]; to [[e/_encompass|encompass]]; to [[c/_confine|confine]].**
-- **To [[h/_have|have]] a vector sum of 0; that is, to [[f/_form|form]] a [[c/_closed|closed]] polygon.**
+- **To [[h/_have|have]] a vector sum of 0; that is, to [[f/_form|form]] a [[c/_closed|closed]] [[p/_polygon|polygon]].**
 ---
 ### Synonyms
 - [[n/_narrow|narrow]], [[s/_shut|shut]], [[c/_cover|cover]], [[s/_shut|shut]], [[e/_end|end]], [[f/_finish|finish]], [[t/_terminate|terminate]], [[e/_exit|exit]]
@@ -20,8 +20,8 @@
 	- _Example: The set of integers is closed under addition: \forall x,y\in\mathbb{Z}\,x+y\in\mathbb{Z}._
 - **(of a [[f/_formula|formula]]) [[l/_lacking|Lacking]] a [[f/_free|free]] variable.**
 - **(of a walk) Whose [[f/_first|first]] and [[l/_last|last]] vertices are the same, [[f/_forming|forming]] a [[c/_closed|closed]] [[l/_loop|loop]].**
-- **[[f/_formed|Formed]] by [[c/_closing|closing]] the [[m/_mouth|mouth]] and [[n/_nose|nose]] passages [[c/_completely|completely]], [[l/_like|like]] the [[c/_consonants|consonants]] /t/, /[[d/_d|d]]/ and /[[p/_p|p]]/.**
-- **[[h/_having|Having]] the sound [[c/_cut|cut]] [[o/_off|off]] sharply by a [[f/_following|following]] [[c/_consonant|consonant]], [[l/_like|like]] the /ɪ/ in pin.**
+- **[[f/_formed|Formed]] by [[c/_closing|closing]] the [[m/_mouth|mouth]] and [[n/_nose|nose]] [[p/_passages|passages]] [[c/_completely|completely]], [[l/_like|like]] the [[c/_consonants|consonants]] /t/, /[[d/_d|d]]/ and /[[p/_p|p]]/.**
+- **[[h/_having|Having]] the sound [[c/_cut|cut]] [[o/_off|off]] sharply by a [[f/_following|following]] [[c/_consonant|consonant]], [[l/_like|like]] the /ɪ/ in [[p/_pin|pin]].**
 ---
 ### Synonyms
 - [[s/_shut|shut]]

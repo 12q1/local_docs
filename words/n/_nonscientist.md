@@ -1,6 +1,6 @@
 # Nonscientist
 ---
 #noun
-- **A person who is not a scientist.**
+- **A [[p/_person|person]] who is not a scientist.**
 ---
 ---

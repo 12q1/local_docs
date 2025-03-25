@@ -1,7 +1,7 @@
 # Derail
 ---
 #noun
-- **A [[d/_device|device]] placed on railway tracks [[c/_causing|causing]] a train to [[d/_derail|derail]].**
+- **A [[d/_device|device]] [[p/_placed|placed]] on railway tracks [[c/_causing|causing]] a train to [[d/_derail|derail]].**
 	- _Example: The derail was placed deliberately so that the train would fall into the river._
 - **An [[i/_instance|instance]] of [[d/_diverting|diverting]] a [[c/_conversation|conversation]] or [[d/_debate|debate]] from [[i/_its|its]] [[o/_original|original]] topic.**
 ---

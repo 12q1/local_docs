@@ -1,6 +1,6 @@
 # Ghoster
 ---
 #noun
-- **A ghosthunter; a paranormal [[i/_investigator|investigator]].**
+- **A ghosthunter; a [[p/_paranormal|paranormal]] [[i/_investigator|investigator]].**
 ---
 ---

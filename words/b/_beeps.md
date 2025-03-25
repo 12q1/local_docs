@@ -13,7 +13,7 @@
 	- _Example: Jason beeped Sharlene after they had drunk a few beers._
 - **To produce a [[b/_beep|beep]].**
 - **To [[c/_contact|contact]] (someone via) a [[p/_pager|pager]] [[d/_device|device]].**
-- **Telephoning a person, but [[o/_only|only]] [[a/_allowing|allowing]] the phone to ring [[o/_once|once]], in [[o/_order|order]] to request a [[c/_call|call]] [[b/_back|back]].**
+- **Telephoning a [[p/_person|person]], but [[o/_only|only]] [[a/_allowing|allowing]] the [[p/_phone|phone]] to ring [[o/_once|once]], in [[o/_order|order]] to request a [[c/_call|call]] [[b/_back|back]].**
 	- _Example: Susan beeped Jessica, and then Jessica called her back, because Susan didn't have enough credit on her phone to make the call._
 ---
 ### Synonyms

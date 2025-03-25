@@ -9,7 +9,7 @@
 	- _Example: to dot a line_
 - **To [[m/_mark|mark]] or [[d/_diversify|diversify]] with small [[d/_detached|detached]] [[o/_objects|objects]].**
 	- _Example: to dot a landscape with cottages_
-- **To punch (a person).**
+- **To punch (a [[p/_person|person]]).**
 ---
 ### Synonyms
 - [[s/_stipple|stipple]]

@@ -1,7 +1,7 @@
 # Disconnection
 ---
 #noun
-- **Severance of a physical [[c/_connection|connection]].**
+- **Severance of a [[p/_physical|physical]] [[c/_connection|connection]].**
 	- _Example: The disconnection of the power cable shut down all the computers._
 - **Unexpected termination of a telephone [[c/_connection|connection]].**
 	- _Example: A sudden disconnection cut me off in mid-phrase._

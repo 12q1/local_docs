@@ -15,8 +15,8 @@
 	- _Example: to bank sand_
 - **To [[c/_cover|cover]] the [[e/_embers|embers]] of a [[f/_fire|fire]] with [[a/_ashes|ashes]] in [[o/_order|order]] to retain [[h/_heat|heat]].**
 - **To raise a [[m/_mound|mound]] or [[d/_dike|dike]] [[a/_about|about]]; to [[e/_enclose|enclose]], [[d/_defend|defend]], or [[f/_fortify|fortify]] with a [[b/_bank|bank]]; to [[e/_embank|embank]].**
-- **To pass by the [[b/_banks|banks]] of.**
-- **To provide [[a/_additional|additional]] power for a train [[a/_ascending|ascending]] a [[b/_bank|bank]] ([[i/_incline|incline]]) by [[a/_attaching|attaching]] [[a/_another|another]] [[l/_locomotive|locomotive]].**
+- **To [[p/_pass|pass]] by the [[b/_banks|banks]] of.**
+- **To provide [[a/_additional|additional]] [[p/_power|power]] for a train [[a/_ascending|ascending]] a [[b/_bank|bank]] ([[i/_incline|incline]]) by [[a/_attaching|attaching]] [[a/_another|another]] [[l/_locomotive|locomotive]].**
 ---
 #verb
 - **([[o/_order|order]] and [[a/_arrangement|arrangement]]) To [[a/_arrange|arrange]] or [[o/_order|order]] in a row.**
@@ -26,7 +26,7 @@
 - **The [[o/_occupation|occupation]] of [[m/_managing|managing]] or working in a [[b/_bank|bank]].**
 - **A [[h/_horizontal|horizontal]] turn.**
 - **A [[m/_mechanical|mechanical]] [[c/_component|component]] to prevent vibration in a timepiece, [[e/_etc|etc]].**
-- **The practice of [[a/_assisting|assisting]] a train up a steep [[i/_incline|incline]] ([[c/_called|called]] a [[b/_bank|bank]]) with [[a/_another|another]] [[l/_locomotive|locomotive]] at the rear.**
+- **The [[p/_practice|practice]] of [[a/_assisting|assisting]] a train up a steep [[i/_incline|incline]] ([[c/_called|called]] a [[b/_bank|bank]]) with [[a/_another|another]] [[l/_locomotive|locomotive]] at the rear.**
 ---
 ### Synonyms
 - [[b/_bankerage|bankerage]]

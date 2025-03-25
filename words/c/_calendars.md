@@ -5,9 +5,9 @@
 	- _Example: The three principal calendars are the Gregorian, Jewish, and Islamic calendars._
 - **A [[m/_means|means]] to [[d/_determine|determine]] the [[d/_date|date]] [[c/_consisting|consisting]] of a [[d/_document|document]] [[c/_containing|containing]] [[d/_dates|dates]] and [[o/_other|other]] temporal [[i/_information|information]].**
 	- _Example: Write his birthday on the calendar hanging on the wall._
-- **A [[l/_list|list]] of planned [[e/_events|events]].**
+- **A [[l/_list|list]] of [[p/_planned|planned]] [[e/_events|events]].**
 	- _Example: The club has a busy calendar this year._
-- **An [[o/_orderly|orderly]] [[l/_list|list]] or [[e/_enumeration|enumeration]] of persons, things, or [[e/_events|events]]; a schedule.**
+- **An [[o/_orderly|orderly]] [[l/_list|list]] or [[e/_enumeration|enumeration]] of [[p/_persons|persons]], things, or [[e/_events|events]]; a schedule.**
 	- _Example: a calendar of bills presented in a legislative assemblly;  a calendar of causes arranged for trial in court_
 - **An [[a/_appointment|appointment]] [[b/_book|book]] (US), [[a/_appointment|appointment]] [[d/_diary|diary]] (UK)**
 ---

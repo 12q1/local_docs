@@ -1,9 +1,9 @@
 # Here
 ---
 #noun
-- **([[a/_abstract|abstract]]) This place; this [[l/_location|location]].**
+- **([[a/_abstract|abstract]]) This [[p/_place|place]]; this [[l/_location|location]].**
 	- _Example: An Alzheimer patient's here may in his mind be anywhere he called home in the time he presently re-lives._
-- **([[a/_abstract|abstract]]) This time, the present situation.**
+- **([[a/_abstract|abstract]]) This time, the [[p/_present|present]] situation.**
 ---
 #adjective
 - **[[f/_filler|Filler]] [[a/_after|after]] a [[n/_noun|noun]] or [[d/_demonstrative|demonstrative]] pronoun, solely for [[e/_emphasis|emphasis]].**
@@ -12,13 +12,13 @@
 	- _Example: This here orange is too sour._
 ---
 #adverb
-- **([[l/_location|location]]) In, on, or at this place.**
+- **([[l/_location|location]]) In, on, or at this [[p/_place|place]].**
 	- _Example: Flu season is here._
-- **([[l/_location|location]]) To this place; used in place of the [[m/_more|more]] [[d/_dated|dated]] [[h/_hither|hither]].**
+- **([[l/_location|location]]) To this [[p/_place|place]]; used in [[p/_place|place]] of the [[m/_more|more]] [[d/_dated|dated]] [[h/_hither|hither]].**
 	- _Example: Please come here._
 - **([[a/_abstract|abstract]]) In this [[c/_context|context]].**
 	- _Example: Derivatives can refer to anything that is derived from something else, but here they refer specifically to functions that give the slope of the tangent line to a curve._
-- **At this point in the [[a/_argument|argument]], [[n/_narration|narration]], or [[o/_other|other]], usually written, work.**
+- **At this [[p/_point|point]] in the [[a/_argument|argument]], [[n/_narration|narration]], or [[o/_other|other]], usually written, work.**
 	- _Example: Here endeth the lesson._
 ---
 ### Synonyms

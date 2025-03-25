@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[a/_act|act]] of [[f/_frigging|frigging]].**
-- **A temporary [[m/_modification|modification]] to a piece of [[e/_equipment|equipment]] to [[c/_change|change]] the way it [[o/_operates|operates]] (usually [[a/_away|away]] from as [[o/_originally|originally]] [[d/_designed|designed]]).**
+- **A temporary [[m/_modification|modification]] to a [[p/_piece|piece]] of [[e/_equipment|equipment]] to [[c/_change|change]] the way it [[o/_operates|operates]] (usually [[a/_away|away]] from as [[o/_originally|originally]] [[d/_designed|designed]]).**
 	- _Example: I had to put a couple of frigs across the switch relays but it works now._
 - **A [[f/_fuck|fuck]].**
 	- _Example: I don’t give a frig!_

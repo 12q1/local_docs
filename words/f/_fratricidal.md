@@ -1,6 +1,6 @@
 # Fratricidal
 ---
 #adjective
-- **Of or pertaining to [[f/_fratricide|fratricide]]**
+- **Of or [[p/_pertaining|pertaining]] to [[f/_fratricide|fratricide]]**
 ---
 ---

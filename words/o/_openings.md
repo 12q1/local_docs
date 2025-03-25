@@ -8,7 +8,7 @@
 - **An [[a/_act|act]] or [[i/_instance|instance]] of [[b/_beginning|beginning]].**
 	- _Example: Their opening of the concert with Brass in Pocket always fires up the crowd._
 - **Something that is a [[b/_beginning|beginning]].**
-- **A vacant position, [[e/_especially|especially]] in an [[a/_array|array]].**
+- **A vacant [[p/_position|position]], [[e/_especially|especially]] in an [[a/_array|array]].**
 	- _Example: Are there likely to be any openings on the Supreme Court in the next four years?_
 - **An [[o/_opportunity|opportunity]], as in a [[c/_competitive|competitive]] [[a/_activity|activity]].**
 - **In [[m/_mathematical|mathematical]] [[m/_morphology|morphology]], the [[d/_dilation|dilation]] of the [[e/_erosion|erosion]] of a set.**

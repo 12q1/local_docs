@@ -13,18 +13,18 @@
 - **To steal.**
 - **To [[c/_connect|connect]] ([[h/_hook|hook]] [[i/_into|into]], [[h/_hook|hook]] together).**
 	- _Example: If you hook your network cable into the jack, you'll be on the network._
-- **(usually in passive) To [[m/_make|make]] [[a/_addicted|addicted]]; to [[c/_captivate|captivate]].**
+- **(usually in [[p/_passive|passive]]) To [[m/_make|make]] [[a/_addicted|addicted]]; to [[c/_captivate|captivate]].**
 	- _Example: He had gotten hooked on cigarettes in his youth._
-- **To play a [[h/_hook|hook]] shot.**
-- **To succeed in [[h/_heeling|heeling]] the [[b/_ball|ball]] [[b/_back|back]] [[o/_out|out]] of a scrum (used particularly of the team's [[d/_designated|designated]] [[h/_hooker|hooker]]).**
-- **To [[e/_engage|engage]] in the [[i/_illegal|illegal]] [[m/_maneuver|maneuver]] of [[h/_hooking|hooking]] ([[i/_i|i]].[[e/_e|e]]., using the [[h/_hockey|hockey]] stick to trip or [[b/_block|block]] [[a/_another|another]] player)**
+- **To [[p/_play|play]] a [[h/_hook|hook]] shot.**
+- **To succeed in [[h/_heeling|heeling]] the [[b/_ball|ball]] [[b/_back|back]] [[o/_out|out]] of a scrum (used [[p/_particularly|particularly]] of the team's [[d/_designated|designated]] [[h/_hooker|hooker]]).**
+- **To [[e/_engage|engage]] in the [[i/_illegal|illegal]] [[m/_maneuver|maneuver]] of [[h/_hooking|hooking]] ([[i/_i|i]].[[e/_e|e]]., using the [[h/_hockey|hockey]] stick to trip or [[b/_block|block]] [[a/_another|another]] [[p/_player|player]])**
 	- _Example: The opposing team's forward hooked me, but the referee didn't see it, so no penalty._
 - **To swerve a [[b/_ball|ball]]; [[k/_kick|kick]] a [[b/_ball|ball]] so it swerves or [[b/_bends|bends]].**
 - **To [[e/_engage|engage]] in prostitution.**
 	- _Example: I had a cheap flat in the bad part of town, and I could watch the working girls hooking from my bedroom window._
-- **(Scrabble) To play a word perpendicular to [[a/_another|another]] word by [[a/_adding|adding]] a single [[l/_letter|letter]] to the [[e/_existing|existing]] word.**
+- **(Scrabble) To [[p/_play|play]] a word [[p/_perpendicular|perpendicular]] to [[a/_another|another]] word by [[a/_adding|adding]] a single [[l/_letter|letter]] to the [[e/_existing|existing]] word.**
 - **To [[f/_finesse|finesse]].**
-- **To seize or pierce with the points of the [[h/_horns|horns]], as [[c/_cattle|cattle]] in [[a/_attacking|attacking]] [[e/_enemies|enemies]]; to [[g/_gore|gore]].**
+- **To seize or [[p/_pierce|pierce]] with the [[p/_points|points]] of the [[h/_horns|horns]], as [[c/_cattle|cattle]] in [[a/_attacking|attacking]] [[e/_enemies|enemies]]; to [[g/_gore|gore]].**
 - **To [[m/_move|move]] or [[g/_go|go]] with a sudden turn.**
 ---
 #adjective

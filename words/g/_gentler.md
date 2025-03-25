@@ -9,7 +9,7 @@
 	- _Example: We had a gentle swim in the lake._
 - **[[g/_gradual|Gradual]] rather than steep or sudden.**
 	- _Example: The walks in this area have a gentle incline._
-- **Polite and respectful rather than rude.**
+- **[[p/_polite|Polite]] and respectful rather than rude.**
 	- _Example: He gave me a gentle reminder that we had to hurry up._
 - **Well-[[b/_born|born]]; of a [[g/_good|good]] [[f/_family|family]] or respectable [[b/_birth|birth]], though not [[n/_noble|noble]].**
 ---

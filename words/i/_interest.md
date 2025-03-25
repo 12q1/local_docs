@@ -13,16 +13,16 @@
 	- _Example: Lexicography is one of my interests._
 - **[[c/_condition|Condition]] or quality of [[e/_exciting|exciting]] [[c/_concern|concern]] or [[b/_being|being]] of [[i/_importance|importance]]**
 - **[[i/_injury|Injury]], or [[c/_compensation|compensation]] for [[i/_injury|injury]]; [[d/_damages|damages]].**
-- **(usually in the plural) The persons [[i/_interested|interested]] in [[a/_any|any]] particular [[b/_business|business]] or [[m/_measure|measure]], taken [[c/_collectively|collectively]].**
+- **(usually in the [[p/_plural|plural]]) The [[p/_persons|persons]] [[i/_interested|interested]] in [[a/_any|any]] [[p/_particular|particular]] [[b/_business|business]] or [[m/_measure|measure]], taken [[c/_collectively|collectively]].**
 	- _Example: the iron interest;  the cotton interest_
 ---
 ### Synonyms
 - [[o/_oker|oker]]
 #verb
-- **To [[e/_engage|engage]] the [[a/_attention|attention]] of; to [[a/_awaken|awaken]] [[i/_interest|interest]] in; to [[e/_excite|excite]] [[e/_emotion|emotion]] or passion in, in [[b/_behalf|behalf]] of a person or thing.**
+- **To [[e/_engage|engage]] the [[a/_attention|attention]] of; to [[a/_awaken|awaken]] [[i/_interest|interest]] in; to [[e/_excite|excite]] [[e/_emotion|emotion]] or [[p/_passion|passion]] in, in [[b/_behalf|behalf]] of a [[p/_person|person]] or thing.**
 	- _Example: Action films don't really interest me._
 - **To be [[c/_concerned|concerned]] with or [[e/_engaged|engaged]] in; to [[a/_affect|affect]]; to [[c/_concern|concern]]; to [[e/_excite|excite]].**
-- **To [[c/_cause|cause]] or permit to share.**
+- **To [[c/_cause|cause]] or [[p/_permit|permit]] to share.**
 ---
 ### Antonyms
 - [[b/_bore|bore]], [[d/_disinterest|disinterest]]

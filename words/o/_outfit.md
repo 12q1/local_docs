@@ -4,7 +4,7 @@
 - **A set of [[c/_clothing|clothing]] (with [[a/_accessories|accessories]]).**
 	- _Example: She wore a fashionable outfit with matching purse and shoes._
 - **[[g/_gear|Gear]] [[c/_consisting|consisting]] of a set of [[a/_articles|articles]] or tools for a specified purpose.**
-- **[[a/_any|Any]] [[c/_cohesive|cohesive]] [[g/_group|group]] of people; a unit; such as a [[m/_military|military]] [[c/_company|company]].**
+- **[[a/_any|Any]] [[c/_cohesive|cohesive]] [[g/_group|group]] of [[p/_people|people]]; a unit; such as a [[m/_military|military]] [[c/_company|company]].**
 - **A [[b/_business|business]] or [[f/_firm|firm]].**
 	- _Example: Should we buy it here, or do you think the outfit across town will have a better deal?_
 - **A sports team.**

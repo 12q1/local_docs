@@ -1,7 +1,7 @@
 # Buckras
 ---
 #noun
-- **A white person.**
-- **A poor white person.**
+- **A white [[p/_person|person]].**
+- **A [[p/_poor|poor]] white [[p/_person|person]].**
 ---
 ---

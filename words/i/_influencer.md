@@ -1,6 +1,6 @@
 # Influencer
 ---
 #noun
-- **A person who or a thing which [[i/_influences|influences]].**
+- **A [[p/_person|person]] who or a thing which [[i/_influences|influences]].**
 ---
 ---

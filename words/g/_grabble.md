@@ -8,7 +8,7 @@
 - **To search with [[o/_one|one]]'s [[h/_hands|hands]] and [[f/_fingers|fingers]]; to [[a/_attempt|attempt]] to [[g/_grasp|grasp]] something.**
 - **To search in a similar way using an [[i/_implement|implement]].**
 - **To touch (someone) with [[o/_one|one]]'s [[h/_hands|hands]] or [[f/_fingers|fingers]], sometimes in a sexual way.**
-- **To pick (something or someone) up [[h/_hastily|hastily]], roughly or [[c/_clumsily|clumsily]].**
+- **To [[p/_pick|pick]] (something or someone) up [[h/_hastily|hastily]], roughly or [[c/_clumsily|clumsily]].**
 - **To [[a/_attempt|attempt]] to [[g/_grab|grab]]; to [[g/_grasp|grasp]] at (something).**
 - **To pull, [[l/_lift|lift]] or [[d/_dig|dig]] (something) ([[o/_out|out]] of the [[g/_ground|ground]]) by searching with [[o/_one|one]]'s [[h/_hands|hands]] and [[f/_fingers|fingers]].**
 - **To [[l/_lift|lift]] (something) [[o/_out|out]] in a similar way using an [[i/_implement|implement]].**

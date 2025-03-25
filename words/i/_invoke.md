@@ -1,8 +1,8 @@
 # Invoke
 ---
 #verb
-- **To [[c/_call|call]] upon (a person, a [[g/_god|god]]) for [[h/_help|help]], [[a/_assistance|assistance]] or [[g/_guidance|guidance]].**
-- **To solicit, petition for, [[a/_appeal|appeal]] to a [[f/_favorable|favorable]] [[a/_attitude|attitude]].**
+- **To [[c/_call|call]] upon (a [[p/_person|person]], a [[g/_god|god]]) for [[h/_help|help]], [[a/_assistance|assistance]] or [[g/_guidance|guidance]].**
+- **To solicit, [[p/_petition|petition]] for, [[a/_appeal|appeal]] to a [[f/_favorable|favorable]] [[a/_attitude|attitude]].**
 	- _Example: The envoy invoked the King of Kings's magnanimity to reduce his province's tribute after another drought._
 - **To [[c/_call|call]] to [[m/_mind|mind]] (something) for some purpose.**
 - **To [[a/_appeal|appeal]] for validation to a ([[n/_notably|notably]] [[c/_cited|cited]]) [[a/_authority|authority]].**

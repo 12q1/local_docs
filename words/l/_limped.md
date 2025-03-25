@@ -6,7 +6,7 @@
 	- _Example: The bomber limped home on one engine._
 - **To [[m/_move|move]] or proceed [[i/_irregularly|irregularly]].**
 	- _Example: The business limped through the recession_
-- **To [[c/_call|call]], particularly in an unraised pot pre-[[f/_flop|flop]].**
+- **To [[c/_call|call]], [[p/_particularly|particularly]] in an unraised [[p/_pot|pot]] [[p/_pre|pre]]-[[f/_flop|flop]].**
 ---
 #verb
 - **To be [[i/_inadequate|inadequate]] or unsatisfactory.**

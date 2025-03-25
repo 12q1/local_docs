@@ -5,8 +5,8 @@
 	- _Example: the bore of a cannon_
 - **The tunnel [[i/_inside|inside]] of a [[g/_gun|gun]]'s [[b/_barrel|barrel]] through which the [[b/_bullet|bullet]] travels when [[f/_fired|fired]], or (by [[e/_extension|extension]]) [[i/_its|its]] [[d/_diameter|diameter]].**
 - **A tool, such as an [[a/_auger|auger]], for [[m/_making|making]] a [[h/_hole|hole]] by [[b/_boring|boring]].**
-- **A [[c/_capped|capped]] well [[d/_drilled|drilled]] to tap [[a/_artesian|artesian]] water. The place where the well [[e/_exists|exists]].**
-- **[[o/_one|One]] who [[i/_inspires|inspires]] [[b/_boredom|boredom]] or [[l/_lack|lack]] of [[i/_interest|interest]]; an uninteresting person.**
+- **A [[c/_capped|capped]] well [[d/_drilled|drilled]] to tap [[a/_artesian|artesian]] water. The [[p/_place|place]] where the well [[e/_exists|exists]].**
+- **[[o/_one|One]] who [[i/_inspires|inspires]] [[b/_boredom|boredom]] or [[l/_lack|lack]] of [[i/_interest|interest]]; an uninteresting [[p/_person|person]].**
 - **Something [[d/_dull|dull]] or uninteresting**
 - **[[c/_calibre|Calibre]]; [[i/_importance|importance]].**
 ---
@@ -17,9 +17,9 @@
 	- _Example: An insect bores into a tree._
 - **To [[f/_form|form]] or [[e/_enlarge|enlarge]] (something) by [[m/_means|means]] of a [[b/_boring|boring]] [[i/_instrument|instrument]] or [[a/_apparatus|apparatus]].**
 	- _Example: to bore a steam cylinder or a gun barrel; to bore a hole_
-- **To [[m/_make|make]] (a passage) by [[l/_laborious|laborious]] [[e/_effort|effort]], as in [[b/_boring|boring]]; to [[f/_force|force]] a [[n/_narrow|narrow]] and [[d/_difficult|difficult]] passage through.**
+- **To [[m/_make|make]] (a [[p/_passage|passage]]) by [[l/_laborious|laborious]] [[e/_effort|effort]], as in [[b/_boring|boring]]; to [[f/_force|force]] a [[n/_narrow|narrow]] and [[d/_difficult|difficult]] [[p/_passage|passage]] through.**
 	- _Example: to bore one's way through a crowd_
-- **To be pierced or penetrated by an [[i/_instrument|instrument]] that [[c/_cuts|cuts]] as it turns.**
+- **To be [[p/_pierced|pierced]] or [[p/_penetrated|penetrated]] by an [[i/_instrument|instrument]] that [[c/_cuts|cuts]] as it turns.**
 	- _Example: This timber does not bore well._
 - **To push [[f/_forward|forward]] in a [[c/_certain|certain]] [[d/_direction|direction]] with [[l/_laborious|laborious]] [[e/_effort|effort]].**
 - **(of a [[h/_horse|horse]]) To shoot [[o/_out|out]] the [[n/_nose|nose]] or toss it in the [[a/_air|air]].**

@@ -8,7 +8,7 @@
 	- _Example: Phillip purchased a bag of licorice chews at the drugstore._
 - **[[c/_chewing|Chewing]] tobacco.**
 	- _Example: The school had banned chew and smokes from the school grounds, even for adults._
-- **A plug or wad of [[c/_chewing|chewing]] tobacco; [[c/_chaw|chaw]] or a [[c/_chaw|chaw]].**
+- **A [[p/_plug|plug]] or wad of [[c/_chewing|chewing]] tobacco; [[c/_chaw|chaw]] or a [[c/_chaw|chaw]].**
 	- _Example: The ballplayers sat on the bench watching the rain, glumly working their chews._
 - **The [[c/_condition|condition]] of something [[b/_being|being]] torn or [[g/_ground|ground]] up [[m/_mechanically|mechanically]].**
 ---
@@ -17,7 +17,7 @@
 	- _Example: Make sure to chew thoroughly, and don't talk with your mouth full!_
 - **To [[g/_grind|grind]], tear, or [[o/_otherwise|otherwise]] [[d/_degrade|degrade]] or [[d/_demolish|demolish]] something with teeth or as with teeth.**
 	- _Example: He keeps his feed in steel drums to prevent the mice from chewing holes in the feed-sacks._
-- **To think [[a/_about|about]] something; to ponder; to [[c/_chew|chew]] [[o/_over|over]].**
+- **To think [[a/_about|about]] something; to [[p/_ponder|ponder]]; to [[c/_chew|chew]] [[o/_over|over]].**
 	- _Example: The professor stood at the blackboard, chalk in hand, and chewed the question the student had asked._
 ---
 ### Synonyms

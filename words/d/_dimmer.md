@@ -7,7 +7,7 @@
 	- _Example: He may be a bit dim, but he's not stupid._
 - **[[i/_indistinct|Indistinct]], [[h/_hazy|hazy]] or unclear.**
 	- _Example: His vision grew dimmer as he aged._
-- **[[d/_disapproving|Disapproving]], unfavorable: rarely used [[o/_outside|outside]] the phrase take a [[d/_dim|dim]] view of.**
+- **[[d/_disapproving|Disapproving]], unfavorable: rarely used [[o/_outside|outside]] the [[p/_phrase|phrase]] take a [[d/_dim|dim]] view of.**
 ---
 #adjective
 - **[[l/_lessened|Lessened]], reduced**

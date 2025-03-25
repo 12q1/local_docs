@@ -8,34 +8,34 @@
 - **([[n/_non|non]]-technical) [[e/_especially|Especially]], [[a/_any|any]] of the [[i/_insects|insects]] of the [[f/_family|family]] [[m/_muscidae|Muscidae]], such as the [[c/_common|common]] [[h/_housefly|housefly]] ([[o/_other|other]] [[f/_families|families]] of [[d/_diptera|Diptera]] [[i/_include|include]] [[m/_mosquitoes|mosquitoes]] and [[m/_midges|midges]]).**
 - **[[a/_any|Any]] similar, but unrelated [[i/_insect|insect]] such as [[d/_dragonfly|dragonfly]] or [[b/_butterfly|butterfly]].**
 - **A [[l/_lightweight|lightweight]] [[f/_fishing|fishing]] [[l/_lure|lure]] resembling an [[i/_insect|insect]].**
-- **A [[c/_chest|chest]] [[e/_exercise|exercise]] performed by [[m/_moving|moving]] [[e/_extended|extended]] [[a/_arms|arms]] from the sides to in [[f/_front|front]] of the [[c/_chest|chest]]. ([[a/_also|also]] flye)**
+- **A [[c/_chest|chest]] [[e/_exercise|exercise]] [[p/_performed|performed]] by [[m/_moving|moving]] [[e/_extended|extended]] [[a/_arms|arms]] from the sides to in [[f/_front|front]] of the [[c/_chest|chest]]. ([[a/_also|also]] flye)**
 - **A witch's [[f/_familiar|familiar]].**
-- **A parasite.**
-- **The [[b/_butterfly|butterfly]] stroke (plural is [[n/_normally|normally]] flys)**
-- **(preceded by [[d/_definite|definite]] [[a/_article|article]]) A simple [[d/_dance|dance]] in which the [[h/_hands|hands]] are shaken in the [[a/_air|air]], popular in the 1960s.**
+- **A [[p/_parasite|parasite]].**
+- **The [[b/_butterfly|butterfly]] stroke ([[p/_plural|plural]] is [[n/_normally|normally]] flys)**
+- **([[p/_preceded|preceded]] by [[d/_definite|definite]] [[a/_article|article]]) A simple [[d/_dance|dance]] in which the [[h/_hands|hands]] are shaken in the [[a/_air|air]], [[p/_popular|popular]] in the 1960s.**
 ---
 #noun
 - **The [[a/_action|action]] of [[f/_flying|flying]]; [[f/_flight|flight]].**
 - **An [[a/_act|act]] of [[f/_flying|flying]].**
 	- _Example: There was a good wind, so I decided to give the kite a fly._
 - **A [[f/_fly|fly]] [[b/_ball|ball]].**
-- **A type of small, [[f/_fast|fast]] [[c/_carriage|carriage]] (sometimes pluralised flys).**
-- **A piece of [[c/_canvas|canvas]] that [[c/_covers|covers]] the [[o/_opening|opening]] at the [[f/_front|front]] of a tent.**
-- **([[o/_often|often]] plural) A strip of [[m/_material|material]] (sometimes [[h/_hiding|hiding]] zippers or [[b/_buttons|buttons]]) at the [[f/_front|front]] of a [[p/_pair|pair]] of trousers, pants, underpants, [[b/_bootees|bootees]], [[e/_etc|etc]].**
+- **A type of small, [[f/_fast|fast]] [[c/_carriage|carriage]] (sometimes [[p/_pluralised|pluralised]] flys).**
+- **A [[p/_piece|piece]] of [[c/_canvas|canvas]] that [[c/_covers|covers]] the [[o/_opening|opening]] at the [[f/_front|front]] of a tent.**
+- **([[o/_often|often]] [[p/_plural|plural]]) A strip of [[m/_material|material]] (sometimes [[h/_hiding|hiding]] zippers or [[b/_buttons|buttons]]) at the [[f/_front|front]] of a [[p/_pair|pair]] of trousers, [[p/_pants|pants]], underpants, [[b/_bootees|bootees]], [[e/_etc|etc]].**
 	- _Example: Ha-ha! Your flies are undone!_
 - **The [[f/_free|free]] [[e/_edge|edge]] of a [[f/_flag|flag]].**
 - **The [[h/_horizontal|horizontal]] [[l/_length|length]] of a [[f/_flag|flag]].**
-- **An [[e/_exercise|exercise]] that [[i/_involves|involves]] wide [[o/_opening|opening]] and [[c/_closing|closing]] of the [[a/_arms|arms]] perpendicular to the shoulders.**
-- **The part of a vane pointing the [[d/_direction|direction]] from which the wind [[b/_blows|blows]].**
-- **That part of a [[c/_compass|compass]] on which the points are [[m/_marked|marked]]; the [[c/_compass|compass]] [[c/_card|card]].**
-- **Two or [[m/_more|more]] vanes set on a revolving [[a/_axis|axis]], to [[a/_act|act]] as a [[f/_fanner|fanner]], or to [[e/_equalize|equalize]] or [[i/_impede|impede]] the [[m/_motion|motion]] of [[m/_machinery|machinery]] by the resistance of the [[a/_air|air]], as in the striking part of a [[c/_clock|clock]].**
-- **A [[h/_heavy|heavy]] wheel, or [[c/_cross|cross]] [[a/_arms|arms]] with weights at the [[e/_ends|ends]] on a revolving [[a/_axis|axis]], to regulate or [[e/_equalize|equalize]] the [[m/_motion|motion]] of [[m/_machinery|machinery]] by [[m/_means|means]] of [[i/_its|its]] [[i/_inertia|inertia]], where the power [[c/_communicated|communicated]], or the resistance to be [[o/_overcome|overcome]], is variable, as in the steam [[e/_engine|engine]] or the [[c/_coining|coining]] press. See [[f/_flywheel|flywheel]].**
+- **An [[e/_exercise|exercise]] that [[i/_involves|involves]] wide [[o/_opening|opening]] and [[c/_closing|closing]] of the [[a/_arms|arms]] [[p/_perpendicular|perpendicular]] to the shoulders.**
+- **The [[p/_part|part]] of a vane [[p/_pointing|pointing]] the [[d/_direction|direction]] from which the wind [[b/_blows|blows]].**
+- **That [[p/_part|part]] of a [[c/_compass|compass]] on which the [[p/_points|points]] are [[m/_marked|marked]]; the [[c/_compass|compass]] [[c/_card|card]].**
+- **Two or [[m/_more|more]] vanes set on a revolving [[a/_axis|axis]], to [[a/_act|act]] as a [[f/_fanner|fanner]], or to [[e/_equalize|equalize]] or [[i/_impede|impede]] the [[m/_motion|motion]] of [[m/_machinery|machinery]] by the resistance of the [[a/_air|air]], as in the striking [[p/_part|part]] of a [[c/_clock|clock]].**
+- **A [[h/_heavy|heavy]] wheel, or [[c/_cross|cross]] [[a/_arms|arms]] with weights at the [[e/_ends|ends]] on a revolving [[a/_axis|axis]], to regulate or [[e/_equalize|equalize]] the [[m/_motion|motion]] of [[m/_machinery|machinery]] by [[m/_means|means]] of [[i/_its|its]] [[i/_inertia|inertia]], where the [[p/_power|power]] [[c/_communicated|communicated]], or the resistance to be [[o/_overcome|overcome]], is variable, as in the steam [[e/_engine|engine]] or the [[c/_coining|coining]] [[p/_press|press]]. See [[f/_flywheel|flywheel]].**
 - **A [[l/_light|light]] [[h/_horse|horse]]-[[d/_drawn|drawn]] [[c/_carriage|carriage]] that [[c/_can|can]] be [[h/_hired|hired]] for transportation.**
-- **In a [[k/_knitting|knitting]] [[m/_machine|machine]], the piece [[h/_hinged|hinged]] to the [[n/_needle|needle]], which [[h/_holds|holds]] the [[e/_engaged|engaged]] [[l/_loop|loop]] in position while the [[n/_needle|needle]] is penetrating [[a/_another|another]] [[l/_loop|loop]]; a [[l/_latch|latch]].**
+- **In a [[k/_knitting|knitting]] [[m/_machine|machine]], the [[p/_piece|piece]] [[h/_hinged|hinged]] to the [[n/_needle|needle]], which [[h/_holds|holds]] the [[e/_engaged|engaged]] [[l/_loop|loop]] in [[p/_position|position]] while the [[n/_needle|needle]] is [[p/_penetrating|penetrating]] [[a/_another|another]] [[l/_loop|loop]]; a [[l/_latch|latch]].**
 - **The [[p/_pair|pair]] of [[a/_arms|arms]] revolving [[a/_around|around]] the [[b/_bobbin|bobbin]], in a spinning wheel or spinning [[f/_frame|frame]], to twist the [[y/_yarn|yarn]].**
 - **A shuttle [[d/_driven|driven]] through the shed by a [[b/_blow|blow]] or [[j/_jerk|jerk]].**
-- **The person who took the printed sheets from the press.**
-- **A vibrating [[f/_frame|frame]] with [[f/_fingers|fingers]], [[a/_attached|attached]] to a power printing press for [[d/_doing|doing]] the same work.**
+- **The [[p/_person|person]] who took the printed sheets from the [[p/_press|press]].**
+- **A vibrating [[f/_frame|frame]] with [[f/_fingers|fingers]], [[a/_attached|attached]] to a [[p/_power|power]] printing [[p/_press|press]] for [[d/_doing|doing]] the same work.**
 - **[[o/_one|One]] of the upper screens of a stage in a theatre.**
 - **([[c/_cotton|cotton]] [[m/_manufacture|manufacture]]) waste [[c/_cotton|cotton]]**
 ---

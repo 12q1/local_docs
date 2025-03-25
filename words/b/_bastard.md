@@ -1,13 +1,13 @@
 # Bastard
 ---
 #noun
-- **A person who was [[b/_born|born]] [[o/_out|out]] of wedlock, and [[h/_hence|hence]] [[o/_often|often]] [[c/_considered|considered]] an [[i/_illegitimate|illegitimate]] [[d/_descendant|descendant]].**
+- **A [[p/_person|person]] who was [[b/_born|born]] [[o/_out|out]] of wedlock, and [[h/_hence|hence]] [[o/_often|often]] [[c/_considered|considered]] an [[i/_illegitimate|illegitimate]] [[d/_descendant|descendant]].**
 - **A [[m/_mongrel|mongrel]] ([[b/_biological|biological]] [[c/_cross|cross]] [[b/_between|between]] [[d/_different|different]] [[b/_breeds|breeds]], [[g/_groups|groups]] or varieties).**
-- **(typically referring to a [[m/_man|man]]) A [[c/_contemptible|contemptible]], [[i/_inconsiderate|inconsiderate]], [[o/_overly|overly]] or [[a/_arrogantly|arrogantly]] rude or spiteful person.**
+- **(typically referring to a [[m/_man|man]]) A [[c/_contemptible|contemptible]], [[i/_inconsiderate|inconsiderate]], [[o/_overly|overly]] or [[a/_arrogantly|arrogantly]] rude or spiteful [[p/_person|person]].**
 	- _Example: Some bastard stole my car while I was helping an injured person._
 - **A [[m/_man|man]], a [[f/_fellow|fellow]], a [[m/_male|male]] [[f/_friend|friend]].**
 	- _Example: Get over here, you old bastard!_
-- **([[o/_often|often]] preceded by 'poor') A person [[d/_deserving|deserving]] of pity.**
+- **([[o/_often|often]] [[p/_preceded|preceded]] by '[[p/_poor|poor]]') A [[p/_person|person]] [[d/_deserving|deserving]] of [[p/_pity|pity]].**
 	- _Example: Poor bastard, I feel so sorry for him._
 - **A [[c/_child|child]] who [[d/_does|does]] not [[k/_know|know]] [[h/_his|his]] or [[h/_her|her]] [[f/_father|father]].**
 - **Something [[e/_extremely|extremely]] [[d/_difficult|difficult]] or unpleasant to [[d/_deal|deal]] with.**
@@ -19,7 +19,7 @@
 - **A sword that is [[m/_midway|midway]] in [[l/_length|length]] [[b/_between|between]] a short-sword and a [[l/_long|long]] sword; [[a/_also|also]] [[b/_bastard|bastard]] sword.**
 - **An [[i/_inferior|inferior]] quality of soft [[b/_brown|brown]] sugar, [[o/_obtained|obtained]] from syrups that [[h/_have|have]] [[b/_been|been]] [[b/_boiled|boiled]] several times.**
 - **A [[l/_large|large]] [[m/_mould|mould]] for straining sugar.**
-- **A writing paper of a particular size.**
+- **A writing [[p/_paper|paper]] of a [[p/_particular|particular]] size.**
 - **A Eurosceptic [[c/_conservative|Conservative]] [[m/_mp|MP]], [[e/_especially|especially]] in the [[g/_government|government]] of [[j/_john|John]] [[m/_major|Major]].**
 ---
 ### Synonyms
@@ -31,7 +31,7 @@
 ---
 #adjective
 - **Of or [[l/_like|like]] a [[b/_bastard|bastard]] ([[i/_illegitimate|illegitimate]] [[h/_human|human]] [[d/_descendant|descendant]]).**
-- **Of or [[l/_like|like]] a [[b/_bastard|bastard]] ([[b/_bad|bad]] person).**
+- **Of or [[l/_like|like]] a [[b/_bastard|bastard]] ([[b/_bad|bad]] [[p/_person|person]]).**
 - **Of or [[l/_like|like]] a [[m/_mongrel|mongrel]], [[b/_bastardized|bastardized]] [[c/_creature|creature]]/[[c/_cross|cross]].**
 - **Of [[a/_abnormal|abnormal]], [[i/_irregular|irregular]] or [[o/_otherwise|otherwise]] [[i/_inferior|inferior]] qualities (size, shape [[e/_etc|etc]]).**
 	- _Example: a bastard culverin_
@@ -40,8 +40,8 @@
 	- _Example: bastard gemsbok_
 - **Very unpleasant.**
 	- _Example: I've got a bastard headache._
-- **[[a/_abbreviated|Abbreviated]], as the [[h/_half|half]] title in a [[p/_page|page]] preceding the [[f/_full|full]] title [[p/_page|page]] of a [[b/_book|book]].**
-- **(theater [[l/_lighting|lighting]]) [[c/_consisting|Consisting]] of [[o/_one|one]] predominant [[c/_color|color]] [[b/_blended|blended]] with small [[a/_amounts|amounts]] of [[c/_complementary|complementary]] [[c/_color|color]]; used to replicate [[n/_natural|natural]] [[l/_light|light]] [[b/_because|because]] of their warmer [[a/_appearance|appearance]].**
+- **[[a/_abbreviated|Abbreviated]], as the [[h/_half|half]] title in a [[p/_page|page]] [[p/_preceding|preceding]] the [[f/_full|full]] title [[p/_page|page]] of a [[b/_book|book]].**
+- **(theater [[l/_lighting|lighting]]) [[c/_consisting|Consisting]] of [[o/_one|one]] [[p/_predominant|predominant]] [[c/_color|color]] [[b/_blended|blended]] with small [[a/_amounts|amounts]] of [[c/_complementary|complementary]] [[c/_color|color]]; used to replicate [[n/_natural|natural]] [[l/_light|light]] [[b/_because|because]] of their warmer [[a/_appearance|appearance]].**
 	- _Example: A bastard orange gel produces predominantly orange light with undertones of blue._
 ---
 #interjection

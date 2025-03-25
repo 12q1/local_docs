@@ -5,7 +5,7 @@
 	- _Example: The loser in the staring game is the person who blinks first._
 - **To [[f/_flash|flash]] on and [[o/_off|off]] at regular [[i/_intervals|intervals]].**
 	- _Example: The blinking text on the screen was distracting._
-- **To perform the smallest [[a/_action|action]] that [[c/_could|could]] solicit a response.**
+- **To [[p/_perform|perform]] the smallest [[a/_action|action]] that [[c/_could|could]] solicit a response.**
 - **To shut [[o/_out|out]] of sight; to [[e/_evade|evade]]; to shirk.**
 	- _Example: to blink the question_
 - **To trick; to [[d/_deceive|deceive]].**

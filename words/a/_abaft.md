@@ -6,6 +6,6 @@
 - **[[b/_backwards|Backwards]].**
 ---
 #preposition
-- **[[b/_behind|Behind]]; toward the stern relative to some [[o/_other|other]] [[o/_object|object]] or position; [[a/_aft|aft]] of.**
+- **[[b/_behind|Behind]]; toward the stern relative to some [[o/_other|other]] [[o/_object|object]] or [[p/_position|position]]; [[a/_aft|aft]] of.**
 ---
 ---

@@ -1,6 +1,6 @@
 # Lentisk
 ---
 #noun
-- **A tree, the [[l/_lentiscus|lentiscus]], Pistacia [[l/_lentiscus|lentiscus]].**
+- **A tree, the [[l/_lentiscus|lentiscus]], [[p/_pistacia|Pistacia]] [[l/_lentiscus|lentiscus]].**
 ---
 ---

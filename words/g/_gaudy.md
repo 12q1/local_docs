@@ -1,7 +1,7 @@
 # Gaudy
 ---
 #noun
-- **[[o/_one|One]] of the [[l/_large|large]] [[b/_beads|beads]] in the rosary at which the paternoster is recited.**
+- **[[o/_one|One]] of the [[l/_large|large]] [[b/_beads|beads]] in the rosary at which the [[p/_paternoster|paternoster]] is recited.**
 ---
 #adjective
 - **Very showy or [[o/_ornamented|ornamented]], [[n/_now|now]] [[e/_especially|especially]] when [[e/_excessive|excessive]], or in a tasteless or vulgar [[m/_manner|manner]]**

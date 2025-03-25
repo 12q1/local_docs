@@ -1,6 +1,6 @@
 # Nonexpert
 ---
 #noun
-- **A person who is not an [[e/_expert|expert]].**
+- **A [[p/_person|person]] who is not an [[e/_expert|expert]].**
 ---
 ---

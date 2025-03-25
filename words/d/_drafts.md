@@ -11,34 +11,34 @@
 - **[[d/_depth|Depth]] of water [[n/_needed|needed]] to [[f/_float|float]] a ship; [[d/_depth|depth]] [[b/_below|below]] the water [[l/_line|line]] to the [[b/_bottom|bottom]] of a vessel's [[h/_hull|hull]]; [[d/_depth|depth]] of water [[d/_drawn|drawn]] by a vessel.**
 - **An [[e/_early|early]] version of a written work (such as a [[b/_book|book]] or [[e/_e|e]]-[[m/_mail|mail]]) or [[d/_drawing|drawing]].**
 	- _Example: His first drafts were better than most authors' final products._
-- **A preliminary sketch or [[o/_outline|outline]] for a plan.**
+- **A [[p/_preliminary|preliminary]] sketch or [[o/_outline|outline]] for a [[p/_plan|plan]].**
 - **A [[c/_cheque|cheque]], an [[o/_order|order]] for [[m/_money|money]] to be [[p/_paid|paid]].**
-- **[[c/_conscription|Conscription]], the system of [[f/_forcing|forcing]] people to serve in the [[m/_military|military]].**
+- **[[c/_conscription|Conscription]], the system of [[f/_forcing|forcing]] [[p/_people|people]] to serve in the [[m/_military|military]].**
 	- _Example: He left the country to avoid the draft._
-- **A system of [[f/_forcing|forcing]] or [[c/_convincing|convincing]] people to take an [[e/_elected|elected]] position.**
-- **A system of [[a/_assigning|assigning]] rookie players to professional sports teams.**
+- **A system of [[f/_forcing|forcing]] or [[c/_convincing|convincing]] [[p/_people|people]] to take an [[e/_elected|elected]] [[p/_position|position]].**
+- **A system of [[a/_assigning|assigning]] rookie [[p/_players|players]] to professional sports teams.**
 - **The pulling [[f/_force|force]] (tension) on [[c/_couplers|couplers]] and [[d/_draft|draft]] [[g/_gear|gear]] [[d/_during|during]] a slack stretched [[c/_condition|condition]].**
-- **The [[b/_bevel|bevel]] [[g/_given|given]] to the pattern for a [[c/_casting|casting]], so that it [[c/_can|can]] be [[d/_drawn|drawn]] from the sand without [[d/_damaging|damaging]] the [[m/_mould|mould]].**
-- **(possibly [[o/_obsolete|obsolete]]) The [[a/_action|action]] or an [[a/_act|act]] ([[e/_especially|especially]] of a [[b/_beast|beast]] of [[b/_burden|burden]] or vehicle) of pulling something [[a/_along|along]] or [[b/_back|back]].**
+- **The [[b/_bevel|bevel]] [[g/_given|given]] to the [[p/_pattern|pattern]] for a [[c/_casting|casting]], so that it [[c/_can|can]] be [[d/_drawn|drawn]] from the sand without [[d/_damaging|damaging]] the [[m/_mould|mould]].**
+- **([[p/_possibly|possibly]] [[o/_obsolete|obsolete]]) The [[a/_action|action]] or an [[a/_act|act]] ([[e/_especially|especially]] of a [[b/_beast|beast]] of [[b/_burden|burden]] or vehicle) of pulling something [[a/_along|along]] or [[b/_back|back]].**
 	- _Example: using oxen for draft   shot forth an arrow with a mighty draft_
-- **(possibly [[o/_obsolete|obsolete]]) The [[a/_act|act]] of [[d/_drawing|drawing]] in a [[n/_net|net]] for [[f/_fish|fish]].**
-- **(possibly [[o/_obsolete|obsolete]]) That which is [[d/_drawn|drawn]] in; a [[c/_catch|catch]], a [[h/_haul|haul]].**
+- **([[p/_possibly|possibly]] [[o/_obsolete|obsolete]]) The [[a/_act|act]] of [[d/_drawing|drawing]] in a [[n/_net|net]] for [[f/_fish|fish]].**
+- **([[p/_possibly|possibly]] [[o/_obsolete|obsolete]]) That which is [[d/_drawn|drawn]] in; a [[c/_catch|catch]], a [[h/_haul|haul]].**
 	- _Example: he cast his net, which brought him a very great draft_
-- **A quantity that is requisitioned or [[d/_drawn|drawn]] [[o/_out|out]] from a [[l/_larger|larger]] population.**
+- **A quantity that is requisitioned or [[d/_drawn|drawn]] [[o/_out|out]] from a [[l/_larger|larger]] [[p/_population|population]].**
 ---
 ### Synonyms
 - [[s/_swig|swig]]
 #verb
-- **To write a [[f/_first|first]] version, [[m/_make|make]] a preliminary sketch.**
-- **To [[d/_draw|draw]] in [[o/_outline|outline]]; to [[m/_make|make]] a [[d/_draught|draught]], sketch, or plan of, as in [[a/_architectural|architectural]] and [[m/_mechanical|mechanical]] [[d/_drawing|drawing]].**
+- **To write a [[f/_first|first]] version, [[m/_make|make]] a [[p/_preliminary|preliminary]] sketch.**
+- **To [[d/_draw|draw]] in [[o/_outline|outline]]; to [[m/_make|make]] a [[d/_draught|draught]], sketch, or [[p/_plan|plan]] of, as in [[a/_architectural|architectural]] and [[m/_mechanical|mechanical]] [[d/_drawing|drawing]].**
 - **To write a [[l/_law|law]].**
-- **To [[c/_conscript|conscript]] a person, [[f/_force|force]] a person to serve in some [[c/_capacity|capacity]], [[e/_especially|especially]] in the [[m/_military|military]].**
+- **To [[c/_conscript|conscript]] a [[p/_person|person]], [[f/_force|force]] a [[p/_person|person]] to serve in some [[c/_capacity|capacity]], [[e/_especially|especially]] in the [[m/_military|military]].**
 	- _Example: He was drafted during the Vietnam War._
-- **To select someone (or something) for a particular role or purpose.**
+- **To select someone (or something) for a [[p/_particular|particular]] role or purpose.**
 	- _Example: There was a campaign to draft Smith to run for President._
 - **To select and separate an [[a/_animal|animal]] or [[a/_animals|animals]] from a [[g/_group|group]].**
 	- _Example: The calves were drafted from the cows._
-- **To select a rookie player [[o/_onto|onto]] a professional sports team.**
+- **To select a rookie [[p/_player|player]] [[o/_onto|onto]] a professional sports team.**
 	- _Example: After his last year of college football, he was drafted by the Miami Dolphins._
 - **To [[f/_follow|follow]] very [[c/_closely|closely]] ([[b/_behind|behind]] [[a/_another|another]] vehicle), thereby providing an [[a/_aerodynamic|aerodynamic]] [[a/_advantage|advantage]] to [[b/_both|both]] [[l/_lead|lead]] and [[f/_follower|follower]] and [[c/_conserving|conserving]] [[e/_energy|energy]] or [[i/_increasing|increasing]] speed.**
 - **To [[d/_draw|draw]] [[o/_out|out]]; to [[c/_call|call]] [[f/_forth|forth]].**

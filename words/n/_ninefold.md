@@ -1,7 +1,7 @@
 # Ninefold
 ---
 #adjective
-- **[[h/_having|Having]] [[n/_nine|nine]] parts**
+- **[[h/_having|Having]] [[n/_nine|nine]] [[p/_parts|parts]]**
 - **[[h/_having|Having]] [[n/_nine|nine]] times as [[m/_much|much]] or as [[m/_many|many]]**
 ---
 #adverb

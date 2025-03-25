@@ -5,7 +5,7 @@
 - **A small [[b/_bone|bone]] in the [[f/_foot|foot]] of a [[h/_horse|horse]].**
 ---
 #adjective
-- **Pertaining to a [[c/_crown|crown]] or [[g/_garland|garland]].**
+- **[[p/_pertaining|Pertaining]] to a [[c/_crown|crown]] or [[g/_garland|garland]].**
 - **[[e/_encircling|Encircling]] something ([[l/_like|like]] a [[c/_crown|crown]]), [[e/_especially|especially]] with regard to the [[a/_arteries|arteries]] or veins of the [[h/_heart|heart]].**
 ---
 #noun

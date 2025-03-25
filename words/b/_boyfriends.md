@@ -1,7 +1,7 @@
 # Boyfriends
 ---
 #noun
-- **A [[m/_male|male]] partner in an unmarried romantic relationship.**
+- **A [[m/_male|male]] [[p/_partner|partner]] in an unmarried romantic relationship.**
 - **A [[m/_male|male]] [[f/_friend|friend]].**
 ---
 ### Synonyms

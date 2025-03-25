@@ -1,6 +1,6 @@
 # Brewer
 ---
 #noun
-- **Someone who [[b/_brews|brews]], or whose [[o/_occupation|occupation]] is to prepare [[m/_malt|malt]] [[l/_liquors|liquors]].**
+- **Someone who [[b/_brews|brews]], or whose [[o/_occupation|occupation]] is to [[p/_prepare|prepare]] [[m/_malt|malt]] [[l/_liquors|liquors]].**
 ---
 ---

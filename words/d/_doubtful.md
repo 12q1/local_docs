@@ -1,7 +1,7 @@
 # Doubtful
 ---
 #noun
-- **A [[d/_doubtful|doubtful]] person or thing.**
+- **A [[d/_doubtful|doubtful]] [[p/_person|person]] or thing.**
 ---
 #adjective
 - **Subject to, or [[c/_causing|causing]] [[d/_doubt|doubt]].**

@@ -1,7 +1,7 @@
 # Bespeak
 ---
 #noun
-- **A request for a specific performance; a [[b/_benefit|benefit]] performance, by a patron.**
+- **A request for a specific [[p/_performance|performance]]; a [[b/_benefit|benefit]] [[p/_performance|performance]], by a [[p/_patron|patron]].**
 ---
 #verb
 - **To speak [[a/_about|about]]; tell of; relate; [[d/_discuss|discuss]].**

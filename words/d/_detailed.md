@@ -3,9 +3,9 @@
 #verb
 - **To [[e/_explain|explain]] in [[d/_detail|detail]].**
 	- _Example: I'll detail the exact procedure to you later._
-- **To [[c/_clean|clean]] [[c/_carefully|carefully]] (particularly of road vehicles) ([[a/_always|always]] pronounced. /ˈ[[d/_di|di]]ːteɪ[[l/_l|l]]/)**
+- **To [[c/_clean|clean]] [[c/_carefully|carefully]] ([[p/_particularly|particularly]] of road vehicles) ([[a/_always|always]] pronounced. /ˈ[[d/_di|di]]ːteɪ[[l/_l|l]]/)**
 	- _Example: We need to have the minivan detailed._
-- **To [[a/_assign|assign]] to a particular task**
+- **To [[a/_assign|assign]] to a [[p/_particular|particular]] task**
 ---
 ### Synonyms
 - [[d/_detach|detach]], [[s/_specify|specify]]

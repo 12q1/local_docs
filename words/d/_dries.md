@@ -6,7 +6,7 @@
 - **A prohibitionist (of [[a/_alcoholic|alcoholic]] [[b/_beverages|beverages]]).**
 - **(with "the") The [[d/_dry|dry]] season.**
 - **An [[a/_area|area]] of waterless [[c/_country|country]].**
-- **(UK politics) A radical or [[h/_hard|hard]]-[[l/_line|line]] [[c/_conservative|Conservative]]; [[e/_especially|especially]], [[o/_one|one]] who supported the policies of [[b/_british|British]] Prime [[m/_minister|Minister]] [[m/_margaret|Margaret]] Thatcher in the 1980s.**
+- **(UK [[p/_politics|politics]]) A radical or [[h/_hard|hard]]-[[l/_line|line]] [[c/_conservative|Conservative]]; [[e/_especially|especially]], [[o/_one|one]] who supported the [[p/_policies|policies]] of [[b/_british|British]] Prime [[m/_minister|Minister]] [[m/_margaret|Margaret]] Thatcher in the 1980s.**
 ---
 ### Antonyms
 - [[w/_wet|wet]]
@@ -17,6 +17,6 @@
 	- _Example: Devin dried her eyes with a handkerchief._
 - **To be thirsty.**
 - **To [[e/_exhaust|exhaust]]; to [[c/_cause|cause]] to run [[d/_dry|dry]].**
-- **For an [[a/_actor|actor]] to [[f/_forget|forget]] [[h/_his|his]] or [[h/_her|her]] [[l/_lines|lines]] while performing.**
+- **For an [[a/_actor|actor]] to [[f/_forget|forget]] [[h/_his|his]] or [[h/_her|her]] [[l/_lines|lines]] while [[p/_performing|performing]].**
 ---
 ---

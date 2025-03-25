@@ -5,11 +5,11 @@
 	- _Example: We could color the walls red._
 - **To [[a/_apply|apply]] [[c/_colors|colors]] to the [[a/_areas|areas]] within the [[b/_boundaries|boundaries]] of a [[l/_line|line]] [[d/_drawing|drawing]] using [[c/_colored|colored]] [[m/_markers|markers]] or [[c/_crayons|crayons]].**
 	- _Example: My kindergartener loves to color._
-- **(of a person or their [[f/_face|face]]) To [[b/_become|become]] red through [[i/_increased|increased]] [[b/_blood|blood]] [[f/_flow|flow]].**
+- **(of a [[p/_person|person]] or their [[f/_face|face]]) To [[b/_become|become]] red through [[i/_increased|increased]] [[b/_blood|blood]] [[f/_flow|flow]].**
 	- _Example: Her face colored as she realized her mistake._
 - **To [[a/_affect|affect]] without [[c/_completely|completely]] [[c/_changing|changing]].**
 	- _Example: That interpretation certainly colors my perception of the book._
-- **To [[a/_attribute|attribute]] a quality to; to portray (as).**
+- **To [[a/_attribute|attribute]] a quality to; to [[p/_portray|portray]] (as).**
 	- _Example: Color me confused._
 - **To [[a/_assign|assign]] [[c/_colors|colors]] to the vertices of a [[g/_graph|graph]] (or the regions of a [[m/_map|map]]) so that [[n/_no|no]] two vertices [[c/_connected|connected]] by an [[e/_edge|edge]] (regions sharing a [[b/_border|border]]) [[h/_have|have]] the same [[c/_color|color]].**
 	- _Example: Can this graph be 2-colored?_

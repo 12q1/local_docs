@@ -7,6 +7,6 @@
 - **To [[b/_break|break]] up or [[d/_disperse|disperse]].**
 ---
 #noun
-- **Various [[h/_health|health]] problems and [[f/_frailty|frailty]] [[o/_observed|observed]] in [[e/_elderly|elderly]] people.**
+- **Various [[h/_health|health]] problems and [[f/_frailty|frailty]] [[o/_observed|observed]] in [[e/_elderly|elderly]] [[p/_people|people]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Biomechanical
 ---
 #adjective
-- **Of or pertaining to [[b/_biomechanics|biomechanics]]**
+- **Of or [[p/_pertaining|pertaining]] to [[b/_biomechanics|biomechanics]]**
 ---
 ---

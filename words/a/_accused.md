@@ -9,7 +9,7 @@
 ### Synonyms
 - [[a/_arraign|arraign]], [[c/_charge|charge]], [[i/_impeach|impeach]], [[i/_indict|indict]], [[b/_blame|blame]], [[c/_censure|censure]], [[c/_criminate|criminate]], [[r/_reproach|reproach]]
 #noun
-- **The person [[c/_charged|charged]] with an [[o/_offense|offense]]; the [[d/_defendant|defendant]] in a [[c/_criminal|criminal]] [[c/_case|case]].**
+- **The [[p/_person|person]] [[c/_charged|charged]] with an [[o/_offense|offense]]; the [[d/_defendant|defendant]] in a [[c/_criminal|criminal]] [[c/_case|case]].**
 ---
 ### Synonyms
 - [[a/_accusee|accusee]]

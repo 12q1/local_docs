@@ -6,6 +6,6 @@
 ---
 #verb
 - **To [[l/_leap|leap]]; to [[c/_caper|caper]].**
-- **To [[c/_cause|cause]] ([[o/_one|one]]'s [[m/_mounted|mounted]] [[h/_horse|horse]]) to perform a [[c/_capriole|capriole]].**
+- **To [[c/_cause|cause]] ([[o/_one|one]]'s [[m/_mounted|mounted]] [[h/_horse|horse]]) to [[p/_perform|perform]] a [[c/_capriole|capriole]].**
 ---
 ---

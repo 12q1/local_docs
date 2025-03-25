@@ -9,7 +9,7 @@
 ### Synonyms
 - [[a/_assure|assure]], [[w/_warrant|warrant]]
 #noun
-- **An undertaking to [[a/_answer|answer]] for the [[p/_payment|payment]] of some [[d/_debt|debt]], or the performance of some [[c/_contract|contract]] or [[d/_duty|duty]], of [[a/_another|another]], in [[c/_case|case]] of the [[f/_failure|failure]] of such [[o/_other|other]] to [[p/_pay|pay]] or perform; a warranty; a security.**
+- **An undertaking to [[a/_answer|answer]] for the [[p/_payment|payment]] of some [[d/_debt|debt]], or the [[p/_performance|performance]] of some [[c/_contract|contract]] or [[d/_duty|duty]], of [[a/_another|another]], in [[c/_case|case]] of the [[f/_failure|failure]] of such [[o/_other|other]] to [[p/_pay|pay]] or [[p/_perform|perform]]; a warranty; a security.**
 - **Something serving as a security for such an undertaking.**
 - **An [[a/_assurance|assurance]] or [[g/_guarantee|guarantee]].**
 ---

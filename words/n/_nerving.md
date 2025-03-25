@@ -7,6 +7,6 @@
 	- _Example: The liquor nerved up several of the men after their icy march._
 ---
 #noun
-- **An [[a/_arrangement|arrangement]] of [[n/_nerves|nerves]] or veins in a plant.**
+- **An [[a/_arrangement|arrangement]] of [[n/_nerves|nerves]] or veins in a [[p/_plant|plant]].**
 ---
 ---

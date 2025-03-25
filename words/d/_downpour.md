@@ -7,6 +7,6 @@
 ### Synonyms
 - [[c/_cloudburst|cloudburst]], [[d/_deluge|deluge]], [[i/_inundation|inundation]], [[m/_monsoon|monsoon]], [[r/_rain|rain]], [[r/_rainstorm|rainstorm]], [[s/_storm|storm]], [[t/_torrent|torrent]], [[w/_wet|wet]]
 #verb
-- **To pour [[d/_down|down]]; rain [[h/_heavily|heavily]].**
+- **To [[p/_pour|pour]] [[d/_down|down]]; rain [[h/_heavily|heavily]].**
 ---
 ---

@@ -1,6 +1,6 @@
 # Idealistic
 ---
 #adjective
-- **Of or pertaining to an [[i/_idealist|idealist]] or to [[i/_idealism|idealism]].**
+- **Of or [[p/_pertaining|pertaining]] to an [[i/_idealist|idealist]] or to [[i/_idealism|idealism]].**
 ---
 ---

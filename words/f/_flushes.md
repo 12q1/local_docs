@@ -11,7 +11,7 @@
 ---
 #noun
 - **A sudden [[f/_flowing|flowing]]; a rush which [[f/_fills|fills]] or [[o/_overflows|overflows]], as of water for [[c/_cleansing|cleansing]] purposes.**
-- **Particularly, such a [[c/_cleansing|cleansing]] of a toilet.**
+- **[[p/_particularly|Particularly]], such a [[c/_cleansing|cleansing]] of a toilet.**
 - **A suffusion of the [[f/_face|face]] with [[b/_blood|blood]], as from [[f/_fear|fear]], shame, [[m/_modesty|modesty]], or [[i/_intensity|intensity]] of [[f/_feeling|feeling]] of [[a/_any|any]] [[k/_kind|kind]]; a [[b/_blush|blush]]; a [[g/_glow|glow]].**
 - **[[a/_any|Any]] tinge of red [[c/_colour|colour]] [[l/_like|like]] that produced on the [[c/_cheeks|cheeks]] by a sudden rush of [[b/_blood|blood]].**
 	- _Example: the flush on the side of a peach; the flush on the clouds at sunset_
@@ -21,7 +21,7 @@
 #verb
 - **To [[c/_cleanse|cleanse]] by [[f/_flooding|flooding]] with [[g/_generous|generous]] quantities of a [[f/_fluid|fluid]].**
 	- _Example: Flush the injury with plenty of water._
-- **Particularly, to [[c/_cleanse|cleanse]] a toilet by [[i/_introducing|introducing]] a [[l/_large|large]] [[a/_amount|amount]] of water.**
+- **[[p/_particularly|Particularly]], to [[c/_cleanse|cleanse]] a toilet by [[i/_introducing|introducing]] a [[l/_large|large]] [[a/_amount|amount]] of water.**
 - **To [[b/_become|become]] suffused with reddish [[c/_color|color]] [[d/_due|due]] to [[e/_embarrassment|embarrassment]], [[e/_excitement|excitement]], [[o/_overheating|overheating]], or [[o/_other|other]] systemic [[d/_disturbance|disturbance]], to [[b/_blush|blush]].**
 	- _Example: The damsel flushed at the scoundrel's suggestion._
 - **To [[c/_cause|cause]] to [[b/_blush|blush]].**
@@ -34,8 +34,8 @@
 - **To [[f/_flow|flow]] and spread suddenly; to rush.**
 	- _Example: Blood flushes into the face._
 - **To show red; to shine suddenly; to [[g/_glow|glow]].**
-- **To [[f/_fill|fill]] in ([[j/_joints|joints]]); to point the [[l/_level|level]]; to [[m/_make|make]] them [[f/_flush|flush]].**
-- **To [[o/_operate|operate]] a placer [[m/_mine|mine]], where the [[c/_continuous|continuous]] supply of water is [[i/_insufficient|insufficient]], by [[h/_holding|holding]] [[b/_back|back]] the water, and releasing it periodically in a [[f/_flood|flood]].**
+- **To [[f/_fill|fill]] in ([[j/_joints|joints]]); to [[p/_point|point]] the [[l/_level|level]]; to [[m/_make|make]] them [[f/_flush|flush]].**
+- **To [[o/_operate|operate]] a [[p/_placer|placer]] [[m/_mine|mine]], where the [[c/_continuous|continuous]] supply of water is [[i/_insufficient|insufficient]], by [[h/_holding|holding]] [[b/_back|back]] the water, and releasing it [[p/_periodically|periodically]] in a [[f/_flood|flood]].**
 - **To [[f/_fill|fill]] underground spaces, [[e/_especially|especially]] in [[c/_coal|coal]] [[m/_mines|mines]], with [[m/_material|material]] [[c/_carried|carried]] by water, which, [[a/_after|after]] [[d/_drainage|drainage]], [[c/_constitutes|constitutes]] a [[c/_compact|compact]] [[m/_mass|mass]].**
 - **To [[d/_dispose|dispose]] or be [[d/_disposed|disposed]] of by [[f/_flushing|flushing]] [[d/_down|down]] a toilet**
 ---

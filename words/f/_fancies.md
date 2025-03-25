@@ -14,9 +14,9 @@
 - **The [[e/_enthusiasts|enthusiasts]] of such a pursuit.**
 	- _Example: He fell out of favor with the boxing fancy after the incident._
 - **A [[d/_diamond|diamond]] with a [[d/_distinctive|distinctive]] [[c/_colour|colour]].**
-- **That which pleases or [[e/_entertains|entertains]] the taste or [[c/_caprice|caprice]] without [[m/_much|much]] use or value.**
+- **That which [[p/_pleases|pleases]] or [[e/_entertains|entertains]] the taste or [[c/_caprice|caprice]] without [[m/_much|much]] use or value.**
 - **A sort of [[l/_love|love]] song or [[l/_light|light]] [[i/_impromptu|impromptu]] [[b/_ballad|ballad]].**
-- **In the [[g/_game|game]] of [[j/_jacks|jacks]], a style of play [[i/_involving|involving]] [[a/_additional|additional]] [[a/_actions|actions]] ([[c/_contrasted|contrasted]] with plainsies).**
+- **In the [[g/_game|game]] of [[j/_jacks|jacks]], a style of [[p/_play|play]] [[i/_involving|involving]] [[a/_additional|additional]] [[a/_actions|actions]] ([[c/_contrasted|contrasted]] with plainsies).**
 ---
 ### Synonyms
 - [[c/_conception|conception]], [[i/_idea|idea]], [[t/_thought|thought]], [[h/_hobby|hobby]], [[i/_impression|impression]]
@@ -29,8 +29,8 @@
 	- _Example: I fancy that girl over there._
 - **To [[i/_imagine|imagine]], suppose.**
 	- _Example: Fancy meeting you here!_
-- **To [[f/_form|form]] a [[c/_conception|conception]] of; to portray in the [[m/_mind|mind]].**
-- **To [[h/_have|have]] a [[f/_fancy|fancy]] for; to [[l/_like|like]]; to be pleased with, particularly on [[a/_account|account]] of [[e/_external|external]] [[a/_appearance|appearance]] or [[m/_manners|manners]].**
+- **To [[f/_form|form]] a [[c/_conception|conception]] of; to [[p/_portray|portray]] in the [[m/_mind|mind]].**
+- **To [[h/_have|have]] a [[f/_fancy|fancy]] for; to [[l/_like|like]]; to be [[p/_pleased|pleased]] with, [[p/_particularly|particularly]] on [[a/_account|account]] of [[e/_external|external]] [[a/_appearance|appearance]] or [[m/_manners|manners]].**
 - **To [[b/_breed|breed]] ([[a/_animals|animals]]) as a [[h/_hobby|hobby]].**
 ---
 ### Synonyms

@@ -7,7 +7,7 @@
 - **To [[m/_make|make]] the vocal sound of a [[g/_goose|goose]].**
 - **To vomit: regurgitate the [[c/_contents|contents]] of [[o/_one|one]]'s stomach.**
 - **To [[h/_have|have]] a [[b/_bad|bad]] smell.**
-- **To squeeze playfully, usually a [[b/_breast|breast]] or [[n/_nose|nose]].**
+- **To squeeze [[p/_playfully|playfully]], usually a [[b/_breast|breast]] or [[n/_nose|nose]].**
 ---
 #adjective
 - **[[e/_emphatically|Emphatically]] or [[i/_impressively|impressively]] [[b/_big|big]]; really [[b/_big|big]].**

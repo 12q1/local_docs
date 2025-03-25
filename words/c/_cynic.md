@@ -1,8 +1,8 @@
 # Cynic
 ---
 #noun
-- **A person who [[b/_believes|believes]] that [[a/_all|all]] people are [[m/_motivated|motivated]] by selfishness.**
-- **A person whose [[o/_outlook|outlook]] is scornfully [[n/_negative|negative]].**
+- **A [[p/_person|person]] who [[b/_believes|believes]] that [[a/_all|all]] [[p/_people|people]] are [[m/_motivated|motivated]] by selfishness.**
+- **A [[p/_person|person]] whose [[o/_outlook|outlook]] is scornfully [[n/_negative|negative]].**
 ---
 #adjective
 - **[[c/_cynical|Cynical]] (in [[a/_all|all]] senses)**

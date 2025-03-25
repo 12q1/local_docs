@@ -1,6 +1,6 @@
 # Fundal
 ---
 #adjective
-- **Of or pertaining to a [[f/_fundus|fundus]]**
+- **Of or [[p/_pertaining|pertaining]] to a [[f/_fundus|fundus]]**
 ---
 ---

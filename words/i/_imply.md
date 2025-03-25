@@ -3,9 +3,9 @@
 #verb
 - **(of a proposition) to [[h/_have|have]] as a [[n/_necessary|necessary]] [[c/_consequence|consequence]]**
 	- _Example: The proposition that "all dogs are mammals" implies that my dog is a mammal_
-- **(of a person) to suggest by [[l/_logical|logical]] [[i/_inference|inference]]**
+- **(of a [[p/_person|person]]) to suggest by [[l/_logical|logical]] [[i/_inference|inference]]**
 	- _Example: When I state that your dog is brown, I am not implying that all dogs are brown_
-- **(of a person or proposition) to [[h/_hint|hint]]; to [[i/_insinuate|insinuate]]; to suggest tacitly and [[a/_avoid|avoid]] a [[d/_direct|direct]] statement**
+- **(of a [[p/_person|person]] or proposition) to [[h/_hint|hint]]; to [[i/_insinuate|insinuate]]; to suggest tacitly and [[a/_avoid|avoid]] a [[d/_direct|direct]] statement**
 - **To [[e/_enfold|enfold]], [[e/_entangle|entangle]].**
 ---
 ### Synonyms

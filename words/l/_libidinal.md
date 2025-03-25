@@ -1,6 +1,6 @@
 # Libidinal
 ---
 #adjective
-- **Relating or pertaining to the [[l/_libido|libido]].**
+- **Relating or [[p/_pertaining|pertaining]] to the [[l/_libido|libido]].**
 ---
 ---

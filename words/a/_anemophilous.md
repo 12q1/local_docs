@@ -1,6 +1,6 @@
 # Anemophilous
 ---
 #adjective
-- **Pollinated by the wind**
+- **[[p/_pollinated|Pollinated]] by the wind**
 ---
 ---

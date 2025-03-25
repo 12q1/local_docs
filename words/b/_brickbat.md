@@ -1,7 +1,7 @@
 # Brickbat
 ---
 #noun
-- **A piece of [[b/_brick|brick]] used as a weapon, [[e/_especially|especially]] [[i/_if|if]] thrown, or placed in something [[l/_like|like]] a sock and used as a [[c/_club|club]].**
+- **A [[p/_piece|piece]] of [[b/_brick|brick]] used as a weapon, [[e/_especially|especially]] [[i/_if|if]] thrown, or [[p/_placed|placed]] in something [[l/_like|like]] a sock and used as a [[c/_club|club]].**
 - **A [[c/_criticism|criticism]] or uncomplimentary remark.**
 ---
 #verb

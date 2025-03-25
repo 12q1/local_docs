@@ -1,7 +1,7 @@
 # Fullers
 ---
 #noun
-- **A person who [[f/_fulls|fulls]] [[c/_cloth|cloth]].**
+- **A [[p/_person|person]] who [[f/_fulls|fulls]] [[c/_cloth|cloth]].**
 ---
 ### Synonyms
 - [[w/_walker|walker]], [[w/_waulker|waulker]]

@@ -5,6 +5,6 @@
 - **([[g/_grammar|grammar]]) A [[d/_deponent|deponent]] verb.**
 ---
 #adjective
-- **(of some [[l/_latin|Latin]], [[g/_greek|Greek]], Sanskrit, Scandinavian or [[o/_old|Old]] [[i/_irish|Irish]] verbs) [[h/_having|Having]] passive [[f/_form|form]] (that is, [[c/_conjugating|conjugating]] [[l/_like|like]] the passive voice), but an [[a/_active|active]] [[m/_meaning|meaning]]. (Such verbs, [[o/_originally|originally]] reflexive, are [[c/_considered|considered]] to [[h/_have|have]] [[l/_laid|laid]] [[a/_aside|aside]] their passive [[m/_meanings|meanings]].)**
+- **(of some [[l/_latin|Latin]], [[g/_greek|Greek]], Sanskrit, Scandinavian or [[o/_old|Old]] [[i/_irish|Irish]] verbs) [[h/_having|Having]] [[p/_passive|passive]] [[f/_form|form]] (that is, [[c/_conjugating|conjugating]] [[l/_like|like]] the [[p/_passive|passive]] voice), but an [[a/_active|active]] [[m/_meaning|meaning]]. (Such verbs, [[o/_originally|originally]] reflexive, are [[c/_considered|considered]] to [[h/_have|have]] [[l/_laid|laid]] [[a/_aside|aside]] their [[p/_passive|passive]] [[m/_meanings|meanings]].)**
 ---
 ---

@@ -1,6 +1,6 @@
 # Coonskin
 ---
 #noun
-- **The pelt of a raccoon**
+- **The [[p/_pelt|pelt]] of a raccoon**
 ---
 ---

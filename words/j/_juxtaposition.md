@@ -6,6 +6,6 @@
 	- _Example: There was a poignant juxtaposition between the boys laughing in the street and the girl crying on the balcony above._
 ---
 #verb
-- **To place in [[j/_juxtaposition|juxtaposition]].**
+- **To [[p/_place|place]] in [[j/_juxtaposition|juxtaposition]].**
 ---
 ---

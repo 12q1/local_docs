@@ -31,7 +31,7 @@
 	- _Example: They were caught trying to pass bad coinage._
 - **Unskilled; of [[l/_limited|limited]] [[a/_ability|ability]]; not [[g/_good|good]].**
 	- _Example: He's a bad gardener; everything he tries to grow ends up dying._
-- **Of poor physical [[a/_appearance|appearance]].**
+- **Of [[p/_poor|poor]] [[p/_physical|physical]] [[a/_appearance|appearance]].**
 	- _Example: I don't look bad in this dress, do I?_
 - **[[b/_bold|Bold]] and [[d/_daring|daring]].**
 - **[[g/_good|Good]], superlative, [[e/_excellent|excellent]], [[c/_cool|cool]].**

@@ -1,15 +1,15 @@
 # Hard
 ---
 #noun
-- **A [[f/_firm|firm]] or paved [[b/_beach|beach]] or slope [[c/_convenient|convenient]] for [[h/_hauling|hauling]] vessels [[o/_out|out]] of the water.**
+- **A [[f/_firm|firm]] or [[p/_paved|paved]] [[b/_beach|beach]] or slope [[c/_convenient|convenient]] for [[h/_hauling|hauling]] vessels [[o/_out|out]] of the water.**
 - **A tyre whose [[c/_compound|compound]] is softer than superhards, and [[h/_harder|harder]] than [[m/_mediums|mediums]].**
 - **[[c/_crack|Crack]] [[c/_cocaine|cocaine]].**
 - **[[h/_hard|Hard]] [[l/_labor|labor]].**
 	- _Example: The prisoners were sentenced to three years' hard._
 ---
 #adjective
-- **(of [[m/_material|material]] or [[f/_fluid|fluid]]) [[h/_having|Having]] a severe property; presenting [[d/_difficulty|difficulty]].**
-- **(personal or social) [[h/_having|Having]] a severe property; presenting [[d/_difficulty|difficulty]].**
+- **(of [[m/_material|material]] or [[f/_fluid|fluid]]) [[h/_having|Having]] a severe property; [[p/_presenting|presenting]] [[d/_difficulty|difficulty]].**
+- **([[p/_personal|personal]] or social) [[h/_having|Having]] a severe property; [[p/_presenting|presenting]] [[d/_difficulty|difficulty]].**
 - **Unquestionable.**
 	- _Example: hard evidence;  a hard requirement_
 - **(of a road [[i/_intersection|intersection]]) [[h/_having|Having]] a [[c/_comparatively|comparatively]] [[l/_larger|larger]] or a [[n/_ninety|ninety]]-[[d/_degree|degree]] [[a/_angle|angle]].**
@@ -17,16 +17,16 @@
 - **(of a [[m/_male|male]]) Sexually [[a/_aroused|aroused]].**
 	- _Example: I got so hard watching two hot guys wrestle each other on the beach._
 - **[[h/_having|Having]] [[m/_muscles|muscles]] that are tightened as a result of [[i/_intense|intense]], regular [[e/_exercise|exercise]].**
-- **Plosive.**
+- **[[p/_plosive|Plosive]].**
 	- _Example: There is a hard c in "clock" and a soft c in "centre"._
 - **Unvoiced**
 	- _Example: Hard k, t, s, ch, as distinguished from soft, g, d, z, j._
-- **Velarized or plain, rather than [[p/_palatalized|palatalized]]**
+- **Velarized or [[p/_plain|plain]], rather than [[p/_palatalized|palatalized]]**
 	- _Example: The letter ж in Russian is always hard._
-- **[[h/_having|Having]] a severe property; presenting a [[b/_barrier|barrier]] to [[e/_enjoyment|enjoyment]].**
-- **In a physical [[f/_form|form]], not [[d/_digital|digital]].**
+- **[[h/_having|Having]] a severe property; [[p/_presenting|presenting]] a [[b/_barrier|barrier]] to [[e/_enjoyment|enjoyment]].**
+- **In a [[p/_physical|physical]] [[f/_form|form]], not [[d/_digital|digital]].**
 	- _Example: a soft or hard copy ; a digital or hard archive_
-- **Using a [[m/_manual|manual]] or physical process, not by [[m/_means|means]] of a software [[c/_command|command]].**
+- **Using a [[m/_manual|manual]] or [[p/_physical|physical]] process, not by [[m/_means|means]] of a software [[c/_command|command]].**
 	- _Example: a hard reboot or reset_
 - **[[f/_far|Far]], [[e/_extreme|extreme]].**
 	- _Example: hard right, hard left_

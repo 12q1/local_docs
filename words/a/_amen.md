@@ -9,10 +9,10 @@
 - **To say [[a/_amen|amen]] to; to ratify solemnly.**
 ---
 #adverb
-- **At the [[e/_end|end]] of religious prayers: so be it.**
+- **At the [[e/_end|end]] of religious [[p/_prayers|prayers]]: so be it.**
 - **In [[m/_many|many]] [[a/_abrahamic|Abrahamic]] religious texts and [[c/_creeds|creeds]]: truly, verily.**
 ---
 #interjection
-- **An [[e/_expression|expression]] of strong [[a/_agreement|agreement]]. [[o/_often|Often]], though [[d/_dated|dated]], in the phrase "[[a/_amen|Amen]] to that".**
+- **An [[e/_expression|expression]] of strong [[a/_agreement|agreement]]. [[o/_often|Often]], though [[d/_dated|dated]], in the [[p/_phrase|phrase]] "[[a/_amen|Amen]] to that".**
 ---
 ---

@@ -8,7 +8,7 @@
 ### Antonyms
 - [[e/_encourage|encourage]], [[h/_hearten|hearten]]
 #adjective
-- **[[c/_causing|Causing]] a person to [[l/_lose|lose]] [[h/_heart|heart]]; [[m/_making|making]] [[d/_despondent|despondent]] or [[g/_gloomy|gloomy]].**
+- **[[c/_causing|Causing]] a [[p/_person|person]] to [[l/_lose|lose]] [[h/_heart|heart]]; [[m/_making|making]] [[d/_despondent|despondent]] or [[g/_gloomy|gloomy]].**
 ---
 ### Synonyms
 - [[d/_discouraging|discouraging]]

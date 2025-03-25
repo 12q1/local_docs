@@ -3,27 +3,27 @@
 #noun
 - **A [[b/_burden|burden]]; a weight to be [[c/_carried|carried]].**
 	- _Example: I struggled up the hill with the heavy load in my rucksack._
-- **A worry or [[c/_concern|concern]] to be [[e/_endured|endured]], [[e/_especially|especially]] in the phrase a [[l/_load|load]] [[o/_off|off]] [[o/_one|one]]'s [[m/_mind|mind]].**
+- **A worry or [[c/_concern|concern]] to be [[e/_endured|endured]], [[e/_especially|especially]] in the [[p/_phrase|phrase]] a [[l/_load|load]] [[o/_off|off]] [[o/_one|one]]'s [[m/_mind|mind]].**
 - **A [[c/_certain|certain]] [[n/_number|number]] of [[a/_articles|articles]] or quantity of [[m/_material|material]] that [[c/_can|can]] be transported or processed at [[o/_one|one]] time.**
 	- _Example: She put another load of clothes in the washing machine._
 - **A quantity of washing put [[i/_into|into]] a washing [[m/_machine|machine]] for a wash [[c/_cycle|cycle]].**
 	- _Example: I put a load on before we left._
 - **(in [[c/_combination|combination]]) Used to [[f/_form|form]] [[n/_nouns|nouns]] that [[i/_indicate|indicate]] a [[l/_large|large]] quantity, [[o/_often|often]] [[c/_corresponding|corresponding]] to the [[c/_capacity|capacity]] of a vehicle**
-- **([[o/_often|often]] in the plural) A [[l/_large|large]] [[n/_number|number]] or [[a/_amount|amount]].**
+- **([[o/_often|often]] in the [[p/_plural|plural]]) A [[l/_large|large]] [[n/_number|number]] or [[a/_amount|amount]].**
 	- _Example: I got a load of emails about that._
-- **The volume of work required to be performed.**
+- **The volume of work required to be [[p/_performed|performed]].**
 	- _Example: Will our web servers be able to cope with that load?_
 - **The [[f/_force|force]] [[e/_exerted|exerted]] on a structural [[c/_component|component]] such as a [[b/_beam|beam]], [[g/_girder|girder]], [[c/_cable|cable]] [[e/_etc|etc]].**
 	- _Example: Each of the cross-members must withstand a tensile load of 1,000 newtons._
-- **The [[e/_electrical|electrical]] [[c/_current|current]] or power [[d/_delivered|delivered]] by a [[d/_device|device]].**
+- **The [[e/_electrical|electrical]] [[c/_current|current]] or [[p/_power|power]] [[d/_delivered|delivered]] by a [[d/_device|device]].**
 	- _Example: I'm worried that the load on that transformer will be too high._
-- **A resistive [[f/_force|force]] [[e/_encountered|encountered]] by a prime [[m/_mover|mover]] when performing work.**
-- **[[a/_any|Any]] [[c/_component|component]] that [[d/_draws|draws]] [[c/_current|current]] or power from an [[e/_electrical|electrical]] [[c/_circuit|circuit]].**
+- **A resistive [[f/_force|force]] [[e/_encountered|encountered]] by a prime [[m/_mover|mover]] when [[p/_performing|performing]] work.**
+- **[[a/_any|Any]] [[c/_component|component]] that [[d/_draws|draws]] [[c/_current|current]] or [[p/_power|power]] from an [[e/_electrical|electrical]] [[c/_circuit|circuit]].**
 	- _Example: Connect a second 24-ohm load across the power supply's output terminals._
 - **A unit of [[m/_measure|measure]] for various quantities.**
 - **The viral [[l/_load|load]]**
 - **A very small [[e/_explosive|explosive]] [[i/_inserted|inserted]] as a [[g/_gag|gag]] [[i/_into|into]] a [[c/_cigarette|cigarette]] or [[c/_cigar|cigar]].**
-- **The [[c/_charge|charge]] of powder for a [[f/_firearm|firearm]].**
+- **The [[c/_charge|charge]] of [[p/_powder|powder]] for a [[f/_firearm|firearm]].**
 - **Weight or violence of [[b/_blows|blows]].**
 - **The [[c/_contents|contents]] ([[e/_e|e]].[[g/_g|g]]. semen) of an [[e/_ejaculation|ejaculation]].**
 - **[[n/_nonsense|Nonsense]]; rubbish.**
@@ -34,19 +34,19 @@
 ### Synonyms
 - [[c/_cumwad|cumwad]], [[w/_wad|wad]], [[c/_carrus|carrus]], [[c/_cartload|cartload]], [[c/_charrus|charrus]], [[f/_fodder|fodder]], [[f/_fother|fother]], [[c/_charge|charge]], [[f/_freight|freight]]
 #verb
-- **To put a [[l/_load|load]] on or in (a [[m/_means|means]] of [[c/_conveyance|conveyance]] or a place of storage).**
+- **To put a [[l/_load|load]] on or in (a [[m/_means|means]] of [[c/_conveyance|conveyance]] or a [[p/_place|place]] of storage).**
 	- _Example: The dock workers refused to load the ship._
-- **To place in or on a [[c/_conveyance|conveyance]] or a place of storage.**
+- **To [[p/_place|place]] in or on a [[c/_conveyance|conveyance]] or a [[p/_place|place]] of storage.**
 	- _Example: He loaded his stuff into his storage locker._
 - **To put a [[l/_load|load]] on something.**
 	- _Example: The truck was supposed to leave at dawn, but in fact we spent all morning loading._
 - **To receive a [[l/_load|load]].**
 	- _Example: The truck is designed to load easily._
-- **To be placed [[i/_into|into]] storage or [[c/_conveyance|conveyance]].**
+- **To be [[p/_placed|placed]] [[i/_into|into]] storage or [[c/_conveyance|conveyance]].**
 	- _Example: The containers load quickly and easily._
 - **To [[f/_fill|fill]] (a [[f/_firearm|firearm]] or [[a/_artillery|artillery]]) with [[m/_munition|munition]].**
 	- _Example: I pulled the trigger, but nothing happened. I had forgotten to load the gun._
-- **To [[i/_insert|insert]] (an [[i/_item|item]] or [[i/_items|items]]) [[i/_into|into]] an [[a/_apparatus|apparatus]] so as to ready it for [[o/_operation|operation]], such as a reel of [[f/_film|film]] [[i/_into|into]] a [[c/_camera|camera]], sheets of paper [[i/_into|into]] a printer [[e/_etc|etc]].**
+- **To [[i/_insert|insert]] (an [[i/_item|item]] or [[i/_items|items]]) [[i/_into|into]] an [[a/_apparatus|apparatus]] so as to ready it for [[o/_operation|operation]], such as a reel of [[f/_film|film]] [[i/_into|into]] a [[c/_camera|camera]], sheets of [[p/_paper|paper]] [[i/_into|into]] a printer [[e/_etc|etc]].**
 	- _Example: Now that you've loaded the camera [with film], you're ready to start shooting._
 - **To [[f/_fill|fill]] (an [[a/_apparatus|apparatus]]) with raw [[m/_material|material]].**
 	- _Example: The workers loaded the blast furnace with coke and ore._
@@ -61,7 +61,7 @@
 - **To tamper with so as to produce a [[b/_biased|biased]] [[o/_outcome|outcome]].**
 	- _Example: The wording of the ballot paper loaded the vote in favour of the Conservative candidate._
 - **To [[a/_ask|ask]] or [[a/_adapt|adapt]] a question so that it will be [[m/_more|more]] [[l/_likely|likely]] to be [[a/_answered|answered]] in a [[c/_certain|certain]] way.**
-- **To [[e/_encumber|encumber]] with something [[n/_negative|negative]], to place as an [[e/_encumbrance|encumbrance]].**
+- **To [[e/_encumber|encumber]] with something [[n/_negative|negative]], to [[p/_place|place]] as an [[e/_encumbrance|encumbrance]].**
 	- _Example: The new owners had loaded the company with debt._
 - **To provide in [[a/_abundance|abundance]].**
 	- _Example: He loaded carbs into his system before the marathon._
@@ -71,7 +71,7 @@
 - **To [[m/_magnetize|magnetize]].**
 ---
 #adverb
-- **[[l/_lots|Lots]], [[m/_much|much]], plenty, a [[g/_great|great]] [[d/_deal|deal]].**
+- **[[l/_lots|Lots]], [[m/_much|much]], [[p/_plenty|plenty]], a [[g/_great|great]] [[d/_deal|deal]].**
 ---
 ### Synonyms
 - [[t/_tons|tons]]

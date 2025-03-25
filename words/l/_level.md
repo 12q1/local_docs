@@ -12,17 +12,17 @@
 - **[[d/_distance|Distance]] from the root [[n/_node|node]] of a tree structure.**
 - **[[o/_one|One]] of several [[d/_discrete|discrete]] segments of a [[g/_game|game]], [[g/_generally|generally]] [[i/_increasing|increasing]] in [[d/_difficulty|difficulty]] and representing [[d/_different|different]] [[l/_locations|locations]] in the [[g/_game|game]] world.**
 	- _Example: It took me weeks to get to level seven.   Watch out for the next level; the bad guys there are really overpowered._
-- **A [[n/_numeric|numeric]] value that quantifies a [[c/_character|character]]'s [[e/_experience|experience]] and power.**
+- **A [[n/_numeric|numeric]] value that quantifies a [[c/_character|character]]'s [[e/_experience|experience]] and [[p/_power|power]].**
 	- _Example: My half-orc barbarian reached fifth level before he was squashed by a troll._
 - **A [[f/_floor|floor]] of a [[m/_multi|multi]]-storey [[b/_building|building]].**
 	- _Example: Take the elevator and get off at the promenade level._
-- **An [[a/_area|area]] of [[a/_almost|almost]] perfectly [[f/_flat|flat]] [[l/_land|land]].**
+- **An [[a/_area|area]] of [[a/_almost|almost]] [[p/_perfectly|perfectly]] [[f/_flat|flat]] [[l/_land|land]].**
 - **A school [[g/_grade|grade]] or [[y/_year|year]].**
 ---
 ### Synonyms
 - [[s/_stage|stage]], [[w/_world|world]], [[z/_zone|zone]]
 #verb
-- **To [[a/_adjust|adjust]] so as to [[m/_make|make]] as [[f/_flat|flat]] or perpendicular to the [[g/_ground|ground]] as possible.**
+- **To [[a/_adjust|adjust]] so as to [[m/_make|make]] as [[f/_flat|flat]] or [[p/_perpendicular|perpendicular]] to the [[g/_ground|ground]] as [[p/_possible|possible]].**
 	- _Example: You can level the table by turning the pads that screw into the feet._
 - **To [[d/_destroy|destroy]] by reducing to [[g/_ground|ground]] [[l/_level|level]]; to raze.**
 	- _Example: The hurricane leveled the forest._
@@ -30,16 +30,16 @@
 	- _Example: I levelled after defeating the dragon._
 - **To [[a/_aim|aim]] or [[d/_direct|direct]] (a weapon, a stare, an [[a/_accusation|accusation]], [[e/_etc|etc]]).**
 	- _Example: He levelled an accusation of fraud at the directors.  The hunter levels the gun before taking a shot._
-- **To [[d/_direct|direct]] or [[i/_impose|impose]] (a penalty, [[f/_fine|fine]], [[e/_etc|etc]]) at or upon (someone).**
+- **To [[d/_direct|direct]] or [[i/_impose|impose]] (a [[p/_penalty|penalty]], [[f/_fine|fine]], [[e/_etc|etc]]) at or upon (someone).**
 - **To [[m/_make|make]] the score of a [[g/_game|game]] [[e/_equal|equal]].**
-- **To [[b/_bring|bring]] to a [[c/_common|common]] [[l/_level|level]] or plane, in respect of rank, [[c/_condition|condition]], [[c/_character|character]], privilege, [[e/_etc|etc]].**
+- **To [[b/_bring|bring]] to a [[c/_common|common]] [[l/_level|level]] or [[p/_plane|plane]], in respect of rank, [[c/_condition|condition]], [[c/_character|character]], privilege, [[e/_etc|etc]].**
 	- _Example: to level all the ranks and conditions of men_
 - **To [[a/_adjust|adjust]] or [[a/_adapt|adapt]] to a [[c/_certain|certain]] [[l/_level|level]].**
 	- _Example: to level remarks to the capacity of children_
 - **(usually with "with") To speak [[h/_honestly|honestly]] and [[o/_openly|openly]] with.**
 ---
 #adjective
-- **The same [[h/_height|height]] at [[a/_all|all]] places; parallel to a [[f/_flat|flat]] [[g/_ground|ground]].**
+- **The same [[h/_height|height]] at [[a/_all|all]] [[p/_places|places]]; [[p/_parallel|parallel]] to a [[f/_flat|flat]] [[g/_ground|ground]].**
 	- _Example: This table isn't quite level; see how this marble rolls off it?_
 - **At the same [[h/_height|height]] as some reference; [[c/_constructed|constructed]] as [[l/_level|level]] with.**
 	- _Example: We tried to hang the pictures so that the bottom of the frames were level with the dark line in the wallpaper._
@@ -49,12 +49,12 @@
 	- _Example: His voice has been unchanged. It has been level for 12 hours._
 - **[[c/_calm|Calm]].**
 	- _Example: He kept a level gaze._
-- **In the same position or rank.**
+- **In the same [[p/_position|position]] or rank.**
 - **Straightforward; [[d/_direct|direct]]; [[c/_clear|clear]].**
 - **Well [[b/_balanced|balanced]]; [[e/_even|even]]; [[j/_just|just]]; steady; [[i/_impartial|impartial]].**
 	- _Example: a level head; a level understanding_
 - **Of [[e/_even|even]] tone; without rising or [[f/_falling|falling]] [[i/_inflection|inflection]]; [[m/_monotonic|monotonic]].**
-- **Perpendicular to a [[g/_gravitational|gravitational]] [[f/_force|force]].**
+- **[[p/_perpendicular|Perpendicular]] to a [[g/_gravitational|gravitational]] [[f/_force|force]].**
 	- _Example: The earth's oceans remain level in relation to the pull of gravity._
 ---
 ### Antonyms

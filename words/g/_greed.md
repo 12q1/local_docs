@@ -1,7 +1,7 @@
 # Greed
 ---
 #noun
-- **A selfish or [[e/_excessive|excessive]] [[d/_desire|desire]] for [[m/_more|more]] than is [[n/_needed|needed]] or [[d/_deserved|deserved]], [[e/_especially|especially]] of [[m/_money|money]], wealth, [[f/_food|food]], or [[o/_other|other]] possessions.**
+- **A selfish or [[e/_excessive|excessive]] [[d/_desire|desire]] for [[m/_more|more]] than is [[n/_needed|needed]] or [[d/_deserved|deserved]], [[e/_especially|especially]] of [[m/_money|money]], wealth, [[f/_food|food]], or [[o/_other|other]] [[p/_possessions|possessions]].**
 	- _Example: His greed was his undoing._
 ---
 ### Synonyms

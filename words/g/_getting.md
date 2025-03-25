@@ -5,7 +5,7 @@
 	- _Example: I'm going to get a computer tomorrow from the discount store._
 - **To receive.**
 	- _Example: He got a severe reprimand for that._
-- **(in a perfect [[c/_construction|construction]], with present-tense [[m/_meaning|meaning]]) To [[h/_have|have]]. See usage [[n/_notes|notes]].**
+- **(in a [[p/_perfect|perfect]] [[c/_construction|construction]], with [[p/_present|present]]-tense [[m/_meaning|meaning]]) To [[h/_have|have]]. See usage [[n/_notes|notes]].**
 	- _Example: I've got a concert ticket for you._
 - **To [[f/_fetch|fetch]], [[b/_bring|bring]], take.**
 	- _Example: Can you get my bag from the living-room, please?_
@@ -17,9 +17,9 @@
 	- _Example: I can't get it to work._
 - **To [[c/_cause|cause]] to [[c/_come|come]] or [[g/_go|go]] or [[m/_move|move]].**
 	- _Example: I got him to his room._
-- **To [[c/_cause|cause]] to be in a [[c/_certain|certain]] status or position.**
+- **To [[c/_cause|cause]] to be in a [[c/_certain|certain]] status or [[p/_position|position]].**
 	- _Example: Get him here at once._
-- **(with various prepositions, such as [[i/_into|into]], [[o/_over|over]], or [[b/_behind|behind]]; for specific [[i/_idiomatic|idiomatic]] senses see [[i/_individual|individual]] [[e/_entries|entries]] [[g/_get|get]] [[i/_into|into]], [[g/_get|get]] [[o/_over|over]], [[e/_etc|etc]].) To [[a/_adopt|adopt]], [[a/_assume|assume]], [[a/_arrive|arrive]] at, or progress towards (a [[c/_certain|certain]] position, [[l/_location|location]], state).**
+- **(with various [[p/_prepositions|prepositions]], such as [[i/_into|into]], [[o/_over|over]], or [[b/_behind|behind]]; for specific [[i/_idiomatic|idiomatic]] senses see [[i/_individual|individual]] [[e/_entries|entries]] [[g/_get|get]] [[i/_into|into]], [[g/_get|get]] [[o/_over|over]], [[e/_etc|etc]].) To [[a/_adopt|adopt]], [[a/_assume|assume]], [[a/_arrive|arrive]] at, or progress towards (a [[c/_certain|certain]] [[p/_position|position]], [[l/_location|location]], state).**
 	- _Example: I'm getting into a muddle._
 - **To [[c/_cover|cover]] (a [[c/_certain|certain]] [[d/_distance|distance]]) while travelling.**
 	- _Example: to get a mile_
@@ -29,19 +29,19 @@
 	- _Example: I normally get the 7:45 train._
 - **To respond to (a telephone [[c/_call|call]], a [[d/_doorbell|doorbell]], [[e/_etc|etc]]).**
 	- _Example: Can you get that call, please? I'm busy._
-- **([[f/_followed|followed]] by [[i/_infinitive|infinitive]]) To be [[a/_able|able]], be permitted, or [[h/_have|have]] the [[o/_opportunity|opportunity]] (to [[d/_do|do]] something [[d/_desirable|desirable]] or [[i/_ironically|ironically]] [[i/_implied|implied]] to be [[d/_desirable|desirable]]).**
+- **([[f/_followed|followed]] by [[i/_infinitive|infinitive]]) To be [[a/_able|able]], be [[p/_permitted|permitted]], or [[h/_have|have]] the [[o/_opportunity|opportunity]] (to [[d/_do|do]] something [[d/_desirable|desirable]] or [[i/_ironically|ironically]] [[i/_implied|implied]] to be [[d/_desirable|desirable]]).**
 	- _Example: Great. I get to clean the toilets today._
 - **To understand. ([[c/_compare|compare]] [[g/_get|get]] it)**
 	- _Example: I don't get what you mean by "fun". This place sucks!_
 - **To be told; be the recipient of (a question, [[c/_comparison|comparison]], [[o/_opinion|opinion]], [[e/_etc|etc]].).**
 	- _Example: "You look just like Helen Mirren." / "I get that a lot."_
-- **To be. Used to [[f/_form|form]] the passive of verbs.**
+- **To be. Used to [[f/_form|form]] the [[p/_passive|passive]] of verbs.**
 	- _Example: He got bitten by a dog._
 - **To [[b/_become|become]] [[i/_ill|ill]] with or [[c/_catch|catch]] (a [[d/_disease|disease]]).**
 	- _Example: I went on holiday and got malaria._
 - **To [[c/_catch|catch]] [[o/_out|out]], trick successfully.**
 	- _Example: He keeps calling pretending to be my boss—it gets me every time._
-- **To perplex, stump.**
+- **To [[p/_perplex|perplex]], stump.**
 	- _Example: That question's really got me._
 - **To [[f/_find|find]] as an [[a/_answer|answer]].**
 	- _Example: What did you get for question four?_
@@ -54,7 +54,7 @@
 - **To [[b/_beget|beget]] (of a [[f/_father|father]]).**
 - **To [[l/_learn|learn]]; to [[c/_commit|commit]] to [[m/_memory|memory]]; to [[m/_memorize|memorize]]; sometimes with [[o/_out|out]].**
 	- _Example: to get a lesson;  to get out one's Greek lesson_
-- **Used with a personal pronoun to [[i/_indicate|indicate]] that someone is [[b/_being|being]] pretentious or [[g/_grandiose|grandiose]].**
+- **Used with a [[p/_personal|personal]] pronoun to [[i/_indicate|indicate]] that someone is [[b/_being|being]] [[p/_pretentious|pretentious]] or [[g/_grandiose|grandiose]].**
 	- _Example: Get her with her new hairdo._
 - **To [[g/_go|go]], to [[l/_leave|leave]]; to scram.**
 - **To [[k/_kill|kill]].**

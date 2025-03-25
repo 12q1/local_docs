@@ -2,7 +2,7 @@
 ---
 #verb
 - **To [[c/_cause|cause]] to [[c/_curve|curve]] [[i/_inwards|inwards]].**
-- **To [[c/_change|change]] the tone or pitch of the voice when speaking or singing.**
+- **To [[c/_change|change]] the tone or [[p/_pitch|pitch]] of the voice when speaking or singing.**
 	- _Example: The actress has a great skill of being able to inflect her voice to any situation._
 - **([[g/_grammar|grammar]]) To vary the [[f/_form|form]] of a word to [[e/_express|express]] tense, [[g/_gender|gender]], [[n/_number|number]], [[m/_mood|mood]], [[e/_etc|etc]].**
 - **([[g/_grammar|grammar]], of a word) To be varied in the [[f/_form|form]] to [[e/_express|express]] tense, [[g/_gender|gender]], [[n/_number|number]], [[m/_mood|mood]], [[e/_etc|etc]].**

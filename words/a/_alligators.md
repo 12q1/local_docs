@@ -10,7 +10,7 @@
 ### Synonyms
 - [[g/_gator|gator]]
 #verb
-- **(of [[p/_paint|paint]] or [[o/_other|other]] [[c/_coatings|coatings]]) To [[c/_crack|crack]] in a pattern resembling an [[a/_alligator|alligator]]'s skin.**
+- **(of [[p/_paint|paint]] or [[o/_other|other]] [[c/_coatings|coatings]]) To [[c/_crack|crack]] in a [[p/_pattern|pattern]] resembling an [[a/_alligator|alligator]]'s skin.**
 ---
 #noun
 - **[[o/_one|One]] who [[b/_binds|binds]] or ties.**

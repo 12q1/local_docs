@@ -5,6 +5,6 @@
 	- _Example: I was planning on archiving the documents from 2001._
 ---
 #adjective
-- **[[h/_having|Having]] [[b/_been|been]] placed [[i/_into|into]] an [[a/_archive|archive]].**
+- **[[h/_having|Having]] [[b/_been|been]] [[p/_placed|placed]] [[i/_into|into]] an [[a/_archive|archive]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Centenary
 ---
 #adjective
-- **Of, pertaining to, or [[c/_completing|completing]] a period of 100 [[y/_years|years]].**
+- **Of, [[p/_pertaining|pertaining]] to, or [[c/_completing|completing]] a [[p/_period|period]] of 100 [[y/_years|years]].**
 - **Relating to a [[h/_hundred|hundred]] of [[a/_anything|anything]].**
 ---
 ### Synonyms

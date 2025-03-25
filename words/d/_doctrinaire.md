@@ -1,7 +1,7 @@
 # Doctrinaire
 ---
 #noun
-- **A person who stubbornly [[h/_holds|holds]] to a philosophy or [[o/_opinion|opinion]] regardless of [[i/_its|its]] [[f/_feasibility|feasibility]].**
+- **A [[p/_person|person]] who stubbornly [[h/_holds|holds]] to a [[p/_philosophy|philosophy]] or [[o/_opinion|opinion]] regardless of [[i/_its|its]] [[f/_feasibility|feasibility]].**
 - **In [[f/_france|France]], in 1815-30, [[o/_one|one]] of a school who [[d/_desired|desired]] a [[c/_constitution|constitution]] [[l/_like|like]] that of [[b/_britain|Britain]].**
 ---
 #adjective

@@ -5,7 +5,7 @@
 	- _Example: Yo Paulie! How's it going?_
 - **An [[i/_interjection|interjection]] similar to [[h/_hey|hey]].**
 	- _Example: Yo, check this out!_
-- **Present! [[h/_here|Here]]!**
+- **[[p/_present|Present]]! [[h/_here|Here]]!**
 ---
 ### Synonyms
 - [[a/_ahoy|ahoy]], [[o/_oi|oi]], [[o/_oi|oi]], [[w/_wotcher|wotcher]]

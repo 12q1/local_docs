@@ -1,7 +1,7 @@
 # Equal
 ---
 #noun
-- **A person or thing of [[e/_equal|equal]] status to [[o/_others|others]].**
+- **A [[p/_person|person]] or thing of [[e/_equal|equal]] status to [[o/_others|others]].**
 	- _Example: This beer has no equal._
 - **State of [[b/_being|being]] [[e/_equal|equal]]; [[e/_equality|equality]].**
 ---

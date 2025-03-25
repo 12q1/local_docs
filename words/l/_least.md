@@ -1,7 +1,7 @@
 # Least
 ---
 #noun
-- **Something of the smallest possible [[e/_extent|extent]]; an [[i/_indivisible|indivisible]] unit.**
+- **Something of the smallest [[p/_possible|possible]] [[e/_extent|extent]]; an [[i/_indivisible|indivisible]] unit.**
 ---
 #adverb
 - **Used for [[f/_forming|forming]] superlatives of [[a/_adjectives|adjectives]], [[e/_especially|especially]] those that [[d/_do|do]] not [[f/_form|form]] the superlative by [[a/_adding|adding]] -[[e/_est|est]].**

@@ -9,14 +9,14 @@
 ### Synonyms
 - [[g/_gallivant|gallivant]]
 #noun
-- **A [[g/_greedy|greedy]] and/or stupid person.**
+- **A [[g/_greedy|greedy]] and/or stupid [[p/_person|person]].**
 	- _Example: Get over here, ye good-for-nothing gadǃ_
 ---
 #noun
-- **A sharp-pointed [[o/_object|object]]; a [[g/_goad|goad]].**
+- **A sharp-[[p/_pointed|pointed]] [[o/_object|object]]; a [[g/_goad|goad]].**
 - **A [[m/_metal|metal]] [[b/_bar|bar]].**
-- **A pointed [[m/_metal|metal]] tool for [[b/_breaking|breaking]] or [[c/_chiselling|chiselling]] rock.**
-- **An [[i/_indeterminate|indeterminate]] [[m/_measure|measure]] of [[m/_metal|metal]] produced by a [[f/_furnace|furnace]], perhaps [[e/_equivalent|equivalent]] to the [[b/_bloom|bloom]], perhaps weighing [[a/_around|around]] 100 pounds.**
+- **A [[p/_pointed|pointed]] [[m/_metal|metal]] tool for [[b/_breaking|breaking]] or [[c/_chiselling|chiselling]] rock.**
+- **An [[i/_indeterminate|indeterminate]] [[m/_measure|measure]] of [[m/_metal|metal]] produced by a [[f/_furnace|furnace]], [[p/_perhaps|perhaps]] [[e/_equivalent|equivalent]] to the [[b/_bloom|bloom]], [[p/_perhaps|perhaps]] weighing [[a/_around|around]] 100 [[p/_pounds|pounds]].**
 - **A spike on a [[g/_gauntlet|gauntlet]]; a [[g/_gadling|gadling]].**
 - **A rod or stick, such as a [[f/_fishing|fishing]] rod, a [[m/_measuring|measuring]] rod, or a rod used to [[d/_drive|drive]] [[c/_cattle|cattle]] with.**
 ---

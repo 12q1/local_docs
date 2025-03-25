@@ -5,9 +5,9 @@
 - **Something that is [[y/_yet|yet]] to [[c/_come|come]].**
 ---
 #adjective
-- **[[a/_approaching|Approaching]] or [[a/_about|about]] to take place.**
+- **[[a/_approaching|Approaching]] or [[a/_about|about]] to take [[p/_place|place]].**
 	- _Example: I shall vote in the forthcoming election._
-- **[[a/_available|Available]] when [[n/_needed|needed]]; in place, ready.**
+- **[[a/_available|Available]] when [[n/_needed|needed]]; in [[p/_place|place]], ready.**
 	- _Example: The money was not forthcoming._
 - **Willing to [[c/_co|co]]-[[o/_operate|operate]] or provide [[i/_information|information]]; [[c/_candid|candid]], [[f/_frank|frank]], responsive.**
 	- _Example: Once I explained why I needed to know, she was really forthcoming._

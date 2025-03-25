@@ -1,0 +1,7 @@
+# Poriferous
+---
+#adjective
+- **[[h/_having|Having]] [[p/_pores|pores]].**
+- **Of or related to the [[p/_porifera|Porifera]].**
+---
+---

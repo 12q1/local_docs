@@ -8,7 +8,7 @@
 	- _Example: The Welsh government claims that Cardiff is Europe’s youngest capital._
 - **The [[m/_most|most]] [[i/_important|important]] [[c/_city|city]] in the [[f/_field|field]] specified.**
 - **An uppercase [[l/_letter|letter]].**
-- **The uppermost part of a [[c/_column|column]].**
+- **The uppermost [[p/_part|part]] of a [[c/_column|column]].**
 - **[[k/_knowledge|Knowledge]]; [[a/_awareness|awareness]]; proficiency.**
 	- _Example: Interpreters need a good amount of cultural capital in order to function efficiently in the profession._
 - **(by [[e/_extension|extension]]) The [[c/_chief|chief]] or [[m/_most|most]] [[i/_important|important]] thing.**
@@ -19,7 +19,7 @@
 - [[m/_minuscule|minuscule]]
 #adjective
 - **Of prime [[i/_importance|importance]].**
-- **[[c/_chief|Chief]], in a political sense, as [[b/_being|being]] the seat of the [[g/_general|general]] [[g/_government|government]] of a state or [[n/_nation|nation]].**
+- **[[c/_chief|Chief]], in a [[p/_political|political]] sense, as [[b/_being|being]] the seat of the [[g/_general|general]] [[g/_government|government]] of a state or [[n/_nation|nation]].**
 	- _Example: London and Paris are capital cities._
 - **[[e/_excellent|Excellent]].**
 	- _Example: That is a capital idea!_

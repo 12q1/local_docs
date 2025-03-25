@@ -5,7 +5,7 @@
 - **(by [[e/_extension|extension]]) To [[m/_make|make]] worse; to [[e/_exacerbate|exacerbate]].**
 - **To [[g/_give|give]] [[e/_extra|extra]] weight or [[i/_intensity|intensity]] to; to [[e/_exaggerate|exaggerate]], to [[m/_magnify|magnify]].**
 	- _Example: He aggravated the story._
-- **To pile or [[h/_heap|heap]] (something [[h/_heavy|heavy]] or [[o/_onerous|onerous]]) on or upon someone.**
+- **To [[p/_pile|pile]] or [[h/_heap|heap]] (something [[h/_heavy|heavy]] or [[o/_onerous|onerous]]) on or upon someone.**
 - **To [[e/_exasperate|exasperate]]; to provoke or [[i/_irritate|irritate]].**
 ---
 ### Synonyms

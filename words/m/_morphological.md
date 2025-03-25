@@ -1,6 +1,6 @@
 # Morphological
 ---
 #adjective
-- **Of, or pertaining to, [[m/_morphology|morphology]].**
+- **Of, or [[p/_pertaining|pertaining]] to, [[m/_morphology|morphology]].**
 ---
 ---

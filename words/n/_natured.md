@@ -4,6 +4,6 @@
 - **To [[e/_endow|endow]] with [[n/_natural|natural]] qualities.**
 ---
 #adjective
-- **(in [[c/_combination|combination]]) [[h/_having|Having]] or possessing the specified [[d/_disposition|disposition]] or temperament.**
+- **(in [[c/_combination|combination]]) [[h/_having|Having]] or [[p/_possessing|possessing]] the specified [[d/_disposition|disposition]] or temperament.**
 ---
 ---

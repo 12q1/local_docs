@@ -13,11 +13,11 @@
 - **To [[c/_curtail|curtail]]; to [[c/_cut|cut]] short.**
 - **To strike with the [[h/_hand|hand]].**
 	- _Example: I'll clip ye round the lugs!_
-- **To [[h/_hit|hit]] or strike, [[e/_especially|especially]] in passing.**
+- **To [[h/_hit|hit]] or strike, [[e/_especially|especially]] in [[p/_passing|passing]].**
 	- _Example: The car skidded off the road and clipped a lamppost._
-- **An [[i/_illegal|illegal]] tackle: Throwing the [[b/_body|body]] [[a/_across|across]] the [[b/_back|back]] of an [[o/_opponent|opponent]]'s [[l/_leg|leg]] or [[h/_hitting|hitting]] [[h/_him|him]] from the [[b/_back|back]] [[b/_below|below]] the waist while [[m/_moving|moving]] up from [[b/_behind|behind]] unless the [[o/_opponent|opponent]] is a runner or the [[a/_action|action]] is in [[c/_close|close]] [[l/_line|line]] play.**
+- **An [[i/_illegal|illegal]] tackle: Throwing the [[b/_body|body]] [[a/_across|across]] the [[b/_back|back]] of an [[o/_opponent|opponent]]'s [[l/_leg|leg]] or [[h/_hitting|hitting]] [[h/_him|him]] from the [[b/_back|back]] [[b/_below|below]] the waist while [[m/_moving|moving]] up from [[b/_behind|behind]] unless the [[o/_opponent|opponent]] is a runner or the [[a/_action|action]] is in [[c/_close|close]] [[l/_line|line]] [[p/_play|play]].**
 - **To [[c/_cut|cut]] [[o/_off|off]] a signal [[l/_level|level]] at a [[c/_certain|certain]] [[m/_maximum|maximum]] value.**
-- **To [[d/_discard|discard]] (an [[o/_occluded|occluded]] part of a [[m/_model|model]] or scene) rather than waste resources on rendering it.**
+- **To [[d/_discard|discard]] (an [[o/_occluded|occluded]] [[p/_part|part]] of a [[m/_model|model]] or scene) rather than waste resources on rendering it.**
 - **(Of a [[c/_camera|camera]], [[c/_character|character]] [[m/_model|model]], [[e/_etc|etc]].) To [[m/_move|move]] (through or [[i/_into|into]]) (a rendered [[o/_object|object]] or [[b/_barrier|barrier]]).**
 	- _Example: Clipping through walls is integral to the game's speedruns._
 - **To [[c/_cheat|cheat]], swindle, or [[f/_fleece|fleece]].**

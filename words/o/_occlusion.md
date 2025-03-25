@@ -7,6 +7,6 @@
 - **An [[o/_occluded|occluded]] [[f/_front|front]].**
 - **A [[c/_closure|closure]] within the vocal tract that produces an [[o/_oral|oral]] stop or [[n/_nasal|nasal]] stop.**
 - **The [[a/_absorption|absorption]] of a [[g/_gas|gas]] or [[l/_liquid|liquid]] by a substance such as a [[m/_metal|metal]].**
-- **The [[b/_blocking|blocking]] of the view of part of an [[i/_image|image]] by [[a/_another|another]].**
+- **The [[b/_blocking|blocking]] of the view of [[p/_part|part]] of an [[i/_image|image]] by [[a/_another|another]].**
 ---
 ---

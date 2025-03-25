@@ -1,7 +1,7 @@
 # Backsides
 ---
 #noun
-- **The [[b/_back|back]] side of [[a/_anything|anything]], the part [[o/_opposite|opposite]] [[i/_its|its]] [[f/_front|front]], particularly:**
+- **The [[b/_back|back]] side of [[a/_anything|anything]], the [[p/_part|part]] [[o/_opposite|opposite]] [[i/_its|its]] [[f/_front|front]], [[p/_particularly|particularly]]:**
 - **The reverse or [[o/_opposite|opposite]] of [[a/_anything|anything]].**
 ---
 ### Synonyms

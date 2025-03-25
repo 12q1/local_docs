@@ -1,7 +1,7 @@
 # Neaped
 ---
 #verb
-- **To trap a ship (or ship and [[c/_crew|crew]]) in water too shallow to [[m/_move|move]], [[d/_due|due]] to the smaller tidal range [[o/_occurring|occurring]] in a period of [[n/_neap|neap]] tides.**
+- **To trap a ship (or ship and [[c/_crew|crew]]) in water too shallow to [[m/_move|move]], [[d/_due|due]] to the smaller tidal range [[o/_occurring|occurring]] in a [[p/_period|period]] of [[n/_neap|neap]] tides.**
 - **To [[o/_ooze|ooze]], to sink, to subside, to tail**
 ---
 #adjective

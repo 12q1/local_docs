@@ -3,7 +3,7 @@
 #noun
 - **A [[m/_mediator|mediator]] [[b/_between|between]] a [[b/_buyer|buyer]] and seller.**
 - **A stockbroker.**
-- **A [[m/_mediator|mediator]] in [[g/_general|general]], [[o/_one|one]] who [[l/_liaises|liaises]] [[b/_between|between]] two or [[m/_more|more]] parties to [[a/_attempt|attempt]] to [[a/_achieve|achieve]] an [[o/_outcome|outcome]] of some [[k/_kind|kind]].**
+- **A [[m/_mediator|mediator]] in [[g/_general|general]], [[o/_one|one]] who [[l/_liaises|liaises]] [[b/_between|between]] two or [[m/_more|more]] [[p/_parties|parties]] to [[a/_attempt|attempt]] to [[a/_achieve|achieve]] an [[o/_outcome|outcome]] of some [[k/_kind|kind]].**
 - **An [[a/_agent|agent]] [[i/_involved|involved]] in the [[e/_exchange|exchange]] of [[m/_messages|messages]] or transactions.**
 ---
 #verb

@@ -7,6 +7,6 @@
 - 
 #adjective
 - **Of, or relating to [[h/_heraldry|heraldry]], or to [[h/_heraldic|heraldic]] [[a/_arms|arms]].**
-- **In, or pertaining to, [[a/_armor|armor]].**
+- **In, or [[p/_pertaining|pertaining]] to, [[a/_armor|armor]].**
 ---
 ---

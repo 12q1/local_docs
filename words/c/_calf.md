@@ -8,7 +8,7 @@
 - **A small [[i/_island|island]], [[n/_near|near]] a [[l/_larger|larger]] [[i/_island|island]].**
 	- _Example: the Calf of Man_
 - **A cabless railroad [[e/_engine|engine]].**
-- **An [[a/_awkward|awkward]] or silly [[b/_boy|boy]] or [[y/_young|young]] [[m/_man|man]]; [[a/_any|any]] silly person; a [[d/_dolt|dolt]].**
+- **An [[a/_awkward|awkward]] or silly [[b/_boy|boy]] or [[y/_young|young]] [[m/_man|man]]; [[a/_any|any]] silly [[p/_person|person]]; a [[d/_dolt|dolt]].**
 ---
 ### Synonyms
 - [[b/_bullet|bullet]], [[c/_cowlet|cowlet]], [[c/_cowling|cowling]], [[m/_moggy|moggy]]

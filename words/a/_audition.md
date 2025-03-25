@@ -1,7 +1,7 @@
 # Audition
 ---
 #noun
-- **A performance, by an [[a/_aspiring|aspiring]] performer, to [[d/_demonstrate|demonstrate]] suitability or talent.**
+- **A [[p/_performance|performance]], by an [[a/_aspiring|aspiring]] [[p/_performer|performer]], to [[d/_demonstrate|demonstrate]] suitability or talent.**
 	- _Example: I've been to five auditions this week._
 - **The sense of [[h/_hearing|hearing]].**
 	- _Example: His audition was poor._
@@ -11,9 +11,9 @@
 ### Synonyms
 - [[c/_casting|casting]], [[t/_tryout|tryout]]
 #verb
-- **To [[e/_evaluate|evaluate]] [[o/_one|one]] or [[m/_more|more]] performers in through an [[a/_audition|audition]].**
+- **To [[e/_evaluate|evaluate]] [[o/_one|one]] or [[m/_more|more]] [[p/_performers|performers]] in through an [[a/_audition|audition]].**
 	- _Example: We auditioned several actors for the part._
-- **To take part in such a performance.**
+- **To take [[p/_part|part]] in such a [[p/_performance|performance]].**
 	- _Example: Several actors auditioned for the part._
 ---
 ---

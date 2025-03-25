@@ -4,7 +4,7 @@
 - **The twenty-second [[l/_letter|letter]] of the [[c/_classical|Classical]] and [[m/_modern|Modern]] [[g/_greek|Greek]] [[a/_alphabets|alphabets]].**
 ---
 #noun
-- **A [[l/_life|life]] [[f/_force|force]] in traditional [[c/_chinese|Chinese]] philosophy, [[c/_culture|culture]], [[m/_medicine|medicine]], [[e/_etc|etc]], related (but not [[l/_limited|limited]]) to [[b/_breath|breath]] and [[c/_circulation|circulation]].**
+- **A [[l/_life|life]] [[f/_force|force]] in traditional [[c/_chinese|Chinese]] [[p/_philosophy|philosophy]], [[c/_culture|culture]], [[m/_medicine|medicine]], [[e/_etc|etc]], related (but not [[l/_limited|limited]]) to [[b/_breath|breath]] and [[c/_circulation|circulation]].**
 ---
 #noun
 - **The [[c/_chinese|Chinese]] [[f/_foot|foot]], a traditional [[c/_chinese|Chinese]] unit of [[l/_length|length]] [[b/_based|based]] on the [[h/_human|human]] [[f/_forearm|forearm]].**

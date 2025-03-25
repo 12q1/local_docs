@@ -2,9 +2,9 @@
 ---
 #noun
 - **The process or state of [[g/_growing|growing]] worse, or the state of [[h/_having|having]] [[b/_become|become]] worse.**
-- **That [[c/_condition|condition]] of a tissue or an [[o/_organ|organ]] in which [[i/_its|its]] vitality [[h/_has|has]] [[b/_become|become]] [[e/_either|either]] [[d/_diminished|diminished]] or perverted; a substitution of a [[l/_lower|lower]] for a [[h/_higher|higher]] [[f/_form|form]] of structure.**
+- **That [[c/_condition|condition]] of a tissue or an [[o/_organ|organ]] in which [[i/_its|its]] vitality [[h/_has|has]] [[b/_become|become]] [[e/_either|either]] [[d/_diminished|diminished]] or [[p/_perverted|perverted]]; a substitution of a [[l/_lower|lower]] for a [[h/_higher|higher]] [[f/_form|form]] of structure.**
 	- _Example: fatty degeneration of the liver_
-- **[[g/_gradual|Gradual]] [[d/_deterioration|deterioration]], from [[n/_natural|natural]] [[c/_causes|causes]], of [[a/_any|any]] [[c/_class|class]] of [[a/_animals|animals]] or plants or [[a/_any|any]] particular [[o/_organ|organ]] or [[o/_organs|organs]]; [[h/_hereditary|hereditary]] [[d/_degradation|degradation]] of type.**
+- **[[g/_gradual|Gradual]] [[d/_deterioration|deterioration]], from [[n/_natural|natural]] [[c/_causes|causes]], of [[a/_any|any]] [[c/_class|class]] of [[a/_animals|animals]] or [[p/_plants|plants]] or [[a/_any|any]] [[p/_particular|particular]] [[o/_organ|organ]] or [[o/_organs|organs]]; [[h/_hereditary|hereditary]] [[d/_degradation|degradation]] of type.**
 - **A thing that [[h/_has|has]] [[d/_degenerated|degenerated]].**
 ---
 ### Synonyms

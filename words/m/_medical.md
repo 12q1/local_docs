@@ -5,14 +5,14 @@
 	- _Example: You'll have to get a medical before you apply for that job._
 ---
 #adjective
-- **Of or pertaining to the practice of [[m/_medicine|medicine]].**
+- **Of or [[p/_pertaining|pertaining]] to the [[p/_practice|practice]] of [[m/_medicine|medicine]].**
 	- _Example: Do you have any medical experience?_
 - **[[i/_intended|Intended]] to [[h/_have|have]] a therapeutic [[e/_effect|effect]]; [[m/_medicinal|medicinal]].**
 	- _Example: medical marijuana; medical cannabis; medical treatment_
 - **Requiring [[m/_medical|medical]] treatment.**
 	- _Example: A costly medical condition can bankrupt you if it doesn't kill you first._
-- **Pertaining to the state of [[o/_one|one]]'s [[h/_health|health]].**
-- **Pertaining to or requiring treatment by [[o/_other|other]] than surgical [[m/_means|means]].**
+- **[[p/_pertaining|Pertaining]] to the state of [[o/_one|one]]'s [[h/_health|health]].**
+- **[[p/_pertaining|Pertaining]] to or requiring treatment by [[o/_other|other]] than surgical [[m/_means|means]].**
 	- _Example: medical ward_
 ---
 ### Synonyms

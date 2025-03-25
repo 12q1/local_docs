@@ -1,7 +1,7 @@
 # Buttocks
 ---
 #noun
-- **(usually in the plural) [[e/_each|Each]] of the two [[l/_large|large]] [[f/_fleshy|fleshy]] [[h/_halves|halves]] of the posterior part of the [[b/_body|body]] [[b/_between|between]] the [[b/_base|base]] of the [[b/_back|back]], the perineum and the top of the [[l/_legs|legs]].**
+- **(usually in the [[p/_plural|plural]]) [[e/_each|Each]] of the two [[l/_large|large]] [[f/_fleshy|fleshy]] [[h/_halves|halves]] of the [[p/_posterior|posterior]] [[p/_part|part]] of the [[b/_body|body]] [[b/_between|between]] the [[b/_base|base]] of the [[b/_back|back]], the [[p/_perineum|perineum]] and the top of the [[l/_legs|legs]].**
 - **The [[c/_convexity|convexity]] of a ship [[b/_behind|behind]], under the stern.**
 ---
 ### Synonyms

@@ -6,7 +6,7 @@
 - **A [[d/_difference|difference]] or variation.**
 ---
 #verb
-- **To be [[d/_distributed|distributed]] in a [[f/_flowing|flowing]] pattern.**
+- **To be [[d/_distributed|distributed]] in a [[f/_flowing|flowing]] [[p/_pattern|pattern]].**
 ---
 #noun
 - **[[d/_differential|Differential]] [[c/_calculus|calculus]]**

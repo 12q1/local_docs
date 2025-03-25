@@ -1,7 +1,7 @@
 # Ninnies
 ---
 #noun
-- **A silly or [[f/_foolish|foolish]] person.**
+- **A silly or [[f/_foolish|foolish]] [[p/_person|person]].**
 ---
 ### Synonyms
 - [[d/_dummkopf|dummkopf]]

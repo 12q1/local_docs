@@ -1,9 +1,9 @@
 # Impaling
 ---
 #verb
-- **To pierce (something) with [[a/_any|any]] [[l/_long|long]], pointed [[o/_object|object]].**
-- **To place two [[c/_coats|coats]] of [[a/_arms|arms]] side by side on the same shield ([[o/_often|often]] those of two spouses upon [[m/_marriage|marriage]]).**
-- **To pierce with a [[p/_pale|pale]]; to put to [[d/_death|death]] by [[f/_fixing|fixing]] on a sharp stake.**
+- **To [[p/_pierce|pierce]] (something) with [[a/_any|any]] [[l/_long|long]], [[p/_pointed|pointed]] [[o/_object|object]].**
+- **To [[p/_place|place]] two [[c/_coats|coats]] of [[a/_arms|arms]] side by side on the same shield ([[o/_often|often]] those of two spouses upon [[m/_marriage|marriage]]).**
+- **To [[p/_pierce|pierce]] with a [[p/_pale|pale]]; to put to [[d/_death|death]] by [[f/_fixing|fixing]] on a sharp stake.**
 - **To [[e/_enclose|enclose]] or [[f/_fence|fence]] with stakes.**
 ---
 ### Synonyms

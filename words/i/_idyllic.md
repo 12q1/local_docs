@@ -4,7 +4,7 @@
 - **An [[i/_idyllic|idyllic]] state or situation. (A substantive use of the [[a/_adjective|adjective]])**
 ---
 #adjective
-- **Of or pertaining to [[i/_idylls|idylls]].**
-- **[[e/_extremely|Extremely]] [[h/_happy|happy]], peaceful, or picturesque.**
+- **Of or [[p/_pertaining|pertaining]] to [[i/_idylls|idylls]].**
+- **[[e/_extremely|Extremely]] [[h/_happy|happy]], [[p/_peaceful|peaceful]], or [[p/_picturesque|picturesque]].**
 ---
 ---

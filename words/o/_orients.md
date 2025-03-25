@@ -1,14 +1,14 @@
 # Orients
 ---
 #noun
-- **The part of the [[h/_horizon|horizon]] where the sun [[f/_first|first]] [[a/_appears|appears]] in the [[m/_morning|morning]]; the [[e/_east|east]].**
-- **A pearl [[o/_originating|originating]] from the [[i/_indian|Indian]] region, reputed to be of [[g/_great|great]] [[b/_brilliance|brilliance]]; (by [[e/_extension|extension]]) [[a/_any|any]] pearl of particular [[b/_beauty|beauty]] and value.**
-- **(by [[e/_extension|extension]]) The [[b/_brilliance|brilliance]] or [[c/_colour|colour]] of a [[h/_high|high]]-quality pearl.**
+- **The [[p/_part|part]] of the [[h/_horizon|horizon]] where the sun [[f/_first|first]] [[a/_appears|appears]] in the [[m/_morning|morning]]; the [[e/_east|east]].**
+- **A [[p/_pearl|pearl]] [[o/_originating|originating]] from the [[i/_indian|Indian]] region, reputed to be of [[g/_great|great]] [[b/_brilliance|brilliance]]; (by [[e/_extension|extension]]) [[a/_any|any]] [[p/_pearl|pearl]] of [[p/_particular|particular]] [[b/_beauty|beauty]] and value.**
+- **(by [[e/_extension|extension]]) The [[b/_brilliance|brilliance]] or [[c/_colour|colour]] of a [[h/_high|high]]-quality [[p/_pearl|pearl]].**
 ---
 #verb
-- **To [[b/_build|build]] or place (something) so as to [[f/_face|face]] [[e/_eastward|eastward]].**
-- **(by [[e/_extension|extension]]) To [[a/_align|align]] or place (a person or [[o/_object|object]]) so that [[h/_his|his]], [[h/_her|her]], or [[i/_its|its]] [[e/_east|east]] side, [[n/_north|north]] side, [[e/_etc|etc]]., is positioned toward the [[c/_corresponding|corresponding]] points of the [[c/_compass|compass]]; (specifically) to rotate (a [[m/_map|map]] [[a/_attached|attached]] to a plane table) until the [[l/_line|line]] of [[d/_direction|direction]] [[b/_between|between]] [[a/_any|any]] two of [[i/_its|its]] points is parallel to the [[c/_corresponding|corresponding]] [[d/_direction|direction]] in [[n/_nature|nature]].**
-- **To [[d/_direct|direct]] towards or point at a particular [[d/_direction|direction]].**
+- **To [[b/_build|build]] or [[p/_place|place]] (something) so as to [[f/_face|face]] [[e/_eastward|eastward]].**
+- **(by [[e/_extension|extension]]) To [[a/_align|align]] or [[p/_place|place]] (a [[p/_person|person]] or [[o/_object|object]]) so that [[h/_his|his]], [[h/_her|her]], or [[i/_its|its]] [[e/_east|east]] side, [[n/_north|north]] side, [[e/_etc|etc]]., is [[p/_positioned|positioned]] toward the [[c/_corresponding|corresponding]] [[p/_points|points]] of the [[c/_compass|compass]]; (specifically) to rotate (a [[m/_map|map]] [[a/_attached|attached]] to a [[p/_plane|plane]] table) until the [[l/_line|line]] of [[d/_direction|direction]] [[b/_between|between]] [[a/_any|any]] two of [[i/_its|its]] [[p/_points|points]] is [[p/_parallel|parallel]] to the [[c/_corresponding|corresponding]] [[d/_direction|direction]] in [[n/_nature|nature]].**
+- **To [[d/_direct|direct]] towards or [[p/_point|point]] at a [[p/_particular|particular]] [[d/_direction|direction]].**
 	- _Example: The workers oriented all the signs to face the road._
 - **To [[d/_determine|determine]] which [[d/_direction|direction]] [[o/_one|one]] is [[f/_facing|facing]].**
 	- _Example: Let me just orient myself and we can be on our way._

@@ -1,6 +1,6 @@
 # Machtpolitik
 ---
 #noun
-- **Power politics.**
+- **[[p/_power|Power]] [[p/_politics|politics]].**
 ---
 ---

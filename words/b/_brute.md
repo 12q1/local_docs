@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[a/_animal|animal]] seen as [[b/_being|being]] without [[h/_human|human]] reason; a senseless [[b/_beast|beast]].**
-- **A person with the [[c/_characteristics|characteristics]] of an unthinking [[a/_animal|animal]]; a [[c/_coarse|coarse]] or [[b/_brutal|brutal]] person.**
+- **A [[p/_person|person]] with the [[c/_characteristics|characteristics]] of an unthinking [[a/_animal|animal]]; a [[c/_coarse|coarse]] or [[b/_brutal|brutal]] [[p/_person|person]].**
 	- _Example: One of them was a hulking brute of a man, heavily tattooed and with a hardened face that practically screamed "I just got out of jail."_
 - **([[c/_cambridge|Cambridge]] University slang) [[o/_one|One]] who [[h/_has|has]] not [[y/_yet|yet]] [[m/_matriculated|matriculated]].**
 ---
@@ -18,7 +18,7 @@
 - **[[c/_crude|Crude]], unpolished.**
 - **Strong, [[b/_blunt|blunt]], and spontaneous.**
 	- _Example: I punched him with brute force._
-- **[[b/_brutal|Brutal]]; [[c/_cruel|cruel]]; [[f/_fierce|fierce]]; [[f/_ferocious|ferocious]]; savage; pitiless.**
+- **[[b/_brutal|Brutal]]; [[c/_cruel|cruel]]; [[f/_fierce|fierce]]; [[f/_ferocious|ferocious]]; savage; [[p/_pitiless|pitiless]].**
 	- _Example: brute violence_
 ---
 ---

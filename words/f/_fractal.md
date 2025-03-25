@@ -7,6 +7,6 @@
 #adjective
 - **[[h/_having|Having]] the [[f/_form|form]] of a [[f/_fractal|fractal]].**
 - **[[e/_exhibiting|Exhibiting]] a [[f/_fractal|fractal]]-[[l/_like|like]] property.**
-- **[[h/_having|Having]] a [[b/_broken|broken]] part**
+- **[[h/_having|Having]] a [[b/_broken|broken]] [[p/_part|part]]**
 ---
 ---

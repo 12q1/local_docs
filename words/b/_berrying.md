@@ -1,7 +1,7 @@
 # Berrying
 ---
 #verb
-- **To pick [[b/_berries|berries]].**
+- **To [[p/_pick|pick]] [[b/_berries|berries]].**
 	- _Example: On summer days Grandma used to take us berrying, whether we wanted to go or not._
 - **To [[b/_bear|bear]] or produce [[b/_berries|berries]].**
 ---
@@ -10,6 +10,6 @@
 - **To thresh ([[g/_grain|grain]]).**
 ---
 #noun
-- **An [[e/_expedition|expedition]] to pick [[b/_berries|berries]].**
+- **An [[e/_expedition|expedition]] to [[p/_pick|pick]] [[b/_berries|berries]].**
 ---
 ---

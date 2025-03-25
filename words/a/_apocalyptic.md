@@ -1,13 +1,13 @@
 # Apocalyptic
 ---
 #noun
-- **[[o/_one|One]] who predicts [[a/_apocalypse|apocalypse]].**
+- **[[o/_one|One]] who [[p/_predicts|predicts]] [[a/_apocalypse|apocalypse]].**
 ---
 ### Synonyms
 - [[a/_apocalypticist|apocalypticist]], [[d/_doomsayer|doomsayer]]
 #adjective
 - **Of or relating to an [[a/_apocalypse|apocalypse]]:**
-- **Portending a [[f/_future|future]] [[a/_apocalypse|apocalypse]] ([[d/_disaster|disaster]], [[d/_devastation|devastation]], or [[d/_doom|doom]]).**
+- **[[p/_portending|Portending]] a [[f/_future|future]] [[a/_apocalypse|apocalypse]] ([[d/_disaster|disaster]], [[d/_devastation|devastation]], or [[d/_doom|doom]]).**
 - **Eggcorn of [[a/_apoplectic|apoplectic]].**
 	- _Example: He was apocalyptically furious._
 ---

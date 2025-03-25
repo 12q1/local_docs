@@ -8,6 +8,6 @@
 ---
 #noun
 - **An [[a/_arrangement|arrangement]] of [[m/_musical|musical]] [[c/_chords|chords]].**
-- **The [[a/_ability|ability]], using a [[k/_keyboard|keyboard]] or similar [[d/_device|device]], to [[e/_enter|enter]] [[c/_characters|characters]] or [[c/_commands|commands]] in the [[f/_form|form]] of "[[c/_chords|chords]]" by pressing several [[k/_keys|keys]] simultaneously.**
+- **The [[a/_ability|ability]], using a [[k/_keyboard|keyboard]] or similar [[d/_device|device]], to [[e/_enter|enter]] [[c/_characters|characters]] or [[c/_commands|commands]] in the [[f/_form|form]] of "[[c/_chords|chords]]" by [[p/_pressing|pressing]] several [[k/_keys|keys]] simultaneously.**
 ---
 ---

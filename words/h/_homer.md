@@ -1,7 +1,7 @@
 # Homer
 ---
 #noun
-- **Various [[f/_former|former]] units of volume, particularly:**
+- **Various [[f/_former|former]] units of volume, [[p/_particularly|particularly]]:**
 ---
 ### Synonyms
 - [[h/_homer|homer]], [[o/_omer|omer]]

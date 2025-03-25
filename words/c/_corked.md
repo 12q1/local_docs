@@ -8,10 +8,10 @@
 	- _Example: He corked his bat, which was discovered when it broke, causing a controversy._
 - **To [[i/_injure|injure]] through a [[b/_blow|blow]]; to [[i/_induce|induce]] a [[h/_haematoma|haematoma]].**
 	- _Example: The vicious tackle corked his leg._
-- **To position [[o/_one|one]]'s [[d/_drift|drift]] [[n/_net|net]] [[j/_just|just]] [[o/_outside|outside]] of [[a/_another|another]] person's [[n/_net|net]], thereby [[i/_intercepting|intercepting]] and [[c/_catching|catching]] [[a/_all|all]] the [[f/_fish|fish]] that would [[h/_have|have]] [[g/_gone|gone]] [[i/_into|into]] that person's [[n/_net|net]].**
+- **To [[p/_position|position]] [[o/_one|one]]'s [[d/_drift|drift]] [[n/_net|net]] [[j/_just|just]] [[o/_outside|outside]] of [[a/_another|another]] [[p/_person|person]]'s [[n/_net|net]], thereby [[i/_intercepting|intercepting]] and [[c/_catching|catching]] [[a/_all|all]] the [[f/_fish|fish]] that would [[h/_have|have]] [[g/_gone|gone]] [[i/_into|into]] that [[p/_person|person]]'s [[n/_net|net]].**
 ---
 #verb
-- **To perform such a [[m/_maneuver|maneuver]].**
+- **To [[p/_perform|perform]] such a [[m/_maneuver|maneuver]].**
 ---
 #adjective
 - **Of a [[c/_container|container]], [[e/_especially|especially]] a [[b/_bottle|bottle]], [[c/_closed|closed]] with a [[c/_cork|cork]].**

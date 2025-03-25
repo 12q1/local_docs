@@ -2,11 +2,11 @@
 ---
 #noun
 - **An [[a/_act|act]] of [[b/_blushing|blushing]]; a red [[g/_glow|glow]] on the [[f/_face|face]] [[c/_caused|caused]] by shame, [[m/_modesty|modesty]], [[e/_etc|etc]].**
-- **A [[g/_glow|glow]]; a [[f/_flush|flush]] of [[c/_colour|colour]], [[e/_especially|especially]] pink or red.**
+- **A [[g/_glow|glow]]; a [[f/_flush|flush]] of [[c/_colour|colour]], [[e/_especially|especially]] [[p/_pink|pink]] or red.**
 - **[[f/_feeling|Feeling]] or [[a/_appearance|appearance]] of [[o/_optimism|optimism]].**
-- **A sort of [[m/_makeup|makeup]], [[f/_frequently|frequently]] a powder, used to redden the [[c/_cheeks|cheeks]].**
-- **A [[c/_color|color]] [[b/_between|between]] pink and [[c/_cream|cream]].**
-- **A [[p/_pale|pale]] pink wine [[m/_made|made]] by removing the [[d/_dark|dark]] [[g/_grape|grape]] skins at the required point [[d/_during|during]] [[f/_fermentation|fermentation]].**
+- **A sort of [[m/_makeup|makeup]], [[f/_frequently|frequently]] a [[p/_powder|powder]], used to redden the [[c/_cheeks|cheeks]].**
+- **A [[c/_color|color]] [[b/_between|between]] [[p/_pink|pink]] and [[c/_cream|cream]].**
+- **A [[p/_pale|pale]] [[p/_pink|pink]] wine [[m/_made|made]] by removing the [[d/_dark|dark]] [[g/_grape|grape]] skins at the required [[p/_point|point]] [[d/_during|during]] [[f/_fermentation|fermentation]].**
 ---
 ### Synonyms
 - [[r/_rosé|rosé]], [[b/_blusher|blusher]], [[r/_rouge|rouge]]
@@ -16,7 +16,7 @@
 - **To be [[a/_ashamed|ashamed]] or [[e/_embarrassed|embarrassed]] (to [[d/_do|do]] something).**
 - **To [[b/_become|become]] red.**
 - **To suffuse with a [[b/_blush|blush]]; to redden; to [[m/_make|make]] rosy.**
-- **To [[c/_change|change]] skin [[c/_color|color]] in the [[f/_face|face]] (to a particular shade).**
+- **To [[c/_change|change]] skin [[c/_color|color]] in the [[f/_face|face]] (to a [[p/_particular|particular]] shade).**
 	- _Example: I wasn't surprised, but it was embarrassing enough that I blushed a little pink._
 - **To [[e/_express|express]] or [[m/_make|make]] [[k/_known|known]] by [[b/_blushing|blushing]].**
 	- _Example: Looking at me with a knowing glare, she blushed her discomfort with the situation._

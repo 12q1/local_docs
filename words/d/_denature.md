@@ -1,7 +1,7 @@
 # Denature
 ---
 #verb
-- **To take [[a/_away|away]] a [[n/_natural|natural]] [[c/_characteristic|characteristic]] or [[i/_inherent|inherent]] property of (a thing or a person).**
+- **To take [[a/_away|away]] a [[n/_natural|natural]] [[c/_characteristic|characteristic]] or [[i/_inherent|inherent]] property of (a thing or a [[p/_person|person]]).**
 - **To [[a/_add|add]] something to ([[a/_alcohol|alcohol]]) that [[m/_makes|makes]] it unsuitable for [[c/_consumption|consumption]] but [[l/_leaves|leaves]] it suitable for [[o/_other|other]] purposes.**
 	- _Example: While you cannot drink denatured alcohol, you can still use it to remove sticker glue from most surfaces._
 - **To [[a/_alter|alter]] [[i/_its|its]] [[o/_original|original]] [[f/_form|form]] or state, [[e/_especially|especially]] of a protein, by [[h/_heat|heat]], [[a/_acidity|acidity]] [[e/_etc|etc]].**

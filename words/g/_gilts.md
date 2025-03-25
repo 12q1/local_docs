@@ -7,6 +7,6 @@
 - **A [[g/_gilded|gilded]] [[o/_object|object]], an [[o/_object|object]] [[c/_covered|covered]] with [[g/_gold|gold]].**
 ---
 #noun
-- **A [[y/_young|young]] [[f/_female|female]] pig, at or [[n/_nearing|nearing]] the [[a/_age|age]] of [[f/_first|first]] [[b/_breeding|breeding]].**
+- **A [[y/_young|young]] [[f/_female|female]] [[p/_pig|pig]], at or [[n/_nearing|nearing]] the [[a/_age|age]] of [[f/_first|first]] [[b/_breeding|breeding]].**
 ---
 ---

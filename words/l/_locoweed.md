@@ -1,7 +1,7 @@
 # Locoweed
 ---
 #noun
-- **[[a/_any|Any]] of several plants [[i/_indigenous|indigenous]] to the western United States, of [[g/_genus|genus]] [[o/_oxytropis|Oxytropis]] or [[a/_astragalus|Astragalus]].**
+- **[[a/_any|Any]] of several [[p/_plants|plants]] [[i/_indigenous|indigenous]] to the western United States, of [[g/_genus|genus]] [[o/_oxytropis|Oxytropis]] or [[a/_astragalus|Astragalus]].**
 ---
 ### Synonyms
 - [[a/_astragal|astragal]], [[a/_astragalus|astragalus]], [[o/_oxytrope|oxytrope]], [[c/_crazyweed|crazyweed]], [[l/_loco|loco]]

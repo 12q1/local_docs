@@ -1,6 +1,6 @@
 # Narc
 ---
 #noun
-- **A [[n/_narcotics|narcotics]] squad police [[o/_officer|officer]].**
+- **A [[n/_narcotics|narcotics]] squad [[p/_police|police]] [[o/_officer|officer]].**
 ---
 ---

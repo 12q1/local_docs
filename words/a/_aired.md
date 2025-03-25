@@ -10,7 +10,7 @@
 - **To [[i/_ignore|ignore]].**
 ---
 #adjective
-- **(of a [[c/_complaint|complaint]] or problem) [[h/_having|Having]] [[b/_been|been]] uttered or spoken of, such that [[c/_certain|certain]] persons are [[a/_aware|aware]].**
+- **(of a [[c/_complaint|complaint]] or problem) [[h/_having|Having]] [[b/_been|been]] uttered or spoken of, such that [[c/_certain|certain]] [[p/_persons|persons]] are [[a/_aware|aware]].**
 - **(of a show) [[h/_having|Having]] [[b/_been|been]] [[b/_broadcast|broadcast]], such as on television or radio.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Macabre
 ---
 #adjective
-- **Representing or personifying [[d/_death|death]].**
+- **Representing or [[p/_personifying|personifying]] [[d/_death|death]].**
 - **[[o/_obsessed|Obsessed]] with [[d/_death|death]] or the [[g/_gruesome|gruesome]].**
 - **[[g/_ghastly|Ghastly]], shocking, terrifying.**
 ---

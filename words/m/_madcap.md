@@ -1,8 +1,8 @@
 # Madcap
 ---
 #noun
-- **An [[i/_impulsive|impulsive]], [[h/_hasty|hasty]], [[c/_capricious|capricious]] person.**
-- **An [[i/_insane|insane]] person, a [[l/_lunatic|lunatic]].**
+- **An [[i/_impulsive|impulsive]], [[h/_hasty|hasty]], [[c/_capricious|capricious]] [[p/_person|person]].**
+- **An [[i/_insane|insane]] [[p/_person|person]], a [[l/_lunatic|lunatic]].**
 ---
 #adjective
 - **[[i/_impulsive|Impulsive]], [[h/_hasty|hasty]] or reckless; [[c/_capricious|capricious]].**

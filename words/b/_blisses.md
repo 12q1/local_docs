@@ -1,6 +1,6 @@
 # Blisses
 ---
 #noun
-- **Perfect [[h/_happiness|happiness]]**
+- **[[p/_perfect|Perfect]] [[h/_happiness|happiness]]**
 ---
 ---

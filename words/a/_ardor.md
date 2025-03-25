@@ -1,8 +1,8 @@
 # Ardor
 ---
 #noun
-- **[[g/_great|Great]] warmth of [[f/_feeling|feeling]]; [[f/_fervor|fervor]]; passion.**
-- **Spirit; [[e/_enthusiasm|enthusiasm]]; passion.**
+- **[[g/_great|Great]] warmth of [[f/_feeling|feeling]]; [[f/_fervor|fervor]]; [[p/_passion|passion]].**
+- **Spirit; [[e/_enthusiasm|enthusiasm]]; [[p/_passion|passion]].**
 - **[[i/_intense|Intense]] [[h/_heat|heat]].**
 ---
 ### Synonyms

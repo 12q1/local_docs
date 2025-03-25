@@ -7,7 +7,7 @@
 	- _Example: My boss dumped a whole mess of projects on my desk today._
 - **[[e/_excrement|Excrement]].**
 	- _Example: Parked under a tree, my car was soon covered in birds' mess._
-- **A person in a state of ([[e/_especially|especially]] [[e/_emotional|emotional]]) turmoil or [[d/_disarray|disarray]]; an [[e/_emotional|emotional]] wreck.**
+- **A [[p/_person|person]] in a state of ([[e/_especially|especially]] [[e/_emotional|emotional]]) turmoil or [[d/_disarray|disarray]]; an [[e/_emotional|emotional]] wreck.**
 	- _Example: Between the pain and the depression, I'm a mess._
 ---
 #verb

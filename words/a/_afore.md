@@ -2,7 +2,7 @@
 ---
 #adverb
 - **[[b/_before|Before]].**
-- **In the [[f/_fore|fore]] part of a ship.**
+- **In the [[f/_fore|fore]] [[p/_part|part]] of a ship.**
 ---
 #preposition
 - **[[b/_before|Before]]; in [[a/_advance|advance]] of the time of.**

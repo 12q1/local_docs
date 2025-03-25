@@ -6,7 +6,7 @@
 - **([[c/_commercial|commercial]]) To sell a [[d/_debt|debt]] or [[d/_debts|debts]] to an [[a/_agent|agent]] (the [[f/_factor|factor]]) to [[c/_collect|collect]].**
 ---
 #noun
-- **A [[f/_financial|financial]] transaction whereby a [[b/_business|business]] sells [[i/_its|its]] [[a/_accounts|accounts]] receivable to a third party ([[c/_called|called]] a [[f/_factor|factor]]) at a [[d/_discount|discount]].**
+- **A [[f/_financial|financial]] transaction whereby a [[b/_business|business]] sells [[i/_its|its]] [[a/_accounts|accounts]] receivable to a third [[p/_party|party]] ([[c/_called|called]] a [[f/_factor|factor]]) at a [[d/_discount|discount]].**
 - **The process of [[f/_factorization|factorization]].**
 ---
 ---

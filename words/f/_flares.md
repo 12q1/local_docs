@@ -7,12 +7,12 @@
 - **A sudden [[e/_eruption|eruption]] or [[o/_outbreak|outbreak]]; a [[f/_flare|flare]]-up.**
 - **A widening of an [[o/_object|object]] with an [[o/_otherwise|otherwise]] roughly [[c/_constant|constant]] width.**
 	- _Example: During assembly of a flare tube fitting, a flare nut is used to secure the flared tubing’s tapered end to the also tapered fitting, producing a pressure-resistant, leak-tight seal._
-- **(in plural) [[b/_bell|Bell]]-[[b/_bottom|bottom]] trousers.**
+- **(in [[p/_plural|plural]]) [[b/_bell|Bell]]-[[b/_bottom|bottom]] trousers.**
 - **The transition from [[d/_downward|downward]] [[f/_flight|flight]] to [[l/_level|level]] [[f/_flight|flight]] [[j/_just|just]] [[b/_before|before]] [[l/_landing|landing]].**
 	- _Example: The captain executed the flare perfectly, and we lightly touched down._
 - **A [[l/_low|low]] [[f/_fly|fly]] [[b/_ball|ball]] that is [[h/_hit|hit]] in the region [[b/_between|between]] the [[i/_infielders|infielders]] and the [[o/_outfielders|outfielders]].**
 	- _Example: Jones hits a little flare to left that falls for a single._
-- **A route run by the running [[b/_back|back]], releasing toward the sideline and then slightly [[a/_arcing|arcing]] upfield [[l/_looking|looking]] for a short pass.**
+- **A route run by the running [[b/_back|back]], releasing toward the sideline and then slightly [[a/_arcing|arcing]] upfield [[l/_looking|looking]] for a short [[p/_pass|pass]].**
 - **Short for [[l/_lens|lens]] [[f/_flare|flare]].**
 ---
 ### Synonyms
@@ -35,6 +35,6 @@
 ### Synonyms
 - 
 #noun
-- **[[b/_bell|Bell]]-[[b/_bottoms|bottoms]], pants with [[f/_flared|flared]] [[l/_legs|legs]].**
+- **[[b/_bell|Bell]]-[[b/_bottoms|bottoms]], [[p/_pants|pants]] with [[f/_flared|flared]] [[l/_legs|legs]].**
 ---
 ---

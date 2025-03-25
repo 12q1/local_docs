@@ -13,7 +13,7 @@
 	- _Example: to evacuate a contract or marriage_
 ---
 #adjective
-- **[[h/_having|Having]] [[h/_had|had]] population removed, by [[e/_evacuation|evacuation]].**
+- **[[h/_having|Having]] [[h/_had|had]] [[p/_population|population]] removed, by [[e/_evacuation|evacuation]].**
 - **[[c/_containing|Containing]] a vacuum.**
 	- _Example: The evacuated flask imploded with a pop when it could no longer stand the outside air pressure._
 ---

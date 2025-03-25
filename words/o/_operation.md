@@ -1,10 +1,10 @@
 # Operation
 ---
 #noun
-- **The [[m/_method|method]] by which a [[d/_device|device]] performs [[i/_its|its]] [[f/_function|function]].**
-- **The [[m/_method|method]] or practice by which [[a/_actions|actions]] are [[d/_done|done]].**
-- **The [[a/_act|act]] or process of [[o/_operating|operating]]; [[a/_agency|agency]]; the [[e/_exertion|exertion]] of power, physical, [[m/_mechanical|mechanical]], or [[m/_moral|moral]].**
-- **A planned undertaking.**
+- **The [[m/_method|method]] by which a [[d/_device|device]] [[p/_performs|performs]] [[i/_its|its]] [[f/_function|function]].**
+- **The [[m/_method|method]] or [[p/_practice|practice]] by which [[a/_actions|actions]] are [[d/_done|done]].**
+- **The [[a/_act|act]] or process of [[o/_operating|operating]]; [[a/_agency|agency]]; the [[e/_exertion|exertion]] of [[p/_power|power]], [[p/_physical|physical]], [[m/_mechanical|mechanical]], or [[m/_moral|moral]].**
+- **A [[p/_planned|planned]] undertaking.**
 	- _Example: The Katrina relief operation was considered botched._
 - **A [[b/_business|business]] or [[o/_organization|organization]].**
 	- _Example: They run a multinational produce-supply operation._

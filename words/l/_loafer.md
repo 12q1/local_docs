@@ -1,7 +1,7 @@
 # Loafer
 ---
 #noun
-- **An [[i/_idle|idle]] person.**
+- **An [[i/_idle|idle]] [[p/_person|person]].**
 - **A shoe with [[n/_no|no]] [[l/_laces|laces]], resembling a [[m/_moccasin|moccasin]].**
 ---
 ### Synonyms

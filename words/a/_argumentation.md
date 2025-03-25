@@ -5,6 +5,6 @@
 	- _Example: His chain of argumentation is flawed._
 - **An [[e/_exchange|exchange]] of [[a/_arguments|arguments]]**
 	- _Example: Their argumentation continued long into the night._
-- **The [[a/_addition|addition]] of [[a/_arguments|arguments]] to a [[m/_model|model]]; parameterization.**
+- **The [[a/_addition|addition]] of [[a/_arguments|arguments]] to a [[m/_model|model]]; [[p/_parameterization|parameterization]].**
 ---
 ---

@@ -6,13 +6,13 @@
 - **Not [[c/_concrete|concrete]]: [[c/_conceptual|conceptual]], [[i/_ideal|ideal]].**
 - **[[d/_difficult|Difficult]] to understand; [[a/_abstruse|abstruse]]; [[h/_hard|hard]] to [[c/_conceptualize|conceptualize]].**
 - **Separately [[e/_expressing|expressing]] a property or [[a/_attribute|attribute]] of an [[o/_object|object]] that is [[c/_considered|considered]] to be [[i/_inherent|inherent]] to that [[o/_object|object]]: [[a/_attributive|attributive]], [[a/_ascriptive|ascriptive]].**
-- **Pertaining [[c/_comprehensively|comprehensively]] to, or representing, a [[c/_class|class]] or [[g/_group|group]] of [[o/_objects|objects]], as [[o/_opposed|opposed]] to [[a/_any|any]] specific [[o/_object|object]]; [[c/_considered|considered]] [[a/_apart|apart]] from [[a/_any|any]] [[a/_application|application]] to a particular [[o/_object|object]]: [[g/_general|general]], [[g/_generic|generic]], [[n/_nonspecific|nonspecific]]; representational.**
+- **[[p/_pertaining|Pertaining]] [[c/_comprehensively|comprehensively]] to, or representing, a [[c/_class|class]] or [[g/_group|group]] of [[o/_objects|objects]], as [[o/_opposed|opposed]] to [[a/_any|any]] specific [[o/_object|object]]; [[c/_considered|considered]] [[a/_apart|apart]] from [[a/_any|any]] [[a/_application|application]] to a [[p/_particular|particular]] [[o/_object|object]]: [[g/_general|general]], [[g/_generic|generic]], [[n/_nonspecific|nonspecific]]; representational.**
 - **[[a/_absent|Absent]]-[[m/_minded|minded]].**
-- **Pertaining to the [[f/_formal|formal]] [[a/_aspect|aspect]] of [[a/_art|art]], such as the [[l/_lines|lines]], [[c/_colors|colors]], shapes, and the relationships [[a/_among|among]] them.**
+- **[[p/_pertaining|Pertaining]] to the [[f/_formal|formal]] [[a/_aspect|aspect]] of [[a/_art|art]], such as the [[l/_lines|lines]], [[c/_colors|colors]], shapes, and the relationships [[a/_among|among]] them.**
 - **[[i/_insufficiently|Insufficiently]] [[f/_factual|factual]].**
-- **[[a/_apart|Apart]] from practice or reality; vague; theoretical; [[i/_impersonal|impersonal]]; not [[a/_applied|applied]].**
-- **([[g/_grammar|grammar]]) As a [[n/_noun|noun]], [[d/_denoting|denoting]] an [[i/_intangible|intangible]] as [[o/_opposed|opposed]] to an [[o/_object|object]], place, or person.**
-- **Of a [[c/_class|class]] in [[o/_object|object]]-[[o/_oriented|oriented]] programming, [[b/_being|being]] a partial [[b/_basis|basis]] for subclasses rather than a [[c/_complete|complete]] template for [[o/_objects|objects]].**
+- **[[a/_apart|Apart]] from [[p/_practice|practice]] or reality; vague; theoretical; [[i/_impersonal|impersonal]]; not [[a/_applied|applied]].**
+- **([[g/_grammar|grammar]]) As a [[n/_noun|noun]], [[d/_denoting|denoting]] an [[i/_intangible|intangible]] as [[o/_opposed|opposed]] to an [[o/_object|object]], [[p/_place|place]], or [[p/_person|person]].**
+- **Of a [[c/_class|class]] in [[o/_object|object]]-[[o/_oriented|oriented]] programming, [[b/_being|being]] a [[p/_partial|partial]] [[b/_basis|basis]] for subclasses rather than a [[c/_complete|complete]] template for [[o/_objects|objects]].**
 ---
 ### Synonyms
 - [[a/_abstruse|abstruse]], [[a/_ascriptive|ascriptive]], [[a/_attributive|attributive]], [[c/_conceptual|conceptual]], [[i/_ideal|ideal]], [[i/_imaginary|imaginary]], [[i/_incorporeal|incorporeal]], [[i/_intangible|intangible]], [[n/_nonempirical|nonempirical]], [[t/_theoretical|theoretical]], [[c/_conceptual|conceptual]], [[t/_theoretical|theoretical]], [[f/_formal|formal]], [[g/_general|general]], [[g/_generalized|generalized]], [[g/_generic|generic]], [[n/_nonspecific|nonspecific]], [[r/_representational|representational]]

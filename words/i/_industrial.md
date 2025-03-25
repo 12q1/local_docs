@@ -7,7 +7,7 @@
 - **A [[f/_film|film]] [[m/_made|made]] for use within an [[i/_industry|industry]], not for a [[m/_movie|movie]]-[[g/_going|going]] [[a/_audience|audience]].**
 - **[[i/_industrial|Industrial]] [[m/_music|music]].**
 	- _Example: I wish they'd play more industrial in this club._
-- **An [[i/_industrial|industrial]] piercing.**
+- **An [[i/_industrial|industrial]] [[p/_piercing|piercing]].**
 ---
 #adjective
 - **Of or relating to [[i/_industry|industry]], [[n/_notably|notably]] [[m/_manufacturing|manufacturing]].**
@@ -21,7 +21,7 @@
 - **[[e/_employed|Employed]] as [[m/_manpower|manpower]] by such [[i/_industry|industry]].**
 - **(of a society or [[c/_country|country]]) [[h/_having|Having]] [[m/_many|many]] [[i/_industries|industries]]; [[i/_industrialized|industrialized]].**
 	- _Example: Italy is a part-industrial, part-rural nation._
-- **[[b/_belonging|Belonging]] or pertaining to the [[g/_genre|genre]] of [[i/_industrial|industrial]] [[m/_music|music]].**
+- **[[b/_belonging|Belonging]] or [[p/_pertaining|pertaining]] to the [[g/_genre|genre]] of [[i/_industrial|industrial]] [[m/_music|music]].**
 	- _Example: a track with clashing industrial beats_
 ---
 ### Antonyms

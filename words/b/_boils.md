@@ -6,13 +6,13 @@
 ### Synonyms
 - [[a/_abscess|abscess]], [[c/_carbuncle|carbuncle]], [[c/_cyst|cyst]], [[f/_furuncle|furuncle]], [[p/_pimple|pimple]], [[p/_pustule|pustule]]
 #noun
-- **The point at which [[f/_fluid|fluid]] [[b/_begins|begins]] to [[c/_change|change]] to a vapour.**
+- **The [[p/_point|point]] at which [[f/_fluid|fluid]] [[b/_begins|begins]] to [[c/_change|change]] to a vapour.**
 	- _Example: Add the noodles when the water comes to the boil._
 - **A [[d/_dish|dish]] of [[b/_boiled|boiled]] [[f/_food|food]], [[e/_especially|especially]] [[b/_based|based]] on seafood.**
 - **The [[c/_collective|collective]] [[n/_noun|noun]] for a [[g/_group|group]] of [[h/_hawks|hawks]].**
 ---
 #verb
-- **(of [[l/_liquids|liquids]]) To [[h/_heat|heat]] to the point where it [[b/_begins|begins]] to turn [[i/_into|into]] a [[g/_gas|gas]].**
+- **(of [[l/_liquids|liquids]]) To [[h/_heat|heat]] to the [[p/_point|point]] where it [[b/_begins|begins]] to turn [[i/_into|into]] a [[g/_gas|gas]].**
 	- _Example: Boil some water in a pan._
 - **To [[c/_cook|cook]] in [[b/_boiling|boiling]] water.**
 	- _Example: Boil the eggs for three minutes._
@@ -28,7 +28,7 @@
 - **To steep or soak in warm water.**
 - **To be [[a/_agitated|agitated]] [[l/_like|like]] [[b/_boiling|boiling]] water; to [[b/_bubble|bubble]]; to [[e/_effervesce|effervesce]].**
 	- _Example: the boiling waves of the sea_
-- **To be [[m/_moved|moved]] or [[e/_excited|excited]] with passion; to be [[h/_hot|hot]] or [[f/_fervid|fervid]].**
+- **To be [[m/_moved|moved]] or [[e/_excited|excited]] with [[p/_passion|passion]]; to be [[h/_hot|hot]] or [[f/_fervid|fervid]].**
 	- _Example: His blood boils with anger._
 ---
 ### Synonyms

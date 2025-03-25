@@ -1,7 +1,7 @@
 # Achieve
 ---
 #verb
-- **To succeed in something, [[n/_now|now]] [[e/_especially|especially]] in [[a/_academic|academic]] performance.**
+- **To succeed in something, [[n/_now|now]] [[e/_especially|especially]] in [[a/_academic|academic]] [[p/_performance|performance]].**
 - **To [[c/_carry|carry]] [[o/_out|out]] successfully; to [[a/_accomplish|accomplish]].**
 - **To [[c/_conclude|conclude]], [[f/_finish|finish]], [[e/_especially|especially]] successfully.**
 - **To [[o/_obtain|obtain]], or [[g/_gain|gain]] (a [[d/_desired|desired]] result, [[o/_objective|objective]] [[e/_etc|etc]].), as the result of [[e/_exertion|exertion]]; to succeed in [[g/_gaining|gaining]]; to win.**

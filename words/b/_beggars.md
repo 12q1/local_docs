@@ -1,9 +1,9 @@
 # Beggars
 ---
 #noun
-- **A person who [[b/_begs|begs]].**
-- **A person suffering from [[e/_extreme|extreme]] poverty.**
-- **(sometimes [[a/_affectionate|affectionate]]) A [[m/_mean|mean]] or wretched person; a scoundrel.**
+- **A [[p/_person|person]] who [[b/_begs|begs]].**
+- **A [[p/_person|person]] suffering from [[e/_extreme|extreme]] [[p/_poverty|poverty]].**
+- **(sometimes [[a/_affectionate|affectionate]]) A [[m/_mean|mean]] or wretched [[p/_person|person]]; a scoundrel.**
 	- _Example: What does that silly beggar think he's doing?_
 - **A [[m/_minced|minced]] [[o/_oath|oath]] for [[b/_bugger|bugger]].**
 ---

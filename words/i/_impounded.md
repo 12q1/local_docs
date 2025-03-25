@@ -1,7 +1,7 @@
 # Impounded
 ---
 #verb
-- **To shut up or place in an [[e/_enclosure|enclosure]] [[c/_called|called]] a pound**
+- **To shut up or [[p/_place|place]] in an [[e/_enclosure|enclosure]] [[c/_called|called]] a [[p/_pound|pound]]**
 	- _Example: His car got impounded after he'd parked illegally._
 - **To [[h/_hold|hold]] [[b/_back|back]] (for [[e/_example|example]] water by a [[d/_dam|dam]])**
 - **To [[h/_hold|hold]] in the [[c/_custody|custody]] of a [[c/_court|court]] or [[i/_its|its]] [[d/_delegate|delegate]]**

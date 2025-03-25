@@ -3,11 +3,11 @@
 #noun
 - **A [[h/_hand|hand]] with the [[f/_fingers|fingers]] [[c/_clenched|clenched]] or [[c/_curled|curled]] [[i/_inward|inward]].**
 	- _Example: The boxer's fists rained down on his opponent in the last round._
-- **The pointing [[h/_hand|hand]] symbol ☞.**
+- **The [[p/_pointing|pointing]] [[h/_hand|hand]] symbol ☞.**
 - **The [[c/_characteristic|characteristic]] signaling rhythm of an [[i/_individual|individual]] telegraph or CW [[o/_operator|operator]] when sending [[m/_morse|Morse]] [[c/_code|code]].**
-- **A person's [[c/_characteristic|characteristic]] [[h/_handwriting|handwriting]].**
+- **A [[p/_person|person]]'s [[c/_characteristic|characteristic]] [[h/_handwriting|handwriting]].**
 - **A [[g/_group|group]] of [[m/_men|men]].**
-- **The talons of a [[b/_bird|bird]] of prey.**
+- **The talons of a [[b/_bird|bird]] of [[p/_prey|prey]].**
 - **An [[a/_attempt|attempt]] at something.**
 ---
 ### Synonyms

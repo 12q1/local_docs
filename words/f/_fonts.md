@@ -12,7 +12,7 @@
 - **A [[c/_computer|computer]] [[f/_file|file]] [[c/_containing|containing]] the [[c/_code|code]] used to [[d/_draw|draw]] and [[c/_compose|compose]] the [[g/_glyphs|glyphs]] of [[o/_one|one]] or [[m/_more|more]] typographic [[f/_fonts|fonts]] on a [[c/_computer|computer]] [[d/_display|display]] or printer.**
 ---
 #verb
-- **To [[o/_overlay|overlay]] (text) on the picture.**
+- **To [[o/_overlay|overlay]] (text) on the [[p/_picture|picture]].**
 ---
 #noun
 - **A source, wellspring, [[f/_fount|fount]].**

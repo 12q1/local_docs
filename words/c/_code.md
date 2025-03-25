@@ -8,11 +8,11 @@
 	- _Example: The medical code is a system of rules for the regulation of the professional conduct of physicians._
 - **A set of rules for [[c/_converting|converting]] [[i/_information|information]] [[i/_into|into]] [[a/_another|another]] [[f/_form|form]] or representation.**
 - **A [[m/_message|message]] represented by rules [[i/_intended|intended]] to [[c/_conceal|conceal]] [[i/_its|its]] [[m/_meaning|meaning]].**
-- **A [[c/_cryptographic|cryptographic]] system using a [[c/_codebook|codebook]] that [[c/_converts|converts]] words or phrases [[i/_into|into]] [[c/_codewords|codewords]].**
+- **A [[c/_cryptographic|cryptographic]] system using a [[c/_codebook|codebook]] that [[c/_converts|converts]] words or [[p/_phrases|phrases]] [[i/_into|into]] [[c/_codewords|codewords]].**
 - **[[i/_instructions|Instructions]] for a [[c/_computer|computer]], written in a programming [[l/_language|language]]; the [[i/_input|input]] of a translator, an [[i/_interpreter|interpreter]] or a [[b/_browser|browser]], [[n/_namely|namely]]: source [[c/_code|code]], [[m/_machine|machine]] [[c/_code|code]], bytecode.**
 	- _Example: I wrote some code to reformat text documents._
 - **(scientific programming) A program.**
-- **A particular [[l/_lect|lect]] or [[l/_language|language]] variety.**
+- **A [[p/_particular|particular]] [[l/_lect|lect]] or [[l/_language|language]] variety.**
 - **An [[e/_emergency|emergency]] requiring situation-trained [[m/_members|members]] of the staff.**
 ---
 #verb

@@ -1,11 +1,11 @@
 # Fucker
 ---
 #noun
-- **An undesirable person.**
+- **An undesirable [[p/_person|person]].**
 	- _Example: You fucker, you wrecked my car!_
 - **The [[o/_object|object]] of some [[e/_effort|effort]].**
 	- _Example: Let’s see if we can fix this fucker._
-- **People, [[f/_friends|friends]], [[e/_especially|especially]] of very [[h/_high|high]] solidarity.**
+- **[[p/_people|People]], [[f/_friends|friends]], [[e/_especially|especially]] of very [[h/_high|high]] solidarity.**
 	- _Example: What’s up, fucker!?_
 - **[[o/_one|One]] who [[f/_fucks|fucks]].**
 	- _Example: She was a good fucker, but to tell the truth, I had had enough for the night._

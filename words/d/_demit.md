@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[d/_demitting|demitting]].**
-- **A [[d/_document|document]] [[c/_certifying|certifying]] that a person [[h/_has|has]] ([[h/_honourably|honourably]]) [[d/_demitted|demitted]], as from a [[m/_masonic|Masonic]] [[l/_lodge|lodge]].**
+- **A [[d/_document|document]] [[c/_certifying|certifying]] that a [[p/_person|person]] [[h/_has|has]] ([[h/_honourably|honourably]]) [[d/_demitted|demitted]], as from a [[m/_masonic|Masonic]] [[l/_lodge|lodge]].**
 ---
 #verb
 - **To [[l/_let|let]] [[f/_fall|fall]]; to [[d/_depress|depress]]; to [[y/_yield|yield]].**

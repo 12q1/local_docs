@@ -1,7 +1,7 @@
 # Gullible
 ---
 #noun
-- **A [[g/_gullible|gullible]] person; someone [[e/_easily|easily]] [[f/_fooled|fooled]] or tricked.**
+- **A [[g/_gullible|gullible]] [[p/_person|person]]; someone [[e/_easily|easily]] [[f/_fooled|fooled]] or tricked.**
 ---
 #adjective
 - **[[e/_easily|Easily]] [[d/_deceived|deceived]] or [[d/_duped|duped]]; [[n/_naive|naive]], [[e/_easily|easily]] [[c/_cheated|cheated]] or [[f/_fooled|fooled]].**

@@ -9,7 +9,7 @@
 - [[f/_fire|fire]], [[s/_sack|sack]], [[d/_dismiss|dismiss]], [[d/_dispose|dispose]], [[e/_eliminate|eliminate]]
 #noun
 - **The [[a/_act|act]] by which something is [[d/_discarded|discarded]]; a throwing [[a/_away|away]].**
-- **(in the plural) [[d/_discarded|Discarded]] [[m/_material|material]].**
+- **(in the [[p/_plural|plural]]) [[d/_discarded|Discarded]] [[m/_material|material]].**
 	- _Example: the usual discardings of country folk_
 ---
 ---

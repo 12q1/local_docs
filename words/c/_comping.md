@@ -18,7 +18,7 @@
 - **To write; to [[c/_compose|compose]].**
 ---
 #noun
-- **The practice of [[e/_entering|entering]] [[m/_many|many]] [[c/_competitions|competitions]] in [[o/_order|order]] to win as [[m/_many|many]] prizes as possible.**
+- **The [[p/_practice|practice]] of [[e/_entering|entering]] [[m/_many|many]] [[c/_competitions|competitions]] in [[o/_order|order]] to win as [[m/_many|many]] prizes as [[p/_possible|possible]].**
 - **[[m/_musical|Musical]] [[a/_accompaniment|accompaniment]]**
 ---
 ---

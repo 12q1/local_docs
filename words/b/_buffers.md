@@ -2,8 +2,8 @@
 ---
 #noun
 - **Someone or something that [[b/_buffs|buffs]].**
-- **A solution used to stabilize the pH ([[a/_acidity|acidity]]) of a [[l/_liquid|liquid]].**
-- **A portion of [[m/_memory|memory]] set [[a/_aside|aside]] to store [[d/_data|data]], [[o/_often|often]] [[b/_before|before]] it is sent to an [[e/_external|external]] [[d/_device|device]] or as it is received from an [[e/_external|external]] [[d/_device|device]].**
+- **A solution used to stabilize the [[p/_ph|pH]] ([[a/_acidity|acidity]]) of a [[l/_liquid|liquid]].**
+- **A [[p/_portion|portion]] of [[m/_memory|memory]] set [[a/_aside|aside]] to store [[d/_data|data]], [[o/_often|often]] [[b/_before|before]] it is sent to an [[e/_external|external]] [[d/_device|device]] or as it is received from an [[e/_external|external]] [[d/_device|device]].**
 - **([[m/_mechanical|mechanical]]) [[a/_anything|Anything]] used to [[m/_maintain|maintain]] slack or [[i/_isolate|isolate]] [[d/_different|different]] [[o/_objects|objects]].**
 - **A routine or storage [[m/_medium|medium]] used to [[c/_compensate|compensate]] for a [[d/_difference|difference]] in rate of [[f/_flow|flow]] of [[d/_data|data]], or time of [[o/_occurrence|occurrence]] of [[e/_events|events]], when transferring [[d/_data|data]] from [[o/_one|one]] [[d/_device|device]] to [[a/_another|another]].**
 - **A [[d/_device|device]] on trains and [[c/_carriages|carriages]] [[d/_designed|designed]] to [[c/_cushion|cushion]] the [[i/_impact|impact]] [[b/_between|between]] them.**

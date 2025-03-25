@@ -1,7 +1,7 @@
 # Objective
 ---
 #noun
-- **A [[m/_material|material]] [[o/_object|object]] that physically [[e/_exists|exists]].**
+- **A [[m/_material|material]] [[o/_object|object]] that [[p/_physically|physically]] [[e/_exists|exists]].**
 - **A [[g/_goal|goal]] that is striven for.**
 - **([[g/_grammar|grammar]]) The [[o/_objective|objective]] [[c/_case|case]].**
 - **([[g/_grammar|grammar]]) a [[n/_noun|noun]] or pronoun in the [[o/_objective|objective]] [[c/_case|case]].**
@@ -11,10 +11,10 @@
 - 
 #adjective
 - **Of or relating to a [[m/_material|material]] [[o/_object|object]], [[a/_actual|actual]] [[e/_existence|existence]] or reality.**
-- **Not [[i/_influenced|influenced]] by the [[e/_emotions|emotions]] or prejudices.**
+- **Not [[i/_influenced|influenced]] by the [[e/_emotions|emotions]] or [[p/_prejudices|prejudices]].**
 - **[[b/_based|Based]] on [[o/_observed|observed]] [[f/_facts|facts]].**
 - **([[g/_grammar|grammar]]) Of, or relating to a [[n/_noun|noun]] or pronoun used as the [[o/_object|object]] of a verb.**
-- **([[g/_grammar|grammar]]) Of, or relating to verbal [[c/_conjugation|conjugation]] that [[i/_indicates|indicates]] the [[o/_object|object]] (patient) of an [[a/_action|action]]. (In [[l/_linguistic|linguistic]] [[d/_descriptions|descriptions]] of Tundra Nenets, [[a/_among|among]] [[o/_others|others]].)**
+- **([[g/_grammar|grammar]]) Of, or relating to verbal [[c/_conjugation|conjugation]] that [[i/_indicates|indicates]] the [[o/_object|object]] ([[p/_patient|patient]]) of an [[a/_action|action]]. (In [[l/_linguistic|linguistic]] [[d/_descriptions|descriptions]] of Tundra Nenets, [[a/_among|among]] [[o/_others|others]].)**
 ---
 ### Antonyms
 - [[s/_subjective|subjective]]

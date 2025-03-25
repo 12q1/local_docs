@@ -6,7 +6,7 @@
 - **[[l/_light|Light]] or [[f/_frothy|frothy]] [[n/_nonsense|nonsense]].**
 - **A [[d/_deliberately|deliberately]] [[m/_misleading|misleading]] or vague [[a/_answer|answer]].**
 - **A [[m/_made|made]]-up story.**
-- **A [[l/_less|less]] than perfect [[d/_decision|decision]] or solution; an [[a/_attempt|attempt]] to [[f/_fix|fix]] an [[i/_incorrect|incorrect]] solution [[a/_after|after]] the [[f/_fact|fact]].**
+- **A [[l/_less|less]] than [[p/_perfect|perfect]] [[d/_decision|decision]] or solution; an [[a/_attempt|attempt]] to [[f/_fix|fix]] an [[i/_incorrect|incorrect]] solution [[a/_after|after]] the [[f/_fact|fact]].**
 ---
 ### Synonyms
 - [[h/_humbug|humbug]], [[n/_nonsense|nonsense]]

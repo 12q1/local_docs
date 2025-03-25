@@ -1,16 +1,16 @@
 # Mothers
 ---
 #noun
-- **A person ([[e/_especially|especially]] an [[e/_entomologist|entomologist]]) or [[a/_animal|animal]] that [[c/_catches|catches]] [[m/_moths|moths]].**
+- **A [[p/_person|person]] ([[e/_especially|especially]] an [[e/_entomologist|entomologist]]) or [[a/_animal|animal]] that [[c/_catches|catches]] [[m/_moths|moths]].**
 ---
 #noun
 - **A ([[h/_human|human]]) [[f/_female|female]] who [[h/_has|has]] [[g/_given|given]] [[b/_birth|birth]] to a [[b/_baby|baby]]**
 	- _Example: He had something of his mother in him._
-- **A [[h/_human|human]] [[f/_female|female]] who parents an [[a/_adopted|adopted]] or [[f/_fostered|fostered]] [[c/_child|child]]**
+- **A [[h/_human|human]] [[f/_female|female]] who [[p/_parents|parents]] an [[a/_adopted|adopted]] or [[f/_fostered|fostered]] [[c/_child|child]]**
 - **A [[h/_human|human]] [[f/_female|female]] who [[d/_donates|donates]] a [[f/_fertilized|fertilized]] [[e/_egg|egg]] or [[d/_donates|donates]] a [[b/_body|body]] [[c/_cell|cell]] which [[h/_has|has]] resulted in a [[c/_clone|clone]].**
-- **A pregnant [[f/_female|female]], possibly as a shortened [[f/_form|form]] of [[m/_mother|mother]]-to-be.**
+- **A [[p/_pregnant|pregnant]] [[f/_female|female]], [[p/_possibly|possibly]] as a shortened [[f/_form|form]] of [[m/_mother|mother]]-to-be.**
 	- _Example: Nutrients and oxygen obtained by the mother are conveyed to the fetus._
-- **A [[f/_female|female]] parent of an [[a/_animal|animal]].**
+- **A [[f/_female|female]] [[p/_parent|parent]] of an [[a/_animal|animal]].**
 	- _Example: The lioness was a mother of four cubs._
 - **A [[f/_female|female]] [[a/_ancestor|ancestor]].**
 - **A source or [[o/_origin|origin]].**
@@ -18,18 +18,18 @@
 - **Something that is the [[g/_greatest|greatest]] or [[m/_most|most]] significant of [[i/_its|its]] [[k/_kind|kind]]. (See [[m/_mother|mother]] of [[a/_all|all]].)**
 - **(when [[f/_followed|followed]] by a surname) A title of respect for [[o/_one|one]]'s [[m/_mother|mother]]-in-[[l/_law|law]].**
 	- _Example: Mother Smith, meet my cousin, Doug Jones._
-- **[[a/_any|Any]] [[e/_elderly|elderly]] woman, [[e/_especially|especially]] within a particular [[c/_community|community]].**
-- **[[a/_any|Any]] person or [[e/_entity|entity]] which performs [[m/_mothering|mothering]].**
-- **The principal piece of an [[a/_astrolabe|astrolabe]], [[i/_into|into]] which the [[o/_others|others]] are [[f/_fixed|fixed]].**
+- **[[a/_any|Any]] [[e/_elderly|elderly]] woman, [[e/_especially|especially]] within a [[p/_particular|particular]] [[c/_community|community]].**
+- **[[a/_any|Any]] [[p/_person|person]] or [[e/_entity|entity]] which [[p/_performs|performs]] [[m/_mothering|mothering]].**
+- **The principal [[p/_piece|piece]] of an [[a/_astrolabe|astrolabe]], [[i/_into|into]] which the [[o/_others|others]] are [[f/_fixed|fixed]].**
 - **The [[f/_female|female]] superior or [[h/_head|head]] of a religious [[h/_house|house]]; an [[a/_abbess|abbess]], [[e/_etc|etc]].**
-- **[[h/_hysterical|Hysterical]] passion; [[h/_hysteria|hysteria]]; the uterus.**
+- **[[h/_hysterical|Hysterical]] [[p/_passion|passion]]; [[h/_hysteria|hysteria]]; the uterus.**
 ---
 ### Synonyms
 - [[f/_father|father]], [[g/_granddaddy|granddaddy]], [[g/_grandfather|grandfather]], [[m/_metro-|metro-]]
 ### Antonyms
 - [[c/_child|child]], [[d/_daughter|daughter]], [[o/_offspring|offspring]], [[s/_son|son]], [[f/_father|father]]
 #verb
-- **To [[g/_give|give]] [[b/_birth|birth]] to or produce (as [[i/_its|its]] [[f/_female|female]] parent) a [[c/_child|child]]. ([[c/_compare|Compare]] [[f/_father|father]].)**
+- **To [[g/_give|give]] [[b/_birth|birth]] to or produce (as [[i/_its|its]] [[f/_female|female]] [[p/_parent|parent]]) a [[c/_child|child]]. ([[c/_compare|Compare]] [[f/_father|father]].)**
 - **To treat as a [[m/_mother|mother]] would be [[e/_expected|expected]] to treat [[h/_her|her]] [[c/_child|child]]; to [[n/_nurture|nurture]].**
 ---
 #noun

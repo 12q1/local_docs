@@ -1,7 +1,7 @@
 # Bullies
 ---
 #noun
-- **A person who is [[i/_intentionally|intentionally]], physically, or [[e/_emotionally|emotionally]] [[c/_cruel|cruel]] to [[o/_others|others]]; [[e/_especially|especially]] to those who are weaker or [[h/_have|have]] [[l/_less|less]] power or privilege.**
+- **A [[p/_person|person]] who is [[i/_intentionally|intentionally]], [[p/_physically|physically]], or [[e/_emotionally|emotionally]] [[c/_cruel|cruel]] to [[o/_others|others]]; [[e/_especially|especially]] to those who are weaker or [[h/_have|have]] [[l/_less|less]] [[p/_power|power]] or privilege.**
 	- _Example: A playground bully pushed a girl off the swing._
 - **A [[n/_noisy|noisy]], [[b/_blustering|blustering]] [[f/_fellow|fellow]], [[m/_more|more]] [[i/_insolent|insolent]] than [[c/_courageous|courageous]]; [[o/_one|one]] who is threatening and quarrelsome; an [[i/_insolent|insolent]], tyrannical [[f/_fellow|fellow]].**
 - **A [[h/_hired|hired]] thug.**
@@ -13,7 +13,7 @@
 - **An ([[e/_eldest|eldest]]) [[b/_brother|brother]]; a [[f/_fellow|fellow]] workman; [[c/_comrade|comrade]]**
 - **A [[c/_companion|companion]]; [[m/_mate|mate]] ([[m/_male|male]] or [[f/_female|female]]).**
 - **A [[d/_darling|darling]], sweetheart ([[m/_male|male]] or [[f/_female|female]]).**
-- **A standoff [[b/_between|between]] two players from the [[o/_opposing|opposing]] teams, who repeatedly [[h/_hit|hit]] [[e/_each|each]] [[o/_other|other]]'s [[h/_hockey|hockey]] sticks and then [[a/_attempt|attempt]] to [[a/_acquire|acquire]] the [[b/_ball|ball]], as a [[m/_method|method]] of resuming the [[g/_game|game]] in [[c/_certain|certain]] [[c/_circumstances|circumstances]].**
+- **A standoff [[b/_between|between]] two [[p/_players|players]] from the [[o/_opposing|opposing]] teams, who repeatedly [[h/_hit|hit]] [[e/_each|each]] [[o/_other|other]]'s [[h/_hockey|hockey]] sticks and then [[a/_attempt|attempt]] to [[a/_acquire|acquire]] the [[b/_ball|ball]], as a [[m/_method|method]] of resuming the [[g/_game|game]] in [[c/_certain|certain]] [[c/_circumstances|circumstances]].**
 - **A [[m/_miner|miner]]'s [[h/_hammer|hammer]].**
 ---
 ### Synonyms

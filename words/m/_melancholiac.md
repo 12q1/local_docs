@@ -1,6 +1,6 @@
 # Melancholiac
 ---
 #noun
-- **A person who is [[h/_habitually|habitually]] [[m/_melancholy|melancholy]].**
+- **A [[p/_person|person]] who is [[h/_habitually|habitually]] [[m/_melancholy|melancholy]].**
 ---
 ---

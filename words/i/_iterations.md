@@ -1,7 +1,7 @@
 # Iterations
 ---
 #noun
-- **Recital or performance a second time; repetition.**
+- **Recital or [[p/_performance|performance]] a second time; repetition.**
 - **A variation or version.**
 	- _Example: The architect drafted several iterations of the floorplan before deciding on his final design._
 - **The use of repetition in a [[c/_computer|computer]] program, [[e/_especially|especially]] in the [[f/_form|form]] of a [[l/_loop|loop]].**

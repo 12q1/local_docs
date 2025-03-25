@@ -3,7 +3,7 @@
 #verb
 - **To [[b/_bring|bring]] [[i/_into|into]] [[b/_being|being]]; [[g/_give|give]] rise to.**
 	- _Example: The discussion generated an uproar._
-- **To produce as a result of a [[c/_chemical|chemical]] or physical process.**
+- **To produce as a result of a [[c/_chemical|chemical]] or [[p/_physical|physical]] process.**
 	- _Example: Adding concentrated sulphuric acid to water generates heat._
 - **To procreate, [[b/_beget|beget]].**
 	- _Example: They generated many offspring._

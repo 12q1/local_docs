@@ -1,7 +1,7 @@
 # Hence
 ---
 #adverb
-- **From [[h/_here|here]], from this place, [[a/_away|away]]**
+- **From [[h/_here|here]], from this [[p/_place|place]], [[a/_away|away]]**
 	- _Example: Get thee hence, Satan!_
 - **From the [[l/_living|living]] or from this world**
 	- _Example: After a long battle, my poor daughter was taken hence._

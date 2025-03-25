@@ -10,7 +10,7 @@
 - **To [[a/_approach|approach]]; to [[c/_come|come]] [[n/_near|near]] to; to verge (with on or upon).**
 ---
 #noun
-- **A pattern or [[o/_ornament|ornament]] [[f/_forming|forming]] a [[b/_border|border]].**
+- **A [[p/_pattern|pattern]] or [[o/_ornament|ornament]] [[f/_forming|forming]] a [[b/_border|border]].**
 ---
 #adjective
 - **[[h/_having|Having]] a [[c/_common|common]] [[b/_boundary|boundary]] or [[b/_border|border]]**

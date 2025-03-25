@@ -1,9 +1,9 @@
 # Manioc
 ---
 #noun
-- **The tropical plant [[m/_manihot|Manihot]] esculenta, from which [[c/_cassava|cassava]] and tapioca are prepared.**
+- **The tropical [[p/_plant|plant]] [[m/_manihot|Manihot]] esculenta, from which [[c/_cassava|cassava]] and tapioca are [[p/_prepared|prepared]].**
 - **[[c/_cassava|Cassava]] root, [[e/_eaten|eaten]] as a [[f/_food|food]].**
-- **A [[f/_food|food]] starch prepared from the root.**
+- **A [[f/_food|food]] starch [[p/_prepared|prepared]] from the root.**
 ---
 ### Synonyms
 - [[c/_cassava|cassava]], [[y/_yuca|yuca]], [[c/_cassava|cassava]], [[y/_yuca|yuca]], [[c/_cassava|cassava]], [[t/_tapioca|tapioca]]

@@ -1,7 +1,7 @@
 # Endwise
 ---
 #adjective
-- **On-[[e/_end|end]]; upright; pertaining or relating to the [[e/_end|end]].**
+- **On-[[e/_end|end]]; upright; [[p/_pertaining|pertaining]] or relating to the [[e/_end|end]].**
 ---
 #adverb
 - **Upright, or standing on [[e/_end|end]]**

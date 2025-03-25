@@ -1,7 +1,7 @@
 # Cringe
 ---
 #noun
-- **A posture or [[g/_gesture|gesture]] of shrinking or recoiling.**
+- **A [[p/_posture|posture]] or [[g/_gesture|gesture]] of shrinking or recoiling.**
 	- _Example: He glanced with a cringe at the mess on his desk._
 - **A servile [[o/_obeisance|obeisance]].**
 - **A [[c/_crick|crick]].**

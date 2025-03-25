@@ -7,7 +7,7 @@
 - **The [[l/_leather|leather]] [[m/_made|made]] from such [[h/_hide|hide]]; [[k/_kip|kip]] [[l/_leather|leather]].**
 ---
 #noun
-- **([[c/_chiefly|chiefly]] UK) A place to sleep; a rooming [[h/_house|house]]; a [[b/_bed|bed]].**
+- **([[c/_chiefly|chiefly]] UK) A [[p/_place|place]] to sleep; a rooming [[h/_house|house]]; a [[b/_bed|bed]].**
 - **([[c/_chiefly|chiefly]] UK) Sleep, snooze, [[n/_nap|nap]], [[f/_forty|forty]] winks, [[d/_doze|doze]].**
 	- _Example: I’m just going for my afternoon kip._
 - **([[c/_chiefly|chiefly]] UK) A very untidy [[h/_house|house]] or room.**
@@ -25,16 +25,16 @@
 - **To [[c/_conduct|conduct]] [[o/_oneself|oneself]]; [[a/_act|act]]**
 ---
 #noun
-- **A unit of [[f/_force|force]] [[e/_equal|equal]] to 1000 pounds-[[f/_force|force]] ([[l/_lbf|lbf]]) (4.44822 kilonewtons or 4448.22 [[n/_newtons|newtons]]); [[o/_occasionally|occasionally]] [[c/_called|called]] the [[k/_kilopound|kilopound]].**
-- **A unit of weight, used, for [[e/_example|example]], to [[c/_calculate|calculate]] shipping [[c/_charges|charges]], [[e/_equal|equal]] to [[h/_half|half]] a US ton, or 1000 pounds.**
-- **A unit of [[m/_mass|mass]] [[e/_equal|equal]] to 1000 [[a/_avoirdupois|avoirdupois]] pounds.**
+- **A unit of [[f/_force|force]] [[e/_equal|equal]] to 1000 [[p/_pounds|pounds]]-[[f/_force|force]] ([[l/_lbf|lbf]]) (4.44822 kilonewtons or 4448.22 [[n/_newtons|newtons]]); [[o/_occasionally|occasionally]] [[c/_called|called]] the [[k/_kilopound|kilopound]].**
+- **A unit of weight, used, for [[e/_example|example]], to [[c/_calculate|calculate]] shipping [[c/_charges|charges]], [[e/_equal|equal]] to [[h/_half|half]] a US ton, or 1000 [[p/_pounds|pounds]].**
+- **A unit of [[m/_mass|mass]] [[e/_equal|equal]] to 1000 [[a/_avoirdupois|avoirdupois]] [[p/_pounds|pounds]].**
 ---
 #noun
-- **A [[b/_basic|basic]] skill or [[m/_maneuver|maneuver]] in [[a/_artistic|artistic]] [[g/_gymnastics|gymnastics]] on the uneven [[b/_bars|bars]], parallel [[b/_bars|bars]], [[h/_high|high]] [[b/_bar|bar]] and still rings used, for [[e/_example|example]], as a way of [[m/_mounting|mounting]] the [[b/_bar|bar]] in a [[f/_front|front]] support position, or [[a/_achieving|achieving]] a [[h/_handstand|handstand]] from a [[h/_hanging|hanging]] position. In [[i/_its|its]] [[b/_basic|basic]] [[f/_form|form]], the [[l/_legs|legs]] are swung [[f/_forward|forward]] and upward by [[b/_bending|bending]] the [[h/_hips|hips]], then suddenly [[d/_down|down]] [[a/_again|again]], which [[g/_gives|gives]] the upward [[i/_impulse|impulse]] to the [[b/_body|body]].**
-- **([[g/_games|games]]) A piece of [[f/_flat|flat]] wood used to throw the [[c/_coins|coins]] in a [[g/_game|game]] of two-up.**
-- **A sharp-pointed [[h/_hill|hill]]; a projecting point, as on a [[h/_hill|hill]].**
+- **A [[b/_basic|basic]] skill or [[m/_maneuver|maneuver]] in [[a/_artistic|artistic]] [[g/_gymnastics|gymnastics]] on the uneven [[b/_bars|bars]], [[p/_parallel|parallel]] [[b/_bars|bars]], [[h/_high|high]] [[b/_bar|bar]] and still rings used, for [[e/_example|example]], as a way of [[m/_mounting|mounting]] the [[b/_bar|bar]] in a [[f/_front|front]] support [[p/_position|position]], or [[a/_achieving|achieving]] a [[h/_handstand|handstand]] from a [[h/_hanging|hanging]] [[p/_position|position]]. In [[i/_its|its]] [[b/_basic|basic]] [[f/_form|form]], the [[l/_legs|legs]] are swung [[f/_forward|forward]] and upward by [[b/_bending|bending]] the [[h/_hips|hips]], then suddenly [[d/_down|down]] [[a/_again|again]], which [[g/_gives|gives]] the upward [[i/_impulse|impulse]] to the [[b/_body|body]].**
+- **([[g/_games|games]]) A [[p/_piece|piece]] of [[f/_flat|flat]] wood used to throw the [[c/_coins|coins]] in a [[g/_game|game]] of two-up.**
+- **A sharp-[[p/_pointed|pointed]] [[h/_hill|hill]]; a projecting [[p/_point|point]], as on a [[h/_hill|hill]].**
 ---
 #verb
-- **To perform the [[k/_kip|kip]] [[m/_maneuver|maneuver]].**
+- **To [[p/_perform|perform]] the [[k/_kip|kip]] [[m/_maneuver|maneuver]].**
 ---
 ---

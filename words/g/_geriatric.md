@@ -1,7 +1,7 @@
 # Geriatric
 ---
 #noun
-- **An [[o/_old|old]] person.**
+- **An [[o/_old|old]] [[p/_person|person]].**
 ---
 ### Synonyms
 - [[g/_genarian|genarian]], [[o/_oldster|oldster]]

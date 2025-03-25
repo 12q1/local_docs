@@ -2,12 +2,12 @@
 ---
 #noun
 - **[[o/_one|One]] of a [[f/_family|family]] of [[d/_dishes|dishes]] [[o/_originating|originating]] from South [[a/_asian|Asian]] [[c/_cuisine|cuisine]], [[f/_flavoured|flavoured]] by a spiced sauce.**
-- **A spiced sauce or relish, [[e/_especially|especially]] [[o/_one|one]] [[f/_flavoured|flavoured]] with [[c/_curry|curry]] powder.**
-- **[[c/_curry|Curry]] powder.**
+- **A spiced sauce or relish, [[e/_especially|especially]] [[o/_one|one]] [[f/_flavoured|flavoured]] with [[c/_curry|curry]] [[p/_powder|powder]].**
+- **[[c/_curry|Curry]] [[p/_powder|powder]].**
 ---
 ### Synonyms
 - 
 #verb
-- **To [[c/_cook|cook]] or season with [[c/_curry|curry]] powder.**
+- **To [[c/_cook|cook]] or season with [[c/_curry|curry]] [[p/_powder|powder]].**
 ---
 ---

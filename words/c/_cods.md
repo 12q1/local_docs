@@ -1,10 +1,10 @@
 # Cods
 ---
 #noun
-- **A small [[b/_bag|bag]] or pouch.**
-- **A [[h/_husk|husk]] or [[i/_integument|integument]]; a pod.**
-- **The scrotum ([[a/_also|also]] in plural).**
-- **A pillow or [[c/_cushion|cushion]].**
+- **A small [[b/_bag|bag]] or [[p/_pouch|pouch]].**
+- **A [[h/_husk|husk]] or [[i/_integument|integument]]; a [[p/_pod|pod]].**
+- **The scrotum ([[a/_also|also]] in [[p/_plural|plural]]).**
+- **A [[p/_pillow|pillow]] or [[c/_cushion|cushion]].**
 ---
 #noun
 - **The [[a/_atlantic|Atlantic]] [[c/_cod|cod]], [[g/_gadus|Gadus]] morhua.**
@@ -18,7 +18,7 @@
 #noun
 - **A [[j/_joke|joke]] or an [[i/_imitation|imitation]].**
 	- _Example: I assume it all could just be a cod._
-- **A stupid or [[f/_foolish|foolish]] person.**
+- **A stupid or [[f/_foolish|foolish]] [[p/_person|person]].**
 	- _Example: He's making a right cod of himself._
 ---
 ---

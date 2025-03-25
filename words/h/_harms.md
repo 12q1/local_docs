@@ -1,7 +1,7 @@
 # Harms
 ---
 #noun
-- **Physical [[i/_injury|injury]]; [[h/_hurt|hurt]]; [[d/_damage|damage]]**
+- **[[p/_physical|Physical]] [[i/_injury|injury]]; [[h/_hurt|hurt]]; [[d/_damage|damage]]**
 	- _Example: No harm came to my possessions._
 - **[[e/_emotional|Emotional]] or [[f/_figurative|figurative]] [[h/_hurt|hurt]]**
 	- _Example: Although not physically injured in the car accident, she received some psychological harm._

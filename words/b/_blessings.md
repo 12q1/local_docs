@@ -9,7 +9,7 @@
 	- _Example: We will not proceed without the executive director's blessing._
 - **Something someone is [[g/_glad|glad]] of.**
 	- _Example: After two weeks of sun, last night's rainfall was a blessing._
-- **A prayer [[b/_before|before]] a [[m/_meal|meal]]; [[g/_grace|grace]].**
+- **A [[p/_prayer|prayer]] [[b/_before|before]] a [[m/_meal|meal]]; [[g/_grace|grace]].**
 - **A [[g/_group|group]] of unicorns.**
 ---
 ### Antonyms

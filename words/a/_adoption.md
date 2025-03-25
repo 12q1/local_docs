@@ -2,7 +2,7 @@
 ---
 #noun
 - **The [[a/_act|act]] of [[a/_adopting|adopting]].**
-- **The state of [[b/_being|being]] [[a/_adopted|adopted]]; the [[a/_acceptance|acceptance]] of a [[c/_child|child]] of [[o/_other|other]] parents as [[i/_if|if]] [[h/_he|he]] or she were [[o/_one|one]]'s [[o/_own|own]] [[c/_child|child]].**
+- **The state of [[b/_being|being]] [[a/_adopted|adopted]]; the [[a/_acceptance|acceptance]] of a [[c/_child|child]] of [[o/_other|other]] [[p/_parents|parents]] as [[i/_if|if]] [[h/_he|he]] or she were [[o/_one|one]]'s [[o/_own|own]] [[c/_child|child]].**
 	- _Example: A Chinese baby girl was given away for adoption._
 - **[[a/_admission|Admission]] to an [[i/_institution|institution]], for [[e/_example|example]] a [[h/_hospital|hospital]], [[c/_clinic|clinic]], [[m/_mental|mental]] [[a/_asylum|asylum]].**
 	- _Example: the adoption of people into hospitals or monasteries_

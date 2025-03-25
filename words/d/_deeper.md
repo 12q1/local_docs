@@ -1,9 +1,9 @@
 # Deeper
 ---
 #adjective
-- **(of a physical [[d/_distance|distance]]) [[e/_extending|Extending]] [[f/_far|far]] [[a/_away|away]] from a point of reference, [[e/_especially|especially]] [[d/_downwards|downwards]].**
+- **(of a [[p/_physical|physical]] [[d/_distance|distance]]) [[e/_extending|Extending]] [[f/_far|far]] [[a/_away|away]] from a [[p/_point|point]] of reference, [[e/_especially|especially]] [[d/_downwards|downwards]].**
 - **([[i/_intellectual|intellectual]], social) [[c/_complex|Complex]], [[i/_involved|involved]].**
-- **(sound, voice) [[l/_low|Low]] in pitch.**
+- **(sound, voice) [[l/_low|Low]] in [[p/_pitch|pitch]].**
 	- _Example: She has a very deep contralto voice._
 - **(of a [[c/_color|color]]) [[h/_highly|Highly]] saturated.**
 	- _Example: That's a very deep shade of blue._
@@ -12,7 +12,7 @@
 - **[[i/_immersed|Immersed]], submerged (in).**
 	- _Example: deep in debt_
 - **[[m/_muddy|Muddy]]; [[b/_boggy|boggy]]; sandy; said of roads.**
-- **(of time) [[d/_distant|Distant]] in the past, [[a/_ancient|ancient]].**
+- **(of time) [[d/_distant|Distant]] in the [[p/_past|past]], [[a/_ancient|ancient]].**
 	- _Example: deep time_
 ---
 ### Synonyms

@@ -1,7 +1,7 @@
 # Believers
 ---
 #noun
-- **A person who [[b/_believes|believes]]; [[e/_especially|especially]] regarding religion.**
+- **A [[p/_person|person]] who [[b/_believes|believes]]; [[e/_especially|especially]] regarding religion.**
 	- _Example: She's a believer in life after death._
 ---
 ### Antonyms

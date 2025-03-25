@@ -18,7 +18,7 @@
 	- _Example: The decor positively breathes classical elegance._
 - **To whisper quietly.**
 	- _Example: He breathed the words into her ear, but she understood them all._
-- **To pass [[l/_like|like]] [[b/_breath|breath]]; [[n/_noiselessly|noiselessly]] or [[g/_gently|gently]]; to [[e/_emanate|emanate]]; to [[b/_blow|blow]] [[g/_gently|gently]].**
+- **To [[p/_pass|pass]] [[l/_like|like]] [[b/_breath|breath]]; [[n/_noiselessly|noiselessly]] or [[g/_gently|gently]]; to [[e/_emanate|emanate]]; to [[b/_blow|blow]] [[g/_gently|gently]].**
 	- _Example: The wind breathes through the trees._
 - **To [[e/_exchange|exchange]] [[g/_gases|gases]] with the [[e/_environment|environment]].**
 	- _Example: Garments made of certain new materials breathe well and keep the skin relatively dry during exercise._
@@ -26,7 +26,7 @@
 - **To stop, to [[g/_give|give]] (a [[h/_horse|horse]]) an [[o/_opportunity|opportunity]] to [[c/_catch|catch]] [[i/_its|its]] [[b/_breath|breath]].**
 	- _Example: At higher altitudes you need to breathe your horse more often._
 - **To [[e/_exercise|exercise]]; to tire by [[b/_brisk|brisk]] [[e/_exercise|exercise]].**
-- **To passionately [[d/_devote|devote]] [[m/_much|much]] of [[o/_one|one]]'s [[l/_life|life]] to (an [[a/_activity|activity]], [[e/_etc|etc]].).**
+- **To [[p/_passionately|passionately]] [[d/_devote|devote]] [[m/_much|much]] of [[o/_one|one]]'s [[l/_life|life]] to (an [[a/_activity|activity]], [[e/_etc|etc]].).**
 	- _Example: Do you like hiking?  Are you kidding? I breathe hiking._
 ---
 ### Synonyms

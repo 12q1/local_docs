@@ -5,6 +5,6 @@
 - **An [[a/_act|act]] of [[o/_one|one]] or [[m/_more|more]] [[a/_actors|actors]] [[l/_leaving|leaving]] the stage.**
 ---
 #verb
-- **They [[l/_leave|leave]] the stage (a stage [[d/_direction|direction]] to two or [[m/_more|more]] [[a/_actors|actors]], the plural [[c/_counterpart|counterpart]] of [[e/_exit|exit]]).**
+- **They [[l/_leave|leave]] the stage (a stage [[d/_direction|direction]] to two or [[m/_more|more]] [[a/_actors|actors]], the [[p/_plural|plural]] [[c/_counterpart|counterpart]] of [[e/_exit|exit]]).**
 ---
 ---

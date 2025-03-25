@@ -1,7 +1,7 @@
 # Flounce
 ---
 #noun
-- **A strip of [[d/_decorative|decorative]] [[m/_material|material]], usually pleated, [[a/_attached|attached]] [[a/_along|along]] [[o/_one|one]] [[e/_edge|edge]]; a ruffle.W**
+- **A strip of [[d/_decorative|decorative]] [[m/_material|material]], usually [[p/_pleated|pleated]], [[a/_attached|attached]] [[a/_along|along]] [[o/_one|one]] [[e/_edge|edge]]; a ruffle.W**
 - **The [[a/_act|act]] of [[f/_flouncing|flouncing]].**
 ---
 #verb

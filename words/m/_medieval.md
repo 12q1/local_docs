@@ -6,7 +6,7 @@
 	- _Example: Thank God for modern remedies: the medievals were often useless or even harmful._
 ---
 #adjective
-- **Of or relating to the [[m/_middle|Middle]] [[a/_ages|Ages]], the period from [[a/_approximately|approximately]] 500 to 1500 [[a/_ad|AD]].**
-- **[[h/_having|Having]] [[c/_characteristics|characteristics]] [[a/_associated|associated]] with the [[m/_middle|Middle]] [[a/_ages|Ages]] in popular, [[m/_modern|modern]] [[c/_cultural|cultural]] perception:**
+- **Of or relating to the [[m/_middle|Middle]] [[a/_ages|Ages]], the [[p/_period|period]] from [[a/_approximately|approximately]] 500 to 1500 [[a/_ad|AD]].**
+- **[[h/_having|Having]] [[c/_characteristics|characteristics]] [[a/_associated|associated]] with the [[m/_middle|Middle]] [[a/_ages|Ages]] in [[p/_popular|popular]], [[m/_modern|modern]] [[c/_cultural|cultural]] [[p/_perception|perception]]:**
 ---
 ---

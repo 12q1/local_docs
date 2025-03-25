@@ -20,7 +20,7 @@
 - **[[i/_insignificant|Insignificant]].**
 - **[[a/_absent|Absent]] or [[n/_non|non]]-[[e/_existent|existent]].**
 - **Of the [[n/_null|null]] set.**
-- **Of or [[c/_comprising|comprising]] a value of precisely zero.**
+- **Of or [[c/_comprising|comprising]] a value of [[p/_precisely|precisely]] zero.**
 - **(of a [[m/_mutation|mutation]]) [[c/_causing|Causing]] a [[c/_complete|complete]] [[l/_loss|loss]] of [[g/_gene|gene]] [[f/_function|function]], [[a/_amorphic|amorphic]].**
 ---
 ### Antonyms

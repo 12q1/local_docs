@@ -7,14 +7,14 @@
 	- _Example: The draw is on Saturday._
 - **Something that [[a/_attracts|attracts]] [[e/_e|e]].[[g/_g|g]]. a [[c/_crowd|crowd]].**
 - **The result of a two-[[i/_innings|innings]] [[m/_match|match]] in which at [[l/_least|least]] [[o/_one|one]] side [[d/_did|did]] not [[c/_complete|complete]] [[a/_all|all]] their [[i/_innings|innings]] [[b/_before|before]] time ran [[o/_out|out]] (as [[d/_distinguished|distinguished]] from a tie).**
-- **A [[g/_golf|golf]] shot that (for the right-[[h/_handed|handed]] player) [[c/_curves|curves]] [[i/_intentionally|intentionally]] to the [[l/_left|left]]. See [[h/_hook|hook]], slice, [[f/_fade|fade]].**
+- **A [[g/_golf|golf]] shot that (for the right-[[h/_handed|handed]] [[p/_player|player]]) [[c/_curves|curves]] [[i/_intentionally|intentionally]] to the [[l/_left|left]]. See [[h/_hook|hook]], slice, [[f/_fade|fade]].**
 - **A shot that is [[i/_intended|intended]] to [[l/_land|land]] [[g/_gently|gently]] in the [[h/_house|house]] (the [[c/_circular|circular]] target) without [[k/_knocking|knocking]] [[o/_out|out]] [[o/_other|other]] stones; [[c/_cf|cf]]. takeout.**
-- **A [[d/_dry|dry]] stream [[b/_bed|bed]] that [[d/_drains|drains]] surface water [[o/_only|only]] [[d/_during|during]] periods of [[h/_heavy|heavy]] rain or [[f/_flooding|flooding]].**
+- **A [[d/_dry|dry]] stream [[b/_bed|bed]] that [[d/_drains|drains]] surface water [[o/_only|only]] [[d/_during|during]] [[p/_periods|periods]] of [[h/_heavy|heavy]] rain or [[f/_flooding|flooding]].**
 - **A [[b/_bag|bag]] of [[c/_cannabis|cannabis]].**
 - **[[c/_cannabis|Cannabis]].**
-- **In a [[c/_commission|commission]]-[[b/_based|based]] [[j/_job|job]], an [[a/_advance|advance]] on [[f/_future|future]] (potential) [[c/_commissions|commissions]] [[g/_given|given]] to an [[e/_employee|employee]] by the [[e/_employer|employer]].**
-- **A situation in which [[o/_one|one]] or [[m/_more|more]] players [[h/_has|has]] [[f/_four|four]] [[c/_cards|cards]] of the same suit or [[f/_four|four]] [[o/_out|out]] of [[f/_five|five]] [[n/_necessary|necessary]] [[c/_cards|cards]] for a straight and requires a [[f/_further|further]] [[c/_card|card]] to [[m/_make|make]] their [[f/_flush|flush]] or straight.**
-- **The [[a/_act|act]] of pulling [[b/_back|back]] the strings in preparation of [[f/_firing|firing]].**
+- **In a [[c/_commission|commission]]-[[b/_based|based]] [[j/_job|job]], an [[a/_advance|advance]] on [[f/_future|future]] ([[p/_potential|potential]]) [[c/_commissions|commissions]] [[g/_given|given]] to an [[e/_employee|employee]] by the [[e/_employer|employer]].**
+- **A situation in which [[o/_one|one]] or [[m/_more|more]] [[p/_players|players]] [[h/_has|has]] [[f/_four|four]] [[c/_cards|cards]] of the same suit or [[f/_four|four]] [[o/_out|out]] of [[f/_five|five]] [[n/_necessary|necessary]] [[c/_cards|cards]] for a straight and requires a [[f/_further|further]] [[c/_card|card]] to [[m/_make|make]] their [[f/_flush|flush]] or straight.**
+- **The [[a/_act|act]] of pulling [[b/_back|back]] the strings in [[p/_preparation|preparation]] of [[f/_firing|firing]].**
 - **The spin or twist [[i/_imparted|imparted]] to a [[b/_ball|ball]] [[e/_etc|etc]]. by a [[d/_drawing|drawing]] stroke.**
 ---
 ### Synonyms
@@ -32,7 +32,7 @@
 	- _Example: We drew last time we played.  I drew him last time I played him.  I drew my last game against him._
 - **To [[c/_choose|choose]] by [[m/_means|means]] of a random selection process.**
 - **To [[m/_make|make]] a shot that [[l/_lands|lands]] [[g/_gently|gently]] in the [[h/_house|house]] (the [[c/_circular|circular]] target) without [[k/_knocking|knocking]] [[o/_out|out]] [[o/_other|other]] stones.**
-- **To play (a short-[[l/_length|length]] [[b/_ball|ball]] [[d/_directed|directed]] at the [[l/_leg|leg]] stump) with an [[i/_inclined|inclined]] [[b/_bat|bat]] so as to [[d/_deflect|deflect]] the [[b/_ball|ball]] [[b/_between|between]] the [[l/_legs|legs]] and the wicket.**
+- **To [[p/_play|play]] (a short-[[l/_length|length]] [[b/_ball|ball]] [[d/_directed|directed]] at the [[l/_leg|leg]] stump) with an [[i/_inclined|inclined]] [[b/_bat|bat]] so as to [[d/_deflect|deflect]] the [[b/_ball|ball]] [[b/_between|between]] the [[l/_legs|legs]] and the wicket.**
 - **To [[h/_hit|hit]] (the [[b/_ball|ball]]) with the toe of the [[c/_club|club]] so that it is [[d/_deflected|deflected]] toward the [[l/_left|left]].**
 - **To strike (the [[c/_cue|cue]] [[b/_ball|ball]]) [[b/_below|below]] the [[c/_center|center]] so as to [[g/_give|give]] it a [[b/_backward|backward]] rotation which [[c/_causes|causes]] it to take a [[b/_backward|backward]] [[d/_direction|direction]] on striking [[a/_another|another]] [[b/_ball|ball]].**
 ---

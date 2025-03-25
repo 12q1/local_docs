@@ -17,7 +17,7 @@
 - **A [[m/_minor|minor]] shortcoming.**
 ---
 #noun
-- **A [[c/_candela|candela]] per square [[m/_meter|meter]].**
+- **A [[c/_candela|candela]] [[p/_per|per]] square [[m/_meter|meter]].**
 	- _Example: This brightness of this LCD screen is between 900 and 1000 nits._
 ---
 ---

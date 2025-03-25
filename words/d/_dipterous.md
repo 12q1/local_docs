@@ -1,7 +1,7 @@
 # Dipterous
 ---
 #adjective
-- **Of, or pertaining to, [[d/_diptera|Diptera]] or the [[d/_dipterans|dipterans]].**
+- **Of, or [[p/_pertaining|pertaining]] to, [[d/_diptera|Diptera]] or the [[d/_dipterans|dipterans]].**
 - **[[h/_having|Having]] two wings.**
 ---
 ### Synonyms

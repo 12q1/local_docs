@@ -1,12 +1,12 @@
 # Palps
 ---
 #noun
-- **A pedipalp, an [[a/_appendage|appendage]] [[f/_found|found]] [[n/_near|near]] the [[m/_mouth|mouth]] in [[i/_invertebrates|invertebrates]]; [[h/_has|has]] a variety of [[f/_functions|functions]] but is [[o/_often|often]] primarily used for predating.**
+- **A [[p/_pedipalp|pedipalp]], an [[a/_appendage|appendage]] [[f/_found|found]] [[n/_near|near]] the [[m/_mouth|mouth]] in [[i/_invertebrates|invertebrates]]; [[h/_has|has]] a variety of [[f/_functions|functions]] but is [[o/_often|often]] primarily used for [[p/_predating|predating]].**
 ---
 ### Synonyms
 - [[p/_palpus|palpus]], [[p/_pedipalp|pedipalp]]
 #noun
-- **A [[f/_fleshy|fleshy]] part of a [[f/_fingertip|fingertip]].**
+- **A [[f/_fleshy|fleshy]] [[p/_part|part]] of a [[f/_fingertip|fingertip]].**
 - **Short for [[p/_palpation|palpation]].**
 ---
 ### Synonyms

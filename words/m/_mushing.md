@@ -1,7 +1,7 @@
 # Mushing
 ---
 #verb
-- **To squish so as to [[b/_break|break]] [[i/_into|into]] smaller pieces or to [[c/_combine|combine]] with something [[e/_else|else]].**
+- **To squish so as to [[b/_break|break]] [[i/_into|into]] smaller [[p/_pieces|pieces]] or to [[c/_combine|combine]] with something [[e/_else|else]].**
 	- _Example: He mushed the ingredients together._
 ---
 #verb

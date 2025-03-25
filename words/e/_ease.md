@@ -1,9 +1,9 @@
 # Ease
 ---
 #noun
-- **[[a/_ability|Ability]], the [[m/_means|means]] to [[d/_do|do]] something, particularly:**
-- **[[c/_comfort|Comfort]], a state or quality [[l/_lacking|lacking]] unpleasantness, particularly:**
-- **Relief, an [[e/_end|end]] to [[d/_discomfort|discomfort]], particularly:**
+- **[[a/_ability|Ability]], the [[m/_means|means]] to [[d/_do|do]] something, [[p/_particularly|particularly]]:**
+- **[[c/_comfort|Comfort]], a state or quality [[l/_lacking|lacking]] unpleasantness, [[p/_particularly|particularly]]:**
+- **Relief, an [[e/_end|end]] to [[d/_discomfort|discomfort]], [[p/_particularly|particularly]]:**
 - **A [[c/_convenience|convenience]]; a [[l/_luxury|luxury]].**
 - **A relief; an [[e/_easement|easement]].**
 ---

@@ -9,6 +9,6 @@
 ### Antonyms
 - [[s/_slash|slash]]
 #verb
-- **To [[e/_escape|escape]] (a metacharacter) by prepending a [[b/_backslash|backslash]] that serves as an [[e/_escape|escape]] [[c/_character|character]], thereby [[f/_forming|forming]] an [[e/_escape|escape]] sequence.**
+- **To [[e/_escape|escape]] (a metacharacter) by [[p/_prepending|prepending]] a [[b/_backslash|backslash]] that serves as an [[e/_escape|escape]] [[c/_character|character]], thereby [[f/_forming|forming]] an [[e/_escape|escape]] sequence.**
 ---
 ---

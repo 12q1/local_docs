@@ -7,8 +7,8 @@
 - **To [[h/_have|have]] sexual [[i/_intercourse|intercourse]] with.**
 - **To [[g/_gather|gather]] [[b/_balls|balls]] which [[c/_cling|cling]] to the [[f/_feet|feet]], as of [[d/_damp|damp]] snow or [[c/_clay|clay]]; to [[g/_gather|gather]] [[i/_into|into]] [[b/_balls|balls]].**
 	- _Example: The horse balls; the snow balls._
-- **(usually in present participle) To be [[h/_hip|hip]] or [[c/_cool|cool]].**
-- **To play [[b/_basketball|basketball]].**
+- **(usually in [[p/_present|present]] [[p/_participle|participle]]) To be [[h/_hip|hip]] or [[c/_cool|cool]].**
+- **To [[p/_play|play]] [[b/_basketball|basketball]].**
 - **To punish by [[a/_affixing|affixing]] a [[b/_ball|ball]] and [[c/_chain|chain]]**
 ---
 ### Synonyms

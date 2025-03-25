@@ -1,13 +1,13 @@
 # Entertain
 ---
 #noun
-- **[[e/_entertainment|Entertainment]]; pleasure.**
+- **[[e/_entertainment|Entertainment]]; [[p/_pleasure|pleasure]].**
 - **Reception of a [[g/_guest|guest]]; welcome.**
 ---
 #verb
 - **To [[a/_amuse|amuse]] (someone); to [[e/_engage|engage]] the [[a/_attention|attention]] of [[a/_agreeably|agreeably]].**
 	- _Example: The motivational speaker not only instructed but also entertained the audience._
-- **To [[h/_have|have]] someone [[o/_over|over]] at [[o/_one|one]]'s [[h/_home|home]] for a party or visit.**
+- **To [[h/_have|have]] someone [[o/_over|over]] at [[o/_one|one]]'s [[h/_home|home]] for a [[p/_party|party]] or visit.**
 	- _Example: They enjoy entertaining a lot._
 - **To receive and take [[i/_into|into]] [[c/_consideration|consideration]]; to [[h/_have|have]] a thought in [[m/_mind|mind]].**
 	- _Example: The committee would like to entertain the idea of reducing the budget figures._

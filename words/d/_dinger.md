@@ -6,7 +6,7 @@
 - **[[o/_one|One]] who rings a [[b/_bell|bell]].**
 - **A [[h/_home|home]] run.**
 	- _Example: The starting pitcher gave up three dingers._
-- **The penis.**
+- **The [[p/_penis|penis]].**
 - **Something [[o/_outstanding|outstanding]] or [[e/_exceptional|exceptional]], a [[h/_humdinger|humdinger]].**
 - **A [[c/_condom|condom]].**
 - **The [[b/_buttocks|buttocks]], the [[a/_anus|anus]].**

@@ -9,9 +9,9 @@
 	- _Example: The scenery flashed by quickly._
 - **To [[m/_make|make]] visible [[b/_briefly|briefly]].**
 	- _Example: A number will be flashed on the screen._
-- **To [[b/_briefly|briefly]], and [[o/_often|often]] unintentionally, [[e/_expose|expose]] [[o/_one|one]]'s [[n/_naked|naked]] [[b/_body|body]] or underwear, or part of it, in public. ([[c/_contrast|Contrast]] streak.)**
+- **To [[b/_briefly|briefly]], and [[o/_often|often]] unintentionally, [[e/_expose|expose]] [[o/_one|one]]'s [[n/_naked|naked]] [[b/_body|body]] or underwear, or [[p/_part|part]] of it, in public. ([[c/_contrast|Contrast]] streak.)**
 	- _Example: Her skirt was so short that she flashed her underpants as she was getting out of her car._
-- **To show or [[e/_expose|expose]] an "[[i/_inappropriate|inappropriate]]" part of the [[b/_body|body]] to someone for [[h/_humorous|humorous]] reasons or as an [[a/_act|act]] of [[c/_contempt|contempt]].**
+- **To show or [[e/_expose|expose]] an "[[i/_inappropriate|inappropriate]]" [[p/_part|part]] of the [[b/_body|body]] to someone for [[h/_humorous|humorous]] reasons or as an [[a/_act|act]] of [[c/_contempt|contempt]].**
 - **To [[b/_break|break]] [[f/_forth|forth]] [[l/_like|like]] a sudden [[f/_flood|flood]] of [[l/_light|light]]; to show a [[m/_momentary|momentary]] [[b/_brilliance|brilliance]].**
 - **To [[f/_flaunt|flaunt]]; to [[d/_display|display]] in a showy [[m/_manner|manner]].**
 	- _Example: He flashed a wad of hundred-dollar bills._
@@ -19,7 +19,7 @@
 	- _Example: The news services flashed the news about the end of the war to all corners of the globe._
 - **To [[m/_move|move]], or [[c/_cause|cause]] to [[m/_move|move]], suddenly.**
 	- _Example: Flash forward to the present day._
-- **To telephone a person, [[o/_only|only]] [[a/_allowing|allowing]] the phone to ring [[o/_once|once]], in [[o/_order|order]] to request a [[c/_call|call]] [[b/_back|back]].**
+- **To telephone a [[p/_person|person]], [[o/_only|only]] [[a/_allowing|allowing]] the [[p/_phone|phone]] to ring [[o/_once|once]], in [[o/_order|order]] to request a [[c/_call|call]] [[b/_back|back]].**
 	- _Example: Susan flashed Jessica, and then Jessica called her back, because Susan didn't have enough credit on her phone to make the call._
 - **(of [[l/_liquid|liquid]]) To [[e/_evaporate|evaporate]] suddenly. (See [[f/_flash|flash]] [[e/_evaporation|evaporation]].)**
 - **To [[c/_climb|climb]] (a route) successfully on the [[f/_first|first]] [[a/_attempt|attempt]].**
@@ -28,8 +28,8 @@
 - **([[g/_glassmaking|glassmaking]]) To [[e/_expand|expand]] ([[b/_blown|blown]] [[g/_glass|glass]]) [[i/_into|into]] a [[d/_disc|disc]].**
 - **To send by some startling or sudden [[m/_means|means]].**
 - **To [[b/_burst|burst]] [[o/_out|out]] [[i/_into|into]] violence.**
-- **To perform a [[f/_flash|flash]].**
-- **To release the pressure from a pressurized vessel.**
+- **To [[p/_perform|perform]] a [[f/_flash|flash]].**
+- **To release the [[p/_pressure|pressure]] from a [[p/_pressurized|pressurized]] vessel.**
 - **To trick up in a showy [[m/_manner|manner]].**
 - **To strike and throw up [[l/_large|large]] [[b/_bodies|bodies]] of water from the surface; to splash.**
 ---
@@ -37,11 +37,11 @@
 - [[b/_beep|beep]], [[g/_glint|glint]]
 #noun
 - **A sudden [[b/_blazing|blazing]] or [[b/_bursting|bursting]], as of [[f/_fire|fire]] or water.**
-- **(roofing) [[c/_components|Components]] used to weatherproof or seal roof system [[e/_edges|edges]] at perimeters, penetrations, walls, [[e/_expansion|expansion]] [[j/_joints|joints]], valleys, [[d/_drains|drains]] and [[o/_other|other]] places where the roof [[c/_covering|covering]] is [[i/_interrupted|interrupted]] or terminated.**
+- **(roofing) [[c/_components|Components]] used to weatherproof or seal roof system [[e/_edges|edges]] at [[p/_perimeters|perimeters]], [[p/_penetrations|penetrations]], walls, [[e/_expansion|expansion]] [[j/_joints|joints]], valleys, [[d/_drains|drains]] and [[o/_other|other]] [[p/_places|places]] where the roof [[c/_covering|covering]] is [[i/_interrupted|interrupted]] or terminated.**
 - **The process of [[g/_getting|getting]] rid of [[g/_gaps|gaps]] on shelves by [[b/_bringing|bringing]] products from the [[b/_back|back]] of the shelf to the [[f/_front|front]] to [[c/_create|create]] a '[[f/_fuller|fuller]]' shelf.**
 - **The [[b/_blinking|blinking]] of a [[l/_light|light]] source, such as a [[l/_light|light]] [[b/_bulb|bulb]] or [[c/_computer|computer]]'s [[c/_cursor|cursor]].**
 	- _Example: The incessant flashing of the neon sign kept the neighborhood awake._
-- **The [[e/_exposing|exposing]] of [[o/_one|one]]'s [[n/_naked|naked]] [[b/_body|body]], or part of it, in public [[b/_briefly|briefly]] (the [[a/_action|action]] of the verb to [[f/_flash|flash]]).**
-- **([[j/_jewellery|jewellery]]) The use of rhodium plating to temporarily [[e/_enhance|enhance]] a ring's [[d/_durability|durability]] and shine.**
+- **The [[e/_exposing|exposing]] of [[o/_one|one]]'s [[n/_naked|naked]] [[b/_body|body]], or [[p/_part|part]] of it, in public [[b/_briefly|briefly]] (the [[a/_action|action]] of the verb to [[f/_flash|flash]]).**
+- **([[j/_jewellery|jewellery]]) The use of rhodium [[p/_plating|plating]] to temporarily [[e/_enhance|enhance]] a ring's [[d/_durability|durability]] and shine.**
 ---
 ---

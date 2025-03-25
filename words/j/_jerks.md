@@ -4,12 +4,12 @@
 - **A sudden, [[o/_often|often]] uncontrolled [[m/_movement|movement]], [[e/_especially|especially]] of the [[b/_body|body]].**
 - **A quick, [[o/_often|often]] unpleasant tug or shake.**
 	- _Example: When I yell "OK," give the mooring line a good jerk!_
-- **A [[d/_dull|dull]] or stupid person.**
-- **A person with unlikable or [[o/_obnoxious|obnoxious]] qualities and [[b/_behavior|behavior]], typically [[m/_mean|mean]], self-[[c/_centered|centered]] or [[d/_disagreeable|disagreeable]].**
+- **A [[d/_dull|dull]] or stupid [[p/_person|person]].**
+- **A [[p/_person|person]] with unlikable or [[o/_obnoxious|obnoxious]] qualities and [[b/_behavior|behavior]], typically [[m/_mean|mean]], self-[[c/_centered|centered]] or [[d/_disagreeable|disagreeable]].**
 	- _Example: I finally fired him, because he was being a real jerk to his customers, even to some of the staff._
 - **The rate of [[c/_change|change]] in [[a/_acceleration|acceleration]] with respect to time.**
 - **A soda [[j/_jerk|jerk]].**
-- **A [[l/_lift|lift]] in which the weight is taken with a quick [[m/_motion|motion]] from shoulder [[h/_height|height]] to a position [[a/_above|above]] the [[h/_head|head]] with [[a/_arms|arms]] [[f/_fully|fully]] [[e/_extended|extended]] and [[h/_held|held]] there for a [[b/_brief|brief]] time.**
+- **A [[l/_lift|lift]] in which the weight is taken with a quick [[m/_motion|motion]] from shoulder [[h/_height|height]] to a [[p/_position|position]] [[a/_above|above]] the [[h/_head|head]] with [[a/_arms|arms]] [[f/_fully|fully]] [[e/_extended|extended]] and [[h/_held|held]] there for a [[b/_brief|brief]] time.**
 ---
 ### Synonyms
 - [[j/_jolt|jolt]], [[l/_lurch|lurch]], [[s/_surge|surge]], [[y/_yank|yank]], [[n/_numbskull|numbskull]], [[j/_jolt|jolt]], [[j/_jump|jump]], [[l/_lurch|lurch]], [[a/_asshole|asshole]], [[b/_bastard|bastard]], [[d/_dick|dick]], [[g/_git|git]], [[k/_knobhead|knobhead]], [[t/_tosser|tosser]], [[t/_twat|twat]], [[w/_wanker|wanker]]

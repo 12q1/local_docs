@@ -4,9 +4,9 @@
 - **A solid or [[h/_hollow|hollow]] sphere, or roughly spherical [[m/_mass|mass]].**
 	- _Example: a ball of spittle; a fecal ball_
 - **A round or [[e/_ellipsoidal|ellipsoidal]] [[o/_object|object]].**
-- **([[m/_mildly|mildly]], usually in the plural) A testicle.**
+- **([[m/_mildly|mildly]], usually in the [[p/_plural|plural]]) A testicle.**
 - **A [[l/_leather|leather]]-[[c/_covered|covered]] [[c/_cushion|cushion]], [[f/_fastened|fastened]] to a [[h/_handle|handle]] [[c/_called|called]] a [[b/_ballstock|ballstock]]; [[f/_formerly|formerly]] used by printers for [[i/_inking|inking]] the [[f/_form|form]], then superseded by the roller.**
-- **A [[l/_large|large]] pill, a [[f/_form|form]] in which [[m/_medicine|medicine]] was [[g/_given|given]] to [[h/_horses|horses]]; a [[b/_bolus|bolus]].**
+- **A [[l/_large|large]] [[p/_pill|pill]], a [[f/_form|form]] in which [[m/_medicine|medicine]] was [[g/_given|given]] to [[h/_horses|horses]]; a [[b/_bolus|bolus]].**
 ---
 ### Synonyms
 - [[c/_chutzpah|chutzpah]], [[g/_guts|guts]], [[n/_nerve|nerve]], [[g/_globe|globe]], [[s/_sphere|sphere]]
@@ -17,13 +17,13 @@
 - **To [[h/_have|have]] sexual [[i/_intercourse|intercourse]] with.**
 - **To [[g/_gather|gather]] [[b/_balls|balls]] which [[c/_cling|cling]] to the [[f/_feet|feet]], as of [[d/_damp|damp]] snow or [[c/_clay|clay]]; to [[g/_gather|gather]] [[i/_into|into]] [[b/_balls|balls]].**
 	- _Example: The horse balls; the snow balls._
-- **(usually in present participle) To be [[h/_hip|hip]] or [[c/_cool|cool]].**
-- **To play [[b/_basketball|basketball]].**
+- **(usually in [[p/_present|present]] [[p/_participle|participle]]) To be [[h/_hip|hip]] or [[c/_cool|cool]].**
+- **To [[p/_play|play]] [[b/_basketball|basketball]].**
 - **To punish by [[a/_affixing|affixing]] a [[b/_ball|ball]] and [[c/_chain|chain]]**
 ---
 ### Synonyms
 - [[r/_roll|roll]], [[w/_wad|wad]], [[b/_bonk|bonk]], [[f/_fuck|fuck]], [[l/_lay|lay]], [[s/_screw|screw]], [[s/_shag|shag]]
 #interjection
-- **An [[a/_appeal|appeal]] by the [[c/_crowd|crowd]] for [[h/_holding|holding]] the [[b/_ball|ball]] [[a/_against|against]] a tackled player. This is [[h/_heard|heard]] [[a/_almost|almost]] [[a/_any|any]] time an [[o/_opposition|opposition]] player is tackled, without regard to whether the rules [[a/_about|about]] "prior [[o/_opportunity|opportunity]]" to [[d/_dispose|dispose]] of the [[b/_ball|ball]] are [[f/_fulfilled|fulfilled]].**
+- **An [[a/_appeal|appeal]] by the [[c/_crowd|crowd]] for [[h/_holding|holding]] the [[b/_ball|ball]] [[a/_against|against]] a tackled [[p/_player|player]]. This is [[h/_heard|heard]] [[a/_almost|almost]] [[a/_any|any]] time an [[o/_opposition|opposition]] [[p/_player|player]] is tackled, without regard to whether the rules [[a/_about|about]] "prior [[o/_opportunity|opportunity]]" to [[d/_dispose|dispose]] of the [[b/_ball|ball]] are [[f/_fulfilled|fulfilled]].**
 ---
 ---

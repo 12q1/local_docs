@@ -1,7 +1,7 @@
 # Inebriate
 ---
 #noun
-- **A person who is [[i/_intoxicated|intoxicated]], [[e/_especially|especially]] [[o/_one|one]] who is [[h/_habitually|habitually]] [[d/_drunk|drunk]].**
+- **A [[p/_person|person]] who is [[i/_intoxicated|intoxicated]], [[e/_especially|especially]] [[o/_one|one]] who is [[h/_habitually|habitually]] [[d/_drunk|drunk]].**
 ---
 ### Synonyms
 - [[d/_drunkard|drunkard]]

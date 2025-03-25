@@ -1,6 +1,6 @@
 # Mystics
 ---
 #noun
-- **Someone who practices [[m/_mysticism|mysticism]].**
+- **Someone who [[p/_practices|practices]] [[m/_mysticism|mysticism]].**
 ---
 ---

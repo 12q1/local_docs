@@ -1,6 +1,6 @@
 # Fitchy
 ---
 #adjective
-- **Sharpened to a point; pointed.**
+- **Sharpened to a [[p/_point|point]]; [[p/_pointed|pointed]].**
 ---
 ---

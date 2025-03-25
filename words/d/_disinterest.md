@@ -12,7 +12,7 @@
 - **To render [[d/_disinterested|disinterested]].**
 ---
 #adjective
-- **[[f/_free|Free]] of personal [[b/_bias|bias]].**
+- **[[f/_free|Free]] of [[p/_personal|personal]] [[b/_bias|bias]].**
 ---
 ### Synonyms
 - [[d/_disinterested|disinterested]]

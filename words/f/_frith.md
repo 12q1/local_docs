@@ -1,7 +1,7 @@
 # Frith
 ---
 #noun
-- **Peace; security.**
+- **[[p/_peace|Peace]]; security.**
 - **Sanctuary, [[a/_asylum|asylum]].**
 ---
 ---

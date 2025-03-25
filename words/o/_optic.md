@@ -2,7 +2,7 @@
 ---
 #noun
 - **An [[e/_eye|eye]].**
-- **A [[l/_lens|lens]] or [[o/_other|other]] part of an [[o/_optical|optical]] [[i/_instrument|instrument]] that [[i/_interacts|interacts]] with [[l/_light|light]].**
+- **A [[l/_lens|lens]] or [[o/_other|other]] [[p/_part|part]] of an [[o/_optical|optical]] [[i/_instrument|instrument]] that [[i/_interacts|interacts]] with [[l/_light|light]].**
 - **A [[m/_measuring|measuring]] [[d/_device|device]] with a small window, [[a/_attached|attached]] to an upside-[[d/_down|down]] [[b/_bottle|bottle]], used to [[d/_dispense|dispense]] [[a/_alcoholic|alcoholic]] [[d/_drinks|drinks]] in a [[b/_bar|bar]].**
 ---
 #adjective

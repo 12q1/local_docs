@@ -7,6 +7,6 @@
 ### Synonyms
 - [[e/_entwine|entwine]]
 #noun
-- **The pattern or [[m/_motion|motion]] of something that [[i/_intertwines|intertwines]].**
+- **The [[p/_pattern|pattern]] or [[m/_motion|motion]] of something that [[i/_intertwines|intertwines]].**
 ---
 ---

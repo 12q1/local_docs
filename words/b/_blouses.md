@@ -2,7 +2,7 @@
 ---
 #noun
 - **A shirt, typically [[l/_loose|loose]] and reaching from the [[n/_neck|neck]] to the waist.**
-- **A shirt for women, particularly a shirt with [[b/_buttons|buttons]]; a [[d/_dress|dress]] shirt tailored for women.**
+- **A shirt for women, [[p/_particularly|particularly]] a shirt with [[b/_buttons|buttons]]; a [[d/_dress|dress]] shirt tailored for women.**
 - **A [[l/_loose|loose]]-[[f/_fitting|fitting]] uniform [[j/_jacket|jacket]].**
 ---
 ### Synonyms

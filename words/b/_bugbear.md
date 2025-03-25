@@ -8,6 +8,6 @@
 ### Synonyms
 - [[g/_goblin|goblin]]
 #verb
-- **To [[a/_alarm|alarm]] with [[i/_idle|idle]] phantoms.**
+- **To [[a/_alarm|alarm]] with [[i/_idle|idle]] [[p/_phantoms|phantoms]].**
 ---
 ---

@@ -1,7 +1,7 @@
 # Gummed
 ---
 #verb
-- **To [[c/_chew|chew]], [[e/_especially|especially]] of a toothless person or [[a/_animal|animal]].**
+- **To [[c/_chew|chew]], [[e/_especially|especially]] of a toothless [[p/_person|person]] or [[a/_animal|animal]].**
 - **To [[d/_deepen|deepen]] and [[e/_enlarge|enlarge]] the spaces [[b/_between|between]] the teeth of (a worn saw), as with a [[g/_gummer|gummer]].**
 ---
 #verb

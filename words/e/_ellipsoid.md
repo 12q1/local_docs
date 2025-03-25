@@ -7,7 +7,7 @@
 ---
 #adjective
 - **Shaped [[l/_like|like]] an [[e/_ellipse|ellipse]]; [[e/_elliptical|elliptical]].**
-- **Of or pertaining to an [[e/_ellipse|ellipse]]; [[e/_elliptic|elliptic]].**
+- **Of or [[p/_pertaining|pertaining]] to an [[e/_ellipse|ellipse]]; [[e/_elliptic|elliptic]].**
 - **[[h/_having|Having]] the tridimensional shape of an [[e/_ellipse|ellipse]] rotated on [[i/_its|its]] [[l/_long|long]] [[a/_axis|axis]].**
 ---
 ---

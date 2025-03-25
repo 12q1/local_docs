@@ -7,7 +7,7 @@
 - **[[c/_crossed|Crossed]]; [[i/_intersected|intersected]]; resembling a [[l/_letter|letter]] X.**
 - **[[h/_having|Having]] [[a/_anatomical|anatomical]] structures or [[m/_markings|markings]] [[c/_crossing|crossing]] [[e/_each|each]] [[o/_other|other]], typically in an X shape or at right [[a/_angles|angles]].**
 - **[[h/_having|Having]] [[o/_opposite|opposite]] [[l/_leaves|leaves]] [[a/_arranged|arranged]] [[a/_alternately|alternately]] at right [[a/_angles|angles]].**
-- **[[c/_consisting|Consisting]] of two rising and two [[f/_falling|falling]] [[c/_clauses|clauses]], placed in [[a/_alternate|alternate]] [[o/_opposition|opposition]] to [[e/_each|each]] [[o/_other|other]].**
+- **[[c/_consisting|Consisting]] of two rising and two [[f/_falling|falling]] [[c/_clauses|clauses]], [[p/_placed|placed]] in [[a/_alternate|alternate]] [[o/_opposition|opposition]] to [[e/_each|each]] [[o/_other|other]].**
 	- _Example: a decussated period_
 ---
 ### Synonyms

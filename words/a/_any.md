@@ -5,7 +5,7 @@
 	- _Example: I will not remain here any longer._
 ---
 #pronoun
-- **[[a/_any|Any]] thing(s) or person(s).**
+- **[[a/_any|Any]] thing(s) or [[p/_person|person]](s).**
 	- _Example: Any may apply._
 ---
 ---

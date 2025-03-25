@@ -5,7 +5,7 @@
 - **(of a [[c/_climate|climate]] or [[e/_environment|environment]]) [[m/_mild|mild]] and [[f/_favorable|favorable]]**
 - **(in [[c/_combination|combination]]) Not [[h/_harmful|harmful]] to the [[e/_environment|environment]].**
 	- _Example: an ozone-benign refrigerant_
-- **Not posing [[a/_any|any]] serious threat to [[h/_health|health]]; not particularly [[a/_aggressive|aggressive]] or recurrent.**
+- **Not [[p/_posing|posing]] [[a/_any|any]] serious threat to [[h/_health|health]]; not [[p/_particularly|particularly]] [[a/_aggressive|aggressive]] or recurrent.**
 ---
 ### Synonyms
 - [[n/_non-malignant|non-malignant]]

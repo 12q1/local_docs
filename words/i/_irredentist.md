@@ -4,6 +4,6 @@
 - **Someone who [[c/_calls|calls]] for the seizure or recovery of territories or states [[c/_currently|currently]] subject to [[o/_other|other]] [[c/_countries|countries]]; an [[a/_adherent|adherent]] of [[i/_irredentism|irredentism]].**
 ---
 #adjective
-- **Of or relating to [[i/_irredentists|irredentists]] or their policies.**
+- **Of or relating to [[i/_irredentists|irredentists]] or their [[p/_policies|policies]].**
 ---
 ---

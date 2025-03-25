@@ -4,7 +4,7 @@
 - **A [[b/_berry|berry]].**
 - **[[l/_laurus|Laurus]] nobilis, a tree or shrub of the [[f/_family|family]] [[l/_lauraceae|Lauraceae]], [[h/_having|having]] [[d/_dark|dark]] [[g/_green|green]] [[l/_leaves|leaves]] and [[b/_berries|berries]].**
 - **[[b/_bay|Bay]] [[l/_leaf|leaf]], the [[l/_leaf|leaf]] of this or [[c/_certain|certain]] [[o/_other|other]] species of tree or shrub, used as a [[h/_herb|herb]].**
-- **(in the plural) The [[l/_leaves|leaves]] of this shrub, woven [[i/_into|into]] a [[g/_garland|garland]] used to reward a [[c/_champion|champion]] or victor; [[h/_hence|hence]], [[f/_fame|fame]], victory.**
+- **(in the [[p/_plural|plural]]) The [[l/_leaves|leaves]] of this shrub, woven [[i/_into|into]] a [[g/_garland|garland]] used to reward a [[c/_champion|champion]] or victor; [[h/_hence|hence]], [[f/_fame|fame]], victory.**
 - **A tract [[c/_covered|covered]] with [[b/_bay|bay]] trees.**
 - **A [[k/_kind|kind]] of [[m/_mahogany|mahogany]] [[o/_obtained|obtained]] from [[c/_campeche|Campeche]] in [[m/_mexico|Mexico]].**
 ---
@@ -19,14 +19,14 @@
 #noun
 - **An [[o/_opening|opening]] in a wall, [[e/_especially|especially]] [[b/_between|between]] two [[c/_columns|columns]].**
 - **An [[i/_internal|internal]] recess; a [[c/_compartment|compartment]] or [[a/_area|area]] surrounded on three sides.**
-- **The [[d/_distance|distance]] [[b/_between|between]] two supports in a vault or [[b/_building|building]] with a pitched roof.**
-- **[[e/_each|Each]] of the spaces, port and starboard, [[b/_between|between]] [[d/_decks|decks]], [[f/_forward|forward]] of the [[b/_bitts|bitts]], in sailing warships.**
-- **A [[b/_bay|bay]] platform.**
+- **The [[d/_distance|distance]] [[b/_between|between]] two supports in a vault or [[b/_building|building]] with a [[p/_pitched|pitched]] roof.**
+- **[[e/_each|Each]] of the spaces, [[p/_port|port]] and starboard, [[b/_between|between]] [[d/_decks|decks]], [[f/_forward|forward]] of the [[b/_bitts|bitts]], in sailing warships.**
+- **A [[b/_bay|bay]] [[p/_platform|platform]].**
 - **A [[b/_bay|bay]] window.**
 ---
 #noun
 - **The [[e/_excited|excited]] [[h/_howling|howling]] of [[d/_dogs|dogs]] when [[h/_hunting|hunting]] or [[b/_being|being]] [[a/_attacked|attacked]].**
-- **(by [[e/_extension|extension]]) The [[c/_climactic|climactic]] [[c/_confrontation|confrontation]] [[b/_between|between]] [[h/_hunting|hunting]]-[[d/_dogs|dogs]] and their prey.**
+- **(by [[e/_extension|extension]]) The [[c/_climactic|climactic]] [[c/_confrontation|confrontation]] [[b/_between|between]] [[h/_hunting|hunting]]-[[d/_dogs|dogs]] and their [[p/_prey|prey]].**
 - **A state of [[b/_being|being]] [[o/_obliged|obliged]] to [[f/_face|face]] an [[a/_antagonist|antagonist]] or a [[d/_difficulty|difficulty]], when [[e/_escape|escape]] [[h/_has|has]] [[b/_become|become]] [[i/_impossible|impossible]].**
 ---
 #verb

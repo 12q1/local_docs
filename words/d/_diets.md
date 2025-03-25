@@ -1,7 +1,7 @@
 # Diets
 ---
 #noun
-- **The [[f/_food|food]] and [[b/_beverage|beverage]] a person or [[a/_animal|animal]] [[c/_consumes|consumes]].**
+- **The [[f/_food|food]] and [[b/_beverage|beverage]] a [[p/_person|person]] or [[a/_animal|animal]] [[c/_consumes|consumes]].**
 	- _Example: The diet of the Giant Panda consists mainly of bamboo._
 - **A [[c/_controlled|controlled]] regimen of [[f/_food|food]] and [[d/_drink|drink]], as to [[g/_gain|gain]] or [[l/_lose|lose]] weight or [[o/_otherwise|otherwise]] [[i/_influence|influence]] [[h/_health|health]].**
 - **(by [[e/_extension|extension]]) [[a/_any|Any]] [[h/_habitual|habitual]] [[i/_intake|intake]] or [[c/_consumption|consumption]].**

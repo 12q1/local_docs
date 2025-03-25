@@ -1,0 +1,14 @@
+# Pray
+---
+#verb
+- **To [[d/_direct|direct]] words and/or thoughts to [[g/_god|God]] or [[a/_any|any]] [[h/_higher|higher]] [[b/_being|being]], for the sake of [[a/_adoration|adoration]], thanks, [[p/_petition|petition]] for [[h/_help|help]], [[e/_etc|etc]].**
+	- _Example: Muslims pray in the direction of Mecca._
+- **To [[h/_humbly|humbly]] [[b/_beg|beg]] a [[p/_person|person]] for [[a/_aid|aid]] or their time.**
+- **To [[a/_ask|ask]] [[e/_earnestly|earnestly]] for; to seek to [[o/_obtain|obtain]] by supplication; to [[e/_entreat|entreat]] for.**
+- **To [[i/_implore|implore]], to [[e/_entreat|entreat]], to request.**
+---
+#adverb
+- **[[p/_please|Please]]; used to [[m/_make|make]] a [[p/_polite|polite]] request.**
+	- _Example: pray silence for…_
+---
+---

@@ -1,7 +1,7 @@
 # Amend
 ---
 #noun
-- **(usually in the plural) An [[a/_act|act]] of righting a wrong; [[c/_compensation|compensation]].**
+- **(usually in the [[p/_plural|plural]]) An [[a/_act|act]] of righting a wrong; [[c/_compensation|compensation]].**
 ---
 #verb
 - **To [[m/_make|make]] [[b/_better|better]]; [[i/_improve|improve]].**

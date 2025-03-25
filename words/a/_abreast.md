@@ -2,7 +2,7 @@
 ---
 #adjective
 - **Side by side, [[f/_facing|facing]] [[f/_forward|forward]].**
-- **[[a/_alongside|Alongside]]; parallel to.**
+- **[[a/_alongside|Alongside]]; [[p/_parallel|parallel]] to.**
 - **[[i/_informed|Informed]], well-[[i/_informed|informed]], [[f/_familiar|familiar]], [[a/_acquainted|acquainted]].**
 - **Up to a [[c/_certain|certain]] [[l/_level|level]] or [[l/_line|line]]; [[e/_equally|equally]] [[a/_advanced|advanced]]**
 	- _Example: to keep abreast of [or with] the present state of science._
@@ -10,7 +10,7 @@
 ---
 #adverb
 - **Side by side and [[f/_facing|facing]] [[f/_forward|forward]].**
-- **[[a/_alongside|Alongside]]; parallel to.**
+- **[[a/_alongside|Alongside]]; [[p/_parallel|parallel]] to.**
 - **[[i/_informed|Informed]], well-[[i/_informed|informed]], [[f/_familiar|familiar]], [[a/_acquainted|acquainted]].**
 - **[[f/_followed|Followed]] by of or with: up to a [[c/_certain|certain]] [[l/_level|level]] or [[l/_line|line]]; [[e/_equally|equally]] [[a/_advanced|advanced]].**
 	- _Example: She believes it is important to keep abreast of new scientific developments._

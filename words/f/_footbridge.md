@@ -1,6 +1,6 @@
 # Footbridge
 ---
 #noun
-- **A [[b/_bridge|bridge]] [[o/_over|over]] a road, railway, river, [[e/_etc|etc]] for pedestrians.**
+- **A [[b/_bridge|bridge]] [[o/_over|over]] a road, railway, river, [[e/_etc|etc]] for [[p/_pedestrians|pedestrians]].**
 ---
 ---

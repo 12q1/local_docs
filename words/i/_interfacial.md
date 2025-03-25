@@ -1,6 +1,6 @@
 # Interfacial
 ---
 #adjective
-- **Of or pertaining to an [[i/_interface|interface]]**
+- **Of or [[p/_pertaining|pertaining]] to an [[i/_interface|interface]]**
 ---
 ---

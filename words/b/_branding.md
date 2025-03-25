@@ -13,7 +13,7 @@
 	- _Example: They branded the new detergent "Suds-O", with a nature scene inside a green O on the muted-colored recycled-cardboard box._
 ---
 #noun
-- **The process in which a [[m/_mark|mark]], usually a symbol or [[o/_ornamental|ornamental]] pattern, is [[b/_burned|burned]] [[i/_into|into]] the skin of a [[l/_living|living]] person or [[a/_animal|animal]].**
+- **The process in which a [[m/_mark|mark]], usually a symbol or [[o/_ornamental|ornamental]] [[p/_pattern|pattern]], is [[b/_burned|burned]] [[i/_into|into]] the skin of a [[l/_living|living]] [[p/_person|person]] or [[a/_animal|animal]].**
 - **The promotion of a [[c/_commercial|commercial]] [[b/_brand|brand]] of product in [[o/_order|order]] to [[g/_give|give]] it [[g/_greater|greater]] public [[a/_awareness|awareness]].**
 ---
 ---

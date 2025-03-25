@@ -1,0 +1,51 @@
+# Pick
+---
+#noun
+- **A tool used for [[d/_digging|digging]]; a [[p/_pickaxe|pickaxe]].**
+- **A tool for unlocking a [[l/_lock|lock]] without the [[o/_original|original]] [[k/_key|key]]; a [[l/_lock|lock]] [[p/_pick|pick]], [[p/_picklock|picklock]].**
+- **A [[c/_comb|comb]] with [[l/_long|long]] widely spaced teeth, for use with tightly [[c/_curled|curled]] [[h/_hair|hair]].**
+- **A [[c/_choice|choice]]; [[a/_ability|ability]] to [[c/_choose|choose]].**
+- **That which would be [[p/_picked|picked]] or [[c/_chosen|chosen]] [[f/_first|first]]; the [[b/_best|best]].**
+- **A screen.**
+- **An [[o/_offensive|offensive]] tactic in which a [[p/_player|player]] stands so as to [[b/_block|block]] a [[d/_defender|defender]] from reaching a teammate.**
+- **An [[i/_interception|interception]].**
+- **A [[g/_good|good]] [[d/_defensive|defensive]] [[p/_play|play]] by an [[i/_infielder|infielder]].**
+- **A [[p/_pickoff|pickoff]].**
+- **A tool used for strumming the strings of a [[g/_guitar|guitar]]; a [[p/_plectrum|plectrum]].**
+- **A [[p/_pointed|pointed]] [[h/_hammer|hammer]] used for [[d/_dressing|dressing]] [[m/_millstones|millstones]].**
+- **A [[p/_pike|pike]] or spike; the sharp [[p/_point|point]] [[f/_fixed|fixed]] in the [[c/_center|center]] of a [[b/_buckler|buckler]].**
+- **A [[p/_particle|particle]] of [[i/_ink|ink]] or [[p/_paper|paper]] [[e/_embedded|embedded]] in the [[h/_hollow|hollow]] of a [[l/_letter|letter]], [[f/_filling|filling]] up [[i/_its|its]] [[f/_face|face]], and [[c/_causing|causing]] a spot on a printed sheet.**
+- **That which is [[p/_picked|picked]] in, as with a [[p/_pointed|pointed]] [[p/_pencil|pencil]], to [[c/_correct|correct]] an unevenness in a [[p/_picture|picture]].**
+- **The [[b/_blow|blow]] that [[d/_drives|drives]] the shuttle, used in [[c/_calculating|calculating]] the speed of a [[l/_loom|loom]] (in [[p/_picks|picks]] [[p/_per|per]] [[m/_minute|minute]]); [[h/_hence|hence]], in [[d/_describing|describing]] the [[f/_fineness|fineness]] of a [[f/_fabric|fabric]], a weft thread.**
+	- _Example: so many picks to an inch_
+---
+#verb
+- **To [[g/_grasp|grasp]] and pull with the [[f/_fingers|fingers]] or [[f/_fingernails|fingernails]].**
+	- _Example: Don't pick at that scab._
+- **To [[h/_harvest|harvest]] a [[f/_fruit|fruit]] or vegetable for [[c/_consumption|consumption]] by removing it from the [[p/_plant|plant]] to which it is [[a/_attached|attached]]; to [[h/_harvest|harvest]] an [[e/_entire|entire]] [[p/_plant|plant]] by removing it from the [[g/_ground|ground]].**
+	- _Example: It's time to pick the tomatoes._
+- **To pull [[a/_apart|apart]] or [[a/_away|away]], [[e/_especially|especially]] with the [[f/_fingers|fingers]]; to [[p/_pluck|pluck]].**
+	- _Example: She picked flowers in the meadow._
+- **To take up; [[e/_especially|especially]], to [[g/_gather|gather]] from [[h/_here|here]] and there; to [[c/_collect|collect]]; to [[b/_bring|bring]] together.**
+	- _Example: to pick rags_
+- **To remove something from somewhere with a [[p/_pointed|pointed]] [[i/_instrument|instrument]], with the [[f/_fingers|fingers]], or with the teeth.**
+	- _Example: to pick the teeth; to pick a bone; to pick a goose; to pick a pocket_
+- **To [[d/_decide|decide]] upon, from a set of [[o/_options|options]]; to select.**
+	- _Example: I'll pick the one with the nicest name._
+- **To seek (a [[f/_fight|fight]] or quarrel) where the [[o/_opportunity|opportunity]] [[a/_arises|arises]].**
+- **To recognise the type of [[b/_ball|ball]] [[b/_being|being]] [[b/_bowled|bowled]] by a [[b/_bowler|bowler]] by studying the [[p/_position|position]] of the [[h/_hand|hand]] and [[a/_arm|arm]] as the [[b/_ball|ball]] is released.**
+	- _Example: He didn't pick the googly, and was bowled._
+- **To [[p/_pluck|pluck]] the [[i/_individual|individual]] strings of a [[m/_musical|musical]] [[i/_instrument|instrument]] or to [[p/_play|play]] such an [[i/_instrument|instrument]].**
+	- _Example: He picked a tune on his banjo._
+- **To [[o/_open|open]] (a [[l/_lock|lock]]) with a wire, [[l/_lock|lock]] [[p/_pick|pick]], [[e/_etc|etc]].**
+- **To [[e/_eat|eat]] slowly, sparingly, or by [[m/_morsels|morsels]]; to [[n/_nibble|nibble]].**
+- **To [[d/_do|do]] [[a/_anything|anything]] [[f/_fastidiously|fastidiously]] or [[c/_carefully|carefully]], or by [[a/_attending|attending]] to small things; to select something with [[c/_care|care]].**
+	- _Example: I gingerly picked my way between the thorny shrubs._
+- **To steal; to [[p/_pilfer|pilfer]].**
+- **To throw; to [[p/_pitch|pitch]].**
+- **To [[p/_peck|peck]] at, as a [[b/_bird|bird]] with [[i/_its|its]] [[b/_beak|beak]]; to strike at with [[a/_anything|anything]] [[p/_pointed|pointed]]; to [[a/_act|act]] upon with a [[p/_pointed|pointed]] [[i/_instrument|instrument]]; to [[p/_pierce|pierce]]; to prick, as with a [[p/_pin|pin]].**
+- **To separate or [[o/_open|open]] by [[m/_means|means]] of a sharp [[p/_point|point]] or [[p/_points|points]].**
+	- _Example: to pick matted wool, cotton, oakum, etc._
+- **To screen.**
+---
+---

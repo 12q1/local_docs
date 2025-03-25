@@ -1,6 +1,6 @@
 # Garnishees
 ---
 #noun
-- **The person whose [[m/_money|money]] is [[g/_garnished|garnished]]**
+- **The [[p/_person|person]] whose [[m/_money|money]] is [[g/_garnished|garnished]]**
 ---
 ---

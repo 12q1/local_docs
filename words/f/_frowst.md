@@ -6,6 +6,6 @@
 ### Synonyms
 - [[s/_stuffiness|stuffiness]]
 #verb
-- **To [[e/_enjoy|enjoy]] [[b/_being|being]] in a warm, [[c/_close|close]], stuffy place.**
+- **To [[e/_enjoy|enjoy]] [[b/_being|being]] in a warm, [[c/_close|close]], stuffy [[p/_place|place]].**
 ---
 ---

@@ -2,6 +2,6 @@
 ---
 #noun
 - **A birdwatcher.**
-- **A person who [[h/_hunts|hunts]] [[b/_birds|birds]].**
+- **A [[p/_person|person]] who [[h/_hunts|hunts]] [[b/_birds|birds]].**
 ---
 ---

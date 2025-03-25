@@ -3,8 +3,8 @@
 #noun
 - **A [[d/_derisive|derisive]] [[c/_cry|cry]] or shout.**
 - **The [[c/_cry|cry]] of an [[o/_owl|owl]].**
-- **A [[f/_fun|fun]] [[e/_event|event]] or person. (See [[h/_hootenanny|hootenanny]])**
-- **A small particle.**
+- **A [[f/_fun|fun]] [[e/_event|event]] or [[p/_person|person]]. (See [[h/_hootenanny|hootenanny]])**
+- **A small [[p/_particle|particle]].**
 ---
 #verb
 - **To [[c/_cry|cry]] [[o/_out|out]] or shout in [[c/_contempt|contempt]].**

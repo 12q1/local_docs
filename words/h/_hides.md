@@ -1,9 +1,9 @@
 # Hides
 ---
 #verb
-- **To put (something) in a place where it will be [[h/_harder|harder]] to [[d/_discover|discover]] or [[o/_out|out]] of sight.**
+- **To put (something) in a [[p/_place|place]] where it will be [[h/_harder|harder]] to [[d/_discover|discover]] or [[o/_out|out]] of sight.**
 	- _Example: He hides his magazines under the bed._
-- **To put [[o/_oneself|oneself]] in a place where [[o/_one|one]] will be [[h/_harder|harder]] to [[f/_find|find]] or [[o/_out|out]] of sight.**
+- **To put [[o/_oneself|oneself]] in a [[p/_place|place]] where [[o/_one|one]] will be [[h/_harder|harder]] to [[f/_find|find]] or [[o/_out|out]] of sight.**
 ---
 ### Synonyms
 - [[c/_conceal|conceal]], [[s/_secrete|secrete]]
@@ -12,10 +12,10 @@
 #noun
 - **The skin of an [[a/_animal|animal]].**
 - **The [[h/_human|human]] skin.**
-- **(usually United States) [[o/_one|One]]'s [[o/_own|own]] [[l/_life|life]] or personal safety, [[e/_especially|especially]] when in peril.**
+- **(usually United States) [[o/_one|One]]'s [[o/_own|own]] [[l/_life|life]] or [[p/_personal|personal]] safety, [[e/_especially|especially]] when in [[p/_peril|peril]].**
 - **([[m/_mainly|mainly]] [[b/_british|British]]) A [[c/_covered|covered]] structure from which [[h/_hunters|hunters]], birdwatchers, [[e/_etc|etc]] [[c/_can|can]] [[o/_observe|observe]] [[a/_animals|animals]] without scaring them.**
 - **A secret room for [[h/_hiding|hiding]] [[o/_oneself|oneself]] or valuables; a [[h/_hideaway|hideaway]].**
-- **A [[c/_covered|covered]] structure to which a pet [[a/_animal|animal]] [[c/_can|can]] retreat, as is recommended for snakes.**
+- **A [[c/_covered|covered]] structure to which a [[p/_pet|pet]] [[a/_animal|animal]] [[c/_can|can]] retreat, as is recommended for snakes.**
 ---
 ### Synonyms
 - [[p/_pelt|pelt]], [[s/_skin|skin]]

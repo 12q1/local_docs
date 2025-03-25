@@ -1,7 +1,7 @@
 # Fault
 ---
 #noun
-- **A [[d/_defect|defect]]; something that [[d/_detracts|detracts]] from perfection.**
+- **A [[d/_defect|defect]]; something that [[d/_detracts|detracts]] from [[p/_perfection|perfection]].**
 - **A [[m/_mistake|mistake]] or [[e/_error|error]].**
 	- _Example: No! This is my fault, not yours._
 - **A weakness of [[c/_character|character]]; a [[f/_failing|failing]].**

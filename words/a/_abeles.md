@@ -1,6 +1,6 @@
 # Abeles
 ---
 #noun
-- **The white poplar (Populus [[a/_alba|alba]]).**
+- **The white [[p/_poplar|poplar]] ([[p/_populus|Populus]] [[a/_alba|alba]]).**
 ---
 ---

@@ -7,6 +7,6 @@
 	- _Example: He juggled home, school, and work for two years._
 - **To [[d/_deceive|deceive]] by trick or [[a/_artifice|artifice]].**
 - **To [[j/_joke|joke]] or [[j/_jest|jest]].**
-- **To perform [[m/_magic|magic]] tricks.**
+- **To [[p/_perform|perform]] [[m/_magic|magic]] tricks.**
 ---
 ---

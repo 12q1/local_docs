@@ -1,9 +1,9 @@
 # Dicks
 ---
 #noun
-- **A [[m/_male|male]] person.**
-- **The penis.**
-- **A [[h/_highly|highly]] [[c/_contemptible|contemptible]] person; a [[j/_jerk|jerk]].**
+- **A [[m/_male|male]] [[p/_person|person]].**
+- **The [[p/_penis|penis]].**
+- **A [[h/_highly|highly]] [[c/_contemptible|contemptible]] [[p/_person|person]]; a [[j/_jerk|jerk]].**
 	- _Example: That person is such a dick._
 - **[[a/_absolutely|Absolutely]] [[n/_nothing|nothing]].**
 	- _Example: Last weekend I did dick._

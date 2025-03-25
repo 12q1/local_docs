@@ -6,7 +6,7 @@
 	- _Example: This computer is buggered! Oh no! I've buggered it up._
 - **To be surprised.**
 	- _Example: Bugger me sideways!_
-- **To [[f/_feel|feel]] [[c/_contempt|contempt]] for some person or thing.**
+- **To [[f/_feel|feel]] [[c/_contempt|contempt]] for some [[p/_person|person]] or thing.**
 	- _Example: Bugger Bognor. (Alleged to be the last words of King George V of the United Kingdom in response to a suggestion that he might recover from his illness and visit Bognor Regis.)_
 - **To [[f/_feel|feel]] [[f/_frustration|frustration]] with something, or to [[c/_consider|consider]] that something is [[f/_futile|futile]].**
 	- _Example: Bugger this for a game of soldiers._

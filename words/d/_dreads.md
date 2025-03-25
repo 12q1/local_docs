@@ -1,7 +1,7 @@
 # Dreads
 ---
 #noun
-- **A Rastafarian person.**
+- **A Rastafarian [[p/_person|person]].**
 ---
 #noun
 - **[[d/_dreadlocks|Dreadlocks]]**

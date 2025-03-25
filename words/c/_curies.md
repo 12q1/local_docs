@@ -1,6 +1,6 @@
 # Curies
 ---
 #noun
-- **3.7×1010 [[d/_decays|decays]] per second, as a unit of radioactivity. Symbol Ci.**
+- **3.7×1010 [[d/_decays|decays]] [[p/_per|per]] second, as a unit of radioactivity. Symbol Ci.**
 ---
 ---

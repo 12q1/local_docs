@@ -1,6 +1,6 @@
 # Lyricists
 ---
 #noun
-- **A person who writes the [[l/_lyrics|lyrics]] of a song.**
+- **A [[p/_person|person]] who writes the [[l/_lyrics|lyrics]] of a song.**
 ---
 ---

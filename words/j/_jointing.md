@@ -1,7 +1,7 @@
 # Jointing
 ---
 #verb
-- **To unite by a [[j/_joint|joint]] or [[j/_joints|joints]]; to [[f/_fit|fit]] together; to prepare so as to [[f/_fit|fit]] together**
+- **To unite by a [[j/_joint|joint]] or [[j/_joints|joints]]; to [[f/_fit|fit]] together; to [[p/_prepare|prepare]] so as to [[f/_fit|fit]] together**
 	- _Example: a jointing plane_
 - **To [[j/_join|join]]; to [[c/_connect|connect]]; to unite; to [[c/_combine|combine]].**
 - **To provide with a [[j/_joint|joint]] or [[j/_joints|joints]]; to [[a/_articulate|articulate]].**

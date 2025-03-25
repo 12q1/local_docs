@@ -2,7 +2,7 @@
 ---
 #adjective
 - **[[c/_capable|Capable]] of [[b/_being|being]] seen, or [[e/_easily|easily]] seen; [[o/_open|open]] to view; visible to the [[e/_eye|eye]], eyely; within sight or view.**
-- **[[c/_clear|Clear]] or [[m/_manifest|manifest]] to the understanding; plain; [[e/_evident|evident]]; [[o/_obvious|obvious]]; [[k/_known|known]]; [[p/_palpable|palpable]]; [[i/_indubitable|indubitable]].**
+- **[[c/_clear|Clear]] or [[m/_manifest|manifest]] to the understanding; [[p/_plain|plain]]; [[e/_evident|evident]]; [[o/_obvious|obvious]]; [[k/_known|known]]; [[p/_palpable|palpable]]; [[i/_indubitable|indubitable]].**
 - **[[a/_appearing|Appearing]] to the [[e/_eye|eye]] or [[m/_mind|mind]] ([[d/_distinguished|distinguished]] from, but not [[n/_necessarily|necessarily]] [[o/_opposed|opposed]] to, true or real); seeming.**
 ---
 ### Synonyms

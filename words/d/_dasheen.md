@@ -1,6 +1,6 @@
 # Dasheen
 ---
 #noun
-- **[[o/_old|Old]] [[c/_cocoyam|cocoyam]]; the [[e/_edible|edible]] starchy [[y/_yellow|yellow]] tuber of the taro plant.**
+- **[[o/_old|Old]] [[c/_cocoyam|cocoyam]]; the [[e/_edible|edible]] starchy [[y/_yellow|yellow]] tuber of the taro [[p/_plant|plant]].**
 ---
 ---

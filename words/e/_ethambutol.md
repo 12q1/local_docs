@@ -1,6 +1,6 @@
 # Ethambutol
 ---
 #noun
-- **A [[b/_bacteriostatic|bacteriostatic]] antimycobacterial [[d/_drug|drug]] prescribed to treat tuberculosis.**
+- **A [[b/_bacteriostatic|bacteriostatic]] antimycobacterial [[d/_drug|drug]] [[p/_prescribed|prescribed]] to treat tuberculosis.**
 ---
 ---

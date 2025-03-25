@@ -6,7 +6,7 @@
 	- _Example: What's the matter?;   state matters_
 - **An [[a/_approximate|approximate]] [[a/_amount|amount]] or [[e/_extent|extent]].**
 	- _Example: I stayed for a matter of months._
-- **The [[e/_essence|essence]]; the pith; the [[e/_embodiment|embodiment]].**
+- **The [[e/_essence|essence]]; the [[p/_pith|pith]]; the [[e/_embodiment|embodiment]].**
 - **[[i/_inducing|Inducing]] [[c/_cause|cause]] or reason, [[e/_especially|especially]] of [[a/_anything|anything]] [[d/_disagreeable|disagreeable]] or [[d/_distressing|distressing]].**
 - **Pus.**
 ---

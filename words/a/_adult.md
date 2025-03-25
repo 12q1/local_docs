@@ -2,7 +2,7 @@
 ---
 #noun
 - **A [[f/_fully|fully]] [[g/_grown|grown]] [[h/_human|human]] or [[a/_animal|animal]].**
-- **A person who [[h/_has|has]] reached the [[l/_legal|legal]] [[a/_age|age]] of [[m/_majority|majority]].**
+- **A [[p/_person|person]] who [[h/_has|has]] reached the [[l/_legal|legal]] [[a/_age|age]] of [[m/_majority|majority]].**
 ---
 ### Synonyms
 - 
@@ -15,7 +15,7 @@
 	- _Example: an adult human, animal, or plant_
 - **[[i/_intended|Intended]] for or restricted to [[a/_adults|adults]] rather than [[c/_children|children]].**
 	- _Example: adult clothes_
-- **[[c/_containing|Containing]] [[m/_material|material]] of an [[e/_explicit|explicit]] sexual [[n/_nature|nature]]; of, or pertaining to, pornography.**
+- **[[c/_containing|Containing]] [[m/_material|material]] of an [[e/_explicit|explicit]] sexual [[n/_nature|nature]]; of, or [[p/_pertaining|pertaining]] to, [[p/_pornography|pornography]].**
 	- _Example: This program contains adult content. Parental discretion is advised._
 - **Vulgar or profane.**
 ---

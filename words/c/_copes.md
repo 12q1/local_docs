@@ -11,11 +11,11 @@
 ### Antonyms
 - 
 #noun
-- **A [[l/_long|long]], [[l/_loose|loose]] [[c/_cloak|cloak]] worn by a priest, [[d/_deacon|deacon]], or [[b/_bishop|bishop]] when presiding [[o/_over|over]] a [[c/_ceremony|ceremony]] [[o/_other|other]] than the [[m/_mass|Mass]].**
+- **A [[l/_long|long]], [[l/_loose|loose]] [[c/_cloak|cloak]] worn by a priest, [[d/_deacon|deacon]], or [[b/_bishop|bishop]] when [[p/_presiding|presiding]] [[o/_over|over]] a [[c/_ceremony|ceremony]] [[o/_other|other]] than the [[m/_mass|Mass]].**
 - **[[a/_any|Any]] [[c/_covering|covering]] such as a [[c/_canopy|canopy]] or a [[m/_mantle|mantle]].**
 - **The vault or [[c/_canopy|canopy]] of the skies, [[h/_heavens|heavens]] [[e/_etc|etc]].**
-- **A [[c/_covering|covering]] piece on top of a wall [[e/_exposed|exposed]] to the weather, usually [[m/_made|made]] of [[m/_metal|metal]], [[m/_masonry|masonry]], or stone, and sloped to [[c/_carry|carry]] [[o/_off|off]] water.**
-- **([[f/_foundry|foundry]]) The top part of a sand [[c/_casting|casting]] [[m/_mold|mold]].**
+- **A [[c/_covering|covering]] [[p/_piece|piece]] on top of a wall [[e/_exposed|exposed]] to the weather, usually [[m/_made|made]] of [[m/_metal|metal]], [[m/_masonry|masonry]], or stone, and sloped to [[c/_carry|carry]] [[o/_off|off]] water.**
+- **([[f/_foundry|foundry]]) The top [[p/_part|part]] of a sand [[c/_casting|casting]] [[m/_mold|mold]].**
 - **An [[a/_ancient|ancient]] tribute [[d/_due|due]] to the [[l/_lord|lord]] of the soil, [[o/_out|out]] of the [[l/_lead|lead]] [[m/_mines|mines]] in [[d/_derbyshire|Derbyshire]], [[e/_england|England]].**
 ---
 #verb

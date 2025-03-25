@@ -6,7 +6,7 @@
 ---
 #adjective
 - **[[c/_clad|Clad]] or [[e/_equipped|equipped]] with [[a/_arms|arms]] or [[a/_armor|armor]].**
-- **[[c/_covered|Covered]] with [[a/_armor|armor]], as a ship or the [[f/_face|face]] of a [[f/_fortification|fortification]]; [[a/_armor|armor]]-plated.**
+- **[[c/_covered|Covered]] with [[a/_armor|armor]], as a ship or the [[f/_face|face]] of a [[f/_fortification|fortification]]; [[a/_armor|armor]]-[[p/_plated|plated]].**
 ---
 ### Antonyms
 - [[n/_nonarmored|nonarmored]], [[u/_unarmored|unarmored]]

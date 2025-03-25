@@ -8,7 +8,7 @@
 - **To reprimand.**
 ---
 #noun
-- **[[c/_carpet|Carpet]] or a piece of [[c/_carpet|carpet]], [[e/_especially|especially]] when speaking of [[i/_installation|installation]] or removal.**
+- **[[c/_carpet|Carpet]] or a [[p/_piece|piece]] of [[c/_carpet|carpet]], [[e/_especially|especially]] when speaking of [[i/_installation|installation]] or removal.**
 	- _Example: As part of the restoration of the house, they took up the carpeting and left the hardwood floors exposed._
 - **[[c/_cloth|Cloth]] or [[m/_materials|materials]] for [[c/_carpets|carpets]].**
 - **A severe reprimand or telling-[[o/_off|off]].**

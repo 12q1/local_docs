@@ -1,0 +1,10 @@
+# Peculiarly
+---
+#adverb
+- **Such as to be [[g/_greater|greater]] than usual; [[p/_particularly|particularly]]; [[e/_exceptionally|exceptionally]].**
+- **Such as to be strange or [[o/_odd|odd]].**
+- **Strongly [[a/_associated|associated]] with.**
+---
+### Synonyms
+- [[s/_specifically|specifically]], [[o/_oddly|oddly]], [[q/_queerly|queerly]]
+---

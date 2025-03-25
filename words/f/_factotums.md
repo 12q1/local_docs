@@ -1,7 +1,7 @@
 # Factotums
 ---
 #noun
-- **A person [[h/_having|having]] [[m/_many|many]] [[d/_diverse|diverse]] [[a/_activities|activities]] or responsibilities.**
+- **A [[p/_person|person]] [[h/_having|having]] [[m/_many|many]] [[d/_diverse|diverse]] [[a/_activities|activities]] or responsibilities.**
 - **A [[g/_general|general]] servant.**
 - **An [[i/_individual|individual]] [[e/_employed|employed]] to [[d/_do|do]] [[a/_all|all]] sorts of [[d/_duties|duties]].**
 - **A [[j/_jack|jack]] of [[a/_all|all]] trades.**

@@ -1,6 +1,6 @@
 # Decastyle
 ---
 #noun
-- **A portico with ten [[c/_columns|columns]].**
+- **A [[p/_portico|portico]] with ten [[c/_columns|columns]].**
 ---
 ---

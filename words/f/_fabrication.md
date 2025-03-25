@@ -5,6 +5,6 @@
 	- _Example: the fabrication of a bridge, a church, or a government_
 - **That which is [[f/_fabricated|fabricated]]; a [[f/_falsehood|falsehood]]**
 	- _Example: The story is doubtless a fabrication._
-- **The [[a/_act|act]] of [[c/_cutting|cutting]] up an [[a/_animal|animal]] [[c/_carcass|carcass]] as preparation for [[c/_cooking|cooking]]; [[b/_butchery|butchery]].**
+- **The [[a/_act|act]] of [[c/_cutting|cutting]] up an [[a/_animal|animal]] [[c/_carcass|carcass]] as [[p/_preparation|preparation]] for [[c/_cooking|cooking]]; [[b/_butchery|butchery]].**
 ---
 ---

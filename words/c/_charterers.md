@@ -1,6 +1,6 @@
 # Charterers
 ---
 #noun
-- **A person who [[c/_charters|charters]] something**
+- **A [[p/_person|person]] who [[c/_charters|charters]] something**
 ---
 ---

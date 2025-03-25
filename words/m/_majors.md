@@ -9,8 +9,8 @@
 	- _Example: Midway through his second year of college, he still hadn't chosen a major._
 - **A student at a [[c/_college|college]] or university [[c/_concentrating|concentrating]] on a [[g/_given|given]] [[a/_area|area]] of study.**
 	- _Example: She is a math major._
-- **A person of [[l/_legal|legal]] [[a/_age|age]].**
-- **The [[m/_major|major]] premise.**
+- **A [[p/_person|person]] of [[l/_legal|legal]] [[a/_age|age]].**
+- **The [[m/_major|major]] [[p/_premise|premise]].**
 - **A touchdown, or [[m/_major|major]] score.**
 - **A [[l/_large|large]], [[c/_commercially|commercially]] successful [[c/_company|company]], [[e/_especially|especially]] a record [[l/_label|label]] that is [[b/_bigger|bigger]] than an indie.**
 - **([[b/_british|British]] slang) An [[e/_elder|elder]] [[b/_brother|brother]] ([[e/_especially|especially]] at a public school).**

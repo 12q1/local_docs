@@ -3,9 +3,9 @@
 #noun
 - **An [[i/_individual|individual]] sheet of [[g/_glass|glass]] in a window, [[d/_door|door]], [[e/_etc|etc]].**
 - **A [[l/_layer|layer]] in the [[b/_build|build]]-up of a GUI.**
-- **A [[d/_division|division]]; a [[d/_distinct|distinct]] piece or [[c/_compartment|compartment]] of [[a/_any|any]] surface.**
-- **A square of a [[c/_checkered|checkered]] or plaid pattern.**
-- **[[o/_one|One]] of the [[o/_openings|openings]] in a slashed [[g/_garment|garment]], showing the [[b/_bright|bright]] [[c/_colored|colored]] silk, or the [[l/_like|like]], within; [[h/_hence|hence]], the piece of [[c/_colored|colored]] or [[o/_other|other]] stuff so shown.**
+- **A [[d/_division|division]]; a [[d/_distinct|distinct]] [[p/_piece|piece]] or [[c/_compartment|compartment]] of [[a/_any|any]] surface.**
+- **A square of a [[c/_checkered|checkered]] or [[p/_plaid|plaid]] [[p/_pattern|pattern]].**
+- **[[o/_one|One]] of the [[o/_openings|openings]] in a slashed [[g/_garment|garment]], showing the [[b/_bright|bright]] [[c/_colored|colored]] silk, or the [[l/_like|like]], within; [[h/_hence|hence]], the [[p/_piece|piece]] of [[c/_colored|colored]] or [[o/_other|other]] stuff so shown.**
 - **A [[c/_compartment|compartment]] of a surface, or a [[f/_flat|flat]] space; [[h/_hence|hence]], [[o/_one|one]] side or [[f/_face|face]] of a [[b/_building|building]].**
 	- _Example: An octagonal tower is said to have eight panes._
 - **A subdivision of an [[i/_irrigated|irrigated]] surface [[b/_between|between]] a [[f/_feeder|feeder]] and an [[o/_outlet|outlet]] [[d/_drain|drain]].**

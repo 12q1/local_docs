@@ -15,10 +15,10 @@
 	- _Example: Stop dreaming and get back to work._
 - **To [[e/_envision|envision]] as an [[i/_imaginary|imaginary]] [[e/_experience|experience]] (usually when [[a/_asleep|asleep]]).**
 	- _Example: I dreamed a vivid dream last night._
-- **To [[c/_consider|consider]] the possibility (of).**
+- **To [[c/_consider|consider]] the [[p/_possibility|possibility]] (of).**
 	- _Example: I wouldn't dream of snubbing you in public._
 ---
 #adjective
-- **[[i/_ideal|Ideal]]; perfect.**
+- **[[i/_ideal|Ideal]]; [[p/_perfect|perfect]].**
 ---
 ---

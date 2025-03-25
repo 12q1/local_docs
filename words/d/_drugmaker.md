@@ -1,6 +1,6 @@
 # Drugmaker
 ---
 #noun
-- **A pharmaceutical [[m/_manufacturer|manufacturer]]**
+- **A [[p/_pharmaceutical|pharmaceutical]] [[m/_manufacturer|manufacturer]]**
 ---
 ---

@@ -1,7 +1,7 @@
 # Grudges
 ---
 #noun
-- **[[d/_deep|Deep]]-seated and/or [[l/_long|long]]-term [[a/_animosity|animosity]] or [[i/_ill|ill]] will [[a/_about|about]] something or someone, [[e/_especially|especially]] [[d/_due|due]] to a past [[m/_misdeed|misdeed]] or [[m/_mistreatment|mistreatment]].**
+- **[[d/_deep|Deep]]-seated and/or [[l/_long|long]]-term [[a/_animosity|animosity]] or [[i/_ill|ill]] will [[a/_about|about]] something or someone, [[e/_especially|especially]] [[d/_due|due]] to a [[p/_past|past]] [[m/_misdeed|misdeed]] or [[m/_mistreatment|mistreatment]].**
 	- _Example: to have/hold/bear a grudge against someone_
 ---
 #verb

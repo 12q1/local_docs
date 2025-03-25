@@ -8,10 +8,10 @@
 	- _Example: buckwheat cakes_
 - **A [[b/_block|block]] of [[a/_any|any]] of various [[d/_dense|dense]] [[m/_materials|materials]].**
 	- _Example: a cake of sand_
-- **A trivially [[e/_easy|easy]] task or responsibility; from a piece of [[c/_cake|cake]].**
+- **A trivially [[e/_easy|easy]] task or responsibility; from a [[p/_piece|piece]] of [[c/_cake|cake]].**
 - **[[m/_money|Money]].**
 - **Used to [[d/_describe|describe]] the [[d/_doctrine|doctrine]] of [[h/_having|having]] [[o/_one|one]]'s [[c/_cake|cake]] and [[e/_eating|eating]] it too.**
-- **A [[b/_buttock|buttock]], [[e/_especially|especially]] [[o/_one|one]] that is [[e/_exceptionally|exceptionally]] plump.**
+- **A [[b/_buttock|buttock]], [[e/_especially|especially]] [[o/_one|one]] that is [[e/_exceptionally|exceptionally]] [[p/_plump|plump]].**
 	- _Example: Mmm, I'd like to cut me some of that cake!_
 ---
 ### Synonyms

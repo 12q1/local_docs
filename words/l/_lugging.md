@@ -9,6 +9,6 @@
 - **To pull toward the [[i/_inside|inside]] rail ("[[l/_lugging|lugging]] in") or the [[o/_outside|outside]] rail ("[[l/_lugging|lugging]] [[o/_out|out]]") [[d/_during|during]] a race.**
 ---
 #noun
-- **The process by which something is [[l/_lugged|lugged]] from [[o/_one|one]] place to [[a/_another|another]]; a [[l/_laborious|laborious]] [[c/_carrying|carrying]] or [[d/_dragging|dragging]].**
+- **The process by which something is [[l/_lugged|lugged]] from [[o/_one|one]] [[p/_place|place]] to [[a/_another|another]]; a [[l/_laborious|laborious]] [[c/_carrying|carrying]] or [[d/_dragging|dragging]].**
 ---
 ---

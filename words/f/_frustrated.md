@@ -10,6 +10,6 @@
 ---
 #adjective
 - **[[f/_foiled|Foiled]], stopped, [[d/_disappointed|disappointed]].**
-- **Suffering from [[f/_frustration|frustration]]; [[d/_dissatisfied|dissatisfied]], [[a/_agitated|agitated]], and/or [[d/_discontent|discontent]] [[b/_because|because]] [[o/_one|one]] is unable to perform an [[a/_action|action]] or [[f/_fulfill|fulfill]] a [[d/_desire|desire]].**
+- **Suffering from [[f/_frustration|frustration]]; [[d/_dissatisfied|dissatisfied]], [[a/_agitated|agitated]], and/or [[d/_discontent|discontent]] [[b/_because|because]] [[o/_one|one]] is unable to [[p/_perform|perform]] an [[a/_action|action]] or [[f/_fulfill|fulfill]] a [[d/_desire|desire]].**
 ---
 ---

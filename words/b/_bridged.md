@@ -5,9 +5,9 @@
 	- _Example: With enough cable, we can bridge this gorge._
 - **To span as [[i/_if|if]] with a [[b/_bridge|bridge]].**
 	- _Example: The two groups were able to bridge their differences._
-- **To transition from [[o/_one|one]] piece or section of [[m/_music|music]] to [[a/_another|another]] without stopping.**
+- **To transition from [[o/_one|one]] [[p/_piece|piece]] or section of [[m/_music|music]] to [[a/_another|another]] without stopping.**
 - **([[c/_communication|communication]]) To [[c/_connect|connect]] two or [[m/_more|more]] [[c/_computer|computer]] [[b/_buses|buses]], [[n/_networks|networks]] [[e/_etc|etc]]. with a [[b/_bridge|bridge]].**
-- **To [[g/_go|go]] to the [[b/_bridge|bridge]] position.**
+- **To [[g/_go|go]] to the [[b/_bridge|bridge]] [[p/_position|position]].**
 ---
 #adjective
 - **[[e/_equipped|Equipped]] with a [[b/_bridge|bridge]] (in [[m/_many|many]] [[c/_contexts|contexts]]).**

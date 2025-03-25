@@ -5,7 +5,7 @@
 	- _Example: They deepened the well by 200 feet._
 - **To [[m/_make|make]] [[d/_darker|darker]] or [[m/_more|more]] [[i/_intense|intense]]; to [[d/_darken|darken]]**
 	- _Example: The event deepened the prevailing gloom._
-- **To [[m/_make|make]] [[m/_more|more]] poignant or [[a/_affecting|affecting]]; to [[i/_increase|increase]] in [[d/_degree|degree]]**
+- **To [[m/_make|make]] [[m/_more|more]] [[p/_poignant|poignant]] or [[a/_affecting|affecting]]; to [[i/_increase|increase]] in [[d/_degree|degree]]**
 	- _Example: News of her death deepened my sorrow._
 - **To [[m/_make|make]] [[l/_lower|lower]] in tone**
 	- _Example: The tuner deepened the tone of the organ._

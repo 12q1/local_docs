@@ -7,15 +7,15 @@
 - **A section of [[c/_clothing|clothing]] [[c/_covering|covering]] the [[b/_breast|breast]] [[a/_area|area]].**
 - **The [[f/_figurative|figurative]] seat of the [[e/_emotions|emotions]], [[f/_feelings|feelings]] [[e/_etc|etc]].; [[o/_one|one]]'s [[h/_heart|heart]] or [[i/_innermost|innermost]] thoughts.**
 	- _Example: She kindled hope in the breast of all who heard her._
-- **The ventral portion of an [[a/_animal|animal]]'s thorax.**
+- **The ventral [[p/_portion|portion]] of an [[a/_animal|animal]]'s thorax.**
 	- _Example: The robin has a red breast._
-- **A [[c/_choice|choice]] [[c/_cut|cut]] of poultry, [[e/_especially|especially]] [[c/_chicken|chicken]] or turkey, taken from the [[b/_bird|bird]]’s [[b/_breast|breast]]; [[a/_also|also]] a [[c/_cut|cut]] of [[m/_meat|meat]] from [[o/_other|other]] [[a/_animals|animals]], [[b/_breast|breast]] of [[m/_mutton|mutton]], veal, pork.**
+- **A [[c/_choice|choice]] [[c/_cut|cut]] of [[p/_poultry|poultry]], [[e/_especially|especially]] [[c/_chicken|chicken]] or turkey, taken from the [[b/_bird|bird]]’s [[b/_breast|breast]]; [[a/_also|also]] a [[c/_cut|cut]] of [[m/_meat|meat]] from [[o/_other|other]] [[a/_animals|animals]], [[b/_breast|breast]] of [[m/_mutton|mutton]], veal, [[p/_pork|pork]].**
 	- _Example: Would you like breast or wing?_
-- **The [[f/_front|front]] or [[f/_forward|forward]] part of [[a/_anything|anything]].**
+- **The [[f/_front|front]] or [[f/_forward|forward]] [[p/_part|part]] of [[a/_anything|anything]].**
 	- _Example: a chimney breast; a plough breast_
 - **The [[f/_face|face]] of a [[c/_coal|coal]] working.**
 - **The [[f/_front|front]] of a [[f/_furnace|furnace]].**
-- **The power of singing; a [[m/_musical|musical]] voice.**
+- **The [[p/_power|power]] of singing; a [[m/_musical|musical]] voice.**
 ---
 ### Synonyms
 - [[c/_chest|chest]], [[b/_brisket|brisket]], [[h/_heart|heart]], [[s/_soul|soul]]

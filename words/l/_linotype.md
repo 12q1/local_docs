@@ -5,6 +5,6 @@
 - **The slug produced by such a [[m/_machine|machine]], or [[m/_matter|matter]] [[c/_composed|composed]] in such [[l/_lines|lines]].**
 ---
 #verb
-- **To prepare (printed [[m/_matter|matter]]) using a [[l/_linotype|linotype]] [[m/_machine|machine]].**
+- **To [[p/_prepare|prepare]] (printed [[m/_matter|matter]]) using a [[l/_linotype|linotype]] [[m/_machine|machine]].**
 ---
 ---

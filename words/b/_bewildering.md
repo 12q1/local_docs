@@ -7,7 +7,7 @@
 ### Synonyms
 - [[b/_befuddle|befuddle]]
 #adjective
-- **Very [[c/_confusing|confusing]], perplexing, or [[b/_baffling|baffling]], [[o/_often|often]] [[d/_due|due]] to a very [[l/_large|large]] [[c/_choice|choice]] [[b/_being|being]] [[a/_available|available]].**
+- **Very [[c/_confusing|confusing]], [[p/_perplexing|perplexing]], or [[b/_baffling|baffling]], [[o/_often|often]] [[d/_due|due]] to a very [[l/_large|large]] [[c/_choice|choice]] [[b/_being|being]] [[a/_available|available]].**
 	- _Example: There was a bewildering collection of curiosities filling the room._
 ---
 ---

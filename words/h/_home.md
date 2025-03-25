@@ -2,10 +2,10 @@
 ---
 #noun
 - **A [[d/_dwelling|dwelling]].**
-- **[[o/_one|One]]’s [[n/_native|native]] [[l/_land|land]]; the place or [[c/_country|country]] in which [[o/_one|one]] [[d/_dwells|dwells]]; the place where [[o/_one|one]]’s [[a/_ancestors|ancestors]] [[d/_dwell|dwell]] or [[d/_dwelt|dwelt]].**
+- **[[o/_one|One]]’s [[n/_native|native]] [[l/_land|land]]; the [[p/_place|place]] or [[c/_country|country]] in which [[o/_one|one]] [[d/_dwells|dwells]]; the [[p/_place|place]] where [[o/_one|one]]’s [[a/_ancestors|ancestors]] [[d/_dwell|dwell]] or [[d/_dwelt|dwelt]].**
 - **The [[l/_locality|locality]] where a thing is usually [[f/_found|found]], or was [[f/_first|first]] [[f/_found|found]], or where it is [[n/_naturally|naturally]] [[a/_abundant|abundant]]; [[h/_habitat|habitat]]; seat.**
 	- _Example: the home of the pine_
-- **A [[f/_focus|focus]] point.**
+- **A [[f/_focus|focus]] [[p/_point|point]].**
 ---
 ### Synonyms
 - [[a/_abode|abode]], [[d/_domicile|domicile]], [[d/_dwelling|dwelling]], [[h/_house|house]], [[r/_residence|residence]], [[t/_tenement|tenement]]
@@ -16,21 +16,21 @@
 	- _Example: The missile was able to home in on the target._
 ---
 #adjective
-- **Of or pertaining to [[o/_one|one]]’s [[d/_dwelling|dwelling]] or [[c/_country|country]]; [[d/_domestic|domestic]]; not [[f/_foreign|foreign]]; as [[h/_home|home]] [[m/_manufactures|manufactures]]; [[h/_home|home]] [[c/_comforts|comforts]].**
-- **([[e/_except|except]] in phrases) That strikes [[h/_home|home]]; [[d/_direct|direct]], pointed.**
-- **Personal, [[i/_intimate|intimate]].**
-- **Relating to the [[h/_home|home]] team (the team at whose venue a [[g/_game|game]] is played).**
+- **Of or [[p/_pertaining|pertaining]] to [[o/_one|one]]’s [[d/_dwelling|dwelling]] or [[c/_country|country]]; [[d/_domestic|domestic]]; not [[f/_foreign|foreign]]; as [[h/_home|home]] [[m/_manufactures|manufactures]]; [[h/_home|home]] [[c/_comforts|comforts]].**
+- **([[e/_except|except]] in [[p/_phrases|phrases]]) That strikes [[h/_home|home]]; [[d/_direct|direct]], [[p/_pointed|pointed]].**
+- **[[p/_personal|Personal]], [[i/_intimate|intimate]].**
+- **Relating to the [[h/_home|home]] team (the team at whose venue a [[g/_game|game]] is [[p/_played|played]]).**
 	- _Example: the home end, home advantage, home supporters_
 ---
 ### Antonyms
 - [[a/_away|away]], [[r/_road|road]], [[v/_visitor|visitor]]
 #adverb
 - **To [[o/_one|one]]'s [[h/_home|home]]**
-- **At or in [[o/_one|one]]'s place of residence or [[o/_one|one]]'s [[c/_customary|customary]] or [[o/_official|official]] [[l/_location|location]]; at [[h/_home|home]]**
+- **At or in [[o/_one|one]]'s [[p/_place|place]] of residence or [[o/_one|one]]'s [[c/_customary|customary]] or [[o/_official|official]] [[l/_location|location]]; at [[h/_home|home]]**
 	- _Example: Everyone's gone to watch the game; there's nobody home._
 - **To a [[f/_full|full]] and [[i/_intimate|intimate]] [[d/_degree|degree]]; to the [[h/_heart|heart]] of the [[m/_matter|matter]]; [[f/_fully|fully]], [[d/_directly|directly]].**
 - **[[i/_into|Into]] the [[g/_goal|goal]]**
-- **[[i/_into|Into]] the right, proper or stowed position**
+- **[[i/_into|Into]] the right, proper or stowed [[p/_position|position]]**
 	- _Example: sails sheeted home_
 ---
 ### Synonyms

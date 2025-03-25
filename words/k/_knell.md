@@ -1,7 +1,7 @@
 # Knell
 ---
 #noun
-- **The sound of a [[b/_bell|bell]] [[k/_knelling|knelling]]; a toll (particularly [[o/_one|one]] signalling a [[d/_death|death]]).**
+- **The sound of a [[b/_bell|bell]] [[k/_knelling|knelling]]; a toll ([[p/_particularly|particularly]] [[o/_one|one]] signalling a [[d/_death|death]]).**
 - **A sign of the [[e/_end|end]] or [[d/_demise|demise]] of something or someone.**
 ---
 #verb

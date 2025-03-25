@@ -1,7 +1,7 @@
 # Guilty
 ---
 #noun
-- **A plea by a [[d/_defendant|defendant]] who [[d/_does|does]] not [[c/_contest|contest]] a [[c/_charge|charge]].**
+- **A [[p/_plea|plea]] by a [[d/_defendant|defendant]] who [[d/_does|does]] not [[c/_contest|contest]] a [[c/_charge|charge]].**
 - **A verdict of a [[j/_judge|judge]] or [[j/_jury|jury]] on a [[d/_defendant|defendant]] [[j/_judged|judged]] to [[h/_have|have]] [[c/_committed|committed]] a [[c/_crime|crime]].**
 - **[[o/_one|One]] who is [[d/_declared|declared]] [[g/_guilty|guilty]] of a [[c/_crime|crime]].**
 ---

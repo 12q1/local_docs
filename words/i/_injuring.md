@@ -1,7 +1,7 @@
 # Injuring
 ---
 #verb
-- **To wound or [[c/_cause|cause]] physical [[h/_harm|harm]] to a [[l/_living|living]] [[c/_creature|creature]].**
+- **To wound or [[c/_cause|cause]] [[p/_physical|physical]] [[h/_harm|harm]] to a [[l/_living|living]] [[c/_creature|creature]].**
 - **To [[d/_damage|damage]] or [[i/_impair|impair]].**
 - **To [[d/_do|do]] [[i/_injustice|injustice]] to.**
 ---

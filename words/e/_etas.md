@@ -5,6 +5,6 @@
 - **A [[k/_kind|kind]] of [[e/_electrically|electrically]] [[n/_neutral|neutral]] [[m/_meson|meson]] [[h/_having|having]] zero spin and [[i/_isospin|isospin]].**
 ---
 #noun
-- **A social [[o/_outcast|outcast]] in [[j/_japan|Japan]] who is subjected to [[m/_menial|menial]] work, [[m/_making|making]] up a [[c/_class|class]] or [[c/_caste|caste]] of such people.**
+- **A social [[o/_outcast|outcast]] in [[j/_japan|Japan]] who is subjected to [[m/_menial|menial]] work, [[m/_making|making]] up a [[c/_class|class]] or [[c/_caste|caste]] of such [[p/_people|people]].**
 ---
 ---

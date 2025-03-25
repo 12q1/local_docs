@@ -9,17 +9,17 @@
 	- _Example: she helped the blind man across;  the river is half a mile across_
 - **On the [[o/_other|other]] side.**
 	- _Example: If we sail off at noon, when will we be across?_
-- **In a particular [[d/_direction|direction]].**
+- **In a [[p/_particular|particular]] [[d/_direction|direction]].**
 	- _Example: He leaned across for a book._
 - **([[c/_crosswords|crosswords]]) [[h/_horizontally|Horizontally]].**
 	- _Example: I got stuck on 4 across._
 ---
 #preposition
-- **To, toward or from the [[f/_far|far]] side of (something that [[l/_lies|lies]] [[b/_between|between]] two points of [[i/_interest|interest]]).**
+- **To, toward or from the [[f/_far|far]] side of (something that [[l/_lies|lies]] [[b/_between|between]] two [[p/_points|points]] of [[i/_interest|interest]]).**
 	- _Example: Fortunately, there was a bridge across the river._
-- **On the [[o/_opposite|opposite]] side of (something that [[l/_lies|lies]] [[b/_between|between]] two points of [[i/_interest|interest]]).**
+- **On the [[o/_opposite|opposite]] side of (something that [[l/_lies|lies]] [[b/_between|between]] two [[p/_points|points]] of [[i/_interest|interest]]).**
 	- _Example: That store is across the street._
-- **[[a/_across|Across]] from: on the [[o/_opposite|opposite]] side, relative to something that [[l/_lies|lies]] [[b/_between|between]], from (a point of [[i/_interest|interest]]).**
+- **[[a/_across|Across]] from: on the [[o/_opposite|opposite]] side, relative to something that [[l/_lies|lies]] [[b/_between|between]], from (a [[p/_point|point]] of [[i/_interest|interest]]).**
 - **From [[o/_one|one]] side to the [[o/_other|other]] within (a space [[b/_being|being]] traversed).**
 	- _Example: Could you slide that across the table to me, please?_
 - **At or [[n/_near|near]] the [[f/_far|far]] [[e/_end|end]] of (a space).**
@@ -27,8 +27,8 @@
 	- _Example: This poetry speaks across the centuries._
 - **Throughout.**
 	- _Example: All across the country, voters were communicating their representatives._
-- **So as to [[i/_intersect|intersect]] or pass through or [[o/_over|over]] at an [[a/_angle|angle]].**
+- **So as to [[i/_intersect|intersect]] or [[p/_pass|pass]] through or [[o/_over|over]] at an [[a/_angle|angle]].**
 	- _Example: Lay the top stick across the bottom one._
-- **In possession of [[f/_full|full]], up-to-[[d/_date|date]] [[i/_information|information]] [[a/_about|about]]; [[a/_abreast|abreast]] of.**
+- **In [[p/_possession|possession]] of [[f/_full|full]], up-to-[[d/_date|date]] [[i/_information|information]] [[a/_about|about]]; [[a/_abreast|abreast]] of.**
 ---
 ---

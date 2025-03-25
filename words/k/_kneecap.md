@@ -8,6 +8,6 @@
 ### Synonyms
 - [[k/_kneepan|kneepan]], [[p/_patella|patella]], [[r/_rotula|rotula]], [[s/_scutum|scutum]]
 #verb
-- **To [[d/_destroy|destroy]] the [[k/_knees|knees]] of (a person), usually by shooting at the [[k/_knees|knees]], as a punishment [[c/_carried|carried]] [[o/_out|out]] by [[c/_criminals|criminals]] or terrorists.**
+- **To [[d/_destroy|destroy]] the [[k/_knees|knees]] of (a [[p/_person|person]]), usually by shooting at the [[k/_knees|knees]], as a punishment [[c/_carried|carried]] [[o/_out|out]] by [[c/_criminals|criminals]] or terrorists.**
 ---
 ---

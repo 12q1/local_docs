@@ -10,6 +10,6 @@
 - **To [[e/_encourage|encourage]], [[i/_incite|incite]].**
 ---
 #noun
-- **The [[a/_act|act]] of pelting with [[e/_eggs|eggs]].**
+- **The [[a/_act|act]] of [[p/_pelting|pelting]] with [[e/_eggs|eggs]].**
 ---
 ---

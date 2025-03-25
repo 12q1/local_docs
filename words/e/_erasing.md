@@ -7,7 +7,7 @@
 	- _Example: I'm going to erase this tape._
 - **To [[o/_obliterate|obliterate]] ([[i/_information|information]]) from a storage [[m/_medium|medium]], such as to [[c/_clear|clear]] or to [[o/_overwrite|overwrite]].**
 	- _Example: I'm going to erase those files._
-- **To remove a runner from the [[b/_bases|bases]] via a [[d/_double|double]] play or pick [[o/_off|off]] play**
+- **To remove a runner from the [[b/_bases|bases]] via a [[d/_double|double]] [[p/_play|play]] or [[p/_pick|pick]] [[o/_off|off]] [[p/_play|play]]**
 	- _Example: Jones was erased by a 6-4-3 double play._
 - **To be [[e/_erased|erased]] ([[h/_have|have]] [[m/_markings|markings]] removed, [[h/_have|have]] [[i/_information|information]] removed or be [[c/_cleared|cleared]] of [[i/_information|information]]).**
 	- _Example: The chalkboard erased easily._

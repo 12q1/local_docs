@@ -12,17 +12,17 @@
 - **[[d/_distance|Distance]] from the root [[n/_node|node]] of a tree structure.**
 - **[[o/_one|One]] of several [[d/_discrete|discrete]] segments of a [[g/_game|game]], [[g/_generally|generally]] [[i/_increasing|increasing]] in [[d/_difficulty|difficulty]] and representing [[d/_different|different]] [[l/_locations|locations]] in the [[g/_game|game]] world.**
 	- _Example: It took me weeks to get to level seven.   Watch out for the next level; the bad guys there are really overpowered._
-- **A [[n/_numeric|numeric]] value that quantifies a [[c/_character|character]]'s [[e/_experience|experience]] and power.**
+- **A [[n/_numeric|numeric]] value that quantifies a [[c/_character|character]]'s [[e/_experience|experience]] and [[p/_power|power]].**
 	- _Example: My half-orc barbarian reached fifth level before he was squashed by a troll._
 - **A [[f/_floor|floor]] of a [[m/_multi|multi]]-storey [[b/_building|building]].**
 	- _Example: Take the elevator and get off at the promenade level._
-- **An [[a/_area|area]] of [[a/_almost|almost]] perfectly [[f/_flat|flat]] [[l/_land|land]].**
+- **An [[a/_area|area]] of [[a/_almost|almost]] [[p/_perfectly|perfectly]] [[f/_flat|flat]] [[l/_land|land]].**
 - **A school [[g/_grade|grade]] or [[y/_year|year]].**
 ---
 ### Synonyms
 - [[s/_stage|stage]], [[w/_world|world]], [[z/_zone|zone]]
 #verb
-- **To [[a/_adjust|adjust]] so as to [[m/_make|make]] as [[f/_flat|flat]] or perpendicular to the [[g/_ground|ground]] as possible.**
+- **To [[a/_adjust|adjust]] so as to [[m/_make|make]] as [[f/_flat|flat]] or [[p/_perpendicular|perpendicular]] to the [[g/_ground|ground]] as [[p/_possible|possible]].**
 	- _Example: You can level the table by turning the pads that screw into the feet._
 - **To [[d/_destroy|destroy]] by reducing to [[g/_ground|ground]] [[l/_level|level]]; to raze.**
 	- _Example: The hurricane leveled the forest._
@@ -30,9 +30,9 @@
 	- _Example: I levelled after defeating the dragon._
 - **To [[a/_aim|aim]] or [[d/_direct|direct]] (a weapon, a stare, an [[a/_accusation|accusation]], [[e/_etc|etc]]).**
 	- _Example: He levelled an accusation of fraud at the directors.  The hunter levels the gun before taking a shot._
-- **To [[d/_direct|direct]] or [[i/_impose|impose]] (a penalty, [[f/_fine|fine]], [[e/_etc|etc]]) at or upon (someone).**
+- **To [[d/_direct|direct]] or [[i/_impose|impose]] (a [[p/_penalty|penalty]], [[f/_fine|fine]], [[e/_etc|etc]]) at or upon (someone).**
 - **To [[m/_make|make]] the score of a [[g/_game|game]] [[e/_equal|equal]].**
-- **To [[b/_bring|bring]] to a [[c/_common|common]] [[l/_level|level]] or plane, in respect of rank, [[c/_condition|condition]], [[c/_character|character]], privilege, [[e/_etc|etc]].**
+- **To [[b/_bring|bring]] to a [[c/_common|common]] [[l/_level|level]] or [[p/_plane|plane]], in respect of rank, [[c/_condition|condition]], [[c/_character|character]], privilege, [[e/_etc|etc]].**
 	- _Example: to level all the ranks and conditions of men_
 - **To [[a/_adjust|adjust]] or [[a/_adapt|adapt]] to a [[c/_certain|certain]] [[l/_level|level]].**
 	- _Example: to level remarks to the capacity of children_

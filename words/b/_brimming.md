@@ -6,7 +6,7 @@
 - **To [[f/_fill|fill]] to the [[b/_brim|brim]], upper [[e/_edge|edge]], or top.**
 ---
 #verb
-- **Of pigs: to be in [[h/_heat|heat]], to rut.**
+- **Of [[p/_pigs|pigs]]: to be in [[h/_heat|heat]], to rut.**
 ---
 #adjective
 - **[[f/_full|Full]] to the [[b/_brim|brim]].**

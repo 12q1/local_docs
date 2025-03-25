@@ -1,8 +1,8 @@
 # Fall
 ---
 #noun
-- **The [[a/_act|act]] of [[m/_moving|moving]] to a [[l/_lower|lower]] position under the [[e/_effect|effect]] of [[g/_gravity|gravity]].**
-- **A reduction in quantity, pitch, [[e/_etc|etc]].**
+- **The [[a/_act|act]] of [[m/_moving|moving]] to a [[l/_lower|lower]] [[p/_position|position]] under the [[e/_effect|effect]] of [[g/_gravity|gravity]].**
+- **A reduction in quantity, [[p/_pitch|pitch]], [[e/_etc|etc]].**
 - **The time of the [[y/_year|year]] when the [[l/_leaves|leaves]] typically [[f/_fall|fall]] from the trees; [[a/_autumn|autumn]]; the season of the [[y/_year|year]] [[b/_between|between]] the [[a/_autumnal|autumnal]] [[e/_equinox|equinox]] and the winter solstice.**
 - **A [[l/_loss|loss]] of [[g/_greatness|greatness]] or status.**
 	- _Example: the fall of Rome_
@@ -11,11 +11,11 @@
 - **A [[h/_hairpiece|hairpiece]] for women [[c/_consisting|consisting]] of [[l/_long|long]] strands of [[h/_hair|hair]] on a woven [[b/_backing|backing]], [[i/_intended|intended]] primarily to [[c/_cover|cover]] [[h/_hair|hair]] [[l/_loss|loss]].**
 - **[[b/_blame|Blame]] or punishment for a [[f/_failure|failure]] or [[m/_misdeed|misdeed]].**
 	- _Example: He set up his rival to take the fall._
-- **The part of the rope of a tackle to which the power is [[a/_applied|applied]] in [[h/_hoisting|hoisting]] (usu. plural).**
+- **The [[p/_part|part]] of the rope of a tackle to which the [[p/_power|power]] is [[a/_applied|applied]] in [[h/_hoisting|hoisting]] (usu. [[p/_plural|plural]]).**
 	- _Example: Have the goodness to secure the falls of the mizzen halyards._
 - **An [[o/_old|old]] Scots unit of [[m/_measure|measure]] [[e/_equal|equal]] to six [[e/_ells|ells]].**
-- **A short, [[f/_flexible|flexible]] piece of [[l/_leather|leather]] [[f/_forming|forming]] part of a [[b/_bullwhip|bullwhip]], placed [[b/_between|between]] the thong and the [[c/_cracker|cracker]].**
-- **The [[l/_lid|lid]], on a piano, that [[c/_covers|covers]] the [[k/_keyboard|keyboard]]**
+- **A short, [[f/_flexible|flexible]] [[p/_piece|piece]] of [[l/_leather|leather]] [[f/_forming|forming]] [[p/_part|part]] of a [[b/_bullwhip|bullwhip]], [[p/_placed|placed]] [[b/_between|between]] the thong and the [[c/_cracker|cracker]].**
+- **The [[l/_lid|lid]], on a [[p/_piano|piano]], that [[c/_covers|covers]] the [[k/_keyboard|keyboard]]**
 ---
 ### Synonyms
 - [[d/_descent|descent]], [[d/_drop|drop]], [[r/_rap|rap]], [[d/_downfall|downfall]], [[d/_decrease|decrease]], [[d/_dip|dip]], [[d/_drop|drop]], [[l/_lowering|lowering]], [[r/_reduction|reduction]], [[a/_autumn|autumn]], [[h/_harvest|harvest]]
@@ -35,7 +35,7 @@
 - **To [[b/_become|become]] [[e/_ensnared|ensnared]] or [[e/_entrapped|entrapped]]; to be worse [[o/_off|off]] than [[b/_before|before]].**
 	- _Example: to fall into error;  to fall into difficulties_
 - **To [[a/_assume|assume]] a [[l/_look|look]] of shame or [[d/_disappointment|disappointment]]; to [[b/_become|become]] or [[a/_appear|appear]] [[d/_dejected|dejected]]; said of the [[f/_face|face]].**
-- **To [[h/_happen|happen]]; to [[c/_come|come]] to pass; to [[c/_chance|chance]] or [[l/_light|light]] (upon).**
+- **To [[h/_happen|happen]]; to [[c/_come|come]] to [[p/_pass|pass]]; to [[c/_chance|chance]] or [[l/_light|light]] (upon).**
 - **To [[b/_begin|begin]] with [[h/_haste|haste]], [[a/_ardour|ardour]], or vehemence; to rush or [[h/_hurry|hurry]].**
 	- _Example: After arguing, they fell to blows._
 - **To be [[d/_dropped|dropped]] or uttered [[c/_carelessly|carelessly]].**

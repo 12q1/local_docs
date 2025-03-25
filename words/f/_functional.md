@@ -1,9 +1,9 @@
 # Functional
 ---
 #noun
-- **A [[f/_function|function]] that takes a [[f/_function|function]] as [[i/_its|its]] [[a/_argument|argument]]; [[m/_more|More]] precisely: A [[f/_function|function]] [[y/_y|y]]=[[f/_f|f]](x) whose [[a/_argument|argument]] x varies in a space of (real valued, [[c/_complex|complex]] valued) [[f/_functions|functions]] and whose value [[b/_belongs|belongs]] to a monodimensional space. An [[e/_example|example]]: the [[d/_definite|definite]] [[i/_integration|integration]] of [[i/_integrable|integrable]] real [[f/_functions|functions]] in a real [[i/_interval|interval]].**
+- **A [[f/_function|function]] that takes a [[f/_function|function]] as [[i/_its|its]] [[a/_argument|argument]]; [[m/_more|More]] [[p/_precisely|precisely]]: A [[f/_function|function]] [[y/_y|y]]=[[f/_f|f]](x) whose [[a/_argument|argument]] x varies in a space of (real valued, [[c/_complex|complex]] valued) [[f/_functions|functions]] and whose value [[b/_belongs|belongs]] to a monodimensional space. An [[e/_example|example]]: the [[d/_definite|definite]] [[i/_integration|integration]] of [[i/_integrable|integrable]] real [[f/_functions|functions]] in a real [[i/_interval|interval]].**
 - **A scalar-valued [[l/_linear|linear]] [[f/_function|function]] on a vector space.**
-- **An [[o/_object|object]] [[e/_encapsulating|encapsulating]] a [[f/_function|function]] pointer (or [[e/_equivalent|equivalent]]).**
+- **An [[o/_object|object]] [[e/_encapsulating|encapsulating]] a [[f/_function|function]] [[p/_pointer|pointer]] (or [[e/_equivalent|equivalent]]).**
 ---
 #adjective
 - **In [[g/_good|good]] working [[o/_order|order]].**

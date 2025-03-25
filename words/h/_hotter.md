@@ -5,7 +5,7 @@
 	- _Example: He forgot that the frying pan was hot and burned his hand._
 - **(of the weather) [[c/_causing|Causing]] the [[a/_air|air]] to be [[h/_hot|hot]].**
 	- _Example: It is hotter in summer than in winter._
-- **(of a person or [[a/_animal|animal]]) [[f/_feeling|Feeling]] the sensation of [[h/_heat|heat]], [[e/_especially|especially]] to the point of [[d/_discomfort|discomfort]].**
+- **(of a [[p/_person|person]] or [[a/_animal|animal]]) [[f/_feeling|Feeling]] the sensation of [[h/_heat|heat]], [[e/_especially|especially]] to the [[p/_point|point]] of [[d/_discomfort|discomfort]].**
 	- _Example: Aren't you hot with that thick coat on?_
 - **(of a temper) [[e/_easily|Easily]] provoked to [[a/_anger|anger]].**
 	- _Example: Be careful, he has a hot temper and may take it out on you._
@@ -19,25 +19,25 @@
 - **[[e/_electrically|Electrically]] [[c/_charged|charged]].**
 	- _Example: a hot wire_
 - **Radioactive.**
-- **(of a person) Very physically and/or sexually [[a/_attractive|attractive]].**
+- **(of a [[p/_person|person]]) Very [[p/_physically|physically]] and/or sexually [[a/_attractive|attractive]].**
 	- _Example: That stripper is hot!_
 - **Sexual or sexy; [[i/_involving|involving]] sexual [[i/_intercourse|intercourse]] or sexual [[e/_excitement|excitement]].**
 - **Sexually [[a/_aroused|aroused]]; randy.**
 	- _Example: Enough foreplay! You’ve gotten me so hot already!_
 - **(with for) [[a/_attracted|Attracted]] to.**
 	- _Example: hot for her English teacher_
-- **Popular; in [[d/_demand|demand]].**
+- **[[p/_popular|Popular]]; in [[d/_demand|demand]].**
 	- _Example: This new pickup is so hot we can't keep it in stock!_
 - **Of [[g/_great|great]] [[c/_current|current]] [[i/_interest|interest]]; provoking [[c/_current|current]] [[d/_debate|debate]] or [[c/_controversy|controversy]].**
 	- _Example: a hot topic_
 - **Very [[c/_close|close]] to [[f/_finding|finding]] or [[g/_guessing|guessing]] something to be [[f/_found|found]] or [[g/_guessed|guessed]].**
 	- _Example: Am I warm yet? — You're hot!_
-- **Performing strongly; [[h/_having|having]] repeated successes.**
+- **[[p/_performing|Performing]] strongly; [[h/_having|having]] repeated successes.**
 - **[[f/_fresh|Fresh]]; [[j/_just|just]] released.**
 - **Uncomfortable, [[d/_difficult|difficult]] to [[d/_deal|deal]] with; [[a/_awkward|awkward]], [[d/_dangerous|dangerous]], unpleasant.**
 - **Used to [[e/_emphasize|emphasize]] the short [[d/_duration|duration]] or small quantity of something**
 	- _Example: He was finished in a hot minute._
-- **[[c/_characterized|Characterized]] by police presence or [[a/_activity|activity]].**
+- **[[c/_characterized|Characterized]] by [[p/_police|police]] [[p/_presence|presence]] or [[a/_activity|activity]].**
 	- _Example: I wouldn't speed through here if I was you. This area is hot this time of night._
 - **(of a [[d/_draft|draft]]/[[c/_check|check]]) Not [[c/_covered|covered]] by [[f/_funds|funds]] on [[a/_account|account]].**
 	- _Example: I wouldn't trust him. He gave me a hot check last week._

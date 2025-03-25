@@ -1,6 +1,6 @@
 # Balladeers
 ---
 #noun
-- **A singer, particularly a professional singer who performs [[b/_ballads|ballads]].**
+- **A singer, [[p/_particularly|particularly]] a professional singer who [[p/_performs|performs]] [[b/_ballads|ballads]].**
 ---
 ---

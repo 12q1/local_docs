@@ -1,11 +1,11 @@
 # Elders
 ---
 #noun
-- **An [[o/_older|older]] person or an [[o/_older|older]] [[m/_member|member]], usually a [[l/_leader|leader]], of some [[c/_community|community]].**
+- **An [[o/_older|older]] [[p/_person|person]] or an [[o/_older|older]] [[m/_member|member]], usually a [[l/_leader|leader]], of some [[c/_community|community]].**
 	- _Example: We were presented to the village elder._
 - **[[o/_one|One]] who is [[o/_older|older]] than [[a/_another|another]].**
 	- _Example: Respect your elders._
-- **[[o/_one|One]] who [[l/_lived|lived]] at an [[e/_earlier|earlier]] period; a predecessor.**
+- **[[o/_one|One]] who [[l/_lived|lived]] at an [[e/_earlier|earlier]] [[p/_period|period]]; a [[p/_predecessor|predecessor]].**
 - **An [[o/_officer|officer]] of a [[c/_church|church]], sometimes [[h/_having|having]] teaching responsibilities.**
 - **A [[c/_clergyman|clergyman]] [[a/_authorized|authorized]] to [[a/_administer|administer]] [[a/_all|all]] the sacraments.**
 	- _Example: a travelling elder_
@@ -25,7 +25,7 @@
 ---
 #noun
 - **A small tree, Sambucus nigra, [[h/_having|having]] white [[f/_flowers|flowers]] in a [[c/_cluster|cluster]], and [[e/_edible|edible]] purple [[b/_berries|berries]]**
-- **[[a/_any|Any]] of the [[o/_other|other]] species of the [[g/_genus|genus]] Sambucus: small trees, shrubs or [[h/_herbaceous|herbaceous]] perennials with red, purple, or white/[[y/_yellow|yellow]] [[b/_berries|berries]] (some of which are poisonous).**
+- **[[a/_any|Any]] of the [[o/_other|other]] species of the [[g/_genus|genus]] Sambucus: small trees, shrubs or [[h/_herbaceous|herbaceous]] [[p/_perennials|perennials]] with red, purple, or white/[[y/_yellow|yellow]] [[b/_berries|berries]] (some of which are [[p/_poisonous|poisonous]]).**
 ---
 ### Synonyms
 - 

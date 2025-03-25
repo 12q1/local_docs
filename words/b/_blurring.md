@@ -15,6 +15,6 @@
 ### Antonyms
 - [[s/_sharpen|sharpen]]
 #noun
-- **A [[b/_blurry|blurry]] patch.**
+- **A [[b/_blurry|blurry]] [[p/_patch|patch]].**
 ---
 ---

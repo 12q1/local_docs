@@ -13,7 +13,7 @@
 - **An [[a/_american|American]] [[f/_fish|fish]], the [[l/_lafayette|lafayette]] or spot.**
 ---
 #adjective
-- **[[m/_mawkishly|Mawkishly]] [[g/_good|good]]; weakly [[b/_benevolent|benevolent]] or pious.**
+- **[[m/_mawkishly|Mawkishly]] [[g/_good|good]]; weakly [[b/_benevolent|benevolent]] or [[p/_pious|pious]].**
 ---
 ### Synonyms
 - [[g/_goody|goody]]

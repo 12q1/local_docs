@@ -7,6 +7,6 @@
 ### Synonyms
 - [[c/_crouch|crouch]], [[l/_lie|lie]], [[s/_squat|squat]]
 #noun
-- **A political [[c/_conservative|conservative]].**
+- **A [[p/_political|political]] [[c/_conservative|conservative]].**
 ---
 ---

@@ -1,20 +1,20 @@
 # Blank
 ---
 #noun
-- **A small [[f/_french|French]] [[c/_coin|coin]], [[o/_originally|originally]] of silver, [[a/_afterwards|afterwards]] of [[c/_copper|copper]], worth 5 [[d/_deniers|deniers]]; [[a/_also|also]] a silver [[c/_coin|coin]] of [[h/_henry|Henry]] V [[c/_current|current]] in the parts of [[f/_france|France]] then [[h/_held|held]] by the [[e/_english|English]], worth [[a/_about|about]] 8 pence .**
+- **A small [[f/_french|French]] [[c/_coin|coin]], [[o/_originally|originally]] of silver, [[a/_afterwards|afterwards]] of [[c/_copper|copper]], worth 5 [[d/_deniers|deniers]]; [[a/_also|also]] a silver [[c/_coin|coin]] of [[h/_henry|Henry]] V [[c/_current|current]] in the [[p/_parts|parts]] of [[f/_france|France]] then [[h/_held|held]] by the [[e/_english|English]], worth [[a/_about|about]] 8 [[p/_pence|pence]] .**
 - **A [[n/_nonplus|nonplus]] .**
 - **The white spot in the [[c/_centre|centre]] of a target; [[h/_hence|hence]] the [[o/_object|object]] to which [[a/_anything|anything]] is [[d/_directed|directed]] or [[a/_aimed|aimed]], the range of such [[a/_aim|aim]] .**
 - **A [[l/_lot|lot]] by which [[n/_nothing|nothing]] is [[g/_gained|gained]]; a ticket in a [[l/_lottery|lottery]] on which [[n/_no|no]] prize is [[i/_indicated|indicated]] .**
-- **An [[e/_empty|empty]] space; a void, for [[e/_example|example]] on a paper .**
-- **([[n/_now|now]] [[c/_chiefly|chiefly]] U.S.) A [[d/_document|document]], paper, or [[f/_form|form]] with spaces [[l/_left|left]] [[b/_blank|blank]] to be [[f/_filled|filled]] up at the pleasure of the person to whom it is [[g/_given|given]] ([[e/_e|e]].[[g/_g|g]]. a [[b/_blank|blank]] [[c/_charter|charter]], [[b/_ballot|ballot]], [[f/_form|form]], [[c/_contract|contract]], [[e/_etc|etc]].), or as the [[e/_event|event]] [[m/_may|may]] [[d/_determine|determine]]; a [[b/_blank|blank]] [[f/_form|form]] .**
+- **An [[e/_empty|empty]] space; a void, for [[e/_example|example]] on a [[p/_paper|paper]] .**
+- **([[n/_now|now]] [[c/_chiefly|chiefly]] U.S.) A [[d/_document|document]], [[p/_paper|paper]], or [[f/_form|form]] with spaces [[l/_left|left]] [[b/_blank|blank]] to be [[f/_filled|filled]] up at the [[p/_pleasure|pleasure]] of the [[p/_person|person]] to whom it is [[g/_given|given]] ([[e/_e|e]].[[g/_g|g]]. a [[b/_blank|blank]] [[c/_charter|charter]], [[b/_ballot|ballot]], [[f/_form|form]], [[c/_contract|contract]], [[e/_etc|etc]].), or as the [[e/_event|event]] [[m/_may|may]] [[d/_determine|determine]]; a [[b/_blank|blank]] [[f/_form|form]] .**
 - **[[b/_blank|Blank]] verse .**
-- **A piece of [[m/_metal|metal]] (such as a [[c/_coin|coin]], screw, [[n/_nuts|nuts]]), [[c/_cut|cut]] and shaped to the required size of the thing to be [[m/_made|made]], and ready for the [[f/_finishing|finishing]] [[o/_operations|operations]]; ([[c/_coining|coining]]) the [[d/_disc|disc]] of [[m/_metal|metal]] [[b/_before|before]] stamping .**
-- **A vacant space, place, or period; a void .**
+- **A [[p/_piece|piece]] of [[m/_metal|metal]] (such as a [[c/_coin|coin]], screw, [[n/_nuts|nuts]]), [[c/_cut|cut]] and shaped to the required size of the thing to be [[m/_made|made]], and ready for the [[f/_finishing|finishing]] [[o/_operations|operations]]; ([[c/_coining|coining]]) the [[d/_disc|disc]] of [[m/_metal|metal]] [[b/_before|before]] stamping .**
+- **A vacant space, [[p/_place|place]], or [[p/_period|period]]; a void .**
 - **The 1 / 230400 of a [[g/_grain|grain]] .**
 - **An [[e/_empty|empty]] space in [[o/_one|one]]'s [[m/_memory|memory]]; a [[f/_forgotten|forgotten]] [[i/_item|item]] or [[m/_memory|memory]] .**
-- **A [[d/_dash|dash]] written in place of an [[o/_omitted|omitted]] [[l/_letter|letter]] or word**
-- **The space [[c/_character|character]]; the [[c/_character|character]] resulting from pressing the space-[[b/_bar|bar]] on a [[k/_keyboard|keyboard]].**
-- **A [[d/_domino|domino]] without points on [[o/_one|one]] or [[b/_both|both]] of [[i/_its|its]] [[d/_divisions|divisions]].**
+- **A [[d/_dash|dash]] written in [[p/_place|place]] of an [[o/_omitted|omitted]] [[l/_letter|letter]] or word**
+- **The space [[c/_character|character]]; the [[c/_character|character]] resulting from [[p/_pressing|pressing]] the space-[[b/_bar|bar]] on a [[k/_keyboard|keyboard]].**
+- **A [[d/_domino|domino]] without [[p/_points|points]] on [[o/_one|one]] or [[b/_both|both]] of [[i/_its|its]] [[d/_divisions|divisions]].**
 	- _Example: the double blank_
 - **Short for [[b/_blank|blank]] [[c/_cartridge|cartridge]]. .**
 - **(in the [[e/_expression|expression]] ‘shooting [[b/_blanks|blanks]]’) An [[i/_ineffective|ineffective]] [[e/_effort|effort]] which [[a/_achieves|achieves]] [[n/_nothing|nothing]] .**
@@ -24,7 +24,7 @@
 #verb
 - **To [[m/_make|make]] void; to [[e/_erase|erase]].**
 	- _Example: I blanked out my previous entry._
-- **To [[i/_ignore|ignore]] (a person) [[d/_deliberately|deliberately]].**
+- **To [[i/_ignore|ignore]] (a [[p/_person|person]]) [[d/_deliberately|deliberately]].**
 	- _Example: She blanked me for no reason._
 - **To prevent from scoring, for [[e/_example|example]] in a sporting [[e/_event|event]].**
 	- _Example: England blanks Wales to advance to the final._
@@ -36,7 +36,7 @@
 - **White or [[p/_pale|pale]]; without [[c/_colour|colour]].**
 - **[[f/_free|Free]] from writing, printing, or [[m/_marks|marks]]; [[h/_having|having]] an [[e/_empty|empty]] space to be [[f/_filled|filled]] in**
 	- _Example: a blank ballot_
-- **Scoreless; without [[a/_any|any]] [[g/_goals|goals]] or points.**
+- **Scoreless; without [[a/_any|any]] [[g/_goals|goals]] or [[p/_points|points]].**
 - **[[l/_lacking|Lacking]] [[c/_characteristics|characteristics]] which [[g/_give|give]] variety; uniform.**
 	- _Example: a blank desert; a blank wall; blank unconsciousness_
 - **[[a/_absolute|Absolute]]; [[d/_downright|downright]]; sheer.**

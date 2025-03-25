@@ -4,7 +4,7 @@
 - **[[f/_full|Full]] [[e/_extent|extent]]; [[d/_distance|distance]] [[b/_between|between]] [[e/_extreme|extreme]] [[l/_limits|limits]]; [[e/_especially|especially]]; the [[d/_distance|distance]] [[b/_between|between]] the [[n/_nearest|nearest]] surfaces of two [[b/_bodies|bodies]], or the space [[b/_between|between]] walls.**
 	- _Example: a room ten feet square in the clear_
 - **The [[c/_completion|completion]] of a stage or [[c/_challenge|challenge]], or of the whole [[g/_game|game]].**
-- **A person who is [[f/_free|free]] from the [[i/_influence|influence]] of [[e/_engrams|engrams]].**
+- **A [[p/_person|person]] who is [[f/_free|free]] from the [[i/_influence|influence]] of [[e/_engrams|engrams]].**
 ---
 #verb
 - **To remove [[o/_obstructions|obstructions]], [[i/_impediments|impediments]] or [[o/_other|other]] unwanted [[i/_items|items]] from.**
@@ -17,7 +17,7 @@
 	- _Example: We need to clear this issue once and for all._
 - **To remove from suspicion, [[e/_especially|especially]] of [[h/_having|having]] [[c/_committed|committed]] a [[c/_crime|crime]].**
 	- _Example: The court cleared the man of murder._
-- **To pass without [[i/_interference|interference]]; to [[m/_miss|miss]].**
+- **To [[p/_pass|pass]] without [[i/_interference|interference]]; to [[m/_miss|miss]].**
 	- _Example: The door just barely clears the table as it closes._
 - **([[a/_activities|activities]] such as [[j/_jumping|jumping]] or throwing) To [[e/_exceed|exceed]] a stated [[m/_mark|mark]].**
 	- _Example: She was the first female high jumper to clear two metres._
@@ -27,19 +27,19 @@
 	- _Example: The check might not clear for a couple of days._
 - **To [[e/_earn|earn]] a profit of; to [[n/_net|net]].**
 	- _Example: He's been clearing seven thousand a week._
-- **To [[a/_approve|approve]] or [[a/_authorise|authorise]] for a particular purpose or [[a/_action|action]]; to [[g/_give|give]] [[c/_clearance|clearance]] to.**
+- **To [[a/_approve|approve]] or [[a/_authorise|authorise]] for a [[p/_particular|particular]] purpose or [[a/_action|action]]; to [[g/_give|give]] [[c/_clearance|clearance]] to.**
 	- _Example: Air traffic control cleared the plane to land._
 - **To [[o/_obtain|obtain]] [[a/_approval|approval]] or [[a/_authorisation|authorisation]] in respect of.**
 	- _Example: I've cleared the press release with the marketing department, so go ahead and publish it._
 - **To [[o/_obtain|obtain]] a [[c/_clearance|clearance]].**
 	- _Example: The steamer cleared for Liverpool today._
-- **To [[o/_obtain|obtain]] permission to use (a sample of [[c/_copyrighted|copyrighted]] [[a/_audio|audio]]) in [[a/_another|another]] track.**
+- **To [[o/_obtain|obtain]] [[p/_permission|permission]] to use (a sample of [[c/_copyrighted|copyrighted]] [[a/_audio|audio]]) in [[a/_another|another]] track.**
 - **To [[d/_disengage|disengage]] [[o/_oneself|oneself]] from [[i/_incumbrances|incumbrances]], [[d/_distress|distress]], or [[e/_entanglements|entanglements]]; to [[b/_become|become]] [[f/_free|free]].**
 - **To [[h/_hit|hit]], [[k/_kick|kick]], [[h/_head|head]], punch [[e/_etc|etc]]. (a [[b/_ball|ball]], puck) [[a/_away|away]] in [[o/_order|order]] to [[d/_defend|defend]] [[o/_one|one]]'s [[g/_goal|goal]].**
 	- _Example: A low cross came in, and Smith cleared._
 - **To reset or unset; to return to an [[e/_empty|empty]] state or to zero.**
 	- _Example: to clear an array;  to clear a single bit (binary digit) in a value_
-- **To style (an [[e/_element|element]] within a [[d/_document|document]]) so that it is not permitted to [[f/_float|float]] at a [[g/_given|given]] position.**
+- **To style (an [[e/_element|element]] within a [[d/_document|document]]) so that it is not [[p/_permitted|permitted]] to [[f/_float|float]] at a [[g/_given|given]] [[p/_position|position]].**
 ---
 ### Synonyms
 - [[s/_stub|stub]]
@@ -59,12 +59,12 @@
 - **[[f/_free|Free]] of [[g/_guilt|guilt]], or suspicion.**
 	- _Example: a clear conscience_
 - **(of a soup) Without a thickening [[i/_ingredient|ingredient]].**
-- **Possessing [[l/_little|little]] or [[n/_no|no]] perceptible stimulus.**
+- **[[p/_possessing|Possessing]] [[l/_little|little]] or [[n/_no|no]] [[p/_perceptible|perceptible]] stimulus.**
 	- _Example: clear of texture;  clear of odor_
 - **[[f/_free|Free]] from the [[i/_influence|influence]] of [[e/_engrams|engrams]]; see [[c/_clear|Clear]] (Scientology).**
-- **[[a/_able|Able]] to perceive [[c/_clearly|clearly]]; [[k/_keen|keen]]; [[a/_acute|acute]]; penetrating; [[d/_discriminating|discriminating]].**
+- **[[a/_able|Able]] to [[p/_perceive|perceive]] [[c/_clearly|clearly]]; [[k/_keen|keen]]; [[a/_acute|acute]]; [[p/_penetrating|penetrating]]; [[d/_discriminating|discriminating]].**
 	- _Example: a clear intellect; a clear head_
-- **Not [[c/_clouded|clouded]] with passion; serene; [[c/_cheerful|cheerful]].**
+- **Not [[c/_clouded|clouded]] with [[p/_passion|passion]]; serene; [[c/_cheerful|cheerful]].**
 - **[[e/_easily|Easily]] or [[d/_distinctly|distinctly]] [[h/_heard|heard]]; [[a/_audible|audible]].**
 - **Unmixed; [[e/_entirely|entirely]] pure.**
 	- _Example: clear sand_
@@ -83,6 +83,6 @@
 - **Not [[n/_near|near]] something or touching it.**
 	- _Example: Stand clear of the rails, a train is coming._
 - **[[f/_free|Free]] (or separate) from [[o/_others|others]]**
-- **In a [[c/_clear|clear]] [[m/_manner|manner]]; plainly.**
+- **In a [[c/_clear|clear]] [[m/_manner|manner]]; [[p/_plainly|plainly]].**
 ---
 ---

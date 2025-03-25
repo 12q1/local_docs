@@ -1,7 +1,7 @@
 # Boiled
 ---
 #verb
-- **(of [[l/_liquids|liquids]]) To [[h/_heat|heat]] to the point where it [[b/_begins|begins]] to turn [[i/_into|into]] a [[g/_gas|gas]].**
+- **(of [[l/_liquids|liquids]]) To [[h/_heat|heat]] to the [[p/_point|point]] where it [[b/_begins|begins]] to turn [[i/_into|into]] a [[g/_gas|gas]].**
 	- _Example: Boil some water in a pan._
 - **To [[c/_cook|cook]] in [[b/_boiling|boiling]] water.**
 	- _Example: Boil the eggs for three minutes._
@@ -17,7 +17,7 @@
 - **To steep or soak in warm water.**
 - **To be [[a/_agitated|agitated]] [[l/_like|like]] [[b/_boiling|boiling]] water; to [[b/_bubble|bubble]]; to [[e/_effervesce|effervesce]].**
 	- _Example: the boiling waves of the sea_
-- **To be [[m/_moved|moved]] or [[e/_excited|excited]] with passion; to be [[h/_hot|hot]] or [[f/_fervid|fervid]].**
+- **To be [[m/_moved|moved]] or [[e/_excited|excited]] with [[p/_passion|passion]]; to be [[h/_hot|hot]] or [[f/_fervid|fervid]].**
 	- _Example: His blood boils with anger._
 ---
 ### Synonyms
@@ -26,7 +26,7 @@
 - [[c/_condense|condense]]
 #adjective
 - **[[c/_cooked|Cooked]] in [[b/_boiling|boiling]] water.**
-- **(of water) [[h/_having|Having]] reached the [[b/_boiling|boiling]] point.**
+- **(of water) [[h/_having|Having]] reached the [[b/_boiling|boiling]] [[p/_point|point]].**
 - **[[a/_angry|Angry]].**
 - **[[d/_drunk|Drunk]].**
 ---

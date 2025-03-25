@@ -5,7 +5,7 @@
 - **An [[e/_evening|evening]] [[g/_gown|gown]].**
 - **An [[e/_event|event]] with a [[f/_formal|formal]] [[d/_dress|dress]] [[c/_code|code]].**
 	- _Example: Jenny took Sam to her Year 12 formal._
-- **A [[f/_formal|formal]] parameter.**
+- **A [[f/_formal|formal]] [[p/_parameter|parameter]].**
 ---
 #adjective
 - **[[b/_being|Being]] in [[a/_accord|accord]] with [[e/_established|established]] [[f/_forms|forms]].**
@@ -20,7 +20,7 @@
 	- _Example: Formal wear must be worn at my wedding!_
 - **Proper, [[a/_according|according]] to strict [[e/_etiquette|etiquette]]; not [[c/_casual|casual]].**
 	- _Example: He's always very formal, and I wish he'd relax a bit._
-- **[[o/_organized|Organized]]; well-structured and planned.**
+- **[[o/_organized|Organized]]; well-structured and [[p/_planned|planned]].**
 	- _Example: When they became a formal club the rowers built a small boathouse._
 - **Relating to [[m/_mere|mere]] [[m/_manipulation|manipulation]] and [[c/_construction|construction]] of strings of symbols, without regard to their [[m/_meaning|meaning]].**
 	- _Example: Formal series are defined without any reference to convergence._

@@ -18,11 +18,11 @@
 - **Thoroughly; [[c/_completely|completely]]; from [[b/_beginning|beginning]] to [[e/_end|end]].**
 	- _Example: I'm going to look over our department's expenses._
 - **To an [[e/_excessive|excessive]] [[d/_degree|degree]]; [[o/_overly|overly]].**
-- **From an upright position to [[b/_being|being]] [[h/_horizontal|horizontal]].**
+- **From an upright [[p/_position|position]] to [[b/_being|being]] [[h/_horizontal|horizontal]].**
 	- _Example: He bent over to touch his toes._
 - **[[h/_horizontally|Horizontally]]; [[l/_left|left]] to right or right to [[l/_left|left]].**
 	- _Example: I moved over to make room for him to sit down._
-- **From [[o/_one|one]] position or state to [[a/_another|another]].**
+- **From [[o/_one|one]] [[p/_position|position]] or state to [[a/_another|another]].**
 	- _Example: Come over and play!_
 - **[[o/_overnight|Overnight]] (throughout the [[n/_night|night]]).**
 	- _Example: Can I sleep over?_
@@ -32,9 +32,9 @@
 	- _Example: Bravo Six Four, this is Bravo Six Actual. Send your traffic, over._
 ---
 #preposition
-- **Physical positioning.**
+- **[[p/_physical|Physical]] [[p/_positioning|positioning]].**
 - **By [[c/_comparison|comparison]].**
-- **[[i/_indicating|Indicating]] relative status, [[a/_authority|authority]], or power**
+- **[[i/_indicating|Indicating]] relative status, [[a/_authority|authority]], or [[p/_power|power]]**
 	- _Example: The owner's son lorded over the experienced managers._
 - **[[d/_divided|Divided]] by.**
 	- _Example: four over two equals two over one_

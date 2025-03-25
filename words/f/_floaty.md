@@ -2,7 +2,7 @@
 ---
 #noun
 - **A lilo or similar [[i/_item|item]] that [[f/_floats|floats]] on water and [[c/_can|can]] be sat on.**
-- **A particle of [[f/_food|food]], [[e/_etc|etc]]. [[f/_found|found]] [[f/_floating|floating]] in [[l/_liquid|liquid]].**
+- **A [[p/_particle|particle]] of [[f/_food|food]], [[e/_etc|etc]]. [[f/_found|found]] [[f/_floating|floating]] in [[l/_liquid|liquid]].**
 ---
 #adjective
 - **[[b/_buoyant|Buoyant]], tending to [[f/_float|float]] on a [[l/_liquid|liquid]] or rise in [[a/_air|air]] or [[g/_gas|gas]]**

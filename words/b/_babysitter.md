@@ -1,7 +1,7 @@
 # Babysitter
 ---
 #noun
-- **A person who [[c/_cares|cares]] for [[o/_one|one]] or [[m/_more|more]] [[b/_babies|babies]] or [[c/_children|children]] for a short period of time in place of their [[l/_legal|legal]] [[g/_guardians|guardians]].**
+- **A [[p/_person|person]] who [[c/_cares|cares]] for [[o/_one|one]] or [[m/_more|more]] [[b/_babies|babies]] or [[c/_children|children]] for a short [[p/_period|period]] of time in [[p/_place|place]] of their [[l/_legal|legal]] [[g/_guardians|guardians]].**
 	- _Example: My neighbor is sometimes a babysitter for other moms' children._
 ---
 ---

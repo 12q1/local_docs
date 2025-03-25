@@ -1,7 +1,7 @@
 # Napped
 ---
 #verb
-- **To [[h/_have|have]] a [[n/_nap|nap]]; to sleep for a short period of time, [[e/_especially|especially]] [[d/_during|during]] the [[d/_day|day]].**
+- **To [[h/_have|have]] a [[n/_nap|nap]]; to sleep for a short [[p/_period|period]] of time, [[e/_especially|especially]] [[d/_during|during]] the [[d/_day|day]].**
 - **To be [[o/_off|off]] [[o/_one|one]]'s [[g/_guard|guard]].**
 	- _Example: The regulators were caught napping by the financial collapse._
 ---
@@ -14,6 +14,6 @@
 - **To [[g/_grab|grab]]; to [[n/_nab|nab]].**
 ---
 #verb
-- **To [[c/_cover|cover]] (something) with a sauce (usually in passive).**
+- **To [[c/_cover|cover]] (something) with a sauce (usually in [[p/_passive|passive]]).**
 ---
 ---

@@ -1,7 +1,7 @@
 # Easterly
 ---
 #noun
-- **[[a/_any|Any]] persistent wind from the [[e/_east|east]] (usually [[a/_applied|applied]] to [[b/_broad|broad]] [[c/_currents|currents]] or [[b/_belts|belts]] of [[e/_easterly|easterly]] winds).**
+- **[[a/_any|Any]] [[p/_persistent|persistent]] wind from the [[e/_east|east]] (usually [[a/_applied|applied]] to [[b/_broad|broad]] [[c/_currents|currents]] or [[b/_belts|belts]] of [[e/_easterly|easterly]] winds).**
 ---
 #adjective
 - **[[f/_facing|Facing]] the [[e/_east|east]]; [[d/_directed|directed]] towards the [[e/_east|east]].**
@@ -14,7 +14,7 @@
 ### Synonyms
 - [[e/_eastly|eastly]]
 #adverb
-- **In an [[e/_eastward|eastward]] [[d/_direction|direction]] or position; towards the [[e/_east|east]].**
+- **In an [[e/_eastward|eastward]] [[d/_direction|direction]] or [[p/_position|position]]; towards the [[e/_east|east]].**
 - **From the [[e/_east|east]].**
 ---
 ### Synonyms

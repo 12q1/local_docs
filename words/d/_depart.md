@@ -13,7 +13,7 @@
 	- _Example: His latest statements seemed to depart from party policy somewhat._
 - **To [[g/_go|go]] [[a/_away|away]] from; to [[l/_leave|leave]].**
 - **To [[d/_divide|divide]] up; to [[d/_distribute|distribute]], share.**
-- **To separate, part.**
+- **To separate, [[p/_part|part]].**
 ---
 ### Synonyms
 - [[d/_deviate|deviate]], [[d/_digress|digress]], [[d/_diverge|diverge]], [[s/_sidetrack|sidetrack]], [[s/_straggle|straggle]], [[v/_vary|vary]], [[l/_leave|leave]]

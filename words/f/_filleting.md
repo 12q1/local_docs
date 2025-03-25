@@ -7,7 +7,7 @@
 ### Synonyms
 - [[b/_bone|bone]], [[d/_debone|debone]]
 #noun
-- **The protecting of a [[j/_joint|joint]], as [[b/_between|between]] roof and parapet wall, with [[m/_mortar|mortar]] or [[c/_cement|cement]], where [[f/_flashing|flashing]] is [[e/_employed|employed]] in [[b/_better|better]] work.**
+- **The protecting of a [[j/_joint|joint]], as [[b/_between|between]] roof and [[p/_parapet|parapet]] wall, with [[m/_mortar|mortar]] or [[c/_cement|cement]], where [[f/_flashing|flashing]] is [[e/_employed|employed]] in [[b/_better|better]] work.**
 - **The [[m/_material|material]] of which [[f/_fillets|fillets]] are [[m/_made|made]].**
 - **[[f/_fillets|Fillets]] [[c/_collectively|collectively]].**
 ---

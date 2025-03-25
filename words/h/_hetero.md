@@ -1,10 +1,10 @@
 # Hetero
 ---
 #noun
-- **A [[h/_heterosexual|heterosexual]] person.**
+- **A [[h/_heterosexual|heterosexual]] [[p/_person|person]].**
 ---
 #adjective
-- **[[h/_heterosexual|Heterosexual]]: of, pertaining to, or [[b/_being|being]] a [[h/_heterosexual|heterosexual]] person.**
+- **[[h/_heterosexual|Heterosexual]]: of, [[p/_pertaining|pertaining]] to, or [[b/_being|being]] a [[h/_heterosexual|heterosexual]] [[p/_person|person]].**
 	- _Example: This novel depicts a hetero couple who are in love._
 ---
 ### Synonyms

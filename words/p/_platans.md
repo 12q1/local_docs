@@ -1,0 +1,6 @@
+# Platans
+---
+#noun
+- **A planetree.**
+---
+---

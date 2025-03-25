@@ -1,6 +1,6 @@
 # Cosmogenetic
 ---
 #adjective
-- **Of or pertaining to [[c/_cosmogeny|cosmogeny]].**
+- **Of or [[p/_pertaining|pertaining]] to [[c/_cosmogeny|cosmogeny]].**
 ---
 ---

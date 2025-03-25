@@ -6,6 +6,6 @@
 ### Antonyms
 - [[b/_baddie|baddie]]
 #interjection
-- **[[e/_expression|Expression]] of pleasure; [[y/_yippee|yippee]].**
+- **[[e/_expression|Expression]] of [[p/_pleasure|pleasure]]; [[y/_yippee|yippee]].**
 ---
 ---

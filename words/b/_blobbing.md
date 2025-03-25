@@ -7,6 +7,6 @@
 - **To relax [[i/_idly|idly]] and [[m/_mindlessly|mindlessly]]; to veg [[o/_out|out]].**
 ---
 #noun
-- **An [[o/_outdoor|outdoor]] recreational [[a/_activity|activity]] in which a participant sitting on the [[e/_end|end]] of a partially [[i/_inflated|inflated]] [[a/_air|air]] [[b/_bag|bag]] is [[l/_launched|launched]] [[i/_into|into]] the water when [[a/_another|another]] participant [[j/_jumps|jumps]] [[o/_onto|onto]] the [[a/_air|air]] [[b/_bag|bag]] from a platform on the [[o/_opposite|opposite]] side.**
+- **An [[o/_outdoor|outdoor]] recreational [[a/_activity|activity]] in which a [[p/_participant|participant]] sitting on the [[e/_end|end]] of a [[p/_partially|partially]] [[i/_inflated|inflated]] [[a/_air|air]] [[b/_bag|bag]] is [[l/_launched|launched]] [[i/_into|into]] the water when [[a/_another|another]] [[p/_participant|participant]] [[j/_jumps|jumps]] [[o/_onto|onto]] the [[a/_air|air]] [[b/_bag|bag]] from a [[p/_platform|platform]] on the [[o/_opposite|opposite]] side.**
 ---
 ---

@@ -1,7 +1,7 @@
 # Doomsters
 ---
 #noun
-- **Someone who predicts [[d/_doom|doom]]**
+- **Someone who [[p/_predicts|predicts]] [[d/_doom|doom]]**
 - **A [[j/_judge|judge]]; a [[d/_deemster|deemster]].**
 ---
 ### Synonyms

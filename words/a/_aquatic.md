@@ -1,10 +1,10 @@
 # Aquatic
 ---
 #noun
-- **[[a/_any|Any]] [[a/_aquatic|aquatic]] plant.**
+- **[[a/_any|Any]] [[a/_aquatic|aquatic]] [[p/_plant|plant]].**
 ---
 #adjective
-- **Relating to water; [[l/_living|living]] in or [[n/_near|near]] water, taking place in water.**
+- **Relating to water; [[l/_living|living]] in or [[n/_near|near]] water, taking [[p/_place|place]] in water.**
 ---
 ### Synonyms
 - [[w/_waterly|waterly]]

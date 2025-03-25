@@ -1,7 +1,7 @@
 # Chassed
 ---
 #verb
-- **To perform this step.**
+- **To [[p/_perform|perform]] this step.**
 - **To [[d/_dismiss|dismiss]].**
 ---
 ---

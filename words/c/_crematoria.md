@@ -1,6 +1,6 @@
 # Crematoria
 ---
 #noun
-- **A place where the [[b/_bodies|bodies]] of [[d/_dead|dead]] people are [[c/_cremated|cremated]]**
+- **A [[p/_place|place]] where the [[b/_bodies|bodies]] of [[d/_dead|dead]] [[p/_people|people]] are [[c/_cremated|cremated]]**
 ---
 ---

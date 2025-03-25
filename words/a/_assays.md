@@ -6,7 +6,7 @@
 - **The qualitative or quantitative [[c/_chemical|chemical]] [[a/_analysis|analysis]] of something.**
 - **Trial by [[d/_danger|danger]] or by [[a/_affliction|affliction]]; [[a/_adventure|adventure]]; risk; [[h/_hardship|hardship]]; state of [[b/_being|being]] tried.**
 - **Tested purity or value.**
-- **The [[a/_act|act]] or process of [[a/_ascertaining|ascertaining]] the proportion of a particular [[m/_metal|metal]] in an [[o/_ore|ore]] or [[a/_alloy|alloy]]; [[e/_especially|especially]], the [[d/_determination|determination]] of the proportion of [[g/_gold|gold]] or silver in [[b/_bullion|bullion]] or [[c/_coin|coin]].**
+- **The [[a/_act|act]] or process of [[a/_ascertaining|ascertaining]] the proportion of a [[p/_particular|particular]] [[m/_metal|metal]] in an [[o/_ore|ore]] or [[a/_alloy|alloy]]; [[e/_especially|especially]], the [[d/_determination|determination]] of the proportion of [[g/_gold|gold]] or silver in [[b/_bullion|bullion]] or [[c/_coin|coin]].**
 - **The [[a/_alloy|alloy]] or [[m/_metal|metal]] to be [[a/_assayed|assayed]].**
 ---
 #verb

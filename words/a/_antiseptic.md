@@ -5,7 +5,7 @@
 ---
 #adjective
 - **Of, or relating to [[a/_antisepsis|antisepsis]], or the use of [[a/_antiseptics|antiseptics]].**
-- **(pharmaceutical [[e/_effect|effect]]) [[c/_capable|Capable]] of preventing [[m/_microbial|microbial]] [[i/_infection|infection]].**
+- **([[p/_pharmaceutical|pharmaceutical]] [[e/_effect|effect]]) [[c/_capable|Capable]] of preventing [[m/_microbial|microbial]] [[i/_infection|infection]].**
 - **Very [[c/_clean|clean]]; [[a/_aseptic|aseptic]].**
 - **[[f/_free|Free]] of unpleasantness; prim, sanitized or [[b/_bowdlerized|bowdlerized]].**
 ---

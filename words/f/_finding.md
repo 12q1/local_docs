@@ -10,7 +10,7 @@
 	- _Example: to find leisure; to find means_
 - **To [[a/_attain|attain]] to; to [[a/_arrive|arrive]] at; to [[a/_acquire|acquire]].**
 	- _Example: Looks like he found a new vehicle for himself!_
-- **To point [[o/_out|out]].**
+- **To [[p/_point|point]] [[o/_out|out]].**
 	- _Example: He kept finding faults with my work._
 - **(ditransitive) To [[d/_decide|decide]] that, to [[d/_discover|discover]] that, to [[f/_form|form]] the [[o/_opinion|opinion]] that.**
 	- _Example: I find your argument unsatisfactory._
@@ -31,7 +31,7 @@
 - **A [[f/_formal|formal]] [[c/_conclusion|conclusion]] by a [[j/_judge|judge]], [[j/_jury|jury]] or regulatory [[a/_agency|agency]] on [[i/_issues|issues]] of [[f/_fact|fact]].**
 - **That which is [[f/_found|found]], a [[f/_find|find]], a [[d/_discovery|discovery]].**
 - **The [[a/_act|act]] of [[d/_discovering|discovering]] something by [[c/_chance|chance]], an [[i/_instance|instance]] of [[f/_finding|finding]] something by [[c/_chance|chance]].**
-- **([[g/_generally|generally]] plural) Tools or [[m/_materials|materials]] used in shoe [[m/_making|making]] or repair.**
+- **([[g/_generally|generally]] [[p/_plural|plural]]) Tools or [[m/_materials|materials]] used in shoe [[m/_making|making]] or repair.**
 - **A self-[[c/_contained|contained]] [[c/_component|component]] of [[a/_assembled|assembled]] [[j/_jewellery|jewellery]].**
 ---
 ---

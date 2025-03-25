@@ -5,7 +5,7 @@
 ---
 #verb
 - **To [[b/_bend|bend]]; [[i/_incline|incline]]; tilt (as a water-vessel or ship); [[h/_heel|heel]].**
-- **To pour [[o/_out|out]]; pour.**
+- **To [[p/_pour|pour]] [[o/_out|out]]; [[p/_pour|pour]].**
 - **To throw; [[c/_cast|cast]]; put.**
 - **To [[b/_bow|bow]]; [[b/_bend|bend]]; [[i/_incline|incline]]; tilt or [[c/_cant|cant]] [[o/_over|over]].**
 - **To [[d/_decline|decline]]; sink; [[g/_go|go]] [[d/_down|down]].**

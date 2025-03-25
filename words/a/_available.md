@@ -7,7 +7,7 @@
 	- _Example: The list shows the available products in the store._
 - **Valid.**
 	- _Example: This is an available plea._
-- **[[h/_having|Having]] sufficient power, [[f/_force|force]], or [[e/_efficacy|efficacy]] to [[a/_achieve|achieve]] the purpose; [[a/_availing|availing]], [[e/_effective|effective]].**
+- **[[h/_having|Having]] sufficient [[p/_power|power]], [[f/_force|force]], or [[e/_efficacy|efficacy]] to [[a/_achieve|achieve]] the purpose; [[a/_availing|availing]], [[e/_effective|effective]].**
 - **[[f/_free|Free]] to [[m/_meet|meet]] someone, speak on the telephone, [[e/_enter|enter]] a romantic relationship or the [[l/_like|like]].**
 	- _Example: Hi, this is Mark Smith calling. Is your mother available?_
 ---

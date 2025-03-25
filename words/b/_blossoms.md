@@ -5,7 +5,7 @@
 	- _Example: The blossom has come early this year._
 - **The state or season of producing such [[f/_flowers|flowers]].**
 	- _Example: The orchard is in blossom._
-- **A [[b/_blooming|blooming]] period or stage of [[d/_development|development]]; something [[l/_lovely|lovely]] that [[g/_gives|gives]] rich promise.**
+- **A [[b/_blooming|blooming]] [[p/_period|period]] or stage of [[d/_development|development]]; something [[l/_lovely|lovely]] that [[g/_gives|gives]] rich promise.**
 - **The [[c/_colour|colour]] of a [[h/_horse|horse]] that [[h/_has|has]] white [[h/_hairs|hairs]] [[i/_intermixed|intermixed]] with sorrel and [[b/_bay|bay]] [[h/_hairs|hairs]].**
 ---
 #verb

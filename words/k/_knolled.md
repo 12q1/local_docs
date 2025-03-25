@@ -5,6 +5,6 @@
 - **To sound, [[l/_like|like]] a [[b/_bell|bell]]; to [[k/_knell|knell]].**
 ---
 #verb
-- **To [[a/_arrange|arrange]] related [[o/_objects|objects]] in parallel or at 90 [[d/_degree|degree]] [[a/_angles|angles]].**
+- **To [[a/_arrange|arrange]] related [[o/_objects|objects]] in [[p/_parallel|parallel]] or at 90 [[d/_degree|degree]] [[a/_angles|angles]].**
 ---
 ---

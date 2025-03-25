@@ -1,7 +1,7 @@
 # Offshore
 ---
 #noun
-- **An [[a/_area|area]] or or portion of sea [[a/_away|away]] from the shore.**
+- **An [[a/_area|area]] or or [[p/_portion|portion]] of sea [[a/_away|away]] from the shore.**
 - **An [[i/_island|island]], [[o/_outcrop|outcrop]], or [[o/_other|other]] [[l/_land|land]] [[a/_away|away]] from shore.**
 - **Something or someone in, from, or [[a/_associated|associated]] with [[a/_another|another]] [[c/_country|country]].**
 ---

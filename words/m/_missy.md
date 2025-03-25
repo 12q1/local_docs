@@ -6,6 +6,6 @@
 ---
 #adjective
 - **[[g/_girlish|Girlish]]; [[e/_effeminate|effeminate]]; sentimental.**
-- **Of, or pertaining to, [[f/_female|female]] [[c/_clothing|clothing]] or [[c/_clothing|clothing]] sizes.**
+- **Of, or [[p/_pertaining|pertaining]] to, [[f/_female|female]] [[c/_clothing|clothing]] or [[c/_clothing|clothing]] sizes.**
 ---
 ---

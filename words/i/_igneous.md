@@ -1,7 +1,7 @@
 # Igneous
 ---
 #adjective
-- **Pertaining to or [[h/_having|having]] the [[n/_nature|nature]] of [[f/_fire|fire]]; [[c/_containing|containing]] [[f/_fire|fire]]; resembling [[f/_fire|fire]].**
+- **[[p/_pertaining|Pertaining]] to or [[h/_having|having]] the [[n/_nature|nature]] of [[f/_fire|fire]]; [[c/_containing|containing]] [[f/_fire|fire]]; resembling [[f/_fire|fire]].**
 	- _Example: The stone had an igneous appearance._
 - **Resulting from, or produced by, [[g/_great|great]] [[h/_heat|heat]]. With rocks, it [[c/_could|could]] [[a/_also|also]] [[m/_mean|mean]] [[f/_formed|formed]] from [[l/_lava|lava]] or [[m/_magma|magma]].**
 	- _Example: Granite and basalt are igneous rocks._

@@ -2,7 +2,7 @@
 ---
 #noun
 - **A termination or [[c/_conclusion|conclusion]].**
-- **The [[l/_last|last]] part of something.**
+- **The [[l/_last|last]] [[p/_part|part]] of something.**
 - **([[g/_grammar|grammar]]) The [[l/_last|last]] [[m/_morpheme|morpheme]] of a word, [[a/_added|added]] to some [[b/_base|base]] to [[m/_make|make]] an [[i/_inflected|inflected]] [[f/_form|form]] (such as -[[i/_ing|ing]] in "[[e/_ending|ending]]").**
 ---
 ### Synonyms
